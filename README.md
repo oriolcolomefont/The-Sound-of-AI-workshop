@@ -3,6 +3,8 @@
 Repo: https://github.com/danigb/symbolic-soroll
 Google doc: https://docs.google.com/document/d/12YW3WwS4il5bFIiHNfAnDf-tTJOX63ysJp1wR8yezyU/edit
 
+https://michaeleskin.com/abctools/abctools.html
+
 ## Plan
 
 Monday:

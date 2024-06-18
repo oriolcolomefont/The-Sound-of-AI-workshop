@@ -201,7 +201,6 @@ def visualize_melody(melody):
 def convert_stream_to_notes_and_durations(score):
     notes_and_durations = []
 
-
     for elem in score:
         duration = float(elem.duration.quarterLength)
         if duration not in VALID_DURATIONS:
