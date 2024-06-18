@@ -3,7 +3,7 @@ import random
 import numpy as np
 from music21 import converter, metadata, note, stream
 
-GENERATIONS = 10
+GENERATIONS = 100
 MELODY_LENGTH = 100
 VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
@@ -68,10 +68,11 @@ def convert_melody_to_abc(iter_num, notes_and_durations):
     return abc_score
 
 class MarkovChain:
-    def __init__(self, unique_events):
+    def __init__(self, unique_events, initial_probability):
         number_of_events = len(unique_events)
         self.unique_events = unique_events
-        self.matrix = np.full((number_of_events, number_of_events), 1)
+        self.matrix = np.full((number_of_events, number_of_events), initial_probability)
+        self.event_to_index = {event: i for (i, event) in enumerate(unique_events)} 
         
     def normalize_matrix(self):
         row_sums = self.matrix.sum(axis=1)
@@ -85,12 +86,11 @@ class MarkovChain:
 
     def generate_melody(self, events, number_of_events):
         first_element = random.choice(events)
-        event_to_index = {event: i for (i, event) in enumerate(events)} 
-        available_indexes = list(event_to_index.values())
+        available_indexes = list(self.event_to_index.values())
         melody = [first_element]
         for _ in range(1, number_of_events):
             last_event = melody[-1]
-            last_event_index = event_to_index[last_event]
+            last_event_index = self.event_to_index[last_event]
             current_row = self.matrix[last_event_index]
             next_index = np.random.choice(
                 available_indexes,
@@ -102,13 +102,24 @@ class MarkovChain:
 
         return melody
 
+    def train(self, events):
+        for i in range(0, len(events) - 1):
+            current_event = events[i]
+            next_event = events[i + 1]
+            current_index = self.event_to_index[current_event]
+            next_index = self.event_to_index[next_event]
+            self.matrix[current_index, next_index] += 1
+
+
 
 def main(input_file):
     score = converter.parse(input_file)
     notes_and_rests = score_to_notes_and_rests(score.flatten())
     events = convert_notes_and_rests_to_events(notes_and_rests)
     unique_events = list(set(events))
-    markov = MarkovChain(unique_events)
+    markov = MarkovChain(unique_events, 0.1)
+
+    markov.train(events)
     markov.normalize_matrix()
 
     number_of_events = MELODY_LENGTH
@@ -117,7 +128,7 @@ def main(input_file):
         iter_num = i + 1
         melody = markov.generate_melody(unique_events, number_of_events)
         abc = convert_melody_to_abc(iter_num, melody)
-        with open(f"output/markov-random-{iter_num}.abc", "w") as file:
+        with open(f"output/markov-learn-{iter_num}.abc", "w") as file:
             file.write(abc)
 
 if __name__ == "__main__":

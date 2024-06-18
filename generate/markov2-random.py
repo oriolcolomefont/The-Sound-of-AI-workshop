@@ -3,7 +3,7 @@ import random
 import numpy as np
 from music21 import converter, metadata, note, stream
 
-GENERATIONS = 10
+GENERATIONS = 100
 MELODY_LENGTH = 100
 VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
