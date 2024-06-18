@@ -35,7 +35,7 @@ python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal music
 python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal text -key_modal music -top_n 100
 ```
 
-#### Text-to-music
+### Text-to-music
 
 ```bash
 
@@ -43,4 +43,14 @@ python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal text 
 cd text-to-music
 
 python run_inference.py -num_tunes 3 -max_length 1024 -top_p 0.9 -temperature 1.0 -seed 0
+```
+
+### Sonify-abc
+
+```bash
+
+# optional: edit input_text.txt
+cd generate
+
+python sonifyabc.py {input_folder} {output_folder} {midi_folder} {soundfont_file}
 ```
