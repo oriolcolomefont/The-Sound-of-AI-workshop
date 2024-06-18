@@ -4,7 +4,7 @@ PROB_REST = 0.2  # Probability of generating a rest
 MIN_BARS = 8     # Minimum number of bars in a melody
 MAX_BARS = 32    # Maximum number of bars in a melody
 BEATS_PER_BAR = 4  # Beats per bar, assuming 4/4 time signature
-GENERATIONS = 100  # Number of melodies to generate
+GENERATIONS = 1000  # Number of melodies to generate
 
 def generate_random_abc(iter):
     # Define musical elements

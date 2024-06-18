@@ -7,7 +7,7 @@ def generate_random_abc(iter, number_of_items):
     notes = ['C', 'D', 'E', 'F', 'G', 'A', 'B']
     durations = ['1', '2', '4', '8', '16']
     accidentals = ['=', '^', '_']
-    octaves = [",", "", "'"]
+    octaves = [",", "", "", "", "'"]
 
     abc_notes = []
     for _ in range(number_of_items):
