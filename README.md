@@ -1,6 +1,19 @@
 # Symbolic Soroll
 
 Repo: https://github.com/danigb/symbolic-soroll
+Google doc: https://docs.google.com/document/d/12YW3WwS4il5bFIiHNfAnDf-tTJOX63ysJp1wR8yezyU/edit
+
+## Plan
+
+Monday:
+
+- Setup python
+
+Tuesday:
+
+- Finish python setup
+- Generate abc random melodies
+- Find similar melody inside the random melodies
 
 ## Setup
 

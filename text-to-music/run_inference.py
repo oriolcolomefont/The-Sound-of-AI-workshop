@@ -1,11 +1,13 @@
-import os
-import time
-import torch
-import random
 import argparse
+import os
+import random
+import time
+
+import torch
+from samplings import temperature_sampling, top_p_sampling
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from unidecode import unidecode
-from samplings import top_p_sampling, temperature_sampling
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
+
 
 def generate_abc(args):
 
@@ -70,7 +72,7 @@ def generate_abc(args):
                                                                 return_probs=True),
                                             seed=n_seed,
                                             temperature=temperature)
-            decoder_input_ids = torch.cat((decoder_input_ids, torch.tensor([[sampled_id]])), 1)
+            decoder_input_ids = torch.cat((decoder_input_ids, torch.tensor([[int(sampled_id)]])), 1)
             if sampled_id!=eos_token_id:
                 sampled_token = tokenizer.decode([sampled_id])
                 print(sampled_token, end="")
