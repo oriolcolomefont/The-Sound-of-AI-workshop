@@ -125,7 +125,7 @@ def load_music(filename):
         music (str): Music string
     """
     #p = subprocess.Popen('cmd /u /c python inference/xml2abc.py -m 2 -c 6 -x "'+filename+'"', stdout=subprocess.PIPE)
-    subprocess.Popen("python ./inference/xml2abc.py", shell=True)
+    # subprocess.Popen("python ./inference/xml2abc.py", shell=True)
     p = subprocess.Popen('python ./inference/xml2abc.py -m 2 -c 6 -x ./'+filename, stdout=subprocess.PIPE, shell=True)
     
     result = p.communicate()
