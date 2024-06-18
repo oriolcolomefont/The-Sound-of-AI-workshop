@@ -2,5 +2,5 @@
 __pycache__
 .DS_Store
 music_keys
-cache
+cache*
 sander-wood

@@ -2,7 +2,6 @@ import argparse
 import subprocess
 
 from transformers import AutoTokenizer
-
 from utils import *
 
 if torch.cuda.is_available():    
@@ -127,7 +126,7 @@ def load_music(filename):
     """
     #p = subprocess.Popen('cmd /u /c python inference/xml2abc.py -m 2 -c 6 -x "'+filename+'"', stdout=subprocess.PIPE)
     #subprocess.Popen("python /Users/danigb/GenMusic/muzic/clamp/inference/xml2abc.py", shell=True)
-    p = subprocess.Popen('python /Users/danigb/GenMusic/muzic/clamp/inference/xml2abc.py -m 2 -c 6 -x /Users/danigb/GenMusic/muzic/clamp/'+filename+'', stdout=subprocess.PIPE, shell=True)
+    p = subprocess.Popen('python ./inference/xml2abc.py -m 2 -c 6 -x ./'+filename+'', stdout=subprocess.PIPE, shell=True)
     
     result = p.communicate()
     output = result[0].decode('utf-8').replace('\r', '')
