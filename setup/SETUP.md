@@ -10,7 +10,7 @@ conda env create -f setup/conda.yml
 
 2. Check and install pip dependencies `setup/pip-requirements.txt`
 
-3. You have to download this file: https://github.com/microsoft/muzic/blob/main/clamp/inference/music_keys/music_keys.zip and unzip inside `clamp/cache/music_keys`
+3. You have to download this file: https://github.com/microsoft/muzic/blob/main/clamp/inference/music_keys/music_keys.zip and unzip inside `clamp/music_keys`
 
 4. Cross fingers 🤞
 

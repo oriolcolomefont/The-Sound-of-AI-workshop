@@ -1,5 +1,7 @@
 # Symbolic Soroll
 
+Repo: https://github.com/danigb/symbolic-soroll
+
 ## Setup
 
 See `setup/SETUP.md`
@@ -13,5 +15,6 @@ conda activate soroll
 ### Clamp
 
 ```bash
-python clamp/clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal text -key_modal music -top_n 100
+cd clamp
+python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal text -key_modal music -top_n 100
 ```
