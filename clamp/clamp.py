@@ -124,15 +124,26 @@ def load_music(filename):
     Returns:
         music (str): Music string
     """
+    with open(filename, 'r', encoding='utf-8') as f:
+        music = f.read()
+
     #p = subprocess.Popen('cmd /u /c python inference/xml2abc.py -m 2 -c 6 -x "'+filename+'"', stdout=subprocess.PIPE)
     # subprocess.Popen("python ./inference/xml2abc.py", shell=True)
-    p = subprocess.Popen('python ./inference/xml2abc.py -m 2 -c 6 -x ./'+filename, stdout=subprocess.PIPE, shell=True)
+    #p = subprocess.Popen('python ./inference/xml2abc.py -m 2 -c 6 -x ./'+filename, stdout=subprocess.PIPE, shell=True)
     
-    result = p.communicate()
-    output = result[0].decode('utf-8').replace('\r', '')
-    music = unidecode(output).split('\n')
-    music = abc_filter(music)
+    #result = p.communicate()
+    #output = result[0].decode('utf-8').replace('\r', '')
+    #music = unidecode(output)
 
+
+    # write the music to a file inside ./inference/output_abc
+    # base_filename = filename.split("/")[-1].replace(".mxl", "")
+    # with open(f"inference/output_abc/{base_filename}.abc", 'w', encoding='utf-8') as f:
+    #     f.write(music)
+    
+    # music = abc_filter(music.split('\n'))
+    # with open(f"inference/output_abc/{base_filename}-clean.abc", 'w', encoding='utf-8') as f:
+    #     f.write(music)
     return music
 
 
@@ -186,7 +197,8 @@ if __name__ == "__main__":
         for root, dirs, files in os.walk("inference/music_keys"):
             for file in files:
                 filename = root+"/"+file
-                if filename.endswith(".mxl"):
+                # if filename.endswith(".mxl"):
+                if filename.endswith(".abc"):
                     key_filenames.append(filename)
         print("Loading music...")
 
