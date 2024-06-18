@@ -54,22 +54,16 @@ def sonify_abc(abc_string, midi_file, soundfont_file, output_wav_file):
 # Function to parse arguments from command line and call the main function
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Sonify ABC notation files')
-    parser.add_argument('input_folder', help='Input folder containing ABC files')
-    parser.add_argument('output_folder', help='Output folder to save WAV files')
-    parser.add_argument('midi_folder', help='MIDI folder to save MIDI files')
-    parser.add_argument('soundfont_file', help='Path to the SoundFont file')
+    parser.add_argument('--input_folder', '-i', help='Input folder containing ABC files', default='input')
+    parser.add_argument('--output_folder', '-o', help='Output folder to save WAV files', default='output')
+    parser.add_argument('--midi_folder', '-m', help='MIDI folder to save MIDI files', default='midi')
+    parser.add_argument('--soundfont_file', '-so', help='Path to the SoundFont file', default='SGM-v2.01-NicePianosGuitarsBass-V1.2.sf2')
     args = parser.parse_args()
     sonify_all_files(args.input_folder, args.midi_folder, args.output_folder, args.soundfont_file)
 
-# Sonify all files in the input folder
-input_folder = 'input'
-output_folder = 'output'
-midi_folder = 'midi'
-soundfont_file = 'SGM-v2.01-NicePianosGuitarsBass-V1.2.sf2'
-
 # Main function
 def main():
-    sonify_all_files(input_folder, midi_folder, output_folder, soundfont_file)
+    parse_arguments()
 
 if __name__ == '__main__':
     main()
