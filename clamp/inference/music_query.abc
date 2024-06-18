@@ -1,41 +1,14 @@
 X:1
-T:I Got Rhythm
-C:George Gershwin
-Z:All Rights Reserved
 L:1/8
-Q:1/4=2
+Q:1/4=120
 M:4/4
-K:Bb
-V:1 treble nm="Voice"
-V:1
-"Gm""_Lively" d d2 d f2 e2 |"D7" d2 D6 ||"Gm""^A" B2 G2 B4 |"Cm" c2 c4 G2 |"Gm6" B2 G2 B4 | %5
-w: ||Days can be|sun- ny, With|nev- er a|
-"Eb7" _d8 |"Gm" B2 G2"Eb" B4 |"Gm6" d2 d4"Em6" B2 |"Gm""Dm7""Gm" G8- |"Dm7" G6"Gm" z2 | B2 G2 B4 | %11
-w: sigh,|Don't need what|mon- ey can|buy.|_|Birds in the|
-"Cm" c2 c4 G2 |"Gm6" B2 G2 B4 |"Eb7" _d8 |"Gm" B2 G2"Gm7" B4 |"Cm7" d2 d4"F7" d2 | %16
-w: tree sing their|day- ful of|song,|Why should- n't|we sing a-|
-"Bb""Fm7""^B" B8- |"Fm7""Bb" B6 z2 |"D" d2 z2"D7" D2 D2 |"F+" F2 F2"D7" D4 |"Cm7" E2 F2 G2 B2 | %21
-w: long?|_|I'm chip- per|all the day,|Hap- py with my|
-"Eb7" _d8 |"D" d2 z2"D7" D2 D2 |"F+" F2 F2"D7" D4 |"Cm7" E2 F2 G2 B2 |"F7" c8 | %26
-w: log.|How do I|get that way?|Look at what I've|got;|
-"Edim" f f2 f"Gb7" _a2 _g2 |"F7""Bbm6""Ddim""F7" f8 |: %28
-w: ||
-"Bb""^B"[Q:1/4=2]"_With Abandon" z2 F2- F"Bb6" G3 |"Cm7" B3 c-"F7" c4 |"Bb6" z2 c2- c"Edim" B3 | %31
-w: I _ got|rhy- thm, _|I _ got|
-"Cm7" G3 F-"F7" F4 |"Bb" z2 F2- F"Bb6" G3 |"Cm7" B3"F7" c z e z"Em6" c |"Bb" d2 d2"F7" cdcB- | %35
-w: mu sic, *||my man, who could|ask for a- ny- thing more?|
-"Bb""C#dim""F7" B8 ||"Bb" z2 F2- F"Bb6" G3 |"Cm7" B3 c-"F7" c4 |"Bb6" z2 c2- c"Edim" B3 | %39
-w: |I _ got|dai sies *|In _ green|
-"Cm7" G3 F-"F7" F4 |"Bb" z2 F2- F"Bb6" G3 |"Cm7" B3"F7" c z e z"Em6" c |"Bb" d2 d2"F7" cd c2 | %43
-w: pas- tures, _|I _ got|my man, who could|ask for a- ny- thing|
-"Bb" B8 ||"D7""^C" z2 d2- d"Am7" d3 |"Fm6" d3 =e-"D7" e4 |"G" z2 d2- d"D+" d3 |"Dm" d3 G-"G7" G4 | %48
-w: more?|Old * Man|Troub- le, _|I _ Don't|mind him, *|
-"C7" z2 c2- c"Gm7" c3 |"Ebm6" c3 d-"C9" d4 |"C7b5" z2 c2- c c3 |"F7""C7""F7" c8 || %52
-w: You _ won't|find him _|'Round _ my|door.|
-"Bb" z2 F2- F"Bb6" G3 |"Cm7" B3 c-"F7" c4 |"Bb6" z2 c2- c"Edim" B3 |"Cm7" G3 F-"F7" F4 | %56
-w: I _ got|star- light, *|I _ got|sweet dreams, _|
-"Bb" z2 F2- F"Bb6" G3 |"Cm7" B3 c-"F7" c e2"Ebm" c |"Bb" d2 d2"Fm" cd c2 |"G7" f6 eB | %60
-w: I _ got|my man _ Who could|ask for a ny thing|more, Who could|
-"C7" d2 d2"F7" cd c2 |1"Bb""Ab""Gb""Db" B8 ||2"Bb" B6 z2 |] %63
-w: ask for an- y- thing|more?|more?|
+K:F
+A, |"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, | 
+"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A4 |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z2 z A, | 
+"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, | (3B,"Eb7"_DF c4 BF | %14
+"Dm" ^G A3- A3 A |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D6 A2 |"Am7b5" c4 A3 G | 
+ ^F2"D7b9" _ed- d2 cA |"Gm" B G2 ^F- FGAG- | G4 z4 |"Gm7b5" B4 G3 F | E2"C7b9" _dc- c2 B^G | 
+"F6" A3 F G2 FE- |"Em7b5" E4"A7b9" z2 z A, |"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, | 
+"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, | (3B,"Eb7"_DF c4 BF |"Dm" ^G A3- A4 | 
+"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z4 |
 
