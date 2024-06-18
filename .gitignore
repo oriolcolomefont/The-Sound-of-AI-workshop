@@ -1,7 +1,8 @@
 .vscode
 __pycache__
 .DS_Store
-music_keys
+music_keys*
 cache*
 sander-wood
 output*
+*.sf2

@@ -3,6 +3,7 @@ import sys
 import numpy as np
 from music21 import converter, metadata, note, stream
 
+GENERATIONS = 10
 VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
 
@@ -24,6 +25,7 @@ class MarkovChainMelodyGenerator:
         self.initial_probabilities = np.zeros(len(states))
         self.transition_matrix = np.zeros((len(states), len(states)))
         self._state_indexes = {state: i for (i, state) in enumerate(states)}
+        print(self.states)
 
     def train(self, notes_and_durations):
         """
@@ -213,36 +215,6 @@ def convert_stream_to_notes_and_durations(score):
     return notes_and_durations
 
 
-def main(file_name):
-    """Main function for training the chain, generating a melody, and
-    visualizing the result."""
-
-    # read a file
-    score = converter.parse(file_name).flatten()
-
-    notes_and_rests = [elem for elem in score if isinstance(elem, (note.Note, note.Rest))]
-
-
-    # Convert notes and rest into a list of tuples (pitch, duration) with rest represeted with an R
-    notes_rest_and_durations = convert_stream_to_notes_and_durations(notes_and_rests)
-
-    # We need to find unique occurrences inside notes_rest_and_durations
-    unique_notes_and_durations = list(set(notes_rest_and_durations))
-
-    # Sort by the first element of the tuple
-    unique_notes_and_durations.sort(key=lambda x: x[0])
-
- 
-    model = MarkovChainMelodyGenerator(unique_notes_and_durations)
-    model.train(notes_rest_and_durations)
-
-    generated_melody = model.generate(40)
-
-    for i in range(1000):
-        iter = i + 1
-        abc_melody = convert_to_abc(iter, generated_melody)
-        with open(f"output/markov-{iter}.abc", "w") as file:
-            file.write(abc_melody)
 
 
 
@@ -272,12 +244,49 @@ def convert_to_abc(iter, notes_and_durations):
         if note == "R":
             abc_notes.append(f"z{duration}")
         else:
-            abc_notes.append(f"{note}{duration}")
+            note_without_octave = note[:-1]
+            letter = note[0] 
+            accidental = note_without_octave[1] if len(note_without_octave) > 1 else ""
+            accidental = accidental.replace("#", "^")
+            abc_note = f"{accidental}{letter}{duration}"
+            abc_notes.append(abc_note)
 
     abc_score = abc_header + " ".join(abc_notes)
     return abc_score
 
+def main(file_name):
+    """Main function for training the chain, generating a melody, and
+    visualizing the result."""
+
+    # read a file
+    score = converter.parse(file_name).flatten()
+
+    notes_and_rests = [elem for elem in score if isinstance(elem, (note.Note, note.Rest))]
+
+
+    # Convert notes and rest into a list of tuples (pitch, duration) with rest represeted with an R
+    notes_rest_and_durations = convert_stream_to_notes_and_durations(notes_and_rests)
+
+    # We need to find unique occurrences inside notes_rest_and_durations
+    unique_notes_and_durations = list(set(notes_rest_and_durations))
+
+    # Sort by the first element of the tuple
+    unique_notes_and_durations.sort(key=lambda x: x[0])
+
+ 
+    model = MarkovChainMelodyGenerator(unique_notes_and_durations)
+    model.train(notes_rest_and_durations)
+
+    generated_melody = model.generate(40)
+
+    for i in range(GENERATIONS):
+        iter = i + 1
+        abc_melody = convert_to_abc(iter, generated_melody)
+        with open(f"output/markov-{iter}.abc", "w") as file:
+            file.write(abc_melody)
+
 
 if __name__ == "__main__":
-    file_name = sys.argv[1]
+    #file_name = sys.argv[1]
+    file_name = "markov.mxl"
     main(file_name)

@@ -182,7 +182,7 @@ def get_features(ids_list, modal):
 if __name__ == "__main__":
     # load query
     if QUERY_MODAL=="music":
-        query = load_music("inference/music_query.mxl")
+        query = load_music("inference/music_query.abc")
     else:
         with open("inference/text_query.txt", 'r', encoding='utf-8') as f:
             query = f.read()

@@ -27,12 +27,15 @@ conda activate soroll
 
 ### Clamp
 
+https://github.com/microsoft/muzic/tree/main/clamp
+
 ```bash
 cd clamp
 # First
 python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal music -key_modal text -top_n 100
-# Second
-python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal text -key_modal music -top_n 100
+
+# Find similar melodies (specified inside music_keys) of a given melody (specified in music_query.abc)
+python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal music -key_modal music -top_n 3
 ```
 
 ### Text-to-music
@@ -43,6 +46,12 @@ python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal text 
 cd text-to-music
 
 python run_inference.py -num_tunes 3 -max_length 1024 -top_p 0.9 -temperature 1.0 -seed 0
+```
+
+### mxl to abc
+
+```bash
+python inference/xml2abc.py -m 2 -c 8 -x input.mxl > inference/music_query.abc
 ```
 
 ### Sonify-abc
