@@ -3,7 +3,7 @@ import random
 import numpy as np
 from music21 import converter, metadata, note, stream
 
-GENERATIONS = 100
+GENERATIONS = 10
 MELODY_LENGTH = 100
 VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
@@ -161,9 +161,10 @@ def main(input_file):
         iter_num = i + 1
         melody = markov.generate_melody(unique_events, number_of_events)
         abc = convert_melody_to_abc(iter_num, melody)
-        with open(f"output/markov-learn-{iter_num}.abc", "w") as file:
+        with open(f"output/markov-learn-extended-{iter_num}.abc", "w") as file:
             file.write(abc)
 
+
 if __name__ == "__main__":
-    file_name = "markov.mxl"
+    file_name = "Africa.mxl"
     main(file_name)
