@@ -11,5 +11,5 @@ def get_absolute_path_from_relative_to_source(relative_path):
 
 
 
-def create_uuid():
-    return hashlib.sha256(datetime.datetime.now().isoformat().encode()).hexdigest()[:32]
+def create_uuid(data):
+    return hashlib.sha256(data.encode()).hexdigest()[:32]

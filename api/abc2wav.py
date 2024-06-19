@@ -14,9 +14,9 @@ def soundfont_file_path():
 def render_audio(input_file, output_file):
     with open(input_file, "r") as file:
         text = file.read()
-    render_abc(text, output_file)
+    render_abc_wav(text, output_file)
 
-def render_abc(abc_text, output_file):
+def render_abc_wav(abc_text, output_file):
     abc = remove_chords(abc_text)
     score = converter.parse(abc, format='abc')
     mf = midi.translate.music21ObjectToMidiFile(score)

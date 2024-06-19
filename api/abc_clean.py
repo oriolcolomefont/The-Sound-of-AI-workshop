@@ -106,7 +106,9 @@ def convert_melody_to_abc(iter_num, notes_and_durations):
     abc_score = abc_header + " ".join(abc_notes)
     return abc_score
 
-
+# Used by the API
+def clean_abc(abc_text):
+    return remove_chords(abc_text)
 
 def main(file_name):
     with open(file_name, "r") as file:
