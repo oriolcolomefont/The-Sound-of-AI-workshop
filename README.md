@@ -21,6 +21,28 @@ Tuesday:
 
 See `setup/SETUP.md`
 
+## Application
+
+Client (web using [next](https://nextjs.org/docs/getting-started/installation)):
+
+```bash
+cd client
+# Install dependencies only once
+npm install
+# Start the client
+npm run dev
+```
+
+API (server using [FastAPI](https://fastapi.tiangolo.com/))
+
+```bash
+cd api
+# Install dependencies only once
+pip install fastapi
+# Start the server
+fastapi dev main.py
+```
+
 ## Usage
 
 ```bash

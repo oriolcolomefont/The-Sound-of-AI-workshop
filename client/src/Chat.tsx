@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Spinner } from "./Spinner";
-import { QueryMessage, useChatStore } from "./app/chat-store";
+import { QueryMessage, ResponseMessage, useChatStore } from "./app/chat-store";
 
 const SAMPLES = {
   tunisia: `X:1
@@ -34,8 +34,21 @@ export function Chat() {
               chats.sendRequest(message.id, request);
             }}
           />
+        ) : message.type === "response" ? (
+          <ChatResponse key={message.id} message={message} />
         ) : null
       )}
+    </div>
+  );
+}
+
+function ChatResponse({ message }: { message: ResponseMessage }) {
+  return (
+    <div className="flex flex-col gap-2">
+      <p>Response:</p>
+      <pre className="text-sm w-full p-2 bg-zinc-600 text-wrap">
+        {message.text}
+      </pre>
     </div>
   );
 }
