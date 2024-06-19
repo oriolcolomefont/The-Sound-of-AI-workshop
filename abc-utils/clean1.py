@@ -1,9 +1,67 @@
+import re
+import sys
+
 from music21 import converter, metadata, note, stream
 
-VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
-def clean_abc(text):
-    return text
+def remove_chords(abc_text):
+    # Regular expression to match chords in ABC notation
+    chord_pattern = re.compile(r'"[^"]*"|\[[^\]]*\]')
+    # Remove all chords from the text
+    filtered_text = re.sub(chord_pattern, '', abc_text)
+    # Remove any extra spaces introduced by the removal
+    #filtered_text = re.sub(r'\s+', ' ', filtered_text).strip()
+    return filtered_text
+
+def filter_abc_notes_and_rests_with_headers(abc_text):
+    # Split the text into lines
+    lines = abc_text.split('\n')
+    
+    # Separate headers and music lines
+    header_lines = []
+    music_lines = []
+    header_detected = False
+    
+    for line in lines:
+        if re.match(r'^[A-Z]:', line):
+            header_detected = True
+            header_lines.append(line)
+        elif header_detected and not re.match(r'^[A-Z]:', line):
+            music_lines.append(line)
+    
+    # Regular expression to match ABC notes and rests
+    note_pattern = re.compile(r'[\^_=]?[A-Ga-gz](?:\d+|\/\d+|\/)?')
+    note_pattern = re.compile(r'[\^_=]?[A-Ga-gz](?:\d+|\/\d+|\/)?|[\^_=]?[A-Ga-g][,\'\/\d]*|[\^_=]?z[,\'\/\d]*|\(\d?')
+
+    
+    # Filter notes and rests from the music lines
+    filtered_music_lines = []
+    for line in music_lines:
+        notes_and_rests = note_pattern.findall(line)
+        filtered_line = ' '.join(notes_and_rests)
+        filtered_music_lines.append(filtered_line)
+    
+    # Combine header lines and filtered music lines
+    filtered_text = '\n'.join(header_lines + filtered_music_lines)
+    
+    return filtered_text
+
+
+def filter_abc_notes_and_rests(abc_text):
+    # Regular expression to match ABC notes and rests
+    # Notes: A-G, a-g, and their corresponding accidentals (^, _, =)
+    # Rests: z (rest), x (space)
+    # Optionally followed by digits or slashes for length
+    note_pattern = re.compile(r'[\^_=]?[A-Ga-gz](?:\d+|\/\d+|\/)?')
+    
+    # Find all matches in the text
+    notes_and_rests = note_pattern.findall(abc_text)
+    
+    # Join the matches into a single string
+    filtered_text = ' '.join(notes_and_rests)
+    
+    return filtered_text
+
 
 def score_to_notes_and_rests(score):
     notes_and_rests = [elem for elem in score if isinstance(elem, (note.Note, note.Rest))]
@@ -14,9 +72,7 @@ def convert_notes_and_rests_to_events(notes_and_rests):
     notes_and_durations = []
 
     for elem in notes_and_rests:
-        duration = float(elem.duration.quarterLength)
-        if duration not in VALID_DURATIONS:
-            duration = min(VALID_DURATIONS, key=lambda x: abs(x - duration))
+        duration = round(float(elem.duration.quarterLength), 3)
 
         if isinstance(elem, note.Note):
             notes_and_durations.append((elem.pitch.nameWithOctave, duration))
@@ -24,6 +80,7 @@ def convert_notes_and_rests_to_events(notes_and_rests):
             notes_and_durations.append(("R", duration))
 
     return notes_and_durations
+
 
 
 def convert_melody_to_abc(iter_num, notes_and_durations):
@@ -34,20 +91,8 @@ def convert_melody_to_abc(iter_num, notes_and_durations):
         f"K:C\n"  # Key signature
     )    
 
-    VALID_DURATIONS_TO_ABC = {
-        4.0: "4",
-        2.0: "2",
-        1.0: "",
-        0.5: "/2",
-        0.25: "/4",
-        0.125: "/8",
-        0.0625: "/16",
-        0.03125: "/32",
-    }
-
     abc_notes = []
-    for note, abs_duration in notes_and_durations:
-        duration = VALID_DURATIONS_TO_ABC[abs_duration]
+    for note, duration in notes_and_durations:
         if note == "R":
             abc_notes.append(f"z{duration}")
         else:
@@ -66,13 +111,18 @@ def convert_melody_to_abc(iter_num, notes_and_durations):
 def main(file_name):
     with open(file_name, "r") as file:
         text = file.read()
-    score = converter.parse(text, format="abc")
-    notes_and_rests = score_to_notes_and_rests(score.flatten())
-    events = convert_notes_and_rests_to_events(notes_and_rests)
-    abc = convert_melody_to_abc(0, events)
+    # score = converter.parse(text, format="abc")
+    # notes_and_rests = score_to_notes_and_rests(score.flatten())
+    # events = convert_notes_and_rests_to_events(notes_and_rests)
+    # abc = convert_melody_to_abc(0, events)
+    # print(abc)
+    abc = remove_chords(text)
     print(abc)
 
 
 if __name__ == "__main__":
-    file_name = "input.abc"
+    if len(sys.argv) > 1:
+        file_name = sys.argv[1]
+    else:
+        file_name = "input.abc"
     main(file_name)

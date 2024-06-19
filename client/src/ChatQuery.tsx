@@ -59,7 +59,8 @@ function ChatQueryOpen({
           onChange={(e) => setText(e.target.value)}
         ></textarea>
         <button
-          className="bg-emerald-500 rounded px-4 py-2"
+          className="bg-emerald-500 rounded px-4 py-2 disabled:opacity-25"
+          disabled={text === ""}
           onClick={() => {
             onSend(text);
           }}

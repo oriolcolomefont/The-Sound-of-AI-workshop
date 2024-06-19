@@ -50,7 +50,7 @@ export const useChatStore = create<ChatStore>((set, get) => {
       message.request = request;
       message.working = true;
       set({ nextId: nextId + 1, messages });
-      fetch("/api/echo", {
+      fetch("/api/clean", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
