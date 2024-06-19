@@ -1,8 +1,8 @@
 "use client";
 import { useState } from "react";
+import { QueryMessage } from "../app/models";
+import { SAMPLES } from "../data";
 import { Spinner } from "./Spinner";
-import { QueryMessage } from "./app/chat-store";
-import { SAMPLES } from "./data";
 
 export function ChatQuery({
   message,
@@ -11,7 +11,7 @@ export function ChatQuery({
   message: QueryMessage;
   onSend: (text: string) => void;
 }) {
-  return message.request ? (
+  return message.prompt ? (
     <ChatQuerySent message={message} />
   ) : (
     <ChatQueryOpen message={message} onSend={onSend} />
@@ -21,11 +21,11 @@ export function ChatQuery({
 function ChatQuerySent({ message }: { message: QueryMessage }) {
   return (
     <div className="flex flex-col items-end">
-      <p>You:</p>
-      <pre className="text-sm w-5/6 p-2 bg-zinc-600 text-wrap">
-        {message.request}
+      <p className="text-xl">🫵 You</p>
+      <pre className="text-sm w-5/6 p-2 bg-zinc-600 text-wrap rounded">
+        {message.prompt}
       </pre>
-      {message.working ? <Spinner /> : null}
+      {message.working ? <Spinner className="mt-2" /> : null}
     </div>
   );
 }
@@ -40,17 +40,23 @@ function ChatQueryOpen({
   const [text, setText] = useState("");
   return (
     <div className="w-full flex flex-col gap-2">
-      <p>Write an abc melody:</p>
-      {text === "" ? (
-        <p>
-          Or choose a sample:{" "}
-          <button
-            className="p-1 bg-zinc-600 rounded"
-            onClick={() => setText(SAMPLES.tunisia)}
-          >
-            A night in tunisia
-          </button>
-        </p>
+      {message.input === "melody" ? (
+        <>
+          <p>Write an abc melody:</p>
+          {text === "" ? (
+            <p>
+              Or choose a sample:{" "}
+              <button
+                className="p-1 bg-zinc-600 rounded"
+                onClick={() => setText(SAMPLES.tunisia)}
+              >
+                A night in tunisia
+              </button>
+            </p>
+          ) : null}
+        </>
+      ) : message.input === "prompt" ? (
+        <p>How can I variate your melody?</p>
       ) : null}
       <div>
         <textarea

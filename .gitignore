@@ -6,3 +6,5 @@ cache*
 sander-wood
 output*
 *.sf2
+node_modules
+client/public/*.wav

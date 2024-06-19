@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect } from "react";
+import { useChatStore } from "../app/chat-store";
 import { ChatQuery } from "./ChatQuery";
 import { ChatResponse } from "./ChatResponse";
-import { useChatStore } from "./app/chat-store";
 
 export function Chat() {
   const chats = useChatStore();

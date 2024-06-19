@@ -1,23 +1,11 @@
 import { create } from "zustand";
-
-export type QueryMessage = {
-  id: number;
-  type: "query";
-  request?: string;
-  working?: boolean;
-};
-
-export type ResponseMessage = {
-  id: number;
-  type: "response";
-  text: string;
-};
-
-export type ChatMessage = QueryMessage | ResponseMessage;
+import { API } from "./api";
+import { ChatMessage, QueryMessage, ResponseMessage } from "./models";
 
 interface ChatStore {
   nextId: number;
   messages: ChatMessage[];
+  melody?: string;
   sendRequest(messageId: number, request: string): void;
 }
 const getQueryMessage = (id: number, messages: ChatMessage[]) => {
@@ -28,42 +16,56 @@ const getQueryMessage = (id: number, messages: ChatMessage[]) => {
 
 export const useChatStore = create<ChatStore>((set, get) => {
   const addResponse = (initiatorId: number, response: ResponseMessage) => {
-    const { messages } = get();
+    const { messages, melody } = get();
+
+    const currentMelody = response.melody || melody;
 
     const initiator = getQueryMessage(initiatorId, messages);
     if (initiator) initiator.working = false;
 
-    const newQuery: QueryMessage = { id: response.id + 1, type: "query" };
+    const newQuery: QueryMessage = {
+      id: response.id + 1,
+      type: "query",
+      input: "prompt",
+    };
     const newMessages = [...messages, response, newQuery];
     const nextId = response.id + 2;
-    set({ nextId, messages: newMessages });
+    set({ nextId, messages: newMessages, melody: currentMelody });
   };
 
   return {
     nextId: 2,
-    messages: [{ id: 1, type: "query" }],
+    messages: [{ id: 1, type: "query", input: "melody" }],
 
-    sendRequest(messageId, request) {
-      const { nextId, messages } = get();
+    sendRequest(messageId, prompt) {
+      const { nextId, messages, melody } = get();
       const message = getQueryMessage(messageId, messages);
       if (!message) return;
-      message.request = request;
+      message.prompt = prompt;
       message.working = true;
       set({ nextId: nextId + 1, messages });
-      fetch("/api/clean", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(message),
-      })
-        .then((response) => response.json())
-        .then((data) => {
+
+      const sendRequest = message.input === "melody" ? API.clean : API.variate;
+
+      if (message.input === "melody") {
+        message.melody = message.prompt;
+      } else {
+        message.melody = melody;
+      }
+
+      sendRequest(message)
+        .then((response) => {
+          console.log({ response });
           message.working = false;
-          addResponse(messageId, data);
+          addResponse(messageId, response);
         })
         .catch((error) => {
-          console.error({ error });
+          message.working = false;
+          addResponse(messageId, {
+            id: message.id + 1,
+            type: "response",
+            error: error.message,
+          });
         });
     },
   };
