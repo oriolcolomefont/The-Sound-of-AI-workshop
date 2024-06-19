@@ -7,16 +7,29 @@ GENERATIONS = 100
 MELODY_LENGTH = 100
 VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
-
-
 def convert_notes_and_rests_to_events(notes_and_rests):
+    """
+    Converts a list of music notes and rests into a list of tuples representing
+    events with their durations.
+
+    Args:
+    - notes_and_rests (list): A list of music21 note and rest objects.
+
+    Returns:
+    - list: A list of tuples, where each tuple contains:
+        - For notes: (note name with octave, duration)
+        - For rests: ("R", duration)
+    """
     notes_and_durations = []
 
     for elem in notes_and_rests:
         duration = float(elem.duration.quarterLength)
+        
+        # Matching duration to closest valid duration from VALID_DURATIONS
         if duration not in VALID_DURATIONS:
             duration = min(VALID_DURATIONS, key=lambda x: abs(x - duration))
 
+        # Adding note or rest to the list with its adjusted duration
         if isinstance(elem, note.Note):
             notes_and_durations.append((elem.pitch.nameWithOctave, duration))
         elif isinstance(elem, note.Rest):
@@ -26,12 +39,32 @@ def convert_notes_and_rests_to_events(notes_and_rests):
 
 
 def score_to_notes_and_rests(score):
+    """
+    Extracts notes and rests from a music21 Score object and returns them as a list.
+
+    Args:
+    - score (music21.stream.Score): A music21 Score object containing musical elements.
+
+    Returns:
+    - list: A list of music21 note and rest objects extracted from the Score.
+    """
     notes_and_rests = [elem for elem in score if isinstance(elem, (note.Note, note.Rest))]
     return notes_and_rests
 
 
-
 def convert_melody_to_abc(iter_num, notes_and_durations):
+    """
+    Converts a list of notes and their durations into an ABC notation string.
+
+    Args:
+    - iter_num (int): Index for each generation, used in the ABC notation header.
+    - notes_and_durations (list): A list of tuples, where each tuple contains:
+        - For notes: (note name with octave, duration)
+        - For rests: ("R", duration)
+
+    Returns:
+    - str: A string representing the melody in ABC notation format.
+    """
     abc_header = (
         f"X:{iter_num + 1}\n"  # Index for each generation
         f"T:Markov-{iter_num + 1}\n"  # Title
@@ -66,6 +99,7 @@ def convert_melody_to_abc(iter_num, notes_and_durations):
 
     abc_score = abc_header + " ".join(abc_notes)
     return abc_score
+
 
 class MarkovChain:
     def __init__(self, unique_events, initial_probability):
