@@ -1,8 +1,10 @@
 import subprocess
 
+from abc2wav import render_abc
 from fastapi import APIRouter, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from utils import create_uuid, get_absolute_path_from_relative_to_source
 
 app = FastAPI()
 app.add_middleware(
@@ -12,6 +14,8 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+
 
 router = APIRouter()
 
@@ -41,10 +45,19 @@ def clean(query: QueryMessage):
         if result.returncode != 0:
             raise Exception(f"{result.stderr}")
 
+        random = create_uuid()
+        wav_file = f"../client/public/{random}.wav"
+        wav_output = get_absolute_path_from_relative_to_source(wav_file)
+        
+
+
+        render_abc(query.request, wav_output)
+
         return { 
             "type": "response", 
             "id": query.id + 1,
-            "text": result.stdout
+            "text": "Here's your melody:",
+            "wav": f"/{random}.wav"
         }
     except subprocess.CalledProcessError as e:
         print(e)

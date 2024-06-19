@@ -11,6 +11,7 @@ export type ResponseMessage = {
   id: number;
   type: "response";
   text: string;
+  wav?: string;
 };
 
 export type ChatMessage = QueryMessage | ResponseMessage;
@@ -57,10 +58,11 @@ export const useChatStore = create<ChatStore>((set, get) => {
         },
         body: JSON.stringify(message),
       })
-        .then((response) => response.json())
-        .then((data) => {
+        .then((httpResponse) => httpResponse.json())
+        .then((response) => {
+          console.log({ response });
           message.working = false;
-          addResponse(messageId, data);
+          addResponse(messageId, response);
         })
         .catch((error) => {
           console.error({ error });
