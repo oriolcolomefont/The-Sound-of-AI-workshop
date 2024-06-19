@@ -7,7 +7,6 @@ GENERATIONS = 10
 VALID_DURATIONS = [4.0, 2.0, 1.0, 0.5, 0.25, 0.125, 0.0625, 0.03125]
 
 
-
 class MarkovChainMelodyGenerator:
     """
     Represents a Markov Chain model for melody generation.
@@ -181,7 +180,6 @@ class MarkovChainMelodyGenerator:
         return self.transition_matrix[self._state_indexes[state]].sum() > 0
 
 
-
 def visualize_melody(melody):
     """
     Visualize a sequence of (pitch, duration) pairs using music21.
@@ -198,6 +196,7 @@ def visualize_melody(melody):
     score.append(part)
     score.show()
 
+
 def convert_stream_to_notes_and_durations(score):
     notes_and_durations = []
 
@@ -212,9 +211,6 @@ def convert_stream_to_notes_and_durations(score):
             notes_and_durations.append(("R", duration))
 
     return notes_and_durations
-
-
-
 
 
 def convert_to_abc(iter, notes_and_durations):
@@ -252,6 +248,7 @@ def convert_to_abc(iter, notes_and_durations):
 
     abc_score = abc_header + " ".join(abc_notes)
     return abc_score
+
 
 def main(file_name):
     """Main function for training the chain, generating a melody, and
