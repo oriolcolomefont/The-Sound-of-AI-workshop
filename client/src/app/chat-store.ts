@@ -33,8 +33,9 @@ export const useChatStore = create<ChatStore>((set, get) => {
     const initiator = getQueryMessage(initiatorId, messages);
     if (initiator) initiator.working = false;
 
-    const newMessages = [...messages, response];
-    const nextId = response.id + 1;
+    const newQuery: QueryMessage = { id: response.id + 1, type: "query" };
+    const newMessages = [...messages, response, newQuery];
+    const nextId = response.id + 2;
     set({ nextId, messages: newMessages });
   };
 
