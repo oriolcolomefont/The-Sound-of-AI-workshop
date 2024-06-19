@@ -1,4 +1,4 @@
-from music21 import converter, note, chord, stream
+from music21 import converter, note
 
 def filter_score(score):
     for part in score.parts:
@@ -19,7 +19,6 @@ def filter_score(score):
                     pass
 
 def main():
-    # Replace 'path_to_your_musicxml_file.xml' with your actual file path
     file_path = 'markov.mxl'
     
     # Load the MusicXML file into a Score object
