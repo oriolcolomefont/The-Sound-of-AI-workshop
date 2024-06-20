@@ -2,7 +2,7 @@ import os
 import re
 
 input_folder = './original-abc'
-output_folder = './clean1'
+output_folder = './no-headers-no-lyrics'
 
 files = [f for f in os.listdir(input_folder) if os.path.isfile(os.path.join(input_folder, f))]
 
