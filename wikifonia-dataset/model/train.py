@@ -34,10 +34,10 @@ from melodypreprocessor import MelodyPreprocessor
 from transformer import Transformer
 
 # Global parameters
-EPOCHS = 1
+EPOCHS = 10
 BATCH_SIZE = 32
 DATA_PATH = "dataset.json"
-MAX_POSITIONS_IN_POSITIONAL_ENCODING = 537
+MAX_POSITIONS_IN_POSITIONAL_ENCODING = 1000
 
 # Loss function and optimizer
 sparse_categorical_crossentropy = SparseCategoricalCrossentropy(
@@ -163,6 +163,7 @@ if __name__ == "__main__":
     train_dataset = melody_preprocessor.create_training_dataset()
     vocab_size = melody_preprocessor.number_of_tokens_with_padding
 
+    print("Creating Transformer model...")
     transformer_model = Transformer(
         num_layers=2,
         d_model=64,
@@ -174,6 +175,7 @@ if __name__ == "__main__":
         max_num_positions_in_pe_decoder=MAX_POSITIONS_IN_POSITIONAL_ENCODING,
         dropout_rate=0.1,
     )
+    print("Transformer model created.")
 
 
     train(train_dataset, transformer_model, EPOCHS)

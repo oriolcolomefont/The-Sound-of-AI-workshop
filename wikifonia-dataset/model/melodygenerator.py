@@ -1,7 +1,7 @@
 from melodypreprocessor import MelodyPreprocessor
 from transformer import Transformer
 
-MAX_POSITIONS_IN_POSITIONAL_ENCODING = 537
+MAX_POSITIONS_IN_POSITIONAL_ENCODING = 2343
 
 """
 melody_generator.py
