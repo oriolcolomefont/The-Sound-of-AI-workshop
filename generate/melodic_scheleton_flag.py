@@ -1,5 +1,6 @@
 from music21 import converter, note
 
+
 def flag_score(score):
     flag_array = []  # Initialize an empty list to store boolean values
     
@@ -17,7 +18,7 @@ def flag_score(score):
     return flag_array
 
 
-file_path = 'Africa.mxl'
+file_path = '/Users/oriolcolomefont/symbolic-soroll/wikifonia-dataset/original-abc/32Kombine.abc'
     
 # Load the MusicXML file into a Score object
 score = converter.parse(file_path)
