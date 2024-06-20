@@ -24,7 +24,7 @@ def process_abc_folder(folder_path, output_file):
     results = {}
 
     # Iterate through files in the folder
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(folder_path)[0:10]:
         if filename.endswith(".abc"):
             file_path = os.path.join(folder_path, filename)
             try:
