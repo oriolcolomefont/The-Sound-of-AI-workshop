@@ -1,0 +1,27 @@
+X:1
+T:Come To Me, Bend To Me
+T:Come To Me Bend To Me
+C:Frederick Loewe
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z3 B, FA |:"Bb7" G2 FB, FA | G2 FB, GB | A2 G2 F2 |"Eb" GE- EB, FA |"Bb7" G2 FB, FA | %6
+w: Be- cause they've|told me I can't be-|hold ye til wed- din'|mus- ic starts|play- in"; _ To ease my|long- in', there's noth- in'|
+w: |near me so ye can|hear me I've got to|whis- per this|soft- ly _ For though I'm|burn- in' to shout my|
+ G2 FD"Gm" Bd |"D7" c2 B2 =A2 |"Gm" B G3"Bb7" F2 ||"Eb" G3 B, B,2 |"Bb7" F3 B, B,2 |"Ab" E3 A B2 | %12
+w: wrong in me stand- in'|out here and|say- in': Oh|come to me,|bend to me,|kiss me good|
+w: yearn- in' the words comne|tip- toe- in'|off me. Oh,||||
+ c6 |"Cm" c3 G G2 |"Gm" B3 G G2 |"Eb" c2 B2 A2 |"Cm" G4"Bb7" F2 |"Eb" G3 B, B,2 |"Bb7" F3 B, B,2 | %19
+w: day!|Dar- lin', my|dar- lin', tis|all I can|say, just|Come to me,|bend to me,|
+w: |||||||
+"Ab" E2 A2 c2 |"F9" e6 |"Eb" e3 B"Bb7" B2 |"Ab" e3 d"Adim" c2 |"Eb" B2 e z"Bb7" F2 |1"Eb" E6- | %25
+w: kiss me good-|day!|Give me your|lips an' don't|take them a-|way.|
+w: ||||||
+ E2"^Tacet" z B, FA :|2"Eb" E6- | E6 |] %28
+w: * Come, dear- ie|way.|_|
+w: |||
+

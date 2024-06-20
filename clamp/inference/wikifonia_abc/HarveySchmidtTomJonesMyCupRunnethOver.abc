@@ -1,0 +1,28 @@
+X:1
+T:My Cup Runneth Over
+T:My Cup Runneth Over
+T:Harvey Schmidt
+T:Tom Jones
+C:Harvey Schmidt
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z e/f/ g |"Am" z e/f/ g |"Dm7" z e/f/ g/>g/ |"G7" g z G |:"C" E C G |"Am7" E C G |"Dm7" A G G | %7
+w: |||* Some|times in the|morn- ing when|shad- ows are|
+w: ||||times in the|ev- 'ning when|you do not|
+"G7" G2 G |"C" c d e |"Am" B G E |"Dm7" A G G |"G7" G2 G |"C" c d e |"Em" B G E |"Dm" F G A | %15
+w: deep, I|lie here be-|side you, just|watch- ing you|sleep. And|some- times I|whis- per what|I'm think- ing|
+w: see, I|stud- y the|small things you|do con- stant-|ly. I|mem- or- ize|mo- ments that|I'm fond- est|
+"Em" G2 G |"Dm7" E C G | (3^D/E/=D/ C C |1"C" C e/f/ g ||"Am" z e/f/ g |"Dm7" z e/f/ g/>g/ | %21
+w: of; My|Cup Run- neth|O- * * er with|love. * * *|||
+w: of; My|Cup Run- neth|O- * * er with||||
+"G7" (3f/g/f/ e G :|2"C" c e/f/ g ||"Am" z e/f/ g |"Dm7" z e/f/"G7" g/>g/ |"C" g3- | g z2 |] %27
+w: * * * * Some||||||
+w: |love. * * *|||||
+

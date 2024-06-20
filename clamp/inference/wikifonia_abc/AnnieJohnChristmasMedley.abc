@@ -1,0 +1,56 @@
+X:1
+T:Christmas Medley
+T:Christmas Medley
+T:©
+T:Christmas Medley
+T:2
+T:Christmas Medley
+T:3
+C:Annie & John
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ d c/>B/ A3/2 G/ | F E D3/2 A/ | B3/2 B/ c3/2 c/ | d4 || A A/B/- B/A/G/F/ | E G/B/- B3/2 D/ | %6
+w: Joy to the world the|Lord is come, let|earth receive _ her|King.|See him lying _ _ on a|bed of straw _ a|
+ C E/A/- A/G/F/E/ | D F/A/- A2 | A A/B/- B/A/G/F/ | E G/B/- B3/2 D/ | C E/A/- A/G/F/E/ | %11
+w: draughty _ stable _ _ with an|open _ door. _|Mary _ cradling _ _ _ the|babe she bore, _ the|Prince of glory _ _ is his|
+ !breath!D4 || D E F G | F E D2 | A A B c | d2 d2 | d e c d | B A A F | A G F E | D E F G | %20
+w: name.|Unto _ us a|Son is born,|King of all creation,||came he to a|world forlorn, _ the|Lord of every _|nation, _ _ the|
+ A G F E | D2 D2 ||[K:G] G F/G/ A G | c c B2 | E F G E | D D D2 || B2 B/A/G/E/ | D2 G2 | %28
+w: Lord of every _|nation. _|As with _ gladness _|men of old|did the guiding _|star behold. _|Go tell it on the|mountain _|
+ A/ A A/ G A | B d e d | B2 B/A/G/E/ | D2 G G | A c B A | !fermata!G3 || C |[K:F][M:3/4] F F G/A/ | %36
+w: over _ the hills and|everywhere _ _ _|Go tell it on the|mountain _ that|Jesus _ Christ is|born.|Away|_ in a _|
+ F F A/B/ | c c d | B2 G/A/ | B B c | A A F/A/ | G D F | E3 |[M:4/4] A c B A | G A G C | A c B A | %46
+w: manger _ no _|crib for a|bed, the _|little _ Lord|Jesus _ laid _|down his sweet|head.|we will rock you,|rock you, rock you,|we will rock you,|
+ G A G C- |[M:3/4] C2 C | F F G/A/ | F F A/B/ | c c d | B2 G/A/ | B B c | A A F/A/ | G D E | %55
+w: rock you, rock you|_ The|stars in the _|bright sky looked _|down where he|lay, the _|little _ Lord|Jesus _ asleep _|_ on the|
+ !fermata!F2 ||"^Allegro" F | F2 F | A2 B | c2 d | c2 c | F2 F | A2 B | c2 d | c3 | c2 d | c2 B | %67
+w: hay.|Good|Christian _|men rejoice|_ _|* with|heart, and|soul, and|voice. _||Give ye|heed to|
+ A2 G | F3 | F3 | F3 |"^rit." G2 G | A2 G | F2 G |[M:4/4] !fermata!A3 || F | F E F G | F2 C A | %78
+w: what we|say.|News,|news.|Jesus _|Christ is|born today||O|come let us adore|_ Him, O|
+ A G A B | A2 G A | B A G F | E2 F B | A2 G3/2 F/ | !breath!F4 || B B c/B/A/G/ | F3 F | G B B A | %87
+w: come, let us adore|_ Him, O|come let us adore|_ Him _|Christ _ the|Lord.|Ding, dong, merrily _ _ on|high, in|heaven the bells are|
+ B2 B2 | B B c/B/A/G/ | F3 F | G B B A | B2 !breath!B2 || A A A A/c/ | c3/2 B/ A F | %94
+w: ringing. _|Ding, dong, verily _ _ the|sky is|riven with angel _|singing. _|Angels _ from the _|realms of glory _|
+ A A/G/ A A/c/ | c3/2 B/ A2 | A A A A/c/ | c3/2 B/ A F | A A/G/ A A/c/ | c3/2 B/ !fermata!A2 || %100
+w: wing your _ flight oer _|all the earth.|Ye who sang creations _|_ _ story _|now proclaim _ _ Messiah's _|_ _ birth.|
+[K:C]"^A" C/C/ G/G/ c G- | G3 z/ G/ | A3/2 E/ E2 | G/A/ G/F/ E E/D/ | C C D C/D/ | !fermata!E4 || %106
+w: Do you see what I see?|_ A|star, a star|dancing _ in the night, with a|tail as big as a|kite.|
+[K:F] C F F3/2 E/ | F A A G | c c c3/2 B/ | A G !breath!A2 || c3/2 c/ B A | G F E2 | c3/2 c/ B A | %113
+w: Hark the herald _|angels _ sing _|glory _ to the|new born King.|Hail thou ever _|blessed _ morn|Hail redemption's _ _|
+ G F E2 | F3/2 G/ F E | D3/2 C/ C2 | c3/2 A/ F B | A G !breath!F2 ||[K:Bb] d d e3/2 e/ | %119
+w: happy _ dawn!|Sing through all Jerusalem||Christ is born in|Bethlehem. _ _|Hark now hear the|
+ c c d3/2 c/ | B B c3/2 B/ | A3 G | F d c B | G/ E C/- C3/2 G/ | F B A/B/ c | !fermata!B3 || F | %127
+w: angels _ sing, a|new King's born today|_ and|man will live for|evermore _ _ _ because|_ of Christmas _ _|Day.|We|
+[M:3/4] B B/c/ B/A/ | G E G | c c/d/ c/B/ | A F F | d d/e/ d/c/ | B G F/F/ | G c A | B2 F | B B B | %136
+w: wish you a merry _|Christmas, _ we|wish you a merry _|Christmas _ we|wish you a merry _|Christmas _ and a|happy _ new|year. Good|tidings _ we|
+ A2 A | B A G | F2 c |"^rit." d c/c/ B/B/ | f F F/F/ | G c A | B3 |] %143
+w: bring to|you and your|kin. We|wish you a merry _|Christmas _ and a|happy _ new|year.|
+

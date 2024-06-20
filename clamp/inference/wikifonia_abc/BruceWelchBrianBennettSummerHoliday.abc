@@ -1,0 +1,30 @@
+X:1
+T:Summer Holiday
+T:Summer Holiday
+T:(From Summer Holiday)
+T:Bruce Welch, B.Bennett
+C:Bruce Welch, Brian Bennett
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"Eb" E2 B2"Cm" AGFE |"Fm7" z2 FG FE"Bb" C2 |"Eb" z2 B,B"Cm" AGFE |"Fm7" z FG"Bb" F4 z | %4
+w: We're all go- ing on a|sum- mer hol- i- day|no more work- ing for a|week or two|
+"Eb" B,2 B2"Cm" AGFE |"Fm7" z2 FG FE"Bb" C2 |"Fm7" F2 FG FE"Bb" C2 |"Eb" E2 G2 B,4 | %8
+w: fun and laugh- ter on our|sum- mer hol- i- day|no more * wor- ries for|me or you|
+"Fm7" z2 FG FE"Bb" C2 |"Eb" E6 z"Fm7" G | FEFE"Bb7" F2 G2 |"Eb" E2 B,4 z G |"Fm7" AGAG"Bb7" Ac B2 | %13
+w: for a week * or|two we're|go- ing where the sun shines|bright- ly we're|go- ing where the sea * is|
+"Eb" G6 z B |"Gm" B2 G=A B2 cd | c2 B4 B2 |"F7" e2 e2 d2 c2 |"Bb7" B8 |"Eb" B,2 B2"Cm" AGFE | %19
+w: blue we've|seen it * on the *|mo- vies now|lets see if its|true|ev- ry- bod- ys has a|
+"Fm7" z2 FG FE"Bb" C2 |"Eb" z2 B,B"Cm" AGFE |"Fm7" z GA"Bb7" B,4 z |"Eb" B,2 B2"Cm" AGFE | %23
+w: sum- mer hol- i- day|do- in things they al- ways|wan- ted to|so we're go- ing on a|
+"Fm7" z2 FG FE"Bb" C2 |"Fm7" z2 FG FE"Bb" C2 |"Eb" E2 G2 B,4 |"Fm7" z2 FG FE"Bb" C2 |"Eb" E8 |1 %28
+w: sum- mer hol- i- day|to * make * our|dreams come true|for * me * and|you|
+"Eb" z8 |"Fm7""Cm7" z8 |"Eb" z8 |"Fm7" z8 :|2"Fm7" z2 GF-"Bb" F2 GE ||"Eb" E8 | %34
+w: ||||for me * and you||
+"Fm7" z2 GF-"Bb" F2 GE- |"Eb" E8 |"Fm7" z2 GF- F2 G"Eb"E- | E6 z2 | z8 |] %39
+w: for me * and you||flor me * and you|||
+

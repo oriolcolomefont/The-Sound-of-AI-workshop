@@ -1,0 +1,41 @@
+X:1
+T:Blue Bayou
+T:Blue Bayou  - Linda Ronstadt
+C:Roy Orbison
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:B
+V:1 bass 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"B" B,,4 F,2 F,,2 |"B6" B,,3 F, F,4 |"B" B,,4 F,2 F,,2 |"B6" B,,3 F, F,2[K:treble] B2 |: %4
+w: |||* * * I|
+w: ||||
+"B" F2 GA- AABG |"B" A3 A G4 |"F#7" z2 FG A2 B2 |"F#7" z2 AA G4 |"F#7" z2 FG A2 B2 | %9
+w: feel so bad * I got a|wor- ried mind|I'm so lone- some|all the time|since I left my|
+w: * wan- na * see my ba-|by a- gain.|gonna be with some|of my friends|may- be I'll feel|
+"F#7" AGAG- G2 (AF) |"B" B2 BF- F4- |"B" F8 ||"B" F2 G2 A B3 |"B" z2 AA G4 |"F#7" z2 FG A2 B2 | %15
+w: ba- by be- hind * on *|Blue Bay- * ou.||Sav- ing nick- les,|sav- ing dimes,|work- ing 'til the|
+w: bet- ter a- gain * on *|Blue Bay- * ou.|||||
+"F#7" A2 AG G4 |"F#7" z2 FG A B2 G |"F#7" AGAG- G2 AF |"B" B2 BB- B4 | z4"B" z b bb || %20
+w: sun don't * shine|look- ing for- ward to|hap- pi- er times * on *|Blue Bay- ou! *|I'm go- ing|
+w: |||||
+S"B" b a2 a- a4 |"B" b a2 a- a2 g2 |"C#m" a2 g2 e4- |"C#m" e6 bb |"F#7" b a2 a- a2 ga | %25
+w: back some day, *|come what may * to|Blue Bay- ou|* where the|thoughts are fine * and the|
+w: |||* With that||
+"F#7" b a2 a- a2 g2 |"B" a2 g2 d4- |"B" d6 ab |"B" c' b2 b- b2 ab |"B+" c'2 bb- b3 b | %30
+w: world is mine * on|Blue Bay- ou.|* With those|fish- ing boats * with their|sails a- float; * if|
+w: ||* With that|boy of mine, * by my|side, * * * the|
+"E" c'3 b g2 e2 |"Em" c6 ef |"B" gfgf- f3 g |"F#7" g g2 f- f2 d2!dacoda! ||"B" cBBB- B4- | %35
+w: I could on- ly|see that fa-|mil- iar sun rise * through|sleep- y eyes * how|hap- py I'd be. *|
+w: sil- ver moon and|evening time *|oh some sweet day * gonna|take a- way * this||
+"B" B6 z2!D.S.! :|O"B" cBBB- B4- | B6 g2 |"F#7" gfgf- f2 f2 |"F#7" gfgf- f4 |"F#7" z2 z2 f4 | %41
+w: |hurt- in' in- side *|* I'll|nev- er be blue, * my|dre- ams come true *|on|
+w: ||||||
+"F#7" g8 |"F#7" a8 |"B" b8- | b8 |] %45
+w: Blue|Bay-|ou-||
+w: ||||
+

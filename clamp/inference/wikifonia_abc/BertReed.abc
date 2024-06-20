@@ -1,0 +1,25 @@
+X:1
+T:Quartermaster's Store
+T:Quartermaster's Store
+T:Adapted by Elton Box, Desmond Cox,Bert Reed
+C:Bert Reed., Desmond Cox, Elton Box
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z D/G/ |:"G" B2 B2 | B/A/G/E/ D G/B/ |"C" A2"D7" z G/A/ |"Gmaj7" B2"G" z D/G/ | B2 B2 | %6
+w: There was|cheese cheese|waft- ing on the breeze in the|store, in the|store, there was|ham ham|
+w: |bread bread|just like lumps of lead in the|store, in the|store, there were|buns buns|
+ B/A/G/E/ D G/B/ |"C" A c"D7" B A |"C" G2"G" z D |"^Chorus:" G B/A/"B7" G F |"C" E E"E7" E E | %11
+w: mixed up with the jam in the|Quar- ter- mas- ter's|store. my|eyes are * dim I|can not see I|
+w: bul lets for the guns in the|Quar- ter- mas- ter's|store. *|||
+"Am7" A c/B/"Eb7" A G |"D7" F A d D |"G" B2"B7" G F |"C" E2 c A |1"D7" d2 F2 |"C" G2"G" z D/G/ :|2 %17
+w: have not * brought my|specs with me I|have not *|brought my *|specs with|me there was|
+w: ||||||
+"Am7" d2"D7" d2 |"G" G z z2 |] %19
+w: specs with|me|
+w: ||
+

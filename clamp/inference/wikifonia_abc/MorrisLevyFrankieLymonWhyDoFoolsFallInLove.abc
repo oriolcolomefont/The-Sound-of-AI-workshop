@@ -1,0 +1,26 @@
+X:1
+T:Why Do Fools Fall In Love
+T:Why do fools fall in love
+T:Morris Levy and Frankie Lymon
+C:Morris Levy, Frankie Lymon
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C""_Ballad" G c"Am7" c2 |"Dm7" e2"G7" d e |"C" c2-"Am7" c/ z e/ |"Dm7" e/ e d/"G7" e d | %4
+w: Why do birds|sing * so|gay * and|lov- ers a- wait the|
+"C" e d"Am7" c2 |"Dm7" e/d/ c"G7" B d |"C" d c3- |"Dm7" c3"G7" z |"C" e4 |"Dm7" d d"G7" e2 | %10
+w: break of day?|why do they fall in|love? *||why|does the rain|
+"C" e/d/d/c/"Am7" c2 |"Dm7" d d"G7" e2 |"C" e d"Am7""Dm7" c2 | e/d/ c"G7" B d |"C" d c3- | %15
+w: fall from up a- bove?|why do fools|fall in love?|why do they fall in|love? *|
+ c3 z!fine! |]"F" d c d c |"Fm" d c d2 |"C" d c c c | e d"C7" c2 |"F" c d2 d/c/ |"Fm" d c d2 | %22
+w: |Love * is a|los- ing game|love * can *|be a shame|I know of a|fool you see|
+"D7" d2 d2 |"G7" d d d e/e/ |"C" e g3 |"Dm7" g2 e"G7" d |"C" e4- |"Dm7" e2"G7" d2 |"C" e"Am7" c3- | %29
+w: for that|fool is me! Tell me|why *|||||
+"Dm7" c2"G7" e e |"C" e d"Am7" c2- |"Dm7" c3"G7" z!D.C.! |] %32
+w: * Tell me|why! * *||
+

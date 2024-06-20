@@ -1,0 +1,26 @@
+X:1
+T:I Love Lucy
+T:I Love Lucy
+C:Eliot Daniel
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7" B,2 C2 | D B,2 C |"Dm7" G2 G"G7b9" E- | E4 |"Cmaj7" B,2 C2 | D B,2 C | %6
+w: I love|Lu- cy and|she loves me,|_|we're as|hap- py as|
+"Cmaj7/D" B2 B"C+/D" ^G- | G2"D#dim7" A2 |"Cmaj7" B3 A | G B,2 C |"Bm7" E4- |"E7" E4 | %12
+w: two can be.|_ Some-|times we|quar- rel but|then,|_|
+"Amaj7" ^G3 ^F | E2 ^C D |"Dm7" E z"Ab+7" E"G13" (E- | E D3) |"Cmaj7" B,2 C2 | D B,2 C | %18
+w: how we|love mak- ing|up a- gain.|_ _|Lu- cy|kiss- es like|
+"Dm7" G2 G"G7b9" E- | E4 |"Cmaj7" B,2 C2 | D B,2 C |"Cmaj7/D" B2 B"C+/D" ^G- | G2"D#dim7" A2 | %24
+w: no one can.|_|She's my|mis- sus and|I'm her man;|_ And|
+"Em7" B2 c B- | B B"C" c2 |"Am7" d4- |"D7" d z"D#dim7" c2 |"C" e z c"Dm7" A- | A A"G7" G2 | %30
+w: life is heav-|* en you|see,|_ 'cause|I love lu-|* cy, yes,|
+"C" e z c"Em7" A- | A A"A9" G2 |"D9" e2 c2- |"Dm7/G" c z"G7" d2 |"C""Dm7/G" c4- |"C6" c3 z |] %36
+w: I love Lu-|* cy and|Lu- cy|_ loves|me.|_|
+

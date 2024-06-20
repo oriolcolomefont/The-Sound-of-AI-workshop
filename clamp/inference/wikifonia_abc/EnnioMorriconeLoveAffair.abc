@@ -1,0 +1,20 @@
+X:1
+T:Love Affair
+T:Love Affair
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c4- c f2 e |"Bb/F" c4- c g2 f | B4- BBfe |"F" A8 |"Gm7" c4-"F/A" c f2 e | %5
+"Bbmaj7" c4-"Bbmaj7/C" c a2 g |"Bb/D" b4-"Bb/Db" bagf |"Cm7""F" g6 ab |"Bb" c'2 f2- fefg | %9
+"F/A" c'2 f2- fefg |"Gm7" c'2 b2"C7" a3 g |"Eb" b2"D7" a4 ^fd |"Bb" a2 g2"Bbm" f3 e | %13
+"F/A" g2 f2"Abdim" e3 d |"Gm7" c2 B6 |"F/C" z2 A4"Bb/C" B2 ||"F" c4- c f2 e |"Bb/F" c4- c g2 f | %18
+ B4- BBfe |"F" A8 |"Gm7" c4- c"F/A" f2 e |"Bbmaj7" c4"C7" c a2 g |"Bb6" b2 a2"Fdim" f2 d2 | %23
+"Am""Am7" c8- |"Gm7""C7" c8- |"F9" c8 | z2 a4 a2 | a8 |] %28
+

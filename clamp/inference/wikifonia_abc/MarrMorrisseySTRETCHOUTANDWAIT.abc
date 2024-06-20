@@ -1,0 +1,58 @@
+X:1
+T:STRETCH OUT AND WAIT
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:12/8
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"E" z2 z z2 z"B" z2 z BzB |"A9" B2 z B B2"B6" B2 G- G3 |"E/G#" G2 G- G G2 G2 F- F G2 | %3
+w: Oh, the|lies that you make up _|what's at _ the back of _ your|
+"A" E6-"B" E2 G- G F2 |"E" E2 F- FGB-"B" B3- BGF |"A9" E2 F- F G2"B" B6 | %6
+w: mind? _ On _ the|three day _ de bate _ _ on a|high rise _ e state|
+"E/G#" G2 G- GGG- G2 F- F G2 |"A" E6-"B" E2 z z B2 |"E" B2 B- B B2"B" B3- B B2 | %9
+w: what's at _ the back _ of _ your|mind? _ Two|ic y _ cold hands _ con|
+"A9" B2 B- BBB-"B6" B2 z z AG |"E/G#" G2 G- G G2 G2- G F G2 |"A" A6-"B" A2 E- E F2 | %12
+w: duct ing _ the way _ its the|esk i _ mo blood _ in my|veins _ A _ mid|
+"E" G2 G- G E2"B6" G3- G E2 |"A9" GGG- GEG-"B6" G6 |"E/G#" G2 G- G G2 B2 A- A G2 | %15
+w: con crete _ and clay _ and|gen er al _ de cay _|na ture _ must still find _ a|
+"A" E6"B" z2 B- B B2 |"E" B6"B" B3- B B2 |"A9" B2 A G G2-"B6" G3- GGG |"E/G#" GGG- G3 G2 G- G G2 | %19
+w: way So _ ig|nore all _ the|codes of the day _ _ let your|juv en ile _ im puls _ es|
+"A" A6-"B" A2 z z2 z |"E" B2 G- G G2"B" B2 G- G G2 |"A9" B2 G- G G2"B6" B2 G- G3 | %22
+w: sway _|this way _ and that way _ _|this way _ and that way _|
+"E/G#" G2 z F-FE E3 D3 |"A" E2 C- C3-"B" C2 z z F2 |"Cmaj7" F2 E- E B2 z2 F- F E2 | B6- B3- B z z | %26
+w: DON'T have _ sex it im|plores you _ _ to|let your _ self lose _ your|self _ _|
+"C#m7" B2 B- B B2"E" cB-B- B3 |"C#m" B2 B- B B2"B9" cB-B- B3 |"C#m7" z2 z z2 z"E" BBB BBB | %29
+w: STRETCH OUT _ AND WAIT _ _ _|STRETCH OUT _ AND WAIT _ _ _|let your pun y bod y|
+"A" B2 A- A3"B" G3 F- E2 |"A" E3/2EE/- E E2"B" B,6 | z2 G- G G2-"F#/D#" G<G-G- G G2 | %32
+w: lie down _ lie down _|as we lie _ you say|as _ we _ lie _ _ you|
+"F#/A#" G3- G z z"E9" z2 z z2 z |"F#m" B2 B- B B2"C#m" c2 B- B B2 |"E" cB-B- B3"C#m" B2 B- B B2 | %35
+w: say _|STRETCH OUT _ AND STRETCH OUT _ AND|WAIT _ _ _ STRETCH OUT _ AND|
+"B" cB-B- B3"C#m7" z2 z z2 z |"E" BBB BBB"A" B2 A- A3 |"B" G3 F- E2"A" E3/2EE/- E E2 | %38
+w: WAIT _ _ _|let your pun y bod y lie down _|lie down _ as we lie _ you|
+ B,6"B9" z2 z z2 z | z2 z z GG"C#m" G6 | G2 G A G2"F#9" F3- F F2 | E D2- D"A"zE B,6 | %42
+w: say|Will the world|end in the nite time? _ (I|real ly _ don't know)|
+"B6" z2 z z2 z z2 z B,GG |"C#m" G6 G2 G A G2 |"F#9" F3- F F2 E D2- D"A"zE | B,6"B6" z2 z z2 z | %46
+w: Or will the|world end in the day|time? _ (I real ly _ don't|know)|
+ z2 z FGF"C#m" GFG- G3 | GFF G A2"F#" G3 F3 | E3 D3-"A" D2 E- E3 | B,6"B6" z2 z z2 z | %50
+w: and is there an y point _|ev er _ hav ing child ren?|(Oh, I _ don't _|know)|
+ z2 z z EE"F#" G2 F- F z z | z2 F- F F2"A" A2 A- A A2 |"B" G3- G G2"E" B2 B- B B2 | %53
+w: What I do know _|is _ we're here and _ its|now _ so STRETCH OUT _ AND|
+"B" BG-G- G3"A9" B2 B- B B2 |"B6" B- G2- GBB"E/G#" BAG- G3 | GFE- E3"A" EDC- C- B,2- | %56
+w: WAIT _ _ _ STRETCH OUT _ AND|WAIT _ _ There is no de bate _|no de bate _ no de bate _ _|
+"B" B,2 z z2 z"E" G2 G- G G2 |"B" G2 G- G E2"A9" G2 G- G G2- |"B6" G2 z z GG"E/G#" GGG- G z z | %59
+w: _ How Can _ you|con scious _ ly con tem _ plate|_ When there's no de bate _|
+ GFG FGF"A" GB-B- B3 |"B" F2 G- G G2"E" G B2- B3- |"B9" G6-"A9" G2 z z2 z | %62
+w: NO DE BATE _ _ _ _ _ _ _|STRETCH OUT _ AND WAIT _ _|_ _|
+"B" G2 G- G G2"E/G#" G6- | G6-"A" A3 z2 z |"B6" G2 G- G G2"E" G B2- B3- |"B" G6"A9" G B2- B3- | %66
+w: STRETCH OUT _ AND WAIT|_ _|STRETCH OUT _ AND WAIT _ _|_ WAIT _ _|
+"B6" G6"E" GB-B- B3- |"B6" G6"A9" G B2- B3- |"B6" G6"E" GB-B- B3- |"B6" G6"A9" z2 z z2 z | %70
+w: _ WAIT _ _ _|_ WAIT _ _|_ WAIT _ _ _|_|
+"B6" z2 z z2 z"C#m7" [CEG]6 | [CEG]3- [CEG] z z"F#9" [^A,CF]6 | %72
+w: ||
+"F#" [^A,CF]3- [^A,CF] z z"Am9" [=A,=CEB]6- | [A,CEB]6 |] %74
+w: ||
+

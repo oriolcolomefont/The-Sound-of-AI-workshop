@@ -1,0 +1,26 @@
+X:1
+T:Old Cape Cod
+T:Old Cape Cod
+T:Allan Jeffrey, Claire Rothrock, Milton Yakus
+C:Allan Jeffrey, Claire Rothrock, Milton Yakus
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"G" GABc d2 BG |"Dm7" =F2 d2"G7" A4 |"C" E2 GA B2 AG |"F7" _E2 B2 A4 |"G" B2 cd"E7" edcB | %5
+w: If you're fond of sand dunes and|sal- ty air.|Quaint lit- tle vil- a- ges|here and there.|You're sure to fall in love with|
+"A7" E4 B4 |"D7" A8- |"D7" A6 z2 ||"G" GABc d2 BG |"Dm7" =F2 d2"G7" A4 |"C" E2 GA BAGE | %11
+w: Old Cape|Cod.||If you like the taste of a|lob- ster stew.|Served by a win- dow with an|
+"F7" _E2 B2 A4 |"G" B2 cd"E7" edcB |"A7" E4"D7" B4 |"G" G8- |"Dm7" G6"G7" z2 ||"C" e2 e2"D7" edce | %17
+w: o- cean view.|You're sure to fall in love with|Old Cape|Cod.||Wind- ing roads that seem to|
+"G" d2 B2"E7" d4 |"Am7" c2 c2"D7" cBAc |"G" B2 B2"Db7" B4 |"C" E2 G2"F#7" ^A^cfe | %21
+w: beck on you.|Miles of green be- neath a|sky of blue.|Chruch bells chim- ing on a|
+"G" d2 d2"E7" B3 B |"Am7" cccc"A7" E2 G2 |"D7" A3 d"D7#5" _B4 ||"G" GABc d2 BG | %25
+w: Sun- day morn Re-|mind you of the town where|you were born.|If you spend an ev- 'nig you'll|
+"Dm7" =F2 d2"G7" A4 |"C" E2 GA B2 AG |"F7" _E2 B2 A4 |"G" B2 cd"E7" edcB |"A7" e4"D7" F4 |"G" G8 |] %31
+w: want to stay|Watch- ing the moon- light on|Cape Cod Bay|You're sure to fall in love with|Old Cape|Cod.|
+

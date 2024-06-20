@@ -1,0 +1,22 @@
+X:1
+T:Quiereme Mucho (Yours)
+T:Quiéreme Mucho (Yours)
+T:Composer : Gonzalo Roig Performer : Julio Iglésias Style : latin rhythm
+C:Gonzalo Roig
+Z:All Rights Reserved
+L:1/4
+Q:1/4=140
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" E2 F G |"C" A2 G ^F |"C" A2 G2- |"C" G4 |"C" E2 F G |"C" c2 B G |"Dm" F4- |"Dm" F4 | %8
+"Dm" A2 ^G A |"Dm" c2 B A |"G7" c2 B2 |"G7" z A A A |"G7" A2 B,2- |"G7" B,2 A2 |"C" G4- |"C" G4 | %16
+"C" E2 F G |"C" A2 G ^F |"C" A2 G2- |"C" G4 |"A7" E2 F G |"A7" A2 G F |"Dm" A4- |"Dm" A4 | %24
+"F" A2 ^G A |"F" c2 B A |"C" A G/B/- B/A/ G |"Dm" F2"A7" E G |"Dm" F4 |"Fm" z F C D | %30
+"C" E3/2 F/ E2- |"C" E z"G7" D2 |1"C" C4- |"C" C4 :|2"C" C4- ||"C" C4 |] %36
+

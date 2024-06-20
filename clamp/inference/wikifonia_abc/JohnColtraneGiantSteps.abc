@@ -1,0 +1,18 @@
+X:1
+T:Giant Steps
+T:Giant Steps
+T:John Coltrane
+C:John Coltrane
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:none
+V:1 treble transpose=-14 nm="Tenor Sax."
+%%MIDI program 66
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:C] ^f4 d4 | B4 G3 _B- | B8 | B3 A- A4 | d4 _B4 | G4 ^D3 ^F- | F8 | G4 F3 _B- | B8 | B4 A3 d- | %10
+ d8 | ^d4 ^c3 ^f- | f8 | g4 f3 _b- | b8 | ^f3 f- f4 :| %16
+

@@ -1,0 +1,21 @@
+X:1
+T:Air
+T:Air
+T:Arr RolandRevell
+T:Henry Purcell
+C:Henry Purcell
+Z:Public Domain
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Flute"
+%%MIDI program 0
+V:1
+ z3 | z3 | z3 | z3 |:!mp! (d ^c/d/ A) | (a g/a/ e) | (f e/f/ d | e2 A) |!<(! (d ^c/d/ A) | %9
+!<)! (a g/a/ e) | (f e/f/ ^c |!>(! d3) |!>)! (A!p! G/A/ F | c B/c/ A) |"^crescendo" (f e/f/ d) | %15
+ (g2 a) | (b a/b/ e) | (a g/a/ d) | (e!>(! d/e/ ^c |!>)! d3) :| z3 | z3 || (D E F | E A2) | %24
+ z (A d | ^c a2- | a3/2) z/ z |!f! (!>!a g/a/ e) | (f e/f/ ^c | d3) ||!mf! (a g/a/ f | c'2 c) | %32
+ (f e/f/ d) | (g2"^crescendo" a) | (!tenuto!b g/a/ d) | (!tenuto!a g/a/ d) | (e!>(! d/e/ ^c | %37
+!>)! d2) z |!p! (A G/"^espressivo"A/ F | c B/c/ A) | (f"^crescendo" e/f/ d) | (g2 a) | (b a/b/ e | %43
+ a g/a/ d) | (e d/e/ ^c | d3) |] %46
+

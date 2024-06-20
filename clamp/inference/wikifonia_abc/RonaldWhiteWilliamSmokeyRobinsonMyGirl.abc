@@ -1,0 +1,36 @@
+X:1
+T:My Girl
+T:My Girl
+T:William "Smokey" Robinson and Ronald White
+C:Ronald White, William Smokey Robinson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=3600
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Rock or 8bt." z4 z2"^N.C." AG |"F" A F3- F4 |"Bb" z2 FG F3 D |"F" C8 |"Bb" z4 z2 FG | %5
+w: I've got|sun- shine- *|on a cloud- y|day|when it's|
+"F" A3 F F4 |"Bb" z2 z G FDFD |"F" C8 |"Bb" z8 |"F" C4"Gm" D4 |"Bb" F4"C" G4 |"F" C2 C2"Gm" D2 D2 | %12
+w: cold out- side|I've got the month of|May||I guess|you say|what can make me|
+"Bb" F2 F2"C" G4 |"F" F C3- C4- | C2 z2 CD F2 |"Bb" (F G2) (F- F)D F2 |"C7" z4 (3z2 G2 A2 | %17
+w: feel this way?|My girl *|* talk- ing 'bout|my * girl. * * *|I've got|
+"F" d6 A2 |"Bb" G F2 D F2 FD |"F" C8 |"Bb" z4 D2 FG |"F" AG(FD) C4 |"Bb" z2 FG F2 FD |"F" C8 | %24
+w: so much|hon- ey the bees en- vy|me|I've got a|sweet- er song * *|than the birds in the|tree.|
+"Bb" z4 z2 A2 |"F" C4"Gm" D4 |"Bb" F4"C" G4 |"F" C2 C2"Gm" D2 D2 |"Bb" F2 F2"C" G4 |"F" F C3- C4- | %30
+w: Well|I guess|you say|what can make me|feel this way?|My girl *|
+ C2 z2 CD F2 |"Bb" (F G2) (F- F)D F2 |"C7" z4 (3z2 A2 A2 |"F" A3 G A F3 |"Bb" z4 (3A2 F2 D2 | %35
+w: * talk- ing 'bout|my * girl. * * *|I don't|need no mon- ey|for- tune or|
+"F" C8 |"Bb" z4 (3z2 A2 G2 |"F" FDFD (FG) A2 |"Bb" z4 G F2 E |"F" C4 z4 |"Bb" z4 z2 A2 | %41
+w: fame|I've got|all the rich- es ba- * by,|one man can|claim.|Well,|
+"F" C4"Gm" D4 |"Bb" F4"C" G4 |"F" C2 C2"Gm" D2 D2 |"F""Bb" F2 F2"C" G4 |"F" F C3- C4- | %46
+w: I guess|you say|what can make me|feel this way?|My girl *|
+ C2 z2 CD F2 |"Bb" (F G2) (F- F)D F2 |"C7" z8 |"F" z2 AA AFFG | A3 G (A F2) F |"Gm" G F3- F3 D | %52
+w: * talk- ing 'bout|my * girl. * * *||I've got sun- shine on a|cloud- y- day * with|my girl; * I've|
+"C7" AGGF AGGF |"F" D C3- C4 | z4 AG(GF) |"Gm" AG(GF) AG(GF) |"C7" G2 (FD) F2 d2- |"F" d2 DC- C4 | %58
+w: e- ven got the month of May with|my girl. *|Talk- ing- 'bout, *|talk- ing 'bout, * talk- ing 'bout *|my girl * * Woo|* my girl *|
+"Gm" z2 GA- AG F2 |"C7" AG F2 D G3 |"F" F6 z2 |] %61
+w: that's all * I can|talk a- bout is my|girl.|
+

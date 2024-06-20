@@ -1,0 +1,51 @@
+X:1
+T:Royal Garden Blues
+T:Royal Garden Blues
+C:Clarence Williams, Spencer Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" A2 A>F"Bb" B"Bbm" c2 z |"F" A2 A>F"Bb" B c2"Bbm" B |"F" A2 A>F"Bb" B c2"Bbm" B | %3
+w: No use of talk- in',|no use of talk- in', you'll|start in dog walk- in', no|
+w: |||
+"F" A F2 G-"F9" G2 z2 |"Bb6" G2 G>F"F+7" G A3 |"Bb6" G2 G>F"F+7" G A3 |"Bb6" G2 G>F"F+7" G A2 F | %7
+w: mat- ter where _|there's jazz- co- pa- tion,|blues mod- u- la- tion|just like a Hai- tian you'll|
+w: ||||
+"Bbdim" G"Bb7" F2 D- D4 |"C7" C4"Ddim7" D2"Cdim7" ^D2 |"C7" E2"Db7" _A2"C7" A G3 |"F" F8- | %11
+w: rip and tear. _|Most ev- 'ry|bo- dy likes the|blues,|
+w: ||||
+ F2 z2"C7" z4 |"F" A2 A>F"Bb" B"Bbm" c2 B |"F" A2 A>F"Bb" B>c"Bbm"c>B |"F" A2 A>F"Bb" B c2"Bbm" B | %15
+w: _|here's why I'm rav- in', _|here's why I'm ra- vin', if it's|blues you are crav- in' just|
+w: ||||
+"F" A F2 G-"F9" G2 z2 |"Bb6" G2 G>F"F+7" G A3 |"Bb6" G2 G>F"F+7" G A3 |"Bb6" G2 G>F"F+7" G A2 F | %19
+w: come on down. _|You'll hear em' play- in',|you'll hear em play- in',|soon you'll be say- in', "Hon,|
+w: ||||
+"Bb" G F2"Bb7" D- D4 |"C7" C4"Ddim7" D2"Cdim7" ^D2 |"C7" E2"Db7" _A2"C7" A G3 |"F" F8- | %23
+w: jazz me 'round," _|be- cause your|feet they can't re-|fuse.|
+w: ||||
+ F2 z2"C7" z4 |:"F" (3cdc A>F"F7" _E2 z2 |"F" (3cdc A>F"F7" _E2 z2 |"F" (3cdc A>F"F7" _E2 z2 | %27
+w: _|What's that fa- mi- liar strain,|that true blue note re- frain?|It's dri- vin' me in- sane.|
+w: |There goes that mel- o- dy|it sounds so good to me,|and I am up a tree.|
+"C7" z8 |"Bb6" z2 G>F G2 z2 | z ^CDF"Db7" _A"C7" G3 |"F" F8- | FG^GA"Fm7b5" e d3 |"C7/G" c8- |1 %33
+w: |Can't keep still|tho' it's a- gainst my|will.|_ I'm on my P's and|Q's,|
+w: |It's a shame|you don't _ know the|name.|_ It's _ a brand new|blues,|
+"C7" cD^DB- B2 A2 |"F" F8- | F6"C7" z2 :|2 cD^DE B A3 |"F" F8- | F6 z2 ||[K:Bb]"F7" F2 F2 G A3 | %40
+w: _ I just can't _ re-|fuse.|_|* the Roy- al Gar- den|blues.|_|Ev- 'ry bod- y|
+w: _ _ _ _ _ _|||||||
+"Bb" F2 F2 G A3 |"Bbm" F2 F2 G A3 |"F" F2 z2"F7" z4 |:"Bb" B2 z2 Bc^cd | B B2 B- B2 z2 | %45
+w: grab some- bod- y|and start jazz- ing|'round.|Hon, don't you hear that|trom- bone moan? _|
+w: |||That weep- * in' mel-|an- chol- y strain,|
+ B2 z2 Bc^cd |"Bb7" B B2 B- B2 z2 |"Eb" B2 z2 Bc^cd |"Ebm" B B2 B- B2 z2 |"Bb" B2 z2 Bc^cd | %50
+w: Just list- en to that|sax- a- phone _|Gee hear that calr- i-|net and flute; _|cor- net a jazz- in'|
+w: say but it's _ sooth-|ing to the brain.|Just wan- na _ get|right up and dance.|Don't care I'll take most|
+"G7" G G2 G- G2 z2 |"C7" G2 z2 Bc^cd |"F7" F F2 F- F2 z2 |"Bb" B2 z2"Ebm6" B2 z2 | %54
+w: with a mute. _|makes me just throw my-|self a- way _|when I|
+w: an- y chance. _|No oth- er blues I'd|care to choose, _|but Royal|
+"Bb" c2"Ebm6" B2"Bb" B2 z2 :| %55
+w: hear 'em play|
+w: Gar- den blues.|
+

@@ -1,0 +1,30 @@
+X:1
+T:Let's Face The Music And Dance
+T:Let's Face The Music And Dance
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Cm" z C D _E | _A G2 _E |"Cm6" G4- |"Cm7" G4 |"Cm" z C D _E | _A G2 _E |"Dm7b5" G"G7" F2 D | %7
+w: There may be|trou- ble a-|head.|_|But while there's|moon- light and|mus- ic and|
+"C" F E2 C |"Cmaj7" E4- |"C7" E2 z2 |"F6" z D D D |"Fm6" D C C C- |"C""Ab9" C4- | %13
+w: love and ro-|mance,|_|let's face tthe|mus- ic and dance.|_|
+"Dm7b5" C2"G+7" z2 |"Cm" z C D _E | _A G2 _E |"Cm6" G4- |"Cm7" G4 |"G7" z G A B |"Ab7" _e d2 c | %20
+w: |Be- fore the|fid- dlers have|fled,|_|be- fore they|ask us to|
+"D7" d2 A"Dm7" c- | c3 A |"G7" B2 G A- | A E E E- |"Em7b5" E4- |"A7b9" E2 z2 |"F" z D D D | %27
+w: pay the bill,|_ and|while we still|_ have the chance,|_||Let's face the|
+"Bb6" D C C C- |"C6" C4- | C4 ||"Ab" c4- | c2"Eb7" (3_B c B |"Ab" _A2 C D- | D2"Eb7" (3_B c B | %34
+w: mus- ic and dance.|_||Soon|_ we'll be with-|out the moon,|_ hum- ming a|
+"Ab" _A2 C _E- | E2 F2 |"G7" G4- | G4 |"Cm" z C D _E | _A G2 _E |"Cm6" G4- |"Cm7" G4 | %42
+w: dif- f''rent tune,|_ and|then|_|there may be|tear- drops to|shed.|_|
+"Cm" z C D _E | _A G2 _E |"Dm7b5" G"G7" F2 D |"C" F E2 C |"Cmaj7" E4- |"C7" E2 z2 |"F" z D D D | %49
+w: So while there's|moon- light and|mus- ic and|love and ro-|mance,|_|let's face the|
+"Fm6" D C"C/E" C c- |"D7" c4 |"Ab13b5" d4 |"C/G" z e e e |"Dm7" e c"Dm7/G" c c- |"C6""Ebm6" c4 | %55
+w: mu- sc and dance,|_|dance.|let's face the|mus- ic and dance.|_|
+"Dm7b5""G+7" z4 :|"C6""G7#5b9" c4- |"C6" c3 z |] %58
+w: |dance.|_|
+

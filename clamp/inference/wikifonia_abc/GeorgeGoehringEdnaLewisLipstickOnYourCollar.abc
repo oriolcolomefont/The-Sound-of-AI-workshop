@@ -1,0 +1,37 @@
+X:1
+T:Lipstick On Your Collar
+T:Lipstick On Your Collar
+T:George Goehring
+T:Edna Lewis
+C:George Goehring
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" d d d d |"D7" c3/2 c/- c2 |"Gm" B B"Gm7" B B |"C7" A G/F/-"F7" F2 |:"Bb" F F D F | %5
+w: ||||When you left me|
+w: ||||You said it be-|
+"Gm" G A/G/- G2 |"Cm7" G G E G |"F7" A"Cm7" G/F/-"F7" F z |"Bb" F F D F |"Gm" G A/G/- G2 | %10
+w: all a- lone *|at the rec- ord|hop * * *|Told me you were|go- in' out *|
+w: longed to me *|Made me stop and|think * * *|Then I no- ticed|yours was red, *|
+"Cm7" G G E G |"F7" A"Cm7" G/F/-"F7" F z |"Bb" B B B B |"Bb7" c B B2 |"Eb" B B B B | c2 B2 | %16
+w: for a so- da|pop * * *|You were gone for|quite a while,|half an hour or|more *|
+w: mine was ba- by|pink. * * *|Who walked in but|Ma- ry Jane,|Lip- stick all a|mess. *|
+"C7" c c c c | d c c2 |"F7" c c c c | d2 c z |"Bb" D F F F | G3/2 F/- F2 |"Eb" G B B B | %23
+w: You came back and|man, Oh man|this is what I|saw *|Lip- stick on your|col- lar *|told a tale on|
+w: Were you smooch- in'|my best friend?|Guess the an- swer's-|yes- *||||
+ c3/2 B/- B2 |"Bb" D F F F | G3/2 F/- F2 |"Eb" G B B B | c3/2 B/- B2 |"Bb" d d d d | %29
+w: you * *|lip- stick on your|col- lar *|said you were un-|true * *|Bet your bot- tom|
+w: ||||||
+"D7" c3/2 c/- c2 |"Gm" B B B B |"Dm" A3 A |"Eb" G G G G |"Bb" F3/2 B/- B2 |"F7" A A"Cm7" B"F7" c |1 %35
+w: dol- lar *|you and I are|through 'cause|Lip- stick on your|col- lar *|told a tale on|
+w: ||||||
+"Bb" B3 z :|2"Bb" B3 z ||"F7" A A"Cm7" B"F7" c |"Bb" B3 z |"F7" A A"Cm7" B"F7" c |"^Bb" B3 z |] %41
+w: you|you|told a tale on|you|told a tale on|you.|
+w: ||||||
+

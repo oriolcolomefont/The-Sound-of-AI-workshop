@@ -1,0 +1,23 @@
+X:1
+T:China Boy
+T:China Boy
+T:Phil Boutelje & Dick Winfree
+C:Phil Boutelje & Dick Winfree
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A3"C+" c |"F" A3"C+" c |"F" A4- | A4 | A3"C+" c |"F" A3"Db7" ^G |"F" A4- |"Dm7" A4 |"G9" F3 A | %9
+w: Chi- na|boy go|sleep.||Close your|eyes, don't|peep.||Sand- man|
+ F3 A |"G7" F4- | F4 |"Bbm" F3 G | F3 G |"F" F4 |"C7" c4 |"Ab" c3 _A |"Eb7" B3 _E |"Ab" _A4- | A4 | %20
+w: soon will|come.||While I|soft- ly|hum,||Bud- dha|smiles on|you,||
+ c3 _A |"Eb7" B3 _E |"Ab" _e4 |"C7" c4 |"F" A3"C+" c |"F" A3"C+" c |"G7" d4 |"Bbm" f4 |"F" A3 c | %29
+w: Moon- man|loves you|too.|So|while their|watch they|keep,||Chin- a|
+"G9" A3"C7" c |"F" f4- | f3 z |] %32
+w: boy, go|sleep.||
+

@@ -1,0 +1,30 @@
+X:1
+T:In My Own Little Corner
+T:In My Own Little Corner
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C7" A G z2 |"F" A2 A A | B A G F |"Eb" F2 _E E |"Eb6" _E2"Eb" E E | =E2 E2 | (3E F E D E | %7
+w: In my|own lit- tle|cor- ner, in my|own lit- tle|chair, I can|be what-|ev- er I want to|
+"F" F4- | F z"C7" A G |"F" A2 A A | B A G F |"Eb" F2 _E E |"Eb6" _E2"Eb" E E | =E2 E2 | %14
+w: be.|_ On the|wing of my|fan- cy I can|fly an- y-|where, And the|world will|
+ (3E F E D E |"F" F4- | F z F G |"D" A A A A |"A7sus4" A A"A7" A A |"F#m" ^c2 A2- |"D" A z D E | %21
+w: o- pen it's arms to|me.|_ I'm a|young Nor- we- gian|prin- cess or a|milk- maid,|_ I'm the|
+"Bm" ^F F F F |"F#7" A A G G |"Bm" ^F4- |"D+" F z ^F G |"D" A A A A |"Em7" A A"A7" A A | %27
+w: great- est pri- ma|don- na in Mi-|lan.|_ I'm an|heir- ess who has|al- ways had her|
+"D" d2 A2- | A z A =B |"A" ^c2 c c |"E7" =B A ^G E |"A" A4- |"Gm7" A z"C7" A G |"F" A2 A A | %34
+w: silk made,|_ By her|own flock of|silk- worms in Ja-|pan.|_ I'm a|girl men go|
+ B A G F |"Eb" F2 _E E |"Eb6" _E2"Eb" E E |"C7" =E2 E2 | (3E F E D E |"F7" A4- | A z G A | %41
+w: mad for, love's a|game I can|play with a|cool and|con- fi- dent kind of|air,|_ Just as|
+"Bb" B2 B B |"Bbm" B c/B/ A G/A/ |"F" F2 c2- |"Bb" c z c B |"F" A2"Bb" B"F" A |"Gm" G2"C7" A G |1 %47
+w: long as I|stay in my own lit- tle|cor- ner,|_ All a-|lone in my|own lit- tle|
+"F" F4 |"Gm7" z2"C7" A G :|2"F" F4- | F2 z2 |] %51
+w: chair.|In my|chair.|_|
+

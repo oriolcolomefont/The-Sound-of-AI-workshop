@@ -1,0 +1,26 @@
+X:1
+T:The Whistling Waltz
+T:The Whistling Waltz
+T:Harry Woods
+T:Harry Woods
+C:Harry Woods
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Bb" d4 d_d |"F7" c2"F" ^c2 d z |"Bb" B2 D2 G2 | F4 F2 |"F7" E2 F2 G2 | A2 B2 c2 |"Bb" B6- | B6 | %8
+w: I've learn'd the|se- cret to|mend bro- ken|hearts, to|turn ev'- ry|tear to a|smile|_|
+ d4 _d2 |"F7" c2"F" ^c2 z d |"Bb" B2 D2 G2 | F4 F2 |"C7" =E2 G2 A2 | B2 c2 d2 |"F7" c6- | c6 | %16
+w: and my|se- cret I'll|glad- ly im-|part, if|you'll stroll with|me for a|while|_|
+"Bb""^CHORUS" D3 ^C DF | G3 F GB | A2 z2 F2 | D6 | D3 ^C FA | G3 F GB |"F7" A2 G2 z2 | E4 E2 | %24
+w: From a lit- tle|bird- i heard the|whist- ling|waltz.|fun- ny lit- tle,|sun- ny lit- tle|whist- ling|wal- tz|
+ E3 D EF | G3 F GA | d4 c2 | E6 | d4 c2 | E4 cd |"Bb" c4 B2 | D6 | D3 ^C DF | G3 F GB | A2 z2 F2 | %35
+w: you should hear him|say, while fly- ing|to and|fro'|'here we'|go, whis- tle|soft and|low',|soon you'll be sur-|prised to see the|skies turn|
+ D6 |"Bb7" B3 A B=B | B3 B cd |"Eb" c2 z2 B2 | G6 | G3 ^F GB |"Ebm" c3 B cd |"Bb" c4 B2 | %43
+w: blue|find the one you've|lost is arm in|arm with|you.|smile, and thro' your|tears you'll fall in|love a|
+ D4"Bb7" A_A |"F7" G4 =EF | c4 d2 |"Bb" d2 B4- | B6 |] %48
+w: new, to the|tune of the|whist- ling|wa- ltz|_|
+

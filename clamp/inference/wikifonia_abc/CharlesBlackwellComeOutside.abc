@@ -1,0 +1,45 @@
+X:1
+T:Come Outside
+T:Come outside
+T:Charles Blackwell
+C:Charles Blackwell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"Cm7" B B |:"Eb" G2 G G | G F E D |"Cm" C2 z2 | z2"Cm7" B B |"Eb" G2 G G | G F E D |"Cm" C2 z2 | %8
+w: (1)Lit- tle-|doll we've been|jiv- ing all night|long|lit- tle|doll got a|feel- ing some- things|wrong|
+w: (2) *|doll it seems|a- ges since we|kissed|lit- tle|doll think of|all the fun we've|missed|
+w: (3) *|doll * I|know the band aint|bad|lit- tle|doll I'm a-|get ting kind- a|mad|
+ z2"Cm7" B, C |"Ab" E2 E E | E E E"A" =E |"Bb" F2 F2 | F2 z"A" =E |"Ab" E E E E | E2 E"A" z | %15
+w: cos it|ain't right to|want to keep on|danc- ing-|* there|won't be an- y|time left|
+w: |||||||
+w: |||||||
+"Bb" z2 c B |"Eb" c2 B2 | B E2 E | G4 |"Gm" z d2 G | B4 |"Bb7" z2 d d | d d c d |"Eb" e4 | z4 | %25
+w: for ro-|manc- ing|Come out- side||come out-|side|theres a|love- ly moon up|there||
+w: ||||||||||
+w: ||||||||||
+ z B2 E | G4 |"Gm" z d2 G | B4 |"Bb7" z2 z d | d d c d |"Eb" e4 |1 z2 B B :|2 z2 z B || %34
+w: come out-|side|come out-|side|while|we've got time to|spare|lit- tle|Now|
+w: |||||||||
+w: |||||||||
+"Ab" c2 c c | c c2"A" z |"Bb" z2 d d | d3 ^c |"Bb" c2 c2 | c3/2 c/"A" c2 |"Bb" z2 d d | d3"A" z | %42
+w: I went and|prom- ised|your old|man that|we'd be|home a- bout|half past|ten|
+w: ||||||||
+w: ||||||||
+"Ab" c2 c2 | c3"A" ^c |"Bb" d2 d2 | d3"A" z |"Ab" e2 e e | e2 e2 |"Bb" f2 g g | g f3 || %50
+w: Seems we've|got just|one more|jive|then we'll be|start- ing|home a- gain||
+w: ||||||||
+w: ||||||||
+"Eb" z B2 E | G4 |"Gm" z d2 G | B4 |"Bb7" z2 d d | d d c d |"Eb" e4 | z B2 E | G4 |"Gm" z d2 G | %60
+w: Come out-|side|come out-|side|theres a|love- ly moon up|there|come out-|side|come out-|
+w: ||||||||||
+w: ||||||||||
+ B4 |"Bb7" z2 z d | d d c d |"Eb" e4 | z2 B B :| %65
+w: side|while|we've got time to|spare|(3)Lit- tle-|
+w: |||||
+w: |||||
+

@@ -1,0 +1,28 @@
+X:1
+T:The Little Drummer Boy
+T:The Little Drummer Boy
+C:Harry Simeone
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" z2 z2 | z2 z2 |"F" F3 G | A2 A A | B/A/ B A2- | A3 z |"F" z F F G | A A A A | B/A/ B A2- | %9
+w: ||Come, they|told me, Pa-|rum- pum- pum- pum|_|A new born|King to see; Pa-|rum- pum- pum- pum.|
+w: ||Lit- tle|B- by, Pa-|rum- pum- pum- pum|_|I am a|poor boy too; Pa-|rum- pum- pum- pum|
+w: ||Mar- y|nod- ded; Pa-|rum- pum- pum- pum|_|The ox and|lamb kept time: Pa-|rum- pum- pum- pum|
+ A3 z |"C" z G A B | c c c d | c/B/ A G2- | G3 z |"C" z G A B | c c"F" c"Bb" d | %16
+w: _|Our fin- est|gifts we bring Pa-|rum- pum- pum- pum.|_|To lay be-|fore the King, Pa-|
+w: _|I have no|gift to bring Pa-|rum- pum- pum- pum|_|That's fit to|give our King, Pa-|
+w: _|I played my|drum for Him Pa-|rum- pum- pum- pum|_|I played my|best for Him, Pa-|
+"F7" _e/d/ c"Bb" B2 | d/c/ B"F" A2 | c/B/ A"C" G2- | G3 z |"F" F3 G | A A A A | B/A/ B A2- | A3 z | %24
+w: um- pum- pum- pum,|rum- pum- pum- pum,|rum- pum- pum pum|_|So to|hon- or Him, Pa-|rum- pum- pum- pum|_|
+w: rum- pum- pum- pum,|rum- pum- pum- pum,|rum- pum- pum- pum|_|Shall I|play for You, Pa-|rum- pum- pum- pim|_|
+w: rum- pum- pum- pum,|rum- pum- pum- pum,|rum- pum- pum- pum|_|Then, He|smiled at me, Pa-|rum- pum- pum- pum|_|
+"C" (G/F/) G"F" F2- | F3 z :| %26
+w: When * we come.|_|
+w: On _ my drum?|_|
+w: Me and my drum.|_|
+

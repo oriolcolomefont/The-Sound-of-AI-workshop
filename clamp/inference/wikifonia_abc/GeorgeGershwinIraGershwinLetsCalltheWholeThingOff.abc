@@ -1,0 +1,56 @@
+X:1
+T:Let's Call the Whole Thing Off
+T:Let's Call the Whole Thing Off
+T:George Gershwin, Ira Gershwin
+T:George Gershwin, Ira Gershwin
+C:George Gershwin, Ira Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+"D" F2 G2 A"B7b9" B2 A |"Em" G2"D" FE-"A7sus4" E"A7" F2 G |"D" A2 B2 c2 d2 |"G9" c6 B2 | %4
+w: Things have come to a|pret- ty pass * Our ro-|mance is grow- ing|flat, For|
+w: ||||
+"C#+7" d2 d2"F#9" d d2 d |"B7" BB- B3"B+7" z B2 |"E11" c c2 c"E9" c2"E7b9" c2 |"A7" A4-"A+7" A4 | %8
+w: you like this and the|oth- er * While|I go for this and|that *|
+w: ||||
+"D" F2 G2 A"B7b9" B2 A |"Em" G2"D" FE-"A7sus4" E"A7" F2 G |"D" A2 B2 c2 d2 |"G9" e6 d2 | %12
+w: Good ness knows what the|end will be * Oh, I|don't know where I'm|at... It|
+w: ||||
+"A6" c2 e2 A2"F#m6" c2 |"E7b9" B2 d2 ^GG B2 |"A6" A8 |"Em7b5" A2 G2"A7" F2 E2 |"D" D4-"D7" D4- | %17
+w: looks as if we|two will nev- er be|one,|Some- thing must be|done. *|
+w: |||||
+"Bm" D2"D7" z2 z4 |:[K:G]"G" G2 EF-"Em9" F F2 E |"Am7" G2 AB-"D7b9" B B3 |"G" G2 E"Em9" F2 F2 E | %21
+w: |You say ee- * ther, and|I say eye- * ther|you say nee- ther and|
+w: |You say laugh * ter a|I say lawf- * ter,|You say af- ter and|
+"Am7" G2 A"D7b9" B2 B3 |"G" !>!dG z2"G" !>!dG z2 |"C" !>!dG z2"Cm" !>!dG z2 |"G" d2 c>B"Em" A2 G2 | %25
+w: I say ny- ther;|Ee- ther, eye- ther,|nee- ther, ny- ther,|Let's call the whole thing|
+w: I say awf- ter;|Laugh- ter, lawf- ter,|af- ter, awf- ter,||
+"A" A6"D" z2 |"G" G G2 E"Em9" F F2 E |"Am7" G G2"Cm" A B"D" B3 |"G" G G2 E"Em9" F F2 E | %29
+w: off!|You like po- ta- to and|I like po- tah- to,|you like to- ma- to and|
+w: |You like va- nil- la and|I like va- nel- la|you, sa's- pa- ril- la and|
+"Am7" G G2 A"Cm" B"D" B2 B |"G" !>!dG z G"G" !>!dG z G |"C" !>!dG z G"Am7b5" !>!dG z2 | %32
+w: I like to- mah- to; Po-|ta- to, Pa- tah- to, To-|ma- to, To- mah- to!|
+w: I sa's- pa- rel- la; Va-|nil- la Va- nel- la *|Choc'- late * straw- b'ry!|
+"G" d2"C" c>B"D" A2"C" G2 |"G" G4 z2 G2 |"C#m7b5" e8 |"F#" d>^cB>c"Bm7" d2 d2 | %36
+w: Let's call the whole thing|off! But|oh!|If we call the whole thing|
+w: ||||
+"E7b9" B2 B2"Am7" c2 c2 |"D9" A6 E2 |"C#m7b5" e8 |"F#" d>^cB>c"Bm7" d2 d2 | %40
+w: off, then we must|part. And|oh!|If we ev- er part, then|
+w: ||||
+"E7b9" B2 B2"Am7" c2 c2 |"D9" A6"D" D>D |"G" G G2 E"Em9" F F2 E |"Am7" G G2 A"Cm" B"D" B3 | %44
+w: that might break my|heart! So, if|you like pa- ja- mas and|I like pa- jah- mas,|
+w: |* So, if|you go for oyst- ers and|I go for erst- ers|
+"G" G G2 E"Em9" F F2 E |"Am7" G G2 A"Cm" B"D" B3 |"G" !>!dG z2"G" !>!dG z2 | %47
+w: I'll wear pa- ja- mas and|give up pa- jah- mas.|For we know we|
+w: I'll or- der oyst- ers and|can- cel the erst- ers.||
+"C" d>dG>G"Am7b5" d G3 |"G" d>d"C"c>B"G" c>B"C6" A2 |"B+7" B2-"B7" B2-"E7b9" B2"E" z2 | %50
+w: need each oth- er, so we|bet- ter call the call- ing off|off! * *|
+w: |||
+"Am7" e2"Bm" d>c"Cmaj7" B2"D" A2 |1"G" G4-"Eb" G2"D9#5" z2 :|2"G" G4-"F#7" G2"G69" z2 |] %53
+w: Let's call the whole thing|off! *|off! *|
+w: |||
+

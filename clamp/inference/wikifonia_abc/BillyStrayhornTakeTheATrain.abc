@@ -1,0 +1,25 @@
+X:1
+T:Take The 'A' Train
+T:Take The 'A' Train
+T:Billy Strayhorn
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone"
+%%MIDI program 5
+V:1
+|:"C" G8- | G e3 G2 c2 |"D+7" e ^G3- G4- | G8 |"Dm" A8 |"G7" A^ABe G_GF_d |1"C" c E3- E4- | %7
+w: You|* must take the|"A" Train *||To|go to Sug- ar Hill way up in|Har- lem. *|
+w: If|* you miss the|"A" Train *||You'll|find you've missed the quick- est way to||
+"Dm" E4-"G7" E4 :|2"C" c E3- E4- |"Dm" E4-"G7" E4 ||"F" Ac- c6 | e F3 A2 c2 | eA- A6- | A8 | %14
+w: |Har- lem *||Hur- ry, *|get on board it's|com- ing *||
+w: |||||||
+"D7" Ac- c6 | e F3 A2 c2 |"Dm" eA- A6- |"G7" A4 _A4 |"C" G8- | G e3 G2 c2 |"D+7" e ^G3- G4- | G8 | %22
+w: Lis- ten *|to those rails a-|thrum- ming *|* On|board,|* Get on the|"A" Train, *||
+w: ||||||||
+"Dm" A8 |"G7" A^ABe G_GF_d |"C" c E3- E4- | E8 |] %26
+w: Soon|you will be on Sug- ar Hill in|Har- lem *||
+w: ||||
+

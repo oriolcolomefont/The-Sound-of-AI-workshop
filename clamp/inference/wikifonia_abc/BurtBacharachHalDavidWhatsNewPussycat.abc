@@ -1,0 +1,40 @@
+X:1
+T:What's New Pussycat
+T:What's New Pussycat
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z"C" e c |"F6" A/d/ d z |"G6" (e3/2 d/ e/d/ | e2"Dm" d) |"C" z e c |"F6" A/d/ d z | %6
+w: What's new|Pus- sy- cat|Whoa _ _ _|_ _|What's new|Pus- sy- cat|
+w: ||||||
+w: ||||||
+"G6" (e3/2 d/ e/d/ | e2"Dm" d) |"C" c3- | c3 |[K:G]"D" d3- |"D7" d3 ||"G" G A G | F E D | %14
+w: whoa _ _ _|_ _|oh..|_|Oh|_|1.~Pus- sy- cat,|Pus- sy- cat,|
+w: ||||||2.~Pus- sy- cat,|Pus- sy- cat|
+w: ||||||3.~Pus- sy- cat,|Pus- sy- cat|
+"Bb" _B,2 A | A G D | _B,2 A | (A G) D |"Ab" _E2 c | c3 | c d _e | _e d c | B c A | A/_B/ _A A- | %24
+w: I've got|flow- ers and|lots of|hours _ to|spend with|you.|So go and|pow- der your|cute lit- tle|pus- sy- cat nose.|
+w: you're so|thril- ling and|I'm so|will- ing to|care for|you.|So go and|make up your|big lit- tle|pus- sy- cat eyes.|
+w: you're de-|li- cious and|if my|wish- es can|all come|true|I'll soon be|kiss- ing your|sweet lit- tle|pus- sy- cat lips.|
+ A3- | A3 ||"G" G A G | F E D |"Cmaj7" E2 e |"Bm7" d3 |"Am7" E3 |"D6" e3 |"Bm6" d3- | %33
+w: _||Pus- sy- cat,|Pus- sy- cat|I love|you,|yes|I|do.|
+w: _||Pus- sy- cat,|Pus- sy- cat|I love|you,|yes|I|do.|
+w: _||Pus- sy- cat,|Pus- sy- cat|I love|you,|yes|I|do.|
+"Em7" d3!dacoda! ||"Am7" E2 c/B/ |"D7" A/G/ A G- |"G" G3- | G3!D.C.! :|O"Am7" E2 c/B/ | %39
+w: _|You and your|pus- sy- cat nose.|_||You and your'e|
+w: _|You and your|pus- sy- cat eyes.|_|||
+w: _||||||
+"D7" A/G/ A G- |"G" G3 |"Am7" E2 c/B/ |"D7" A/G/ A G- |"G" G3 |"Am7" E2 c/B/ |"D7" A G !fermata!A | %46
+w: pus- sy- cat lips.|_|You and your|pus- sy- cat eyes.|_|You and your|pus- sy- cat|
+w: |||||||
+w: |||||||
+"G" G3- | !fermata!G3 |] %48
+w: nose.|_|
+w: ||
+w: ||
+

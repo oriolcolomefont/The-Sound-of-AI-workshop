@@ -1,0 +1,43 @@
+X:1
+T:Turkey In The Straw
+T:Turkey In The Straw
+T:Otto Bonnell (arr. Calvin Grooms)
+C:Otto Bonnell
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ e>d |"C" c>Bc>d c2 E>F | G>^FG>A G2"A7" A>G |"Dm" F2 F>E D2"D7" d>c | %4
+w: ||||
+"G" B>c"D7"B>A"G7" G z"^tacet" e>d |:"C" c>Bc>d c2 E>F | G>^FG>A G2 c>d | e e2 e- e>dc>d | %8
+w: ||||
+"D7" e d2 ^c"G7" d2 e>d |"C" c>Bc>d c2 E>F | G>^FG>A G2 c>d | e>de>f g>e"Ab"c>d |1 %12
+w: ||||
+"C" e>c"G7"d>B"C" c2 e>d :|2"C" e>c"G7"d>B"C" c2 g2 |:"C" e g2 g g4 | e g2 g"C7" g4 | %16
+w: ||||
+"F" f a2 a a4 | f a2 a a2"G7" g2 |"C" c'2 c'2"G7" g2 g2 |"C" e2 e2"G7" d2"Ab" c>d | %20
+w: ||||
+"C" e>de>f g>e"Ab"c>d |1"C" e>c"G7"d>B"C" c2 g2 :|2"C" e>c"G7"d>B"C" c2 C2 |: %23
+w: |||
+[K:F]"F" C2 C>F"Bb" D2 D>F |"F" C2 C>F"Bb" D2 D>F |"F" C2 C>D F2 F>G | A2 A>B"C7" c>BG>E | %27
+w: ||||
+"F" C2 C>F"Bb" D2 D>F |"F" C2 C>F"Bb" D2 D>F |"F" C2 C>D F2"Db" F>G |1"F" A>F"C7"G>E"F" F>ED>C :|2 %31
+w: ||||
+"F" A>F"C7"G>E"F" F2 A2 |:"F" c2 c>A"Dm" d2 d>A |"F" c2 c>A"Dm" d2 d>A |"F" c2 f>e"Bb" d2"G7" g>f | %35
+w: ||||
+"C7" e4 c'4 |"F" C2 C>F"Bb" D2 D>F |"F" C2 C>F"Bb" D2 D>F |"F" C2 C>D F2"Db" F>G |1 %39
+w: ||||
+"F" A>F"C7"G>E"F" F2 A2 :|2"F" A>F"C7"G>E"F" F2 c2 |:"F" Accc c4 | Accc"F7" c4 |"Bb" Bccd d4 | %44
+w: ||Tur- key in the straw,|Tur- key in the straw,|Tur- key in the straw,|
+ Bddd d2"C7" c2 |"F" f2 f2"C7" c2 c2 |"F" A2 A2"C" G2"Db" F>G |"F" A>GA>B c>A"Db"F>G |1 %48
+w: Tur- key in the straw, The|fun- niest thing I|ev- er saw is to|play the same old tune and call it|
+"F" A>F"C7"G>E"F" F2 c2 :|2"F" A>F"C7"G>E"F" F2 (3cde ||"F" f2 (3AB=B"F/C" c2 (3FG^G | %51
+w: Tur- key in the straw. *|Tur- key in the straw. * * *||
+"F/A" A2 (3CDE"F" F2 (3AB=B | c2 z"C7" C"Db7" _D2"C7" C2 | z2"C7" e2"F" f2 z2 |] %54
+w: |||
+

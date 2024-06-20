@@ -1,0 +1,43 @@
+X:1
+T:And I Love Her
+T:And I Love Her
+T:Jon Lennon & Paul McCartnet, 1964 Arrangement:  Larry Johnson, 2012
+C:John Lenon & Paul McCarthy, 1964
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Db
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 |"Dbmaj7" z4 |"Bbm7" z4 |"Fm7" z4 |"Bb7" z4 | z"Ebm" E F G |"Bbm" c/ B d/- d2 | %8
+w: ||||||I give her|all my love, _|
+"Ebm" z E F G |"Bbm" c/B/- B3 |"Ebm" z E F G |"Bbm" c/ B d/- d2 |"Gb" z d B G |"Ab7" F E2 B,/A,/ | %14
+w: that's all I|do _ _|and if you|saw my love _|you"d love her|_ _ I _|
+"Db" B, F3- | F2 z2 | z"Ebm" E F G |"Bbm" c/ B d/- d2 |"Ebm" z E F G |"Bbm" c/B/- B3 | %20
+w: love her|_|She gives me|ev ery thing _|and ten der|ly _ _|
+"Ebm" z E F G |"Bbm" c/ B d/- d2 |"Gb" z d B G |"Ab7" F E2 B,/A,/ |"Db" B, F3- | F2 z2 | %26
+w: the kiss my|lov er brings _|she brings to|me _ and I|love her|_|
+"Bbm" z z/ F/ F/ F A/- |"Ab" A4 |"Bbm" z c A/ F A/- |"Fm" A4 |"Bbm" z c A/ F A/- | A2 F A | %32
+w: A love like ours|_|Could nev- er die|_|as long as I|_ have you|
+"Ab7" F/E/ E3 | z4 |"Ebm" z E F G |"Bbm" c/ B d/- d2 |"Ebm" z E F G |"Bbm" c/B/- B3 | %38
+w: near _ me||bright are the|stars that shine _|dark is the|sky _ _|
+"Ebm" z E F G |"Bbm" c/ B d/- d2 |"Gb" z d B G |"Ab7" F E2 B,/A,/ |"Db" B, F3- |"Bb" F4 || %44
+w: I know this|love of mine _|will nev- er|die _ and I|love her.|_|
+[K:Eb] z"Fm" F G A |"Cm" d/ c e/- e2 |"Fm" z F G A |"Cm" d/c/- c3 |"Fm" z F G A |"Cm" d/ c e/- e2 | %50
+w: I give her|all my love, _|that's all I|do _ _|and if you|saw my love _|
+"Ab" z e c A |"Bb7" G F2 C/B,/ |"Eb" C G3- | G2 z2 | z"Fm" F G A |"Cm" d/ c e/- e2 |"Fm" z F G A | %57
+w: you"d love her|_ _ I _|love her|_|She gives me|ev ery thing _|and ten der|
+"Cm" d/c/- c3 |"Fm" z F G A |"Cm" d/ c e/- e2 |"Ab" z e c A |"Bb7" G F2 C/B,/ |"Eb" C G3- | G2 z2 | %64
+w: ly _ _|the kiss my|lov er brings _|she brings to|me _ and I|love her|_|
+"Cm" z z/ G/ G/ G B/- |"Bb" B4 |"Cm" z d B/ G B/- |"Gm" B4 |"Cm" z d B/ G B/- | B2 G B | %70
+w: A love like ours|_|Could nev- er die|_|as long as I|_ have you|
+"Bb7" G/F/ F3 | z4 |"Fm" z F G A |"Cm" d/ c e/- e2 |"Fm" z F G A |"Cm" d/c/- c3 |"Fm" z F G A | %77
+w: near _ me||bright are the|stars that shine _|dark is the|sky _ _|I know this|
+"Cm" d/ c e/- e2 |"Ab" z e c A |"Bb7" G F2 C/B,/ |"Eb" C G3- |"C" G4 | z2 z/ B,/E/D/ |"Fm" C4- | %84
+w: love of mine _|will nev- er|die _ and I|love her.|_|||
+ C2- C/B,/E/D/ |"Eb" C4- | C2- C/B,/E/D/ |"Fm" C4- | C2- C/C/E/D/ |"C" C4 | z4 | z4 | z4 |] %93
+w: |||||||||
+

@@ -1,0 +1,18 @@
+X:1
+T:Zöldre van a rácsos kapu festve
+T:Zöldre van a rácsos kapu festve 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" CB,CE"G" D^CDF |"C" E2 G,2"G" E D3 |"C" C4 C2 z2!fine! |:"C" E3 F G G3 |"F" A2 A2 F2 D2 | %5
+w: Zöld- re van a, zöld- re van a|rá- csos ka- pu|fest- ve,|O- da já- rok|min- den ál- dott|
+w: Be kel- lett a, be kel- lett a|rá- csos ka- put|zár- ni.|Nem győz- te- lek,|kis- an- gya- lom,|
+ A4"C" G2 z2!D.C.! :| %6
+w: es- te,-|
+w: vár- ni,-|
+

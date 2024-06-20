@@ -1,0 +1,27 @@
+X:1
+T:Because
+T:Because
+T:C.d'Hardelot
+C:Guy d'Hardelot
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" c4- ccBc | B4- BBAB |"G7" A4 G3 G ||"C" c4- ccBc | B4- BBAB |"G7" A4 G2 z G | %6
+w: ||* * Be-|cause * you come to|me * with naught save|love * abd|
+"A7" A2 E2"Dm" FGAd |"G7" d3 A A3 G |"C7" c3 G ^FG A/G/F/G/ |"F" c6"D7" d2 |"C" e4-"G7" eBBB | %11
+w: hole my hand and lift mine|eyes a- bove a|wid- er world of hope and joy I|see be-|cause * you come to|
+"C" c4- ccBc | B4- BBAB |"G7" A4 G3 G |"C7" c3 G ^FG A/G/F/G/ |"F" c4 z2 z c | %16
+w: me * * * *||* * be-|cause you speak to me in ac- cents|sweet I|
+"D7" d3 A ^GA _B/A/=G/A/ |"Gm" d4 z2 z d |"E7" e3 e ^de f/e/B/=d/ | d4"Am" c2 z c | %20
+w: find the ros- es wak- ing at my|feet and|I am led thru tears and joy to|thee * be-|
+"C" e4- ee"Fm"f^f |"Dm" g8- | g8- |"G7" g6 z G |"C" c4- ccBc |"Em" B4- BBAB |"Dm" A4"G7" G2 z G | %27
+w: cause * you speak to|me||* be-|cause * God made thee|mine * I'll cher- ish|thee * thru|
+"A7" A2 E2"Dm" FGAd | d3 A"G7" A3 G |"C7" c3 G ^FG A/G/=F/G/ |"F" c6"D7" z d |"C" e4"G7" g2 BB | %32
+w: light and dark- ness thru all|time to be and|pray His love may make our love di-|vine be-|cause God made thee|
+"C" c4- ccBc |"Am" e4- ee"Fm"fe |"G7" z2 f2 e2 d2 |"C" c8 |] %36
+w: mine * * * *||||
+

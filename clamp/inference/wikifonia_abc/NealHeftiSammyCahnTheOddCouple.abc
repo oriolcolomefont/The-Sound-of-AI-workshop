@@ -1,0 +1,23 @@
+X:1
+T:The Odd Couple
+T:The Odd Couple
+T:Neal Hefti
+C:Neal Hefti
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z A, |"^Dmi7" DAAG"G7" A4- |"^Dmi7" A2 GF"G7" G2 FE |"^Dmi7" F3 D-"G7" D4 |"^Dmi7" z4 z2"G7" z D | %5
+"^GmI7" Gddc"C7" d4- |"^Gmi7" d2 cB"G7" c2 BA |"^Gmi" B3 G-"C7" G4 |"^Gmi7" z4"C7" z4 | %9
+"F7" z2 A2-"B7b5" AFGD |"^Bbma7" F3 G-"Bb6" G4 |"^Emi7" z2 A2- A"A7"FGA |"^Dmi7" c2 cA"G9" F2 D2 | %13
+"^Bbma7" z2 A2- A"A7b9"F (3GAc |"^Dmi7" d2 dc"F7" AG F2 |"^Emi7b5" G8 |"A7" z4 z2 z A, | %17
+"^Dmi7" DAAG"G7" A4- |"^Dmi7" A2 GF"G7" G2 FE |"^Dmi7" F3 D-"G7" D4 |"^Dmi7" z4 z2"G7" z D | %21
+"^Gmi7" Gddc"C7" d4- |"^Gmi7" d2 cB"C7" c2 BA |"^Gmi7" B3 G-"^V7" G4 |"^Gmi7" z2 z2"C7" z2 z2 | %25
+"F7" z2 A2- A"B7b5"FGD |"^Bbma9" F3 G-"Bb6" G4 |"^Bbma7" z2 A2 A"A7b9"F (3GAc | %28
+"^Dmi7" d2 c2"F7" AGFD |"Bb6" F4-"^Gmi7" FDFD |"C9""^sus" F4- FDFD |"F" F8 |] %32
+

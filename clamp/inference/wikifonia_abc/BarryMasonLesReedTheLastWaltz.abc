@@ -1,0 +1,30 @@
+X:1
+T:The Last Waltz
+T:The Last Waltz
+T:Les Reed and Barry Mason
+C:Barry Mason
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gmaj7" z E FE FE | F3 d BF |"F#m7" E6- | E4"Fm7" z2 |"Em7" z B, DB, DB, | B3 A"A6" FE | %6
+w: I won- der should I|go or should I|stay||the band had on- ly|one more song to|
+w: * Thought the love we|had was go- in|strong||* through the good and|bad we get a|
+"Dmaj7" F6- |"D6" F4 z E |"Gmaj7" FE FE FE | F3 d BF |"F#m7" E6- | E4"Fm7" B,2 |"Em7" DB, DB, DB, | %13
+w: play|* and|then I saw you out the|corn- er of my|eye||* A lit- tle girl a-|
+w: long|* and|then the flame of love *|died in your *|eyes|* My|heart was broke in two when|
+ B2"A7" A2 C2 |"D" D6 |"A7" A2"Em7" B2"A7" c2 |"D" d6 |"Dmaj7" c4 A2 |"Gmaj7" B6- |"G6" B6 | %20
+w: lone and so|shy|I had the|last|waltz with|you||
+w: you said good-|bye||||||
+"A7" c2 c3 c | c2"Em" B3"A7" A |"D" ^GB A4- | A6 | f6 |"D7""^+" e4 d2 |"G" e4 d2 | E4 z G | %28
+w: two love- ly|peo- ple to-|geth- * er||I|fell in|love with|you the|
+w: ||||||||
+"Em7/A" B2 B3"A7" B |"A7" A4 z C |"D" C2 D4 :| %31
+w: last waltz should|last for|ev- er.-|
+w: |||
+

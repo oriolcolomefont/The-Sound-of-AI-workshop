@@ -1,0 +1,28 @@
+X:1
+T:Climb Every Mountain
+T:Climb every mountain
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E4"D7" ^F3 E |"G" ^F2 G6 |"Gm7" D4"C7" E3 D |"F" E6 z2 |"Fm" C3 _E D3 C |"C" G2 C6 | %6
+w: Climb ev- re|moun- tain|search high and|low|fol- low ev- ry|by- way|
+"Dm" C3 E"G7" D3 C |"C" C6 z2 | E4"D7" ^F3 E |"G" ^F2 G6 |"Gm" D4"C7" E3 D |"F" E6 z2 | %12
+w: ev- ry path you|know|climb ev- ry|moun- tain|ford ev- ry|stream|
+"Fm" C3 _E D3 C |"C" G2 C6 |"Dm" C3 E"G7" D3 C |"C" C6"C7" C2 |"F" C2 DE F4 | %17
+w: fol- low ev- ry|rain- bow|till you find your|dream A|dream that will need|
+"Dm7" z2 GA"G7" B2 AB |"C" G8- | G6"^N.C." ^FE |"G" D2 E^F G4 |"Em" z2 AB"A7" ^c2 Bc |"D" d8- | %23
+w: all the love you can|give|* ev- ry|day of your life|for as long as you|live|
+"D7" d8 |"G" B4"A7" ^c3 B |"D" ^c2 d6 |"Dm7" A4 B3"G7" A |"C" B8 |"Am" c3 A B3 c |"F" d2 f6 |1 %30
+w: |climb ev- ry|moun- tain|ford ev- ry|stream|fol- low ev- ry|rain- bow|
+"C" e4"E" e4 ||"F" d4"G7" d4 |"C" c8 |"Dm7" DFAc"G7" BAGF :|2"C" e4"E" e4 ||"F" d4"G7" d4 | %36
+w: till you|find your|dream!||till you|find your|
+"C" c4"Fm" _ec_A_a |"C" g6 z2 |] %38
+w: dream! * * * *||
+

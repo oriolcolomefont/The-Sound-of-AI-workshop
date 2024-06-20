@@ -1,0 +1,20 @@
+X:1
+T:Blue Minor
+T:Blue Minor
+T:Sonny Clark
+C:Sonny Clark
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+V:1
+ z C=D=E FGAB |:"Gm7b5" =Bc_BA"C7#5#9#11" B"C7#5#9#11"AFF |"Fm6" z C=D=E FGAB | %3
+"Gm7b5" B2 A"C7#5#9#11"F"C7#5#9#11" BAFF |"Fm6" z CEF z4 |"Fm7b5/Ab" AF z A F z AF | %6
+ z AF z AF z B- |1"Gm7b5" B4- BFDE |"C7#5#9#11" z C=D=E FGAB :|2"Gm7b5" B4- BAFF ||"Fm6" z4 z2 F2 | %11
+"Db" f4 z4 |"Eb7" fedc =ABcd |"Ab" e8 | z4 z2 F2 |"Bbm" d8 |"Eb7" dcBA GABd |"Gm7b5" c8 | %18
+"C7#5#9#11" z C=D=E FGAB |"Gm7b5" =Bc_B"C7#5#9#11"A"C7#5#9#11" BAFF |"Fm6" z C=D=E FGAB | %21
+"Gm7b5" B2 A"C7#5#9#11"F"C7#5#9#11" BAFF |"Fm6" z CEF z4 |"Fm7b5/Ab" AF z A F z AF | %24
+ z AF z AF z B- |"Gm7b5" B4- BAFF |"Fm6" z8 || %27
+

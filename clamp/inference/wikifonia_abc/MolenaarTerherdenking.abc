@@ -1,0 +1,32 @@
+X:1
+T:Ter herdenking
+T:ter herdenking
+T:Molenaar
+T:molenaars muziekuitgaven
+C:Molenaar
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"^A"!p! C2"_Marche Funebre" C>C C4 | C2 C>C C4 | C2 C>C C2 E>D | D>CC>C C4 | E2 E>E E2 G>F | %5
+ F>EE>E E4 | F>BA>G G2 E2 | c>BA>G G2 E2 | c2 c>c c2 e>d | d>cc>c c2!ff! e>f | g2!f! G>A B>cd>e | %11
+ g4 f3 z/ A/ | G2 G>=A =B>cd>e | e4 d2 z2 | _B2 B2 B2 z2 | G2 G2 C4 |!p! c2 c>c c2 e>d | %17
+ d>cc>c c z z2 |:!p! B z B>B B z B z | B2 c2 B4 | B!pp! z B>B B z B z | B2 e2 B4 | %22
+ B z B>B c z c z | c4 c2 c2 | c2 c>c d z B z |1 A z A>A G2 z2 :|2 A z A>A G2 z2 |] %27
+[M:3/4]!p! z4 B2 |"_B Wilt heden nu treden" B3 c B2 | G3 A B2 | A3 G F2 | G2 E2 B2 | B3 c d2 | %33
+ e3 f d2 | c3 B c2 | B4 B2 | B3 c d2 | e4 B2 | B3 c AB | G2 E2 A2 | A3 B cA | B3 A G2 | A2 F4 | %43
+ E4 z2 |][M:4/4]"^C O God onze Hulp"!p! z4 z2 G2 | E2 A2 G2 c2 | c2 B2 c2 G2 | c2 G2 A2 F2 | %48
+ G6 B2 | c2 A2 d2 B2 | c2 A2 B2 G2 | A2 c2 d2 B2 | c8 | c4 c4 |] %54
+[K:C][M:2/2]"^D  De laatste groet"!mp! z2 z2 z2 C2 | G4 z2 C2 | G4 z2 C2 | G2 G>G c2 e2 | %58
+ G2 G>G G2 z2 | e2 g2 e2 c2 | g2 ec g2 ec | G2 G>G G2 z2 | g2 e2 c2 Ge | c2 Ge c2 Ge | ccGe c2 GG | %65
+ ccee c2 z G | e2 g2 e2 c2 | G2 G>G G2 G>G | cc/c/ce c2 GG | cc/c/ce c2 GG | cece c2 z G | %71
+ e2 g2 e2 c2 | G2 G>G G2 z2 | g2 ec g2 ec | G2 G>G G2 C2 | G6 C2 | G6 C2 | G2 G>G c4 | e4 z4 |] %79
+[K:F][M:4/4]"^E  Blijf bij mij Heer, als de avond daalt"!p! A4 A2 G2 | F4 c4 | d2 c2 c2 B2 | A8 | %83
+ A4 A2 c2 | d4 c4 | B2 G2 A2 =B2 | c8 | A4 A2 G2 | F4 c4 | c2 B2 B2 A2 | G8 | G4 A2 B2 | %92
+ A2 G2 F2 B2 | A4 G4 | F8 | F4 F4 |][K:Eb][M:4/4]"_F  Wenn ich einmal soll scheiden"!p! z4 z2 G2 | %97
+ c2 B2 A2 G2 | F4 G2 d2 | e2 de/f/ e2 d2 | c6 z2 :| e2 dc (3B2 c2 d2 | e4 e2 B2 | c2 B2 cB A2 | %104
+ G6 _e2 | de f2 e2 d2 | c4 d2 G2 | A2 G2 F2 BA | G6 z2 |] %109
+

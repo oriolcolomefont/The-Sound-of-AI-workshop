@@ -1,0 +1,17 @@
+X:1
+T:I loves you Porgy
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm=" " snm=" "
+V:1
+"C9sus4" FAc |"Fmaj7" e g3 z"Dm7" fcA |"Bbmaj7" A c3 z DFA |"Gm7" c e3"C7" z cAF | %4
+"Fmaj7" A4 z DFA |"Am7" c e3"D7" z cA^F |"Gm7" F A3"D7#9" z B,DF |"Gm7" A c3"C9sus4" z AFD | %8
+"F" F4"Bm7b5" z2"E7b9" z2 ||"Am7" z A=Bc"F#m7b5" dedc |"Bm7b5" A2 A2"E7b9" c2 =B2 | %11
+"Am7" z A=Bc"F#m7b5" dedc |"Dm7" E2 E2"G" G4 |"Cm7" z cd_e"Am7b5" fgfe |"Ab7" cccc"G" _e2 d2 | %15
+ z"Bb7#11" eee"A" f2 f2 |"Ab7#11" dddd"G" _e4 | e4"C9sus4" z FAc ||"Fmaj7" e g3 z"Dm7" fcA | %19
+"Bbmaj7" A c3 z DFA |"Gm7" c e3"C7" z cAF |"Fmaj7" A4 z DFA |"Am7" c e3"D7" z cA^F | %23
+"Gm7" F A3"D7#9" z B,DF |"Gm7" A c3"C9sus4" z AFD |"F" F8 |] %26
+

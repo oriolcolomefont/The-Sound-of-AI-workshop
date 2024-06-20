@@ -1,0 +1,22 @@
+X:1
+T:Jump Monk
+T:jump monk
+C:Charles Mingus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Fm" z c'2 b afec |"Dbmaj7" =b^a^gf ecBA |"Gm7b5" ec^G=E ^D^C^G,B, |"C7" C ^F,6 c'- | %4
+"Fm" c' c'2 b afec |"Dbmaj7" =b^a^gf ecBA |"Gm7b5" ec^G=E ^D^C^G,^A, |"C7" C4 z4 |"Fm" z8 | %9
+"Fm/Eb" z8 |"Db7" z8 |"C7" z8 |"Bbm" z8 |"Bbm/Ab" z8 |"Gm7b5" z8 |"Gb7" z8 |"Bbm" z =A,B,C _DEF_G | %17
+"Gbmaj7" =ABc f2 z3 |"Cm7b5" z f^f=B c _G2 z |"F7" z8 |"Bbm" z FFc cBB=A |"Gbmaj7" =A4 z4 | %22
+"Cm7b5" z FFE E_DDC |"F7" C^dd^c c=B B2- |"Bbm" B=A,B,C _DEF_G |"Gbmaj7" =ABc f2 z3 | %26
+"Cm7b5" z f^f=B c _G2 z |"F7" z8 |"Bbm7" z F2 ^F2 ^G2 =A- |"Ab7" A B2 c2 d3- | %30
+"Gm7b5" d z2 d2 =A2 =E- |"C7" E z7 |"Fm" z c'2 b afec |"Dbmaj7" =b^a^gf ecBA | %34
+"Gm7b5" ec^G=E ^D^C^G,^A, |"C7" C ^F,6 c'- |"Fm" c' c'2 b afec |"Dbmaj7" =b^a^gf ecBA | %38
+"Gm7b5""Gm7b5" ec^G=E ^D^C^G,^A, | C4 z4 |"Fm" z8 |"Fm/Eb" z8 |"Db7" z8 |"C7" z8 |"Bbm" z8 | %45
+"Bbm/Ab" z8 |"Gm7b5" z8 |"Gb7" z8 |] %48
+

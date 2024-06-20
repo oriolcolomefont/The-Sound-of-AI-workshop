@@ -1,0 +1,31 @@
+X:1
+T:He Stopped Loving Her Today
+T:He Stopped Loving Her Today
+T:Bobby Braddock, Curly Putman
+T:All Rights Reserved
+C:Bobby Braddock, Curly Putman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z GGG GFEF | B,8 | z GGG GFDE |"C" C8 | z2 GF BAF>A |"D7" F8 | z2 FF GFEF |"G" C8 | %8
+w: 1.~He said, "I'll love you 'til I|die."|She told him, "You'll for- get in|time."|As the years went slow- ly|by,|She still preyed up- on his|mind.|
+w: 2.~He kept some let- ters by his|bed,|* dat- ed nine- teen six- ty|two.|He had un- der- lined in|red|Ev- ery sin- gle "I love|you."|
+ z GGG GFE>F | B,8 | z2 GG GFDE |"C" C8 | z B,GG BFFA |"D7" F8 |1 z FFF A G2 B/d/ |"G" G8 :|2 %16
+w: He kept her pic- ture on his|wall|Went half- cra- zy now and|then;|But he still loved her through it|all,|Kept hop- ing she'd come back a-|gain.|
+w: I went to see him just to-|day,|But I did- n't see no|tears;|* All dressed up to go a-|way;|||
+"D7" z DFA BABd ||"G" BG G6 |S"G" z2 BB d/Bd-<dd/ | D8 | z BBB/d/- dBde |"C" (dc-) c6 | %22
+w: First time I'd seen him smile in|years. * *|He stopped lov- ing her * to-|day;|They placed a wreath * up- on his|door * *|
+w: ||||||
+ z ccd edd>A |"D7" (A4 F4) | z2 FF AGd>A |"G" (BG-) G6!fine! |"G" z GGG GFEF | B,8 | z2 GG GFDE | %29
+w: And soon they'll car- ry him a-|way *|He stopped lov- ing her to-|day. * *|3.~She came to see him one last|time|We all won- dered if she|
+w: ||||(spoken) * * * * * *|||
+"C" C8 | z GGF BAF>A |"D7" F8 | z AAA BdB>G |"G" G8!D.S.! |] %34
+w: would,|And it kept run- ning through my|mind,|"This time he's o- ver her for|good.|
+w: |||||
+

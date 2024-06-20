@@ -1,0 +1,36 @@
+X:1
+T:The Windmills Of Your Mind
+T:The Windmills Of Your Mind
+C:Michael Legrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Em" E2 B,B, CCB,B, | EEB,B, GGFE |"B7" F2 B,B, CCB,B, | FFB,B, AAGF |"Em" G2 EE FFEE | %5
+w: Round like a cir- cle in a|spir- al, like a wheel with- in a|wheel, Nev- er end- ing or be-|gin- ning on an ev- er spin- ning|reel, Like a snow- ball down a|
+w: mind! Like a tun- nel that you|fol- low to a tun- nel of it's|own, Down a hol- low to a|cav- ern where the sun has nev- er|shone, Like a door that keeps re-|
+"E7" BBEE ddcB |"Am7" c2 DD EEDD |"D7" AADD ccBA |"Gmaj7" B2 CC DDCC |"Cmaj7" GGCC BBAG | %10
+w: moun- tain, or a car- ni- val bal-|loon, Like a car- ou- sel that's|trun- ing run- ning rings a- round the|moon. Like a clock whose hands are|sweep- ing past the min- utes of it's|
+w: vol- ving in a half for- got- ten|dream, Or the rip- ples from a|peb- ble some- one toss- es in a|stream. * * * * * *||
+"F#m7b5" A2 B,B, CCB,B, |"B7" FFB,B, AAGF |"A#dim" G2 ^A,A, GGFE |"B7" F2 B,B, FFE^D :| %14
+w: face, And the world is like an|ap- ple whirl- ing si- lent- ly in|space, Like the cir- cles that you|find in the wind- mills of your|
+w: ||||
+"Em" E2 B,B, CCB,B, | EEB,B, GGFG |"Am7" A2 DD EEDD |"D7" AADD FFGA |"Gmaj7" B2 GG AAAG | %19
+w: mind! Keys that jin- gle in your|pock- et, words that jan- gle in your|head, Why did sum- mer go so|quick- ly? Was it some- thing that you|said? Lov- ers walk a- long a|
+w: |||||
+"G7" ddGG =ffed |"Cmaj7" e2 ^FF GGFF |"F#7" ^ccFF eedc |"Bm" d2 FF BBAA |"E7" BBEE ^GGAB | %24
+w: shore and leave their foot- prints on the|sand. Is the sound of dis- tant|drum- ming just the fin- gers of your|hand? Pic- tures hang- ing in a|hall- way and the frag- ment of a|
+w: |||||
+"Am" c2 DD EEDD |"D7" AADD FFGA |"Gmaj7" B2 CC DDCC |"Cmaj7" GGCC BBAG |"F#m7b5" A2 GG FFEE | %29
+w: song, Half re- mem- bered names and|fac- es, but to whom do they be-|long? When you knew that it was|o- ver you were sud- den- ly a-|ware that the aut- umn leaves were|
+w: |||||
+"B7" GGFF EE^DD |"Em" E2 B,B, CCB,B, | EEB,B, GGFE |"B7" F2 B,B, CCB,B, | FFB,B, AAGF | %34
+w: turn- ing to the col- or of her|hair! Like a cir- cle in a|spi- ral, like a wheel with- in a|wheel, Nev- er end- ing or be-|gin- ning on an ev- er spin- ning|
+w: |||||
+"A#dim" G2 ^A,A, GGFE |"Em" G2 B,B, GGFE |"B7" F2 B,B, FFE^D |"Em" E8- | E8 |] %39
+w: reel, As th im- a- ges un|wind, Like the cir- cles that you|find, in the wind- mills of your|mind!||
+w: |||||
+

@@ -1,0 +1,34 @@
+X:1
+T:Sitting On The Dock Of The Bay - bass line
+T:(Sittin' On) The Dock Of The Bay
+T:Steve Cropper / Otis Redding - 1967
+C:Otis Redding
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 bass-8 nm="Electric Bass" snm="El. B."
+%%MIDI program 33
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+"^INTRO" G,,2 z G,,{/^C,} D,2{/C,} D,2 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | %2
+ G,,2 z G,,{/^C,} D,2{/C,} D,2 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | %4
+"^VERSE 1" G,,2 D,2 G,,A,,^A,,B,,- | B,,2 F,2 B,,F, z B,, | C,2 G,2 C,B,,_B,,A,,- | %7
+ A,,A,, E,,2 A,,2 !~(!E,2 | !~)!G,,2 D,2 G,,A,,^A,,B,,- | B,,2 F,2 B,,F, z B,, | %10
+ C,2 G,2 C,B,,_B,,A,,- | A,,A,, E,,2 A,,E,,A,,_A,, |"^CHORUS 1" G,,4 G,,B,,D,E,- | E,8 | %14
+ G,,4 G,,B,,D,E,- | E,8 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | A,,2 z A,,{/^D,} E,2{/D,} E,2 | %18
+ G,,2 z G,,{/^C,} D,2{/C,} D,2 | E,8 |"^VERSE 2" G,,2 D,>G,, G,,A,,^A,,B,,- | %21
+ B,,2 F,>B,, B,,F, z B,, | C,2 G,>C, C,B,,_B,,A,,- | A,,A,, E,,2 A,,2 !~(!E,2 | %24
+ !~)!G,,2 D,>G,, G,,A,,^A,,B,,- | B,,2 F,>B,, B,,F, z B,, | C,2 G,>C, C,B,,_B,,A,,- | %27
+ A,,A,, E,,2 A,,E,,A,,E,, |"^CHORUS 2" G,,4 G,,B,,D,E,- | E,8 | G,,4 G,,B,,D,E,- | E,8 | %32
+ G,,2 z G,,{/^C,} D,2{/C,} D,2 | A,,2 z A,,{/^D,} E,2{/D,} E,2 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | %35
+ E,8 |"^MIDDLE 8" G,4 D,3 C,- | C,4 C,E,=F,^F, | G,4 D,3 C,- | C,4 C,E,=F,^F, | G,3 G, D,3 D, | %41
+ C,3 C, G,2 G,2 | =F,8 | D,8 |"^VERSE 3" G,,2 D,>G,, G,,A,,^A,,B,,- | B,,2 F,>B,, B,,F, z B,, | %46
+ C,2 G,>C, C,B,,_B,,A,,- | A,,A,, E,,2 A,,2 !~(!E,2 | !~)!G,,2 D,>G,, G,,A,,^A,,B,,- | %49
+ B,,2 F,>B,, B,,F, z B,, | C,2 G,>C, C,B,,_B,,A,,- | A,,A,, E,,2 A,,E,,=F,,^F,, | %52
+"^CHORUS 3" G,,4 G,,B,,D,E,- | E,8 | G,,4 G,,B,,D,E,- | E,8 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | %57
+ A,,2 z A,,{/^D,} E,2{/D,} E,2 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | E,8 |: %60
+"^OUTRO - repeat & fade" G,,2 z G,,{/^C,} D,2{/C,} D,2 | G,,2 z G,,{/^C,} D,2{/C,} D,2 | %62
+ G,,2 z G,,{/^C,} D,2{/C,} D,2 | E,2 z E,{/^A,} B,2{/A,} B,2 :| %64
+

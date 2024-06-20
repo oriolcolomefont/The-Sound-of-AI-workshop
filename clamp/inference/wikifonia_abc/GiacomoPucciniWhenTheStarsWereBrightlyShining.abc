@@ -1,0 +1,24 @@
+X:1
+T:When The Stars Were Brightly Shining
+T:When The Stars Were Brightly Shining
+T: "E lucean le stelle " from the opera "La Tosca"
+T:Giacomo Puccini
+C:Giacomo Puccini
+Z:All Rights Reserved
+L:1/8
+M:6/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"^no chord" z EBc dedcB>E ||[M:3/4]"Am" A3 A Bc |"F/A" F2- F>F G/A/B/c/ |"Dm6/A" de fg f>d | %4
+"Am" e2 e4- |"^,no chord" e/E/B/c/ d/e/d/c/ B>E |"Am" A3 A Bc |"F/A" f2 f4- |"G7" ff ff d>B | %9
+"Fmaj7" e2 z A Bc |"Bm7b5" z d dd"E7" B>^G |"Dm7b5" c2 c4 |[M:4/4]"^no chord" G,Gd_e fg f/e/d/G/ || %13
+[M:3/4] cc"E7" D2 B>E |"Am" A6 ||[M:4/4]"^no chord" z EBc de d/c/B/>E/ ||[M:3/4]"Am" A2- AA Bc | %17
+"F/A" F2- F>F"^no chord" G/A/B/c/ | de fg f>d |"Am" e2 e4- | e/"^no chord"E/B/c/ d/e/d/c/ B>E | %21
+"Am" A3 A Bc |"F/A" f2 f4- |"G7" ff ff (3:2:2d2 B |"Fmaj7" e2 z A Bc |"Bm7b5" B,d dd"E7" B>^G | %26
+"Dm7b5" c2 c4 |[M:4/4]"^no chord" G,Gd_e fg f/e/d/G/ |[M:3/4] cc- c"E7"E (3BB3/2E/ |"Am" A(A A4-) | %30
+ A2- A>E"Dm6" F>D |"Am" A6 |] %32
+

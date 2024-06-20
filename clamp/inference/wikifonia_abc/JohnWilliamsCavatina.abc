@@ -1,0 +1,32 @@
+X:1
+T:Cavatina
+T:Cavatina
+T:Themesong Deerhunter By John Williams
+T:Cavatina
+T:2
+C:John Williams
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z6 | z6 | z6 |"C" z6 |"C" z6 |"C" G6 | G6"Em" | F/G/A-"F" A4- |"Dm" A4 z2 |"Dm" F/G/A- A4- | %10
+ A4-"G7" AG/F/ |"C" G6- |"C7" G2 F2 E2 |"Am" E6 |"Dm" D2- D3 C |"Gm" D6 |"Ab" C6 |"Dm" C6 | %18
+"G" C2"G7" D3"G" B, |"C" C6- |"C" C3 c eg |"Am" c'6 |"Am" c'4- c'b/a/ | ab/c'/"G" b4- |"G" b4 bg | %25
+"Dm" f6 | g2-"G7" g3 d- |"C" d6- |"C7" d4 cd | d2-"Am" d3 d- |"Dm" d6 | d2-"Gm" d3 c- |"Ab" c6 | %33
+"Gm" _B6"Dm" |"G" c2"G7" d3"G" B |"C" c6- |"C" c6 |"C" g6 |"Em" g6 | f<"F"g- g4- |"Dm" g4 z2 | %41
+"Dm" f<g- g4- | g4"G7" z g/f/ |"C" g6- | g2"C7" f2 e2 |"Am" d4 d2- |"Dm" d2- d3 c- |"Gm" c6 | %48
+"Ab" c6 |"Gm" c6 |"G" c2"G7" d3"G" B |"C" c6- |"C" c3 c eg |"Am" c'6 |"Am" c'4- c'b/a/ | %55
+ ab/c'/"G" b4- |"G" b4 bg |"Dm" f6 |"G7" g2- g3 d- |"C" d6- | d4"C7" cd |"F" e6 |"Bb" f6 | %63
+"Gbdim" ^f2- f3 d |"G" g6 | g2-"Gm" g3 g |"Ab" ^a4- ab/c'/- | c'2-"Gm" c'3"Dm" d |"G""G7" g6"G" | %69
+"C" g6 |"C" g4"Em" z2 | f<"F"g- g4- |"Dm" g2 z2 z2 |"Dm" fg- g4- | g2"G7" z2 z g- |"C" g6 | %76
+"C7" z2 g2 e2 |"Am" e6 |"Dm" d2- d3 c- |"Gm" c6 |"Ab" c'6 |"Gm" c'6 |"G" c2"G7" d3"G" B |"C" c'6- | %84
+"C" c'2 z c eg |"Am" b6- |"Am" b4 z2 |"Dm" B6- |"Dm" B4 z2 | c4"G7""Dm" d2- | d4"G7" c2 |"C" c6- | %92
+"C" c6- |"C" c6 | z6 |] %95
+

@@ -1,0 +1,30 @@
+X:1
+T:Through A Long And Sleepless Night
+T:Through A Long And Sleepless Night
+T:from movie "Come To The Stable"
+T:Mack Gordon & Alfred Newman
+C:Mack Gordon and Alfred Newman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" E E E E |"Cm" E E E E |"Fm7" E"Bb7b9" C2 D |"Eb" E4 |"Eb" G G"G/D" G G |"Cm" G G"Eb/Bb" G G | %6
+w: Through A Long And|Sleep- less Night I|whis- per your|name.|Through A Long And|Sleep- less Night of|
+"Fm7" G"Bb7b9" E2 F |"Eb""Eb7" G4 |"Ab" c"D7/A" c2 d |"G7" =B B2 G |"C7" c c2 B |"Fm" A2 (3z E F | %12
+w: who is to|blame.|Can't help but|won- der if|you're lone- ly|too as I|
+"Cm7" (3G G G"F9" (3G G G |"Cm7" (3G G G"F7" (3G F E |"Fm7" F4- |"Bb7" F2 z2 |"Eb" E E E E | %17
+w: lie there and toss a- bout,|so at a loss a- bout|you.||How I wish my|
+"Cm" E E E E |"Fm7" E"Bb7b9" C2 D |"Eb" E4 | G G"G/D" G G |"Cm" G G"Eb/Bb" G G | %22
+w: heart would leave my|mem'- ries a-|lone.|Why must I re-|dream, re- live the|
+"Fm7" G"Bb7b9" E2 F |"Eb""Eb7" G4 |"Ab" c"Bb7b9" c2 f |"Eb" e"Eb/G" B2 e |"Ab6" d c"Bb7" B A | %27
+w: joys we have|known?|I pray that|some- day our|love will see the|
+"Dm7" G2"G7" F2 |"Cm" E E"Cm/Bb" E E |"Ab6" E"Bb7b9" C2 D |"Eb" E E"F#dim" E E | %31
+w: light, 'til|then in tick- tock|si- lence I'll|beg my heart to|
+"Fm7" E"Bb7b9" C2 D |"Eb" E E"Eb/G" E"B7/F#" E |"Fm7" G E"Bb7b9" G G |"Eb""Db" E4- |"Eb" E3 z |] %36
+w: weep less, all|through an oh so|long and sleep- less|night.-||
+

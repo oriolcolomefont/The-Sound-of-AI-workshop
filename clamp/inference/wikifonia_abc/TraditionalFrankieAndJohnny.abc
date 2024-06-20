@@ -1,0 +1,24 @@
+X:1
+T:Frankie And Johnny
+T:Frankie And Johnny
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" CDEA-"G+7" AG A2 |"C" C C3"G+7" z4 |"C" CDEA-"G+7" AG A2 |"C" C2 z2"C7" z4 |"F" FGAc- c d2 A | %5
+w: Frank- ie and John- * ny were|sweet- hearts.|Oh, what a cou- * ple in|love!|Franl- ie was loy- * al to|
+ c c3- c z AB | c2 c2"F#dim" B2 A2 |"C/G" G2 E2"A7" E _E2 D- |"D7" D8- |"G7" D z AG (AG) E2 | %10
+w: John- ny, _ just as|true as stars a-|above. He was her man,|_|* but he done _ her|
+"C""F7" C8- |"C" C2 z2"G7" z4 | CDEA-"G+7" AG A2 |"C" C C3"G+7" z2 z C |"C" CDEA-"G+7" AG A2 | %15
+w: wrong.|_|This is the end _ of my|stor- y and|this is the end _ of my|
+"C""C7" C6 z2 |"F" FGAc- c d2 A | c c3- c z AB | c2 c2"F#dim" B2 A2 |"C/G" G2 E2"A7" E _E2 D- | %20
+w: song.|Frank- ie is down _ in the|jail- house _ and she|cries the whold night|long "He was my man|
+"D7""Fm6" D8- |"G7" D z AG A G3 |"C""F7" c8- |"C" c2 z2 z4 |] %24
+w: _|* and he done me|wrong."|_|
+

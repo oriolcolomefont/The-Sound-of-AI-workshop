@@ -1,0 +1,28 @@
+X:1
+T:The Party's Over
+T:The Party's Over
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z B,"Ab" E"Bb7" F |:"Eb" A G3- | G B,"Ab" E"Bb7" F |"Eb" A G/F/ G2- | G/ z/ B,"Ab" E"Bb7" F | %5
+w: The par- ty's|ov- er,|* It's time to|call it a day.|* They've burst your|
+"Eb" A G/F/ G A |"Ab" c"Eb" B/=A/ B"Ab" c |"Eb" B4- |"Eb7b9" B B B B |"Ab6" c F3- |"Abm6" F A A A | %11
+w: pret- ty bal- loon and|ta- ken the moon a-|way.|* It's time to|wind up|* the mas- quer-|
+"Ebmaj7" G4- |"Eb6" G G G G |"Dm7" =A D3- |"G7" D F F F |"C7" =E2"F7" _E2 | %16
+w: ade|* Just make your|mind up|* The pi- per|must be|
+"Bb7" D/ z/ B,"Ab" E"Bb7" F |"Eb" A G3- | G B,"Ab" E"Bb7" F |"Eb" A G/F/ G2- | %20
+w: paid. The par- ty's|ov- er,|* The can- dles|flick- er and dim|
+ G/ z/ B,"Ab" E"Bb7" F |"Eb" A G/F/ G A |"Ab" c"Eb" B/=A/ B"Ab" c |"Db" e _d/c/"F#m" d2- | %24
+w: * You danced and|dreamed thru the night, It|seemed top be right, Just|be- ing with him.|
+"Eb7" _d e"Eb+7" e e |"Ab6" e"C#m" A3- |"Bb7" A d d3/2 d/ |"Bbm6" G4- |"C7" G c c c | %29
+w: * Now you must|wake up,|* All dreams must|end.|* Take off your|
+"Fm" c"Db7" F3- |"Bb7" F F"Ab" E"Bb7" D |"Ebmaj7" G G3- |"Cm" G2 F E |"Fm7" A A3- | A2"Bb7" D2 |1 %35
+w: make- up,|* the par- ty's|ov- er|* It's all|ov- er,|* my|
+"Eb""Ebdim" E4- ||"Fm7" E/ z/ B, E"Bb7" F :|2"Eb""Fm7""Emaj7" E4- ||"Eb6" !fermata!E3 z |] %39
+w: friend.|* The par- ty's|friend.||
+

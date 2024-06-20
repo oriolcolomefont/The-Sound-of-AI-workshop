@@ -1,0 +1,17 @@
+X:1
+T:Ah Bir Atas Ver
+T:Ah Bir Atas Ver
+T:Hakki Sengul
+C:Hakkı Sengul
+Z:All Rights Reserved
+L:1/16
+M:9/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: ee/e/egffe2BcA2ee/e/efed2c/B/ce2e>dcBcBA^G A4 z :: gg/g/ggagfe e4 gg/g/ggagfe e4 b>gfeagfe e4 :: %2
+ ee/e/egffe2BcA2ee/eefed2c/B/ce2e>dcBdBA^G A4 z/ :| %3
+

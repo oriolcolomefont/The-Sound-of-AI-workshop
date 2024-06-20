@@ -1,0 +1,26 @@
+X:1
+T:My Dreams Are Getting Better All The Time
+T:My Dreams Are Getting Better All The Time
+C:Vic Mizzy
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z6"F7" z F |:"Bb" (3d^cd B>F D>F"Gm" (3BA_A |"Cm" G e2 c-"C7" c3 B | %3
+w: Well|what do you know she smiled at me in my|dreams last night, _ My|
+"F7" A>eA>_A"Cm7" G>e"F7"G>_G |"Bb""Bdim" F4-"Eb6" F3"F7" F |"Bb" (3d^cd B>F D>F"Gm" (3BA_A | %6
+w: dreams are get- ting bet- ter all the|time. _ And|what do you know she looked at me in a|
+"Cm" G e2 c-"C7" c3 B |"F7" A>eA>_A"Cm7" G>e"F7"G>=A |"Bb""Ebm6" B4-"Gdim""Bb7" B3 B | %9
+w: diff- 'rent light, _ My|dreams are get- ting bet- ter all the|time. _ To|
+"Cm" c>cc>B"Ebm6" c c2 B |"Gm7" (3GGG"G7" G>F G3 G |"C" (3cdc"Bb" B>B"Cdim" A>A"C7"G>G | %12
+w: think that we were stran- gers a|coup- le of nights a- go, And|tho' it's a dream, I nev- er dreamed she'd|
+"F7" A>^GA>B c3 F |"Bb" (3d^cd B>F D>F"Gm" (3BA_A |"Cm" G e2 c-"C7" c3 B | %15
+w: ev- er say "hel- lo". Oh,|may- be to- night I'll hold you tight when the|moon- beams shine. _ My|
+"F7" A>eA>_A"Cm7" G>e"F7"G>=A |1"Bb""Gb9" B4"F7" z2 z F :|2"Bb" B6 z2 |] %18
+w: dreams are get- ting bet- ter all the|time. Well|time.|
+

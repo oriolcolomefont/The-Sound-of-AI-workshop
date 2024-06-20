@@ -1,0 +1,41 @@
+X:1
+T:Smiles
+T:Smiles
+C:Lee S. Roberts
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab" E2"F7" c2 |"Bb" F c/B/- B2 |"Eb" e c e c |"Ab" B A/F/- F2 | E F"Bdim7" A F | %5
+w: Dear- ie|now I know _|Just what makes me|love you so, _|Just what holds me|
+w: Dear- ie|when you smile, _|Ev- 'ry- thing in|~life's worth while, _|Love grows fon- der|
+"Eb/Bb" G B"D7/A" =d c |"Ddim" A B"Bb7" G F |"Eb7" B2- B2 |"Ab" E2"F7" c2 |"Bb" F c/B/- B2 | %10
+w: and en- folds me|In the gol- den|glow, _|Dear- ie|now I see _|
+w: as we wan- der|Down each mag- ic|mile; _|Cheer- y|mel- o- dies _|
+"Eb" e c e c |"Ab" B A/F/- F2 |"Eb/Bb" G B"D7/A" =d c |"Bb7" B c"Edim7" B G |"Bb7" A B"Bb7" c =d | %15
+w: 'Tis each smile so|bright and free, _|for life's sad- ness|turns to glad- ness|When you smile on|
+w: Seem to float up-|on the breeze, _|Dove's are coo- ing|while they're woo- ing|In the leaf- y|
+"Eb" !fermata!e2 E F |:"Eb7" G4- | G F G"Ddim" A |"Eb7" B2 B2- | B2"Eb7sus4" A"Eb7" G |"Ab/C" A4- | %21
+w: me. There are|smiles|_ that make us|hap- py,|_ there are|smiles|
+w: mtrees. * *||||||
+ A G A B |"Ab/Eb" c4- |"Ab" c2 c"Abm" =B |"C7" c3 =d | =e =d c =B |"Fm" c2 c2- | c2 =B c | %28
+w: _ that make us|blue;|_ There are|smiles that|steal a- way the|tear drops|_ as the|
+w: |||||||
+"Bb7" =d3 c |"Fm7" A B"Bb6" G F |"Eb7""Ebdim7" B4- |"Eb7" B2 c d |"Ab7" e3 c | e c e c | %34
+w: sun- beams|steal a- way the|dew.|_ There are|smiles that|have a ten- der|
+w: ||||||
+"Ebm" B2 B2- | B2"Ab+" A B |"Ddim" c3 =B | c =B c A |"Db" F4- | F2 F G |"Bdim" A3 G | B A G A | %42
+w: mean- ing,|_ that the|eyes of|love a- lone can|see,|_ and the|smiles that|fill my life with|
+w: ||||||||
+"Ab" e2 c2- | c2 d =d |"Eb7" e"Bbm7" _d2 B | F2"Eb7" G2 |1"Ab""Abdim7" A2-"Bdim7/Ab" A2- | %47
+w: sun- shine|_ are the|smiles that you|give to|me. _|
+w: |||||
+"Ab" A2 E F :|2"Ab" A2-"Abdim7" A2- |"Bbdim7" A2-"Ab" A z |] %50
+w: _ There are|me. _|_ _|
+w: |||
+

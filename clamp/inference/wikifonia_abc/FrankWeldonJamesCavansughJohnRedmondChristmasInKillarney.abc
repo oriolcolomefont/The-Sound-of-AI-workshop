@@ -1,0 +1,24 @@
+X:1
+T:Christmas In Killarney
+T:Christmas In Killarney
+C:Frank Weldon
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z3 A |:"C" A>CC>C G>CC>C |"F" (3AGF (3AGF"C" G>CC>C |"F" A>Bc>B A"C" G2 C | %4
+w: The|hol- ly green, the i- vy green, the|pret- ti- est pic- ture you've ev- er seen is|Christ- mas in Kil- lar- ney, with|
+"Dm" (3DED"G7" CB,"C" C3 A | A>CC>C G>CC>C |"F" (3AGF (3AGF"C" G>CC>C |"F" A>Bc>B A>"C"GE>C | %8
+w: all of the folks at home. It's|nice you know to kiss your beau while|cud- dl- ing un- der the mis- tle- toe, and|San- ta Claus, you know of course is|
+"Dm" (3DED"G7" CB,"C" C3 E |"Am" E>AA>B"Am7" c A2 B |"Am6" c>BA>B"Em" E3 E |"G" D>GG>A B>DD>D | %12
+w: one of the boys from home. The|door is al- ways o- pen, the|neigh- bors pay a call and|Fath- er John be- fore he's gone, will|
+"Am7" c>c"D7"B>A"G7" G3 A |"C" G>CC>C G>CC>C |"F" (3AGF (3AGF"C" G>CC>C |"F" A>Bc>B A"C" G2 C | %16
+w: bless the house and all. How|grand it feels to click your heels, and|join in the fun of the jigs and reels. I'm|hand- ing you no blar- ney, the|
+"C7" E>EF>G"F""A7""Dm" A3 B |"F" c>B"F#dim"c>A"C" G"Am" c2 C |"Dm" (3DED"G7" C>B,"C" C3 A :| %19
+w: likes you've nev- er known, Is|Christ- mas in Kil- lar- ney, with|all of the folks at home. The|
+"F" (3DED"G7" C>B,"C" C4 |] %20
+w: all of the folks at home.|
+

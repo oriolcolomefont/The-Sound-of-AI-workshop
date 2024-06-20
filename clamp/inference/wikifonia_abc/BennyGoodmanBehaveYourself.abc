@@ -1,0 +1,29 @@
+X:1
+T:Behave Yourself
+T:Behave Yourself
+T:swing 
+T:Benny Goodman
+C:Benny Goodman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm" A3 F D4 |"E7" z2 ^G=G"A7" ^G=G^GG |"Dm" A3 F D4 |"E7" z2 ^G=G"A7" ^G=G^GG |"Dm" A3 D A,4 | %5
+"G7" z3 =B"C7" FED=B, |"F6" D8 |"A7" A,DED ^C4 |"Dm" A3 F D4 |"E7" z2 ^G=G"A7" ^G=G^GG | %10
+"Dm" A3 F D4 |"E7" z2 ^G=G"A7" ^G=G^GG |"Dm" A3 D A,4 |"G7" z3 =B"C7" FED=B, |"F6" D8 | %15
+"^N.C." z2 =E2 E2 E2 |"A7" E ^F6 E | E ^F6 ^C |"D7" E2 F2 ^F4 |"^N.C." z2 D2 D2 D2 |"G7" D E6 D | %21
+ D E6- E |"C7" z2 ^G2 G2 G2 |"A7" A2 z2 z2 ^G2 |"Dm" A3 F D4 |"E7" z2 ^G=G"A7" ^G=G^GG | %26
+"Dm" A2 F2 D4 |"E7" z2 ^G=G"A7" ^G=G^GG |"F6" A3 D A,4 |"G7" z3 =B"C7" FED=B, |"F6" D8 | %31
+"A7" z2 z2 z2 ^G2 |:[K:Db]"Bbm" f3 d B4 |"C7" z2 =e_e"F7" =e_e=ee |"Bbm" f3 d B4 | %35
+"C7" z2 =e_e"F7" =e_e=ee |"Bbm" f3 B F4 |"Eb7" z3 =g"Ab7" dcB=G |"Db6" B8 |"F7" FBcB =A3 =e | %40
+"Bbm" f3 d B4 |"C7" z2 =e_e"F7" =e_e=ee |"Bbm" f3 d B4 |"C7" z2 =e_e"F7" =e_e=ee |"Bbm" f3 B F4 | %45
+"Eb7" z3 =g"Ab7" dcB=G |"Db6" B8 |"^N.C." z2 =c2 c2 c2 |"F7" c =d6 c | c =d6 =A |"Bb7" c2 d2 =d4 | %51
+"^N.C." z2 B2 B2 B2 |"Eb7" B c6 B | B c6- c |"Ab7" z2 =e2 e2 e2 |"F7" f2 z2 z2 =e2 |"Bbm" f3 d B4 | %57
+"C7" z2 =e_e"F7" =e_e=ee |"Bbm" f3 d B4 |"C7" z2 =e_e"F7" =e_e=ee |"Db6" f3 B F4 | %61
+"Eb7" z3 =g"Ab7" dcB=G |"Db6" B8 |"F7" z2 z2 z2 =e2 :| %64
+

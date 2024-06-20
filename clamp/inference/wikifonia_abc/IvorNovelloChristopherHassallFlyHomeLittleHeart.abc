@@ -1,0 +1,46 @@
+X:1
+T:Fly Home, Little Heart
+T:Fly Home, Little Heart
+T:Ivor Novello
+T:Christopher Hassall
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B2 G B |"Fm7" e2 f2 |"Eb" g2"Bb7" f e |"Fm7""Bb7" f4 ||"Eb" B2 G"Bb7" A | %5
+w: ||||Far, far a-|
+"Eb" B2"Fm7" E"Bb7" F |"Eb" G2 E"Bb" F |"G7" G4 |"Cm7" G2"Cm" E F | G2"Cm6" C"G" D | %10
+w: way, where the|clouds hov- er|low,|I heard a|cry like a|
+"Cm" E2"Fm" C D |"Eb7" E3 z |"Ab" C2 E c |"Bb7" c2 D D |"Gm" B2 G B |"Cm" E4 |"F9" E2 G e | %17
+w: bird in the|snow.|Soft was my|ans- wer, Have|com- fort, my|dear,|Why waste a|
+ e2"F7" d F |"Fm7/Bb" c2 A F |"Bb7" D2- D"^Refrain" B, |"Eb" B3 E/F/ |"Fm7" B,3"Bb7" B, | %22
+w: mo- ment when|A- pril is|here?- * Fly|home, lit- tle|heart. Al-|
+"Eb" E E"Bb" F F |"Ab" A3"Eb" G |"F7" F F"Fm6" c3/2 B/ |"Gm7" B3"Eb" G |"Cm" E E"F7" G G | %27
+w: though the way be|long, Your|wings are brave and|strong. Fly|home where you be-|
+"Fm7/Bb""Bb7" B,3 B, |"Eb" B3 E/F/ |"Fm7""Bb7" B,3 B, |"Eb" E E"Bb" F F |"Ab" A3"Eb" G | %32
+w: long. I|know, lit- tle|heart, How|lone- ly you must|be So|
+"F7" F F"Fm6" c3/2 B/ |"Eb" e3"Ab" A |"Eb" G3"Bb7" F/D/ |"Eb" B3"Fm7" E |"Eb" G2"Bb7" B,2 | %37
+w: far a- cross the|sea. So|fly, lit- tle|heart, fly|home to|
+"Eb" E3 z |"Eb" B2 G B |"Fm7" e2 f2 |"Eb" g2"Bb7" f e |"Fm7/Bb" f4 |"Eb" B2 G"Bb7" A | %43
+w: me.|||||Soon as the|
+"Eb" B2"Fm7" E"Bb7" F |"Eb" G2 E"Bb" F |"G7" G4 |"Cm7" G2"Cm" E F | G2"Cm6" C"G" D | %48
+w: dusk brings the|end of the|day,|Wist- ful and|sweet rings that|
+"Cm" E2"Fm" C D |"Eb7" E3 z |"Ab" C2 E c |"Bb7" c2 D D |"Gm" B2 G B |"Cm7""Cm" E4 |"F9" E2 G e | %55
+w: song far a-|way.|Out of the|si- lence a|voice through the|foam,|Yearn- ing for|
+ e2"F7" d F |"Fm7/Bb" c2 A F |"Bb7" D2- D B, |"Eb" B3 E/F/ |"Fm7" B,3"Bb7" B, |"Eb" E E"Bb" F F | %61
+w: love and the|dear days at|home. * Fly|home, lit- tle|heart. Al-|though the way be|
+"Ab" A3"Eb" G |"F7" F F"Fm6" c3/2 B/ |"Gm7" B3"Eb" G |"Cm" E E"F7" G G |"Fm7/Bb""Bb7" B,3 B, | %66
+w: long, Your|wings are brave and|strong. Fly|home where you be-|long. I|
+"Eb" B3 E/F/ |"Fm7""Bb7" B,3 B, |"Eb" E E"Bb" F F |"Ab" A3"Eb" G |"F7" F F"Fm6" c3/2 B/ | %71
+w: know, lit- tle|heart, How|lone- ly you must|be So|far a- cross the|
+"Eb" e3"Ab" A |"Eb" G3"Bb7" F/D/ |"Eb" B3"Fm7" E |"Eb" G2"Bb7" B,2 |"Eb" E3 B |"Bb7" B3 c | %77
+w: sea. So|fly, lit- tle|heart, fly|home to|me. Fly|home, dear|
+"Eb" G3 B |"Fm7/Bb" B2"Bb7" B2 |"Eb6" e4- | e4- |"Eb" e3 z | z4 |] %83
+w: heart. Fly|home to|me.||||
+

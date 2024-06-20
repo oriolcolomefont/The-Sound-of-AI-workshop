@@ -1,0 +1,47 @@
+X:1
+T:Amsterdam
+C:Jacques Brel
+Z:All Rights Reserved
+L:1/4
+M:6/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am" z4 z E/E/ |:"Am" A A B c2 d/c/ |"Em" B G G G2 A/B/ |"F" c A A A2 G/A/ |"E7" B B ^G E2 E/E/ | %5
+w: Dans le|port d'Am- ster- dam Ya des|ma- rins qui chantent Les rê-|ves qui les hantent Au lar-|ge d'Am- ster- dam Dans le|
+w: |port d'Am- ster- dam Ya des|ma- rins qui mangent Sur des|nap- pes trop blanches Des pois-|sons ruis- se- lants Ils vous|
+"Am" A A B c2 d/c/ |"Em" B G G G2 A/B/ |"F" c A A"E7" ^G2 ^F/G/ |"Am" A A A A2 c/d/ | %9
+w: port d'Am- ster- dam Ya des|ma- rins qui dorment Com- me|des o- ri- flammes Le long|des ber- ges mornes Dans le|
+w: mon- trent des dents A cro-|quer la for- tune A dé-|crois- ser la lune A bouf-|fer des hau- bans Et ça|
+"C" e e e e2 f/e/ |"G7" d d d d2"E7" e/d/ |"Am" c A A A2 B/c/ |"E7" B B ^G E2 E/E/ | %13
+w: port d'Am- ster- dam Ya des|ma- rins qui meurent Plein de|bière et de drames Aux pre-|miè- res lu- eurs Mais dans|
+w: sent la mo- rue Jus- qu'dans|le cœur des frites Que leurs|gross's mains in- vitent A re-|ve- nir en plus Puis se|
+"F" A A A A2 c/A/ |"Em" B G G G2 A/B/ |"Dm7" c A A"E7" ^G2 ^F/G/ ||1"Am" A A A A2 E/E/ :|2 %17
+w: l'port d'Am- ster- dam Ya des|ma- rins qui naissent Dans la|cha- leur é- paisse Des lan-|gueurs o- cé- anes Dans le|
+w: lèv'nt en ri- ant Dans un|bruit de tem- pête Re- fer-|ment leur bra- guette Et sor\--||
+"Am" A A A A2 c/c/ |:"Am" c c d e2 e/c/ |"Em" d B B B2 A/B/ |"F" c c c c2 d/c/ | %21
+w: \-tent en ro- tant Dans le|port d'Am- ster dam Ya des|ma- rins qui dansent En se|frot- tant la panse Sur la|
+w: |port d'Am- ster- dam Ya des|ma- rins qui boivent Et qui|boivent et re- boivent Et qui|
+"E7" B B B B2 e/e/ |"Am" e c B A2 e/c/ |"Em" d B B B2 A/B/ |"F" c c c"E7" B2 c/B/!dacoda! || %25
+w: pan- se des femmes Et ils|tournent et ils dansent Comm' des|so- leils cra- chés Dans le|son dé- chi- ré D'un ac-|
+w: re- boivent en- cor Ils boivent|à la san- té Des pu-|tains d'Am- ster- dam De Ham-|bourg ou d'ail- leurs En- fin|
+"Am" A A A A2 e/e/ |"C" e e e e2 e/c/ |"G7" d d d d2"E7" c/d/ |"Am" e e e e2 e/e/ | %29
+w: cor- dé- on rance Ils se|tor- dent le cou Pour mieux|s'en- ten- dre rire Jus- qu'à|c'que tout à coup L'ac- cor-|
+w: ||||
+"E7" e e e e2 B/B/ |"F" c c c c2 d/c/ |"Em" B B B B2 A/B/ |"Dm7" c c c"E7" B2 c/B/ | %33
+w: dé- on ex- pire A- lors|le ges- te grave A- lors|le re- gard fier Ils ra-|mènent leur ba- tave Jus- qu'en|
+w: ||||
+"Am" A A A A2 c/c/ :|O"Am" c c c c2 c/d/ |"C" e e/e/ e/e/ e2 e/c/ |"G7" d d d g2"E7" d/d/ | %37
+w: plei- ne lu mière Dans le|Ils boivent aux dames Qui leur|don- nent leur jo- li corps Qui leur|don- nent leur vertu Pour u-|
+w: ||||
+"Am" e e e e2 e/e/ |"E7" e e e e2- e/e/ |"F" e e/e/ e/e/ e2 e/e/ |"Em" e e e e2 e/e/ | %41
+w: ~ne pièce en or Et quand|ils ont bien bu * Se|plan- tent le nez au ciel Se mouchent|dans les é- toiles Et ils|
+w: ||||
+"Dm7" e e e"E7" e2 e/e/ |"Am" e e e e2 e/e/ | e e e e2 d/c/ |"Em" B B B B2 c/B/ | %45
+w: pissent comm' je pleure Sur les|femmes in- fi- fèles. Dans le|port d'Am- ster- dam. * *||
+w: ||||
+"Dm" A A A"E7" ^G2 ^F/G/ |"Am" A A A A3 || %47
+w: ||
+w: ||
+

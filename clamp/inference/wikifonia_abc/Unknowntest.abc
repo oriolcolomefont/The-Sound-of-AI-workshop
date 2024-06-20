@@ -1,0 +1,19 @@
+X:1
+T:test
+T:Title_text
+T:Subtitle_text
+T:Composer_text
+T:Lyricist_text
+T:Copyright_text
+T:Sefül
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ C E C E | G2 G2 |] %2
+w: Bo- ci, bo- ci|tar- ka|
+

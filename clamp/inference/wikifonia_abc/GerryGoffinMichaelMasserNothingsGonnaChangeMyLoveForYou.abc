@@ -1,0 +1,21 @@
+X:1
+T:Nothing's Gonna Change My Love For You
+T:Nothings's Gonna Change My Love For You
+T:Gerry Goffin
+T:Michael Masser
+T:Public Domain
+C:Gerry Goffin
+Z:Public Domain
+L:1/16
+M:4/4
+K:C
+V:1 treble nm="Voice"
+V:1
+ z2 EF |"C" G2EG-G2EG-"G/B" G2EG-G2d2 |"Am7" c2E2 z z2 C"Em/G" B2cB-B2G2 | %3
+"Fmaj7" E2 C6"C/E" z4 z3 G, |"Dm7" F2GA-A2G2"Gsus4" D4"G" z3 G, ||"C" G2EG-G2EG-"G/B" G2EG-G2d2 | %6
+"Am7" c2E2 z3 C"Em/G" B2cB-B2GE- |"Fmaj7" E2CC- C4"C/E" z4 z2 G,G, | %8
+"Dm7" F2GAA2G2"Gsus4" D4"G" z3 C ||"F" A2Bc- cd2c-"C/E" cG2G2-<G2G | %10
+"Bb/C" f2e2f2g2"Fmaj7" e2cc- c4 |"Dm7" A2Bc- c4"C/E" G2Bc- c4 |[M:2/4]"F" A2B2 c2A2 | %13
+[M:4/4]"C/G" e2d2c2d2-"G" d8 |:"C" deeee2G(G"Fmaj7" G)A2A2-<A2A |"G" ddddd2F2"E" E2f2e2d2 | %16
+"Am" z2 c2B2ce-"D/F#" e2d2A2d2 |"G743" z cccc2BB-"G7" B2A2A2G2 :| %18
+

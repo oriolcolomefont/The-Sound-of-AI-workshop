@@ -1,0 +1,29 @@
+X:1
+T:Cotton Fields
+T:Cotton Fields
+T:(The Cotton song)
+T:Huddie Ledbetter
+C:Huddie Ledbetter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"^N.C." A c |:"F" c c d/c/c/c/ |"F7" c/A/- A A A |"Bb" G F F F |"F" D C F F | A4 | c c d c | %7
+w: When I|was a lit- tle bit- ty|ba- by _ Moth- er|rocked me in the|cra- dle In them|old|cot- ton fields at|
+w: |home in Ar- kan- * *|sas peo- ple ask me|what you come here|for * * *|||
+"C7" G4- | G2 c c |"F" c c d/c/c/c/ |"F7" c/A/- A A A |"Bb" G F F F |"F" D C F F | A4 | %14
+w: home|_ When I|was a lit- tle bit- ty|ba- by _ moth- er|rocked me in the|cra- dle in them|old|
+w: |* I was|home in Ar- kan- * *|sas peo- ple as me|what you come here|for * * *||
+"C7" G _B A G |"F" F4- | F"^N.C." F G A ||"Bb" _B B B B | _B/B/- B B B/B/ |"F" A z A/^G/ A | %20
+w: cot- ton fields at|home|_ oh when them|cot- ton bolls got|rot- ten _ you could- n't|pick ver- y much|
+w: ||||||
+ G/F/- F F A | c4 | d c c A |"C7" G4- | G2 c c |"F" c2 d c/c/ |"F7" c/A/- A A A |"Bb" G F F F | %28
+w: cot- ton _ in them|old|cot- ton fields at|home|_ It was|down in Lou- si-|an- a _ just a|mile from Tex- ar-|
+w: ||||||||
+"F" D C F F | A4 |"C7" G _B A G |1"F" F4- |"F" F z"^N.C." A c :|2"F" F4- | F2 z2 |] %35
+w: ka- na and them|old|cot- ton fields at|home|_ I was|home.|_|
+w: |||||||
+

@@ -1,0 +1,38 @@
+X:1
+T:Sweet Caroline
+T:Sweet  Caroline
+T:Neil  Diamond
+C:Neil Diamond
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C""_Slow Rock" e/f/ g | g4 |"F" z2 d/e/ f | f f e d |"C" z2 c/d/ e | e e d c | G4- |1"G" G4 :|2 %8
+w: Where it be-|gan|I can't be-|gin to know in|but then I|know its grow- ing|strong|_|
+w: Was in the|spring|and spring be-|came the sum- mer|who'd have be-|lieved you'd come a|||
+"G7" d4- | d3/2 z/ z2 :|"C" G4- | G2 z2 | z A/A/ A2- | A z z2 | z"G7" B/B/ B2- | B/ z/ z z2 | %16
+w: ||Hands,||touch- in hands||reach- in out||
+w: long?||Warm,||touch- in warm||||
+"F" z c/c/ c2- | c z c d |"G" d4- |"G7" d2 z2 |"C" e2 G A |"F" A4 | z z A f | f e d c |"G7" G4- | %25
+w: touch- in me|* touch- in|you||Sweet Car- o-|line|good times|nev- er seemed so|good|
+w: |||||||||
+ G4 |"C" e2 G A |"F" A4 | z z A f | f e d c |"G" d2"F" c2 |"G" G2 F2!dacoda! |: z"C" e/f/ g z | %33
+w: |I've been in-|clined|to be-|lieve they nev- er|would but|now I|look at the|
+w: |||||||And when I|
+ g4 |"F" z z d/e/ f | f f e d |"C" z z c d/e/ | e e d c |"G" G4- |1 G4 :|2"G7" d4- || %41
+w: night|and it don't|seem so lone- ly|we fill it|up with on- ly|two||you|
+w: hurt|hurt- in runs|off my shoul- der|How can I|hurt when hold- ing||||
+ d/ z/ z z2!D.S.! ||O"G" D/E/ F2 D/E/ | F/E/ D F/E/ D | F/G/ A2 F/G/ | A/G/ F A/G/ F | %46
+w: |||||
+w: |||||
+ A/B/ c2 A/B/ | c2 B2 | e2 d2 |:"C" e2 G A |"F" A4 | z z A f | f e d c |"G" G4- | G4- | %55
+w: |||||||||
+w: |||||||||
+"^Repeat and fade" G4 :| %56
+w: |
+w: |
+

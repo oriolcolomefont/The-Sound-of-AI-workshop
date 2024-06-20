@@ -1,0 +1,34 @@
+X:1
+T:Baby Elephant Walk
+T:Baby Elephant Walk
+T:(from the film "Hatari")
+T:Henry Mancini
+T:Hal David
+T:Famous Music Corporation, NY (1962 & 1965)
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Moderately slow, with a boogie beat" GG^DE GG^DE | GG^DE GG^DE | GG^DE GG^DE | GG^DE GG^DE |: %4
+w: ||||
+w: ||||
+"C" C>EGc edcA | ^FG z2 z4 | C>EGc edcA | G6 A(_E |"F7" (_E6) E)A | _EC z2 z4 |"C" C>EGc edcA | %11
+w: 1.~~Make be- lieve you're in a jun- gle|mo- vie.|Watch the ba- by el- e- phants go|by. The beat|_ _ is|groo- vy.|It's a brand new dance you ought to|
+w: 2.~~See the big ba- boon beat on the|bon- go,|As the ba- by el- e- phants ad-|vance. Down in|_ _ the|Con- go,|All the swing- ing mon- keys do this|
+ (^FG) z2 z2 z G |"G" d2 d2 BG z G |"F" c2 c2 _B/c/B/G/F^D |"^C7-5" _G2 G2 F/G/F/"C"_E/"C"CG, | %15
+w: try. _ Come|to the jun- gle and|see the a- ni- mal at- trac- tion,|ba- by el- e- phants in ac- tion|
+w: dance. _ _|_ _ _ _|||
+ (_B,C) z2 z4 :|"C" C>EGc edcA | ^FG z2 z4 | C>EGc edcA | G6 A(_E |"F7" (_E6) E)A | _EC z2 z4 | %22
+w: walk. _|If you plan on join- ing a sa-|fa- ri,|Don't get dressed for go- ing on a|cruise. The thing|_ _ to|car- ry|
+w: |||||||
+"C" C>EGc edcA | (^FG) z2 z2 z G |"G" d2 d2 BG z G |"F" c2 c2 _B/c/B/G/F^D | %26
+w: Is an ex- tra pair of dan- cing|shoes. _ Come|to the jun- gle and|see the a- ni- mal at- trac- tion,|
+w: ||||
+"^C7-5" _G2 G2 F/G/F/"C"_E/"C"CG, | (_B,C) z2 z4 |] %28
+w: Ba- by el- e- phants in ac- tion|walk. _|
+w: ||
+

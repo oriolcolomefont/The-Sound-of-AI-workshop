@@ -1,0 +1,28 @@
+X:1
+T:Don't Explain
+T:Don't Explain
+C:Billie Holiday
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Dm" D2"Dm/C" F4 AD |"Gm6/Bb""A7" E8 |"Dm" D2 F4"Dm/C" EF |"E7/Bb""Bb7b5""A9" E8 | %4
+w: Hush now don't ex-|plain!|Just say you'll re-|main,|
+"Eb9" c2"D9""D7b9" B6 |"Db9" B2"Bb/C" A4"C9" AF |"Fmaj7""Bb/D""Am7" E8- | %7
+w: I'm glad|you're back, Don't Ex-|plain!|
+"Bbm6/Db" E2"C7b9" z2"Bb7""A7" z4 |"Dm" D2 F4"Dm/C" AD |"Em7b5""A7" E8 |"Dm" D2 F4 EF | %11
+w: _|Qui- et, don't ex-|plain!|What is there to|
+"E7""A9" E8 |"Eb9" c2"D9""D7b9" B6 |"D9" B2"Bb/C" A4"C9" AD |"F""Dm6" F8- |"E7b9""A7b9" F8 | %16
+w: gain?|~~~Skip that|lip- stick, don't ex-|plain!|_|
+"Dm7" AAcA"Gm7" B B3 |"C7" GGBG"Fmaj7" A4 |"Bbmaj7" FFAF"Em7b5" G G3 |"Bb7" EFGG"A7" GF E2 | %20
+w: You know that I love you|and what love en- cures.|All my thoughts are of you|for I'm so com- plete- ly yours.|
+"Dm7" AAcA"Gm7" B B3 |"C7" GGBG"Fmaj7" A4 |"Bbmaj7" FFAF"Em7b5" G G3 |"Bb7" EFGF"A7" E4 | %24
+w: Cry to hear folks chat- ter,|And I know you cheat.|Right or wrong don't mat- ter|when you're with me, sweet.|
+"Dm" D2"Dm/C" F4 AD |"Gm6/Bb""A7" E8 |"Dm" D2"Dm/C" F4 EF |"E7/B""Bb7b5""A9" E8 |"Eb9" c2"D9" B6 | %29
+w: Hush now don't ex-|plain!|You're my joy and|pain.|My life's|
+"Db9" B2 A4"C9" AD |1"F""Bb6" F8 |"Am" F2"Em7b5" z2"A+7""A7" z4 :|2"F""Bb" F8- |"F" F8 |] %34
+w: yours, love, Don't ex-|plain!|_|plain!|_|
+

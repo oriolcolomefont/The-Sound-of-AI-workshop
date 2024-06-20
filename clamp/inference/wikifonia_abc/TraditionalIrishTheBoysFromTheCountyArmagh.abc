@@ -1,0 +1,34 @@
+X:1
+T:The Boys From The County Armagh
+T:The boys from the County Armagh
+T:Traditional
+C:Traditional Irish
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"G" G | G2 G | G F G |"C" A E2- |"Am" E2 E |"D" F F F |"D7" D F A |"G" G3- | G2 G | G G G | %10
+w: Theres|one fair|coun- ty in|Ire- land|* with|mem- ories so|glor- ious and|grand|* where|nat- ure has|
+w: I've|tra- velled|that part of|the county|* through|New- ton Fork-|hill Cross- mag-|len|* A-|round by the|
+ G F G |"C" A E2- |"Am" E2 E/E/ |"D" F F F |"D7" D F A |"G" G3- | G2 D | D B B | B A B |"C" c E2- | %20
+w: lav- ished her|beau- ty|* in the|or- chards of|Er- ins green|land|* I|love its Cath-|ed- er- al|ci- ty|
+w: gap of Mount|Nor- ris|* and home|by Black- wa-|ter * a-|gain|* where|girls are so|fair and so|pret- ty|
+"Am" E2 E |"D" D F A |"D7" D G A |"G" B3- | B2 B/A/ | G3/2 G/ G | G F G |"C" A E2- |"Am" E2 E | %29
+w: * once|foun- ded by|Pat- rick so|true|* and it|bears in the|heart of its|bos- om|* the|
+w: * none|bet- ter you'll|find near of|far|* but where|are the boys|that can court|them like|* the|
+"D" F F F |"D7" D/ F3/2 A |"G" G3- | G2 B,/C/ |"G" D3 |"Am" E2 F |"G" G3- | G3 |"E7" d2 d | c2 B | %39
+w: ash- es of|Bri- an Bo-|ru|* Its my|own|Ir- ish-|home||far a-|cross the|
+w: boys from the|coun- ty A-|magh||||||||
+"Am" E3- | E2 D |"D" D2 D | F2 G | B A2- | A2 D |"G" D D2 |"C" G2 A |"G" B3- | B2 D | D D2 | %50
+w: foam|* al-|though I've|of- ten|left it|* in|for- eign|lands to|roam|* no|mat- ter|
+w: |||||||||||
+"Am" E2 F |"G" A G2- | G2 d |"E7" d d2 | c2 B |"Am" E3- | E2 D/D/ |"G" G G G | G F G |"C" A E2- | %60
+w: where I|wan- der|* through|cit- ies|near or|far|* sure my|heart is at|home in old|Ire- land|
+w: ||||||||||
+"Am" E2 E/E/ |"D" D2 c |"D7" B2 A |"G" G3 |] %64
+w: * in the|coun- ty|of Ar-|magh.-|
+w: ||||
+

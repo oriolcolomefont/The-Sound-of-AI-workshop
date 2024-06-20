@@ -1,0 +1,16 @@
+X:1
+T:Voyage
+T:VOYAGE
+T:Paco Charlery
+C:Paco Charlery
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+|: (3edc d z/ A c7/2- | c6 cd | (3AGF- F6- | F6 FE | D6 C2 | B,4- B,2 D2 | G8- | G8 :| %8
+ z2 z (3.B.B.B cdc | B6 AB | c4 A4- | A8 | z2 z (3.B.B.B cdc | B6 AB | c4 A4- | A6 cB | A6 G2 | %17
+ ^F6 A2 | (3dec d6 | ^d8 |] %20
+

@@ -1,0 +1,28 @@
+X:1
+T:Raindrops
+T:Raindrops
+C:Dee Clark
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Eb" G4"Cm" E4- |"Ab" E4"Bb11" F2 EE |"Eb" G4"Cm" E4- |"Ab" E3 E"Bb11" F2 E2 | %4
+w: Rain- drops,|_ so man- y|rain- drops|_ it feels like|
+"Eb" (B2 G2)"Cm" E4- |"Ab" E4"G7" FEEC |"Cm" E4 C4- | C4 FEEC |"Eb" E8 | z2 B,B,"Bb11" C2 E2 | %10
+w: rain- * drops|_ fall- ing from my|eye- eyes|* fall- ing from my|eyes.|Since my love has|
+"Eb" G4"Cm" E4- |"Ab" E4"Bb11" EEFE |"Eb""Cm" G8- |"Ab" G4"Bb11" EEFE |"Eb" B2 G2"Cm" E4- | %15
+w: left me|_ I'm so all a-|lone|_ I would bring her|back to me|
+"Ab" E2 CE"G7" FEEC |"Cm" (E4 C4-) | C3 E FEEC |"Eb" E8- | E2 z2 z2"Eb7" E2 | %20
+w: _ But I don't know where she's|gone _|_ I don't know where she's|gone.|_ There|
+"Ab" (3c2 c2 c2 (3e2 f2 e2 |"Gm" (dB-) B6 |"Fm" F2 F2 FEEE |"Eb" E2 C4 G2 |"G7" G3 G G2 F2 | %25
+w: must be a cloud in my|head. _ _|Rain keeps fall- ing from my|eye- eyes Oh|no it can't be|
+"Cm" E2 C4 CE |"F7" (3G2 G2 G2 F2 E2 |"Bb7""Fm7" F8- |"Bb7" F z B,B, C2 E2 |"Eb" G4"Cm" E4- | %30
+w: tear- drops 'cause a|man ain't sup posed to|cry.|_ So it must be|Rain- drops|
+"Ab" E4"Bb11" F2 EE |"Eb" G4"Cm" E4- |"Ab" E3 E"Bb11" F2 E2 |"Eb" (B2 G2)"Cm" E4- | %34
+w: _ so man- y|rain- drops|_ it feels like|rain- * drops|
+"Ab" E4"G7" FEEC |"Cm" E4 C4- | C4 FEEC |"Eb" E8- | E6 z2 |] %39
+w: _ fall- ing from my|eye- eyes.|_ fall- ing from my|eyes.|_|
+

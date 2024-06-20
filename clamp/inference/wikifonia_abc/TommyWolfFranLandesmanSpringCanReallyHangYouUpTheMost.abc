@@ -1,0 +1,27 @@
+X:1
+T:Spring Can Really Hang You Up The Most
+T:Spring Can Really Hang You Up The Most
+T:Tommy Wolf
+C:Tommy Wolf
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Cmaj7" E3 G"Bbmaj7" c3 G |"Cmaj7" E G2 c/d/"Bbmaj7" c4 |"Cmaj7" BG"Am7"EC"Dm7" AF"G7"DB, | %3
+"Em7" G6"A7b9" F2 |"F#m7b5" ECCC-"Fm7" C2 CD |"Am7" GCCC-"D7" C D3 |1"Dm7" EDCA,"G7" G,G,G,G, | %7
+"Cmaj7""Bbmaj7" G,8 :|2"Dm7" EDCA,"G7" G,B,DF ||"Cmaj7" E8 ||"Gm7" _B3 G/F/"C69" G3 G | %11
+"Gm7" _B c2 A/F/"C69" G4 |"Gm7" _B3 G/F/"C69" G3 E/G/ |"Gm7" _B c2 A/F/"C69" G4 | %14
+"Cm7" _E3 C/_B,/"Fmaj7" C3 C |"Cm7" _E F2 D/_B,/"Fmaj7" C4 |"F#m7" B,B,"B7"B,B,"Emaj7" ^D D3 | %17
+"Am7" EEEE"D7" ^F4 ||"Gmaj7" B,2 D2"Fmaj7" G3 D |"Cmaj7" E G2 c/d/"Bbmaj7" c4 | %20
+"Cmaj7" BG"Am7"EC"Dm7" AF"G9"DB, |"Em7" G6"A7b9" F2 |"F#m7b5" ECCC-"Fm7" C2 CD |1 %23
+"Am7" GCCC"D7" C D3 |"Dm9" EDCA,"G9" G,B,DA |"Em7b5""A7b9" G8 |"Dm9" EDCA,"G9" G,G,G,G, | %27
+"Cmaj7""Bb13" G,8 :|2"Ebm7" _A_DDD"Ab7sus4" D _E3 ||"Dm9" EDCA,"G9" G,B,DA |"Em7b5""A7b9" G8 | %31
+"Dm7" A3 A"C69" G3 G |"Dm7" A3 A"C69" G3 G |"Bm7b5" FFFF"Bb13" ECEG |"Am9" B6"D13b9" AB | %35
+"Dm7" c2 C2"Fm6" C D2 C |"Em7" BB,B,B,"A9" B, ^C3 |"Dm7" GFED"Dbmaj7" _DC_B,_A, |"Cmaj7" G,6 |] %39
+

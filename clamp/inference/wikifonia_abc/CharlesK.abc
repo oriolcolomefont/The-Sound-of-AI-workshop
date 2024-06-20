@@ -1,0 +1,49 @@
+X:1
+T:After The Ball
+T:AFTER THE BALL
+T:Charles K Harris
+C:Charles K. Harris
+Z:Public Domain
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+"G""^Fast Waltz" B,3 | D2 B, | E3 | B,3 | D2 B, | E2 B, |"D7" F3- | F z z |"Am" C3 | E2 C | %10
+w: A|lit- tle|maid-|en|climbed an|old man's|knee,|_|Begged|for a|
+w: "Bright|lights were|flash-|ing|in the|grand ball-|room,|_|Soft-|ly the|
+w: Long|years have|pas-|sed,|child, I've|ne- ver|wed,|_|True|to my|
+"D7" F3 | C3 | F3 | B2 A |"G" B,3- | B,3 | B,3 | D2 B, | E3 | B,3 |"E7" B3 | c2 B |"Am" E3- | %23
+w: sto-|ry,|"Do,|un- cle,|please!|_|Why|are you|sin-|gle;|why|live a-|lone?|
+w: mu-|sic,|play-|ing sweet|tunes,|_|There|came my|sweet-|heart,|my|love, my|own,|
+w: lost|love,|though|she is|dead|_|She|tried to|tell|me,|tried|to ex-|plain;|
+ E z z |"C" E3 | F2 G |"G" B3 | D3 |"A7" A3 |"D7" F2 D |"G" G3- | G z z |"Em" G3 | B2 G |"Am" F3 | %35
+w: _|Have|you no|ba-|bies,|have|you no|home?"|_|"I|had a|sweet-|
+w: _|"I|wish some|wa-|ter;|leave|me a-|lone."|_|When|I re-|turned,|
+w: _|I|would not|lis-|ten,|plea-|dings were|vain.|_|One|day a|let-|
+"B7" ^D3 |"C" E3 | F2 G |"G" D3- | D z z |"C" E3 | F2 G |"G" D3 | G3 |"A" E3 |"A7" F2 G |"D7" A3- | %47
+w: heart,|years,|years a-|go;|_|Where|she is|now,|pet,|you|will soon|know.|
+w: dear,|there|stood a|man,|_|Kiss-|ing my|sweet-|heart,|as|lov- ers|can.|
+w: ter|came|from that|man;|_|He|was her|bro-|ther,|the|let- ter|ran|
+ A z z |"G" B,3 | D2 B, | E3 | B,3 |"E7" B3 | c2 B |"Am" E3- | E2 z |"C" E2 E | F2 G |"G" B3 | D3 | %60
+w: _|List|to the|sto-|ry,|I'll|tell it|all,|_|I be-|lieved her|faith-|less,|
+w: _|Down|fell the|glass,|pet,|bro-|ken that's|all,|_|Just _|as my|heart|was,|
+w: _|That's|why I'm|lone-|ly,|no|home at|all;|_|I _|bro- ke|her|heart,|
+"A7" A3 |"D7" F2 D |"G" G3- | G z z ||"G""^Chorus" B d3/2 B/ |"C" G2 E |"G" G3 | D3 | B d3/2 B/ | %69
+w: Af-|ter The|Ball."|_|Af- ter The|Ball is|o-|ver,|Af- ter the|
+w: Af-|ter The|Ball."|_||||||
+w: Af-|ter The|Ball.|_||||||
+ G2 E |"D7" F3- | F z z |"Am" c e3/2 c/ | B2 A |"E7" ^G3 |"Am" A3 |"D7" A B3/2 A/ | F2 D |"G" d3- | %79
+w: break of|morn.|_|Af- ter the|danc- ers'|leav-|ing;|Af- ter the|stars are|gone;|
+w: ||||||||||
+w: ||||||||||
+"D7" d z z |"G" B d3/2 B/ | G2 E | G3 | D3 |"E" E ^G3/2 B/ |"E7" e2 d |"A7" ^c3- | ^c z z | %88
+w: _|Man- y a|heart is|ach-|ing,|If you could|read them|all;|_|
+w: |||||||||
+w: |||||||||
+"D7" d A A | A B c |"G" B3 |"E7" D3 |"A7" E3 |"D7" F2 D |"G" G3- | G z z |] %96
+w: Man- y the|hopes that have|van-|nish'd|Af-|ter The|Ball.|_|
+w: ||||||||
+w: ||||||||
+

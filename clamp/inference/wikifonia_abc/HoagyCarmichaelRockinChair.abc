@@ -1,0 +1,27 @@
+X:1
+T:Rockin' Chair
+T:Rockin' Chair
+T:Hoagy Carmichael
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"Eb" G G/A/ B |"Eb9" F F3 |"Abmaj7" z G A B |"Db9" E4 |"Eb" z G"Db7" A B |"C7" A2 G2 | %6
+w: Old Rock- in' Chair's|got me,|Cane by my|side.|Fetch me that|gin, son,|
+"F7" F F"Abm6" F F |"Fm7""Bb7" B4 |"Eb" z G G/F/ E |"Cm" G G3 |"Am" c2"D7" d2 |"Gm" B4 | %12
+w: 'fore I tan your|hide.|Can't get from this|cab- in,|goin' no-|where;|
+"Cm" z E E/F/ _G |"Db9" F E2 E/F/ |"F7" G G/A/"E7" =A B |"Eb" E4 |"Ab7" z B B/A/ _G | B/_G/ B3 | %18
+w: Just sit me here|grab- bin' at the|flies 'round this rock- in'|chair.|My dear old Aunt|Har- ri- et,|
+"Eb" z B"Bb7" B/A/ G |"Eb" B4 |"D7" c c2 d |"Gm" B/G/ G2 E/F/ |"Cm7" G G/G/"F7" G/F/ E |"Bb7" F4 | %24
+w: In heav- en she|be,|Send me sweet|cha- ri ot, For the|end of the trou- ble I|see.|
+"Eb" z G G/A/ B |"Eb9" F F3 |"Abmaj7" z G G/A/ B |"Db9" E4 |"Eb" z G"Db7" A"C7" B | %29
+w: Old rock- in chair|gets it,|Judg- ment day is|here,|chained to my|
+"F7" E2"Emaj7" E2 |"Eb" E4 |] %31
+w: Rock- in'|Chair.|
+

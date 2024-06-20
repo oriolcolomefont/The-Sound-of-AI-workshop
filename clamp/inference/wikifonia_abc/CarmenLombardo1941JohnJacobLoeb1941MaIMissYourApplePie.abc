@@ -1,0 +1,23 @@
+X:1
+T:Ma, I Miss Your Apple Pie
+T:Ma I miss your apple pie
+T:Carmen Lombardo, John Jacob Loeb
+C:Carmen Lombardo 1941
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c4- | c B A _A | G2 _A- _A | A4- | A2 z2 |"G" G4- | G ^G A E | D4- | D2 z2 | G4- | G ^G A E | %11
+w: Ma|* I miss your|ap- ple *|pie||Ma|* I miss your|stew||Ma|* they're treat- ing|
+ D2 ^D2 | E2 D2 | C2 E2 | B2 A2 |"G" D4- | D4 |"C" c4- | c B A _A | G _A =A2- | A2 z2 |"G" G4- | %22
+w: me al-|right but|they cant|cook like|you||Ma|* no bod- ys|spoi- ling me||like|
+ G ^G A E | D4- | D3 E | C"C" E G c- | c3 A | B"G7" c d G- | G3 G | C"C" E G"Am" c- | c3 A | %31
+w: * you used to|do|* they|wont let me stay|* in|bed un- til noon|* at|five for- ty- five|* they|
+ B"D7" c ^c"Dm" d- | d2"G7" e2 |"C" c4- | c B A _A | G2"A7" ^G A- | A3 E |"Dm7" D E F G | %38
+w: play me a tune|* oh|Ma|* I miss your|ap- ple pie|* and|most of all I|
+ A2"G7" e2 |1"C" c4- || c2"G7" z2 :|2"C" c4- ||"G7" c"C" z z2 |] %43
+w: miss you|too||||
+

@@ -1,0 +1,24 @@
+X:1
+T:Het Dorp
+T: Laukens Music Productions  
+T:Jazz Rock
+T:HET DORP
+T:Arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+"G" d8 |"Em" e8 |"C" e4 f3 g |"D7" f4 d4 ||"G"S z D DD DD (3z DD |"Em" EE- (3EEE EE GE | %6
+"G" DD- (3DDD DD- (3DDD |"Em" E4 E4 |"Am" z C- (3CCC CC- (3CCC |"D7" DD- (3DDD DD DD | %10
+ FD- (3DDD DA, B,C |"G" B,8 | z G GG GG- G/A/A |"Em" BB (3z BB BB AA | GG (3z GG (3:2:2G G2 FG | %15
+"Bm" F4 F4 |"C" z E- (3EEE EE EE |"D7" FF (3z FF FF FF | AA (3z AA AA AB |"G" A4 G4- | G6 G2 | %21
+"C" E8- |"D7" E2 FG A A2 F |"G" D4 B,4- | B,6- B,D |"D7" C3 G FE FD | B,2"G7" D2 G2 =F2 | %27
+"C" EE CD EF GA |"Bm" B4 F4- |"D7" FE- (3EEE FF ED |"G" G8-S |] G2 z2 z4 |] %32
+

@@ -1,0 +1,42 @@
+X:1
+T:Irgendwie, Irgendwo, Irgendwann
+T:Copyright © 
+C:Jörn-Uwe Fahrenkrog-Petersen
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Ab
+V:1 treble 
+%%MIDI program 1
+V:1
+"Fm" z4 | z4 | z4 | z4 |:"Cm" z2 z C | C G A G |"Gm" =D z z D | =D E D B, |"Ab" C z z2 | z4 | %10
+w: ||||1.~Im~|Sturz~ durch~ Raum~ und~|Zeit~ Rich-|tung~ Un- end- lich-|keit~||
+w: ||||2.~Im|Sturz durch Zeit und|Raum er-|wacht aus ei- nem|Traum||
+"Eb" z4 | z4 |"Cm" z2 G G | A G A G |"Gm" G z z G | A G A G |"Ab" E z z2 | z4 |"Bb" z4 | z4 || %20
+w: ||Flie- gen~|Mot- ten~ in~ das~|Licht~ ge-|nau~ wie~ du~ und~|ich~||||
+w: ||Nur ein|kur- zer Au- gen-|blick, dann|kehrt die Nacht zu-|rück||||
+"Fm" z2 A A | B A A G |"Db" A z F A | B A A G |"Eb" B z z A | c B B A |"Ab" c z z2 | %27
+w: Ir- gend-|wie~ fängt~ ir- gend-|wann~ ir- gend-|wo~ die~ Zu- kunft~|an~ ich~|war- te~ nicht~ mehr~|lang~|
+w: |||||||
+"Ab" z2"Gm" z2 |"Fm" z2 F A | B A A G |"Db" A z F A | B A A A |"Bbm" c B B A | A G G F | %34
+w: |Lie- be~|wird~ aus~ Mut~ ge-|macht~ denk~ nicht~|lan- ge~ nach,~ wir~|fah'rn~ auf~ Feu- er-|rä- dern~ Rich- tung~|
+w: |||||||
+"Eb" G G G A | B z z2 |"Eb" z4 | z4 ||"Fm" z F G A |"Db" D z G A |"Eb" B A A G |"Cm" E z E C | %42
+w: Zu- kunft~ durch~ die~|Nacht~|||Gib~ mir~ die~|Hand~ ich~ bau~|dir~ ein~ Schloss~ aus~|Sand~ Ir- gend-|
+w: ||||||||
+"Db" A, z A, F |"Ab" E z C A, | C z z2 | z2"Ab/G" z2 |"Fm" z F G A |"Db" D z G A |"Eb" B A A G | %49
+w: wie~ ir- gend-|wo~ ir- gend-|wann~||Die~ Zeit~ ist~|reif~ für~ ein~|biss- chen~ Zärt- lich-|
+w: |||||||
+"Cm" E z E C |"Db" A, z A, F |"Ab" E z C E |"Eb" E z z2 | z4 |1"Fm" z4 | z4 | z4 | z4 ::2 %58
+w: keit~ ir- gend-|wie~ ir- gend-|wo~ ir- gend-|wann~||||||
+w: |||||||||
+"Fm" z F G A ||"Db" D z G A |"Eb" c B B G |"Cm" E z E C |"Db" A, z A, F |"Ab" E z C A, | C z z2 | %65
+w: |||* Ir- gend-|wie~ ir- gend-|wo~ ir- gend-|wann~|
+w: |||||||
+ z2"Ab/G" z2 |"Fm" z F G A |"Db" D z G A |"Eb" c B B G |"Cm" E z E C |"Db" A, z A, F | %71
+w: ||||* ir- gend-|wie~ ir- gend-|
+w: ||||||
+"Ab" E z C E |"Eb" E z z2 | z4 :|"Fm" z4 |] %75
+w: wo~ ir- gend-|wann~|||
+w: ||||
+

@@ -1,0 +1,21 @@
+X:1
+T:There Is A Tavern In The Town
+T:There is a tavern in the town.
+T:unknown
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ D2 |"G" D2 DD ED^CD | B,2 DD D3 D | D3 D ED^CD |"D" A,2 DD DCB,A, |"G" G,2 B,2 D2 G2 | %6
+w: There|is a tav- ern in the town,|in the town, and there|my true love sits him down|sits him down * and * *|drinks his wine mid|
+"C" AGFG E3 E |"D7" F3 F FDEF |"G" G2 GG G2 DD |"D7" CFFF FDCA, |"G" G,GGG GDB,B, |"D7" CFFF FFFD | %12
+w: laugh * ter * free and|nev- er nev- er thinks of|me thinks of me, Fare thee|well for I must lea- ve thee do|not let this part- ing grie- ve me|and re- mem- ber that the best of|
+"F" E2 F2 GEDD |"G" D D2 D E2 CD | B,DDD D3 D | D3 D ED^CD |"D" A,2 DD DCB,A, |"G" G,2 B,2 D2 GA | %18
+w: friends must part, must part A-|dieu a- dieu kind friends a-|dieu a- dieu a- dieu I|can no long- er stay with|you stay with you * I'll *|hang my harp on a|
+"C" AGFG E3 G |"D7" F3 F FDEF |"G" G6- G2 |] %21
+w: weep- ing wil- low tree and|may the world go well with|thee. *|
+

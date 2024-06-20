@@ -1,0 +1,27 @@
+X:1
+T:He Paid A Debt
+T:He Paid A Debt
+T:Traditional
+T:Larry Johnson, Arranger
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+Q:1/4=90
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z"G7" G E D |"C" C3/2 B,/ C D |"C7" E G A G |"F" F3/2 C/ F G | A c B A |"C" G E2 G | A G G E | %7
+w: He paid a|debt He did not|owe I owed a|debt I could not|pay I need ed|some one to|wash my sins a|
+"G" F/-E/-"D7" D3 |"G" z G E D |"C" C3/2 B,/ C D |"C7" E G A G |"F" F z F/ G3/2 | A c B A | %13
+w: way _ _|and now I|sing a brand new|song a maz ing|grace all day|long Christ Je sus|
+"C/G" G3/2 F/ E3/2 C/ |"Dmaj7" D F E/"G7" D3/2 |"C" C4 | z"G7" G E D |"C" C3/2 B,/ C D | %18
+w: paid the debt I|that I could never|pay|He paid that|debt on Cal va|
+"C7" E G A G |"F" F3/2 C/ F G | A c B A |"C" G E2 G | A G G E |"G" F/-E/-"D7" D3 |"G" z G E D | %25
+w: ry He cleansed my|soul and set me|free I'm glad that|Je sus did|all my sins er|ase _ _|and now I|
+"C" C3/2 B,/ C D |"C7" E G A G |"F" F z F/ G3/2 | A c B A |"C/G" G3/2 F/ E3/2 C/ | %30
+w: sing a brand new|song a maz ing|grace all day|long Christ Je sus|paid the debt I|
+"Dmaj7" D F E/"G7" D3/2 |"C" C4 |] %32
+w: that I could never|pay|
+

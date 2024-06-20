@@ -1,0 +1,26 @@
+X:1
+T:Music! Music! Music!
+T:  Music! music! music!
+T:(Put another nickle in)
+T:Stephen Weiss,  Bernie Baum
+C:Bernie Baum, Stephan Weiss
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" c d c d | c/ d c/- c2 | A B A B | A/ B A/- A2 |"G7" G A G A |"C7" G/ A G/- G A |"F" G F G F | %7
+w: Put an- oth- er|nick- el in *|in the nick- el-|o- de- on *|all I want is|hav- ing you * and|mu- sic mu- sic|
+ G F"C7" z z |"F" c d c d | c/ d c/- c2 | A B A B | A/ B A/- A2 |"G7" G A G A |"C7" G/ A G/- G A | %14
+w: mu- sic|I'd do an- y|thing for you *|an- y- thing you'd|want me to *|all I want is|kiss- ing you * and|
+"F" G F G F | G F z2 |"C7" d2 G2- | G A B G |"F" c2 F2- | F/ z/ G A F |"C7" E F G A | %21
+w: mu sic mu sic|mu sic|Clos- er|* my dear come|clos- er-|* the ni- cest|part of an- y|
+ B/ c d/- d/ =B3/2 |"F" c d"C" c A |"Gm7" B/ c B/-"C7" B G |"F" c d c d | c/ d c/- c2 | %26
+w: mel- o- dy * is|when your danc- ing|close to me * so|put an- oth- er|nick- el in *|
+"G7" A B"C7" A B |"C7" A/ B A/- A2 |"G7" G A"G7" G A |"C7" G/ A G/- G A |"F" G F G F | %31
+w: in the nick- el-|o- de- on *|all I want is|lov- ing you * and|mu- sic mu- sic|
+ G F"C7" z2 :| G F z2 |] %33
+w: mu sic|mu- sic-|
+

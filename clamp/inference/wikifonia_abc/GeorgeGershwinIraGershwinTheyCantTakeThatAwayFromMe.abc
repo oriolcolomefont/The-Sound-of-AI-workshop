@@ -1,0 +1,44 @@
+X:1
+T:They Can't Take That Away From Me
+T:They Can't Take That Away From Me
+T:George Gershwin
+T:Ira Gershwin
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Eb" B2 c2"C7b9" c2 _d2 |"Fm7" c2 BA"Bb7" (3G2 F2 G2 |"Eb6" E8 | %3
+w: Our ro- mance won't|end on a sor- row- ful|note.|
+"B7" (3^F2 ^G2 F2"Bb7" (3=F2 =G2 F2 |"Eb" E4-"Fm7" E2"Bb7" z G |"Eb" B2 c2"C7b9" c2 _d2 | %6
+w: Though by to- mor- row you're|gone * The|song is end- ed|
+"Fm7" c2 BA"Bb7" (3G2 F2 G2 |"Gm7" B6"Cm" c2 |"Am7" (3d2 d2 d2"D7" D2 D2 |"G" =E8 | %10
+w: but as the song- wri- ter|wrote, The|mel- o- dy ling- ers|on.|
+"Am7" c2 c2"D7b9" (3=B2 =A2 B2 |"Gmaj7" G6 D2 |"Am" c2 c2"D7" =B2 =A2 |"Gm" B6 c2 | %14
+w: They may take you from|me, I'll|miss your fond ca-|ress. But|
+"Ab" d2 c2"C+7" c2 Bc | B2"Fm" A2"C7" c2 G2 |"Cm7""B7b5" F8 |"Bb11" z EEE E2 EG |: %18
+w: though they take you from|me I'll still pos-|sess.|The way you wear your hat|
+"Eb6""Abmaj7""^A" G8 |"Eb6/G" z EEE"Ebdim7/Gb" E2 EB,- |"Fm7" B,8 |"Fm7/Bb" z EEE E2 EB- | %22
+w: |The way you sip your tea||The mem- 'ry of all that|
+"Bbm7" B8- |"Eb13" B z c2"A7#9" c2 c2 |"Ab" e>cB>A"Gm7" B2 G"Fm7"F- | F"Bb9sus4" EEE E2 EG- | %26
+w: |* No, * they|can't take that a- way from *|* The way your smile just beams|
+"Eb6""Abmaj7" G8 |"Eb6/G" z EEE"Ebdim7/G" E2 EB,- |"Fm7" B,8 |"Bb11" z EEE E2 EB- |"Bbm7" B8- | %31
+w: |The way you sing off key||The way you haunt my dreams||
+"Eb13" B z c2"A7b9" c2 c2 |"Ab" e>c"Gm7"B>A"Fm7" B2"Bb11" GE- |"Eb6" E6 G=A || %34
+w: * No, no they|can't take that a way from me|* We may|
+"Gm""^B" B2 G2"Am7b5" d2"D7b9" c2 |"Gm" B2 G2"Am7b5" d2"D7" cB |"Gm" G2 G2"Em7b5" G2 F2 | %37
+w: nev- er nev- er|meet a- gain on the|bump- y road to|
+"Am7b5" D6"D7#9" G=A |"Gm" B2 G2"Am7b5" d2"D7b9" c2 |"Gm" B2 G2 c2"C7" c2 |"Fm7""B7b5" F8 | %41
+w: love Still I'll|al- ways, al- ways|keep the mem- 'ry|of|
+ z"Bb9sus4" EEE E2 EG- |]"Eb6""Abmaj7" G8 |"Eb6/G" z EEE"Ebdim7/Gb" E2 EB,- |"Fm7" B,8 | %45
+w: The way you hold your knife||The way we danced till three||
+ z E"Bb9sus4"EE E2 Ec- |"Bbm9" c8- |"Eb13" c2 c2"A7#9" c2 c2 |"Ab" e>cB>A"Gm7" B2 G"Fm7"E- | %49
+w: The way you changed my life,||* No, no they|can't take that a way from me|
+ E z"Db13#11" !>!B4 A2 |"G+7" G2 A2"C7b9" G2 B2 |"Fm7" F4"Bb7b9" G4 |"Eb" E8!fine! | %53
+w: * No they|can't take that a-|way from|me|
+"Fm7" z EEE"Bb9sus4" E2 EG :| %54
+w: The way you wear your hat,|
+

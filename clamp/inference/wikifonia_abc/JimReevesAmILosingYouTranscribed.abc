@@ -1,0 +1,33 @@
+X:1
+T:Am I Losing You (Transcribed)
+C:Jim Reeves
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Guitar" snm="Guit."
+%%MIDI program 24
+V:1
+"E " z2 z E"Bmin" f2- (3fef |"A " e4 EA cf | e2 AB"Gbmin" c2- (3cdc |"E " B4 GB df | %4
+w: Am I * los- ing|you? * * * *|* Are my fears * com- ing|true? * * * *|
+ e2 z E"Bmin" f2- (3fef |"E " e4 GB df | e2 z c"Bmin" (3d2 c2 B2 |"A " c4 EA cf | %8
+w: * How I * wish I|knew! * * * *|* Am I los- ing|you? * * * *|
+"E " e2 EE"Bmin" f2- (3fef |"A " e4 EA cf | e2 AB"F#min" c2- (3cdc |"E " B4 GB df | %12
+w: * Is your love * real- ly|true? * * * *|* Is there some- * bo- dy|new? * * * *|
+ e2 z E"Bmin" f2- (3fef |"E " e4 GB df | e2 z B"Bmin" (3d2 c2 B2 |"A " A4 EA cf | %16
+w: * Tell me * what to|do! * * * *|* Am I los- ing|you? * * * *|
+"A7" e2 AA a2- (3agf |"D " a8 | z2 fg"Bmin7" ag- gf |"A " e8 |"A7" z2 AA a2- (3agf |"D " a8 | %22
+w: * Am I too * blind to|see|what's been hap- pening * to|me?|Ev- 'ry road * has a|bend!|
+ z f fg"A7" ag- ga |"E7" b8 | z2 EE"Bmin" f2- (3fef |"A " e4 EA cf | e2 AB"F#min" c2- (3cdc | %27
+w: Will I be sweet- heart * or|friend?|Will the sweet * things you|do * * * *|* be for some- * bo- dy|
+"E " B4 GB df | e2 z E"Bmin" f2- (3fef |"E " e4 GB df | e2 z B"Bmin" (3d2 c2 B2 |"A " A4 EA cf | %32
+w: new? * * * *|* Tell me * what to|do! * * * *|* Am I los- ing|you? * * * *|
+"A7" e2 AA a2- (3agf |"D " a8 | z2 fg"Bmin7" ag- gf |"A " e8 |"A7" z2 AA a2- (3agf |"D " a8 | %38
+w: * Am I too * blind to|see|what's been hap- pening * to|me?|Ev- 'ry road * has a|bend!|
+ z f fg"A7" ag- ga |"E7" b8 | z2 EE"Bmin" f2- (3fef |"A " e4 EA cf | e2 AB"F#min" c2- (3cdc | %43
+w: Will I be sweet- heart * or|friend?|Will the sweet * things you|do * * * *|* be for some- * bo- dy|
+"E " B4 GB df | e2 z E"Bmin" f2- (3fef |"E " e4 GB df | e2 B2"Bmin" d4 |"A7" c2 E2"E7" B4 | %48
+w: new? * * * *|* Tell me * what to|do! * * * *|* Am I|lo- s\- ing|
+"A " A8 | z c de"E7" g2 f2 |"A " e8 |] %51
+w: you?|||
+

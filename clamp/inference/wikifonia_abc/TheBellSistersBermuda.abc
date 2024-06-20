@@ -1,0 +1,33 @@
+X:1
+T:Bermuda
+T:Bermuda
+T:The Bell Sisters
+C:The Bell Sisters
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^ad lib" z F A c |"F" F"Gb" F3- |"Ab" F _E/F/"Gb" E C |"F""Gb" C4 |"Ab" z F"Gb" _E F | %5
+w: Down in Ber-|mu- da,|* par- a- dise for|two.|I lost my|
+"F" C"Gb" C3 |"Ab" C2"Gb" (3B, C B, |"F" A,"Gb" C3- |"Ab""Gb" C4 |"F" z2 F A |:"^Beguine" c2 c2- | %11
+w: lov- er|* there on the|blue. *||We went|sail- ing|
+"Gb" c/ B B/ B c |"F" A4- |"Gb" A2 B c | B2"F" A2 |"Gb" z _G (3G G _A |"F" F4- | F z F A | c2 c2- | %19
+w: * on a cor- al|sea,|* Star- lit|wa- ters,|my dar- ling and|me.|* Time was|end- less|
+"Gb" c2 (3B B c |"F" A4- |"Gb" A B (3B B c |"F" A A3 |"Gb" z _G G _A |"F" F4- | F z (3F A c | %26
+w: * Love sang it's|song,|* we dreamed of to-|mor- row,|Now he is|gone,|* I see his|
+"Gb" B4- |"Ab7" B2"Gb" B _G | B2"F" A2- | A z (3F A c |"Gb" B4- |"Ab7" B2"Gb" B/B/A/_G/ |"F" F4- | %33
+w: lips|* in the|co ral|* I see his|eyes|* in the wa- ter|blue|
+ F z (3F A c |"Gb" B4- |"Ab7" B2"Gb" _d/d/d/_e/ | _d2"F" c2 | z2"Gb" (3B B c |"F" A4- | %39
+w: * I see his|hair|* in the glow- ing|sun- light,|A vi- sion|clear,|
+"Gb" A2 (3_G G _A |"F" F4- | F z F/F/F/A/ | c2 c2- |"Gb" c/ B B/ B c |"F" A4- |"Gb" A3/2 B/ B c | %46
+w: * call- ing me|near.|* In Ber- mu- dan|wa- ters,|* Oh, so clear and|cold|* I wait my|
+ B2"F" A2- |"Gb" A3/2 _G/ G _A |"F" F4- |"Gb" F z/ _G G/ _A |"F" F4- | F2 z F |"Gb" _G3/2 G/ G G- | %53
+w: loved one|* as I grow|old.|* As I grow|old|* I|wait my loved one,|
+ G3/2 _G/ B _d |1"F" c4- || c/ z/ z F A :|2"F" c4- ||"Gb" c4- |"Ab""Gb" c4- |"F" c3 z |] %60
+w: * as I grow|old.|* We went|old.-||||
+

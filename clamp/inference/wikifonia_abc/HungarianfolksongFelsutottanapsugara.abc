@@ -1,0 +1,15 @@
+X:1
+T:Felsütött a nap sugára
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Am" A,A, A,A, | AA AA |"Em" BA GA | BA G2 |"Am" E4 | z4 :|"Am" AA G2 | A4 |"C" ED CE | G4 | %10
+w: Fel- sö- tött a|nap su- gá- ra|min- den em- ber|ab- la- ká-|ra,||Jaj, Is- te-|nem,|mi az o- *|ka,|
+ ED CD | ED C2 |"Am" A,4 | z4 |] %14
+w: az e- nyém- re|nem süt so-|ha.-||
+

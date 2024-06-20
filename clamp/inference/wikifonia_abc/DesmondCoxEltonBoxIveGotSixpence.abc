@@ -1,0 +1,44 @@
+X:1
+T:I've Got Sixpence
+T:I've Got Sixpence
+T:
+T:(temporary version - chords pending)
+T:
+T:Elton Box
+T:Desmond Cox
+C:Desmond Cox
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A2 F2 C F3 | AA FF C F3 | A2 F2 C F2 G | AA GF G2 FF | C C2 C F2 F2 | D D2 D G3 F | %6
+w: 1.~I've got six- pence,|jol- ly jol- y six- pence.|I've got six- pence to|last me all my life. I've got|tup- pence to spend, and|tup- pence to lend, and|
+w: 2.~I've got four- pence,|jol- ly jol- ly four- pence.|I've got four- pence to|last me all my life. I've got|tup- pence to spend, and|tup- pence to lend, and|
+w: 3.~I've got tup- pence,|jol- ly jol- ly tup- pence.|I've got tup- pence to|last me all my life. I've got|tup- pence to spend, and|no pence to lend, and|
+w: 4.~I've got no pence,|jol- ly jol- ly no pence.|I've got no pence to|last me all my life. I've got|no pence to spend, and|no pence to lend, and|
+ E E2 D CB AG | F2 C2 F2 || (EF) |"C" G3 E C2 B2 |"F" (A3 G) F2 E2 |"G" DD DD G2 GF | %12
+w: tup- pence to send home to my|wife, poor wife.|No _|cares have I to|grieve _ me. No|pret- ty lit- tle girls to de-|
+w: no pence to send home to my|wife, poor wife.|||||
+w: no pence to send home to my|wife, poor wife.|||||
+w: no pence to send home to my|wife, poor wife.|||||
+"C" (E3 F) G2 C2 |"F" F>F FF A3 F |"Bb" (D2 G2) B3 F |"^C?" E3 E"C" EB AG |"F" (F3 F2) z EF | %17
+w: ceive _ me. I'm|hap- py as a lark, be-|lieve _ me, As|we go rol- ling, rol- ling|home. _ Rol- ling|
+w: |||||
+w: |||||
+w: |||||
+ G6 FG | A6 EF | G2 GG G2 cB | (A2 c2) d2 e2 |"F" f>F FF"F7" A2 GA | B>D DD G3 F | E2 E2 EB AG | %24
+w: home, Rol- ling|home, By the|light of the sil- ve- ry|moon _ _ _|Hap- py is the day when we|line up for our pay, As|we go rol- ling, rol- ling|
+w: |||||||
+w: |||||||
+w: |||||||
+ (F8 | F4) z4 :| %26
+w: home.|_|
+w: ||
+w: ||
+w: ||
+

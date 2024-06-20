@@ -1,0 +1,27 @@
+X:1
+T:Sweet Hour of Prayer
+T:Sweet Hour of Prayer
+T:William W. Walford, 1845 William B. Bradbury, 1861
+C:William W. Walford 1845,  William B. Bradbury 1861
+Z:All Rights Reserved
+L:1/4
+Q:1/4=85
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 |"Cmaj7" z3 |"Dm7" z3 |"Em7" z3 |[Q:1/4=85]"Dm7" z2"C" C |: E2"G7sus4/C" F |"C" G2 G | %8
+w: |||||sweet|hour of|prayer sweet|
+"F" A2 B | c2 A |"C" G2 E | E"G7sus4/C" D"C" C |"G" D2"C/G" E |"G" D2"C" C | E2"G7sus4/C" F | %15
+w: hour of|prayer that|calls me|from _ a|world of|care and|bids me|
+"C" G2 G |"F" A2 B | c2 A |"C" G2 E | E"G7sus4/C" D"C/E" C |"C/G" E2"G7" D |"C" C2 G | c2"G7/D" B | %23
+w: at my|Father's _|throne make|all my|wants _ and|wish es|known in|sea sons|
+"C/E" c2"F" A |"C" G2 E | G2 G | c2"G7/D" B |"C/E" c2"F" A |"C" G2 E |"G" D2 C |"C" E2"G7sus4" F | %31
+w: of dis|tress and|grief my|soul has|of ten|found re|lief and|oft es|
+"C" G2 G |"F" A2 B | c2 A |"C" G2 E | E"Gsus4/C" D C |"C/G" E2"G7" D |1,2"C" C2 C :|3"C" C3 || z3 | %40
+w: caped the|temp ters|snare by|thy re|turn _ sweet|hour of|prayer sweet|prayer||
+ z3 | z3 |] %42
+w: ||
+

@@ -1,0 +1,34 @@
+X:1
+T:A Ship Without A Sail
+T:A Ship Without A Sail
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B c d c |"Fm" B B B B |"Eb" G A B A |"Bb9" G3 G |"Cm" E F G F |"F7" E E E E |"Fm7" c2 c2 | %7
+w: I don't know what|day it is, Or|if it's dark or|fair; Some-|how, that's just the|way it is, And|i don't|
+"Bb7" D2 D2 |"Eb" E4- | E2 z B |"Eb" B c d c |"Fm" B B2 B |"Eb" G A B A |"Bb9" G3 G |"Cm" E F G F | %15
+w: real- ly|care.|_ I|go to this or|that place, I|seem a- live and|well; My|head is just a|
+"F7" E E2 E |"Ab6" c2 c2 |"G7" d2 d2 |"Ab" e4- |"Fm" e/ z/ c B A |"Eb" G2"Eb+" G2 | %21
+w: hat place, My|breast and|emp- ty|shell!|_ And I've a|fad- ed|
+"Ab" G2"Bb7" F2 |"Eb" E4- | E3 z ||"Eb7" c c"Ab" E2 |"Bb7" G G"Eb" B,2 |"Eb7" c c"Ab" E/ E E/ | %27
+w: dream to|sell.|_|All a- lone,|all at sea!|Why does no- bod- y|
+"Bb7" G G"Eb" B,2 |"Ab" C D/E/"G7" G G |"Cm" (3(F/G/F/) E"Abm" A2 |"Eb" G B/c/"Bbm6" (_d/B/) d | %31
+w: care for me,|When there's no love to|hold _ _ my love?|Why is my heart _ so|
+"C7" c4 |"Fm" e/ z/ A G A | F2"Bb7" G2 |"Eb" E4- | E z G/ A G/ |"Bb7" F2 F2 | F/ G F/ E F | %38
+w: frail,|Like a ship with-|out a|sail?|_ Out on the|o- cean,|sail- ors can use a|
+"Eb" E4- | E z G/ A G/ |"Bb7" F2 F2 | F/ G F/"Fm7" E"Bb7" F |"Eb" B3 E |"G7" =B4 | %44
+w: chart;|_ I'm on the|o- cean|guid- ed by just a|lone- ly|heart.|
+"Eb7" c c"Ab" E2 |"Bb7" G G"Eb" B,2 |"Eb7" c c"Ab" E/ E E/ |"Bb7" G G"Eb" B,2 | %48
+w: Still- a- lone,|still at sea!|Still there's no one to|care for me,|
+"Ab" C D/E/"G7" G G |"Cm" (3F/G/F/ E"Abm" A2 |"Eb" G B/c/"Bbm6" _d/B/ d |"C7" c4 | %52
+w: When there's no- one to|hold _ _ my hand.|Life is a love- * less|tale;|
+"Fm" e/ z/ A G A | c2"Bb7" D2 |"Eb" E4- | E z z2 :|"Eb" E4- | E z z2 |] %58
+w: For a ship with-|out a|sail.|_|sail.|_|
+

@@ -1,0 +1,31 @@
+X:1
+T:Red River Valley
+T:Red River Valley
+T:traditional Western song
+C:traditional western song
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Moderato" cf |"F" a2 aa a2 ga | g f3 z2 cf | a2 fa c'2 ba |"C" g4 z2 c'b |"F" a2 ag"F7" f2 ga | %6
+w: 1.~From this|val- ley they say you are|go- ing; We will|miss your bright eyes and sweet|smile, For they|say you are tak- ing the|
+w: 2.~Won't you|think of the val- ley you're|leav- ing? Oh, how|lone- ly, how sad it will|be. Oh- *|think of the fond heart you're|
+w: 3.~~I have|prom- is'd you dar- ling that|ne- ver will a|word from my lips cause you|pain; And my|life it will be yours for-|
+"Bb" c' b3 z2 d"Bbm"_d |"C7" c2 ef g2 ag |"F" f4 z2 ||"^Refrain:" cf |"F" a2 aa a2 ga | %11
+w: sun- shine, That *|bright- ens our path- way a-|while.|Come and|sit by my side if you|
+w: break- ing, And the|grief you are caus- ing to|me.|||
+w: e- ver, If you|on- ly will love me a-|gain.|||
+ g f3 z2 cf | a2 fa c'2 ba |"C" g4 z2 c'b |"F" a2 ag"F7" f2 ga |"Bb" c' b3 z2 d"Bbm"_d | %16
+w: love me, Do not|hast- en to bid me a-|dieu, But re-|mem- ber the Red Ri- ver|Val- ley, And the|
+w: |||||
+w: |||||
+"C7" c2 ef g2 ag |"F" f4 z2 :| %18
+w: girl that has lov'd you so|true.|
+w: ||
+w: ||
+

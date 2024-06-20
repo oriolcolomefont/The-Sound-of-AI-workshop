@@ -1,0 +1,39 @@
+X:1
+T:Two Little Girls In Blue (1893)
+T:Two Little Girls In Blue (1893)
+T:Chas. Graham
+C:Chas. Graham
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z2"F7" F |"Bb""^Verse" B- B B | B c d |"Eb" G2 G | G ^F G |"F7" A A A | G2 F |"Bb" (B3 | %8
+w: An|old * man|gazed at a|phot- o-|graph in a|lock- locket he'd|worn for|years.|
+w: The|pic- ture is|one of these|girls, he|said, and to|me she once|was a|wife.|
+ B) z F | B B B | B c d |"Eb" G2 G | G2 c |"C7" c d c | B2 G |"F7" c3 | c z d | e d e | c d e | %19
+w: * His|neph- ew then|asked him the|reas- on|why this|lock- et had|caused him|tears.|* "Come|list- en," he|said, "and I'll|
+w: * I|thought her un-|faith- ful: we|quar- relled,|lad, and|part- ed that|night for|life.|* My|fan- cy of|jeal- ous- y|
+"Bb" d2 d | B2 d |"C7" c d c | B2 G |"F7" c3 | c z F |"Bb" B B B | B c d |"Eb" G2 G | %28
+w: tell you,|lad, a|stor- y that's|strange but|true;|* Your|fa- ther and|I at the|school one|
+w: wronged a|heart, a|heart that was|good and|true,|* For|two bet- ter|girls nev- er|lived than|
+"C7" c2"Gbdim" e |"Bb" d c B |"F7" c2 A |"Bb" B3- | B z2 ||"Bb""^Chorus" B3/2 c/ d | B2"Eb" G | %35
+w: day met|two lit- tle|girls in|blue."||Two lit- tle|girls in|
+w: they, those|two lit- tle|girls in|blue.||||
+"Bb" B3 | F3 | B3/2 c/ d |"D7" B2 A |"Eb" G3- | G2 z |"F7" A2 A | A c2 |"Bb" B2 B |"Gm" B c d | %45
+w: blue,|lad,|Two lit- tle|girls in|blue,||They were|sis- ters,|we were|brot- ers, and|
+w: ||||||||||
+"C7" c2 G | c2 B |"F7" A3- | A G F |"Bb" B c d | B2"Eb" G |"Bb" B3 | F2 F |"Eb" G2 G | c2"G7" d | %55
+w: learned to|love the|two,|* * And|one lit- tle|girl in|blue,|lad, Who|won your|fa- ther's|
+w: ||||||||||
+"Cm" e3- | e z e |"F7" A2 A | A G F |"Bb" B A B |"Eb" c"G7" d"Cm" e |"Bb" f2 d | %62
+w: heart,|* Be-|came your|moth- er, I|mar- ried the|oth- er, but|we have|
+w: |||||||
+"F9" c"Ebm6" B"F7" c |"Bb" B3 :| %64
+w: drif- ted a-|part|
+w: ||
+

@@ -1,0 +1,25 @@
+X:1
+T:Don't
+T:Dont
+T:Jerry Lieber,Mike Stoller,
+C:Jerry Lieber, Mike Stoller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F4 z4 |"C7" G4 z4 |"F" A4"F7" G2 F2 |"Bb" _B6"C7" c2 |"F" f4 c2 A2 |"Am" c4 z"Dm" AGF | %6
+w: Dont|dont|thats what you|say each|time that I|hold you * this|
+"Gm7" G8- |"C7" G4 dcAG |"F" F4"F7" AcAF |"Bb" A2 _B,2"C7" DFGA |"F" c8- |"F7" c6 z2 | %12
+w: way|* when I feel like|this and I want to|kiss you ba by dont say|dont||
+"Bb" D2 E2 F2 G2 |"A7" A2 G2 F2 G2 |"F" A4"Bb" D4 |"F" C F3- F4 |"G7" G2 A2 B2 c2 | d2 c2 B4 | %18
+w: if you think that|this is just a|game I'm|play ing *|If you think that|I dont mean|
+"C7" c2 c2 d2 d2 | ed c6 |"F" F4 z4 |"C7" G4 z4 |"F" A4"F7" G2 F2 |"Bb" _B6"C7" c2 |"F" f4 c2 A2 | %25
+w: ev ry word I'm|say * ing|dont|dont|dont feel that|way I'm|your love and|
+"Am" c4 z"Dm" AGE |"Gm" G8- |"C7" G4 dcAG |"F" F4"F7" AcAF |"Bb" G2 _B,2"C7" DFGA |"F" c8- | %31
+w: yours I will *|stay|* This you can be-|lieve I will nev- er|leave you heav- en knows I|wont|
+"Dm" c4"C7" DFGA |"F" F8- |"Bb" F8 |"F" z8 |] %35
+w: * ba- by dont say|dont.|||
+

@@ -1,0 +1,34 @@
+X:1
+T:NOG EENTJE TOT BESLUIT
+T: Laukens Music Productions  
+T:Mars
+T:NOG EENTJE TOT BESLUIT
+T:Arr. H. Laukens 
+T:NOG EENTJE TOT BESLUIT blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=130
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ c B_B |"F" A2 c2 fa z g- |"C" g4- ge ef |"G7" g4 e2 d2 |"C" c4- cB c^c |"D7" d2 c2 Bd dd || %6
+[K:G]S"G" d3 B- Bd ed | d3 B- B z z B | B2- Bd e2 d2 |"D7" c4- ce ee | e3 c- ce fe | %11
+ e3 c- c z z c | c2 d2 e2 d2 |"G" B4- Bd dd | d3 B- B e2 d | d3 B- B z BB |"G7" B2 B2 c2 d2 | %17
+"C" e4- ee ee | g3 g f2 e2 |"G" d2 g2 Bd e^e |"D7" f2 e2 d2 a2 |"G" g2 g g2 g2 g || %22
+[K:C]"G7" f2 g2 f e2 d- | d2 a a2 a2 a |"C" g2 a2 g f2 e- | e2 GG ce- e2 |"G7" e2 df- f4 | %27
+ z2 G2 B2 d2 | a2 g2 ^f a2 g- |"C" g2 g g2 g2 g |"G7" f2 g2 f e2 d- | d2 a a2 a2 a | %32
+"C" g2 a2 g f2 e- | e z z2 z c B_B |"F" A2 c2 f a2 g- |"C" g z z2 z [eg] [eg][fa] | %36
+"G7" [gb]2 [eg]2 [eg]2 [df]2!dacoda! ||"C" [ce]4- [ce]B c^c |"D7" d2 c2 Bd ddS || %39
+"^TRIO""C" cB c d2 c2 B |"Ab7" c2 _a a2 a2 a ||[K:Db]"Ab7" g2 a2 g f2 e- | e2 b b2 b2 b | %43
+"Db" a2 b2 a g2 f- | f2 AA df- f2 |"Ab7" f2 eg- g4 | z2 A2 c2 e2 | b2 a2 =g b2 a- | %48
+"Db" a2 a a2 a2 a |"Ab7" g2 a2 g f2 e- | e2 b b2 b2 b |"Db" a2 b2 a g2 f- | f z z2 z d c_c | %53
+"Gb" B2 d2 g b2 a- |"Db" a z z2 z [fa] [fa][gb] |"Ab7" [ac']2 [fa]2 [fa]2 [eg]2 | %56
+"Db" [df]2 [fa][gb] [fa] [eg]2 [df]- | [df]4- [df] x3 |] %58
+

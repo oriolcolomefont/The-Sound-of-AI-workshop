@@ -1,0 +1,33 @@
+X:1
+T:A World Of Our Own
+T:A world of our own
+T:unknown
+C:Tom Springfield
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E D |"C" C2 C E | G3 G |"F" A A c A |"C" G2 C D |"Em" E2 E G |"Am" F/ E3/2 D C |"F" F2 F A | %8
+w: Close the|door light the|lights we're|stay- ing home to-|night far a-|way from the|bus- tle and the|bright ci ty|
+w: Oh my|love oh my|love I|cried for you so|much love- ly|nights with- put|sleep- ing while I|longed for your|
+w: ||||||||
+"G7" G2 A B |"C" c2 A G |"E7" E3 D |"F" C2 F A |"C" G2 C D |"Em" E2 E G |"F" F2"G7" E D |"C" C4 | %16
+w: lights let them|all fade a-|way just|leave us a-|lone and we'll|live in a|world of our|own.|
+w: touch now your|lips can e-|rase the|heart- ache I've|known come with|me to a|world of our|own.|
+w: * and I|know you will|find ther'll|be peace of|mind when we|~live in a|world of our|own.|
+ z G A B | c2 c G |"F" A3 A |"G7" G3/2 A/ G/ F3/2 |"C" E2 A B |"Am" c2 c c |"D7" c2 B c | %23
+w: we'll build a|world of our|own that|no one else can|share all our|sor- rows we'll|leave far be-|
+w: |||||||
+w: |||||||
+"G7" d2 B A | G2 A B |"C" c2 A/ G3/2 |"E7" E3 D |"F" C2 F A |"C" G2 C D |"Em" E2 E G | %30
+w: hind us *|there and I|know you will|find there'll|be peace of|mind when we|live in a|
+w: |||||||
+w: |||||||
+"F" F2"G7" E D |"C" C4- | C2 z2 |] %33
+w: world of our|own.||
+w: |||
+w: |||
+

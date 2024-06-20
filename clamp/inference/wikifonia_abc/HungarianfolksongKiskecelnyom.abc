@@ -1,0 +1,19 @@
+X:1
+T:Kis kece lányom
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Am" A2 ee | e2 d2 |"E" e2 cc |"Am" B2 A2 :|"Am" AB cc | dc Bc |"E" B2 B2 | B2 B2 | AB cc | %9
+w: Kis ke- ce|lá- nyom|fe- hér- be|va- gyon,|Mon- dom, mon- dom,|for- dulj i- de,|mát- kám|asz- szony,|Mon- dom, mon- dom,|
+w: Fe- hér a|ró- zsa,|ke- zé- be|va- *||||||
+ dc Bc |"Am" A2 A2 | A2 A2 |] %12
+w: for- dulj i- de,|mát- kám|asz szony.|
+w: |||
+

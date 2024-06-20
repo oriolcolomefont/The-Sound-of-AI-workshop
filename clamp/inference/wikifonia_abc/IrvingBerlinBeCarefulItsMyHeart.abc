@@ -1,0 +1,28 @@
+X:1
+T:Be Careful, It's My Heart
+T:Be Careful, It's My Heart
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z C |:"Gm7/C" G2"C7" G2- |"Gm7/C" G2"C7" F/ E F/- |"F6""Gm7" F4- |"G#dim7" F3"F/A" C | %5
+w: Be|care- ful,|* it's my heart.||* It's|
+"Gm7/C" G G"C7" G G |"Gm7/C" G G"C7" F/ E D/- |"F6""Gm" D4- |"G#dim7" D3"F/A" C |"F" c c"E+" c c | %10
+w: not my watch you're|hold- ing, it's my heart.||* It's|not the note I|
+"Am7b5" c _e2"D7b9" d |"Gm7b5" B _d2"C7" c |"Fmaj7""F6" A4 |"Ab/Eb" (3_A _E F A B |"A6" c _e2 _A | %15
+w: sent you that|you quick- ly|burned.|It's not the book I|lent you that|
+"G7" G2"G9" (3F E D |"Gm7/C" C3"C7" C |"Gm7/C" G2"C7" G2- |"Gm7/C" G2"C7" F/ E F/- |"F6""Gm7" F4- | %20
+w: you nev- er re-|turned. Re-|mem- ber,|* it's my heart.||
+"G#dim7" F3"F/A" C |"Gm7/C" G G"C7" G G |"Gm7/C" G/ G F/- F"C7" E |"Am7" d4- |"D7/A" d3"D7" A | %25
+w: * The|heart with which so|will- ing- ly * I|part.|* It's|
+"Gm" c/ B A/-"Gm9/D" A G |"Gm7b5" B/ A G/- G F |"F/C" A/ G F/-"Dm7" F E |"G7" G3 D |"Gm7" F2 F2- | %30
+w: yours to take * to|keep or break, * but|please, be- fore * you|start, be|care- ful,|
+"Gm7" F2"C9" E/"C7b9" E"F6" F/- |1"B9""Bbmaj7" F4 ||"C7sus4" z3"C7" z :|2"F6""Eb69" F4- || %34
+w: * it's my heart.|||heart.|
+"F6" F3 z |] %35
+w: |
+

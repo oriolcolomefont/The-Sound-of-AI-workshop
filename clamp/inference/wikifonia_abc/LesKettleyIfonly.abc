@@ -1,0 +1,47 @@
+X:1
+T:If only
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=130
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Intro" B"D" A2 F | B"Dmaj7" A2 F"^If only" | B"D7" A2 G | F"G" G3 | A"Gm" G2 F | E"D" F3 | %6
+w: ||||||
+w: ||||||
+w: ||||||
+"^Lyric and Music by Les Kettley" G"G" F2 E | D"A7" E3 |"_Verses" B2"D" A G | G F"D6" F- F | %10
+w: ||If on- ly|we had met when|
+w: ||Am- I a|fool to still _|
+w: ||I still go|back to where _|
+ G A"Em" A2 | G4 | z G"A" G F | F E"A7" F- F | F G"D" F2- | F4 | z F"Bm" F E | E D D2 | %18
+w: first I saw|you,|our lives may|not have been so|far a- part,|_|I still hope|that some- time|
+w: go on hop-|ing,|when we've not|met and so much|time has past,|_|am I to|spend all of|
+w: I first saw|you,|hop- ing you|will be there and|look my way,|_|a look, a|smile, a sign,|
+ E F"Em" F2 | E4- | E2"A7" E D | D ^C C2 | D E"D" D2- |"D7" D2 (3F/A/c/ e | ^d"G" =d c c | %25
+w: I will meet|you,|_ and per-|haps a friend-|ship will start.|_ _ _ _ _|If I could turn|
+w: my life dream-|ing,|_ dream- ing|I will meet|you at last.|_ _ _ _ _|Aft- er so man-|
+w: you might love|me,|_ I pray|it will hap-|pen some day.|_ _ _ _ _|I'll love you, love|
+ B"Em" B c c | d"Am" d2"C+" c- |"C""D7" c4 | c c B B | A A B B | c"G" B3- | B2 d e | f"Em" g e e | %33
+w: the clock back to|the time when,|_|I saw your face|and fell in love|with you,|_ in time|I thought my love|
+w: y years of long-|ing for you,|_|long- ing so much|to hold you close|to me,|_ long- ing|to prove my love|
+w: you, love you for|e- tern- ity,-|_|my love for you|will al- ways _|be true,|_ there is|a place with- in|
+ e"G+" e2- e | e"G" g e e | e"A" e3 | e"C" g e e | e"D7" f f g | a"G" g3 |: B"D" A2 F"^If only" | %40
+w: would fade but|it's strong- er now|and made,|for no- one on|this earth but love-|ly you.|If on- ly|
+w: will- be for|the on- ly one|I love,|for no- one on|this earth but love-|ly you.|_ _ _|
+w: my heart, _|for on- ly one|to fill,|for no- one on|this earth but love-|ly you.|_ _ _|
+ B"Dmaj7" A2 F | B"D7" A2 G | F"G" G3 |1 A"Gm" G2 F | E"D" F3 |"^Chorus" G"G" F2 E | D"A7" E3 :|2 %47
+w: if on- ly|if on- ly|we'd met,|all those years|a- go,|if on- ly|we'd met,|
+w: |||||||
+w: |||||||
+ A"_© Les Kettley\n""Gm" G2 F || E"D" F3 | A"G" B2"A7" ^c | d"D" d3 |] %51
+w: where would we|be now,|if on- ly|we'd met.|
+w: ||||
+w: ||||
+

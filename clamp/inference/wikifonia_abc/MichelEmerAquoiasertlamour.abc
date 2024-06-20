@@ -1,0 +1,39 @@
+X:1
+T:A quoi ça sert l'amour ?
+C:Michel Emer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ z c c B |:"C""^Monter d'un demi ton à chaque reprise" B A/A/- A2 | z c c B |"G" B A/A/- A2 | %4
+w: A quoi ça|sert l'a- mour? _|On ra- con-|te tou- jours _|
+w: |ten- du dire _|Que l'a- mour|fait souf- frir _|
+w: |dit sou- vent _|Qu'l'a- mour est|de- ce- vant _|
+w: |très jo- li _|Mais quand tout|est fi- ni _|
+w: |j'ai com- pris _|Sans a- mour|dans la vie _|
+w: |le der- nier _|Mais toi t'es|le pre- mier! _|
+ z c c B | B A/A/- A2 | z c c B |"C" B A/A/- A2 |"C7" z e e d | d c/c/- c2 | z e e d | %11
+w: Des his- toires|in- sen- sées _|A quoi ça|sert d'ai- mer? _|L'a- mour ne|s'ex- plique pas! _|C'est u- ne|
+w: Que l'a- mour|fait pleu- rer _|A quoi ça|sert d'ai- mer? _|L'a- mour ça|sert à quoi? _|A nous don-|
+w: Qu'il y'en a|un sur deux _|Qui n'est ja-|mais heu- reux _|Même quand on|l'a per- du _|L'a- mour qu'on|
+w: Il ne vous|res- te rien _|Qu'un im- men-|* cha- grin _|Tout ce qui|main- te- nant _|Te sem- ble|
+w: Sans ses joies,|ses cha- grins _|On a vé-|cu pour rien _|Mais oui! re-|gar- de moi _|A cha- que|
+w: A- vant toi.|y'a- vait rien _|A- près toi|je suis bien! _|C'est toi que|je vou- lais _|C'est toi qu'il|
+"F" d c/c/- c2 | z e e d |"D" d c/c/- c2 | z e e d | z c2"G" d |"1-5""G#""C" c3 z || %17
+w: chose comme ça _|Qui vient on|ne sait d'où _|Et vous prend|tout à|coup.|
+w: ner d'la joie _|A- vec des|larmes aux yeux _|C'est triste et|mer- veil-|leux.|
+w: a con- nu _|Vous laisse un|goût de miel _|L'a- mour c'est|é- ter-|nel.|
+w: dé- chi- rant _|De- main se-|ra pour toi _|Un sou- ve-|nir de|joie.|
+w: fois j'y crois _|Et j'y croi-|rais tou- jours _|Ca sert à|ça l'a-|mour!|
+w: me fal- lait! _|Toi que j'ai-|m'rai tou- jours _|Ca sert à|ça l'a-||
+"C#" z ^c c =c :|6 (c4 || d4 | c4) |] %21
+w: Moi j'ai en-|mour!|_||
+w: Pour- tant on||||
+w: Tout ça, c'est||||
+w: En somme, si||||
+w: Mais toi, t'es||||
+w: ||||
+

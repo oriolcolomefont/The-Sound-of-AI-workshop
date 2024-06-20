@@ -1,0 +1,38 @@
+X:1
+T:You and I
+T:You And I
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Eb" G3 B,"Ab/Eb" C4 |"Abm/Eb" z _CEB A E2 F |"Ebmaj9" G3 B,"Ab/Eb" C4 |"Abm6/Eb" z2 EB A E3 | %4
+w: Here we are|on earth to- geth- er. It's|you and I;|God has made us|
+"Dm7b5" G3 C"G7b13" E3 F |"Cmaj13" G4 z2 z G, |"Em7b5" GGG=A"A7b13" F3 =E |"Dm7b5""G7b13" F8 | %8
+w: fall in love, it's|true. I've|real- ly found some- one like|you.|
+"Bb7sus4""Bb7" z8 |"Eb" G3 B,"Ab/Eb" C4 |"Abm/Eb" z _CEB A2 EF |"Ebmaj9" G3 B,"Ab/Eb" C4 | %12
+w: |Will it stay|the love you fell for me?|Will it say|
+"Abm6/Eb" z _CEB A2 EF |"Dm7b5" G4"G7b13" z CEF |"Cmaj13" G6 z G, |"Em7b5" G3 =A"A7b13" F3 =E | %16
+w: that you will be by my|side to see me|through un-|til my life is|
+"Dm7b5""G7b13" F8 |"Bb7sus4" z4"Bb7" z2 G/F/E |"Fm9" E3 F F4 |"Abm6" z2 EF G F2 E | %20
+w: through?|Well, _ _|in my mind|we can con- quer the|
+"Ebmaj9/Eb" B,4 z4 |"Gm7" z2 z C"C9" B,3 B,/C/ |"F13" F6"F7b13" z E/F/ | %23
+w: world|in love, you and|I you and|
+"Bb7sus4" G/F/E-"Bb13" E4 F>E |"Eb" E8- |"Fm7/Eb" E4 z4 |"Abm6/B" z8 | z8 |"Eb" G3 B,"Ab/Eb" C4 | %29
+w: I _ _ _ you and|I|_|||I am glad,|
+"Abm6/Eb" z _CEB A G2 F |"Eb6" G3 B,"Ab/Eb" C4 |"Abm6/Eb" z _CEB A E2 F | %32
+w: at least in my life I've|found some- one|that may not be here for-|
+"Dm7b5" G G3"G7b13" z CEF |"Cmaj13" G6 z B, |"Em7b5" G2 G2-"A7b13" GGF=E |"Dm7b5" F4"G7b13" z4 | %36
+w: ev- er to see me|through but|I've found _ my strength in|you|
+"Bb7sus4" z4 z2"Bb7" z G |"Fm9" E3 F F4 |"Abm6" z2 BG G F2 E |"Eb" B,4 z4 |"C13" z2 z C C3 =B,/C/ | %41
+w: 'Cause|in my mind|you will stay here al-|ways|in love, you and|
+"F13" F6"F7b13" z E/F/ |"Bb7sus4" G6"Bb7b9" z G/A/ |"Ebmaj7" B6- BB/c/ |"Bbm7" _d3 e"Eb7b9" f2 e2 | %45
+w: I, you and|I, you and|I _ you and|I. _ _ _|
+"Fm7" ef f6- |"Abm6" f2 ef g f2 e |"Eb/Bb" B6 z _d |"Gm7b5" c6"C7b13" z B/c/ | %49
+w: In my mind|_ we can con- quer the|world in|love, you and|
+"F13" f4- f z"F7b13" ef |"Bb7sus4" g/f/ e3"Bb13" z2 g/4f/4ee/ |"Gbmaj9" e8- |"Ebmaj13" e8 |] %53
+w: I _ you and|I _ _ you _ _ and|I.|_|
+

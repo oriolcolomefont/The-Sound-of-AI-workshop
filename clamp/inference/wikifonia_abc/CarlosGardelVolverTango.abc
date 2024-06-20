@@ -1,0 +1,25 @@
+X:1
+T:Volver (Tango)
+T:Volver
+T:Carlos Gardel Transcription: Alberto Betancourt
+C:Carlos Gardel
+Z:All Rights Reserved
+L:1/16
+Q:1/4=62
+M:2/4
+K:Dmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Tango""Dm" z2 AA AGFG | AAAA AGFA |"Gm6" GGGG"A7" GFEG |"Dm" F4 D2"C7" z2 |"F" z2 cc cBAB | %5
+ cccc cBAc |"Bb6" BBBB"C7" BAGB |"F" A6 z2 |"A7" z AAA ^cA2G |"Dm" G2F2 z FG^G | %10
+"F" A2GF"Bb7" E2DF |"A" A4 z AAA |"Gm" B2>A2 Ged^c |"Dm" d2A2 z ABA |"E7" ^G=B2d f2ed | %15
+"A" e4 z eee |"Dm" f2>c2"Em7b5" BcdB |"Dm/F" dA2F"Gm" GABc |"Dm/A" AFDA,"Bb7" F2"A7"E2 | %19
+"Dm" D6 ^F2 ||[K:D]"D" A4-"D#dim" A4 |"A7/E" z2 GA"A7/G" B2AG |"Dm/F" AF2F"Bb6" G2FE | %23
+"Dm/A" FD2D"E7" E2"A7"DC |"D7" D6 z B |"G" d8- |"Gdim" d2cd e2dc |"D/F#" d4 A4 | %28
+"D#dim" z2 AB =c2BA |"Em" =cBB^c"Fdim" d2cB |"F#m" dc2c"Bm" d2"Em"BB |"A" c2"D/F#"AA"G" B2"A7"GG | %32
+"D" A4"D#dim" F2zF |"A7" A8- | A2GA B2AG |"D/F#" AF2F"Bb6" G2FE |"D/A" FD2D"E7" E2"A7"DCO || %37
+"D" D6 z2"^D.C. al Coda" ||O"D" D4 !>!d2 z2 |] %39
+

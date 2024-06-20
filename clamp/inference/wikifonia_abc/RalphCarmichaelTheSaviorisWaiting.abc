@@ -1,0 +1,33 @@
+X:1
+T:The Savior is Waiting
+T:The Savior is Waiting
+T:Ralph Carmichael
+C:Ralph Carmichael
+Z:All Rights Reserved
+L:1/4
+Q:1/4=85
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z2 C |"F" A A A |"Gbdim" A B3/2 A/ |"Gm" A G A | B3 |"C7" G A B | %11
+w: |||||the|Sav ior is|wait ing to|en ter your|heart|why don't you|
+ c B3/2 A/ |"F" A3- | A2 C | A A A |"D7" A B3/2 A/ |"Gm" A G A | B3 |"C7" B A G | B A G |"F" F3- | %21
+w: let Him come|in|_ There's|no thing in|this world to|keep you a|part|what is your|an swer to|Him|
+ F2 z |"Bb" d2 d/d/ |"Gm6" d2 d/d/ |"Am" d c B |"Dm" A2 F |"Gm" G2 G/G/ |"C" G A B |"F" A3- | %29
+w: _|time af ter|time He has|wait ed be|fore and|now He is|wait ing a|gain|
+"F7" A2 F |"Bb" d2 d/d/ |"Gm6" d/ d3/2 d |"Am" d c3/2 B/ |"D7" A3 |"Gm" B2 A/G/ |"C7" B A G | %36
+w: _ to|see if you're|wil ling to|op en the|door|Oh how He|wants to come|
+"F" F3- | F z C |"F" A A A |"Gbdim" A B3/2 A/ |"Gm" A G A | B3 |"C7" G A B | c B3/2 A/ |"F" A3- | %45
+w: in|_ If|you'll take one|step toward the|Sav ior my|friend|you'll find His|arms op en|wide|
+ A2 C | A A A |"D7" A B3/2 A/ |"Gm" A G A | B3 |"C7" B A G | B A G |"F" F3- | F2 z |"Bb" d2 d/d/ | %55
+w: _ re|ceive Him and|all of your|dark ness will|end|with in your|heart He'll a|bide|_|time af ter|
+"Gm6" d2 d/d/ |"Am" d c B |"Dm" A2 F |"Gm" G2 G/G/ |"C" G A B |"F" A3- |"F7" A2 F |"Bb" d2 d/d/ | %63
+w: time He has|wait ed be|fore and|now He is|wait ing a|gain|_ to|see if you're|
+"Gm6" d/ d3/2 d |"Am" d c3/2 B/ |"D7" A3 |"Gm" B2 A/G/ |"C7" B A G |"F" F3- | F3 | z3 | z3 | z3 | %73
+w: wil ling to|op en the|door|Oh how He|wants to come|in|_||||
+ z3 |] %74
+w: |
+

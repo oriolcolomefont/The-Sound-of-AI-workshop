@@ -1,0 +1,28 @@
+X:1
+T:Hark the Herald Angels Sing
+T:Hark the Harold Angels Sing
+T:Vince Guaraldi
+C:Vince Guaraldi
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble transpose=-12 nm="Guitar" snm="Gtr."
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ c f f3/2 e/ | f a a g | c' c' c'3/2 b/ | a g a2 | c f f3/2 e/ | f a a g | c' g g3/2 e/ | e d c2 | %8
+w: Hark the her- ald|an- gels sing *|"Glo- ry to the|new- born king!|peace on earth and|mer- cy mild *|God and sin- ners|re- con- ciled|
+w: Christ by high- est|heav'n a- dored *|Christ the ev- er-|last- ing Lord|Late in time be-|hold him come *|Off- spring of a|Vir- gin's womb|
+w: Hail the heav'n- born|Prince of Peace *|Hail the Son of|Righ- teous- ness|Light and life to|all he brings *|Ris'n with heal- ing|in Hes wings|
+ c' c' c' f | b a a g | c' c' c' f | b a a g | d' d' d' c' | b a b2 | g a/b/ c'3/2 f/ | f g a2 | %16
+w: Joy- ful all ye|na- tions rise *|Join the tri- umph|of the skies *|With an- gel- ic|host pro- claim|Christ is * born in|Beth- le- hem|
+w: Veiled in flesh the|God- head see *|Hail the incar- nate|De- i- ty *|Pleased as man with|man to dwell|Je- sus * our Em-|man- u- el!-|
+w: Mild he lays his|glo- ry by *|Born that man no|more may die *|Born to raise the|sons of earth|Born to * give them|sec- ond birth|
+ d'3/2 d'/ d' c' | b a b2 | g a/b/ c'3/2 f/ | f e f2 |] %20
+w: Hark the Her- ald|an- gels sing|Glo- ry * to the|new born King!|
+w: ||||
+w: ||||
+

@@ -1,0 +1,16 @@
+X:1
+T:Ugly Beauty
+C:Thelonious Monk
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Db
+V:1 treble 
+%%MIDI program 40
+V:1
+"Dm7" =G4 F2 |"G13b9" =E3 =D ^CD |"Dm7" =G3 B AF |"Dbmaj7" c4 B2 |"Ebm7" A4 G2 |"Ab7b9" F4 A,2 | %6
+"Dbmaj7" D2 E4 | z6 |"Dm7" =G4 F2 |"G13b9" =E3 =D ^CD |"Dm7" =G3 B AF |"Dbmaj7" c4 B2 | %12
+"Ebm7" A4 G2 |"Ab7b9" F4 A,2 |"Dbmaj9" D2 E4 | z6 |"Abm7" d4 _c2 |"Db13" B3 A =GA |"Bb7#9" d4 _c2 | %19
+"Bb7b5" B6 |"Ebm7" A4 G2 |"Ab7b9" A4 G2 |"Dbmaj7" D6 |"F7b5" z2"E7b5" z2"Eb7b5" z2 |"Dm7" =G4 F2 | %25
+"G13b9" =E3 =D ^CD |"Dm7" =G3 B AF |"Dbmaj7" c4 B2 |"Ebm7" A4 G2 |"Ab7b9" F6 | F6 |"Dbmaj7" D6 |] %32
+

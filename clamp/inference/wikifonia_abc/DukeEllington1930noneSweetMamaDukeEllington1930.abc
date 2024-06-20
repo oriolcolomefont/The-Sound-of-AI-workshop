@@ -1,0 +1,51 @@
+X:1
+T:Sweet Mama - Duke Ellington -1930
+T:Sweet Mama - Duke Ellington -1930
+C:Duke Ellington -1930
+Z:Public Domain
+%%score [ 1 2 3 ]
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Acoustic Grand Piano" snm="Pno"
+%%MIDI program 0
+V:2 treble nm="Acoustic Grand Piano" snm="Pno"
+%%MIDI channel 3
+%%MIDI program 0
+V:3 bass nm="Acoustic Grand Piano" snm="Pno"
+%%MIDI channel 2
+%%MIDI program 0
+L:1/4
+V:1
+ B e2 g- g2 BA- | A2 Ge- e2 cB- | B2 G2 G2 GG | z8 |: z2 D2 E G3 | BG BG d2 ee- | e6 ff- | %7
+ ff BB e2 EE | Ee- e6- | (3eE^E (3FG^G (3A2 ^A2 B2 | ge- e6 | ce EG B2 A2 | z2 D2 E G3 | %13
+ BG BG d2 ee- | e6 ff- | ff BB e2 EE | Ee- e6 | GE GE B2 BG- | G4 AB cd- | d2 cB A2 G2 | FE- E6 | %21
+ z F ^GB e2 B2 | E8 | G/F/=F/E/ G/^F/=F/E/ B B2 E- | E e3 e4- | (3eE^E (3FG^G (3A2 ^A2 B2 | %26
+ ge- e6 | ce EG B2 A2 | z2 D2 E G3 | BG BG d2 ee- | e6 ff- | ff BB e2 EE | ED- D4- DD | %33
+ (3^DE^E (3FG^G (3A2 ^A2 B2 | g4 AB cd- | d2 BG E4 :| B e2 g- g2 BA- | A2 Ge- e2 cB- | %38
+ B2 G2 G2 GG- | G6 z2 |] %40
+V:2
+ [BGE] [eBG]2 [gdB]- [gdB]2 [B=FD][AEC]- | [AEC]2 [G_EB,][ecG]- [ecG]2 [cGE][BGD]- | %2
+ [BGD]2 [GEC]2 [GDB,]2 [GCA,][GDB,] | z8 | z2 D2 E G3 | BG BG [dBG]2 [eBG][e^cG]- | %6
+ [ecG]6 [f^cG][fcG]- | [fcG]f BB [e^cG]2 EE | Ee- e6- | (3eE^E (3FG^G (3A2 ^A2 B2 | ge- e6 | %11
+ [cGE][ecF] E[GEC] [BFD]2 [AEC]2 | z2 D2 E G3 | BG BG [dBG]2 [eBG][e^cG]- | [ecG]6 [f^cG][fcG]- | %15
+ [fcG]f BB [e^cG]2 EE | Ee- e6 | GE GE [BFD]2 [BFD][GB,]- | [GB,]4 AB cd- | d2 cB A2 G2 | FE- E6 | %21
+ z F ^GB e2 B2 | E8 | G/F/=F/E/ G/^F/=F/E/ B B2 E- | E e3 e4- | (3eE^E (3FG^G (3A2 ^A2 B2 | %26
+ ge- e6 | [cGE][ecF] E[GEC] [BFD]2 [AEC]2 | z2 D2 E G3 | BG BG [dBG]2 [eBG][e^cG]- | %30
+ [ecG]6 [f^cG][fcG]- | [fcG]f BB [e^cG]2 EE | ED- D4- DD | (3^DE^E (3FG^G (3A2 ^A2 B2 | g4 AB cd- | %35
+ d2 BG [EB,]4 | [BGE] [eBG]2 [gdB]- [gdB]2 [B=FD][AEC]- | [AEC]2 [G_EB,][ecG]- [ecG]2 [cGE][BGD]- | %38
+ [BGD]2 [GEC]2 [GDB,]2 [GCA,][GDB,]- | [GDB,]6 z2 | %40
+V:3
+ [G,G,,] z [G,G,,] z | C, z [A,C,] z | D, A,, D, D,, | G, D, G,, z | G,, [B,G,D,] D,, [B,G,D,] | %5
+ G,, [B,G,D,] D,, [B,G,D,] | A,, [^CA,G,] E,, [CA,G,] | A,, [^CA,G,] E,, [CA,G,] | %8
+ A,, [CA,F,] ^G,, [B,^G,^E,] | A,, [CA,F,] D,, [CF,D,] | G,, [B,G,D,] E,, [B,G,E,] | %11
+ A,, [G,E,] D,, [A,F,D,] | G,, [B,G,D,] D,, [B,G,D,] | G,, [B,G,D,] D,, [B,G,D,] | %14
+ A,, [^CA,G,] E,, [CA,G,] | A,, [^CA,G,] E,, [CA,G,] | A,, [CA,F,] ^G,, [B,^G,^E,] | %17
+ A,, [CG,E,] D,, [F,D,] | G,, [G,D,] A,, [CG,E,] | B,, [DG,] B,, [^DB,A,] | %20
+ B,, [D^G,E,] E,, [DG,E,] | B,, [D^G,E,] E,, [DG,E,] | A,, [^CA,G,] E,, [CA,G,] | %23
+ A,, [^CA,G,] E,, [CA,G,] | A,, [CA,F,] ^G,, [B,^G,^E,] | A,, [CA,F,] D,, [CF,D,] | %26
+ G,, [B,G,D,] E,, [B,G,E,] | A,, [G,E,] D,, [A,F,D,] | G,, [B,G,D,] D,, [B,G,D,] | %29
+ G,, [B,G,D,] D,, [B,G,D,] | A,, [^CA,G,] E,, [CA,G,] | A,, [^CA,G,] E,, [CA,G,] | %32
+ A,, [CA,F,] ^G,, [B,^G,^E,] | A,, [CA,F,] D,, [CF,D,] | G,, [B,G,D,] A,, [CG,E,] | %35
+ B,, [DG,] [D,G,,]2 | [G,G,,] z [G,G,,] z | C, z [A,C,] z | D, A,, D, D,, | G, D, G,, z | %40
+

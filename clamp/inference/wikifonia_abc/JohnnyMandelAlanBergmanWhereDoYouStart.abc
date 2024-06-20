@@ -1,0 +1,38 @@
+X:1
+T:Where Do You Start
+T:Where Do You Start
+C:Johnny Mandel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ ede |:"Eb69" B4 z ede |"Ab/Bb" Bede Bede |"Eb69" B4 z ede |"Bbm7" Bede"Eb+7" =Bede | %5
+w: Where do you|start? How do you|sep- a- rate the pre- sent from the|past? How do you|deal with all the things you thought would|
+w: |yours? Which tapes and|dreams be- long to you and which are|mine? our lives are|tan- gled like the branch- es of a|
+"Abmaj7" c4 z"Ab6" ede |"Abm7" =B4 z"Abm6" EFE |"Gm7" BccB"C9" BccB ||"F9" FGGF"Bb7b9" FGGF |1 %9
+w: last, that did- n't|last? with bits of|mem- 'ries scat- tered here and there. I|look a- round and don't know were to|
+w: vine, that in- ter-|twine. So man- y|ha- bits that we'll have to break and|yes- ter- days we'll have to take a-|
+"Eb6""Gb9" E8- |"Bmaj7" E4 z"Bb7sus4" ede :|2"Eb69" E4 z EFG ||"Abm7" ABAB"Db7sus4" =B_dBd | %13
+w: start.|_ Which books are|part. One day thee'll|be a song or some- thing in the|
+w: ||||
+"Gbmaj7" e_d"Ebm7" d4 z B |"Cm7" cdcd"F7#5#9#11" efef |"Abmaj9/Bb" gf"Gbm7" f4 z e | %16
+w: air a- gain to|catch me by sur- prise and you'll be|there a- gain. A|
+w: |||
+"Bb7sus4" ed"Bbdim7" d4 z c |"Abmaj9/Bb" cB B2 z ede |"Eb69" B4 z ede |"Ab/Bb" Bede Bede | %20
+w: mo- ment in what|might have been. Where do you|start? do you al-|low your- self a lit- tle time to|
+w: ||||
+"Eb69" B4 z ede |"Bbm7" Bede"Eb+7" =Bede |"Abmaj7" c4 z"Ab6" ede |"Abm7" =B4 z"Abm6" EFE | %24
+w: cry or do you|close your eyes and kiss it all good-|bye? I guess you|try. and though I|
+w: ||||
+"Gm7" BccB"C9" BccB |"Fm7" BccB"Bb13" BccB |"Gm9" cddc"C13" cddc |"Gm9" cddc"C13" cddc | %28
+w: don't know where and don't know when, I'll|find my- self in love a- gain, I|pro- mise there will al- ways be a|lit- tle place no one will see, a|
+w: ||||
+"F7sus4" fggf"F13" fggf |"Bb7sus4" e2"Bb7b9" d2 c2 d2 |"Eb69" e8- |"Fm7/Eb" e8- |"Eb69" e8 |] %33
+w: ti- ny part, deep in my heart, that|stays in love with|you.|_||
+w: |||||
+

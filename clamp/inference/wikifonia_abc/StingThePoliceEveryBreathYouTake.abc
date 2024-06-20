@@ -1,0 +1,44 @@
+X:1
+T:Every Breath You Take
+C:Sting, The Police
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"^Intro""G" G,DAD BADA | G,DAD BADA |"Em" E,B,FB, GFB,F | E,B,FB, GFB,F | C"C"GdC cG C2 | %5
+w: |||||
+w: |||||
+"D" DG e2 dADd |"G" G,DAD BADA | z2 Bc B2 (AG) |:"^Verse""G" G4 z4 | z2 Bc B2 (AG) | %10
+w: ||Eve- ry breath you _|take|Eve- ry move you _|
+w: |||make|Eve- ry vow you _|
+"Em" (GE) z2 z4 | z GGB-B c2G |"C" z GGc-c B2A |"Dsus4" z AGB GG z2 |"^To Coda""Em" z8 |1 %15
+w: make _|Eve- ry bond _ you break|Eve- ry step _ you take|I'll be watch- ing you||
+w: break _|Eve- ry smile _ you fake|Eve- ry claim _ you stake|I'll be watch- ing you||
+ z2 Bc B2 (AG) |"G" B6 z2 | z2 Bc B2 (AG) |"Em" G2 z2 z4 | z GGB-B c2G |"C" z GGc-c B2A | %21
+w: Eve- ry sing- le _|day|Eve- ry word you _|say|Eve- ry game * you play|Eve- ry night _ you stay|
+w: ||||||
+"D" z AGB"Dsus4"G G2 z |"G" z8 | z2 G2 B2 (dc) ||"^Chorus""C" e6 z2 |"C/Bb" z2 ee d2>G2 | %26
+w: I'll be watch- ing you||Oh, can't you _|see|You be- long to|
+w: |||||
+"G" B4 z4 | z2 ge g2 (ge- |"A7" e)(g e6) | z eaaf(e d2) |"D7sus4" d2 z2 z4 |"D7" z2 Bc B2 (AG) :|2 %32
+w: me.|How my poor heart _|_ aches, _|with eve- ry step you _|take|Eve- ry move you *|
+w: |||with eve- ry breath you _|take||
+[K:Eb]"Eb" z ggg- gfff- |f f2g-g f2f ||"F" z fff fdcf- |f d2f-f f2f |"Eb" z eff f2 ff | %37
+w: Since you've gone _ I been lost|_ with- out _ a trace,|I dream at night I can on-|* ly see _ your face.|I look a- round but it's|
+w: |||||
+f f2g- g2 dc |"F" z cfc f2 dc | f2 df- f2 ff |"Eb"zc f2 f2 cf- |f c2f-f c2f |:[K:G]"G" g8- | g8 | %44
+w: you I can't _ re- place|I feel so cold and I|long for your _ em- brace|I keep cry- ing ba-|* by ba- * by please|_||
+w: |||||||
+"Em" z8 | z8 |"C" z8 |"D" z8 |1"Em" z8 | z8 :|2"G" z8 | z2 G2 B2"^To chorus" (dB) || %52
+w: |||||||Oh can't you _|
+w: ||||||||
+"^Coda""Em" z GGB z c2G |"C" z GGc z B2A |"D" z AGB G2 G2 |"Em" z8 | z8 | z8 | z2 Bc B2 (AG) | %59
+w: Eve- ry move you make,|eve- ry step you take|I'll be watch- ing you||||I'll be watch- ing _|
+w: |||||||
+"G" G2 z2 z4 | z8 |: z8 | z2 Bc B2 (AG) | G4 z4 | z8 :| %65
+w: you|||I'll be watch- ing _|you||
+w: ||||||
+

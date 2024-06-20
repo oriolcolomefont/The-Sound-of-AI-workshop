@@ -1,0 +1,27 @@
+X:1
+T:Merci Bon Dieu
+T:Merci bon Dieu
+C:Harry Belafonte
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z8 | z8 | z8 | z4 z ddd |:"Dm" d2 z2 z Ac=B |"^Harry Belafonte" =BAGA- AGFE | D4 z4 | z4 z ddd | %8
+w: |||Mè- ci bon|Dié, Ga- dé tout|ça la na- tu _ po- té pou|nous.|Mè- ci bon|
+ d2 z2 z Ac=B | =BAGc- cdcB |"Am" A4 z4 |1 z4 z ddd :|2 z4 z ddd ||"Dm" d2 z2 z Acc | %14
+w: Dié, Ga- dé cou-|man la mi- zè _ fi- ni pou|nous.|Mè- ci bon|La pli tom-|bé, Ma- i pous-|
+"C" c2 z2 z ddd |"Dm" d f2 d z Acc |"C" c2 z2 z GAG |"Dm" A"A7" A2 A"Dm" z AAG | %18
+w: sé, Toute ti moune|qui grand gout pra- lé man-|gé. An nous dan-|sé Con- go, An nous dan-|
+ A"A7" A2 A"Dm" z DEF | AAFG"Gm" EFEF |"Dm" D F2 A z A/A/-"C" A/G/F |"Dm" A A2 A z A/A/-"C" A/G/F | %22
+w: sé Pé- tro, Pa- pa bon|Dié di nan ciel la mi- zè fi-|ni pou nous. Mi- zè _ è fi-|ni pou nous. Mi- zè _ è fi-|
+"Dm" A A2 A z A/A/-"C" A/G/F |"Dm" A A2 A z A/A/-"C" A/G/F |"Dm" A8- | A8- | A4 z4 | %27
+w: ni pou nous. Mi- zè _ è fi-|ni pou nous. Mi- zè _ nous fi-|ni.|_||
+ z8"^diminuendo" |] %28
+w: |
+

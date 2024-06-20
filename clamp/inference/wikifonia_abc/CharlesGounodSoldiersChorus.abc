@@ -1,0 +1,24 @@
+X:1
+T:Soldier's Chorus
+T:Soldier's Chorus
+T:from the opera "Faust"
+T:Charles Gounod
+C:Charles Gounod
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G6 D3 G3 |"D" ABG A2 A d6 |"G" B6"Em" G3 E3 |"B" FGE F2 F B6 |"G" G6 D3 G3 |"D" ABG A2 A d6 | %6
+"G" def g2 G"D" ABc d2 d | d3- dcA"G" G6 |"Em" E2 z"B7" F2 z"Em" GFE B3- | %9
+"B" BB,^D"Gb7" F2 F"B" F3 B, z z |"G" G2 z"D" A2 z"G" BAG d3- |"D" dDF"A7" A2 A"D" A3 D z z | %12
+"Bm" B2 z"Gb" ^c2 z"Bm" d=cB f3- |"Gb" fF^A"Db7" ^c2 c"Gb" c3 F z B | %14
+"Abdim" B^cB d2 d"D" ded f2 d |"A7" A3- AB^c"D" d3-"D7" d z z |"G" G6 D3 G3 |"D" ABG A2 A d6 | %18
+"G" B6"Em" G3 E3 |"B" FGE F2 F B6 |"G" G6 D3 G3 |"D" ABG A2 A d6 |"G" def g2 B"D7" d3- dcA | %23
+"G" G2 G, G,B,D G2 D DGB | d3- d2 d"D7" e3- edc |"G" B2 G, G,B,D G2 D DGB | d6- d z G GBd | %27
+"A7" e6- e3 e3 |"D" f6"D7" e3 d3 |"G" g12- | g6- g z z z2 z |] %31
+

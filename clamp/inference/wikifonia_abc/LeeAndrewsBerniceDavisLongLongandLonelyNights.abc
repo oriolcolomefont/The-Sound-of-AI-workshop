@@ -1,0 +1,39 @@
+X:1
+T:Long, Long and Lonely Nights
+C:Lee Andrews
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI program 71
+V:1
+"C " c4- cd- de |"Emin" B3 G E4- |"Fmaj7" EA Bc B"Dmin"A- (3AGA |"C " G8 |"F " GF- F4-"Fmin" FC | %5
+w: Long, * long * and|lone- ly nights|* I cry my eyes out * o\- ver|you|Won- dering * * if|
+"C " E2- EG"Amin""A7" c4 |"D7" cA Bc- c"D "A- (3A"Amin""D7"Bc |"G7" d2 G2 _e4 | %8
+w: I * did right|and why you left * me * with a|bro- ken heart|
+"C " (3edc- c2- cd- de |"Emin" B3 G E4- |"Fmaj7" EA Bc BA- (3AGA |"C " G8 |"F " GF-"Fmin" F4- FC | %13
+w: O\- oh long, * * long * and|lone- ly nights|* Oh how I miss you * m\- y|dear.|Pl- ease * * come|
+"C " (3:2:2E2 G-"Emin" G"C7"c-"Amin" c4 |"D7" (3A2 B2 c2-"G7" (3c2 B2 d2 |"C " c6 z2 | %16
+w: back to * me. *|How I wish * you were|here|
+"F " c>d dc"Dmin" d3 c |"F " dc"Fmin" c6 |"Cmaj7" (3B2 B2 B2"Emin" B2 A2 |"C " E8 | %20
+w: As I go a\- long my|lone- ly way|I vi- su- lize your|face|
+"D7" A>B A2"Bmin" B3 d |"D7" BA A6 |"G7" z A (3:2:2B2 c A2 B<c | d2 G2 e4 |"C " c4- cd- de | %25
+w: When I pass through (yeah)|my door- way|What's left for me t\- o|face. Oh Oh|Long, * long * and|
+"Emin" B3 G E4- |"Fmaj7" EA Bc BA- A/G/ (3:2:2AG/- |"C " G6- GG- |"F " GF-"Fmin" F4- FC | %29
+w: lone- ly nights|* I guess you're ne- ver * co- ming home|* * Long,|* long * * and|
+"C " E2- EG"Amin""A7" c4 |"D7" (3A2 B2 c2-"G7" (3:2:2c2 B- Bd/>c/ |"C " c6 z2 | %32
+w: lone- * ly nights|e\- ver since * you've * be- en|gone|
+"F " (3:2:2c2 d- d/d/c/d/- d3 e/>c/ |"Fmin" dc c6 |"Cmaj7" (3B2 B2 B2"Emin" B2 A2 |"C " E8 | %36
+w: As I * go a\- long * m\- y|lone- ly way|I vi- su- lize your|face|
+"D7" A B2 A"G7" B2 d-d/>B/ |"D7" BA- A6 |"G7" z A Bc A"Cmaj7"B c2 |"G7" d2 G2 _e3 =e | %40
+w: When I pass through (yeah) * my|door- way *|What's left for m\- e to|face Oh Oh Oh|
+"C " e/d/ c3- c2 de |"Emin" B3 G E4- |"Fmaj7" EA Bc B"F "A- A/G/A/G/- |"C " G6 z2 | %44
+w: l\- o\- ng, * long and|lone- ly nights|* I guess you're ne- ver * co- ming home.||
+"F " GF- F4- FC |"C " E2- EG"Amin""A7" c4 |"D7" AB c2-"G7" cB d2 |"C ""Bb ""A7" e6 e2- | %48
+w: Long, long * * and|lone- * ly nights|e\- ver since * you've been|gone. Please|
+"Dmin" e3 d-"G7" d2 e2 |"Dmin" f3 A"D7" A3 z | z D F2"G " B4 | z2 z3/2 d/-"G7" d4 | %52
+w: * please * come|back to me|You've been gone|too *|
+"D7" z4"G7" e/d/ c3- |"C " c8- |"Fmin" c8- |"C " c8 |] %56
+w: l\- o\- ng||||
+

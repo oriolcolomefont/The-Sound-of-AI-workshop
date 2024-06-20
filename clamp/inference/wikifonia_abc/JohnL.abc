@@ -1,0 +1,39 @@
+X:1
+T:Four On Six
+T:Four On Six
+C:John L. Wes Montgomery
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 bass nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^N.C.""^Intro" G,, D, C, G, | G,, D, C, G, | G,, D, C, G, | G,, D, C, G, | C, G, F, C | %5
+w: (bs~&~pn) * * *|||||
+w: |||||
+ B,, F, E, B, | A,, =E, D, A, | _E, B, _A, E | G,, D, C, G, | G,, D, C, G, | G,, D, C, G, | %11
+w: |* * * (add~11)|(add~11) (add~11) ~~ *||||
+w: |* * * (omit~5)|(omit~5) (omit~5) * *||||
+ G,, D, C, G,[K:treble] |[K:treble] D z/ C/ z/ ^C/ D | z F3[K:bass] | G,, D, C, G, | %15
+w: |(gtr.) * * *||(bs~&~pn) * * *|
+w: ||||
+ G,, D, C, G,[K:treble] |[K:treble]"Gm7" D/D/ z/ B,/"C7" C/C/ z/ B,/ | %17
+w: |(gtr) * * * * *|
+w: ||
+"Gm7" (3D/E/D/ B,/C/"C7" z/ G,/B,/D/ |"Gm7" C/C/ z/ G,/"C7" A,/ A,3/2- |"Gm7" A,4 | %20
+w: |||
+w: |||
+"Cm9" d z/"^F7(#11b9)" =B/- B2 |"Bbm9" c z/"^Eb7(#11b9)" A/- A2 |"Am9" =B z/"^D7(#11b9)" ^G/- G2 | %23
+w: |||
+w: |||
+"Ebm9" F z/"Ab9#11" D/- D2 |"Gm7" D/D/ z/ B,/"C7" C/C/ z/ B,/ | %25
+w: ||
+w: ||
+"Gm7" (3D/E/D/ B,/C/"C7" z/ G,/B,/D/ |"Gm7" C/C/ z/ G,/"C7" A,/ A,3/2- |"Gm7" A,4 | %28
+w: |||
+w: |||
+"Bbmaj7" D z/"Gm7" C/ z/"G#m7" ^C/"Am7" D | z"D7#9" F2 z |"Gm" z4 | z4 |] %32
+w: ||||
+w: ||||
+

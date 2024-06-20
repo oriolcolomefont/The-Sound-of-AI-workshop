@@ -1,0 +1,17 @@
+X:1
+T:Délibábos Hortobágyon
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" G3 ^F G2 E2 |"G" G3 ^F G2 E2 |"C" G2 e2 d2 c2 |"G" B3 c d4 |"G7" F3 E F2 D2 | F3 E F2 D2 | %6
+w: Dé- li- báb- os|Hor- to- bá- gyon|egy kis kur- ta|kocs- ma van,|Mert a jó bort|úgy i- má- dom,|
+"G" D2 d2 c2 B2 |"C" c3 d e4 | z eee eBcd |"F" c4 A2 z2 |"G" z ddd dABc | B2 G2 A2 B2 | %12
+w: ott- an ér- zem|jól ma- gam,|Ke- res- het en- gem a csa-|lá- dom,|So- ha- sem ér vé- get a|dí- nom- dá- nom,|
+"C" c3 B"C7" c2 _B2 |"F" A3 c d2 e2 | z e2 e"G" ecdB |"C" c4 z4 |] %16
+w: Dé- li- bá- bos|Hor- to- bá- gyon|Pé- ter- Pá- lig hu- za-|tom!|
+

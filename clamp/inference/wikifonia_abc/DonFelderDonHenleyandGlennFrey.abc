@@ -1,0 +1,58 @@
+X:1
+T:Hotel California
+T:Hotel California
+T:Don Henley, Glenn Fry, Don Felder
+C:Don Felder, Don Henley and Glenn Frey.
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 40
+V:1
+|:"Bm" z fff f2 ee | e2 f2 z4 |"F#" z fff (3f2 e2 e2 | e4 z4 |"A" z eef ffee | eeef z4 | %6
+w: * On a dark des- ert|high- way|* cool _ wind in my|hair,|* warm _ smell * of co-|li- * tas _|
+w: Her mind is Tif- fa- ny|twist- ed|she got the Mer- ce- des|bends|She got a lot of pret- ty|pret- ty boys _|
+"E" (3z2 f2 f2 (3f2 e2 e2 | ed B2 z4 |"G" z2 ff f2 ed | d2 f2 z4 |"D" z dff (3f2 e2 d2 | d2 z2 z4 | %12
+w: ris- ing up through the|air _ _|Up a- head in the|dis- tance|I saw a shim- mer- ing|light|
+w: _ that she _ calls|friends _ _|How they dance in the|court yard|* Sweet _ _ sum- mer|sweat.|
+"Em" z Eee eeed | e2 df- f2 z2 |"F#" z Fff (3f2 e2 e2 | (e f3) z4 |"Bm" z2 ff g2 ff | g2 f2 z4 | %18
+w: My head grew heav- y and my|sight grew dim _|I had to stop for the|Night _|There she stood in the|door- way|
+w: * some * dance * to re-|mem- ber _ _|_ some * dance t0 for-|get _|So I called up the|cap- tain|
+"F#" z Fff (3f2 e2 e2- | e2 z2 z F F2 |"A" z2 z E eeed | e e2 f- ffff |"E" (3f2 f2 f2 (3f2 e2 e2 | %23
+w: I heard the mis- sion bell|ring * *|And I was think- ing|to my- self _ this could be|hea- ven or this could be|
+w: * "please * bring me my|wine" he said|"we have- n't had that|spir- it here _ _ since *|nine- * teen six- * ty|
+ ed B2 z4 |"G" z2 ff (3f2 e2 d2 | d2 f2 z4 |"D" z2 Bd f2 ed | d2 z2 z4 |"Em" z2 ee eeed | %29
+w: hell _ _|Then she lit up a|can- dle|and she showed me the|way|There were voic- es down the|
+w: nine _ _|_ And still * those|Voic- are|* * far a- *|way|wake you up * in the|
+ eedf- f2 z2 |"F#" z eff f2 ^a2 | f e3 z4 ||"G" z2 gg- gggg- | g g3 a2 gg- |"D" g f3 z4 | %35
+w: cor- * ri- dor _|I thought I heard them|say _|Wel- come * to the ho-|* tel Cal- i- for-|* nia|
+w: mid- dle of the night|* just to hear them|say _||||
+ z4 z2 ff |"F#" (fe)ee- e2 ff | (fe)ee- e2 ee |"Bm" (ed)dd- d2 z2 | z6 z d |"G" gggg- g g2 g | %41
+w: Such a|love- * ly place * (such a|love- * ly place) * such a|love- * ly face. *|There's|Plen- ty of room * at the|
+w: ||||They|liv- in' it up _ at the|
+ g2 g2 a2 gg- |"D" g f3 z4 | z4 z2 ff |"Em" feee- e2 ef | feee- e2 fg |"F#" gfff- f4 | z8 :: %48
+w: Ho- tel Cal- i- for-|* nia|an- y|time _ of year _ (an- y|time _ of year ) you can|find _ it here. *||
+w: ho- tel Cal- i- for-|* nia|what a|nice _ sur- prise _ (what a|nice _ sur- prise) * bring your|al- * i- bis _||
+"Bm" z2 ff- f g2 f | g2 ef- f2 FF |"F#" z Fff- (3f2 f2 e2 | ef z F F2 F2 |"A" z2 fe eeee | %53
+w: Mir- rors * on the|ceil- ings _ _ _ _|the pink cham- * pagne on|ice _ and she said|"we are all * just *|
+w: Last thing _ I re-|mem- ber _ _ I was|* run- ning _ for the|door _ _ _ _|_ I had to find the|
+ (3f2 e2 e2 ef z2 |"E" z2 ff (f e2) d | d2 z2 z4 |"G" z Gff f2 ed | d2 ef- f2 dd | %58
+w: pris- on- ers here _|of our own _ de-|vice."|and in the mas- ter's _|cham- bers _ _ _ _|
+w: pas- sage back to the|place I was _ be-|fore.|* * "re- lax" said the|night man _ _ "we are|
+"D" (3z2 F2 f2 (3e2 e2 d2 | d2 z2 z4 |"Em" z Eee- (3e2 e2 d2 | e d2 f- f2 ed |"F#" f2 f2- f f2 e | %63
+w: they gath- ered for the|feast.|They stab it _ with their|steel- y knives _ but they|just can't _ kill the|
+w: * pro- gramed to re-|ceive.|You can check out an- y|time you like _ _ but|you can _ nev- er|
+ f2 z2"^D.C. and fade" z4 :| %64
+w: beast.|
+w: leave."|
+V:2
+|: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | fedd- de f2 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :: x8 | x8 | x8 | x8 | x8 | x8 | x8 | %55
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %64
+

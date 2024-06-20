@@ -1,0 +1,54 @@
+X:1
+T:Hello
+T:Hello
+C:Lionel Richie
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am" E2 E2"G6" E2 E2 |"Fmaj7" E2 E2"G6" E2"Fmaj7" E2 |"Am" E2 E2"G6" E2 E2 | %3
+w: |||
+w: |||
+w: |||
+"Fmaj7" E2 E2"G6" E2"Fmaj7" EE |:"Am" EAAc"G6" Bccd- |"Fmaj7" d (c2 d)"G6" z2"Fmaj7" z E | %6
+w: * * * * I've|1.~been a- lone with you in- side my|_ mind * And|
+w: |2.~long to see the sun- light in your|_ hair. * And|
+w: |3.~~Instrumental * * * * * * *||
+"Am" EAAB"G6" Bc c2 |"Fmaj7" z/ B/c/B/"G6" A4"Fmaj7" z E |"Am" EAAB"G6" Bccd | %9
+w: in my dreams I've kissed your lips|a thous- and times. I|some- times see you pass out- side my|
+w: tell you time and time a- gain|how much I care. Some-|times I feel my heart will ov- er-|
+w: |||
+"Fmaj7" z (c2 d)"G6" z2"Fmaj7" z d |"Am" e2 z2 z2"G6" (3z dc |"Fmaj7" eddc"A" e2 z d/e/ || %12
+w: door. * Hel-|lo, is it|me you're look- ing for? 1.~I can|
+w: flow. * Hel-|lo, I've just|got to let you know, 2.3.~Cause I|
+w: * * Hel-|lo is it|me you're look- in for? * *|
+"Dm7" f/e/e/d/"G7" d4 z c/d/ |"Cmaj7" e/d/d/c/"Fmaj7" A4 z3/2 c/ | %14
+w: see it in your eyes, I can|see it in your smile You're|
+w: won- der where you are and I|won- der what you do Are~you|
+w: ||
+"Bb" (3:2:4d2 c2 c_B"E7" A^G-G^F/G/ |"Am" AA/=B/-"E7/B"BA/c/-"Am/C" c2"E7/B" z d/e/ | %16
+w: all I've ev- er want- ed _ and my|arms are o- * pen wide. _ Cause you|
+w: some- where feel- ing lone- ly _ or is|some- one lov- * ing you? _ Tell me|
+w: ||
+"Dm7" ff (3fed-"G7" d2 z c/d/ |"Cmaj7" efed/(c/"Fmaj7" A2) z c/c/ | %18
+w: know just what to say _ and you|know just what to do _ And I|
+w: how to win your heart _ for I|have- n't got a clue. _ But *|
+w: ||
+"Bb" dc/c/-c_B"Am/E" !fermata!A"E7" !fermata!^G2 ^F/G/ |0"Am" A2 E2"G6" E2 E2 | %20
+w: want to tell _ you so much, I love|you... * * *|
+w: let me start _ by say- ing, I love|you.... * * *|
+w: ||
+"Fmaj7" E2 E2"G6" E2"Fmaj7" E2 |"Am" E2 E2"G6" E2 E2 |"Am" E2 E2"G6" E2"Fmaj7" EE :|3 %23
+w: |||
+w: |||
+w: |||
+"Am" A2 E2"G6" E2 E2 |"Fmaj7" E2 E2"G" d2"F" c2 |"A" !fermata!e8 |] %26
+w: you. * * *|||
+w: |||
+w: |||
+

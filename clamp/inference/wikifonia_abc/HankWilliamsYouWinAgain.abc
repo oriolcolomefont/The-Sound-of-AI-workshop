@@ -1,0 +1,25 @@
+X:1
+T:You Win Again
+T:You Win Again
+T:hank williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"C7" c A G |"F" F4- | F A G E |"Bb" D F3- | F B d f |"F" c4- | c A c A |"C7" G4- | G c c A | %9
+w: The news is|out|* all o- ver|town *|* that you've been|seen|* a run- ing|'round|* I know that|
+w: I'm sor- ry|for|* your vic- tim|now *|* 'cause soon his|head|* like mine will|blow|* He'll give his|
+"F" F4- | F A G F |"Bb" D F3- | F B c d |"F" c4- | c A"C7" E G |"F" F4- | F d d B |"Bb" d4- | %18
+w: I|shou- ld leave, but|then, *|* I just can't|go|* you win a-|gain|* This heart of|mine|
+w: heart,|* but all in|vain *|* and some day|say,|* you win a-|gain|* You have no|heart,|
+ d c B d |"F" c4- | c F F A | c4- | c d c A |"C7" G4- | G c c A |"F" F4- | F A G F |"Bb" D F3- | %28
+w: * could nev- er|see|* what ev'- ry|bod-|* y knew but|me|* Just trust- ing|you|* was my great|sin *|
+w: * you have no|shame|* you take true|love|* and give the|blame|* I guess that|I|* should not com-|plain *|
+ F B d f |"F" c4- | c A"C7" E G |"F" F4 |] %32
+w: * what can I|do|* you win a-|gain|
+w: * I love you|still,|* you win a|gain|
+

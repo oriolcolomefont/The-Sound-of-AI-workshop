@@ -1,0 +1,69 @@
+X:1
+T:10,000 Reasons
+T:10,000 Reasons
+T:Jonas Myrin & Matt Redman, 2011
+T:(Bless the Lord)
+T:Larry Johnson, 2012
+C:Jonas Myrin & Matt Redman, 2011
+Z:All Rights Reserved
+L:1/8
+Q:1/4=73
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 8
+%%MIDI program 54
+V:1
+"^Gently" z8 | z8 |"Ab" z4"Eb" z4 |"Bb/D" z4"Cm" z4 |"Ab" z4"Eb" z4 |"Bbsus4" z4"Bb" z2 GB || %6
+w: |||||Bless the|
+"Ab" c2 cB"Eb" G2 z2 |"Bb/D" F-G-F-E"Cm" C2 z2 |"Ab" CEBG-"Eb" G2 EF- |"Bbsus4" F4"Bb" z2 GB | %10
+w: Lord Oh my soul|Oh _ _ my soul|wor ship His ho _ ly name|_ sing like|
+"Ab" c2 cB"Cm" G2 z2 |"Ab" c2"Bb" d2"Cm" G2 z3/2 E/ |"Ab" EF G"Bb" F3 EE- |"Ab/Eb" E4"Eb" z4 | %14
+w: nev er be fore|O my soul I'll|wor ship Your ho ly name|_|
+ z4 z3 B, |"Ab" E2 E2"Eb" E2 CB, |"Bb" D2 E2"Cm" E2 B,2 |"Ab" z B,EE"Eb" E2 EF- | %18
+w: The|sun comes up it's a|new day dawn ing|It's time to sing your song|
+"Bb" F2 G"Cm" G3 z E |"Ab" AAA-G"Eb" G2 FE |[M:2/4]"Bb" FE FG |[M:4/4]"Cm" F-E C2 z4 | %22
+w: _ a gain what|ev er may _ pass and what|ev er lies be|fore _ me|
+"Ab" z EEE"Eb" EEEF |[M:2/4]"Bbsus4" G2"Bb" F2 |[M:4/4]"Eb" E4 z2"Ab/Eb" z2 |"Eb" z6 GB || %26
+w: Let me be sing ing when the|eve ning|comes|Bless the|
+"Ab" c2 cB"Eb" G2 z2 |"Bb/D" F-G-FE"Cm" C2 z2 |"Ab" CE B"Eb" G3 EF- |"Bbsus4" F4"Bb" z2 GB | %30
+w: Lord o my soul|O _ _ my soul|wor ship His ho ly name|_ Sing like|
+"Ab" c2 cB"Cm" G2 z2 |"Ab" c2"Bb" d2"Cm" G2 z3/2 E/ |"Ab" EF G"Bb" F3 EE- |"Ab/Eb" E4"Eb" z4 | %34
+w: nev er be fore|O my soul I'll|wor ship Your ho ly name|_|
+"Ab/Eb" z4"Eb" z3 B, |"Ab" E2 E2"Eb" E2 CB, |"Bb" D2 E2"Cm" E2 B,>B, |"Ab" E2 E2"Eb" E2 EE | %38
+w: You're|rich in love and you're|slow to an ger Your|NAME is great and Your|
+"Bb" F2 G"Cm" G3 z E |"Ab" A2 A2"Eb" GFEF |[M:2/4]"Bb/D" F2 G2 |[M:4/4] G2 F<E z4 | %42
+w: heart is kind for|all your good ness I will|keep on|sing ing _|
+"Ab" z EEE"Eb" EEEF |[M:2/4]"Bbsus4" G2"Bb" F2 |[M:4/4]"Eb" E4"Ab/Eb" z4 |"Eb" z6 GB | %46
+w: Ten thou sand rea sons for my|heart to|find|Bless the|
+"Ab" c2 cB"Eb" G2 z2 |"Bb/D" F-G-FE"Cm" C2 z2 |"Ab" CE B"Eb" G3 EF- |"Bbsus4" F4"Bb" z2 GB | %50
+w: Lord o my soul|O _ _ my soul|wor ship His ho ly name|_ Sing like|
+"Ab" c2 cB"Cm" G2 z2 |"Ab" c2"Bb" d2"Cm" G2 z3/2 E/ |"Ab" EF G"Bb" F3 EE- | E4 || %54
+w: nev er be fore|O my soul I'll|wor ship Your ho ly name|_|
+"^Guitar Solo""Ab" z4"Eb" z4 |"Bb/D" z4"Cm" z4 |"Ab" z4"Eb" z4 |"Bbsus4" z4"Bb" z4 | %58
+w: ||||
+"Ab" z4"Cm" z4 |"Ab" z2"Bb" z2"Cm" z2"Eb" z2 |"Ab" z4"Bb" z4 |"Eb" z4 z3 B, | %62
+w: |||and|
+"Ab" E2 E2"Eb" E2 CB, |"Bb/D" D2 E2"Cm" E2 B,>B, |"Ab" E2 E2"Eb" E2 EE |"Bb" F2 G"Cm" G3 z2 | %66
+w: on that day when my|strength is fail ing the|end draws near and my|time has come|
+"Ab" A2 A2"Eb" GFEF |[M:2/4]"Ab" F2 G2 |[M:4/4]"Cm" G2 F<E z4 |"Ab" z EEE"Eb" EEEF | %70
+w: still my soul will sing Your|praise un|end ing _|ten thou sand years and then for|
+[M:2/4]"Bbsus4" G2"Bb" F2 |[M:4/4]"Eb" E4 z2"Ab/Eb" z2 |"Eb" z6 GB |"Ab" c2 cB"Eb" G2 z2 | %74
+w: ev er|more!|Bless the|Lord O my soul|
+"Bb/D" F-G-FE"Cm" C2 z2 |"Ab" CE B"Eb" G3 EF- |"Bbsus4" F4"Bb" z2 GB |"Ab" c2 cB"Cm" G2 z2 | %78
+w: O _ _ my soul|wor ship His ho ly name|_ sing like|nev er be fore|
+"Ab" c2"Bb" d2"Cm" G2 z3/2 E/ |"Ab" EF G"Bb" B3 BB- |"Eb" B4 z2 z2 |"Eb" z6 GB | %82
+w: O my soul I'll|wor ship your ho ly name|_|Bless the|
+"Ab" c2 cB"Eb" G2 z2 |"Bb/D" F-G-FE"Cm" C2 z2 |"Ab" CE B"Eb" G3 EF- |"Bbsus4" F4"Bb" z2 GB | %86
+w: Lord O my soul|O _ _ my soul|wor ship His ho ly name|_ sing like|
+"Ab" c2 cB"Cm" G2 z2 |"Ab" c2"Bb" d2"Cm" G2 z3/2 E/ |"Ab" EF G"Bb" F3 EE- |"Cm" E2 z2 z4 | %90
+w: nev er be fore|O my soul I'll|wor ship Your ho ly name|_|
+"Ab" EF G"Bb" F3 GG- |"Cm" G/A/- G3 z2 GF |"Ab" EF G"Bb" F3 EE- |"Ab" E2 z2"Eb" z4 | %94
+w: wor ship Your ho ly name|_ _ _ Lord, I'll|wor ship Your ho ly name|_|
+"Bb/D" z4"Cm" z4 |"Ab" z4"Eb" z4 |"Bbsus4" z4"Bb" z2 GB |"Ab" c2 cB"Cm" G2 z2 | %98
+w: ||sing like|nev er be fore|
+"Ab" c2"Bb" d2"Cm" G2 z3/2 E/ |"Ab" EF G"Bb" F3 EE- |"Cm" E2 z2 z4 |"Ab" EF G"Bb" F3 GG- | %102
+w: O my soul I'll|wor ship Your ho ly name|_|wor ship Your ho ly name|
+"Cm" G2 z2 z4 |"Ab" EF G"Bb" F3 EE- |"Eb" E z z2 z4 | z8 | z8 | z8 |] %108
+w: _|wor ship Your ho ly name|_||||
+

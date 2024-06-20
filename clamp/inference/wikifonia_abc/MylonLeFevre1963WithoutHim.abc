@@ -1,0 +1,43 @@
+X:1
+T:Without Him
+T:Without Him
+T:Mylon LeFevre, 1963 Arrangement: Larry Johnson, 2011
+C:Mylon LeFevre 1963
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:3/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z6 | z6 | z6 | z6 | z6 | z4 z E |"Ab" c4 c2 | c2 B3 A |"Eb7" GA B4- | B4- BE | d4 d2 | d2 c3 _c | %12
+w: |||||with|out Him|I could do|no _ thing|_ _ with|out Him|I'd sure ly|
+"Ab" c6- | c4 cd |"Ab7" e4 e2 | e2 d3 c |"Db6" B"F7/C"c"Bbm" d4- |"B7b5" d4 ed |"Ab/Eb" c4 cd | %19
+w: fail|_ with _|out Him|I would be|drift _ ing|_ like a|ship with _|
+"Eb7" c4 B2 |"Ab" A6- | A6 | c6 | A2 z2"Db/Ab" d2 |"Ab" c4- cB | A2 z2 GA |"Eb7" B2 B3 __B | %27
+w: out a|sail|_|Je|sus oh|Je _ _|sus do you|know Him to|
+ B4 ee |"Ab" c2 c3 d |"Ab7" e2 f3- e |"Db" d6 | d2 z2 fe |"Ab/Eb" e2- c3-"C7/E" B |"Fm" A F3 AB | %34
+w: day you can't|turn Him a|way oh _|Je|sus Oh _|Je _ _|_ sus with _|
+"Ab/Eb" ce- e3 c |"Eb7" B2 z2 AB |"Ab" A6- | A6- | A4- AE |"Ab" c4 c2 | c2 B3 A |"Eb7" GA B4- | %42
+w: out Him _ how|lost I would|be|_|* * with|out Him|I would be|die _ ing|
+ B4- BE | d4 d2 | d2 c3 _c |"Ab" c6- | c4 cd |"Ab7" e4 e2 | e2 d3 c |"Db6" B"F7/C"c"Bbm" d4- | %50
+w: _ _ with|out Him|I'd be en|slaved|_ with _|out Him|life would be|hope _ less|
+"B7b5" d4 ed |"Ab/Eb" c4 cd |"Eb7" c4 B2 |"Ab" A6- | A6 | c6 | A2 z2"Db/Ab" d2 |"Ab" c4- cB | %58
+w: _ but with|Jesus thank _|God I'm|saved|_|Je|sus oh|Je _ _|
+ A2 z2 GA |"Eb7" B2 B3 __B | B4 ee |"Ab" c2 c3 d |"Ab7" e2 f3- e |"Db" d6 | d2 z2 fe | %65
+w: sus do you|know Him to|day you can't|turn Him a|way oh _|Je|sus Oh _|
+"Ab/Eb" e2- c3-"C7/E" B |"Fm" A F3 AB |"Ab/Eb" ce- e3 c |"Eb7" B2 z2 AB |"Ab" A6- | A6- | A4- AE | %72
+w: Je _ _|_ sus with _|out Him _ how|lost I would|be|_|* * with|
+"Ab" c4 c2 | c2 B3 A |"Eb7" GA B4- | B4- BE | d4 d2 | d2 c3 _c |"Ab" c6- | c4 cd |"Ab7" e4 e2 | %81
+w: out Him|I could do|no _ thing|_ _ with|out Him|I'd sure ly|fail|_ with _|out Him|
+ e2 d3 c |"Db6" B"F7/C"c"Bbm" d4- |"B7b5" d4 ed |"Ab/Eb" c4 cd |"Eb7" c4 B2 |"Ab" A6- | A6 | c6 | %89
+w: I would be|drift _ ing|_ like a|ship with _|out a|sail|_|Je|
+ A2 z2"Db/Ab" d2 |"Ab" c4- cB | A2 z2 GA |"Eb7" B2 B3 __B | B4 ee |"Ab" c2 c3 d |"Ab7" e2 f3- e | %96
+w: sus oh|Je _ _|sus do you|know Him to|day you can't|turn Him a|way oh _|
+"Db" d6 | d2 z2 fe |"Ab/Eb" e2- c3-"C7/E" B |"Fm" A F3 AB |"Ab/Eb" ce- e3 c |"Eb7" B2 z2 AB | %102
+w: Je|sus Oh _|Je _ _|_ sus with _|out Him _ how|lost I would|
+"Ab" A6- | A6- | A6 | z6 | z6 | z6 | z6 |] %109
+w: be|_||||||
+

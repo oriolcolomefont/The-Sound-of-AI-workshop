@@ -1,0 +1,23 @@
+X:1
+T:Brown girl in the ring
+T:Brown girl in the ring 
+T:Boney M
+C:Boney M
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+V:1
+"C" E2 E2 ED/C/- C2 | E>D E>F G2 CC |"G" D2 D2 DC/B,/- B,2 | G3 A GFED |"C" E2 E2 ED/C/- C2 | %5
+w: Brown girl in the ring, _|tra- la- la- la- la, There's a|brown girl in the ring, _|tra- la- la- la- la- la,|Brown girl in the ring, _|
+ E>D E>F G2 G2 |"C" c2 GG EE"G"DD |"C" C>c- c>c z4 ||"C" E2 ED C2 G,2 | E>D E>F G2 CC | %10
+w: tra- la- la- la. She _|looks like a su- gar in a|plum, _ plum plum.|Show me your mo- tion,|tra- la- la- la- la, Come on,|
+"G" D2 DC B,A, G,2 | G3 A GFED |"C" E2 ED C2 G,2 | E>D E>F G2 G2 | c2 GG EEDD | C>c- c>c z4 |: %16
+w: show me your mo- tion la|tra- la- la- la- la- la,|Show me your mo- tion,|tra- la- la- la, She _|looks like a su- gar in a|plum, plum _ plum.|
+"C" C2 E2 C2 E2 |"G" ED- D6 | D2 DD E2 D2 |"C" C8 :| %20
+w: All had wa- ter|run dry, _|Got nowhere to wash my|clothes.|
+

@@ -1,0 +1,23 @@
+X:1
+T:Gangnam Style
+T:Park Jae-Sang (PSY) - 2012
+T:Gangnam Style
+C:Park Jae-Sang a.k.a. PSY
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 BB |"G" d3 B2 ^fff- |"A" f3 e2 z ee |"B" ^d3 z2 BBB- |"B" B3 z z2 BB |"G" d3 B2 ^fff- | %6
+w: ||||||
+"A" f3 e2 z ee |"F#" ^f3 z2 fff- | f3 z2 z ^ff- |"F#" f^fff ffff | %10
+w: ||||
+ ^f/f/f/f/ f/f/f/f/ f/f/f/f/ f/f/f/f/- | f3 z z2 z2 | z2 BB dd B2 | d6 BB | d3 B z4 | d6 BB | %16
+w: ||O- pa gang- nam style!|Hey sex- y|la- dy!|Hey sex- y|
+ d3 B z4 | %17
+w: la- dy!|
+

@@ -1,0 +1,22 @@
+X:1
+T:Moontrane
+T:Moontrane
+C:Woody Shaw
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ e2- ed/c/"Dmaj7" B4- | B4 (3B2 c2 d2 | e2- ed/c/ B4- | B6 z2 |"Gmaj7" z2 e4 d2 |"Fmaj7" z2 B4 A2 | %6
+"Ebmaj7" z2 _E4 D2 |"Db+7" z2 _D4 C2[K:bass] |[K:bass]"Bbmaj7" D,2 z D, z2 D,2 | z2 D,2 z D, z2 | %10
+ D,2 z D, z2 D,2 | z2 D,2 z D, z2[K:treble] ||[K:treble]"Bbmaj7" Ac- c6- | c6 (3AGF | %14
+"Am" E2- (3EFG A4- | A4 z2 A,/D/F/A/ |"Cm" c2- (3cAF"Dm" E2 G2- |"Ebm" G2 D4"Fm" E2 | %18
+"Dmaj7" ^F3 E F4 | z"Cm" G,CF"F7" _E_B,G_B |"Bb" Ac- c6- | c6 (3AGF |"Am" E2- (3EFG A4- | %23
+ A4 z2 A,/D/F/A/ |"Cm" c2- (3cAF"Dm" E2 G2- |"Ebm" G2 D4"Fm" E2 |"Dmaj7" ^F3 E F4 | %27
+"Fm7" z2 CD"Bb7" _EF G/_A/_B/c/ |"Eb" dcdB- BGBG- | GFGF- FDFD- | D6 z2 |"Adim7" z4"D7b9" d3 _B | %32
+"Gm" GC z F-"Fm" F4 |"Bbm" _B_E z"Abm" _A- A4 |"C#m" ^c^F z B-"Bm" B4- | B6 z _B || %36
+"Bbmaj7" Ac- c6- | c6 (3AGF |"Am" E2- (3EFG A4- | A4 z2 A,/D/F/A/ |"Cm" c2- (3cAF"Dm" E2"Eb7" G2- | %41
+ G2"Fm" D4 E2 |"Dmaj7" ^F3 E F4- | F8 |] %44
+

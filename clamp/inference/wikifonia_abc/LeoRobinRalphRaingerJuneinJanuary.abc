@@ -1,0 +1,26 @@
+X:1
+T:June in January
+T:June In January
+C:Leo Robin, Ralph Rainger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z"Bm" =B |:"Eb" c3 B | A G"C7" ^F G |"Fm7" z B (3B =A _A | C3 z |"Bb7" z B (3B =A _A | %6
+w: It's|June in|Jan- u- ar- y|be- cause I'm in|love.|It al- ways is|
+"Fm7" (3C ^C D"Bb7" G3/2 F/ |"Gm7" (3F D E"C7" B2- |"Fm7" B3"Bb7" =B |"Eb" c3 B |"C7" A G ^F G | %11
+w: spring in my heart, with|you in my arms.|* The|snow is|just white blos- soms|
+"Fm7" z B (3B =A _A | C3 z |"Bb7" z B (3B =A _A |"Fm7" (3C ^C D"Bb7" G3/2 F/ | (3F D F E2- | %16
+w: that fall from a-|bove;|and here is the|rea- son- my dear, your|mag- i- cal charms.|
+"Dm7b5" E2"G7" z2 |"Cm7" z G A3/2 G/ |"Cdim7" ^F4 |"Cm7" z G A3/2 G/ |"Dm7b5""G7" F4 | %21
+w: |The night is|cold,|the trees are|bare,|
+"Cm7" z G A G | c3/2 G/ G c |"F7" d d2 F/G/ |"Bb7" B3"Bm" =B |"Eb" c3 B | A G"C7" ^F G | %27
+w: but I can|feel the scent of|ros- es in the|air. It's|June in|Jan- u- a- ry|
+"Fm" z B (3B =A _A | C3 z |"Bb7" z B (3B =A _A |"Fm7" (3C ^C D =c"Bb7" D |1"Eb""Gb" E4- || %32
+w: be- cause I'm in|love,|but on- ly be-|cause I'm in love with|you.|
+"Bb7" E z z"Bm" =B :|2"Eb""Ab" e4- ||"Eb" e4 |] %35
+w: * It's|you.||
+

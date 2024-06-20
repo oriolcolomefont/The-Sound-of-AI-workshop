@@ -1,0 +1,60 @@
+X:1
+T:The Continental
+T:The Continental
+C:Con Conrad
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 (3B2 G2 A2 | B2"Ebmaj7""Eb7" B6- |"Fm7""Bbm" B8 |"Ebmaj7" D4"Eb7" _D4 |"Fm7" z4 (3B2 G2 A2 | %5
+w: Beau- ti- ful|mu- sic!|||Dan- ger- ous|
+"Ebmaj7" B2"Eb7" B6- |"Fm7""Bbm7" B8 |"Ebmaj7" D4"Eb7" _D4 |"Fm7" C4"Bb7" z3/2 B<AG/ | %9
+w: rhy- thm!|||* It's some thing|
+"Fm7" F F3"Bb7" z3/2 F<ED/ |"Eb" C C3 z3/2 B<AG/ |"Fm7" F F2 F"Bb7" F>FE>F | %12
+w: dar- ing, The Con- ti-|nen- tal, A way of|danc- ing that's real- ly ul- tra|
+"Ebmaj7" G4"Eb6" z3/2 B<AG/ |"Fm7" F F3"Bb7" z3/2 F<ED/ |"Eb" C C3 z3/2 E<"Cm"FG/ | %15
+w: new; It's ver- y|sub- tle, The Cin- ti-|nen- tal, Be- cause it|
+"Fm7" (3c2 c2 c2"B7b9" (3D2 D2 D2 |"Eb""Eb7" E6 z2 |"Fm7""Bbm7" C4 _D4 |"Ebmaj7" =D4"Eb7" _D4 | %19
+w: does what you want it to|do.|||
+"Fm7" C4 D"Bb7" z/ B<AG/ |"Fm7" F F3"Bb7" z3/2 F<ED/ |"Eb" C C3 z3/2 B<AG/ | %22
+w: * * It has a|pas- sion, The Con- ti-|nen- tal, An in- vi-|
+"Fm7" F F2 F"Bb7" F>FE>F |"Ebmaj7" G4"Eb6" z3/2 B<AG/ |"Fm7" F F3"Bb7" z3/2 F<ED/ | %25
+w: ta- tion to moon- light and ro-|mance; It's quite the|fash- ion, The Con- ti-|
+"Eb" C C3 z3/2 E<"Cm"FG/ |"Fm7" (3c2 c2 c2 (3D2"Bb7b9" D2 D2 |"Eb" E2 z2"Eb7" E4 |"Abm" e8- | %29
+w: nen- tal Be- cause you|tell of your love while you|dance. Your|lips|
+ e4"Db7" (3_d2 e2 d2 |"Bbmaj7" B3 B B4- | B2 z2"Eb7" E4 |"Abm" e8- |"Abm7" e4"Db" (3_d2 e2 d2 | %34
+w: _ whis- per so|ten- der- ly,|_ Her|eyes|_ ans- wer your|
+"Bb""Ebm6" B8- |"Bbdim" B4"Bb7" z3/2 B<AG/ |"Fm7" F F3"Bb7" z3/2 F<ED/ |"Eb" C C3 z3/2 B<AG/ | %38
+w: song.|_ Two bod- ies|sway- ing, The Con- ti-|nen- tal, And you are|
+"Fm7" F F2 F"Bb7" F>FE>F |"Ebmaj7" G4"Eb6" z3/2 B<AG/ |"Fm7" F F3"Bb7" z3/2 F<ED/ | %41
+w: say- ing just what you're think- ing|of; So keep on|danc- ing The Con- ti-|
+"Eb" C C3 z3/2 E<"Cm"FG/ |"Fm7" (3c2 c2 c2"Bb7b9" (3D2 D2 D2 |"Eb""Eb7" E6 z2 | %44
+w: nen- tal, For it's the|song of ro- mance and of|love.|
+[K:Ab]"Ab" z E2 E F2 F2 |"Eb7" E2 EF- F2 z2 |"Ab" E2 E F2 F2 E- |"Eb7" EEF- F2 z E2 |"Ab" A8- | %49
+w: |||* * * * You|kiss|
+ A4 B2 c2 | B2 A6- | A4 z3/2 E<FE/ |"Ab" F F3"Eb9" z4 |"Ab6" z4"Abdim" z3/2 E<FE/ | %54
+w: _ while you're|danc- ing;|_ It's con- ti-|nen- tal|It's con- ti-|
+"Eb9" F F3"Adim" z4 |"Eb9" z4 z2 F2 |"Bbm" B8- | B4 c2 d2 | c2 B6- | B4 z3/2 E<FE/ | %60
+w: nen- tal|You|sing,|_ while you're|danc- ing;|_ Your voice is|
+"Eb9" F F3"Adim" z4 |"Eb9" z4"Eb+" z3/2 E<FE/ |"Ab" F F3"Fdim" z4 |"Bbm7" z4"Eb7" z2 E2 | %64
+w: gen- tle|and sen- ti-|men- tal.|You'll|
+"Ab" A4"Eb" B4 |"Ab" c4"Gb" d4 |"F7" e2 z2 d2 c2- | c4 z2 F2 |"B/B" B3 B"F" c3 c | %69
+w: know be-|fore the|dance is through,|_ That|you're in love with|
+"Bbm" d3 d"F7" e3 e |"Bbm" f2 z2"Bbm7" d2"Eb9" B2- | B4 z2"Eb7" E2 |"Ab" A8- | A4 B2 c2 | B2 A6- | %75
+w: her and she's in|love with you.|_ You'll|find|_ while you're|danc- ing,|
+ A4 z3/2 E<FE/ |"Eb7" F2 E2"Adim" F2 E2 |"Eb7" F2 EF-"Adim" F>EF>E |"Eb7" F2 E2"Adim" F2 E2 | %79
+w: _ That there's a|rhy- thm in your|heart and soul; _ A cer- tain|rhy- thm tat you|
+"Eb7" F2 EF-"Adim" FEF>E |"Eb7" F2 E2"Adim" F2 E2 |"Bbm7" F2 E"Eb9"F- F c3 |"Ab""Ab7" A8- | %83
+w: can't con- trol, _ And you will|do The Con- ti-|nen- tal all _ the|time.|
+"Bbm7" A4"Ebm7" _G4 |"Abmaj7" =G4"Ab7" _G4 |"Bbm7" F4 (3e2 c2 d2 |"Abmaj7" e2"Ab7" e6- | %87
+w: ||* Beau- ti- ful|mu- sic!|
+"Bbm7""Ebm7" e8 |"Abmaj7""Ab7" z8 |"Bbm7" z4 (3e2 c2 d2 |"Abmaj7" e2"Ab7" e6- |"Bbm7""Eb7" e8- | %92
+w: ||Dan- ger- ous|rhy- thm!|_|
+"Ab" e2 z2 z4 |] %93
+w: |
+

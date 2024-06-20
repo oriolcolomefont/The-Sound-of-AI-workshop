@@ -1,0 +1,24 @@
+X:1
+T:My Darling, My Darling
+T:My Darling, My Darling
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Slow with a beat" z6 z d |:"C7" d c2 B"F7" B A2 G |"Bb" (3GF=E (3GFE"G+" G"G7" F2 F | %3
+w: My|dar- ling, my dar- ling, I've|want- ed to call you my dar- ling, For|
+"Cm" F _E2 D"F7" E c2 E |"Bb""Bdim" D6 z d |"C7" d c2 B"F7" B A2 G | %6
+w: man- y and man- y a|day. My|dar- ling, my dar- ling, I|
+"Bb" (3GF=E (3GFE"G+" G"G7" F2 F |"Cm" F _E2 D"F7" E c2 F |"Bb" B6 B2 |"D" A3 G ^F3 A | %10
+w: flut- tered and fled like a star- ling; My|cour- age just melt- ed a-|way. Now|all at once you've|
+"Bm" D2"Bm7" D4 =E^F |"Em" G=E"D"A^F"G" =BG"A7"^c z/ A/ |"D" d4-"G7" dddd |"C7" d c2 B"F7" B A2 G | %14
+w: kissed me And there's|not a thing I'm sane e- nough to|say _ Ex- cept My|dar- ling, my dar- ling, get|
+"Bb" (3GF=E (3GFd"Dm7" c"G7" =B2 d |"Cm7" e4"F7" F4 |"Bb" B4- B z z d :|"Bb" B4- B2 z2 |] %18
+w: used to that name of my dar- ling. It's|here to|stay. _ My|stay. _|
+

@@ -1,0 +1,26 @@
+X:1
+T:Where the Boys Are
+C:Howard Greenfield, Neal Sedaka
+Z:All Rights Reserved
+L:1/8
+Q:1/4=0
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Bb""^Very slow" B4-"Gm" B3 c |"Dm" d2 A6 |"Cm7" G2 c2"F7" A3 G |"Bb" F6 z D |"Cm7" E3 B"F7" A3 G | %5
+w: Where * The|Boys Are|some- one waits for|me. A|smil- ing face, a|
+"Bb" F3 c"Gm" B3 B |"Em7" A3 A"A7" AG^FG |"D" A4-"F7" A4 |"Bb" B4-"Gm" B3 c |"Dm" d2 A6 | %10
+w: warm em- brace, two|arms to hold me ten- der-|ly. *|Where * The|Boys Are|
+"Cm7" G2 c2"F7" A3 G |"Bb" F6 z D |"Cm7" E3 B"F7" A3 G |"Bb" F3 c"Gm" B2 Bc |"Cm7" d3 d"F7" cBAc | %15
+w: my true love will|be. He's|walk- ing down some|street in town and I|know he's look- ing there for|
+"Bb" B8 |"Cm7" F3 F"F7" F2 Ac |"Bb" d3 B"Gm" (3:2:2G F2- FG |"Cm7" F2 C2"F7" D2 E2 |"Bb" F8 | %20
+w: me.|In the crowd of a|mil- lion peo- ple, * I'll|find my Val- en-|tine,|
+"Cm7" F3 F"F7" F2 Ac |"Bb" d3 B"Gm" (3:2:2G F2- F2 |"C7" (3:2:2z2 G (3:2:2G2 G A2 B2 | %23
+w: then I'll climb to the|high- est stee- ple *|and tell the world he's|
+"Cm7" c4-"F7" c4 |"Bb" B4-"Gm" B3 c |"Dm" d2 A4 A2 |"Cm7" G2 c2"F7" A3 G |"Fm6" F4-"G7" F2 EF | %28
+w: mine. *|Till * he|holds me I|wait im- pa- tient-|ly, * Where The|
+"Cm" G2 E4 FG |"Dm7" A2 F4 GB |"Cm7" d2 G2"F7" dcBc |1"Bb" B4"F7" z4 :|2"Bb" !fermata!B8 |] %33
+w: Boys Are, Where The|Boys Are, Where The|Boys Are some- one waits for|me.|me.|
+

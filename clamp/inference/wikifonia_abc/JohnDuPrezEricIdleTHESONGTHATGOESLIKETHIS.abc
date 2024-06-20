@@ -1,0 +1,65 @@
+X:1
+T:THE SONG THAT GOES LIKE THIS
+T:The Song That Goes Like This
+T:from Monty Python's Spamalot
+T:John Du Prez,Eric Idle
+T:Eric Idle
+C:John Du Prez,Eric Idle
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A" c3 d"E/G#" e4 |"F#m" A3 B"D#m7b5" c4 |"D" FAAF dcAB ||[K:F]"F2" ACAC ACAC | ACAC ACAC || %5
+w: |||||
+w: |||||
+"F" A2- A/B/A/B/ c2 z A |"C/E" GAGA B2 z G |"Dm" FF-FF/G/ A2 z A, |"Bb" DD-DD/E/ F2 z D | %9
+w: Once * in ev- 'ry show there|comes a song like this. It|starts off * soft and low, and|ends up * with a kiss. Oh,|
+w: Dennis * * * * * *||||
+"F" C2 z2"Dm" A2 F2 |"Gm7" B,2 z3/2 F/ G2 A2 |"Csus4" G6 z2 |"C" G/G/G z G z G z C | %13
+w: where is the|song that goes like|this?|(where is it? where? where?) A|
+w: |||spoken * * * * lady|
+"F" A>BAB c2 z A |"C/E" G>AGA B2"A/C#" z G |"Dm" FG F/G/A- A2 z D |"Bb" DCDE F2 z D | %17
+w: sen- ti- men- tal song that|casts a mag- ic spell. They|all will hum a- long- . We'll|o- ver- act like hell. Oh,|
+w: ||||
+"F" C4"Dm" A2 F2 |"Gm7" B,2 z3/2 B,/"C7" G2 z A |"F" F6"Bb/F" B/B/B | B/B/B B/B/B (3BBB z2 | %21
+w: this is the|song that goes like|this. (yes it is!|yes it is! yes it is! yes it is!)|
+w: ||* Dennis * *|Lady * * Dennis * * Lady * *|
+"Bb" B/c/B/c/ d2 z2 z B |"F" AB A/B/c- c2"F7" z A |"Cm7" G2 z d"C7" c2 B2 |"F" AB c2- c2"F7" F2- | %25
+w: Now we can go straight in-|to the mid- dle eight- , a|bridge that is too|far for me. * I'll|
+w: Dennis * * * * *|||* * * * Lady|
+"Bb" FB/A/Bc d2 z2 |"A7" A>^GA=B ^c2 z A |"Dm" A3 A"G7" =B3 B |"C" c4-"D7" c4 || %29
+w: * sing it in your face,|while we both em- brace, and|then we change the|key! *|
+w: |* * * * * both|||
+"G" =B/c/B/c/ d2 z2 z G |"D/F#" A=BAB c2 z A |"Em" G<AGA =B2"Em/D" z G |"C" EDE^F G2 z E | %33
+w: Now we're in- to E. That's|aw- fully high for me, But|ev- 'ry one can see we|should have stayed in D. For|
+w: Dennis * * * * *|* * * * * Lady||* * * * * both|
+"G" D4"Em" =B2 G2 |"Am7" C2 z3/2 G/ A2 =B2 |"Dsus4" A8- |"D" A6 z D |"G" =B/c/B/c/ d2 z2 z d | %38
+w: this is our|song that goes like|this.|* I"m|feel- ing ve- ry proud You're|
+w: |||* Dennis|* * * * * Lady|
+"D/F#" A/=B/A/B/ c2 z2 z A/A/ |"Em" G^FGA"Em7/D" =B2 z E |"C" E^DE^F G2 z2 |"G" D4"Em" =B2 G2 | %42
+w: sing- ing far too loud. That's the|way that this song goes. You're|stand- ing on my toes.|Sing- ing our|
+w: * * * * * Dennis *|* * * * * Lady||both * *|
+"Am7" C2 z3/2 G/ A2 =B2 |"Dsus4""D" A8- |"Esus4""E7" A6 z =B ||"A" ^c>dcd e2 z c | %46
+w: song that goes like|this.|* I|can't be- lieve there's more. It's|
+w: ||* Lady|* * * * * Dennis|
+"E/G#" =B>^cB>c d2 z B/B/ |"F#m" A/^G/A/=B/ ^c2"F#m/E" z2 z E/E/ |"D" ^FEF^G A2 z F | %49
+w: far too long I'm sure. That's the|trou- ble with this song, it goes|on and on and on. For|
+w: * * * * * Lady *||* * * * * both|
+"A" E4"F#m" ^c2 A2 |"Bm7" D2 z3/2 A/ =B2 ^c2 |"Esus4""E" e8- ||"E" e2"B" ^dd dd"B7" d/d/"F#"^c/c/ | %53
+w: this is our|song that is too|long.|* (Jes- us Christ! God damn it!) We'll be|
+w: |* both * *||* spoken Dennis * * * * Lady *|
+"B" ^d/e/d/e/ ^f2- f2 z d |"F#" ^c^dcd e2 z c |"G#m" =B<^cBc ^d2"G#m/F#" z ^F | %56
+w: sing- ing this 'till dawn. * You'll|wish that you weren't born Let's|stop this damn re- frain, be-|
+w: * * * * * * Dennis|* * * * * Lady|* * * * * both|
+"E" ^G/e/e/e/ e2 z2 z e |"B" ^f4"G#m" f2 ^d2 |"C#m7" ^g4"F#""F#7" ^f4 |"E/B" =B8 |"B" =b8 | z8 | %62
+w: fore we go in- sane. The|song al- ways|ends like|this-|||
+w: ||||||
+ z8 |] %63
+w: |
+w: |
+

@@ -1,0 +1,40 @@
+X:1
+T:Amor Amor Amor
+T: Laukens Music Productions  
+T:Beguine
+T:AMOR AMOR AMOR
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=190
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/4
+V:1
+"F" c3 B"F#dim" dcBA |"C" G3 E"A7" _BAGF |"D7" E3 C"G+" _EDCB, |"C" C2 z2"A7" _B4 | %4
+"D7" A4"G7" G2 z c |:"C" c6 z G | G6 z E | E8- | E4 z CDE | G4 z CDE | A4 z CDE |"G7" F4 G4- | %12
+ G4 z2 z d |"Dm" d6 z A | A6 z F | F8- | F4 z DEF |"G7" G4 z ABA | G4 z EGE |"C" D4 C4- | %20
+ C4 z2 z B, |"Em" [GB]2 [EG][^FA] [GB][GB][Ac][GB] |"B7" [^FA]2 [FA][EG] [^DF]2 B,2 | %23
+ [^FA]2 [^DF][EG] [FA][FA][GB][FA] |"Em" [EG]2 [EG]^F E2 D2 | %25
+"G" [Bd]2 [GB][Ac]"E7" [Bd][Bd][Ac][^GB] |"Am" [Ac]2 [Ac][GB]"D7" [^FA]2 z D | %27
+ [Ac]2 [^FA][GB] [Ac][FA] [Ac]2 |"G" [=Fd]2 [dfb]2"Dm" [cfa]2"G7" [Bfg][ec'] |"C" [ec']6 z [eg] | %30
+ [eg]6 z e | z4 b2 gb | a4 z cde | g4 z cde | a4 z cde |"G7" f4 g4- | g4 z2 z [fd'] | %37
+"Dm" [fd']6 z [fa] | [fa]6 z f | f8- | f4 z def |"G7" g4 z aba |1 g4 z ege |"Fm" d4"C" c4 | %44
+"Dm" DEFA"G7" G2 c2 :|2 g4 z gab ||"C" d'3 c' c'4- |"Ab" c'4 z2 c'2 |"C" [egac']8 | %49
+"Ab7" [_e_g_ac']6 c'2 |"C" e'8- | [gc'e']8- | [egc'e']2 z2 c'4 | c2 z2 z4 |] %54
+V:2
+ x4 | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | e4- | e2 x2 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 |1 x4 | x4 | x4 :|2 x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %54
+

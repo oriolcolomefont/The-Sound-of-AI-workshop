@@ -1,0 +1,30 @@
+X:1
+T:Poema
+T:Poema
+T:Music by: Franciso Canaro Arr: Wim Alderding
+T:Tango uit 1925
+T:tempo di tango = 102
+C:Francisco Canaro
+Z:All Rights Reserved
+L:1/8
+Q:1/4=106
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 11
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Fm" PF_AGA F2 z2 |"Cm" P_EG_G=G E2 z2 |"G7" PDFEF D2 D2 |"Cm" C/B,/C/D/ _E/FG [CEG]2 z/ z | %4
+"Fm" PF_AGA F2 z2 |"Cm" P_EG_G=G E2 z2 |"G7" PDFEF D2 D2 |"C" [E,G,C]8 :| %8
+ z2"C" [EG]2"D" [FA]2"E" [GB]2 |:"C" ([EGc]4 [EGc]4) |"C" [EGc]6 de |"C" dcBA [FA]2 [FA][Fd] | %12
+"Dm" ([DFA]6 [DFA]2) | [DFA]2 [DFA]2 Ad [DFA]2 |"G7" ([FGB]4 [FGB]4 |"G7" [FGB]2) cd cBAG | %16
+"C" [EG][EG] [EG]2 Gc [EG]2 |"C" ([EG]6 [EG]2) |"A7" ([_DEA]8 |"A7" [_DEA]6) E2 | %20
+"A7" FGFE ([DFA]4 |"Dm" [DFA]4) F2 GA |"B7" [E^FB]4 [EFB]4 |"B7" [EFB]2 ^FG AGFB | %24
+"Em" B4"D7" (([E^Fd]4 |"D7" [E^Fd]2))"C" [EG]2"D" [FA]2"E" [GB]2 |"C" ([EGc]4 [EGc]4) | %27
+"C" [EGc]6 de |"C" dcBA"Dm" [FA]2 [FA][Fd] |"Dm" ([DFA]6 [DFA]2) |"G7" ([FGB]4 [FGB]4 | %31
+"G7" [FGB]2) cd cBAG |"C" [EG][EG] [EG]2 Gc [EG]2 |"C" ([EG]6 [EG]2) |"Fm" [CF_A]8 | z2 c2 d2 c2 | %36
+"C" [Gce]8 | E2 F2 G2 F2 |"Dm" ([DFA]8 |"Dm" [DFA]2)"G7" B2 c2 d2 |"C" [EGc]8 | %41
+"C" ([CEAc]4"Gb" [E_G_B]4) |"Gb" [E_G_A]4"G7" ([B,D=G]4 |"G7" [B,DG]4) z2 z2 | G^FG_A =A_B=Bc :| %45
+ z8 |] %46
+

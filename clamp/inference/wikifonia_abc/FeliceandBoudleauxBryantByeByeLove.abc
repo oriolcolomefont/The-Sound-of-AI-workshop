@@ -1,0 +1,30 @@
+X:1
+T:Bye Bye Love
+T:Bye Bye, Love
+C:Felice and Boudleaux Bryant
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 23
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z"F" A G F |"C7" G3/2 G/- G2 | z G F E |"F" F4- | F c G F |"C7" G3/2 G/- G2 | z G F E |"F" F4- | %8
+w: 1.There goes my|ba- by _|with some- one|new.|_ She sure looks|hap- py; _|I sure am|blue.|
+w: 2.I'm through with|ro- mance, _|I'm through with|love,|_ I'm through with|count- ing _|the stars a-|bove.|
+ F F G"F7/A" A |"Bb" B3/2 B/- B2- | B A B"B" =B |"C7" c4- | c c B A | G3/2 G/- G2 | z G F E | F4- | %16
+w: _ She was my|ba- by _|_ 'till he stepped|in.|_ Good- bye to|ro- mance _|that might have|been.|
+w: _ And here's the|rea- son _|_ that I'm so|free;|_ my lov- in|ba- by _|is through with|me.|
+ F [A,C] [B,_E] [CE] |"Bb" B2 B2 | A2 z2 |"Bb" B2 B2 |"F" A G/F/- F2 | z"Bb" B B2 | %22
+w: _ _ _ _|Bye bye|love,|Bye bye|hap- pi- ness _|hel- lo|
+w: _ _ _ _||||||
+"F" A G/F/- F z/ C/ | F F"C7" G G/F/- |"F" F [A,C] [B,_E]2 |"Bb" B2 B2 |"F" A2 z2 |"Bb" B2 B2 | %28
+w: lone- li- ness _ I|think i'm gon- na cry.|_ _ _|Bye bye|love|bye bye|
+w: ||||||
+"F" A G/F/- F2 |"Bb" z B B2 |"F" A G/F/- F2 | F F"C" G G/F/- |"F" F3 C | F F"C7" G G |"F" F3 z |] %35
+w: sweet car- ess _|hel- lo|emp- ti- ness _|I feel like I could|die; bye|bye, my love, bye|bye|
+w: |||||||
+

@@ -1,0 +1,26 @@
+X:1
+T:Mammy Blue
+T:Mammy blue
+T:Hubert Giraud
+T:English: Phil Trim,
+C:Hubert Giraud
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Am" E z DC- C2 z2 | E2 DC D E3 |"Dm" F3 E"E7" D E3 |"Am" A,2 AA A c3 | E2 DC- C2 z z | %5
+w: Oh Mam- my *|oh mam- my mam- my|blue oh mam- my|blue mam- my mam- my)|oh mam- my *|
+ E2 DC D E3 |"Dm" F3 E"E7" D E3 |"Am" z AE_E D C3 :|"Am" z AE_E D C3 | z4 z2 z =E |: %10
+w: oh mam- my mam- my|blue oh mam- my|blue * * * *|blue * * * *|I|
+"Am" AAAA A B3 | c6 z E | AAAA A B3 | c6 z c |"G" BBBB B B3 | B6 z B |"Am" c4 z ee_e | dc A4 z E | %18
+w: may be your for- got- ten|one who|wan- dered off at twen- ty|one its|sad to find my- self at|home and|you youre not a-|round * * if|
+ AAAA A B3 | c6 z E | AAAA A B3 | c6 z c |"G" BBBB B B3 | c6 z B | c4 z ee_f | z c A4 z2 | %26
+w: I could on- ly hold your|hand and|say I'm sory- ry yes I|am I'm|sure youd real- ly un- der-|stand oh|ma where are you||
+"Am" E4 DC- C2 | E2 DC D E3 |"Dm" F3 E"E7" D E3 |"Am" z EAG A c3 | E2 DC- C2 z2 | E2 DC D E3 | %32
+w: oh mam- my *|oh mam- my mam- my|blue oh mam- my|blue * * * *|oh mam- my *|oh mam- my mam- my|
+"Dm" F3 E"E7" D E3 |"Am" z AE_E D C2 =E :| z"Am" _EDC A,2 z2 |] %35
+w: blue oh mam- my|blue * * * * the|blue * * *|
+

@@ -1,0 +1,34 @@
+X:1
+T:The Hard Way
+T:The Hard Way
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"F+7" ^C2 |"Bb" D>F^C>D-"F7" D>FG>B- |"Bb""Bb7" B6"Bb+7" ^F2 |"Eb" G>B^F>G-"Bb7" G>Bc>e- | %4
+w: Some|girls can make an- * y man dream.|_ By|flash- ing an in- * no- cent gleam|
+"Eb""Ebm" e8 |"Bb" d>AB>d"Edim" c B3 |"Cm7" B>^FG>B"F7" A G3 |"Bb" F>^C"Fm"D>F"G+7" E>ED=C- | %8
+w: _|Me, I do a nip- up,|Curl my up- per lip up|Light a ro- man can- dle and scream.|
+"C7" C>GG>G"F9" G>FGB- |"Bb" B3 B,-"Ebm" B,4- |"Bb" B, z z2"F7" z2"F+7" ^C2 | %11
+w: _ I have to do it the hard|_ way! _|_ Some|
+"Bb" D>F^C>D-"F7" D>FG>B- |"Bb""Bb7" B6"Bb+7" ^F2 |"Eb" G>B^F>G-"Bb7" G>Bc>e- |"Eb""Ebm" e8 | %15
+w: girls can wear an- * y old rags|_ And|cap- ture the wolves _ and the stags,|_|
+"Bb" d>AB>d"Edim" c B3 |"Cm7" B>^FG>B"F7" A G3 |"Bb" =F>C"Fm"D>F"G+7" E>ED=C- | %18
+w: Me, I dress in sa- bles,|Walk a- cross the ta- bles,|Wav- ing three A- mer- i- can flags.|
+"C7" C>GG>G"F9" G>FGB- |"Bb" B3 B,-"Ebm" B,4- |"Bb" B, z z2"Fm" z2"Bb+7" B2 |"Eb" c4 B2 G2 | %22
+w: _ I have to do it the hard|_ way! _|_ Let's|say there's a|
+"Ebm" F6 E2 |"Bb" A4"F9" G2 F2 |"Bb" D6 F2 |"Gm7" d4"C7" c2 B2 |"Gm9""C9" A8 | ^c>d=c>B G2 B>c | %28
+w: dance, They're|play- ing a|waltz And|I want ro-|mance|That's when I be- gin turn- ing|
+"F7" A>G F4"F+7" ^C2 |"Bb" D>F^CD-"F7" D>FGB- |"Bb""Bb7" B6"Bb+7" ^F2 |"Eb" G>BFG-"Bb7" G>Bce- | %32
+w: som- er- saults. Some|girls can keep men _ on their toes|_ By|smil- ing and throw- * ing a rose|
+"Eb""Ebm" e8 |"Bb" d>AB>d"Edim" c B3 |"Cm7" B>^FG>B"F7" A G3 |"Bb" F>^C"Fm"D>F"G+7" E>ED=C- | %36
+w: _|Me, I wrack my noo- dle,|Whis- tle "Yan- kee Doo- dle"|Bal- anc- ing a broom on my nose.|
+"C7" C>GG>G"F9" G>FGd- |"D+7""G9" d8- |"C9" d>GG>G"F9" G>FGB- |"Bb" B3 B,-"Ebm" B,4- | %40
+w: _ Oh, I'm a tell- ing you, Pard,|_|* I have to do it the hard|_ way! _|
+"Bb" B, z"Cb" z2"Bb" z4 |] %41
+w: _|
+

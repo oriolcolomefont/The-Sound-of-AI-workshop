@@ -1,0 +1,27 @@
+X:1
+T:Peter Piper
+T:Peter Piper
+T:1970 pop hit by Canadian composer Frank Mills
+T:Frank Mills
+T:Peter Piper Music Ltd (1979) from North Country Music Ltd. (1970)
+C:Frank Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" (e4 e2 c2 |"F" A3 (F F)A F2) |"G" (GB g2 g2 f2 |"C" e2 G2 G2) z (G | ecGe cGec |"F" fcAf cAec | %6
+"G" dBGd BGdB |1"C" c2) G2 c2 d2 :|2"C" c4 z4 |:"C" (e4 e2 c2 |"F" A3 (F F)A F2) | %11
+"G" (GB g2 g2 f2 |"C" e2 G2 G2) z (G | ecGe cGec |"F" fcAf cAec |"G" dBGd BGdB |1 %16
+"C" c2) G2 c2 d2 :|2"C" c4 z4 |:"C" c2 ed e2 c2 |"F" A2 fe f2 c2 |"G" B2 g^f g2 d2 | %21
+"C" c2 e2 !breath!G2 e2 | c2 ed e2 c2 |"F" A2 fe f2 c2 |"G" d2 g2 G2 g2 |1 %25
+"C" !breath!c2 G2 c2 d2 :|2"C" c4 z4 |:"C" e8 |"F" f8 |"G" g6 !breath!d2 |"C" f4 e4 |"C" e8 | %32
+"F" f8 |"G" g8 |1"C" !breath!c2 G2 c2 d2 :|2"C" c4 z4 || (e4 e2 c2 |"F" A3 (F F)A F2) | %38
+"G" (GB g2 g2 f2 |"C" e2 G2 G2) z (G | ecGe cGec |"F" fcAf cAec |"G" dBGd BGdB |"C" c2) G2 c2 d2 | %44
+"C" (e4 e2 c2 |"F" A3 (F F)A F2) |"G" (GB g2 g2 f2 | e2 G2 G2) z (G |"C" ecGe cGec |"F" fcAf cAec | %50
+"G" dBGd BGdB |"C" !fermata!c4) z4 |] %52
+

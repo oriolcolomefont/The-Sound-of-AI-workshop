@@ -1,0 +1,28 @@
+X:1
+T:Blue Moon
+T:Blue Moon
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"B7" B2 |:"Eb""Cm" B8 |"Fm7" z ABc"Bb7" BBAB- |"Eb""Cm" B8 |"Fm" z FGA"Bb7" GGFG- | %5
+w: Blue|moon,|you saw me stand- ing a- lone||with- out a dream in my heart,|
+"Eb""Cm" G8 |"Fm7" z EFG EEEE- |"E""Ab" E8 |"Eb" z4"Bb7" z2 B2 |"Eb""Cm" B8 | %10
+w: |with- out a love of my own.||Blue|moon,|
+"Fm7" z ABc"Bb7" BBAB- |"Eb" B B3-"Cm" B4 |"Fm7" z FGA"Bb7" GGFG- |"Eb" G G3-"Cm" G4 | %14
+w: you knew just what I was there|* for. *|You heard me say- ing a pray'r|* for *|
+"Fm7" z EFG EEEE- |"Eb" E E3-"Ab" E4- |"Eb" E4 z EEE |"Ab" FFFF"Bb7" G2 G2 |"Eb" E E3- EEEE | %19
+w: some- one I real- ly could care|* for. *|* And then there|sud- den- ly ap- peared be-|fore me * the on- ly|
+"Ab6" FFFF"Bb7" G2 G2 |"Eb" E4 z EEE |"Abm" EEEE"Db7" F2 F2 |"Gb" _D D3- DDDD | %23
+w: one my arms could ev- er|hold. I heard some-|bod- y whis- per, "Please a-|dore me" * and when I|
+"Bb" DDDD"F7" F2 F2 |"Fm7" B6"Bb7" B2 |"Eb""Cm" B8 |"Fm7" z ABc"Bb7" BBAB- |"Eb""Cm" B8 | %28
+w: looked, the moon had turned to|gold! Blue|moon,|now I'm no long- er a- lone,||
+"Fm7" z FGA"Bb" GGFG- |"Eb""Cm" G8 |"Fm7" z EFG EEEE- |1"Eb""Ab" E8- ||"Eb" E4"Bb7" z2 B2 :|2 %33
+w: with- out a dream in my heart,||with- out a love of my own.||* Blue|
+"Eb""Ab" E8- ||"Eb" E6 z2 |] %35
+w: ||
+

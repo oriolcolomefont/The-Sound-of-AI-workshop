@@ -1,0 +1,44 @@
+X:1
+T:That's Entertainment
+T:That's Entertainment
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z C |:S"Bb" D4- |"Bb+" D E2 D |"Cm7" E D E F- |"F7" F G2 F |"Bb" G4- |"Bdim7" G G2 F | %7
+w: The|clown|_ with hhis|pants fall- ing down,|_ Or the|dance|_ that's a|
+w: |lights|_ on the|lad- y in tights,|_ Or the|bride|_ with a|
+w: |clerk|_ who is|thrown out of work|_ by the|boss|_ who is|
+"Cm7" G F G A- |"D7" A"D+7" B2"D7b9" A |"Gm" B4- |"Gm#5" B c2 B!dacoda! |"C" c B"Cm" c d- | %12
+w: dream of ro- mance,|_ Or the|scene|_ where the|vil- lain is mean;|
+w: guy on the side,|_ Or the|ball|_ where she|gives him her all;|
+w: thrown for a loss|_ by the|skirt|_ who is||
+"D+7" d4 |"Eb6" z2 c2 ||1 B2 G2 |"Cm7" F2 C2- | C3"F7" C :|2"Eb6" B2 G2 |"F7" F2 c2- || %19
+w: _|That's|en- ter-|tain- ment!|_ The|||
+w: _|That's||||en- ter-|tain- ment!|
+w: |||||||
+"Fm7" c3"Bb9" B |"Eb" G2 G F |"Eb+" G2 G F |"Eb6" G F E"Fm7" B- | B3"Bb7" F |"Eb" G2 G F | %25
+w: * The|plot can be|hot, sim- ply|teem- ing with sex,|_ A|gay di- vor-|
+w: _ _||||||
+w: ||||||
+"Eb+" G2 G F |"Eb6" G F E"C7" c- | c4 |"F" z2 A2 |"F+" A2 A2 |"F6" A G F"G9" d- | d2"C7" c B | %32
+w: cee who is|af- ter he "ex"|_|It|can be|Oe- di- pus Rex|_ Where a|
+w: |||||||
+w: |||||||
+"F" A2 c A |"Eb6" G B2 G |"Dm7" (3F F F A F |"Cm7" E G2"F7" E!D.S.! ||O"Gm7" c B c"C9" d- | d3 ^c | %38
+w: chap kills his|fath- er. and|caus- es a lot of|both- er. The|do- ing him dirt;|_ The|
+w: ||||||
+w: ||||||
+"Bb" d2 B F |"Cm7" G3"F7" F |"Bb" d2 B F |"G7" G F"C9" G B |"C7" c4- |"F7" c4 |"Bb""Eb" B4- | %45
+w: world is a|stage, the|stage is a|world of en- ter-|tain-||ment!|
+w: |||||||
+w: |||||||
+"Bb" B3 z |] %46
+w: _|
+w: |
+w: |
+

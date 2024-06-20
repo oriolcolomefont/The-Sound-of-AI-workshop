@@ -1,0 +1,26 @@
+X:1
+T:A Holly Jolly Christmas
+T:Have A Holly Jolly Christmas
+C:Johnny Marks
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z E/G/ |:"C" c c B B | A E2 E/G/ | A A"C#dim" G G/B,/- |"G7" B,4 | B B B3/2 A/ | %6
+w: Have a|jol- ly jol- ly|Christ- mas, it's the|best time of the year.|_|I don't know if|
+ G G"C#dim" G3/2 E/ |"G7" G G F G/E/- |"C" E2 z"G7" E/G/ |"C" c c B B | A E2 E/G/ | %11
+w: there'll be snow but|have a cup of cheer.|_ Have a|hol- ly jol- ly|Christ- mas, adn when|
+ A A"C#dim" G G/B,/- |"G7" B,4 | B B B3/2 A/ | G G"C#dim" G3/2 E/ |"G7" G G E D |"C" C4 | %17
+w: you walk down the street,|_|Say hel- lo to|friends you know and|ev- 'ry- one you|meet.|
+"F" c2 A3/2 c/ |"Em" B G G2 |"F" A F F A |"C" G4 |"Dm" F2 D3/2 F/ |"Am" E A A2 | %23
+w: Oh, ho, the|mis- tle- toe|hung where you can|see.|Some- bod- y|waits for you,|
+"D7" D D"Am7" E"D7" ^F |"G7" G3 E/G/ |"C" c c B B | A E2 E/G/ | A A"C#dim" G G/B,/- |"G7" B,4 | %29
+w: kiss her once for|me. Have a|hol- ly jol- ly|Christ- mas, and in|case you did- n't hear|_|
+ B B B/A/G/F/ |"C" E G G c |1"D7" d A2"G7" B ||"C" c3"G7" E/G/ :|2"D7" d2 A2- || A2"G7" B2 | %35
+w: Oh, by gol- ly, have a|hol- ly jol- ly|Christ- mas this|year. Have a|Christ- mas|_ this|
+"C""Dm7""G7" c4- |"C" c z z2 |] %37
+w: year.|_|
+

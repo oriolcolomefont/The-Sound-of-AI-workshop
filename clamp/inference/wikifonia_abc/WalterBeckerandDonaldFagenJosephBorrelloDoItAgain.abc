@@ -1,0 +1,39 @@
+X:1
+T:Do It Again
+T:Do It Again
+T:Walter Becker and Donald Fagen
+T:©
+T: 
+T:Do It Again
+T:2
+C:Walter Becker and Donald Fagen; Joseph Borrello
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ CDFG |:"Gm9" z2 [FB]3 [DG]2 [CF]- |"C9" [CF]2 [DG]2 [FB] [DG]2 [CF]- | %3
+"Gm9" [CF]2 [DG]2 [FB] [DG]3 |"C9" z2 [CFG]3 [CFG]2 [CFG] ::"Cm7" G4"Dm7" A4 | %6
+"Ebmaj7" BAGA-"Dm7" A4 |"Gm9" z2 [FB]3 [DG]2 [CF]- |1"C9" [CF]2 [DG]2 [FB] [DG]2 z :|2 %9
+"C9" [CF]2 [DG]2 [FB] [DG]2 [CF]- ||"Gm9" [CF]2 [DG]2 [FB] [DG]2 [DG]- |"C9" [DG]2 z2 d g2 g- |: %12
+"Gm9" g3 g g f2 a- |"C9" af z2 d d2 c- |"Gm9" c B3 c d2 c- |"C9" cB z2 d g2 g- | %16
+"Gm9" g3 g g f2 a- |"C9" af z2 d d2 c- |"Gm9" c B3 d2 Gc- |"C9" cB z2 d g2 g- |"Gm9" g3 g g f2 a- | %21
+"C9" af z2 d d2 c- |"Gm9" c B3 c d2 c- |"C9" cB z2 d g2 g- |"Gm9" g3 g g f2 a- | %25
+"C9" af z2 d d2 c- |"Gm9" c B3 d2 Gc- |"C9" c B2 G2 G G2 ||"Cm7" B2 z2"Dm7" c2 z2 | %29
+"Ebmaj7" _dcBc-"Dm7" c2 G2 |"Gm9" z2 d2 c B2 d- |"C9" d G2 B- BBcB |"Cm7" B2 z2"Dm7" c2 z2 | %33
+"Ebmaj7" d[cf][dg]c-"Dm7" c/B/G- G/F/G |"Gm9" z2 [FB]3 [DG]2 [CF]- | %35
+"C9" [CF]2 [DG]2 [FB] [DG]2 [CF]- |"Gm9" [CF]2 [DG]2 [FB] [DG]3 |1"C9" z2 [CFG]2 d g2 g- ::2 %38
+"Gm9""_Solo Vamp" z2 [FB]3 [DG]2 z ||"C9" z2 [CFG]2 d g2 g- :|"Gm9" g3 g g f2 a- | %41
+"C9" af z2 d d2 c- |"Fm7" c B3 c d2 c- |"Bb7" cB z2 d g2 g- |"Ebmaj7" g3 g g f2 a- | %45
+"Ab7" af z2 d d2 c- |"Gm9" c B3 d2 Gc- |"Dm11" cB z2"G13" d g2 g- |"Ebmaj7" g3 g g f2 a- | %49
+"Ab7" af z2 d d2 c- |"Fm7" c B3 c d2 c- |"Bb7" cB z2 d g2 g- |"Eb7" g3 g g f2 a- | %53
+"Ab7" af z2 d d2 c- |"Gm9" c B3 d2 Gc- |"Dm11" c B2 G2"Dbm11" G"G13" G2 ||"Cm7" B2 z2"Dm7" c2 z2 | %57
+"Ebmaj7" _dcBc-"Dm7" c2 G2 |"Gm9" z2 d2 c B2 d- |"C9" d G2 B- BBcB |"Cm7" B2 z2"Dm7" c2 z2 | %61
+"Ebmaj7" d[cf][dg]c-"Dm7" c/B/G- G/F/G |:"Gm9" z2 [FB]3 [DG]2 [CF]- | %63
+"C9" [CF]2 [DG]2 [FB] [DG]2 [CF]- |"Gm9" [CF]2 [DG]2 [FB] [DG]3 |"C9" z2 [CFG]3 [CFG]2 [CFG] :| %66
+

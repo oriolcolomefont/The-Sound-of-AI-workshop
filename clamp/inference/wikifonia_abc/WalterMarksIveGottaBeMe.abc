@@ -1,0 +1,30 @@
+X:1
+T:I've Gotta Be Me
+T:I've Gotta Be Me
+C:Walter Marks
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z3 CDE |"C" E6- | E2 C CDE |"Dm" D6- |"G7" D3 DDE |"Dm7" FFF F2 F |"G7" F2 G AGA |"C" E6- | %8
+w: Wheth- er I'm|right|_ or wheth- er I'm|wrong.|_ Wheth- er I|find a place in this|world or nev- er be-|long.|
+ E2 C CEG |"F" c6 |"Em7" z2 d dBG |"F" c6- | c"Em7" z d dBG |"F" c3"Em/G" B3 |"Am7" G3"Fmaj7" E3 | %15
+w: _ I've got- ta be|me|I've got- ta be|me.|* What else can I|be, but|what I|
+"Dm" D6- ||"G7" D z2 CDE |"C" E6- | E2 C CDE |"Dm" D6- |"G7" D3 DDE |"Dm7" FFF F2 F- | %22
+w: am.|* I want to|live,|_ not mere- ly sur-|vive|_ And won't give|up this dream of life|
+"G7" F2 G AGA |"C" E6- | E2 C CEG |"F" c6 |"Em7" z2 d dBG |"F" c6- | c"Em7" z d dBG | %29
+w: * that keeps me a-|live.|_ I've got- ta be|me|I've got- ta be|me.|* The dream that I|
+"F" c3"Em" B2 c |"Dm" d3 B"C" B2- | B z c cBG |"Bm7" E6- |"E7" E z c cBG |"Am" E6- | E z c cBG | %36
+w: see makes me|what I am.|_ That far a- way|prize,|_ a world of suc-|cess|_ it's wait- ing for|
+"Dm" E3- EDE |"G7" F3- F2 G |"C" G6- | G2 C CEG |"Fmaj7" A6- |"F6" A z D DFA |"Em7" B6- | %43
+w: me _ if I|heed _ the|call.|_ I won't set- tle|down,|_ won't set- tle for|less|
+ B"Am7" z E EGB |"Dm" c2 c c2 c | e3 edc |"G7" d6- | d z C CDE |"C" E6- | E z C CDE |"Dm" D6- | %51
+w: _ as long as there's|half a chance that|I can have it|all.|_ I'll go it a-|lone,|_ that's how it must|be|
+"G7" D z2 DDE |"Dm7" F2 F FFF |"G7" FFF AGA |"C" E6- | E z C CEG |"F" c6- | c"Em7" z d dBG | %58
+w: _ I can't be|right for some- bod- y|else if I'm not right for|me.|_ I've got- ta be|free,|_ I've got- ta be|
+"F" c6- |"Em7" c3 dBG |"F" c2 c"Em7" dBG |"F" c2 c"G7" fdB |"C" c6- | c6 |] %64
+w: free.~|_ ~Dar- ing to|try to do it or|die! I've got- ta be|me!|_|
+

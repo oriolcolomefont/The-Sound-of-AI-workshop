@@ -1,0 +1,38 @@
+X:1
+T:A Woman Is A Sometime Thing
+T:A Woman Is A Somtime Thing
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm" ^c>dc>d"D7" =f>=e _e2 |"Gm" d>B G6 |"Eb" B>GB>c"Eb7" _d2 c2 |"Bb" B8 |"D" ADDc-"Eb7/A" c B3 | %5
+w: Lis- ten to yo' dad- * dy|warn _ you,|'Fore you start a trav- el-|in'|Wo- man may born _ you,|
+"D" ADDc-"Eb7/A" c B3 |"D" A d3- d4- | d4- d z z3/2 ^c/ |"Gm" d>^cB>G (d>c)"Eb" B2 | %9
+w: love you and mourn _ you,|But _ _|_ _ a|wo- man is a some- * time|
+"Gm" (G"B+" A3)"Cm7" z"Eb7" B2 A |"Gm" B>A"Eb7"G>E"C" D2"Dm7" F2 |"Gm" G8- |"Eb""F" G4"Gm" z2 z G | %13
+w: thing _ Yes, a|wo- man is a some- time|thing.|_ Yo'|
+"C" c>Gc>G c3 d | (3(=e/d/)c/- c3 z2 G>G | c>Gc>=e (d>c) A2 | c A3- A2"Gm" G>G | %17
+w: Mam- my is the first to|name _ you, _ An' she'll|tie you to her ap- * ron|string. _ _ Then she'll|
+"Cm6" c>GG>G c>GG>G |"Bbm6" ^c>GG>G c"Eb7" G3 |"D" d8- | d4- d z z (d/^c/) | %21
+w: shame you and she'll blame you till yo'|wo- man comes to claim you|'Cause|_ _ a _|
+"Gm" d>^cB>G (d>c)"Eb" B2 |"Gm" (G"B+" A3)"Cm7" z"Eb7" B2 A |"Gm" B>A"Eb7"G>E"C" D2"Dm7" F2 | %24
+w: wo- man is a some- * time|thing, _ Yes a|wo- man is a some- time|
+"Gm" G8- | G2 z2 d2 d2 |"Gm" c>dc>d"D7" =f>=e _e2 |"Gm" d>B G4 z G |"Eb" B>GB>c"Eb7" _d2 c2 | %29
+w: thing.|_ Don't you|nev- er let a wo * man|grieve _ you Jus'|'cause she got yo' wed- din'|
+"Bb" B6 z B |"D" ADDc"Eb7/A" c B2 B/B/ |"D" ADDc"Eb7/A" c B3 |"D" A d3- d4- | d4- d z z d/^c/ | %34
+w: ring. She'll|love you an' de- ceive you then she'll|take yo' clo'es an' leave you.|'Cause _ _|_ _ a _|
+"Gm" d>^cB>G d>c"Eb" B2 |"Gm" (G"B+" A2) B-"Cm7""Eb7" B3 A |"Gm" BG z2"Eb7" (BG) z G | %37
+w: wo- man is a some- * time|thing _ Yes _ a|wo- man is _ a|
+"C7" (BG) z2"Gm" (BG) z2 |"A7" (BG) z2 BG"E7" z2 |"Gm" BG z2 BG"Db" z2 |"C7" (BG) z2 (BG)"D7" z2 | %41
+w: some- * time _|thing, _ Yes a|wo- man is a|some- * time _|
+"A7" (BG) z2 BG"E7" z2 |"Gm" BG z2 BG"Db" z2 |"C7" (BG) z2 (BG)"D7" z2 |"Gm""Ebmaj7" G8- | %45
+w: thing, _ Yes a|wo- man is a|some- * time *|thing.|
+"Gm""Ebmaj7" G8 |"F" (f"Gm" d3-) d4 |] %47
+w: _|Ah! _ _|
+

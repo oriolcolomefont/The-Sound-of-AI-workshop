@@ -1,0 +1,25 @@
+X:1
+T:The Gypsy
+T:The Gypsy
+T:unknown
+C:DK
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2 z2 z2 GA |"C" BcAB- B2 A_A |"G" G=AG"A" F2"A7" z E2 |"D" A,2 D6- | D4 z z DE | %5
+w: In a|quaint car- a- van * there's a|la- dy they call the|Gyp- sy|* She can|
+"Dm" FGF"G7"E- EDE z |"Dm" FGF"G" E2 z D2 |"C" G8- |"G7" G4"G" G z A z |"C" BcAB- BA_A z | %10
+w: look in the fu- * ture, and|drive a- way all your|fears|* Ev- 'ry|thing will come right * if you|
+"G" G=AG z"A7" F z E z |"D7" A, z D6- | D4 D2 E2 |"Dm" F2 GF"G7" E-EDE |"Dm7" FEF z A2"G7" B,2 | %15
+w: on- ly be- believe the|Gyp- sy|* She could|tell at a glan ce that my|heart was so full of|
+"C" C8- | C4 z2 E2 | EF^C z D2 A2 | A2 G4 E2 | EF^C z D2 B2 | G6 G2 | GA^F z G2 c2 | c2 B2- BBc^c | %23
+w: tears.|* She|looked at my hand and|told me my|lo- ver was al- ways|true, and|yet in my heart I|knew dear, * some- bo dy|
+"Dm" d4- dcAF | D4-"G7" D2 GA |"C" BcAB- B2 A_A |"Gm" G=AG"A7" F2 E2 z |"D7" A,2 D6- | D4 D2 E2 | %29
+w: else * was kiss- ing|you * But I'll|go there a- gain * 'cause I|want to be- lieve the|Gyp- sy|* That my|
+ FGF"G7"E- E2 DE |"Dm7" FEF z A2"G7" B2 |"C" c8- |1 c4 G2 A2 ||2"C" c8- || c4 z4 | c' z z2 z4 |] %36
+w: lo- ver is true * and will|come back to me some|day.|* In a|day|||
+

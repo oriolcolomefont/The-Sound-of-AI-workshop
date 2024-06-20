@@ -1,0 +1,47 @@
+X:1
+T:Goodbye Cruel World
+T:Goodbye Cruel World
+T:Gloria Shayne Baker
+T:Gloria Shayne Baker
+T:All Rights Reserved
+C:Gloria Shayne Baker
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z G,A,B, |"C" cB A/B/A/G/ AG^FG |"Dm7" A2 A"G7" B2 G,A,B, |"C" cB A/B/A/G/ AG^FG | %4
+w: |* * * * * * * * * Good-|bye cruel world. * * *|* * * * * * * * * Good-|
+"Dm7" A2 A"G7"B- B3 B |"C" c2 cG"Am" A3 G |"F" F>GFE"G7" D G3 |"C" z2 cB"Am" A3 G | %8
+w: bye cruel world. * Good-|bye cruel * world, I'm|off to join the cir- cus.|gon- na be a|
+"F" F>FAc"G7" d4 |"C" c2 c2"C7" c2 c>c |"F" dccA c2 dc |"C" e2 ee"Am" d c3 |"E" z2 G>G"G7" GGBd | %13
+w: bro- ken heart- ed clown.|Paint my face with a|good- for noth- in' smile 'cause a|mean, fic- kle wo- man|turned my whole world up- side|
+"C" cB A/B/A/G/ AG^FG |"Dm7" A2 A"G7"B- B3 B |"C" c2 (cG)"Am" A3 G |"F" F>GFE"G7" D G3 | %17
+w: down. * * * * * * * * Good-|bye cruel world. * Fare-|well to * love, I'm|off to join the cir cus.|
+"C" z2 cB"Am" A3 G |"F" F>FAc"G7" d4 |"C" c2 c2"C7" c2 c2 |"F" d>ccA ccdc |"C" e2 e2"Am" d c3 | %22
+w: got- ta find a|way to hide my tears.|Bet I'll have them|rol- lin' in the aisles and I'll for-|get that wo- man|
+"F" z2 G>G"G7" GGBd |"C" cB A/B/A/G/ AG^FG |"Dm7" A2"G7" B"C" c2 ccc |"E7" B2 B B2 BBB | %26
+w: if it takes a hun- dred|years. * * * * * * * * Good-|bye cruel world. oh wo wo|Step right up and take a|
+"Am" cAAA- A4 |"E7" B2 BB B3 B |"Am" c>dcB A3 d |"D7" d2 c>d B A2 G |"G7" BBc d4 d | %31
+w: look at a fool. *|He's got a heart as|stu- born as a mule. Come|on ev- 'ry bo- dy, he's|good for a laugh, And|
+"D7" d2 dd eded |"G7" (ed)ed eeee |"C" c c3"Am" A3 G |"F" F>GFE"G7" D G3 |"C" z ccG"Am" A2 G2 | %36
+w: no- one can tell his heart is|bro- * ken in half, ah well, the|joke's on me, I'm|off to join the cir- cus.|Oh, Mis- ter Bar- num,|
+"F" F>FAc"G7" d4 |"C" c2 c2"C7" c2 c>c |"F" dccA c4 |"C" c2 c2"C7" c2 c2 |"F" dccA ccdc | %41
+w: save a place for me.|Shoot me out of a|can- non I don't care;|Let the peo- ple|point at me and stare; I'll tell the|
+"C" e2 e2"Am" d c2 c |"E7" eded"Am" c3 c |"E7" e2 ee"Am" dcdc |"Dm7" f2 e2"G7" cGAB | %45
+w: world that wo- man, where-|ev- er she may be; That|mean fic- kle wo- man made a|cry- in' clown * out of|
+"C" cB A/B/A/G/ AG^FG |"Dm7" A2 B"G7" c2 G,A,B |"C" c2 cG"Am" A3 G |"F" F>GFE"G7" D G3 | %49
+w: me. * * * * * * * * Good-|bye cruel world. (Interlude- * Caliope)|||
+"C" cccG"Am" A2 G2 |"F" F>FAc"G7" d4 |"C" c2 c2"C7" c2 c>c |"F" dccA c4 |"C" c2 c2"C7" c2 c2 | %54
+w: ||Shoot me out of a|can- non I don't care;|Let the peo- ple|
+"F" dccA ccdc |"C" e2 e2"Am" d c2 c |"E7" eded"Am" c3 c |"E7" e2 ee"Am" dcdc | %58
+w: point at me and stare; I'll tell the|world that wo- man, where-|ev- er she may be; That|mean fic- kle wo- man made a|
+"Dm7" f2 e2"G7" cGAB |"C" cB A/B/A/G/ AG^FG |"Dm7" A2 A"G7" B2 G,A,B |"C" cB A/B/A/G/ AG^FG | %62
+w: cry- in' clown * out of|me. * * * * * * * * Good-|bye cruel world. * * *|* * * * * * * * * Good-|
+"Dm7" A2 A"G7" B2 G,A,B |"C" cB A/B/A/G/ AG^FG |"Dm7" A2 A"G7" B2 G,A,B |] %65
+w: bye cruel world. * * *|* * * * * * * * * Good-|bye cruel world. (fade out) *|
+

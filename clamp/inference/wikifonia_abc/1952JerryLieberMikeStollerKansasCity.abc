@@ -1,0 +1,46 @@
+X:1
+T:Kansas City
+T:Kansas City
+T:Jerry Lieber & Mike Stoller, 1952
+C:1952, Jerry Lieber & Mike Stoller
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Medium Blues" z4"C7" z3/2 C/ (3EGA |"C" z3/2 c/- c>A G A3 | z3/2 c2 A/ c>A A>G | A8- | %4
+w: I'm go in to|Kan _ sas ci ty|Kan sas ci ty here I|come|
+ A2 z2 z3/2 C/ (3EGA |"F7" z3/2 c/- c>A G A3 | z3/2 c2 A/ c>A A>G |"C" A8- | A2 z2 z3/2 G/ G>G | %9
+w: _ I' go in toa|Kan _ sas ci ty|Kan sas ci ty here I|come|_ They got a|
+"G7" B>B d>d B>B G>G |"F7" A2 c>c z3/2 A/ G>C- |"C" C8- | C2 z2 z3/2 C/ (3EGA | c>c c>A G>A- A2 | %14
+w: cra zy way of lov in there and|I'm gon na get me some|_|* I'm gon na be|stand in' on the cor ner _|
+ z4 c>A G>A- | A8 | z2 z2 z3/2 C/ (3EGA |"F7" c>c c>A G>A- A2 | z4 c>A G>A- |"C" A8 | %20
+w: Twelvth street and vine|_|I'm gon na be|stand in' on the cor ner _|Twelvth street and vine|_|
+ z2 z2 z2 G>G |"G7" B>B d>d B>B G>G |"F7" (3AAA c>c z3/2 A/ G>C- |"C" C8- | C2 z2 z3/2 c/- c>A | %25
+w: with my|kan sas ci ty ba by and a|bot tle of kan sas ci ty wine|_|* Well, _ I|
+ c>c A>c- c2- c>A | c>c A>c- c2- c>A | c>c c>c c2- c>A | c>c A3/2 c2 C/ (3:2:2EGA | %29
+w: might take a train _ _ I|might take a plane _ _ but|if I have to walk _ I'm|_ _ _ _ Im go in to|
+"F7" z3/2 c/- c>A G A3 | z3/2 c2 A/ c>A A>G |"C" A8- | A2 z2 z3/2 G/ G>G |"G7" B>B d>d B>B G>G | %34
+w: Kan _ sas ci ty|Kan sas ci ty here I|come|_ They got a|cra zy way of lov in there and|
+"F7" A2 c>c z3/2 A/ G>C- |"C" C8- | C2 z2 z3/2 C/ (3EGA |"C" z3/2 c/- c>A G A3 | %38
+w: I'm gon na get me some|_|* I'm go in' to|Kan _ sas ci ty|
+ z3/2 c2 A/ c>A A>G | A8- | A2 z2 z3/2 C/ (3EGA |"F7" z3/2 c/- c>A G A3 | z3/2 c2 A/ c>A A>G | %43
+w: Kan sas ci ty here I|come|_ I' go in toa|Kan _ sas ci ty|Kan sas ci ty here I|
+"C" A8- | A2 z2 z3/2 G/ G>G |"G7" B>B d>d B>B G>G |"F7" A2 c>c z3/2 A/ G>C- |"C" C8- | %48
+w: come|_ They got a|cra zy way of lov in there and|I'm gon na get me some|_|
+ C2 z2 z3/2 C/ (3EGA | c>c c>A G>A- A2 | z4 c>A G>A- | A8 | z2 z2 z3/2 C/ (3EGA | %53
+w: * I'm gon na be|stand in' on the cor ner _|Twelvth street and vine|_|I'm gon na be|
+"F7" c>c c>A G>A- A2 | z4 c>A G>A- |"C" A8 | z2 z2 z2 G>G |"G7" B>B d>d B>B G>G | %58
+w: stand in' on the cor ner _|Twelvth street and vine|_|with my|kan sas ci ty ba by and a|
+"F7" (3AAA c>c z3/2 A/ G>C- |"C" C8- | C2 z2 z3/2 c/- c>A | c>c A>c- c2- c>A | c>c A>c- c2- c>A | %63
+w: bot tle of kan sas ci ty wine|_|* Well, _ I|might take a train _ _ I|might take a plane _ _ but|
+ c>c c>c c2- c>A | c>c A3/2 c2 C/ (3:2:2EGA |"F7" z3/2 c/- c>A G A3 | z3/2 c2 A/ c>A A>G |"C" A8- | %68
+w: if I have to walk _ I'm|_ _ _ _ Im go in to|Kan _ sas ci ty|Kan sas ci ty here I|come|
+ A2 z2 z3/2 G/ G>G |"G7" B>B d>d B>B G>G |"F7" A2 c>c z3/2 A/ G>C- |"C" C8- | C2 z2 z3/2 G/ G>G | %73
+w: _ They got a|cra zy way of lov in there and|I'm gon na get me some|_|* They got a|
+"G7" B>B d>d B>B G>G |"F7" A2 c>c z3/2 A/ G>c- |"C" c8- | c2 z2 z4 |] %77
+w: cra zy way of lov in there and|I'm gon na get me some|_||
+

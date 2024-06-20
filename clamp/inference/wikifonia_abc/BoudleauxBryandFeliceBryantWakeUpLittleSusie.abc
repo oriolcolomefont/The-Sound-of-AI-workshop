@@ -1,0 +1,31 @@
+X:1
+T:Wake Up, Little Susie
+T:Wake up little Susie
+T:Boudleaux Bryant and Felice Bryant
+C:Boudleaux Bryand, Felice Bryant
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" cc z2 z2 cc | c2 _BG- G4 | Bc z2"Cm" z4 |"Dm" z8 |"C" cc z2 z2 cc | c2 _BG G4 | Bc z2 z4 | %7
+w: Wake up lit tle|Su * sie *|wake up||wake up lit- tle|Su * sie *|wake up|
+"C7" z4 z2 A2 |"F" A2 A2"C7" G-G_BA- |"F" A2 z2 z2 AA | A-AA- A2"C7" GG_B |"F" A2 z2 z2 A2 | %12
+w: Welve|both been sound * a- sleep-|* wake up|* * lit- tle Su- sie and|weep the|
+ A2 A2"C7" GG _B2 |"F" A2 AG-"C7" G2 _B2 |"F" A2 A2"C7" GA _B2 |"C" A2 AA- A2 AA |"G" B3 B- B4 | %17
+w: mov- ies ov- er its|four o'clock * * and|we're in trou * ble|deep Wake up * lit- tle|Su- sie *|
+"F" z2 AA- A2 AA |"G" B3 B- B4 | z2 G6 | (3GGG GG"D7" ^F2 FG- |"G" G3 G- G4 | %22
+w: wake up * lit- tle|Su- sie *|Well|what are we gon- na tell you ma|* ma *|
+ (3GGG GG"D7" ^F2 FG- |"G" G2 z2 z4 | (3GGG GG"D7" ^F2 FG- |"G" G2 D2 E2 G2 | z2 B4 A2 | %27
+w: what are we gon- ga tell your Pa||what are we gon- na tell our friends|* when they say|Ooh la|
+ B2 GA-"G7" A2 BB |"C" c3 c- c4 |"G7" z2 BB- B2 BB ||"C" c3 c- c4- | c2 z2 z2 GG | G2 E2 GG E2 | %33
+w: la wake up * lit- tle|Su- sie *|wake up * lit- tle|Su- sie *|* well we|told your Ma- ma that|
+ G2 G2 A2 c2 | G8 | z2"C7" c6 |"F" c2 cc- cc A2 | c2 c2 d2 c2 | d2 c6- | c2 AA- A2 AA | %40
+w: we'd be in by|ten|well|Su- sie ba * by looks|like we goofed a-|gain *|* wake up * lit tle|
+"G" B3 B- B4 |"F" z2 AA- A2 AA |"G" B3 B- B4 |"G7" z2 EF- FE D2 |"C" C8!D.C.! ||O"C" c3 c- c4- | %46
+w: Su sie *|wake up * lit- tle|Su- sie *|we've got * ta go|home|Su- sie.- *|
+ c8 |] %47
+w: |
+

@@ -1,0 +1,46 @@
+X:1
+T:Old Man Emu
+T:Old Man Emu
+T:John Williamson
+C:John Williamson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E2 EG- GGGG |"F" A A3"C" G4 | E2 FG- G2 C2 |"Dm7" D4"G7" G2 z2 |"C" E2 EE G2 G2 | %5
+w: Let me tell * you of an|in- ter- view|with an old * man|e mu|he's got a beak and|
+w: (1) * * * * * *|||||
+"F" AA A2"C" G2 GG | E2 E2 ED C2 |[M:2/4]"G7" D2 B,2 |[M:4/4]"C" C6 z2 | z8 |"C" c2 cc ccGG | %11
+w: feath- ers and things but the|poor old fel- la aint|got no|wings||Arent you jeal * ous of the|
+w: ||||||
+"F" A2 c2"C" c2 G2 | E2 EF GE C2 |"D7" D4"G7" G2 ^^A^^A | B2 G2 c2 G2 | A2 A2 G2 G2 | E4 EF z G |: %17
+w: wedge- tailed ea- gle|Oom ba da lit- tle da|da da while the|eag- les fly- ing|round and a- round-|Oom Ba da da|
+w: ||||||
+"^Chorus:C" E4 c3 c |"F" f a3"C" g2 z2 | e2 ef g2 c2 |"D7" d4"G7" g4 |"C" c c3 c2 GG | %22
+w: Doo dee ba|doo doo doo|boo da da doot doo|doo doo|he cant fly but I'm|
+w: |||||
+"F" A A3"C" G2 CC | E2 EG G2 CC |[M:2/4]"G7" D2 B,2 x4 |[M:4/4]"C" C4 z4 |"F" z8 |"C" z8 | %28
+w: tel- ling you he can|run the pants * off a|Kang- ar-|oo|||
+w: ||||||
+"G7" z4"C" z2 GG || E2 EG GGGG |"F" A2 A2"C" G4 | E2 EF GE C2 |"D7" D4"G7" G2 GG |"C" E2 E2 G G3 | %34
+w: well he|was the mod * el for the|fif- ty cents|Oom ba da lit- tle da|da da the de-|sign- er should have|
+w: (2) *||||||
+"F" A2 A2"C" G4 | E2 EF GE C2 |"G7" D4"C" C2 BB | e2 e2 e2 BB | ^c2 ^c2 B2 _A_A | _A2 _A2 B4 | %40
+w: had more sense|OOm ba da lit- tle da|da da if you|take a look it will|prove to you I can|run the pants|
+w: ||||||
+ _A_A ^F2 ^D2 E2 | A2 A2 A2 z2 | z8 :|"C" E2 E2 G3 G |"F" A A3 G4 |"C" E2 EE E2 C2 | %46
+w: off a kan- gar- roo|ha ha ha||he shot past I|heard him say|nor can the ea- gle|
+w: ||||||
+"G7" D2 B,2"C" C2 c2 | c2 c2 c2 GG |"F" A A3"C" G2 GG | G2 G2 G2 DC |"G7" D4 B,4 |"C" C6 z2 | z8 | %53
+w: on the wing E-|mu cant fly but I'm|tell- ing you he can|run the pants off a|kan- gar-|oo||
+w: |||||||
+ z8 | z8 | z4 z2 CC ||"C" CCCC C2 CC |"F" C C3 C4 | C2 CC CC C2 |"G7" B,4"C" C2 z2 | c3 G A G3 | %61
+w: ||well the|kook- a- bur- ra laughed and he|said its true|Oom ba da lit- tle- da|da da|Ha ha ha ha|
+w: ||||||||
+"F" A4"C" G2 GG | G2 GG- G2 GG |"G7" D2 B,2"C" C4 | z8 |] %65
+w: hah hoo he can|run the pants * off a|kan ga- roo||
+w: ||||
+

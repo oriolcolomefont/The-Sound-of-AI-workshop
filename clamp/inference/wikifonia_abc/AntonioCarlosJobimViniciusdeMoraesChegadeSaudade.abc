@@ -1,0 +1,51 @@
+X:1
+T:Chega de Saudade
+T:Chega de Saudade
+T:Antonio Carlos Jobim & Vinicius de Moraes
+T:1
+T:2
+T:Chega de Saudade
+T:3
+T:Chega de Saudade
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ A4- AG cB | AG FE ^D E2 G- | G4 z F BA | GF ED ^C D2 D- | D2 =B,D F2 DF | G_E B,D ^C z CD- | %6
+w: ||||||
+ D4 z4 | z4 z3 F- |: F3 A,- A,4 | D4- D F2 E- | E3 =B,- B,4 | D4- D E2 F- | F3 A,- A,4 | %13
+w: |Vai|* mi- *|nha * tris- te-|* za\_E- *|diz a * e|* la *|
+ ^C4- C F2 E- | E D2 F- FE D2 | A,4 z3 F- | F3 A,- A,4 | =B,4- B, D2 C- | C3 E- E4 | %19
+w: que * sem e-|* la não * po- de|ser Diz-|* lhe *|nu- * ma pre-|* ce *|
+ z2 ED- D C2 C- | C3 =B,- B,4 | z2 FE- E D2 D- | D2 ^CE- E C2 B,- | B,4- B,3 F- | F3 A,- A,4 | %25
+w: Que\_e- la * re- gres-|* se *|Por- que eu não pos-|* so mais * so- frer|* * Che-|* ga *|
+ D4- D F2 E- | E3 =B,- B,4 | D4- D E2 F- | F3 B,- B,4 | ^C4- C F2 E- | E D2 ^C2 D2 _E- | %31
+w: de * sau- da-|* de\_A *|rea- * li- da-|* de\_é *|que * sem e-|* la Não há paz|
+ E2 C^F- F A2 G- | G3 B- B4 | ^C4- C A2 G- | G F2 A2 F2 D | E C2 A,2 E2 F- | F D2 =B,2 E2 F- | %37
+w: * não há * be- le-|* za\_É *|só * tris- te-|* za\_e\_a me- lan- co-|li- a que não sai|* de mim não sai|
+ F ^C2 B,2 F2 D- | D8 | A G2 ^F- F E2 F- ||[K:D] F8- | F2 AG- G ^D2 F- | F2 E^D- D E2 B- | %43
+w: * de mim Não sai||* * * * * Mas||* se\_e- la * vol- tar|* se\_e- la * vol- tar|
+ B2 GE- E B,2 D- | D3 C- C4 | z2 EC- C A,2 B,- | B,8 | B,4 z C2 E- | E2 DC- C D2 =F- | %49
+w: * Que coi- * sa lin-|* da *|Que coi- * sa- lou-||ca Pois há|* me- nos * pei- xi-|
+ F ^G2 c2 B2 A- | A G2 B,- B,4 | z2 B,C- C D2 F- | F E2 D B,2 ^G,2- | G,2 B,C- C E2 D- | D8 | %55
+w: * nhos a na- dar|* no mar *|Do que\_os * bei- ji-|* nhos que\_eu da- rei|* na su- * a bo-||
+ C4- C3 F- | F3 A,- A,4 | B,4- B, F2 E- | E3 B,- B,4 | D4- D E2 F- | F3 ^A,- A,4 | C4- C F2 E- | %62
+w: ca * Den-|* tro *|dos * meus bra-|* ços *|os * a- bra-|* ços *|Hão * de ser|
+ E D2 C2 D2 E- | E D2 F2 B2 A- | A F2 D2 B,2 A- | A =F2 D2 _B,2 A- | A E2 C- C2 A,2 | %67
+w: * mi- lhões de\_a bra-|* ços A- per- ta-|* do\_as- sim, co- la-|* do\_as- sim ca- la-|* do\_as- sim * A-|
+ ^G2 B=G- G B2 F- | F2 DB,- B, D2 F- | F2 DB,- B, D2 F- | F4 z F GA | B2 AG- G F2 D- | %72
+w: bra- ços e * bei- ji-|* nhos e * ca- ri-|* nhos sem * ter fim|* Que\_é pra\_a- ca-|bar com\_es- se * ne- gó-|
+ D B,2 D F2 D2- | D2 B,D- D F2 D- |1 D8 | z4 z3 =F- :|2 D F2 G- G A2 B- || B2 AG- G F2 D- | %78
+w: * cio De vo- cê|* vi- ver * sem mim||Vai|* Não que- * ro mais|* es- se * ne- gó-|
+ D B,2 D F2 D2- | D2 B,D- D F2 D- | D F2 G- G A2 B- | B2 AG- G F2 D- | D B,2 D F2 D2- | %83
+w: * cio De vo- cê|* lon- ge * de mim|* Va- mos * dei- xar|* des- se * ne- gó-|* cio De vo- cê|
+ D2 B,D- D F2 D- | D8 | z8 |] %86
+w: * vi- ver * sem mim|||
+

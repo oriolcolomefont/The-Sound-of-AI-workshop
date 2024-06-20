@@ -1,0 +1,36 @@
+X:1
+T:Hold My Hand
+T:Hold My Hand
+T:from the movie "Susan Slept Here"
+T:Jack Lawrence & Richard Myers
+C:Jack Lawrence & Richard Myers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z"Db7" ^c ||"Gm7" d D/>^D/"C7" E/>G/ c |"Gm7" A"C7b9" A2"C7#5b9" ^G | %3
+w: So|this is the king- dom of|heav- en, so|
+"Fmaj7" A C/>^C/"F6" D/>E/ G |"G9""Dm9" E3"G9" z |"Gm7" D E/>F/"C7" G/>A/ B | %6
+w: this is the sweet prom- ised|land.|While an- gels tell of love|
+"Cm6" c d/>_e/"D7" d/>c/"D+" B |"G9" z A2"G7" G |"Gm7""F#dim""C7" c3"Db7" ^c | %9
+w: don't break the spell of love,|Hold My|hand. So|
+"Gm7" d D/>^D/"C7" E/>G/ c |"Gm7" A"C7b9" A2"C7#5b9" ^G |"Fmaj7" A C/>^C/"F6" D/>E/ G | %12
+w: this is the gar- den of|E- den, in|dreams it was nev- er so|
+"G9""Dm9" E3"G9" z |"Gm7" D E/>F/"C7" G/>A/ B |"Cm6" c d/>_e/"D7" d/>c/"D+" B | %15
+w: grand.|Let's nev- er leave a- gain,|Ad- am and Eve a- gain,|
+"G9" z"Gm7" A2"C7b9" A |"F" F4 |"A" E ^F2 z/ ^C/ |"Bm7" D E"E7" ^G =B |"A" A E2 z/ ^C/ | %20
+w: Hold My|Hand.|This is the|se- cret of what|bliss is, For|
+"Bm7" D E"E7" ^G =B |"C" c G2 z/ E/ |"Dm7" F G"G7" =B d |"Gm7""C7" c4- |"Gm7""C7" c3"Db7" ^c | %25
+w: bliss is what your|kiss is. At|last I un- der-|stand!|* So|
+"Gm7" d D/>^D/"C7" E/>G/ c |"Gm7" A"C7b9" A2"C7#5b9" ^G |"Fmaj7" A C/>^C/"F6" D/>E/ G | %28
+w: this is the king- dom of|heav- en and|here on the thresh- old we|
+"G9""Dm9" E3"G9" z |"Gm7" D E/>F/"C7" G/>A/ B |"Cm6" c d/>_e/"D7" d/>c/"D+" B | %31
+w: stand,|Pass through the por- tal now,|we'll be im- mor- tal now.|
+"G9" z"Gm7" A2"C7b9" A |"F" F4 |] %33
+w: HOLD MY|HAND.|
+

@@ -1,0 +1,42 @@
+X:1
+T:'Tis Irish I Am
+T:'Tis Irish I am
+T:Traditional tune:  Top o' Cork Road
+T:Max T. Krone
+T:[possible c. to M T Krone for lyric?  via Follet Publishing Co., USA 1956]
+C:Traditional tune:  Top o' Cork Road
+Z:All Rights Reserved
+%%score 1 ( 2 3 )
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:2 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:3 treble 
+%%MIDI channel 2
+%%MIDI program 52
+L:1/4
+V:1
+"^With a good swing" F |"Bb" BFD B,DF |"Bb" BcB AGF |"Gm" B2 B cde |"Bb" dB"F"d"F" (c A) F | %5
+w: 'Tis|I- rish I am and 'tis|proud I am of it, Though|far I wan- der, Kil-|lar- ney's my home, * I|
+"Bb" BFD B,DF |"Bb" Bc"F"B"F" (A G) F | B2 B cde | dBB (BB) z ||"^REFRAIN" F | %10
+w: love her green mead- ows, her|lakes and her col- leens, And|wear her sham- rock wher-|ev- er I roam. *|Then|
+"Bb" d2"Bb" d"Bb" def |"F" cc"F"c"F" f3 |"Gm" BB"C7"B"C7" c2 B |"F" AF"F"F"F" F2 F |"Eb" GGG GAB | %15
+w: sing we might- i- ly,|"Er- in go braugh,"|Pat- ricks and Bridg- ets,|I- rish- men all; Though|rock- y the road as it|
+"Bb" FDB, B,DF |"Bb" BB"F"B"F" cde |"Bb" d"Gm"B"Gm""Bb"B"Bb" B2 |] %18
+w: leads up to town- * It|nev- er can keep a good|I- rish- man down!|
+V:2
+ z |"Bb" z6 |"Bb" z6 |"Gm" z6 |"Bb""F" z6 |"Bb" z6 |"Bb""F" z6 | z6 | z6 || %9
+w: |||||||||
+"^voice 3 = drum, bells, etc" F |"Bb""Bb" B3"Bb" F3"Bb""Bb" |"F" AA"F"G"F" F3"F" | %12
+w: Then|sing, *|"Er- in go braugh,"|
+"Gm" G2"C7" A"C7" E2 C"Gm" |"F" FF"F"F"F" F3"F" |"Eb" E2 E E2 E"Eb" |"Bb" D2 D D2 F"Bb" | %16
+w: Pat- ricks, Bridg- ets,|I- rish- men all;|Rock- y road that|leads to town, It|
+"Bb" FE"F"D"F" EDC"Bb" |"Bb" B,"Gm"D"Gm""Bb"F"Bb" B2"Bb""Gm" |] %18
+w: nev- er can keep a good|I- rish- man down!|
+V:3
+ x/ | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 || x/ | B3/2"Bb" x/ x | A"F" x2 | G"C7" x/"C7" E x/ | %13
+ F"F" x2 | E x2 | D x2 | F"F" x/"F" E x/ | D"Gm""Bb" E/"Bb" D |] %18
+

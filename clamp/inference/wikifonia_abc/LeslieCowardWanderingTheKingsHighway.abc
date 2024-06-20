@@ -1,0 +1,57 @@
+X:1
+T:Wandering The King's Highway
+T:Wandering The King's Highway
+T:Leslie Coward
+C:Leslie Coward
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" g e/>g/"Fm" _a f |"C" g g3 |"Eb" _b g/>e/"Fm6" f d |"G7" g"Fm/Ab" F"G+" _E"G7" D |: %4
+w: ||||
+w: ||||
+"C" G E/G/"Fm" _A F |"C" G"G7" G3 |"C" G E/G/"Fm" _A F |"C" G4 |"Dm" D/>D/D/>D/"G7" F E |"C" C C3 | %10
+w: I've al- ways been a|ro- ver.|Sum- mer and win- ter|too;|Wan- der- ing the wide world|ov- er,|
+w: Part- ing is filled with|sor- row,|But, as I roam the|land,|I shall meet a- gain to|mor- row|
+"Dm" D/ D D/"G7" F E |"C" C c/>c/"F" A"G7" G |"C" G E/G/"Fm" _A F |"C" G G2 G/G/ | %14
+w: Tramp- ing my whole life|through. * * * *|But when I start my|jour- ney, At the|
+w: Friends who will clasp my|hand. * * * *|So with the dawn to|greet me, As the|
+"Fm" _A A/A/"Bb7" _B/ A3/2 |"Eb" G _B, C ^C |"G" D E/E/"Em" G A |"G" B"G#dim" B3 | %18
+w: dawn of an- oth- er|day, * * *|I give a health to|com- rades,|
+w: dark- ness is turn'd to|day, * * *|I and my friend- ly|mem- 'ries,|
+"Am" c B/>c/"D7" B D |"G7" G D/>D/ E F ||"C""^Refrain" G/ G E/"Am" C2 | %21
+w: Pals of the Great High-|way. * * * *|So long to you!|
+w: Start out up- on our|way * * * *||
+"Dm" (3F/F/F/ F/>E/"G7" D/>E/ F |"C" G/ G E/"Am" C2 |"Dm" (3F/F/F/ F/>E/"G7" D/>E/ F | %24
+w: Got to be on the road a- gain;|So long to you!|Got to hitch up my load a- gain;|
+w: |||
+"C" G G c"C+" c |"F" d/ c3/2"Dm" A2 |"C" G c"G7" F/>F/B/>B/ |"C" E A"Dm""G7" D2 | %28
+w: It's been great to|meet you here,|Right good com- pan- y and|right good cheer;|
+w: ||||
+"C" G/ G E/"Am" C2 |"Dm" (3F/F/F/ F/>E/"G7" D/>E/F/>^F/ |"C" G G c B |"C7" _B3 G |"F" A c"Fm" F2 | %33
+w: Now then, my lads!|An- y- one like to come with me? A|wand- 'rer's life is|free. As|I can say,|
+w: |||||
+"C" G c"A7" E2 |"Dm7" A/>A/G/>G/"G7" F B, |"C" C G A G |"Fm7" _A3"Bb7" F |"Eb" G D C _B, | %38
+w: Night and day,|No- thing ev- er wor- ries|me. * * *|Nights are|cold; * * *|
+w: |||||
+"Fm7" _A/>A/A/>A/"Bb7" A F |"Eb" G _B, C ^C |"G7" F3 D |"C" E3"Eb7" _E/>E/ |"G" D D"D7" D E/>^F/ | %43
+w: May- be I am grow- ing|old. * * *|Yet I|strive And the|pals I meet make it|
+w: |||||
+"Dm7" A/>A/A/>_A/"G7" G2 |"C" G/ G E/"Am" C2 |"Dm7" (3F/F/F/ F/>E/"G7" D/>E/F/>^F/ |"C" G G c B | %47
+w: good to be a- live.|Com- rades, fare- well|What if we nev- er meet a- gain? The|mem- o- ry will|
+w: ||||
+"C7" _B E F G |"F" A c"Fm" F2 |"C" G c"Am" E2 |1"Dm" A/>A/"C#dim"G/>G/"Dm" F"G7" B, || %51
+w: stay * * *|As I go,|Rain or snow,|Wan- der- ing the King's High-|
+w: ||||
+"C" C2- C z :|2"Dm" A/>A/"C#dim"G/>G/"Dm7" F"G7" B, ||"C" C4 | %54
+w: way. *|Wan- der- ing the King's High-||
+w: |||
+"C" G/>G/G/>G/"Cdim" A"G7" !fermata!d |"C" c2- c/ z/ z |] %56
+w: Wan- der ing the King's High-|way.- *|
+w: ||
+

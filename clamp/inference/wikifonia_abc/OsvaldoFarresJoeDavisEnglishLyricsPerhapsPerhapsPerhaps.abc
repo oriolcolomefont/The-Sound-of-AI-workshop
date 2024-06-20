@@ -1,0 +1,30 @@
+X:1
+T:Perhaps, Perhaps, Perhaps
+T:Perhaps, Perhaps, Perhaps
+C:Osvaldo Farres
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"B7" z2 z"^N.C." B, ^C^DEF |"Em" G3 E- E2 E2 |"Am" A4"B7" (3F2 A2 F2 |"Em" G3 E- E2 E2 | %4
+w: You wont ad- mit you|love me, _ and|so how am I|ev- er _ to|
+"Am" A4"B7" (3F2 A2 F2 |"Em" B3 G- G2"B7" B,2 |"Em" G2 z E"B7" F2 z ^D |"Em""Am6" E8- | %8
+w: know? You al- ways|tell me _ per-|haps, per- haps, per|haps;|
+"Em" E2 z"^N.C." B, ^C^DEF |"Em" G3 E- E2 E2 |"Am" A4"B7" (3F2 A2 F2 |"Em" G3 E- E2 E2 | %12
+w: _ a mil- lion times I've|asked you, _ and|then I ask you|o- ver _ a-|
+"Am" A4"B7" (3F2 A2 F2 |"Em" B3 G- G2 B,2 | G2 z E"B7" F2 z ^D |"Em""Am6" E8- | %16
+w: gain, You on- ly|ans- wer _ per-|haps, per- haps, per-|haps.|
+"Em" E2 z B"F#m7" eeee |"B7" ^d3 A- A2"F#m7" e2 |"B7" ^d3 A- A2 d2 |"E" ^c3 ^G- G4- | %20
+w: _ If you can't make your|mind up, _ we'll|nev- er _ get|start- ed. _|
+"Em" G3 B"F#m7" eeee |"B7" ^d3 A- A"F#m7" e2 e |"B7" ^d3 A- A d2 d |"E" ^c3 ^G- G4- | %24
+w: _ And I don't wan- na|wind up _ be- ing|part- ed, _ brok- en|heart- ed; _|
+ G2 z"^N.C." B, ^C^DEF |"Em" G3 E- E2 E2 |"Am" A4"B7" (3F2 A2 F2 |"Em" G3 E- E2 E2 | %28
+w: _ so, if you real- ly|love me, _ say|"yes," but if you|don't, dear, _ con-|
+"Am" A4"B7" (3F2 A2 F2 |"Em" B3 G- G2"B7" B,2 |"Em" G2 z E"B7" F2 z ^D |"Em" E6"F#m7b5" z2 :|1 %32
+w: fess, and please don't|tell me _ per-|haps, per- haps, per-|haps.|
+"Em""Am6" E8- ||2"Em" E6 z2 |] %34
+w: haps.|_|
+

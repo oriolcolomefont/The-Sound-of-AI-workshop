@@ -1,0 +1,32 @@
+X:1
+T:It's You Or No One
+T:It's You Or No One
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z/ D/F/G/"Fm7" A"Gm7" B/B/ |"Fm" A B/A/"Bb7b9" G F |"Eb""Gbm6" E4- |"Fm7" E2"Bb7" z2 | %4
+w: How did I know that the|warmth of the glow would|last?|_|
+"Eb" z/ B,/F/G/"Fm7" A"Gm7" B/B/ |"Fm7" A B/A/"Bb7b9" G3/2 F/ |"Bbm7" B4- |"Eb7b9" B2 z2 | %8
+w: How did I guess that the|long lon- li- ness was|past?|_|
+"Abmaj7" c B/A/"G+7" G F |"Cm7""A9#11" E3 F/G/ |"Abmaj7""G7b9" E3 F/G/ |"Gb13""F9" E4 |: %12
+w: I mere- ly loooked at|you and I|knew that I|knew.|
+"Fm7" z B B B |"Bb7" B"Bb7b9" F2 G |"Ebmaj7" B,4- |"Cm7" B, C B, G |"Fm7" F4- |"Bb7" F E D c | %18
+w: It's you or|no one for|me,|_ I'm sure of|this|_ each time we|
+"Ebmaj7" B4- | B4 |"Abm7" z _d d d |"Db7" _d A2 B |"Gbmaj7" _c B A _G |"Ebm7" _D3 E | %24
+w: kiss.|_|Now and for-|ev- er, and|when for- ev- er's|done, you'll|
+"Bbmaj7" F G"Gm7" F d |"C7""F7b9" c3 =A |"Bbmaj7" F4- |"Bb7" F4 |"Fm7" z B B B | %29
+w: find that you are|still the|one.|_|Please don't say|
+"Bb7" B"Bb7b9" F2 G |"Ebmaj7" B,4- |"Cm7" B, C B, G |"Fm7" F4- |"Bb7" F E D c |"Ebmaj7" B4- | B4 | %36
+w: "No" to my|plea,|_ 'cause if you|do,|_ then I'm all|through.|_|
+"Fm7" z e e e |"Db7" e E2 F |"Ebmaj7" G A"Cm7" B e |"Abm7" _d _c"Db7" d _c |"Gm7" z B"Gb7" B B | %41
+w: There's this a-|bout you, my|worlds an emp- ty|world with- out you,|It's you or|
+"Fm7" B"Bb7b9" F2 G |1"Eb""C7b9" E4- |"Fm7" E2"Bb7" z2 :|2"Eb6" E4- | E2 z2 |] %46
+w: no one for|me.|_|me.|_|
+

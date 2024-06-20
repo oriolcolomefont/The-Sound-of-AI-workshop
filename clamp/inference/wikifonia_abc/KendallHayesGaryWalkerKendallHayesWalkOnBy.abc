@@ -1,0 +1,23 @@
+X:1
+T:Walk On By
+T:Walk on by
+T:Kendall Hays
+C:Kendall Hayes, Gary Walker
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 A B |:"C" c2 B3/2 A/ |"F" B A3 |"G7" D D C D |"C" E2 D E |"F" F2 G F |"G7" D2 C D |"C" E4 | %8
+w: If I|see you to-|morr- ow|on some street in|town par- don|me if I|dont say hel-|lo|
+"G7" z2 A B |"C" c2 B3/2 A/ |"F" B A2 D |"G7" D D C D |"C" E3 G |"F" A B c A |"G7" G E D3/2 C/ | %15
+w: I be-|long to an-|oth- er it|would- nt look so|good to|know some- one I'm|not sup- posed to|
+"C" C4- | C G A B | c4 | z E D3/2 C/ |"G7" B, D3 | z2 z G |"F" A B c A |"G7" G E D3/2 C/ |"C" E4 | %24
+w: know|* just walk on|by|wait on the|cor- ner|I|love you but were|stran- gers when we|meet|
+ z G A B | c4 | z E D3/2 C/ |"G7" B, D3 | z2 z G |"F" A B c A |"G7" G E D3/2 C/ |1"C" C4- || %32
+w: just walk on|by|wait on the|cor- ner|I|love you but were|stran- gers when we|meet|
+ C2 A B :|2"C" C4- || C2 z2 |] %35
+w: * In a|||
+

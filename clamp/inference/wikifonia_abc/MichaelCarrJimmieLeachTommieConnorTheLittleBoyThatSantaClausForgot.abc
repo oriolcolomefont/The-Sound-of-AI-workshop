@@ -1,0 +1,26 @@
+X:1
+T:The Little Boy That Santa Claus Forgot
+T:The Little Boy That Santa Claus Forgot
+C:Michael Carr
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2"C7" z A/B/ |:"F" c =B"Am7b5" c3/2 B/ |"D7" _B A d3/2 A/ |"G7" D4- | D3 D | %5
+w: He's the|lit- tle boy that|San- ta Claus for-|got,|_ And|
+"Gm7" B c"C7" A3/2 G/ |"Gm7b5" B c"C7" A3/2 G/ |"F" C4- | C3 C |"F/A" F G E3/2 D/ | %10
+w: good- ness knows he|did- n't want a|lot.|_ He|sent a note to|
+"Abdim" F G E3/2 D/ |"Gm7" B c A3/2 B/ |"C7" G3 D |"Gm7" B c"Eb9" A B |"C9" G A B c | %15
+w: San- ta for some|sol- diers and a|drum'; It|broke his lit- tle|heart when he found|
+"Am7b5" d c"D7b9" B A |"Gm7" c3"C9" A/B/ |"F" c =B"Am7b5" c3/2 B/ |"D7" _B A d3/2 A/ |"G7" D4- | %20
+w: San- ta had- n't|come. In the|street, he en- vies|all those luck- y|boys,|
+ D3 D |"Gm7" B c"C7" A3/2 G/ |"Gm7" B c"Eb9" A3/2 G/ |"Dm" F4- |"F9" F2 F _E |"Bb" ^C D E F | %26
+w: _ The|wan- ders home to|last year's brok- en|toys.|_ I'm so|sor- ry for the|
+"Gm7b5" c B2 F |"F" A B =B c |"D7" e d2 D |"Gm7" B c"C7" A3/2 G/ |"G9" d d"C7b9" A3/2 A/ |1 %31
+w: lad- die; He|has- n't got a|dad- dy, the|lit- tle boy that|San- ta Claus for-|
+"F" F2"Abdim" z2 ||"Gm7" z2"C7" z A/B/ :|2"F" F4 |] %34
+w: got.|He's the|got.|
+

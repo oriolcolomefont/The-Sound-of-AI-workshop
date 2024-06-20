@@ -1,0 +1,38 @@
+X:1
+T:An American Trilogy
+T:An American Trilogy
+C:Traditional: Adapted By Mickey Newbury
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 ED |"C" C2 C2 C2 GG | G2 G2 G2 E2 |"F" z2 AA A3 B |"F#dim" c c3 B A2 c/d/ |"C" e6 cG | %6
+w: How I|wish I was in the|land of cot ton,|old things they are|not for- got- ten, look a-|way, look a-|
+"Am" c6 GE |"Dm7""G7" G6 DE |"C""F" C8- |"C" C6 cc | c (e2 d- d2) cc |"F" A2 c4 A2 |"D7" d6 A2 | %13
+w: way, look a-|way, Dix- ie-|land.|_ Oh I|wish I _ _ was in|Dix- ie, a-|way, a-|
+"Dm7/G" d6 c2 |"C" c e3 d2 c2- |"F" c2 AB c2 F2 |"C" E4- EEGG |"Dm7" E D3-"G7" D4 | %18
+w: way, in|Dix- ie- land I|_ take my stand to|live _ and die in|Dix- ie. _|
+"Dm7" z4"G7" z2 D2 |"C" CC C4 EG |"C7" GG G6 |"F" z2 AA A3 B |"D7" cc c4 z c/d/ |"C" e6 cG | %24
+w: 'Cause|Dix- ie- land that's were|I was born,|Ear- ly Lord, one|frost- y morn, look a-|way, look a-|
+"Am7" c6 GE |"Dm7" G6"G7" CD |"C" C8 |"C" G6- GF | E3 G- G2 cd | e8 | c8 |"F" z4 z2 AB | c4- cdcA | %33
+w: way, look a-|way Dix- ie-|land.|Glo- * ry,|glo- ry _ Al- le-|lu-|jah.|Glo- ry,|glo- * ry al- le|
+"C" G8 | E8 |"C" z4 z2 GF |"E7" E4- EGcd |"Am" e8 |"F" c6 c2 |"Dm" d6 d2 |"G7" c6 B2 |"Am" c8- | %42
+w: lu-|jah.|Glo- ry,|glo- * ry al- le|lu-|jah, His|truth is|march- ing|on.|
+"F" c8- |"Dm" c8- |"C" c8- | c4 z2 C2 | C2 DD E2 F2 |[M:2/4] G2 A2 |[M:4/4]"Gm7" _B8- | B6 G2 | %50
+w: |||* So|hush lit- tle child- ren|don't you|cry.|_ you|
+"C" c2 G2 G2 E2- |"Am" E6 GG |"F" A8- | A6 E2 |"C" F8- |"Am7" F6 G2 |"Dm7" FD D6- | D4 z4 | %58
+w: know your dad- dy's|_ bound to|die.|_ But|all|_ my|trials _ Lord|_|
+"G7" z4 D3 D |"C" DC- C6- | C8- | C6"^INSTRUMENTAL" C2 |"C7" C2 C2 CDEF | G2 G2 G2 E2 | %64
+w: soon be|ov- er. *|||||
+"F" A2 A2 A3 G |"G7" A3 G ABcd |"C" e6 cG | c6 GE |"G7" G6 DE |"C" C8- | C8- |"C7" C8 | %72
+w: ||||||||
+"F" z4 A3 B | c4- cBcA |"C" G8 | E8 | z4 z2 GF |"E7" E4- EGcd |"Am" e8 |"F" c6 c2 |"Dm" d6 d2 | %81
+w: ||||Glo- ry,|glo- * ry al- le|lu-|jah, His|truth is|
+"G7" c6 B2 |"C" c6 c2 |"Dm" d4 d4 |"G7" c4 B4 |"C" c8- | c6 z2 |] %87
+w: march- ing|on. His|truth is|march- ing|on.|_|
+

@@ -1,0 +1,28 @@
+X:1
+T:Come, We That Love the Lord
+T:Come, We That Love the Lord
+T:Aaron Williams
+T:Isaac Watts
+T:Public Domain
+C:Aaron Williams
+Z:Public Domain
+L:1/4
+Q:1/4=100
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^100" D | G G B (A/G/) |"D" A3 (B/c/) |"G" d (c/B/)"Am" c"G" B |"D" A3 d |"G" B G"D" A D | %6
+w: 1.~Come,|we that love the *|Lord, And *|let our * joys be|known. Join|in a song with|
+w: 2.~Let~~~~~|those re- fuse to *|sing Who *|nev- er * knew our|God; But|chil- dren of the|
+w: 3.~The~~~~~|men of grace have *|found Glo- *|ry be- * gun be-|low; Ce-|les- tial fruit on|
+w: 4.~Then~~~|let our songs a- *|bound, And *|ev- 'ry * tear be|dry; We're|march- ing thru' Im-|
+"G" (G/A/)(B/c/) d d |"C" e (d/c/)"D" B A |"G" G3 |] %9
+w: sweet * ac * cord, And|thus sur- * round the|throne.|
+w: heaven- * ly * King May|speak their * joys a-|broad.|
+w: earth- * ly * ground From|faith and * hope may|grow.|
+w: man- * u- el's ground To|fair- er * worlds on|high.|
+

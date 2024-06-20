@@ -1,0 +1,60 @@
+X:1
+T:Gospel John
+T:Gospel John
+T:Maynard Ferguson
+T:2
+T:Gospel John
+T:3
+T:Gospel John
+T:4
+T:Gospel John
+T:5
+T:Gospel John
+C:Maynard Ferguson
+Z:All Rights Reserved
+%%score [ 1 | 2 ] [ 3 | 4 ]
+L:1/8
+Q:1/4=150
+M:4/4
+K:none
+V:1 treble transpose=-9 nm="Alto Sax 1" snm="A. Sx. 1"
+%%MIDI program 65
+%%MIDI control 7 102
+%%MIDI control 10 14
+V:2 treble transpose=-9 nm="Alto Sax 2" snm="A. Sx. 2"
+%%MIDI program 65
+%%MIDI control 7 102
+%%MIDI control 10 49
+V:3 treble transpose=-2 nm="Trumpet in Bb 1" snm="Bb Tpt. 1"
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 84
+V:4 treble transpose=-2 nm="Trumpet in Bb 2" snm="Bb Tpt. 2"
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 120
+V:1
+[K:D] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 a2 f z | z2 z g4 z | z2 z A Bd (3gfd | %12
+ g4 z4 | f4 a3 b- | b2 ga b2 a2 | g4 z4 | z d3- d4 | z2 z A Bded | f4 b3 a- | a8 | z d (3gfd e4 | %21
+ d4 e4 | f d2 d2 z z2 | a8 | f2 ff z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %37
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %50
+V:2
+[K:D] z2 A2 BA z2 | z2 G2 FD z2 | z2 z2 GFDE- | E2 D3 D z2 | z2 A2 BA z2 | z2 d2 ef z2 | %6
+ z2 z2 gfde- | e8 | d'2 z2 z4 | f2 d2 z2 z A | B d2 e2 d ed | f2 d2 z2 z d | g f2 d2 B d2 | %13
+ f2 de f c'2 d'- | d'c' bzzf ed | e2- ee b b2 a- | a2 ba d'bad | f2 d2 z2 z A | B d2 e2 d ed | %19
+ f2 f2 c' f2 d'- | d'4 z b_b=b | d'2 bg c' b2 _b | a f2 d2 d e2 | z2 gf d e2- e | d2- dd z4 | z8 | %26
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %45
+ z8 | z8 | z8 | z8 | z8 |] %50
+V:3
+[K:G] z2 D2 ED z2 | z2 C2 B,G, z2 | z2 z2 CB,G,A,- | A,2 G,3 G, z2 | z2 D2 ED z2 | z2 G2 AB z2 | %6
+ z2 z2 cBGA- | A8 | g2 z2 z4 | B2 G2 z2 z D | E G2 A2 G AG | B2 G2 z2 z G | c B2 G2 E G2 | %13
+ B2 GA B f2 g- | gf ezzB AG | A2- AA e e2 d- | d2 ed gedG | B2 G2 z2 z D | E G2 A2 G AG | %19
+ B2 B2 f B2 g- | g4 z e_e=e | g2 ec f e2 _e | d B2 G2 G A2 | z2 cB G A2- A | G2- GG z4 | z8 | z8 | %27
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %46
+ z8 | z8 | z8 | z8 |] %50
+V:4
+[K:G] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 d2 B z | z2 z c4 z | z2 z D EG (3cBG | %12
+ c4 z4 | B4 d3 e- | e2 cd e2 d2 | c4 z4 | z G3- G4 | z2 z D EGAG | B4 e3 d- | d8 | z G (3cBG A4 | %21
+ G4 A4 | B G2 G2 z z2 | d8 | B2 BB z4 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %37
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %50
+

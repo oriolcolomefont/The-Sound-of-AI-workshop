@@ -1,0 +1,13 @@
+X:1
+T:Brise Pied
+C:Traditionnel
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ C2 D2 C2 D2 | C2 AB A2 G2 | C2 D2 C2 D2 | C2 AG F4 :| AGAB A4 | GFGA G4 | cdcB AGAB | %7
+ A2 G2 A2 F2 | AGAB A4 | GFGA G4 | cdcB AGAB | A2 G2 F4 |] %12
+

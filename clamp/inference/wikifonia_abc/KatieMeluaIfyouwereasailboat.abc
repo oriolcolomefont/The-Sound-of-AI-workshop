@@ -1,0 +1,51 @@
+X:1
+T:If you were a sailboat
+C:Katie Melua
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:E
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Intro""C#m" z16 | z16 |"^Bass enters" z16 | z16 ||"^Verse""C#m" z2 z C EEEF- FE2D- DC2D- | %5
+w: ||||If you were a cow- _ boy I _ would trail|
+w: |||||
+"A" D2<C2 z4 z8 |"C#m" z2 z C EEEF- FE2D- D2<C2 |"A" D4 C4 B,4 A,4 |"E" B,8 z8 | %9
+w: _ you,|if you were a piece _ of wood _ I’d|nail you to the|floor,|
+w: ||||
+"F#m" z3 C AAAB- BA2G- G2<F2 |"B" E4 D4 C4 D4 |"E" E8 z8 | z16 |:"C#m" z2 z C EEEF- FE2D- DC2D- | %14
+w: if you were a sail- _ boat I _ would|sail you to the|shore,||if you were a ri- _ ver I _ would swim|
+w: ||||If I was in jail _ I know _ you'd spring|
+"A" D2<C2 z4 z8 |"C#m" z2 z C EEEF- FE2D- D2<C2 |"A" D4 C4 B,4 A,4 |"E" B,8 z8 | %18
+w: _ you,|if you were a house _ I would _ live|in you all my|days,|
+w: _ me,|if I were a te- * le- phone _ you'd|ring me all day|long,|
+"F#m" z3 C AAAB- BA2G- G2<F2 |"B" E4 D4 C4 D4 |"E" E8 z8 | z16 || %22
+w: if you were a prea * cher I’d _ be-|gin to change my|ways,||
+w: if I was in pain _ I know _ you'd|sing me sooth- ing|songs.||
+"^Chorus""C#m" z4 C2G2 F2EF- F2G2 |"A" C4 C2A2 G2F2 G2AD- |"B" D4 D2E2 F2F2E2D2 |"A" C8 z8 | %26
+w: Some- times I be- lieve _ in|fate but the chan- ces we cre- ate,|_ al- ways seem to ring more|true,|
+w: ||||
+"F#m" z2 C2 CB,2C- C2B,2 CB,2B,- |"B" B,2A2- AAAA- A2G2 AG2E- |1"E" E8"E/D" z8 | %29
+w: you took a chance _ on lo- ving me,|_ I _ took a chance _ on lo- ving you|_|
+w: |||
+"C#m7""Bsus4" z16"B7" |"E""E/D" z16 |"C#m7""Bsus4" z16"B7" :|2"E" E8 z8 |"E/D" z16 ||"C#m7" z16 | %35
+w: ||||||
+w: ||||||
+"Bsus4""B7" z16 |"E" z16 | z16 ||"^Verse""C#m" z2 z C E2E2 F2E2D2C2 |"A" D4 C4 z8 | %40
+w: |||if I was hun- gry you would|feed me,|
+w: |||||
+"C#m" z2 z C EEEF- FE2D- D2<C2 |"A" D4 C4 B,4 A,4 |"E" B,8 z8 |"F#m" z3 C AAAB- BA2G- G2<F2 | %44
+w: if I was in dark- * ness you _ would|lead me to the|light,|if I was a book _ I know _ you'd|
+w: ||||
+"B" E4 D4 C6 D2 |"E" E8 z8 | z16 ||"C#m" z2 z C EEEF- FE2D- DC2D- |"A" D2<C2 z4 z8 | %49
+w: read me ev'- ry|night.||If you were a cow- _ boy I _ would trail|_ you,|
+w: |||||
+"C#m" z2 z C EEEF- FE2D- D2<C2 |"A" D4 C4 B,4 A,4 |"E" B,8 z8 |"F#m" z3 C AAAB- BA2G- G2<F2 | %53
+w: if you were a piece _ of wood _ I’d|nail you to the|floor,|if you were a sail- _ boat I _ would|
+w: ||||
+"B" E4 D4 C4 D4 |"E" E8 z8 | z16 |"F#m" z3 C AAAB- BA2G- G2<F2 |"B" E4 D4 C4 D4 |"E" E8 z8 | z16 |] %60
+w: sail you to the|shore,||if you were a sail- _ boat I _ would|sail you to the|shore.||
+w: |||||||
+

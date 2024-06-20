@@ -1,0 +1,26 @@
+X:1
+T:Gone With The Wind
+T:Gone With The Wind
+C:Allie Wrubel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Fm7" c2"Bb7" B3/2 B/ |"Ebmaj7" G4 |"Fm7" c c/c/"Bb7" (3B B B |"Ebmaj7" B3/2 B/ G2 | %4
+w: Gone with the|wind,|just like a leaf that has|blown a- way.|
+"Am7" G2"D7" ^F3/2 =A/ |"G6" =E4- |"Am7" E G"D7" (3^F G =A |"Gmaj7" d3/2 d/ d2 |"Gm" z2 (3d d d | %9
+w: Gone with the|wind,|_ my fo- mance has|blown a- way.|Yes- ter- day's|
+"F#dim7" d e2 c |"Fm7" (3e c e d2- |"Bb7" d4 |"Ebmaj7" z B B B |"Gm7b5" B c/_d/"C7b9" c B | %14
+w: kiss- es are|still on my lips|_|I had a|life- time of Heav- en|
+"Fm7" z A (3e c A |"Bb7" F3 B |"Fm7" c2"Bb7" B3/2 B/ |"Ebmaj7" G4 |"Fm7" c c/c/"Bb7" (3B B B | %19
+w: at my fin- ger-|tips. But|now all is|gone,|gone is the rap- ture that|
+"Ebmaj7" B3/2 B/ G2 |"Am7" G2"D7" ^F3/2 =A/ |"G6" =E4- |"Am7" E G"D7" (3^F G =A | %23
+w: filled my heart.|Gone with the|wind,|_ the glad- ness that|
+"Gmaj7" d3/2 d/ d2 |"Fm" f2 c3/2 c/ |"Cm" e4 |"Fm7" d c"Bb7" B/A/G/F/ |"Gm7b5" c3"C7" G | %28
+w: filled my heart.|Just like a|flame,|love burned bright- ly then be-|came an|
+"Fm7" B A e/c/A/c/ |"Bb9" G2 (3B B B |"Ebmaj7" B4 |] %31
+w: emp- ty smoke dream that has|gone, gone with the|wind.|
+

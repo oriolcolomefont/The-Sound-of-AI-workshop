@@ -1,0 +1,14 @@
+X:1
+T:The Ass in the Graveyard
+C:Traditional Irish
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Soprano Recorder"
+%%MIDI program 0
+V:1
+ D |: D2 GF GA | G3 A BG | AG FA GE | D4 AB | c2 AB cA | B2 GA BG |1 AG FA GE | F4 D2 :|2 %9
+ AG FG AF || G3 A Bc |: dc Bd cA | B4 A2 | Gc Fc Ec | D4 AB | c2 AB cA | B2 GA BG |1 AG FA GE | %18
+ F4 D2 :|2 AG FG AF || G6 |] %21
+

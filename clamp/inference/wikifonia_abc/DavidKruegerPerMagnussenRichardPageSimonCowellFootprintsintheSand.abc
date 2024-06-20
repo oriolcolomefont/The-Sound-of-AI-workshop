@@ -1,0 +1,54 @@
+X:1
+T:Footprints in the Sand
+T:Footprints in the Sand
+T:Per Magnussen, David Krueger, Richard Page & Simon Cowell, 2007
+C:David Krueger, Per Magnussen, Richard Page, Simon Cowell
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"Abpower" z4"Abpower/Bb" z4 |"Fm7" z4"Dbsus2" z4 |"Ebsus4" z4 z4 |[M:2/4]"Eb" z4 || %4
+w: ||||
+[M:4/4]"Fm7" z3/2 A,/ CE/"Dbsus2"E/- E2 |"Ab" EE DC/C/-"Eb" B,2 z3/2 C/ | %6
+w: you walked with me _|foot prints in the sand _ and|
+"Bbm" DD<CB,/B,/-"Fm" A,2 A,/B,B,/- |"Gb" B,2 C4"Db" z2 |"Fm7" z3/2 A,/ CE/F/"Dbsus2" EF z3/2 A,/ | %9
+w: helped me un der stand _ where I'm go|_ ing|you walked with me _ _ when|
+"Ab" EE<DC/C/-"Eb" B,2 z3/2 C/ |"Bbm" D3/2CB,B,/-"Fm" A,>F, A,B,/B,/- | %11
+w: I was all a lone _ with|so much a lone _ a long the way|
+"Eb" B,4 z E,/E,/"Ab/C" C/-B,/A, |"Db" A,4 z EEA |"Ab" A4"Ab/C" z A G>E | %14
+w: _ then I heard _ you|say I pro mise|you I'm al ways|
+"Db" F/-E/ F3 z2"Ab" FA/B/- |"Bbm7" B"Ab7"A B>c"Bbm7/Ab" AAFA |"Ebsus4" G/F/ E3"Eb" z E"Ab/C"cB | %17
+w: there _ _ when your heart|_ is filled with sor row and des|pair _ _ I'll car ry|
+"Db" A4 z F/A/"Eb" Bc |"Fm" c->B- A4 z A/A/- |"Ebsus4" E/EEC3/2"Eb" C<B, z A,/B,/- | %20
+w: you when you need a|friend _ _ You'll find|my foot _ prints in _ the sand|
+"Ab" A,4"Db" z4 |"Fm7" z3/2 A,/ CE/"Dbsus2"E/- E2 |"Ab" EE DC/C/-"Eb" B,2 z3/2 C/ | %23
+w: _|I see my life _|flash a cross the sky _ so|
+"Bbm" DD<CB,/B,/-"Fm" A,2 A,/B,B,/- |"Gb" B,2 C4"Db" z2 |"Fm7" z3/2 A,/ CE/F/"Dbsus2" EF z3/2 A,/ | %26
+w: man y times have I _ been so a|_ fraid|and just when I _ _ I|
+"Ab" EE<DC/C/-"Eb" B,2 z3/2 C/ |"Bbm" D3/2CB,B,/-"Fm" A,>F, A,B,/B,/ | %28
+w: thought I lost my way _ you|gave me strength to _ car ry on that's|
+"Ebsus4" E/AAB/ B2- c"Db/Eb" B/BA/ |"Ab" A4"Ab/C" z A G>E |"Db" F/-E/ F3 z2"Ab" FA/B/- | %31
+w: when I hear you say _ I prom ise|you I'm al ways|there _ _ when your heart|
+"Bbm7" B"Ab7"A B>c"Bbm7/Ab" AAFA |"Ebsus4" G/F/ E3"Eb" z E"Ab/C"cB |"Db" A4 z F/A/"Eb" Bc | %34
+w: _ is filled with sor row and des|pair _ _ I'll car ry|you when you need a|
+"Fm" c->B- A4 z A/A/- |"Ebsus4" E/EEC3/2"Eb" C<B, z A,/B,/- |"Ab" B- A3-"Db" A4 || %37
+w: friend _ _ You'll find|my foot _ prints in _ the sand|_ _ _|
+[K:A] z2"A" c>d"E" c2 B2 |"A/C#" z/ A/A Ae"D" e3/2d3/2c |"A/E" (3c/B/A/F/A/ AA c2"E" B2 | %40
+w: when I'm wea ry|will, I know you'll be there and|I _ _ _ _ _ can feel you|
+"F#m" A2"^rit.""E" G/F/E"D" F/-E/-F/-E/- F2 | z4 z FFB ||[K:B]"B" B4"B/D#" z dcB | %43
+w: when you _ _ say _ _ _ _|I prom ise|you I'm al ways|
+"E9" G/-F/-G-"E" G4"B/D#" GB |"C#m7" cB =d>c"C#m7/B" BGGB |"F#sus4" A/-G/-"F#" F4 B"B/D#" d/c/B | %46
+w: there _ _ _ when your|heart is filled with sad ness and des|pair _ _ I'll car _ you|
+"E" B4 z/ G/B"F#" g/-fd/ |"G#m7" B6"C#7" z B/B/- |"B/F#" B/FFD3/2"F#m" B3 A |"B" B4"B/D#" z dcB | %50
+w: _ when you need _ a|friend you'll find|_ my foot prints in the|sand I'm al ways|
+"E9" G/-F/-G-"E" G4"B/D#" GB |"C#m7" cB =d>c"C#m7/B" BGGB |"F#sus4" A/-G/-"F#" F4 B"B/D#" d/c/B | %53
+w: there _ _ _ when your|heart is filled with sad ness and des|pair _ _ I'll car _ you|
+"E" B4 z/ G/B"F#" g/-fd/ |"G#m" dc/B/ c/B/G/F/ G<F- F2 | D/C/B,- B,2 z3 B/B/- | %56
+w: _ when you need _ a|friend _ _ _ _ _ _ _ _ _|_ _ _ _ you'll find|
+"B/F#" B/FFD3/2"F#" D<C- CB,/C/- |"B" B,4"F#" z4 |"G#m9" z4"E" z4 |"B" z8 |] %60
+w: _ my foot prints in _ _ the sand|_|||
+

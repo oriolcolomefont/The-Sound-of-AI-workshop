@@ -1,0 +1,28 @@
+X:1
+T:That's Amore
+T:That's amore
+T:Harry Warren
+T:Jack Brooks
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z d c |"Bb" B d c | B d c | B d c | B A G |"F7" F C2 |"Bb" z3 |"Cm7" z3 |"F7" z c B | A c B | %10
+w: When the|moon hits your|eye like a|big piz- za|pie that's a-|mor- e|||when the|world seems to|
+ A c B | A c B | A B G |"Bb" A D2 | z3 | z3 |"Bb" z D F | B D/F/ D/F/ | B D/F/ D/F/ | B D F | %20
+w: shine like you've|had too much|wine that's a-|mor- e|||Bells will|ring, ting- a- ling- a|ling ting- a- ling- a-|ling and you'll|
+"E" B c3/2 B/ |"F7" A F2 |"Bb" z3 | z3 |"F7" z C E | A C/E/ C/E/ | A C/E/ C/E/ | A C E | A B A | %29
+w: sing Vee- ta|bel- la|||Hearts will|play tip- py tip- py|tay tip- py tip- py|tay like a|gay tar- an-|
+"Bb" G D2 | z3 | z3 |"Bb" z d c | B d c | B d c | B d c | B A G |"F7" F C2 |"Bb" z3 |"Cm7" z3 | %40
+w: tel- la|||when the|stars make you|drool just like|pas- ta- fa-|zool that's a-|mor- e|||
+"F7" z c B |"F7" A c B | A c B | A c B | A G E |"D7" D3 | z3 |"G7" z3 | z E F |"Cm" G E F | G G A | %51
+w: when you|dance down the|street with a|cloud at your|feed you're in|love|||when you|walk in a|dream but you|
+"E" B G A | B c B |"Bb" d3 | F3 | z3 | z3 | z c B |"F7" A c B | A c B | A F G | A B c | %62
+w: know you're not|dream- ing sig-|nor|e|||Scuz za|me but you|see back in|old Na- po-|li that's a-|
+"Bb" d/c/ B2- |"Ebm" B3 |"Bb" z3 |] %65
+w: mor- * e.|||
+

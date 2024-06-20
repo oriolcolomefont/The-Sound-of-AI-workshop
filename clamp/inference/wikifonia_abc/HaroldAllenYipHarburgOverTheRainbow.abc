@@ -1,0 +1,42 @@
+X:1
+T:Over The Rainbow
+T:Over the rainbow
+T:Over the rainbow-2
+C:Harold Allen
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Bbmaj7" z FGD F2 CD |"Eb/F" E2 E2 EFB,C |"Bbmaj7" D2 D2 DFA,B, |"Am7b5" C8 |"D+7" D4"Ebmaj7" D4 | %5
+w: When all the world is a|hope- less jum- ble and the|rain- drops tum- ble all a-|round|Heav- en|
+"Gm/F" (3D2 F2 E2"Gm7" D2 C2 |"Eb/F" B,8 | z8 |"Bbmaj7" z FGD F2 CD |"Eb/F" E2 E2 EFB,C | %10
+w: o- pens a mag- ic|lane.||when all the clouds dark- en|up the sky- way, there's a|
+"Bbmaj7" D2 D2 DFA,B, |"Am7b5""D7b9" C8 |"Gm" A,4"Gm/F" B,4 |"Bb/C" B2 A2"C7" G2 A2 |"Eb/F" F8 | %15
+w: rain- bow high- way to be|found|lead- ing|from your win- dow|pane.|
+ z2 G,B, DFAB | F8 | z2 G,B, DFAB |"Cm7" c8 |"Eb/F""F7" F8 ||"Bb69" B,4"Gm7" B4 | %21
+w: to a place be- hind the|sun,|just a step be- yond the|rain.||Some- where|
+"Dm7" A2 FG"Bm7/A" A2"Cm7/Bb" B2 |"Ebmaj7" B,4"F/Eb" G4 |"Dm7" F8 |"Cm7" G,4"Ebm7" E4 | %25
+w: o- ver the rain- bow|way up|high|there's a|
+"F7sus4" D2 B,C"G7b9" D2"Db7" E2 |"Cm7" C2 A,B,"F7sus4" C2"F7b9" D2 |"Bb69""Cbmaj7" B,8 | %28
+w: land that I heard of|once in a lu- la-|by|
+"Gm7" B,4"Ebmaj7" B4 |"Dm7" A2 FG"Db7" A2 B2 |"Cm7" B,4"F7" G4 |"Bbmaj7" F8 |"Am7b5" G,4"D7b9" E4 | %33
+w: Some- where|o- ver the rain- bow|skies are|blue|and the|
+"Ebmaj7" D2 B,C"F7sus4" D2 E2 |"Cm7" C2 A,B,"F7sus4" C2"F7b9" D2 |"Bb7sus4""Bb" B,6 z F || %36
+w: dreams that you dare to|dream re- ally do come|true Some-|
+"Bbmaj7" DF DF DF DF |"Cm7" EF EF EF EF |"Dm7" G4 G4- |"Cm7" G6"F7b9" z F |"Bbmaj7" DF DF DF DF | %41
+w: day I'll wish up- on a star and|wake up where the clouds are far be|hind me|* Where|trou- ble melt like le- mon drops a-|
+"Em7b5" =EG EG"A7b9" EG EG |"A7#9b13" A4"G7#11" A4 |"F#7#11" c4"F7" G4 ||"Em7b5" B,4"Ebmaj7" B4 | %45
+w: way a- bove the chim- neys tops that's|where you'll|find me|Some- where|
+"Dm7" A2 FG"Db+7" A2 B2 |"Cm7" B,4"B7" G4 |"Bbmaj7" F8 |"Cm7" G,4"Ebm7" E4 | %49
+w: o- ver the rain- bow|blue- birds|fly|birds fly|
+"F7sus4" D2 B,C"G7b9" D2"Db7" E2 |"Cm7" C2 A,B,"F7sus4" C2"F7b9" D2 |"Em7b5""Ebm7" B,8- | %52
+w: o- ver the rain- bow|why then oh why can't|I|
+"Dm7""Db7" B,8- |"Cm7""Bmaj7" B,8- |"Bb""C/Bb""Bb" B,8 |] %55
+w: |||
+

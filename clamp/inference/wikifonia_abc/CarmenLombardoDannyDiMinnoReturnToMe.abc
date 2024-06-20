@@ -1,0 +1,33 @@
+X:1
+T:Return To Me
+T:Return To Me
+C:Carmen Lombardo
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"C7" z z/ C/ c3/2 c/ |:"F" A4- | (3A A B (3c B A |"Gm7" B"C7" c3- |"Gm7" c3"C7" e/e/ | %5
+w: Re- turn to|me,|_ oh, my dear, I'm so|lone- ly;|_ hur- ry|
+w: Ri- tor- na͜~a|me,|* non la scia- re mi|so- lo;|* vien- i|
+ e d/d/ d c/c/ | c B/B/ (3B c B |"F" A4- | A3/2 C/"^N.C" c3/2 c/ |"F" A4- | (3A A B (3c B A | %11
+w: back, hur- ry back, oh, my|love hur- ry back, i am|yours.|_ Re- turn to|me,|_ for my heart wants you|
+w: tu, vien- i tu, vien- i|tu, vien- i tu, mi a-|mor.|_ Ri- tor- na͜~a|me,|_ ca- ra mi- a ti|
+"Gm7" B"C7" c3- |"Gm7" c3"C7" e/e/ | e d/d/ d c/c/ | c B/B/ (3B E G |"F""Bb" F4- |"F" F2"F7" z F | %17
+w: on- ly;|_ hur- ry|home, hur- ry home, won't you|please hur- ry home to my|heart.|_ My|
+w: am- mo;|_ so- lo|tu, so- lo tu, so- lo|tu, so- lo tu, mi- o|cuor.|_ Bam-|
+"Bb" d d3- |"Gm7" (3d B c"C7" (3d c B |"F" A c3- | c3 c |"E7" =B B3- | B =B/c/ (3d c B |"C7" e4- | %24
+w: dar- ling,|_ if I hurt you I'm|sor- ry;|_ for-|give me,|_ and please say you are|mine!|
+w: bi- na,|_ dar il cour- a- nes|su- no;|_ man-|tie- ni,|_ so- la- men- te per|me.|
+ e3/2 C/"^N.C." c3/2 c/ |"F" A4- | (3A A B (3c B A |"Gm7" B"C7" c3- |"Gm7" c3"C7" e/e/ | %29
+w: _ Re- turn to|me,|_ please come back, bel- la|mi- a|_ hur- ry|
+w: _ Ri- tor- na͜~a|me,|_ e- la san- ta ve-|mu- ta;|_ vien- i|
+ e d/d/ d c/c/ | c B/B/ (3B E G |1"F""Bdim7" F4 ||"C7" z z/ C/"^N.C." c3/2 c/ :|2"F""Bb" F4- || %34
+w: back, hur- ry home to my|arms, to my lips, and my|heart.|Re- turn to|heart.|
+w: tu, vien- i tu, so- lo|tu, so- lo tu, mi- a-|mor!|Ri- tor- na͜~a|mor!|
+"Fmaj7" F3 z |] %35
+w: |
+w: |
+

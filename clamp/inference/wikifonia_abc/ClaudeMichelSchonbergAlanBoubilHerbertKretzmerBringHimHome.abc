@@ -1,0 +1,34 @@
+X:1
+T:Bring Him Home
+T:Bring Him home
+C:Claude-Michel Schönberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4"C" C3 c |"F""Gm7" c8- |"Fmaj7/A" c4"Bb9" d3 B |"F""Bb9" c8- |"Fmaj7" c4"Bb9" G3 G |"Am" A8 | %6
+w: God on|high,|_ Hear my|pray'r|_ In+ my|need|
+"Gm" z4 B3 G |"Bb/C" (3A2 G2 F2"C" C4- | C4 C3 c |"F""Gm7" c8- |"Fmaj7" c4"Bb9" d3 B | %11
+w: You have|al- ways been there.|_ He is|young.|_ He's a-|
+"F""Bb9" c8- |"Fmaj7" c4"Bb9" G3 G |"A" A8- |"A7" A4 B3 G |"Dm" F8- |"Dm/C" F4 F3 d | %17
+w: fraid|_ let him|rest,|_ Heav en-|blest.|_ Bring him|
+"Bb""Bb/E" d8- |"Bb/A" d4 e3 c |"Gm" d8- |"C7" d4 c3 G |"F" F8 |"Am" z EEA AEEG |"Gm" G8 | %24
+w: home,|_ bring him|home,|_ bring him|home.|He's like a son I might have|known|
+"Dm" z FFA AFFG |"C" G4 z CCd |"Bb" d6 z c/d/ |"F/A" c4 c f2 c |"Bb" d6 z c/d/ |"F/A" c4 z FF>B | %30
+w: if God had grant- ed me a|son. The sum- mers|die, one by|one. How soon they|fly, on and|on. And I am|
+"Gm" B4 z FFA |"A" A8 |"C" z4 C3 c |"F""Bb" c8- |"Fmaj7" c4"Bb" d3 B |"F""Bb" c8- | %36
+w: old and will be|gone.|Bring him|peace,|_ bring him|joy.|
+"Fmaj7" c4"Bb" G3 G |"Am" A8- |"Gm" A2 z2 B3 G |"C" (3A2 G2 F2 C4 |"C7" z4 C3 c |"F" c8- | %42
+w: _ He is|young.|_ he is|on- ly a boy.|You can|take,|
+"Bb/F" c4 d3 B |"A" c8- | c4 G3 G | A8- |"A7" A4 B3 G |"Dm" F8- |"Dm/C" F4 F3 d |"Gm" d8- | %50
+w: _ You can|give.|_ Let him|be,|_ let him|live.|_ If I|die,|
+"C7" d4 e3 c |"Gm" d8- |"C7" d4 c3 G |"F""Gm/F" c8- |"Fmaj7/A" c4"Bb9" d3 B |"F""Gm7" c8- | %56
+w: _ let me|die.|_ Let him|live.|_ Bring him|home,|
+"Fmaj7/A" c4"Bb9" d3 B |"F""Gm/F" c8- |"Fmaj7/A" c4"Bb9" d2 f2 |"F""Bb9" f8- |"Fmaj7""Bb9" f8- | %61
+w: _ bring him|home,|_ bring him|home.|_|
+"F" f8 |] %62
+w: |
+

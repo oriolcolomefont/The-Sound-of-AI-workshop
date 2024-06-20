@@ -1,0 +1,40 @@
+X:1
+T:Sheltered in the Arms of God
+T:Shelterd in the Arms of God
+T:Dottie Rambo & Jimmie Davis, 1969
+C:Dottie Rambo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 |[Q:1/4=90] z2 E2 F3 G |"Ab" A6"Ab7" c2 |"Db" B A2 A D3 E | %9
+w: ||||||I feel the|touch of|hands _ so kind and|
+"Ab" FE E6- | E2 B2 B3 A |"Eb7" G6"Bbm7" AA |"Eb7" G F2 F E3 F |"Ab" E8- |"Bbm7" E2 c2"Eb7" c3 B | %15
+w: ten _ der|_ They're lead ing|me in _|paths that _ I must|trod|_ I have no|
+"Ab" A6"Ab7" c2 |"Db" B A2 A D3 E |"Ab" FE E6- | E2 z2 G2"Abdim" A2 |"Bbm7" B6 A2 | %20
+w: fear when|Je sus _ walks be|sid _ me|_ for I'm|shel tered|
+"Eb7" G3 d c B2 A |"Ab" A8- | A2 A2 B z c2 |"Db" d3 F F2 z c | d3 F F4 |"Ab" E E3"Eb7" A B3 | %26
+w: in the arms _ of|God|_ so let the|storms rage high the|dark ness rise|they won't wor ry|
+"Ab" c4 c2"C7" B2 |"Fm" A3 A"Fm7" A3 B |"Bb7" c3 c (3c2 B2 A2 |"Bbm7" B8- | B2 c2 c3 B | %31
+w: me for I'm|shelt ered sve with|in the arms _ of|God|_ He walks with|
+"Ab" A6"Ab7" c2 |"Db" B A2 A D3 E |"Ab" FE E6- | E2 z2 G2"Abdim" A2 |"Bbm7" B6 A2 | %36
+w: me and|naught of _ earth can|harm _ me|_ for I'm|shel tererd|
+"Eb7" G3 d (3c2 B2 A2 |"Ab" A8- |: z2"Eb" E2 F3 G |"Ab" A6"Ab7" c2 |"Db" B A2 A D3 E |"Ab" FE E6- | %42
+w: in the arms _ of|God|soon I shall|hear the|call from _ heav en's|por _ tals|
+ E2 B2 B3 A |"Eb7" G6"Bbm7" AA |"Eb7" G F2 F E3 F |"Ab" E8- |"Bbm7" E2 c2"Eb7" c3 B | %47
+w: _ come home my|child it's the|last mile _ you must|trod|_ I'll fall a|
+"Ab" A6"Ab7" c2 |"Db" B A2 A D3 E |"Ab" FE E6- | E2 z2 G2"Abdim" A2 |"Bbm7" B6 A2 | %52
+w: sleep and|wak _ in God's great|heav _ en|_ shel tered|safe with|
+"Eb7" G3 d c B2 A |"Ab" A8- | A2 A2 B z c2 |"Db" d3 F F2 z c | d3 F F4 |"Ab" E E3"Eb7" A B3 | %58
+w: in the _ arms of|God|_ so let the|storms rage high the|dark ness rise|they won't wor ry|
+"Ab" c4 c2"C7" B2 |"Fm" A3 A"Fm7" A3 B |"Bb7" c3 c (3c2 B2 A2 |"Bbm7" B8- | B2 c2 c3 B | %63
+w: me for I'm|shelt ered sve with|in the arms _ of|God|_ He walks with|
+"Ab" A6"Ab7" c2 |"Db" B A2 A D3 E |"Ab" FE E6- | E2 z2 G2"Abdim" A2 |"Bbm7" B6 A2 | %68
+w: me and|naught of _ earth can|harm _ me|_ for I'm|shel tererd|
+"Eb7" G3 d (3c2 B2 A2 |1"Ab" A8- | A2 z2 z4 :|2"Ab" A8- || A2 z2 z4 | z8 | z8 | z8 |] %76
+w: in the arms _ of|God|_|God|_||||
+

@@ -1,0 +1,74 @@
+X:1
+T:Ribbon of Darkness
+T:Ribbon of Darkness
+T:Gordon Lightfoot
+T:Moose Music Ltd (1965)
+C:Gordon Lightfoot
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:2/2
+K:D
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 52
+L:1/8
+V:1
+!mf! z2 F/F/ F | A A F3/2 F/ | (D4 | D4) |:S"^Refrain" z2 D/D/ E | F F A A |"A" (E4 | E) z z2 | %8
+w: ||||1.~Rib- bon of|dark- ness o- ver|me\_\_\_\_||
+w: ||||2.~Clouds * a~\-|gath'- rin' o'er my|head~\_\_\_\_||
+w: ||||4.~Rib- bon of|dark- ness o- ver|me~\_\_\_||
+w: ||||6.~Oh how I|wish your heart could|see~\_\_\_||
+w: ||||||||
+ z E E E |"A" G G A3/2 A/ |"D"{/G}"D" (F4 | F4) | z2 F G |"D7" A/ A3/2 B3/2 A/"D7" |"G" (G4 | %15
+w: Since my true|love walked out the|door,~\_\_\_\_||Tears I|nev- er had be-|fore,~\_\_\_|
+w: That kill the|day and hide the|sun,~\_\_\_\_\_||That shroud|the night * is|done,~\_\_	|
+w: Where once the|world was young as|spring,~\_\_\_\_||Where flow'rs|did bloom and did|sing,~\_\_\_|
+w: How mine just|aches and breaks all|day,~\_\_\_\_\_||Come on|home and * *|way~\_\_\_|
+w: |||||* * take a~~~~\-~~~~~-||
+ G) z z2 |"D" z2 F/F/ F"D" |"A" A A F3/2 F/ |1"D" (D4 || D4) :|2"Em""^Bridge:" z2 E F || %21
+w: |Rib- bon of|dark- ness o- ver|me.~~\_\_\_\_|(to~Refrain~2)|3.~Rain is|
+w: |Rib- bon of|dark- ness o- ver|me.~~\_\_\_\_|(to~bridge~3)|5.~Here in|
+w: ||dark- ness o- ver|me.~\_\_\_\_|(to~bridge~5)||
+w: ||||||
+w: ||||||
+"A7" G G G F |"D" (E F) (D2 | D4) |"Em" z E E F |"A7" G G B A |"D" (A4 | A) z z2 |"Em" z E E F | %29
+w: fal- ling on the|mead- * ow\_\_\_\_\_\_\_||Where once my|love and I did|lie,~\_\_\_\_\_||Now she is|
+w: this cold ro- om|ly\-\-- * ing\_\_\_\_||Don't want to|see no one but|you,~\_\_\_\_||Lord, I wish|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"A7" G2 G F |"D" (D F) (D2 |"D" D4) |"Em7" D4 |"A7" E4 |"Em7" G4 |S"A7" (A3 A)!D.S.! ||3"D" (D4 || %37
+w: gone from the|mead- * ow,~\_\_\_\_\_||My|love,|good|bye. (to~Refrain~4)|me.~\_\_\_\_\_\_\_\_|
+w: I could be|dy\-\-\-- * ing~\_\_\_\_\_\_||To|for-|get|you. (to~Refrain~6)||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+ D3) z |] %38
+w: |
+w: |
+w: |
+w: |
+w: |
+V:2
+ x8 | x8 | x8 | x8 |: z4 D2 x2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 B B2 x | x8 | x8 | %16
+w: ||||||||||||||||
+w: ||||||||||||||||
+w: ||||||||||||||||
+w: |||||||||||||when day-|||
+w: |||||||||||||* birds|||
+ z4 F F F F | x8 |1 x8 || x8 :|2 x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %33
+w: |||||||||||||||||
+w: |||||||||||||||||
+w: This rib- bon of|||||||||||||||||
+w: |||||||||||||||||
+w: |||||||||||||||||
+ x8 | x8 | x8 ||3 x8 || x8 |] %38
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+

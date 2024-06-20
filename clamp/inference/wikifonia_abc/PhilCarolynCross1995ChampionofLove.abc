@@ -1,0 +1,40 @@
+X:1
+T:Champion of Love
+T:Champion of Love
+T:Phil & Carolyn Cross, 1995
+C:Phil & Carolyn Cross 1995
+Z:All Rights Reserved
+L:1/8
+Q:1/4=70
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 65
+V:1
+ z8 | z8 |"G" G2 GG G/E/ D2 D/D/ |"Am7/G" A2 AA A<D- D2 |"Gmaj7" z BBB BB B/A/G/A/ |"Am7/G" G6 z2 | %6
+w: ||La dies and gen tle men may I|have your at ten tion _|I want to in tro duce _ _ to|you|
+"G" G2 G2 G D2 D/D/ |"Am7/G" A2 A2 D3 z |"G" BB B>B B/A<GA/G |"Am/G" G6 z d | %10
+w: in this cor ner of the|good and right|stands the Cham pion robed _ _ in white|_ His|
+"D/F#" dddd d/A/ A2 D |"C/E" cc c>c c3 d |"D/F#" d2 dd (3dAA AB |[M:2/4]"C/E" cc cc | %14
+w: height ex ceeds the Hea _ vens His|weight out weighs the world His|reach reach es ev _ ery where His|age is ev er|
+[M:4/4]"Dsus4" d6 dd |"G" dd d>d"Bm7" d d2 z |"C" dd d>d"C/E" d3"D/F#" d | %17
+w: more He is|hi gher than the high est|great er than the great no|
+"G" d>d d>d"Bm7" dd B/A/G |"C" AG- G4 GG |"Am" AA"Em/G"Be"D/F#" d/A/ A2 A |[M:2/4]"G" B2 dd | %21
+w: one could ev er take His crown _ a|way _ _ He's more|might y than the might i est he|reigns from a|
+[M:4/4]"C" e8- | e6 ee |"G/D" d2 d2 dddd |"A7" BBBB"D7" BB _B/A/G |"G" G4-"C" G4- | %26
+w: bove|_ He's the|all time un dis put ed|un de feat ed Cham pi on _ of|Love _|
+"G" G3"C/D" z z4 |"G" G2 GG G/E/ D2 D/D/ |"Am7/G" A2 AA A<D- D2 |"Gmaj7" z BBB BB B/A/G/A/ | %30
+w: _|He left His home town _ to _|enter this a re na to|His hands in vic to ry _ _ for|
+"Am7/G" G6 z2 |"G" G2 G2 G D2 D/D/ |"Am7/G" A2 A2 (3DDD z z |"G" BB B>B B/A<GA/G |"Am/G" G6 z d | %35
+w: me|angry crowd cruci fied _ this|King who wore their crown|glad ly watch the Cham pi on go ing|down but|
+"D/F#" dddd d/A/ A2 D |"C/E" cc c>c c3 d |"D/F#" dddd (3dAA AB |[M:2/4]"C/E" cc cc | %39
+w: I will nev er count Him out for|I'm a wit ness of the|day He a rose to re tain the title|Cham pi on of|
+[M:4/4]"Dsus4" d6 dd |"G" dd d>d"Bm7" d d2 z |"C" dd d>d"C/E" d3"D/F#" d | %42
+w: Love He is|hi gher than the high est|great er than the great no|
+"G" d>d d>d"Bm7" dd B/A/G |"C" AG- G4 GG |"Am" AA"Em/G"Be"D/F#" d/A/ A2 A |[M:2/4]"G" B2 dd | %46
+w: one could ev er take His crown _ a|way _ _ He's more|might y than the might i est he|reighns from a|
+[M:4/4]"C" e8- | e6 ee |"G/D" d2 d2 dddd |[M:2/4] BB BB |[M:4/4] AG B4 D2 | d8- | d6 d2 | d8- | %54
+w: bove|_ He's the|all time un dis put ed|_ _ _ _|||||
+ d2 z2 z4 | !fermata!z8 | z8 | z8 | z8 |] %59
+w: |||||
+

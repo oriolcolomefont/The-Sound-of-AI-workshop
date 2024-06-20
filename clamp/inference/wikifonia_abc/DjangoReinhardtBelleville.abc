@@ -1,0 +1,23 @@
+X:1
+T:Belleville
+T:Belleville
+T:-Django Reinhart
+C:Django Reinhardt
+Z:Public Domain
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z/"D" d/ c"Fm7b5" =c B |"Em7" _B ^G/A/-"A7" A z | z/"D" d/ c"Fm7b5" =c B | %3
+"Em7" _B ^G/A/-"A7" A z | z/"D" d/ c"Fm7b5" =c B |"Em7" _B ^G/A/-"A7" A z |"D" D/D/ z/ D/ F A | %7
+ D z/ D/ z2 | z/"D" d/ c"Fm7b5" =c B |"Em7" _B ^G/A/-"A7" A z | z/"D" d/ c"Fm7b5" =c B | %11
+"Em7" _B ^G/A/-"A7" A z | z/"D" d/ c"Fm7b5" =c B |"Em7" _B ^G/A/-"A7" A z |"D" D/D/ z/ D/ F A | %15
+ D z/ D/ z2 | z/"Gm6" G3/2 _B d | e3/2 d/- d z |"D" z z/ =F/ ^F A/c/- | c2 z2 |"F#" c/c/c/c/- c z | %21
+"Gm7b5" c/c/c/c/- c z | z/"G#m7" c c/"C#7" B ^A |"F#" F2"A7" A2 | z/"D" d/ c"Fm7b5" =c B | %25
+"Em7" _B ^G/A/-"A7" A z | z/"D" d/ c"Fm7b5" =c B |"Em7" _B ^G/A/-"A7" A z | %28
+ z/"D" d/ c"Fm7b5" =c B |"Em7" _B ^G/A/-"A7" A z |"D" D/D/ z/ D/ F A | D z/ D/ z2 |] %32
+

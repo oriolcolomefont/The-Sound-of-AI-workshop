@@ -1,0 +1,27 @@
+X:1
+T:NIE KNIEZE, NIE ZEURE
+T: Laukens Music Productions  
+T:Wals
+T:NIE KNIEZE, NIE ZEURE
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G |"G7" [GB]3 | [GB]2 [FA] | [EG]2 [FA] | [EG]2 [DF] |"C" [CE]3 |"G7" [G,E]2 [F,D] |"C" [E,C]3- | %8
+ [E,C] z z |:"C" G,2 E | E2 D | D3 | C3 |"F" B,2 A, | A,2 ^G, | A,3- | A,3 |"G7" A,2 F | F2 E | %19
+ E3 | D3 |"C" D2 C | C2 E |"G7" G3- | G3 |"C" G,2 G | G2 F | F3 | E3 |"F" D2 c | c2 B | A3- | A3 | %33
+"C" G2 G | G2 G | A2 G | E2 C |"G7" E3 | D3 | D3- | D z G, ||"C" [E,C]3 |"G7" [G,D]2 [G,D] | %43
+"C" [CE]3 | [CE]2 [DF] | [EG]3 | [EG]2 [DF] | [CE]3- | [CE]2 [EG] | [Ec]3 | [EG]2 [EG] | %51
+ [FA]2 [EG] | [CE]2 [EG] |"G7" [DF]3 | [DF]2 [CE] | [B,D]3- | [B,D]2 G, | [B,D]3 | [CE]2 [CE] | %59
+ [DF]3 | [DF]2 [EG] | [DF]3 | [DF]2 [CE] | [B,D]3- | [B,D]2 G | [GB]3 | [GB]2 [FA] | [EG]2 [FA] | %68
+ [EG]2 [DF] |"C" [CE]3 |"G7" [G,E]2 [F,D] |"C" [E,C]3- | [E,C]!fine! z x :| %73
+

@@ -1,0 +1,26 @@
+X:1
+T:The Sidewalks Of New York
+T:The Sidewalks Of New York
+C:James W. Blake
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" A2 c |"C" G2 A |"F" F A2- | A3 |"Bb" F2 F | G F D |"F" F3- | F3 |"Bb" F2 F | (G F) D | %10
+w: Down in|front of|Cas- ey's|_|old brown|wood- * en|stoop|_|On a|sum- * mer's|
+"F" C F2- |"Dm7" F2 A |"G7" A2 G | D2 A |"C7" G3- | G3 |"F" A2 c |"C" G2 A |"F" F A2- | A3 | %20
+w: ev- 'ning|_ we|formed a|mer- ry|group.|_|Boys and|girls to-|geth- er|_|
+"Bb" F2 F | (G F) D |"F" F3- | F2 F |"Bb" F2 G | F2 D |"F" C F2 |"D7" B2 A |"G7" A2 G |"C7" D2 E | %30
+w: we would|sing * and|waltz|_ While|Ton- y|played the|or- gan|on the|side- walks|of New|
+"F" F3 |"C7" c/B/ A G |:"F" c3 | A3 |"C7" G3 |"F7" F3 |"Bb" G2 F |"C7" D2 E |"F" F3- | F2"F7" F | %40
+w: York.||East|side|West-|side|all a-|round the|town,|_ The|
+"Bb" F2 F | G F"Fdim" D |"F" C F2 |"D7" B2 A |"G7" A G2 | G2 D |"C7" G3- | G3 |"F" A2 c | %49
+w: tots sang|"ring- * a-|ro- sie",|"Lon- don|bridge is|fall- ing|down."|_|Boys and|
+"C7" G2 A |"F" F A2- |"F7""F+" A3 |"Bb" F2 F | G F D |"F" F3- |"F7" F3 |"Bb" F2 F | G F"Fdim" D | %58
+w: girls to-|geth- er,|_|Me and|Ma- mie O'-|Rorke,|_|Tripped the|light _ fan-|
+"F" C F2 |"D7" B2 A |"G7" A G2 |"Gm7" D2"C7" E |1"F" F3 ||"C+7" z3 :|2"F" F3- || F2 z |] %66
+w: tas- tic|on the|side- walks|of New|York||York.||
+

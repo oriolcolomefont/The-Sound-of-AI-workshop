@@ -1,0 +1,24 @@
+X:1
+T:Love Me Do
+T:Love me do
+T:John Lennon and Paul McCartney
+T:Country Swing
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" D2 D F |"C" G z z F |"G" D2 D F |"C" G z z F |"G" D2 D F |"C" G z z D | E2 D C | E4 | z2 G G | %9
+w: Love, love me|do you|know I love|you I'll|al- ways be|true, so|please * *||love me|
+"G" _B G3 |"C" z d c2 |1"G" _B G G2 |"C" z4 :|1"G" _B G G2 || z4 |:"D" A2 A G | ^F2 z2 | %17
+w: do *|whoa *|love me do||love me do||Some- one to|love|
+"C" g2 f d |"G" c/_B/ G z2 |"D" A2 A G | ^F2 z2 |"C" g2 f d |"G" G z z2 | D2 D F |"C" G z z D | %25
+w: some- bod- y|new * *|some- one to|love|some- one like|you|love love me|do you|
+"G" D2 D F | G z z F | D2 D F |"C" G z z D | E2 D C | E4 | z2 G G |"G" _B G3 |1"C" z d c2 | %34
+w: know I love|you I'll|al- ways be|true so|please * *||love me|do *|whoa *|
+"G" _B G G2 | z2 z2 :|2"C" z d c2 |"G" _B G G2- | G4 |] %39
+w: love me do||whoa *|love me do.||
+

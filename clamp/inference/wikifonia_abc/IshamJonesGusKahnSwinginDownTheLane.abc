@@ -1,0 +1,24 @@
+X:1
+T:Swingin' Down The Lane
+T:Swingin' Down The Lane
+C:Isham Jones
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 FGAF |"F" D4"F+" _D4 |"F" C2 z2"G7" =B,=DFG |"G9" A8- | A2 z2 GAdA |"C7" G4"C7b5" _G4 | %6
+w: Ev- 'ry- bod- y|hand in|hand, Swnig- in' down the|lane,|_ Ev- 'ry- bod- y|feel- in'|
+"Gm7" F4"C7" E=GBc |"F""C+" d8- |"F" d2 z2 ABc^c |"D" d4"C" =c4 |"D+7" B4"D7" ABcd |"G9" A8- | %12
+w: grand, Swing- in' down the|lane,|_ That's the time I|miss the|bliss that we might have|known,|
+ A2 z2 z4 |"G" G4"D7" ^F4 |"G7" =F4 EFGE |"C9" D8- | D2 z2 FGAF |"F" D4"F+" _D4 | %18
+w: _|Nights like|this when I'm all a-|lone;|_ when the moon is|on the|
+"F" C2 z2"G7" =B,=DFG |"G9" A8- | A2 z2 GAdA |"C7" G4"C7b5" _G4 |"Gm7" F4"C7" E=GBc |"F""C+" d8- | %24
+w: rise, Hon- ey, I'm so|blue,|_ Watsh- in' lov- ers|mak- in'|eyes, Like we used to|do,|
+"F" d2 z2 ABcd |"Cm6" _e4"D7" d4 |"Cm6" c4"D+" BcdB |"A" A4"A7" G4 |"Dm" F2 z2 FGAF | %29
+w: _ When the moon is|on the|wane still I'm wait- in'|all in|vain, Should be swing- in'|
+"Gm" D4"Bbm6" _D4 |"C7" C4 A4 |1"F" F8- || F2 z2 FGAF :|2"F" F8- || F4 z4 |] %35
+w: down the|lane with|you|_ Ev- 'ry- bod- y|you.|_|
+

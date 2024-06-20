@@ -1,0 +1,24 @@
+X:1
+T:Someday
+T:Someday
+T:(You'll want me to want you)
+T:Jimmie Hodges
+C:Jimmie Hodges
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z G A B |"C" d c2 B | d c2 B |"G7" A G3- | G G A B |"C" c3 d |"C7" e2 d e |"F" A4- | A2 ^G A | %9
+w: I know that|some- day you'll|want me to|want you|* when I'm in|love with|some- bod- y|else|* you ex|
+"G7" c B B ^A | B3 G |"C" d c c B | c3 A |"D7" e d d ^c | d3 A |"G7" c B d B | A G A B | %17
+w: pect me to be|true and|keep on lov- ing|you thought|I am feel- ing|blue you|think I cant for-|get you un- til|
+"C" d c2 B | d c2 B |"G7" A G3- | G G A B |"C" c3 d |"C7" e2 d e |"F" A4- |"A7" A3 A | %25
+w: some- day you'll|want me to|want you|* when I am|strong for|some- bod- y|new|* and|
+"Dm" f e/f/ e d |"Fm" f4 |"C" e d/e/ d c |"A7" B A ^G A |"D7" d4 |"G7" e4 |"C" c4- | c2 z2 | z4 | %34
+w: though you dont want me|now|I'll get a- long some|how and then I|wont|want|you.|||
+ z4 |] %35
+w: |
+

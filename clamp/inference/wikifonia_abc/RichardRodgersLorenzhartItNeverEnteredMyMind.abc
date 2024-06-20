@@ -1,0 +1,30 @@
+X:1
+T:It Never Entered My Mind
+T:It Never Entered My Mind
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"F" A2 A2"Am" A2 A2 |"F" z3/2 A<GF/"Am" E2 E2 |"F" z3/2 F<ED/"Am" C2 C2 |"F" F2 EC-"Am" C4 | %4
+w: Once I laughed when|I heard you say- ing|that I'd be play- ing|sol- i- taire, *|
+"F" z3/2 F<ED/"Am" C2 C2 |"F" F2 EC-"Am" C4 |"Gm7" z3/2 D<FG/ AFAG- |"Gm""Eb7/G" G6"C7" z2 | %8
+w: un- eas- y in my|eas- y chair, *|It nev- er en- tered my mind.||
+"F" A2 A2"Am" A2 A2 |"F" z3/2 A<GF/"Am" E2 E2 |"F" z3/2 F<ED/"Am" C2 C2 |"F" F2 EC-"Am" C4 | %12
+w: Once you told me|I was mis- tak- en|that I'd a- wak- en|with the sun *|
+"F" z3/2 F<ED/"Am" C2 C2 |"F" F2 EC-"Am" C4 |"Gm7" z3/2 D<FG/ AFAc- |"Am" c6"C7" z2 | %16
+w: and or- der or- ange|juice for one, *|it nev- er ent- ered my mind.||
+"F" d4"F6" F2"Gm7" F2- | F6"C7" E2 |"Fmaj7" G4"F6" F2"Gm7" F2- | F4 z2"C7" E2 |"F6" A A3"C7" B B3 | %21
+w: You have what|* I|lack my- self,|* and|now I ev- en|
+"F" c c3"Bdim7" d d3 |"C7" e4"Bb" c2"Am" c2- |"Bb" c6"Am7""C7" z2 |"F" A2 A2"Am" A2 A2 | %25
+w: have to scratch my|back my- self.||Once you warned me|
+"F" z3/2 A<GF/"Am" E2 E2 |"F" z3/2 F<ED/"Am" C2 C2 |"F" F2 EC-"Am" C4 |"F" z3/2 F<ED/"Am" C2 C2 | %29
+w: that if you scorned me|I'd sing the maid- en's|pray'r a- gain, *|and wish that you were|
+"Am7b5" c2 BA-"D7" A4 |"Gm7" z3/2 B<AG/"C7sus4" F2"C7" E2 |"F" A2"Fmaj7" EE- E4 | %32
+w: there a- gain *|to get in- to my|hair a- gain *|
+"Gm7" z3/2 D<FG/ AF"C7"GF- |1"F6""G7" F4"C7" z4 :|2"F6" F6 z2 |] %35
+w: It nev- er en- tered my mind,||mind,|
+

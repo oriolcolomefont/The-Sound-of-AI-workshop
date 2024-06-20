@@ -1,0 +1,25 @@
+X:1
+T:Semper Fidelis
+T:Semper Fidelis
+C:John  Phillip Sousa
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" A z z"Gdim" g2 e/^c/ |"G" d2 B G2 z | G z z"Gdim" g2 e/^c/ |"G" d2 B G2 A | B2 c d2 e | %5
+ f2 e d2 c | B2 c B2 A | G z ^F G2 A |:"G7" B2 z B3- | BAG FGA |"C" E z E A z A | G z G E z E | %12
+"G7" F z F c z c | B z B A z A |"C" G z G e z e |"G7" d z d"C" c z c |"G7" B2 z B3- | BAG FGA | %18
+"C" E z E A z A | G z G"C#dim" E z E |"G" DB,D GDG | BGA Bc^c |"D7" d z E DCA, |1 %23
+"G" G, z ^F G2 A :|2"G" G,GA Bcd |:"C" e3 g3 |"F" A3"G7" B3 |"C" d2 c c3- | cce cec | %29
+"G6" B2 f f3- | fBd BdB |"C" c2 e e3- | eGA"G7" Bcd |"C" e3 g3 |"F" A3"E7" B3 |"Am" d2 c c3- | %36
+"Ab7" ccB cd^d |"C" ege cec | G6- |"G" G2 A B2 G |1"C" cGA Bcd :|2[K:F]"C" c2 z"C7" C3 ||"F" A6- | %43
+ AFA c2 A | c6 | A6 | F6- | FCF A2 F |"C7" C6- | C3 c3 |"F" A6- | AFA c2 A | c6 | A6 | C6- | %55
+ CFA"C7" c2 C |"F" F6- | F2 A c2 f |:"C7" e3 d3 | D3 E3 |"F" A2 G F3- | F2 A c2 f |"C7" e2 d B3- | %63
+ B2 G B2 e |"F" d2 c A3- | A2 A c2 f |"C7" e3 d3 | D3 E3 |"F" A2 G F3- |"Db7" F3 F2 G | %70
+"F" A2 f A3- | A2 B"C7" G2 A |1"F" F6- | F2 A c2 f :|2"F" F6- | F z z4 |] %76
+

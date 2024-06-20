@@ -1,0 +1,39 @@
+X:1
+T:This Is Me
+C:Julie Brown, Karen Gist, Paul Brown, Regina Hicks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am" z4"F" z4 |[M:4/4]"G" z4 z2 z/ A/c/d/ |:"Am" ee/e/- e/cc/-"F" c2 z3/2 A/ | %3
+w: |I've al- ways|been the kind * of girl * that|
+"G" c>c- cd- d2 z c/d/ |"Am" ee/e/- e/c(c/-"F" c/B/A- A2) |"G" c/cc/- c/GG/- G2 z c/d/ | %6
+w: hid my * face * So a-|fraid to tell * the world * * * *|what I've got * to say * But I|
+"Am" e>c- cf-"F" f/e/d z3/2 G/ |"C" c/de/- e/fd/-"G" d2 z/ c/c/d/ |"Am" e>f- fc-"F" c2 fc- | %9
+w: have this * dream * * * *|bright in- side * of me * I'm gon- na|let it * show * It's time|
+"C" c2 z3/2 A/"G" c>d- dc- |"F" c2 z2 z c/c/ ef |"G" d4 z2 c<a |"C" g2 c<a"F" g2 c/gg/- | %13
+w: * to let you * know|* * to let you|know This is|real this is me I'm ex- act-|
+"Dm" g/fe/- e/dc/"Am" cd/(e/- e/d)c/- |"F" cc/c/ gg/g/-"C" g2 z c |"G" c'>b- bg- g2 c<a | %16
+w: * ly where * I'm sup- posed to be * * now|* Gon- na let the light, * *|shine on * me * Now I've|
+"Am" g2 c<g c2 ef |"C" gf/e/- e(d/c/)"G" d2 z2 |"Dm" efef ed cd/(e/- |1"F" e2- e<d)"G" z2 c<B | %20
+w: found who I am There's no|way to hold * * it in|No more hi- ding who I want to be|* * * This is|
+"Am" c4"F" z4 |"G" z4 z2 z c/d/ :|2"F" f2- f<d"G" z2 c<a ||"C""F" g8 |"C" z4"F" z2 cd/e/- | %25
+w: me|Do you|* * * This is|me|You're the voice|
+ ed/e/- ed/e/- ed/c/- c>e |"G" edcd ed c/c/d/e/- |"F" e>d- d2- d2 cd/e/- |"G" e>d- d2- d2"Am" z2 | %29
+w: * I hear * in- side * my head * The|rea- son that I'm sing ing I need to find|* you * * got- ta find|* you * *|
+"F" ed/e/- ed/e/- ed/c/- cd/e/- |"G" ed/c/- cd/e/-"Am" e2 c/c/d/e/- |"G" e>d- d2- d2 cc/c/- | %32
+w: You're the mis- * sing piece * I need, * The song|* in- side * of me * I need to find|* you * * got- ta find|
+"Em" cB- B2 z2 c/ag/- |"C" g2 c'/bg/-"F" g2 c/gg/- |"Dm" g/fe/- e/dc/"Am" cd/e/- e/dc/- | %35
+w: * you * This is real|* This is me * I'm ex- ac-|* tly where * I'm sup- posed to be * * Now|
+"F" cc/c/ gg/g/-"C" g2 z c |"G" c'>b- bg- g2 c<a |"Am" g2 c<g c2 ef |"C" gf/e/- e(d/c/)"G" d2 z2 | %39
+w: * gon- na let the light, * *|Shine on * me * Now I've|found who I am There's no|way to hold * * it in|
+"Dm" efef edcd/e/- |"F" e2- e<d"G" z2 c/ag/- |"F" gd/e/- ed/e/- ed/c/- cd/e/- | %42
+w: No more hi- ding who I want to be|* * * This is me|* the mis- * sing piece * I need * The song|
+"G" ed/c/- cd/e/- e2 cd/e/- |"F" ed/e/- ed/e/- ed/c/- cd/e/ |"G" ed/c/- cd/e/-"Am" e2 c/gc/- | %45
+w: * in- side * of me * You're the voice|* I hear * in- side * my head * the rea-|son- that I'm * sing- ging * Now I've found|
+"F" c2 c/gc/-"C" c2 ef |"G" gf/e/- ed/c/ d4 |"F" efef edcd/(e/- |"C" e3"G" d- d2) c/ag/- | g8 |] %50
+w: * who I am * There's no|way to hold * * in it|No more hid- ding who I want to be|* * * This is me||
+

@@ -1,0 +1,24 @@
+X:1
+T:Blue Bayou
+T:Blue Bayou
+C:Joe Melson, Roy Orbison
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 F2 |:"F" C2 DE- EEFD | E3 E D4 | z2 CD E2 F2 |"C7" z2 EE D4 | z2 CD E2 F2 | EDED- D2 (EC) | %7
+w: I|feel so bad * I got a|wor- ried mind|I'm so lone- some|all the time|since I left my|ba- by be- hind * on *|
+"F" F2 FC- C4- |"C7" C8 |"F" C2 D2 E F3 | z2 EE D4 |"C7" z2 CD E2 F2 | E2 ED D4 | z2 CD E F2 D | %14
+w: Blue Bay- * ou.||Sav- ing nick- les,|sav- ing dimes,|work- ing 'til the|sun don't * shine|look- ing for- ward to|
+ EDED- D2 EC |"F" F2 FF- F4 |"Eb" z4"F" z f ff | f e2 e- e4 | f e2 e- e2 d2 |"C7" e2 d2 B4- | %20
+w: hap- pi- er times * on *|Blue Bay- ou! *|I'm go- ing|back some day, *|come what may * to|Blue Bay- ou|
+ B6 ff | f e2 e- e2 de | f e2 e- e2 d2 |"F" e2 d2 A4- | A6 ef | g f2 f- f2 ef |"F+" g2 ff- f3 f | %27
+w: * where you|sleep all day * and the|cat- fish play * on|Blue Bay ou.|* All those|fish- ing boats * with their|sails a- float * if|
+"Bb" g3 f d2 B2 |"Bbm" G6 Bc |"F" dcdc- c3 d |"C7" d d2 c- c2 A2 |"F" GFFF- F4- | F6 z2 :| %33
+w: I could on ly|see that fa-|mil- iar- sun- rise * through|sleep- y eyes * how|hap- py I'd be. *||
+"F" GFFF- F4- | F6 d2 |"C7" dcdc- c2 c2 | dcdc- c4 |[M:2/4] z2 c2 |[M:4/4] d8 | e8 |"F" f8- | f8 |] %42
+w: hurt- in' in- side *|* I'll|nev- er be blue, * my|dre- ams come true *|on|Blue|Bay-|ou-||
+

@@ -1,0 +1,21 @@
+X:1
+T:This Little Light of Mine
+T:This Little Light of Mine
+T:Harry Dixon Loes
+C:Harry Dixon Loes
+Z:Public Domain
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" D2 ED G A2 G- | G8 | B2 B^A B =A2 G- |"G""G7" G8 |"C" E2 GG G A2 G- | G8 | G2 GE G E2 D- | %7
+w: This lit- tle light of mine,||I'm gon- na let it shine.||This lit- tle light of mine,||I'm gon- na let it shine.|
+"G" D8 | D2 ED G A2 G- | G8 |"B7" B2 B^A B =A2"Em" G- | G4 G A3 |"G" B4 c B3 |"D7" A4 B A3 | %14
+w: |This lit- tle light of mine,||I'm gon- na let it shine.|* Let it|shine, Let it|shine, Let it|
+"G" G8 |] %15
+w: shine.|
+

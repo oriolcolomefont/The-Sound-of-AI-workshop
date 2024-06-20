@@ -1,0 +1,30 @@
+X:1
+T:Just Like A Butterfly That's Caught In The Rain
+T:Just Like A Butterfly That's Caught In The Rain
+C:Harry Woods
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Fmaj7" F/G/ F"Abdim7" F E |"Gm7" (G/A/) G"Abm7b5" G"D7" ^F | A/B/ A"Gm7" A G |"Bbm7""Eb7" B4 | %4
+w: Here I am lone- ly,|tired _ and lone- ly|cry- ing for home in|vain,|
+"Fmaj7" =B c2 e |"Bbmaj7" ^c/d/"Bdim7" _B2 D |"Gm7" B"C7" A2 ^G |"Fmaj7""Gm7""C7" A4 || %8
+w: just like a|but- ter- fly that's|caught in the|rain.|
+"Fmaj7" F/G/ F"Abdim7" F E |"Gm7" G/A/ G"Abm7b5" G"D7" ^F | A/B/ A"Gm7" A G |"Bbm7""Eb7" B4 | %12
+w: Long- ing for flow- ers,|dream- ing of hours _|back in that sun- kissed|lane,|
+"Fmaj7" =B c2 e |"Bbmaj7" ^c/d/"Bdim7" _B2 D |"Gm7" B"C7" A2 G |"Fmaj7" F F G ^G | %16
+w: just like a|but- ter- fly that's|caught in the|rain. I know that|
+"A7" A B/A/ ^G A | B A ^G A |"D7" d2 A/ ^G A/- | A4 ||"G7" G/A/ G ^F G | A G ^F G | %22
+w: all of the world is|cheer- y by that|old cot- tage door.|_|Why are my wings so|wear- y? I can't|
+"C7" d2 A/ _A G/- | G4 ||"Fmaj7" F/G/ F"Abdim7" F E |"Gm7" G/A/ G"Am7b5" G"D7" ^F | %26
+w: fly an- y- more.|_|Here I am pray- ing|bro- ken- ly say- ing,|
+ A/B/ A"Gm7" A G |"Abdim7" d4 |"Fmaj7" =B c2 e |"Bbmaj7" ^c/d/"Bdim7" _B2 D |"Gm7" B"C7" A2 G |1 %31
+w: "Give me the sun a-|gain,"|just like a|but- ter- fly that's|caught in the|
+"Fmaj7""Gm7" F3"C7" z :|2"Fmaj7" F3 z |] %33
+w: rain.|rain.|
+

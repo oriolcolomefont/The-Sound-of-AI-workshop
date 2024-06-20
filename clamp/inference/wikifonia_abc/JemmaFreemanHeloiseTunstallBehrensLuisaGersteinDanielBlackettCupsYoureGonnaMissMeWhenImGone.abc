@@ -1,0 +1,47 @@
+X:1
+T:Cups (You're Gonna Miss Me When I'm Gone)
+C:Jemma Freeman, Heloise Tunstall-Behrens, Luisa Gerstein, Daniel Blackett
+Z:All Rights Reserved
+L:1/8
+Q:1/4=128
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"^www.notonly.ru""Am" aa f/f/f aA f2 | afff AA F2 |"Am" cGAE GDEC |"C" cGAE GDEC |"F" cGAE GDEC | %5
+w: |||||
+"C" cGAE GDEC |"C" z EED EDED |"Cpower" (_ED)CC- C4 |"Am" z A A/A/G/A/-"G" AGAG |"C" E4 z2 EG | %10
+w: |I got my tick- et for the|long * way 'round. *|two bot- tle of whis- _ key for the|way. And I|
+"F" A2 A2"G" A2 G2 |"Am" G(_ED)C (A,G,)CD |"G" E E2 E D<D _E/E/D |"C" C4 z2 C<B, || %14
+w: sure would like some|sweet com- * pa- ny, _ And I'm|leav in' to- mor- row, what d' ya|say? When I'm|
+"Am" A,4 z2 C<C |"C" (C3 D ED C2) |"F" z A AG/A/- AG A<G |"C" G4 z2 EF/G/ |"Am" AAAG (_ED)DC/C/ | %19
+w: gone. When I'm|gone. _ _ _ _|You're gon- na * miss me when I'm|gone. You're gon- na|miss me by my hair. _ You're gon- na|
+"F" CCCD (ED) C2 |"D" z E E/E/D-"G" DDE<D |"C" C6 C<B, |"Am" A,4 z2 C<C |"C" (C3 D ED C2) | %24
+w: miss me ev- 'ry where. _ Oh.|You're gon- na miss * me when I'm|gone.~gone. When I'm|gone. When I'm|gone. _ _ _ _|
+"F" z A AG/A/- AG A<G |"G" G4 z2 EF/G/ |"Am" AAAG (_ED)DC/C/ |"F" CCCD (ED) C2 | %28
+w: You're gon- na * miss me when I'm|gone. You're gon- na|miss me by my hair. _ You're gon- na|miss me ev- 'ry where. _ Oh.|
+"G" z E E/E/D- DDE<D |"C" C8 |"Am" cGAE GDEC |"C" cGAE GDEC |"F" cGAE GDEC |"C" cGAE GDEC | %34
+w: You're gon- na miss * me when I'm|gone.~gone.|||||
+"C" z DED EEED | E2 G2 G4 |"Am" z A AA/G/ A/A/A- AG |"C" G4 z2 EG |"F" AAAG EDCC | %39
+w: I've got my tick- et for the|long way 'round,|the one with the pret- ti- est * of|views. It`s got|moun- tains, it`s got riv- ers, it`s got|
+"Am" C>C CD E<D CD |"G" (3E2 E2 E2 D/D/ E2 D |"C" C4 z2 C<B, ||"Am" A,4 z2 C<C |"C" (CDCE- E4) | %44
+w: sights to give you shiv- ers but it|sure would be pret- ti- er with|you. When I'm|gone. When I'm|gone. _ _ _ _|
+"F" z A AG/A/- AG A<G |"C" (G3 A G2) EF/G/ |"Am" AAAG (_ED)DC/C/ |"F" CCCD (ED) C2 | %48
+w: You're gon- na * miss me when I'm|gone. * * You're gon- na|miss me by my talk, * You're gon- na|miss me by my talk. * Oh,|
+"G" z E E/E/D- DDE<D |"C" C8 |"Am" aa f/f/f aA f2 | afff AA F2 | aa f/f/f aA f2 | afff AA F2 | %54
+w: You're gon- na miss * me when I'm|gone.|||||
+ aa f/f/f aA f2 | afff AA F2 | aa f/f/f aA f2 | afff AA F2 | aa f/f/f aA f2 | afff AA F2 | %60
+w: ||||||
+ aa f/f/f aA f2 | afff AA F2 | aa f/f/f aA f2 | afff AA F2 | AAAA AAAA | AAAA A z C<B, | %66
+w: |||||* * * * * When I'm|
+"Am" A,4 z2 C<C |"C" (CDCE- E4) |"F" z A AG/A/- AG A<G |"C" (G3 A G) z EF/G/ | %70
+w: gone. When I'm|gone. _ _ _ _|You're gon- na * miss me when I'm|gone. * * You're gon- na|
+"Am" AAAG (_ED)DC/C/ |"F" CCCD (ED C2) |"G" z E E/E/D- DDE<D |"C" C6 C<B, |"Am" A,4 z2 C<C | %75
+w: miss me by my hair. * You're gon- na|miss me ev- 'ry- where. * *|You're gon- na miss * me when I'm|gone.~gone. When I'm|gone. When I'm|
+"C" (C3 D ED C2) |"F" z A AG/A/- AG A<G |"C" G4 z2 EF/G/ |"Am" AAAG (_ED)DC/C/ |"F" CCCD (ED) C2 | %80
+w: gone. _ _ _ _|You're gon- na * miss me when I'm|gone. You're gon- na|miss me by my walk. _ You're gon- na|miss me by my talk. * Oh.|
+"G" z E E/E/D- DDE<D |"C" C8 |] %82
+w: You're gon- na miss * me when I'm|gone.~gone.|
+

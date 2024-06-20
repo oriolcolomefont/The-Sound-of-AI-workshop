@@ -1,0 +1,34 @@
+X:1
+T:Holy God, We Praise Thy Name
+T:Holy God, We Praise Thy Name
+C:Traditional Catholic
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" E2 E | (E D) E |"Bb7" (F G) F |"Eb" E3 | G2 G | (G F) E |"Bb7" (B A)"Eb" G | G"Bb" F2 | %8
+w: 1.~Ho- ly|God _ we|praise _ Thy|name.|Lord of|all _ we|bow _ be-|fore Thee;|
+w: 2.~Hark the|loud _ ce-|les- * tial|hymn,|an- gel|choirs _ a-|bove _ are|rais- ing;|
+w: 3.~Ho- ly|Fath- * er,|Ho- * ly|Son,|Ho- ly|Spi- * it,|Three _ we|name Thee;|
+"Eb" E2 E | (E D) E |"Bb7" (F G) F |"Eb" E3 | G2 G | (G F) E |"Bb7" (B A)"Eb" G | G"Bb7" F2 | %16
+w: All on|earth _ Thy|scep- * ter|claims,|All in|heav'n _ a-|bove * a-|dore Thee,|
+w: Cher- u-|bim _ and|ser- * a-|phim|in un|ceas- * ing|cho- * rus|prais- ing:|
+w: While in|es- * cense|on- * ly|one,|un- di-|vi- * ded|God _ we|claim Thee,|
+ F2"Eb" (G/B/) |"Bb7" (A"Eb" G)"Bb7" F |"Eb" G2"Ab" (A/c/) |"Eb" B3 |"Ab" c2 c | %21
+w: In- fi- *|nite * Thy|vast do- *|main,|Ev- er|
+w: Fill the _|heav'ns _ with|sweet ac- *|cord:|Ho- ly,|
+w: And a- *|dor- * ing|bend the _|knee,|while we|
+"Eb" (B"Bb7" A)"Eb" G |"Ab" (A"Eb" G)"Bb7" F |"Eb" E3 |"Bb" F2"Eb" (G/B/) |"Bb7" (A"Eb" G)"Bb" F | %26
+w: last- * ing|is _ Thy|reign.|In- fi- *|nite _ Thy|
+w: ho- * ly,|ho- * ly|Lord.|Fill the _|heav'ns _ with|
+w: sing _ our|praise _ to|Thee.|And a- *|dor- * ing|
+"Eb" G2"Ab" (A/c/) |"Eb" B3 |"Ab" c2 c |"Eb" (B"Bb7" A)"Eb" G |"Ab" (A"Eb" G)"Bb7" F |"Eb" E3 |] %32
+w: vast do- *|main,|Ev- er-|last- * ing|is _ Thy|reign.|
+w: sweet ac- *|cord:|Ho- ly,|ho- * ly,|ho- * ly|Lord|
+w: bend the _|knee,|while we|sing _ our|praise _ to|Thee.|
+

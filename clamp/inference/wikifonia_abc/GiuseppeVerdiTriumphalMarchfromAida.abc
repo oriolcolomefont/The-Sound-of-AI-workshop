@@ -1,0 +1,27 @@
+X:1
+T:March from "Aida"
+T:March from "Aida"
+T:Giuseppe Verdi
+C:Guiseppe Verdi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z4 z2 D2 | G6"D7" (3ADA |"G" B2 B2 B2 (3BcG |"D7" B3 A"G" G2 z2 |"D7" ABB>A"G" G z"D" A>B | %5
+"G" B2"D" A>B"Bm" B2"Em" G>A |"A7" A2 (3EEE"D7sus4" E2"D" F2 |"G" G6"D7" (3ADA | %8
+"G" B2 B2 B2 (3BcG |"D7" B3 A"G" G2 z2 |"D7" ABB>A"G" G z"D" A>B |"G" B2"D" A>B"Bm" B2"D7" (3ABA | %12
+"G" G2 z2 z2 (3GDG |"D" A>D D4"Gm" (3GDG |"D" A>D D4"Gm" (3GDG |"D" A>d d2-"A7" d>A A2- | %16
+"D" A>DD>D"G" D>D"D7"D>D |"G" G6"D7" (3ADA |"G" B2 B2 B2 (3BcG |"D7" B3 A"G" G2 z2 | %20
+"D7" ABB>A"G" G z"D" A>B |"G" B2"D" A>B"Bm" B2"D7" (3ABA |"G" G z z2 z2"F7" F2 || %23
+[K:Bb]"Bb" B6"F7" (3cFc |"Bb" d2 d2 d2 (3deB |"F7" d3 c"Bb" B2 z2 |"F7" cdd>c"Bb" B z"F" c>d | %27
+"Bb" d2"F" c>d"Dm" d2"Gm" B>c |"C7" c2 (3GGG"F7" G2 A2 |"Bb" B6"F7" (3cFc |"Bb" d2 d2 d2 (3deB | %31
+"F7" d3 c"Bb" B2 z2 |"F7" cdd>c"Bb" B z"F" c>d |"Bb" d2"F" c>d"Dm" d2"F7" (3cdc | %34
+"Bb" B z z2 z2 (3DDD ||[K:G]"D" A>D"Gm" D4 (3GDG |"D" A>D"Gm" D4 (3GDG |"D" A>d d2-"A7" d>A A2- | %38
+"D" A>DD>D"G" D>D"D7"D>D |"G" G6"D7" (3ADA |"G" B2 B2 B2 (3BcG |"D7" B3 A"G" G2 z2 | %42
+"D7" ABB>A"G" G2"D" A>B |"G" B2"D" A>B"Bm" B2"D7" (3ABA |"G" G2 d2 g2 z2 |] %45
+

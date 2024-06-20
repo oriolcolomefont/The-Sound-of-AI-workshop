@@ -1,0 +1,21 @@
+X:1
+T:Jöjj hozzám
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=80
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"C" z2 cB | G4- | G z c>B |"Em" G4 | z2 z E/G/ |"Dm" G/-GF/- F z |"F" FF EF/D/- |"G" D4 :| %8
+w: Jöjj hoz-|zám,|_ légy ve-|lem,|ö- rök|bé- kéd, _ _|bé- kéd add ne- kem!|_|
+ z"C" E/E/ EC/G/- | G<G z2 |"Em" EG GE/G/- | G2 z G/G/ |"Dm" G/FFzE/ | ED/DzE/ |"F" F<F F/E/F/D/- | %15
+w: Sze- re- tet- re vá-|gyom, _|kell egy hû ba- rát,|_ a- ki|ve- lem van és|nem hagy el a|ne- héz na- po- kon át.|
+"G" D2 z2 |"C" G/GGzE/ | GG/G/- G z |"Em" E/GGz/E/G/- | G z z2 |"Dm" GF/F/- FE | ED/D/ z D | %22
+w: _|Ne félj hát, Õ|meg- se- gít, _|fi- gyel- jed sza- vát,|_|tedd ke- zé- * be|é- le- ted, a|
+"F" FF EF/D/- |"G" D2 z2 |] %24
+w: bé- két add to- vább!|_|
+

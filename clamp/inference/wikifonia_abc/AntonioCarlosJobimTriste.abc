@@ -1,0 +1,30 @@
+X:1
+T:Triste
+T:Triste
+T:Antonio Carlos Jobim
+T:Antonio Carlos Jobim
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z"Bb" B- B A2 B |"Bbmaj7" A2 GD- D E2"Gbmaj7" F- | F8- |"B7" F8 |"Bb" z2 z B- B A2 B | %5
+w: Sad * is to|live in so- * li- tude.|||Far * from your|
+"Bbmaj7" A2 GD- D E2"Dm7" F- | F8- |"G7b9" F8 |"Cm7" z2 z G F G2 F- | %9
+w: tran- quil a- * ti- tude.|||Sad is to know|
+"Am7" F E2"D7" D- D A,2"Gm7" C- | CA,B,D F A2"A+7" c- | c4 z B2"Dmaj7" ^c- | cAAA- A4 | %13
+w: * that no * one e-|* ver can live on a dream.|* That ne-|* ver can be, *|
+"Em7" A^FF"A7"F- F3"Dm7" =E- | EDD"G7"D- D2"Cm7" G2- | GFF"F7"F- F4 |"Bb" z2 z B- B A2 B | %17
+w: will ne- ver be. * Dream-|* er a- wake. * Wake-|* up and see. *|Your * beau- ty|
+"Bbmaj7" A2 GD- D E2"Bbm7" F- | F8- |"Eb7" F8 | z2 z"Bb" B- B A2 B |"Bbmaj7" A2 GD- D E2 F- | %22
+w: is an aer- * o- plane.|||So * high my|heart can't bear * the strain.|
+"Fm7" F8- |"Bb7" F8 |"Ebmaj7" z BB,C D E2"Ab7" F- | F =E2 _E- E2"Dm7" F2- | %26
+w: ||A heart that stops when you|* pass by * on-|
+ F2 ED"Gm7" C B,2"C7" C- | C8 |"Cm7" z2 z E- E D2 E | C2 D"F7"B,- B, C2 B,- |"Bbm7" B,8- | %31
+w: * ly to cause me pain.||Sad * is to|live in so- * li- tude.||
+"Eb7" B,8- |"Bbm7" B,8- |"Bb" B,8 |] %34
+w: |||
+

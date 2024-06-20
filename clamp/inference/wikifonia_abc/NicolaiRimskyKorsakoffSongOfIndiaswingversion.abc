@@ -1,0 +1,25 @@
+X:1
+T:Song Of India (swing version)
+C:Nicolai Rimsky-Korsakoff
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:4/4
+K:F
+V:1 treble transpose=-12 nm="Guitar"
+%%MIDI program 25
+V:1
+"F" z8 | z2 A2 c2 A2 | A6 G2 |"F+" G2 F2 F2 D2 |"Dm" F8 | z2 F2"F+" A2 F2 |"Dm" F6 D2 | %7
+"F7" D2 C2 C2 D2 |"Bb" D8 | z2 D2 F2 G2 | D8- | D2"Bbm" F2 G2 F2 |"F" A8- | A2 z2 z4 | %14
+ z2 A2 c2 A2 | A6 G2 |"F+" G2 F2 F2 D2 |"Dm" F8- | F2 F2 A2 F2 | F6 D2 |"F7" D2 C2 C2 D2 |"Bb" D8 | %22
+ z2 D2 F2 G2 | D8- | D2"Bbm" F2 G2 F2 |"F" A8 | A8 | c8- | c4 c_cBA |"Fm" c8- | c4 cBA_A |"F" c8- | %32
+ c4 _c2 B2 | A8- | A4 z4 | A8- | A4 AG_GF |"Fm" _A8- | A4 AG_GF |"F" A4 c4 | A4 G2 _G2 | F8 | %42
+ c4 z4 | c'8- | c'4 c'_c'ba |"Fm" c'8- | c'4 c'ba_a |"F" c'8- | c'4 _c'2 b2 | a8- | a4 z4 | a8- | %52
+ a4 ag_gf |"Fm" _a8- | a4 _ag_gf |"F" a8- | a4 g2 _g2 | f8- | f4 z4 | E8- |"C7" E^FGA Bcdc | d8 | %62
+ dcBA GABc | d8 | z cBA GABc | d8- | d4 z4 |"Bbdim" E8 | EFGA Bc_dc | _d8 | _dcBA GABc | _d8 | %72
+ z cBA GABc | _d8- | d4 z4 |"Dm" f8- | f4 fe_ed |"Bbm" f8- | f4 f_ed_d |"F" f8- | f8 | c8- | c8 | %83
+"Bb" d8- | d4 dc_cB |"Dbm" _d8- | d4 _dc_cB |"F" c8- | c8 | A8- | A8 |"Fm" c8- | c4 c_cBA | %93
+"C7" c8- | c4 cBA_A |"F" c8- | c8 | A8- | A8 |"Fm" c8- | c4 cBA_A |"C7" B8- | B4 BA_AG |"F" A8- | %104
+ A8 | F8 | z2 A2 c2 A2 | A6 G2 |"F+" G2 F2"Dm" F2 D2 | F8- | F2 F2 A2 F2 |"F7" F6 D2 | %112
+ D2 C2 C2 D2 |"Bb" D8- | D2 D2 F2 G2 | D8- | D4 F4 |"Bbm" G8- | G4 A4 |"F" F8- | F8 |] %121
+

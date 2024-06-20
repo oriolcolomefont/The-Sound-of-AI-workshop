@@ -1,0 +1,33 @@
+X:1
+T:She Reminds Me Of You
+T:She Reminds Me Of You
+T:Mack Gordon & Harry Revel
+C:Mack Gordon and Harry Revel
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z E |:"Dm7" G ^F2 =F- F3 C |"G7" E ^D2 =D- D3 E |"C" G>GA>A"E7" BBc>c |"F" d c2 D-"Fm" D2 EF | %5
+w: She|walks like you, * She|talks like you, * says|pret- ty lit- tle things * just the|way you do' * so I|
+w: |pouts like you, * she|doubts like you, * *|al- ways keeps on tel- ling me that|I'm un- true, * so I|
+"C/E" G2 G2"Am7" c2 c2 |"F""Fm" D6- D>D |"C/G" E E2 E"G7" D>C D2 |1"C" E4- E3 E :|2"C" C6 z2 || %10
+w: fell in love with|her * be-|cause She re- minds me of|you. * She|you.|
+w: fell in love with|her * be-|cause She re- minds me of|||
+"Em" B>BG>G E>EG>G |"^F#mb5" B6"B7" B>B |"Em" B2- B>G E>EG>G |"A7""Cm" B6 c>^c | %14
+w: Time and time I've called her by your|name, and our|love * I nev- er have de-|nied, but she|
+w: ||||
+"G/D" d>d (3BBG-"Em7" G2 E>E |"Am7" c>c (3AA^F-"D7" F4 |"G" G2 G2"Eb7" _B2"D7" A2 |"G" G4- G3 E | %18
+w: said if I love her * half as|much as I loved you, *|She'd be sat- is-|fied. * She|
+w: ||||
+"Dm7" G ^F2 =F- F3 C |"G7" E ^D2 =D- D4 |"C" G>GA>A"E7" BBc>c |"F" d c2 D-"Fm" D2 EF | %22
+w: sighs like you, * she|cries like you- *|may she nev- er tell those lit- tle|lies like you * for I|
+w: ||||
+"C/E" G2 G2"Am7" c2 c2 |"F""Fm" D6- D>D |"C/G" E E2 E"G7" D>C D2 |"C" C6 z2 |] %26
+w: fell in love with|her * be-|cause She re- minds me of|you.|
+w: ||||
+

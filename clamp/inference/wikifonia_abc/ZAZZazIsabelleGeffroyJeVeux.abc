@@ -1,0 +1,75 @@
+X:1
+T:Je Veux
+T:Je Veux
+T:Zaz
+T:kle
+C:ZAZ
+Z:All Rights Reserved
+L:1/8
+Q:1/4=150
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 56
+V:1
+"Dm" z2 z3/2 A/ G>FD>C |"Dm" D2 C"Bb"D"Bb""C" E2"C" FG- |"Dm7" G2 FG A4 | %3
+w: |||
+w: |||
+"Dm" z3/2 d<c"Bb"B/"Bb""C" A2"C" GF |"Dm" EFGA E4- |"Dm" ED/C/D"Bb"E"Bb" F"C"E"C"FE- | %6
+w: |||
+w: |||
+"Dm" E4- E3 F- |"Dm" F2"Bb" z2"Bb""C" z4 |:S"Dm" z2 FE FEFE | F3 F F D2 E- |"C" E2 ED EDED | %11
+w: ||Don- nez moi une suite au|Ritz, je n'en veux pas!|* Des bi- joux de chez Cha-|
+w: ||Off- re moi du per- son-|nel, j'en fer- ais qoui?|* Un man- oir à Neuf- cha-|
+ E3 E E C2 D- |"Bb" D2 DC DCDC | D3 D D D2 F- |"Gm" F3 F ED-DF- |1"A" FE>B,A,- A,2 z2 :|2 %16
+w: nel, je n'en veux pas|* Don- nez moi une li- mou-|sine, j'en fe- rais qoui?|* Pa- pa- la- * pa-|* pa pa- la *|
+w: tel cen'est pas pour moi.|* Off- rez moi la Tour Eif-|fel, j'en fe- rais qoui?|* Pa- pa- la- * pa||
+"A" FE>DE- E2 z2 ||"Bb" [B,,F,] [F,D]2 [F,B,] [B,,F,] [F,D]2 [F,B,] | %18
+w: * pa- pa- la. *||
+w: ||
+ [B,,F,] [F,D]2 [F,B,] [B,,F,] [F,D]2 [F,B,] |"C" [C,G,] [G,E]2 [G,E] [C,G,] [G,C]2 [G,E] | %20
+w: ||
+w: ||
+"C#dim" [C,G,] [G,E]2 [G,C] z3 E |:"Dm7" F3 E F3 E |"Dm" F3 E (3G2 F2 E2 |"C" E3 D E3 D | %24
+w: * * * Je|veux d'la- mour d'la|joie de la bonne hu-|meur cen'est pas votrear-|
+w: |llons en- semble de-|couv- rir ma li- ber-|te oub- li- e|
+"C" E3 E (3F2 E2 D2 |"Bb" D3 C D3 C |"Bb" D3 C (3D2 E2 D2 |"Gm" E2 F z ED z F | %28
+w: geant qui f'ra mon bon-|heur moi j'veux cre-|ver la main sur le|coer. Pa- pa- la pa|
+w: donc * tous vos cli-|ches bien venue dans|ma * * * *||
+"A" z E>B,A,- A,3 E :|"Bb" D3 z (3D2 _D2 =D2 |"A" E8 | P_D4 z4 | %32
+w: pa pa- la * Al-|ma re- a- li-|té.||
+w: ||||
+"Dm7" [D,A,] [A,F]2 [A,F] [D,A,] [A,F]2 [A,F]!dacoda! | %33
+w: |
+w: |
+"Dm7" [D,A,] [A,F]2"Bb" [A,F]"Bb" [B,,F,]"C"[F,B,]"C"[C,G,][G,E]!D.S.! | %34
+w: |
+w: |
+O"Dm7" [D,A,] [A,F]2"Bb" [A,F]"Bb""C" z3 E |:"Dm7" F3 E F3 E |"Dm" F3 E G2 F2 E2 |"C" E3 D E3 D | %38
+w: * * * je|veux d'la- mour d'la|joie de la * *|meur cen'est pas votrear-|
+w: |llons en- semble de-|couv- rir ma * *|te oub- li- e|
+"C" E3 E F2 E2 D2 |"Bb" D3 C D3 C |1"Bb" D3 C D2 E2 D2 |"Gm7" E2 F z ED z F | %42
+w: geant qui f'ra * *|heur moi j'veux cre-|ver la main * *|coer. Pa- pa- la pa|
+w: donc * tous * *|ches bien venue dans|ma * * * *||
+"A" z E>B,A,- A,3 E :|2"Bb" D3 z D2 _D2 =D2 ||"A" E8 | P_D4 z4 | %46
+w: pa pa- la * Al-|ma re- * *|té.||
+w: ||||
+"Dm" [D,A,] [A,F]2 [A,F] [D,A,] [A,F]2 [A,F] | %47
+w: |
+w: |
+"Dm" [D,A,] [A,F]2"Bb""Bb" [A,F]"Bb""Bb" [B,,F,]"C"[F,B,]"C"[C,G,][G,E] ||"Dm" z2 z3/2 A/ G>FD>C | %49
+w: ||
+w: ||
+"Dm" D2 C"Bb"D"Bb""C" E2"C" FG- |"Dm" G2 FG A4 |"Dm" z3/2 d<c"Bb"B/"Bb""C" A2"C" GF | %52
+w: |||
+w: |||
+"Dm" EFGA E4- |"Dm" ED/C/D"Bb"E"Bb" F"C"E"C"FE- |"Dm" E4- E3 F- |"Dm" F2"Bb" z2"Bb""C" z4 | %56
+w: ||||
+w: ||||
+"Dm" [D,A,] [A,F]2 [A,D] [D,A,] [A,F]2 [A,D] | %57
+w: |
+w: |
+"Dm" [D,A,] [A,F]2"Bb" [A,D]"Bb" [B,,F,]"C"[F,D]"C"[C,G,][G,C] |"Dm" [D,A,D]6 z2 |] %59
+w: ||
+w: ||
+

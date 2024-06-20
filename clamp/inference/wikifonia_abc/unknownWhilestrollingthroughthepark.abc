@@ -1,0 +1,23 @@
+X:1
+T:While strolling through the park
+T:While strolling through the park
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." EF |"C" GG^FG c2 G2 |"F" A6"A7" AA |"D7" AA^GA d2 c2 |"G7" B6 EF |"C" GG^FG c2 G^G | %6
+w: While *|strol- ling thru the park one|day in the|mer- ry mer- ry month of|May I was|tak- en by sur- prise by a|
+"F" AA^GA"D7" d2 dc |"G7" B^ABA G^G=AB |"C" c6 z ^d |"E" e3 B e3 d |"Am" c2 B2 A4 |"E" EE^GB edcB | %12
+w: pair of rog- uish eyes in the|mom- ent my poor heart was stole a|way a|smile was all she|gave to me||
+"Am" cdcB cB A2 |"D7" d3 A d3 c |"G" B2 A2 G4 |"D7" DD^FA dcBA |"G7" (3BcB (3ABA G2 EF | %17
+w: |we were hap- py|as can be||* * * * * * * I im-|
+"C" GG^FG c2 G2 |"F" A6"A7" A2 |"D7" AA^GA d2 c2 |"G7" B6 EF |"C" GG^FG c2 G^G | %22
+w: med- i- ate- ly raised my|hat and|fin- al- ly * she re-|marked I *|nev- er shall for- get that *|
+"F" AA^GA"D7" d2 dc |"G7" B^AB=A G^GAB |"C" c6 z2 |] %25
+w: love- ly af- ter- noon I *|met her at the foun- tain in the|park.|
+

@@ -1,0 +1,32 @@
+X:1
+T:You are the sunshine of my life
+T:You are the sunshine of my life 
+T:Stevie Wonder
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/8
+Q:1/4=180
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 18
+V:1
+|:"C" z2 z c c2 cd- |"G/F" d d2 B- B A2 G- |"Em7" G8- |"A7b9" G4 z4 |"Dm7" z2 z c c2 cf- | %5
+w: You are the sun-|* shine of- * my life,-|||that´s why I´ll all-|
+w: You are the ap-|* le of _ my eye,|_||For- ev- er you´ll|
+"G7" f f2 e- ec d2- |"C" de/d/ c6- |"Dm7" c4-"G7sus4" c4 :|"Cmaj7" z2 z G c g2 f- | %9
+w: * ways be- * a- round-||* .|I feel like this|
+w: _ stay in _ my heart.|_ _ _ _||You must have known|
+"Dm7" f e2 d-"G7" d e3 |"Cmaj7" z G2 A- A G3- |"Dm7" G4-"G7" G4 |"Cmaj7" z2 z G c g2 f- | %13
+w: _ is the _ be-|gin- ning, _ _|_ _|Though I´ve loved you-|
+w: _ that I _ was|lone- * * ly,|_ _|Be- cause you came|
+"Dm7" fedc-"G7" c d2 d- |"Bm7b5" d8- |"E7" d4 z4 |"Amaj7" z2 z E A e2 d- | %17
+w: _ for a mil- * ion years.|_||And if I thought|
+w: _ to my res- * cue, _|_||And I know that|
+"Bm7" d ^c2 B-"E7" B =c3 |"Am" E E2 E F E3 |"Am7" z4 z ced- |"D7" d2 dd- d2 z d- | ddda- a3 g | %22
+w: _ our love _ was|en- ding, _ _ _|I´d find my-|* self drown- * ing|_ in my- * * own|
+w: _ this must _ be|hea- ven, _ _ _|How could so|_ much love _ be|_ in- side _ _ of|
+"Dm7" g4 z2 z f |"G7" g2 ag e2 dc :| %24
+w: tears. *||
+w: you? *||
+

@@ -1,0 +1,17 @@
+X:1
+T:Hidegen fújnak a szelek
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A3 B A E3 | A2 B2 A E3 |"C" C3 D C B,3 |"Am" A, A,3 B,2 A,2 ::"C" c d3 c B3 | c d3 c B3 | %6
+w: Hi- de- gen fúj-|nak a sze- lek,|a- zok jót nem|je- len- te- nek.|Hi- de- gen fúj-|nak a sze- lek,|
+ c d3 c B3 |"Am" A A3 B2 A2 :| %8
+w: a- zok jót nem|je- len- te- nek.|
+

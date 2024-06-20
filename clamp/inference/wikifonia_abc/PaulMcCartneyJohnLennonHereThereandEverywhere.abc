@@ -1,0 +1,33 @@
+X:1
+T:Here There and Everywhere
+T:Here There And Everywhere
+C:Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"G" z DGB"Bm" dd d2 |"Bb" z =F_Bd =f_edd- |"Am" d4"D7" z4 |:"G""Am" G8 |"G" Bdag-"C" gced- | %5
+w: To ~lead a bet- ter life,|I need my love to be here.|_|Here,|mak- ing each day _ of the year,|
+w: |||There,|run- ning my hands _ thru her hair,|
+"G""Am" d8 |"G" Bcde-"C" eGAB- |"F#m" BBBB-"B" B2 z2 |"F#m" BcBB-"B" B2 AG- | %9
+w: _|chang- ing my live _ with a wave|_ of her hand. _|No- bod- y can _ de- ny|
+w: _|both of us think- * ing how good|_ it can be. _|Some- one is speak- ing, * but|
+"Em" GABf-"Am" f e2 A- |1 A6"D7" z2 :|2"D7" A4 z"F7" A_Bc ||"Bb" d=f"Gm" d4 c_B | %13
+w: _ that there's some- * thing there.|_|* I want her|ev- 'ry- where, and if|
+w: she does- n't know _ he's there.|_|||
+"Cm" cd_ec"D7" AA_Bc |"Gm" d_B G6 |"Cm" cd_ec"D7" AABc |"G" d B2 G-"Am" G4 |"G" Bdag-"C" gced- | %18
+w: she's be- side me I know I need|nev- er care.|But to love her is to meet her|ev- 'ry- where. _|Know- ing that love _ is to share;|
+w: |||||
+"G""Am" d8 |"G" Bcde-"C" eGAB- |"F#m" BBBB-"B" B2 z2 |"F#m" BcBB-"B" B2 AG- | %22
+w: _|Each one be- liev- * ing that love|_ nev- er dies. _|Watch- ing her eyes _ and hop-|
+w: ||||
+"Em" GABf-"Am" f e2 A- |1 A4"F7" z A_Bc :|2 A4"D7" z DGG ||"G" G4"Am" z2 z B | %26
+w: * ping I'm al- * ways there.|_ I want her|_ I will be|there and|
+w: ||||
+"G" d2 (B/A/)G-"C" G4 |"G" G4"Am" G3 B |"G" d2 fg-"C" g4- |"G" !fermata!g8 |] %30
+w: ev- 'ry- * where. *|Here there and|ev- 'ry- where. _|_|
+w: ||||
+

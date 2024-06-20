@@ -1,0 +1,24 @@
+X:1
+T:What Am I Here For
+T:What Am I Here For
+T:Duke Ellington
+T:1942 Famous Music Corporation
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Bbmaj7" Bcdc- cB z2 |"Bdim7" =Bcdc- cB z2 |"Cm7" cded- dcgf- |"F7" f8 |"Bbmaj7" Bcdc- cB z2 | %5
+"Bdim7" =Bcdc- cB z2 |"Cm7" cded- dcgf- |"F7" f8 |1"Bb7" z B2 c d2 f2 |"Bb7b5" =e _e3- e4 | %10
+"Ebmaj7" z E2 F G2 B2 |"Dm7" A4-"G7" A4 |"C7" z2 BG B4 | GD z D D4 |"Cm7" z2 BG B3 G | %15
+ (3D2 F2 F2"F7" F4 :|2"Bbmaj7" z B,2 D F2 B2 |"B7" =B4"E7" =B,4 |"Ebmaj7" z4 z2 (3BcB | %19
+"Cm7b5" f4"F7" d4 |"Bbmaj7" Bcdc- cB z2 |"Bdim7" =Bcdc- c_B z2 |"Cm7" cdeg"F7" A f2 d | %23
+"Bb7" F _A3"F7#9""_(to solos)\nSolo on entire form" z4 |]"Bbmaj7""^(After Solos)" Bcdc- cB z2 | %25
+"Bdim7" =Bcdc- cB z2 |"Cm7" cded- dcgf- |"F7" f8 |"Bbmaj7" z B,2 D F2 B2 |"B7" =B4"E7" =B,4 | %30
+"Ebmaj7" z4 (3def (3def |"Cm7b5" de F2-"F7" F3 z |"Bbmaj7" Bcdc- cB z2 |"Bdim7" =Bcdc- cB z2 | %34
+"Cm7" cdef- f B2 G |"F7" fdfd- d2 GB- |"Bbmaj7" B4 z"G7" =Bg_B |"C7" cdef"F7" (3_afa- af | %38
+"Bb7" _a/g/=e-ef _dBGF | Bcdg z2"Bb6" !fermata!G2 |] %40
+

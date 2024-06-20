@@ -1,0 +1,36 @@
+X:1
+T:Liza
+T:Liza
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" e4"Gm" d>dd>d |"Cm" c4"Gm" d4 |"Cm" c2"Gm" d2"Cm" c2"Gm" d2 |"Cm6" G4"Bb7" B4 | %4
+w: Moon shin- in' on the|riv- er.|Come a- long, my|Li- za!|
+"Eb" e4"Gm" d>dd>d |"Cm" c4"Gm" d4 |"Cm" c2"Gm" d2"Cm" c2"Gm" d2 |"F7" e4"B7" B4 | %8
+w: Breeze sing- in' thru the|tree- tops.|Come a- long, my|Li- za!|
+"Ab" F>GA>B c>d"Abm6"e>f |"Eb" e>dc>B"Ebdim" d4 |"Fm7" B>AG>F"Abm6" A3"Bb7" G |"Gm7" B2"C7" B6 | %12
+w: Some- thin' might- y sweet I want to|whis- per sweet and low,|That you ought to know, my|Li- za!|
+"Ab6" F>GA>B c>d"Abm6"e>f |"Eb" e>dc>B"F7b9" d4 |"Bb" f B2 B"Eb""Ebm" c4 | %15
+w: I get lone- some, hon- ey, When I'm|all a- lone so long;|Don't make me wait;|
+"Bb" f B2 B"C7""Ebm6" c4 |"Bb" f2"Gm7" B2"Cm7" d2"F9" G2 |"Bb""Fm7""Gm""Bb7" B8 |:"Eb" B4"Bb7" B4 | %19
+w: don't hes- i- tate;|come and hear my|song.|Li- za,|
+"Cdim" c4"C7" c4 |"Abm6" e4"Cdim" e4 |"Bbm6""Eb9" f8 |"Ab" z2 e2"Fm7" c2 A2 |"Gm" d2 B2"C9" G4 | %24
+w: Li- za,|skies are|gray,|But if you'll|smile on me|
+"Fm" z2 c>A"Bb7" F>ED>F |"Eb""Ab""Eb""Fm7" E8 |"Eb" B4"Bb7" B4 |"Cdim" c4"C7" c4 | %28
+w: All the clouds- 'll roll a-|way.|Li- za,|Li- za,|
+"Ab" e4"Cdim" e4 |"Bbm6""Eb9" f8 |"Ab" z2 e2"Fm7" c2 A2 |"Gm" d2 B2"C9" G4 | %32
+w: don't de-|lay,|Come, keep me|com- pan- y|
+"Fm" z2 c>A"Bb7" F>ED>F |"Eb""G+7" E6"G7" z2 |"C""C7" e8 |"Cdim" z3/2 f<ed/"G7" e2 d2 |"Cm" c6 G2 | %37
+w: And the clouds- 'll roll a-|way.|See|the hon- ey- moon a-|shin- in'|
+"Cdim""Eb7" B8 |"Ab""Fm" c8 |"Bbm7" z3/2 _d<cB/"Eb7" c2 B2 |"Ab6" A6 E2 |"Ebm6" _G6"Bb7" =G2 | %42
+w: down;|We|should mak a date with|Par- son|Brown. So,|
+"Eb" B4"Bb7" B4 |"Cdim" c4"C7" c4 |"Abm6" e4"Cdim" e4 |"Bbm6""Eb9" f8 |"Ab" z2 e2"Fm7" c2 A2 | %47
+w: Li- za,|Li- za,|name the|day|When you be-|
+"Gm" d2 B2"C9" G4 |"Fm" z2 c>A"Bb7" F>ED>F |"Eb""Db""Bm7" E6"Bb7" z2 :|"Eb" E6 z2 |] %51
+w: long to me|And the clouds- 'll roll a-|way.|way.|
+

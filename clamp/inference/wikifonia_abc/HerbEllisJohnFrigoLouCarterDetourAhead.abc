@@ -1,0 +1,45 @@
+X:1
+T:Detour Ahead
+T:Detour Ahead
+T:COPYRIGHT
+T:Herb Ellis/John Frigo/ Lou Carter
+T:Med. Ballad
+C:Herb Ellis, John Frigo, Lou Carter
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Cmaj7" E2 G6"F#7b9" |"B7#5" B2 G4- GG |"Fmaj7" Ac"Em7"BG"Am7" A/G/"Am7" E3 | %3
+w: 1.~Smooth road,|clear day, _ but|why am I the on- ly one|
+w: 2.~Wake up,|slow down, _ be-|rofre you crash and break your heart,|
+"D7" (3D2 E2 D2"Dm7""G7" E4 | z"Gm7" GGA"C7" _BAGE |"Fmaj7" C3"Bb7" C G F3 | %6
+w: trav- 'lin' this way?|How strange the road to love should|be so eas- y,|
+w: gul- li- ble clown.|You fool, you're Head- ed in the|wrong di- rec- tion,|
+"Cmaj7" CDEA"Am7" E C2 E |1"Ab7b5""Dm7" D8"G7" :|2 C4"F#m7b5""B7" z2 z B || %9
+w: can there be a de- tour a-|head?||
+w: can't you see the de- tour a-||head? The|
+"Em7" (3B2 G2 A2 B c2 B |"B75b9#9#11b13" AGFG A B2 A |"Emaj7" ^G4 z E^FG |"F#m7b5" ^F2 F4"B7" z B | %13
+w: ||||
+w: far- ther you trav- el, the|hard- er to un- rav- el the|web he spins a-|round you. Turn|
+"Em7" (3B2 G2 A2 B2 cB |"B75b9#9#11b13" AG!courtesy!=FG A3 B |"Emaj7" ^G2 G4 G2 | %16
+w: |||
+w: back while there's time, can't you|see the dan- ger sign; soft|shoul- ders sur-|
+"Db9#11" !courtesy!=G2 G6 |"Cmaj7" E2"F#7b9" G6 |"B7#5" B2 G4- GG | %19
+w: |||
+w: round you.|Smooth road,|clear night; _ oh,|
+"Fmaj7" Ac"Em7"BG"Am7" A/G/"Am7" E3 |"D7" (3D2 E2 D2"Dm7""G7" E4 | z"Gm7" GGA"C7" _BAGE | %22
+w: |||
+w: luck- y me, that sud- den- ly|I saw the light.|I'm turn- ing back a- way from|
+"Fmaj7" C3 C"Bb7" G F3 |"Cmaj7" E2"E7#9" G6 |"Am7" A2 c4"Eb7" z A |"D7" A2 C4"G7sus4" C2 | %26
+w: ||||
+w: all this trou- ble.|Smooth road,|smooth road, no|de- trour a-|
+"C6""^(G7#5)" C8 |] %27
+w: |
+w: head|
+

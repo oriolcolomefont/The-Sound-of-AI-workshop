@@ -1,0 +1,25 @@
+X:1
+T:Sleeping Single In A Double Bed
+T:Sleeping single in a double bed
+T:Dennis Morgan and Kye Fleming
+C:Dennis Morgan, Kye Fleming
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"G" BA BAGA | B d2 B- B2 z2 |"Bm" z2 BA BABd | e d2 B/A/ G4 |"Cmaj7" z EGE GEGA | B G2 A G2 A2 | %6
+w: Sleep- ing sin- gle in a|doub- le bed *|think- ing ov- er things I|wish I'd said * *|I should have held you but I|let you go * *|
+"D7" z AAG A2 AG | A B2 d dA B/A/G |"G" z2 BA BAGA | B d2 B- B2 z2 |"Bm" z2 BA BABd | %11
+w: now I'm the one sleep- ing|all a- lone * * * * *|sleep- ing sin- gle in a|dou- ble bed *|toss- ing turn- ing try- ing|
+ e d2 B/A/ G4 |"Cmaj7" z EGE GEGB- | B A2 G- GEGG |"D7" AAAG BE G2- |"G" G2 z2 z4!fine! |] z8 | %17
+w: to for- get * *|I could be ly- ing with you|* in- stead * of slee- ping|sin- gle in a dou- ble bed|||
+"Am7" z2 z E EGEA- | A2 z E/E/ z GEA |"Gmaj7" D D3- D4 | z4 z DEG |"Am7" AAGA- AB z2 | %22
+w: I'd pour me a drink|* but I'd on- ly be|sor- ry *|cause drink- ing|dou- bles a- lone * *|
+ z GGG Bdde- |"Gmaj7" e d2 B- B4- | B4 z BBB | B d2 e- e2 z2 | z2 BB B B2 B |"Em" A3 B/A/ G4 | %28
+w: it does- n't make it a par-|* * ty *|* an- oth- er|sleep- less night *|its the same old sto-|* ry * *|
+ z4 z EGG |"Am" A2 BE E4 | z2 z e eeef |"A" e4-"D" e d3 |"D" d4"D7" z e3!D.C.! |] %33
+w: when you're the|on- ly one *|at two in the morn-|ing- * *|* I'm|
+

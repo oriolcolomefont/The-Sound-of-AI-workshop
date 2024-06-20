@@ -1,0 +1,44 @@
+X:1
+T:Summer Paradise
+T:Summer Paradise
+T:Simple Plan feat. Sean Paul
+T:
+C:Sean Paul, Simple Plan
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 D2 |"D" D4 E4 | F4 A4 |"A" B4 c4 | d4 e4 |"Bm" f2ed- dc2B- | B2AF- FA2D- |"G" D4 z4 | %8
+w: My|heart is|sin- king|as I'm|lif- ting|up a- bove * the clouds|* a- way you from *||
+ z4 D2D2 |"D" D4 E4 | F4 A4 |"A" B4 c4 | d4 e4 |"Bm" f2ed- dc2B- | B2AF- FA2D- |"G" D4 z4 | %16
+w: And I|can't be-|lieve I'm|lea- ving|oh I|don't kno- kno * know what|* I'm gon- * na do||
+ z4 z2 D2 |"Bm" D8 |"G" B8 |"D" AA2A- AF2E- |"A" EF2E- E2<D2 |"Bm" D8 |"G" B4- B2>F2 | %23
+w: But|some|day|I wil find * my way|* back to * where|your|name * is|
+"F#" _BB2B- B=B2c- | c8- | c4 z4 |"G" z Fdd dddd |"D" f2d2 d4 |"A" z2 ee eeee |"Bm" f4"A" e2d2- | %30
+w: writ- ten in * the sand|||Cause I re- mem- ber eve- ry|sun- * set|I re- mem- ber eve- ry|word you said|
+"G" dFdd dddd |"D" f2d2 d2e2- |"A" e4 z2 AA | ag2f- fe2d- |"G" d2dd ddd2 |"D" f2d2 d4 | %36
+w: * And we were ne- ver gon- na|say * good- bye|* Say la|ta ta ta * ta ta|* Tell me how to get|back * to|
+"A" z dee eeed |"Bm" f4"A" e2d2 |"G" c2<B2- B4 |"A" z Aee e2ef |"G" e4 d2ed |"D" z ed2 d2fe- | %42
+w: * Back to sum- mer pa- ra-|dise with you||And I'll be there in a|heart beat * *|* * * oh *|
+"A" e4 z4 | z2 ee e2ef |"G" e4 d2ed |"D" z ed2 d2fe- |"A" e4 z4 |"Bm" D8 |"G" B8 |"D" AA2A- AF2E- | %50
+w: |I'll be there in a|heart beat * *|* * * oh *||Some|day|I will find * my way|
+"A" EF2E- E2<D2 |"Bm" D8 |"G" B4- B2>F2 |"F#" _BB2B- B=B2c- | c8- | c4 z4 |"G" z Fdd dddd | %57
+w: * back to * where|your|name * is|writ- ten in * the sand|||'Cause I re- mem- ber eve- ry|
+"D" f2d2 d4 |"A" z2 ee eeee |"Bm" f4"A" e2d2- |"G" dFdd dddd |"D" f2d2 d2e2- |"A" e4 z2 AA | %63
+w: sun- set *|I re- mem- ber eve- ry|word you said|* And we were ne- ver gon- na|say * good- bye|* Say la|
+ ag2f- fe2d- |"G" d2dd ddd2 |"D" f2d2 d4 |"A" z dee eeed |"Bm" f4"A" e2d2 |"G" c2<B2- Beed | %69
+w: ta ta ta * ta ta|* Tell me how to get|back * to|* back to sum- mer pa- ra-|dise with you|* * * And I'll be|
+"A" e2ed f2d2 |"G" z2 gg gggg |"D" f4 e2d2 |"A" z Aee eeee |"Bm" f4"A" a2d2 |"G" z Bgg gggg | %75
+w: there in a heart beat|I re- mem- ber where we|first kis- sed|And how I did not wan- na|leave your lips|And how I've ne- ver e- ver|
+"D" f2d2 d2e2 |"A" z2 a4 A2 | ag2f- fe2d- |"G" d2gg gggg |"D" f4 fed2 |"A" z dee eeed | %81
+w: felt * so high|Hight la|ta ta ta * ta ta|* So tell me how to get|back to * *|* back to sum- mer pa- ra-|
+"Bm" f4"A" e2d2 |"G" c2<B2- B4 |"A" z Aee e2ef |"G" e4 d2ed |"D" z ed2 d2fe- |"A" e4 z4 | %87
+w: dise with you||And I'll be there in a|heart beat * *|* * * oh *||
+ z2 ee e2ef |"G" e4 d2ed |"D" z ed2 d2fe- | e4"A" z4 | z2 ee e2ef | e4 d4 |] %93
+w: I'll be there in a|heart beat * *|* * * oh *||I'll be there in a|heart beat|
+

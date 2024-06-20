@@ -1,0 +1,32 @@
+X:1
+T:Cool Ray
+T:2006
+T:Cool Ray
+T:Ray Overton
+C:Ray Overton
+Z:Creative Commons BY
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"^Intro""E7b5" z2 AD- D4 |"Eb7b5" z2 G_D- D4 |"D7" G_G=GC- CF_FE |"G7#9" B,=B, (3DFB- B=A/_A/ G2 |: %4
+S"^A""Cm7" cc z2 z (_GF)C |"F7" !tenuto!E.E z2 z2 !tenuto!G2 |"Cm7" !tenuto!c.c z2 z (_GF)C | %7
+"F7" !tenuto!E.E z2 z2 !tenuto!G2 |"Dbmaj7" !>!cAF"Dbdim7"!>!B- B3 !>!B- |"Cm7" BGE"Cdim7"=A- A4O | %10
+"E7b5" !>!A=ED"Eb7b5"!>!G- G_E_DC |1"Ab7" !>!_GFEC"G7#9" D/=B,/ !>!B3 :|2 %12
+"Fm7" !>!AFE_D"Bbm7" (3CD!>!F- F2 ||"Bbm7b5" !>!A_FE_D"Eb7b9" (3CD!>!F- FE || %14
+"^B""Abmaj7" C G3 z FED |"Gm7" =A/G/A z2 z A z2 |"Abmaj7" C G3 z FED |"Gm7" =A/G/A z2 z A3 | %18
+"Fm7" A3"Bb13" G- G4 |"Ebmaj7" F3 D- D4 |"D7" D3"D7b5" A,- A,4 |"G7" G,3 D/=B,/ B2 =B2 || %22
+"^C""Cm7" !tenuto!c.c z2 z (_GF)C |"F7" !tenuto!E.E z2 z2 !tenuto!G2 | %24
+"Cm7" !tenuto!c.c z2 z (_GF)C |"F7" !tenuto!E.E z2 z2 !tenuto!G2"_D.S. al Coda" | %26
+"Dbmaj7" !>!cAF"Dbdim7"!>!B- B3 !>!B- |"Cm7" BGE"Cdim7"=A- A4 |"E7b5" !>!A=ED"Eb7b5"!>!G- G_E_DC | %29
+"Ab7" !>!_GFEC B2 =B2 ||O"E7b5" !>!A=ED"Eb7b5"!>!G- G_E_DC |"_Rit.""D7b5" ^FDCA,"G7#9" G,2 B,2 | %32
+"Cm6" C8 |]"^Changes for solos""^A1""Cm7" c"^(play only the first time)"c z2 z4 |"F7" z8 | %35
+"Cm7" z8 |"F7" z8 |"Cm7" z8 |"F7" z8 |"Cm7" z4 z2"Eb7" z2 |"D7#9" z4"G7#9" z4 |"^A2""Cm7" z8 | %42
+"F7" z8 |"Cm7" z8 |"F7" z8 |"Dbmaj7" z4"Dbdim7" z4 |"Cm7" z4"Cdim7" z4 |"Fm7" z4"Bb7" z4 | %48
+"Bb7b5" z4"Eb7b9" z4 |"^B1""Abmaj7" z8 |"Gm7" z8 |"Abmaj7" z8 |"Gm7" z8 |"Fm7" z4"Bb13" z4 | %54
+"Ebmaj7" z4 z4 |"D7" z4"D7b5" z4 |"G7" z8 |"^A3""Cm7" z8 |"F7" z8 |"Cm7" z8 |"F7" z8 |"Cm7" z8 | %62
+"F7" z8 |"Cm7" z4 z2"Eb7" z2 |"D7#9" z4"G7#9" z4 |] %65
+

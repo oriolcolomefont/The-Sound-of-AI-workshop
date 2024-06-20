@@ -1,0 +1,24 @@
+X:1
+T:Blue Bossa
+T:Blue Bossa
+T:As played by Joe Henderson - found in the New Real Book
+T:Kenny Dorham
+T:1961 Orpheum Music
+C:Kenny Dorham
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 bass 
+%%MIDI program 40
+V:1
+|:"Cm6""^Sample Bass Line" C,2 E,G, D C2 G,- | G,3 G D2 G,2[K:treble] :|[K:treble] z4 z2 G2 |: %3
+S"Cm6""^A" g3 f ed z c- | c4 z B2 A- |"Fm7" A4 z g2 f- |"Bb7" f8 |"Dm7b5" f3 e dc z B- | %8
+"G7#9" B4 z A2 G- |"Cm6" G4 z f2 e- | e8 |"Ebm7" e3 _d cB z A- |"Ab7" A4 z _G2 _G- | %13
+"Dbmaj7" _G3 F B3 A | A8 |"Dm7b5" [FA]2 [EG][FB]- [FB]3 [FA] |"G7#9" [FA]2 [FG][FB]- [FB]3 [EG] | %17
+"Cm6" [DG]8- |"_Play head twice, solo on A\nAfter Solos continue to B" [DG]6"G7" G2 :: %19
+"Cm6""^B" g4- ge=Bc-!dacoda! | c4- cBGA- |"Fm7" A4- AG=EF- | F8 |"Dm7b5" f4- fd=AB- | %24
+"G7#9" B4- BA^FG- |"Cm6" G4- GFDE- | E8 |"Ebm7" e4- ecGA- |"Ab7" A4- A_G=EF- |"Dbmaj7" F4- FEC_D- | %30
+ _D8 |"Dm7b5" G6 FB- |"G7#9" B4- BGFG- |"Cm6" G8- |1 G8 :|2 G6"G7" G2!D.S.! |: %36
+O"Cm6" [CEGA]2 [CEGA]2 [CEGA]2 [CEGA]2 | [CEGA]2 [CEGA]2 [CEGA]2 [CEGA]2 :| %38
+

@@ -1,0 +1,24 @@
+X:1
+T:Molly-O
+T:Molly-O
+T:Elmer Bernstein
+T:Sylvia Fine
+C:Elmer Bernstein
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" E2 D2 |"C7" z2 E G |"F" E2 D2 |"C7" z2 E G |"F" E2 D2 | z E F c/A/- |"Gm7" A4 | %7
+w: Mol- ly|with her|green eyes,|and her|fair hair,|I love her so,||
+ A F/"C9"G/- G2 |"F" E2 D2 |"C7" z2 E G |"F" E2 D2 |"C7" z2 E G |"F" E2 D2 | z E F A |"Cm7" c4 | %15
+w: Mol- ly O. *|Tell me,|will she|be there,|will she|still care|when I am|low?|
+ d B/"F9"c/- c2 |"Bb" c2 B2 |"A7b9" z2"A+" A"A7" G |"Dm" F2"Dm7" D2 |"G9" z2 A G | F2 D2 | %21
+w: Mol- ly- O. *|Hold me|through the|bad times,|'cause the|glad times|
+"Gm7" z F/"C7"E/- E/F/ G |"F" A4 | z"Cm7" d d"F13" d |"Bb" c2 B2 |"A7b9" z2"A+" A"A7" G | %26
+w: they come * and they|go.|No blues will|I mind|long as|
+"Dm" F2"Dm7" D2 |"G9" z2 F A | F2 D F |"Gm7" d2"C7" E E/F/- |"F" F4- | F3 z |] %32
+w: I find|she is|my kind and|my Mol- ly O.|||
+

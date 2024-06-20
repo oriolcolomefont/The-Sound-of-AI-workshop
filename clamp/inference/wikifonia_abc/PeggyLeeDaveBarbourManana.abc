@@ -1,0 +1,39 @@
+X:1
+T:Manana
+T:Manana
+T:Peggy Lee & Dave Barbour
+C:Peggy Lee & Dave Barbour
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z F |:"Bb" B A B A | B A G F |"F7" A ^G A G | A3 F | A ^G A G | A G F A |"Bb" G ^F G B/G/- | %8
+w: The|fau- cet she is|drip- ping and the|fence she's fall- ing|down, my|pock- et needs some|mon- ey so I|can't go in- to town,|
+w: |moth- er's al- ways|work- * ing, she's|work- ing ver- y|hard, but|ev- ry time she|looks for me I'm|sleep- ing in the yard,|
+w: |once I had some|mo- ney but I|gave it to my|friend, He|said he'd pay me|dou- ble, it was|on- ly for a lend|
+w: |broth- er took a|suit- case and he|went a- way to|school, My|fath- er said he|on- ly learned to|be a sil- ly fool,|
+w: |win- dow she is|bro- ken and the|rain is com- in'|in, If|some- one does- nt|fix it, I'll be|soak- ing to my skin,|
+ G3 F | B B A B |"G7" =B G ^F G |"Cm" c c =B c | G3 B |"F7" A ^G A G | A G F =E | F F G A/B/- | %16
+w: * my|broth- er is- n't|work- ing and my|sis- ter does- n't|care, the|car she needs a|mo- tor so I|can't go an- y- where.|
+w: * my|moth- er thinks I'm|la- * zy and|may- be she is|right, I'll|go to work Ma-|na- na, but I|got- ta sleep to- night.-|
+w: * But|he said a lit-|tle later that the|horse she was so|slow, Why|he give the horse|my mon- ey is|some- thing I don't know.|
+w: * My|fath- er said that|I should learn to|make a chil- li|pot, But|then I burn- ed|the house down, the|chil- li was too hot.|
+w: * But|if we wait a|day or two the|rain may go a-|way, And|we don't need a|win- * dow on|such a sun- ny day.-|
+"Bb" B2 z"F7" F ||"Bb" d3/2 B/- B2- | B3 =B |"Eb" c3/2 G/- G2- |"Cm" G2 z G |"F7" A3/2 A/- A G | %22
+w: * Ma-|na- na, *|* Ma-|na- na, *|* Ma-|na- na * is|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ F F/G/- G A |1"Bb" B4- || B3 F :|2"Bb" B4- || B3 z |] %27
+w: soon e- nough for me.||* My|me.-||
+w: ||* Oh!|||
+w: ||* My|||
+w: ||* The|||
+w: |||||
+

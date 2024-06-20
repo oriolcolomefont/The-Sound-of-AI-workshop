@@ -1,0 +1,41 @@
+X:1
+T:Were You There
+T:Were You There?
+T:African-American Spiritual Arrangement Larry Johnson, 2011
+C:African-American Spiritual
+Z:All Rights Reserved
+L:1/4
+Q:1/4=70
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z2 B, E |"Eb" G2 G G |"Bb" F"Cm" E"Bb7" G3/2 F/ |"Eb" E4- | E2 E G | %10
+w: |||||were you|there when they|cru ci fied my|Lord|_ were you|
+"Gm" B2 B B |"Cm" c"Bb/D" B"Eb" B G |"Bb" F4 |"Eb/G" B2"Ab" e3/2 c/ |"Eb" B4 |"Ab" c"Eb" B2 G | %16
+w: there when the|cru ci fied my|Lord|Oh _ _|_|some times it|
+"G/B" G3/2 F/"Cm" E E |"Ab" F E3 | E"Eb/G" E3 |"Ab" C"Bb" B,3- | B,2"Ab" E A |"Eb/Bb" G2 G G | %22
+w: caus es me to|trem ble|trem ble|trem ble|_ were you|there when they|
+"Fm" F E"Bb7" G3/2 F/ |"Eb" E4- | E2 B, E |"Eb" G2 G G |"Bb" F"Cm" E"Bb7" G3/2 F/ |"Eb" E4- | %28
+w: cru ci fied my|Lord|_ were you|there when they|nailed Him to the|tree|
+ E2 E G |"Gm" B2 B B |"Cm" c"Bb/D" B"Eb" B G |"Bb" F4 |"Eb/G" B2"Ab" e3/2 c/ |"Eb" B4 | %34
+w: _ were you|there when they|nailed Him to the|tree|Oh _ _|_|
+"Ab" c"Eb" B2 G |"G/B" G3/2 F/"Cm" E E |"Ab" F E3 | E"Eb/G" E3 |"Ab" C"Bb" B,3- | B,2"Ab" E A | %40
+w: some times it|caus es me to|trem ble|trem ble|trem ble|_ were you|
+"Eb/Bb" G2 G G |"Fm" F E"Bb7" G3/2 F/ |"Eb" E4- | E2 B, E |"Eb" G2 G G |"Bb" F"Cm" E"Bb7" G3/2 F/ | %46
+w: there when they|nailed Him to the|tree?|_ were you|there when they|laid Him in the|
+"Eb" E4- | E2 E G |"Gm" B2 B B |"Cm" c"Bb/D" B"Eb" B G |"Bb" F4 |"Eb/G" B2"Ab" e3/2 c/ |"Eb" B4 | %53
+w: tomb|_ were you|there when they|laid Him in the|tomb|Oh _ _|_|
+"Ab" c"Eb" B2 G |"G/B" G3/2 F/"Cm" E E |"Ab" F E3 | E"Eb/G" E3 |"Ab" C"Bb" B,3- | B,2"Ab" E A | %59
+w: some times it|caus es me to|trem ble|trem ble|trem ble|_ were you|
+"Eb/Bb" G2 G G |"Fm" F E"Bb7" G3/2 F/ |"Eb" E4- | E2 B, E |"Eb" G2 G G |"Bb" F"Cm" E"Bb7" G3/2 F/ | %65
+w: there when the|laid Him in the|tomb|_ were you|there when He|rose up from the|
+"Eb" E4- | E2 E G |"Gm" B2 B B |"Cm" c"Bb/D" B"Eb" B G |"Bb" F4 |"Eb/G" B2"Ab" e3/2 c/ |"Eb" B4 | %72
+w: dead|_ were you|there when He|rose up from the|dead|Oh _ _|_|
+"Ab" c"Eb" B2 G |"G/B" G3/2 F/"Cm" E E |"Ab" F E3 | E"Eb/G" E3 |"Ab" C"Bb" B,3- | B,2"Ab" E A | %78
+w: some times I|feel like shout ing|gl ry|glo ry|glo ry|_ were you|
+"Eb/Bb" G2 G G |"Fm" F E"Bb7" G3/2 F/ |"Eb" E4- | E2 z2 | z4 | z4 | z4 | z4 |] %86
+w: there when He|rose up from the|dead|_|||||
+

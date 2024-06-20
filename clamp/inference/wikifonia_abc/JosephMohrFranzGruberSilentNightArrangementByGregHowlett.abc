@@ -1,0 +1,33 @@
+X:1
+T:Silent Night-Arrangement By Greg Howlett
+T:Silent Night
+T:Arrangement by Greg Howlett
+T:Franz Gruber
+T:Joseph Mohr
+C:Joseph Mohr
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" F3 G F2 |"Ebm6" D6 |"Dm7""Cm7" F3 G"F7" F2 |"Bb" D6 |"B7" c4 c2 |"F7""F#dim7" A6 | %6
+w: Si- * lent|night,|ho- * ly|night,|All is|calm,|
+w: Si * lent|night,|ho- * ly|night,|Shep- herds|quake|
+w: Si- * lent|night,|ho- * ly|night,|Son of|God,|
+"Gm7" B4"F#7" B2 |"Bb/F" F6 |"Ebmaj7" G4 G2 |"A7" B3 A G2 |"Dm7""Cm7" F3 G"F7" F2 |"Bb" D6 | %12
+w: all is|bright|Round yon|vir- * gin|moth- er and|Child.|
+w: at the|sight.|Glo- ries|stream * from|heav- en a-|far|
+w: love's pure|light|Ra- diant|beams * from|Thy ho- ly|face,|
+"Ebmaj7" G4 G2 |"A7" B3 A G2 |"Dm7""Cm7" F3 G"F7" F2 |"Bb" D6 |"F7" c4 c2 |"F#dim7" e3 c A2 | %18
+w: Ho- ly|in- fant so|ten- der and|mild,|Sleep in|heav- en- ly|
+w: Heaven- ly|host * sing|al le- lu-|ia;|Christ the|Sav- ior is|
+w: With the|dawn of re-|deem * ing|grace,|Je- sus|Lord, at Thy|
+"Gm7""Db7" (B6 |"C7" d6) |"Bb/F" B2 F2 D2 |"F7" F3 E C2 |"Bb" (B,6 | B,6) |] %24
+w: peace||Sleep * in|heav- en- ly|peace.||
+w: born!||Christ * the|Sav- ior is|born!||
+w: birth,||Je * sus|Lord, at Thy|birth.||
+

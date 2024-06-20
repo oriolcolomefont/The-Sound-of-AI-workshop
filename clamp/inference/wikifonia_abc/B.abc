@@ -1,0 +1,33 @@
+X:1
+T:The coffee song
+T: 
+T:B.Hilliard/D. Miles
+T: 
+C:B.Hilliard
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"G7" G |:"C" c B c B | A G"C#dim" A G |"Dm" F E F E |"Fm" D E"G7" F G |"C" C D E F | G A B c | %7
+w: Way|down a- mong Bra-|zi- lians Cof- fee|beans grow by the|bil- lions So they've|got to find those|ex- tra cups to|
+w: You|can't get cher- ry|so- da 'cos they've|got to fill that|quo- ta & the|way things are I'll|bet they ne- ver|
+"D13" B4- |"C#dim" B A B c |"C" c C D C |"Dm9" E C"G13" E E |"C6" E4- ||1 E3 G :|2 C2"C#dim" G2 || %14
+w: fill|_ They've got an|aw- ful lot of|cof- fee in Bra-|zil.||* No|
+w: will|_ why They put|cof- fee in the|cof- fee in Bra-|zil.|||
+"Dm7" D4- |"G7" D2 C D |"C" E/E/ E3- | E2"C#dim" G2 |"Dm7" D4- |"G7" D2 C D |"C" E/E/ E3- | %21
+w: tea|_ or to-|ma- to juice|_ You'll|see|_ no po-|ta- to juice|
+w: |||||||
+"A7" E2 F E |"Dm" D E F G | A B c ^c |"D13" d2 B2 |"G7" G3 G ||"C" c B c B | A G"C#dim" A G | %28
+w: _ 'cos the|plan- ters down in|San- tos all say|"No, no,|no" A|po- li- ti- cian's|dau- ghter was ac-|
+w: |||||||
+"Dm" F E F E |"Fm" D E"G7" F G |"C" C D E F | G A B c |"D13" d4- |"Fm" d c d c |"C" e c"Am7" d c | %35
+w: cused of drin- kin'|wa- ter & was|fined a great big|fif- ty dol- lar|bill|_ They've got an|aw- ful lot of|
+w: |||||||
+"D9" e c"Db" c c |"C6" c4- | c z z2 |] %38
+w: cof- fee in Bra-|zil|_|
+w: |||
+

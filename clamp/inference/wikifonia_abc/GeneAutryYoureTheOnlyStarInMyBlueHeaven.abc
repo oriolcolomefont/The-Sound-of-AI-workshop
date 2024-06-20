@@ -1,0 +1,25 @@
+X:1
+T:You're The Only Star In My Blue Heaven
+T:You're The Only Star In My Blue Heaven
+T:Gene Autry
+C:Gene Autry
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B3 c BG |"Eb7" E3 E FG |"Ab" A2 c4- |"Adim" c6 |"Eb/Bb" B3 c BG |"F7" E4 G2 |"Fm7" F6- | %7
+w: You're the on- ly|star in my blue|heav- en||and you're shin- ing|just for|me|
+"Bb7" F4 z2 |"Eb" B3 c BG |"Eb7" E3 E FG |"Ab" A2 c4- |"Adim" c6 |"Eb/Bb" B3 c BG | %13
+w: |You're the on- ly|star in my blue|heav- en||and in dreams your|
+"F7" E4"Bb7" F2 |"Eb" E6 |"Eb7" E2 z2 z2 |"Ab" c3 =B cd | e4 c2 |"Eb" B3 G A=A |"C7" B6 | %20
+w: face I|see.||You're the guid- ing|light that|bright- ens up the|night,|
+"F7" c3 =B cB | c3 =B cd |"Abm6/B" e6 |"Bb7" d6 |"Eb" B3 c BG |"Eb7" E3 E FG |"Ab" A2 c4- | %27
+w: 'till you come in|sight my heart is|lone-|ly.|You're the on- ly|star in my blue|heav- en|
+"Adim" c6 |"Eb/Bb" B3 c ec |"F7" e4"Bb7" f2 |"Eb" e6- | e2 z2 z2 |] %32
+w: |and you're shin- ing|just for|me.-||
+

@@ -1,0 +1,20 @@
+X:1
+T:The Riff Song (from "The Desert Song")
+T:The riff song
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"F""F#dim""Gm7""C7" c8 |"F" dc"F#dim"dc"Gm7" dc"C7"dc |"Dm""A7" A8 |"Dm" BABA"A7" BAFE | %4
+w: Ho!|so we sing as we are rid- ing|Ho!|it's a time you best be hid- ing|
+"Bb" D4- DEFG |"F/C" Accc- c4 |"G7" d4- defd |"C7" eccc- c4 |"F""F#dim""Gm7""C7" c8 | %9
+w: low,- * it means the|Riffs are a- broad- *|Go- * be- fore you've|bit- ten the sword *|Ho!|
+"F" dc"F#dim"dc"Gm7" dc"C7"dc |"Dm""A7" A8 |"Dm" BABA"A7" BAFE |"Bb" D4- DEFG | %13
+w: that's the sound that comes to warn you|So|in the night or ear- ly morn' you|know- * if you're the|
+"F/C" Accc"G7" z dgf |"F/C" dcc c2"C7" AGc |"F" F8 |] %16
+w: Red Shad- ow's foe the Riffs will|strike with a blow that brings you|woe.|
+

@@ -1,0 +1,41 @@
+X:1
+T:When the Wind Was Green
+T:When The Wind Was Green
+T:Don Hunt
+T:Don Hunt
+C:Don Hunt
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Fm6" c c c |"C9" =A2 A |"Fm6" c c c |"C7" A3 |"Ebm6" B B B |"Bb9" G G G |"Ebm6" B B B | %7
+w: Sea- sons fly|past like|birds on the|wing.|If there is|win- ter there's|bound to be|
+w: |||||||
+"Bb7" G2 F |"Eb" E2 e |"Gm" B2 G |"B" E2 e |"Bb7" B2 B,/C/ |:"Fm7" E2 E |"Bb9" C2 B,/C/ | %14
+w: spring. But|I can't|see how|this can|be. When the|wind was|green at the|
+w: |||||wind was|red like a|
+"Fm7" E2 C/E/ |"Bb9" C2 B,/C/ |"Eb" B2 B |"Gm" G2 B,/C/ |"Eb" B2 B |"Gm" G2 B,/C/ |"Fm7" E2 E | %21
+w: start of the|spring, when the|wind was|green like a|liv- ing|thing, it was|on my|
+w: sum- mer *|wine, when the|wind was|red like your|lips on|mine, it car-|essed my|
+"Bb9" C2 B,/C/ |"Fm7" E2 E |"Bb9" C2 B,/C/ |"Eb" E3- |"Cm" E3- |"Fm7" E3- |1"Bb9" E z B,/C/ :|2 %28
+w: lips and its|kiss was|fair, you were|there.|||* When the|
+w: face and it|tossed my|hair, you were|there.||||
+ E z E ||"Eb7" E2 ^E | F2 ^F | G2 B | e2 c |"Ab" B2 A |"Eb+" G2 E |"Ab" F3- | F2 F |"F7" F2 ^F | %38
+w: * Then|came the|fall and|all of|love came|tum- bling,|stum- bling|down.|* Like|leaves that|
+w: ||||||||||
+ G2 ^G | =A2 c | _g"Eb" f"Adim" e |"Bbm" _d B2 |"Bbm6" _d"C7" c c/c/ |"F7" c F2 | %44
+w: lost to|frost and|found they were|fly- ing,|cry- ing in a|brown wind,|
+w: ||||||
+"B" _G"Bb7" F B,/C/ |"Fm7" E2 E |"Bb9" C2 B,/C/ |"Fm7" E2 E |"Bb9" C2 B,/C/ |"Eb" B2 B | %50
+w: dy- ing. But the|win- ter's|come and we|both should|know that the|wind is|
+w: ||||||
+"Gm" G2 B,/C/ |"Eb" B2 B |"Gm" G2 B,/C/ |"Fm7" G2 G |"Bb9" E2 B,/C/ |"Fm7" E C E |"Fm6" c c"G7" d | %57
+w: white like the|swirl- ing|snow. And we'll|nev- er|see all the|won- der- ful|things to be|
+w: |||||||
+"Cm" e3- | e3- |"Db9" e2 E/E/ |"Bb7" F2"Abm" E |"Eb" E3- | E3 |] %63
+w: seen||* when the|wind is|green.||
+w: ||||||
+

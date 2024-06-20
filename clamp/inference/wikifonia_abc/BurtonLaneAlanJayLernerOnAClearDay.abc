@@ -1,0 +1,31 @@
+X:1
+T:On A Clear Day
+T:On a clear day
+T:(you can see for ever)
+T:Burton Lane
+T:Alan Jay Lerner
+C:Burton Lane
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 B, D |:"Gmaj7" A2 F2- | F2 D/B,/D/F/ |"C" A2 F2- | F2 _B, D |"Gmaj7" A2 F2- | F2 F2 |"E7" D4- | %8
+w: On a|clear day|* rise and lood a-|round you|* and you'll|see who|* you|afre|
+ D2 E G |"Am7" d2 B2- | B2 G/E/G/B/ |"Am7/D" d2"Dm7" B2- |"D7" B2"C#7" ^C"D7" D |"G" A2 _A G | %14
+w: * on a|clear day|* how it will as-|tound you|* that the|glow of your|
+"Bbdim" F A z G |"Am7" c2"G#dim" d B |"Am7" A2"D7" B c |"Dm7/G" d2 A2- | A2"G7" B c | %19
+w: be- ing out-|shines ev- ry|star You feel|part of|* ev- ry|
+ d/e/d/A/"Dm7" c2- | c2"G7" G A |"Cmaj7" B E G"Dm6" A |"A7" B E G A |"D7" B/^A/B/F/ E2- | %24
+w: moun- tain sea and shore|* you can|hear from far and|near a world you've|nev- er heard be- fore|
+ E ^A, B, D |"Edim7/G" A2"Gmaj7" F2- | F2"G" G B |"Bm7" e2"E9" B2- |"Bm" B2"E9" ^A B | %29
+w: * and on a|clear day|* on that|clear day|* you can|
+"Am7" c2"G" B2 |"Am7" G c z"G6" B |1"Am7" G4 |"D7" A4 |"G" G4 |"Em" z4 |"Am7" z4 |"D7" z2 B, D :|2 %37
+w: see for-|ev- er and|ev-|er|more|||on a|
+"Am7" G c z"G6" B ||"Am7" G c z"G6" B |"Am7" G4 |"D7" A4 |"G" G4- |"Em9" G4 |"Am9" z4 |"D7" z4 | %45
+w: ev- er and|ev- er and|ev-|er|more||||
+"G" z4 |] %46
+w: |
+

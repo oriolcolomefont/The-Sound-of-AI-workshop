@@ -1,0 +1,33 @@
+X:1
+T:Put The Blame On Mame
+T:Put The Blame On Mame
+C:Doris Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Am7b5" z4"D7b9" z2 D2 |"Gm" GG A2 B2 G2 |"Eb9" c2 cB"D9" c A3 |"Am7b5" d2 d2"D+7" B B2 G- | %4
+w: 1.~When|Miss- us O'- Lear- y's|cow kicked the lan- tern|in Chi- ca- go town,|
+w: |2~.they had the earth- quake|in San- Fran- cis- co,|back in nine- teen six,|
+"Gm" G6"Ab9" D2 |"Gm" G2 AB- BG B2 |"Eb7b5" e c3- c2 c2 |"Am7" d2 d2 d d2 d- |"Ab7b5" d4 z4 | %9
+w: _ they|say that start- * ed the|fi- re _ that|burned Chi- ca- go down.|_|
+w: _ they|said that ol' _ Moth- er|Na- ture _ was|up to her ol' tricks.|_|
+"Eb" z c2 =B"D7" c d2 c |"Db" _B G2 B-"C7" B3"Bb" G |"A7b9" B2 B2"Eb9" B2 c"D7"A- | A8 | %13
+w: That's the sto- ry that|went a- round, _ but|here's the real low down.|_|
+w: That's the sro- ry that|went a- round, _ but|here's the real low down.|_|
+"Gm" z B2 G"Adim" A2 ^F2 |"Gm/Bb" G3 D-"Am7b5""Ab9" D4 |"Gm" z B2 G"E7b5" A2"D7" ^F2 |"Gm" G8 | %17
+w: Put the blame on|Mame boys, _|put the blame on|Mame.|
+w: Put the blame on|Mame boys, _|put the blame on|Mame.|
+"Cm" c2 c=B"Ab9" c d2 c |"Gm" _B G2 B- B4 |"Em7b5" B2 B2 B3 G |"A7#5b9" B c2 A-"D7" ADGA | %21
+w: Mame kissed a buy- er from|out of town, _|that kiss burned Chi-|ca- go down. _ So you can|
+w: One night she start- ed to|shim and shake, _|that brought on the|Fris- co quake. _ So you can|
+"Gm" z B2 G"Adim" A2 ^F2 |"Gm/Bb" G3 D-"Am7b5""Ab9" D4 |"Gm" z B2 G"E7b5" A2"D7" ^F2 | %24
+w: put the blame on|Mame boys, _|put the blame on|
+w: put the blame on|Mame boys, _|put the blame on|
+"Gm" G6"Ab9b5" D2 :|"Gm""D7b5" G8- |"Gm" G2"Gm" z2 z4 |] %27
+w: Mame 2.~When|Mame.|_|
+w: |||
+

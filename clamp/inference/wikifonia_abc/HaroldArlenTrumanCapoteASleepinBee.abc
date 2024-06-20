@@ -1,0 +1,32 @@
+X:1
+T:A Sleepin' Bee
+T:A Sleepin' Bee
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab" C E"Ab6" F A |"Abmaj7" c e-"Ab6" (3e c =B |"Ab" (3c E F"Ab6" A2- |"Ab7" A3"Ab6" z | %4
+w: When a bee lies|sleep- in' * in the|palm of your hand,||
+"Ab" C E"Ab6" F A |"Abmaj7" c f-"Adim7" (3f e c |"Bbm7" (3e c d"E9b5" B2- |"Bbm7" B3"Eb7b9" z | %8
+w: You're be- witch'd and|deep in * love's long|look'd af- ter land.||
+"C13" c"C+7" c d3/2 =B/ |"F7#9" c/e/"F9" d3 |"Bb13" B"Bb+7" B c3/2 B/ |"A+7" c3"A7" B | %12
+w: Where you'll see a|sun- up sky|with a morn- in'|new, and|
+"Ab13" A"Ab+7" A B3/2 G/ |"G+7" A/_c/ B2"G7" A |"Bbm7" D E/E/ F/F/ G |"E9" (A"Eb9" B3) | %16
+w: where the days go|laugh- in' by as|love comes a call- in' on|you. *|
+"Ab" C E"Ab6" F A |"Abmaj7" c e-"Ab6" (3e c =B |"Ab" (3c E F"Ab6" A2- |"Ab7" A3"Ab6" z | %20
+w: Sleep on Bee, don't|wak- en * can't be-|lieve what just passed||
+"Ab" C E"Ab6" F A |"Abmaj7" c f-"Adim7" (3f e c |"Bbm7" (3e c d"E9b5" B2- |"Bbm7" B3"Eb7b9" z | %24
+w: He's mine for the|tak- in', * I'm so|hap- py at last||
+"C13" c/c/"C+7" c d3/2 =B/ |"F7#9" c"F9" d2 c |"E+7" =d"E9" d d d |"Eb9" e3"Eb7" c | %28
+w: May- be I dreams but|he seems sweet|gold- en as a|crown. a|
+"Ab" C E"Ab6" F A |"Abmaj7" c E2"Ab6" E |"Bbm7" c"Bbm7#5" c/c/"Bbm6" c"Eb+" =E/F/ | %31
+w: sleep- in' bee done|told me. I'll|walks with me feet off the|
+"C+7""C7" c3"F7b9" =E/F/ |"Bbm7" c2"Bm7" c2 |"Bbm7" c2"Eb7" E F |"Ab6" A4- | A z z2 |] %36
+w: groun' when my|one true|love I has|foun'.||
+

@@ -1,0 +1,28 @@
+X:1
+T:The Wonderful World of Christmas
+T:The Wonderful World Of Christmas
+C:Charles Tobias
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z D |"G6" G G/A/"Gmaj7" B G |"Am7" A D2"D7" D/D/ |"Am7" A A/B/"D7" c B/A/ |"Gmaj7" B2"G7" z G | %5
+w: The|wond- er- ful world of|Christ- mas, is a|won- der- ful world to be-|hold. The|
+"C6" c c/d/"C#dim7" e ^c |"G6" d"Em7" G2 G |"A7" G G/A/ B A/G/ |"Am7" A2"D7" z D | %9
+w: won- der- ful world of|Christ- mas was|made for the young and the|old. The|
+"G6" G G/A/"Gmaj7" B A/G/ |"Am7" A"D7" D2 D |"Am7" A A/B/"D7" c B/A/ |"Gmaj7" B2"G7" z G | %13
+w: smile and good cheer of each|neigh- bor, and|child- ren with cheeks all a|glow. So|
+"C6" c c/d/"C#dim7" e ^c/e/ |"G6" d G2"Em7" G/G/ |"Am7" c A/G/"D7" F G/A/ |"G6" G2 z2 | %17
+w: warms is the Christ- mas- y|feel- ing with the|tree tops all wrapped up in|snow.|
+"Gmaj7" d B"Am/G" c A |"Gmaj7" B G"Am/G" A2 |"Gmaj7" d B"Am/G" c A |"Gmaj7" B2"Am/G" z2 | %21
+w: Lis- ten to those|wond- rous bells|and you'll hear them|say,|
+"Gmaj7" d B"Am/G" c A |"Gmaj7" B G"Am/G" A2 |"Gmaj7" B G"Am/G" A F |"G6" G2"D7" z D | %25
+w: "O- pen up your|hearts to all|on this hol- i-|day." The|
+"G6" G G/A/"Gmaj7" B G |"Am7" A D2"D7" D/D/ |"Am7" A A/B/"D7" c B/A/ |"Gmaj7" B2"G7" z G | %29
+w: won- der- ful world of|Christ- mas is a|joy from the mo- ment it|starts. The|
+ c c/d/"C#dim7" e ^c |"G6" d G2"Em7" G/G/ |"Am7" c A/G/"D7" F G/A/ |"G6" G2 z2 |] %33
+w: won- der- ful world of|Christ- mas should re-|main ev- 'ry day in our|hearts.|
+

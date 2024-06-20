@@ -1,0 +1,24 @@
+X:1
+T:America
+T:America
+T:(from West Side Story)
+T:Leonard Bernstein
+T:Stephen Sondheim
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"C" GGG ccc |"F" A2 F2 C2 |"C" GGG ccc |"G" d2 B2 G2 |"Cm7" _BBB _eee |"Bb" d2 _B2 F2 | %6
+w: I like to be in A-|mer- i- ca|o- kay by me in A-|mer- i- ca|Ev- ry- thing free in A-|mer- i- ca|
+w: Au- to- mo- bile in A-|mer- i- ca|Chro- mi- um steel in A-|mer- i- ca|Wi- re spoke wheel in A-|mer- ri- ca|
+"Ab" _EEE _AAA |"C" G2 e2 C2- | C6- | C6 |"C" EAG EAG | E2 G C3 | EAG cAG |"G7" B2 B A3 | z6 | %15
+w: for a small fee in A-|mer- i- ca|||I like the ci- ty of|San Juan *|I know a boat you can|get on *||
+w: Ver- y big deal in A-|mer- i- ca|||I'll drive a Bu- ick through|San Juan *|If ther'es a road you can|drive on *||
+"Dm7" Adc Adc |"G" A2 A F3 |"Dm7" Adc fdc |"G" B2 B G3 :| %19
+w: Hun- dreds of flow- ers in|full bloom *|Hun- dreds of peo- ole in|each room *|
+w: I'll give my cous- ins a|free ride *|How you fit all of them|in- side?- *|
+

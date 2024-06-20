@@ -1,0 +1,17 @@
+X:1
+T:Most múlik pontosan
+C:Quimby
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C C D E | G E3 | G G G G | E D3 | c c c c | c c c c | c c B A | A G F2 | F E D E | G E3 | %10
+w: Most mú- lik pon-|to- san,|en ge dem, hadd|men jen,|Sza- lad- jon ki-|fe- lé be- lő-|lem, gon- dol- tam,|egy- et- len,|Nem vagy itt jó|he- lyen,|
+ G G G G | E D3 | E E D C | D E3 | E D C C | D C3!fine! || E E E E | E E A B | c A3 | A c A c | %20
+w: nem vagy va- ló|ne- kem,|Vil lám lik, menny|dö rög,|ez tény- leg sze-|re- lem.|Vág- tat- nék to-|vább ve- led az|éj- ben,|az ál- mok fol-|
+ A c A c | A d3 | E E E E | E E E D | E D C2 | A A A A | A G F E | D4!D.C.! |] %28
+w: tos in- di- án-|lo ván,|Egy tál- tos szív|re- meg a kony-|ha- kés- ben,|tal- pam a- latt|sár és in- go-|vány,|
+

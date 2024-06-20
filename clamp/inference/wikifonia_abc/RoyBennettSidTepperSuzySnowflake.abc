@@ -1,0 +1,28 @@
+X:1
+T:Suzy Snowflake
+T:Suzy Snowflake
+C:Roy Bennett
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" G2 E2 | G c"C#dim7" G E |"Dm7" F F/G/ F E |"G7sus4""G7" D4 | d d d/c/B/A/ | %5
+w: Here comes|Su- zy Snow- flake|dressed in a snow white|gown,|tap, tap, tap- in' at your|
+"C/E" G c"A7" E3/2 G/ |"Dm7" F A"G7" B, A |"C""Dm7""G7" G4 |"C" G2 E2 | G c"C#dim7" G E | %10
+w: win- dow pane to|tell you she's in|town.|Here comes|Su- zy Snow- flake|
+"G7" F F/G/ F E |"G7sus4""G7" D4 |"G7" d d d/c/B/A/ |"C/E" G c"A7" E3/2 G/ |"Dm7" F A"G7" B, D | %15
+w: soon you will hear her|say,|"Come out ev- 'ry- one and|play with me, I|have- n't long to|
+"C""C7" C4 |"F" F/F/F/F/ F A | c2 A2 |"C" G G/G/"G7" G F |"C" E F"C7" G2 |"F" F/F/F/F/ F A | %21
+w: stay.|If you wan- na make a|snow- man,|I'll help you make one,|one, two, three.|If you wan- na take a|
+ c2 A2 |"D7" z z/ c/ B D |"Gsus4""G7" G4 |"C" G2 E2 | G c"C#dim7" G E |"G7" F F/G/ F E | %27
+w: sleigh ride,|the rides on|me.|Here comes|Su- sy Snow- flake,|look at her tum- blin'|
+"G7sus4""G7" D4 |"G7" d d d/c/B/A/ |"C/E" G c"A7" E2 |1"Dm7" F A"G7" B, D |"C" C2"G+7" z2 :|2 %32
+w: down,|bring- in' joy to ev- 'ry|girl and boy|Su- zy's back in|town.|
+"Dm7" A2 F2 |"G7" D2 B,2 |"C""F" C4- |"C" C3 z |] %36
+w: Su- zy's|back in|town.|_|
+

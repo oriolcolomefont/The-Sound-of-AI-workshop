@@ -1,0 +1,32 @@
+X:1
+T:Bless This House
+T:Bless This House
+T:May Brahe
+T:Helen Taylor (1927)
+C:May Brahe
+Z:All Rights Reserved
+L:1/4
+Q:1/4=64
+M:4/4
+K:C
+V:1 treble 
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Slow" z4 |"C" z4 |"F" z4 |"F6" z4 | z4 ||"C" C E G3/2 G/ |"F" A3/2 A/ G2 |"Dm" F G"C" E C | %8
+w: |||||Bless this house O|Lord we pray,|Make it safe by|
+"F6" D"G" B,"C" C2 |"C" C E G3/2 G/ |"F" A3/2 A/ G2 |"Dm" F/G/ E2 C |"F" D"G" B,"C" C2 | %13
+w: night and day;|Bless these walls, so|firm and stout,|keep- ing want and|trou ble out;|
+"Am" c3/2 c/"Em" B G |"F" A A"C" G2 |"F" A3/2 A/"Em" G E |"F6" D C"G7" D2 |"C" C3/2 D/ E C | %18
+w: Bless the roof and|chim neys tall,|Let Thy peace lie|o ver all;|Bless this door, that|
+"F" F G A B/c/ |"C/G" (c G/)E/"G7" D3/2 C/ |"C" C4 ||"F" z4 |"F6" z4 | z4 ||"C" C E G G | %25
+w: it may prove Ev er|o pen to joy and|love.||||Bless these win- dows|
+"F" A A G2 |"Dm" F G"C" E C |"F6" D"G" B,"C" C2 |"C" C E G3/2 G/ |"F" A A"Em" B3/2 B/ | %30
+w: shin ing bright,|Let ting in God's|heav'n ly light;|Bless the hearth a|blaz ing there, With|
+"Am" c3/2 c/"D7" d B | A A"G7" G2 |"Am" c3/2 c/"Em" B G |"F" A A"C" G2 |"F" A3/2 A/"Em" G E | %35
+w: smoke as cend ing|like a pray'r;|Bless the folk who|dwell with in,|Keep them pure and|
+"F6" D C"G7" D2 |"C" C D E C |"F" F G A2 |"D" D E ^F D |"G7" G A B2 |"C" e3/2 e/"Em7" d B | %41
+w: safe from sin;|Bless us all that|we may be|Fit, O Lord, to|dwell with Thee,|Bless us all that|
+"F" c"C" G"Dm" A B/c/ | f3/2 e/"G7" (e/ d) c/ |"C" c4 |] %44
+w: one day we May *|dwell, O Lord, * with|Thee.|
+

@@ -1,0 +1,28 @@
+X:1
+T:None But The Lonely Heart
+T:None But The Lonely Heart
+C:Tschaikovski
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Dm6/F""^Slowly with espression" A2 B, B, |"Am/E" A3/2 C/ C2 |"Dm" z D"Dm/C" E F | %3
+w: None but the|lone- ly heart|can know my|
+"G7/B" G2"Gm6/Bb" G2- |"A7" G _B A G |"Dm" F E"Dm/F" D A |"Gm6" G3 F |"A" E2 E2 | z E A G | %9
+w: sad- ness,|* a- lone and|part- ed far from|joy and|glad- ness.|* (PIANO~~SOLO) *|
+"Dm/A" F3/2 _B/ A2 |"G#dim7/A" z F E D | ^C2 A2 | z E A G |"Dm/A" F3/2 _B/ A2 |"B7/A" z ^F B A | %15
+w: |||Heav'n's bound- less|arch I see|spread out a-|
+"Em/G" (G3/2 c/) B2 |"B7/F#" z B z B/B/ |"Bm7b5/F" B3/2 B/"E" d3/2 B/ |"Am" c3 E |"Cm6/G" A2 A2 | %20
+w: ~~~~~b~o~v~~e * me.|Oh, what a|dis- tance dear to|one who|loves me!|
+"F#dim7" z4 |"G9/F" z A B, B, |"C/E" A3/2 C/ C2 |"G7/D" z D E F |"Gm6/D" G2 G2 |"A7/C#" z _B A G | %26
+w: |None but the|lone- ly heart|can know my|sad- ness|a- lone and|
+"Dm" F E D A |"Gm6" G3 F |"A7" E2 E2 |"A7/G" z A e2- |"Dm/F" e d"Dm7" c _A |"C/G" (_A2 G2) | %32
+w: part- ed far from|joy and|glad- ness,|a- lone|* and part- ed|far *|
+"G7b9" z F d F |"Am" F2 E z |"Dm" z4 |"^N.C." z D E F |"G9" B4- |"C/E" B c B A |"G7/B" G3 D | %39
+w: from joy and|glad- ness.||My sen- ses|fail,|* a burn- ing|fire de-|
+"Gm7/Bb" D2"A7" ^C z |"Dm" z D E F |"C/G" E3/2 E/"C7" E C |"Fm6" C2"G7" B,2 |"C" D C3- | C4 |] %45
+w: vours me.|None but the|lone- ly heart can|know my|sad- ness||
+

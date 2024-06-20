@@ -1,0 +1,72 @@
+X:1
+T:Rainy Days And Mondays
+T:Rainy Days And Mondays
+T:Roger Nichols
+T:Paul Williams
+C:Roger Nichols
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em7" g g2 a"Cmaj7" b4 |"Am7" egga"G/B" b4 |"Am7" egge"C/D" c'bge |"G/D" d4"D7sus4" E2 CD | %4
+w: ||||
+w: ||||
+w: ||||
+"G/D" B,D G2"D7sus4" G2 G2 |:S"G" B,<DDD/D/-"Bm/F#" DDCD |"Bm7b5/F" B,4"E7" B,4 | %7
+w: |1.....Talk- in' to my- self * and feel- in'|old, *|
+w: |2.....What I've got they used * to call the|blues, *|
+w: |3.....What I feel has come * and gone be-|fore, *|
+"Am11" B,/DB,/DE/E/-"Bm7" E2 z2 |"Am11/C" B,/D/D/B,/DE/D/-"Bm7" D2 z2 |"Em7" G G2 A/B/-"Cmaj7" B4 | %10
+w: Some- times I'd like to quit *|no- thing ev- er seems to fit, *|Hang- in' a- round *|
+w: No- thing is real- ly wrong, *|feel- in' like I don't be- long. *|Walk- in' a- round *|
+w: No need to talk it out, *|we know what it's all a- bout. *|Hang- in' a- round *|
+"Am7" E/GE/GA/B/-"G/B" B3 z |"Am7" E/G/G/E/GG/G/"C/D" cBGE- |"G/D" ED- D2"D7sus4" D4 |1 %13
+w: no- thing to do but frown; *|Rain- y days and Mon- days al- * ways get me|* down * *|
+w: some- kind of lone- ly clown; *|Rain- y days and Mon- days al- * ways get me|* down. * *|
+w: no- thing to do but frown; *|Rain- y days and Mon- days al * ways get me|* down. * *|
+"G/D" D4"D7sus4" D4 :|2"G/D""^and 3" D4"D" A2"B7/D#" A2 ||"Em7" A<GDB,/E/-"Cmaj7" EG,G,B, | %16
+w: ||Fun- ny but it seems * I al- ways|
+w: |||
+w: |||
+"Am7" DD"D7"DB,/D/-"Gmaj7" DAGE |"Bm7" D z DG"Cmaj7" GEED/E/ |"D7sus4/A" ED D2"D7" D2"B7/D#" ^D2 | %19
+w: wind up here with you, * * * *|* nice to know some- bod- y *|loves * me. * *|
+w: |||
+w: |||
+"Em7" A<GDB,/E/-"Cmaj7" EG,G,B, |"Am7" DD"D7"DE/D/-"Bm7" DAGE | D z D/GG/-"Cmaj7" GEED/E/ | %22
+w: Fun- ny but it seems * that it's the|on- ly thing to do, * * * *|* run and find * the one who *|
+w: |||
+w: |||
+"D7sus4/A" ED D2"D" FGBd!dacoda! |O"D7sus4/A" e2 d2"D" c2 G,A,!D.S.! || %24
+w: loves * me. * * * *||
+w: ||
+w: ||
+O"E7sus4/B" e2"^coda" e2"E7sus4" f2"E7" E2 ||"A" ^C<EEE"C#m/G" EEDE- |"C#m7b5" E ^C3-"F#7" C3 z | %27
+w: |What I feel has come and gone be-|* fore, *|
+w: |||
+w: |||
+"Bm11" ^C/EC/EF/E/-"C#m7" E4 |"Bm11/D" ^C/E/E/C/EF/E/-"C#m7" E3 z |:"F#m7" A A2 B/^c/-"Dmaj7" c4 | %30
+w: No need to talk it out, *|We know what it's all a- bout *|Hang- in' a- round *|
+w: |||
+w: |||
+"Bm7" F/AF/AB/^c/-"A/C#" c3 z |1"Bm7" F/A/A/F/AA"D/E" d^cAF || %32
+w: noth- in' to do but frown, *|rain- y days and Mon- days al- ways get me|
+w: ||
+w: ||
+"Amaj7/E" E2 E2"D/E" F2"C#7/F" ^G2 :|2[M:2/4]"D" F/A/A/F/ AA || %34
+w: down. * * *|rain- y days and Mon- days|
+w: ||
+w: ||
+[M:4/4]"Bm7" d2"C#m" ^cA"D/E" A2 FE- |"A/E" E E3"Bm7/E" E2 E2 |"A/E" E2 E2"Bm7/E" E2 BA | %37
+w: al- ways * get me *|* down. * *||
+w: |||
+w: |||
+"A/E" E2 E2"Bm7/E" E2 E2 |"A7sus4" e4"Amaj7" e4 |] %39
+w: ||
+w: ||
+w: ||
+

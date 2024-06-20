@@ -1,0 +1,27 @@
+X:1
+T:Eine Insel fuer zwei
+T:Eine Insel fuer zwei
+T:performed by Connie Francis
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ ^c d a |"G7" g2 f |"C" e3- | e ^F G |:"G7" B B3/2 B/ |"G7" B A B |"C" A G3/2 ^F/ |"C" G3 | %8
+w: |||* Ei- ne|In- sel fuer|zwei die sich|lie- ben wie|wir|
+"G7" G G3/2 G/ |"G7" G F G |"C" E3- | E ^F G |"G7" B B3/2 B/ |"G7" B A B |"C" A G3/2 ^F/ |"C" G3 | %16
+w: gibt es be-|stimmt irg- gend-|wo-|* Auf- *|blau- en La-|gu- ne ver-|trauemt sag ich|dir|
+"G7" G G3/2 G/ |"G7" F B, z |"C" C3- |1 C3 |]"C""^Fine" E/-D/ C2 |"C" E/-D/ C2 |"C" E F E | %23
+w: Dar- ling ich-|be dich|so-||Frag' den Wind|Frag' den Mond|Frag' al- le|
+"G7" G D2 |"G7" D/-C/ B,2 |"G7" D/-C/ B,2 |"G7" ^C3/2 D/ G/-F/ |"C" E3 |"C" E/-D/ C2 | %29
+w: Ster- ne|Wo das Glueck|e- wig wohnt|oh- ne zu ver-|geh'n|Den der Wind|
+"C" E/-D/ C2 |"C" E F E |"G7" G D2 |"G7" D/-C/ B,2 |"G7" D/-C/ B,2 |"D" D E ^F |"G" G ^F G :| %36
+w: und der Mond|und al- le|Ster- ne|Wer den dich|und auch mich|so gut ver-|ste'n Ei- ne|
+

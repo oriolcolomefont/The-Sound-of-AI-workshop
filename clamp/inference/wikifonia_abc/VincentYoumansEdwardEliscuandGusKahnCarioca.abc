@@ -1,0 +1,28 @@
+X:1
+T:Carioca
+T:Carioca
+T:Vincent Youmans
+T:Edward Eliscu and Gus Kahn
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ebm" z B=B_B _dc=B_B | e B3- B z z2 | z B=B_B _dc=B_B |"Bb7" f B3- B z z2 | %4
+w: Say! Have you seen the ca- ri-|o- ca? *|It's not a fox- trot or a|pol- ka, *|
+"Fm7b5" z B=B_B _dc=B_B |"Bb7" a3 f-"Ebm" f _g2 e |"Bb7" f3 d-"Fm7b5" d e2 =B |"Ebm" B8- | %8
+w: It has a lit- tle bit of|new rhy- * thm, a|blue rhy- * thm that|sighs,|
+ BB=B_B _dc=B_B | e B3- B z z2 | z B=B_B _dc=B_B |"Bb7" f B3- B z z2 |"Fm7b5" z B=B_B _dc=B_B | %13
+w: * It has a me- tre that is|trick- y *|A bit of wick- ed wack- i-|wick- y, *|But when you dance it with a|
+"Bb7" a3 f-"Ebm" f _g2 e |"Bb7" f3 d-"Fm7" d e2 c |"Eb" e8- | e4 z2 G2 | B8- | B2 GA B c2 B | %19
+w: new love, * There'll be|true love * in her|eyes.|* You'll|dream|* of the new ca- ri-|
+"Bb7" A4 F4- | F6 F2 | A8- | A2 FG A B2 A |"Eb" G8- | G6 G2 | B8- | B2 GA B c2 B |"Bb7" A4 F4- | %28
+w: o- ca.|* It's|theme|* is a kiss and a|sigh.|* You'll|dream|* of the new ca- ri-|o- ca|
+ F6 G2 | A c2 G B2 FA- | AE G2 D F2 C |"Eb" E8- | E2 z2 z4 |] %33
+w: * When|mus- ic and lights are gone|* and we're say- ing good-|bye.-||
+

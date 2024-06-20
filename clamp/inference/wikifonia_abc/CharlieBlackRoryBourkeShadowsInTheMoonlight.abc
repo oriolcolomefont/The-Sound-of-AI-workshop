@@ -1,0 +1,27 @@
+X:1
+T:Shadows In The Moonlight
+T:Shadows in the moonlight
+T:Charlie Black and Rory Bourke
+C:Charlie Black, Rory Bourke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 GA |:"C" dccA c2 d2 |"Dm7" z4 Ac c2 |"G7" agge g2 ed |"Am7" c8 |"Dm7" efed c4 | efeG cc d2 | %7
+w: We'll be|shad- ows in the moon- light|dar- ling I'll|meet you at * mid- night *||hand in hand we'll go|danc- in throught the milk- y way|
+"C" c8 |"G7" z4 z2 GA |"C" dccB cc d2- |"Dm7" d4 Ac c2 |"G7" agge gg e2 |"Am7" c4 z2 Ac | %13
+w: |and we'll|find a lit- tle hide- a way|* where we can|love the whole * night a- way|* we'll be|
+"Dm7" efed c2 A2 | efeG cc d2 |"C" c8 | z8 |"Gm7" f6 e2 | f2 e2 d2 c2 |"F" e2 f2 g2 f2 |"Dm" e8 | %21
+w: shad- ows in the moon- light|right up 'til the light of day|||Ooo the|night is young and|ba- by so are|we|
+"Am7" e4 A2 AA |"D7" e2 d2 A2 e2 |"G7" d8 |"C7" z8 |"Gm7" f6 e2 | feed c2 c2 |"F" ef e2 e2 ae | %28
+w: glad I'm gon- na|make you glad you|came||Ooo you|wont need a thing * just|bring your * love for *|
+"A" g4 a4 |"Dm7" z2 c2 a2 g2 |"F" a2 g2 c2 c2 |"D7" e4 d4 |"G7" z4 z2 GA ||"C" dccA c2 d2 | %34
+w: me *|and dar- lin|I need do the|same *|We'll be|shad- ows in the moon- light|
+"Dm7" z4 Ac c2 |"G7" agge g2 ed |"Am7" c8 |"Dm7" efed c4 | efeG ccdc |"C" z8 |"Gm7" z8 | f6 e2 | %42
+w: dar- lin I'll|meet you at * mid- night *||hand in hand we'll go|danc- in through the milk- y way *|||Ooo you|
+ feed c2 c2 |"F" ef e2 e2 ae |"A" g4 a4 |"Dm" a2 g2 c2 a2 | g2 a2 c2 d2 |"G7" e4 de g2 | a6 GA :| %49
+w: wont need a thing * just|bring your * love for *|me *|you'll be glad you|came just wait and|see * wait and|see we'll be|
+

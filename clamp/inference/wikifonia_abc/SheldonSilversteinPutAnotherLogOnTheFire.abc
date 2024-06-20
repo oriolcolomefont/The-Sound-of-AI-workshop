@@ -1,0 +1,31 @@
+X:1
+T:Put Another Log On The Fire
+T:Put Another Log On The Fire
+T:Sheldon Silverstein
+C:Sheldon Silverstein
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B3/2 B/ ^A B | d2 B3/2 B/ | A G z2 | z4 | d d d d | d B c B |"D7" A2 z2 | z2 z c | %8
+w: Put an- oth- er|log on the|fire *||Cook me up some|ba- con and some|beans|And|
+"D7" c/ c3/2 c A | c F A3/2 E/ | G F z2 | z4 | A A A G | A ^G A ^A |"G" B2 B/ d3/2 | e B d d | %16
+w: go out to the|car and change the|ty- re||Wash my socks and|sew my old blue|jeans Come on|ba- by, You can|
+ B B B3/2 E/ | B B A B | A G z2 | z2 z ^c | d3/2 d/ d3/2 d/ |"G7" d/ B3/2 c d |"C" e2 z2 | z2 z d | %24
+w: fill my pipe and|then go fetch my|slip- pers|And|boil me up an-|oth- er pot of|tea|Then|
+ e3/2 e/ e e | e2 d3/2 c/ |"G" c B3 | B2 z D |"D7" B B c ^c | d d B3/2 F/ |"G" G2 z2!fine! || %31
+w: put an- oth- er|log on the|fi- re|babe and|come and tell me|why you're leav- ing|me.|
+ z2 z"D7" d |"G" B B ^A B | d3/2 d/ B D | E G z2 | z4 | d d d d | d B c/ B3/2 |"D7" A2 z2 | z4 | %40
+w: Now|don't I let you|wash the car on|Sun- day||Don't I warn you|when you're get- tin'|fat||
+ c/B/c/B/ c B | c B A G | G F z2 | z2 z D/D/ | A A A3/2 D/ | A G A ^A |"G" B2 z2 | z4 | B B ^A B | %49
+w: Aren't I gon- na take you|fish- in' with me|some- day|Well a|man can't love a|wo- man more than|that||Ain't I al- ways|
+ d3/2 A/ ^A B | A G z2 | z4 | d d d d |"G7" d B c d |"C" e2 z2 | z2 z d | e e e d | e2 B c | %58
+w: nice to your kid|sis- ter||Don't I take her|dri- vin' ev- ry|night|So|sit here at my|feet 'cause I|
+"G" d e d c | B2 z B/c/ |"D7" d2 d/ d3/2 | c3/2 c/ B3/2 D/ |"G" G2 z2 | z2"D7" d2!D.C.! |] %64
+w: like you when you're|sweet And you|know it aint|fem- in- ine to|fight|So|
+

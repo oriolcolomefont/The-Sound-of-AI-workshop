@@ -1,0 +1,34 @@
+X:1
+T:Hij kan nie zinge nie
+T: Laukens Music Productions  
+T:Hij kan nie zinge nie
+T:Arr. H. Laukens
+T:Hij kan nie zinge nie blad 2 van 
+T: Laukens Music Productions  
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:6/8
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 21
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"E6" !fermata!e3 ||S"Emaj7" !fermata!d3 !fermata!B3 |"B7" c2 d BBB | c z B c2 B | c2 z d3 | c3 A3 | %6
+"E" B2 c BBB | c z B c2 B | c2 z G3 | A3 B3 |"B7" A2 G F3- | F2 G A2 B | A2 G F3- | F2 G A2 F | %14
+"E" G2 A B3 | Beg egb | e'2 z"E6" e3 |"Emaj7" d3 B3 |"B7" c2 d BBB | c2 B c2 B | c2 z d3 | c3 A3 | %22
+"E" B2 c BBB | c2 B c2 B | c2 z G3 | A3 B3 |"B7" A2 G F3- | F2 G A2 B | A2 G F2 B | B2 B c2 d | %30
+"E" e3 efg |"A" a3 aOgf ||"Em" e3 B3 | =G3 E2 G ||[K:Ebmin]"Ebm" B2 B E2 G | B2 B E2 G | %36
+ B2 B c2 B |"Bb7" A3 F2 G | A2 A F2 G | A2 A F2 G | A2 A B2 A |"Ebm" G3 E2 G | B2 B E2 G | %43
+ B2 B E2 G |"Eb7" B2 e e2 d |"Abm" c3 c2 d | e2 e d2 c |"Ebm" B2 B A2 G |"Bb7" A3 A3 | G3 F3 | %50
+"Eb" E=GB GBe | Be=g egb | e' z z"Eb6" !fermata!e3S ||O e2 z =e3 || %54
+[K:F]"Fmaj7" !fermata!e3 !fermata!c3 |"C7" d2 e ccc | d z c d2 c | d2 z e3 | d3 B3 |"F" c2 d ccc | %60
+ d z c d2 c | d2 z A3 | B3 c3 |"C7" B2 A G3- | G2 A B2 c | B2 A G3- | G2 A B2 G |"F" A2 B c3 | %68
+ cfa fac' | f'2 z"F6" f3 |"Fmaj7" e3 c3 |"C7" d2 e ccc | d z c d2 c | d2 z e3 | d3 B3 | %75
+"F" c2 d ccc | d z c d2 c | d2 z A3 | B3 c3 |"C7" B2 A G3- | G2 A B2 c | B2 A G2 c | c2 c d2 e | %83
+"F" f3 fga |"Bb" b3 bag |"F" a3 A3 | B3 c3 |"C7" B2 A G3- | G2 A B2 c | B2 A G2 c | c2 c d2 e | %91
+"F" f2 z z2 z | z2 z"C7" c2 z |"F" f2 z z2 z |] %94
+

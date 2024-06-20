@@ -1,0 +1,25 @@
+X:1
+T:Send Me The Pillow That You Dream On
+T:Send me the pillow that you dream on
+T:Hank Locklin
+C:Claude Casey
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G2 c c |"F" B A F A |"C" A G3- | G3 z |"G7" D E F G | B A G F |"C" E4- | E3 z | G2 c c | %9
+w: Send me the|pil- low that you|dream on||dont you know that|I still care for|you||send me the|
+w: |||||||||
+"F" B A F A |"C" A G3- | G2 z B | c G G E |"G7" F2 E D |"C" C4- | C2 z c |:"F" c2 B c | d c A c | %18
+w: pil- low that you|dream on|* so|dar- ling I can|dream on it|too.|* Each|night while I'm|sleep- ing oh so|
+w: |||||||wait- ed so|long for you to|
+"C" A G3- | G2 z c |"G7" B c B A | G A G F |"C" E4- | E4 | G2 c c |"F" B A F A |"C" A G3- | %27
+w: lone- ly|* I'll|share your love in|dreams that once were|true.||send me the|pil- low that you|dream on|
+w: write me|* but|just a mem 'rys|all thats left of|you|||||
+ G2 z B | c G G E |"G7" F2 E D |1"C" C4- | C2 z c :|2"C" C4- | C3 z |] %34
+w: * so|dar- ling I can|dream on it|too|* I've|too||
+w: |||||||
+

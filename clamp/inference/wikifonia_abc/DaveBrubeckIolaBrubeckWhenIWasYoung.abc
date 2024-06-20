@@ -1,0 +1,41 @@
+X:1
+T:When I Was Young
+T:When I was Young
+T:Dave Brubeck
+T:Iola Brubeck
+C:Dave Brubeck
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 z2 z F |:"Bbmaj7" D3 F"Ebmaj7" G3 E |"Bbmaj7" (3D2 F2 A2"G7" G3 D |"Cm7" D3 G"Ab7" _A3 _G | %4
+w: When|I was young the|world seemed so gay. The|lol- li- pops would|
+w: |mem- ber when I|rode in your car? Your|a- ther somked a|
+"Fmaj7" (3F2 =A2 B2"A7" A3 G |"Dm" F3 A"Eb" B3 F |"Bbmaj7" (3D2 F2 A2"Eb11" c3 B |1 %7
+w: last for a day. The|mo- vies has a|dime ma- ti- nee when|
+w: ten cent ci- gar. You|hand- ed me the|ring with the star. Did|
+"^Dm7" A2 F2"Gm7" F2 z2 |"Cm7" G2 E"B7"E- E2 z F :|2"Dm7" A2 F2"Gm7" F3 F | %10
+w: I was young.|Life was gay. * Re|you once dream we'd|
+w: |||
+"Gm7" B2 G"C7"G- G2 z2 ||"F7" c2 A2 c2 A2 |"D7" c2 cd cBAc |"G7" =B2 G2 G3 A |"C7" _B2 G2 G4 | %15
+w: go this far? *|Ding dong ding dong|Who put a ring up- on my|fin- ger? Say, can|you guess who?|
+w: |||||
+"Fm7" _A2 F2 A2 F2 |"Bb7" _A2 AB AGFA |"Ebmaj7" G2 E2 E3 F |"Ab7" _G2 E2 E3 F | %19
+w: Ding dong ding dong|I'm gon- na sing up- on my|wed- ding day how|I love you. When|
+w: ||||
+"Bbmaj7" D3 F"Ebmaj7" G3 E |"Bbmaj7" (3D2 F2 A2"G7" G3 D |"Cm7" D3 G"Ab7" _A3 _G | %22
+w: I was young, so|pro- per and nice, a|lit- tle girl all|
+w: |||
+"Fmaj7" (3F2 =A2 B2"A7" A3 G |"Dm" F3 A"Eb" B3 F |"Bbmaj7" (3D2 F2 A2"Eb7" e2 d_d |"D7""G7" d8- | %26
+w: su- gar and spice, I|ra- tioned kis- ses|took ma's ad- vice Here we|are.|
+w: ||||
+"C7" d2 z2"F7" B2 GB- |"Gm7" B8- |"Cm" B2 z2"F7" B2 GB- |"Bb""Gm7" B8- |"Cm" B2 z2"F7" B2 GB- | %31
+w: * Shoes and rice.||* It's so nice.||* Shoes and rice.|
+w: |||||
+"Bb""Gm7" B8- |"Cm" B2 z2"F7" B2 GB- |"Bb" B8- | B6 z2 |] %35
+w: |* We'll stay young.|||
+w: ||||
+

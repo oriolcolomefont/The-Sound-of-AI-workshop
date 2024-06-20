@@ -1,0 +1,20 @@
+X:1
+T:Egy asszonynak kilenc a leánya
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Cm" C2 C2 E2 E2 |"G" G^FGA G =F3 |"Cm" E3 F"G" E D3 |"Cm" C4 C2 z2!fine! |"G" G2 G2 B2 B2 | %5
+w: Egy asz- szony- nak|ki- lenc a le- á- nya,|nem győ- zi szám-|lál- ni.|Min- den es- te|
+w: El- la, Bel- la,|Ju- ci, Ka- ro- li- na,|gyer- tek va- cso-|rál- ni!||
+"D" d^cde d =c3 |"G" B3 c"D" B =A3 |"G" G4 G2 z2 |"Fm" c3 d c B3 |"G" B4 G4 |"Cm" c2 G2 G F3 | %11
+w: ki- áll a ka- pu- ba,~s|el- kezd ki- a-|bál- ni:|Er- zsi, Pi- ri,|Sá- ri,|Ju- lis- ka, Ro-|
+w: ||||||
+"G" E4 D4!D.C.! |] %12
+w: zá- li,|
+w: |
+

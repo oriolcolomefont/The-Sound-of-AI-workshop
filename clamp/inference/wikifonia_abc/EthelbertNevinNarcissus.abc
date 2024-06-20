@@ -1,0 +1,25 @@
+X:1
+T:Narcissus
+T:Narcissus
+T:Ethelbert Nevin
+C:Ethelbert Nevin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z B ||S"G" D3 E G3 E |"D7" (3FAE F>A d3 B |"G" D3 E G3 E |"D7" (3FAE F>A d3 e | %5
+"G7" d3 e"C" c3 e |"E7" B3 c"Am" A3 B | A>B (3AGE"Adim" A>B (3AG_E |"D7" A>B (3AFe d>g (3fdb | %9
+"G" d3 e g3 e |"D7" (3fae f>a d'3 b |"G" d3 e g3 e |"D7" (3fae f>a d'3 e' |"G7" d'3 e'"C" c'3 e' | %14
+"E7" b3 c'"Am" a3 b | a>b (3age"Adim" (3aba (3g_eb |"D7" a4"G" g4!fine! || %17
+"Eb7" (G2 (3G)=FG"Ab" F2 _E2 |"Eb7" (3_D_E=F (3GFG"Ab" F2 E2 |"E7" (^G2 (3G)FG"A" F2 E2 | %20
+"E7" (3DEF (3^GFG"A" F2 E2 |"F7" (A2 (3A)GA"Bb" G2 =F2 |"Gb7" (_B2 (3B)_AB"B" A2 _G2 | %23
+"G7" (B2 (3B)AB"C" A2 G2 |"G7" (3=FGA (3BAB"C" A2 G2 |"Ab" (3_Ac_e (3:2:2_a2 e (3=fce A2 | %26
+"G7" (3GBd (3:2:2g2 d (3eBd G2 |"Gb7" (3_G_B_d (3:2:2_g2 d (3eBd G2 | %28
+"F7" (3=FAc (3:2:2=f2 c (3dAc F2 | (3=f z c (3dAc =F2 ^GA |"D7" (e2 (3e)^GA (e2 (3e)GA | %31
+ e2 d2 D3"Adim" B!D.S.! |] %32
+

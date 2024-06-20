@@ -1,0 +1,29 @@
+X:1
+T:Angry
+T:Angry
+C:Henry Brunies, Jules Cassard, Merritt Brunies
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" F2 G2- | G A B"G7" =B |"C7" c2 d2- | d G"Cdim" ^F"C7" G |"F7" d2 d2 |"F#7" _d2"F7" c2 | %6
+w: An- gry,|_ please don't be|ang- ry,|_ 'Cause I was|on- ly|teas- ing|
+w: ||||||
+"Bb" B4- |"Bb7" B4 |"Eb" B B2 G |"Ebm" B B2 c |"Bb" d d2"D7" c |"G7" =B d2- d |"C7" d c B G | %13
+w: you.|_|I would- n't|ev- en let|you think of|leav- in' _|Don't you know I|
+w: ||Some- bod- y's|ly- in' if|they say I'm|try- in' to|step a- round with|
+ d2"F#7" _d2 |"F7" c4- | c4 |"Bb7" d B c B | d B c B | d2 c/ B3/2 | _A4 |"Eb" c d"Bb+" c B | %21
+w: love you|true?|_|Just be- cause I|took a look at|some- bod- y|else,|That's no rea- son|
+w: some- one|new.|_|Don't be- lieve a|thing you hear just|wait till you|see.|Then you'll find no|
+"Eb" c d"Bb+" c B |"Eb" d2 c/ B3/2 |"Ebm" _G4 |"Bb" F2 G2- | G A B"G7" =B |"C7" c2 d2- | %27
+w: you should put poor|me on the|shelf.|An- gry,|_ please don't be|an- gry|
+w: cause to show you're|jeal- ous of|me.||||
+ d G"Cdim" ^F G |"F7" d2 d2 |"F#7" _d2"F7" c2 |1"Bb""Gm7" B4 |"Cm7""F7" z4 :|2"Bb" B4- | B z z2 |] %34
+w: _ 'Cause I was|on- ly|teas- in'|you.||you.|_|
+w: |||||||
+

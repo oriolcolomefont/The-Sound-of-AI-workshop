@@ -1,0 +1,39 @@
+X:1
+T:Ring,Ring
+T:Ring,Ring
+T:Benny Andersson,Stig Anderson & Bjorn Ulvaeus
+C:Benny Andersson, Stig Anderson&Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G,3 B,- B,C^CD | G,3 B,- B,C^CD | G,3 B,- B,C^CD | G,2 z2 z2 GG |:"G" B2 dd- dB e2- | %5
+w: |||* I was|sit- ting by * the phone|
+w: ||||here and now * you're gone|
+ e4 z2 dd | e2 gg- ge a2- |"C" a4 z2 cc | e2 gg- gggg | a2 gg- g g2 G |"G" B2 d6- | d6 GG | %12
+w: * I was|wait- in' all * a- lone|* Ba- by|by my- self * I sit and|wait and won- * der a-|bout you|* It's a|
+w: * Hey did|I do some- * thing wrong|* I just|can't be- lieve * that I could|be so bad- * ly mis-|tak- en|* Was it|
+ B2 dd- dB e2- | e6 dd | e2 gg- ge a2- |"C" a4 z2 cc | e2 gg- gggg | a2 gg- g g2 G |"G" B2 d6- | %19
+w: dark and drear- * y night|* Seems like|noth- ing's go- * in' right|* Won't you|tell me hon- * ey How can|I go on * here with-|out you|
+w: me or was * it you|* Tell me|are we real- * ly through|* Won't you|hear me cry * And you will|know that my * heart is|break- in'|
+ d4 z2 dd |"D7" f2 aa- af b2- | b6 dd | f2 aa- af b2- | b2 a2 b2 a2 ||"G" g4 g4 | gabc'- c' b2 a | %26
+w: * Yes I'm|down and feel- * ing blue|* And I|don't know what * to do||Ring Ring|Why don't you give * me a|
+w: * Please for-|give me and * for- get|* Or maybe|dar- ling bet- * ter yet-||||
+"D7" a4 z4 | z8 | f4 f4 | fgab- b a2 a |"G" g4 z2 z2 | z8 | g4 g4 | gabc'- c' b2 a |"D7" a4 z2 z2 | %35
+w: call||Ring Ring|The hap- piest sound * of them|all||Ring Ring|I stare at the phone on the|wall|
+w: |||||||||
+ z4 z2 AB |"Am" c2 Bc A2 cB- | Bc A4 AB | c2 Bc A2 cB- | Bc A2 A2 G2 |"D7" F4 F4 | FGAB- B A2 G | %42
+w: And I|sit all a- lone im- pat-|* ient- ly Won't you|please un- der- stand the need|* in me * *|Ring Ring|Why don't you give * me a|
+w: |||||||
+"G" G4 z2 z2 | z2 z2 A2 G2 |"D7" F4 F4 | FGAB- B A2 G |1"G" G4 z2 z2 || z4 z2 GG ::2"G" G4 z2 z2 || %49
+w: call|So *|Ring Ring|Why don't you give * me a|call|You were|call|
+w: |||||||
+ z2 z2 A2 G2 |"D7" F4 F4 | FGA"^fade out ending"B- B A2 G :| %52
+w: So *|Ring ring|why don't you give * me a|
+w: |||
+

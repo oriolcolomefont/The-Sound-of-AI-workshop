@@ -1,0 +1,36 @@
+X:1
+T:Hooray For Love
+T:Hooray For Love
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Eb6" E2"Abmaj7" E3/2 F/ |"Gm7" G E"Fm7" A2 |"Eb" G/^F/G/F/"Abmaj7" G E |"F7/A" F C"Bb9" D2 | %4
+w: Love! Love! Hoo-|ray for love!|Who is ev- er too bla-|sé for love?|
+w: some trust to|fate for love;|Oth- er's have to take off|weight for love.|
+"Eb" E2"Fm7" E3/2 F/ |"Eb/G" G E"Bbm7""Eb7" B2 |"Ab" A/G/A/G/"C9" A G |"Fm7" F"Bb9" F"Eb" E2 | %8
+w: Make this a|night for love.|If we have to fight, let's|fight for love.|
+w: Some go ber-|serk for love,|loaf- ers ev- en go to|work for love.|
+"Bbm7" _d2 d3/2 c/ |"Eb7" _d c B2 |"Ab6" G/A/B/c/"Eb/G" B e |"Ab" A"F+7" G"Bb9" F2 | %12
+w: Some sigh and|cry for love,|ah, but in Par- ee they|die for love.|
+w: Sad songs are|sobbed for love,|peo- ple have their nos- es|bobbed for love.|
+"Eb6" E2"Abmaj7" E3/2 F/ |"Db9" G E"C9#5" A2!dacoda! |"F7" z G/^F/ G E |"B9b5" F2"Bb9" F2 | %16
+w: Some waste a-|way for love,|just the same, hoo-|ray for|
+w: Some say we|pay for love,|||
+"Eb6""Cm7" E4- |"F7" E z"Bb9" z B,/B,/ |"Fm7" A/G/F/E/"Bb7" F2- |"Fm7" F3"Bb7" B,/B,/ | %20
+w: love!|_ It's the|won- der of the world,|_ It's a|
+w: ||||
+"Ebmaj7" G/F/E/D/ E2- |"Fm7" E3"Bb7" c |"Eb" B e"Fm7" d c |"Eb/G" B e"F#dim7" d c | %24
+w: rock- et to the moon,|_ it|gets you high, it|gets you low, but|
+w: ||||
+"Fm7" B e"Bb7" c d |"Eb6" e z"E7b5" B2!D.C.! ||O"F7" z G/^F/ G E |"Fm7" F2"Bb7" F2 |"Eb" E4- | %29
+w: once you get that|glow, oh!|just the same, hoo-|ray for|love!|
+w: |||||
+ E2 z2 |] %30
+w: _|
+w: |
+

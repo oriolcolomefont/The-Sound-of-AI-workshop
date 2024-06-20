@@ -1,0 +1,50 @@
+X:1
+T:On Eagle's Wings
+T:On Eagle's Wings
+C:Michael Joncas
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" ADA,A F2 E2 | ADA,A F2 E2 |"Em" GEB,B G2 F2 | GEB,B G2 F2 |"A7" ADA,A E2 A2 | %5
+w: |||||
+"D" d2 A2"D7" =c2 A2 |"G" B2 A2"Em" G2"A" c2 |"Bm" d2 A2"F#m" GFED |"Fm""A7" E6 DC |"D" D8 || %10
+w: |||||
+"G" c2 B2 c2 BB |"Dmaj7/F#" AGFG A2 Dd |"G" c B2 d c B2 c |"Dmaj7/F#" A6 z2 |"F" A2 A_B A2 G2 | %15
+w: 1.~You who dwell in the|shel- ter of the Lord, who a-|bide in His shad- ow for|life,|say to the Lord: "My|
+"Dm" A2 D4 E2 |"F" =F3 G"Gm" A2 G2 |"Asus4" E4"A" z A,A,A, ||"D" E3 F F2 A,2 | E3 F F4 | %20
+w: re- fuge, my|Rock, in whom I|trust." And He will|raise you up on|eag- le's wings,|
+"Em" F3 G G2 A,2 |"A7" F3 G G4 |"D" A2 AA"D7" (GF)ED |"G" B4-"Em" B2"A" c2 | %24
+w: bear you on the|breath of dawn,|make you to shine _ like the|sun, _ and|
+"Bm" d2 A2"Em" (GF)"F#m"(ED) |"Em" E4-"A" E2 DC |"D" D6 z2 || z4 z2 d2 |"G" c B2 d c B2 c | %29
+w: hold you in _ the _|palm _ of His|hand.|2.~The|snare of the fow- ler will|
+"Dmaj7/F#" AGFG A2 z d |"G" c B2 d c B2 c |"Dmaj7/F#" A6 z2 |"F" (3A2 A2 _B2 A2 G2 | %33
+w: nev- er cap- ture you, and|fam- ine will bring you no|fear:|un- der His wings your|
+"Dm" A2 D2- D z E2 |"F" =FG A2-"Gm" A2 G2 |"Asus4" E4"A" z A,A,A, ||"D" E3 F F2 A,2 | E3 F F4 | %38
+w: re- fuge, _ His|faith- ful- ness _ your|shield. And He will|raise you up on|eag- le's wings,|
+"Em" F3 G G2 A,2 |"A7" F3 G G4 |"D" A2 AA"D7" (GF)ED |"G" B4-"Em" B2"A" c2 | %42
+w: bear you on the|breath of dawn,|make you to shine _ like the|sun, _ and|
+"Bm" d2 A2"Em" (GF)"F#m"(ED) |"Em" E4-"A" E2 DC |"D" D6 z2 | z8 |"G" (3c2 B2 d2 c2 B2 | %47
+w: hold you in _ the _|palm _ of His|hand.||3.~You need not fear the|
+"Dmaj7/F#" AGFG A2 Dd |"G" c B2 d c2 B2 |"Dmaj7/F#" A6 z A |"F" A3 _B A2 G2 |"Dm" A2 D6 | %52
+w: ter- ror of the night nor the|ar- row that flies by|day; though|thou- sands fall a-|bout you,|
+"F" =F2 GG"Gm" A2 G2 |"Asus4" E4"A" z A,A,A, ||"D" E3 F F2 A,2 | E3 F F4 |"Em" F3 G G2 A,2 | %57
+w: near you it shall not|come. And He will|raise you up on|eag- le's wings,|bear you on the|
+"A7" F3 G G4 |"D" A2 AA"D7" (GF)ED |"G" B4-"Em" B2"A" c2 |"Bm" d2 A2"Em" (GF)"F#m"(ED) | %61
+w: breath of dawn,|make you to shine _ line the|sun, _ and|hold you in _ the _|
+"Em" E4-"A" E2 DC |"D" D6 z2 || z8 |"G" (3c2 B2 d2 c B2 c | AGFG A2 z d |"G" c B2 d c B2 c | %67
+w: palm _ of His|hand.||4~For. to His an- gels He's|giv- en a com- mand to|guard you in all of your|
+"Dmaj7/F#" A6 z A |"F" A3 _B A2 =FG |"Gm" A2 _B2 A2 =FG |"Am" A2 _B2"Bb" =cBAG | %71
+w: ways; up-|on their hands they will|bear you up, lest you|dash your foot a- gainst a|
+"Asus4" E4"A" z A,A,A, ||"D" E3 F F2 A,2 | E3 F F4 |"Em" F3 G G2 A,2 |"A7" F3 G G4 | %76
+w: stone. And He will|raise you up on|eag- le's wings,|bear you on the|breath of dawn,|
+"D" A2 AA"D7" (GF)ED |"G" B4-"Em" B2"A" c2 |"Bm" d2 A2"Em" (GF)"F#m"(ED) |"Em" E4-"A" E2 DC | %80
+w: make you to shine _ like the|sun, _ and|hold you in _ the _|palm _ of His|
+"D" D6 z2 | z4 z2 c2 |"Bm" d4"F#m" A4 |"Em7" G2 F2 E2 D2 |"A" E8- | E6 DC |"D" D8- | D6 z2 |] %88
+w: hand.|And|hold you,|hold you in the|palm|_ of His|hand|_|
+

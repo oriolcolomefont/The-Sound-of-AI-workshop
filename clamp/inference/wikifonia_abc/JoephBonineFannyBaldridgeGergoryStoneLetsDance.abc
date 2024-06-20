@@ -1,0 +1,22 @@
+X:1
+T:Let's Dance
+T:Let's Dance
+C:Joeph Bonine
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 F2 |"C" E8 |"Cdim7" _E8 |"C" =E8 | C8 |"G7" G8 |"F#dim7" ^F8 |"G7" G8- | %8
+w: So,|let's|dance,|let's|glide,|light|are|low,|
+ G z ^CD"G+7" B2 A2 |"C" E8 |"Cdim7" _E8 |"C""Gm6/Bb" =E8 |"A7" A4- A G3 |"Dm7" G6 F2 | %14
+w: _ How I love you!|Stay|by|my|side _ as|we go|
+ E F2 e- e d3 |"Dm7" c4 A c2 B- |"G7" B2 A4"G+7" G2 |"C" E8 |"Cdim7" _E8 |"C" =E8 | C8 |"F" A8 | %22
+w: where sweet mu- * sic|weaves her spell o-|* ver us.|Your|cheek|kiss-|ing|mine,|
+"Bb7" _A8 |"F""F7/Eb" =A8 |"D7" ^G A2 d- d c3 |"Cmaj7" e8 | d2 c2 z B3 |"Em7b5" _B8 | %28
+w: my|sweet.|Thrills me through _ dear.|Ah!|Sweet mel- o-|dy,|
+"A+7" A2 f4"A7" e2 |"D9" e8 |"G9""G7b9" d8 |"C" c8- | c2 z2 z4 |] %33
+w: come guide our|feet;|let's|dance.|_|
+

@@ -1,0 +1,24 @@
+X:1
+T:Dream Waltz
+T:Dream Waltz
+T:Barcarolle (from Tales of Hoffmann)
+T:Jacques Offenbach
+T:Ekay Music, Inc. (ASCAP)
+C:Jacques Offenbach
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Flute" snm="Fl."
+%%MIDI program 52
+V:1
+"D""^valse moderato"!mp! F2"^legato" G | G2 F |"A7" F E G | G2 F | F E G | G2 F |"D" (F3 | %7
+ F) z/ (D/ F/)B/ | A3 :: A2 B | B2 c |"A7" c2 d | d2 c | c2 B | B2 A | A3 |"D" z (c/d/) f/b/ | %17
+ a2 A :|"D7" a2 b | b2 =c' | (d'3 | d'3) | z a b | =c' b a |"G" (b3 | b3) |"E7" b2 c' | c'2 d' | %28
+ (e'3 | e'3) | z b c' | d' c' b |"A" a2 b | b2 a |"Adim7" (a3 | !breath!a) c' b |"A" a2 b | b2 a | %38
+"Adim7" (a3 | a) c' b |"A" a2 b | b2 a |"A7""A9" a2 b |"A7" b2"A7" a |:"D" f f g | g g f | %46
+"A7" f e g | g g f | f e g | g g f |1"D""D6""^dim. e rit." f2"D6" b ||"D" b2"D" a :|2 %52
+"F#dim7" (a3 || a3) |"A7" z!<(!!mf! e f!<)! | g a b |"D" (a3 | a3) |"A7" z!<(! a b!<)! | %59
+"^ritenuto" c' d'!f! e' |"F#dim7" (f'3 | f'3) | z e' d' | c' d' b |"D""_diminuendo" (a3 | %65
+ a2)!mf! b |"A7" (c'3 |!>(! c'3)!>)! |"D""^rit." !~(!d3 |!p! !~)!!fermata!d'3 |] %70
+

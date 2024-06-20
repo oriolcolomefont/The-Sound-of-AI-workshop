@@ -1,0 +1,24 @@
+X:1
+T:Tricotism
+T:Tricrotism
+T:Oscar Pettiford
+T:COPYRIGHT
+C:Oscar Pettiford
+Z:All Rights Reserved
+L:1/8
+Q:1/4=165
+M:4/4
+K:Db
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ A |:"Db""^A" BcBA z2 z F | EFED z2 z F |"Eb7" cB=GF =DEGc | B=Gef z2 z D |"Gb7" GGDG"Gdim" =GGDG | %6
+"Db/Ab" A2 (3A=G_G"Bb7" F=B=A_B |1"A7" =A,^C=E=G ^FE=B=A |"Ab7" A2 z4 z A :|2 %9
+"Ebm7" =DEGB"Ab7" =AF_AC ||"Db" D8 ||"A7""^B" z =A (3C^C=E =G^FE=D | ^C=E=G=B- B2 z G | %13
+"Db" AA=GA cBA_G |"Cm7b5" F2 (3A=G_G"F7" FEDC |"Bbm7" B,DFB"F7" =AFDE |"Bbm7" FDB,C D2 z G- | %17
+"Ebm7" GB,EG FE=DF |"A7" EB, (3CEG"Ab7" =B=Az_A ||"Db""^C" BcBA z2 z F | EFED z2 z F | %21
+"Eb7" cB=GF =DEGc | B=Gef z2 z D |"Gb7" GGDG"Gdim" =GGDG |"Db/Ab" A2 (3A=G_G"Bb7" F=B=A_B | %25
+"Eb" =DE=GB"Ab7" =AG_AC |"Db" D8 |] %27
+

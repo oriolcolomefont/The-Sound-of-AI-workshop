@@ -1,0 +1,24 @@
+X:1
+T:Eternally
+T:Eternally
+C:Charlie Chaplin
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bb" B3 c dc | e3 d AB |"Cm7" c6- |"F" c6 | A3 B cB |"F9" d3 c GA |"Bb" B6- | B6 | DE FD GF | %9
+w: I'll be lov- ing|you e- ter- nal-|ly,|_|With a love that's|true e- ter- nal-|ly,|_|From the start with- in my|
+ BA cB"Cm7" e>B |"F7" A6- | A3 F GA |"Cm7" G3 E FG |"F+" F3 ^C AG |"Bb" D4"Fdim" df | %15
+w: heart it seems I've al- ways|known,|_ The sun would|shine when you were|mine and mine a-|lone. * *|
+"Cm7" fe c2"F7b9" d2 |"Bb" B3 c dc | e3 d AB |"Cm7" c6- |"F7" c6 | A3 B cB |"F9" d3 c GA | %22
+w: |I'll be lov- ing|you e- ter- nal-|ly,|_|There'll be no one|new, my dear for|
+"Bb" B6- | B6 | DE FD GF | BA cB"Cm7" e>B |"F7" A6- | A3 F GA |"Cm7" G3 E FG |"F7" F4 F2 | %30
+w: me,|_|Tho' the sky should fall, re-|mem- ber I shall al- ways|be,|_ For- ev- er|true and lov- ing|you e-|
+"Cm7" d6 |"F7b9" d6 |1"Bb" B2 f2"Bbdim" =e2 ||"Ebm6" _e2 _G2"F7" d2 :|2"Bb""Cm7""Cdim" B6 || %35
+w: ter-|nal-|ly. * *||ly.|
+"Bb" f6 |] %36
+w: _|
+

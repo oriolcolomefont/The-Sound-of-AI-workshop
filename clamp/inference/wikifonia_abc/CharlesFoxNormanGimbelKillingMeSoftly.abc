@@ -1,0 +1,26 @@
+X:1
+T:Killing Me Softly
+C:Charles Fox, Norman Gimbel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"Dm7" z2 EF-F G2A- |"G" A2 GD-D G3 |"C"z2>A2 G2 FE- |"F" EF C6 |"Dm7" z2 EF-F G2A- | %5
+w: I heard _ he sang|_ a good * song,|I heard he had|_ a style,|And so _ I came|
+w: I felt * all flushed|_ with fe- _ ver,|em- ba- rassed by|_ the crowd,|I felt _ he found|
+"G" A2 GA-A B2B |"Am" c2>B2A G2A- | A6 z2 |"Dm7" z2 cA-A F2E- |"G" E2 DE-E F3 |"C"z2>G2 G2 G^G- | %11
+w: _ to see _ him to|lis- ten for a while.|_|And there _ he was|_ this young * boy,|a stran- ger to|
+w: _ my lett- * ers and|read each one out loud.|_|I prayed that he would|_ fi- nish _ _|but he just kept|
+"E"^G G2(A-A B3) ||"Am" cccc- cAEG- |"Dm"G F3- F4 |"G" BBBB- BGDE- |"C" E8 |"Am" EEEE- EAcB- | %17
+w: _ my eyes, _ _|Strum- ming my pain _ with his fin-|* gers _|Sing- ing my life _ with his words.|_|Kill- ing me soft- _ ly with his|
+w: _ right on, _ _|_ _ _ _ _ _ _ _|||||
+"D/F#"B A3 dddc- |"G"c B3- B2 GB- |"F"B A3 AAAA- |"C"A G3- G2 CG- |G"F" F3 FFFE- |"Bb"E D3- D4- | %23
+w: _ song, Kill- ing me soft-|* ly _ with his|_ song, Tell- ing my whole|_ life _ with his|_ words, Kill- ing me soft-|_ ly _|
+w: ||||||
+ D4D D2E- |"A" E8- | E4 z4 |] %26
+w: _ with his song|_||
+w: |||
+

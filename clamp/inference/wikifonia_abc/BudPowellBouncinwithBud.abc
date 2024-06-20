@@ -1,0 +1,25 @@
+X:1
+T:Bouncin' with Bud
+C:Bud Powell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb6" z F Bf- f3 F | Bf- f6 |"B7b5" z F =Bf- f3 F | =Bf- f6 |"Bb6" z F Bf- f3 F | Bf- f6 | %6
+"B7b5" z F =Bf- f3 F | =Bf- f4 z e ||"^[A]""Bb6" dcBA"Cm7" cBAG |"Dm7" FDE_G-"Ebm7" G2 FE | %10
+"Dm7" DCF=B,"G7" z2 z !>!G- |"Cm7" G2 EC"D7" A2 ^FD |"Gm7" BG z2 z2 z A |"C#dim7" BG z2 z2 z A | %14
+"Cm7" BGAB"F7" GEDC |"Bb6" F2 z2"F7b5" z2 z e |"Bb6" dA z c"Cm7" z B z D | %17
+"Dm7" z A z ^F"Eb6" G=FED |"Dm7" F=B, z2"G7" z2 z F |"Cm7" ^FGEC"D7" ^GA^FD |"Gm7" BG z2 z2 z A | %21
+"C#dim7" BG z2 z2 z A |"Cm7" BGAB"F7" GEDC |"Bb6" FB, z2 FD"D7"^FG- ||"^[B]""Gm" GG z A z B z d- | %25
+ d2 BA z G z d- |"Am7b5" d4- dd (3AG_E |"D7#9#5" (3fef- f4 e=e- |"G13#11" e4 z =e (3^cAF | %29
+"F#13" (3^d^cd- d4 c=d |"Cm9" z d3 BG (3EGB |"F75b9#9#11b13" ^c=B- B4 z e | %32
+"^[C]""Bb6" dcBA"Cm7" cBAG |"Dm7" FDE_G-"Ebm7" G2 FE |"Dm7" DCF=B,"G7" z2 z !>!G- | %35
+"Cm7" G2 EC"D7" A2 ^FD |"Gm7" BG z2 z2 z A |"C#dim7" BG z2 z2 z A |"Cm7" BGAB"F7" GEDCO | %39
+"Bb6" FB, z2 z4 |"D7/F#" .c2 .c2"Gm" .B2 z"D7" A | z A z"Gm" G z4 | %42
+"Bdim7" .d2 .f2"Cm7" .e2 z"G7b9" =B- | (3Bc^c d"Cm7"=c z2"Gb9" _A"F9"G- |"F9" G8- | %45
+ G6"F7b9b5" =B"Bb6"_B |"^solo break" z8 | z8 ||O"Bb6" FB, z =e"CN.C." fb z2 |] %49
+

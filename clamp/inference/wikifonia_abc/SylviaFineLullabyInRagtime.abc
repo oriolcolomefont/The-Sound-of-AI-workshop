@@ -1,0 +1,31 @@
+X:1
+T:Lullaby In Ragtime
+T:Lullaby In Ragtime
+T:Words and Music by Silvia Fine
+C:Sylvia Fine
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 56
+V:1
+"Fm" A,B,CA,"Fm" F,G,A,F, |"Fm" G,2 B,2"B7" =A,_A,"Bb7" F,2 ||"Eb" =A,B,GA,"Ebmaj7" B,GA,B, | %3
+w: ||Won't you play the mu- sic so the|
+"Eb6" G_GFE-"Eb" E2 F=G |"Fm7" A2 B2"Gdim7" A2 z G |"Fm" G2"Bb7" F6 |"Fm" _C=CA_C"Fm" =CA_C=C | %7
+w: cra- dle can rock * To a|lul- la- by in|rag- time.|Sleep- y hands are creep- ing to the|
+"Fm7" AG_GF-"Bb7" F2 =GA |"Fm7" B2 B2"Bb+7" B2 z A |"Eb" A2"Bb7" G6 |"Eb" EFGE"Ebmaj7" F G2 E | %11
+w: end of the clock * Play a|lul- la- by in|rag- time.|You can tell the sand- man is|
+"Eb7" G2 F2 E4 |"Ab" G2 F2 E4 |"Abm6" G2 F2 E2 z A, |"F7" =A,2 A,B,"Cm7" C2 CD |"F7" E2 DE G2 c2 | %16
+w: on his way|by the way,|that they play. As|still as the trill of a|thrush In a twi- light|
+"Bb7""Bb+7" [BB]8 |"Fm7" z B=A_A"Bb7" G2 F2 ||"Eb" =A,B,GA,"Ebmaj7" B,GA,B, | %19
+w: hush|So you can hear the|rhy- thm of the ripp- les on the|
+"Eb6" G_GFE-"Eb" E2 F=G |"Fm" A2 B2"Gdim7" A2 z G |"Fm7" G2"Bb7" F6 |"Fm" _C=CA_C"Fm" =CA_C=C | %23
+w: side of the boat * As you|sail a- way to|dream- land.|High a- bove the moon You hear a|
+"Fm7" AG_GF-"Bb7" F2 =GA |"Fm7" B2 B2"Bb+7" B2 A2 |"Eb" G6"Eb7" E2 |"Ab" cBAB c E3 | %27
+w: si- lve- ry note * As the|sand- man takes your|hand So|rock- a- bye my bab- y|
+"Abm6" _cBAB c E3 |"Eb" B2 A2"Db7" G2 A2 |"C7" B6 _C=C |"Fm" c2 z2"C7" c4- |"Fm" c2 AB"F7" c2 C2 | %32
+w: Don't you cry my bab- y|Sleep- y time is|nigh Won't you|rock me|_ to a rag- time|
+"Fm7" z2 (A4"Bb7" G)F |"Eb" E8 |] %34
+w: Lul _ la|by.|
+

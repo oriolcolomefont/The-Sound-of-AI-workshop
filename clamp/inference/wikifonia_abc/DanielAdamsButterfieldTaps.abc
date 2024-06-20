@@ -1,0 +1,16 @@
+X:1
+T:Taps
+T:Taps
+T:for G bugle Bb trumpet use 1+2
+C:Daniel Adams Butterfield
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ G>G | !fermata!c6 G>c | !breath!!fermata!e6 !tenuto!G!tenuto!c | %3
+ !tenuto!e2 !tenuto!G!tenuto!c !tenuto!e2 !tenuto!G!tenuto!c | !breath!!fermata!e6!<(! c>e!<)! | %5
+ g4!>(! !tenuto!e2 !tenuto!c2!>)! | !breath!G6 G>G |!>(! !fermata!c8!>)! |] %8
+

@@ -1,0 +1,30 @@
+X:1
+T:It's De-lovely
+T:COLE PORTER
+C:Cole Porter
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"^Moderately" c2 |:[M:4/4]"F" C2 CC- C3 C |"F+" ^C2 CC- C3 C |"F" D2 DD- D_D ^C2 | A A2 A- A c2 A | %5
+w: The|night is young, _ The|skies are clear _ And|if you want. _ to go|walk- ing, dear, _ It's de-|
+ c3 A A c2 A |"F#dim7" c3 A- A c2 A |"C7" c3 B- B4 | z4 z2"D7" d2 |"Gm" D2 DD- D3 D | %10
+w: light- ful, * it's de-|li- cious, _ It's De-|love- ly. _|I|un- der- stand _ the|
+"Gm#5" _E2 EE- E3 E |"Gm6" E2 EE- E_E D2 |"Gm" B B2 B- B d2 B | d3 B- B d2 B | %14
+w: reas- on why _ You're|sent- i- men- * tal, 'cause|so am I, _ It's de-|light- ful, _ it's de-|
+"G#dim7" d3 =B- B d2 B |"F" d3 c- c4 |"C7" z4 z d2 c |"F7" _e4 c A2 G- | G4 z F2 _E | %19
+w: li- cious, _ It's De-|love- ly. _|You can|tell at a glance|_ What a|
+"Bb" D3 _E-"F7" E2"F+" =E2 |"Bb" FGBd- d c2 B |"Bbm6" _d4 B G2 F | _D B2 G- GF D2 | %23
+w: swell night _ this|is for ro- mance, _ You can|hear dear Moth- er|Na- ture mur- * mur- ing|
+"C7" C4- C c2 c- | c c2 c- c2 c2 |"F" C2 CC- C3 C |"F+" ^C2 CC- C3 C |"F" D2 DD- D_D ^C2 | %28
+w: low, _ "Let your-|* self go?' _ So|please be sweet, _ my|chick- a- dee, _ And|when I kiss _ you, just|
+ A"F+" A2"F" A- A c2 A | c3 A- A c2 A |"F/E" c3 A A c2 A |"Am7b5/Eb" c2 cA- A c2 A | %32
+w: say to me, _ "It's de-|light- ful, _ it's de-|li- cious, * It's de-|lect- a- ble, _ it's de-|
+"D7" c2 cA- A c2 A |"G7/Db" c A2 c- cA"C7"cA | z c2 A c d2 c |1"Gm/F" d3"F" F- F4- | %36
+w: lir- i- ous, _ It's di-|lem- na, it's _ de- li- mit,|it's de- luxe, It's De-|love- ly." _|
+ F2 z2 z2"C+" c2 :|2"Gm/F" f3"F" f- f4- | f6 z2 || %39
+w: _ The|love- ly _|_|
+

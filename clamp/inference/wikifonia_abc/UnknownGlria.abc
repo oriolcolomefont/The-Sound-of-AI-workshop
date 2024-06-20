@@ -1,0 +1,32 @@
+X:1
+T:Glória
+T: 
+T:Bevezetõ (fuvola)
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ D2 A,2 F2 ED | E4 A4 | A2 F2 G2 AB | c>d cB A4 | BF B2 GABA | c4 z4 | %6
+w: ||||||
+ d/c/B/c/ d/e/f/d/ e/f/e B/c/B | A4 z4 ||"^Bevezetõ (hegedû)" D2 A,2 F2 ED | E4 A4 | %10
+w: ||||
+ A/F/D/F/ A/d/f/d/ e2 cB | c4 z4 | BABd e2 Bd | c4 A4 | B/c/B/A/ B2 E/F/G/A/ B/c/d/e/ | c4 z4 || %16
+w: ||||||
+ d2 d2 e2 ef | c2 cB A2 z2 | F2 A2 A B2 c | B4 z2 z B | c2 cc c2 B2 | B A2 G F2 z2 | G2 GG G2 AB | %23
+w: Kelj föl, pász- tor, az|an- gyal ü- zen,|in- dulj, ke- resd meg|Õt, kit|any- nyi- ra vár- tál,|meg- ér- ke- zett,|Õ a te Üd- vö- zí-|
+ c4 z4 | d2 d2 e2 ef | c2 cB A2 z2 | F3 A A B2 c | B4 z2 z B | c2 cc c2 B2 | B A2 G F2 z2 | %30
+w: tõd!|Kelj föl em- ber, az|ég- re te- kints,|halld az ég,s föld da-|lát! A|vég- te- len Is- ten|sze- ret ma is,|
+ G2 GG e3 e | f4- e4- | f4- g4 |: a3 g f2 z2 | f<f ff f<g ab | a3 g f2 z2 | z fff f>e ed | c>e f6 | %38
+w: el- küld- te Szent Fi-|á- á-|á- át!|Gló- ri- a,|di- csõ- ség a ma- gas- ság- ban,|gló- ri- a!|Az Is- ten föld- re szál- lott,|Õ az Úr,|
+ z2 f2 a<b g<a | gf e4- f z | z f f>a aac'b | a a6 :| F3 F G4 | A3 G F4 | G2 G2 G2 F-G | A4 G4 | %46
+w: men- je- tek, kö- szönt-|sé- tek Õ- õt,|az új- szü- lött, csöpp Üd- vö-|zí- tõt!|Glo- ri- a,|glo- ri- a,|in ex- cel- sis _|De- o!|
+ F3 F G4 | A3 G F4 | F2 F2 G3- A | A4 z4 ||"^Fuvola" F4 G2 cB | A>B AG F4 | G6 FG | G3 B/A/ G4 | %54
+w: Glo- ri- a,|glo- ri- a,|al- le- lu- *|ja!|||||
+ F4 G2 AB | cBAG AGFE | F4 G3- A | A4 z4 |] %58
+w: ||||
+

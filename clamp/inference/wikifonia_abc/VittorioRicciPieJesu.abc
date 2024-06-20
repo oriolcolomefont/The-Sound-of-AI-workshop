@@ -1,0 +1,30 @@
+X:1
+T:Pie Jesu
+T:Pie Jesu
+C:Vittorio Ricci
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab" ccce"Bbm" df- f2 |"Eb7" BBBd"Ab" ce- e2 |"Bbm" fffd"Eb7" edcB |"Ab" A2 cB c2 Ec | %4
+w: |||* * * * Pi- e|
+"Bbm" B2"Eb7" d4 EB |"Ab" A2 c4 EG |"Bbm" F2 B4"Eb7" GE |"Ab" F2 E4 z c |"Bbm" d2 dc"Eb7" BGAB | %9
+w: Je- su, Pi- e|Je- su, Pi- e|Jes- su Pi- e|Je- su, Qui|tol- lis pe- ca- ta mun- di|
+"Ab" cccB c/B/A- A2 |"Bbm" z2 BA"Eb7" G (G2 E) |"Ab" B/A/A- A2 z2 Ec |"Bbm" B2"Eb7" d4 EB | %13
+w: do- na e- is re- qui- em, _|do- na e- is _|re qui- em. _ Pi- e|Je- su, Pi- e|
+"Ab" A2 c4 EA |"Bbm" F2 B4"Eb7" GE |"Ab" F2 E4 z c |"Bbm" d2 dc"Eb7" BGAB |"Ab" cccB c/B/A- A2 | %18
+w: Je- su, Pi- e|Je- su, Pi- e|Je- su, Qui|tol- lis pe- ca- ta mun- di|do- na e- is re- qui- em. _|
+"Bbm""Bbm" z2 BA"Eb7""Eb7" G (G2 E) |"Ab" B/A/A-"Eb7" A2 z2 GE |"Ab" B/A/A- A2"Eb7" z2 GA | %21
+w: do- na e- is _|re qui- .em. * * *||
+"F7" =A6 F=d |[K:Bb]"Cm" c2"F7" e4 Fc |"Bb" B2 d4 FB |"Cm" G2 c4"F7" AF |"Bb" G2 F4 z d | %26
+w: * Ag- nus|De- i, Ag- nus|De- i, Ag- nus|De- i, Ag- nus|De- i, Qui|
+"Cm" e2 ed"F7" cABc |"Bb" dddc"Gm" d/c/B- B2 |"Cm" z2 cB"F7" A- A2 F |"Bb" c/B/B- B2"F7" z2 AF | %30
+w: tol- lis pe- ca- ta mun- di|do- na e- is re- qui- em, _|do- na e- * is|re- qui- em _ sem- pi|
+"Bb" c/B/B- B2"F7" z2 ec |"Bb" e/d/d- d2- d4 |"Cm7" e4"F7" A4 |"Bb""Eb" B8- |"^Bn" B6 z2 |] %35
+w: ter- * nam _ sem- pi|ter- * nam _ _|A- *|men.|_|
+

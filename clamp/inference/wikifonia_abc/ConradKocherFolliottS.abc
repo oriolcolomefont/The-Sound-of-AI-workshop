@@ -1,0 +1,33 @@
+X:1
+T:For the Beauty of the Earth
+T:For the Beauty of the Earth
+T:Conrad Kocher
+T:Folliott S. Pierpoint
+T:Public Domain
+C:Conrad Kocher
+Z:All Rights Reserved
+L:1/4
+Q:1/4=110
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^110" G (F/G/)"D" A"G" G |"C" c c"G" B2 |"C" E F G E |"D" D D"G" D2 | G (F/G/)"D" A"G" G | %5
+w: 1.~For the * beau- ty|of the earth,|For the glo- ry|of the skies,|For the * love which|
+w: 2.~For the * won- der|of each hour|Of the day and|of the night,|Hill and * vale and|
+w: 3.~For the * joy of|hu- man love,|Broth- er, sis- ter,|par- ent, child;|Friends on * earth and|
+w: 4.~For thy * Church that|ev- er- more|Lift- eth ho- ly|hands a- bove;|Of- f'ring * up on|
+"C" c c"G" B2 |"C" E F G E |"D" D D"G" D2 |"G""^REFRAIN" B A G B |"D""D7" d3/2 c/"G" B2 | %10
+w: from our birth,|O- ver and a-|round us lies,|Lord of all to|Thee we raise|
+w: tree and flow'r,|Sun and moon, and|stars of light.|||
+w: friends a- bove;|For all gen- tle|thoughts and mild.|||
+w: ev- 'ry shore|Her pure sac- ri-|vice of love.|||
+"C" E F"G" G"C" c |"D" B"D7" A"G" G2 |] %12
+w: this our hymn of|grate- ful praise.|
+w: ||
+w: ||
+w: ||
+

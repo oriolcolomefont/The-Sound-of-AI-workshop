@@ -1,0 +1,35 @@
+X:1
+T:A Girl Like You
+T:A Girl Like You
+T:Jerry Lordan
+C:Jerry Lordan
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" F F2 E-"A7" E4 |"D" F F2 E-"A7" E4 |"D" z2 D>D"A7" E>D E2 |"D" F F2 A-"D7" A4 | %4
+w: An- gel face, *|we've just met, *|Just how luck- y can|one boy get? *|
+"G" B B2 A-"D7" A4 |"G" B B2 A-"D7" A4 |"G" z3/2 G<GG/"D7" A2 G>A |"G" B B2 d-"G7" d>c B2 | %8
+w: There's a light *|in your eye, *|I know it's love and I|know that I * could be|
+"D" A4"Bm" F4 |"Em7" z2 B>G"A7" E2 C2 |"D""Bm" D8- |"Em7" D4"A7" z4 |"D" F F2 E-"A7" E4 | %13
+w: hap- py|with a girl like|you.||Tell your ma, *|
+"D" F F2 E-"A7" E4 |"D" z3/2 D<DD/"A7" E>D E2 |"D" F F2 A-"D7" A4 |"G" B B2 A-"D7" A4 | %17
+w: tell your pa, *|And tell your fav- 'rite old|wish- ing star, *|We're in love, *|
+"G" B B2 A-"D7" A4 |"G" z3/2 G<GG/"D7" A2 G>A |"G" B B2 d-"G7" d>c B2 |"D" A4"Bm" F4 | %21
+w: just by chance *|I asked you "would you *|like 't dance," * Fan- cy|danc- ing|
+"Em7" z2 B>G"A7" E2 C2 |"D" D8- |"D7" D6 z2 |"G" d B2 G- G4 |"D" A F2 D- D4 | %26
+w: with a girl like|you!||Fun- ny how *|love can come *|
+"G" d B2 A-"A7" A>FED- |"D" D8 |"G" d B2 G- G4 |"D" A F2 D- D3 D |"A" E2 E>E"E7" B>ABA- |"A7" A8 | %32
+w: to a lone * * * heart,||I'm a boy *|you're a girl * I|guess that's a pret- ty good start!||
+"D" F F2 E-"A7" E4 |"D" F F2 E-"A7" E4 |"D" z3/2 D<DD/"A7" E>D E2 |"D" F F2 A-"D7" A3 A | %36
+w: here I am, *|there you are, *|To- geth- er ba- by we|should go far * A|
+"G" B B2 A-"D7" A3 A |"G" B B2 A-"D7" A4 |"G" z3/2 G<GG/"D7" A2 G>A |"G" BBBd-"G7" d>c B2 | %40
+w: girl like you, * a|boy like me, *|Two hearts to- geth- er like|they ought to be, * Can't be-|
+"D" A4"Bm" F4 |"Em7" z BB>G"A7" E2 C2 |"D" D8- | D2 z2 z4 |] %44
+w: lieve *|I've got- ta girl like|you.-||
+

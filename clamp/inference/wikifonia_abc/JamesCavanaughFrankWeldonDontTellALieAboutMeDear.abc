@@ -1,0 +1,26 @@
+X:1
+T:Don't Tell A Lie About Me Dear
+T:Don't Tell A Lie About Me Dear
+T:James Cavanaugh
+T:Frank Weldon
+C:James Cavanaugh
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B4 ^CD | E4 ^CD |"C+" c6 |"E7" B4 B_B |"A7" A4 ^DE | F4 ^DE |"F#m" A6- |"A7""F#m""A7" A6 | %8
+w: DON'T TELL A|LIE A- BOUT|ME,|DEAR, And I|won't tell the|truth a- bout|you.||
+"D7" A4 ^CD |"C" E4 ^CD |"Bm" B6 |"Ebdim" A4 B2 |"G6" G2"Bm" F2"G6" G2 |"F#m" F4"A7" E2 | %14
+w: Why tell a|lie 'till you|see,|dear, If|all of those|things are|
+"D7""F7" A6- |"Am""F7""D7" A6 |"G" B4 ^CD | E4 ^CD |"C+" c6 |"E7" B4 B2 |"A7" A4 ^DE | A4 B2 | %22
+w: true.||Hon- est and|tru- ly I|love|you, Re-|mem- ber, you|loved me,|
+"Em" E6- |"C7""A7" E4 E2 |"C" E2"Adim" F2"Em" G2 |"Am7" A2"Em" B2"Cm" c2 |"G""Dm" d6 |"E7" B4 D^D | %28
+w: too.|* So|don't tell a|lie a- bout|me,|dear, And I|
+"A7" E2"F#m" F2"A7" G2 |"D7" F2"G" G2"D7" A2 |"G""Cm" G6- |"G" G4 z2 |] %32
+w: won't tell the|truth a- bout|you.-||
+

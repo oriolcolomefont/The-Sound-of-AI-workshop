@@ -1,0 +1,28 @@
+X:1
+T:Miss Annabelle Lee
+T:Miss Annabelle Lee
+T:Sidney Clare,Lew Pollock,Harry Richman,
+C:Sidney Clare, Lew Pollack,  Harry Richman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"Bb7" B/B/- B/F/ B |"F#" z c/c/- c/d/ c |"Bb7" z B/B/- B/F/ B |"Fm7" c3 z |"Eb" z B/B/- B/G/ B |1 %5
+w: Who's won * der- ful|who's mar- * vel- lous|Miss Ann * a- belle|Lee|who's kiss * a- ble|
+w: Who's dig * ni- fied|who's glor * i- fied|Miss Ann * a- belle|Lee|what makes * em fall|
+"Ab7" z c/c/- c/d/ c ||"Eb" z B/B/- B/G/"Gm7" B |1"C7" c3 z ||"F7" z G G G |"Bb7" G F/G/- G A | %10
+w: who's lov- * a- ble|Miss Ann * e- belle|Lee|aint she a|pret- ty ba * by|
+w: she has * it all|just look * and you'll||||
+"Eb" z B G/ B c/- |"Cm" c3 z |"Gm" z d/d/- d/c/ B |1"D7" z c/c/- c/B/ =A ||"Gm" B c"F#" d e | %15
+w: what would you give||es- cort * in her|sup- port * ing her|dont for- get that|
+w: |||||
+"Fm" f e"F#" d c :|2"C7" d2 z c ||2"F7" G G G/ G3/2 ||"Bb7" G F/G/- G A |"Eb" z B G/ B d/- | %20
+w: shes ex- clu- sive|see so|you aint tell- in|me a thing * boy|I'm tell in you|
+w: |||||
+"Gm7" d3"C7" z |"F7" z e/e/- e/d/ c | z e/e/- e/d/ c |"Fm7" e2"Bb7" d/e/ f |"Eb" e3 z |] %25
+w: |whos won * der ful|whos mar * vel- lous|Miss Ann- a- belle|Lee|
+w: |||||
+

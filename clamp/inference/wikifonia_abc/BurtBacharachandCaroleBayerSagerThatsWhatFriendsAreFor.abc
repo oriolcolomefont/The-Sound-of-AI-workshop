@@ -1,0 +1,56 @@
+X:1
+T:That's What Friends Are For
+T: 
+T:C. Bayer/B. Bacharach
+T:Dionne Warwick, Gladys Knight, Elton John & Stevie Wonder
+C:Burt Bacharach and Carole Bayer Sager
+Z:All Rights Reserved
+L:1/16
+Q:1/4=60
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Ebmaj9" B2de- e4"Eb/D" B2de- e4 |"Ab/C" B2de- e2ga- a2 g4 ec |"Gm7" B4 z2 fe-"Cm7" e4 z2 GA- | %3
+w: |||
+w: |||
+"Fm7" A4 z Bce"Bb11" a2ge- e C3 |:"Ebmaj9" B,4 z2 G,A,"Gm7" B,F2E-"Cm7" E2GA- | %5
+w: * * * * * * * * &|I Ne- ver thought I'd feel _ this way|
+w: |Inst... * * * * * * * *|
+"Fm7" A4 z2 FG A2GG- GF2F- |"^D-7(omit5)" F2>B,2 B2AG-"G7sus4" G2FF-"G7" F2EG- | %7
+w: _ & as far as I'm _ con- cerned|_ I'm glad I got _ the chance _ to say|
+w: * Well you came & o- * pened me|_ & now there's so _ much more _ I see|
+"Cm7" G4 z2 ED"Abmaj7" C2DE- E2F2 |[M:2/4]"Fm7/Bb" E2 D4 C2 | %9
+w: _ That I do be- lieve _ I|love you &|
+w: _ & so, by the way, _ I|thank you.... &|
+[M:4/4]"Ebmaj9" B,4 z2 G,A,"Gm7" B,F2E-"Cm7" E2GA- |"Fm7" A2<F2 z2 FG A2GG- G2FF- | %11
+w: if I should ev- er go _ a- way|_ _ Well then close your eyes _ & try|
+w: then For the times when we're _ a- part|_ _ Well just close your eyes _ & know|
+"^D-7(omit5)" F2>B,2 B2AG-"G7sus4" G2FF-"G7" F2EG- |"Cm7" G4 z2 ED"Abmaj7" C2DE- E2FE- | %13
+w: _ to feel the way _ we do _ to- day|_ & than if you can _ re- mem-|
+w: _ These words are com- * min' from _ my heart|_|
+"Fm7/Bb" E2<D2- D2 z2"Bb11" z4 CEAc ||"Ebmaj9" z2 DE- E2<B,2"Eb/D" z2 DE- E2<B,2 | %15
+w: * ber. _ _ _ _ _|Keep smi- * lin' Keep shi- * nin'|
+w: ||
+"Abmaj7/C" C2A,C- C2E2 A2G2"Bb/Ab"E2C2 |"Gm7" B,6 FE-"Cm7" E8 | %17
+w: Know- in' you _ can al- ways count on|me for sure _|
+w: ||
+"Abmaj7" E2FG- GA2F-"Fm7/Bb" F4"Bb9" cBAc |"Ebmaj9" z2 DE- E2<B,2"Eb/D" z2 EF- F2<G2 | %19
+w: that's what friends _ are for * * * * *|In good _ times & bad _ times|
+w: ||
+"Db6" B2BB- B2<B2"C7sus4" c2BG-"C7" G2<A2 |"Abm6/Cb" F8 B4 A4 | %21
+w: I'll be on _ your side for- ev- * er|more * *|
+w: ||
+[M:2/4]"^Al Coda""Bb7sus4" G2FG- G2A2 ||1[M:4/4] B,8 (3z2 b2a2 ecGA :|2 B8 z8 |: %24
+w: That's what friends _ are|for * * * * * *||
+w: |||
+"Ebmaj9" B2de- e4"Eb/D" B2de- e4 |"Ab/C" B2de- e2ga- a2 g4 ec |"Gm7" B4 z2 fe-"Cm7" e4 z2 GA- | %27
+w: |||
+w: |||
+"Fm7" A4 z Bce"Bb11" a2ge- e2<c2 :| %28
+w: |
+w: |
+

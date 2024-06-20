@@ -1,0 +1,28 @@
+X:1
+T:I Can't Begin To Tell You
+T:I Can't Begin To Tell You
+C:James Monaco
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z G |:"C" c3/2 B/"Cmaj7" d3/2 c/ |"Gm6" G E2"A7" F |"Dm7" E D"A7" ^C D |"D9" A3 A | %5
+w: I|can't be- gin to|tell you, how|much you mean to|me. My|
+"G7" d3/2 ^c/ e3/2 d/ |"Dm7" A ^A"G7" B d |"C""Edim" G4- |"Dm7""G7" G3 G | %9
+w: world would end if|ev- er we were|through.|* I|
+"C" c3/2 B/"Cmaj7" d3/2 c/ |"Gm6" G E2"A7" F |"Dm" E D"A7" ^C D |"Dm7" A3"D9" e | %13
+w: can't be- gin to|tell you how|hap- py I would|be, If|
+"G7" d B"Em" G"Eb" _G |"G7" F G B d |"C""Ab7" c4- | c3"C7" e |"F" d c B A |"E7" ^G B2 B | %19
+w: I could speak my|mind like oth- ers|do.|* I|make such pret- ty|speach- es when-|
+"A7" A B E B |"A7" A3 A |"D" d _d"D7" c3/2 =d/ |"D6" B d"D7" A3/2 B/ |"F" A G"G7" d B | %24
+w: ev- er we're a-|part, but|when your near the|words I choose re-|fuse to leave my|
+"Dm7" A3"G7" G |"C" c3/2 B/"Cmaj7" d3/2 c/ |"Gm6" G E2"A7" F |"Dm7" E D ^C D |"D" A3 e | %29
+w: heart. So|take the sweet- est|phras- es the|work has ev- er|known, and|
+"G7" d3/2 B/"Em" G3/2"Eb" _G/ |"G7" F G B d |1"C""Am7" c4- ||"Dm7" c3"G7" G :|2"C""Am6""Fm" c4 || %34
+w: make be- lieve I've|said them all to|you.|* I|you.|
+"C" c3 z |] %35
+w: |
+

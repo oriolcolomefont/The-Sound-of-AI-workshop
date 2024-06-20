@@ -1,0 +1,26 @@
+X:1
+T:Shenandoah
+T:Shenandoah
+C:Traditional Folk Song
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B,2 |"Eb" E3/2 E/ E2- | E F G A |"Ab" c2"Gm7" B2- | B2 (e d) |"Cm" c4- | c B c B | %7
+w: Oh|Shen- an- doah|_ I long to|hear you.|_ A- *|way|_ you rol- lin'|
+"Eb" G"Bb" B3- | B2 B2 |"Cm/Eb" c3/2 c/ c2- |"Gm/D" c G B G |"Ab/Eb" F2 E2- | E2 (E F) |"Eb" G4- | %14
+w: riv- er.|_ Oh|Shen- an- doah,|_ I long to|hear you.|_ A- *|way,|
+ G E G c |"Bb7/Eb" B4- | B2 E F |"Eb" G3 E |"Bb7/Eb" F2"Eb" E2- | E4 ||"C7" z2 C2 | %21
+w: _ I bound a-|way,|_ 'Cross the|wide Mis-|sou- ri.|_|Oh|
+[K:F]"F" F3/2 F/ F2- | F G A B |"Bb/F" d2"F" c2- | c2 f e |"Bb/F" d4- | d c d c |"F" A c3- | %28
+w: Sehn- an- doah,|_ I love your|daugh- ter.|_ A- *|way|_ you rol- lin'|riv- er.|
+ c2 c2 |"Dm/F" d3/2 d/ d2- |"Am/E" d A c A |"Bb/F" G2 F2- | F2 (F G) |"F" A4- | A F A d | %35
+w: _ I'll|take her 'cross|_ that rol- lin'|wat- er.|_ A- *|way|_ I'm bound a-|
+"C7/F" c4- | c2 F G |"F" A3 F |"C7/F" G2"F" F2- | F4 | %40
+w: way|_ 'Cross the|wide Mis-|sou- ri.|_|
+

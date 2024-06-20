@@ -1,0 +1,22 @@
+X:1
+T:I've Been Working On the Railroad
+T:I've Been Working On The Railroad
+C:Folk Music
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" F3 C F>CF>G | A4 F4 |"Bb" B3 B F2 G2 |"F" A8 | F3 C F>CF>G | A4 F2 A>A |"G7" A2 G2 G2 A2 | %7
+w: I've been work- ing on ther|rail- road,|all the live- long|day;|I've been work- ing on the|rail- road, just to|pass the time a-|
+"C7" G6 z2 | G3 G ^F>GA>G |"F" F4 C4 |"Bb" B2 B>B F>FG>G |"A7" A8 |"Bb" D3 E F>EF>D |"F" C4 F4 | %14
+w: way.|Don't you hear the whis- tle|blow- ing?|Rise up so ear- ly in the|morn.|Don't you hear the cap- tain|shout- ing?|
+ A2 B2"C7" A2 G2 |"F" F6 z2 ||"F" CCCC F4 |"Bb" DDDD G4 |"C7" EEEE D2 E2 |"F" (F2 G2 A4) | %20
+w: "Din- ah, blow your|horn!"|Din- ah won't you blow,|Din- ah won't you blow,|Din- ah won't you blow your|horn? _ _|
+ CCCC F4 |"Bb" DDDD G4 |"C7" EEEE D2 E2 |"F" F6 z2 | AAAA FF F2 | C4 F4 | AAAA FF F2 | %27
+w: Din- ah won't you blow,|Din- ah won't you blow,|Din- ah won't you blow your|horn?|Some- one's in the kitch- en with|Din- ah,|Some- one's in the kit- chen I|
+"C7" (G2 E2 D2 C2) |"F" AAAA FF F2 |"Bb" B4"Bdim7" d4 |"F" cccc"C7" B2 G2 |"F" F8 |] %32
+w: know, _ _ _|Some- one's in the kit- chen with|Din- ah|strom- ming on the old ban-|jo.|
+

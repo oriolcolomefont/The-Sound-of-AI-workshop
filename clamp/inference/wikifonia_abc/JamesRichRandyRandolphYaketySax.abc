@@ -1,0 +1,22 @@
+X:1
+T:Yakety Sax
+T:Yakety Sax
+T:Benny Hill Theme
+T:James Rich & Randy Randolph
+C:James Rich & Randy Randolph
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c2 c2 AGEE | GGAG- GEDC | C2 CE- EGAG | c2 z2 z GAB | c2 c2 AGEE | GGAG- GEDC | %6
+"G7" G2 GG BdBA | G2 z2 z GAB |"C" c2 c2 c2 c2 |"C7" c2 c2 AGEC |"F" F2 F2 F2 F2 | %11
+"F7" A2 cd _e c3 |"C" e^ded e g3 | eg e2 c2 G2 | a e2 c d2 c2 |"G7" z2 G2"C" c2 z2!fine! |] %16
+"F" f2 e2 dede | d2 c2 B2 c2 | d2 c2 BcBc | _B2 A2 ^G2 A2 | F2 z G AccA | f2 f2 dcAF | %22
+"C7" c2 cd eg e2 | c2 z2 z4 |"F" F2 f2 F2 f2 | F2 f2"F7" dcAG |"Bb" F2 f2 F2 f2 | F2 f2 dcAG | %28
+"F" F2 F2 A2 c2 |"C7" G2 A_B- Bd c2 |"F" f2 f2 dc A2 | F2 z2"G7" G4!D.C.! |] %32
+

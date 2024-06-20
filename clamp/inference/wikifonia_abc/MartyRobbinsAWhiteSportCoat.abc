@@ -1,0 +1,24 @@
+X:1
+T:A White Sport Coat
+T:A white Sport Coat
+T:(and a pink carnation)
+T:Marty Robbins
+C:Marty Robbins
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"G7" G |"C" c3 E | G3 D/E/ |"Dm" F3 F |"G7" E D3 |"F" z c A F |"G" E2 E ^D/E/- |"C" E4- | %8
+w: A|white sport|coat and a|pink car-|na- tion|I'm all dressed|up for the dance|_|
+"G7" E3 G |"C" c3 E | G3 D/E/ |"Dm" F3 F |"G7" E D3 |"F" z c A F |"G" E2 E E |"C" C4- | C4 | %17
+w: * A|white sport|coat and a|pink car-|na- tion|I'm all a-|lone in ro-|mance|_|
+"G7" z D/E/ F3/2 E/ | D E/F/- F2 |"C" z E/F/ G3/2 F/ | E F/G/- G2 |"D7" z ^F/G/ A3/2 G/ | %22
+w: Once you told me|long a- go _|to the Prom with|me you'd go _|Now you've changed your|
+ ^F G/A/- A2 |"G7" z G/A/ B3/2 A/ | G A B G |"C" c3 E | G3 D/E/ |"Dm" F3 F |"G7" E D3 | %29
+w: mind it seems _|some- one else will|hold my dreams a|white sport|coat and a|pink car-|na- tion|
+"F" z c A F |"G" E2 E2 |1"C" C4- |"G7" C z z G :|2"C" C4- |"F" C2"C" z2 |] %35
+w: I'm in a|blue blue|mood|_ A|mood.|_|
+

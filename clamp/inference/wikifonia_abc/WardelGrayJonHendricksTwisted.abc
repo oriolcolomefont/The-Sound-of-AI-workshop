@@ -1,0 +1,25 @@
+X:1
+T:Twisted
+T:1965 Prestige Music and Raybird Music
+T:Twisted
+T:Wardel Gray
+T:Arno SUZUKI
+C:Wardel Gray
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:S _BG z2"C7" z ^G (3Acd |"F7" _eced z ^D (3EGA | _BG z2"C7" z ^F (3GBc | _d2 c_G- G2 EF- | %4
+"F9#11" FBBA B2 AF | B2 cA- A2 z B |"Cmaj7" GEFG- G2 EF |"Em7" GA_BA-"A7" A2 GE |"Dm7" Fe_ed z4 | %9
+O z"_To Coda""G7" _eze dd_dd |"C6" c2 G2"A7" A2 z2 |1"Dm7" z4"G7" z ^D (3EGA :|2 %12
+"Dm7" z2 z2"G7" z2 z2 |:"C7" z2 z2 z2 z2 |"F7" z2 z2 z2 z2 |"C7" z2 z2 z2 z2 |"C7" z2 z2 z4 | %17
+"F9#11" z2 z2 z4 | z2 z2 z4 |"Cmaj7" z2 z2 z4 |"Em7" z2 z2"A7" z2 z2 |"Dm7" z2 z2 z4 | %22
+"G7" z2 z2 z4 |"C6" z2 z2"A7" z4 |"Dm7" z2 z2"G7" z4"_D.S. al Coda" :|O z"G7" _eze dd_dd | %26
+"C6""^stop (voice only)" c2 z g/^f/ =fAe_e | dGc_B z4 |] %28
+

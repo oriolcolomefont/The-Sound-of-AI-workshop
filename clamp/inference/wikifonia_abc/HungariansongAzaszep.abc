@@ -1,0 +1,16 @@
+X:1
+T:Az a szép
+T:Az a szép 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" GE G2 GE G2 |"F" ABcA"C" GE G2 |"G" A3 F D G3 |"C" C C3 C4!fine! ::"C" eedd ccBB |"G" d d3 A4 | %6
+w: Az a szép, az a szép,|a- ki- nek a sze- me kék,|A- ki- nek a|sze- me kék.|Lám az e- nyém, lám az e- nyém|sö- tét- kék,|
+ ddcc BBAB |"C" c c3 G4!D.C.! :| %8
+w: Még- sem va- gyok a ba- bám- nak|e- lég szép,|
+

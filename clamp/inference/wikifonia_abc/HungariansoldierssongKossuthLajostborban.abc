@@ -1,0 +1,15 @@
+X:1
+T:Kossuth Lajos táborában
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ B G3 D G3 | B2 G2 D2 G2 | c2 A2 e e3 | d4 d2 z2 | d2 d2 e2 ee | d B3 G D3 | d2 dc B A3 | %7
+w: Kos- suth La- jos|tá- bo- rá- ban|két szál ma- jo-|rán- na,|Egy szép bar- na, de|ma- gyar hu- szár,|sej, lo- vát ka- ré-|
+ G4 G2 z2 |] %8
+w: lyoz- za.-|
+

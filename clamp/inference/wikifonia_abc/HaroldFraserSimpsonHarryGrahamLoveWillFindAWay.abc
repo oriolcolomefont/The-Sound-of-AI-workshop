@@ -1,0 +1,25 @@
+X:1
+T:Love Will Find A Way
+T:Love Will Find A Way
+T:from "The Maid Of The Mountains" 1916
+T:Harold Fraser-Simpson
+T:Harry Graham
+C:Harold Fraser-Simpson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z/ C/ |"F" C2 F | F2 G | G2 A | A2 c |"Am" c2 E |"Abdim" E2 D |"Gm7" D3- |"C9" D z C | %9
+w: What-|e'er be-|fall, I|still re-|call that|sun- lit|moun- tain|side!|* Where|
+"C7" C2 G | G2 A | A2 B |"Gm7/Bb" B2 d |"F/A" f2 e |"Abdim" d2 e |"Gm7" c3- |"C7" c z c | %17
+w: hearts are|true, and|skies are|blue, and|Love's the|on- ly|guide!|* If|
+"F7" c2 f | f2 d |"Bb" c2 B | B2 B |"D7" A2 d |"D7/F#" d2 B |"Gm7" A2 G |"Gm7b5/Db" G2 F | %25
+w: faith- ful|to my|trust I|stay, No|fate can|fill me|with dis-|may! Love|
+"F" C2 F | F2"Csus4" G | G2"F" A | A2 c |"Gm7" D2 D |"C7" A2 A |"F" F3- | F z z |] %33
+w: holds the|key to|set me|free and|Love will|find a|way!-||
+

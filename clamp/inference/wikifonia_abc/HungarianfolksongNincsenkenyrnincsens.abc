@@ -1,0 +1,17 @@
+X:1
+T:Nincsen kenyér, nincsen só
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Gmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" BGGG"Gm" BG G2 |"F" FFdd"F7" ed c2 |"B" B B3"B" B2 z2 |"B" ddgg"Cm" ge c2 | %4
+w: Nin- csen ke- nyér, nin- csen só,|nin- csen fe- le- sé- gem, jó,|de csuhaj- ja.|Majd lesz ke- nyér, majd lesz só,|
+"Gm" GGBB"D7" cB A2 |"Gm" B G3"Gm" G2 z2 |] %6
+w: majd lesz fe- le- sé- gem, jó,|de csuhaj- ja.|
+

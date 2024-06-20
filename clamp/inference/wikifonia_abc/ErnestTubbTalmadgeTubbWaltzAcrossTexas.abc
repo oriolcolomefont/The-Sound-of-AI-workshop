@@ -1,0 +1,25 @@
+X:1
+T:Waltz Across Texas
+T:Waltz across Texas
+T:unknown
+C:Ernest Tubb, Talmadge Tubb
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:A
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z e |"A" e3/2 c/ d | e f g |"E7" g2 f/e/ | d2 e/f/ | g f/ e3/2 | d e f |"A" e3- | e e"E7" e | %9
+w: When|we dance to|geth er my|worlds in dis|guise Its a|fai ry- land-|tale thats come|true|* And when|
+w: My|heart- aches and|trou- bles are|just up and|gone the *|mo- ment that|you come in|view|* and withyour|
+ e c d | d f g |"E" g2"E7" f/e/ | d2 g/b/ | g2 f/e/ | d c B |"A" A3- | A z2 |"A" e2 c/d/ | e f g | %19
+w: you look at|me with those|stars in your|eyes I could|waltz a- cross|Tex- as with|you||Waltz a- cross|Tex- as with|
+w: hand in mine|dear I could|dance on and|on I could|waltz a cross|Tex as with|you||||
+"E7" g2 f/e/ | d3 | g3/2 f/ e | d e f |"A" e3- | e z e/e/ | e c d | e f g |"E" g2 f/e/ | %28
+w: you in my|arms|waltz a- cross|Tex- as with|you|* like a|stor- y book|end- ing- I'm|lost in your|
+w: |||||||||
+ d"E7" f f | g3/2 f/ e | d c B |"A" A3- | A z z |] %33
+w: charms and I'll|waltz a cross|Tex as with|you||
+w: |||||
+

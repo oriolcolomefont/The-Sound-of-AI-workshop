@@ -1,0 +1,36 @@
+X:1
+T:Baby It's Cold Outside
+T:Baby It's Cold Outside
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 z B, |:"Eb6" GFEB- B4- | B4 z2"Cm7" z B, |"Fm7" AGFB-"Bb7" B4- |"Fm7" B4"Bb7" z2 z B, | %5
+w: I|real- ly can't stay, _|_ Iv'e|got to go 'way, _|_ The|
+w: |simp- ly must go, _|_ the|ans- wer is no! _|_ The|
+"Eb6" GFEB- B4- | B2 B2"Cm7" G2 E2 |"Bbm7" F8- |"Eb7" F4 z2 z E |"Ab" cE E2"Ab6" E2 E2 | %10
+w: ev- 'ning has been _|_ so ver- y|nice.|_ My|moth- er will star to|
+w: wel- come has been _|_ so nice and|warm.|_ My|sis- ter will be sus-|
+"Abmaj7" E"Ab6" E3 z2 z E |"Abm" _cEEE"Abm6" EE E2 |"Abm7" E6"Db9" z E |"Eb6" cE E2 E2 E2 | %14
+w: wor- ry, and|fath- er will be pac ing the|floor. So|real- ly I'd bet- ter|
+w: pi- cious; my|bro- ther will be there at the|door. My|maid- en aunt's mind is|
+"Cm7" E E3 z2 z E |"F7" cFFF FF F2 |"Bb7" F6 z B, |]"Eb6" GFEB- B4- | B4"Cm7" z2 z B, | %19
+w: scur- ry. Well,|may- be just a half a drink|more. The|neigh- bors might think _|_ say,|
+w: vic- ious. Well|may- be just a cig- a- rette|more. I've|got to get home, _|_ say,|
+"Fm7" AGFB-"Bb7" B4- |"Fm7" B4 z2"Bb7" z B, |"Eb6" GFEB- B4- | B2 B2"Cm7" G2 E2 |"Bbm7" F8- | %24
+w: what's in this drink? _|_ I|wish I knew how _|_ to break the|spell.|
+w: lend me a comb. _|_ You've|real- ly been grand _|_ But don't you|see,|
+"Eb7" F4 z2 z E |"Ab" cE E2"Ab6" E2 E2 |"Abmaj7" E E3"Ab6" z2 z E |"Cm7" cFFF"F7" FF F2 | %28
+w: _ I|ought to say "No, no,|no, sir!" At|least I'm gon- na say that I|
+w: _ there's|bound to be talk to-|mor- row At|least there will be plent- y im-|
+"Fm7" F6"Bb7" z B, |"Eb6" GFEB- B4- |"Gm7" B4"C7" GABc- |"F7" c4"Bb7" D4 |"Eb6" E4"Bb7" z2 z B, :| %33
+w: tried. I|real- ly can't stay, _|_ ah, but it's cold|_ out-|side I|
+w: plied. I|real- ly can't stay, _|_ ah, but it's cold|_ out||
+"Eb6" E6 z2 |] %34
+w: side.|
+w: side.|
+

@@ -1,0 +1,40 @@
+X:1
+T:Music, Maestro, Please
+T:Music, Maestro, Please
+T:Allie Wrubel
+T:Herb Magidson
+C:Allie Wrubel, Herb Magidson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z D ||"Am7" EEEE"D9" B3 B |"Bm7" E2 E4 D2 |"Am7" EFGA"D9" B2 AB |"Bm7" d2 d4 d2 | %5
+w: A|ta- ble near the band A|small one A|cig- ar- ette, a drink Yes a|tall one And|
+w: |||||
+"Bmaj7" ^d B3"D9" ^G2 ^D2 |"C#m6" F6"C7b5" F2 |"B7" B2 F2"G+" ^D2 B,2 |"Am7" A4-"D7" A2 D2 |: %9
+w: wai- ter I could|use A|cha- ser for my|blues. * To-|
+w: ||||
+"G6" B4- BDEG |"F#m7b5" B2 B"B7"A- A4 |"E7" B E3"Dm7" B2 E2 |"E7" B4 BB E2 |"A7" G4- G^DEG | %14
+w: night * I must- nt|think of her *|Mu- sic maes- tro|please * * To-|night * To- night I|
+w: Play * your lil- ting|mel- o- dies *|Rag- time jazz- time|swing an- y old|thing * To help me|
+"Am7" B2 d"Ebm6"_B- B3 =B |1"Bm7" A2 G2"C#dim" F E3 ||"Am7" c2 Bc"D7" B A3 :|2 %17
+w: must for- get * How|much I need her|So Mis- ter Lead- er|
+w: ease the pain * that|||
+"G/B" G3 A"Am7" G3 E ||"G" G8 |"G7" z2 G2 dd"G+" B2 |"C6" A G3-"C#dim" G2 E2 |"Dm7" G2 B4"G+" AG | %22
+w: sol- i- tude can|bring|She used to like|waltz- es * So|please don't play a|
+w: |||||
+"C" E8 |"A7" z2 A2 ^c3 B |"D" B2"D#dim" A4 FG |"E7sus4" A2 EA-"A7" A3 B |"Am7" d2 B_B-"Ebm6" B3 D | %27
+w: waltz|She danced di-|vine- ly And I|loved her so * But|there I go * To-|
+w: |||||
+"G6" B4- BDEG |"F#m7b5" B2 BA-"B7" A4 |"E7" B E3"F7" B2 E2 |"E7" B6 E2 |"Cmaj7" e4-"Cm6" ecBA | %32
+w: night * I must- nt|think of her *|No more mem- o-|ries Swing|out * To- night I|
+w: |||||
+"Bm7" d2 d2"Eb7" _e4 |"Am7" e E3"D7b9" c"D7" B3 |"G6" G8- | G8 |] %36
+w: must for- get|Mu- sic Maes- tro|please||
+w: ||||
+

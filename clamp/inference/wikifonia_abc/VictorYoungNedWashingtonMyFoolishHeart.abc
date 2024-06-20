@@ -1,0 +1,35 @@
+X:1
+T:My Foolish Heart
+T:My Foolish Heart
+T:Victor Young / Ned Washington
+T:1949 by Chappell & Co., Largo Music Inc.
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+ F2 |:S"Bbmaj7" F4-"Ebmaj7" FB,DF |"Dm7" GA G4"G7" G2 |"Cm7" G4-"Cm7/Bb" GCEG |"Em7/A" A6"A7" A2 | %5
+w: The|night * is like a|love- ly tune, be-|ware * my fool- ish|heart! How|
+w: |lips * are much too|close to mine, *||* But|
+"Dm7" A4-"D7#9" ADFA |"Gm7" Bc B4"Db7" B2!dacoda! |"Cm7" B4- BEGB |"Cm7b5" c6"F7b9" Bc | %9
+w: white * the ev- er|cons- tant moon, take|care * my fool- ish|heart! There's a|
+w: should * our eag- er|lips com- bine then|let * the fi- re|start. * *|
+"Bbmaj7" d3 d d2 cB |"Fm7" d2 d4"Bb7" cB |"Ebmaj7" c2 cc cdcB |"Am7b5" c6"D7" BA | %13
+w: line~be- tween love and fas-|ci nation That's hard|to~see on an eve- ning such as|this, for they|
+w: ||||
+"Gm7" B3"Gm7/F" B BAGA |"Em7b5" B2 B4"A7b9" AG |"Dm7" A3 A"G+7" AFGF |"Cm7" A6"F7" G2!D.S.! :| %17
+w: give the ver- y same sen-|sa- tion When you|are~lost in the passion of a|kiss. Your|
+w: ||||
+O"Cm7" B4-"Cm7/Bb" BEGB |"Am7b5" d6"D7" c2 |"Gm7" B3 B BAGA |"Ebm7" B2 B4"Ab7" Bc | %21
+w: |For this|time it is- n't fas- ci-|na- tion or a|
+w: ||||
+"Bbmaj7" d3 d"Ebmaj7" ddcB |"Ab7b5" D6"G7" G2 |"Cm7" B4-"G7#9" BEGB | %24
+w: dream~that will fade and fall a-|part It's|love * this time. It's|
+w: |||
+"C7" c2"C+7" d2"F7sus4" B2"F7" c2 |"Bb6" B4-"G7" B4 |"Bbmaj7" z4"F7""^(Solos on entire form)" z4 |] %27
+w: love my fool- ish|heart *||
+w: |||
+

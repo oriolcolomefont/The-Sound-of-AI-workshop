@@ -1,0 +1,16 @@
+X:1
+T:Good-Morning To All
+C:Mildred J. Hill, Patty Hill
+Z:Public Domain
+L:1/4
+Q:1/4=2
+M:3/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"_Brightly" D |"G" E D G |"D7" F2 D | E D A |"G" G2 D | d B G |"C" F E c |"G" B G"D7" A | %8
+w: Good-|morn- ing to|you, Good-|morn- ing to|you, Good-|morn- ing dear|chil- dren, Good-|morn- ning to|
+"G" !fermata!G3 |] %9
+w: all.|
+

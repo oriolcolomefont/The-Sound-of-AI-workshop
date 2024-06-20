@@ -1,0 +1,24 @@
+X:1
+T:Song of India
+T:Song of India
+T:Nikolai Rimsky-Korsakov
+T: Robbins Music Corporation (1978)
+C:Nikolai Rimsky-Korsakov
+Z:All Rights Reserved
+L:1/16
+M:3/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Slowly" B2d2B2 |"G" B2A2 A2G2 G2E2 |"Em" (G4 G2)G2 B2G2 |"G7" G2E2 E2D2 D2E2 | %4
+"G" (E4 E2)E2 G2A2 | E6"Cm" G2"Cm" A2G2 |"G" (B4 B2) z2 z4 | z12 | (d8 d)^c=cB |"Gm" (d8 d)c=B_B | %10
+"G" d8 d2^c=c | (B4 B2) z2 z4 | (B8 B)A_AG |"Gm" (_B8 B)A_AG |"G" (=B8 B2)A_A | (G4 G2) z2 z4 | %16
+ (d8 d)^c=cB |"Gm6" (d8 d)c=B_B |"G" (d8 d2)^c=c | (B4 B2) z2 z4 | (B8 B)A_AG |"Gm6" (_B8 B)A_AG | %22
+"G" (=B8 B2)A_A | (G4 G2) z2 z4 |"D9" (F4 F)^GAB cded | (e4 e)dcB ABcd | (e4 e2) z2 z4 | z12 | %28
+"^D7-9" (^F4 F)GAB cd_ed | (_e4 e)dcB ABcd | (_e4 e2) z2 z4 | z12 |"Em" (g8 g)f=fe | %33
+"G+" (g8 g)=fe_e |"G" g12 | (d4 d2) z2 z4 |"C" (e8 e)d^c=c |"Cm" (_e8 e)d^c=c |"G" d12 | %39
+ (B4 B2) z2 z4 | (d8 d)^c=cB |"D7" (d8 d)cB^A |"G" d12 | (B4 B2) z2 z4 |"Gm" (d8 d)c=B_B | %45
+"D7" (c8 c)=B_BA |"C" =B12 | G2 z2 z2 B2 d2B2 | B2A2 A2G2 G2E2 |"Em" (G4 G2)G2 B2G2 | %50
+"G7" G2E2 E2D2 D2E2 |"C" (E4 E2)E2 G2A2 | E8 G4 |"Cm" A8 B4 |"G" (G12 | !fermata!G4) z2 |] %56
+

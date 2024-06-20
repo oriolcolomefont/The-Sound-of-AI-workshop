@@ -1,0 +1,28 @@
+X:1
+T:Love Theme from the film 'Romeo & Juliet'
+T:Love Theme from 'Romeo & Juliet'
+T:Nino Rota
+T:Larry Kusik & Eddie Snyder
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"Am" E Ac eA |"G" z D GB dG |"F" z C FA cF |"E" z B, E^G BE |"Am" z2 z A c>B |"Em" E3 E G>E | %6
+w: ||||A time for|us, Some day there'll|
+"F" A3 A G>F |"Em" G3 G F>E |"Dm" D3 E/D/ CD |"Am" E3 A c>B |"Em" E3 E G>E |"F" A4- AA |"Dm" d6 | %13
+w: be When chains are|torn by cour- age|born of a love that's|free, A time when|dreams so long den-|ied * can|flour-|
+"Em" B4- BE |"Am" c2- cB AG | cB A2"Em" G2 |"Am" A4- A>c |"C" e4- e>c |"G" d4- d>e |"Dm" f4- f>d | %20
+w: ish * As|we * un- veil the|love that we must|hide * A|time * for|us, * at|last * to|
+"Am" e4- e>c |"Bb" d4- d>_B |"F" c4- c>A |"Em" B4- B>(G |"Am" A3) A c>B |"Em" E3 E G>E | %26
+w: see * A|life * worth-|while * for|you * and|me And with our|love, through tears and|
+"F" A3 A G>F |"Em" G3 G F>E |"Dm" D3 E/D/ CD |"Am" E3 A c>B |"Em" E3 E G>E |"F" A4- AA |"Dm" d6 | %33
+w: thorns We will en-|dure as we pass|sure- ly through ev- ery|storm A time for|us, some day there'll|be * a|new|
+"Em" B4- BE |"Am" c2- c/B/A/G/ c/B/A/G/ | cB A2"Em" G2 |"Am" !fermata!A6 |] %37
+w: world * A|world * of shin- ing h- o- pe for|y- o- u and|me|
+

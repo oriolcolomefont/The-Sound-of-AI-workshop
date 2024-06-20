@@ -1,0 +1,39 @@
+X:1
+T:I'm Walkin'
+T:I'm Walkin'
+T:Antoine Domino & Dave Bartholomew
+C:Antoine Domino & Dave Bartholomew
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z"Bb7" D |"F6" F/ F3/2- F F |"Bb7" _A G"C9" F D |"F6" F3 D |"C7" C2 z"Bb7" D |: %5
+w: ||||* I'm|
+w: |||||
+"F6" F/ F3/2- F2 |"Bb7" _A G/F/-"F" F/D/ D |"Bb7" F/ F3/2- F F | _A G/F/- F D |"F6" F/ F3/2- F F | %10
+w: Walk- in *|yes in- deed * and I'm|talk- in' * 'bout|you and me * I'm|hop- in' * that|
+w: |||||
+"C+7" _A G"Gm7" F D |"F" F3 D |"C7" C2 z"Bb7" D |"F6" F/ F3/2- F F |"Bb7" _A G/F/-"F" F D | %15
+w: you'll come back to|me yes|* I'm|lone- ly * as|I can be * I'm|
+w: |||||
+"Bb7" F/ F3/2- F/F/ F | _A G/F/- F D |"F6" F/ F3/2- F F |"C+7" _A G"Gm7" F D |"F" F4- |"F7" F4 | %21
+w: wait- in' * for your|com- pa- ny * I'm|hop- in' * that|you'll come back to|me||
+w: ||||||
+"Bb7" B/B/B/B/ B B/B/ |"F6" _A F F2 |"Bb7" B B/B/ B B |"F6" _A F F2 |"Bb7" B/B/B/B/ B B/B/ | %26
+w: What ya gon- na do when the|well runs dry?|You're gon- na run a-|way and hide|I'm * gon- na run right *|
+w: ||You're gon- na sit right|down and cry|What ya gon- na do when I|
+"F6" _A F F3/2 F/ |"G7" G/G/G/G/ G/G/ G |"C7" E C C"Bb7" D |"F6" F/ F3/2- F2 | %30
+w: by your side for|you * pret- ty ba- by I'll|ev- en die I'm|walk- in' *|
+w: say "bye- bye" *|All you're gon- na d0 * is|dry your eye. *||
+"C+7" _A G/F/-"F" F D |"Bb7" F/ F3/2- F F | _A G/F/- F D |"F6" F/ F3/2- F F |"C+7" _A G"Gm7" F D |1 %35
+w: yes in- deed * I'm|talk- in * 'bout|you and me * I'm|hop- in' * that|you'll come back to|
+w: |||||
+"F" F2- F2 ||"Bb7" F2-"C7" F-"Bb7" D :|2"F6" F2-"Bb7" F2- ||"F6" F3 z |] %39
+w: |* * I'm|||
+w: ||||
+

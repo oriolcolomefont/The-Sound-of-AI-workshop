@@ -1,0 +1,47 @@
+X:1
+T:Green Fields
+T:Green Fields
+T:Terry Gilkyson, Rich Dehr, Frank Miller
+C:Terry Gilkyson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:S"Dm" D2- (3DED"Gm" A G3 |"Dm" F2- (3FDF"A7" E4 |"Dm" D2- (3DED"Gm" c B2 B | %3
+w: 1.~Once _ there were green fields|kissed _ by the sun;|Once _ there were val- leys where|
+w: 2.~Green _ fields are gone now,|parched _ by the sun;|Gone _ from the val- leys where|
+w: 3.~I'll _ keep on wait- ing,|till _ you re- turn;|I'll _ keep on wait- ing un-|
+"Dm" A F2 G/A/"A7" G4 |"Bb" d2- (3ded"C+" e e2 d |"Am7" c c2 d/c/"D7" d4 | %6
+w: riv- ers used to run;|One _ there was blue sky with|white clouds high a- bove;|
+w: riv- ers used to run;|Gone _ with the cold wind that|swept in- to my heart;|
+w: til the day you learn;|You _ can't be hap- py while|your hearts on a roam;|
+"Gm" B2- (3BcB"C7" c c2 B |"Dm" (3AGF- FG"A7" A4 |"Dm" D2- (3Dc=B"Gm" _B D2 E |"Dm" F6"A7" G>E | %10
+w: Once _ they were part of an|ev- er- last- * ing love.|We _ were the lov- ers who|strolled thru geen|
+w: Gone _ with the lov- ers who|let their dreams _ de- part.|Where _ are the green fields that|we used to|
+w: You _ can't be hap- py un-|til you bring _ it home.|Home _ to the green fields and|me once a-|
+"Dm""Gm" D8!dacoda! |1"Dm" (3DFA- A2"A7" (3^CEA- A2 :|2"Dm" (3DFA- A2"A7" (3A^ce- e2 || %13
+w: fields.|||
+w: roam?|||
+w: gain.|||
+"Bb" d2- (3ddc"Gm7" d3 c |"C7" d>cB>c"F" A4 |"Gm7" d>dd>c"C7" d d2 c |"Gm7" d>c"C7"B>c"F""A7" A4 | %17
+w: I'll _ nev- er know what|made you run a- way.|How can I keep search- ing when|dark clouds hide the day?|
+w: ||||
+w: ||||
+"Dm" z3/2 f<fe/ f3 e |"Bb" f>ed>c"Gm" B4 |"Dm" A F2 G/A/"Gm" G G3 | G>EF>G"A7" A3 A!D.S.! || %21
+w: I on- ly know there's|no- thing here for me,|Noth- ing in this wide world|left for me to see. But|
+w: ||||
+w: ||||
+O"Dm" (3DFA- A2"A7" (3DFA- A2 |"Bb" G2- (3GAB"Gm7" f f2 d |"Dm""Bb7" f6"A7" ^ce |"Dm" (d4 A4 | %25
+w: |Home _ to the green fields and|me once a-|gain. _|
+w: ||||
+w: ||||
+ D6) z2 |] %26
+w: _|
+w: |
+w: |
+

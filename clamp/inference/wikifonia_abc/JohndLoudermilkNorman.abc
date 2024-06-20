@@ -1,0 +1,33 @@
+X:1
+T:Norman
+T:Norman
+T:John D.Loudermilk
+C:John d Loudermilk
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"D" z2 F A | d c B c | A2 F A- | A3 F |"A7" G2 E G- | G2 z2 |"D" A2 F A- | A4 | z F F A | %9
+w: Jim my|called * me *|on the phone|* but|I was gone||not at home||cause i was|
+w: Bill in-|vi * ted me|to a show|* but|I said no||can not go||* theres a|
+w: Joey *|asked * me *|for a date|* He|wan ted to,take||me out,to skate||But I told|
+ d c B c | A2 F A- | A4 |"A7" z2 A2 | G2 F2 |"D" E2 D2- | D4 |"D7" z2 d d | d2 c2 | e2 d d- | d4 | %20
+w: out * parked *|all a- lone||with|dar- lin|Nor- man||Nor- man|holds me|close to him||
+w: dress * * that,I've|got to sew||and|wear for|Nor- man||Nor- man|is my|on- ly love||
+w: Jo- ey he would|have to make||arrange-|ments with|Nor- man-||||||
+"G" z2 d d | d2 c2 | e2 d d- | d2 z2 |"E7" z2 e e | e2 ^d2 | f2 e2 | d2 B2 |"A7" e2 d2 | c2 B2 | %30
+w: Nor- man|kiss- es|me and then||Nor- man|knows my|heart be-|longs to|him and|him and|
+w: Nor- man|all I'm|think- ing of||Nor- man|gives me|all his|lov- in|kiss- in|hug- gin|
+w: ||||||||||
+ A2 G2 | F2 E2 |"D" z2 A2 | B4 | B A B c | B A B F |"A7" G2 A2 | B4 | B A B c | B A B F | G2 A2 | %41
+w: on ly|him oh|Nor-|man|Oooo * * *||* Nor-|man-|Ooooooo * * *||* Nor-|
+w: lov- ey|dov- in||||||||||
+w: |||||||||||
+ B4- | B2 c2 | d2 e2 |"D" d4- |"Gm" d4- |"D" d4- | d4 :|"D" d4- | d3 z | z4 |] %51
+w: man|* Nor-|man my|love|||||||
+w: ||||||||||
+w: ||||||||||
+

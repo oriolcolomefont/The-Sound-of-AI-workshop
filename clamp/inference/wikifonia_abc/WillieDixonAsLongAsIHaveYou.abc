@@ -1,0 +1,19 @@
+X:1
+T:As Long As I Have You
+C:Willie Dixon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"^N.C."!mf!"^Medium tempo" FDFA z2 z2 ||"F" (B2 A6) | z2 FD F2 A2 | (B2 A6) | z4 z2 fc | %5
+w: Long as I have|you, *|Long as I have|you,\- *|Noth\- ing|
+ f2 _ec f4 | fc_ec B2 A2 | (A2 F6) | z4 z2 FF | c2 B2 BA F2 | z AFF- F2 F2 | f2 _e2 cAAF | %12
+w: I would\- n't do,|ba\- by, Long as I have|you. *|Well, I|don't mind work\- ing, I'll|be your slave, * Just|call me, ba\- by, and I'll|
+ f_e c2 (cA)FD |"Bb7" F2 (_AB) B4 | z2 f_e c2 B2 |"F" (A2 F6) | z4 z2 fc |"C11" f2 fc f4 | %18
+w: rise from my grave. * Long as|I have * you,|Long as I have|you, *|Noth\- ing|I would\- n't do|
+"Bb" fc_ec B2 A2 |"F" (A2 F6) | z8 |] %21
+w: ba\- by, Long as I have|you. *||
+

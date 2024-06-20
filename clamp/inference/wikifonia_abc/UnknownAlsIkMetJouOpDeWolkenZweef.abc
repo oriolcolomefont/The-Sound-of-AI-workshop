@@ -1,0 +1,29 @@
+X:1
+T:Als Ik Met Jou Op De Wolken Zweef
+T: Laukens Music Productions  
+T:Beguine 
+T:ALS IK MET JOU OP DE WOLKEN ZWEEF
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=115
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"E" z E EF GE AG |"B7" F8 | z D DE FE GF |"E" E8 :|"B7" B,8 |:"E" G,A, G,B,- B,3 E | %6
+ GF EB,- B,4 | B,B, B,B,- B,A, G,2 |"B7" A,3 F,- F,4 |"F#m" CD CF- F2- FG | AG FC- C4 | %11
+"B7" DD DD- D D2 C |"E" B,8 | G,A, G,B,- B,3 E | GF EB,- B,2 z B, |"E7" B,B, C=D- D C2 B, |"A" C8 | %17
+ ED EF- F2 EF |"E" G2 EB,- B,3 G, |"F#7" F,2 F,G, ^A,2 B,C |"B7" B,8 |"E" z B, B,B, GG GE || %22
+"B7" F2 B,B,- B,4 | z B, B,B, AA AF |"E" G2 EB,- B,4 |"E7" z2 E2 F2 G2 |"A" A3 F D C2 B,- | %27
+"B7" B,4 A A2 B |"E" A3 G- G4 | z B, B,B, GG GE |"B7" F2 B,B,- B,4 | z B, B,B, AA AF | %32
+"E" G2 EB,- B,4 |"E7" z2 E2 F2 G2 |"A" A3 F D C2 B,- |"B7" B,4 (3D2 E2 F2 |1"E" E8- | E8 :|2 %38
+"E" E8 ||[K:F]"F" FC CC AA AF ||"C7" G2 CC- C4 | z C CC BB BG |"F" A2 FC- C4 |"F7" z2 F2 G2 A2 | %44
+"Bb" B3 G E D2 C- |"C7" C4 B B2 c |"F" B3 A- A4 | z C CC AA AF |"C7" G2 CC- C4 | z C CC BB BG | %50
+"F" A2 FC- C4 |"F7" z2 F2 G2 A2 |"Bb" B3 G E D2 C- |"C7" C4 (3E2 F2 G2 |"F" F8 |"F7" z2 F2 G2 A2 | %56
+"Bb" B3 G E D2 C- |"C7" C4 (3E2 F2 G2 |"F" F4 A2 G2 | FF FB-"Bb" B2 A2 |"F" f8- | f2 z2 z2 z2 |] %62
+

@@ -1,0 +1,25 @@
+X:1
+T:The Drupal Song
+C:Jeff Robbins
+Z:Creative Commons BY-NC-SA
+L:1/16
+Q:1/4=88
+M:4/4
+K:D
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z D |"D" A2 A A F2D2"G" B2 B B G2D D |"D" A2A A F2D2"A7" E4"D" D3 D | %3
+w: If|you've got a web- site, you need a sys- tem to|man- age your con- tent, Dru- pal If|
+"D" A2 A A F2 D2"G" B2 BB G2D2 |"D" A2 A A F2D2 z2"A7" E2"D" D4 |"D" AA AA AA AA"G" B4"D" A4 | %6
+w: you want to build a web app- li- ca- tion,|you've got to down- load Drup- pal|Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal|
+"D" AA AA AA AA"G" B4"D" A4 |"D" AA AA AA AA"G" B4"D" A4 |"D" AA AA AA AA z2"A7" E2"D" D2>D2 | %9
+w: Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal|Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal|Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal If~If|
+"D" A2 A A F2D2"G" B2 B B G2D D |"D" A2A A F2D2"A7" E4"D" D3 D |"D" A2 A A F2 D2"G" B2 BB G2D2 | %12
+w: you've got a web- site, you need a sys- tem to|man- age your con- tent, Dru- pal If|you want to build a web app- li- ca- tion,|
+"D" A2 A A F2D2 z2"A7" E2"D" D4 |"D" AA AA AA AA"G" B4"D" A4 |"D" AA AA AA AA"G" B4"D" A4 | %15
+w: you've got to down- load Drup- pal|Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal|Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal|
+"D" AA AA AA AA"G" B4"D" A4 |"D" AA AA AA AA z2"A7" E2"D" D4 |] %17
+w: Dru- pal Dru- pal Dru- pal Dru- pal Dru- pal|Dru~Dru pal Dru- pal Dru- pal Dru- pal Dru- pal|
+

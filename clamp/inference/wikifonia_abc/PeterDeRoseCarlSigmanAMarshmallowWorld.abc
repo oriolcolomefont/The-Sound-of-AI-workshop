@@ -1,0 +1,28 @@
+X:1
+T:A Marshmallow World
+T:A Marshmallow World
+T:Peter De Rose
+T:Carl Sigman
+C:Peter De Rose
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ GE |"C" G2 GE G2 GE | GA- A4 GE | G2 GE GE"Ebdim" C2 |"G7" B,6 DE |"Dm" F2 DD-"G7sus4" D2 AB | %6
+w: It's a|marsh- mel- low world in the|win- ter * When the|snow comes to cov- er the|ground It's the|time for play * it's a|
+"C/E" c2 GG-"Am7" G3 c |"D7" ddcc B2 A2 |"G7sus4" G6"G7" GE |"C" G2 GE G2 GE | GA- A4 GE | %11
+w: whipped- cream day * I|wait for it the whole year|round. Those are|marsh- mel- low clouds be- ing|friend- ly * In the|
+ G2 GE GE"Ebdim" C2 |"G7" B,6 DE |"Dm" F2 DD-"G7sus4" D2 AB |"C/E" c2 GG-"Am7" G3 c | %15
+w: arms of the ev- er- green|trees and the|sun is red * like a|pump- kin head * It's|
+"D7" ddcc"Dm7" A2"G7" B2 |"C" c6 z c |"Gm7" _BB c2"C7" B2 c2 |"Fmaj7" A_B c2"Dm7" F4 | %19
+w: shi- ning so your nose won't|freeze. The|world is your snow- ball|see how it grows|
+"Gm7" GA _B2"C7" E3 E |"F" FG A2 A3 d |"Am7" cc d2"D7" c2 d2 |"Gmaj7" Bc d2"Em7" G3 B | %23
+w: That's how it goes when-|ev- er it snows The|world is your snow- ball|just for a song; get|
+"Am7" d2 D2"D7" DE ^F2 |"G7" G6 GE |"C" G2 GE G2 GE | GA- A4 GE | G2 GE GE"Ebdim" C2 |"G7" B,6 DE | %29
+w: out and roll it a-|long It's a|yum- yum- my world made for|sweet- hearts * take a|walk with your fa- vor- ite|girl. It's a|
+"Fm/Ab" F2 DD-"G7" D2 AB |"Gm/Bb" c2 GG-"A7" G3 c |"D7" ddcc"Dm7" A2"G7" BG |"C" c2 z2 z2 z2 |] %33
+w: su- gar date * what if|spring is late * In|win- ter it's a marsh- mel- low|world.|
+

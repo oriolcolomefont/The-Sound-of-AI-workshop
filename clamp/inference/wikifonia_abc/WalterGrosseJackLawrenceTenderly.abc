@@ -1,0 +1,28 @@
+X:1
+T:Tenderly
+T:Tenderly
+C:Walter Grosse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|: z4 z Bce |"Ebmaj7" d4- dBce |"Ebm" d6 B_G |"Fm7""Bb7" F8- |"Fm7" F2 z2"Ab9" z EFA | %5
+w: The eve- ning|breeze _ ca- ressed the|trees ten- der-|ly;|_ the tremb- ling|
+"Fm7" G4- GEFA |"Abm" G6 E_C |"Eb""Gm7" B,8 |"Edim" B,4"C7" z2 B,2 |"Abm" _C6"Db7/Ab" B2 | %10
+w: trees _ em- braced the|breeze ten- der-|ly.|_ Then|you and|
+"Bb7" G6 B,2 |"Abm" _C4 E2"Db7/Ab" B2 |"Bb7" G6"Bdim" F2 |"Cm7" E4"Gm7" G2 f2 |"F7" d6 F2 | %15
+w: I came|wan- der- ing|by and|lost in a|sigh were|
+"Bb7""Edim" B8- |"Bb7" B4 z Bce |"Ebmaj7" d4- dBce |"Ebm" d6 B_G |"Fm7""Bb7" F8- | %20
+w: we.|_ The shore was|kissed _ by sea and|mist ten- der-|ly.|
+"Fm7" F2 z2"Ab9" z EFA |"Fm7" G4- GEFA |"Abm" G6 E_C |"Eb""Gm7" B,8- |"Edim" B,4"C7" z2 B,2 | %25
+w: _ I can't for-|get _ how two hearts|met breath- less-|ly|_ Your|
+"Abm" _C4 E2"Db7/Ab" B2 |"Bb7" G6"Bdim" F2 |"Cm7" E4"Gm7" G2 f2 |"F7" d4-"F#dim7" decd | %29
+w: arms o- pened|wide and|closed me in-|side; _ you took my|
+"Eb" B4-"Edim" Bc"C+"AB |"Fm7" G4"Bb7" GF"Abm"A"E7"D |1"Eb" E8 ||"Fm7" z4"B7" z Bce :|2"Eb" E8- || %34
+w: lips, _ you took my|love _ so ten- der-|ly.|The eve- ning|ly|
+ E4 z4 |] %35
+w: |
+

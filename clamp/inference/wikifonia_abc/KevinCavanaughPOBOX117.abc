@@ -1,0 +1,63 @@
+X:1
+T:PO BOX 117
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ G=F |"G7" GGG=F G2 GF | G=F G2 _B2"F" z2 |[M:6/4] z2"G7" G=F GG F2 GG GG |[M:2/4]"Bb" _B2 d2 | %5
+w: 1.Gon na|grab a pair of jeans and your|flan- nel red shirt|Gon na jump in my car and turn the|A M|
+w: |||||
+[M:4/4]"C7" cc d2 c_B G2- | G4 z2 z2 |[M:6/4]"Eb" z2 _e2"Bb" d2 c_B"F" cB c2 |[M:2/4]"Bb" d4 | %9
+w: rad- i- o on _ _|_|Some times you've just got ta leave|town|
+w: ||||
+[M:4/4]"Eb" z _eee"Bb" dc_BB |[M:2/4]"Dm" =f2 A2 |[M:4/4]"Eb" G8- | G_eee dc _B2 | %13
+w: some times you've got ta let your|own hair|down|_ Some times you've got ta let|
+w: ||||
+[M:2/4]"D7" c_B c2 |[M:4/4]"Gm" d2 z2 z2 z2 | z8 |"G7" G=FGF G4 | GG G2 _B2"F" z2 | %18
+w: ev- 'ry- one|down||Ev en tho you live|ho- urs a- way|
+w: |||||
+"G7" z =FGF G2 GG |[M:2/4]"Bb" _BB d2 |[M:4/4]"C7" c_B G2- G4- | G4- G2 G=F |"G7" G=F G2 GGGG | %23
+w: I need a fix and I|need it to|day _ _ _|_ _ Gon na|jump in my car and turn the|
+w: |||||
+[M:2/4]"Bb" _B2 d2 |[M:4/4]"C7" cc d2 c_B G2- | G4 z4 |: z"Eb" z _e2"Bb" d2 c_B | %27
+w: A M|rad- i- o on _ _|_|Some- times you've just|
+w: ||||
+"F7" cc ^c2"Bb" d4 |"Eb/G" z _eee"Bb/F" dc_BB |[M:2/4]"Dm" =f2 A2 |[M:4/4]"Eb" G8- | G_eee dc _B2 | %32
+w: got- ta leave town|Some times you got ta let your|own hair|down|_ Some times you've got ta let|
+w: |||||
+[M:2/4]"D7" c_B c2 |[M:4/4]"Gm" d2 z2 z4 | z8 |"F" c4- c2- c2- |"Eb" _B4 z2 B2 |"F" A"Bb"_BzB- B4 | %38
+w: ev- 'ry- one|down||Love _ _|_ I'm|on my way _|
+w: ||||||
+ z8 |"F" c4- c2- c2- |"Eb" _B4 z2 B2 |"Gm" AGzG- G4 | z8 |"F" c4- c2- c2- |"Eb" _B4 z2 B2 | %45
+w: |Love _ _|_ I'm|on my way _||Love _ _|_ I'm|
+w: |||||||
+"F" A"Bb"_BzB- B4 | z8 |"F" c4- c2- c2- |"Eb" _B4 z2 B2 |"Gm" AGzG- G2 z2 |"G7" =FGGF G2 d2 | %51
+w: on my way _||Love _ _|_ I'm|on my way _|_ _ _ _ _ _|
+w: ||||||
+"G7" =FGGF G2 _B2 |"G7" =FGGF G2 d2 | z"G7" GG=F GFGF | GG G2 _B2"F" z2 |"G7" z =FGF G2 G2 | %56
+w: ||If there's a prob lem tell it|to my ma chine|or drop a note at|
+w: |* * * * TO CODA||||
+[M:2/4]"Bb" _B2 d2 |[M:4/4]"C7" c2 d2 c_BzG- | G4- G4 | [E_B]2 [EB]2 [EB][=FB]z[E-B] | %60
+w: P O|BOX One sev en teen|_ _|(Box one sev en teen)|
+w: ||||
+ [E-_B]4 [EB]4 |"Eb" z2 _ee"Bb" d2 c_B |"F" c2 =F2- F2 cd |"Eb" _e2 dc"Bb" _B2 BB | %64
+w: _ _|For I've been to the|drug- store * For a|two dol- lar rose just to|
+w: ||||
+[M:2/4]"Dm" c2 A2 |[M:4/4]"Eb" G8 | z2 _e2 d2 c_B |[M:2/4]"Dm7" c2 =F2- |[M:4/4] F4 z ddd | %69
+w: catch your|eye.|I've been to the|drug- store|* Need- in' a|
+w: |||||
+"Eb" _eedc _B2 cB |[M:2/4]"F" =f2"D7b9" _e2 |[M:4/4]"Gm" d-c- _B2 z4 :| z8 | z2 z2 z2 G=F | %74
+w: pack of cig ar ettes and I|don't care|why _ _||Gon na|
+w: ||* * To|||
+"G7" GGG=F G2 GF | G=F G2 _B2"F" z2 |[M:6/4] z2"G7" G=F GG F2 GG GG |[M:2/4]"Bb" _B2 d2 | %78
+w: grab a pair of jeans and your|flan- nel red shirt|Gon na jump in my car and turn the|A M|
+w: ||||
+[M:4/4]"C7" cc d2 c_B G2- | !fermata!G8 |] %80
+w: rad- i- o on _ _|_|
+w: ||
+

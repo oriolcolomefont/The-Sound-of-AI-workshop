@@ -1,0 +1,24 @@
+X:1
+T:The Old Piano Roll Blues
+T:The old piano roll blues
+T:Cy Coben
+T:Shuffle
+C:Cy Coben
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z CD^D |:"C7" EcB_B- BCD^D | EcB_B- _B4 |"F" z ddc dcAF- | F6 z D |"C7" E^DEF G C2 C | %6
+w: I wan- na-|hear it a- gain * I wan- na|hear it a- gain *|the old pi- an- o toll blues|* we're|sit- ting at an up- right my|
+"F" FG^GA- A4 |"G7" GABG ABAG |"C7" d_BGE z CD^D | EcB_B =BCD^D | EcB_B- _B4 | %11
+w: sweet- ie and me *|push- ing on the ped- als mak- ing|sweet har- mon- y when we hear|rink- i- ty tink * and we hear|plink- i- ty plink *|
+"F" z AA^G"F7" A_Bcd- |"D7" d4 z A^GA |"Gm" _B2 A2 G2 A2 |"Bb" _B_BAG- G2 z _B |"F" cc_B_B A B3 | %16
+w: we cud- dle clos- er it seems|* and while we|kiss kiss kiss a-|way all our cares * the|play- er pia- no's play- in|
+"D7" cc_BA- ACD^D |"C7" EcB_B- _BCD^D | EcB_B- B4 | z ddc dcA"F"F- |1 F4 z"^N.C." CD^D :|2 %21
+w: razz- a- ma- tazz * I wan- na|hear it a- gain * I wan- na|hear it a- gain- *|the old pi- an- o roll blues.|* I wan- na|
+"F" F4 z4 |] %22
+w: |
+

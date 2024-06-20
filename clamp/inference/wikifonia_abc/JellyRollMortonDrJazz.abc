@@ -1,0 +1,38 @@
+X:1
+T:Dr Jazz
+T:Dr Jazz
+T:Jelly Roll Morton
+T:All Rights Reserved
+C:Jelly Roll Morton
+Z:All Rights Reserved
+L:1/4
+Q:1/4=75
+M:4/4
+K:C
+V:1 treble nm="Dr Jazz"
+%%MIDI program 1
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^Slow" G/E/G/E/ G E |"G7" B B/^A/"F" =A B | c A E D |"C" G2 E/G/E/G/ | E/G/G/A/ ^A/"G7"B/ G | %5
+w: Ev'- ry- bo- dy gets the|blues now and then and|don't know what to|do I know I have|had it hap- pen many times to|
+w: |||||
+ D- D/D/ c"C" c | B"F" A"G" G2 |"F" F G A B | A E/"C" G2- G/- | G/"F" F G A B/ | B/A/ E"C" G2- | %11
+w: me * and I know|so have you|But thos days are|gone and past *|* I've found out what|to do at last|
+w: ||||||
+ G"D7" ^F F E | D"G" B/^F/"C" E2 |"D" A ^G A B |"G7" G4 ||[Q:1/4=190]"^Lively" z2"C" C D | %16
+w: * When I am|down and feeling out|you can hear me||He- llo|
+w: |||||
+ E F G A |"D" ^D E"C" C2 | C D E F | G A"D" ^D E |"C" C2"F" c c | c A c- c/A/ | G"D" ^F =F"C" E- | %23
+w: Cen- tral give me|doc- tor jazz|He's got what I|need I'll say he|has When I'm|feel- ing down * and|I've got the blues|
+w: |||||||
+ E2"D" D E/^F/- | F/G/ A A A/A/- | A/B/ d B A | G2- G G |"C" C D E F | G A"D" ^D E | %29
+w: * He's the guy|* that makes me put on|* both my dan- cing|shoes * The|more I get the|more I want it|
+w: ||||||
+"C" C2- C"F" c | c A c A | c c"G" d d | B2- B"F" c | A c A c | A c2 c | A c A c/A/- | A/ c2 c/ c | %37
+w: seems * I|call on doc- tor|jazz in all my|dreams * When|||||
+w: ||||my trou- bles are|all mixed He's|the guy that gets them|* fixed He- llo|
+ c c"D" ^d ^d | ^d =d"C" c2 |] %39
+w: |* * jazz|
+w: Cen- tral give *|doc- tor *|
+

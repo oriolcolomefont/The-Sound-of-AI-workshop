@@ -1,0 +1,17 @@
+X:1
+T:Sok számos esztendőket
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ D3 F A A3 | B2 A2 ^G2 z2 | A A3 ^G F3 | E4 z4 :| F4 G4 | A4 F2 D2 | F F3 E2 z2 | A2 B2 A2 z2 | %8
+w: Sok szá- os esz-|ten- dő- ket|ví- gan el- ér-|hess,|Az ég|har- mat- ja|szí- ve- det|ú- jít- sa,|
+w: Nap- ja- i- dat|szám- lál- ni|ne lé- gyen ter-|hes,|||||
+ F4 G4 | A4 F2 D2 | F2 E2 (D3 E) | F E3 D4 |] %12
+w: Ál- dá-|sok ár- ja|há- zad el- *|bo- rít- sa.-|
+w: ||||
+

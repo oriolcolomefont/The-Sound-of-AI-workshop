@@ -1,0 +1,42 @@
+X:1
+T:It Isn't Fair (Transcribed)
+T:It Isn't Fair
+C:and Sylvester Sprigato, Frank Warshauer, Richard Himber
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"C " z C EG"Cmaj7" BB"Gb " _BB |"Fmaj7" Ae ed dc cA |"Fmin6" d2"Bb ""B " d6 |"C " z d dc cG GE | %4
+w: ||||
+"A9" B8 |"Dmin7" z A cA cA cA |"Fmaj7" E2"G7" E4 DE |"F " G2"F# ""G " G4"G7" A2 | %8
+w: ||||
+"C " EC EG"Cmaj7" BB"Gb " _BB |"Fmaj7" Ae ed dc cA |"Fmin6" d2"Bb " d4"B " z2 |"C " z d dc cG GE | %12
+w: ||||
+"A9" B8 |"Dmin7" z A cA cA cA |"Fmaj7" E2"G7" E4 DE |"F " G2"F# ""G " G4"G7" A2 | %16
+w: ||||
+"C " c2 G2"Caug" ^G2"D7" A2 |"C " c2- cB"D7" A4- | A4"G7" g4 |"C " e6 e2 | %20
+w: ||||
+"G7" d z z2"C " (3c2"Cmaj7" B2"Gb " _B2 |"Fmaj7" Ae (3edd- dc- (3ccA |"Fmin6" d2"Bb ""B " d6 | %23
+w: |* It is- n't fair * for * you to|taunt me.|
+"C " z d dc cG GE |"A9" B8 |"Dmin7" z c (3ccc- cA- (3AcA |"Fmaj7" EE-"G7" E4(3zDE | %27
+w: How can you make me care this|way?|It is- n't fair * for * you to|want me * if it's|
+"F " GG-"F# ""G " G4"G7" z A |"C " E4 (3c2"Cmaj7" B2"Gb " _B2 |"Fmaj7" Ae (3edd- dc- (3ccA | %30
+w: just for * a|day. * * *|* It is- n't fair * for * you to|
+"Fmin6" d2"Bb ""B " d6 |"C " z d dc cG GE |"A9" B8 |"Dmin7" z c (3ccc- cA- (3AcA | %34
+w: thrill me.|Why do you do the things you|do?|It is- n't fair * for * you to|
+"Fmaj7" EE-"G7" E4(3zDE |"Dmin7" G2 GG-"G7" G2 z A |"C " c4"B7" B4 |"Emin" z2 (3BAG ^FE FG | %38
+w: fill me * with those|dreams that can't * come|true dear.|Why is it you came in- to|
+"Amin" A2"B7" A4 z B |"Gmin" G2"A7" G4 z E |"Amin7""D7" D6 z2 |"G " z2 (3dcB"Emin" AG AB | %42
+w: my life and|made it com-|plete?|You gave me just a taste of|
+"Cmin" cc-"D7" c4 z d |"G " (3BAG-"A7" G4 z A |"Fmin" (3FED-"G7" D2"C " dc"Gb " B_B | %45
+w: high life. * If|this is love * then|I re- peat. * * * * *|
+"Fmaj7" Ae (3edd- dc- (3ccA |"Fmin6" d2"Bb ""B " d6 |"C " z d dc (3cce- ee |"A9" B8 | %49
+w: * It is- n't fair * for * you to|taunt me.|How can you make me care * this|way?|
+"Dmin7" z2 (3ccc cA- (3AcA |"Fmaj7" EE-"G7" E4(3zDE |"Bb7" GG-"A7""Abmaj7" G4"G7" z A |"C " c8 | %53
+w: It is- n't fair for * you to|want me * if it's|just for * to-|day.|
+"F " z2 z c c A3- | A2 z c"G7" d4 |"F " c4"C " e4- | e8 |] %57
+w: My dar- ling|* it is-|n't fair.||
+

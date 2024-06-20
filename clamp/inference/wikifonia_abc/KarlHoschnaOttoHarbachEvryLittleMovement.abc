@@ -1,0 +1,23 @@
+X:1
+T:Ev'ry Little Movement
+T:Ev'ry Little Movement
+T:from the musical "Madame Sherry" 1910
+T:Karl Hoschna
+T:Otto Harbach
+C:Karl Hoschna
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B4- BAGA | B2 g2 e2 B2 |"Bb7" A4- AGFG | A6 z2 | A4- AGFG | A2 f2 d2 B2 |"Eb" G4- GFEF | %7
+w: Ev- * 'ry lit- tle|move- ment has a|mean- * ing all its|own,|Ev- * 'ry tho't and|feel- ing by some|pos- * ture can be|
+ G4- GEGB |"Ab" e2 e2- eded | f2 e2 d2 c2 |"Eb" B2 B2- B=ABA | c2 B2 A2 G2 |"Bb7" F2 F2- F=EFG | %13
+w: shown, * And ev- 'ry|love tho't * that comes a|steal- ing o'er your|be- ing * must be re-|veal- ing, All its|sweet- ness * in some ap-|
+ B2 A2 G2 F2 |"Eb" E2 E2- EFGB | e6 z2 |] %16
+w: peal- ing Lit- tle|ges- ture * all its own.-||
+

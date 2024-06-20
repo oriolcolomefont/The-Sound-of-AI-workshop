@@ -1,0 +1,36 @@
+X:1
+T:Adj helyet magad mellett
+T:Adj helyet 
+T:Bikini
+C:Bikini
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Bikini-4"
+%%MIDI program 0
+V:1
+"Am" z2 EE E2 DC |"D" D>D z2 z2 z A, |"Dm" D>D z D D>D z C/B,/ |"Am" C>A, z2 A,>A, A,2 | %4
+w: Adj he- lyet ma- gad|mel- lett, az|ab- lak- hoz én is o- da|fér- jek, mez- te- len|
+"C" C>C z C C2 B,A, |"G" B,2 G,2 z4 |"E7" B,>B, z B, z CzB, |"Am" A,>A, z2 z4 |"C" z4 E>D z C | %9
+w: vál- lad- hoz ér- jen a|vál- lam,|en- gedd, hogy meg- kí-|ván- jam.|En- gedd, hogy|
+"G" D>B, z G, z2 z G, |"E7" (3DCD z E- E4 |"Am" C>B, z A, z2 A,B, |"C" C2 C2 CB, A,2 | %13
+w: é- rezz em, hogy|sza- ba- dab- ban _|lé- leg- zem, és ha|é- hes va- gyok, és|
+"G" B,2 G,2 z4 |"E7" B,>B,- B,B, z B,CB, |"Am" A,A,/A,/- A,<A, z4 || z4 z2 z A, |"Am" E2 ED z2 CD | %18
+w: fá- radt,|ma- gam- * faj- ta töb- bet|mit kí- ván- * hat.|Mint|fél- e- lem a szín-|
+"D" z C D2 z4 |"Dm" DDzD (3:2:2D D2 CB, |"Am" CC z2 z2 A,2 |"C" C>C z C B,2 A,B, | %22
+w: pa- don,|ü- lük a kö- zel- ben egy|pa- don, úgy|pa- ran- cso- lok ma- gam-|
+"G" z G, z2 z2 G,2 |"E7" B,B,zB, z4 |"Am" A,A,/A,/ z A, z2 z A, |"C" E2 E2 D2 CD |"G" z C D2 z4 | %27
+w: nak, még|ma- rad- jak,|meg- ma- rad- jak.- *|Kí- nom- ban a szín-|pad- on,|
+"E7" DDzC D>D z E |"Am" CCzB, CB, A,2 |"C" CCzC z CB,A, |"G" B,2 z2 z4 |"E7" B,2 B,B, z4 | %32
+w: fej- em a lá- bam közt,|ülök a nya- ka- mon, _|ho- mok- kal te- li a|szám,|szép va- gyok,|
+"Am" A,A,zA, A,2 z2 || z4 z2 A,B, |"Am" C4 CB, A,2 |"D" ^F8 |"Dm" F4- F G2 F |"Am" E8 | %38
+w: mo- soly- gok rám.||||||
+"C" CA,ED AGcB |"G" GD B,6 |"E7" B,4- B, C2 B, |"Am" A,8 |"C" E4 D2 CD- |"G" D8 | %44
+w: ||||||
+"E7" D3 E- ECB,A,- |"Am" A,6 A,B, |"C" C4 CB, A,2 |"G" B,2 G,2 z4 |"E7" B,4- B, B,3 | %49
+w: |||||
+"Am" A,2 z2 z4 |] %50
+w: |
+

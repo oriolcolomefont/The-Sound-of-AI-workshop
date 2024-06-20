@@ -1,0 +1,39 @@
+X:1
+T:Guys And Dolls
+T:Guys And Dolls
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2"C" C"Ddim" D |:"Dm7" F2"G13" E"C" C- | C2 C"Ddim" D |"Dm7" F A"G7" G"C" E- | %4
+w: When you|see a guy|* reach for|stars in the sky,|
+w: |see a dame|* change the|shape of her frame,|
+ E2"Cmaj7" E"C9" G |"F" c z"C#m7" F A/"Cmaj7"G/- | G/E/ C"Dm7" F"G9" A |"C""B+" G4- | %8
+w: * You can|bet that he's do-|* ing it for some|doll.|
+w: * You can|bet she's re- duc-|* ing it for some|guy.|
+"Bb13" G2"A+7" A F |"Dm" D2"C#+" F2 |"Dm7" A2"B+" B"B7" A |"E7" (3^G A B E2- |"E7b5" E2"A7" A G | %13
+w: * When you|spot a|John wait- ing|out in the rain,|* Chan- ces|
+w: * When you|find a|Doll with her|dia- mond in hock,|* rest as-|
+"Dm" (3F G A"Dm7" D3/2 F/ |"E7b5" (3E F G"A7" ^C3/2 E/ |"Dm7b5" (3D E F"G7" B,2- | %16
+w: are he's in- sane as|on- ly a John can|be for a Jane.|
+w: sured that the rock has|gone to re- stock some|gen- tle- man Jock.|
+ B,2"C" C"Ddim" D |"Dm7" F2"G13" E"C" C- | C2 C"Ddim" D |"Dm7" F A"G7" G"C" E- | %20
+w: * When you|meet a gent|* pay- ing|all kinds of rent|
+w: * When you|see a mouse|* hur- ry|out of the house,|
+ E2"Cmaj7" E"C9" G |"F" c2"G7" F A/"Cmaj7"G/- | G/E/ C"Dm7" F"G9" A |"C""B+" G4- | %24
+w: * for a|flat that could flat-|* ten the Taj Ma-|hal,|
+w: * and she|runs twen- ty blocks|* for ci- gars and|rye,|
+"Bb13" G2"A+7" A F |"Dm" D2"Dm7" F A |"B+" B"B7" A2 B/A/ |"C" G/^F/ G"Bbmaj7" A G/"A+"=F/- | %28
+w: * Call it|sad, Call it|fun- ny, But it's|bet- ter than ev- en mon-|
+w: * Call it|dumb, Call it|clev- er, Ah! But|you can give odds for- ev-|
+ F/"A7" E3/2"A+7" A F |"Dm" D2"C#+" F A |"Dm7" D/F/"G9" A"Dm7" c"G7" d |1"C" c3"G9b5" A/G/ || %32
+w: * ey that the|guy's on- ly|do- ing it for some|doll. On the|
+w: * er that the|dolls on- ly|do- ing it for some||
+"G9" A/A/ A"C" C"Ddim" D :|2"C""Bb9" c4 ||"C" c2 z2 |] %35
+w: oth- er hand, When you|||
+w: |guy.||
+

@@ -1,0 +1,39 @@
+X:1
+T:Petit Papa Noël
+T:Raymond Vincy
+C:Henri Martinet
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+U:s=!stemless!
+V:1 treble stafflines=5 nm="Alto Saxophone"
+%%MIDI program 65
+V:1
+ (3DGA |"G" BB BB B3/2B BA | GG GG G2 (3GGF |"C" EE EE EF GE |"G" DD DB, D3 D | %5
+w: C'~est la bel-|le nuit de No- ël, La neige é-|tend son man- teau blanc, Et les yeux|le- vés vers le ciel, à ge- noux,|les pe- tits en- fants, A-|
+"C" EE E"Cm"E G2 G2 |"G" B4 G4 |"D7" DD DD D F2 A |"G" G4 z2 D2 | G2 G2 G2 A2 | G6 GA | %11
+w: vant de fer- mer les pau-|piè- res,|Font u- ne der- niè- re pri-|ère. Pe-|tit pa- pa No-|ël Quand tu|
+ B2 B2 B2 c2 |"G7" B6 z A |"C" G3 G GG FE |"G" D6 DD |"Em" G4"A7" GG FG |"D7" A6 D2 | %17
+w: de- scen- dras du|ciel, A-|vec des jou- ets par mil-|liers, N'~ou- blie|pas mon pe- tit sou-|lier. Mais|
+"G" G2 G2 G2 A2 | G6 GA | B2 B2 B2 c2 |"G7" B6 A2 |"C" G3 G GG FE |"G" D6 DD | %23
+w: a- vant de par-|tir, Il fau-|dra bien te cou-|vrir, De-|hors tu vas a- voir si|froid, C'~est un|
+"Em" G4"Am7" GG"D7" AA |"G" G4 z4 |"C" EE EE E2 EF | G3"G" E E2 D2 | GG G"Em"G G2 FG | %28
+w: peu à cau- se de|moi.|Il me tar- de tant que le|jour se lè- ve|Pour voir si tu m'as ap- por-|
+"Am" A6"D" z2 |"Gm" _BB BB B2 AB |"Cm" c3"Dm" A G2 =F2 |"Gm" _B2 B"Cm/Eb"B c2 cc |"D7" d4 z2 D2 | %33
+w: té,|Tous les beaux jou- joux que je|vois en rê- ve|Et que je t'ai com- man-|dés. Pe-|
+"G" G2 G2 G2 A2 | G6 GA | B2 B2 B2 c2 |"G7" B6 z A |"C" G3 G GG FE |"G" D6 DD | %39
+w: tit pa- pa No-|ël Quand tu|de- scen- dras du|ciel, A-|vec des jou- ets par mil-|liers, N'~ou- blie|
+"Em" G4"Am7" G"D7"G AA |"G" G4 z2 z2 | z4 z D GA | BB BB B3/2B BA | GG GG G2 (3GGF | %44
+w: pas mon pe- tit sou-|lier.|Le mar- chand|de sable est pas- sé Les en- fants|vont fai- re do- do Et tu vas|
+"C" EE EE EF GE |"G" DD DB, D3 D |"C" EE E"Cm"E G2 G2 |"G" B4 G4 |"D7" DD DD D F2 A |"G" G4 z2 z2 | %50
+w: pou- voir com- men- cer A- vec ta|hot- te sur le dos Au|son des clo- ches des é-|gli- ses|Ta dis- tri- bu- tion de sur-|prises.|
+"C" EE EE E2 EF | G3"G" E E2 D2 | GG G"Em"G G2 FG |"Am" A6"D" z2 |"Gm" _BB BB B2 AB | %55
+w: Et quand tu se- ras sur ton|beau nu- a- ge,|Viens d'a- bord sur no- tre mai-|son.|Je n'ai pas é- té tous les|
+"Cm" c3"Dm" A G2 =F2 |"Gm" _B2 B"Cm/Eb"B c2 cc |"D7" d4 z2 D2 |"G" G2 G2 G2 A2 | G6 GA | %60
+w: jours très sa- ge,|Mais j~'~en de- man- de par-|don. Pe-|tit pa- pa No-|ël Quand tu|
+ B2 B2 B2 c2 |"G7" B6 z A |"C" G3 G GG FE |"G" D6 DD |"Em" G4"Am7" G"D7"G AA |"G" G4 z2 D2 | %66
+w: de- scen- dras du|ciel, A-|vec des jou- ets par mil-|liers, N'~ou- blie|pas mon pe- tit sou-|lier. Pe-|
+"C" E2"Cm" G2 A2 c2 |"G" sd8 | %68
+w: tit pa- pa No-|ël.|
+

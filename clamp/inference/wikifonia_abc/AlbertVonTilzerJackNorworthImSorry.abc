@@ -1,0 +1,30 @@
+X:1
+T:I'm Sorry
+T:I'm Sorry
+C:Albert Von Tilzer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B>^AB>A"E" B>A B<c |"A7" =A>^GA>G A>G A<B |"D7" A>^GA>G A>G A<B |"G" D4- D2 E>F | %4
+w: When your sweet- heart starts a- pout- ing'|Don't go 'round the house a- shout- ing,|Try to bear in mind the gold- en|rule; _ For the|
+"Bm#5" A2 G2"Bbm#5" F2 G2 |"D7" F2 G2 A2 D2 |"D+7" A4 ^A4 |"G" B4- B2 z2 |"G" B>^AB>A"E" B>A B<c | %9
+w: course of true love|ne'er ran smooth, we|learned in|school. _|Just keep cool and nev- er hur- ry,|
+"A7" =A>^GA>G A>G A<B |"D7" A>^GA>G A>GA>^A |"B" B4- B2 ^A>B |"Fdim" d2 B2"E7" d2 B2 | %13
+w: There's no time to fret and wor- ry,|Things like this oc- cur most ev- 'ry|day; _ When the|troub- le's ov- er,|
+"A" A>^GA>B"A7" A>=GE>F |"Em" G2 E2"A7" A2 B2 |"D7" A6 D2 ||"Em/G" E4"Gdim" G4 |"D7" A4 d4 | %18
+w: then you feel in clo- ver, When your|hear her soft- ly|say: I'm|sor- ry,|sor- ry,|
+"G" e>de>d"G7" B>GA>B |"C""E7" E6 z2 |"Am" (A3 G) E2 z2 |"A7" (A3 G) E2 F>G |"A7" B2 E2 B2 _B2 | %23
+w: Hon- est, I'm as sor- ry as can|be;|Sor- * ry,|sor- * ry, Won't you|please make up with|
+"D7" A8 |"Em/G" E4"Gdim" G4 |"D7" A4 d4 |"G" e>de>d"G7" B>GA>B |"Fm6" d4"Am" c4 | %28
+w: me?|You are|miss- ing|Lost of lit- tle cud- dles and some|kiss- ing,|
+"C/E" G4"C6" A2"C#dim" ^A2 |"G/D" B>AB>c"E7" !fermata!d2 B>=A |"A7" =G>EG>E"D7" G>FE>F | %31
+w: I know I|would- n't feel so blue, If I|on- ly knew that you were sor- ry|
+"G" G4- G2 z2 |] %32
+w: too. _|
+

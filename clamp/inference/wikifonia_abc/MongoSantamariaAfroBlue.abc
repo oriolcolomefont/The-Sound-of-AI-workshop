@@ -1,0 +1,21 @@
+X:1
+T:Afro Blue
+C:Mongo Santamaria
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Ab
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^[A]""^Medium fast"!mf!"F" F2 c3 A |"Gm7" B6 |"Ab" A3"Gm7" B3 |"Fm7" F4 z C | F2 c3 A | %5
+"Gm7" B6 |"Ab" A3"Gm7" B3 |"Fm7" F6 ||"Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" E3 |"Fm7" F6 | %12
+"Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" A3 |1"Fm7" F6 || z6 | z6 | z6 | z6 | z6 | z6 | z6 | %23
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 :|2"Fm7" F4 FA ||"^[B]" ce z e2 d |"Gm7" c2 c2 BG | %35
+"Ab" AA z"Gm7" G2 E |"F7" F4 FA |"Fm7" ce z e2 d |"Gm7" c2 c2 BG |"Abmaj7" A.A z"Gm7" G2 E | %40
+"Fm7" F6 ||"Eb7sus4" E2 E2 G2 | E6 |"Db7sus4" D3"Eb7sus4" E3 |"Fm7" F6 |"Eb7sus4" E2 E2 G2 | E6 | %47
+"Db7sus4" D3"Eb7sus4" A3 |"Fm7" F6 |:"^[C]""^Solos""Fm7" z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %57
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |"F#7" z6 | z6 | z6 |"Fm7" z6 |"F#7" z6 | z6 | z6 | %72
+"Fm7" z6 :| %73
+

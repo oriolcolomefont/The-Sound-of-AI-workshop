@@ -1,0 +1,15 @@
+X:1
+T:Down By The Riverside
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Flute"
+V:1
+ ^G |:"F" A C D F | F/ F A/- A2 | z A A3/2 ^G/ | A/ G F/- F2 |"Gm" z G G3/2 ^F/ |"C7" G/ F E/- E2 | %7
+"F" z A A3/2 ^G/ | A/ G F/- F A/^G/ | A C D F | F/ F A/- A2 |"Gm" A G2 B |"C7" A2 G2!dacoda! || %13
+"F" F4- | F F G A |"Bb" z B B/ B3/2 | B G G ^G |"F" A A A/ G3/2 | F4 |"C7" A G3 | F2 G2 |"F" A4- | %22
+"F7" A F G A |"Bb" z B B/ B3/2 | B F G ^G |"F" A A A/ G3/2 |"Dm7" F3 F |"G7" A G2 G | A2 =B2 | %29
+"C7" c4- | c3 ^G :|O"F" F4- | F3 z |] %33
+

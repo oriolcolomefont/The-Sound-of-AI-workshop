@@ -1,0 +1,33 @@
+X:1
+T:Back In The Old Routine
+T:Back In The Old Routine
+T:Wilson Stone
+C:Wilson Stone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z E |"C" G3 E"Cmaj7" G3 E |"C6" G2 G2"C#dim" F E3 |"G9" z3/2 F<FE/ F2"C#dim" ED- | %4
+w: I'd|give the world to|start all o- ver,|Back in the old rou- tine.|
+"Dm7" D4-"G7" D3 F |"Dm" A3 F"A+" A3 F |"Dm7" A2 A2"G7" G F3 |"C" z3/2 G<G^F/ G2"G9" =FE- | %8
+w: * * To|live my life in|fields of clo- ver,|Back in the old rou- tine|
+"C" E4- E>GA>B |"Gm7" c2 _B2"C7" c2 B2 |"Gm7" z3/2 c<Bc/"C9" _B>GD>C |"F" D2 C2"Gm7" F2"C7" G2 | %12
+w: * * Give me my|old straw hat and|a- dou- ble truck- in' down the|av- e- nue we'll|
+"F" A8 |"Fm" z3/2 c<c_A/ c c3 |"Em" z3/2 B<BG/"A9" B B2 A |"D7" (3DEF ^F>G (3A^AB c>^c | %16
+w: go;|Folks pass- in' by us,|will stop and eye us, And|soon there'll be more all call- ing "En- core',"l we'll|
+"G7" (3d_dc (3B_BA G2 z E |"C" G3 E"Cmaj7" G3 E |"C6" G2 G2"C#dim" F E3 | %19
+w: walk in a won- der- ful glow. Oh,|gee the joy to|be there plug- gin'|
+"G9" z3/2 F<FE/ F2"C#dim" ED- |"Dm7" D4-"G7" D3 F |"Dm" A3 F"A+" A3 F | %22
+w: Back in the old rou- tine,|* * You're|up, you're down, you're|
+"Dm7" A2 A2"Bm7b5" A"E7" B3 |"Am" z3/2 c<cA/ c2 Ac- |"Gm7" c4-"C7" c"C+9" d3- | %25
+w: in there slug- gin',|Back in the old rou- tine|* * Oh!-|
+"F6" d>dd>c"C+9" d3 c |"F" d2 cB-"F#dim" B2 A^A |"C" B2 c2"Em7" B G2 A- |"A7" A8 | %29
+w: * give me the jazz the|razz- ma- tazz, * and we'll|tread on Heav- en's scene;||
+"D7" z2 d2 d2 A2 |"Fm6" c4"G7" B4 |"C" c8- | c>G"G7" B2"C" c2 z2 |] %33
+w: Back in the|old rou-|tine.-||
+

@@ -1,0 +1,31 @@
+X:1
+T:Whispering Grass
+T:Whispering Grass
+T:Doris Fisher
+T:Fred Fisher
+T:(Dont tell the trees)
+C:Doris Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"A7" z2 B2"Cm" BA G2 |"G" G2 G4 EG |"Am" G6 EG |"G" G8 | d>BAG- G2 E2 |"Am7" G2 EG- G2 EG- | %6
+w: You prom- ised me|green grass, not to|tell what you|heard|whis- per- ing grass * say!|you cant keep * your word.|
+"G" G4 _B =B2 A- |"Dm7" A8 |:"C" c"^Chorus:" c2 c c2 c2 |"Em" e2 B6 |"F" dd3/2dd3/2c A2 |"Fm" ^F8 | %12
+w: * keep your word||Why do you whis- per|green grass?|why tell the trees what aint|so?|
+"C" GGGB- B2 B2 |"Dm7" A2 A2 G2 G2 |"C" E6"G" E2 |"Dm7" ^F8 | z"C" cc3/2c3/2 c2 c |"Em" e2 B6 | %18
+w: whis- per- ing grass * the|trees- dont have to|know No,|No,|Shy tell them all your|se- crets?|
+"Dm7" z ddd- d>c A2 |"Fm" ^F8 |"C" GGGB- B3 B |"Dm7" A2 A2 E"G7" E2 C- |"C" C8- |"D7" C8 | %24
+w: who kissed there * long a-|go|whis- per- ing grass * the|trees dont need to know|||
+"C" G^FEC"Am" AEDC |"F" cAG^F"G" dBAG |"C" edcA"Am" GCDE |"Dm7" GG (3GGG"G7" G2 AB | %28
+w: Dont you tell it to the breeze cause|she will tell the birds and bees and|ev- 'ry- one will know be- cause you|told the blab- ber- ing trees, Yes, you|
+"Am7" c d3 B c3 |"Am7" A6"D7" DE |"Dm7" ^F G3"G" E F3 |"Dm" D8 |"C" z cc3/2c c2 c3/2 |"Em" e2 B6 | %34
+w: told them once be-|fore Its no|se- cret an- y|more|why tell them all the|old things?|
+"F" dd3/2dd3/2c A2 |"Fm" ^F8 |"C" GGGB- B2 B2 |"Dm" A2 A2"Ab7" A2 AA |"Dm7" c2 c2"Bb" c c2 c- |1 %39
+w: They're bur- ied un- der the|snow|whis- per- ing grass * dont|tell the trees cause the|trees dont need to know.|
+"C" c6"G7" z2 :|2"C" c6 z2 |] %41
+w: ||
+

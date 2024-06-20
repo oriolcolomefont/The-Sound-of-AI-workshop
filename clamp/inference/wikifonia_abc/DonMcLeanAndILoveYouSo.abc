@@ -1,0 +1,51 @@
+X:1
+T:And I Love You So
+T:And I Love You So
+T:Don McLean,  1970 Arrangement, Larry Johnson, 2012
+C:Don McLean
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+"^Moderately Slowly" z8 | z8 |"Abmaj7" z8 |"Bbm7" z8 |"Bbm7/Eb" z8 |"Ab" z8 ||"Abmaj7" z4 EFGA | %7
+w: ||||||And I love you|
+"Bbm7" D8 | z2 z B, DE/F/- FG |"Abmaj7" C6-"Cm/G" C2 |"Fm7" z4 CDEF |"Bbm7" D8 | %12
+w: so|The peo ple ask _ me|how _|How I've lived 'till|now|
+"Db" z2 z D"Bbm7" DC/B,/- B,A, |"Db/Eb" E8 |"Abmaj7" z2 z z/ A,/ E>F GA |"Bbm7" D8 | %16
+w: I tell them I _ don't|know|I guess the un der|stand|
+"Db/Eb" z2 z B, D>E FG |"Abmaj7" C4-"Ab" C2-"Cm/G" C2 |"Fm7" z2 z C E>F GA |"Bbm7" D8 | %20
+w: how lone ly life has|been _ _|but life be gan a|gain|
+"Db" z2 z A,/"Db/Eb"D/- DCB,A, |"Ab" A,8 |"Abmaj7" z4"Db/Eb" z2 z E |"Abmaj7" c4-"Ab+" c3 c/-=B/ | %24
+w: the day _ you took my|hand|and|yes, _ i _|
+"Ab6" c4-"Abmaj7" c3 c |"Abmaj7/Bb" c>B BA"Bbm7" B4- | B4 z2 z E |"Db/Eb" cB- (3BBA B4- | %28
+w: know _ how|lone ly life can be|_ the|shad dows _ fol low me|
+ B6 BB/B/- |"Abmaj7" BA- (3AAE"Db/Eb" E4- |"Ab2" E4"Ab" z2 z z/ E/ |"Fsus2/Ab" c4-"Fm" c3 c/-B/ | %32
+w: _ and the night|_ won't _ set me free|_ But|I _ don't _|
+"C7/E" c4-"Fm7/Eb" c3 c |"Fm7/Bb" c>B- BB/c/"Bb13" B4- | B4"Bb9b5" z2 z c- |"Bbm7" cBBA B4- | %36
+w: let _ the|ev ening _ get me down|_ now|_ that you're a round|
+"Db/Eb" B8 |"Ab" A8- | A4"Abmaj7" z4 || EFG"^Verse 2"A"Bbm7" D4- | D4 z2 z B, | %41
+w: _|me.|_|and you love me too|_ your|
+ DE/F/- FG"Abmaj7" C4- | C2-"Cm/G" C2"Fm7" z2 z A, | CDEF"Bbm7" D4- | D4"Db" z2 z D | %45
+w: thoughts are just _ for me|_ _ you|set my spir it free|_ I'm|
+"Bbm7" DC/B,/- B,A,"Db/Eb" E4- | E4"Abmaj7" z2 z z/ A,/ | E>F GA"Bbm7" D4- | D4"Db/Eb" z2 z B, | %49
+w: hap py that _ you do|_ The|book of life is brief|_ and|
+ D>E FG"Abmaj7" C4- |"Ab" C2-"Cm/G" C2"Fm7" z2 z C | E>F GA"Bbm7" D4- | D4"Db" z2 z A,/"Db/Eb"D/- | %53
+w: once a page is read|_ _ all|_ but life is dead|_ and that|
+ DCB,A,"Ab" A,4- | A,4"Abmaj7" z4 |"Db/Eb" z2 z E"Abmaj7" c4- |"Ab+" c3 c/-=B/"Ab6" c4- | %57
+w: _ is my be lief|_|and yes,|_ i _ know|
+"Abmaj7" c3 c"Abmaj7/Bb" c>B BA |"Bbm7" B4- B4 | z2 z E"Db/Eb" cB- (3BBA | B4- B4- | %61
+w: _ how lone ly life can|be _|the shad dows _ fol low|me _|
+ B2 BB/B/-"Abmaj7" BA- (3AAE |"Db/Eb" E4-"Ab2" E4 |"Ab" z2 z z/ E/"Fsus2/Ab" c4- | %64
+w: _ and the night _ won't _ set me|free _|But I|
+"Fm" c3 c/-B/"C7/E" c4- |"Fm7/Eb" c3 c"Fm7/Bb" c>B- BB/c/ |"Bb13" B4- B4 | %67
+w: _ don't _ let|_ the ev ening _ get me|down _|
+"Bb9b5" z2 z c-"Bbm7" cBBA | B4-"Db/Eb" B4- | B4"Ab" A4- | A4-"Db/Ab" A4- |"Db/Eb" A4"Abmaj7" z4 || %72
+w: now _ that you're a|round _|_ me.|_ _||
+ z4"Db/Eb" z4 |"Bbm7/Eb" z4"Ab" z4 | z4 z4 |] %75
+w: |||
+

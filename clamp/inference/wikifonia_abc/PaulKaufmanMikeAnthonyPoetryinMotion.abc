@@ -1,0 +1,31 @@
+X:1
+T:Poetry in Motion
+T:Poetry in Motion
+T:Paul Kaufman,  Mike Anthony
+C:Paul Kaufman, Mike Anthony
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" z G/G/ G3/2 A/ | B/A/ G3 |"Am" z A A B | A4 |"Bm" z B/d/ B2 |"C" z E/E/ F3/2 G/ |"D7" B A3- | %7
+w: When I see my|ba- by *|What do I|see?|po- et- ry|po- et- ry in|mo- tion|
+w: |||||||
+ A4 | z4 |:"G" B A G F |"Em" E B,3 |"Am7" c B A G |"D7" B A2 D |"G" B A G F |"Em" E B,3 | %15
+w: ||Po- et- ry in|mo- tion|walk- in by my|side * her|love- ly lo- co-|mo tion|
+w: ||||||||
+"C" c B A2 |"D7" e d/d/- d2 |"G" B A G F |"Em" E B,3 |"Am7" c B A G |"D7" B A2 D |"G" B A G F | %22
+w: keeps my eyes|o- pen wide *|po- et- ry in|mo- tion|see her gen tle|sway * a|wave out on the|
+w: |||||||
+"Em" E B,2 E |"Am7" E E"D7" F A |"G" G2 z G |"B" F2 B3/2 F/ |"Em" A G2 G |"B" F/ F3/2 B3/2 A/ | %28
+w: o- cean could|nev- er move that|way I|love ev- ry|move- ement theres|noth- ing I would|
+w: ||||||
+"Em" G2 z G |"B" F F B3/2 F/ |"C" A G2 G |"Am" A A A A |"D7" e d/d/- d2 |"G" B A G F |"Em" E B,3 | %35
+w: change she|does- nt need im-|prove ments shes|much too nice to|re- ar- range *|po- et- ry in|mo- tion|
+w: |||||||
+"Am7" c B A G |"D7" B A2 D |"G" B A G F |"Em" E B,2 E |"Am7" E G"D7" F A |"G" G2 z2 :|"G" G3 z |] %42
+w: dan- cing close to|me * a|flow- er of de-|vo- tion a|sway- ing grace ful-|ly||
+w: all that I a-|dore * no|num- ber nine love|po- tion could|make me love her||more.|
+

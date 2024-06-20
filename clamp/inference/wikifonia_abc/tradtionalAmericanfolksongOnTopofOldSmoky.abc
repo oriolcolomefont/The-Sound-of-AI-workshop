@@ -1,0 +1,33 @@
+X:1
+T:On Top of Old Smoky
+T:On Top of Old Smoky
+T: traditional
+T:arranged by Pete Seeger
+T:Dorsey Brothers Music Ltd. (1945)
+C:tradtional American folk song
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: (C/C/) |"C" C E G |"F" c3 | (A3 | A2) A | F G A |"C" (G3 |"G7" (G3) |"C" G) z C/C/ |"C" C E G | %10
+w: 1.~On *|top of old|Smo-|ky,|_ All|cov- ered with|snow,|_|* I *|lost my true|
+w: 2.~A- *|cour- tin's a|plea-|sure,|_ A-|flirt- in's a|grief,|_|* And a|false hear- ted|
+w: 3.~For a|thief he will|rob|you,|_ And|take what you|have,|_|* But a|false hear- ted|
+w: 4.~And the|grave will de-|cay|you,|_ And|turn you to|dust;|_|* Not one|boy in a|
+w: 5.~They will|hug you and|kiss|you,|_ And|tell you more|lies|_|* Than the|ties on the|
+w: 6.~So come|all you young|maid-|ens,|_ And|list- en to|me,|_|* Ne- ver|place your af-|
+w: 7.~For~ the|leaves they will|with-|er,|_ The|roots they will|die,|_|* You will|all be for-|
+"G7" G3 | (D3 | D2) E | F E D |"C" (C3 |"F" (C3) |"C" C) z :| %17
+w: lo-|ver|_ For|cour- tin' too|slow.|_||
+w: lo-|ver|_ Is|worse than a|thief.|_||
+w: lo-|ver|_ Sends|you to your|grave.|_||
+w: hun-|dred|_ A|poor girl can|trust.|_||
+w: rail-|road,|_ Or|stars in the|skies.|_||
+w: fec-|tions|_ On~a|green wil- low|tree.|_||
+w: sa-|ken,|_ and|ne- ver know|why.|_||
+

@@ -1,0 +1,29 @@
+X:1
+T:burgundystreet blues
+T:CARIOCA
+T:Vincent YOUMANS
+T:Jbb juillet 2009
+T:Rumba alegre
+T:Blue spanish eyes (F) Amapola (Bb) Beguin the  beguine (C)
+C:Lewis
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Ebm" z B_cB _d=c_cB |:"Ebm" e B3- B z z2 | z B_cB _d=c_cB |"Bb7" f B3- B z z2 | z B_cB _d=c_cB | %5
+w: 2 1 _ 4 3 1 2|_ _ _||||
+ a3 f- f _g2 e | f3 =d- d"Abm" e2 _c |"Ebm" B8- | BB_cB _d=c_cB |"Ebm" e B3- B z z2 | %10
+w: |||||
+ z B_cB _d=c_cB |"Bb7" f B3- B z z2 | z B_cB _d=c_cB | a3 f- f _g2 e | f3 =d- d"Ab" e2 =c | %15
+w: |||||
+"Eb" e8- | e4 z2 G2 ||"Eb" B8- | B2 GA B c2 B |"Bb7" A4 F4- | F6 F2 | A8- | A2 FG A B2 A | %23
+w: ||||||||
+"Eb" G8- | G6 G2 | B8- | B2 GA B c2 B |"Bb7" A4 F4- | F6 G2 | A c2 G B2 FA- | %30
+w: |||||||
+"Fm7" AE"Gm" G2"Bb7" D F2 C |"Eb" E8 || z B_cB _d=c_cB :| %33
+w: |||
+

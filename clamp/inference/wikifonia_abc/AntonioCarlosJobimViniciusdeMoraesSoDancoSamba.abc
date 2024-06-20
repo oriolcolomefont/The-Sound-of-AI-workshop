@@ -1,0 +1,30 @@
+X:1
+T:So Danco Samba
+T:So Danco Samba 
+T:Jobim, De Moraes, Gimbel
+T:a.k.a. Jazz 'n' Samba)
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+Q:1/2=74
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 32
+V:1
+"^Samba" G |"^A""C6" AGAA z GAG |"F9" AA z2 z4 |"D9" (3z2 e2 _e2 (3d2 B2 A2- | A4 z2 z G | %5
+w: So|dan- co sam- ba so dan- co|sam- ba|Vai, vai, vai, vai, vai|, So|
+"Dm9" AGAA z GAG |"G9" AA z2 z2"C6" c2- | c8 |"F9" z4 z2 z G |"^A""C6" AGAA z GAG |"F9" AA z2 z4 | %11
+w: dan- co sam- ba so dan- co|sam- ba Vai|.|So|dan- co sam- ba so dan- co|sam- ba|
+"D9" (3z2 e2 _e2 (3d2 B2 A2- | A4 z2 z G |"Dm9" AGAA z GAG |"G9" AA z2 z2"C6" c2- | c8 | z8 || %17
+w: Vai, vai, vai, vai, vai|, So|dan- co sam- ba so dan- co|sam- ba Vai|.||
+"^B""Gm7" D D2 D- D D2 A- |"C7" A A2 _A- A E2 D- |"F6" D8- | D4 z4 |"Am7" E E2 E- E4 | %22
+w: Ja dan- cei _ o twist|_ a te _ de mais|_|.|Mas nao sei _|
+"D7" B _B2 A- A2 DE |"G7" G2 GG FE D2 |"G7#5" z4 z2 z G ||"^A""C6" A2 GA- A A2 G | %26
+w: me can- sei _ do ca|lip so ao cha cha cha|So|dan- co sam- * ba so|
+"F9" A2 GA- A A3 |"D9" (3z2 e2 _e2 (3d2 B2 A2- | A4 z2 z G |"Dm9" A2 GA- A A2 G |"G9" A2 GA- A A3 | %31
+w: dan- co sam _ ba,|Vai, vai, vai, vai, vai|, So|dan- co sam- * ba so|dan- co sam _ ba,|
+"C6" z2 c6 |"F9" z4 z2 z G |] %33
+w: ||
+

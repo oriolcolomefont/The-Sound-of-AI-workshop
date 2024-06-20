@@ -1,0 +1,24 @@
+X:1
+T:Moskau
+C:Dschinghis Khan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Cm" CGFG EGDG | CGFG EGDC ::"Bb" B,FEF DFCF | B,FEF DFCB, :|"Cm" C3 G- G4- | G8 |"Bb" B,3 F- F4- | %7
+ F8 |"Cm" C3 G- G4 | c3 g- g4 |"Bb" B,3 F- F4 | B3 f- f4 |:"Cm" C3 G- G4 |"Ab" z4 c>B- BA | %14
+"Eb" B2 GE- E2 z2 |"Fm" z4 A>G- GF |"Cm" G2 EC- C2 de |"G" d4 F>E- ED |"Cm" C6 z2 | z8 :| %20
+ z4 z EEE |"B" D2 D2"Bdim" D=B,DD- |"Cm" D E3 z EEE |"B" D2 D2"Bdim" D=B,DE- |"Cm" E2 z2 z EEE | %25
+"B" D2 D2"Bdim" D=B,DD- |"Cm" D E3 z2 CD |"Ab" E2 DC"Fm" A2 GF | %28
+"G""G" g/a/g/f/ g/a/g/f/ g/a/g/f/ g/a/g/f/ | G8 |:"Cm" C2 G2 C2 G2 |"Ab" c>c BA"Eb" BG E2 | %32
+"Fm" A>A GF"Cm" GE C2 |"G" FEDC =B,2 G2 |"Cm" C2 G2 C2 G2 |"Ab" c>c BA"Eb" BG E2 | %36
+"Fm" A>A GF"Cm" GE C2 |"G" GFED"Cm" C2 c2 :| z4 G4- | G4 G2 F2 |"Ab" E4 A4- | A4 A2 G2 | %42
+"Fm" F4 c4- | c4 B2 A2 |"G" G8 | z2"Cm" C2 C/=B,/C/D/ E/D/E/F/ | %46
+"Ab" G/F/G/A/ G/c/d/e/"Eb" c/B/A/B/ A/B/c/A/ |"Fm" B/A/G/F/ G/A/B/G/"Cm" A/G/F/E/ D/E/F/D/ | %48
+"G" E/D/C/D/ E/F/G/E/ FEDC |"Cm" =B,2 G2 C/B,/C/D/ E/D/E/F/ | %50
+"Ab" G/F/G/A/ G/c/d/e/"Eb" c/B/A/B/ A/B/c/A/ |"Fm" B/A/G/F/ G/A/B/G/"Cm" A/G/F/E/ D/E/F/D/ | %52
+"G" E/D/C/D/ E/F/G/E/ GFED/"Cm" C/ |] %53
+

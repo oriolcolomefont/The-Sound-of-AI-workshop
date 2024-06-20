@@ -1,0 +1,29 @@
+X:1
+T:After You've Gone
+T:After You've Gone
+C:Turner Layton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ebmaj7" GBcd- d4 |"Ab9" z cdc d c3 |"Dm7" DFGA- A4 |"G7" z GAG A G3 |"C9" G d2 d- d4 | %5
+w: Af- ter you've gone, _|and left me cry- ing;|Af- ter you've gone, _|There's no de- ny- ing|you'll feel blue, _|
+w: Af- ter I'm gone, _|af- ter we break- up;|af- ter I'm gone _|you're gon- na make- up.|You will find, _|
+"F9" G c2 c- c4 |"Bb6" z FGF AFGF |"Fm7" B D2 F-"Bb7" F4 |"Ebmaj7" GBcd- d4 |"Ab9" z cdc d c3 | %10
+w: you'll feel sad, _|You'll miss the dear- est pal you've|ev- er had. _|There'll come a time, _|now don't for- get it.|
+w: you were blind, _|to let some- bod- y come and|change your mind. _|Af- ter the years, _|we've been to- geth- er,|
+"Dm7" DFGA- A4 |"G7" z GAG A G3 |"Cm" e4"G7" d4 |"Cm7" c^FG"Ab9"d- d2 c2 |"Bb" z ^cdB"D7" =c=BcA | %15
+w: There'll come a time, _|when you'll re- gret it.|Some- day|when you grow lone- * ly,|your heart will break like mine and|
+w: Their joy and tears, _|all kind of weath- er.|Some- day|blue and down- heart- * ed,|you'll long to be with me right|
+"Gm" _B^C"Gm/F"DA-"Em7" A2"A7b9" G2 |"Dm7" FGBd-"Gm7" d4 |"Cm7" z EFA"F7" c2 d2 |1"Bb" (dB-) B6 | %19
+w: you'll want me on- * ly.|Af- ter you've gone, _|Af- ter you've gone a-|way. _ _|
+w: back where you start- * ed.|Af- ter I'm gone, _|Af- ter I'm gone a-||
+"Fm7" B2 z2"Bb7" z4 :|2"Bbmaj7" (dB-) B6- | B2 z2 z4 |] %22
+w: _|||
+w: |way. _ _|_|
+

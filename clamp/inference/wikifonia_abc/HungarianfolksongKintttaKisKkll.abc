@@ -1,0 +1,15 @@
+X:1
+T:Kiöntött a Kis-Küküllő
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C D3 E2 E2 | E3 E E2 C2 | E E3 E2 C2 | F F3 F2 E2 | E D3 D3 F | E D3 D2 z2 | G G3 G2 G2 | %7
+w: Ki- ön- tött a|Kis- Kü- kül- lő,|ki- ön- tött a|Nagy- Kü- kül- lő|a rét- re, de|a rét- re,|Va- la- meny- nyi|
+ G3 F E G3 | C C3 E2 E2 | F3 F E2 D2 | C C3 C2 z2 |] %11
+w: sző- ke kis- lányt,|va- la- meny- nyi|bar- na kis- lányt|el- vit- te.|
+

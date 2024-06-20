@@ -1,0 +1,28 @@
+X:1
+T:River Road
+T:River Road
+T:Sylvia Tyson
+C:Sylvia Tyson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 E G |:"C" G2 G A | G2 c d | e e d A |"F" c2 B A |"C" G2 F E |"G7" D D C D |"C" E2 F E | %8
+w: Here I|go once a-|gain with my|suit- case in my|hand * I'm|run- ning a-|way down Riv- er|road * *|
+w: ||||||||
+"G7" D2 E G |"C" G2 E F | G2 c d | e e d A |"F" c2 B A |"C" G2 B c |"G7" d d c B | c4- | c2 B d | %17
+w: * and I|swear once a-|gain that I'm|nev- er com ing|home * I'm|chas ing my|dreams down Riv er|Road|* Mom ma|
+w: ||||||||* Well I|
+"G" d d"C" e d |"G" d2 B c | d2"C" e d |"G" d2 B d |"C" e2 e e |"G" d B c B |"D" A2"G" B2 | %24
+w: say- ing Lis- ten|child you're too|old to run|wild You're too|big to be|fish- in with the|boys these|
+w: mar- ried apretty good|man and he|tries toun- der-|stand but he|knows I've got|leav- ing on my|mind these|
+"D" A2 B d |"G" d d"C" e d |"G" d2 B d | d/d/d/d/"C" e d |"G" d3 G |"C" e2 e e |"G" d2 B B | %31
+w: days so I|grabbed some clothes and|ran stole five|dol- lars from the sug- ar|can A|twelve year old|jail break- er|
+w: days when I|get that urge to|run I"m just|like * a * kid a-|gain the|~same old *|jail break er|
+"F" c2 A G |"G" G4- |1 G2 E G :|2 G2"^N.C." E G |"C" c4- | c4 |] %37
+w: run- ning a-|way|* here I|* Here I|road.||
+w: run ning a|way|||||
+

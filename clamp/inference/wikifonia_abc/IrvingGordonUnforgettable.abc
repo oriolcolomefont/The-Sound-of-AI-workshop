@@ -1,0 +1,28 @@
+X:1
+T:Unforgettable
+T:Unforgettable 
+T:Irving Gordon
+C:Irving Gordon
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gmaj7""^Intro" z4 | z4 |"Em7" z4 |"A+7" z4 |"Dmaj7""^A" A B B/ c c/- | c2 (3A B d |"G#m" c4- | %7
+w: ||||Un- for- get- ta- ble,|* That's what you|are,|
+"C#7" c3 z |"Gmaj7" d e e/ f f/- | f2 (3d e g |"Bm7" f4- |"E7" f3 z |"Cmaj7" g a a g | %13
+w: |Un- for- get- ta- ble,|* though near or|far.||Like a song of|
+"F7" g a/_b/- b/a/ g |"Gmaj7" d e"C7" e d |"Bm" d e/f/-"E7" f/e/ d |"A7" B B e B- |"Em" B3 =c | %18
+w: love that clings * to me,|How the thought of|you does things * to me|Nev- er be- fore|* has|
+"A7#11" c c g c- |"A+7" c3"A+7" z ||"Dmaj7""^B" A B B/ c c/- | c2 (3A B d |"G#m" c4- |"C#7" c3 z | %24
+w: some- one been more||Un- for- get- ta- ble,|* in ev- 'ry|way,||
+"Gmaj7" d e e/ f f/- | f2 (3d e g |"Bm7" f4- |"E7" f3 z |"Cmaj7" g a a g |"F7" g a/(b/ b/)a/ g | %30
+w: And for- ev- er more|* that's how you'll|stay.||That's why, dar- ling|it's in- cred- * i- ble|
+"Gmaj7" d e"C7" e d |"Bm" d e/f/-"E7" f/e/ d |"Em/A" A B"A7" B A |"Am" A B/d/-"D7" d/B/ A | %34
+w: that some- one so|un- for- get- * ta- ble|thinks that I am|un- for- get- * ta- ble|
+"Gmaj7" G4 |"Em" z2"A7#9" z2 |] %36
+w: too.||
+

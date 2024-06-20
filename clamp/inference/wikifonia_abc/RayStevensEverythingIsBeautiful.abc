@@ -1,0 +1,35 @@
+X:1
+T:Everything Is Beautiful
+T:Everything is beautiful
+T:Ray Stevens
+C:Ray Stevens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" A2 A2 AGFD | C4 F4 |"C" GGGG"F" AGFA |"C" G6 CB, |"F" A,CFG F2 FE |"Bb" DEFD C2"F" AG | %6
+w: Je- sus loves the lit- tle|child- ren|all the lit- tle child- dren of the|world red and|yel- low black and white they are|pre- cious in His sight Je- sus|
+"Bb" FEFD"C7" EFGE |"F" F8 | z4 AccA |:"F" d3 c c4- |"Dm7" c4 AB A2 |"G" AG- G6- | G4 DEFG | %13
+w: loves the lit- tle child- ren of the|world|Ev- ry- thing is|beau- ti- ful|* in its own|way * *|* like a star- ry|
+"Gm7" A3 G"C7" G3 C/C/ |"Gm7" d2 cc"C7" AGFG |"F" A8- | A4 AccA | d3 c c4- |"Dm7" c4 AB A2 | %19
+w: sum- mer night or a|snow cov- ered win * * ters|day|* Ev- ry- bod- ys|beau- ti- ful|* in their own|
+"G" AG- G6- | G4 DE F2 |"Gm7" A3 G"C7" G3 C |"Gm7" d2 cd"C7" AGFG |"F" (3DCD F6- |"Bb" F4 z4 | %25
+w: way * *|* un- der God's|heav- en the worlds|gon- na find * * * a|way * * *||
+"F" z2 AA B2 AA |"C" A G4- GCC |"Bb" D2 F2 G A3 |"F" GF- F6 | z c (3c z c (3ccc z2 |"C" cA G4 CC | %31
+w: There is non so *|blind * * as *|he that will not|see * *|we * must not close our|minds * * we must|
+"Bb" D2 F2 G3 A |"F" GF- F6 | z2 cf f f3 |"C" z cee d c3 |"Bb" z Fd c2 (3dcA (3c/c/d/ |"F" AG D6 | %37
+w: let our thoughts be|free * *|for ev- ry hour|that pass- es by *|you know the world gets a lit- tle bit|old- * er|
+ z FcA cc d2 | z"C" AcA (3ccc CC |"Eb" DF- F2- FFGA |"F" GF F6 |"F" z4 AccA :| %42
+w: its time to re- al- ize|that beau- ty lies * * in the|eyes * * * of the be-|hold * er|ev- ry- thing is|
+"F" z4"G" =Bdd"^Chorus:"_B |:[K:G]"G" e3 d d4- |"Em7" d4 Bc B2 |"A" BA- A6- | A4 EFGA | %47
+w: ev- ry- thing is|beau- ti- ful|* in its own|way * *|* like a star- ry|
+"Am7" B3 A A3 D/D/ | e2 dd"D7" BAGA | B8- |"G" B4 BddB | e3 d d4- |"Em7" d4 Bc B2 |"A" B2 A2- A4- | %54
+w: sum- mer night or a|show- cov- ered win * * ters|day|* ev- ry- bod- ys|beau ti- ful|* in their own|way * *|
+"A7" A4 EFB z | B3 A"D7" A3 D |"Am7" e2 de"D7" BAGA |"G" (3EDE G6- | %58
+w: * un- der Gods|heav * en the|worlds gon- na fin d * a|way * * *|
+"G7" G4"C" B"G"d"^Repeat"d"^andfade"B :| %59
+w: * ev- ry- thing is|
+

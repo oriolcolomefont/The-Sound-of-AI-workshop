@@ -1,0 +1,27 @@
+X:1
+T:Lace Covered Window
+T:Lace Covered Window
+T:unknown
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 EF |"C" G2 GG"Gm" G2 cd |"C" e6 ef |"Em" g2 fe dc A2 |"F" A2 c4 cc | c2 Bc dc A2 | %6
+w: When you|walk through the world all a-|lone and your|dreams went to ash- es be-|hind you then the|tears in your eyes will re-|
+"C" A2 G4 GG |"Dm" B2 AG"G7" B2 AG |"C" G2 c4 EF | G2 GG"G7" G2 cd |"C" e6 ef |"Em" g2 fe d2 c2 | %12
+w: mind you of a|view through a lace- cov- ered|win- dow noth ing|seems ver- y clear an- y-|more in your|world evry- thing is un-|
+"F" A2 c4 cc | c2 Bc dc A2 |"C" A2 G4 GG |"Dm" B2 AG"G7" B2 AG |"C" G2 c4 c2 |"F" f2 f2 f2 gf | %18
+w: cer- tain how you|wish you could pull back the|cur- tain see the|world through that lace cov- ered|win- dow but|you'll never know just what|
+"C" fe c2 G2 e2 |"Dm" d2 BA G2"G7" cd |"C" e6 c2 |"F" f2 ff f2 gf |"C" fe c2 G2 e2 | %23
+w: life has in store what|is wait- ing there to greet|you so|pull back the cur- tain and|may- be once more true|
+"D7" d2 cB A2 Bc |"Dm" d6"G7" EF |"C" G2 GG G2"G7" cd |"C" e6 ef |"Em" g2 fe dc A2 |"F" A2 c4 cc | %29
+w: love is there to meet *|you so you|walk side by side through the|world no more|times full of dark- ness and|sor- row ev- ry|
+ c2 Bc dc A2 |"C" A2 G4 GG |"G7" B2 AG B2 AG |"C" G2 c4 GG |"G7" B2 AG B2 AG |"C" G2 c4 GG | %35
+w: day is a bright new to-|mor- row when you|go throught that lace cov- ered|win- dow when you|go through that lace cov- ered|win- dow let the|
+"G7" B2 AG f2 ed |"C" d c6 z |] %37
+w: sun through that lace cov- ered|win- dow.-|
+

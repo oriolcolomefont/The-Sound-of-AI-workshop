@@ -1,0 +1,24 @@
+X:1
+T:Folie a Amphion
+T:Folie a Amphion
+T:HCDC
+T:Django Reinhardt 
+C:Django Reinhardt
+Z:All Rights Reserved
+L:1/8
+Q:1/4=240
+M:4/4
+K:G
+V:1 treble transpose=-12 nm="MusicXML Part"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Am7" e4 fgab- |"Cm6" b4 z a3 |"G/B" d2 z2 efga- |"Bbdim" a6 z g |"Am" e2 e2 ee z d | %5
+"E7" ee z e e3 d |"A7" B2 B2 B_BAd- |"D9" d4"Abdim" z ^cd^d ||"Am7" e4 fgab- |"Cm6" b4 bazd | %10
+"G/B" d4 efga- |"Bbdim" a6 z g |"Am7" e2 e2 ee z d |"E7" ee z e- e3 d |"Am7" ce g2"D7b9" b2 d-g- | %15
+"G69" g4 z G2 E ||"Dm7" G4 ABcd |"G7" e6 z d |"C69" B2 B2 B2 B2 | B2 _BA- A4 |"A7" B4 ^c2 de | %21
+"A13" f4 z e3 |"Am7" a3 g e c2 A- |"D9" A4"Abdim" z d ^d2 ||"Am7" e4 fgab |"Cm6" z b3 z2 a2 | %26
+"G/B" d2 z2 efga- |"Bbdim" a6 z g |"Am" e2 e2 ee z d |"E7" ee z e e3 d |"Dm6" B2 B2 B_BAd- | %31
+"E7" d6 _e2 |"A7" e2 b4 z2 |"D7b9" bd' b4 d2 |"G69" ag- g6 |"G69" z4"G#dim" z4 |] %36
+

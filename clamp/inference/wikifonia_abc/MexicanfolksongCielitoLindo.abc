@@ -1,0 +1,19 @@
+X:1
+T:Cielito Lindo
+T:Cielito Lindo
+T:(Mexican)
+C:Mexican folk song
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c c A |"G7" B B G |"C" c c A |"G7" B B G |"C" c c A | B B G |"Dm" F D2- | D3 |"G7" B3 | B2 A | %10
+w: Hea- vens a-|bove you all|know that I|love you you|ri- val their|beau- ty my|dar- ling||I|wait the|
+"Dm" F D2- | D2 z |"G7" G G G | G2 F |"C" E C2- | C3 | e3 | d2 c |"F" A3- | A3 |"Dm" d3 | %21
+w: day dear||when I can|hear you|say dear||I'll|come to|you||with|
+"G7" d2 c |"C" e c2- | c2 G | A2 G | A2 G |"G7" f f d | B2 G | A A G | F2 G |"C" E C2- | C3 |] %32
+w: love's own|greet- ing|* the|stars a-|bove will|light up the|way the|heav- ens will|bless our|meet- ing||
+

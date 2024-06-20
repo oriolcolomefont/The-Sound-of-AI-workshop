@@ -1,0 +1,34 @@
+X:1
+T:Shake Me, I Rattle (Squeeze Me, I Cry)
+T:Shake me I rattle
+T:(Squeeze me I cry)
+T:Hal Hackaday, Charles Naylor
+C:Charles Naylor, Hal Hackaday
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z2"^N.C." EF |:"C" G3 A G^F | G2 c2 AB |"F" c3 d cB |"Dm" A4 DE |"G7" F3 G FE | F2 B4 | %7
+w: I was|pass- ing by a|toy shop on the|cor- ner of the|Square, where a|lit- tle girl was|look- ing|
+w: |called an- oth- er|toy shop on a|square so long a-|go where I|saw a lit- tle|dol- ly|
+w: |late and snow was|fall- ing as the|shop- pers hur- ried|by past the|girl- ie at the|win- dow~with|
+"C" A3 B AG | E4 EF | G3 A G^F | G2 c2 AB |"F" c3 d cB |"Dm" A4 AB |"C" c3 d cB | G2 E2 EG | %15
+w: in the win- dow|there she was|look- ing at a|dol- ly in a|dress of ros- y|red and a|round the pret- ty|dol- ly hung a|
+w: that I want- ed|so I re-|mem- bered I re-|mem- bered how I|longed to make it|mine and a|round that oth- er|dol- ly hung a-|
+w: her~lit- tle head held|high they were|clos- ing up the|toy shop as I|hur- ried thru the|door just ain|time to buy the|dol- ly that her|
+"G7" FG A2 B2 |"C" c6 | G2 e2 e2 | ed c4 |"F" d2 e2 d2 |"Dm" A4 DE |"G7" F2 d2 c2 | B2 A4 | %23
+w: lit- tle sign that|said|Shake me I|rat- * tle|squeeze me I|cry as I|stood there be-|side her|
+w: oth- er lit- tle|sign|||||||
+w: heart was long- ing|for|||||||
+"C" G3 A GF | E6 | G2 e2 e2 | ed c4 |"F" d2 e2 d2 |"Dm" A6 |"G7" B2 B2 c2 | d4 G2 |"C" ed c4- |12 %32
+w: I could hear her|sigh|shake me I|rat- * tle|squeeze me I|cry|please take me|home and|love * me|
+w: |||||||||
+w: |||||||||
+ c4 EF :|3 c4 z2 |] %34
+w: * I re-||
+w: * It was||
+w: ||
+

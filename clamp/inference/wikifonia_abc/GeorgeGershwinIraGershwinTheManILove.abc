@@ -1,0 +1,47 @@
+X:1
+T:The Man I Love
+T:The Man I Love
+C:George Gershwin
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 52
+L:1/4
+V:1
+|:"Eb" z3/2 B<cB/ c>B _d2 |"Ebm7" z3/2 B<cB/ _d4 |"Gm7b5" z3/2 B<cB/ c>B _d2 | %3
+w: Some- day he'll come a- long|the man I love;|and h'ell be big and strong,|
+w: He'll look at me and smile,|I'll un- der- stand;|and in a lit- tle while|
+"C7b9" z3/2 A<BA/ c4 |"Fm7b5" z3/2 A<BA/ B>A _c2 |"Bb7" z3/2 G<AG/"Fm7" B2"Bb7b9" A2 | %6
+w: the man I love;|and when he comes my way|I'll do my best to|
+w: he'll take my hand;|and though it seems ab- surd-||
+"Eb" G4"Abmaj7" G4 |1"Gm""Fm7""Bb7" G8 :|2"Bb7" z3/2 G<AG/"Fm7" B2"Bb7b9" A2 ||2 %9
+w: make him|stay.|I know we both won't|
+w: |||
+"Eb" E4"Abmaj7" E4 ||"Eb" E4-"Adim""Ab7" E2"G7" z2 |"Cm" E>FG>^F"Cm7" G2 e2 | %12
+w: say a|word. *|May- be I shall meet him|
+w: |||
+"Adim" e2 d2"Abdim" B2 =B2 |"Cm" d2 c2 G2"Cdim" =A2 |"G7" =B8 |"Cm" E>FG>^F"Cm7" G2 e2 | %16
+w: Sun- day, may- be|Mo- day, may- be|not;|still I'm sure to meet him|
+w: ||||
+"Adim" e2 d2"Abdim" B2 =B2 |"Cm" d2 c2"C7b9" B2 A2 |"Abmaj7" G2 F2"Bb7" G2 A2 | %19
+w: one day, may- be|Tues- day will be|my good news day.|
+w: |||
+"Eb" z3/2 B<cB/ c>B _d2 |"Ebm7" z3/2 B<cB/ _d4 |"Gm7b5" z3/2 B<cB/ c>B _d2 |"C7b9" z3/2 A<BA/ c4 | %23
+w: He'll build a lit- tle home|just meant for two,|from which I"ll nev- er roam,|who would, would you?|
+w: ||||
+"Fm7b5" z3/2 A<BA/ B>A _c2 |"Bb7" z3/2 G<AG/"Fm7" B2"Bb7" G2"Bb7" |"Eb" E4"Ab6" E4 | %26
+w: and so all else a- bove,|I'm wait- ing for the|man I|
+w: |||
+"Eb" E4- E2 z2 |] %27
+w: love. *|
+w: |
+V:2
+|: x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2 x4 ||2 x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ x4 | x4 | x4 | x4 | x4 | x4 | D4 | x4 | x4 |] %27
+

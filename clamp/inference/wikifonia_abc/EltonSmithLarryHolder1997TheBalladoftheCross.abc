@@ -1,0 +1,59 @@
+X:1
+T:The Ballad of the Cross
+T:The Ballad of the Cross
+T:Music by Elton Smith Words by Larry Holder, 1997
+C:Elton Smith
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z8 | z8 |"Dm" z8 | z8 | z8 | z8 | z8 | z8 | z8 |"^A""^Verse 1" z4 A,2 C2 | D2 D2 D2 CD- | D6 DF | %12
+w: |||||||||By the|pro fits God fore told|_ of the|
+"G" G2 G2 G2 FG- | G6 DE |"Bb" F2 FF- F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | D4 A,2 C2 | D4 D2 CD- | %19
+w: send ing of His Son|_ who would|give His life _ to set|_ the cap tive free|_|* step ping|down from His throne|
+ D6 DF |"G" G2 G2 G2 FG- | G6 DE |"Bb" F2 FF- F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | D6 Ac | %26
+w: _ and the|glo ry He had known|_ Je sus|came to give _ His life|_ for you and me|_|* though He|
+ d4 d2 cd- | d4- dAAA |"F" c2 A2 A2 GA- | A6 FG- |"G" G2 G2 G2 GA- | A2 G2 F2 GA- |"A" A8- | %33
+w: knew well the cost|_ _ He was pre|pared to suf fer loss|_ _ _|* Him self a ran|_ som for us all|_|
+"A7" A2 z A A2 cd- | d2"Dm" d2 d2 Ac- |"F" c4- cFFF |"C" G2 G2 G2 FG- |"G" G6 DE |"Bb" FF- F4 FA | %39
+w: * in to our hope|_ less world He came|_ _ en dured the|suf fering and the shame|_ ev ery|mo ment _ stay ing|
+"C" G2 F2 D2 CD- |"Dm" D8- | D4 z4 | z8 ||"^B" z4"^Verse 2" A,2 C2 | D2 D2 D2 CD- | D6 DF | %46
+w: faith ful to the cause|_|||yet the|One who spoke of love|_ was re|
+"G" G2 G2 G2 FG- | G6 DE |"Bb" F2 FF- F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | D4 A,2 C2 | %52
+w: ject ed and des pised|_ He knew|all to well _ the sing|_ ful heart of man|_|* those with|
+ D2 D2 D2 CD- | D6 DF |"G" G2 G2 G2 FG- | G6 DE |"Bb" F2 FF- F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | %59
+w: eyes re fused to see|_ those with|ears re fused to hear|_ as they|sought a way _ to bring|_ Him to an end|_|
+ D6 Ac | d2 d2 d2 cd- | d6 Ac- |"F" c2 A2 A2 GA- | A6 FG- |"G" G2 G2 G2 GA- | A2 G2 F2 GA- | %66
+w: * by a|friend He was be trayed|_ by sol|_ diers led a way|_ yet for|_ this ver y hour|_ _ He had come|
+"A" A8 |"A7" z2 A2 A2 cd- |"Dm" d2 d2 d2 Ac- |"F" c6 FG- |"C" G2 G2 G2 FG- |"G" G6 DF- | %72
+w: _|they did not take|_ He free ly gave|_ for those|_ He came to save|_ the road|
+"Bb" F6 FA |"C" G2 F2 D2 CD- |"Dm" D8- | D8 ||"^C""Bb" z2 z"^Bridge" F F2 FG- |"C" G2 F2 G2 FA- | %78
+w: _ to the|cross He walked a lone|_||He could have called|_ a mil lion an|
+"F" A2 c2 c2 Ac- | c6 cd- |"G7" d2 d2 d2 dd- | d2 c2 =B2 GA- |"A" A8- |"A7" A4 A2 c2 | %84
+w: _ gels to His side|_ or stepped|_ down from the cross|_ and walked a way|_|* but His|
+"Dm" d4 d2 Ac- |"F" c6 FF |"C" G4 G2 FG- |"G" G6 DF- |"Bb" F2 F2 F2 AG- |"C" G2 F2 D2 CD- | %90
+w: Love held Him there|_ through the|pain and des pair|_ to free|_ us from a debt|_ we could not pay|
+"Dm" D8- | D8 | z8 ||"^D" z4"^Verse 3" A,2 C2 | D2 D2 D2 CD- | D6 DF |"G" G4 G2 FG- | G4 D2 E2 | %98
+w: _|||in His|suf fer ing and pain|_ took the|guilt and the shame|_ as He|
+ F2 FF- F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | D2 z2 A,2 C2 | D4 D2 CD- | D6 DF |"G" G4 G2 FG- | %105
+w: hung be tween _ the hea|_ vens and the ground|_|* ev ery|nail ev ery thorn|_ ev ery|stare ev ery scorn|
+ G4 D2 EF- |"Bb" F4- FFAG- |"C" G2 F2 D2 CD- |"Dm" D8- | D2 z2 A2 c2 | d4 d2 cd- | d4- dAAc- | %112
+w: _ pierced the One|_ _ who so free|_ ly laid it down|_|* with His|face to the sky|_ _ it is fin|
+"F" c2 A2 A2 GA- | A6 cd- |"G" d6 de- | e2 d2 _d2 =de- |"A" e8 |"A7" f4 e4 |"Dm" d2 d2 d2 Ac- | %119
+w: _ ished was His cry|_ the words|_ that broke|_ the gates of Hell|_|when His|fin al words were said|
+"F" c4- cFFG- |"C" G4 G2 FG- |"G" G8 |"Bb" F2 F2 F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | D8 || %126
+w: _ _ breathed His last|_ bowed His head|_|dark nes o'er the land|_ so quick ly fell|_||
+"^E" z2"^Ending" z F F2 FG- |"C" G2 F2 G2 FA- |"F" A2 c2 c2 Ac- | c6 cd- |"G7" d6 dd- | %131
+w: yet death and dark|_ ness could not stand|_ a gainst His power|_ He rose|_ vic tor|
+ d2 c2 =B2 GA- |"A" A8- |"A7" A2 z2 A2 c2 |"Dm" d3 d d2 Ac- |"F" c6 FF |"C" G2 G2 G2 FG- | %137
+w: _ ious from the grave|_|* In His|light we now may live|_ by the|grace He came to givc|
+"G" G6 DE |"Bb" F2 FF- F2 AG- |"C" G2 F2 D2 CD- |"Dm" D8- | D2 z2 D2 EF- |"Bb" F2 FF- F2 AG- | %143
+w: _ all who|call up on _ His name|_ are sure ly saved|_|* all who call|_ up on _ His name|
+ G2 F2 D2 CD- |"Dm" D8 | z8 | z8 |] %147
+w: _ are sure ly saved|_|||
+

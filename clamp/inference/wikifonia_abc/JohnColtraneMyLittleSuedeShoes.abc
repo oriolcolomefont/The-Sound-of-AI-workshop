@@ -1,0 +1,23 @@
+X:1
+T:My Little Suede Shoes
+T:My Little Suede Shoes
+C:John Coltrane
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Eb6" B, EG |"Fm7" FF FF"Bb7" EF | z G"Gm7" z2 z2 |"C7" z B, EG"Fm7" FF | FF"Bb7" EF z E | %5
+"Ebmaj7" z2 z2"C7" z B, | EG"Fm7" FF FF |"Bb7" EF z G"Gm7" z B- | B2"C7" =A2 _A2 | %9
+"Fm7" GG GG"Bb7" FF | z E"Ebmaj7" z2 z2 |"C7" z B, EG"Ebmaj7" z2 | z2"Eb7" z B cd | %13
+"Abmaj7" ee ee"Abm7" cA | z d"Gm7" z d3 |"C7" BG z2"Fm7" cc | cc"Bb7" AF z B- | %17
+"Ebmaj7" B4"Eb7" z B | cd"Ab" ee ee |"Abm7" cA z d"Gm7" z d- | d2"C7" BG z2 |"Fm7" cc cc"Bb7" AF | %22
+ GD-"Gm7" E4 |"C7" z B, EG"Fm7" FF | FF"Bb7" EF z G |"Ebmaj7" z2 z2"C7" z B, | EG"Fm7" FF FF | %27
+"Bb7" EF z E"Ebmaj7" z2 | z2"C7" z B, EG |"Fm7" FF FF"Abm7" EF | z G"Gm7" z B3 | %31
+"C7" =A2 _A2"Fm7" GG | GG"Bb7" FF z E |"Ebmaj7" z6 | z6 |] %35
+

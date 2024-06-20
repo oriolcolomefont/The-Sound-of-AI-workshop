@@ -1,0 +1,49 @@
+X:1
+T:When I'm Sixty-Four
+T:When I'm Sixty-Four
+T:The Beatles
+T:For educational purposes only
+T:When I'm Sixty-Four
+T:2
+C:John Lennon and Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 40
+V:1
+"C" EDE"C/G"G- G2 E2 |"C" GAG"C/G"c- cBcd |"C" edcA"C/G" c2 d2 |"C" c2 G,2 C2 z2 |: %4
+w: ||||
+w: ||||
+w: ||||
+"C" ED E2 G2 E2 | GA G2 c2 z2 | c e3 c2 A2 |"G7" d8 |"G7" BABA BABc | (3B2 A2 G2 z2 z2 | %10
+w: When I get old- er|los- ing my hair|ma- ny years from|now|Will you still be send- ing me a|Val- en- tine|
+w: I could be han- dy|men- ding a fuse|when your lights have|gone|You can knit a swea- ter by the|fi- re side|
+w: Send me a post- card|drop me a line|stat- ing point of|view|In- di- cate pre- cise- ly what you|mean to say|
+ B2 c2 ^c2 d2 |"C" e^d=dc- c2 z2 |"C" ED E2 G2 E2 | GA G2 c2 z2 |"C7" c e3 c2 A2 |"F" d8 | %16
+w: Birth- day greet- ings|bot- tle of wine _|If I'd been out til|quar- ter to three|would you lock the|door|
+w: Sun- day mor- nings|go for a ride _|Do- ing the gar- den|digg- ing the weeds|who could ask for|more|
+w: yours sin- cere- ly|was- ting aw- ay _|Give me your an- swer|fill in a form|mine for ev- er-|more|
+"F" cAc"Ab7"_e- e d2 z |"C" cAc"A7"A- A G2 z |"D7" e e3- e"G7" e2 G |"C" c4 z4 |1"Am" z8 | %21
+w: Will you still need _ me|will you still feed _ me|when I'm _ six- ty|four||
+w: |||||
+w: |||||
+ e4 d2 c2 |"G" B4 c2 d2 |"Am" A8 | A4 B4 | c4 g4 |"E" e2 c2 B2 d2 | B2 c2 B2 d2 |"Am" a4 g4 | %29
+w: Oo _ _|_ _ _||You'll be|old- er|too (Ah- * *||* ah)|
+w: ||||||||
+w: ||||||||
+ e4 d2 c2 |"D7" d4 e2 A2- | A8 |"F" c4 A4 |"G" G4 A4 |"C" cBcd cBAG | z2 z2 G,2 G,2 | %36
+w: and if you|say the word|_|I could|stay with|you * * * * * * *||
+w: |||||* (Clarinet _ _ _ _ _ _||
+w: |||||||
+ z2 G,A, B,D- D2 :|2"Am" AGAG AGAG || AGAG A2 E2 |"G" G2 GE G A2 E- |"Am" E z z2 z4 |"Am" A4 B4 | %42
+w: |Ev- ery sum- mer we can rent a|cot- tage in the Isle of|Wight if it's not too dear|_|We shall|
+w: ||||||
+w: ||||||
+ c4 g4 |"E" e8- | e8 |"Am" z8 | e4 d2 c2 |"D7" d4 e2 A2 | z8 |"F" c4 A4 |"G" G4 A4 |"C" c2 z2 z4 :| %52
+w: scrimp and|save|_||grand- child- ren|on your knee||Ver- a|Chuck and|Dave|
+w: ||||||||||
+w: ||||||||||
+

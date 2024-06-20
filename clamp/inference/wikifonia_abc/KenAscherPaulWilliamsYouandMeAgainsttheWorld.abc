@@ -1,0 +1,29 @@
+X:1
+T:You and Me Against the World
+T:You and me against the world
+T:Paul Williams, Ken Ascher.
+C:Ken Ascher, Paul Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 A2 _B2 |"F" cdcd c4 |"Bb" z ccd c_BAG |"F" A_BA_B A4 | z AA_B AGFE | FGFE F4 | FGFG F2 d2 | %7
+w: You and|me a- gainst the world|some- times it feels like you and|me a- gainst the world|when all the oth- ers turn their|back and walk a- way|you can count on me to|
+ f8 |"E7" z2 E2 edcB |"Am" cBBA A4 | z2 E2 B2 c2 |"E7" dccB B4- | B4 cc d2 |"Am" eddc c4 | %14
+w: stay|Re- mem- ber when the|cir- cus came to town|and you were|fright- ened- by the clown?|* was- nt it|nice to be a- round|
+ eddA c4 |"Gm" dcc_B _B_B_BG | dddA"C7" c2 d2 |"F" cBcd c4 |"Bb" z ccd c_BAG |"F" AGA_B A4- | %20
+w: some- one that you knew|some- one who was big and strong and|look- in out for you and|me a- gainst the world?|some- times it feels like you and|me a- gainst the word|
+ A4 F2 G2 | _BAA_B A2 F2 | _BAAG AGFG | F8- |"Bb" F4 d2 d2 |"F7" cdcd c4 | z2 d2 fdcA | %27
+w: * and for|all the times we cried I|al- ways felt that God was on our|side|* and when|one of us is gone|and one is left a-|
+"Bb" GFGA G4 |"Bbm" z2 C2 A2 _B2 |"F" cdc_B A_B c2 |"Bb" z2 d2 dcc_B |"F" cBcd c4 | %32
+w: lone to car- ry on|well then, re-|mem- ber- ing will have to do|our mem- o- ries a-|lone will get us through|
+"D7" z2 dc d2 c2 |"Gm" dcc_B c4 |"C7" z Cc_B c_B"^ToCoda"_BA |"F" A8- | A8 |"Am" cBBA B2 c2- | %38
+w: think a- bout the|days of me and you|of you and me a- gainst the|world||Life can be a cir- cus|
+ c2 A2 B2 c2 |"^Dm(E7)" ddcB c2 d2- | d2 c2 c2 d2 |"Am" eddc c4 | eeed c2 c2 |"Gm" dcc_B _BAAG | %44
+w: * they un- der-|pay and o- ver work us|* and though we|sel- dom get our due|when each day is through I|bring my tir- ed bod- y home and|
+ dddA"C7" c2"^D,S,alCoda" C2 ||"^Coda" A8 |"Bb" z2 A_B AFDF |"F" c8- | c8 |] %49
+w: look a- round for me and|world|Mm. * * * * *|||
+

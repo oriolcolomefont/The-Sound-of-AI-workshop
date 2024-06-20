@@ -1,0 +1,22 @@
+X:1
+T:The Sweetheart Tree
+T:The Sweetheart Tree
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 C2 |"F" F4 GA |"Am" c4 dc |"Bb" A2 F4- |"Gm7" F4 C2 |"F" F4 GA |"Am" c4 dc |"Bb" G6- | %8
+w: They|say there's a|tree in the|for- est,|_ A|tree that will|give you a|sign;|
+"C7" G4"C#dim" AG |"Dm" F4 d2 |"Am" c4 AG |"Bb" F4 d2 |"F" c4 AG |"Dm7" F2 D2 E2 |"G7" F4 A2 | %15
+w: _ Come a-|long with|me, to the|sweet- heart|tree, Come and|carve your name|next to|
+"Gm7" G6- | G4 C2 |"F" F4 GA |"Am" c4 dc |"Bb" A2 F4- |"Gm" F4 C2 |"F" F4 GA |"F7" c4 F2 | %23
+w: mine.|_ They|say if you|kiss the right|sweet- heart,|_ The|one you've been|wait- ing|
+"Bb" d6- |"Bdim" d4 d2 |"F" d2 c3 A |"Cm7" G4"F7" A2 |"Bb" c2 B2 F2 |"Bdim" D4 GF |"F" C2 F2 A2 | %30
+w: for;|_ Big|blos- soms of|white will|burst in- to|sight And your|love will be|
+"Gm7/C" c4"C7" GA |"F""Bb" F6- |"F" F6 |] %33
+w: true ev- er-|more.||
+

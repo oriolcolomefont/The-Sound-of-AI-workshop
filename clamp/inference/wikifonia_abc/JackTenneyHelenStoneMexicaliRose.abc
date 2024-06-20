@@ -1,0 +1,26 @@
+X:1
+T:Mexicali Rose
+T:Mexicali Rose
+C:Jack Tenney
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" E3 F"D7" ^FG |"Ebdim" A4"G7" G2 |"Abdim" d6 |"C" c6 |"Cm7" B3 c"Ebdim" AB | %5
+w: Mex- i- cal- i|Rose stop|cry-|ing,|I'll come back to|
+"Am" G3 A"Em7b5" G^F |"Dm" =F6- |"Db7/G" F4 z2 |"G7" D3 E FG |"Ebdim" A3 G ^FG |"F9" c6 |"G7" B6 | %12
+w: you some sun- ny|day.|_|Ev- 'ry night you'll|know that I'll be|pin-|ing,|
+"F9" B3 c"Dm7b5" AB |"G7" G3 A"Abdim" FG |"C""Gdim" E6- |"G7" E4 z2 |"C" E3 F"D7" ^FG | %17
+w: Ev- 'ry hour a|year while I'm a-|way.|_|Dry those big brown|
+"Ebdim" A4"G7" G2 |"Abdim" d6 |"C" c6 |"C7" c3 c"Ebdim" Bc |"Bbdim" d3 c"C7" d^G |"F" A6- | %23
+w: eyes and|smile|dear,|Ban- nish all those|tears and please don't|sigh.|
+"Dm" A4 z2 |"F" A3 ^G AB |"Ebdim" c4 d2 |"C""Cmaj7" e6 |"A7" G6 |"F9" A3 ^G"Dm7b5" A^A | %29
+w: _|Kiss me once a-|gain and|hold|me,|Mex- i- cal- i|
+"G7" B4 G2 |1"C" c2 z4 |"G7" z6 :|2"C" c6- | c2 z4 |] %34
+w: Rose good-|bye.||bye.|_|
+

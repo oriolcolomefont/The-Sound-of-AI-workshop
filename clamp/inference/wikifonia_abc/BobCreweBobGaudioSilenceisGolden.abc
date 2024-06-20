@@ -1,0 +1,26 @@
+X:1
+T:Silence is Golden
+T:Silence is Golden
+T:Bob Crewe and Bob Gaudio
+T:8 beat or rock
+C:Bob Crewe, Bob Gaudio
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A2 G A |"Bb" _B2 A B |"F" c f2 d |"Bb" c _B c B |"F" A C2 A |"C" G C2 G |"F" A2 _B c |"C7" G4 | %8
+w: Oh don't it|hurt deep in-|side * *|* * to see|some- one do|some- thin to|her * *||
+w: Talk- in is|cheap peo- ple|fol- low like|sheep * e- ven|tho' there is|no- where to|go * *||
+"F" A2 G A |"Bb" _B2 A B |"F" c f2 d |"Bb" c _B c B |"F" A C2 A |"C7" G C2 G |"F" F4- | F4 | %16
+w: oh don't it|pain to see|some- * one|cry * oh es-|pec- c'ly when|some- one is|her|_|
+w: How could she|tell? he de-|ceived her so|well * pi- ty|she'll be the|last one to|know.|_|
+ z f e d |"Am" c A3 |"Gm" z A/G/"C7" F G |"F" A4 | z f e d |"Am" c A"Dm" d A |"Gm" z A/G/"C" F G |1 %23
+w: Si- lence is|gold- en|but my eyes still|see|Si- lence is|gold- en, gold- en|but my eyes still|
+w: |||||||
+"F" F4 :|2"F" F4 ||"Gm" z G/F/"C" E G |"F" F4 |"Gm" z G/F/"C" E G |"F" F4 |] %29
+w: see|see|but my eyes still|see|but my eyes still|see|
+w: ||||||
+

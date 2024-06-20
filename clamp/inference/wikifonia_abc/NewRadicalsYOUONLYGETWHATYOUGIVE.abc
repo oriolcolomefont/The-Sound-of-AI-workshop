@@ -1,0 +1,64 @@
+X:1
+T:YOU ONLY GET WHAT YOU GIVE
+C:New Radicals
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"E/A" z [EGB] [EGB]2 z [EGB] [EGB]2 |"D/G" z [FAe] [FAe]2 [FAe]z[FAe] z | %2
+w: ||
+"E/A" [EGB][EGB][EGB][EGB] [EGB][EGB][EGB][EGB] |"D/G" [DFA][DFA][DFA][DFA] [DFA][DFA][DFA][DFA] | %4
+w: ||
+"E/A" z2 B2 z BzB |"D/G" z ABA cAFE |"E/A" z2 B2 z BzB |"D/G" z ABA cAFE |"E/A" z2 B2 z BzB | %9
+w: WAKE UP KIDS|we've got the dream ers dis ease|Age four teen|they've got you down on your knees|So po lite|
+"D/G" z ABA cA AF/E/- |"Bm7" F- A2 z z4 |"Esus4" z2 z2 z2 z2 |"E/A" z2 B2 z BzB |"D/G" z ABA cAFE | %14
+w: they've got you still say in" please _|_ _||Fren e mies|who when you're down ain't your friends|
+"E/A" z2 B2 z BzB |"D/G" z ABA cAFE |"E/A" z2 B2 z BzB |"D/G" z ABA cA AF/E/- |"Bm7" F- A2 z z4 | %19
+w: Ev 'ry night|we smash their Mer ce des Benz|First we run|and then we laugh till we cry _|_ _|
+"Esus4" z2 z2 z2 z F |"C#m7" f2 e2 e>f- fc- |"F#m" cA- A2- A2 FF |"C#m7" f2 e2 e2 fc- | %23
+w: But|when the night is _ fall|_ ing _ _ And you|can not find the light|
+"Esus4" c- c2 z"E" B2 FF |"C#m7" f2 e2 e2 f=c- |"F#m" c F3 z AzB- |"D/E" B8 |"E" z ABA cAAF- | %28
+w: _ _ light. If you|feel your dreams are dy|_ in' Hold tight|_|You've got the mu sic in you|
+"A/D" E2 B2 z BzB |"Esus4" z ABA"E" cAAE |"C#m7""^this is the best song EVER" z2 B2 z B2 B | %31
+w: _ Don't let go|You've got the mu sic in you|One dance left|
+"F#m7" z ABA"E" cAAF- |"A/D" E2 B2 z BzB |"Esus4" z ABA"E" cAAE |"C#m7" z2 B2 z B2 B | %35
+w: This world is gon na pull thru|_ Don't give up|You got a rea son to live|Can't for get|
+"F#m7" z ABA"E" cA AF/E/ |"Dmaj9" FA- A6- |"E/A" [EGB][EGB][EGB] [EGB][EGB][EGB][EGB] z | %38
+w: We on ly get what we give _|_ _ _||
+"D/G" z2 z F A/A/A/-A/ FE |"E/A" z Az=c- c2 z2 |"D/G" z4 a/a/a/a/ a2 |"E/A" z2 B2 z BzB | %42
+w: I'm com in' home _ ba by|You're tops _|Give it to me now.|FOUR A. M.|
+"D/G" z ABA cAFE |"E/A" z2 B2 z BzB |"D/G" z ABA cAFE |"E/A" z2 B2 z BzB |"D/G" z ABA cA AF/E/- | %47
+w: we run the mir ac le mile|we're flat broke|but hey we do it in style|THE BIG Rich|GOD's fly in' in for your tri al|
+"Bm7""_Your  Üncle luvs you" F- A2 z z4 |"Esus4" z2 z2 z2 z F |"C#m7" f2 e2 e>f- fc- | %50
+w: _ _|But|when the night is _ fall|
+"F#m" cA- A2- A2 z F |"C#m7" f2 e2 e2 fc- |"Esus4" c- c2"E" B2 z FF |"C#m7" f2 e2 e2 f=c- | %54
+w: _ ing _ _ you|can not find a friend|_ _ friend If you|feel your tree is break|
+"F#m" A2 z2 z2 A2 |"D/E" B2 z2 z2 z2 |"E" z ABA cAAF- |"A/D" E2 B2 z BzB |"Esus4" z ABA"E" cAAE | %59
+w: ing just|then|You've got the mu sic in you|_ Don't let go|You've got the mu sic in you|
+"C#m7" z2 B2 z B2 B |"F#m7" z ABA"E" cAAF- |"A/D" E2 B2 z BzB |"Esus4" z ABA"E" cAAE | %63
+w: One dance left|This world is gon na pull thru|_ Don't give up|You got a rea son to live|
+"C#m7" z2 B2 z B2 B |"F#m7" z ABA"E" cA AF/E/ |"Dmaj9" FA- A6- |"E/A" z2 z E FA-A=c- | %67
+w: Can't for get|We on ly get what we give _|_ _ _|This whole damn _ world|
+"Em7" (3:2:2c B2 z/ A"D"F/- FA-AA |"E/A" E2 z E FAA=c- |"Em7" cB z/ E3/2"D" (3:2:2F A2- AA | %70
+w: _ _ could fall _ a _ part|_ You'll be O. _ K.|_ _ Fol low your _ heart|
+"E/A" E2 z E/F/- FA- (3:2:2A =c2- |"Em7" c<B (3:2:2z E2"D" A A2 A |"E/A" E2 z E (3:2:2F A2- Ac | %73
+w: _ Your in _ harm's _ way|_ _ I'm right be hind|_ Now say you're _ mine.|
+"D/E" (3:2:2c B2- B4- B2- |"E" B8- |"D/E" B8 | z2"A/D" B2 z BzB |"Esus4" z ABA"E6" cAAB | %78
+w: _ _ _ _|||Don't let go|I feel the mu sic in you|
+"A/D" A3 G- G3 F |"Esus4" F3- E- =C-B,- A,2 |"C#m" A3- G- G3 F- |"F#m" F3- E-"E" =C-B,- A,2 | %82
+w: FLY _ _ _|_ _ _ _ _|HIGH _ _ _|_ _ _ _ _|
+"A/D" A3 B- B4- |"Esus4" B4 z2 B2 |"C#m7" B8- |"F#m/E" B8- |"A/D" B8 |"Esus4" z ABA"E" cAAF | %88
+w: What's real _|_ can't|die|_||You only get what you give _|
+"C#m7" E8 |"F#m7" z ABA"E" cAAF |"A/D" E2 B2 z BzB |"Esus4" z ABA"E" cAA=g- |"C#m" g4- g-e-f-c- | %93
+w: _|You're gon na get what you give|_ Don't give up|Just don't be af raid to leave|_ _ _ _ _|
+"F#m/E" c8 |"A/D" FAFA FAcA |"Esus4" FAFA"E" FAcA |"C#m" FAFA FAcA |"F#m7" FAFA"E" cBAF | %98
+w: |health in sur ance rip off ly ing,|F D A big bank ers buy ing.|Fake com put er crash es din ing.|clon ing while they're mul tip ply ing|
+"A/D" FAFA FAcA |"Esus4" FAFA"E" FAcA |"C#m" FAFA FAcA |"F#m7" FAFA"E" cccc |:"A/D" z2 B2 z BzB | %103
+w: Fash ion shoots with Bek and Han son,|Court ney Love and Mar Lyn Man son|Your all fakes run to your man sions.|Come ar ound we'll kick your ass in.|Don't let go.|
+"Esus4" z ABA"E" cAFF :| %104
+w: You've got the mu sic in you.|
+

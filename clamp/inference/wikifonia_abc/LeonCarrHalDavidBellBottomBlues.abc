@@ -1,0 +1,37 @@
+X:1
+T:Bell Bottom Blues
+T:Bell Bottom Blues
+T:Leon Carr
+T:Hal David
+C:Leon Carr
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z G"G7"E>D |:"C" C2 c>B"C7" c2 G>^F |"F" G>FE>D"G7" E>DC>B, |"C" C2 C2"Am7" C>DE>F | %4
+w: I've got the|Bell Bot- tom Blues 'cause my|sweet- ie is a sail- or and he's|sail- ing some- where on the|
+w: |head and re- fuse when the|'fel- lers come a- call- in' and they|want to take me on a|
+"Dm7" G4-"G7" G>GE>D |"C" C2 c>B"C7" c2 G>^F |"F" G>FE>D"G7" E>DC>B, | %7
+w: sea. * I got the|Bell Bot- tom Blues 'cause I'm|cra- zy 'bout a sail- or and I|
+w: date, * I got The|Bell Bot- tom Blues while the|o- ther girls are fall- in' I just|
+"C" C>DE>F"Dm7" E>C"G7"D>B, |1"C" C4- CG"G7"E>D :|2"C" C4- C z z G ||"Gm7" _B>BB>B"C7" B>AG>A | %11
+w: don't know when he's com- in' back to|me. * I shake my|wait. * I|won- der if he's look- in' at the|
+w: sit a- round the liv- in' room and||||
+"Gm7" _B2 B>B"C7" B>A G2 |"Gm7" _B>BB>B"C7" B>AG>A |"Gm7" _B4-"C7" B2 z C |"F9" G>GG>G G>F_E>F | %15
+w: same moon I'm look- in' at|ev- 'ry night I'm look- in at the|moon * I|know that if he's pray- in' for the|
+w: ||||
+"Cm7" G2 G>G"F9" G>F _E2 |"C" (3G2 G2 G2"Cdim" A2 c2 |"Dm7" d4-"G7" dGE>D |"C" C2 c>B"C7" c2 G>^F | %19
+w: same thing I'm pray- in' for|we'll be to- geth- er|soon. * I got the|Bell Bot- tom Blues just a-|
+w: ||||
+"F" G>FE>D"G7" E>DC>B, |"C" C2 C2"Am7" C>DE>F |"Dm7" G4-"G7" G>GE>D |"C" C2 c>B"C7" c2 G>^F | %23
+w: wait- in for a let- ter heav- en|knows I'm lone- ly as can|be. * I got the|Bell bot- tom Blues and I|
+w: ||||
+"F" G>FE>D"G7" E>DC>B, |"C" C>DE>F"Dm7" E>C"G7"D>B, |"C" C4- C2 z2 |] %26
+w: won't be feel- in' bet- ter 'till my|sail- or comes a- sail- in' homev to|me.- *|
+w: |||
+

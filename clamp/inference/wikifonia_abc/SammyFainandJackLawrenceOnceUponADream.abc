@@ -1,0 +1,23 @@
+X:1
+T:Once Upon A Dream
+T:Once Upon A Dream
+T:From Walt Disney's Sleeping Beauty
+C:Sammy Fain and Jack Lawrence
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" F3 |"C/Bb" E3 |"F/A" F2 D |"Abdim7" E F D |"C9" E2"Gm6" G |"F#dim7" A2"D7" ^F |"Gm" G3- | %7
+w: I|know|you! I|walked with you|once up-|on a|dream.|
+ G z z |"C" c3 |"Abdim7" =B3 |"Gm7" B2 G |"C7" B A G |"Bb/F" d2"F" c | B2 A |"Gm7" A G ^F | %15
+w: _|I|know|you! The|gleam in your|eyes is|so fa-|mil- iar a|
+"C9" G D E |"F" F3 |"C/Bb" E3 |"F/A" F2 D |"Abdim7" E F"Cdim7" ^F |"Gm" G2 D |"D7" A2 D |"Gm" B3 | %23
+w: gleam. Yet, I|know|it's|true that|vis- ions are|sel- dom|all they|seem.|
+"G#dim7" z =B d |"F" c2 F |"D7" d2 c |"Gm" d B G |"E7/G#" e2 d |"F/A" f e d |"F" c2 c | %30
+w: But if|I know|you, I|know what you'll|do; you'll|love me at|once the|
+"D7" _e d c |"Gm" B2 d |"Gm7/C" F3 |"C7" E3 |"F" F3- | F3 |] %36
+w: way you did|once up-|on|a|dream.|_|
+

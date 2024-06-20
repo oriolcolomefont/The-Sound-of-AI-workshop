@@ -1,0 +1,25 @@
+X:1
+T:Down In The Glen
+T:Down in the Glen
+T:Harry Gordon and Tommie Connor
+C:Harry Gordon, Tommie Connor
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4"^N.C." c2 |"F" F3 G AB |"F7" c4 Ff |"Bb" d3 c Bd |"Am" c2 z2"D7" dA |"Gm" B2 B2"C7" cG | %6
+w: At|hush of ev- en-|tide o'er the|hills be- yond the|Clyde I go|roam- ing to my|
+"F" A2 A4 |"Gm" G2 F2"C7" G2 |"F" F2 z2"C7" c2 |"F" F3 G AB |"F7" c4 Ff |"Bb" d3 c Bd | %12
+w: hea- ven|down in the|glen though|hum- ble it may|be there an|an- gel waits for|
+"Am" c2 z2"D7" dA |"Gm" B2 B2"C7" cG |"F" A2 A4 |"Gm" G2 F2"C7" G2 |"F" F2 z2 F2 |"Bb" f3 e fd | %18
+w: me in that|one- ly lit- tle|hea ven|down in the|glen a-|cross the moon- lit|
+"Am" c2 c2 A2 |"Gm" BA B2"C7" cG |"F" A2 z2 F2 |"Dm" f3 e fd |"A" ^c2 e2 EE |"Bm" ^FA =B2"E7" ^c2 | %24
+w: hea- ther my|lass- ie calls as I|roam tis|soon we'll be to-|ge- ther in that|hea- ven we call|
+"A" A2 z2"C7" c2 |"F" F3 G AB |"F7" c4 Ff |"Bb" d3 c Ad |"Am" c2 z2"D7" dA |"Gm" B2 B2"C7" cG | %30
+w: home the|sheep are in the|fold and there's|peace worth more than|gold for a|shep- herd in that|
+"F" A2 f4 |"Gm" g2 f2"C7" g2 |"F" f4 z2 |] %33
+w: heav- en|down in the|glen.|
+

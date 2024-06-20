@@ -1,0 +1,43 @@
+X:1
+T:Hello Good Morning
+T: Laukens Music Productions  
+T:Foxtrot
+T:HELLO GOOD MORNING
+T:Arr. H. Laukens 
+T:HELLO GOOD MORNING blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"D" F3 (3E/F/A/ | F z/ F/ z/ D/E/F/ |"G" G G G (3E/^E/F/ | G/>G/ E D/>E/ G/>E/ | %4
+"D" F z (3^E/F/A/ (3E/F/A/ | F z D (3E/F/A/ |"G" G/ z/ D/>D/ ^C/>C/ =C/>C/ | B, z2 D || %8
+"G" G2 D B,- | B,2 z G |"D" F2 D C- | C2 z D | F2 D C- | C2 z F |"G" G2 D B,- | B,2 z D | G2 D2 | %17
+ B,2 G2 |"D" F2 D C- | C z z D | F2 D C- | C D F A |"G" G2 z2 | z3 D ||"G" B,2 z D | B G z D | %26
+"D7" C D z f | d z z D | C2 D2 | A F2 D |"G" B,2 z2 | z3 D | B,2 z D | B G z D |"D7" C D z f | %35
+ d z z D | C2 C/ D F/- | F z G A/G/- |"G" G2 z2 | z3 G |"C" E2 E F | A3/2 G/- G E | %42
+"G" E3/2 D/- D ^C | D2 z G |"A7" E2 E/ F G/- | G F z G |"D7" B2 A/ ^G A/- | A z z D |"G" B,2 z D | %49
+ B G z D |"D7" C D z f | d z z D | C2 C/ D F/- | F z G A/G/- |"G" G2 z2 | z3 z/ ^C/- | %56
+"D" C/>^C/ D/>C/ D/>^D/ E/>G/ | z F F (3D/E/F/ |"G" G D ^C =C | B,2 z D || G2 D B,- | B,2 z G | %62
+"D" F2 D C- | C2 z D | F2 D C- | C2 z F |"G" G2 D B,- | B,2 z D | G2 D2 | B,2 G2 |"D" F2 D C- | %71
+ C z z D | F2 D C- | C D F A |"G" G2 z2 | z3 D || B,2 z D | B G z D |"D7" C D z f | d z z D | %80
+ C2 D2 | A F2 D |"G" B,2 z2 | z3 D | B,2 z D | B G z D |"D7" C D z f | d z z D | C2 C/ D F/- | %89
+ F z G A/G/- |"G" G2 z2 | z3 G |"C" E2 E F | A3/2 G/- G E |"G" E3/2 D/- D ^C | D2 z G | %96
+"A7" E2 E/ F G/- | G F z G |"D7" B2 A/ ^G A/- | A z z D |"G" B,2 z D | B G z D |"D7" C D z f | %103
+ d z z D | C2 C/ D F/- | F z G A/G/- |"G" G2 z2 ||[K:Ab] z2 z (3F/E/D/ || %108
+"Ab" C/>=B,/ C/>B,/ C/>E/ z | F z/ F/- F z/ C/ |"Eb7" D/>C/ D/>C/ D/>E/ z | B, z3 | %112
+ D/>C/ D/>C/ D/>E/ z | G z/ G/- G/F/- F |"Ab" F/>=D/ E/>D/ E/>F/ z3/4 C/4- | C2 z2 | z c3 | %117
+ B/>B/ A/>A/ G/>G/ F |"Eb" E/4F/4E/4=D/4 E/>D/ E/>F/ z3/4 B,/4- | B,3 z | z G2 ^F | %121
+ G/>G/ E/ z/ F E |"Ab" A4- | A z2 A |"Db" F2 F G | B3/2 A/- A F |"Ab" F3/2 E/- E =D | E2 z A | %128
+"Bb7" F2 F/ G A/- | A G z A |"Eb7" c2 B/ =A B/- | B z z E |"Ab" C2 z E | c A z E |"Eb7" D E z g | %135
+ e z z E | D2 D/ E G/- | G z A B/A/- |"Ab" A2 z2 | z3 E |"Eb7" D2 D/ E G/- | G z A B/A/- | %142
+"Ab" A2 z2 | z3 E |"Eb7" D2 D/ E G/- | G z A B/A/- |"Ab" A2 z2 |] %147
+

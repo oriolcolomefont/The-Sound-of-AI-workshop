@@ -1,0 +1,39 @@
+X:1
+T:Elmer's Tune
+T:Elmer's Tune
+C:Sammy Gallop, Elmer Albrecht, Dick Jurgens
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z4 G2 A>^A |:"G7" BB z ^A =AA z ^F |"G7" GG^F=F z3/2 ^F<G^G/ |"F" AA z ^F"C" GG z F | %4
+w: Why are the|stars al- ways wink- in' and|blink- in' a- bove? What makes a|fel- low start think- in' of|
+w: ||||
+"Dm7" =FF"C"^DE z3/2 ^F<GA/ |"G7" GG z ^F =FF z ^F |"G7" GG^F=F- F2 z2 | %7
+w: fall- in' in love? It's not the|sea- son, the rea- son is|plain as the moon _|
+w: |||
+"D7" e e2"G9" e- e z"G+" B2 |"C" A4 z3/2 G<A^A/ |"G7" BB z ^A =AA z ^F | GG^F=F z3/2 ^F<G^G/ | %11
+w: I'ts just El- * mer's|Tune. What makes a|lad- y of eight- y go|out on the loose? Why does a|
+w: ||||
+"F" AA z ^F"C" GG z F |"Dm7" =FF"C"^DE z3/2 ^F<GA/ |"G7" GG z ^F =FF z ^F | GG^F=F- F2 z2 | %15
+w: gan- der me- an- der in|search of a goose? What puts the|kick in a chick- en, the|mag- ic in June? _|
+w: ||||
+"D7" e e2"G9" e- e z e2 |"C" c8 |"F" A c3- c4 |"C" A G3- G4 |"F" A>cA>c A>cA>c |"C" A G3- G4 | %21
+w: It's just El- * mer's|tune.|Lis- ten, _|lis- ten, _|there's a lot you're li'- ble to be|miss- in'; _|
+w: ||||||
+"D7" A e3 e4 | d c3- c4 |"G7" dd B2 c2 A2 |"G7" B>G"F"A>G-"G7" G z/ G<A^A/ | BB z ^A =AA z ^F | %26
+w: Sing it, _|swing it, _|an- y old way and|an- y old time. _ The hurd- y|gur- dies, the bird- ies, the|
+w: |||||
+"G7" GG^F=F z3/2 ^F<G^G/ |"F" AA z ^F"C" GG z F |"D7" =FF"C"^DE z3/2 ^F<GA/ | %29
+w: cop on the beat; the cand- y|mak- er, the bak- er, the|man on the street; The cit- y|
+w: |||
+"G7" GG z ^F =FF z ^F |"G7" GG^F=F- F2 z2 |"D7" e2 e2"G7" e e2 c- | %32
+w: charm- er, the farm- er, the|man in the moon _|all sing El- mer's Tune.|
+w: |||
+"C" c2"Edim" z2"G7" z3/2 G<A^A/ :|"C" c4- c2 z2 |] %34
+w: _ Why are the||
+w: ||
+

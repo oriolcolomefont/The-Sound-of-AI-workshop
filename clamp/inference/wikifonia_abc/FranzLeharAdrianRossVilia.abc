@@ -1,0 +1,50 @@
+X:1
+T:Vilia
+T:Vilia
+T:(Song from The Merry Widow)
+T:Music by Franz Lehar
+T:Words by Adrian Ross
+C:Franz  Lehar
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B, |"Eb" G2"Ab" FA |"Eb" G2"Ab" FA |"Eb" G2"Ab" c>c |"Eb" B3 A |"Eb" G2"Ab" FA | %6
+w: 1.~~There|once was a|Vil- ia, A|witch of a|wood, A|hunt- er be-|
+w: 2.~~The|wood maid- en|smiled, and no|an- swer she|gave, But|beck- on'd him|
+"Eb" G2"Fm" DF |"Cm" E2 DE |"Fm" C3 C |"Ab" A2 GA |"Ab" c2 BA |"Eb" G2"Bb7" F>F |"Cm" E3 E | %13
+w: held her a-|lone as she|stood. The|spell of her|beau- ty up-|on him was|laid; He|
+w: in- to the|shade of the|cave; He|nev- er had|known such a|rap- tur- ous|bliss, No|
+"Ab""^rit." e2 dc |"Eb" B2 GE |"Bb7" A2 GF |"Eb" E4 |"Cm"!pp! E/"^a tempo"F/E/F/ G=A |"Gm" B3 D | %19
+w: look'd and he|long'd for the|mag- ic- al|maid!|For a sud- den trem- or|ran, Right|
+w: maid- en of|mor- tals so|sweet- ly can|kiss!|As be- fore her feet he|lay, She|
+"Cm" E/F/E/F/ G=A |"Gm"!mf! B4 |"Ab" d2 c2 |"Eb" B2 E/F/G/A/ |"Bb7"!>(! G2 F2!>)! |"Eb" E4 || %25
+w: thro' the love- be- wild- er'd|man,|And he|sigh'd as a hap- less|lov- er|can.|
+w: van- ish'd in the wood a-|way,|And he|call'd vain- ly till his|dy- ing|day.|
+"Eb"!p! B,2 EF |"Eb"!<(! G2 Bc!<)! |"Gm"!>(! d2 c>B!>)! |"Eb" G4 |"Bb7" F2 BG |"Bb7" F2 BG | %31
+w: "Vil- ia, O|Vil- ia! the|witch of the|wood!|Would I not|die for you,|
+w: ||||||
+"Cm" C2 D>B, |"Bb7" C4 |"Eb"!<(! B,2 EF!<)! |"Eb" G2"Cm" ee |"Gm" d2 BG |"Eb"!>(! B4!>)! | %37
+w: dear, if I|could!|Vil- ia, O|Vil- ia, my|love and my|bride!"|
+w: ||||||
+"Bb"!p! D2 EF |"F7" G2 c>F |"Bb7"!<(! B4-!<)! |!>(! B4!>)! |"Eb"!mf! B,2 EF |"Eb"!<(! G2 Bc!<)! | %43
+w: Soft- ly and|sad- ly he|sigh'd||"Vil- ia, O|Vil- ia, the|
+w: ||||||
+"Gm"!>(!!f! d2 c>B!>)! |"Eb" G4 |"Bb7"!f! F2 BG |"Bb7" F2 BG |"Cm" C2 D>B, |"Bb7" C4 | %49
+w: witch of the|wood!|Would I not|die for you,|dear, if I|could?|
+w: ||||||
+"Eb"!pp! B,2"^poco lento" EF |"Eb" G2"Cm" !fermata!ee |"Gm" d2 BG |"Bb7" B4 |"Fm""^rit." F2 B>G | %54
+w: Vil- ia, O|Vil- ia, my|love and my|bride!"|Soft- ly and|
+w: |||||
+"Bb7" F2 !fermata!G>D |1"Eb" E4-!D.C.! || E2 z2 ||2"Eb" E4 || z"Ab"!mf! F GA |"Eb"!>(! B4!>)! | %60
+w: sad- ly he|sigh'd||sigh'd|sad- ly he|sigh'd,|
+w: ||||||
+"Ab"!p! c2"Eb" e2 |"Eb" e4- | e4- | !fermata!e4 |] %64
+w: "Vil- ia.||||
+w: ||||
+

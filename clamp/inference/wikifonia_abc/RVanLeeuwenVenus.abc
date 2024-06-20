@@ -1,0 +1,37 @@
+X:1
+T:Venus
+T: 
+T:R Van Le euwen
+C:R Van Le euwen
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:Amin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"E7" [EBe]/[EBe]/[EBe]/[EBe]/ [EBe][EBe]/[EBe]/ [EBe]/[EBe]/[EBe]- [EBe]2 | %1
+w: |
+w: |
+ [EBe]/[EBe]/[EBe]/[EBe]/ [EBe][EBe]/[EBe]/ [EBe]/[EBe]/[EBe]- [EBe]2 |"Am" [CEA]4"D" [^FAd]4 | %3
+w: ||
+w: ||
+"Am" [CEA]4"D" [^FAd]4 :|"Am" A,A,CA,"D" z3 E ||"Am" ccBB"D" A A2 A- |"Am" A2 z2"D" z3 E | %7
+w: |* * * * A|god- ness on a moun- tain top|_ Was|
+w: |* * * * Her|wea- pon were her crys- tal eyes|_|
+"Am" ccBB"D" A ^F2 A- |"Am" A2 z2"D" z3 E |"Am" ccBA-"D" A A2 A- |"Am" A2 z2"D" z3 E | %11
+w: burn- ing like a silv- er flame,|_ sum-|mit of beau- ty _ & love,|_ &|
+w: Ma- king ev'- ry man _ mad|_ Black|as a dark night _ she was,|_ Got|
+"Am" ccBA"D" A2 z2 |"Am" z A,CD{/D}"D" _E{/D}ED A ||"Dm" dd z2"G" z4 |"Dm" z2 dc"G" d2 c2 | %15
+w: Ve- nus was her name.|* * * * * * She's|got it,|Yeah, ba- by, she's|
+w: what no one else had.||||
+"Am" AA z2"D" z4 |"Am" z6"D" A2 |:"F" z c- cA cc- c2 |"E" z B- BB BBBA |"Am" cAG"D"A- A2 z2 |1 %20
+w: got it.|Well,|you're _ my Ve- nus, _|& _ I'm your fi- re at|your de- si- re. _|
+w: |||||
+"Am" z6"D" A2 :|2 z4 z3 E |] %22
+w: Well,||
+w: ||
+

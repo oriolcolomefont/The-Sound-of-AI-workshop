@@ -1,0 +1,33 @@
+X:1
+T:In Derry Vale
+T:In Derry Vale
+T:Londonderry Air
+T:Traditional tune
+T:W.G. Rothery
+C:Traditional Irish air
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Db
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"G7""^Quietly" CDE |"C" F3"C" E"C" FB AF |"F" (ED) B,2 z D FG |"C" A3"C" B"C" A"D7"F"D7" DF | %4
+w: 1.In Der- ry|Vale, be- side the sing- ing|riv- * er, So oft I|stray'd, ah, man- y years a-|
+w: 2.In Der- ry|Vale, a- mid the Folye's dark|wa- * ters, The sal- mon|leap a- bove the surg- ing|
+"G" E4 z"G" C"G" DE |"C" F3"C" E"C" FB AF |"F" (ED) !breath!B, A, (B,C) (DE) | %7
+w: go, And cull'd at|morn the gold- en daf- fo-|dil- * lies That came * with *|
+w: weir, The sea- birds|call, I still can hear them|cal- * ling In night's * long *|
+"C" F3"G7" G"G7" (FE)(DE) |"C" (D4 D)"F" A"F" Bc |"C" d3"F" c"F" c"G7"B"G7" AF | %10
+w: spring to set the world a-|glow. * Oh, Der- ry|Vale, my tho'ts are ev- er|
+w: dreams of those * so *|dear. * Oh, tarry- ing|years, fly fast- er, ev- er|
+"C" (AF) D2 z"F" A"F" Bc |"C" d3"F" c"F" c"C"B"C" AF |"D7""G7" (E4"G7" E) A AA | %13
+w: turn- * ing To your broad|stream and fai- ry cir- cled|lea, * For your green|
+w: fast- * er, I long to|see the vale be- lov'd so|well, * I long to|
+"C""C7" f3"F" e"F" ed Bd |"C" (A"Am"F)"Am" !fermata!D2 z C DE | %15
+w: isles my ex- il'd heart is|yearn- * ing, So far a-|
+w: know that I am not for|got- * ten, And there at|
+"C" (FB)A"Dm" F"Dm" (E"G7"D)"G7"(B,C) |"C" (D4 !fermata!D) |] %17
+w: way * * a- cross * the *|sea. *|
+w: home- * * in peace * to *|dwell. *|
+

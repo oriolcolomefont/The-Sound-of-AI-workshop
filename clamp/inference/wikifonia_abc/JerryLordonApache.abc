@@ -1,0 +1,29 @@
+X:1
+T:Apache
+T:Apache
+T:Jerry Lordan
+C:Jerry Lordon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z/ z/"Am" A,CE A z z2 |"D" z ^FED"Am" E z z2 | z A,CA, A z z2 |"D" z ^FFD"Am" E z A2 | A4 E2 A2 | %5
+"D" ^F4 E2 D2 |"Am" E8 | C/B,/ A,4 z E2 | A4 E2 A2 |"D" ^F4 E2 D2 |"Am" E8 | C/B,/ A,4 z A2 | %12
+"Dm" d4 A2 d2 |"G" B4 A2 G2 |"Dm" A8 | F/E/ D4 z"E7" E2 |"Am" A4 E2 A2 |"D" ^F4 E2 D2 |"Am" E8 | %19
+ C/B,/ A,4 z z2 |"F" CF/F/FF CF/F/FF | CF/F/FF CF/F/FF |"Am" E4 CB, A,2 | e4 c/B/ A3 | %24
+"F" CF/F/FF CF/F/FF |"Am" E4 ^F/^G/ A3 | _B/=B/ c3 d/^d/ e3 |"F" F4 A2 c2 |"G7" B4 c2 d2 | %29
+ e"C" d2 c"Am" A4 | e4 c/B/ A3 |"F" F4 A2 c2 |"G7" B4 c2 d2 |"C" G4 _B/=B/ c3 | d/^d/ e3 f/^f/ g3 | %35
+"F" F4 A2 c2 |"G7" B4 c2 d2 |"C" e d2 c"Am" A4 | e4 c/B/ A3 |"F" CF/F/FF CF/F/FF | %40
+"Am" E4 C/B,/ A,3 | e4 c/B/ A3 |"F" CF/F/FF CF/F/FF | CF/F/FF CF/F/FF |"Am" E6 E2 | A,6 E2 |: %46
+"Am" AA/AAEEAE z/ |"D" ^FF/FFEEDD z/ |"Am" AA/AA G4 z/ | A,2 A,2 z2 E2 :| A,2 A,2 z2 A2 | %51
+"Dm" dd/dd z AAdA/ |"G" BB/BBAAGG z/ |"Dm" dddd A4 | D2 D2 A,2 E2 |"Am" AA/AAEEEAE/ | %56
+"D" FF/FFEEDD z/ |"Am" AA/AA E4 z/ | A,2 z2 A,4 |"F" F4 A2 c2 |"G7" B4 c2 d2 |"C" e d2"Am" c A4 | %62
+ e4 c/B/ A3 |"F" F4 A2 c2 |"G7" B4 c2 d2 |"C" G4 _B/=B/ c3 | d/^d/ e3 f/^f/ g3 |"F" F4 A2 c2 | %68
+"G7" B4 c2 d2 | e d2 c A4 |"C" e4 c/"Am"B/ A3 |"F" CF/F/FF CF/F/FF | CF/F/FF CF/F/FF | %73
+"Am" E4 C/B,/ A,3 | e4 c/B/ A3 |"F" CF/F/FF CF/F/FF | CF/F/FF CF/F/FF |"Am" E4 ^F/G/ A3 | %78
+ _B/=B/ c3 d/^d/ e3 | z A,CE A z z2 | z"D" ^FED"Am" E z z2 | z A,CE A z z2 |"D" ^FED"Am"E z4 | %83
+"D" D^f/ed"Am"eAAA z/ |"D" D^f e/d"Am"a z/ de z | GAEE A, z a z | z8 |] %87
+

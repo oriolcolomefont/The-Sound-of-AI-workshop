@@ -1,0 +1,30 @@
+X:1
+T:Love Is Blue
+T:Love Is Blue
+C:Andre Popp
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" B4"A7" A3 G |"D" F2 E2"G" D4 |"Em" E2 GF"C" G3 E |"D" DE D2"G" B,4 |"Em" B4"A7" A3 G | %5
+w: Blue, blue, my|world is blue,|Blue is the world now|I'm with- out you.|Grey, grey, my|
+"D" F2 E2"G" D4 |"Em" E2 GF"C" G3 E |"B7" ^D^C D2"Em" E4- | E6 z2 | B4"A7" A3 G |"D" F2 E2"G" D4 | %11
+w: life is grey,|Cold is my heart since|you went a- way.|_|Red, red, my|eyes are red,|
+"Em" E2 GF"C" G3 E |"D" DE D2"G" B,4 |"Em" B4"A7" A3 G |"D" F2 E2"G" D4 |"Em" E2 GF"C" G3 E | %16
+w: Cry- ing for you a-|lone in my bed.|Green, green, my|jeal- ous heart,|I doubt- ed you and|
+"B7" ^D^C D2"Em" E4- | E6 z2 |"E" ^G4"F#m7" A4 |"E" B6 ^GE |"A" E4 ^c4 |"E" B8 | %22
+w: dnow we're a- part.|_|When we|met, how the|bright sun|shone.|
+"G#m" ^G4"G#m6" B4 |"A6" F6 ^GA |"B7sus4""B7" A6 F^D |"E" E6 z2 ||"Em" B4"A7" A3 G | %27
+w: Then love|died, now the|rain- bow is|gone.|Black, black, the|
+"D" F2 E2"G" D4 |"Em" E2 GF"C" G3 E |"D" DE D2"G" B,4 |"Em" B4"A7" A3 G |"D" F2 E2"G" D4 | %32
+w: nights I've known,|long- ing for you So|lost and a- lone.|Gone, gone the|love we knew,|
+"Em" E2 GF"C" G3 E |"B7" ^D^C D2"E" E4- |"B7" E6 z2 :|"B7" ^D^C D2"E" E4- | %36
+w: Blue is my world now|I'm with- out you.|_|I'm with- out you.|
+"F#m7""E" !fermata!E6 z2 |] %37
+w: _|
+

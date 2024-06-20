@@ -1,0 +1,31 @@
+X:1
+T:Another town, another train
+T:Another town, another train
+T:Benny Anderson, Bjorn Ulvaeus
+C:Benny Anderson, Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" C F2 F- FAGA- |"C" A c2 c- c2 z2 |"F" A c2 c- c e2 e- |"A7" e e2 f-"Dm" f c2 d- |"Bb" d6 dd |1 %5
+w: Day is dawn * ing and I|* must go *|you're a sleep * but still|* I'm sure * you'll know|* why it|
+w: You and I * had a groo|* vy time *|but I told * you some|* where down * the line|* you would|
+"F" d c2 c- c A2 G- ||"Gm" G8- |"C7" G z z2 z4 :|2"F" d c2 c- c A2 B- ||"Gm" B6 dd | %10
+w: had to end * this way|||wake and find * me gone|* I just|
+w: |||||
+"D7" d c2 c- c A2 G- |"Gm" G8 |"C7" z4 z2 FG ||"F" A c2 c- c3 c |"Bb" d f2 f- f4 | %15
+w: have to move * a- long||just an-|oth- er town * an-|oth- er train *|
+w: ||just an-|oth- er town * an|oth- er train *|
+ f f2 f- f e2 d- |"F" d c2 c- c4 |"Bb" ffff- f e2 d- || dded- d c2 A- | %19
+w: wait- ing in * the morn|* in rain *|Lord give me rest * less soul|* a lit * * tle pa-|
+w: noth- ing lost * and noth|* ing gained *|guess I will spend * my life|* in * rail * way sta-|
+"F" A"^Return""^D.S.alCoda""^ToCoda" d3 A3"^to" c | z4 z2 FG ||"^Coda" z8 |:"C" gggg- g f2 f- | %23
+w: tience * * *|just an||guess I will spend * my life|
+w: tion * * *||||
+ f e2 d- d c2 B- |"F" B A3- A4- | A8 :| %26
+w: * in rail- * way sta-|* tion *||
+w: |||
+

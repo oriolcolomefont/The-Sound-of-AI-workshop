@@ -1,0 +1,40 @@
+X:1
+T:Little Town in the ould County Down
+T:Little Town in the ould County Down
+T:M.Carlo & A.M.Sanders
+T:R.W.Pascoe
+C:M.carlo & A.M.Sanders
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3 z2 A/G/ |"F" F>GA"Am" c>Ac |"Dm" d A2-"F7" AAG |"Bb" FDD"C9" DCD |"F" F3- F2"C7" A/G/ | %5
+w: 1.Sure if|I had the wings of a|swal- low * I would|tra- vel far o- ver the|sea, * Then a|
+w: In the|eve- ning when shad- ows are|fall- ing, * Round the|ould door with- out an- y|key, * There's a|
+"F" F>GA"Am" cAc |"Dm" d A2- A2 A/=B/ |"Am" c>AA"G9" AGA |"Csus4" G3-"C7" GBc | d>^cd G2 B | %10
+w: rock- y ould road I would|fol- low * To a|spot that is Heav- en to|me. * When the|sun goes to rest, 'way|
+w: voice in my dreams ev- er|call- ing, * There are|eyes ev- er watch- ing for|me; * There is|some- one I bless with|
+"F" c>=Bc F2 G/A/ |"Gm7" B>AB DEF |"G9" A>FA"C7" c3 ||[M:3/4] z4 cd |:"Fmaj7" e4 dc |"F7" A4 GF | %16
+w: down in the west, Then I'll|build such a nest, in the|place I love best:|In that|dear lit- tle|town in the|
+w: true ten- der- ness, And her|lips I'll ca- ress when I|bring hap- pi ness:||||
+"Bb" G2 F2 D2 |"F" F4 cd |"Fmaj7" e4 dc |"G9" A4 GA |"Gm7" G6- |"C7" G4 Bc |"Gm7" d2 G2"Gm7b5" G2 | %23
+w: ould Coun- ty|Down, It will|lin- ger way|down in my|heart|* Tho' it|nev- er was|
+w: |||||||
+"C7" G4 AB |"F" c2"Gm7" F2"Abdim" F2 |"F" F4 A_A |"C" G2 c2 e2 |"D7" d2"Ab7" c2"G7" d2 |"C7" c6- | %29
+w: grand, it is|my fai- ry|land, Just a|won- der- ful|world set a-|part.|
+w: ||||||
+ c4 cd |"F" e4 dc |"F7" A4 GF |"Bb" G2 F2 D2 |"Bbm" F4 FG |"F" A2 G2 F2 | %35
+w: * Oh, my|Ire- land of|dreams, you are|with me, it|seems, And I|care not for|
+w: ||||||
+"F7" A2"Bbsus4" B2"F7" c2 |"Bb" d6- |"D7" d4 de |"Bbm" f2 e2 d2 |"G9" f4 ed |"F" c2"C+" E2"F" F2 | %41
+w: fame, or re-|nown,|* Like the|black- sheep of|old, I'll come|back to the|
+w: ||||||
+"D7" B4 Ad |"G9" A4 GA |"C7" c2 A2 G2 |1"F" F6- || F2 z2 cd :|2"F" F6- || F4 z2 |] %48
+w: fold, Lit- tle|town in the|ould Coun- ty|Down!|* In the|Down-|.|
+w: |||||||
+

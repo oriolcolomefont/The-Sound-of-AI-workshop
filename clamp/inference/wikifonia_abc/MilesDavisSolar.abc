@@ -1,0 +1,19 @@
+X:1
+T:Solar
+T:Solar
+T:Miles Davis
+C:Miles Davis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Alto Saxophone"
+%%MIDI program 5
+V:1
+|:"^Cm^" z2 z c .=B2 dc | z G3- G3 A |"Cm7" .B2 B2 =A2 cB- |"Gm7" B4"C7" z4 |"F" z2 z =A .^G2 BA | %5
+ z C3 F3 G |"Fm7" .A2 A2 G2 BA- |"Bb7" A4 z4 |"Eb" z G FE D2 .C2 |"Ebm7" ._G2 FE"Ab7" _D2 .C2 | %10
+"Db" F4 z4 |"^Dm7(b5)" z D D=E"G7" FGAB ||"^Cm^" =B2 c2 d3 c | =AA- A4 GA |"Cm7" .B2 B2 =A2 cB- | %15
+"Gm7" B4"C7" z4 |"F" z2 z =A .^G2 BA | z C3 F3 G |"Fm7" .A2 A2 G2 BA- |"Bb7" A4 z4 | %20
+"Eb" z G FE D2 .C2 |"Ebm7" ._G2 FE"Ab7" _D2 .C2 |"Db" F4 z4 |"^Dm7(b5)" z D D=E"G7" FGAB :| %24
+"Cm69""^ending" =B2 c2 d3 c | =AA- A6- | A8- | A8 |] %28
+

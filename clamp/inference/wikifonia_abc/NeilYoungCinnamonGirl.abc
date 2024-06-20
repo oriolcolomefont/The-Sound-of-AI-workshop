@@ -1,0 +1,33 @@
+X:1
+T:Cinnamon Girl
+T:Cinnamon Girl
+T:Neil Young
+T: D                                             Am                                     C
+C:Neil Young
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|: z fff f2 ff | e^dec- c4 | eeee- e e2 e | %3
+w: I'm gon na live with the|Cin na mon Girl *|I can be hap * py the|
+"^G                                                                                                             D" dddd- d2 GG | %4
+w: rest of my life * with the|
+"^Tin  sel    and  sax	  es    the    place with the   bow                  drum mer re  lax        es       and" ADDA- A4 | %5
+w: Cin na mon Girl *|
+ z4 z2 z f | ffff- f f2 f | %7
+w: A|dream er of pic * tures I|
+"^waits  be tween shows     for   the    Cin  na  mon  Girl""^Am                                C                                  G" e^dec- c3 e | %8
+w: run in the night * You|
+ eeee- e e3 | dddd- d B2 G | ADDA- A4 | z8 :|"^C" e2 e^d e2 de- | e^ded e=dce- | e^ded e2 e=f- | %15
+w: see us to geth er *|chas ing the moon * light my|Cin na mon Girl *||Boss sent no mon ey, now|* I'm gon na make it some how|* I need an oth er chance|
+"^Gm7                                                                      A" f6 z =f | %16
+w: * you|
+ =fefe f2 fg- | g3 e- e3 e- | e3 e- e2 z2 |] %19
+w: see your ba by loves to dance|* yeah * yeah|* yeah *|
+

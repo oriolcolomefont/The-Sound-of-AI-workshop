@@ -1,0 +1,29 @@
+X:1
+T:The Birthday of a King
+T:The Birthday of a King
+T:William H. Neidlinger, 1900
+T:Larry Johnson
+C:William H. Neidlinger 1900
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Moderately" z6 D>D |"C" E2 E2"D7" F G2 A |"G" G3 D D2 E2 |"D7" C3 C D2 A,2 |"G" D6 D>D | %5
+w: In the|lit tle vil liage of|Beth le hem there|lay a Child one|day and the|
+"A" E3 F G2 BB | ^c3 B"D" A2 DD |"A7" A,2 F2 B,2 E2 |"D7" D6 D>D | c2 c3 c BA |"G" B3 G D2 G>A | %11
+w: sky was bright with a|ho ly light o'er the|place where Je sus|lay Al le|lu ia oh how the|ang els sang al le|
+"Em" B2 B4"A7" ^c>c |"D" d6 c>c |"B" B3 A"Em" G2"C#m7b5" e>e |"Bb" d3"D7" c"G" !fermata!B2"Em" GA | %15
+w: lu ia how it|rang and the|sky was bright with a|ho ly light 'twas the|
+"G/D" B2 B4"D7" A>G |"G" G6 D>D |"C" E2 E2"D7" F G2 A |"G" G3 D D2 E2 |"D7" C3 C D2 A,2 | %20
+w: birth day of a|King 'Twas a|hum ble birth place but|oh how much God|gave to us that|
+"G" D6 D>D |"A" E3 F G2 BB | ^c3 B"D" A2 DD |"A7" A,2 F2 B,2 E2 |"D7" D6 D>D | c2 c3 c BA | %26
+w: day from the|man ger bet what a|path has led what a|per fect ho ly|way Al le|lu ia oh how the|
+"G" B3 G D2 G>A |"Em" B2 B4"A7" ^c>c |"D" d6 c>c |"B" B3 A"Em" G2"C#m7b5" e>e | %30
+w: ang els sang al le|lu ia how it|rang and the|sky was bright with a|
+"Bb" d3"D7" c"G" !fermata!B2"Em" GA |"G/D" B2 B4"D7" A>G |"G" G8 |] %33
+w: ho ly light 'twas the|birth day of a|King|
+

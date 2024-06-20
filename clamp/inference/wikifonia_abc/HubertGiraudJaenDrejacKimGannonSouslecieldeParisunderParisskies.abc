@@ -1,0 +1,57 @@
+X:1
+T:Sous le ciel de Paris (under Paris skies)
+T:SOUS LE CIEL DE PARIS
+T:UNDER PARIS SKIES
+T:Hiubert Giraud
+T:Jaen Drejac, Kim Gannon
+C:Hubert Giraud
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"^N.C." F/G/ F/=E/ F/G/ | A/B/ A/G/ A/B/ | c B A | G =E D ||"Fm" C F G | A2 B | c B A | G F E | %8
+w: ||||Sous le ciel|de Par-|is s'en vole|u- ne chan-|
+w: ||||Stran- ger be-|ware, there's|love in the|air un- der|
+"Bbm7" D3 | c3 |"Bbm6" B3- |"Bbm7" B2 z |"C7" C =E F | G2 A | B d c | B A G |"Fm" F3- |"Bbm" F3- | %18
+w: son|Hum|||Elle est née|dau jour-|d'hui dans le|coeur d'un gar-|çon|_|
+w: Par-|is|skies|_|Try to be|smart and|don't let your|haert catch on|fire|_|
+"Fm" F3 |"C7" z3 |"Fm" C F G | A2 B | c B A | G F E |"Bbm7" D3 | c3 |"Bbm6" B3- |"Bbm7" B2 z | %28
+w: ||Sous le ciel|de Par-|is march- ent|les a- mou-|reux|hum|hum|_|
+w: ||Love be- comes|king, the|mo- ment it's|spring, in- der|Par-|is|skies|_|
+"C7" C =E F | G2 A | B d c | B A G |"Fm" F3- |"Bbm7" F3- |"Fm" F2 z | G A G |"Bbm7" F3 | F3 | F3 | %39
+w: Leur bon- heur|se cons-|truit sur un|air fait pour|eux|_||Sous le pont|de|Ber-|cy|
+w: Lone- ly haerts|meet some-|where on the|street of de-|sire|_||Pa- ri- sian|love|can|bloom,|
+"Eb7" G A G |"Ab6" F3 | F3 | F3 |"^Ab7M" G A G |"Db" F2 G |"Bbm7" A2 B |"Bbm6" c d e | d c B | %48
+w: Un phi- lo-|sophe|as-|sis,|Deux mu- si-|ciens quel-|ques ba-|dauds puis les|gens par mil-|
+w: High in a|sky-|light|room,|Or in a|gay ca-|fé where|hun- dreds of|peo- ple can|
+"C" c3- |"C7" c3- |"Fm" c3- |"C7" c z z |"Fm" C F G | A2 B | c B A | G F E |"Bbm7" D3 | c3 | %58
+w: liers|_|||Sous le ciel|de Par-|is jus qua'au|soir vont chant-|er|hum|
+w: see.|_|||I was- n't|smart and|I lost my|haert un- der|Par-|is|
+"Bbm6" B3- |"Bbm7" B2 z |"C7" C =E F | G2 A | B d c | B =A G |"F" =A3- | A3- | A"^(tacet)" z c | %67
+w: hum|_|L'hym- ne d'un|peuple é-|pris de sa|viel- le ci-|te|_|* Pres|
+w: skies|_|Don't ev- er|be a|haert bro- ken|strang- er like|me.|_|* Oh,|
+ c =A F |"^F7M" =E3- | E3- |"F7" E"^(tacet)" z c | c =A F |"Cm7" _E3- | E3- |"F7" E"^(tacet)" z c | %75
+w: de No- tre|Da-|me|_ Par-|fois couve un|dra-|me,|_ Oui|
+w: I fell in|love,|_|* Yes|I was a|fool,|_|* For|
+ c =A F |"Bb" =D3- | D3- | D"^(tacet)" z B | B F =D |"Bbm" _D3- | D3- |"Bbm6" D3 | %83
+w: mais à Pa-|na-|me|_ Tout|peut s'ar- ran-|ger|_||
+w: Par- is can|be|_|* so|beau- ti- f'ly|cruel|_||
+"^(tacet)" F _E _D |"F" C2 C |"A7" ^C2 C |"Dm" =D2 D |"A7" =E2 E |"Dm" F2 F |"C7" G2 G |"F" =A2 z | %91
+w: Quel que ra-|yos du|ciel d'e-|té l'ac-|cor- dé-|on d'un|ma- ri-|nier|
+w: Par- is is|just a|gay co-|quette, who|wants to|love and|then for-|get.|
+"Gm7" B =A B |"F" c3- | c3- |"^F#°" c z"^(tacet)" c | =d B G |"C" c3- |"C7" c3- |"Fm" c3- | %99
+w: l'es- poir fleu-|rit|_|* Au|ciel de Pa-|ris|_||
+w: Stran- ger de-|ware,|_|* there's|love in the|air|_||
+"C7" c2 z |"Fm" C F G | A2 B | c B A | G F E |"Bbm7" D3 | c3 |"Bbm6" B3- |"Bbm7" B2 z | %108
+w: |Mais le ciel|de Par-|is n'est pas|long temps cru-|el|hum|hum|_|
+w: |Just look and|see what|hap- pend to|me un- der|Par-|is|skies|_|
+"C7" C =E F | G2 A | B"^rall." d c | B A G |"Fm" F3- | F3- | F3- | F3- |"Bbm7" F z z |"C7" C z z | %118
+w: Pour se fair'|par- don-|ner il offre|un arc en|ciel|_|||||
+w: Watch what you|do, the|same thing can|hap- pen to|you|_|||||
+"Fm" F, z z |] %119
+w: |
+w: |
+

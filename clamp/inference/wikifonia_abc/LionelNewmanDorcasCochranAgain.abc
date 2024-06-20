@@ -1,0 +1,32 @@
+X:1
+T:Again
+T:Again
+C:Lionel Newman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |:"G""Em7" G8 |"Am7" z E- (3EFG"D7b9" A B2 d |"Gmaj7""Bm" F8 |"Am7" z EFG"D9" A2- (3AFA | %5
+w: A-|gain,|This _ could n't hap- pen a-|gain,|This is that once _ in a|
+"G" E D3-"G#dim7" D4 |"Am7" (3C2 D2 C2"D7b9" E3 D |"G""Em7" B,8 |"Am7" z4 z2"D9" z D |"G""Em7" G8 | %10
+w: life- time _|This is that thrill di-|vine.|What's|more,|
+"Am7" z E- (3EFG"D7b9" A B2 d |"Gmaj7""Bm" F8 |"Am7" z EFG"D9" A2- (3AFA |"G" E D3-"G#dim7" D4 | %14
+w: This _ nev er hap- pened be-|fore,|Though I have prayed _ for a|life- time _|
+"Am7" (3C2 D2 C2"D7b9" E3 D |"G" B3 B"G+" B3 B |"G6""G7" B8 |"C" B2 d2"C6" c2- (3cGA | %18
+w: That such as you could|sud- den- ly be|mine.|Mine to hold _ as I'm|
+"Eb9" (3_B2 B2 B2"D7b9" B3 A |"G" G4"Gmaj7" (3F2 D2 B,2 |"G9" =F8 |"C" B2 d2"C6" c2- (3cGA | %22
+w: hold- ing you now, and|yet, nev- er so|near,|Mine to have _ when the|
+"Eb9" (3_B2 B2 B2 _e2- (3eBc |"Am7""D7" d8 |"Am7" c2 Bc"D7b9" B3 A |"G""Em7" G8 | %26
+w: now and the here _ dis a-|pear,|What mat- ters, dear, for|when,|
+"Am7" z E- (3EFG"D7b9" A B2 d |"Gmaj7""Bm" F8 |"Am7" z EFG"D9" A2- (3AFA |"G" E D3-"G#dim" D4 | %30
+w: This _ does n't hap- pen a-|gain|We'll have this mo- * ment for|ev- er, _|
+"Am7" z CD_E"D+" _B"D7" B2 D |1"G""Em7" G8 |"Am7" z4 z2"D9" z D :|2"G""Em7" G8- | %34
+w: But, nev- er, nev- er a-|gain.|A-|gain.-|
+"Am7""Abmaj7""G6" G6 z2 |] %35
+w: |
+

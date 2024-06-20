@@ -1,0 +1,30 @@
+X:1
+T:Don't It Make My Brown Eyes Blue
+T:Don't It Make My Brown Eyes Blue
+C:Richard Leigh
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z2 z G/A/"Am" c4 |"Dm7" z Gcc"G7" (3(AGE G2) |"C" z2 z G/A/"Am7" A3 E | %3
+w: Don't know when|I've been so blue, _ _ _|don't know what's come|
+"Bm7b5" D E2"E7" (E2 D3) |"Am" z C2 D"C" E c2 c- |"D7/F#" c6"D7" z A |"F" c>cA>"Em7"G G E3 | %7
+w: o- ver you, _|you've found some- one new|_ and|Don't it make my brown eyes|
+"F" (E/F/E/D/- D4)"G7" z2 |"C" z2 z G/A/"Am" c4 |"Dm7" z2 cc"G7" (3(AGE G2) | %10
+w: blue _ _ _ _|I'll be fine|when you're gone, _ _ _|
+"C" z2 z G/A/"Am7" A4 |"Bm7b5" D E2"E7" (E2 D3) |"Am" z C2 D"C" E c2 c- |"D7/F#" c6"D7" z A | %14
+w: I'll just cry|all night long, *|say it is- n't true|_ and|
+"F" c>cA>G"F/G" c c3 |"C" c8 |"Am" z cc"Em7"c (B/A/ G3) |"F" z AGG"C" G4 | %18
+w: don't it make my brown eyes|blue.|Tell me no sec- * crets,|tell me some lies,|
+"Am" z ccc"Em7" (B/A/)G-GE/G/ |"F" z A2 G"C" G4 |"Am" z cc"Em7"d BGGc- |"F" c2 AG"C" (E/D/ C3) | %22
+w: give me no rea- * sons, _ give me|al- i- bies.|Tell me you love me and don't|_ let me cry, _ _|
+"Dm7" z D2 D/D/"Em" E3 C |"F" FFGG- G4 |"C" z2 GG/A/"Am" c4 |"Dm7" z Gcc"G7" (3(AGE G2) | %26
+w: say an- y- thing but|don't say good- bye. _|I did- n't mean|to treat you bad, _ _ _|
+"C" z2 z G/A/"Am7" A3 E |"Bm7b5" D E2"E7" (E2 D3) |"Am" z CCD"C" E c2 c- |"D7/F#" c6"D7" z A | %30
+w: did- n't know just|what I had _|but hon- ey now I do|_ and|
+"F" c>cA>G"F/G" c c3 |"C" c8 |] %32
+w: don't it make my brown eyes|blue.|
+

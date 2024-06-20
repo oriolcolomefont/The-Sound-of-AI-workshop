@@ -1,0 +1,27 @@
+X:1
+T:Hey Baby
+T:Hey Baby
+T:Cobb and Chanel
+C:Margaret Cobb, Bruce Channel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 4
+V:1
+"D""^Chorus" A8- |"G" A4 B"A" F2 A- |"D" A2 B2"Bm" A4 |"G" A4 F"A"GFA |"D" A2 FE"Bm" D2 FE | %5
+w: Hey|* hey * ba|* by Ooo|ah I want to know|* * * * kn- ow|
+"G" D2 DD"A" F F2 D- |"D" D2"Bm" z2 z4 |"G" z8 :|"D""D""^To bridge" z8 | z8 || %10
+w: * if you'll be my girl|||||
+"G" z2"^Verse" DB, DB,DB, | D2 B,E- E2 z2 |"D" BAAF AFAB- | BAFA- AB z2 |"G" =F2 E2 DB, z2 | %15
+w: When I saw you walk- ing|down the street *|I said that's the kind of girl I'd|* like to meet * *|She's so pret- ty|
+ =F2 E2 DB, z2 | z"A" AAA A A2 B- | B2"^Return to Chorus" FA- A z z2 || %18
+w: she's so fine *|I'm gon- na make her mine,|* oh mine *|
+"B7" z2"^Bridge" ^D=D D2 D2 | F ^D2 B,- B,2 z2 |"E" z2 ^G2 G4 | B^GFE- E2 z2 |"A" z AAF AFAF | %23
+w: When you turn and|walk a- say *|that's when|I want to say *|come on * ba- by gi- ve|
+ A A2 B- B2 A2 |"D" z FFE F2 z D | F E2 F- F F2 z |"B7" z2 ^D=D D2 D2 | F ^D2 B,- B,2 z2 | %28
+w: me a whirl * *|I want to know I|want to know- ow- ow|when you turn and|walk a- way *|
+"E" z2 ^G2 G4 | B^GFE- E2 z2 |"A" z AAF AAAF | A A2 B- B2 z2 |"D" z ABA BABA | d A2 D- D2 z2 |] %34
+w: thats when|I want to say *|come on * ba- by gi- ve|me a whirl *|I want to know * if you'll|be my girl *|
+

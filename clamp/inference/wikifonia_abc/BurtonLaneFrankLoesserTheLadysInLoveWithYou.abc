@@ -1,0 +1,34 @@
+X:1
+T:The Lady's In Love With You
+T:The Lady's In Love With You
+T:Burton Lane
+T:Frank Loesser
+C:Burton Lane
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^Verse" B, D"Em" G B | B"C" G E"D9" C |"G""Dm""E7" B,4- |"A9" B,3"D7" z |"G" B, D"Em" G B | %5
+w: Have you ev- er|seen the dawn of|love?||Lit- tle things that|
+ B"C" G"D9" E C |"Dm" B,4- | B,3"E7" z |"C" C E/>G/ B B |"Am" B A"B7" c B |"Em" G2 G2- | G4 | %12
+w: mean the dawn of|love?||Why wait for her to|say that she a-|dores you?||
+"A7" A/A/A/A/ A A- | A4 |"D+" ^A/A/A/A/ A A- | A/"^tacet" B3/2 B B |:"A9""^Chorus" B G G G- | %17
+w: Long be- fore the first kiss||Have you ev- er seen this?|* If there's a|gleam in her eye|
+ G/ G3/2 G G |"Am7" G"D9" E E E- | E/ E3/2 E E |"G" E B, B, B,- | B,2"Dmaj7#5" F2 |"G""D+9" E4 | %23
+w: * each time she|straight- ens your tie,|* You'll know the|la- dy's in love|* with|you.|
+"G" E/"^tacet" B3/2 B B |"A9" B G G G- | G/ G3/2 G G |"Am7" G"D9" E E E- | E/ E3/2 E E | %28
+w: * If she can|dress for a date|* with- out that|wait- ing you hate|* It means the|
+"G" E B, B, B,- | B,2"Dmaj7#5" F2 |"G""D+9" E4- |"G" E/ d3/2 d d |"G7" d2 A B | %33
+w: la- dy's in love|* with|you.|* And when your|friends ask you|
+"Dm7" (3c d c"G7" B G |"Dm7" A2"G7" A2- | A2 B2 |"C" d2 A B | (3c d c B G |"Cm" A4- | %39
+w: o- ver to join their|ta- ble|* But|she picks that|far a- way booth for|two,|
+ A/"^tacet" B3/2 B B |"A9" B G G G- | G/ G3/2 G G |"Am7" G"D9" E E E- | E/"E7" E3/2"Bm7" E"E7" E | %44
+w: * Well, sir, here's|just how it stands,|* you've got ro-|mance on your hands.|* Be- cause the|
+"Am" D B, C"Am7" A- | A2"D7" B2 |1"G" G4- || G/"^tacet" B3/2 B B :|2"G" G4- || G2- G/ z/ z |] %50
+w: la- dy's in love|* with|you.|* If there's a|you.-||
+

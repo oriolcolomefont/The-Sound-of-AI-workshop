@@ -1,0 +1,18 @@
+X:1
+T:Caresse sur l'océan
+T:Caresse sur l'océan
+T:Bruno Coulais
+C:Bruno Coulais
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z6 | A6 | cB c2 GF |[M:4/4] G8 |[M:3/4] G6 | BA G2 FE | F6 | D3 E FG | F4 ED | G6 | A6 | %11
+ cB c2 GF |[M:4/4] G8 |[M:3/4] d6 | cB A2 GF | d2 (D4 | D2) DF GF |[M:4/4] A4 G4 | DEFE FEFG | %19
+ FEFE EFGA | AGAG AGAc | GFGF AGAG |1 d4 B4 | G4 z4 :|2 d4 f2 ed | cBcd A4 | G4 (F4 | F4) z4 |] %28
+

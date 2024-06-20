@@ -1,0 +1,42 @@
+X:1
+T:Granada
+T:Granada
+T:Music by: Agustin Lara Arr: Wim Alderding
+T:gedragen spelen
+T:Granada
+T:2
+C:Agustin Lara
+Z:All Rights Reserved
+L:1/4
+Q:1/4=140
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 11
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z3/2 E/ |"Am" [CEA]2 G2 |"Am" [CEG] E C D |"Am" E/ G F/ ([A,CE]2 |"Am" [A,CE]3) E/E/ | %5
+"Am" [CEA]3/2 A/ B B/B/ |"Am" G/G/G/G/ A A/A/ |"Am" ([A,CE]4 |"Am" [A,CE]3) E/^G/ | %9
+"E" [E^GB]2 B/B/B/B/ |"F" c d"E" (3(c/4d/4)c/4B/ B |"E" [^GB]3 E/G/ |"E" ([E^GB]2 B/)B/B/c/ | %13
+"F" B/B/ (c c/)c/c/c/ |[M:3/4]"F" !fermata!f c A |[M:4/4]"E" [^Ge]/(3E/4G/4B/4 e/e/ z/ e/z/e/ | %16
+"Dm7" f"G7" g z E |:"C""^a tempo rumba" ([EG] G2) G |"C6" ([FA] A2) A |"Em" ([GB] B2) B | %20
+"C" [Ac]"Cmaj9" [Bd]2"Ebdim" [GB] |"Dm7" (3A/4B/4A/4"G7" ([B,DG]3/2 ([B,DG]2) |"G7" ([B,DG]4) | %23
+"G7" ([B,DG]4) |"G7" G2) D z |"G7" [DFG] G2 [DFG] |"G9" [DFA] A2 [DFA] |"G7" [DFB] B2 [DFB] | %28
+"Dm7" [FGc]"G7" d2 [FGB] |"C" (c/4d/4)c/4B/4"C6" A ([CEA]2 |"C6" ([CEA]4) |"C6" ([CEA]4) | %32
+"C6" [CEA]2) z E |"C" [EG] G2 G |"C6" A A2 A |"Em" [EGB] B2 [EGB] |"C" [EGc] d2 [EGc] | %37
+"Em" e/d/4c/4 ([EGB]3 |"Em" ([EGB]4) |"Em" ([EGB]4) |"Em" [EGB]2) z B | %41
+"B7" [_EB] [E^F]2"B+7" [EG] |"B7" [_EA] [EB]2 [Ed] |"C" (3(c/4d/4)c/4(B/"Em" [EGB]2) B | %44
+"Em" B"C" c2"Em" B |"B7" [_EB] [E^F]2"B+7" [EG] |"B7" [_EA] [E^F]2"B+7" [EG] |"Em" E2"B7" ^D E | %48
+"G7" ([B,DG]4 |"G7" [B,DG]2) z E |"C" [EG] [EG]2 [EG] |"C6" [CEA] [EGA]2 [EGA] | %52
+"Em" [EGB] [EGB]2 [EGB] |"C" [_Ec]"Cmaj7" [Ed]2"Ebdim" [EB] | %54
+"Dm7" (3(A/4B/4)A/4"G7" G3/2 ([B,DG]2 |"G7" ([B,DG]4) |"G7" ([B,DG]4) |"G7" [B,DG]2) D z | %58
+"G7" [DFG] [DFG]2 [DFG] |"G9" [DFA] [DFA]2 [DFA] |"G7" [FGB] [FGB]2 [FGB] |"Dm7" c"G7" d2 B | %62
+"C" (c/4d/4)c/4B/4"C6" (A ([CEA]2) |"C6" ([CEA]4) |"C6" ([CEA]4) |"C6" [CEA]2) z G | %66
+"C" [EGc] [EGc]2 c |"C7" [EG_B] [EGB]2 B |"F" [FA] [FA]2 A |"Fm" [DF_A] [DFA]2 [DFA] | %70
+"C" [EG] [EG]2 [EG] |"Fm6" [_A,F] [A,F]2 [A,F] |"C" E/F/ ([CEG]3 |"C" [CEG]2) z G | %74
+"Fm" [F_Ac] [FAc]2 [FAc] |"Fm" [F_Ad] [FAc]2 [FAd] |"C" e/d/ [EGc]2 B | %77
+"C" [^Fd] [Fc]2"Ebdim" [FAc] |"G7" B/A/ [B,DG]2 [B,DG] |"G7" [DFA] G2"G+9" [DFA] | %80
+"C" ([EGc]3"Fm" ([F_Ac]) |"C" ([EGc]3)"Fm" [F_Ac]) |"C" (([EGc]4 |"C" [EGc]2)) z E :|2 %84
+"C" (([EGce]4 ||"C" [EGce])) z/ G/ C3/2 z/ |] %86
+

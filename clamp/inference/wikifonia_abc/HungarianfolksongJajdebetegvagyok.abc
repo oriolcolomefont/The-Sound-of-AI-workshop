@@ -1,0 +1,13 @@
+X:1
+T:Jaj, de beteg vagyok
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C3 D E F3 | C4 C2 z2 | G2 A2 B c3 | G4 G2 z2 | G2 A2 B c3 | GAGF ECDE | F2 A2 G2 D2 | C4 C2 z2 |] %8
+w: Jaj, de be- teg|va- gyok,|Ta- lán meg is|ha- lok,|Ta- lán bi- zony|a sze- re- tőm é- des- any- ja|en- gem meg- át-|ko- zott.-|
+

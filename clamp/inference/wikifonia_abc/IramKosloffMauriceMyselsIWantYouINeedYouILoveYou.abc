@@ -1,0 +1,30 @@
+X:1
+T:I Want You, I Need You, I Love You
+T:I want you, I need you, I love you
+T:Ira Kosloff
+T:Maurice Mysels
+C:Iram Kosloff
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" GA | G2- (3GED"Am" C2- (3CAB |"Dm" A2- (3AFE"G7" D2- (3DBc |"C" B2- (3BGF"C7" E2- (3EDC | %4
+w: Hold me|close * hold me tight * make me|thrill * with de- light * let me|know * where I stand * from the|
+"F" c4- c3 B |"C" d c2 B"E7" d c2 E |"A7" _B A3- A3 F |"D7" e6 A2 |"Fm" d6"G7" GA | %9
+w: start * I|want you I need you I|love you * with|all my|heart ev- 'ry|
+"C" G2- (3GED"Am" C2- (3CAB |"Dm" A2- (3AFE"G7" D2- (3DBc |"C" B2- (3BGF"C7" E2- (3EDC | %12
+w: time * that you're near * all my|cares * dis- ap- pear * dar- ling|you're * all that I'm * liv- ing|
+"F" c4- c3 B |"C" d c2 B"E7" d c2 E |"A7" _B A3- A4 |"Dm" c4"G7" d4 |"C" c6"^N.C." z ^c | %17
+w: for * I|want you I need you I|love you *|more and|more I|
+"Gm" d2- (3d_BA"C7" G2- (3GAB |"F" c c3- c3 A |"Gm" _B3 G"C7" F3 E |"F" A6 z B | %21
+w: thought * I could live * with- out|ro- mance * be-|fore you came to|me but|
+"Am" e3 c"D7" B3 A |"G" d3 B A3 G |"Am" cdcd"D7" B2 c2 |"G" d6"C7" GA | %25
+w: now I know that|I will go on|lov- ing you e- ter- nal-|ly won't you|
+"C" G2- (3GED"Am" C2- (3CAB |"Dm" A2- (3AFE"G7" D2- (3DBc |"C" B2- (3BGF"C7" E2- (3EDC | %28
+w: please * be my own? * nev- er|leave * me a- lone * cause I|die * ev- 'ry time * we're a-|
+"F" c4- c3 B |"C" d c2 B"E7" d c2 E |"A7" _B A3- A3 A |"Dm" e4"G7" e4 |"C" c6 z2 |] %33
+w: part * I|want you I need you I|love you * with|all my|heart.|
+

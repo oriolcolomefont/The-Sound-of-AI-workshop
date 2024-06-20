@@ -1,0 +1,25 @@
+X:1
+T:I liassat Kirschen für die wachsn
+T:I liassat Kirschen für di wachsn
+T:Karl Hodina
+C:Karl Hodina
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Dm7""^Intro" z8 |"Db7" z8 |"Cm7" z8 |"F7b9" z2 z c d2 e2 ::S"Dm7" f2 f2 f f3 |"Db7" f2 f2 f f3 | %6
+"Cm7" f8 |"G7b9" z2 z f e2 d2 |"Cm7" e2 e2 e e3 |"Bmaj7" e2 e2 d2 c2 |"Bbmaj7" d8 | z2 z B B2 B2 | %12
+"Fm7" g2 g2 g f3 |"Bb7" g2 f2 d2 B2 |"Ebmaj7" G8 |OO"Ab9" z8 |1"C" d2 c2"C/D" c c3 || %17
+"C/E" g2 g2"C/G" f2 =e2 |"Cm7" f8 |"F7b9" z2 z c d2 e2 :|2"Bb" ABcd"Gm7" d d2 d || %21
+"Cm7" e e3"F7b9" d d3 |"Bbmaj7" B8 |"F+7" z4 z2 z d ||"Dm" f f3 f3 f |"Db7#9" =e4 z2 =e2 | %26
+"Cm7" e3 d c3 B |"G7b9" c4 z2 z d |"Cm7" e e3 e3 f |"F7b9" d4 z2 z F |"Bbmaj7" c c3 c3 B | %31
+ c4 z2 z B |"Fm7" gggg ^f3 ^f |"Bb7b9" f f3 d d3 |"Ebmaj7" B8 |"Ab9" z4 z2 z B | %36
+"C" c c3"C/D" c2 c2 |"C/E" g4"C/G" z2 z B |"Cm7" e e3 e3 f |"F7b9" d2 z c d2 e2!D.S.! |] %40
+O"Bbmaj7""^Coda" ABcd"Gm7" d4 |"Cm7" !fermata!e4"F7b9" !fermata!d4 |:"Dm7" z8 |"Db7" z8 |"Cm7" z8 | %45
+"F7b9" z8 :|"Dm7" z8 |"Db7" z8 |"Cm7" z8 |"F7b9" z4"Bbmaj7" z4 |] %50
+

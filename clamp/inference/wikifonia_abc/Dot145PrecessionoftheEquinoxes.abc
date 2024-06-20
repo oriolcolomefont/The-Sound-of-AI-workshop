@@ -1,0 +1,40 @@
+X:1
+T:Precession of the Equinoxes
+T:Precession of the Equinoxes Lead Sheet
+T:Dot145
+C:Dot145
+Z:All Rights Reserved
+L:1/8
+Q:1/4=160
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno"
+%%MIDI program 0
+V:1
+"^Intro/Solo""Cm7" C/D/EFD ECB,D | C2 C2 CDEF |"Fm7" F/G/ABG AFEG | FFFF F/G/A/B/ G/A/B/c/ | %4
+"Cm7" C/D/EFD EDC/D/E/F/ |"Fm7" GEF/E/D CFGF |"Cm7" E/D/C/A/ G/F/E/D/ F/E/D/E/ G2 | %7
+"Fm7" A/G/F/d/ c/B/A/G/"Gm7b9" B/A/G/e/ d/c/B/A/ | %8
+"Dm7b9" d/c/B/g/ f/e/d/c/"Cm7" e/d/c/a/ g/f/e/d/ |"Gm7" G3 A G3 A | GAGAGA G2- | Gc"Cm7" C2- C4 | %12
+"Cm7""^Verse" C2 D2 C2 B,2 | C>D"Ebm7" E2 ED"Cm7" C2 |"Gm7" _A2 G2 =A2 B2 | %15
+ G>=A"Bbm7" B2 BA"Gm7" G2 |"Cm7" c3 c3 c2 |"Gm7" (3B2 =A2 G2 (3A2 G2 F2 | G8 | %19
+"^Chorus" G/d/c/d/ g2 a2 gf |"Cm7" g2 fe f2 ed |"Gm7" c2 B2 A2 G2 |"Cm7" c/g/f/g/ c'2 d'2 c'b | %23
+"Gm7" c'2 ba b2 ag |"Cm7" f2 e2 ed c2 | c2 g2 ag f2 |"Fm7" ff/f/ f4- ff/f/"Cm7" | %27
+"^Verse" C2 C/C/C D2 B,2 | C>D"Ebm7" E2 ED"Cm7" C2 |"Gm7" G2 G/G/G G2 =A2 | %30
+ G>=A"Bbm7" B2 BA"Gm7" G2 |"Cm7" c3 c3 c2 |"Gm7" (3B2 =A2 G2 (3A2 G2 F2 | G8 | %34
+"^Bridge""Abm7#13" A,CA,C DCB,C |"Fm7" F,A,F,A, B,A,G,A,/G,/ |"Cm7" CECE FEE/D/C | %37
+"Bbm7" B,DCB,"Ebm7" E,F,G,A, |"Cm7" C3 C C4 |"Gm7""^Chorus" G/d/c/d/ g2 a2 gf |"Cm7" g2 fe f2 ed | %41
+"Gm7" c2 B2 A2 G2 |"Cm7" c/g/f/g/ c'2 d'2 c'b |"Gm7" c'2 ba b2 ag |"Cm7" f2 e2 ed c2 | %45
+ c2 g2 ag f2 |"Fm7" ff/f/ f4- ff |"Cm7" (3C2 D2 E2 (3D2 E2 F2 |"Abm7#13""^Solo" e3 d/c/ e3 A/G/ | %49
+"Fm7" (3FGA (3GAB (3ABc (3Bc_d |"Cm7" c3 c3 c2 |"Bbm7" BB/c/ de"Ebm7" ee/d/ cB |"Abm7" A3 c3 _d2 | %53
+"Fm7" F3 B c/B/A/F/ B/A/G/E/ |"Cm7" (3CCC (3DCC (3ECC (3DCC | %55
+"Bbm7" (3B,B,B, (3CB,B,"Ebm7" (3DB,B, (3CDE |"Abm7#13" (3AAA (3BAA (3cAA (3Bc_d | %57
+"Fm7" (3fff (3gff (3aff (3gab |"Cm7" (3CCC (3DCC (3ECC (3DCC | %59
+"Bbm7" (3B,B,B, (3CB,B,"Ebm7" (3DB,B, (3CDE |"Abm7#13" (3AAA (3BAA (3cAA (3Bc_d | %61
+"Fm7" (3fff (3gff (3aff (3gab |"Cm7" c'3 c3 C2 | %63
+"Bbm7" B/A/G/F/ G/F/E/D/"Ebm7" E/D/C/B,/ C/B,/A,/G,/ |"Fm7" F/G/F/E/ F4 F/G/F/E/ | %65
+"Cm7" C/D/C/B,/ C6 |"Gm7""^Chorus" G/d/c/d/ g2 a2 gf |"Cm7" g2 fe f2 ed |"Gm7" c2 B2 A2 G2 | %69
+"Cm7" c/g/f/g/ c'2 d'2 c'b |"Gm7" c'2 ba b2 ag |"Cm7" f2 e2 ed c2 | c2 g2 ag f2 | %73
+"Fm7" ff/f/ f4- f2 |"Cm7" ff/f/ c'4- c'2 |"Cm7""^Outro/Solo" (3CCC (3DCC (3ECC (3DCC | %76
+"Bbm7" (3B,B,B, (3CB,B,"Ebm7" (3DB,B, (3CDE |"Abm7#13" (3AAA (3BAA (3cAA (3Bc_d | %78
+"Fm7" (3fff (3gff (3aff (3gfe |"Cm7" C3 C C4- | C8- | C8 |] %82
+

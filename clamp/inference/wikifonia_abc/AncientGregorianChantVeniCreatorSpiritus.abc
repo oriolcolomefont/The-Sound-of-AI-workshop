@@ -1,0 +1,29 @@
+X:1
+T:Veni, Creator Spiritus
+T:Veni, Creator Spiritus
+C:Ancient Gregorian Chant
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Ab" EF"Bbm"(ED) E(FE)"Db"A | B"Ab" A3 AE"Db"FA | (BA)"Bbm7"Bc"Eb" B4 | %3
+w: Ven- i Cre- * à- tor _ Spì-|ri- tus, Men- tes tu- o-|rum _ vi- si- ta|
+w: Qui di- ce- * ris Pa- * ra-|cli- tus, Al- ti- si- mi|do- * num De- i,|
+w: Tu sep- ti- * for- mis _ mu-|ne- re, Dex- trae De- i|tu _ di- gi- tus,|
+w: De- o Pa- * tri sit _ glo-|ri- a, Et Fei- li- o|qui͜~a _ mor- tu- is,|
+ A(Bc)"Ab"(A G)"Db"(FE)(A | B)"Bbm"EF"Fm" A3"Cm" (GA) | F(ED)F"Bbm" (FGF)"Ebsus4"E | %6
+w: im- ple _ su- * per- * na|_ gra- ti- a Quae _|tu cre- * a- sti _ _ pec-|
+w: Fons vi- * vus, _ ig- * gnis,|_ ca- ri- tas, Et _|Spi- ri- * ta- lis _ _ un-|
+w: Tu ri- * te _ pro- * mi-|* sum Pa- tris Ser- *|mo- ne _ di- tans _ _ gut-|
+w: Su- re- * xit _ ac _ Pa-|* ra- cli- to, In _|sae- cu- * lor- um _ _ sae-|
+ (DE-"Eb" E4) z2 :|"Ebsus4" (E2 F2 E2)"Bbm" (D2- | D2"Eb" !fermata!E6) |] %9
+w: to- * ra.|A- * * men.||
+w: cti- * o.|||
+w: tu- * ra.|||
+w: cu- * la.|||
+

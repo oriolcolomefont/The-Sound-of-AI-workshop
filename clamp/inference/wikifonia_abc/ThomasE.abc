@@ -1,0 +1,39 @@
+X:1
+T:Old Time Rock And Roll
+T:Old Time Rock And Roll
+C:Thomas E. Jones III
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z"^N.C." _BBB B2 BG |:"G" G2 G=B- B z z2 | z _BBA BAGE |"C" G2 GE- E z z2 | z GAG AGAG | %5
+w: Just take those old rec- ords|off the shelf. _|I''ll sit and- lis ten to them|by my- self.. *|To- days _ mu sic ain't _|
+w: |tan- go. _ _|I'd rath- er hear some blues or|funk- y old soul.|There's on- ly one sure way to|
+"D" AF A2 B2 z2 | z _BBB B2 (BA) |"G" G G2 G- G z z2 | z _BBA BAGE | _B2 BB z z z2 | z _BBA BAGE | %11
+w: got the same soul.|I like that old time _|rock 'n' roll. _|Don't try to take me to a|dis- co _|You'll nev- er ev- en get me|
+w: get me to go;|start play- ing old time _|rock 'n' roll. _|Call me a rel- ic. Call me|what you will.|Say I'm old fash- ioned. Say I'm|
+"C" GGGE- E z z2 | z C A2 AGAG |"D" AAGB- B2 z2 | z _BBB B2 (BA) |"G" G G2 G- G z z2 | %16
+w: out on the floor. _|In ten min- utes I'll be|late for the door. _|I like that old time *|rock 'n' roll. _|
+w: ov- er the hill. _|To- day's mus- ic ain't _|got the same soul. _|I like that old time *|rock 'n' roll. _|
+"D" z d_BB B2 (BA) ||"G" G G2 G- G z z2 | z G_BB BA G2 |"C" G2 GE- E z z2 | z AAA AGAG | %21
+w: Still like that old time _|rock 'n' roll. _|That kind of mus- ic just|soothes my soul. _|I rem- i- nisce a- bout the|
+w: |||||
+"D" A2 AD- D z z2 | z DE(_B- B)A G2 |"G" G G2 G- G z z2 | dddd dd d2 |"G" G2 G2- G G3 | %26
+w: days of old _|with that old _ _ time|rock 'n' roll. *|||
+w: |||||
+"G" G2 G2- G G3 |"C" E2 F2 z F z E- | E2 =F2 F E3 |"D" F2 G2 G F2 F- | FF G2 G F3 | %31
+w: |||||
+w: |||||
+"G" G2 G2 G G3 |1"D" z _BBA BBBG :|2"D" z d_BB B2 BA |:"G" G G2 G- G z z2 | z G_BB BA G2 | %36
+w: |won't go to hear 'em play a|Still like that old time _|rock 'n' roll. _|That kind of mus- ic just|
+w: |||||
+"C" G2 GE- E z z2 | z AAA AGAG |"D" A2 AD- D z z2 | z DE(_B- BA) G2 |"G" G G2 G- G z z2 | %41
+w: soothes my soul. _|I rem- i- nisce a- bout the|days of old _|with that old- * * time|rock 'n' roll. _|
+w: |||||
+"D" z d_BB B2 (BA) |"G" G G2 G- G z z2 :| %43
+w: Still like that old- time *|rock 'n' soul. _|
+w: ||
+

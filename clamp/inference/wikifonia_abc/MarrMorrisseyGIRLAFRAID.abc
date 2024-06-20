@@ -1,0 +1,36 @@
+X:1
+T:GIRL AFRAID
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Em" E2 E2 B,2 DB, | E3 B,- B,2 DB, |"Am" A,4"Bm" B,4 |"C" C4"D" D4 |:"Em" E2 E2 B,2 DB, | %5
+w: |||||
+w: |||||
+ E3 B,- B,2 DB, | E2 E2 B,2 DB, | E3 B,- B,2 DB, | E2 E2 B,2 DB, | E3 B,- B,2 DB, | %10
+w: |||||
+w: |||||
+"Gmaj7" G,6 G,G, |"C" C4-"D/C" CG,G,G, :|"Bm7" z4 A2 GF- | F4 z2 z A | z GFE A2 G2 | F8 | %16
+w: ||Girl AF RAID|_ where|do his in ten tions|lay?|
+w: ||Boy Af RAID|_ pru|dence nev er pays _|_|
+"Gmaj7" F4 D2 z G |"C#m" F>G- G<A FF- F2- |"Ab" F4 z4 |"A" z2 A2"B7" A2 ^G2- | %20
+w: OR does he|ev en _ have an y ?|_|She said "He|
+w: Ev'ry thing she|wants _ _ costs mon ey _|_|* But SHE|
+"C#m" G2 z ^c- cBA^G |"E" BA-A^G- G4 |"A" z2 z2"C#m" z2"B" z2 | z2 ^G2 A2 G2- | %24
+w: _ nev _ er real ly|looks at _ me _||I give him|
+w: _ does _ n't ev en|like _ me _ _||and I _|
+"C#m" G2 z ^c- cBA^G |"E" BA-A^G- G4 |"A" z2 z2"C#m" z2"B" z2 | z4 ^G2 A2 |"C#m" B4 ^G4 | %29
+w: _ Ev _ 'ry op por|tun it _ y _||in the|room down|
+w: _ know _ be cuz she|said _ _ so _||||
+"E" B6 ^c2 |"A" BA-A"C#m"^G- G4 |"B" z4 ^G2 A2 |"C#m" B4 ^G4 |"E" B4- BA^GA- |"A" A2"C#m" B6 | %35
+w: stairs he|sat and _ stared _|in the|room down|stairs _ he sat and|_ stared|
+w: * she|sat and _ stared _|||* * she sat and|_ stared|
+"B" z2 ^G2 A2 G2 |"Amaj7" ^G4 E3 A |"D" ^G3 B G2- E2 |"Em" E8 |] %39
+w: I'll nev ver|make that mis|take ag ain _|NO|
+w: ||||
+

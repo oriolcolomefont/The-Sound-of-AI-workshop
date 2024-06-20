@@ -1,0 +1,22 @@
+X:1
+T:Sleepwalk
+T:Sleepwalk
+C:Ann Farina, Johnny Farina, Santo Farina
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c4"Am" G4 |"Fm" z2 (3z FG"G7" _A G2 F |"C" c4"Am" G4 |"Fm" z2 (3z FG"G7" _A G2 F | %4
+"C" G2 E/G/E/C/"Am" A,4 |"Fm" z2 (3z CC"G7" E E2 E/E/ |"C" z2 (3GAe"Am" B4 |"Dm7" z2 (3cda"G7" g4 | %8
+"C" c4"Am" G4 |"Fm" z2 (3z FG"G7" _A G2 F |"C" c4"Am" G4 |"Fm" z2 (3z FG"G7" _A G2 F | %12
+"C" G2 E/G/E/C/"Am" A,4 |"Fm" z2 (3z CC"G7" E E2 E/E/ |"C" C4"F" A, A,2 A,/A,/ |"C" C4-"C7" C3 C | %16
+"F" A A3 e2- (3edc |"Fm" _A4 e2- (3edc |"C" G4 A2- (3A^DE | G4-"C7" G3 C |"F" A A3 e2- (3edc | %21
+"Fm" _A4 e2- (3edc |"G7" G3 G"Ab7" _BB z B |"G7" =G2"Ab7" _b"G7"g- g2 z2 |"C" c4"Am" G4 | %25
+"Fm" z2 (3z FG"G7" _A G2 F |"C" c4"Am" G4 |"Fm" z2 (3z FG"G7" _A G2 F |"C" G2 E/G/E/C/"Am" A,4 | %29
+"Fm" z2 (3z CC"G7" E E2 E |"C" z2 (3GAc"F7" B2 A2 |"C" z2 (3gae' !fermata!c'4 |] %32
+

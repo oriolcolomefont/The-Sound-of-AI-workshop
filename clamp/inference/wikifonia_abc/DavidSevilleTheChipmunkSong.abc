@@ -1,0 +1,20 @@
+X:1
+T:The Chipmunk Song
+T:The Chipmunk Song
+C:David Seville
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Cmaj7" E2 G |"C6" A2 c |"G7" B2 F | A3 | B2 F | A2 c |"Cmaj7" B2 A |"C6" A3 |"Dm7" F2 A | %9
+w: Christ- mas,|Christ- mas|time is|near,|time for|toys and|time for|cheer.|We've been|
+"G7" B2 d |"Dm7" c2 A |"G7" B3 |"Dm7" c2 A |"G7" B2 d |"C6" c2 A |"Dm7""G7" A3 |"Cmaj7" E2 G | %17
+w: good but|we can't|last,|hur- ry|Christ- mas,|hur- ry|fast!|Want a|
+"C6" A2 c |"Cmaj7" B2 G |"C6" A3 | G2 A |"Gm7" c2"Gb9" e |"F6" e2 d | d3 | e2 d |"Bb9" f2 e | %26
+w: plane that|loops the|loop.|Me, I|want a|hu- la|hoop.|We can|hard- ly|
+"Am7" d2 c |"D7" e2 B |"Dm7" A2 B |"G7" G2 d |1"C6" c3 ||"G7" z3 :|2"C6" c3 |] %33
+w: stand the|wait, please|Christ- mas|don't be|late.||late.|
+

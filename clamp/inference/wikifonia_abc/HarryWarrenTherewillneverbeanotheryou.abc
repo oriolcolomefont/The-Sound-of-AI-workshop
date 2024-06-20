@@ -1,0 +1,24 @@
+X:1
+T:There will never be another you
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="[G Flute]"
+%%MIDI control 7 95
+%%MIDI control 10 64
+V:1
+ B, ||"Ebmaj7" C D E F | G B F3/2 E/ |"Dm7b5" F4- |"G7" F3 G |"Cm7" E F G B |"F7" c e c3/2 B/ | %7
+w: there|will be ma- ny|oth- er nights like|this,|_ And|I'll be stan- ding|here with some- one|
+"Bbm9" c4- |"Eb13" c3 B ||"Abmaj7" e c B A |"Db9#11" G F G3/2 A/ |"Ebmaj7" B G F E | %12
+w: new,|_ There|will be oth- er|songs to sing, an-|oth- er fall, an-|
+"Cm7" F E F3/2 E/ |"F9" d c B =A | G F G F |"Fm7" A4- |"Bb7" A3 B, ||"Ebmaj7" C D E F | %18
+w: oth- er spring, but|there will ne- ver|be an- oth- er|you|_ There|will be oth- er|
+ G B F3/2 E/ |"Dm7b5" F4- |"G7" F3 G |"Cm7" E F G B |"F7" c e c3/2 B/ |"Bbm7" c4- |"Eb13" c3 B || %25
+w: lips that I may|kiss,|_ but|they won't thrill me|like yours used to|do,|_ Yes,|
+"Abmaj7" e c B A |"Db9#11" G F G3/2 A/ |"Ebmaj7" B G F E |"Am7b5" d3"D7" c |"Eb6" B e"Ab7#11" d c | %30
+w: I may dream a|mil- lion dreams but|how can they come|true, if|there will ne- ver,|
+"Gm7" B E"C7" B A |"Fm7" F2"Bb13" G2 |"Eb6""Bb7" E4 |] %33
+w: e- ver, be an-|oth- er|you?|
+

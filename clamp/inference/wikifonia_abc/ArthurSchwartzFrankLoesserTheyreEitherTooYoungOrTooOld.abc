@@ -1,0 +1,44 @@
+X:1
+T:They're Either Too Young Or Too Old
+T:They're Either Too Young Or Too Old
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z A |:"F" AB cd- |"C7" d c2 B |"F" A4- | A3 A | AB cd- |"C7" d c2 B |"F" A2"F#dim" dG- | %8
+w: They're|eith- er too young|_ or too|old,|_ They're|eith- er too gray|_ or too|grass- y green,|
+w: |eith- er too bald|_ or too|bold,|_ I'm|down to the wheel-|* chair~~ and|bass- in- ette|
+"Gm7""C7" G3 E |"F" EF GA- | A G2 F |"Am" E2"Bdim" GD- |"C9""C7" D3 E |"Gm7" FD FB | %14
+w: _ The|pick- ings are poor|_ and the|crop is lean|_ What's|good is in the|
+w: _ My|heart just re- fus-|* es to|get up- set.|* I|simp- ly can't com-|
+"C7" G/G/G z G |"Gm7" FD FB |"C7" G/G/G z G |"F" AB cd- |"C7" d c2 B |"F" A4- | A3 A | AB ce- | %22
+w: arm- * y. What's|left will nev- er|harm _ me. They're|eith- er too old|_ or too|young.|_ So,|dar- ling, you'll nev-|
+w: pel it to, With|no ma- rines to|tell it to. I'm|eith- er their first|_ breath of|spring,|_ Or|else I'm their last|
+ e d2 c |"Dm6" e4- |"E7" e3 e |"A" eA =B^c |"E7" dF A=B |"A" ^c^F ^GA |"E" =B3 e |"A" eA =B^c | %30
+w: * er get|stung.|_ To-|mor- row I'll go|hik- ing with that|Ea- gle Scout un-|less I|get a call from|
+w: _ lit- tle|fling.|_ I|eith- er get a|fos- sil or and|ad- o- les- cent|pup, I|eith- er have to|
+"E7" d^G A=B |"A" ^cc"E7" dd |"A""E7" e3 d |"F" AB cd- |"C7" d c2 B |"F" AB cf- |"Dm6" f3 G | %37
+w: grand- pa for a|snap- py game of|chess. I'm|find- ing it eas-|* y to|say good as gold.|_ They're|
+w: hold him off or|have to stand him|up. The|bat- tle is on|_ But the|for- tress will hold.|_ They're|
+"Bb6" G"Dm"A"Gm7" Bd- |"C7" d A2 G |1"F""G#dim" F4- |"Gm7""C7" F3 A :|2"F" F4- | F3 F | %43
+w: eith- er too young|_ or too|old.|_ They're|old.|_ I'll|
+w: eith- er too young|_ or too|||||
+"Gm7" FD FB ||"C7" GG z G |"Gm7" FD FB |"C7" GG z G |"Gm7" FD FB |"C7" GG z G |"Gm7" FD FB | %50
+w: nev- er ev- er|fail ya, while|you are in Aus-|tra- lia, or|out in the A-|lou- tions, Or|off a- mong the|
+w: |||||||
+"C7" GG z G |"Gm7" FD FB |"C7" GG z G |"Gm7" FD FB |"C7" GG z G |"Gm7" FD FB |"C7" G/G/G z G | %57
+w: Roo- shins, And|fly- ing ov- er|E- gypt, Your|heart will nev- er|be gyped. And|when you get to|In- di- a, I'll|
+w: |||||||
+"Gm7" FD FB |"C7" G/G/G z G |"F" AB cd- |"C7" d c2 B |"F" AB cf- |"Dm6" f3 G | %63
+w: still be what I've|been to ya, I've|looked the field o-|* ver and|lo an be- hold!|_ They're|
+w: ||||||
+"Bb6" G"Dm"A"G7" Bd- |"C7" d c2 g |"F" f4- | f2 z2 |] %67
+w: eith- er too young|_ or too|old!|_|
+w: ||||
+

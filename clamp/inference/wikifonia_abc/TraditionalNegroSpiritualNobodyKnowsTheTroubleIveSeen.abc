@@ -1,0 +1,35 @@
+X:1
+T:Nobody Knows TheTrouble I've Seen
+T:Nobody Knows The Trouble I've Seen
+T:Traditional Negro Spiritual
+C:Traditional Negro Spiritual
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B D2 E"C7" G3 A |"G" BB B2"Em" B4 |"G" B D2 E"C" G3 G |"Am7" ED-"D7" D6 |"G" B D2 E"C7" G3 A | %5
+w: No- bod- y knows the|trou- ble I've seen|No- bod- y knows my|sor- row *|No- bod- y knoes the|
+"G" BB"B7" B2"Em" A G3 |"C" d3 G"D7" _B A2 A |"G" G4 G3 B | d3 B"Em7" d3 B | %9
+w: troub- le I've sen *|Glo- ry Hal- * le|lu- jah. Some|times I'm up Some|
+"Bm" e3 d/B/"Em" G3 A/B/ |"Bm" d4"Em" B4 |"Am" A3 B"D7" (3ABd e2 |"G" e d2 e"G7" d B3 | %13
+w: times I'm- * down * *|Oh, yes|Lord * * * * *|Some- times I'm al- most|
+"C" z d2 d"Cm" (3_BAG- G2 |"G" B4"D" A4 |"C" G4"G" B4 |"G" B D2 E"C7" G3 A |"G" BB B2"Em" B4 | %18
+w: to the groun' * * *|Oh yes|Lord *|No- bod- y knows the|troub- le I.ve seen|
+"G" e d2 B"C7" d3 _B |"Am7" _B A3-"D" A4 |"G" B B2 d"C7" _B3 B |"G" Bd"B7" ^d2"Em" e4 | %22
+w: No- bod- y knows my|sor- row *|No bod- y knows the|troub- le I've been|
+"C" g3 G"^D7(b9)" _B A2 A |"G" G4 G3 B | d3 B"Em7" d3 B |"Bm" f3 e"Em" (3edB- B2 | %26
+w: Glo- ry Hal * le|lu- jah I|wish that I could|find a- way * * *|
+"Bm" d4"Em" B2 (3Bcd |"Am" A4-"D" A3 d |"G" e3 d"G7" =f3 e |"C" d2 d2"Cm" (3_BAG- G2 | %30
+w: Oh yes * * *|Lord * But|life is just one|long grey day * * *|
+"G" B4"D" A4 |"C" G4-"G" G4 |"G" B D2"C7" E G3 A |"G" BB B2"Em" B4 |"G" e d2 e"C7" e d2 _B | %35
+w: Oh yes|Lord *|No- bod- y knows the|troub- le I've seen|No- bod- y knows * my|
+"Am" _BA- A2"D" DFAd |"G" e d2 B"C7" A G2 A |"G" Bd"B7" ^d2"Em7" e4 |"C" g3 G"D7" _B A2 A | %39
+w: sor- row * * * * *|No- bod- y knows * the|troub- le I've seen|Glo- ry Hal * le|
+"G" G4 G4 |"C7" d3 G"D7" _B A2 A |"G" G4"C" E G3 |"G" G2- G2- G4 |] %43
+w: lu- jah|Glo- ry Hal- * le|lu- jah- *||
+

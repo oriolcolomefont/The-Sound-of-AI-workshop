@@ -1,0 +1,27 @@
+X:1
+T:Anouman
+T:Anouman
+T:Django Reinhardt
+T:1953 (Renewed) by Publications Francis Day S.A.
+C:Django Reinhardt
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm7" A,8 A,2=B,^C DEFG |"Em7" A=cAE c4-"A7" c4 _B4 |"Dm7" A8- A^CDE FGAB |"Cm7" dBG_E d4-"F7" d8 | %4
+"Bbmaj7" cAFD c4- c8 |"Em7" =B4- BGED"A7" ^C4 _B4 |"Dm" A8 A,2=B,2 ^CDEF | %7
+"Em7" G2"A7" G4 F/G/F/E/"Dm" F2"G7" F4 _E2 |"Cm7" _E2"F7" E4 D/E/D/=C/"Bb7" D2 D4"Eb7" ^C2 | %9
+"Dm7" A,8- A,2=B,^C DEFG |"Em7" A=cAE c4-"A7" c4 _B4 |"Dm7" A8- A^CDE FGAB | %12
+"Cm7" dBG_E d4-"F7" d8 |"Bbmaj7" cAFD c4- c8 |"Em7" =B4- BGED"A7" ^C4 _B4 |"Dm" A8 A,2=B,2 ^CDEF | %16
+"Em7" G2 G4 F/G/F/D/"A7" G2 F/G/F/^C/"Dm" D4 ||"Am7" c2 c4 d2"D7" =B6 (5:4:5A/B/A/^G/A/ | %18
+"Am7" c2 c4 d2"D7" =B6 G2 |"Gm7""C7" _B16- |"Gm7""C7" B12 z4 |"Bm7" d6 e2"E7" ^c6 =B2 | %22
+"Bm7" d6 e2"E9" ^c6 =B2 |"Am7" =c12 c2E2 |"Em7" B6 _E2"Eb9b5" =A8 |"Dm7" A,8- A,2=B,^C DEFG | %26
+"Em7" A=cAE c4-"A7" c4 _B4 |"Dm7" A8- A^CDE FGAB |"Cm7" dBG_E d4-"F7" d8 |"Bbmaj7" cAFD c4- c8 | %30
+"Em7" =B4- BGED"A7" ^C4 _B4 |"Dm7" A8 A,2=B,2 ^CDEF |"Em7" G2 G4 F/G/F/E/ (3_A2G2F2 D4- | %33
+"Dm" D12 z4 |] %34
+

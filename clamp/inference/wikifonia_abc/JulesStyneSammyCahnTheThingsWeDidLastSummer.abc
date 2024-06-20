@@ -1,0 +1,30 @@
+X:1
+T:The Things We Did Last Summer
+T:The Things We Did Last Summer
+T:Sammy Cahn and Jules Styne
+T:Quickstep
+C:Jules Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ B,2 |"G" DEB,C"Fdim" D3 B |"Am7" BcEG"D9" A3 B |"G6" AGdB"Gmaj7" AG^FD |"Dm6""E7" F6 E2 | %5
+w: The|boat rides we would take, the|moon- light on the lake, the|way we danced and hummed our fav- 'rite|song, the|
+"Am7" C2 B2"Cdim" B2 A2 |"G" D2"Gdim" D4 AG |"Am7" D2 D2-"D9" DAG^F |"G""Fdim" E6 B,2 | %9
+w: things we did last|sum- mer, I'll re-|mem- ber * all win- ter|long. The|
+"G" (3D2 E2 B,2"Fdim" C D2 B |"Am7" BcEG"D9" A3 B |"G6" AGdB"Gmaj7" AG^FD |"Dm6""E7" F6 E2 | %13
+w: mid- way and the fun, the|kew- pie dolls we won, the|bell I rang to prove that I was|strong, the|
+"Am7" C2 B2"Cdim" B2 A2 |"G" D2"Gdim" D4 AG |"Am7" D2 D2-"D9" DAG^F |"G" G6 ^G2 | %17
+w: things we did last|sum- mer, I'll re-|mem- ber * all win- ter|long. The|
+"Dm7" ADEF"G7" G3 ^G |"Dm7" ADEF"G7" G3 ^D |"C" EG"Cmaj7"Ac"G7" B2 G2 |"C""Cmaj7" E6 ^A2 | %21
+w: ear- ly morn- ing hike, the|rent- ed- tan- dem bike, the|lunch- es that we used to|pack; we|
+"Em7" BE^FG"A7" A3 ^A |"Em7" BE^FG"A7" A3 G |"D7" ^FDDD"Gdim" G2 EA- |"D9""D7" A6 B,2 | %25
+w: nev- er could ex- plain that|sud- den sum- mer rain; the|looks we got when we got back.|* The|
+"G" DEB,C"Fdim" D3 B |"Am7" BcEG"D9" A3 B |"G6" AGdB"Gmaj7" AG^FD |"Dm6""E7" F6 E2 | %29
+w: leaves be- gan to fade like|prom- is- es we made; how|could a love that seemed so right go|wrong? The|
+"Am7" C2 B2"Cdim" B2 A2 |"G" D2"Gdim" D4 BB |"Am7" B2 c2-"D9" cAG^F |"G" G6 z2 |] %33
+w: things we did last|sum- mer, I'll re-|mem- ber * all win- ter|long.|
+

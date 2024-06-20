@@ -1,0 +1,19 @@
+X:1
+T:Meghalt a báró
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A3 B |"Em" cB AE | z4 |"Am" A3 B |"Em" cB AE | z4 |"Am" AA z2 | z4 :|"C" e2 d2 | c2 G2 | %10
+w: Meg- *|halt a bá- ró.||El- te|met- ték, kár volt||ér- te.||Lá- nyok,|lá- nyok|
+w: Ott ta-|lál- ták hol- tan,||Kinn a|lu- cer- nás- ban,||vér- ben.||||
+ c2 d2 | e4 | e2 d2 | c2 G2 | c2 d2 | e4 | e"Am"A A z |] %17
+w: sír- ja-|tok,|Gyöngy ko-|szo- rút|hoz- za-|tok|a sír- ra!|
+w: |||||||
+

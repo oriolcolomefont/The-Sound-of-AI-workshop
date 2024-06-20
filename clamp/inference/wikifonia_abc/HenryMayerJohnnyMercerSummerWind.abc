@@ -1,0 +1,26 @@
+X:1
+T:Summer Wind
+T:Summer  Wind
+T:Henry Mayer
+T:German: Hans Bradtke  English: Johnny Mercer
+C:Henry Mayer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ B, |:"Eb" FG G4 z B, | FG G4 z B, |"Bb7" G2 AF- F4 |"C" z4 z2 z B, | GA A4 z B, | GA A4 z A | %7
+w: The|sum- mer wind came|blow- ing in a-|cross the sea, _|It|lin- gered there to|touch your hair and|
+w: |paint- ed kites, the|days and nights went|fly- ing by, _|The|world was new be-|neath a blue um-|
+w: |au- tumn wind, the|win- ter winds have|come and gone, _|And|still the days, the|lone- ly days go|
+"Eb" A2 BG- G4 | z4 z2 z E |"Eb7" =AB B4 z E | =AB B4 z c |"Ab" B2 _A2 A3 G |"Abm6" F8 | %13
+w: walk with me. _|All|sum- mer long we|sang a song and|strolled the gold- en|sand,|
+w: brel- la sky, _|Then|soft- er than a|pip- er man one|day it called to|you,|
+w: on and on. _|And|guess who sights his|lull- a- ies through|nights that nev- er|end,|
+"Eb" z2 G2"Gm" B2"Fm" A2 |"Bb11""Bb7" F6 z F |"Eb" FE E6 | z4 z2 z B, :| %17
+w: Two sweet- hearts|and the|sum- mer wind.|Like|
+w: I lost you|to *||The|
+w: My flick- le|friend, *|||
+

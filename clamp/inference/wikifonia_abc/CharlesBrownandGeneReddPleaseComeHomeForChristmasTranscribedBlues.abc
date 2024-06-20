@@ -1,0 +1,49 @@
+X:1
+T:Please Come Home For Christmas (Transcribed Blues)
+C:Charles Brown and Gene Redd
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Rock Organ" snm="Rock Organ"
+%%MIDI program 18
+V:1
+ b2 f2 g2 d2 |"F " f4"F7" z2 (3fgb |"Bb " g f3"Bbmaj7" z f (3gfd |"Bb7" c4 z2 (3f_dc | %4
+w: |* Bells will be|ring- ing the sa- d, sad|news. Oh, what a|
+"Eb " d B3 z2 (3cBG |"Edim" _d B3 z2 (3BcB |"Bb " d/c/B- B2"Ebmaj7" z d cd | %7
+w: Christ- mas to have the|blu- es. My ba by's|g\- o\- ne. * I have no|
+"Bb " cB- B2"Gmin" z G Bc |"C7" d B2zz2(3zcd |"F " d c2 z"Faug" z2 (3fgb | %10
+w: fri- ends * to wish me|greet- ings once a\-|ga- in. Choirs will be|
+"Bb " g f3"Bbmaj7" z2 (3gfg |"Bb7" d/c/B- Bc d z (3gfd |"Eb " c B3 z2 (3cGc | %13
+w: sing- ing "S- i\- lent|N\- i\- g\- * h\- t". A Christ- mas|ca- rol by can- dle|
+"Edim" c B3 z G (3GBc |"Bb " d B3"Eb " f2 (3BBc |"Bb " d B3"Gmin" z2 (3GBc | %16
+w: lig- ht. Please come home for|Christ- mas! Please come home for|Christ- mas! If not for|
+"C7" d c3"F7" z2 (3dcd |"Bb " B4"Bb7" z2 (3BcB |"Eb " f e3 z2 (3BcB |"Ebmin" f e2 f e2 z2 | %20
+w: Christ- mas, by New Year's|night. Friends and re-|la- tions send sal- u\-|ta- tio- n\- s|
+"Bb " g f2 d"Faug" gf- (3ffg |"Bb " (3dcB d2"Bb7" z2 (3BcB |"Eb " f e3 z B- (3BcB | %23
+w: sure as the sta- rs * shine a\-|b\- o\- v\- e. But this is|Christ- mas! Yes, * Christ- mas|
+"Ebmin" f e2 z z2 (3BcB |"C7" d3 d (3dcd (3dcB |"F " (3:2:2d2 c- c2"Faug" z2 (3bgb | %26
+w: my dear. The time of|year to be with the o\- ne you|lo- ve. * So won't you|
+"Bb " g f2 z"Bbmaj7" z f (3gfd |"Bb7" (3dcB d2 z2 (3fef |"Eb " d B3 z c- (3cGc | %29
+w: tell me you'll ne- ver more|r\- o\- a\- m. Christ- mas and|New Year will * find you|
+"Edim" B3 z z B (3BcB |"Bb " (3dcB- B2"D7" z2 (3dcd |"Gmin" B3 z"C7" z2 (3GBc | %32
+w: home. There'll be no more|sor- r\- ow, * no grief and|pain and I'll be|
+"Bb " d"Gmin" B2 z"C7" dB"F7" cd |"Bb " B4"Eb " z2 (3BcB |"Bb " gf (3dcB"Dmin" df (3dcB- | %35
+w: hap- py, hap- py, once a\-|gain. * * *||
+"Gmin" B2"Bb7" d4 (3BcB |"Ebmaj7" (3dcB (3dcB gf (3dcB- |"Ebmin" B4 z f (3gfc | %38
+w: ||* There'll be no more|
+"Bb " dc B2"D7" z d cd |"Gmin" B3 z"Ebmaj7" z G Bc |"Bb " d"Gmin" B2 z"C7" dB-"F7" (3Bcd | %41
+w: sor- r\- ow, no grief and|pain and I'll be|hap- py hap- py * once a\-|
+"Bb " B4"Bb7" z2 (3BcB |"Eb " f e3 z2 (3BcB |"Ebmin" f e2 f e2 z2 |"Bb " g f2 d"Faug" gf- (3ffg | %45
+w: gain. Friends and re-|la- tions send sal- u\-|ta- tio- n\- s|sure as the sta- rs * shine a\-|
+"Bb " (3dcB d2"Bb7" z2 (3BcB |"Eb " f e3 z f- (3ffe |"Ebmin" f B2 z z2 (3BcB | %48
+w: b\- o\- v\- e. But this is|Crist- mas! Yes, * Christ- mas|my dear. The time of|
+"C7" d3 d (3dcd (3dcB |"F " (3:2:2d2 f- f2"Faug" z2 (3bgb |"Bb " g f2 z"Bbmaj7" z f (3gfd | %51
+w: year to be with the o\- nes you|lo- ve. * So won't you|tell me you'll ne- ver more|
+"Bb7" (3dcB d2 z2 (3fef |"Eb " d B3 z c- (3cGc |"Edim" B3 z z B (3BcB |"Bb " d B3"D7" z2 (3dcd | %55
+w: r\- o\- a\- m. Christ- mas and|New Year will * find you|home. There'll be no more|sor- row, no grief and|
+"Gmin" B2 A2"C7" GG Bc |"Bb " d"Gmin" B2 z"C7" dB-"F7" (3Bcd |"Bb " B4"Eb7" z2 Bc | %58
+w: pa- i\- n and I'll be|hap- py, hap- py, * once a\-|gain. I'll be|
+"Bb " d"Gmin" B3"C7" dB-"F7" (3Bcd |"Bb " B4"Bb7" (3B2 d2 f2 |"Amaj7" _a4 z4 |] %61
+w: hap- py, Christ- mas, * once a\-|gain. * * *||
+

@@ -1,0 +1,26 @@
+X:1
+T:O Canada
+T:O Canada
+T:Calixa Lavallée (1842-1891)
+T:Robert Stanley Weir (1856-1926)
+C:Calixa Lavallée
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" E4"G" G3 G |"Am" C6"G" D2 |"C" E2"^(Dm)" F2"G" G2"^(D5)" A2 |"Gsus4" D6"G" z2 | %4
+w: O Can- a-|da! Our|home and na- tive|land.|
+"C" E4"D" ^F3 F |"G" G6"D" A2 |"G" B2 B2"D" A2 A2 |"G" G6 DE |"Dm" F3 E"G" D2 EF | %9
+w: True pa- triot|love, in|all thy sons com-|mand. With *|glow- ing hearts we *|
+"C" G3 F"Am" E2 FG |"D" A2"G" G2"Dm" F2"C" E2 |"G" D6 DE |"Dm" F3 E"G" D2 EF |"C" G3 F"Am" E2 E2 | %14
+w: see thee rise the *|true North strong and|free. From *|far and wide O *|Can- a- da we|
+"G" D2 G2"D" G^FEF |"^G-G/F-G/E-G/D" G8 |"C" E4"G" G3 G |"Am" C8 |"Dm" F4"F" A3 A |"G" D8 | %20
+w: stand on guard * for *|thee.|God keep our|land|glo- rious and|free.|
+"C" G4"E" _A3 A |"F" A2 F2"C" E2"G" D2 |"Am" C4"G" D4 |"C" E8 | G4"F" c3 c | %25
+w: O Can- a-|da we stand on|guard for|thee!|O Can- a-|
+"Am" A2"F" F2"C" E2"Dm" D2 |"C" G4"G" B4 |"C" c8 |] %28
+w: da we stand on|guard for|thee.|
+

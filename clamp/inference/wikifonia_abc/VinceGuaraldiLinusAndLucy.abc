@@ -1,0 +1,41 @@
+X:1
+T:Linus And Lucy
+T:Linus And Lucy
+C:Vince Guaraldi
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:Ab
+V:1 bass nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 bass 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^N.C." A,,,E,,A,,A,,, E,, A,,2 A,,,- | A,,,E,,F,,A,,, E,, F,,2 A,,,- | %2
+ A,,,E,,A,,A,,, E,, A,,2 A,,,- | A,,,E,,F,,A,,, E,, F,,2[K:treble]"Ab" A |: AB c2 cB A2 | %5
+ B3 A- A3 A- | AB c2 c4- | c6 z A- | AB c2 cB A2 | B3 A- A3"Cb" A- | A3 B B4- | B6 z"Ab" A- | %12
+ A3 B B4- |1 B6 z A :|2 B6 z A ||"Db" d'd'd'"Ebsus4"e' z afa | afaa aa a2 | %17
+"Db" d'd'd'"Ebsus4"e' z"^N.C." afa | afaa aa a2 |"Db" d'd'd'"Ebsus4"e' z afa | afaa aa a2 | %21
+"Ab" A8- | A6 z A- |S AB c2 cB A2 | B3 A- A3 A- | AB c2 c4- | c6 z A- | AB c2 cB A2 | %28
+ B3 A- A3"Cb" A- | A3 B B4- | B6 z"Ab" A- | A3 B B4- | B6 z"Cb" A | A3 B B4- | B6 z"Ab" A- | %35
+ A3 B B4-!dacoda! || B8 | z2"E9" e2 ^F e2 =F ||"Eb9" g2 gd eB G2 | BF z e gd z _c | %40
+"Db9" f2 f_c dA z2 | E2 z c (3e=ef (3^fgc |"C9" (3:2:2^d =e2- eB fcAE |"Db9" d2 B_c baGB | %44
+"Eb9" (3e2 g2 e2 dgd z |"E9" z4 (3f^fg- g2 |"Eb9" b2 b2 f/^f/ g3 | b2 bb/^f/ g=fed | %48
+"Db9" B_cba (3ecA- Ad | (3z Ad (3fad' (3f'd'a f/=e/f/^f/ |"C9" gc z g- gBcA |"Db9" F2 fe d_A=d^f | %52
+"D9" =a2 ^f=d =ABeg |"Eb9" =feBG eB G2!D.S.! ||O"Ab" B4[K:bass]"^N.C." E,, F,,2 A,,,- | %55
+ A,,,E,,A,,A,,, E,, A,,2 A,,,- | A,,,E,,F,,A,,, E,, F,,2 A,,,- | A,,,E,,A,,A,,, E,, A,,2 A,,,- | %58
+ A,,,E,,F,,A,,, E,, F,,2 A,,,[K:treble] || z A,B,C ABca | b d'3 c'2 ba | b3 a- a4- | a6- ab- | %63
+ b3 a- a4- | a6- ab- | b3 a a4- | a8[K:bass] || A,,,8 |] %68
+V:2
+ x8 | x8 | x8 | x7[K:treble] x |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 :|2 x8 || x8 | %16
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 || x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | gc x6 | x8 | x8 | %53
+ x8 || x4[K:bass] x4 | x8 | x8 | x8 | x8[K:treble] || x8 | x8 | x8 | x8 | x8 | x8 | x8 | %66
+ x8[K:bass] || x8 |] %68
+

@@ -1,0 +1,42 @@
+X:1
+T:The Marvelous Toy
+T:The Marvelous Toy
+T:Tom Paxton
+T:Tom Paxton
+T:All Rights Reserved
+C:Tom Paxton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G2 |"C" CC C2 C2 E2 |"G7" DDDD D3 D |"C" CCCC CCEE |"G7" D6 G2 |"F" A2 AA AA F2 |"C" G2 G2 GG E2 | %7
+w: 1.~When|I * was just a|wee * lit- tle lad, *|Full of * * health * and *|joy, My|fath- er * home- * ward|came one night * and|
+w: 2.~The|first * time that I|picked * it * up, *|I * had a big * sur- *|prise, 'Cause|right on the bot- tom were|two big but- tons that|
+w: 3.Well,|first it marched left, and|then it marched * right,, And|then it marched * un- der a *|chair, And|when I * looked * where|it had gone, * it|
+w: 4.~The|years have gone by too|quick- lye it * seems, And|I * have my own * lit- tle|boy, And|yes- ter- * day * I|gave to him * my|
+"D7" DD D2 FF C2 |"G7" G6 G2 |"C" CCCC C2 EE |"G7" DD D2 DDDD |"C" CCCC EE G2 |"F" F6 AA | %13
+w: gave * to me * a|toy. A|won- * der * to be- *|hold * it was, * * With|ma- ny * * col- ors *|bright, And the|
+w: looked * like big * green|eyes. I|first * pushed * one and *|the * the o- ther and *|then I * * twist- ed its|head, And *|
+w: was- 'nt * e- ven *|there! I|start- ed to * cry, but my|dad- dy * laughed * 'cause he|knew * * that I * would|find... When I|
+w: mar- ve- lous * lit- tle|toy. His|eyes * near- ly popped right *|out of his head * And he|gave * a * squeal * of|glee. Nei- ther|
+ cc c2 c2 A2 |"C" GG G2 E2 CC |"D7" DDDD E2 C2 |"G7" G2 G2 G2"^CHORUS" G2 |"C" C2 CC C2 E2 | %18
+w: mo- * ment I laid|eyes * on it, It be-|came * my * heart's de-|light. * It went|zip when it moved and|
+w: when I * set it|down * a- gain, * *|this is * * what it|did: * * *||
+w: turned * a- round my|mar- ve- lous toy would be|chug- a chug- in' up be|hind. * * *||
+w: one of us knows just|what * it is, But he|loves * it * just like|me. It still goes|zip when it moves and|
+"G7" D2 DD D3 D |"C" C2 C2 E2 G2 |"F" F6 A2 | c2 c2 c2 A2 |"C" G2 G2 E2 CC |"G7" D2 D2 C2 B,2 | %24
+w: pop when it stopped, and|whirrrr when it stood|still. I|ne- ver knew just|what it was and I|guess I ne- ver|
+w: ||||||
+w: ||||||
+w: pop when it stops, and|whirrr when it stands|still. *||||
+"C" C6 |] %25
+w: will.|
+w: |
+w: |
+w: |
+

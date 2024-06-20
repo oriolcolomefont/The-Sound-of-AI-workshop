@@ -1,0 +1,38 @@
+X:1
+T:OUR LIPS ARE SEALED
+C:GO-GOs
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+|:"F" z2 z2 z2 z2 |"Eb" z2 z2 z2 z2 |"Bb" z2 z2 z2 z2 | z BAF BA F2 :: z4 z DFG- |"F" GA- F4 z D | %6
+w: ||||Can you hear|_ them _ they|
+"Eb" _EDEF z4 |"Bb" DC D2 D2 D-C | DDCB, z DFG- |"F" GA- A2 z FFD- |"Eb" D_E- E6 | %11
+w: talk a bout us|Tel ling lies well now _|thats no sur prise Can you see|_ them _ see right thru|_ them _|
+"Bb" z2 z F _AG F2 | FFF_A G F3 |"Db9" z4 _EEEF |"Bb""_2nd Time to CODA" DC B,6 | %15
+w: They have no sheild|No se crets to re veal|Does n't mat ter|what they say|
+"Gb9" z2 ^FF FF F2 |"C7" EE E2- E->D- E->F- |"F" F4 z4 |"Bb/F" z4 DDDC- |"F" C4 z4 | z4 z DFG- | %21
+w: In the jeal ous games|peo ple play _ _ _ _|_|OUR LIPS ARE SEALED|_|There's a wea|
+"F9" G-A- F2- F3 D |"Eb" _EE E2 z2 z F |"Bb" DF F4 z2 | D- C2 B,- B,DFG | %25
+w: _ pon _ _ That|we must use in|our de fense|"sil _ ence" _ When you look|
+"F""^Our Lips Are Sealed  * 2" AA- F2 z FFD- |"Eb9" D _E3 z4 |"Bb" z2 z F _AG F2 | FFF_A G F3 | %29
+w: at them _ look right thru|_ them|They have no shield|No se crets to re veal|
+"Db9" z4 _EEEF |"Bb" DC B,6 |"Gb9" z2 ^FF FF F2 |"C7" EE E2- E->D- E->F- |"F" F4 z4 | %34
+w: Does n't mat ter|what they say|In the jeal ous games|peo ple play _ _ _ _|_|
+"Bb/F" z4 DDDC- |"F" C4 z4 |"Db" z2 _EE E3 F |"Bb" DC B,6 |"Gb9" z2 ^FF FF F2 | %39
+w: OUR LIPS ARE SEALED|_|Pay no mind to|what they say|In the jeal ous games|
+"C7" EE E2- E->D- E->F- |"F" F4 z4 |"Bb/F" z4 DDDC- |"F" C4 z4 | c2- fe fe c2 | c2- fe fe c2 | %45
+w: peo ple play _ _ _ _|_|OUR LIPS ARE SEALED|_|||
+ z2 A2- AG- G2 | B3 F- F4 | z2 _E2 z F- F2 | C8 | z2 A2- AG- G2 | B3 F- F4 | z2 _EE- E>F- F>F- | %52
+w: Hush _ my _|dar- lin' _|don't you _|cry|Qui _ et _|an- gel, _|for- get _ their _ lies|
+ F4 z4 :|"Bb/F""^CODA" z4 DDDC- |"F" C4 z4 |"Db" z2 _EE E3 F |"Bb" DC B,6 |"Gb9" z2 ^FF FF F2 | %58
+w: _|OUR LIPS ARE SEALED|_|Pay no mind to|what they say|In the jeal ous games|
+"C7" EE E2- E->D- E->F- | F4 z4 |"Bb/F" z4 DDDC- |"F" C4 z4 |"Bb/F" z4 DDDC- |"F" C4 z4 | %64
+w: peo ple play _ _ _ _|_|OUR LIPS ARE SEALED|_|OUR LIPS ARE SEALED|_|
+"Bb/C" z4 AGFA- |"F" !fermata!A8 |] %66
+w: OUR LIPS ARE SEALED|_|
+

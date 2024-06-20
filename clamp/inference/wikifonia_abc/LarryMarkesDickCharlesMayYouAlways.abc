@@ -1,0 +1,41 @@
+X:1
+T:May You Always
+T:May You Always
+T:Larry Markes & Dick Charles
+C:Larry Markes & Dick Charles
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^Intro" B d g b |"B7" B ^d f a |"Em" g e"Am7" d c |"D7sus4" B G"D7" A D || %4
+w: |||* * * This|
+"G""^VERSE, ad lib" B ^A B3/2 D/ |"Am7" B _B"D7" A3/2 D/ |"Am" A ^G"D7" A3/2 B/ | %7
+w: spe- cial time, this|spe- cial place is|bright- ened by your|
+"G6" A _A"G7" G3/2 D/ |"C" E G"Cm" c _E |"G" D G"E7" B3/2 B/ |"A7" A B"Em7" A/G/"A7"F/E/ | %11
+w: spe- cial face, The|gang will soon sing|Auld Lang Syne, and|touch this sen- ti- men- tal|
+"D7" F"Am7" G"D7" A z/ D/ |"G" B ^A B3/2 D/ |"Am7" B _B"D7" A3/2 D/ |"Am" A ^G"D7" A B | %15
+w: heart of mine. Al-|though we go our|sep'- rate way, we'll|share the mem'- ry|
+"G6" A _A"G7" G3/2 D/ |"C" E G"Cm" c _E |"G" D G"E7" B2 |"A7" A B"Em7" A/G/"A7"F/E/ | %19
+w: of this day. I|wish I may, I|wish I might|have the wish I wish for|
+"D7" F"Am7" G"D7" A2 ||"G""^CHORUS moderately" B, D G B |"B7" B, ^D F A |"Em" G E B, G | %23
+w: you to- night.|MAY YOU AL- WAYS|walk in sun- shine,|slum- ber warm when|
+"G9" =F D"G7" B,2 |"C" E F"C#dim" G E |"G" D E"Em7" F G |"A7" ^C B A E |"D7" F"Am7" G"D7" A2 | %28
+w: night winds blow.|MAY YOU AL- WAYS|live with laugh- ter|for a smile be-|comes you so.|
+"G" B, D G B |"B7" B, ^D F A |"Em" G E B, G |"G9" =F D"G7" B,2 |"C" E F"C#dim" G E | %33
+w: May good for- tune|find your door- way,|may the blue- bird|sing your song.|May no trou- ble|
+"G" D E"Em7" F G |"A7" ^C B A E |"D7" F A"G" G2 | G G"Em7" G B |"Am7" A3/2 G/"D7" A B | %38
+w: trav- el your way,|may no wor- ry|stay too long.|May your heart- aches|be for- got- ten,|
+"G" G G"Em7" G B |"Am7""D7" A3"E7" E |"A" A A"F#m7" A ^c |"Bm7" B3/2 A/"E7" B ^c | %42
+w: may no tears be|spilled. May|old ac- quai- tance|be re- mem- bered,|
+"A" A B"Em7" G A |"Adim" F G"A9" E"D+" D |"G" B, D G B |"B7" B, ^D F A |"Em" G E B, G | %47
+w: and your cup of|kind- ness filled, and|MAY YOU AL- WAYS|be a dream- er,|may your wild- est|
+"G9" =F D"G7" B,2 |"C" E F"C#dim" G E |"G" D"Dm" d"E+7" c3/2 E/ |"A7" B A"Am7" G"D7" A | %51
+w: dream come true.|May you find some-|one to love, as|much as I love|
+"G" G2"Cdim" A"G6" B |"C" c2"Ddim" d"Am7" e |"G" g4 |] %54
+w: you. * *|||
+

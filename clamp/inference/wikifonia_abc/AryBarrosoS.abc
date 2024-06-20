@@ -1,0 +1,34 @@
+X:1
+T:Brazil
+T:Brazil
+C:Ary Barroso
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2"F#dim" F2 |:"G""G+" B4- |"G6""G+" B4- |"G" B d"G+" d B |"G6" B A"G+" A/ G A/- |"Am""Am#5" A4- | %6
+w: Bra-|zil,||* Where hearts were|en- ter- tain- ing June,|_|
+"Am6""Am#5" A4- |"Am" A d"Am#5" d B |"Am6" B A"Am#5" A/ G A/- |"Am""Am#5" A4- |"Am6""Am#5" A4- | %11
+w: |* We stood be-|neath an am- ber moon,|_||
+"Am" A d"Am#5" d B |"Am6" B A"Am" A/ G"F#dim" B/- |"G""G+" B4- |"G6" B2"Gmaj7#5" F2 |"Am" E4- | %16
+w: * And soft- ly|mur- mured "Some- day soon."|_|* We|kissed,|
+"Am6" E2"F#dim" F2 |"G" B2"G7" B2 |"Gb7" _B2"F7" A2 |"E7" d4- |"Bm7b5" d4- |"E7" d d d _d | %22
+w: _ and|clung to-|geth- er.|Then|_|* to- mor- row|
+ c B ^A/ B d/- | d4- |"Bm7b5" d4- |"E7" d d d _d |"E7" c B ^A/ B d/- | d4- |"Bm7b5" d4- | %29
+w: was an- oth- er day.|_||* The morn- ing|found me miles a- way,|_||
+"E7" d d d _d | c B =A/ B c/- |"Am" c4- |"Am#5" c4- |"Am6" c4- |"Am#5" c4 |"Am" c4- |"Am#5" c4- | %37
+w: * With still a|mil- lion things to say.|_||||Now,|_|
+"Am" c c B B |"Cm" A A"F#dim" G/ F A/- |"G" A4- | A4- | A G"D7" A B |"G" d2 B/"Bbdim" G G/- | %43
+w: * when twi- light|dims the sky a- bove,|_||* Re call- ing|thrills of our love,|
+"Am7" G4- | G4 | A2 A"Eb9b5" A |"D7" A2"D11" A/ G B/- |"G""G+" B4- |"G6" B2"Gmaj7#5" F2 | %49
+w: _||There's one thing|I'm cer- tain of;|_|* Re-|
+"Am""Am#5" E4- |"Am6" E2"F#dim" F2 |"G""G+" B4- |"G6" B2"Gmaj7#5" F2 |"Am""Am#5" E4- |1 %54
+w: turn|_ I|will,|_ To|old|
+"Am6" E2"F#dim" F2 ||"G""G+" (B4- |"G6""G+" B4) |"Am""Am#5" A4- |"Am6" A z"F#dim" F2 :|2 %59
+w: _ Bra-|zil.|_||* Bra|
+"G""G+" B4- ||"G6" B z z2 |] %61
+w: ||
+

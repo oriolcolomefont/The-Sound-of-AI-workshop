@@ -1,0 +1,32 @@
+X:1
+T:We're In The Money
+T:Were In The Money
+T:Gold Diggers Song
+T:Harry Warren
+T:Al Dubin
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" z E G3/2 E/ |"Dm7" F"G7" G3 |"C" z E G3/2 E/ |"Dm7" F"G7" G3 |"C" z e"C+" e3/2 c/ | %5
+w: We're in the|mo- ney.|We're in the|mon- ey.|We've got a|
+w: We're in the|mo- ney.|The skies are|sun- ny.|Old man de-|
+"F" d c d"Ab7" c |"C" e c"Dm7" c"G7" d |1"C" c2 z2 :|2"C" c2 z2 || z"Cmaj7" e d/c/B/A/ | %10
+w: lot of what it|takes to get a-|long.|wrong.|We ne- ver see a|
+w: press- ion you are|through, you done us||||
+"Cmaj7" B B z/ c A/ |"Cmaj7" B B2 c |"Cmaj7" B4 |"Cmaj7" z e d/c/B/A/ |"Cmaj7" B B z/ B B/ | %15
+w: bread- line in the|head- line to-|day.|And when we see the|land- lord, we can|
+w: |||||
+"Bb" _B B"A7" A A |"Ab7" _A A"G7" G z ||"C" z E G3/2 E/ |"Dm7" F"G7" G3 |"C" z E G3/2 E/ | %20
+w: look that guy right|in the eye.|We're in the|mo- ney.|Come on my|
+w: |||||
+"Dm7" F"G7" G3 |"C" z e"C+" e3/2 c/ |"F" d c d"Ab7" c |"C" e c2"G7" d |"C" c3 z |] %25
+w: hon- ey.|Let's spend it,|lend it, send it|roll- ing a-|way.|
+w: |||||
+

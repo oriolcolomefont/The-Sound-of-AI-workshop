@@ -1,0 +1,35 @@
+X:1
+T:Vienna,City Of My Dreams (Vienna Dreams)
+T:Vienna,City Of My Dreams (Vienna Dreams)
+T:Wien, du Stadt meine Traume
+T:Rudolf Sieczynski
+T:Richard Tauber
+C:Rudolf Sieczynski
+Z:All Rights Reserved
+L:1/8
+M:3/8
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" d3 | d2"Em" e |"Asus4" d2"Am" c | c3 |"Bm" BdB | d3 |"D+" ^AdA | d2 z ||S"G" d3 |"Abdim" d2 e | %10
+w: ||||||||Hea-|ven Vi-|
+"Am" d2 c |"Cm" c3 |"Bm" BdB |"D+7" d^Ad |"G" A2 G | G3 | EGE |"Gdim" G2 E |"Am7" G2 E | E3 | %20
+w: en- a|mine,|I'm in the|spell of your|charms di-|vine.|Dressed like a|queen, with|life so|gay|
+"D7" FFG | ABc |"G" c2 B | B3 |"G" d3 |"Abdim" d2 e |"Am" d2 c |"Cm" c3 |"D7" BdB |"D+7" d^Ad | %30
+w: You are the|love of my|heart to-|day.|Heav-|en, Vi-|en- a|mine,|Laugh- ter and|mu- sic and|
+"G" A2 G | G3 | D^CD |"B7" GGF |"C6" EAc |"Am" e2 E |"Cm6" c2 c |"Bm" B2"D7" d |"G" G3- | %39
+w: stars that|shine.|Won- der- ful|cit- y *|where I be-|long, To|you I|sing my|song-|
+ G2 D!fine! ||"G" D2 E/G/ | B2 D | DE>G | B2 B |"Em" edB |"B7" AG>B |"C" E3- |"Am" E z E | EA>c | %49
+w: * My|heart seems to|beat, with|rap- ture so|sweet, I|walk thro' the|town in a|trance.|* A|La- dy so|
+ e2 E | EA>c | e2 e |"D7" fed | cB"Gb"^A |"G" B3- | B2 D | DE>G | B2 D | DE>G | B2 B |"Em" edB | %61
+w: fair be-|yond all com-|pare has|filled me with|joy and ro-|mance.|* Her|moods and her|wiles, her|frowns and her|smiles Keep|chang- ing so|
+"B7" AG>B |"C" E3- |"Am" E z E |"D7" cBc | B2 A | cBc | B2 A | cBc | BBA |"G" GB,"Am"C | %71
+w: quick- ly each|day.|* No|won- der I|dream, her|beau- ty su-|preme en-|slaves me and|I must o-|bey. * *|
+"G7" D z G |"C" G3 | E2 G |"Am" A2 A |"Cmaj7" B2"Am" A/B/ |"C" G3- | G2 G |"Cm6" A3- | A2 A | A3- | %81
+w: * And|tho'|she has|count- less|lov- ers like|me,|* I|have|* no|wish|
+ A2 A |"D7" d3- | d2 D/A/ |"D+7" d3- | d3!D.S.! |] %86
+w: * to|be|* set *|free.-||
+

@@ -1,0 +1,23 @@
+X:1
+T:Lady in Black
+T:Lady in Black 
+T:Ken Hensley
+C:Ken Hensley
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+V:1
+ z4 z2 z E |"Am" AA/A/ z/ c3/2 B>A- AE | AA/A/- A<c B>A- AB |"G" G2 B2 d<d cB | %4
+w: She|came to me one mor- ning, _ one|lone- ly Sun- * day _ mor- ning her|long hair flow- ing in the|
+"Am" A>A- A<B A2 z E | AA/A/ z/ c3/2 B>A- AE/E/ | A/AA/- A<c B>A- AA/A/ | %7
+w: mid win- * ter wind. I|know not how she found _ me for in|dark- ness I _ was wal- * king and des-|
+"G" GG G/Bd/- dd- d/c/B/A/- |"Am" AA A/BA/- A4 |:"Am" A2- A<B c2- c/B/A | %10
+w: truc- tion lay a- round _ me _ from a fight|_ I could not win. _|Ah... _ _ _ _ _ _|
+"G" B2- B/c/B/A/-"Am" A2 z2 | e2- e/d/c"G" d2- d/e/d/c/- |"Am" c2 z2 z4 :| %13
+w: _ _ _ _ _ _|ah... _ _ _ _ _ _ _ _|_|
+

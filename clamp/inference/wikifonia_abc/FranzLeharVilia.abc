@@ -1,0 +1,24 @@
+X:1
+T:Vilia
+T:Vilia
+T:(from the Merry Widow)
+T:Franz Lehar
+C:Franz  Lehar
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" C2 F G | A2 c d | e2 d c | A4 |"C7" G2 c A | G2 c A |"F" D2 E C |"C7" D4 |"F" C2 F G | %9
+w: Vi- lia my|Vi- lia I|love on- ly|thee|And in thy|eyes lies the|whole world for|me|Life here be-|
+"Dm" A f f z |"Am" e2 c A |"F" c2 z2 |"C" =E2 F G |"G7" A2 d G |"C" c4- |"C7" c4 |"F" C2 F G | %17
+w: low would be|oh, so di-|vine|If I could|just make you|mine.||Vi- lia my|
+ A2 c d | e2 d c | A4 |"C7" G2 c A | G2 c A |"F" D2 E C |"C7" D4 |"F" C2 F G |"Dm" A2 f f | %26
+w: vi- lia when|I see your|smile|it seems that|I've gazed on|heav- en a|while|Thats how I|know t'would be|
+"Am" e2 c A |"F" c4 |"Gm" G2 c A |"C7" G2 A E |"F" F2- F2 |"Bb" z G A B |"F" c4 |"Bb" d2 f2 | %34
+w: oh, so di-|vine|if I could|just make thee|* mine|If I could|just|make thee|
+"F" f4- | f2 z2 |] %36
+w: mine.||
+

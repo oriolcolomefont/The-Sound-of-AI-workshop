@@ -1,0 +1,50 @@
+X:1
+T:Hey Jude
+T:Hey Jude
+T:Lennon, McCartney
+T:Lennon, McCartney
+C:John Lennon and Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Slowly" c2 |"F" (A4 A)Acd |"C" G4 z2 GA |"C11" B2 (f2 f)fe"C7"c |"F" dc/B/ A4 z c | %5
+w: Hey|Jude * dont' make it|bad Take a|sad song * and make it|bet- ter * * Re-|
+w: |||||
+"Bb" d d2 d g/f(e/ e/)f/d |"F" c4 FGA(d |"C" d)c z c B(AE)(F |"F" F)(F F4) c2 |:"F" (A4 A)Acd | %10
+w: mem- ber to let her in- * to your|hart, Then you can start|* * to make it * bet|* ter * Hey|1.Jude * don't be a-|
+w: ||||2.Jude * don't let me|
+"C" G6 GA |"C11" B2 (f2 f)f"C7"ec |"F" d(c/B/ A4) z c |"Bb" d/d/ z z d g/f(e/ e/)f/d | %14
+w: fraid, You were|made to * go out and|get her, * * The|min- ute you let her un * der your|
+w: down, You have|found her * now go and|get her, * * Re-|mem- ber to let her in * to your|
+"F" c4 FGA(d |"C7" c3) c B (A2 E) |"F" E(F F4) z2 |"F7" z z/ F/ f/_e(d/ d)ccB/(d/ | %18
+w: skin, Then you be- gin|* to make it *|bet- ter *|And an- y- time * you feel the pain|
+w: heart, Then you can start|* to male it *|bet- ter *|So let it out * and let it in|
+"Bb" d2) f(d"Bbmaj7" d2) f(B |"Gm7" B2) f(d d)cB(c |"C7" c2) d(c c2) B(A |"F" A)(G/(F/ F6)) | %22
+w: * hey Jude * re- frain|* don't car * ry the world|* up- on * your shoul|* ders * *|
+w: * hey Jude * be- gin|* you're wait * ing for some|* one to * per- form|* with * *|
+"F7" z z/ F/fd dc (3cB(d |"Bb" d2) f(d"Bbmaj7" d2) f(B |"Gm7" B2) f(d d)cB(c | %25
+w: For well you know that it's a fool|* who plays * it cool|* by mak * ing his world|
+w: And don't you know that it's just you,|* hey Jude * you'll do|* the move * ment you need|
+"C7" c2) d(c c) (B2 B/)(A/ |"F" A)(G/(F/ (F2) F))Fcd |"F7" (_e>d) e2"C7" =ef g2 | g4 z4 |1 %29
+w: * a lit * tle * cold|* er, * * * Da da da|da * da da da da|da|
+w: * is on * your * shoul|* der, * * * Da da da|da * da da da da|da|
+[M:2/4] z2 d2 :|2[M:2/4] z2 (c<d) ||[M:4/4]"F" (3(f/c/d/ (3c/G/(A/ (A2)) A)Acd |"C" G6 GA | %33
+w: Hey|Hey *|Jude * * * * * * * don't make it|bad, Take a|
+w: ||||
+"C11" B2 (f2 f)f"C7"ec |"F" d(c/B/ A4) z c |"Bb" d d2 d g/f(e/ e/)f/d |"F" c2 z2 FGA(d | %37
+w: sad song * and make it|bet- ter * * Re-|mem- ber to let her un * der your|skin, Then you'll be- gin|
+w: ||||
+"C7" c2) z c B A2 (E |"F" E)F^GA =Bcef | ^ga=bc' f'4 | F4 A2 c2 |"Eb" g/>f/g f6 | %42
+w: * to make it bet|* ter, bet- ter, bet- ter, bet- ter,|bet- ter, bet- ter, Oh|Da da da|da da da da|
+w: |||||
+"Bb" g/>f/g f4 d2 |"F" c8 |:"F" F4 A2 c2 |"Eb" g/>f/g f6 |"Bb" g/>f/g f4 d2 |"F" c8 :| %48
+w: Da da da da Hey|Jude|Da da da|da da da da|Da da da da Hey|Jude|
+w: ||||||
+

@@ -1,0 +1,43 @@
+X:1
+T:You're a Hit
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=135
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"_Intro""G" b/g/ d b/g/"^You're a Hit" d |"D6" b/f/ d b/f/ d"^Lyric and Music by Les Kettley" | %2
+w: ||
+w: ||
+w: ||
+"C" a g e c |"D7" d3 z |"_Verses" B"G" d3/2 d/ d/c/ | B"G7" d d2 | e"C" d c c | B"Am" c3 | %8
+w: ||Be- fore the tal- ent|show star- ted,|be- fore you'd sung|a note,|
+w: ||||||
+w: ||You're looks and voice are|so sex- y,|how can you fail|to win,|
+ A"D" c3/2 c/ c/B/ | A"D7" c c2 | d"G" c B B | A B3 | c"G" d3/2 d/ d/c/ | B"G7" d d2 | %14
+w: our eyes met ov- er|the foot- lights,|and then you had|my vote,|the on- ly win- ner|of this show,|
+w: ||||||
+w: when judg- es hea- r|and see you,|they would com- mit|a sin,|to give first prize to|an- oth- er,|
+ e/=f/"C" a g g | e"A7" g3 | a"G" b3/2 b/ a | g"A7" b e e-"_© Les Kettley\n" | e"Am" b/b/ e"D7" b | %19
+w: is so ver- y clear|to me,|you could have been|a- lone on stage,|_ on- ly you I|
+w: |||||
+w: when it should have gone|to you,|you'll steal the show|and be a hit,|_ and you'll steal my|
+ a"G" g3 | f e ^d =d- | d4 |:"_Chorus""^You're a Hit" B/c/"G" d B/c/"Gmaj7" d | %23
+w: could see.|_ _ _ _||You're a hit, you're a hit,|
+w: ||||
+w: heart too.|_ _ _ _|||
+ B/c/"Bdim" d B/c/ d | e"C" d c c | B"Am" c3 | A/B/"Am" c A/B/"C+" c | A/B/"C" c A/B/"D7" c |1 %28
+w: you're a hit, you're a hit,|you are my num-|ber one,|you're a hit, you're a hit,|you're a hit, you're a hit,|
+w: |||||
+w: |||||
+ d"G" c B B | A B3 :|2 B"Am" A2 e-"_© Les Kettley\n" || e"D7" d2 a- | a"G" g3- | g4 |] %34
+w: be- fore you've ev-|en sung,|for me you|_ are the|_ one.|_|
+w: ||||||
+w: ||||||
+

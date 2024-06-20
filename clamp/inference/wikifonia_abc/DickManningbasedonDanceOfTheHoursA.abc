@@ -1,0 +1,31 @@
+X:1
+T:(She'll never love you) Like I Do
+T:(She'll never love you ) Like I Do
+T:Hello Muddah,Hello Fadduh. Based on Dance of the hours by A. Ponchielli
+T:Dick Manning
+T:Dick Manning
+C:Dick Manning based on Dance Of The Hours,A. Ponchielli
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z z2 z2"C7" cc | c2 CC C2 ee | e2 CC C2 gg | g2 CC C2 c'c' | c'2 z2 z2 A,C |]"F" CD D4 DF | %6
+w: ||||* She may|kiss * you like *|
+"C7" FE E4 CD | DE E4 EB |"F" BA A4 AA |"A7" AG G4 GE |"Bb" ED D4 DF |"G7" AGGF AGGF | %12
+w: I * do She may|hold * you like *|I * do But she'll|nev * er nev- er|nev * er She will|nev- er nev- er love * you like|
+"C7" A2 G4 A,C |"F" CD D4 DF |"C7" FE E4 CD | DE E4 EB |"F" BA A4 AA |"A7" AG G4 GE | %18
+w: I do She may|whis * per you're her|on * ly That with|out * you she is|lone * ly But she'll|nev * er nev- er|
+"Bb" ED D4 DF |"G7" AGGF"C7" FEEG |"F" G2 F4 AB |"A7" G6 GA |"Dm" F6 AB |"A7" G^FGF GFGA | %24
+w: nev * er She will|nev- er nev- er love- * you like|I do She may|sigh you may|fall Then she'll|nev- er be at home * when you|
+"Dm" F6 FA |"G7" G6 DF |"C" E6 EF |"G7" GAFG EFDE |"C7" C6 CC | C6 EE | E6 GG | G6 cc | c6 A,C | %33
+w: call Can't you|tell by her|smile She just|wants your heart to play with for a-|while Take it|slow take it|slow Don't you|know don't you|know She may|
+"F" CD D4 DF |"C7" FE E4 CD | DE E4 EB |"F" BA A4 AA |"A7" AG G4 GE |"Bb" ED D4 DF | %39
+w: kiss * you like *|I * do She may|hold * you like *|I * do But she'll|nev * er nev- er|nev * er she will|
+"G7" AGGF"C7" FEEG | G8 |"^F" F2 z2 z4 |] %42
+w: nev- er nev- er love * you like|I|do|
+

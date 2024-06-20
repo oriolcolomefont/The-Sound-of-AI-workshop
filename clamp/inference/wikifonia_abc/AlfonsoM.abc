@@ -1,0 +1,27 @@
+X:1
+T:Tu Scendi Dalle Stelle
+T:Tu Scendi Dalle Stelle
+C:Alfonso M. de'Liguori
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z B |"Eb" B2 c B2 A | A G4 F |"Gm7" (GA)B (BAG) |"Bb7" F3- F2 G | F2 G A2 G | F3"Ab" c3 | %7
+w: Tu|scen- di dal- le|stel- le, O|Re _ ~del ciel- * *|lo _ e|vieni- ni͜~in u- na|grot- ta͜~al|
+w: A|te che sei del|mon- do il|cre- * a- to- * *|re _ man-|ca- no pan- ni͜~e|fuo- co͜~o|
+"Fm7" (Bc)B (AGF) |"Eb" G3- G2 G |"Bb7" F2 G A2 G | F3"Ab" c3 |"Bb7" (Bc)B (AGF) |"Eb" E3 (GA)B | %13
+w: fred- * do͜~al ge- * *|lo _ e|vieni- ni͜~in u- na|grot- ta͜~al|fred- * do͜~al ge- * *|lo. Oh _ Bam-|
+w: mio _ Si- gno- * *|re, _ man-|ca- no pan- ni͜~e|fuo- co͜~o|mio _ Si- gno- * *|re. Ca- * ro͜~e-|
+"Fm7" (AG)A (FG)A |"Eb" G2 G (GA)B |"Bb7" (AG)A FGA |"Eb" G3- G2 F | GAB (BAG) |"Bb" F3- F2 G | %19
+w: bi- * no mi- o di-|vi- no, io _ ti|ve- * do qui a tre-|mar;- * o|Di- o be- a- * *|to! _ Ah|
+w: let- * to par- * go-|let- to quan- * to|ques- * ta tu- a bon-|tà- * piu|,'in- * na- mo- * *|ra _ gia-|
+ F2 G A2 G | F3"Ab" c3 |"Bb7" (Bc)B (AGF) |"Eb" G3- G2 G |"Bb7" F2 G A2 G | F3"Ab" c3 | %25
+w: quan- to ti cos-|stó l'a-|ver- * mi͜~a- ma- * *|to! _ Ah,|quan- to ti cos-|stó l'a-|
+w: che ti fe- ce͜~a-|mor po|ve- * ro͜~an- co- * *|ra. _ gia|che ti fe- ce͜~a-|mor po|
+"Bb7" (Bc)B (AGF) |"Eb" E3- E3 |] %27
+w: ver- * mi͜~a- ma- * *|to! *|
+w: ve- * ro͜~an- co- * *|ra. *|
+

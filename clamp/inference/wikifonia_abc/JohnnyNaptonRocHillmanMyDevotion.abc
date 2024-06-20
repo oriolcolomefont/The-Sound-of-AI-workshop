@@ -1,0 +1,31 @@
+X:1
+T:My Devotion
+T:My Devotion
+T:Roc Hillman, Johnny Napton
+C:Johnny Napton, Roc Hillman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" c3 ^c |"Dm7" d A2"G7" B |"C" c G/E/"Em" B G/E/ |"Gm" _B E3 |"Dm7" A F/D/"G7" _A F/D/ | %5
+w: My de-|vo- tion is|end- less and deep as the|o- cean|and like a star shin- ing|
+w: My de-|vo- tion is|not just a sud- den e-|mo- tion|It will be con- stant- ly|
+"C" G A B"C" c |1"D" d3/2 c/"D7" B c/d/ ||"G7" G4 :|2"D7" d3/2 c/"G7" B c/d/ ||"C" c3 z | %10
+w: from a- far re-|mains for ev- er the|same|love will kin- dle the|flame.|
+w: burn- ing and your|||||
+"Dm7" D E G F |"G" A A3 |"Cmaj7" G A B A |"C" E4 |"F" ^F G B A |"B7" c c"E7" c2 | %16
+w: what a sweet be-|gin- ning|to the dream I|planned|all I own is|yours a- lone|
+w: ||||||
+"Am7" d d/d/"D7" d D |"Dm7" A3"G7" G |"C" c3"A7" ^c |"Dm7" d A2"G7" B |"C" c G/E/"Em" B G/E/ | %21
+w: your wish is my com-|mand. and|this sen-|sa- tion was|nev- er a mere fas- ci-|
+w: |||||
+"Gm" _B E3 |"Dm7" A F/D/"G7" _A F/D/ |"C" G =A B c |"Dm7" A B c d |"B7" e4 | %26
+w: na- tion|here in my heart one sweet|day it start- ed|then with time it|grew|
+w: |||||
+"Dm7" d3/2 c/"G7" B c/d/ |"C" c4 |] %28
+w: My de- vot- ion to|you.|
+w: ||
+

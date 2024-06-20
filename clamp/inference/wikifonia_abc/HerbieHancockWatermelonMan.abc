@@ -1,0 +1,15 @@
+X:1
+T:Watermelon Man
+C:Herbie Hancock
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F7" _e8- | e2 FF c d2 F- | F8- | F8 |"Bb7" f8- | f2 FF c d2 F- |"F7" F8- | F8 |"C7" z2 cc g2 a2 | %9
+"Bb7" _agfd f2 g2 |"C7" z2 cc g2 a2 | _a"Bb7"gfd f2 d2 |"C7" z2 cc g2 a2 |"Bb7" _a2 FF c d2 F- | %14
+"F7" F8- | F8 |] %16
+

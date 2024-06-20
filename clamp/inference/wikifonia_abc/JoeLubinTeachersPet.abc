@@ -1,0 +1,36 @@
+X:1
+T:Teacher's Pet
+T:Teacher's Pet
+T:Joe Lubin
+T:Joe Lubin
+C:Joe Lubin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" c2 GA-"Ebdim" A4 |"Dm7" z2 c2"G7" B>A G2 |"C" E2 BA-"Am" A4 |"Dm7" z2 c2"G7" B>A G2 | %4
+w: Teach- er's Pet *|I wan- na be|Teach- er's Pet *|I wan- na be|
+"C" c c2 G"C#dim" A A2 E |"Dm7" F>AG>F"G7" E2 DE- |"E7b5""A7" E8- |"D7b5""G7" E8 | %8
+w: hud- dled and cud- dled as|close to you as I can get.|||
+"C" c2 GA-"Ebdim" A4 |"Dm7" z2 c2"G7" B>A G2 |"C" E2 BA-"Am" A4 |"Dm7" z2 c2"G7" B>A G2 | %12
+w: Teach- er's pride *|I wan- na be|Teach- er's pride *|I wan- na be|
+"C" c c2 G"C#dim" A A2 E |"Dm7" F>AG>F"G7" E2 Gc- |"C""Am7" c8- |"F#m7b5" c4"B7" z BB^A | %16
+w: da- ted and ra- ted, the|one most like- ly at your side||* I wan- na|
+"Em" B4 E>^FG>E |"F#m7b5" B A3-"B7" A4 |"Em" (3G2 G2 G2"C7" (3G2 E2 G2 |"B7" ^F6"D7" D2 | %20
+w: learn all your lips can|teach me *|One kiss will do at the|start. I'm|
+"G" d4"Cdim" c>B"Em"A>G |"Am7b5" c2 c6 |"D7" (3A2 A2 A2 (3A2 B2 c2 |"Dm7b5""G7" d8 | %24
+w: sure with a lit- tle|home- work|I'll gra- du- ate to your|heart.|
+"C" c2 GA-"Ebdim" A4 |"Dm7" z2 c2"G7" B>A G2 |"C" E2 BA-"Am" A4 |"Dm7" z2 c2"G7" B>A G2 | %28
+w: Teach- er's Pet *|I wan- na be|Teach- er's Pet *|I wan- na take|
+"C" c c2 G"C#dim" A A2 E |"Dm7" F>AG>F"G7" E D2 A- |"A7""G""Cm""A7" A8 | %31
+w: home a dip- lo- ma and|show Ma that you love me too.||
+"D9" z2 ee-"G13" e_e"G7" d2 |"C" c2 GA-"C#dim" A4 |"Dm7" (3F2 A2 c2"G13" e2 Gc- |1"C""C#dim" c8- || %35
+w: So I * can be|Teach- er's Pet *|long af- ter school is through.-||
+"Dm7" c4"G7" z4 :|2"C""Ab9" c8- ||"C""Ab" c4"C" z4 |] %38
+w: |||
+

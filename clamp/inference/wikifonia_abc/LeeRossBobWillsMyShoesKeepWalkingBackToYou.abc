@@ -1,0 +1,31 @@
+X:1
+T:My Shoes Keep Walking Back To You
+T:My shoes keep walking back to you
+T:Lee Ross and Bob Wills
+C:Lee Ross, Bob Wills
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 D E |:"D" F3/2 G/ F"A7" E |"D" D2"A7" E"D" F |"A7" G3/2 A/ G F | E3 A/A/ | A E E F | %6
+w: I must|say that I dont|care hold my|head up in the|air ev- en|tell my friends I'm|
+w: * how|much I pre- tend|I wish I|had you back a-|gain for *|noth in else means|
+ G3/2 G/ F E |"D" F4- |"Em7" F2"A7" F E |"D" F3/2 G/ F"A7" E |"D" D3 F |"A7" G3/2 A/ G F | E3 A | %13
+w: glad that you dont|call|* but *|when the day is|thru my|heart- ache starts a-|new and|
+w: half as much as|you|* our *|world just seemed to|die the|day you said good-|bye andI|
+ A2 E F | G G F E |"D" D4- |"G" D"D" z"^Chorus:" z2 |] z2 F A | D4- | D F"G" G"D" F |"A7" F2 E2- | %21
+w: thats when I|miss you most of|all||and my|arms|* keep reach- ing|for you|
+w: cant forget no|mat- ter what I|do||||||
+ E2 E D | C4- | C G G A |"D" G2 F2- | F2"A7" F E |"D" D4- | D d d c |"G" c2 B2- | B2"A7" c"Em7" B | %30
+w: * my *|eyes|* keep search- ing-|for you|* my *|lips|* keep call- ing|for you|* and my|
+w: |||||||||
+"A7" c3 E | G G F E |1"D" D4- |"G" D"D" z/ D/ D E :|2"D" D4- || D z A B |"A7" c3 E | G G F E | %38
+w: shoes keep|walk- ing back to|you|* no mat- ter|you|* and my|shoes keep|walk- ing back to|
+w: ||||||||
+"D" D4- |"Gm" D3"D" z |] %40
+w: you||
+w: ||
+

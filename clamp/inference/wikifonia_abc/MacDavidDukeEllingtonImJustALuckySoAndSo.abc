@@ -1,0 +1,26 @@
+X:1
+T:I'm Just A Lucky So And So
+T:I'm Just A Lucky So And So
+C:Mac David
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z DEG (3BEG- G2 |"C" z CEG (3_BGB- B2 |"G" z DEG BGBA- |"Dm7" A8 |"C7" z2 G2"A7" A2 G2 | %5
+w: As I walk down the street, _|seems ev- 'ry- one I meet _|gives me a friend- ly hel- lo.|_|I guess I'm|
+"Am7" eEGF"D9" B2 DG- |"G6" G8- |"Am7" G2 z2"D7" z4 |"G6" z DEG (3BEG- G2 | %9
+w: just a luck- y so and so.|_||The birds in ev- 'ry tree, _|
+"Cmaj7" z CEG (3_BGB- B2 |"G6" z DEG BGBA- |"Dm7" A8 |"C7" z2 G2"A7" A2 G2 |"Am7" eEGF"D9" B2 DG- | %14
+w: are all so neigh- bor- ly _|they sing where- ev- er I go.|_|I guess I'm|just a luck- y so and so.|
+"G6" G8- |"G6" G4- GGGG |"C9" AAAA A4 |"Gmaj7" FFFF F3 G |"C9" AAAA- A2 AA |"Gmaj7" F F3- F2 G2 | %20
+w: _|* * If you should|ask me the a- mount|in my bank ac- count, I'd|have to con- fess _ that I'm|slip- pin'. _ But|
+"Am6" AAAA"B7" A4 |"Em7" BBBB BBFB |"A7" A6 FF |"Am7" E E3-"D9" E4 |"G6" z DEG (3BGB- B2 | %25
+w: that don't wor- ry me,|con- fi- den- tial- ly, I've got a|dream that's a|pip- pin'. _|And when the day is thru _|
+"Cmaj7" z CEG (3BGB- B2 |"G6" z DEG BGBA- |"Dm7" A8 |"C7" z2 G2"A7" A2 G2 |"Am7" eEGF"D9" B2 DG- | %30
+w: each night I hur- ry to _|a home where love waits, I know.|_|I guess I'm|just a luck- y so and so.|
+"G6" G8- | !fermata!G8 |] %32
+w: _||
+

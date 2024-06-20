@@ -1,0 +1,28 @@
+X:1
+T:I'll Make Up For Ev'rything
+T:I'll Make Up For Ev'rything
+T:Ross Parker
+T:capo 1
+C:Ross Parker
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" [CE] F"D#dim7" [A,C^F]"C/E" [G,CG] |"G" [Acf]"C" [Gce]"Em7" [GBd]"Ebdim7" [^FAc] | %2
+"Dm9" [FAe] [Fc] [CFA] E |"G13" ([B,EG]2"G7" [B,DG]2) ||"C/E" G c"Cdim7" B A | %5
+"Dm7" (3F G A"G7" B2 |"Gm6" (3E F G"A7" A3/2 E/ |"Fm" D3"G7" E/D/ |"Am" C D"Fm" E F | %9
+"C" G A"Cm" B B/c/ |"G" d d"D13" B3/2 d/ |"G" A3"Bbm6" z |:"C" E F"D#dim7" ^F"C" E | %13
+"G" f"C" e"Em7" d3/2"Ebdim7" c/ |"Dm7" c B"G7" d F |"Dm" A4 |"G7" D"C#dim7" E"G7" F A | %17
+"Dm7" c"G7" B d3/2"G+" B/ |"C" B A c E |"C""G+" G4 |"A7" E F G A |"Em7" _B B"A7" A3/2 G/ | %22
+"Dm" G F"A7" E G |"Dm" F4 |"D7" ^F A c"Ddim7" d |"Am7" e e"D13" d2 |"G" z c"G7" B d | %27
+"G7""Gdim7" A4 |"C" E F"D#dim7" ^F G |"G" f"C" e"Em7" d3/2"Ebdim7" c/ |"Dm7" c"G7" B d F |"Dm" A4 | %32
+"G7" D E F3/2 G/ |"F6" A B c d/e/ |"E7" (e4 |"A" e3) z |"Dm7" e d c A |"Fm" e/ d c/ c"Fdim7" B | %38
+"C" d c"E7" e B |"A7" A3 E |"Dm" G F"Dm7" A c |"Fm" d2"G" e2 |"C" (c4 |"Dm7" c2)"G" z2 :| %44
+"C""Dm7" (c4 |"C" c3) z || z4 | z4 | z4 | z4 |] %50
+

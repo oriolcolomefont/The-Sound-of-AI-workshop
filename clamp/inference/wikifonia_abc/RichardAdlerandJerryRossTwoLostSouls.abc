@@ -1,0 +1,36 @@
+X:1
+T:Two Lost Souls
+T:Two Lost Souls  (from Damn Yankees)
+T:Richard Adler and Jerry Ross
+C:Richard Adler and Jerry Ross
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" C2 E2"C7" _B,2 G,G, |"C" CD E2"C7" _B,3 G, |"C" C2 DE"C7" _B,3 G, |"C" C2 CD E G2 C | %4
+w: (both)Two lost souls on the|high- way of life. we|ain't e- ven got a|sis- ter or bro- ther. (Joe)But|
+w: (both)Two lost ships on a|storm- * y sea, *|One with no sail and|one with no rud- der. *|
+"F" FG A2"F7" _E4 |"F" FG A2"F7" _E4 |"G" z4 z [B,_E=EEE][B,E][B,E] |1"C" [B,_E] [CF]6 z :|2 %8
+w: ain't it just great,|(Lola)ain't it just grand,|(both)We've got each|o- ther.|
+w: ||||
+"C" B, C4 z _A2 ||"F" A2 c2 A2 CC |"Fm" _A_B c2 A4 |"C" G2 cc G2 E2 | G2 c2 G3 G | %13
+w: o- ther. (Joe)We're|two lost sheep in the|wilds of the hills,|far from the o- ther|Jacks and Jills. (Lola)We|
+w: |||||
+"F#" _G=G A2 _G4 | _G=G A2 _G3 E |"G" G2 E2 GG E2 | G2 E2 GG G,2 |"C" C2 E2"C7" _B,2 G,G, | %18
+w: wan- dered a- *|and went a- stray But|we ain't fus- sin' 'cause|we've got us- en. (both)We're|Two lost souls on the|
+w: |||||
+"C" CD E2"C7" _B,3 B, |"C" C2 DE"C7" _B,3 G, |"C" C2 CD E G2 C |"F" FG A2"Fm" _E4 | %22
+w: high- way of life. and|there is no one with|whom we would ru- ther. (Joe)Say|ain't it just great,|
+w: ||||
+"F" FG A2"Fm" _E4 |"G" z4 z [_E=EEE]EE |"C" _E F6 z |"G" z4 z [_E=EEE]EE |"C" _E F6 z | %27
+w: (Lola)ain't it just grand,|(both)We've got each|o- ther.|(both)We've got each|o- ther.|
+w: |||||
+"G" z4 z [_E=EEE]EE |"C" _EF z z4 z |] %29
+w: (both)We've got each|o- ther.|
+w: ||
+

@@ -1,0 +1,29 @@
+X:1
+T:Stranger In Paradise
+T:Stranger in Paradise
+T:Robert Wright and George Forrest
+C:adapted by George Forrest from Borodin's Polovetsian Dances (Gliding Dance Of The Maidens)
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Dm7" d d a2- |"G7" a g/a/ f e/d/ |"C" e/f/ g3 | z a e d/c/ |"Dm7" A A d2- |"G7" d e d c/B/ | %6
+w: Take my hand|* I'm a strang- er in|par- a- dise|All lost in a|won- der- land|* a strang- er in|
+"C" c/B/ A3 | z B c e |"Dm7" d d a2- |"G7" a g/a/ f e/d/ |"C" e/f/ g3 | z a e d/c/ |"Dm7" A A d2- | %13
+w: par- a- dise|If I stand|star- ry eyed|* that's a dan- ger in|par- a- dise|for mor- tals who|stand be- side-|
+"G7" d e d c/B/ |"C" c4 | z c c c |"Ab" c4- | c c _d _e |"Db" _e2 f2- | f2 _d _e/f/ | %20
+w: * an an- gel like|you|I saw your|face|* and I as-|cend- ed|* out of the|
+"Bbm" g3/2 g/ g2- |"C7" g2 g f/g/ |"Fm" _a4 | z _a _a _a |"E7" ^g4- | ^g ^g a ^g |"A" b2 ^f2 | %27
+w: com- mon place|* in- to the|rare!|some- where in|space|* I hang sus-|pend- ed|
+ z ^f ^f ^f |"Dm" f4- |"G7" f/f/g/ a g/f/ z/ |"C" e4 |"A7" z e/f/ g f/e/ |"Dm7" d d a2- | %33
+w: un- til I|know|* there's a chance that you|care|won't you an- swer the|fer- vent prayer|
+"G7" a g/a/ f e/d/ |"C" e/f/ g3 | z a e d/c/ |"Dm7" A A d2- |"G7" d e d c/B/ |"C" c/B/ A3 | %39
+w: * of a strang- er in|par- a- dise?|dont send me in|dark des- pair|* from all that I|hun- ger for|
+ z B c d/e/ |"D7" d d a2- |"G7" a g/a/ f e/d/ |"C" e/f/ g3 |"A7" z a g f/e/ |"F" A A"Dm" d2- | %45
+w: but 0- pen your|an- gels arms|* to the strang- er in|par- a- dise|and tell him that|he need be|
+"G7" d e d c/B/ |"C" c4 | c3 z |] %48
+w: * a strang- er no|more.||
+

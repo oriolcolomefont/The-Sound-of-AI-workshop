@@ -1,0 +1,23 @@
+X:1
+T:Don't Dilly Dally on The Way
+T:Don't Dilly Dally On The Way
+T:Charles Collins, and Fred W. Leigh
+C:and Fred W. Leigh, Charles Collins
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c2 d2 | A3 F |"G7" G A2 G | D4 |"C7" E2 cd | cB G^G |"F" A4- | A4 |"A7" A2 AB | A2 GE | G2 A2 | %11
+w: My old|man said|"fol- low the|van|d0n't dil- ly|dal- ly on the|way||Off went the|cart with the|home packed|
+"Dm" G F3 |"G7" G2 GA | G2 FD |"C" E2"G7" F2 |"C7" Gc AB |"F" c"Gbdim" c2 A |"C7" B c3 | %18
+w: in it|I walked be-|hind with my|old cock|lin- net But I|dil- lied and|dal- lied|
+"F" c"Gbdim" c2 A |"C7" B c3 |"F" c>d cA |"G7" GF DF |"C7" G4- | G z z c |"F" F F2 G | AA G"F7"F | %26
+w: dal- lied and|dil- lied|Lost the van and|don't know where to|roam|* I|stopped on the|way to have the|
+"Bb" G2 A2 |"Gm" BG AB |"C7" c2 d2 | A2 G2 |"^F" F4- | F z z2 |] %32
+w: old half-|quart- ern and I|can't find|my way|home.||
+

@@ -1,0 +1,50 @@
+X:1
+T:Slow, slow (Run, run)
+C:Ayo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Gm" G2 dc BAGF |"Cm" E2 C"Gm"D- D2 z2 |"Gm" G2 dc BAGF |"Cm" EFG"Gm"G- G2 z2 |"Gm" G2 dc BAGF | %5
+w: |||||
+w: |||||
+"Cm" E2 C"Gm"D- D2 z2 |"Gm" G2 d2 cB G2 |"Cm" E2 z D- D2 z2 |"Gm" z8 | z8 |"Gm" z4 z2 gf | %11
+w: |||||What I|
+w: |||||Things are|
+"Cm" e2"Gm" cd- d2 z2 |"Gm" z4 z2 cB- |"Cm" B c2"Gm" B (dc B2) |"Gm" z4 z2 fg |"Cm" a2- a"Gm"b g4 | %16
+w: have be- come- *|is that|* real- ly me * *|Look what|I * have done|
+w: get- ting strange *|guess I|* need a change * *|But I|can run a- way-|
+"Gm" z2 AB c2 BA |"Cm" z B"Gm" AG z4 |"Gm" z4 z2 fg |"Cm" a2- a"Gm"b g4 |"Gm" z4 z2 gg | %21
+w: this is not who I|wan- na be|I gotta|face * my- self-|got- ta|
+w: no I can't es- ca-|pe * *|I gotta|face * my- self|got to|
+"Cm" f2- f"Gm"g d4 | z4 z2"Gm" fg |"Dm" a3"Cm" b"Gm" g2 z2 | z4 z2 d2 | z c2 f (dc B2) | z4 z2 d2 | %27
+w: chase * my soul|Got- ta|free my mind|get|back my glow * *|I|
+w: free * my mind|I gotta|chase my soul|get|back my glow * *||
+ z c2 B G2 z2 | z4 z2 d2 | z c2 B G2 z2 |"Gm" z8 | z2 d2 d2 d2 |"Cm" e2 f"Gm"d- d2 z2 | z2 d4 cB | %34
+w: got to go|Yes|I got to||Run run run|run run run *|Run for my|
+w: |||||||
+"Cm" (A3"Gm" G- G)ddd | G2 d2 d2 d2 |"Cm" e2 (f"Gm"d- d2) z2 | z2 dd d2 cB | A3 G- Gddd | %39
+w: soul * * I bet- ter|go go go go|go go * *|Ma- king sure I go|slow slow * I got to|
+w: |||||
+ z2 d2 d2 d2 | e2 fd- d2 z2 | z2 d4 cB |"Cm" (A3"Gm" G- G)ddd | G2 d2 d2 d2 | %44
+w: run run run|run run run *|Run for my|soul * * I bet- ter|go go go go|
+w: |||||
+"Cm" e2 (f"Gm"d- d2) z2 | z2 dd d2 cB |"Cm" A3"Gm" G- G2 ga | z2 b2 a2 g2 |"Cm" z4"Gm" z2 ga | %49
+w: go go * *|Ma- king sure I go|slow slow * I got~to|free my mind|I got~to|
+w: |||||
+ z2 b2 a2 g2 |"Cm" z4"Gm" z2 ga | z2 b2 a2 g2 |"Cm" z4"Gm" z2 ga | z2 b2 a2 g2 | %54
+w: chase my soul|I got~to|be my- self|I got~to|find my glow|
+w: |||||
+"Cm" e2- e"Gm"d- d2 z2 :|"Gm" G2 dc BAGF |"Cm" E2 C"Gm"D- D2 z2 |"Gm" G2 dc BAGF | %58
+w: ||||
+w: ||||
+"Cm" EFG"Gm"G- G2 z2 |"Gm" G2 dc BAGF |"Cm" E2 C"Gm"D- D2 z2 |"Gm" G2 d2 cB G2 | %62
+w: ||||
+w: ||||
+"Cm" E2"Gm" G4 z2 |] %63
+w: |
+w: |
+

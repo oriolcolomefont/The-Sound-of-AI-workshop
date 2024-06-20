@@ -1,0 +1,35 @@
+X:1
+T:Three Little Sisters
+T:Three Little Sisters
+T:Irving Taylor & Vic Mizzy
+C:Irving Taylor & Vic Mizzy
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 C C |:S"F" F2"Gm7" F F |"F/A" A F3 | A2"C7/G" A A |"F/A" c A2 A | c2 c2 |"F#dim" c c B A | %7
+w: There were|Three Lit- tle|Sis- ters,|Three Lit- tle|Sis- ters, and|each one|on- ly in her|
+w: |Three Lit- tle|Sis- ters,|they were the|fair- est from|Ice- land|down to New Or-|
+w: |Three Lit- tle|Sis- ters|Three Lit- tle|Sis- ters stay|home and|read their mag- a-|
+"Gm""Gm7" G4- |"C7" G2 C C | E- E E E | G E3 |"Gm7" G- G G G |"C7" B G2 G |"C7/G" c2"F#dim" c c | %14
+w: teens,||one * loved a|sol- dier,|one * loved a|sail- or, and|one loved a|
+w: leans,||so * said the|sol- dier,|so * said the|sail- or, and|so said the|
+w: zines,|* you can|tell it to the|sol- diers,|tell it to the|sail- ors, and|tell it- *|
+"C7/G" c2 (3B A G |"F""Bb" F4- |1"F" F2"C7" C C :|2"F" F3 F!fine! ||"Bb" d2"D7" d2 | %19
+w: lad from the Mar-|ines.|* Oh, the|* And|when the|
+w: lad from the Mar-|ines.||||
+w: * to the Mar-|ines.||||
+"Gm7" d2"C7" c B |"F""Fmaj7" c4- |"F6""Am" c3 c |"Dm7" A A"G13" G F |"Dm7" A A"G13" G F | %24
+w: boys marched a-|way,|* the|girls said they'd be|true un- til the|
+w: |||||
+w: |||||
+"C7" d c"Cdim" B A!D.S.!!D.S.! |"C7" G2 C C |] %26
+w: boys came back some|day. Now the|
+w: ||
+w: ||
+

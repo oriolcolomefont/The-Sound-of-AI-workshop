@@ -1,0 +1,17 @@
+X:1
+T:The Chicken
+T:The Chicken
+T:Jacko Pastorius
+C:Alfred James Ellis
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Bb
+V:1 treble nm="Alto Saxophone"
+V:1
+"Bb7" z4 _AA2G-"Eb7" G8 |"Bb7" z4 _AA2G-"Eb7" G8 |"Bb7" z4 _AA2G-"Eb7" G8 | z8 z4 z GB2 |: %4
+S"Bb7" d4 z4 z8 | z4 FGB_d- dcBG B2e2 | d4 z4 z8 | z4 d4 !tenuto!g2.f2!tenuto!_d2c2- | %8
+"Eb7" c4 BGB2- B8 | z8 z4 B4 |"D7" z4 !tenuto!A2.A2 z4 AGFG- |"G7" G8 z3 ^F GBdB- | %12
+"C7" B8 z3 ^F GBdB- | B8 z3 ^F GBdB- | B12 z4 | B_A2F- FE2_D- DB,_A,2 z2 B,2!fine! |"Bb7" z16 | %17
+ z16 | z16 | z8 z4 z GB2 :| %20
+

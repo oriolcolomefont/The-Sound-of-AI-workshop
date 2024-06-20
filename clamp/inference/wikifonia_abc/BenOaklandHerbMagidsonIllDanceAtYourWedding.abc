@@ -1,0 +1,32 @@
+X:1
+T:I'll Dance At Your Wedding
+T:I'll Dance At Your Wedding
+T:Ben Oakland
+T:Herb Magidson
+C:Ben Oakland
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z C |:"F" C2 F"Edim" G |"F6" A/ F3/2- F D |"Dm7" G2"G7" G F |"C7" E/ C3/2- C C | %5
+w: I'll|dance at your|wed- ding, * I'll|dance at your|wed- ding, * I'll|
+"F" C2"F7" F A |"Bb" c/ B3/2-"Bbm" B B |"F" A F"C7" G/>F/E/F/- |"F" F3 C | C2 F"Edim" G | %10
+w: dance ay your|wed- ding, * I'll|have a won- der- ful time,|* I'll|drink to your|
+"F6" A/ F3/2- F D |"Dm7" G2"G7" G F |"C7" E/ C3/2- C C |"F" C2"F7" F A |"Bb" c/ B3/2-"Bbm" B B | %15
+w: fath- er, * I'll|drink to your|moth- er, * Then|I'll have an-|oth- er * for|
+"F" A/ F3/2"C7" G/ E F/- |"F""F7" F3 F |"Bb" F2 B c/d/- | d/ d3/2-"Bdim" d d |"F" c A"C7" B G | %20
+w: Auld * Lang * Syne.|* I'll|kiss all the la-|* dies, * The|young and old and|
+"F""A7" A3 A |"Dm" A F"A7" G F |"Dm7" A/ F G/-"G7" G F |"Gm" d d B G/E/- |"C9" E3 C | %25
+w: then, I'll|have my- self an-|oth- er drink, * And|kiss them all a- gain!|* I'll|
+"F" C2 F"Edim" G |"F6" A/ F3/2- F D |"Dm7" G2"G7" G F |"C7" E/ C3/2- C C |"F" C2"F7" F A | %30
+w: dance at your|wed- ding, * I|won't miss that|wed- ding, * I'll|dance at your|
+"Bb" c/ B3/2-"Bbm" B B |"F" A2"Cm7" B/ c d/- |"D+""D7" d3 D |"G9" A4 |"Gm7" A F"C7b9" A2 |1 %35
+w: wed- ding, * Am|I gon- na shine|* At|your|wed- ding and|
+"F6" F2"C9" d B/c/- ||"Fmaj7" c A/G/-"C9" G c :|2"F6" F2"Bb" d"C#m" ^c/d/- ||"F6" d4 |] %39
+w: mine! * * *|* * * * I'll|mine! * * *||
+

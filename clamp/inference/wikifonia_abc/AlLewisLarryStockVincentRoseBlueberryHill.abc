@@ -1,0 +1,24 @@
+X:1
+T:Blueberry Hill
+T:BLUEBERRY HILL
+C:Al Lewis, Larry Stock, Vincent Rose
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ E G B |:"Ab" e4- | e c (3A E c |"Eb" B4- | B G (3E B, A |"Bb7" F4- | F F E F |"Eb""Ebmaj7" G4- | %8
+w: I found my|thrill|_ On Blue- ber- ry|Hill|_ On Blue- ber- ry|Hill|_ When I found|you.|
+"Eb6" G E"Eb7" G B |"^A b" e4- | e c (3A E c |"Eb" B4- | B G (3E B, A |"Bb7" F4- | F F E D | %15
+w: _ The moon stood|still|_ On Blue- ber- ry|Hill.|_ And lin- ge- red|til|_ my dreams came|
+"Eb""Db7" E4- |"Eb" E B"Ab6" (3F G A |"Eb" B3/2 B/"Eb6" B2- |"Ebmaj7" B B"Ab6" (3F G A | %19
+w: true.|_ The wind in the|wil- low played|_ Love's sweet mel- o-|
+"Eb""Eb6" B4- |"Eb7" B B"D7" (3=A B c |"Gm" d3/2 d/"D7" d2- |"Gm" d d"D7" (3=A =B c |"G" d4- | %24
+w: dy;|_ But all of those|vows we made|_ were nev- \-er to|be.|
+"Bb7" d"Eb7" E G B |"Ab" e4- | e c (3A E c |"Eb" B4- | B G (3E B, A |"Bb7" F4- | F F (3F E D |1 %31
+w: _ Tho' we're a-|part.|_ Tou're part of me|still|_ For you were my|thrill|_ On Blue- ber- ry|
+"Eb""Db7" E4 | z"Eb" E"Eb7" G B :|2"Eb""Ab6" E4- |"Eb" E3 z |] %35
+w: Hill.|I found my|Hill.|_|
+

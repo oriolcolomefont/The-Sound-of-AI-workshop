@@ -1,0 +1,53 @@
+X:1
+T:Wave
+T:Wave
+T:Antonio Carlos Jobim
+T:All Rights Reserved
+T:Arrangement by Miguel Zambrano
+T:2
+T:Wave
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="Violin" snm="Vln."
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" z4"F7" z4 |"G" z4"F7" z4 |:"D" z4"C7" z4"^|" |"D" z4"^|""C#7b5" (3B2 d2 c2 | %4
+w: |||So close your|
+"F#m" A4-"Adim" A2 z F |"A9" GBce"D" g f2 a- |"Am7" a4-"F7" a4- |"D7" a2 aa-"Cm6" a b2 a- | %8
+w: eyes, * for|that's a love- ly way to be.|_ _|* A- ware _ of things|
+"G" a g2 g"Bm7" f2 g2- |"Gm6" g2 fg-"A7b5" g a2 f- |"D" f4-"F#m" f4- | %11
+w: _ your heart a- lone|_ was meant _ to see.|_ _|
+"Bm7" f2 fa-"Ddim" a ^g2 =g- |"D" gf-ff-"D+" f d2 d- |"Bm" d B3"Gm6" z GBc | %14
+w: * The fun- * da- men-|* tal _ lone _ li- ness|_ goes when- ev- er|
+"^|""E7b9" dB^G=f"C9" e d2 d- |"D" d d3-"C7" d4 |"D" z4"^|""C#7b5" (3B2 d2 c2 | %17
+w: two can dream a dream to- geth-|* er. _|You can't de-|
+"F#m" A4-"Adim" A2 z F"^|" |"A9" GBce"D" g f2 a- |"Am7" a4-"F7" a4- |"D7" a2 aa-"Cm6" a b2 a- | %21
+w: ny, * don't|try to fight the ris- ing sea.|_ _|* Don't fight _ the moon,|
+"G" a g2 g"Bm7" f2 g2- |"Gm6" g2 fg-"A7b5" g a2 f- |"D" f4-"F#m" f4- | %24
+w: _ the stars * bove|_ and don't _ fight me.|_ _|
+"Bm7" f2 fa-"Ddim" a ^g2 =g- |"D" gf-ff-"D+" f d2 d |"Bm" d B3"Gm6" z GBc"^|" | %27
+w: * The fun- * da- men-|* tal _ lone _ li- ness|_ goes when- ev- er|
+"E7b9" dB^G=f"C9" e d2 d- |"D" d d3-"C7" d4 |"D" z4"F+" z4"^|" |"Gm7" d4"Cdim" (3=c2 _B2 A2 | %31
+w: two can dream a dream to- geth-|* er. _||When I saw you|
+"C7" G4"C9b5" (3A2 _B2 d2 |"Fmaj7" =c3 c c4-"^|" |"Gm7" c4-"Gdim7" c4 | %34
+w: first the time was|half past three,|_ _|
+"Fm7" =c4"Bbdim" (3_B2 _A2 G2"^|" |"Bb7" =F4"Bb9b5" (3G2 _A2 =c2 |"Eb7" _B3 B"Gm6" B4"^|" | %37
+w: when your eyes met|mine it was e-|ter- ni- ty.|
+"D" z4"C#7b5" (3B2 d2 c2 |"F#m" A4-"Adim" A2 z F |"A9" GBce"D" g f2 a- |"Am7" a4-"F7" a4- | %41
+w: By now we|know * the|wave is on its way to be.|_ _|
+"D7" a2 aa-"Cm6" a b2 a- |"G" a g2 g"Bm7" f2 g2- |"Gm6" g2 fg-"A7b5" g a2 f |"D" f4-"F#m" f4- | %45
+w: * Just catch _ the wave,|_ don't be a- fraid|_ of lov- * ing me.|_ _|
+"Bm7" f2 fa-"Bdim" a ^g2 =g-"^|" |"D" gf-ff-"D+" f d2 d |"Bm" d B3"Gm6" z GBc | %48
+w: * The fun- * da- men-|* tal _ lone _ li- ness|_ goes when- ev- er|
+"E7b9" dB^G=f"C9" e d2 d-"^|" |1"G" d d3"F7" z4 |"G" z4"F7" z4 :|2"D" d d3"D7" z4 || %52
+w: two can dream a dream to- geth-|* er.|||
+"G7" z2 B=f"C9" e d2 d- |"D" d d3"D7" z4 |"G7" z2 B=f"C9" e d2 d- |"D" d d3"C9" z4 |"Dmaj9" z8 |] %57
+w: dream a dream to- geth-|* er|dream a dream to- geth-|* er||
+

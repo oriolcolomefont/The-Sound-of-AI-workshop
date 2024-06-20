@@ -1,0 +1,27 @@
+X:1
+T:Try
+T:Try
+T:Pink
+C:Busbee, Ben West
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bm" d'c'"G" b6 |"D""A" z8 |"Bm" ba"G" f6 |"D""A" z8 |"Bm" dddd"G" d2 dd |"D" d f2 z"A" z4 | %6
+w: ||||Ev- er won- der 'bout what he's|do- ing|
+"Bm" dd d2"G" dc d2- |"D" d2 z2"A" z4 |"Bm" z ddd"G" d2 dd |"D" d f2 z"A" z2 z d | %10
+w: How it all turned to lies|_|Some times I think that it's|bet- ter to|
+"Bm" dd d2"G" d4 |"D""A" z8 |"Bm" d'c'"G" b6 |"D""A" z8 |"Bm" ba"G" f6 |"D" z2 z2"A" ddcc | %16
+w: ne- ver ask why|||||Where there is de-|
+"G" B2 AA BBAA |"D" F4 AAAA |"A" A2 EE GF F2 |"Bm" F2 z F ddcc |"G" B2 AA BBAA |"D" F3 F AAAA- | %22
+w: sire there is gon- na be a|flame Where there is a|flame some- one's bound to get|burned. But just be- cause it|burns does- n't mean you're gon- na|die, you got- ta get up|
+"A" AD D3 D3 |"Bm" D3 A AAAA- |"G" AD D3 D3 |"D" D/E/ F2 A AAAA- |"A" AC D3 D3 |"Bm" d'c'"G" b6 | %28
+w: * and try try|try, you got- ta get up|* and try try|try _ you * got- ta get up|* and try try|try. * *|
+"D""A" z8 |"Bm" ba"G" f6 |"D""A" z8 | z8 |] %32
+w: ||||
+

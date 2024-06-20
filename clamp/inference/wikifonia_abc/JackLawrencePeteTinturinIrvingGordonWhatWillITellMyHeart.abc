@@ -1,0 +1,30 @@
+X:1
+T:What Will I Tell My Heart
+T:What Will I Tell My Heart
+C:Jack Lawrence & Pete Tinturin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z F |"Bbmaj7" dddd- d3 ^c |"Fm7" =c c3-"Bb7" c3 F |"Eb6" cccc- cBGE- |"Cm7b5" E4- E3 E | %5
+w: I'll|try to ex- ~~plain _ to|friends dear, _ the|rea- son we two _ are a- part;|_ _ I|
+"Bb/F" DEFA- A3 ^G |"G7" =G G3- G3 D |"^Vm7" EGBd-"F7" d2"F+7" ^cd- | %8
+w: know what to tell _ our|friends dear, _ but|what will I tell _ my heart?|
+"Bbmaj7" d4"Cm7" z2"F7b9" z F |"Bbmaj7" dddd- d3 ^c |"Fm7" =c c3-"Bb7" c3 F |"Eb6" cccc- cBGE- | %12
+w: _ It's|eas- y to say _ to|strang- ers, _ that|we played a game _ from the start,|
+"Cm7b5" E4- E3 E |"Bb/F" DEFA- A3 ^G |"G7" =G G3- G3 D |"^Vm7" EGBd-"F7" d2 dB- |"Bb" B6 d>^c | %17
+w: _ _ it's|eas- y to lie _ to|strang- ers, _ but|what will I tell _ my heart?|_ When I|
+"Fm7" =c>d F4 d>^c |"Bb+7" =c>d ^F4 F>G |"Eb6""Bb+7" B6 ^F>G |"Eb6" B6 d>^c |"Gm7" =c>d G4 d>^c | %22
+w: smile to hide all the|tears in- side, what an|ache it will|bring; then I'll|wan- der home to a|
+"C+7" =c>d ^G4 G>A |"F9" c6 =E>F |"F+9" ^c4- c3 F |"Bbmaj7" dddd- d3 ^c |"Fm7" =c c3-"Bb7" c3 F | %27
+w: tel- e- phone that for-|got how to|ring. _ I|could say you'll soon _ be|back, dear, _ to|
+"Eb6" cccc- cBGE- |"Cm7b5" E4- E3 E |"Bb/F" DEFA- A3 ^G |"G7" =G G3- G3 D | %31
+w: fool the whole town _ may be smart.|_ _ I'll|tell them you'll soon _ be|back, dear, _ but|
+"^Vm7" EGBd-"F7" d2 dB- |"Bb" B6 z2 |] %33
+w: what will I tell _ my heart?|_|
+

@@ -1,0 +1,30 @@
+X:1
+T:Theme from Ice Castles
+T:Theme from Ice Castles
+T:marvin hamlisch
+C:Marvin Hamlisch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Bb9" fFfF fFfF |"C7/Bb" =e=EeE eE e/f/g |"Bb9" fFfF fFfF |"Cm7/F" EFGA Bcde ||"Bb" f3 f edcB | %5
+"F/Bb" f3 f edcB |"Fm7/Bb" f4 edef |"Ebmaj7" f3 B"Eb""Eb" B2"Eb""Eb""Dm""Dm" B<"Dm""Dm"A | %8
+"Cm7" z2 e"F""F"d"F""F""F7/Eb""F7/Eb" c2"F7/Eb""F7/Eb" g2 | %9
+"Dm7""Gm""Gm" f4"Gm""Gm""Gm""Gm" B2"Gm""Gm""F""F" B<"F""F"A | %10
+"Eb" z2 e"F""F"d"F""F""F7/Eb""F7/Eb" c2"F7/Eb""F7/Eb" a2 |1"Dm""Gm7" f6 z B || %12
+"Ebmaj7""Eb6""Eb6""Dsus4""Dsus4" g4"Eb6""Eb6""Dsus4""Dsus4""D7" a4 |"Gm""Gm7/F""C7/E" b6 dB | %14
+"Cm7" e3 f d/c/ B2 B |"Cm7/F" c8 :|2"Bb" B6 z D ||S"Gm" G6 z B |"Dm" A3"Gm""Gm" F"Gm""Gm" G3 B | %19
+"Dm" AGA"Cm""Cm"F"Cm""Cm" G"F""F"F"F""F"EG |"Bb" F8 |"Cm" C3"Dm""Dm" E"Dm""Dm" D3 F | %22
+"Eb""Dm" E3"C7""C7" G"C7""C7" B3 F |"Cm7/F" GF- F6 |"Cm7/F" EFGA Bcde ||"Bbmaj7" f3 f edcB | %26
+"F/Bb" f3 f edcB |"Fm7/Bb" f4 edef |"Ebmaj7" f3 B"Eb""Eb" B2"Eb""Eb""Dm""Dm" B<"Dm""Dm"A | %29
+"Cm7" z2 e"F""F"d"F""F""F7/Eb""F7/Eb" c2"F7/Eb""F7/Eb" g2 | %30
+"Dm7""Gm""Gm" f4"Gm""Gm""Gm""Gm" B2"Gm""Gm""F""F" B<"F""F"A | %31
+"Eb" z2 e"F""F"d"F""F""F7/Eb""F7/Eb" c2"F7/Eb""F7/Eb" a2 |"Dm""Gm7" f6 z B | %33
+"Ebmaj7""Eb6""Eb6""Dsus4""Dsus4" g4"Eb6""Eb6""Dsus4""Dsus4""D7" a4 |"Gm""Gm7/F""C7/E" b6 dB | %35
+"Cm7" e3"F""F" f"F""F" d/c/ B2 B |"Bb" B6 z D ||"Cm7" e3"F""F" f"F""F" d/c/ B2 B |"Bb9" fFfF fFfF | %39
+"C7/Bb" =e=EeE eE e/f/g |"Cm""Cm" z"Cm""Cm" ce"Ebm""Ebm"c"Ebm""Ebm" _g"^F#o"e"^F#o"ga |"Bb" b8- | %42
+ b8 |] %43
+

@@ -1,0 +1,36 @@
+X:1
+T:Slipping Away
+T:Phil Myers
+T:Slipping Away
+T:© 2010 Phil Myers
+C:Phil Myers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^A" z z _E | [=EE]"C" G E |"C6" A G E | A G"C6" E | G2 ^G |"F" A c A |"F6" c d e | A3- |"F6" A3 | %9
+w: You|once were so|ea- ger and|rea- dy to|play, we|laughed and we|sang ev- 'ry|day|.|
+"C" E G E | A G E | A"Cmaj7" G E |"C6" G2 ^G |"F" A c A |"F6" c d e |"Fmaj7" A3- |"F6""^B" A3 || %17
+w: Now you are|qui- et, your|smi- le is|gone, it|feels like you're|slip- ping a-|way|.|
+"C" E G E |"C6" A2 G |"Cmaj7" E G E |"C6" G3 |"F" A c A |"F6" c d e |"Fmaj7" A3- | A3 |"C" E G E | %26
+w: May- be you're|ti- red,|may- be you're|blue,|may- be you|found some- one|new.||May- be you|
+"C6" A G E |"Cmaj7" A G2- |"C6" G3 |"F" A c A |"F6" c d e | A3- |"F6" A3 ||"C""^C" E G E | A2 G | %35
+w: know all my|prob- lems,||may- be they're|your prob- lems|too.||I thought that|this time|
+"E7" E G E | A2 G | A"Am7" c A | d2 c |"D9" A c A | e3 |"Cmaj7" E G E | A G E |"Dm7" A G E | %44
+w: would be the|right time,|not like the|last time,|what can I|say?|I am still|ho- ping we|still have a|
+ G2 (2:2:2E/F/ |"^G7sus4" G G G |"G9" G G G |"C6" G3- | G3 ||"Cmaj7""^D" (4:3:4B c B A | %50
+w: chance, but it|feels like you're|slip- ping a-|way.||I can't find a|
+ (4:3:4G E D C |"Bm7b5" D E E- |"E7b9" E3 |"Cmaj7" (4:3:4B c B A | (4:3:4G E- E C |"Bm7b5" D E E | %56
+w: for- mu- la to|melt your heart.||No ro- man- tic|din- ners, * no|jew- el- ry,|
+"E7" D E2 |"Em7" (4:3:4B c c B |"E7" (4:3:4B c c B |"Fmaj7" e A A- | A2 A |"D69" e e e | %62
+w: no art.|All I know is|lone- li- ness and|mem- o- ries|* of|what was a|
+"D+7" e e e |"^Fma7" e3- |"G9" e3 ||"^E" z z ^D |"C" E G E |"C6" A G E |"Cmaj7" A G E |"C6" G2 ^G | %70
+w: ve- ry good|start.||You|once were so|ea- ger and|rea- dy to|play, we|
+"F" A c A |"F6" c d e |"Fmaj7" A3- |"F6" A3 |"C" E G E | A G E |"D9" A c d | e2 E/F/ | %78
+w: laughed and we|sang ev- 'ry|day.||Now you are|qui- et, your|smi- le is|gone, and it|
+ G"^G7sus4" G G |"G9" G G G |"C6" G3- | G3 |] %82
+w: feels like you're|slip- ping a-|way.||
+

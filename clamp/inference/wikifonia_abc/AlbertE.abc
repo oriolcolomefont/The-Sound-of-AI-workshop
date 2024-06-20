@@ -1,0 +1,25 @@
+X:1
+T:I'll Fly Away
+T:I'll Fly Away
+T:Albert E Brumley Arr. Ossewaarde
+T:Verse 2: When the shadows of this life have gone I'll fly away Like a bird from these prison walls I'll fly I'll fly away 
+T:Verse 3: Oh how glad and happy when we meet I'll fly away No more cold iron shackles on my feet I'll fly away 
+T: Verse 4: Just a few more weary days and then I'll fly away To a land where joys will never end I'll fly away
+C:Albert E. Brumley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=320
+M:2/2
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" f2 d2 | A2 d2 |"D7/F#" f =f ^f g | (f2"F#7" e2) |"G" d4- | d2 B d |"D" A4- |"Em7" A2"A" z2 | %8
+w: Some bright|mo- rning|when this life is|o- ver|I'll|_ fly a-|way||
+"D" A2 B2 | d2 e2 |"D7/F#" f =f ^f g |"F#7" f4 |"Bm" f4- |"A" f2 e e |"D" d4- |"Em7" d2"A" z2 | %16
+w: To that|_ on|God's ce- lest- ial|shore|I'll|_ fly a|way|_|
+"D" a4- | a2 f f |"D7/F#" a2 f2 | e2 d2 |"G" d4- | d2 B d |"D" A4- |"Em7" A2"A" z2 |"D" A2 B2 | %25
+w: I'll|_ fly a|way oh|glor- y|I'll|_ fly a-|way|_|When I|
+ d2 d e |"D7/F#" f e f g |"F#7" f4 |"Bm" f4- |"A" f2 e e |"D" d4- |"Em7" d2"A" z2 |] %32
+w: die hal- lel-|lu- jah by and|by|I'll|_ fly a-|way|_|
+

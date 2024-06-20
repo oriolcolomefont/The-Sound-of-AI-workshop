@@ -1,0 +1,37 @@
+X:1
+T:Meet Me In St. Louis, Louis
+T:Meet Me In St. Louis, Louis
+T:Kerry Mills
+T:
+T:Andrew B. Sterling
+T:....Public Domain
+C:Kerry Mills
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+|: E |"C" c d B | c A B | E3- | E z G | c d B | c A B |"G7" F3- | F z E | D E F | G A B | %11
+w: 1.~When|Lou- is came|home to the|flat,|* He|hung up his|coat and his|hat,|* He|gazed all a-|round, But no|
+w: 2.~The|dres- ses that|hung in the|hall,|* Were|gone, she had|tak- en them|all,|* She|took all his|rings And the|
+"C" d c"Cdim7" A |"C" G G A |"G" B ^A B |"D7" c B A |"G7" d3- | d z G |"C" c d B | c A B | E3- | %20
+w: wife- y he|found, So he|said "where can|Flos- sie be|at?"|* A|note on the|ta- ble he|spied,|
+w: rest of his|things, _ The|pic- ture he|missed from the|wall.|* "What|mov- ing?" the|jan- i- tor|said,|
+ E z G | c d B | c G"E7" ^G |"F" A2-"A7" A- |"Dm" A z"A7" A |"Dm" A ^G A |"F" c"F6" d"Cdim7" ^d | %27
+w: * He|read it just|once, then he|cried *|* It|ran: "Lou- is|dear, It's too|
+w: * "Your|rent is paid|three months a-|head." *|* "What|good is the|flat?" Said poor|
+"C" e c"Cdim7" A |"C" G G A |"G" B ^A B |"D7" c B A |"G7" d3- | d z2 ||"C" C2 D | E2 F | G2 e | %36
+w: slow for me|here So I|think I will|go for a|ride!"||Meet me|in St.|Lou- is,|
+w: Lou- is: "read|that!" And the|jan- i- tor|smiled as he|read.|||||
+ c G2 |"F" A2 c |"G" B2"F" A |"C" G3- | G z2 | C2 D | E2 F | G2 e | c G2 |"D7" A2 d | d2 e | %47
+w: Lou- is,|Meet me|at the|fair,||Don't tell|me the|lights are|shin- ing|An- y|place but|
+w: |||||||||||
+"G7" d3- | d d ^d |"E7" e2 d | c2 B |"A7" e A2- | A ^G A |"D7" d2 c | B2 A |"G7" d G2 | F E D | %57
+w: there,|* We will|dance the|hoo- chee|koo- chee,|* I will|be your|toot- sie|woot- sie,|If you will|
+w: ||||||||||
+"C" C2 D | E2 F | G2 e | c G2 |"D7" A2 c |"G7" d2 G |"C" c3- | c z2 :| %65
+w: meet me|in St.|Lou- is,|Lou- is,|Meet me|at the|fair!"||
+w: ||||||||
+

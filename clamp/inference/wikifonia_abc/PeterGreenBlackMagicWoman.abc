@@ -1,0 +1,26 @@
+X:1
+T:Black Magic Woman
+T:Black Magic Woman
+C:Peter Green
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z ded e2 dB |"Em" d e3- e4 | z ded e2 dB |"Bm" A B3- B4 | z4 deed |"Em" g2 ed e d2 d | %6
+w: I got a black mag- ic|wo- man _|I got a black mag- ic|wo- man _|Yes, I got a|black mag- ic wo- man, She's|
+ (3e2 B2 A2 (3G2 A2 G2 |"Am" A4 z4 | z4 z Bee |"Em" g2 ed edBG |"B7" AGAG AGED |"Em" E4 z4 | %12
+w: got me so blind I can't|see;|But shw's a|black ma- gic wo- man and she's|try'in to make a dev- il out of|me.|
+ z Bed edBd- | d d3- d4 | z Bge edBA- | A B3- B4 | z4 deed |"Em" gede- e d3 | %18
+w: Don't turn your back on me, ba|* by, _|Don't turn you back on me ba-|* by, _|Yes, don't turn your|back on me ba- * by,|
+ (3g2 B2 A2 (3G2 A2 G2 |"Am" A4 z4 | z4 z Bee |"Em" g2 ed edBG |"B7" A2 AG AGED |"Em" E4 z4 | %24
+w: Don't mess a- round with your|tricks;|Don't turn your|back on me ba- by, 'cause you|might just wake up my mag- ic|sticks.|
+ z Bed edBd- | d e3- e4 | z Bge edBA- |"Bm" A B3- B4 | z4 deed |"Em" gede- e d3 | %30
+w: You got your spell on my ba-|* by, _|you got your spell on me ba-|* by, _|Yes, you got your|spell on me ba- * by,|
+ (3e2 B2 A2 (3G2 A2 G2 |"Am" A4 z4 | z4 z2 z e |"Em" (3b2 a2 g2 g a3 |"B7" AG A/A/G AGED | %35
+w: Turn- in' my heart in- to|stone;|I|need you do bad, _|mag- ic wo- man I can't leave you a-|
+"Em" E8- | E6 z2 |] %37
+w: lone.|_|
+

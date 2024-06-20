@@ -1,0 +1,23 @@
+X:1
+T:Cambalache
+T:Cambalache 
+T: Enrique Santos Discepolo
+C:Enrique Santos Discepolo
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ ^F |"C" GEA^F GEAF z8 |"G7" G=FDB, G,2 z ^F z8 | GFDB, G,2 z ^F |"C" GEA^F G2 z A | GEA^F GEAF | %6
+"G7""C" GFDB, G,2 z ^F | GFDB, G,2 z ^F |"C" GEA^F G2 z A |"F""C""Fm""C" cAcA FEDF | %10
+"C" EEFE G2- GE |"G7" DDED G2- GF |"C" E2 G4 z A |"F""Fm" cAcA FEDF |"C" EEC E3 C | %15
+"G7""C" DCB, D3 B, |"C" C4 z4 || z2 GG GFEF | GEGF EGFE |"F" A,8"A7" |"Dm" z2 FF FEDE | %21
+ FD"G7"dc BAGF |"C" E2 c2 A2 G2 | E2 c2 A2 c2 |"Dm" A2 d2 c2 B2 |"G7" dcBd c2 A2 |"C" G2 c2 A2 G2 | %27
+ E2"C7" c2 A2 c2 |"F" A2 d2 c2 B2 | dcBd c2 A2 |"C" G2 GG GFEF | G2"C7" E6 |"F" z2 AA AGFG | A8 | %34
+"G7" z2 DE FEFE |"C" FEEC ECEC |"G7" EDDB, DB,DB, |"C" C4 z4 |] %38
+

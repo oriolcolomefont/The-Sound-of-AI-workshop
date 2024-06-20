@@ -1,0 +1,36 @@
+X:1
+T:MORE THAN THIS
+C:Bryan Ferry
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"B7#5" ^A,B,D^^F ^AB- B2- |"E6" B8 |"B7#5" ^A,B,D^^F ^AB- B2- |"E6" B8 |: %4
+w: ||||
+w: ||||
+"Bsus4""^V E R S E S" z4 Bc-cg- |"E6" g4 B2 cc- |"A" c4 BB-B-c- |"F#sus4" c3- B Bczd- | %8
+w: I could _ feel|_ at the time|_ there was _ no|_ _ way of know|
+w: It was _ fun|_ for a while|_ there was _ no|_ _ way of know|
+"B" d2- c2 Bc-cG- |"E6" G4 Bczc- |"A" c4 BB-Bc- |"F#sus4" c-c-c-B Bc-cd- |"B" dc- B4 B2 | %13
+w: ing _ Fall en _ leaves|_ in the night|_ who can _ say|_ _ _ _ where they're _ blow|_ ing _ As|
+w: ing _ Like a _ dream|_ in the night|_ who can _ say|_ _ _ _ where we're _ go|_ ing _ No|
+"E6" g4 B2 ce- |"A" ec- c6 |"F#sus4" z B c2 B>c z d- |"B" d-c B2 B2 c2 |"E6" g4 B-cec- | %18
+w: free as _ the|_ wind _|and hope ful ly learn|_ ing _ why the|sea on _ the tide|
+w: care in _ the|_ world _|_ may be I'm learn|_ ing _ why the|sea on _ the tide|
+"A" c4 z2 B2 |"F#sus4" B-c- c2 Bczd- |"B6" dc- B4 z2 |"B7#5" ^A,B,D^^F ^AB- B2- | %22
+w: _ has|no _ _ way of turn|_ ing. _|_ _ _ _ _ _ _|
+w: _ has|no _ _ way of turn|_ ing _|_ _ _ _ _ _ _|
+"^C H O R U S :" B2 z2 B2 AG- |"E6" G8- | G2 GB- B2 A2 |"A" G3- A-"A6" G-F- F2- | F4 B2 AG- | %27
+w: * MORE THAN THIS|_|* you know _ there's|no _ _ _ thing|_ MORE THAN THIS|
+w: |||||
+"E6" G8 |"^what's your name? Virginia Plain." z2 z2 B2 A2- |"A9" G6- GF- | F4 B2 AG- |"E6" G8- | %32
+w: _|tell me|one _ thing|_ MORE THAN THIS|_|
+w: |||||
+ G3 B- B2 BA- |"A" G3 F- F4- | F8 |"B7#5" ^A,B,D^^F ^AB- B2- |"E6" B8 :| %37
+w: * No _ _ there's|no thing _|_|||
+w: |||||
+

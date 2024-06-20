@@ -1,0 +1,26 @@
+X:1
+T:What A Merry Christmas This Could Be
+T:What A Merry Christmas This Could Be
+C:Harlan Howard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 E2 Gc- |"C" c6 d2 |:S c2 G2"C7" A3 G |"F" F8 | z4 z2"F#" ^AB- |"G" B6 c2 | B2 F2 A3 G |"C" G8 | %8
+w: What a mer-|* ry|Christ- mas this could|be|if you|_ would|just come back to|me|
+"G7" z4 z2 G2 |"C" c6 d2 | c2 G2"C7" A3 G |"F" F8 | z4 A2"F#" ^AB- |"G" B6 c2 | %14
+w: and|say that|you'd for- giv- en|me.|What a mer-|* ry|
+ B2 G2"G7" (F E2) D!dacoda! |"C" C8 ||"G7" z8 |"C" c2 cB- B d3 | c G3"C7" (3z2 A2 G2 | %19
+w: Christ- mas this _ could|be.||It was just _ last|Christ- mas that we|
+"F" F F2 F F c2 A- | A2 z2 z2"F#" ^AB- |"G" B4 B2 cB- | B3 G A G2 ^F |"C" G2 z2 (3C2 C2 D2 | %24
+w: quar- reled and you walked out.|_ I knew|_ I was wrong,|_ but you'd _ come|back; I had no|
+ E2"G7" z2 z EGc- |"C" c6 d2 | c2 GA-"C7" A3 G |"F" G F3 z F2 c | A4 z2"F#" z B |"G" B c3 B3 G | %30
+w: doubt. Now a year|_ has|rolled a- round, _ it's|Christ- mas once a-|gain, and|what I'd give if|
+"G7" A2 G2 (3F2 E2 D2 |"C" C4 z4 |1 z2"G7" z2 z EGc- ||2"C" c6 d2 :| z2"G7" z2 z EGc- | %35
+w: you'd come walk- * in'|in.|What a mer-|* ry|what a mer-|
+"C" c6 d2!D.S.! |]O"C" C8 | z4"C/B" A2"C/A" ^AB- |"G" B6 c2 | B2 G2"G7" (F E2) D |"C" C8 |] %41
+w: * ry|be.|What a mer-|* ry|Christ- mas this _ could|be.|
+

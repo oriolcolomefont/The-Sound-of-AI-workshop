@@ -1,0 +1,37 @@
+X:1
+T:Love Will Keep Us Together
+T:Love will keep us together
+T:Neil Sedaka, Howard Greenfield
+C:Neil Sedaka
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"G" d3 z | f e d/c/ c | d/A/ B z2 | f/f/ e d c |"E7" d/A/ B z2 | f e d e |"C" _B/G/ E G z | %7
+w: Love|love will keep us to-|geth- er *|think of me babe when-|ev- er *|some sweet talk- in|guy comes a- long|
+w: You|you be- long * to|me * now|aint gon- na set you|free * now|when those guys start|hang- in a- round|
+w: willbe|there to share * for-|ev * er|love * will keepus to-|geth * er|saidit be- fore andI'll|say it a- gainwhile|
+ _B/G/ E A G |"Cm" _B A/G/ G3/2 G/ | d c/d/ _B G |"G" B z z B/B/ | B B A G | B z z B/B/ | %13
+w: sing- in his song *|dont mess a- round you|got- ta be strong just|stop cause I|real- ly love ya|stop I'll be|
+w: talk- in me down *|hear with your heart andyou|wont hear a sound *||||
+w: oth- ers pre- tend *|I need you now and|I'll need you then *||||
+"G7" f B A G |"C" d c/d/ c B/c/ |"D7" d z G G/G/!dacoda! |1"G" _B A3 | G4 | z4 | z4 :|2"G" _B A3 || %21
+w: think- in of ya|look in my heart and let|love keep us to|geth *|er|||geth- er|
+w: ||||||||
+w: ||||||||
+ G3 A | E D z z | z4 |"Bb" d2 c2 |"C" c d/_B/ G3/2 G/ |"Eb" _B B/B/ c B/G/ |"G" d3 z | %28
+w: * what-|ev- er||young and|beau- ti- ful * but|some- day your looks will be|gone|
+w: |||||||
+w: |||||||
+"Bb" d3/2 d/ c c |"C" c d/_B/ G2 |"Eb" _B B c/B/ c |"D7" d g/e/ d g/e/!D.C.! | d g/e/ d g || %33
+w: when the oth- ers|turn you off *|who'll be turn- ing you|on? I will * I will|* I will * I|
+w: |||||
+w: |||||
+O"G" _B A3 | G3 A | E D z2 |] %36
+w: geth- *|er what-|ev- er|
+w: |||
+w: |||
+

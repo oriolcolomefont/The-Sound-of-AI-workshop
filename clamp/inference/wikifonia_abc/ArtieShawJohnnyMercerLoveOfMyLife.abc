@@ -1,0 +1,26 @@
+X:1
+T:Love Of My Life
+T:Love Of My Life
+C:Artie Shaw
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 CD EFGA |"Gm7" BcAB- B4- |"C7" B4 A4 |"Fmaj7" E4 E4- | E4"Abm" G4 |"Gm7" D4 D4- | %6
+w: Would you like to be the|love of my life _|_ for|al- ways,|_ And|al- ways|
+"C7" D4 (3E2 F2 G2 |"F" A8- |"Cdim" A2 A2 c2 B2 |"Gm7" G4 G4- |"A7" G2 G2"Bbm" B2"A7" A2 | %11
+w: _ watch ov- er|me?|_ To square my|blund- ers|_ and share my|
+"Dm" F8- |"Db7" F4 (3F2 G2 F2 |"F" A3 A A4- |"Dm6" A4"G7" (3F2 G2 F2 |"Bbm" A A2 A- A4- | %16
+w: dreams,|_ One day with|cav- i- ar,|_ Next day a|choc- 'late bar. _|
+"C7" A2 CD EFGA |"Gm7" BcAB- B4- |"C7" B4 A4 |"Fmaj7" E4 E4- | E4"Abm" G4 |"Gm7" D4 D4- | %22
+w: _ Would you like to take the|mer- ry- go- round _|_ I'll|lead you?|_ I'll|need you,|
+"C7" D4 (3E2 F2 G2 |"F""Fmaj7" c8- |"F7" c2"Cdim" c2 _e2"D7" d2 |"Gm7" cABc-"Bbm6" cABc- | %26
+w: _ Wait and you'll|see.|_ I hope in|your hor- os- scope _ there is room|
+"F" cABc-"Cdim" c_e d2 |"Gm7" c4 D4- | D2 CD EFGA |"Gm7" BcAB- B4- |"Bbm6" B4"C7" A4 |"F""Cm" c8- | %32
+w: _ for a dope _ who a-|dores you,|_ That would make the on- ly|dream of my life _|_ come|true,|
+"D7" c2 d4"Cdim" A2 |"Gm7" BcAB- B4- |"Bbm6" B4"C7" A4 |"F" F6 z2 |] %36
+w: _ For the|love of my life _|_ is|you.|
+

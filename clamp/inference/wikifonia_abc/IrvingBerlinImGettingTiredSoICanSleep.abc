@@ -1,0 +1,28 @@
+X:1
+T:I'm Getting Tired So I Can Sleep
+T:I'm Getting Tired So I Can Sleep
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fm7" z6 z B |:"Eb" e d2 c- cBGA | B6 z B | c B2 A- AGFE | G6 z G | A G2 F- FE"Ebdim"DE | %6
+w: I'm|get- ting tired _ so I can|sleep. I|want to sleep _ so I can|dream. I|want to dream _ so I can|
+"Fm7" F4"Bb7b9" G4 |"Eb" B8- |"Bb7" B6 z B |"Eb" e d2 c- cBGA | B6 z B | c B2 A- AGFE | G6 z G | %13
+w: be with|you.|_ I've|got your pic- * ture by my|bed. 'Twill|soon be placed _ be- neath my|head, to|
+ A G2 F- FE"Ebdim"DE |"Fm7" F4"Bb7b9" G4 |"Eb""Ab/Bb" E8- |"Eb" E6 z2 |"Bb7" F4- F=EFG | %18
+w: keep my com- * pan- y the|whole night|thru.|_|For _ a lit- tle|
+"Fm7" A4"Bb9" c4 |"Eb" cBBB- B4- | B8 |"D7" =A4- A^GAB |"Am7b5" c4"^D79" e4 |"Gm" eddd-"D7/F#" d4 | %24
+w: while what-|ev- er be- falls, _|_|I _ will see you|smile till|re- veil- le calls. _|
+"Bb7/F#" z4 z2 z B |"Eb" e d2 c- cBGA | B6 z B | c B2 A- AGFE | G6 z G | A G2 F- FE"Ebdim"DE | %30
+w: I|hope you're tired _ e- nough to|sleep. And|please sleep long _ e- nough to|dream. And|look for me _ for I'll be|
+"Fm7" F4"Bb7b9" G4 |1"Eb" E8- |"Fm7" E8- |"Eb" E8- |"Fm7" E6 z B :|2"Eb" E8- |"Fm7""Ab/Bb" E8- | %37
+w: dream- ing|too.|_||* I'm|too.|_|
+"Eb" E8- | E4 z4 |] %39
+w: ||
+

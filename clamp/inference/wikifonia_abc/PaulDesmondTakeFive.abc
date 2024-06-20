@@ -1,0 +1,30 @@
+X:1
+T:Take Five w/solo
+T:Alto
+T:Paul Desmond Dave Brubeck Time Out
+T:Take 5
+T:-
+T:-
+T:-
+T:-
+T:www.saxsolos.com 2002
+C:Paul Desmond
+Z:All Rights Reserved
+L:1/8
+M:5/4
+K:Eb
+U:s=!stemless!
+V:1 treble stafflines=5 
+%%MIDI program 0
+V:1
+ | | | | | | | | | | | z6 Gc e"_C""_G""_C""_G"f | ^fg f=f e z GA/=A/ B"_C""_G" z | %13
+ c6 dedc"_C""_G" B2 | c6 B/c/B/G/ F2 | G6 Gc ef | ^fg f=f e z GA/=A/ B z | c6 B/c/B/G/ F2 | %18
+"^C" G6"^-""^G" d"^-"edc"_F""_Bb7" B2 |"^C" sc8"^-""^G""^-""_Eb" z2 || %20
+"^Ab" c' e'2 c' a2"^F" f"^-"g a"_Ab"=a |"^G" b"^-" d'2 b g2"^C" e"^-"f ^f"_F"g | %22
+ a c'2 a f2 de f^f | g^f ga b2 b=a b=b | c' e'2 c' a2 fg a=a | %25
+"^G" b"^-" d'2 b g2"^C" e"^-"f ^f"_C""_G""_C"g |"^F" a"^-" c'2 a f2"^Bb7" df b"_G""_C"a | %27
+"^D" g6"^-""^G" (7:2:2Gc e"_G"f ||"^C" ^f"^-"g f=f e z"^G" G"^-"A/=A/"_C""_G" B2 | %29
+ c6 dedc"_C""_G""_C" B2 | c6 B/c/B/G/"_G""_C" F2 | G6 Gc e"_C"f | %32
+ ^fg f=f e z GA/=A/"_G""_C""_G" B2 | c6 B/c/B/G/ F2 | G6 dedc B2 | c6 z4 | g4- gc/=A/ G4 | %37
+ c3 d e z z4 | %38
+

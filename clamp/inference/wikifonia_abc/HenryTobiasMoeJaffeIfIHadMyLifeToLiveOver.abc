@@ -1,0 +1,23 @@
+X:1
+T:If I Had My Life To Live Over
+T:If I Had My Life To Live Over
+T:Henry Tobias, Moe Jaffe
+C:Henry Tobias, Moe Jaffe
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 A |"C" G E3/2 A/ | G E3/2 A/ | G G2- | G3 | e d c |"E7" B d3/2 c/ |"F" A3- |"A7" A2 c | %9
+w: If|I had my|life go live|ov- er,||I'd do the|same things a-|gain.|_ I'd|
+"Dm7" c A c |"G7" B2 ^A/B/ |"E7" d B d |"Am" c2 B/c/ |"D7" e c A | ^F A e |"G7" d3- | d2 A | %17
+w: still want to|roam near the|place we called|home, Where my|hap- pi- ness|nev- er would|end.|_ I'd|
+"C" G E3/2 A/ | G E3/2 A/ | G G2- | G2 G | e d c |"E7" B d3/2 c/ |"F" A3- |"A7" A2 A |"Dm" A B c | %26
+w: meet you when|shool days were|ov- er|_ And|walk thru' the|lanes that we|knew.|_ If|I had my|
+ d c"Cdim" A |"C" G3 |"A7" e2 G |"Dm" F A e |"G7" d2 c |"C" c3 |] %32
+w: live to live|ov-|er, I'd|still fall in|love with|you.|
+

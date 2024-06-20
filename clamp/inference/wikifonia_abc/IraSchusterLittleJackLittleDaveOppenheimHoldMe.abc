@@ -1,0 +1,28 @@
+X:1
+T:Hold Me
+T:Hold Me
+C:Ira Schuster
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C7" G2 G2 G2 G2 |"F7" A2 A2 B2 c2 |"Bb" B4 B4- | B8 |"C7" G2 G2 G2 G2 |"F7" A2 A2 B2 c2 | %6
+w: When you're near me|I feel so ro-|man- tic.|_|When you're far a-|way I'm al- ways|
+"Bb""Bb+" B8- |"Gm""Bb7" B8 |"D" A2 A2 A2 A2 |"E7" =B2 B2"A7" ^c2 c2 |"D" A4 A4- | A8 | %12
+w: blue.|_|If you want me|to re- main ro-|man- tic,|_|
+"F" c2 c2 c2 A2 |"C7" c2 c2 c2 G2 |"F7" c8- | c8 |:"Bb" B4 B4- | B4 B>cd>e |"D7" A4 A4- | A8 | %20
+w: here are all the|things you'll have to|do.|_|Hold me,|_ hon- ey wont you|hold me.|_|
+"Eb" G4 G4- | G4 G>AB>c |"G7" F8- | F8 |"Cm" E4 G4- |"A7" G4 A>^G=G>^F |"Bb" =F4 B4- | B4 G>AB>=B | %28
+w: Hold me,|_ nev- er let me|go.|_|Take me,|_ hon- ey won't you|take me.|_ Nev- er to fo-|
+"C7" c4 G4- |"Bbm6" G4"C7" G>AB>=B |"F7""Ebm6" c8- |"F7" c8 |"Bb" B4 B4- | B4 B>cd>e |"D7" A4 A4- | %35
+w: sake me,|_ 'Cause I love you|so.|_|Thrill, me,|_ let your kiss- es|thrill me,|
+ A8 |"Eb" G4 G4- | G4 G>AB>c |"G7" F8- | F8 |"Cm" E4 c4- | c4"Ebm" c>^cd>e |"Bb" d4 A4- | %43
+w: _|Just like,|_ you a- lone can|do.|_|Hold me,|_ tne- der- ly en-|fold me,|
+ A4 G>AB>=B |"C7" c4 d4- |"F7" d4 F4 |1"Bb" B4"A7" z4 |"F7" z8 :|2"Bb" B8- | B4- B2 z2 |] %50
+w: _ Nev- er try to|hold me,|_ from|you.||you.|_ _|
+

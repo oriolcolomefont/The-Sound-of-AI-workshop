@@ -1,0 +1,29 @@
+X:1
+T:I'm Sitting On Top Of The World
+T:I'm sitting on top of the world
+T:Ray Hendersom
+T:Sam M Lewis,Joe Young,
+C:Ray Henderson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z c |"F" c A z c |"Bb" d _B z d |"F" c4- | c C C/D/ F |"G7" G4- |"C7" G G G/A/ G |"F" F4- | %8
+w: I'm|sit- ting on|top of the|world|* just roll ing a-|long|* just roll- ing a-|long|
+w: ||||||||
+ F z z c | c A z c |"Bb" d _B z d |"F" c4- | c C C/D/ F |"G7" G4- | G/"C7" z/ G G/A/ G |"F" F4- | %16
+w: * I'm|quit- ting the|blues of the|world|* just sing- in a|song|* just sing- ing a|song|
+w: ||||||||
+ F F/G/ A/_B/c/^c/ |"Bb" d _B d3/2 _B/ |"E7" d e2 d |"F" c c c/B/ c | A4 |"Dm" A F A F | %22
+w: * glor- y hal le lu jah|I just phoned the|par- son Hey|Pa get read y to|call|Just like Hump- ty|
+w: ||||||
+"Dm7" A d3 |"G7" z A A/d/ A |"C7" G3 c |"F" c A z c |"Bb" d _B z d |"F" c4- | c C C/D/ F | %29
+w: Dump- ty|I'm go- ing to|fall I'm|sit- ting on|top of the|world||
+w: ||||||* Just rol- ling a-|
+"G7" G4- |"C7" G c c/G/ A |"F" F4- | F3 z | z4 |] %34
+w: |||||
+w: long|* just rol- ling a-|long|||
+

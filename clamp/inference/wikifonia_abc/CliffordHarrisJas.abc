@@ -1,0 +1,23 @@
+X:1
+T:A Broken Doll
+T:A Broken Doll
+T:Clifford Harris & Jas. W. Tate
+C:Clifford Harris & Jas. W. Tate
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C |"C7" D C D C | D C G A |"F" F4- | F z z C |"C7" D C D C | D C G A |"F" F4- | F z z A | %9
+w: You|called me ba- by|doll a year a-|go.|* You|told me I was|ver- y nice to|know.|* I|
+"D7" B A2 D | B A2 D |"G7" A2 G2 | D3 G | A G A G | A G F D |"C7" E G2 D | C3 C |"C7" D C D C | %18
+w: soon learned what|love was, I|thought I|knew, but|all I've learned has|on- ly taught me|how to love|you. You|made me think you|
+ D C G A |"F" F4- | F z z C |"C7" D C D C | D C G ^G |"A7" A4- | A z z A |"D7" B A ^G A | B2 A D | %27
+w: lov'd me in re-|turn,|* Don't|tell me you were|fool- ing aft- er|all|* For|if you turn a-|way, you'll be|
+"G7" A G2 F | D2"G+7" ^D2 |"C7" E C =B, C | G2 A2 |"F" F4- | F z z2 |] %33
+w: sor- ry some|day, you|left be- hind a|Brok- en|Doll.-||
+

@@ -1,0 +1,49 @@
+X:1
+T:Streets of Laredo (Cowboy's Lament)
+T:The Streets of Laredo
+C:Traditional
+Z:Public Domain
+L:1/4
+M:3/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ A |"D" A3/2 G/ F |"G" G A G |"D" F3/2 E/ D |"A" C A,3/2 A,/ |"Bm" D- D D |"A" E F G |"D" F F D | %8
+w: As|I * walked|out in the|streets of La-|re- do, As|I * walked|out in La-|re- do one|
+w: "I|see by your|out- fit that|you are a|cow- boy, These|words he did|say as I|slow- ly walked|
+w: "'Twas|once in the|sad- dle I|used to go|dash- ing, 'Twas|once in the|sad- dle I|used to go|
+w: "Get|six jol- ly|cow- boys to|car- ry my|cof- fin, Get|six pret- ty|maid- ens to|bear up my|
+w: "Then|go write a|let- ter to|my gray- haired|mo- ther, And|tell her the|cow- boy that|she loved is|
+w: "Go|bring me a|cup, * a|cup of cold|wa- ter, To|cool my parched|lips," * the|cow- boy then|
+"A7" E2 A |"D" A3/2 G/ F |"G" G A G |"D" F3/2 E/ D |"A" C A,3/2 A,/ |"Bm" D3/2 D/ D |"A" E F G | %15
+w: day, I|spied a young|cow- boy all|wrapped in white|lin- en, All|wrapped in white|lin- en and|
+w: by. "Come|sit down be-|side me and|hear my sad|sto- ry, I'm|shot in the|chest, and I|
+w: gay. *|First to the|card- house, and|then down to|Ro- sie's, Got|shot in the|breast, and I'm|
+w: pall. Put|bunch- es of|ro- ses all|o- ver my|cof- fin, *|Ro- ses to|dead- en the|
+w: gone. But|please not one|word of the|man who had|killed me, Don't|men- tion his|name, and his|
+w: said. Be-|fore I re-|turned, * his|soul had de-|part- ed, And|gone to the|round- up, the|
+"A7" F C C |"D" D2 || A |"D" D3/2 D/ D | F A2 |"G" G3/2 G/ G | B d2 |"D" A3/2 A/ A | B A F | %24
+w: cold as the|clay.|"Then|beat the drum|slow- ly,|play the fife|low- ly,|Play the dead|march as you|
+w: know I must|die."||||||||
+w: dy- ing to-|day."||||||||
+w: clods as they|fall."||||||||
+w: name will pass|on."||||||||
+w: cow- boy was|dead.||||||||
+ D/D/ E F |"A7" E2 A/A/ |"D" D3/2 D/ D | F A2 |"G" G3/2 G/ G | B d2 |"D" A3/2 A/ A | B A F/F/ | %32
+w: car- ry me a-|long; Take me|to the green|val- ley,|lay the sod|o'er me,|I'm a young|cow- boy and I|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"A7" E F E |"D" D2 |] %34
+w: know I've done|wrong.|
+w: ||
+w: ||
+w: ||
+w: ||
+w: ||
+

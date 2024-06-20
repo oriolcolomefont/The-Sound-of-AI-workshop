@@ -1,0 +1,32 @@
+X:1
+T:When the Lights Go On Again
+T:When the lights go on again
+T:(All over the world)
+T:Eddie Seiler,  Sol Marcus,  Bennie Benjemen
+C:Bennie Benjemen, Eddie Seiler, Sol Marcus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4"^N.C." G2 A2 |:"Eb" B=ABA"Fm7" B4- |"Cm7" B2"Fm7" e4 (3dcB |"Ebmaj7" G8- | %4
+w: When the|lights go on a- gain|* all o- ver the|world|
+w: |lights go on a- gain|* all o- ver the|world|
+ G2"Gm7" z2"Ab" E2 F2 |"Ebmaj7" G^FGF"Fm7" G4- |"Gm7" G2 c4"Fm7" (3BGE |"Ebmaj7" G8 | %8
+w: * and the|boys are home a- gain|* all o- ver the|world|
+w: * and the|ships will sail a- gain|* all o- ver the|world|
+"Gm7" z2 G2"Gb" F2 E2 |1"Fm7" D3 E"Bb7" F4 ||"Fm7" z2 cd"Bb7" c2 B=A |"Ebmaj7" c3 =A"Fm7" B4 |1 %12
+w: and rain or|snow is all|that may fall from the|skies a- bove|
+w: then we'll have||||
+"Gm7" z2 B2"Gb7" c2 ^c2 ||"Bb" d3 F"G7" F4 |"Cm7" z2 ee"F7" d2 F2 |"Bb7" B8- | B2 z2"Bb7" G2 A2 :|2 %17
+w: a kiss wont|mean good- bye|but hel- lo to|love|* when the|
+w: |||||
+"Fm7" D3 E"Bb7" F3 G ||"Fm7" A3 B"G7" c3 d |"^CM&" e4 c2 e2 |"F7" c2 z2"Abm" G2 _A2 | %21
+w: time for things like|wed- ding rings and|free hearts will|sing when the|
+w: ||||
+"Eb" B=ABA"C7" B4 |"F7" z2 e4"Bb7" (3dcd |"Eb" e2 z2"Db" _cdef |"Eb" g4 z4 |] %25
+w: lights go on a- gain|all o- ver the|world. * * * *||
+w: ||||
+

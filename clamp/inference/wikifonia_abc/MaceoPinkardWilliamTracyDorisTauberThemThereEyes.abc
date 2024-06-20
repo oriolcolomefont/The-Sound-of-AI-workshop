@@ -1,0 +1,23 @@
+X:1
+T:Them There Eyes
+T:Them there eyes
+T:Maceo Pinkard, William Tracy and Doris Tauber
+C:Maceo Pinkard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G2 ED CD E2 | G2 ED CD E2 | A4"G" A4 |"C" A8 | G2 ED CD E2 | G2 ED CD E2 |"D7" A4 A4 | A8 | %8
+w: I fell in love with you|first time I looked in- to|them there|eyes|You've got a cer- tain lil'|cute way of flirt- in' with|them there|eyes|
+"G7" z2 A2 G2 F2 | z2 A2 G2 F2 |"Em7" z2 A2 G2 E2 |"Am" C8 |"D7" z2 c2 B2 A2 | z2 c2 B2 A2 | %14
+w: they make me|feel hap- py|they make me|blue|No stall- in'|I'm fall- in'|
+"G7" Bc^cd D D2 E | F2 ^CE D2 z2 |"C" G2 ED CD E2 | G2 ED CD E2 | A4"G" A4 |"C" A8 | %20
+w: go- ing in a big way for|sweet lit- tle you|My heart is jump- in' you|sure start- ed some- thing with|them there|eyes|
+"C7" z2 c2 c2 c2 | c2 A2 G2 E2 |"F" D8- |"E7" D8 |"F" z2 c2 B2 A2 | z2 c2 B2 A2 |"C" c2 E^D EGAG | %27
+w: You'd bet- ter|watch them if you're|wise||they sparkle *|they bub- ble|they're gon- na get you in a|
+"C" B2 AB"G7" A G3 | G3 E DCDE | G2 ED CDE z |"D7" A8 |"G7" B8 |"C" c8 |] %33
+w: whole lot of trou- ble|You're o- ver work- in' 'em|There's dan- ger lurk- in in|them|there|eyes.|
+

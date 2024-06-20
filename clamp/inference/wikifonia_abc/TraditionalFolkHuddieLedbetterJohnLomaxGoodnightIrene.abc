@@ -1,0 +1,38 @@
+X:1
+T:Goodnight Irene
+T:Goodnight Irene
+C:Traditional Folk
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G3 |"Edim" A2 G |"D7" (F2 E | D3) | A3 | B2 A |"G" G3- | G2 (G/B/) |"G7" B2 B | A2 G | %10
+w: I-|rene good-|ni- *|ght|I-|ren good-|night|_ Good- *|night I-|rene good-|
+w: ||||||||||
+w: ||||||||||
+"C" A2 G | E2 E |"D7" D2 A | B2 A |"G""Am7""Eb7" G3- |"G" G2 D |: G G G |"Edim" A G D | F A2- | %19
+w: night I-|rene I'll|see you|in my|dreams.|_ Last|1.~Sa- tur- day|night I got|mar- ried.|
+w: ||||||2.Some- times I|live in the|coun- try|
+w: ||||||3.~Stop ram- blin'|_ stop your|gam- blin'|
+ A2 d | d d d | A2 B/A/ |"G" G3- | G2 d |"G7" d B B | A A G |"C" E G2 | G z/ E/ E/E/ | %28
+w: |Me and my|wife set- tled|down.|_ Now|me and my|wife _ are|part- ed|_ I'm gon- na|
+w: |Some- times I|live in the|town.||Some- times I|have a great|no- tion|_ _ to *|
+w: * Stop|stay- ing out|late * ~at|night.|_ Go|ome to your|wife and your|fam- 'ly|_ _ Sit *|
+"D7" D3/2 A/ A/A/ | B/- B3/2 A |"G""Edim" G3 |"Am7" G z"D7" z |"G" G3 |"Edim" A2 G |"D7" (F2 E | %35
+w: take an- oth- er|stroll * down|town.|_|I-|rene good-|ni- *|
+w: jump in- to the|ri- ver and|drown.|_||||
+w: down * by the|fire- * side|bright.|_||||
+ D3) | A3 | B2 A |"G" G3- | G2 (G/B/) |"G7" B2 B | A2 G |"C" A2 G | E2 E |"D7" D2 A | B2 A |1 %46
+w: ght,|I-|rene good-|night|_ Good- *|night I-|rene good-|night I-|rene I'll|see you|in my|
+w: |||||||||||
+w: |||||||||||
+"G" G3- |"D7" G z D :|3"G""Am7" G3- ||"G" G2 z |] %50
+w: dreams|_ 2.~~|dream.||
+w: |* 3.Stop|||
+w: ||||
+

@@ -1,0 +1,37 @@
+X:1
+T:Great Is Thy Faithfulness
+T:Great Is Thy Faithfulness
+T:William M. Runyan
+T:Thomas O. Chisholm
+T:All Rights Reserved
+C:William M. Runyan
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G G G |"Ab7" G3/2 F/ F |"Bb7" A A A |"Eb" A G2 |"Ab" c d c |"Eb" B3/2 A/ G |"F" F G =A | %7
+w: 1.~Great is Thy|faith- ful- ness,|O God, my|Fa- ther.|There is no|shad- ow of|turn- ing with|
+w: 2.~Sum~- mer and|win- ter and|spring- time and|har- vest,|Sun, moon, and|stars in their|cours- es a-|
+w: 3.~Par~~~- don for|sin and a|peace that en-|dur- eth,|Thy own dear|pre- sense to|cheer and to|
+"Bb" B3 |"Bb7" B c d |"Eb" e3/2 d/ c | B A G |"Ab7" G F2 |"Adim" c d e |"Eb" e3/2 B/ B | %14
+w: Thee.|Thou~~~~~ chang- est|not, Thy com-|pas- sions they|fail not;|As~~~ Thou hast|been, Thou for-|
+w: bove,|Join~~~~~ with all|na- ture in|man- i- fold|wit- ness|To~~~ Thy great|faith- ful- ness,|
+w: guide;|Strength for to-|day and bright|hope for to-|mor- row;|Bless- ings all|mine, with ten|
+"Bb" G G"Bb7" F |"Eb" E3 ||"Bb7""^REFRAIN" B B F |"Eb" A/>G/ G2 |"C7" c c G |"Bbm" B/>"F"A/ A2 | %20
+w: ev- er wilt|be.|Great is Thy|faith- ful- ness!|Great is Thy|faith- ful- ness!|
+w: mer- cy, and|love.|||||
+w: thou- sand be-|side.|||||
+"Bb7" B c d |"Eb" e B c |"F7" d e c |"Bb7" B3 | B c d |"Eb" e3/2 d/ c | B A G |"Ab7" G F2 | %28
+w: Morn- ing by|morn- ing new|mer- cies I|see.|All I have|need- ed Thy|hand hath pro-|vid- ed.|
+w: ||||||||
+w: ||||||||
+"Adim" c d e |"Eb" e3/2 B/ B | G"Bb7" A D |"Eb" E3 |] %32
+w: Great is Thy|faith- ful- ness,|Lord un- to|me.|
+w: ||||
+w: ||||
+

@@ -1,0 +1,23 @@
+X:1
+T:Adagio for Strings
+T:Adagio
+T:Tomaso Giovanni Albinoni
+C:Tomaso Giovanni Albinoni
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:3/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Gm" G6- |"Gm/F" G6 |"Eb" G/4A/4B3/2- B3 G |"Eb/D" G6 |"Cm" A/4B/4c3/2- c4 | %5
+"C#dim7" B/4A/4B3/2- B4 |"D7sus4" A/4G/4A3/2- A2-"D7" (3AG^F |"Gm" G6 | d2 c>B A>G | %9
+"Am7b5" G4"Adim7" ^F2 | e2 d>c B>A |"Bb" A4 G2 |"Gm/Bb" g2 !courtesy!=fg (3!courtesy!_efd | %13
+"Cm" e6 |"F/A" f2 ef (3dec |"Bb" d6 |"Eb/G" e2 de (3cdB |"Adim" c6 |"Bb" d4"Eb/Bb" e2 | %19
+"Gm/D" !fermata!d4"Bb" z g | _ab ag ^fg |"Bdim7" !courtesy!=f4 f/4g/4_ag/4f/4 |"Cm" e3 c e>g | %23
+"Gm/Bb" d3 B d>g |"Ab" c4 c/4d/4ed/4c/4 |"Gm/D" B4 B/4c/4dc/4B/4 |"D7" A4 A/4B/4cB/4A/4 :| %27
+"Gm" !fermata!G6 |] %28
+

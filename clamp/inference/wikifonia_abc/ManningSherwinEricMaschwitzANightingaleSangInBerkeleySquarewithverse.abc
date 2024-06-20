@@ -1,0 +1,70 @@
+X:1
+T:A Nightingale Sang In Berkeley Square (with verse)
+T:A Nightingale Sang In Berkeley Square
+T:Manning Sherwin
+T:Eric Maschwitz
+C:Manning Sherwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B c d e |"Abdim" g3 f |"Eb" e B"Gbdim" _d =B |"Bb7sus4" B C"Bb7" D F ||"Eb" B c d e | %5
+w: ||||When true lov- ers|
+w: |||||
+"Fm7" d c"Abm6" B A |"Eb" G E"Bb7" F G |"Eb" E4 |"Fm7" F2"Bb7" c2 |"Eb" B E"Bb" D"Bbdim" _D | %10
+w: meet in May- fair,|so the le- gends|tell,|Song birds|sing, * * *|
+w: |||||
+"Ab6" F F"Bb7" G G |"Eb" E4 | B c d e |"Fm7" d c"Abm6" B A |"Eb" G E"Fm6" F"G7" G | %15
+w: Win- ter turns to|spring.|Ev- 'ry wind- ing|street in May- fair|falls be- neath the|
+w: |||||
+"Cm" E3"Bbdim" G |"Bb" (3F F F"Gm7" (3d d d |"Ebm6" _G3 A/G/ |"C7sus4" (3F F F"F7" (3d d d | %19
+w: spell. I|know such en- chant- ment can|be, 'Cause it|hap- pened one ev'- ning to|
+w: ||||
+"Bb7" c"Bb+" ^F"Bb7" =F z/ B,/ |:"Eb" G G"Cm" E3/2 E/ |"Gm" B B"Eb7" G E/E/ | %22
+w: me. * * That|cer- tain night, The|night we met, There was|
+w: * * * (How)|strange it was, How|sweet and strange, There was|
+"Ab" (3c c c"G7" (3d d d |"Cm""Abm6" e3 e/e/ |"Eb" d B"Bb7" c3/2 A/ |"Eb7" B E"Abm6" B A/A/ | %26
+w: mag- ic a- broad in the|air. There were|an- gels din- ing|at the Ritz, and a|
+w: nev- er a dream to com-|pare With that|ha- zy, cra- zy|night we met, when A|
+"Eb" G/A/ B"Cm" E E |"Fm7" E2"Bb7" F2 |"Eb" E/>B/B/>B/"Cm" c/ e3/2 | %29
+w: NIGHT- IN- GALE SANG IN|BER- K'LEY|SQUARE. * * * * *|
+w: |||
+"Fm7" z3/4 C/<E/B/4"Bb7" G3/2 B,/ |"Eb" G G"Cm" E3/2 E/ |"Gm" B B"Eb7" G E/E/ | %32
+w: * * * * I|may be right, I|may be wrong, but I'm|
+w: * * * * This|heart of mine beat|loud and fast, like a|
+"Ab" (3c c c"G7" (3d d d |"Cm""Abm6" e3 e |"Eb" d B"Bb7" c3/2 A/ |"Eb7" B E"Abm6" B3/2 A/4-A/4 | %36
+w: per- fect- ly will- ing to|swear, That|when you turn'd and|smiled at me, A- *|
+w: mer- ry- go- round in a|fair For|we were dan- cing|cheek to cheek and- A|
+"Eb" G/A/ B"Cm" E E |"Fm7" E2"Bb7" F2 |"Eb" E/>B/B/>B/"Cm" c/ e3/2 |"Cm6/A" z3/4 c/<d/e/4"D7" d2 | %40
+w: NIGHT- IN- GALE SANG IN|BER- K'LEY|SQUARE. * * * * *||
+w: ||||
+"G" z3/4 D/<=E/^F/4"Em" G/>=A/=B/>c/ |"Am7" d/ d"D7" =B/- B3/2 B/ |"Bm7" =A A"Bbdim" ^F3/2 F/ | %43
+w: The moon that lin- gered o- ver|Lon- don town, * Poor|puz- zled moon, he|
+w: When dawn came steal- ing up all|gold and blue * To|in- ter- rupt our|
+"Am7" =E E"D6" D2 |"G" z3/4 D/<=E/^F/4"Em" G/>=A/=B/>c/ |"Am7" d/ d"D7" =B/- B3/2 B/ | %46
+w: wore a frown,|How could he know we two were|so in love * The|
+w: ren- dez- vous,|I still re- mem- ber how you|smiled and said * "Was|
+"Bm7" =A A"Edim" G3/2 G/ |"Fm7" c c"Bb7" B3/2 B,/ |"Eb" G G"Cm" E3/2 E/ |"Gm" B B"Eb7" G E/E/ | %50
+w: whole darn world seemed|up- side down. The|streets of town were|paved with stars it was|
+w: that a dream or|was it true?" Our|home- ward step was|just as light As the|
+"Ab" (3c c c"G7" (3d d d |"Cm" e3"Abm6" e |"Eb" d B"Bb7" c3/2 A/ |"Eb7" B E"Abm6" B3/2 A/ | %54
+w: such- a ro- man- tic af-|fair and|as we kiss'd and|said "good- night" a|
+w: tap- dan- cing feet of As-|taire and|like an e- cho|far a- way A|
+"Eb" G/A/ B"Cm" E E |"Fm7" E2"Bb7" F2 |1"Eb" E/>B/B/>B/"Cm" c/ e3/2 || %57
+w: NIGHT- IN- GALE SANG In|BER- K'LEY|SQUARE. * * * * *|
+w: |||
+"Fm7" z3/4 C/<D/E/4"Bb7" D3/2 B,/ :|2"Eb" E/>B/B/>B/"Cm" c/ e3/2 ||"Fm7" z/ c/B/A/"Bb7" G F | %60
+w: * * * * How|SQUARE. * * * * *|I know 'cause I was|
+w: |||
+"Bbm6" G F"C7" =E2 |"Abm6" E/A/G/F/"Ab" E"Bb7" D |"Eb" E/>B/B/>B/"Cm" c/"Cm7" e3/2 | %63
+w: there, * *|* That night in Ber- k'ley|SQUARE * * * * *|
+w: |||
+"Abm6" f2"Eb" e z |] %64
+w: |
+w: |
+

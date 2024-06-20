@@ -1,0 +1,17 @@
+X:1
+T:New Friends
+C:Giacomo Mason
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"Bb" d8- | dc"Bb"d f2 B=A_A- |"Bbm7" A8- |"Eb7" A4 e2 _d2 |"F" c8- | c=AB c2 AB_d- |"Abm7" _d8- | %7
+"Db7" _d4 d2 _c2 |"^Gùm" B4 (3G2 B2 d2 |"C7" f2 d2 =e2 c'=a- |"Em7b5" =a6"^A7(#9)" b2 | %11
+ =a2"Dm" _ag- g4- | g"G7sus4"=ag=e f2 G2 | =A2 f2 c2 =B2 |"Gm" B4"C7" =e4 |"Cm" e4"F7" _d4 | %16
+"Bb" d8- | dcd f2 B=A_A- |"Bbm7" A8- |"Eb7" A4 e2 _d2 |"F" c8- | c=AB c2 AB_d- |"Abm7" _d8- | %23
+"Db7" _d4 d2 _c2 |"Gm" B4 (3G2 B2 d2 |"C7" f2 d2 =e2 c'=a- |"Em7b5" =a6"^A7(#9)" b2 | %27
+ =a2"Dm" _ag- g4- |"G7" g=ag=e f2 d'2- |"Gm" d'4 =e2"C7" c'2- | c'2"Fm" =a4 gf- |"Cm" f4-"F7" f4 |] %32
+

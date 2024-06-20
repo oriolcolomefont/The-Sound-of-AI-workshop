@@ -1,0 +1,28 @@
+X:1
+T:I Ain't Got Nothin' But The Blues
+T:I Ain't Go Nothin' But The Blues
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z CDF _AGFD- |:"Fdim" DC-"F" C6 | z CDF _AGFD- |"Bb9" D8 | z CDC"D7" D>C"Db9"_ED- | %5
+w: Ain't got the change of a nick-|* el, _|ain't got no bounce in my shoes,|_|ain't got no fanc- y to tick-|
+"Gm7/C" DC-"C7" C6 | z cBA FCEG |"F""F7""Fdim""Bbm6" F8- |"F/C" FCDF"Ddim7" _AG"Bbm/Db"FD- | %9
+w: * le, _|I ain't got noth- in' but the|blues.|_ Ain't got no cof- fee that's perk-|
+"Fdim" DC-"F" C6 | z CDF _AGFD- |"Bb9" D8 | z CDC"D7" D>C"Db9"_ED- |"Gm7/C" DC-"C7" C6 | %14
+w: * in', _|ain't got no win- nings to lose,|_|ain't got a dream that is work-|* in', _|
+ z cBA FCEG |"F""F7""Fdim""Bbm6" F8- |"F" F4 z3/2 F<FF/ |"A7" A>=B- B2- B>EE>E | A>=B- B6 | %19
+w: I ain't got noth- in' but the|blues.|_ When trum- pets|flare up _ _ I keep my|hair up, _|
+"D7" z3/2 A<AA/ A>AA>=B- | B4 z3/2 D<DD/ |"G9" G>A- A2- A>DD>D | G>A- A4"G7b5/Db" G>A | %23
+w: I just can't make it come down.|_ Be- lieve me|Pap- py, _ _ I can't get|hap- py _ since my|
+"C7" c>CC>C"D7" D>C"Db9"_E>D- | DCDF _AGFD- |"Fdim" DC-"F" C6 | z CDF _AGFD- |"Bb9" D8 | %28
+w: ev- er lov- in' ba- by left town.|_ Ain't got no rest on my slum-|* bers, _|ain't got no feel- in's to bruise,|_|
+ z CDC"D7" D>C"Db9"_ED- |"Gm7/C" DC-"C7" C6 | z cBA FCEG |1"F" F4"Db9" z4 ||"C7" z CDF _AGFD :|2 %33
+w: ain't got no tel- e- phone num-|* bers, _|I ain't got noth- in' but the|blues|Ain't got the change of a nick-|
+"F""Bbm6" F8- ||"F6" F4 z4 |] %35
+w: blues.|_|
+

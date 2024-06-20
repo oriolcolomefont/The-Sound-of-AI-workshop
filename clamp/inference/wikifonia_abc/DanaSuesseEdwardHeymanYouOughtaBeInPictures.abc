@@ -1,0 +1,26 @@
+X:1
+T:You Oughta Be In Pictures
+T:You oughta be in pictures
+T:Dana Suesse
+T:Edward Heyman
+C:Dana  Suesse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2"F" f2 edef | ed- d2 z4 |"Gm" z2 f2 edef |"C" e8 |"Gm" z2 d2 c_Bcd |"C7" c_B- B4 c2 | %6
+w: You ough- ta be in|pic- tures, *|You're won der ful to|see,|You ough ta be in|pic tures, * oh|
+"F" _B2 Ac- c2 z2 |"Gm" c2 _Bd-"C" d2 z2 | z2"F" f2 edef | ed- d4 z2 |"Gm" z2 f2 edef |"C7" e8 | %12
+w: what a hit *|you would be! *|Your voice would thrill a|na- tion, *|Your face would be a-|dored,|
+"Gm" z2 d2 c_Bcd |"C7" c_B- B4 c2 |"F" _B2 Ac- c4 |"E7" c2 B d2- d3 |"Am" e4 c e2 c | %17
+w: You'd make a great sen-|sa- tion * with|wealth and fame *|your re- ward *|And if you should|
+ e2 ce- ec e2 | c e2 c e2 ce- |"D7" e6 z2 |"C" g4 e g2 e | g2 eg- g2 eg | e g2 e"G7" g2 eg- | %23
+w: kiss the way, * you kiss|when we are all- a- lone||You'd make ev- 'ry|girl and man * a fan|wor- ship- ing at your throne.|
+"C7" g8 | z2"F" f2 edef | ed- d4 z2 |"Gm" z2 f2 edef |"C7" e8 | z2"Gm" d2 c_Bcd | %29
+w: |You ough- ta shine as|bright- ly *|As Ju- pi- ter and|Mars;|You ough- ta be in|
+"C7" c z _B2 z2 d2 |"Gm" g4"C7" a4 |"F" f6 z2 | z8 |] %33
+w: pic- * my|star of|stars!||
+

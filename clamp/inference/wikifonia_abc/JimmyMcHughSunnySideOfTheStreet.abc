@@ -1,0 +1,31 @@
+X:1
+T:Sunny Side Of The Street
+T:Sunny Side Of The Street
+T:Jimmy McHugh
+T:© Dan Parshall
+C:Jimmy McHugh
+Z:Creative Commons BY
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ E/D/ |"C6" C D E/ G3/2 |"E7" e2 z e/_e/ |"Fmaj7" d c A/ F3/2 |"Bm7b5" E D-"E7" D z | %5
+w: Grab your|coat and get your|hat leave your|wor- ries by the|door step _|
+"Am7" C D E/ c3/2 |"D7" B2 z"Ebdim7" ^G/A/ |"Dm7" c A"G7" F/E/ D |"Em7" G-"A7" G"Dm7" z"G7" E/D/ | %9
+w: just di- rect your|feet to the|sun- ny side of the|street _ can't you|
+"C6" C D E/ G3/2 |"E7" e2 z e/_e/ |"Fmaj7" d c A/ F3/2 |"Bm7b5" E D-"E7" D z |"Am7" C D E/ c3/2 | %14
+w: hear the pit- ter|pat? and that|hap- py tune is|your step _|life can be so|
+"D7" B2"Ebdim7" z ^G/A/ |"Dm7" c A"G7" F/E/ D |"C6" C2 z/ c/c/c/ |"Gm7" c2 D/ F E/- | %18
+w: sweet on the|sun- ny side of the|street I used to|walk in the shade|
+ E2"C7" z/ c/ c |"Fmaj7" c2"C7" E/ G F/- |"F6" F2 z A |"Am7" c2 E/ G ^F/- |"D7" F2 z A | %23
+w: _ with those|blues on par- ade|_ but|I'm not af- raid|_ this|
+"Dm7" B d z E |"G9sus4" F A"G7" z E/D/ |"C6" C D E/ G3/2 |"E7" e2 z e/_e/ |"Fmaj7" d c A/ F3/2 | %28
+w: rov- er's crossed|o- ver if I|nev- er have a|cent, I'll be|rich as Rock- e-|
+"Bm7b5" E D-"E7" D z |"Am7" C D E/ c3/2 |"D7" B2 z"Ebdim7" ^G/A/ |"Dm7" c A"G7" F/E/ D | %32
+w: fel- ler _|gold dust at my|feet on the|sun- ny side of the|
+"C6" C2"G7" z2 |] %33
+w: street|
+

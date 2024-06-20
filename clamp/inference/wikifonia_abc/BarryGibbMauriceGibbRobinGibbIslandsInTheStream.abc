@@ -1,0 +1,43 @@
+X:1
+T:Islands In The Stream
+T:Islands in the stream
+T:Barry, Maurice and Robin Gibb
+C:Barry Gibb, Maurice Gibb, Robin Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" DGGG GGGG | A2 G2 E2 z2 | EGGG GGGG | A2 c2 e2 ec |"F" A2 c2 c2 z2 | dccA c2 Ac | %6
+w: Ba- by- when I met you there was|peace un- known|I set out to get you with a|fine tooth comb I was|soft in- side|there was some- thing go- in' on|
+w: I can't live with- out you if the|love was gone|ev- ry- thing is no- thing if you|got no- oneand you did|walk inthe night|slow- ly los- in' sight of the|
+"C" (3cAG (3cAG z4 |"F" z4"C" z2 E2 | EGGG GGGG | A2 G2 E2 z2 | E2 EG GGGG | A2 c2 e2 ec | %12
+w: |but|you do some- thing to me that I|can't ex- plain|* hold me clos- er and I|feel no pain Ev- ry|
+w: real * * thing * *||that wont hap pen to us and we|got no doubt|too deep in love and we got|no way out and the|
+"F" Ac d2 c2 z2 | dccA c2 A2 |"C" (3cAG AG z4 |"F" z4"C" GAcd |"F" e4 z2 ef | eddc cd e2 | %18
+w: beat of my heart|we got some- thing go- in|on * * * *|Ten- der love is|blind it re-|quired a ded- i- ca- tion *|
+w: mes- sage is clear|this could be the year forthe|real * * thing *|No more will you|cry Ba- by|I will hurt you nev- er we|
+"Fm" e2 ef ed c2 | e2 dd cccG |"C" c2 AE GA d2 | (3cAG z2 z2 GA | c2 AG Acd z | %23
+w: * all this love we feel|needs no con- ver- sa- tion we|ride it to- geth- er ah-|ah * * mak- ing|love with each oth- er ah|
+w: start and * end as one|in love for- ev- er we can||||
+ (3cAG z2"G7" e2 dd |"C" cc z2 f2 dd |"F" cc z2 f2 ee |"Dm7" dd z2 f2 ee | dd z2 f2 ee | %28
+w: ha * * Is- lands in|the stream that is what|we are no- one in|be- tween no- one in|be- tween how can we|
+w: |||||
+ dd z2 e2 dd |"C" cc z2 e2 dd |"F" cc z2 A2 cd |"C" e2 dc Ac d2 | (3cAG z2 z2 ee | %33
+w: be wrong? sail a- way|with me to an- oth-|er world and we re-|ly on each oth- er ah|ah * * from one|
+w: |||||
+"Dm7" eddc cA d2 |1 (3cAG z2 z4 ||"C" z4 z4 :|2"C" (3cAG z2 z4 || z8 | z8 |"F" z4"G7" e2 dd |: %40
+w: lov- er to an- oth- er ah|ah * *||ah * *|||Is- ands in|
+w: |||||||
+"C" cc z2 e2 dd |"F" cc z2 f2 ee |"Dm" dd z2 f2 ee | dd z2 e2 dd |"C" cc z2 e2 dd | %45
+w: the stream that is what|we are no- one in|be- tween how can we|be wrong? sail a- way|with me to an- oth-|
+w: |||||
+"F" cc z2 A2 cd |"C" e2 dc Ac d2 | (3cAG z2 z2 ee |"Dm7" eddc cA d2 |"C" (3cAG z2 z4 | %50
+w: er world and we re-|ly on each oth- er ha|hah * * from one|lov- er to an- oth- er ha|hah * *|
+w: |||||
+"G7" z4 e2"^Repeatandfade" dd :| %51
+w: is- lands in|
+w: |
+

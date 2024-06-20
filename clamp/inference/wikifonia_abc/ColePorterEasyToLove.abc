@@ -1,0 +1,31 @@
+X:1
+T:Easy To Love
+T:Easy To Love
+T:Cole Porter
+T:
+T:(You'd Be So Easy To Love)
+T:1936 by Chappell & Co.
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Dm7" A4 |"Gm7" D3 E |"Dm7" F2 E3/2 F/ |"G7" B3 A |"Cmaj7" G2 ^F G |"F7" d _d c B | %6
+w: You'd|be so|eas- y to|love, So|eas- y to|i- do- lize, all|
+w: We'd|be so|grand at the|game, So|care- free to-|geth- er that it|
+"Em7" A2 ^G3/2 A/ |1"A7b5" g4 |"Dm7" g4 |"G7" A3 B |"Cmaj7" e e"Fmaj7" e2- |"Em7" e z"A7" z2 | %12
+w: oth- ers a-|bove|So|worth the|yearn- ing for||
+w: does seem a||||||
+"Dm7" z g G3/2 G/ |"G7" _A/ A A/ =A A/B/- |"Em7" B B B2- |"Ebdim7" B z z2 :|2"A7" a3 e || %17
+w: So swell to|keep ev- ry home fire burn-|* ing for||shame that|
+w: |||||
+"Dm7" g3 d |"Fm6" f3 c |"Cmaj7" e2 B c |]"E7" d _d"Ebdim7" c B |"Dm7" A2 e2 |"G7" e2 _e d | %23
+w: you can't|see your|fu- ture with|me 'cause you'd be|oh, so|Eas- y to|
+w: ||||||
+"C6" c2-"F7" c2- |"Em7" c z"A7b9" z2 |] %25
+w: love! *||
+w: ||
+

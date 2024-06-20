@@ -1,0 +1,24 @@
+X:1
+T:Als Het Gras Twee Kontjes Hoog Is
+T: Laukens Music Productions  
+T:Mars
+T:ALS HET GRAS TWEE KONTJES HOOG IS
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=130
+M:4/4
+K:F
+V:1 treble nm="Track 0-4"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ cB |"F" A2 c2 f2 e2 |"Bb" e2 d2 z2 gf |"C7" e2 c2 d2 e2 |"F" f6- fC ||S"F" FF FF F2 z F | %6
+ FF GF"C7" E2 z C | GG GG GG z2 | GG AB"F" A2 z C | FF FF FF z A |"F7" AA GF"Bb" D2 z B | %11
+ BB cB"F" AG FA |"C7" GF EG F4- || F6 FE ||[K:Bb]"Bb" D2 F2 B2 A2 |"Eb" A2 G2 z2"C7" cB | %16
+"F7" A2 z2 z2 AG |"Bb" F2 z2 z2 FE | D2 F2 B2 A2 |"Eb" A2 G2 z2 cB |"F7" A2 F2 G2O A2 || %21
+"Bb" B2 z2 B/BB/"G7" =BB |"C7" c2 z2 z2 zS C ||"Bb" B2 z2 z2 cB |"F7" A2 F2 G2 A2 | %25
+"Bb" BB FD B, z B z |] %26
+

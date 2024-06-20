@@ -1,0 +1,19 @@
+X:1
+T:János, legyen
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" C2 G,2 E C3 |"G" GG^FG A G3 |"Cm" c2 GG"G" FE D2 |"Cm" C4 z4!fine! |"Cm" C2 G,2 E C3 | %5
+w: Já- nos, le- gyen,|fenn a Já- nos- he- gyen,|es- té- re o- da- vá-|rom,|Já- nos, ne- kem,|
+"G" GG^FG A G3 |"Fm" A2 GG FG A2 |"G" G4 z4 |"Cm" c2 d c2 d cd |"Bb" B2 c B2 c Bc | %10
+w: ne- hogy ál- mos le- gyen,|mert én azt ki nem ál-|lom,|Jaj, Ja- ni, sze- ret- ném|hal- la- ni, sze- rel- met|
+"Fm" A2 B A2 A AA |"G" G2 F2 E2 D2!D.C.! |] %12
+w: val- la- ni, csak ez a|kí- ván- sá- gom,|
+

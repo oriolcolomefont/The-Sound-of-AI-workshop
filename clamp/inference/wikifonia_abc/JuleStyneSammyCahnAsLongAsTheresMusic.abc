@@ -1,0 +1,27 @@
+X:1
+T:As Long As There's Music
+T:As Long as There's Music
+T:from the film "Step Lively"
+T:Jule Styne
+T:Sammy Cahn
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ z D (3G A B |"Am7" c c3- |"G" c"G" B (3c B G |"A7" A4- |"Adim" A A (3B A F | %5
+w: As long as there's|mu- sic|* and words of ro-|mance,|* The spell of a|
+"Em7""A7" G2"A7" (3A G E |"Dmaj7" F3/2"D6" F/"D6" (3G F D |"C#m7""F#7" E4- | E E (3E F E | %9
+w: theme starts you to|dream there's al- ways a|chance.|* As long as there's|
+"Bmaj7" ^D ^D3- |"B6""Bm7" D"Bm7" =D (3D"E7" F"E7" E |"Am7""Am7b5" C4- |"D7" C D (3G A B | %13
+w: mu- sic|* what- ev- er the|song,|* as long as there's|
+"Am7" c c3- |"G" c"G" B (3c B G |"A7" A4- |"Adim" A A (3B A F |"Em7""Am7" G2"Am7" (3A G E | %18
+w: mu- sic|* for sweet- hearts to|sing,|* I'll sing you my|love mel- o- dies|
+"Dmaj7" F3/2"D6" F/"D6" (3G F D |"C#m7" E4- |"F#7" E E (3E F E |"Bm" D4- |"D7" D E (3F G A | %23
+w: of the birds on the|wing.|* My lone- li- est|days|* will ne- ver seem|
+"G""Dm6" B4- |"E7" B B (3B d c |"Am9" B B3- | B"D7" B"D7" (3G B A |"G""Eb" G4- |"G" G3 z |] %29
+w: long.|* As slong as there's|mu- sic|* and you are the|song.||
+

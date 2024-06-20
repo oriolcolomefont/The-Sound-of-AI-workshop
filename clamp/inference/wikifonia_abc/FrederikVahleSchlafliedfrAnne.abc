@@ -1,0 +1,19 @@
+X:1
+T:Schlaflied für Anne
+C:Frederik Vahle
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ B, F D | E3/2 D/ C | E C3/2 D/ | B,2 z | B, F D | E3/2 D/ C | E F G | F2 z |: B F B | G3/2 F/ E | %10
+w: Schlaf An- ne|schla- fe ein,|bald kommt die|Nacht.|Hat sich aus|Wol- ken Pan-|tof- feln ge-|macht.|Kommt aus den|Be- * rgen,|
+w: Schlaf An- ne|schla- fe ein,|bald kommt der|Mond,|der drau- ßen|hin- ter den|Birn- bäu- men|wohnt.|Ei- ner da-|von kit- zelt|
+w: Schlaf An- ne|schla- fe ein,|bald kommt ein|Traum.|Schlupft dir zum|Ohr hi- nein,|merkst ihn erst|kaum.|Fährst auf dem|Traum- schiff ans|
+ C D3/2 E/ | F2 z | B, F D | E3/2 D/ C | E C3/2 D/ | B,2 z :| %16
+w: kommt von ganz|weit.|Schlaf An- ne|schla- fe ein,|ist Schla- fens-|zeit.|
+w: ihn sanft am|Kinn:|lä- chelt der|Mond und zieht|lei- se da-|hin.-|
+w: En- de der|Nacht,|bis dir der|Mor- gen die|Au- gen auf-|macht.-|
+

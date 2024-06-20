@@ -1,0 +1,23 @@
+X:1
+T:In a Monastery Garden
+T:In A Monastery Garden 
+T:Albert Ketelbey 
+C:Albert Ketelbey
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A3/2 C/ G"Fm" F |"C7" F E ^D E |"Cm6" c3/2 _E/ c =B |"D7" B A"Gm" ^F G |"Gm7" d2"C7" e2 | %5
+w: Through the mi- sty|twi- light fall- ing,|Voi- ces from af-|ar are call- ing,|Call- ing|
+"F" d c E F |"G7" A3/2 D/ E F |"C7" A2 G"C+" ^G |"F" A3/2 C/ G"Fm" F |"C7" F E ^D E | %10
+w: all the wear- y|home- ward to their|rest, _ The|eve- ning bell is|soft- ly peal- ing,|
+"Cm6" c3/2 _E/ c =B |"D7" B A"Gm" ^F G |"Gm7" d2"C7" e2 |"F" d c E F |"Gm" B3/2 D/"C7" A3/2 A/ | %15
+w: While from out the|cloist- ers steal- ing,|Comes this|pray'r of mer- cy|peace- ful and so|
+"F" F4 |] %16
+w: blessed!|
+

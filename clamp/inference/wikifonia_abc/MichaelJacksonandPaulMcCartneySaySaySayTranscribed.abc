@@ -1,0 +1,77 @@
+X:1
+T:Say Say Say (Transcribed)
+C:Michael Jackson and Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI program 73
+V:1
+"Amin" A,3 C- C2 E2- |"Amin7" E2 EG"D " ^F4 |"Dmin7" F3 F- F2 F2- | F2 C2"Amin" A,2 E2 | %4
+w: ||||
+ A,3 C- C2 E2- |"Amin7" E2 EG"D " ^F4 |"Dmin7" F3 F- F2 F2- | F2 DC"Amin" A,2 z2 | A3 c- c2 e2- | %9
+w: ||||Say, ~say, * ~sa-|
+"Amin7" ee eg"D " ^f3 e |"Dmin7" d3 d2 c d2 | z d de"Amin" cB AE | A3 c- c2 e2- | %13
+w: * y ~what ~you ~want but|~don't ~pla- y ~games|~with ~my ~af- fe- c tion and|take, ~take, * ~take|
+"Amin7" e2 ge"D " ^f3 e |"Dmin7" d3 d2 c d2 | z c de"Amin" cB A2 |"Dmin" ff/f/- f2 z f fg | %17
+w: * ~what ~you ~need but|~don't ~lea- ve ~me|~with ~no ~di- re- c\- tion.|All a\- lone * I sit home|
+"F " aa/a/- a2 z a ab |"Amin" c'/b/a z2 z4 | c'/b/a z2 z4 |"Dmin" ff/f/- f2 z f fg | %21
+w: by the phone * wait- ing for|y\- o\- u|b\- a\- by.|Through ~the ~years * ~how ~can ~you|
+"F " ag a2 z g aa |"E " b/b/b z b c'a ag |"E7" e2 d2 c2 B2 |"Amin" A2 z C- C2 E2- | %25
+w: ~stand ~to ~hear my ~plead- ing|~for ~you ~dear? You ~know ~I'm ~cry- ing,|~ooh ~ooh ~ooh ~ooh|~ooh * * *|
+"Amin7" E2 EG"D " ^F4 |"Dmin7" F3 F- F2 F2- | F2 DC"Amin" A,2 z E | A3 c- c2 e2- | %29
+w: ||* * * * Now|~go, ~go, * ~go|
+"Amin7" e z eg"D " ^f3 e |"Dmin7" d3 d2 c d2 | z d- de"Amin" cB A z | A3 c- c2 e2- | %33
+w: * ~where ~you ~want but|~don't ~lea- ve me|~here * for- e\- \- ver.|You, ~you, * ~you|
+"Amin7" e2 ge"D " ^f3 e |"Dmin7" d3- d2 c dA | z A de"Amin" cB Ae |"Dmin" ff/f/- f2 z f fg | %37
+w: * ~stay ~a- way so-|~long * gi- r\- l.|~I ~see ~you ~ne- \- ver. What|can I do * girl to get|
+"F " aa/a/- a2 z2 ab |"Amin" c'/b/a z2 z4 | c'/b/a z2 z4 |"Dmin" ff/f/- f2 z f fg | %41
+w: through ~to ~you? * Cause ~I|~lo- ve ~you|b\- a\- by.|Stand- ing ~here * ~bap- tised ~in|
+"F " ag a2 z g aa |"E " b/b/-b z b c'a ag |"E7" e2 d2 c2 B2 |"Amin" cA cd/c/ cA cd/c/ | %45
+w: ~all ~my ~tears, ba- by ~through|~the ~years, * You ~know ~I'm ~cry- ing,|~ooh ~ooh ~ooh ~ooh|~ooh * * * * * * * * *|
+"Amin7" cA cd"D " z4 |"Dmin7" z A cd/c/- cA cd | f z e z"Amin" d/c/A/c/- cd | %48
+w: |||
+ z A cd/c/- cA cd/c/- |"Amin7" cA cd"D " z4 |"Dmin7" z A cd/c/- cA cd | %51
+w: |||
+ f z e z"Amin7" d/c/A/c/ cA |"G " z2 g6 |"Amin" ag ed dc A2 |"G " gg gg g2 aa- | %55
+w: |You|~ne- ver ~e- ver ~wo- r\- ry|and ~you ~ne- ver ~shed ~a ~te-|
+"Amin" a e3 z2 z e |"G " ag g2 z g2 c'- |"Amin" c' b2 a- a/g/e z e |"Emin" g/g/g ge ge gg | %59
+w: * ar. You're|~say- ing ~that ~my ~love|* ~ain't ~re- * a\- l just|~look ~at ~my ~face, ~these ~tears ~ain't ~dry- ing.|
+"E7" ba ^ge dc B^G |"Amin" A3 c- c2 e2- |"Amin7" ee eg"D " ^f3 e |"Dmin7" d3 d2 c d2 | %63
+w: |You, ~you, * ~you|* ~can ~nev- er ~say that|~I'm ~not ~the ~one|
+ z d de"Amin" cB AE | A3 c- c2 e2- |"Amin7" e2 ge"D " ^f3 e |"Dmin7" d3 d2 c dA | %67
+w: ~who ~real- ly ~lo- ves ~you. I|~pray, ~pray, * ~pray|* ~ev'- ry ~day that|~you'll ~se- e thi- ngs|
+ z A de"Amin" cB Ac |"Dmin" ff/f/- f2 z f fg |"F " aa/a/- a2 z2 ab |"Amin" c'/b/a z2 z4 | %71
+w: ~girl, ~li- ke I\- \- do. What|~can I do * girl to get|~through ~to ~you? * Cause ~I|~lo- ve you,|
+ c'/b/a z2 z4 |"Dmin" ff/f/- f2 z f fg |"F " ag a2 z g aa |"E " b/b/-b z b c'a ag | %75
+w: b\- a\- by.|Stand- ing ~here * ~bap- tised ~in|~all ~my ~tears, ba- by ~through|~the ~years, * You ~know ~I'm ~cry- ing,|
+"E7" e2 d2 c2 B2 |"Amin" AA cd/c/- cA cd/c/- |"Amin7" cA cd"D " z4 |"Dmin7" z A cd/c/- cA cd | %79
+w: ~ooh ~ooh ~ooh ~ooh|~ooh. * * * * * * * * *|||
+ f2 e2"Amin" d/c/A/c/- cd | z A cd/c/- cA cd/c/- |"Amin7" cA cd"D " z4 |"Dmin7" z A cd/c/- cA cd | %83
+w: ||||
+ f2 e2"Amin" d/c/A/c/- cA | cA AG A z A z |"Amin7" cA AG"D " A z A z |"Dmin7" cA AG A z A z | %87
+w: ||||
+ cA AG"Amin" A e3- | e8 |"Amin7" cA AG"D " A z A z |"Dmin" cA AG Ac- c>_a |"Amin" a8 |"E7" b8 | %93
+w: ||||||
+"Amin" cA AG A z A z | cA AG A z2 _e/d/ | c2 e6 |"Amin7""D " z8 |"Dmin7" GA cd/c/- cA cd | %98
+w: |||||
+"Amin" f2 e2 d/c/A/c/- cA |"G " z2 g6 |"Amin" ag ed dc A2 |"G " gg gg g2 aa- |"Amin" a e3 z2 z e | %103
+w: |You|~ne- ver ~e- ver ~wo- r\- ry|and ~you ~ne- ver ~shed ~a ~te-|* ar. You're|
+"G " ag g2 z g2 c'- |"Amin" c' b2 a- a/g/e z e |"Emin" g/g/g ge ge gg |"E7" ba ^ge dc B^G | %107
+w: ~say- ing ~that ~my ~love|* ~ain't ~re- * a\- l just|~look ~at ~my ~face, ~these ~tears ~ain't ~dry- ing.||
+"Amin" A3 c- c2 e2- |"Amin7" ee eg"D " ^f3 e |"Dmin7" d3 d2 c d2 | z d de"Amin" cB AE | %111
+w: You, ~you, * ~you|* ~can ~ne- ver ~say that|~I'm ~not ~the ~one|~who ~real- ly ~lo- ves ~you. I|
+ A3 c- c2 e2- |"Amin7" e2 ge"D " ^f3 e |"Dmin7" d3 d2 c dA | z A de"Amin" cB Ac | %115
+w: ~pray, ~pray, * ~pray|* ~ev'- ry ~day that|~you'll ~se- e thi- ngs|~girl, ~li- ke I \- do. What|
+"Dmin" ff/f/- f2 z f fg |"F " aa/a/- a2 z2 ab |"Amin" c'/b/a z2 z4 | c'/b/a z2 z4 | %119
+w: ~can ~I do * girl to get|~through ~to ~you? * Cause ~I|~lo- ve you,|b\- a\- by.|
+"Dmin" ff/f/- f2 z f fg |"F " ag a2 z g aa |"E " b/b/-b z b c'a ag |"E7" e2 d2 c2 B2 | %123
+w: Stand- ing ~here * ~bap- tised ~in|~all ~my ~tears, ba- by ~through|~the ~years, * You ~know ~I'm ~cry- ing,|~ooh ~ooh ~ooh ~ooh|
+"Amin" AA cd/c/- cA cd/c/- |"Amin7" cA cd"D " e<d cA- |"Dmin7" AA cd/c/- cA cd | %126
+w: |||
+ f2 e2"Amin" d/c/A/c/- cA- | AA cd/c/- cA cd/c/- |"Amin7" cA cd"D " e<d cA- | %129
+w: |||
+"Dmin7" AA cd/c/- cA cd | f2 e2"Amin" d/c/A/c/- cA |"D " A8- |"Dmin7" A8- |"Amin" A8 |] %134
+w: |||||
+

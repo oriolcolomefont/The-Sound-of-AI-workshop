@@ -1,0 +1,27 @@
+X:1
+T:To You, Sweetheart, Aloha
+T:To You, Sweetheart, Aloha
+T:Harry Owens
+C:Harry Owens
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z F |"Bb" F3 d | F3"Bb+" ^F |"Eb" G2"G7/D" G2- |"C7""Bdim" G3 ^G |"F7" A A2 A/A/ | %6
+w: To|You, Sweet-|heart, A-|lo- ha,|* A-|lo- ha from the|
+"Cm7" B B"F7" c c |"Bb""Ddim" F4- |"Cm7" F z"F7" =E F |"Bb" d2 c d | c2"Bb/D" B A | %11
+w: bot- tom of my|heart.|* keep the|smile on your|lips, brush yhe|
+"Cm7" G2"Cdim" ^F A |"Cm" G4 |"F7" e2 d e |"Cm7" d c"F7" A"F+" F |"Bb" G2"Bb/D" F"Dbdim" A | %16
+w: tear from your|eye,|one more A-|lo- ha, then it's|time for good-|
+"Cm7""F7" G3 F |"Bb" F3 d | F3"Bb+" ^F |"Eb" G2"G7/D" G2- |"C7""Ddim" G3 ^G |"F7" A A2 A | %22
+w: bye. To|You, Sweet-|heart, A-|lo- ha|* in|dreams I'll be|
+"Cm7" B B"F7" c c |"Am7" d4- |"D7" d z ^c d |"G7" e e d e | d3 d |"C7" d d c d | c2 B G | %29
+w: with you, Dear, to-|night,|* and I'll|pray for that day|when we|two will meet a-|gain, un- til|
+"F7" A3 F |"Cm7""F7" e3 d |"Bb" d2 B2- | B3 z |] %33
+w: then, Sweet-|heart, A-|lo- ha-||
+

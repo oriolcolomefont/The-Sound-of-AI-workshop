@@ -1,0 +1,21 @@
+X:1
+T:My Dianne
+T:My Dianne
+T:unknown
+C:Erno Rapee and Lew Pollack
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z C D |"C7" E F ^F | G d3/2 c/ |"F" d3- | d f d |"Gm" A3- | A"C7" c E |"F" D3- | D C D | %9
+w: I'm in|heav- en when|I see you|smile|* smile for|me|* my Di|anne|* and though|
+"C7" E F ^F | G d3/2 c/ |"Dm" f3- | f e d |"A" e3- | e"D7" =B ^c |"A" A3 ||"C7" =c C D | E F ^F | %18
+w: ev- ry- things|dark all the|while|* I can|see|* you Di-|anne|* you have|light- ed the|
+ G d3/2 c/ |"F" d3- | d f d |"Gm" A3- | A"C7" c E |"F" D3- | D C D |"C7" E F ^F | G d3/2 c/ | %27
+w: road lead- ing|home|* pray for|me|* when you|can|* but no|mat- ter where-|ev- er I|
+"Dm" f3- | f"G7" a =B |"Gm" d3- |"C7" d d c |"F" f3- | f z2 |] %33
+w: roam|* Smile for|me|* my Di-|anne-||
+

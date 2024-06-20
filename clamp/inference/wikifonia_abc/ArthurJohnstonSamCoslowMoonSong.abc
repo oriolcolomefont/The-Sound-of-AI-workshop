@@ -1,0 +1,30 @@
+X:1
+T:Moon Song
+T:Moon Song
+C:Arthur Johnston
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G9" z AAA"F#9" ^G G2 G |"G9" AAA"G7"B- B3 B |"C" cccB-"Cmaj7" BB B2 |"Em7b5" _B8 |"A7" E4 A4 | %5
+w: It came from no- where the|night that we met, _ 'twas|like a mel- o- * di- ous|plea,|sweet moon|
+"D9" E8 |"Fm6" z _AAA"G7" G2 G2 |"C""Em7" E6"Ab9" z2 |"G9" z AAA"F#9" ^G G2 G | %9
+w: song.|That was- n't meant for|me.|Why is it al- ways re-|
+"G9" AAA"G7"B- B3 B |"C" cccB-"Cmaj7" BB B2 |"Em7b5" _B8 |"A7" E4 A4 |"D9" E8 | %14
+w: mind- ing me of _ a|love dream that nev- * er could|be,|sweet moon|song.|
+"Fm6" z _AAA"G7" G2 G2 |"C" E8 |"E" E2"C#dim" E2"F#m7" E^D"B9"^CD | %17
+w: That was- n't meant for|me.|It came glid- ing in- to|
+"E" E2"C#dim" E2"F#m7" E^D"B9"^CD |"E" E2"E6" E2"F#m7" B2"B7" B2 |"E" ^G8 |"Em" E2 E2"D9" EDCD | %21
+w: my heart rid- ing on a|moon beam from a-|bove.|Sor- row end- ed and the|
+"C7" E2 E2"D9" EDCD |"E" E2"E6" E2"F#m7" B2"B7" B2 |"E" B4"Ab9" _B4 |"G9" z AAA"F#9" ^G G2 G | %25
+w: whole world blend- ed in a|rhap- so- dy of|love. Then,|I heard him sing- ing to|
+"G9" AAA"G7"B- B3 B |"C" cccB-"Cmaj7" BB B2 |"Em7b5" _B8 |"A7" E4 A4 |"D9" E8 | %30
+w: some- bod- y else _ what|I thought was my _ mel- o-|dy,|sweet moon|song,|
+"Fm6" z _AAA"G7sus4" G2"G7" G2 |"C" !fermata!G8 |] %32
+w: That was- n't meant for|me.|
+

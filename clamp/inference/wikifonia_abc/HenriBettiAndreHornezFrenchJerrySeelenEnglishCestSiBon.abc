@@ -1,0 +1,56 @@
+X:1
+T:C'est Si Bon
+T:C'est Si Bon
+T:(It's so good)
+T:Henri Betti
+T:Andre Hornez - French; Jerry Seelen - English
+T:1949, 1950 (Arpege, Paris)
+C:Henri Betti
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^(Tacet)" F2 =E2 |:"Cm7" E8- | E F2 G"F7" AG F2 |"Bb" D8- | D F2 G A>G"Bbm" F2 |"Cm7" E8- | %6
+w: "C'EST SI|BON,"|* Lov- ers say that in|France,|* When they thrill to ro-|mance,|
+w: "C'EST SI|BON,"|* de par- tir n'im- porte|ou,|* Bras des- sus bras des-|sous|
+w: "C'EST SI|BON,"|* de pou- voir l'em- bras-|ser|* Et puis de r'com- men-|cer|
+"F7" E>FG>A d A2 G- |"Bb6" G8- | G4 F2 =E2 |"Cm7" E8- |"F7" E F2 G A>G F2 |"Bb" D8- | %12
+w: * It means that it's so good.||* C'EST SI|BON,|* So I say it to|you|
+w: * En chan- tant des chan- sons.||* C'EST SI|BON,|* De se dir' des mots|doux,|
+w: * A la moindr' oc- ca- sion.||* C'EST SI|BON,|* De jou- er du pia-|no,|
+ D F2 G A>G F2 |"Cm7" E8- |"Bbm""F7" E>FG>A d F2 B- |"Bb6" B8- | B2 z2 B2 _c2 |"Gb" _d4 B2 _A2 | %18
+w: * Like the French peo- ple|do,|* Be- cause it's oh, so good.||* Ev'- ry|word, ev'- ry|
+w: * Des pe- tits riens du|tout|* Mais qui en di- sent long.||* En vo-|yant no- tre|
+w: * Tout le long de son|dos|* Tan- dis que nous dan- sons.||* C'est i-|noui, ce qu'elle|
+ _G4 F2 E2 |"Gb6" E4"Gb" _D4- | D2 z2 B2 =B2 |"C7" c4 B2 A2 | G4 A2 B2 |"F7" (d8 | %24
+w: sigh, ev'- ry|kiss, dear,|* Leads to|on- ly one|thought and it's|this,|
+w: mi- ne ra-|vi- e,|* Les pas-|sants dans la|rue, nous en-|vient.|
+w: a pour sé-|dui- re,|* Sans par-|ler de c'que|je n'peux pas|dire.|
+ c2)"^(Tacet)" z2 F2 =E2 |"Cm7" E8- |"F7" E F2 G A>G F2 |"Bb" D8- | D F2 G A>G"Bbm" F2 |"Cm7" E8- | %30
+w: dear. It's so|good,|* Noth- ing else can re-|place,|* Just your slight- est em-|brace.|
+w: * C'EST SI|BON,|* De guet- ter dans ses|yeux,|* Un es- spoir mer- viel-|leux,|
+w: * C'EST SI|BON,|* Quand j'la tiens dans mes|bras,|* De me dir' que tout|ça,|
+"F7" E>FA>c f f2 f- |"Fm" f8- |"G7" f4 f2 =e2 |"Cm7" _e8- | e d2 c e>d c2 |"Bb" d8- | %36
+w: * And if you on- ly would,||* be my|own,|* For the rest of my|days.|
+w: * Qui don- ne le fris- son.||* C'EST SI|BON,|* Ces pe- tits sen- sa-|tions.|
+w: * C'est à moi pour de bon.||* C'EST SI|BON,|* Et si nous nous ai-|mons,|
+"^maj.7" d"Bb" d2 c B>A G2 |"B7" _G8- |"F7" G>F=G>A d F2 B- |1"Bb" B8- || %40
+w: * I will whis- per this|phrase,|* My dar- ling, "C'EST SI BON"||
+w: * Ça vaut mieux qu'un mil-|lion.|* Tell' ment, tell'- ment c'est bon.||
+w: * Cher- chez pas la rai-|son:|* C'est parc'- que C'EST SI BON!||
+"Cm7" B2"F7" z2"^(Tacet)" F2 =E2 :|2"Bb""Gm7" B8- ||"^-""F7" B>FG>A d F2 B- |"Bb""Gm7" B8- | %44
+w: * "C'EST SI|BON,"|* I mean that it's so good,||
+w: * C'EST SI||||
+w: * C'EST SI||||
+"F7" B>FG>A d F2 B- |"Bb""Gm7" B8- |"F7" B>FG>A d F2 B- |"Bb""Gm7" B8- |"F7" B>FG>A d F2 B- | %49
+w: * When I say "C'EST SI BON,"||* And I say, "C'EST SI BON,",||* Be- cause it's oh, so good.|
+w: |||||
+w: |||||
+"Bb" !fermata!B8- | B8- |"B6""Bb6" B8 |] %52
+w: |||
+w: |||
+w: |||
+

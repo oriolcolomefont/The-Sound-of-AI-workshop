@@ -1,0 +1,24 @@
+X:1
+T:Rockin' Robin
+T:Rockin Robin
+T:J. Thomas
+T:Shuffle or Swing
+C:Jimmie Thomas
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." c2 |:S"F" _e2 dd c2 d2 | _ee d2 c4 | _eedd ccAA | GF F2 F4 | _eedd c3 d | %6
+w: He|rocks in the tree- tops|all the day long|hop- pin and a hop pin and a|sing- in his song|All the lit- tle birds on|
+ _e2 d2"D" c4 | _eedd cc A2 | G2 F2 F2 GA |"Bb" GF z2 z4 | z4 z2 G_A |"F" GF z2 z4 | z8 | %13
+w: Jay bird street|love to hear the rob- in go|Tweet tweet tweet rock- in|Rob- in|rock- in|rob- in||
+"C7" _B2 BB BBBB |"Bb" cc_Bc _A2 F2 |1"F" F8 | z8 :|2"F" F8 || z4 z2 F2 |"Bb" _BBBB BBBB | %20
+w: blow rock- in rob- in cause we're|real- ly- gon- na rock to-|night.||night|A|pret- ty lit- tle ra- ven at the|
+ d2 _B2 B4 | cccd AFFF | A2 F2 F3 A |"Bb" _BBBB BB B2 | d2 _B2 B3 B |"C7" c2 cc cccc | %26
+w: bird band- stand|taught him now to do the bop and|it was grand they|start- ed go- in stead- y and|bless my soul he|out- bopped the buzzard and the o-|
+ z2 _ec c3 c!D.S.! ||O F8- | F8 |] %29
+w: ri- ole * He|night.||
+

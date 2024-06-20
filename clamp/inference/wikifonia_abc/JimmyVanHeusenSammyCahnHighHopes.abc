@@ -1,0 +1,43 @@
+X:1
+T:High Hopes
+T:High Hopes
+T:(from a Hole in the Head)
+T:Jimmy Van Heusen
+T:Sammy Cahn
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" cccc- c2 AB | cccc- c2 AB |"Gm7" cccc- c2 z2 |"C7" z B3 A2 G2 |"F" F8- |"C7" F4 z4 | %6
+w: Next time you're found * with your|chin on the ground * there's a|lot to be learned *|so look a-|round||
+w: when troub- les call * and your|back's to the wall * there's a|lot to be learned *|that wall could|fall||
+w: ||||||
+"F" c2 c2 A2 F2 |"Bb" ED^CD- D4 |"C7" B2 B2 G2 E2 |"F" DC=B,C- C4 | DC=B,C- C2 A2 | %11
+w: Just what makes that|lit- tle ol'ant * *|think he'll move that|rub- ber tree plant? *|an- y- one knows * an|
+w: Once there was a|sil- ly ol' ant *|thought he'd punch a|hole in a dam *|no one could make * that|
+w: |||||
+"Gm7" B3 =B- _B4 | z2 c_B"C7" ACG z |"F" F2 F2 G2 A2 |"Bb" z2 d2- d^cd z | B4 d2 d2 | %16
+w: ant can't *|move a rub- ber tree|plant but he's got|high * * *|hopes he's got|
+w: ram scram *|He kept but- tin' that|dam "Cause he had|high * * *|hopes He had|
+w: ||* So keep your|high * * *|hopes keep your|
+"F" z2 c2- c=Bc z | A4 c2"Dm7" c2 |"G7" z2 =B2 A2 G2 | =B4 A2 G2 |"G7" z2 c2- c=B c2 | %21
+w: high * * *|hopes he's got|high ap- ple|pie in the|sky * * *|
+w: high * * *|hopes he had|high ap- ple|pie in the|sky * * *|
+w: high * * *|hopes keep those|high ap- ple|pie in the|sky * * *|
+ C2 C2 D2 E2 |"F" F2 GA- AG F2 |"F7" A2 Bc- cB A2 |"Bb" B2 cd- dc B2 | d8 |"F" c2 c2 c3 =B | %27
+w: hopes, so an- y|time you're get * tin low|stead of let * tin' go|just re- mem- * ber that|ant|Oops, there goes an-|
+w: hopes so an- y-|time you're feel- * in bad|stead of feel- * in sad|just re- mem * ber that|ram|Oops there goes a|
+w: hopes a prob- lem's|just a toy * bal- loon|They'll be burst * in soon.|They're just bound * to go|pop!|Oops there goes an-|
+"Gm7" _B2 CA-"C7" AC G2 |"F" F8 | z8 |"F" c2 c2 c3 =B |"Gm7" _B2 CA-"C7" AC G2 |"F" F4 z4 :| %33
+w: oth- er rub * ber tree|plant||Oops there goes an-|oth- er rub * ber tree|plant|
+w: bil- lion kil * o- watt|dam||Oops there goes a|bil- lion kil * o- watt|dam|
+w: oth- er prob * lem ker-|plop!-||Oops there goes an|oth- er prob * lem ker-||
+"F" F2 (3AB=B c2 C2 | F,2 z2 z4 |] %35
+w: plop * * * * ker-|plop.-|
+w: ||
+w: ||
+

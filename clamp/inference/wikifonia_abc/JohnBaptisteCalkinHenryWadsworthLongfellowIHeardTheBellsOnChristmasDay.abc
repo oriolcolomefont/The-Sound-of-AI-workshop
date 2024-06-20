@@ -1,0 +1,24 @@
+X:1
+T:I Heard The Bells On Christmas Day
+T:I Heard The Bells On Christmas Day
+C:John Baptiste Calkin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z C |"C" E3/2 ^D/ E E |"G7" F3/2 E/ F"B7" ^F |"Em" G c B A |"G7" A3/2 G/ G G | %5
+w: I|heard the bells on|Christ- mas day Their|old fam- il- iar|car- ols play, And|
+w: I|thought how, as the|day had come The|bel- fries of all|Christ- en- dom Had|
+w: Then|pealed the bells more|loud and deep: "God|is not dead, nor|doth not sleep! The|
+w: And|in des- pair I|bowed my head: There|is no peace on|earth," I said; "For|
+w: Till|ring- ing, sing- ing|on its way, The|world re- volved from|night to day, A|
+"C" G3/2 F/ E"F" F |"C+" E3/2 D/"Am" C"G7" D |"C" E"G7" F"C" G"F" A |"G7" B,3/2 D/"C" C2 |] %9
+w: wild and sweet the|words re- peat Of|peace on earth good-|will to men!|
+w: rolled a- long th'~un-|brok- en song Of|peace on earth good|will to men!|
+w: wrong shall fail, the|right pre- vail With|peace on earth good|will to men!|
+w: hate is strong and|mocks the song, Of|peace on earth good|will to men!|
+w: voice, a chime, a|chant sub- lime Of|peace on earth good|will to men!|
+

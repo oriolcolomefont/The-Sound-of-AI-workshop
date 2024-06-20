@@ -1,0 +1,21 @@
+X:1
+T:Zie ginds komt de stoomboot
+C:Traditional
+Z:Public Domain
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+ C |"F" F F A |"Gm" G G B |"C" E E G |"F" F2 C |"F" F F A |"Gm" (G/G/) G B |"C" E E G |"F" F2 c | %9
+w: Zie|ginds komt de|stoom- boot uit|Span- je weer|aan. Hij|brengt ons Sint|Ni- co- laas, ik|zie hem al|staan. Hoe|
+w: Zijn|knecht staat te|lach- en en|roept ons reeds|toe: Wie|zoet is krijgt|lek- _ kers wie|stout is de|roe! Oh,|
+"C" G G c |"F" (A/A/) A c |"Bb" B B A |"C" G2 C |"F" F (F/G/) (A/B/) |"F" (c/c/) A F | %15
+w: hup- pelt zijn|paard- _ je het|dek op en|weer. Hoe|waai- en _ de _|wim- _ pels al|
+w: lie- ve Sint|Ni- co- laas, kom|ook eens bij|mij en|rij toch * niet _|stil- le- tjes ons|
+"Gm" B G"C" E |"F" F3 |] %17
+w: heen en al|weer.|
+w: huis- je voor-|bij.|
+

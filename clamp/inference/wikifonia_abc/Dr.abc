@@ -1,0 +1,37 @@
+X:1
+T:Rule Britannia!
+T:Rule Britannia!
+T:Dr. Thomas A. Arne
+T:(1933 version)
+T:Amsco Music Sales Co., New York City (1933)
+C:Dr. Thomas A. Arne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Maestoso" D |"G" G2 G2 G/A/B/c/dG |"D7" A3 B/c/"G" B2 z D | G/A/G/A/ B/c/B/c/ dABA | %4
+w: 1.~When|Brit- ain first, _ _ _ _ at|Heav'n's com- * mand, A-|rose _ _ _ _ _ _ _ _ from out the|
+w: 2.~The|Na- tions not _ _ _ _ so|blest as * Thee Must|in _ _ _ _ _ _ _ _ their turns to|
+w: 3.~Still|more ma- jes- * * * * tic|shalt thou * rise, More|dread- * * * * * * * * ful from each|
+w: 4.~Thee,|haugh- ty ty- * * * * rants|ne'er shall * tame; All|their _ _ _ _ _ _ _ _ at- tempts to|
+"G" BA/B/"A7"AG"D" (F2 F)D |"D" FDAF d^c/B/ A/G/F/E/ | D2"A7" E2"D" D2 z2 |"G" G2 GD"C" EC z G | %8
+w: a- * * zure * main, _ _|_ A- rose, a- rose from * out * the *|a- zure main.|This was the Char- ter, the|
+w: ty- * * rants * fall, _ _|_ Must in, must in their * turns * to *|ty- rants fall;|While thous shalt flour- ish, shalt|
+w: for- * * eign * stroke; _ _|_ More dread- ful, dread- ful * from * each *|for- eign stroke;|As the loud blast, * loud|
+w: bend _ _ thee * down, _ _|_ All their, all their at- * tempts * to *|bend thee down,|Will but a- rouse, * a-|
+"Am" c>BA"A7"G"D7" F2 z A |"G" d2"D7" c2"G" B>cdc | B2"D7" A2"G" G2 z2 ||"G" B2 z B"C" cc z c | %12
+w: Char- ter of the land, And|guard- ian an- * gels _|sang this strain:|Rule, Bri- tan- nia, Bri-|
+w: flour- ish great and free, The|dread and en- * * vy|of them all.||
+w: blast that tears the skies, Serves|but to root _ _ thy|na- tive Oak.||
+w: rouse thy gen'- rous flame, To|work their woe _ _ and|thy re- nown.||
+"Am" c>B"A7"AG"D" F2 z A |"G" d2"D7" c2"G" B/A/B/c/dc | B2"D7" A2"G" !fermata!G2 z :| %15
+w: tan- nia rules the waves, For|Bri- tons ne- * * * ver *|shall be slaves.|
+w: |||
+w: |||
+w: |||
+

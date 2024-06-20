@@ -1,0 +1,24 @@
+X:1
+T:Did I Remember?
+T:Did I Remember?
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" z e d e |"D7" d d2 c |"Fm7" B B C C |"Bb7" G G2 F |"Fm7" B B C C |"Bb7" G G2 F | %6
+w: Did I re-|mem- ber to|tell you I a-|dore you, And|I am lliv- ing|for you a-|
+"Eb""Edim" B4- |"Fm7""Bb7" B4 |"Eb" z e d e |"D7" d d2 c |"Fm7" B B C C |"Bb7" G G2 F | %12
+w: lone?|_|Did I re-|mem- ber to|say, "I'm lost with-|out you," And|
+"Fm7" B B C C |"Bb7" F G2 B |"Eb9" F4- | F _d"C7" c B |"Fm" =E F G A | =B c"G7" d f |"Cm" f2 e e- | %19
+w: just how mad a-|bout you I've|grown?|_ _ _ _|you were in my|arms and that was|all I kne|
+ e2 (3e"Cm7" d"Cm6" c |"D7" d2 =A A- | A2 (3e"D+" d"D7" c |"G" d2 d2 |"Bb7""Bb13""Bb7" d4 | %24
+w: _ we were a-|lone we two,|_ What did I|say to|you?|
+"Eb" z e d e |"D7" d d2 c |"Fm7" B B C C |"Bb7" G G2 F |"Fm7" B B C C |"Bb7" G G2 G | %30
+w: Did I re-|mem- ber to|tell you I a-|dore you, And|pray for- ev- er-|more you are|
+"Eb" E2"Ebmaj7" ^F/G/=A/B/ | d e"Eb" !fermata!g2 |] %32
+w: mine? * * * *||
+

@@ -1,0 +1,16 @@
+X:1
+T:Elment a Lidi néni a vásárba
+T:Elment a Lidi néni a vásárba
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A,2 CC CCCC |"E" B, D3 C2 B,2 |"Am" C A,3 A,4 |"C" C E3 E E3 |"G" D F3 D2 B,2 |"C" C C3 C4 | %6
+w: El- ment a Li- di né- ni|a vá- sár- ba,|csu- haj- ja,|Ba- tyút kö- tött|a há- tá- ra,|csu- haj- ja,|
+"C" C2 E2 E E2 E |"G" D2 F2 D2 B,2 |"Am" A,2 CC CCCC |"E" B, D3 C2 B,2 |"Am" C A,3 A,4 |] %11
+w: Ba- tyú- já- ba *|szé- na, szal- ma,|úgy ment a Li- di- né- ni|a vá- sár- ba,|csu- haj- ja.|
+

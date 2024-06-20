@@ -1,0 +1,59 @@
+X:1
+T:Dear Old Donegal
+T:Dear Old Donegal
+T:Back to Donegal
+T:Steve Graham
+T: Leeds Music Corporation, New York (1942)
+C:Steve Graham
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ e2 e d2 e | c2 B B2 d | (c2 d c2 B | (G3 G2)) G | (F2 G F2 E | (C3 C2) G) | F2 G F2 G | %7
+w: |||||||
+w: |||||||
+ B2 z b z ||"^VERSE" G |:S"Eb" E2 E (EF)G | F2 E E2 B |"Ab" c2 c A2 c |"Eb" (B3 B2) d | %13
+w: |1.~~It|seems like on- * ly|yes- ter- day I|sailed from out of|Cork _ A|
+w: |2.~~They'll|give a par- ty when|I go home, They'll|come from near and|far _ They'll|
+"Ab" e2 e d2 e |"Eb" c2 B"Cm7" B2 G |"F7" G2 F F2 G |"Bb7" (F3 F2) G |"Eb" EEE (EF)G | F2 E E2 B | %19
+w: wan- der- er from|Er- in's isle I|land- ed in New|York. _ There|was- n't a soul _ to|greet me there, A|
+w: line the roads for|miles and miles With|I- rish jaun- tin'|cars. _ The|spir- its 'll flow _ and|we'll be gay, We'll|
+"Ab" c2 c A2 c |"Eb" (B3 B2) d |"Ab" e2 e"Adim" d2 e |"Eb" c2 B"C7" G2 G |"F7" F2 F"Bb7" E2 F | %24
+w: stran- ger on your|shore. _ But|I- rish luck was|with me here and|rich- es came ga-|
+w: fill our hearts with|joy. _ The|pip- er'll play an|I- rish reel To|greet the Yan- kee|
+"Eb" (E3 E2) B |"Ab" (cc)c A2 c |"Adim" e2 e e2 c |"Eb" c2 B"Bb7" B2 G |"Gm7" (B3"Cm7" B2) G | %29
+w: lore, _ And|now that I'm go- in'|back a- gain To|dear old Er- in's|isle, _ My|
+w: boy, _ We'll|dance _ and sing the|whole night long, Such|fun as nev- er|seen, _ The|
+"Gm" (BB)B B2 B |"Cm" c2 e"Gm7" B2 G |"F7" G2 F F G2 |"Bb7" (F3 F2) G |"Eb" (EE)E EFG | %34
+w: friends _ will meet me|on the pier, And|greet me with a|smile. _ Their|fa- * ces, sure, I've al-|
+w: lads- 'll be decked in|cord- u- roy, The|col- leens wear- in'|green. _ There'll|be thou- sands there that I|
+"Eb7" F2 E E2 B |"Ab" c2 c A2 c |"Eb" (B3 B)cd |"Ab" eee"Adim" d2 e |"Eb" c2 B"C7" G2 G | %39
+w: most for- got I've|been so long a-|way _ But me|mo- ther will in- tro-|duce them all, And|
+w: nev- er saw, I've|been so long a-|way _ But me|mo- ther will in- tro-|duce them all, And|
+"F7" F2 F"Bb7" E2 F |"Eb" (E3 E2) ||"^REFRAIN" G |"Eb" EEE (EF)G | F2 E E2 B |"Ab" ccc A2 c | %45
+w: this to me will|say: _|Shake|hands with your Un- * cle|Mike, me boy, And|here is your sis- ter|
+w: this to me will|say: _|_||||
+"Eb" (B3 B2) d |"Ab" e2 e d2 e |"Eb" c2 B"Cm7" B2 G |"F7" G2 F F2 G |"Bb7" (F3 F2) G | %50
+w: Kate, _ And|there's the girl you|used to swing Down|by the gar- den|gate. _ Shake|
+w: |||||
+"Eb" E2 E EFG |"Eb7" F (E2 E2) B |"Ab" c2 c A c2 |"Eb" (B3 B)cd |"Ab" e2 e"Adim" d2 e | %55
+w: hands with all of the|neigh- bors, * And|kiss the col- leens|all _ You're as|wel- come as the|
+w: |||||
+"Eb" c2 B"C7" G2 G |"F7" F2 F"Bb7" E2 F |1"Eb" (E3"^to Verse 2" E2) G :|2 %58
+w: flow'rs in May To|dear old Don- e-|gal. _ They'll|
+w: |||
+S"Eb" (E3"^Final Ending" E2) z ||"^PATTER" G |:"Eb""^(optional -- after 2nd verse)" EEE EEE | %61
+w: gal. _|1.~~Meet|Bran- i- gan, Flan- ni- gan,|
+w: |2.~~|Mad- i- gan, Cad- i- gan,|
+"Fm7" EEE"Bb7" CB,B, |"Eb" EEE EEE |"Fm7" CCC"Bb9" D3 |"Eb" EEE EEE |"Fm7" EEE"Bb7" CB,B, | %66
+w: Mil- li- gan, Gil- li- gan,|Duf- fy, Mc- Cuf- fy, Ma-|la- chy. Ma- hone,|Raf- fer- ty, Laf- fer- ty,|Don- nel- ly, Con- nel- ly,|
+w: Lan- i- han, Flan- i- han,|Fa- gan, O'- Ha- gan, O'-|Hoo- li- han, Flynn,|Shan- i- han, Man- i- han,|Fo- gar- ty, Ho- gar- ty,|
+"Ab" EEE"Eb" EEE |1"Bb7" FED"Eb" E3 :|2"Bb7" FED"Eb" E2"^Go to Refrain;\nuse final ending" z |] %69
+w: Doo ley, O'- Hoo- ley, Mul-|down- ey, Ma- lone,||
+w: Kel- ly, O'- Kel- ly, Mc||Guin- ness, Mc- Guinn.|
+

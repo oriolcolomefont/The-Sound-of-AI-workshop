@@ -1,0 +1,29 @@
+X:1
+T:Back In The Saddle Again
+T:Back in the saddle again
+T:Gene Autry,Ray Whitley,
+T:Country and Western
+C:Gene Autry, Ray Whitley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G |:"C" E E2 E |"G7" F E2 D |"C" C4- | C4 |"F" F F2 G | A2 F ^F |"C" G4- | G2"C7" G ^G | %9
+w: I'm|back in the|sad- dle a-|gain||out where a|friend is a|friend|* where the|
+w: |Rid- in the|range * once|more||tot- in my|old for- ty|four|* where you|
+"F" A A A B | c2"G7" B c |"C" A G G A |"A7" E3 E |1"D7" D D2 D || ^F G2 A |"G7" G4- | G3 z :|2 %17
+w: long- horn cat- tle|feed on the|low- ly jim- son|weed I'm|back in the|sad- dle a-|gain-||
+w: sleep out ev- ry|night where the|on- ly law is|right I'm|||||
+"D7" E E2 E ||"G7" F E2 D |"C" C4- |"F" C2"C" G"C7" ^G |"F" A2 F2 | c4 |"C" A G G E | G4 | G G2 G | %26
+w: back in the|sad- dle a-|gain|* whoo- pi|ti yi|yo|rock- in to and|fro|back in the|
+w: |||||||||
+ A G2 E |"G7" D4- | D2"C7" G ^G |"F" A2 F2 | c3 B |"C" A G2 G- | G4 |"D7" E E2 E |"G7" F E2 D | %35
+w: sad- dle a-|gain|* whoo- pi-|ti yi-|yay I|go my way||back in the|sad- dle a-|
+w: |||||||||
+"C" C4- | z3 z |] %37
+w: gain.-||
+w: ||
+

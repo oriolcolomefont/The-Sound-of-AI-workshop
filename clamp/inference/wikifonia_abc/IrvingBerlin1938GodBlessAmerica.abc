@@ -1,0 +1,51 @@
+X:1
+T:God Bless America
+T:God Bless America
+T:Irving Berlin, 1938 Arrangement:  Larry Johnson, 2012
+C:Irving Berlin 1938
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 |"^Introduction""Bb" z4 |"F/A" z2"C7/E" z2 |"F" z"A7/C#" z"Dm" z2 | z2"Gm7" z2 |"F/C" z4 | %7
+w: |||||||
+"C7" z4 |"F" z2"Fmaj7/A" z2 |"Gm7" z2"C7" z2 |"^Verse""F" z A/B/"F#dim7" c d |"Gm" B B3 | %12
+w: |||While the storm clouds|ga ther|
+"C7" z G/A/ B c |"F" A2-"F/E" A2 |"Dm" z F/G/"Dm/C" A B |"Bb6" G G3 |"C7" z G/F/ E G |"F" F4 | %18
+w: far a cross the|sea _|let us swear al|le gance|to a land that's|free.|
+ z A/B/"F#dim7" c d |"Gm" B B3 |"E7" z =B/c/ d B |"Am" c4 |"F6/A" z c/c/"Ab7b5" c c | %23
+w: Let us all be|grate ful|for a land so|fair|as we raise our|
+"C/G" c G-"Em" G2 |"Dm7" z F/E/ D E |"C7" G2-"Gm/D" G2- |"Eb7" G2-"C7/E" G2 |"^Refrain""F" F4 | %28
+w: voi ces _|in a sol emn|prayer _|_ _|God|
+"Fmaj7/A" E2"G#dim7" D2 |"C7/G" E3/2 D/"C7" C2- | C4 | G4 | F2 G2 |"F" A4- |"F7" A2 G A | %35
+w: bless Am|er i ca|_|Land|that I|love.|_ stand be|
+"Bb" B2 D2- | D2"Gm7b5" B2 |"F/C" A2 C2- | C2"Dm7" F G |"G9" A2 G F |"C7" G2 F E |"F6" F4- | %42
+w: hind her|_ and|guide her|_ thru the|night with a|light from a|bove.|
+ F2 E3/2 F/ |"C7" G2 C2- | C2 F3/2 G/ |"F" A2 C2- | C2 G3/2 A/ |"C7" B2 E2- | E2 A3/2 B/ | %49
+w: _ From the|moun tans|_ to the|prar ies|_ to the|o ceans|_ white with|
+"F7" c2-"Ab/Gb" c2- |"Cm/G" c2-"F7/A" c2 |"Bb" d4 |"F/A" c2"C7/E" B2 |"F" A"A7/C#" G"Dm" F2- | %54
+w: foam. _|_ _|God|bless a|mer i ca|
+ F2"Gmaj7" B2 |"F/C" A4 |"C7" G4 |"F7" c2-"Ab/Gb" c2- |"Cm/G" c2-"F7/A" c2 |"Bb" d4 | %60
+w: _ my|home|sweet|home. _|_ _|God|
+"F/A" c2"C7/E" B2 |"F" A"A7/C#" G"Dm" F2- | F2"Gm7" B2 |"F/C" A4 |"C7" G4 |"F" F2-"Fmaj7/A" F2- | %66
+w: bless a|mer i ca|_ my|home|sweet|home. _|
+"Gm7" F2"C7" z2 |"^Refrain""F" F4 |"Fmaj7/A" E2"G#dim7" D2 |"C7/G" E3/2 D/"C7" C2- | C4 | G4 | %72
+w: _|God|bless Am|er i ca|_|Land|
+ F2 G2 |"F" A4- |"F7" A2 G A |"Bb" B2 D2- | D2"Gm7b5" B2 |"F/C" A2 C2- | C2"Dm7" F G |"G9" A2 G F | %80
+w: that I|love.|_ stand be|hind her|_ and|guide her|_ thru the|night with a|
+"C7" G2 F E |"F6" F4- | F2 E3/2 F/ |"C7" G2 C2- | C2 F3/2 G/ |"F" A2 C2- | C2 G3/2 A/ | %87
+w: light from a|bove.|_ From the|moun tans|_ to the|prar ies|_ to the|
+"C7" B2 E2- | E2 A3/2 B/ |"F7" c2-"Ab/Gb" c2- |"Cm/G" c2-"F7/A" c2 |"Bb" d4 |"F/A" c2"C7/E" B2 | %93
+w: o ceans|_ white with|foam. _|_ _|God|bless a|
+"F" A"A7/C#" G"Dm" F2- | F2"Gmaj7" B2 |"F/C" A4 |"C7" G4 |"F7" c2-"Ab/Gb" c2- | %98
+w: mer i ca|_ my|home|sweet|home. _|
+"Cm/G" c2-"F7/A" c2 |"Bb" d4 |"F/A" c2"C7/E" B2 |"F" A"A7/C#" G"Dm" F2- | F2"Gm7" B2 |"F/C" A4 | %104
+w: _ _|God|bless a|mer i ca|_ my|home|
+"C7" G4 |"F" F4- | F3 z | z4 | z4 |] %109
+w: sweet|home.|_|||
+

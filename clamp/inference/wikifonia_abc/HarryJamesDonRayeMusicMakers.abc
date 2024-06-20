@@ -1,0 +1,30 @@
+X:1
+T:Music Makers
+T:Music Makers
+C:Harry James
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Fm7" FG A2"Bb7" B4 |"Fm7" FG A2"Bb7" B4 |"Ebmaj7" EF G2 B4 | z e3 cBGB |"Fm7" FG A2"Bb7" B4 | %5
+w: Though the man's dead,|some- where I read|Shake- speare once said,|"You folks can have the|men who make laws,|
+"Fm7" FG A2"Bb7" B2 c2 |"Ebmaj7" E3 E- E4- |"Gm7" E4"C7" z4 ||"Fm7" FG A2"Bb7" B4 | %9
+w: give me the mu- sic|mak- ers." _|_|I'd give my vote,|
+"Fm7" FG A2"Bb7" B4 |"Ebmaj7" EF G2 B4 | z e3 cBGB |"Fm7" FG A2"Bb7" B4 |"Fm7" FG A2"Bb7" B2 c2 | %14
+w: just for one note|Men- dels- sohn wrote,|and let you have the|men that make laws,|give me the mu- sic|
+"Ebmaj7" E3 E- E4- | E4 z4 ||"G7" d d2 d- dG =B2 |"Ab7" e3"G7" d- d2 z2 |"C7" d d2 d- dG B2 | %19
+w: mak- ers. _|_|Clas- sic mu- * sic or|low down, _|I like op- * 'ra or|
+"Db7" e3"C7" d- d2 z2 |"F7" d d2 d- dF =A2 |"Gb7" e3"F7" d d2 z2 |"B7" _d d2 d- de d2 | %23
+w: eight beats. _|There's no need _ for a|show- down, _|crit- ic say _ they're all|
+"Fm7" c3 _c-"Bb7" c2 B2 ||"Fm7" FG A2"Bb7" B4 |"Fm7" FG A2"Bb7" B4 |"Ebmaj7" EF G2 B4 | z e3 cBGB | %28
+w: great beats! _ So,|let me re- peat,|give me the beat,|rhyth- mic or sweet,|and you can have the|
+"Fm7" FG A2"Bb7" B4 |"Fm7" FG A2"Bb7" B2 c2 |1"Ebmaj7" e3 e- e4- |"Gm7" e4"C7" z4 :|2 %32
+w: men who make laws,|give me the mu- sic|mak- ers. _|_|
+"Ebmaj7" e3 e- e4- | e4 z4 |] %34
+w: mak- ers. _|_|
+

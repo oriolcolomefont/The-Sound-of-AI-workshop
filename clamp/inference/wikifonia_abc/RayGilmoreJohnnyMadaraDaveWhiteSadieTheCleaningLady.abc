@@ -1,0 +1,38 @@
+X:1
+T:Sadie The Cleaning Lady
+T:Sadie the cleaning lady
+T:R.Gilmore/J.Madara / D.White
+C:Ray Gilmore, Johnny Madara, Dave White
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" c2 G2 | z c B A |"G7" G2 D2 | z2 z G | B d B d | B G A G |"C" G2 E2 | z2 d e |"F" f f A A | %9
+w: Sa- die|the clean- ing|la- dy|with|trust- ed- scrub- bing|brush and pail of|wa- ter|worked her|fing- ers to the|
+w: |||her|ach- ing knees not|get- ting a- ny|young- er|well her|red de- ter- gent|
+w: |||her|fe- male mind would|find a way of|trap- ping|though as|gen- tle as a|
+w: |||her|Sam was what she|go hook line and|sink- er|to her|sor- row and dis-|
+ f2 e d |"C" e e G G |"A7" e2 z e |"D7" d d d d | d A ^G A |"G7" e2 d2 |1 z2 z e :|2 z2 e d |: %17
+w: bone for the|lad she had at|home pro-|vid- ing at the|same time for her|daugh- ter|Oh|scrub you|
+w: hands had for|years not held a|mans and|time would find her|heart ex- pired of|hung er|||
+w: lamb Sam the|el- e- va- tor|man so|she could spend the|night by T. V.|nap ping|||
+w: may shes still|work- ing to this|day her|Sam turned out to|be a no good|stink- er.-|||
+"C" c2"^Refrain" c c | c2 B c |"D7" d2 A2 | z2 d c |"G7" B d B d | B G A G |"C" G2 E2 | z2 e d | %25
+w: floors do your|chores dear old|Sa- die|looks as|though you'll al- ways|be a clean- ing|la- dy|cant af-|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+ c2 c c | c2 B c |"D7" d2 A2 | z2 d c |"G7" B d B d | B G A B |"C" d2"^rpt""^D.S.""^refrain" c2- | %32
+w: ford to get|bored dear old|Sa- die|Looks as|though you'll al- ways|be a clean- ing|la- dy|
+w: |||||||
+w: |||||||
+w: |||||||
+ c2"^to" z"^twicethen""^fade" e |] %33
+w: * Oh|
+w: |
+w: |
+w: |
+

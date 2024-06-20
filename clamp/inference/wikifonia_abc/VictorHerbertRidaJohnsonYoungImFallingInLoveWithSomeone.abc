@@ -1,0 +1,30 @@
+X:1
+T:I'm Falling In Love With Someone
+T:I'm Falling In Love With Someone
+T:From "Naughty Marietta",musical(1910),movie(1935)
+T:Victor Herbert & Rida Johnson Young
+C:Victor Herbert & Rida Johnson Young
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 C |"A7""^Verse" B A A |"Dm" G F F |"A7" F E A |"Dm" D2 A, | A A A |"B7" A =B A |"C" A G2- | %8
+w: My|puls- es beat|mad- ly with-|out an- y|cause. Be-|lieve me, I'm|tell- ing you|tru- ly.|
+ G2 G |"D7" d3/2 c/ A |"G7" A2 G |"A7" B3/2 A/ E |"Dm" G2 F |"C" E =B A |"G7" G ^C D |"C7" A G2- | %16
+w: * I'm|gay with- out|pause, then|sad with- out|cause, My|spi- rits are|tru- ly un-|ru- ly.|
+ G/ z/"F" C"Db7" ^C ||"Gm7""^Chorus" D A _A |"C7" G2 A |"F" F3 |"Am" E3 |"Gm" D3 |"C7" C3 | %23
+w: * For I'm|Fall- ing in|love with|some-|one,|some-|one|
+"F" d3- | d2 c |"A7" B A E |"Dm" G2 F |"C" E3 |"Am" A3 |"Dm7" A3- |"G7" A2 _A |"Gm" G3- | %32
+w: girl-|* I'm|fall- ing in|love with|some-|one,|head-|* a-|whirl.|
+"C7" G"F" C"Db7" ^C |"Gm7" D A _A |"C7" G2 A |"F" F3 |"Am" E3 |"Gm" D3 |"C7" C3 |"Am7" d3- | %40
+w: * Yes I'm|fall- ing in|love with|some-|one,|plain|to|see.|
+"D7" d2 c |"Gm" B B B |"Bbm" B A G |"F" f3 |"E7" e2 d |"A7" ^c e"D7" d |"Gm7" c"C7" g3/2 f/ | %47
+w: * I'm|sure I could|love some- one|mad-|ly, if|some- one would|on- ly love|
+"F" f3- | f z2 |] %49
+w: me.-||
+

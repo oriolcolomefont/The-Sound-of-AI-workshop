@@ -1,0 +1,28 @@
+X:1
+T:Funny Face
+T:Funny Face
+T:Donna Fargo
+C:Donna Fargo
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" cc c3 B | d2 c4 |"G" BB B3 A | c2 B3 B |"D7" A2 B2 c2 | B4 A2 |"G" G6 | z4 DD |:"G" D4 G2 | %9
+w: Fun- ny face I|love you|Fun- ny face I|need you, my|whole world's wrapped|up in|you.|When the|road I|
+w: |||||||* I|hurt your|
+"C" G2 ^F2 E2 |"G" D4 E2 | D4 GG |"D7" A2 A2 AB | c2 B2 A2 |"G" G2 G2 GA | B4 G2 |"C" E3 E EG | %17
+w: walk * seems|all up-|hill and the|col- ors in my|rain- bow turn|blue * * *|* You|kiss the tears a-|
+w: feel- ings as|I sometimes|do * and|I say * those|mean things we|know are not true|You for-|give my child- ish|
+"D7" c4 E2 |"G" D3 D DG | B6 |"D7" BG D4 | BA D3 ^F |"G" A2 G4- | G2 z4 ||"C" cc c3 c | d2 c4 | %26
+w: way you|smile at me and|say|fun- ny face|fun- ny face I|love you||Fun- ny face I|love you|
+w: way you|hold me close and|say|||||||
+"G" BB B3 B | c2 B4 |"D7" A2 A3 B | c2 B2 A2 |"G" G4 GA |"G7" B6 |"C" cc c3 c | d2 c4 | %34
+w: fun- ny face I|need you|these are the|sweet- est words|I've ev- er|heard|fun- ny face don't|leave me|
+w: ||||||||
+"G" BB B3 B | c2 B3 B |"D7" A2 B2 c2 | B4 A2 |1"G" G6- | G2 z2"^N.C." DD :|2"G" G6- | G2 z2 z2 |] %42
+w: fun- ny face be-|lieve me My|whole worlds wrapped|up in|you|* And when|you.||
+w: ||||||||
+

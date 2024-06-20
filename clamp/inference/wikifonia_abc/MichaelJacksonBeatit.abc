@@ -1,0 +1,25 @@
+X:1
+T:Beat it!
+C:Michael Jackson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"Em" z8 |"D" z8 |"Em" z8 |"D"z4z2zB |:"Em" A2 B2 ABAB |"D" dB A2 B2>B2 |"Em" ABAB ABAG | %7
+w: |||They|told him don't you e- ver|come a- round here, don't|wan- na see your face, you bet- ter|
+"D" AG B2 z2 B2 | A"Em"GED E2 EE |"D" FEDB, D2 E2 |"Em" GE z2 z2 E2 |"D" FD z2 z4 | %12
+w: dis- ap- pear The|fi- re's in their eyes and their|words are real- ly clear. So|beat it, just|beat it|
+"Em" B2 BB BBAB |"D" dB A2 B2>B2 |"Em" BBBB ABAB |"D" AG B2 z2 B2 |"C" AG E2 E2 EE | %17
+w: Your bet- ter run you bet- ter|do what you can, don't|wan- na see no blood, don't be a|mach- o man You|wan- na be tough, bet- ter|
+"D" FE D2 D2 E2 | G"Em"E z2 z2 BB |"D" dB A2 B2 A2 |"Em" BB- B2 z4 |"D" BB- B2z2zB- | %22
+w: do what you can, so|beat it, but you|wan- na be bad! Just|Beat it! _|Beat it! _ No|
+"Em" BBBB d2 Bd- |"D" dBz2z2zA- |"Em" AG A2 GAGA- |"D" AG A2 G2zA- | A"Em"G A2 GAzA- |1 %27
+w: * one wants to be de- feat-|_ ed. Show-|* in' how fun- ky and strong|* is your fight. It|_ does- n't mat- ter Who's|
+"D" AG A2 G2 A2 |"Em" GE z2 z2 E2 |"D" FD z2 z2 A2 |"Em" GE z2 z2 E2 |"D" FD z2 z4 :|2 %32
+w: _ wrong or right, just|beat it! Just|beat it! Just|beat it! Just|beat it!|
+"D" G2 A2 G2 A2 |] %33
+w: |
+

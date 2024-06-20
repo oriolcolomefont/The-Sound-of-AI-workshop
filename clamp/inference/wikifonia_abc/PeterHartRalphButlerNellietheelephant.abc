@@ -1,0 +1,28 @@
+X:1
+T:Nellie the elephant
+T:Nellie the elephant
+T:Peter Hart
+T:Ralph Butler
+C:Peter Hart
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Gm" B z z"D7" A z2 |"Gm" G3 z2 A |"Bb" Bcd c2 B |"D7" A3 z2 A |"A7" AAA AAA |"D" d2 A A z A | %6
+w: To Bom-|bay a|trav- ell- ing cir- cus|came they|brought an in- tell- i- gent|el- e- phant and|
+"A7" =e2 A A z A |"D7" ^f3 z z2 :|"D7" d3 z z2 || z6 |[K:G]"G" Bcd BAG | B z B d z d | %12
+w: Nel- lie was her|name.|gain.||Nel- lie the el- e- phant|packed her trunk and|
+"C" e z e gfe |"G" d3 B z z |"Am" c z c"D7" AAA |"G" ddd"Em" B z2 |"D" f z z"A7" e z2 | %17
+w: said good- bye to the|cir- cus|off she went with a|trum- pe- ty trump|trump trump|
+"D" d3"D7" z c z |"G" Bcd BAG | B z B d z d |"C" z z e gfe |"G" d3 B z2 |"Am" c z c"D7" AAA | %23
+w: trump now|Nel- lie the el- e- phant|packed her trunk and|dled- back to the|jun- gle|off she went with a|
+"G" ddd"Em" B"^ToCoda" z2 |"A7" e z2"D7" A z2 |"G" G3 z2 G |"C" Gce g2 e |"G" g3 d2 z | %28
+w: trum- pe- ty trump|trump trump|trump the|head of the herd was|call- ing|
+"Am" e3"D7" d2 c |"G" B3 z2 B |"A7" A2 B ^cBA |"D" d z e ffg |"A7" a2 g f2 e | %33
+w: far far a-|way they|met one night in the|sil- ver light on the|road to Man- da-|
+"D7" d3 z"^alCoda""^D.S." z2 |] %34
+w: lay|
+

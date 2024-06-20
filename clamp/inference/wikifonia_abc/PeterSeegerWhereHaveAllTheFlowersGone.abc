@@ -1,0 +1,33 @@
+X:1
+T:Where Have All The Flowers Gone?
+T:Where Have All The Flowers Gone?
+C:Peter Seeger
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" G3 A G2 F2 | E D3"Am" C4 |"C/E" c4"D7" d4 |"G7" (BA) G6 |"C" G3 A G2 F2 | E D3"Am" C4 | %6
+w: Where have all the|flow- ers gone?|Long time|pass- * ing.|Where have all the|flow- ers gone?|
+w: Where have all the|young girls gone?|Long time|pass- * ing.|Where have all the|young girls gone?|
+w: Where have all the|young men gone?|Long time|pass- * ing.|Where have all the|young men gone?|
+w: Where have all the|sol- diers gone?|Long time|pass- * in.|Where have all the|sol- diers gone?|
+w: Where have all the|grave- yards gone?|Long time|pass- * ing.|Where have all the|grave- yards gone?|
+w: Where have all the|flow- ers gone?|Long time|pass- * ing.|Where have all the|flow- ers gone?|
+"F" F4"C" E3 C |"G" D8 |"C" G3 A G2 F2 | E D3"Am" C2 z G |"C/E" c3 c"D7" d2 c2 |"G7" B2 A2 G4 | %12
+w: Long time a-|go.|Where have all the|flow- ers gone? The|girls have picked them|ev- 'ry one.|
+w: Long time a-|go.|Where have all the|young girls gone? They've|tak- en hus- bands|ev- 'ry one.|
+w: Long time a-|go|Where have all the|young men gone? _|They 're all in|un- i- form.|
+w: Long time a-|go.|Where have all the|sol- diers gone? They've|gone to grave- yards|ev- 'ry one.|
+w: Long time a-|go|Where have all the|grave- yards gone? They're|covered with flow- ers|ev- 'ry one.|
+w: Long time a-|go.|Where have all the|flow- ers gone? _|Young girs picked them|ev- 'ry one.|
+"F" z2 A2 F4 |"G" E D3 C E3 |"C" G8 |"F" z2 A2 F4 |"G" E2 D2 C B,3 |"C" C8- | C6 z2 |] %19
+w: Oh, when|will you ev- er|learn?|Oh, when|will you ev- er|learn?|_|
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+

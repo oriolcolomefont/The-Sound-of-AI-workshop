@@ -1,0 +1,17 @@
+X:1
+T:A juhásznak jól van dolga
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" C2 G,2 | E3 G |"G" FE D2 |"C" C4 :|"F" AA AA | A2 F2 |"C" GG GG | G2 E2 |"Dm" FE DG | %9
+w: A ju-|hász- nak|jól van dol-|ga,|Te- rel- ge- ti|nyá- ját,|fúj- ja fu- ru-|lyá- ját,|bú nél- kül é-|
+w: E- gyik|domb- ról|a má- sik-|ra||||||
+"G" FE D2 |"C" C4 |] %11
+w: li vi- lá-|gát.|
+w: ||
+

@@ -1,0 +1,24 @@
+X:1
+T:Home
+T:Home 
+C:Peter Van Steeden
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" B2 G B |"D7" d3 c |"Fm" A2 C/^C/D/B/ |"Bb7" G2 F2 |"Fm" A2 C/^C/D/B/ |"Bb7" G2"Bb+7" ^F2 | %6
+w: When shad- ows|fall, and|trees whis- per day is|end- ing,|My thoughts are ev- er|wend- ing|
+"Eb" G4 |"Fm7""Bb7" z4 ||"Eb" B2 G B |"D7" d3 c |"Fm" A2 C/^C/D/B/ |"^BB7" G2 F2 | %12
+w: home.||When crick- ets|call, my|heart is fo- ev- er|yearn- ing|
+"Fm" A2 C/^C/D/B/ |"Bb7" G2 F2 |"Eb" E4- | E z z2 ||"Abm" E E F F | A A =B B |"Eb" _B4- | B4 || %20
+w: Once more to be re-|trun- ing|home.|_|When the hills con-|ceal the set- ting|sun,|_|
+"Abm6" E E F F | A A =B e |"Bb7" _B4- | B4 ||"Eb" B2 G B |"D7" d3 c |"Fm" A2 C/^C/D/B/ | %27
+w: Stars be- gin a-|peep- ing one by|one~|_|Night cov- ers|all, And|though for- tune may for-|
+"Bb7" G2 F2 |"Fm" A2 C/^C/D/B/ |"Bb7" G2 F2 |1"Eb" E4- |"Fm7" E z"Bb7" z2 :|2"Eb" E4- | E z z2 |] %34
+w: sake me,|Sweet dreams will ev- er|take me|home.|_|home.|_|
+

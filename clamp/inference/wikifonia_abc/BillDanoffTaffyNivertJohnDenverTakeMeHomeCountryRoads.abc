@@ -1,0 +1,39 @@
+X:1
+T:Take Me Home, Country Roads
+T:Take me home, country roads
+T:Bill Danoff; Taffy Nivert and John Denver
+T:Bright Country Beat
+C:Bill Danoff, Taffy Nivert & John Denver
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+V:1
+ z2 E E |:"A" F3/2 E/- E2 |"F#m" z2 F E/F/- | F/ A3/2- A2 |"E" z2 B/ B3/2 | c3/2 B/- B2 | %6
+w: Al- most|heav- en *|West Vir- gin|* ia *|Blue Ridge|Moun- tains *|
+w: All my|memo- ries _|ga- thered 'round|_ her _|Mi- ner's|la- dy, _|
+"D" F F F E |"A" F/ A A/- A2- | A4 | z2 E E | F3/2 E/- E2 |"F#m" F A A c | c4 |"E" B B B B | %14
+w: Shen- an- do- ah|Riv- * er *||life is|old there *|old- er than the|trees|Young- er than the|
+w: Stran- ger to blue|Wa- * ter _|_|Dark and|dus- ty, _|pain- ted on the|sky|Mis- ty taste of|
+ c3/2 B/- B2 |"D" F A A B/A/- |"A" A2 z2 || z2 A B |"A" c4- | c2 c/B/ A |"E" B4- | B2 c B | %22
+w: moun- tains *|grow- in like a breeze||coun- try|roads|* take * me|home|* to the|
+w: moon- shine, _|Tear- drops in my eye|_||||||
+"F#m" A4- | A2 c e |"D" f4- |"D" f2 f f |"A" e c3- | c2 c/B/ A |"E" B c3- | c2 c/B/ A |"D" A4- | %31
+w: place|* I be-|long|* West Vir-|gin- ia|* moun * tain|mom ma|* take * me|home|
+w: |||||||||
+ A2 A B!dacoda! |"A" A4- | A z z2 |1 z2 E E :|2"F#m" z A A A ||"E" G2 A B |"A" c c c c | %38
+w: * coun- try|roads||all my|I hear her|voice in the|morn- in hours she|
+w: |||||||
+ c B A3/2 A/ |"D" d3/2 d/ d d |"A" d c B A |"E" B2 c3/2 c/ | B3 B |"F#m" c c c c |"G" B B B/ B3/2 | %45
+w: calls * me the|ra- di- o re-|minds me of my|home far a-|way and|driv- in down the|road I get a|
+w: |||||||
+"D" A A A/ A3/2 |"A" A3/2 A/ A/ A3/2 |"E" B c B2- | B2 B c |"E7" d4- | d4 ||"A"O A4- | A z c/B/ A | %53
+w: feel- in that I|should have been home|yes- ter- day|* yes- ter-|day||roads|* take * me|
+w: ||||||||
+"E" B4- | B2 c/B/ A |"A" A4- | A2 c/B/ A |"E" B4- | B2 c/B/ A |"A" A4- | A2- A z |] %61
+w: home|* coun- * try|roads|* take * me|home|* coun * try|roads.||
+w: ||||||||
+

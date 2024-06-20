@@ -1,0 +1,59 @@
+X:1
+T:Lullabye (Goodnight, My Angel)
+C:Billy Joel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:1
+"^Rubato"z"G"B B"Cm6/G"A A"G"BB"^C(add2)"G | G4 E4 |z"G"B B"Cm6/G"A A"G"BB"^C(add2)"G | G4 E4 |: %4
+w: ||||
+w: ||||
+"G"zB B"Cm6/G"A ABB"Cm/G"c | c2>"G"B2 B4 |"D7sus4"zA A"D7"A"D7/E" A"Em"GG"D/C"F | F2>"C"E2 E4 | %8
+w: Good- night, my an- gel, time to|close your eyes,|and save these ques- tions for an-|oth- er day.|
+w: Good- night, my an- gel, now it's|time to sleep,|and still so man- y things I|want to say,|
+"G"zB B"Cm6/G"A A"G"BB"Cm/G"c | c2>"G"B2 B4 |"D7sus4"zA A"D7"A"D7/E" A"Em"GG"D/E"F | %11
+w: I think I know what you've been|ask- ing me.|I think you know what I've been|
+w: Re- mem- ber all the songs you|sang for me|when we went sail- ing on an|
+"D/A" F2>"A"E2 E4 |"Am7"zc c"G/B"B B"C6"AA"Cmaj7"B |"G/D" B2>"Dsus4/C"A2"D/C" A4 | %14
+w: trying to say|I prom- ised I would nev- er|leave _ you,|
+w: em- 'rald bay.|And like a boat out on the|o- _ cean,|
+"G"zB B"G/F"B B d2G- |"C2/E" G4-"C/E" G3"G/D" z |zB B"G7/D"B B d2"C"G- | %17
+w: and you should al- ways know|_ _|wher- ev- er you may go,|
+w: I'm rock- ing you to sleep.|_ _|The wa- ter's dark and deep|
+ G"G/C"G"Am7/C"GG"G/B" G2 B"Asus4"E- |1 EEED"A" E2"A7" G2 |"C/D" E2>D2"D6" D4"C/D" :|2 %20
+w: _ no mat- ter where you are,|_ I nev- er will be|far a- way|
+w: _ in- side this an- cient heart|_ you'll al- ways be a||
+"C/D" E2>"D"D2 D4 ||z"Gm"G G"F"A A"Bb"_BB"F"A | A"Gm"GG"Cm6/Eb"G G"D"F F2 | %23
+w: part of me.|||
+w: |||
+z"Gm"G G"F"A A"Bb"_BB"Cm6"A | A"Gm/D"GG"Cm6/Eb"G G"D"F F2 |z"G7"=F F"G+"G"G7b9" _A2>"G+"G2 | %26
+w: |||
+w: |||
+"G7" =F4"^Cm(add9)" _E4"Cm" |z"A7"G G"A6"A"^A7(b9)" _B2"A6" A2 |"Am7/D" G4"D" F2"D9" E2 | %29
+w: |||
+w: |||
+z"G"B B"Cm6/G"A A"G"BB"Cm/G"c | c2>"G"B2 B4 |"D7sus4"zA A"D7"A"D7/E" A"Em"GG"Bm"F | %32
+w: Good- night, my an- gel, now it's|time to dream,|and dream how won- der- ful your|
+w: |||
+"D/C" F2>"C"E2 E4 |z"G"B B"Cm6/G"A A"G"BB"G7/F"d | d"C/E"cc"G7/D"B B"A/C#"A A2 | %35
+w: life will be.|Some- day your child may cry, and|if you sing this lull- a- bye,|
+w: |||
+z"Cm6"A"G/B" B"Cm/A"c"G/B" d2 BG |"A7" G2 AA/B/"D7sus4" A2>"D7"G2 | %37
+w: then in your heart there will|al- ways be a part of|
+w: ||
+"G" G-BB"Cm6/G"A A"G"BB"^C(add2)"G | G4 E4 |z"G"B B"Cm6/G"A A"G"BB"^C(add2)"G | G4 E4 | %41
+w: me. _ _ _ _ _ _ _|_ _|||
+w: ||||
+z"G"B B"Cm6/G"A A"G"BB"G7/F"d | d"C/E"cc"G7/D"B B"A/C#"A A2 |z"Cm6"A"G/B" B"Cm/A"c"G/B" d2 BG | %44
+w: Some- day we'll all be gone but|lull- a- byes go on and on|They ne- ver die, that's how|
+w: |||
+"A7" G3A/B/"D7sus4" A2>"D7"G2 | G-"G"BB"Cm6/G"A A"G"BB"G7"d | %46
+w: you and * I will|be. _ _ _ _ _ _ _|
+w: ||
+ d"Cm/G"cc"Fm/G"f f"Adim/G"_ee"D7sus4"d |"G" !fermata!d8 |] %48
+w: _ _ _ _ _ _ _ _||
+w: ||
+

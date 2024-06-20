@@ -1,0 +1,28 @@
+X:1
+T:You Keep Coming Back Like A Song
+T:You Keep Coming Back Like A Song
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z B, |:"Ebmaj7" G2 F/ E F/- |"Fm7" F2"Bb7" D C |"Ebmaj7" B,4- |"Fm7" B,2"Bb7" z B, | %5
+w: You|keep com- ing back|* like a|song.|* A|
+"Ebmaj7" B2"Edim7" A/ G A/- |"Fm7" A G2"Bb7" ^F |"Ebmaj7" ^F G3- |"Bbm7" G2"Eb7" z E | %9
+w: song that keeps say-|* ing "Re-|mem- ber."|* The|
+"Abmaj7" c2"Adim7" d/ e B/- |"Gm7" B2"Cm7" G E |"Fm7" A2"Bb7" B/ c G/- |"Ebmaj7" G4 | %13
+w: sweet used to be|* that was|once you and me||
+"Cm7" G2 F/ E G/- |"F7" G2 F E |"Bb7" D2 E/ =E F/- |"Fm7" F3"Bb7" B, |"Ebmaj7" G2 F/ E F/- | %18
+w: keeps com- ing back|* like an|old mel- o- dy.|* The|per- fume of ros-|
+"Fm7" F2"Bb7" D C |"Ebmaj7" B,4- |"Fm7" B,2"Bb7" z B, |"Ebmaj7" B2"Edim7" A/ G A/- | %22
+w: * es in|May|* re-|turns to my room|
+"Fm7" A2"Bb7" B c |"G7" =B d3- | d4 |"Abmaj7" z c/e/-"Adim7" e/d/c/B/- | B2 ^F G | %27
+w: * in De-|cem- ber.||From out * of the past,|* where for-|
+"Bbm7" c/ B G/-"Eb7" G F |"Abmaj7" E3"Db7" F |"Gm7" G2"Cm7" F/ E F/- |"Fm7" F2"Bb7" E/ D E/- |1 %31
+w: got- ten things * be-|long, you|keep com- ing back|* like a song.|
+"Ebmaj7" E4- ||"Fm7" E2"Bb7" z2 :|2"Ebmaj7" E4- || E2 z2 |] %35
+w: ||||
+

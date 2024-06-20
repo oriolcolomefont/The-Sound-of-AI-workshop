@@ -1,0 +1,17 @@
+X:1
+T:Gyertek, fiúk, menjünk a kocsmába
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=100
+M:4/4
+K:Amin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" EDEF EDEF |"G" E D4 z z2 | GGFF EEDC |"C" D C4 z z2 | C3 D EF"G"DD | CC B, G,4 z | %6
+w: Gyer- tek, fi- úk, men- jünk a kocs-|má- ba,|Ti- zen- öt lej egy li- ter bor|á- ra,|Húzd rá ci- gány, e- zer-|le- jest ad- ok,|
+"C" C3 D EF"G"DD | CC"Am" B, A,4 z |] %8
+w: Még az éj- jel mu- lat-|ni a ka- rok!|
+

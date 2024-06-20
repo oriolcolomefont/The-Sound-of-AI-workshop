@@ -1,0 +1,45 @@
+X:1
+T:Looking For Space
+T:Looking for space
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" z2 CD EG A2 |"F" cA d4"G" d2 |"C" ed c2 Bc B2 |"F" A8 |"G" z2"C" CD EG A2 |"F" c2 A2"G" e2 d2 | %6
+w: On the road of ex-|per- i- ence I'm|try- ing to find my own|way.|some- times I wish that|I could fly a-|
+w: All a- lone in the|u- ni- verse *|some- times that,is how it *|seems|I get lost in the|sad- ness and the|
+w: ||||||
+"C" c8- |"F" c4"G" z4 |"C" z2 CD EG A2 |"F" cA"G" d6 |"C" ed c2 B2 c2- |"F" c2 A2"G" z4 | %12
+w: way||when I think that I'm|mov- * ing|sud- den- ly things stand|* still|
+w: screams||then I look in the|cen * ter|sud- den- ly ev- rythings|* clear|
+w: ||on the road of ex-|per- i- ence|join in the liv- ing|* day|
+"C" z2 CD EG A2 |"F" c2 A2"G" e2 d2 |"C" c8- |"F" c2 cc"G" Bc d2 |"F" c6"Dm" AA |"G" e2 d2 c2 A2 | %18
+w: I'm a- fraid cause I|think they al- ways|will|* and I'm look- ing for|space and to|find out who I|
+w: I....find my self in the|sun- shine and my|dreams|1,2 3..When you're look- ing for|space and to|find out who you|
+w: If...theres an an- swer its|just that..its just that|way||||
+"C" G8 |"F" z2 cc"G" Bc d2 |"F" f2 e2"Dm" d2 c2 |"G" d8- | d6 dd |"F" f4"G" e4 |"C" c8 | %25
+w: am,|and I'm look ing to|know and un- der-|stand|* It's a|sweet sweet|dream|
+w: are|when you;re look- ing to|try and reach the|stars||||
+w: |||||||
+"F" d2 ef"G" e2 d2 |"C" e8 |"F" de f2"G" de f2 |"C" g4"Am" c3 A |"F" f2 ed"Dm" c2 AG |"G7" G8- | %31
+w: some- times I'm al- most|there|some- times I fly like an|ea- gle and|some- times I'm deep in des-|pair|
+w: ||||||
+w: ||||||
+ G6 z2 :| G6 z2 ||"F" f4"G" g4 |"C" e2 c6 |"F" de f2"G" g2 g2 |"C" g8 |"F" de f2"G" g2 ag | %38
+w: ||sweet sweet|sweet dream|some- times I'm al- most|there|some- times I fly like an|
+w: |||||||
+w: |||||||
+"C" g4"Am" e3 c |"F" f2 ed"Dm" c2 AG |"G7" G8- | G6 z2 |"F" AB c2"G" dd c2 |"C" e2 e6- | %44
+w: ea- gle but|some- times I'm deep in de-|spair||some- times I fly like an|ea- gle|
+w: ||||||
+w: ||||||
+"F" e6"G" dc |"C" g4 e4 |"F" f2 ed"G" cA G2 |"C" ef e6- |"F" e2 fe"G" d4 |"C" g8 |] %50
+w: * like an|ea- gle|I go fly * * ing|fly * *||ing.|
+w: ||||||
+w: ||||||
+

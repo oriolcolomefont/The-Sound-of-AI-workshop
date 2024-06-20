@@ -1,0 +1,27 @@
+X:1
+T:Smile
+T:Smile
+C:Charles Chaplin
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"F" F2 G A |"F6" G F E/ D3/2 |"Fmaj7" E2 F G | F E D/ C3/2 |"F6/A" D2 E F |"Fdim" D2 E F | %6
+w: Smile, though your|heart is ach- ing.|Smile, e- ven|though it's break- ing.|When there are|clouds in the|
+"Gm" G2"Adim" A/"Gm" B ^F/- |"D7" F2"Gm" G"D7" A |"Gm" B2 c d | c B A/ G3/2 |"Bbm" B2 c _d | %11
+w: sky, you'll get *|by. If you|smile through your|fear and sor- row,|smile and may-|
+"Eb9" c B A/ G3/2 |"F" A2 B A |"Fmaj7" B A G F |"Gm7" G3 D |"C6" A3 z |"F" F2 G A | %17
+w: be to- mor- row,|you'll see the|sun come shin- ing|through for|you.|Light up your|
+"F6" G F E/ D3/2 |"Fmaj7" E2 F G | F E D/ C3/2 |"F6/A" D2 E F |"Fdim" D2 E F | %22
+w: face with glad- ness.|Hide ev- 'ry|trace of sad- ness,|Al- though a|tear may be|
+"Gm" G2"Adim" A/"Gm" B ^F/- |"D7" F2"Gm" G"D7" A |"Gm" B2 c d |"Gm7" c B"Gm6" A/ G3/2 | %26
+w: ev- er so *|near. That's the|time you must|keep on try- ing,|
+"Bbm" B2 c _d |"Eb9" c B A G |"F" A2 B A |"Fmaj7" B A G F |"Gm" G3 D |"C6" A2 A2 |1"F" F4 || %33
+w: smile, what's the|use of cry- ing.|You'll find that|life is still worth-|while, if|you'll just|smile.|
+"Gm" z2"C7" z2 :|2"F""F6" F4- ||"Fmaj7" !fermata!F3 z |] %36
+w: |smile.||
+

@@ -1,0 +1,31 @@
+X:1
+T:Old Flames
+T:Old flames
+T:Siebert/Moffat
+C:Pebe Sebert, Hugh Moffatt
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"D" F2 F3 F | F4- FF | F2 F F3 | G3 F E2 |"G" D6- | D4 z E |"A" E2 E2 E2 | E2 E2 F2 |"C" G4 G2 | %9
+w: Down town to-|night- * I|saw an old|friend some- one|who|* I|used to take|com- fort from|long be-|
+w: Some- times at|night * I|think of the|lov- ers I've|known|and I|re mem ber|how holding them|helped me|
+ G2 F2 E2 |"D" F6- | F6- |"A" F6 | z6 |"D" F2 F2 F2 | F4 FG |"D7" A4 AB | =c2 B2 A2 |"G" G6- | %19
+w: fore I met|you||||I caught a|spark from her|eye of for-|got- ten de-|sire|
+w: not feel so|alone||||then I feel|you be- side|me and ev-|en their 'mem-|ries|
+ G4 GG |"A" E4 EF | E2 C4 |"A7" G3 G GG | G2 F2 E2 |"D" D6- | D6 |"^Chorus:" z4 z A, |"D" F6 | F6 | %29
+w: * with a|word or a|touch Lord,|I could have re-|kind- led that|fire||But|old|flames|
+w: * are *|gone like stars|in the|night, lost in the|sweet light of|dawn|||||
+ F2 F3 F | G2 F3 E |"G" D6- | D6 |"A" E6 | E4- EF |"A7" G2 G3 G | G2 F3 E |"D" F6- | F6- |"A" F6 | %40
+w: cant hold a|can- dle to|you||No-|one * can|light up the|night like you|do|||
+w: |||||||||||
+ z6 |"D" F F3 F2 | F2 F2 G2 |"D7" A4 B2 | =c2 B2 A2 |"G" G6- | G4 z E |"A" E6 | E6 |"A7" G2 G3 G | %50
+w: |flick- er- ing|em- bers of|love I've|known one or|two|* but|old|flames|cant hold a|
+w: ||||||||||
+ G2 F3 E |"D" D6- | D6 | z6 |] %54
+w: can- dle to|you.|||
+w: ||||
+

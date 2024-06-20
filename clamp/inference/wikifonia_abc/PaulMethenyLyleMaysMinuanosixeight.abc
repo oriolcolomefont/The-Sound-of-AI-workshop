@@ -1,0 +1,19 @@
+X:1
+T:Minuano
+T:Minuano (6/8)
+T:Metheny Mays
+C:at Metheny / Lyle Mays
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Bm9" cee e-ef |"F#m9" (4:3:4e2 c2 A2 B2 |"Bm9" c6- |"F#m9" c6 |"Bm9" cee e-ef | %5
+"F#m9" e2 c AB=c- |"Fmaj9" c4 =cA |"G6" d2 B3 =c/B/ |"^FMaj(" A6- | A6 :|"Dm9" egg g3/2a3/2 | %11
+"Em7" (4:3:4g2 e2 e2 g2 |"^A7us" a6- |"A7" a6 |"Dm9" egg g3/2a3/2 |"Em7" (4:3:4g2 e2 B2 d2 | %16
+"Am9" e6- | e6 |"Dm9" egg g3/2e3/2 |"Em7" g4 eg |"Am9" ab (3a2 =c2 d2 |"Fmaj7" e6 | %22
+"^Dmi(" egg g-ge |"^Emi9" =g<a g2 eg |"A7sus4" a6-!dacoda! | a6 :|O"F#m7" a6 | a6 | a6 | a4 eg | %30
+"Fmaj7" a6 | a6 | a6 | a4 eg |"D6" a6 | a6 | a6 | a4 eg |"Bbmaj7" a6 | a6 | a6 | a4 eg | a2 z4 |] %43
+

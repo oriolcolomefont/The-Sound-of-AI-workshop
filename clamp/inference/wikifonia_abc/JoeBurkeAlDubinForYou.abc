@@ -1,0 +1,24 @@
+X:1
+T:For You
+T:For you
+T:Joe Burke
+T:Al Dubin
+C:Joe Burke
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z G g2 | z G g2 ||"C" G2- G/A/c/A/ | G2- G/C/D/E/ |"Dm7" G4- |"G7" G3 A |"Dm7" d4- |"G7" d2 A2 | %8
+w: ||I will gath- er stars|* * out of the|blue|* for|you|* for|
+"C" c4- |"Dm7" c3"G7" E |"C" G2- G/A/c/A/ |"Cmaj7" G2- G/C/D/E/ |"Dm7" G4- |"G7" G3 A |"Dm7" d4- | %15
+w: you|* I'll|make * a string of|pearls * out of the|dew|* for|you|
+"G7" d2 A2 |"C" c4- |"B7" c3 z |"Em" B B2 B |"Am" e d2 c |"Em" c B2 ^A | B4 |"B7" B A2 A | %23
+w: * for|you||O- ver the|high- way and-|o- ver the|street|car- pets of|
+ A G2 ^F |"Em" G2 A _B |"G7" =B2 A _A |"C" G2- G/A/c/A/ | G2- G/C/D/E/ |"Dm7" G4- |"G7" G3 A | %30
+w: clo- ver I'll|lay at your|feet oh theres|noth * ing in this|world * I would- nt|do|* for|
+"Dm7" d4- |"G7" d2 e2 |"C" c4- | c G g g | c'3 z |] %35
+w: you|* for|you|||
+

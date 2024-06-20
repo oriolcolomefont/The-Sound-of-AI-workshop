@@ -1,0 +1,24 @@
+X:1
+T:Alice Blue Gown
+T:Alice Blue Gown
+C:Harry Tierney, Joseph McCarthy
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 C/D/ |"C" E c A |"G" B G A |"A7" E3- | E2"D7" D/E/ | ^F c c | c B c | A3- | A2 c/A/ | %9
+w: In my|sweet lit- tle|Al- ice blue|gown,|_ When I|first wan- dered|down in- to|town,|_ I was|
+"G7" B d B | G3- | G2"G+" B/G/ |"C4" A c A |"A7" E2 G/A/ |"Am7" G"D7" ^F"Ddim" =F | %15
+w: both proud and|shy|_ As I|felt ev- ry|eye, But in|ev- ry shop|
+"D7" ^F B3/2 A/ |"Dm7" A d"G7" B |"G" G2"F" C/"Fm"D/ |"C" E c A |"G" B G A |"A7" E3- | %21
+w: win- dow I'd|primp pass- ing|by, Then in|man- ner of|fash- ion I'd|frown|
+ E2"Dm" D/E/ | F"A7" G"Dm7" A |"G7" B A G |"E7" e3- | e2 e/e/ |"F" d e d | A"Fdim" B3/2 d/ | %28
+w: _ And the|world seemed to|smile all a-|round,|_ Till it|wil- ted I|wore it, I'll|
+"C" B c"Gm" G |"A9" E B3/2 A/ |"Dm" F"A7" G"Dm7" A |"G7" B c d |"C" c z"Gdim" z :| %33
+w: al- ways a-|dore it, My|sweet lit- tle|A- lice Blue|Gown.|
+"G7" z z"F" C/"Fdim"D/ |"C" c3- | c2 z |] %36
+w: In my|Gown.|_|
+

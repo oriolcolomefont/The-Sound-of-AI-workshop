@@ -1,0 +1,25 @@
+X:1
+T:Congratulations
+T:Congratulations
+T:Bill Martin, Phil Coulter
+C:Bill Martin, Phil Coulter,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z D E F |:"G" G2 D2 | z G F G |"A" A2 E2 | z E F"A7" G |"D7" B A A G | G F E F |"G" D4 | z D E F | %9
+w: Con- grat- u-|la- tions|and cel- e|bra tions|when I tell|ev ry one that|you're in love with|me|con grat u|
+"G" G2 D2 | z G F G |"A" A2 E2 | z E F"A7" G |"D7" B3/2 A/ A G | G"^ToCoda" F E F |"G" G4 | %16
+w: la tions|and jub i|la tions|I want the|world to know I;m|hap py as can|be|
+ z G F E ||"D7" D D/D/- D/D/ D | E D B, C |"G" E2 D2 |"G" z G F E |"D7" D D/D/- D/D/ D | E D B, C | %23
+w: Who would be|lieve that I * could be|hap py and con|tent ed|I used to|think that hap * pi- ness|had- nt been in-|
+"G" E2 D2 | z G F =F |"E7" E E E E | ^G3/2 G/ A B |"Am" d2 c2- | c z F G |"A7" B2 A2- | %30
+w: vent- ed|but that was|in the bad old|days be- fore I|met you|* when I|let you|
+ A E/E/- E/F/ G |"D7" A4- | A4- | A z z2 |1 z D E F :|2"D7" z"^D.S.alCoda" D E F ||"G" G4- | %37
+w: * walk in * to my|heart|||con- gra- tu|con- gra- tu|be|
+"^Coda" G B A G |"A7" B3/2 A/ A2- | A3 G |"D7" G F E F |"G" G4- | G4- |"F" G4 |"G" z4 |] %45
+w: * I want the|world to know|* I'm|hap- py as can|be||||
+

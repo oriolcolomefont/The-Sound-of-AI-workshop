@@ -1,0 +1,26 @@
+X:1
+T:The Rose Tattoo
+T:The Rose Tattoo
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 D |"Gm" G2 D | B2 d |"D7" c3- | c2 D | ^F2 D | A2 c |"Gm" B3- | B2 D |"Cm" E2 G |"D7" A2 G | %11
+w: He|wore the|rose tat-|too,|_ to|prove his|love was|true.|_ But|hearts can|lie so|
+"Gm" D2 G |"D" A2 G | A2 G |"D7" A2 A |"Gm/D" B2 c |"D7" A2 D |"Gm" G2 D | B2 d |"D7" c3- | c2 D | %21
+w: why de-|ny that|ro- ses|fade and|love can|die. She'll|wait her|whole live|through|_ like|
+ ^F2 D | A2 c |"Gm" B3- | B2 d |"Cm/G" e2 d |"F7" c B A |"Gm" d2 c | B A G |"D" A2 c | %30
+w: fools and|drea- mers|do.|_ She'll|go on|car- ing for|one whose|wear- ing the|rose, the|
+"D+" (B D) A |"Gm" G3- | G2 F |"Bb" B2 F |"Gm" _d2 f |"Adim" e3- | e2 F |"D" A2 ^F |"D7" c2 e | %39
+w: rose _ tat-|too.|_ She'll|wait her|whole life|thnrough|_ like|fools and|dream- ers|
+"Gm" d3- | d2 d |"Dm" e2 d |"G7" c B A |"Gm" d2 c | B A G |"D" A2 c |"D+" (B D) A |"Gm" G3- | %48
+w: do.|_ She'll|go on|car- ing for|one whose|wear- ing the|rose, the|rose _ tat-|too.|
+ G2 d |"Dm""Dm" e2 d |"G7""G7" c B A |"Gm" d2 c | B A G |"D" A2 c |"D+" (B D) A |"Gm" G3- | G2 z |] %57
+w: _ She'll|go on|car- ing for|one whose|wear- ing the|rose, the|rose _ tat-|too.|_|
+

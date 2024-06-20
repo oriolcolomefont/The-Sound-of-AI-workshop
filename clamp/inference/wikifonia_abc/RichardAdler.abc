@@ -1,0 +1,28 @@
+X:1
+T:Hernando's Hideaway
+T:Hernando's Hideaway
+T:Arr: Wim Alderding
+T:2
+C:Richard Adler
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 11
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4 z2 !fermata!E2 |"D7" DzzE DzzE |"D7" D^FA z z2 E2 |"Gm" DzzE DzzE |"Gm" DGB z z2 E2 | %5
+"D7" DzzE DzzE |"D7" D^FA z z2 B2 |"Gm" Gzze"D7" dc z B/A/ |"Gm" G z"D7" D2"Gm" G z z2 | %9
+"D7" DzzE DzzE |"D7" D^FA z z2 E2 |"Gm" DzzE DzzE |"Gm" DGB z z2 E2 |"D7" DzzE DzzE | %14
+"D7" D^FA z z2 B2 |"Gm" Gzz"D7"e dc z B/A/ |"Gm" G z"D7" D2"Gm" GDED | %17
+"D7" [Ac]3 [^G=B] [Ac]3 [GB] |"D7" [Ac]3 [^G=B] [Ac][ce] z d/c/ |"Gm" BD/D/ ED G^FGA | %20
+"Gm" BAG^F GDED |"D7" [Ac]3 [^G=B] [Ac]3 [GB] |"D7" [Ac]3 [^G=B] [Ac][ce] z d/c/ | %23
+"Gm" BD/D/ ED G^FGA |"Gm" BAG^F GG_AG |"D7" [df]3 [^c=e] [df]3 [ce] | %26
+"D7" [df]3 [^c=e] [df][f_a] z g/f/ |"Gm" eG/G/ _AG c=Bcd |"Cm" edc=B c2 z2 |"A7" z AAA A2"Cm" z2 | %30
+"A7" z d^c=c ^c2 z2 |"D7" z2 z e d2 ^c2 |"D7" d6 E2 |"D7" DzzE DzzE |"D7" D^FA z z2 E2 | %35
+"Gm" DzzE DzzE |"Gm" DGB z z2 E2 |"D7" DzzE DzzE |"D7" D^FA z z2 B2 |"Gm" Gzze"D7" dc z B/A/ | %40
+"Gm" G z"D7" d2"Gm" g z z2 | z8 |] %42
+

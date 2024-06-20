@@ -1,0 +1,28 @@
+X:1
+T:I Got the Sun in the Mornin'
+T:I got the sun in the morning
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+Q:1/4=72
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"C7""^Shuffle" C2 EF-"F" F F3 |"C7" C2 EF-"F" F4 |"C7" C2 EF-"F" F F2 E | G F2 A- Ac"F7"cc | %4
+w: Got no dia- mond got|no pearl * *|Still I think * I'm a|luck- y girl * I got the|
+"Bb" c2 BA"F" BAGF |"Gm7" G2 DF-"F" F4- |"Bb" F2 z2 z4 |"C7" C2 EF-"F" F F3 |"C7" C2 EF-"F" F4 | %9
+w: sun in the morn- ing and the|moon at night *||Got no man- * sion-|got no * yacht|
+"C7" C2 EF-"F" F F2 E | G F2 A- Ac"F7"cc |"Bb" c2 BA"F" BAGF |"Gm7" G2 DF-"F" F4- |"Bb" F2 z2 z4 || %14
+w: still I'm hap- py * with|what I've got * I got the|sun in the morn- ing and the|moon at night *||
+"A7" A3 A- A4- | A4 A^FA=B- |"Am7" B B2 =B _B4- |"D7" B6 z2 |"G7" G3 G- G4- | G4 GEGA- | %20
+w: Sun- shine *|gives me a love- ly|day * * *||Moon- light *|* gives me the milk|
+"Gm7" A A2 A- A4- |"C7" A4- A2 z2 |"C7" C2 EF-"F" F F3 |"C7" C2 EF-"F" F4 |"C7" C2 EF-"F" F F2 E | %25
+w: * y way *||got no cheque books *|got no banks *|still I'd like * to ex-|
+ G F2 A- Ac"F7"cc |"Bb" c2 BA"F" BAGF |"Gm7" G2 DF-"F" F4- |"Bb" F2 z2"F" z c"F7"cc | %29
+w: press my thanks * I got the|sun in the morn- ing and the|moon at night *|* and with the|
+"Bb" c2 BA"F" BAGF | G2 FE"Gm7" FE z D- | D4"C7" E3 F- |1"F" F4 z4 :|2 F6 z2 |] %34
+w: sun in the morn- ing- and the|moon in the ev'ning * I'm|* all right.|||
+

@@ -1,0 +1,30 @@
+X:1
+T:Li'l Liza Jane
+T:Li'l Liza Jane
+C:Countess Ada De Lachau
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7" E E/E/ D C | E G G2 |"Dm7" A G2 E |"G7" G4 |"Cmaj7" E E D C | E G G2 |"Dm7" E"G7" E2 D | %7
+w: I know a gal that|I a- dore,|li'l Li- za|Jane.|Way down south in|Bal- ti- more,|li'l Li- za|
+"Cmaj7" C4 || c3 G |"Fmaj7" A2"Cmaj7" G2 |"Fmaj7" A"Cmaj7" G2 E |"Dm7""G7" G3 z |"Cmaj7" c3 G | %13
+w: Jane.|Oh, E-|li- za,|li'l Li- za|Jane!|Oh, E-|
+"Fmaj7" A2"Cmaj7" G2 |"Dm7" E"G7" E2 D |"Cmaj7" C3 z || E E/E/ D C | E G G2 |"Dm7" A G2 E | %19
+w: li- za,|li'l Li- za|Jane.|Down where she lives the|po- sies grow,|li'l Li- za|
+"G7" G4 |"Cmaj7" E E D C | E G G2 |"Dm7" E"G7" E2 D |"Cmaj7" C4 ||"Cmaj7" c3 G | %25
+w: Jane.|Chick- ens 'round the|kit- chen door,|li'l Li- za|Jane.|Oh, E-|
+"Fmaj7" A2"Cmaj7" G2 |"Fmaj7" A"Cmaj7" G2 E |"Dm7""G7" G3 z |"Cmaj7" c3 G |"Fmaj7" A2"Cmaj7" G2 | %30
+w: li- za,|li'l Li- za|Jane!|Oh, E-|li- za,|
+"Dm7" E"G7" E2 D |"Cmaj7" C3 z || E E/E/ D C | E G G2 |"Dm7" A G2 E |"G7" G4 |"Cmaj7" E E D C | %37
+w: li'l Li- za|Jane.|I would- n't care how|far we roam,|li'l Li- za|Jane.|Where she's at is|
+ E G G2 |"Dm7" E"G7" E2 D |"Cmaj7" C4 || c3 G |"Fmaj7" A2"Cmaj7" G2 |"Fmaj7" A"Cmaj7" G2 E | %43
+w: home sweet home,|li'l Li- za|Jane.|Oh, E-|li- za,|li'l Li- za|
+"Dm7""G7" G3 z |"Cmaj7" c3 G |"Fmaj7" A2"Cmaj7" G2 |"Dm7" E"G7" E2 D |"Cmaj7" C3 z |] %48
+w: Jane!|Oh, E-|li- za,|li'l Li- za|Jane.|
+

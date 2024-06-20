@@ -1,0 +1,42 @@
+X:1
+T:Ik ben verliefd
+T: Laukens Music Productions  
+T:IK BEN VERLIEFD
+T:muziek: P. Kartner
+T:arr. H. Laukens
+T:IK BEN VERLIEFD blad 2 van 
+T: Laukens Music Productions  
+C:P. Kartner
+Z:All Rights Reserved
+L:1/8
+Q:1/4=162
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+ g (3:2:2g2 g | (3:2:2g2 e (3:2:2e2 e (3:2:2e2 g (3:2:2g2 g | %2
+ (3:2:2g2 e (3:2:2e2 e (3:2:2e2 g (3:2:2g2 g | (3:2:2g2 f (3:2:2f2 f (3:2:2f2 f (3:2:2f2 f | %4
+ (3:2:2f2 f (3:2:2f2 f (3:2:2f2 a (3:2:2a2 a | (3:2:2a2 f (3:2:2f2 f (3:2:2f2 a (3:2:2a2 a | %6
+ (3:2:2a2 f (3:2:2f2 f (3:2:2f2 a (3:2:2a2 a | (3:2:2g2 g (3:2:2g2 f (3:2:2e2 e (3:2:2e2 e | %8
+ (3:2:2e2 e (3:2:2e2 e (3:2:2e2 g (3:2:2g2 g |"E" (3:2:2g2 e (3:2:2e2 e (3:2:2e2 g (3:2:2g2 g | %10
+ (3:2:2g2 e (3:2:2e2 e (3:2:2e2 g (3:2:2g2 g |"B7" (3:2:2g2 f (3:2:2f2 f (3:2:2f2 f (3:2:2f2 f | %12
+ ff ff fa aa | af ff fa aa | af ff fa aa |"E" gg gf ee ee | ee ee ee ee ||S"E" e2 dd d2 c2 | %18
+ cB BB B2 GG |"B7" A B2 B- B z z2 | z2 z2 z2 dd | d2 cc c2 BB | B2 AA A2 BB |"E" G B2 B- B z z2 | %24
+ z2 z2 z e ee |"C#m" e2 e2 e2 c2 | e2 z2 z e ee |"A" e2 e2 e f2 e- |"Gdim" e2 z2 z c cc | %29
+"E" c2 BB e2 ee |"B7" ed dd f2 fg |"E" f2 ee- e2 z2!dacoda! | z2 z2 z2 gg ||"E" g2 ee e2 gg | %34
+ g2 ee e2 gg |"B7" g2 ff- f2 z2 | z2 z2 z2 aa | a2 ff f2 aa | a2 ff ff gf |"E" ee fg- g2 z2 | %40
+ z2 z2 z g gg |"G#" g2 ff- fg gg | gf ff f2 z g |"E" fe ee e- e2 z |"A" z2 z2 z2 aa | %45
+"E" g2 ee e2 gg |"B7" f2 dd d2 z f |"E" fe ee e- e2 z |"B7" z B cd ef ga |"E" gf ee- e4 | %50
+ [GBe]2 z2 z [GBe] z2 |"D" ag ff- f4 | [A=df]2 z2 z [Adf] z2 |"A" c'b aa- a4 | z2 z a ab c'2 | %55
+"E" b3 a g3 f | e4 z eS ee |"E" z G"^TRIO" EB,"G" =DC B,=G, |"D" A, z z g fe =d2 | %59
+"A" z2 z f e=d c2 |"D" A"E" B2 B B2 B2 |"D" A"E" B2 B (3EF=G (3ABc |"D" =d2 z g fe d2 | %63
+"A" z2 z f e=d c2 |"B7" B4 c4 | d4 e4 | f4 g4 | a4 b2 aa |:[K:F]"F" a2 ff f2 aa | a2 ff f2 aa | %70
+"C7" a2 gg- g2 z2 | z2 z2 z2 bb | b2 gg g2 bb | b2 gg gg ag |"F" ff ga- a2 z2 | z2 z2 z a aa | %76
+"A" a2 gg- ga aa | ag gg g2 z a |"F" gf ff f- f2 z |"Bb" z2 z2 z2 bb |"F" a2 ff f2 aa | %81
+"C7" g2 ee e2 z g |"F" gf ff f- f2 z |1 z2 z2 z2 aa :|2"Bb" z2 z2 z2 bb ||"F" a2 ff f2 aa | %86
+"C7" g2 ee e2 z g |"F" gf ff-"C7" fc de |"F" f2 z2 F2 z2 |] %89
+

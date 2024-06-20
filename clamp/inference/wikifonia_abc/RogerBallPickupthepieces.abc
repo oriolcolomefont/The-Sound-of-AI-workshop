@@ -1,0 +1,23 @@
+X:1
+T:Pick up the pieces
+T:Pick Up The Pieces
+T:(Bb/Tenor Sax)
+C:Roger Ball
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:none
+V:1 treble transpose=-14 nm="Tenor Saxophone" snm="T. Sax."
+%%MIDI program 66
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:Bb]"A7#9""^Intro" z16 | z16 | z16 | z16 |:"Gm7" Bdag z2 fc =ed z2 c'fgb- | %5
+ b2g z fg z (b b2)g z fg z2 | z16 | z16 | Bdag z2 fc =ed z2 c'fgb- | b2g z fg z (d' b2)g z fg z2 | %10
+ z16 | z16 |"C7" bfag z2 bg c'b z2 c'fgb- | b2g z fg z (b b2)g z fg z2 |"Gm7" z16 | z16 | z16 | %17
+ z16 :|"C7" c'bc'bg2c'b c'bf2 z4 | c'bc'bg2c'b c'bf2 z4 | c'bc'bg2c'b c'bd'2 z4 | %21
+ c'bc'bg2c'b c'bf2 (d'4 |"D7" d'16) |"Gm7" z16 | z16 ||"C7""^Sax solo" z16 | z16 | z16 | z16 | %29
+ cc z2 z4 z4 .[c=e]2.[=B_e]2 | [Bd][Bd] z2 z4 z8 | cc z2 z4 z4 .[c=e]2.[=B_e]2 | %32
+ [Bd][Bd] z2 z4 z8 | cc z2 z4 z4 .[c=e]2.[=B_e]2 | [Bd][Bd] z2 z4 z8 | %35
+ cc z2 z4 z4 .[c=e]2.[=B_e]2 | [Bd][Bd] z2 z4 z8 |"Gm7" z16 | z16 | z16 | z16 || %41
+

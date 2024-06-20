@@ -1,0 +1,30 @@
+X:1
+T:Turn! Turn! Turn!
+T:Turn!  turn!  turn!
+T:(to everthing there is a season)
+T:Words from the Book of Ecclesiastes
+T:Adaptaion and music by Pete Seeger
+C:Pete Seeger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." C E F |"C" G2"F" F2 |"C" E2"G" D C | E F"C" G G |"F" F2"C" E2 |"F" D2 A A |"G7" G G F E | %7
+w: |||||||
+w: To ev- ry|thing (turn|turn turn) there|is a sea- son|(turn turn|turn) and a|time for ev- ry|
+ D C E D |"C" D C3 | z c c c/c/ |"G7" B c d B |"C" c G G G |"G7" B c d B |"C" c c c c | %14
+w: |||||||
+w: pur- pose un- der|heav- en|a time to be|born a time to|die, a time to|plant a time to|reap a time to|
+"G7" B c d B |"C" c e d c |"G7" B A G2- | G2 F2 |"C" E4- | E"^N.C." C E F |"C" G2"F" F2 | %21
+w: |||||||
+w: kill a time to|heal a time to|laugh a time|* to|weep|* to ev- ry|thing (turn|
+"C" E2"F" D C | E F"C" G G |"F" F2"C" E2 |"F" D2 A A |"G7" G G F E | D C E D |"C" D C3- | C z z2 | %29
+w: ||||||||
+w: turn turn) there|is a sea- son|(turn turn|turn) and a|time for ev- ry|pur- pose un- der|heav- en.-||
+ z4 | z4 |] %31
+w: ||
+w: ||
+

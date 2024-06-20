@@ -1,0 +1,39 @@
+X:1
+T:GRAN TORINO
+C:Cullum, Eastwood
+Z:Creative Commons BY
+L:1/16
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" CDE2- E2CD E4 CDE2 |"Dm" DE=F2- F2DE F4 DEF2 |"G7" B,CD2- D4- D2E2-E2D2 |"C" CDE2- E4 CDE2 z4 | %4
+w: ||||
+w: ||||
+"C""^A" CDE2- E4 CDE2- E4 |"Dm" z DDE =F2>D2 DEF2 DEF2 |"G7" z2 G,2 B,CD2 z E=F2 E2D2 | %7
+w: Re a lign _ all the stars _|a bove my head the warn ing signs trav el far|I drink in stead on my own oh,|
+w: |||
+"C" CDE2- E2>G,2 CDEG, CDE2 |:"Fmaj7" z2 AA AAA2 cB2A- A4 |"Em7" GE2G- G4 G2BA- A2G2 | %10
+w: how I've known _ the bat tle scars and worn out beds|Gen tle now a ten der breeze blows _|whis pers thru _ GRAN TO RIN _ O|
+w: |||
+"Dm7" z2 =FG F2E2 DE"G13"D2- D2B,2 |"Bb""_2nd Time to coda" D12 z4 |"Fmaj9" A2A2 A2AA cB2B- B2<A2 | %13
+w: Whis tl ing an oth er tired _ _|song|En gines hum and bit ter dreams _ _ grow|
+w: |||
+"Em7" z2 GG- G2EG G2BA- A2<G2 |"D" z2 FG FGAD D2<F2- =F2A2 |"C9" G12- G2C2 | %16
+w: heart locked _ in a GRAN TOR IN _ O|beats a lone ly rhy thm _ all _ nite|long _ These|
+w: ||* May I|
+"Fmaj9" A2Bc- c2d2 d4 cBA2- |"Am7" AB2c- c2B2 d6 cB |"Em7" G4- G2>G2"Fmaj7" BcA2 z3 G, | %19
+w: streets are old _ they shine with the things|_ I've known _ and breaks thru the|trees _ they're spar kl ing your|
+w: be so bold _ and stay I'll need some|_ one to hold that shud ders my|skin _ they're spar kl ing *|
+"G9" G2A2=F2G2 E2F2D2E2 |"^2nd Time to A then Coda" C2D2B,2C2 A,2B,2 G,4- |"G7" !fermata!G,16 :| %22
+w: world is noth ing more than all the|ti ny things you've left be hind|_|
+w: |||
+ z8 G,8 |"C" CDE2- E2G,2 CDE2 CDE2 |"Dm" z A,DE =F4 DEFD DEF2 |"Dm7/G" z2 CC D2DE"G7" =F2ED- DC2D | %26
+w: So|ten der ly _ your sto ry is noth ing more|than what you see what you've done or will be come|stand ing strong do you be long _ _ in your|
+w: ||||
+"C" E6 G,2 CDE2- E4 ::"D""^CODA" z2 FG FGAD D2<F2- =F2A2 |"C" G12 z4 :| %29
+w: skin? just won der ing _|beats a lone ly rhy thm _ all _ nite|long|
+w: |||
+

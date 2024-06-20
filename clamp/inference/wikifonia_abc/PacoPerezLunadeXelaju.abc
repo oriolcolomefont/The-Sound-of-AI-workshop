@@ -1,0 +1,59 @@
+X:1
+T:Luna de Xelajú
+T:Luna de Xelajú
+T:Paco Perez (1917 - 1951)  
+T:Transcripción :Alberto Betancourt
+T:2
+T:Luna de Xelajú
+C:Paco Perez
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:Amin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z/"^Vals Lento" B/ c/d/ c/B/ |:"Dm" d/d/ d/d/ d/d/ | .d/c/ B/c/ d/B/ |"Am" c/c/ c/c/ c/c/ | %4
+w: ||||
+ .c/B/ A/B/ c/A/ |"E7" B/B/ B/B/ B/B/ | .B/A/ ^G/A/ B/c/ |"Am" A/A/ A/A/ A/A/ |1 %8
+w: ||||
+ .A/"^N.C."B/ c/d/ c/B/ :|2 A3/2 E/ E ||"E7#9" z G2 |"Am" z z/ E/ E |"E7#9" z G2 ||"Am" A ^G A | %14
+w: |||||Lu- na gar-|
+"Am/G#" c B3/2 A/ |"Am/G" A ^G/ z/ A |"Am/F#" c B3/2 A/ |"Fmaj7" A ^G/ z/ A |"Am/E" c B A | %19
+w: de- nia de|pla- ta que'en|mi se- re|na- ta te|vuel- ves can-|
+"Dm" F3- |"^Bm7-5/F" F z z |"E" E ^D E |"^Bm7-5" G F3/2 E/ |"E" E ^D/ z/ E |"^Bm7-5" G F3/2 E/ | %25
+w: ción|_|Tu que me|vis- te can-|tan- do me|ves hoy llo-|
+"E" E ^D/ z/ E |"E7" G F E |"Am" E3 |"E7#9" z G2 ||"Am" A ^G A |"Am/G#" c B3/2 A/ | %31
+w: ran- do mi|de- si- lu-|sión.||Ca- lles ba-|ña- das de|
+"Am/G" A ^G/ z/ A |"Am/F#" c B3/2 A/ |"Fmaj7" A ^G/ z/ A |"Am/E" c B A |"Dm" f3- | f z z | %37
+w: lu- na que|fue- ron la|cu- na de|mi ju- ven-|tud|_|
+"Dm" d d3/2 d/ | d c B |"Am" d c z/ c/ | c B A |"E7" c B z/ B/ | B A ^G |"Am" A3 | %44
+w: Ven- go'a can-|tar- le'a mi'a-|ma- da mi|Lu- na pla-|tea- da de|mi Xe- la-|jú.|
+ z/"^N.C." B/ c/d/ c/B/ ||"Dm" d/d/ d/d/ d/d/ | d/c/ B/c/ d/B/ |"Am" c/c/ c/c/ c/c/ | %48
+w: ||||
+ c/B/ A/B/ c/A/ |"E7" B/B/ B/B/ B/B/ | B/A/ ^G/A/ B/c/ ||[K:A]"A" c3- ||"F#m7" c3- | %53
+w: |||||
+"Bm7" c"^Rubato" c d |"E7" e !fermata!d c |:S"A" e3- |"A/G#" e3 |"A/F#" z A B |"Fdim" c B A | %59
+w: * Lu- na|de Xe- la-|jú|_|me dis-|te'ins- pi- ra-|
+"A" c3- |"A/G#" c3 |"A/F#" z G A |"E7" B A G |"A" A A3/2 A/ |"Bm7" A G F |"A/C#" A A z/ A/ | %66
+w: ción|_|la can-|ción que'hoy te|can- to re-|ga- da con|llan- to de|
+"Cdim" A G F |"Bm7" d3- |"Bm/A" d3 |"E7/G#" z B c |"E7" d c B |"Bm/F#" d3- |"G" d3 |"E7/G#" z G A | %74
+w: mi co- ra|zón.|_|Lu- na|de Xe- la-|jú|_|que su-|
+"E7" B A G |"Bm/F#" B3- |"G" B3 |"E7/G#" z G A |"E7" B A G |"D6" A A3/2 A/ |"Bm7" A G F | %81
+w: pis- te'a- lum-|brar|_|en mis|no- ches de|pe- na por|u- na mo|
+"E7" G G z/ E/ | E F G |"A" F z z |"E7" z z z |"A" z c d |"E7" e d c |"A" e3- |"A/G#" e3 | %89
+w: re- na de|dul- ce mi-|||En mi|vi- da no'ha-|brá|_|
+"A/F#" z A B |"Fdim" c B A |"A" c3- |"A/G#" c3 |"F#m7" z G A |"Bm7" B A G |"Em7" =G G3/2 G/ | %96
+w: mas ca-|ri- ño que|Tu|_|por- que|no'e- res in-|gra- ta mi|
+ =G F E |"A7" =G G z | (=G/A/) B/c/ e/c/ |"D" B3- |"Ddim" B3 |"D" z"^N.C." A B | =c B A |"F" =c3- | %104
+w: Lu- na de|pla- ta|Lu- * na de Xe- la|jú.|_|Lu- na|que me'a- lum-|bró|
+ c3 | z A B | =c B A |"A" e3- |"G7" e3- |"F#7" e/ z/ c d | e d c |"Bm7" c B3/2 ^A/ | B f3/2 d/ | %113
+w: _|en mis|no- ches de'a-|mor|_|* hoy con-|sue- las la|pe- na por|u- na mo-|
+"E7" c B3/2 ^A/ | B e3/2 c/ |"A" A3-O ||"F#m7" A3- |"Bm7" A/ z/ c d |"E7" e d c"^D.S. al Coda" || %119
+w: re- na que|me'a- ban- do|nó.-||||
+O"Dm" A3- |"A" A z"E7" e ||"A" a z z |] %122
+w: |||
+

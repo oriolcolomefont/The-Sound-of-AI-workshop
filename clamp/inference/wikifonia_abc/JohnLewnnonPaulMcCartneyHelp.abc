@@ -1,0 +1,42 @@
+X:1
+T:Help!
+T:Help!
+C:John Lewnnon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 64
+%%MIDI control 10 64
+V:1
+"Am" [ce]3 z/ d/ | e d"Am7/G" d c |"F" c2 (3z A c |"F" e d"F/E" d c/ A/ |"D7" c2 z/ A/ c/ A/ | %5
+w: |||||
+w: Help! I|need some- bod- y|* not just|an- y- bod- * y|Help! You know *|
+ e d/ d/- d2 |"G7" b3/2 a/ g z |"F7" z2"Dm6" z2 |:"G" z B/ B/- B B | B B/ B/- B B | %10
+w: |||||
+w: need some- one *|Help! * *||When I * was|young- er so * much|
+"Bm" B B/ B/- B d | B4 |"Em" z/ ^A/ B/ A/ B A | B ^A B/ B3/2 |"C" c c"F" c/ c B/- |"G" B2 z2 | %16
+w: ||||||
+w: young- er than * to-|day|I nev- er need- ed|an- y- bod- y's|help in an- y way.||
+"G" z ^A B A | B B/ B/- B B |"Bm" B B B d/ B/- | B2- B/4A/4G/ z |"Em" z B/ ^A/ B3/2 A/ | %21
+w: |||||
+w: But now these|days are gone, * I'm|not so self as- sured.||Now I find I've|
+ B/ ^A/ B2 z/ G/ |"C" c c"F" c c/ B/- |"G" B3 z |"^Amsus" d d d d |"Am" c c B A | c2 B A- | %27
+w: ||||||
+w: changed me mind, I've|o- pened up the doors.||Help me if you|can I'm feel- ing|down. * *|
+ A z"Am/G" B/ c d/- |"F" d d"Dm/C" d d/ c/- |"F" c c B/ A c/- | c2 B A- |"F" A z"E/F" z2 | %32
+w: |||||
+w: * And I do|* ap- pre- ci- ate|* you be- ing round.|||
+"D7" d d/ d/- d d | d c B/ A c/- | c2 B A- | A z d d |"G7" [Bb]4 | [Aa]/- [Gg]3/2 d/- c B/- |1 %38
+w: ||||||
+w: Help me get * my|feet back on the ground.||* Won't you|please|please * help * me.|
+"G" B z z2 || z4 :|"Em" B z e2 |"Em" e2 e2 |"G" !~(![dg]2 !~)!!arpeggio![Bd]2 | %43
+w: |||||
+w: ||* Help|me, Help|me *|
+"G6" !fermata!!~)![ce]4 | %44
+w: |
+w: |
+

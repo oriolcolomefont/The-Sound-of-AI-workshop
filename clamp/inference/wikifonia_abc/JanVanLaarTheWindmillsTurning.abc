@@ -1,0 +1,29 @@
+X:1
+T:The windmills turning
+T:The Windmills turning
+T:(I know we'll meet again)
+T:Jan Van Laar Sr.
+T:English version Noel, Hardy.
+C:Jan Van Laar
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z A |"D" F2 ^E | F2 G | A2 B | A2 A | d2 A |"B7" G2 F |"Em" E3- | E z G |"A7" E2 ^D | E2 F | %11
+w: I|know a|spot where|first we|met Twas|by an|old mill|stream|* it|was a|place I|
+ G2 F | G2 A | c2 B | A2 B |"D" F3- | F z A | F2 ^E | F2 G | A2 B | A2 A |"F" =c2 c |"B7" B2 ^A | %23
+w: cant for-|get where|once we|used to|dream|* I|found her|in the|twi- light|there in|days that|used to|
+"Em" B3- | B z B |"G" d2 d | c2 B |"D" A2 F |"Bm" D2 F |"A" E2 c |"E7" B2 E |"A" A2 z | z z"D" A | %33
+w: be|* I|see the|sun- shine|in her|hair It|brings a|mem- or-|y.|The|
+ A2"A7" G |:"D" F3 | D3- | D2 d | d2 c |"G" (B3 | G3-) | G2 G |"Em" G2 F |"A" E3 | E2"D" F | %44
+w: wind- mills|turn-|ing-|* Myheart|is yearn-|ing||* in|dreams I'm|bring-|ing to|
+"A7" G2 B | A2 G |"D" F3- | F3- | F z A | A2"A7" G |"D" F3 | D3- | D2 d | d2 c |"G" B3 | G3- | %56
+w: you love's|sweet re-|frain||* Church|bells are|ring-|ing|* the|birds are|sing-|ing|
+ G2"Em" G | G2 B |"D" A3 | A2 F |"A7" A2 ^G | =G2 E |"D" D3- | D3- | D z A | A2"A7" G :|"D" D3- | %67
+w: * and|in my|heart|dear, I|know we'll|meet a-|gain/||* The|wind mills-|gain.|
+"G" D3- |"D" D z2 |] %69
+w: ||
+

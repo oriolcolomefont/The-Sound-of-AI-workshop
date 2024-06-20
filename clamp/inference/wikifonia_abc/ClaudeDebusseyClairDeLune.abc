@@ -1,0 +1,34 @@
+X:1
+T:Clair De Lune
+T:Clair de Lune
+C:Claude Debussey
+Z:All Rights Reserved
+L:1/8
+M:9/8
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D/F#" z Aa- a3 f3- |"D/G" fef"A/G" e6- |"D/F#" ede (2:3:2df- (2:3:2fd- |"Em" dcd"A7/E" c6- | %4
+"Em/D" cBc BeB"A7/C#" ABA- |"Em7/B" AGA G3"F#7/A#" F3- |"Bm/A" FFG FBF"Em7/G" EFE- | %7
+"Bm7/F#" EDE D3"A7/E" C3 |"D" z Aa- a3 f3- |"Gmaj7" fef"G6" e6- |"D/F#" ede a3 f3- | %11
+"Gmaj7" fef"G6" e3"G" d3- |"D7/A" dde (2:3:2ba- (2:3:2af- |"Bm" fef (2:3:2ed- (2:3:2dB || %14
+"Gmaj7/E" (2:3:2z f- fee edd | dcc (2:3:2cd B3 | (2:3:2z f- fgf efe |"Gmaj7/E" ded (2:3:2cd B3- | %18
+"A9" (2:3:2BG (2:3:2Ac (2:3:2BG |"A#dim" z GG GGA G3 |"G/B" (2:3:2z G (2:3:2Ad (2:3:2BG | %21
+"Em/A#" z GG GGA G3 |"G/B" (2:3:2z G (2:3:2Ae (2:3:2dB |"Em" z BB BBc Bde |"D/F#" a6"Dm/F" a3 | %25
+"Em7" a6"A7" a3 ||"D" A3-"F#m" A3"F/A" =c2 d |"D" A3-"F#m" A3"F/A" =c2 A |"D" d2 e f3 d2 f | %29
+ ^gfd"E7" d3 z3 |"A9" B3-"G" B3"F#m" c2 f |"A9" B3-"G" B3"F#m" c2 f |"Em" g3- (2:3:2gf (2:3:2^de | %33
+"G+" B3-"Em" B3"A+" c3 |"D" A3-"F#m" A3"F/A" =c2 d |"D" A3-"F#m" A3"F/A" ^B2 ^^G || %36
+[K:F]"Dm7/C" d2 A"Dm7" g2 d"F" a2 g |"Gm/A" a3"Gm" g3-"Gm/F#" g3 |"Gm/F" g3-"Gm/E" g3 b2 d' | %39
+"C9" g3-"Gm7/Bb" g3"Bb/A" b2 d' |"Gm7" f'e'd' (2:3:2c'b- bag | fed cBA- AGF ||[K:D]"A9" E6 G2 B | %43
+ E6 G2 B- | Bfe B3 A3 | Bfe B3 A3 |"Em7/G" E3-"Em7/B" E3"A7/C#" G2 B | %47
+"Em7/G" E3-"Em7/B" E3"A7/C#" G2 B |"Em7/G" e3-"C9/G" e3-"Em7/G" e3- |"G4" e3"C9/G" d3"Gsus4" e3 || %50
+"F#m" z3 a3 f3- |"F#7" fef e6- |"Bm7/F#" ede (2:3:2df- (2:3:2fd- |"A7/E" dcd c6 | %54
+"Em7/D" z Bc BeB"D" ABA- |"Em7/C#" AGA G3"F#7" F3- |"Bm/A" FFG FBF"G6" EFE- | %57
+"Bm/F#" EDE D3"A7/E" C3 |"D" z Aa-"F#dim/C" a3"D7/C" f3- |"G" fef e6- |"D/A" ede"D7/A" a3 f3- | %61
+"Bm" fef e3 d3 |"D/F#" z DE B3 F3 |"Em7" z GB d3 B3 |"A7" z Bc g3 A3 |"D" z3"F#m" z3"D" z3 | %66
+"F#m" z3"F/A" =C3"Dm/A" D3 |"D" z3"F#m" z3"D" z3 |"F#m" z3"F/A" =c3"Dm/A" d3 | %69
+"F/A" =c3"Dm/A" d3 =f3 |"D" a6- a3 | a6 z2 z |] %72
+

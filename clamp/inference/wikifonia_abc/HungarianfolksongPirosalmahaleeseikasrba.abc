@@ -1,0 +1,17 @@
+X:1
+T:Piros alma, ha leeseik a sárba
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A3 B | c2 c2 |"Dm" dc BA |"E" B B3 | B4 |:"Am" e2 e2 | f2 e2 |"Dm" dd ed |"Am" cB A2 | AE AB | %10
+w: Pi- ros|al- ma,|ha le- es- ik|a sár-|ba,|Pi- ros|al- ma,|ha le- es- ik|a sár- ba,|ki fel- ve- szi,|
+"E" cc dc |"Am" B A3 | A4 :| %13
+w: nem ve- szi fel|hi- á-|ba.|
+

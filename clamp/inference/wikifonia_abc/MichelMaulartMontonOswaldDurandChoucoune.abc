@@ -1,0 +1,25 @@
+X:1
+T:Choucoune
+C:Michel Mauléart Monton
+Z:Public Domain
+L:1/4
+Q:1/2=66
+M:2/2
+K:C
+V:1 treble nm="Flute"
+%%MIDI channel 7
+%%MIDI program 73
+V:1
+ G/ |:"C" e d/ c"G7" B/ d |"C" c3 z/ e/ |"C" g g/ g g/ a |"G" d2 z G |"G" G G/ G B/ d | %6
+w: Dé-|yé on gwo touf pen-|gwen Lot|jou mwen kon- tré Chou-|coune Li|sou- ri lé li wé|
+"Dm" f2 z g |"G7" G A/ B c/ d |"C" e3 z/ e/ |"E7" e e/ e a/ a |"Am" A3"A7" g |"D7" ^f f/ f e/ f | %12
+w: mwen Mwen|di « A syel la bel|moun » Li|di- ou trou- vé sa|chè Li|di ou tou- vé sa|
+"G7" g4 ||"C" g3 ^f | g3 e |"Dm" f f/"G7" e f/ g |"C" e3 z |"C" g3 ^f | g3 e | %19
+w: chè|Ti zwé-|zo Lan|bwa li ka pé'l kou-|té|Ti zwé-|zo Lan|
+"Dm" f f/"G7" e f/ g |"C" e4 |"F" A A/ c f/ a |"C" G G/ c e/ g |"G7" G G/ B d/ f | %24
+w: bwa ki ka pé'l kou-|té|Lo mwen son- jé sa|Mwen ga- gné la penn'|Ka di pi jou sa|
+"C" G G/ c e/"C7" g |"F" A A/ c f/ a |"C" G G/ c e/ g |"G7" z G/ f e/ d ||1"C" c3 G :|2"C" c4- || %30
+w: Dé pié mwen dan chenn'|Lo mwen son jé sa|Mwen ga gné la penn'|Dé pié mwen dan|chenn' Chou|chenn'|
+ c z z2 |] %31
+w: _|
+

@@ -1,0 +1,15 @@
+X:1
+T:Az én zubbonyomra
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C C2 D | EC F2 | E G2 F | E2 D2 | C2 z2!fine! | G G2 A | BG c2 | B d2 c | B2 A2 | G2 z2 | e e2 B | %11
+w: Az én zub-|bo- nyom- ra|tíz gomb van|fel- varr-|va.|Tíz gomb van|fel- varr- va|az én zub-|bo- nyom-|ra.|Ha nincs raj-|
+ dc A2 | A A2 E | GF DD!D.C.! |] %14
+w: ta tíz gomb,|nem az én|zub- bo- nyom, mert|
+

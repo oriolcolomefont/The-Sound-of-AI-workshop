@@ -1,0 +1,26 @@
+X:1
+T:Please Don't Talk About Me When I'm Gone
+T:Please Don't Talk About Me When I'm Gone
+C:Bee Palmer
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Eb" e G B/ e d/- |"G7" d G =B/ d c/- |"C7" c4- | c B"C+" A"C7" G |"F7" G E F/ ^F"B7" G/- | %5
+w: Please don't talk a- bout|_ me when I'm gone,|_|* Oh, hon- ey,|though our friend- ship ceas-|
+"Bb7" G c"Bb+" B/ c G/- |"Eb" G4- | G/ z/ B"Adim" c"Bb7" d |"Eb" e G B/ e d/- |"G7" d G =B/ d c/- | %10
+w: * es, from now on;|_|* And, lis- ten,|if you can't say an-|* y- thing real nice,|
+"C7" c4- | c B"C+" A"C7" G |"F7" G E F/ G c/- |"Bb7" c c B G |"Eb""Abm" E4- |"Eb" E/ z/ F G B | %16
+w: _|* It's bet- ter|not to talk at all,|_ is my ad-|vice.|_ We're part- ing,|
+"G7" e/ d f/- f G | e/ d f/- f e |"C7" d c d c- | c4 |"F7" d/ c e/- e F | d/ c f/- f d | %22
+w: you go your _ way|I'll go mine, _ it's|best that we do;|_|Here's a kiss! _ I|hope that this _ brings|
+"Bb7" c B"A7" =A"Ab7" c |"Bb7" B3"Bb+" z |"Eb" e G B/ e d/- |"G7" d G =B/ d c/- |"C7" c4- | %27
+w: lots of luck to|you.|Makes no diff- 'rence how|_ I car- ry on,|_|
+ c B"C+" A"C7" G |"F7" e c c3/2 e/ |"Bb7" f f"Fm7" e"Bb7" d |1"Eb""B7""Fm7" e4 ||"Bb7" z4 :|2 %32
+w: * Re- mem- ber,|please don't talk a-|bout me when I'm|gone.||
+"Eb""Abm" e4- ||"Eb" e3 z |] %34
+w: gone.|_|
+

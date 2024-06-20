@@ -1,0 +1,35 @@
+X:1
+T:My Heart Reminds Me (AKA "Autumn Concerto", "And That Reminds Me")
+C:Camillo Bargoni, Al Stillman and Paul Siegel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"C " z z/ c/ c- c/B/ |"Cmaj7" B- B/A/"Ebdim" A"B " B |"C " z z/ c/ c- c/B/ | %3
+w: I hear * the|sound * of mu- sic,|your fav- * rite|
+"Cmaj7" B- B/A/"Ebdim" A"B " B |"Dmin7" z z/ c/ c- c/B/ |"Fdim" B- B/A/"G7" A- A/G/ |"C " e4- | %7
+w: kind * of mu- sic|and that * re-|minds * me dear * of|you.|
+ e2 z2 |"E " z z/ e/ e- e/_e/ |"Emaj7" _e _d"Gdim" d"Eb " e |"E " z z/ e/ e- e/_e/ | %11
+w: |I see * the|sum- mer ro- ses,|your fav- * rite|
+"Emaj7" _e _d"Gdim" d"Eb " e |"Gbmin7" z z/ e/ e- e/_e/ |"Adim" _e- e/_d/"D7" d- d/B/ |"E " ^g4 | %15
+w: shade of ro- ses|and that * re-|minds * me too * of|you,|
+"G " g4 |"C " z z/ c/ c- c/B/ |"Cmaj7" B- B/A/"Ebdim" A"B " B |"C " z z/ c/ c- c/B/ | %19
+w: dear.|If I * could|hear * no mu- sic,|if there * should|
+"Cmaj7" B- B/A/"Ebdim" A"B " B |"F " z z/ c/ c- c/B/ |"G " B- B/A/"D7" A- A/G/ |"G " g3 a/g/ | %23
+w: be * no ro- ses,|no sum- * mer|night * to make * me|dream as I|
+"E7" e3 z/ g/ |"G " g- g/f/"F " f- f/e/ |"E7" e"D7" d2 c |"Cmaj7" B c"E7" d e |"Gdim" g4 | %28
+w: do. I|still * would not * for-|get you; one|thing would still be|true;|
+"C " z z/ c/ c- c/B/ |"Dmin" A/B/- B"F " c"G " d |"C " c4 |"F " z4 |"C " z"_PIANO" c/c/ c B/B/ | %33
+w: My Heart * Re-|minds Me, * I Love|You!|||
+"Cmaj7" B A/A/ A B |"C " z c/B/ d/c/ B/A/ |"Cmaj7" B A A B |"F " z c/c/ c B/B/ |"G " B A"D7" A G | %38
+w: |||||
+"G " g z2 a/g/ |"E7" e z z z/ g/ |"G " g- g/f/"F " f- f/e/ |"E7" e"D7" d2 c |"Cmaj7" B c"E7" d e | %43
+w: |* I|still * would not * for-|get you; one|thing would still be|
+"Gdim" g4 |"C " z c c B |"Dmin" A B"F " c2 |"G " d4 |"C " d c3- | c4 |"F " z"_PIANO" c c c | %50
+w: true;|My Heart Re-|minds Me, I|Love|You! *|||
+"G " d c B c |"C " g4 |] %52
+w: ||
+

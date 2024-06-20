@@ -1,0 +1,23 @@
+X:1
+T:Vol Vistu Gaily Star
+T:Vol Vistu Gaily Star
+T:Slim Gaillard
+C:Slim Gaillard
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am" E ^F G A | E3 B, | E ^F G A | E3 B, | E ^F G A | E2 G2 |"E7" G ^F3- | F3 B, | ^F G A B | %9
+w: Vis- tu gai- ly|star Vol|Vis- tu gai- ly|star Vol|Vis- tu gai- ly|star la|me- lo|* Vol|Vis- tu gai- ly|
+ ^F3 B, | ^F G A B | ^F3 B, | ^F G A B | ^F2 G2 |"Am" ^F E3- | E3 B, | E ^F G A | E3 B, | %18
+w: star I|found my luck y|star Vol|Vis tu gai ly|star la|me lo|* I|told my luck y|star Vol|
+ E ^F G A | E3 B, | E ^F G A | E2 G c |"Dm7" c B3- | B4 | c A c A | c A c2 |"Am" B G B G | B G B2 | %28
+w: Vis tu gai ly|star Vol|Vis tu gai ly|star la a|me lo||Man ya man ya|man ya me,|man ya man ya|man ya fee|
+"E7" A ^F2 A | ^F2 G2 |"Am" ^F E3- | E3 B, :| %32
+w: man ya man|ya la|me lo|* Vol|
+

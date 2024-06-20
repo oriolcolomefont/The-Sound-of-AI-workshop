@@ -1,0 +1,26 @@
+X:1
+T:I'll Always Be In Love With You
+T:I'll Always Be In Love With You
+T:Sam H. Stept
+T:Bud Green & Herman Ruby
+C:Sam H Stept
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 G2 |"C" C3 D EG |"C7" c4"C+" e2 |"F" d3 c AF |"Fm" D4 E2 |"G7" G3 D ^DE |"G+" G4 B2 |"C" G6 | %8
+w: Sweet-|heart if you should|stray, a|mil- lion miles a-|way, I'll|Al- ways Be In|Love With|You,|
+"G7" G4 G2 |"C" C3 D EG |"C7" c4"C+" e2 |"F" d3 c AF |"Fm" D4 E2 |"G7" G3 D ^DE | G4 A2 |"C" c6- | %16
+w: * and|tho' you find more|bliss, in|some- one el- se's|kiss, I'll|al- ways be in|love with|you.|
+ c4 C2 |"Fm" c3 _B _AB | c4 d2 |"C" c3 A GA |"C7" G4 C2 |"Fm" c3 _B _AB | c4 d2 |"C" c3 A"A7" GE | %24
+w: * I|can't do an- y|more, I've|tried so hard to|please, but|let me thank you|for such|ten- der mem- o-|
+"D7" D4"G7" G2 |"C" C3 D EG |"C7" c4 de |"F" d3 c AF |"Fm" D4 E2 |"G7" G3 D ^DE | G4 A2 |"C" c6- | %32
+w: ries. I|wish you hap- pi-|ness, as for|me, sweet- heart, I|guess, I'll|al- ways be in|love with|you.-|
+ c4 z2 |] %33
+w: |
+

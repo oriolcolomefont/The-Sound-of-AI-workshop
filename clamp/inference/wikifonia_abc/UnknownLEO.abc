@@ -1,0 +1,28 @@
+X:1
+T:LEO
+T:Laukens Music Productions
+T:LEO
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Midi 4"
+%%MIDI channel 4
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" [CEG]2 [CEG]2 [CEG]2 [CEG][CEG] |"Db" [_DF_A]2 [DFA]2 [DFA]2 [DFA][DFA] | %2
+"C" [CEG]2 [CEG]2 [CEG]2 [CEG][CEG] |"Db" [_DF_A]2 [DFA]2 [_DF_A]2 [DFA][DFA] ||"C"S G4 E4- | %5
+ EG^FG A2 G2 |"G7" G G2 ^F =F4- | FG^FG"C" A2"Cdim" G2 |"G7" G G2 ^F =F4- | FFFF E2 _E2 | %10
+"C" [G,CE]2 [G,CE]2 [G,CE]2 [G,CE][G,B,_E] | [G,CE]2 [G,CE]2 [G,CE]2 [G,CE][G,B,_E] | %12
+ G4 [G,E][CE] [DF]>[_E^F] | [EG]G^FG A2 G2 |"G7" G G2 ^F =F4- | FG^FG"C" A2"Cdim" G2 | %16
+"G7" G G2 ^F =F4- | FFFF E2 D2 |"C" C2 z [Gce]"Cdim" [^Fc_e]2"G7" [=FBd]2 | %19
+"C" [Ec]2"G7" [Bdg]2"C" [cec']2"^Fine" z D ||[K:Cmin]"Cm" EDED EEFG |"Fm" AG F2- F3 C | %22
+"G7" D D2 D- DDEF |"Cm" GF E2- E3 D |"C7" =EEEE EEFG |"Fm" AG F2- FAGF |"Cm" EGFE"G7" DFED | %27
+"Cm" C2"G7" [G,=B,D]2"Cm" [G,CE]G,G,G, |"G7" =B,2 B,B,"Fm" CCDC |"G7" C2 =B,2- B,G,G,G, | %30
+"G7" =B,B,B,B,"Fm" CCDC |"G7" =B,4- B,G,G,G, |"G7" =B,B,B,B,"Fm" CCDC |"G7" C2 =B,2- B,G,G,G, | %34
+ FFFF =EGFE | D2 [G=Bg]2"Cdim" [=Ac^f]2"G7" [Bd=f]2"_D.S. al Fine" |] %36
+

@@ -1,0 +1,31 @@
+X:1
+T:Dahil Sa Iyo (Because of You)
+T:Dahil Sa Iyo (Because of You)
+T:Miguel "Mike" Velarde, Jr.
+C:Miguel Velarde Jr.
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" z2 EG F3 E |"Am" B4 A4- |"B" A2 A2 BAGF |"Em" A4 G4- | G2 G2 AGFE |"B" G4 F4- | F2 F2 GFE^D | %7
+w: Sa bu- hay ko'y|la- bis,|* Ang hi- rap at pa-|sa- kit|* Ng pu- song um- i-|i- big,|* Man- di'y wa- la ng|
+"Em" F4 E4 | z2 EG F3 E |"A" B4 A4- |"D" A2 A2 dcBA |"G" c4 B4 | z2 B2 B3 B |"B" B3 ^D F4- | %14
+w: lang- it|At ng lu- mi-|ga- ya,|* hi- nang- o mo sa|du- sa|Tang- ing i-|kaw sin- ta|
+ F2 E^D ^C2 DE |"F#m" F8 ||[K:E]"B" z2 B,2 C3 E |"F#m" F8- |"B7" F2 FG F3"E" E | G4"Emaj7" G4- | %20
+w: * ang a- king pa- ga-|sa.|Da- hil sa|iyo|* na- is kong ma-|bu- hay.|
+ G2"C#m7" B,2 C3 E |"F#m" A8- |"B7" A2 AB A3 G |"E" B8- | B2 B2 B2 B2 |"F#m" B3 A A4- | %26
+w: * Da- hil sa|iyo|* hang- gang ma- ma-|tay.|* Da- pat mong|tan- tu- in|
+ A2"Am" A2 BA"B7"GF |"E" A3 G G4- | G2"E" G2 G2"Emaj7" G2 |"C#m7" G3 F F4- | F2 F2 GFED | %31
+w: * wa- la ng i- bung|gi- * liw.|* Pu- so ko'y|ta- nun- gin|* i- kaw at i- kaw|
+"Bdim" F8- |"B7" F2 B,2 C3 E |"F#m" F8- |"B7" F2 FG F3 E |"E" G4 G4- | G2"Edim" B,2 C3 E | %37
+w: rin.|* Da- hil sa|iyo,|* a- ko'y lu- mi-|ga- ya.|* Pag- ma- ma-|
+"F#m" A8- |"B7" A2 AB A3 G |"C#7" c8- | c2 c2 c2 B2 |"F#m" B3 A A4- | A2"Am" B2 B2 A2 | %43
+w: hal|* ay a- la- yan|ka.|* Kung tu- nay|man a- ko|* ay al- i-|
+"E" A3 G G4- | G2"C#7" GB A2 G2 |"F#7" G3 F c4- | c2"B7" D2 E3 F |"E" E8 |] %48
+w: pin- in mo.|* Ang la- hat sa|bu- hay koy,|* Da- hil sa|iyo.|
+

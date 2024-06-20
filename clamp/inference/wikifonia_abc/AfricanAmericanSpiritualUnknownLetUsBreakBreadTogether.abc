@@ -1,0 +1,34 @@
+X:1
+T:Let Us Break Bread Together
+T:Let Us Break Bread Together
+T:African American Spiritual Arrangement Larry Johnson
+C:African American Spiritual
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 |[Q:1/4=80] z2 C E |"F" F2"Bb" F3/2 D/ |"F/C" F/ A3/2"C7" G G |"F" F4- | %9
+w: |||||Let us|break bread to|ge ther on our|knees|
+ F2 A B | c2"C/E" c3/2 A/ |"Dm7" c/ e3/2"G7" d d |"C" c4- | c2 F A |"F" c2"Cm/Eb" c c | %15
+w: _ let us|break bread to|ge ther on our|knees|_ when I|fall on my|
+"D7" c2"D7/F#" d c |"Gm" B B/G/"Gdim/F" B B |"C7/E" B2"C" c2 |"F" A2"Dm" A2 |"Bb" F/ A3/2"C7" G2 | %20
+w: kness with my|face to the ris sing|sun o|Lord have|mer cy on|
+"F" F4- | F2 C E |"F" F2"Bb" F3/2 D/ |"F/C" F/ A3/2"C7" G G |"F" F4- | F2 A B | c2"C/E" c3/2 A/ | %27
+w: me|_ let us|drinkthe cup to|geth er on our|knees|_ let us|drinkthe cup to|
+"Dm7" c/ e3/2"G7" d d |"C" c4- | c2 F A |"F" c2"Cm/Eb" c c |"D7" c2"D7/F#" d c | %32
+w: ge ther on our|knees|_ when I|fall on my|kness with my|
+"Gm" B B/G/"Gdim/F" B B |"C7/E" B2"C" c2 |"F" A2"Dm" A2 |"Bb" F/ A3/2"C7" G2 |"F" F4- | F2 C E | %38
+w: face to the ris sing|sun o|Lord have|mer cy on|me|_ let us|
+"F" F2"Bb" F3/2 D/ |"F/C" F/ A3/2"C7" G G |"F" F4- | F2 A B | c2"C/E" c3/2 A/ | %43
+w: praise God to|ge ther on our|knees|_ let us|praise God to|
+"Dm7" c/ e3/2"G7" d d |"C" c4- | c2 F A |"F" c2"Cm/Eb" c c |"D7" c2"D7/F#" d c | %48
+w: geth er on our|knees|_ when I|fall on my|kness with my|
+"Gm" B B/G/"Gdim/F" B B |"C7/E" B2"C" c2 |"F" A2"Dm" A2 |"Bb" F/ A3/2"C7" G2 |"F" F4- | F4 | z4 | %55
+w: face to the ris sing|sun o|Lord have|mer cy on|me|_||
+ z4 | z4 | z4 |] %58
+w: |||
+

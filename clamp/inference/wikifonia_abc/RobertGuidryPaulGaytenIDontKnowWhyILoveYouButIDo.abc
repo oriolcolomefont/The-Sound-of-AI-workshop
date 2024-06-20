@@ -1,0 +1,24 @@
+X:1
+T:I Don't Know Why I Love You But I Do
+T:I dont know why I love you but I do
+T:unknown
+T:Country beat
+C:Robert Guidry, Paul Gayten
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z E |"C" G e e d | d c B A |"Dm" c D3- | D3 G |"G7" G d d c | c B A G |"C" B E3- | E3 G | %9
+w: I|dont know why I|love you but I|do *|* I|dont know why I|cry so but I|do *|* I|
+ G e e d | d c2 B/_B/ |"F" A f f e |"D7" e d2 A |"Dm" c B A B |"G7" c B A B |"C" c4- | c3 c | %17
+w: on- ly know I'm|lone- ly and *|that I want you|on- ly I|dont know why I|love you but I|do.|* My|
+"F" A c A c | d c2 c |"C" d c c A | c3 ^c |"D7" d d A B | c c d e |"Dm" d4- |"G7" d3 E | %25
+w: days have been so|lone- ly my|nights have been so|blue I|dont know how I|man- age but I|do|* I|
+"C" G e e d | d c B A |"Dm" c D3- | D3 G |"G7" G d d c | c B A G |"C" B E3- | E3 G | G e e d | %34
+w: cant sleep nights be-|cause I feel so|rest- less|* I|dont know what to|do I feel so|hel- less|* and|since you've been a-|
+ d c2 B/_B/ |"F" A f f e |"D7" e d2 A |"Dm" c B A B |"G7" c B A B |"C" c4- | c3 z |] %41
+w: way * I *|cry both night and|day * I|dont know how I|man- age but I|do.||
+

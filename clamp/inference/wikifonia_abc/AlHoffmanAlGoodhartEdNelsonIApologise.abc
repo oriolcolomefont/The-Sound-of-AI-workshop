@@ -1,0 +1,36 @@
+X:1
+T:I Apologise
+T:I Apologise
+T:Al Hoffman,Al Goodhart & Ed Nelson
+C:Al Hoffman,Al Goodhart & Ed Nelson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G>ED>C"Cm" C4 |"Fm7" A>EE>D"Bb7" D4 |"Gm7b5" B>FF>=E"C7" E2 C2 |"Fm" c4"G7" d4 | %4
+w: If I told a lie,|if I make you cry,|when I said good- bye, I'm|sor- ry,|
+w: If I caused you pain,|I know I'm to blame,|must have been in- sane, be-|lieve me,|
+"Cm7" z2 e>d"F7" f>ed>c |"Eb" B4"C7" c4 |1"Fm7" A2 A2"Bb7" B2 B2 ||"Eb""Fm7""Bb7" G8 :|2 %8
+w: from the bot- tom of my|heart, dear,|I Ap- ol- o-|gise.|
+w: ||||
+"Fm7" A2 A2"Bb7" F2 G2 ||"Eb" E8 |"Gm" z3/2 d<cB/ =A>G^F>G |"A7" =A2 =E2 A4 | %12
+w: I Ap- ol- o-|gise.|I re- al- ise I've been un-|fair to you,|
+w: ||||
+"Cm7" =A2 A2"D7" AB A2 |"Gm" D8 |"Bb" z3/2 f<ed/"Gm" c>B=A>B |"Cm" c2 G2"F7" c4 | %16
+w: please let me make a-|mends,|Don't say that you for- got the|love we knew,|
+w: ||||
+"Cm" c2 c2"F7" cd e2 |"Bb7" d2 B2"Bb+" B4 |:"Eb" G>DD>C"Cm" C4 |"Fm7" A>EE>D"Bb7" D4 | %20
+w: af- ter all, we were|more than friends.|Give me back your glance,|give me back ro- mance,|
+w: ||If I've made you blue|I've had heart- aches too,|
+"Gm7b5" B>FF>=E"C7" E2 C2 |"Fm" c4"G7" d4 |"Cm7" z2 e>d"F7" f>ed>c |"Eb" B4"C7" c4 | %24
+w: give me one more chance, for-|give me.|From the bot- tom of my|heart ,dear,|
+w: now I beg of you, for-|give me.|||
+"Fm7" A2 G2"Bb7" B2 c2 |"Eb" e6 z2 :| %26
+w: I Ap- ol- o-|gise.|
+w: ||
+

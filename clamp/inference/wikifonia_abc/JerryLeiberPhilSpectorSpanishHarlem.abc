@@ -1,0 +1,24 @@
+X:1
+T:Spanish Harlem
+T:Spanish Harlem
+T:Jenny Leiber and Phil Spencer
+T:Bossa Nova
+C:Jerry Leiber, Phil Spector
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"Bb" D D2 E2 | F3 F G2 A2 | GFdd d2 cc | c2 BB B2 c2 | z2 z D D2 E2 | F3 F G2 A2 | %6
+w: There is a|rose in Span- ish|Har- lem * * * * *||A rare rose|up in Span- ish|
+ GFdd d2 cc | c2 BB B2 A_A |"Eb" G2 c2 B2 G2 | c2 B2 GcBG | c2 B2 GcBG | cBGc BGcB | GcBG B2 B,2 | %13
+w: Har- lem * * * * *||* It is a|spec- ial one its nev- er|seen the sun it on- ly|comes up when the moon is on the|run and all the stars are|
+"Bb" DFdd d2 cc | c2 BB B2 cB |1"F7" A3 c c2 d2 | e3 d f2 ed | e3 d f2 ed | e3 d f2 F2 | %19
+w: gleam- ing * * * * *||* Its grow- ing|in the street right up|thro' the con- crete but|soft and sound in|
+"Bb" GBdd d2 cc | c2 BB B2 c2 | z2 dd d2 cc | c2 BB B2 c2 :|2 A3"F7" c c2 d2 || e3 d f2 ed | %25
+w: pale moon. * * * * *||||* I'm going to|pick that rose and watch|
+ e2 df e4- | e4 f2 F2 |"Bb" GBdd d2 cc | c2 BB B2 c2 | f8- | f8 |] %31
+w: her as she grows|* in my|gar- den * * * * *||||
+

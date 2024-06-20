@@ -1,0 +1,35 @@
+X:1
+T:Massachusetts (The Lights Went Out)
+T:Massachusetts (The Lights Went Out)
+T:Barry Gibb,Maurice Gibb & Robin Gibb
+C:Barry Gibb,Maurice Gibb & Robin Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" D4 E2 G2 | A B2 A B4 | d4 e2 g2 | a b2 a b4 |:"G" D3 D E G2 A- |"Am" A3 E"C" G3 G | %6
+w: ||||Feel I'm go- ing back|* to Mas- sa|
+w: ||||Tried to hitch a ride|* to San Fran-|
+w: ||||Talk a- bout the life|* in Mas- sa|
+"G" E2 D2 E2 G2 | A B2 A B4 | D3 D E G2 A- |"Am" A3 E"C" G3 G |"G" E2 D2 E2 G2 | A B3 B2 c2 | %12
+w: chu- setts; * *||some- thing's tell- ing me|* I must go|home. * * *|* * And the|
+w: cis- co; * *||got to do the things|* I wan- na|do, * * *|* * And the|
+w: chu setts; * *||speak a- bout the peo-|* ple I have|seen. * * *|* * And the|
+ d4 B2 d2 | g3 g g f2 f |"C" f2 e2 cBAG | E2 G2 F2 E2 |"G" D2 D4 B2 |"D" c2 c2 B3 A | %18
+w: lights all went|out in Mas- * sa-|chu- setts * * * *|* the day I|left * her|stand- ing on her|
+w: lights all went|out in Mas- * sa-|chu setts * * * *|* they brought me|back * to|see my way with|
+w: lights all went|out in Mas- * sa-|chu- setts; * * * *|* and Mas- sa-|chu- setts is|one place I have|
+"G" G4 E2 G2 |1"D" A B2 A B4 :|2"Am" A4"C" G4 |:"G" D4 E2 G2 |"Am" A3 E"C" G3 G |"G" E2 D6 | %24
+w: own. * *|||I will re-|mem- ber Mas- sa|chu- setts.|
+w: you. * *||||||
+w: seen. * *||||||
+"Am" A4"C" G4 :| %25
+w: |
+w: |
+w: |
+

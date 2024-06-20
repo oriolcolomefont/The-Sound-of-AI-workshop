@@ -1,0 +1,24 @@
+X:1
+T:San Francisco
+T:San Francisco
+C:Brian Kaper, Walter Jurman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" G2"Em" G2 |"C7" E G3 |"F" A B c d- | d c"F7" A2 |"C" G A G c- |"Am" c A"Em" G2 | %6
+w: San Fran-|cis- co|o- pen your gol-|* den gate|You let no stran-|* ger wait|
+"Dm7" E D"Fm6" D"G7" D- | D3 z |"C" G2"Em" G2 |"C7" E G3 |"F" A B c d- | d c"F7" A2 | %12
+w: out- side your door.|_|San Fran-|cis- co|here is your wan-|* d'ring one|
+"C" G A G"D7" c- | c C"G7" D2 |"C""F7" C4 |"C" C2 z2 |"Em" B, E ^F G |"Am6" A B"B+7" G"B7" ^F | %18
+w: say- ing "I'll wan-|* der no|more".|_|Oth- er plac- es|on- ly make me|
+"E" B2 B2 |"A7""F#m""A7" B4 |"G" D G"Adim" A"Em" B |"Am7" c d"D7" B A |"G7" d2"Dm" d2 | %23
+w: love you|best;|Tell me you're the|heart of all the|gold- en|
+"Bb7""G7" d4 |"C" G2"Em" G2 |"C7" E G3 |"F" A B c d- | d c"F7" A2 |"C" G A"Am" c"F6" d- | %29
+w: west.|San Fran-|cis- co|wel- come me home|_ a- gain|I'm com- ing home|
+ d"F" c"F6" d2 |"D7" e c"G7" !fermata!d2 |1"C" c2"F" z2 :|2"C" c2- c z |] %33
+w: _ to go|roam- ing no|more.|more. _|
+

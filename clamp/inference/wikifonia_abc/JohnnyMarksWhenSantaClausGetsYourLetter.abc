@@ -1,0 +1,24 @@
+X:1
+T:When Santa Claus Gets Your Letter
+T:When Santa Claus Gets Your Letter
+C:Johnny Marks
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z G |:"C" A/A/ G"Cdim" ^F"C" G | E E2 G |"G7" B A F A |"C" G3"G7" G |"Am" c c"Em" B"Dm" A | %6
+w: When|San- ta Claus gets your|let- ter, you|know what he will|say: "Have|you been good the|
+"C" G c"A7" G3/2 F/ |"D7" E E D C |"G7" D3 G |"C" A/A/ G"Cdim" ^F"C" G | E E2 G |"G7" B A F A | %12
+w: way you should on|ev- 'ry sin- gle|day?" When|San- ta Claus gets your|let- ter, to|ask for Christ- mas|
+"C" G3"G7" G |"Am" c c"Em" B"Dm" A |"C" G c"A7" G3/2 F/ |"D7" E E"G7" D D |"C" C3"C7" C | %17
+w: toys, He'll|take a look in|his good book he|keeps for girls and|boys. He'll|
+"F" A A F A | c c"B7" B3/2 A/ |"C" G G"Cdim" ^F A |"C" G3"C7" C |"F" A A F A | c c"Ebdim" B3/2 A/ | %23
+w: stroke his beard, his|eyes will glow and|at your name he'll|peer; It|take a lit- tle|time you know, to|
+"D7" d c B A |"G7" G3 G |"C" A/A/ G"Cdim" ^F"C" G | E E2 G |"G7" B A F A |"C" G3"G7" G | %29
+w: check back one whole|year! When|San- ta Claus gets your|let- ter, I|real- ly do be-|lieve, You'll|
+"Am" c c"Em" B"Dm" A |"C" G c"A7" G3/2 A/ |"D7" E/D/ C"G7" E G |1"C""Dm7" c3"G7" G :|"C" c3 z |] %34
+w: head his list, you|won't be missed by|San- ta on Christ- mas|eve. When|eve.|
+

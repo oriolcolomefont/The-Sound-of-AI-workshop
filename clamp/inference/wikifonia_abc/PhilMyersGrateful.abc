@@ -1,0 +1,42 @@
+X:1
+T:Grateful
+T:Grateful
+T:Phil Myers
+T:2010 Phil Myers
+C:Phil Myers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^A" z4 z2 cd |"C" efec"G7" d2"G7b9" ed |"Am7" cdcA"^G7sus4" G2-"G7b9" G_A | %3
+w: When I|wake up in the night and I|see the mor- ning light * I'm|
+"Am7" AccA"^G7sus4" c2"G7" c2 |"C" e4"G7" d2 cd |"C" efec"G7" d2"G7b9" ed | %6
+w: grate- ful for an oth- er|da- ay. When the|sun shines through the trees and the|
+"Am7" cdcA"^G7sus4" G2- G"G7b9"_A |"F6" AccA"^G7sus4" c2"G7" d2 |"C" c8 | %9
+w: birds sail on the breeze * It|makes me want to stop and|pray.|
+"^Chorus:" egge"G7" ag-"G7b9" g2 |"Am7" aged"^G7sus4" c4 |"F6" AccA"^G7sus4" c2"G7" c2 | %12
+w: Grate- ful for the li- ight, *|grate- ful for your love,|grate- ful for an- oth- er|
+"C" e4"^G7sus4" d4 |"C" egge"G7" ag-"G7b9" g2 |"Am7" aged"^G7sus4" c4 | %15
+w: da- ay,|Grate- ful for the li- ight, *|grate- ful for your love,|
+"F6" AccA"^G7sus4" c2"G7" d2 |"C" c6 cd |"C" efec"G7" d2-"G7b9" dd | %18
+w: grate- ful for an- oth- er|day. When I|see your car- ing face * you|
+"Am7" cdcA"^G7sus4" G2-"G7b9" G_A |"Am7" AccA"^G7sus4" c2"G7" c2 |"C" e4"G7" d2 cd | %21
+w: take me to a place * where|all my wor- ries melt a-|wa- ay. When I|
+"C" efec"G7" d2-"G7b9" dd |"Am7" cdcA"^G7sus4" G2- G"G7b9"_A |"F6" AccA"^G7sus4" c2"G7" d2 | %24
+w: feel your lov- ing hand * I|know you un- der- stand * I'm|grate- ful for an- oth- er|
+"C" c8 |"^Chorus" z4"^C" z2 cd |"C" efec"G7" d2"G7b9" ed |"Am7" cdcA"^G7sus4" G2-"G7b9" G_A | %28
+w: day.|There is|mu- sic in your eye as you|lift me to the sky * I'm|
+"Am7" AccA"^G7sus4" c2"G7" c2 |"C" e4"G7" d2 cd |"C" efec"G7" d2-"G7b9" dd | %31
+w: grate- ful for an- oth- er|da- ay. When you|kiss me and you sigh * You|
+"Am7" cdcA"^G7sus4" G2- G"G7b9"_A |"F6" AccA"^G7sus4" c2"G7" d2 |"C" c8 |"^Chorus" z4"^D" z2 c2 | %35
+w: give me wings to fly. * I'm|grate- ful for an- oth- er|day.|When|
+"C" efec"G7" d2"G7b9" ed |"Am7" cdcA"^G7sus4" G2-"G7b9" G_A |"Am7" AccA"^G7sus4" c2"G7" c2 | %38
+w: we walk hand in hand, leav- ing|foot- prints in the sand, * I'm|grate- ful for an- oth- er|
+"C" e4"G7" d2- d"^rit."c |"C" efec"G7" d2"G7b9" ed |"Am7" cdcA"F#dim7" c2- cA | %41
+w: da- ay. * When|we will sing our song We will|be where we be- long. * I'm|
+"Dm7" GAcA"^G7sus4" c2"G7" d2 |"C" c8 |] %43
+w: grate- ful for an- oth- er|day.|
+

@@ -1,0 +1,25 @@
+X:1
+T:Leaving on a jet plane
+T:Leaving on a jet plane
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z z c d |"C" f e c G |"F" A/A/c/ z/ d c |"C" f e c G |"F" A c d3/2 c/ |"C" f e d c | %6
+w: All my|bags are packed I'm|read- y to go I'm|stand- ing here out-|side your door I|hate to wake you|
+"F" f e d/c/c/d/ |"Dm" d4 |"G7" z z c d |"C" f e c G/G/ |"F" A c d c |"C" f e c/G/G/ z/ | %12
+w: up to say * good *|bye.|But the|dawn is break- in' its|ear- ly morn, the|tax- i's wait- ing he's|
+"A" A/A/ c d3/2 c/ |"C" f e d c |"F" f e d/c/c/d/ |"Dm" d4- |"G7" d z2 g |"C" g2 e g |"F" f e c2 | %19
+w: blow- in his horn, al-|read- y I'm so|lone- some I * could *|die|* So|kiss me and|smile for me|
+"C" g f e f |"F" f e c2 |"C" g f e g |"F" f e d c |"Dm" d3"G7" z | z z2 g |:"C" g2 e2 | %26
+w: tell me that you'll|wait for me,|Hold me like you"ll|nev- er let me|go|I'm|leav- ing|
+"F" a g f g |"C" z g e g |"F" f g f/e/c/ z/ |"C" z/ z/ z/ z/ z g | %30
+w: on a jet plane,|Dont know when|I'll be back a- gain|Oh,|
+"F" f e/e/ d/"^fade"c/c/"^and"d/ |"Dm" d4- |"G7" d2"^Repeat" g z :| %33
+w: babe, * I hate * to *|go.|* I'm|
+

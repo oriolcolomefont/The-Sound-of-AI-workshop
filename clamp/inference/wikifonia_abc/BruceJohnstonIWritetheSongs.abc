@@ -1,0 +1,35 @@
+X:1
+T:I Write the Songs
+T:I write the songs
+T:Bruce Johnston
+C:Bruce Johnston
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"E""_Rock" z4 c2 _BA |"D7" A3 ^F G2 A2 |"Gm7" D_BAG"C7" GF G2 |"F" A4 z4 |"A7" A2 AA A2 AA | %5
+w: I've been a-|live for- ev- er|and I wrote the ver- y first|song|I put the words and the|
+w: My home lies|deep with- in you|and I've got my own place in~your|soul|Now when I look out *|
+"Dm7" AGGF GADF |"G7" AG D2 AG F2 |"Gm" G4"C7" z4 |"F" F2 FF GAAF |"Gm7" A3 _B B4 | %10
+w: mel- d- dies to- geth- er I am|mu- sic and I write the|songs|I write the songs that make the|whole world sing|
+w: through your * eyes * * * I'm|young again even though I'm very|old.|||
+"C7" E2 EF FGGC |"F" _BAFB A4 |"Dm" F2 FG GAAF |"G7" G2 F2 G4 |"C7" G2 GF GFFF |"F" F4"Bbm" z4 | %16
+w: I write the songs of love and|spe- * cial things *|I write the songs that make the|young girls cry|I write the songs I write the|songs.|
+w: ||||||
+"F" z8 :|"F" F4 z2 FF |"E7" EEEE EB,EB, |"Em7" (3EEB, EB,"E7" E2 z2 |"A" EE^FA BAAA | %21
+w: |songs. Oh my|mu- sic makes you dance and gives you|spir- it- to take a chance|And I wrote some rock n' roll so|
+w: |||||
+"F#m" ^f^c c2"A" eB c2 |"G7" GGGD GGGD | GGGD G2 (3GAc |"C" (3GAc (3GAc (3GAc cc | dc c2 dc e2 | %26
+w: you * can move * *|Mu- sic fills your heart well thats a|real fine place to start its from me|its for you its from you its for me its a|world * wide sym- pho- ny|
+w: |||||
+"G" G2 GA ABBG |"Am7" B3 c c4 |"D7" ^F2 FG GAAD |"G" cBGc B4 |"Em" G2 GA ABBG |"A7" A2 G2 A4 | %32
+w: I write the songs that make the|whole world sing|i write the songs of love and|spec- * cial things *|I write the songs that make the|young girls cry|
+w: ||||||
+"Am7" G2 AG AGGG |"Em7" G8 | z4"A7" z2 EG |"Am7" BG A2 GG G2 |"G" d4 z4 |] %37
+w: I write the songs, I write the|songs|I am|mu- sic and I write the|songs|
+w: |||||
+

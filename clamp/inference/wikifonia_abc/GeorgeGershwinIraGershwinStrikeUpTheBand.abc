@@ -1,0 +1,33 @@
+X:1
+T:Strike Up The Band
+T:Strike Up The Band!
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z"F7" F/>=E/ |:"Bb" F G G2- |"Bb6" G3"Bb" F/>=E/ |"Bdim" F _A A2- | A3 F/>=E/ |"F7" F =A A2- | %6
+w: Let the|drums roll out!|_ Let the|trum- pet call!|_ While the|peo- ple shout!|
+w: ||||||
+ A2 F/ G F/ |"Bb" B4- |"Ab" B3"Bb7" B/>=A/ |"Cm" B c c2- | c3"Eb" B/>A/ |"Edim" B _d d2- | %12
+w: _ Strike up the|band!|_ Hear the|cym- bals ring!|_ Call- ing|one and all|
+w: ||||||
+ d3 B/>A/ |"Bb7" B =d d2- | d2 B/ c B/ |"Eb" e4- | e2"Ebm6" f e |"Bb" d d/B/"Bb6" d d/B/ | %18
+w: _ To the|mar- tial swing|_ Stike up the|band!|_ There is|work to be done, to be|
+w: ||||* Yank- ee|Doo, Doo- dle- oo, Doo- dle-|
+"Bb" d2"Eb" e"Ebmaj7" d |"Am" c c/A/"D9" c c/A/ |"Am" c2"D7" d c |"Gm" B B/G/"C9" B B/G/ | %22
+w: done! There's a|war to be won, to be|won! Come, you|son- of- a, son- of- a|
+w: oo, We'll come|thru, Doo- dle- oo, Doo- dle-|oo, For the|red, white, and blue, Doo- dle-|
+"Gm" B2"C7" B d |"F7" f4- | f2- f/ z/ F/>=E/ |"Bb" F G G2- | G3 d/>^c/ |"Dm7" d f"G9" f2- | %28
+w: gun! Take your|stand!|_ _ Fall in|line, yea bo!|_ Come a-|long let's go!|
+w: oo, Lend a|hand!|_ _ With our|flag un- furled,|_ For a|brave new world!|
+ f3"G7" z |"Cm7" e2"Gm" d"Eb6" c |"Gm6" g"F7sus4" f2"F7" d |"Bb""G" B4- |"C" B z"F7" z F/>=E/ :| %33
+w: _|Hey! Lead- er!|Strike up the|band!|* Let the|
+w: _|Hey! Lead- er|Strike up the|||
+"Bb" B4- | B2- B z |] %35
+w: band!|_ _|
+w: band!|_ _|
+

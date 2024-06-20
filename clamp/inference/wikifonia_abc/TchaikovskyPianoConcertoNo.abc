@@ -1,0 +1,25 @@
+X:1
+T:Piano Concerto No.1 in Bb Minor, Op. 23
+T:Piano Concerto No.1 in Bb Minor, Op. 23
+T:Tchaikovsky
+T:Transcription:  R. Miller 
+C:Tchaikovsky
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Db
+V:1 treble 
+%%MIDI program 24
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z A FE |"Db" D2"^First Movement, Opening" f3 e | g3 f cd |"Gb" B2 e3 f | B2 ec B z | %5
+"Ab" A2 e3 f | a3 e ef |"Db" a3 f ba |"Ab" e2- (3ecB (3AGE |"Db" D2 f3 e | g3 f cd |"Gb6" B2 e3 f | %12
+"Ebm6" a3 g fg |"F" fc"Bb7" f=d"Eb" eB |"Ab7" ec"Db" dF"Gbm7b5" Bc |"Db" AB cd ef | %16
+"Eb" ef"Ab7" B3 c |"Db" d z D2 A2 | D2 z2 z2 |] %19
+ z2 z"^This version is the same as 1st pg except that it is one octave lower." A"^Piano Concerto No.1 in Bb Minor, Op. 23" FE | %20
+"Db" D2 F3 E | G3 F CD |"Gb" B,2 E3 F | B,2 EC B, z |"Ab" A,2 E3 F | A3 E EF |"Db" A3 F BA | %27
+"Ab" E2- (3EcB (3AGE |"Db" D2 F3 E | G3 F CD |"Gb6" B,2 E3 F |"Ebm6" A3 G FG | %32
+"F" FC"Bb7" F=D"Eb" EB, |"Ab7" EC"Db" DF,"Gbm7b5" B,C |"Db" A,B, CD EF |"Eb" EF"Ab7" B,3 C | %36
+"Db" D z D2 A2 | D2 z2 z2 |] %38
+

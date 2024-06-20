@@ -1,0 +1,28 @@
+X:1
+T:You Tell Me Your Dream
+T:You Tell Me Your Dream
+C:Charles N. Daniels
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" B D"G+" ^D |"C" E G"Cm" A |"G" B3 |"E7" d3 |"A7" B A E |"D7" F G A |"G""Gm" D3- |"D7" D z D | %8
+w: Two lit- tle|child- ren on|morn-|ing,|af- ter their|break- fast was|o'er.|_ Were|
+"G" B D"G+" ^D |"C" E G"Cm" A |"G" B3 |"E7" G2 G |"A7" B A G | E G B |"D7" A3- | A z D | %16
+w: laugh- ing and|play- ing to-|geth-|er a-|lone on the|din- ing room|floor.|_ The|
+"G" B D"G+" ^D |"C" E G A |"G" B3 |"G7" G2 G/G/ |"C" c c c | c G"F#m7b5" A |"B" B3- |"B7" B2 B | %24
+w: girl of a|dream hnad been|talk-|ing, but re-|fused with a|toss of her|head|_ _|
+"E7b9" d c B | B c B |"Am" A3 | E2 E |"A7" E E F | G"Adim" ^D"A" E |"D7sus4" A3- |"D7" A z z |: %32
+w: To tell it|all to her|play-|mate, *|un- til he|coax- ing- ly|said.|_|
+"G" D3 |"C#dim" ^C2 E |"G" D3 | B3 |"Am" A3 |"E7" ^G2"Bmaj7" A |"Am" E3- | E3 |"D7" F3 | %41
+w: You|had a|dream,|Well|I|had one|too.|_|I|
+"Ddim" ^E2"D7" F | B3 | A2 F |"Am7" E3 |"Cm" _E3 |"D7" D3- | D3 |"G" D3 |"C#dim" ^C2 E |"G" D3 | %51
+w: know mine's|best,|'Cause it|was|of|you.|_|Come|sweet- heart|tell|
+ B3 |"Am" A3 |"E7" ^G2"Bm7" A |"Am" E3- | E3 |"C" G3 |"F#7" F2"C#dim" G |"G" d3 |"E7" B3 |"A7" A3 | %61
+w: me,|now|is the|time.|_|You|tell me|your|dream,|I'll|
+"D9" E"D7" F2 |"G""D#7" G3- |"C6" G2"D7" z :|"G""C#dim" G3- |"G" G2 z |] %66
+w: tell you|mine.||||
+

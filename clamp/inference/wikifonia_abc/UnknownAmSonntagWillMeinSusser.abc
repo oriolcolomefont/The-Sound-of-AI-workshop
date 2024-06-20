@@ -1,0 +1,24 @@
+X:1
+T:Am Sonntag Will Mein Susser
+T: Laukens Music Productions  
+T:Foxtrot
+T:AM SONNTAG WILL MEIN SUSSER
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ D2 ||"G" B B F G |"C" A A"D7" E F |"G" G G D2- | D D E D |"D7" F F D2- | D D E D |"G" G G D2 | %8
+"D7" z2 D2 |"G" B B F G |"C" A A"D7" E F |"G" G G D2- | D D E D |"D7" F F D2- | D D E D | %15
+"G" G4-"C" |"G" G G A B |"C" c3/2 G/ c2- | c E G c |"G" B3/2 G/ B2- | B D G B |"A7" A3/2 E/ A2- | %22
+ A E F G |"D7" A B c A | F z D2 |"G" B B F G |"C" A A"D7" E F |"G" G G D2- | D D E D | %29
+"D7" F F D2- | D D E D |"G" G4- | G z z2 |] %33
+

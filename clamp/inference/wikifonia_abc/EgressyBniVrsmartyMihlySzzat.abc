@@ -1,0 +1,19 @@
+X:1
+T:Szózat
+C:Egressy Béni
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ G<G c/(G^G/) | A/(AB/) c<A | G G2 (A/>G/) | (G/>F/)(F/>E/) E2 | E<E e<d | %5
+w: Ha- zád- nak ren _|dü- let _ le- nül|légy hí- ve _|ó, * ma _ gyar!|Böl- csőd az~s maj-|
+ (d/>c/)(c/>B/) (d/>c/)c | d/ z/ (D B>)A | (A/>G/)(G/>^F/) G2 | G<G F<F | (_E/>D/)(E/>F/) (E>D) | %10
+w: dan * sí _ rod * is,|mely á _ pol,~s|el _ ta _ kar.|A nagy- vi- lá-|gon * e _ kí _|
+ D4 | G2 F2 | (_E/>D/)(E/>F/) (E>D) | D4 |: G<G A<B | c<c d<e | (f/>e/)(e/>d/) (d/>c/)c | %17
+w: vül|nin- csen|szá _ mod _ ra *|hely.|Áld jon vagy ver-|jen sors ke- ze,|itt * él _ ned, * él-|
+ e<e (d>c) | c4 :| %19
+w: ned, hal- nod _|kell!|
+

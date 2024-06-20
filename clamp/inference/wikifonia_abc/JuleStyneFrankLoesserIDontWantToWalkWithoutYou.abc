@@ -1,0 +1,26 @@
+X:1
+T:I Don't Want To Walk Without You
+T:I Don't Want To Walk Without You
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Fm" c2- c/>=B/c/>^c/ | d =c A F |"F7" C4 |"Bb7" D4 |"Eb" B2- B/>=A/B/>=B/ | c _B G E | %6
+w: I _ don't want to|walk with- out you,|Ba-|by;|Walk _ with- out my|arms a- bout you,|
+"Gm7b5" _D4 |"C7" C4 |"F9" z G G G |"Fm7" G E/F/-"Bb7" F/E/ F |"Eb" G4- | G4 |"Gm" z B B B | %13
+w: Ba-|by|I thought the|day you left _ me be-|hind,|_|I'd tak a|
+"A7b9" B G/"D7"=A/- A/G/ A |"Gm" B/ c d/-"Ebm" d3/2 e/ |"F7" f/ e d/-"Bb7" d"Edim" _d | %16
+w: stroll and get _ you right|off my mind. _ But|now I find _ that|
+"Fm" c2- c/>=B/c/>^c/ | d =c A F |"F7" C4 |"Bb7" D4 |"Eb" B2- B/>=A/B/>=B/ | c _B G E | %22
+w: I _ don't want to|walk with- out the|sun-|shine;|Why'd _ you have to|turn off all that|
+"Gm7b5" _D4 |"C7" C4 |"F9" z G G G |"Fm7" G E/F/-"Bb7" F/E/ F |"Eb" G"Bb7" A"Eb" B"F#dim" c | %27
+w: sun-|shine?|Oh, ba- by,|please come back _ or you'll|break my heart for|
+"Gm7""C9" d3"C7b9" _d |"Fm" c2- c/>=B/c/>^c/ | d =c A F |"Fm7" c2"Bb7" D2 |1"Eb" E2"Bb7" z2 :|2 %32
+w: me, 'Cause|I _ don't want to|walk with- out you,|No sir-|ee.|
+"Eb" E3 z |] %33
+w: ee|
+

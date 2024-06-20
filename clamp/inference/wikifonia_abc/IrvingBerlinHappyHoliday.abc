@@ -1,0 +1,26 @@
+X:1
+T:Happy Holiday
+T:Happy Holiday
+C:Irving  Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 BB |"Eb6" cc"Fm7" c6- |"Gm7" c6"C7" BB |"Fm7" cc"Bb9" c6- |"Fm7" c6"Bb7" BB | %5
+w: Hap- py|Hol- i- day,|_ hap- py|hol- i- day|_ while the|
+"Fm7" dd c4"Bb9" d2 |"Eb6" e2"C7b5" B4 GG |"Fm7" BB A4"Bb7" F2 |"Ebmaj7" G6"Bb13" BB | %9
+w: mer- ry bells keep|ring- ing, may your|ev- 'ry wish come|true. Hap- py|
+"Eb6" cc"Fm7" c6- |"Gm7" c6"C7" BB |"Fm7" cc"Bb9" c6- |"Fm7" c6"Bb7" BB |"Fm7" dd"Bb9" c4 d2 | %14
+w: hol- i- day,|* hap- py|hol- i- day,|_ May the|cal- en- dar keep|
+"Eb6" e2"C7b5" B4 GG |"Fm7" BB"Bb7" A4 F2 |"Eb6" E6"F7" FF |[K:Bb]"Bb6" GG"Eb7" G6- | %18
+w: bring- ing hap- py|hol- i- days to|you. Hap- py|hol- i- day|
+"Dm7" G6"G+7" FF |"Cm7" GG"F9" G6- |"Cm7" G6"F7" FF |"Cm7" AA G4"F9" A2 |"Bb6" B2"G7b9" F4 DD | %23
+w: _ hap- py|hol- i- day,|_ while the|mer- ry bells keep|ring- ing, may your|
+"Cm7" FF"F7" E4 C2 |"Bbmaj7" D6"F13" FF |"Bb6" GG"Eb7" G6- |"Dm7" G6"G+7" FF |"Cm7" GG"F9" G6- | %28
+w: ev- 'ry wish come|true. Hap- py|hol- i- day,|_ hap- py|hol- i- day,|
+"Cm7" G6"F7" FF |"Cm7" AA G4"F9" A2 |"Bb6" B2"G7b9" F4 DD |"Cm7" FF"F7" E4 C2 |"^Bb6" B,6 z2 |] %33
+w: _ May the|cal- en- dar keep|bring- ing hap- py|hol- i- days to|you.|
+

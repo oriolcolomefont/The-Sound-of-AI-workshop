@@ -1,0 +1,49 @@
+X:1
+T:Because We're Kids
+T:Because We're Kids
+T:Dr. Seuss and Frederick Hollander
+C:Federick Hollander
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 bass 
+%%MIDI program 40
+V:1
+"E9" z"F9" z2 z z F_EC | B,2 =B,C A,F,_E,F, |"D9" z"Eb9" z2 B, E_DB,_A, | %3
+w: |||
+{/^F,} G,_E, (3D,B,,_D,- D,4 |"C9" z"Db9" z2 _E, F,_A,B,A, | [_D,_D]2 B,_A, z2"C9" z2 | z8 | %7
+w: ||||
+"Bbmaj7/C" z4[K:treble]"C13" F A2 c |:"F""^A" G2 FF-"Gm7" FC"Gm7/C"Ac | %9
+w: Now just be-|cause we're kids * be- cause we're|
+"F" G F2 F-"Gm7" FF"Gm7/C"Ac |"Cm7" f f3-"F7" f_ee_d- |"Db" d4 z _D (3:2:2F _A2 | %12
+w: sort of small * be- cause we're|clo- ser * to the ground|* and you are|
+"Abm7" (3:2:2_d d2- d2-"Db7" d_ccB- |"Gbmaj7" B4 z _D_GB |"F" A2 z2 z CFA |"Fdim" _A2 z2 z _CFA | %16
+w: big- ger * * by the pound|* you have no|right you have no|right to push and|
+"Gm7" G2 G2"Gm7/C" (3GFE"C7b9" G"F"F- | F4"Gm7/C" z CAc ||"F""^A2" G2 FF-"Gm7" FC"Gm7/C"Ac | %19
+w: shove us lit- tle kids a- round|* now just be-|cause you're throat * has got a|
+"F" G F2 F-"Gm7" FF"Gm7/C"Ac |"Cm7" f2 f2"F7" _e e2 _d | d2"Db" z2 z _D (3F_A[_dd-] | %22
+w: dee- per voice * and lots of|wind to blow it *|* at lit- tle kids|
+"Abm7" d _d3"Db7" _c2 c2 |"Gbmaj7" B2 z2 z _D_GB |"F" A2 z2 z CFA |"Fdim" _A2 z2 z _CFA | %26
+w: * who don't dare|shout you have no|right you have no|right to boss and|
+"Gm7" G2 G2"Gm7/C" (3GFE"C7b9" G"F"F- | F2 z2 z"E7#9" G2 F ||"Am""^B" E^F^GA =Bcdc | %29
+w: beat us lit- tle kids a- round|* just be-|cause you've whis- kers on your face to|
+"Dm" e3 d (3c=BA ^Gd- |"F6" d2 c=B- (3:2:2B A2 ^GF |"E7" E4"F7" z"E7" G2"E7#9" F | %32
+w: shave you tret us like a slave|* so what? * it's on- ly|hair just be-|
+"Am" E^F^GA (3=Bcd ce- |"Dm" e d2 c =BAGd- |"F6" d2 c=B-"G7" BA (3:2:2G F2 |"Gm7" G4"C7b9" z CAc || %36
+w: cause you wear your wal- let near your heart|* you think you're twice as smart|* you know * it is- n't|fair but we'll grow|
+"F""^A3" G2 FF-"Gm7" FC"Gm7/C"Ac |"F" G2 GF-"Gm7" FF"Gm/C"Ac |"Cm" f2 f2"F7" _e2 e_d | %39
+w: up some- day * and when we|do I pray * we won't just|grow in size and sound|
+"Db" d4 z _D_GB |"Abm7" (3:2:2_d d2- d2"Db7" _c2 cB- |"Gbmaj7" B4 z _D_GB | %42
+w: * and just be|big- ger * by the pound|* I'd hate to|
+"F" A2 z2 z C (3:2:2F A2 |"Fdim" _A2 z2 z _C"C13"FA |1"Gm7" G2"Gm7/C" G2 (3GFG- (3GGF- || %45
+w: grow like some I|know who push and|shove the lit- tle kids * a- round|
+"F" F4"Bbmaj7/C" z4 :|2"Gm7" G2 G2"Gm7/C" (3GFE GF- ||"F" F2 z2 z"Bbm6" G2 F | %48
+w: |shove the lit- tle kids a- round|* just be-|
+"C7b9" E2 G2"F" F2 z2[K:bass] ||[K:bass]"E9" z4"F9" z F_EC | B,,2 B,,=B,, C, F,,3[K:treble] | %51
+w: cause we're kids|||
+"D9" z2"Eb9" (3FB_d (3e_gd B_E | [_Ac][GB] (3_EB,_D- D4 |"C9" z2"Db9" z _e f_aba | %54
+w: |||
+ _d'2 b_a z a"C9" z2 | z8 |{B=B} c"^N.C." z [E,e][F,f] z4 |] %57
+w: |||
+

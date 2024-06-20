@@ -1,0 +1,20 @@
+X:1
+T:Confirmation
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="[Piano]"
+%%MIDI program 0
+V:1
+ A"Fmaj7" c2A BA (3EF^F | G"^Em7(b5)"dBG"A7" A ^C2G |"Dm7"zFz2"G7"z2zA | G"Cm7"BAG"F7" z F2B | %4
+"Bb7" =B_B_AF BA- A2 |z"Am7"c BG ^F"D7"AD=B- |"G7" =B2 eAz2z_e/d/ |"Gm7" _dFGE"C7" z c3 || %8
+"Fmaj7" A2zG (3BA_A G=A | F/"^Em7(b5)"G/_E z2"A7" z ^C2G |z"Dm7"Fz2"G7"z2zA | %11
+ G"Cm7"BAG F"F7"_DFF- | F"Bb7"_ABF AB z2 |z"Am7"_E GB A"D7"^F z2 | G"Gm7"B (3A/B/A/ G c"C7"_A=AF | %15
+"F" z4 z d3 ||"Cm" c2z/G/_E/C/ =B G2G | (3BcB G_E _A"F7"_G=B,F |"Bb" AFAG- G2>G2 |z4z2zB | %20
+ _d/"Ebm7"B/_A/=A/ c/B/_G- G_AFE |"Ab7" _E_A A2 AA- A_G/=E/ |"Db" (3F/_A/c/ _e- ed/c/ _d/B/ z z2 | %23
+"Gm7"zG _DF"C7" _AEDC || z"Fmaj7" c3 BA (3EF^F | G"^Em7(b5)"dBG"A7" A ^C2G |z"Dm7"Fz2"G7"z2zA | %27
+ G"Cm7"BAG"F7" z F2B |"Bb7" =B_B_AF BA- A2 |z"Am7"c B_A =A"D7"^CDF- |"Gm7" FDFA"C7"zF- FD | %31
+"F" F2 z2 z4 || %32
+

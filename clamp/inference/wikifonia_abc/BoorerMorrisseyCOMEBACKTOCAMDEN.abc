@@ -1,0 +1,38 @@
+X:1
+T:COME BACK TO CAMDEN
+C:Boorer
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" z2 z z GG |"F" cAG AGE |"C" GE-E z GG |"F" cAG AGF |"C" G E2 DE-D |"F" E z2 DED |"C" E2 z EED | %7
+w: There is|some thing I want ed to|tell you _ its so|fun ny you'll kill your self|laugh ing but then _|I, I look a|round and I re|
+"Am" EED A,B,C |"D9" E2 z z2 D |"Fm" C2 z z2 ^G, |"Em" G,EE- E3 |"F7" z2 z2 z2 |"C" z E G2 G2 | %13
+w: mem ber that I am a|lone a|lone for|ev er more _||The tile yard|
+"F" c2 z AGF |"C" GE z2 GG |"F" cAG AGF |"C" FE z2 ED |"F" E z z DED |"C" E2 z edc |"Am" ABc edc | %20
+w: all a long the|rail ings up a|dis col or ed dark brown|stair case here you'll|find des pair and|I'm call ing to|you what is left of my|
+"D9" e2 z2 z d |"Fm" c2 z2 z ^G |"Em" G[^Ge][=Ge-] [Ge]3 |"Eb7" z2 z2 z2 |[K:Ab]"Ab" z2 z2 AA | %25
+w: heart my|heart for|ev er more _||Drink ing|
+"Db" AEF EED |"Ab" E2 z2 EE |"Db" AFF FED |"Ab" DC z2 CB, |"Db" C z2 B,CB, |"Ab" CzA ABc | %31
+w: tea with the taste of The|Thames Sul len|ly on a chair on the|pave ment here you'll|find my thoughts and|I And here is the|
+"Fm" cBA FGA |"Bb9" c2- F2 z B |"Dbm" A=E- E2 z E |"Cm" Ecc- c3 |"E7" z2 z2 z2 |[K:A]"A" z2 z EEE | %37
+w: ve ry last plea from my|heart _ my|heart _ _ for|ev er more _||Where ta xi|
+"D" AA-F FED |"A" EC-C z EE |"D" AFF FED |"A" C z2 CB,C- |"Dmaj9" CzB, CB,C- |"A" CzA ABc | %43
+w: driv ers _ nev er stop|talk ing _ Un der|slate grey Vic tor i an|sky here you'll find|_ des pair and I|_ and here I am|
+"F#m" cBA A2 F |"B" c- F2 z2 B- |"Dm" A2- =F2 z E |"Db" E=FE- E3 |"G7" z2 z2 z2 | %48
+w: ev ry last inch is|yours _ is|yours _ for|ev er more _||
+[K:C]"C" z2 z2 z G |"F" cAG AGF |"C" G-E z2 GG |"F" cAG GAG |"C" G-E z DED |"F" E-DE z2 D | %54
+w: Your|leg came to rest a gainst|mine _ then you|lounged with knees up and a|part _ and me and|my _ heart we|
+"C" E4 EE |"F" E3 z2 E |"G+" EGE- E3 |"E7" z2 z2 z2 |[K:A]"A" z2 z EEE |"D" AA-F FED | %60
+w: knew we just|knew for|ev er more _||Where ta xi|driv ers _ nev er stop|
+"A" EC-C z EE |"D" AFF FED |"A" C z2 CB,C- |"Dmaj9" CzB, CB,C- |"A" Czc cBA |"F#m" c2 F2 z2 | %66
+w: talk ing _ Un der|slate grey Vic tor i an|sky here you'll find|_ my heart and I|_ and still we say|Come Back|
+"B" c2 F2 z B |"Dm" A2 =F2 z z |"E+" c3- e3 |"A" dc- c4 |"Dmaj7" c3- e3 |"A" dc- c4 | %72
+w: Come Back to|Cam den|I'll _|be good _|I'll _|be good _|
+"Dmaj7" c3- e3 |"A" dc- c4 |] %74
+w: I'll _|be good _|
+

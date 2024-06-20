@@ -1,0 +1,24 @@
+X:1
+T:Fascination
+T:FASCINATION
+T:Fidenco Dante Marchetti / Manning 1904
+C:Fidenco Dante Marchetti
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"^A" B,CEG ||"C" c6 |"Cmaj7" B4 c2 |"Cmaj7" B6- | B2 B,CEG |"C/E" c2 B2 c2 |"B7/D#" B2 A3 B | %7
+w: It was Fas- ci-|na-|tion I|know,|_ and it might have|end- ed right|then at the|
+"Dm""A" A6- |"Dm" A2 ^CDFA ||"Dm" d6- | d2 ^CDFA |"Dm7" c4- c2- | c2 ^CDFA |"Dm" d2 c2 B2 | %14
+w: start,|_ Just a pass- ing|glance,|_ just a brief ro-|mance, _|_ and I might have|gone on my|
+ A2 F3 D |"Dm7b5" C4 B,2- |"G7" B, z B,CEG ||"^A""C" c6 |"Cmaj7" B4 c2 |"Cmaj7" B6- | B2 B,CEG | %21
+w: way emp- ty|heart- ed|. It ws fas- ci-|na-|tion I|know|. see- ing you a-|
+"C/E" c2 B2 c2 |"B7/D#" B2 A3 B |"Dm""A" A6- |"Dm" A2 ^CDFA ||"Dm" f2 e2 d2 |"Dm7" c2 A3 F | %27
+w: lonr with the|moon- light a-|bove|, then I touched your|hand and next|mo- ment I|
+"Dm9b5" E4 D2 |"G7" D2 ^CDEF |"Dm" A6 |"G7" B6 |"C" c6- | c2 z2 z2 |] %33
+w: kissed you|, Fas- ci- na- tion|turned|to|love|.|
+

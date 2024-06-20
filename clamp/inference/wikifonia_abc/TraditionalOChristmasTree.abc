@@ -1,0 +1,21 @@
+X:1
+T:O Christmas Tree
+C:Traditional
+Z:Public Domain
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ C2 |"F" FF F2"C7" G2 |"F" AA A3 A |"Gm" GA"C7" B2 E2 |"F" G2 F2 C2 | FF F2"C7" G2 |"F" AA A3 A | %7
+w: O|Christ- mas tree, O|Christ- mas tree, Thou|tree most fair and|love- ly! O|Christ- mas tree, O|Christ- mas tree! Thou|
+"Gm" GA"C7" B2 E2 |"F" G2 F3 c | cA d3 c |"Gm" cB B3 B |"C7" BG c3 B |"F" BA A2 C2 | FF F2"C7" G2 | %14
+w: tree most fair and|love- ly! The|sight of thee at|Christ- mas tide, Spreads|hope and glad- ness|far and wide. O|Christ- mas tree, O|
+"F" AA A3 A |"Gm" GA"C7" B2 E2 |"F" G2 F2 C2 | FF F2"C7" G2 |"F" AA A3 A |"Gm" GA"C7" B2 E2 | %20
+w: christ- mas tree, Thou|tree and fair and|love- ly! O|Christ- mas tree, O|Christ- mas tree, Thou|hast a won- drous|
+"F" G2 F2 C2 | FF F2"C7" G2 |"F" AA A3 A |"Gm" GA"C7" B2 E2 |"F" G2 F3 c | cA d3 c |"Gm" cB B3 B | %27
+w: mes- sage; O|Christ- mas tree, O|Christ- mas tree, Thou|hast a won- drous|mes- sage: Thou|dost pro- claim the|Sav- ior's birth, Good|
+"C7" BG c3 B |"F" BA A2 C2 | FF F2"C7" G2 |"F" AA"F+" A3 A |"Gm" GA"Cb7" B2 E2 |"F" G2 F2 z2 |] %33
+w: will to men and|peace on earth, O|Christ- mas tree, O|Christ- mas tree! Thou|hast a won- drous|mes- sage.-|
+

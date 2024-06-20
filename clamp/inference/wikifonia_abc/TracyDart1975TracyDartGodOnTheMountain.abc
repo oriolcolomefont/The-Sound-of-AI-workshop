@@ -1,0 +1,41 @@
+X:1
+T:God On The Mountain
+T:God On The Mountain
+T:Tracy Dart, 1975
+T:Larry Johnson, 2012
+C:Tracy Dart 1975
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z z/"Bb" F/"Bb/D" B"F" c |"Bb" d2 B2 |"Eb" z e/e/ (3e e f |"Bb" d2 B2 | z z/ B/ d"Eb/Bb" e | %5
+w: * Life is|ea sy|when you're up on the|moun tain|and you've got|
+"F13" d3/2"F7" c/ c2 | z z/ c/ e d/c/ |"Bb" d4 | z z/ F/ B"Cm/Bb" c |"Bb" d2 B2 | %10
+w: peace of mind|like you've ne ver|known|but when tbings|change and|
+"Eb" z z/ e/ (3e e f |"Bb" d2 B2 | z2 d3/2"Eb/Bb" e/ |"C11" d2"Cm" c2 |"F7" z c/d/ e/ d c/ | %15
+w: you're down in the|val ley|Don't lose|faith for|* you're nev er a|
+"Bb" B4- | B B/B/ (3d e f ||"Eb" g2 e2 | z g/g/ (3g f e |"Bb" f2 B2 | z z/ B/ d f |"F7" c4- | %22
+w: lone|_ And the God of the|moun tain|is still God in the|val ley|when things go|wrong|
+ c z (3e d c |"Bb" d4- | d/z/B/B/ (3d e f |"Eb" g2 e2 | z g/g/ (3g f e |"Bb" f2 B2 | %28
+w: _ He'll make them|right|_ and the God in the|good times|is still God in the|bad times|
+ z3/2 d/ (3d e d |"F13" d2-"F7" c2- | c c/d/ (3e d c |"Bb" B4 | z z/"Bb" F/"Bb/D" B"F" c | %33
+w: The God of the|day _|_ is still God of the|night|We talk of|
+"Bb" d2 B2 |"Eb" z e/e/ (3e e f |"Bb" d2 B2 | z z/ B/ d"Eb/Bb" e |"F13" d3/2"F7" c/ c2 | %38
+w: faith when|we're _ up on the|moun tain|but talk comes|ea sy _|
+ z z/ c/ e d/c/ |"Bb" d4 | z z/ F/ B"Cm/Bb" c |"Bb" d2 B2 |"Eb" z z/ e/ (3e e f |"Bb" d2 B2 | %44
+w: when life's at it's|best|but in the|val ley|of trials and temp|ta tions|
+ z2 d3/2"Eb/Bb" e/ |"C11" d2"Cm" c2 |"F7" z c/d/ e/ d c/ |"Bb" B4- | B B/B/ (3d e f ||"Eb" g2 e2 | %50
+w: that's when|faith is|real ly put to the|test|_ and the God of the|moun tain|
+ z g/g/ (3g f e |"Bb" f2 B2 | z z/ B/ d f |"F7" c4- | c z (3e d c |"Bb" d4- | d/z/B/B/ (3d e f | %57
+w: is still God in the|val ley|when things go|wrong|_ He'll make them|right|_ and the God in the|
+"Eb" g2 e2 | z g/g/ (3g f e |"Bb" f2 B2 | z3/2 d/ (3d e d |"F13" d2-"F7" c2- | c c/d/ (3e d c | %63
+w: good times|is still God in the|bad times|The God of the|day _|_ is still God of the|
+"Bb" B4 | z/ B/B/ (3d e f z/ |"Eb" g2 e2 | z g/g/ (3g f e |"Bb" f2 B2 | z3/2 d/ (3d e d | %69
+w: night|and the God in the|good times|is still God in the|bad times|The God of the|
+"F13" d2-"F7" c2- | c c/d/ (3e d c |"Bb" B4 |] %72
+w: day _|_ is still God of the|night|
+

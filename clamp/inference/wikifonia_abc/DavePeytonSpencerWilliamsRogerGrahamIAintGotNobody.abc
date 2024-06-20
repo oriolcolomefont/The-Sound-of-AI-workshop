@@ -1,0 +1,34 @@
+X:1
+T:I Ain't Got Nobody
+T:I Ain't Got Nobody
+C:Dave Peyton, Spencer Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" B2 B2"G+" B B3 |"G6" B B2 B-"G+" B3 ^D |"G" BA"Em"GE"Am7" G"D7" A3 |"G" G6"B7" z A | %4
+w: There's a say- ing|go- ing round, _ and|I be- gin to think it's|true: It's|
+"Em" B2 B2"B7/F#" B3 B |"Em/G" B B2 B-"Em7" B3 E |"A7" B A2 A- A2"A7b5" BA- |"D7" A6"D+7" z2 | %8
+w: aw- ful hard to|love some- one _ when|they don't care _ 'bout you.|_|
+"G" B2 B2 B"G+" B3 |"G6" B B2 B-"G+" B3 ^D |"G" BA"Em"GE"Am7" G"D7" A3 |"G" G6"G#dim" z B | %12
+w: Once I had a|lov- in' gal, _ as|good as an- y in this|town; But|
+"D/A" A2 B^c-"G#dim" c3 B |"D/A" B2 A4"D#dim" FG |"A7/E" A2 A2"A7b5/Eb" A A2 A- | %15
+w: now I'm sad _ and|lone- ly, for she's|gone and turned me down.|
+"D7" A4 z2"D+7" D2 |:"G7" d8- | d2"F#7" ^c2 =c2"E7" BB- |"A9" B8 |"A7" A4 z G"A7b5/Eb" A2 | %20
+w: _ Now|I|_ ain't got no- bo-||dy, And there's|
+"G/D" B2 A4"Em" E2 |"Am7" G4"D7b9" A4 |"G""G7""C""Cm" G8- |"G""Gdim""Am7" G6"D+7" z2 |"G7" d8- | %25
+w: no- bod- y|cares for|me.|_|I'm|
+ d2"F#7" ^c2"F7" =c2"E7" BB- |"A9" B8 |"A7" A6 z2 | ^c2 c2 B A3 | ^c^BcB c A3 |"D""Em7""Fdim" d8- | %31
+w: _ so sad and lone-||ly;|Won't some bod- y|come and take a chance with|me?|
+"D7/F#" d6"D7" z2 |"G7" z2 e2 e3 d | e2 d2 e B3 |"C" z2 d4 ^c2 | =c8 |"E7" z2 c4 B2 | %37
+w: _|I'll sing sweet|love songs, hon- ey,|all the|time,|If you'll|
+ c B2 c- c2 B2 |"A9" z2 B2 B2"C#dim" _BA- |"D9" A4"D7b9" z2"D+7" D2 |"G7" d8- | %41
+w: come and be _ my|sweet ba- by mine.|_ 'Cos|I|
+ d2"F#7" ^c2"F7" =c2"E7" BB- |"A9" B8 |"A7" A4 z G"A7b5/Eb" A2 |"G/D" B2 A4"Em" E2 | %45
+w: _ ain't got no- bod-||y, And there's|no- bod- y|
+"Am7" G4"D7b9" A4 |1"G""G7" G8- |"C6" G4"Cm6" z2"D+7" D2 :|2"G""Am7/G""Gdim" G8- |"G" G6 z2 |] %50
+w: cares for|me.|_ No,|me.|_|
+

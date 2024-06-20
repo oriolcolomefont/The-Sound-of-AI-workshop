@@ -1,0 +1,43 @@
+X:1
+T:I Say A Little Prayer
+T:I Say A Little Prayer
+T:Burt Bacharach, Hal David
+C:Burt Bacharach, Hal David
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 13
+V:1
+"Fm" z2 A,A,- A,B, C2 |"Bbm7" D2 A6 | z2 AA- AB c2 |"Eb" BAFE"Abmaj7" F2 A2- |[M:2/4] A2 z E | %5
+w: The mo- * ment I|wake up|Be- fore * I put|on * my * make up|* I|
+w: I ran * for the|bus dear|While ri- * ding I|think * of * us dear|* I|
+[M:4/4]"Dbmaj7" FFFF F B2 G- |"C7" G8 |"Fm" z2 A,A,- A,B, C2 |"Bbm7" D2 A6 | z2 AA- AB c2 | %10
+w: say a litt- le prayer for you||While comb- * ing my|head now|And won- * dering what|
+w: say a litt- le prayer for you||At work * I just|take time|And all * through my|
+"Eb" BAFE"Abmaj7" B2 A2- |[M:2/4] A2 z E |[M:4/4]"Dbmaj7" FFFF F B2 G- |"C7" G4- G3 G || %14
+w: dress * to * wear, now,|* I|say a litt- le prayer for you|* * For-|
+w: coff- * ee * Break- time|* I|say a litt- le prayer for you||
+"Db" A A2 A"Eb" B B2 B |[M:3/4]"Cm7" BBe"Fm7"c- cB |[M:4/4] c2 c2"Ebm7" d"Ab"c-c"Gb/Ab"B | %17
+w: e- ver, for- e- ver, you'll|stay in my heart * and|I will love you * For-|
+w: |||
+"Db" A A2 A"Eb" B B2 B |[M:3/4]"Cm7" BBe"Fm7"c- cB | %19
+w: e- ver and e- ver, we|ne- ver will part * Oh,|
+w: ||
+[M:4/4]"Gb" d2"Ab" c2"Gb/Ab" B"Ab" c2"Gb/Ab" A |"Db" A A2 A"Eb" B B2 B | %21
+w: I will love you To-|ge- ther, To- ge- ther, that's|
+w: ||
+[M:3/4]"Cm7" BBe"Fm7"c- cB |[M:4/4] c2 c2"Ebm7" d"Ab" c2"Gb/Ab" B |"Db" A A2 A"Eb" B A2 B | %24
+w: how it must be * To|live with- out you Would|on- ly be heart- break for|
+w: |||
+"C" c8- | c4 z4 :|"Fm" z4 A,B, C2 |"Bbm7" D2 A6 | z2 AA- AB c2 |"Eb7" c2 d6- | d4 B4 |"Abmaj7" c8 | %32
+w: me||Dar- ling be-|lieve me,|For me * there is|no one|* but|you|
+w: ||||||||
+ z3 A-"Eb9sus4" A F2 B |"Abmaj7" E8- | E3 B-"Eb9sus4" BAGF |"Abmaj7" e c3- c4- | %36
+w: Please, * love me|too|* I'm * in love with|you * *|
+w: ||||
+ c2 z2"Eb9sus4" (3A2 F2 B2 |"Abmaj7" E8- | E4"Eb9sus4" BAAF |"Abmaj7" e c3- c4- | c8 |] %41
+w: * Please, love me|too|* I'm in love with|you * *||
+w: |||||
+

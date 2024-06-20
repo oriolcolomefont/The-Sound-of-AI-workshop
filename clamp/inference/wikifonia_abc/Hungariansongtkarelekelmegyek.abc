@@ -1,0 +1,17 @@
+X:1
+T:Útkarelek, elmegyek
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|: z2 G,C |"C" EE EF | E2 DC |"F" A,A, A,C |"C" G,2 G,E |"G" D2 D2 | DD CA, |"C" C2 z2!fine! :| %8
+w: Út- ra|ke- lek, el- me-|gyek, vár- nak|rám a kék he-|gyek, vár re-|ám sok|is- me- ret- len|táj,|
+ z2 C2 |"F" F2 F2 | A2 A2 |"C" G2 z2 | z2 EF | G2 G2 | GA GE |"G" D2 z2!D.C.! |] %16
+w: Csak|fel, csak|fel, csak|fel,|hosz- szú|út- ra,|mesz- sze, mesz- sze|el,|
+

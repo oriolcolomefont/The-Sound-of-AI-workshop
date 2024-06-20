@@ -1,0 +1,17 @@
+X:1
+T:Ím néped
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z6 B,2 | G2 G2 F2 F2 | G2 GE- E4 | B, B,3 D2 D2 | E6 B,2 | G2 G2 F2 F2 | G2 GE- E4 | %7
+w: Ím|né- ped bort hoz|ke- nyér- rel, *|hí- vő ö- röm-|mel, Hogy|áldd meg bé- kéd|je- lé- vel, *|
+ B, B,3 D2 D2 | E6 z2 | E E3 E E3 | A A3 A A3 | B4 B3 A | B B3 (A>G E2) | G E3 G E3 | G E3 G E3 | %15
+w: vedd el, fo- gadd|el!|Di- csér~a vi- lág,|di- csér~a vi- lág,|mert áldá- sod|á- rasz- tod re- á,|Né- künk (né- künk)|a- dod (a- dod)|
+ B, B,3 D2 D2 | E6 z2 |] %17
+w: ét- kül ön- ma-|gad.|
+

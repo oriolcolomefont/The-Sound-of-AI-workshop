@@ -1,0 +1,63 @@
+X:1
+T:We Three Kings
+T:We Three Kings
+T:John H. Hopkins, 1857
+C:John Henry Hopkins 1857
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:Dmin
+V:1 treble nm="Voice"
+%%MIDI channel 3
+%%MIDI program 54
+V:1
+ z3 | z3 |"^Introduction""Dm" F2 F |"C" G2"F" A |"Bb" B2"F" A |"C" G2"F" A |"F" F2 F | F2 C | %8
+w: ||||||||
+"Bb" F2"Gm/Bb" D |"F" F3 ||"Dm" A2 G | F2 D |"A7" E"A+" F"A7" E |"Dm" D3 | A2 G | F2 D | %16
+w: ||We three|kings of|or i ent|are|bear ing|gifts we|
+"A7" E"A+" F"A7" E |"Dm" D3 |"Dm" F2 F |"C" G2 G |"F" A2 A |"F/A" c-"C7/G" B"F" A | %22
+w: tra vers a|far|field and|foun tain|moor and|moun _ tain|
+"Gm" G-"Gm9" A"Gm" G |"Dm/A" F2"A7" E |"Dm" D3 |"A" !fermata!E2-"A7" !fermata!G |"D" F2 F | F2 C | %28
+w: fol low ing|yon der|star|O _|star of|won der|
+"G" F2"Em/G" D |"D" F3 | F2 F | F2 C |"G" F2"Em/G" D |"D" F3 |"Bbm" F2 F |"A" G2"D" A | %36
+w: star of|night|star with|roy al|beau ty|bright|west ward|lead ing|
+"G" B2"D" A |"A" G2"D" A |"D" F2 F | F2 C |"G" F2"Em/G" D |"D" F3 |"Dm" A2 G | F2 D | %44
+w: sitll pro|ceed ing|guide us|to thy|per fect|light.|born a|king on|
+"A7" E"A+" F"A7" E |"Dm" D3 | A2 G | F2 D |"A7" E"A+" F"A7" E |"Dm" D3 |"Dm" F2 F |"C" G2 G | %52
+w: Beth le hem's|plain|gold I|bring to|crown Him a|gain|King for|ev er|
+"F" A2 A |"F/A" c-"C7/G" B"F" A |"Gm" G-"Gm9" A"Gm" G |"Dm/A" F2"A7" E |"Dm" D3 | %57
+w: ceas ing|nev _ er|o ver us|all to|reign.|
+"A" !fermata!E2-"A7" !fermata!G |"D" F2 F | F2 C |"G" F2"Em/G" D |"D" F3 | F2 F | F2 C | %64
+w: O _|star of|won der|star of|night|star with|roy al|
+"G" F2"Em/G" D |"D" F3 |"Bbm" F2 F |"A" G2"D" A |"G" B2"D" A |"A" G2"D" A |"D" F2 F | F2 C | %72
+w: beau ty|bright|west ward|lead ing|sitll pro|ceed ing|guide us|to thy|
+"G" F2"Em/G" D |"D" F3 |"Dm" A2 G | F2 D |"A7" E"A+" F"A7" E |"Dm" D3 | A2 G | F2 D | %80
+w: per fect|light.|frank in|sense to|of fer have|I|in sense|owns a|
+"A7" E"A+" F"A7" E |"Dm" D3 |"Dm" F2 F |"C" G2 G |"F" A2 A |"F/A" c-"C7/G" B"F" A | %86
+w: de i ty|night|prayer and|prais ing|all men|rai _ sing|
+"Gm" G-"Gm9" A"Gm" G |"Dm/A" F2"A7" E |"Dm" D3 |"A" !fermata!E2-"A7" !fermata!G |"D" F2 F | F2 C | %92
+w: wor ship Him|God on|high|O _|star of|won der|
+"G" F2"Em/G" D |"D" F3 | F2 F | F2 C |"G" F2"Em/G" D |"D" F3 |"Bbm" F2 F |"A" G2"D" A | %100
+w: star of|night|star with|roy al|beau ty|bright|west ward|lead ing|
+"G" B2"D" A |"A" G2"D" A |"D" F2 F | F2 C |"G" F2"Em/G" D |"D" F3 |"Dm" A2 G | F2 D | %108
+w: sitll pro|ceed ing|guide us|to thy|per fect|light.|Myrrh is|mine a|
+"A7" E"A+" F"A7" E |"Dm" D3 | A2 G | F2 D |"A7" E"A+" F"A7" E |"Dm" D3 |"Dm" F2 F |"C" G2 G | %116
+w: bit ter per|fume|breathes a|life of|ga ther ing|gloom|sor rowing|sigh ing|
+"F" A2 A |"F/A" c-"C7/G" B"F" A |"Gm" G-"Gm9" A"Gm" G |"Dm/A" F2"A7" E |"Dm" D3 | %121
+w: bleed ing|dy _ ing|sealed in a|stone cold|tomb|
+"A" !fermata!E2-"A7" !fermata!G |"D" F2 F | F2 C |"G" F2"Em/G" D |"D" F3 | F2 F | F2 C | %128
+w: O _|star of|won der|star of|night|star with|roy al|
+"G" F2"Em/G" D |"D" F3 |"Bbm" F2 F |"A" G2"D" A |"G" B2"D" A |"A" G2"D" A |"D" F2 F | F2 C | %136
+w: beau ty|bright|west ward|lead ing|sitll pro|ceed ing|guide us|to thy|
+"G" F2"Em/G" D |"D" F3 |"Dm" A2 G | F2 D |"A7" E"A+" F"A7" E |"Dm" D3 | A2 G | F2 D | %144
+w: per fect|light.|glo rious|now be|hold Him a|rise|King and|God and|
+"A7" E"A+" F"A7" E |"Dm" D3 |"Dm" F2 F |"C" G2 G |"F" A2 A |"F/A" c-"C7/G" B"F" A | %150
+w: Sac _ ri|fice|Al le|lu ia|al le|lu _ ia|
+"Gm" G-"Gm9" A"Gm" G |"Dm/A" F2"A7" E |"Dm" D3 |"A" !fermata!E2-"A7" !fermata!G |"D" F2 F | F2 C | %156
+w: earth _ to|heaven re|plies|O _|star of|won der|
+"G" F2"Em/G" D |"D" F3 | F2 F | F2 C |"G" F2"Em/G" D |"D" F3 |"Bbm" F2 F |"A" G2"D" A | %164
+w: star of|night|star with|roy al|beau ty|bright|west ward|lead ing|
+"G" B2"D" A |"A" G2"D" A |"D" F2 F | F2 C |"G" F2"Em/G" D |"D" F3 | z3 | z3 | z3 |] %173
+w: sitll pro|ceed ing|guide us|to thy|per fect|light.||||
+

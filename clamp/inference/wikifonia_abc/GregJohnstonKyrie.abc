@@ -1,0 +1,16 @@
+X:1
+T:Kyrie
+C:Greg Johnston
+Z:Creative Commons BY
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am7" z2 G2 A z z/ c/ A2 |"Dm7" z cBc GA z x |"G7" z2 AG AEF z |"Bm7b5" G-G G2"Em7" G-GE z |] %4
+"G7" z4 z c-cd |"Cmaj7" z c B2 A2 c4 |"Am7" z A-Ac B-B x2 |"Bdim" G z z F A2- A z | %8
+"Dm7" z B c2-"Em7" cB/A/G z |"G7" z E z F/G/- G2 z2 |]"G7" z G- G2- G z B z |"C9" c2 d z c2 d z | %12
+"Em7" e z de/d/ B z z d- |"Dm7" d z c z"Bm7b5" z2 BA- |"Em7" A z G z"Am7" z2 AB- | %15
+"Dm7" BA-AA-"Em7" AD-DG- |"G7" G2- G z z4 |] %17
+

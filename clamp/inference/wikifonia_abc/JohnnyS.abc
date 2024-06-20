@@ -1,0 +1,24 @@
+X:1
+T:Paper Doll
+T:Paper Doll
+C:Johnny S. Black ©1930
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"C7" z CDE |:"F6""^A" FEFA"D7" dcBA |"G7" D2 A2 G3 F |"C7" E^DEF GE=DE |"F6" D4"Gm7" z C"C7"DE | %5
+w: I'm gon- na|buy a pa- per doll that I can|call my own, a|doll that oth- er fel- lows can- not|steal. And then those|
+"F" GFEF"Fm" G2 FD |"C" E^DE=B"A7" A3 ^A |"G7" =BAG^F =FDd_d |"C7" c6 c2 | %9
+w: flir- ty, flir- ty guys with those|flir- ty, flir- ty eyes, will|have to flirt with dol- lies that are|real. When|
+"F6""^B" c=B"D7"_BA"G7" G^F"C7"G^G |"F6" Ac- c4 c2 |"F6" c=B"D7"_BA"G7" G^F"C7"G^G |"A7" A6 E2 | %13
+w: I come home at night, she will be|wait- ing. * She'll|be the tru- est doll in all this|world. I'd|
+"Bb" D^CDE"Bdim7" FEFG |"F" A2"A7" e2"D7" dcBA |"G7" DFDF"Bbm6" G2"C7" A2 | %16
+w: rath- er have a pap- er doll to|call my own than have a|fick- le- mind- ed real live|
+"F""Abdim7" F4"Gm7" z C"C7"DE :| %17
+w: girl. I'm gon- na|
+

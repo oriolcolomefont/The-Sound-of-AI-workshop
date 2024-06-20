@@ -1,0 +1,17 @@
+X:1
+T:Megjött már a fecsekemadár
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" C2 E2 G2 c2 |"F" B3 A F D3 |"G" G3 F E D3 |"C" C4 C2 z2!fine! :|"F" c2 c2 c2 cc | c e3 d c3 | %6
+w: Meg- jött már a|fecs- ke- ma- dár,|fész- ket ra- kott|ná- lunk,|Vi- rág nyí- lik a|hegy- ol- da- lon,|
+"G" d2 c2 B2 A2 | F4 D2 z2!D.C.! |] %8
+w: nincs szebb an- nál|sem- mi,|
+

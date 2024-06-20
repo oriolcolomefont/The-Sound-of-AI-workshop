@@ -1,0 +1,25 @@
+X:1
+T:Breezin' Along With The Breeze
+T:Breezin' Along With The Breeze
+T:Haven Gillespie, Seymour Simons & Richard A. Whiting
+C:Haven Gillespie, Richard A. Whiting, Seymour Simons
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C3 D | F/G/A/c/-"Eb9" c/A/ c |"D7""Eb9" A4- |"D7" A2 c/>A/ c |"G7" A4 |"C7" A2 A/>F/ A | %6
+w: I'm just|breez- in a- long * with the|breeze,|* trail- in' the|rails,|* roam- in' the|
+"F" F4- |"Gm7" F z"C7" z2 |"F" C3 D | F/G/A/c/-"Eb9" c/A/ c |"D7""Eb9" A4- |"D7" A2 c/>A/ c | %12
+w: seas.||Like the|bird- ies that sing * in the|trees,|* pleas- in' to|
+"G7" A4- |"C7" A2 A/>F/ A |"F" F4 |"F7" F z z F |"Bb" d2 ^c d | F G B c | d2 d/>^c/ d |"Bbm" B4 | %20
+w: live,|* liv- in' to|please.|* The|sky is the|on- ly roof I|have o- ver my|head,|
+"F" c2 =B c |"Dm" D E F G |"G9" A A A/>^G/ A |"C7" G4 |"F" C3 D | F/G/A/c/-"Eb9" c/A/ c | %26
+w: and when I'm|wear- y Moth- er|Na- ture makes me a|bed.|I'm just|go- in' a- long * as I|
+"D7""Eb9" A4- |"D7" A2 c/>A/ c |"G7" d4- |"C9" d2"C7" c/ A3/2 |"F""Ab7""Gb7" F4- |"F" F2- F z |] %32
+w: please,|* Breez- in' A-|long|* With The|Breeze.-||
+

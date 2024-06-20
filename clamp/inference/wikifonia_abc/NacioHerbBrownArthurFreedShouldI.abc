@@ -1,0 +1,22 @@
+X:1
+T:Should I
+T:Should I 
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z D |:"G" B,3 D | B3 D | B, D B, D | B3 D |"D7" C3 D | A2 B2 |"G" (3(A/B/A/) G3- | G3 D | %9
+w: Should|I re-|veal ex-|act- ly how I|feel, Should|I con-|fess I|love _ _ you.|_ Should|
+"G" B,3 D | B3 D | B, D B, D | B3 D |"D7" C3 D | A2 B2 |"G" (3(A/B/A/) G3- | G3"C" A |"G7" G3 A | %18
+w: I re-|cite be-|neath the pale moon-|light, And|swear by|stars a-|bove _ _ you.|_ Could|I re-|
+"C" G3 A |"G7" G A G A |"C" G3 B |"A7" A3"Em7" B |"A7" A2"Adim" D"A7" E |"Am7" G2"D7" F2 | %24
+w: peat the|sweet- est stor- y|told. Could|I en-|treat, would it|be too|
+"D9" E3"D7" D |"G" B,3 D | B3 D | B, D B, D | B3 D |"D7" C3 D | A2 B2 |1"G" (3A/B/A/ G3- | %32
+w: bold. Should|I re-|veal ex-|act- ly how I|feel, Should|I con-|fess I|love _ _ you.|
+ G3"D7" D :|2"G" (3A/B/A/ G3- | G3 z |] %35
+w: _ _|love _ _ you.|_|
+

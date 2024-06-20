@@ -1,0 +1,39 @@
+X:1
+T:SEASONS IN THE SUN
+T:SEASONS IN THE SUN
+T:(Le Moribond)
+T:Jacques Brel
+T:Rod Mckuen
+C:Jacques Brel
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"^Chorus\n" z2 AB |:S"F" c2 cc | c2 BA |"Gm" GF GA | D2 GA | B2 BB |"^Gm7-5" B2 GF | %7
+w: We had|joy, we had|fun, we had|sea- sons in the|siun; But the|hills that we|climbv were just|
+w: |joy we had|fun we had|sea- sons in the|sun; But the|wine and the|song like the|
+w: |lives we had|fun, we had|sea- sons in the|sun; But the|stars we could|reach were just|
+"C7" ED EG!dacoda! |"F" F4- | F4- | F4- |1 F2 AB :|2"F" F4 ||"F""^Verse" z F AA | AF GA | A4- | %16
+w: sea- sons out of|time|||* We had||Good- bye to|yiou, my trust- ed|friend|
+w: sea- sons have all|gone|||||Good- bye, Pa-|pa please pray for|me|
+w: star- fisch on the||||||Good- bye Mich-|elle, my lit- tle|one|
+ A2"C7" z2 |"F" z A AA | AA (3ABA |"Bb" G3 D | D4 |"Bbm" z G GG | GG FE |"F" F4- | F2"C7" z2 | %25
+w: |We've known each|oth- er since we were|nine or|ten|To- geth- er|we've climed hills and|trees||
+w: |I was the|black sheep of * the|fam- i-|ly;|You tried to|teach me right from|wrong||
+w: |You gave me|love and helped * me|find the|sun;|And ev- 'ry|time that I was|down||
+"F" z2 FG | AA GF |"Bb" G2 EF |"Bbm" AG FE |"F" FA AA | AF GA | A4- | A2"C7" z2 |"F" z A AA | %34
+w: learned of|love and A- B-|C's Skinned our|haerts and skinned our|knees. Good- bye my|friend it's hard to|die||When all the|
+w: Too much|wine and too much|song, won- der|how I got a-|long Good- bye Pa-|pa * * *||||
+w: You would|al- ways come a-|round get my|feet back on the|ground Good- bye Mich-|elle, * * *||||
+ AA BA |"Bb" G3 D | D4 |"Bbm" z G GG | GG FE |"F" F4- | F2"C7" z2 |"F" z2 FG | AA GF |"Bb" G4- | %44
+w: birds are sing- ing|in the|sky|now that the|spring is in the|air||Pret- ty|girls are ev- 'ry-|where|
+w: |||||||Lit- tle|chil- dren ev- 'ry|where|
+w: |||||||With the|flow- ers ev- 'ry|where|
+ G4 |"Bbm" z2 EF | GG FE |"F" F2 AB!D.S.! ||O"^F" F4- | F2 z2 |] %50
+w: |Think of|me and I'll be|there. We had|||
+w: |When you|see them I'll be|there. We had|||
+w: |wish that|we could both be|there. All our|beach||
+

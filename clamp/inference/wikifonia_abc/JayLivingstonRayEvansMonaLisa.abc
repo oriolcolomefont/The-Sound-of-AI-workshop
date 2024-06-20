@@ -1,0 +1,22 @@
+X:1
+T:Mona Lisa
+T:MONA LISA
+C:Jay Livingston, Ray Evans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ B=A |:"Eb" cBB=A cBGE |"Ab/Eb" C2 B,4 ed | dccB BGAB |"Fm7""Bb7" F6 c=B |"Fm" dcAG BA- (3AF=E | %6
+w: Mo- na|Li- sa, Mo- na Li- sa men have|named you; You're so|like the la- dy with the mys- tic|smile. Is it|on- ly 'cause you're lone- ly _ they have|
+"Bb7" G2 F4 B,C | DEFG Ac- (3cBA |"Eb" G6 B=A | cBB=A cB- (3BGE |"Ab/Eb" C B,3- B,2 ed | %11
+w: blamed you for that|Mo- na Li- sa strange- ness _ in your|smile? Do you|smile to tempt a lov- er, _ Mo- na|Li- sa, _ or is|
+ dccB BGAB |"Ab" c6 AB |"Abm" _c2 c_d e2 dc |"Eb" _c2 B4 =cB |"Bb7" B2 D4 cB | %16
+w: this your way to hide a bro- ken|heart? Man- y|dreams have been brought to your|door- step. They just|lie there, and they|
+"Eb" B2 G2-"Eb7" G2 AB |"Ab" c2 cd e2 dc |"Eb" c2 B2 z B, CB, |"Bb7" ABGF ABGF |1"Eb" E4 z2 B=A :|2 %21
+w: lie there. _ Are you|warm, are you real, Mo- na|Li- sa, or just a|cold and lone- ly love- ly work of|art? Mo- na|
+"Eb" E8 |] %22
+w: art?|
+

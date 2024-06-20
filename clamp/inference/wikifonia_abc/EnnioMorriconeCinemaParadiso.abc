@@ -1,0 +1,21 @@
+X:1
+T:Cinema Paradiso
+T:Ennio Morricone
+T:JBB Juin 2009
+T:Cinema Paradiso
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Gmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" B3 D"Cm7" EB A>G |"F7" AcFE"Eb/Bb" E2"Bb" D2 |[M:2/4]"Bb" z D"G/A" FA | %3
+[M:4/4]"Gm7" cBAB"Dm/F" d4 |"Eb" G^FGf"Cm7""G/Bb" e4 |"Am7b5" Gcgf"D7#5" fedc | %6
+"Gm" B3 B cB"Dm/F"AF |"Eb" G2 GD"Edim" G2 AB |"Am7b5/D" A4"D7" z4 ||"Gm" B2 B,D"Cm7" EB A>G | %10
+"F7" AcFE"Eb/Bb" E2"Bb" D2 |[M:2/4]"Bb" z D"G/A" FA |[M:4/4]"Gm7" cBAB"Dm/F" d d2 A | %13
+"Eb" G^FG=f"Cm7""G/Bb" e4- |"Am7b5" ecgf"D7#5" fedc |"Gm" B3 B cB"Dm/F"AF |"Eb" G4-"Edim" G2 AB | %17
+"Bb/F" F6"F7" E2 |"F7/Bb" E4"Bb" D2"D7#5" z2 |] %19
+

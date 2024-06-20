@@ -1,0 +1,31 @@
+X:1
+T:poker with amy
+T:poker with amy
+T:lellouche david
+T:no
+C:lellouche
+Z:Public Domain
+%%score ( 1 2 )
+L:1/8
+M:3/4
+K:none
+V:1 treble transpose=-14 nm="Tenor Saxophone" snm="T. Sax."
+%%MIDI program 66
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 treble transpose=-14 
+%%MIDI channel 1
+%%MIDI program 66
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:Eb]"Fm7" c3"Bb7" B2 A |"Eb" F3 A2 B |"Bbm7" c3 B2"Eb7b9" _A |"Abm" =E4 z2 |"Fm7" c3"Bb7" B2 A | %5
+"Eb" F3 A2 B | c^c =c z z2 | z6 |"Fm7" c3 B2"Bb7" A |"Eb" F3 A2 B |"Bbm7" c3"Eb7b9" B2 _A | %11
+"Abm" =E4 z2 |"Fm7" c3"Bb7" B2 A |"Eb" F3 A2 B |"Bbm7b5" =ef"Eb7" =e z z2 |"Abm" z6 | %16
+"Cmaj7" fc-"Am7" c4 | z"Dm7" c =Bc"G7" e_d |"Cmaj7" c4 z2 | z6 |"Am7b5" BG- G4 |"D7b9" z4 B=A/A/ | %22
+"Gm7" G4 z2 |"C7" z6 |"Fm7" c3 B2"Bb7" A | F3"Ebmaj7" A2 B |"Bbm7" c3 B2"Eb7" _A |"Abm" =E4 z2 | %28
+"Fm7""Bb7" z6 |"Ebmaj7" z6 |"Bbm7""Eb7" z6 |"Abmaj7" z6 |] %32
+V:2
+[K:Eb] x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | %18
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | c3 B2 A | F3 A2 B | c^c =c z z2 | x6 |] %32
+

@@ -1,0 +1,34 @@
+X:1
+T:I Cover the Waterfront
+T:I Cover The Waterfront
+T:John W. Green
+T:Edward Heyman
+C:Edward Heyman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm7" z"G7" A (3G F G |"Gm7" A"Db+" A/A/-"C7" A2 |"F" z c"C7" (3c A F |"Fmaj7" E3"Abdim" D/E/ | %4
+w: I cov- er the|wat- er- front *|I'm wat- ching the|sea, will the|
+"Gm7" F/ F F/- F3/2 G/ |"Eb11" A/ A A/-"D7" A"C7" G |"F""Eb11" c4- |"Db11""C9" c4 | %8
+w: sea I love * be|com- ing back * to|me.||
+"Dm7" z A"G7" (3G F G |"Gm7" A"Db+" A/A/-"C7" A2 |"F" z c"C7" (3c A F |"Fmaj7" E3"Abdim" D/E/ | %12
+w: I cov- er the|wat- er- front *|in search of my|love, and I'm|
+"Gm7" F/ F F/- F3/2 G/ |"Eb11" A/ A A/-"D7" A"C7" G |"F""Eb9""E9" F4- |"F6" F z z2 || %16
+w: cov- ered by * a|star- less sky * a-|bove.||
+"Gm7" c c/c/-"C7" c2 |"Eb6" (3C C"E6" ^C"F6" D/D/- D |"Gm7" (3c c c"C7" c/c/- c | %19
+w: Here am I *|pa- tient- ly wait- ing *|hop- ing and long- ing *|
+"Eb6" (3C C"E6" ^C"F6" D2 |"Am7" d d/d/-"D7" d2 |"F6" (3D D"F#6" ^D"G6" E/E/- E | %22
+w: oh! how I yearn!|Where are you? *|Are you for- get- ting? *|
+"Am7" (3d d d"D7" =B/ B3/2 |"Gm7" (3B B B"C7" G2 |"Dm7" z A"G7" (3G F G | %25
+w: Do you re- mem- ber?|Will you re- turn?|I cov- er the|
+"Gm7" A"Db+" A/A/-"C7" A2 |"F" z c"C7" (3c A F |"Fmaj7" E3"Abdim" D/E/ |"Gm7" F/ F F/- F3/2 G/ | %29
+w: wat- er- front *|I'm wat- ching the|sea, for the|one I love * must|
+"Eb11" A/ A A/-"D7" A"C7" G |"F" F4- | F z z2 |] %32
+w: soon come back * to|me.||
+

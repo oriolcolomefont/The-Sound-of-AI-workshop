@@ -1,0 +1,24 @@
+X:1
+T:"Deed I Do
+T:'Deed I Do
+C:Fred Rose
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cmaj7" A c3- c4 |"Gm7" A G3-"C7" G4 |"Fmaj7" E D3- D4 |"Fm" E D3- D4 |"Em7" E G3-"A7" G4 | %5
+w: Do I *|want you? *|Oh my, *|do I? *|Hon- ey *|
+"D7" C4"G7" D4 |"Cmaj7" C8- |"Dm7" C4"G7" z4 |"Cmaj7" A c3- c4 |"Gm7" A G3-"C7" G4 | %10
+w: 'deed I|do.||Do I *|need you? *|
+"Fmaj7" E D3- D4 |"Fm" E D3- D4 |"Em7" E G3-"A7" G4 |"D7" C4"G7" D4 |"Cmaj7" C8- |"Gm7" C4"C7" z4 | %16
+w: Oh my, *|do I? *|Hon- ey *|'deed I|do.||
+"Fmaj7" z2 A2 B2 c2 | d2 c2 A2 F2 |"Bdim7" E8 |"E7" B8 |"Em7" z2 E2 G2 A2 |"A7" B2 A2 G2 E2 | %22
+w: I'm glad that|I'm the one who|found|you,|that's why I'm|al- ways han- gin'|
+"D7" D8 |"Dm7""G7" G8 |"Cmaj7" A c3- c4 |"Gm7" A G3-"C7" G4 |"Fmaj7" E D3- D4 |"Fm" E D3- D4 | %28
+w: 'round|you.|Do I *|love you? *|Oh my, *|do I? *|
+"Em7" E G3-"A7" G4 |"Dm7" C4"G7" D4 |"C" C8 |] %31
+w: Hon- ey *|'deed I|do.|
+

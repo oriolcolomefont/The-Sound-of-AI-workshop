@@ -1,0 +1,37 @@
+X:1
+T:Come away with me
+C:Norah Jones
+L:1/8
+M:9/8
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+V:1
+"^Intro""C" z3 z3 z3 |"Am7" z3 z3 z3 |"C" z3 z3 z3 |"Am7" z3 z3 z3 |"C" z3 z3 z3 |"Am7" z3 z3 z3 | %6
+w: ||||||
+"C" z3 z3 z3 |"Am7" z3 z3 z3 ||"^Verse""C"z3z2>z2cd |"Am7" ecG- G3- GFE |"C" c3 z3 z3 | %11
+w: ||Come a-|way with me _ _ in the|night,|
+"Am7" z3 z3 z3 |"C"z3z2>z2cd |"Am7" ecA- A3- AA<B |"Em" B3- B3- B3 |"F2" c3- c3- c2c | %16
+w: |Come a-|way with me _ _ I will|write _ _|you _ _ a|
+"C" (c2A- A G2) z3 |"G" z3 z3 z3 ||"C"z3z2>z2cd |"Am7" ecG- G3- GFE |"C" c3 z3 z3 |"Am7" z3 z3 z3 | %22
+w: song _ _ _||Come a-|way with me _ _ on the|bus,||
+"C"z3z2>z2cd |"Am7" e3 g2 e2 c2 |"Em" B3- B3- B3 |"F2" c3- c3 A c2 |"C" (c2A- A G2) z3 | %27
+w: Come a-|way where they can't|Tempt _ _|us _ with their|Lies _ _ _|
+ z3 z3 z3 ||"^PreChorus""G"z2G g3- gfe |"F2" f e2- e2(d c3) |"C"z3z2>z2cd | e2c G3- G z z | %32
+w: |And I _ want to|walk with _ you _|on a|clou- dy day, *|
+"G"z2G g3- gfe |"F2" f e2 d2c- c(dc) |"C" e2zz2c e2g- |"G" g3 (d>cB- B2)c ||"C" c3 z3 cde- | %37
+w: in fields * where the|yel- low grass grows * knee- _|high so won't you|_ try _ _ _ to|come Come a- way|
+"Am7" e c2 A2G- G E2 |"C" c3z2>z2cd |"Am7" e2c- c (A2 G3) |"C"z3z2>z2cd |"Am7" e3 g2d- d2c | %42
+w: * with me and * we'll|kiss On a|moun- tain- _ top _|Come a-|way with me * and|
+"Em" (d2B- B3- B)AB |"F2" c2 z z3 A c2 |"C" (c3 A2G- G2) z |"G" z3 z3 z3 |:"^Solo""C" z3 z3 z3 | %47
+w: I'll _ _ _ ne- ver|stop lo- ving|you _ _ _|||
+"Am7" z3 z3 z3 |"C" z3 z3 z3 |"Am7" z3 z3 z3 |"C" z3 z3 z3 |"Am7" z3 z3 z3 |"Em" z3 z3 z3 | %53
+w: ||||||
+"F2" z3 z3 z3 |"C" z3 z3 z3 |1"G" z3 z3 z3 :|2"C" z3 z3 z3 ||"^Chorus""G"z2G g3- gag | %58
+w: ||||And I _ want to|
+"F2" a2c'- c'3- c'ag |"C" (a2g- g2)g- g2e- | eed e2c- c2 z |"G" z3 z3 g2g- |"F2" g f2- f e2- edc | %63
+w: wake up _ _ with the|rain _ _ fall- _ ing|_ on a tin roof _|While I'm|_ safe _ there _ in your|
+"C" e2zz2z/G/ a2a- |"G" a2g- g3 !fermata!d2-d/c/ ||"^Verse""C" czz2<z2zc/d/e |"Am7" c A2- A3 GEc- | %67
+w: Arms So All I|_ ask _ is * for|you come a- way|with me _ in the night|
+"C" c3 z3 z3 |"Am7" z3 z3 z3 |"C"z3z2>z2cd |"^Rit.""G" (e d2 c B2- B2)c |"C" !fermata!c3 z3 z3 |] %72
+w: _||Come a-|way * * * * with|me|
+

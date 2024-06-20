@@ -1,0 +1,38 @@
+X:1
+T:The Army, the Navy and the Air Force
+T:The Army, the Navy and the Air Force.
+T:Herman Darewski,  Edward Lockton
+T:March tempo
+C:Edward Lockton , Herman Darewski
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z z C |"F" F3/2 C/ F A | F3 G | A3/2 F/ A c | A2 ^G A | d2 c2 | G2 F2 |"C7" E4- | E3"D7" D | %9
+w: Theres|mu- sic on the|air there's|shout- ing ev- ry|where as the|boys go|march- ing|by|* We|
+w: The|bands be- gin to|play A|mart- ial tune so|gay and the|roll- ing|drums we|hear|* We|
+"Gm" G3/2 D/ G B | G3 G | B3/2 G/ B d | B2 =B c |"C7" e2 d2 | G2 ^G2 |"F" A4- | A3"C7" C | %17
+w: hear the tramp of|feet a-|long the crow- ded|street and our|hearts are|beat- ing|high!|* they|
+w: see them wave on|wave so|trus- ty and so|brave how the|peo- ple|shout and|cheer|* al-|
+"F" F3/2 C/ F A | F3 F | A3/2 F/ A c | A2 ^G A | d2 c2 |"C" =B2 A2 | G4- |"G7" G3"C" G | %25
+w: pass us line on|line my|word but they look|fine, see the|sol- diers|straight and|tall|* the|
+w: tho the world may|say Old|Eng lands had her|day they will|find their|dreams are|vain|* so|
+"G7" A3/2 G/ G ^F | G3 G |"C" A3/2 G/ G ^F | G2 G"Ab7" ^G |"D7" A2 e2 |"G7" d2 G2 |"C7" c4- | %32
+w: sail- or lads so|true the|Air- Force boys iun|blue, how we|love them|one and|all|
+w: let them all be|told that|what we have we|hold we can|fight and|win a-|gain.|
+ c3"F" C |: F C2 F | A E F A | (d4 | c3) A | d2 c2 | G2 F2 |"C7" E4- | E3"D7" D |"Gm" G D2 G | %42
+w: * the|Ar- my the|Na- vy and the|Air|Force have|made old|Eng lands|name|* Our|sol- diers and|
+w: ||||||||||
+ B ^F G B | e4 | d3 ^c |"C7" e2 d2 | G2 ^G2 |"F" A4- | A3 C | F C2 F | A E F A |"F" (d4 | c3) A | %53
+w: Sail- ors and our|Air|men have|al- ways|played the|game|* they're|stead- y and|true and strong and|rea|dy to|
+w: |||||||||||
+"D7" d2 c2 |"Bb" B2 A2 |"Gm" d4- |"D7" d3"Gm" d |"F" e d2 ^c | e d ^c d | (f4 | c2) =B c | %61
+w: do and|die and|dare|* the|Ar- my the|Na- vy and the|Air|Force when the|
+w: ||||||||
+"Gm" e2 d2 |"Am" A2"C7" G2 |"F" F z z2 |"C7" z2 z C :|"F" F4- | F z z2 |] %67
+w: call comes|they'll be|there.|The|there.||
+w: ||||||
+

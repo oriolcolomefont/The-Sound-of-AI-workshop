@@ -1,0 +1,42 @@
+X:1
+T:Couleur Cafe
+T:Couleur Cafe
+T:Serge Gainsbourg
+C:Serge Gainsbourg
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^(shaker)" z16 | z16 |"^(percu)" z16 | z16 |"C""G/D""^(bass)" z16 |"C" z8"G/D" z4 z2 CD |]: %6
+w: |||||1.J'ai- me|
+w: |||||2.C'est quand|
+"C" E2CF z E2D-"G/D" D2 z2 z4 |"C" C2G,G, z G,2G,"G/D" z8 |"C" E2CF z E2D"G/D" z4 z4 | %9
+w: ta cou- leur ca- fe *|Tes che- veux ca- fe|Ta gor- ge ca- fé|
+w: me- me fou l'ef- fet *|L'ef- fet que ca fait|De te voir rou- ler|
+"C" C2G,G, z G,2G,"G/D" z G,A,2 A,G,CD |"C" E2CF z E2D-"G/D" D2 z2 z4 |"C" C2G,G, z G,2G,"G/D" z8 | %12
+w: J'ai- me quand pour moi tu dan- * ses A- lors|j'en- tends mur- mu- rer *|tous tes bra- ce- lets|
+w: Ain- si des yeux et des han- ches Si tu *|fais comm' le ca- fe *|rien qu'a m'e- ner- ver|
+"C" E2CF z E2D"G/D" z8 |"C" C2G,G, z G,2G,"G/D" z G,A,2- A,2<G,2 ||"^N.C" C2 E6- E4 z4 | %15
+w: Jo- lis bra- ce- lets|A tes pieds ils se ba- lan- * cent|Cou- leur *|
+w: rien qu'a m'ex- ci- ter|Ce soir la nuit se- ra blan- che *||
+ D2 F6- F4 z4 | (3E2F2E2 (3F2E2G2- G4 z EC2 | z16 ::"C" E2CF z E2D-"G/D" D2 z2 z4 | %19
+w: Ca- fe *|Que j'ai- me ta cou- leur * ca- fe||3. SOLO * * * *|
+w: |||4sans phi- lo- so- pher *|
+"C" C2G,G, z G,2G,"G/D" z8 |"C" E2CF z E2D"G/D" z8 |"C" C2G,G, z G,2G,"G/D" z G,A,2- A,G,CD | %22
+w: |||
+w: C'est comm' le ca- fe|tres vi- te pas- sé|mais que veux tu que j`y fas- * sent On n'en|
+"C" E2CF z E2D-"G/D" D2 z2 z4 |"C" C2G,G, z G,2G,"G/D" z8 |"C" E2CF z E2D"G/D" z4 z4 | %25
+w: |||
+w: a marr' de ca- fé *|Et c'est ter- mi- né|Pour tout ou- bli- er|
+"C" C2G,G, z G,2G,"G/D" z G,A,2- A,2<G,2 ::"^N.C." C2 E6- E4 z4 | D2 F6- F4 z4 | %28
+w: |Cou- leur *|ca- fe *|
+w: On at- tend que ca se tas- * se|||
+ (3E2F2E2 (3F2E2G2- G4 z EC2 | z16 :| %30
+w: Que j'ai- me ta cou- leur * ca- fe||
+w: ||
+

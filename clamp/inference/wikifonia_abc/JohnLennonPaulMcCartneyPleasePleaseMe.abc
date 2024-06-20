@@ -1,0 +1,37 @@
+X:1
+T:Please Please Me
+T:Please please me
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"G" z2 G2 F2 E2 | D2 E2 D2 B,2 | E2- (3EFE D4 |"Bb" c3 c c2"D7" c2 |"G" z2 G2 F2 E2 | %5
+w: Last night I|said these words to|my * * * girl||I know you|
+w: You dont need|me to show the|way * * * girl||why do I|
+ D2 E2 D2 B,2 | E2- (3EFE D4 | z4 z2 z D |"C" E2 z2 z2 z D |"Am" E2 z2 z2 z D |"Em" E2 z2 z2 z G | %11
+w: ne- ver e- ven|try * * * girl|come|on come|on come|on come|
+w: al- ways have to|say * * * love|||||
+"C" G2 z2 z2 z c |"G" B4 B2 B2 |"C" E3 E"D7" D2 D2 |"G" B,8 |1"D7" z8 :|2"G" z8 ||"C" E^DED EDE^E | %18
+w: on please|please me oh|yeh like I please|you|||I dont want to sound com- plain- ing|
+w: |||||||
+"D7" F^EFE F=EDD |"G" E2- (3EFE D4 | z8 |"C" E^DED EDE^E |"D7" F^EFE F =E2 F |"G" d6 B2 | %24
+w: but you know there's al- ways rain in|my * * * heart||I do all the pleas- ing with you|its so hard to reas- on- with|you oh|
+w: ||||||
+"C" E3 G"D7" FFED |"G" D8 | z8 |:"G" z2 G2 F2 E2 | D2 E2 D2 B,2 | E2- (3EFE D4 |"Bb" z4"C" z4 | %31
+w: yeh why do you make me|blue||last night I|said these words to|my * * * girl||
+w: |||||||
+"D7" z2"G" G2 F2 E2 | D2 E2 D2 B,2 | E2- (3EFE D4 | z4 z2 z D |"C" E2 z2 z2 z D | %36
+w: I know you|ne- ver e- ven|try * * * girl|come|on come|
+w: |||||
+"Am" E2 z2 z2 z D |"Em" E2 z2 z2 z G |"C" G2 z2 z2 c2 |"G" B4 B2 B2 |"C" E3 E"D7" D2 D2 |1"G" B,8 | %42
+w: on come|on come|on please|please me oh|yeh like I please|you.|
+w: ||||||
+"D7" z8 :|2"G" G8- | G8- | G8- | G2 z2 z4 |] %47
+w: |||||
+w: |||||
+

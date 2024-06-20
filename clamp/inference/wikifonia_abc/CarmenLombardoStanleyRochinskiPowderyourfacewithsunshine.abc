@@ -1,0 +1,28 @@
+X:1
+T:Powder your face with sunshine
+T:Powder you face with sunshine
+T:(smile smile smile)
+T:Carmen Lombardo, Stanley Rochinski,
+C:Carmen Lombardo, Stanley Rochinski
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Cm" c2 G2 |"Fm" A2"G7" F2 |"Cm" G"Ab" A"Cm" G E | C4 |"Fm" D D"D7" z D |"G7" D F"F" E D | %6
+w: Greet the|new day|with a sun- ny|smile|you"ll see ex-|cite- ment ev- ry|
+"Cm" C4- | C G"D7" =A"G7" =B |"Cm" c2 G2 |"Fm" A2"G7" F2 |"Cm" G"Ab" A"Cm" G E |"Cm" C4 | %12
+w: where|* some- one has|found a|new way|to be all in|style|
+"F7" F F z F |"F7" F F"Cm" G"F7" =A |"Bb7" B4- | B4 |:"Eb" G"Fm" A"D" =A"Eb" B- | B2"Gm7" d2 | %18
+w: its free so|go and get your|share||pow- der you face|* with|
+"C" d4 |"C7" c4 |"F7" C D E G- | G2 c2 | G4- | G4 |"Bb7" F G A B- | B2 G2 | F4 |"Cm" E4 | %28
+w: sun-|shine|put on a great|* big|smile||make up your eyes|* with|laugh|ter|
+"F7" d2 d d | d c =A F |"Bb" B c"Fm" _A B |"Bb7" F4 |"Eb" G A"D" =A B- | B2"Gm7" d2 |"C" d4 | %35
+w: folks will be|laugh- ing with you|in a lit- tle|while|whis- tle a tune|* of|glad|
+"C7" c4 |"F7" C D E G | G2"F7" c2 | G4- |"Eb" G4 |"Ab" z E F E |"Abm" G2 F2 |"Eb" z B c B | %43
+w: ness|gloom nev- er was|* in|style||the fut- ures|bright- er|when hearts are|
+"C" d2"C7" c2 |"F7" C4 |"Bb7" D4 |1"Eb" E4- || E4 :|2"Eb" E4- || E3 z |] %50
+w: light- er|smile|smile|smile||smile||
+

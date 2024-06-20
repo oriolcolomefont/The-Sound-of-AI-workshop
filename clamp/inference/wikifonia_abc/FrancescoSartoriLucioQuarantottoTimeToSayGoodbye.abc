@@ -1,0 +1,54 @@
+X:1
+T:Time To Say Goodbye
+T:Time To Say Goodbye
+C:Francesco Sartori
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"C" C/D/E/D/"C/D" E/F/E/F/ G/F/G/A/ G/E/A/B/ |[M:2/4]"Gsus4" c2"G" B2 | %2
+w: 1.~Quan- do so- no so- lo so- gno͜~al- lo riz zon- te͜~e man- can le pa-|ro- le|
+w: ||
+[M:4/4]"C" C/D/E/D/"D" E/F/E/F/"C/E" G/F/G/A/"D/F#" G/E/A/B/ |"Gsus4" d2"G" B2"Dsus4" GF/E/"D" F2 | %4
+w: si lo so che non c'e lu- ce͜~in u- na stan- za quan- do man ca͜~il|so- le se non ci sei|
+w: ||
+"C/E" c2"Em" B2"C" E>E"D" F2 |"G" D2 z E/D/"D/F#" DD z G/F/ |"Em7" (3DDD (3DDB"C" cG"D"GF | %7
+w: tu con me, con me.|Su le fi- ne- stre mos- tra͜~a|tut- ti͜~il mio cuo- re che hai ac- ce- so|
+w: |||
+"G" DD (3z ED"D/F#" D2 (3GFA |"Em7" E2 (3z AB"C" (3cGG"D" (3:2:2G F2- | F6 z2 || %10
+w: chiu- di den- tro me la lu- ce|che hai͜~in con- tra- to per stra- da.||
+w: |||
+S"G""^Chorus" D2"D" G4 FG |"Em7" G4-"C" G3 A |"G" B B3-"D" B2 (3AcB |"Em7" G3 g"C" (3fdg (3fdB | %14
+w: Time to say good-|bye. _ Pa-|si * * che non ho|mai ve- du- to͜~e vis- su- to con|
+w: ||||
+"G" d4"C" (3AcB"D7" (3AGF |"G" DG"D" G4 FA |"Em7" G4-"C" G3 A |"G" (3BBB BB"D" z2 (3AcB | %18
+w: te a- des- so si li vi-|vro' con te par- ti|ro * su|na- vi per ma- ri che io lo|
+w: ||||
+"Em7" G3 g"C" (3fdg (3fdB!dacoda! ||"G" d4"C" (3AcB"D7" (3AGF- |[M:2/4] !fermata!F4 || %21
+w: so no no non e- si- sio- no|piu con te io li vi- vro.||
+w: |||
+[M:4/4] C/D/E/D/ E/F/E/F/"C/D" G/F/G/A/ G/E/A/B/ |[M:2/4]"Gsus4" c2"G" B2 | %23
+w: 2.~Quan- do sei lon- ta- na so- gno͜~al- l'o riz- zon te͜~e man- can le pa-|ro- le,|
+w: ||
+[M:4/4]"C" C/D/E/D/"D" E/F/E/F/"C" A>G"D" B2 |"C" C/D/E/D/"D" E/F/E/F/"Em" G2 z2 | %25
+w: e io si lo so che sei con me, con me.|Tu mia lun- a tu sei qui con me|
+w: ||
+"C/E" C/D/E/D/"D" E/F/E/F/"C" A>G"D"A>G |"C/E" c>B"D/F#" D4 z2!D.S.! || %27
+w: mi- o so- le tu sei qui con me, con me, con|me, con me|
+w: ||
+O"G""^CODA" d4"C" (3AcB"D7" (3AGF |[K:A]"A" EA"E" A4 GB |"F#m7" A4-"D" A3 B | %30
+w: piu con te io li ri- vi-|vro con te par- ti-|ro * su|
+w: |||
+"A" (3ccc cc"E" z2 (3Bdc |"F#m7" A3 a"D" (3gea (3gec |"A" e4"D" (3Bdc"E7" (3BAG |"A" EA A4"E" GB | %34
+w: nav- i per ma- ri che io lo|so no no non͜ e- si- sto- no|piu con te io li ri- vi-|vro con te par- ti-|
+w: ||||
+"F#m7" A6"D" z2 |"A""E" z8 |"F#m7""D" z8 |"A" z4"D" f2"E" g2 |"Dm""Em/G" a8- |"C""D" a8- | %40
+w: ro.|||Io con|te.||
+w: ||||||
+ a z z2 z4 |] %41
+w: |
+w: |
+

@@ -1,0 +1,20 @@
+X:1
+T:Abide With Me
+T:ABIDE WITH ME
+C:William Henry Monk (Eventide)  1861
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" E2"G" E D |"Am" C2"Em" G2 |"F" A"C" G"G7" G F |"C" E4 |"Am" E2"G7" F"C" G |"F" A2"C" G2 | %6
+w: A- bide With|Me, fast|falls the e- ven-|tide,|The dark- ness|deep- ens,|
+"G" F D"C" E"D7" ^F |"G" G4 |"C" E2"G" E D |"Am" C2"C7" G2 |"F" G F"A+" F"A7" E |"Dm" D4 | %12
+w: Lord, with me a-|bide.|When oth- er|help- ers|fail and com- forts|flee,|
+"G7" D2 E F |"C" E"E7" D"Am" C"Dm" F |"C" E2"G7" D2 |"C" C4 |] %16
+w: Help of the|help- less, O A-|bide with|Me.|
+

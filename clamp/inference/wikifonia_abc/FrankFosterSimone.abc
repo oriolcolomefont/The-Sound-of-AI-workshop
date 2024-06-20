@@ -1,0 +1,18 @@
+X:1
+T:Simone
+T:Simone
+C:Frank Foster
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb7b5" D2 F2 A2 |"Dm7" c3 B- Bd |"Em9/A" A6- |"Dm7" A3 F- FC |"Eb7b5" G _E2 _B,- B,F | %5
+"Dm7" E3 C3 |"Em9/A" D6- |"Am7/D" D6- |"D7" D2 (3D_EF (3GA_B ||"Gm7" c A2 e c2- |"Am7" c6- | %11
+"Bm7" c4 _B,_E |"Eb7b5" G c2 A- AF |"Dm7" D G2 E- ED |"Em7" A,6- |"Fmaj7" A,6- | %16
+"F#m7" A,2 (3B,_D_E (3F_G_A ||"Fm7" _B3 G- GF |"Bb7" G4- G_B/c/ |"Em7" A3 F- FC | %20
+ G"A7" _E2 _B,- B,F |1"Dm7" A6- ||"Em9/A" A6- |"Dm7" A6 |"Eb7b5" D2 F2 A2 :|2"Dm7" A6- || %26
+"Em7/A" A6- |"Dm7" A6 |] %28
+

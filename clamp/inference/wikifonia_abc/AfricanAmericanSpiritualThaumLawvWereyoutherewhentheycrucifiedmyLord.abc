@@ -1,0 +1,42 @@
+X:1
+T:Were you there when they crucified my Lord
+T:Were you there when they crucified my Lord?
+T:African-American Spiritual
+C:African-American Spiritual
+Z:All Rights Reserved
+L:1/4
+Q:1/4=110
+M:4/4
+K:none
+V:1 treble transpose=-9 nm="Alto Sax" snm="A. Sx."
+%%MIDI program 65
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:C] G c |"C" e2 e e |"G" d"Am" c"G7" e3/2 d/ |"C" c4- | c2 c e |"Em" g2 g g | %6
+w: Were you|there when they|crucified _ _ my|Lord?|_ were you|there when they|
+"Am" a"G/B" g"C" g3/2 e/ |"G" d4 |"C/E" g2"F" c'3/2 a/ |"C" g4 |"F" a"C" g2 e | %11
+w: crucified _ _ my|Lord?|||Sometimes _ it|
+"E/G#" e3/2 d/"Am" c c |"F" d c d c |"F" A"G" !breath!!fermata!G c f |"C/G" e2 e e | %15
+w: causes _ me to|tremble _ tremble _|tremble _ were you|there _ they|
+"Dm" d c"G7" e3/2 d/ |"C" c4- | c z G c |"C" e2 e e |"G" d"Am" c"G7" e3/2 d/ |"C" c4- | c2 c e | %22
+w: crucified _ _ my|Lord?|_ were you|there when they|nailed Him to _|tree?|_ were you|
+"Em" g2 g g |"Am" a"G/B" g"C" g3/2 e/ |"G" d4 |"C/E" g2"F" c'3/2 a/ |"C" g4 |"F" a"C" g2 e | %28
+w: there when they|nailed Him to the|tree?|||Sometimes _ it|
+"E/G#" e3/2 d/"Am" c c |"F" d c d c |"F" A"G" !breath!!fermata!G c f |"C/G" e2 e e | %32
+w: causes _ me to|tremble * tremble _|tremble * were you|there when they|
+"Dm" d c"G7" e3/2 d/ |"C" c4- | c z G c |"C" e2 e e |"G" d"Am" c"G7" e3/2 d/ |"C" c4- | c2 c e | %39
+w: nailed Him to the|tree?|_ Were you|there when they|laid Him in the|tomb?|_ were you|
+"Em" g2 g g |"Am" a"G/B" g"C" g3/2 e/ |"G" d4 |"C/E" g2"F" c'3/2 a/ |"C" g4 |"F" a"C" g2 e | %45
+w: there when they|laid Him in the|tomb?|||Sometimes _ it|
+"E/G#" e3/2 d/"Am" c c |"F" d c d c |"F" A"G" !breath!!fermata!G c f |"C/G" e2 e e | %49
+w: causes * me to|tremble * tremble _|tremble * were you|there when they|
+"Dm" d c"G7" e3/2 d/ |"C" c4- | c z G c |"C" e2 e e |"G" d"Am" c"G7" e3/2 d/ |"C" c4- | c2 c e | %56
+w: laid Him in the|tomb|_ Were you|there when He|rose up from the|dead?|_ were you|
+"Em" g2 g g |"Am" a"G/B" g"C" g3/2 e/ |"G" d4 |"C/E" g2"F" c'3/2 a/ |"C" g4 |"F" a"C" g2 e | %62
+w: there when He|rose up from the|dead?|||sometimes _ I|
+"E/G#" e3/2 d/"Am" c c |"F" d c d c | A !breath!!fermata!G"F" c f |"C/G" e2 e e | %66
+w: feel _ shouting _|glory _ glory _|glory _ were you|there _ He|
+"Dm" d c"G7" e3/2 d/ |"C" c4- | c2 z2 |] %69
+w: rose up from the|dead?||
+

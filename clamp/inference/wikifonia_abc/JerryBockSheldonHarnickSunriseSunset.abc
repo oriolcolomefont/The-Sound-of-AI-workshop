@@ -1,0 +1,39 @@
+X:1
+T:Sunrise, Sunset
+T:Sunrise, sunset
+T:(from Fiddler on the Roof)
+T:Jerry Bock
+T:Sheldon Harnick
+C:Jerry Bock
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Gm" D G B |"D7" A/G/ ^F A |"Gm" G3 | D3 | D G B |"D7" A/G/ ^F A |"Gm" G3 |"G7" z3 |"Cm" G c e | %9
+w: Is this the|lit- tle girl I|car-|ried?|Is this the|lit- tle boy at|play?||I dont re-|
+w: Now is the|lit- tle boy a|bride-|groom|now is the|lit- tle girl a|bride||Un- der the|
+"G7" d/c/ =B d |"Cm" c3 | G3 |"A" A3 |"A7" A3 |"D7" B3- | B3 |"Gm" D G B |"D7" A/G/ ^F A |"Gm" G3 | %19
+w: mem- ber grow- ing|old-|er|when|did|they?||When did she|get to be a|beau-|
+w: can- o- py I|see|them|side|by|side||place the gold|ring a- round her|fin-|
+ D3 | D G B |"D7" A/G/ ^F A |"Gm" G3 |"G7" z3 |"Cm" G c e |"G7" d/c/ =B d |"Gm" c3 |"A7" ^c3 | %28
+w: ty|when did he|grow to be so|tall||Was- nt it|yes- ter- day when|they|were|
+w: ger|share the sweet|wind and break the|glass||soon the full|cir- cle will have|come|to|
+"D" d3- |"D7" d3- |"D" d3- |"D7" d3 |"Gm" z B"Cm" c- | c"Gm" B A | z B"Cm" c- | c"Gm" B A | %36
+w: small||||Sun- rise|* sun- set|sun- rise|* sun- set|
+w: pass||||||||
+ z B"Cm" c- | c"Gm" B"Cm" c |"Gm" d3- |"G7" d3 |"Cm" e e e |"F7" e/d/ c e |"Bb" d3 | B3 | %44
+w: swift- ly|* flow the|days||seed- lings turn|o- ver- night to|sun|flow'rs|
+w: ||||||||
+"Am7" c c c |"D7" c/B/ A c |"Gm" B3- | B3 | z B"Cm" c- | c"Gm" B A | z B"Cm" c- | c"Gm" B A | %52
+w: blos- som- ing|e- ven as we|gaze||sun- rise|* sun- set|sun rise|* sun- set|
+w: ||||||||
+ z B"Cm" c- | c"Gm" B"Cm" c |"Gm" d3- |"G7" d3 |"Cm" e e e |"D7" e/d/ c e |"Gm" d3 |"C7" B3 | %60
+w: swift- ly|* fly the|years||one sea- son|fol- low- ing an-|oth-|er|
+w: ||||||||
+"Cm" c c c |"D7" c/B/ A B |"Gm" G3- |1 G2 z :|2"Gm" G3- | G3 | z3 |] %67
+w: Lad- en with|hap- pi- ness and|tears||tears|||
+w: |||||||
+

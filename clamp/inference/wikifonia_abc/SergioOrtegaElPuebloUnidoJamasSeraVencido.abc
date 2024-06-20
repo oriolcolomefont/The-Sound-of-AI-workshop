@@ -1,0 +1,19 @@
+X:1
+T:El Pueblo Unido Jamás Será Vencido
+T:El pueblo unido jamás será vencido
+T:Sergio Ortega
+C:Sergio Ortega
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Am7" !>!A2 !>!A2"G7" !>!G2 !>!G2 |"Fmaj7" !>!F2 !>!F2"E7b9" !>!E2 !>!E2 :| E |: %3
+"Am7" A3 A"C/G" c3 c |"Fmaj7" eedc"E7b9" B2 z E |"Am7" A3 A"C/G" c3 c |"Fmaj9" eedc"E7" B2 z e | %7
+"Dm7" f3 c"G7" B3 f |"Cmaj7" e^deB"Fmaj9" A2 z e |"Bm7b5" d3 A"E7b9" ^G3 d | %10
+"Am7" cBcd"A7b9" e^deg |"Dm7" f3 c"G7" B3 f |"Cmaj7" e^deB"Fmaj7" A2 z e | %13
+"Bm7b5" d3 A"E7b9" ^G3 d |1"Am7" cB"E7b9"cd"Am7" e2 z E :|2"Am7" cB"E7b9"A^G"Am7" A2 z d!fine! || %16
+"Dm7" dd z d dd z d |"D#dim" ^dd z d dd z d |"E7b9" cc z c cc z c | BBBB B B3 |] %20
+

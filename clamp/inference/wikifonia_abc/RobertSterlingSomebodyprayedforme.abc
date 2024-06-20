@@ -1,0 +1,30 @@
+X:1
+T:Somebody prayed for me
+T:Somebody prayed for me
+T:©
+T:Score
+T:When the future looked hopeless and I'd given up And I had lost sight of my dreams Somebody near, dried every tear Somebody prayed for me 
+C:Robert Sterling
+Z:All Rights Reserved
+L:1/8
+Q:1/4=95
+M:4/4
+K:none
+V:1 treble transpose=3 nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:A]"^Reflectively" A,B, C4 B,A, | C3 B, A, D3 | CB, D4 z B, | D3 C B, D3 | %4
+w: When my heart was so|broken _ that I|couldn't _ pray. When|love wasn't _ easy|
+ E2 B,"^Robert Sterling" C/B,/- C3 z | C3 DE C3 | z D3 EF D2- | D B,3 CD [DB-][CB]- | %8
+w: _ to see _ _|someone _ was there|somebody _ _ cared|_ somebody _ _ prayed _|
+ [CB] [A,A] [A,B]2- [A,A]4 | EE E E2 D CE- | EE E2 C2 DD | D D2 C B, D3 | z DDD D2 CB, | %13
+w: _ for me _|Somebody _ _ went to the throne|_ of heaven _ somebody _|_ lifted _ my name.|bringing _ me into _ his|
+ D2 D D2 E2 z | CC C C2 C DE- | E z FF F F2 E | DF FF F2 GC | AA A A2 G FC- | C z CC C C2 D | %19
+w: holy _ presence _|saying _ what I could not say.|_ Somebody _ _ showed me|the face of his * * when|darkness _ was all I could see.|_ Somebody _ _ pleaded _|
+ E A,2 A, B,2 C3/2 z/ |"^To Coda" DD D (D3/2C3/2) A,A,- | A,4 z2 z2 |]"^Coda" DD DD- D4 | %23
+w: the blood of Jesus _|somebody _ _ prayed _ for me||Somebody _ _ prayed _|
+ FF F E2- F- G2 | EEEE- E4 | =GG G F2- E- C2 | DDDD- D4 | DD D D3- CA, | A,4 z4 |] %29
+w: somebody _ _ prayed _ _|somebody _ _ prayed _|somebody _ _ prayed _ _|somebody _ _ prayed _|somebody _ _ prayed _ for|me.|
+

@@ -1,0 +1,27 @@
+X:1
+T:Arms of Mary
+T:Arms of Mary
+T:Chilliwack
+C:Chilliwack
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"G" G2 B2 G2 |"D7" F2 F2 G2 A2 |"Em" z2 G2 B2 G2 |"C" A2 A2 B2 c2 |"G" BGGG BG G2 | %5
+w: The lights shine|down the vall- ey|the wind blows|up the all- ey|oh and how I wish I was|
+"D7" AAAG B2 B2 |"G" A2 G2 z GBG |"D7" F2 F2 G2 A2 |"Em" z2 G2 B2 G2 |"C" A2 A2 B2 c2 | %10
+w: ly- ing in the arms of|Ma- ry- she took the|pains of boy- hood|and turned them|in- to feel good|
+"G" BGGG BG G2 |"D7" AAAG B2 B2 |"G" A2 G2 BddB |"Bm" d2 dB d2 de |"Em" B2 GG GGGG | %15
+w: oh and how I wish I was|ly- ing in the arms of|Ma- ry Ma- ry was the|girl who taught me all I|had to know she put me right|
+"C" G2 GE G2 GB |"D" A4 BddB |"Bm" d2 dB d2 de |"Em" B2 GG GGGG |"C" G2 GE G2 GB |"D7" A8 | %21
+w: on my * first mis- *|take Sum- mer was- n't|gone when I'd learned all she|had to show she real- ly gave|all a * boy could *|take|
+ z2"G" G2 B2 G2 |"D7" F2 F2 G2 A2 |"Em" z2 G2 B2 G2 |"C" A2 A2 B2 c2 |"G" BGGG BGGG | %26
+w: So now when|I get lone- ly|still look- ing|for my one and|on- ly oh how I wish I was|
+"D7" AAAG B2 B2 |"G" A2 G6 |"C" GGGG"D7" F2 F2 |"Em" F2 E6 |"C" AAAG"D" B2 B2 |"Em" A2 G4 (3BAG | %32
+w: ly- ing in the arms of|Ma- ry|Ly- ing in the arms of|Ma- ry|ly- ing in the arms of|Mary Yeah, yeah * yeah|
+"D" B8- |"Em" B8 |] %34
+w: yeah|_|
+

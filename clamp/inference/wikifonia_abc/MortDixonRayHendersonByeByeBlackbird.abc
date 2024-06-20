@@ -1,0 +1,25 @@
+X:1
+T:Bye Bye Blackbird
+T:Bye Bye Blackbird
+T:Ray Henderson, Mort Dixon
+T:© Dan Parshall
+C:Mort Dixon, Ray Henderson
+Z:Creative Commons BY-NC-SA
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+V:1
+"F" A A A A |"Gm" B A"F6" A2 |"Bbmaj7" A"C7" G G2 |"Cm" G"F6" F F2 |"Dm7" F4 |"Gm" G4 | %6
+w: Pack up all my|care and woe,|there I go|sing- ing low.|Bye,|bye,|
+"C7" F2"Am7" E2- | E4 |"Gm" B B B B |"A7" c B B2 |"C7" B"Am7" A A2 |"Bbmaj7" A"C7" G G2 |"Gm7" G4 | %13
+w: black- bird.|_|Where some bod- y|waits for me,|sug- ar sweet,|so is he.|Bye,|
+"C7" A4 |"F" G2 F2- | F4 |"F7" F c c c |"F7" c B A G |"Cm6" G4 |"D7" ^F4 |"Gm" D B"Bb6" B B | %21
+w: bye,|black- bird.|_|No one here can|love and und- er|stand|me.|Oh, what hard luck|
+"F" B A"G7" G F |"Bbm6" F4 |"C7" E4 |"F" A A A A |"Gm" B"F" A A2 |"Bbmaj7" A"C7" G G2 | %27
+w: stor- ies they all|hand|me.|Make my bed and|light the light,|I'll ar- rive|
+"Cm6" G"D7" ^F F2 |"Gm" G2 B2- | B2"C7" E2 |"F" F2"Dm" z2 |"Gm7" z2"C7" z2 |] %32
+w: late to- night.|Black- bird,|_ bye,|bye.||
+

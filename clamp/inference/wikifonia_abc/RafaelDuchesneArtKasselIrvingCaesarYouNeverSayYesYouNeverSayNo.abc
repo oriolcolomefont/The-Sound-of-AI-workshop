@@ -1,0 +1,29 @@
+X:1
+T:You Never Say Yes, You Never Say No
+T:You Never Say Yes,You Never Say No
+T:Linda Mujer
+T:Rafael Duchesne,Art Kassel
+T:Irving Caesar
+C:Rafael Duchesne,Art Kassel
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z A |"F" ccAd-"F#dim" d z z A |"C7/G" ccBE- E z z2 | eedd ccBB |"F" AA"C7"GF-"F" F z z A | %5
+w: You|nev- er say yes * You|nev- er say no, *|Got me in the mid- dle and you|won't let me go * You're|
+ ccAd-"F#dim" d z z A |"C7/G" ccBE- E z z2 | eedd ccBB |"F" AA"C7"GF-"F" F z AB | d2 cA F2 EF | %10
+w: nine- ty a- bove * or|thir- ty be- low, *|Ba- by you're a rid- dle and you|wor- ry me so. * Won't you|give me a break am I|
+"C7" A2 GE C4 |"Gm7" c c2 A"C7" B B2 ^G |"F" A6 AB | d2 cA"Dm" F2 EF |"G9" A2 G^F"G7" G4 | %15
+w: so hard to take?|Ba- by it may be you're|blind. If we're|not on the beam just walk|out of my dream,|
+"Dm7" A A2 F"G7" =B B2 G |"C" c6 z A |"F" ccAd-"F#dim" d z z A |"C7/G" ccBE- E z z2 | eedd ccBB | %20
+w: wake up and make up your|mind. You|nev- er say no, * you|nev- er say yes, *|I'll be go- ing cra- zy 'cause you're|
+"F" AA"C7"GF-"F" F z z A | ccAd-"F#dim" d z z A |"C7" ccBE- E z z2 | eedd ccBB | %24
+w: mak- ing me guess. * You|nev- er say yes, * you|nev- er say no, *|Get me in the mid- dle and you|
+"F" AA"C7"GF-"F" F z z2 |] %25
+w: won't let me go.- *|
+

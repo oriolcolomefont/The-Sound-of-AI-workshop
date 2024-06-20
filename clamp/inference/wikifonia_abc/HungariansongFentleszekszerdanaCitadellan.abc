@@ -1,0 +1,17 @@
+X:1
+T:Fent leszek szerdán a Citadellán
+T:Fent leszek szerdán a Citadellán
+T:Hungarian song
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z G, CE |"C" G2 G2 |"G" z G ^FG |"C" A2 G2 | z E EF |"G" E2 D2 | z G, B,D |"C" C2 z2!fine! :| %8
+w: Fent le- szek|szer- dán|a Ci- ta-|del- lán,|ugy- e, hogy|el- jön,|ki- csi szi-|vem?|
+ z c Bc |"F" A2 A2 | z A G^F |"C" G2 z2 | z C CD | E2 C2 | z E D^C |"G" D2 z2!D.C.! |] %16
+w: Ra- gyog a|hold majd|a he- gye-|ken,|ha tud- ná,|hogy ma-|gát sze- re-|tem,|
+

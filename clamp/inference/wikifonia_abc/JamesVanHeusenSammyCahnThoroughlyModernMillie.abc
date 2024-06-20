@@ -1,0 +1,32 @@
+X:1
+T:Thoroughly Modern Millie
+T:Thoroughly Modern Millie
+T:James Van Heusen
+T:Sammy Cahn
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" A2 G2 D2 A2 | G2 DA- A2 D2 |"A7" ^C3 B- B4 | A!8va(!B"^N.C."_BA =B_B A2 | %4
+w: Ev- re- thing to-|day is thor- ough- ly|mod- ern *|(Check your per- son- al- i- ty)|
+"D7"!8va)! e2 d2 A2 e2 | d2 Ae- ed c2 |"G" B8 |"G7" GA"^N.C."!8va(!_AG =A_A G2 | %8
+w: ev- ry- thing to-|day makes yes- * ter- day|slow|(Bet- ter face re- al- i- ty)|
+"C"!8va)! z2 e2 e4 |"Cm" z2 _ee- ed c2 |"G" z2 dd- dB A2 |"Em" G8 |"A7" z2 B2"G" B4 | %13
+w: It's not|in- san * i- ty|says van * i- ty|fair|In fact|
+"Cm" z2 BB-"A7" BA G2 |"D7" F2"^N.C." G2 ^G2 A2 |"Am7" d A2"D7" d- d4 | F2"^N.C."!8va(! G2 ^G2 A2 | %17
+w: it's sty * lish to|raise your skirts and|bob your hair *||
+"Am7"!8va)! d A2"D7" d d4 |"G" A2 G2 D2 A2 | G2 DA- AG D2 |"A7" ^C3 B- B4 | %21
+w: |In a rum- ble|seat the world * is so|cos- y- *|
+!8va(! AB"^N.C."_BA =B_B A2 |"D7"!8va)! e2 d2 A2 e2 | d2 Ae- ed c2 |"B7" B8 | %25
+w: (If the boy is kiss- a- ble)|and that Tan- go|dance they would * nt al-|low|
+"E7" B!8va(!dcB dc B2 |!8va)! z2"C" e2 e4 |"Cm" z2 _ee- ed c2 |"G" z2 dd- dB G2 |"Bb" F6 E2 | %30
+w: (Now it's quite per- mis- sa- ble)|good- bye|good- good- * y girl|I'm chang- * ing and|how so|
+"Am7" B2 A2"D7" D2 B2 |"^AM&" A2 DB-"D7" BA D2 |"Am7" e4 c4 |"D7" A4 F4 |"G" G8- | %35
+w: beat the drums! cause|here comes thor- * ough- ly|mod- ern|Mill- ie|now|
+ (3GDE"D7" (3FG^G z4 :|"G" G8- | G2 z2 g2 z2 |] %38
+w: |||
+

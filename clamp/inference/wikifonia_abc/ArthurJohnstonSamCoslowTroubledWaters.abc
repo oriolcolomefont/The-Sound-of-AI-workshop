@@ -1,0 +1,30 @@
+X:1
+T:Troubled Waters
+T:Troubled Waters
+C:Arthur Johnston
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"D7" d2 d2 d2 |"Gm7" d3 G- GB d2 |"Cm7" d c3"F7" A G3 |"D7" z DDD A A2 A- |"G7" A8 | %5
+w: I'm gon- na|drown down _ in those|toub- led wat- ers,|they're creep- in' 'round mu soul.|_|
+"C7" z DDD A A2 G- |"Cm7" G6"F7" FG |"Bbmaj7" BAcB (3DFB- BA |"^Am7b" G3 A-"D7" Addd || %9
+w: They're way be- yond con- trol|_ and they'll|wash my sins a- way be- fore _ the|morn- in'. _ They say that|
+"Gm7" d3 G- GB d2 |"Cm7" d c3"F7" A G3 |"D7" z DDD A A2 A- |"G7" A8 |"C7" z DDD A A2 G- | %14
+w: I'm one _ of the|dev- il's daugh- ters,|they look at me with scorn.|_|I'll nev- er hear that horn|
+"Cm7" G6"F7" FG |"Bbmaj7" BAcB (3DFB- BA |"Em7b5" G3 A-"A7" A4 ||"D7" d2 d2 z ddd | %18
+w: _ I'll be|un- der- neath the wat- er Judge- * ment|morn- in'. _|~Oh Lord, am I to|
+"G7" (f d3-) d2 z2 |"A7" z2 AA AAAA |"D7" (c A3- A2) z d |"G7" d d3 d d3 | %22
+w: blame? _ _|Must I bow my head in|shame? _ _ If|peo- ple go 'round|
+"Em7b5" d d2 f-"A+7" ff e2 |"Dmaj7" d8- |"D7" d2 d2 d2 d2 ||"Gm7" d3 G- GB d2 | %26
+w: scan- dal- iz- * in' my|name?|_ I'm gon- na|drown down _ in those|
+"Cm7" d c3"F7" A G3 |"D7" z DDD A A2 A- |"G7" A8 |"C7" z DDD A A2 G- |"Cm7" G6"F7" FG | %31
+w: troub- led wat- ers,|they're creep- in' 'round my soul.|_|They're way be- yond con- trol|_ and they'll|
+"Bbmaj7" BAcB"Ab7" dced |1"Bbmaj7" f6"D7" z2 :|2"Bbmaj7" f6 z2 |] %34
+w: wash my sins a- way be- fore the|morn.|morn.|
+

@@ -1,0 +1,32 @@
+X:1
+T:I Can See Clearly Now
+T:I Can See Clearly Now
+T:Johnny Nash
+T:Johnny Nash
+C:Johnny Nash
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 52
+V:1
+S"D" z4 defg- |"G" g2 fe- e2 df- |"D" f2 dA- A4 | z8 |"D" z4 defg- |"G" g3 g z f e2 | %6
+w: I can see clear|_ ly now _ the rain|_ has gone. _||I can see all|_ ob- sta- cles|
+"A" c d2 e- e4 | z8 |"D" z4 defg- |"G" g2 fe- e2 df |"D" z d z A- A4 |O z2 z A A/A/A A=c- || %12
+w: in my way. _||Gone are the dark|_ _ clouds _ that had|me blind. _|It's go- na be a bright|
+"C" c6 z B- |"G" B A3 dded- |"D" d8 | z2 z A A/A/A Ad- |"C" d =c3- c2 z B- |"G" B A3 dded- | %18
+w: _ bright|_ _ sun- shi- ny day.|_|It's go- na be a bright|_ _ _ bright|_ sun- shi- ny day. _|
+"D" d8 | z8 ||"D" z2 z d defg |"G" z f z e- e2 df- |"D" f2 dA- A4 | z8 |"D" z4 defg- | %25
+w: _||Oh yes I can make|it now _ the pain|_ has gone. _||All of the bad|
+"G" g3 g z f e2 |"A" c d2 e- e4 | z8 |"D" z4 defg |"G" z f z e z d z f |"D" z d z A- A4 | %31
+w: _ fee- lings have|dis- ap- peared. _||Here is the rain-|bow I've been loo-|king for. _|
+ z2 z A A/A/A A=c- |"C" c6 z B- |"G" B A3 dded- |"D" d8 | z8 ||"F" z4 (3a2 a2 a2 | %37
+w: It's go- na be a bright|_ bright|_ _ sun- shi- ny day.|_||Look all a-|
+ a2 z a (3a2 g2 =f2 |"C" g3 e- e4 | z8 |"F" z4 (3a2 a2 a2 | a2 z2 (3a2 g2 =f2 |"A" a3 a- a4- | a8 | %44
+w: round, there's no- thing but|blue skies. _||Look straight a-|head, no- thing but|blue skies. _|_|
+"Db" _a8 |"G" g8 |"Db" _a8 |"G" g8- |"C" g8 |"Bm" f8 |"A7" e8- | e8!D.S.! |] %52
+w: ||||||||
+O"D" z2 z A A/A/A Ad- |:"C" d =c3- c2 z B- |"G" B A3"^Vamp" dded- |"D" d8 | z2 z A A/A/A Ad :| %57
+w: It's go- na be a bright|_ _ _ bright|_ _ sun- shi- ny day.|_|It's go- na be a bright....|
+

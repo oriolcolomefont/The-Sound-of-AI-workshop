@@ -1,0 +1,51 @@
+X:1
+T:Sweet goodbyes
+T:Sweet Goodbyes
+T:Krezip
+T:Intro
+T:Sweet goodbyes
+T:2
+T:Chorus
+C:Krezip
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Am" z A-AA"G" z B-BB |"G" z c3"F" z c-cc |"Am" z e-ec"G" z d-dB |"F" z c-cA z c-cA |: %4
+w: ||||
+w: ||||
+"Am" C4"G" D3 D |"C""^Verse" E2 FG"F" A2 CD |"Am" E2 FE"G" D2 EC |"F" C8 |"Am" C4"G" D3 D | %9
+w: 1.~Can't sleep 'cause|eve- ry- thing's chang- ing You|don't eant to leave things be-|hind|Can't breath 'cause|
+w: 2.~Wake up, the|sun's shi- ning bright Let's go|out of bed in- to the|light|Shape up, _|
+"C" E2 FG"F" A2 CD |"Am" E2 FE"G" D2 EC |"F" C8 |"F" A4"G" B4 |"C" c4"G" d4 |"F" A4"G" B4 | %15
+w: too ma- ny things go- ing|on, go- ing wrong in your|life|Tears in|your eyes|sweet good-|
+w: We won't for- get Still there's|lots of love left to hold|tight|_ _|||
+"C" c2 z G"G" (3c2 B2 G2 |"F""^Chorus" A4"C" G4 |"Am" E4"C" c2 G2 |"F" AGGE"G" A3 G | %19
+w: byes I know how you|feel right|now Los- ing|things you've come to care a-|
+w: ||||
+"C" E2 z E"G" c B2 G |"F" A4"C" G4 |"Am" E2 z C"G" FEDC |"Dm" FEDC F2 E2 |"G" B,2 z2 EGDC |1 %24
+w: bout I know what you|need right|now You need to come on|home so I can hold you|tight Get you thru the|
+w: |||||
+"Am" C4"G" D4 |"C" E2 z C"F" FFCC |"Am" CA,- A,2"G" c4 |"F" c2 c2 c2 c2 :|2"F" C2 AA AGGE || %29
+w: night _|_ I'll get you thru the|night _ _ _|_ _ _ _|night Eve- ry- thing I love be-|
+w: |||||
+"Am" E D2 D"G" DEDC |"F" A,2 AA AGGE |"Am" EDDD"G" DEDC |"F" A,2 AA AGGE |"Em" E D2 D AGGE | %34
+w: tween us will get us thru the|night All the things we lost will|teach us see the pret- ty things in|life All the pla- ces that we've|been to The peo- ple we re-|
+w: |||||
+"Dm" EDAA AGGE |"G" E D3 E2 A,2 |"F" A4"G" B4 |"C" c4"G" d4 |"F" A4"G" B4 | %39
+w: late to All the love that we give|in to Blow the|tears from|our eyes|Sweet good-|
+w: |||||
+"C" c2 z G"G" (3c2 B2 G2 |"F" A4"C" G4 |"Am" E4"C" c2 G2 |"F" AGGE"G" A3 G |"C" E2 z E"G" c B2 G | %44
+w: byes I know how you|feel right|now Lo- sing|dreams you've come to care a-|bout I know what you|
+w: |||||
+"F" A4"C" G4 |"Am" E2 z C"G" FEDC |"Dm" FEDC F2 E2 |"G" B,8 |"G" G,4 EGDC |"C" C8 |"C" [Cc]8 |] %51
+w: need right|now You need to come on|home so I can hold you|tight|I'll get you thru the|night|_|
+w: |||||||
+

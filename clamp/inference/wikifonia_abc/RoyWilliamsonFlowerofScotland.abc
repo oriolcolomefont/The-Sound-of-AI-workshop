@@ -1,0 +1,31 @@
+X:1
+T:Flower of Scotland
+T:Flower of Scotland
+C:Roy Williamson
+Z:All Rights Reserved
+L:1/4
+Q:1/4=195
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 23
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x2 B |"G" B2 A | G3 | D3- | D2 D | G2 B |"Am" A3- | A2 A |"D7" G2 A |"G" B3- |"C" B3-"G" | B2 B | %12
+w: 1.O|Flower of|Scot-|land|_ When|will we|see|_ your|like a-|gain?|_|* That|
+w: 2.The|hills are|bare|now|_ And|au- tumn|leaves|_ lie|thick and|still|_|* O,er|
+w: 3.Those|days are|past|now|_ And|in the|past|_ they|must re-|main,|_|* But|
+"C" (c B) c |"G" d3 | G3- | G2 D |"Am" A2 A |"D7" (A G) A"G" | B2 .c | .B2 .A | .G3 | D3- | D2 B | %23
+w: fought _ and|died|for|_ your|wee bit|hill _ and|glen And|stood a-|gainst|him|_ proud|
+w: land that is|lost|now|_ which|those who|dear- * ly|held _|_ _||||
+w: we can still|rise|now|_ And|be a|na- tion a-|gain That|_ _||||
+"C" (c B) c |"G" d3 | G3- | G2 B |"C" (c B) A |"G" (B2 A) | G3- | G2 G |"F" =F2 A |"G" G3- | G3- | %34
+w: E- * ward's|ar-|my|_ And|sent _ him|home- *|wards|_ tae|think a-|gain.|_|
+w: |||||||||||
+w: |||||||||||
+ G2 |] %35
+w: |
+w: |
+w: |
+

@@ -1,0 +1,30 @@
+X:1
+T:Since I Fell For You
+T:Since I Fell For You
+C:Buddy Johnson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Ebmaj7""Cm7" B8- |"Fm7" B2 AB"Bb7" _dB (3(dB)A |"Eb""Cm7" B8 |"Fm7" z E_GA"Bb7" BA (3(GF)E | %4
+w: You|_ made me leave my hap- * py|home,|You took my love and now _ you're|
+"Ab""Abm" E8 |"Eb/G" z2"Cm7" CE- E"Fm7" F2"Bb7" E |"Eb""Cm7" _G8 |"Fm7" _G4"Bb7" z4 | %8
+w: gone.|Since I _ fell for|you.|_|
+"Ebmaj7""Cm7" B8- |"Fm7" B2 AB"Bb7" _dB (3dBA |"Eb""Cm7" B8 |"Fm7" z E_GA"Bb7" BA (3(GF)E | %12
+w: Love|_ brings such mis- er- y _ and|pain.|I know I'll nev- er be _ the|
+"Ab9""Gb9" E8 |"F7" z2 CE-"Bb9sus4" E F2 E |"Eb" E8 |"Bbm7" E6"Eb7" z E | %16
+w: same|Since I _ fell for|you.|_ It's|
+"Ebm7" _G A3-"Ab7" A2 z E |"Ebm7" _G A3-"Ab7" A2 z E |"Eb7" B2 A2 _G2 (EC) | B, x7 | %20
+w: too bad, _ it's|too sad _ But|I'm in love with _|you.|
+"Bbm7" B,6"Eb7" z E |"Ebm7" _G A3-"Ab7" A2 z E |"Ebm7" _G A3-"Ab7" A2 z E |"Eb6" GBcB-"C+7" B3 E | %24
+w: * You|love me _ then|snub me, _ Oh,|what can I do? _ I'm|
+"Fm7" GBcG"Bb7" B4 |"Ebmaj7""Cm7" B8- |"Fm7" B2 AB"Bb7" _dB (3(dB)A |"Ebmaj7""Cm7" B8 | %28
+w: still in love with you.|I|_ guess I'll nev- er see _ the|light.|
+"Fm7" z E_GA"Bb9" BA (3(GF)E |"Ab9""Gb9" E8 |"F7" z2 CE- E"Bb9sus4" F2 E |1"Eb6" E8 || %32
+w: I get the blues most ev- * 'ry|night,|Since I _ fell for|you.|
+"F7""Bb9" z8 :|2"E6" E8 |] %34
+w: |you.|
+

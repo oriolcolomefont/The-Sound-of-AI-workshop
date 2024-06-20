@@ -1,0 +1,28 @@
+X:1
+T:Tin Roof Blues
+T:Tin Roof Blues
+C:New Orleans Rhythym Kings
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"^Slowly" z4 z2 Bc |"Eb" e8- |"Eb7" e>Bc>_d c>B^F>G |"Eb" B6 F>G |"Eb7" _d8 | %5
+w: I have|seen|* the bright lights burn- ing up and|down old Broad-|way.|
+"Ab" (3c=Bc B>c _B A3 |"Ab7" (3c=Bc B>c _B^FGB- |"Eb" B8- | B2 ^FG d2 c2 |"Bb7" c4 B4- | %10
+w: Seen 'em in gay Ha- van- a,|Burm- ing- ham Al- a- bam- a, and say,||* they just can't com-|pare with|
+ B>^FG>c B G2 E- |"Eb""Ab7" E8- |"Eb" E2 z2"Bb7" z2 =A2 ||"Eb" B>=A_A>G B c3 | e2 GB- B4 | %15
+w: * my home- town, New Or- leans.||* 'Cause|there you'll find the old Tin|Roof Caf- e, *|
+ B>=A_A>G B c3 |"Eb7" e2 d_d- d4 |"Ab" e>d_d>c E F3 |"Ab7" _G A2 E- E4 |"Eb" B>=A_A>G B c3 | %20
+w: where they play the blues till|break of day. *|Fas- cin- a- tin' ba- bies|hang- in' 'round, *|danc- in' to the mean- est|
+"C7" =e2 Gc- c4 |"F7" e8- |"Bb7" e^FFG B2 G2 |"Eb""Ab7" E8- |"Eb" E2 z2"Bb7" z2 =A2 | %25
+w: band in town. *|Lawd,|* how they can play the|blues,|* and|
+"Eb" B>=A_A>G (B=A)(_AG) | B2 EG- G4 | B>=A_A>G (B=A)(_AG) |"Eb7" B2 EG- G4 | %29
+w: when the lead- er man * starts *|play- in' low, *|folks get up and start * to *|walk it slow. *|
+"Ab" e>d_d>c (e>=d)(_d>c) |"Ab7" e2 Ac- c4 |"Eb" B>=A_A>G (B=A)(_AG) |"C7" =e2 GB- B4 |"F7" e8- | %34
+w: Do a lot of move- * ments *|hard to beat. *|Till that old floor- man * says *|"Move your feet," *|Lawd,|
+"Bb7" e^FFG B2 G2 |"Eb""Ab7" E8- |"Eb" E2 z2 z4 |] %37
+w: * I've go thoes Tin ~~Roof|Blues.||
+

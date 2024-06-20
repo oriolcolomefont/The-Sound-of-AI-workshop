@@ -1,0 +1,24 @@
+X:1
+T:Time On My Hands
+T:Time On My Hands
+C:Mack Gordon, Vincent Youmans
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"F" (3E F D"Fmaj7" E2- | E3 z |"E7" (3E F D E2- | E3 z |"Gm7" (3D E C D2- | D2"Bbm6" F2 | %6
+w: Time on my hands,||You in my arms,||Noth- ing but love,|* in|
+"Gm7" A4- |"C7b9" A3 z |"F" (3E F D"Fmaj7" E2- | E3 z |"E7" (3E F D E2- | E3 z |"Gm7" (3D E C D2- | %13
+w: view;||Then if you fall,||Once and for all,||I'll see my dreams|
+ D2"Bb7" F2 |"A7" A4- |"A+7" A3"A7" z |"D+7" (3B c A B2- | B2"D7" c2 |"G9" ^c e d"Gm7" =c- | %19
+w: * come|true.||Mo- ments to spare|* for|some- one to care|
+ c2"C9" A2 |"F" (3G A F"Dm7" G2- |"G7" G2 E2 |"Gm7" D4- |"C9" D c"C+7" ^G"C7b9" A | %24
+w: * for,|One love af- fair|* for|two|* ooh * With|
+"F" (3E F D"Fmaj7" E2- | E2"F" F2 |"D+7" (3B c A B2- | B2"D7" c2 |"G9" (3^c e d A2 | %29
+w: time on my hands|* And|you in my arms,|* And|love in my heart|
+"Gm7" A2"C7b9" A2 |1"F""Dm7" F4- ||"G7" F"C+7" z"C7b9" z2 :|2"F""Bb9" F4- ||"Fmaj7" F3 z |] %34
+w: all for|you.||you.||
+

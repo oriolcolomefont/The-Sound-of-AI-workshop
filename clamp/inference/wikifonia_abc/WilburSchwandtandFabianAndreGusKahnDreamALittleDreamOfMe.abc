@@ -1,0 +1,30 @@
+X:1
+T:Dream A Little Dream Of Me
+T:Dream A Little Dream Of Me
+C:Wilbur Schwandt and Fabian Andre
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^A" G2 F/G/F/E/ |"Eb9" G2"D9" F2 |"G" G2 F/G/F/E/ |"E7" (3^G B G"Bm7b5" =F"E7""E7" E | %4
+w: Stars shin- ing bright a-|bove you,|Night breez- es seem to|whis- per, "I love you."|
+"Am" A2 G/A/G/E/ |"Cm6" (3A G _E G2 |"G" D/E/G/A/"A7" B e |"D7" d4 |"G" G2 F/G/F/E/ | %9
+w: Birds sing- ing in the|syc- a- more tree,|"Dream a lit- tle dream of|me."|Say "night- y- night" and|
+"Eb9" G2"D9" F2 |"G" G2 F/G/F/E/ |"E7" (3^G B G"Bm7b5" =F"E7" E |"Am" A2 G/A/G/E/ | %13
+w: kiss me;|Just hold me tight and|tell me you'll miss me.|While I'm a- lone and|
+"Cm6" (3A G _E G2 |"G" D/E/"F9"G/A/"Eb9" _B"D9" A |"G" G2"Fb9""Bb9" z2 |"Eb""^B" _e2"Cm7" (3c e c | %17
+w: blue as can be|Dream a lit- tle dream of|me.|Stars fad- ing, but|
+"Fm7" (3_B G B"Bb9" C D |"Eb" _e2"Cm7" (3c e c |"Fm7""Bb9" _B4 |"Eb" _e2"Cm7" (3c e c | %21
+w: I lin- ger on, dear,|Still crav- ing your|kiss;|I'm long- ing to|
+"Fm7" (3_B G B"Bb9" C D |"Eb" _e2"Cm7" _B c |"Am7""D9" d4 |"G""^C" G2 F/G/F/E/ |"Eb9" G2"D9" F2 | %26
+w: lin- ger till dawn, dear|Just say- ing|this:|Sweet dreams 'til sun- beams|find you,|
+"G" G2 F/G/F/E/ |"E7" (3^G B G"Bm7b5" =F"E7" E |"Am" A2 G/A/G/E/ |"Cm6" (3A G _E G2 | %30
+w: Sweet dreams that leave all|wor- ries be- hind you;|But in your dreams, what-|ev- er they be,|
+"G" D/E/"F9"G/A/"Bb9" _B"D9" A |"G" G4 :| %32
+w: Dream a lit- tle dream of|me.|
+

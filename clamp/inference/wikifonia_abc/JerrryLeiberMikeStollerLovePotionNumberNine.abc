@@ -1,0 +1,33 @@
+X:1
+T:Love Potion Number Nine
+T:Love Potion Number Nine
+T:Jerry Leiber & Mike Stoller
+C:Jerrry Leiber & Mike Stoller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" B2 B4 G2 |"A7" A2 A2"B" F2 z2 |:"Em" z BBB BBBB |"A7" A2 EG- G2 z2 |"Em" z BBB BBBB | %5
+w: ||I took my trou- bles down to|Ma- dam Ruth *|You know that Gyp- sy with the|
+w: ||I told her that I was a|flop with chicks *|I've been this way since nine- teen|
+"A7" A2 EG- G2 z D |"G" D2 ED G2 AG | BAGD E3 D |"A7" EGGE G-G A2 |"B7" z2 B2 AGE^D |1"Em" E8- || %11
+w: gold- capped tooth * *|She's got a pad down at|thir- ty- fourth and Vine *|Sell- in' lit- tle bot- tles of|Love Pot- ion Num- ber|Nine|
+w: fif=- ty- six * She|looked at my palm and she|made a mag- ic sign She|said * you"What you need- " is|Love Pot- ion Num- ber||
+ E8 :|2"Em" E8 || z4 z2 z G |"A7" A2 AG AGAG | AGEA- A2 z E |"F#m" FEFE FEFE | FE^CF- F2 z F | %18
+w: ||She|bent down and turned a- round and|gave me a wink * She|said I'm gon- na mix it up right|here in the sink * It|
+w: |nine||||||
+"A7" AGAG AGAG | AGEA- A2 z B |"B7" BBBB BBB z | z B,B,B, B, z2 z |"Em" z BBB BBBB | %23
+w: smelled like tur- pen- tine and looked like|In- di- a ink * I|held my nose I closed my eyes|I took a drink|I did- n't know if it was|
+w: |||||
+"A7" A2 EG- G2 z2 |"Em" z BBB BBBB |"A7" A2 EG- G2 z E |"G" DDED G2 AG |"G" BAGD E3 D | %28
+w: day or night *|I star- ted kiss- in' ev- 'ry|thing in sight * But|when I kissed the cop down at|Thir- ty- fourth and Vine he|
+w: |||||
+"A7" EGGE GG A2 |"B7" z2 B2 AGE^D |"Em" E8 | e2 Be- e2 z2 |] %32
+w: broke my lit- tle bot- tle of|Love Po- tion Num- ber|Nine.||
+w: ||||
+

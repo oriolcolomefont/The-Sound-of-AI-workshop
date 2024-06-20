@@ -1,0 +1,15 @@
+X:1
+T:Dag Sinterklaasje
+C:Traditional
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"C" G E/>D/ C G |"F" A F"C/E" G E |"Dm" F D"C" E C |"D" D E"G" D2 |"C" G E/>D/ C G | %5
+w: Dag Sin- ter- klaas- je,|da- ag, da- ag,|da- ag, da- ag,|Zwar- te Piet|Dag Sin- ter- klaas- je,|
+"F" A F"C/E" G E |"Dm" F D"C" E C |"G" D E"C" C2 |] %8
+w: da- ag, da- ag,|luis- ter naar ons|af- scheids- lied|
+

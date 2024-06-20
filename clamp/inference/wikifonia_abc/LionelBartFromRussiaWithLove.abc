@@ -1,0 +1,26 @@
+X:1
+T:From Russia With Love
+T:From Russia with love
+T:(Theme from James Bond 007)
+T:Lionel Bart
+C:Lionel Bart
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z B, |"Em" E G2 E |"C" c3 B |"F" ^A3 B |"B7" F3 B, |"Em" E G2 E | d3 ^c |"Am" c3 B | %8
+w: From|Rus- sia with|love I|fly to|you Much|wis- er since|my good-|bye to|
+"B7" ^d3 B |"E7" e B2 ^G | E3 d |"Am" d3 c |"Em" A3 F |"B7" c3 B | B, ^D2 F |"Em" E4- | E2 ^D E | %17
+w: you I've|tra- velled the|world to|learn, I|must re-|turn from|Rus- sia with|love|_ I've seen|
+"Am" d c3 |"D7" d c2 A |"G" c B2 ^A | c B2 G |"Am7" A4- |"D7" A2 B (3A/G/A/ |"Gmaj7" B4- | %24
+w: pla- ces|fac- es and|smiled for a|mo- ment but|oh|* you haun- ted me|so|
+"G" B2 ^D E |"Am" d c3 |"D7" d c2 A |"G" c B2 A |"Em" G F2 E |"Am" F4- | F2 F (3F/A/c/ |"B7" B4- | %32
+w: _ still my|tongue- tied|young pride, would|not let my|love for you|show|_ in case you'd say|no|
+ B3 B, |"Em" E G2 E |"C" c3 B |"F7" ^A3 B |"B7" F3 B, |"Em" E G2 E | d3 ^c |"Am" c3 B |"B7" ^d3 B | %41
+w: _ To|Rus- sia I|flew but|there and|then I|sud- den- ly|knew you'd|care a-|gain my|
+"E7" e B2 ^G | E3 d |"Am" d3 c | B3 F |"Em" c3 B |"B7" ^d c2 B |"Em" e4- | e3 z |] %49
+w: run- ning a-|round is|through I|fly to|you from|Rus- sia with|love.|_|
+

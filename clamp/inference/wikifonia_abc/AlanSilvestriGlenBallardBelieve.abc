@@ -1,0 +1,53 @@
+X:1
+T:Believe
+T:Believe
+C:Alan Silvestri
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:S"E" E3 B- B4 |"G#m/D#" D3 B- B4 |"E" E2 FG- G B,3 |"G#m/D#" D3 B,- B,4 |"F#m" z4 F3 C | %5
+w: 1.~Chil- dren _|sleep- ing, _|snow is soft- * ly|fall- ing. _|Dreams are|
+w: 2.~Trains move _|quick- ly _|to their jour- * neys|end. * *|Des- ti-|
+"Eb" _E3 _B,- B,4 |"F#m" z2 z C F>G-GA |"A" (G3 F)"B" F4 |"E" E3 B- B4 |"G#m/D#" D3 B- B4 | %10
+w: call- ing _|like bells in _ the|dis _ tance.|We were _|dream- ers, _|
+w: na- tions _|are where we _ be-|gin a- gain.|Ships go _|sail- ing, _|
+"E" E2 FG- G2 B,D- |"G#m/D#" D4 z4 |"F#m" z2 z C F3 C |"Eb" _E3 _B,- B,4 |"F#m" z2 z C F>G-GA | %15
+w: not so long _ a- go,|_|but one by|one, we _|_ all had _ to|
+w: far a- cross _ the sea,|_|* trust- ing|star- light _|to get where _ they|
+"A" (G3 F)"B" F4 ||"G#m" G/BB/-BB/B/- BBBc |"A" E6 z3/2 C/ |"D/F#" AA/A/-AA/A/- AGF(E/F/) | %19
+w: grow _ up.|When it seems _ the ma- * gic slipped a-|way, we|find it all _ a- gain _ on Christ- mas _|
+w: need to be.|When it seems _ that we _ have lost our|way, we|find our- selves _ a- gain _ on Christ- mas _|
+"Bsus4" F6"B" z3/2 G/ ||[M:4/4]"E" BBBG/B/-"F#m11" BB B<G |"E9/G#" BB/B/- B/de/-"A" ed B<A | %22
+w: day. Be|lieve in what your heart _ is say- ing,|hear the mel- * o- dy _ that's play- ing.|
+w: day. *|||
+"E" GGGF/(G/"Bsus4/D#" F2) (3z EF |"F#m7" G>AGA/G/-"E/B" G2"Bsus4" z3/2 G/ | %24
+w: There's no time to waste, _ there's so|much to cel- e- brate. _ Be-|
+w: ||
+"E" BBBG/B/-"F#m11" BB (B/G)G/ |"E9/G#" BBBd/e/-"G#+7" e3 d |"C#m" e6 z2 |"F#m7" cd/e/-ef c>d-de- | %28
+w: lieve in what you feel _ in- side _ and|give your dreams the wings _ to|fly.|You have ev- * 'ry- thing you _ need|
+w: ||||
+"B7sus4" e4 gf e2-!dacoda! ||"E" ed e6 |"G#m/D#" z8!D.S.! :|OO"E" ed"F#m11" e6 | %32
+w: _ if you just|_ be- lieve||* be- lieve.|
+w: ||||
+"E9/G#" z4"A" gf e2- |"E" ed"Bsus4/D#" e6 |"F#m11" z4"E/B" gf"Bsus4" e2- |"E" ed"F#m11" e6 | %36
+w: If you just|_ be- lieve,|if you just|_ be- lieve,|
+w: ||||
+"E9/G#" z4"A" CB, C2- |"E" CB,"Bsus4/D#" B,6 |"F#m7" z4 z"E/B" c2"Bsus4" B |"E""B#m11" B8 | %40
+w: if your just|_ be- lieve.|Just be-|lieve,|
+w: ||||
+"E9/G#" z4"A" z2 F2- |"E" FE"Bsus4/D#" E6 |"F#m7" z4"E/B""Bsus4" z4 |:"E" a2 BB,"F#m11" B2 B2 | %44
+w: just|_ be- lieve.|||
+w: ||||
+"E9/G#" B2 B2"A" edcd |"E" B2 BB,"Bsus4/D#" B2 B2 | %46
+w: ||
+w: ||
+"F#m7""^Repeat ad lib. and fade." e2 BB,"E/B" B2"Bsus4" B2 :| %47
+w: |
+w: |
+

@@ -1,0 +1,34 @@
+X:1
+T:C'est Si Bon  (It's so good)
+T:C'est si bon
+T:(It's so good)
+T:Henri Betti
+T:English: Jerry Seelen   French:  Andre Hornez
+C:Henri Betti
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z z G ^F ||"Dm" F4- |"G7" F G/A/ c/B/ G |"C" E4- | E G/A/ c/A/ G |"Dm7""^To" F4 | %6
+w: C'est si|bon|* Lo- vers say that in|France,|* When they thrill to ro-|mance|
+w: |good,|* Noth- ing else can re-|place,|* Just your slight- est em-|brace,-|
+"^Coda" G A/B/ e B |"C" A4- | A2 G ^F |"Dm7" F4- | F/"G7"G/A/B/ A G |"C" E4- | E/ z G/ A/B/A/G/ | %13
+w: It means that it's so|good|* C'est si|bon,|* So I say it to|you,|* Like the French peo- ple|
+w: |||||||
+"Dm7" F4 |"G7" G A/B/ d G |"C" c4- | c z c _d |"Ab" _e2 c _B |"Db" _A2 G F |"Ab" F2 _E2- | %20
+w: do,|Be- cause it'soh, so good||* Ev- 'ry|word, ev- 'ry|sigh, ev- 'ry|kiss, dear,|
+w: |||||||
+ E z c ^c |"D7" d2 c B | A2 B c |"Dm7" z e z2 |"G7" d z G ^F!D.S.! ||"^al" G"^Coda" B/d/ g g | %26
+w: * Leads to|on- ly one|thought and it's||dear, Its so|And if you on- ly|
+w: ||||||
+ g4- | g z g ^f |"Dm" f4- |"Fm" f e/d/ f/e/ d |"E" e4- | e/e/d/c/ B A |"Fm" _A4 |"G7" G A/B/ e G | %34
+w: would|* be my|own,|* For the rest of my|days,|* I will whis- per this|
+phrase,|My dar- ling C'est si|
+w: ||||||||
+"C" c4- | c z z2 |] %36
+w: bon.||
+w: ||
+

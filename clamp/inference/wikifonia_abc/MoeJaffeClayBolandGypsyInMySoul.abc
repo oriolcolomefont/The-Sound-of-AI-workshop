@@ -1,0 +1,39 @@
+X:1
+T:Gypsy In My Soul
+T:Gypsy In My Soul
+T:Moe Jaffe & Clay Boland
+C:Moe Jaffe & Clay Boland
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z2 B,2 E2 F2 |"Fm7" G2 BA-"Bb7" A4 |"Eb" z2 B,2 E2 F2 |"Fm7" G3 F-"Bb7" F4 | %4
+w: If I am|fan- cy free, *|and love to|wan- der, *|
+"Eb" z2 B,2 E2 F2 |"Fm" G2 BA-"Bb7" A G2 E |"Eb6" E8- |"F7" E4"Bb7" z4 |"Eb" z2 B,2 E2 F2 | %9
+w: it's just the|gyp- sy in * my soul.|||There's some- thing|
+"Fm7" G2 BA-"Bb7" A4 |"Eb" z2 B,2 E2 F2 |"Fm7" G3 F-"Bb7" F4 |"Eb" z2 B,2 E2 F2 | %13
+w: call- ing me, *|from way out|yon der, *|it's just the|
+"Fm" G2 BA-"Bb7" A G2 E- |"Eb6" E8- |"Cm6" E4"D7" z4 |"Gm7" G3 d-"C7" d>c B2 | %17
+w: gyp- sy in * my soul.|||I've got * to give|
+"Gm7" G3 d-"C7" d>c B2 |"Gm7" G3 G-"C7" G4- |"Gm7""C7" G8 |"Fm7" F3 c-"Bb7" c>B A2 | %21
+w: vent to * my e-|mo- tions, *||I'm on- * ly con-|
+"Fm7" F3 c-"Bb7" c>B A2 |"Fm7""Bb7" F8- |"Fm7" F4"Bb7" z4 |"Eb" z2 B,2 E2 F2 | %25
+w: tent hav- * ing my|way.||There is no|
+"Fm7" G2 BA-"Bb7" A4 |"Eb" z2 B,2 E2 F2 |"Fm7" G3 F-"Bb7" F4 |"Eb" z2 B,2 E2 F2 | %29
+w: oth- er life, *|of which I'm|fon- der, *|it's just the|
+"Fm" G2 BA-"Bb7" A G2 E- |"Eb6" E8- | E2 z e-"F#dim" e3 c- |"Bb7""Edim" c8- | %33
+w: gyp- sy in * my soul||* No * cares||
+"Bb7" c2 z d-"Bb+" d3 B- |"Eb6""Bb7" B8- |"Eb6" B2 z e-"F#dim" e3 c- |"Bb7""Edim" c8- | %37
+w: * no * strings||* my * heart||
+"Bb7" c2 z d-"Bb+" d3 B- |"Eb6""Edim" B8- |"Fm7" B4-"Bb7" B z z2 |"Eb" z2 B,2 E2 F2 | %41
+w: * has * wings|||If I am|
+"Fm7" G2 BA-"Bb7" A4 |"Eb" z2 B,2 E2 F2 |"Fm7" G3 F-"Bb7" F4 |"Eb6" z2 B,2 E2 F2 | %45
+w: fan- cy free *|and love to|wan- der, *|it's just the|
+"Fm7" G2 BA-"Bb7" A G2 E- |"Eb6""Db7" E8- |"Eb6" E6 z2 |] %48
+w: gyp- sy in * my soul.-|||
+

@@ -1,0 +1,27 @@
+X:1
+T:Fraulein
+T:Fraulein
+C:Lawton Williams
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 A/B/ |:"F" c d c |"F7" F A c/B/ |"Bb" B, D F | B, D F/D/ |"C7" C E G | B c d |"F" (d c2- | %8
+w: Far a|cross the blue|wat- ers, lives an|old Ger- man's|daugh- ter, By he|banks of the|old riv- er|Rhine, _|
+w: |mem- o- ries|wan- der a- *|way ov- er|yon- der, To the|sweet- heart that|I left be-|hind, _|
+"C7" c) z A/B/ |"F" c d c |"F7" F A c |"Bb" B, D F | B, D D |"C7" C E G | B A G |"F" F3- | F z c || %17
+w: _ Where I|loved her and|left her, but|I can't for-|get her, 'Cause|I miss my|pret- ty Frau-|lein.|_ Frau-|
+w: _ In a|mo- ment of|glo- ry, A|face comes be-|fore me, The|face of my|pret- ty Frau-|lein.|_ Frau-|
+"F" c2 A |"F7" (F c) c |"Bb" B, D F | B, D3/2 F/ |"C7" C E G | B c d |"F" (d c2- |"C7" c) z c/c/ | %25
+w: lein, Frau-|lein, _ Look|up toward the|hea- vens each|night when the|stars seem to|shine, _|_ By the|
+w: lein, Frau-|lein, _ Walk|down by the|ri- ver, Pre-|tend that your|hand's hold- ing|mine, _|_ By the|
+"F" c d c |"F7" F A c |"Bb" B, D F | B, D- D |"C7" C E G | B A G |1"F""Fdim" F3 ||"C7" z z A/B/ :|2 %33
+w: same stars a-|bove you, I|swear that I|love you, _|You are my|pret- ty Frau-|lein|When my|
+w: same stars a-|bove you, I|swear that I|love you, And|I al- ways|will, my Frau-|||
+"F" F3- || F2 z |] %35
+w: ||
+w: lein.|_|
+

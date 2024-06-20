@@ -1,0 +1,19 @@
+X:1
+T:John Browns body
+T:John Browns Body
+T:unknown
+C:William Steffe (?)
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" D2 D2 B,DGA | BBBA G4 |"C" E2 E2 GFGE |"G" DEDC B,4 |"G" D2 D2 B,DGA |"B" BBBA"Em" G2 GG | %6
+w: John Browns bo- dy lies a|mould- ring in the grave|John Browns bo- dy lies a|mould- ring in the grave|John Browns bo- dy lies a|mould- ring in the grave but his|
+"Am" A2 A2"G" G2"D" F2 |"G" G6 z2 |"^Chorus:" D3 C B,DGA |"G" B4 G4 |"C" E3 F GFGE |"G" D4 B,4 | %12
+w: soul goes march- ing|on|Glo- ry glo- ry hal- le|lu- jah|glo- ry glo- ry hal- le|lu- jah|
+ D3 C B,DGA |"B" B4"Em" G2 G2 |"Am" A2 A2"G" G2"D" F2 |"G" G6 z2 |] %16
+w: glo- ry glo- ry hal- le|lu- jah his|soul goes march- ing|on.|
+

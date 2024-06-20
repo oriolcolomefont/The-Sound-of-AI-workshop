@@ -1,0 +1,22 @@
+X:1
+T:A child this day is born
+T:A child this day is born
+T:traditional
+C:traditional
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|: z2 z"D" A | A d c (A/B/) |"A" c3 e | d c"E" (d/c/) B |"A" A3 A | A"D" D B d | (A3/2 B/)"A" A G | %7
+w: A|child this day is *|born a|child of high * re-|nown most|worth- y of a|scep * tre a|
+w: These|tid- ings shep herds *|heard whilst|watch- ing o'er * their|fold twas|by an an- gel|un- to them that|
+"E" F d F E |"D" D3"A" A | A d c (A/B/) |"E" c3 e | d c (d/c/) B |"A" A3 A | A D"D" B d | %14
+w: scep- tre- and a|crown Glad|tid- ings to all *|men glad|ti- dings sing * we|may be-|cause the King of|
+w: night re- vealed and|told *||||||
+ (A3/2 (B/) A) G |"E" F d F E |"D" D3 z :| %17
+w: Kings * * was|born on Christ- mas|Day|
+w: |||
+

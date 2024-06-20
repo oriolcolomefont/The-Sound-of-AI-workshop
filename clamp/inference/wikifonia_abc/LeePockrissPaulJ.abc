@@ -1,0 +1,35 @@
+X:1
+T:Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+T:Paul J. Vance, Lee Pockriss
+T:(popularized in 1960 by Brian Hyland)
+T:Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini
+T:George Pincus & Sons Music Corp., New York, 1960, 1963
+C:Lee Pockriss, Paul J. Vance
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^moderate cha-cha tempo" EEF |:"C" G2 EF G2 EG |"G7" FD z2 z DDE | F2 DE (F B2) A | %4
+w: 1.~~She was a-|fraid to come out of the|lock- er, She was as|ner- vous as she~\_\_\_\_ * could|
+w: 2.~~She was a-|fraid to come out in the|o- pen, And so a|blan- ket a- round her she|
+w: 3.~~Now she's a-|fraid to come out of the|wa- ter, \_\_\_ And I|won- der what she's gon- na|
+"C" G2 z2 z EEF | G2 EF G c2 B |"F" BA z2 z AAA |"C" G2 EG F E2 D | C2"^(Spoken)" G2 G2 G2 | %9
+w: be, She was a-|fraid to come out of the|lock- er She was a-|fraid that some- bod- y would|see. (Two, three, four,|
+w: wore; She was a-|fraid to come out in the|o- pen, And so she|sat bun- dled up on the|shore. * * *|
+w: do; Now she's a-|fraid to come out of the|wa- ter, \_\_\_ And the|poor lit- tle girl's turn- ing|blue. * * *|
+ GGGG GG G2 |{/^f} g2 G2"^Gdim." A2"^Gdim." ^A2 |"G7" BB=AG BBAG |"C" ccAG ccAG | %13
+w: Tell the peo- ple what she wore!)|* It was an|it- sy bit- sy tee- nie wee- nie|yel- low pol- ka- dot bi- ki- ni|
+w: ||||
+w: ||||
+"G7" z B2 A G2 AG |"C" G A2 G E2 z G |"G7" BBAG BBAG |"C" ccAG ccAG |"G7" z BBA G A2 G |1,2 %18
+w: That she wore for the|first time to- day; An|it- sy bit- sy tee- nie wee- nie|yel- low pol- ka- dot bi- ki- ni,|So in the lock- er she|
+w: ||||* * * blan- ket *|
+w: ||||* * * wa- ter *|
+ F E2"C" D"C" C2 ||"^(Spoken)" G2 | G2 G2 GGGG | GG G2 z EEF :|3"G7" F E2 DC |] %23
+w: want- ed to stay.|(Two,|three, four, Stick a- round, we'll|tell you more!) 2.~~She was a-|want- ed to stay.|
+w: |||* * * 3.~~Now she's a-||
+w: |||||
+

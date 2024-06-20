@@ -1,0 +1,26 @@
+X:1
+T:The Ring
+T:the ring
+T:edward,r white jack wolf fine
+T:mackwolfson
+C:Edward R. White, Jack Wolf Fine
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ C |"F" A, C F | A B3/2 A/ |"C7" A G2- | G2 C | B, C E | G A3/2 G/ |"F" C3- | C C z | A, C F | %10
+w: A|plain gold- en|ring on her|fin- ger,|* She|wears it as|tho' she were|wed,|* his|prom- ise of|
+"F7" A B c | c"Bb" B2- | B2 B |"F" A C A |"C7" G C A/G/ |"F" F3- |"F7" F F z |"Bb" d d3/2 d/ | %18
+w: mar- riage still|lin- gers|* 'cause|she still be-|lieves what he *|said.|* He|gave her the|
+ B3/2 c/ d |"F" c2 A | A3/2 G/ A |"C7" B2 G | G F G |"F" A2 F | C2"F7" F |"Bb" d2 d | B c d | %27
+w: ring that his|moth- er|wore, the same|ring his|gran- moth- er|wore be-|fore, He|swore he'd|love her for|
+"F" c2 A | F2 F/G/ |"G7" A G F | F E F |"Gm7" G3- |"C7" G z C |"F" A, C F | A B3/2 A/ |"C7" A G2- | %36
+w: ev- er|more, but the|wed- ding was|nev- er to|be|* A|plain gold- en|ring on her|fin- ger,|
+ G2 C | B, C E | G A3/2 G/ |"F" C3- | C C z | A, C F |"F7" A B c | c"Bb" B2- | B2 B |"F" A C A | %46
+w: * she|wears it as|tho' she were|wed|* his|prom- ise of|mar- riage still|lin- gers|* she'll|al- ways be-|
+"C7" G C A/G/ |"F" F3 |] %48
+w: lieve what he *|said.|
+

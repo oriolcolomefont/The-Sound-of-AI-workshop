@@ -1,0 +1,50 @@
+X:1
+T:Come What May
+T:Come What May
+C:David Baerwald
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z c g2 c g3 |"D7" z c ^f2 c f3 |"Fsus2" z c g2 c g3 | z c g2 c g3 | z c g2 c g3 | %5
+w: |||||
+"D7" z c ^f2 c f3 |"Fsus2" z c g2 c g3 |"Fmaj7" z c g2 c g3 |[M:2/4] z c gc || %9
+w: ||||
+[M:4/4]"C" z2 z E/G/ G3 E/G/ |"D7sus4" G2- G/AA/-"D7" A2 z2 |"Fsus2" z2 z G/G/- G/G/G/(E/D)C/G/- | %12
+w: Male:~Nev- er knew I could|feel _ like this, _|like I've _ nev- er seen _ the sky|
+"C" G2 z (E/D/)"G/B" C2 z2 |"Am7" z2 z E/G/ G E2 G- |"C/D" GG- G/AA/-"D7" A2 z2 | %15
+w: _ be- * fore.|Want to van- ish in-|* side _ your kiss. _|
+"Fsus2" z2 GG/G/- GG (E/D/)C |"C" G2 z (E/D/)"G/B" C2 z2 |"Am7" A/cc/- c/cd/- d2- d/cA/ | %18
+w: Ev- 'ry day _ I love _ you|more and _ more.|Lis- ten to _ my heart. _ _ Can you|
+"D7sus4" c3 c"D7" A2 z3/2 C/ |"G9sus4" G/GG/- G/G"G"(A/- Ac- c<)d |"Csus4" f3 e"C" e2"G/B" z2 | %21
+w: hear it sing and|tel- ling me _ to give _ _ _ you|ev- 'ry- thing?|
+"Am" Bc- c/c(d/- d<"C/G"e) z2 |"D" e d2 c A2 z2 | z4 z2 z A/A/ |"C/G" G E3 z G,CF | %25
+w: Sea- sons _ may change _ _|win- ter to spring,|but I|love you un- til the|
+"Fmaj7/G" E4"G" D4 |"C" C4"G/B" B3 c |"Am" A8- | A2 z2 B3 c |"D7" A8- | A2 z2 e3 d | %31
+w: end of|time. Come what|may,|_ come what|may,|_ I will|
+"C" d c3 z Gcf |"C/G" (e3 f/e/"G" d)"G7" (d2 c) |"C" c8- | c4 z4 | z2 E/G/G/G/ G2- G/G/E/G/ | %36
+w: love you un- til my|dy- * * * ing _|day.|_|Girl:~Sud- den- ly the world _ seems such a|
+"D7sus4" G3 A"D7" A2 z2 |"Fsus2" z2 G/G/G/G/ G>G (E/D/)C |"C" G3 (E/D/)"G/B" C2 z2 | %39
+w: per- fect place.|Sud- den- ly it moves with such * a|per- fect _ grace.|
+"Am" (3z EG GG cdc(e/d/- |"D7sus4" d2- (3d)cd"D7" (c<A) z2 |"Fsus2" z3/2 C/GG/G/- G>G (E/D/)C- | %42
+w: Both:~Sud- den- ly my life does- n't seem _|_ _ such a waste. _|Girl:~It all re- volves _ a- round * you.|
+"C" C4"G/B" z eed/d/- |"Am" d<c-cc/(d/ c3) A |"C/D" e2- (3edc"D" A4 |"Gsus4" z G/G/-GG"G" AGcd | %46
+w: _ Both:~And there's no moun-|* tain _ too high _ no|riv- * ver too wide.|Sing out _ this song, and I'll be|
+"Csus4" f2- (3fed"C""G/B" e4 |"Am" z ccc"Am/G" d e2 c |"D/F#" e2- (3edc A2 z2 |"D" z4 z2 z A/A/ | %50
+w: there _ by your side.|Storm clouds may gath- er and|stars _ may col- lide.|Male:~But~ I|
+"C/G" G E3 z G,CF |"Fmaj7/G" E4"G" D4 |"C" C4"G/B" B3 c |"Am" A8- | A2 z2"G/A" B3"Am" c | %55
+w: love you un- til the|end of|time. Both:~Come what|may,|_ come what|
+"D7sus4""D7" A8- | A2 z2 e3 d |"C" d c3 z Gcf |"C/G" (e3 d)"G7" (d3 c) |"C" c2 c2"Em/B" B3 c | %60
+w: may,|_ I will|love you un- til my|dy- * ing _|day. Oh, come what|
+"Am" A8- | A2 z e- e3 c |"Cmaj7/D" (B2- B/c/B-"D7" B2 A2- |"D7sus4" A4)"D7" e3 d | %64
+w: may|_ come _ what|may _ _ _ _ _|_ I will|
+"Csus4""Em/B""Em" (d8 |"Fmaj7" c2) cB B A3 |"Dm7" z2 E/G/G/G/ G3"Em7" G |"F" EG/G-<GA/ A2 z2 | %68
+w: love,|_ I will love you|Girl:~Sud- den- ly the world seems|such a per- * fect place|
+"Ab" CD_EF"Bb" FG_A_B |"C" c4 B3 c |"F/C" A8 |"C" z4 B3 c |"F/C" G8 |"Am" z4 e3"C/G" d | %74
+w: |* Both:~Come what|may,|come what|may,|I will|
+"F" (d/c/)c- c2 z Gcf |"C/G" (e3 d)"G7" (d2- d<c) |"C" c8 | c'2 z2 z4 |] %78
+w: love _ you _ un- til my|dy- * ing _ _|day.||
+

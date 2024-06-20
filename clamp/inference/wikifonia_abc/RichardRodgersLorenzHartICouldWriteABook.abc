@@ -1,0 +1,25 @@
+X:1
+T:I Could Write A Book
+T:I Could Write A Book
+T:From Pal Joey
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"^Foxtrot or Swing""^N.C." A B |"F" c2"Am" e2 |"Gm" d c"C7" A G |"F" A4- |"Gm" A c"C7" A G | %5
+w: If they|asked me|I could write a|book,|* a- bout the|
+"F" A c A G | A f2 A |"Gm" c4- |"C7" c2 d e |"F" f2 f2 |"Gm" f g2"C7" e |"F" d2 d2 |"C" c2 A =B | %13
+w: way you walk and|whis- per and|look|* I could|write a|pre- face on|how we|met so the|
+ c2 c2 |"Dm" c d2"G7" =B | c4- |"C7" c2 A B |"F" c2"Am" e2 |"Gm" d c"C7" A G |"F" A4- | %20
+w: world would|nev- er for-|get|* and the|sim- ple|se- cret of the|plot|
+"Gm" A c"C7" A G |"F" A c A G | A f2 A |"Gm" c4- |"C7" c2 d e |"F" f2 f2 |"Gm" f"C7" g2 e | %27
+w: * is just to|tell them that I|love you a|lot|* then the|world dis-|cov- ers as|
+"F7" _e2 e2 |"Bb" d2 c B |"F" A2 A2 |"Gm" G f2"C7" e |"F" f4- | f4 |] %33
+w: my book|ends, how to|make two|lov- ers of|friends.||
+

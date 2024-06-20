@@ -1,0 +1,38 @@
+X:1
+T:Remind Me
+T:Remind Me
+C:Jerome  Kern
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3 G |:S"Ebmaj7" B2 G2- | G G/G/ A/A/B/B/ |"Bb7" c2 A2- | A3 G |"Ebmaj7" B2 G2- | %6
+w: Re-|mind me|_ not to find you so at-|trac- tive,|_ Re-|mind me|
+w: |mind me|_ not to men- tion that I|love you.|_ Re-|mind me|
+ G G/G/ A/A/B/B/ |"D7" c4- | c3 =B |"G" d2 =B B |"Gmaj7" d2 =B B |"G7" d c =B d |"Cmaj7" =B2 G G | %13
+w: _ that the world is full of|men.|_ When|I start to|miss you, to|touch your hand, to|kiss you, Re-|
+w: _ to be sor- ry that we|met.|_ Al-|though I a-|dore you, Re-|mind me to ig-|nore you, you're|
+"Eb" _B2 G2- |"Bb7" G A B c |"Ebmaj7" d4- | d/c/e/B/ d/A/c/G/ |"Eb" B2 c2- | %18
+w: mind me|_ to count to|ten!|_ I had a feel- ing when I|met you|
+w: one thing|_ I will re-|gret!|_ So when your charm be- gins to|blind me,|
+"Bb7" c/A/B/G/ A/F/G/E/ |"Eb6" F2 G2- |"Bb9sus4" G/E/F/D/ E/C/D/B,/ |"Ab" C2"Bb7" D2- | %22
+w: _ you'd drive me cra- zy, if I|let you,|_ But all my ef- forts to for-|get you|
+w: _ I'll sim- ply tie my hands be-|hind me.|_ Dom't let me kiss you, please Re-|mind me.|
+ D/B/c/A/ B/G/A/F/!dacoda! |"Eb" E4- | E B c e |"Fm7" E2 E E |"Bb7sus4" E2 E"Bb7" D | %27
+w: _ Re- mind me, I'm in love a-|gain|_ I get my|heart well in|hand, and I'm|
+w: _ un- less my Dar- ling, you for|||||
+"Ebmaj7" F z F2- | F B c e |"Fm7" E z E E |"Bb7sus4" E z E D |"Ebmaj7" G4- | G G B d | %33
+w: cer- tain|_ that I can|take you or|leave you a-|lone.|_ Then you "Be-|
+w: ||||||
+"D7" ^F2 F F |"Gm" ^F G B _d |"C7" =E z E E |"Fm" =E F A c |"E7" _c A/"A7"_d/- d _c/d/ | %38
+w: gin that Be-|guine" a- gain, and|boom! I give|in a- gain. I|have a will _ made of|
+w: |||||
+"Ab7" e A/"Dbm"_f/- f _d |"Bb7" =d B c A | B G A F!D.S.! :|O"Eb""Ab7" E4- |"Eb" E4 |] %43
+w: steel, my friend, _ but|when it seems a-|bout to bend, Re|get.|_|
+w: |||||
+

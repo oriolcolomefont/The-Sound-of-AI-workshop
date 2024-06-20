@@ -1,0 +1,22 @@
+X:1
+T:Zsebkendőm négy sarka
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" E C G2 | E C G2 |"Fm" A G F/ E3/2 |"G" D/ G3/2"Cm" C z!fine! |"Gm" B G d2 | B G d2 | %6
+w: Zseb- ken- dõm|négy sar- ka|si- má- ra van|va- sal- va.|Mind a négy|sar- ká- ba|
+w: Meg- állj te,|csu- da- szép,|majd e- szed- be|ju- tok még.|||
+"Cm" e d c/ B3/2 |"D" =A/ d3/2"Gm" G z |"Cm" c c c c/c/ | c B A G |"Fm" F/ G3/2 A/ B3/2 | %11
+w: ba- bám ne- ve|van var- va.|E- gyik szõ- ke, a|má- sik bar- na,|a har- ma- dik|
+w: |||||
+"Cm" G/ E3/2"G" D z!D.C.! |] %12
+w: csu- da- szép,|
+w: |
+

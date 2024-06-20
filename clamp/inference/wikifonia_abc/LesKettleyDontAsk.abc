@@ -1,0 +1,46 @@
+X:1
+T:Don't Ask
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 53
+V:1
+"F""^Intro" A A2 F | A"G7" e d c | B"C" c3 | A"G7" B3- | B4 |"^Verses" G"C" A G2 | F/E/"Am" D C2- | %7
+w: |||||You ask me|if I love you,|
+w: |||||I love you|how I love you,|
+w: |||||We were made|for each oth- er,|
+w: |||||At last you|now be- lieve me,|
+ C"F" D E F | E"G7" D3 | D/C/"Dm" B, C D | E"G7" F A G | F"C" E3- |"C7" E4 | G"F" A3 | c"E7" e d2 | %15
+w: _ time and time|a- gain,|but you don't be- lieve|me when I say|I do,|_|will you|be- lieve- me,~if|
+w: _ I tell you|no lies,|but it's some timr since|you said that you|love me,|_|I would|be- lieve you|
+w: _ an- y- one|can see,|ou- r love was made|in heav- en up|a- bove,|_|with- out|you life would|
+w: _ when I hold|you tight,|and you kiss me lov-|ing- ly not as|a task,|_|I love|you so much|
+ B"Am" c d e | g"D7" a3 | z"C" g3 | z"G7" B3 | z"C" c3 | ^c"D7" d3 |[K:G] ^d4 | %22
+w: I say it once|a- gain,|I|love|you.|_ _||
+w: I see it in|your eyes,|you|love|me.|_ _||
+w: have litt- le point|for me,|we're|in|love.|_ _||
+w: but if you still|have doubt,|please|don't|ask.|_ _||
+"^Chorus""C" e e2 c/e/ |"D7" B A3 |"G" d d2 B/d/ |"Em" G4 |"Am" c c2 A/c/ |"D7" G F G A |"G" B4- | %29
+w: Don't ask, if I|love you,|don't ask if I|care,|don't ask, why you|are the one for|me,|
+w: |||||||
+w: |||||||
+w: |||||||
+ B4 |"C" e e2 c/e/ |"B7" b a g f |"Em" e B A G |"A7" A4 |"Am7" B B2 G/A/ |1 %35
+w: |don't ask how I|know you care, it's|clear for all to|see,|don't ask, why I|
+w: ||||||
+w: ||||||
+w: ||||||
+"D7" B"^after  all choruses except final" A G A |"G" G4- | G2"G7b9" ^G2 :|2 %38
+w: am the one for|you.||
+w: |||
+w: |||
+w: |||
+"D7""^after final chorus" B A G A |"G" G4- | G3 z |] %41
+w: hope you say I|do.||
+w: |||
+w: |||
+w: |||
+

@@ -1,0 +1,23 @@
+X:1
+T:Raincheck
+T:Raincheck
+T:Billy Strayhorn
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Fmaj7" c3 f"Gm7" z dzB |"Abdim7" G3 c"F/A" z AzF |"Bbmaj7" D3 E-"Am7" E4- |"Gm7" E6"C7" z2 | %4
+"F6" c3 f"Gm7" z fdB |"Abdim7" G3 c"F/A" z cAF |"Bb6" D3 F"Am7" z4 |"Gm7" cB-B_A-"C13" A =A3 |1 %8
+"Fmaj7" c3 f"Gm7" z dzB |"Abdim7" G3 c"F/A" z AzF |"Bb6" D3 E-"Am7" E2 z2 | %11
+"Bm11" ed-dc-"E13b9" c ^c3 |"A6" z2 E2"F#7" (3^c2 E2 F2 |"Bm7" (3^F2 G2 ^G2"E13b9" ^c2 =B2 | %14
+"Eb7#11""D9" A8 |"Db7#11" G6"C7b9" z2 :|2"F/A" z2 A2"Dm7" (3A2 G2 A2 ||"Cm11" F4"F9" (3G2 A2 B2 | %18
+"Bbmaj7" c2 d2"D7#9" (3A2 B2 d2 |"Db7#11" g4"C13" a4 |"F6" c3 f"Gm7" z dzB | %21
+"Abdim7" G3 c"F/A" z AzF |"Gm7" D3 F"C9" z D (3EFG |"F6" A3 F z4 |] %24
+

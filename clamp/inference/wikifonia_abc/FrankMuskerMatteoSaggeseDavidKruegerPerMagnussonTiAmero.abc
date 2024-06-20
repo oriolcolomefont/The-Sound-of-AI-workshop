@@ -1,0 +1,52 @@
+X:1
+T:Ti Amero
+T:Ti Amero
+C:Frank Musker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm" z2 z G"Abmaj7" GFED |"Fm" E3 C"Cm/G" E2"Gm" (DC) |"Cm" z2 z G"Abmaj7" GFEF | %3
+w: La not- te sci- vo-|la sul mon- do. _|Che si͜~ad- dor- men- te|
+"Fm9" G6"Gsus4""Gm" z2 |"Cm" z2 z/ GA/"Abmaj7" GFED |"Fm9" E3 C"Cm/G" E2"Gm" (DC) | %6
+w: rà.|E la lu- na ves- ti-|rà d'ar- gen- to _|
+ C2 z"Abmaj7" G GFEF |"Fm9""Cm/G""Eb/G" G8 |"Bb" z2 z B BAGF |"Ab" A3 G (FE) E2 |"Bb" z4 BAGA | %11
+w: _ il ma- re͜~e le ci-|tà.|E tu mi man- che-|rai più͜~an~- co- * ra,|quan- to non lo|
+"Gsus4" G4-"G" GGcd |"Cm" e2 z G"Fm" Afed |"Bb" d2 z2"Eb/G" edcB |"Ab" c2 z2"Fm7" eefd- | %15
+w: sai. _ Con- ti- nue-|rò a cre- de- re che.|_ Sia- mo͜~un'~- a- ni-|ma, i- o e- te.|
+"Bb" d/c/ B3 z Gcd |"Cm" e2 z G"Fm" Agfd- |"Bb" d2 z2"Eb/G" e2 d2 |"Ab" c2 d2"Fm7" e2 cg- | %19
+w: _ _ _ E ti͜~a- me-|rò co- mun- que lo so.|_ An- che|se non sei con me.|
+"Gsus4" g4-"G" g z ed |"Cm" d<c- c2 z4 | z2 z G"Abmaj7" GFED |"Fm9" E3 C"Cm/G" E2"Gm" D(C | %23
+w: _ _ Io ti-|me- rò. _|Ti por- te- rò con|me nel so- le. _|
+"Cm" C2) z G"Abmaj7" GFEF |"Fm9" G6"Cm/G""Gm" z2 |"Cm" z2 z G/A/"Abmaj7" GFED | %26
+w: _ Nei son- ni che fa-|rò.|Ru- be- rò͜~i co- lo- ri|
+"Fm9" E3 C"Cm/G" E2"Gm" DC- | C2 z G"Abmaj7" GFEF |"Fm9""Gm7""Eb/G" G8 |"Bb" z2 z B BAGF | %30
+w: del mat- ti- no _|_ e͜~un cie- lo lim- pi-|do.|Su ciu di- pin- ge-|
+"Ab" A2 AG (FE) E2 |"Bb" z4 BAG(A |"Gsus4" G) G3-"G" GGcd |"Cm" e2 z G"Fm" Afed | %34
+w: rò il tuo vi- * so|e sor- ri- de-|* rò. _ Con- ti- nue-|rò a cre- de- re che.|
+"Bb" d2 z2"Eb/G" edcB |"Ab" c2 z2"Fm7" eefd- |"Bb" d4 z Gcd |"Cm" e2 z G"Fm" Agfd- | %38
+w: _ Sia- mo͜~un'- a- ni-|ma, i- o e te.|_ E ti͜~a- me-|rò co- mun- que, lo so.|
+"Bb" d2 z2"Eb/G" e2 d2 |"Ab" c2 d2"Fm7" e2 cg- |"Gsus4""G" g8 |"Cm" g3 g/f/"Abmaj7" g3 g/f/ | %42
+w: _ An- che|se non sei con me.|||
+"Fm9" g3 c"Cm/G""G" edcB |"Cm" c3 g/f/"Abmaj7" g3 g/f/ |"F9" g3 c"Cm/G""G" e2 db/a/ || %45
+w: |||
+[K:Gb]"Ebm" b3 b/a/"Cbmaj7" b3 b/a/ |"Abm9" b3 e"Ebm/Bb" gf"Bb"e=d |"Ebm" e3 b/a/"Cbmaj7" b3 b/a/ | %48
+w: |||
+"Abm" b3 e"Ebm/Bb" g2"Bb" f2 ||[M:2/4] B4 |[K:Eb][M:4/4]"Bb""Bb" z2 z B BAGF |"Ab" A3 G (FE) E2 | %52
+w: ||Mi man- chi più che|mai sta- se- * ra|
+"Bb" z4 BAGA |"Gsus4" G8 |"Asus4" =A2 A2 d2"A" =e2 ||[K:F]"Dm" f2 z A"Gm" Bgfe- | %56
+w: quan- to non lo|sa|i. Con- ti- nue-|rò a cre- de- re che.|
+"C" e2 z2"F/A" fedc |"Bb" d2 z2"Gm7" ffge |"C" e4 z Ade |"Dm" f2 z A"Gm" Bage- | %60
+w: _ Sia- mo͜~un'- a- ni-|ma, i- o e te.|_ E ti͜~a- me-|rò * mun- que, lo so.|
+"C" e2 z2"F/A" f2 e2 |"Bb" d2 _e2"Gm7" f2 d_a |"Asus4""A" a8- |"Dm" a2 FA"Gm" Bgfe- | %64
+w: _ An- che|se non sei con me.|_||
+"C" e2 G2"F/A" fedc |"Bb" z2 z2"Gm7" ffgf |"C" e2 z2 z Ade |"Dm" f2 z A"Gm" Bag_e | %68
+w: |i- o e te.|* E ti͜~a- me-|rò co- mun- que, lo so.|
+"C" _e2 z2"F/A" f2 e2 |"Bb" d2 e2"Gm7" f2 d_a |"Asus4""A" _a8- |"Dm" a3 =a/g/"Bbmaj7" a3 a/g/ | %72
+w: _ An- che|se non sei con me.|_||
+"Gm9" a3 d"Am" fedc |"Dm" d3 A/G/ A3"Bbmaj7" A/G/ |"Gm9" A3"Am" z2 ddc |"Dm" d8 |] %76
+w: ||* Lo ti͜~a- me-|rò|
+

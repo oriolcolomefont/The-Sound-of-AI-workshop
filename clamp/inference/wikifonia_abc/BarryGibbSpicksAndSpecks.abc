@@ -1,0 +1,33 @@
+X:1
+T:Spicks And Specks
+T:Spicks And Specks
+T:Barry Gibb
+C:Barry Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^no chord" G,2 G,2 G,2 G,2 | G,2 G,2 G,2 G,D, |:"G" G,2 G,2 GABd- |"D" d2 z2 z BAG- | %4
+w: ||* * 1&3...Where is the sun|* that * shone|
+w: ||||
+"Em" G2 z2 z ABB- |"B" B2 z2 z4 |"C" z2 z G GFED- |"G" D2 z2 z GBA- |"A" A2 z2 z FGA- | %9
+w: * on my head?||The sun in my life,|* it is dead,|* it is dead.|
+w: |||||
+"D" A2 z2 z4 |"G" z4 GABd- |"D" d2 z2 z BAG- |"Em" G2 z2 z ABB- |"B" B2 z2 z4 |"C" z2 z G GFED- | %15
+w: |2...Where is the light|* that would play|* in my street?||And where are the friends|
+w: |4...Where are the girls|* that I left|* far be- hind?||The spicks and the specks|
+"G" D2 z2 z GBA- |"D" A2 z2 z GFG- |1"G" G2 z2"D" z4 ::2"G" z4 GABd- ||"D" d2 z2 z BAG- | %20
+w: * I could meet|* I could meet?||5...Where is the girl|* I * loved|
+w: * of the girls|* on my mind.-||6&7.......All of my life|* that I call|
+"Em" G2 z2 z ABB- |"B" B2 z2 z4 |"C" z2 z G GFED- |"G" D2 z2 z GBA- |"D" A2 z2 z GFG- |1 %25
+w: * all a- long?||The girl that I loved|* she is gone,|* she is gone.-|
+w: * yes- ter- day,||The spicks and the specks|* of my life|* gone a- way,-|
+"G" G2 z2"D" z4 :|2"G" G2 z2"D" z4 ||"G" z8 |"C" z4 e e2 d- |:"G" d2 z2 z4 |"C" z4 e"G" e2 d :| %31
+w: |||Spicks and specks||Spicks and specks.|
+w: ||||||
+

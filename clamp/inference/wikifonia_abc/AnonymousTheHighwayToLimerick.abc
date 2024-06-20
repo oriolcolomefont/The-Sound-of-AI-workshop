@@ -1,0 +1,13 @@
+X:1
+T:The Highway To Limerick
+C:Anonymous
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Alto Saxophone"
+%%MIDI program 65
+V:1
+"Am" EAAB cBAc |"G" BAGB dBGA |"Am" EAAB cBcd |"Em" (3e^fg dB"Am" BA A2 ::"Am" eaag a^fge | %5
+"G" dBGB"Em" AG E2 |"Am" eaag e^f^ga |"E" ba^gb"Am" a2 ab |"Am" (3c'ba bg e^fge |"G" dBgd BG G2 | %10
+"Am" EAAB"G" cBcd |"Em" (3e^fg dB"Am" BA A2 :| %12
+

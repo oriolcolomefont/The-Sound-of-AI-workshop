@@ -1,0 +1,27 @@
+X:1
+T:A Garden In The Rain
+C:Carroll Gibbons
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"C" z c"Am" c c |"Em" B/A/G/A/"C7" G2 |"F" z A A A |"Gm" G/F/E/F/"A7" E2 |"Fm" z D E F | %5
+w: Twas just A|Gar- den In The Rain|Close to a|lit- le leaf- y lane,|A touch of|
+w: The rain- drops|kissed the flow- er beds,|The blos- soms|raised their thirs ty heads|A per- fumed|
+"C" G/A/ c"G7" C D |"C" E4- |1"G7" E2 z2 :|2"C" C4- ||"Am" C2"B7" z2 |"Em" B, ^C"B7" E ^D | %11
+w: col- or 'neath skies of|gray.|_|say.|_|Sure- ly here was|
+w: thank you they seemed to|_|||||
+"Em" ^F E"B7" G F |"Em" B2 B2 | B4 |"E" B, ^C"B7" E ^D |"E" ^F E"B7" A ^G |"E" B2"B7" B2 |"G7" B4 | %18
+w: charm be- yond com-|pare to|view.|May- be it was|just that I was|there with|you.|
+w: |||||||
+ z"C" c"Am" c c |"Em" B/A/G/A/"C7" G2 |"F" z A A A |"^1928""Gm" G/F/E/F/"A7" E2 |"Fm" z D E F | %23
+w: Twas just a|Gar- den In The Rain,|But then the|sun came out a- gain|And sent us|
+w: |||||
+"C" G/A/ c"G7" C D |"C" C4- | C4 |] %26
+w: hap- pi- ly on our|way|_|
+w: |||
+

@@ -1,0 +1,31 @@
+X:1
+T:Lookin' For Love
+T:Lookin for love
+T:Wanda Mallette, Patti Ryan, Bob Morrison
+C:Bob Morrison, Patti Ryan, Wanda Mallette
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" z A, ^F ^F/^F/ | E D D/E/ ^F |"D" ^F z z2 |"F#m" z4 |"G" z G/G/ G G |"D" A A F/E/ D | %6
+w: well I've spent a|life- time look- in for|you||sin- gles- bars and|good- time lov- ers were|
+"A" E E E2 | z4 |"G" z2 ^F ^F/^F/ | E D D/E/ ^F |"D" ^F z z2 |"G" z G G A |"D" A2 ^F/E/D/D/ | %13
+w: nev- er true||play- in a|fools game hop- in to|win|tell- in those|sweet lies * * and|
+"A" ^F A/^F/"G" B A- |"F#m" A2"A" B A |"D" ^F/A/ A A A | B/A/ A A (3^F/E/D/ |"F#m" ^F/A/ A A A | %18
+w: los- ing a gain *|* I was|look in for love in|all the wrong plac- es * *|look- in for love in|
+ B A/^F/ A ^F |"G" E/D/ D D z | E/D/ D E D/D/ |"Em" E z"F#m" ^F z |"G" G A"A" B A | %23
+w: too man- y fac- es|search- ing their eyes|look- in for trac- es of|what I'm|dream- in of *|
+"D" ^F/A/ A A A | B/A/ ^F A (3^F/E/D/ |"F#m" z A A A | B A/^F/ A ^F/^F/ |"G" E/D/ D z2 | %28
+w: Hop- in to find a|friend and a lov- er * *|I'll bless the|day I dis- cov- er an|oth- er heart|
+"Em" z2"A" ^F E/^F/ |"D" ^F/E/ D z2 :| z4 |"G" A G/E/ G G/D/ |"G" G/G/A/G/ z B, | %33
+w: look- in for|love * *||you came a- knock- in at|my hearts door * youre|
+"Em" E E/^F/"F#m" ^F ^F |"G" G A"A" B ^c/B/ | A2 B A/^F/ ||"A7" z2 B A |:"D" ^F/A/ A A A | %38
+w: ev- ry- thing I been|look- in for * *|* no more *|I was|look- in for love in|
+ B/A/ A A (3^F/E/D/ |"F#m" ^F/A/ A A A | B A/^F/ A ^F |"G" E/D/ D D z | E/D/ D E D/D/ | %43
+w: all the right plac- es * *|look- in- for love in|too man- y fac- es|search- ing their eyes|look- ing for trac- es of|
+"Em" E z"F#m" ^F z |"G" G A"A" B A :| %45
+w: what I'm|dream- in of *|
+

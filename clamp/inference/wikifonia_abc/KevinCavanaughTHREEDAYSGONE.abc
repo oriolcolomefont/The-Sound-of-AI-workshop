@@ -1,0 +1,38 @@
+X:1
+T:THREE DAYS GONE
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" c4- c2- BG- |"Bm9" G2 z2 z4 |"Em" E>G- GG- G4 | z8 |"Am" c2- B2- G2- c2- |"Bm9" B-G z2 z4 | %6
+w: Lov _ _ er|_|Lov _ _ er _||Lov _ _ _|_ ver|
+"Em" ^FG FE D2 z2 | ^FG FE D2 z2 |"Am" c B2 G- G2 Gc- |"Bm9" c2 BB- B<G E>G |"Em" GG z2 z4 | %11
+w: ||THREE DAYS GONE _ and its|_ gon na _ seem for ev|er _|
+ ^FG FE D2 z2 |"Am" c B2 G- G2- Gc |"Bm9" B2 G2 G2 A2 |"Em" D- E3 z4 | ^FG FE D2 z2 | %16
+w: _ _ _ _ _|THREE DAYS GONE _ _ and|I won't go to|bed _|_ _ _ _ _|
+"A" c B2 G- G4 |"Bm9" c2 BG- G2 z/ EG/- |"Em" G2 G2 z4 | z8 |"F" c B2 G- G2- Gc | %21
+w: Can last night _|keep our selves _ tied ov|_ er?||THREE DAYS GONE _ _ my|
+"G" G2- GG- GG A2 |"A9" E6 z2 | z8 |"Am""^SECOND VERSE" c B2 G- G2 Gc- |"Bm9" c2 BB- B<G E>G- | %26
+w: hopes _ with _ you I|send||THREE DAYS GONE _ can't life|_ sit _ _ still and won|
+"Em" GG z2 z4 | z2 z2 z2 AB |"Am" c B2 G- G2 Gc |"Bm9" B2 G2 G2 A2 |"Em" D- E3 z4 | ^FGFE D2 z d- | %32
+w: _ der?|NO! We've|got our work _ but time|is oh so fleet|ing _|_ _ _ _ _ Last|
+"Am" dc- c<B c>B G2 |"Bm9" z4 cBcB |"Em" EG-GG z4 | z2 z2 z2 z G |"F" c2 c2 c2 e2 | %37
+w: _ night _ you stretched your hand|and I was there|to take _ it|I|know this kiss is|
+"G" d2 d2 B2 G2 |"A9" G>A- AA- A4 |"^8 measure instrum" z8 |"Am""^THIRD VERSE" c B2 G- G2 Gc- | %41
+w: un til our next|meet _ _ ing _||THREE DAYS GONE _ _ and|
+"Bm9" c2 BB B2 G2 |"Em" GG z2 z4 | z2 z2 z GAB |"Am" c2 d2 G2 z2 |"Bm9" z2 B2 B2 c2 |"Em" B4 G4- | %47
+w: _ here I stand so|sto ic|I'd rath er|lean on you|for all tom|or rows|
+ E4 z4 |"Am" c B2 G- G2 Gc- |"Bm9" c2 BB B2 D2 |"Em" EE z2 z4 | z2 z2 z2 z2 | %52
+w: _|THREE DAYS GONE _ _ may|be I'll just play pi|an o||
+"F" z z/ c/ c<c-"G" c/dd/ d/-dG/ |"C" z z/ c/ c<e-"Am" e/dc/- c/dG/ | %54
+w: Part ing brings _ such sweet sor _ row|Part ing brings _ such sweet _ sor row|
+"F" z z/ c/ B<G-"G" G/cB/- B/FG/ |"F/C" z z/ f/ e<c- c/"Am6"fe/- e/dc/ | %56
+w: Part ing brings _ such sweet _ sor row|Part ing brings _ such sweet _ sor row|
+"F" z2 z z/ f/ e<"G"c- c/EF/- |"Am" F/GG/- !fermata!G2 z4 |] %58
+w: Part ing brings _ such sweet|_ sor row _|
+

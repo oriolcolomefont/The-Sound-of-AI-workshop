@@ -1,0 +1,17 @@
+X:1
+T:Mr. P.C.
+C:John Coltrane
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+|:"^Fast Swing""Cm" CCDD EEFF | G2>F2 ECzB, |"Cm" C4"Gm" B,2>"Cm"C2- | C2 z2 z4 |"Fm" FFGG AABB | %5
+ c2>B2 GFzD |"Cm" C4"Gm" B,2>"Cm"C2- | C2 z2 EC(E_G) |"Ab7" z F3- F2>_G2 |"^G7(#5)" z F2E F2 .E2 | %10
+O"Cm" C4"Gm" B,2>"Cm"C2- | C2 z2 z4 ::"_Solos""Cm6" z8 | z8 z8 | z8 z8 |"C7" z8 |"Fm6" z8 | z8 z8 | %18
+"Cm6" z8 z8 | z8 |"Ab7" z8 |"^G7(#5)" z8 |"Cm6" z8 |"_After solos D.C. al Coda""^G7(#5)" z8 :| %24
+O"Cm" C4"Gm" B,2>"Cm"C2- | C2 z2 z C(EG) |"Ab7" z F3- F2>_G2 |"_G7(#5)" z F2E F2 .E2 | %28
+"Cm" C4"Gm" B,2>"Cm"C2- | C8 |] %30
+

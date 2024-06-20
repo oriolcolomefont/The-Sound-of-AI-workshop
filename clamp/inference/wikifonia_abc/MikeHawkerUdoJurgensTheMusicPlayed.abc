@@ -1,0 +1,36 @@
+X:1
+T:The Music Played
+T:The Music Played
+T:Mike Hawker & Udo Jurgens
+C:Mike Hawker & Udo Jurgens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z DGA |:"Gm" BB B2- BGBG |"Cm7" E4- EBAG |"F7" GA A2- AFAF |"Bbmaj7" D4- DAGF | %5
+w: An an- gry|si- lence lay * where love had|been * and in your|eyes a look * I'd nev- er|seen. * If I had|
+w: |danc'd their way * a- round the|floor, * I sat and|watch'd you walk * to- wards the|door, * I heard a|
+"Ebmaj7" FG G2- GEGE |"Am7b5" C4- CCDE |1"Cm7" AG G2- GGFE ||"D7sus4" D4-"D7" DDGA :|2 %9
+w: found the words * you might have|stayed, * but as I|turned to speak, * The Mus- ic|Played. * As lov- ers|
+w: friend of yours * sug- gest you|stay, * and as you|||
+"Cm7" AG G2-"D7" GAG^F ||"Gm" G4 z Gcd |"Cm7" deec"F7" =Bcfc |"Bb" d4-"Gm7" d z ed | %13
+w: took his hand. * The Mus- ic|Played. A- cross the|dark- en- ed room the fatal signs I|saw, * you'd been|
+w: ||||
+"Cm7" eecB"D7b9" A3 c |"Gm" B4- BGcd |"Cm7" deec"F7" =Bcfc |"Bb" d4-"Gm" dded | %17
+w: some- thing more than friends be-|fore, * while I was|hurt- ing you by cling- ing to my|pride, * he had been|
+w: ||||
+"Cm7" ee- e4"G7" dd |"Cm7""Cm7" cc- c4 BB |"D7sus4" A8- |"D7" A4- ADGA |"Gm" BB B2- BGBG | %22
+w: wait- ing, * and I|drove you * to his|side.|* * I could- n't|say the things * I should have|
+w: |||||
+"Cm7" E4- EBAG |"F7" GA A2- AFAF |"Bbmaj7" D4- DAGF |"Ebmaj7" FG G2- GEGE |"Am7b5" C4- CCDE | %27
+w: said, * re- fused to|let my heart * con- trol my|head, * but I was|made to see * the price I|paid, * and as he|
+w: |||||
+"Cm7" AG G2-"D7" GAG^F |"Gm" G4 z4 |] %29
+w: held you close, * The Mus- ic|Played.|
+w: ||
+

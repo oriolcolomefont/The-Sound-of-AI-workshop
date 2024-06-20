@@ -1,0 +1,36 @@
+X:1
+T:I Came, I Saw, I Conga'd
+T:I Came, I Saw, I Conga'd
+T:James Cavanaugh,John Redmond & Frank Weldon
+C:James Cavanaugh, John Redmond & Frank Weldon
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z d |:"Bb" e d c B |"F7" c z/ c/- c c | d c B A |"Bb" B z/ B/- B F |"Bb/D" G2"Dbdim" B2 | %6
+w: I|Came I Saw I|Con- ga'd, * I|came I saw, I|con- ga'd, * it's|plain to|
+w: |time I shake a|shoul- der, * I|get a lit- tle|bold- er * a|dance like|
+"Cm""F7" A3 F |1"Cm" G2"F7" c2 ||"Bb" B3 d :|2"Cm" G2"F7" A2 ||"Bb" B3 z |"D" A4- | A d2 ^c | %13
+w: see you|con- quered|me. Each|serves a|kiss.|My|* sweet mu-|
+w: this de|||||||
+ (3=B/^c/B/ A3- | A ^c2 =B |"A7" (3A/=B/A/ G3 | G ^F2 G |"D" A4- | A3 z |"F" c4- | c f2 =e | %21
+w: cha- * * cha,|* when I|got- * * cha|* in my|arms,||this|* Cu- ban|
+w: ||||||||
+ (3d/=e/d/ c3- | c =e2 d |"C7" (3c/d/c/ B3- | B A2 B |"Ebm6" c4- |"F7" c3 d |:"Bb" e d c B | %28
+w: hot- * * cha|* adds so|mu- * * cha|* to your|charms.|* The|Bon- gos beat the|
+w: ||||||Came, I Saw, I|
+"F7" c z/ c/- c c | d c B A |"Bb" B z/ B/- B F |"Bb/D" G2"Dbdim" B2 |"Cm""F7" A3 F |1 %33
+w: rhy- thm, * ma-|rac- cas shake it|with- 'em, * that|lat- in|riff is|
+w: Con- ga'd, * I|came I saw I|con- ga'd, * I|can't den-|y it's|
+"Cm" G2"F7" c2 ||"Bb" B3 d :|2"Cm" G4 ||"F7" A4 |"Bb" B2"Gm" d2 |"Cm" c z/ F/-"F7" F z | %39
+w: too ter-|riff. I|got|that|I, Yi,|con- ga *|
+w: ||||||
+"Bb" B2"Gm" d2 |"Cm" c z/ F/-"F7" F z |"Bb" B2"Gm" d2 |"Cm" c z/ F/-"F7" F z |"Bb" B4- | B3 z |] %45
+w: I, Yi,|Con- ga, *|I, Yi,|Con- ga, *|Yi.-||
+w: ||||||
+

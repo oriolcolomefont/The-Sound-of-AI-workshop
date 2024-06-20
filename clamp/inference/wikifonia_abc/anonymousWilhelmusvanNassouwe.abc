@@ -1,0 +1,20 @@
+X:1
+T:Wilhelmus van Nassouwe
+C:anonymous
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="[treble staff]"
+%%MIDI program 13
+V:1
+ D | G G (A/B/)(c/A/) |[M:2/4] B A/B/ |[M:4/4] c B (A/G/) A | G2 z D | G G (A/B/)(c/A/) | %6
+w: Wil-|hel- mus van * Nas- _|sou- we ben|ick van Duyt- * schen|bloet. Den|va- der- lant _ ghe- _|
+w: Mijn|schild en- de _ be- _|trouw- en sijt|ghy, o Godt _ mijn|Heer. Op|u soo wil _ ick _|
+[M:2/4] B A/B/ |[M:4/4] c B (A/G/) A | G2 z (B/c/) |[M:3/4] d2 e | d2 c | B A/B/ c | B A G | %13
+w: trou- we blijf|ick to in _ den|doet. Een _|Prin- ce|van O-|raen- gien ben ick|vrij on- ver-|
+w: bouw- en ver-|laet mij nim- _ mer-|meer. Dat _|ik doch|vroom mag|blij- ven u die-|naer tal- ler|
+ A z D | (G/F/ G/A/) B | A2 G | F D E/F/ | G G F | G2 |] %19
+w: voert. Den|Co- _ _ _ ninck|van His-|paen- gien heb ik|al- tijd ghe-|eert.|
+w: stondt. Die|ty- _ _ _ ran-|ny ver-|drij- ven die my|mijn hart door-|wondt.|
+

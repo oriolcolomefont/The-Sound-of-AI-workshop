@@ -1,0 +1,26 @@
+X:1
+T:Fried Bananas
+T:Fried Bananas
+T:Concert
+T:Dexter Gordon
+C:Dexter Gordon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 e2 |"Ebmaj7" z d z c B^F (3GBd |"Gm7b5" _d2 Gc-"C7" c2 z g |"Fm7" z f z e d=Bcd | %4
+"Am7b5" e2 f"D7"d- d3 c |"Ebmaj7" B2 z e z B=A_A- |"Abmaj7" A7 B |"G+7" GG- G6 |"C7b9" z4 _dc_G=E | %9
+"Fm7" F A2 B- BFAB |"Abm7" _GF z F"Db7" fe=B_B- |"Ebmaj7" B4 z2 z =A |"Dm7" =ed=B=A-"G7" A4 | %13
+"Cm7" z2 z d e=B (3ceg |"F7#11" d'd' z2 z4 |"Fm7" z2 z G A=E (3FAc |2"Bb13" g2 z2 z2 z e :|2 %17
+"C7b9" z4 _dc=Bc ||"Fm7" ecAF- F4 |"Abm7" _ge=BA- A4 |"Ebmaj7" fdBG- GD (3EGB | %21
+"Gm7b5" _d2 ec"C7" z e z e- |"Fm7" e2 z2 z4 |"Fm7" z e (3cAF"Bb7b9" e=BA=E |"Ebmaj7" E4 z4 | %25
+"Fm7""Bb7" z8 :|"Fm7" z e (3cAF"Bb7b9" e=BAF |"Gm7" G3 B- B4 |"C7b9" z4 z e z e- |"Fm7" e2 z2 z4 | %30
+"Fm7" z e (3cAF"Bb7b9" e=BAF |"Gm7" G3 B- B4 |"C7" z4 z d z2 |"F#m7b5" e3 c =A^F z c- | %34
+ c3 =A ^FE z2 | z c2 =A ^FE z _A- | A3 ^F EC z2 |"Fm7" z F G2 A2 =A2 | %38
+"Bb7" B2 =B2 c2 d"Ebmaj7"e- |2 e2 (3BGE cAFB ||"Bb7" G2 B,"Ebmaj7"E- !fermata!E4 |] %41
+

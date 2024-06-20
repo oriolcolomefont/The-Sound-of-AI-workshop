@@ -1,0 +1,30 @@
+X:1
+T:Adventures In Paradise
+T:Adventures In Paradise
+T:Theme from the TV series
+T:Dorcas Cochran & Lionel Newman
+C:Dorcas Cochran & Lionel Newman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"Db7" =B,"C7" C ||"Fmaj7" c4- | c"F" A"Gb" (3B _d c | B3/2 A/"F" A2- | A C (3D =B, C | %5
+w: I have|known|* Ad- ven- tures in|Par- a- dise,|* I fol- lowed a|
+"Db9" _A4- | A F"C9" (3=A _A G |"F6" F4- | F z"Db7" =B,"C7" C |"Fmaj7" c4 | c"F" A"Gb" (3B _d c | %11
+w: dream|* to ma- ny a|shore.|* All a-|lone|* in har- bours of|
+ B3/2 A/"F" A2- | A C (3D =B, C |"Db9" _A4- | A F"C9" (3=A _A G |"F6" F4- |"F" F z z E/F/ | %17
+w: pearl and spice,|* I searched for a|face,|* a face to a-|dore.|* While the|
+"Bb" d3/2 d/"C9" E2- | E/(d/ (3d/)^c/d/ e3/2 d/ |"F" (=B (3B/)c/d/ c2 | c z z E/F/ | %21
+w: ten- der stars,|* high * in the blue, made|love * to the night,|* I have|
+"Bbm" _d3/2 d/ F2- |"Eb9" F/(_d/ (3d/)c/d/ _e3/2 d/ |"Ab" c c/_d/ c2 |"Gm7" c c/d/"C7" c C | %25
+w: begged the stars|* to * lead me to that|one love- ly shore|called "Ev- er- more". Then|
+"Fmaj7" c4- | c"F" A"Gb" (3B _d c | B3/2 A/"F" A2- | A C (3D =B, C |"Db9" _A4- | %30
+w: you|* walked in- to my|par- a- dise,|* and my hap- py|heart|
+ A F"C9" (3=A _A G |"F6" F4- | F z z z |] %33
+w: * ad- ven- tures no|more.-||
+

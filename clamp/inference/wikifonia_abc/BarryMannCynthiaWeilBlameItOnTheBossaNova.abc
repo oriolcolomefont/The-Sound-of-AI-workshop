@@ -1,0 +1,34 @@
+X:1
+T:Blame It On The Bossa Nova
+T: Blame  it on the Bossa Nova
+T:Cynthia Weil and Barry Mann
+C:Barry Mann, Cynthia Weil
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 CC F G2 A- |:"F" A8 | z2 CC B A2 G- |"C7" G8 | z2 CC E F2 G- | G8 | z2 CC A G2 F- | %7
+w: I was at a dance||when she caught my eye||stand- ing all a- lone||look- in sad and shy|
+w: ||is my bride to be||and we're gon- na raise||a * fam- i- ly|
+"F" F A3- A4 | z2 CC F G2 A- | A8 | z2 FF A c2 d- |"Bb" d8 | z2 f6 |"F" d c2 A- A2 c2 | %14
+w: |We be- gan to dance,||sway- in to an fro||and|soon I knew * I'd|
+w: |and when our kids ask||how it came a- bout||and|gon- na say * to|
+"C7" B2 G2 F E2 F- |"F" F z cc cccc |"C7" B2 c6- | c2 cc d c2 A- |"F" A8- | A z cc cccc | %20
+w: nev- er let her go|* Blame it on the Bos- sa|No- va|* with its mag- ic spell||* Blame it on the Bos- sa|
+w: them with- out a doubt||||||
+"C7" B2 c6- | c2 cc d c2 A- |"F" A8- | A z ff ffff |"Bb" d2 f2 d B2 G- | G2 z d dddd | %26
+w: No- va|* that she did so well||* Oh it all be- gan with|just one lit- tle dance|* but soon it end- ed|
+w: ||||||
+"F" c2 f2 c B2 A- | A z cc cccc |"C7" B2 c6- | c3 c A G2 F- |"F" F8- | F z CC F A2 G- |"C7" G8 | %33
+w: up a big ro- mance|* Blame it on the Bos- sa|No- va|* the dance of love||* now was it the moon||
+w: |||||||
+ z z CC E G2 F- |"F" F8 | z2 CC F A2 G- |"C7" G6 z c | d2 cd d c3 | %38
+w: or the stars a- bove||now was it the tune|* the|Bos- sa No- * va!|
+w: |||||
+"F" z2"Bb" x F"Bb" F"F" F2"F" F- |1 F z CC F G2 A :|2 F6 z2 |] %41
+w: the dance of love|* Now that lit- tle girl||
+w: |||
+

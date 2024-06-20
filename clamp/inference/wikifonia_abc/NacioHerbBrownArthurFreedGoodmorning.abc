@@ -1,0 +1,22 @@
+X:1
+T:Good morning
+T:Good morning
+T:unknown
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ G"C" E G z | G e c z | G e/d/ c/c/ G | ^F"G7" =F G z | d B G z | d z"C" c2 :|"F" c A _B A | %7
+w: Good morn ing|good morn- ing|We've danced the whole night through|Good morn- ing|Good morn- ing|to you.|When the band be-|
+w: ||It's great to stay up late,|||||
+ c A _B z/ z/ | A c A/_B/ A | c2 z z |"D" d B c B/ z/ | d B c B/c/ |"G7" d c B/A/ G |"C" G E G z | %14
+w: gan to play,|the stars were shin- ing-|bright|now the milk- mans|on his way it too|late to say good- night.-|Good morn- ing|
+w: |||||||
+ G e c z | G e d/c/c/G/ | ^F"G7" =F G2 | d B G2 | d2"^CFC" c2 |] %19
+w: good morn- ing|we danced the whole night through|Good morn- ing|good morn- ing|to you.|
+w: |||||
+

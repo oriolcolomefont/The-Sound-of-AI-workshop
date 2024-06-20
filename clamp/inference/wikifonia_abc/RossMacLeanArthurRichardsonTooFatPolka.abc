@@ -1,0 +1,46 @@
+X:1
+T:Too Fat Polka
+T:© 1947
+T:Too Fat Polka
+T:Ross MacLean, Arthur Richardson
+T:(I Don't Want Her, You Can Have Her, She's Too Fat For Me)
+T:filed: 
+T:  
+C:Ross MacLean, Arthur Richardson
+Z:All Rights Reserved
+L:1/4
+Q:1/4=200
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"^Bright Polka""G7" B B B B | B B B A |"C" G G G G | E3"C#dim" E |"G7sus4" G G"G7" G G | F3 F | %6
+w: Here's a sil- ly|dit- ty, You can|sing it right a-|way Now,|here is what you|say So|
+"C" G G G G | E4 |"G7" B B B B | B B B A |"C" G G G G | E4 |"F6" A A A A |"G7" B B B B | %14
+w: sing it while you|may|Here's a sil- ly|jin- gle, You can|sing it night or|noon|Here's the words, that's|all you need 'Cause|
+"C" c c"G7" B B |"C" c z"C" c2 |:"G7" B B B B | B B B A |"C" G G G G | E2-"C#dim" E2 | %20
+w: I just sang the|tune: Oh,|I don't want her,|you can have her|She's too fat for|me _|
+"G7sus4" G G"G7" G G | F4 |"C" G G G G | E4 |"G7" B B B B | B B B A |"C" G G G G | E4 | %28
+w: She's too fat for|me|She's too fat for|me|I don't want her,|you can have her|She's too fat for|me|
+"F6" A A A z |"G7" B B B z |"C" c c"G7" B B |1"C" c2 c B ||"F" A2 F2- | F2"F#dim" B A |"C" G2 E2- | %35
+w: She's too fat|She's too fat|She's too fat for|me I get|diz- zy|* I get|num- bo|
+ E2"C#" A G |"Dm7" F2 D2- |"G7" D2 G F |"C" E2 G2 | A2"Cdim" ^A2 :|2"C" c2- c z || %41
+w: * When I'm|danc- ing|* with my|Jum- Jum-|Jum- bo|me _|
+[K:F]"F" C2 D F- | F A"C+7" c2 |"F" d4- | d3 z | c2 A2 | G2"Fdim" F2 |"C7" E4- | E3 z | %49
+w: Can she prance|_ up a|hill?|_|No, no,|no, no,|no|_|
+"Gm" D2 E G- | G B"D+" d2 |"Gm" e4- | e3 z |"Gm7" d2 B2 |"C7" A2 G2 |"F" c2-"F#dim" c2- | %56
+w: Can she dance|_ a qua-|drille?||No, no,|no, no,|no _|
+"C7" c3 z |"F" C2 D F- | F A"C+7" c2 | d4- | d3 z |"D7b9" _e2 c"D+7" B- | B B2"D7" A |"Gm" d4- | %64
+w: _|Does she fit|_ in your|coupe?|_|By her- self|* she's a|group|
+ d3 z |"Gm7" G2 A B- | B"D7" c"Gm" d2 |"F" A2"Am7" B"D7" c- | c"D+" B"D7" A2 |"G9" d4 |"C9" E4 | %71
+w: _|Could she pos-|* sib- ly|sit up- on|* your knee?|No,|no,|
+"F" F2-"Gm7" F2- |"C7" F z"F" z2 |[K:C]"G7" B B B B | B B B A |"C" G G G G | E3"C#dim" E | %77
+w: no _|_|We don't want her,|you can have her|She's too fat for|me And|
+"G7sus4" G G"G7" G G | F3 F |"C" G G G G | E4 |"G7" B B B B | B B B A |"C" G G G G | E2 E2 | %85
+w: She's too fat for|me But|She's just right for|me|We don't want her,|you can have her|She's too fat for|me Yeah,|
+"F6" A A A z |"G7" B B B B |"C" c c"G7" B B |"C" c2 c B |"F" A2 F2- | F2"F#dim" B A |"C" G2 E2- | %92
+w: she's too fat,|Much too fat But|she's just right for|me She' a|two- some,|* She's a|four- some|
+ E2"C#" A G |"Dm7" F2 D2- |"G7" D2 G F |"C" E2 G2 | A2"Cdim" ^A2 :|3"C" c z c2 :| %98
+w: * If she'd|lose some|_ I would|like her|more some|me Hey!|
+

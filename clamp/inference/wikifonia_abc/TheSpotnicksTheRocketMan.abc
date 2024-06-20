@@ -1,0 +1,31 @@
+X:1
+T:The Rocket Man
+T:THE ROCKET MAN
+T:The Spotnicks
+T:2
+C:The Spotnicks
+Z:All Rights Reserved
+L:1/8
+Q:1/4=150
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Cm" E4 C2 E2 |"Gm" D4 B,4 |"Cm" EDCB, C2 G2 |"Gm" D4 G,4 |"Ab" C2 B,A, G,F,G,A, | %5
+"G" G,2 D2 =B,2 G,2 |"Ab" C2 B,A, G,F,G,A, |"G" G,4- G,G,CD |"Cm" E4 C2 E2 |"Gm" D4 B,2 G,2 | %10
+"Cm" EDCB, C2 G2 |"Gm" D4 G,4 |"Ab" C2 B,A, G,F,G,A, |"G" G,2 D2 =B,2 G,2 |"Ab" C2 B,A, G,F,G,A, | %15
+"G" G,6- G,F, | G,8 |[K:Eb]"Gb" b _g2 b g2 b2 |"Ebm" b _g2 b g4 |"Gb" b _g2 b g2 b2 | %20
+"Ebm" b _g2 b g4 |"Ab" c' a2 c' a2 c'2 |"Bb" d' b2 d' b2 d'2 |"C" =e'c'ge'"Bb" d'bfd' | %24
+"Ab" c'aec'"G" z _c' c'2 |[K:Cmin]"Cm" e'4 c'2 e'2 |"Gm" d'4 b2 g2 |"Cm" e'd'c'b c'2 g'2 | %28
+"Gm" d'4 g4 |"Ab" c'2 ba gfga |"G" g2 d'2 =b2 g2 |"Ab" c'2 ba gfga |"G" g4- ggc'd' | %33
+"Cm" e'4 c'2 e'2 |"Gm" d'4 b4 |"Cm" e'd'c'b c'2 g'2 |"Gm" d'4 g4 |"Ab" c'2 ba gfga | %38
+"G" g2 d'2 =b2 g2 |"Ab" c'2 ba gfga |"G" g6- gf | g8 |[K:Eb]"Gb" b _g2 b g2 b2 |"Ebm" b _g2 b g4 | %44
+"Gb" b _g2 b g2 b2 |"Ebm" b _g2 b g4 |"Ab" c' a2 c' a2 c'2 |"Bb" d' b2 d' b2 d'2 | %48
+"C" =e'c'ge'"Bb" d'bfd' |"Ab" c'aec'"G" z _c' c'2 |[K:Cmin]"Cm" E4 C2 E2 |"Gm" D4 B,4 | %52
+"Cm" EDCB, C2 G2 |"Gm" D4 G,4 |"Ab" C2 B,A, G,F,G,A, |"G" G,2 D2 =B,2 G,2 |"Ab" C2 B,A, G,F,G,A, | %57
+"G" G,4- G,G,CD |"Cm" E4 C2 E2 |"Gm" D4 B,2 G,2 |"Cm" EDCB, C2 G2 |"Gm" D4 G,4 | %62
+"Ab" C2 B,A, G,F,G,A, |"G" G,2 D2 =B,2 G,2 |"Ab" C2 B,A, G,F,G,A, |"G" G,8 |] %66
+

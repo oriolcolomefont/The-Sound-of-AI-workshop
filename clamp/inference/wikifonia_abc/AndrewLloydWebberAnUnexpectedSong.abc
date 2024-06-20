@@ -1,0 +1,37 @@
+X:1
+T:An Unexpected Song
+T:An Unexpected Song`
+T:Andrew Lloyd Webber
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"^G..Gsus4" z8 |"^G..Gsus4." z8 ||"G" B3 A BABd |"Am" A3 G"D7" AGAd |"Em" G3 G GGFD | %5
+w: ||I have nev- er felt like|this, for once I'm lost for|words, your smile has real- ly|
+"C" F2 E4"D7" z2 |"G" B3 A BABd |"Am" A3 G"D7" AGAd |"Em" G3 G GGFD |"C" F2 E4"D7" z2 | %10
+w: thrown me.|This is not like me at|all, I nev- er thought I'd|know the kind of love you've|shown me.|
+"G" d3 G dGdg |"G7" d3 G dGdg |"C" c3 c ccBG |"Cm" _B2 A4 z2 |"Em" B3 A BABd |"F" A3 G AGA_B | %16
+w: Now, no mat- ter where I|am,, no mat- ter what I|do, I see your face ap-|pear- ing.|Like an un- ex- pect- ed|song, an un- ex- pect- ed|
+"Bb" D3 D DDC_B, |"G" B,2 !fermata!G6- | G6 z2 ||"G" B3 A BABd |"C/G" A3 G"D7/G" AGAd | %21
+w: song, that on- ly we are|hear- ing.-||I don't know what's go- ing|on, can't work it out at|
+"Em" G3 G GG"Em/D"FD |"C" F2"D7/G" E4"D7/F#" z2 |"G" B3 A BABd |"C/G" A3 G"D/G" AGAd | %25
+w: all, what ev- er made you|choose me?|I just can't be- lieve my|eyes, you look at me as|
+"Em" G3 G"Em/D" GGFD |"C" F2"D7/G" E4"D7/F#" z2 |"G" d3 G dGdg |"G/F" d3 G dGdg |"C/E" c3 c ccBG | %30
+w: if you could- n't bear to|lose me.|Now, no mat- ter where I|am, no mat- ter what i|do I see your face ap-|
+"Cm/Eb" _B2 A4 z2 |"Em" B3 A BABd |"F" A3 G AGA_B |"Bb" D3 D DDC_B, |"G" B,2 G6- |"G7" G6 z2 || %36
+w: pear- ing|Like an un- ex- pect- ed|song, an un- ex- pect- ed|song, that on- ley we are|hear- ing.||
+"C" e3 d edeg |"F/C" d3 c"G/B" dcdg |"Am" c3 c cc"Am/G"BG |"F" B2"^G7sus4" A4"G7" z2 | %40
+w: I have nev- er felt like|this, for once I'm lost for|words, your smile has real- ly|thrown me|
+"C" e3 d edeg |"F/C" d3 c"G/B" dcdg |"Am" c3 c"Am/G" ccBG |"F" B2"^G7sus4" A4"G7" z2 | %44
+w: This is not like me at|all, I nev- er thought I'd|know the kind of love you've|shown me.|
+"C" g3 c gcgc' |"C/Bb" g3 c gcgc' |"F/A" =f3 f ffec |"Fm/Ab" _e2 d4 z2 |"Am" e3 d edeg | %49
+w: Now, no mat- ter where I|am, no mat- ter what I,|do, I see your face ap-|.pear- ing.|Like an un- ex- pect- ed|
+"Bb" d3 c dcd_e |"Eb" G3 G GG=F_E |"C" E2 c6 |"Am" e3 d edeg |"Bb" d3 c dcd_e |"Eb" g3 g gg=f_e | %55
+w: song, an un- ex- pect- ed|song, that on- ly we are|hear- ing.|Like an un- ex- pect- ed|song, an un- ex- pect- ed|song, that on- ly we are|
+"C" e2 c'6- | c'8 |] %57
+w: hear- ing.-||
+

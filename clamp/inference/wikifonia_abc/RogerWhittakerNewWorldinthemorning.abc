@@ -1,0 +1,25 @@
+X:1
+T:New World in the morning
+T:New World in the morning
+T:071 COUNTRY BEAT 105  BRIGHTNESS  116  TEMPO
+C:Roger Whittaker
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z/"C" G3/2 E/ G E/ |"G7" G3/2 E/ z/ G E/ |"Am" A2 E D/C/ | D z A,2 |"F" A, C C A, | E D C B, | %6
+w: Ev- ''ry bo dy|talks a- bout a|new world in the|mor- ning|new world in the|morn- ing so they|
+"C" E2 F/ z/ E/ z/ |"G7" D2 z2 |"C" G3/2 E/ G z/ E/ |"G7" G3/2 E/ G E/ z/ |"Am" A2 E D/C/ | %11
+w: sa- a- a-|ay,|I my- self dont|talk a- bout a|new world in the|
+ D z A,2 |"F" A, C C A, |"F7" _E D C A, |"Am" A,4 | A, A A B |"F" c c/ z/ c c |"G7" B A G A | %18
+w: morn- ing|New world in the|morn- ing thats to|day,|And I can feel|a new to- mor-|row co- m- ing-|
+"C" E4- |"E7" E2 A B |"Am" c c/ c c/ z/ z/ |"F" B A G F |"C" E2 F/E/ z |"G7" D4 | %24
+w: on|* and I|don't know why I|have to make a|so- o- o-|ng,-|
+"C" G E/ z/ G E/ z/ |"G7" G E/ G E/ z |"Am" A2 E D/C/ | D z A,2 |"F" A, C C A, |"F7" _E D C A, | %30
+w: Ev'- ry bo- dy|talks about a new|world in the morn-|ing New|world in the mor-|* ning takes too|
+"Am" A,4- | A, z z z |] %32
+w: long.||
+

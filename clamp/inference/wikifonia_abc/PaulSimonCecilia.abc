@@ -1,0 +1,24 @@
+X:1
+T:Cecilia
+T:Cecilia
+C:Paul Simon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"F" A4 F2 z A |"Bb" BAGA-"F" A2 z A |"Bb" BAGA-"F" AG F2 |"C" G(E/D/ C2) z2 Ac |"Bb" d4"F" c2 z A | %5
+w: Ce- lia, You're|break- ing my heart _ You're|shak- ing my con- * fi dence|dai- ly. * * Oh Ce-|cil- ia, I'm|
+"Bb" BAGA-"F" A2 z A |"Bb" BAGA-"F" AGFE- |"C" E8 |:S"F" A4 F2 z A |"Bb" BAGA-"F" A2 z A | %10
+w: down on my knees _ I'm|beg- ging you please _ to come home||Ce- lia, You're|break- ing my heart _ You're|
+"Bb" BAGA-"F" AG F2 |"C" (GE/D/ C2) z2 Ac |"Bb" d4"F" c2 z A |"Bb" BAGA-"F" A2 z A | %14
+w: shak- ing my con- * fi dence|dai- ly. * * Oh Ce-|cil- ia, I'm|down on my knees _ I'm|
+"Bb" BAGA-"F" AGFE- |"C" E4 z CDF- |"F" F8!fine! |] z FGA- A2 FF |"Bb" B A2 G- G2 FG | %19
+w: beg- ging you please _ to come home|* Ho ho home.|_|Mak- ing love _ in the|af- ter- noon _ with Ce-|
+"F" AG F2"Bb" B2 A2 |"C7" G E2 F-"F" F2 z2 | z FGA- A2 F2 |"Bb" B A2 G- G2 FG |"F" ABAA- A2 GF | %24
+w: cil- * ia up in|my bed- room _|I got up _ to|wash my face _ when I|come back to bed _ some- one's|
+"C7" GAGF-"F" F4!D.S.! :| %25
+w: tak- en my place _|
+

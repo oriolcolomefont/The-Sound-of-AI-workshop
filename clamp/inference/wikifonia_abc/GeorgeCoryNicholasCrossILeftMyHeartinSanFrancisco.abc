@@ -1,0 +1,31 @@
+X:1
+T:I Left My Heart in San Francisco
+T:I Left My Heart in San Francisco
+T:Nicholas Cross, George Cory
+T: 
+T:General Music Publishing Company, Inc. (NY) 1945
+C:George Cory, Nicholas Cross
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"Fdim""F7" D"F7""F+9" E"F+9" G |"Bb" (F4 | F)"C#dim" G"C#dim" A3/2 B/ |"Cm7" G/ (C3/2 (C2) | %4
+w: I left my|heart~\_\_\_|* in San Fran-|cis- co.~\_\_\_ *|
+ C) C =B, C | (G4 | G)"F7" B"F7" A3/2 F/ |"Bb" (D4 | D/) z/"Eb" D"Eb""Bbdim" E"Bbdim" =E | %9
+w: * High on a|hill~\_\_|* it calls to|me.~\_\_|* To be where|
+"Bb" F/_E/D/E/ (F2 |"Bbm6" F3)"Bbm6" G |"F" A/G/F/G/ (A2 |"Cm6" A)"Cm6""D7" G"D7" ^F3/2 A/ | %13
+w: lit- tle ca- ble cars~\_\_\_|* Climb|half- way to the stars!~\_\_|* The morn- ing|
+"Gm""Gm7" (B4 |"C7" B) c A3/2 C/ |"F7""Bdim" F3"Bdim" G/F/ | %16
+w: fog~\_\_\_|* may chill the|air, I don't|
+"Cm""Fdim" E"Fdim""F7" D"F7""F+9" E"F+9" G |"Bb" (F4 | F)"C#dim" G"C#dim" A3/2 B/ | %19
+w: care! My love waits|there-|* in San Fran-|
+"Cm7" G/ (C3/2 (C2) | C) C =B, C |"F7" (A4 | A)"Eb" A"Eb" B c |"D7" (d4 | d/) z/ d ^c d | %25
+w: cis- co,~\_\_\_ *|* A- bove the|blue-|* and win- dy|sea.~\_\_|* When I come|
+"G7" e3 d |"Dm7" =B2"Dm7""G7" c"G7" d |"C7" c (G3 | G/) z/"Cdim" G"Cdim""C7" ^F"C7" G |"Cm7" e3 G | %30
+w: home to|you, San Fran-|cis- co,~\_\_|* your gol- den|sun will|
+"F7" d2 d2 |"Bb" (B4 | B) |] %33
+w: shine for|me.~~\_\_||
+

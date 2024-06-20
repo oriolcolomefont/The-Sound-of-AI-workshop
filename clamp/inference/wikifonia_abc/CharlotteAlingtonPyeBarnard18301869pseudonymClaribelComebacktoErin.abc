@@ -1,0 +1,44 @@
+X:1
+T:Come back to Erin
+T:Charlotte Alington Barnard, née Pye (1830-69), pseudonym "Claribel"
+T:Come Back to Erin
+T:Amsco Music Sales Co. (New York City) 1933
+C:Charlotte Alington Pye Barnard (1830 - 1869); pseudonym Claribel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C""^Verses:" G2 c>B c2 ^F>G |"G7" B2 A>=F"C" A2 G2 | E2 F>G"F" A2 A>^G | %3
+w: 1.~~Come back to Er- in, Ma-|vour- neen, Ma- vour- neen.|Come back, A- roon, to the|
+w: 2.~~O- ver the green sea, Ma-|vour- neen, Ma- vour- neen,|Long shone the white sail that|
+w: 3.~Oh! May the an- gels o'|wa- king and sleep- ing|Watch o'er my bird in the|
+"D7" A2 d>c"G7" B2 z =G |"C" G2 c>B c2 ^F>G |"G7" B2 A>=F"C" A2 G2 |"C" E2 F>(G"D7" A2 B>)c | %7
+w: land of thy birth, (O,)|Come with the sham- rocks and|spring- time, Ma- vour- neen,|And it's Kil- lar- ney shall|
+w: bore theee a- way, *|Ri- ding the white waves that|fair sum- mer morn- ing|Just like a may- flow'r a-|
+w: land far a- way! *|And it's my pray'r will con-|sign to their keep- ing|Care o' my jew- el by|
+"G7" d2 AB"C" c4 |"Am" E2 c>B A2 ^D>E |"E7" F2 E>=D"Am" D2 C2 |"B7" B,2 B>A"Em" G2 ^FE | %11
+w: ring with our mirth.|Sure, when we lent thee to|beau- ti- ful Eng- land,|Lit- tle we thought of the|
+w: float on the bay.|O, but my heart sank, when|clouds came be- tween us,|Like a grey cur- tain the|
+w: night and by day.|When by the fire- side I|watch the bright em- bers,|Then all my heart flies to|
+"Em" G2"B7" ^F>E"E7" E4 |"Am" E2 c>B A2 ^D>E |"E7" F2 E>B"Am" B2 A2 |"Cm" c2 B>A"G" d2 B>G | %15
+w: lone win- ter days,|Lit- tle we thought of the|hush of the star- shine|O- ver the moun- tain, the|
+w: rain fal- ling down|Hid from my sad eyes the|path o'er the o- cean,|Far, far a- way where my|
+w: Eng- land and thee,|Crav- ing to know if my|dar- ling re- mem- bers,|Or if her thoughts may be|
+"D7" D2 A>G"G" G3 G |"C""^Refrain:" G2 c>B c2 ^F>G |"G7" B2 A>=F"C" A2 G2 | E2 F>G"F" A2 A>^G | %19
+w: bluffs and the brays! (Then)|Come back to Er- in, Ma-|vour- neen, Ma- vour- neen.|Come back a- gain to the|
+w: Col- leen has flown. *||||
+w: cross- ing to me. *||||
+"D7" A2 d>c"G7" B3 =G |"C" G2 c>B c2 ^F>G |"G7" B2 A>=F"C" A2 G2 |"C" EGc(e"F" g)f(Ad) | %23
+w: land of thy birth. Oh,|come back to Er- in, Ma-|vour- neen, Ma- vour- neen,|And it's Kil- lar- * ney shall _|
+w: ||||
+w: ||||
+"C" e2"G7" d>c"C" c4 :| %24
+w: ring with our mirth.|
+w: |
+w: |
+

@@ -1,0 +1,22 @@
+X:1
+T:A Flower Is A Lovesome Thing
+T:A Flower Is A Lovesome Thing
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Db
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F2 |:"B13" AGFG"B9#11" F F2 F- | F8 |"B13" AGFG"B9#11" F F2 F- |"Cm11""F7b5" F8 | %5
+"Bb+7" GFDB,"Eb13" c3 E |"Ab+7" =E_ECA,"Db13" B3 D |"Gbm7" =E=D^CD"Eb9" _D"Dmaj7" D2"Db6" D- |1 %8
+ D6 z F :|2"Db6" D6 z2 ||"Ebm74" A3 =A"Ab+7" _A3 =A |"Dbmaj7" c6 z2 |"Em74" =A3 B"A+7" A3 B | %13
+"Dmaj7" ^c4 z4 |"Dmaj7" ^c3 =d"Db69" _d3 e |"Dmaj7" =e=dd=A"A7b5" AF (3F=GA | %16
+"Bb13" B2"Bb+7" B2"Bb9" B4 |"Gbmaj7" B2 E2"Ab7b5" A2 F2 ||"B13" AGFG"B9#11" F F2 F- | F8 | %20
+"B13" AGFG"B9#11" F F2 F- |"Cm11""F7b5" F8 |"Bb+7" GFDB,"Eb13" c3 E |"Ab+7" =E_ECA,"Db13" B3 D | %24
+"Gbm7" =E=D^CD"Eb9" _D"Dmaj7" D2"Db6" D- | D6 z2 |] %26
+

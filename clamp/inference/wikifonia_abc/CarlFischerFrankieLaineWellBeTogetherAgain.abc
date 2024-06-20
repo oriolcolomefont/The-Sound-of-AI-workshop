@@ -1,0 +1,30 @@
+X:1
+T:We'll Be Together Again
+T:We'll Be Together Again
+C:Carl Fischer
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z"G13" E |:"C" C3"Ab13" _B |"G7" G2- G3/2 G/ |"Am" c/ d c/"Am7" (3d E G | %4
+w: No|tears, no|fears, * Re-|mem- ber there's al- ways to-|
+"D9#5" B/ ^G3/2- G3/2"D9" A/ |"Bbm9" (3c c c"Eb9" _B G |"Ab" _E4 |"Fm" _A/ _B"Ab9" A/ (3B A B | %8
+w: mor- row, * So|what if we have to|part,|We'll be to- geth- er a-|
+"G7sus4" G3"G7""G13" E |"C" C3"Ab13" _B |"G7" G2- G3/2 G/ |"Am" c/ d c/"Am7" (3d E G | %12
+w: gain. Your|kiss, your|smile, * Are|mem- 'ries I'll trea- sure for-|
+"D9#5" B/ ^G3/2- G3/2"D9" A/ |"Bbm9" (3c c c"Eb9" _B G |"Ab" _E4 |"Fm" _A/ _B A/"G7" (3G"G13" E E | %16
+w: ev- er, * So|try think- ing with your|heart,|We'll be to- geth- er a-|
+"C" C4 |"Ab9" (3_A _B A"G7#5b9" B A/B/ |"Cm6" G/ G3/2- G2 |"Ab9" (3_A _B A"G+7" =B A/_B/ | %20
+w: gain.|Times when I know you'll be|lone- some, *|Times when I know you'll ber|
+"Cm6" G4 |"Ab6" (3F G F"G7" G/ F G/ |"G6" _E/ E3/2-"F7" E2 |"D7" (3D _E D"Ab13" F E/F/ | %24
+w: sad,|Don't let temp- ta- tion sur-|round you, *|Don't let the blues make you|
+"G7" D3"G13" =E |"C" C3"Ab13" _B |"G7" G2- G3/2 G/ |"Am" c/ d c/"Am7" (3d E G | %28
+w: bad. Some-|day, some|way, * We|both have a life- time be-|
+"D9#5" B/ ^G3/2- ^G3/2"D7" A/ |"Bbm9" (3c c c"Eb9" _B G |"Ab" _E4 | %31
+w: fore us, * For|part- ing is not good-|bye,|
+"Fm" _A/ _B A/"G7" (3G"C13" =E E |1"C6" C3"G7""G13" E :|2"C" C3 z |] %34
+w: We'll be to- geth- er a-|gain. No|gain.|
+

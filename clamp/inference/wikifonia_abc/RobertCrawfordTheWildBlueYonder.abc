@@ -1,0 +1,36 @@
+X:1
+T:The Wild Blue Yonder
+T:The Wild Blue Yonder
+C:Robert Crawford
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bb" D2 F"Fdim" F3- |"F" F3 EDC |"Bb" D3"F7" E3 |"Bbdim" =E3"Bb" F3 |"Eb" G2 B B3- | B2 z cBG | %6
+w: Off we go|_ in- to the|wild blue|yon- der,|Climb- ing high|_ in- to the|
+w: Minds of men|_ fash- ioned a|crate of|thun- der,|Set it high|_ in- to the|
+w: Off we go|_ in- to the|wild sky|yon- der,|Keep the wings|_ lev- el and|
+"Bb""Fdim" F6- |"F7" F2 z4 |"Bb" D2 F"Fdim" F3- |"F7" F2 z EDC |"Bb" D3"F7" E3 |"C7" =E3"Db7" F3 | %12
+w: sun;|_|Here they come,|_ zoom- ing to|meet our|thun- der,|
+w: blue;|_|Hands of men|_ blast- ed the|world a-|sun- der;|
+w: true;|_|If you'd live|_ to be a|gray- haired|won- der|
+"F" A2 c"Fm" c3- |"C7" c2 z BAG |"Bb""Fdim" F6- |"F7" F2 z4 |"Bb" D2 F"Fdim" F3- |"F" F3 EDC | %18
+w: At 'em boys,|_ Give 'er the|gun.|_|Down we dive|_ spout- ing our|
+w: How they lived|_ God on- ly|knew.|_|Souls of men|_ dream- ing of|
+w: Keep the nose|_ Out of the|blue.|_|Fly- ing men|_ guard- ing the|
+"Bb" D3"F7" E3 |"Bbdim" =E3"Bb" F3 |"Eb" G2 B B3- | B2 z GAB |"A" A6- |"D7" A2 z D3 | %24
+w: flame from|un- der|Off with one|_ Hell- uv- a|roar!|_ We|
+w: skies to|con- quer|Gave us wings,|_ ev- er to|soar.|_ With|
+w: na- tion's|bor- ders,|We'll be there,|_ fol- lowed by|more.|_ In|
+"Gm" B3- B2 B |"G" =B3- B2 B |"Cm" c3- c2 c |"Gdim" ^c3 c3 |"Bb" dcB"Gm" d2 B | %29
+w: live _ in|fame or go|down _ in|flame Boy!|Noth- ing- 'll stop the|
+w: scouts _ be-|fore _ And|bomb- ers ga-|lore Boy!|Noth- ing can stop the|
+w: ech- * e-|lon _ We|car- * ry|on Boy!|Noth- ing- 'll stop the|
+"Edim7" d2 B"F7" c3 |1"Bb""^1st & 2nd endings" B3"Gdim7" z3 ||"F" z3"F7" z3 :|3"Bb" B6- || B2 z4 | %34
+w: Ar- my Air|Corps!||||
+w: Ar- my Air|Corps!||||
+w: Ar- my Air|||Corps!|_|
+

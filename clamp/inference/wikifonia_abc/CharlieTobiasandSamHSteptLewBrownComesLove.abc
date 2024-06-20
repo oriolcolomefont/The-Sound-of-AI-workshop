@@ -1,0 +1,36 @@
+X:1
+T:Comes Love
+T:Comes Love
+C:Charlie Tobias and Sam H Stept
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 D>D |:"Gm" G2 B4 D>D | G>GB>B G2 D>D |"D7" ^F2 A4 D>D | ^F>FA>A F2 D2 |"C/E" d8- | %6
+w: Come a|rain- storm, put your|rub- bers on your feet. Comes a|snow- storm, you can|get a lit- tle heat. Comes|love,|
+w: |heat- wave, you can|hur- ry to the shore. Comes a|sum- mons, you can|hide be- hind the door. Comes|love,|
+"D7/F#" d c2 c"Eb7" B2"D7" A2 |"Gm" G8- |"Em7b5" G4"Eb" z2"D7" D>D |"Gm" G2 B4 D>D | %10
+w: _ noth- ing can be|done!|_ Comes a|fire. _ then you|
+w: _ noth- ing can be|done!|_ Comes the|meas- les, you can|
+ G>GB>B G2 D>D |"D7" ^F2 A4 D>D | ^F>FA>A F2 D2 |"C/E""Fdim7" d8- |"D7/F#" d c2 c"Eb7" B2"D7" A2 | %15
+w: know just what to do. Blow a|tire _ you can|buy an- oth- er shoe. Comes|love,|_ noth- ing can be|
+w: quar- an- tine the room. Comes a|"mous- ie" you can|chase it with a broom. Comes|love,|_ noth- ing can be|
+"Gm""Gm/F" G8- |"Eb" G6"D7" z2 |"G7" d3 =B- B2 z2 | d3 =B- B e2 d |"Cm" e2 d2"G7" c2 =Bc- | %20
+w: done!|_|Don't try _|hid- in' _ 'cause there|is- n't an- y use.|
+w: done!|_|That's all _|broth- er, _ if you've|ev- er been in love.|
+"Cm7" c6 z2 |"F7" c3 A- A2 z2 |"Am7b5" c3 A- A2 z2 |"D7" d d2 d- d"Ddim7" d2 d- | %24
+w: _|You'll start _|slid- in' _|when your heart _ turn on|
+w: _|That's all _|broth- er! _|You know what _ I'm speak|
+"D7" d D2 D- D2 D>D |"Gm" G2 B4 D>D | G>GB>B G2 D>D |"D7" ^F2 A4 D>D | ^F>FA>A F2 D2 | %29
+w: _ the juice. _ Comes a|head- ache, you can|lose it in a day. Comes a|tooth- ache, see your|dent- ist right a- way. Comes|
+w: _ ing of! _ Comes a|night- mare, you can|al- ways stay a- wake. Comes de-|press- ion, you may|get an- oth- er break. Comes|
+"C/E""Fdim7" d8- |"D7/F#" d c2 c"Eb7" B2"D7" A2 |1"Gm""Gm/F" G8- || %32
+w: love,|_ noth- ing can be|done!|
+w: love,|_ noth- ing can be||
+"Em7b5" G2 z2"Eb7" z2"D7" D>D :|2"Gm7""Cm7" G8- ||"Gm" G6 z2 |] %35
+w: * Comes a|||
+w: |done!|_|
+

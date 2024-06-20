@@ -1,0 +1,32 @@
+X:1
+T:These Foolish Things
+C:Jack Strachey
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^A" z"Ebmaj7" E FG F"Cm7"ECE |"Fm7" G2 G2 G"Bb7b9" F3 | z"Ebmaj7" E FG F"Cm7"ECE | %3
+w: A cig- a- rette that bears a|lip- stick's tra- ces,|an air- line tick- et to ro-|
+"F7" c2 c2"Bb" c B3 |"Bbm7" z B cB"^A(#11)" e2 ee- |"Ab69" e4"Gm7b5" (3G2 A2"C7b9" B2 | %6
+w: man- tic pla- ces,|and still my heart has wings.|_ These Fool- ish|
+"F9" c3 C (3C2 E2 G2 |"Fm7/Bb" F8 || z"Ebmaj7" E FG F"Cm7"ECE |"Fm7" G2 G2 G"Bb7b9" F3 | %10
+w: Things re- mind me of|you.|A think- ling pia- no in the|next a- part- ment,|
+ z"Ebmaj7" E FG F"Cm7"ECE |"F7" c2 c2"Bb" c B3 | z"Bbm7" B cB"^A(#11)" e2 ee- | %13
+w: those stumb- ling words that told you|what my heart meant,|a fair- ground's paint- ed swings.|
+"Ab69" e4"Gm7b5" (3G2 A2"C7b9" B2 |"F9" c3 C (3C2"Bb7b9" E2 G2 |"Eb" E8 ||"^B""Gm" z2 B2 G4 | %17
+w: _ These Fool- ish|Things re- mind me of|you.|You came,|
+"Am7b5" z2 c2"D7" =A4- |"Gm" A2 B2"C/F#" c2"C/F" d2 |"Em7b5" d8 |"Dm7" z2 d2"Gm7" c2 B2 | %21
+w: you saw,|* you con- quer'd|me;|when you did|
+"Cm7" cd"F7" c4 F2 |"Bb7" B2 B2"Edim7" B2 =A2 |"Fm7" !courtesy!_A2 B2"Bb7" A4 || %24
+w: that to me, I|knew some- how this|had to be.|
+"^C" z"Ebmaj7" E FG F"Cm7"ECE |"Fm7" G2 G2 G"Bb7b9" F3 | z"Ebmaj7" E FG F"Cm7"ECE | %27
+w: The winds of March that make my|heart a danc- er|a tel- e- phone that rings but|
+"F7" c2 c2"Bb" c B3 | z"Bbm7" B cB"^A(#11)" e2 ee |"Ab69" e4"Gm7b5" (3G2 A2"C7b9" B2 | %30
+w: who's to an- swer|Oh, how the ghost of you|clings! These Fool- ish|
+"F9" c3 C (3C2"Bb7b9" E2 G2 |"Eb" E8 |] %32
+w: Things re- mind me of|you.|
+

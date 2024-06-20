@@ -1,0 +1,28 @@
+X:1
+T:Wanting You
+T:Wanting You
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B2 c c3- cGA BAG |"Bb7" A2 B B3- BFG AG"Bdim"F |"Cm" G2 A"Ab" A3- A"Cm7"GE"F7" CDE | %3
+w: Want- ing you, _ Ev- 'ry day I am|want- ing you, _ ev- 'ry night I am|long- ing to, _ hold you close to my|
+"Gm" D3"D7" D3"Gm""Bb7" D6 |"Eb" B2 c c3- cGA BAG |"Bb7" A2 B B3- BFG AG"Bdim"F | %6
+w: eaa- er breast.|Want- ing love _ in that heav- en I'm|dream- ing of, _ Makes that heav- en seem|
+"Cm" G2 A A3- AGE"F7" CDE |"Bb" F3"F7" F3"Bb" F3- F"Bb7" z2 ||[M:3/4]"Ab" e4 f2 | f6- | f2 e2 f2 | %11
+w: far a- bove _ an- y hope that I'll|gan my quest. _|Dreams are|vain,|_ But I|
+ e2 d2 c2 |"Ebmaj7" d4"Eb" e2 | e4"Ebmaj7" d2 | d4"Eb6" c2 | c4"Eb" B2 |"Fm""Bb7" c4 d2 | d6- | %18
+w: cling to the|mer- est|chance that|you may|hear me,|Dreams are|vain,|
+ d2 A2 B2 |"Fm" c2"Bb7" d2 B2 |"Eb6""Eb" c4 B2 | B4 G2 |"F7" F4 E2 | D4 E2 | %24
+w: _ For when-|ev- er I|wake, I|nev- er|find you|near me.|
+[M:12/8]"Eb" B2 c c3- cGA BAG |"Bb7" A2 B B3- BFG AG"Bdim"F |"Cm" G4 c c2 c"F7" g3- g | %27
+w: Want- ing you, _ noth- ing else in this|world will do, _ in this word you are|all that I a- dore. _|
+[M:3/4]"Eb" B6 |"Bb7" B4 g2 |"Eb" e6- | e2 z4 |] %31
+w: All|I a-|dore.|_|
+

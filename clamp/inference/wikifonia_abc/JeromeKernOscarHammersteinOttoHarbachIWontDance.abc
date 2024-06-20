@@ -1,0 +1,36 @@
+X:1
+T:I Won't Dance
+T:I Won't Dance2
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"Cmaj7" z/ G/ G"Eb7" G2 |"Dm7" z A"G7" C D |"Cmaj7" z/ G/ G"C#dim7" G2 |"Dm7" z A C D | %4
+w: (He)~~I won't dance!|Don't ask me;|I won't dance!|Don't ask me;|
+"Bb13" z/ G/ G"A7" G2 |"Dm7" z A"G7" C D |"C""Cmaj7" E4- |"C7" E3/2 E/ G F |"Fmaj7" E C D C | %9
+w: I won't dance,|ma- dame, with|you.|_ My heart won't|let my feet do|
+"Fm" E C"G7b9" D C- |"C6""Eb7" C4- |"Dm7" C3"Db13" z |"Cmaj7" z/ G/ G"Eb7" G2 |"Dm7" z A"G7" C D | %14
+w: things they should do!|_||You know what?|You're love- ly!|
+"Cmaj7" z/ G/ G"C#dim7" G2 |"Dm7" z A C D |"Bb13" z/ G/ G"A7" G2 |"Dm7" z A"G7" C D | %18
+w: (she)~~and so what?|I'm lover- ly!|(He)~~But, oh! what|you do to|
+"C""Cmaj7" E4- |"C7" E3/2 E/ G F |"Fmaj7" E C D C |"Fm" E C"G7b9" D C- |"C6""F6" C4- | %23
+w: me.|_ I'm like an|o- cean wave that's|bumped on the shore;|_|
+"C7" C E G F |"Fmaj7" E C D C |"Fm" E C D"G7b9" C- |"C" C4 |"Dm7""G7" z4 |"Abmaj7" C _E F c | %29
+w: * I feel so|ab- so- lute- ly|stumped on the floor!|_||(She)~~When you dance you're|
+ _B _A _E F |"Ab7" _G3/2 G/- G2 | z4 |"Dbmaj7" _A, _B, _D F | _E _D _A, _B, |"Db7" _C3/2 B,/- B,2 | %35
+w: charm- ing and you're|gen- tle _||'spec ially when you|do the "Con- ti-|nen- tal." _|
+"B" B, ^D ^F B | A ^F ^C ^D |"C9" E3/2 E/- E2- | E E G F |"E7" E3/2 E/- E2- |"Am7" E E B A | %41
+w: (He)~~But this feel- ing|is- n't pure- ly|men- tal; _|_ for hea- ven|rest us, _|_ I'm not as-|
+"Dm9" E3/2 E/- E2 |"G7" E D E F |"Cmaj7" z/ G/ G"Eb7" G2 |"Dm7" z A"G7" C D | %45
+w: bes- tos. _|_ And that's why|I won't dance!|Why should I?|
+"Cmaj7" z/ G/ G"C#dim7" G2 |"Dm7" z A"G7" C D |"Bb13" z/ G/ G"A7" G2 |"Dm7" z A"G7" C D | %49
+w: I won't dance!|How could I?|I won't dance!|"Mer ci beau|
+"C""Cmaj7" E4- |"C7" E3/2 E/ G F |"Fmaj7" E C D C |"Fm" E C"G7b9" D C- |"C6" C"C7" E G F | %54
+w: coup"|_ I know the|mus- ic leads the|way to ro- mance|_ so if I|
+"Fmaj7" E G A c |"Dm7" e c"G7b9" d2 |"Cmaj7" c4- | c z z2 |] %58
+w: hold you in my|arms I won't|dance!|_|
+

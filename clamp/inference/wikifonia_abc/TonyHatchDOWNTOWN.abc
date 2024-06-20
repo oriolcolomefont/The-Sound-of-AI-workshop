@@ -1,0 +1,30 @@
+X:1
+T:DOWNTOWN
+T:DOWNTOWN
+T:Tony Hatch
+C:Tony Hatch
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Eb" BBBB-"Eb7" BBBB |"Ab" cecB-"Bb7" Bdfd |"Eb" e g2 B- B4 |"Ab" z2 e2"Bb" B4 | %4
+w: When you're a lone _ and life is|mak ing you lone ly, you can al|ways _ go _|DOWN TOWN|
+"Eb" BBBB-"Eb7" BBBB |"Ab" cecB-"Bb7" Bdfd |"Eb" e g2 B- B4 |"Ab" z2 e2"Bb" B3 B |"Eb" aggf aggf | %9
+w: When you've got wor _ ries, all the|noise and the hur _ ry seems to|help, I know _|DOWN TOWN Just|lis ten to the mu sic of the|
+"Cm" efed ce z2 |"Eb" aggf aggf |"Cm" efed ce z2 |"Gm" dBBB- B4 | z2"Ab" cd- dc d2 | cd-dc- cdcd | %15
+w: traf fic in the ci ty|Ling er on the side walk where the|ne on signs are pret ty|How can you lose? _|The lights _ are much|bright er _ there _ you can for|
+"Cm7" efef-"F" f f2 f |"Cm7" efef-"F" fe f2 |"Eb" b4"Eb7" g4 |"Fm7" fgag-"Bb6" ge"Bb9" f2 | %19
+w: get all your trou _ les for|get all your cares. _ So go|DOWN TOWN|things 'll be great _ when you're|
+"Eb" b4 g4 |"Fm7" fgag-"Bb6" ge"Bb9" f2 |"Eb" b4"Eb7" g4 |"Fm7" fgag-"Bb6" ge f2 |1"Eb""Fm7" e8- | %24
+w: DOWN TOWN|No fin er place _ for sure,|DOWN TOWN|Ev 'ry thing's wait _ ing for|you|
+"Eb7" e6"Fm7" z2 |"Eb7" e3 B-"Fm7" B4- |"Eb7" B6"Fm7" z2 :|2"Eb""Fm7" e8 || z8 | %29
+w: _|DOWN TOWN. _|_|you||
+"Eb" e3"Fm7" B- B4 :| %30
+w: DOWN TOWN _|
+

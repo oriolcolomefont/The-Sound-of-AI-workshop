@@ -1,0 +1,32 @@
+X:1
+T:It's Been So Long
+T:It's Been So Long
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z BGB"C7" _dc^FG |"Fm" B8 |"Abm6" z AAA"Bb7" AAG^F |"Eb" G8 | z BGB"C7" _dc^FG |"Fm" B8 | %6
+w: I think of things we used to|do|And won- der why we had to|part,|I think of all the joys we|knew|
+"F9" z GGG GGFE | B2"Fdim""^Chorus" =A2"Eb" B2"Ebdim" c2 |:"Bbm6" _d8 |"C7" c4- c ^F2 G | %10
+w: And there's a long- ing in my|heart 'cause it's been|so|long _ since I|
+"Bbm6" _d2 dc-"C7" c ^F2 G |"Bbm6" _d2 dc-"C7" c =B,2 C |"F9" G8 |"F7" F4- F =B,2 C | %14
+w: held you tight, _ When we|said good- night, _ It's been|so|long _ hon- ey|
+"F9" G2 GF-"F7" F =B,2 C |"F9" G2 GF-"F7" F G2 F |"Bb7" G2 BG- G F3 | G6 F2 | G2 BG- G F3 | %19
+w: can't you see _ What you've|done to me. _ I've been|in a kind _ of|daze, For|days and days _ and|
+"Fm""F#""Gm" G8 |"Eb" c e2 c- c4 | c e2 c- c3 B |"Eb" c2 e2 c G3 | B2"Ebdim" =A2"Eb" B2"Ebdim" c2 | %24
+w: days,|Feel- in' blue _|miss- in' you _ in|oh, so man- y|ways 'cause it was|
+"Bbm6" _d8 |"C7" c4- c ^F2 G |"Bbm6" _d2 dc-"C7" c ^F2 G |"Bbm6" _d2 dc-"C7" c =B,2 C |"F9" G8 | %29
+w: so|nice _ When we|had that date, _ Ev- 'ry|night at eight, _ It was|so|
+"F7" F4- F =B,2 C |"F9" G2 GF-"F7" F =B,2 C |"F9" G2 GF-"F7" F2 EF |"Eb" G2 B2 B G2 c- | %33
+w: nice _ Then we|said good- bye _ What a|fool was I _ Let me|get back in your arms|
+"D7" c2 c2 c d2 G- |"G7" G8- |"C7" G2 B2 =B2 c2 |"F7" G8 |"Bb7" B8 |1"Eb""Ebdim" e8- | %39
+w: _ Where I be- long|_|* 'cause it's been|oh!|so|long.|
+"Eb7" e z"Ebdim" =A2"Eb" B2"Ebdim" c2 :|2"Eb""Fm7" e8- |"Eb" e4- e2 z2 |] %42
+w: _ 'cause it's been|long.|_ _|
+

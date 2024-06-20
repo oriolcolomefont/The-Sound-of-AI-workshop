@@ -1,0 +1,17 @@
+X:1
+T:Tizenhárom ezüstpityke
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A,/ A,3/2 C C | E/ E3/2 E D | C/ A,3/2 C/ B,3/2 | A,2 A, z!fine! | E/ E3/2 G G | B B B/ A3/2 | %6
+w: Ti- zen há- rom|ez- üst pity- ke|fi- tyeg a men-|té- men,|A leg- el- ső|haj- dú va- gyok|
+w: A leg- el- ső|haj- dú va- gyok|Sza- bolcs meg Bi-|har- ba.|||
+ G/ E3/2 G ^F | E2 E E | A A B A | G G E C | D/ D3/2 G F | E2 A z!D.C.! |] %12
+w: Sza- bolcs vár- me-|gyé- ben, Su-|vic- kos baj- szom|úgy áll, mint az|ö- reg bi- ka|szar- va,-|
+w: ||||||
+

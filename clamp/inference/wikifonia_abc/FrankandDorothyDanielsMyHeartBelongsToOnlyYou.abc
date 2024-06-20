@@ -1,0 +1,35 @@
+X:1
+T:My Heart Belongs To Only You
+C:Frank and Dorothy Daniels
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI program 71
+V:1
+"G7" z4"^GUITAR" z2 d2 |"C " e4 z2 z f |"G7" g4 z2 z f |"C " e4 z2 z f |"G7" g4 z2 z f | %5
+w: |||||
+"C " ec de"Gmaj7" d3 c |"Emin" B3 G"A " E4 |"F " z A Bc"G7" B3 A |"C " G3 E"F " C4 | %9
+w: * My ~heart ~be- longs ~to|~on- ly ~you.|I've ~ne- ver ~loved ~as|~I ~love ~you.|
+"Dmin" z F GA"G7" G3 F |"Emin" E2"G " G2"Amin" A2"C " c2 |"D7" z A Bc"Bmin7" B3 A | %12
+w: You've ~set a ~flame ~with-|in ~me ~burn- ing,|a ~flame ~to ~stay ~with-|
+"G " B2"Amin" c2"G7" d2"E " e2 |"C " z c de"Emin7" d3 c |"Bmin7" B3 G"Emin" E4 | %15
+w: in ~me ~yearn- ing.|It's ~just ~for ~you ~I|~want ~to ~live.|
+"F " z A Bc"G7" B3 A |"C " G3 E"F " C4 |"Dmin" z F GA"G7" G3 F |"Emin" E2"G " G2"Amin" A2"C " c2 | %19
+w: It's ~just ~to ~you, ~my|~heart ~I ~give.|I'll ~al- ways ~be ~your|~slave, ~my ~dar- ling|
+"D7" z2 de"G7" c d3 |"C " c8 |"F " z c dc"G7" BA GF |"Cmaj7" GG-"Amin" G6 | %23
+w: through ~the ~com- ing|~years.|There ~were ~some times ~when ~I ~was|~doubt- ful *|
+"Dmin" z2 FE"G7" D E2 F |"C ""Cmaj7" G8 |"E7" z d ed"Amin" cB AB |"Amin" cA- A2-"D7" AA Bc | %27
+w: of ~this ~new ~love ~af-|fair|but ~now, ~my ~mind ~is ~no ~more|~doubt- ful, * * I've ~found ~my|
+"Bmin" dd- (3ddd"D7" c2 Bc |"G7" d8 |"C " z c de"Gmaj7" d3 c |"Emin" B3 G"A " E4 | %31
+w: ~heav- en * ~with ~the ~help ~of ~a|~prayer.|You ~are ~the ~song ~with-|in ~my ~soul,|
+"F " z A Bc"G7" B3 A |"C " G3 E"F " C4 |"Dmin" z F GA"G7" G3 F |"Emin" E2"G " G2"Amin" A2"C " c2 | %35
+w: a ~me- lo- dy ~that|~can't ~grow ~old.|I've ~known ~for ~long my|~heart ~be- longs ~to|
+"D7" d4"G7" e4 |"C ""Amin""Esus47" c6"G7" z2 |"C " z c de"Gmaj7" d3 c |"Emin" B3 G"A " E4 | %39
+w: ~on- ly|~you.|You ~are ~the ~song ~with-|in ~my ~soul,|
+"F " z A Bc"G7" B3 A |"C " G3 E"F " C4 |"Dmin" z F GA"G7" G3 F |"Emin" E2"G " G2"Amin" A2"C " c2 | %43
+w: a ~me- lo- dy ~that|~can't ~grow ~old.|I've ~known ~for ~long my|~heart ~be- longs ~to|
+"D7" d4"G7" e4 |"C " c4"D7" d4 |"A " e8 |] %46
+w: ~on- ly|~you. *||
+

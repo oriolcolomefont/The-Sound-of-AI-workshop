@@ -1,0 +1,28 @@
+X:1
+T:What A Friend We Have In Jesus
+T:What A Friend We Have In Jesus
+T: Charles C. Converse
+T:Joseph M. Scriven
+C:Charles Converse
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c3 c"F7" dcAF |"Bb" F4 D4 |"F" C3 F AFcA |"C" G8 |"F" c3 c"F7" dcAF |"Bb" F4 D4 | %6
+w: 1.~What a friend we have in|Je- sus,|All our sins and griefs to|bear!|What a priv- i- lege- to|car- ry|
+w: 2.~Have we tri- als and temp-|ta- tions?|Is there trou- ble an- y-|where?|We should ne- ver be dis-|cour- aged;|
+w: 3.~Are we weak and heav- y|la- den,|Cum- bered with a load of|care?|Pre- cious Sav- iour, still our|Ref- uge;|
+"F/C" C3 F AGF"C"E |"F" F8 |"C" G3"Cdim" ^F"C" GABG |"F" A4 c4 |"Bb" d3 d"F" cA"Bb"B"F"A |"C" G8 | %12
+w: Ev- 'ry thing to God in|prayer.|Oh, what peace we of- ten|for- feit,|Oh, what need- less pain we|bear;|
+w: Take it to the Lord in|prayer.|Can we find a friend so|faith- ful,|Who will all our sor- rows|share?|
+w: Take it to the Lord in|prayer.|Do thy friends de- spise, for-|sake thee?|Take it to the Lord in|prayer.|
+"F" c3 c dcAF |"Bb" F4 D4 |"F" C3 F A"C7"G"F"F"C"E |"F" F8 |] %16
+w: All be- cause we do not|car- ry|Ev- 'ry thing to God in|prayer.|
+w: Je- sus knows our ev- 'ry|weak- ness;|Take it to the Lord in|prayer.|
+w: In His arms he'll take and|shield thee;|Thou wilt find a sol- ace|there.|
+

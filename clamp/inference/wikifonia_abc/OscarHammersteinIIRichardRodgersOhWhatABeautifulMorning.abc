@@ -1,0 +1,24 @@
+X:1
+T:Oh What A Beautiful Morning
+T:Oh what a beautiful morning
+T:(from Oklahoma)
+T:Richard Rodgers,OscarHammerstein II
+C:OscarHammerstein II, Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z c _B |:"F" A G F |"C7" G A _B |"F" A c2- |"C7" c c _B |"F" A G F |"C7" G A _B |"Dm" A F2- | %8
+w: Theres a|bright gold- en|haze on the|mead- ow|* theres a|bright gold- en|haze on the|mead- ow|
+ F2 G |"F" A G F |"C7" G A _B |"F" c _B A |"Bb" d2 d/d/ |"F" c c c | c c c |"Gm" c c c |"C7" c3 | %17
+w: * the|corn is as|high as an|el- e- phants|eye and it|looks like its|climb- ing clear|up to the|sky|
+"F" c A E | F A c |"Bb" _e3 | d3 |"F" c A E | F A c |"C7" G3- | G3 |"F" c A E | F A c |"Bb" e3 | %28
+w: Oh what a|beau- ti- ful|morn-|ing|oh what a|beau- t- ful|day||I got a|beau ti- ful|feel-|
+ f3 |"F" f c A |"C7" e _B G |1"F" F3- || F"^N.C." c _B :|2"F" F3 ||"Gm" G3 |"F" f c A | %36
+w: in|ev- ry things|go- in my|way|* all the|way||oh what a|
+"C7" e _B G |"F" F3- | F z2 |] %39
+w: beau- ti- ful|day||
+

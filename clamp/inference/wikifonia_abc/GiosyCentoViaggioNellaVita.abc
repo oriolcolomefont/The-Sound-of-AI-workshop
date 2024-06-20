@@ -1,0 +1,50 @@
+X:1
+T:Viaggio Nella Vita
+T:Viaggio Nella Vita
+C:Giosy Cento
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E" z8 |"F#m" z8 |"B" z8 |"E" z4"B" z2 z3/2 B,/ |"E" GG-GG/G/"F#m" FF-FF/E/ |"B" DD- D4 z B, | %6
+w: |||A-|ve- vo _ tan- ta vo- glia _ di viag-|gia- re, _ tu|
+"F#m" AAAG/F/-"B" F2- F/F/F/F/ |"E" E4 z3 E |"F#m" AA-AA/A/"B" BB-BB/A/ |"G#m" GG- G2"C#m" z3 G | %10
+w: mi di- ce- sti vai _ _ ed io par-|ti. Son|vi- vo _ dis- si~al- lo- ra _ ad~u- na|don- na, _ a|
+"F#m" A2- A/A/A/G/"B" F2 (3FFE |"E" E4"B" z4 |"E" GBcB/B/- B<GGE |"B" DD- D2 z4 | %14
+w: te _ a- mi- co mio pen- sa- ci|tu.|Pren- di mi per man- * o Di- o|mi- o, _|
+"F#m" AAAG/F/-"B" F<EED |"E" EE- E2 z3 E |"F#m" cccc/d/-"B" d<ddc |"G#m" BB- B2"C#m" z3 E | %18
+w: gui- da- mi nel mon- * do~a mo- do|tu- o. _ La|stra- da~è tan- to lun- * ga~e tan- to|du- ra _ pe|
+"F#m" AAAG/F/-"B" F<FFE |"E" EE- E2 z4 |"B" z4"B7" z3 B, |"E" GG-GG/G/"F#m" FF-FF/E/ | %22
+w: rò con te nel cuor _ non ho pa-|u- ra. _|Io|so no~an- * co- ra gio- va- * ne Si-|
+"B" DD- D4 z B, |"F#m" AAAG/F/-"B" FF-FF/F/ |"E" EE- E2 z3 E |"F#m" AA- A/A/A/A/"B" BB-BB/A/ | %26
+w: gno- re, _ ma|so- no tan- to vec- * chio _ den- tro~il|cuo- re. _ Le|co- se _ in cui cre- de- vo _ m'han de-|
+"G#m" GG- G2"C#m" z3 G |"F#m" AA-AA/G/"B" F2 (3FFE |"E" E4"B" z4 |"E" GBcB/B/- B<GGE | %30
+w: lu- so, _ io|cer- co _ so- lo~a- mo- re~e li- ber-|tà.|Pren- di- mi per ma- * no Di- o|
+"B" DD- D2 z4 |"F#m" AAAG/F/-"B" F<EED |"E" EE- E2 z3 E |"F#m" cccc/d/-"B" d<ddc | %34
+w: mi- o, _|gui- da- mi nel mon- * do~a mo- do|tu- o. _ La|stra- da~è tan- to lun- * ga~e tan- to|
+"G#m" BB- B2"C#m" z3 E |"F#m" AAAG/F/-"B" F<FFE |"E" EE- E2 z4 |"B" z4"B7" z3 B, | %38
+w: du- ra _ pe|rò con te nel cuor _ non ho pa-|u- ra. _|Un|
+"E" GG-GG/G/"F#m" FF-FF/E/ |"B" DD- D4 z B, |"F#m" AAAG"B" FF-FF/F/ |"E" EE- E2 z3 E | %42
+w: gior- no _ mi~han pro- po- sto _ un~al- tro|viag- gio, _ il|cuo- re mi di- ce- va _ non par-|ti- re _ Quel|
+"F#m" AA-AA/A/"B" BB-BB/A/ |"G#m" GG- G2"C#m" z3 G |"F#m" A2- A/A/A/G/"B" F2 (3FFE |"E" E4"B" z4 | %46
+w: gior- no _ e- ro tri- ste~e _ me ne~an-|da- i, _ la|stra- * da per to- nar non tro- vo|più.|
+"E" GBcB/B/- B<GGE |"B" DD- D2 z4 |"F#m" AAAG/F/-"B" F<FFE |"E" EE- E2 z3 E | %50
+w: Pren- di- mi per ma- * no Di- o|mi- o. _|gui- da- mi nel mon- * ~do~a mo- do|tu- o. _ La|
+"F#m" cccc/d/-"B" d<ddc |"G#m" BB- B2"C#m" z3 E |"F#m" AAAG/F/-"B" F<FFE |"E" EE- E2 z4 | %54
+w: stra- da~è tan- to lun- * ga~e tan- to|du- ra _ pe-|rò con te nel cuor _ non ho pa-|u- ra. _|
+"B" z4"B7" z2 z B, |"E" GG-GG/G/"F#m" FF-FF/E/ |"B" DD- D4 z B, |"F#m" AAAG"B" FF-FF/F/ | %58
+w: Per|me vi- * ci- na è la _ gran- de|se- ra, _ il|so- le muo- re ver- so _ l'o- riz-|
+"E" EE- E2 z3 E |"F#m" AA- A/A/A/A/"B" BB-BB/A/ |"G#m" GG- G2"C#m" z3 G | %61
+w: zon- te. _ Io|sen- to _ che~il tuo re- gno è _ più vi-|ci- no _ son|
+"F#m" AA-AA/G/"B" FF-FF/E/ |"E" E4"B" z4 |"E" GBcB/B/- B<GGE |"B" DD- D2 z4 | %65
+w: pron- to _ per il viag- gio _ mio con-|te|Pren- di- mi per ma- * no Di- o|mi- o, _|
+"F#m" AAAG/F/-"B" F<FFE |"E" EE- E2"E7" z3 E |"A" cccc/d/-"B" d<ddc |"G#m" BB- B2"C#m" z3 E | %69
+w: gui- da- me nel mon- * do~a mo- do|tu- o. _ La|stra- da~è tan- to lun- * ga~e tan- to|du- ra _ pe-|
+"F#m" AAAG/F/-"B" F<FFE |"E" EE- E2"A" z4 |"E" z8 |] %72
+w: rò con te nel cuor _ non ho pa-|u- ra. _||
+

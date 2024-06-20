@@ -1,0 +1,27 @@
+X:1
+T:Somewhere, My Love
+T:Somewhere my love
+T:(Laras theme from Doctor Zhivago)
+T:Maurice Jarre
+T:Paul Francis Webster
+C:Maurice Jarre
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"G" B,4 D3 ^A | B8 | (3FAG D3 _D3 |"D7" C8 |"A" C4 D3 E |"D7" F8 |"A" (3ED^C"D7" D3 =c3 | %7
+w: Some- where my|love|there will be songs to|sing|Al- though the|snow|cov- ers the hope of|
+w: Some- day a|hill|blos- soms in green and|gold|And there are|dreams|all that your heart can|
+"G" B8 :|"C" E4 G4- | G4 z2 (3AGF |"C" G4 E4 |"G" D8 |"Bb" D4 =F4- | =F4 z ^F (3GFG | %14
+w: spring.|||||||
+w: hold|Some- day|* we'll meet a-|gain my|love|Some- day|* when- ev- er the|
+"F" A4"Bb" _B4 |"D7" c8 |:"G" B,4 D3 ^A | B8 | (3FAG D3 _D3 |"D7" C8 |"A" C4 D3 E |"D7" F8 |1 %22
+w: ||You'll come to|me|out of the long a-|go|Warm as the|wind|
+w: spring breaks|through|Till then my|sweet|think of me now and|then|God speed my|love|
+"A" z2 (3EDC"D7" D3 =c ||"G" B8 :|2 z2"A" (3ED_D"D7" C4- || C4 A4 |"G" G8- | G8 |] %28
+w: soft as the kiss of|snow|til you are mine|* a-|gain.-||
+w: ||||||
+

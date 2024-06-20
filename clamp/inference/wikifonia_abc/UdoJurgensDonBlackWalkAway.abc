@@ -1,0 +1,37 @@
+X:1
+T:Walk Away
+T:Walk Away
+T:Warum Nur Warum
+T:Udo Jurgens
+T:Don Black
+C:Udo Jurgens
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c3 B/c/ |"Am" B- B/c/4B/4 A B |"Dm7" c3 B/A/ |"G7" G3 z ||"C" C3/2 C/ C D |"Am" E4 | %6
+w: ||||Walk a- way please|go|
+"F" z F F E |"G7" D A G F |"C" G2- G/F/E/F/ |"Em" G3 G |"F" A2- A/A/G/A/ |"G7" B/4A/4G/- G3 | %12
+w: be- fore you|throw your life a-|way * A life that|I could|share- for just a day||
+"C" z G c G |"C+" E4 |"Am" z A A E |"Dm7""G7" D4 |"C" z C (3C C D |"Am" E3 F/E/ |"Dm7" D3 A | %19
+w: We should have|met|some years a-|go|For your sake I|say Walk a-|way Just|
+"G7" G4 |"C" C3/2 C/ C D |"Am" E4 |"F" z F F E |"G7" D A G F |"C" G3/2 E/ (3E E F |"Em" G3 G | %26
+w: go|Walk a- way and|live|A life that's|full, with no re-|gret, Don't look back at|me Just|
+"F" A3 G/A/ |"G7" B/4A/4G/- G3 |"C" z G c G |"C+" ^G4 |"Fmaj7" z A (3A c e |"F6" d3 c/d/ | %32
+w: try to for|get * * *|Why build a|dream|that can- not come|true So be|
+"C" e3 c/d/ |"Am" e/d/ c2 c/e/ |"Dm7""G7" d3 c/B/ |"C" c3 z/ c/ |"Ab" c c/c/ c2 | z _e (3e d c | %38
+w: strong, reach the|stars * now, Walk a-|way walk *|on. If|I heard your voice|I'd beg you to|
+"Eb" _B4- | B3 _E |"Ab" c c/c/ c2 | z _e (3e d c |"G7" d4 | d3/2 B/ G3/2 z/ |"C" z C C D |"Am" E4 | %46
+w: stay|* So|don't say a word|just run right a-|way.||Good- bye my|love|
+"F" z F F E |"G7" D A G F |"C" G3/2 E/ (3E E F |"Em" G3 G |"F" A3 G/A/ |"G7" B/4A/4G/- G3 | %52
+w: My tears will|fall now that you're|gone, I can't help but|cry But|I must go|on * * *|
+"C" z G c G |"C+" ^G4 |"Fmaj7" (3z A A (3A c e |"F6" d3 c/d/ |"C" e/c/- c2 d |"Am" e/c/ c2 c/e/ | %58
+w: I'm sad that|I,|af- ter search- ing so|long, Knew I|loved- * you but|told * you walk a-|
+"Dm7" d4 | c2"G7" B2 |"C" c3 B/c/ |"Am" B2 A2- |"Dm7" A2"G7" B,2 |"C" C4 |] %64
+w: way,|Walk *|on * *||* Walk|on.|
+

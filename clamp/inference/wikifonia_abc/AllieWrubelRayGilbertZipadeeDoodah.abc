@@ -1,0 +1,26 @@
+X:1
+T:Zip-a-dee-doo-dah
+T:Zip-a-dee-doo-dah
+C:Allie Wrubel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bb" D z/ D/"F7/C" E"Bb/D" F- | F"Bb""Cm""Bb" B3 |"Eb" G z/ G/ E"Bb/D" F- | F4 |"Eb" B2 B2 | %5
+w: Zip- a- dee- doo-|* dah,|zip- a- dee- ay!|_|My oh|
+"Bb" (G F) D B, |"C9" D B, D"F7" C- | C4 |"Bb" D3/2 D/"F7/C" E"Bb/D" F- | F"Bb" B3 | %10
+w: my _ what a|won- der- ful day!|_|Plen- ty of sun-|* shine|
+"Eb" G3/2 G/ E"Bb" F- | F4 | G z/ A/ B"Bb/F" d- | d"Gm" B3 |"Eb6" c z/ c/"F9" G"Bb" B- | B z B G | %16
+w: head- in' my way.|_|Zip- a- dee- doo-|* dah,|zip- a- dee- ay!|_ Mis- ter|
+"F7" A2 G2 | E2 C2 |"Bbdim7" G2"Bb" F2- | F z A"Gm7" B |"C7" c3 d | B c3 |"F" z A/B/ A G | %23
+w: blue- bird|on my|shoul- der|_ it's the|truth, it's|"act- ch'll"|ev- 'ry- thing is|
+ F =E _E C |"Bb" D z/ D/"F7/C" E"Bb/D" F- | F"Bb""Cm""Bb" B3 |"Eb" G z/ G/ E"Bb" F- | F4 | %28
+w: "sat- is fact- ch'll."|Zip- a- dee- doo-|* dah,|zip- a- dee- ay!|_|
+"Eb" G3/2 A/ B"Bb" d- | d"Gm" B3 |"C7" c3/2 G/"F7" A"Bb" B- |1"Bb/D" B2"Dbdim" z"F7/C" z :|2 %32
+w: Won- der- ful feel-|* in',|won- der- ful day!|_|
+"Bb" B3 z |] %33
+w: |
+

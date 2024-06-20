@@ -1,0 +1,28 @@
+X:1
+T:I Married An Angel
+T:I Married An Angel
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" A2"C7" B2 |"F""Dm" c4 |"Gm7" z d"C7" d/>c/ B |"F" c"Dm" c3 |"Gm7" z B"C7" B/>A/ G | %5
+w: Have you|heard|I mar- ried an|an- gel,|I'm sure that the|
+"F" A A"D7" d2 |"Gm7" D E F"C7" G |"F" A4 |"F" A2"C7" B2 |"F""Dm" c4 |"Gm7" z d"C7" d/>c/ B | %11
+w: change will be|aw- f'lly good for|me.|Have you|heard,|An an- gel I|
+"F" c"Dm" c3 |"Gm7" z B"C7" B/>A/ G |"F" A A"D7" d2 |"Gm7" D E F"C7" G |"F" F4 | %16
+w: mar- ried,|To heav- en she's|car- ried this|fel- low with a|kiss.|
+"Dm7" z A/>=B/ c"G7" d |"C" d G3 |"Dm7" z A/>=B/ c"G7" d |"C" G4 |"Cm7" z G/>A/ B"F7" c | %21
+w: She is sweet and|gen- tle,|So it is- n't|strange,|When I'm sen- ti-|
+"Bb" c F2 G |"F" A A"G9" d d |"C7" E2"C7b9" B2 |"F" A2"C7" B2 |"F""Dm" c4 |"Gm7" z d"C7" d/>c/ B | %27
+w: men- tal, She|loves me like an|an- gel.|Now you've|heard,|I mar- ried an|
+"F" c"Dm" c3 |"Gm7" z B"C7" B/>A/ G |"F" A A"D7" d2 |"Gm7" D E F"C7" G |1"F" F2"C7" z2 :|2 %32
+w: an- gel,|This beau- ti- ful|change 'll be|aw- f'lly good for|me.|
+"F" F2- F z |] %33
+w: me. _|
+

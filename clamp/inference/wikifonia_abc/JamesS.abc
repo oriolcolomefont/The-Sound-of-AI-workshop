@@ -1,0 +1,24 @@
+X:1
+T:Waltz New
+T:Waltz New
+T:Jim Hall
+T:1978 Janhall Music
+C:James S. Hall
+Z:All Rights Reserved
+L:1/8
+Q:1/4=9840
+M:3/4
+K:Bb
+V:1 treble nm="Waltz New"
+%%MIDI program 33
+V:1
+"Bb6""_Adagio""^A" AB cA FD |"D+7" CB, D2 z B, |"Ebmaj7" A,G, CD E2 |"G+7" z2 z E2 D | %4
+"Cm7" z C =B,C EG |"G+7" (_AG) (GF) (FE) |"Cm7" (ED) CD EF |"F7" DB, F,2 DE |"Dm7" F6 | %9
+"C#dim7" ^C=E A2 z G |"Cm7" FE BF CB, |"F7" =B,^F ^c2 z2 |"Dm7" dF Bd cB | %13
+"Dbm7" _A_d E_F"Gb7" _GA |"Cbmaj7" B_C _GB =A_A |"Cm7" =G/=A/B =Bc"F7" de ||"Bb6""^B" =ef fd BF | %17
+"D+7" F^F =F2 z F |"Ebmaj7" ^FG G2 z G |"G+7" G_A =A=B (_Bc) |"Cm7" cd eG e2 |"G+7" z F e2 z F | %22
+"C7" Fd =EG Bd |"F7" ^f6 |"Fm9" g2 ec (_AG) |"Bb13" GF B2 z B, |"Ebmaj7" CD E=E F^F | %27
+"A7" G^G A2 z =G |"Dm7" =EF d2"G7" z F |"Cm7" FE c2"F7" z A, |"Bbmaj7" A,B, CB, DF!dacoda! | %31
+"Cm7" B6!D.C.! :|O"Bb" !fermata!B6 |"Eb" G6 |"Bb/D" F6 |"Cm7" E6 |"Bbsus4" F6 |"D7" ^F6 |"Eb6" G6 | %39
+"Em7#5" d2 c2 B2- |"Fsus4" B6 |"F" c2 B2 A2 |"Bb" !fermata!B6 |] %43
+

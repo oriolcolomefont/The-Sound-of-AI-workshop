@@ -1,0 +1,46 @@
+X:1
+T:Io Che Non Vivo (Senza Te)
+T:Io Che Non Vivo (Senza Te)
+C:Pino Donaggio
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 FG A3 c |"Bbm" d2- (3:2:2d2 c"Bbm7" B4- |"Eb7" B2 EF G2 B2 |"Ab" c3 B A4- |"Db" A2 DE F2 A2 | %5
+w: Sia- mo qui noi|so _ li _|_ co- me o- gni|se- * ra,-|* ma- tu sei piú|
+"Bbm" B3 A G3 A |"Gm7b5" B3 A G3"G7b9" A |"C7" G8 |"Fm" z2 FG A2 c2 | %9
+w: tri- * ste ed|io lo so per-|chè.|For- se tu vuoi|
+"Bbm" d2- (3:2:2d2 c"Bbm7" B4- |"Eb7" B2 EF G2 B2 |"Ab" c3 B A4- |"Db" A2 DE F2 A2 | %13
+w: dir- * mi _|_ che non sei fe-|li- * ce,|_ che io sto cam-|
+"Bbm" B3 A G3 A |"Gm7b5" B3 A G3 A |"C7" c6 c2 ||[K:F]"F" (3:2:2F2 G- (3GAF"Dm" (3:2:2B2 A- (3AGF | %17
+w: bian- * do e|tu me vuoi la-|sciar, ma|I- o _ che non vi- vo _ piú di~u-|
+"Gm7" (3:2:2G2 A- (3AGA"C7" C4 |"F" (3:2:2A2 B- (3BcA"Dm" (3:2:2d2 c- (3cBA | %19
+w: n'o- ra _ sen- za te,|co- me _ pos- so sta- re _ u- na|
+"Gm7" (3:2:2B2 c- (3cBc"C7" B2- (3:2:2B2 A | %20
+w: vi- ta _ sen- za te? _ Sei|
+"F" (3:2:2c2 A- (3:2:2A2 A"Am/E" (3:2:2c2 A- (3:2:2A2 A |"Dm" d2- (3dAA A2- (3AAG | %22
+w: mi- a, _ sei mi- a, _ mai|nien- * te, lo sai, _ se- aa-|
+"Gm7" F2 G2 (3:2:2A2 B- (3Bcd |"C" c8- | c"^N.C." z FG _A3 c || %25
+w: rar- ci~un gior- * * no po-|trà.|_ Vie- ni qui, a-|
+[K:Ab]"Bbm" (d2- (3:2:2d2 c)"Bbm7" B4 |"Eb7" B2 EF G2 B2 |"Ab" (c3 B) A4- |[K:Ab]"Db" A2 DE F2 A2 | %29
+w: scol- * ta- mi,|_ io to vo- glio|be- * ne...|_ Te ne pre- go|
+"Bbm" B3 A G3 A |"C7" B3 A"C7b9" G3"C+7" A |"Fm" F8 || %32
+w: fer- ma- ti an-|co- ra insei~- me~a|me.|
+[K:F]"F" (3:2:2F2 G- (3GAF"Dm" (3:2:2B2 A- (3AGF |"Gm7" (3:2:2G2 A- (3AGA"C7" C4 | %34
+w: I- o _ che non vi- vo _ più di~u-|n'o- ra _ sen- za te,|
+"F" (3:2:2A2 B- (3BcA"Dm" (3:2:2d2 c- (3cBA |"Gm7" (3:2:2B2 c- (3cBc"C9" B2- (3:2:2B2 A | %36
+w: co- me * pos- so sta- re _ un- a|vi- ta- * sen- za te? _ Sei|
+"F" (3:2:2c2 c- c4- (3:2:2c2 A |"D" (3:2:2d2 d- d6 || %38
+w: mi- a, _ _ sei|mi- a _|
+[K:G]"G" (3:2:2G2 A- (3ABG"Em" (3:2:2c2 B- (3BAG |"Am" (3:2:2A2 B- (3BAB"D7" D4 | %40
+w: I- o _ che non vi- vo _ più di~u-|n'o ra _ sen- za te,|
+"G" (3:2:2B2 c- (3cdB"Em" (3:2:2e2 d- (3dcB |"Am7" (3:2:2c2 d- (3dcd"D7" c2- (3:2:2c2 B | %42
+w: co- me _ pos- so sta- re _ u- na|vi- ta _ sen- za te? _ Sei|
+"G" (3:2:2d d2-"Dm6" d4- (3:2:2d2 B |"G""G" (3:2:2d d2-"Dm6" d4- (3:2:2d2 B |"G" (3:2:2d2 d- d6- | %45
+w: mi- a, _ _ sei|mi- a, _ _ sei|mi- a! _|
+ d4- d z z2 |] %46
+w: _ _|
+

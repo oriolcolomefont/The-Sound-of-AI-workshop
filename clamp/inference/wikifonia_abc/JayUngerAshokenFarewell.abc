@@ -1,0 +1,21 @@
+X:1
+T:Ashoken Farewell
+C:Jay Unger
+Z:All Rights Reserved
+L:1/8
+Q:1/4=108
+M:3/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"^Ballad" Ac |"D" [FAd]3 c BA |"F#+" [DF]4 EF |"G" [B,DG]3 F ED |"Em" [G,B,]2 [G,B,D]3 B, | %5
+"D" A,2 [A,D]2 [A,DF]2 |"Bm7" [DFA]2 [DFAd]2 [Bdf]2 |"Gmaj7" [Bdf]3 [Bdg] [Bdf]B |"A7" [Ace]4 Ac | %9
+"D" [DFd]3 c BA |"Am6" [=CEF]4 EF |"G" [B,DG]3 F ED |"Em" [G,B,]2 [G,B,D]3 B, | %13
+"D" A,2 [A,D]2 [A,DF]2 |"D/F#" [DFA]2 [DFAd]2 [Adf]2 |"A7" A2 [Ac]2 [Ace]2 |"D" [FAd]4 [DF]G || %17
+"D" [DFA]3 F D2 |"D/F#" !arpeggio![DFAd]4- [DFAd]A |"G" [DGB]3 c2 d |"D" [DFA]2 [DF]3 E | %21
+ [DF]3 E D2 |"Bm" B,4 G,2 |"A7" A,4 A2 |"A7/G" [A,CEA]4 FE |"D" D2 F2 [DA]2 | %26
+"C" !arpeggio!!fermata![EG=ceg]4 [dfa]2 |"G" [DB]3 c d2 |"D" [DFA]2 [DF]3 D | A,D FA df | %30
+"Bm7" [dfa]2 [dfad']3 f |"A7" [Gce]3 A c2 |"D" [DFAd]6 |] %33
+

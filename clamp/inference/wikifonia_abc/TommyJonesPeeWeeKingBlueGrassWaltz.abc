@@ -1,0 +1,22 @@
+X:1
+T:Blue Grass Waltz
+T:blue grass waltz
+T:pee wee king
+T:tommy jones
+C:Tommy Jones
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" c/c/ z/ z/ z | (c G) E |"C7" C E G |"F" F A2- | A2 (c/c/) |"G7" B A D | B2 A |"C" G3- | G2 c | %9
+w: we were|danc ing that|night in the|moon light.|* when the|or ches tra|played our|tune|* we|
+ (c G) E |"C7" C E G |"F" F A2- | A2 c/c/ |"G7" B3/2 A/ G | (D/ F3/2) (E/D/) |"C" C3- | C2 z | %17
+w: walt zed that|night in ken|tuck y,|* 'neath the|beau ti ful|blue * gra ss|moon||
+"^CHORUS""C" c/c/ z z | c G E |"C7" C E G |"F" F A2- | A2 c |"G7" B3/2 A/ z/ G/ | z/ B2 A/ | G3- | %25
+w: they are|play ing the|bl ue grass|waltz,, love|* it|was to have|been our|lsong|
+ G2 c | (c G) E |"C7" (C E) G |"F" F A2- | A2 c |"G7" B3/2 A/ G | D F E/ z/ | C2- C |] %33
+w: * but|now * that|we * have|part ed,|* it|seems that all|li fe has||
+

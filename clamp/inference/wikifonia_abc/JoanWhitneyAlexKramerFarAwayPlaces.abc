@@ -1,0 +1,32 @@
+X:1
+T:Far Away Places
+T:Far Away Places
+C:Joan Whitney
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" A3/2 B/ A | F C F | A"Bb" B"F" A | F3 |"Fmaj7" A3/2 B/ A |"Dm7" F C A |"Gm7" G3- |"C7" G2 C | %8
+w: Far a- way|plac- es with|strange sound- in'|names;|Far a- way|o- ver the|sea.|_ Those|
+"F" A3/2 B/ A |"F7" F C F/A/ |"Bbmaj9" c B A |"Bbm6" G2 B |"F" A C2 |"C7" G C2 |"F""Gm7""Bb" F3- | %15
+w: far a- way|plac- es with the|strange sound- in'|names are|call- in',|call- in'|me.|
+"F/A""Abdim7" F2"Gm7" z |"F" A3/2 B/ A | F C F | A"Bb" B"F" A | F3 |"Fmaj7" A3/2 B/ A | %21
+w: _|Go- in' to|Chin- a or|may- be Si-|am,|I wan- na|
+"Dm7" F C A |"Gm7" G3- |"C7" G2 C |"F" A3/2 B/ A |"F7" F C F/A/ |"Bbmaj9" c B A |"Bbm6" G2 A/B/ | %28
+w: see for my-|self;|_ those|far a- way|plac- es I've been|read- ing a-|bout in a|
+"F" A2 C/C/ |"C7" G2 C/C/ |"F""Gm7""G#dim" F3- |"F/A""Bb" F2"F7/C" F |"Bb" B B B | B"C" c3/2 B/ | %34
+w: book that I|took from the|shelf.|_ I|start get- tin'|rest- less when-|
+"Bbm/F" B"F" A"G#dim" ^G |"F" A2"Db7" _A |"C7" G C2 |"Gm7" G2"C7" C |"F" A3- | A2"F7" F | %40
+w: ev- er I|hear the|whis- tle|of a|train.|_ I|
+"Bb" B B B | B"C" c3/2 B/ |"Bbm" B"F" A"G#dim" ^G |"F" A2"Ab9" B |"G7" =B3/2 A/ G | %45
+w: pray for the|day I can|get un- der-|way and|look for those|
+"G9" d A"G7" =B |"Gm11" c3- |"C7" c2 C |"F" A3/2 B/ A | F C F | A"Bb" B"F" A | F2 C/F/ | %52
+w: cas- tles in|Spain.|_ They|call me a|dream- er. Well|may- be I|am. But I|
+"Fmaj7" A3/2 B/ A |"Dm7" F C A |"Gm7" G3- |"C7" G2 C |"F" A3/2 B/ A |"F7" F C F/A/ | %58
+w: know that I'm|burn- in' to|see,|_ those|far a- way|plac- es with the|
+"Bbmaj9" c B A |"Bbm6" G3 |"F" A C2 |"C7" G C2 |"F" F3- | F2 z |] %64
+w: strange sound- in'|names|call- in',|call- in'|me.|_|
+

@@ -1,0 +1,19 @@
+X:1
+T:Mueva Los Huesos
+T:Mueva Los Huesos
+T:Gordon Goodwin
+C:Gordon Goodwin
+Z:All Rights Reserved
+L:1/8
+Q:1/4=258
+M:4/4
+K:C
+V:1 treble transpose=-12 nm="Guitar" snm="Gtr."
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ a2 bc' z e2 _e | z b3 B2 c^c | d2 ef z g2 e | z c2 B A2 z2 | z ef^f g2 _BA | z c2 f- fBcd | %6
+ ef/e/ de f^fg^g | azza z2 A z | z ^gab c'ze_e | z ^fzb- bBc^c | d^cde fgze | z czB A z z2 | %12
+ z ef^f gz_BA | z czf- fc^cd | ^d^fba ^gbe'a | z a2 a a f2 d | B^GzE A z z2 |] %17
+

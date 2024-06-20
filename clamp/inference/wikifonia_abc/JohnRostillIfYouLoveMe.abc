@@ -1,0 +1,38 @@
+X:1
+T:If You Love Me
+T:If you love me
+T:(let me know)
+T:John Rostill
+C:John Rostill
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 z C |"F" C3 C C2 CD- | D C3 z FFA- | A A3 z4 | z4 z2 z C | A3 A A c2 B | A z A A2 AAG | %7
+w: You|came when I was ha|* py in your sun|* shine|I|grew to love you more|* each pass- ing day *|
+"Bb" F6 z2 | z4 z2 z C | D2 DD- D D2 F- | F F2 B- B3 c |"F" A2 F6 | z4 x2 GA |"Gm" B3 B B3 A | %14
+w: |Be-|fore too long * I built|* my world * a-|round you|and I|prayed you'd love e-|
+"C7" AG A2- A3 E |"F" F8 | z4 A2"F7" G2 |"Bb" F2 F2 F G2 F- | F2 z2 z EDC- |"F" C z A,C D2 C2- | %20
+w: nough of me * to|stay|If you|love me let me know|* if you dont|* then let me *|
+ C2 z2 z EFG- |"C7" G3 E G2 AG- | G E2 z z FGA- |"F" A3 G A2 BA- |"F7" A F2 A- A2 G2 | %25
+w: * I can't take|* an- oth er min|* ute with a day|* with- out you in|* it If * you|
+"Bb" F2 F2 F G2 F- | F2 z2 E D2 C- |"F" C2 z A, C D2 C- | C2 z2 z EFG- |"C7" G3 G G2 z A | %30
+w: love me let it be|* if you don't|* then set me free|* Take the chains|* a- way that|
+ B2 B2 A E2 F- |"Bb" F8- |"F" F4 z2 z A, | C3 C C C2 D- | D2 z C F2 FA- | A A2 G F3 z | %36
+w: keep me lov- in you||* the|arms that o- pen wide|* to hold me clos|* er * *|
+"F" z4 z2 z C | A3 A A c2 B- | B A3 G2 FE- |"C7" E4 z4 | z4 z2 z C |"C7" D3 D D2 FF- | %42
+w: the|hands that run their fin|* gers through my hair||the|smile that says hel- lo|
+"Bb" F2 z F B3 c |"F" AG F4 z2 | z4 z GAB- |"Gm" B3 B B2 AA | G2 z G G F2 G |"C7" F E3 z4 | %48
+w: * its good to|see * you|any time *|* I turn a- round|* to find * you|there *|
+ z4 z2 z A, |"F" C3 C C C2 D- | D2 CF- F2 F2 | A2 AA GFFD | C2 z2 z4 | A A2 A- A c2 B | %54
+w: Its|this and so much more|* that makes * me|love you * * * * *||what else can * I do|
+"F7" A2 z A A2 AG |"Bb" GF F4 z2 | z4 z2 z C | D2 DD- D D2 F- | F F2 B- B2 B2 |"F" A2 F6 | %60
+w: * to make you see||you|know you have * what ev|* ers mine * to|give you|
+ z4 z2 GA |"Gm" B2 BB A2 AA |"C7" G2 z G A2 EF- |"F" F8 | z4 A2"F7" G2 |]"Bb" z8 | z8 |"F" z8 | %68
+w: but a|love af- fair * for one|* can nev- er be||if you||||
+ A3 A- A2 BA- |"C7" A2 GG G2 z A |"C7" B2 c2 A A2 A/G/ |"Bb" F8- |"F" F6 z2 |] %73
+w: ah, take * the chains|* a- way * that|keep me lov- ing you *|||
+

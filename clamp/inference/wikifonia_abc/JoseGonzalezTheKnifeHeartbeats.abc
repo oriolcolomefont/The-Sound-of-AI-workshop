@@ -1,0 +1,31 @@
+X:1
+T:Heartbeats
+C:Jose Gonzalez, The Knife
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Intro""Eb" z8 | z8 |"Cm" z8 |"Ab" z8 |"Eb" z8 | z8 |"Cm" z8 |"Ab" z8 ||"^Verse""Eb"zG GG BF F2 | %9
+w: ||||||||One night to be con- fused|
+zG GG BF F2 |"Cm"zG GG FF E2 |"Ab"zG GG FF E2 |"Eb"zG GG BF F2 |zG GG BF F2 |"Cm"zG G2 FF E2 | %15
+w: One night to speed up truth|We had a pro- mise made|Four hands and then a- way|Both un- der in- flu- ence|We had a di- vine scent|To know what to say|
+"Ab"zG GG FF E2 |[M:2/4] z4 ||[M:4/4]"^Chorus""Eb"zG GE FFFG- | G2zE B2 F2 |"Cm"zG GG F2 GE- | %20
+w: Mind is a ra- zor blade||To call for hands of a- bove|_ To lean on|Would- n't be good e- nough|
+"Ab" E2zE B2 E2 |"Eb" z8 | z8 ||"^Verse""Eb"zG GG BF F2 |zG GG BF F2 |"Cm"zG GG FF E2 | %26
+w: _ For me, no|||One night of ma- gic rush|The start a sim- ple touch|One night to push and scream|
+"Ab"z2zG FF(FG) |"Eb"zG GG BF F2 |zG GG BF F2 |"Cm"zG GG FF E2 |"Ab" z4 FF(FG) |"Eb" G2 z2 z4 || %32
+w: And then re- lief _|Ten days of per- fect tunes|The co- lors red and blue|We had a pro- mise made|We were in _|love|
+"^Chorus""Eb"zG GE FFFG- | G2zE B2 F2 |"Cm"zG GG F2 GE- |"Ab" E2zE B2 E2 |"Eb"zG BE FEEE- | %37
+w: To call for hands of a- bove|_ To lean on|Would- n't be good e- nough|_ For me, no|To call for hands of a- bove|
+ E2zE B2 F2 |"Cm"zG GG F2 GE- |"Ab" E2z2z2zB, ||"Bb" B2 z2 z4 |zG GG BG B2 |"Ab" CC- C2 z4 | %43
+w: _ To lean on|Would- n't be good e- nough|_ And|you,|you knew the hands of the|de- vil _|
+z4z2zB, |"Bb" B2 z2 z4 |zG GG B2 G2 |"Ab" C2 C2 BGBG | E2 E2 A2 G2 |"Cm" (A<G- G2) z4 | z8 || %50
+w: And|you,|kept us a- wake with|wolf teeth Sha- ring diff' rent|heart- beats in one|night _ _||
+"^Chorus""Eb"zG GE FFFG- | G2zE B2 F2 |"Cm"zG GG F2 GE- |"Ab" E2zE B2 F2 |"Eb"zG BE FEEE- | %55
+w: To call for hands of a- bove|_ To lean on|Would- n't be good e- nough|_ For me, no|To call for hands of a- bove|
+ E2zE B2 F2 |"Cm"zG GG F2 GE- |"Ab" E2 z2 z4 |"Eb" z8 |] %59
+w: _ To lean on|Would- n't be good e- nough|_||
+

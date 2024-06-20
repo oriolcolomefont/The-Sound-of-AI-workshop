@@ -1,0 +1,19 @@
+X:1
+T:Még az utcán lefelé se mehetek
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Gmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" g3 f/=e/"Dm" d d3 |"A" f2 f2"Cm" g3 f |"Dm" =e d3"Dm" d2 z2 |"G" g3 f/=e/"G7" d d3 | %4
+w: Még az _ ut- cán|le- fe- lé se|me- he- tek,|Mind azt _ mond- ják,|
+"C" =e2 e2"G7" e2 d2 |"C" c2 c2"F7" c2 z2 |"B" B B3"B" d2 d2 |"F" g3 e"F7" d c3 | %8
+w: hogy sze- re- tõt|ke- re- sek,|Nem kell né- kem,|van már né- kem|
+"B" B2 c2"B" d2 z2 |"D7" c3 B"Gm" A G3 |"D7" B2 B2"D7" c3 B |"Gm" A G3"Gm" G2 z2 |] %12
+w: egy bar- na,|Hom- lo- ká- ra|gön- dö- röd- kid|a ha- ja.|
+

@@ -1,0 +1,21 @@
+X:1
+T:Hungry Heart
+T:Hungry Heart
+T:Bruce Springsteen
+T:Bruce Springsteen
+C:Bruce Springsteen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 AA AGGG | GFFA z2 DF | GG z G G2- GA | GFFD z4 | z2 AA AGGG | GFFA z4 | z2 GG GGGA | GFFD z4 | %8
+ z2 AA AGGG | GFFA z4 | z2 GG GGGA | GFFD z4 | z2 AA AGGG | GFFA z4 | z2 GG GGGA | A2 G2 FGAA | %16
+ z8 | z8 | z8 | z8 | z2 AA AGGG | GFFA z2 DF | GG z G- G2 GA | GFFD z4 | z2 AA AGGG | GFFA z4 | %26
+ z2 GG GGGA | GFFD z4 | z2 AA AGGG | GFFA z4 | z2 GG GGGA | GFFD z4 | z2 AA AGGG | GFFA z4 | %34
+ z2 GG GGGA | A2 G2 c2 cc :| %36
+

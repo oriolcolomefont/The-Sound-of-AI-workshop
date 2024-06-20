@@ -1,0 +1,42 @@
+X:1
+T:J'attendrai
+T:jatendrai
+T:lead sheet
+T:Dino Olivieri
+T:Louis Poterat
+C:Dino Olivieri
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Accordion" snm="Acc."
+%%MIDI program 21
+V:1
+ z8 | z2 z2 GGFA | GGEC DDCD |: G6 F2 | E z/ G/ c2 z3/2 E/ c2 | z3/2 F/ A2 z3/2 ^D/ G2 || %6
+w: ||||||
+w: ||||||
+ z3/2"C" G<GG/ A A3 | z3/2 A<A_A/ G4 | z3/2 G<GG/ B B3 | z3/2 A<A_A/ G4 | %10
+w: Les fleurs pal- is- sent|Le feu s'e- teint|L'om- bre se glis- se|Dans le jar- din|
+w: Re- viens bien vi- te|Les jours sont froids|Et sans li- mi- te|Les nuits sans toi|
+"C7" z3/2 _B<BB/"A7" A A3 | z3/2"D7" e<ee/ e4 |"Dm" z3/2 (d<dd/ d2 cd |"G7" d8) | %14
+w: L'hor- lo- ge tis- se|Des sons tres las|je crois en- ten- dre ton|pas|
+w: Quand on se quit- te|On ou- blie- tout|Mais re- ve nir est si|doux|
+"C" z3/2 G<GG/ A A3 | z3/2 A<A_A/ G4 | z3/2 G<GG/"C7" _B B3 | z3/2 A<Ae/"Dm" d4 | %18
+w: le vent m'ap- por- te|Des bruits loin- tains|Guet- tant ma por- te|J'é- coute en vain|
+w: Si ma tris- tes- se|Peut t'é- mou- voir,|A- vec ten dres- se|Re- viens un soir|
+ (3(d2 c2) d2"D7" c4- | c2 (A2 B2) c2 |"G7" d8- | d2 z2 (G2 B2) ||"C" c8- | c4 d4 | (e4 d2) c2 | %25
+w: Hé- làs plus rien|* plus rien ne|vient|* J'at- ten-|drai|* Le|jour et la|
+w: Et dans tes bras|* Tout re- nai-|tra|||||
+ B4 A2 G2 | A2 A2 A4- | A4"G7" (G2 B2) | A8- | A4 (G2 A2) |"Dm" (d8- | d4) (c2 d2) |"G7" c4 B2 c2 | %33
+w: nuit, J'at- ten-|drai tou- jours|* Ton re-|tour|* J'at- ten-|drai,|* Car- l'oi-|zea qui- s'en-|
+w: ||||||||
+ B4 A2 B2 | A2 A2 A4- | A4 (G2 B2) |"C" A8- | A4 (c2 d2) |"C7" (e2 e2) e4- | e4 (d2 c2) | %40
+w: fuit Vient chetr-|cher l'ou- bli|* Dans son|nid|* le temps|passe et court|* En bat-|
+w: |||||||
+"F" e4 d2 c2 |"Fm" e4 d2 c2 |"C" (G2 G2) G4- | G4 (G2 B2) |"G7" A4 G2 B2 | A4 G2 B2 |1"C" c8- || %47
+w: tant Tris- te-|ment dans mon|coeur plus lourd|* Et pour-|tant J'at- ten-|drai ton re-|tour|
+w: |||||||
+ c2 z2 z4 :|2"C" (c8- || c2) z2 z4 |] %50
+w: |tour|_|
+w: |||
+

@@ -1,0 +1,19 @@
+X:1
+T:Ó, Nagyasszony, nemzetünk reménye
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+ z6 C>C |"G" G2 F2 EDGG |"Cm" C2 C4 GA |"G" B2 B2"Fm" BFGA |"G" G6 z2 | z6 G=B | %6
+w: Ó, Nagy-|asz- szony, nem- ze- tünk, re-|mé- nye, rád sze-|gez- zük könny- telt sze- me-|ink!|Vesz- ni|
+"Cm" c2 G2"Fm" FAGF |"G" E2 D4 FA |"Cm" G2 G2"G" D>FE>D |"Cm" C6 z2 | z6 G>G | e3 d"Fm" cdcA | %12
+w: in- dult Ist- ván ö- rök-|sé- ge, szép ker-|ted- ben ős e- ré- nye-|ink.|Szállj kö-|zénk, és sírj te is ve-|
+ F6 F^F |"Cm" G2 G2"G" DFE>D |"Cm" C6 z2 | z6 G>G | e3 d"Fm" cdcA | F6 F^F |"Cm" G2 G2"G" GG=A=B | %19
+w: lünk, ví- gasz-|tald, és mentsd meg nem- ze-|tünk!|Szállj kö-|zénk, és sírj te is ve-|lünk, ví- gasz-|tald, és mentsd meg nem- ze-|
+"Cm" c6 z2 |] %20
+w: tünk!|
+

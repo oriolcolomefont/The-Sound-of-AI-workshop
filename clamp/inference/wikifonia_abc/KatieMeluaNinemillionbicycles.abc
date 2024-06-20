@@ -1,0 +1,38 @@
+X:1
+T:Nine million bicycles
+C:Katie Melua
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"C""Dm/C" z8 | z8 |"C""Dm/C" z8 | z8 |"C" z8 | z6 eg ||"Am" a2 ag/a/- a/a/g ed |"Em" e4 z2 A>c | %8
+w: |||||There are|nine mill- ion bi- _ cy- cles in Bei|jing That's a|
+"Dm" d2 z2 z2 A>c |"F" de dc/A/- A2 Ac |"Dm" d>e dc"G" dc A<G |"C" G2 z2 z4 |"C" z4 z2 eg | %13
+w: fact, It's a|thing we can't de- ny _ like the|fact that I will love you till I|die.|We are|
+"Am" a2 ag ag ed/e/- |"Em" e4 z2 A>c |"Dm" d2 z2 z A Ac |"F" d/ed/- dc A2 z/ A/c/d/- | %17
+w: twelve bill- ion light- years from the edge,|_ that's a|guess, no- one can|e- ver say _ it's true but I know|
+"Dm" d>e dc"G" dcAc |"C" c4 z4 |"C" z4 z2 c2 |"Fm" _a2 gf/(g/-"C" gc)cc |"G7" f2 e/de/-"Am" e2 z2 | %22
+w: _ that I will al- ways be with|you.|I'm|warmed by the fire _ _ of your|love e- v'ry- day _|
+[M:2/4] z2 z c |[M:4/4]"Fm" _e2 (3efe"C" dc (3z Ac |"D" _e2 (3z Ac _e2 (3z dc |"G" d4 z2 eg | %26
+w: So|don't call me a li- ar Just be-|lieve ev'- ry- thing that I|say There are|
+"Am" a2 ag/a/- agac' |"Em" (a/g/e/d/ e/d/e/d/ e) z Ac/d/- |"Dm" d2 z2 z2 A/cd/- | %29
+w: six bill- ion peo- _ ple in the|world. _ _ _ _ _ _ _ _ More or less|_ and it makes|
+"F" d/ed/- d<c A2 z3/2 c/ |"Dm" de/d/- d/cd/-"G" d>c (3(_ed)c |"C" c2 z2 z4 |"C" z8 ||"Am" z8 | %34
+w: * me feel _ quite small But|you're the one _ I love _ the most _ of|all.|||
+"Em" z8 |"Dm" z8 |"F" z8 |"Dm""G" z8 |"C""Dm/C" z8 | z8 |"C""Dm/C" z8 |"Dm/C" z8 |"C" z8 | %43
+w: |||||||||
+"C" z6 z c |"Fm" _a2 g/fg/-"C" gc (3z cc |"G7" f2 e/de/-"Am" e4- |[M:2/4] e2 z c | %47
+w: We're|high on the wire, _ _ with the|world in our sight. _|_ And|
+[M:4/4]"Fm" _e2- (3efe"C" dc (3z Ac |"D" _e2 (3z Ac _ee- (3edc |"G" d4 z2 eg | %50
+w: I'll _ ne- ver tire, _ of the|love that you give me _ ev'- ry|night. There are|
+"Am" a2 ag/a/- a/a/g ed |"Em" e4 z2 A>c |"Dm" d2 z2 z2 A>c |"F" de dc/A/- A2 Ac | %54
+w: nine mill- ion bi- _ cy- cles in Bei|jing That's a|fact, It's a|thing we can't de- ny _ like the|
+"Dm" f>e fe"G" dd A<c |"C" c2 z2 z4 | z4"Am" z A A<c |"Dm" d2 dc/_e/-"G" e/e/d Ac |"C" c2 z2 z4 | %59
+w: fact that I will love you till I|die.|And there are|nine mill- ion bi- _ cyc- les in Bei-|jing.|
+ z4"Am" z2 A>c |"Dm" dd/d/- d/ce/-"G" e<g- g2 |"C" (3cAc- c2"Dm/C" z4 |"Dm/C" z8"C" | z8 |] %64
+w: And you|know that I _ will love _ you _|till I die _|||
+

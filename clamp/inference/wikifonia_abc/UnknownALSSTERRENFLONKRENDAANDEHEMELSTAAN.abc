@@ -1,0 +1,24 @@
+X:1
+T:ALS STERREN FLONK'REND AAN DE HEMEL STAAN
+T: Laukens Music Productions  
+T:Foxtrot
+T:ALS STERREN FLONK'REND AAN DE HEMEL STAAN
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:2/2
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ A |"Bb" B"F" A"C7" G"F" F |"Gm7" G2"C7" A2 |"F" F3 =B, ||"F" C3 A | B A G F |"Gm7" F3 D | %7
+"C7" E3 D | C3 B | B A G ^G |"F" A4- | A3 A | (3c c c c3/2 F/ |"Abdim" (3E E E E _E |"Gm7" D2 D2- | %15
+"D7" D3 D |"G7" (3A A A A G | (3F F F F E |"C7" G3"Gm7" D |"C7" E E D _D |"F" C3 A | B A G F | %22
+"Gm7" F3 D |"C7" E3 D | C3 B | B A G ^G |"A7" A4- | A3 A |"D7" (3c c c B z/ A/ | (3c c c B z/ A/ | %30
+"G7" (3A A G F E | G F E"Bdim" D |"F" C3 A |"Bb" B"F" A"C7" G"F" F |"Gm7" G2"C7" A2 |"F" F3 x |] %36
+

@@ -1,0 +1,37 @@
+X:1
+T:All Or Nothing At All
+C:Arthur Altman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am"!mp! E4- | E E (3E F C |"Am7" E4- |"Am6" E3 z |"Am" E2"Am6" E2 |"Am7" E2"Am6" (3E G C | %6
+w: AII,|* or noth\- ing at|all;||Half a|love nev\- er ap\-|
+"Bb9" D3/2 D/"Bb6" D2- |"Bb+" D3"Bb7" z |"Gm" D2 D2 |"Em7b5" D2"A7b9" (3E ^C D |"Dm" A3/2 A/ A2- | %11
+w: pealed to me.||If your|heart nev\- er could|yield to me,|
+ A2 B A |"G7" G G2 G |"G+7" G G2 G |"Cmaj7" G4 |"Bm7b5" z2"E7b9" z2 |"Am" E4- | E E (3E F C | %18
+w: * Then I'd|ra\- ther have|no\- thing at|all!||AIl|* or no\- thing at|
+"Am7" E4- |"Am6" E3 z |"Am" E2"Am6" E2 |"Am7" E2"Am6" (3E G C |"Bb9" D3/2 D/"Bb6" D2- | %23
+w: all!||If it's|love, there is no|in\- be\- tween.|
+"Bb+" D3"Bb7" z |"Gm" D3/2 D/ D3/2 D/ |"Em7b5" D3/2 D/"A7b9" (3E ^C D |"Dm" A3/2 A/ A2- | A2 B A | %28
+w: |Why be\- gin, then|cry for some\- thing that|might have been.|* No, I'd|
+"G7" G G2 G |"G+7" G G2 G |"Cmaj7" G4- |"Bbm" G z"Eb7" z _E ||"Ab" c c"Ab+" c c | %33
+w: ra\- ther have|no\- thing at|all.|* But,|please, don't bring your|
+"Ab6" c3/2 c/"Ab+" (3c _d _A |"Ab" c2-"Ab+" c2- |"Ab6" c2-"Ab+" c"Eb7" _E | %36
+w: lips so close to my|cheek. *|* * Don't|
+"Ab" c3/2 c/"Ab+" c3/2 c/ |"Db" _d2"Ab" (3c _B _A |"Eb9" G4- | G2-"Eb+""Eb7" G _E | %40
+w: smile, or I'll be|lost be\- yond re\-|call.|* * The|
+"Bbm7" (3_B B B"Eb7" B3/2 B/ |"Bbm7" (3_B B B"Eb7" (3B c G |"Bbm7" _B2-"Eb7" B2- | %43
+w: kiss in your eyes, the|touch of your hand makes me|weak; *|
+"Gm7b5" B2"C7" c _B |"Fm" _A2 A A |"Db7" _A A2 A |"C7" G4 |"E7" z D C B, ||"Am" E4 | %49
+w: * And my|heart may grow|diz\- zy and|fall.|And if I|fell|
+ (3E F C (3E F C |"Am7" E4- |"Am6" E3 z |"Am" E2"Am6" E2 |"Am7" E2"Am6" (3E G C | %54
+w: un\- der the spell of your|call,||I would|be caught in the|
+"Bb9" D3/2 D/"Bb6" D2- |"Bb+" D2-"Bb7" D z |"Gm" D2 D2 |"Em7b5" D3/2 D/"A7b9" (3E ^C D |"Dm" A4 | %59
+w: un\- der\- tow.||So, you|see, I've got to say:|No!|
+"Bm7b5" B2-"E7" B2 |"Am" c4- |"Dm7b5" c c"G7sus4" (3c c c |"C" c4- | c3 z |] %64
+w: No! *|All|* or no\- thing at|all!||
+

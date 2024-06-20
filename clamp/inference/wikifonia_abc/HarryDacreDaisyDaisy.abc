@@ -1,0 +1,28 @@
+X:1
+T:Daisy, Daisy
+T:Daisy, Daisy
+C:Harry Dacre
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: d3 | B3 | G3 | D3 |"G" E F G | E2 G | D3- | D3 |"D7" A3 | d3 |"G" B3 |"Em" G3 |"A7" E F G | %13
+w: Dai-|sy,|Dai-|sy,|give me your|ans- wer|do,|_|I'm|half|cra-|zy,|all for the|
+w: ||~~~~||||||~~~~~~~~~~|||||
+w: |||||||||||||
+ A2 B |"D" A3- | A2 B |"D7" c B A | d2 B |"G" A G2- | G2 A |"Em" B2 G |"C" E2 G |"G" E D2- | %23
+w: love of|you.|_ It|won't be a|sty- lish|mar- riage,|_ I|can't af-|ford a|car- riage,|
+w: |~~~~~|||||* ~~~~~||||
+w: ||||||||||
+"D7" D2 D |"G" G2 B |"D7" A z z |"G" G2 B |"D7" A z B/c/ |"G" d B G |"D7" A2 D |1"G" G3 || %31
+w: _ But|you'll look|sweet,|on the|seat of a|bi- cy- cle|built for||
+w: |* ~~~~~|||||||
+w: ||||||||
+"D7" z3 :|2"G" G3- || G3 |] %34
+w: |||
+w: |||
+w: |||
+

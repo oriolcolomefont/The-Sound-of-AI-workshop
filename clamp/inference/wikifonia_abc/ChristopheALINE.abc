@@ -1,0 +1,30 @@
+X:1
+T:ALINE
+T:Aline
+C:Christophe
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ z2 E EF^F |"C" G6- | G3- Gcd |"E7" e B2- B3- | B3 Eed |"F" d c2- c3- | c2 A ABc |"G7" c B2- B3 | %8
+w: J'a- vais des- si-|né|_ _ sur le|sa- ble _|_ son doux vi-|sa- ge _|_ qui me sou- ri-|ait _ _|
+ B3 EF^F |"C" G6- | G3 eee |"E7" e d2- d3- | d3 Eed |"F" d c2- c3- | c2 A ABc |"G7" B6- | B3 cde | %17
+w: _ Puis il a|plu|_ sur cet- te|pla- ge _|_ dans cet o-|ra- ge _|_ elle a dis- pa-|ru|_ Et j'ai cri-|
+"C" e3- e2 g |"E7" ^g e2- e2 d |"F" d c2 cdc |"G7" d3 cde |"C" e3- e2 g |"E7" ^g e2- e2 d | %23
+w: é _ cri-|é- é _ "A-|li- ne!" pour qu'elle re-|vienne et j'ai pleu-|ré _ plue-|ré- é _ oh,|
+"F" d c3 dc |"G7" d2 E EF^F |"C" G6- | G2 c cdc |"E7" e B2- B3- | B2 B BcB |"F" d A2- A3- | %30
+w: j'a- vais trop de|piene je me suis as-|sis|_ au- près de son|à- me _|_ mais le bel- le|da- me _|
+ A2 A ABc |"G7" B6- | B3 EF^F |"C" G6- | G3 efe |"E7" e d2- d3- | d2 E Eed |"F" d6- | d3 ABc | %39
+w: _ é- tait dis- pa-|rue|_ Je l'ai cher-|chée|_ sans plus y|croi- re _|_ et sans un es-|poir|_ pour me gui-|
+"G7" B6- | B3 cde |"C" e3- e2 g |"E7" ^g e2- e2 d |"F" d c2 cdc |"G7" d3 cde |"C" e3- e2 g | %46
+w: der|_ Et j'ai cri-|é _ cri-|é- é _ "A-|li- ne!" pour qu'elle re-|vienne et j'ai pleu|ré _ pleu-|
+"E7" ^g e2- e2 d |"F" d c2- cdc |"G7" d3 EF^F |"C" G6- | G2 c cdc |"E7" e B2- B3- | B3 BcB | %53
+w: ré- é _ oh,|j'a- vais _ trop de|peine je n'ai gar-|dé|_ que ce doux vi-|sa- ge _|_ comme une e-|
+"F" d A2- A3- | A2 A/A/ ABc |"G7" B6- | B3 cde |:"C""^repeat&fade\n" e3- e2 g |"E7" ^g e2- e2 d | %59
+w: pa- ve _|_ sur le sa- ble mouil-|lé|_ Et j'ai cr-|é _ cri-|é- é _ "A-|
+"F" d c2 cdc |"G7" d3 cde |"C" e3- e2 g |"E7" ^g e2- e2 d |"F" d c2- cdc |"G7" d3 cde :| %65
+w: li- ne!" pour qu'elle re-|vienne Et j'ai pleu-|ré _ pleu-|ré- é _ oh,|j'a- vais _ trop de|peine Et j'ai cri|
+

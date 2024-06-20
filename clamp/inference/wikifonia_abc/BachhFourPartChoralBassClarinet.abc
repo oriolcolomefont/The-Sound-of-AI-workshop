@@ -1,0 +1,38 @@
+X:1
+T:Four Part Choral Bass Clarinet
+T:Bach Four Part Choralquantforwikifoniachan7
+T:2
+C:Bach h?
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 bass nm="Bass Clarinet in Bb" snm="B. Cl."
+V:1
+ .[C,D,]2 ^F,2- F,->[G,,F,-] F,-[A,,F,-]/F,/ | %1
+ [^A,,^F,]=A,,/ z/ z/ G,,3/2- G,,/-[G,,=F,-]F,/- F,-[_B,,-F,] | [_B,,F,] C,3 D,2 _E,D, | %3
+ F,_E, D,2- [D,=B,-]4 | B, [G,C]3- [G,C] [^F,D]3- | [^F,D]3 G A>_B- BA/G/- | G2 A>^F- F<A G2- | %7
+ G2- G/=FG/- G/A/-[A_B-]/B/- B->[GB] | [G_B]/F^G/- G2 =G_BAB- | _B3 [A,=B,]/_B,/- B,4 | %10
+ _B,<G, D2- DA,/=B,/ C2 | G,B,/C/ DC/B,/ C B,2- B,/A/- | A_B3/2FG/ z/ F/-[FG-]/G/ A/-[AB]/ z | %13
+ c>_e d/ed/- dc/ z/ _B2- | [D,_B-][_E,B-]>[F,-B]F,- .F,<[G,C_E]- [G,-CE][G,D-] | %15
+ [G,-D] [G,C]3- [G,C-] C2- C/-.[CD]/ | [D,D]8 | z8 | z8 | _B,,2 ^F,D,- D,<C,- .C,2 | %20
+ _B,,2 _E,D, C,2 ^F,2- | ^F,/G,,A,,/- A,,_B,, G,,2- .G,,<G,, | z/ .[D,E,^F,]3/2 _B,,2 C,2 D,2 | %23
+ _E,D,>[=F,_G,]E, D,>C,- C,/_B,,=G,,/- | G,,>F,,- F,,2 D,2- D,<G,,- | %25
+ G,,<A,, G,,/ z/ G,, A,,2 G,,A,, | z/ _B,,A,,/- A,,G,,- G,,<F, _E,C,- | %27
+ C,<F,- F,<_B,,- B,,/B,,A,,/- A,,G,,- | G,,/F,/ z/ _E,/- E,<F, _B,,C,3/2D,C,/- | %29
+ C,_B,, A,,>G,,- G,,C,3/2_E,F,/- | F,4- F, z z2 | G,F,_E,F, D,C,3/2_B,,A,,/- | %32
+ A,,2 G,,C,- C,<_E,- E,<C, | _B,,G,,A,,B,, _E,2 B,,A,, | G,,_E,D,C,- C,<E, _B,,B,,- | %35
+ _B,,/ z/ G,,3/2G,,F,/- F,_E,=E,C, | F,E,G,,A,,- A,,<F, C,>=B,,- | %37
+ B,,/_B,,/ z/ =B,,/- B,,C,/ z/ C,/ z/ C,/ z/ C,/ z/ _B,,/ z/ | %38
+ A,,/ z/ G,,/ z/ z/ A,,/ z/ _B,,/ z C,/ z/ D,E,- | E,/F,D,/- D,>C,- C, =B,,2 G,, | %40
+ C, C,2 E,/-[E,F,-]/ F,_B,, C,>D,- | D,_B,,3/2G,,C,/- C,F,/G,/- G,E,- | %42
+ E,<_B,,- B,,<^F,,- F,,<G,, C,>=F,,- | F,,>G,,- G,,<A,, =B,, _E,,3- | %44
+ _E,,=E,, F,,>G,, z/ _B,,/ z [=B,,C,]/ z/ C,/ z/ | ^C,>D, z/ =C,3/2 B,,/ z/ A,,/ z/ z/ B,,3/2- | %46
+ B,,/G,,A,,/- A,,<B,, G,,2 _E,2 | =E,>_E,- E,>E,- E,>D,- D,2 | C,2 _B,,A,, C,2 F,2- | %49
+ [A,,F,-]<[G,,F,-] [F,,F,-]>[E,,F,-] F,/-[A,,F,-]/F,/-[G,,F,-]/ F,->[=B,,-F,] | %50
+ [B,,-F,]B,,/-[G,,-B,,]/ G,,2- G,,/B,,[C,D,]/ z/ [C,D,]/ z/ [C,D,]/ | %51
+ z E,/ z/ [C,D,]^C,/ z/ z/ D,/ z E,<_E, | =E,/ z/ z F,/ z/ ^F,/ z/ G,/ z/ z z/ =F,,/ z | %53
+ z G,,/ z/ z _E,,/ z/ z G,,/ z/ z/ E,,/ z | F,,/ z/ z G,,/ z/ z z z/ G,,,/ z z/ G,,/ | %55
+ z z/ _E,,/ z2 z F,,/ z/ G,,/ z/ z | G,/ z/ z G,, z z2 _B,,/_E,/D,/B,,/ | z4 G,,4 | [D,G,]4 D,4 | %59
+ G,4 z4 |] %60
+

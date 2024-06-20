@@ -1,0 +1,34 @@
+X:1
+T:The Way We Were
+T:The Way We Were
+C:Marvin Hamlisch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" A4"Em7" G4- |"Fmaj7" G2 GA cBAG |"Am7""Am/G" E8 |"Fmaj7" z2 DE"Em" GE"E7"^GE | %4
+w: Mem- 'ries|_ light the cor- ners of my|mind.|Mist- y wa- ter col- ored|
+"Am" B4"Am/G" A4- |"Fmaj7" A2 z D/E/"Gsus4" D3 C |"Cmaj7""Em7" E8 |"Fmaj7" z4"G7" z2 CE | %8
+w: mem- 'ries,|_ of the way we|were.|Scat- tered|
+"C" A4"Em7" G4- |"Fmaj7" G2 GA cBAG |"Am7""Am/G" E8 |"Fmaj7" z2 DE"Em" GE"E7"^GE | %12
+w: pic- tures,|_ of the smiles we left be-|hind,|smiles we gave to one an-|
+"Am" B4"Am/G" A4- |"Fmaj7" A2 z D/E/"Gsus4" D3 C |"Cmaj7" E8- |"C7" E2 z2 z4 | %16
+w: oth- er,|_ for the way we|were.|_|
+"Fmaj7" Cccc"E7sus4" cc"E7"cB |"Dm7" BA A6 |"Em7" BBBB BBAG |"A7sus4" B6"A7" z2 |"Dm7" AAAA AAGA | %21
+w: Can it be that it was all so|sim- ple then,|or has time re- writ- ten ev- 'ry|line?|If we had the chance to do it|
+"G7" GF F4 AG |"Cmaj7" EG- G4 z2 |"G7sus4" DG-"G7" G4 z2 |"C" A4"Em7" G4- |"Fmaj7" G2 GA cBAG | %26
+w: all a- gain, tell me|would we _|could we? _|Mem- 'ries|_ may be beau- ti- ful and|
+"Am7""Am/G" E8 |"Fmaj7" z2 DE"Em" GE"E7"^GE |"Am" B4"Am/G" A4- |"Fmaj7" AABc"E7sus4" B"E7" e2 d | %30
+w: yet,|whats too pain- ful to re-|mem- ber,|_ we sim- ply choose to for|
+"Am""Am/G" c8 |"Fmaj7" z2 c2 B2 A2 |"Em7" A4 G4 |"Fmaj7" z2 e2 d3 c |"Em7" A4 G4- | %35
+w: get.|So it's the|laugh- ter,|we will re-|mem- ber,|
+"Fmaj7" G2 z e fedc |"Em7" A4"Am7" G4- |"Dm7" G2 z"D7b9" E D3 C |"Cmaj7""C7sus4" E8 | %39
+w: _ when- ev- er we re-|mem- ber|_ the way we|were.|
+"G7sus4" z2 z E D C3 |"Cmaj7" E8- | E8 |] %42
+w: The way we|were.|_|
+

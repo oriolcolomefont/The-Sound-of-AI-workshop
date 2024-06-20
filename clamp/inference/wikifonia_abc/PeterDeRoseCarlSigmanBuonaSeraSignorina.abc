@@ -1,0 +1,19 @@
+X:1
+T:Buonasera Signorina
+T:BUONASERA SIGNORINA
+T:C.SIGMAN P.DE ROSE
+T:©JBB JUIN2009
+C:Peter De Rose
+Z:All Rights Reserved
+L:1/8
+Q:1/4=160
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ E>F | G>GG>G A>AA>A | A G3 z2 E>F | G>GG>G c>cB>G | F4- F z D>E | F>FF>F- Fd- (3dcA | %6
+ c B3 z3/2 d<cA/ | c>BB>A (3AAA G>F | E4- E z E>F | G>GG>G A>AA>A | A G3 z2 E>F | G>GG>G e>ed>c | %12
+ A4- A z c>c | c>cc>c c>c_B>_A | _A G3 z2 =A>G | G>FF>E F2 B>G | A G3 z2 c>d | e>ee>e e>ed>c | %18
+ d A3 z2 c>A | cG- (3Gcc BG (3GAB | c2 z2 z4 |] %21
+

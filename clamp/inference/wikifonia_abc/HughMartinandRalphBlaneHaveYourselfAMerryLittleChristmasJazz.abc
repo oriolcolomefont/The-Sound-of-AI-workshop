@@ -1,0 +1,42 @@
+X:1
+T:Have Yourself A Merry Little Christmas (Jazz)
+C:Hugh Martin and Ralph Blane
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="    Very Merry Christmas"" snm="    Very Merry Christmas""
+%%MIDI channel 3
+%%MIDI program 11
+V:1
+"Fmaj7" e2 ee- e2- (3edc |"Emin7" (3Bcd- d4- (3dcB |"Dmin7" (3ABc- c4 B2 |"Cmaj7" B8 | %4
+"F#dim" c2 cc- c2- (3cBA |"Emin7" (3GAB- B4- (3BGA |"D7" (3Bcd- d4 D2 |"G ""G7" G8 | %8
+"Cmaj7" z3/2 C/- C<E"Amin7" G2 B/c/G- |"Dmin7" GF- (3FED"G7" C2 D2 | %10
+"Cmaj7" z (3:2:2z C/- CE"Amin7" G2 B/c/G- |"Dmin7""G7" G8 |"C " E2 G2"Amin7" c2 e2 | %13
+"Dmin7" (3:2:2d2 c- (3cBA"G7" G2- GF |"Eaug" E8- |"D7" E2- (3EFG"G7" (3DDC (3DA,C- | %16
+"Cmaj7" C2 E2"Amin7" G2 (3:2:2B/cG- |"Dmin7" GF- (3FED"G7" C-C/4D/4E/ DE- | %18
+"Cmaj7" (3E2 C2 E2"Amin7" GG (3:2:2B/cG- |"Dmin7" G4"G7" z4 |"C " E2 G2"Amin7" c2 d2 | %21
+"Bmin7" (3:2:2d2 c- (3cBA"E7" ^G2- G<B |"Amin7" c6- c/-(3c/4g/4a/4-a/g/4>_e/4 | %23
+"Gmin7" (3dcA (3dAc-"Caug" c<d- d2 |"Fmaj7" (3z2 e2 e2"E7" e2- (3edc | %25
+"Emin7" Bc- c<d-"Ebdim" d2- (3dcB |"Dmin7" (3:2:2AB/-(3B/B/c/- c4 B/c/-c/4_B/4=B/- |"Cmaj7" B6 z2 | %28
+"F#min7" (3z2 c2 c2 c2- (3cBA |"Emin7" GA"Eb7" A4- AA |"Gmaj7" (3B2 c2 c2-"D7" c2- c<D | %31
+"Dmin7" A2 AG-"G7" (3G_EC A,/>G,/A,/G,/- |"Cmaj7" (3G,2 C2 E2"Amin7" G2 B/c/G- | %33
+"Dmin7" GF (3EDC-"G7" C-C/4D/4E/ D2- |"Cmaj7" (3D2 C2 E2"Amin7" G2 B/c/G- |"Dmin7" G4"G7" z4 | %36
+"C " E2 G2"Amin7" c2 e2 |"Bdim" f e2 d"E7" c2 B<d |"Amin" e4- e7/4g/4"Abaug" a/g/c'- | %39
+"G7" c'/g/4a/<g/_e/4 (3=ecA"C7" (3dAc- c<d |"Fmaj7" z3/2 g/- ge"Cmaj7" c-c/4G/4^G/4A/4- A=G | %41
+"G7" D/C/D z A-"Cmaj7" (3AG_E (3CA,C- |"C " C8 |"G " z4 (3:2:2c'2 c' b/c'/-(3c'/a/b/- | %44
+"Cmaj7" b/g/ z (3gae"G7" f<e d/4_e/4_A/G- | G2- G/-(3G/4D/4E/4-E/G/"Cmaj7" (3:2:4G,/A,/A,G,- G,2- | %46
+ G,2- (3G,GA"Ebmaj7" (3_BAG (3:2:2cA/-(3A/g/a/ |"G " g2- g/g/a/>d/ e/g/ G3 | %48
+"C " z4"G7" (3:2:2f2 e d/e/-e/4B/4c/- |"Amin7" c2- c/G/4A/4-A/c/ (3_ECC- (3CDC | %50
+"Gmin" _B>A (3:2:2G2 F"C7" E/F/-(3F/4D/4^D/4E/ (3:2:2_E C2 | %51
+"F#min7" D/E/(3^F/A/c/ (3d/e/^f/-f/c'/-"Fmaj7" c'/d'/d'/<e'/- (3e'd'c' | %52
+"Cmaj7" (3bc'c'-"A7" c'4- (3c'c'b |"Dmin7" (3:2:2a2 b- bc'-"G7" c'2 (3:2:2bc'/-(3c'/4a/4^a/4b/- | %54
+"Cmaj7" b8 |"F#min7" (3z2 c'2 c'2 c'2- (3c'ba |"Emin" (3:2:2g2 a- a/4a/4b3/2- b2- (3bga | %57
+"Gmaj7" (3b2 c'2 c'2-"D7" c'2- c'<d |"G7" g2- (3ge^f g2- (3g_ec- | %59
+"C " (3:2:2c2 G e2"Amin7" (3:2:2g2 e (3:2:2b/c'g- |"Dmin7" gf (3edc-"G7" c-c/4d/4e/ (3:2:2d2 e | %61
+"C " (3z2 c2 e2"Amin7" (3:2:2g2 e c'g- |"Dmin7" g4 z4 |"C " e2 g2"Amin7" c'2 e'-(3e'/e'/f'/- | %64
+"Bmin7" f'e' (3d'c'b-"E7" b2 d'-d'/4d'/4e'/- |"Amin7" e'4"D7" g/4a/4c'_e/ (3cAc- | %66
+"Gmin" c/G/4A/4-A/c/ _E/-E/8>E/8D/4C-"C7" C2- (3Cgf |"Fmaj7" d<e F2 A2 c2 | %68
+"Dmin7" ed- d<c"G7" B>A- A2- | A B3"Abmaj7" z3/2 c/- c2- | %70
+ c2-"Eb " (3c_eg"Abmaj7" _ag/4e/4c/ _A/G/_E |"Cmin" C(3:2:2D/_E- E2"G7" D4 |"C " C8- | C8 |] %74
+

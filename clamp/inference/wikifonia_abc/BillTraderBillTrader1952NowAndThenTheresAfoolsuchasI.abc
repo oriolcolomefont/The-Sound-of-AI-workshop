@@ -1,0 +1,27 @@
+X:1
+T:(Now And Then There's) A  fool such as I
+T:A fool such as I
+T:(Now and then, theres)
+T:Bill Trader
+T:SWING
+C:Bill Trader
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E G |:"C" c2 d e |"E7" B ^G d c |"F" A C F A |"C" G2 C D | E2 ^D F |"Gm" G2"A7" F E |"Dm" D4- | %8
+w: Par- don|me if I'm|sen- ti- men- tal|when we say good-|bye don't be|an- gry with|me should I|cry|
+ D"G7" z E G |"C" c2 d e |"E7" B ^G d c |"F" A C F A |"C" G2"F" C D |"C" E2"Am" D C | %14
+w: * when you're|gone yet I'll|dream a lit- tle|dream as years go|by Now and|then there's a|
+"Dm" F2"G7" E D |"C" C4- | C z"Gm" F G |"F" A2 B c | d2 c A |"C" G c"F" C D |"C" E3 E | %21
+w: fool such as|I|* now and|then there's a|fool such as|I am o- ver|you You|
+"G" D B G3/2 D/ |"D7" C A"B7" ^F3/2 A/ |"Em" G A"A7" F E |"Dm" D z"G7" E G |"C" c2 d e | %26
+w: taught me how to|love and now you|say that we are|through I"m a|fool but I'll|
+"E7" B ^G d c |"F" A C F A |"C" G2"F" C D |"C" E2"Am" D C |"Dm" F2"G7" E D |1"C" C4- || %32
+w: love you dear un-|til the day I|die Now and|then there's a|fool such as|I|
+ C z"G7" E G :|2"C" C4- || C3 z |] %35
+w: * Par- don|I||
+

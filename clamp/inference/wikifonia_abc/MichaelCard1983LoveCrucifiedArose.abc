@@ -1,0 +1,59 @@
+X:1
+T:Love Crucified Arose
+T:Love Crucified Arose
+T:Michael Card, 1983
+C:Michael Card 1983
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=85
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:2 treble 
+%%MIDI program 54
+V:1
+"G" z4"D/F#" z4 |"C/E" z4"D7" z4 |"G" z4"Gmaj9" z4 |"C/G" z4"D7/G" z4 |"G" DG<GA/"D/F#"AG/G z d | %5
+w: ||||long a go He blessed the earth both|
+"G/F" dc/cB/"C/E" c3 z C |"Cm/Eb" dc<cB<"G/D"BA/G/ z G/A/ | %7
+w: old er than the years and|in the stall a cross He saw through the|
+"Am7" Bc<BA/A/-"Dsus4" A2"C/D" z3/2"D" D/ |"G" DG/GA"D/F#"AG/G z d | %9
+w: first of man y tears _ a|life of home less wan der ing cast|
+"G/F" dc/cB"C/E"c/- c2 z3/2 D/ |"Cm/Eb" d<c d<c"G/D" BA/G/ z D |"Am7" Bc/BAA/-"Dsus4" A4- | %12
+w: out in sor rows way _ the|Shep herd seek ing for the lost His|life the price He'd pay _|
+ A2"D" z D"G" DG<Gd/d/- | d2 z3/2 d/"C" d/ccB"G/B"B/- | B/A/G z3/2 D/"C" dc<cB/"G/B"B/- | %15
+w: _ Love cru ci fied a rose|_ the ris en One in _|_ splen dor Je hov ah's sole De _|
+ B/A/G z G/A/"Am7" Bc/BA/"C/D"A- | A2 z D"G" DG<Gd/"Bm7"d/- | d2 z d/d/ dc<cB/B/- | %18
+w: _ fen der * has won the vic to ry|_ Love cru ci fied a rose|_ and the grave be came a place|
+ B/A/G z B/d/ dc/cBB/- | B/A G2 G/"Am7" GF<"D7"EF/G/- |"G" G4"Gmaj9" z4 | z4 z2 z3/2 D/ | %22
+w: _ of hope for the heart that sin and sor|_ row broke is beat ing once a gain|_|through|
+"G" DG<GA/"D/F#"AG/G z d |"G/F" dc/cB/"C/E" c3 z C |"Cm/Eb" dc<cB<"G/D"BA/G/ z G/A/ | %25
+w: out your life you felt the weight of|what you'd come to give to|drink for us that crimson cup _ so _|
+"Am7" Bc<BA/A/-"Dsus4" A2"C/D" z3/2"D" D/ |"G" DG/GA"D/F#"AG/G z d | %27
+w: we might real ly live _ at|last the time to love and die the|
+"G/F" dc/cB"C/E"c/- c2 z3/2 D/ |"Cm/Eb" d<c d<c"G/D" BA/G/ z D |"Am7" Bc/BAA/-"Dsus4" A4- | %30
+w: dark a ap point ed day that|one for sak en mo ment when your|Fa ther turned _ His _|
+ A2"D" z D"G" DG<Gd/d/- | d2 z3/2 d/"C" d/ccB"G/B"B/- | B/A/G z3/2 D/"C" dc<cB/"G/B"B/- | %33
+w: _ love cru ci fied a rose|_ the ris en One in _|_ splen dor Je hov ah's sole De _|
+ B/A/G z G/A/"Am7" Bc/BA/"C/D"A- | A2 z D"G" DG<Gd/"Bm7"d/- | d2 z d/d/ dc<cB/B/- | %36
+w: _ fen der * has won the vic to ry|_ Love cru ci fied a rose|_ and the grave be came a place|
+ B/A/G z B/d/ dc/cBB/- | B/A G2 G/"Am7" GF<"D7"EF/G/- |"G" G4 z2 z D |"G" DG<Gd/d/- d2 z3/2 d/ | %40
+w: _ of hope for the heart that sin and sor|_ row broke is beat ing once a gain|_ love|cru ci fied a rose _ the|
+"C" d/ccB"G/B"BA/G z3/2 D/ |"C" dc<cB/"G/B"BA/G z G/A/ |"Am7" Bc/BA/"C/D" A3 z D | %43
+w: ris en One in _ splen dor Je|hov ah's sole De _ fen der * has|won the vic to ry Love|
+"G" DG<Gd/"Bm7"d/- d2 z d/d/ | dc<cB/BA/G z B/d/ | dc/cBBA G2 G/ |"Am7" GF<"D7"EF/G/-"G" G4- | %47
+w: cru ci fied a rose _ and the|grave be came a place of hope for the|heart that sin and sor row broke is|beat ing once a gain _|
+ G4 z4 | x8 | x8 | z8 | z8 |] %52
+w: _|||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 BA/A/- A2- | A4 z4 | x8 | x8 | x8 | x8 | %17
+w: |||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 BA/A/- A2- | A4 z4 | x8 | x8 | x8 | %34
+w: ||||||||||||face a way _|_||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z4 |"D/F#" z4"C/E" z2"D7" z2 | %48
+w: ||||||||||||||
+ z4"G" z4 | z4 z4 | x8 | x8 |] %52
+w: ||||
+

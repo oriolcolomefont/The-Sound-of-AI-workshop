@@ -1,0 +1,28 @@
+X:1
+T:Pie Jesu
+T:Pie Jesu
+T:Andrew Lloyd Webber
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ EE EE DD GB | G/F/E- E4 GB | G/F/E- z2 GG z2 | A2 F2- F z CA | G2 F2- F z GG | A2 F2- F z CA | %6
+w: ||* * * Pie _|Jesu _ _ pie *|Jesu _ _ pie _|Jesu _ _ pie _|
+ G2 F4 z B | e2 dc BA GA | BB BG B G/e/- e2 | z2 dc BA GB | G/F/ E3 z2 GG | A2 F2- F z CA | %12
+w: Jesu _ Qui|tolis _ peccata _ _ mundi _|dona _ eis _ requiem _ _ _|dona _ eis _ _ _|requiem. _ _ Pie _|Jesu _ _ pie *|
+ G2 F2- F z GG | A2 F2- F z CA | G2 F4 z B | e2 dc BA GA | BB BG B G/e/- e2 | z2 dc BA GB | %18
+w: Jesu _ _ pie e|Jesu _ _ pie _|Jesu _ Qui|tolis _ peccata _ _ mundi _|dona _ eis _ requiem _ _ _|dona _ eis _ _ is|
+ G/F/ E3 z2 GB | G/F/ E2- E2- E GB | G/F/ E3 z2 GG | A2 F2- F z CA | G2 F2- F z GG | %23
+w: requiem _ _ _ _|_ _ _ _ _ _ _|* * * Agnus _|Dei _ _ Agnus _|Dei _ _ Agnus _|
+ A2 F2- F z CA | G2 F4 z B | e2 dc BA GA | BB BG B G/e/- e2 | z2 dc BA GB | G/F/ E3 z2 GB | %29
+w: Dei _ _ Agnus _|Dei _ Qui|tolis _ peccata _ _ mundi _|dona _ eis _ requiem _ _ _|dona _ eis _ _ _|requiem _ _ _ sempiternam|
+ G/F/ E3 z2 GB | G/F/E- E2 !fermata!e2 GB | G/F/ E3- E4- | E8 |] %33
+w: _ _ _ _ sempiternam|_ _ _ _ _ _ sempiternam|_ _ _ _||
+

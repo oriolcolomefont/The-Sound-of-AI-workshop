@@ -1,0 +1,70 @@
+X:1
+T:Try
+C:Nelly Furtado
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Emin
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"^Intro""Em" z4"D" z4 |"Cmaj7" z4"Cmaj7#11" z4 |"Em" z4"D" z4 |"Cmaj7" z4"Cmaj7#11" z4 || %4
+w: ||||
+"^Verse""Em" z4"D" f d2 c- |"Cmaj7" cB z2"Cmaj7#11" z2 z3/2 G/ |"Em" BBBB"D" AABG- | %7
+w: All I know|_ _ Is|e- v'ry- thing is not as it's sold|
+"Cmaj7" G2 z2"Cmaj7#11" z4 |"Em" z2 BB"D" f d2 c- |"Cmaj7" cB z2"Cmaj7#11" z2 z B | %10
+w: _|but the more I grow|_ _ the|
+"Em" A B2 G-"D" G2 z2 |"Cmaj7""Cmaj7#11" z8 |"Em" z2 z B"D" fddc- | %13
+w: less I know _||And I have lived so|
+"Cmaj7" cBG(c-"Cmaj7#11" cB) z2 |"Em" z2 z B"D" A B2 G- |"Cmaj7" G2 z2"Cmaj7#11" z4 | %16
+w: _ ma- ny lives _ _|Though I'm not old|_|
+"Em" z2 BB"D" f d2 (c |"Cmaj7" B)BAB"Cmaj7#11" G2 z3/2 B/ |"Em" AB B"D" d2 B AB- | %19
+w: And the more I see,|_ the less I grow The|fe- wer the seeds the more I|
+"Cmaj7" BG- G2"Cmaj7#11" z4 ||"^Chorus""Em" z2 g/ab/-"C" baga |"G" g2 z2"D/F#" bac'b | %22
+w: _ sow _|Then I see _ you stan- ding|there Wan- ting more from|
+"Em" g2 z d"C" baac'- |"G" c' b2 a-"D/F#" a2 z2 |"Em" z2 g/ab/-"C" baga |"G" g2 z2"D/F#" bac'b | %26
+w: me And all I can do|_ is try _|Then I see _ you stan- ding|there Wan- ting more from|
+"Em" g2 z d"C" baac'- |"G" c'((bag"D/F#" f2)) z2 |"Em" B4"D" z4 |"Cmaj7""Cmaj7#11" z8 | %30
+w: me And all I can do|_ is _ _ _|try...||
+"Em" B4"D" z4 |"Cmaj7""Cmaj7#11" z8 ||"^Verse""Em" z B BB"D" f d2 (c- | %33
+w: try...||I wish I had- n't seen|
+"Cmaj7" cB) z2"Cmaj7#11" z4 |"Em" z4"D" cBBA- |"Cmaj7" AB- B2"Cmaj7#11" z4 |"Em" z2 z B"D" fddc- | %37
+w: _ _|all of the real-|_ ness _|And all the real peo-|
+"Cmaj7" cB z2"Cmaj7#11" z2 z c |"Em" cB B2"D" A(AB)B- |"Cmaj7" B2 z2"Cmaj7#11" z4 | %40
+w: _ ple are|real- ly not real at _ all|_|
+"Em" z2 z B"D" f d2 (c- |"Cmaj7" cB) z B"Cmaj7#11" A B2 d- |"Em" d2 z B"D" f d2 (c- | %43
+w: The more I learn|_ _ the more I learn|_ The more I cry|
+"Cmaj7" cB) z B"Cmaj7#11" AB G2 |"Em" z2 BB"D" f d2 c- |"Cmaj7" cBGc-"Cmaj7#11" c B2 B- | %46
+w: _ _ the more I cry.|As I say good- bye|_ to the way _ of life|
+"Em" BBBB"D" A2 BG- |"Cmaj7" G2 AA-"Cmaj7#11" A2 z2 |"^Chorus""Em" z2 g/ab/-"C" baga | %49
+w: _ I thought I had de- signed|_ for me _|Then I see _ you stan- ding|
+"G" g2 z2"D/F#" bac'b |"Em" g2 z d"C" baac'- |"G" c' b2 a-"D/F#" a2 z2 |"Em" z2 g/ab/-"C" baga | %53
+w: there Wan- ting more from|me And all I can do|_ is try _|Then I see _ you stan- ding|
+"G" g2 z2"D/F#" bac'b |"Em" g2 z d"C" baac'- |"G" c'((bag"D/F#" f2)) z2 |"Em""D" B8 | %57
+w: there Wan- ting more from|me And all I can do|_ is _ _ _|try...|
+"Cmaj7" z4"Cmaj7#11" z (e d2) |"Em""D" B8 |"Cmaj7""Cmaj7#11" z8 || %60
+w: Ooh, _|try...||
+"Em" (B!>!B!>!B!>!B !>!B!>!B) z2 | z6 z"B/D#" z |"Em" (B!>!B A/G/E A2) z2 | z8 |"Em" z8 | %65
+w: Try _ _ _ _ _||Try _ _ _ _ _|||
+ z6 z"B/D#" z |"Em" z8 | z8 ||"Em" baac'-"C" c'bba- |"G" agff-"D/F#" f2 z3/2 d/ | %70
+w: |||All of the mo- _ ments * al-|_ rea- dy passed _ We'll|
+"Em" baac'-"C" c' b2 a- |"G" a g2 f-"D/F#" f2 z2 |"Em" baac'-"C" c'bba |"G" agfg-"D/F#" g2 z a | %74
+w: try to go back _ and make|_ them last _|All of the things _ we want each-|o- ther to be _ We|
+"Em" agfg-"C" g2 z a |"G" agff-"D/F#" f>e (fe- |"Em" e2) f>e"C" (f>!>!f- fe- | %77
+w: ne- ver will be _ we|ne- ver will be _ and that's _|_ won- der- ful, _ _ _|
+"G" e2) z2"D/F#" z3/2 d/ (ed- |"Em" d2) z B-"C" !>!B2 z2 |"G" z4"D/F#" z2 z d | %80
+w: _ and that's _|_ life _|At~And~that's|
+"Em" (d B2) A"C" G2 z d/d/ |"G" (d B2) G"D/F#" A2 z z/ d/ |"Em" (d<B- B2)"C" z2 z z/ g/ | %83
+w: you _ ba- by This is|me, _ ba- by we|are _ _ we|
+"G" (g<d- d2)"D/F#" z2 z3/2 b/ |"Em" (b<a- ag-"C" g2) z3/2 d'/ |"G" (d'<b- ba-"D/F#" a2) z3/2 b/ | %86
+w: are _ _ we|are, _ _ _ _ we|are, _ _ _ _ we|
+"Em" (b<a- ag-"C" g2) z3/2 d'/ |"G" (d'<b- ba-"D/F#" a2) z a- |"Em""C" a8- | %89
+w: are _ _ _ _ we|are _ _ _ _ free|_|
+"G" a4"D/F#" z2 (g/a/)b/(b/ |"Em" a3 g-"C" g4) |"G" z4"D/F#" z2 z b |"Em" (a3 g-"C" g4- | %93
+w: * in _ our love|_ _ _|we|are _ _|
+"G" g4)"D/F#" z2 g/f/f/(f/ |"Em" e3 d-"C" d3 c- |"G" c3 B-"D/F#" B3 A- |"Em" A2 GB-"C" B4) | %97
+w: _ free in our love|_ _ _ _|||
+"_ritenuto""G""D/F#" z8 |"Em" !fermata!B4 z4 |] %99
+w: |Try|
+

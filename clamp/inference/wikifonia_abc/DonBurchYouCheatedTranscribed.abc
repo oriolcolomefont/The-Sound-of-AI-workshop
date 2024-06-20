@@ -1,0 +1,32 @@
+X:1
+T:You Cheated (Transcribed)
+C:Don Burch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Tenor Sax" snm="T Sax."
+%%MIDI channel 5
+%%MIDI program 66
+V:1
+ z4"G7" z2 (3G,A,B, |"C " C2- (3CDC"Amin" A,2- (3A,B,C |"Dmin" D2- (3DED"G7" G,2 (3G,A,B, | %3
+w: |||
+"C " C2- (3CDC"Amin" A,2- (3A,B,C |"Dmin" D2- (3DED"G7" G,2 z2 |"C " (3GAB (3cde-"Amin" e2(3zAB | %6
+w: |||
+"Dmin" (3cde- e2"G7" G2 z G |"C " c c2 A"Amin" c3 A |"Dmin" c2- (3cde"G7" ed- dG | %9
+w: * * * * * You|chea- ted, you lied, you|said * that you loved me. * You|
+"C " cc- (3cde"Amin" d c2 A |"Dmin" c2- (3cde"G7" ed- d2 |"C " e6 (3edc |"Amin" e6 z e | %13
+w: chea- ted, * yo- u li- ed, you|said * that you want me. *|Oh, what can I|do but|
+"Dmin" f4 ff- (3fed |"G7" f6 z2 |"C " c6 dc |"Amin" dc- c4 z A |"Dmin" c6 (3ABc |"G7" B8 | %19
+w: just keep on * lo- ving|you?|Love i\- s|some- thing * you|know no- thing a\-|bout.|
+"C " c6 de |"Amin" dc- c4 z A |"Dmin" c6 (3ABc |"G7" B6 c2 |"C " e6 (3edc |"Amin" ee- e6 | %25
+w: Love i\- s|some- thing * you|can't li- ve with-|out. So|please tr- y to|love me, *|
+"Dmin" ff- f2 z f- (3fed |"G7" f4 g2 (3fgf |"C " e6 (3edc |"Amin" ee- e6 |"Dmin" ff- f4 (3fed | %30
+w: love me * like * I love|you. Oh, Oh, O\- h,|please tr- y to|love me, *|love me * like I love|
+"G7" f6- fG |"C " c c2 e"Amin" d c2 A |"Dmin" c2- (3cde"G7" ed- dG |"C " cc- (3cde"Amin" d c2 A | %34
+w: you. * You|chea- ted, you li- ed, you|said * that you want me. * You|chea- ted, * yo- u li- ed, you|
+"Dmin" c2- (3cde"G7" ed- d2 |"C " e6 (3edc |"Amin" e6 z2 |"C " e6 (3edc |"Amin" e6 z2 | %39
+w: said * that you loved me. *|Oh, what can I|do?|Oh, what can I|do?|
+"C " e6 (3edc |"Amin" e6 (3edc |"C ""F7" c8- |"C " c4 z4 |] %43
+w: Oh, what can I|do? * * *|||
+

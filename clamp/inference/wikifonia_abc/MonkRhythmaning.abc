@@ -1,0 +1,27 @@
+X:1
+T:Rhythm-a-ning
+T:Rhythm-a-ning
+T:Thelonious Monk
+C:Monk
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" .B, .D !tenuto!F z |"Eb" .E G/B/ z F- |"Bb" F .G .E .F |"F7" .D E/C/ z z/ F/ | %4
+"Bb" G/!tenuto!_A/ z/ F/ .G !tenuto!A | z z/ F/ G/ !tenuto!_A F/ | %6
+"Bb7b5" .G !tenuto!_A !^!=e !^!e | !^!=e z z2 ||"Bb""Bb" .B, .D !tenuto!F z | %9
+"Eb""Eb" .E G/B/ z F- |"Bb""Bb" F .G .E .F |"F7""F7" .D E/C/ z z/ F/ | %12
+"Bb""Bb" G/!tenuto!_A/ z/ F/ .G !tenuto!A | z z/ F/ G/ !tenuto!_A F/ | %14
+"Bb7b5" .G !tenuto!_A !^!=e !^!e | !^!=e z2 z/ D/ ||"D7" =E/!tenuto!^F/ z/ D/ .E !tenuto!F | %17
+ z z/ D/ =E/!tenuto!^F/ z/ D/ |"G7" .=E !tenuto!^F z2 | z2 z z/ D/ | %20
+"C7b5" =E/!tenuto!^F/ z/ D/ .E !tenuto!F | z z/ D/ =E/!tenuto!^F/ z/ D/ |"F7b5" .=E .^F ._A .B | %23
+ !tenuto!=B z z2 ||"Bb""Bb""Bb" .B, .D !tenuto!F z |"Eb""Eb""Eb" .E G/B/ z F- | %26
+"Bb""Bb""Bb" F .G .E .F |"F7""F7""F7" .D E/C/ z z/ F/ | %28
+"Bb""Bb""Bb" G/!tenuto!_A/ z/ F/ .G !tenuto!A | z z/ F/ G/ !tenuto!_A F/ | %30
+"Bb7b5""Bb7b5" .G !tenuto!_A !^!=e !^!e | !^!=e z z2 |] %32
+

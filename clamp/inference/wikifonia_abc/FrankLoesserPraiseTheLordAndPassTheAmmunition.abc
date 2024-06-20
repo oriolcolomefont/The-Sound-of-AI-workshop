@@ -1,0 +1,28 @@
+X:1
+T:Praise The Lord And Pass The Ammunition
+T:Praise The Lord And Pass The Ammunition
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B3 A"C" G3 A |"G" B>A"C"G>E"G" D G3 |"D7" A3 G F3 G |"Am7" A>G"F#dim"B>A"G" G"D7" D3 | %4
+w: Praise the Lord and|pass the am- mu- ni- tion,|Praise the Lord and|pass the am- mu- ni- tion|
+"G" B3 A"C" G3 A |"G" B>^A"G7"B>G"C" =A>B"Cm"c>A |"G" d4"D7" F4 |"G""D7" G6 z2 |"G" B3 A"C" G3 A | %9
+w: Praise the Lord and|pass the am- mu- ni- tion and we'll|all stay|free!|Praise the Lord and|
+"G" B>A"C"G>E"G" D G3 |"D7" A3 G F3 G |"Am" A>G"F#dim"B>A"G" G"D7" D3 |"G" B3 A"C" G3 A | %13
+w: swing in- to po- si- tion,|Can't af- ford to|sit a- round a- wish- in'|Praise the Lord, we're|
+"G" B>^A"G7"B>G"C" =A>B"Cm"c>A |"G" d4"D7" F4 |"G" G6 FG |"D7" A2 AG F E2 D | %17
+w: all be- tween per- di- tion and the|deep blue|sea! Yes the|sky pi- lot said it You've|
+"G" B^A"B7"B=A"Em" GFED |"A7" (3A^GA"A9" (3B^AB"A7" ^c>B =A2 |"D7" d6 d>c |"G" B3 A"C" G3 A | %21
+w: got to give him cred- it for a|son- of- a- gun of a gun- ner was|he, Shout- ing:|"Praise the Lord, we're|
+"G" B>A"C"G>E"G" D G3 |"D7" A3 G F3 G |"Am7" A>G"F#dim"B>A"G" G"D7" D3 |"G" B3 A"C" G3 A | %25
+w: on a might- y mis- sion!|All a- board! We're|not a- go- in' fish- in',|Praise the Lord and|
+"G" B>^A"G7"B>G"C" =A>B"Cm"c>A |"G" d4"D7" F4 |1"G""C#dim""Am7" G6"D7" z2 :|2"G" G6 z2 |] %29
+w: pass the am- mu- ni- tion and we'll|all stay|free!|free!|
+

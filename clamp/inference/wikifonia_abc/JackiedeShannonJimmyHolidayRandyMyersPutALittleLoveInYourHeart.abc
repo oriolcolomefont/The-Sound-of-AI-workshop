@@ -1,0 +1,27 @@
+X:1
+T:Put A Little Love In Your Heart
+T:Put a little love in your heart
+T:Jimmy Holiday, Randy Myers, Jackie de Shannon
+C:Jackie de Shannon, Jimmy Holiday, Randy Myers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"D" FAdd- de d2 | FAdd- de d2 |"G" dddd fd e2 |"D" dB A2 z2 z A | FBdd- de d2 | FAdd efed | %6
+w: Think of your fel- * low man|lend him a help- * ing hand|put a lit- tle love in your|heart * * *|you see its get- * ting late|oh please don't hes- * i- tate *|
+"G" dddd ffde |"D" dBA- A2 z z2 | z4 z"^Chorus:" Bdf- |"D" f z z2 z ddB |"Em" e A2 A"A" z Bdf- | %11
+w: put a lit- tle love * in your|heart * * *|and the world|* will be a|bet- ter place and the world|
+"D" f z z2 z ddf |"Em" e A2 A"A" z2 B2 | A2 z2 z2 B2 | A2 z2 z ABA- | A2 z2 z2 B2 | A2 z2 z4 :| %17
+w: * will be a|bet- ter place for|you and|me you just wait|* and|see|
+ a6 aa |"Bb" _b8 | z8 ||[K:Eb]"Eb" GBee ef e2 | z ggg feec |"Ab" eeee ggef |"Eb" ecB- B2 z z2 | %24
+w: see wait and|see||take a good look * a- round|and if youre look- in down *|put a lit- tle love * in your|heart * * *|
+ GBef- fe e2 | z gfg feef |"Ab" z g/f/ e/f/g geef |"Eb" ecB- B2 bge- | e2 z2 z eec | %29
+w: I hope when you * de- *|kind- ness will be your guide *|put a lit- tle love * in your *|heart * * * and the world|* will be a|
+"Fm" f B2 B"Bb" z ceg |"Eb" g2 z2 z eec |"Fm" f B2 B"Bb" z2 c2 | B2 z2 z2 c2 | B2 z2 z ccB- | %34
+w: bet- ter place and the world|* will be a|bet- ter place for|you and|me you just wait|
+ B2 z2 z2 B2 | b4 z4 |:"Ab" eeee ef g2 |"Eb" gfe- e2 z z2 |] %38
+w: * and|see|put a lit- tle love in your|heart * * *|
+

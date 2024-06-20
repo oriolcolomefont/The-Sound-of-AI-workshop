@@ -1,0 +1,41 @@
+X:1
+T:Sleigh Ride
+T:Sleigh Ride
+T:A Christmas Jazz Arrangement
+T:
+C:Leroy Anderson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|: B B B"Eb" B | c B/G/ E"Ab6" F | G"Bb7" F/D/ C"Eb" B,- |"Ab6""Bb7" B,4 | C E G"Eb" B | %5
+w: Just hear those sleigh-|bells ring- a- ling ring|ting ting- a- lin' too||Come on it's love-|
+w: Let's cut the rug|be- fore us and sing|a cho- rus or two||Come on it's love-|
+ c B/G/ F/E/"Ab6" F | F/G/"Bbpower"F/E/ C"Eb" E-!dacoda! |"Ab6""Bb7" E4!fine! :| %8
+w: ly wea- ther for a sleigh|ride to- ge- ther with you||
+w: ly wea- ther for a sleigh|ride to- ge- ther with you||
+"Am7" =E/E/ c E/E/ c |"D7" =E/E/ c d =B- |"Gmaj7" B z c =B/G/ | =E"Cmaj7" =A3- | %12
+w: Gid- dy up Gid- dy up|Gid- dy up let's go|* Let's look at|the show|
+w: ||||
+ A z"F#m7b5" c =A/F/ | D/G/"B7b9" =A c/ =B3/2 | d"Em7" G3- | G z z2 |"Am7" =E/E/ c E/E/ c | %17
+w: * We're ri- ding|in a won- der- land|of snow||Gid dy up gid- dy up|
+w: |||||
+"D7" =E/E/ c d =B- |"Gmaj7" B z c =B/G/ | =E"Cmaj7" =A3- | A/ z/ z"Bb" B B/B/ | B"Bb7" B B/B/ B | %22
+w: gid- dy up it's grand|* Just hold- ing|your hand|* We're rid- ing|a- long with a song|
+w: |||||
+ B/B/"Fm7"B/B/ B B/B/- |[M:2/4] B"Bb7" B!D.C.! |[M:4/4]O _G/A/"Db7" B B B | B B B B | B"Eb7" e3 | %27
+w: in a win- ter- y fair- y|* land|There is some- thing in|the sea- son that|the world|
+w: |||||
+ B A3 | E/F/"Cm7" G G G | G G G G | G"Fm7" c3 | G"Bb7" F3 |"^N.C." C/_D/"Eb6"E/D/ C C | %33
+w: can't buy|When they pass a- round|the coff- ee and|the pump-|kin pie|It will near- ly be like|
+w: ||||||
+ E"Db7" _D A"Eb7" G | F"Ab7" E _d c | B"Db7" A3 | z2"Bb" B B/B/ | B"Bb7" B B/B/ B | %38
+w: a pic- ture print|by Cur- ri- er|and Ives|These won der-|ful things are the things|
+w: |||||
+ B/B/"Fm7"B/B/ B B/B/- | B"Bb7" B!D.C.! |] %40
+w: we re- mem- ber through all our|* lives|
+w: ||
+

@@ -1,0 +1,22 @@
+X:1
+T:Ikinci Bahar
+T:Ikinci Bahar
+T:Sezen Aksu
+C:Sezen Aksu
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:none
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:C] eg a4 | de f4 | Bc d4 | e6 | fe d4 | fe d4 | dd B2 cB |1 AB cd e2 :|2 A6 || d3 e f2 | e2 d4 | %11
+ ed c2 B2 | c6 | c3 d e2 | d2 c4 | dc Bc BA | B6 | B3 c d2 | c2 B4 | BA ^G2 A2 | B6 | e d3 c2 | %22
+ d3 c B2 | ed c2 B2 | A6 |:S f(g g3) a | gf f4 | ba g2 ^f2 | g6 | e3 f g2 | f2 e4 | ag fg fe | f6 | %33
+ d e3 f2 | ed d4 | ed c2 B2 | c6 | e(g e)g ed | d(e d)e dc | cd cd cB | B6 | d(e d)e d^c | %42
+ cd cd cB | ed c2 B2 | A6 :| f3 e d2 | d2 e2 f2 | g2 a2 b2 | c'd' c'd' e'2 | ab ab ag | g3 a gf | %51
+ g2 a2 b2 | a6 | a2 d'3 =c' | d'2 =c'2 b2 | ba g^f ga | b6 | e' d'3 =c'2 | d'3 =c' b2 | %59
+ d'=c' bc' ba | a6 |S (!fermata!f2 !fermata!g2) !fermata!a2 |] %62
+

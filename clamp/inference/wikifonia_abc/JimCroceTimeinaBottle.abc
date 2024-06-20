@@ -1,0 +1,34 @@
+X:1
+T:Time in a Bottle
+T:Time in a Bottle
+T:Jim Croce
+C:Jim Croce
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 A |:"Dm" A B A | A2 B/A/ |"Dm/C" A A2- | A2 A |"Gm" G G G | G A B |"A" A3- |"A7" A2 A/A/ | %9
+w: If|I could save|time in a|bot- tle|* the|first thing that|I'd like to|do|* is to|
+w: |I could make|days last for-|ev- er|* if|dreams could make|wish- es come|true|* I'd *|
+"Dm" A2 B/A/ |"Dm/C" A2 B/A/ |"Gm" c B A | G A B |"Dm" A2 A/A/ |"Gm" G F G |"A" A3- |1 A2 A :|2 %17
+w: save ev- ry|day til e-|ter- ni- ty|pass- es a-|way just to|spend time with|you|* If|
+w: save ev ry|day like a|treas ure and|then * a-|gain I would|spend them with|you||
+ A2 A/F/ ||[K:D]"D" F/A/ A A |"D/C" B/A/ A F/D/ | F/A/ A A |"D/A" B/A/ A F/D/ |"G" B, D2- | %23
+w: * but there|nev- er seems to|be e- nough time to|do the things you|want to do once you|find them|
+w: ||||||
+"Em7" D2 D |"A" C D E |"D" F/A/ A A |"D/C" B/A/ F D |"D/B" F/A/ A A |"D/A" B/A/ F D |"G" B, D2- | %30
+w: |* * I've|looked a- round e-|nough to know that|youre the one I|want to go thru|time with|
+w: |||||||
+"D" D3- |"Em7" D2 D |"A" C D E/A/!dacoda! ||[K:F]"Dm" A2 B/A/ |"Dm/C" A2 B/A/ | A A2- | %36
+w: ||* * * If|I had a|box just for|wish- es|
+w: ||||||
+"Dm/B" A2 A |"Gm" G2 G/G/ | G A B |"A" A3- |"A7" A2 z/ A/ |"Dm" A2 A/A/ |"Dm/C" A B A |"Gm" c B A | %44
+w: * and|dreams that had|nev- er come|true|* the|box would be|emp- ty ex-|cept for the|
+w: ||||||||
+ G A B |"Dm" A2 B/A/ |"Gm" G F G |"A" A3- | A2 A/G/!D.S.! ||[K:D]O"A" C D E |"D" F3- | F3 |] %52
+w: mem- ry of|how they were|an- swered by|you|* but there||||
+w: ||||||||
+

@@ -1,0 +1,24 @@
+X:1
+T:Everyone Is Someone If You Love Them
+T:Everyone Is Someone If You Love Them 
+T:Austin Casey 
+T:Edith Bunker 
+C:Edith Bunker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" B,EGB"Bb7" f e2 D/D/ |"Eb" FE- E4 z2 | B,EGB"Bb7" f e2 F/B,/ |"Eb" E4 z4 |"C7" ccc=B dcc=B | %5
+w: EVE- RY ONE IS SOME- ONE IF YOU|LOVE THEM, *|love can make a he- ro from a|chump.|Love can make a use- less man seem|
+ dc- c4 z2 |"F7" BGFG"Bb7" B B2 F/B,/ |"Eb" E4 z4 | B,EGB"Bb7" f e2 D/D/ |"Eb" FE- E4 z2 | %10
+w: use- ful, *|love can grow a flow- er from a|dump.|If you dare to reach out to a|strang- er, *|
+"G7" GG^FG ed=BG |"Cm" c4 z2 e2 |"Ab" eede"Adim7" fedf |"Eb" eB-"C7" B4 e2 |1"F7" eede"Bb7" ffed || %15
+w: you may find you've found a friend in-|deed, 'cuz|EVE- RY ONE IS SOME- ONE IF YOU|LOVE THEM * 'cuz|love is some- thing eve- ry bo- dy|
+"Eb" e4 z4 :|2"F7" eede"Bb7" ffef ||"Eb" g6 z2 |] %18
+w: needs|love is some- thing eve- ry bo- dy|needs!|
+

@@ -1,0 +1,29 @@
+X:1
+T:Three Coins In The Fountain
+T:Three Coins in the Fountain
+T:(from the film Three Coins in the Fountain)
+T:Jule  Styne
+T:Sammy  Cahn
+C:Jule Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+|:"Eb" z2 c2 B2 AG |"Fm7" B2"Bb7" F6 |"Fm7" A2 A2 GFEF |"Eb" G8 |"Ebmaj7" E2 E2"Cm7" E2 FG | %5
+w: Three coins in the|foun- tain,|each one seek- ing hap- pi-|ness.|Thrown by three hope- ful|
+"F7" F2"Cm7" C6 |"Abm6" F2 F2"Bb7" EDCD |"Eb""Fm7" E8 |"Eb" z2 c2 B2 AG |"Fm7" B2"Bb7" F6 | %10
+w: lov- ers,|which one will the foun- tain|bless?|Three hearts in the|foun- tain,|
+"Fm7" A2 A2 GFEF |"Eb" G8 |"Ebmaj7" E2 E2"Cm7" E2 FG |"F7" F z"Cm7" C6 |"Abm6" F2 F2"Bb7" EDCD | %15
+w: each heart long- ing for its|home.|There they lie in the|foun- tain|some- where in the heart of|
+"Eb" E8 |"Ab" e2 e2 dcBc |"Eb" B8 |"Abm" e2 e2 fe_d_c |"Fm7""Bb7" B8 | z2"Eb" c2 B2 AB | %21
+w: Rome.|Which one will the foun- tain|bless?|Which one will the foun- tain|bless?|Three coins in the|
+"Fm7" B2 F2"Bb7" z4 |"Fm7" A2 A2 GFEF |"Eb" G8 |"Ebmaj7" E2 E2"Cm7" E2 FG |"F7" F2"Cm7" C6 | %26
+w: foun- tain,|through the rip- ples how they|shine.|Just one wish will be|grant- ed;|
+"Abm6" F F2 F"Bb7" EDCD |"Eb" E4"Eb9" z2 GB |"Ab" e4 z2 Ac |"Fm7" e4 z2 Ac |1"Eb""Ebmaj7" e8- | %31
+w: one heart will wear a val- en-|tine. Make it|mine! Make it|mine! Make it|mine!|
+"Fm7""Bb9" e6 z2 :|2"Eb""Ebmaj7" e8- |"Fm7""Eb" e6 z2 |] %34
+w: |mine!||
+

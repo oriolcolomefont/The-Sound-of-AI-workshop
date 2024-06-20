@@ -1,0 +1,32 @@
+X:1
+T:Let's Take An Old Fashioned Walk
+T:Let's Take An Old Fashioned Walk
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C3 |"Cmaj7" E2 F |"C6" G C A |"Cmaj7" G3- |"C" G E A |"Cmaj7" G C A |"Dm" G3- |"G7" G B d | %8
+w: Let's|take an|old fash- ioned|walk.|_ I'm just|burst- ing with|talk.|_ What a|
+"C/E" c G E |"F6" A F D |"C/G" G E C |"G7" F D B, |"C" C3- |"F" C3- |"C/E" C3- |"Dm7" C3 |"C" C3 | %17
+w: tald could be|told if we|went for and|old fash- ioned|walk.|_|||Let's|
+"Cmaj7" E2 F |"C6" G C A |"Cmaj7" G3- |"C" G E A |"Cmaj7" G C A |"Dm" G3- |"G7" G B d | %24
+w: take a|stroll thru the|park,|_ Down a|lane where it's|dark|_ and a|
+"C/E" c G E |"F6" A F D |"C/G" G E C |"G7" F D B, |"C" C3- |"F" C3- |"C/E" C3- |"B7b9" C3 | %32
+w: heart that's con-|trol'd can re-|lax on an|old fash- ioned|walk.|_|||
+"Em" B3 | G E G |"Em" B G B |"Em7" G E G |"A9" E2 E | E3- | E3- | E3 |"G/D" d3 |"Em7" B G B | %42
+w: I|know for a|coup- le who|seem to be|miles a-|part,|_||there's|noth- ing like|
+"Am7" d B d |"D7" B G B |"G7" G2 G | G3 | G z z | z3 |"C" C3 |"Cmaj7" E2 F |"C6" G C A | %51
+w: walk- ing and|hav- ing a|"heart to|heart."|_||I|know a|girl who de-|
+"Cmaj7" G3- |"C" G E A |"Cmaj7" G C A |"Dm" G3- |"G7" G B d |"C/E" c G E |"F6" A F D |"C/G" G E C | %59
+w: clined.|_ could- n't|make up her|mind.|_ she was|wrapped up and|sold com- ing|home from an|
+"G7" F D B, |"C" C3- |"F" C3- |"C6/E" C3 |"Dm7""G7" z3 :|"C" C3- |"F" C3- |"Dm7""G7" C3- | %67
+w: old fash- ioned|walk|_|||walk.|_||
+"C" C z2 |] %68
+w: |
+

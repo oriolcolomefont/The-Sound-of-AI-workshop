@@ -1,0 +1,33 @@
+X:1
+T:My Spanish Rose
+T: Laukens Music Productions  
+T:Beguine
+T:My spanish Rose
+T:My spanish Rose blad 2 van 
+T: Laukens Music Productions  
+C:André Moss
+Z:All Rights Reserved
+L:1/8
+Q:1/4=144
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 65
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F7" [FA]2 [FA][GB] [Ac]2 [Ac][Bd] | [ce]2 [ce][ce] [eg]3 [eg] |"Bb" [df][ce] [Bd]6- | %3
+ [Bd]2 [Bd][Bd] [Bd]2 [Ac][Bd] |"F7" [ce]2 [ce][df] [eg]4- | [eg]2 [eg][eg] [df]2 [ce]2 | %6
+"Bb" [Bd]3 [Bd] [df]2 [ce][Bd] |"F7" [Ac]2 [Ac][Ac] [ce]2 [Bd][Ac] ||S"Bb" [Bd]8- | %9
+ [Bd]2 [Ac][Bd] [Ac]2 [GB][Ac] | [GB]2 [FA][GB] [FA]2 [EG][DF] |"F7" [EG]2 [FA]6- | [FA]8 | %13
+ [Ac]8- | [Ac]2 [GB][Ac] [GB]2 [FA][GB] | [FA]2 [EG][FA] [EG]2 [DF][CE] |"Bb" [B,D]8- | %17
+ [B,D]C DE FG AB |"^Fade out" [Bd]8- | [Bd]2 [Ac][Bd] [Ac]2 [GB][Ac] | %20
+ [GB]2 [FA][GB] [FA]2 [EG][DF] |"F7" [EG]2 [FA]6- | [FA]3 C/D/ EF GA | [Ac]8- | %24
+ [Ac]2 [GB][Ac] [GB]2 [FA][GB] | [FA]2 [EG][FA] [EG]2 [DF][CE] |"Bb" [B,D]8- | %27
+ [B,D]8!dacoda!!fine! ||"F7" F6 [CE][DF] | [EG]6 [FA]2 |"Bb" (3[EG][FA][EG] [DF]6- | %31
+ [DF]2 [DB][DB] [DB]2 [CA][DB] |"F7" [Ec]6 [Ec][Fd] | [Ge]2 [Ge][Ge] [Ge]2 [Fd][Ec] | %34
+"Bb" [DB]3 [DB] [Fd]2 [Ec][DB] |"F7" [CA]3 [CA] [Ec]2 [DB][CA] |"Bb" [DB]8- | [DB]2 CD EF GAS || %38
+ [B,D]"^TRIO"F =EF B B2 B ||"F7" A3 D/E/ F4- | F2 CD EF GA |"Bb" G2 (3GAG F4- | %42
+ F2 [Bd][Bd] [Bd]2 [Ac][Bd] |"F7" [ce]2 [ce][df] [eg]4- | [eg]2 [eg][eg] [eg]2 [df][ce] | %45
+"Bb" [Bd]3 [Bd] [df]2 [ce][Bd] |"F7" [Ac]2 [Ac][Bd] [ce]2 [Ac]2!D.S.! |] %47
+

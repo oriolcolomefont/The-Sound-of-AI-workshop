@@ -1,0 +1,24 @@
+X:1
+T:The Breeze And I
+T:The Breeze and I
+T:Ernesto Lecuona
+T:Al Stillman
+C:Ernesto Lecuona
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ D2 |"G" G6 A2 | B4 d4 | BdBA G4- | G4 D4 |"Fm" F8- | F4 (3_EFE z2 |"G" D8- | D6 D2 | G6 A2 | %10
+w: The|breeze and|I are|say- ing with a sigh|* that|you|* no long- er|care|* the|breeze and|
+ B4 d4 | BdBA G4- | G4 D4 |"Fm" F8- | F4 (3_EFE z2 |"G" D8- | D6 z2 |"Am" A4 B2 c2 | e2 g4 e2 | %19
+w: I are|whis- per- ing good- bye|* to|dreams|* we used to|share||Ours was a|love song that|
+"G" ^f4 efed | B4 ABAG |"Em" E6 ^F2- |"D7" ^F4 D4 |"G" B8- | B4 z4 |"Am" A4 B2 c2 | e4 g2 ^f2 | %27
+w: seemed con- stant as the|moon end- ing in a|strange, mourn|* ful|tune||and all a-|bout me they|
+"G" b4 (3aba z2 | (3^fed (3BAG z4 |"Am" E6 ^F2- |"D7" ^F4 D4 |"G" G8- |"D7" G2 E2 ^F3 D |"G" G8- | %34
+w: know you have de-|part- ed with- out me and|we won|* der|why|* the breeze and|I.|
+ G4 z4 |] %35
+w: |
+

@@ -1,0 +1,26 @@
+X:1
+T:Honeysuckle Rose
+T:Honeysuckle Rose
+C:Thomas Waller
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Gm7" cBDF"C7" A4 |"Gm7" cBDF"C7" A4 |"Gm7" cBDF"C9" A2 A2 |"Gm7" A4"C9" AGFD | %4
+w: Ev- 'ry hon- ey bee|fills with jeal- ous- y|when they see you out with|me. I don't blame them|
+"F6" F2 F2"F7/A" F4- |"Bb6" F4"C7" AGFD |"F7""Bb7" F8- |"Am7" F2 z2"D7" z4 |"Gm7" cBDF"C7" A4 | %9
+w: good- ness knows|* Hon ey- suck- le|Rose.||When you're pas- sin' by|
+"Gm7" cBDF"C7" A4 |"Gm7" cBDF"C9" A2 A2 |"Gm7" A4"C9" AGFD |"F6" F2 F2"F7/A" F4- | %13
+w: flow- ers droop and sigh,|and I know the rea- son|why. You're much sweet- er|good- ness knows|
+"Bb6" F4"C7" AGFD |"F7""Bb7" F8- |"Am7" F2 z2"D7" z4 |"F7" F4 G4 |"Cm7" _A4"F7" =A4 | %18
+w: * Hon- ey- suck- le|Rose.||Don't buy|sug- ar,|
+"Bb6" z2 Bc- cB c2 | _d2 cB- B4 |"G7" G4 A4 | B4 =B4 |"C7" z2 cd- dc d2 |"C7" _e2 cc- c4 | %24
+w: you just * have to|touch my cup. *|You're my|sug- ar|it's sweet * when you|stir it up *|
+"Gm7" cBDF"C9" A4 |"Gm7" cBDF"C9" A4 |"Gm7" cBDF"C9" A2 A2 |"Gm7" A4"C7" AGFD | %28
+w: When I'm tak- in' sips,|from your tas- ty lips|Seems the hon- ey fair- ly|drips. You're con- fec- tion|
+"F6" F2 F2"F/A" F4- |"Bb6" F4"C7" AGFD |"F6" F8- | !fermata!F8 |] %32
+w: good- ness knows,|* Hon ey- suck- le|Rose.||
+

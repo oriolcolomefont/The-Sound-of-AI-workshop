@@ -1,0 +1,22 @@
+X:1
+T:Dream
+T:Dream
+C:Johnny Mercer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Bb" B4- | B c/B/ c B |"^(Em7)" A4- |"A7" A4 |"Bb6" G4- | G A/G/ A G |"Dm7" F4- |"G7" F4 | %8
+w: Dream,|* when ytou're feel- ing|blue,||Dream,|* thats the thing to|do.||
+"Cm" E4- | E F/E/"Ebm" F E |"Bbmaj7" z D"Cm7" F G |"Dm7" A4 |"C7" =E G2"C9" A | B3 A | %14
+w: Just|* watch the smoke rings|rise in the|air;|You'll find your|share of|
+"Cm7" G"F7" A"Cm7" B c- | c2"F7b9" d2 |"Bb" B4- | B c/B/ c B |"^(Em7)" A4- |"A7" A4 |"Bb6" G4- | %21
+w: mem o ries there.|* So|dream|* when the day is|through;||Dream|
+ G A/G/ A G |"Dm7" F4- |"G7" F4 |"Cm" E4- | E F/E/"Ebm" F E |"Bb" D F2"Cm7" G |"Dm7" A3 G | %28
+w: * and they might come|true.||Things|* nev er are as|bad as they|seem So|
+"Cm7" c4 |"F7" d4 |"Bb" B4- | B3 z |] %32
+w: dream,|dream,|dream.||
+

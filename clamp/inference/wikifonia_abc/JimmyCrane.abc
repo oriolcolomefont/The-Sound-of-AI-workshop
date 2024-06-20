@@ -1,0 +1,23 @@
+X:1
+T:If I give my heart to you
+T:If I give my heart to you
+T:Jimmy Crane,al Jacobs,Jimmy Brewster
+C:Jimmy Crane. Al Jacobs, Jimmy Brewster,
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 EF GEDC |"C" E8 | z2 EF GEDC |"Dm" D8 |"G7" z2 FG AFED |"Dm7" F3 c"G7" B4 | z2 Bc dcBA | %7
+w: If I give my heart to|you|will you han- dle it with|care?|will you al- ways treat me|ten- der- ly|and in ev- ry way be|
+"C" G8 |"G7" z2 EF GEDC |"C" E8 | z2 EF GEDC |"Dm" D8 |"G7" z2 FG AFED |"Dm7" F3 c"G7" B4 | %14
+w: fair?|if i give my heart to|you|will you give me all your|love?|will you swear that you'll be|true to me|
+ z2 Bc dcBd |"C" c8- |"C" c2 z2 z4 | C2 E2 G4 |"F" cA A4 AB | c8 |"C" BG G4"Gm" GA |"A7" B6 G2 | %22
+w: by the light that shines a|bove?||and will you|sigh with me when I'm|sad|smile with me when I'm|glad and|
+"Dm" AF F4 AB | cA A4 c2 |"Dm" d8- |"Fm" d"G7" z EF GEDC |"C" E8 | z2 EF GEDC |"Dm" D8 | %29
+w: al- ways be as you|are with me to-|night|* think it o- ver and be|sure|please dont an- swer til you|do|
+"G7" z2 FG AFED |"Dm7" F3 c"G7" B4 | z2 GA Bcde |"C" c8- |"C" c6 z2 |] %34
+w: When you prom- ise all these|things to me|then I'll give my heart to|you.||
+

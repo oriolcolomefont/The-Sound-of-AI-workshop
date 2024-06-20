@@ -1,0 +1,36 @@
+X:1
+T:Oh Marie
+T:Oh Marie
+C:Eduardo Di Capua
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm" e3- e"G7"d/c/=B/d/ |"Cm" c/=B/ c2- c2 z |"Fm" c3- cc/=B/c/A/ |"Cm" G/^F/ G2- G2 z | %4
+w: Come _ to the win- dow|Ma- * rie _|Please _ don't be so con-|tra- * ry. _|
+w: A- * ra- pè- te, fe-|nes- * tra, _|Fam- * m'af- fac- cià͜~a Ma-|ri- * a, _|
+"G7" =F3- FF/=E/F/G/ |"Cm" E3"Ab" E2 z |"Fm" D3- D"G7"D/^C/D/E/ |"Cm" =C3- C z z | z6 | %9
+w: Here _ in the street I|tar- ry|long- * ing to see your|face. _||
+w: Ca _ ston- go mmie- z''a|vi- a,|Spe- * ru- to p"a ve-|dè, _||
+ e3- e"G7"d/c/=B/d/ |"Cm" c/=B/ c2- c2 z |"Fm" c3- cc/=B/c/A/ |"Cm" G/^F/ G2- G2 z | %13
+w: I _ nev- er sleep a|mo- * ment, _|Night _ af- ter night I've|wait- * ed, _|
+w: Nun _ tro- vo n'o- ra͜'~e|pa- * ce; ~~|'A _ ~no- t''a fac- cio|jour- * no, _|
+"G7" =F3- FF/=E/F/G/ |"Cm" E3 E2 z |"Fm" D3- D"G7"D/^C/D/E/ ||[K:C]"C" =C2 z z2 z | %17
+w: Till _ hours * so be-|lat- ed,|Wait- * ing to see your|face.|
+w: Sem- * pe pe sta ccà͜͜~at-|tuor- no,|Spe- * ran- no͜~'e ce par-|là.|
+ z2 z z !fermata!c!fermata!d |:"C" c3- cAB | G3- GGA | AAB BBG |"G7" A3- A2 z | B3 c2 d | %23
+w: Oh Ma-|rie, _ oh Ma-|rie, _ take my|heart for it's your's can't you|see. _|I'm mad a-|
+w: Ah! Ma-|rì! _ a, Ma-|rì! _ Quan- ta|suo- no che per- do pe|te; _|Fam- m'ad- dur-|
+ (3B/c/B/ A2- AAA | BBB Bc/ z/ d |"C" (3A/B/A/ G2- Gcd | c3- cAB | G3- Gcd |"A" ee^d eeg | %29
+w: bout _ _ you, _ Tho' I|long to be- lieve you I|doubt _ _ you. _ Oh Ma-|rie, _ oh Ma-|rie, _ I can't|seem to go on dear with-|
+w: mì, _ _ _ _ Ab- bra-|cia- to nu po- co cu|te! _ _ _ _ Ah! Ma-|rì, _ a Ma-|rì, _ Quan- ta|suo- no che pe- do pe|
+"Dm" (3e/f/e/ =d2- d2 z | f3"Fm" d2 e |"C" c3- c"Adim"AB |"C" G3- G"G7"de |1 %33
+w: out _ _ you. _|You're mean't for|me, _ Oh Ma-|rie, _ Oh, Ma-|
+w: te! _ _ _ _|Fam- m'ad- dur-|mì _ Oj Ma-|rì, _ Oj Ma-|
+"C" e/d/ c2- c!fermata!c!fermata!d :|2"C" c3- c z2 |] %35
+w: .ri! _ _ _ Oh! Ma|ri! *|
+w: rì! _ _ _ Ah! Ma|rì! *|
+

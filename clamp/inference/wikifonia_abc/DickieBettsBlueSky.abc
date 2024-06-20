@@ -1,0 +1,37 @@
+X:1
+T:Blue Sky
+T:Blue Sky
+T:Words and Music by Dickey Betts
+C:Dickie Betts
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"E" GB/B/ BB/c/"B" (B2 c) z |"A" z c BB/(G/"E" E2) z2 ||"E" G/BB/ B/Bc/-"B" c<(B- B)c | %3
+w: Walk a- long- * the riv- er, *|sweet lul- la- by- *|It just keep- * on flow- * in' * *|
+w: |||
+"A" c/ee/- e/c/e"D/A" c"A" B2 B/F/ |"A" F<E- E z B2 (G<E) |"E" z2 z2 z2 z2 |"B" z2"A" z2 z2 z2 | %7
+w: it don't wor- * ry 'bout where- * it's go-|– ins * no,, no- *|||
+w: ||||
+"E" G2 B2 BB/c/-"B" c<B GB |"A" ce/c/- cB/(G/"E" E2) z2 |"E" GB/B/- B/B"B"B/ (cB/)B/- B z | %10
+w: Don't fly Mis- ter Blue- * bird I'm just|walk- in' down- * the road,- *|Ear- ly morn- * in sun- * * shine- *|
+w: Good Old Sun- day morn- * ing, bells are|ring- in' ev- * ery where, *|Goin' * Car- * o- lin- * * a *|
+"A" ce/e/- e/e(c/-"D/A" c"A"B-) BB/(F/ | E2) z2"D/A" z2"A" E2 z2 |"E" z2 z2 z2 z2 | %13
+w: tell me all- * I need- * * * to know,-|* know.||
+w: won't be long- * and I'll * * * be there,|||
+"A" z2 z2 z2 z2 |"B" B>B- B2"A" c2 (B<A) |"E" cB cB/G/"D/A" E2"A" z2 | %16
+w: |You're my- * blue sky- *|you're my sun- ny day- *|
+w: |||
+"B" B>B BB/c/-"D/A" c"A"e/(c/ B)B/B/ |"E" cB/c/- cB"A" (G<E) z2 |[M:2/4] cB/[F-A]/ FE | %19
+w: Lord, you know it makes- * me high- * when you|tuen your love- * my way.- *|Turn your love- * my|
+w: |||
+[M:4/4]"F#m7" B4 F<E- E2 || %20
+w: way, yeah. * *|
+w: |
+

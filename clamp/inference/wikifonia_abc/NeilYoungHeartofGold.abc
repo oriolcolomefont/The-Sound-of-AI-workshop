@@ -1,0 +1,30 @@
+X:1
+T:Heart of Gold
+C:Neil Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+|:"Em" z2 [B,EG][B,EG] [B,EG][B,EG][B,EG][B,EG] |"D" [A,DF]2 [A,DF]"Em"[G,B,E]- [G,B,E]4 :| %2
+w: ||
+w: ||
+"Em" z G GG"C" e4 |"D" z d dA"G" B4 |"Em" z G GG"C" ee ee |"D" d2 AB-"G" B2 z2 | %6
+w: I want to live,|I want to give|I've been a mi- ner for a|heart of gold. *|
+w: I've been to Hollywood|I've been in Redwood|I crossed the o- cean for a|heart of gold _|
+"Em" z G GG"C" e2 ed |"D" z d dA"G" B4 |"Em" z E BA BA GE |"G" B2 ed- d2 B2 |"C" z2 EE GG/G/- G2 | %11
+w: It's these ex- pres- si- ons|I ne- ver give|that keep me search- ing for a|heart of gold _ _|and I'm get- ting old. *|
+w: I've been in my mind _|It's such a fine~line|that keeps me search- ing for a|heart of gold _ _|and I'm get- ting old *|
+ [G,CE][G,CE] z"G" [G,B,D]- [G,B,D]4 |"Em" z2 BB BA GE |"G" B2 ed- dB- B2 |"C" z2 EE GG/G/- G2 | %15
+w: |Keep me search- ing for a|heart of gold _ _ _|and I'm get- ting old. *|
+w: ||||
+"Am" [G,CE][G,CE] z"G" [G,B,D]- [G,B,D]4 ||"Em" z2 BB BB BB |"D" A2 DE-"Em" E2 z2 | z E BB BB BB | %19
+w: |Keep me sear- ching for a|heart of gold. *|You keep me sear- ching and I'm|
+w: ||||
+"D" A2 GG-"Em" G3 z |] %20
+w: grow- ing old. *|
+w: |
+

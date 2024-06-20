@@ -1,0 +1,30 @@
+X:1
+T:A Dreamer's Holiday
+T:A Dreamers Holiday
+C:Mabel Wayne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Bb" D>FB>d c>BF>D |"A7" ^C>=EG>B A4 |"Cm7" C>EG>B"F7" A>FD>C |"G7" =B,>DF>_A G4 | %4
+w: Climb a- board a but- ter- fly and|take off on a breeze,|let your wor- ries flut- ter by and|do the things you please.|
+"Eb" C>EG>B"Ebm6" c>B_G>E |"Bb" D>AD>A"G7" =G4 |"C7" G>AG>A G2"C7b5" DC- | %7
+w: In the land where dol- lar bills are|fall- ing off the trees|on a dream- er's hol- i day.|
+"F7" C4-"Cm7b5" C2"F7" z2 |"Bb" D>FB>d c>BF>D |"A7" ^C>=EG>B A4 |"Cm7" =C>EG>B"F7" A>FD>C | %11
+w: _ _|Ev- 'ry day for break- fast there's a|dish of scramb- led stars,|and for luch- eon you'll be munch- in'|
+"G7" =B,>DF>_A G4 |"Eb" C>EG>B"Ebm6" c>B_G>E |"Bb" D>AD>A"G7" G4 |"C7" G>AG>A"Cm7" G2"F7" FB- | %15
+w: rain- bow cand- y bars.|You'll be liv- in' a la mode on|Jup- i- ter and Mars|on a dream- er's hol- i day.|
+"Bb7" B8 |"Fm7" =B>c_AG-"Bb7" G2 F2 |"Eb" B2 B4 z2 |"Fm7" =B>c_AG-"Bb7" G2 F2 |"Eb" B8 | %20
+w: _|Make it a long * va-|ca- tion|time there is plen- * ty|of.|
+"Gm7" ^c>dBA-"C7" A2 G2 |"F" =c2 c4"Fdim" =B2 |"Gm7" B>cB>c"C7" A2 C2 | %23
+w: You need no res- * ser-|va- tion just|bring a- long the one you|
+"F7""Gm7" F4-"G#dim" F2"F7" z2 |"Bb" D>FB>d c>BF>D |"A7" ^C>=EG>B A4 |"Cm7" =C>EG>B"F7" A>FD>C | %27
+w: love. _|Help your- self to hap- pi- ness and|sprin- kle it with myrth|Close your eyes and con- cen- trate and|
+"G7" =B,>DF>_A G4 |"Eb" C>EG>B"Ebm6" c>B_G>E |"Bb" D>AD>A"G7" G4 |"C7" G>AG>A"Cm7" G2"F7" FB- |1 %31
+w: dream for all your'e worth.|You wil feel ter- ri- fic when you|get back down to earth|from a dream- er's hol- i- day!|
+"Bb" B4- B2 z2 :|2 B4- B2 z2 |] %33
+w: ||
+

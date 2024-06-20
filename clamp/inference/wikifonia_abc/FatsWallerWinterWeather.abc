@@ -1,0 +1,23 @@
+X:1
+T:Winter Weather
+T:Winter Weather
+T:Ted Shapiro
+C:Fats Waller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ CDF |"C7" cA z2 z4 |"F/A" FD"Abdim" z2"Abdim" z2 cA |"Gm" cA"C9" c2"C9" c c2 A |"F" FD z2 z DEG | %5
+w: i love the|win- ter|wea- ther so the|too of us can get to-|get- her there's no- thing|
+"D" d=B z2 z4 |"G/B" GE"Bbdim" z2"Bbdim" z2 dd |"Am7" d2 d"D9"=B"D9" z2 z2 | %8
+w: swee- ter|fin- er when it's|nice and cold|
+"Dm6" c2"G7" c2"G7" A CDF |"C9" cA z2 z4 |"F/A" FD"Abdim" z2"Abdim" z2 cA | %11
+w: I can hold my ba by|clo- ser|to me and col-|
+"Gm7" c2 c"C7"A"C7" c2 AF- |"F" FD z2 z DEG |"Am7" d=B"D9" z2"D9" z4 |"G9" G"G9"E z2 z2 cA | %15
+w: lect all the kiss- es do|_ me I love the|win- ter|wea- ther 'cause I|
+"Gm7" cAc"C7"A"C7" c2 AF- |"F" F8 |] %17
+w: got my love to keep me warm||
+

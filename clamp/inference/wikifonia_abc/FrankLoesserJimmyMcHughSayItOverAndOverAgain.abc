@@ -1,0 +1,30 @@
+X:1
+T:Say It Over And Over Again
+T:Say It Over And Over Again
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B"Cm7" B3 |"Fm7" (3c A F"Bb7" (3d B G |"Eb""Cm" E4 |"Fm7" (3c A F"Bb7" (3d B G |"Eb""Cm" E4 | %5
+w: Say it|ov- er and- * ver a-|gain,|Over- and o- * er a-|gain,|
+"Fm7" (3B A B"Bb7" (3G E F |"Eb""Cm" G4- |"Fm7" G z"Bb7" z2 |"Eb" B"^Cm,7" B3 | %9
+w: Nev- er stop say- ing your|mine.|_|Say it|
+"Fm7" (3c A F"Bb7" (3d B G |"Eb""Cm" E4 |"Fm7" (3c A F"Bb7" (3d B G |"Eb""Cm" E4 | %13
+w: ev- er and ev- er so|sweet,|Ev- er and ev- er so|sweet,|
+"Fm7" (3B A B"Bb7" (3G E F |"Eb""Cm" G4- |"Fm" G z"G7" z2 |"C" G/=A/=B/c/ d/ d c/ | %17
+w: Just like an old val- en-|tine.|_|When you say, "I love you", the|
+"Fm" d/ d c/"C" d/ d c/ |"F#dim" d/ d c/"C" d/ d c/ |"Dm7""G7" G4 |"C" G/=A/=B/c/ d/ d c/ | %21
+w: sam old "I love you" they|whis- per in sto- ries and|plays,|You can change "I love you" the|
+"F#dim" d/ d c/"Fm" d/ d c/ |"C" d/ d c/"F#dim" d/ d c/ |"Dm7""G7""Fm7" G3"Bb7" F |"Eb" B"Cm7" B3 | %25
+w: same old "I love you" To|oh! such a heav- en- ly|phrase. So|say it|
+"Fm7" (3c A F"Bb7" (3d B G |"Eb""Cm" E4 |"Fm7" (3c A F"Bb7" (3d B G |"Cm" e4 | %29
+w: soft- ly and gent- ly and|then|Ov- er and ov- er a-|gain,|
+"Fm7" (3B A B"Bb7" (3G E F |"Eb""Ab" E4- |"Eb" E z z2 |] %32
+w: Nev- er stop say- ing you're|mine.||
+

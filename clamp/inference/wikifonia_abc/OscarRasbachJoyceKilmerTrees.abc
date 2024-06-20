@@ -1,0 +1,30 @@
+X:1
+T:Trees
+T:Trees
+T:Oscar Rasbach
+T:Joyce Kilmer
+C:Oscar Rasbach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z aag ge e2 | z aag ge e2 || z AAG GEEC |"Dm" D3"Fmaj7" E"Dm" D3"Fmaj7" E |"Fm6" DEED DCCA, | %5
+w: ||I think that I shall nev- er|see * * *|* A po- em love- ly as a|
+"C7" C3"C9" D"C7" C3 C |"F" z CCD"Gbdim" D_EEc |"C" c4 G2 z2 |"C+" z CCD DEEc | %9
+w: tree * * *|A tree whose hun- gry mouth is|pressed *|a- gainst the earth's sweet flow- ing|
+"Fmaj7" e4- ec"Bm7b5"B"F"A |"C" E3"F" F"C" G3 E |"D9" A4- A"G9"A,B,C | F2 F2"Em""G+" E3 ^D || %13
+w: breast * A tree that|looks at God all|day * And lifts her|leaf- y arms to|
+"C" Eaag ge e2 | z aag ge e2 || z AAG GEEC |"Dm" D3"Fmaj7" E"Dm""^," D3"Fmaj7" E | %17
+w: pray * * * * * *||A tree that may in sum- mer|wear * * *|
+"Fm6" DEED DCC_A, |"C7" C3"C9" d"C7" c3 c |"F" z CCD"Gbdim" D_EEc |"C" c4 G2 z2 |"C7" z CCD DEEc | %22
+w: * A nest of rob- ins in her|hair * * *|Up- on whose bos- om snow has|lain *|Who in- ti- mate- ly lives with|
+"F" c4-"Fm" cddc |"C" e3 c"Gbdim" B2 A2 |"C" E4- EEFG |"Dm7" A3 A,"G9" E3 E ||"C" Caag ge e2 | %27
+w: rain * Po- ems are|made by fools like|me * But on- ly|God can make a|tree. * * * * * *|
+ z aag geeC |"D9/A" E4"Fm7/Ab" ^D4 |"C" E6 z2 |] %30
+w: |||
+

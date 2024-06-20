@@ -1,0 +1,37 @@
+X:1
+T:Fiesta Mexicana
+T:Fiesta Mexicana
+T:Musik: Ralph Siegel
+T:2
+T:Fiesta Mexicana
+T:2. Fiesta, Fiesta Mexikana Auf der kleinen Plaza da lacht man und singt. Fiesta, Fiesta Mexikana Wenn zum letzten Tanz die Gitarre erklingt. Huanita, Pepe, ja wir drei Sagen noch einmal Goodbye, wir machen: Fiesta, Fiesta Mexikana Weil das bunte Leben die Liebe zu uns bringt. Adios, adios Mexiko.... 
+C:Ralph Siegel
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Sopran"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"^G" G2 G2 G^FGA | B2 B2 BABc |"^D" d"^Arr.: Christine Anderson"d e d2 A c2 |"^G" B8 | %4
+w: 1.Fies ta Fies- ta Mex- i-|ka- na heut geb ich zum|Ab- schied für al- le ein|Fest|
+ G2 G2 G^FGA | B2 B2 BABc |"^D" dd e d2 A c2 |"^G" B8 |"^C" c2 c2 cBcd | e8 |"^D" d2 d2 d^cde | %11
+w: Fies- ta- Fies- ta Mex- i-|ka- na es gibt viel Te-|qui- la der glück- lich sein-|lässt|al- le Freun- de sie sind|hier|fei- ern noch- ein- mal- mit|
+ ^f2 e2 d2 A2 |"^G" G2 G2 G^FGA | B2 B2 BABc |"^D" dd e d2 c BA | G6 G2 |"^C" e4 e4- | %17
+w: mir wir mach- *|Fies- ta Fiest- ta Mex- i-|ka- na weil ihr dann den|All- tag, die Sor- gen schnell ver-|gesst. Ad-|i- os|
+ e2 d2 e2 f2 | e3 d c4- | c2 e2 f2 e2 |"^G" g4 g4- | g2 a2 g3 f |"^C" e6 G2 | e4 e4- | %24
+w: _ Ad- i- os|Mex- i- ko|_ ich kom- me|wie- der|_ zu dir zu-|rück Ad-|i- os|
+ e2 d2 e2 f2 | e3 d c4- | c2 e2 f2 e2 |"^G" g d2 e g d2 e | g d2 e g2 fe |"^C" d c4- c Bc | %30
+w: _ Ad- i- os|Me- i- ko|_ ich grüss mit|mei- nem- Som- bre- ro- te|quie- ro ich ha- be dich|so lieb. _ _ _|
+"^D" d2 c2 B2 A2 :|"^G" G2 G2 G^FGA | B2 B2 BABc |"^D" dd e d2 A c2 |"^G" B8 | G2 G2 G^FGA | %36
+w: _ _ _ _|3.Fies ta Fies- ta Mex- i-|ka- na bald- schon wird es|hell denn der Mor- gen ist|da|und ich küs- se Car- men-|
+ B2 B2 BABc |"^D" dd e d2 A c2 |"^G" B8 |"^C" c2 c2 cBcd | e8 |"^D" d2 d2 d^cde | ^f2 e2 d2 A2 | %43
+w: Si- ta denn ich weiss die|Stun- de des Ab- schieds ist|nah|wei- ne nicht muss ich auch|geh´n|weil wir uns ja wie- der|seh´n bei ei- ner|
+"^G" G2 G2 G^FGA | B2 B2 BABc | dd e d2 c BA |"^G" G6- G2 | G2 G2 G^FGA | B2 B2 BABc | %49
+w: Fies- ta Fies- ta Mex- i-|kan- na dann wird al- les|wie- der so schön wie es mal|war. _|La- la- la- la- la- la-|la- la- la- la- la- la-|
+ dd e d2 A c2 | B8 | G2 G2 G^FGA | B2 B2 BABc | dd e d2- d2 z | dd e d2 c BA | G6- G2 |] %56
+w: la- la- la- la la ho-|ho|Fies- ta Fies- ta Mex- i-|kan- na dann wird al- les|wie- der so schön _|al- les so schön wie es mal|war _|
+

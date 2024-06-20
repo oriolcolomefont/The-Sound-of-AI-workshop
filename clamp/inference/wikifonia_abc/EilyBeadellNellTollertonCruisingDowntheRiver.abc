@@ -1,0 +1,31 @@
+X:1
+T:Cruising Down the River
+T:Cruising down the river
+T:Eily Beadell, Nell Tollerton
+C:Eily Beadell , Nell Tollerton
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" e2 ^d | e2 ^d |"A7" e g2 | z f e |"D" d2 e | d2 c |"D7" A2 z | z2 ^A |"G" B2 ^A |"G7" B2 c | %10
+w: Cruis- ing|down the|ri- ver|on a|Sun- day|af- ter-|noon|with|one you|love, the|
+w: ||||||||||
+"G" d2 ^c |"G7" d2 z |"C" c2 e |"A7" a2 e |"G" g2 z |"G7" z/ G/ A/B/ c/e/ |"C" g2 ^f | g2 ^f | %18
+w: sun a|bove,|wait- ing|for the|moon.|* * * * The|old ac-|cord- ion|
+w: ||||||two of|us to-|
+"A7" a g2- | g z e |"D" d2 e | d2 c |"D7" A3 | z c/B/ A/_A/ |"C" G2 A |"F" c2 d |"C" e g2 | %27
+w: play- ing|* a|sen- ti-|men- tal|tune,||Cruis- ing|down the|ri- ver|
+w: geth- er,|* we'll|plan a|hon- ey-|moon,||Cruis ing|down the|ri- ver|
+"A7" z e g!dacoda! |"D7" e2 d |"G7" A2 B |"C" c3 | z2 c |"C7" c2 ^c | d2 _d |"F" c2 ^c | d2 _d | %36
+w: on a|Sun- day|af- ter-|noon.|The|birds a-|bove all|sing of|love, a|
+w: on a|||||||||
+"C7" c2 ^c | d2 e |"F" d3- | d z d |"D7" d2 ^d | e2 _e |"G" d2 ^d | e2 _e |"D7" d2 ^d | e2 c | %46
+w: gen- tle|sweet re-|frain.|* The|winds a-|round all|make a|sound like|soft- ly|fall- ing|
+w: ||||||||||
+"G" d3 |"G7" z2 G!D.S.! ||"D7" e2"^Coda" d |"G7" a2 b |"C" c'/c'/ g e | c c' z |] %52
+w: rain.|Just|Sun- day|af- ter-|noon. * * *||
+w: ||||||
+

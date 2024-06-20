@@ -1,0 +1,31 @@
+X:1
+T:Solfeggi in chiave di violino ad uso delle scuole medie
+C:Alberto Marafioti
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ C2 | D2 | E2 | F2 | G2 | F2 | E2 | D2 | C2 | D2 | E2 | F2 | G2 | A2 | G2 | F2 | E2 | D2 | C2 |] %19
+"^numero 2 - uso di 2/4" C D | E F | G F | E D | C D | E F | G A | G F | E D | C D | C D | E F | %31
+ G A | B c | d e | f g | f e | d c | B A | G F | E D | C C |]"^numero 3 - uso di 2/4" C2 | D E | %43
+ F/G/ A/B/ | c B | A/G/ F/E/ | D E | D C | D/E/ F/G/ | A B | c2 | G2 | E2 | D/E/ F/D/ | C2 |] %55
+[M:3/4]"^numero 4 - uso di 3/4\n" C3 | D3 | E3 | F3 | G3 | A3 | B3 | c3 | B3 | A3 | G3 | F3 | E3 | %68
+ D3 | C3 |][M:4/4]"^numero 5 - uso di 4/4" C4 | D4 | E4 | F4 | D4 | E4 | F4 | G4 | E4 | F4 | G4 | %81
+ A4 | F4 | G4 | A4 | B4 | G4 | A4 | B4 | c4 | A4 | B4 | c4 |] %93
+[M:2/4]"^numero 6 - completa / solfeggia" C2 | D2 | E2 | D2 | E2 | F2 | E2 | F2 | G2 | F2 | G2 | %104
+ A2 | G2 | F2 | E2 | D2 | C E | G B | c d | e d | e f | g f | e d | c B | A G | F E | D C | %120
+ D/E/ F/G/ | A/G/ F/E/ | D E | C2 |][M:3/4]"^numero 7 - completa e solfeggia" C D C | D E D | %126
+ E F E | D3 | E F E | F G F | G A G | A B A | B c B | A3 | B c d | c B A | G3 | E3 | C3 |] %139
+[M:4/4]"^numero 8 - uso di  4/4" C4 | E2 G2 | c B A G | F/E/D/C/ D E | F2 G2 | E4 | D4 | C2 D2 | %147
+ E F G A | B/c/d/e/ f/g/f/e/ | d c B2 | A2 G2 | F E D2 | C D C E | D D C2 | G2 C2 | E2 C2 | %156
+ D E D D | C D C E | C4 |][M:3/4]"^numero 9 - uso di 3/4" C3 | E3 | G3 | c3 | G F z |"_1" E D z | %165
+"_1""_1" C D z | E F z | G A z | B c z | d e z | f g z | f z e | z d z | c3 | B3 | A3 | G3 | %177
+ F/E/ D/C/ D/E/ | F/G/ F/G/ z | E D z | C3 |][M:4/4]"^numero 10 - uso di 4/4" C4 | D4 | E4 | D4 | %185
+ E2 F2 | G A B c | d2 z2 | c2 z2 | B2 z2 | z4 | A G F z | E D C z | g f z2 | e d z2 | c2 B2 | %196
+ A2 z2 | G2 z2 | F2 z2 | E2 z2 | D2 z2 | C4 |] c4 | c2 z2 | %204
+"^piccolo schema delle figure e delle pause studiate" c z z2 | c/c/ z z2 | z4 | z4 | z4 |] %209
+

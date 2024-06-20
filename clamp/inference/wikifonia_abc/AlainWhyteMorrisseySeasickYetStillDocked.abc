@@ -1,0 +1,48 @@
+X:1
+T:"SEASIDE, YET DOCKED"
+C:Borror
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"G" C D2 D E2 |"D" F F2 F E2 |"G9" C D2 D E2 |"D" A G2 F2 E |"Bm" z2 z D D E |"F#m" E- C4 z | %6
+w: ||||I am a|poor _|
+"A" C E E E- A A- |"D" A3"E" z2 z |"Bm" z2 z F E D |"F#m" E2 z2 z2 |"A" z C C C C C | %11
+w: freez ing ly cold _ soul|_|so far from|where|I in tend ed to|
+"G" D- B, z"A" z2 z |"G" C D2 D E2 |"D" F F2 F E2 |"G9" C D2 D E2 |"D" A G2 F2 E |"Bm" z2 z D D E | %17
+w: go _|_ _ _ _||||Scav eng ing|
+"F#m" E4 z2 |"A" C E E E A- A |"D" A3"E" z2 z |"Bm" z2 z F E D |"F#m" E2 z2 z2 |"A" z C C C C C | %23
+w: thru|Life's ver y con stant _|lows|so far from|where|I'm de ter mined to|
+"G" D- B, z"A" z2 z |"G" C D2 D E2 |"D" F F2 F E2 |"G9" C D2 D E2 |"D" A G2 F2 E | %28
+w: go _|_ _ _ _||||
+"Bm" z2 D D E E/E/- |"F#m" E2 z2 z C |"A" C E E E- A A- |"D" A3"E" z2 z |"Bm" z2 z2 z2 | %33
+w: Wish I knew the way|_ to|reach the one I _ love|_||
+"F#m" z2 z2 z D |"A" E C C4 |"G" z3"A" z3 |"G" C D2 D E2 |"D" F F2 F E2 |"G9" C D2 D E2 | %39
+w: There|is no way|||||
+"D" A G2 F2 E |"Bm" z D D D E E- |"F#m" C2 z2 C C |"A" C E E E- A A- |"E" A3"D" z2 z | %44
+w: |Wish I had the charm|_ to at|tract the one I _ love|_|
+"Bm" z F E F- E2 |"F#m" z3 z C2 |"A" E C C- C3 |"G" z3"A" z3 |"G" C D2 D E2 |"D" F F2 F E2 | %50
+w: but you see _|I've|got no charm _||||
+"G9" C D2 D E2 |"D" A G2 F2 z |"Bm" z2 D D D C |"F#m" C2 z z2 A, |"A" C- C E E A A- | %55
+w: ||To nite I've con|sumed Much|more _ than I can hold|
+"D" A2 z"E" z3 |"Bm" z3 F E- E |"F#m" D- C2 z3 |"A" z C C C C D- |"G" B,2 z"A" z3 |"G" C D2 D E2 | %61
+w: _|All this _|is _|ver y clear to you|_||
+"D" F F2 F E2 |"G9" C D2 D E2 |"D" A G2 F2 E |"Bm" z2 z D D E |"F#m" E- C4 C- |"A" C C C E E A | %67
+w: |||and you can|tell _ that|_ I have nev er real|
+"D" A A2"E" z3 |"Bm" z F E F3 |"F#m" E D C z3 |"A" z3 C C C |"G" D- B,- B,"A" z3 |"G" C D2 D E2 | %73
+w: ly loved.|You can tell|by the way|i sleep all|day _ _|_ _ _ _|
+"D" F F2 F E2 |"G9" C D2 D E2 |"D" A G2 F2 E |"Bm" z2 D D D E- |"F#m" E2 z z E C- | %78
+w: |||And all my life|_ No one|
+"A" C C E- E E A |"D" A3"E" z3 |"B" z F E- E D E |"F#m" C z2 C C C |"A" E E C z3 |"G" z3"A" z3 | %84
+w: _ gave me _ an y|thing|No one _ has ev|er giv en me|an y thing||
+"G" C D2 D E2 |"D" F F2 F E2 |"G9" C D2 D E2 |"D" A G2 F2 E |"Bm" z2 D D- D E |"F#" C2 z E- E D | %90
+w: ||||My love _ is|sharp as _ a|
+"A" C- C E E A- A |"D" A3"E" z3 |"Bm" z F E F F F |"F#m" E3- C3 |"A" z2 C C C D- |"G" B,3"A" z3 |: %96
+w: nee _ dle in your _|eye|You must be such a|fool _|to pass me by|_|
+"Bm" z3"F#/A#" z3 |"A" z3"E/G#" z3 |"G" z3"D" z3 |"E" z3"F#" z3 :| %100
+w: ||||
+

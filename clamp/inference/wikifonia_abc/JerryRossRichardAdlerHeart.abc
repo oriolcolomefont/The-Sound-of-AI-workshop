@@ -1,0 +1,27 @@
+X:1
+T:Heart
+T:Heart
+T:Richard Addler and Jerry Ross
+C:Jerry Ross, Richard Adler
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." G2 fe f2 |:"Dm7" g8 |"G7" z2 ag agag |"C" e8 |"A7" z2 ag age^d |"Dm7" eccc- c4 | %6
+w: You've got- ta have|heart|all you real- ly need is|heart|when the odds are say- in|you'll nev- er win *|
+"Fm" eccc- c2 d2 |"C" e8 | z2"^N.C." G2 fe f2 |"Dm7" g8 |"G7" z2 ag agag |"C" e8 | %12
+w: that's when the grin * should|start|you've got- ta have|hope|must- nt sit a- round and|mope|
+"A7" z2 ag age^d |"Dm7" eccc- c4 |"Fm" eccc- c2 _A2 |"C" c8- | c2 cd edcB |"Gm7" _BB- B6- | %18
+w: Noth- in's half as bad as|it may ap- pear *|wait- ll next year * and|hope|* when your luck is bat- ting|ze- ro *|
+"C7" _B2 cd edc_B |"F" A8- | A2 de ^fed_d |"Am7" cc- c6- |"D7" c2 de ^fedc | %23
+w: * get your chin up off the|floor|* mis- ter you can be a|he- ro *|* you can o- pen an- y|
+"G" BG"^N.C."GG"Dm7" AG"^N.C."GG |"G7" A G2"C" G fe f2 |"Dm7" g8 |"G7" z2 ag agag |"C" e8 | %28
+w: door there's noth- in' to it but to|do it you"ve got- ta have|heart|miles n' miles n'- miles of|heart|
+"A7" z2 ag age^d |"Dm7" eccc- c3 B |"Fm" eccc- cdcd |"Gm" e8 |1"A7" z2"^N.C." ag"Dm7" fe"G7" d2 || %33
+w: oh its fine to be a|gen- ius of course * but|keep that old horse * be- fore the|cart|first you've got ta have|
+"C" c8 | z2 G2"C" fe f2 :|2"A7" z2"^N.C." ag"Dm7" fe"G7" d2 ||"C" c8- | c2 z2 z4 |] %38
+w: heart!|you've got- ta have|first you've got- ta have|heart.||
+

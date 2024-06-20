@@ -1,0 +1,22 @@
+X:1
+T:Love Makes The World Go Round
+T:Love makes the world go round
+T:(theme from Carnival)
+T:Bob Merrill
+C:Bob Merrill
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Eb" E3 | G2 B |"Ab" c2"Eb" B | E3 | E G"Ab" c |"Eb" B2 D |"Bb7" B3- | B2 z | d d/e/ d- | d2 A | %10
+w: love|makes the|world go|round|love makes the|world go|round||some- bo- dy soon|* will|
+"Fm" c"Bb7" B2- | B2 z | B"Ab" c"^Bb&" d |"Fm7" c2"Bb" A |"Eb" G3- | G2 z | E3 | G2 B | %18
+w: love you||if no one|loves you|now||high|in some|
+"Ab" c2"Eb" B | E3 | F G"^AB" c |"Eb" B2 D |"Bb7" B3- | B2 z | d d/e/ d- | d2 A |"Fm7" c"Bb7" B2- | %27
+w: si- lent|sky|love sings a|sil- ver|song||mak- ing the earth|* whirl|soft- ly|
+ B2 z |"Bb7" B d"Fm7" c |"Bb" A2 D |"Eb" E3- | E2 z |] %32
+w: |love makes the|world go|round||
+

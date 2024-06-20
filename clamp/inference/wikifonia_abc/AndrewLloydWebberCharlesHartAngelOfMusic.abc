@@ -1,0 +1,78 @@
+X:1
+T:Angel Of Music
+T:Angel Of Music
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" d>cB"F/Bb" c2 A |"Eb/Bb" G2 c"F/Bb" A F2 |"Bb" d>cB"F/Bb" F3 |"Bb" D B2-"Bbsus4" B2 z | %4
+w: Where in the world have|you been hid- ing?|Real- ly you were|per fect. _|
+w: ||||
+"Bb" d>cB"F/Bb" c2 A |"Eb/Bb" G2 c"F/Bb" A F2 |"Bb" d>cB"F/Bb" F3 |"Bb" D B2- B2 z | %8
+w: I on- ly wish I|knew your se- cret;|Who is this new|tu- tor? _|
+w: ||||
+"Bb/F" d2 c/B/"F" c2 A |"Eb/F" G2 c"F" A F2 |"Bb/F" d2 c/B/"F" F3 |"Bb" DEF B,DF |"Gm" BAG FED | %13
+w: _ _ _ _ _||||Fath- er once spoke of an|
+w: |||||
+"Eb" D G2- G2 z |"Cm" GFE E>DC |"D7/C" D6 |"Gm" BAG FED |"Eb" D G2- GGA |"Cm7" B3"Absus4" d3 | %19
+w: an- gel, _|I used to dream he's ap-|pear.|Now as I sing I can|sense him _ and I|know he's|
+w: ||||||
+"F" c6 |"Bb" d>cB"F/Bb" c2 A |"Eb/Bb" G2 c"F/Bb" A F2 |"Bb" d>cB"F/Bb" F3 | %23
+w: here.|Here in this room he|calls me soft- ly,|some- where in- side|
+w: ||||
+"Bb" D B2-"Bbsus4" B2 z |"Bb" d>cB"F/Bb" c2 A |"Eb/Bb" G2 c"F/Bb" A F2 |"Bb" d>cB"F/Bb" F3 | %27
+w: hid- ing. _|Some- how I know he's|al- ways with me;|he, the un- seen|
+w: ||||
+"Bb" D B2- B2 z |"Gm""^MEG" BAG FED |"Eb" D G2- G2 z |"Cm" GFE E>DC |"D7/C" D6 |"Gm" BAG FED | %33
+w: gen- ius. _|I watched your face from the|sha- dows _|dis- tant through all the ap-|plause.|I hear your voice in the|
+w: ||||||
+"Eb" D G2- GGA |"Cm7" B3"Absus4" d3 |"F" c6 ||[K:Db]"Db""^CHRISTINE" f>ed"Ab/Db" e2 c | %37
+w: dark- ness _ yet the|words aren't|yours.|An- gel of mu- sic,|
+w: ||||
+"Gb/Db" B2 e"Ab/Db" c A2 |"Db" f>ed"Ab/Db" A3 |"Db" F d2-"Gb/Db" d2 z | %40
+w: guide and guard- ian,|grant to me your|glo- ry! *|
+w: |||
+"Db""^MEG" f>ed"Ab7/Db" e2 c |"Gb/Db" B2 e"Ab/Db" c A2 |"Db" f>ed"Ab/Db" A3 | F d2- d2 d | %44
+w: An- gel of mu- sic|hide no lon- ger,|se- cret and strange|an- gel. _ He's|
+w: ||||
+"^CHRISTINE UPPER LINE" d"^PLAY Db IN BASE FOR NEXT 5 MEASURES"AF d_cB | =B^F^D B=A^G | %46
+w: with me ev- en now, *|* * all a- round me,|
+w: * * * * (MEG) Your|hands are cold; * * your|
+ =A=E^C A=G^F | =G=DB, G^F=E | D,6 ||[K:Bb]"Bb""^PHANTOM" d>cB c2 A | G2 c A F2 | d>cB F3 | %52
+w: * * * * * it|fright- ens me. * * *||In- so- lent boy, this|slave of fash- ion,|bask- ing in our|
+w: (MEG)~~face, Christ- ine is white; *|* * don't be fright- ened!|||||
+"Bb" D B2- B2 z | d>cB"F/Bb" c2 A |"Eb/Bb" G2 c"F/Bb" A F2 |"Bb" d>cB"F/Bb" F3 |"Bb" D B2- B2 z || %57
+w: glo- ry. *|Ig- nor- ant fool, this|brave young suit- or,|shar- ing in my|tri- umph. _|
+w: |||||
+[K:B]"B""^CHRISTINE" d>cB"F#/B" c2 A |"E/B" G2 c"F#/B" A F2 |"B" d>cB"F#/B" F3 | %60
+w: An- gel I hear you!|Speak I lis- ten.|Stay by my side,|
+w: |||
+"B" D B2-"Bsus4" B2 z |"B" d>cB"F#/B" c2 A |"E/B" G2 c"F#/B" A F2 |"B" d>cB"F#/B" F3 | %64
+w: guide me! _|An- gel, my soul was|weak; for- give me!|En- ter at last,|
+w: ||||
+"B" D B2- B2 z |"G#m""^PHANTOM" BAG FED |"Emaj7" D G2- G2 z |"C#m7" GFE E>DC |"D#/C#" D6 | %69
+w: mas- ter! _|Flat- ter- ing child you shall|know me, _|see why in sha- dow I|hide.|
+w: |||||
+"G#m" BAG FED |"Emaj7" D F2 GGA |"C#m7" B3"Asus4" d3 |"F#" c6 || %73
+w: Look at your face in the|mir- ror- * I am|there in-|side.|
+w: ||||
+[K:D]"D""^CHRISTINE" f>ed"A/D" e2 c |"G/D" B2 e"A/D" c A2 |"D" f>ed"A/D" A3 | %76
+w: An- gel of mu- sic,|guide and guar- dian,|grant to me your|
+w: |||
+"D" F d2-"Dsus4" d2 z |"D" f>ed"A/D" e2 c |"G/D" B2 e"A/D" c A2 |"D" f>ed"A/D" A3 |"D" F d2- d2 z | %81
+w: glo ry! _|An- gel of mu- sic,|hide no long- er!|Come to me, strange|an- gel! _|
+w: |||||
+[M:4/4]"^PHANTOM" D2"^PLAY   D IN BASE TO LAST MEASURE" DE E2 DD |[M:2/4] D A2 z | %83
+w: I am the an- gel of|mu- sic;|
+w: ||
+[M:4/4] D2 DE E2 DD |[M:2/4] D A2 z |[M:6/8]"^RAOUL" c>BA B2 ^G | F2 B ^G E2 | %87
+w: come to me an- gel; of|mu- sic!|Whose is that voice? Who|is that in there?|
+w: ||||
+[M:4/4]"^PHANTOM" D2 DE E2 DD |[M:2/4] D A2 z |[M:4/4] D2 DE E2 DD |[M:2/4] D A2 z |] %91
+w: I am your an- gel of|mu- sic;|come to me, an- gel of|mu- sic!|
+w: ||||
+

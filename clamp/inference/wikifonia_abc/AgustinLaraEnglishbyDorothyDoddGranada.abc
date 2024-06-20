@@ -1,0 +1,40 @@
+X:1
+T:Granada
+T:Granada
+C:Agustin Lara
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z3/2 E/ |"Am" A2 G2- | G E C D | E/ G F/ E2- | E3 E/E/ | A3/2 A/ B B/B/ | G/G/G/G/ A A/A/ | %7
+w: Gra-|na- da,|_ I'm fall- ing|un- der your spell,|_ And if|you could speak what a|fas- cin- a- ting tale you would|
+ E4- | E3"^N.C." E/^G/ |"E" B2- B/B/B/B/ |"F" c d"E" (3(c/4d/4)c/4 B/- B- | B3 E/^G/ | %12
+w: tell,|_ Of an|age _ the world has|long for- got- * * ten, _|_ Of an|
+ B2- B/B/B/c/ |"F" B/B/ c- c/c/c/c/ |[M:3/4] !fermata!f c A | %15
+w: age _ that weaves a|si- lent mag- * ic in Gra-|na- da to-|
+[M:2/2]"E" e/ (3E/4^G/4B/4 e/e/ z/ e/ z/ e/ |"Dm7" f"G7" g z E |"C" G G2 G |"C6" A A2 A | %19
+w: day! * * * * * * *|* * The|dawn in the|sky greets the|
+"Em" B B2 B |"C" c"Cmaj9" d2"Ebdim" B |"Dm7" (3(A/4B/4)A/4"G7" G3/2- G2- | G4- |"G7" G4- | G2 D z | %25
+w: day with a|sigh for Gra-|na- * * da, _|_||* For|
+ G G2 G |"G9" A A2 A |"G7" B B2 B |"Dm7" c"G7" d2 B |"C" (c/4d/4)c/4B/4"C6" A- A2- | A4- | A4- | %32
+w: she can re-|mem- ber the|splen- dour that|once was Gra-|na- * * * da, _|_||
+ A2 z E |"C" G G2 G |"C6" A A2 A |"Em" B B2 B |"C" c d2 c |"Em" e/d/4c/4 B3- | B4- | B4- | B2 z B | %41
+w: * It|still can be|found in the|hills all a-|round as I|wand- er a- long,|_||* En-|
+"B7" B ^F2"B+7" G |"B7" A B2 d |"C" (3(c/4d/4)c/4 B/-"Em" B2 B | B"C" c2"Em" B |"B7" B ^F2"B+7" G | %46
+w: tranc'd by the|beau- ty be-|fore _ _ me, _ En|tranc'd by a|land full of|
+"B7" A ^F2"B+7" G |"Em" E2"C#dim" ^D E |"G7" G4- | G2 z E |"C" G G2 G |"C6" A A2 A |"Em" B B2 B | %53
+w: sun- shine and|flow- ers and|song.|_ And|when day is|done and the|sun starts to|
+"C" c"Cmaj7" d2"Ebdim" B |"Dm7" (3(A/4B/4)A/4"G7" G3/2- G2- | G4- | G4- |"G7" G2 D z | G G2 G | %59
+w: set in Gra|na- * * da _|_||* I|en- vy the|
+"G9" A A2 A |"G7" B B2 B |"Dm7" c"G7" d2 B |"C" (c/4d/4)c/4B/4"C6" A- A2- |"C6" A4- | A4- | %65
+w: blush of the|snow- clad Si-|er- ra Ne-|va- * * * da, _|_||
+ A2 z G |"C" c c2 c |"C7" _B B2 B |"F" A A2 A |"Fm" _A A2 A |"C" G G2 G |"Fm6" F F2 F | %72
+w: * For|soon it will|wel- come the|stars while a|thou- sand gui-|tar play a|soft hab- an-|
+"C" E/F/ G3- | G2 z G |"Fm" c c2 c | d c2 d |"C" e/d/ c2 B | d c2"Ebdim" A |"G7" B/A/ G2 G | %79
+w: er- * ra,|_ Then|moon- lit Gra-|na- da will|live a- gain the|glor- y of|yes- ter- day, Ro-|
+ A G2"G9#5" A |"C""Fm" c4- |"C""Fm" c4- |"C""Fm" c4- |"C" c z/ G/ C3/2 z/ |] %84
+w: man- tic an|gay!|_|||
+

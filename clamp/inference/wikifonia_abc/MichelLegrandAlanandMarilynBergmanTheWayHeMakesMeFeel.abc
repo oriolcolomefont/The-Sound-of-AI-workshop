@@ -1,0 +1,38 @@
+X:1
+T:The Way He Makes Me Feel
+T:The Way He Makes Me Feel
+C:Michel Legrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm" A,2 D2 E2 F2 |"Dm/C#" G3 A G F3 |"Dm/C" A,2 D2 E2 F2 |"Bm7b5" G3 A F4 |"Bbmaj7" D2 F2 A2 d2 | %5
+w: There's no chill, and|yet I shiv- er.|there's no flame and|yet I burn.|I'm not sure what|
+w: |||||
+"Gm7" c2 B2 A2 GF |"Ebmaj7" B,4 G4 |"A7sus4" A,4"A7" E4 |"Dm" A,2 D2 E2 F2 |"Dm/C#" G3 A G F3 | %10
+w: I'm a- fraid of and|yet I'm|trem- b'ling.|There's no storm yet|I hear thun- der,|
+w: |||||
+"F/C" C2 F2 G2 A2 |"Bm7b5" =B3 c B A3 |"Am/E" E2 A2 =B2 c2 |"Bm7/E" d3 e d2 A2 |"A" ^c8- | c6 e2 |: %16
+w: and I'm breath- less;|why, I won- der?|Weak one mo- ment,|then the next I'm|fine.|_ I|
+w: ||||||
+"D6/A" ed^c=B dcBA |"Dm7b5/A" ^c=BA^G B2 z B |"Asus4" d^c=BA cBA^G | =BA^G^F A4 | ^c=BA^G BAG^F | %21
+w: feel as if I'm fal- ling ev- 'ry|time I close my eyes, and|flow- ing thru my bod- y is a|ri- ver of sur- prise.|Feel- ings are a- wak- en- ing I|
+w: why is it that ev- 'ry time I|close my eyes he's there, the|wa- ter shin- ing on his skin, the|sun- light in his hair?~~~And|all the while I'm think- ing things that|
+"C#7sus4" A^G^F^E"C#7" G2 ^C2 |"F#m9""F9#5" A8- |"F#m/E""F+7/Eb" A8 |"Dm" A,2 D2 E2 F2 | %25
+w: hard- ly re- cog- nize as|mine.|_|What are all these|
+w: I can nev- er share with|him.|_|I'm a bun- dle|
+"Dm/C#" G3 A G F3 |"Dm7/C" A,2 D2 E2 F2 |"Bm7b5" G3 A F4 |"Bbmaj7" D2 F2 A2 d2 |"G9" e3 f d2 AF | %30
+w: new sen- sa- tions?|What's the se- cret|they re- veal?|I'm not sure I|un- der- stand But I|
+w: of con- fus- ion,|Yet it has a|strange ap- peal,|Did it all be-|gin with him, And the|
+"Bbmaj7" D2 F2"A7sus4" G2 G2 |1"Dm" D8- |"Dm9/C#" D6 e2 :|2"Dm" D8- |"Dm9/C#" D6 D2 | %35
+w: like the way I|feel|_ Oh,|feel|_ I|
+w: way he makes me|||||
+"Bbmaj7" D2 E2 F2 G2 ||"F/A" A4"A7" A4 |"Dm" d8- | d8 |] %39
+w: like the way he|makes me|feel!|_|
+w: ||||
+

@@ -1,0 +1,33 @@
+X:1
+T:That Lucky Old Sun
+T:That Lucky Old Sun
+T:(Just Rolls Around Heaven All Day)
+T:
+T:
+C:Beasley Smith
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C2 CC C"Cmaj7" C3 |"Am" E2 EE"Fm" E4 |"C" G2 GG"F6" AAAA |"C""G7""C" G6 GG |"F6" cc c2 C2 C2 | %5
+w: Up in the morn- ing|out on the job,|work like the dev- il for my|pay; but that|luck- y old sun has|
+"C" GG G2"Am" C2"Fm6" D2 |"C" EE E2"G7" DC D2 |"C" C6 z2 |"C" C2 CC C"Cmaj7" C3 | %9
+w: noth- ing to do but|roll a- round heav- en all|day.|Fuss with my wo- man|
+"Am" E2 EE"Fm" E4 |"C" G2 GG"F6" AA A2 |"C""G7""C" G6 GG |"F6" cc c2 C2 C2 | %13
+w: toil for my kids|Sweat 'til I'm wrink- led and|gray; but that|luck- y old sun has|
+"C" GG G2"Am" C2"Fm6" D2 |"C" EE E2"G7" DC D2 |"C""C""Dm7" C6"C" G2 |]"Am" c2 c2"Em" B2 BB | %17
+w: noth- ing to do but|roll a- round heav- en all|day. Good|Lawd a- bove can't you|
+"F6" A2 A2"C" G E3 |"Am" C2 C2"G7" D2 D2 |"C" E6 G2 |"Am" c2 c2"Em" B2 BB |"F6" A2 A2"C" G E3 | %22
+w: know I'm pin- im'|tears all in my|eyes; Send|down that cloud with a|sil- ver lin- in'|
+ G2"Cmaj7" GG"Am7" c2"D7" c2 |"Dm7" d6"G7" z2 |"C" C2 CC C"Cmaj7" C3 |"Am" E2 EE"Fm" E3 E | %26
+w: lift me to par- a-|dise.|Show me the riv- er,|take me ac- cross and|
+"C" G2 GG"F6" AA A2 |"C""G7""C" G6 GG |"F6" cc c2 C2 CC |"C" GG G2"Am" C2"Fm6" D2 | %30
+w: wash all my troub- les a-|way; like that|luck y old sun give me|noth- ing to do but|
+"C" EE E2"G7" DC D2 |"C" C6 z2 |] %32
+w: roll a- round heav- en all|day.|
+

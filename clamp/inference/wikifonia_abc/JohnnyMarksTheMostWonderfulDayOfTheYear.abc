@@ -1,0 +1,33 @@
+X:1
+T:The Most Wonderful Day Of The Year
+T:The Most Wonderful Day Of The Year
+C:Johnny Marks
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 G |:"C" G ^F G |"A7" A G E |"Dm" F E F |"G7" G2 D |"C" E ^D E |"A+7" F F"A7" E |"D7" D ^C D | %8
+w: A|pack- ful of|toys means a|sack- ful of|joys for|mil- lions of|girls and for|mil- lions of|
+w: |Jack in the|box waits for|chi- dren to|shout, "Wake|up, don't you|know that it's|time to come|
+"G7" E2 D |"C" C2 C |"D#dim" B2 A |"C" G3- |"C#dim" G ^F G |"G7" B A G | F E D |1"C" G3- || %16
+w: boys when|Christ- mas|Day is|here|_ the most|won- der- ful|day of the|year!|
+w: out!" When|Christ- mas|Day is|here|_ the most|won- der- ful|day of the||
+"G7sus4" G z"G7" G :|2"C" C3- || C3 |"G7" B,3 |"G9" A3 | A3- | A F D |"C" C3 |"C6" A3 | A3- | %26
+w: * A||||ga-|lore|_ scat- tered|on|the|floor.|
+w: |year!|_|Toys|||||||
+ A"C" G E |"D7" D3 | c3 | c3- | c B F |"G9" A2 G |"C#dim" F2 E |"Dm7" G2 F |"G7" E2 D |"C" G ^F G | %36
+w: _ Ther's no|room|for|more|_ And it's|all be-|cause of|San- ta|Claus! A|scoot- er for|
+w: ||||||||||
+"A7" A G E |"Dm" F E F |"G7" G2 D |"C" E ^D E |"A+7" F F"A7" E |"D7" D ^C D |"G7" E2 D |"C" C2 C | %44
+w: Jim- my a|dol- ly for|Sue. The|kind that will|e- ven say|"How do you|do!" When|Christ- mas|
+w: ||||||||
+"D#dim" B2 A |"C" G3- |"C#dim" G ^F G |"Dm7" B A G |"G7" F E D |"C6" c B A |"A7" G F E | %51
+w: Day is|here|_ The most|won- der- ful,|won- der- ful,|won- der- ful,|won- der- ful,|
+w: |||||||
+"D7" d c B |"G7" A B3/2 G/ |"C" c3 |] %54
+w: won- der- ful|day of the|year|
+w: |||
+

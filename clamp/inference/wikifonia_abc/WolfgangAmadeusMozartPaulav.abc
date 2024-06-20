@@ -1,0 +1,20 @@
+X:1
+T:Land der Berge
+T:Land der Berge
+T:Austrian National Antheme
+T:W. A. Mozart
+T:Paula v. Preradovic
+T:
+T:Public Domain
+C:Wolfgang Amadeus Mozart
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="C Alto Ocarina" snm="C A. Oc."
+%%MIDI program 79
+V:1
+ A2 G | F2 (G/A/) | B2 A | (A/G/) G z | G2 F | E2 (F/G/) | A2 G | (G/F/) F z | ^G2 A | B2 c | %10
+ (d B) ^G | A2 z | E2 F | (A G) F | F2 (B/G/) | F E z | E2 F | (A G) E | F2 (B/G/) | F E z | G2 F | %21
+ B2 A | (A/G/) F E | F2 z | B2 A | c2 (d/A/) | (A/G/) F E | D2 z |] %28
+

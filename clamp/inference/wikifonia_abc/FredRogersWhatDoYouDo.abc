@@ -1,0 +1,36 @@
+X:1
+T:What Do You Do?
+T:What Do You Do?
+C:Fred Rogers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" F>Fd>F- F2 F>F |"Bbdim" =E>E_d>E- E2 E>E |"Cm7" _E2 cE-"F7" E>F E2 |"Bb" D2 z2 z"G7" D2 D | %4
+w: What do you do _ with the|mad that you feel _ When you|feel so mad _ you could|bite? When the|
+"Cm" C2 D2"F7" E2 C2 |"Bb" D F2"Gm" B- B3 G |"Gm7" B>A G2"C7" B2 G2 |"Cm7" e2 d>c-"F7" c4 | %8
+w: whole wide world seems|oh, so wrong _ And|noth- ing you do seems|ver- y right? _|
+"Bb" F>Fd>F- F2 F>F |"Bbdim" =E2 _dE- E2 EE |"Cm7" _E2 c"F7" E2 F E2 |"Bb" D4"Bbdim" z2 DD | %12
+w: What do you do? _ Do you|punch a bag? _ Do you|pound some clay or some|dough? Do you|
+"Cm" C2 D2"Gbdim" E2 CC |"Bb/F" D F2"Gm" B- B2 G2 |"Cm" B2 G2"F7" d2 d2 |"Bb" B4 z2 B2 || %16
+w: round up friends for a|game of tag? _ Or|see how fast you|go? It's|
+[M:4/4]"Fm" (3_AAA (3AAB"Bb9" (3c z z BA |"Ebmaj7" GGG_A"Gm7" B2-"Cm" (3BAG | %18
+w: great to be a- ble to stop When you've|planned a thing that's wrong, _ And be|
+"Bbm6" (3FF=E (3FGG"F" A^GA"Cm7b5"B |"G7b5" G2"Dbdim" z A"Cm7" F2"F7" z G/G/ || %20
+w: a- ble to do some- thing else in- stead And|think this song: I can|
+[M:2/2]"Bb" F>Fd>F- FF z F |"Bbdim" =E>E_d>E- E2 z E |"Eb" _E2 c2"Gbdim" EFED- | %23
+w: stop when I want _ to, Can|stop when I wish, _ Can|stop, stop, stop an- y- time|
+"Bbmaj7" D4"Bb6" z2"G7" D2 |"Cm" C>C"G" D2"Cm" E>E"F" C2 |"Bb" D2"Dm" F>d-"Gm" d2 z G | %26
+w: _ And|what a good feel- ing to|feel like this, _ And|
+"Gm7" B>A G2 B>A"G7" G2 |"Cm" e2"G7" d2"Eb""F" c4 |"Bb" F>F d2 F F3 |"Bbdim" =E2 _dE- E3 E | %30
+w: know that the feel- ing is|real- ly mine.|Know that there's some- thing|deep in- side _ _|
+"Cm7" _EEc"F7"E- E>FED- |"D7""G7" D6 DD |"Cm" C2 DD"Ebm6" (3E2 E2 C2 |"Bb/F" D2"Gm" B4 GA | %34
+w: helps us be- come _ what we can,|_ For a|girl can be some- day a|wo- man And a|
+"Cm7" B4 G2 B2 |"Cm9" d2"F7" B4 c2 |"Bb""Bbdim" B8- |"Cm7""F7""Bb" B6 z2 |] %38
+w: boy can be|some- day a|man.|_|
+

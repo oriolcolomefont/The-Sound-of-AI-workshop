@@ -1,0 +1,24 @@
+X:1
+T:Wonderland By Night
+T:Wonderland By Night
+T:Klaus Gunter-Neumann
+T:Lincoln Chase
+C:Klaus Gunter-Neumann
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" F4 A2 c2 |"C7" c4 G4 | B2 cB AGFG |"F" A8 | F4 A2 c2 |"C7" c4 G4 | B2 cB AGFG |"F" F8 | %8
+w: Stars hung sus-|pend- ed|A- bove a float- ing yel- low|moon;|Two hearts were|blend- ed|While an- gels sang a lov- er's|tune.|
+"Bb" F4 B2 d2 |"F" f6 d2 |"Bb" fdfd fdfd |"F" d2 c4 d2 |"Bb" fdfd fdfd |"F" d2 c6 |"G7" d4 e2 f2 | %15
+w: And so we|kissed, Not|know- ing if our hearts could pay the|price, * But|Heav- en wel- comed us to Par- a-|dise, *|Bless- ing our|
+"C7" g8 |"F" F4 A2 c2 |"C7" c4 G4 | B2 cB AGFG |"F" A8 | F4 A2 c2 |"Bb" f4 F4 | %22
+w: love.|Then came the|sun- rise,|Fad- ing the moon and stars from|sight,|Re- call- ing|al- ways|
+"F" a2 ba"Bb" f2"C7" g2 |"F" f8 |] %24
+w: Our Won- der- land By|Night.|
+

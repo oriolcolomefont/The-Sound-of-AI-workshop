@@ -1,0 +1,37 @@
+X:1
+T:Amazing Grace
+T:Amazing Grace
+T:Traditional  adapted by Judy Collins
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z C/F/ |:"F" F z (3A/G/F/ |"F7" A z A/G/ |"Bb" F z D |"C" C z C/F/ |"F" F z (3A/G/F/ | %6
+w: Am *|a zing * *|grace how *|sweet the|sound that *|saved a * *|
+w: |grace that * *|taught my *|heart to|fear and *|grace my * *|
+w: ||||||
+ A z G/A/ |"C" c2 z | z3/2 z/ A/c/ |"F" c z (3A/G/F/ |"F7" A z A/G/ |"Bb" F z D | C"C" z C/F/ | %13
+w: wretch like *|me|I *|once was * *|lost but *|now I'm|found was *|
+w: fear re *|lieved|How *|pre- cious * *|did that *|grace app-|ear the *|
+w: |||||||
+"F" F z (3A/G/F/ |"C" A z G |"F" F2 C/F/ ::"F" F z (3A/G/F/ |"F7" A z A/G/ |"Bb" F z D | %19
+w: blind but * *|now I|see. Twas *|Man- y * *|dan- gers *|toils and|
+w: hour I * *|first be-|lieved. Through *|We've been * *|there ten *|thous- and|
+w: ||||||
+"C" C z C/F/ |"F" F z (3A/G/F/ | A z G/A/ |"C" c2 z | z z A/c/ |"F" c z (3A/G/F/ |"F7" A z A/G/ | %26
+w: snares we *|have al * *|rea- dy *|come|Twas *|grace that * *|brought us *|
+w: years Bright *|shin- ing * *|as the *|sun.|We've *|no less * *|days to *|
+w: |||||||
+"Bb" F z D |"C" C z C/F/ |"F" F z (3A/G/F/ |"C" A z G |"F" F2 z | z2 C/F/ :| z2 z || G2 z | F2 z | %35
+w: safe thus|far and *|grace will * *|lead us|home|When *||see.||
+w: sing God's|praise than *|when we * *|first be-|gan.|Am 2nd.time||||
+w: |||||* D....alCoda||||
+ z3 | z3 | z3 |] %38
+w: |||
+w: |||
+w: |||
+

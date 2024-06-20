@@ -1,0 +1,17 @@
+X:1
+T:Tinker Polka
+T:Tinker Polka
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E/G/ G A A | G G E E | G G c c |"G7" B4 | F F A A | G4 | F F A A |"C" G4 | E/G/ G A A | %9
+ G G E E | G G c c |"G7" B4 | B/B/ B B c | d3 c | B A G B |"C" c c c z |"F" c3 B | c3/2 B/ c d | %18
+ c4 | A4 | c3 B | c3/2 B/ c d |"C7" _B4- | _B4 |"C7" c2 e2 | e2 d2 |"F" d2 c B | c4!dacoda! | %28
+"C7" _B3 A | _B A B B |"F" c4- | c4!D.C.! ||O _B A B c |"F" A"C7" z c z |"F" f f f z |] %35
+

@@ -1,0 +1,28 @@
+X:1
+T:Between The Devil And The Deep Blue Sea
+T:Between The Devil And The Deep Blue Sea
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" z2 A4"D7b5" C2 |"Gm9" A4"C7" c4 |"F" z2 A>^G"D7b9" A2 C2 |"Gm7" A2"C7" c6 | %4
+w: I don't|want you,|but I'd hate to|lose you,|
+"F7" z2 d2"F13" d F3 |"Bbmaj7" c2 Bf-"Eb9" f3 _d |"^F /C" c>fc>_c"Gm7" B2"C7" AF- |"F" F4"C7" z4 | %8
+w: you've got me|be- tween * * the|dev- il and the deep blue sea.||
+"F" z2 A4"D7b5" C2 |"Gm7" A4"C7" c4 |"F" z2 A>^G"D7b9" A2 C2 |"Gm7" A2"C7" c6 | %12
+w: I for-|give you|'cause I can't for-|get you,|
+"F" z2 d2"F13" d F3 |"Bb" c2 Bf-"Bbm" f3 _d |"F/C" c>fc>_c"Gm7" B2"C7" AF- |"F""E7" F8 | %16
+w: you've got me|be- tween * * the|dev- il and the deep blue sea.||
+"A6" z2 z e"F#m11" ^c>=BA>^F |"Bm7" A ^F2 F-"E7" F4 |"A/C#" A2 A2"Adim" A>=BA>^F | %19
+w: I ought to cross you|off my list, *|but when you bcome knock- in'|
+"A" A2 ^ce-"E7" e4 |"C/G" z2 z e"Am11" d>cA>c |"Fm6" d d2"G9sus4" d- d3 d |"Ab7" _e>=ed>c B2 _A2 | %23
+w: at my door, *|fate seems to give my|heart a twist, * and|I come run- ning back for|
+"G7""C7" G8 |"F" z2 A4"D7b5" C2 |"Gm7" A4"C7" c4 |"F" z2 A>^G"D7b9" A2 C2 |"Gm7" A2"C7" c6 | %28
+w: more.|I should|hate you,|but I guess I|love you,|
+"F7" z2 d2"F13" d F3 |"Bb" c2 Bf-"Bbm" f3 _d |"F/C" c>fc>_c"Gm7" B2"C7" AF- |"F" F4 z4 |] %32
+w: you've got me|in be- tween * the|dev- il and the deep blue sea.||
+

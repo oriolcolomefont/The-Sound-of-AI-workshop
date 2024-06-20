@@ -1,0 +1,54 @@
+X:1
+T:It's Too late
+T:It's Too late
+C:Carole King
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"Amin" z8 |"D " z2 z E/G/ AA A/G/E |"Amin" z8 |"D7" z2 z E/G/ AA A/G/E |"Amin" Ac cA"D7" cd dc | %5
+w: ||||Stayed ~in ~bed ~all ~mor- ning ~just ~to|
+ d z"Emin" eA- A2 z2 |"Amin" z A cA"D7" cd dc |"G " ed cd A3 z |"Amin" a/"C "g/ e2 d"Gmin" c d2 c | %9
+w: ~pass ~the ~time. *|There's ~some thing ~wrong ~here, there ~can|~be ~no ~de- ny- ing.|One of us ~is ~chang- ing, or|
+"C7" ed cd z d ec- |"Fmaj7" cA-"F " A6 |"Fmaj7" z4 z c"Amin" da |"Bbmaj7" z a z a2 f fd | %13
+w: ~may- be ~we've ~just ~stop- ped ~try-|* ing. *|And it's too|~late ~ba- by, ~no- w|
+"Fmaj7" e e2 c- c2 cd |"Bbmaj7" ef e2 z f"Dmin" ed- |"F " dc-"C ""F " c4 z2 | %16
+w: ~it's ~too ~late * though ~we|~real- ly ~did ~try ~to ~make|* ~it. *|
+"Bbmaj7" ef e g2"F7" f"C " z a- |"Fmaj7" ae ec- c2 z f- |"Dmin" fe dc"Fmaj7" Ae z e- | %19
+w: Some thing ~in- side ~has ~died|* ~and ~I ~can't * ~hide|* and ~I ~ju- st ~can't ~fake|
+"Esus47" ed"Emin" z2"Amin" z4 |"C ""Amin""D " z8 | z2 z E/G/ AA A/G/E |"Amin""D7" z8 | %23
+w: * ~it.||||
+ z2 z E/G/ AA A/G/E |"Amin" Ac cA"D7" cd dc | d2"Emin" eA- A3 z |"Amin" Ac cA"D7" cd dc | %27
+w: * * * * * * It|~used ~to ~be ~so ~ea- sy ~li- ving|~here with ~you. *|You ~were ~light ~and ~bree- zy and I|
+"G " ed"C " cd"Amin" A2 z A | a/g/"Dmin" e2 d c d2 c |"Gmin" ed cd- d2"C7" ec- | %30
+w: knew ~just ~what ~to ~do. Now|~you ~look so ~un- hap- py, and|I ~fe- el ~like * ~a ~fo-|
+"Fmaj7" cA- A4"F " z2 |"Fmaj7" z4 z c"Amin" da |"Bbmaj7" z a2 a2 f"F " f"Dmin"d | %33
+w: * ol. *|And it's too|~late ~ba- by, ~no- w|
+"Fmaj7" e e2 c- c2 cd |"Bbmaj7" ef e2 z f"Dmin" ed- |"F " dc-"C ""F " c4 z2 | %36
+w: ~it's ~too ~late * though ~we|~real ly ~did ~try ~to ~make|* ~it. *|
+"Bbmaj7" ef e g2"F " f2"C " a- |"Fmaj7" ae e c2 z f2- |"Dmin" fe dc"Fmaj7" A e2 e- | %39
+w: Some thing ~in- side ~has ~died|* ~and ~I ~can't hide|* and ~I ~ju- st ~can't ~fake|
+"C " e d2 z"Fmaj7""C " z4 |"Cmaj7""Fmaj7" z8 |"Amin""D7" z8 |"Gmaj7" z2 z E/G/ AA A/G/E | %43
+w: * ~it.||||
+"Amin""D7" z8 | z2 z E/G/ AA A/G/E |"Amin" Ac A"D7" c2 d dc |"Asus47" d2 eA- A2"C " z A/c/ | %47
+w: ||There'll be good times ~a- gain ~for|~me and ~you. * But ~we|
+"Amin" ed dc/d/"D7" c>d c2 |"G " d2 eA- A2 Ac |"Amin""C " a2 ge"Amin" d/c/e-"Bbmaj7" e3/2 z/ | %50
+w: ~just ~can't ~stay ~to- ge- ther don't you|feel it ~too? * Still ~I'm|~glad ~for ~what ~w- e ~had *|
+"Gmin" z d cd z d"C7" ec- |"Fmaj7" cA-"F " A6 |"Fmaj7" z4 z c"Amin" da | %53
+w: and ~how I ~on- ce ~loved|* ~you. *|And it's too|
+"Bbmaj7" z a z a2 f"F " f"Dmin"d |"Fmaj7" e e2 c- c2 cd |"Bbmaj7" ef e2- ef"Dmin" ed- | %56
+w: ~late ~ba- by, ~no- w|~it's ~too ~late * though ~we|~real- ly ~did * ~try ~to ~make|
+"F " dc-"C ""F " c4 z2 |"Bbmaj7" ef e g2"F " f2"C " a- |"Fmaj7" ae e c2 z f2- | %59
+w: * ~it. *|Some thing ~in- side ~has ~died|* ~and ~I ~can't hide|
+"Dmin" fe dc"Fmaj7" A e2 e- |"C " e d2 a2"Fmaj7""C " e2 g- |"Cmaj7" g3 a-"Fmaj7" a2 z2 | %62
+w: * and ~I ~ju- st ~can't ~fake|* ~it. It's too la-|* te! *|
+"Dmin""Fmaj7" z8 |"C " z4 e"Fmaj7"f"Cmaj7" z g- |"Emin""Cmaj7" g4"Fmaj7" z2 z e- | %65
+w: |It's too late|* ba-|
+ e"F " A3"Fmaj7" cd ce- |"Cmaj7" e4"Fmaj7" z e2 d | z"F " c2 z"Fmaj7" cd ce- |"Cmaj7""C " e8 | %69
+w: * by. It's * too late|* now dar-|lin'. It's * Too Late!||
+"Cmaj7" z8 |] %70
+w: |
+

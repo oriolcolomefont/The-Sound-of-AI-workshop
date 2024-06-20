@@ -1,0 +1,50 @@
+X:1
+T:Let's Do It (Let's Fall in Love)
+T:Let's Do It (Let's Fall in Love)
+T:								Cole Porter
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^A" A z _A G |"Dm7" A z"G7" _A G |"C" z A/^G/"C7" A/B/c/c/ |"Dm7" d z _d c | %4
+w: Birds do it,|bees do it,|E- ven ed- u- cat- ed|fleas do it,|
+w: spon- ges they|say, do it,|Oy- sters down in Oy- ster|Bay, do it,|
+w: ||||
+w: ||||
+"Em7" A z"A7" _A G |"Dm7" A z"G7" _A G |"C" E4 |"G7" E A A A |"C" A z _A G |"G7" A z _A G | %10
+w: Let's do it|Let's fall in|love,|* In Spain the|best up- per|sets do it,|
+w: Let's do it,|Let's fall in|love.|* Cold Cape Cod|clams 'gainst their|wish, do it,|
+w: ||||||
+w: ||||||
+"C" z A/^G/ A/B/c/^c/ |"Dm7" d z _d c |"C" A z _A G |"G7" A z _A G |"C" c4- | c c c c | %16
+w: Lith- u- an- i- ans and|Letts do it,|Let's do it,|Let's fall in|love.|* The Dutch in|
+w: Ev- en la- zy jel- ly-|fish do it,|Let's do it,|Let's fall in|love.|* E- lec- tric|
+w: ||||||
+w: ||||||
+"Am""^B" c2 B A |"Dm7" c2 B A |"Em7" z B/^A/ B/A/ G |"Gm7""C7" _B4 |"F" A2 G F | %21
+w: old Am- ster-|dam do it||||
+w: eels, I might|add, do it|Not to men- tion the|Finns.|Folks in Si-|
+w: ||Though it shocks them, I|know,|Why ask if|
+w: |||||
+"Fm7" _A2"Bb7" G F |"Eb6" z G/^F/ G/F/_E/ z/ |"G7" G A A A |"C""^C" A z _A G |"G7" A z _A G | %26
+w: |||||
+w: am do it,|Think of Si- am- ese|twins. Some Ar- gen-|tines with- out|means do it|
+w: shad do it,|Wait- er, bring me shad-|roe. In shal- low|shoals do it,|soles do it|
+w: |||||
+"Am" A/^G/A/B/ c/B/c/d/ |"F7" _e z d c |"C" e z d c |"F" f z"G7" e d |"C" c3 z |1 %31
+w: |||||
+w: Peo- ple say in Bos- ton e- ven|beans do it|Let's do it,|Let's fall in|love.|
+w: |||Let's fall in|love.|
+w: Gold- fish in the pri- va- cy of|bowls do it|Let's do it,|||
+"Dm7" z A"G7" A A :|2 z z z z |] %33
+w: ||
+w: Ro- man- tic||
+w: ||
+w: ||
+

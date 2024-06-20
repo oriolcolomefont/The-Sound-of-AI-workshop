@@ -1,0 +1,25 @@
+X:1
+T:Three times a lady
+T:Three times a lady
+T:Lionel Richie
+C:Lionel Richie
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" A2 A/A/ | A2 _B/c/ | F2 F |"Bbm" G2 C |"F" A A G | _B A/F/ G | F3- | F2 C | A2 A/A/ | A _B c | %10
+w: Thanks for the|times that you've|giv- en|me the|mem- 'ries are|all * in my|mind|* And|now that we've|come to the|
+w: you've shar- ed|my dre- ams|my joys|my pains,|you've made my|life worth liv- ing|for|* and|if I had|to live my|
+ c _B A |"Bbm" G F2 |"F" C A A/G/ | _B A G | F3- |"Bbm" F3- | F2 C |"F" A3 | A3 | A _B A | %20
+w: end of our|rain- bow|ther's some- thing I|must say out|loud||* You're|once,|twice,|three times a|
+w: life ov- er|a- gain|dear I'd spend each|and evry mo-|ment|with|you *||||
+"Bb" G F2 | z _B _B |"F" A3 |"C" G3- | G A _B |"F" A3 | A3 | c c c |"Bb" c F2 |"Bb" z _B/_B/ A | %30
+w: la- dy|and I|love|you|* yes you're|once,|twice|three times a|la- dy|and I love|
+w: ||||||||||
+"F" c2 A |"C" G3- | G3 | G2 _B | A C G |"F" F3- | F3 | z3 |] %38
+w: * you|||* I|love * *|you|||
+w: ||||||||
+

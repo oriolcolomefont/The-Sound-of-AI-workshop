@@ -1,0 +1,15 @@
+X:1
+T:Kilenc kis gólya
+C:Hungarian song
+Z:Public Domain
+L:1/4
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" G/ C E/ | G G | G/ E G/ | C E |"G" F/ D C/ | B, C/D/ |"C" C z | z2!fine! :|"C" c B | A G | %10
+w: Ki- lenc kis|gó- lya|le- szállt a|tó- ra,|el- hoz- ta|né- künk a|nyárt,||Ne félj|ró- zsám,|
+"F" A/B/ c |"G" G z |"F" A G/G/ | F E |"G" F/G/ A | D z!D.C.! |] %16
+w: hi- ba nem|lesz,|ná- lunk a|gó- lya|fu- va- ros|lesz,|
+

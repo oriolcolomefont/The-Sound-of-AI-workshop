@@ -1,0 +1,18 @@
+X:1
+T:Eye Level
+C:Jack Trombey
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z G AB |"C" c2 e2 e e2 e- |"F" ee e2 c2 d2 |"C" z2 e2 e e2 e- |"F" ee e2 eGAB |: %5
+"C" c2 cc c2 cc |"F" cBAG-"G" GGAB |"C" c2 c2"G" d d2 e- |"C" e8 |"C" e2 ee"Dm" f2 ff | %10
+"G" dcd"C"e- ed c2 |"Dm" A2 A2"G" B B2 c- |"C" c4 z2 gg | e2 gg e2 g2 |"F" agfe f2 ff | %15
+"G7" d2 ff d f2 g- |"C" g4 z2 gg | e2 gg e2 g2 |"F" a g2 f-"Dm" fedc |"G" G4 z G AB |1 %20
+"C" c2 CC c2 CC | c2 CC cGAB :|2"C" c2 e2 e e2 e- ||"F" ee e2 c2 d2 |"C" z2 e2 e e2 e- | %25
+"F" ee e2 eGAB |"C" c8 |] %27
+

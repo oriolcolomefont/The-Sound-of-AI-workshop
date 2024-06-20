@@ -1,0 +1,21 @@
+X:1
+T:Dark Eyes
+T:Dark Eyes
+T:Russian Folk Song
+C:Russian Folk Song
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z ^G A |:"A7" B3/2 A/ A | z ^G A |"Dm" B3/2 A/ A | z A d |"A7" d3/2 ^c/ c | z e f | %7
+w: Where the|Vol- ga flows,|A sweet|Rus- sian Rose|set my|soul a- flame,|Son- ia|
+"Dm" e3/2 d/ d | z d f |"Gm" f3/2 e/ B | z e f |"Dm" e3/2 d/ A | z ^G A |"A7" B3/2 A/ A |1 z E A || %15
+w: was her name.|Her dark|flash- ing eyes|seemed to|hyp- no- tise,|My heart|missed a beat,|When we|
+"Dm" G3/2 F/ F | z ^G A :|2"A7" z e f ||"Dm" e3/2 d/ d | d' z2 |] %20
+w: two would meet.|Where the|When we|two would meet.||
+

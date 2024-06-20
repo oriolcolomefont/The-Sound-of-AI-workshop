@@ -1,0 +1,71 @@
+X:1
+T:Josie
+T:Josie
+C:Steely Dan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 25
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Guitar Intro" E- [Ed]2- [EF-^c-d]/ [Fc]2- [Fc]-"^Repeats after Chorus for Verse 3 (Instrumental Verse)"[Fc-]/[^D-^A-c]/[DA]/- | %1
+w: |
+w: |
+ [DA]-[DE-AB-]/ [EB]4- [EB]-[EB-]/B/ z/ | E- [E-d]2 [EF-^c-]/ [Fc]2- [Fc]-[Fc]/[^D^A]- | %3
+w: ||
+w: ||
+ [DA]2- [DA] [B,F-]2 [=D-F=A-]/ [DA]2- [DA]/ | E-E/-[EA]-[E-^G-A]/[EG]- [E=G-G]/GF-F/B | %5
+w: ||
+w: ||
+"C/F" [=Fce]4"F#7#9" [^F^Aea]4 |"D/G" [Gdf]3"Csus2/G#" [^G,=Gcdg]4- [G,Gcdg]- | %7
+w: ||
+w: ||
+ [G,Gcdg]6"_piano arpeggio" G/-[Gc]/-[Gcd]/-[Gcdg]/- | %8
+w: |
+w: |
+ [G-c-d-gc'-]/ [Gcdgc']4- [Gcdgc']-[Gcdgc']/ z2 |:"Em7" z8 :|"Em7" z z4 B,^CE |: %11
+w: ||We're gon- na|
+w: |||
+"Em7" G G2 F E2 ^C/ z/ E- |"Em7" EF z ^C EC F2 |"Em7" ^CB,- B,/ z/ z z4 | z z4 B, ^C/ z/ E | %15
+w: Break out the hats and hoot-|* ers when Jo- sie comes|ho- me *|We're gon- na|
+w: Jo, would you love to scra-|* ple? She'll nev- er say|n- o *||
+"Em7" G G2 F E2 ^C/ z/ E |"Em7" EF z ^C E"Em7"CF-F/ z/ | %17
+w: rev up the mo- tor scoo-|ter- s when Jo- sie comes *|
+w: Shine up the bat- tle ap-|ple- * We'll shake 'em all- *|
+"Dmaj7" F-[E-F]/E/- [D-E]/"G/C"D/ G2 F- [E-F]/E/-[D-E]/D/ | %18
+w: ho- me * to * stay we- 're gon- na *|
+w: do- wn- * to- * night we'- re gon- na *|
+"D/G" F-[E-F]/E/- [C-E]/C/"C/F" E2- E/ z/ z2 |"Em7" G/ z/ G2- [F-G]/F/ E/[E-F]E/^CE- | EF z2 z4 | %21
+w: park in * the * street- *|Sleep on the * beach * * and ma-|ke it.|
+w: mix in * the * street. *|Strike at the * stroke * * * of|mid- night|
+"A7" ^C E2 C E2 F-[E-F]/E/ |"Em7" G2- [F-G]/"D/G"F-F/"C/F" E2- E/ z/ z | %23
+w: Throw down the jam 'til the *|* girls say "when" * *|
+w: Dance on the bone 'til the *|* girls say "when" * *|
+"Em7" G/ z/ G2- [F-G]/F/- [EF]/F/-[E-F]/E/- [^C-E]/C/E- |"D/G" E-[EF-]/F z/ ^C"E/A" EC F2 | %25
+w: Lay down the law- * and- * * break * it|* * * when Jo- sie comes|
+w: Pick up what's left * by * * day- * light,|* * * when Jo- sie comes|
+"Em7" _D B,2 z/ z/ z4 |"^Chorus" z z2 D-"C/F" [DE-]/E/E- [EG-]/G-G/ | %27
+w: ho- me|When Jo- sie comes home- * *|
+w: ho- me.|When Jo- sie comes home * *|
+"F#7#9" A2- A z"B7" z2 E"Em7"E- | E-E/ z/"C/F" z z2 E- [EG-]/G/"F#7#9"A- | %29
+w: * * so good|* * She's the- * pride|
+w: * * so bad-|* * She's the * best|
+ AAA-"B+7"[E-A]/E/ G-[E-G]/E/E-E/"Em7" z/ | z2"A7" z4 EG |"Am7" A2- A/ z/"D7" A2- A z E | %32
+w: of the neighbor- * * hood * * * *|She's the|raw * flame * the|
+w: friend we ne- ver * had * * * *|" "||
+"Gmaj7""_After instrumental verse 3, sing the chorus then repeat Guitar Intro" G-G/-[G-G]/ [GG-]/G/"Cmaj7" G2- G z E | %33
+w: live- * * wire * * * She|
+w: |
+"F#7#9" F-F/ z/"F#7#9" FE FFF-[E-F]/E/ |"B+7" G-G/ z/ G2 G2 D"Em7"E |1 %35
+w: prays * like a Ro- man with her- *|eyes on fi- * re- *|
+w: ||
+"_Vamp Out on Em7 groove" z8 ||"^4 bars of Em7""^Bridge (2-stop bends) =>Inst.Verse" z8 | z8 | %38
+w: |||
+w: |||
+ z8 :| %39
+w: |
+w: |
+

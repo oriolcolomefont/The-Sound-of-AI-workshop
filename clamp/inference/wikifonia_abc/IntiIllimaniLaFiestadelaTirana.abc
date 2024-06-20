@@ -1,0 +1,17 @@
+X:1
+T:La Fiesta de la Tirana
+C:Inti Illimani
+Z:Public Domain
+L:1/8
+M:none
+K:none
+V:1 treble nm="Staff 1"
+%%MIDI program 0
+V:1
+ |:[K:G][M:2/4][K:bass] E,,F,, G,,A,, | B,, E,3 | B,,A,, G,,F,, | E,, E,3 | E,,F,, G,,A,, | %6
+ B,, E,3 | B,,A,, G,,F,, | E,, E,3 | E,F, D,C, | B,,A,, G,,B,,- | B,, A,,2 G,,/F,,/ | E,, E,3 | %13
+ E,F, D,C, | B,,A,, G,,B,,- | B,,A,, B,,/A,,/G,,/F,,/ |1 E,, E,3 :|2 E,,4 |: E,2 C,2 | G,,2 G,,2 | %20
+ C,2 G,,2 | G,,2 G,,2 | B,,2 B,,2 :| | | E,2 E,2 | G,2 G,2 | E,2 E,2 | E,2 E,2 | G,2 G,2 | %30
+ B,,2 B,,2 | E,2 E,2 | E,2 E,2 | G,2 G,2 | B,,2 B,,2 | E,2 E,2 | E,2 E,2 | G,2 G,2 | B,,2 B,,2 |: %39
+ E,2 C,2 | G,,2 G,,2 | C,2 G,,2 | G,,2 G,,2 | B,,2 B,,2 :| E,2 | | E,2 | %47
+

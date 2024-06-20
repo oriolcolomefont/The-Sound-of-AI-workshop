@@ -1,0 +1,42 @@
+X:1
+T:This Could Be The Start Of Something Big
+T:This Could Be the Start Of Something Big
+C:Steve Allen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fm7" z G A/"Bb7"A/ G |"Eb" B2 G F- |"Cm7" F E F/F/ G |"Fm7" A B3- |"Bb7" B c/c/- c/c/ c | %5
+w: You're walk- ing a-|long the street|_ or you're at a|part- y,|_ or else _ you're a-|
+"Fm7" c2"Fm7/Eb" A G- |"Dm7b5" G =E/F/-"G7b9" F/A/ c |"Cm7""B+" e4 |"Bbm7" z e"Eb7" e/c/ d || %9
+w: lone and then|_ you sud- * den- ly|dig,|you're look- ing in|
+"Abmaj7" e2 d c- |"Am7b5" c d/d/-"D7" d/^c/ d |"Gm7" d2 c3/2 B/- |"C7b9" B3 G |"Fm7" A A A A | %14
+w: some- ones eyes,|_ you sud- * den- ly|re- a- lize|_ that|this could be the|
+"Bb7" A F E D |"Gm7""Gb7" B4 |"Fm7" z G A/"Bb7"A/ G |"Eb" B2 G F- |"Cm7" F E F/F/ G |"Fm7" A B3- | %20
+w: start of some- thing|big.|you're lunch- ing at|"Twen- ty One"|_ and watch- ing your|di- et,|
+"Bb7" B c/c/- c/c/ c |"Fm7" c2"Fm7/Eb" A G- |"Dm7b5" G =E/F/-"G7b9" F/A/ c |"Cm7""B+" e4 | %24
+w: * de- clin- * ing a|Char- lot Russe,|_ ac- cept- * ing a|fig,|
+"Bbm7" z e"Eb7" e/c/ d |"Abmaj7" e2 d c- ||"Am7b5" c d/d/-"D7" d/^c/ d |"Gm7" d2 c3/2 B/- | %28
+w: when out of the|clear blue sky,|_ it's sud- * den ly|gal and guy.|
+"C7b9" B3 G |"Fm7" A A A A |"Bb7" A F E D |"Eb6" E4 ||"Bbm7/Eb" z G B c |"Eb7" _d c B A | %34
+w: _ and|this could be the|start of some- thing|big.|There's no con-|trol- ling the un-|
+"Eb7" G A B c |"Bbm7/Eb" _d B B2- |"Eb7" B =A B c |"Bbm7/Eb" _d c B A |"Eb7" B2"E9" B2 | %39
+w: roll- ing of your|fate my friend,|_ who knows what's|writ- ten in the|mag- ic|
+"Bbm7/Eb" G4 |"Eb7" z E A B ||"Abmaj7" c B A G |"Bbm7/Eb" F G A B |"Ab" c A A2- |"Fm7" A E A B | %45
+w: book?|But when a|lov- er you dis-|cov- er at the|gate my friend,|_ in- vite her|
+"Cm7" c c =B c |"F7" d2 e2 |"Fm7" f4 |"Bb7" z G A/A/ G |"Eb" B2 G F- |"Cm7" F E F/F/ G | %51
+w: in with- out a|se- cond|look.|You're up in an|aer- o- plane|_ or din- ing at|
+"Fm7" A B3- |"Bb7" B c/c/- c/c/ c |"Fm7" c2"Fm7/Eb" A G- |"Dm7b5" G =E/F/-"G7b9" F/A/ c | %55
+w: Sar- di's,|_ or ly- * ing at|Ma- li- bu,|_ a- lone _ on the|
+"Cm7""B+" e4 |"Bbm7" z e"Eb7" e/c/ d |"Abmaj7" e2 d c- |"Am7b5" c d/d/-"D7" d/^c/ d | %59
+w: sand,|you sud- den- ly|hear a bell|_ and right _ a- way|
+"Gm7" d2 c3/2 B/- |"C7b9" B3 G |"Fm7" A A A A |"Bb7" A F E D |"Gm7""Gb7" B4 |"Gm7" B B B B | %65
+w: you can tell|_ that|this could be the|start of some- thing|grand.|This could be the|
+"C7" B G F =E |"Fm7" c c c c |"Bb7" c A F D |"Eb" E4- | E4 |] %70
+w: start of some- thing,|this could be the|start of some- thing|fine!.|_|
+

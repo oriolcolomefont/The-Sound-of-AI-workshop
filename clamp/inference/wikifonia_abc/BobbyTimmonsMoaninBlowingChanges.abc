@@ -1,0 +1,19 @@
+X:1
+T:Moanin' Blowing Changes
+T:Moanin' Blowing Changes
+T:Bobby Timmons
+C:Bobby Timmons
+Z:Public Domain
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"Fm" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2"Ab7" z2 | %5
+"Gm7b5" z2"C7" z2 |"Fm" z2 z2 |"C7" z2 z2 |"Fm" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2"Ab7" z2 | %11
+"Gm7b5" z2"C7" z2 |"Fm" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2 z2 |"Cm7" z2"F7" z2 | %16
+"Bbm7" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2"Bb7" z2 |"F" z2 z2 |"Bbm7" z2"Ab7" z2 | %21
+"Gm7b5" z2"C7" z2 |"Gm7" z2 z2 |"C7" z2 z2 |"Fm" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2"Ab7" z2 | %27
+"Gm7b5" z2"C7" z2 |"Fm" z2"Ab7" z2 |"Gm7b5" z2"C7" z2 |"Fm" z2 z2 |"C7" z2 z2 |] %32
+

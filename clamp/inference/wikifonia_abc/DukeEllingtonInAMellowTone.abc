@@ -1,0 +1,27 @@
+X:1
+T:In A Mellow Tone
+T:In A Mellow Tone
+T:Duke Ellington
+T:© Dan Parshall 
+C:Duke Ellington
+Z:Creative Commons BY-NC-SA
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+V:1
+ AF G A2 B- |"C7" B8 |"F7" z2 AF G A2 B- |"Bb" B8 |"Bb" z2 AF G A2 B- |"Fm" B8 | %6
+w: In a mel- low tone|_|Feel- in' fan- cy free,|_|and I'm not a- lone|_|
+"Bb7" z2 cG B c2 d- |"Eb" d8 |"Eb" z2 cG B c2 G- |"Eb" G8 |"Ebm" z2 Bc- c2"Ab7" Bd- |"Bb" d8 | %12
+w: I've got com- pan- y.|_|Ev- ry thing's O. K.|_|The live _ long day|_|
+"G7" z2 AF G A2 B- |"C7" B8 |"C7" z2 Bd- d2 BF- |"Cm" F8 |"F7" z2 AF G A2 B- |"C7" B8 | %18
+w: With this mel- low- song,|_|I can't _ go wrong.|_|In a mel- low tone,|_|
+"F7" z2 AF G A2 B- |"Bb" B8 |"Bb" z2 AF G A2 B- |"Fm" B8 |"Bb7" z2 cG B c2 d- |"Eb" d8 | %24
+w: that's the way to live.|_|If you mope and groan,|_|some- thing's got to give.|_|
+"Eb" z2 ^cg- g2 cG- |"Eb" G8 |"Edim" z2 ^cg- g2 cG- |"Bb" G8 |"G7" z2 ^cg- g2 cG- |"C7" G8 | %30
+w: So go _ your way,|_|and laugh _ and play;|_|there's joy _ un- known,|_|
+"F7" z2 AF G A2 B- |"Bb" B8 |] %32
+w: in a mel- low tone.|_|
+

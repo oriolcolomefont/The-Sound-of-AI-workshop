@@ -1,0 +1,30 @@
+X:1
+T:The Second Time Around
+T:The Second Time Around
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"G7b9" B c |"C" G G G3/2 c/ |"C/Eb" B c"Ebdim" B c |"Dm" F4- | F2"G7b9" ^A"G7" B | %5
+w: Love is|love- li- er the|sec- ond time a-|round|* just as|
+"Cmaj7" E E"C6" E3/2 A/ |"C+" ^G A G A |"Dm6" D4- |"E9" D2 ^D"E7" E |"Am" C C C3/2 D/ | %10
+w: won- der- ful with|both feet on the|ground|* it's that|sec- ond time you|
+"C7" E"Gm7" F"C7" G"C+7" ^G |"F7" A4- | A2"Db7" ^G"F" A |"Am7" D D D3/2 E/ |"D7" ^F G A"D+7" _B | %15
+w: hear your love song|sung|* makes you|think per- haps that|love like youth is|
+"G" B ^A B A |"G7" B4- | B2"Fm6" B c |"C" G G G3/2 c/ |"C/Eb" B c"Edim" B c |"Dm" F4- | %21
+w: wast- ed on the|young.|* love's more|comf- ta- ble the|sec- ond time you|fall|
+ F2"G7b9" ^A"G7" B |"Cmaj7" E E"C6" E3/2 A/ |"C+" ^G A G A |"Dm6" D4- |"E9" D2 ^D"E7" E | %26
+w: * like a|friend- ly home the|sec- ond time you|call|* who can|
+"Am" C3 D |"C7" E F G"C+7" ^G |"F" A A"A7b5" A A |"D7" B2"Ebdim" B c |"Dm7" G G G2- | %31
+w: say what|led us to this|mir- a- cle we|found there are|those who'll bet|
+"G7" G A"Bdim" ^G"Dm6" A |"E7sus4" E E E2- |"A7" E G ^F G |"Am7" D D"D7" D3/2 D/ | %35
+w: * love comes but|once and yet|* I'm oh so|glad we met the|
+"Dm7" D E"Fm6" C C |"C" C4- | C4 |] %38
+w: sec- ond time a-|round.-||
+

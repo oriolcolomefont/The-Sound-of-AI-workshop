@@ -1,0 +1,22 @@
+X:1
+T:Nights In White Satin - Flute Solo
+T:Nights In White Satin 
+T:Flute Solo by Raymond Thomas
+T:Moody Blues
+T:Transcribet by Mojito
+C:Justin Hayward
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B ||"Em" e3- efg |"D" f/e/ d2- def |"C" e/d/ c2- cde |"B" ^d3 z2 B |"E" e3- efg | %6
+"D" a/g/ f2- fg>a |"C" g/f/ e2- ef>g |"B" f3- f2 z |"Em" b2 b- b2 _b |"C""C" a/g/ e2- ezg | %11
+"Em" b2 b- b2 b/_b/ |"C" a/g/ e2- ezg |"Am" a2 a- ab>c' |"B" b3- b2 c'/b/ |"Am" a3 ab>c' |"B" b6 || %17
+"Em" e3 e3 |"D" e/f/- f2- f3 |"C" e'2 e'- e'f'>g' |"Em" e'3 e'3 |"D" e'3 d'/e'<f'd'/ | %22
+"Em" e'3 e'3 |"D" e'3 d'/e'<f'd'/ ||"Em" b3 z z2 | z6 |] %26
+

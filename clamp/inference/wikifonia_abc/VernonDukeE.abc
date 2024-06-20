@@ -1,0 +1,30 @@
+X:1
+T:I Like The Likes Of You
+T:I Like The Likes Of You
+C:Vernon duke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" B4"Cm7" e3 B |"Fm7" A2 e2"Bb7" G3 F |"Eb" G2 e2"Cm7" F3 E |"Fm7""Bb7" F8 | %4
+w: I like the|likes of you, I|like the things you|do,|
+"Eb" G4"Cm7" c3 G |"F7/A" F2 c2"Bb7" E2 D2 |"E6" E8 |"Fm7" F2 G2"Bb7" A2 =A2 |"Eb" B4"Cm7" e3 B | %9
+w: I mean I|like the likes of|you.||I like your|
+"Fm7" A2 e2"Bb7" G3 F |"Eb" G2 e2"Cm7" F3 E |"Fm7""Bb7" F8 |"Eb" G4"Cm7" c3 G | %13
+w: eyes of blue, I|think they're blue don't|you?|I mean I|
+"F7/A" F2 c2"Bb7" E2 D2 |"E6" E8 ||"Bbm7" z4 z2"Eb7" E2 ||"Ab6" c4- c_de=e | f2 =e_e- ed _d2 | %18
+w: like your eyes of|blue.|Oh|dear, _ If I could|on- ly say _ what I|
+"Eb6" c4- c_de=e | f2 =e_e- ed _d2 |"F9" c4- c_de=e | f2 =e_e- ed _d2 |"Fm7" c4"Bb7b9" B4 | %23
+w: mean, _ I mean if|I could mean _ what I|say, _ that is I|mean to say _ that I|mean to|
+"F9" c4"E7#11" d4 ||"Eb" B4"Cm7" e3 B |"Fm7" A2 e2"Bb7" G3 F |"Eb" G2 e2"Cm7" F3 E |"Fm7""Bb7" F8 | %28
+w: say that,|I like the|likes of you, your|looks are pure de-|luxe,|
+"Eb" G4"Cm7" c3 G |"F7/A" F2 c2"Bb7" E2 D2 |1"Eb" E4- E"E""F" E2 F | %31
+w: looks like I|like the likes of|you. _ _ _|
+"F#" ^F2"G" G2"F7" A2"F#dim" =A2 :|2"Eb""Fm6""Eb" E8- |"Fm" E2"Bb7" z2"Eb" z4 |] %34
+w: _ _ _ _|you.|_|
+

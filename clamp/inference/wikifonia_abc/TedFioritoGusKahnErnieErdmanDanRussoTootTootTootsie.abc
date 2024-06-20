@@ -1,0 +1,30 @@
+X:1
+T:Toot, Toot, Tootsie
+T:Toot, Toot, Tootsie
+C:Ted Fiorito
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C/E" c c"Cdim7" A B |"G7/D" G G F"G" G |"E7""E7b5" E4- |"A7" E2"A+7" A2 |"D9""D7" E4- | %5
+w: Yes- ter- day I|heard a lov- er|sigh,|_ "Good-|bye|
+"G7" E D E F |"C""Ebdim" G4- |"G7" G4 |"C" c c"Cdim7" A B |"G7" G G"F/G" F G |"C7" E4- | %11
+w: _ oh, me oh|my"|_|Sev- en times he|got a- board his|train|
+"Fmaj7" E2"F" A2 |"D7" E D B A |"D9" E D B A |"G7" A G B G |"G7" A G"G+7" A B |:"C" z c A2 | %17
+w: _ And|sev- en times he|hur- ried back to|kiss his love a-|gain, and tell her:|Toot, Toot,|
+ c A2 c |"D7" A4- |"Am7""D7" A4 |"G7" z G E2 | G E2 G |"C" D4- | D4 | z B,"C6" C E | %25
+w: Toot- sie good-|bye!|_|Toot, Toot,|Toot- sie, don't|cry,|_|The choo- choo|
+"Cmaj7" G2"C#dim" G2 |"Dm7" G4 |"G7" B,4 | z B, D F |"Dm7" A2"G+7" A2 |"C" A G"Ebdim" B F | %31
+w: train that|takeS|me,|A- way from|you no|words can tell how|
+"Dm7" A G"G+7" A B |"C" z c A2 | c A2 c |"D7" A4- |"Am7""D7" A4 |"G7" z G E2 | G E2 G |"C9" D4- | %39
+w: sad it makes me,|Kiss me|Toot- sie, and|then,|_|Do it|ov- er a-|gain|
+ D4 |"F7" c B _B A- | A4 | c B _B A- | A3 C |"C" G _G F =E | G _G F =E | G _G"G7" F"C" =E- | %47
+w: _|Watch for the mail,|_|I'll nev- er fail,|_ If|you don't get a|let- ter then you'll|know I'm in jail,|
+"Ebdim7""G7" E4 |"C" z c A2 | c A2 c |"D7" A4- |"Am7""D7" A4 |"G7" z G E2 | G E2 G |"C" c4- | %55
+w: _|Tut tut|Toot- sie, don't|cry|_|Toot, Toot|Toot- sie, good-|bye.|
+ c3 z |] %56
+w: _|
+

@@ -1,0 +1,32 @@
+X:1
+T:Trouble Is A Man
+T:Trouble Is A Man
+C:Alec Wilder
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z3"A7b9" D |"Dm6" A G2"A7b9" F G2 ED- |"Dm6" D6 z D |"Gm7" EFGA"C7b9" Bc (3BAG | %4
+w: A|wo- man gets all the blame|_ for|ev- 'ry- thing that hap- pens un- der the|
+"Fmaj7" A6"F6" z A |"Em7b5" GG G4"A7b9" A2 |"Dmaj7" ^FF F4"Gmaj7" G2 | %7
+w: sun, But|when it comes to|be- in' bad, A|
+"Cmaj7" EEEE"Bm7b5" D2"Bb9" E2 |"A7""A+7" A,8 |:[K:C]"Dm7" A,B, (3A,B,C- C4- | C2 A,2 B,2 C2 | %11
+w: wo- mans's not the on- ly|one.|Troub- le is a man _|_ a man who|
+"G9" ^C2 D4"G+7" ^D2 |"Cmaj7" E2 G_B,-"A7b9" B,4 |"Dm7" A,B, (3A,B,C- C4- | C2 A,2 B,2 C2 | %15
+w: loves me no|more, no more. _|Troub- le is a man, _|_ A man I'll|
+"G9" ^C2 D4"Fdim7" E2 |"Em7" G8 |"Am7" AB (3ABc-"Ab9" c4- |"Gm9" c2 c2"C9" A2 G2 | %19
+w: al- ways a-|dore.|Noth- ing good to say _|_ a- bout him,|
+"Fmaj7" FG (3FGA- A4- |"Em7b5" A2 A2"A7b9" F2 E2 |"Dm7" EF D6 |"Bb9" EF D4 E2 |"A7b9" ^C6 E2 | %24
+w: Still I hate a day _|_ with- out him.|Why should he|have to be the|one', my|
+"Em7b5" _B,4"A+7" A,4 |"Dm7" A,B, (3A,B,C- C4- | C2 A,2 B,2 C2 |"G9" ^C2 D4"G+7" ^D2 | %28
+w: on- ly?|Troub- le is a man _|_ A man who's|hand- some and|
+"Cmaj7" E2 G_B,-"A7b9" B,4 |"Dm7" A,B, (3A,B,C- C4- | C2 A,2 B,2 C2 |"G9" ^C2 D4"Fdim7" E2 | %32
+w: tall, so tall. _|Troub- le is a man, _|_ who's for him-|self and that's|
+"Em7" G8 |"Am7" AB (3ABc- c4- |"F9" cccc A G3 |"Bbmaj7" FG (3FGA- A4- |"Eb9" AAAA"A7b9" F E3 | %37
+w: all.|A- fter all we planned _|_ he did- n't mean it.|Now I und- er stand _|_ I should have seen it.|
+"Dm7" DE (3DEF- F4 |"Ab9" CD (3CDE-"G13" E2 E2 |"C6" C8 :| %40
+w: Trou- ble is a man, _|troub- le is a man _ I|love.|
+

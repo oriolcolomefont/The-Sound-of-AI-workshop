@@ -1,0 +1,38 @@
+X:1
+T:Ready To Take A Chance Again
+T:Ready To Take A Chance Again
+C:Charles Fox
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Am" BcEe dcBc |"F" AEed cAEC |"Am" A,E,B,C E2 EF- |"E/G#" F E3- E3 D |"A/G" ^CDEE- E4 | %5
+w: ||* * * * You re- mind|_ me _ I|live in a shell _|
+"A7" z2 _B2 A2 GF- |"Dm" F3 D FGAF- |"Dm/C" F3 D FGAG- |"F/G""G9" G8 |"F/G""G9" z8 | %10
+w: safe from the past,|_ and do- in' o- kay,|_ but not ver- y well.|_||
+"C" z2 EE- EFG(A- |"G/B" AG G6) |"G/Bb" z2 EE- EFG_B- |"A7sus4" BAAA-"A7" AGEE- |"Dm" EFFF F3 D | %15
+w: No jolts _ no sur- pri-|* * ses,|no cr- * sis a- ris-|* es. My life _ goes a- long|_ as it should, _ it's|
+"Dm/C" FGAF- F3 D |"Dm/B" FGAB- B4- |"Dm/E" B2 z2 !fermata!A2"E7b9" !fermata!B2 | %18
+w: all ver- y nice, _ but|not ver- y good. _|_ And I'm|
+S"Am7" Bccc- c e2 e- |"Dm7" e2 fA- A4 |"F/G" ABBB-"G/F" B G2 G- |"C/E" Gfee-"Am/E" e2"E7/G#" d2 | %22
+w: read- y to take _ a chance|_ a- gain, _|read- y to put _ my love|_ on the line _ with|
+"Am" c6"Am/G" z A |"Gb7b5" cccc- ccc"Fmaj7"c- | c"Em7" B2"Dm7" A- A3"Em7" A | %25
+w: you. Been|liv- ing with noth- * ing to show|_ for it. _ You|
+"Dm7" AAAA- AAA"F/G"A- | A B2"G/F" G- G2 GF!dacoda! |"C/E" EGce- e e2"Fmaj7" e- | e2 dc- cd(ce-) | %29
+w: get what you get _ when you go|_ for it, _ and I'm|read- y to take _ a chance-|_ a- gain _ with _ you.|
+"E/G#" e8- | e6 z2 |"Am" z4 E2 EF- |"E/G#" F E3- E3 D |"A/G" ^CDEE- E4 |"A7" z2 _B2 A2 G2 | %35
+w: _||When she left|_ me _ in|all my de- spair, _|I just held|
+"Dm" F3 D FG A2 |"Dm/C" F6- FD |"Dm/B" (3F2 G2 A2 B4- | %38
+w: on. My hopes were all|gone, _ then|I found you there.|
+"Dm/E" B2 z2 !fermata!A2"E7b9" !fermata!B2!D.S.! ||O"C/E" EGce- e e2"Fmaj7" e- | e2 dc- c2 z2 | %41
+w: _ And I'm|read- y to take _ a chance|_ a- gain _|
+"F#maj7b5" edce- e e2 e- |"C/G" e2 dc- cd(c"E/G#"e-) | e8 | e2 z2 e4 |"Am7" e8- |"Dm7" e8- | %47
+w: read- y to take _ a chance|_ a- gain _ with _ you.|_|* with|you.|_|
+"F/G""G/F" e8- |"C/E""Am/E" e6"E7/G#" z2 |:"Dm7" Bccc- c e2 e- |"Dm7" e2 fA- A4 | %51
+w: ||||
+"F/G" ABBB-"G/F" B G2 G- |"C/E""^Repeat ad lib and fade" Gfee-"Am/E" e2"E7/G#" ed :| %53
+w: ||
+

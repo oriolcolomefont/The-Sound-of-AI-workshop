@@ -1,0 +1,62 @@
+X:1
+T:Country Medley
+T:Country Medley
+T:1) Cryin' over you  2) Crystal Chandeliers  3)  Darlin'
+T:(1) Al Peshoff and Mark Dee (2)  by Ted Harris
+C:Al Peshoff, Mark Dee, Ted Harris, Oscar Stuart Blandemer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"F" C2 |"^(1)" C2 C2 F2 G2 |"^3)" A2"^Oscar""^Blandemer" c2 B"^Stuart"AGF |"Bb" D8- | D6 GA | %5
+w: Last|night I nev- er|closed my eyes * to *|sleep|* I *|
+w: |||||
+"C7" B3 A B2 G2 | E2 F2 E2 D2 |"F" C8- | C6 C2 | C2 C2 F2 G2 | A2 c2 BAGF |"Bb" D8- | D6 GA | %13
+w: spent the whole night|cry- in ov- er|you|* To-|day I made a|vow I'm gon- * na *|keep|* Yes I'm|
+w: ||||||||
+"C7" B3 A B2 G2 | E2 C2 E2 G2 |"F" F8- |"Bb" F2"F" F2 G2 A2 |"C7" G3 F E2 F2 | E4- EDDC | %19
+w: gon- na quit my|cry- in o- ver|you|* I'm gon- na|brush my tears a-|way * go out and|
+w: ||||||
+"F" F3 G A4- | A8 |"G7" G3 A G2 F2 | E2 F2 E4 |"C7" z ^DED E2 F2 | G6 C2 |"F" C2 C2 F2 G2 | %26
+w: paint the town||and if you turn|up a- gain|I'm gon- na turn you|down I'm|gon- na look a-|
+w: |||||||
+ A2 c2 BAGF |"Bb" D8- | D6 GA |"C7" B3 A B2 G2 | E2 C2 E2 G2 |"F" F8- |"Bb" F6"F" z2 |] %33
+w: round for some * one *|new|* yes I';m|gon- na quit my|cry- in o- ver|you||
+w: |||||||
+ z4 z2 z"^(2)" C |:"F" A2 A2 A2 B2 | c2 c2 B2 A2 |"C7" G2 A2 B4- | B6 CC | G2 G2 G2 GA | %39
+w: I|nev- er did fit|in too well with|folks you knew|* It was|plain to see that the|
+w: ||||||
+ B2 B2 A2 GG |"F" F2 G2 A4- | A6 cB | A2 A2 A2 AB |"F7" c2 c2 B2 BA |"Bb" G2 A2 B4- | B6 AB | %46
+w: likes of me did- nt|fit with you|* so you|trad- ed me for the|gai- e- ty of the|well- to do|* and *|
+w: |||||||
+"F" c2 c2 A2 GA |"C7" B2 G2 F2 E2 |"F" F8- | F6 z C | A2 A2 A2 B2 | c2 c2 B3 A |"C7" A2 G2 G2 A2 | %53
+w: turned a- way from the|love I of- fered|you|* the|crys- tal chan- de-|liers light up the|pain- tings on the|
+w: |||||||
+ B6 z C | G2 G2 G2 A2 | B3 B A2 G2 |"F" G2 F2 F2 G2 | A4 AccB | A2 A2 A^GAB |"F7" c2 c2 B2 BA | %60
+w: wall the|mar- ble stat- u-|ettes are stand- ing|state- ly in the|hall * but will the|time- l;y crowd that has you|laugh- ing loud help you|
+w: |||||||
+"Bb" G2 A2 B4- | B6 AB |"F" c2 c2 A2 GA |"C7" B2 G2 F2 E2 |"F" F8- | F6 C2 :| z6 z2 |: %67
+w: dry your tears|* when the|new wears off of your|crys- tal chan- de-|liers.|* I||
+w: |||||||
+"F" A4"^(3)" A4 | z2 z A BABA |"C" c4 c4 | z2 z A BABA | c4 c4 |"C7" z2 z A BABA |"F" A8- | %74
+w: Dar- lin|I'm feel- ing pre- ty|lone- some|I'd call you on the|phone some|but I dont have a|dime|
+w: Dar- lin|* All I feel are|cold nights|* think- in bout the|old nights|* spent a- long with|you|
+"C7" A4 z4 |"F" A4 A4 | z4 BABA |"C" c4 c4 | z2 z A BABA | c4 c4 | z4 dcAA |"Dm" d6- dc | %82
+w: |dar- lin|youre so far be-|hind me|to- mor- rows gon- na|find me|fur- ther down the|line * *|
+w: |dar- lin|tears are in my|eyes now|* know- ing I should|try now|tomake it back to|you * *|
+"Bb" d4 dcBA |"F" c2 (3AGF z4 | z4 dccA |"C" z cAG G4- |1 G2- GE"Bb" AA"C7"GF :|2"Bb" z8 || %88
+w: * tak- ing me some|pa- per * *|pen- cil in my|hand * * *|* * I'm gon- na write *||
+w: ||||||
+"F7" c4 c4- | c4 _e_e_e_e |"Bb" _e2- _ed d4- | d4 dd=ef |"F" f4- (3fdc- c2- |"C" c4 A2 G2 | %94
+w: Dar lin|* love you more than|ev * * er|* wish we were to|geth er * * *|* dar lin|
+w: ||||||
+"F" F8- | F2 z2 z4 | z4 _e_e_e_e |"Bb" _e2- _ed d4- | d4 ddef |"F" f4- (3fdc c2- |"C" c4 A2 G2 | %101
+w: mine||love you more than|ev * * er|* wish we were to-|geth- er * * *|* dar- ling|
+w: |||||||
+"F" F8- |"F" F2 z2 z4 |] %103
+w: mine||
+w: ||
+

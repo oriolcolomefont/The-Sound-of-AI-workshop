@@ -1,0 +1,26 @@
+X:1
+T:Mountain Greenery
+T:Mountain greenery
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c4 c4 |"Dm7" c2 GF-"G7" FE D2 |"C" C4 C4 |"Dm7" C2 EG-"G7" GA B2 |"C" c4 c4 | %5
+w: In a|moun- tain green * er- y|where God|paints the scen- * er- y|just two|
+"D7" c2 BA- Ac d2 |"G7" G4 G4- | G8 |"C" c4 c4 |"Dm7" c2 GF-"G7" FE D2 |"C" C4 C4 | %11
+w: craz- y peo * ple to|geth- er||while you|love your lov- * er let|blue skies|
+"Dm7" C2 EG-"G7" GA B2 |"C" c4 c4 |"D7" c2 BA- AB d2 |"G7" G4 G4- |"C7" G2"^N.C." c2 c c2 D- | %16
+w: be you cov * er- let|when it|rains we'll laugh * at the|wea- ther|* and if youre good|
+"F" D8- |"C7" D2 c2 c c2 D- |"F" D8- |"Fm" D2 c2 c c2 D- |"Em7" D8- | D2"D7" c2 c c2 D- |"Dm7" D8 | %23
+w: |* Ill search for wood||* so you can cook||* while I stand look||
+ G8 |"C" c4 c4 |"Dm7" c2 GF-"G7" FE D2 |"C" C4 C4 |"Dm7" C2 EG-"G7" GA B2 |"C" c4 c4 | %29
+w: ing|beans could|get no keen * er re|cep- tion|in a bean * er- y|bless our|
+"Dm7" c2 Ad-"G7" dc B2 |"C" c8- | c6 z2 |] %32
+w: moun- tain green * er- y|home!||
+

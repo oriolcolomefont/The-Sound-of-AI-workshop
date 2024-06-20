@@ -1,0 +1,30 @@
+X:1
+T:My Dream
+T:My Dream
+C:Buck Ram
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z12 |"Edim7" z12 |"Am7" z12 |"D7" z3 z3 z (de dBA) |"G" (B/A/ G2- G3- G6) | z3 B2 G G3- G2 E | %6
+w: |||My _ _ _ _|dream _ _ _ _|is a won- * drous|
+"C" (A G2- G6) z3 | z3 B2 G G3- G2 E | (A G2- G6) z3 | z3 c2 G F3 E3 |"Am" c12 | %11
+w: dream _ _|is a won- * drous|dream. _ _|It's the an- swer|too.|
+"D7" z3 F2 E D3- D(dB) |"G" (d B2- B3- B6 |"D7" c/B/ A2- A3) z (de dBA) |"G" (B/A/ G2- G3- G6) | %15
+w: Want- ing on- * ly _|you. _ _ _|_ _ _ _ My _ _ _ _|dream _ _ _ _|
+ z3 B2 G G3- G2 E |"C" (A G2- G6) z3 | z3 c2 G F3 z2 E |"Am" c12 |"D7" z2 (d e2) B (c A2) z (FA) | %20
+w: is a true _ de-|light _ _|My es- cape at|night|from _ a world _ that's _|
+"G" (A G2-) G6"C" z3 |"G" z3 (g2 e)"G7" (g e2-) e(ge) |"C" (g e2-) e3- e3 z3 | %23
+w: blue _ _|The _ world _ _ we _|know _ _ _|
+ z2 e e e2- e3 z f(f- |"G" f/e/ d2- d3- d6) | z3 d3 e3- ede- |"A7" e12 | z3 e2 e a3- a2 g | %28
+w: seems so far _ a- way.|_ _ _ _ _|And where _ we go|_|is for us _ to|
+"D7" f12 | z (de d/e/d/e/d/e/ d2 B A G2) |"G" (A G2- G6) z3 | z3 B2 G F3 z2 E |"C" (A G2- G6) z3 | %33
+w: say.|My _ _ _ _ _ _ _ _ _ _ _|dream _ _|is a wealth of|joy. _ _|
+ z3 c2 G F3 z2 E |"Am" c12 | z3 e2 c (c A2) z F2 |"G" (A G2- G3- G6) | z3 B2 G- G2 F- F E2 | %38
+w: No- one can des-|troy.|when I dream _ my|dream. _ _ _|It's no _ com- * mon|
+"C" (A G2- G6) z3 |"Cm" z3 c2 G z F2- F2 _E |"Edim7" G12 |"D7b9" z12 |"G" g12- | g12 |] %44
+w: dream. _ _|It's a won- * drous|dream.||Dream.|_|
+

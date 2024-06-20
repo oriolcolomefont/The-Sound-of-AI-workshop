@@ -1,0 +1,24 @@
+X:1
+T:Close to You
+T:Close To You
+C:Al Hoffman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 B3 A |"Am""Cm6" c8- |"D7" c4 DFAd |"G" B8- | B4 G3 F |"B7" A8- | A4 B,^DFA |"Em" G8- | %8
+w: Close to|you|_ I will al- ways|stay,|_ Close to|you|_ Though you're far a-|way.|
+ G6"G7" G2 |"C" (3G2 A2 G2 c4- | c2 d2"Cm" (3c2 G2 A2 |"G" B4"Bm" d2 DE- |"C+" E8 | %13
+w: _ You'll|al- ways be near,|_ As though you were|here by my side,|_|
+"A7" ^c4"A9" e2 GB- |"Cdim" B6"A9" FG |"D9" A2 A2 A2 d2 |"D+" ^A4"D7" B3 =A |"Am""Cm6" c8- | %18
+w: No mat- ter where.|_ In my|dreams I'll find you|there. Close to|me|
+"D7" c4 DFAd |"G" B8- | B4 G3 F |"B7" A8- | A4 B,^DFA |"Em" G8- | G6"G7" G2 |"C" (3G2 A2 G2 c4- | %26
+w: _ Shar- ing you're car-|ess|_ Can't you|see|_ You're my hap- pi-|ness.|_ Where-|ev- er you go|
+ c2 d2"Cm" (3c2 G2 A2 |"G" B4"Dm" (3B2 c2 d2 |"E7" B6 E2 |"Am" c2 c2"Ab+" c2 c2 | %30
+w: _ My heart will go|too. What can I|do? It|on- ly wants to|
+"Am7" c4"D9" A3 B |"G""C9""Eb7" G8- |"Gm7" G4-"G6" G2 z2 |] %33
+w: be close to|you.|_ _|
+

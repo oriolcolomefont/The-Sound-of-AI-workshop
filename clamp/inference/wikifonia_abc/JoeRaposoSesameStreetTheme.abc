@@ -1,0 +1,42 @@
+X:1
+T:Sesame Street Theme
+T:Sesame Street Theme
+C:Joe Raposo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+V:1
+|:"C""^INTRO:" E2 E2"Dm7" F2 F2 |"C7" G2 G2"Dm7" F>G F2 ::"C7""^VERSES:" c6 A2 |"F7" F4 F>G A2 | %4
+w: ||1.~Sun- ny|day sweep- in' the|
+w: ||2.~Come and|play! Ev'- ry- thing's|
+"C7" z2 c4 A2 |"F7" F6 z2 |"C7" z2 c4 A2 |"F7" F3 F G2 A2 |"G7" =B3"Dm7" c3"G" d2- | d4 z2 c>d | %10
+w: clouds a-|way.|On my|way to where the|air is sweet.|* Can you|
+w: A- O.-|K.|Friend- ly|neigh- bors there that's|where we meet.|* Can you|
+"F9" _e2 d2 c2 A"G"G- | G z G>A"Bb" B2"F" A2 |"C" G>C C2"Dm7" C4 |"C7" G2 G2"Dm7" F>G F2 | %14
+w: tell me how to get,|* how to get to|Se- sa- me Street?||
+w: tell me how to get,|* how to get to|Se- sa- me Street?||
+"C" E2 E2"Dm7" F2 F2 |"C7" G2 G2"Dm7" F>G F2 :|[K:A]"A""^BRIDGE:" z2 E>E A c2 B- | %17
+w: ||It;s a mag- ic car-|
+w: |||
+"Bm7" B A2 E-"E7" E4 |"A" z2 E>E A c2 B- |"Bm7" B c2 d-"E7" d>EA>B |"A" c>B A2"E7" B>e- e2 | %21
+w: * pet ride. *|Ev'- ry door will o-|* pen wide * to hap- py|peo- ple like you. * *|
+w: ||||
+"A" z2 A>B"D" c>B A2 |"A" z2 A>B c>B A2 |[K:F]"C7""^FINAL VERSE:" c6 A2 |"F7" F4 F>G A2 | %25
+w: Hap- py peo- ple like|What a beau- ti- ful|Sun- ny|day sweep- in' the|
+w: ||||
+"C7" z2 c4 A2 |"F7" F6 z2 |"C7" z2 c4 A2 |"F7" F3 F G2 A2 |"G7" =B3"Dm7" c3"G" d2- | d4 z2 c>d | %31
+w: clouds a-|way.|On my|way to where the|air is sweet.|* Can you|
+w: ||||||
+"F9" _e2 d2 c2 A"G"G- | G z G>A"Bb" B2"F" A2 |"C" G>C C2"Dm7" C4 |: %34
+w: tell me how to get,|* how to get to|Se- sa- me Street?|
+w: |||
+"C7""^Continue repeating ad libitum" G2 G2"Dm7" F>G F2 |"C" E2 E2"Dm7" F2 F2 :| %36
+w: * (how~to get * to|Sesame * Street) *|
+w: ||
+"C7" G2 G2"Dm7" F>G F2 |"C" E8 |] %38
+w: ||
+w: ||
+

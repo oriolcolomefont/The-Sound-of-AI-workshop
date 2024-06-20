@@ -1,0 +1,26 @@
+X:1
+T:Satin Doll
+C:Billy Strayhorn, Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+|:"Dm" AGA.G-"G7" G A3 |"Dm" z A3"G7" G A3 |"Em" BAB.A-"A7" A B3 |"Em" z B3"A7" A B3 | %4
+w: Cig- a- rette hold- _ er|which wigs me,|O- ver her should- _ er,|she digs me,|
+w: Ba- by shall we _ go|out skip- pin',|Care- ful, a- mi- _ go|you're flip- pin',|
+"Am" z d3"D7" c d3 |"Abm" z _B3"Db7" _A2 BG- |1"C7" G8-"Cb7" |"Bb7" G2 z2"A7" z4 :|2"C" G8 | %9
+w: Out cat- tin'|that Sat- in Doll.|_|||
+w: Speaks La- tin,|that Sat- in Doll.||||
+z4z2zG ||"Gm" c2 _BA GA B2 |"C7" c2 _BA GABc- |"F" c8- | c6zc |"Am" dcBA- AB c2 |"D7" dcBA- ABcd- | %16
+w: She's|no- bo- dy's fool, so I'm|play- ing it cool as can be,|_|* I'll|give it a whirl _ but I|ain't for no girl _ catch- ing me,|
+w: |||||||
+"G7" d8- | d z z2 z4 ||"Dm" AGA.G-"G7" G A3 |"Dm" z A3"G7" G A3 |"Em" BAB.A-"A7" A B3 | %21
+w: _||Tel- e- phone num- _ bers,|well, you know,|Do- ing my rhum- _ ba's|
+w: |||||
+"Em" z B3"A7" A B3 |"Am" z d3"D7" c d3 |"Abm" z _B3"Db7" _A2 BG- |"C" G8- |"A7" G2 z2 z4 |] %26
+w: with u- no,|And that 'n'|my Sat- in *|||
+w: |||||
+

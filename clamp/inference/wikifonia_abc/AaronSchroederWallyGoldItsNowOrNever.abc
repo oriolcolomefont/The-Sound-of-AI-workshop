@@ -1,0 +1,32 @@
+X:1
+T:It's Now Or Never
+T:Its now or never
+T:Aaron Schroeder and Wally Gold
+T:Rock or Slow Rock
+C:Aaron Schroeder, Wally Gold
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." c c B |"C" G/ G3/2- G2- | G B B A |"Dm" F4 |"G7" z B B A |"Dm" F/ F3/2- F2- | %6
+w: Its now or|nev- er *|* come hold me|tight|kiss me my|dar- lin *|
+w: ||||||
+"G7" F D E3/2 F/ |"C" G4- | G3 G |"Fm" _A _A3- | _A F c3/2 _A/ |"C" G4- | G E D C | %13
+w: * be mine to-|night|* to-|mor- row|* will be too|late|its now or nev-|
+w: |||||||
+"G7" G/ G3/2- G2- |1 G E D3/2 C/ ||"C" C4- | C"^N.C." g f e |]2 G- G e3/2 d/ ||"F" c4- | %19
+w: er * *|* my love wont|wait|* when I first|* my love wont|wait|
+w: ||||||
+"^FINE" c z z2 |]"C" d c3- | c c/d/ e c |"F" B A3 | z B c d |"G7" B A3- | A B c d |"C" A G3 | %27
+w: |saw you|* with your smile so|ten- der|My heart was|cap- tured|* my soul sur-|ren- dered|
+w: ||||||||
+ z"^N.C." g f e |"C" d c3- | c c/d/ e c |"F" B A3 | z F"Fm" E D |"C" G3/2 E/ D C |"Dm" D3"G" E | %34
+w: I've spent a|life- time-|* wai- ting for the|right time|now that you're|near the time is|here at|
+w: |||||* * * tofine||
+"C" C4- |"^Returntobegand" C"^play" z"^to" z2 |] %36
+w: last.||
+w: ||
+

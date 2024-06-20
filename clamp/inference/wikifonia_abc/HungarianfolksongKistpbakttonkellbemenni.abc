@@ -1,0 +1,17 @@
+X:1
+T:Kistápéba két úton kell bemenni
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E F G F | E C A, B, | C/ A,3/2 A,2!fine! |: A A A B | c G E A |1 G/ E3/2 E2 :|2 %6
+w: Kis- tá- pé- ba|két ú- ton kell|be- men- ni,|De sze- ret- nék|a ró- zsám- mal|be- szél- ni,|
+w: Jaj, de so- kat|áz- tam- fűz- tam|a- lat- ta.|Té- len- nyá- ron|roz- ma- rin- gos~az||
+ G/ E3/2 D2!D.C.! |] %7
+w: |
+w: ab- la- ka,|
+

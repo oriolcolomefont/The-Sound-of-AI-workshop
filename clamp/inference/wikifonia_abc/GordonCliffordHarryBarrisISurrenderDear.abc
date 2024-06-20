@@ -1,0 +1,26 @@
+X:1
+T:I Surrender, Dear
+T:I Surrender, Dear
+C:Gordon Clifford
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|: z"Dm" FFF A4 |"A7" z GGG"Am9" _B4 |"Dm" z AAA"E7" B4 |"Am" z ccc"D9" e4 |"C" z eec"Am" cAAE | %5
+w: We've palyed a game|of stay a- way|But it cost more|than I can pay,|With- out you I can't make my|
+"D9" E8 |"Dm" z2 DE"G7" G2"G+" G2 |"C""C7""A7" G8 |"Dm" z FFF A4 |"A7" z GGG"Am9" _B4 | %10
+w: way,|I sur- ren- der,|dear,|I may seem proud,|I may act gay,|
+"Dm" z AAA"E7" B4 |"Am" z ccc"D9" e4 |"C" z eec"Am" cAAE |"D9" E8 |"Dm" z2 DE"G7" G2"G+" G2 | %15
+w: It's just a pose,|I'm not that way,|'Cause deep down in my heart I|say,|I sur- ren- der,|
+"C" G8 |"E7" B B2 B B c2 d |"F" cc-"Am" c6 |"E7" B B2 B B c2 d |"F""Am" c8 |"E7" B B2 B B c2 d | %21
+w: dear.|Lit- tle mean things we were|do- ing *|Must have been part of the|game,|Lend- ing a spice to the|
+"F" cc-"Am" c4 cc |"D9" e2 e2 e2 A2 |"G9""Dm7""G7" d8 |"Dm" z FFF A4 |"A7" z GGG"Am9" _B4 | %26
+w: woo- ing * But I|don't care who's to|blame.|When stars ap- pear|and shad- ows fall,|
+"Dm" z AAA"E7" B4 |"Am" z ccc"D9" e4 |"C" z eec"Am" cAAE |"D9" E8 |"Dm" z2 DE"G7" G2"G+" G2 | %31
+w: Why then you'll hear,|My poor heart call,|To you my love, my life, my|all,|I sur- ren- der|
+"C""A+""A7" G8 :|"C" G6 z2 |] %33
+w: dear.|dear.|
+

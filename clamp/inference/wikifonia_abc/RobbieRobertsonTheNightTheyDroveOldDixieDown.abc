@@ -1,0 +1,30 @@
+X:1
+T:The Night They Drove Old Dixie Down
+T:The Night They Drove Old Dixie Down
+T:Robbie Robertson
+T:Robbie Robertson
+C:Robbie Robertson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm""^Verse" z4 D F2 A- |"F" AGFF- F2 FD |"Bb" F2 FD F2 DG/D/- |"Dm" D2 z2 z4 |"F" z2 z A c2 d2 | %5
+w: Vir- gil Caine|* is the name * and I|served on the Dan- ville train *||'Til Stone- man's|
+"Dm" AGFF z2 z D |"Bb" F F2 D F2 DG/D/- |"Dm" D2 z2 z4 |"Bb" z2 DD FD F2 |"F" GF F2 z2 FF | %10
+w: Cav- al ry came and|tore up the tracks a- gain *||In the win- ter of|six- ty five we were|
+"Dm" A2 A2 z2 A2 |"Bb" GFFF- F2 z2 |"Dm" z DFD F2 z2 |"Bb" GFDF- FFFG |"F" A4 z2 AA | %15
+w: hun- gry just|bare- ly a- live *|By May the tenth|Rich- mond had fell * it was a|time I re-|
+"Dm" AG z2 F2 F"G7"G- | G8- | G2 z2 z2"^Chorus" FA- |"F" A6 G2 |"Bb" G2 F2 F D2"F" C- | C4 z CDF | %21
+w: mem- ber oh, so well||* The night|* they|drove old Dix- ie down|* and all the|
+"Dm" A2 AG- GF z G |"F" A6 G2 |"Bb" G2 F2 F D2"F" C- | C4 z CDF |"Dm" AGAG- GFGF |"F" z2 A4 GG | %27
+w: bells were ring- * ing The|night they|drove old Dix- ie down|* and all the|peo- ple were sing- * ing They went|La la la|
+"Dm" G2 FA- A2 z2 |"G7" A G2 G G2 GG |"Bb" FFDC B,2 z2 | z8 |"F" F4"C" E4 |"Bb" D4"F" C4 | %33
+w: la la, la *|La la la la la la|* la la * *||||
+"F" F4"C" E4 |"Bb" D4"F" F4 |] %35
+w: ||
+

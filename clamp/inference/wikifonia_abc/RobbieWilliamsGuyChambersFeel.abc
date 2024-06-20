@@ -1,0 +1,65 @@
+X:1
+T:Feel
+C:Guy Chambers, Robbie Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"Dm" z8"Am/D" |"F/D" z8"G/D" |"Dm" z8"Am/D" |"F/D" z4 F/F"G/D"(G/ G<)(F |:"Dm" F)(AG(A A2)) z2 | %5
+w: |||Come and hold _ my|_ hand, _ _ _|
+w: ||||* die _ _ _|
+"Am/C"zA AA d>(c c)_A |"A/C#" G2 F2 z4 |"A7"z2zF F/F(G/ G/)F((G/ |"Gm" G/)F/(D D2)) z4 | %9
+w: I wan- na con- tact _ the|liv- ing.|Not sure I un- * der- stand|_ _ _ _|
+w: but I ain't keen on liv- ing|ei- ther.|Be- fore I fall _ in love|_ _ _ _|
+"Dm/F"z2zF FFG(E |"A/E" E) A,3 z4 |"A7"z2zE E/F(G/ G)F |"Dm" (A/G(A/ A2)) z4 | %13
+w: this role I've been giv-|_ en.|I sit and talk _ to|God, _ _ _|
+w: I'm pre- par- ing to|leave her.|I scare my- self _ to|death, _ _ _|
+"Am/C"z>A AA d>(c c<)A |"A/C#" (G>(F F2)) z4 |"A7"z2zF F>(G G/)F((G/ |"Gm" G/)F)(D/ D2) z4 | %17
+w: and he just laughs at _ my|plans. * *|My head speaks _ a lan-|_ _ guage _|
+w: _ _ that's why I keep on|run- ning, _|be- fore I've _ ar- rived,|_ _ _ _|
+"Dm/F"z2zF FFG(E |"A/E" E4) z4 |"A7" z4 dded ||"Bb" (f2 B)zz(g f)(f |"F" c2) cc ccd(c | %22
+w: I don't un- der- stand.||I just wan- na|feel _ real _ love,|_ feel the home that I live|
+w: I can see myself com-|ing.||||
+"C" c) G3 z4 |z2z>G c/BA/ G(B |"Bb" B2) z2 c/BA/ G(A |"F" A2) z2 A/A(G/ G)(G |"C" G2) z2 z4 |1 %27
+w: _ in.|'Cause I got too much life|_ run- ning through my veins|* go- ing to _ waste.|_|
+w: |||||
+ z4 FF"A/C#"GF :|2z2zc eef(f |"Bb" (f4) f) g2(a ||"F" a2) aa bag(g |"C" g)(g/f/ e2) z4 | %32
+w: |And I need to feel|_ _ real love|_ and a life ev- er af-|_ ter. _ _|
+w: I don't wan- na|||||
+z2z>A B/B(A/"A/C#" A/)G/(F |"Dm" F2) z2"Am/D" z4 |"F/D" z8"G/D" |"Dm" z8"Am/D" |"F/D" z8"G/D" || %37
+w: I can- not give _ it up.|_||||
+w: |||||
+"Dm" z8"Am" |"F" z8"G" |"Dm" z8"Am" |"F" z8"G" |"Dm" z8"Am" |"F" z8"G" |"Dm" z8"Am/E" | %44
+w: |||||||
+w: |||||||
+"F" z4"G" dded ||"Bb" (f2 B)zz(g f)(f |"F" c2) cc ccd(c |"C" c) G3 z4 | z4 c/BA/ G(B | %49
+w: I just wan- na|feel _ real _ love,|_ feel the home that I live|_ in.|I got too much love|
+w: |||||
+"Bb" B2) z2 c/BA/ G(A |"F" A2)zF B2 A(G |"C" F<E) z2 z4 | z4 dded |"Bb" f2 z2 z g2(a | %54
+w: _ run- ning through my veins|_ to go to waste.|_ _|I just want to|feel real love|
+w: |||||
+"F" g<f) ff bag(g |"C" g)(g/f/ e2) z4 | z2 EE c>A GB |"Bb" z2 cc c/cA/ GA |"F" z2 FF B A2(G | %59
+w: _ _ and a life ev- er af|_ ter. _ _|There's a hole in my soul,|you can see it in my face,|it's a real big place.|
+w: |||||
+"C" G2) z2 z4 | z8"A/C#" ||"Dm" z8"Am/D" |"F/D" z8"G/D" |"Dm" z8"Am/D" | %64
+w: _|||||
+w: |||||
+"F/D" z4 F/F"G/D"(G/ G<)(F |"Dm" F)(AGA)"Am" z4 |z"F"G AA d>"G"(c c)_A |"Dm" G2 F2"Am" z4 | %68
+w: Come and hold _ my|_ hand, _ _|I want to con- tact _ the|liv- ing.|
+w: ||||
+"F"z2zF F/F"G"(G/ G/)F((G/ |"Dm" G/)F/(D D2))"Am" z4 |"F"z2zF F"G"FG(E |"Dm" E) A,3"Am/E" z4 | %72
+w: Not sure I un- _ der- stand|_ _ _ _|this role I've been giv-|_ en.|
+w: ||||
+"F"z2zF F/F"G"(G/ G/)F((G/ |"Dm" G/)F/(D D2))"Am" z4 |"F"z2zF F/F"G"(G/ G/)F((G/ | %75
+w: Not sure I un- _ der- stand|_ _ _ _|Not sure I un- _ der- stand.|
+w: |||
+"Dm" G/)F/(D D2))"Am" z4 |"F"z2zF F/F"G"(G/ G/)F((G/ |"Dm" G/)F/(D D2))"Am" z4 | %78
+w: _ _ _ _|Not sure I un- _ der- stand.|_ _ _ _|
+w: |||
+"F"z2zF F/F"G"(G/ G/)F((G/ |"Dm" G/)F/(D D2))"Am/E" z4 |"F" z8"G" |"Dm" !fermata!z8 |] %82
+w: Not sure I un- _ der- stand.|_ _ _ _|||
+w: ||||
+

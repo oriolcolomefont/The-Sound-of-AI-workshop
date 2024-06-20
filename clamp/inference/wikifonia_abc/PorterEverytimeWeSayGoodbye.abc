@@ -1,0 +1,19 @@
+X:1
+T:Every time We Say Goodbye
+C:Porter
+Z:Public Domain
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"^Slowish""Ebmaj7" G z"Cm" z2 |"Ebmaj7""Cm" z4 |"Ebmaj7""Cm" z4 |"Fm7""Bb7" z4 | %4
+"Ebmaj7" B z"Fm7" z2 |"Gbmaj7""Fm7" z4 |"Eb""Eb7" z4 |"Abm" z4 |"Eb/G" e z"Gbdim7" z2 | %9
+"Fm7""Bb7" z4 |"Eb7" z4 |"Abmaj7" z4 |"Abm" _c z z2 |"Ebmaj7""Cm7" z4 |"B7""Bb743" z4 | %15
+"B7""Bb9" z4 ||"Ebmaj7" G z"Cm" z2 |"Ebmaj7""Cm" z4 |"Ebmaj7""Cm" z4 |"Fm7""Bb7" z4 | %20
+"Ebmaj7" B z"Fm7" z2 |"Gbmaj7""Fm7" z4 |"Eb""Eb7" z4 |"Ab""Abm" z4 |"Eb/G" e z"Gbdim7" z2 | %25
+"Fm7""Bb7" z4 |"Bbm6""Abmaj7" z4 |"Abm" z4 |"Eb" G z"Cm7" z2 |"Fm7""Bb7" z4 |"Eb""Cm7" z4 | %31
+"Fm7""Bb7" z4 |] %32
+

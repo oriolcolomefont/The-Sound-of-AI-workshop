@@ -1,0 +1,30 @@
+X:1
+T:I'll Catch The Sun
+T:I'll Catch The Sun
+T:Rod McKuen
+C:Rod McKuen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B,2 D3 E |:"Bbmaj7" F6 z F |"Gm" cB- B4 AG |"Cm7" G3 C C4- |"F7" C2 z2 z B,DE | %5
+w: I'll Catch The|Sun, and|nev- er * give it|back a- gain.|* I'll Catch The|
+w: |long and|tells me * he's in|need of love,|* in need of|
+"Bbmaj7" F6 z F |"Gm" cB- B4 AG |"Cm7" C8- |"F7" C2 z2 z B,DE |"Bbmaj7" F6 z F | %10
+w: Sun, and|keep it * for my|own.|* And in a|world where|
+w: hope, or|may- be * just a|friend.|* Per- haps in|time I'll|
+"Gm" e2 d2"Cm6" c2"D7b9" B2 |"Gm""Gm7" D6 z c |"C7" c2"C#dim" B4 AG |"Bb""Cm7" B,6 z F |1 %14
+w: no- one un- der|stands, I'll|take my out- stretched|hand, and|
+w: ev- en share my|sun with|that new an- y-|one, to|
+ FE"G7" D2 z2 z E ||"Cm7" DC C6- |"F7" C2 z2 z B,DE :|2"Cm7" F E3"Ebm6" C2"F7" D2 || %18
+w: of- fer it to|an- y- one.|* Who comes a|whom I gave my|
+w: ||||
+"Bb""Eb""Ebm" B,8 |"Bb" B4 z2 z2 |] %20
+w: hand.-||
+w: ||
+

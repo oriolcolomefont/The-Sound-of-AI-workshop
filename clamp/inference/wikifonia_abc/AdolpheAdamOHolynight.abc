@@ -1,0 +1,26 @@
+X:1
+T:O Holy night
+T:O Holy Night
+T:unkown
+C:Adolphe Adam
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4"^N.C." A2 AA |"F" c2- cc"Bb" ddBd |"F" f4 ccAG | F2 AB"C7" c2 BG |"F" F6 z2 |[M:2/4] A2 AA | %6
+w: O Ho- ly|night * the stars are bright- ly|shin- ing it is the|night of the dear Sav- iours|birth.|long lay the|
+[M:4/4] c2- cc"Bb" ddBd |"F" f4 cc=BA |"Am" e2 cd"E7" e2 fe |"Am" A6 z c |"C7" c2 d2 G2 c2 | %11
+w: world * in sin and er- ror|pin- ing till He ap-|peared and the soul felt its|worth a|thrill of hope the|
+"F" dcfA d2 cc |"C7" c2 d2 G2 c2 |"F" dcfA c4 |"Dm" f6 ed |"Am" e4- e3 e |"Gm" g4- gddd | %17
+w: wea- ry world re- joic- es for|yon- deer breaks a|new and glo- rious morn|fall on your|knees * O|hear * the an- gel|
+"Dm" f4 f3 f |"F" a4"C7" g3 c |"F" f6"Bb" ed |"F" c4-"C7" ccdc |"F" c4- c3 f |"C7" g4- g3 c | %23
+w: voic- es O|night * di-|vine O *|night * when Christ was|born * O|night * di-|
+"F" a6"Bb" g2 |"F" f4"C7" eefg |"F" f4 z4 |] %26
+w: vine O|night * O night di-|vine|
+

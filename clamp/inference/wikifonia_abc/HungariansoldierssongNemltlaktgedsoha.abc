@@ -1,0 +1,19 @@
+X:1
+T:Nem látlak téged soha
+T: 
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:3/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" c c d | e2 c | g2 f | e2 c | =B2 c |"G" d3 |"C" c c d | e2 c | g2 f |"G" e2 d | e2 f | g3 | %12
+w: Nem lát- lak|té- ged|so- ha,|so- ha,|so- ha|sem,|Te sem lá-|tod, hogy|ér- ted|köny- nyes|a sze-|mem,|
+"Cm" g g g | b a g |"Fm" f2 a | f f f | a g f |"Cm" e2 g | c2 G | c2 e | g2 g |"Fm" f g a | g f d | %23
+w: Ne- ve- det|hi- á- ba|mon- dom,|köny- nye- met|hi- á- ba|on- tom,|A har-|cok me-|ze- jén,|va- la- hol|tõ- * led-|
+"Cm" e2 c |"G" d d d | f e d |"Cm" c"Fm" a2 |"Cm" g2 f |"G" e2 d |"Cm" c3 |] %30
+w: tá- vol,|A- hol majd|sen- ki sem|gyá- szol,|Ott ha-|ok meg|én.|
+

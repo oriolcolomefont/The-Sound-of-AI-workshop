@@ -1,0 +1,64 @@
+X:1
+T:Slow Hand (Transcribed)
+C:John Bettis and Michael Clark
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="tk4" snm="tk4"
+%%MIDI channel 4
+%%MIDI program 74
+V:1
+"Bbmin" z2 fe z d z e | z d z e z f z2 |"Db " z a ef- f2 z2 |"Ab " z c AF-"Bbmin" F2 z2 | %4
+w: ||||
+ z2 fe z d z e | z d z e z f z2 |"Db " z a ef- f2 z2 |"Ab " cA EF-"Bbmin" F2 B,D | %8
+w: |||* * * * * As ~the|
+"Ebmin" EE ED B,2 z C |"Gb " EE ED B,2 z A, |"Bbmin7" A2 A A2 A AF/E/ |"Db " D4"Bbmin" z A, B,C | %12
+w: ~mid- night ~mo- o\- on ~was|~drift- ing ~thro- \- ugh the|~la- zy ~sway ~of ~the ~tre- e\-|s, I ~saw ~that|
+"Ebmin" EE DE/D/ B,2 z C |"Gb " DE DE/D/ B,2 z2 |"Bbmin7" AA AF AA AF/E/ |"Db " D3 z F2 A2 | %16
+w: ~look ~in ~your ~ey- e\- s ~look-|ing ~in- to ~mi- n\- e,|see- ing ~what ~you ~want- ed ~to ~s- e\-|e. Dar- lin,|
+"Bbmin" BB AB/A/ F2 FA | BB AB/A/ F2 ED |"Gb " E2 D"Ebmin" E2 D _FE- |"Gb " E/D/B,- B,2 z A, B,D | %20
+w: ~don't ~say ~a ~wo- r\- d ~'cause ~I|~al- rea- dy ~he- a\- rd what ~your|~bod- y's ~say- ing ~to ~mi-|* n\- e. * I'm ~tired ~of|
+"Ebmin" E3 F"Gb " z A, B,D |"Ebmin" E2 z _F2 E3 |"Ab " z4 FA FA- | AF DE- E4 | %24
+w: ~fast ~moves, I ~got ~a|~slow ~gro- ove...|~on ~my ~mi- \-|* n\- \- d. *|
+"Ab7" z =E EE F_E DB, |"Db " E3 D- D4 |"Dbmin" z _F FF"Ab " FE ED |"Bbmin" E2 DB,- B,2 z2 | %28
+w: I ~want ~a ~ma- n with a|slow ~hand. *|I ~want ~a ~lov- er- ~with ~an|~ea- sy touch. *|
+"Db " z D FA AA AF |"Ab " A2 AF/E/"Db " D4 |"Dbmin" z _F FF"Ab " FE ED |"Bbmin" E2 DB,- B,2 z2 | %32
+w: I want some- bo- dy ~who ~will|~spend some ti- m\- e,|not come and g\- o ~in ~a|~heat- ed rush. *|
+"Bbdim" z _F FF"Eb7" FE ED |"Gb " E2 E F2"Ebmin" E3 |"Ab7" z E/E/ EE FA, B,A, |"Db " D3 D- D2 z2 | %36
+w: I ~want ~some- bo- dy ~who ~will|~un- der- sta- nd,|when ~it ~comes ~to ~love, ~I ~want ~a|~slow ~hand. *|
+"Db7" z8 |"Bbmin" z F fe z d z e | z d z e z f z2 |"Db " z a ef- f2 z2 | %40
+w: ||||
+"Ab " z c AF-"Bbmin" F2 z2 | z F fe z d z e | z d z e z f z2 |"Db " z a ef- f2 z2 | %44
+w: ||||
+"Ab " cA EF-"Bbmin" F2 B,D |"Ebmin" EE DE/D/ B,2 z B, |"Gb " EE DE/D/ B,2 z A, | %47
+w: * * * * * On ~shad-|owed ~gro- \- \- \- und ~with|~no- ~one ~a- rou- n\- d and|
+"Bbmin7" B,2 A A2 A AA/A/ |"Db " F/E/ D2 z z B,"Bbmin" CD |"Ebmin" EE DE/D/ B,2 z D | %50
+w: ~a ~blank- et ~of ~stars ~in ~our|~ey- e\- s. We a\- re|~drift- ing ~fr- \- \- ee ~like|
+"Gb " EE DE/D/ B,2 B,D |"Bbmin7" A2 AA- AA A2 |"Db " FD- D2 F2 A2 |"Bbmin" BB AB/A/ F2 FA | %54
+w: ~two ~lost ~lea- v\- e\- s on the|cra- zy wind * ~of ~the|ni- ght. * Dar- lin',|~don't ~say ~a ~wo- r\- d ~'cause ~I|
+ BB AB/A/ F2 ED |"Gb " E2 D E2"Ebmin" D _FE- |"Gb " E/D/B,- B,2 z A, B,D | %57
+w: ~al- rea- dy ~hea- r\- d what ~your|~bod- y's ~say- ing ~to ~mi-|* n\- e. * I ~want ~it|
+"Ebmin" E3 F"Gb " z A, B,D |"Ebmin" E2 z E/_F/- F E3 |"Ab " z4 FA FA- | AF DE- E4 | %61
+w: ~all ~night ~please ~say ~it's|~all ~right. Ooo- * oh,|~we ~got ~the ~ti-|* \- m\- e. *|
+"Ab7" z =E E/E/E F_E B,C |"Db " E3 D- D4 |"Dbmin" z _F FF"Ab " FE B,D |"Bbmin" E2 CB,- B,2 z2 | %65
+w: 'Cause ~I got a ma- n ~with ~a|~slow ~hand. *|I ~got ~a ~lov- er ~with ~an|~ea- sy touch. *|
+"Db " z D FA AA AF |"Ab " A2 AF/E/"Db " D4 |"Dbmin" z _F FF"Ab " FE B,C |"Bbmin" ED B,4 z2 | %69
+w: I ~found ~some- bo- dy who will|spend ~some ~ti- m\- e,|not ~come ~and ~g- o in a|heat- ed rush.|
+"Bbdim" z _F FF"Eb7" FE ED |"Gb " E2 E"Ebmin7" F2 E3 |"Ab7" z E/E/ EE FA, B,A, |"Db " D3 D- D2 z2 | %73
+w: I ~found ~some- bo- dy ~who ~will|~un- der- sta- nd,|when ~it ~comes ~to ~love ~I ~want ~a|~slow ~hand. *|
+"Db7" z8 |"Ab " z c Bc B z z2 | z A FA"Bbmin" z A, B,D |"Eb " E3 F E2 z2 |"Gb " z2 z _F E2 ED | %78
+w: ||* * * I want it|all ~night *|ple- ase ~say ~it's|
+"Bbmin" ED B,4 z2 |"Db " z4 z A, B,D |"Eb " E3 F z2 B,D | (3E4 _F4 E4 |"Ab " z4 FA FA- | %83
+w: ~a- l ~right.|It's ~not ~a|~fast ~move, but ~a|~slow gro- ove...|~on ~my ~mi- \-|
+ AF DE- E4 |"Ab7" z =E E/E/E F_E B,C |"Db " E3 D- D4 |"Dbmin" z _F FF"Eb7" FE ED | %87
+w: * \- n\- d. *|'Cause ~I got a ma- n ~with ~a|~slow ~hand. *|I ~got ~a ~lov- er ~with ~an|
+"Bbmin" E2 DB,- B,2 z2 |"Db " z D FA AA AF |"Ab " A2 AF/E/"Db " D4 |"Dbmin" z A _FD"Ab " FE B,C | %91
+w: ~ea- sy touch. *|I ~found ~some- bo- dy ~who ~will|~spe- nd ~some ~ti- me.|not ~come ~and ~g- o in a|
+"Bbmin" ED B,4 z2 |"Bbdim" z B AF"Eb7" BA FD |"Gb " z E2"Ebmin7" E E D2 B- |"Ab7" B2 AF GF ED | %95
+w: heat- ed rush.|I ~found ~some- bo- dy who will|un- der- sta- nd, I|* found a lo- ver with a|
+"Db " E3 D- D2 z2 |"Db7" z8 |"Bbmin" z2 fe z d z e | z d z e z f z2 |"Ab7" z a e"Bbmin"f- f4 | %100
+w: ~slow ~hand. *|||||
+"Dbmaj7" z c Ad- d4 |] %101
+w: |
+

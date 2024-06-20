@@ -1,0 +1,40 @@
+X:1
+T:Those were the days
+T:Those Were The Days
+T:Gene Raskin
+T:Gene Raskin
+T:Essex Music Inc., New York
+C:Gene Raskin, Traditional
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble-8 nm="Guitar"
+%%MIDI program 27
+V:1
+|:"Am7" AABc"Am6" dcBA |"Am7" c A3"Am6" z2 z A |"A7" EEFG AEFE |"Dm" D6"Dm6" z D |"Dm" AABc dcBA | %5
+w: 1.Once up- on a time there was a|ta- vern. *|Where we used to raise a glass or|two. Re-|mem- ber ho we laughed a- way the|
+w: 2.Then the bu- sy years went rush- in|by us, we|lost our star- ry mo- tions on the|way. If|by chance I'd see you in the ta-|
+w: 3.Just to- night I stood be- fore the|ta- vern. No-|thing seem- ed the way it used to|be. In|the glass I saw a strang re- flect-|
+w: 4.Through the door there came fam- il- iar|laugh- ter I|saw your face and heard you call my|name. Oh,|my friend we're ol- der but no wi-|
+"Am7" (c A3)"Am6" z2 z A |"B7" BA^GA"^(B7/4)" BA"B7"GA |"E" B8 | z2"^(E5+)" c2"^(E5+)" c2"E7" B2 || %9
+w: hours, _ _|Think of all the great things we would|do.|Those were the|
+w: vern, _ we'd|smile at on an- oth- er and we'd|say:||
+w: ion. _ _|Was that lone- ly fel- low real- ly|me?||
+w: ser, _ For|in our hearts the dreams are still the|same.||
+[M:2/4]"Am" B2 AA- | AA AG |"Dm" G2 FF- | FD EF |"G7" G3 A | BA GF |"C" E4 | z C DE |"Dm" G2 FF- | %18
+w: days, my friend.|_ We thought they'd|ne- ver end,|_ we'd sing and|dance for|e- ver and a|day.|We'd live the|life we chose,|
+w: |||||||||
+w: |||||||||
+w: |||||||||
+ FF GA |"Am" d2 cc- | cA Bc |"E7" e3 d | cB A^G |"Am" A4- | Ac c"E7"B |"Am" B2 AA- | AA AG | %27
+w: _ we'd fight and|ne- ver lose|_ for we were|young and|sure to have our|way.|_ La la la|la la la|_ la la la|
+w: ||* those were the|days, oh|yes those were the|days.|_ _ _ _|||
+w: |||||||||
+w: |||||||||
+"Dm" G2 FF- | FD EF |"E7" E3 ^G | cB A^G ||1,2,3[M:4/4]"Am" A6 z2 || z8 :|4"Am" A4- || A z z2 |] %35
+w: la la la|_ La la la|la, la|la la la la|la.||la.|_|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+

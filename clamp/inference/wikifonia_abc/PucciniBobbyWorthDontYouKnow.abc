@@ -1,0 +1,26 @@
+X:1
+T:Don't You Know
+T:Don't You Know
+C:Puccini
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" B6 |"Dm" A6 |"Eb""G7/D" G6- |"Cm" G2 GA (3BAG |"F7sus4" BE"Cm7" E4- |"F7" E2 FG"F+7" (3AGF | %6
+w: Don't|you|know?|_ I have fall- en in|love with you|_ for the rest of my|
+"Bb" AD D4- |"Gm7/F" D4 z2 |"Bb" B6 |"Dm" A6 |"Eb""G7/D" G6- |"Cm7" G2 GA (3BAG | %12
+w: whole life through.|_|Don't|you|know?|_ I was yours from the|
+"Eb" BE"Eb/F" E4- |"F7" E2 FG"F+7" (3AGF |"Bbmaj7" AD"Bb" D4- | D4 z2 |"Ddim" _A6 |"G7" G6 | %18
+w: ver- y day|_ that you hap- pened to|come my way.||Can't|you|
+"Cm" E6- | E2"G7" E2 (3CDF |"Cm" E6- |"Eb" E2 GA (3BAG |"Bb" d6- | d2"Eb" G2 B2 |"Bb" d4 ff | %25
+w: see?|_ I'm un- der your|spell|_ By the look in my|eyes|_ can't you|tell? Can't you|
+"F7" d6 |"Bb" B6 |"Dm" A6 |"Eb" G6- |"Cm" G2 GA (3BAG |"Bb/D" f3 d cB |"Gm" G4 D2 |"Bb/F" DF F4- | %33
+w: tell?|Don't|you|know?|_ ev- 'ry beat of my|heart keeps cry- ing|out I|want you so.|
+"F7" F2 F2 d2 |1"Bb" B6 |"C7""F7" z6 :|2"Bb" B6 |] %37
+w: _ Don't you|know?||know?|
+

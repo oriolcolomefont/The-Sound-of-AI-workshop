@@ -1,0 +1,32 @@
+X:1
+T:Don't Take Your Love From Me
+T:Don't Take Your Love From Me
+C:Henry Nemo
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Dm7" EDCD"Fmaj7" E D2 D |"Fm6" EDCD E D2 E/F/ |"Cmaj7" G G3 z BAB | G8 |"Dm7" EDCD"Fmaj7" E D2 D | %5
+w: You could take my cas- tle, that's|if I had a cas- tle and I'd|miss it for just a-|while.|You could take my trea- sure, that's|
+"Fm6" EDCD E D2 E/F/ |"Cmaj7" G2 GG"B7" B2 BB |"Emaj7" ^G8 |"Fmaj7" z ABc dcAF |"Fm6" D8 | %10
+w: if I had a trea- sure and I'd|face pov- er- ty with a|smile.|But there's one thing I ask of|you,|
+"C" E C3"D9" CDEA |"Dm7" G6"G7" GA |"Cmaj7" G2 E2"Dm7" E D2 D- |"Em7" D6 CD | %14
+w: one thing you must nev- er|do: Tear a|star from out the sky|* and the|
+"G7/D" B,2 A2"G7" A4- |"Dm7" A6"G7" AB |"Dm7" A2 F2 F E2 E- |"G7" E6 DE |"Cmaj7" C2 B2 B4- | B8 | %20
+w: sky feels blue.|* Tear a|pet- al from a rose|* and the|rose weeps too.||
+"C/E" B2 c2 c3 A |"Ebdim7" B2 c2 c3 A |"Dm7" c2 D2"A+7" F2"A7" E2 |"Dm7" D6 A2 | %24
+w: Take your heart a-|way from mine and|mine will sure- ly|break. My|
+ c2 D2"A+7" F2"A7" E2 |"Dm7" D6"G7" E2 |"Cmaj7" (3G2 G2 G2"Ab7" _B3 _A |"G7" G6"G+7" GA | %28
+w: life is yours to|make, so|please keep the spark a-|wake. Would you|
+"Cmaj7" G2 E2"Dm7" E D2 D- |"Em7" D6 CD |"G7/D" B,2 A2"G7" A4- |"Dm7" A6"G7" AB | %32
+w: take the wings from birds|* so that|they can't fly?|* Would you|
+"Dm7" A2 F2 F E2 E- |"G7" E6 DE |"C" C2 c2 c4- |"Gm7" c6"C7" c2 |"Fmaj7" e2 d2 d2 c2 | %37
+w: take the o- cean's roar|* and leave|just a sigh?|* All|this your heart won't|
+"Bb9" c2 _AA A4 |"C" z2 dc G2 E2 |"Em7b5" _B2 c2"A7" A4 |"Dm7" z2 c2 A2 F2 |"G7" E4 E4 | %42
+w: let you do. *|This is what I|beg of you,|Don't take your|love from|
+"C""F""Fm" C8- |"C" C6 z2 |] %44
+w: me.||
+

@@ -1,0 +1,25 @@
+X:1
+T:He'll Have To Go
+T:He'll have to go
+T:Joe Allison,Audrey Allison
+C:Audrey Allison, Joe Allison
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z2"^N.C." d^d |"C" e2"^(1)" cc de |"F" ff- f2 ga |"C" g6- | g4 ef | g2 g2 ag | e2 G2 fe | %7
+w: Put your|sweet lips a lit- tle|clos- er * to the|phone|* lets pre-|tend that were to-|geth- er all a-|
+"G7" d6- | d2 B2 cd |"C" e2 ^d2 ef | g2 g2 ag |"F" f6- | f2 c2 cd |"C" e2 e2 fe |"G7" d2 dG Bd | %15
+w: lone|* I'll tell the|man to turn the|juke box way down|low|* and you can|tell your friend there|with you he'll have to|
+"C" c6- |"^(2)""^N.C." c4 d^d | e2 c2 de |"F" ff- f2 ga |"C" g6- | g4 ef | g4 ag | e2 G2 fe | %23
+w: go|* whis- per|to me tell me|do you * love me|true|* or is|he hold- ing|you the way I|
+"G7" d6- | d2 B2 cd |"C" e2 ^d2 ef | g2 g2 ag |"F" f6- | f4 cd |"C" e2 eG ce |"G7" d2 dG Bd | %31
+w: do?|* tho love is|blind make up your|mind I've got to|know|* should I|hang up or will you|tell him he'll have to|
+"C" c6- |"C7" c4 g^g |"F" a2 ^g2 a_b | ag f2 ff |"C" e2 ^d2 ef | e4 g^g |"F" a2 ^g2 a_b | %38
+w: go|* you cant|say the words I|want to hear while you're|with an- oth- er|man If you|want me an- swer|
+ ag f2 cd |"C" e2 e2 fe |"G7" d4"^Play (1),(2) and end" d^d |] %41
+w: yes or no Dar- ling|I will un- der-|stand put your|
+

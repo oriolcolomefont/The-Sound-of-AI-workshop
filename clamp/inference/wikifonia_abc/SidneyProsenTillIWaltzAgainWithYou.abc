@@ -1,0 +1,23 @@
+X:1
+T:Till I Waltz Again With You
+T:Till I waltz again with you
+T:Sidney Prosen
+C:Sidney Prosen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 FG AGFD |:"F" C8- |"F" C2 FG AFAd |"C7" c8- | c2 GA BGED | C8- |"C7" C2 GA BGEG |"F" F8- | %8
+w: Till I waltz a- gain with|you|* let no oth- er hold your|charms|* if my dreams should+ all come|true|* You'll be wait- ing for my|arms|
+ F2 FG AGFD | C8- | C2"F" FG AFAd |"C7" c8- | c2 GA BGED | C8- |"C7" C2 GA BGEG |"F" F8- | %16
+w: * till I kiss you once a-|gain|* keep my love locked in your|heart|* Dar- ling I'll re- turn and|then|* we will nev- er have to|part|
+"Gm7" F4- F"F"FBc |"Bb" d4- dFBd |"F" c4- c2 c2 |"C7" BABA B2 c2 |"F" A4-"F7" AFBc |"Bb" d4- dFBd | %22
+w: * * Though it may|break * your heart and|mine * the|min- ute when its time to|go * re- mem- ber|dear * each word d-|
+"F" c4- c3 F |"G" A3 A"G7" G2 F2 |"C7" G2 FG AGFD |"F" C8- | C2 FG AFAd |"C7" c8- | c2 GA BGED | %29
+w: vine * that|meant I love you|so Till I waltz a- gain with|you|* just the way we are to-|night|* I will keep my prom- ise|
+"F" C8- | C2"C7" GA BGEG |1"F" F4-"Gm7" F3"F" z | z2"C7" FG AGFD :|2"F" F8- | F6 z2 |] %35
+w: true|* for you are my guid- ing|light. *|Till I waltz a- gain with|light.||
+

@@ -1,0 +1,38 @@
+X:1
+T:Mad About Him, Sad Without Him,
+T:Mad About Him, Sad Without Him, How Can I Be Glad Without Him, Blues
+C:Dick Charles
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z4 z G<AG |"C" c2 _B2 G C3 | c>G_B>G c G2 G- | G8- |"C7" G2 z2 z2 (3CDC |"F7" G2 F2 _E C3 | %6
+w: I went to|bed last eve- nin',|feel- in' blue as I could be.|_|* I could- n't|sleep last eve- nin',|
+ z3/2 =E<F^F/ G>AC>E- |"C" E8- | E2 z2 z2 _B>G |"C7" _B2 B2 A G2 ^F |"F7" G>cG>^F"G7" =F2 _E>C- | %11
+w: with what was wor- ry- in' me.|_|* Oh, the|tears I've wast- ed would|sure- ly fill the deep blue sea.|
+"C""F9" C8- |"C" C2 z2"G7" z3/2 G<^DE/ |"C" G>G^D>E G>GD>E | G>G^D>E G>GD>E | G8- | %16
+w: _|* I've got those|cry a- bout him, die with- out him,|Lord- y where am I with- out him|blues.|
+"C7" G2 z2 z3/2 c<^GA/ |"F7" c>c^G>A c4 | z3/2 _e<de/ d>cA>_A |"C" G8- | G2 z2 z3/2 G<A_B/ | %21
+w: _ He keeps me|walk- in' on the floor,|and like a fool I ask for|more.|_ Al- though I|
+"G7" =B>dB>_B A>GA>B | =B>d_B>=B G _e2 c- |"C""C/Bb""Adim""Fm6/Ab" c8- | %24
+w: know he is- n't good, I would- n't|leave him if I could, ah no!|_|
+"C/G" c2 z2"G7" z3/2 G<AG/ |"C" c>^DE>G- G3 A | c>^DE>G- G2 z A | c>^DE>G c>DE>G | %28
+w: * I'm not the|first on his list, _ I'd|nev- er be missed, _ I|wish I had a dime for ev- 'ry|
+"C7" _B2 A2 G2 _E>D- |"F6" D8 | z2 (3CDC"G7" ^D E2 C- |"C" C8- | C2 z2 z3/2 G<AG/ | %33
+w: gal he's kissed; I swear|_|I'd be a mil- lion- aire.|_|* And yet I|
+"G7" d _B2 G- G2 z3/2 ^D/ | E>GE>G A>(_ED>)C- |"C""F9" C8- |"C" C2 z2"G7" z3/2 G<^DE/ | %37
+w: would- n't care, _ as|long as I could get my * share.|_|* I've got those|
+"C" G>G^D>E G>GD>E | G>G^D>E G>GD>E | G8- |"C7" G2 z2 z3/2 c<^GA/ |"F7" c>c^G>A c4 | %42
+w: mad a- bout him, sad with- out him,|how can I be glad with- out him,|blues|_ He makes my|dreams go up in smoke,|
+ z3/2 _e<de/ d>cA>_A |"C" G8- | G2 z2 z3/2 G<A_B/ |"G7" =B>dB>_B A>GA>B |1 =B>dB>_B G _e2 c- | %47
+w: and then he treats it like a|joke.|_ He's just an|orn- 'ry sort of guy, and yet I'll|love him till I die, poor me!|
+"C""C/Bb""Adim""Fm6/Ab" c8- |"C/G" c2 z2"G7" z3/2 G<AG/ :|2"G7" =B>dB>_B G _e2 c- | %50
+w: _|* I went to|love him till I die, poor me!|
+"C""C/Bb""Adim""Fm6/Ab" c8- |"C/G""F/G""C" c6"^N.C." z2 |] %52
+w: _||
+

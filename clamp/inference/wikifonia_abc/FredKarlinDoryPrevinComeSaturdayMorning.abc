@@ -1,0 +1,35 @@
+X:1
+T:Come Saturday Morning
+T:Come Saturday Morning
+C:Fred Karlin
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" z z G | G"Bbsus4" A"Eb" B |"Ab" E3 |"Ab6" F3 |"Eb" z z G | G"Bsus4" A"Eb" B | %6
+w: Come|Sat- ur- day|morn-|ing|I'm|go- ing a-|
+w: Come|Sat- ur- dya|morn-|ing|I'm|go- ing a-|
+"Db6" B3/2 A/ G |"Db" F3 |"Ab" z z c | c"Ebsus4" _d"Ab" e |"Db" e2 _d/c/ | B A B |"C7sus4" c3- | %13
+w: way with my|friend;|We'll|Sat- ur- day|spend till the|end of the|day.|
+w: way with my|friend;|Well|Sat- ur- day|laugh more than|half of the|day.|
+ c3- | c3- | c3 |"Fm" z z A | A"C7sus4" B"Fm" c |"Bb" F3- | F3 |"Fm" z z A | A"C7sus4" B"Fm" c | %22
+w: _|||Just|I and my|friend.|_|We''ll|trav- el for|
+w: _|||Just|I and my|friend,|_|dressed|up in our|
+"Bbsus4" e3/2 d/"Bb9" c |"Bb7" d"Bb9" c"Bb7" B |"Ebmaj7" G3- | G3 |"Amaj7" z z"Ab" E | c3/2 B/ A | %28
+w: miles with our|Sat- ur- day|smiles,|_|and|then we'll move|
+w: rings and our|Sat- ur- day|things,|_|and|then we'll move|
+"Gm7" B3- |"Ab" B3 | z z E | e3/2 d/ c |"Gm" B3 |"Cm" E3 |"Fm7" B A"Fm9" G |"Bb9" A3/2 G/"Bb7" F | %36
+w: on.|_|But|we will re-|mem-|ber|long af- ter|Sat- ur- day's|
+w: on.|_|But|we will re-|mem-|ber|long af- ter|Sat- ur- day's|
+"Eb" (G/F/) E2- |"Bb7sus4" E2"Eb" z |"Ab" z3 |"Ab6" z3 |1"Eb" z z G | G"Eb7sus4" A"Eb" B |"Ab" E3 | %43
+w: gone. _ _|_|||Come|Sat- ur- day|morn-|
+w: gone. _ _|_||||||
+"Ab6" F3 :|2"Eb" z"^Repeat and Fade" z G | G"Eb7sus4" A"Eb" B |"Ab" E3 |"Ab6" F3 |] %48
+w: ing.|Come|Sat- ur- day|morn-|ing.|
+w: |||||
+

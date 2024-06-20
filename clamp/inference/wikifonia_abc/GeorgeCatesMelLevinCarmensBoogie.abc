@@ -1,0 +1,40 @@
+X:1
+T:Carmen's Boogie
+T:Carmen's Boogie
+T:"Habanera" from "Carmen" by Georges  Bizet
+T:George Cates & Mel Levin
+C:George Cates & Mel Levin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"Dm" d2 ^c2 | c c2 c =B2 _B2 | A3 A ^G2 =G2 | FFEF G2 FE- |"Gm" E4 d2 ^c2 | c c2 c =B2 _B2 | %6
+w: Hate the|op- 'ra, it's too high-|brow; but there's one|num- ber I can dig right now.|* Just like|shift- in' with- out a|
+ A3 A G2 F2 |"A7" EEDE F2 ED- |"Dm" D2 z2"D" d2 ^c2 ||[K:D]"D" =c c2 c B2 _B2 | A3 A ^G2 =G2 | %11
+w: clutch I ride the|boo- gie with the Car- men touch.|* You ain't|Liv- in' if you have|missed the long- hair|
+ FFEF G2 FE- |"G" E4 d2 c2 | =c c2 c B2 _B2 |"D7" A3 A"A7" G2"D7" F2 |"A7" EEDE F2 E"D6"D- | %16
+w: mu- sic with the crew- cut twist.|* Don't love|of- ten and don't love|much, but love that|boo- gie with the Car- men touch.|
+ D3 A, D2 E2 |"D" F3 A F2 E2 | D3 E FDGE | AAAA"B7" B2 AG- |"Em" G3 B, E2 F2 | G3 B G2 F2 | %22
+w: * It rips up|floors, it knocks down|walls; they tell me it's the|rea- son that Ni- ag- 'ra falls.|* It's ev- en|made Gib- ral- tar|
+ E3 F GEAF | BBBB"A7" c2 B"D6"A- | A3 A, D2 E2 |"D" F3 A F2 E2 | D3 E F2 G2 | AAAA"B7" B2 AG- | %28
+w: rock; it ain't the kind- a|thing a mock- in' bird can mock.|* The day it|hit in old Bom-|bay, a Hin- du|could- n't charm a snake a- way.|
+"Em" G3 B, E2 F2 | G3 B G2 F2 | E3 F GEAF | BA^GA"A7" BBcc |"D" d2 z2"Dm" d2 c2 | %33
+w: * They say in|French, in Greek, and|Dutch, the boo- gie was- n't|boo- gie till it got the Car- men|touch. Knew a|
+"Dm" =c c2 c B2 _B2 | A3 A ^G2 =G2 | =FFEF G2 FE- |"Gm" E4 d2 c2 | =c c2 c B2 _B2 | A3 A G2 =F2 | %39
+w: fel- low, a cat named|Red; he played fine|pia- no but they shot him dead.|* Red de-|served it, the "such and|such"; he fluffed off|
+"A7" EEDE =F2 ED- |"Dm" D4"D" d2 c2 |"D" =c c2 c B2 _B2 | A3 A ^G2 =G2 | FFEF G2 FE- | %44
+w: boo- gie with the Car- men touch.|* What brings|sau- cers a- round from|Mars, and why do|Ma- sons leave their Ma- son jars?|
+"G" E4 d2 c2 | =c c2 c B2 _B2 |"D7" A3 A"A7" G2"D7" F2 |"A7" EEDE F2 E"D6"D- | D2 z2"Eb7" F4 | %49
+w: * What makes|ba- bies cry out so|much? They want their|boo- gie with the Car- men touch.|* I|
+"D6" A8- | A3"Ab9b5" d- d4 |"G6" B8 | B3"Bb9b5" E- E4 |"A9" e8- | e3"Eb9b5" A- A4 |"D6" d8- | %56
+w: can't|* re- *|veal|* the *|way|* I *|feel|
+ d4"Eb7" F4 |"D6" A8- | A3"Ab9b5" d- d4 |"G6" B8- | B3"Bb9b5" E- E4 |"A9" e8- | e3"Eb9b5" A- A4 | %63
+w: * I|love|* so *|much|* the *|Car-|* men *|
+"D6" d8- | d2 z2 z4 |] %65
+w: touch.||
+

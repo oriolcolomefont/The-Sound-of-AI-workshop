@@ -1,0 +1,52 @@
+X:1
+T:My Mammy
+T:My Mammy
+T:Walter Donaldson
+T:Sam Lewis & Joe Young
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c c"Gbdim" c3/2 A/ |"C" G/A/B/c/- c"Cm6" A |"D7""G7" d4 |"C" c2 c' z |:"C" G G"Ab7" ^G G | %5
+w: |||||
+w: |||||
+"F" A/c/A/E/-"G7" E D :|"C/E" G G"Ab7/Eb" ^G G |"Dm7" A2 c z |"C/G" E/ G3/2"G7/F" G"G+" G | %9
+w: |Ev- 'ry thing seems|love- ly|When you start to|
+w: |We all start our|trav- els|search- ing for a|
+"C" G2- G z | z3/4 G/<A/E/4"Dbdim" G/ A E/ |"G7/D" G/A/D/G/- G z | %12
+w: roam *|The birds are sing- ing the|day that you stray *|
+w: friend *|If you went search- ing down|deep in your mind *|
+"G7/B" z3/4 G/<A/D/4"G7" G/ A D/ |"C" G/A/E/G/- G z |"C/E" G G"Ab7/Eb" ^G G |"Dm7" A2 c z | %16
+w: But wait un- til you are|furth- er a- way *|Things won't be so|love- ly|
+w: You know you just left the|best pal be- hind *|Af- ter all our|trav- els|
+"C/G" E/ G3/2"G7/F" G"G+" G |"C" G3 z |"C/E" G G"A7b5/Eb" A A |"G/D" B2"E7/B" d2 | %20
+w: When you're all a-|lone|Here's what you'll keep|say- ing|
+w: Where do we all|wend|Back home to our|first love|
+"Am7" c c"Bm/D" B B |"G7" G F"Em" E"G+" ^D ||"C""^Chorus" c4 |"Em" B4 |"F" A4 |"C" G2- G z/ G/ | %26
+w: When you're far from|home. * * *|Mam-|my|Mam-|my * The|
+w: At the journ- ey's|end.- * * *|||||
+"F" A A"C" G z/ G/ |"F" A"F7" A"C" G z/ G/ |"F" A A"C/E" G"C" E/C/ |"D7/A" E E"G7" D z |"Ddim" F4 | %31
+w: sun shines East the|sun shines west, But|I've just learned where the|sun shines best.|Mam-|
+w: |||||
+"E7" E3 z |"A7" B4 | A3 z |"G" d d d"Eb7/Bb" ^c |"Am7" c/d/c/E/- E/G/ B |"D7" A4 |"G7" G3 z | %38
+w: my|Mam-|my|My heart strings are|tang- led a- round * Al- a-|bam-|y.|
+w: |||||||
+"C" G2- G3/2 F/ | E/ G3/2- G z |"C7" _B/A/G/A/ B B | _B3 z |"F" A2- A3/2 G/ | F/ A3/2- A z | %44
+w: I'se * a|com- in' *|sor- ry that I made you|wait.|I'se * a|com- in' *|
+w: ||||||
+"Dm7" c/B/"D"A/B/ c A |"G7" B F E D |"C" c4 |"Em" B3 z |"F" A4 |"C/E" G2- G/ z/4 ^G/<A/B/4 | %50
+w: hope and pray I'm not too|late. * * *|Mam-|my|Mam-|my * I'd walk a|
+w: ||||||
+"F" c c"Gbdim" c z/ A/ |"C/G" G/A/B/c/-"C/E" c"Cm6/Eb" A |"D7""G7/B" d4 |1 %53
+w: mil- lion miles for|one of your smiles * my|Mam-|
+w: |||
+"C" c G"Ebdim" A"G7" B :|2"C" c2 c' z |] %55
+w: my * * *|my. *|
+w: ||
+

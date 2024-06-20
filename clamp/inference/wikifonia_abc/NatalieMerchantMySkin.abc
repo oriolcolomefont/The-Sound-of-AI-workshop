@@ -1,0 +1,68 @@
+X:1
+T:My Skin
+T:My Skin
+T:Natalie Merchant
+T:Natalie Merchant
+C:Natalie Merchant
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Ab
+V:1 treble 
+%%MIDI program 52
+V:1
+"^intro" c2- c/d/ |"Fm""Cm" c6- |"Db" c z"Ab""Ab" z"Ab""Ab" c3- |"Bbm" c2 d/c/ B3- |"Eb" B3 z3 | %5
+w: Ah * *||* Ah|||
+w: |||||
+"Fm" cd<"Cm""Cm"c-"Cm""Cm" c3- |"Db""Ab""Ab" c3"Ab""Ab" z3 | e3- e2 d/c/ |"Eb" B3 z AA |: %9
+w: ah * * *||ah * * *|* Take a|
+w: ||||
+"Fm" AG"Cm""Cm" A"Cm""Cm" E<C z |"Db" FE"Ab""Ab" D"Ab""Ab" C3 |"Bbm" B,C D B,>CD | %12
+w: look at my Bod- y;|look at my hands|There's so much here that I|
+w: tempt loves teh si- lence,~it|thrives in the dark,~with|fine wind- ing ten- drils that|
+"Eb" ED C B,2 z/ E/ |"Fm" AG"Cm""Cm" A"Cm""Cm" ED<C |"Db" FE"Ab""Ab" D"Ab""Ab" C2 A,/A,/ | %15
+w: don't un- der- stand. Your|face sav- ing prom- i- ses|whis- pered like prayers. I don't|
+w: stran- gle the heart. *|They say that prom- i- ses|sweet- en the blow~but I don't|
+ B, C2- C3 |"Eb" G3 z/ C/CB, |"Fm" A,B, C A,2 C/B,/ |"Db" A,B, C E2 z/ E/ |"Ab" ED C E>DC |1 %20
+w: need them, *|* 'cause I've Been|treat- ed so wrong. I've been|treat- ed so long, as|if I'm be- com- ing un-|
+w: need them. *|||||
+"Eb" C/B,/ B,2 z AA :|2"Eb" C/B,/ B,2 z B,B, ||"Fm" A,B, C A,CB, |"Db" A,B, C A,2 z | %24
+w: touch- a- ble. Well, come-|touch- a- ble. I'm a|slow dy- ing flower. * *|frost kill- ing hour,|
+w: ||||
+"Ab" A,B, C E>DC |"Eb" C/B,/ B,2 z3 |"Fm" ag"Cm""Cm" f"Cm""Cm" e3 |"Db" d2"Ab""Ab" c"Ab""Ab" c2 A | %28
+w: sweet turn- ing sour and un-|touch- a- ble.||* * * Ooh,|
+w: ||||
+"Bbm" cA<B- B3- |"Eb" B3 z2 A/B/ |"Fm" c/d/"Cm""Cm" c2-"Cm""Cm" c3- |"Db""Ab""Ab" c3"Ab""Ab" z3 | %32
+w: |* ooh, *|||
+w: ||||
+ e3- e2 d/c/ |"Eb" B2 z C/B,/A,F,/B,/ ||"Fm" B,C>A, B,C>A, |"Db" B,C>A, B, C2 |"Ab" z3 z CC/C/ | %37
+w: Ooh, * * *|* Oh, I need the dark-|* ness, the sweet- ness, the|sad- ness the weak- ness|Oh, I need|
+w: |||||
+"Eb" CB, z z3/2 A,/A,/A,/ |"Fm" B,/B,<CA,/ B,/B,/ C z |"Db" B,B, C B,/B,<CB,/ |"Ab" A,2 z z E>C | %41
+w: * this. I need a|lull- a- by, a kis good- night,|an- gel, sweet love of my life.|* Oh, I|
+w: ||||
+"Eb" CB, z z B,>B, ||"Fm" B,A,G,/A,/ A,2 z |"Db" A,B,<A, A,2 z/ A,/ |"Ab" A,B, C E>DC | %45
+w: need this. I'm the|slow dy- ing flower, *|frost kil- ling hour, the|sweet turn- ing sour and un-|
+w: ||||
+"Eb" C/B,/ B,2 z3 | z3 AA>A |"Fm" AG"Cm""Cm" A"Cm""Cm" E2 D/C/ |"Db" FE"Ab""Ab" D"Ab""Ab" CD>C | %49
+w: touch- a- ble.|Do you re-|mem- ber the way tha you|touched me be- fore, all the|
+w: ||||
+"Bbm" B,C D B, C z/ D/ |"Eb" ED>C B,2 z/ E/ |"Fm" AG"Cm""Cm" A"Cm""Cm" E/E/ E2 | %52
+w: trem- bl- ing sweet- ness I|loved adn a- dored? Your|face sav- ing prom- i- ses|
+w: |||
+"Db" FE"Ab""Ab" D"Ab""Ab" C2 A,/A,/ | B,C z z3 |"Eb""^N.C" z3"^N.C" z3/2 A,/A,/A,/ |: %55
+w: whis- pered like prayers, I don't|need them.|I need the|
+w: |||
+"Fm" B,C>A, B,C>A, |"Db" B,C>A, B, C2 |"Ab" z3 z CC/C/ |"Eb" CB, z z3/2 B,/B,/A,/ | %59
+w: dark- ness, the sweet- ness, the|sad- ness, the weak- ness.|Oh, I need|* this. I need a|
+w: dark enough? Can~you see me? Do~you|want me? Can~you reach me?|Or I;m leav-|* in', You bet- ter|
+"Fm" B,/B,<CA,/ A,/A,/ C2 |"Db" CC<D D/D/D/DC/ |"Ab" C2 z z3/2 EC/ |1"Eb" C B,2 z3/2 A,/A,/A,/ ||2 %63
+w: lull- a- by, a kiss good- night,|an- gel, sweet love of my life *|* Oh, I|need this. We, is it|
+w: shut your mouth and hold your breath.|Kiss me now, you'll catch you death. *|* Oh, I||
+"Eb" C B,2 z3 ||"Fm" z6 |"Db" z6 |"Ab" z3 z E>C |"Eb" C B,2 z3 |:"Fm" z6 |"Db" z6 |"Ab" z6 | %71
+w: mean it.|||Oh I|need this.||||
+w: ||||||||
+"Eb" z6 :| %72
+w: |
+w: |
+

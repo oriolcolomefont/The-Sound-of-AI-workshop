@@ -1,0 +1,18 @@
+X:1
+T:Incident At Neshabur
+T:Incindent at neshabur
+T:Santana
+C:Santana
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Track 1"
+%%MIDI program 1
+V:1
+ FGGD FGGD | FGGD [Gce] [F^Ad]2 F | GGDF GGDF | GFDC ^A,G,FG | GDFG GDFG | GDFG GDFG | %6
+ GDFG GD[DAd][DAd] | [Be]2 [DAd][DAd] [Be]2 [EBe][EBe] | [^c^f][EBe][EBe][cf] [EBe][EBe]GA | %9
+ Bcde fgbc' | e'c'bb c'bab | gagd dfaf | ddfb c'd'e'g' | e'^DEF GG=DF | GFGG DFGG | Dgec ecBc | %16
+ Bgec ecBc | Bgec ecBc | BBcd e c2 e | ee'e'e' d'e'd'c' | bc'd'e' d'e'd'c' | c'd'e'd' e'd'c'B- | %22
+ B3 e cbd'b | d'bd'b d'c'bd' | bd'bd' bd'c'^f | gecB GEC z |] %26
+

@@ -1,0 +1,25 @@
+X:1
+T:Brass on Ivory
+T:Brass on Ivory
+T:Henry Mancini
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 EG AGcB |:"Ab13" _B3 c F4- |"Ebm7/Ab" F2 _E2"Ab9" F2 _A2 |"G13" (3=A2 =B2 =d2 =e4- | %4
+"Dm7/G" e2 d2"G13" A2"Db9" G2 |"Gm7/C" A3 D F2 A2 |"C13" c6"Gb9" _e_d |"Fmaj7" =ec A6- | %8
+ A2 GA cGAc |"Cm7/F" d3 c df_ed |"^F7-9" _d6 A2 |"Bbm7" c_e_dc"^Eb-9" _c4- | c6 G_A | %13
+"Ebm7/Ab" _B2 _E2 F2 _G2 |"Fbmaj7" _A2 _D2 _E2 _G2 |"Ebmaj7" =G8 |"Dm7" G2 C2"^Dmy/G" D2 G2 | %17
+"^Cma76" E8 | z2 EG AGcB |"Ab13" _B3 c F4- |"Ebm7/Ab" F2 _E2"Ab9" F2 _A2 | %21
+"G13" (3=A2 =B2 =d2 =e4- |"Dm7/G" e2 d2"G13" A2"Db9" G2 |"Gm7/C" A3 D F2 A2 |"C13" c6"Gb9" _e_d | %25
+"Cm7/F" c8- |"Bb13" c4"Bb+9" z2 eB |"Bbm9" c2 _e2 c2 _A_B |"F#m9" =B4"F7#9" _A2"E7#9" =G_G | %29
+"Ebmaj7" _B2 _EF (3G2 _B2 c2 |"^D7-9-5" d6 c2 |"Dbmaj7" _d2 c2 _A3 F |"Bbm7" _A6 F_A | %33
+"Gm7" c2 A2 F2 D2 |"Ebmaj7" F2 A4"E7b9" FD |"Db7#9" E8- | E8 | D_E_E=E EFF^F | %38
+ ^FG^G=G"^C-9+11" A_B !fermata!^F2 |] %39
+

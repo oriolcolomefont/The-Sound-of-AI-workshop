@@ -1,0 +1,33 @@
+X:1
+T:Start A Revival
+T:Start A Revival
+T:Hank Zeck
+T:Hank Zeck
+T:2006
+C:Hank Zeck
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C2" E4 EE |"G" D2"Em/G" E2"G/B" D2 |"C" C4 CD |"C/E" E2"Cdim7" F2 ^F2 |"C2" G4"Cmaj7/B" GG | %5
+w: Start a re-|viv- al in|me. Dear Lord|Je- sus please|start a re-|
+w: I ad- *|mit that I've|failed. Dear Lord|Je- sus yes|I now ad-|
+w: Melt my *|heart with Your|love. Dear Lord|Je- sus please|melt all my|
+"G/B" F2"Em/G" G2"G/B" F2 |"C" E6- |"C7/Bb" E4"C7/E" GG |"F" A3 G A"C/E"G |"Dm7""C/E" F4"F" GA | %10
+w: viv- al in|me|* May it|come from deep with-|in Spread to|
+w: mit that I've|failed|* Take the|self- ish- ness and|sin. Ho- ly|
+w: heart with Your|love.|* Touch the|things I do and|say, Ho- ly|
+"C2""Cdim/Eb" G3 ^F"C/E" G"G7/D"=F |"C/E" E4"F" A2 |"C/G""F/A" G4"Fm/Ab" CD | %13
+w: oth- ers deep in|sin Oh,|start a re-|
+w: Spir- it rule with-|in Oh,|start a re-|
+w: Spir- it lead to-|day Oh|keep a re-|
+"C2" E2"Em/G" E2"G7/B" D2 |"C" C6 |] %15
+w: viv- al in|me|
+w: viv- al in|me.|
+w: viv- al in|me.|
+

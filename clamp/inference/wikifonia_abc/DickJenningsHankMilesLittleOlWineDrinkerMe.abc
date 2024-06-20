@@ -1,0 +1,31 @@
+X:1
+T:Little Ol' Wine Drinker Me
+T:Little ol' wine drinker me
+T:Dick Jennings,Hank Miles, 
+C:Dick Jennings, Hank Miles
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z e/_e/ |"C" z z z G |"F" A c c A |"C" c G3- | G3 c/d/ | e e e e | g e d c |"G7" d4- | %8
+w: I'm pray-|rain|in Cal- i- for-|ni- a|* so the|grapes will grow and|they can make more|wine|
+ d3 G/G/ |"C" G G2 G |"F" A c c A |"C" c G3- | G3 c/d/ | e e e e |"G7" f f e d |"C" c4- | c G A G | %17
+w: * and I'm|sit ting in|a hon- key in|Chi- ca-|go with a|bro- ken heart and|wo- man on my|mind|* I ask the|
+"G7" d2 G/A/ G |"C" d2 G/A/ G | g2 c2- | c3 c/d/ | e e e e | g e d c |"G7" d4- | d z2 G/G/ | %25
+w: man be- hind the|bar for the *|juke box|* and the|mu- sic takes me|back to Ten- nes-|see|* and they|
+"C" G G G G |"F" A c c c |"C" g2 c2 | g2 c c/d/ | z e/e/ e e |"G7" f2 e d |"^C" c4- | c3 z | %33
+w: ask who is the|fo- ol in the|cor- ner|cry- ing I say|lit * tle ol'|wine drin- ker|me.||
+[K:D] z2 z f/f/ |"D" f A2 A |"G" B d d B |"D" d A3- | A3 d/e/ | f f f f | a f e d |"A7" e4- | %41
+w: |he- re last|week from down in|Nash- ville|* cos my|ba- by left for|Flori- da on a|train|
+ e3 A/A/ |"D" A A2 A |"G" B d d B |"D" d A3- | _A3 d/e/ | f f f f |"A7" g g f e |"D" d4- | %49
+w: * I thought|I'd get a|job and just for-|get her|* but in|Chi- cago a broken|heart is still the|same|
+ _d A B A |"A7" e2 A/B/ A |"D" e2 A/B/ A | a2 d2- | _d3 =d/e/ | f f f f | a f e d |"A7" e4- | %57
+w: * I ask the|man be- hind the|bar to play the|juke- box|* and the|mus- ic takes me|back to Tenn- es|se|
+ _e2 z/ z/ A/A/ |"D" A A A A |"G" B d d d |"D" a2 d2 | a2 d d/e/ | z f/f/ f f |"A7" g2 f e | %64
+w: * when they|ask who is the|fo- ol in the|cor- ner|cry- ing I say|a lit- tle ol|wine drink- er|
+"D" d4- | _d3 z |] %66
+w: me.||
+

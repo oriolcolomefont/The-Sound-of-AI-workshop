@@ -1,0 +1,17 @@
+X:1
+T:A csitári hegyek alatt
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Am" E A3 c2 e2 |"Dm" d c3 B A3 |"G" G3 c B A3 |"Am" A E3 E2 z2!fine! :|"E" e e3 f e3 | %5
+w: A csi- tá- ri|he- gyek a- latt|ré- gen le- e-|sett a hó,|Ki- tör- ted a|
+"Am" A A3"Dm" d2- g2 |"G" g f3 e c3 |"Am" B2 A2 E2 z2!D.C.! |] %8
+w: ke- ze- det, _|mi- vel ö- lelsz|en- ge- met?|
+

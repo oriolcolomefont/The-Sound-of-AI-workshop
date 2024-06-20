@@ -1,0 +1,21 @@
+X:1
+T:El Condor Pasa
+T:EL CONDOR PASA
+C:Daniel Robles, Jorge Mitchberg
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Emin
+V:1 treble nm="Piano"
+%%MIDI program 75
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+!mp! z8 | z4 z2 z B, |:"Em"!<(! E^DEF GFG!<)!A |"G" B6 ed | B6 ed | B4- BB"B7"AG | %6
+"Em" A/G/E-!>(! E4!>)!"B7" B2 |"Em" A/G/E- E4 z B, |!<(! E^DEF GFG!<)!A |"G" B6"C" ed | %10
+"G" B4- (3Bed"C" ed |"G" e/d/B- B2- B B"B7"AG |"Em" A/G/E-!>(! E4!>)!"B7" B2 | %13
+"Em"!mf! A/G/E- E4"G7" z B |"C" e3 ^d e>d e>f | g>f e4 ge |"G" d4- dd"C"ed |"G" B6- BB | %18
+"C" e3 ^d ed e>d | e4- ee g>e | d4- dded |"G" B4- B!>(!B"B7"A!>)!G |1"Em" A/G/E- E6 | %23
+ z4 z2 z B, :|1"Em" A/G/E- E6 || [EGBe]8 |] %26
+

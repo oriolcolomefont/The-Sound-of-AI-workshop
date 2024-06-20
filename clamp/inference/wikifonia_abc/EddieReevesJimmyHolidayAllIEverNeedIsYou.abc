@@ -1,0 +1,32 @@
+X:1
+T:All I Ever Need Is You
+T:All I Ever Need Is You
+C:Eddie Reeves
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" BBBB dd/d/-dB |"B7" A8 |"Em" z GGA/B/- BB/B/-BG | =F6 z D |"C" EE/E/-E^F GGGE/D/- | %5
+w: Some- times when I'm down and all _ a-|lone,|just like a child _ with- out _ a|home. The|love you give _ me keeps me hang- in' on,|
+"G" D3 D"Em" E G3 |"A7" z2 G<G G<G (B/A/)G |"D7" A8 |"G" z2 B>B dddB |"B7" A8 |"Em" z2 G>A B<BBG | %11
+w: _ Oh, hon- ey,|all I ev- er need _ is|you.|You're my first love you're my|last,|You're my fu- ture, you're my|
+"G7" =F8 |"C" z E E<^F G>GGE |"G""Em" D4 E G3 |"A7" z2 BB"Am7/D" AG"D7" (B/A)G/ |"C" G4 z4 |] %16
+w: past.|And lov- ing you is all I|ask, Hon- ey,|All I ev- er need _ is|you.|
+"C" z2 G<G G2 EG |"D" A8 |"C" z2 GG/G/- GG/e/-ec |"Bm" (e d3- d4) |"C" z2 ee e<efe | %21
+w: Win- ters come and they|go,|and we watch _ the melt- * ing|snow. _ _|Sure as sum- mer fol- lows|
+"G" d2"Bm/D" Bd/B/-"Em" BA"G/D" G2 |"C" z G"C/B"G>G"Am7" g/gg/gg |"Am7/D" g2 (e<d) G2"D7" A2 || %24
+w: spring, all the things _ you do|give me a rea- son to build my|world a- * round you.|
+"G" BBBB dd/d/-dB |"B7" A8 |"Em" z GGA/B/- BB/B/BG | =F6 z z |"C" EE/E/-E^F GGGE/D/- | %29
+w: Some men fol- low rain- bows I _ am|told.|Some men search for _ sil- ver, some for|gold.|I have found * my trea- sure in your soul,|
+"G" D3- D"Em" E G3 |"A7" z2 G<G G<G (B/A/)G |"D7" A8 |"G" z2 B/BB/ dd/d/dB |"B7" A6 z A | %34
+w: _ _ Hon- ey,|All I ev- er need _ is|you.|With- out love I'd nev- er find the|way, Through|
+"Em" GGGA/B/- BBBG |"G7" =F8 |"C" EEE^F/G/- GGGE |"G""Em" D3 D E G3 | %38
+w: ups and downs of ev- * 'ry sin- gle|day.|I wont sleep at night _ un- til you|say, my Hon- ey,|
+"A7" z2 BB"Am7/D" AG"D7" (B/A)G/ |"C" G4 z4 |] %40
+w: All I ev- er need _ is|you;|
+

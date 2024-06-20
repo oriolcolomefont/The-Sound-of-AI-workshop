@@ -1,0 +1,42 @@
+X:1
+T:If I Ruled The World
+T:If I Ruled The World
+C:Cyril Ornadel
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z"Bb7" B, |:"Eb" G2 G3/2 ^F/ |"Eb6" G4- |"Ebmaj7" G2 G B |"Eb7" A G F E |"Dm7" F2 F3/2 G/ | %6
+w: If|I ruled the|world|_ ev- 'ry|day would be the|first day of|
+w: |I ruled the|world|_ ev- 'ry|man would be as|free as a|
+ F4- |"G7" F2 F A |"G+7" G F E D |"Cm" E2 E3/2 F/ |"Cm7" E4- |"F7" E z E F | E2 E G |"Eb" B2 G A | %14
+w: spring,|_ Ev- 'ry|heart would have a|new song to|sing|_ And we'd|sing of the|joy ev- 'ry|
+w: bird,|_ Ev- 'ry|voice would be a|voice to be|heard.|_ Take my|word we would|trea- sure each|
+"Edim7" B2 A G |1"Fm7" F4- || F2 z"Bb7" B, :|2"Fm7" F4- ||"G7" F4 |"Cmaj7" G2 G2- |"C6" G C D =E | %21
+w: morn- ing would|bring.|_ If|||My world|_ would be a|
+w: day that oc-|||curred.||||
+"Dm7" G3/2 G/ F"G7" D- | D D =E F |"Cmaj7" G2 =B,2 |"C6" (3C2 =E2 G2 |"Fm7" B4- |"Bb7" B3 z | %27
+w: beau- ti- ful place|_ where we would|weave such|won- der- ful|dreams.||
+w: ||||||
+"Ebmaj7" B2 B2- |"Eb6" B E F G |"Fm7" B3/2 B/ A"Bb7" F- | F2"G7" G F |"Cm" E2 F G |"Eb6" F E G B | %33
+w: My world|_ would wear a|smile on it's face|_ Like the|man in the|moon has when the|
+w: ||||||
+"Am7" d4 |"Fm7" c2- c"Bb7" B |"Eb" G2 G3/2 ^F/ |"Eb6" G4- |"Ebmaj7" G2 G B |"Eb7" A G F E | %39
+w: moon|beams. _ If|I ruled the|world|_ ev- 'ry|man would say the|
+w: ||||||
+"Dm7" F2 F3/2 G/ | F4- |"G7" F2 F A |"G+7" G F E D |"Cm" E2 E3/2 F/ | E4- |"F7" E2 E F | E2 E G | %47
+w: world was his|friend,|_ There'd be|hap- pi- ness that|no man could|end,|_ No, my|friend, not if|
+w: ||||||||
+"Eb" B4 |"Bbm6" B3 c |"C7b9" B4- |"C7" B z F G |"Fm7" A2 F G | A2 F2 | A4- |"Bb7" A2 G A | %55
+w: I|ruled the|world.|_ Ev- 'ry|head would be|held up|high,|_ There'd be|
+w: ||||||||
+"Eb" B2 G A |"Bbm6" B c _d2 |"C7b9" B4- |"C7" B2 A G |"Fm7" A2 A B | c2"Bb9" d2 |"Fm7" e4 | %62
+w: sun- shine in|ev- 'ry- one's|sky|_ If the|day ev- er|dawned when|I|
+w: |||||||
+ c2"Bb9" d2 |"Eb" e4- | e2"Bb7" B2 |"Fm7" c2"B7b5" d2 |"Eb" e z z2 |] %67
+w: ruled the|world.|_ _|||
+w: |||||
+

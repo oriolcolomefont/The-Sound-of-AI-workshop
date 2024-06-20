@@ -1,0 +1,35 @@
+X:1
+T:This Train (is bound for glory)
+T:This Train (is bound for glory)
+T:American Gospel Song 1925
+T:©
+C:American Gospel Song 1925
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"F" F F2 A |"C7" G3/2 F/ D C |"F" F F3- | F4 | c c2 f |"Bb" d3/2 c/ A G |"C7" c c3- | c4 | %8
+w: This train is|bound for flo- ry,|this train,|_|This train is|bound for glo- ry|this train,|_|
+w: This train don't|carry no gam- blers,|this train,|_|This train don't|carry no gam- blers|this train,|_|
+w: This train is|built for speed, now,|this train,|_|This train is|built for speed, now,|this train.|_|
+w: This train don't|carry no li- ars,|this train,|_|This train don't|carry no li- ars|this train,|_|
+w: This train don't|carry no rus- tlers,|this train,|_|This train don't|carry no rus- tlers|this train,|_|
+"F" c c2 f | d3/2 c/ A G |"Bb" G F/F/ F/F/F/F/ |"F" A/A/F/F/ D C | F F2 A |"C7" G3/2 F/ D C | %14
+w: This train is|bound for flo- ry,|don't car- ry noth- in' but the|right- eous and the ho- ly,|This train is|bound for glo- ry,|
+w: This train don't|cary no gam- blers,|no crap- * shoot- ers or _|mid- * night _ ram- blers,|||
+w: This train is|built for speed, now,|Fast- est _ train _ you _|ev- er did _ see, *|||
+w: This train don't|carry no li- ars,|no hyp- o- crites _ and _|no _ high _ fly- ers,|||
+w: This train don't|carry no rust- lers,|Side- street _ walk _ ers _|two _ bit _ hus- tlers,|||
+"F" F F3- | F4 :| %16
+w: this train.||
+w: ||
+w: ||
+w: ||
+w: ||
+

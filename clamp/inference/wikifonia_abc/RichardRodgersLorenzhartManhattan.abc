@@ -1,0 +1,36 @@
+X:1
+T:Manhattan
+T:Manhattan
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" z3/4 c/<=B/c/4"F/A" e"Abdim" d |"Gm7" z3/4 D/<^C/D/4"C7" A E |"Fmaj7" G G"Bb6" G2- | %3
+w: We'll have Man- hat- tan|the Bronx and Stat- en|Is- land too;|
+w: We'll go to Green- wich|where mod- ern men itch|to be free;|
+"Am7" G F"Abdim7" D F |"C7/G" c c"F#dim7" c2- |"C7/G" c2"C+7" e2 |"F""D7" c4- |"Gm7""C7" c4 | %8
+w: * it's love- ly|go- ing- through|* the|zoo.||
+w: * and Bowl- ing|Green you'll see|* with|me.||
+"F" z3/4 c/<=B/c/4"F/A" e"Abdim7" d |"Gm7" z3/4 D/<^C/D/4"C7" A E |"Fmaj7" G G G2- |"Dm7" G F E F | %12
+w: It's ver- y fan- cy|on old De- lan- cey|Street you know;|* the sub- way|
+w: We'll bathe at Bright- on,|the fish you'll fright- en|when you're in|* your bath- ing|
+"G7" E D d2- | d =B G F |"Gm7" F"C7" E c2 | E D"C7b9" B2 |"F" z3/4 c/<=B/c/4"D7" e d | %17
+w: charms us so,|* when balm- y|breez- es blow|to and fro|and tell me what street|
+w: suit so thin,|* will make the|shell- fish grin|fin to fin.|I'd like to take a|
+"Gm7" z3/4 D/<^C/D/4"C7" A E |"F" G G"Bb6" G2- |"Am7" G F"Abdim7" D F |"C7/G" c c"F#dim7" c2- | %21
+w: com- pares with Mott Street|in Ju- ly,|* sweet push carts|gent- ly glid-|
+w: sail on Ja- mai- ca|Bay with you;|* and fair Can-|ar- sie's Lakes|
+"C7/G" c2"C7" e2 |"Am7b5" c4- |"D7b9" c A ^G A |"Gm7" B A/>B/ A G |"Eb9" B3 G | %26
+w: * ing|by.|* The great big|cit- y's a wond- 'rous|toy just|
+w: * we'll|view.|* The cit- y's|bus- tle can- not des-|troy the|
+"F" A G/>A/"Dm7" G F |"G7" d4 |"F" z3/4 c/<=B/c/4"F/A" e"Abdim" d |"Gm7" z3/4 D/<^C/D/4"C7" A A |1 %30
+w: made for a girl and|boy|We'll turn Man- hat- tan|in- to an isle of|
+w: dreams of a girl and|boy.|We'll turn Man- hat- tan|in- to an isle of|
+"F""Abdim" F4- ||"Gm7" F z"C7" z2 :|2"F""Bb6" F4- ||"F" F3 z |] %34
+w: joy.||||
+w: ||joy.||
+

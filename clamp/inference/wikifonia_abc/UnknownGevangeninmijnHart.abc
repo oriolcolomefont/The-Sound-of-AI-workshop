@@ -1,0 +1,33 @@
+X:1
+T:Gevangen in mijn Hart
+T: Laukens Music Productions  
+T:GEVANGEN IN MIJN HART
+T:Arr. : H. Laukens
+T:Jazz Rock
+T:2
+T:GEVANGEN IN MIJN HART blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=140
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 55
+%%MIDI control 10 59
+V:1
+ F,G, B,C |"Bb" B,8- | B,4 F,G, B,C | B,8- | B,2 B,C DB, ED ||"Bb" CB,- B,6- | B,2 DD DB, A,B, | %7
+"F7" C8- | C2 CD EC FE | DC- C6- | C2 FF FC B,C |"Bb" D8- | D2 B,C DB, ED | CB,- B,6- | %14
+ B,2 DD DB, A,B, |"F7" C8- | C2 CD EC FE | DC- C6- | C2 A,B, CB, DC |"Bb" B,8- | %20
+"Bb7" B,2 EF GF _AG ||[K:Eb]"Eb" FE- E6- | E2 GG GE DE |"Bb7" F8- | F2 FG AF BA | GF- F6- | %26
+ F2 DD DE DC |"Eb" B,8- |"Bb7" B,2 EF GE AG |"Eb" FE- E6- | E2 GG GE DE |"Bb7" F8- | F2 FG AF BA | %33
+ GF- F6- | F2 DE FE GF |"Eb" E8 |[K:B]"F#7" F2 B,C DC ED |"B" CB,- B,6- | B,2 DD DB, A,B, | %39
+"F#7" C8- | C2 CD EC FE | DC- C6- | C2 FF FC B,C |"B" D8- | D2 B,C DB, ED | CB,- B,6- | %46
+ B,2 DD DB, A,B, |"F#7" C8- | C2 CD EC FE | DC- C6- | C2 A,B, CB, DC |"B" B,8- | %52
+"B7" B,2 EF GF =AG ||[K:E]"E" FE- E6- | E2 GG GE DE |"B7" F8- | F2 FG AF BA | GF- F6- | %58
+ F2 DD DE DC |"E" B,8- |"B7" B,2 EF GE AG |"E" FE- E6- | E2 GG GE DE |"B7" F8- | F2 FG AF BA | %65
+ GF- F6- | F2 DE FE GF |"E" E8- |"A" E2 FG AF BA |"B7" GF- F6- | F2 DE FE GF |"E" E8- | E8- | %73
+ E2 z2 z4 |] %74
+

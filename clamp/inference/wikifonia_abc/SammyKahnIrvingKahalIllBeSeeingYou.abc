@@ -1,0 +1,27 @@
+X:1
+T:I'll Be Seeing You
+T:I"ll be seeing you
+T:(Easy version)
+T:Sammy Kahn
+T:Irving Kahal
+C:Sammy Kahn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E3 D |"E7" D C B, C |"Dm" F3/2 E/"A7" E D |"Dm" D ^C C D |"Dm" F3/2 E/"A7" E D | %5
+w: I'll be|see- ing you in|all the old fam-|il- iar plac- es|that this heart of|
+"Dm" D3/2 ^C/ C D |"C" ^D E A2- | A4 |"Am" c3 B | B A ^G A |"Dm7" c3 B | B A ^G A |"G7" A3 =G | %13
+w: mine em- brac- es|all day through||In that|small ca- fe the|park a-|cross the way the|child- rens|
+ G ^D D B |"C" A E E A |"G7" ^D A, A,2 |"C" E3 D |"E7" D C B, C |"Dm" F3/2 E/"A7" E3/2 D/ | %19
+w: car- ou- sel, the|chest- nut tree the|wish- ing well|I'll be|see- ing you in|ev- ery love- ly|
+"Dm" D3/2 ^C/ C D | F3/2 E/"A7" E3/2 D/ |"Dm" D3/2 ^C/ C D |"Gm" G3/2 F/ F3/2 E/ | %23
+w: summ- ers day in|ev- ery thing thats|bright and gay I'll|al- ways think of|
+"A7" E3/2 ^D/ D E |"Dm" A3/2 A/ G F |"E7" B3/2 B/ A ^G |"Am" c c B A |"D7" E3 D/E/ | %28
+w: you that way i'll|find ~~~you in the|mor- ning sun and|when the night is|new I'll be|
+"Dm" F/F/F/F/ F2 |"Gm" F G/_A/ G F |"C" c4- | c4 |] %32
+w: look- ing at the moon|but I'll be see- ing|you||
+

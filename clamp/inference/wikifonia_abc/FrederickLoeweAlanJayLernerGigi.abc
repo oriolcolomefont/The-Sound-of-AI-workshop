@@ -1,0 +1,43 @@
+X:1
+T:Gigi
+T:Gigi
+T:from Gigi
+T:Frederick Loewe
+T:Allan Jay Lerner
+C:Frederick Loewe
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E2 E2 E2 FG | AGFE DCDE | FEDC B,A,B,C |"Dm7" D4 z2 A,2 |"G" D2 D2 D2 EF | GFGF E2 D2 | %6
+w: Gi- gi am I a|fool with- ~out a mind of have I|mere- ly been too blind to re- a-|lize? Oh|Gi gi why you've been|grow- ing up be- fore my|
+w: ||||||
+"C" E8- | E2 z2 z4 |"E" E2 E2 E2 ^F^G | A^G^FE ^D^C^DE |"B7" ^F6 ^G2 | ^F4 z2 ^F2 |"G" G4 A2 B2 | %13
+w: eyes||Gi- gi you're not at|all that fun- ny awk- ward lit- tle|girl I|knew Oh|no O- ver|
+w: ||||||* I was|
+"Am7" cBAG"D7" A2 E2 |"Dm" G6"^ToCoda" D2 |"G7" F4 z2 ^D2 |"C" E2 E2 E2 FG | AGFE DCDE | %18
+w: night there's been a breath- less|change in|you Oh|Gi- gi while you were||
+w: mad not to have seen the|~change in|||tremb- ling on the brink was I out|
+ FEDC B,A,B,C |"F" D4 z2 E2 |"Dm" F2 F2 E2 FG |"A7" AGAG FEDE |"Dm" F8- | F2"Dm7" z2 A,2 A,B, | %24
+w: |||||* When did your|
+w: yon- der some- where blink- ing at a|star? Oh|Gi- gi have I been|stand- ing up too close or back too|far?||
+"F" C2 C2"Fm" C2 C2 |"Em" C2 D2 z2 B,C |"F" D2 D2"Fm" D2 D2 |"C" D2 E2 z2 CD | E2 E2 E2 E2 | %29
+w: spark- le turn to|fi- re and your|watmth be- come de-|si- re? Oh what|mi- ra- cle has|
+w: |||||
+"G7" G2 FE D2 D2 |"C""^and""^Play""^Coda""^skipto" C8 |"^to" z8 ||"^Coda""F" F4"G7" z2 ^D2 | %33
+w: made you the way you|are?||you! Oh|
+w: ||||
+"C" E2 E2 E2 FG | AGFE DCDE | FEDC B,A,B,C |"F" D4 z2 E2 |"Dm" F2 F2 E2 FG |"A7" AGAG FEDE | %39
+w: Gi- gi while you were|tremb- ling on the brink was I out|yon- der some- where blink- ing at a|star? Oh|Gi- gi have I been|stand ing up too close or back too|
+w: ||||||
+"Dm" F8- | F2"Dm7" z2 A,2 A,B, |"F" C2 C2"Fm" C2 C2 |"Em" C2 D2 z2 B,C |"F" D2 D2"Fm" D2 D2 | %44
+w: far?|* when did your|spar- kle turn to|fi- re and your|warmth be- come de-|
+w: |||||
+"C" D2 E2 z2 CD | E2 E2 E2 E2 |"G7" G2 FE D2 D2 |"C" C8- | C8 |] %49
+w: si- re? oh what|mi- a- cle has|made you the way you|are?
+||
+w: |||||
+

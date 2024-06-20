@@ -1,0 +1,22 @@
+X:1
+T:Isten báránya
+T: 
+C:Sillye Jenő
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Em" GGGF E2 z E |"D" A>A AB"C" G<G G>F |"Em" E2 z2 z4 |"A" AE E2"C" GE E>D | %4
+w: Is- ten bá- rá- nya, te|el- ve- szed a vi- lág bû- ne-|it,|Ir- gal- mazz, ir- gal- mazz ne-|
+w: ||||
+"Em" E2"Em7" z2"A" z4 | z8 |"Em""^Felsõ szólam" BBBA G2 z G |"D" c>c cd"C" c<c c>A |"Em" B2 z2 z4 | %9
+w: künk!||Is- ten bá- rá- nya, te|el- ve- szed a vi- lág bû- ne-|it,|
+w: ||Is- ten bá- rá- nya, te|el- ve- szed a vi- lág bû- ne-|it,|
+"A" ^cA A2"C" =cc c>c |"Em" B2"Em7" z2"A" z4 | z8 |] %12
+w: Ir- gal- mazz, ir- gal- mazz ne-|künk!||
+w: Addj ne- künk, addj ne- künk bé-|két!||
+

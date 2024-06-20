@@ -1,0 +1,17 @@
+X:1
+T:Megyen már a hajnalcsillag
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" GAGE"G7" GFED |"C" E"F" C3"C" C2 z2!fine! |:"F" cBAB cB A2 |"C" GECE"G7" G G3 |1"G7" G4 z4 :|2 %5
+w: Me- gyen már a haj- nal- csil- lag|le- fe- lé,|Az én ked- ves ga- lam- bom|most me- gyen ha- za- fe-|lé,|
+w: Rá- sü- tött a haj- nal- csil- lag|su- ga- ra.|Lá- bán van a csiz- má- ja,|lak- kos szá- rú kis csiz-||
+"G7" D4 z4!D.C.! |] %6
+w: |
+w: ma,|
+

@@ -1,0 +1,31 @@
+X:1
+T:Have You Heard
+T:Have You Heard
+T:Lew Douglas, Frank Lavere and Roy Rodde
+C:Lew Douglas
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""B+7" c4 d4 |"Em" B8 |"F" z2 A2 (3A2 B2 c2 |"C" G8 |"Dm7" z2 FG"G7" AG F2 | %5
+w: Have you|heard?|Who's kiss- ing her|now,|Do you think she's blue|
+"Gm" z2 EF"A7" GF E2 |"Fm" z2 DE"G7" F2 E^D |"C" E8 | c4"B+7" d4 |"Em" B8 |"F" z2 A2 (3A2 B2 c2 | %11
+w: Did she say we're thru,|Has she found some- one|new?|Have you|seen|The way she looks|
+"C" G8 |"Dm7" z2 FG"G7" AG F2 |"Gm" z2 EF"A7" GF E2 |"Dm7" z2 DE"G7" F2 ED |"C" C8 | %16
+w: now,|Does she act the same|when she hears my name,|Does she say who's to|blame?|
+"E" z2 B,2 B3 _B | A2"G#7" ^G4 ^D2 |"A" ^F3 =F E3 ^D | ^F2"Edim" E4 ^C2 |"A" ^C3 B,"E" B,4- | B,8 | %22
+w: My arms are|emp- ty my|nights are long and|lone- ly, I|miss her so.|_|
+"G" z2 D2 d3 _d | c2"B7" B4 ^F2 |"C" A3 _A G3 ^F | =A2 G4"C7" _B2 |"B+7" =B3 B"B7" B4- | %27
+w: Each new to-|mor- row, can|on- ly bring me|sor- row, I|love her so.|
+"G9""G7" B8 |"C" c4"B+7" d4 |"Em" B8 | z2"F" A2 (3A2 B2 c2 |"C" G8 |"Dm7" z2 FG"G7" AG F2 | %33
+w: _|Have you|heard?|of their wed- ding|day|Rum- ors come and go|
+"Gm" z2 EF"A7" GF E2 |"Fm" z2 DE"G7" F2 E^D |"C""Gm" E4"A7" A4 |"Dm7" A4"G7b9" B4 |1 %37
+w: still I'd like to know,|if it's true, won't you|tell me|have you|
+"C""Cdim""Dm7" c6"G7b9" z2 :|2"C" c6 z2 |] %39
+w: heard?|heard?|
+

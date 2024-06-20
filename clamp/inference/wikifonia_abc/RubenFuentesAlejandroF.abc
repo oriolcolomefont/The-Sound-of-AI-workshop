@@ -1,0 +1,45 @@
+X:1
+T:La Bikina
+T:LA BIKINA
+T:Rigoberto Alfaro Derechos: Rubén Fuentes
+T:Transcripción: ALBERTO BETANCOURT
+T:JAZZ-WALTZ
+C:Ruben Fuentes
+Z:All Rights Reserved
+L:1/4
+Q:1/4=184
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" .d' !>!d2- |"Em7" d .d' .d |"Am7" .d' !>!d2- |"D7" d2 z |"G" .d' !>!d2- |"Em7" d .d' .d | %6
+w: ||||||
+w: ||||||
+"Am7" !>!d'3- |"D7" .d'/ z/ D G |:"G" c B B | c/ B A G/ |"F#m7b5" B A2- |"B7" A z B |"Em7" A G B | %13
+w: |* So- li-|ta- ria ca-|mi- na la Bi-|ki- na|_ La|gen- te se|
+w: |||||||
+"A7" A/ G A G/ |"Dm7" =F3- |"G7" F z z |"Cmaj7" E E E |"B7" F E F |"Em" G G2- |"Em7" G2 z | %20
+w: po- ne'a mur- mu-|rar|_|Di- cen que|tie- ne'u- na|pe- na|_|
+w: |||||||
+"A7" !>!B/A/ G/!>!B/ A/G/ | !>!B/A/ G/!>!B/ A/G/ |"D11" !>!A3- |"D7" .A/ z/ D d ||S"G" c B d | %25
+w: Di- cen que tie- ne'u- na|pe- na que la'ha- ce llo-|rar.|_ Al- ta-|ne- ra pre-|
+w: ||||ta- ria ca-|
+ c/ B A G/ |"F#m7b5" B A c- |"B7" c B2 |"Em7" A G B |"A7" A/ G A G/ |"Dm7" =F3- |"G7" F z z | %32
+w: cio- sa y'or- gu-|llo- sa No|_ per-|mi- te la|quie- ran con- so-|lar|_|
+w: mi- na la Bi-|ki- na Mien-|* tras|tan- to la|gen- te'al mur- mu-|rar|_|
+"Cmaj7" E E E |"B7" F E F |"Em" G A B |"F9" c2 z |"G" !>!B/A/ G/"Em7"!>!B/ A/G/ | %37
+w: Pa- sa lu-|cien- do su|real ma- jes-|tad|pa- sa ca- mi- na'y los|
+w: Di- cen que|al- guien ya|vi- no'y se|fué|Di- cen que pa- sa la|
+"Am7" !>!A/G/ F/"D7"!>!A/ G/F/ |"G" G3- | G2"^Fine" z |]"Cm7""_Tempo: 184" G2 z |"F7" A2 z | %42
+w: mi- ra sin ver- los ja-|más.|_|La|Bi-|
+w: vi- da so- ñan- do con|El.|_|||
+"Dm7" A2 z |"Gm7" _B2 z |"Cm7" _B2 B |"F7" c _B c |"Bb" d3- | d2 z |"Cm7" G2 z |"F7" A2 z | %50
+w: ki-|na|tie- ne|pe- na'y do-|lor|_|La|Bi-|
+w: ||||||||
+"Dm7" A2 z |"Gm7" _B2 z |"Em7" G2 G |"A7" G F G |"Am7" A3- |"D7" .A/ z/ D d"^D.S. al Fine" || %56
+w: ki-|na|no co-|no- ce'el a-|mor.-||
+w: |||||* So- li-|
+

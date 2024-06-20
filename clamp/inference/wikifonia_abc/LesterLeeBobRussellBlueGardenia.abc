@@ -1,0 +1,28 @@
+X:1
+T:Blue Gardenia
+T:Blue Gardenia
+C:Lester Lee
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am7" A3 B |"D7" d B3 |"Gmaj7" F G/A/ F D |"C#m7b5""F#7" F4 |"Fmaj7" E =F/G/ E C |"Bm7""E7" E4 | %6
+w: Blue Gar-|den- ia,|now I'm a- lone with|you,|and I am al- so|blue,|
+"Am7" E E"D7b9" (3F G A |"Gmaj7" B2"E7b9" d B |"Am7" A3 B |"D7" d B3 |"Gmaj7" F G/A/ F D | %11
+w: she has tossed us a-|side. And like|you, Gar-|den- ia,|once I was near her|
+"C#m7b5""F#7" F4 |"Fmaj7" E =F/G/ E C |"Bm7""E7" E4 |"Am7" E E"D7b9" (3F G A |"Am7""D7b9" B4 || %16
+w: heart,|Af- ter the tear- drops|start|where are tear- drops to|hide?|
+"Gmaj7" D2 E F/G/ |"D7b5" (^G"D7" A3) |"Gmaj7" z c"Em" (3B A G |"C#m7""F#7" F4 | %20
+w: I lived for and|hour. _|what more can I|tell?|
+"Bmaj7" F2"G#m7" ^G ^A/B/ |"C#m7" c"F#7" ^c3 |"B7" ^c c"E7b9" c/ B3/2 |"Em7""A7" A4 ||"Am7" A3 B | %25
+w: Love bloomed like a|flow- er,|then the pet- als|fell.|Blue Gar-|
+"D7" d B3 |"Gmaj7" F G/A/ F D |"Bm7b5""E7b9" d3 B |"Am7" A B/c/ A c |"D9sus4" E2"Ab7" F2 |1 %30
+w: den- ia,|thrown to a pass- ing|breeze, but|pressed in my book of|mem- o-|
+"G6""Em7" G4 |"Am7""D7b9" z4 :|2"G6" G4- | G4 |] %34
+w: ries.||ries.|_|
+

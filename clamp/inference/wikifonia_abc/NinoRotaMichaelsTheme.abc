@@ -1,0 +1,19 @@
+X:1
+T:Michael's Theme
+T:Michael's Theme
+C:Nino Rota
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Am" A2- (3A c B |"E+/A" ^G3 E |"Am" =G2- (3G A G |"E+""E7" E4 |"Dm" d2- (3d f e |"A+/D" ^c3 A | %6
+"Dm7" =c2- (3c d c |"E+""E7" ^G4 |"F" A2- (3A B c |"Fm6" _A4 |"C" c2- (3c d e |"E+""Am" c4 | %12
+"Bb" d2- (3d e f |"Dm/B" d2- (3d e f | e4- | e4 |"Am" A2- (3A c B |"E+/A" ^G3 E | %18
+"Am" =G2- (3G A G |"E+""E7" E4 |"Dm" d2- (3d f e |"A+/D" ^c3 A |"Dm7" =c2- (3c d c |"E+""E7" ^G4 | %24
+"F" A2- (3A B c |"Fm6" _A4 |"C" c2- (3c d e |"E+""Am" c4 |"Bb" d2- (3d e f |"Dm/B" d2- (3d e f | %30
+"E7" e4- |"E+7""E7" e4 |"Am" A2- (3A c B |"E+/A" ^G3 E |"A7" =G2- (3G A G |"E+""E7" E4 | %36
+"Dm" d2- (3d f e |"A+/D" ^c3 A |"E+" =c3 (3:2:1^G x/3 |"Am" !fermata!A4 |] %40
+

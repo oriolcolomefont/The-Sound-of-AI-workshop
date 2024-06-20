@@ -1,0 +1,36 @@
+X:1
+T:Polka Dots and Moonbeams
+C:Jimmy Van Husen
+Z:All Rights Reserved
+L:1/8
+Q:1/4=1
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F""^Moderately" C D2 E F G2 A |"D+7" cB/^F/ EC D4 |"Gm7" G B2 d"F" a f2 d | %3
+w: |||
+"Gm7" eB/c/ GE C2 B,2 |:"F" z3/2 C/ D>E"Dm" F>G A>c |"Gm7" A2 G>F"C9" E D3 | %6
+w: |A coun- try dance was be- ing|held in a gar- den,|
+"F" z3/2 C/ D>E"Dm" F>G A>c |"Gm7" d2 c>B"A+" A"A7" G3 |"Dm" F>G F>G"Bbm" F4 | %9
+w: I felt a bump and heard an|"Oh, beg you par- don,"|Sud- den- ly I saw|
+"F" A>A G>F E"Abm" _E3 |"Gm7" D>B G>F"C7" =E d2 c- |"F""C9" c8 |"F" z3/2 C/ D>E"Dm" F>G A>c | %13
+w: pol- ka- dots and moon- beams|All a- round a pug- nosed dream|_|The mu- sic start- ed and was|
+"Gm7" A2 G>F"C9" E D3 |"F" z3/2 C/ D>E"Dm" F>G A>c |"Gm7" d2 c>B"A+" A"A7" G3 | %16
+w: I the per- plexed one,|I held my breath and said "May|I have the next one?"|
+"Dm" F>G F>G"Bbm" F4 |"F" A>A G>F E"Abm" _E3 |"Gm7" D>B G>F"C9" E A2 F- |"F" F6"E7" E>^F | %20
+w: In my fright- ended arms|pol- ka dots and moon- beams|spark- led on a pug- nosed dream.|_ There were|
+"A" E2 ^c4"Gdim" e>_e |"Bm7" d>^c =B>A"E7" ^G E3 |"A" E^F F^G"C#m" (3G2"F#m" A2 ^c2 | %23
+w: ques- tions in the|eyes of oth- er danc- ers|As we float- ed o- ver the|
+"Bm7""E7" e6 E>^F |"A" E2 ^c4"Gdim" e>_e |"Bm7" d>^c"Dm" =B>A"E7" ^G E3 | %26
+w: floor. There were|ques- tions but my|heart knew all the an- swers,|
+"F#m7" z A2 =B"Cdim" A2 _B2 |"Gm7" c2 BG-"C9" G z"E" z2 |"F" z3/2 C/ D>E"Dm" F>G A>c | %29
+w: And per- haps a|few things more. _|Now in a cot- tage built of|
+"Gm7" A2 G>F"C9" E D3 |"F" z3/2 C/ D>E"Dm" F>G A>c |"Gm7" d2 c>B"A+" A"A7" G3 | %32
+w: li- lacs and laugh- ter|I know the mean- ing of the|words "ev- er af- ter"|
+"Dm" F>G F>G"Bbm" F4 |"F" A>A G>F E"Cm" _E3 |"Gm7" D>B G>F"C9" E A2 F- |1 %35
+w: And I'll al- ways see|pol- ka dots and moon- beams|When I kiss the pug- nosed dream.|
+"F" F>e f>c"C9" (3dBG (3EDB, :|2"F" F>e"Eb" f>c (3_dBG"F" F2 |] %37
+w: _ _ _ _ _ _ _ _ _ _||
+

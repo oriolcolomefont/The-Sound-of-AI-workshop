@@ -1,0 +1,36 @@
+X:1
+T:Castle on a Cloud
+T:Castle on a Cloud
+T:Claude-Michel Schönberg
+C:claude-michel schönberg
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am" AB/c/"E" B"F"A"Dm" A"E"^G |[M:2/4]"Am" A2 z2 |[M:3/4] AB/c/"G" BA GF |[M:2/4]"C" =E2 z2 | %4
+w: There is a cas- tle on a|cloud.|I like to go there in my|sleep.|
+w: There is a room that's full of|toys.|There are a hun- dred boys and|girls.|
+[M:3/4]"Dm" DE/F/"C/E" EA"E" B"E+"c |[M:2/4]"F" A2 z2 |[M:3/4]"Dm" DE/F/"E" ED CB, | %7
+w: Aren't an- y floors for me to|sweep,|not in my cas- tle on a|
+w: No- bod- y shouts or talks too|loud,|not in my cas- tle on a|
+[M:2/4]"Am" A,2 z2 :|[M:4/4]"F" FE/D<CD/"C" E>FEC |"F" AG/F<EF/"C" G>AG z/ G/ | %10
+w: cloud.|There is a la- dy all in white, *|holds me and sings a lul- a- by. She's|
+w: cloud.|||
+"Bb" _B>AGF/G/"F" A>FC z/ D/ |"E" E z/ F/E z/ F/ E/F/E/F/ E2 | %12
+w: nice to see and she's soft to touch. She|says, "Co- sette i love you ver- y much"|
+w: ||
+[M:3/4]"Am" AB/c/"E" B"F"A"Dm" A"E"^G |[M:2/4]"Am" A2 z2 |[M:3/4] AB/c/"G" BA GF | %15
+w: I know a place where no- one's|lost.|I know a place where no- one|
+w: |||
+[M:2/4]"C" E2 z2 |[M:3/4]"Dm" DE/F/"C/E" EA"E" B"E+"c |[M:2/4]"F" A2 z2 | %18
+w: cries.|Cry- ing at all is not al-|lowed,|
+w: |||
+[M:3/4]"Dm" DE/F/"E" ED CB, |"Am" !fermata!A,6 |] %20
+w: not in my cas- tle on a|cloud.|
+w: ||
+

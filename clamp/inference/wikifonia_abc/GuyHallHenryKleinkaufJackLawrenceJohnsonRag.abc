@@ -1,0 +1,28 @@
+X:1
+T:Johnson Rag
+T:JOHNSON RAG
+C:Guy Hall, Henry Kleinkauf
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ ^A2 |"G" B4 z3/2 G/ B>G | E2 _ED- D2"D+" ^A2 |"G" B4 z3/2 G/ B>G | E2 _ED- D2"G#dim7" B2 | %5
+w: Hep|Hep There goes the|John- son Rag _ Hoy|Hoy there goes the|lat- est shag _ Ho|
+"D7" c4 z3/2 A/ c>A | c>c AF- F2"G#dim7" B2 |"D7" c4 z3/2 A/ c>A |"Eb7" _B2"D7" AG"G" G2"D+" ^A2 | %9
+w: Ho It real- ly|is- n't a gag _ Hep|Hep There goes the|John- son Rag _ Jump|
+"G" B4 z3/2 G/ B>G | E2 _ED- D2"D+" ^A2 |"G" B4 z3/2 G/ B>G | E2 _ED- D2"G#dim7" B2 | %13
+w: Jump Don't let your|left foot drag _ Jeep|Jeep It's like a|game of tag _ Juke|
+"D7" c4 z3/2 A/ c>A | c>c AF- F2"G#dim7" B2 |"D7" c4 z3/2 A/ c>A |"Eb7" _B2"D7" AG-"G" G4 | %17
+w: Juke It's e- ven|good for a stag _ Jump|jump And do the|John- son Rag _|
+"Dm7" A2 G2"G7" A2 G2 |"Dm7" A B2 A-"G+7" A3 G |"C" A2 G2 AAcA- | A8 |"Em7" B2 A2"A7" B2 A2 | %22
+w: If you're feel- in'|in the groove _ It|sends you out of the world|_|Fun- ny how it|
+"Em7" B ^c2 B-"A7" B3 A |"D7" dd_dc- c2 ^GB- | BB_BA- A2"D+" ^A2 |"G" B4 z3/2 G/ B>G | %26
+w: makes you move _ I|don't wan- na coax _ But don't|_ be a "Mokes" _ Zig|Zig Then add a|
+ E2 _ED- D2"D+" ^A2 |"G" B4 z3/2 G/ B>G | E2 _ED- D2"G#dim7" B2 |"D7" c4 z3/2 A/ c>A | %30
+w: Zig Zig Sag _ Zoop|Zoop Just let your|shoul- ders wag _ Zoom|Zoom and now it's|
+ c>c AF- F2"G#dim7" Bc- |"D7" cABc- cAcA |"Eb7" _B2"D7" AG-"G" G2 z2 || %33
+w: right in the bag _ Get hep|_ and get hap- * py with the|John- song rag. _|
+

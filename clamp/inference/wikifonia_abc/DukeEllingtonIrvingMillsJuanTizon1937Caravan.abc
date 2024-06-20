@@ -1,0 +1,22 @@
+X:1
+T:Caravan
+T:Caravan
+T:Duke Ellington, Irving Mills & Juan Tizon, 1937
+C:Duke Ellington Irving Mills & Juan Tizon 1937
+Z:All Rights Reserved
+L:1/4
+Q:1/2=116
+M:2/2
+K:Ab
+V:1 treble nm="Flute"
+%%MIDI program 73
+V:1
+"^Brightly""Eb" c2-"C7" c2- |"Eb" c2-"C7" c2- |"Edim" c d"C7" c G |"Eb" B c"C7" =e G | %4
+w: Night _|_ _|* and stars a|bove that shine so|
+"Edim" B2-"C7" B2- |"Edim" B2-"C7" B2- |"Edim" B c"C7" d c |"Edim" d c"C7" _c =E | %8
+w: bright _|_ _|* the mys t'ry|of their fad ing|
+"Edim" B2-"C7" B2- |"Edim" B2-"C7" B2- |"Edim" B c"C7" _c B |"Edim" =A _A"C7" _G =E |"Fm6" F4- | %13
+w: light _|_ _|* that shines up|on our Car a|van|
+ F4- | F4- | F3 z |] %16
+w: _|||
+

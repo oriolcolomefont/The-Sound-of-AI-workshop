@@ -1,0 +1,39 @@
+X:1
+T:There's Something About You
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 53
+V:1
+"C""_Intro" E G2 A | d"Am" c2 A- | A"Dm" F A,/C/ E | _E"G9" D3- |"G7" D4 |"_Verses" E"C" G G/G/ F | %6
+w: |||||There's some- thing a- bout|
+w: |||||There's some- thing a- bout|
+w: |||||There's some- thing a- bout|
+ E"Em" G G/G/ F | E"F" F3- |"G7" F4 |"Dm" F F/F/ E D |"G7" F G A2 |"Dm" c c/c/"G+" B A |"C" G3 E | %13
+w: you, some- thing a- bout|your smile,|_|some- thing a- bout the|way you walk,|the way you dress with|style, there's|
+w: you, some- thing a- bout|your eyes,|_|some- thing a- bout the|way we kiss,|oh how I love your|sighs, there's|
+w: me, you've seen some- thing|in me,|_|is it the way I|look at you,|the way I hold you|tight, I|
+"Em" G G/G/ F E |"C7" G A _B3/2 G/ |"F" A A A/A/A/B/ |"D7" c3 d |"C" e e/e/ d c | %18
+w: some- thing a- bout the|way you talk, the|way your hair shines in the|sun, there's|some- thing a- bout you,|
+w: some- thing a- bout the|way I feel, a|feel- ing on- ly you can|give, there's|some- thing a- bout you,|
+w: know there is no one|else for me, for|me it was love at first|sight, that|some- thing a- bout you,|
+"C+""_Chorus" e e/e/ d c |"D7" e e/e/"G7" e2- |12 e d"C" c2- | c4- | c"C7" z z2 :|3 f3 b || %24
+w: some- thing a- bout you,|tells me you are|* the one.|_||are so|
+w: some- thing a- bout you,|tells me we are|* in love.|_|||
+w: some- thing a- bout me,|to- geth- er we|||||
+"C" c'4- | c'3 z |:[K:F] c"F" d c/B/ A | G"Bb" F D D- | D"C9" E E/F/"C7" G | d"F" c3 | %30
+w: right.|_|There's some- thing a- bout|you makes me feel,|_ I am there in|your heart,|
+w: ||There's some- thing a- bout|you makes me feel,|* I am there in|your heart,|
+w: ||||||
+"Dm" A G/F/ E D |"Bb" F D D2 |1"C9" E E/F/"C7" G _A |"F" A3 z :|2"C9" E E/F/"C7" G E ||"F" F4 | %36
+w: when will you say you|feel the same,|list- en to you- r|heart,|you know we're lost a-|part..|
+w: when will you say you|feel the same,|list- en to you- r|heart,|you know we're lost a-|part.|
+w: ||||||
+"G7" G4 |] %37
+w: _|
+w: _|
+w: |
+

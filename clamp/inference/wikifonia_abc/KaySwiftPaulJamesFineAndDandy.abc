@@ -1,0 +1,22 @@
+X:1
+T:Fine And Dandy
+T:Fine And Dandy
+C:Kay Swift
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" E2 D F- |"Abdim7" F4 |"Gm7" F2 D"C7" A- | A A3 |"F" E2 D F- |"Abdim7" F F2 D | %6
+w: Gee it's all|_|fine and dan-|* dy,|Sug- ar Can-|* dy, when|
+"Gm7" A2 F"C7" c- | c4 |"F7" c2 =B d- | d c A F |"Bb7" D2 D D- | D2 z2 |"Eb7" B2 A c- | c B G _E | %14
+w: I've got you.|_|Then I on-|* ly see the|sun- ny side,,|_|Ev en troub-|* le has it's|
+"Ab7" C2 C C- |"C7" C2 z2 |"F" E2 D F- |"Abdim7" F4 |"Gm7" F2 D"C7" A- | A A3 |"F" E2 D F- | %21
+w: fun- ny side.|_|When you're gone|_|Su- gar Can-|* dy|I get lone-|
+"Abdim7" F F2 D |"Gm7" A2 F"C7" c- | c4 |"Cm7" c2 G"F7" d- | d d2 A |"Bb" c2 G"Bbm" B- | B B2 F | %28
+w: * some, I|get so blue.|_|When you're han-|* dy it's|fine and dan-|* dy, But|
+"F" A F"Dm" A F |"G7" A"C7" A3 |1"F" F2"Eb" z2 |"Ab""C7" z4 :|2"F""Bb7" F4- |"F" F2 z2 |] %34
+w: when you're gone what|can I|do?||||
+

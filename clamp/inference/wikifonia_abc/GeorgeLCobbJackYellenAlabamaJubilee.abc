@@ -1,0 +1,25 @@
+X:1
+T:Alabama  Jubilee
+T:Alabama   Jubilee
+T:George L. Cobb
+T:Jack Yellen
+C:George L Cobb
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z"^N.C." ^F G ^G |"A7" A G E A- | A G2 E | A G E A- | A2 z2 |"D7" A ^F D A- | A ^F2 D | %7
+w: You ought to|see Mis- ter Jones|* when he|rat- tles the bones,||Old Colo- nel
+ Brown|* fool- in'|
+ A ^F D A- | A z z2 |"G7" z B2 ^A | B A G ^G | A ^G A B- | B3 z |"C" c B c A- | A G E2 | c B c A- | %16
+w: round like a clown||Miss Vir-|gin- ia who is|past eight- y three||Shout- in' I'm full|* o' pep!|Watch yo' step,! watch|
+ A G E2 |"A7" A G E A- | A G2 E | A G E A- | A2 z2 |"Dm" D ^C D E |"A" F E F G |"Dm" A A2"A" A- | %24
+w: * yo' step!|One leg- ged Joe|* danced a-|roun' on his toe,||Threw a- way his|crutch and hol- lered|"Let 'er go!"|
+"Dm" A B c d |"C" e4 |"E7" e3 d |"F" c2 A2 |"C" G2 ^F G |"D7" A c A c |"G7" B G2 c- |"C" c4- | %32
+w: * Oh, hon- ey,|Hail!|Hail! the|gang's all|here for an|Al- a- bam- a|Jub- i- lee.||
+ c z z2 | z4 | z4 |] %35
+w: |||
+

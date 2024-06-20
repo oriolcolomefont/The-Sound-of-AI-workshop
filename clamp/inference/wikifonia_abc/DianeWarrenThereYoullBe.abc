@@ -1,0 +1,60 @@
+X:1
+T:There You'll Be
+T:There You'll Be
+C:Diane Warren
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab9" A12 B4 |"Cm7" G16 |"Ab9" A12 B4 |"Cm7" G8 z4 z2 A,B, |"Ab9" C2EE- ECE2- E4 z2 A,B, | %5
+w: |||* When I|think back on _ these times _ and the|
+"Cm" C2EE- ECF2- F4 z2 CE |"Bbm7" D2CD-D2C2"Ab/C" E2EC2-<C2C |"Db69" CB,B,2A,2B,2- B,4 z2 A,B, | %8
+w: dreams we left _ be- hind, _ I'll be|glad 'cause I _ was blessed to get _ to|have you in my life. _ When I|
+"Ab9" C2EE- ECE2- E2 z2 (AGF2) |"Eb/G" F2E2F2>C2"Db" E6 z2 |"Dbsus2" FEE2C2>B,2 (B,2 A,6) | %11
+w: look back on _ these days _ I'll _ _|look and see you face.|You were right there for me. _|
+[M:3/4]"Gb/Bb" d4"^AbC" e4"Db" fg"Eb" z2 ||[M:4/4]"Fm" z4 AAAA"Cm/Eb" G2G2G2C2 | %13
+w: _ _ _ _|In my dreams I'll al- ways see you|
+"Dbmaj7" F2EE-"Db6" EE(ED"Cm7""Ab/C" C6) z2 |"Fm" z4 AAAA"Cm/Eb" G2G2G2C2 | %15
+w: soar a- bove _ the sky. _ _|In my heart there'll al- ways be a|
+"Dbmaj7" F2>E2E2EF- F2G(A-"Eb" ABA2- |"Ab" A2) z2 c2B2-"Eb/G" B4 G2B2- | %17
+w: place for you, for all _ my life. _ _ _|_ I'll keep _ a part|
+"Fm" B2AA-A2G2 (A/G/F3)"Cm/Eb" z2 CD- |"Db" D2CD-"Ab/C"D2CD-"Bbm7" D2C2C2(B,2- | %19
+w: _ of you _ with me, _ _ and ev-|* 'ry- where _ I am, _ there you'll be,|
+"Absus4" B,2<A,2-"Ab" A,8)"Bbm" z2"Ab/C" ED- |"Db" D2CD-"Ab/C"D2CD-"Bbm7" D2C2"Ab"C2B,2- | %21
+w: _ _ _ and ev-|* 'ry- where _ I am _ there you'll be.|
+"Gb9" B,8"Db/F" z8 |[M:2/4] z4 z2 A,B, |[M:4/4]"Ab9" C2EE- ECE2- E4 z A,A,B, | %24
+w: _|Well, you|showed me how _ it feels _ to feel the|
+"Cm" C2EE- ECF2- F4 z2 CE |"Bbm7" D2CD-D2C2"Ab/C" E2EC2-<C2C |"Db69" CB,B,2A,2B,2- B,4 z2 A,B, | %27
+w: sky with- in _ my reach, _ and I|al- ways will _ re- mem- ber all _ the|strength you gave to me, _ Your love|
+"Ab9" C2EE- ECE2- E2 z2 AGF2 |"Eb/G" F2E2F2>C2"Db" E6 z2 |"Dbsus2" FEE2C2>B,2"Ab/C" (B,2 A,6) | %30
+w: make me make _ it thru. _ Oh. _ I|owe so much to you.|You were right there for me. _|
+[M:3/4]"Gb/Bb" d4"Ab/C" e4"Db" f"Eb"g z2 |[M:4/4]"Fm" z4 AAAA"Cm/Eb" G2G2G2C2 | %32
+w: _ _ _ _|I my dreams I'll al- ways see you|
+"Dbmaj7" F2EE-"Db6" EE(ED)"Cm7""Ab/C" C6 z2 |"Fm" z4 AAAA"Cm/Eb" G2G2G2C2 | %34
+w: soar a- bove _ the sky. _ _|In my heart there'll al- ways be a|
+"Dbmaj7" F2>E2E2EF- F2GA-"Eb" ABA2- |"Ab" A2 z2 c2B2-"Eb/G" B4 G2B2- | %36
+w: place for you, for all _ my life _ _ _|_ I'll keep _ a part|
+"Fm" B2AA-A2G2 A/G/F3"Eb6" z2 CD- |"Db" D2CD-"Ab/C"D2CD-"Bbm7" D2C2C2B,2- | %38
+w: _ of you _ with me, _ _ and ev-|* 'ry- where _ I am, _ there you'll be.|
+"Eb" B,2 z2 CEEE"Ab" D2CB,- B,A,2A,- |"Db/F" A,2 z2 B,2(CB,"Eb/G" B,2) z2"Ab" z4 | %40
+w: _ 'Cause I al- ways saw in you * my light,|_ my strength. _ _|
+"Eb" z4 CEEE"Ab" D2CB,- B,2<A,2 |"Fm7" E4 E4"Dbmaj7" F6 z2 | %42
+w: and I wan- na thank you now _ for|all the ways|
+"Db9" FEE2C2B,B,-"Ab/C" (B,2<A,2-A,2) z2 |"Bbm7" FEE2"Ab/C"C2E(E-"Db9" E2<F2) z3 E | %44
+w: you were right there for me * * *|You were right there for me, _ _ for|
+ e12"Eb" cBA2- |"Fm" A4 AAAA"Cm/Eb" G2G2G2C2 |"Dbmaj7" F2EE-"Db6" EE(ED"Cm7""Ab/C" C6) z2 | %47
+w: al- ways. _ _|_ In my dreams I'll al- ways see you|soar a- bove _ the sky, _ _|
+"Bbm11" z4 FAAA"Eb6" G2G2G2CF- |"Dbmaj7" F2EE z2 EF- F2G(A- ABAc- | %49
+w: In my heart there'll al- ways be a place|_ for you for all _ my life, _ _ _ _|
+"Ab" c/B/A3)c2d2-"Eb/G" d4 c2B2- |"Fm" B2AA-A2G2 (A/G/F3)"Cm/Eb" z2 C2 | %51
+w: _ _ _ I'll keep _ a part|_ of you _ with me, _ _ and|
+"Db" D2CD-"Ab/C"D2CD-"Bbm7" D2C2C2(B,2- |"Absus4" B,2<A,2 A,B,CE"Ab" C4)"Bbm7" z2"Ab/C" ED- | %53
+w: ev- 'ry- where _ I am _ there you'll be,|_ _ _ _ _ _ _ and ev-|
+"Db" D2CD-"Ab/C"D2CD-"Bbm7" D2C2"Ab"C2B,2- |"Gbmaj9#11" B,12 z4 | E8 C4 C4- | !fermata!C16 |] %57
+w: * 'ry- where _ I am _ there you'll be.|_|There you'll be.|_|
+

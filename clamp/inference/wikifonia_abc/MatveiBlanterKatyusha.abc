@@ -1,0 +1,15 @@
+X:1
+T:Katyusha
+T:Katyusha
+C:Matvei Blanter
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Em" E3 F | G3 E | GG FE |"B7" F2 B,2 | F3 G | A3 F | AA GF |"Em" E4 |:"G" B2 e2 | d2 ed | %10
+"Am" cc BA |"Em" B2 E2 |"Am" z c2 A |"Em" B3 G |"B7" AA GF |"Em" E4 :| %16
+

@@ -1,0 +1,26 @@
+X:1
+T:Under The Bridges Of Paris
+T:under the bridges of paris
+T:vincent scotto
+T:dorcas cochran
+C:Vincent Scotto
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ G, |"F" F2 G | A2 c | c2 B | A2 A |"C7" G2 G |"F" F2 E |"F" F3- | F2 C | F2 G | A2 c | c2 B | %12
+w: |Dar- ling,|why I|sing this|song is|ea- sy|to ex-|plain|_ it|tells what|hap- pens|all a-|
+"Gm" A2 A |"Gm" G2 G |"F" F2"C7" G |"F" F3- |"G7" F z G | G2 A | A2 G |"C" G2 A |"G7" A2 G | %21
+w: long the|bridg- es|of the|Seine|_ The|va- ga-|bonds go|there at|night to|
+ G D E |"C" F E F | G3- |"G7" G z G | G2 A |"C" A2 G | G2 A |"G7" A2 G | G D E |"C7" F E F | G3- | %32
+w: sleep all there|trou- bles a-|way|_ but|when the|moon is|shin- ing|bright, my|heart wants to|sing it this|way|
+"F" G z z | C F A | c2 F | A3- | A3 | C F G |"C7" A2 B |"C7" G3- | G3 | G A B | c B A | G F G | %44
+w: _|how would you|like to|be|_|down by the|Seine with|me|_|oh, what I'd|give for a|mo- ment or|
+"G7" A3 | D E F | G F E |"C7" D ^C D | G3 | C F A | c2 F | A3- | A3 | C F G |"C7" A2 B | G3- | %56
+w: two|un- der the|bridg- es of|Pa- ris with|you|dar- ling, I'd|hold you|tight|_|far from the|eyes of|night|
+"Gm" G3 | G A B | c B A |"A7" G F G | A3 |"Gm" G A B |"C7" A2 G |"F" F3 |] %64
+w: _|un- der the|bridg- es of|Pa- ris with|you,|I'd make your|dreams come|true.|
+

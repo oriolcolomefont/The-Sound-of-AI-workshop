@@ -1,0 +1,25 @@
+X:1
+T:Thou Art Worthy
+T:Thou Art Worthy
+T:Pauline Michael Mills, 1963
+C:Pauline Michael Mills 1963
+Z:All Rights Reserved
+L:1/4
+Q:1/4=80
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z3 |:"Bb" F2 F | D F2 |"Eb" B2 B |"Edim7" G B2 |"Bb/F" F2 F | %11
+w: ||||||Thou art|wor thy|Thou art|wor thy|Thou art|
+"Gm7" G F D |"C" C3- |"F" C3 |"Bb" F3/2 F/ F |"Bb7" D F2 |"Eb" B3/2 B/ B |"Edim7" G B2 | %18
+w: wor thy o|Lord|_|to re ceive|glo y|glo ry and|hon or|
+"Bb/F" d3/2 d/ d |"F7" c B c |"Bb" B3- | B2 F |"F7" c c3/2 c/ | c B c |"Bb" d d3/2 d/ | c B2 | %26
+w: glo ry and|hon or and|power|_ for|Thou has cre|a ted hast|all things cre|a ted|
+"F" c c3/2 c/ | c B c |"Bb" d3- | d3 | d d3/2 d/ |"Bb7" c B2 |"Eb" B B3/2 B/ |"C/E" c B c | %34
+w: Thou hast cre|at ed all|things|_|and for Thy|plea sure|they are cre|a ted for|
+"Bb/F" d2 d |"F7" c B c |1,2"Bb" B3- | B3 :|3"Bb" B3- || B3 | z3 | z3 | z3 | z3 |] %44
+w: Thou art|wor thy Oh|Lord|_|Lord|_|||||
+

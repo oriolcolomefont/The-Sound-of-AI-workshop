@@ -1,0 +1,24 @@
+X:1
+T:The One I Love Belongs To Somebody Else
+T:The One I Love Belongs To Somebody Else
+C:Isham Jones
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 D2 |"G6" E3 D"Am7" E3 D |"Bbdim" E3 D"Em7" EGAB- |"A7" B8- | B2 z4 A2 |"Am7" B3 A"D7" B3 A | %6
+w: The|one I love be-|longs to some- bod- y else,.|_|* she|means her ten- der|
+"Am7" B3 A"D7" BdBA- |"Gmaj9" A8- | A2 z4 G2 |"G" A3 G E3 G |"Bbdim" A3 G E2 G2 |"Am7" E8 | %12
+w: songs for some- bod- y else.|_|* And|ev- en when I|have my arms a-|round|
+"D7" F6 A2 |"Em7" B3 A"A7" E3 G |"Em7" B3 A"A7" GABd- |"Am7" d8- | d2"D7" z4 D2 | %17
+w: her, I|know her thoughts are|strong for some- bod- y else.|_|* The|
+"G6" E3 D"Am7" E3 D |"Bbdim" E3 D"Em7" EGAB- |"A7" B8- | B2 z2 z2 A2 |"Am7" B3 A"D7" B3 A | %22
+w: hands I hold be-|long to some- bod- y else,|_|* I'll|bet they're not so|
+"Am7" B3 A"D7" Bcde- |"Bm7" e8- |"E7b9" e2 z4 d2 |"Am7" c3 B A3 B |"F7" cdcB- B2 A2 | %27
+w: cold to some- bod- y else.|_|* It's|tough to be a-|lone on the shelf, _ it's|
+"Bm7" d3 c B3 c |"E7" dedc- c2 B2 |"Am7" E3 D E3 D |"D7" E3 D EBAG- |"G6" G8- | G6 z2 |] %33
+w: worse to fall in|love by your- self, _ the|one I love be-|longs to some- bod- y else.|_||
+

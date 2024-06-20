@@ -1,0 +1,44 @@
+X:1
+T:Eternity
+T:Eternity
+C:Guy Chambers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" z2 DF/F/- FD F<F |"Gm9" A2 G2"Gm" z4 |"Eb" z2 G/BB/- BG/B-<BG/- |"Cm" G>C- C2 z4 | %4
+w: Close your eyes _ so you don't|feel them,|they don't need _ to see _ you|_ cry. _|
+"Bb" z2 (3DFF D2 (3z FD |"Gm9" A2"Gm" B2 z4 |"Eb" z3/2 G/ G/B/(B G)G B<d |"Dsus4" d6"D" z3/2 G/ | %8
+w: I can pro- mise I will|heal you,|but if you want _ to I will|try. I|
+"Cm" dcc=B/B/-"Cm" Bc/c/-c z/ G/ |"Cm7" dccB/B/- B/G/B z2 |"Gm" z A2 G- G2 z2 | z8 | %12
+w: sing this sum- mer se- * re- nade, _ the|past is done we've been _ ~be- trayed|it's true. _||
+"Cm" dcc=B/B/-"Cm" Bc/c/-c z/ G/ |"Cm7" dc/c/- c/B/B/B/- B/G/B z2 |"F7sus4" z3/2 G/-GF- F2 z2 | %15
+w: Some- one said the truth _ will out _ and|I be- lieve _ _ with- out _ a doubt|in _ you. _|
+"F" z4 z2 df |"Bb" f2 d2 c B2 c- |"Ebmaj9" c d3 z2 df |"Gm7" f2 d2 c B2 G- |"Eb" G2 z2 z2 d<f | %20
+w: You were|there for sum- mer dream-|* ing and you|gave me what I need.|_ And I|
+"Bb" f2 d2 c B2 c- |"F" cA/G/F z z F/F/GB/B/- |"Cm7" B c3- c2 z2 | z4 z F/F/ d/cB/ |1 %24
+w: hope you'll find your free|* dom _ _ for e- ter- ni- ty|_ _ _|For e- ter- * ni-|
+"Bb" B2 z2 z4 ||"Gbmaj7" z4"Fm7/Ab" z4 |"Bb" z8 | z8 :|2"Gbmaj7" B2 z2"Gbmaj9" _A4 || %29
+w: ty.||||ty. *|
+"Gbmaj7" F4"Ebm/Gb" E4 |"Gm7" F8 | z4 z F/F/ _d<c- |"Gbmaj7" c _d2 B-"Gbmaj9#11" B4 | %33
+w: ||For e- ter- *|* ~ni- ty. *|
+"Gbmaj7" F4"Ebm/Gb" E4 |"Eb" F8 | z4 z2 z3/2 G/ |"Cm" dcc=B/B/-"Cm" Bc/c/-c z/ G/ | %37
+w: ||I|sing this sum- mer se- * re- nade _ the|
+"Cm7" dccB/B/- B/G/B z2 |"Gm" z A2 B- B4 |"D/A" z4"Gm/Bb""Gm/D" z4 | %40
+w: past is done, we've been _ be- trayed|it's true. _||
+"Cm" dcc=B/B/-"Cm" Bc/c/-c z/ G/ |"Cm7" dc/c/B-B B/G/B z2 |"F7sus4" z3/2 G/-GF- F2 z2 | %43
+w: Youth is wast- ed on _ the young _ be-|fore you know, * it's come and gone|too _ soon. _|
+"F" z4 z2 df |:"Bb" f2 d2 c B2 c- |"Ebmaj9" c d3 z2 df |"Gm7" f2 d2 c B2 c- | %47
+w: You were|there for sum- mer dream-|* ing and you|are a friend in- deed.|
+"Eb" c/B/G-G z z2 d<f |"Bb" f2 d2 c B2 c- |1"F" cA/G/F z z F/F/GB/B/- ||"Cm7" B c3- c2 z2 | %51
+w: _ _ _ _ And I|hope you'll find you free|_ dom _ _ for e- ter- ni- ty.|_ _ _|
+"Bb/D" z4"Eb" z2"F7sus4" df :|2"F" cA/G/F z z3/2 F/GB ||"Cm7" B c3 z4 | z4 z F/F/ d<c- | %55
+w: You were|* dom _ _ e- ven- tual-|ly, _|for e- ter- *|
+"Gbmaj7" cB/B/-"Gbmaj9#11" B6- |"Gbmaj7" B4-"Ebm/Gb" B4- |"Gm7" B8 | z4 z F/F/ _d<c | %59
+w: * ni- ty. _|_ _||For e- ter- *|
+"Gbmaj7" _d B3-"Gbmaj9#11" B4- |"Db6/Ab" B4-"Ab" B4- |"Bb" B4 z4 |] %62
+w: ni- ty. _|_ _||
+

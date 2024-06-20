@@ -1,0 +1,44 @@
+X:1
+T:We'll Sing In The Sunshine
+T:We'll Sing In The Sunshine
+C:Gale Garnett
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fmaj7" z2 A2"F7" AGFG- |"Bb" G D3- D4 |"Gm7" z2 d2"C7" d d2 d |"F" (d/c/A-Ac- c2 d2) | %4
+w: We'll sing in the sun-|* shine, _|We'll laugh ev- 'ry|day; _ _ _ _ _ _|
+w: ||||
+w: ||||
+w: ||||
+"Fmaj7" z2 A2"F7" AGFG- |"Bb" G D3- D4 |"Gm" z GGG"Gm7" F2"C9" D2 |"F""Dm" F8 |"Gm7" z4"C7" z4 |: %9
+w: We'll sing in the sun-|* shine, _|And I'll be on my|way.||
+w: |||||
+w: |||||
+w: |||||
+"F" A2 A2 G2 FA- |"Bb" A G3- G2 z G |"C7" G2 G2"Gm7" F2"C9" DF |"F" F- F3- F2 z A | A2 A2 G2 FA- | %14
+w: 1~.I will nev- er love|_ you; _ The|cost of love's too dear.|_ _ _ But|though I'll nev- er love|
+w: 2.~sing to you each morn-|* ing; _ I'll|kiss you ev- ry night.|_ _ _ But,|dar- ling, don't cling to|
+w: 3.~dad dy he once told|_ me, _ don't|love you an- y man,|_ _ _ Just|take what they may give|
+w: 4.~when our year has end-|* ed _ And|I have gone a- way,|_ _ _ You'll|of- ten speak a- bout|
+"Bb" A G3- G2 z G |"C7" G2 G2"Gm7" F2"C9" DF |"F" z A"Fmaj7"AA"F7" AGFG- ||"Bb" G D3- D4 | %18
+w: _ you, _ I'll|live with you one year|And we'll _ sing in the sun-|* shine, _|
+w: _ me; _ I'll|soon be out of sight.|But we can sing in the sun-|* shine, _|
+w: _ you _ And|give but what you can.|and you can sing in the sun-|* shine, _|
+w: _ me _ And|this is what you'll say:|_ We _ sang in the sun-|* shine, _|
+"Gm7" z2 d2"C7" d d2 d |"F" (d/c/A-Ac- c2 d2) |"Fmaj7" z2 A2"F7" AGFG- |"Bb" G D3- D4 | %22
+w: We'll laugh ev- 'ry|day; _ _ _ _ _ _|We'll sing in the sun-|* shine, _|
+w: We'll laugh ev- 'ry|day; _ _ _ _ _ _|We'll sing in the sun-|* shine, _|
+w: We'll laugh ev- 'ry|day; _ _ _ _ _ _|We'll sing in the sun-|* shine, _|
+w: We laughed ev- 'ry|day; _ _ _ _ _ _|We sang in the sun-|* shine _|
+"Gm" z GGG"Gm7" F2"C9" D2 |1,2,3"F" F8 |"Gm7" z4"C7" z2 A2 :|4"F""Bb" F8- |"F" F8 |] %27
+w: And I'll be on my|way.|2.~I'll|||
+w: And I'll be on my|way.|3.My|way.|_|
+w: And I'll be on my|way.|4.~And|||
+w: Then he went on his|||||
+

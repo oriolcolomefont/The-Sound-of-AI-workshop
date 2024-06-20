@@ -1,0 +1,24 @@
+X:1
+T:Red River Valley
+T:Red  River Valley
+C:Cowboy  song
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2 z G2 c2 z |"C" eee"G7" e2 de z |"C" d2 c2 z2 Gc | e2 ce gfe z |"G7" d2 z2 g2 f2 | %5
+w: From this|val- ley- they say you are|go- ing, We will|miss your bright eyes and sweet|smile for they|
+w: I've been|think- ing a- long time my|dar- ling Of the|sweet words you ne- ver would|say, Now a-|
+"C" e2 e"C7"d c2 de |"F" g2 f2 AA z2 |"C" G2 B2 c"G7"ded |"C" c z z2"^Chorus" G z c z | %9
+w: say you are tak- ing the|sun shine That has|bright- ened our path ways a|while Come and|
+w: las must my fond hopes all|van- ish?- For they|say you are go- ing- a-|way- * *|
+"C" e2 ee"G7" e2 de |"C" d2 c2 G2 c2 |"C" e2 ce g2 fe |"G7" d2 z2 g2 f2 |"C" e2 ed"C7" c2 de | %14
+w: sit by my side if you|love me Do not|hast- en to bid me A-|dieu Just re-|mem- ber the Red Ri- ver|
+w: |||||
+"F" g f2 z A2 A2 |"C" G2 Bc"G7" ded z |"^C" c8 | z8 | z8 |] %19
+w: Val- ley And the|cow- boy who loved you so|true.|||
+w: |||||
+

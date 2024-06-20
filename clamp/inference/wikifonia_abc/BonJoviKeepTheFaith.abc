@@ -1,0 +1,47 @@
+X:1
+T:Keep The Faith
+T:Keep The Faith
+T:Bon Jovi
+C:Bon Jovi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ z4 z dcc- | c B3 z dcc- | c d3 z G B2 | d2 c c3 B(B | F) G3 z dcc- | c B3 z g2 f- | %6
+w: Moth- er moth-|* er tell you chil-|* ren that their|time has just be- gun-|* * I have suf-|* fered for my-|
+ f f2 d z2 G/Bd/- | dcc c2 G2 G- | G2 z2 z dcc- | c B3 z dcc- | c d3 z G B2 | d2 c c2 B2 (B | %12
+w: * an- ger There are wars-|* * that can't be won.-|* Fa- ther fa-|* ther please be- lieve-|* me. I am|lay- ing down my guns.-|
+ F) G3 z2 gg | g (g3 b2) b>f | g2 (g/f/)d z2 z B | d c3 z2 z g | g2 g b2 c'2 g- | g2 z2 z4 | %18
+w: * * I am|bro- ken- * like an|ar- row.- * * For-|give me. For|give you way ward son.-||
+ z2 z2 z dcc- | c d3 z4 | z2 z2 c'2 gg- | g(fe)d z2 z2 | z4 z GBc- | ccc c2 cc_e- | e_ee f2 g3 | %25
+w: Moth- er moth-|* er.|Please be- lieve|* me.- * *|And it's hard-|* to hold on when there's no-|* one to lean on.|
+ z2 g2 z2 z B | bbag baaa- | a6 z d- | dccB d2 G(B | G2) g2 z4 | bbag baaa- | a6 z d- | %32
+w: Faith: you|know you're gon- na live through the rain.-|* Lord,|* you got to keep the faith.-|* Faith:|don't you let your love turn to hate.-|* Now,-|
+ dccB d2 G(B!dacoda! | G2) z2 z FGB- | B2 z2 z Gdc- | c/B/ G3 z2 z d- | dccB d2 GG- | G2 z2 z4 | %38
+w: * we got to keep the faith.-|* keep the faith-|* keep the faith.-|* * * Lord,|* we got to keep the faith.-||
+ z8 | z8 | z4 z dcc- | c B3 z dcc- | c d3 z G B2 | d2 c c2 B2 (B | F) G3 z dcc- | c d3 z2 a>f | %46
+w: ||Tell me ba-|* by, when I hurt-|* you, do you|keep it all in side?-|* * Do you tell-|* me all's for-|
+ g2 a z z2 z B | d2 c c2 c2 B- | B2 (f a2) b2 z | z8 | z2 z2 z dcc- | c d3 z4 | z2 z2 c'2 gg- | %53
+w: giv- en just|hide be- hind you pride,-|* yeah?- * *||Moth- er moth-|* er.|Please don't leave|
+ g b2 z z4 | z4 z GBc- | ccc c2 cc_e- | e_ee f2 g3 | z2 g2 z2 z B | bbag baaa- | a6 z d- | %60
+w: * me.|Well, it's hard-|* to be strong when there's no-|* one to dream on.|Faith: you|know you're gon- na live through the rain.-|* Lord,|
+ dccB d2 G(B | G2) g2 z4 | bbag baaa- | a6 b2 | baaa b2 g (b | g2) g2 z4 | bbag baaa- | a6 b2- | %68
+w: * you got to keep the faith.-|* Faith:|don't you know it's nev- er too late.-|* Right|now we've got the keep the faith-|* Faith:|don't you let your love turn to hate.-|* Lord,-|
+ baaa b2 g(b | g2) z2 z FGB- | B2 z2 z Gdc- | c/B/ G3 z2 z d- | dccB d2 F(B | G2) z2 z FGB- | %74
+w: * you got to keep the faith,-|* keep the faith-|* keep the faith.-|* * * Oh,|* we got to keep the faith.-|* keep the faith-|
+ B2 z2 z Gdc- | c/B/ G3 z2 z b- | bbbb g2 gb- | b2 z2 z2 z g- | g2 d2 z3 g- | g2 d2 z4 | %80
+w: * keep the faith.-|* * * Lord,-|* we got to keep the faith,-|* ooh,-|* yeah, ooh,-|* yeah.|
+ z2 d'2 c'2 g2 | z8 | z8 | z8 | z8 | z8 | z4 z dcc- | c2 B2 z2 Gg- | gffd f2 dc- | c B3 z4 | %90
+w: Yeah, yeah, yeah.||||||Moth- er, Fa-|* ther, there's things-|* I've done I can't e- rase-||
+ gffd f2 dc- | c B3 z2 z B | g2 z f/d/ f3/2f3/2f | g2 z2 b>fgg | z2 z/ d'g/ gg z2 | z2 g2 z2 z B | %96
+w: Ev- 'ry night we fall from grace-|* * It's|hard with the world in your|face. Try'n' to hold on|try'n' to hold on.|Faith: you|
+ bbag baaa- | a6 c'2 | bggg b2 g(b | g2) g2 z4 | bbag baaa- | a6 b2 | baaa b2 g(b | g2) g2 z FGB- | %104
+w: know you're gon- na live through the rain.-|* Lord,-|* you got to keep the faith,-|* Faith:|don't you let your love turn to hate.-|* Right|now we've got to keep the faith.-|* Faith. Keep the faith,-|
+ B2 z2 z Gdc- | c/B/ G3 z2 z c'- | c'gg g3 f2 |: z2 g2 z FGB- | B2 z2 z Gdc- | c/B/ G3 z4 | %110
+w: * keep the faith.-|* * * Try-|* to hold on, yeah.|Faith. Keep the faith-|* keep the faith.-||
+ bbbb c'2"^Repeat and Fade" gg :| %111
+w: Ev- 'ry- bod- y keep the faith.|
+

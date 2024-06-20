@@ -1,0 +1,28 @@
+X:1
+T:House Of Blue Lights
+T:House Of Blue Lights
+C:Freddie Slack
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" E>GA>c- c2 A>G | c A2 E- E2 E>G | c2 c2 c2 A>G | c A2"C7" E- E2 F>G |"F7" A2 c2 d c2 d | %5
+w: ~Lace up your boots _ and we'll|broom on down _ To a|knocked out shack on the|edge of town _ There's an|eight beat com- bo that|
+ _e c2 d- d2 ^d>=e- |"C" e>cG>^F"G7" =F3 ^D |"C" E c2 A-"Gdim" A2 G>B- |"G7" B>A- A4 G>G | %9
+w: just won't quit _ Keep walk-|* in' 'till you see a|blue- light lit _ Fall in|_ there _ and we'll|
+ d _B2 G- G2 G>A |"C" c4- c>GB>c- || c4 z2 A>E- ||"C" E>A- A4 A>E- | E>A- A4 A>E- | %14
+w: see some sights _ At the|House _ Of Blue Lights.|_ There's fry-|* ers- * and broil-|* ers, _ and De-|
+ E A2 E- E>GA>c- |"C" c _e2 c e>ce>d- |"F7" d8 | z3/2 c<AG/ c>cA>G |"C" z c3- c2"C7" _BG- | %19
+w: * troit bar- * be- cue ribs|_ But the treat of the treats|_|is when they serve up all those|fine _ eight beats|
+ G4 z3/2 G<AG/ |"G7" d3 G _B>G"C7"B>"F7"A- | A4 z3/2 c<AG/ |"C" c2 z3/2 G/ c>GB>c- |"C" c8 || %24
+w: _ you'll want to|spend the rest of your brights|_ Down at the|house, the House Of Blue Lights.|_|
+"C" E>GA>c- c2 A>G | c A2 E- E2 E>G | c2 c2 c2 A>G | c A2"C7" E- E2 F>G |"F7" A2 c2 d c2 d | %29
+w: We'll have a time _ and we'll|cut some rug _ While we|dig those times like they|should be dug _ It's a|real home com- in' for|
+ _e c2 d- d2 ^d>=e- |"C" e>cG>^F"G7" =F3 ^D |"C" E c2 A-"Gdim" A2 G>B- |"G7" B>A A4 G>G | %33
+w: all the "Cats" _ Just tril-|* ly down a pathe of|wel- come mats _ Fall in|_ there _ and we'll|
+ d _B2 G- G2 G>A |"C" c4- c>GB>c- | c8 |] %36
+w: see some sights _ At the|House _ Of Blue Lights.|_|
+

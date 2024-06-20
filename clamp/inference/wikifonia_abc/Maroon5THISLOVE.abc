@@ -1,0 +1,36 @@
+X:1
+T:THIS LOVE
+C:Maroon 5
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 bass nm="Voice"
+%%MIDI program 0
+V:1
+|:"D7" ^F,,2 z2 z F,,->F,,A,, |"Gm" G,,2 z2 z D,- D,<^C, |"Cm7" C,3/2 z2 z C, B,,2 | %3
+w: |||
+"Adim7" A,,2 z2 z =E,, z/ F,,3/2 :|[K:treble]"D7" z ^F/F/ z/ FF/ z/ FF/ z/ FF/ | %5
+w: |I was so high I did not rec|
+"Gm" z/ GG/- G>G G/GA/ z/ BA/ |"Cm7" z/ GG/- G>C G/GG/ z/ GG/ |"Adim7" z/ ^FF/- F6 | %8
+w: og nize _ the fi re burn ing in|her eyes _ the cha os that con trolled|my mind _|
+"D7" z ^F/F/ z/ FF/ z F/F/ z/ FG/ |"Gm" z/ G/G- G2 G/GA/ z/ BA/ |"Cm7" z/ G/G- G>C G/GG/ z/ B^F/- | %11
+w: Whisp ered good bye as she got on|a plane _ nev er to re turn|a gain _ but al ways in my heart|
+"Adim7" F8 | z8 | z8 | z8 | z8 |"D7" z ^F/F/ z/ FF/ z/ FF/ z/ FF/- | F/GG/- G>G G/GA/ z/ BA/ | %18
+w: _|||||I tried my best to feed her ap|_ pe tite _ keep her com ing ev' ry|
+"Cm7" z/ GG/- G>C G/GG/ z/ GG/ |"Adim7" z/ ^FF/- F6 |"D7" z ^F/F/ z/ FF/ z F/F/ z/ FG/ | %21
+w: night _ _ so hard to keep her sat|is fied _|Keep play ing love like it was just|
+"Gm" z/ G/G- G2 G/GA/ z/ B-A/ |"Cm7" G/G/G- G>C G/GG/ z/ B^F/ |"Adim7" ^FF- F4 z2 | z2 z2 z2 z2 | %25
+w: a game _ pre tend ing to _|Feel the same _ then turn a round and leave|a gain _||
+ z8 |:"Gm" z2 d2 z/"Cm7" d3/2 d2 |"F" dBd"Bb6"B z d B2 |"Gm" dBz"Cm7"d B-Gzd |"F" dcBc"Bb6" B2 z2 | %30
+w: |This love has|tak en its toll on me|She said good bye _ too|man y times be fore|
+"Gm" z G d2"Cm7" d2 d2 |"F" dBc"Bb6"d z B G2 |"Gm" dBz"Cm7"d B-Gzd |"Eb" cBBc"D7" BAG^F- | F8 :| %35
+w: and her heart is|break ing in front of me|I have no choice _ cuz|I won't say good bye an y MORE|!|
+"D7" z2 z2"Gm" z2 z2 |"Cm7" z2 z2"Adim7" z2 z2 |"Cm7" dd-dc c/Bc/- c2 |"Bbmaj7" z ddd c/Bc/- c2 | %39
+w: ||I'll fix _ these brok en things _|re pair your bro ken wings _|
+"D7/F#" z d d2 c/B^F/ FB- |"Gm" cB- B6 |"Cm7" z ddc c/Bc/- c2 |"Bbmaj7" z G d<d c/BB/ z D/D/ | %43
+w: and make sure ev' ry thing's all|_ right _|My press ure on your hips _|Sink ing my fin ger tips in to|
+"D7" de/d/- d/cc/ z BBB | ^f"Dsus4"d- dc/d/ z/ dd/ dc :| %45
+w: Ev' ry inch _ of you be cause I|know that's _ what you want me to do|
+

@@ -1,0 +1,39 @@
+X:1
+T:Come, Josephine, In My Flying Machine
+T:Come, Josephine In My Flying Machine
+C:Fred Fischer 1910
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" G3 |"C#dim7" G3 |"G7/D" z A"Bdim" B |"G7" A2 G |"C" G3 |"C#dim7" G3 |"G7/D" z A"Bdim" B | %7
+w: Oh,|say!|le us|fly dear.|Where,|kid?|to the|
+w: One|two,|now we're|off dear|Say|you,|pret- ty|
+"G7" A2 G |"C" c3 |"E" ^G3 |"F" B A"Fm" ^G |"Dm" A3 |"D7/A" !^!d z z |"D7" !^!A z z |"G7" c B ^A | %15
+w: sky, dear.|Oh,|you|fly- ing mach-|ine!|Jump|in|Miss Jo- seph-|
+w: soft dear.|Whoa!|dear|don't hit the|moon.|No|dear,|not yet but|
+"G/D" B"Dm" A"D+" _A |"C" G3 |"C#dim7" G3 |"G7/D" G A B |"G7" A2 G |"C" G3 |"C#dim7" G3 | %22
+w: ine. Ship A-|hoy!|Oh,|joy! what a|feel- ing.|Where,|boy?|
+w: soon. YOu for|me,|Oh|Gee! you're a|fly kid.|Not|me,|
+"G7/D" z A B |"G7" A2 G |"C" c3 |"E" ^G3 |"F" B A"Fm" ^G |"Dm" A B c |"D7/A" d3 |"D7b5" d3 | %30
+w: In the|ceil- ing.|Ho,|high,|hoop- la! we|fly to the|sky|so|
+w: I'm a|sky kid|Gee!|I'm|up in the|air a- bout|you|for|
+"G7" d3- |"G7" d"Dm" z"D+" z |:"C" G E F |"Em/G" G A B |"C/E" c B c |"Em/G" e d c |"G7/D" B z d | %37
+w: high.|_|Come Jo- seph-|ine in my|fly- ing ma-|chine, Go- ing|up, she|
+w: fair.|_||||||
+"G7" F3 |"G7/D" B z d |"G7" F3 |"G7" F D E | F G A | B ^A B | d c B |"C6" A z c |"C/G" E3 | %46
+w: goes!|up, she|goes!|Bal- ance your-|self like a|bird on a|beam, In the|air she|goes,|
+w: |||||||||
+"C6" A z c |"C/G" E3 |"C/E" G z z |"Cdim/Eb" c z A |"G7/D" B d B |"G7" A2 _A |"C/E" G z z | %53
+w: there she|goes!|Up,|up, a|lit- tle bit|high- er.|Oh,|
+w: |||||||
+"Cdim/Eb" c z A |"G7/D" B d B |"G7" A2 _A |"C" G E F |"C/G" G A B |"C/E" c B c |"C/G" e d c | %60
+w: my! the|moon is on|fire. _|Come, Jo- seph-|ine in my|fly- ing ma-|chine, Go- ing|
+w: |||||||
+"G7" B z A | G z e |1"C""G""C" c3 |"G7/D" z"Dm" z"D+" z :|2"C""G" c3- |"C" c/ z/ z2 |] %66
+w: up, all|on, Good-|bye!||bye!|_|
+w: ||||||
+

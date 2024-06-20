@@ -1,0 +1,24 @@
+X:1
+T:Wedding Bells
+T:Wedding Bells
+T:(are breaking up that old gang of mine)
+T:Irving Kahal,Willie Raskin, Sammy Fain,
+C:Irving Kahal, Willie Raskin, Sammy Fain,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z E/_E/ |"G" D =E G A | B B2 E/_E/ | D =E G A | B2-"Dm" B B |"D7" c B B A | c B B A | %7
+w: Not a|soul down on the|cor- ner thats a|pret- ty cer- tain|sign * that|wed- ding bells are|break- ing up that|
+"G" G2 F E |"D7" D2- D E/_E/ |"G" D =E G A | B B2 E/_E/ | D =E G A | B2-"D" B B |"D7" c B B A | %14
+w: old gang of|mine * all the|boys are sing- ing|love songs they for-|got Sweet A- de-|line": * those|wed- ding bells are|
+ c B B A | c2 B A |"G" G4 |"B7" B F B2 | B F B2 |"Em" A G G ^F | G4 |"A7" A E A3/2 E/ | %22
+w: break- ing up that|old gang of|mine,|there goes Jack|there goes Jim|down to lov- ers|lane|now and then we|
+ A E A3/2 E/ |"D7" G F F ^E | F3 E/_E/ |"G" D =E G A | B B2 E/_E/ | D =E G A | B2-"D" B B | %29
+w: meet a- gain but|they dont seem the|same gee I|get a lone- some|feel- ing when I|hear the church bells|chime * those|
+"D7" c B B A | c B B A | c2 B A |"G" G3 z |] %33
+w: wed- ding bells are|break- ing- up that|old gang of|mine|
+

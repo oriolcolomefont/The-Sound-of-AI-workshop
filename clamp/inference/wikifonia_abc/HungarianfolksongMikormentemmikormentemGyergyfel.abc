@@ -1,0 +1,17 @@
+X:1
+T:Mikor mentem, mikor mentem Gyergyó felé
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" CCcc"G" cBAG |"F" A3 G"C" F E3 |"C" CCcc"G" cBAG |"F" A3 G"C" F E3 |"G" G2 F2 E2 DE | %5
+w: Mi- kor men- tem Gyer- gyó fe- lé,|Gyer- gyó fe- lé,|Fán- kot süt- tek az asz- szo- nyok|ar- ra fe- lé,|Kér- tem tõ- le- tek,|
+"C" F E3 D2 C2 |"G" GAGF E D3 |"C" C4 C2 z2 |] %8
+w: nem ad- ta- tok,|Sza- kad- jon meg a nya-|ka- tok!|
+

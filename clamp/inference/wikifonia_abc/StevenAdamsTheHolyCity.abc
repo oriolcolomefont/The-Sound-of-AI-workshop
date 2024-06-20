@@ -1,0 +1,54 @@
+X:1
+T:The Holy City
+T:The Holy City
+C:Steven Adams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ G2 |:"C" c>cc"G"c"G" BBBB |"G7" AAB>"C"A"C" G3 G |"C" GGc>"F"B"F" BB>AA |"D7" A>AB"G7"c"G7" B3 G | %5
+w: Last|night I lay a- sleep- ing * There|came a dream so fair I|stood in old Je- ru- sa- lem, Be-|side the tem- ple there; I|
+w: |then me thought my dream was changed, The|streets no long- er rang Hushed|were the glad Ho- san- nas * The|lit- tle chil- dren sang. The|
+"C" c>cc"G"c"G" B B2 B |"G7" AAB>"C"A"C" G3 G |"C#m" G>G^F"G"G"G" B2 AG |"D7" c>cB"G"A"G" d3 d | %9
+w: heard the chil- dren sing- ing And|ev- er as they sang Me|thought the voice of an- gels From|Heaven in an- swer rang Me|
+w: sun grew dark with mys- tery The|morn was cold and chill, As,the|shad- ow of a cross arose Up-|on a lone- ly hill As,the|
+"D7" d2 d2 ^f3 e |"G" d2"Em" B2"Em""Am" G2"Am" c2 |"G" B3"D7" B"D7" B2 A2 |"G""G7" G6"G7" G2 | %13
+w: thought the voice of|an- * gels From|heaven in an- swer|rang Je-|
+w: shad ow of a|cross a- rose Up-|on a lone- ly|hill *|
+"G" c3"G7" G"G7" G2 G2 |"C" e3 d c4 |"F" c2 c>B c2 f2 |"C" e6 e2 |"G" d4 G2 (3GBd | %18
+w: ru- sa- lem Je-|ru- sa- lem|Lift up your gates and|sing! Ho-|san- na in- * the|
+w: |||||
+"Em""Am" g4"Am""Dm" c2"Dm" f2 |"C" e2 (3ed"G7"c"G7" d2 e2 |"C" c4 (3:2:2z2 F (3GAB | c3 G B2 A2 | %22
+w: high- est Ho-|san- na * * to your|King! * * * *||
+w: ||||
+ G2 E2 C2 F2 | E2 (3EDC D2 E2 |1 C6 z G :|2 C6 z G ||"E" E>EE"A6"E"A6" ^F>FFF | %27
+w: ||* And|* And|And once again the scene was changed New|
+w: |||||
+"A" A>"Am"A"Am"A^G/"E"^F/"E" G3 G |"C#m" ^G>"^F#7-5"=G"^F#7-5"^AA B B2 B |"B7" ^c>cB"E"A"E" ^G3 G | %30
+w: earth there seemed to * be I|saw the ho- ly ci- ty Be-|side the tide- less sea The|
+w: |||
+"C#m" ^G>GG"G#m"G"G#m" B>BBB |"G" B>BB"D"B"D" d3 d |"G" d3"G7" B"G7" G2 f2 |"C" e3"F" d"F" c2 A2 | %34
+w: light of God was on its streets The|gates were op- en wide And|all who would might|en- * ter And|
+w: ||||
+"C" G3"G7" A"G7" G2 F2 |"C" E6 E2 |"Am" A2"E7" A2"E7" B2 B2 |"Am" c3 B A3 A | %38
+w: no one was de-|nied No|need of moon or|stars by night Or|
+w: ||||
+"F" c3"G7" c"G7" d2 d2 |"C" e6 G2 |"C#m" G3 G ^F2 G2 |"G" B3 B A2 G2 |"D7" c3 c B2 A2 | %43
+w: sun to shine by|day It|was the new Je-|ru- sa- lem that|would not pass a-|
+w: |||||
+"G""D7" d6"D7" d2 |"D7" d2 d2 ^f3 e |"G" d2"Em" B2"Em""Am" G2"Am" c2 |"G" B3"D7" B"D7" B2 A2 | %47
+w: way. It|was the new Je-|ru- sa- lem that|would not pass a-|
+w: ||||
+"G""G7" [G^G]6"G7" =G2 |"C" c3"G7" G"G7" G2 G2 |"C" e3 d c4 |"F" c2 c>B c2 f2 |"C" e6 e2 | %52
+w: way. Je-|ru- sa- lem Je-|ru- sa- lem|Sing for the night is|o'er Ho-|
+w: |||||
+"G" d4 G2 (3GBd |"Em""Am" g4"Am""Dm" c2"Dm" f2 |"C" e2 (3ed"G7"c"G7" B2 d2 |"C""G7" G6"G7" G2 | %56
+w: san- na in- * the|high- est Ho-|san- na * for- ev- er|more. Ho-|
+w: ||||
+"C""G7" c4"G7" d2 [GG]>[GG] |"C" e2"F" g4"F" f2 |"C" e2 (3ed"G7"c"G7" d2 g2 |"C" c8 |] %60
+w: san- na in the|high- est Ho-|san- na * for ev- er|more|
+w: ||||
+

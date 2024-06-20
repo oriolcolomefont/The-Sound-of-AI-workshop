@@ -1,0 +1,25 @@
+X:1
+T:Games That Lovers Play
+T:Games that lovers play
+T:James Last
+T:Gunter Loose  English: Larry Kusik and Eddie Snyder
+C:James Last
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C3 D"^BOSSA" D3"^NOVA" E | E3 F E2 D2 |"Gm" B6 F2 |"C7" E8 | C3 D D3 E | E3 F E2 D2 | %6
+w: There are games that|man- y fool- ish|lov- ers|play|Blind- ly chas- ing|hap- py end- ings|
+w: Some- times lov- ers|hurt each oth- er|tel- ling|lies|act- ing out cha-|rades be- hind their|
+"F" A6 E2 | D8 |"F7" F3 G G3 A | A3 B A2 F2 |"Bb" d6 A2 | G8 |"F" C3 D D2 E2 |"Gm" D3 E"C7" E2 C2 | %14
+w: come what|may|Nev- er car- ing|who gets hurt a-|long the|way|Lets not play those|games that lov- ers|
+w: smil- ing|eyes|If you love me|dar- ling you must|re- al-|ize|we cant play those|games that lov- ers|
+"F" F8- | F6 z2 | z8 |] %17
+w: play|||
+w: play.|||
+

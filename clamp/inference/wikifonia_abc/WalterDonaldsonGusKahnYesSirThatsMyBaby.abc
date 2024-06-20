@@ -1,0 +1,28 @@
+X:1
+T:Yes Sir, That's My Baby
+T:YES SIR, THAT'S MY BABY
+T:Walter Donaldson
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Eb" B2 c2 | B c"Edim7" c B |"Bb7" B2 c2 | B c c B | B2 c2 | B c G F |"Eb" E4- | E4 | B2 c2 | %9
+w: Yes, Sir,|That's My Ba- by,|no, sir,|Don't mean "May- be"|Yes, Sir,|That's My Ba- by|now.|_|Yes, ma'am|
+w: Yes, Sir,|That's My Ba- by,|no, sir,|Don't mean "May- be"|Yes, Sir,|That's My Ba- by|now.|_|Well well,|
+ B c c"Edim7" B |"Bb7" B2 c2 | B c c B | B2 c2 | B c G F |"Eb" E4- | E2"B7" ^F"Bb7" G |"Eb7" E4- | %17
+w: we've de- cid- ed|No ma'am|we won't hide it,|Yes, ma'am|you're in- vit- ed|now.|_ By the|way,|
+w: "lookit" that ba- by|Do tell,|don't say "May- be"|Nell's bells|won't she cause some|row.|_ Pret- ty|soon|
+ E2 =B c |"Ab" A4- | A2"G7" G"Gb7" _G |"F7" F2 F2 | e c e2 |"Bb7" d4- | d z z2 |"Eb" B2 c2 | %25
+w: _ By the|way|_ When we|reach the|preach- er I'd|say,|_|Yes, Sir,|
+w: _ Pret- ty|soon|_ We will|hear that|Lo- hen- grin|tune,|_|Who for|
+ B c"Edim7" c B |"Bb7" B2 c2 | B c c B | B2 c2 | B c G F |1"Eb" E4- |"Fm7/Bb" E2"Bb7" z2 :|2 %32
+w: That's My Ba- by,|No, Sir,|don't mean "may- be"|Yes, Sir,|That's My Ba- by|now.|_|
+w: should she be sir,|No one|else but me sir,|Yes, Sir,|That's My Ba- by|||
+"Eb" E4- | E z z2 |] %34
+w: ||
+w: now.|_|
+

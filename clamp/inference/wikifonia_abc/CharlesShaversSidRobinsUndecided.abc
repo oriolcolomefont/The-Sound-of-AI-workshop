@@ -1,0 +1,32 @@
+X:1
+T:Undecided
+T:Undecided
+C:Charles Shavers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" BcBc A3 c | Bc A2- A A3 |"F9" BcBc A3 c | Bc A2- A A3 |"D7" BcBc A3 c | %5
+w: First you say you do, and|then you don't * and|then you say you will and|then you won't * *||
+w: Now you want to play, and|then it's no, * and|when you say you''ll stay, that's|when you go, * You're|un- de- cid- ed now so|
+w: If you've got a heart, and|if you're kind, * then|don't keep us a- part. Make|up your mind. * *||
+"Dm7" dd c2"Ab7" _e2"G7""_To Coda" dc- |1"C""A7" c8 ||"Dm7""G7" z8 :|2"C" c8- || c4 z2 c>c | %10
+w: ||||* I've been|
+w: what are you gon- na do?|||||
+w: |||||
+"Gm7" d>dc>_B"C7" c2 B>c |"Gm7" d>dc>_B"C7" c B2 c |"F" d>dc>A c2 A>c | d c3 c2 A>c | %14
+w: sit- ting- on a fence, and it|does- 'nt make much sense, 'cause you|keep me in sus- pence and you|know it. * Then you|
+w: ||||
+w: ||||
+"Am7" d>dc>A"D7" c2 A>c |"G7" d>dc>A c A2 c |"G7" d>dB>G B2 G>B | d"_D.C. al Coda" G3- G4 || %18
+w: pro- mise to re- turn. When you|don't I real ly burn. Well I|guess I'll nev er learn, and I|show it *|
+w: ||||
+w: ||||
+"C""_Coda" c8- | c6 z2 |] %20
+w: ||
+w: ||
+w: ||
+

@@ -1,0 +1,31 @@
+X:1
+T:One Last Kiss
+T:One Last Kiss
+T:From "Bye Bye Birdie"
+T:Charles Strouse
+T:Lee Adams
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"^Steady rock" D2 E2 F2 |:"G" G3 G GDB,D | G3 A BAGF |"Em" E3 E EB,G,B, | E3 F GFED | %5
+w: Oh, One Last|Kiss, oh, ba- by one last|kiss, It nev- er felt like|this, oh, ba- by, not like|this, you know I need your|
+"C" C4 d2 c2 |"D" A4 BAGA |"G" GDDD"C" E2 E2 |"G" D2 z2 z"^tacet" DEF |"G" G3 G GDB,D | G3 A BAGF | %11
+w: love. Oh! Oh!|Oh! Give me one last|kiss! * * * * *|* Oh, one more|time, Oh, ba- by, one more|time, You make me feel sub-|
+"Em" E3 E EB,G,B, | E3 F GFED |"C" C4 d2 c2 |"D" A4 BAGA |"G" GDDD"C" E2 E2 |"G7" GG=FF EEDD | %17
+w: lime, Oh, ba- by it's sub-|lime, you know I need your|love, Oh! Oh!|Oh! Give me one last|kiss! * * * * *||
+"C" (3c2 d2 e2 (3d2 c2 B2 |"D7" (3A2 B2 c2 (3B2 A2 G2 | (3F2 G2 A2 D2 d2 |"G" B2 z2 z4 | %21
+w: Dar- ling, it is- n't right,|why must we say good- night?|Don't let me go like|this.|
+"C" (3c2 d2 e2 (3d2 c2 B2 |"D7" (3A2 B2 c2 (3B2 A2 G2 | (3F2 G2 A2 D2 A2 |"G" G2 z2 z"^tacet" DEF | %25
+w: Ba- by, I need you so|but if I have to go,|just give me one last|kiss! Oh, one last|
+"G" G3 G GDB,D | G3 A BAGF |"Em" E3 E EB,G,B, | E3 F GFED |"C" C4 d2 c2 |"D" A4 BAGA |1 %31
+w: kiss! oh, ba- by, one last|kiss, It nev- er felt like|this, oh, ba- by, not like|this, you know I need your|love. Oh! Oh!|Oh! Give me one last|
+"G" GDDD"C" E2 E2 ||"G" D2 z2 z"^tacet" DEF :|2"G" (3B2 A2 G2"C" EEEE ||"G" G4 z4 |] %35
+w: kiss! * * * * *|* Oh, one more|kiss!- * * * * * *||
+

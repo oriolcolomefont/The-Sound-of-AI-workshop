@@ -1,0 +1,42 @@
+X:1
+T:I JUST DON'T KNOW IF I CAN
+C:Carol Bayer Sager - Lesley Gore
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" defg z fze |"G/D" z dzA BddB |"D" defg z fze |"G/D" z dzA Bdde |:"D" DEFG G-A F2 | %5
+w: ||||What do I do now _ boy|
+w: ||||What do I do now _ boy|
+"G/D" z GGG- G3 A |"D" AFFF- F2 z2 |"G/D" z2 z2 z2 z2 |"D" DEFG G-A F2 |"G/D" z GGG- G3 A | %10
+w: that I know _ you|wan na be free? _||What do I do now _ boy|that I know _ your|
+w: that I know _ you're|nev er _ mine? _||What do I do now _ boy|that I know _ I'm|
+"D" AF-FG- G-F F2- | F8 |"F#m" z2 F-A F2 A2 |"Bm7" A3 D D4 |"E" z2 A-B- BA/-B-c/c- |"A" c3 B A4 | %16
+w: cheat in' _ on _ _ me?|_|I _ know what|you would do|if _ _ I _ _ did|_ you wrong|
+w: wast in' _ my _ _ time?|_|If _ I keep|dream _ in'|I'll _ _ dream my _ life|_ a way.|
+"F#m" z2 B-c A2 c2- |"Bm7" c B2 c B2 z c |"G" d2- dd B2 B-d |[K:F#] c8 | %20
+w: I _ know what|_ I should do if|on _ ly I were _|_|
+w: If _ I should|_ wake up now I|know _ what I would _|_|
+"C#7" z [Ec][Ec][Ec] [Ec][Ec]FG |"F#" G-A A2 A2 AA- | %22
+w: * * * * * But I|JUST _ DON'T KNOW IF I|
+w: ||
+"B/F#""^\" I Just Don't Know If I Can \"       -       2" A-G G4 FG |"F#" G-A A2 A2 AA- | %24
+w: _ _ CAN No, I|JUST _ DON'T KNOW IF I|
+w: ||
+"B/F#" A-G G2 z FFG |"F#" AAAA AA/A/ GA |"B/F#" z BBB BFFG | %27
+w: _ _ CAN I should n't|love you an y more but I love you|more than be fore. I should n't|
+w: |||
+"F#""^1 .""_2 .""^ending""_ending" AAAA AA/A/ GA |"B/F#" z BBB B2 AB |"F#" c4 c2- c>c- | %30
+w: want you an y more but I want you|more than be fore. And I|JUST DON'T _ KNOW|
+w: |||
+"B/F#" c4- c c2 c |"A" Bc- c2-"E7" c2 z2 |"A7""_repeat and Fade out" z2 z2 z2 z2 :|"F#" A4 F4 | %34
+w: _ _ IF I|CAN> _ _ _||JUST DON'T|
+w: ||||
+"B/F#" FG- G4 z F |"F#" G3 F F4- |"B/C#" F4 z2 Ac |:"F#" G-A A2 A2 AA- |"B/F#" A-G G4 FG :| %39
+w: KNOW _ _ IF|I _ CAN|_ No. I|JUST _ DON'T KNOW IF I|_ _ CAN No, I|
+w: |||||
+

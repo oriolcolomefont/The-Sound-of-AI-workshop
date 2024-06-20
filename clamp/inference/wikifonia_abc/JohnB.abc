@@ -1,0 +1,20 @@
+X:1
+T:Navy Hymn
+T:Eternal Father, Strong to Save
+T:Navy Hymn
+T:John B. Dykes
+C:John B. Dykes
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C |"C" E3/2 E/ G G |"F" A A"C" !breath!G"G" G |"Am7" c"Dsus4" d"G" B G | %4
+"Dsus4" G"D" ^F"G" !breath!G D |"G7" F3/2 F/"C" E E |"A7" G3/2 G/"D" !breath!^F"B" B | %7
+"Em" G"F#m7" ^F"Em" E"Am" A |"Em" G"B" ^F"Em" !breath!E E |"C7" E3/2 E/"F" F F | %10
+"D7" ^F3/2 F/"G7" !breath!G G |"C" G"D7" A"C" G E |"G7" D3/2"C" C/ !fermata!C2 |] %13
+

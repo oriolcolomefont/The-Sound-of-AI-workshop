@@ -1,0 +1,36 @@
+X:1
+T:Where Is Love
+T:Where Is Love?
+C:Lionel Bart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" CDEF"Dm7" D3"G7" E |"Cmaj7""C6" E8 |"Cmaj7" EFGA"Dm7" F3"G7" G |"Cmaj7""C""Cmaj7""C7" G8 | %4
+w: Where _ _ _ _ is|love?|Does it fall from skies a-|bove?|
+w: ||||
+"F" FGAB"Cm7" G3"F7" A |"Bbmaj7" A2 _BF-"Bbm7" F2"Eb7" z G |"Abmaj7" G2"Ab" _A_E-"Ab6" E2"Ab" C2 | %7
+w: Is it un- der- neath the|wil- low tree _ that|I've been dream- * ing|
+w: |||
+"Dm7""G7" G8 |"C" CDEF"Dm7" D3"G7" E |"Cmaj7""C6" E8 |"Cmaj7" EFGA"Dm7" F3"G7" G | %11
+w: of?|Where _ _ _ _ is|she|who I close my eyes to|
+w: ||||
+"Cmaj7""C""Cmaj7""C7" G8 |"F" FGAB"Cm7" G3"F7" A |"Bbmaj7" A2 _BF-"Bbm7" F2"Eb7" z G | %14
+w: see?|Will I ev- er know the|sweet "hel- lo" _ that's|
+w: |||
+"Abmaj7" G2"Ab" _A_E-"Ab6" E2"Ab" C2 |"Dm7""G7" G8 |:"C" CDEF"Dm7" F3 G |"Cmaj7""C""Cmaj7""C7" G8 | %18
+w: meant for on- * ly|me?|Who can say where she may|hide?|
+w: ||Ev- 'ry night I kneel and|pray,|
+"F" FGAB"G7" B3 c |"C""C#dim" G8 |"Dm7" FGAB"G7" B3 A |"Cmaj7" B2 cG-"Cm7""F9" G4 | %22
+w: Must I trav- el far and|wide|Till I am be- side the|some- one who _|
+w: let to- mor- row be the|day,|when I see the face of|some- one who _|
+"Bbmaj7" A2 _BF-"Bb6" F4 |"Amaj7" ^G2 AE-"A7b9" E4 |"Dm7" FGAB"Am7" c4 |"Dm7" ABcd A2"G7b9" B2 |1 %26
+w: I can mean _|some- thing to? _|Where, _ _ _ _|Where _ _ _ _ is|
+w: I can mean _|some- thing to. _|Where, _ _ _ _|Where _ _ _ _ is|
+"C""Am" c8- ||"Dm7" c4"G7" z4 :|2"C""F6""Fdim7" c8- ||"Cmaj7""C6" !fermata!c8 |] %30
+w: love?|_|love?|_|
+w: ||||
+

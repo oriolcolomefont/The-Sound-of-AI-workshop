@@ -1,0 +1,27 @@
+X:1
+T:Flamingo
+T:Flamingo
+T:Lyric: Ed Anderson
+C:Ted Grouya
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ C2 ||"Fmaj7""^A" c3 A-"Dm7" A4 |"Gm7" z2 Bc"C7" e2 dc |"Fm7" _A8 |"Bb9" z2 G_A c2 BA | %5
+w: Fla-|min- go _|like a flame in the|sky,|Fly- ing o- ver the|
+"Db9" F2 F6 |"Gm7" z2 FF"C7" G2 FG |"Fmaj7""D7" A8- |"Gm7" A4"C7" z2 C2 |"Fmaj7" c3 A-"Dm7" A4 | %10
+w: is- land|to my lov- er near|by;|_ Fla-|min- go, _|
+"Gm7" z2 Bc"C7" e2 dc |"Fm7" _A8 |"Bb9" z2 G_A c2 BA |"Db9" F2 F6 |"Gm7" z2 FF"C7" G2 FG | %15
+w: in your trop- i- cal|hue,|Speak of pas- sion un-|dy- ing|and a love that is|
+"F6""Bbm6" F8 |"Fmaj7" z4"B13" z2 F2 ||"Bbm7""^B" f8 |"Eb9" z2 ff f2 _e_d |"Abmaj7" _e3 e _a4 | %20
+w: true.|The|wind|sings a song to you|as you go,|
+"Adim7" z2 _ee- e2 _dc |"Bbm7" _d3 d g4 |"Eb9" z2 _d2 d2 cB |"Gm11" c8- |"C7" c4 z2 C2 || %25
+w: a song * that I|hear be- low|the mur- mur- ing|palms.|_ Fla-|
+"Fmaj7""^C" c3 A-"Dm7" A4 |"Gm7" z2 Bc"C7" e2 dc |"Fm7" _A8 |"Bb9" z2 G_A c2 BA |"Db9" F2 F6 | %30
+w: min- go, _|when the sun meets the|sea,|Say fare- well to my|lov- er|
+"Gm7" z2 G2"C7" (3B2 d2 f2 |"Fmaj7""Dm7" a8 |"Gm7""C7" z8 |] %33
+w: and hast- en to|me.||
+

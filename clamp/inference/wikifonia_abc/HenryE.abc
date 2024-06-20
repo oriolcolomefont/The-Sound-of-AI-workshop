@@ -1,0 +1,61 @@
+X:1
+T:Waiting At The Church
+T:Waiting At The Church
+T:My Wife Won't Let Me
+T:Henry E. Pether
+T:Fred W. Leigh
+C:Henry E. Pether
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am6" c4"B" _c3 F |"Em" A2"Dbdim" G2"Dm" F2"Ddim" D2 |"C" C z"G7" (3G,G,G, _A,2 G,2 | %3
+w: |||
+w: |||
+w: |||
+ z2 G2"C" c2 z2 ||"C""^Verse" G2 c>A G2 E>F |"G7/D" G>AG>F D2 z2 |"C" C>GG>A"G7" G>FD>E | %7
+w: |I'm in a nice bit of|trou- ble, I con- fess,|Some- bo- dy with me has had a|
+w: |Lor', what a fuss O- ba-|di- ah made of me,|When he used to take me in the|
+w: |Just think of how dis- a-|point- ed I must feel,|I'll be go- ing cra- zy ver- y|
+"C" C2 z2 z4 | G2 c>A G2 E>F | G>AG>E G2"F9" G>A |"G/D" B2 B>G"D7" A>GA>B |"G" G2 D2 B,2 G,2 | %12
+w: game,|I should by now be a|proud and hap- py bride, But I've|still got to keep my sin- gle|name. * * *|
+w: park!|He used to squeeze me till|I was black and blue, When he|kissed me he used to leave a|mark. * * *|
+w: soon.|I've lost my hus- band the|one I nev- er had! And I|dreamed so a- bout the hon- ey-|moon! * * *|
+"G7" B2 D>E F2 G>A | B>_B=B>_B =B2 z2 |"C" A>GE>G"A7/C#" A>GE>G |"D7" A2"A7" A,2 B,2 A,2 | %16
+w: I was pro- posed to by|O- ba- di- ah Binks,|In a ver- y gen- tle man- ly|way, * * *|
+w: Each time he met me he|treat- ed me to wine,|Took me now and then to see the|play; * * *|
+w: I'm look- ing out for an-|oth- er O ba- diah,|I've al- read- y bought the wed- ding|ring, * * *|
+"D7/A" ^F>=F^F>=F ^F>GA>D |"C/E" G>^F"Eb7"G>A"G/D" B2 z D |"A7" E>E^F>G"D7" A>^GA>B | %19
+w: Lent him all my mon- ey so that|he could buy the home, And|punc- tual- ly at twelve o' clock to-|
+w: Un- der- stand me right- ly, when I|say he treat- ed me, It|was- n't him but me that used to|
+w: all my lit- tle fal- the rid- dles|packed up in my box Yes,|ab- so- lute- ly two of ev- 'ry|
+"G" G2"G7" g2"Gdim" g2"G7" g2 ||"C""^Chorus" E3 F"C7" G4 |"F" F>EF>G A2 z2 |"D7" ^F>=F^F>G A2 z2 | %23
+w: day. * * *|There was I|wait- ing at the church,|wait- ing at the church|
+w: pay. * * *||||
+w: thing. * * *||||
+"G" G>^FG>A"G7" B2 z2 |"C" c3 G G3 A |"B7" B>cB>A"Em" G2 z2 |"G/D" d2 c>B"D7" A2 d2 | %27
+w: wait- ing at the church,|When I found he'd|left me in the lurch,|Lor' how it did up-|
+w: ||||
+w: ||||
+"G" B2 G2"G7" z4 |"C" E3 F"C7" G3 E |"F" F>EF>G A2 z2 |"D7" ^F>=F^F>G A2 z2 | %31
+w: set me!|All at once he|sent me round a note,|Here's the ver- y note,|
+w: ||||
+w: ||||
+"G" G>^FG>A"G7" B2 z2 |"C" c2 G>A"A7" G2 E2 |"Dm" F>GA>F"Fm6" D2 z2 |"C/G" G2 c2 z2 E2 |1 %35
+w: This is what he wrote,|Can't get a- way to|mar- ry you to- day|My wife won't|
+w: ||||
+w: ||||
+"G7" D2"C" C2 z4 :|2"G7" D2"C" C2 G,CEG ||"Am6" c4"B" B3 F |"Em" A2"Dbdim" G2"Dm" F2"Ddim" D2 | %39
+w: let me!|let me. * * * *|||
+w: ||||
+w: ||||
+"C" C z"G7" (3G,G,G, _A,2 G,2 | z2 G2"C" c2 z2 |] %41
+w: ||
+w: ||
+w: ||
+

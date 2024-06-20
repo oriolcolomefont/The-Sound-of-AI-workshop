@@ -1,0 +1,25 @@
+X:1
+T:Blue Smoke
+T:Blue smoke
+T:Ruru Karaitiana
+C:Ruru Karaitiana
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" G2 E3 C |"F" A2 F4 |"C" G2 E2 C2 |"Fm" F2 D4 |"C" E2 C2 E2 |"G" D2 B,2 D2 |"C" C3 C B,C | %7
+w: |||||||
+"G" D6 |"C" G2 E3 C |"F" A2 F4 |"C" G2 E2 C2 |"Am" A,6 |"D" A,2 B,2 C2 | E2 D3 C |"G" D6- | D4 e2 | %16
+w: ||||||||* Blue|
+"C" c3 d ^de | G3 c B_B |"F" A4 ^G2 |"D" A6 |"G" B3 ^A Bc | d3 ^c de |"C" G6- |"G" G4 e2 | %24
+w: smoke goes drifting by|in- to a clear|blue sky|and|when I think of|home I sad ly|sigh|* Oh|
+"C" c3 d ^de | G3 c B_B |"F" A4 ^G2 |"D" A4 ^A2 |"G" B3 ^A Bd | g3 _g fB |"C" c6- | c4 c2 | %32
+w: I can see you|there with lov- ing|tear in|your eye|As we fond- ly|said our last good-|byes|* and|
+"F" f3 e fe |"Fm" f4 cd |"C" e2 d2 c2 | G4 e2 |"D" d3 ^c dc | d4 cA |"G" B2 c2 ^c2 | d4 e2 | %40
+w: when I sailed a-|way with a|long- ing to|stay I|pro- mised to be|true and to|love on- ly|you Blue|
+"C" c3 d ^de | G3 c B_B |"F" A4 ^G2 |"D" A4 ^A2 |"G" B3 ^A Bd | g3 _g fB |"C" c6- | c6 |] %48
+w: smoke goes drif- ting|by in- to a|clear blue|sky My|mem- or- ies of|you will nev- er|die.||
+

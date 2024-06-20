@@ -1,0 +1,42 @@
+X:1
+T:We Are So Blessed
+T:We Are So Blessed
+T:Greg Nelson, William J & Gloria Gaither, 1982
+C:Greg Nelson, William J & Gloria Gaither, 1982
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 |[Q:1/4=85] z F G |"F" A3 |"Am/C" A z F/G/ |"F7" A"Eb/G" B"F/A" c | %9
+w: |||||we are|so|blessed by the|gifts of your|
+"Bb" B2 F/F/ | B c d |"F" c/ A3/2 A/G/ |"G7" F E F |"C7" G/ z/"Bb/C" F"C7" G |"F" A3 | %15
+w: hand we just|can't un der|stand _ why you|loved us so|much we are|so|
+"Am/C" A z F/G/ |"F7" A"Eb/G" B"F/A" c |"Bb" B2 F/F/ | B c d |"F/C" c/ A3/2"Dm7" A/G/ | %20
+w: blessed we just|can't find a|way or the|words that can|say _ thank you|
+"G7" F F"C7" G |"F" F"Eb/G" B"F/A" c |"Bb" d/ d2 c/ | B/ F3/2 z/ F/ | d"Am7" c"Gm7" B | %25
+w: Lord for your|touch when we're|emp ty you|fill us 'til|we o ver|
+"F" A"Eb/G" B"F/A" c |"Bb" d/ d2 c/ | B/ F3/2 z/ B/ |"G7" =B c d |"Bb/C" d/c/- c2 | %30
+w: flow when we're|hun gry you|feed us and|cause us to|know _ _|
+"C7" z"Bb/C" F G |"F" A3 |"Am/C" A z F/G/ |"F7" A"Eb/G" B"F/A" c |"Bb" B2 F/F/ | B c d | %36
+w: we are|so|blessed take what|we have to|bring take it|all ev ery|
+"F/C" c/ A3/2"Dm7" A/G/ |"G7" F F"C7" G |"F" F3 |"Bb/C" z F G |"F" A3 |"Am/C" A z F/G/ | %42
+w: thing _ Lord we|love you so|much|we are|so|blessed by the|
+"F7" A"Eb/G" B"F/A" c |"Bb" B2 F/F/ | B c d |"F" c/ A3/2 A/G/ |"G7" F E F | %47
+w: things You have|done _ the|vict ories You've|won _ and what|You've brought us|
+"C7" G/ z/"Bb/C" F"C7" G |"F" A3 |"Am/C" A z F/G/ |"F7" A"Eb/G" B"F/A" c |"Bb" B2 F/F/ | B c d | %53
+w: through we are|so|blessed take what|we have to|bring take it|all ev ery|
+"F/C" c/ A3/2"Dm7" A/G/ |"G7" F F"C7" G |"F" F"Eb/G" B"F/A" c |"Bb" d/ d2 c/ | B/ F3/2 z/ F/ | %58
+w: thing _ Lord we|bring it to|you when we're|emp ty you|fill us 'til|
+ d"Am7" c"Gm7" B |"F" A"Eb/G" B"F/A" c |"Bb" d/ d2 c/ | B/ F3/2 z/ B/ |"G7" =B c d | %63
+w: we o ver|flow when we're|hun gry you|feed us and|cause us to|
+"Bb/C" d/c/- c2 |"C7" z"Bb/C" F G |"F" A3 |"Am/C" A z F/G/ |"F7" A"Eb/G" B"F/A" c |"Bb" B2 F/F/ | %69
+w: know _ _|we are|so|blessed take what|we have to|bring take it|
+ B c d |"F/C" c/ A3/2"Dm7" A/G/ |"G7" F F"C7" G |"F" F z"Dm7" A/G/ |"Gm7" F F"C7" !fermata!G | %74
+w: all ev ery|thing _ Lord we|love you so|much Lord we|love you so|
+ !fermata!F3 | z3 | z3 | z3 | z3 |] %79
+w: much|||||
+

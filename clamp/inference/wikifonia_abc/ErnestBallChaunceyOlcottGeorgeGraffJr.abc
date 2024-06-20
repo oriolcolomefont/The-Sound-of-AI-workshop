@@ -1,0 +1,40 @@
+X:1
+T:When Irish Eyes Are Smiling (with verses)
+T:When Irish Eyes Are Smiling
+T:Ernest Ball
+T:Chauncey Olcott, George Graff Jr.
+C:Ernest Ball
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ E/F/ |:"C" G c A | G2 E/F/ | G c A | G2 E/D/ | C D E | E D C | G3- | G2 D/E/ |"G7" F E D | %10
+w: 1.~There's a|tear in your|eye, And I'm|won- der- ing|why, For it|ne- ver should|be there at|all.|* With such|pow'r in your|
+w: 2.~(For~~~~~ your)|smile is a|part Of the|love in your|heart, And it|makes ev- en|sun- shine more|bright.|* Like the|lin- net's sweet|
+ F2 E/D/ |"C" C D E |"A7" G2 F/E/ |"D" D E ^F | A d3/2 D/ |"G7" G3- | G2 E/F/ |"C" G c A | G E F | %19
+w: smile, Sure a|stone you'd be-|guile, So there's|ne- ver a|tear- drop should|fall.|* When your|sweet lilt- ing|laugh- ter's like|
+w: song, Croon- ing|all the day|long, Comes your|laugh- ter so|ten- der and|light.|* For the|spring- time of|life is the|
+ G c A | G2 E/D/ | C D E | E D C |"F" A3- | A2 A/B/ |"Dm7" c B A | c2 B/A/ |"Em" B G A | %28
+w: some fair- y|song And your|eyes twin- kle|bright as can|be,|* You should|laugh all the|while And all|oth- er times|
+w: sweet- est of|all. There is|ne'er a real|care or re-|gret;|* And while|spring- time is|ours Through- out|all of youth's|
+"Em" B2 A/G/ |"D7" D E G | A2 d |"G7" G3- | G2 G |"C" E2 E |"Cmaj9" D2 C |"C" E G2- |"C7" G E C | %37
+w: smile, So *|now smile a|smile for|me.|* When|I\- rish|Eyes Are|Smi\- ling,|* Sure It's|
+w: hours, Let us|smile * each|chance we|get.||||||
+"F" F2 A | c2 A |"C" G3- | G A B |"F" c2 B | c2 B |"C" A G2- |"A7" G F E |"D7" A2 D | D2 E | %47
+w: like a|morn\- in'|Spring|* In the|lilt of|I\- rish|laugh\- ter.|* You can|hear the|an\- gels|
+w: ||||||||||
+"G7" D3- | D z G |"C" E2 E |"Cmaj9" D2 C |"C" E G2- |"C7" G E C |"F" F2 A | c2 A |"C" G3- | G A B | %57
+w: sing.|* When|I\- rish|hearts are|hap\- py.|* All the|world seems|bright and|gay.|* And When|
+w: ||||||||||
+"F" c2 B |"F#dim" d2 c |"C" e3 |"A7" G ^F G |"D7" A B c |"G7" d2 c |1"C" c3- | c z E/F/ :|2 %65
+w: I\- rish|Eyes Are|Smi\-|ling, Sure they|steal * your|heart a\-||* For your|
+w: ||||||||
+"C" c3- || c z z | %67
+w: way||
+w: ||
+

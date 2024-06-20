@@ -1,0 +1,27 @@
+X:1
+T:Red Roses for a Blue Lady
+T:Red Roses for a Blue Lady
+T:Sid  Tepper and Roy Brodsky
+C:Roy Brodsky, Sid Tepper
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"G7" G |"C" d c"Eb" B A |"Dm7" c A A2 | F G"G7" E D |"C" G4 |"F" D E F G |"Dm7" A c C"G7" D | %7
+w: It|hap- pened in a|flow- er shop|just the oth- er|day|When I went tyo|or- der a bou-|
+"C" E4- | E2-"G7" E G |"C" d c"Eb" B A |"Dm7" c A G A | F G"G7" E D |"C" G3"Am7" E |"D7" D E ^F G | %14
+w: quet|* * I|walked up to the|flo- rist but be-|fore I could be-|gin. A|man rushed in and|
+ A B c A |"G" d4- | d z z2 || z"Em" G ^F"G7" =F |:"C" E4 | d c G E |"B7" ^D4 | c B3 |"E7" c B c B | %23
+w: then I heard him|say||I want some|red|ros- es for a|blue|la- dy|Mis- ter Flor- ist|
+ c B ^G E |"A" B4- | B3 A |"Dm7" G F G F |"G7" E D2 E |"Em" G2 E"Am" c- | c4 |"D7" B A ^F D | %31
+w: take my or- der|please|* We|had a sil- ly|quar- rel the|oth- er day||Hope these pret- ty|
+ B A B c |"G" d2 G"G7" G- | G"Em" G ^F"G7" =F |"C" E4 | d c G E |"B7" ^D4 | c B3 |"E7" c B c B | %39
+w: flow- ers chase her|blues a- way|* wrap up some|red|ros- es for a|blue|la- dy|send them to the|
+ c B ^G E |"A" B4- | B3 A |"Dm7" G F G F |"Ab" E3 D |"C" C E G d |"A" B3 A |"Dm" c c c/ A3/2 | %47
+w: sweet- est gal in|town|* and|if they do the|trick I'll|hur- ry back to|pick your|best white or- chid|
+"C" c A"G7" E G |"C" c4 |"G" z"Em" G ^F"G7" =F :|"C" c4- | c4 |] %52
+w: for her wed- ding|gown.|I want some|gown.||
+

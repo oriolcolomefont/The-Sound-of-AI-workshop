@@ -1,0 +1,29 @@
+X:1
+T:Theme For A Dream
+T:Theme For A Dream
+T:Earl Shuman & Mort Garson
+C:Earl Shuman & Mort Garson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 D2"Bbdim" E2 G2 |"Am7" A2 AB"D7" A2 AB |"Am7" A3 B"D7" AGEA |"G""Am7" G8 | %4
+w: You are my|Theme For A Dream, yes, you|are, a rare and love- ly|theme,|
+"G/B" z2 D2"Bbdim" E2 G2 |"Am7" A2 AB"D7" A2 AB |"Am7" A3 B"D7" AGEA |"G""Am7" G8- | %8
+w: The dream I|dream day and night that your|arms are hold- ing me so|tight.|
+"Bbdim" G2 z2"G/B" GABG |"Am7" d2"D7" A6- |"Am7" A2 z2"D7" ABcA |"G" d2"Am7/D" G6- | %12
+w: * When I dream I|kiss you|* mus- ic filled with|star- light,|
+"G" G2 z2"G/B" GABG |"Am7" d2"D7" A6- |"Am7" A2 z2 dcBA |"G" G2 z B"Bm" F2 z =F | %16
+w: * ev- 'ry time I|touch you,|* each and ev- 'ry|time a chime rings|
+"Am7" E2 c2"D9" E2 F2 |"G" z2 GG"Bm7" FF"Bbm7"=FF |"Am7" E2 D2"Bbdim" E2 G2 | %19
+w: out I love you,|on- ly you for ev- er|more. 'Cause you're my|
+"Am7" A2 AB"D7" A2 AB |"Am7" A3 B"D7" AGEA |"G""Am7" G8 |"G/B" z2 D2"Bbdim" E2 G2 | %23
+w: Theme For A Dream, yes, you|are, a rare and love- ly|theme,|so, an- gel,|
+"Am7" A2 AB"D7" A2 AB |"Am7" A3 B"D7" AGEA |"G""Am7/D" G8- |"G" G6 z2 |] %27
+w: please say that you love me|too and make my dreams come|true.-||
+

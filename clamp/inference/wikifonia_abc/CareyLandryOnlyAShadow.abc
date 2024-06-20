@@ -1,0 +1,35 @@
+X:1
+T:Only A Shadow
+T:Only A Shadow
+C:Carey Landry
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3"^Verses" B, |:"Bb" D4- | D D E D | F3 E | D3- D/B,/ |"Eb" B2 B3/2 B/ | B A G F |"Bb" F3 E | %8
+w: 1.The|love|_ I have for|You my|Lord, _ is|on- ly a|shad- ow of Your|love for|
+w: 2.|own|_ be- lief in|You my|Lord, _ is|on- ly a|shad- ow of Your|faith in|
+ D4 |"Eb" B2 B3/2 B/ | B A G F |"Bb" F3 E | D3 B, |"F" C4- |"Eb" C B, B, A, |1"Bb" B,4- | %16
+w: me,|on- ly a|shad- ow of Your|love for|me, Your|deep|_ a- bid- ing|love.|
+w: me,|on- ly a|shad- ow of Your|faith in|me, Your|deep|_ and last- ing||
+ B,3 B, :|2"Bb" B,4- || B,3 B, ||S"^`Eb""^Refrain" B4- | B B A G |"Bb" F4- | F3 B, |"Eb" B4- | %24
+w: _ 2.My|||||||life|
+w: |faith.|_ My|life|_ is in Your|hands,|_ my||
+ B B A G |"Bb" F4- | F3 B, |"Eb" B4- | B B A G |"Bb" F3 E | D3 B, |"F" C4- |"Eb" C B, C B, | %33
+w: _ is in Your|hands,|_ my|love|_ for You will|grow, my|God: Your|light|_ in me will|
+w: |||||||||
+"Bb" B,4- | B,3"^Verses" B,!fine! |:"Bb" D4- | D D E D | F3 E | D3- D/B,/ |"Eb" B2 B3/2 B/ | %40
+w: shine.|_ 3.The|dream|_ I have to-|day my|Lord, _ is|on- ly a|
+w: |* 4.|joy|_ I feel to-|day my|Lord, _ is|on- ly a|
+ B A G F |"Bb" F3 E | D4 |"Eb" B2 B3/2 B/ | B A G F- |"Bb" F2 F E | D3 B, |"F" C4- | %48
+w: shad- ow of your|dreams for|me|on- ly a|shad- ow of all|_ that will|be, if|I|
+w: shad- ow of you|faith in|me,|on- ly a|shad- ow of Your|joys _ for|me when|we|
+"Eb" C B, B, A, |1"Bb" B,4- || B,3 B, :|2"Bb" B,4- | B,3 B,!D.S.! |] %53
+w: _ but fol- low|you.|_ 4.The|||
+w: _ meet face to|||face,|_ My|
+

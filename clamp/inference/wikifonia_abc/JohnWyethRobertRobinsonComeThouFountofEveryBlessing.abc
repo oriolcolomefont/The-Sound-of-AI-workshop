@@ -1,0 +1,28 @@
+X:1
+T:Come, Thou Fount of Every Blessing
+T:Come, Thou Fount of Every Blessing
+T:John Wyeth
+T:Robert Robinson
+C:John Wyeth
+Z:Public Domain
+L:1/8
+M:3/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" F"A7"E |"D" D2 D2 FA |"A" E2 E2"D" FA |"G" B2"D" A2"A7" FE |"D" D4 |"A7" FE |"D" D2 D2 FA | %7
+w: Come thou|fount of ev- 'ry|bless- ing, tune my|heart to sing thy|grace;|streams of|mer- cy nev- er|
+w: Here I|raise my Eb- en-|e- zer; hith- er|by thy help I'm|come;|and I|hope, by thy good|
+w: O to|grace how great a|debt- or dai- ly|I'm con- strained to|be;|let that|grace now, like a|
+"A" E2 E2"D" FA |"G" B2"D" A2"A7" FE |"D" D4 |"A7" AB/c/ |"D" d2 c2"G" BA |"D" BA F2"A7" AB/c/ | %13
+w: ceas- ing, call for|songs of loud- est|praise.|Teach me *|some me- lo- dious|son- * net, sung by *|
+w: plea- sure, safe- ly|to ar- rive at|home.|Je- sus *|sought me when a|strang- * er, wan- d'ring *|
+w: fet- ter, bind my|wan- d'ring heart to|thee.|Prone to *|wan- der, Lord, I|feel * it, prone to *|
+"D" d2 c2"G" BA |"D" d4 |"A7" FE |"D" D2 D2 FA |"A" E2 E2"D" FA |"G" B2"D" A2"A7" FE |"D" D4 |] %20
+w: flam- ing tongues a-|bove;|praise the|mount! I'm fixed up-|on it, mount of|God's un- chang- ing|love.|
+w: from the fold of|God:|he, to|res- cue me from|dan- ger, in- ter-|posed his pre- cious|blood.|
+w: leave the God I|love:|here's my|heart, O take and|seal it, seal it|for thy courts a-|bove.|
+

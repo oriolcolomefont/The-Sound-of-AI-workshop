@@ -1,0 +1,30 @@
+X:1
+T:Born To Lose
+T:Born To Lose
+C:Ted Daffan
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2"F" C"G7" D |:"C" E3 E |"F" F A"G7" G F |"C""Am""E" E4- |"C7" E2 C C |"F" A3 B | c d c A | %7
+w: Born to|lose, I've|lived my life in|vain;|_ Ev- 'ry|dream has|on- ly brought me|
+w: |lose, my|ev- 'ry hope is|gone;|_ It's too|hard to|face that emp- ty|
+"C""G7" G4- |"C" G2"G7" E D |"C" C3 E |"Gm7" D"C7" C E G |"F" A4- | A2 A c |"G7" B3"Dm7" A | %14
+w: pain;|_ All my|life I've|al- ways been so|blue;|_ Born to|lose, and|
+w: dawn;|_ You were|all the|hap- pi- ness I|knew;|_ Born to|lose, and|
+"G7" G E F D |"C""F#dim" C4- |"G7" C z"F" C"G7" D |"C" E3 E |"F" F A"G7" G F |"C""Am""E" E4- | %20
+w: now I'm los- in'|you.|_ Born to|lose, it|seems so hard to|bear;|
+w: now I'm los- in'|you.|_ There's no|use to|dream of hap- pi-|ness;|
+"C7" E2 C C |"F" A3 B | c d c A |"C""G7" G4- |"C" G2"G7" E D |"C" C3 E |"Gm7" D"C7" C E G | %27
+w: _ How I|long to|al- ways have you|near;|_ You've grown|tired and|now you say we're|
+w: _ All I|see is|on- ly lon- li-|ness;|_ All my|life I've|al- ways been so|
+"F" A4- | A2 A c |"G7" B3"Dm7" A |"G7" G E F D |1"C""F#dim" C4- |"G7" C z"F" C"G7" D :|2 %33
+w: through;|_ Born to|lose, and|now I'm los- in'|you.|_ Born to|
+w: blue;|_ _ _|||||
+"C""Ab7" C4- |"C" C4 |] %35
+w: you.|_|
+w: ||
+

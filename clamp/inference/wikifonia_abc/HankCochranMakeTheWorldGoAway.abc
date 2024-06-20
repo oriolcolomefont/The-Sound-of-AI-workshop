@@ -1,0 +1,23 @@
+X:1
+T:Make The World Go Away
+T:Make the world go away
+T:Hank Cochran
+C:Hank Cochran
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." GGG GGFE |"Dm7" E2 D6 |"G7" z DEF EDCD |"C" E8 | z2 GG G2 FE |"Dm" D4 A4 | %6
+w: Do you re- mem- ber when you|loved me|be- fore the world took me a-|way/|if you do then for-|give me|
+"G7" z DEF EDCB, |"C" C8- | C2 cc c2 BA |"Dm7" F8 |"G7" z BBB BcBA |"C" AG E6 | z2 cc cBAG | %13
+w: and make the world * go a-|way|* make the world go a-|way|and get it off * my *|shoul * ders|say the things you used to|
+"Dm7" F8 |"G7" z DEF EDCB, |"C" C8- | C2 z"^N.C,." G GGFE |"Dm7" E2 D6 | z"G7" DEF EDCD |"C" E8 | %20
+w: say|and make the world * go a-|way|* I'm sor- ry if I|hurt you|I'll make it up * day by|day|
+ z GGG GGFE |"Dm7" D4 A4 |"G7" z DEF EDCB, |"C" C8- | C2 cc c2 BA |"Dm7" F8 |"G7" z BBB BcBA | %27
+w: just say you love me like you|used to|and make the world * go s-|way|* make the world go a-|way|and get it off * my *|
+"C" AG E6 | z2 cc cBAG |"Dm" F8 |"G7" z DEF EDCB, |"C" C8- | C2 z2 z4 |] %33
+w: shoul * ders|say the things you used to|say|and make the world * go a-|way.-||
+

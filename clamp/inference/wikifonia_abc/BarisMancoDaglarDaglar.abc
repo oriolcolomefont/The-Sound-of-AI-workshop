@@ -1,0 +1,20 @@
+X:1
+T:Daglar Daglar
+T:Daglar Daglar
+T:Baris Manco
+T:Baris Manco
+C:Baris Manco
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z G2A A2(cA) c(c2B) (BA)A2 | z2 GA A(AB)A c(c2B) (BA)A2 | z2 cdd2d2 d(d2c) (cB)(BA) | %3
+ z B2c (cB)(BA) A2>A2 z ABc | d2cd d2<d2 d(d2c) (cB)(BA) | z B2c (cB)(BA) A8 | %6
+[M:6/4] z c2d (ed)(e2 e8) e4 e2ed |[M:4/4] z c2d d(cd2) z B2c (BA)A2 |: %8
+ c2d d(cd2) z (dc)d (cB)(BA) z | z2 Bc c2(BA) A8 :| %10
+

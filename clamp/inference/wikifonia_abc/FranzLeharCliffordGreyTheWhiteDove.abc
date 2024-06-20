@@ -1,0 +1,22 @@
+X:1
+T:The White Dove
+T:The White Dove
+C:Franz Lehar
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" z c"Ddim" d |"C7" e2 d | B2 G | E3- | E D C |"F" A2 G | F2 A | D3- | D C"Ddim" D |"C7" E2 F | %10
+w: In your|heart, my|sweet white|dove,|_ Let me|build my|on- ly|throne,|_ In the|king- dom|
+ ^F2 G | c3- | c =B _B |"F" A2 E | F2 A | d3- | d c"Ddim" d |"Gm" e2 d | B2 G |"A7" E3- | E D ^C | %21
+w: of your|love,|_ Tell me|I shall|reign a-|lone.|_ In the|hav- en|of your|arms,|_ Is the|
+"Dm" D2 F | A2 d |"Ddim" f3- | f e d |"F" c =B c |"Dm" f e d |"F" c =B c |"Bb" d"Cdim" c"Bbm" _B | %29
+w: peace of|Heav'n a-|bove,|_ In the|spell of your|lov- li- ness|I find my|hap- pi- ness,|
+"F" A3 |"C7" G3 |"F" F3 |] %32
+w: Sweet|white|dove.|
+

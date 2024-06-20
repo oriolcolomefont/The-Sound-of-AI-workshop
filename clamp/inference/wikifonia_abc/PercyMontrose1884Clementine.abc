@@ -1,0 +1,35 @@
+X:1
+T:Clementine
+T:Clementine
+T:(Oh My Darling Clementine)
+T:Percy Montrose (1884)
+T:original copyright not known
+C:Percy Montrose (1884)
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Moderately""^VERSES:" G>G |"G" G2 D2 B>B | B2 G2 G>B | d2 d2 c>B |"D7" A4 A>B | c2 c2 B>A | %6
+w: 1.~In a|cav- ern, in a|can- yon, Ex- ca-|va- ting for a|mine, Dwelt a|mi- ner, for- ty|
+w: 2.~Light she|was and like a|fai- ry, And her|shoes were num- ber|nine, Her- ring|box- es, with- out|
+w: 3.~Drove she|duck- lings to the|wa- ter, Ev'- ry|morn- ing, just at|nine, Hit her|foot a- gainst a|
+w: 4.~Ru- by|lips a- bove the|wa- ter, Blow- wing|bub- bles soft and|fine, Alas, for|me! I was no|
+w: 5.~How I|missed her! How I|missed her, How I|missed my Clem- en-|tine, Til I|kissed her lit- tle|
+"G" B2 G2 G>B |"D7" A2 D2 F>A |"G" G4 ||"^CHORUS:" G>G |"G" G2 D2 B>B | B2 G2 G>B | d2 d2 c>B | %13
+w: nin- er, And his|daught- er, Clem- en-|tine.|Oh, my|dar- ling, Oh, my|dar- ling, Oh, my|dar- ing Clem- en-|
+w: top- ses, San- dals|were for Clem- en-|tine.|||||
+w: splin- ter, Fell in-|to the foam- ing|brine.|||||
+w: swim- er, so I|lost my Clem- en-|tine.|||||
+w: sis- ter, And for-|got my Clem- en-|tine.|||||
+"D7" A4 A>B | c2 c2 B>A |"G" B2 G2 G>B |"D7" A2 D2 F>A |"G" G4 :| %18
+w: tine, You are|lost and gone for-|ev- er, Dread- ful|sor- ry, Clem- en-|tine.|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+

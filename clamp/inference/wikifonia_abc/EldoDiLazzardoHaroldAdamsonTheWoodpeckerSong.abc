@@ -1,0 +1,28 @@
+X:1
+T:The Woodpecker Song
+T:The Woodpecker song
+T:Eldo Di  Lazzaro
+T:Harold Adamson
+C:Eldo Di Lazzardo
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z E |"C" G G G G |"Am" c2"Em" G2 |"G7" F D3- | D3 G | B B B"F" A |"C" G2"G7" F2 |"C" E4- | %8
+w: He's|up each morn- ing|bright and|ear- ly|* to|wake up all the|neigh- bour-|hood|
+ E3 E | G G G G |"Am" c2"Em" G2 |"G7" F D3- | D3 G | G G G F | E2 D2 |"C" C4- | C2 E G | %17
+w: * to|bring to ev- ry-|boy and|girl- ie|* his|hap- py ser- e-|nade on|wood|* hear him|
+"Dm" F/F/F/F/ F A |"G7" D2 D F |"C" E/E/E/E/ E G | C2 C E |"G7" D/D/D/D/ D F | B,2 B, D |"C" C4- | %24
+w: pick- in out a mel- o-|dy peck peck|peck- in at the same old|tree he's as|hap- py as a bum- ble|bee all day|long|
+ C4 | z C E G | c2 B2 |"Dm" d"F" A3- |"Dm7" A4- |"G7" A D F G | B2 A2 |"C" c G3- | G4- | G C E G | %34
+w: |to ser- e-|nade your|la- dy||* just find a|tree that's|sha- dy||* and when you|
+ A2 G2 |"G7" B3/2"Dm7" A/"G7" A G |"Dm7" B3/2 A/ A"G7" G |"Dm7" B3/2 A/"G7" A G |"Dm7" A G2"G7" F | %39
+w: hear that|tick a tick tick|tick a tick tick|tick a tick tick|sing right a-|
+"C" E4- | E4- | E C E G | c2 B2 |"Dm" d A3- |"Dm7" A4- |"G7" A D F G | B2 A2 |"C" c G3- | G4- | %49
+w: long||* come on and|try his|rhythm *||* and let your|hearts beat|with him||
+ G C E G | A2 G2 |"G7" B3/2 A/ A G | B3/2 A/ A G | B3/2 A/ A G | A G2 d |"C" c4- | c2 z2 |] %57
+w: * just lis- ten|to that|tick a tick tick|tick a tick tick|hap- py lit- tle|Wood- peck- er|song||
+

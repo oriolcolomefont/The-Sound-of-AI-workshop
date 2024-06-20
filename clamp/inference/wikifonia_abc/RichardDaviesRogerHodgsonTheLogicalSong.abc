@@ -1,0 +1,73 @@
+X:1
+T:The Logical Song
+T:Logical Song
+T:Music & Lyrics by Roger Hodgson, Richard Davies
+C:Richard Davies, Roger Hodgson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Cm" G2 GG z4 | G2 GG z4 | G2 GG z4 | G2 GG z4 ||"Cm" GGGG z EEF |[M:2/4]"Ab" GG G2 | %6
+w: ||||1.~When I was young, it seemed that|life was so|
+w: ||||sent me a- way, to teach me|how to be|
+[M:4/4]"Gm" FE D2 z2 z F |"Bb" FE D2 z FFF |"Ab" ED C2"Adim" ED C2 |[M:2/4] z E EF | %10
+w: won- der- ful, a|mi- ra- cle, oh it was|beau- ti- ful, ma- gi- cal.|And all the|
+w: sen- si- ble, *|lo- gi- cal, oh * res-|pon- si- ble, pract- i- cal.|* And they|
+[M:4/4]"Cm" GGGG- GEEF |[M:2/4]"Ab" GG G2 |[M:4/4]"Gm" FE D2 z2 z F |"Bb" FE D2 z FF-F | %14
+w: birds in the trees, * well they'd be|sing- ing so|hap- pi- ly, oh,|joy- ful- ly, * oh, *|
+w: showed me a world * where I could|be so de-|pen- da- ble, oh,|cli- ni- cal, oh, in- tel-|
+"Ab" ED C2"Adim" ED C2 | z8 |1[M:2/4] z E EF :|2[M:2/4] z E FG- ||[M:4/4]"Eb" G6 AG- | %19
+w: play- ful- ly, watch- ing me.||2.~But then they|There are times|* when all|
+w: lec- tu- al, cy- ni- cal.|||||
+ G2 FE- E2 FG |"Am7b5/Eb" z4 z2 AG- | G2 FE- E2 FG |"Ab/Eb" z4 z2 AG- | G2 FE- E2 FF- | %24
+w: * the world's * a- sleep|the ques|* tions run * to deep|For such|* a sim * ple man|
+w: |||||
+"Db" F4-"Fm7/C" F4 |"Bbm7" z4"Ab6" z EFG- |"Eb" G6 A2 | G2 FE- E2 FG- |"Am7b5/Eb" G2 z2 z2 AG- | %29
+w: |Won't you please,|* please|tell me what * we've learned?|* I know|
+w: |||||
+ G2 FE- E2 FG- |"Ab/Eb" G2 z2 z2 A2 | G2 FE- E2 FF- |"Db" F4-"Fm7/C" F4 |"Bbm7" z4"Ab6" z4 | %34
+w: * it sounds * ab- surd.|* Please|tell me who * I am|||
+w: |||||
+"Db" z4"Fm/C" z4 |"Bbm7" z4"Ab6" z G G2 ||"Cm" GGGG z2 EF |[M:2/4]"Ab" GG GF | %38
+w: |3.~I said,|watch what you say They'll be|cal- ling you a|
+w: ||||
+[M:4/4]"Gm" FE D2 z2 z F |"Bb" FE D2 z F2 F |"Ab" ED C2"Adim" ED C2 |[M:2/4] z E EF | %42
+w: ra- di- cal, a|li- be- ral, oh, fa-|na- ti- cal, cri- mi- nal.|Oh, won't you|
+w: ||||
+[M:4/4]"Cm" GGGG z EEF |[M:2/4]"Ab" GG G2 |[M:4/4]"Gm" FE D2 z2 z F |"Bb" FE D2 z F2 F | %46
+w: sign up your name, we'd like to|feel you're ac-|cep- ta- ble, res-|pec- ta- ble, oh, pre\-|
+w: ||||
+"Ab" ED C2"Adim" ED C2 |[M:2/4]"Cm" z2 (G2 |[M:4/4] C2) G2 G2 GG ||"Cm" G2 z2 z4 |[M:2/4]"Ab" z4 | %51
+w: sen- ta- ble vege- ta- ble.|Oh,|* take, take, take it|yeah||
+w: |||||
+[M:4/4]"Gm" z8 |"Bb" z8 |"Ab" z4"Adim" z4 |[M:2/4] z4 |[M:4/4]"Cm" z8 |[M:2/4]"Ab" z4 | %57
+w: ||||||
+w: ||||||
+[M:4/4]"Gm" z8 |"Bb" z8 |"Ab" z4"Adim" z4 | z8 |[M:2/4]"Cm" z E FG- ||[M:4/4]"Eb" G6 AG- | %63
+w: ||||But at night,|* when all|
+w: ||||||
+ G2 FE- E2 FG |"Am7b5/Eb" z4 z2 AG- | G2 FE- E2 FG |"Ab/Eb" z4 z2 AG- | G2 FE- E2 FF- | %68
+w: * the world's * a- sleep,|the ques|* tions run * to deep|For such|* a sim * ple man|
+w: |||||
+"Db" F4-"Fm/C" F4 |"Bbm7" z4"Ab6" z EFG- |"Eb" G6 A2 | G2 FE- E2 FG- |"Am7b5/Eb" G2 z2 z2 AG- | %73
+w: |Won't you please,|* please|tell me what * we've learned?|* I know|
+w: |||||
+ G2 FE- E2 FG- |"Ab/Eb" G2 z2 z2 A2 | G2 FE- E2 FF- |"Db" F4-"Fm/C" F4 |"Bbm7" z4"Ab6" z AAA- | %78
+w: * it sounds * ab- surd.|* Please|tell me who * I am||who I am|
+w: |||||
+"Db" A4-"Fm/C" A4 |"Bbm7" z4"Ab6" z Bcc- |"Db" c4-"Fm/C" c4 |"Bbm7" z4"Ab6" z _dee- | %82
+w: |who I am||who I am|
+w: ||||
+"Db" e4-"Fm/C" e4 |"Bbm7" z4"Ab6" z4 |:"C7""^Repeat and fade" GB c2 z2 z B | c2 z ^d =ec- c2 | %86
+w: ||||
+w: ||||
+ GB c2 z G_GF- |"Fm" F4"Fm7" z4 |"C7" GB c2 z2 z B | c2 z ^d =ec- c2 | GB c2 z G_GF- | %91
+w: |||||
+w: |||||
+"Fm" F4"Eb" z4 |"Ab" z8 :| %93
+w: ||
+w: ||
+

@@ -1,0 +1,30 @@
+X:1
+T:Oh! What It Seemed To Be
+T:Oh! What It Seemed To Be
+C:Frankie Carle
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"Bb7" z2 =A>B |:"Eb" c>B (3=ABc B4 | DB- (3B=AB G3 D |"Ebmaj7/G" F2- (3FEF"Gbdim" E3 F | %4
+w: It was|just a neigh- bor- hood dance,|that's all * that it was, but|oh * what it seemed to|
+"Bb7/F" D6"Bb7" =B>c | d>c (3=Bcd c3 C | D B2 =A _A3 B | c>C (3^CDB- B2 cG- | %8
+w: be! It was|like a mas- quer- ade ball with|cos- tumes and all 'cause|you were at the dance * with me.|
+"Eb""Fm" G6"Bb7" =A>B |"Eb" c>B (3=ABc B4 | DB- (3B=AB G3 D |"Ebmaj7/G" F2- (3FEF"Gbdim" E3 F | %12
+w: * It was|just a ride on a train,|that's all * that it was, but|Oh! * what it seemed to|
+"Bb7/F" D6"Bb7" =B>c | d>c (3=Bcd c3 C | D B2 =A _A3 B |"Fm7" c>C (3^CDB-"Bb7" B2 DE- | %16
+w: be! It was|like a trip to the stars, to|Ven- us and Mars, 'cause|you were on the train * with me.|
+"Eb" E4-"Eb7" EEEE |"Abmaj7" c c3- c4 |"Ebmaj7" =A B3-"Cm7" B2 BA |"Fm7" _AGAG"Bb7" A3 B | %20
+w: * * And when I|kissed you *|dar- ling, * it was|more than just a thrill to|
+"Eb" G4-"Eb7" GEEE |"Abmaj7" c c3- c4 |"Ebmaj7" =A"Db7" B3-"C7" B2 B=B |"F7" c3 G FEDE | %24
+w: me; * it was the|pro- mise *|dar- ling, * of the|things that fate had willed for|
+"Fm7" F6"Bb7" =A>B |"Eb" c>B (3=ABc B4 | DB- (3B=AB"Bb7" G3 D |"Ebmaj7/G" F2- (3FEF"Gbdim7" E3 F | %28
+w: me. It was|just a wed- ding in June,|that's all * that it was, but|Oh! * what it seemed tp|
+"Bb7/F" D6"Bb7" =B>c | d>c (3=Bcd c3 C | D B2 =A _A3 B |"Fm7" c>C (3^CDB-"Bb7" B2 DE- |1 %32
+w: be! It was|like a Roy- al af- fair with|ev- 'ry one there, cause|you said yes I do * to me.|
+"Eb" E4"Fm7" z2"Bb7" =A(B :|2"Eb" E8) |] %34
+w: * it was|me.|
+

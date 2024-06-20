@@ -1,0 +1,48 @@
+X:1
+T:Advent medley 2
+T:Advent Medley 2
+T:John & Annie
+T:©
+T:Advent Medley 2
+T:2
+T:Flute
+C:Arrangement by John & Annie
+Z:Creative Commons BY
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^A" D | F A A A | (G B A G) |[M:2/4] F G |[M:4/4] A F D F | (G E) D C | D3 G | G D D E | %8
+w: O|come, O come, Immanuel|_ _ _ _|* and|ransom _ captive _|Israel _ _ _|_ that|mourns in lonely _|
+ (F2 E) D | C3 F | G A A A | (G B) A G |"^B" F3 c | c3 A | A3 A | (G B) A G |[M:2/4] F G | %17
+w: exile _ _|here until|_ the Son of|God _ _ appear.|_ Rejoice,|_ rejoice,|_ Immanuel|_ _ _ _|* shall|
+[M:4/4] A F D F | (G E) D C | D3 x |:"^C" x3 C | F F F G | (A/G/)(A/B/) c A | B (A/F/) G G | F3 C | %25
+w: come to thee, O||||little _ town of|Beth _ le _ hem how|still we * see thee|lie. Above|
+ F F F G | (A/G/)(A/B/) c A | B (A/F/) G G | F3 F/A/ | c3/2 d/ (c/B/)(A/G/) | (F/G/)A/B/ c C | %31
+w: _ thy deep and|dream _ less _ sleep the|silent _ _ stars go|by. Yet _|in thy dark * streets *|shineth * * * * the|
+ F A G F | C3 C | F F F G | (A/G/)(A/B/) c A | B (A/F/) G G | F3 x :|"^D" x3 c | c3 A | A3 A | %40
+w: ever _ lasting _|light; the|hopes and fears of|all * the * years are|met in * thee tonight|_|Rejoice|_ rejoice,|_ Imm-|
+ (G B) A G |[M:2/4] F G |[M:4/4] A F D F | (G E) D C | D3 x |:[M:3/4]"^E" x2 C | F F (G/A/) | %47
+w: anuel _ _ _|_ shall|come to thee, O|Israel _ _ _|_|Away|_ in a *|
+ F F (A/B/) | c c d | B2 (G/A/) | B B c | A A (F/A/) | G D F | E2 C | F F (G/A/) | F F (A/B/) | %56
+w: manger _ no *|crib for a|bed, the *|little _ Lord|Jesus _ laid *|down his sweet|head; the|stars in the *|bright sky looked *|
+ c c d | B2 (G/A/) | B B c | A A (F/A/) | G D E | F2 x :|"^F" x2 c |[M:4/4] c3 A | A3 A | %65
+w: down where he|lay, the *|little _ Lord|Jesus _ asleep *|* on the|hay.|Rejoice|_ rejoice,|_ Immanuel|
+ (G B) A G |[M:2/4] F G |[M:4/4] A F D F | (G E) D C | D3 x |:"^G" x3 C/C/ |[M:3/4] C3/2 C/ C/C/ | %72
+w: _ _ _ _|* shall|come to thee, _|Israel. _ _ _|_|Who _|He in yonder _|
+ D2 D/D/ | C3/2 C/ F/F/ | G2 F/G/ | A3/2 A/ B/A/ | A G E/F/ | G3/2 G/ A/G/ | G F F/F/ | %79
+w: stall, at whose|feet the shepherds _|fall? 'Tis the|Lord! O wondrous _|story, _ 'Tis the|Lord, the King of|Glory! _ At His|
+ F3/2 F/ F/C/ | D2 F/G/ | A3/2 A/ G/G/ | F2 x :|"^H" x2 c |[M:4/4] c3 A | A3 A | (G B) A G | %87
+w: feet we humbly _|fall, crown Him,|crown him Lord of|all!|Rejoice|_ rejoice,|_ Immanuel|_ _ _ _|
+[M:2/4] F G |[M:4/4] A F D F | (G E) D C | D3 D | F A A A | (G B A) G |[M:2/4] F G | %94
+w: * shall|come to thee, O|Israel. * * *|* O|come, O come, Immanuel|_ _ _ _|* and|
+[M:4/4] A F D F | (G E) D C | D3 G | G D D E | (F2 E) D | C3 F | G A A A | (G B) A G | F3 c | %103
+w: ransom _ captive _|Israel * * *|* that|mourns in lonely _|exile * *|here until|_ the Son of|God * * appear.|_ Rejoice,|
+ c3 A | A3 A | (G B) A G |[M:2/4] F G |[M:4/4] A F D F | (G E D C) | D3 x |] %110
+w: _ rejoice,|_ Immanuel|_ _ _ _|* shall|come to thee, O|Israel. * * *||
+

@@ -1,0 +1,33 @@
+X:1
+T:If You Could See Me Now
+T:If You Could See Me Now
+C:Tadd Dameron
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Ebmaj7" z DEG BdcG |"Ab7" B=A_AB F4 |"Ebmaj7" z DEG"Cm7" BdcG |"Ab7" B=A_AB F3 G | %4
+w: If you could see me now you'd|know how blue I've been.|One look is all you'd need to|see the mood I'm in. Per-|
+w: If you could see me now you'd|find me be- ing brave,|and try- in aw- f'lly hard to|make my tears be- have. But|
+"Gm7" B2"Cm7" GB"F#m7" =B=E"B7" ^D2 |"Fm7" c2 AF"Bb7" d3 B |1"G+7""C7" G8- |"Fm7" G4"Bb7" z4 :|2 %8
+w: haps then you'd re- al- ize|I'm still in love with|you.|_|
+w: that's quite im- pos- si- ble.|I'm still in love with|||
+"Am7b5""Abm6" e8- | e4"Cm7" z2"Bbm7" e2 ||"Am7" d2 dd"D7" d2 ec | %11
+w: you.|_ You'll|hap- pen my way on some|
+w: |||
+"Bm7" (3=B2 B2"B+7" B2"E7" (3B2 c2 d2 |"Am7" =A2 AA"D7b9" A2 =Bc |"Bm7" d6"E7" =E2 | %14
+w: mem- 'ra- ble day and the|month will be May for a|while. I'll|
+w: |||
+"Am7" =B=AGA"Cm7" _Bc"F7"d_e |"Dm7" f4"D7""Gm7" z dcB |"Cm7" e4"F7sus4" z c"F7b9"B=A | %17
+w: try to smile but can I play the|part with- out my|heart be- hind the|
+w: |||
+"Fm7""Bb7" B8 ||"Ebmaj7" z DEG BdcG |"Ab7" B=A_AB F4 |"Ebmaj7" z DEG BdcG |"Ab7" B=A_AB F3 G | %22
+w: smile?|The way I feel for you I|nev- er could dis- guise.|The look of love is writ- ten|plain- ly in my eyes. I|
+w: |||||
+"Gm7" B2 GB"F#m7" =B=E"B7" ^D2 |"Fm7" c2 AF"Bb7" d3 B |"Eb" e8- | e4 z4 |] %26
+w: think you'd be mine a- gain|if you could see me|now.|_|
+w: ||||
+

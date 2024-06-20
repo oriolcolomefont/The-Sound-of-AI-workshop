@@ -1,0 +1,18 @@
+X:1
+T:Man Of Constant Sorrow
+T:Man Of Constant Sorrow
+C:traditional American folk tune
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"F" c4- | c2 B A | (F4 | B/) B3/2 G F |"Bb" B/ B3/2- B2- | B2 c e |"C" c4- | c B"Bb" A F |"F" F4- | %9
+w: I|_ am a|man|_ of con- stant|sor- row _|_ I've seen|trou|_ ble all my|days|
+ F4 | c4- | c2 B A | (F4 | B/) B3/2 G F |"Bb" B/ B3/2- B2- | B3/2 c/ c e |"C" c4- | c B"Bb" A F | %18
+w: _|I|_ bid fare-|well|_ to ol' Ken-|tuck- y _|_ The place where|I|_ was born and|
+"F" F4- | F4 |] %20
+w: raised.|_|
+

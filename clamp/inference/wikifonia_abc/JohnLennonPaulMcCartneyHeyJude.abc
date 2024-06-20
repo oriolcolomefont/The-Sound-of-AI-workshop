@@ -1,0 +1,31 @@
+X:1
+T:Hey Jude
+T:Hey Jude
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." c2 |S"F" A4 A2 cd |"C" G4 z2 GA |"Gm" B2 f2"C7" f2 ec |"F" d2 cB A2 c2 | %5
+w: Hey|Jude don't make it|bad take a|sad song and make it|bet- ter * * Re-|
+w: ||||* * * * Re-|
+"Bb" dddd gfed |"F" c4 F2 GA!dacoda! ||"C" dc c2"C7" B2 AE |"F" F2 F4 c2 | A4 A2 cd |"C" G6 GA | %11
+w: mem- ber to let her in- to your|heart then you can|start * to make it *|bet- ter Hey|Jude don't be a-|fraid you were|
+w: mem- ber to let her un- der your|skin then you'll be|||||
+"Gm" B2 f2"C" f2 ec |"F" d2 cB A2 c2 |"Bb" dddg fefd |"F" c4 F2 GA |"C" dc c2"C7" B2 AE | %16
+w: made to go out and|get her * * the|min- ute you let her un- der your|skin then you be-|gin * to make it *|
+w: |||||
+"F" E2 F6 |"F7" F2 f_e dccB |"Bb" d2 f2 d2 f2 |"Gm" B2 f2 d2 cB |"C7" c2 d2 c2 B2 |"F" A2 G2 F4 | %22
+w: bet- ter|and an- y- time you feel the|pain Hey Jude re-|frain don't car- ry the|world up- on your|shoul- ders *|
+w: ||||||
+"F7" F2 fd dccB |"Bb" d2 f2 d2 f2 |"Gm" B2 f2 d2 cB |"C7" c2 d2 c2 B2 |"F" AG F2 F2 cd | %27
+w: for now you know that it's a|fool who plays it|cool by mak- ing his|world a lit- tle|cold- er * da da da|
+w: |||||
+"F7" _ed e2"C7" ef g2 | g4 z2 c2!D.S.! ||O"C" dc c2"C7" B2 A2 |"F" E2 F6 |] %31
+w: da * da da da da|da Hey|gin * to make it|bet- ter.-|
+w: ||||
+

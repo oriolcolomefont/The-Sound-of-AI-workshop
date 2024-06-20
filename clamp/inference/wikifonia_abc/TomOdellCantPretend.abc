@@ -1,0 +1,103 @@
+X:1
+T:Can't Pretend
+T:Can't Pretend
+T:Tom Odell
+C:Tom Odell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C#m" C4"G#/D#" ^B, G,2 C- |"C#m/E" C2 G,G,"F#m" F, E,2 G,- |"C#m/G#" G,4"G#" F,2 E,G,- | %3
+w: |||
+w: Love, I have wounds|* on- ly you can mend,|* You can mend|
+w: |||
+"C#m/E" G,3 (G,"F#m" F,E, C,2) |"C#m" z2 z C"G#/D#" ^B, G,2 C- |"C#m/E" C3 G,"F#m" F,2 E,G,- | %6
+w: |||
+w: * Oh * * *|I guess that's love,|* I can't pre- tend,|
+w: |||
+"C#m/G#" G,3 G,"G#" F,2 E,G,- |"C#m/E" G,3 (G,"F#m" F,E, C,2) |"C#m""G#/D#" z8 |"C#m/E""F#m" z8 | %10
+w: ||||
+w: * I can't pre- tend|* Oh * * *|||
+w: ||||
+"C#m/G#""G#" z8 |"C#m/E""F#m" z8 |"C#m" C3 C"G#/D#" ^B, G,2 C- |"C#m/E" C3 G,/G,/"F#m" F,2 E,G,- | %14
+w: ||||
+w: ||Feel, my skin is rough,|* but it can be cleansed,|
+w: ||||
+"C#m/G#" G,3 G,"G#" F,2 E,G,- |"C#m/E" G,3 (G,"F#m" F,E, C,2) |"C#m" z2 z C"G#/D#" ^B,2 G,C- | %17
+w: |||
+w: * It can be cleansed|* Oh * * *|My arms are tough,|
+w: |||
+"C#m/E" C3 G,/G,/"F#m" F,2 E,G,- |"C#m/G#" G,3 G,"G#" F,2 E,(G,- | G,"C#m/E" C2 G,"F#m" F,E, C,2) | %20
+w: |||
+w: * but they can be bent,|* They can be bent||
+w: |||
+"C#m" z2 z C/C/"G#/D#" D C2 E- |"C#m/E" E2 FG"F#m" (FE)C(F |"C#m/G#""G#" G8- | %23
+w: And I wan- na fight|* but I can't * con- tend||
+w: |||
+w: |||
+"C#m/E" G3 G"F#m" FECB,) |"C#m" z2 z C"G#/D#" ^B, G,2 C- |"C#m/E" C3 G,"F#m" F,2 E,G,- | %26
+w: |||
+w: |I guess that's love,|* I can't pre- tend,|
+w: |||
+"C#m/G#" G,3 G,"G#" F,2 E,G,- |"C#m/E" G,3 (G,"F#m" F,E, C,2) |"C#m/E" (G,2 C2)"F#m" (G,F,E,C,) | %29
+w: |||
+w: * I can't pre- tend|* Oh * * *|Oh * Oh * * *|
+w: |||
+"C#m" ((C4"G#/D#" ^B,4 |"C#m/E" C4"F#m" D4 |"C#m/G#" C4"G#" ^B,4 |"C#m/E""F#m" C8)) | %33
+w: ||||
+w: Whoa *||||
+w: ||||
+"C#m" (C4"G#/D#" ^B,4 |"C#m/E" C4"F#m" D4 |"C#m/G#" C4"G#" ^B,4 |"C#m/E""F#m" C8) | %37
+w: Whoa *||||
+w: ||||
+w: ||||
+"A" z FFG"E/G#" F E2 F- |"B/F#" F F2 G"F#m" (FE)C(C- | C"A"ECB, G,"E/G#"F,E,C- | %40
+w: Oh feel our bod- ies grow|* And our souls * they blend||
+w: |||
+w: |||
+ C"B/F#"ECB,"F#m" G,F, E,2) |"A" z FFG"E/G#" F E2 F- |"B/F#" FFFG"F#m" (FE)C(C- | %43
+w: |Yeah, love I hope you know|* how much my heart * de- pends|
+w: |||
+w: |||
+ C"A"ECB, G,"E/G#"F,E,C- | C"B/F#"ECB,"F#m" G,F, E,2) |"C#m" z2 CC"G#/D#" ^B, G,2 C- | %46
+w: |||
+w: ||But I guess that's love,|
+w: |||
+"C#m/E" C3 G,"F#m" F,2 E,G,- |"C#m/G#" G,3 G,"G#" F,2 E,G,- |"C#m/E" G,3 (G,"F#m" F,E, C,2) | %49
+w: |||
+w: * I can't pre- tend,|* I can't pre- tend|* Oh * * *|
+w: |||
+"C#m" z2 z C"G#/D#" ^B, G,2 C- |"C#m/E" C3 G,"F#m" F,2 E,G,- |"C#m/G#" G,3 G,"G#" F,2 E,G,- | %52
+w: |||
+w: I guess that's love,|* I can't pre- tend,|* I can't pre- tend|
+w: |||
+"C#m/E" G,3 (G,"F#m" F,E, C,2) |"A" z FFG"E/G#" F E2 F- |"B/F#" F F2 G"F#m" (FE)C(C- | %55
+w: |Oh feel our bod- ies grow|* And our souls * they blend|
+w: * Oh * * *|||
+w: |||
+ C"A"ECB, G,"E/G#"F,E,C- | C"B/F#"ECB,"F#m" G,F, E,2) |"A" z FFG"E/G#" F E2 F- | %58
+w: ||Yeah, love I hope you know|
+w: |||
+w: |||
+"B/F#" FFFG"F#m" (FE)CC- | C"A"ECB, G,"E/G#"F,E,C- | C"B/F#"EC F2 C3- |[M:2/4]"B/F#""F#m" C4 | %62
+w: * how much my heart * de- pends||||
+w: ||||
+w: ||||
+[M:4/4]"C#m" z2 z C"G#/D#" ^B, G,2 C- |"C#m/E" C3 G,"F#m" F,2 E,G,- | %64
+w: ||
+w: I guess that's love,|* I can't pre- tend,|
+w: ||
+"C#m/G#" G,3 G,"G#" F,2 E,G,- |"C#m/E" G,3 (G,"F#m" F,E, C,2) |"C#m" z2 z C"G#/D#" ^B, G,2 C- | %67
+w: |||
+w: * I can't pre- tend|* Oh * * *|I guess that's love,|
+w: |||
+"C#m/E" C3 G,"F#m" F,2 E,G,- |"C#m/G#" G,3 G,"G#" F,2 E,G,- |"C#m/E" G,3 (G,"F#m" F,E, C,2) |] %70
+w: |||
+w: * I can't pre- tend,|* I can't pre- tend|* Oh * * *|
+w: |||
+

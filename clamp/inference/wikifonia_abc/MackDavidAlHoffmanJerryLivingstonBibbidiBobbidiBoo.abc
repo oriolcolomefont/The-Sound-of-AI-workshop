@@ -1,0 +1,28 @@
+X:1
+T:Bibbidi - Bobbidi - Boo
+T:Mack David, Al Hoffman
+T:Jerry Livingston
+T:"The Magic Song" from Disney's "Cinderella"
+T:Bibbidi-Bobbidi-Boo
+T:Walt Disney Music Ltd (1948)
+C:Mack David, Al Hoffman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^Brightly" (3c=Bc d>c (3A^GA _B>A | (3FFF (3FED C2 z2 |"C7" (3CDE (3FGA (3BAG c2 | %3
+w: Sa- la- ga- doo- la men- chick- a boo- la|bib- bi- di bob- bi- di boo!|Put 'em to- ge- ther and what have you got?|
+ (3cdc (3BAG"F" F2"C7" z2 |"F" (3c=Bc d>c (3A^GA _B>A | (3FFF (3FED C2 z2 | %6
+w: Bib- bi- di bob- bi- di boo!|Sa- la- ga- doo- la men- chick- a boo- la|Bib- bi- di Bob- bi- di boo!|
+"C7" (3CDE (3FGA (3BAG c2 | (3cdc (3BAG"F" F2 z2 |"Bb" (3BBB G>F B2 z2 |"F" (3AAA G>F A2 A>_A | %10
+w: It- 'll do ma- gic be- lieve it or not,|bib- bi- di bob- bi- di boo.|Sa- la- ga- doo- la means|men- chick- a boo- le- roo, But the|
+"G7" (3GGG"Dm7" G>G"Bbm" G>G"G7"G>F |"C7" (3E^DE"Gm7" (3FEF"C7" G2 z2 |"F" (3c=Bc d>c (3A^GA _B>A | %13
+w: thing- a- ma- bob that does the job is|bib- bi- di bob- bi- di boo.|Sa- la- ga- doo- la men- chick- a boo- la|
+ (3FFF (3FED C2 z2 |"C7" (3CDE (3FGA (3BAG c2 | (3cdc (3BAG (3cdc (3BAG | (3cdc (3BAG"F" F2 z2 |] %17
+w: bib- bi- di bob- bi- di boo!|Put 'em to- ge- ther and what have you got?|Bib- bi- di bob- bi- di, bib- bi- di bob- bi- di,|bib- bi- di- bob- i- di- boo!|
+

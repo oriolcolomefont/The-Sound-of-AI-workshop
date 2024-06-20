@@ -1,0 +1,35 @@
+X:1
+T:Who Threw The Overalls In Mistress Murphy's Chowder
+T:Who Threw The Overalls In Mistress Murphy's Chowder
+C:George L. Geifer
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3 c/d/ |"C" ec"E7/B" dB |"Am" cA"Em/G" BG |"D" ^FA"D7" d/c/B/A/ |"G7" G2 GG |:"C" cd cA | GE EF | %7
+w: ||||* Mis- tress|Mur- phy gave a|part- y just a-|
+w: |||||dragged the pants from|out the soup and|
+ GA GE | G3 z | cc cB |"Am" AB"D7" c^c | dc BA |"G7" G2 z G/-G/ |"C" cd cA | GE EF | GA GE | G3 c | %17
+w: bout a week a-|go|Ev- 'ry- thing was|plen- ti- ful the|Mur- phy's they're not|slow They _|treat- ed us like|gen- tle- men we|tried to act the|same *|
+w: laid them on the|floor|Each man swore up-|on his life he'd|ne'er seen them be-|fore. They were|plas- tered up with|mor- tar and were|worn out at the|knee They|
+ cc cB |"F" AB"Cdim" cd |"C" ec"G7" dB |"C" c2 (cB/)B/ |"F" AB c^c |"G7" d^c"G" d^d | %23
+w: on- ly for what|hap- pened well it|was an aw- ful|shame When _ Mrs|Mur- phy dished the|chow- der out she|
+w: had their man- y|ups and downs as|we could plain- ly|see And _ _|when Mrs Mur- phy|she came to, she|
+"C" ec"Cdim" BA |"C" G2 z G |"F" A^G AB |"C" cB c^c/c/ |"D7" dc BA |"G7" G3 G |"C" cd cA | GE EF | %31
+w: faint- ed on the|spot She|found a pair of|o- ver- alls at the|bot- tom of the|pot. Tim|No- lan he got|rip- ping mad his|
+w: 'gan to cry and|pout She|had them in the|wash that day and for-|got to take them|out Tim|No- lan he ex-|cused him- self for|
+ GA GE | G3 G | cc cB |"F" AB"Cdim" !fermata!cd |"C" ec"G7" dB |"C" c2 z2 ||"C" c c2 A | GE EF | %39
+w: eyes were bulg- ing|out He|jumped up- on the|pi- an- o and|loud- ly he did|shout.|Who threw the|ov- er- alls in|
+w: what he said that|night So|we put mus- ic|to the words and|sung with all our|might.|||
+ GA GF | E G2 z | c c2 B | A2 AG |"D7" ^FA dc |"G7" BG cd |"C" ec"G7" dB |"C" c2 cB |"F" AB cA | %48
+w: Mis- tress Mur- phy's|chow- der?|No- bod- y|spoke so he|shout- ed all the|loud- er It's and|I- rish trick that's|true I can|lick the mick that|
+w: |||||||||
+"C" G3 G | cc cB |"F" AB"C" ce |"D7""G7" d4 |1"C" c4 | z2 z G :|2"C" c4 |] %55
+w: threw the|ov- er- alls in|Mis- tress Mur- phy's|chow-|der.|They|der.|
+w: |||||||
+

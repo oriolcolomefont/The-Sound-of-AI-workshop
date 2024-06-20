@@ -1,0 +1,31 @@
+X:1
+T:The Flat Foot Floogie
+T:Flat Foot Floogie
+T:Slim Gaillard
+C:Slim Gaillard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Ab" e2 d2"Ab7" _cAFE |"Db" A3 F-"Eb7" F3 E |"Ab" e2 d2 _cAFE |"E7" _c3 B-"Eb7" B3 E | %4
+w: Flat Foot Floo- gie with the|floy floy * The|Flat Foot Floo- gie with the|floy floy * The|
+"Ab" e2 d2"Ab7" _cAFE |"Db" A3 F-"Eb7" F2 AA- |"Ab" A2 AA-"Db7" A2 AA- |"Ab" A2 AA-"Eb7" A2 z E | %8
+w: Flat Foot Floo- gie with the|floy floy, * floy doy|* floy doy * floy doy|* floy doy. * The|
+"Ab" e2 d2"Ab7" _cAFE |"Db" A3 F-"Eb7" F3 E |"Ab" e2 d2 _cAFE |"E7" _c3 B-"Eb7" B3 E | %12
+w: Flat Foot Floo- gie with the|floy floy. * The|Flat Foot Floo- gie with the|floy floy. * The|
+"Ab" e2 d2"Ab7" _cAFE |"Db" A3 F-"Eb7" F2 AA- |"Ab" A2 AA-"Db7" A2 AA- |"Ab" A2 AA-"Eb7" A2 z2 | %16
+w: Flat Foot Floo- gie with the|floy floy, * floy doy|* floy doy * floy doy|* floy doy. *|
+"Ab7" B2 A2"Eb7" B d2 B- |"Ab7" B B3- B4 |"Db" B2 A2 B d2 B- |"Db7""C7" B6"B7" z2 | %20
+w: When you're feel- ing low|* down. *|Don't know what to do.||
+"Bb7" c2 B2"Fm7" c e2 =d- |"Bb7" d =d3- d3 B |"Eb7" c e3"Bb7" e e2- e |"E7" e e2 B"Eb7" B3 E | %24
+w: And you want a show|* down * Here's|the dance, the dance, *|the dance for you. The|
+"Ab" e2 d2"Ab7" _cAFE |"Db" A3 F-"Eb7" F3 E |"Ab" e2 d2 _cAFE |"E7" _c3 B-"Eb7" B3 E | %28
+w: Flat Foot Floo- gie with the|floy floy * The|Flat Foot Floo- gie with the|floy floy, * The|
+"Ab" e2 d2"Ab7" _cAFE |"Db" A3 F-"Eb7" F2 AA- |"Ab" A2 AA-"Db7" A2 AA- |"Ab" A2 AA-"Eb7" A2 z E :| %32
+w: Flat Foot Floo- gie with the|floy floy * floy doy|* floy doy * floy doy.|* floy doy * The|
+

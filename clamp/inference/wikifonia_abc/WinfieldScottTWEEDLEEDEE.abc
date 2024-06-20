@@ -1,0 +1,40 @@
+X:1
+T:TWEEDLEE DEE
+T:TWEEDLEE DEE
+T:Winfield Scott
+T:Winfield Scott
+C:Winfield Scott
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^Solid rock beat" c"F+" ^c"F6" d z/"F" =c/- | c/c/"F+" ^c"F6" d z | %2
+w: ||
+"F" C"F+" ^C"F6" D z/"F" =C/- | C/C/"F+" ^C"F6" D z ||"F" c3 d |"Bb9" c _A F D/F/- | %6
+w: ||TWEED- LEE,|TWEED LEE, TWEED- LEE DEE,|
+"F" F"F+" ^C"F6" D z/"F" =C/- | C/C/"F+" ^C"F6" D z |"F" c2- c d |"F#dim" _e d c A/c/- | %10
+w: ||I'm * as|hap- py as can be|
+"Gm" c"Eb6" ^D"C7" E z/"Gm" =D/- | D/D/"Eb6" ^D"C7" E z |"F" c/c/ d"C+" c d |"F7" _e/c/ d c3/2 A/ | %14
+w: ||Jim- i- ny Crick- ets,|Jim- i- ny Jack, You|
+"Bb7" _A G F G | A/F/ G F z |"F" c3 d |"Bb9" c _A F D/F/- |"F" F"F+" ^C"F6" D z/"F" =C/- | %19
+w: make my heart go|click- i- ty clack,|tweed- lee,|tweed lee, tweed- lee dee||
+ C/C/"F+" ^C"F6" D z |"Bb" d3 d | d2 d/c/d/c/- |"F" c4- | c3 z |"Bb" d/d/ d d/d/ d | d d c B/A/- | %26
+w: |tweed- lee|dee, tweed- le dee dee,|||Give it up, give it up,|give your love to me.|
+"F" A4- | A3 z |"Bb" d3 d | d2 d/c/d/c/- |"F" c4- | c3 z |"C7" c/c/c/c/ c/c/c/c/ | %33
+w: ||Tweed- lee|dot, tweed- le dee dot|||Gim- me, gim- me, gim- me, gim- me,|
+"D7" _e/e/d/c/"G7" e d/c/- |"C7" c3 z | c/c/ B _A G |"F" c3 d |"Bb9" c _A F D/"F"F/- | %38
+w: give me all the love you got.||Hum- ty, um bum bum.|Tweed- lee,|tweed- lee, tweed- lee do|
+ F"F+" ^C"F6" D z/"F" =C/- | C/C/"F+" ^C"F6" D z |"F" c3 d |"F#dim" _e d c A/c/- | %42
+w: ||I'm a|luck- y so and so;|
+"Gm" c"Eb6" ^D"C7" E z/"Gm" =D/- | D/D/"Eb6" ^D"C7" E z |"F" c d"C+" c d |"F7" _e/ d c/- c2 | %46
+w: ||Hub- ba, hub- ba,|hon- ey, do, *|
+"Bb7" _A G/G/ F G | _A/F/ G F2 |"F" f3 d |"Bb9" c _A F D/F/- |"F" F"F+" ^C"F6" D"F" z/ =C/- | %51
+w: I'm gon- na keep my|ey- es on you,|Tweed- lee,|tweed- lee, tweed- lee do.||
+ C/C/"F+" ^C"F6" D"F" f |] %52
+w: |
+

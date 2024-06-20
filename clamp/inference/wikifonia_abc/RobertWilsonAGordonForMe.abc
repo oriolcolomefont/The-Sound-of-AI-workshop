@@ -1,0 +1,33 @@
+X:1
+T:A Gordon For Me
+T:A Gordon For Me
+T:Robert Wilson
+C:Robert Wilson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"^Verse" G |"C" G E G | c B c |"Dm" d A A | A2 A |"G7" B B B | B A B/B/ |"C" d c"Cdim" A | %8
+w: 1....I'm|Geog- gie Mac-|Kay of the|H.- * I.-|L. I'm|fond of the|lass- ies and a|drap- pie for-|
+w: 2....I|court- ed that|girl on the|banks of the|Dee, I|made up my|mind she was fash-|ion- ed for|
+"C" G2 G | G E G | c B c |"Dm" d A A | A2 A |"G7" B B B | B A B |"C" d c c | c2 G | G E G | %18
+w: bye. One|day when out|walk- ing I|chanced * to|see, A|bon- nie wee|lass wi' a|glint in her|ee'. Says|I to the|
+w: me, Soon|I was a'|think- ing how|nice it would|be, If|she would con-|sent to get|marr- ried to|me. The|day we were|
+ c c c/c/ |"Dm" d A A | A2 A |"G7" B B B | B A B/B/ |"C" d c"Cdim" A |"C" G2 G/-G/ | G E G | %26
+w: las- sie will you|walk for a|while? I'll|buy ye a|bon- net and we'll|do it in|style. My *|kilt is Mac-|
+w: wed, * the *|grass was so|green, The|sun was as|bright as the *|light in her|'een. Now we've|two bon- nie|
+ c B c/c/ |"Dm" d A A | A2 A |"G7" B B B | B A B |"C" d c c | c2"G7" G ||"C""^Refrain" G E G | %34
+w: ken- sie o' the|H.- * I.-|I; She|look'd at me|shy- ly and|said wi' a|sigh. A|Gor- don for|
+w: las- sies who *|sit on her|knee, While|she sings the|song that she|once sang to|me. *||
+ c2 B |"Dm7" B A A |"Dm" A2 F |"G7" F D F | B B A |"C" A G G | G2 G | G E G | c2 c |"Dm" d A A | %44
+w: me, a|Gor- don for|me, If|ye're no a|Gor- don ye're|no use to|me. The|Black Watch are|braw the|Sea- forths and|
+w: ||||||||||
+ d2 c/c/ |"G7" B B B | B A B |1"C" d c"F7" d ||"C" c2"G7" G :|2"C" d c"F7" c ||"C" c3 |] %51
+w: a', but the|cock- y wee|Gor- don's the|pride o' them|a'. A|pride o' them|a'.|
+w: |||||||
+

@@ -1,0 +1,32 @@
+X:1
+T:La plus valse d'amour
+T:La plus valse d'amour
+T:Jacques Hélian et son Orchestre
+T:Musette
+T:2
+C:Jacques Hélian et son Orchestre
+Z:All Rights Reserved
+L:1/8
+Q:1/4=165
+M:3/4
+K:Dmin
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" C2 D2 E2 |"F" F2 G2 F2 |"C7" E4 c2 |"C7" c4 E2 |"Gm" D4 B2 |"C7" B4 D2 |"F" C4 A2 |"F" A6 | %8
+"F" C2 D2 E2 |"F" F2 G2 F2 |"C" E4 c2 |"C" c4 A2 |"G7" G4 D2 |"G7" E4 F2 |"C" G6- |"C" G2 G2 A2 | %16
+"Gm" B2 c2 B2 |"Bbm" A2 G2 B2 |"F" A6 |"Dm" F2 G2 A2 |"G7" G2 A2 G2 |"G7" F2 E2 G2 |"F" z2 FF F2 | %23
+"C" z2 E2 E2 |"F" z2 FF F2 |"C" z2 E2 E2 |"F" c4 c2- |"F" c2 d4 |"C7" e4 e2- |"C7" e2 f4 | %30
+"C7" d4 d2- |"C7" d2 e4 |"F" c6- |"F" c2 A2 B2 |"F" cA AA AA |"F" cA AA AA |"C7" Bc cc cc | %37
+"C7" Bc cc cc |"C7" Bc cc cc |"C7" Bc cc cc |"F" A6- |"F" A2 z2 z2 |"F" c4 c2- |"F" c2 d4 | %44
+"C7" e4 e2- |"C7" e2 f4 |"C7" d4 d2- |"C7" d2 e4 |"F" c6- |"F" c2 A2 B2 |"F" cA AA AA | %51
+"F" cA AA AA |"C7" Bc cc cc |"C7" Bc cc cc |"C7" Bc cc cc |"C7" ed cB AG |"F" F6- |"F" F2 F2 ^F2 | %58
+"F7" G4 G2 |"F7" F4 F2 |"F7" G4 G2 |"F7" F4 F2 |"Bb" G4 d2- |"Bb" d2 A4 |"Bb" G6- |"Bb" G2 G2 ^G2 | %66
+"G7" A4 A2 |"G7" G4 G2 |"G7" A4 A2 |"G7" G4 G2 |"C7" cd dd dd |"C7" Bc cc cc |"C7" AB BB BB | %73
+"C" G2 z2 z2 |"F" c4 c2- |"F" c2 d4 |"C7" e4 e2- |"C7" e2 f4 |"C7" d4 d2- |"C7" d2 e4 |"F" c6- | %81
+"F" c2 A2 B2 |"F" cA AA AA |"F" cA AA AA |"C7" Bc cc cc |"C7" Bc cc cc |"C7" Bc cc cc | %87
+"C7" ed cB AG |"F" F2 z2"C" c2 |"F" f2 z2 z2 |] %90
+

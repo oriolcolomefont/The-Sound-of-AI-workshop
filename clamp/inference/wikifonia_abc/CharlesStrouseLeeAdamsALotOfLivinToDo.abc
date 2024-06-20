@@ -1,0 +1,35 @@
+X:1
+T:A Lot Of Livin' To Do
+T:A Lot Of Livin' To Do
+T:From "Bye Bye Birdie"
+T:Charles Strouse
+T:Lee Adams
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G A |"Cmaj7" B z z2 | z c/B/- B/G/ E |"C6" D3/2 E/- E2 | z2 C D |"Cmaj7" E4 | %6
+w: There are|girls(guys)|just ripe * for some|kiss- in' *|And I|mean|
+"C7" z G/c/- c/A/ G |"F6" D4 | z2 F G |"Fmaj7" A4 | z B/d/-"G7" d/c/ B |"C" d3/2 G/- G2 | z2 z c | %13
+w: to kiss * me a|few!|Oh, those|girls|don't know * what they're|miss- in, *|I've|
+"Dm7" c F F c |"G7" B/ G3/2- G A |"C" E4 | z2 G A |"Cmaj7" B4 | z c/B/- B/G/ E |"C6" D3/2 E/- E2 | %20
+w: got A Lot Of|Liv- in' * To|Do!|And there's|wine|all read- * y for|tast- in' *|
+ z2 C D |"Cmaj7" E/E/ E z2 |"C7" z G (3c A G |"F6" D4 | z2 F G |"Fmaj7" A4 | z B/d/-"G7" d/c/ B | %27
+w: And there's|Cad- il- lacs|all shin- y and|new!|Got- ta|move,|'cause time * is a-|
+"C" d3/2 G/- G2 | z2 z c |"Dm7" c F F c |"G7" B/ G3/2- G d |"C" c4 |"C7" z2 z c | %33
+w: wast- in' *|There's|such A Lot Of|Liv- in * To|Do!|There's|
+"F6" c/A/A/A/- A2 |"Fm7" _e/c/c/c/- c2 |"Eb" (3_B G G G2- | G3 z |"Bb" _B3/2 F/ F2- | F D F _B | %39
+w: mu- sic to play *|plac- es to go! *|Peo- ple to see!||Ev- 'ry thing|* for you and|
+"G" B4- |"G7" B z G A |"Cmaj7" B2 z2 | z c/B/- B/G/ E |"C6" D3/2 E/- E z | z2 C D |"Cmaj7" E4 | %46
+w: me!|* Life's a|ball,|if on- * ly you|know it! *|And it's|all|
+"C7" z G (3c A G |"F6" D4 | z2 F G |"Fmaj7" A4 |"G7" z B (3d c B |"C" d3/2 G/- G2 | z2 z/ c3/2 | %53
+w: just wait- in' for|you!|You're a-|live|so come on and|show it! *|There's|
+"Dm7" c F F c |"G7" B/ G3/2- G d |"C" c4- | c2 z2 |] %57
+w: such A Lot Of|Liv- in' * To|Do!-||
+

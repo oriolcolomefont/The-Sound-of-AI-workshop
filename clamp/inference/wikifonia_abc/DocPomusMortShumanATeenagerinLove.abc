@@ -1,0 +1,34 @@
+X:1
+T:A Teenager in Love
+T:A Teenager in Love
+T:Doc Pomus & Mort Shuman
+C:Doc Pomus & Mort Shuman
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 66
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"C" z G G G |"Am" A A A A |"F" z c c c |"G7" B A G2 |"C" z G G G |"Am" A A A2 |"F" z c c- c | %7
+w: Each time we|have a quar- rel|it al- most|breaks my heart,|'Cause I am|so a- fraid|that we will|
+w: One day I|feel so hap- py;|next day I|feel so sad.|I guess I'll|learn to take|the good _|
+"G7" B A G2 | z"C" c c A |"Am" c3 A |"F" c2 c A |"G7" B4 |"C""^(tacet)" z c c B | A2 A G | F2 F F | %15
+w: have to part.|Each night I|ask the|stars up a-|bove:|Why must I|be a teen-|ag- er in|
+w: with the bad.||||||||
+"G7" G4 ::"F" z A A A |"G7" B4 |"F" A A A/A/ A |"G7" B4 |"F" z A A A |"G7" B B B B |"F" A A A A | %23
+w: love?|I cried a|tear|for no- bod- y but|you.|I'll be a|lone- ly one if|you should say we're|
+w: ||||||||
+"G7" B4 |"C" G G G G |"Am" A A A2 |"F" c c c c |"G7" B A G2 |"C" G G G G |"Am" A A A2 | %30
+w: through.|If you want to|make me cry,|that won't be so|hard to do.|And if you should|say good- bye,|
+w: |||||||
+"F" c c c c |"G7" B A G2 |"C" z c c A |"Am" c3 A |"F" c2 c A |"G7" B4 |"C""^(tacet)" z c c B | %37
+w: I'll still go on|lov- ing you.|Each night I|ask the|stars up a-|bove|Why must I|
+w: |||||||
+ A2 A G | F2 F F |"G7" G3 E |1"C" (D"F7" C3) |"G7" z4 :|2"C" (D"F7" C3-) ||"C" C3 z |] %44
+w: be a teen-|ag- er in|love, in|love? _||in love?|_|
+w: |||||||
+

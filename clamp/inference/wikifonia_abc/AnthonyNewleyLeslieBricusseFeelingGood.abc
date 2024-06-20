@@ -1,0 +1,42 @@
+X:1
+T:Feeling Good
+T:Feeling Good
+C:Anthony Newley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Dm" D2"Dm7" FG"G" A4 |"Dm" AD"Dm7"FG"G" A4 |"Dm" DD"Dm7"FG"G" A4 |"F" cAAG"A" A4 | %4
+w: Birds fly- ing high,|you now how I feel.|Sun _ in the sky,|you know how I feel.|
+w: Fish in the sea,|you now how I feel.|Riv- er run- ning free,|you know how I feel.|
+"Dm" AAdc"Bbmaj7""Bb6" d4 |"F" ADFG"G" A3 D/D/ |"Dm" F2 GF/F/"Bb" G2 AG/G/ | %7
+w: Breeze _ drift- ing by,|you know how I feel. It's a|new dawn, it's a new day, it's a|
+w: Blos- soms on the tree,|you know how I feel. * *||
+"Fmaj7" A2 c2-"Bbmaj7" c z (3(AGD) |"G7" (F2 G2-"Gm7" G) z DC |1"Dm""G9" D8- ||"Dm" D4"G9" z4 :|2 %11
+w: new life _ for _ _|me. _ _ Feel- ing|good.||
+w: ||||
+"Dm""G9" D8- ||"Dm" D4"G9" z4 ||"Dm" DE"F+"FG"F" Ac"Fmaj7" c2 |"Bbmaj7" dAAG"Fmaj7""F7" A4 | %15
+w: good.||Drag- on- fly out in the sun,|hyou know what I mean.|
+w: ||||
+"Dm" DE"F+"FG"Am" Ac c2 |"Fmaj7" cA"F6"Ac"Bbmaj7""Bb6" d4 |"F6" dccA"Dm" AF F2 | %18
+w: But- ter- flies all hav- ing fun,|you know what I mean.|Sleep in peace when day is done,|
+w: |||
+"Bbmaj7" AFF"G9"F- F2 z C/C/ |"F" C2 DC/C/"Dm" D2 FD/D/ |"Bb" F2 G2-"Gm7" G z (DC) |"Dm""G9" D8- | %22
+w: that's what I mean. _ An this|old world is a new world and a|bold world _ for _|me.|
+w: ||||
+"Dm" D4"G9" z4 ||"Dm" D2"Dm7" FG"G" A4 |"Dm" AD"Dm7"FG"G" A4 |"Dm" D2"Dm7" FG"G" A4 | %26
+w: _|Stars when you shine,|you know how I feel.|Scent of the pine,|
+w: ||||
+"F" cAAG"A" A4 |"Dm" A2 de"Bbmaj7""Bb" d4 |"F" ADFG"G" A3 D/D/ |"Dm" F2 GF/F/"Bb" G2 AG/G/ | %30
+w: you know how I feel.|Free- dom is mine,|I know how I feel. It's a|new dawn, it;'s a new day, it's a|
+w: ||||
+"Fmaj7" A2 c2-"Bbmaj7" c z (3(AGD) |"G7" F2 G2-"Gm7" G z dc |"Dm""G9" d8- |"Dm""G9" d8- | %34
+w: new life _ for _ _|me. _ _ Feel- ing|good.|_|
+w: ||||
+"Dm""G9" d8- |"Dm6" !fermata!d8 |] %36
+w: ||
+w: ||
+

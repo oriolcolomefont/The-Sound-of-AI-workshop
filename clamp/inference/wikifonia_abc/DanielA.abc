@@ -1,0 +1,26 @@
+X:1
+T:El Condor Pasa
+T:El Condor Pasa
+T:(I'd rather be a sparrow)
+T:Daniel A. Robles
+T:Edward B. Marks Music Corp. and Jorge Milchberg, 1933
+C:Daniel A. Robles
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Andante" A2 |: Pd2^c2 d2e2 Pf2e2 f2g2 | a12{d'} c'2{d'}c'2 | a12{c'} d'2Pc'2 | a12 Pg2f2 | %5
+{gf} d12{e} f4 |1 Pd12 z2 A2 :|2 d12 z2 Pa2 || (d'4 d'2)P^c'2 d'2>c'2 d'2>c'2 | d'12{e'} f'2d'2 | %10
+ Pc'12{c'} d'2Pc'2 | a12 z2 Pa2 | (d'4 d'2)P^c'2 (d'2>c'2) (d'2>c'2) | d'12{e'} f'2d'2 | %14
+ Pc'12{c'} d'2Pc'2 | a12{f} g2Pf2 | d12{e} f4 | d12{g} a2gf!dacoda! || d12 z2 A2!D.C.! || %19
+O{gf} d12{e} f4 | d12{g} a2gf |{gf} d12{e} f4 | !fermata!Pd12 z4 ||"^Allegro" z16 | z16 |: %25
+ ad'ad' a2g2 fd2(d d4) | defg a2c'2 Pa8 | ad'ad' a2g2 fd2(=c d4) | defg agfe d8 :: %29
+ ac'ac' g2gc' Pa8 | ac'ac' g2<c'2 a4 Pa4 | ad'ad' a2g2 fd2c d4 | defg agfe d8 | f2cf ac'ag Pf8 | %34
+ f2cf ac'ag Pf8 | d'd'2c' d'f'2d' Pc'2a(Pc' c'4) | f2df agfe Pd8 | d2-de fefg ad'ad' agfe | %38
+ defg agfe d8 :| !fermata!d'4 (c'd')c'ac'a gagfgf Pd2c2 !fermata!Pd4 |] %40
+

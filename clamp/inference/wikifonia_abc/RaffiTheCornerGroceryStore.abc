@@ -1,0 +1,27 @@
+X:1
+T:The Corner Grocery Store
+T:The Corner Grocery Store
+C:Raffi
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Flute" snm="Flu"
+%%MIDI program 73
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+"F" F/G/ || A z A z | A/G/ F/D/ C E/ F/ |"C" G2 z F/G/ |"F" A2 z F/G/ | A z A z | %6
+w: There was|cheese, cheese,|walk- in' on its knees, In the|store, in the|store. There was|cheese, cheese,|
+w: There wer|plums, plums,|twid- d– ling their humbs, In the|store, in the|store. There were|plums, plums,|
+"F" A/G/ F/D/ C E/F/ |"C7" G B A/A/ G |1,2,4"F" F2 z C ||3"F" F2 z F/"^D.S. to Verse 4"G/ :|"" %10
+w: Walk- in' on its knees, In the|Cor- ner Gro- cer y|Store. My|store. There were|
+w: twid- dl- ing their thumbs, In the|Cor- ner Gro- cer- y|Store. *||
+"F" F3 z :|"F""^Chorus" F A/-G/ F E |"Bb" D D D D |"G" G =B/-A/ G F |"C" E G c C |"F" F z A- F | %16
+w: store|eyes are * dim, I|Can- not see I|have not * brought my|specs with me, I|have not *|
+w: ||||||
+"Bb" D z"Gm" B- G |"C7" c z C z |"F" F2 z F/G/ || %19
+w: bought my- *|specs with|me. 2.~4.~5.~There were|
+w: |||
+

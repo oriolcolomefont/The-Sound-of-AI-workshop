@@ -1,0 +1,26 @@
+X:1
+T:Only five minutes more
+T:Five Minutes More
+T:Music:  Julie Styne
+T:Lyric by Sammy Cahn
+C:Jule  Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z C z/ E/ z/ z/ |"C" G2 C E | G2"E7" c B |"F" A2"A" F E |"Dm" D2"D7" d/ c B/- | %5
+w: * me|five min- utes|more, On- ly|five min- utes|more, let me stay,|
+ B/ z/"Dm" c/ z/ A/ z/ G/4"G7" z/4 z/ | A/ z/ F"C" E/ z/ z | C z E z | G2 C E | G2"E7" c B | %10
+w: * let me stay,|in your arms|Here am|I beg- ging|for on- ly|
+"F" A2"A7" F E |"Dm" D2 z/4"D7" d c/4"G7"B/ |"Dm" c/ z/ A G"G7" z | A/ z/ B c2- |"C" c4 | %15
+w: five min- utes|more, on- ly five|min- utes more,|of your *||
+"F" e c d c |"Fm" e c d c |"C" e c A"C" G- |"G7" G z"C7" z2 |"F" A c c A |"C" G A"E7" B"Am" c | %21
+w: All week long I|dreamed a- bout our|Sat- ur- day date,||Don't you know that|Sun- day morn- ing|
+"D7" d c A"G7" G- | G z C E | z"C" G2 C/E/ | G2"E7" c B |"F" A2"A" F/"A7" z/ E/ z/ | %26
+w: you can sleep late?|* Give me|five min- utes|more, on- ly|five min- utes|
+"Dm" D2"D7" d/ c B/ |"Dm7" c/ A G2-"G7" z/ | G-"G" A/"G7" B"C" c/- z/ z/ | c2 z2 | z4 |] %31
+w: more, Let me stay,|let me stay|* In your arms.|||
+

@@ -1,0 +1,24 @@
+X:1
+T:You Can Depend On Me
+T:You Can Depend On Me
+C:Charles Carpenter, Earl Hines, Louis Dunlap
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|: z2 z D |"Gm7" B2"F#dim7" A c |"Gm7" A3"C7" E |"Fmaj7" G2 F c |"Am7" G3"Abdim7" D |"G7" F2 E F | %6
+w: Though|you say we're|through, I'll|al- ways love|you and|you can de-|
+"C7" E2 C2 |"Fmaj7" D4- |"Am7" D2"D7" z D |"Gm7" B2"F#dim7" A c |"Gm7" A3"C7" E |"Am7" G2 F c | %12
+w: pemd on|me.|* Though|some- one you've|met has|made you for-|
+"Am7" G3"Abdim7" D |"Gm7" F2 E F |"C7" E2 C2 |"Fmaj7""Bb7" F4 |"Fmaj7" F2 z F |"Cm7" c2 B A | %18
+w: get, you|know you can|count on|me.|* I|wish you suc-|
+"F7" c4 |"Bbmaj7" B B A G | B3 D |"G7" A2 G F | E2 D F |"Gm7" A4 |"C7" G3 D |"Gm7" B2"F#dim7" A c | %26
+w: cess,|loads of hap- pi-|ness, but|I must con-|fess, I'll be|lone-|ly. If|you need a|
+"Gm7" A3 E |"Fmaj7" G2 F c |"Am7" G3"Abdim7" D |"Gm7" F2 E F |"C7" E2 C2 |1"Fmaj7" F4- || %32
+w: friend, I'm|yours to the|end, and|you can de-|pend on|me.|
+"Am7" F2"D7" z D :|2"Fmaj7" F4- || F2 z2 |] %35
+w: * Though|me.||
+

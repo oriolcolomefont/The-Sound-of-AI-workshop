@@ -1,0 +1,26 @@
+X:1
+T:I Know That You Know
+T:I Know That You Know
+T:Vincent Youmans
+T:Anne Caldwell
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"B7" B,"C7" C"C#7" ^C |"D7" E3 E- | E3 D |"G7" E3 E- | E3 D |"Am7" A3"B7" A- | A3"G" G | %7
+w: So dar- ling,|I know|* that|you know|* That|I'll go-|* where|
+"Am7" A3"F+" A- | A3"Am7" G |"D7" E3 E- | E3 D |"G7" E3 E- | E3 D |"C" C D E F | G A"Fm" B c | %15
+w: you go.|* I|choose you,|* won't|lose you|* I|wish you'd know how|much I long to|
+"C" e2"G7" B"G" d- | d"Am" A"Cm6" c2 |"D7" E3 E- | E3 D |"G7" E3 E- | E3 D |"Am7" A3"B7" A- | %22
+w: hold you in|* my arms.|This time|* is|my time,|* "Twill|soon be|
+"Gm6" A3 G |"A7" e3"D7" e- | e d"Cdim" c"B" B |"Am7" A3"F+" A- | A3"A7" G |"D7" E3 E- | %28
+w: * good-|bye time|* Then, in the|star- light,|* Hold|me tight,|
+"Fm""G7" E3 D |"C" C D E"F" F |"G7" G"F" A"G7" B d |"C""C+""Fm" c4- |"C" c z z2 |] %33
+w: * With|one more lit- tle|kiss, Say "Night- y|Night."-||
+

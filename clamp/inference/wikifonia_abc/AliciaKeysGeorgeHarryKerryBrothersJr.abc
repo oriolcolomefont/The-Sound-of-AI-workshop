@@ -1,0 +1,50 @@
+X:1
+T:No One
+C:Alicia Keys, George Harry, Kerry Brothers Jr.
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E" z8 |"B6" z8 |"C#m7" z8 |"A" z8 ||"E" z4 (3:2:4G2 G2 FE |"B6" (G G3) z4 | %6
+w: ||||I just want you|close *|
+"C#m7" z4 z2 z/ E/F/G/ |"A" A2- A>G (G/F/)(F- FE/C/ |"E" B,4) z G- G/G/(F/E/-) | %9
+w: * you can|stay * for\- ev\- * er. * * *|* You * can be *|
+"B6" E(G- G/A/G F2 E/F/G- |"C#m7" G2) z2 z2 z/ E/F/G/ |"A" A>A G2 G<(F- F/E/C/B,/) | %12
+w: * sure * * * * * * *|* that it will|on\- ly get bet\- er. * * * *|
+S"E" z2 z3/2 B/- B/A/G/A/ B(B |"B6" G2) z G/A/ Bc(BG-) |"C#m7" G2 z E/F/ GB(BG) | %15
+w: You * and me to\- geth\- er|* through the days and nights. *|* I don't wor\- ry 'cause *|
+"A" A/A/A A/G/A (G>F) (FE) |"E" z2 z3/2 B/- B/A/(G/A/) B(B |"B6" G2) B/G/(B/G/) Bc(BG) | %18
+w: ev\- 'ry\- thing's gon\- na\- be al\- * right. *|Peo\- * ple keep * talk\- in',|* they can say * what they like. *|
+"C#m7" z2 z (E/F/) GB (B/G/)G |"A" A/A/A A/G/A (G>F) (FE- |"E" E>)E (G>F) F2 (B>G) | %21
+w: But * all I know * is|ev\- ry\- thing's gon\- na be al\- * right. *|* And no * one no *|
+"B6" G2 (c>B) (BGFG |"C#m7" F3/2G/4F/4 E2- E>)B, E/F/G/A/- |O"A" AAGA (G>F) (FE-) | %24
+w: one, no * one * * *|* * * * * can get in the way|* of what I'm feel\- * in'. *|
+"E" E2 (G>F) F2 (B>G) |"B6" G2 (c>B) (BGFG |"C#m7" F3/2G/4F/4 E2- E>)B, E/F/G/A/- | %27
+w: * No * one, no *|one, no * one * * *|* * * * * can get in the way|
+"A" AAGA (G>F) F(G |"E" F3/2G/4F/4 E4) (G>F- |"B" F6) (B>G-) |"C#m" (G/F/E- E2- E>)B, E/F/G/A/- | %31
+w: * of what I feel * for you,|* * * * you, *|* you, *|* * * * * * get in the way|
+"A" AAGA (G>F) F(G/F/) |"E" E3 E/F/ GB/B/- B<c |"B6" (B>A G>F E>F GA/G/-) |"C#m7" G4 z2 z F/G/ | %35
+w: * of what I feel * for you *|* When the rain is pour\- * in'|down * * * * * * * *|* and my|
+"A" A3 A G2 (FG) |"E" z2 (3z EF GG- (3GFE |"B6" (G>A G2 F2 E/F/G- |"C#m7" GF/E/ C2) z2 (3z FG | %39
+w: heart is hurt\- in', *|you will al\- ways * be a\-|round. * * * * * *|* * * * This I|
+"A" A2 z B G2 (FSG) ||O"A" AAGA (GF) z3/2 A/ |"F#m" (G2 F4) (3EFG |"E/G#" G>E B,4 z3/2 A/ | %43
+w: know for cer\- tain. *|* of what I feel. * I|know * some peo\- ple|search the world to|
+"A" (G2 F4) (3EFG |"C#m7" GE B4- B>A |"F#m" (G2 F4) (3EFG |"E/G#" G2 (3EFG G2 (3EFA | %47
+w: find * some\- thin'\- like|what we have. * I|know * peo\- ple will|try, try to di\- vide some\- thin' so|
+"A" (G2 F4) (3EFG |"B6" GEBG (3(cBE (3EFG) |"E" (GF/G/ E4) (G>F) |"B6" F2 (c>B) (BGFG) | %51
+w: real. * So, 'til the|end of time, I'm tell\- ing you there ain't no|one, * * * no *|one, no * one * * *|
+"C#m7" (F3/2G/4F/4 E2- E>)B, E/F/G/A/- |"A" AAGA (G>F) (FE-) |"E" E2 (G>F) F2 (B>G) | %54
+w: * * * * * can get in the way|* of what I feel- * in' *|* No * one, no *|
+"B6" G2 (c>B) (BGFG) |"C#m7" (F3/2G/4F/4 E2- E>)B, E/F/G/A/- |"A" AAGA (G>F) F(G | %57
+w: one, no * one * * *|* * * * * can get in the way|* of what I feel * for you.|
+"E" F3/2)G/4F/4 E2- EE/F/ GB |"B" F4 z E/F/ GE |"C#m" C4 z C/D/ EG |"A" ABAB ABAB | %61
+w: * * * * * Oh, oh, oh, oh,|oh, oh, oh, oh, oh,|oh, oh, oh, oh, oh,|oh, oh, oh, oh, oh, oh, oh, oh,|
+"E" (A<G- G2) z E/F/ GB |"B" F4 z E/F/ GE |"C#m" C4 z C/D/ EG |"A" ABAB ABAB |"E" (A<G- G2) z4 | %66
+w: oh. * * Oh, oh, oh, oh,|oh, oh, oh, oh, oh,|oh, oh, oh, oh, oh,|oh, oh, oh, oh, oh, oh, oh, oh,|oh. * *|
+"B" z8 |"C#m" z8 |"A" z8 |:"E" z8 |"B" z8 |"C#m" z8 |"A" z8 :|"E" z8 |] %74
+w: ||||||||
+

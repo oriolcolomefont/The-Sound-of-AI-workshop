@@ -1,0 +1,24 @@
+X:1
+T:I Can't Give You Anything But Love
+C:Jimmy McHugh
+Z:Public Domain
+L:1/4
+Q:1/4=1
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G""_Dreamily" G F E G |"G/B" F E"Bbdim7" G E |"Am7" A4 |"D7" A/^A/ B3 |"G" G F E G | %5
+w: I can't give you|an- y- thing but|love|Ba- * by;|that's the on- ly|
+ F E"Em7" G B |"Am7" d4 |"D7" B/_B/ A3 |"G7" G/^G/ A3 | A/^A/ B3 |"Cmaj7" d c B A- | %11
+w: thing I've plen- ty|of|Ba- * by,|dream a- while,|scheme a- while|we're sure to find|
+ A-"C7""B7""Bb7" A3 |"A7" A/^A/ B3 | B/c/ ^c3 |"D7" e d c B | d c E F |"G" G F E G | %17
+w: _ _|hap- pi- ness|and, I guess,|all those things you've|al- ways pined for.|Gee, I'd like to|
+"G/B" F E"Bbdim7" G E |"Am7" A4 |"D7" A/^A/ B3 |"Dm7" d c B d |"G7" c B d c |"Cmaj7" B4 | A G3 | %24
+w: see you look- ing|swell,|Ba- * by;|Dia- mond brace- lets,|Wool- worth does- n't|sell,|Ba- by.|
+ E F G F |"C#dim7" A G F G |"Gmaj9/D" d4 |"E7" F E3 |"Am7" ^D E =d c |"A7" e e"D7" B B | %30
+w: 'Till that luck- y|day, you know damned|well,|Ba- by|I can't give you|an- y- thing but|
+"G""G7/B""C""Cm" G4- |"G/D""D7""G6" G3 z |] %32
+w: love|_|
+

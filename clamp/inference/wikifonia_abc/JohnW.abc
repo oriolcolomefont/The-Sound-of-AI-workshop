@@ -1,0 +1,31 @@
+X:1
+T:Heaven Came Down
+T:Heaven Came Down
+T:John W. Peterson, 1961 Arrangement: Larry Johnson, 2012
+C:John W. Peterson 1961
+Z:All Rights Reserved
+L:1/4
+Q:1/4=100
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z3 |:"F" A3/2 A/ A | A G F | A3/2 A/ A | F3 | A A A | A G F |"C7" E3- | %13
+w: ||||||Oh what a|won der ful|won der ful|day|Day I will|nev er for|get|
+ E3 | B3/2 B/ B | B A G | B3/2 B/ B | G3 | c c c | c c B |"F" A3- | A3 | A3/2 A/ A | A G F | %24
+w: _|Af ter I|wan dered in|dark ness a|way|Je sus my|Sav ior I|met|_|Oh what I|ten der com|
+ A3/2 A/ A | F3 | A A A |"F7" A B c |"Bb" B3- | B3 | d3/2 d/ d | d c B |"F" A3/2 A/ A | A B A | %34
+w: pas sion ate|friend|He met the|needs of my|heart|_|Shad dows dis|spel ling with|joy I am|tel ling He|
+"C" c c c |"C7" B A G |"F" F3- | F-"Bb/F" F-"F" F ||"^Bridge\n" A c c |"Dm" F2"F7/C" F | %40
+w: made all my|dark ness de|part|_ _ _|Heav en came|down and|
+"Gm/Bb" G B2 |"C7" E2 G |"F" F3/2-"Bb/F" F3/2- |"F" F3 | A c c |"Dm" F2"F7/C" F |"Gm/Bb" G B2 | %47
+w: glo ry|filled my|soul _|_|When at the|cross my|Sav ior|
+"C7" E2 G |"F" F3/2-"Bb" F3/2- |"F" F3- |"Dm" F2"F7/C" F |"Gm/Bb" G2 G | G2 G | B3- | B d _d | %55
+w: made me|whole _|_|* My|sins were|washed a|way|_ and my|
+"F/C" c2 c |"A/C#" A2 A |"Dm" F3 |"Bbm6/Db" G3 |"F/C" A c c |"Dm" F2"F7/C" F |"Gm/B" G B2 | %62
+w: night was|turned to|day|_|Heav en came|down and|glo ry|
+"C7" E2 G |1,2"F" F3/2-"Bb/F" F3/2- |"F" F3 :|3 F3/2- F3/2- || F3 | z3 | z3 | z3 | z3 |] %71
+w: filled my|soul _|_|||||||
+

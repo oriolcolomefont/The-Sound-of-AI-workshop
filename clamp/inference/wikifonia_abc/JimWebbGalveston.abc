@@ -1,0 +1,45 @@
+X:1
+T:Galveston
+T:Galveston
+T:Jim Webb
+C:Jim Webb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" A2 cc- c2 c2 |"Bb" d2"C" c2"F" (c4 ||[M:2/4] c4) ||[M:4/4]"Fmaj7" A c2 c- c2 c(A || %4
+w: Gal- ves- ton * oh!|Gal- ves ton||I still hear * your sea|
+w: Gal- ves- ton, * oh!|Gal- ves- ton||I still hear * your sea|
+[M:2/4]"F7" A)F- F2 ||[M:4/4]"Bb" DF- F4 z2 |"Gm7" z4"C" F G2 A- |"F" A3 G A2 C2 |"Bb" DF- F4 z2 | %9
+w: * winds *|blow- ing; *|I still see|* her dark eyes|glow- ing, *|
+w: * waves *|crash- ing; *|While I watch|* the can- non|flash- in' *|
+"Gm7" z2 FF"C" F G2 A- |"Dm" A6 z D |"Bb" B2 A2 G F2 F- |"Gm7" F8 |1"F" z2 A2"Bb" B2"C" c2 :|2 %14
+w: She was twen- ty one,|* When|I left Gal- ves- ton|||
+w: * I clean my gun|* And|dream of Gal- ves- ton.|||
+"F" z2 A2"Bb" B2"F" A2 ||"Ab" z2 _ee ee- e2 | _e e2 d-"Bb" d2 Bc- |"Ab" cc- c4 A2 | %18
+w: |I still see her *|stand- ing by * the wa-|* ter; * *|
+w: ||||
+ z2 _A2"Bb" z2 B2 |"Cm" z2 _ee e4 | _e e2 d- d2 Bc- |"Ab" c4- cccc |"Fm" c c2 c-"Bb7" c2 c2 | %23
+w: |Stand- ing there,|look- ing out * to sea|* * And is she|wait- ing there * for|
+w: |||||
+"Eb" BF G4 BB |"Gm" B2 BB"Cm" G_E- E2 |"Fm" F8 | z2 _A2"Bb" B2"C" c2 |"F" A2 cc- c2 f2 | %28
+w: me, * * On the|beach where we used to *|run.||Gal- ves- ton * oh!|
+w: |||||
+"Bb" f2"C" gf"F" ag (f2 ||[M:2/4] f4) ||[M:4/4]"Fmaj7" A c2 d- d c2 (A ||[M:2/4]"F7" A)F- F2 || %32
+w: Gal- ves- * ton * *||I am so * a- fraid|* of *|
+w: ||||
+[M:4/4]"Bb" DF- F6 |"Gm7" z2 z F"C" F G2 A- |"F" A3 G A2 C2 |"Bb" DF- F6 |"Gm7" z2 z F"C" F G2 A- | %37
+w: dy- ing, *|Be- fore I dry|* the tears she's|cry- ing, *|Be- fore I see|
+w: |||||
+"Dm" A3 G A2 c2 |"Bb" d f2 e-"Am" e c2 e- |"Gm7" e3 f/e/ d4 | z2 z d d2 c2 |"D" d8 | %42
+w: * your sea birds|fly- ing in * the sun||At Gal- ves-|ton|
+w: |||||
+"Gm7" z2 z d c2 B2 |"F" c8- | c8 |] %45
+w: at Gal- ves-|ton.-||
+w: |||
+

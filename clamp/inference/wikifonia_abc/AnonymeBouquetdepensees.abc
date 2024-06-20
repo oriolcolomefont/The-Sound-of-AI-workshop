@@ -1,0 +1,20 @@
+X:1
+T:Bouquet de pensées
+T:Bouquet de pensées
+T:Valse
+T:Anonyme
+T:JHC Villers
+C:Anonyme
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:none
+V:1 treble transpose=-2 nm="B Trumpet" snm="\n"
+%%MIDI program 56
+V:1
+[K:G] B3- | B A G | D3- | D G A | B3- | B c B | (A3 | E3) | A3- | A B A | D3- | D ^C D | F3 | %13
+ E A ^C | D3- | D ^C D | B3 | B A G | D3- | D G A | B3- | B c B | A3 | E3 | A3- | A B A | d3- | %27
+ d2 E | F2 G | B2 A | G3- | G z2 |: A/F/ A B | A3 | A/F/ A d | ^c3 | e/e/ e d | ^c/c/ c B | %38
+ A/A/ A G | (F2 D) | A/F/ A B | A3 | A/F/ A d | ^c3 | e/e/ e d | ^c/c/ c B | A/A/ A ^c | %47
+ d2 z!D.C.! :| %48
+

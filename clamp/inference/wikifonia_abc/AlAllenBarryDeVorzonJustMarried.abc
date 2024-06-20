@@ -1,0 +1,31 @@
+X:1
+T:Just Married
+T:Just Married
+T:Barry De Vorzon, Al Allen,
+C:Al Allen, Barry De Vorzon
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z A |:"F" G F2 A | G F2 A |"Gm7" B B2 A |"C7" G4 |"Gm7" z B B A |"C7" G C F G | %7
+w: Just|mar- ried this|morn- ing how|ha- py- they|are|Just mar- ried|writ- ten on the|
+w: |all in white|sa- tin white|lace in her|hair|she looked so|love- ly it was|
+"F" A A"C7" A G |"F" F4 | z A A G |"F7" F3 A |"Bb" B B B A | G4 |"Gm7" z B B A |"C7" G C E G | %15
+w: win- dow of their|car|it broke my|heart to|see them drive a-|way|I lost the|one I love to-|
+w: more than I could|bear|some peo- ple|guessed the|way I felt in-|side|they saw the|tears I could not|
+"F" F4- | F2 z A :|"F" F4- |"Bb" F z"F" z A |"C7" G G G G | G3 G |"F" A"Bb" B"F" A G | F3"F7" F | %23
+w: day|* dressed|hide|* I|should have stayed at|home I|knew what was in|store but|
+w: ||||||||
+"Bb" B B B B | B3 B |"F" c"Bb" d"F" c A |"C7" G3 A |"F" G F2 A | G F2 A |"Gm7" B B2 A |"C7" G4 | %31
+w: some- thing made me|come to|see her just once|more Just|mar- ried this|morn- ing how|hap- py they|are|
+w: ||||||||
+"Gm7" z B B A |"C7" G C F G |"F" A A"C7" A G |"F" F4 | z A A G |"F7" F3 A |"Bb" B B B A | %38
+w: Just mar- ried|writ- ten on the|win- dow of their|car|it broke my|heart to|see them drive a-|
+w: |||||||
+"Bb" G2 z2 |"Gm7" z B B A |"C7" G C E G |"F" F4- |"Bb""F" F4 |] %43
+w: way|I lost the|one I love to-|day||
+w: |||||
+

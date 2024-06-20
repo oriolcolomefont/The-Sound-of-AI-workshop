@@ -1,0 +1,42 @@
+X:1
+T:WILLIAM TELL
+T:WILLIAM TELL
+T:Overture
+T:G. ROSSINI
+C:G. Rossini
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+!p!"^Andante" F2- (3FGC (3FAC | F2- (3FGC (3FAC | F2- (3FAd (3cCA |"C7" (G4 z ^F/G/ | c2) z2 z2 :: %5
+"Gm" G2- (3GAD (3GAD |"C7" G2- (3GAD (3GAC |"F" F2- (3FGA (3=Bcd | (Tc4 z =B/c/ | f2) z2 z2 :| %10
+"F" (3CDE (3FGA"Bb" (3BDB |"F" (3ACA"C7" (3GB,G"F" (3FA,F |"C7" (3ECE B2"F""F" F2 | %13
+"C7" (3ECE B2"F""F" F2 |"C7""C7" (C2 C2 C2 | c6) |"F" (3CDE (3FGA"Bb" (3BDB | %17
+"F" (3ACA"C7" (3GB,G"F" (3FA,F |"C7" (3ECE{/G} B2"F""F"{/A}"F""F" F2 | %19
+"C7" (3ECE{/G} E2"Dm""Dm"{/F}"Dm""Dm" D2 |"A7""A7" A2 A2 A2 | A6- | A2 (3Adc (3A"C7"BG | %23
+"F" F2- (3FGC (3FAC | F2- (3FGA"Bb" (3Bcd |"F" c2- (3cFG"Fdim" (3_AFG |"F" A2- (3AGF"C7" (3GCc | %27
+"F" F2- (3FGC (3FAC | F2- (3FGA"Bb" (3Bcd |"F" c2- (3cFG"Fdim" (3_AFG |"F" A2- (3AGF"C7" (3GCc | %31
+"F" (3Ffc"^N.C." (3AFA (3cAF |"C7" G2- (3GAD (3GAC |"F" (3Ffc"^N.C." (3AFA (3cAF | %34
+"C7" G2- (3GAD (3GAC |"F" F2- (3FcA (3FCA | F2- (3FcA (3FCA |"F" F2-"^N.C." (3Fe^c (3AEc | %38
+"A7" A2- (3Aae (3cAe |"D7" (3dA^f (3dAf (3dAf ||[K:G][M:2/2]"D7"[Q:1/4=132]"^Allegro"!ff! d6 dd | %41
+ d2 dd d2 d2 | d2 dd d2 d2 | d2 dd d2 d2 | d8- | d8- | d2 z2 z4 | z4 z2!p! DD ||"G" D2 DD D2 DD | %49
+ G2 A2 B2 DD | D2 DD G2 BB |"D7" A2 F2 D2 DD | D2 DD D2 DD |"G" G2 A2 B2!f! GB |"D7" d4- dcBA | %55
+"G" G2 B2 G2 DD | D2 DD D2 DD | G2 A2 B2 DD | D2 DD G2 BB |"D7" A2 F2 D2 DD |"G" D2 DD D2 DD | %61
+ G2 A2 B2 GB |"D7" d4- dcBA |"G" G2 B2 G2 BB ||S"Em" B2 BB B2 BB | B2 e2 B2 e2 | B2 e2"B7" B2 A2 | %67
+"Em" G2 F2 E2 BB | B2 BB B2 BB | B2 e2 B2 e2 | B2 e2"A7" d2 ^c2 |"D7" d2 ^c2 d2 BB | %72
+"Em" B2 BB B2 BB | B2 e2 B2 e2 | B2 e2"B7" B2 A2 | G2 F2 E2 BB | B2 BB B2 BB | B2 e2 B2 e2 | %78
+ B2 e2"A7" d2 ^c2 |"D" d2"^N.C." z2 z2!p! DD ||"G" D2 DD D2 DD | G2 A2 B2 DD | D2 DD G2 BB | %83
+"D7" A2 F2 D2 DD |"G" D2 DD D2 DD | G2 A2 B2 GB |"D7"!f! d4- dcBA |"G" G2 B2 G2 DD | D2 DD D2 DD | %89
+ G2 A2 B2 DD | D2 DD G2 BB |"D7" A2 F2 D2 DD |"G" D2 DD D2 DD | G2 A2 B2 GB | %94
+"D7" d4- dcBA!dacoda! ||"G" G2 B2 G2 z2 |O G2 GG G2 G2 |"G7" B6 A2 |"C" G2 F2 G2 E2 | %99
+"G" DEDE DEFG |"D7" CDCD CDEF |"G" B,CB,C B,CDE |"D7" A,B,A,B, A,B,A,B, | A,2 z2 !>!D4 | %104
+"G" G2 GG G2 G2 |"G7" B6 A2 |"C" G2 F2 G2 E2 |"G" DEDE DEFG |"D7" CDCD CDEF |"G" B,CB,C B,CDE | %110
+"D7" A,B,A,B, A,2 D2 |"G" !>!G2 z2 !>!G2 BB!D.S.! ||O"G" GFGF G2!ff! DD | D2 DD D2 DD | %114
+ !>!G2 !>!A2 !>!B2 DD | D2 DD D2 DD | !>!B2 !>!c2 !>!d2 z2 | !>!G2 !>!A2 !>!B2 z2 | %118
+ !>!B,2 !>!C2 !>!D2 z2 | z8 |"D7" D^DE=F ^FG^GA | ^ABc^c d^def |"G" !>!g2 !>!f2 !>!g2 !>!f2 | %123
+ !>!g2 !>!f2 !>!g2 !>!f2 | !>!g2 z2 z2 gg | g2 g2 g2 g2 | !>!g4 z2 z g | !>!g6 z g | !>!G8 |] %129
+

@@ -1,0 +1,34 @@
+X:1
+T:Judy, Judy, Judy.
+T:Judy, Judy, Judy
+T:Doc Ppmus,Mort Shuman,Johnny Tillotson
+C:doc Pomus, Mort Shuman, Johnny Tillotson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" A A"Bb" B B |"C7" G G c c |"F" c4 |"Bb" z2"C7" z z/ G/ |"F" A A"Bb" B B |"C7" G G c c | %6
+w: Ju- dys got the|lips I love to|kiss|and|when she walks shes|got the cut- est|
+w: Ju- dys got the|hands I love to|touch|the|way she wrinkles her|nose is just too|
+"F" c4 |"Bb""C7" z4 |"F" c f f f |"C7" f e e2 |"C7" B d d d |"F" d c c2 |"F" A A"Bb" B B | %13
+w: twist||she's grown up be-|fore my eyes|all at once I|re- al- ize|Ju- dy Ju- dy|
+w: much||No more shirts and|bright blue jeans|all at once shes|sev- en- teen|Ju- dy Ju- dy|
+"C7" G G c E |"F" F z z2 |"Bb" z4 |"C7""F" z4 |"Bb" z4 |"C7""F" z4 :|"F" F z z2 | z2 z A | %21
+w: Ju- dy I love|you|||||you|I'm|
+w: Ju- dy I love|you|||||||
+"C7" G G2 c |"F" F F2 c |"C7" E E D E |"F" F3 c |"C7" G G G c |"F" F F2 c |"G7" d d =B B |"C" c4 | %29
+w: pray- in I'll|stay- in her|heart for ev- er|more cause|shes the girl I've|dreamed of that|I've been wait- ing|for|
+w: ||||||||
+ z4 |"F" A A"Bb" B B |"C7" G G c c |"F" c4 |"Bb" z2"C7" z C |"F" A A"Bb" B B |"C7" G G c c | %36
+w: |Ju- dys gon- na|share my life some-|day|and|I'll be true to|her in ev- ry|
+w: |||||||
+"F" c4 |"Bb" z4 |"C7""F" c f f f |"C" f e e e | B d d d |"F" d c c2 |"C" A A"Bb" B B | %43
+w: way||when I look in-|to her ~eyes I|just cant help but|re- al- ize|Ju- dy Ju- dy|
+w: |||||||
+"C7" G G c E |"F" F4- |"Bb" F"C7" z z2 |"F" z4 | z4 |] %48
+w: Ju- dy I love|you||||
+w: |||||
+

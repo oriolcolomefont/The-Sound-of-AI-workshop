@@ -1,0 +1,19 @@
+X:1
+T:Alice in Wonderland
+T:ALICE IN WONDERLAND
+C:Bob Hilliard, Sammy Fain
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"C""Dm7" G3 |"G7" g2 f |"Cmaj7" e2 c |"Fmaj7" G3 |"Bm7b5" d e f |"E7" e2 d |"Am7" e2 c | %7
+"Eb7" G3 |"Dm7" d e f |"G7" e2 d |"Em7" e2 g |"Am7" c'2 a |"Dm7" g2 f |"G7" e2 d |1"Em7""A7" g3- | %15
+"Am7""D7" g3 :|2"Cmaj7" c3- ||"Am7" c2 ^c ||"D7" d3 |"G7" a3 |"Em7" g3 |"Am7" c3 |"Dm7" d e f | %23
+"G7" g2 a |"Cmaj7" b2 g |"Fmaj7" e3 |"F#m7" ^f3 |"A7""A7""A7""A7""^H7b9" c'3 |"Em7" b2 g | %29
+"A7""A7" e3 |"Dm7" a2"A7" g |"Dm7" f2"A7" e |"Dm7" d2"Ab7" c |"G7" B3 ||"C""Dm7" G3 |"G7" g2 f | %36
+"Cmaj7" e2 c |"Fmaj7" G3 |"Bm7b5" d e f |"E7" e2 d |"Am7" e2 c |"Eb7" G3 |"Dm7" d e f |"G7" e2 d | %44
+"Em7" e2 g |"Am7" c'2 a |"Dm7" g2 f |"G7" e2 d |"Cmaj7" c3- | c3 |] x3 | x3 | %52
+

@@ -1,0 +1,30 @@
+X:1
+T:The Story Of My Life
+T:The story of my life
+T:Burt Bacharach
+C:Burt Bacharach, Hal David
+Z:All Rights Reserved
+L:1/4
+Q:1/4=72
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Shuffle" z2 z C |"C" E G G A |"F" C3 D |"C" E G G A |"F" C3 D |"C" E G G3/2 G/ |"G7" A G G2 | %7
+w: Some|day I'm going to|write the|sto- ry of my|life I'll|tell a- bout the|night we met|
+"F" F c c c |"G7" d e e d |"C" c z2 G |"F" F"G7" z2 D |"C" C2 z2 | z2 z"C" C | E G G A |"F" C3 D | %15
+w: and how my heart|cant for- get the|way you|smiled at|me|I|want the world to|know the|
+"C" E G G A |"F" C3 D |"C" E G G3/2 A/ |"G7" A G G2 |"F" F c c c |"G7" d e e d |"C" c z2 G | %22
+w: sto- ry of my|life the|mom- ment when your|lips met mine|and the first ex-|cit- ing time I|held you|
+"F" F"G7" z2 D |"C" C2 z2 |"C7" z2 z c |"F" A/c/c/c/ c d |"C" e/d/ c c z/ c/ |"F" A/c/c/c/ c c | %28
+w: close to|me|The|sor- row when our love was|break- * ing up the|me- 'mry of a bro- ken|
+"C" A/G/ z2 z/ c/ |"F" A/c/c/c/ c d |"C" e/d/ c c z |"D7" d/d/d/d/ d d |"G7" B G z C |"C" E G G A | %34
+w: heart * and|la- ter on the joy of|ma- king * up|nev- er nev- er more to|part * theres|one thing I must|
+"F" C3 D |"C" E G G A |"F" C3 D |"C" E G G3/2 G/ |"G7" A G G2 |"F" F c c c |"G7" d e e d | %41
+w: do be-|fore the sto- rys|through I|want to take you|for my wife|so the stor- y|of my life can|
+"C" c z2 G |"F" F"G7" z2 D |"F" c"G7" z2 G |"F" F"G7" z2 D |"C" c z2 G |"F" F"G7" z2 D |"C" C2 z2 | %48
+w: start and|end and|start and|end and|start and|end with|you.|
+ z4 |] %49
+w: |
+

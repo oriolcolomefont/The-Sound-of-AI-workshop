@@ -1,0 +1,53 @@
+X:1
+T:Venus In Blue Jeans (Transcribed)
+C:Jack Keller and Howard Greenfield
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Vocal Tutor" snm="Vocal Tutor"
+%%MIDI program 22
+V:1
+"D " d A2 d |"F#min" c"A " A2 c |"Emin" (3B E F (3:2:2G A/- A/B/ |"A7" (3z E F G/A/ c | %4
+w: |||* * * * She's|
+"D " d A2 d |"F#min" c A z A/c/ |"Gmaj7" B/A/ G/B/ A G |"F#min" F/G/"B7" A2 z | %8
+w: ~Ven- us ~in|~blue ~jeans, Mo- na|~Li- sa ~with ~a ~pon- y|ta- i\- l.|
+"Emin" E B"A7" A/G/ F/E/ |"F#min" z F/A/"Bmin" D3/2 z/ |"E7" E d c B |"A7" c B A A |"D " d A2 d | %13
+w: She's ~a walk- in' ~talk- in'|~work of ~art;|she's ~the ~girl ~who|~stole ~my ~heart. My|~Ven- us ~in|
+"A " c A"F#min" z A/c/ |"Gmaj7" B/A/ G/B/"A7" A G |"B7" F/G/ A2 z |"Emin" E B"A7" A/G/ F/E/ | %17
+w: ~blue ~jeans is ~the|~Cin- de- rel- la ~I ~a-|do- r\- e.|She's ~my ~ver- y ~spe- cial|
+"F#min" F A"Bmin" D3/2 D/ |"Emin" E G"A7" C E |"D " D2 z D |"G " B/B/ B/B/ B d | %21
+w: ~an- gel ~too, a|~fair- y ~tale ~come|~true. They|~say ~there's ~sev- en ~won- ders|
+"Dmaj7" c A A z/ c/ |"G " B/A/ G/B/ A G |"D7" A2 z D |"G " B/B/ B/B/ B d |"F#min" f c"A " c z/ c/ | %26
+w: ~in ~the ~world but|~what they ~say is out of|~date. There's|~more ~than ~sev- en ~won- ders|~in ~the ~world I|
+"E7" B B c d |"A7" c3 A |"D " d A2 d |"F#min" c A z z/ c/ |"Gmaj7" B/A/ G/B/"A7" A G |"B7" F2 z F | %32
+w: ~just ~met ~num- ber|~eight. My|~Ven- us ~in|~blue ~jeans is|~ev'- ry- thing ~I ~hoped ~she'd|~be, a|
+"Emin" E B"A7" A E |"F#min" F c"Bmin" B3/2 F/ |"Emin" G3 B |"A7" d3 c |"D " d4 | %37
+w: teen- age go- dess|~from ~a- bove and|~she ~be-|longs ~to|~me.|
+"F#min" c"A " A2 c |[K:Eb]"Emin" (3=B =E ^F (3:2:2G =A/- A/B/ |"Gmin" (3z F G"Bb7" A/B/ B | %40
+w: ||* * * * She's|
+"Eb " e B2 e |"Gmin" d B z B/d/ |"Abmaj7" c/B/ A/c/ B A |"Gmin7" G2"C7" z2 | %44
+w: ~Ven- us ~in|~blue ~jeans, Mo na|~Li- sa ~with ~a ~pon- y|tail.|
+"Fmin" F c"Bb7" B/A/ G/F/ |"Gmin" G B"Cmin" E3/2 z/ |"F7" F e d c |"Bb7" d c B B |"Eb " e B2 e | %49
+w: She's ~a walk- in' ~talk- in'|~work ~of ~art.|She's ~the ~girl ~who|~stole ~my ~heart. My|~Ven- us ~in|
+"Bb " d B"Gmin" z B/d/ |"Abmaj7" c/B/ A/c/"Bb7" B A |"Bbmin" G/A/"C7" B2 z | %52
+w: ~blue ~jeans is ~the|~Cin- de- rel- la ~I ~a-|do- r\- e.|
+"Fmin" F c"Bb7" B/A/ G/F/ |"Gmin" G B"Cmin" E3/2 G/ |"Fmin" F A"Bb7" D F |"Eb " E2 z E | %56
+w: She's ~my ~ver- y ~spe- cial|~an- gel ~too, a|~fair- y ~tale ~come|~true. They|
+"Ab " c/c/ c/c/ c e |"Gmin" d B B z/ d/ |"Abmaj7" c/B/ A/c/ B A |"Eb7" B3 z/ E/ | %60
+w: ~say ~there's ~sev- en ~won- ders|~in ~the ~world but|~what they say is out of|date. There's|
+"Ab " c/c/ c/c/ c e |"Bb " g d d z/ B/ |"F7" c c d e |"Bb7" d3 B |"Eb " e B2 e |"Gmin" d B z B/d/ | %66
+w: ~more ~than ~sev- en ~won- ders|~in ~the ~world; I|~just ~met ~num- ber|~eight. My|~Ven- us ~in|~blue ~jeans i\- s|
+"Abmaj7" c/B/ A/c/ B A |"Gmin7" G/A/ B"C7" z G |"Fmin" F c"Bb7" B F |"Gmin" G d"Cmin" c3/2 G/ | %70
+w: ~ev'- ry- thing ~I ~hoped ~she'd|~b- \- e. A|teen- age god- dess|~from- ~a- bove and|
+"Fmin" A3 c |"Bb7" e3 d |"Eb " e4- |"Gmin""Bb " e4 |"Fmin" (3c F G (3:2:2A B/- B/c/ | %75
+w: ~she be-|longs ~to|~me.|||
+"Bb7" (3z F G A/B/ c/d/ |"Eb " e B2 e |"Gmin" d"Bb " B2 d |"Fmin" (3c F G (3:2:2A B/- B/c/ | %79
+w: ||||
+"Bb7" (3z F G A/B/ c/d/ |"Eb " e B2 e |"Gmin" d"Bb " B2 d |"Fmin" (3c F G (3:2:2A B/- B/c/ | %83
+w: ||||
+"Bb7" (3z F G A/B/ c/d/ |"Eb " e B2 e |"Gmin" d"Bb " B2 d |"Fmin" (3c F G (3:2:2A B/- B/c/ | %87
+w: ||||
+"Bb7" (3z F G A/B/ c/d/ |"Eb " e4- | e4 |] %90
+w: |||
+

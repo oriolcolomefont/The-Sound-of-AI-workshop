@@ -1,0 +1,23 @@
+X:1
+T:Slowly
+T:Slowly
+T:Tommy Hill,Webb Pierce
+C:Tommy Hill, Webb Pierce,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" B2 c B/A/ | G D3 |"C" E3/2 D/ C E |"G" D4 | B2 c B/A/ | G D2 G |"A7" A3/2 E/ ^F G |"D" A3 B | %8
+w: Slow- ly I am|fall- ing|more in love with|you|slow- ly you are|win- ning a|heart that can be|true now|
+"G" B B c/B/ A | G D2 D |"C" E3/2 E/ C E |"G" D4 |"C" E2 G c |"G" B G3 |"Am" c A"D7" G3/2 ^F/ | %15
+w: I cant hide * my|feel- ings for|its so plain and|true|slow- ly I'm|fall- ing|more in love with|
+"G" G2"D7" z2 |"G" B2 c B/A/ | G D2 D |"C" E3/2 D/ C E |"G" D4 | B2 c B/A/ | G D2 G | %22
+w: you|More and more I|need you and|want you by my|side|more and more I|love you as|
+"A7" A3/2 E/ ^F G |"D7" A3 B |"G" B B c/B/ A | G D2 D |"C" E3/2 E/ C E |"G" D4 |"C" E2 G c | %29
+w: each day pass- es|by No|need to hide * my|feel- ings for|its so plain and|true|Slow- ly I'm|
+"G" B G3 |"Am" c A"D7" G3/2 ^F/ |"G" G2 z2 |] %32
+w: fall- ing|more in love with|you.|
+

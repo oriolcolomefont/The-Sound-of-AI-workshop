@@ -1,0 +1,37 @@
+X:1
+T:Message In A Bottle
+T:Message in a Bottle
+T:Sting
+C:Sting
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" CGd"A"A,- A,EBB,- |"B" B,Fc"F"F,- F,CGA |"C" CGdA,-"A" A,EBB,- |"B" B,FcF,-"F" F,CGA |: %4
+w: ||||
+S"C" z4"A" z ge"B"e- | e2 g"F"f- f2 z e |"C" g e2"A" e- e g2"B" f- | f3"F" g- g2 z2 | %8
+w: Just a cast|* a- way * an|is- land lost * at sea|* o *|
+"C" z3"A" e g e2"B" e- | e2 g"F"f- f2 z2 | g e2"A" e- e g2"B" f- | f3"F" d- d2"C" z2 |"A" z4 g4 | %13
+w: an- oth- er lone-|* ly day *|no- one here * but me|* o *|More|
+"B" e2 g"F"f- f2 z e |"C" g e2"A" e- e g2"B" f- | f3"F" g- g2 z2 |"C" z3"A" g- g e2"B" e- | %17
+w: lone- li- ness * than|an- y man * could bear||res- * cue me|
+ e g2"F" f- f e2 g- |"C" g e2"A" e- e g2"B" f- | f3"F" d- d2 z2 ||"A" z A2 A- A A2 c- | %21
+w: * be- fore * I fall|* in- to * des- pair|* o *|I'll send * an S|
+ c"D" c2"E" B- BcBA- |"A" A A2 A A A2 c- |"D" c c2"E" B- BcBA- |"Fm" A A2 A- A A2 A | %25
+w: * O S * to the world|* I'll send * an S|* O S * to the world|* I hope * that some|
+"D" z A2 A A- A2 A |"Fm" z A2 A- A A2 A- |"D" A A2 A- AA z2 |"Fm" z A2 A- A A2 A- | %29
+w: * one gets * my|I hope * that some|* one gets * my|I hope * that some|
+"D" A A2 A AA z2 |"Fm" z A2 A- A A2 A- |"D" A A2 A- A A3 |:"Cm" G c2 c- c c2 A- |"A" A3 G- G2 E2 | %34
+w: * one gets * my|I hope * that some|* one gets * my|mes- sage in * a- bot-|* tle * yeah|
+"Cm" z8 | z8!dacoda! :| G"^Play chorus 3 times" c2 c- c c2 A- |"A" A3 G- G2 E2 |1"Cm" z2 z2"A" z4 | %39
+w: ||mes- sage in * a bot|* tle * yeah||
+"A" z8 :|2"Cm" z8 ||"A" z8 |"Fm" z8 | z8!D.S.! |:O"Cm" G c2 c- c c2 A- |"A" A3 G- G2 z2 |"Cm" z8 | %47
+w: |||||mess- age- in * a bot-|* tle *||
+"A" z8 :|"Cm" G c2 c- c c2 A- |"A" A3 G- GE E2 ||"Fm" z8 | z8 |"C" z8 |"F" z8 |"C" z4"F" z3 A |: %55
+w: |Mes- sage in * a bot|* tle * yeah *|||||I'm|
+"C" e2 d"A"c- c B2"B" e- | e d2"F" c-"_(repeat to fade)" c2 z B :| %57
+w: send- ing out * an S|* O S * I"m|
+

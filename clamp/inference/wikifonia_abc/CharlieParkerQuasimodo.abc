@@ -1,0 +1,20 @@
+X:1
+T:Quasimodo
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+ GAB |"Ebmaj7" G3 B, CDFE |"D7" DF z E AG^FG |"Fm7" BF=EF z G2 F |"Bb7" AC (3GAF z2 z G | %5
+"Fm7" F2 z G AB=Bc |"Bb7" g3 f z e (3cAF |"Ebmaj7" BA=EF BGBB | z d/f/ e2"G7" z d/c/=BA | %9
+"Cm7" GdeG d e2 ^F |"Am7" =EFc^F"D7" =AcBG |"Gm7" z =ABc dcgB |"C7" z G=A_g"F7" z z2 B- | %13
+"Bb6" BG/=A/ Bc d/f/e- ed/G/ |"Cm7" FEG d2- d z c |"Fm7" FcAF"C+7" =Ec z B |"Fm7" AGAF"Bb7" z GAB | %17
+"Ebmaj7""Ebmaj7" G3 B, CDFE |"D7" DF z E AG^FG |"Fm7" BF=EF z G2 F |"Bb7""Bb7" AC (3GAF z2 z G | %21
+"Fm7""Fm7" F2 z G AB=Bc |"Bb7""Bb7" g3 f z e (3cAF |"Bbm7" Bc/_d/ f/d/B/F/"F+7" =Af z c | %24
+"Bbm7" _d/c/B/=A/ _A_G"Eb7" d=BcF |"Ab6" z2 z A/c/ ec z F |"Dm7" d=A z c"G7" z B (3=Bdf | %27
+"Cm7" ef/e/ dc eGAG |"Abm6" BA_cg z f (3e_cA |"Eb6" Ge z G ecAG |"Fm7b5" BAB_c-"Bb7b9" c2 z B | %31
+"Ebmaj7" GBBB- B2 z G- | GEFE G2- G^D |] %33
+

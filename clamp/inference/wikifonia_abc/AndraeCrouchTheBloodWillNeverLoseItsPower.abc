@@ -1,0 +1,37 @@
+X:1
+T:The Blood Will Never Lose It's Power
+C:Andraé Crouch
+Z:All Rights Reserved
+L:1/4
+Q:1/4=94
+M:3/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+ E |:"Ab" A2 E | (E =D) E |"Db" F2"Ddim" F |"Ab" E2 z |"C7" z3 | z G A | B"Fm" A2 | A"Ab9" _G2 | %9
+w: 1.~The|blood that|Je- _ sus|shed for|me,||Way back|on Cal-|va- ry,|
+w: 2.~It|soothes my|doubts _ and|calms my|fears,||And it|dries all|my tears,|
+ z/ _G/"Db" F3/2 =E/ | F/>G/"Ddim" A2 |"_CHORUS" B"Ab" c2 |"Gb" c"F7" (d/c/) =A | %13
+w: The blood that|gives me strength|from day|to day, _ _|
+w: ||||
+ (3z/ c/c/"Bbm" (d"F7" c) |"Bbm" B"Ddim7/F" A2 |"Eb" G"Ab""Db" A2- |"Ab" A2 | z/"Adim" E/ | %18
+w: It will nev- _|er lose|its pow'r.|_|It|
+w: |||||
+"Eb7" B B- (3B/B/B/ |"Eb" (B"Fm" A)"Eb7" B |"Ab" c/>B/"Db" A2- |"Ab" A2 |"Adim" z/ E/ | %23
+w: reach- es _ to the|high- _ est|moun- _ tain,|_|It|
+w: |||||
+"Eb7" B B- B/B/ |"Eb7" (B"Fm" A)"Eb7" B |"Ab" (c/>B/) A2- |"Ab7" A2 | B |"Db" A2 (3(F/F/G/ | %29
+w: flows to * the|low- _ est|val- _ ley,|_|The|blood that gives me|
+w: ||||||
+"Ddim" A2) B |"Ab" c2"Gb" c |"F7" (d/>c/ =A) | (3z/ c/c/ |"Bbm" d"F7" c"Bbm" B |"F9" A2"Eb7" G |1 %35
+w: strength from|day to|day _ _|It will|nev- _ er|lose its|
+w: ||||||
+"Ab" A2-"Db" A |"E7" z2 E :|2"Ab" A2- A ||"Adim" c2 c/>c/ |"Bbm" (d"F7" c)"Bbm" B |"F9" A2"Eb7" G | %41
+w: pow'r. *|(2)It|pow'r. *|Oh, it will|nev- _ er|lose its|
+w: ||||||
+"Db" A2- A |"Ab" A2- !fermata!A- | !fermata!A2 z |] %44
+w: pow'r. _|_ _||
+w: |||
+

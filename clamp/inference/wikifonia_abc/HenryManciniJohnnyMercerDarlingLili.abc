@@ -1,0 +1,30 @@
+X:1
+T:Darling Lili
+T:Darling Lili
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Dm7" !fermata!c2"G+" !fermata!B2 |:"C" d2 c2- | c2 E G | c d2 e | d c G E | D2 E2- | %6
+w: Dar- ling|Li- li|_ is an|an- gel from|hea- ven come to|see us|
+w: |Li- li|_ put a|light in the|win- dow, and keep|wear- ing|
+ E D"C#dim" E G |"Dm7" A4- |"G7" A2"A+" F"A7" E |"Dm7" D2 F A | c2"G7" B2 |"C" z E G B | %12
+w: _ a lit- tle|while.|_ Stage- door|John- nies wait|for her,|our boys en-|
+w: _ that bon- ny|smile.|_ On those|cold rail- way|bench- es,|or in the|
+"Am" d2 c2 |"D9" z ^F A c |"Am7" e2"D9" A2 |"Dm7""G7" d4 |"Dm7" c2"G+" B2 |"C" d2 c2- | c2 E G | %19
+w: core her;|They just a-|dore her|style.|Dar- ling-|Li- li|_ does- n't|
+w: trench- es,|Warm up our|hears a-|while.|Dar- ling|Li- li,|_ blow a|
+ c d2 e | d c G E |"Gm7" D2"C7" E2- | E D E G |"F" A4- |"F#dim" A2 B c |"C" d2 c2- | c2"B" B"C" c | %27
+w: dream of the|hearts she keeps on|break- ing|_ with just a|smile.|_ But you'd|bet- ter|_ just for-|
+w: kiss to us|dear- ie, as we|trav- el|_ each wear- y|mile.|_ Not for|moth- er,|_ or each|
+"Fm" e2 d2- | d2 B c |"C" d3 c | B2 c2 |"A+" f4- | f2 f e |"Dm" A2 e2 | c2 A2 |"Dm7/G" F2 d2- | %36
+w: get her;|_ Tod- dle|off and|let her|be,|_ Leave that|dar- ling,|dar- ling|Li- li|
+w: oth er,|_ Are we|off to|end this|war.|_ You're the|dar- lin'|we'll be|win- ning|
+ d2 A2 |1"C" c4- ||"Am" c4 |"Dm7" z4 | c2"G+" B2 :|2"C" c4- ||"F" c4- |"C" c4 |] %44
+w: _ to|me.|_||Dar- ling||||
+w: _ it|||||for.|_||
+

@@ -1,0 +1,21 @@
+X:1
+T:Sunny
+T:Sunny
+T:Bobby Hebb
+C:Bobby Hebb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Am7" E3 E- E4- |"Gm7" E4"C" cAGE |"Fmaj7" D2 CA, C D2 E- |"Bm7""E" E6 z2 |"Am7" E3 E- E4- | %5
+w: Sun- ny _|_ yes- ter- day my|life was fil- led with rain|_|Sun- ny _|
+"Gm7" E4"C" cAGE |"Fmaj7" D2 CA, C D2 E- |"Bm7""E" E6 ED |"Am7" ECDC- C2 D2 |"Gm7" ECDC-"C" C3 D | %10
+w: _ you smi- led at|me and really eased the pain|_ Oh the|dark days are gone _ and|the bright days're here _ my|
+"Fmaj7" E D2 C- C2 DC |"Bb" ECDC- C3 z |"Bm7b5" z2 EE E E2 D- |"E7#9" D2 z2 D D2 C- |"Am7" C6 z2 | %15
+w: Sun- ny one _ shi- nes|so sin- ce- re _|Sun- ny one so true|_ I love you|_|
+"E7#9" z8 :| %16
+w: |
+

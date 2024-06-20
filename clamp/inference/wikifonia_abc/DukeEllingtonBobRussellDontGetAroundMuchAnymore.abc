@@ -1,0 +1,32 @@
+X:1
+T:Don't Get Around Much Anymore
+T:Don't Get Around Much Anymore
+C:Duke Ellington / Irving Gordon / Irving Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z e2 d cG F2 |"C" E"Cmaj7" g3"Dm7" g2"Ebdim" g"C/E"g | z e2 d cG F2 | %3
+w: Missed the Sat- ur- day|dance, * * * *|heard they crowd- ed the|
+"A7" E"C7" g3"B7" g2"Bb7" g"A7"g | z G2 F EDCc- |"Dm7" c3 A- A4 |"Dm7/G" z EF^F"G7" GC^DE | %7
+w: floor. * * * *|Aw- fly diff- rent with out|* you, *|don't get a- round much an- y|
+"C" C"C/E" g3"Ebdim7" g2"Dm7" g"A7/C#"g |"G7" z e2 d cG F2 | %9
+w: more. * * * *|Thought I'd vis- it the|
+"C" E"C/E" g3"Ebdim7" g2"Dm7" g"A7/C#"g | z e2 d cG F2 |"A7" E"C7" g3"B7" g2"Bb7" g"A7"g | %12
+w: club, * * * *|got as far as the|door, * * * *|
+ z G2 F EDCc- |"Dm7" c3 A- A4 |"Dm7/G" z EF^F"G7" GC^DE |"C" C"C/E" g3"Ebdim7" g2"Dm7" g"A7/C#"g | %16
+w: they'd have asked me a bout|* you, *|don't get a- round much an- y|more. * * * *|
+"Gm7" z4"C7" z4 |"Fmaj7" d4 c2 Ac- |"Fm6" c4 z2 cd- |"Cmaj7" d4 c2 GE- |"C7" E4 z2"C+7" c2 | %21
+w: |Dar- lin' I guess|_ my mind's|_ more at ease|_ but|
+"D7" d4 c A2 c- |"F#m7b5" c4"B7" z4 |"Em" z BBB"Ebdim" B A2 G- |"Dm" G e2 d"G7" cG F2 | %25
+w: nev er the less|_|why stir up mem- or- ies?|_ Been in- vit- ed on|
+"C" E"Cmaj7" g3"Dm7" g2"Ebdim" g"C/E"g | z e2 d cG F2 |"A7" E"C7" g3"B7" g2"Bb7" g"A7"g | %28
+w: dates, * * * *|might have gone but what|for? * * * *|
+ z G2 F EDCc- |"Dm7" c3 A- A4 |"Dm7/G" z EF^F"G7" GC^DE |1"C""Dm7""G7" C8 :|2"C" C8 |] %33
+w: Aw- fly diff- rent with out|* you, *|don't get a- round much an- y|more.|more.|
+

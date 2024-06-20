@@ -1,0 +1,29 @@
+X:1
+T:Do What You Do, Do Well
+T:do what you do, do well
+T:Ned Miller
+C:Ned Miller
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"D" A2 A A | B2 A2 | D4 | F3 A |"D" A A2 A | B2 A2 |"A7" A E3- | E z A A |"A7" A A A A- | A2 A2 | %10
+w: He could- n't|move a|moun-|tain or|pull down a|big oak|tree *|* but my|dad- dy be- came|* a|
+w: Some- times hed|kiss my|moth-|er and|hold her *|ten- der-|ly *|* then he'd|look * a- cross|* the|
+w: He was a|man of|laugh-|ter but|if tra- ge-|dy came|by *|* * the|tears * ran free|* and|
+ c c c c- | c2"A7" c B | A A G2 | F2 E2 |"D" D4- | D z z2 |"D" A A2 A | B2 A2 | D4 | F2 z2 | %20
+w: might- y big man|* with a|sim- ple phi-|los- o-|phy||do what you|do, do|well|boy|
+w: top of her head|* then he'd|wink * and|say to|me||||||
+w: he'd say to me|* Nev- er|be * a|fraid to|cry||||||
+ A A2 A | B2 A2 |"A7" A E3- | E z z2 | A2 A A- | A2 A2 |"A7" c c c c- | c2"Em7" B2 |"A7" A A2 G | %29
+w: do what you|do do|well *||give your love|* and|all of your heart|* and|do what you|
+w: |||||||||
+w: |||||||||
+ F2 E2 |1"D" D4 |"A7" z2 z A :|2"D" D4- |"D" D z z2 |] %34
+w: do do|well||well||
+w: |||||
+w: |||||
+

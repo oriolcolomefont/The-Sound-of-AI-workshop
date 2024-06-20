@@ -1,0 +1,26 @@
+X:1
+T:Alone At Last
+T:Alone At Last
+C:Robert Hilliard
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z F |"Bbmaj7" A,3 B, |"G+7" G3 G |"Cm7" =B, C B, C |"A+7" A3 A |"Dm" ^C3 D |"Gm7" B3 B | %7
+w: A-|lone at|last, you're|mine a- lone to-|night. A-|lone at|last, there's|
+"Cm7" D E D E |"Ab7""F7" c3 B/A/ ||"Bbmaj7" B3 A/G/ |"Dbdim7" A3 G/F/ |"Cm7" G4- |"F7" G2 z F/E/ | %13
+w: not a soul in|sight. Lips I've|kissed in a|dream can be|real,|_ and your|
+"Dm7b5" F3 E/D/ |"G+7" E3 D/E/ |"Cm7" C4- |"Ab7" C2"F7" z F |"Bbmaj7" A,3 B, |"G+7" G3 G | %19
+w: arms will be|thrills I can|feel.|_ You|can't den-|y that|
+"Cm7" =B, C B, C |"A+7" A3 A |"Dm" ^C3 D |"Gm7" B3 B |"Cm7" D E D E |"Am7b5""D7" d3 d/c/ | %25
+w: love is pass- ing|by. Just|reach for|me, stop|reach- ing for the|sky. Far a-|
+"Gm7" B3 d/c/ |"Ebm7""Ab7" B3 _A/_G/ |"Bbmaj7" F3 D/E/ |"Dm7b5""G7" F3 G |"Cm7" E3 B | %30
+w: way from a|world that keeps|mov- ing too|fast. Time|waits for|
+ B G"F7" A c |1"Bbmaj7" B4- |"Cm7" B2"F7" z2 :|2"Bbmaj7" B4- | B2 z2 |] %35
+w: we're a- lone at|last.|_|last.|_|
+

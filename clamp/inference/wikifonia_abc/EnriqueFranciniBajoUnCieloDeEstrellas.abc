@@ -1,0 +1,24 @@
+X:1
+T:Bajo Un Cielo De Estrellas
+T:Bajo Un Cielo De Estrellas
+T:Enrique Francini
+C:Enrique Francini
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z E ^D"^A" ||"Am" E C A |"E7" ^G D B |"Am" A2 E- | E A ^G |"A7" A E F | G F E |"Dm" A3 | z F E | %9
+ F D A |"E7" ^G E B |"Am" A E A | A ^G A |"Dm7" c B A |"B7" A ^G A |"E" B2 | z E ^D |"Am" E C A | %18
+"E7" ^G D B |"Am" A2 E | E A ^G |"A7" A E F | G F E |"Dm" A3 | z A B | d c B | A G F |"Am" F E A | %28
+ c B A |"E7" B ^G A | B A ^G |"Am" A3 |"^NC" A ^G ^F ||[K:A]"E7" F/E/ E/^D/ E | E F G | %35
+"A" B/A/ A/G/ A | A c A |"C#7" A/G/ G/^^F/ G/A/ | B/^B/ c A |"F#m" G F2 | A G F |"D" A G A | %42
+"D#dim7" B ^A B |"A" d c c |"F#7" d c ^B |"B" c =B B |"E7" c B ^A |"A" B =A G |"Adim7" A G F | %49
+"E" F/E/ E/^D/ E | E F G |"A" B/A/ A/G/ A | A c A |"C#7" A/G/ G/^^F/ G/A/ | B/^B/ c A |"F#m" G F2 | %56
+ A G F |"D" A G A |"D#dim7" B ^A B |"E" F E E | E F A |"A" c B ^A | B A G |"C#7" A3- | A z z |] %65
+

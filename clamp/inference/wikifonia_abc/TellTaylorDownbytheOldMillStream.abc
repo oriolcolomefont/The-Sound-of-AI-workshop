@@ -1,0 +1,37 @@
+X:1
+T:Down by the Old Mill Stream
+T:Down by the Old Mill Stream
+T:Tell Taylor
+T:Amsco Music Sales Co., N.Y.C. 1933
+C:Tell Taylor
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |"G" B3/2 ^A/ B c |"D7" B =A3 | A3/2 ^G/ A B |"G" =G3 F |"C" E3/2 F/ G E |"G" D/ (G3/2 G) B | %7
+w: 1.~My|dar- ling I am|dream- ing,|of the days gone|by, When|you and I were|sweet- hearts, _ be-|
+w: 2.~The|old mill wheel is|sil- lent,|and has fall- en|down, The|old oak tree has|with- ered, _ and|
+"A7" B3/2 A/ A B |"D7" A3 D |"G" B3/2 ^A/ B c |"D7" B A2 D | A3/2 ^G/ A ^A |"B7" B3 B | %13
+w: neath the sum- mer|sky; Your|hair has turn'd to|sil- ver, the|gold has fad- ed|too; But|
+w: lies there on the|ground; While|you and I are|sweet- hearts, the|same as days of|yore; Al-|
+"E7" B d c3/2 B/ |"A7" B E2 ^D/E/ | B3 _B |"D7" A3 ||[M:3/4]"^CHORUS:" D/G/B/ |:"G" d3 |"Dm" ^c3 | %20
+w: still I will re-|mem- ber, When I|first met|you.|Down by the|old|mill|
+w: though we've been to-|geth- er, for- ty|years and|more.||||
+"D7" (=c3 | c) ^D E | B3 | A3 |"G" (G3 | G) B, D | G3 | F3 |"C""E7" (E3 |"Am" E) ^D E |"D7" F3 | %31
+w: stream|_ Where I|first|met|you,|_ With your|eyes|of|blue,|_ Dressed in|ging-|
+w: |||||||||||
+ E3 |"G" (D3 | D) G B |"G" d3 |"Dm" ^c3 |"D7" (=c3 | c) ^D E |"D7" B3 |"B7" A3 |"Em" (G3 | %41
+w: ham|too,|_ It was|there|I|knew,|_ that you|loved|me|true,|
+w: ||||||||||
+ G3/2) G/ F/G/ |"Eb7" (_B3 | _B3/2) G/ F/G/ |"G" (=B3 |"E7" B) c B |"A7" E3 |"D7" B3 |1"G" G z z || %49
+w: _ You were six-|teen,|_ my vil- lage|queen,|_ by the|old|mill|stream.|
+w: ||||||||
+ D G B :|2"G" (e3 || e) z z |] %52
+w: Down by the|stream.|_|
+w: |||
+

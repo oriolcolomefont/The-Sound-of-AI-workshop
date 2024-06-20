@@ -1,0 +1,28 @@
+X:1
+T:MOOI WAS DIE TIJD
+T: Laukens Music Productions  
+T:Beguine 
+T:MOOI WAS DIE TIJD
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=170
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 12
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"E" [EG] [EG]/[EG]/- [EG]/[EG]/ [EG] | [EG] [EG]/[EG]/- [EG]/[EG]/ [EG] | %2
+"A" [FA] [FA] [CF]/ [CE]3/2 |"E" [EG]4- | [EG]4 |: z4 | z4 | z4 | z4 |"E" B2 B c/B/- | B4- | %11
+ B e e e | e3/2 d/"E7" d e |"A" d c3- | c4- | c e e e | f3 e |"E" B B3- | B4- |"B7" B d d d | %20
+ d c2 c/B/ | c B2 A/G/- |"E" G4- | G4 |"E" B2 B c/B/- | B4- | B e e e |"E7" e3/2 d/ d e | %28
+"A" d c3- | c4- | c e e e/f/- | f3 e |"E" B B3- | B B e g/a/- |"B7" a3 f/d/- | d4- | d2 e f/g/- | %37
+"E" g2 g g/g/- |"E7" g b- b/ g f/ |"A" e c3- | c2 c d | e2 e e/e/- | e a2 c |"B7" c B3- | B2 B c | %45
+ d/d/- d d/d/- d/e/ | g3/2 f/ f e/e/- |1"E" e4- | e4 :|2"E" e4- || e e d c ||"B7" B2 B c | %52
+ d/d/- d d/d/- d/e/ | g3/2 f/ f2- | f3 e |"E" [EG] [EG]/[EG-]/ [EG]/[EG]/ [EG] | %56
+ [EG] [EG]/[EG-]/ [EG]/[EG]/ [EG] |"A" [FA] [FA] [CF]/ [CE]3/2 |"E" [EG]4- | [EG]4 |] %60
+

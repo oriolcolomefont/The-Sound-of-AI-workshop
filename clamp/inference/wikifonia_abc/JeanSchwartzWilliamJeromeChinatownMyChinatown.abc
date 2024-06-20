@@ -1,0 +1,22 @@
+X:1
+T:Chinatown, My Chinatown
+T:Chinatown, my Chinatown
+T:Jean Schwartz 
+T:William Jerome
+C:Jean Schwartz
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" c2 d2 | B2 G2 | A B G2- | G2 z2 | A2 B2 | G2 A2 |"G7" F4- | F4 | E2 D2 | G2 E2 |"Am" D E C2- | %11
+w: Chi- na-|town my|Chi- na- town||where the|lights are|low||hearts that|know no|oth- er land|
+ C2 z2 |"D7" B2 A2 | d2 B2 |"G7" A4- | A4 |"C" c2 d2 | B2 G2 | A B G2- | G4 | A2 G2 |"C7" c2 e2 | %22
+w: |Drift- ing|to and|from||Dream- y|dream- y|Chi- na- town||al- mond|eyes of|
+"F" d4- | d4 | d2 f2 |"Fm" d2 c2 |"C" A B"Gm" G2- |"A7" G3 A |"D7" c2 A2 |"Dm7" c2"G7" d2 | %30
+w: brown||hearts seem|light and|life seems bright|* In|dream y|Chi- na-|
+"C" c4- | c z z2 |] %32
+w: town.||
+

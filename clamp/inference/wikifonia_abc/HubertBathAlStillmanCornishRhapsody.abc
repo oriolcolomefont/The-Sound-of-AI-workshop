@@ -1,0 +1,35 @@
+X:1
+T:Cornish Rhapsody
+T:Cornish Rhapsody
+T:Hubert Bath
+T:Al Stillman
+C:Hubert Bath
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ z"Eb" _e d G/B/ |"Edim" _d c/_d/ B _A/G/ |"E" ^G ^A/=B/ A G |"Eb6" =G c2 G |"Fm6/D" F G/_A/ G F | %5
+w: White cliffs by an|o- cean of blue, how ro-|man- tic a view, re-|mem- ber? I|hope that you do re-|
+w: |||||
+"Cm" _E G2 E |"Fm6" D _E/F/"F#dim" _E D |"G7" G2"C+7" ^G2 |: z"F" A G F |"Am" E2- E/F/A/c/ | %10
+w: mem- ber. In|dreams I'm with you a-|gain. When|Love played a|song * up- on the|
+w: |||We watched a|bird * lost in the|
+"Ab6" _e2"Db/Ab" _d2 |"B7/A" c2 =B2 | z"Gm" _B A G |"Bm/D" ^F2- F/G/B/d/ |"Bbm6/Db" =g2"C7" =e2 | %15
+w: sea at|Corn- wall.|Love walked a-|long * with you and|me at|
+w: sky at|twi- light.|With- out a|word * we kissed good-|bye at|
+"Gb7" _d2"C7" c2 | z"C9/Bb" d2 e |"F/A" d2 c2 |1"G#dim" z ^c (3d f e |"Bbm6/G" d2"C7" c2 | %20
+w: Corn- wall.|It was|May then,|and my heart was|gay then|
+w: twi- light.|Oh my|dar- ling|||
+"B/F#" z =B2 A |"C/E" G C"G/D" D"C#dim" E |"Fm6" _A3/2 G/"G7" G D |"C7" F3/2 E/ E2 :|2 %24
+w: You will|al- ways be my|rhap- so- dy my|rhap- so- dy.|
+w: ||||
+"C#dim" z B2 c ||"Bb/D" B2 A2 |"G#dim" z e2 d |"F/A" c F"C" G"F#dim" A |"Bbm6" _d3/2"C7" c/ c2- | %29
+w: now and|al- ways|You will|be my Corn- ish|Rhap- so- dy|
+w: |||||
+ c2 E2 |"F" F4- | F4 |] %32
+w: * of|love.||
+w: |||
+

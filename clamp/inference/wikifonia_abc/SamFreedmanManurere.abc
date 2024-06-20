@@ -1,0 +1,21 @@
+X:1
+T:Manu rere
+T:Manu Rere
+T:Sam Freedman
+C:Sam Freedman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"G" B2 A | c B A G | z B- B/^A/ B | G4 |"D7" z A2 G | F D G A |"G" z B- B/^A/ B | G4 | %8
+w: Me he|ma- nu- re- re|a * hau *|e|Ku a|re- re ki to|mo * * e|nga|
+w: Kei te|mo- e te ti|na * * *|na|Kei te|wa- ke te wai|ru * * *|a|
+w: ||||||||
+ z B2 A/A/ | c B/B/ A G | z B- B/^A/ B | G3 z |"D7" z d2 A | B c B A |"G" G4- | G3 z |] %16
+w: Ki te *|a whi i to ti|na * * *|na|E te|tau ta hu- ri|mai||
+w: Kei te *|ho- tu * te ma|na * * *|wa|||||
+w: ||||e te|tau ta hu- ri|mai||
+

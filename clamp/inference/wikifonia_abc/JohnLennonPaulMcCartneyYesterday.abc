@@ -1,0 +1,30 @@
+X:1
+T:Yesterday
+T:YESTERDAY
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F""_Moderato" GF F6 |"Em7" z2 A=B"A7" ^cdef |"Dm" e>d"Dm/C" d6 |"Bb" z2 dd"C7" cBAG | %4
+w: Yes- ter- day,|all my trou- bles seemed so|far a- way,|Now it looks as though they're|
+w: Sud- den- ly,|I'm not half the man I|used to be.|There's a shad- ow hang- ing|
+"F" B2 AA- A2"C/E" G2 |"Dm" F2 AG-"G" G3 D |"Bb" F2"F" AA- A4 |:"A11" A4"A7" A4 | %8
+w: here to stay, _ Oh|I be- lieve _ in|Yes- ter day. _|Why she|
+w: o- ver me. _ Oh|Yes- ter- day _ came|sud- den- ly. _|_ _|
+"Dm" d2"C" e2"Bb" f2"Dm/A" ed |"Gm" e3 d"C" c2 d2 |"F" A8 |"A11" A4"A7" A4 | %12
+w: had to go I don't|know, she would- n't|say.|I said|
+w: ||||
+"Dm" d2"C" e2"Bb" f2"Dm/A" ed |"Gm" e3 d"C" c2 e2 |"F" f8 | GF F6 |"Em7" z2 A=B"A7" ^cdef | %17
+w: some- thing wrong, now I|long for Yes- ter-|day.|Yes- ter- day,|love was such an eas- y|
+w: |||||
+"Dm" e>d"Dm/C" d6 |"Bb" z2 dd"C" cBAG |"F" B2 AA- A2"C/E" G2 |"Dm" F2 AG-"G" G3 D | %21
+w: game to play|Now I need a place to|hide a- way _ Oh|I be- lieve _ in|
+w: ||||
+"Bb" F2"F" AA- A4 :|"F/C" F2 A2"G/B" G2 D2 |"Bb" F2"F" AA- !fermata!A4 |] %24
+w: Yes- ter- day _|Mm mm mm mm|mm mm mm. _|
+w: |||
+

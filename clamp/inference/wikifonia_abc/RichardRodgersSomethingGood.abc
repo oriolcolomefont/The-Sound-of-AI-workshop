@@ -1,0 +1,26 @@
+X:1
+T:Something Good
+T:Something Good
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z2 z C |"F" A B A B |"F6" A2 F2 |"E" =B,2 B,2- |"Ddim" B,3"C7" C |"F" A B A B |"F6" A F D2 | %7
+w: Per-|haps I had a|wick- ed|child- hood,|_ Per-|haps I had a|mis'- ra- ble|
+"C9" G4- |"C7" G2 z C |"F" A B A B |"F7" c2 C2 |"Bb" D F G B- |"Bbm6" B3 B |"F" A B A F | %14
+w: youth.|_ But|some- where in my|wick- ed|mis'- ra- ble past|_ There|must have been a|
+"C7" C E2 G |"F" F4- | F2 z"F7" F |"Bb" B3/2 A/ B2 |"Db7" =B3/2 _B/ =B2 |"F" c3/2 A/ F2- | F4 | %21
+w: mo- ment of|truth.|_ For|here you are,|Stand- ing there,|Lov- ing me,|_|
+"Bb" B3/2 A/ B2 |"Db7" =B3 F |"C9" E4- |"C7" E2 z C |"F" A B A B |"F7" c3 C |"Bb" D2 F2- | %28
+w: Wheth- er or|not you|should.|_ So,|some- where in my|youth or|child- hood|
+"Bbm6" F3 G |"F" A B A2 |"E" =B,2"C7" C2 |1"F" F4- |"Gm7" F z z"C7" C :|2"F" F4- | F2 z2 | %35
+w: _ I|must have done|some- thing|good.|_ Per-|good.|_|
+"C7" c G A G ||"Am7" c G2"F" z |"Gm7" B F B F |"Bbm6" B3 B |"F" A B A B | c3 C |"Bb" D2 F2- | %42
+w: Noth- ing comes from|noth- ing,|Noth- ing ev- er|could. So,|some- where in my|youth or|child- hood|
+ F3"C7" G |"F" A B A2 |"E" =B,2"C7" C2 |"F" F4- | F2 z2 |] %47
+w: _ I|must have done|some- thing|good.|_|
+

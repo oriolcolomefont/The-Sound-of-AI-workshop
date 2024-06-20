@@ -1,0 +1,17 @@
+X:1
+T:Pásztorok, pásztorok
+T: 
+C:Traditional
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" C2 EG C2 EG |"G" FE D2"C" C4 |"G" G2 Bd G2 Bd |"D" cB A2"G" G4 |"F" c2 BA G2 FE | %5
+w: Pász- to- rok, pász- to- rok,|ör- ven- dez- ve|Si- et- nek Jé- zus- hoz|Bet- le- hem- be,|Kö- szön- tést mon- da- nak|
+"C" GF E2"G" D4 |"C" C2 EG C2 EG |"G" FE D2"C" C4 |] %8
+w: a kis ded- nek,|Ki vált- sá- got ho- zott|az em- ber- nek.|
+

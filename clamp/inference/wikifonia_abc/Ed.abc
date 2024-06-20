@@ -1,0 +1,25 @@
+X:1
+T:In A Shady Nook
+T:In a shady nook
+T:(by a babbling brook)
+T:Ed.G.Nelson
+T:Harry Pease
+C:Ed. G. Nelson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"G7" E D ||"C" D C C2- | C z c B |"F" B A A2- | A z c B |"C" G2"A7" B A |"D" F2"G7" A G | %7
+w: In a|sha- dy nook|* by a|bab- bling brook|* mid the|flow'rs I spend|hours ev- ry|
+"G" E4- |"D7" E z"G7" E D |"C" D C C2- | C z c B |"F" B A A2- | A z"A7" A G |"D7" G ^F F2- | %14
+w: day|* that old|sha- dy nook|* and that|bab- bling brook|* they're my|mem- ry book|
+ F ^C D =c |"G7" B4- | B z"D" A B |"C" c G E2- | E z G c |"D7" B ^G E2- |"A7" E z F G |"D" A F C2 | %22
+w: * since you're a-|way|* I can|hear the strain|* of the|birds re- frain|* but its|not the same|
+ z B,"F" C A | _A4 |"G7" G z E D |"C" D C C2- | C z c B |"F" B A A2- | A z"E7" B"A" c | %29
+w: since we have|part-|ed in a|sha- dy nook|* by a|bab- bling brook|* thats where|
+"D7" d2 ^G A |"F" c2"G7" d2 |"C" c4- | c2 z2 |] %33
+w: I fell in|love with|you.||
+

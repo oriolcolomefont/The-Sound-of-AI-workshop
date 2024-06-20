@@ -1,0 +1,29 @@
+X:1
+T:Rejoice, the Lord Is King
+T:Rejoice, the Lord Is King
+T:John Darwall
+T:Charles Wesley
+T:Public Domain
+C:John Darwall
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C | E C"G" G E |"Am" c3"G" B |"F" A"C" G"G7" F"C" E |"G" D3 D |"C" E C"Am" A G | %6
+w: 1.~Re~-|joice, the Lord is|King; Your|Lord and King a-|dore! Re-|joice, give thanks and|
+w: 2.~Je~~-|sus, the Sav- iour|reigns, The|God of truth and|love. When|He had purged our|
+w: 3.~His|king- dom can- not|fail; He|rules o'er earth and|heav'n. The|keys of death and|
+"D" ^F D"G" d c | B2 A2 | G3"^REFRAIN" G |"F" A2"G" B2 |"C" c3 C |"G" D"C" E"F" F"C" G | %12
+w: sing And tri- umph|ev- er-|more. Lift|up yur|heart; Lift|up your voice, Re-|
+w: stains, He took His|seat a-|bove. *||||
+w: hell Are to our|Je- sus|given. *||||
+"F" A"E" B"Am" c"F" d |"C" c2"G" B2 |"C" c3 |] %15
+w: joice a- gain I|say, Re-|joice!|
+w: |||
+w: |||
+

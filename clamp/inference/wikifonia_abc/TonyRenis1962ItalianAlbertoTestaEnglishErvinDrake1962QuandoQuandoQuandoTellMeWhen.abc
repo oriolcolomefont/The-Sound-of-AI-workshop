@@ -1,0 +1,34 @@
+X:1
+T:Quando, Quando, Quando (Tell Me When)
+T:Quando, Quando, Quando
+C:Tony Renis 1962
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 D F |:"Bb" c B"Bdim" F3/2 D/ |"Cm7""F7" E4- |"Cm7""F7" E4- | E z c d |"Cm7" c d"F7" c d | %6
+w: Tell me|when will you be|mine,|_|* tell me|quan- do, quan- do,|
+"Bb" B4 |"Bb6" G4- |"Bbmaj7" G z F G |"Bb" d B"Bdim" F3/2 D/ |"Cm7""F7" E4- |"Cm7""F7" E4- | %12
+w: quan-|do.|_ We can|share a love di-|vine,|_|
+ E z c d |"Cm7" c d"F7" B G |"Bb" B4- | B4- | B z D F |"Bb" c B"Bdim" F3/2 D/ |"Cm7""F7" E4- | %19
+w: * please don't|make me wait a-|gain.|_|* When will|you say "yes" to|me.|
+"Cm7""F7" E4- | E z c d |"Cm7" c d"F7" c d |"Bb" B4 |"Bb6" G4- |"Bbmaj7" G z F G | %25
+w: _|* tell me|quan- do, quan- do,|quan-|do.|_ You mean|
+"Bb" d B"Bdim" A3/2 D/ |"Cm7""F7" E4- |"Cm7""F7" E4- | E z c d |"Cm7" c d"F11" B G |"Bb" B4- | %31
+w: hap- pi- ness to|me.|_|* Oh, my|love, please tell me|when?|
+ B4- | B z B c | d2"Bbmaj7" c B |"Fm7/Bb""Bb7" c4- |"Fm7/Bb""Bb7" c4- | c z B c | d2 c B |"Eb" c4 | %39
+w: _|* Ev- 'ry|mo- ments a|day.|_|* Ev- 'ry|day seems a|life-|
+ G4- | G z B c |"Gm7" d2 c B |"C7" c4- |"Gm7""C7" c4- | c z G A |"Gm7" d2 c B |"C7" c4 | %47
+w: time.|_ Let me|show you the|way||* to a|joy be- yond|com-|
+"Gm7""C7" c4- | c z D F |"Bb" c B"Bdim" F3/2 D/ |"Cm7""F7" E4- |"Cm7""F7" E4- | E z c d | %53
+w: pare.|_ I can't|wait a mo- ment|more,|_|* tell me|
+"Cm7" c d"F7" c d |"Bb" B4 |"Bb6" G4- |"Bbmaj7" G z F G |"Bb" d B"Bdim" F3/2 D/ |"Cm7""F7" E4- | %59
+w: quan- do, quan- do,|quan-|do,|_ say it's|me that you a-|dore,|
+"Cm7""F7" E4- | E z c d |"Cm7" c d"F7" B G |"Bb" B4- | B4- | B z D F :|"Bb" B4- | B4- |"Cm7" B4- | %68
+w: |* and then|dar- ling tell me|when.|_|* Tell me|when.|_||
+"Bb" B3 z |] %69
+w: |
+

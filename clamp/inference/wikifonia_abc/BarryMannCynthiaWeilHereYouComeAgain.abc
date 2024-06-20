@@ -1,0 +1,32 @@
+X:1
+T:Here You Come Again
+T:Here you come again
+T:Barry Mann
+T:Cynthia Weil
+C:Barry Mann
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"G" z2 GG G2 B2 |"C" C8 |"G" GGGG ^FGFD |"C" D2 E2 GA E2 | EDEG C3 E | EDEG C2 C2 |1 %6
+w: Here you come a|gain|just when I've be- gun to get my|self to- geth- er you|waltz right in the door just|like you've done be- fore and|
+w: Here you come a-|gain|just when I'm a- bout to make it|work with- out you you|look in- to my eyes and|lie those pret- ty lies and|
+ B2 A2 A2 AA |"D7" C2 D2 E2 ^F2 :|2 BAAB CDDD ||"D7" B2 A2 G2 A2 |"Cm" _BBBB B3 B | %11
+w: wrap my heart round you|lit- tle fin- ger-|pre- ty soon I'm won- dring how I|came to doubt you|all you got- ta do is|
+w: * + * * *|||||
+"Bb" A2 _B2 A2 F2 | _A2 A2 _B c2 B |"Gm" _B2 G4 A2 |"C7" _BBBB BGAB |"F" c2 d2 F2 A2 | %16
+w: smile that smile and|there go all my de-|fen- ses Just|leave it up to you and in a|lit- tle while you're|
+w: |||||
+"G7" AGGF G2 G2 |"D7" dccA c2 d2 |:"G" z2 GG G2 B2 |"C" C6 z2 |"G" GGGG ^FGFD |"C" D2 E2 G2 AE | %22
+w: mess- in up my mind and|fill- in up my sen- ses|Here you come a-|gain|look- ing bet- ter than a bod- y|has a right to and|
+w: ||||||
+ EDEG C3 D | EDEG C2 C2 | BAAB c2 z2 |1"D7" z2 D2 BB A2 :|2"D7" B2 A2 G2 A2!D.C.! || %27
+w: shak- in me up so that|all I real- ly know is|here you come a- gain|and here I go||
+w: |||||
+O"D7" z2 D2 BB A2 |:"G" G2 GG G2 B2 |"C" C4 EG"^Repeat&fade" A2 :| %30
+w: and here I go||* here I go|
+w: |||
+

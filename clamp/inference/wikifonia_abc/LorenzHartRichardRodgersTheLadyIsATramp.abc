@@ -1,0 +1,60 @@
+X:1
+T:The Lady Is A Tramp
+C:Lorenz Hart, Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+U:s=!stemless!
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 0
+V:1
+"^Freely or Medium""^Verse""G7" G ||"Cmaj7" C C"Dm7" C C |"Em7" C/C/ C"Dm7" C>D | %3
+w: I've|wined and dined on|mul- li- gan stew and|
+w: |||
+"Cmaj7" G G"^G7(#5)" G G |"Em7" G A2"A7"A/A/ |"Dmaj7" D D"Em7" D D |"F#m7" D D"Em7" D>E | %7
+w: nev- er wished for|tur- key, As I|hitched and hiked and|grift- ed, too, from|
+w: ||||
+"Dmaj7" A A"^A7(#5)" A A |"F#m7" A B2"B7"z/B/ |"E13" ^c c c c |"Em7" A A"A7" A>A |"D13" B B B B | %12
+w: Maine to Al- bu-|quer- que. A-|las, I missed the|Beaux- Arts Ball and|what is twice as|
+w: |||||
+"Dm7" G3"G7"G/G/ |"Cmaj7" C C"Dm7" C C |"Cmaj7" C C"Dm7" C>C |"Cmaj7" G G"^G7(#5)" G G | %16
+w: sad, I was|nev- er at a|par- ty where they|hon- ored No- el|
+w: ||||
+"^Em7(b5)" G _B2"^A7(b9)" B ||"Am7" A D D D |"D7" D D D D |"Am7" D4- |"D7" D3 D |"G7" G G G G | %22
+w: Ca- 'ad. But|so- cial cir- cles|spin too fast for|me.|_ My|Ho- bo- hem- ia|
+w: ||||||
+"Eb6" G G G G |"Dm7" G4- |"G7" G4 |:"^Medium or Bright""^Chorus""C6" z c B d |"Eb9" _B B2 B | %27
+w: is the place to|be.|_|1.  I get too|hung- ry for|
+w: |||2. I go to|Con- ey, the|
+"Dm7" A F A B- |"^G7(b9)" B4 |"C6" z c B d |"Eb9" _B B2 B |"Dm7" A F A B- |"^G7(b9)" B4 | %33
+w: din- ner at eight,|_|I like the|thea- tre, but|nev- er come late.|_|
+w: beach is di- vine.|_|I go to|ball games, the|bleach- ers are fine.|_|
+"C9sus4" z c G E |"C9" D D2 D |"Fmaj7" C D E F- |"Bb9" F4 |"E7" z E"^A7(b9)" E E | %38
+w: I nev- er|both- er with|peo- ple I hate,|_|That's why the|
+w: I fol- low|Winch- ell and|read ev- 'ry line.|_||
+"Dm7" D D"^G7(b9)" D D |"C6" C4"^(A(äÁ))" |"Dm7" z4"G7" ||"^A""C6" z c B d |"Eb9" _B B2 B | %43
+w: la- dy is a|tramp.||I don't like|crap games with|
+w: |||I like a|prize fight that|
+"Dm7" A F A B- |"^G7(b9)" B4 |"C6" z c B d |"Eb9" _B B2 B |"Dm7" A F A B- |"^G7(b9)" B4 | %49
+w: Bar- ons and Earls,|_|Won't go to|Har- lem in|er- mine and pearls.|_|
+w: is- n't a fake,|_|I love the|row- ing on|Cen- tral Park Lake.|_|
+"C9sus4" z c G E |"C9" D D2 D |"Fmaj7" C D E F- |"Bb9" F4 |"E7" z E"^A7(b9)" E E | %54
+w: Won't dish the|dirt with the|rest of the girls,|_|That's why the|
+w: I go to|op- 'ra and|stay wide a- wake,|_||
+"Dm7" D D"^G7(b9)" D D |"C6" C4 | z C E G ||"^B""Fmaj7" A4 |"G7" B4 |"Cmaj7" B G E A- |"A7" A4 | %61
+w: la- dy is a|tramp.|1. I like the|free|fresh|wind in my hair,|_|
+w: ||2. I like the|green|grass|un- der my shoes.|_|
+"Dm7" A F D G- |"G7" G4 |"Em7" z/ GA/-"A7" A2 |"Dm7" z/ AB/-"^G7(b9)" B2 ||"^C""C6" z c B d | %66
+w: Life with- out care.|_|I'm broke, _|it's oke. _|Hate Ca- li-|
+w: What can I lose?|_|I'm flat, _|that's that. _|I'm all a-|
+"Eb9" _B B2 B |"Dm7" A F"^/C" A B- |"^Bm7(b5)" B4"^E7(b9)" |O"Am7" z c"D7" c c |"Dm7" d d"G7" d d | %71
+w: for- nia, It's|cold and it's damp,|_|That's why the|la- dy is a|
+w: lone when I|low- er my lamp,||||
+"C6" c4"^(A(äÁ)" |"Dm7" z4"G7""^)" ::O"Am7" sB sB"D7" sB sB |"Dm7" sB sB"G7" sB sB"^3x" :| %75
+w: tramp.||||
+w: ||||
+"C6" !fermata!B4 |] %76
+w: |
+w: |
+

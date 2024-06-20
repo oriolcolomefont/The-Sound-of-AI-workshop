@@ -1,0 +1,28 @@
+X:1
+T:I'd Love To Make Love To You
+T:I'd Love To Make Love To You
+C:Ruth Poll, Robert Emmerich
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Cmaj7" z D3"Am7" DB,CE- |"Dm7" E2 EE-"G7" E4 |"Cmaj7" z D3"Am7" DB,CA- |"Gm7" A2 AA-"C7" A3 _A | %4
+w: I'd love to make love|* to you, *|that's just what I'd love|* to do, * 'cause|
+"Fmaj7" GEFG- GEFG- |"Dm7" GEFG-"G7" GC D2 |"Em7""A7" E8- |"Dm7" E4"G7" z4 | %8
+w: an- y old time, * in your prime|* is the time * to be-|gin.||
+"Cmaj7" z D3"Am7" DB,CE- |"Dm7" E2 EE-"G7" E4 |"Cmaj7" z D3"Am7" DB,CA- |"Gm7" A2 AA-"C7" A3 _A | %12
+w: How sweet to be sweet|* to you, *|how sweet to re- teat|* to you, * that|
+"Fmaj7" GEFG- GEFG- |"Dm7" GEFG-"G7" GC D2 |"Cmaj7""F7" C8- |"Cmaj7" C4 z2 d2 | %16
+w: an- y old time * in your prime|* is the time * to be-|gin.|* And|
+"Gm7" c4-"C7" c^G A2 |"Fmaj7" D6 z2 |"Gm7" z dcd"C7" c^G A2 |"Fmaj7" D6 cc | %20
+w: when * is your|prime?|I claim it's an- y old|time, and the|
+"F#m7" B^F^GB-"B7" BF^GB- |"Emaj7" B^F^GB- B3 _B |"Am7" =B2 B2"D7" B2 B2 |"Dm7" A^GA=G-"G7" G2 z2 | %24
+w: rpime of you life * is the time|* of you life * when|you should have the|time of your life. *|
+"Cmaj7" z D3"Am7" DB,CE- |"Dm7" E2 EE-"G7" E4 |"Cmaj7" z D3"Am7" DB,CA- |"Gm7" A2 AA-"C7" A3 _A | %28
+w: I'd love to make love|* to you, *|please say that you want|* me to, * while|
+"Fmaj7" GEFG- GEFG- |"Dm7" GEFG-"G7" GC D2 |"Cmaj7""Am7" C8- |1"Dm7" C4"G7" z4 :|2"Cmaj7" C8 |] %33
+w: we're in our prime * don't waste time,|* wast- in' time * is a|sin.||sin.|
+

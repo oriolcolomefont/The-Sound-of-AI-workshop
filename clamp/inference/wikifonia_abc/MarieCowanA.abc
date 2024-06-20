@@ -1,0 +1,26 @@
+X:1
+T:Waltzing Matilda
+T:Waltzing Matilda
+T:Marie Cowan
+T:Altered from A.B. Paterson (poem)
+C:Marie Cowan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"D" FFFF"A" E2 E2 |"Bm" (DE)FD"G" B,C"D" D2 | A,2 DF"A7" A2 AA |"D" AA"A7" A2"D" A2 DE | %4
+w: Once a jol- ly swag- man|camp'd * by a bil- la- bong|un- der the shade of a|cool- li- bah tree and he|
+w: Down came a jum- buck to|drink * at the wa- ter hole|Up jumped the swag man and|grabbed him with glee and he|
+ F2 FF"A" E2 E2 |"Bm" DEFD"G" B,C D2 |"D" A,2 DF A2 GF |"A7" E2 EE"D" D2 z2 | %8
+w: sang as he watch'd and|wait- ed till his bil- ly boiled|You'll come a waltz- ing Ma-|til- da with me.|
+w: sang as he stowed him|a- way in his tuck- er bag|You'll come a waltz- ing Ma-|til- da with me|
+"D" A2"^Chorus" AA A2 F2 |"G" d2 dc"D" B2 A2 | A2 AA"G" B2 A"D"A | A2 GF"A" E2 DE | %12
+w: Waltz- ing Ma- til- da|Waltz- ing Ma- til- da|you'll come a waltz- ing Ma-|til- da with me and he|
+w: ||||
+"D" F2 FF"A7" E2 E2 |"Bm" DEFD"G" B,C D2 |"D" A,2 DF A2 GF |"A7" E2 EE"D" D2 z2 |] %16
+w: sang as he watched and|wait- ed till his bil- ly boiled|you'll come a waltz- ing Ma-|til- da with me.|
+w: ||||
+

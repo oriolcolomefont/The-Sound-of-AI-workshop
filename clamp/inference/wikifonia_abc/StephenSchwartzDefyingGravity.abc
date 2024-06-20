@@ -1,0 +1,31 @@
+X:1
+T:Defying Gravity
+C:Stephen Schwartz
+Z:All Rights Reserved
+L:1/8
+Q:1/4=88
+M:4/4
+K:C
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z8 | z8 | z8 | z8 | z8 | z2 c2 B c2 g- | g2 cB- B G3 | z2 c2 B c2 A- | AG G4 z2 | z2 c2 B c2 g- | %10
+ g2 c2 B2 Gc'- | c'2 b2 g2 cc- | c d2 d c4 | z2 ff- f e2 c- | c G2 F c2 z2 | z f f2 f e2 c- | %16
+ c a2 g- g4 | z2 f2 f2 ed- | d c2 c- c G3 | f2 ed c2 c2 | g8- |[Q:1/4=166] g2 gg- g d'3 | c'6 eg- | %23
+ g6 c2 | e3 d d4 | z2 gg- g d'3 | c'6 eg- | g4 c'4 | e2 dd- d3 c | f e2 d- d c2 c- | c8- | c8 | %32
+ z8 | z8 | z2 g2 f e2 f- | f e2 c- c G3 | z2 c2 B c2 A- | A G2 G- G2 z2 | z2 c2 B c2 g- | %39
+ g c2 B- B G2 c'- | c' b2 g- g a2 c- | c d2 d c4 | z2 f2 f e2 c- | c G2 F- F c3 | f f2 f- f e2 c- | %45
+ c a2 g- g4 | z2 ff- f e2 d- | d c2 c- c G2 f- | f2 ed c2 cg- | g8 | z2 gg- g d'3 | c'6 eg- | %52
+ g6 c2 | e3 d d4 | z g2 g- g d'3 | c'4- c'efg- | g4 c'4 | e2 dd- d3 c | f e2 d- d c3"^Rit." || %59
+[K:Eb] c8- | c6 z2 | E2 e2- ed B2- | B4 z c d/ef/ | z2 G2 g3 f | B4 z/ Bc/ d/ef/ | gafe fged | %66
+ e4 f2 e2 | BBBd c B2 A | B>B Bg f e3 |[M:3/4] BB Ba ^f=f |[M:4/4] e4-[Q:1/4=150] ef^fa || %71
+[K:Bb] b6 df- | f6 B2 | d3 c c4 | z f2 f- f c'2 b | b6 df- | f4 b4 | d2 cc- c3 B | %78
+ e d2 c- c B2 B- | B8 | z8 ||[K:C] z8 | z8 | z8 | z2 c'c'- c' c'2 c'- | c'2 c'd'- d' c'3 | %86
+ z2 c'2- c'aga- | a g2 g- g4 | z2 c2 B c2 g- | g2 cB- B G2 d'- | d'2 c'f- f2 aa- | %91
+"^Rit." a2 gc- c2 e2 | c'2 z f f e2 f- | f e2 d- d c3 |[Q:1/4=160] z2 f2 f e2 c- | c a2 g- g4 | %96
+ z2 ff- f e2 d- | d c3 f2 ed- | d c2 G- G c2 g- | g8 | z2 gg- g d'2 c' | c'4- c'efg- | g6 c2 | %103
+ e3 d d4 | z g2 g- g d'2 c' | c'6 c'e'- | e'4 c'4 | ag g2 z d de |"^Rit." f e2 d- d g3 | %109
+ d3 c- c4- | c4 z2 c2 | f2 e2 d2 c2 | f2 e2 d2 z c | f2 e2 d2 c2 | f2 e2 d3 c | f2 e2 d2 c2 | %116
+ d4 d'4 | c'8- | c'8- | c'6 z c' | e'/d'/c'/d'/ c'6- | c'8 | z8 |] %123
+

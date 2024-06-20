@@ -1,0 +1,33 @@
+X:1
+T:Love's Been Good To Me
+T:Love's Been Good To Me
+C:Rod McKuen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb" z2 GA"Gm" B3 E |"Fm" F2 A6 |"Bb7b9" z2 DE F3 D |"Eb" E8 | z2 GA"Gm" B3 E |"Fm" F2 A6 | %6
+w: I have been a|rov- er,|I have walked a-|lone,|Hiked a hun- dred|high- ways,|
+w: ||||||
+"Bb7b9" z2 DE F3 D |"Eb" E8 |"Cm" z2 ed c3 B |"Gm" G2 G6 |"Fm7" z GBA G2 F2 |"Abm6" E8 | %12
+w: Nev- er found a|home.|Still, in all, I'm|hap- py,|The rea- son is you|see,|
+w: ||||||
+"Eb" z EFG"Eb9" B2 B2 |"Ab" B2 A2"Abm6" E4 |"Eb" z2 GF"Fm7" E2"Bb7" F2 |"Eb" E6 z2!fine! || %16
+w: Once in a- while a-|long the way,|Love's been good to|me.|
+w: ||||
+ z2"^N.C." G2 B2 E2 ||"Fm7" F6 F2 |"Bb7" A2 A6 |"Fm7" z EGF E2"Bb7" F2 |"Eb" E6 z2 | %21
+w: There was a|girl in|Den- ver,|Be- fore the sum- mer|storm,|
+w: There was a|girl in|Port- land,|Be- fore the win- ter|chill,|
+"Cm" z eed"Gm" c2 B2 |"Fm9" G2 G6 |"Ab" z ccB A2 G2 |"Bb7" F4 (3B2 c2 d2 |"Eb" e3 e e2 d2 | f2 e6 | %27
+w: * Oh her eyes were|ten- der!|* Oh her arms were|warm! And she could|smile a- way the|thun- der,|
+w: We used to go a-|court- ing,|A- long Oc- to- ber|Hill, And she could|laugh a- way the|dark clouds,|
+"Ab" d3 c B3 A |"Am6""Db9" E8 |"Eb" z EEE B2 B2 |"Fm7" B2 A2"Db9" E4 | %31
+w: Kiss a- way the|rain,|and ev- en tho' she's|gone a- way,|
+w: Cry a- way the|snow,|It seems like on- ly|yes- ter- day,|
+"Cm7" z EGF"Fm7" E2"Bb7" F2 |1"Eb" E8 :|2"Eb" E8!D.C.! |] %34
+w: You won't hear me com-|plain.-||
+w: As down the road I||go.|
+

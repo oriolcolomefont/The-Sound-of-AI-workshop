@@ -1,0 +1,36 @@
+X:1
+T:Bay of Biscay O
+T:The Bay of Biscay
+C:John Davy
+Z:All Rights Reserved
+L:1/16
+Q:1/4=70
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 13
+%%MIDI program 68
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G2 |"C" G2c2 c2e2 | c4 A2Bc |"D7" d2>e2 (dc)(BA) |"G7" G6 (EF) |"C" G2c2 c2e2 | c4 A2Bc | %7
+w: 1.Loud|roar'd the dreadful _|thun- der, The _|rain a del- * uge _|show'rs, The _|clouds were rent a-|sun- der By _|
+w: 2.Now|dash'd up- on the|bil- low, Her- _|op'- ning tim- * bers _|creak, Each _|fears a wat'- ry|pil- low, None _|
+w: 3.At|length the wish'd for|mor- row Broke _|thro' the ha- * zy _|sky, Ab- *|sorb'd in si- lent|sor- row, Each _|
+w: 4.Her|yeild- ing tim- bers|sev- er Her _|pit- chy seams _ are _|rent, When _|Heav'n, all boun- teous|ev- er, It's _|
+"D7" d2>e2 (dc)(BA) |"G" G6 (cB) |"F" A2G2 F2E2 | D6 A2 |"Dm" d2>e2 (fe)(dc) | %12
+w: light- ning's- viv- * id _|pow'rs, The _|night was drear and|dark, Our|poor de vot- * ed _|
+w: stop the dread- * ful _|leak. To _|cling to slipp'- ry|shrouds, Each|breath- less sea- * man _|
+w: heav'd a bit- * ter _|sigh, The _|dis- mal wreck to|view, Struck|hor- or in _ the _|
+w: bound- less mer- * cy _|sent, A _|sail in sight a-|pears, We|hail her with _ three _|
+"C" (!fermata!c2"G"!fermata!B2) G2(AB) |"C" c4 A2(Bc) |"D" d4 (cd)(ef) |"C" (gf)(ef)"G7" e2d2 | %16
+w: ba rk, 'Til ne'xt _|day there she _|lay In _ the _|Bay _ of _ Bis- cay|
+w: crowds, _ As she _|lay 'til next _|day In _ the _|Bay _ of _ Bis- cay|
+w: crew, _ As she _|lay all that _|day In _ the _|Bay _ of _ Bis- cay|
+w: cheers, _ Now we _|sail, with the _|gale, from _ the _|Bay _ of _ Bis- cay|
+ c4 g2f2 | (f2e2) d2(ec) |"D" (A2B2) (cd)(ef) |"C" (gf)(ef)"G7" (e2d2) |"C" c6 |] %21
+w: O! 'Til next|day _ there she _|lay _ In _ the _|Bay _ of _ Bis- cay|O|
+w: O As she|lay _ 'til next _|day _ In _ the _|Bay _ of _ Bis- cay|O|
+w: O As she|lay _ all that _|day _ In _ the _|Bay _ of _ Bis- cay|O|
+w: O Now we|sail, _ with the _|gale, _ From _ the _|Bay _ of _ Bis- cay|O!|
+

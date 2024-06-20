@@ -1,0 +1,48 @@
+X:1
+T:Paint it black
+C:The Rolling Stones
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="Part_1"
+%%MIDI program 0
+V:1
+"Fm" z4 |"Fm" z4 |"C7" z4 |"C7" z4 |:"Fm" z F G A |"Fm" B A G F |"C7" F =E F G | %7
+w: ||||I see a|red door and I|want it pain- ted|
+w: ||||I see a|line of cars and|they're all pain- ted|
+w: ||||I look in-|side my- self and|see my heart is|
+w: ||||No more will|my green sea go|turn a dee- per|
+w: ||||I see a|red door and I|want it pain- ted|
+"C7" (F/=E/-) E z2 |"Fm" z F G A |"Fm" B A G F |"C7" F =E F G |"C7" (F/=E/-) E z2 | %12
+w: black _ _|No co- lors|a- ny more I|want them to turn|black _ _|
+w: black _ _|With flow- ers|and my love both|ne- ver to come|back _ _|
+w: black. _ _|I see my|red door and I|want it pain- ted|black _ _|
+w: blue _ _|I could not|for- see this thing|hap- pe- ning to|you _ _|
+w: black _ _|No co- lors|a- ny more I|want them to turn|black _ _|
+"Fm" z f/f/"Eb" e e |"Ab" A A/B/-"Eb" B B |"Fm" c c/c/ c B/c/- | c2 z2 |"Fm" z f/f/"Eb" e e | %17
+w: I _ see the|girls walk by _ dressed|in their _ sum- mer clothes|_|I _ have to|
+w: I see peo- ple|turn their heads _ and|quick- ly _ look a- way|_|Like a new born|
+w: May- be then I'll|fade a- way _ and|not have to face the fact|_|It's not ea- sy|
+w: If _ I look|hard e- nough _ in-|to the _ set- ting sun|_|My _ love will|
+w: I _ see the|girls walk by _ dressed|in their _ sum- mer clothes|_|I _ have to|
+"Ab" A A/B/-"Eb" B B |"Bb" c c c B/c/- |"C7" c2 z2 :|"C7" z z/ c/ f/e/f/e/ |"Fm" f z z2 | %22
+w: turn my head _ un-|til the dark- ness grows.|_|I want to see your|face,|
+w: ba- by it _ just|hap- pens eve- ry day|_|||
+w: fa- cing up _ when|your whole world is black|_|||
+w: laugh with me _ be-|fore the mor- ning comes|_|||
+w: turn my head _ un-|til the dark- ness grows.|_|||
+ f/ f f z/ z |"C7" e/ c c z/ z | z z/ c/ f/e/f/e/ |"Fm" f z z2 | f/ f f f f/ |"C7" e2 z2 | %28
+w: paint- ed black,|black as night|Don't wan- na see the|sun|fly- ing high in the|sky|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ z z/ c/ f/e/f/e/ |"Fm" f c f c | z2 z/ f f/ |"C7" e z z2 |"Fm" f z z2 |] %33
+w: I wann- a see it|paint- ed, paint- ed,|paint- ed|black|Yeah!|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+

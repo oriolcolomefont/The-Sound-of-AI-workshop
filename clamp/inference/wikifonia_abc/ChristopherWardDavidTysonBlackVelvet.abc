@@ -1,0 +1,34 @@
+X:1
+T:Black Velvet
+T:Black Velvet
+C:Christopher Ward, David Tyson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Em" z2 (3AGA G2 ED | EEED E G3 | z2 AG (2:2:2AG- GE/D/ | EEEG- G E3 | z2 AG A G2 D | EEED E G3 | %6
+w: Miss- iss- ipp- i in the|mid- dle of a dry spell|Jim- my Rod- gers _ on the|vic- tro- la up _ high|Ma- ma's dan- cin' with|ba- by on her shoul- der.|
+ z EEE GEED | EDDD B,2 z2 |"Bsus4" z B,DB,"B" ^DB,DB, |"Asus4" E4"A" (3z GE E2 | %10
+w: the sun is set- tin' like mol-|ass- es in the sky..|The boy could sing, know how to|move eve- 'ry- thing|
+"Gsus4" z2 (3z GE"G" (3GEG- G2 |"Dsus4" z2 (3AAG"D" (3AGA- A2 | %12
+w: al- ways want- in' more _|He'd leave you long- ing for _|
+"Am7""^CHORUS" z2 cc- cB (3:2:2B B2 |"Dsus4" (3BAA- AA-"D" A4 |"Am7" z2 cc- cB (3:2:2B B2 | %15
+w: Black Vel- * vet and that|lit- tle boy's _ smile, _|black vel- * vet with that|
+"F" A2 (3:2:2A G2"C" E2 z2 |"Am7" z Ecc cB- (3BBB |"Dsus4" (3:2:2B A2- (3AAG"D" B4 | %18
+w: slow south- ern style.|A new re- li- gion _ that- b'll|bring you _ to your knees|
+"C7" z2 EG-"B7sus4" GE- (3EED |1"Em" E8 | z8 | z8 | z8 :|2"Em" E8 || z8 || %25
+w: black vel- * vet _ if you|please.||||please.||
+"Am""^BRIDGE" z2 (3AGA- AG (3AGA- |"B7" AAGA- AABG- |"Em" G2 z2 z4 | z8 |"Am" z2 (3AGA- A2 (3AGA- | %30
+w: Ev- 'ry word _ of ev- 'ry song|_ that he sang _ was for you.|_||In a flash _ he was gone|
+"F" A2 z D (3A2 G2 A2 |"C" (G E3) z4 |"B7" z2 z B, ^DB,(DB, |"Em" E4) z4 || %34
+w: _ it hap- pened so|soon *|What could you do? _|_|
+"Am7""^CHORUS" z2 cc- cB (3:2:2B B2 |"Dsus4" (3BAA- AA-"D" A4 |"Am7" z2 cc- cB (3:2:2B B2 | %37
+w: Black Vel- * vet and that|lit- tle boy's _ smile, _|black vel- * vet with that|
+"F" A2 (3:2:2A G2"C" E2 z2 |"Am7" z Ecc cB- (3BBB |"Dsus4" (3:2:2B A2- (3AAG"D" B4 | %40
+w: slow south- ern style.|A new re- li- gion _ that- b'll|bring you _ to your knees|
+"C7" z2 EG-"B7sus4" GE- (3EED |"Em" E8 |] %42
+w: black vel- * vet _ if you|please.|
+

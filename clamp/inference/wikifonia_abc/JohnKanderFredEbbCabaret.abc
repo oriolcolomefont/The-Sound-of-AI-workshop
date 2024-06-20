@@ -1,0 +1,39 @@
+X:1
+T:Cabaret
+T:Cabaret
+T:(from Cabaret)
+T:John Kander
+T:Fred Ebb
+C:John Kander
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Eb" B, C2 E |"Bb" G B2 =B |"Eb" c _B G"Bb7" B- | B4 |"Eb" c B2 G | B2 c2 |"Eb7" G4- | G3 z | %8
+w: What good is|sit- ting a-|lone in your room?||come hear the|mu- sic|play||
+w: Put down the|knit- ting the|book and the broom||time for a|hol- i-|day||
+"Ab" c e2 c | e2 c2 |"Gm" d B2"C" G- | G4 |"Fm" G B2 G |"Bb" B2 C2 |1"Eb" G4- ||"Fm7" G4 |2 %16
+w: life is a|cab- a-|ret old chum||come to the|cab- a-|ret||
+w: ||||||||
+"Eb" E4 || z E D3/2 E/ |:"Abm" _c4 | z E D3/2 E/ |"Eb" B4 | z G ^F G |"Cm" e2 e2 | %23
+w: ret|come taste the|wine|come hear the|band|come blow the|horn start|
+w: |||||||
+"Cm7" e c"F" d e |"Bb7" d e f e | d B A F |"Eb" B, C2 E |"Bb" G B2 =B |"Eb" c _B G B- | %29
+w: cel- e- brat- ing|right this way, your|ta- bles wait- ing|No use per-|mit- ting some|proph- et of doom|
+w: |||Start by ad-|mit- ting from|cra- dle to tomb|
+"Bb7" B3 =B |"Eb" c _B2 G | B2 c2 |"Bb7" _d4- |"Eb7" _d4 |"Ab" c e2 c |"^last" e2"^time" c2 | %36
+w: * to|wipe ev- ry|smile a-|way||life is a|cab- a-|
+w: |is- nt that|long a|stay||||
+"^toCoda""Gm7" d f2"C" B- | B4 |"Fm" c e2 c |"Bb" e2 e"Eb" e- | e4 | z"^Coda" E D3/2 E/ :| %42
+w: ret old chum||come to the|cab- a- ret||come taste the|
+w: ||||||
+"Gm7" d B2"C" G- | G4 |"Ab" c e2 c | e2 c2 |"Gm7" d f2"C" B- | B2 =B2 |"Fm7" c2 e2- | e2 c2 | %50
+w: ret old chum||on- ly a|cab- a-|ret old chum|* so|come to|* the|
+w: ||||||||
+"Bb" e4 | e4 |"Eb" e4- | e3 z |] %54
+w: cab-|a-|ret.||
+w: ||||
+

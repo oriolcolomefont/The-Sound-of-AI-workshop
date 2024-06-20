@@ -1,0 +1,34 @@
+X:1
+T:PLANET CLAIRE
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 bass nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"E9" E,,E,,^F,,E,, G,,E,,A,,G,, | E,,E,,^F,,E,, G,,E,,A,,G,, | E,,E,,^F,,E,, G,,E,,A,,G,, | %3
+w: |||
+ E,,E,,^F,,E,, G,,E,,A,,G,, |:[K:treble]"^INTRO - to be repeated" e8- | e4- e2 _e2- | d8- | %7
+w: |Aah|_ _ _||
+ d4 z2 _d2 | c4- c2 _d2 | d6 _e2 | e8 | B8 | _B8 | A8 | B8 | _B8 | A8 | B6- B_e | e2 z2 z2 z _e | %19
+w: * Aah|_ _ _||||Aah|_||||||
+ ee z2 z2 (3:2:2z2 _e | e2 z2 z2 z _e | eeee z4 :|"Am" z EED E2 DE- | E2 z2 z4 | z EEE G2 GE- | %25
+w: |||She came from Plan et Claire|_|I knew she came from there|
+ E2 z2 z4 | z EED E2 (3DDG- | GG- G<E- E2 z2 | z2 GG G2 GG- | GG E2- E3 D- |"E9" E2 z2 GEAG | %31
+w: _|She drove a Ply mouth _ Sat|_ tel lite lite _|Fast er than the speed|_ of light _ _|_|
+ EE^FE GEAG | EE^FE GEAG | EE^FE GEAG | z2 EE E2 E2- | E2 E>E- E2 z2 | z2 GG G2 GE- | E2 z2 z4 | %38
+w: |||Plan et Claire has|_ pink air _|All the trees are red|_|
+ z2 EE E E2 E- | E2 E2 z4 | (3:2:2z G2 GG- G2 GE- | E4 z4 |"Am" z2 E2 EEDE- | E2 z2 z4 | %44
+w: No one ev er dies|_ there|No one has _ a head|_|Some say she's from Mars|_|
+ z2 E2 EE E2 | GGzE- E2 E2 | G4 G2 G2 | G2 G2 G2 GG- | GE- E4 z2 | z4 z B2 B |"E9" BBzE GEAG | %51
+w: Or one of the|sev en stars _ that|shine at Three|thir ty in the morn|_ ing _|"WELL SHE|IS N'T!" * * * * *|
+ EE^FE GEAG | EE^FE GEAG | EE^FE GEAG | z2 E2 E2 E2 | D E2 E- E4 | z2 E2 E2 E2 | D E2 E- E4 | %58
+w: |||She came from|Plan et Claire _|She came from|Plan et Claire _|
+ z2 E2 E2 E2 | D E2 E- E4 | z2 E2 E2 E2 | D E2 E- E4 | e8- | e4- e2 _e2- | d8- | d4 z2 _d2 | %66
+w: She came from|Plan et Claire _|She came from|Plan et Claire _|Aah|_ _ _||* Aah|
+ c4- c2 _d2 | d6 _e2 | e8 | B8 | _B8 | A8 | B8 | _B8 | A8 | B6- B_e | !^!e2 z2 z2 z2 | z8 |] %78
+w: _ _ _||||Aah|_|||||||
+

@@ -1,0 +1,25 @@
+X:1
+T:OH HEIDEROOSJE
+T: Laukens Music Productions  
+T:Tango
+T:OH HEIDEROOSJE
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ c e c |"F" B2 A2- | A d c A |"C" G4- | G G B3/2 A/ |"G7" G2 F2- | F E/F/ A B |"C" c4- | c z z2 |: %9
+"C" G3/2 G/ G G | c3/2 c/ c c | c3/2 B/"Cdim" A c |"G7" B4 | F3/2 F/ F F | B3/2 B/ B B | %15
+ B3/2 A/"G+" G B |"C" A4 | G3/2 G/ G G | c3/2 c/ c c |"C7" d3/2 c/ B c |"F" A4 | c3/2 A/ A c | %22
+"C" c3/2 G/ G c |"G7" c B A B |"C" c z c2 | e2 c2 ||"F" B2 A2- | A d c A |"C" G4- | G G B3/2 A/ | %30
+"G7" G2 F2- | F E/F/ A G |"C" E4- | E c e c |"F" B2 A2- | A d c A |"C" G4- | G G B3/2 A/ | %38
+"G7" G2 F2- | F E/F/ A B |"C" c4- | c"G7" G"C" c!fine! z :| %42
+

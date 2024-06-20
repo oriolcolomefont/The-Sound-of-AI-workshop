@@ -1,0 +1,26 @@
+X:1
+T:Mi Casa, Su Casa
+T:Mi Casa, Su Casa
+C:Dick Manning
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" G2 E2 E2 |"Cmaj7" G2 E2"C7" E2 |"F" c2 c3 B | (3BcB A4 |"G7" B2 B3 c | d2 B3 A |"C" (3ABA G4- | %7
+w: Mi ca- sa,|su ca- sa,|My house is|yo- u- r house.|Wel- come to|my ha- ci-|en- * * da|
+"G" G2"Adim" z2"G7" z2 |"C" G2 E2 E2 |"Cmaj7" G2 E2"C7" E2 |"F" c2 c3 B | (3BcB A4 |"G7" B2 B2 c2 | %13
+w: _|Mi ca- sa,|su ca- sa,|My home is|yo- u- r home,|I'll give you|
+ d2 c2 B2 |"C" (3ded c4- |"C7" c4 C2 |"F" c3 B cd | c4 A2 |"C" G3 ^F GA | G4 ^FG |"G7" B2 A2 G2 | %21
+w: love, warm and|ten- * * der.|_ My|house is noth- ing|more than|win- dows and a|door, And a|roof that will|
+ (3FGF E2 F2 |"C" A2 G4- |"C7" G4 C2 |"F" c3 B cd | c4 A2 |"C" G3 ^F GA | G6 |"D" A2 A2 A2 | %29
+w: keep * * out the|rain. _|_ The|day you say your|mine, my|hum- ble house will|shine,|Just like a|
+ A2 B2 c2 |"G7" d6- | d4 z2 |"C" G2 E2 E2 |"Cmaj7" G2 E2"C7" E2 |"F" c2 c3 B | (3BcB A4 | %36
+w: cas- tle in|Spain.|_|Mi ca- sa,|su ca- sa,|My house is|your * * house.|
+"G7" B2 B3 c | d2 B3 A |"C" (3ABA G4- |"G" G2 z2 z2 |"C" G2 E2 E2 |"Cmaj7" G2 E2"C7" E2 | %42
+w: Let's plan the|fu- ture to|geth- * * er.|_|Tell me, Oh,|tell me that|
+"F" c2 c3 B | (3BcB A4 |"G7" B2 B2 c2 | d2 c2 B2 |"C" (3ded c4- | c4 z2 |] %48
+w: your heart is|my * * heart|and I will|love you for-|ev- * * er.|_|
+

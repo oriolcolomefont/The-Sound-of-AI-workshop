@@ -1,0 +1,39 @@
+X:1
+T:Little Girl Blue
+T:Little Girl Blue
+T:from "Jumbo"
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"F" F F2 F |"Bb" A A"C7" G G |"F" F F2 F |"F7b9" d4 |"Bb" F F2 F |"Bbm6" c4 |"F" F F2 F | %7
+w: Sit there and|count your fin- gers,|what can you|do?|Old girl, you're|through.|Sit there and|
+w: Sit there and|count the rain drops|fal- ling on|you.|It's time you|knew|all you can|
+"D7" B A"G7" G F |"C7sus4" C C2 C |"C7" B, C D/D/ E |1"F""Bb" F4- |"Gm" F2"C7" z2 :|2"F" F4- | %13
+w: count your lit- tle|fin- gers, un-|luck- y lit- tle girl|blue.||blue.|
+w: count on are the|rain drops that|fall on lit- tle girl||||
+ F c C"Bdim" D ||"C7" E3 c | C D E G |"F" A A2 c | A c A c |"A7sus4" A A2"A7" ^c | A ^c A c | %20
+w: * No use, old|girl, you|may as well sur-|ren- der. Your|hope is get- ting|slen- der. Why|won't some- bod- y|
+w: |||||||
+"Dm" A2"D+7" B2 |"G7" G2"Bbm" A2 |"F" F"F+" F2 F |"Bb" A A"C7" G/A/ G |"F" F4- | F3 z || %26
+w: send a|ten- der|blue boy to|cheer up lit- tle girl|blue.||
+w: ||||||
+[M:3/4]"^Trio" z/"F" C/ D/E/ F/A/ |"Gm7" c3- |"C7" c/>B/ ^F3/2 G/ |"F" B A3/2 =F/ | C2 C | %31
+w: When I was ve- ry|young|* the world was|young- er than|I, as|
+w: |||||
+"C7" E3/2 C/ E- | E/>C/ G3/2 C/ |"F" A3- | A/C/ D/E/ F/A/ |"Gm7" c3- |"C7" c/>B/ ^F3/2 G/ | %37
+w: mer- ry as|* a car- ou-|sel.|* The cir- cus tent was|strung|* with ev- ry|
+w: ||||||
+"F" B A3/2 =F/ | C2 C |"C7" E3/2 C/ E- | E/>C/ G3/2 C/ |"F" F3- | F2 z |"Dm7" A A A | A A A | %45
+w: star in the|sky a-|bove the ring|* I loved so|well.||Now the young|world has grown|
+w: ||||||||
+"Gm7" F3- | F3 |"F" A A A | A A A |"C7" C3- |"^D.S al Fine" C3 |] %51
+w: old.||Gone is the|sil- ver and|gold.||
+w: ||||||
+

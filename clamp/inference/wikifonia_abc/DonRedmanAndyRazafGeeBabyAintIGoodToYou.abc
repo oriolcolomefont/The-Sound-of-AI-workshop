@@ -1,0 +1,26 @@
+X:1
+T:Gee Baby, Ain't I Good To You
+T:Gee, Baby Ain't I Good To You
+C:Don Redman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C7" c2- (3cGA"Ab7" B E2 F |"G7" G2- (3GA^F"C9""C7b9" G4 | %2
+w: Love * makes me treat you the|way * that I do.|
+"F7" _G2"F7b5" G/E z/"Bb9" (3_GGF-"Bb7" F>E |"Eb6" E4 z"G7" G3 |"C7" c2- (3cGA"Ab7" B E2 F | %5
+w: Gee, ba- by ain't I good * to|you! There's|noth- * in' too good for a|
+"G7" G2- (3GA^F"C9""C7b9" G4 |"F7" _G2"F7b5" G/E"Bb9" z/ (3_GGF-"Bb7b9" F>E |"Eb7" E6 z2 | %8
+w: girl * that's so true|Gee, bab- y ain't I good * to|you!|
+"A6" z3/2 F/ (3F=EF"Adim7" (3F_E_G- GF |"Eb/Bb" z3/2 ^F/ (3GcB-"Eb9" B4 | %10
+w: Bought you a fur coat for Christ- * mas,|a dia- mond ring, *|
+"Ab9" z3/2 c/ (3_GGG"Adim7" G4 |"Fm7b5" z3/2 F/"Ab6" (3FED-"G7" D4 |"C7" c2- (3cGA"Ab7" B E2 F | %13
+w: a Cad- il- ac car,|an' ev- 'ry- thing. *|Love * makes me treat you the|
+"G7" G2- (3GA^F"C9""C7b9" G4 |"F7" _G2"F7b5" G/E z/"Bb9" (3_GGF-"B7b9" F>E |1 %15
+w: way * thatI I do|Gee, bab- y ain't I good * to|
+"Eb" E4"Ab" z2"G7" z2 :|2"Eb" E4 z4 |] %17
+w: you!|you!|
+

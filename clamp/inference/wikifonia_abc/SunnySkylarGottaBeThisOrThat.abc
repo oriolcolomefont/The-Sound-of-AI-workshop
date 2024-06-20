@@ -1,0 +1,30 @@
+X:1
+T:Gotta Be This Or That
+T:Gotta Be This Or That
+C:Sunny Skylar
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gmaj7" B,D E2 F4- | F2 EB, B,4 |"E7" B,D E2 F4- | F2 EB,- B,4 |"Am7" EG A2 B4- | %5
+w: If you ain't wrong,|_ you're right, _|if it ain't dark,|_ it's light, _|if you ain't sure,|
+"F7" B2 A_E- E4 |"Am7" ^AB G2"D7" G2 GG- |"Gmaj7" G4"Am7""D7" z4 |"Gmaj7" B,D E2 F4- | %9
+w: _ you might, _|got- ta be this or that.|_|If it an't full,|
+ F2 EB,- B,4 |"E7" B,D E2 F4- | F2 EB,- B,4 |"Am7" EG A2 B4- |"F7" B2 A_E- E4 | %14
+w: _ it's blank, _|if you don't spend,|_ you bank, _|if it and Bing,|_ it's Frank, _|
+"Am7" ^AB G2"D7" G2 GG- |"Gmaj7" G6 ^A2 ||"G7" B G2 =A- A3 G | B G2 =A- A3 G |"Cmaj7" E2 G2 B2 A2 | %19
+w: got- ta be this or that.|_ Who|can it be _ if|it ain't me? _ I|know it's not your|
+ E G3- G4 |"A7" ^c A2 B- B3 A | ^c A2 B B4 |"Am7" d2 =c2 E2 GB- |"D7" B A3- A4 || %24
+w: broth- er. _|Can't you see _ it's|got- ta be _|one way or the oth-|* er. _|
+"Gmaj7" B,D E2 F4- | F2 EB,- B,4 |"E7" B,D E2 F4- | F2 EB,- B,4 |"Am7" EG A2 B4- | %29
+w: Tell me what I|_ must know, _|if you don't like,|_ I'll go, _|if it ain't yes,|
+"F7" B2 A_E- E4 |1"Am7" ^AB G2"D7" G2 GG- |"Gmaj7" G4"Am7""D7" z4 :|2"Am7" ^AB G2"D7" G2 GG- | %33
+w: _ it's no _|got- ta be this or that.|_|got- ta be this or that.|
+"Gmaj7" G4 z4 |] %34
+w: _|
+

@@ -1,0 +1,13 @@
+X:1
+T:Megkötöm lovamat
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ dd AA | d d3 | e3 d | cd cA- | A2 z2 | d3 c | AF GA | cA FG | D4 | D2 z2 |] %10
+w: Meg- kö- töm lo-|va- mat|Szo- mo-|rú fűz- fá- hoz,||Le- haj-|tom fe- je- met|két el- ső lá-|bá-|hoz.|
+

@@ -1,0 +1,41 @@
+X:1
+T:Moonlight Serenade
+T: Laukens Music Productions  
+T:Slow Fox
+T:MOONLIGHT SERENADE
+T:Arr. H. Laukens
+C:Glenn Miller
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=190
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/4
+V:1
+ ^C2 |"F" D6- (3DEF |"Fdim" D6- (3DEF- |"Gm7" D2- (3DEF D2- (3DEF |"C7" ^F2 G4 ^G2 | %5
+"Fmaj7" A6-"F6" (3ABc | A6-"F" (3ABc |"Fmaj7" A2- (3ABc"F7" A2- (3ABc |"D7" d2 ^F4"Gm" G2 | %9
+"F" c2 E4 F2 |"Gdim" B2 ^C4"Gm7" D2 |"C7" A2 A2 c3 c |"Fmaj7" A6"C7" ^C2 |"F" D6- (3DEF | %14
+"Fdim" D6- (3DEF |"Gm7" D2- (3DEF D2- (3DEF |"C7" ^F2 G4 ^G2 |"Fmaj7" A6-"F6" (3ABc | %18
+ A6-"F" (3ABc |"Fmaj7" A2- (3ABc"F7" A2- (3ABc |"D7" d2 ^F4"Gm" G2 |"F" c2 E4 F2 | %22
+"Gdim" B2 ^C4"Gm7" D2 |"C7" A2 A2 c3 c |"Fmaj7" c8 |:"Bbmaj7" AA A4"Bb6" G2 |"Bbm6" cc c4 B2 | %27
+"Em7" A4"A7" (3E2 F2 G2 |"Cm6" A6"D7" B2 |"Dm6" =BB B4"E7" E2 |"Esus4" ee e4"E7" d2 | %31
+"Cm6" (3c2 c2 c2"D7" ^F4 |"Gm7" (3B2 B2 B2"C7" E2 ^C2 |"F" D6- (3DEF |"Fdim" D6- (3DEF | %35
+"Gm7" D2- (3DEF D2- (3DEF |"C7" ^F2 G4 ^G2 |"Fmaj7" A6-"F6" (3ABc | A6-"F" (3ABc | %39
+"Fmaj7" A2- (3ABc"F7" A2- (3ABc |"D7" d2 ^F4"Gm" G2 |"F" c2 E4 F2 |"Gdim" B2 ^C4"Gm7" D2 | %43
+"C7" A2 A2 c3 c |1"Fmaj7" c8 :|2"Fmaj7" A4"Gb9" _A4 ||"F6" G8 |] %47
+V:2
+ x | x4 | x4 | x4 | x4 | E2 D2 | D2 C2 | E2 _E2 | D2 z2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %17
+ E2 D2 | D2 C2 | E2 _E2 | D2 z2 | x4 | x4 | x4 | E2"F7" _E2 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | %32
+ x4 | x4 | x4 | x4 | x4 | E2 D2 | D2 C2 | E2 _E2 | D2 z2 | x4 | x4 | x4 |1 E2"F7" _E2 :|2 x4 || %46
+ x4 |] %47
+

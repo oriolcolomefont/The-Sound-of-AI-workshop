@@ -1,0 +1,29 @@
+X:1
+T:Moonglow
+T:Moonglow
+T:Eddie DeLange, Irving Mills, Will Hudson
+T:Eddie DeLange, Irving Mills, Will Hudson
+C:Eddie DeLange, Irving Mills, Will Hudson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=1
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""_Smoothly" z2 z E GE G2 |"Cm" B2 B6 |"G" z2 z E GE G2 |"A" B8 |"Am7" z2 z E GE G2 |"D" B2 B6 | %6
+w: It must have been|Moon- glow,|way up in the|blue,|it must have been|Moon- glow|
+"G" z G3"Eb" G2 G2 |"Am7" G2"Eb" G"G"G- G4 |"C" z2 z E GE G2 |"Cm" B2 B6 |"G" z2 z E GE G2 | %11
+w: that led me|straight to you; *|I still hear you|say- ing,|"Dear one, hold on|
+"A7" B8 |"Am7" z2 z E GE G2 |"D7" B2 B6 |"G" z G3"Eb7" G2 G2 |"Am7" G2"Eb" G"G"G- G4 |"G" d8- | %17
+w: fast."|And I start in|pray- ing|oh Lord, please|let this last, *|We|
+ d2 dd"F#" ^cc"F"=cc |"E" B8- | B8 |"A" BBBB- B4- | B4 ^CEGB |"D" B6"Eb" _B2 |"D" A8 | %24
+w: * seemed to float right thru the|air,||heav- en- ly songs *|* seemed to come from|ev- 'ry-|where;|
+"C" z2 z E GE G2 |"Cm" B2 B6 |"G" z2 z E GE G2 |"A7" B8 |"Am7" z2 z E GE G2 |"D7" B2 B6 | %30
+w: And now when there's|Moon- glow|way up in the|blue,|I al- ways re-|mem- ber|
+"G" z G3"Eb7" G2 G2 |"Am7" G2"Eb" G"G"G- G2 z2 |] %32
+w: that Moon- glow|gave me you. *|
+

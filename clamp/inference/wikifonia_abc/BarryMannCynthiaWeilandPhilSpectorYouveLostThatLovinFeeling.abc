@@ -1,0 +1,55 @@
+X:1
+T:You've Lost That Lovin' Feeling
+C:Barry Mann, Cynthia Weil and Phil Spector
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="MELODY" snm="MELODY"
+%%MIDI program 54
+V:1
+"C7" z4 z G, CF |"Fmaj7" E2 C_B,-"Bb " B,2 CF |"Fmaj7" E2 CC"Bb " _B,3 F |"C " G/F/E- E6 | %4
+w: You ~ne- ver|~close ~your ~eyes * a\- ny|more when ~I kiss your|li- p\- s, *|
+"C7" z4 z C Gc- |"Bb " c_B AG- G2 Cc- | c_B- BA (3A2 G2 F2 |"C " G/F/E- E6 | z4 z G AB | %9
+w: and ~there's ~no|* ten- der- ness * like be-|* fore * in your fin- ger|ti- p\- s. *|You're ~try- in'|
+"Dmin7" c2 Bc"G " BG- G2 |"Emin7" E2 G4 z G |"Fmaj7" e2"Dmin" d4 z2 | %12
+w: ~hard not ~to ~show it *|(Ba- by) But|~ba- by,|
+"Fmaj7" (3e2 d2 c2"G " (3e2 d2 c2 |"C " z2 cc- cc- cd- |"Dmin" d2 A d2 A3 |"G7" z4 BA Bc- | %16
+w: ~Ba- by I know i\- t.|You've ~lost * that * ~lov-|* in' ~feel- ing,|Who- a, ~that ~lov-|
+"C " c2 c c2 G3 | z4 cB- Bc |"Dmin" f2 e d2 c dc |"Bb " _B4"F " A4 |"G " G4"G7" FG FE- | %21
+w: * in' ~feel- ing,|You've lost * that|lov- in' feel- ing, now ~it's|~gone... ~gone...|~gone... Wo- o\- o\- ooh.|
+"C " E6 z2 |"C7" z4 z G, CF |"Fmaj7" EC- C_B,-"Bb " B,2 B,F |"Fmaj7" E2 CC"Bb " _B,3 F | %25
+w: |Now ~there's ~no|~wel- come * look * in ~your|~eyes when ~I reach for|
+"C " G/F/E- E6 |"C7" z4 z C Ec |"Bb " _BA- AG- G2 Cc | _B2 AA G3 F |"C " G/F/E- E6 | z4 z G AB | %31
+w: y\- o u. *|And ~girl ~you're|~start- ing * ~to * cri- ti-|cize lit- tle things ~I|~d- \- o. *|It ~makes me|
+"Dmin7" c2 dc"G " B G3 |"Emin7" E2 G4 z G |"Fmaj7" e2 d/c/A-"Dmin7" A2 Ac | %34
+w: just feel ~like ~cry- in'|~(ba- by) Cause|~ba- b\- \- y, * some- thing|
+"Fmaj7" (3e2 d2 c2"G " (3e2 d2 c2 |"C " z2 cc- cc- cd- |"Dmin" d2 d d2 A3 |"G7" z4 BA Bc- | %38
+w: beau- ti- ful's ~dy- \- in'|You've ~lost * that * ~lov-|* in' ~feel- ing,|Who- a ~that ~lov-|
+"C " c2 c c2 G3 | z4 cB- Bc |"Dmin" f2 e d2 c dc |"Bb " _B4"F " A4 |"G " G4"G7" FG FE- | %43
+w: * in' ~feel- ing|You've lost * that|lov- in' feel- ing, now ~it's|~gone... ~gone...|~gone... Wo- o\- o\- ooh.|
+"C ""F " E6 z2 |"G ""F " z8 |"C " z2 cc"F " BB z2 |"G " z A AA"F " BA GF | %47
+w: ||Ba- by, ~ba- by,|~I'd ~get ~down on ~my ~knees for|
+"C " G/F/E-"Fmaj7" E4 z2 |"G ""F " z8 |"C " z e ee"F " ff- fg- |"G " gg/e/ c2"F " cc dc | %51
+w: ~y- o\- u. *||If ~you ~would ~on- ly * love|* m\- \- e like you used to|
+"C " d/e/g-"F " g4 z a |"G " e/d/c-"F " c4 z2 |"C " z c cc"F " c2 z c |"G " B3 B"F " (3ccc (3ccc | %55
+w: d\- \- o, * oh,|ye- a\- h. *|We ~had ~a ~love... ~a|~love... ~a ~love you don't find ev 'ry-|
+"C " c/B/A"Fmaj7" G4 z2 |"G " z4"Fmaj7" z2 z G |"C " c2 z2"F " c2 z2 |"G " d2 z2"F " cc/c/ cc | %59
+w: ~da- \- \- y,|So|don't... don't...|don't... don't let it slip a\-|
+"C " c/A/G-"Fmaj7" G4 z2 |"G " z4"F " z2 cd |"C " e2 e/d/c"Fmaj7" f2 g2 |"G " ed d2"Fmaj7" e2 dc | %63
+w: w\- a\- y. *|O\- h,|ba- b\- \- y (ba- by),|ba- b\- y (ba- b\- y),|
+"C7" e/d/c g2"F7" f_e- e2 |"Gmin" e/d/c g2"F7" f_e- ed |"C " e/d/c z2"Fmaj7" z e dc | %66
+w: Ple- a\- se (Please, Ple- ase), *|Ple- a\- se (Please, Ple- ase), * I|need your love, I need your|
+"G " d2 z2"Fmaj7" z c e/e/e |"C " c2 (3fff"Fmaj7" g2 e/e/e |"C " e/d/c (3fff"G7" g4 | %69
+w: love. So bring it on|back (bring it on back), bring it on|ba \- ck) (bring it on back),|
+"C " z2 cc- cc- cd- |"Dmin" d2 A d2 A3 |"G7" z4 BA Bc- |"C " c2 c c2 G3 | z4 (3c2 B2 c2 | %74
+w: Bring back * that * ~lov-|* in' ~feel- ing,|Who- a, that ~lov-|* in' ~feel- ing,|Bring ~back ~that|
+"Dmin" fe- ed- dc dc |"Bb " _B4"F " A4 |"G " G4"G7" FG FE- |"C " E6 z2 |"G7" z8 | %79
+w: ~lov- in' * feel- * ing cause it's|gone... ~gone...|~gone... Wo- o\- o\- ooh.|||
+"C " z2 cc- cc- cd- |"Dmin" d2 d d2 A3 |"G7" z4 BA Bc- |"C " c2 c c2 G3 | z4 (3c2 B2 c2 | %84
+w: Bring ~back * that * ~lov-|* in' ~feel- ing,|Who- a that ~lov-|* in' ~feel- ing,|Bring ~back ~that|
+"Dmin" fe- ed- dc dc |"Bb " _B4"F " A4 |"G " G6"Gmin" GA |"Bb " _B4"F " A4 |"G " G4"G7" FG FE- | %89
+w: ~lov- in' * feel- * ing cause it's|/Now- ~it's-|~gone... /And- ~I-|~can't- ~go-|~on,- /W- o\- o\- o\-|
+"C " E3 D C4- | C8 |] %91
+w: * o\- ooh.||
+

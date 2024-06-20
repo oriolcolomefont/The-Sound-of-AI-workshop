@@ -1,0 +1,19 @@
+X:1
+T:Le P'tit Quinquin
+C:Alexandre Desrousseaux
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"C""^A" cG GG | cG GG | cG"G7" GF |"C" E4 |"Am" CD EF |"C" G2 G2 |"F" AA"G7" BB |"C" c4!fine! || %8
+w: "Dors, Min p'tit quin-|quin, Min p'tit pou-|chin, Min gros ro-|jin|Te m'fras du cha-|grin, Si|te n'dors point qu'à|d"main."|
+"F""^B" cd cA |"C" G2 G2 |"G7" G3 F |"C" E2 E2 |"Am" EG FE |"Dm" D2 D2 |"G7" D3 C |"C" C4 | %16
+w: Ain- si, l'au' jour,|eun pauv'|din- tel-|liè- re,|In a- mi- clo-|tant sin|p'tit gar-|chon.|
+"F" cd cA |"C" G2 G2 |"G" G3 A |"C" E2 E2 |"Em" E^F GA |"G" B2 B2 |"D7" B3 A |"G" G4 |"G7" dF FF | %25
+w: Qui d'puis tros quarts|d'heu- re,|n'fai- jot|qu'brai- re,|Tâ- chot d'lin- dor-|mir par|eun' can-|chon|Ell' li di- jot:|
+"C" AG GG | cE EE |"G7" GF FF |"C" EG FE |"G7" D^C DE | FE FF | G4 :| %32
+w: Min Nar- cis- se,|Dm'ain, t'a- ras du|pain n'é- pi- ce|Du chuc à go-|go, Si t'es sache|et qu'te fais do-|do!-|
+

@@ -1,0 +1,26 @@
+X:1
+T:Green Green
+T:Green  Green
+T:Barry McGuire, Randy Sparks,
+T:Arranged by Chris Langdon
+C:Barry McGuire, Randy Sparks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+|: z2"C" e2 c3 G |"F" A c2"C" c- c2 GG |"F" A2 c2"C" c c2 d- |"G7" d4 z4 |"C" z2 e2"C7" c3 G | %5
+w: Green green its|green they say * on the|far side of the hill||green green I'm|
+"F" Acc"C"c- cGGG |"F" A2 c2"G7" d d2"C" c- | c z2 z2 ccc ||"C" c2 c2"Em" BBBB | %9
+w: go- in a- way * to where the|grass is green- er still|* Oh well I|told my ma- ma on the|
+"F" AAAG-"C" G2 GG |"Am" C2 CC"G" D D2 E- |"C" E4- Ecc"C"c | c2 c2"Em" BBBB |"F" AAAG-"C" GG G2 | %14
+w: day I was born * don- cha|cry when you see I;m gone|* * you know there|aint no wo- man gon- na|set- tle me down * I just|
+"F" CC C2"G7" DCDC- |"C" C4 z CDC- :|"C" C2 ^^GG GG G2 :|"C" C4 z4 :|"C" C2 ^^GG GG G2 | %19
+w: got- ta be tra- vel- ling on|* A sing- in|* hear me cry- in its,a||* Ev- ry- bo- dy now|
+"C" z2 e2 c3 G |"F" A c2 c-"C" c2 GG |"F" A2 c2"C" c c2 d- |"G7" d4 z4 | z2"C" e2"C7" c3 G | %24
+w: green grass its|green they say * on the|far side of the hill||green green I'm|
+"F" Acc"C"c- cGGG |"F" A2 c2"G7" d d2"C" c- | c4 z GGG |"F" A2 c2"G7" d d2 c- |"C" c4- c2 z2 |] %29
+w: go- in a way * to where the|grass in green- er still|* to where the|grass is green- er still.||
+

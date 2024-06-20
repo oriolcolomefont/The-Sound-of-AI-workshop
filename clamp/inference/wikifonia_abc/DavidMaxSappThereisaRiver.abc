@@ -1,0 +1,57 @@
+X:1
+T:There is a River
+T:There Is A River
+T:David & Max Sapp, 1969
+C:David & Max Sapp
+Z:All Rights Reserved
+L:1/4
+Q:1/4=80
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z3 | C"F" A2 | A"Bb/F" B2 |"F" A"Gm/F" G"F" F- | F2 C/F/ | A2 A | %11
+w: ||||||there came|a sound|from hea ven|_ like a|migh ty|
+"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D2 F |"C7" G3 | G G2 |"Bb/C" F E"C7" E- | E2 C |"C" E2"Bb/C" F | %19
+w: rush ing|wind|_ it|filled|their hearts|with glad ness|_ and|gave them|
+"C7" E2"C9" D |"F" C3- |"C7" C2 C |"F" A3 | A"Bb/F" B2 |"F" A"Gm/F" G"F" F- | F2 C | A2 A | %27
+w: peace with|in|_ the|pro|phet gave|this prom ise|_ the|Spir it|
+"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D2 G |"C7" G2 G | G2"Bb/C" F | F"C7" E2 |"Bb/C" D"C7" C2 | %34
+w: will des|cend|_ and|from your|in ner|be ing|a riv|
+"Bb/F" B"C6" A2 |"C7" G"F" F2- | F3 |"F" A3 |"Bb/F" B2"F" A |"Gm/F" G"F" F2- | F2 C | A2 A | %42
+w: er with|no end|_|There|is a|riv er|_ that|flows from|
+"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D3 |"C7" G3 | G2"Bb/C" F | F"C7" E2- | E2"Bb/C" F |"C" E2"Bb/C" F | %50
+w: deep with|in|_|there|is a|foun tian|_ that|frees the|
+"C7" E2"C9" D |"F" C3- |"C7" C2 z |"F" A3 |"Bb/F" B2"F" A |"Gm/F" G"F" F2- | F2 C | A2 A | %58
+w: soul from|sin|_|come|to the|wa ter|_ there|is a|
+"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D3 |"C7" G3 | G2"Bb/C" F | F"C7" E2- | E2 D |"C7" C2"Bb/F" B | %66
+w: vast sup|ply|_|there|is a|riv er|_ that|nev er|
+"C6" A2"C7" G |"F" F3- | F3 | C/F/"F" A2 | A"Bb/F" B2 |"F" A"Gm/F" G"F" F- | F2 C/F/ | A2 A | %74
+w: shall run|dry|_|and there was|a thirst|y wo man|_ she was|draw ing|
+"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D2 F |"C7" G3 | G G2 |"Bb/C" F E"C7" E- | E2 C |"C" E2"Bb/C" F | %82
+w: from a|well|_ her|life|was wrecked|and ruin ed|_ her|soul was|
+"C7" E2"C9" D |"F" C3- |"C7" C2 z | C"F" A2 | A"Bb/F" B2 |"F" A"Gm/F" G"F" F- | F2 C/C/ | A2 A | %90
+w: bound for|hell|_|but then|she met|the mas ter|_ and he|told her|
+"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D2 G/G/ |"C7" G2 G | G"Bb/C" F G | F"C7" E2 |"Bb/C" D"C7" C2- | %97
+w: of her|sin|_ and he|said if|you'll drink this|wa ter|you'll nev|
+ C"Bb/F" B"C6" A- | A"C7" G F- |"F" F3- | F2 z | A3 | B2 A | G F2- | F2 C | A2 A | G2 F | D3- | %108
+w: _ er thirst|_ a gain|_||There|is a|riv er|_ that|flows from|deep with|in|
+ D3 | G3 | G2 F | F E2- | E2 F | E2 F | E2 D | C3- | C2 z | A3 | B2 A | G F2- | F2 C | A2 A | %122
+w: _|there|is a|foun tian|_ that|frees the|soul from|sin|_|come|to the|wa ter|_ there|is a|
+ G2 F | D3- | D3 | G3 | G2 F | F E2- | E2 D | C2 B | A2 G | F3- | F3 |"F" A3 |"Bb/F" B2"F" A | %135
+w: vast sup|ply|_|there|is a|riv er|_ that|nev er|shall run|dry|_|there|is a|
+"Gm/F" G"F" F2- | F2 C | A2 A |"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D3 |"C7" G3 | G2"Bb/C" F | %143
+w: riv er|_ that|flows from|God a|bove|_|there|is a|
+ F"C7" E2- | E2"Bb/C" F |"C" E2"Bb/C" F |"C7" E2"C9" D |"F" C3- |"C7" C2 z |"F" A3 | %150
+w: foun tain|_ that's|filled with|His great|love|_|come|
+"Bb/F" B2"F" A |"Gm/F" G"F" F2- | F2 C | A2 A |"Cm7" G2"F+" F |"Bb" D3- |"Gm7" D3 |"C7" G3 | %158
+w: to this|wat er|_ there|is a|vast sup|ply|_|there|
+ G2"Bb/C" F | F"C7" E2- | E2 D |"C7" C2"Bb/F" B |"C6" A2"C7" G |"F" F3- | F3 |"C7" G3 | %166
+w: is a|riv er|_ that|nev er|shall run|dry|_|there|
+ G2"Bb/C" F | F"C7" E2- | E2 D |"C7" C2"Bb/F" B |"C6" A2"C7" G |"F" F3- | F3 | z3 | z3 | z3 | z3 | %177
+w: is a|riv er|_ that|nev er|shall run|dry|_|||||
+ z3 |] %178
+w: |
+

@@ -1,0 +1,43 @@
+X:1
+T:Angel Baby
+T:Angel Baby
+T:Rosie Hamlin
+T:©
+T:Angel Baby
+T:2
+C:Rosie Hamlin
+Z:All Rights Reserved
+L:1/8
+Q:1/4=82
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" G"^Slow doo-wop ballad" G2 A"Am" B A3 |"F" A A2 G/A/"G7" A G3 |"C" G A2 G"Am" A E3 | %3
+w: It's just like heav- en|be- ing here with you. _|You're like an an- gel,|
+"F" F F2 G/A/"G7" A G3 |"C" G A2 G"Am" E C2 C |"F" C D2 G"G7" E4 |"C" C3 C"Am" E E3 | %7
+w: too good to be true. _|But af- ter all, _ I|love you, I do.|An- gel ba- by|
+"F" F2 GA"G7" A G3 |"C" G A2 G"Am" A E3 |"F" F F2 G/A/"G7" A G3 |"C" GGAG"Am" A E3 | %11
+w: my an- gel ba- by.|When you are near me,|my heart skips a beat. _|I can har- dly stand on|
+"F" F3 G/A/"G7" A G3 |"C" G A2 G"Am" E C2 C |"F" C D2 G"G7" E4 |"C" C3 C"Am" E E3 | %15
+w: my own two feet. _|Be- cause I love you, I|love you, I do.|An- gel ba- by,|
+"F" F2 GA"G7" A G3 |"C" c d2 c"Am" d d3 |"F" e d2 c"G7" d4 |"C" e2 ed"Am" c c3 |"F" c d2 c"G7" d4 | %20
+w: my an- gel ba- by.|Ooh, ooh, I love you,|ooh, ooh, I do.|No one could love you|like _ I do.|
+"C" (3GAB cd"Am" c4 |"F" e3 g"G7" e4 |:"C""Am""_Lead - Play repeat 3 times" z8 |"F""G7" z8 :| %24
+w: Ooh, _ _ ooh, ooh, ooh,|ooh, ooh, ooh.|||
+"C" G2 GA"Am" B A3 |"F" A3 G/A/"G7" A G3 |"C" GGAG"Am" A E2 E |"F" F F2 G/A/"G7" A G3 | %28
+w: Please ne- ver leave me|blue and a- * lone.|If you ev- er go, _ I'm|sure you'll come back home. _|
+"C" G A2 G"Am" E C2 C |"F" C D2 G"G7" E4 |"C" C3 C"Am" E E3 |"F" F2 GA"G7" A G3 | %32
+w: Be- cause I love you, I|love you, I do.|An- gel ba- by,|my an- gel ba- by.|
+"C" G A2 G"Am" A E3 |"F" F F2 G/A/"G7" A G3 |"C" GGAG"Am" A E2 E |"F" F F2 G/A/"G7" A G3 | %36
+w: It's just like heav- en,-|when I'm with you, dear. _|I could ne- ver stay _ a-|way with- out you near. _|
+"C" G A2 G"Am" E C2 C |"F" C D2 G"G7" E4 |"C" C3 C"Am" E E3 |"F" F2 GA"G7" A G3 | %40
+w: Be- cause I love you, I|love you, I do.|An- gel ba- by|my an- gel ba- by.|
+"C" c d2 c"Am" d d3 |"F" e d2 c"G7" d4 |"C" e2 ed"Am" c c3 |"F" c d2 c"G7" d4 | %44
+w: Ooh, ooh, I love you,|ooh, ooh, I do.|No one could love you|like _ I do.|
+"C" (3GAB cd"Am" c4 |"F" e3 g"G7" e4 |:"C" e3"^repeat and fade" g"Am" e4 |"F" e3 g"G7" e4 :| %48
+w: Ooh, _ _ ooh, ooh, ooh,|ooh, ooh, ooh,|ooh, ooh, ooh,|ooh, ooh, ooh,|
+

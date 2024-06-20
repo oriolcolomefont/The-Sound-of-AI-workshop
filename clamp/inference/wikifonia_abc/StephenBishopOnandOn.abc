@@ -1,0 +1,47 @@
+X:1
+T:On and On
+T:On and On
+T:Stephen Bishop
+T:Stephen Bishop
+T:All Rights Reserved
+C:Stephen Bishop
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z ECA,"Am" CCA,G, |"C" z E-EA,"Am" CCA,G, |"C" z E-EA,"Am" CCA,G, |"Dm7" z D-DA,"G7" G,4 | %4
+w: 1.~Down in Ja- mai- ca they've got|lots * of pret- ty wo- men,|Steal * your mo- ney then they|break * your heart.|
+"C" z E-EA,"Am" C-CA,G, |"C" EFG-G"Am" C3 C |"C" EECA,"Am" CCA,G, |"C" z C2 A,"Am" (CA,)EF | %8
+w: Lone- * some Sue, * she's in|love with ol' * Sam; She|take him from the fire in- to the|fry- ing pan, * On and|
+"Dm7" D6 A,G, |"G7" E2 D2 C2 (A,G,) |"C" z E2 E"Cmaj7" E2 EE |"C6" E2 E2"C" F2 G2 | %12
+w: on, She just|keeps on try- ing, *|And she smiles when she|feels like cry- ing,|
+"Dm7" E2 F D3 EF |"G7" D4- D E2 A, |"C""Am" C8 |"C""Am" z8 |"C" z E-E"Am"A, CCA,G, | %17
+w: On and on, on and|on, * on and|on.||2.~Poor * ol' Jim- my sits a-|
+"C" z EEA,"Am" C2 (A,G,) |"C" z E2 A,"Am" CCA,G, |"Dm7" z D-DA,"G7" G,2 G,G, | %20
+w: lone in the moon- light; *|Saw his wo- man kiss a-|no- * ther man, So he|
+"C" z E2 A,"Am" CCA,G, |"C" (3E2 F2 G2"Am" C4 |"C" z EEA,"Am" CC(CA,) |"C" z C-CA,"Am" CA,EF | %24
+w: takes a lad- der steels the|stars from the sky,|Puts on Si- na- tra and *|starts * to cry * On and|
+"Dm7" D6 A,G, |"G7" E2 D2 C2 (A,G,) |"C" z E2 E"Cmaj7" E2 EE |"C6" E2 E2"C" F2 G2 | %28
+w: on, He just|keeps on try- ing, *|And he smiles when he|feels like cry- ing,|
+"Dm7" E2 F D3 EF |"G7" D4 E2 A,2 |"C""Am" C8 |"C" z4"Am" z2 CC |"Am7" GG- G4 CC |"Em7" GG- G4 CC | %34
+w: On and on, on and|on, on and|on.|When the|first time * is the|last time, * It can|
+"Dm7" z G-GE"G7" C2 D2 |"C" (A, G,4) CCC |"Am7" G2 G4 C2 |"Em7" G2 G6 |"Dm7" D E3 F2 G2 | %39
+w: make * you feel so|bad, * But if you|know it, Then|show it;|Hold on tight, don't|
+"Dm7" A2 B2 c2 c2 |"C""Am" c8 |"C""Am" z6 A,G, |"C" z EEA,"Am" CCA,G, |"C" (3E2 F2 G2"Am" C4 | %44
+w: let her say good-|night.|3.~Got the|sun on my shoul- ders and my|toes in the sand.|
+"C" z EEA,"Am" CCA,G, |"Dm7" z D-DA,"G7" G,2 A,G, |"C" z E-EA,"Am" C2 A,G, |"C" (3E2 F2 G2"Am" C4 | %48
+w: My wo- man's left me for some|o- * ther man, Aw, but|I * don't care, I'll just|dream and stay tan;|
+"C" z EEA,"Am" C2 (A,G,) |"C" z CCA,"Am" (CA,)EF |"Dm7" D6 A,G, |"G7" E2 D2 C2 (A,G,) | %52
+w: Toss up my heart and *|see where it lands. * On and|on, I just|keep on try ing, *|
+"C" z E2 E"Cmaj7" E2 EE |"C6" E2 E2"C" F2 G2 |"Dm7" E2 F D3 EF |"G7" D4 E2 A,2 |"C""Am" C8 | %57
+w: And I smile when I|feel like dy- ing,|On and on, on and|on, on and|on.|
+"C" z4"Am" E2 F2 |"Dm7" D4 E2 F2 |"G7" D4 E2 C2 |"C""Am" C8 |"C" z4"Am" E2 F2 |"Dm7" D4 E2 F2 | %63
+w: On and|on, on and|on, on and|on.|On and|on, on and|
+"G7" G4 A2 B2 |"C" c8 |] %65
+w: on, on and|on.|
+

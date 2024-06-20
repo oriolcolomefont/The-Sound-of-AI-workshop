@@ -1,0 +1,32 @@
+X:1
+T:What's New
+T:What's New
+C:Bob Haggart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"G+7" B3 c- |"C6""Am7" c8 |"Bm7" z2 (3c_B_A"Eb7" GF"Eb7b9"E_E- |"Abmaj7""Fm7" E8 | %4
+w: What's new|_|How is the world treat- ing you?|_|
+"Dm7b5" z D _ED"G7b5" ^C2"G7" D2 |"Cm6""Am7b5" G8 |"Dm7b5" z F GF"G+7" _E2"G7" D2 | %7
+w: You have- n't changed a|bit;|love- ly as ev- er,|
+"C" DCCC-"Am7" C4 |"Dm7" z4"G+7" B3 c- |"C6""Am7" c8 |"Bm7" z2 (3c_B_A"Eb7" GF"Eb7b9"E_E- | %11
+w: I must ad- mit. _|What's new?|_|How did that ro- mance come through?|
+"Abmaj7""Fm7" E8 |"Dm7b5" z D _ED"G7b5" ^C2"G7" D2 |"Cm6""Am7b5" G8 | %14
+w: _|We have- n't met since|then,|
+"Dm7b5" z F GF"G+7" _E2"G7" D2 |"C" DCCC-"Am7" C4 |"Gm7" z4"C+7" e3 f- |"F6""Dm7" f8 | %18
+w: gee, but it's nice to|see you a- gain. _|What's new?|_|
+"Ebm7" z2 (3f_e_d"Ab7" c_BA_A- |"Dbmaj7""Bbm7" A8 |"Gm7b5" z G _AG"C7b9" ^F2 G2 |"Fm6""Dm7b5" c8 | %22
+w: Pro ba- bly I'm bor- ing you,|_|but see- ing you is|grand,|
+"Gm7b5" z _B cB"C7b9" _A2 G2 |"Fm6" GFCF- F4 |"Dm7b5" _AGDG-"G7" G2"Db9" B2 |"C6""Am7" c8 | %26
+w: and you were sweet to|of- fer your hand, _|I un- der- stand. * A-|dieu,|
+"Bbm7" z2 (3c_B_A"Eb7" GF"Eb7b9"E_E- |"Abmaj7""Fm7" E8 |"Dm7b5" z D _ED"G7b9" ^C2 D2 | %29
+w: par- don my ask- ing what's new,|_|of course you could- n't|
+"Cm6""Am7b5" G8 |"Dm7b5" z F GF"G7b9" _E2 D2 |"C" DCCC-"F9" C4- |"C" C6 z2 |] %33
+w: know|I have- n't changed, I|still love you so. _|_|
+

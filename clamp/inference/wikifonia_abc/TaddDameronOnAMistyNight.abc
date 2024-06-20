@@ -1,0 +1,22 @@
+X:1
+T:On A Misty Night
+T:On A Misty Night
+C:Tadd Dameron
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:S"Ebmaj7" d4"Gm7" B4 |"Cm7" G4"Gm7" F2"F#m7" =E"Fm7"_E- | E6 FG |"Fm9" z4 z2 FE- |"Db9" E6 FG- | %5
+"B9#5" G6"Bb9" AB- |"Gm7""C7b9" B8 |"Fm7" z4"Bb13b9" z4 |"Ebmaj7" d4"Gm7" B4 | %9
+"Cm7" G4"Gm7" F2"F#m7" =E"Fm7"_E- | E6 FG |"Fm9" z4 z2 FE- |"Db9" E6 FG- |"B9#5" G6"Bb9" DE- | %14
+"Eb6""Fm7""Bb7b9" E8- |"Eb6" E4 z4 ||"Bm7" z D (3^F=A=e"E7" ^A2 =B2 | %17
+"Bbm7" z _D (3=F_A_e"Eb7" =ABc_d |"Abmaj7" e4"Bbm7" bagf |"Cm7" e3"Bbm7" _d"Abmaj7" c4 | %20
+"Dbm7" z _F (3_A_c_g"Gb7" =c2 _d2 |"Cm7" z E (3=GBf"F7" =B2 c2 |"Fm7" e4- ef (3gab | %23
+"Bb7b9" _c'6 z2 ||"Ebmaj7" d4"Gm7" B4 |"Cm7" G4"Gm7" F2"F#m7" =E"Fm7"_E- | E6 FG | %27
+"Fm9" z4 z2 FE-!dacoda! ||"Db9" E6 FG- |"B9#5""Bb9" G6 DE- |"Eb6""C7" E8 | %31
+"Fm7" z4"Bb13b9" z4!D.S.! :|O"Db9" E6 FG- |"B9#5" G4"Bb9sus4" G2 A2 |"Ebmaj7" d4"Dbmaj7" c4 | %35
+"Bmaj7" ^A4"Bbm7" _A4 |"Abmaj7" _E4"Gb7" _D4 |"Fm7" C4"E9" =B,4 |"Ebmaj7" _B,8 |] %39
+

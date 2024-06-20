@@ -1,0 +1,21 @@
+X:1
+T:Armando's Rhumba
+T:Armando's Rhumba
+T:Chick Corea
+C:Chick Corea
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:none
+V:1 treble transpose=-2 nm="Trumpet in Bb" snm="Bb Tpt."
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:Amin] d_ez^c dezc | d3 A- A2 fd | A2 dA F2 AF | D2 z2 z2 d2 | d3 d- d2 z2 | z Adf a2 f2 | %6
+ ^g3 e- e4 | (3z2 g2 e2 g e2 f- | (3f2 _B2 A2 f2 z2 | z Adf a2 f2 | ^g3 e- e4 | %11
+ (3z2 g2 f2 e g2 f- | f3 d- d2 z2 | A2 ^FA c _B2 A | _B3 A B3 =B- | B3 _A z dzB | cBcd e2 z2 | %17
+ ^c3 d (3e2 d2 c2 | d ^c2 d- d e2 f- | f3 c- c4 | z2 z A ^G2 A2 | c_Bz^c- c3 G | _BGF_D A3 F | z8 | %24
+ z8 |] %25
+

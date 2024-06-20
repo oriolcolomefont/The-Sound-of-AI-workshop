@@ -1,0 +1,26 @@
+X:1
+T:Vem tar hand om hösten?
+T:Vem tar hand om hösten?
+T:Lars Göransson
+T:Lars Göransson
+C:Lasse Göransson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"D" F F G A |"Em" G G z z/ F/ |"A7" E E F G |"D" F2 z2 |"Bm" D D E F |"Em" E E B, D |"E7" D4 | %7
+w: Vem tar hand om|hös- ten när|vin- tern blå- ser|snål?|Vem tar hand om|vin- tern un- der|vå-|
+"A" C2 z2 |"D" F3/2 F/ G A |"Em" G G z G/F/ |"A7" E E A G |"D" F2 z z/ E/ |"Bm" D D E F | %13
+w: ren?|Vem tar hand om|vå- ren ef- ter|val- borgs- mäs- so-|bål och|vem tar hand om|
+"Em" E E B,3/2 D/ |"Asus4" (D2"A7" C2) |"D" D2 z z/ D/ |"Em" E E F G |"D" F F z z/ D/ | %18
+w: som- ma- ren och|få- *|ren? Jo,|ha- ren vak- tar|hös- ten när|
+"A7" E E A G |"D" F2 z z/ F/ |"E7" ^G G A B |"A" A B c A |"Esus4" (B3"E7" A) |"A" A2 z"A7" z/ G/ | %24
+w: vin- tern blå- ser|snål och|tom- ten vak- tar|som- ma- ren och|få- *|ren. Och|
+"D" F F G A |"Em" G G z G/F/ |"A7" E E A G |"D" F2 z z/ E/ |"Bm" D D E F |"Em" E E B, D | %30
+w: lär- kan skö- ter|vå- ren ef- ter|val- borgs- mäs- so-|bål och|her- den val- lar|som- ma- ren och|
+"Asus4" (D2"A7" C2) |"D" D3 z |] %32
+w: vå- *|ren.|
+

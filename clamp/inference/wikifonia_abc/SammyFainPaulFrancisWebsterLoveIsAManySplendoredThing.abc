@@ -1,0 +1,26 @@
+X:1
+T:Love Is A Many Splendored Thing
+T:Love Is A Many Splendored Thing
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb" e4- |"Cm" e c/d/ e c |"Gm" d3/2 B/ G2- | G2"Bbm7" A"Eb7" B |"Ab" c c"Abmaj7" c3/2 c/ | %5
+w: Love|* is a ma- ny|splen- dored thing|* It's the|Ap ril rose that|
+"Ab7" c c"Fm6" c B/A/ |"Cm" G3/2 E/ C2- | C2 D E |"Fm7" F F F F | F c2 E |"Dm7" D D D D | %11
+w: on- ly grows in the|ear- ly spring|* Love is|nat- ures way of|giv- ing A|rea- son to be|
+"G7" D A2 D |"Cm" E F"Cm7" G c |"D7" ^F G =A d |"G" d4- |"Bb7" d4 |"Eb" e4- | e"Cm" c/d/ e c | %18
+w: liv- ing The|gold- en crown that|makes a man a|king.||Once|* on a hihg and|
+"Gm" d3/2 B/ G2- | G2"Bbm7" A"Eb7" B |"Ab" c c"Abm7" c3/2 c/ |"Ab6" c c"Ab" c B/A/ | %22
+w: win- dy hill|* in the|morn- ing mist two|lov- ers kissed and the|
+"Gm7" G3/2 E/"C7" G2- | G2"Bbm7" F G |"Ab" A A"Fm" A A |"Fm/B" A G/A/"G+7" e d | %26
+w: world stood still.|* Then your|fing- ers touch- ed-|my sil- ent heart and|
+"Eb/C" A G"D" d"D7" c |"Fm7" e2-"Abm" e"Abdim" F |"Eb" G2"Cm" e2- |"Fm7" e3/2 e/ d/e/"Fm" c | %30
+w: taught it how to|sing * Yes|true love's|* a man- y splen-|
+"Fdim" d"Eb" e3- | e4 | z4 | z4 | z4 |] %35
+w: dored thing|||||
+

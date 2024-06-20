@@ -1,0 +1,40 @@
+X:1
+T:It's the Most Wonderful Time of the Year
+T:It's The Most Wonderful Time Of The Year
+C:Eddie Pola
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ z G A |:S"Eb" B3 |"Cm" B d c |"Fm7" B3- |"Bb7" B A F |"Eb" E3- |"Cm" E3 |"Fm7" z3 |"Bb7" z F G | %9
+w: It's the|most|won- der- ful|time|_ of the|year,|_||with the|
+w: |~2.~hap-|hap- pi- est|sea-|* son of|all,|_||with those|
+w: |3.~most|won- der- ful|time|_ of the|year,|_||there'll be|
+"Fm7" A F F |"Bb7" F G A |"Eb" B G G |"Eb7" G A B |"Ab" c A c | e3- |"Adim" e z z | z d c | %17
+w: kids jin- gle|bell- ing and|ev- 'ry- one|tell- ing you,|"Be of good|cheer."|_|It's the|
+w: hol- i- day|greet- ings and|gay hap- py|meet- ings, when|friends come to|call.|_|It's the|
+w: much mis- tle-|to- ing and|hearts will be|glow- ing when|loved ones are|near,|_|It's the|
+"Eb" B3 |"Cm" B d c!dacoda! |"Fm7" B3- |"Bb7" B A F |1"Gb" B3- || B3- |"Fm7" B3 |"Bb7" z G A :|2 %25
+w: most|won- der- ful|time|_ of the|year.|_||2.~~It's the|
+w: hap-|pi- est sea-||* son of|||||
+w: most|won- der- ful|||||||
+"Bbm7" _d3- ||"Eb7" d3- |"Bbm7" d3 |"Eb7" z _d d |"Abmaj7" c c c |"Adim7" c d c |"Gm7" B B B | %32
+w: all.|_||There'll be|par- ties for|host- ing, marsh-|mal- lows for|
+w: |||||||
+w: |||||||
+"Cm7" B e B |"Fm7" A A A |"Bb7" A c B |"Ebmaj7" G3 |"Eb6" z E E |"Abm7" _c c c |"Db7" _c _d c | %39
+w: toast- ing and|car- ol- ing|out in the|snow.|There'll be|scar- y ghost|stor- ies and|
+w: |||||||
+w: |||||||
+"Gbmaj7" B B B |"Ebm" B _c B |"Fm7b5" A A A | A _G A |"Bb7sus4" B3- | B3- |"Bb7" B3- | %46
+w: tales of the|glo- ries of|Christ mas es|long, long a-|go.|_||
+w: |||||||
+w: |||||||
+ B G A!D.S.! |]3O"Fm7" B3- ||"Bb7" B d f |"Eb6" e3- | e3 |] %51
+w: * 3.~~It's the|time|_ of the|year.||
+w: |||||
+w: |||||
+

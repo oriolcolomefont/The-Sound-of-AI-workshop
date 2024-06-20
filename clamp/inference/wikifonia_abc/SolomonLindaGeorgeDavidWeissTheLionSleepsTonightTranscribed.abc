@@ -1,0 +1,52 @@
+X:1
+T:The Lion Sleeps Tonight (Transcribed)
+C:Solomon Linda
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Alto Sax" snm="A Sax."
+%%MIDI channel 4
+%%MIDI program 65
+V:1
+"F " F2 G A2 G2 A |"Bb " B2 A G2 F2 G |"F " A2 C C2 C C2- |"C " C8 |"F " F2 G A2 G2 A | %5
+w: We- de- de- de- de-|de- de- de- de- de|We- um- um- a\- way||We- de- de- de- de-|
+"Bb " B2 A G2 F2 G |"F " A2 C C2 C C2- |"C " C4 z2 z3/2 C/ |"F " F>F F>F F>F F>F | %9
+w: de- de- de- de- de|We- um- um- a\- way|* A\-|wim- o\- weh, a\- wim- o\- weh, a\-|
+"Bb " B>B B>B B>B B>B |"F " F>F F>F F>F F>F |"C " C>C C>C C>C C>C |"F " F>F F>F F>F F>F | %13
+w: wim- o\- weh, a\- wim- o\- weh, a\-|wim- o\- weh, a\- wim- o\- weh, a\-|wim- o\- weh, a\- wim- o\- weh a\-|wim- o\- weh, a\- wim- o\- weh, a\-|
+"Bb " B>B B>B B>B B>B |"F " F>F F>F F>F F>F |"C " C>C C>C C>C C2 |"F " F2 (3:2:2G2 A- A G2 A | %17
+w: wim- o\- weh, a\- wim- o\- weh, a\-|wim- o\- weh, a\- wim- o\- weh, a\-|wim- o\- weh, a\- wim- o\- weh|In the jun- * gle, the|
+"Bbmaj7" B2 A G2 F2 G |"F " A2 G F2 A2 G- |"C " G4 z4 |"F " c2 A G2 A2 c |"Bbmaj7" B2 A G2 F2 G | %22
+w: migh- ty jun- gle, the|li- on sleeps to- night.||In the jun- gle, the|qui- et jun- gle, the|
+"F " A2 G F2 A2 G- |"C " G4 z4 |"F " c8 |"Bb " z B2 c2 B A>C |"F " z C2 C C4- |"C " C4 z4 | %28
+w: li- on sleeps to- night.||We-|de- de- de We- um-|um- a\- way||
+"F " c8 |"Bb " z B2 c2 B A>C |"F " z C2 C C4- |"C " C4 z4 |"F " F2 (3:2:2G2 A- A G2 A | %33
+w: We|de- de- de We- um-|um- a\- way||Near the vil- * lage, the|
+"Bbmaj7" B2 A G2 F2 G |"F " A2 G F2 A2 G- |"C " G4 z4 |"F " c2 A G2 A2 c |"Bbmaj7" B2 A G2 F2 G | %38
+w: peace- ful vil- lage, the|li- on sleeps to- night.||Near the vil- lage, the|qui- et vil- lage, the|
+"F " A2 G F2 A2 G- |"C " G4 z4 |"F " c8 |"Bb " z B2 c2 B A>C |"F " z C2 C C4- |"C " C4 z4 | %44
+w: li- on sleeps to- night.||We|de- de- de We- um-|um- a\- way||
+"F " c8 |"Bb " z B2 c2 B A>C |"F " z C2 C C4 |"C " z2 C2 E2 G2 | %48
+w: We|de- de- de We- um-|um- a\- way||
+"F " F2 (3:2:2c2 B (3:2:2A2 G (3:2:2F2 E |"Bb " D2 F2 B2 d2 | %50
+w: ||
+"F " c2 (3:2:2c2 B (3:2:2A2 G (3:2:2F2 F |"C " E2 C2 E2 G2 | %52
+w: ||
+"F " F2 (3:2:2c2 B (3:2:2A2 G (3:2:2F2 E |"Bb " D2 F2 B2 d2 | %54
+w: ||
+"F " c2 (3:2:2c2 B (3:2:2A2 G (3:2:2F2 F |"C " E6 z2 |"F " F2 (3:2:2G2 A- A G2 A | %57
+w: ||Hush my dar- * ling, don't|
+"Bbmaj7" B2 A G2 F2 G |"F " A2 G F2 A2 G- |"C " G4 z4 |"F " c2 A G2 A2 c |"Bbmaj7" B2 A G2 F2 G | %62
+w: fear my dar- ling, the|li- on sleeps to- night.||Hush my dar- ling, don't|fear my dar- ling, the|
+"F " A2 G F2 A2 G- |"C " G4 z4 |"F " c8 |"Bb " z B2 c2 B A>C |"F " z C2 C C4- |"C " C4 z4 | %68
+w: li- on sleeps to- night.||We|de- de- de We- um-|um- a\- way||
+"F " c8 |"Bb " z B2 c2 B A>C |"F " z C2 C C4- |"C " C4 z4 |"F " F2 G A2 G2 A |"Bb " B2 A G2 F2 G | %74
+w: We|de- de- de We- um-|um- a\- way||We- de- de- de- de-|de- de- de- de- de|
+"F " A2 C C2 C C2- |"C " C8 |"F " F2 G A2 G2 A |"Bb " B2 A G2 F2 G |"F " A2 C C2 C C2- |"C " C8 | %80
+w: We- um- um- a\- way||We- de- de- de- de-|de- de- de- de- de|We- um- um- a\- way||
+"F " F2 G A2 G2 A |"Bb " B2 A G2 F2 G |"F " A2 C C2 C C2- |"C " C8 |"Bb " d4 d4 | d8 |"F " f8- | %87
+w: We- de- de- de- de-|de- de- de- de- de|We- um- um- a\- way||Ah! We!|Ah!|Way!|
+"C " f8 |] %88
+w: |
+

@@ -1,0 +1,24 @@
+X:1
+T:Mister Sandman
+T:Mister Sandman
+C:Pat Ballard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Ab6" Aceg"Fm7" fecA |"Bbm7" Bdfa"Eb9" g4 |"Ab6" Aceg"Fm7" fecA |"Bbm7" Bdfa"Eb9" g2 EF |: %4
+w: |||* * * * * Mis- ter|
+"Abmaj7" GF- F2"Ab6" z4 |"G7" GGFG-"G/B" G2 z2 |"C9" z AAG"C7b9" AA z G |"F7" DDCD-"F+7" D2 z2 | %8
+w: samd- man *|bring me a dream, *|make her com plex- ion like|peach- es and cream. *|
+"Bb9" z GGF"Dm7b5" G2 z F |"Eb9" CCB,C-"Edim" CE- E2 |"Ab6" z BBA"Bdim" BABA | %11
+w: Give her two lips like|ros- es in clov- * ver, _|then tell her that my lone- some|
+"E7" =B2 B2"Eb7" c_B- B2 |"Abmaj7" GF- F2"Ab6" z4 |"G7" GGFG-"G/B" G2 z2 |"C9" z AAG"C7b9" AA z G | %15
+w: nights are ov- er. _|Sand man, _|I'm so a- lone, _|don't have no- bod- y to|
+"F7" D-DCD-"F+7" D2 z2 |"Bbm7" B,2 DF- FAAA |"Dbm6" B6 AB |"Ab6" c2 c2"Bbm11" cA c2 | %19
+w: call _ my own _|Please turn on _ your mag- ic|beam, Mis- ter|Sand- man bring me a|
+"Ab6" Aceg"Fm7" fecA |1"Bbm7" Bdfa"Eb9" g2 EF :|2"Bbm7" Bdfa"Eb9" g4- ||"Ab" g8 |] %23
+w: dream. * * * * * * *|* * * * * Mis- ter|||
+

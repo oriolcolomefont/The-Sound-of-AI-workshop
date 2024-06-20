@@ -1,0 +1,17 @@
+X:1
+T:Látod-e babám
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" G,2 G,G, | C C3 |"G" D2 DD | G G3 | FE DE |"C" D C3 | C2 z2 | z4!fine! :|"G" E2 F2 | G2 GG | %10
+w: Lá- tod- e|ba- bám,|lá- tod- e|ba- bám,|a- mott azt a|nagy he-|gyet?||Azt a|he- gyet a|
+"C" G2 C2 | E2 GG |"G" G2 D2 | E2 CC | B,2 A,2 | G,2 z2!D.C.! |] %16
+w: zseb- ken-|dõm- nek a|négy sar-|ká- val is|el- hor-|dom,|
+

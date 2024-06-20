@@ -1,0 +1,34 @@
+X:1
+T:There's Something About That Name
+T:There's Something About That Name
+C:Bill & Gloria Gaither
+Z:All Rights Reserved
+L:1/8
+Q:1/4=70
+M:3/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z6 | z6 |"Eb" B2 G4 |"Gm" B2 G4 |"Cm7" B6 |"Eb" G2 z2 GF |"Ab" EE- E3 E |"Abm6" F4 E2 |"Eb" G6- | %9
+w: ||Je sus|Je sus|Je|sus there's just|some thing _ a|bout that|name|
+"Abmaj7/Eb" G4 z2 |"Eb" B2 G4 |"Gm" B2 G4 |"Cm7" B6 |"Eb" G2 z2 GG |"F9" G2 G4 | G2"F7" F3 E | %16
+w: _|mas ter|sav ior|Je|sus like the|fra grance|af ter the|
+"Fm7" F6- | F4 z2 |"Eb" B2 G4 |"Gm" B2 G4 |"Bbm" B6 |"Eb7" G2 z2 GF |"Ab" EE- E3 E | %23
+w: rain|_|Je sus|Je sus|Je|sus let al|hea ven _ and|
+"Ab6" F4"Ab7" _G2 |"G7" G6- | G4 z2 |"Am/C" c4"Abm" _c2 |"C11" BG- G3 G |"F9" G4 FG | %29
+w: earth pro|claim|_|kings and|king doms _ will|all pass a|
+"F7" F2 z2 FG |"Fm7" AA- A3 B |"Bb7" G4 G2 |"Eb" E6- |"Ab" E4 z2 |"Eb" B2 G4 |"Gm" B2 G4 | %36
+w: way but there's|some thing _ a|bout that|name|_|Je sus|Je sus|
+"Cm7" B6 |"Eb" G2 z2 GF |"Ab" EE- E3 E |"Abm6" F4 E2 |"Eb" G6- |"Abmaj7/Eb" G4 z2 |"Eb" B2 G4 | %43
+w: Je|sus there's just|some thing _ a|bout that|name|_|mas ter|
+"Gm" B2 G4 |"Cm7" B6 |"Eb" G2 z2 GG |"F9" G2 G4 | G2"F7" F3 E |"Fm7" F6- | F4 z2 |"Eb" B2 G4 | %51
+w: sav ior|Je|sus like the|fra grance|af ter the|rain|_|Je sus|
+"Gm" B2 G4 |"Bbm" B6 |"Eb7" G2 z2 GF |"Ab" EE- E3 E |"Ab6" F4"Ab7" _G2 |"G7" G6- | G4 z2 | %58
+w: Je sus|Je|sus let al|hea ven _ and|earth pro|claim|_|
+"Am/C" c4"Abm" _c2 |"C11" BG- G3 G |"F9" G4 FG |"F7" F2 z2 FG |"Fm7" AA- A3 B |"Bb7" G4 G2 | %64
+w: kings and|king doms _ will|all pass a|way but there's|some thing _ a|bout that|
+"Eb" E6- |"Ab" E4 z2 | z6 | z6 | z6 | z6 |] %70
+w: name|_|||||
+

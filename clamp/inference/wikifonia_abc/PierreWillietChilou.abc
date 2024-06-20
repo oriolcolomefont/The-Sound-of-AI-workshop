@@ -1,0 +1,18 @@
+X:1
+T:Chilou
+T:CHILOU
+T:Pierre Williet 
+C:Pierre Williet
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"^A""^AA'BA'"{B} f2 (3ede d2 (3GBc | d.d d3 z z2 | e2 (3_dcd c2 (3FAB | c6 z (3F/^G/=A/ | %4
+ B2 (3AeA G2 F2 | F2 (3EBE D3 F/E/ | C4- (3CEF (3EDE | B6 z/ F/4G/4 =A/4c/4d/4e/4 | %8
+"^A'" f2 (3ede d2 (3GBc | d6 z2 | e2 (3^c=c^c =c2 (3F^GB | c6 z (3F/^G/=A/ | B2 (3AeA G2 F2 | %13
+ F2 (3EBE D3 F/E/ | C4 GFEF | E6 z z |"^B" B4 dcBG | B6 z2 | B4 dcBG | B6 z2 | =B4 e^cBA | %21
+ =B3 z z2 B2 | c4 BAGB | F6 z2 |] %24
+

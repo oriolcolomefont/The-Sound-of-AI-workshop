@@ -1,0 +1,21 @@
+X:1
+T:I Like Pie I Like Cake
+T:I Like Pie, I Like Cake
+T:Little/Sizemore/Shay
+C:Little, Shay, Sizemore
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Db
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Db" d2 A B | D2 A B |"Gb7" d d A B | D2 A B |"Db" d2 A B |"Bb7" F2 F D |"Eb7" F D F D | %7
+w: pie I like|cake I like|an- y- thing you|bake I like|your crack- ers|too crum- bled|up in chick en|
+"Ab7" E2 A B |"Db" d d A B | D2 A B |"Gb7" d d A B |"Gbm7" D2 A B |"Db" d d"Bb7" B B | %13
+w: stew When I|see your jell- y|roll then I|lose my self con-|trol but of|all these things I|
+"Eb7" A A"Ab7" F E |"Db" D2 E2 |"Ab7" A2 A B :| %16
+w: like you best of|all yeah|yeah I like|
+

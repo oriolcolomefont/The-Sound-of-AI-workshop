@@ -1,0 +1,28 @@
+X:1
+T:THIS CHARMING MAN
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C/G" cc"G" BA/B/ z2 BB |"Amaj7" Bd/B/- B2- B3 B/c/ |"C9" B2 G2"D7" Gc-cB- |"G" B6 z B | %4
+w: * * * * * Punc tured|bi cy cle _ _ on a|hill side des o _ late|_ Will|
+ Bddd"D" d>c z B- |"Am7" BG- G6- |"C" G4"D7" z GGA |"G" B>c- cB- B4- | B2 d2"D" d>B- Bd | dB- B6 | %10
+w: nat ure make a man of me|_ yet? _|_ When in this|charm ing _ car _|_ This Charm _ _ ing|Man _ _|
+"C" z4"D" z2 z B |"G" Bd/B/ z B/d/ z/ dB/ z B/B/ | B/B/B BB/B/"D9" B/B/B B>G- |"Am7" G6- G>A |: %14
+w: Why|pam per life's com plex it ies when the|leath er runs smooth on the pass en gers seat? _|_ _ _|
+ B4- BGGA |"G" Bc B4 GA | B<A BA/ z/"D9" B2 d2 |"Am7" d<B- B6- | B6- BB |"G" dB z B/ z/ dBzB | %20
+w: * * I would go|out to nite but I|have n't got a stitch to|wear _ _|_ _ This|man said its grue some that|
+ dB z/ B3/2"D" B2 B/z/B |"Am7" BG- G2- G2- G>A | B4 z4 |"C" z2 z z/ G/"Bm7" BB dc/B/- | %24
+w: some one so hand some *|care _ _ _ _ _|_|A jumped up pan try boy|
+"Em" B3 B"A7" B/Bd/ z/ c3/2 |"C9" B3 d"Bm7" B2 z A |"Em7" B3 d B2 z c |"C" B>c BA"D" G2 dB- | %28
+w: _ who nev er knew his|place, he said re|turn the ring He|knows so much a bout these things|
+"Em" B4 z2 z c |"C" B>c BA"D9" G2 d2- |"Em7" dB- B2 z4 |"C" B>c BA"D" G2 dB- |"Em" B4 z2 z2 | %33
+w: _ He|knows so much a bout these|_ things _|knows so much a bout these things|_|
+ e2 e2 e>d e2 :| %34
+w: |
+

@@ -1,0 +1,27 @@
+X:1
+T:She Believes In Me
+T:She believes in me
+T:Steve
+C:Steve Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ G,2 CD |:"C" C2 C2 z2 G2 | cccc ccdd |"F" AG F2 z2 A2 | cccc BGBA |"Em7" G4 z2 DD | %6
+w: While she lays|sleep- ing I|stay out late at night and play my|songs * * and|some- times all the nights can be so|long and its|
+"Am7" G2 GG AGFE |"Dm7" D4 z2 EF |"G" D4 G,2 DE |"C" D2 C2 z2 G2 | cccc ccde |"F" AG F2 z2 F2 | %12
+w: good when I fin- 'ly make it|home all a-|lone while she lays|dream- ing I|try to get un- dressed with- out the|light * * then|
+ cccc BBGG |"Em7" G4 z2 EF |"Am7" GGGG AGFE |"G7" D4 z2 G,C |"C" DC C2 z4 | z4 G2 cd | f3 g e4 | %19
+w: qui- et- ly she says "How was your|night?" and I|come to her and say it was all|right and I|hold her tight|and she be-|lieves in me|
+ e2 ee edcB |"Dm7" e2 fd d4 |"E7" z2 (3ddd edcB |"Am7" d3 c c2 AA | c2 d2 c2 AA |"Dm" ef d4 AG | %25
+w: I"ll nev- er know just what she|sees in me *|I told her some- day if she|was my girl I could|change the world with my|lit- tle songs I was|
+"G" G2 z2 G2 cd |"C" f3 g e4 | G2 cd fedc |"Am7" e2 f2 d4 |"E" E2 ee fecc |"Am" dc c2 z2 AA | %31
+w: wrong but she has|faith in me|and so I go on try- ing|faith- ful- ly|and who knows may- be on some|spe- cial night if my|
+ cd c2 z2 AA |"Dm7" e3 f"D" d4 |1"G7" AG G2 G,2 CD :|2"G7" z4 z2 CC ||"C" C4 gedc |"F" c4 FEDE | %37
+w: song is right I will|find a way|find a way While she lays|while she|waits * * * *|* while * * she|
+"Fm" C6 C2 |"C" c4 z4 |] %39
+w: waits for|me|
+

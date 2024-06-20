@@ -1,0 +1,32 @@
+X:1
+T:My Little Grass Shack In Kealakekua, Hawaii
+T:My Little Grass Shack (In Kealakekua, Hawaii)
+C:Bill Cogswell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z F"F+" (3FGF |"Bb""^A" G2 G>F G>G F2 | G2 A>A"G7" (3BBB =B>B |"C7" c4 G4- | G4- G>cc>^c | %5
+w: I wan- na go|back to my lit- le grass|shack in Ke- a- la- ke- kua, Ha-|wai- i.|* * I want to|
+"F7" d>dc>c A>FF>F | d>dc>c A2 F>F |"Bb""D7" D8- |"Gm" D4-"Bb" D2 D>^C |"D7" D2 =E>E ^F2 A2 | %10
+w: be with all the kan- es and wa-|hi- nes that I knew long a-|go.|* * I can|hear old gui- tars a-|
+"D+" B2"D7" A4 A>B |"G7" A2 G2 G>G ^F2 | G4- G2 D>_D |"C7" C2 D>^D =E2 G2 | A2 G4 G>^G | %15
+w: play- ing, on the|beach at Ho- o- nau-|nau. * I can|hear the Ha- wi- ians|say- ing, "Ko- mo-|
+"F7" A2 A>E G>GG>D | F>F (3FF=E _E>F"F+"G>F |"B""Bb""^B" G2 G>F G2 G>F | G2 A2"Gm" B2"G7" =B2 | %19
+w: mai no ka- u- a i- ka|ha- le we- la- ka- hao" it won't be|long 'til my ship will be|sail- ing back to|
+"C7" c4 G4- | G4- G2 c2 |"F7" d2 c2 A2 F2 | d2 c2 d2 e2 |"D" d8- | d4- d2 d2 | %25
+w: Ko- na|* * A|grand old place that's|al- ways fair to|see.|* * I'm|
+"G7" e>e (3ddd e>ed>d | e>ed>d =B2 G2 |"C7" d>d c2 d2 c>^c | d c2"Edim" B- B>F"F+" (3FGF | %29
+w: just a lit- tle Ha- wi- ian and a|home- sick Is- land boy, I|want to go back to my|fish and poi, * I want to go|
+"Bb""^C" G2 G>F G>G F2 | G2 A>A"G7" (3BBB =B>B |"C" c4 G4- | G4- G2 G>^G | %33
+w: back to my lit- tle grass|shack in Ke a la- ke- kua, Ha-|wai- i.|* * Where the|
+"F7" A>A"Cm7"G>G"Dm" F>F"Gdim"=E>E |"F7" E>E"Fdim"D>D"F7" E2 A>c |"Bb" B8- | B4- B2 G>^G | %37
+w: Hu- mu- hu- mu- nu- ku- nu- ku|a pu- a- a goes swim- ming|by.|* * Where the|
+"F7" A>A"Cm7"G>G"Dm" F>F"Gdim"=EE |"F7" E>E"Fdim"D>D"F7" E2 A>c |"Bb" B8- | B2 z2 z4 |] z8 | %42
+w: Hu- mu- hu- mu- nu- ku- nu- ku|a pu- a- a goes swim- ming|by.|||
+

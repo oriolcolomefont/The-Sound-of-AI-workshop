@@ -1,0 +1,28 @@
+X:1
+T:Shilo
+T:Shilo
+T:Neil Diamond
+C:Neil Diamond
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" C3 E- E2 F2 | G8- | G6 z2 |"F" F3 e- e2 d2 | F2 d4 c2 |"C" E8- | E6 z2 | C3 E- E2 D2 | %8
+w: Young child * with|dreams||dream * * each|dream on your|own||when child * ren|
+w: ||||||||
+"Dm" F8- | F4 z2 z2 | F3 e e2 d2 | F3 d- d2 c2 |"C" E8- | E6 z2 | z2 cc c2 c2 |"Dm7" ddde- e d3 | %16
+w: play||seems like * you|end up * a-|lone-||Pa- pa says he'd|love to be with * you|
+w: ||||||||
+"C" z2 z G c c2 G |"F" F8- | F6 z2 |"C" z2 cc c2 cc |"F" dd d2 e2 d2 |"G" d2 G6- |"F" G4 c2 dc | %23
+w: if he had the|time||so you turn to the|on- ly friend you can|find *|* there in your|
+w: |||||||
+"G" G8- |"Dm7" G8 |:"G7""C" C G2 C"F" F2 C2 |"C" E8 | C G2 C"F" F2 C2 |"C" E8 :| %29
+w: mind||Shi- lo when I was|young|I used to call your|name.|
+w: ||when no one else would|come|Shi- lo you al- ways||
+"C" E4"F" F2"C" E2 | C8- | C6 z2 | z8 |] %33
+w: ||||
+w: came and we'd|play.|||
+

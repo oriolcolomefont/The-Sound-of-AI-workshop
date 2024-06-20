@@ -1,0 +1,29 @@
+X:1
+T:We Gather Together
+T:We Gather Together
+T:Netherlands Folk Song
+T:Anonymous
+T:Public Domain
+C:Netherlands Folk Song
+Z:Public Domain
+L:1/8
+M:3/4
+K:D
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A2 | A3"G" B"D" A2 | F2 G2 A2 |"Em" G3 F"A" E2 |"D" F2 D2 A2 |"A" A3 B c2 |"Bm7" d3 e"A" c2 | %7
+w: 1.~We|ga- ther to-|geth- er to|ask the Lord's|bless- ing. He|chas- tens and|has- tens His|
+w: 2.~Be-|side us to|guide us, our|God with us|join- ing, Or-|dain- ing, main-|tain- ing His|
+w: 3.~We|all do ex-|tol Thee, Thou|Lead- er tri-|um- phant, And|pray that Thou|still our De-|
+"E" B3 A B2 |"A" A4 A2 |"A7" A3 B c2 |"D" d2 A2 A2 |"E7" (A3 B)"A7" GA |"D" F2 D2 D2 |"G" G3 A BF | %14
+w: will to make|known. The|wick- ed o-|press- ing now|cease * from dis-|tress- ing. Sing|prais- es to His|
+w: king- dom di-|vine. So|from the be-|gin- ning the|fight * we were|win- ning. Thou,|Lord, wast at our|
+w: fen- der wilt|be. Let|Thy con- gre-|ga- tion es-|cape * trib- u-|la- tion. Thy|name be ev- er|
+"D" (A3 G) FF |"Em" G2"A" E3"D" D | D4 |] %17
+w: name, * He for-|gets not His|own.|
+w: side \-\- All *|glo- ry be|Thine!|
+w: praised, * O *|Lord, make us|free!|
+

@@ -1,0 +1,25 @@
+X:1
+T:Dancing With Tears In My Eyes
+T:Dancing With Tears In My Eyes
+T:Al Dubin & Joe Burke
+C:Al Dubin & Joe Burke
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"Fm7" !fermata!c"E7" !fermata!d |"Eb" e d c | =B _B z/ E/ | G3- | G2 ^F/G/ | B2 ^F/G/ | %6
+w: For I'm|Danc- ing With|Tears In My|Eyes,|* 'cause the|girl in my|
+"F#dim" d2 c/d/ |"Fm" c3- |"Bb7" c2 z |"Fm7" f =e _e | d c z/ F/ |"Bb7" A3- | A2 =E/F/ | %13
+w: arms is- n't|you.||Danc- ing with|some- bod- y|new,|* when it's|
+"Fm7" B2 =E/F/ |"Bb7" d2 d/B/ |"Eb" G3- | G2 z |"Gm" G =A B |"Cm" c3 |"Gm" B =A G |"D7" =A2 A | %21
+w: you, that my|heart's call- ing|to.||Try- ing to|smile,|once in a|while, but|
+"Gm" B =A G |"Cm" c B =A |"G" d3- |"Bb7" d/ z/ c d |"Eb" e d c | =B _B z/ E/ |"Db9" G3- | %28
+w: I find it|so hard to|do.|* For I'm|Danc- ing With|Tears In My|Eyes,|
+"C7" G2 ^F/G/ |"F7" d2 c/d/ |"Bb7" c2 B/c/ |"Eb" e3- | e2 z |] %33
+w: * 'cause the|girl in my|arms is- n't|you.-||
+

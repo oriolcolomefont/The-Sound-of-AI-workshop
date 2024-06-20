@@ -1,0 +1,15 @@
+X:1
+T:Sinterklaasje bonne bonne bonne
+C:Traditional
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"C" G G"F/C" A A |"C" G/A/G/F/ E C |"C" G G"F/C" A A |"C" G/A/G/F/ E C |"Dm7" F F F D |"G7" F2 F2 | %6
+w: Sint- er- klaas- je|bon- ne bon- ne bon- ne,|Leg wat in mijn|le- ge le- ge ton- ne.|Leg wat in mijn|laars- je,|
+"Dm7" A G F E |"G" D2"C" C2 |] %8
+w: dank u Sint- er-|klaas- je!|
+

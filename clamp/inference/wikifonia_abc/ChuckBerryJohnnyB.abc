@@ -1,0 +1,32 @@
+X:1
+T:Johnny B. Goode
+T:Johnny B. Goode
+C:Chuck Berry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 c2 |:"F" cccc cABA |"F" B A2 c- c2 z c | cccc cABA |"F7" B A2 F- F2 z c |"Bb" c_ABB BABA | %6
+w: Deep|down- in Lou- 'si- an- a, close to|New Or- leans. _ 'Way|back up in the woods a- mong the|ev- er- greens. _ There|stood and _ old cab- in made of|
+w: |car- ry his gui- tar _ in a|gun- ny sack. _ Go|sit be- neath the tree _ by the|rail- road track. _ Or|en- gineer- in, the train _ sit- tin'|
+w: |moth- er told him, Some- day you will|be a man, * And|you will be the lead- er of a|big old band. _ _|Man- y peo- ple com- in' from _|
+"Bb" B _A2 c- c2 z c |"F" cccA c2 BA |"F" BAFF- F2 z c |"C7" BABA BABA |"C7" B2 Ac- cFAB | %11
+w: earth and wood. _ Where|lived a coun- try boy nam- ed|John- ny B. Goode. _ Who''d|nev- er ev- er learned to read or|write so well, _ But he cold|
+w: in the shade. _ _|Strum- min' with the rhythm that the|dri- * vers made. _ The|peo- ple pas- sin' by, _ they would|stop and say, _ _ _ _|
+w: miles a- round. _ To|hear you play your music till the|sun _ goes down. _ May-|be some- day your name- 'll be in|lights. _ _ _ A- say- in'|
+"F" cccc- cABA |"F" BAFF- F c2 c- |"F6" c2 z2 z2 z c- | c2 BA c2 z c- |"F6" c2 z2 z2 z c- | %16
+w: play a gui- tar _ just like a-|ring- in' a bell. _ Go! Go!|_ Go!|_ John- ny! Go! Go!|_ Go!|
+w: Oh, my, but that lit- tle coun- try|boy _ could play _ _ _|_|||
+w: John- ny B. Goode _ _ to- *|night! _ _ _ _ _ _|_|||
+ c2 BA"F7" c2 z B- |"Bb9" B2 z2 z2 z c- | c2 B_A c2 z c- |"F6" c2 z2 z2 z c- | c2 BA c2 z c- | %21
+w: _ John- ny! Go! Go!|_ Go!|_ John- ny! Go! Go!|_ Go!|_ John- ny! Go! Go!|
+w: |||||
+w: |||||
+"C7" c2 z2 z4 | z4 BAF"F6"F- | F2 z2 z4 |1"F6" z4 z ccc :|2"F6" z4 z2 c2 :|3"F" z8 |] %27
+w: _|John- ny B. Goode.|_|He used to|His||
+w: ||||||
+w: ||||||
+

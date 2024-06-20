@@ -1,0 +1,51 @@
+X:1
+T:If You Want To Sing Out, Sing Out
+T:Copyright © 
+C:Cat Stevens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 1
+V:1
+"C" E2 EE"G6" D E2 C- |"Fmaj9" C2 C2 C2"G6" D2 |"C" E2 EE"G6" D E2 C- |"Fmaj9" C2 C2 z D"G6"DD |: %4
+w: |||* * 1.~Well~ if~ you~|
+w: ||||
+"C" CCEG-"G" G2 AA- |"F" A2 z2 z G"G"GG |"C" GG E2"G" D2 EC- |"Am" C2 z2 z CDE | %8
+w: want~ to~ sing~ out,~ * sing~ out.~|* And~ if~ you~|want~ to~ be~ free,~ be~ free,~|* 'cause~ there's~ a~|
+w: (2.)~want to say yes, * say yes.|* And if you|want to say no, say no,|* 'cause there's a|
+"Dm" F2 F2"Am" E2 C(D- |"G" DB,/A,/G,)G, EDCD- | D2 z2 z4 | z4 z B,B,B, |"C" CCEG-"G" G2 AA- | %13
+w: mil- lion~ things~ to~ be,~|* * * * you~ know~ that~ there~ are.~||And~ if~ you~|want~ to~ live~ high,~ * live~ high.~|
+w: mil- lion ways to go|* * * * you know that there are.||And if~ you|want to be me, * be me.|
+"F" A2 z2 z G"G"GG |"C" GG E2"G" D2 EC- |"Am" C2 z2 z CDE |"Dm" F2 F2"Am" E2 C(D- | %17
+w: * And~ if~ you~|want~ to~ live~ low,~ live~ low,~|* 'cause~ there's~ a~|mil- lion~ ways~ to~ go,~|
+w: * And if you|want to be you, be you,|* 'cause there's a|mil- lion things to do,|
+"G" DB,/A,/G,)G, EDCD- | D2 z2 z4 |"G" z2 G,G, G,A,CC- ||"C" C2 GE GEGA- |"F" A2 G,G, G,A,CD | %22
+w: * * * * you~ know~ that~ there~ are.~|||* You~ can~ do~ what~ you~ want~||
+w: * * * * you know that there are.|||||
+"G" z G,AG AGG(G- |"C" GF E2) G,A,CC |"C" z GcB ABGA- |"F" A2 G,G, G,A,CD |"G" z2 AG AGG(G- | %27
+w: The~ op- por- tu- ni- ty's~ on~||And~ if~ you~ find~ a~ new~ way~||You~ can~ do~ it~ to- day.~|
+w: |||||
+"C" GF E2) G,A,CC |"C" z2 GE GE G2 |"F" E2 G,G, G,A,CD |"G" z G,G,G, G,A,B,C- | %31
+w: |You~ can~ make~ it~ all~|true~ * * * * * *|And~ you~ can~ make~ it~ un- do.~|
+w: ||||
+"C" C2 z"Am" E- E2 G2- |"Em" G2 z2 z ABc- |"Am" c2 z E A2 G2 |"Em" z4 z ABc- |"Am" c2 z E A2 G2 | %36
+w: * You~ * see:~|* A- ha- ha|* it's~ ea- sy~|A- ha- ha|* you~ on- ly~|
+w: |||||
+"Em" z2 ED- D2 CD- |"G" D2 z2 z4 | z4 z DDD :|"C" CCEG-"G" G2 AA- |"F" A2 z z2 G"G"GG | %41
+w: need~ * * to~ know.~||2.+3.~Well,~ if~ you~|(3.)~want~ to~ sing~ out,~ * sing~ out.~|* And~ if~ you~|
+w: |||||
+"C" GG E2"G" D2 EC- |"Am" C2 z z2 CDE |"Dm" F2 F2"Am" E2 C(D- |"G" DB,/A,/G,)G,"C" EDC"G"D- | %45
+w: want~ to~ be~ free,~ be~ free,~|* 'cause~ there's~ a~|mil- lion~ things~ to~ be,~|* * * * you~ know~ that~ there~ are.~|
+w: ||||
+ D"C"EDC"G" D E2 D |[M:3/4]"C" ED C"G" D2"C" E |[M:2/4] DC"G" D(E- |[M:4/4]"C" E4"G" D3 C- | %49
+w: * you~ know~ that~ there~ are,~ you~|know~ that~ there~ are,~ you~|know~ that~ there~ are~||
+w: ||||
+"F" C2) z E DC"G"D(E- |"C" E4"G" D3 C- |"F" C2) z2 z2"G" z2 |"C" E2 EE"G6" D E2 C- | %53
+w: * You~ know~ that~ there~ are~||||
+w: ||||
+"Fmaj9" C2 C2 C2"G6" D2 |"C" !fermata!E2 z2 z4 |] %55
+w: ||
+w: ||
+

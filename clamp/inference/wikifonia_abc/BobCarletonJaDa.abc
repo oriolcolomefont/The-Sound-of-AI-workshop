@@ -1,0 +1,22 @@
+X:1
+T:Ja-Da
+T:Ja-Da
+C:Bob Carleton
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" A c3- c2"F7" z2 |"D7" d A3- A2 z2 |"G9" AGAG"C7" c2 A2 |"F""Cdim" F6"C7""C+7" z2 | %4
+w: Ja- Da, *|Ja- Da, _|Ja- Da, Ja- Da, Jing, Jing,|Jing,|
+"F" A c3- c2"F7" z2 |"D7" d A3- A2 z2 |"G9" AGAG A2"G7b9" _A2 |"C7""Gm7" G6"C7b9" z2 | %8
+w: Ja- Da, *|Ja- Da, _|Ja- Da, Ja- Da, Jing, Jing,|Jing,|
+"F" cccc"Fdim" =BBBB |"C7" _BABG- G2 z2 |"F" c2 c2"Fdim" =BBBB |"C7" _BABG- GF G2 | %12
+w: That's a fun- ny lit- tle bit of|mel- * o- dy _|Its so sooth- ing and ap-|peal- ing to me, _ It goes|
+"F" A c3- c2"F7" z2 |"D7" d A3- A2 z2 |"G9" AGAG"C7" c2 A2 |1"F""Cdim" F6"C7""C+7" z2 :|2 %16
+w: Ja- Da, *|Ja- Da, _|Ja- Da, Ja- Da, Jing, Jing,|Jing,|
+"F" F6 z2 |] %17
+w: Jing,|
+

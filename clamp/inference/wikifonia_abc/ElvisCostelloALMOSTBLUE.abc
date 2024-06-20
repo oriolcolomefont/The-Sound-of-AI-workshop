@@ -1,0 +1,32 @@
+X:1
+T:ALMOST BLUE
+C:Elvis Costello
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am9" z2 EE"E7/G#" E4- |"C6/G" E2 EG"Dm6/B" FE"E6"DC |"Am9" z2 DE"E7/G#" E4- | %3
+w: AL MOST BLUE|_ al most do ing things we|used to do|
+ E3 E/G/"Dm6/B" FEDC- |"C6" CE/-C/ D-A,"F6" C4 |"E" z2 E2"D" D4 |"Am" z2 A2 B4 | %7
+w: _ there's a girl here and she's|_ al _ most _ you|al most|all the|
+"Adim" c3 A/B/ cBAG- |"C" G2 G2 G>"Bb6"G- GG |"A7" G4"C7/G" _BAGF |"Dm9" E6"F6/C" F2 | %11
+w: things that your eyes once prom ised|_ I see in _ hers|too now your eyes are|red from|
+"Bm7b5" E4 B,4 |"Am" z2"B7/D#" B6- |"Am9" BE- E<A-"C6/G" A4- |"F" A4 A/B"Bm7b5"c/ BA | %15
+w: cry ing.|AL|_ MOST _ BLUE _|_ Flirt ing with this dis|
+ GE/F/"C9" G>G- G4 |"Dm9" z2 A/Bc/"Bm" BAGF |"Esus4" AAAE"E" E2- E2- |"Am" E2 z2"E7/G#" z E E<E | %19
+w: as ter be came me _|It named me as the fool who|on ly aimed to be. _|_ AL MOST BLUE|
+"C6/G" z EEG"Dm6/B" FE"E7"DC |"Am" C2 D"E7/G#"E E4 |"C6/G" z E/G/"Bm7b5" FE DC- C2 | %22
+w: its al most touch ing it will|_ al most do.|There's a part of me that's: _|
+"C6" z2 E/-C/D/-A,/"F9" C4 |"E6" C2 E2"Dm" D4 |"Am" z2 AA B2 B2 |"Adim" c2- cA/B/ cBAG | %26
+w: al _ ways _ true|_ al ways|Not all good things|come _ to at end now, it is|
+"B" z2 G/G/G"Gm6/Bb" G2 G2 |"A7" G2- G2 _BAGG |"Dm9" E2 E2 E2 F2 |"Am/B" E4"E+" B,4 | %30
+w: on ly a chos en|few: * I have seen such|an un hap py|coup le|
+"Am9" z2 B2- BA- A<A- | A4- A4- | A2"Bm7" B2"Dm7" c2 BA- |"Bm7b5" A8- | A2 c-B A->G- G2 | %35
+w: AL * MOST * *|ME *|* AL MOST YOU *||* AL * MOST * *|
+"Am9" B2- B<A- A4- | A2 z2 z4 |] %37
+w: BLUE * * *||
+

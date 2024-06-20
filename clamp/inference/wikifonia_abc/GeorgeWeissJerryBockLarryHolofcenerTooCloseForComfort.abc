@@ -1,0 +1,34 @@
+X:1
+T:Too Close For Comfort
+T:Too Close For Comfort
+C:George Weiss, Jerry Bock, Larry Holofcener
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Abm7" e _c z2 |"G7" e _c z2 |"Gb7" e _c z2 |"Fm7b5" e _c z2 |"Fbmaj7" e _c z2 |"^Eb7aug" e _c z2 | %6
+w: be wise|be ware|be sure|be there|be have|be ware|
+"Dm7" z4 |"Bb7" z2 z =E |:"C6" G3 =E |"Cm6" G3 =A |"Gm6" B3 D |"A7" ^C2 F"A7" G |"Fm6" A3 C | %13
+w: |Be|wise, be|smart, be-|have my|heart, don't up-|set your|
+"G7" =B,2 C"G7" D |"C" =E3/2 G/- G2 |"Dm11" z2 z"G13b9" =E |"C6" G3 =E |"Cm6" G3 =A |"Gm6" B3 D | %19
+w: cart when she's|so close. *|Be|soft, be|sweet, but|be dis-|
+"A7" ^C2 F"A7" G |"Fm6" A3 C |"G7" =B,2 C"G7" D |"C" =E z"Abdim7" G z |"C6" =A z"C+" c z | %24
+w: creet, Don't go|off your|beat. She's too|close for|com- fort,|
+"F6" z d"F7" e3/2 d/- |"Fm6" d/ e d/ c"G7b9" =B |"C" c2 G =A/B/- |"Gm7" B4 |"F6" z d"F7" e3/2 d/- | %29
+w: Too close, too|* close, for com- fort,|Please not a- gain.||Too close, too|
+"Fm6" d/ e d/ c"G7b9" =B |"Ab7" c2 B A/G/- |"D7" G2"G7" z"G13b9" =E |"C6" G3 =E |"Cm6" G3 =A | %34
+w: * close to know just|when to say "When."|* Be|firm, be|fair, be|
+"Gm6" B3 D |"A7" ^C2 F"A7" G |"Fm6" A3 C |"G7" =B,2 C"G7" D |"C" =E2"Abdim7" G2 |"C6" =A2"C+9" c2 | %40
+w: sure be-|ware on your|guard, Take|care while there's|such tem-|ta- tion|
+ z"F6" d"F7" e3/2"Fm6" d/ | z/"Fm7" e d/ c"G7b9" =B |"Cm9" z d e3/2 d/ | %43
+w: One thing leads|to an- oth- er|Too late to|
+"D7b9" z/ e d/ c =B!dacoda! |"Ab9#11" z d e3/2 d/ |"G+7" z/ e d/ c"G7b9" =B |1"Cm" c4- || %47
+w: run for cov- er|She's much too|close for com- fort|now!|
+"Dm7" c z"G7" z E :|O"Ab9" z d e3/2 d/ |"G+7" z/ e d/ c"G7" =B |"Ab9" z d e3/2 d/ | %51
+w: * Be|She's much too|close for com- fort|Too close too|
+"G+7" z/ e d/ c"G7b9" =B |"Ab9" z d e3/2 d/ |"G+7" z/ e d/ c"G7b9" =B |"Cm" c4 |] %55
+w: close for com- fort|She's much too|close for com- fort|Now!|
+

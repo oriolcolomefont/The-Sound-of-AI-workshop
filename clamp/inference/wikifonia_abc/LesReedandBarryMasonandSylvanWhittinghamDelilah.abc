@@ -1,0 +1,36 @@
+X:1
+T:Delilah
+T:Delilah
+C:Les Reed and Barry Mason and Sylvan Whittingham
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 66
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Em" B B B | B B B | B B B | B A G |"B7" F B,2- | B,3- | B,3 | z3 |"Em" B B B | B B B | B B B | %11
+w: 1.I saw the|light on the|night that I|passed by her|win- dow|_|||I saw the|flick- er- ing|sha- dows of|
+w: 2.At break of|day when that|man drove a-|way I was|wait- ing|_|||I crossed the|street to her|house and she|
+ B A G |"B7" F3- | F3- | F3 | z3 |"E" e3- | e3 |"E7" d3- | d2 c |"Am" B A2- | A3- | A3- | A z z | %24
+w: love on her|blind|_|||She|_|was|_ my|wo- man||||
+w: op- ened the|door.|_|||She|_|stood|_ stood|there laugh-|ing|_||
+"Em" B B B | B c B |"B7" A A A | A G F |"Em" E3- | E3 |"D7" z3 | z3 |"G" B3 | G3 | d3- | d2 B | %36
+w: As she de-|ceived me I|watched and went|out of my|mind|_|||My|my|my|_ De-|
+w: I felt the|knife in my|hand _ and|she laughed no|more.|_|||||||
+"D7" c A2- | A3- | A3 | z3 | c3 | A3 | e3- | e2"F#" ^c |"G" d B2- | B3- | B3- |"G" B3 || B3- | %49
+w: li- lah|_|||Why|why|why-|_ De-|li- lah|_|||I|
+w: |||||||||||||
+ B2 c |"G7" d3- | d2 e |"C" d2 c | c c3/2 B/ |"Am" A3- | A2 A |"G" B B B | B c B |"D7" A A A | %59
+w: _ could|see|_ that|girl was|no good for|me|_ _|But I was|lost like a|slave _ that|
+w: ||||||||||
+ A G F |"G" G3- | G3 |1"B7" z3 | z3 :|2"G" z3 || z z B |"Em" B B B | B B B |"B7" B B B | B ^c ^d | %70
+w: no man could|free.|_||||For-|give me De-|li- lah I|just could- n't|take an- y|
+w: |||||||||||
+"Em" e3- | e3- |"A" e3- |"Em" e3- | e3- | e3- | e/ z/ z z |] %77
+w: more|_||||||
+w: |||||||
+

@@ -1,0 +1,31 @@
+X:1
+T:Cruella De Vil
+T:Cruella De Vil
+T:Mel Leven
+C:Robert Sherman, Richard Sherman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+ ^C |:"Bb" DFG_A-"Bb9" A3 ^F |"Eb" GBc_d-"Eb9" =d3 ^C |"Bb" DFG_A-"Bb9" A A2 ^F | %4
+w: Cru-|el- la De- vil _ Cru-|el- la De- vil _ if|she does- n't scare _ you no|
+"Eb" GBc_d-"Eb9" _d3 B |"Bb" dBcB"Gb9" _dBcB |"Ab9b5" z d3-"G9" d3 G |"C7" d _d2 G d c2 B | %8
+w: ev- il thing will _ To|see her is to take a sud- den|chill _ Cru-|el- la Cru- el- la De-|
+"F9" c6 z ^C |"Bb" DFG_A-"Bb9" A3 ^F |"Eb" GBc_d-"Eb9" =d3 ^C |"Bb" DFG_A-"Bb9" A A2 ^F | %12
+w: vil The|curl of her lips _ the|ice in her stare _ all|in- no- cent chil- * dren had|
+"Eb" GBc_d-"Eb9" _d3 B |"Bb" dBcB"Gb9" _dBcB | z"Ab9b5" d3-"G9" d3 G |"C7" d _d2 G"F7" d c2 B | %16
+w: bet- ter be ware _ She's|like a spi- der wait- ing for the|kill _ Look|out for Cru- el- la De-|
+"Bb" c6 z B |"D7" decd BcAB |"Gm" A G3- G3 G |"D7" decd BcAB |"Gm" G2 z2 z2 z B | %21
+w: vil At|first you think Cru- el- la is the|De- vil _ but|af- ter time has worn a- way the|shock you|
+"C7" c>c c/B/c- c3 B | c>c c/B/c- c4 |"Gb9" _ddcB ddcB |"Cm7/F" c2 z2"F9" z2 z ^C | %25
+w: come to re- a- lize _ you've|seen her kind of eyes _|watch- ing you from un- der- neath a|rock This|
+"Bb" DFG_A-"Bb9" A3 ^F |"Eb" GBc_d-"Eb9" =d3 ^C |"Bb" DFG_A-"Bb9" A A2 ^F |"Eb" GBc_d-"Eb9" _d3 B | %29
+w: vam- pire _ bat _ this|in- hu- man beast _ she|ought to be locked _ up and|ne- ver re- leased _ the|
+"Bb" dBcB"Gb9" _dBcB | z"Ab9b5" d3-"G9" d3 G |"C7" d _d2 G"F7" d c2 B | %32
+w: world was such a whole- some place un-|til _ Cru-|el- la Cru- el- la De-|
+"Bb" c2-"Dbdim7" c2- c2"F9" z ^C :| %33
+w: vil * * Cru|
+

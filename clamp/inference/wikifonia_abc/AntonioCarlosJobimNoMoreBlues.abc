@@ -1,0 +1,28 @@
+X:1
+T:No More Blues
+T:No More Blues
+T:Antonio Carlos Jobim
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fm" A2 C2 | F3 A |"G7" G2 =D2 | F3 G |"C7b9" A2 D2 | =E2 z/ A G/- |"Fm" G/ F A/- A/ G F/ | %7
+"C7" C3 z |"Fm" A2 C2 |"G7" =D3 F |"Cm" E2 G2- | G z/ G F E/ |"Db6" E2 D2- |"Db9" D z/ A G F/ | %14
+"C7" F =E/G/- G/ E C/- |"C7b9" C2 z z |"Fm" A2 C2 | F3 A |"G7" G2 =D2 | F3 G |"C7b9" A2 D2 | %21
+ =E2 z/ A G/- |"Fm" G/ F =E/- E/ F _G/- |"F7" G F =A c |"Bbm" B2 d2 |"C7" =E2- E/ c B/- | %26
+"Fm" B/ A c/-"C7" c/ B A/ |"Fm" G3/2 F/ =E F |"G7" A/ F =D/- D/ F A/- | %29
+"C7" A/ =E D/-"C7b9" D/ A F/- |"Fm" F4 |"C7" z4 ||[K:F]"Fmaj7" A3 c |"D7" B3 ^F | %34
+"G9" A G ^F/ G d/- |"Gm7" d B G D |"C7" F3/2 E/- E2- | E G E/ C D/- |"E7" D3 z |"F" C3 E | %40
+"Fmaj7" G F E/ F _A/- |"Abdim" A =B e/ d c/- |"Gm7" c/ B D/- D2- | D D E/ F A/- | %44
+"G9" A G F/ D =B,/- | B, D E/ G F/- |"Bbm" F3 z/ E/- |"C7b9" E3 z ||"F" A2 C2 |"Dm7" D3 A | %50
+"G7" G2 D2 | F3 G |"A" A2 ^C2 |"A7" E3 A | G/ F E/- E/ F G/- |"Cm7" G/ F A/-"F7b9" A d | %56
+"Bbmaj7" c/ A F/- F/ z/ D |"Bbm7" c/ _A F/- F/ z/ _D |"Am7" c/ G E/- E C |"D7" =B d/_B/- B d | %60
+"G7" A/ F D/- D/ F A/- |"C11" A/ F D/- D/ F A/- |"Am7" A2- A/A/B/c/ |"D7" d c B A | %64
+"G7" F/ D F/- F/ A F/- |"C11" F/ D F/- F/ A F/- |"F" F4- | !fermata!F z z2 |] %68
+

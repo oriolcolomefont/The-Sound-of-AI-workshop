@@ -1,0 +1,32 @@
+X:1
+T:Boy On A Dolphin
+T:Boy On A Dolphin
+T: Music  based on 'Tinafto'' byTakis Morakis
+T:Paul Francis Webster & Hugo W. Friedhofer
+C:Paul Francis Webster & Hugo W. Friedhofer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 cd |"Fm" c2 cd"Ab+" c2 cd |"Fm7" c2"Fm6" c4 BA |"Cm""Fm6" G6 cA |"Cm" G6 DE | %5
+w: There's a|tale that they tell of a|dolph- in and a|boy made of|gold. With the|
+"Fm" F2 DE F2 DE |"G7" F6 EF |"Cm" G2 EF G2 EF | G6 cd |"Fm" c2 cd"Ab+" c2 cd | %10
+w: shells and the pearls in the|deep, he has|lain man- y years fast a-|sleep. What they|tell of the boy on a|
+"Fm7" c2"Fm6" c4 BA |"Cm""Fm6" G6 cA |"Cm" G6 DE |"Fm6" F2 FG A2 AB |"Ab" c2 c4 BA | %15
+w: dol- phin who can|say if it's|true. Should he|rise from the depths of the|o- cean, an- y|
+"Cm" G2 FE"G7" F2 ED |"Cm" C6 C2 |"Fm6" D3 C (3D2 F2 A2 |"Cm" c2 G4 G2 | %19
+w: wish that you wish will come|true. You|say he's on- ly- a|stat- ue, and|
+"Fm6" (3F2 G2 A2"G7" (3G2 D2 F2 |"Cm" E6 C2 |"Fm6" D3 C (3D2 F2 A2 |"Cm" c2 G4 G2 | %23
+w: what can a stat- ue a-|chieve. And|yet, while I'm ga- zing|at you, my|
+"D9" (3=A2 =B2 c2 (3d2 A2 c2 |"G7" =B4"G+" e2"G" d2 |"Fm" c2 cd"Ab+" c2 cd |"Fm7" c2"Fm6" c4 BA | %27
+w: heart tells my head to be-|lieve. If the|boy whom the gods have en-|chant- ed should a-|
+"Cm""Fm6" G6 cA |"Cm" G6 DE |"Fm9" F2 FG A2 AB |"Ab7" c2 c4 cd |"Cm" e2 dc"G7" d2 c=B | %32
+w: rise from the|sea and that|wish of my heart could be|grant- ed, I would|wish that you love on- ly|
+"Cm" c6 z2 |] %33
+w: me.|
+

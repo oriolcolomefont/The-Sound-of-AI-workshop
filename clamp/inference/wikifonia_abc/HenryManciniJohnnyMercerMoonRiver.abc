@@ -1,0 +1,24 @@
+X:1
+T:Moon River
+T:All Rights Reserved
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble 
+%%MIDI program 65
+V:1
+"G" d6 |"Bbmaj7/C" a2 g4 |"Cmaj9#11" f3 e dc |"G" d4 G2 |"Cmaj9#11" f3 e dc |"G" d4 G2 |"Am" A6 | %7
+w: Moon|Ri- ver,|wi- der than a|mile, I'm|cros- sing you in|style some|day.|
+"D7" z2 z2"Ebdim" B2 |"Em" G6 |"Cmaj7/D" d2 B3 A |"C" G6 |"Em/B" d2 B3"B7" A |"Em7" G2 B2 d2 | %13
+w: Oh,|dream|ma- ker, you|heart|brea- ker, wher-|ev- er you're|
+"Edim" g2 f3 e |"Am" fe- e3 d |"D7" e4 z2 |"G" d6 |"Bbmaj7/C" a2 g4 |"Cmaj9#11" f3 e dc | %19
+w: go- ing, I'm|go- ing * your|way.|Two|drif- ters|off to see the|
+"G" d4 G2 |"Cmaj9#11" f3 e dc |"G" d4 G2 |"Am" A6 |"D7" z2 z2"Ebdim" B2 |"Em""Em7" G2 B2 d2 | %25
+w: world; there's|such a lot of|world to|see.|We're|af- ter the|
+"Cmaj7/D" g6 |"Bb/C" a4 g2 |"G" d6 |"Cmaj9#11" z2 fe dc |"G" d6 |"Cmaj9#11" z G fe dc | %31
+w: same|rain- bow's|end,|wai- ting 'round the|bend,|my huc- kle- ber- ry|
+"Bm" d4"Bbm" z2 |"Am" G6 |"D7" c2 A4 |"C9" z2 z2 B2 |"G" G6 |] %36
+w: friend,|Moon|Ri- ver|and|me.|
+

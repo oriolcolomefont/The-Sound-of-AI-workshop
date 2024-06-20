@@ -1,0 +1,23 @@
+X:1
+T:Everywhere You Go
+T:Everywhere You Go
+T:Larry Shay,Joe Goodwin,Mark Fisher
+C:Larry Shay,Joe Goodwin,Mark Fisher
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G3 E |"Cmaj7" G3 E |"C6" G4- |"C" G3 z | G3 A | G2 C2 |"G7" B,4- | B,3 z |"Dm" A3 F | %9
+w: Ev- 'ry-|where You|Go,||sun- shine|fol- lows|you,||Ev- 'ry|
+"F+" A3 F |"Dm7" A4- |"G7" A3 z | A3 B | A2"G+" ^D2 |"C" (E4 | E3) z |"E7" c2 B2 | c2 B2 | %18
+w: where you|go,||skies are|al- ways|blue.||Child- ren|love you,|
+"A7" B A B A- | A4 |"D7" B2 A2 | B2 A2 |"G7" A G A G- | G3 G |"C" G3 E |"Em" G3 E |"Gm6" G4- | %27
+w: they seem to know,||you bring|ros- es|out of the snow.|* The|whole world|says "hel-|lo",|
+"A7" G3 z |"D7" A3 B |"G7" A2 G2 |"C" c4- | c3 z |] %32
+w: |Ev- 'ry-|where you|go.-||
+

@@ -1,0 +1,28 @@
+X:1
+T:Mull of Kintyre
+T:Mull of Kintyre
+T:McCartney and Laine
+C:Paul McCartney, Denny Laine
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"G" D- D/>E/ G | B2 B |"C" B A G | A/G/- G E |"G" D- D/>E/ G | B2 B |"C" B A G | A G3/2 E/ | %8
+w: Mull _ of Kin-|tyre oh|mist roll- ing|in from _ the|sea _ my de-|sire is|al- ways to|be here oh|
+w: ||||||||
+"G" D- D/E/ G/A/ | G3- | G3- | G3!dacoda! |"^Verse:" D G3/2 E/ | D/B,/- B, D | G B A |"G7" G2 z | %16
+w: Mull _ of Kin- *|tyre.|_||Far have I|tra- velled _ and|much have I|seen|
+w: ||||Sweep through the|heath- erm _ like|deer in the|glen|
+"C" E G F | E D3/2 C/ |"G" D G3/2 E/ | D2 z | D G3/2 E/ | D/B,/- B,/ z/ D | G B A |"G7" G A B | %24
+w: Dark dis- tant|moun- tains with|val- leys of|green|Past paint- ed|des- erts _ the|sun- sets on|fire as he|
+w: Car- ry me|back to the|days I knew|then|Nights when we|sang like _ a|heav- en- ly|choir of the|
+"C" c3/2 B/ A | G E3/2 D/ |"D7" D- D/E/ G/A/ |"G" G3- | G2 z!D.C.! |:O"G" D- D/>E/ G | B3 | %31
+w: car- ries me|home to the|Mull _ of Kin- *|tyre.||~ * * *||
+w: life and the|times of the|Mull _ of Kin- *|tyre.||~ * * *||
+"D7" A- A/>B/ d |"^repeat and fade" F2 z :| %33
+w: ||
+w: ||
+

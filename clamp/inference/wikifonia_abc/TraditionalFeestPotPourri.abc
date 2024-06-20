@@ -1,0 +1,38 @@
+X:1
+T:Feest Pot Pourri
+T: Laukens Music Productions  
+T:Mars
+T:FEEST POTPOURRI 
+T:FEEST POTPOURRI  blad 2 van 
+T: Laukens Music Productions  
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=159
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G Bd ||"G7" g3 _g f3 e | dc BA G2 z2 |:"C""^1. Lang zal ze leven" c2 cc c2 G2 | e2 ee e2 c2 | %5
+ g2 gg ag fe |"G7" d2 d2 d2 gf |"C" e4"F" f4 |"C" g4"F" a2 f2 |"C" e4"G7" d4 |1"C" c4- cG AB :|2 %11
+ c4-"C" cC CC ||"C""^2. Hij leve hoog" C2 C2 C2 D2 | E4- EC CD | E2 E2 E2 F2 | G6"F" A2 | %16
+"C" G6"F" A2 |"C" G6"F" A2 |"C" G4"G7" B4 |"C" c8"_Hiep hiep Hoera" ||"D7" d2 d>e dc BA || %21
+[K:G]"G""^3. Rats kuch en bonen" D4 D3 ^C | DE- E6 | D E2 D"Gdim" E D2 ^C |"D" C8 |"Am" E4 E3 _E | %26
+ EF- F6 |"D7" E F2 E F E2 _E |"G" D8 | D4 D3 ^C | DE- E6 | D E2 D"G7" E D2 B, |"C" E8 | %33
+"D7" A,B, CD F3 E |"G" ED- D4 ^CD |"A7" E4"D7" F2 D2 |"G" G8 || %37
+"G""^4. Als je pas getrouwd bent" DD ^CD ED CD | BB BG D4 |"D7" AA AF D4 |"G" EE ED B,4 | %41
+ DD ^CD ED CD | BB BG D4 |"D7" AA AF D2 A2 |"G" G4- GG"G7" G/F/G || %45
+"C""^5. Omdat 't zo lekker is" E2 E2 EG G/F/G |"G" D2 D2 D3 D | GG"D7" AA"G" BB"C" cc | %48
+"G" B2"D7" A2"G" G z G>G ||"D7""^6. En zolang de lepel in de brijpot staat" F2 FF"C" EE EE | %50
+"G" D2 D2 B,2 E2 | D>E DC B, z E2 | D>E DC B, z G>G |"D7" F2 FF"C" EE EE |"G" D2 D2 B,2 D2 | %55
+"A7" E2 E2"D7" F2 F2 |"G" G z"D7" D2"G" GD EF ||"G""^7. Oh, wat ben je mooi" G4- GG"G7" F=F | %58
+"C" E8 |"D7" F4- FF"Gdim" E_E |"G" D8 |"E7" E2 E2 E2 D2 |"Am" DC CC C2 E2 |"D7" D6 C2 | %64
+"G" B,4- B,D EF |"G" G4- GG"G7" F=F |"C" E8 |"D7" F4- FF"Gdim" E_E |"G" D8 |"E7" E2 E2 E2 D2 | %70
+"Am" DC CC C2 E2 |"D7" D6 A2 |"G" G4- G z G>G || %73
+"D7""^8. Zo'ne goeie hebben wij nog nie gehad" FF FF FF"C" EE |"G" D4- D z"C" E>E | %75
+"G" DD DD DD"D7" CC |"G" B,4- B, z G>G |"D7" FF FF FF"C" EE |"G" D4- D z D>D | %79
+"A7" EE EE"D7" FF EF |"G" G4- G z G z |] %81
+

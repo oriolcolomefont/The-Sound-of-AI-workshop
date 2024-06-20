@@ -1,0 +1,39 @@
+X:1
+T:Early In The Morning
+T:Early In The Morning
+T:Mike Leander & Eddie Seago
+C:Mike Leander & Eddie Seago
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gm" B2 B2- | B z c d |"Cm" e3 c |"Cm6" A4 |"F7" A2 A2- | A z"Gm" B"F7" c |"Bb" d3 B |"Gm" G4 | %8
+w: Eve- ning|* is the|time of|day|I find|* no- thing|much to|say)|
+w: Night time|* is- n't|clear to|me|I find|* no- thing|near to|me)|
+"Edim" G2 G2- | G z"A" A"Eb7" B/A/- |"D7" A4- | A/ z/ D"Am" =E"D7" ^F |"Gm""D7" G4- | %13
+w: don't know|* what to do||* but I come|to|
+w: |||||
+"G" G z"Am7" c"G" d ||S"Cm" e e"Cm7" e e/e/- |"F7" e e/f/- f/e/d/c/ |"Bb" d d"Bbmaj7" d d/d/- | %17
+w: * When it's|(ear- ly in the morn-|* ing ov- * er by the|win- dow day is dawn-|
+w: |(ear- ly in the morn-|* ing ve- * ry ve- ry|ear- ly with- out warn-|
+"Ebmaj7" d d/e/- e/d/c/B/ |"Am7" c c c c |"D7" c c/d/- d/c/B/A/ |"Gm" B2"D7" c2 | %21
+w: * ing when * I feel the|air I feel that|life is ve- * ry good to|me you|
+w: * ing I * can feel a|new- ly born vib-|ra- tion sneak- * ing up on|me a-|
+"G" d2"Am7" c"G" d |"Cm" e e"Cm7" e e |"F7" e/ e f/- f/e/d/c/ |"Bb" d d"Bbmaj7" d d | %25
+w: know, In the|sun there's so much|yel- low some- * thing in the|ear- ly morn- ing|
+w: gain, There's a|song bird on my|pil- low I * can see the|fun in weep- ing|
+"Ebmaj7" d/ d e/- e/d/c/B/ |"Am7" c c c c |"D7" c c/d/- d/c/B/A/!dacoda! ||1"Gm" B2 A G || %29
+w: mea- dow tells * me that to-|day) you're on your|way and you'll * be com- ing|home, home to|
+w: wil- low, I * can see the|sun) * * *|||
+"D7" A3- A/ z/ |"Gm" G4- | G4 |"F" F F F F |"D7" ^F3 A :|2"Gm" B2"D7" c2 || %35
+w: me *|||||home to|
+w: ||||||
+"G" d2"Am7" c"G" d!D.S.! || z4 | z4 ||O"Gm""^CODA" B2 A G |"D7" A2 G ^F |"Gm""D7" G4- |"Gm" G4 |] %42
+w: me. When it's|||home, home to|me; home to|me.-||
+w: |||||||
+

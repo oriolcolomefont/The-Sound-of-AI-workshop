@@ -1,0 +1,32 @@
+X:1
+T:A Wonderful Guy
+T:A Wonderful Guy
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A z A |"Dmaj7" A A A |"D6" A B A |"D" F2 D |"Em7" E z E |"A7" E E E |"Em7" E F E |"A7" C3 | %8
+w: I'm as|corn- y as|Kan- sas in|Au- gust.|I'm as|nor- mal as|blue- ber- ry|pie,|
+"D6" D D D | D E F |"Em7" G G G |"A7" G A B |"D" c d c | B A F |"Em" E3- |"A7" E3 |"D" A z A | %17
+w: No more a|smart lit- tle|girl with a|heart, I have|found me a|won- der- ful|guy!|_|I am|
+"Dmaj7" A A A |"D6" A B A |"D" F2 D |"Em7" E E E |"A7" E E E |"Em7" E F E |"A7" C3 |"D6" D D D | %25
+w: in a con-|ven- tion- al|dith- er,|With a con-|ven- tion- al|star in my|eye.|And you will|
+ D E F |"Em7" G G G |"A7" G A B |"D" c d c | B A F |"Gmaj7" E3- |"C6" E3 |"Dm7" z G G |"G7" G A G | %34
+w: note there's a|lump in my|throat When I|speak of that|won- der- ful|guy!|_|I'm as|trite and as|
+"Gmaj7" E E E |"C6" E =F E |"Dm7" G G G |"G7" G A G |"Cmaj7" E3 |"C6" E3 |"Em7" z A A |"A7" A B A | %42
+w: gay as a|dais- y in|May, a cli-|ché com- ing|true!|_|I'm bro-|mid- ic and|
+"D" F F F |"D6" F G F |"F#m7" A A A |"B7" A B A |"E9" c3- |"A9" c3 |"D" A z A |"Dmaj7" A A A | %50
+w: bright as a|moon hap- py|night pour- ing|light on the|dew!|_|I'm as|corn- y as|
+"D7" A B A |"D6" F2 D |"Em7b5" E E E |"A7" E E E |"E7" E F E |"A7" C3 |"D7" D D D | D E F | %58
+w: Kan- sas in|Au- gust,|High as a|flag on the|Fourth of Ju-|ly!|If you'll ex-|cuse the ex-|
+"G" G G G |"Em7" G A B |"D" c d d |"A7" c d d |"D" c d d |"D+" c d d |"G" c d d |"Em" c d d | %66
+w: press- ion I|use I'm in|love, I'm in|love, I'm in|love, I'm in|love, I'm in|love with a|won- der- ful|
+"D" d3- | d z2 | %68
+w: guy!|_|
+

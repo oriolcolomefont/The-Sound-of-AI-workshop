@@ -1,0 +1,21 @@
+X:1
+T:Chicago (That Toddlin' Town)
+T:Chicago
+T:That Toddlin' Town
+T:Frank Sinatra
+T:Fred Fisher
+C:Fred Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ c2 | B3 A A2 c2 | B3 A A2 E2 | FEDG G4 | FEDG G2 F2 | F3 D D2 F2 | E3 D D2 B,2 | CB,A,C C4 | %8
+w: Chi-|ca- go, * Chi-|ca- go, * that|tod- dl- in' town, *|(tod- dl- in' town. ) Chi-|ca- go, * Chi-|ca- go, * I'll|show you a- round, *|
+w: |State Street, * that|great street, * I|just wan- na say, *|(just wan- na say. ) they|do things * they|do- n't * do|on bro- ad- way. *|
+ z E3 E D3 | CDEF G A2 G | A2 GA AG B2 | E3 D D2 A2 | E3 D D2 E2 |] %13
+w: I love it!|Bet your bot- tom dol- lar you|lose the blues * in Chi-|ca- go, * Chi-|ca- go. * The|
+w: |||||
+

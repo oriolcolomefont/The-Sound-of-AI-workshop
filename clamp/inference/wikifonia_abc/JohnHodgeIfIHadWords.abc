@@ -1,0 +1,23 @@
+X:1
+T:If I Had Words
+T:If I Had Words
+C:John Hodge
+Z:Public Domain
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 5
+%%MIDI program 0
+V:1
+"G " z4 |"G " z4 | z4 |"G " z4 |: z2 B2 |"D " A2"G " B2 |"Emin" G2"D " A2 |"G " B2 d2 | %8
+w: ||||If~|I~ had~|words~ to~|make~ a~|
+"C " e3/2 d/"G " d2 | z4 | d2"C " e2 |"Amin" c2"E7" B2 |"Amin" c2"D7" A2 |"G " B c d2 |"D " A4 | %15
+w: day~ for~ you~||I'd~ sing~|you~ a~|morn~~~\-~~~~ ing~|gold~\-~~ en~ and~|new~|
+"D7" z4 |"G " B2"D " A2 |[M:3/2]"G " B2"Emin" G2"D " A2 |[M:2/2]"G " B d"C " e2 |"B " ^d4- | d4 | %21
+w: |I would~|make~ this~ day~|last~ for~ all~|time~||
+"C " e2"Amin" c2 |[M:3/2]"E7" B2"Amin" c2 A c |[M:2/2]"G " B2"D7" A2 |"G " G4 | z4 :|"G " G4 | z4 | %28
+w: give~ you~|a~ night~ deep~ in~|moon~ *|shine~||shine~||
+ z4 | z4 |] %30
+w: ||
+

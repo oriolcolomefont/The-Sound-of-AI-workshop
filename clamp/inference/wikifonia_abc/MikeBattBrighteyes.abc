@@ -1,0 +1,28 @@
+X:1
+T:Bright eyes
+T:Bright Eyes
+T:Mike Batt
+C:Mike Batt
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G G2 G G2 EG |"F" A4"C" G4 | z2 cG FEDC |"Am" C2 E2 E2 CE |"F" F4"C" E4 | z2 GE DCDE | %6
+w: Is it a kind of a|dream *||float- ing out on the|tide *||
+w: fog * a- long the ho-|ri- zon||cold * sound- iun the|air *||
+"G7" DDDD DE F2 |"C" G2 G2"F" C4 |"Dm" z2 CF F2 F2 |1"G7" B,4 D4 || G4 z2 CD :|2"E7" E4 ^D2 E2 || %12
+w: fol- low- ing the riv- er of|death down- stream|Oh is it a|dream? *|* theres a|start Oh Oh|
+w: no- bo- dy ev * er known|when you go|and where do you||||
+"G7" F2 F4 B,2 |"C" C4 E2 G2 | c2 z2"^CHORUS" e g3 |"Em" g8 |"F" c4 f2 ed |"G7" ed- d6- | %18
+w: is it a|dream? * *|* bright *|eyes|burn- ing like *|fire * *|
+w: ||||||
+ d2 z2 e g3 |"Em" g8 |"F" cccf f2 e2 |"Dm" d8 | z2 DE FA d2 |"E7" eeee-"Am" e2 c2 | %24
+w: * bright *|eyes|how can you close * and|fail||how can the light * that|
+w: ||||||
+"G7" g2 g2"C" g2 c2 |"F" fffg g2 a2 |"G7" d4 f e3 |"C" c8- | c8 |] %29
+w: burned so bright- ly|sud- den- ly burn * so|pale? bright *|eyes||
+w: |||||
+

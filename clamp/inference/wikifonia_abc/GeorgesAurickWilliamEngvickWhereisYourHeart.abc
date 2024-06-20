@@ -1,0 +1,25 @@
+X:1
+T:Where is Your Heart
+T:Song from Moulin Rouge  Where is your heart
+T:From the film Moulin Rouge
+T:Georges Aurick
+T:William Engvick
+C:Georges Aurick
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 C2 |"F" F3 A F2 |"Am" c4 C2 |"G" F3 G E2 |"C7" D2 C2 C2 | G3 A G2 | c4 GA | _B2 A2 G2 | %8
+w: When-|ev- er we|kiss I|wor- ry and|won- der your|lips may be|near, but *|where is your|
+"F" F4 C2 | F3 A F2 |"Am" c4 C2 |"G" F3 G E2 |"C" D2 C2 C2 | G3 A G2 | c4 GA | _B2 A2 G2 | %16
+w: heart? it's|al- ways like|this I|wor- ry and|won- der you"re|close to me|here but *|where is your|
+"F" F4 GA |"C7" _B2 _BA G_B |"F" A4 F2 |"A7" G_B AG FE |"Dm" F4 DE | F2 FE DF |"Am" E4 E2 | %23
+w: heart? it's a|sad thing to re- al-|ize- that|you've a heart that nev- er|melts when we|kiss do you close your|eyes pre-|
+"G7" FE DE FD |"C7" G4 C2 |"F" F3 A F2 |"Am" c4 C2 |"G" F3 G E2 |"C7" D2 C2 C2 | G3 A G2 | %30
+w: tend- ing that I'm some- one|else? you|must break the|spell this|cloud that I'm|un- der so|please won't you|
+ c2 G2 A2 | _B2 A2 G2 |"F" F4 z2 |] %33
+w: tell dar- ling|where is your|heart?|
+

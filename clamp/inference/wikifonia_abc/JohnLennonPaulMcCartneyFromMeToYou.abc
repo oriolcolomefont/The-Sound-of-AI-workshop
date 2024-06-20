@@ -1,0 +1,24 @@
+X:1
+T:From Me To You
+T:From me to you
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Rock" z4 z2"^N.C." GA |:"G" BA G2 A2 A2 |"Em" E6 GA |"G" BA G2 e2 e2 |"D7" d6 A2 | %5
+w: If there's|an- y- thing that you|want If there's|an- y- thing I can|do Just|
+"C7" _B2 A2 GAEG |"Em" _BA G2 E2 G2 |"G" G2 e2"D7" d2 _B2 |1"G" G6"Em" GA :|2"G" G6 DE || %10
+w: call on me * and I'll|send it a long with|love from me to|you. I've got|you I've got|
+"Dm7" F3 E F3 G |"G7" FE D4 B,2 |"C" C2 E2"G7" G2 F2 |"C" E6 E^F |"Em7" G3 ^F G2 A2 | %15
+w: arms that long to|hold * you and|keep you by my|side I've got|lips that long to|
+"A7" G^F E4 G2 |"D7" A2 D2 D2 D2 | _B6 GA |"G" BA G2 A2 A2 |"Em" E6 GA |"G" BA G2 e2 e2 | %21
+w: kiss * you and|keep you sat- is-|fied If there's|an- y- thing that you|want if theres|an- y- thing I can|
+"D7" d6 A2 |"C7" _B2 A2 GAEG |"Em" _BA G2 E2 G2 |"G" G2 e2"D7" d2 _B2 |"G" G6 z2 |] %26
+w: do just|call on me * and I'll|send it a- long with|love from me to|you.|
+

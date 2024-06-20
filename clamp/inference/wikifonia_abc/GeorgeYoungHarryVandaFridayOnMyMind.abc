@@ -1,0 +1,34 @@
+X:1
+T:Friday On My Mind
+T:Friday on my mind
+T:Harry Vanda, George Young
+C:George Young, Harry Vanda
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"C" C D | E G G E |"F" F4 |"Bb" z4 |"C" z2 C D | E G G E |"F" F4 |"Bb" D4 |"Eb" z2"C" G A | %9
+w: Mon- day|morn- in feels so|bad||ev- ry|bo- dy seems to|nag|me|Com- in|
+w: Do the|five day grink once|more||Iknow of|noth- ing else that|bugs|me|more than|
+ A G G c |"G" c =B2 z | z4 |"C7" z2 G A | A G G =E |"F" F4 | z4 | z2 F G | G =A A2 |"Bb" z2 B c | %19
+w: Tues- day I feel|bet- ter||ev- en|my old man looks|good||Wed's- day|just dont go|Thurs- day|
+w: work- in for the|rich man||hey I'll|change that scene one|day||Today I|might be mad|tomorr- ow|
+ c _d d2 |"Bb" z2 _d e | e _f f f |"C" =e3 z | z4 ||[K:F]"F" z2 c d | d c c A |"A" c/d/- d2 z | %27
+w: goes too slow|I've got|Fri- day on my|mind||gon- na|have fun in the|city * *|
+w: I'll be glad|cause I'll|have * * *||||||
+ z4 |"C" z2 c d |"F" d c c A |"A" c d- d2 | z4 |"Bb" z2 B c | c B B2 |"D7" z2 d _e | _e d d c | %36
+w: |be with|my girl shes so|pret- ty *||she looks|fine to- night|she is|out of sight to|
+w: |||||||||
+"G" d3 z | z2 z c |"Bb" d3 e | f e d c |"G" d3 e | f e d c |"Bb" d3 e | f e d d |"F" c4 | A4 | %46
+w: me|to-|night I'll|spend my bread to-|night I'll|lose my head to|night I've|got to get to|night||
+w: ||||||||||
+"C7" G4- | G3 z |"F" F G _A B |"Bb" c B _A A |"C7" G4 |1 C3/2 C/ C C :|2"C7" C3/2 C/ C C |"F" F4- | %54
+w: ||Mon- day I'll have|Fri- day on my|mind||||
+w: ||||||||
+ F4 || %55
+w: |
+w: |
+

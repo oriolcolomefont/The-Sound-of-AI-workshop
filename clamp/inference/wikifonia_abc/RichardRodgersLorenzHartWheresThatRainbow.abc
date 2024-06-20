@@ -1,0 +1,28 @@
+X:1
+T:Where's That Rainbow
+T:Where's That Rainbow
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" A2 A2 A c2 A |"Dm7" G2 DD-"G7" D4 |"C" A2 A2 A c2 A |"Dm7" d2 GG-"G7" G4 |"C" A2 A2 A c2 A | %5
+w: Where's that rain- bow you|hear a- bout? _|Where's that lin- ing they|cheer a- bout? _|Where's that love- nest where|
+"Dm" f2 AB-"G7" Bc d2 |"C" c4"F" c4- |"C""F""C" c6"G+7" z2 |"C" A2 A2 A c2 A |"Dm7" G2 DD-"G7" D4 | %10
+w: love is king, _ ev- er|af- ter?|_|Where's that blue room they|sing a- bout? _|
+"C" A2 A2 A c2 A |"Dm7" d2 GG-"G7" G4 |"C" A2 A2 A c2 A |"Dm" f2 AB-"G7" Bc d2 |"C" c4"F" c4- | %15
+w: Where's that sun- shine they|fling a- bout? _|I know morn- ing will|come, but par- * don my|laugh- ter!|
+"C""F" c6"C" z2 |"F" e2 c>A F>A c2 |"Fm" e2 e>c"Fdim" d2 d>B |"C" c2 c>A"G7" B2 B>G |"C" A6 z2 | %20
+w: _|In each sce- na- ri- o,|you can de- pend on the|end, where the lov- ers a-|gree.|
+"F" d2 c>A F>A c2 |"Fdim" d2 d>B"C" c2 c>A |"G7" B2 B>G"C" A2 A>E |"Dm7""G7" G6 z2 | %24
+w: Where's that Lo- tha- ri- o,|where does he roam with his|dome, vas- e- lined as can|be?|
+"C" A2 A2 A c2 A |"Dm7" G2 DD-"G7" D4 |"C" A2 A2 A c2 A |"Dm7" d2 GG-"G7" G4 |"C" A2 A2 A c2 A | %29
+w: It is ea- sy to|see al- right, _|Ev- 'ry- thing's gon- na|be al- right, _|Be just dan- dy for|
+"Dm" f2 AB-"G7" Bc d2 |1"C""F6" c8 |"C""F""C""G7" z8 :|2"C""F""C""F" c8 |"C" z8 |] %34
+w: ev- 'ry- bod- * y but|me!||me!||
+

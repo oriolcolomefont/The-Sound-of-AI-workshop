@@ -1,0 +1,27 @@
+X:1
+T:Take These Chains
+T:Take These Chains
+C:Fred Rose, Hy Heath
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 A c |:"F" F2 F G | A c B A |"C7" G4- | G2 B d | G2 G A | B d c B |"F" A4- | A2 c B | A ^G A B | %10
+w: Take these|chains from my|heart and set me|free.|_ You've grown|cold and no|long- er care for|me.|_ All my|faith in you is|
+w: * (2)|heart just a|word of sym- pa-|thy.|_ Be as|fair to my|heart as you can|be.|_ Then, if|you no long- er|
+ c2"F7" d c |"Bb" B A B c |"G7" d2 d ^d |"C7" e2 G A | B d c E |"F" F4- | F2 A c | F2 F G | %18
+w: gone, but the|heart- aches ling- er|on. Take these|chains from my|heart and set me|free.|_ Take these|tears from my|
+w: care, for the|love that's beat- ing|there, take these|chains from my|heart and set me|free|_ Take these|chains from my|
+ A c B A |"C7" G4- | G2 B d | G2 G A | B d c A |"F" A4- | A2 c B | A G A B | c2"F7" d c | %27
+w: eyes and let me|see.|_ Just a|spark of the|love that used to|be.|_ If you|love some- bod- y|new, let me|
+w: heart and set me|free.|_ You've grown|cold and no|lon- er care for|me.|_ All my|faith in you is|gone, but the|
+"Bb" B A B c |"G7" d2 d ^d |"C7" e2 G A | B d c E |1"F" F2"Fdim" d e ||"C7" c2 A c :|2"F" F4- || %34
+w: find a new love|too. Take these|chains from my|heart and set me|free. * *|* 2.~~Give my||
+w: heart- aches ling- er|on. Takle these|chains from my|heart and set me|||free.|
+ F2 z2 |] %35
+w: |
+w: |
+

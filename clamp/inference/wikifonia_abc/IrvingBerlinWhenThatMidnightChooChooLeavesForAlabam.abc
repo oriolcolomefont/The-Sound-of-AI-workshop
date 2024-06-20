@@ -1,0 +1,29 @@
+X:1
+T:When That Midnight Choo-Choo Leaves For Alabam
+T:When The Midnight Choo-Choo Leaves For Alabam
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G B |:"Eb" c c c"Edim" c |"Bb7" c B F/ G3/2 |"Eb" E4- | E B"Eb6" c/"Edim" B3/2 |"Bb7" d4- | %6
+w: When the|mid- night choo- choo|leaves for Al- a-|bam'|* I'll be right|there,|
+ d c B/ A3/2 |"Eb" G4- | G2 G B | c c c"Edim" c |"Bb7/F" c B F/ G3/2 |"Eb" E4- | E G"Dbdim" G _G | %13
+w: * I've got my|fare.|* When I|see that rust- y|haired con- duct- or-|man,|* I'll grab him|
+"F7/C" F G =A/ c3/2 | F G =A/ c3/2 |"Bb7/F" B/>A/ F B/>A/ F | z"Eb" G"Bb7" A"Eb7" B | %17
+w: by the col- lar,|And I'll hol- ler|"Al- a- bam, Al- a- bam."|That's where you|
+ _d/ d d/- d2- | d _d"Eb6" c"Eb+" =B |"Ab" c/ c c/- c2- | c c"Adim" =B"Ab" c |"C7" B/ B B/- B2- | %22
+w: stop your train, *|* That brings me|back a- gain, *|* Down home where|I'll re- main, *|
+ B/ c B/ A G |"Ab" F4 |"B7" ^F4 |"Eb" G G G G | ^F/ G B/- B2 |"G" =B"G/F" B"Eb+" B"G7/D" B | %28
+w: * Where my hon- ey|lamb|am.|I will be right|there with bells, *|When that old con-|
+"Cm" c/"G7/B" d"Cm" e/- e"Adim" d/>c/ |"Eb" B"Adim" c' c' d/>c/ |"Eb" B"Adim" c' c' d/>c/ | %31
+w: duct- or yells, * "All a-|board! * * All a-|board! * * All a-|
+"Eb" B"Adim" c"Bb7" d/ B3/2 |1"Eb" e2 G B :|2"Eb" e2- e/ z/ z |] %34
+w: board for Al- a-|bam." When the|bam.- *|
+

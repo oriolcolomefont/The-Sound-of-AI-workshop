@@ -1,0 +1,25 @@
+X:1
+T:My Ramblin' Boy
+T:My Ramblin' Boy
+T:Tom Paxton
+C:Tom Paxton
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 40
+V:1
+"A""^VERSES" z E"^(see discussion/comments for lyrics to all 4 verses)" E/ F3/2 |"E" E4- | %2
+w: He was a|man|
+ E B,/B,/"E7" C B, |"A" A,4- | A, E E/ E3/2 |"E" E4- | E B,/B,/"E7" D D |"A" C4- | C"A" E E A | %9
+w: * and a friend al-|ways.|* He stuck with|me|* in the hard ol'|days.|* He ne- ver|
+ c4- | c B/B/"D" A F |"A" E4- | E E E E/E/ |"E" E4- | E D/D/"E7" D C |"A" A,4- | %16
+w: cared|* if I had no|dough.|* We ram- bled a-|round|* in the rain and|snow.|
+"A""^CHORUS" A,"^\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n" E E3/2 A/ | c4- | c B"D" A F | %19
+w: * And here's to|you|* my ram- blin'|
+"A" E4- | E E/ E3/2 F |"E" E4- | E C F F |"A" E4- | E z E3/2 A/ | c4- | c B"D" A F |"A" E4- | %28
+w: boy,|* May all your|ram-|* blin' bring you|joy.|* Here's to|you|* my ram- blin|boy,|
+ E E E F |"E" E4- | E D C B, |"A" A,4 |] %32
+w: * May all your|ram-|* lin' bring you|joy|
+

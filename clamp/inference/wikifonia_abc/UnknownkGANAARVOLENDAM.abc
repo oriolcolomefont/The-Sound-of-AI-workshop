@@ -1,0 +1,37 @@
+X:1
+T:´k GA NAAR VOLENDAM
+T: Laukens Music Productions  
+T:Beguine
+T:´k GA NAAR VOLENDAM
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=190
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ A, B, |:"F" C3/2 C/ C2- | C2 F G | A3/2 A/ A2- | A2 A A | c3/2 B/- B A |"F7" A3/2 G/- G F | %7
+"Bb" D3/2 F/ F2- | F2 F F | F3/2 E/- E F | G3/2 F/- F D |"F" D2 C2- | C2 C C |"C7" E3/2 D/- D C | %14
+ E3/2 D/- D C |"F" C4- | C2 A, B, |"F" C3/2 C/ C2- | C2 F G | A3/2 A/ A2- | A2 A A | c3/2 B/- B A | %22
+"F7" A3/2 G/- G F |"Bb" D2 F2- | F2 F F | F3/2 E/- E F | G3/2 F/- F D |"F" D2 C2- | C2 C C | %29
+"C7" E3/2 D/- D C | E3/2 D/- D C |"F" C4- | C2 A, B, :|"F" C3/2 C/ C2- | C2 F G | A3/2 A/ A2- | %36
+ A2 A A | c3/2 B/- B A |"F7" A3/2 G/- G F |"Bb" D2 F2- | F2 F F | F3/2 E/- E F | G2 F D | %43
+"F" D2 C2- | C2 C C |"C7" E2 D C | B2 A G |"F" F4- |"F" F2 C C |"C7" E2 D C | B2 A G |"F" F4- | %52
+"F" F2 C C |"C7" E2 D C | B2 A G |"F" F4- | F4- | F z x2 |] %58
+V:2
+ x2 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :| x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | z2"Dm" z2 | x4 | x4 | x4 | z2"Dm" z2 | x4 | x4 | x4 | %55
+ x4 | x4 | x4 |] %58
+

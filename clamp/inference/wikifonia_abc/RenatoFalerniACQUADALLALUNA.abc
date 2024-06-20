@@ -1,0 +1,28 @@
+X:1
+T:ACQUA DALLA LUNA
+T:Acqua dalla Luna
+T:Renato FALERNI
+T:3
+C:Renato Falerni
+Z:All Rights Reserved
+L:1/4
+Q:1/2=68
+M:2/2
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+!mf!"^Adagio, con calma()""D" B3 A | E F B A |"C" E4- | E4 |"D" B3 A | E F B A |"C" e4- | e2 f g | %8
+"G" d3 c | A B e d |"D" A3 F | E F B A |"A" E4 | c2 d e ||[K:F]!f!"F" g3 f | c d g c' |"C" c4- | %17
+ c2 d e |"Dm" [Ff]3 [Ee] | [A,A] [B,B] [Ff] [Ee] |"Bbmaj7" [Adfa]4- | [Adfa]2 [Bb] [cc'] | %22
+"Ab" [c_e_ac']3 [Bb] | [Gg] [_A_a] [ff'] [_e_e'] |"Eb" [B_egb]4 | [GB_eg]2 [_EBe]2 | %26
+!mf!"Amaj7" [=B^c!courtesy!=e^g]3 ^f | ^d e =b ^a |!mp!"Bmaj7" [^A^d^f]3 ^e | ^c ^d ^g ^f | %30
+!p!"Fmaj7" [!courtesy!=A!courtesy!=c!courtesy!=e]3 !courtesy!=d |"Dm"!pp! [EFA]2 a2 | %32
+!mp!"Bbmaj7#11" [FAce]3 d |"Em711"!p! [=B,D^FA]2 a2 |!mf!"Am7" [Gce]3 d | %35
+!f!"Eb7#9" !fermata![_D^FA]2!8va(! =b'2!8va)! ||[K:D]!p!"D" B3 A | E F B A |"C" E4- | E4 | %40
+"D" B3 A | E F B A |"C" e4- | e2 f g |!f!"G" d3 c | A B e d |"D" A3 F | E F B A |"A" E4 | [aa']4 || %50
+"D"!8va(! b'3 a' | e' f' b' a' | e' f' b' a' | e' f' b' a' |!ff! [d''e''f''g''a'']4- | %55
+ !fermata![dd''e''f''g''a'']4-!8va)! |] %56
+

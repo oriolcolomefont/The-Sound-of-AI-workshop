@@ -1,0 +1,28 @@
+X:1
+T:For The Very First Time
+T:For The Very First Time
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G3 =A G^F |"Eb9" =F2 B3 F |"C7" =E2 B3 E |"Cbmaj7" _E2 B3 E |"Bb" D3 E"Bbmaj7" D2 | %5
+w: For the ver- y|first time, I|find the first|time, I, I'm|head ov- er|
+"Bb9" C4 D2 |"Eb""Eb+" G6- |"Fm7/Bb""Bb7" G4 z2 |"Eb" G3 =A G^F |"Eb9" =F2 B3 F |"C7" =E2 B3 E | %11
+w: heels in|love.|_|For the ver- y|first time, I|know that the|
+"Cbmaj7" _E2 B3 E |"Bb" D3 E"Bbmaj7" D2 |"Bb9" C4"Bb7b9" D2 |"Eb" E6- | %15
+w: last time was|ev- 'ry- thing|else but|love.|
+"Eb7""Bbm/Eb" E4"Eb7#5b9" z2 |"Ab" c3 _d c=B |"Ab9" _B2 e3 B |"F7" =A2 e3 A |"Emaj7" _A2 e3 A | %20
+w: _|For the ver- y|first time, there|wont be a|next time. My|
+"Eb" G2 c2 G2 |"Cm7/F" C3 D"F7" E2 |"Fm7/Bb" F6- | F4"Bb7#5b9" z2 |"Eb" G3 =A G^F |"Eb9" =F2 B3 F | %26
+w: ro- manc- ing|dads are all|through.|_|All my love af-|fair- ing was|
+"C7" =E2 B3 E |"Cbmaj7" _E2 B3 E |"Bb" D3 E"Bbmaj7" D2 |"Bb9" C4"Bb7b9" D2 |1"Eb""Gbdim" E6- | %31
+w: simp- ly pre-|par- ing to|love for the|first time,|you.|
+"Fm7""Fm7/Bb" E4"Bb+7" z2 :|2"Eb" E6- | E4 z2 |] %34
+w: _|you.|_|
+

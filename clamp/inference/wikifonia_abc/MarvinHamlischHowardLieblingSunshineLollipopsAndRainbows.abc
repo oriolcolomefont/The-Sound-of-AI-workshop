@@ -1,0 +1,25 @@
+X:1
+T:Sunshine Lollipops And Rainbows
+T:Sunshine, lollipops and rainbows
+T:Howard Liebling, Marvin Hamlisch
+C:Marvin Hamlisch
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A2 C2 |"Dm" D/ E3/2 F"C" G |"F" z A C2 |"Dm" D/ E3/2 F"C" G |"F" A c A c | %5
+w: Sun- shine|loll- i- pops and|rain- bows|ev- ry- thing that|won- der- ful is|
+"Dm7" A c A/ c3/2!dacoda! |"Gm7" z d2 c |"C7" A2 G2 |"F" A2 C2 |"Dm" D/ E3/2 F"C" G |"F" z A C2 | %11
+w: what I feel when|were to-|geth- er|bright- er|than a luck- y|pen- ny|
+"Dm" D/ E3/2 F"C" G |"F" z A c2 |"Am" A c d c | d c A c | e4 |"Gm7" z f2 c |"C7" f c B A |"F" F4- | %19
+w: when you're near the|rain goes|dis- ap- pears dear|and I feel so|fine|just to|know that you are|mine|
+"Bb" F"F" F"F7" B c ||"Bb" z d d2 | d/ d3/2 c B |"Bbmaj7" z d d2 |"Bb" d/ d3/2 c B | z d d2 | %25
+w: _ my life is|sun- shine|loll- i- pops and|rain- bows|thats how this re-|frain goes|
+"Gm7" d d c B |"C" c z z2 |"C7" d c d c!D.C.! ||O"Am" e4- | e3 c |"Gm7" f2 d/ c3/2 |"C7" A2 G2 | %32
+w: so come on join|in|ev- ry- bod- y|way|_ cause|you're in love|to stay|
+"F" F4- |"Dm" F4- |"F" F4- | F z z2 |] %36
+w: ||||
+

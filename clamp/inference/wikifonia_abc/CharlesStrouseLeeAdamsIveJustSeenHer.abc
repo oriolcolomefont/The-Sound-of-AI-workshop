@@ -1,0 +1,28 @@
+X:1
+T:I've Just Seen Her
+T:I've Just Seen Her
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"A7" ^c3"A+7" =B |"D" (3:2:2A ^F2- (3:2:2F2 A |"G7" (3c =B A (3:2:2c2 B | %3
+w: I've just|seen her, _ As|no- bod- y else has|
+"Cmaj7" (3:2:2G =E2-"C6" (3:2:2E2 G |"F7" (3B A G (3:2:2B2 A |"Bb" F D2 B, |"Am7" C4- |"D7" C4 | %8
+w: seen her, _ As|no- bod- y else could|see her, but|me!|_|
+"Gm" D G2"Bb7" F |"Ebmaj7" D/B,/- B,2 G/F/ |"Fm7" G3/2 F/"Bb7" G3/2 F/ |"Ebmaj7" D/B,/- B,2 A/G/ | %12
+w: All scrubbed and|shin- y, _ What a|sight with- out her|make- up, _ But a|
+"C7" A3/2 G/ A3/2 G/ |"F" c F2 A |"E""B7" =B4- |"E7" B3"E+7" c |"A7" ^c3"A+7" =B | %17
+w: sight I'd like to|wake up and|see!|_ And|now I|
+"D" (3:2:2A ^F2- (3:2:2F2 A |"G7" (3c =B A (3:2:2c2 B |"Cmaj7" (3:2:2G =E2-"C6" (3:2:2E2 G | %20
+w: know her _ A|way that I've nev- er|known her, _ I|
+"F7" (3B A G (3:2:2B2 A |"Bb" F D2 F |"Fm6" d4- |"G7b9" d4 |"Em7b5" d3"Ebm6" c |"Bb6" B G2 B | %26
+w: sud- den- ly saw just|how it could|be!|_|I've just|seen her, As|
+"Em7b5" (3d d c"Ebm6" d3/2 c/ |"Bb6" B G2 B |"Em7b5" (3d d c"Ebm6" d c | %29
+w: no- bod- y else has|seen her, As|no one will ev- er|
+"Bb" !-(!!fermata!f"Cm7" !-)!B2"F7" c |"Bb" B4- |"Cm7" B4- |"Bb" B4- | B3 z |] %34
+w: see her but|me!|_|||
+

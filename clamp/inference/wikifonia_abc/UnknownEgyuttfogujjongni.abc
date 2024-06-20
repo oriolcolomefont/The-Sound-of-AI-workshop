@@ -1,0 +1,20 @@
+X:1
+T:Együtt fog ujjongni
+T:Együtt fog ujjongni
+C:Unknown
+Z:Public Domain
+L:1/8
+M:2/4
+K:D
+V:1 treble 
+%%MIDI program 52
+V:1
+ z3/2 B,/ A,G, |"F#7" F,4 |: F,2 ^A,B, | C2 DC |"Bm" B,F, B,C | DC B,B, |"Em" ED CB, | ED CB, | %8
+w: ||Egy- ütt fog|uj- jong- ni|fi- a- tal és|ö- reg is és|ö- rö- mé- ben|tán- cot lejt a|
+"F#7" (C2 FE | F4) :| z3 F, |"F#7" F2 FF | EF GA | F4 | F3 F |"F#7" F2 F2 | EF GA | F4 | z3 F |: %19
+w: lány. * *||És|gyá- szu- kat|ün- nep- re for-|dí-|tom, és|nem bú-|sul- nak ez- u-|tán,|Vi-|
+"Em" G2 GE |"A" AG FE |"D" F2 z D |"G" GF ED |"Em" E2 z C |"F#7" FE DC |1"Bm" (B,2 CD- | DE F)F :|2 %27
+w: dám- má te-|szem a szí- vü-|ket, hogy|ör- ven- dez- ze-|nek a|bá- na- tuk he-|lyett, * *||
+"Bm" B,4 |] %28
+w: lyett.|
+

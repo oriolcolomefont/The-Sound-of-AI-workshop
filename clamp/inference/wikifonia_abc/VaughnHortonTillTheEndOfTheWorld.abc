@@ -1,0 +1,29 @@
+X:1
+T:Till The End Of The World
+T:Till The End Of The World
+T:Vaughn Horton
+C:Vaughn Horton
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D7" A2 d c |"G7" B2 c d |"C" c2"Ebdim" B A |"G7" G2 A ^A ||"G7""^Verse" B2 A G | F2 E D || %6
+w: |||* "Till the|end of the|world" means for-|
+"C" E G3- | G2 A G |"G7" G D2 E | F2 G A |"C""C" G4- | G2 E E |"E7" E2 ^G A | B2 A ^G |"Am" A c3- | %15
+w: ev- er|* And for-|ev- er you'll|al- ways be|mine.|* For my|dar- ling, you|know I could|nev- er|
+ c3 E |"D7" D c c c | c d/c/ B c |"G7" d4- | d2"^Chorus" A ^A |:"G7" B2 A c | B2 A c | B4- | %23
+w: * love|an- y- one but|you till the end of|time|* Till the|stars in the|sky cease to|shine,|
+ B2 G ^G |"C" A2 G c | A G2 c | A4- | A2 E F |"G7" G2 F D | B,2 D F |"C" A G3- | G2 ^F G | %32
+w: * Till the|sand of the|des- ert grows|cold,|* Till the|last pet- als|fall from the|ros- es,|* And the|
+"D7" A A A B | c c B c |"G7" d4- | d2 A ^A | B2 A c | B2 A c | B B3- | B2 G ^G |"C" A2 G c | %41
+w: sil- ver in your|hair turns back to|gold;|* Till the|sun and the|moon hide in|dark- ness,|* And we|wait for that|
+ A2 G c | A4- | A2 G"C+" ^G |"F" A ^G A B | c2 B A |"C" c G3- | G2 ^F G |"D7" A2 d c | %49
+w: great light to|shine;|* Oh! my|dar- ling, that's how|long I will|love you,|* TILL THE|END OF THE|
+"G7" B2 c d |1"C""Ebdim" c4- ||"G7" c2 A ^A :|2"C""F6" c4- ||"C" c2 z2 |] %54
+w: WORLD you'll be|mine.|* Till the|mine.-||
+

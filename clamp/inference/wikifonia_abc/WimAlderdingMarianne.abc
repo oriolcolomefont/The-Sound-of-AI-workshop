@@ -1,0 +1,34 @@
+X:1
+T:Marianne
+T:Marianne
+T:Tempo di Java
+T:naar een idee van wim
+T:2
+C:Wim Alderding
+Z:All Rights Reserved
+L:1/8
+Q:1/4=102
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" [EG]2 [EG][EG] [EG][EG] |"C" [EG][DF] [CE]2 [CE]2 |"C" [EG]2 [Ac]2"G7" [GB]2 | %3
+"G7" [DF]4 [FA][FA] |"G7" [FA][FA] [FA][FA] [FA][EG] |"G7" [DF]6 |"G7" [FA]2 [GB]2 [FA]2 | %7
+ [_EA]2 [=EG]4 |"C" [EG]2 [EG][EG] [EG][EG] |"C" [EG][DF] [CE]2 [CE]2 |"C" [EG]2 [Ac]2"G7" [GB]2 | %11
+"G7" [DF]4 [FA][FA] |"G7" [FA][FA] [FA][FA] [FA][EG] |"G7" [DF]4 [FA]2 |"G7" [FA]2 [GB]2 [FA]2 | %15
+"C" [_EA]2 [=EG]4 |"C" [CE]2"D" [DF]2"B" [EG]2 |"F" [FA]2 [Ac]4 |"F" (3dcA (3dcA (3dcA | %19
+"C" (3cGE (3cGE (3cGE |"G7" (3BGF (3BGF (3BGF | [EGc]2 [EGc]4 |"F" (3dcA (3dcA (3dcA | %23
+"C" (3cGE (3cGE (3cGE |"G7" (3BGF (3BGF (3BGF |"C" [EGc]2 [EGc]4 || %26
+[K:Eb]"Eb" [GB]2 [GB][GB] [GB][GB] |"Eb" [GB][FA] [EG]2 [EG]2 |"Eb" [GB]2 [ce]2"Bb7" [Bd]2 | %29
+"Bb7" [FA]4 [Ac][Ac] |"Bb7" [Ac][Ac] [Ac][Ac] [Ac][GB] |"Bb7" [FA]6 |"Bb7" [Ac]2 [Bd]2 [Ac]2 | %33
+ [_Gc]2 [=GB]4 |"Eb" [GB]2 [GB][GB] [GB][GB] |"Eb" [GB][FA] [EG]2 [EG]2 | %36
+"Eb" [GB]2 [ce]2"Bb7" [Bd]2 |"Bb7" [FA]4 [Ac][Ac] |"Bb7" [Ac][Ac] [Ac][Ac] [Ac][GB] | %39
+"Bb7" [FA]4 [Ac]2 |"Bb7" [Ac]2 [Bd]2 [Ac]2 |"Eb" [_Gc]2 [=GB]4 |"Eb" [EG]2"F" [FA]2"D" [GB]2 | %43
+"Ab" [Ac]2 [ce]4 |"Ab" (3fec (3fec (3fec |"Eb" (3eBG (3eBG (3eBG |"Bb7" (3dBA (3dBA (3dBA | %47
+"Eb" [GBe]2 [GBe]4 |"Ab" (3fec (3fec (3fec |"Eb" (3eBG (3eBG (3eBG |"Bb7" (3dBA (3dBA (3dBA | %51
+"Eb" [GBe]2 [GBe]4 |] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %67
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |] %75
+

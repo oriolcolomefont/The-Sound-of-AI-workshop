@@ -1,0 +1,31 @@
+X:1
+T:The First Time Ever I Saw Your Face
+T:The first time ever I saw your face
+T:Ewan MacColl
+C:Ewan MacColl
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Am" z E A A- |"D7" A2 A/B/ c |"G" B3/2 G/ D2- | D4 |"Em" z B B B | c B d d/d/ | %6
+w: The first time|* ev- er I|saw your face||I thought the|sun * rose in your|
+w: The first time|* ev- er I|kissed your mouth||I felt the|earth * move in my|
+"Bm" d3/2 e/ d c/B/ |"C" c4 | z2 z d/d/ |"G" d3 d/d/ |"D7" c B2 B/A/ |"G" B3 G | D3 D/E/ |"F" F4- | %14
+w: eyes * * * *||and the|moon and the|stars * were the|gifts you|gave to the|dark|
+w: hand, * * * *||like the|trem- bling *|heart * of a|cap- tive|bird that was|there|
+ F D/D/ E D/D/ |"G" D4 | z4 :|"Am" z E A A- |"D7" A2 A/B/ c |"G" B3/2 G/ D2- | D4 |"Em" z B B B | %22
+w: * and the end of the|skies.||the first time|* ev- er I|lay with you||and felt your|
+w: * at * my * com-|mand|||||||
+ c B d d/d/ |"Bm" d3/2 e/ d c/B/ |"C" c4 | z2 z D/D/ |"G" d3 d |"D7" c B2 A |"G" B3 G | D3 D/E/ | %30
+w: heart * so close to|mine * * * *||and I|knew our|joy * would|fill the|earth and *|
+w: ||||||||
+"F" F4- | F D/D/ E3/2 D/ |"G" D3 D | D4 |"Am" z E A A- |"D" A2 A/B/ c |"G" B3 c |"D" A3 G | %38
+w: last|* till the end of|time my|love|the first time|* ev- er I|saw *|* your|
+w: ||||||||
+"G" G3 A |"F" A3 B |"G" B3 c |"F" c3 d |"G" d4- | d2 z2 |] %44
+w: face, your|face, your|face, your|face, your|face.||
+w: ||||||
+

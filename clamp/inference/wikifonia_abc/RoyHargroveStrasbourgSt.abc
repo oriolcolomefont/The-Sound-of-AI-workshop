@@ -1,0 +1,16 @@
+X:1
+T:Strasbourg St. Denis
+T:Strasbourg St. Denis
+T:As played by Roy Hargrove
+C:Roy Hargrove
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:none
+V:1 treble transpose=-2 
+%%MIDI program 56
+V:1
+[K:Eb]"Bbm7" afef cBAc E2"Cm7"B2 A4- |"Dbmaj7" A16 |"Bbm7" afef cBAc"Cm7" E2B2 A4- |"Dbmaj7" A16 | %4
+"Bbm7" afef cBAc"Cm7" E2B2 A4- |"Dbmaj7" A6 FA"Ebsus4" c4 B2>A2 |"Abmaj7" G2>F2 E4 C2E2F2_G2- | %7
+"F7b9" G2 A4 F8 z2 |] %8
+

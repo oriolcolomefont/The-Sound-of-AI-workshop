@@ -1,0 +1,30 @@
+X:1
+T:Sail Along Silv'ry Moon
+T:Sail along silv-ry moon
+T:Percy Wenrich
+T:Harry Tobias
+C:Percy Wenrich
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Dm" d4 A4 |"Bb7" B2 A^G"A7" A4 | z2"Dm" F2 F2"Bb7" (3FDF |"A7" A6 A2 |"Dm" d3 d A2 FA | %5
+w: How I|wish I were you|Mis- ter moon in the|sky so|I could sail thru the|
+"G" B2"Ab7" BB"G7" A2 FA |"C7" c8- | c z z2 z4 | z2 A^G ACFA- |:"F" A8- | A2 A^G AcB=G- |"C7" G8- | %12
+w: blue to the sweet bye and|bye||sail a- long sil vry moon||* trail a- long lov- ers lane||
+ GG^FG z CEG- |"C7" G8- | G2 cc"G7" =B2"C7" _B2 |"F" A8- |"C7" A2 A^G ACFA- |"F" A8- | %18
+w: * sail a- long sil- vry moon||* to my love a-|gain|* in the glow of your light||
+ A2 A^G AcB=G- |"C7" G8- | G2 G^F GCEG- |"C7" G8- | G2"F" c=B"C7" _B E2 F- |"F" F8- | %24
+w: * let me see her to- night||* once a- gain hold her tight||* back in lov- ers lane||
+ F2"F7" A2"Cm" G2"F7" F2 |"Bb" d2 d2"Gm" d2 d2 |"Dm" d2"F" c4 C2 |"C7" B2 B2 B2 c2 |"F" A6"F7" F2 | %29
+w: * and then the|whole world will seem|bright- er as|we stroll hand in|hand two|
+"Bb" d2 d2 d2 d2 |"Dm" d2 c2"G7" AGFG- |"C7" G8- | G"F"A^GA z CFA- |"F" A8- | A2 A^G AcB=G- | %35
+w: blue hearts will seem|light- er you un- der- stand||* sail a- long sil- vry moon||* trail a- long lov- ers lane|
+"C7" G8- | G2"F" G^F GCEG- |"C7" G8- | G2"F" c=B"C7" _B E2 F- |"F" F8 |"C7" z2 A^G ADFA :|"F" F8- | %42
+w: |* sail a- long sil- vry moon||* to my love a- gain||sail a- long sil- vry moon|gain.|
+"F" F8 | z8 |] %44
+w: ||
+

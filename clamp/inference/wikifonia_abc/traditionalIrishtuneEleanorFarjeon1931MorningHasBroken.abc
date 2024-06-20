@@ -1,0 +1,32 @@
+X:1
+T:Morning Has Broken
+T:Morning has broken
+T:Cat Stevens
+T:Eleanor Farjeon
+C:traditional Irish tune Bunessan
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|: C E G |"C" c3 |"Dm" d3 |"G" B A/ G3/2 |"F" A3/2 B/ A |"C" G z2 | C D E |"Em" G3 |"Am" A3 | %9
+w: (1,4)Morn- ing has|brok-|en|like the first|morn- * *|ing|Black- bird has|spok-|en|
+w: (2)Sweet the rains|new|fall|sun- lit from|heav- * *|en|like the first|dew-|fall|
+"D" G3/2 D/ D |"G" D3 | z3 |"C" G E G |"F" c3 | A3 |"C" G E D |"Am" C3 |"D" D3 |"G" E D E |"C" G3 | %20
+w: like the first|bird||Praise for the|sing-|ing|Praise for the|morn-|ing|Praise for the|spring-|
+w: on the first|grass||Praise for seet-|ness-|ness|of the wet|gar-|den|Sprung in com-|plete-|
+"F" A2 z |"G7" D E E/D/ |"C" C3 |"F" z3 |"G" z3 |"E" z3 |"Am" z3 |"G" z3 |"C" z3 |"G7" z3 :| %30
+w: ing|fresh from * the|world||||||||
+w: ness|where his * feet|pass||||||||
+"Am" z3 |"F" z3 |"Bm" z3 |"G" z3 |"D" z3 |"A7" z3 ||[K:D] D F A |"D" d3 |"Em" e3 |"A" c B A | %40
+w: ||||||||||
+w: ||||||(3)Mine is the|sun-|light|mine is the|
+"G" B3/2 c/ B |"D" A2 z | D E F |"F" A3 |"Bm" B3 |"E7" A E E |"A" E2 z | z3 |"D" A F A |"G" d3 | %50
+w: ||||||||||
+w: morn- * *|ing|born of the|one|light|E- den saw|play||praise with e-|la-|
+ B3 |"D" A F E |"Bm" D3 |"E" E3 |"A" F E F |"D" A3 |"G" B3 |"A7" E F E |"D" D3 |] %59
+w: |||||||||
+w: tion|Praise ev- ry|morn-|ing|Gods re- cre-|a-|tion|of the new|day.|
+

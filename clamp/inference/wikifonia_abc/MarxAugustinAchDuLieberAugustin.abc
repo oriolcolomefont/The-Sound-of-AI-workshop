@@ -1,0 +1,16 @@
+X:1
+T:Ach, Du Lieber Augustin
+T:ACH, DU LIEBER AUGUSTIN
+C:Marx Augustin
+Z:Public Domain
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" c3/2 d/ c/B/ | A F F |"C7" G C C |"F" A F F | c3/2 d/ c/B/ | A F F |"C7" G C C |"F" F3 | %8
+w: Ach, Du Lie- ber|Au- gus- tin,|Au- gus- tin,|Au- gus- tin,|Ach, Du Lie- ber|Au\-- gus- tin,|al- les- ist|weg;|
+"C7" G C C |"F" A F F |"C7" G C C |"F" A F F | c3/2 d/ c/B/ | A F F |"C7" G C C |"F" F3 |] %16
+w: Bock ist weg,|stock ist weg,|Auch ich bin|in dem dreck|Ach, Du Lie- ber|Au- gus- tin,|al- les- ist-|weg.-|
+

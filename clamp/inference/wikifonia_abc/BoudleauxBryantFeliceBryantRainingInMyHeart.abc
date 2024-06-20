@@ -1,0 +1,23 @@
+X:1
+T:Raining In My Heart
+T:Raining in my heart
+T:Boudleaux Bryant and Felice Bryant
+C:Boudleaux Bryant, Felice Bryant
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 D2 |"G" D2 B2 B3 D | ^D2 B2 B3 D |"Em" E2 B2 B3 E |"G7" =F2 BB- B_B A2 |"C" G4 E4 | %6
+w: The|sun is out the|sky is blue theres|not a cloud to|spoil the view * but its|rain- ing|
+"D7" z4 FFEE |"G" D8- |"Am7" D6"D7" D2 |"G" D2 B2 B3 D | ^D2 B2 B3 D |"Em" E2 B2 B3 E | %12
+w: rain- ing in my|heart|* the|weath- er- man says|clear to- day he|does- nt know you've|
+"G7" =F2 BB B_B A2 |"C" G4 E4 |"D7" z4 FFGA |"G" G8- |"C" G6"G" z2 |"Dm7" A6 AG |"G7" G6 AG | %19
+w: gone a- way * and its|rain- ing|rain- ing in my|heart||Oh, mis- er-|y mis- er-|
+"C" G2 E6- | E8 |"Em" B4 BABA- |"A7" A6 G2 |"D7" B2 A6- | A6 D2 |"G" D2 B2 B3 D | ^D2 B2 B3 D | %27
+w: y *||whats gon- na be- come|* of|me *|* I|tell my blues they|must- nt show but|
+"Em" E2 B2 B3 E |"G7" =F2 BB- B_B A2 |"C" G4 E4 |"D7" z4 FFGA |"G" G8- |"C" G6"G" z2 |] %33
+w: soon these tears are|bound to flow * cause its|rain- ing-|rain- ing in my|heart||
+

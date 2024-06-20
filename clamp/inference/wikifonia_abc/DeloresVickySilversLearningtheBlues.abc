@@ -1,0 +1,27 @@
+X:1
+T:Learning the Blues
+T:Learnin' the Blues
+T:Dolores "Vicki" Silvers
+C:Delores Vicky Silvers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"^N.C." E F/E/ F z |:"Dm" G z A2- |"G7" A B c/A/ G |"C" A E3 | z2 F/E/ F |"Dm" G z A2- | %6
+w: The ta- bles are|emp- ty,|* the dance floor's de-|sert- ed|play the same|love song,|
+"G7" A G/A/ B A/G/ |"C" A e z2 |"C7" z e e c |"F" e d3- |"Fm" d c _e d/c/ |"C" G4 | z E F/E/ F | %13
+w: * its the tenth time you've|heard it.|That's the be-|gin- ning,|* just one of the|clues,|You've had your first|
+"Dm" G A2 z |"G7" A _e _e/d/c/A/ |"C" c4 | z E"G7" F/E/ F :|"C7" z c d c |"F" d c"Fm" _e c | %19
+w: les- son|* in learn- in' the blues.||The cig- a- rettes|When you're out|in a crowd, the|
+"F" d c"F7" _e/d/c/A/ |"C" G4 | z c"C7" d c |"F" d c"Fm" _e/ z/ c |"F" d c"F7" _e/d/c/A/ |"G7" G4 | %25
+w: blues will taunt you con- stant-|ly.|When you're out|in a crowd, the|blues will haunt your mem- o-|ry|
+ z E F/E/ F |"Dm" G A3- |"G7" A B B/A/ G |"C" A E3 | z E F/E/ F |"Dm" G A3- | %31
+w: The nights when you|dont sleep,|* the whole night you're|cry- in'|But you cant for-|get her,|
+"G7" A/G/A/B/ A/ G z/ |"C" A e3 | z e"C7" e c |"F" e d3- |"Fm" d c _e d/c/ |"C" G4 | E E F/E/ F | %38
+w: * soon you e- ven stop|try- in'|You'll walk the|floor *|* and wear out your|shoes,|When you feel * your|
+"Dm" G z A2- |"G7" A _e"F7" _e/d/c/A/ |"C" c4 |] %41
+w: |* * you're learn- in' the||
+

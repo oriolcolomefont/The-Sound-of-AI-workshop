@@ -1,0 +1,45 @@
+X:1
+T:Unclouded Day
+T:Unclouded Day
+T:Josiah K. Alwood,  1880
+C:Josiah K. Alwood,  1880
+Z:All Rights Reserved
+L:1/8
+Q:1/4=75
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 | z6 CC |"F" FFFF F2 AG |"Bb" F2 D2"F" C2 CC | FFFF F2"Dm" Ac | %9
+w: |||||O they|tell me of a home far be|yond the skies Oh they|tell me of a home far a|
+"C" c6"C7" CC |"F" FFFF F2 AG |"Bb" F2 D2"F" C2 z2 | c3 d cA"F/A"F"Bb6"G | %13
+w: way Oh they|tell me of a home where no|storm clouds rise|Oh they tell me of an|
+"F/C" A2"C7" GG"F" F2"F" z2 | c3 d c2 A2 | F2 A2 F4 | c3 d c2 AG | F2 AA"C" G4- | %18
+w: un cloud ed day|O the land of|cloud less day|O the land of the|un cloud ed day|
+ G2"C7" CC"F" FFFF | F2 AG"Bb" F2 D2 | C2 z2 c3 d | cA"F/A"F"Bb6"G"F/C" A2"C7" GG |"F" F6 CC | %23
+w: _ O they tell me of a|home where no storm clouds|rise O they|tell me of an un cloud ed|day O they|
+"F" FFFF F2 AG |"Bb" F2 D2"F" C2 CC | FFFF F2"Dm" Ac |"C" c6"C7" CC |"F" FFFF F2 AG | %28
+w: tell me of a home where my|friends have gone o they|tell me of thay land far a|way where the|tree _ of _ life in e|
+"Bb" F2 D2"F" C2 z2 | c3 d cA"F/A"F"Bb6"G |"F/C" A2"C7" GG"F" F2"F" z2 | c3 d c2 A2 | F2 A2 F4 | %33
+w: tern al bloom|shed's it's fra grance through the|un cloud ed day|O the land of|cloud less day|
+ c3 d c2 AG | F2 AA"C" G4- | G2"C7" CC"F" FFFF | F2 AG"Bb" F2 D2 | C2 z2 c3 d | %38
+w: O the land of the|un cloud ed day|_ O they tell me of a|home where no storm clouds|rise O they|
+ cA"F/A"F"Bb6"G"F/C" A2"C7" GG |"F" F6 CC |"F" FFFF F2 AG |"Bb" F2 D2"F" C2 CC | FFFF F2"Dm" Ac | %43
+w: tell me of an un cloud ed|day O they|tell me of a King in His|beau ty there and they|tell me that mine eyes shall be|
+"C" c6"C7" CC |"F" FFFF F2 AG |"Bb" F2 D2"F" C2 z2 | c3 d cA"F/A"F"Bb6"G | %47
+w: hold there He|sits on a throne that is white|er than snow|In the ci ty that is|
+"F/C" A2"C7" GG"F" F2"F" z2 | c3 d c2 A2 | F2 A2 F4 | c3 d c2 AG | F2 AA"C" G4- | %52
+w: made _ of gold|O the land of|cloud less day|O the land of the|un cloud ed day|
+ G2"C7" CC"F" FFFF | F2 AG"Bb" F2 D2 | C2 z2 c3 d | cA"F/A"F"Bb6"G"F/C" A2"C7" GG |"F" F6 CC | %57
+w: _ O they tell me of a|home where no storm clouds|rise O they|tell me of an un cloud ed|day O they|
+"F" FFFF F2 AG |"Bb" F2 D2"F" C2 CC | FFFF F2"Dm" Ac |"C" c6"C7" CC |"F" FFFF F2 AG | %62
+w: tell me that He smiles on His|chil dren there and His|smile drives their sor rows all a|way and they|tell me that no tears ev er|
+"Bb" F2 D2"F" C2 z2 | c3 d cA"F/A"F"Bb6"G |"F/C" A2"C7" GG"F" F2"F" z2 | c3 d c2 A2 | F2 A2 F4 | %67
+w: come a gain|In that love ly land of|un cloud ed day|O the land of|cloud less day|
+ c3 d c2 AG | F2 AA"C" G4- | G2"C7" CC"F" FFFF | F2 AG"Bb" F2 D2 | C2 z2 c3 d | %72
+w: O the land of the|un cloud ed day|_ O they tell me of a|home where no storm clouds|rise O they|
+ cA"F/A"F"Bb6"G"F/C" A2"C7" GG |"F" F6 z2 | z8 | z8 | z8 | z8 |] %78
+w: tell me of an un cloud ed|day|||||
+

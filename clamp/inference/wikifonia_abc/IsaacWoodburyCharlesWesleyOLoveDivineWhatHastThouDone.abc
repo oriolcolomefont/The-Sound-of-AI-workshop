@@ -1,0 +1,34 @@
+X:1
+T:O Love Divine, What Hast Thou Done
+T:O Love Divine, What Hast Thou Done
+T:Good Friday
+T:Isaac Woodbury
+T:Charles Wesley
+T:Public Domain
+C:Isaac Woodbury
+Z:Public Domain
+L:1/4
+Q:1/4=100
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^100" D D D |"C" E3 |"G" D"D" D"A" ^C |"D" D3 | F F G |"D7" A3 |"G" G G"D" F |"G" G3 | %8
+w: 1.~O~~~ Love di-|vine,|what hast thou|done?|Th'in- car- nate|God|hath died for|me!|
+w: 2.~Be~~- hold Him,|all|ye that pass|by:|The bleed- ing|Prince|of Life and|Peace!|
+w: 3.~Is~~~~ cru- ci-|fied|for me and|you,|To bring us|reb-|els back to|God.|
+w: 4.~Then let us|sit|be- neath his|cross,|And glad- ly|catch|the heal- ing|stream.|
+"G" D D D |"C" E3 |"G" D"D" D"A" ^C |"D" D3 | F F G |"D7" A3 |"G" G G"D" F |"G" G3 | B B B | %17
+w: The Fa- ther's|co-|e- ter- nal|Son|Bore all my|sins|up- on the|tree!|The Son of|
+w: Come, sin- ners,|see|your Sav- iour|die,|And say, Was|ev-|er grief like|his?|Come, feel with|
+w: Be- lieve, be-|lieve|the rec- ord|true,|Ye all are|bought|with Je- sus'|blood.|Par- don for|
+w: All things for|him|ac- count but|loss,|And give up|all|our hearts to|him.|Of no- thing|
+"C" c3 |"G" B"D7" A"Em" G |"C" E3 | E E E |"G" D"D" D D- | D"D7" D2 |"G" D3 |] %24
+w: God|for me hath|died:|My Lord my|Love is cru-|* ci-|fied.|
+w: me|his blood ap-|plied:|My Lord, my|Love is cru-|* ci-|fied.|
+w: all|flows from his|side:|My Lord, my|Love is cru-|* ci-|fied.|
+w: think|or speak be-|side:|My Lord, my|Love is cru-|* ci-|fied.|
+

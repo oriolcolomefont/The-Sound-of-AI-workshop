@@ -1,0 +1,28 @@
+X:1
+T:Roses Of Picardy
+T:Roses Of Picardy
+C:Haydn Wood
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Am" z4"E7" z2 EE |"Am" c2 c2"B7" B3"Bdim" ^G |"Am" E2 E4"Fm6" FF |"C" G2 GG"Dm7" A2"G+" B2 | %4
+w: She is|watch- ing by the|pop- lars, Col- in-|ette with the sea blue|
+"C" G6"E7" EE |"Am" c2 cc"B7" B2"Bdim" ^GF |"Am" E2 E4"F#7b5" ^FF |"Em" G2 ^FE B2"B7" F2 | %8
+w: eyes. She is|watch- ing and long- ing- and|wait- ing, Where the|long white * road- way|
+"E" B6 BB |"B9/E" ^c4 ^F2 ^GA |"Edim" ^c4"E" ^G2 GG |"B9" A2 B^c"B7" ^d2 B2 |"E6" ^c6"E" B2 | %13
+w: lies. And a|song stirs in the|si- lence, As the|wind in the boughs a-|bove. She|
+"G13" e2 ee"G7" d2 B2 |"C6" A4"Eb7" G2 GA |"G" B2 cd"A7/D" E2"D13" B2 |"G7" G8 || %17
+w: lis- tens and starts and|trem- bles, "Tis the|first lit- tle song of|love.|
+"G9" A2 GA"G7" B2 cA |"C6" cA A4 cA |"G7" c2 BG"G+" (B2 A)G |"C""E7b5" E8 |"A7" A2 ^GA e2 ^cA | %22
+w: Ros- es are shin- ing in|Pic- ar- dy, in the|hush of the sil- * ver|dew,|Ros- es are flow'r- ing in|
+"Dm" GF A4 AB |"D9" c2 Bc e2 c2 |"Dm" d6 BB |"G9" A2 GA"G7" B2 cA |"C6" cA A4 cA | %27
+w: Pi car- dy, but there's|nev- er a rose like|you! And the|ros- es will die with the|sum- mer- time, and our|
+"G7" c2 BG"G+" (B2 A)G |"C" e6"E7" ^de |"A+7" f2"A7" e^c"Em7" B2"A7" cA |"D9" e=c e4"D7" dc | %31
+w: roads may be far _ a-|part. But there's|one rose that dies not in|Pi- car- dy! "tis the|
+"G11" A2 cA A2"G7" BG |"C" c8 |] %33
+w: rose that I keep in my|heart!|
+

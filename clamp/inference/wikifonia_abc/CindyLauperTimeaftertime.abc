@@ -1,0 +1,66 @@
+X:1
+T:Time after time
+T: 
+T:JBB  Avril  2012
+C:Cindy Lauper
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"F" [FAc]8 |"G" [GBd]8 |"Em" [EGB]8 |"F" [FAc]8 :|"F6" D3 C"C" C C3 |"F6" D3 C"C" C C3 | %6
+w: ||||Ly- ing in my|bed I hear the|
+w: ||||||
+"F6" D3 C"C" C4 |"F6" D E2 E-"C" E4 |"F6" D3 C"C" C4 |"F6" D3 C"C" C4 |"F6" D3 C"C" C4 | %11
+w: clock tick, &|think of you _|Caught up in|cir- cles con-|fu- sion Is|
+w: |||||
+"F6" D E2 E-"C" E4 |"F" C3"G" D- D4 |"Em" B,3"F" C- C4 |"F" z C B,2"G" C2 B,G,- |"Em" G,2 z2 z4 | %16
+w: no- thing new _|Flash- back _|warm nights _|Al- most left be- hind|_|
+w: |||||
+"F" C3"G" D- D2 z B, |"Em" B,3"F" C C4 |"F" z2 C2"C" C3 B, ||"F6" D3 C-"C" C2 z E | %20
+w: Suit- cases _ of|me- mo- ries,|Time af- ter|Some- times _ you|
+w: |||Af- ter _ my|
+"F6" D2 C"C"C- C2 C2 |"F6" D3"C" C- C C3 |"F6" D2 E"C"E- E2 C2 |"F6" D3 C-"C" C C3 | %24
+w: pic- ture me _ I'm|walk- ing _ too|far a- head _ You|are cal- * ling|
+w: pic- ture fades _ &|dark- ness _ has|Tur- ned to grey Watch-|ing thru _ _|
+"F6" D3 C-"C" C C3 |"F6" D3 C-"C" C C3 |"F6" D3"C" E- E2 z C |"F" C3"G" D- D2 z2 | %28
+w: to me, _ I|can't hear _ What|you've said _ Then|you said _|
+w: win- dows _ you're|won- dering _ If|I'm O- K *|Se- crets _|
+"Em" B,3"F" C- C2 z2 |"F" z3 C"G" C B,2 G,- |"Em" G,2 z2 z4 |"F" z3 C"G" C B,2 G,- | %32
+w: go slow _|I fall be- hind|_|The se- cond hand|
+w: sto- len _|from deep in- side|_|The drum beats out|
+"Em" G, A,2"F" A,- A,DGG- |:"G" GDGG z DGG |"Am" z A2 E- E2 z2 | %35
+w: _ un- winds _ If you're lost|_ you can look & you will|find me _|
+w: _ of time * * * *|||
+"F" z2 [CE]2"Gsus4" [CE]2 [B,D][CE]- |"C" [CE]2 z2 z DGG- |"G" GDGG z DGG |"Am" z A2 E- E2 z2 || %39
+w: Time af- ter time|_ If you fall|_ I will catch you I'll be|wai- ting _|
+w: ||||
+"^Al Coda""F" z2 [CE]2"Gsus4" [CE]2 [B,D][CE]- ||1 [CE]2 z2 z DGG :|2 E2 z2 z4 |:"F" [FAc]8 | %43
+w: Time af- ter time|* If you're lost|||
+w: ||||
+"G" [GBd]8 |"Em" [EGB]8 |"F" [FAc]8 :|"F" z2 [CE]2"Gsus4" [CE]2 [B,D][CE]- |"C" [CE]2 z2 z4 | %48
+w: |||Time af- ter time|_|
+w: |||||
+"F" z2 [CE]2"Gsus4" [CE]2 [B,D][CE]- |"C" [CE]2 z2 z4 |"F" z2 C2"Gsus4" C2 B,C- |"C7sus4/Bb" C8- | %52
+w: Time af- ter time|_|Time af- ter time.|_|
+w: ||||
+ C8 |] %53
+w: |
+w: |
+V:2
+|: z [A,C][A,C][A,C] z [A,C][A,C][A,C] | x8 | x8 | x8 :| x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %12
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %31
+ x8 | x8 |: x8 | x8 | x8 | x8 | z4 z3 c- | cBAc- c A3 || x8 ||1 x8 :|2 x8 |: x8 | x8 | x8 | x8 :| %46
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %53
+

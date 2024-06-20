@@ -1,0 +1,26 @@
+X:1
+T:My Own True Love
+T:My Own True Love Tara's Theme
+C:Max Steiner
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Eb" z2 B,2 B3 G |"Fm7""Bb7" F8 | z2 B,2 B3 F |"Ebsus4""Eb" E8 | z2 E2 e3 d | %5
+w: My own true|love,|my own true|love,|at last I've|
+"Ab""Ab+" d4"Ab6" c4 |"Eb" z2 B,2 B3 G |"Bb""Fm7""Bb7" F8 |"Eb" z2 B,2 B3 G |"Fm7""Bb7" F8 | %10
+w: found you,|my own true|love.|No lips but|yours,|
+ z2 B,2 B3 F |"Ebsus4""Eb" E8 |"Eb" z2 E2 e3 d |"Ab""Ab+" d4"Ab6" c4 |"Eb" z2 B,2"Bb7" G3 F | %15
+w: no arms but|yours,|will ev- er|lead me|through heav- ens|
+"Eb""Fm7""Eb" E8 |"Ab" z2 E2 e3 d |"Ab" c8 |"Gm" z2 D2 d3 c | B8 |"Fm" z2 C2 c3 B | A4"Fm7" c4 | %22
+w: doors.|I roamed the|earth|in search of|this,|I knew I'd|know you,|
+"Gm" G2 B6 |"Fm7" z C2 F"Bb7" B4 |"Eb" z2 B,2 B3 G |"Fm7""Bb7" F8 |"Bb7" z2 B,2 B3 F | %27
+w: know you|by your kiss.|And by your|kiss|you've shown true|
+"Ebsus4""Eb" E8 |"Eb" z2 E2 e3 d |"Ab""Ab+" d4"Ab6" c4 |"Eb" z2 B,2 G3 F |"Eb""Fm7" E6"Bb7" z2 :| %32
+w: love,|I'm yours for-|ev- er|my own true|love.|
+"Eb""Fm7" E8- |"Eb" E6 z2 |] %34
+w: love.||
+

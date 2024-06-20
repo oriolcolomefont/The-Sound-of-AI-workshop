@@ -1,0 +1,32 @@
+X:1
+T:How Do You Keep The Music Playing
+T:How Do You Keep The Music Playing
+C:Michel LeGrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Fm7" z AGF GAFE |"Bb7sus4" E2"Bb7" F6 |"Ebmaj7" z GFE F2 G2 |"Cm7" C8 |"Fm7" z cBA BcAG | %5
+w: How do you keep the mus- ic|play- ing?|How do you make it|last?|How do you keep the song from|
+"Bb7sus4" A2"Bb7" B4 F2 |"Ebmaj7" G8- |"Gm/D" G8 |"Cm7" z edc decB |"F7sus4" B2"F7" c6 | %10
+w: fad- ing too|fast?|_|How do you lose your- self to|some- one|
+"Bbmaj7" z dcB c2 d2 |"Gm7" G8 |"Am7b5" z cB=A BcAG |"D7sus4" G2"D7" =A4 D2 |"Gm" B8- | %15
+w: and nev- er lose your|way?|How do you not run out of|new thins to|say?|
+"Gm7b5""C7b9" B8 |"Fm7" z AGF GAFE |"Bb7sus4" E2"Bb7" F6 |"Ebmaj7" z GFE F2 G2 |"Cm7" C8 | %20
+w: _|And since we know we're al- ways|chang- ing,|how can it be the|same?|
+"Abmaj7" z cBA"Gm7" BcAG |"Fm7" ABGF GAFE |"Fm7/Bb" F4- FGAB |"Bb7" F4 E4 |"Eb" E8- | E4 z2 E2 | %26
+w: And tell me how, year af- ter|year, you're sure your heart will fall a-|part _ each time you|hear (her/his)|name?|_ I|
+"Cm" e6"Cm7" z e |"F7sus4" eddc"F7" cBBc |"Bbmaj7" c2 d4 z d |"Ebmaj7" dccB B=AAB |"Am7b5" c6 z c | %31
+w: know the|way I feel for you, it's now or|nev- er. The|more I love the more that I'm a-|fraid that|
+"D7sus4" cBB=A"G7b9" AGGA |"Gm7b5" =A2 B4"G7" z A |"C7sus4" =A2"C7b9" B6 |"Fm7" z AGF GAFE | %35
+w: in your eyes I may not see for-|ev- er, for-|ev- er.|If we can be the best of|
+"Bb7" E2 F6 |"Eb" z GFE"Ebmaj7" F2 G2 |"Cm7" C8 |"Abmaj7" z edc"Gm7" decB | %39
+w: lov- ers,|yet be the best of|friends,|if we can try with ev- 'ry|
+"Gm7/C" cdBA"C7b9" BcAG |"Fm9" A8 |"Fm7b5" z BGF GAFE |"Bb7sus4" F4- FGAB |"Bb7" F4 E4 | %44
+w: day to make it bet- ter as it|grows,|with an- y luck, then I sup-|pose _ the mu- sic|nev- er|
+"Ab/Eb" E8- |"Eb" E8 |] %46
+w: ends.|_|
+

@@ -1,0 +1,35 @@
+X:1
+T:Because It's Christmas
+T:Because It's Christmas
+T:For All The Children
+C:Barry Manilow
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"C6" z CCC CC- (3CDE |"Fmaj7" (ED D4) z2 |"Dm7" z DDD"G7" DDEF |"Cmaj7" E6 z2 |"Am7" z EEE EEFG- | %5
+w: To- night the stars shine _ for the|child- * dren|and light the way for dreams to|fly.|To- night our dreams come wrapped in|
+"Dm7" (3G(GF F4) z2 |"F/G" z FFF"G7" FDEF |"Cmaj7" G6 z2 |"Am7" z AAA AABc | %9
+w: _ rib- * bons.|The world is right and hopes are|high.|And from a dark and frost- ed|
+"Fmaj7" (BA A2) C F2 A |"E7" B4 ^G A2 B |"Am7" c4 E A2 B |"Dm7" c2 F2 z ccF |"F/G" A2"G7" G6 | %14
+w: win- * dow a child ap-|pears to search the|sky be- cause it's|Christ- mas be- cause it's|Chris- mas.|
+"C6" z CCC CC- (3CDE |"Fmaj7" (ED D4) z2 |"Dm7" z DDD"G7" DDEF |"Cmaj7" E6 z2 |"Am7" z EEE EEFG- | %19
+w: To- night be- longs to _ all the|child- * ren,|to- night their joy rings through the|air.|And so, we send our ten- der|
+"Dm7" (3G(GF F4) z2 |"F/G" z FFF"G7" FDEF |"Cmaj7" G6 z2 |"Am7" z AAA AABc | %23
+w: _ bless- * ings|to all the child- ren ev- 'ry-|where|to see the smiles and hear the|
+"Fmaj7" (BA A2) C F2 A |"E7" B4 ^G A2 B |"Am7" c4 E A2 B |"Ab6" c2 _A2 _EE- E/A/_B | %27
+w: laugh- * ter a time to|give, a time to|share, be- cause it's|Christ- mas for now _ and for-|
+"C/G" c2 G2 =EE- E/G/c |"Am7" d2 A2"D7" z D^FA |"G7" c2 B2 A2 B2 |"C6""C6" z CCC CC- (3CDE | %31
+w: ev- er for all _ of the|child- ren, and for the|child- ren in us.|To- night the stars shine _ for the|
+"Fmaj7" (ED D4) z2 |"Dm7" z DDD"G7" DDEF |"Cmaj7" E6 z2 |"Am7" z EEE EEFG- |"Dm7" (3G(GF F4) z2 | %36
+w: child- * dren|and light the way for dreams to|fly.|To- night our dreams come wrapped in|_ rib- * bons.|
+"F/G" z FFF"G7" FDEF |"Cmaj7" G6 z2 |"Am7" z AAA AABc |"Fmaj7" (BA) A2 C F2 A |"E7" B4 ^G A2 B | %41
+w: The world is right and hopes are|high.|And from a dark and frost- ed|win- * dow a child ap-|pears to search the|
+"Am7" c4 E A2 B |"Ab6" c2 _A2 _EE- E/A/_B |"C/G" c2 G2 =EE- E/G/c |"Am7" d2 A2"D7" z D^FA | %45
+w: sky be- cause it's|Christ- mas for now _ and for-|ev- er for all _ of the|child- ren, and for the|
+"F/G" c4"G7" B4 |"F/G" A4"G7" B4 |"C6" c8- | c6 z2 |] %49
+w: child- ren|in us|all.||
+

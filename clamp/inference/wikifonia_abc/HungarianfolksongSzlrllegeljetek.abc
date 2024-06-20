@@ -1,0 +1,14 @@
+X:1
+T:Szélről legeljetek
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ c2 G2 | EG EC :: EG GF | ED EC :| EG C2 | EG C2 | GF ED | CC C2 |] %8
+w: Szél- ről|le- gel- je- tek,|Mert ha fá- nak|ne- ki men- tek,|Szi- li kút,|sza- nyi kút,|szent- and- rá- si|sob- ri kút.|
+w: Fá- nak|ne men- je- tek,|Fe- je- te- ket|be- ve- ri- tek,|||||
+

@@ -1,0 +1,30 @@
+X:1
+T:Let Me Entertain You
+T:Let Me Entertain You
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" E G3 |"G9" F A2 A |"C" G ^F G e- | e c2 c |"F" A ^G A d- | d c"F#dim" B A |"C""Cdim" G4- | %7
+w: Ex- tra!|Ex- tra! Hey!|look at the head-|* line. His-|tor- i- cal news|_ is be- ing|made|
+"Dm7" G3"G7" z |"C" E G3 |"G9" F A2 A |"C" G ^F G e- | e c2 B |"D7" A A A A | A A B c |"G7" B4- | %15
+w: _|Ex- tra!|Ex- tra! They're|draw- ing a red|_ line a-|round the big- gest|scoop of the de-|cade!|
+"Dm7" B2"G7" z B |"C7" c c c c- | c z z _B |"F" A A A A- | A z z"F7" A |"D" d ^c"C" d c | %21
+w: _ A|bar- rel of charm,|_ a|fab- u- lous thrill!|_ The|big- gest lit- tle|
+"F" d c2"D7" A |"G7" B2"F6" c"G7" d- | d z !fermata!G2 ||[M:4/4]"C" c"Cdim" c2 d/>c/ |"G7" B G3 | %26
+w: head- line in|vau- de- ville.|_ Oh!|Let me en- ter-|tain you,|
+"Dm7" F"G7" F2 G/>F/ |"C" E4 |"C" C/>B,/C/>B,/ C/ A G/ |"G7" B,/>^A,/B,/>A,/ B,/ =A G/ | %30
+w: Let me make you|smile.|Let me do a few tricks, some|old and then some new tricks, I'm|
+"Dm7" D D"G+7" ^D D |"C" E3"C7" z |"F" z3/4 C/<D/C/4"Fm" D/ C3/2 |"C" z3/4 C/<D/C/4"Cdim" D/ C3/2 | %34
+w: ver- y ver- sa-|tile.|And if you're real good,|I'll make you feel good,|
+"Dm7" z3/4 C/<D/C/4"D7" (3D C D |"G7" E3 G |"C" c c2 d/>c/ |"A9" B"G" A2"Cm6""A7" E | %38
+w: I want your spir- its to|climb. Just|let me en- ter-|tain you and|
+"Dm7" F"A7" G/>G/"Dm" A"G7" B |"C7" c"E7" B/A/-"A7" A2 |"Dm" F z"Edim" G z3/4 G/4 | %41
+w: we'll have a real good|time, yes sir, _|We'll have a|
+"Dm" A z"G7" B z |1"C" c"Cdim" (3B/c/B/"Dm7" A"G7" G :|2"C" c3 z |] %44
+w: feal good|time. * * * * *|time.|
+

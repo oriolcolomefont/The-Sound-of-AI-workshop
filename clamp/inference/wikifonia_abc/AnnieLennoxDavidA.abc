@@ -1,0 +1,29 @@
+X:1
+T:Sweet Dreams
+T:SWEET DREAMS
+C:Annie Lennox, David A. Stewart
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 2
+V:1
+"C#m""_Moderately" z2 e2 e2 ce- |"A" e e2 (e"G#sus4" d4) |"C#m" e(ec)e- e2 c2 | %3
+w: Sweet Dreams are made|_ of this, _|who am _ I * to|
+"A" e f3"G#sus4" (ed) z c |"C#m" eece- e2 ec |"A" e f2 (e"G#sus4" d2) z2 |"C#m" e2 ce- e c3 | %7
+w: dis- a- grees? _ I|trav- el the world _ and the|sev- en seas, _|ev- 'ry- bod- * y's|
+"A" eefd-"G#sus4" d d3 |1"C#m" ee c2 e2 ce- |"A" ec z2"G#sus4" z4 |"C#m" ee c2 eece- | %11
+w: look- ing for some- * thing.|Some of them want to use|_ you,|some of them want to get used|
+"A" e f3"G#sus4" (ed) z2 |"C#m" ee c2 eece- |"A" e c3"G#sus4" z4 |"C#m" ee c2 e2 ce- | %15
+w: _ by you, _|some of them want to a- buse|_ you,|some of them want to be|
+"A" e f3"G#sus4" (e d3) |"A" A8- | A4"G#" G4 |"C#m" G6 B2 |"F#m" A8 |"A" A8 |"G#" G8 :|2"A" A8- || %23
+w: _ a- bused. _|_|||||||
+ A4"G#" G4 |"C#" G6 B2 |"F#m" A8 |"A" A8 |"G#" G8 |"C#m" Gc c/c/ z z4 |"F#" ec c/c/ z DD/E/- E2 | %30
+w: |||||Hold your head up,|keep your head up, mov- in' on. _|
+"C#m" ec c/c/ z GG/E/- E2 |"F#" gc c/c/ z DD/E/- E2 |"C#m" ec c/c/ z GG/E/- E2 | %33
+w: Hold your head up, mov- in' on. _|Keep your head up, mov- in' on. _|Hold your head up, mov- in' on. _|
+"F#" gc c/c/ z DD/E/- E2 |"C#m7" ec c/c/ z GG/E/- E2 |"F#" gc c/c/ z"^fade..." z4!D.C.! |] %36
+w: Keep your head up, mov- in' on. _|Hold your head up, mov- in' on, _|Keep your head up.|
+

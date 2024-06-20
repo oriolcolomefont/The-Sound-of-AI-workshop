@@ -1,0 +1,26 @@
+X:1
+T:I Whistle A Happy Tune
+T:I Whistle a happy tune
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^N.C." c |"F" A/B/ c c c |"F7" c3 c |"Bb" B c d d |"Gm" d3 d |"C7" e/f/ g g g | g3 ^g | %7
+w: When-|ev- er I feel a-|fraid I|hold my head e-|rect and|whis- tle a hap- py|tune, so|
+"F" a f c A | c z"C7" d B |"F" A4- | A2 z"^N.C." c |"F" A/B/ c c c |"F7" c3 c |"Bb" B c d d | %14
+w: no- one will sus-|pect I'm a-|fraid|* while|shiv- er- ing in my|shoes I|strike a care- less|
+"Gm" d3 d |"C7" e/f/ g g g | g3 ^g |"F" a f c A |"C7" c z d g |"F" f4- | f3"^N.C." f/e/ | %21
+w: pose and|whist- le a hap- py|tune and|no- one ev- er|knows I'm a-|fraid|* the re-|
+"Db" f f f f/e/ | f f2 f |"F" f f f f/e/ | f3 f |"C" g g g3/2 g/ |"Cm" g/g/"^N.C." g g3/2 g/ | %27
+w: sult of this de *|cep- tion is|ver- y strange to *|tell for|when I fool the|peo- ple I fear, I|
+"G7" a"^N.C." =B B B |"C7" d3"^N.C." c |"F" A/B/ c c c |"F7" c3 c |"Bb" B c d d |"Gm" d3 d | %33
+w: fool my- self as|well! I|whis- tle a hap- py|tune and|ev- ry sin- gle|time the|
+"C7" e/f/ g g g | g3 ^g |"F" a f c A | c z"C7" a g |"F" f4- | f z f z |] %39
+w: hap- pi- ness in the|tune con-|vin ces me that|I'm not a|fraid.||
+

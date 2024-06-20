@@ -1,0 +1,45 @@
+X:1
+T:The Girl From Ipanema
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^(Garota de Ipanema)" G2 z E E E2 F- | F2 F2- F _A3 | G2 z E E E2 _E- | E2 _E4 _D2 |: %4
+w: ||||
+w: ||||
+"^[A]" G3"Fmaj7" E E2 DG- | G2 EE- EEDG- |"G7" G2 E2 E2 DG- | GGEE- EEDF- |"Gm7" F D2 D- DDCE- | %9
+w: Tall and tan and young-|_ and love- _ ly the girl-|_ from I- pa- ne-|_ ma goes walk- _ ing and when-|_ she pass- _ es, each one|
+w: |* * hand- _ some, the boy-|_ _ _ _ _||* he pass- _ es, each girl|
+"Gb7" E C2 C- CC B,2 |"Fmaj7" z2 C6- |"Gb9" C4 z4 |"^[A]" G3"Fmaj7" E E2 DG- | G2 EE- EE D2 | %14
+w: * she pass- _ es goes|"A\-a\-ah!"||When she walks she's like|* a sam- _ ba that|
+w: * he * * * *|||* he walks he's *||
+"G7" G2 E2 E2 DG- | G2 EE- EEDF- |"Gm7" F D2 D DDCE- |"Gb7" E C2 C- CC B,2 |"Fmaj7" z2 C6- | %19
+w: swings so cool and sways-|_ so gen- _ tle, that when-|_ she pass- _ es, each one-|_ she pass- _ es goes|"A\-a\-ah!"|
+w: ||* he pass- _ es, each girl-|_ he * * * *||
+ C4 z4 |"^[B]""Gbmaj7" F8- | (3F2 _G2 F2 (3_E2 F2 E2 |"Cb9" _D3 _E- E4- | E6 z ^G- |"F#m7" G8- | %25
+w: |Oh,|* but I watch her so|sad- ly *|* How|~|
+w: ||* * * * him *||||
+ (3G2 A2 ^G2 (3^F2 G2 F2 |"D9" E3 ^F- F4- | F6 z A- |"Gm7" A8- | (3A2 B2 A2 (3G2 A2 G2 | %30
+w: * can I tell her I|love her? *|* Yes,||* I would give my heart|
+w: * * * * him *|* him? *||||
+"Eb9" F3 G- G4- | G4 (3z2 A2 B2 |"Am7" (3c2 C2 D2 (3E2 F2 G2 |"^D7-9" ^G6 A2 | %34
+w: glad- ly, *|* But each|day when she walks to the|sea, she|
+w: ||* * he * * *|* he|
+"Gm7" (3B2 B,2 C2 (3D2 E2 F2 |"^C7-9" ^F6 z2 ||"^[A]" G3"Fmaj7" E E2 DG- | G2 EE- EEDG- | %38
+w: looks straight a- head, not at|me.|Tall and tan and young|* and love- _ ly, the girl|
+w: |||* * hand- _ some, the boy|
+"G7" G2 E2 E2 DG- | GGEE- EEDA- |"Gm7" A3 F FFDc |"Gb7" c3 E (3E2 E2 D2 |"Fmaj7" E8 |1"Gb7" z8 :|2 %44
+w: * from I- pa- ne-|_ ma goes walk- _ ing, and when|* she pass- es I smile,|* but she does- n't|see.||
+w: ||* he * * * *|* * he * *|||
+ z2"Gb7" z E (3E2 E2 D2 ||"Fmaj7" E8 |"Gb7" z2 z E (3E2 E2 D2 |"Fmaj7""Gb7" E8- | %48
+w: She just does- n't|see.|No, She does- n't|see.|
+w: he * * *||* he * *||
+"Fmaj7" !fermata!E8 |] %49
+w: |
+w: |
+

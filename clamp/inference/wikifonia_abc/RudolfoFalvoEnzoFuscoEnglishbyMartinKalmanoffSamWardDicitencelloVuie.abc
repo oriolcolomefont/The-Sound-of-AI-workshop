@@ -1,0 +1,41 @@
+X:1
+T:Dicitencello Vuie
+T:Dicitencello Vuie
+C:Rudolfo Falvo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 E2 |"Em" FGFE ^DEFE |"Am6" C2 C4 ^D2 | EFE^D CDFE |"Em" B,2 B,6- | B,2 E2 F2 G2 | %6
+w: Di-|cit- en- cel- lo~͜a 'sta cam- pa- gna|vos- ta ch'ag-|gio per du to~ò suo- nno e~͜'a fan-|ta- sia|* ca~͜'a pen- zo|
+w: ||||||
+"Am" G4 F4- |"B7" F2 F2 GFE^D |"Em" F4 E4- |"E7" E2 E2 =FEDE |"Am" D3 C C4- |"Am6" C3 C DCB,^A, | %12
+w: sem- pre|* Che ~e͜~tut- ta vi ta|mi- a|* i' nce͜~'o wul- les- se|di- ce- re|* ma nun nce͜'~o ssac- cio|
+w: ||||||
+"B" B,8- ||"Em" B,2 E2 G2 B2 |:"Am" B4 A4- |"B7" A2 A2 GFEF |"Em" G8- | G2 E2 GEGE |"Am6" C4 C4- | %19
+w: di!|* "A vo- glio|bbe- ne,|* 'A vo- glio bbe- ne~͜as-|saie,|* di- ci- ten- cel- lo|vu- ie|
+w: ||love her,|* I've loved her from the|start,|* and tell her how I'm|yearn- ing|
+"B7" C2 ^D2 FDFD |"Em" B,4-"B7" B,4- |"Em" B,2 E2 G2 B2 |"Am" B4 A4- |"B7" A2 A2 GFEF | %24
+w: * ca nun m'~'a- scor- do|mai- e.|* E' na pas-|sio- ne,|* cchiú for- te e'na ca-|
+w: * to say what's in my|heart. *|* Just say I|need her,|* as ros- es need the|
+"Em" G4- G4- | G2 E2 GEGE |"Am6" C4 C4- |"B7" C2 F2 GFE^D |1"Em""Am" E8- |"B" E2 E2 G2 B2 :|2 %30
+w: te- na,|* Ca mme tur- me- ta~͜ll~a-|ne- ma.|* E nun mme fa cam-|pa!|* Just say I|
+w: rain. *|* And tell her that with-|out her|* my dreams are all in|||
+"Em""Am" E8- |"Em" E6 z2 ||"D7" z DFA c3 d |"G" c2 B4 BG |"D7" D2 FA c2 cd |"G" B6 B2 | %36
+w: ||If you should chance to|meet her an- y|time, an- y place, an- y-|where. Say|
+w: vain.||||||
+"B7" B,2 ^DF"Am6" A3"B7" B |"Em" A2 G6 |"Am7" G2 GG AAGA |"B7" B2 E2 G2 B2 |"Am" B4 A4- | %41
+w: I was a fool to|leave her,|Tell her how much a fool can|care, E' na pas-|sio- ne,|
+w: |||||
+"B7" A2 A2 GFEF |"Em" G4 G4- | G2 E2 GEGE |"Am6" C4 C4- |"B7" C2 F2 GFE^D |"Em""Am6" E8- | %47
+w: * cchiú for- te e'na ca-|te- na,|* Ca mme tur- me- ta~͜ll~a-|ne- ma.|* E nun mme fa cam-|pa!|
+w: ||||||
+"Em" E6 z2 |] %48
+w: |
+w: |
+

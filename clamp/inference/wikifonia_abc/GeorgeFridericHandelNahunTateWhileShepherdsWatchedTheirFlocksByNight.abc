@@ -1,0 +1,24 @@
+X:1
+T:While Shepherds Watched Their Flocks By Night
+T:While Shepherds Watched Their Flocks By Night
+C:George Frideric Handel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z (E/>F/) |"C" G c"G" B"F" A |"C" G (C/>D/) E (E/>F/) | G G G (F/E/) | (E"G" D) z (B/c/) | %5
+w: While _|shep- herds watched their|flocks by _ night, All _|seat- ed on the _|ground, _ The _|
+w: "Fear _|not," he said for|mifht- y _ dread Had _|seized their troub- led _|mind, _ "Glad _|
+w: To _|you, in Da- vid's|town, this _ day, Is _|born of Da- vids _|line, _ The _|
+ d"C" G"Dm" F"G7" F |"C" F (E/D/) E (c/B/) |"F" A"C" G"F" F"C" E |"F" (A2"C" G)"Dm" d | %9
+w: an- gel of the|Lord came _ down, An _|glo- ry shone a-|round, _ And|
+w: tid- ings of great|joy I _ bring To _|you and lll man-|kind. _ To|
+w: Sa- vior, who is|Christ, the- * Lord, And _|this shall be the|sign, _ And|
+"C" G"F" c"C" E"G7" D |"C" C3 z |] %11
+w: glo- ry shone a-|round.|
+w: you and all man-|kind.|
+w: this shall be the|sign.|
+

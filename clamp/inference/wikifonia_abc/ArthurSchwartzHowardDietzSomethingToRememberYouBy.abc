@@ -1,0 +1,28 @@
+X:1
+T:Something To Remember You By
+T:Something To Remember You By
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"F" z c"C7" c"C7sus4" c |"F" c A F"Fdim" D |"Gm7" B G"Fdim" E"C7" C- |"Gm7""C7" C4 | %4
+w: Oh, give me|some- thing to re-|mem- ber you by,||
+"F" z c c"F7" c |"Gm7" d B"C7" G E |"F" F4 |"Gm7""C7" G4 |"F" z c"C7" c"C7sus4" c | %9
+w: when you are|far a- way from|me|dear.|Some lit- tle|
+"F" c A F"Fdim" D |"Gm7" B G"Fdim" E"C7" C- |"Gm7""C7" C4 |"F" z c c"F7" c |"Gm7" d B"C7" G E | %14
+w: some- thing, mean- ing|love can- not die,||No mat- ter|where you chance to|
+"F" F4- | F2"C+" E"F" F |"Gm7" A3/2 G/"C7" G2- |"Gm7""C7" G2"Cdim" ^F"C7" G |"Bbm" B3/2 A/"F" A2- | %19
+w: be.|* Though I'll|pray for you,|* night and|day for you;|
+ A2"C+" ^G"F" A |"Dm" c3/2 =B/"E7" B2- |"Dm6" =B2"E7" c d |"Am""E" e4 |"Gm7" d/ d B/ G"C7" c | %24
+w: * it will|see me through|* like a|charm,|till you're re- turn- ing.|
+"F" z c"C7" c"C7sus4" c |"F" c A F"Fdim" D |"Gm7" B G"Fdim" E"C7" C- |"Gm7""C7" C4 | %28
+w: So give me|some- thing to re-|mem- ber you by,||
+"F" z c c"F7" c |"C7" e"Gm7" d B"C7" G |1"F" F3"Fdim" z ||"Gm7""C7" z4 :|2"F""C7/F" F4- || %33
+w: when you are|far a- way from|me.||me.|
+"F" F3 z |] %34
+w: |
+

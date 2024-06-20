@@ -1,0 +1,60 @@
+X:1
+T:Girl
+T:Girl
+T:John Lennon, Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 64
+%%MIDI control 10 64
+V:1
+ c2 d2 |:S"Cm" e3 e e3 e"G7" f3 e d3 c |"Cm" c4 G4 c4 B4 |"Fm" A3 c =B3 c d3 c B3 A | %4
+w: ||||
+w: It there|an- y- bod- y going to list- en|to my stor- y,|All a- bout the girl who came to|
+w: ||||
+"Eb" G8"G7" z4 z2 c d |"Cm" e3 e e3 e"G7" f3 e d3 c |"Cm" c4 G4 c4 B4 |"Fm" A3 c =B3 c d3 c B3 A | %8
+w: ||||
+w: stay, She's the|kind of girl you want so much it|makes you sor- ry,|Still you don't re- gret a sin- gle|
+w: ||||
+"Cm" G8 z4 c4 |"Eb" B4- B2cB G8"Gm" z8 z8 |"F" z4 c12"B7" |O B8"Eb" (3c2B2G2- G4O"Gm" ||1 %12
+w: ||||
+w: day. Ah,||oohss~(Breathe~in)|GIRL * * * *|
+w: ||||
+ z8"Fm7""B7" z4 z2 c d :|2"Fm7" z8"B7" z8 ||[M:4/4]"Fm" c3 c c3 c c3 c c3 c | %15
+w: |||
+w: When I||She's the kind of girl who puts you|
+w: |||
+"C" c3 c c3 c c3 c c3 c |"Fm7" f4- e4 [FA]2 [FA]2 [FA]2 [FA]2 | %17
+w: ||
+w: down, When friends are there, you feel a|fool. * (Tu tu tu tu|
+w: ||
+"C" [=EG]2 [EG]2 [EG]2 [EG]2 [EG]2 [EG]2 [EG]2 [EG]2 |"Fm7" c3 c c3 c (3c2 c2 c2- c3 c | %19
+w: ||
+w: tu tu tu tu tu tu tu tu)|When you say she's * ing good, look- She|
+w: ||
+"C" c3 c c3 c c3 c c3 c |"Fm7" f4- e4 f4- e4 |"Ab" f4- e4 f4- e2c2 | %22
+w: |||
+w: acts as if it's un- der- stood, She's|cool * oh *|ooh * ooh * *|
+w: |||
+[M:4/4]"Eb" B8- cBG2 G4"Gm" z16 |"Fm7" z4"B7" c12 |"Eb" B8- (3c2B2G2 G4"Gm" z16 | %25
+w: |||
+w: GIRL * * * *||GIRL * * * *|
+w: |oohs~(Breathe~in)||
+"Fm" z8"B7" z4 z2 c dS ||O z3"Fm" c A2>c2"B7" z3 d B2>c2 |:"Cm" G2G2 E2G2"G7b9" A2A2 F2A2 | %28
+w: |||
+w: Was she|||
+w: |||
+"Cm7" B2B2G2G2 [Ac]2c2 B2B2 |"F" A2A2 c2c2 B2B2 A2A2 |1"Eb" G2G2"Fm7" A2A2"C+7" G2G2"G7" F2F2 :|2 %31
+w: |||
+w: |||
+w: |||
+ G2"Cm"G2 A2A2 G2"Eb"G2 c4 |:"Eb" (B4 B2cB G8)"Gm" z16 |"Fm7""^Repeat and fade" z4 c12"B7" :| %34
+w: |||
+w: * * * * * she *|* * * GIRL *||
+w: |||
+

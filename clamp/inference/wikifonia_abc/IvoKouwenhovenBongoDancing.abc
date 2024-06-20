@@ -1,0 +1,23 @@
+X:1
+T:Bongo Dancing
+T:Bongo Dancing
+T:for bongo and band
+T:Ivo Kouwenhoven
+T:Himalaya Music
+C:Ivo Kouwenhoven
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Flugelhorn"
+%%MIDI program 56
+V:1
+ z8 |"^8" z8 |"^4" z8 | D>DDD DDFG | D>DDD DA,C^C | D>DDD DDFG | D2 z2 z4 | F>FFF FEDA, | %8
+ D>EEF F4 | F>FFF FEDA, | DA, A,/G,A,/ A,4 | F>FFF FEDA, | D>EEF F2 FG | A z z2 z z z A, | %14
+ C>^CCD z4 | A>GGF FEDA, | D>EEF F4 | F>^FF=F FEDA, | DA, A,/G,A,/ A,4 | G>^FF=F FEDA, | %20
+ D>EE!<(!F F2 FG |!<)! AGAG FA/F/FA, | C>^CCD z4 | G>GGG GGAG | F>DDA, A,A,DF | G>GGG GGAG | %26
+ F>DDA, A,A,DF | G>GGG GGAG | E3 F E3 F | EF E/F/!<(!E/^D/ E4 |!<)! F>FFF FEDA, | D>EEF F4 | %32
+ A>GGF FEDA, | DA, A,/G,A,/ A,4 | G>^FF=F FEDA, | D>EEF F2 FG | A z z2 z z z A, | C4!<(! ^C4 | %38
+!<)! D2 z2 z4 | z8 | z8 | z8 | D>DDD DDFG | D>DDD DA,C^C | D>DDD DDFG | D2 z2 D2 z2 | z8 | z8 | %48
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %57
+

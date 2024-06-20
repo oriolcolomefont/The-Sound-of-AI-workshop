@@ -1,0 +1,24 @@
+X:1
+T:Bad Moon Rising
+C:J C Fogerty
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" A A2 F |"C" (G F)"Bb" G F |"F" A F3- | F3 z | A A2 F |"C" G F3/2"Bb" A/ F |"F" F4- | F3 z | %8
+w: I see a|* bad moon a-|ri- sing|_|I * see|trou- ble on the|way.|_|
+w: I hear _|hu- ri- canes a-|blow- ing.|_|I know the|end is co- ming|soon.|_|
+w: Hope you _|got your things to-|geth- er.|_|Hope you are|quite pre- pared to|die.|_|
+ A A2 F |"C" (G F)"Bb" G F |"F" A (F3 | F3) z | A A2 F |"C" G F"Bb" A F |"F" F4- | F3 z || %16
+w: I * see|* earth quakes and|light- nin.|_|I see _|bad _ times to-|day|_|
+w: I fear _|ri- vers o- ver-|flow ing.|_|I hear the|voice of rage and|ruin.||
+w: Looks like we're|in for nas- ty|wea- ther.|_|One eye is|ta- ken for an|eye.||
+"Bb" B B B G | (F G2) F | A A A G | (F D3) |"C" G3 G |"Bb" G F F F |"F" F4- |1,2 F3 z :|3 F4 |] %25
+w: Don't go 'round to-|night _ it's|bound to take your|life. _|There's a|bad moon on the|rise|_||
+w: |||||||||
+w: |||||||||
+

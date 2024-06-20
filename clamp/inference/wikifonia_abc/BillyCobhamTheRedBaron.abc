@@ -1,0 +1,20 @@
+X:1
+T:The Red Baron
+T:The Red Baron
+T:Billy Cobham
+C:Billy Cobham
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:G
+V:1 bass 
+%%MIDI program 0
+V:1
+"G7""^(Intro\n- soloing)""^[ Slow Boogaloo ]" G,,2>G,,2"C7"G,,2"C7"C,2- C,8 | %1
+"G7" G,,2>G,,2"C7"G,,2"C7"C,2- C,8 | x16 | x16 | x16 | x16 |"G7" G,,2>G,,2"C7"G,,2"C7"C,2- C,8 | %7
+"G7" G,,2>G,,2"C7"G,,2"C7"C,2- C,6[K:treble] gG |:"G7""C7" z8"C7" =FG2G z G z G | %9
+ _B2AG ABG2- G4 z2 gG |"G7""C7" z8"C7" =FG2G z G z G | %11
+"G7" ^cd2_B/A/"C7" G"C7" z cd2B/A/Gc dB/A/gG |"G7""C7" z8"C7" =FG2G z G z G | %13
+"G7" _B2AG A"C7"B"C7"G2- G4"^[ Unison ]" GB2c | ^cd z g z d z G _B2 (3AGD ^CBAG | %15
+ AG"Eb7#11"=F"Eb7#11"A- A12 |"Db7#11" G12- G2gG :| %17
+

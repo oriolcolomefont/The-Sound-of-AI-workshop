@@ -1,0 +1,24 @@
+X:1
+T:If (They Made Me A King)
+T:If
+C:Tolchard Evans
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"G" c3 d (3cBA |"Em" B3 c (3BAG |"Am" A4 E2 |"G" G6 |"Am" A3 B"Adim" (3AG^F | %5
+w: If they made me a|king, I'd be but a|slave to|you.|If I had ev- 'ry-|
+"G" G3 A"Gdim" (3GFE |"F" F4 C2 |"E7" E6 |"Em7b5" E3 F"A7" GA |"Dm" F6 |"B7" ^F3 G AB |"Em" G6 | %12
+w: thing, I'd still be a|slave to|you.|If I ruled the|night,|stars and moon so|bright,|
+"Am" A3 B"Am7" c^c |"D7" d4 A2 |"Dm7" d6- |"G7""Dm7" d4"G7" z2 |"G" c3 d (3cBA |"Em" B3 c (3BAG | %18
+w: Still I'd turn for|light to|you.|_|If the world to me|bow'd, yet humb- ly I'd|
+"Am" A4 E2 |"G" G6 |"Am" A3 B"Adim" (3AG^F |"G" G3 A"Gdim" (3GFE |"F" F4 C2 |"E7" E6 | %24
+w: plead to|you.|If my friends were a|crowd, I'd turn in my|need to|you.|
+"Em7b5" E3 F"A7" GA |"Dm" F6 |"B7" ^F3 G AB |"Em" G4 z2 |"Am" c3 d (3cBA |"Dm7" c4"G7" d2 |1 %30
+w: If I ruled the|earth,|what would life be|worth|If I had- n't the|right to|
+"C""Ab7" c4"Db7" z2 ||"A7""Ebdim""G7" z6 :|2"C""F""Fm" c6- ||"C" c6 |] %34
+w: you?||you?|_|
+

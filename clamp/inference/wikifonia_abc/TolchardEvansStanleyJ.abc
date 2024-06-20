@@ -1,0 +1,24 @@
+X:1
+T:Lady Of Spain
+T:Lady Of Spain
+C:Tolchard Evans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" c4 B2 A2 | A4 B2 c2 |"G7" (3(B/c/B/ A-) A6- | A8 | B4 A2 G2 |"G+" G4 A2 B2 | %6
+w: Lad- y of|Spain, I a-|dore _ _ you _|_|Right from the|night I first|
+"C" (3(A/B/A/) G- G6- | G8 |"A7" A4 G2 F2 | E4 F2 G2 |"Dm" (3(G/A/G/ F-) F6- | F8 |"D7" c4 B2 A2 | %13
+w: saw _ _ you. _|_|My heart has|been yearn- ing|for _ _ you. _|_|What else can|
+ A4 B2 c2 |"Fm" d8- |"G7" dG^FG ^GA^AB |"C" c4 B2 A2 | A4 B2 c2 |"G7" (3(B/c/B/ A-) A6- | A8 | %20
+w: an- y heart|do?||Lad- y of|Spain, I'm ap-|peal- * * ing. _|_|
+ B4 A2 G2 |"G+" G4 A2 B2 |"C" (3(A/B/A/ G-) G6- | G8 |"A7" A4 G2 F2 | E4 F2 G2 | %26
+w: Why should my|lips be con-|ceal- * * ing. _|_|All that my|eyes are re-|
+"Dm" (3(G/A/G/ F-) F6- | F8 |"D7" c4 B2 A2 |"G7" B4 c2 d2 |1"C" c4"Am7" dcBA | %31
+w: veal- * * ing _|_|La- dy of|Spain I love|you. * * * *|
+"D+7" _A3 _B"G7" G4 :|2"C" c8- | c6 z2 || %34
+w: |you.|_|
+

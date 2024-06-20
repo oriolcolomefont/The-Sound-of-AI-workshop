@@ -1,0 +1,31 @@
+X:1
+T:Laughing On The Outside
+C:Bernie Wayne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Tenor Sax" snm="T Sax."
+%%MIDI program 66
+V:1
+ z4"C7" z2 z c |"F " A2- A/A/G/A/"Dmin" G F3 |"Gmin" B B2 A/B/"C7" A G3 | %3
+w: The|crowd * sees me out dan- cing,|care- free and ro- man cing,|
+"Cmin" c c2 B/"D7"c/ B2 A2 |"Gmin" d4 z2 z e |"Dmin" f f2 _A/=A/"Gmin" e d3 | %6
+w: hap- py with my some- one|new. I'm|laugh- ing on the out- side,|
+"F " c c2 E/F/"D7" B A3 |"G7" DE FA G3 F |"C7" G6 z c |"F " A A2 G/A/"Dmin" GF- F2 | %10
+w: cry- ing on the in- side,|cause I'm still in love with|you. They|see me night and day time *|
+"Gmin7" B B2 (3:2:2A/B"C7" A G3 |"Cmin" c c2 B/"D7"c/ B3 A |"Gmin" d6 e2 | %13
+w: ha- ving such a great time;|they don't know what I go|through. I'm|
+"Dmin" f f2 _A/=A/"Gmin" e d3 |"F " c c2 E/F/"D7" B A3 |"G7" (3:2:2D2 E (3:2:2F2 A"C7" G3 A | %16
+w: laugh- ing on the out- side,|cry- ing on the in- side,|cause I'm still in love with|
+"F " F6 z2 |"F7" F3 A c3 d | _e3 d c3 d |"Cmin" _ed ce- e3 c/d/ |"F7" c6 z A |"G7" G3 =B d3 e | %22
+w: you.|No one knows it's|just a pose, pre-|ten- ding I'm glad * we're a\-|part and|when I cry my|
+ f2 ed- d3 e | f2- ff e2- eG |"C7""Amin7" c6"C " z c |"F " A A2 (3:2:2G/A"Dmin" G F3 | %26
+w: eyes are dry, * the|tears * are in * my|heart. My|dar- ling can't we make up|
+"Gmin" B B2 A/"C7"B/ A G3 |"Cmin" cc =Bc"D7" _B2 A2 |"Gmin" d4- d z2 e | %29
+w: e\- ver since our break up|make be- lieve is all I|do. * I'm|
+"Dmin" f f2 _A/=A/"Fdim7" e d3 |"F " c c2 E/"D7"F/ B A3 |"G7" DE FA"C7" d2 E2 |"F " F4 z4 | %33
+w: laugh- ing on the out- side,|cry- ing on the in- side,|cause I'm still in love with|you.|
+"G7" DE FA"C7" d4 | e4"F " f4- | f8 |] %36
+w: Yes, I'm still in love|with you.||
+

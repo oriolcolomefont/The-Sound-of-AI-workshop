@@ -1,0 +1,26 @@
+X:1
+T:I'm Confessin' That I love You
+T:I'm Confessin' That I love You
+C:Ellis Reynolds
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"G" DEFG"D+" F2 D2 |"Gmaj7" F2 F6 |"G" DEFG"D+" F2 D2 |"Bm7""E9" F8 |"A7" EFGB A2 G2 | %5
+w: I'm con- fess- in' that I|love you,|tell me, do you love me|too?|I'm con- fess- in' that I|
+"Am7" A2 A2"D7" (3A2 G2"D7b9" F2 |"G""Em7" G8 |"Am7" EGEG"D13" B"D7b9" B3 |"G" DEFG"D+" F2 D2 | %9
+w: need you, hon- est I|do,|need you ev- 'ry mo- ment.|In your eyes I read such|
+"Gmaj7" F2 F6 |"G" DEFG"D+" F2 D2 |"Bm7""E9" F8 |"A7" EFGB A2 G2 | %13
+w: strange things|but your lips de- ny they're|true.|Will your an- swer real- ly|
+"Am7" A2 A2"D7" (3A2 G2"D7b9" F2 |"G""Cm" G8- |"G" G2 z2 z4 |"G7" =FGAc B2 G2 |"G9" A2 A6 | %18
+w: change things, mak- ing me|blue?||I'm a- fraid some- day you'll|leave me|
+"C" GABc"G+" B2 G2 |"C6""B7""Bb7" A8 |"A7" AB^cd c2 A2 |"Em7" B2"A9" B6 |"D9" ABce"Am7" c2 B2 | %23
+w: say- ing "Can't we still be|friends?"|If you go you know you'll|grieve me;|all in life on you de-|
+"D9""D7b9" A8 |"G" DEFG"D+" F2 D2 |"Gmaj7" F2 F6 |"G" DEFG"D+" F2 D2 |"Bm7""E9" F8 | %28
+w: pends.|Am I guess- ing that you|love me,|Dream- ing dreams of you in|vain?|
+"A7" EFGB A2 G2 |"Am7" A2 A2"D7" (3A2 G2"D7b9" F2 |"G""Cm6" G8- |"G6" G6 z2 |] %32
+w: I'm con- fess- in' that I|love you o- ver a-|gain.-||
+

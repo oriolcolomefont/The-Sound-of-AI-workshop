@@ -1,0 +1,40 @@
+X:1
+T:Skylark
+T:SKYLARK
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Eb6""_Moderato" c4"Bb7/F" c4- |"Eb/G" c2 B>e"Ab" d>cB>A |"Eb/Bb" G G2 G-"Gm/Bb" G4- | %3
+w: Sky- lark,|_ Have you an- y- thing to|say to me? _|
+w: |* Have you seen a val- ley|green with Spring, _|
+w: |* I don't know if you can|find these things, _|
+"Ab" G2 F>c"Eb/G" B>GE>C |"Ab" E E2 E-"Eb/G" E4- |"F7" E2 (3EFE"Bb7" D<A C>D!dacoda! |1 %6
+w: _ Won't you tell me where my|love can be? _|_ Is there a mea- dow in the|
+w: _ Where my heart can go a|jour- ney- ing, _|_ O- ver the sha- dows and the|
+w: _ But my heart is rid- ing|on your wings, _|_ So, if you see them an- y-|
+"Eb" E4-"Cm" EG"Cm7/Bb"Be |"Ab" dcde"Fm7/Bb""Bb7" B4 :|2"Eb" E2 GB"Bb7" _dcBA ||"Eb" B4- B>EG>B | %10
+w: mist, _ Where some- ones's|wait- \-ing to be kissed?|rain, to a blos- som cov- ered|lane? _ And in your|
+w: ||||
+w: ||||
+"Ab" ee-"Eb6" ee-"Fm7""E7" e4- |"Eb7" e2 (3fed _d>EG>d |"Abmaj7" cc-"Ebdim" cc-"Ab6""Db7" c4- | %13
+w: lone- ly _ flight, _|_ Have- n't you heard the mu- sic|in the * night, _|
+w: |||
+w: |||
+"C7" c2 (3_dcB"Ddim" AG-"C7/E" G2 |"Fm" F2"Fm7" A>c"Fdim" (3_cBA"Db" F2 | %15
+w: _ Won- der- ful mu- sic, _|Faint as a "will o' the wisp,"|
+w: ||
+w: ||
+"Fm" c>e"Eb+7"f>=B"Ab" e4 |"G" =Bd=eB- BG=ED |"A7" =B_B"D7"=AG-"G" G"Bb7" B3 || %18
+w: Cra- zy as a loon,|Sad as a gyp- * sy ser- e-|nad- ing the moon. _ (Oh,)|
+w: |||
+w: |||
+O"Eb" E2 GB"Bb7" _d2 =d2 |"Eb""E6" e4-"Eb6" e2 z2 |] %20
+w: where, Won't you lead me|there? _|
+w: ||
+w: ||
+

@@ -1,0 +1,27 @@
+X:1
+T:Song For Anna
+T:Song For Anna
+T:Chanson D'Anna
+T:Andre Popp
+C:Andre Popp
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z DF BAF |:"D" dDF cDF | BDF ADF |"Em" AB,E GB,F | GB,E CDE |"A7" A,CE AGE | cCE BCE | ACE GCE | %8
+"D" GA,D FA,=F |1 FA,D A,B,C || DDF BAF :|2"D" FA,D A,B,"D7"=C ||"G" DBc d3- | dcd e2 d | %14
+"D" f3 dFG | A6- |"A7" AAB c3- | ccd efg |"D" g3 f2 e | gfe f3 |"G" DBc d3- | dcd e2 d | %22
+"D" f3 dFG | A6 |"Bb" z _B=c d3- | de=f g2 f |"F" a/=f/=c/f/c/A/ c/A/=F/A/F/A/ | %27
+"A7" e/c/A/c/A/E/ A/E/C/E/C/A,/ ||[K:F]"^tacet" z FA dcA |:"F" fFA eFA | dFA cFA |"Gm" cDG BDA | %32
+ BDG EFG |"C7" CEG cBG | eEG dEG | cEG BEG |1"F" BCF AC^G || ACF A,B,C | z FA dcA :|2 %39
+"Em7" BDE AD^G ||[K:D]"A7" AEG B,B,C |"^tacet" z DF BAF |"D" dDF cDF | BDF ADF |"Em" AB,E GB,F | %45
+ GB,E CDE |"A7" A,CE AGE | cCE BCE | ACE GCE |"D" GA,D FA,=F | FAD A,B,C | DDF BAF | dDF cDF | %53
+ BDF ADF |"Em" AB,E GB,F | GB,E DCB, |"Bb" _B,_Bc ded |"D" z FG ABA |"A7" z CD EFE |"D" DDF BAF | %60
+"Ab" d_E=c E_BE | _A_EG E=FE |"D" FA,B, CB,A, | z DF BAF |"Ab" d_E=c E_BE | _A_EG E=FE | %66
+"D" F3- F3 | z df baf | d'6- | d'6 |] %70
+

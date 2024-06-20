@@ -1,0 +1,35 @@
+X:1
+T:God Save the King
+T:God Save the King
+T:(1933 version)
+T:traditional:  earliest known version by John Bull (1562 - 1628)
+T:Amsco Music Sales Co., New York City (1933)
+C:traditional:  earliest known version by John Bull (1562 - 1628)
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" F F"^Gmi" G |"C7" E3/2 F/ G |"F" A"^Dmi" A"^Gmi" B |"F" A3/2"C7" G/"^Dmi" F | %4
+w: 1.~God save our|gra- cious King,|Long live our|no- ble King,|
+w: 2.~O, Lord our|God a- rise,|Scat- ter his|en- e- mies|
+w: 3.~Thy~ choi- cest|gifts in store,|On him be|pleased to pour,|
+w: [*4.~Lord, let war's|tem- pest cease,|Fold the whole|world in peace|
+w: ||||
+"^Gmi" G"F" F"C7" E |"F" F3 |"F" c c c | c3/2 B/ A |"C7" B B B | B3/2 A/ G |"F" A B/A/ G/F/ | %11
+w: God save the|King.|Send him vic-|to- ri- ous,|Hap- py and|glo- ri- ous,|Long to * reign *|
+w: And make them|fall;|Con- found their|pol- i- tics,|frus- trate their|kna- vish tricks,|On him * our *|
+w: Long may he|reign;|May he de-|fend our laws,|and e- ver|give us cause|To sing * with *|
+w: Un- der Thy|wings.|Make all the|na- tions one,|all hearts be-|neath the sun,|Till Thou * shalt *|
+w: |||||||
+ A3/2 B/ c |"^Gmi" d/c/4B/4"F" A"C7" G |"F" F3 :| %14
+w: o- ver us,|God _ _ save the|King.|
+w: hopes we fix,|God _ _ save us|all.|
+w: heart and voice,|God _ _ save the|King.|
+w: reign a- lone,|Great _ _ King of|Kings.]|
+w: |[*"fugitive verse" by Longfellow] *||
+

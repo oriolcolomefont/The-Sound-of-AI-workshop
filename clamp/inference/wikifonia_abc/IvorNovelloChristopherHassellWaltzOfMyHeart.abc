@@ -1,0 +1,37 @@
+X:1
+T:Waltz Of My Heart
+T:Waltz Of My Heart
+T:From The Dancing Years 1939
+T:Ivor Novello
+T:Christopher Hassall
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B ||"Ebmaj7" f2"Eb" e |"Fm7" c G3/2 A/ |"Bb7" B3- | B2 B |"Ebmaj7" f2"Eb" e |"Cm7" c G3/2 A/ | %7
+w: The|lark is|sing- ing on|high|* The|Sun's a-|shine in the|
+"Fm7" B3 |"Bb7" B2 A |"Eb" G"Fm7" A"Eb" B |"G7" =B g3/2 f/ |"Cm7" e3- |"Cm7b5" e2 E |"Bb" D E F | %14
+w: blue|* The|Win- ter is|driv- en a-|way|* And|Spring is re-|
+"Gbdim" _G"F7" d3/2 c/ |"Bb" B3 |"Bb7" B2 B |"Ebmaj7" f2"Eb" e |"Cm7" c G3/2 A/ |"Fm7" B3- | %20
+w: turn- ing a-|new|* Who|cares what|sor- row may|bring|
+"Bb7" B2 B |"Ebmaj7" f2 e |"Fm7" c G3/2 A/ |"Bb7" (B3 | B2) A |"Eb" G"Fm7" A"Eb" B |"G7" =B2 B | %27
+w: * What|storms may|tear us a-|part|* No|sad- ness can|kill the|
+"Cm7" c d e |"F7" f e =A |"Bb7" c3 |"Bb+7" d2"Bb7" d |"Eb" e3- | e3!fine! |]"Eb" B, E"Cm" C | %34
+w: won- der and|thrill of the|waltz|in my|heart||Waltz of my|
+"Fm7" F3 |"Bb7" F E D |"Eb" G3 |"Cm7" G E C |"Fm7" A3/2 A/ A |"Bb7" A F D |"Eb" B3 | %41
+w: heart|haunt- ing and|gay|Call- ing en-|thral- ling- ly|walt- zing a-|way|
+"Gm" B d"Cm" e |"Fm7" e3/2 F/ F |"Bb+7" c c c |"Eb6" c3 |"Eb" B"Gm" d"Eb" e |"Fm7" e3/2 F/ F | %47
+w: Ring out your|bells for me|i- vor- y|keys|Weave out your|spell for me|
+"D7" d d d |"G" d3 |"Eb" B, E"Cm" C |"Fm7" F3 |"Bb7" F E D |"Ebmaj7" G3 |"Eb6" G E C | %54
+w: or- ches- tra|please|Chor- us of|wings|thrill- ing the|sky|While you're in-|
+"Fm7" A3/2 A/ A |"Bb7" A F D |"Eb/G" B3 |"Eb" B"Gm" d"Eb" e |"Fm7" e3/2 F/ F |"B7" e e e | %60
+w: spir- ing me|time hurr- ies|by|Joy finds a|fire in me|soon as you|
+"Eb6" B3 |"Cm7" B"Cdim7" _d"B7" =B |"Bb7" B3 |"Eb" B"Ebm" _d"Fm7b5" =B |"Bb7" B3- | B2 B!D.C.! |] %66
+w: start|Sweep- ing your|string|Waltz of my|heart|* The|
+

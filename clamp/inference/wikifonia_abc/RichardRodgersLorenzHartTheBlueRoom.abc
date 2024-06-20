@@ -1,0 +1,37 @@
+X:1
+T:The Blue Room
+T:THE BLUE ROOM
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F""^Slowly, with expression""^A1" C"D7" F2 D |"Gm7" C"C7" G2 D |"Fmaj7" C"Dm7" A2 D | %3
+w: We'll have a|blue room, a|new room, for|
+w: |||
+"Gm7" C"C7" B2 D |"Cm7" C c"F7" c c |"Bbmaj7" c/d/"Eb9" B2 G |"Dm7" F F"G7" F/G/ A | %7
+w: two room, where|ev- 'ry- day's a|hol- i- day be-|cause you're mar- ried to|
+w: ||||
+"Gm7" C3"C7" z |"F6""^A2" C"Dm7" F2 D |"Gm7" C"C7" G2 D |"Fmaj7" C"Dm7" A2 D |"G7" C"C7" B2 D | %12
+w: me.|Not like a|ball- room a|small room, a|hall room, where|
+w: |||||
+"Cm7" C c"F7" c c |"Bbmaj7" c/d/"Eb9" B2 G |"F6" F F"Gm7" F/G/"C7"A/G/ |"F6" F3 z || %16
+w: I can smoke my|pipe a- way, with|your wee head up- on my|knee.|
+w: you * * your||my * * * * your||
+"Gm7""^B" E F G A |"C7" B c d e |"F6" z f"Bb7" f/e/ d |"Am7" c2"D7" d2 |"Gm7" z e"C7" e/d/ c | %21
+w: We will thrive on,|keep a- live on|just noth- ing but|kiss- es,|with Mis- ter and|
+w: |||||
+"Gm7" B2"C7" c2 |"Dm7" z A"G7" A/G/ F |"Gm7" C3"C7" z ||"F6""^A3" C"Dm7" F2 D |"Gm7" C"C7" G2 D | %26
+w: Mis- sus|on lit- tle blue|chairs.|You sew your|trous- seau, and|
+w: |||I'll wear my||
+"Fmaj7" C"Dm7" A2 D |"G7" C"C7" B2 D |"Cm7" C c"F7" c c |"Bbmaj7" c/f/ B2"Eb9" A/G/ | %30
+w: Rob- in- son|Cru- soe is|not so far from|word- ly cares as our|
+w: ||||
+"F6" F F"Gm7" F/G/"C7"A/G/ |"F6" F2"Gm7" z"C7" z |] %32
+w: blue room far a- way up-|stairs|
+w: ||
+

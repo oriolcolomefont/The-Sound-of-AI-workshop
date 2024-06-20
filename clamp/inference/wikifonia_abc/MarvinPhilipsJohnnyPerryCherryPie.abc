@@ -1,0 +1,42 @@
+X:1
+T:Cherry Pie
+T:Cherry Pie
+T:Marvin Philips
+T:Marvin and Johnny
+T:All Rights Reserved
+C:Marvin Philips, Johnny Perry
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C""^120" E2 G c2 G |"Am" A3 E2 C |"Dm7" D2 D DEF |"G7" G2 G, G,A,B, |"C" E2 G c2 G | %5
+w: Cher- ry nah nah|nah Cher- ry|Pie nah nah nah nah|nah nah nah nah nah|Cher ry,~ nah nah|
+w: Su- gar * *|* su- gar|plum * * * *||Su- gar * *|
+w: Gi' me * *|* Gi' me|some. * * * *||Gi' me * *|
+"Am" A3 E2 C |"Dm7" D2 D DEF |"G7" G2 G, G,A,B, |"C" E2 G c2 G |"Am" A3 E2 C |"Dm7" D3 z3 | %11
+w: nah Cher ry~|Pie nah nah nah nah|nah nah nah nah nah|Cher ry,~ nah nah|nah Cher ry~|Pie|
+w: * Su- gar|plum * * * *||Su- gar * *|* Su- gar|plum|
+w: * Gi' me|some * * * *||Gi' me * *|* Gi' me|some|
+"G7" E2 E E2 E/-E/ |"C" (D2 C) CDE |"F" F2- F FED |"C" C6!fine! |1"G7" G,3 G,3 :|2"F" D D4 D || %17
+w: Whoa~ * * so~ *|go- od.~ * * *||||Lit- tle Jack|
+w: Sweet * * as they|co- me. * * *|||||
+w: Cher- ry Cher- ry *|Pie. * * * *|||||
+"G7" D D4 z |"C" E2 E EEE | D C2- C z2 |"F" D D4 D |"G7" E2 E E2 E |"C" (D2 C4) | z z4 C | %24
+w: Horn- er|sat sat sat in his|cor- ner *|eat- ing his|cher- rie Cher- ie|Pie. *|I|
+w: |||||||
+w: |||||||
+"F" DDD D2 D | D4 z C |"C" EEE E2 E |"Am" (C A,4) C |"Dm7" D3- D2 E | D C3 A,C |"G7" D2 G F2 F | %31
+w: did- n't stick in my|thumb, I|did- n't pull out a|plum. * I|guess * I'm|not as straight as|he. * * *|
+w: |||||||
+w: |||||||
+ E2 E D2 D!D.C.! |] %32
+w: |
+w: |
+w: |
+

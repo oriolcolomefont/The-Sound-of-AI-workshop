@@ -1,0 +1,24 @@
+X:1
+T:All Of Me
+T:All Of me
+C:Gerald Marks
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" c3/2 G/ E2- | E2 (3c d c |"E7" B3/2 ^G/ E2- | E4 |"A7" A3/2 G/ E2- | E ^D (3E _B A | %6
+w: All of me|* why not take|all of me?|_|Can't you see|_ I'm no good with-|
+"Dm7" G2 F2- | F4 |"E7" E3/2 _E/ D2- | D2 (3E ^G B |"Am" d2 c2- | c4 |"D7" B3/2 _B/ A2- | %13
+w: out you?|_|Take my lips|_ I want to|lose them.|_|Take my arms,|
+ A2 (3B d B |"Dm7" A4 |"G7" B4 |"C" c3/2 G/ E2- | E2 (3c d c |"E7" B3/2 ^G/ E2- | E4 | %20
+w: _ I'll ne- ver|use|them.|Your good- bye,|_ left me with|eyes that cry,|_|
+"A7" A3/2 G/ G2- | G ^D (3E _B A |"Dm7" G2 F2- | F4 |"F6" d2 c B/d/- |"Fm6" d3 c |"C" B2 E G/B/- | %27
+w: How can I|_ go on, dear, with-|out you?|_|You took the part|_ that|once was my heart,|
+"A7" B3 A |"Fm" c2 _A c |"G7" e2 e2 |1"C" c2-"A7" c2- |"Dm7" c3"G7" z :|2"C" c4- | c z z2 || %34
+w: _ so|why not take|all of|me? _|_|me.|_|
+

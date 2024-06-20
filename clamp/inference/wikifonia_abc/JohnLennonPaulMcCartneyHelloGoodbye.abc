@@ -1,0 +1,19 @@
+X:1
+T:Hello, Goodbye
+T:Hello, Goodbye
+T:John Lennon, PaulMcCartnery
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" d f2 f- f2 z2 |"C" c e2 e- e2 z2 |"G7" B d2 d- d2 G2 |"Am" A c2 c- c2 e2 |"G" g8 | %5
+w: You say yes *|I say no *|You say stop * and|I say go * go|go|
+"Am" z4 a2 e2 |"G7" g6 z2 |"C" g2 ec"G7" d2 z G |"F" c6 cA |"C" c4 z Gce | g4 z Gce | %11
+w: oh *|no|you say good- bye and|I say hel-|lo hel- lo, hel-|lo, I don't know|
+"F" ffed"Fm" ccc_B |"C" c4 z Gce | g4 z Gce |"F" ffed"Fm" cc'c'_b |"C" c'8 |] %16
+w: why you say good- bye I say hel-|lo hel- lo hel-|lo I don't know|why you say good- bye I say hel-|lo.-|
+

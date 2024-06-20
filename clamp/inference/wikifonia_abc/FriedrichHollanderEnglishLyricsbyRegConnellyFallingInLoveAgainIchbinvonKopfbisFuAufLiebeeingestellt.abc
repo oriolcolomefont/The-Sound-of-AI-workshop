@@ -1,0 +1,47 @@
+X:1
+T:Falling In Love Again (Ich bin von Kopf bis Fuß Auf Liebe eingestellt,)
+T:Falling In Love Again
+C:Friedrich Hollander
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" z3/4 F/4 G/>F/ A/>F/ |"F#m7" E2"Fdim" D |"A7" z3/4 c/4 d/>c/ e/>c/ |"A9""Adim" B3 | %4
+w: I of- ten stop and|won- der|why I ap- peal to|men,|
+w: Ein rät- sel- haf- ter|Schim- mer,|Ein "je ne sais- pas-|quoi"|
+"A7" z3/4 c/4 d/>c/ e/>c/ |"A9" B2"A+7" A |"D" F D F |"A+7" B/_B/ A2 |"D" z3/4 F/4 G/>F/ A/>F/ | %9
+w: how man- y times I|blun- der|in love and|out a- gain.|They of- fer me de-|
+w: Leigt in den Au- gen|im- mer|Bei ein- er|schön- en Frau|Doch wenn sich mein- e|
+"F#m7" E2"Dm" D |"A" z3/4 c/4 d/>c/ (e/>c/) |"A9" B3 |"D" z3/4 D/4 A/>D/ F/>A/ |"E9" F2 D | %14
+w: vo- tion|I like it I con-|fess.|When I re- flect e-|mo tion|
+w: Au- gen|Bei ein- em vis- à-|vis|Ganz tief in sein- e|sau- gen|
+"F#m" F E/^E/ F |"A7" A2 ^E |:"D" F"Dmaj7" A"D7" A |"G" A/B/"Gm" G G |"Dsus4" G/A/"D" F"Dmaj7" F | %19
+w: there's no need to|guess. I'm|Fall- ing in|love a- gain, _|Nev er want- ed|
+w: Was sprech- en dann|sie? _|Ich bin von|Kopf bis Fuß auf|Lie- be ein- ge-|
+"D6""Dmaj7" F2"D" F |"Em7" F/G/ E"Gm" E |"A7" E3/2 ^E/ F |"Dsus4" E"D" D2- |"G#dim" D"A7" z2 | %24
+w: to; _|What am I to|do? I can't|help it!|_|
+w: stellt Denn|das ist mein- e|Welt. Und sonst|gar- nichts.||
+"D" F"Dmaj7" A"D7" A |"G" A/B/ G"Gm" G |"Dsus4" (G/A/)"D" F"Dmaj7" F |"D6""D+7" F2"D" F | %28
+w: Love's al- ways|been my game, *|Play it how I|may, _|
+w: Das ist, was|soll ich ma- chen|Mei- * ne Na-|tur Ich|
+"Em7" F/G/ E"Gm" E |"A7" E3/2 ^E/ F |"Dsus4" E"D" D2- |"Bm" D"C#7" z z |"F#7" F ^A c | e d c | %34
+w: I was made that|way; I can't|help it!|_|Men clus- ter|to me, Like|
+w: kann halt Lie- ben|nur Und sonst|gar- nichts|_|Män- ner um-|schwirrn mich wie|
+"Bm" c/d/ B B | B2 ^E |"E7" E ^G B |"Dm/E" d"E" c"E7" B |"A7" B/c/ A"D#dim" A |"A7""A+" A3 | %40
+w: moths a- round a|flame; _|And+ if their|wings burn, I|know I'm not to|blame|
+w: Mot- ten um das|Licht und|wenn sie ver-|bren- nen Ja|da- für kann ich|nicht.|
+"D" F A"D7" A |"G" A/B/ G"Gm" G |"Dsus4" G/A/"D" F"Dmaj7" F |"D6""Dmaj7" F2"D" F | %44
+w: Fall- ing in|love a- gain, _|Nev er want- ed|to; _|
+w: Ich bin von|Kopf bis Fuß auf|Lie- be ein- ge-|stellt, denn|
+"Em7" F/G/ E"Gm" E |"A7" E3/2 ^E/ F |1"Dsus4" E"D" D2- |"Gmaj7" D"A7" z ^E :|2"Dsus4" E"D" D2- | %49
+w: What am I to|do? I can't|help it!|_ I'm|help it!|
+w: das ist Mei- ne|Welt und sonst|gar- nichts|_ Ich|gar- nichts|
+ D z2 |] %50
+w: _|
+w: |
+

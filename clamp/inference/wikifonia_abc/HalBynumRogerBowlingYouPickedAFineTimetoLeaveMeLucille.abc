@@ -1,0 +1,45 @@
+X:1
+T:(You Picked A Fine Time to Leave Me,) Lucille
+T:Lucille
+T:Roger Bowling, Hal Bynum
+C:Hal Bynum, Roger Bowling
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z E F |:"C" G G3/2 G/ | G F3/2 E/ | G G3/2 G/ | G F E/F/ | G G3/2 G/ | G F E |"G7" F3 | z z D | %9
+w: In a|bar in To-|le- do a-|cross from the|de- pot on a|bar stool she|took off her|ring|I|
+w: |mir- ror I|saw him and|I close- ly|watched him I *|thought how he|looked out of|place|He|
+w: |Af- ter he|left us I|or- dered more|whis- key I *|thought how she|make him look|small|Fromthe|
+"Dm7" F F3/2 F/ |"G7" F E z/ D/ |"Dm7" F F3/2 G/ |"G7" F E3/2 D/ |"Dm7" F F3/2 D/ |"G7" G G D | %15
+w: thought I'd get|clos- er so|I walked on|ov- er I|sat down and|asked her her|
+w: came to the|wo- man who|sat there be-|side me He|had a strange|look on his|
+w: lights of the|bar- room toa|rent- ed ho-|tel room we|walked with- out|talk- ing at|
+"C" E3 |"G7" z E F |"C" G G3/2 G/ | G F3/2 E/ | G G3/2 A/ | G F E/F/ |"C7" G G A | _B A E |"F" F3 | %24
+w: name|When the|drinks fin- aly|hit her she|said I'm no|quit- ter but I|fin- aly quit|liv- in on|dreams|
+w: face|* the|big hands were|cal- loused he|looked like a|moun- tain for a|min- ute I|thought I was|dead|
+w: all||she was a|beau- ty but|when she came|to me she *|must- ve thought|I'd lost my|mind|
+ z z G |"G7" B B3/2 B/ | c B G | B B3/2 B/ | c B3/2 G/ |1 G G3/2 G/ || A G3/2 E/ | F E B, |1 %32
+w: I'm|hun- gry for|laugh- ter and|here ev- er|af- ter I'm|af- ter what-|ev- er the|oth- er life|
+w: but|he start- ed|shak- ing his|big heart was|break- ing he||||
+w: |I could- nt|hold her cause|thewords that he|told her kept||||
+"C" C3 || z E F :|2"G7" G G3/2 E/ || F E B, |"C" C3 |"^Chorus:" z z/ C/"^N.C." C/C/ | C E G | %39
+w: brings|in the|(2)turned to the|wo- man and|said|You picked a|fine time to|
+w: ||(3)com- ing back|time af- ter|time|||
+w: |||||||
+ c B A |"F" F3 | z z A | c c c | c B A/A/ | c B E |"C" G3 | z3 |"F" c c3/2 c/ | c B A | c c3/2 c/ | %50
+w: leave me Lu-|cille|with|four hun- gry|chil- dren and a|crop in the|field||I've had some|bad times *|lived through some|
+w: |||||||||||
+w: |||||||||||
+ c B3/2 A/ | c c3/2 c/ | c B E |"C" G3 | z z/ G/ G/G/ |"G7" G D3/2 E/ | F E"^D.S.alCoda" B, | %57
+w: sad times but|this time your|hurt- ing wont|heal|You picked a|fine time to|leave me Lu-|
+w: |||||||
+w: |||||||
+"C" C3 |"G7" B, C D |]"^Coda""C" C3- | C z2 |] %61
+w: cille||cille.||
+w: ||||
+w: ||||
+

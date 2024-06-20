@@ -1,0 +1,59 @@
+X:1
+T:Viva la Vida
+C:Chris Martin, Guy Berryman, Jon Buckland, Will Champion
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"Db2" z8 x8 |"Absus4/Eb" z8 x8 |"Ab" z8 x8 |"Fm" z8 x8 |"Db2" z8 x8 |"Absus4/Eb" z8 x8 | %6
+w: ||||||
+"Ab" z8 x8 |"Fm" z2 z c c2 c2 |"Db2" c6 dB- |"Absus4/Eb" B4 z B B,2 |"Ab" B2 BA c2 EF- | %11
+w: |I used to|rule the world,|* seas would|rise when I gave the world.|
+"Fm" Fccc cc c2 |"Db2" c6 dB- |"Absus4/Eb" B4 z B B,2 |"Ab" B2 B2 B2 c(A- |"Fm" AG F2) z4 | %16
+w: * Now, in the morn- ing I|sweep a- lone|* sweep the|streets I used to own.||
+"Db" z8 x8 |"Absus4/Eb" z8 x8 |"Ab" z8 x8 |"Fm" z8 x8 |"Db" z8 x8 |"Absus4/Eb" z8 x8 |"Ab" z8 x8 | %23
+w: |||||||
+"Fm" z2 z c c2 c2 |"Db" c6 dB- |"Absus4/Eb" B4 z B2 B, |"Ab" B2 BA BBc(A |"Fm" G F3) cccc | %28
+w: I used to|roll the dice,|* feel the|fear in my en- e- my's eyes,|* * lis- ten as the|
+"Db" c4- c d2 B- |"Absus4/Eb" B4 z2 AA |"Ab" cBAA- A2 cB |"Fm" AA z f ff f2 |"Db" f6 ce- | %33
+w: crowd * would sing;|* "Now the|old king is dead! * Long live|The King!" One min- ute I|held the key,|
+"Absus4/Eb" e4 z e2 e |"Ab" e3 E e2 d2 |"Fm" cCcc cccc |"Db" c4- c d2 B- |"Absus4/Eb" B4- BA A2 | %38
+w: * next the|walls were closed on|me and I dis- cov- ered that my|cas- * tles stand|* * up- on|
+"Ab" _cBAA- A2 cB |"Fm" A A3 z2 z A |"Db" f2 f2 fefe- |"Absus4/Eb" e2 Bc- cd- d2 | %42
+w: pil- lars of sand, * pil- lars|of sand. I|hear Je- ru- sa- lem bells|* are ring- * ing. *|
+"Ab" e2 e2 ecec- |"Fm" c2 FG- GA- A2 |"Db" f2 f2 fefe- |"Absus4/Eb" e2 B(c- c d2) E | %46
+w: Ro- man cav- al- ry choirs|* are sing- * ing; *|"Be my mir- ror, my sword|* and shield, * * my|
+"Ab" ec e2 ecec- |"Fm" c F2 (G- GA- A2) |"Db" f2 f2 fefg- |"Absus4/Eb" g g2 g- g2 z2 | %50
+w: mis- sion- ar- ies in a for-|* eign field." * * *|For some rea- son I can't|* ex- plain, *|
+"Ab" e2 e2 e2 ed |"Fm" d c2 z cccc- |"Db" c4- c d2 B- |"Absus4/Eb" B4 z2 BA |"Ab" G G3 c2 GA- | %55
+w: once you go there was|nev- er, nev- er an hon-|* * est word;|* that was|when I ruled the world.|
+"Fm" A6 z2 |"Db" z8 x8 |"Absus4/Eb" z8 x8 |"Ab" z8 x8 |"Fm" z8 x8 |"Db" z8 x8 |"Absus4/Eb" z8 x8 | %62
+w: |||||||
+"Ab" z8 x8 |"Fm" z c cc cc c2 |"Db" (c6 dB) |"Absus4/Eb" c4 z B BE |"Ab" B3 A c2 EF- | %67
+w: |It was a wick- ed and|wild * wind|* blew down the|doors to let me in.|
+"Fm" F2 cc cccc |"Db" c4- c d2 B- |"Absus4/Eb" B4 z2 AA |"Ab" cBAA- A2 cc- |"Fm" cB A2 ffff | %72
+w: * Shat- tered win- dows and the|sound * of drums;|* peo- ple|could- n't be- lieve * what I'd|* be- come. Rev- o- lu- tion-|
+"Db" f6 ce- |"Absus4/Eb" e4 z2 ee |"Ab" e2 ee e2 dc- |"Fm" c2 cc cccc |"Db" c4- c d2 B- | %77
+w: ar- ies wait|* for my|head on a sil- ver plate,|* just a pup- pet on a|lone- * ly string.|
+"Absus4/Eb" B6 A2 |"Ab" cBAF AAFA- |"Fm" A4 z2 z A |]S"Db" f2 f2 fefe- |"Absus4/Eb" e2 Bc- cd- d2 | %82
+w: * Oh,|who would ev- er want to be king?|* I|hear Je- ru- sa- lem bells|* are ring- ing. * *|
+"Ab" e2 e2 ecec- |"Fm" c2 FG- GA- A2 |"Db" f2 f2 fefe- |"Absus4/Eb" e2 B(c- c d2) E | %86
+w: Ro- man cav- al- ry choirs|* are sing- * ing: *|"Be my mir- ror, my sword|* and shield, * * my|
+"Ab" ec e2 ecec- |"Fm" c (F2 G- GA- A2) |"Db" f2 f2 fefg- |"Absus4/Eb" g g2 g- g2 z e | %90
+w: mis- sion- ar- ies in a for-|eign field." * * * *|For some rea- son I can't|* ex- plain * I|
+"Ab" e2 e2 eedd- |"Fm" d c2 c- c2 cc!dacoda! |"Db" cc- c4 dB- |"Absus4/Eb" B4 z A BA | %94
+w: know St. Pe- ter won't call|* my name. * Nev- er|an hon- * est word,|* but that was|
+"Ab" GG- G2 c2 GA- |"Fm" A6 z2 |"Db" z8 x8 |"Fm" z8 x8 |"Db" z8 x8 |"Fm" z8 x8 |"Db" z8 x8 | %101
+w: when I * ruled the world.|||||||
+"Fm" z8 x8 |"Ebsus4" z8 x8 | z (c ea- a2 gf- |:"Dbmaj7" f6- fe) |"Absus4/Eb" z (c ea- a2 ge- | %106
+w: ||Whoa, * * * * *||whoa, * * * * *|
+"Ab" e6- ec) |"Fm" z (c ea- a2 gf)!D.S.! :|O"Dbmaj7" cc- c4 dB- |"Absus4/Eb" B4 z B BA | %110
+w: |whoa, * * * * *|an hon- * est word,|* but that was|
+"Cm7" GG- G2 c2 GA- |"Fm" A6 z2 |:"Dbmaj7" (c8 |"Eb7" d8 |"Cm7" c6 Bc- | %115
+w: when I * ruled the world.||Oo|||
+"Fm" c4)"^Repeat and fade" z4 :| %116
+w: |
+

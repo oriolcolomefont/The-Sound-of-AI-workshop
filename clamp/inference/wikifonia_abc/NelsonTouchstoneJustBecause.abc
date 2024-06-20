@@ -1,0 +1,33 @@
+X:1
+T:Just Because
+T:Just Because 
+T:originally Nelson and Touchstone, revised by Bob, Joe Shelton and Sid Robin .
+C:Nelson, Touchstone
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 A2 | cA Ac | d_A cd | eF B_B | A4 | A^F F2 | B2 e2 | c4- | c2 z2 |:"C" c>c cc | cG AG | %11
+w: |||||||||Just be- cause you|think you're so pret-|
+w: |||||||||Just be- cause you|think I'll be lone-|
+w: |||||||||There will come a|time you'll be lone-|
+ c2 c2- | c2 GG | c>c cc | cG A_B |"G7" B4- | B2 FF | B>B BB | BF AG | B2 B2- | B2 FG | AF AA | %22
+w: ty *||Just be- cause you|think * you're so|hot||Just be- cause you|think * you've got|some- thing-|* * That|* no- bod- y|
+w: some *||just be- cause you|think * I'll be|blue||just be- cause you|think * I'll be|fool- ish|* * To|stay * home and|
+w: some *||there will come a|day * you'll be|blue||when old San ta|Claus * wont be|near you|* * to|pay * all the|
+ BF AF |"C" G4- | GB, CD | c>c cc | cG AG | c2 c2- | cG z G | cc Bc |"C7" d_B c_B |"F" A4- | %32
+w: else * has *|got||though you made me|spend * all my|mon- ey|* * you|laughed and called me|old * San- ta|Claus|
+w: wait * for *|you||though you made me|drop * all my|girl- friends|* * you|laughed and called me|old * San- ta|Claus|
+w: bills * for *|you.||though you may say|that * I am|fool- ish|* * and|think you had the|drop on San- ta|Claus|
+ A2 A2 | A2 cc |"Fm" dA cd |"C" eE"B7" B_B |"A7" A2 GG |"D7" A2 ^FF |"G7" B2 e2 |"C" c2 GG |1 %40
+w: * but|I'm tell- ing|you * hon- ey|I'm * leav- ing|you * be|cause * *|just be-|cause.- * *|
+w: * but|I'm tell- ing|you * hon- ey|I'm * through with|you * be-|cause * *|just be-|cause.- * *|
+w: * but|I'm tell- ing|you * ba- by|I'm * through with|you * be-|cause * *|just be-|cause.- * *|
+"^2;" G z z2 :|3"C" c4- || c2 z2 |] %43
+w: |cause.||
+w: |||
+w: |||
+

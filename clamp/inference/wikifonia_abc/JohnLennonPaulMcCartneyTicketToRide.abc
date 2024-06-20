@@ -1,0 +1,51 @@
+X:1
+T:Ticket To Ride
+T:Ticket To Ride
+T:John Lennon & Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 82
+%%MIDI control 7 127
+V:1
+ A2 ec A B2 e | A2 ec A B2 e | A2 ec A B2 e | A2 ec A B z E |"A" A2 c2 dc A E- | E3 c dc d2 | %6
+w: |||* * * * * I|think I'm gon- na be sad,|* I think it's to-|
+ e6 z e | z4 z2 z e |"A" =g2 g2 ed ee/d/ | c3 c dc d e- |"Bm" e4 z4 |"E" z8 |"F#m" c2 ec ee e e- | %13
+w: day, yeah.|The|girl that's dri- vin- g me ma-|d Is go- ing a- way.|||She's got a tic- ket to ri-|
+"D7" e f3 z4 |"F#m" c2 ec ee e f- |"G" f e2 c3 z2 |"F#m" c2 ec ee e =g- |"E" g3 B e e2 e- | %18
+w: * de,|She's got a tic- ket to ri-|* d- e,|She's got a tic- ket to ride,|* But she don't ca-|
+"A" e/d/ c3 z4 | z4 z2 z E |"A" A2 c2 dc A E- | E3 c dc d2 |"A" e6 z e | z4 z2 z e | %24
+w: * r- e.|She|said that li- ving with me|_ Is brin- ging her|down, yeah.|For|
+ =g2 g2 ed ee/d/ | c3 c dc d e- |"Bm" e4 z4 |"E" z8 |"F#m" c2 ec ee e e- |"D7" e f3 z4 | %30
+w: she would never be fr- e- e-|e When I was arou- nd.|||She's got a tic- ket to ri-|* de,|
+"F#m" c2 ec ee e f- |"G" f e2 c3 z2 |"F#m" c2 ec ee e =g- |"E" g3 B e e2 e- |"A" e/d/ c3 z4 | %35
+w: She's got a tic- ket to ri-|* d- e,|She's got a tic- ket to ride,|* But she don't ca-|* r- e.|
+ z4 z2 z A |"D" d=c dc dc d d- | d =c2 z7/2 d/d/c/ |"D" dd3/2 d/d/=c/ d d2 d |"E" e4 z3 A | %40
+w: I|don't know why she's ri- din' so hi-|* gh, She ought to|think twice, She ought to do right by|me. Before|
+"D" d=c dc dc d d- |"D" d =c2 z7/2 d/d/c/ |"D" dd3/2 d/d/=c/ d d2 d |"E" e4 z4 | z4 z2 z E | %45
+w: she gets to say- ing good- by- e|* , She ought to|think twice, She ought to do right by|me.|I|
+"A" A2 c2 dc A E- | E3 c dc d2 | e6 z e | z4 z2 z e |"A" =g2 g2 ed ee/d/ | c3 c dc d2 | %51
+w: think I'm gon- na be sad,|* I think it's to-|day, yeah.|The|girl that's dri- vin- g me ma-|d Is go- ing a-|
+"Bm" e6 z e |"E" e4 e4 |"F#m" c2 ec ee e e- |"D7" e f3 z4 |"F#m" c2 ec ee e f- |"G" f e2 c3 z2 | %57
+w: way, yeah.||She's got a tic- ket to ri-|* de,|She's got a tic- ket to ri-|* d- e,|
+"F#m" c2 ec ee e =g- |"E" g3 B e e2 e- |"A" e/d/ c3 z4 | z4 z2 z A |"D" d=c dc dc d d- | %62
+w: She's got a tic- ket to ride,|* But she don't ca-|* r- e.|I|don't know why she's ri- din' so hi-|
+ d =c2 z z2 z/ d/d/c/ |"D" dd z/ d/d/=c/ d d2 d |"E" e4 z2 z A |"D" d=c dc dc d d- | %66
+w: * gh, She ought to|think twice, She ought to do right by|me. Before|she gets to say- ing good- by- e|
+"D" d =c2 z z2 z/ d/d/c/ | dd z/ d/d/=c/ d d2 d |"E" e4 z4 | z4 z2 z E |"A" A2 c2 dc A E- | %71
+w: * , She ought to|think twice, She ought to do right by|me.|She|said that li- ving with me|
+ E3 c dc d2 | e6 z e | z4 z2 z e | =g2 g2 ed ee/d/ | c3 c dc d e- |"Bm7" e4 z4 | z4 z e2 c | %78
+w: _ Is brin- ging her|down, yeah.|For|she would never be fr- e- e-|e When I was arou- nd.||Ah, she's|
+ z2 ec ee e e- |"D7" e f3 z4 |"F#m" c2 ec ee e f- |"G" f e2 c3 z2 |"F#m" c2 ec ee e =g- | %83
+w: got a tic- ket to ri-|* de,|She's got a tic- ket to ri-|* d- e,|She's got a tic- ket to ride,|
+"E" g3 B e e2 e- |"A" e/d/ c3 z4 | z2 d'2 c'aed |"A" c4 z4 | z2 d'2 c'aed |"A" c4 z4 | %89
+w: * But she don't ca-|* r- e.|My ba- by don 't|care,|My ba- by don 't|care|
+ z2 d'2 c'aed | c4 z4 | z2 d'2 c'aed |"A" c4 z4 | z2 d'2 c'aed |"A" c4 z4 | z2 d'2 c'aed | %96
+w: My ba- by don 't|care,|My ba- by don 't|care|My ba- by don 't|care,|My ba- by don 't|
+"A" c4 z4 | z2 d'2 c'aed |"A" c4 z4 | z8 |] %100
+w: care|My ba- by don 't|care||
+

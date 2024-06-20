@@ -1,0 +1,28 @@
+X:1
+T:There's A Rainbow 'Round My Shoulder
+T:There's A Rainbow 'Round My Shoulder
+C:Al Jolson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z6 DD |:"G" G2 G2"Am" A2 E2 |"G" (GA) G4 Bc | d2 d2"Em" e2 e2 |"G" d6 Bc | d2 d2"Em" e3 e | %6
+w: There's a|rain- bow on my|shoul- * der, And a|sky of blue a-|bove, Oh, the|sun shines bright, the|
+"G" B2 B2"Bm" d2 B2 |"A7" G4"D7" A4 |"G""C7" G4-"G" G2 DD | G2 G2"Am" A2 E2 |"G" (GA) G4 Bc | %11
+w: world's al- right, "Cause|I'm in|love. _ There's a|rain- bow 'round my|shoul- * der, and it|
+ d2 d2"Em" e2 e2 |"G" d6 Bc | d2 d2"Em" e3 e |"G" B2 B2"Bm" d2 B2 |"A7" G4"D7" A4 | %16
+w: fits me like a|glove, Let it|snow and storm, but|I'll be warm, 'Cause|I'm in|
+"G" G2 GA"G7" BGAB |"C" e2 e2 e4- | e2 GA BGAB |"Cm" _e2 e2 e4- | e2 GA BGAB |"G" d4"D+""Dm" d4- | %22
+w: love. Hal- le- lu- jah, How the|folks will stare,|_ When the see the dia- mond|sol- i- taire,|_ that my lit- tle su- gar|ba- by|
+"E7" d2 ed- d^A B2 |"A7" =A6 A2 |"D7" d6 DD |"G" G2 G2"Am" A2 E2 |"G" (GA) G4 Bc | %27
+w: _ Is go- * ing to|wear, (Yes|Sir!) There's a|rain- bow 'round my|shoul- * der, And a|
+ d2 d2"Em" e2 e2 |"G" d6 Bc | d2 d2"Em" e3 e |"G" B2 B2"Bm" d2 B2 |"A7" G4"D7" A4 |1 %32
+w: sky of blue a-|bove, And I'm|shout- ing so the|world will know that|I'm in|
+"G" G4"D7" z2 DD :|2"A7""D7" G8- |"G" G4- G2 z2 |] %35
+w: love. There's a|love.|_ _|
+

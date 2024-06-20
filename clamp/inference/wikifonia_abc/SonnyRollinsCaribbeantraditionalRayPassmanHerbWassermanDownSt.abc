@@ -1,0 +1,47 @@
+X:1
+T:Down St. Thomas Way
+T:Down St. Thomas Way
+T:music: Sonny Rollins (traditional)
+T:lyrics: Ray Passman & Herb Wasserman
+C:Sonny Rollins (Caribbean traditional)
+Z:All Rights Reserved
+L:1/4
+Q:1/4=200
+M:2/2
+K:Ab
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+|:"Ab6""^Medium Latin Swing: Calypso" z E/A/z/G/ z/ F/ |"Cm7" .E .F"F7" .C .D | %2
+w: One cold win- ter|mor- ning it was|
+w: The peo- ple were|friend- ly and they|
+w: I know how it|feels to have some|
+w: I'm tra- ding the|ci- ty for a|
+"Bbm7" .E A"Eb7" .G"Ab6" !tenuto!A- | A z z2 |"Ab6" z E/A/z/G/ z/ F/ |"Cm7" .E .F"F7" .C .D | %6
+w: se- ven be- low,||I made up my|mind: my friend the|
+w: gave me the key,||at- tached was a|tou- rist guide, a|
+w: sand in my shoes,||to find an es-|cape from all these|
+w: tro- pi- cal tree.||And if you meet|a- ny- one who's|
+"Bbm7" .E .A"Eb7" .G"Ab6" !tenuto!A- | A z z E |"Cm7b5" c3/2 d/-"Gb7" d"F7" e- | e z z A | %10
+w: snow's got to go.|* So|I sub- * leased,|* went|
+w: cute young la- dy.|* We|saw the * sites,|* and|
+w: ci- vil- ised blues.|* No|cul- de- * sacs,|* no|
+w: as- king for me,|* tell|all and * each,|* that|
+"Bbm7" d3/2 c/-"Fb+7" c"Eb7" B- | B z z E |"Ab7" c3/2 B/-"Ab9/C" B A- |"Db6" A z/"Ddim7" F3/2 z | %14
+w: south by * east,|* and|free- zing * ceased|* down|
+w: climbed the * heights,|* and|oh those * nights|* down|
+w: bro- ken * backs,|* it's|just re- * lax|* down|
+w: they can * reach|* me|on the * beach|* down|
+"Ab6/Eb" .E .A"Eb7" .G"Ab6""^(fine)" .A | %15
+w: Saint Tho- mas Way.|
+w: Saint Tho- mas Way.|
+w: Saint Tho- mas Way.|
+w: Saint Tho- mas Way.|
+"_After solos D.C. al fine\nHead twice before & after solos" z4 :| %16
+w: |
+w: |
+w: |
+w: |
+

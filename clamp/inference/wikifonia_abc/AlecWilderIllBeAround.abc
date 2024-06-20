@@ -1,0 +1,32 @@
+X:1
+T:I'll Be Around
+T:I'll Be Around
+C:Alec Wilder
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G4"Dm7" c2 G2 |"C/E" E4"Fmaj7" z CDE |"G7" E4"G#dim7" z DEF |"F/A""G7/B" F8 | %4
+w: I'll be a-|round no mat- ter|how you treat me|now.|
+"C" G4"Am7" c2 A2 |"Dm7" F2 C2"G7b9" E4 |"C""Bbm""Eb9" C8- |"Abmaj9" C2"A6" z2"G7" z4 | %8
+w: I'll be a-|round from now|on.|_|
+"C" G4"Dm7" c2 G2 |"C/E" E4"Fmaj7" z CDE |"G6" E4"G#dim7" z DEF |"F/A""G7/B" F8 | %12
+w: Your lat- est|love can nev- er|last, and when it's|past|
+"Cmaj7" G4"Am7" c2 A2 |"Dm7" F2 C2"G7b9" E4 |"C""F" C8- |"C6" C2 z2 z2 C2 |"Db7/Ab" ^C4"Gm7" D4 | %17
+w: I'll be a-|round when he's|gone.|_ Good|bye a-|
+"Gm9/C""C7" A6 C2 |"Db7/Ab" ^CC"Gm7"DD F2"C7b9" E2 |"Fmaj7""F6" c6 A2 |"Ab7/Eb" ^G4"Dm7" A4 | %21
+w: gain, and|if you find a love like|mine, just|now and|
+"Dm9/G""G7b9" e8 |"Cmaj7" d2 cA-"Am7" AAcA |"Dm7" c"G7b9" A2 E- E3 F |"Cmaj7" G4"Dm7" c2 G2 | %25
+w: then|drop a line _ to say you're|feel- ing fine. _ And|when things go|
+"C/E" E4"Fmaj7" z CDE |"G7" E4"G#dim7" z DEF |"Dm7/A""G7/B" d6 B2 |"C" G4"Am7" e2 c2 | %29
+w: wrong, per- haps you'ss|see, you're meant for|me, so,|I'll be a-|
+"Dm7" A2 C2"G7b9" E4 |1"C""Bbm9""Eb9" C8- |"Abmaj9" C2"Ab6" z2"G7" z4 :|2"C""Dm7""Fm" C8- | %33
+w: round when he's|gone.|_|gone.|
+"C" C8 |] %34
+w: _|
+

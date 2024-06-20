@@ -1,0 +1,23 @@
+X:1
+T:When you wore a tulip
+T:When you wore a tulip
+T:(and I wore a big red rose)
+T:Percy Wenrich
+T:Jack Mahoney
+C:Peter Wenrich
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"G" D | D D2 E | G G2 A | B B2 A | G B2"G7" A |"C" G G2 ^F | G2 E2 |"G" D4- | D4 |"C" E c2 B | %10
+w: When|you wore a|tu- lip a|sweet yell- ow-|tu- lip and|I wore a|big red|rose||when you ca-|
+ c E2 _E |"G" D B2 ^A | B D"E7" E D |"A7" ^C A2 G | A B3 |"D7" A4- | A z z2 |"G" D D2 E | G G2 A | %19
+w: ressed me Twas|then heav- en|blessed me what a|bless- ing *|no- one|knows||you made life|cheer- y when|
+ B B2 A | G B2"G7" A |"C" G G2 ^F | G2 A2 |"B7" F4- | F F G F |"E7" E B2 ^A | B c2 B | %27
+w: you called me|dear- y twas|down where the|blue grass|grows|* your lips were|sweet- er than|ju- lep when|
+"A7" E A2 ^G | A B2 E |"D7" G F2 E | F G A2 |"G" G4- | G4 | z4 |] %34
+w: you wore that|tu- lip and|I wore a|big * red|rose.|||
+

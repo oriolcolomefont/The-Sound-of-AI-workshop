@@ -1,0 +1,22 @@
+X:1
+T:Fold your wings (from "Glamorous Night")
+T:Fold your wings
+T:Ivor Novello
+T:Christopher Hassall
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" G6 |"G7/D" G6 |"C/E" G3 A Bc |"E7" d4 c2 |"F" D6 |"F/E" D6 |"Dm7" D3 E FG |"G7" B4 A2 | %8
+w: Fold|your|wings of love a-|round me|Hold|them|close 'til they have|found me|
+"Am" C6 |"^(/G#)" C6 |"^(/G)" C3 D EF |"Fm" G4 F2 |"C/G" E6 |"Am" c6 |"Dm7" D6 |"G7" A6 |"C" G6 | %17
+w: I'm|your|slave and your de-|fen- der|I|sur-|ren-|der|Fold|
+"G7/D" G6 |"C/E" G3 A Bc |"A7" f4 e2 |"Dm" A6 |"A7" A6 |"Dm" A3 B ^cd |"Fm" g4 f2 |"C/G" e6 | %25
+w: your|wings for- ev- er|shar- ing|Peace|and|joy be- yond com-|par- ing|Life|
+ dc Bd cC |"D7" E6 |"C/E" G2 B2"Ebdim" A2 |"Dm7" f6 |"G7" e6 |"C" c6- | c6 |] %32
+w: tru- ly life has just be-|gun|Now our two|hearts|are|one||
+

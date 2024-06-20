@@ -1,0 +1,34 @@
+X:1
+T:In The Moonlight
+T:In The Moonlight  
+T:Paul Schriber
+T:Hal Poole  
+C:Hal Poole, Austin Casey
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ _e=e |:"Am" B B4- BAB |"D7" dddd"D+" _B2 FG |"G" A E4- EDE |"Bm7b5" =F2 G"E7" E3 _E=E | %5
+w: It was|mid- night * on the|beach at wai- ki- ki where I|kissed you, * in the|sweet- est dream, it was|
+"Am" G G4 E_E=E |"D7" B B4- BAB |"G" d"G#dim" d6- d |"Am" z4"D7" z2 _e=e |"Am" B B4- BAB | %10
+w: splen- did our hearts were|blen- ded * IN THE|MOON- LIGHT. *|Stars were|shin- ing * from the|
+"D7" dddd"D+" _B2 FG |"G" A E4- EDE |"Bm7b5" =F2 G"E7" E3 EE |"Am" D C4- CEG |"D7" B D4- D_D=D | %15
+w: heav- ens up a- bove, you were|smi- ling * oh so|ten- der- ly, I was|bea- ming, * I was|dream- ing, * IN THE|
+"G" A2"C""G" G6 | z2 G2 B2 d2 |"G7" e2 e e4 e | (3g2 e2 g2 e d2 z |"C" (3d2 c2 d2 (3c2 G2 E2 | %20
+w: MOON- LIGHT.|There was no|need to speak, for|we were in dream- land|wrapped up in heav- en- ly|
+ B6 B2 |"A7" (3f2 f2 f2 f3 f | (3=f2 =f2 =f2- f2 _e=e |"D7" g2 e2 c2 d2 |"D+" _B6 _e=e | %25
+w: love, and|there was a glow, a|heav- en- ly glow from the|moon way up a-|bove. It was|
+"Am" B B4- BAB |"D7" dddd"D+" _B2 FG |"G" A E4- EDE |"Bm7b5" =F2 G"E7" E3 EE |"Am" D C4- CEG | %30
+w: mid- night * when my|love dreams all came true, you were|smil- ing, * 'twas the|sweet- est view, I'd a-|wake- nd * there to|
+"D7" B2 d B4- B |1"A7" (3G2 G2 G2"D7" (3B2 B2 B2 ||"G""Am" G6"D7" _e=e :|2 %33
+w: find my- self *|bound IN THE MOON LIGHT with|you. It was|
+"A7" (3G2 G2 G2"D7" (3B2 A2 B2 ||"Bm7b5" d2 e"E7" =f2 e3 |"Am" (3g2 e2 c2"D7" (3B2 G2 B2 | %36
+w: bound in the moon- light with|you my dar- ling|wrapped in the moon- light with|
+"G" G6 z2 |] %37
+w: you.|
+

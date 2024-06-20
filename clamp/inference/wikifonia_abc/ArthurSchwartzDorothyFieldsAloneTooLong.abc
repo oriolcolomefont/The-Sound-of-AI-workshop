@@ -1,0 +1,24 @@
+X:1
+T:Alone Too Long
+T:Alone Too Long
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z D |"G6" E A G D | E3"G#dim7" D |"Am7" E B"D7" A D |"Am7" E3"D7" D |"Am7" E d c E | %6
+w: I'd|kiss you if I|dared, I|want to but I'm|scared. I|should have known I've|
+"D7" F d c F |"G""Bm7" G4- |"Am7" G3"D7" D |"G6" E A G D | E3"G#dim7" D |"Am7" E B"D7" A D | %12
+w: been a- lone too|long.|_ My|lips are much too|still, my|arms have lost their|
+"Am7" E3"D7" D |"Am7" E d c E |"D7" F d c F |"G""Bm7" G4- |"Am7" G3"G" G/A/ |"Em" B B"Em7" B B | %18
+w: skill. My|charm has flown, I've|been a- lone too|long.|_ It's been|years since I have|
+"Em6" B A/G/"C7b5" F"B7" B, |"Em6" ^C2 E2- | E3 G/A/ |"Em" B B"Em7" B B |"Em6" ^c B/G/"A7" E G | %23
+w: whis- per'd a foool- ish|love word,|_ and I'd|be a- fraid I's|sing you a fad- ed|
+"D7sus4" d4- | d3 D |"G6" E A G D | E3"G#dim7" D |"Am7" E B"D7" A D |"Am7" E3"D7" D | %29
+w: song.|_ But|if you smile and|then say|"dar- ling, try a-|gain" I'll|
+"Am7" E d c E |"D9" F e"D7" d F |"G""Bm" G4- |"Am7" G2-"G" G z |] %33
+w: know you've known I've|beem a- way too|long.|_ _|
+

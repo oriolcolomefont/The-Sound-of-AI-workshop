@@ -1,0 +1,32 @@
+X:1
+T:I Want To Talk About You
+T:I Want To Talk About You
+C:Billy Eckstine
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 a2 |"Abmaj7" g2 e2 z cef |"Ebm7" _ga"Ab7" g4 ag |"Dbmaj7" fd A2- ABde | %4
+w: Don't|tell me a- bout a|night in June or a|shad- y lane * be- neath the|
+"Dbm7" =e_g"Gb7" _f4 =f2 |"Cm7" e2"F7" c6- |"Bbm7" cFcc/A/"Eb7" B2- (3BAB |"C+7""F7" c8- | %8
+w: vel- vet moon. Don't|tell me,|* 'cause I want to talk * a- bout|you.|
+"Bbm7" c4"Eb7" z2 a2 |"Abmaj7" g2 e4 f2 |"Ebm7" _ga"Ab7" g4 ag |"Dbmaj7" fd A2- ABde | %12
+w: * Don't|men- tion that|wat- er- fall or that|grass- y spot * where crick- ets|
+"Dbm7" =e_g"Gb7" _f4 =f2 |"Cm7" e2"F7" c6- |"Bbm7" cFcc/A/"Eb7" B2- (3BAB |"Abmaj7" A8- | %16
+w: soft- ly call. Don't|tell me|* 'cause I want to talk * a- bout|you.|
+"Abmaj7" A4 z2 A2 |"Ebm7" f2- (3fec"Ab7" B3 A |"Ebm7" fecB-"Ab7" B3 A | %19
+w: * The|moon * and the stars, the|ob- jects on Mars, * are|
+"Ebm7" (3f2 f2 d2"Ab7" (3e2 f2 _g2 |"Dbmaj7" a6 a2 |"Gm7" (3=aaa a4"C7" gf | %22
+w: things that we've talk'd of be-|fore. But|your love for me was the|
+"Fmaj7" =A c3-"Dm7" c3 =d |"Gm7" (3g2 g2 g2"C7" g2 =dg |"Fmaj7" =a6 _a2 |"Abmaj7" g2 e2 z cef | %26
+w: ques- tion, * your|ans- wer threw back heav- en's|doors. So|tell me your love will|
+"Ebm7" _ga"Ab7" g4 ag |"Dbmaj7" (fd A2-) ABde |"Dbm7" =e_g"Gb7" f4 ff |"Cm7" e2"F7" c6- | %30
+w: be sin- cere, then my|dar- * ling, * you need- n't|ev- er fear 'cause I|love you|
+"Bbm7" cFcc/A/"Eb7" B2- (3BAB |"Abmaj7" A8- | A4 z4 |] %33
+w: * and I want to talk * a- bout|you.||
+

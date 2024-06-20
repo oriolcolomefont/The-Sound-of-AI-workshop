@@ -1,0 +1,38 @@
+X:1
+T:After The Lovin'
+T:After The Lovin
+C:Ritchie Adams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 (3z EF |"C" GGGG-"Cmaj7" G4 |"C6" G c2 B"C" GE- (3EDE |"Dm" FFFF-"Dm" F3 G/A/ | %4
+w: So I|sing you to sleep _|af- ter the lov- in _ with a|song I just wrote * yes- ter-|
+"Dm7" F6"G7" (3z DE |"Dm" (3F2 F2 F2"Bb/D" F2- (3FFG |"G/D" B2- (3BBA"G" G D2 E/F/ |"C" E8 | %8
+w: day, and I|hope you can get _ what the|words _ and the mus- ic have to|say.|
+"G11" z4 z2 (3z EF |"C" G3 G/G/"Cmaj7" G3 E/F/ |"C6" G c2 B"C" GE- (3EDE | %11
+w: It's so|hard to ex- plain ev- 'ry-|thing that I'm feel- ing _ face to|
+"Dm" F3 F/F/"Dm" (3F2 G2 A2 |"Dm7" F6"G7" (3z DE |"Dm" (3F2 F2 F2"Bb/D" F2- (3FFG | %14
+w: face I just seem to go|dry. But I|love you so much _ that the|
+"G/D" B2- (3BBA"G" G D2 E/F/ |"C" E8 |"Gm7""C7" z8 |"F" z2 AA B c2 G- |"C" G6"Cmaj7" GG | %19
+w: sound _ of your voice can get me|high.||Thanks for tak- in' me|_ on a|
+"Dm7" F G2"G7" A- AcBG- |"C""Cmaj7" G8 |"Am" z AAB"^Am#7" c e2 A- |"Am7" A4"D7" (3A2 B2 c2 | %23
+w: one way trip _ to the sun.||And thanks for turn- in' me.|_ in- to a|
+"Dm7" A4"G7" G4 |"Dm7" z4"G7" z A2 E |"C" GGG"Cmaj7" G4- G |"C6" G c2 B"C" G E2 E | %27
+w: some- one.|So I|sing you to sleep *|af- ter the lov- in' I|
+"Dm7" FFFF-"Dm" F3 G/A/ |"Dm7" F6"G7" (3z DE |"Dm" (3F2 F2 F2"Bb/D" F2- (3FFG | %30
+w: brush back the hair _ from your|eyes. And the|love on your face _ is so|
+"G/D" B2- (3BBA"G" G D2 E/F/ |"A7" E6 z2 | z4 z AAA- |"F" A3 A/A/ A3 ^G/A/ |"E7" B ^G3 (3e2 f2 e2 | %35
+w: real _ that it makes me wan- na|cry.|And I know|_ that my song is- n't|say- in' an- y- thing|
+"Am" c6"Am" z2 |"D7" z2 z A- A3 A |"Dm7" A2- (3AGA"G7" G G3 |"Fmaj7" z G- (3GAG"G7" E3 E | %39
+w: new|Oh, * but|af- * ter the lov- in'|I''m _ still in love with|
+"C" C6 z2 |"Am9" z4"^Bbm7b9" z"A7" A3 |"Dm7" A2- (3AGA"Em7" G G3 |"Dm7" z A- (3AAG"Dm9/G" E3 E | %43
+w: you.|Yes,|af- * ter the lov- in'|I'm _ still in love with|
+"C" C6 z2 |"Am9" z4"^Bbm7b9" z"A7" A3 |"Dm7" A2- (3AGA"Em7" G G3 |"Dm7" z A- (3AAG"Dm9/G" E4 | %47
+w: you.|Oh,|af- * ter the lov- in'|I'm _ still in love|
+"G7" E4"C" C4- | C6 z2 |] %49
+w: with you||
+

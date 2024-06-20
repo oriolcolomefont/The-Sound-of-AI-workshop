@@ -1,0 +1,49 @@
+X:1
+T:Only Teardrops
+C:Julia Fabrin Jakobsen, Thomas Stengaard
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Lead sheet"
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"^Winner of the Eurovision Song Contest 2013""Am" A3{/A} B"F" AG E2- |"C" E8 | %2
+w: ||
+w: ||
+"Am" A3{/A} B"F" AG E2- |"C" EAAe e3 A |"Am" A3 B"F" AG E2 |"C" z AAe e3 A |"Am" A3 B"F" AG E2- | %7
+w: |* The sky is red to-|night. * * * *|We're on the edge to-|night. * * * *|
+w: |* So come and face me|now. * * * *|Here on this stage to-|night * * * *|
+"C" EAAe e3 e | (d2 c)c- c4 ||"F" z fff (f e3) |"Am" z e e"G"e ddef |"F" z fff (f e3) | %12
+w: * No shoo- ting star to|guide * us. *|Eye for an eye, *|why tear each oth- er a- part?|Please, tell me why, *|
+w: * let's leave the past be-|hind * us. *||||
+"Am" z e"G" e2 ddde |"F" Afff (f e3) |"Am" z e e"G"e ddcB |"F" A4 z eeA | A4 E2 G2 || %17
+w: why do we make it so?|I look at us now, *|we on- ly got our- selves to|blame, it's such a|shame. (Tell me)|
+w: |||||
+"Am" AA/A/AA/B/ AG E2 |"F" AA/A/AA/B/ AGEG |"C" (GE) E2 z2 EG |"G" (GE) E6 |"Am" AA/A/AA/B/ AG E2 | %22
+w: how man- y times can we win and lose?|How man- y times can we break the rules? Be-|tween * us on- ly|tear- * drops|How man- y time do we have to fight?|
+w: |||||
+"F" AA/A/AA/B/ AGEG |"C" (GE) E2 z2 AA |"G" A2 B2 E2 G2 :|"F" A3 c [FAc]cBc- |"Am" c3 c [FAc]cBc- | %27
+w: How man- y times till we get it right? Be-|tween * us on- ly|tear- drops. (Tell me)|now what's come be- tween us?|* What's come be- tween us?|
+w: |||||
+"C" c2 z2 z2 GG |"G" G2 E2 E2 G2 |"F" A3 c ccBc- |"Am" c3 c ccBd- |"G" d8 ||"Am" AA/A/AA/B/ AGE z | %33
+w: * On- ly|tear- drops! Tell me|now what's come be- tween us?|* What's come be- tween us?||How man- y times can we win and lose?|
+w: ||||||
+"F" AA/A/AA/B/ AGEG |"C" (GE) E2 z2 EG |"G" (GE) E6 |"Am" AA/A/AA/B/ AGE z |"F" AA/A/AA/B/ AGEG | %38
+w: How man- y times can we break the rules? Be-|tween * us on- ly|tear- * drops|How man- y time do we have to fight?|How man- y times till we get it right? Be-|
+w: |||||
+"C" (GE) E2 z2 AA |"G" A2 B2 z2 BB |"Am" B2 c6 |"F" [FAc]8 |"C" [EGc]6- [EGc][EGd] |"G" [DGB]6 BB | %44
+w: tween * us on- ly|tear- drops. On- ly|tear- drops!|||* On- ly|
+w: ||||||
+"Am" B2 c6 |"F" [FAc]8 |"C" [EGc]6 AA |"G" A2 B6 |"Am" AA/A/AA/B/ AG E2 |"F" AA/A/AA/B/ AGEG | %50
+w: tear- drops!||* On- ly|tear- drops!|How man- y times can we win and lose?|How man- y times can we break the rules? Be-|
+w: ||||||
+"C" (GE) E2 z2 EG |"G" (GE) E6 |"Am" AA/A/AA/B/ AG E2 |"F" AA/A/AA/B/ AGEG |"C" (GE) E2 z2 AA | %55
+w: tween * us on- ly|tear- * drops|How man- y time do we have to fight?|How man- y times till we get it right? Be-|tween * us on- ly|
+w: |||||
+"G" A2 B6 |"Am" A3{/A} B"F" AG E2- |"C" E8 |] %58
+w: tear- drops.|||
+w: |||
+

@@ -1,0 +1,79 @@
+X:1
+T:Breathless
+T:Breathless
+T:Corinne Bailey Rae & Marc Nelkin
+T:kle
+C:Corinne Bailey Rae & Marc Nelkin
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=90
+M:6/8
+K:A
+V:1 treble 
+%%MIDI program 53
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 53
+L:1/4
+V:1
+"Amaj7""^Moderate" z3 z3 |"^D9sus4" z3 z3 |"Cmaj7" z3 z3 |"D/E" z3 z3 |"Amaj7" z CC CCC | %5
+w: ||||Seems like ev- ry one|
+w: ||||I can un- der- stand|
+"F#m7" CCC F3 |"B7" CB,B,- B,3 |"Bbmaj7" z6 |"Amaj7" z CC CCC |"F#m7" CCC A3 |"B7" CB,(B,- B,2 A, | %11
+w: else has a lov|just for them. *||I don't mind, we havε|such a good time,|my best * friend *|
+w: that you don't want|to cross the line.||And you know I can't|prom- ise you things|turn out * fine. *|
+"Bbmaj7" A,3) z3 |"Amaj7" z CC CCC |"F#m7" CCC A3 |"B7" CB,(B,- B,2 A,- |"Bbmaj7" A,3) z F,A, | %16
+w: |But some- times, wel, I|wish we could be|more then * friends *|* tell me|
+w: |But I have to be|hon- est I want|you to be * mine.||
+"F#m7" C2 D B,3- |"B7" B,3 z F,A, |"Bm7" CD(E- E3- |"Bbmaj7" E=FE D3) ||"A" C2 D- D E2 | %21
+w: do you know?|* Tell me|do you know? _|_ _ _ _|I get * so|
+w: |||||
+"Dm9" A2 (=G E) E2 |"Cmaj9" =G2 E- E(D=C) |"^E7sus4" E3 z z2 |"A" C2 D- D E2 |"Dm9" B2 (A E) E2 | %26
+w: breath- less * when|you call * my *|name|I've of \- ten|won dered: * do|
+w: |||||
+"Cmaj9" =G2 E- E(DC) |"^E7sus4" E3 z EF |"A" =GFE =GFE |"Dm9" A=GE A=GE |"Cmaj9" =G2 E- ED/=C/(E | %31
+w: you feel * the *|same There's a|chem- is- try, en- er gy|a syn- chro- nic- i- ty|when we're * all a- lone.|
+w: |||||
+"Esus4" D) z B, E2 B, |"F""F7" A,3"F7" z3 | z3 _E2 (3(E/D/=C/- |"E" C) (E2 D/"E7"=C/"E7" D2) |1 %35
+w: * So don't tell|me|you can't _ _|_ see _ _ _|
+w: ||||
+"^N.C." z DC DE(=C/B,/ ||"Amaj7" A,3) z z2 |"^D9sus4" z3 z3 |"Cmaj7" z3 z3 |"D/E" z6 :|2 %40
+w: what I'm think- ing of _|_||||
+w: |||||
+"^N.C." z A2 z DE ||"Dm7" =F3 z EF |"E7" =G E2 G3 |"Amaj7" E2 (3(F/E/C/) E3 | z A,A, EDD/=C/ | %45
+w: Oh! 'Cause I've|tried to do|this right in|your own _ _ time.|I've been tell- ing you *|
+w: |||||
+"Dm7" D=CA, z (ED) |"E7" D=CA, EDE- |"Amaj7" ECD E3- | E3 z F2- |"F#m7" FFF F(F/E/F/E/ | %50
+w: with my eyes my *|heart's on fire, why don't you|* re- al- ise?|_ Tell|* me do you know? _ _ _|
+w: |||||
+"B7" CB,) z z A2 |"Bm7" AAA (A/F/ E2) |"^N.C." z (AE) FAc- |:"A""Bm7" c"Bm7""A" B2-"A" B3"A""Bm7" | %54
+w: _ _ Tell|me do you know? _ _|I * get so breath|* ~less *|
+w: ||||
+"Dm9" A2 (=G E) E2 |"Cmaj9" =G2 E- E(D=C) |"^E7sus4" E3 z z2 |"A" C2 D- D E2 |"Dm9" B2 (A E) E2 | %59
+w: breath- less * when|you call * my *|name|I've of \- ten|won dered: * do|
+w: |||||
+"Cmaj9" =G2 E- E(DC) |"^E7sus4" E3 z EF |"A" =GFE =GFE |"Dm9" A=GE A=GE |"Cmaj9" =G2 E- ED/=C/(E | %64
+w: you feel * the *|same There's a|chem- is- try, en- er gy|a syn- chro- nic- i- ty|when we're * all a- lone.|
+w: |||||
+"Esus4" D) z B, E2 B, |"F""F7" A,3"F7" z3 | z3 _E2 (3(E/D/=C/- |"E" C) (E2 D/"E7"=C/"E7" D2) |1 %68
+w: * So don't tell|me|you can't _ _|_ see _ _ _|
+w: ||||
+"^N.C." z DC DE(=C/B,/ :|"^N.C." z DC DE=C/B,/ |"Amaj7" A,3) z z2 |"^D9sus4" D/=C/A,C A,3 | %72
+w: what I'm think- ing of _|what I'm think- ing of _|_||
+w: ||||
+"Cmaj7" =C2 z z3 |"D/E" [A,DE]6 | %74
+w: ||
+w: ||
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+w: |||||||||||||||||||
+ x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |1 x3 || x3 | x3 | %38
+w: |||||||||||||||||||
+ x3 | x3 :|2 x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |: C"A" D/-"A" D/ E | %54
+w: |||||||||||||||I get so *|
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |1 x3 :| x3 | x3 | x3 | x3 | %73
+w: |||||||||||||||||||
+ x3 | %74
+w: |
+

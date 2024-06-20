@@ -1,0 +1,25 @@
+X:1
+T:Funky Dragonfly
+T:Funky Dragonfly
+T:Sean Barrett Jr
+C:Sean Barrett Jr
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=104
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno"
+%%MIDI program 0
+V:2 bass 
+%%MIDI channel 1
+%%MIDI program 0
+L:1/16
+V:1
+ C/_E/F-FG/_B/- B_A/G/- F z | z DF/F/G- _B/B/c-c z :| F_E/F/- F4 z2 | _B_A/B/- B4 z2 | %4
+ F_E/E/ z2 CE F2- | .F_AG/F/G/F/ z4 | F3 _E C/B,/_B,-B,F- | F z FF _AF-F/G/_A- | A6 z2 |] %9
+V:2
+ F,,4 F,,_E,,F,,2 _E,8 | _B,,4 B,,_A,,B,,2 _B,8 :| F,,4 F,,_E,,F,,2 _E,8 | _B,,4 B,,_A,,B,,2 _B,8 | %4
+ F,,4 F,,_E,,F,,2 _E,8 | _B,,4 B,,_A,,B,,2 _B,8 | F,,4 F,,_E,,F,,2 _E,8 | _B,,4 B,,_A,,B,,2 _B,8 | %8
+ F,,8 z8 |] %9
+

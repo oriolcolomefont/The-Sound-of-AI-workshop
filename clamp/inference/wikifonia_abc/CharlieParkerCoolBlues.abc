@@ -1,0 +1,15 @@
+X:1
+T:Cool Blues
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+Q:1/4=140
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 0
+V:1
+|: (3F"Bb7"GF DE FBAG |"Eb7" FECG, D2 FC- |"Bb7" C z C6- | C6 z2 | (3F"Eb7"GF _DE FBAG | %5
+ FECG, D2 FC- |"Bb7" C z C6- |"Dm7" C6"Dbm7" z2 | (3FG"Cm7"F DE FBAG |"F7" FECG, D2 FC- | %10
+"Bb7" C z C6- | C6 z2 :| %12
+

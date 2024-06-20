@@ -1,0 +1,26 @@
+X:1
+T:I Am A Rock
+T:I am a rock
+T:Paul Simon
+C:Paul Simon
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"_Rock" z4 z"^N.C." CEG |:"C" GF E6- | E4 z2 cc |"F" c3 A A3 C |"C" E2 G6- | G4 z4 | %6
+w: A win- ters|day * *|* in a|deep and dark De-|cem- ber||
+w: |walls * *|* * a|fort- ress deep and|might- y||
+"Dm" d3 c"G7" B3 c |"F" c4"C" E4 |"Dm" FEDC"Em" D2 G2 |"Dm" FEDC"Em" D2 GG |"Dm" FEDC"F" FEDC | %11
+w: I * am a-|lone *|Gaz- ing from my win- dow|to the street be- low on a|fresh- ly fall- en sil- ent shroud of|
+w: none * may *|pene- trate|have no need of friend- ship|friend- ship caus- es pain. Its *|laugh- ter and its lov- ing I dis|
+"G7" D2 z2"F" Ac A2 |"C" c4"F" Ac c2 |"G7" d4 e2 d2 |1"C" c8 | z4 C2 EG :|2"C" c8- || c4 z2 EE | %18
+w: snow I am a|rock I am an|is * *|land.|I've built *|land|* and a|
+w: dain * * *|||||||
+"Dm" F4"G7" E2 D2 |"C" C4 z2 EE |"Dm" F2 F2"G7" E3 D |"C" C8- | C4- C2 z2 |] %23
+w: rock feels no|pain and an|is- land nev- er|cries.||
+w: |||||
+

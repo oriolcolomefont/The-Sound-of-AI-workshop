@@ -1,0 +1,33 @@
+X:1
+T:Have You Ever Seen the Rain?
+T:Have You Ever Seen the Rain?
+T:J.C Fogerty
+C:John Fogerty
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"G" z2"^Verse:" B,E G2 E2 | B2 GG- G2 z2 | z2 DE G2 E2 | B2 GG- G2 d2 |"D" d4 z2 z D | %5
+w: some- one told me|long a- go *|Theres a calm be-|fore the storm * I|know and|
+w: When its o- ver|so they say *|It- ll rain a|sun- ny day * I|know *|
+w: yes- ter- day and|days be- fore *|sun is cold and|rain is hard * I|know *|
+w: Til for- ev- er|on it goes *|through the cir- cle|fast and slow * I|know and|
+ d d3 d2 c2 |"G" c"^3" B3"^4" B4 |1 z8 :|2 z8 ||"C" z4"^Chorus:" e2 dB |"D" dB A2 z2 Bc | %11
+w: its been com- in|for some time.|||I want to|know * * have you|
+w: shin- in down like|wa- ter- *|||||
+w: been that way be-|fore my time|||||
+w: it cant stop I|won- der- *|||||
+"G" d d3 d3 G |"Em" G8 |"C" z4 e2 dB |"D" dB A2 z2 Bc |"G" d d3 d3 G |"Em" G8 |"C" z4 E G3 | %18
+w: ev- er seen the|rain?|I want to|know * * have you|ev- er seen the|rain|com- in|
+w: ||||* * * Fine|2ndtime||
+w: |||||||
+w: |||||||
+"D7" G2 DD B2 A2 |"G" G4 z4 | z8 |] %21
+w: down on a sun- ny|day?||
+w: D.C. (to verse) * *|||
+w: |||
+w: |||
+

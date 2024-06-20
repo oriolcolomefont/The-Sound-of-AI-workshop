@@ -1,0 +1,35 @@
+X:1
+T:Greenback Dollar
+T:Greenback Dollar
+T:Ken Ramsey & Hoyt Axton
+C:Ken Ramsey & Hoyt Axton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" E>EGA Bd _B/A/G | E>EGA Bd _B/A/G |:"Em""^Verses" E2 EE EEEF |"G" G2 G4 G2 |"C" G2 G2 G2 GA | %5
+w: ||Some peo- ple say * I'm a|no- count, *|Oth- ers say I'm no|
+w: ||When I * was a lit- tle|ba- by, My|Mom- ma she said *|
+w: ||Now that * I'm * a *|grown man, I've|tra- veled here and *|
+"G" B6 GG |"C" GGGG GG A2 |"G" BBBB"Em" G2 GG |"D" FFFF FEDE |"Em" E2 GE- E3 E |"D" FFFF FEDE- | %11
+w: good, But *|I'm * just a na- tural born|tra- vel- in' * man, * *|Do- in' what I think I * should|* oh, Yeh! * *|Do- in' what I think I * should.|
+w: son, * *|Trav- el where you will * and|grow to be a man, * *|Sing * what * must * be sung|* poor boy, * *|Sing * what * must * be sung-|
+w: there, And I've|learned * that a bot- tle of|bran- dy and a song are the|on- * ly * ones * who care|* oh, Yeh! * The|on- * ly * ones * wko care.|
+"Em" E>EGA Bd _B/A/G | E>EGA B2 dd ||"G""^Chorus" d2 dB AG"C"AG |"G" d2 d2"C" _BA G2 | %15
+w: |* * * * * And I|don't care a darn a- bout a|Green- back Dol * lar,|
+w: ||||
+w: ||||
+"G" z BBG"C" AGAB- |"G" Bd B4 BG | B A3"C" G2 AG |"G" B2 AG-"Em" G3 E |"D" FFFF FEDE- | %20
+w: Spend it as fast as I can|* * * for a|wail- in' song and a|good Gui- tar, * The|on- ly things that I un- der- stand|
+w: |||||
+w: |||||
+"Em" E2 GE- E3 E |"D" FFFF FEDE- |"Em" E>EGA Bd _B/A/G | E z/ E/"D"D"Em" E2 z3 :| %24
+w: * oh, Yeh! * The|on- ly things that I un- der- stand.|||
+w: ||||
+w: ||||
+

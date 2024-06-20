@@ -1,0 +1,30 @@
+X:1
+T:Born To Be Blue
+T:Born To Be Blue
+C:Mel Torme
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C9" z cAG"Db9" _A_d_BA |"C9" =A c3-"Gb7" c4 |"F9" z GF_E"Eb7b9" GcGF |"Abmaj7" _E6"Ab7""G+7" z D | %4
+w: Some folks were meant to live in|clov- er, _|But they are such a chos- en|few. And|
+"Cm" _EEDE"Db9" (G F2) C |"Cm7" (3_EFE DE"F7" (G F3) |"Fm7" z CDC"D7b5" DB, C2 |"Dm7""G7" G8 || %8
+w: clov- er be- ing green, _ is|some- thing i've nev- er seen _|'cause I was born to be|blue.|
+"C9" z cAG"Db9" _A_d_BA |"C9" =A c3-"Gb7" c4 |"F9" z GF_E"Eb7b9" GcGF | %11
+w: When there's a yel- low moon a-|bove me, _|They say there's moon- beams I should|
+"Abmaj7""Ab7" _E6"^G75" z D |"Cm" _EEDE"Db9" (G F2) C |"Cm7" (3_EFE DE"F7" (G F3) | %14
+w: view, But|moon- beams be- ing gold, _ are|some- thing I can't be- hold _|
+"Fm7" z CDC"Ab9" _EC"G9#5" E2 |"C" C8 ||"Abm7" z _BB_A"Db9" B3 A |"Abm7" _B_dB_A"Db" B d3 | %18
+w: 'Cause I was born to be|blue.|When I met you the|world was bright and sun- ny;|
+"Abm7" _B_dB_A"Db7b9" B2 AF- |"Gbmaj7" F4 z _DCD |"Dbm7" _A4-"Gb9" A_GEE | %21
+w: When you left the cur- tain fell.|_ I'd like to|laugh _ but noth- ing|
+"Bmaj9" _G2 _A2"Abm7" _B =B3 |"Fm7" _BFG_A"Bb7" (3B2 B2 B2 |"Ebmaj7" G4"Dm7""G9" G4 || %24
+w: strikes me fun- ny;|Now my world's a fad- ed pas-|tel. Well,|
+"C9" z cAG"Db9" _A_d_BA |"C9" =A c3-"Gb7" c4 |"F9" z GF_E"Eb7b9" GcGF |"Abmaj7""Ab7" _E6"G+7" z D | %28
+w: I guess I'm luck- i- er than|some folks; _|I've known the thrill of lov- ing|you. And|
+"Cm" _EEDE"Db9" (G F2) C |"Cm7" (3_EFE DE"F7" (G F3) |"Fm7" z CDC"Ab9" _EC"G9#5" E2 |"C" C8 |] %32
+w: that a- lone is more _ than|I was cre- a- ted for, _|'cause I was born to be|blue.|
+

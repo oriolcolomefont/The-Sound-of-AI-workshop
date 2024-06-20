@@ -1,0 +1,24 @@
+X:1
+T:Those Lazy, Hazy, Crazy Days Of Summer
+T:Those Lazy, Hazy, Crazy days of Summer
+T:Hans Carste
+T:Charles Tobias
+C:Hans Carste
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z G A B ||S"C" d c d c | d c G E |"D7" D2 A2 | z A B c |"G7" B B2 G |"Dm" A A2"G7" F |"C" E z G2 | %8
+w: Roll out those|la- zy ha- zy|cra- zy days of|sum- mer|those days of|so- da and|pret- zels and|beer roll|
+"Dm" A2"G7" B2 |"C" d c d c | d c G E |"D7" D2 A2 | z A B c!dacoda! |"G7" B G"Dm" A F | %14
+w: out those|la- zy ha- zy|cra- zy days of|sum- mer|dust off the|sun and moon and|
+"G7" G E F D |"C" C4 | z"^N.C." E ^D E |"E7" F E ^D E | F E ^D E | c2 B2 | z E ^D E | c2 B2 | %22
+w: sing a song of|cheer.|Just fill your|bas- ket full of|sand- wich- es and|ween- ies|then lock the|house up|
+ z c2 B |"Am" A2 z2 | z"^N.C." D ^C D |"D7" E D ^C D | E D ^C D | B2 A2 | z A B c | d A B c | %30
+w: now you're|set|and on the|beach you'll see the|girls in their bi-|ki- nis,|As cute as|ev- er but they|
+ d A B c |"G7" d"C" z"Dm" G2 |"G7" A2 A2!D.S.! ||O"Dm" c B2 A | B c2"G7" d |"C" c4- | c z z2 |] %37
+w: nev- er get 'em|wet Roll|out those|sum- mer could|al- ways be|here||
+

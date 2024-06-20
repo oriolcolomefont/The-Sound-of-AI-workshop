@@ -1,0 +1,26 @@
+X:1
+T:Return To Sender
+T:Return to Sender
+T:Otis Blackwell and Winfield Scott
+T:ROCK
+C:Otis Blackwell, Winfield Scott (aka Robie Kirk)
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"C" EGE GEGG |"Am" A3 E- E4 |"Dm" z FFF F2 F2 |"G7" G4 z4 |"C" z2 GE GE G2 |"Am" A3 E- E2 z E | %6
+w: I gave a let- ter to the|post- man *|he put it in his|sack|bright and ear- ly next|morn- ing * he|
+"Dm" F2 F2"G7" G G3 |"C" C2"^N.C." G2 ABAG |"F" z2 cc- c3 c |"G7" dd- d2 z4 |"F" z2 c2 c2 c2 | %11
+w: brought my let- ter|back She wrote up- on it|re- turn * to|send- er *|ad- dress un-|
+"G7" d4 z4 |"F" z4 c2 c2 |"G7" dd- d2 z4 |"C" z4 c2 c2 |1 c4"C7" z4 ||"F" z2 cc- c3 c | %17
+w: known|no such|num- ber *|no such|zone|we had * a|
+"G7" dd- d2 z4 |"F" z2 c2 c c3 |"G7" d4 z4 |"D7" z2 A2 A2 A2 | A2 A2 A2 A2 | AA A2 B c3 | %23
+w: quar- rel *|a lov- ers|spat|I write I'm|sor- ry but my|let- ter keeps com- ing|
+"G7" B6 z2 :|2"C" c4"C7" z4 ||"F" z2 c2 cAcA | cA c2 c2 C2 | cA c2 c2 c2 |"C" G4 z2 z A | %29
+w: back,|zone.|This time I'm gon- na|take it my- self and|put it right in her|hand and|
+"D7" cA c2 A3 A | cA c2 A2 z2 |"G7" d2 G2 _B _B2 G- | G2"^N.C." z G"^Returnto" ABA"^andfade"G |] %33
+w: if it comes back the|ver- y next day|then I'll un- der- stand|* the writ- ing on it|
+

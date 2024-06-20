@@ -1,0 +1,22 @@
+X:1
+T:Mi mi mi mi mi mi mi
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" CCDC"G" =B,C D2 |"Cm" EEFE"G" DE F2 | G3 A G F3 |"Cm" E3 F E D3 |"G" ECC=B,"Cm" C4!fine! | %5
+w: Mi mi mi mi mi mi mi,|mi mi mi mi mi mi mi,|mi mo- zog a|zöld le- ve- les|csip- ke- bo- kor- ban?|
+w: Se nem ró- ka, se nem nyúl,|kom- ám- asz- szony, meg egy úr|ug- rott ki a|zöld le- ve- les|csip- ke- bo- kor- ból.|
+"G" GG=AG"D" ^FG A2 |"G" BBcB"D" =AB c2 | d3 e d c3 |"G" B3 c B =A3 |"D" BGG^F"G" G4 | %10
+w: Mi mi mi mi mi mi mi,|mi mi mi mi mi mi mi,|mi mo- zog a|zöld le- ve- les|csip- ke bo- kor ban?|
+w: _ _ _ _ _ _ _|||||
+"Cm" c2 c2 B2 A2 |"G" G c3 G2 F2 |"Cm" E G3"G" D4!D.C.! |] %13
+w: Azt gon- dol- tam,|hogy egy ró- ka,|vagy egy nyúl,|
+w: |||
+

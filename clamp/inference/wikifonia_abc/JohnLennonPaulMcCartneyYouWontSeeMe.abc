@@ -1,0 +1,37 @@
+X:1
+T:You Won't See Me
+T:You wont see me
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z F"C"GA- |:"F" A4 z2 cG- |"G" G2 z2 z2 Fd- |"Bb" d6 cc- |"F" c4 z F"C"GA- |"F" A4 z2 cG- | %6
+w: When I call|* you up|* your line's|* en- gaged|* I have had|* e- nough|
+w: |* why you|* should want|* to hide|* but I can't|* get through|
+w: |* are few|* they're filled|* with tears|* and since I|* lost you|
+"G" G2 z2 z2 Fd- |"Bb" d6 cc- |"F" c4 z A"Gm"Bc- |"F7" c4 z2 cB- |"Bb" B4 z2 z G | %11
+w: * so act|* your age|* we have lost|* thetime *|* that|
+w: * my hands|* are tied|* I dont want|* to stay|* I|
+w: * it feels|* like years|* yes it seems|* so long||
+"Bbm" B B2 (3BcB ABA- |"F" A4 z CFG | A4 z2 cG- |"G" G4 z2 z F |"Bb" G3 F-"F" F2 AF- |"C7" F8 | %17
+w: was so hard * * * to find|* and I will|lose my mind|* if|you wont * see me||
+w: dont have much * * * to say|* but I can't|turn a- way|* and|you wont * see me||
+w: girl since you've * * * been gone|* * I just|cant go on|* if|you wont * see me||
+"F" z"Bb" G2 F-"F" FA F2- |1"C7" F4"D" z F"C7"GA :|2"C7" F8 ||"Gm" G4 B A2 G- |"Bb" G4 B A2 G- | %22
+w: you wont * see me|* I dont know||Time af- ter time|* you re- fuse|
+w: you wont * see me|||||
+w: you wont * see me|||||
+ G3 G F E2 G- |"F" G F3 z4 |"G7" =B4 B B2 B- | =B4 =B B3 |"C7" c2 cc- c2- cd- | %27
+w: * to e- ven lis|* ten|I would- n't mine|* if I|knew what I * was miss|
+w: |||||
+w: |||||
+"Gm7" d e3"C7" z FGA!D.C.! ||O"C7" F8 |:"F" f8- |"G7" f2 f2 f f3 |"Bb" f8- |"F" f2 f2 f f3 :| %33
+w: * in' though the days||Oo|* la la la|Oo|* la la la|
+w: ||||||
+w: ||||||
+

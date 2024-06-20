@@ -1,0 +1,36 @@
+X:1
+T:You Came A Long Way From St Louis
+T:You Came A Long Way From St Louis
+C:John Benson Brooks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|: z"^N.C." B,EF GBA^F |"E6" G E3-"Fm7" E4 |"Bbm7" z B,EF"Eb9" GBAB |"Eb6" G8 | %4
+w: You came a long way from St|Lou- is- *|you climbed the lad- der of suc-|cess.|
+w: You came a long way from St|Lou- is- *|you broke a 'lot- ta' hearts be-|tween.|
+ z"^N.C." B,EF GBA^F |"Ebmaj7" GEF"Fm7"G- GEF"Gm7"G- |"Fm9" GEF"Abmaj7"G- GE"B13"G"Eb6"E- |1 %7
+w: I've seen the town and count- ry|cars that were parked * out in front|* of your fan- * cy ad- dress.|
+w: I've met a gang of gloom- y|guys who were do- * in all right|* till you cam * on the scene.|
+"Fm7""Eb" E8 :|2"Eb6""Fm7""Eb6" E8 || z"^N.C." EAB"Bbm11" ce"A13"_dc |"Abmaj7" e3 E"Bbm7" ce_dc | %11
+w: ||You blew in from the mid- dle|west and cer- tain- ly im-|
+w: ||||
+"Fm7b5/Cb" e3 E _ce_dc |"Eb6/Bb" B/B/ B3 z4 |"Bbm7" z EAB"Eb13" ce"A13"_dc | %14
+w: pressed the pop- u- la- tion|here a- bouts.|Well, ba- by I got news for|
+w: |||
+"Abmaj7" e3 E"Bbm7" ce_dc |"Fm7b5/Cb" e3 E _ce_dc |"Bb11" B2 B2 B2"Bb7" z2 | %17
+w: you, I'm from Mis- isour- i|too, so natch- er- ly I|got my doubts.|
+w: |||
+"Fm11" z B,EF"Bb13" GBA^F |"Eb6" G E3-"Fm7" E4 |"Bbm7" z B,EF"Eb9" GB"Eb9sus4"AB | %20
+w: You got 'em drop- pin' by the|way- side, *|a feel- in' I ain't gon- na|
+w: |||
+"Eb6""Ebmaj7" G8 |"Db13#11" z B,EF GBA^F |"Ebmaj7" GEF"Fm7"G- GEF"Gm7"G- | %23
+w: know.|You came a- long way from St|Lou- is, But ba- * by you still|
+w: |||
+"Fm9" GEF"Ab7"G- GE"Bb13"G"Eb6"E- |"Eb/G""Fm7""Eb" E8 |] %25
+w: * got a long * way to go.||
+w: ||
+

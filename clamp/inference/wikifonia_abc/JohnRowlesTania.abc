@@ -1,0 +1,25 @@
+X:1
+T:Tania
+T:Tania
+T:John Rowles
+C:John Rowles
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 GF |"C" E2 G2 c2 | f2 e3 d |"F" cF A4- | A4 c2 |"G7" d4 c2 | B4 FA |"C" G6- |"G7" G4 ED | %9
+w: The *|shad- ows they|fade in- to|yes- ter- day|* my|girl I|see * her|there|* I turn|
+w: We *|stand hand in|hand on the|sil- ver shore|* tom-|mor- row|my ship sails|away|* Tan- i-|
+"C" C2 E2 G2 | f2 e3 d |"F" cF A4- | A4 c2 |"G7" d2 B3 G | f2 e2 d2 |"C" c6- | c6 |"F" ab c'3 c' | %18
+w: back the years|that we live|a- gain *|* the|mo- ments we|had love to|share||Tan- i- a our|
+w: a our hearts|make mu- sic|to- geth- er|* sweet|Tan i a|my song is|for|you||
+"G7" b2 b2 a2 |"C" g4 a2 |"F" c6 |"Dm" d2 d2 e2 |"G7" f2 g2 a2 |"C" g6- | g6 |"F" ab c'3 c' | %26
+w: song will go|on for|ever|just like a|clear sky of|blue||Tan- i- a our|
+w: ||||||||
+"G7" b2 b3 a |"C" g4 a2 |"F" c4 e2 |"Dm" ed d2 G2 |"G7" f2 e2 d2 |"C" c6- | c6 |] %33
+w: hearts make mu-|sic to-|gether sweet|Tan- i- a my|song is for|you.||
+w: |||||||
+

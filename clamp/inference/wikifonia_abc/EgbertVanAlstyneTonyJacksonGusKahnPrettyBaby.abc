@@ -1,0 +1,28 @@
+X:1
+T:Pretty Baby
+T:Pretty Baby
+T:Tony Jackson and Egbert Van Alstyne
+T:Gus Kahn
+C:Egbert Van Alstyne, Tony Jackson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z4 z2"Eb" B>"F#dim"c |"Bb7" d>fd>B"Fm7" A>cA>G |"Bb7" F>AF>E D2"Bb+" B>=B | %3
+w: Ev- 'ry|bo- dy loves a ba- by, that's why|I'm in love with you. Pret- ty|
+w: |like to be your sis- ter, bro- ther,|dad and mo- ther too. Pret- ty|
+"Eb" c2 G4"Bb+" B>=B |1"Eb" c2 G4 B>"F#dim"B :|2"Eb" c2 G4"Bb7" G>F ||"Eb7" E>=EF>^F G>e_d>G | %7
+w: ba- by pre- tty|ba- by And I'd|ba- by Won't you|come and let me rock you in the|
+w: ba- by, pre- tty||||
+"Ab" BAGA- A2"Db7" A>A |"C7" A2 G2 c2 G2 |"Fm7" F4"Bb7" z2"Eb" B>"F#dim"c | %10
+w: cra- dle of love. * and we'll|cud- dle all the|time. Oh, I|
+w: |||
+"Bb7" d>fd>B"Fm7" A>cA>G |"Bb7" F>AF>E D2 z2 |"C7" z2"F7" e>c"Bb7" d>c B2 |"Eb" e6 z2 |] %14
+w: want a lov- in' ba- by and it|might as well be you.|Pre- tty ba- by of|mine.|
+w: ||||
+

@@ -1,0 +1,21 @@
+X:1
+T:Lily of Laguna
+T:Lily of Laguna
+T:Leslie Stewart
+C:Leslie Stuart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Ab" C4 E4 | FE C2 CDD=D | E4"Ab7" c4 |"Db" BA F4 z2 |"Bbm7" B3"D" F"Eb7" B3 F | %5
+w: She's ma|la- dy love * she is my|dove ma|ba- by love|she's no gal for|
+"Bbm7" BFBF"Eb7" B4 |"Bbm7" F=EF^F"Eb7" G2 _e2 |"Bbm" d2"Eb" =F2"Ab" _E4 | c4 A3 E | %9
+w: sit- tin down to dream|she's the on- ly queen La-|gu- na knows|I know she|
+"Eb7" G2 G2 z GFE |"Eb7" G2 G2 z FCE |"Ab" F2 F2 z CD=D | E2"Ab7" e2"Gb7" _d2"F7" c2 | %13
+w: likes me I know she|likes me be- cause she|says so she is my|Lil- y of La-|
+"Bb7" B2 F2 z FGA |"Bbm7" c B3"Eb7" G3 E |"Ab" A6 z2 |] %16
+w: gu- na she is my|lil- y and my|rose.|
+

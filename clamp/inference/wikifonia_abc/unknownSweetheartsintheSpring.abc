@@ -1,0 +1,34 @@
+X:1
+T:Sweethearts in the Spring
+T:Sweethearts in the Spring
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z B, C |"G" D2 B | A/B/ B- B | G D- D- | D2 D |"G7" E2 G | c2 B |"Am7" E3- | E2 E |"D" F2 G | %10
+w: It was|on a|sum- mer's * *|ev- 'ning *|* when|all the|world was|still|* two|lov- ers|
+w: On the|quay there|stands a sol *|dier * *|* in|un- i-|form so|bright|* He's|wait- ing|
+ A2 F | E2 _E | D2 F/G/ |"D7" A2 _A | =A/B/ B- B |"G" G3- | G B, C | D2 B | A2 B |"G" G D- D- | %20
+w: ram- ble|down the|lane to an|old and|wood- en * *|mill|* he was|leav- ing|on the|mor- row *|
+w: for a|big troop|ship to take|him to|the * * *|fight|* the bug-|les they|are blow-|ing and *|
+"G7" D2 D |"C" E2 G | c2 B |"Am7" E3- | E2 E |"D" F2 G | A2 F | E2 _E | D2 G |"D7" A2 _A | A2 B | %31
+w: * for|lands far|far a-|way|* and|as she|nes- tles|close to|him she|heard him|soft- ly|
+w: * the|mas- ter|point- ed|high|* and|as the|cab- le|set- tles|down from|below there|comes a|
+"G" G3- |"^Chorus:" G B, C |"G" D2 B | A2 B |"G7" G D- D- | D ^C D |"C" E3- |"E7" E3- |"Am" E3- | %40
+w: say|* I'll re-|turn my|lit- tle|sweet- heart *|* in the|spring|||
+w: sigh|||||||||
+ E A B |"D7" c2 B | A2 G | F2 A | G2 E |"G" D3- | D3- |"D7" D3- | D D G |"G" B2 A | B2 c | %51
+w: * and for|us those|wed- ding|bells will|gail- y|ring|||* and when|all the|wrongs are|
+w: |||||||||||
+"G7" B G- G- | G2 D |"C" E2 G | c2 B |"Am7" A E- E- | E F E |"D" D2 E | F2 G |"D7" B/A/- A- A | %60
+w: right- ed *|* our|hearts will|be u-|nit- ed *|* I'll re-|turn my|lit- tle|sweet- heart * *|
+w: |||||||||
+ F2 D |"G" G3- |"C" G3- |"G" G3- | G z2 |] %65
+w: in the|spring||||
+w: |||||
+

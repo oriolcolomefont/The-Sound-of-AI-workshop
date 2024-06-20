@@ -1,0 +1,35 @@
+X:1
+T:I'm A Fool To Want You
+C:Frank Sinatra, Jack Wolf, Joel Herron
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ _B,=B, G3 ^D |:"Em" FE- E6 | z2 ^DE"E7b9" c3 ^G |"Am" BA- A6 | z2"Am/C" A2"Bdim7" B2"Am" c2 | %5
+w: I'm A Fool To|Want you, _|I'm A Fool To|Want You, _|to want a|
+w: |hold you,\_ *|such a fool to|hold yon,\_ *|to seek a|
+"Em" c2 B2 F2 G2 |"C7" A3 E F2 G2 |1 A3 G F E2 F- |"B7" F2 _B,=B,"B7b9" G3 ^D :|2 %9
+w: love that can't be|true, a love that's|there for oth- ers too.|_ I'm a fool to|
+w: kiss not mine a|lone to share a|||
+"Em" B3 B"B7" B F2 G ||"Em" E8 |"Am" e3 e"Am7" e3 e |"D9" e3 z"D9#5" (3e2 e2 e2 |"G" e2 d6- | %14
+w: kiss the dev- il has|known.|Time and time a-|gain I said I'd|leave you,|
+w: |||||
+ d6 z2 |"Am" c3 c"Am#5""Am7" c3 c |"D7" c3 z (3c2 d2 c2 |"Gmaj7" B8- |"G6" B4 z2 B2 | %19
+w: _|time and time a-|gain I went a-|way.|_ But|
+w: |||||
+"F#m7b5" A3 A A3 A |"B7" A3 A A3 A |"Em" A2 G6- | G4"Em7" z2 E2 |"C7" G3 G G3 G | G2 E2 F2 E2 | %25
+w: then would come the|time when I would|need you,|_ and|once a- gain these|words I'd have to|
+w: ||||||
+"B7" F8- | F2 _B,=B,"B7b9" G3 ^D |"Em" FE- E6 | z2 ^DE"E7b9" c3 ^G |"Am" BA- A6 | %30
+w: say:|_ I'm A Fool To|Want You, _|pit- y me, I|need you. _|
+w: |||||
+ z2"Am/C" A2"Bdim7" B2"Am" c2 |"Em" c3 B F2 G2 |"C7" A3 E F2 G2 |"Am" d3 d (3c2 d2 c2 | %34
+w: I know it's|wrong, it must be|wrong, but right or|wrong, I can't get a-|
+w: ||||
+"F#m" B4-"B7" BF"B7b9" G2 |"Em" E8- | !fermata!E6 z2 |] %37
+w: long _ with- out|you.|_|
+w: |||
+

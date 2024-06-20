@@ -1,0 +1,37 @@
+X:1
+T:God of Our Fathers
+T:God of Our Fathers
+T:George W. Warren
+T:Daniel C. Roberts
+T:Public Domain
+C:George W. Warren
+Z:Public Domain
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^(Trumpets before each stanza)" B2 z (3B/B/B/ | B B B B |"Eb" E2"Cm" E3/2 F/ |"Eb" G3"Ab" A | %4
+w: ||1.~God~~ of our|fa- thers|
+w: ||2.~Thy~~ love di-|vine hath|
+w: ||3.~From war's a-|larms, from|
+w: ||4.~Re~~~~~- fresh Thy|peo- ple|
+"Eb" G E E"Bb7" D |"Eb" E"^(Trumpets)" (3B/B/B/ B B |"Eb" G2"Cm" G3/2 G/ |"Gm" B3"C7" c | %8
+w: whose al- might- y|hand * * * * *|Leads forth in|beau- ty|
+w: led us in the|past * * * * *|In this free|land by|
+w: dead- ly pes- ti-|lence, * * * * *|Be Thy strong|arm our|
+w: on their toil- some|way. * * * * *|Lead us from|night to|
+"Bb" d B B"F" =A |"Bb" B"^(Trumpets)" (3B/B/B/ B B | B2 B3/2 B/ |"Gb" B3 B |"Bbm" _d B B"F" =A | %13
+w: all the star- ry|band * * * * *|Of shin- ing|worlds in|splen- dor thru' the|
+w: Thee our lot is|cast. * * * * *|Be Thou our|Rul- er,|Guard- ian, Guide, and|
+w: ev- er sure de-|fense. * * * * *|Thy true re-|lig- ion|in our hearts in-|
+w: nev- er end- ing|day. * * * * *|Fill all our|lives with|love and grace di-|
+"Bb" B"^(Trumpets)" (3B/B/B/ B B |"Eb" e2"Bb7" d c |"Eb" B3 B |"Fm7" A G"Bb7" F F |"Eb" E4 |] %18
+w: skies, * * * * *|Our gate- ful|songs be-|fore Thy throne a-|rise.|
+w: Stay; * * * * *|Thy Word our|law, Thy|paths our cho- sen|way.|
+w: crease; * * * * *|Thy bount- eous|good- ness|nour- ish us in|peace.|
+w: vine, * * * * *|And glo- ry,|laud, and|praise be ev- er|Thine.|
+

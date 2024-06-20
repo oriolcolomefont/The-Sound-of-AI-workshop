@@ -1,0 +1,15 @@
+X:1
+T:A horgosi csárda ki van festve
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A,CB,C D2 C2 | B,A, E2 A,2 z2 | CEEE CEEE | CEEE CEEE | DC D2 C2 z2 | EG^FG AA G2 | EE^DE FF E2 | %7
+w: A hor- go- si csár- da|ki van fest- ve.|O- da jár a cim- bal- mos a|cim- bal- má- val cim- bal- moz- ni|min- den es- te.|Kocs- má- ros- né azt hi- szi,|hogy a lá- nyát el- ve- szi|
+ DC B,2 A,2 z2 |] %8
+w: egy va- la- ki.|
+

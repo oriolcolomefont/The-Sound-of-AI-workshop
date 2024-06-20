@@ -1,0 +1,36 @@
+X:1
+T:One Morning In May
+T:One Morning In May
+T:Hoagy Carmichael
+T:Mitchell Parish
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G4 |"C7" G c2 B |"F7" C2 D E |"Bb7" F G2 A |"Eb" B4 |"C7b9" B _d2 c |"F7" C2 D E | %7
+w: One|Morn- ing In|May, don't for-|get, Dear, that|one|won- der- ful|day when we|
+w: One|Morn- ing In|May, oh, the|rap- ture, to-|night,|Dar- ling, I|pray to re-|
+w: One|Morn- ing In|May, to re-|mem- ber, tho'|love|smol- ders a-|way to an|
+"Bb7" F G2 A |"Eb" B4 |"Eb7" B f2 e |"Ab" F4 |"Abm" G B2 A |"Eb" E4 |1"F7" E G2 F |"Bb7""Fm7" D4 || %15
+w: met, Dear, the|world|o- ver was|blue|clo- ver and|hearts,|care- free and|gay.|
+w: cap- ture just|one|hour, * just|one|flow- er from|love's|||
+w: em- ber and|dreams|per- ish, we'll|still|cher- ish that|One|||
+"Bb7""Bb7" D4 |2"F7" E"Bb7" G2 F ||"Eb""Ab" E4- |"Eb" E3 z!fine! ||"Fm7" B2 A G |"Bb7" F2 G A | %21
+w: |fad- ed bou-|quet.||Kiss- es that|came with the|
+w: |Morn- ing In|May.||||
+w: ||||||
+"Eb/G" B2 g2 |"Cm7" f2 e2 |"Fm7" B2 A G |"Bb7" F2 G A |"Eb" B4- | B4 |"Gb" _d2 =B _B | %28
+w: flame of|spring- time,|burn- ing your|name in my|heart,||pre- cious to|
+w: |||||||
+w: |||||||
+"Db7" A2 B =B |"Gb" _d2 d2 |"Ebm/Gb" e4 |"Bb/F" f3 d |"F7" c3 G |"Fm7" B4-!D.C.! |"Bb7" B4 |] %35
+w: me, like a|ros- a-|ry,|now that|we're a-|part-||
+w: |||||||
+w: |||||||
+

@@ -1,0 +1,19 @@
+X:1
+T:Lighters
+T:Lighters
+T:Bruno Mars
+C:Bruno Mars
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+ z CCC CDEG- |"C" G2 CC CDEA |"G" G2 z C- CD-DB- |"Am" Bc-cG- GE-EA- |"F" A z CC CDEG- | %5
+w: This one's for yo- u and me|* Li- vin' ou- t our dre-|ams. We'- re all * ri-|ght wh- ere we * shou- d be|* Lift my arms ou- t wi-|
+"C" G2 z C CDEA |"G" G2 z C- CD-DB- |"Am" Bc-cG- GE-EA- |"F" A z FF FFFF |"C" EE- E3 D- D2 | %10
+w: de I o- pen my ey-|es And * no- w a-|ll I * wan * na * se-|e Is a sky full of li-|gh- ter- * er- s|
+"G" z2 z C FFFF |"Am" EE- E3 D-DC- |"F" C2 z2 z4 | z8 |] %14
+w: A sky full of li-|gh- ter- * er- * er-|s||
+

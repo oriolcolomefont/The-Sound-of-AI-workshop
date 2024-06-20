@@ -1,0 +1,36 @@
+X:1
+T:OP WOENSDAGMORGEN
+T: Laukens Music Productions  
+T:6/8 mars
+T:OP WOENSDAGMORGEN
+T:Arr. H. Laukens
+T:2
+T:OP WOENSDAGMORGEN blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=150
+M:6/8
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C7" c2 c =B2 d | c2 c =B2 d | c2 c =B2 d | c2 z z2S z ||"F" C2 C =B,2 C | A2 A G2 A | G6 | F6 | %8
+ F2 F E2 F |"Fdim" G2 F E2 D |"C7" E3 CDE | G2 E D2 C | C2 C =B,2 C | B2 B A2 B | A6 | G6 | %16
+"G7" A2 A A2 A | A2 G F2 D |"C7" E2 E F2 ^F | G3 C3 |"F" C2 C =B,2 C | A2 A G2 A | G6 | F6 | %24
+ A2 A A2 A |"F7" A2 F G2 F |"Bb" B6- | B6 | F2 F F2 F |"Bbm" G2 F G2 ^G |"F" A6 |"D7" c6 | %32
+"Gm" d2 B A2 G |"F" c2 A G2 F |"C7" B2 G F2O E ||"F" FFG AGF |"Gm" d2 B A2 G |"F" c2 A G2 F | %38
+"C7" B2 G F2 E |"F" F3 f3 ||"F" C2 C C2 C | D2 D D2 D | E2 E E2 E | D6 | F2 E D2 E | %45
+"Fdim" F2 E D2 C |"Gm7" F6 | B,6 |"C7" C2 C C2 C | D2 D D2 D | E2 E E2 E | D6 |"G7" G2 G G2 G | %53
+ G2 F E2 F |"C7" G6 | C6 |"F" F2 F F2 F | G2 G G2 G |"F7" A2 A A2 A |"Bb" G6 |"G7" F2 F F2 F | %61
+ G2 G G2 G | A2 A A2 A | G4- GG | G2 G G2 G | A2 A A2 A | =B2 B B2 B | A4- AA |"C7" c2 c c2 c | %69
+ B2 B B2 B | A2 A A2 A | G6S ||O F2 z"C7" ccc ||"F" C2 C =B,2 C | A2 A G2 A | G6 | F6 | F2 F E2 F | %78
+"Fdim" G2 F E2 D |"C7" E3 CDE | G2 E D2 C | C2 C =B,2 C | B2 B A2 B | A6 | G6 |"G7" A2 A A2 A | %86
+ A2 G F2 D |"C7" E2 E F2 ^F | G3 C3 |"F" C2 C =B,2 C | A2 A G2 A | G6 | F6 | A2 A A2 A | %94
+"F7" A2 F G2 F |"Bb" B6- | B6 | F2 F F2 F |"Bbm" G2 F G2 ^G |"F" A6 |"D7" c6 |"Gm" d2 B A2 G | %102
+"F" c2 A G2 F |"C7" B2 G F2 E |"F" FFG AGF |"Gm" d2 B A2 G |"F" c2 A G2 F |"C7" B2 G F2 E | %108
+"F" F3 f3 |] %109
+

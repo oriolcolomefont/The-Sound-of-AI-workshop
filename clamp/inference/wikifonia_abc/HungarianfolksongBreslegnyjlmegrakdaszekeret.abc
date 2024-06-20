@@ -1,0 +1,15 @@
+X:1
+T:Béreslegény, jól megrakd a szekeret
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ AB A2 G2 AE | EDE^F G2 z2 | AB A2 G2 AE | EDEE E2 z2 | DE D2 C2 DA, | A,G,A,B, C2 z2 | %6
+w: Bé- res le- gény jól meg-|rakd a sze- ke- ret,|Sar- jú- tüs- ke bö- kö-|di a te- ny- red,|Men- nél job- ban bö- kö-|di a te- nye- red,|
+ DE D2 C2 DA, | A,G,A,A, A,2 z2 |] %8
+w: An- nál job- ban rakd meg|a sze- ke- re- det!-|
+

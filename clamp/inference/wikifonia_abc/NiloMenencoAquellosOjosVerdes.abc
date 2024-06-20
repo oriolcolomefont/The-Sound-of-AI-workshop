@@ -1,0 +1,23 @@
+X:1
+T:Aquellos Ojos Verdes
+T:Aquellos Ojos Verdes  (Green Eyes)
+T:Nilo Menenco
+C:Nilo Menenco
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2"^N.C." C2 FGAc |"F" e4 f4- | f2 e2 fedc | d4 e4- | e2 C2 FGA_B | c4 d4- | d2 c2 dc_BA | %7
+w: Your green eyes with their|soft lights|* your eyes that prom- ise|sweet nights|* bring to my soul a|long- ing|* a thirst for love di-|
+"C7" c8- | c2 C2 GA_Bc |"Gm" e4 f4- | f2 e2 fedc |"C7" d4 e4- | e2 d2 edcB |"D7" _B4 A4- | %14
+w: vine|* In dreams I seem to|hold you,|* to find you and en-|fold you,|* out lips meet and our|hearts too|
+"G7" AGA B2 cd z |"C7" e8- | e2"^N.C" C2"^." FGAc |"F" e4 f4- | f2 e2 fedc | d4 e4- | e2 C2 FGA_B | %21
+w: * with a thrill so sub-|lime|* Those cool and lim- pid|green eyes|* a pool where- in my|love lies|* so deep that in my|
+"D7" c4 d4- | d2 c2 dc_BA |"Gm" d8- | d2 D2 GA_Bd |"Bb" g4 a4- | a2 g2 agfd |"F" f4 c4 | %28
+w: search- ing|for hap- pi- ness I fear||* that they will ev- er|haunt me|* all through my life they'll|taunt me|
+"D7" z2 c2 dc_BA |"G7" d4 e2 f2 |"C7" g4 fede |"F" f8- | f8 |] %33
+w: but will they ev- er|want me green|eyes make my dreams come|true.||
+

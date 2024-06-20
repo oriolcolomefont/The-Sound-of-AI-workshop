@@ -1,0 +1,27 @@
+X:1
+T:Can`t Buy me Love
+T:Can`t Buy Me Love
+T:Lennon/McCartney
+C:Lennon/McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble-8 
+%%MIDI program 24
+V:1
+|:"C7#9" B3 (B B4) |"C7#9""C7#9""C7#9" B3 (B B4) |"C7#9""C7#9""C7#9" B3 (B B4) | %3
+"C7#9""C7#9""C7#9" B3 (B B4) |"C7#9""C7#9""C7#9" B3 (B B4) | %5
+"C7#9""C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) |"C7#9""C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) | %7
+"C7#9""C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) ::S"C9" g2 g2 f _e2 (d | d) c2 c c2 c>_B | %10
+ c2 G2 _B c2 (c | c6) z c |"F9" g2 g2 f _e2 (d | d) c2 c c2 c>_B |"C9" c2 G2 _B c2 (c | c6) z c | %16
+"G9" g2 g2 g2 g2 |"F9" z f2 _e f _e2 c |"G9" g>g"F9" g2"F9" f _e2 (c |1"C9" c6) z c :|2 %20
+"C9" c2 c2 c g3 ||"Em7" g8 |"Am7" e6 z2 |"Cm7" _e_ed"F9"c"F9" d c2 (c |"C9" c2) c2 c g3 |"Em7" g8 | %26
+"Am7" e6 z2 |"Dm7" d d2 f f4 |"G9" g8 |]"^Break (Solos)" z8 |"_To Coda" z8!D.S.! | %31
+O"C7#9""C7#9" B3 (B B4) |"C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) | %33
+"C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) |"C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) | %35
+"C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) | %36
+"C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) | %37
+"C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) | %38
+"C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9""C7#9" B3 (B B4) |] %39
+

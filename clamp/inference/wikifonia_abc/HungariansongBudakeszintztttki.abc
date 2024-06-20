@@ -1,0 +1,19 @@
+X:1
+T:Budakeszin tűz ütött ki
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" C E G G | c G/G/ E C |"G" G/ G G/ G/ G F/ |"C" E2 z z :|"F" A A A A | A c/c/ B A | %6
+w: Bu- da- ke- szin|tûz _ ü- tött ki,|hol- lá- ri hol- lá- ri|hó,|Húzta, de, vonta, de|nem szólt a spric- ni,|
+w: há- rom sváb gyerek|húz- ta a spric- nit,|hol- lá- ri hol- lá- ri-|hó,|||
+"G" G/ G G/ G/ G F/ |"C" E2 z2 |"C" C E G G | c/c/ G E C |"G" G/ G G/ G/ e d/ |"C" c2 z z |] %12
+w: hol- lá- ri hol- lá- ri-|hó,|Mert a spric- nibe|egy jó nagy krump- li,|hol- lá- ri hol- lá- ri|hó.|
+w: ||||||
+

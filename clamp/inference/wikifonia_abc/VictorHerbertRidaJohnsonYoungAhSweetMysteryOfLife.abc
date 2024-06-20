@@ -1,0 +1,24 @@
+X:1
+T:Ah! Sweet Mystery Of Life
+T:AH! SWEET MYSTERY OF LIFE
+C:Victor Herbert
+Z:Public Domain
+L:1/16
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+ !fermata!d7/2c/ |[M:4/4]"Bb" c7/2B/B7/2A/ A7/2G/G7/2F/ |"Cm7" G4 G8 !fermata!e7/2d/ | %3
+w: Ah! Sweet|Mys- ter- y Of Life, at last I've|found thee, Ah! I|
+"F7" d7/2c/c7/2A/ A7/2G/G7/2F/ |"Bb" G12 !fermata!d7/2c/ | c7/2B/B7/2A/"Bbm" A7/2G/G7/2F/ | %6
+w: know at last the sec- ret of it|all; All the|long- ing, seek- ing, striv- ing, wait- ing,|
+"F/C" A4 A6 c2 d2=e2 |"C" c2G2c2d2"C7" c2G2 c2>G2 |"F7" c8- c2 z2 d7/2c/ |: %9
+w: yearn- ing, The burn- ing|hopes, the joy and i- dle tears that|fall! _ For 'tis|
+"Bb" c7/2B/B7/2A/ A7/2G/G7/2F/ |"Cm7" G4 G8 !fermata!e7/2d/ |"F7" d7/2c/c7/2A/ A7/2G/G7/2F/ | %12
+w: love, and love a- lone, the world is|seek- ing; And 'tis|love, and love a- lone, that can re-|
+"Bb" f12 !fermata!f7/2e/ |"G7" e7/2d/d7/2=B/ B7/2_A/A7/2G/ |"Cm" e4 e4-"Ebm" e2B2B2c2 | %15
+w: pay! 'Tis the|an- swer, 'tis the end and all of|liv- ing, _ For it is|
+"Bb/F" d2F2 G2B2"Cm/Eb" c4"Dm" !fermata!d4 |1"Bb" B4 z4 z4 !fermata!d7/2c/ :|2"Bb" B8- B2 z2 z4 |] %18
+w: love a- lone that rules for|aye! For 'tis|aye! _|
+

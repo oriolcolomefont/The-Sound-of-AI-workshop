@@ -1,0 +1,30 @@
+X:1
+T:Mr. Lonely (Transcribed)
+C:Bobby Vinton and Gene Allan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Harmonica" snm="Hrmca"
+%%MIDI channel 4
+%%MIDI program 22
+V:1
+"E " z2 B,2 E4 |"G#min" z2 B,2 D4 |"A " z2 A,2 C4 |"B7" z2 B,2 F4 |"E " E2 B4 (3GAB | %5
+w: ||||Lone- ly, I'm Mis- ter|
+"G#min" D2 B4 (3GAB |"A " C2 A4 (3ABc |"B7" B4 a2 (3gfe |"E " GB- B2 z2 (3BBG | %9
+w: Lone- ly, I have no|bo- dy fo- r my|ow- n. I' m so|lone- ly, * I'm Mis- ter|
+"G#min" DB- B4 (3BBG |"A " CA- A2 z A (3ABc |"B7" B4 a2 (3gbg |"E " fe- e2 z e (3efg | %13
+w: Lone- ly. * Wish I had|some- one * to call on the|pho- ne. Now I'm a|sol- dier, * a lo- ne ly|
+"E7" fe- e2 z e dc |"A " e4- (3efe (3fef |"Amin" =c2"B7" B4 (3BBG |"E " EB- B2 z2 (3BBG | %17
+w: sol- dier, * a\- way from|home * through no wish of my|ow- n. That's why I'm|lone- ly, * I'm Mis- ter|
+"G#min" DB- B4 (3GAB |"A " c2 A2"B " F2 D2 |[K:F]"E " E4"C7" z4 |"F " Fc- c4 (3ccA | %21
+w: Lone- ly. * I wish that|I could go back|home.|Let- ters, * ne- ver a|
+"Amin" Ec- c4 (3ccA |"Bb " DB- B4 (3Bcd |"C7" c4 b2 (3agf |"F " Ac- c2 z2 (3:2:2c2 A | %25
+w: let- ter, * I get no|let- ters * i\- n the|mai- l. I've been for-|got- ten, * yea, for-|
+"Amin" Ec- c4 (3ccA |"Bb " DB- B2 z B (3Bcd |"C7" c4 b2 (3ac'a |"F " gf- f2 z f (3fga | %29
+w: got- ten. * Oh how I|won- der * how is it I|fail- ed. Now I'm a|sol- dier, * a lo- ne- ly|
+"F7" gf- f2 z f ed |"Bb " f4- (3fgf (3gfg |"Bbmin" _d2"C7" c4 (3ccA |"F " Fc- c4 (3ccA | %33
+w: sol- dier, * a\- way from|home * through no wish of my|ow- n. That's why I'm|lone- ly, * I'm Mis- ter|
+"Amin" Ec- c4 (3ABc |"Bb " d2 B2"C7" e2 c2 x17/3 |"F " f2 C2 F2 C2 x5/4 | A6 z2 |] %37
+w: Lone- ly. * I wish that|I could go back|home. * * *||
+

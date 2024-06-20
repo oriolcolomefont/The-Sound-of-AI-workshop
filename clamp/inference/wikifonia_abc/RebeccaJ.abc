@@ -1,0 +1,71 @@
+X:1
+T:His Life For Mine
+T:His LIfe For Mine
+T:Rebecca J. Peck, 2003
+C:Rebecca J. Peck 2003
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=112
+M:2/2
+K:A
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 54
+V:1
+"^Adoration, Gentle Half Time" z8 |"Dm" z4"Dsus4" z4 |"Dm" z8 |"Gm" z4"Gsus4" z4 |"Gm" z8 | %5
+w: |||||
+"D/F#" z8 |"G/B" z4"Gmaj7/B" z4 |"C/Bb" z4"Bb" z4 |"C/Bb" z4"Bb" z4 |"A" z8 | z8 || %11
+w: ||||||
+"A" z3 C C C2 D- | D C3 z2 B,A, |"E" B,2 E,6 | z8 |"F#m" z2 A, A,2 F2 E |"D" z4 (3A,2 A,2 B,2 | %17
+w: His heart was bro|_ ken mine was|mend ed||He be came sin|now I am|
+"A" C8 |"A" z4"Asus4" z4 |"A" z3 C C C2 D- |"A" D C3 z2 B,A, |"E" B,2 G,6 | z8 |"D" z3 A, A,3 D | %24
+w: clean||the cross He car|_ ried bore my|bur den||the nails that|
+"E" C B,3 z2 A,G, |"Asus4" A,8 |"A" z2 A,2"Dmaj7/E" C3 D | x8 | z2 A,2 C3 E |"F#m" F8- | %30
+w: held Him set me|free|His life for||His life for|mine|
+ C4-"F#m/E" C4 |"D" F6 GA |"A/C#" E4"D" D2- C2 |"Esus4" B,8- |"E" z2 A,2"Dmaj7/E" C3 D |"A" E8 | %36
+w: _ _|How could it|ev er _|be|that He would|die|
+ z2 E2 A3 E |"F#m" F8- | F2 z4 z F |"D" F6 GA |"A/E" E2 z2"C#7/E#" B4 |"F#m" A8 |"D" z2 A2 A3 F | %43
+w: God's Son would|die|_ to|save a _|wretch like|me|what love di|
+"A/E" E2 z2 (3E2 D2 C2 |"E7sus4" B,6"E7" z A, |"Asus4" A,8- |"A" A,4"D/E" z4 |"A" z3 C C3 C | %48
+w: vine He gave His|life for|mine|_|His scars of|
+ DC z4 B,A, |"E" B,3- E E4 | E4 B,2 G2 |"F#m" A2 A, A,2 F2 E |"D" z3 E A3 G |"A" F- E3- E4 | %54
+w: suf fering brought me|heal _ ing|heal ing for|me He spilled his blood|to fill my|soul _ _|
+"A" z4"D/E" z4 |"A" z E2 E2 EFE- | E2 z2 A3 A |"E" B3 E E4 |"Dmaj7" z F2 F2 A3 |"E" B2 A2 z c3- | %60
+w: |His crown of _ thorns|_ made me|roy al ty|His sor row|gave me joy|
+"D/A" AB-AA- A4 |"A" z2 A2"D/E" A3 F |"A" E8 | z2 E2 A3 E |"F#m" F8- | G2 z2"F#m/E" z4 |"D" F6 GA | %67
+w: _ un _ told _|His life for|mine|His life for|mine|_|How could it|
+"A/C#" E4"D" D3- C |"Esus4" B,8 |"Esus4" z2 A,2"Dmaj7/E" C3 D |"A" E8 | z2 E2 A3 E |"F#m" F8- | %73
+w: ev er _|be|that He would|die|God's Son would|die|
+ F2 z4"F#m/E" z F |"D" F6 G-A |"A/E" E2 z2"C#/E#" B4 |"F#m" A8 |"D" z2 A2 A3 F | %78
+w: _ to|save a _|wretch like|me|what love di|
+"A/E" E2 z2 (3E2 D2 C2 |"E7sus4" E6 z A |"Asus4" A8- | A2"A" z2 (3F2 F2 G2 |"F#m" A4 A2 GB- | %83
+w: vine! He gave his|life for|mine|_ He was des|pised and re ject|
+ B A2 z (3F2 G2 A2 |"C#m" G2 E2 z E2 F | G4 z2 GG |"D" A4 A2 GB- |"A/C#" B A3 z2 FA | B4 z2 B2 | %89
+w: _ ed stripped of His|gar ment and op|pressed I am|loved and ac cept|_ ed and I|wear a|
+ B2 c2 d3 c | B8 | z2 B2 B3 ^A ||[K:B]"B" B8 | z2"B/D#" B2 B3 F |"Gm" G8- | G4 z4 |"E" G6 AB | %97
+w: robe of right eous|ness|His life for|mine|His life for|mine|_|how could it|
+"B/D#" F4"E" E2- D2 |"F#sus4" C8 |"F#" z3 F"E/F#" G3"F#/E" F |"B/D#" F8 |"B" z2 F2 B3 F | %102
+w: ev er _|be|that He would|die|God's Son would|
+"G#m" G8- | G4 z3 G |"E" G6 A-B |"B/F#" F2 z2"D#" c4 |"G#m" B8- | B8- |"E" B8 | z2 B2 B3 G | %110
+w: die|_ to|save a _|wretch like|me?|_||what love di|
+"B/F#" F2 z2 (3F2 B2 d2 |"F#sus4" c8- | c4 z3 B | B8- | B8- | !fermata!B8 |] %116
+w: vine He gave His|life|_ for|mine|_||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |"A" E8- | C8 | x8 | x8 | x8 | x8 | x8 | B, z3 z4 | x8 | %36
+w: ||||||||mine|_||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %55
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %74
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || %92
+w: ||||||||||||||||||
+[K:B] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %110
+w: ||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 |] %116
+w: ||||||
+

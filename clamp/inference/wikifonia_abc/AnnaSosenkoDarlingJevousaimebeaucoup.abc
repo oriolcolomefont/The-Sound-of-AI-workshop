@@ -1,0 +1,23 @@
+X:1
+T:Darling, Je vous aime beaucoup
+T:Darling, je vous aime beaucoup
+T:Anna Sosenko
+C:Anna Sosenko
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" A _B A _B | c d c2 |"Bb" F G F G |"F" A F C2 |"G7" D F"C7" E G |"F" F C"C7" D/E/ G |"F" F4- | %7
+w: Dar- ling, je vous|aime beau- coup,|Je ne sais pas|what to do|You know you've com-|plete- ly sto- len my|heart.|
+"Gm7" F z z2 |"C7""F" A _B A _B | c d c2 |"Bb" F G F G |"F" A F C2 |"G7" D F"C7" E G | %13
+w: |Morn- ing noon and|night- time too|Tou jours won- d'ring|what you do|That's the way I've|
+"F" F2"C7" c/A/ G |"F" F4- |"Bb" F z"F" z z |"Bb" F G _B3/2 F/ | G A _B c |"C7" _d2 _d c- | %19
+w: felt right from the|start,||Ah, Cher- ie! my|love for you is|tres, tres, fort|
+"F" c2 z2 |"Dm" D E"A7" F G |"Dm" A/F/ D2 F |"G7" A G d3/2 _d/ |"C7" c4 |"F" A _B A _B | c d c2 | %26
+w: |Wish my French were|good e- nough, I'd|tell you so much|more,|But I hope that|you com- pree|
+"Bb" F G F G |"F" A F C z |"G7" D F"C7" E G |"F" F C"Gm7" D3/2 G/ |"F" F C"Gm7" D G |"F" F4 | z4 |] %33
+w: All the things you|mean to me.|Dar- ling, je vous|aime beau- coup, I|love you, yes I|do.||
+

@@ -1,0 +1,18 @@
+X:1
+T:The soldiers in the park
+T:Soldiers in the park
+C:Lionel Monckton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Bb" d4 ABFG | D8 | d4 ABFG |"F7" A8 | F4 GFAB | c8 | d4 cGAc |"^Bb-Bdim-Cm7-F7" F8 |"Bb" d4 ABFG | %9
+w: Oh list- en to the|band|How mer- ril- y they|play|Oh don't you think it's|grand|Hear ev'- ry- bod- y|say|Oh list- en to the|
+ D8 |"Fm6" _A4"G7" G=Bdf |"Cm" e6 de |"Eb" dGGG G2 cd |"Bb/F" cFFF F2 B2 |"Cm7" BAcA"F7" GFcF | %15
+w: band|Who does- n't love to|hark To the|shout of "Here they come" and the|bang- ing of the drum Oh|list- en to the sold- iers in the|
+"Bb" B8 |] %16
+w: park|
+

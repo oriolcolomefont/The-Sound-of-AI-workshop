@@ -1,0 +1,55 @@
+X:1
+T:Woman
+T:JBB Oct 2012
+T:John Lennon
+C:pop
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Csus4" [G,CF][G,CF][G,CF]"C"[G,CE]- [G,CE] [G,CE]2 [G,CE] | %1
+w: |
+w: |
+"C2" A,CD"C"[G,CE]- [G,CE] [G,CE]2 [G,CE] ::"C" G<G z2"Dm7" z2 GG |"C" GGAF-"Dm7" F2 z2 | %4
+w: |Wo- man I can|hard- ly ex- press, _|
+w: |Wo- man know you|un- * der- stand _|
+"C" z EEE"Am" EEEE |"Dm" z EFD-"Gsus4" D2"G" z2 |"F" z2 cc/c/-"Dm7" c2 cc | %7
+w: My mixed e- mo- tion at my|thought- less- ness, _|Af- ter all _ I'm for-|
+w: The lit- tle child _ _ in-|side the man, _|Please re- mem- * ber my|
+"Em" B/A/G AA"Gsus4" G2"G" z E |"C" G<G z2"Dm7" z2 GG |"C" Gc BG/A/-"Dm7" AG z2 | %10
+w: ev- er in your debt, _ &|wo- man I will|try to ex- press, _ _ _|
+w: life is in your hands, _ &|wo- man hold me|close to your _ heart, _ _|
+"C" z EEE"Am" EEzE |"Dm" EEFD-"Gsus4" D2"G" z2 |"F" z ccc"Dm7" c2 cc |[M:2/4]"Em" BA GA | %14
+w: my in- ner feel- ings &|_ thank- full- ness, _|For show- ing me _ the|mean- ing of suc-|
+w: How- e- ver, dis- tant don't|keep us a- part, _|_ Af- ter all it is|writ- ten in the|
+[M:4/4]"Gsus4" [Ac]6- [Ac][Bd]/[Ac]/ |"G" [GB]2 z2 z4 ||"Cmaj9" [Bd]6- [Bd]G/E/ | %17
+w: cess, _ _ _|_|Ooh _ _ _|
+w: stars, _ _ _|_||
+"Am7" [Ad]3 c- c2 z [Ee] |"Dm7" [Dd]2 z2 z2 [FB]/[Gc]/[Ad] |"G6" [Be][Be]- [Be]6 | %20
+w: _ _ _ well,|well, Doo doo doo|doo doo. _|
+w: |||
+"Cmaj9" [Bd]6- [Bd]G/E/ |"Am7" [Ad]3 c- c2 z [Ee] |"Dm7" [Dd]2 z2 z2 [FB]/[Gc]/[Ad] ||1 %23
+w: Ooh _ _ _|_ _ _ well,|well, Doo doo doo|
+w: |||
+"G6" [Be][Be]- [Be]6 :|2"G6" [Be][Be]- [Be]6 ||[K:Db]"Db" A<A z2"Ebm7" z3 A | %26
+w: doo doo. _|doo doo. _|Wo- man please|
+w: |||
+"Db" Ad cA/B/-"Ebm7" BA z2 |"Db" z FFF"Bbm" FFFF |"Ebm" FGGE-"Absus4" E2"Ab" z2 | %29
+w: let me ex- * plain, _ _|I ne- ver meant to cause you|sor- row or pain, _|
+w: |||
+"Gb" z ddd"Ebm7" dd z d |[M:2/4]"Fm" c/B/A B/A/A |[M:4/4]"Absus4" [Bd]6- [Bd][ce]/[Bd]/ | %32
+w: So let me tell you a-|gain & a- gain & a-|gain, _ _ _|
+w: |||
+"Ab" [Ac]2 z2 z3 A |:"Dbmaj9" [ce]6- [ce]A/F/ |"Bbm7" [Be]3 d- d2 z [Ff] | %35
+w: _ I|love _ _ _|you _ _ (yeah,|
+w: |||
+"Ebm7" [Ee]2 z2 z2 [Gc]/[Ad]/[Be] |"Ab6" [cf] [cf]2 z z2 A z :| %37
+w: yeah) now & for-|ev- er, I|
+w: ||
+

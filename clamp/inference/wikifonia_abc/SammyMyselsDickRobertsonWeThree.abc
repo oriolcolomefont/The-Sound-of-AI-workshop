@@ -1,0 +1,26 @@
+X:1
+T:We Three
+T:We Three
+C:Sammy Mysels
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2"C+" d2 |"F" c4- cAFC |"Db7" _D8 |"F" CDFA"F7" c2 =B2 |"D7" _B6 A2 |"G7" dd- d4 D2 | %6
+w: We|three _ we're all a-|lone,|liv- ing in a mem- o-|ry, my|ech- o _ my|
+"C7" AA- A4 E2 |"F" D8- |"C+" [DD]6 d2 |"F" c4- cAFC |"Db7" _D8 |"F" CDFA"F7" c2 =B2 |"D7" _B6 A2 | %13
+w: sha- dow _ and|me.|_ We|three _ we're not a|crowd,|We're not ev- en com- pan-|y, My|
+"G7" dd- d4 D2 |"C7" AA- A4 D2 |"F" F8- | F6 F2 |"F7" (3G2 A2 B2 (3A2 G3 F | (3G2 A2 B2 (3A2 G3 F | %19
+w: ech- o _ my|shad- ow, _ and|me.|_ What|good is the moon- light the|sil- ver- y moon- light, that|
+"Bb" G3 A G4- | G6 G2 |"G7" (3A2 =B2 c2 (3B2 A2 G2 | (3A2 =B2 c2 (3B2 A2 G2 | %23
+w: shines a- bove?|_ I|walk with my shad- ow, I|walk with my ech- o But|
+"Gm" d2 dd"Bbm" _B2 B2 |"C7" G6"C+" d2 |"F" c4- cAFC |"Db7" _D8 |"F" CDFA"F7" c2 =B2 |"D7" _B6 A2 | %29
+w: where is the one I|love? We|three _ we'll wait for|you,|Ev- en till e- ter- ni-|ty, My|
+"G7" dd- d4 D2 |"C7" AA- A4 D2 |"F" F8- | F6 z2 |] %33
+w: ech- o, _ my|shad- ow _ and|me.|_|
+

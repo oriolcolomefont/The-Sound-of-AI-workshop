@@ -1,0 +1,24 @@
+X:1
+T:subconscious lee (Bb)
+T:subconscious lee
+T:lee konitz
+C:lee konitz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Guitar"
+%%MIDI program 25
+%%MIDI control 7 101
+%%MIDI control 10 64
+V:1
+ z =abc' |"Bbm7b5" _d' z2 =a3 b2 |"Eb7" z __b_b_c' __b_be'_d' |"Abm" _c'aga z4 | %4
+ z"Abm" e (3f_g=g ab (3_c'=c'_d' |"Fm7b5" (3d'_d'_c' a2 z4 |"Bb7" z f (3gab _d'_c'ba | %7
+"Ebmaj7" gaga =a z z2 | z4 z"F7" f g2 |"Bbm7b5" __b_b z c'2 _d' __b2 |"Eb7" z2 e2 _f e2 _c' | %11
+"Abm" g2 z2 gab_c' |"Abm" f2 z4 fg |"Fm7b5" a2 g2 agfe |"Bb7" (3d_gb !~(!e'!~)!f' c'/a/_f- f2 | %15
+"Ebmaj7" eg __b2 z4 | z4 z def |"Ebm7" _gfde fg__ba |"Ab7" __baf_g _c'bag |"Dbmaj7" fe A6 | %20
+ z Bze (3a2 _d'2 _g'2 |"Cb7" _c'2 z2 a__bd'=c' |"Cb7" _c'__ba_g agfg |"Fm7" gaz_d' z4 | %24
+"Bb7" z4 de_f=f |"Bbm7b5" _g2"Eb" _f2 efg=g |"Eb7" c'__b_g=g b_be'c' |"Abm" _c'2 z a gabc' | %28
+"Abm" d'_d'b_c' g' z z2 |"Fb7" ga_d'_c' bc' _f'2 |"Bb7" z4 _d'_c'ba |"Eb" gaga __b_b__b_b | %32
+ _c'2 c'6 |] %33
+

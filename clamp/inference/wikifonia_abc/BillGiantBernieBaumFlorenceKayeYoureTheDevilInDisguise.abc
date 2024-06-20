@@ -1,0 +1,28 @@
+X:1
+T:You're The Devil In Disguise
+T:You're the devil in disguise
+T:Bill Giant;  Bernie Baum; Florence Kaye:
+C:Bill Giant, Bernie Baum, Florence Kaye
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 z C |:"F" A2 AA"Bb" B2"F" A2- |"Bb" A4"F" z4 | A2 AA"Bb" B2"F" A2- |"Bb" A4"F" z4 | %5
+w: You|look like an an- gel||walk like an an- gel||
+w: |||||
+"Bb" B2 BB"C" c2"Bb" B2- | B2 B2"C" c2"Bb" d2 |"C7" c8 | z2 ff cFGF |"F" A2 z2 z ^GA=G | %10
+w: talk like an an- gel|* but I got|wise|you're the dev- il in dis-|guise oh yes you|
+w: |||||
+"Dm" F D3 DFGF |"F" F6"Dm" F2 | D4 z4!dacoda! ||"F" z2 c2 c2 cA | c-cAd d2 c2 |"Dm" z2 d2 d2 e2 | %16
+w: are * dev- il in dis-|guise mm||You fooled me *|with * your kiss * es|you cheat- ed|
+w: |||I thought that *|I was in heav * en|But I was|
+ d2 cA A4 |"F" c A2 A- A2 AG |"Dm" A2 GF- F3 D |"Bb" F2 F2 F2"C7" G2 |"F" F4 z z C z!D.S.! :| %21
+w: and you schemed *|heav- en knows * how you|lied to me * you're|not the way you|seemed you|
+w: sure sur- pised *|heav- en help * me I|did- nt see * the|dev- il in your|eyes *|
+O"Dm" D4 AFGF |:"F" A c3 z FFE |"Dm" D4"^repeat and fade" AFGF :| %24
+w: * dev- il in dis-|guise * oh yes you|are dev- il in dis|
+w: |||
+

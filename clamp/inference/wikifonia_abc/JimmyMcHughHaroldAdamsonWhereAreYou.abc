@@ -1,0 +1,28 @@
+X:1
+T:Where Are You?
+T:Where Are You?
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" d3 G |"Bm""F#" F4 |"Am7" (3E E E"D7" G3/2 F/ |"Gdim7" ^C"G" D3 |"A7" (3F F F A3/2 G/ | %5
+w: Where are|you?|Where have you gone with-|out me?|I thought you cared a-|
+"Gdim7" ^C"G" D3 |"Am""D7" =c3 d |"G" B3 z | d3 G |"Bm""F#" F4 |"Am7" (3E E E"D7" G3/2 F/ | %11
+w: bout me.|Where are|you?|Where's my|heart?|Where is the dream we|
+"Gdim7" ^C"G" D3 |"A7" (3F F F A3/2 G/ |"Gdim7" ^C"G" D3 |"Am""D7" d3 B |"G""Cm" G3"G" z || %16
+w: start- ed?|I can't be- lieve we|part- ed.|Where are|you?|
+"C" E F"Am7" G A |"B7sus4" B"B7" B3 |"Em" G A"A7" B c |"D7""Am7" d3"D7" z |"C" E F"Am7" G A | %21
+w: When we said good-|bye, love,|what had we to|gain?|When I gave you|
+"B7sus4" B"B7" B3 |"Em" G A"A7" B ^c |"D7""Am""D7" d3 z ||"G" d3 G |"Bm""F#" F4 | %26
+w: my love|was it all in|vain?|All life|through,|
+"Am7" (3E E E"D7" G3/2 F/ |"Gdim7" ^C"G" D3 |"A7" (3F F F A3/2 G/ |"Gdim7" ^C"G" D3 | %30
+w: must I go on pre-|tend- ing?|Where is my hap- py|end- ing?|
+"Am7" d3"D7" B |1"G""Am7" G3 z :|2"G" G3 z |] %33
+w: Where Are|You?||
+

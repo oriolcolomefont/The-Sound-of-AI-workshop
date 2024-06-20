@@ -1,0 +1,25 @@
+X:1
+T:A Little Bitty Tear
+T:A little bitty tear
+T:Hank Cochran
+C:Hank Cochran
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^N.C." FG |:"F" A A2 ^G A=G F2 |"Gm" G2 G4"C7" GC |"Gm" _B3 B"C7" BA G2 |"F" A6 A_B | %5
+w: When you|said you were leav- ing to-|mor- row that to-|day was our * last|day * I|
+w: |said I'd * laugh when you|left me, pull a|funny as you went out|the~door That I'd|
+ c2 c2"F7" c_B F2 |"Bb" _B2 B4 FG |"F" A3 A"C7" G2 GE |"F" F6 FG | A^GAG A2 GF |"Gm" G8 | %11
+w: said there'd be * no|sor- row that I'd|laugh when you walked a-|way But a|lit- tle bit- ty tear let me|down|
+w: have an- oth- er one|wait- ing I'd *|wave good- bye as you|go. * *|||
+"C7" _B2"Gm" B2"C7" B2 AG |"F" A4- AAA_B | c2 c2"F7" c_BAc |"Bb" _B6 FG |1"F" A^GA_B"C7" G2 EG | %16
+w: spoiled my act as a|clown * I had it|made up to not make a|frown. but a|lit- tle bit- ty tear let me|
+w: |||||
+"F" F6 FG :|2"F" A^GA_B"C7" =G2 EG |"F" F6 z2 |] %19
+w: down! I *|lit- tle bit- ty tear let me|down.|
+w: |||
+

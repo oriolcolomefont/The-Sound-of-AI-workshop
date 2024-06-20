@@ -1,0 +1,25 @@
+X:1
+T:LIEF KLEIN KONIJNTJE
+T: Laukens Music Productions  
+T:Foxtrot
+T:LIEF KLEIN KONIJNTJE
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=140
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"F" F [FAc] C [FAc] | F [FAc] C [FAc] |"Bb" B, [B,DF] F, [B,DF] |"F" C [FAc] F [FAc] | %4
+ C [FAc] F [FAc] | [FAc]"A7" [EGA^c]"Dm" D [DFA] |"Gm" G [GBd]"C7" C [B,CE] |"F" [A,CF] z z2 || %8
+"F" C C/>B,/ A,/>C/ F/>G/ | A/>A/ A/>G/ F2 |"Bb" D D/>E/ F/>E/ F/>D/ |"F" C/>D/ C/>A,/ C2 | %12
+ C C/>B,/ A,/>C/ F/>G/ | A/>A/"A7" A/>G/"Dm" F F/>F/ |"Gm" G G"C7" F E |"F" F z z2 || %16
+"F" C- C/>B,/ A,/>C/ F/>G/ | A G F z |"Bb" D- D/>E/ F/>G/ F/>D/ |"F" C B, A, z | %20
+ C- C/>B,/ A,/>C/ F/>G/ | A"A7" G"Dm" F F/>F/ |"Gm" G G"C7" F E |"F" F z z2 :| %24
+

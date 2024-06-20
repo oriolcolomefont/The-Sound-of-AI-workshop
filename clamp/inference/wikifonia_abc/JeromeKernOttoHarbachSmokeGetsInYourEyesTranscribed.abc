@@ -1,0 +1,31 @@
+X:1
+T:Smoke Gets In Your Eyes (Transcribed)
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Guitar" snm="Guit."
+%%MIDI program 24
+V:1
+"Eb " GB eB GB eB | GB eB GB eB | (3:2:2GF/ E3"Ebmaj7" DF EC |"Fmin" A4"Bb7" GB AF | %4
+w: ||Th- e\- y asked me how I|knew my true love was|
+"Eb " e4"Baug" g4 |"Ab " g/f/ e3"Ebdim" fe _c=c |"Ebmaj7" d3 z"Cmin7" cB CE | %7
+w: true. Oh...|O\- h\- h I of course re-|plied some- thing here in-|
+"Fmin7" B4"Bb7" cB cB |"Eb " c/B/ G3"Cmin" z c de |"Fmin7" z c ea"Bb7" b3 z | %10
+w: side can not be de-|ni- e\- d. * * *||
+"Eb " G/F/ E3"Ebmaj7" DF EC |"Fmin" A3 z"Bb7" GB AF |"Eb " e4"Baug" g4 | %13
+w: Th- e\- y said some- day you'll|find all who love are|blind. Oh...|
+"Ab " g/f/ e3"Ebdim" fe _c=c |"Ebmaj7" d3 z"Cmin7" cB CE |"Fmin7" B3 z"Bb7" cB B,C |"Eb ""Ab " E8 | %17
+w: O\- h\- h When your heart's on|fire you must re- a\-|lize smoke gets in your|eyes.|
+"Eb ""Gb7" z8 |"Cb " E_G e2- eB _d_c | E_G B2 z A (3GA,_C |"Gb7" _G4"Gbdim" G4 |"Gb7" _G6- G z | %22
+w: |So I chaffed * them and I|gai- ly laughed to think they could|doubt my|love. *|
+"Cb " E_G e2- eB _d_c |"Abmin7" E_G B2-"Bb7" BA =GF |"Eb " G4 G4 |"Bb7" F6- F z | %26
+w: Yet to- day * my love has|flown a\- way; * I am with-|out my|love. *|
+"Eb " E4"Ebmaj7" DF EC |"Fmin" A4"Bb7" GB AF |"Eb " e4"Baug" g4 | %29
+w: Now laugh- ing friends de-|ride tears I can not|hide. Oh...|
+"Ab " (3:2:2gf/ e3"Ebdim" fe _c=c |"Ebmaj7" d4"Cmin7" cB (3CEG |"Fmin7" B4"Bb7" cB B,C | %32
+w: O\- h\- h So I smile and|say when a love- ly flame|dies smoke gets in your|
+"Eb " E4"Bb7" z4 |"Eb ""Bb7" z8 |"Fmin7" F2 A2 c2 e2 |"Eb " z2"Abmaj7" g6- |"Eb " g4 z4 |] %37
+w: eyes,||Smoke- gets in your|eyes.||
+

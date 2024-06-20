@@ -1,0 +1,23 @@
+X:1
+T:Greensleeves
+T:Greensleeves
+T:Traditional English
+C:Traditional English
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"^N.C." D |:"Dm" F2 G | A3/2 _B/ A |"C" G2 E | C3/2 D/ E |"Dm" F2 D | D3/2 ^C/ D |"A7" E2 ^C | %8
+w: A-|las my|love * you|do me|wrong * to|cast me|out * dis-|cour- teous-|
+ A,2"^N.C." D |"Dm" F2 G | A3/2 _B/ A |"C" G2 E | C3/2 D/ E |"Dm" F3/2 E/ D |"A7" ^C B, C | %15
+w: ly when|I have|lov- * ed|you so|long * de-|light- * ing|in * your|
+"Dm" D2"^Chorus:" D | D3 |"F" c3 | c _B A |"C" G2 E | C3/2 D/ E |"Dm" F3 | D ^C D |"A7" E2 ^C | %24
+w: com- pan-|y|Green-|sleeves * was|my de-|light * *|Green-|sleeves was my|heart of|
+ A,3 |"F" c3 | c _B A |"C" G2 E | C3/2 D/ E |"Bb" F3/2 E/ D |"A7" ^C B, C |"Dm" D3 |1 D2 D :|2 %33
+w: gold|green-|sleeves was my|la- dy|love * and|who but my|la- * dy|green-|sleeves? I|
+ D2 z |] %34
+w: sleeves|
+

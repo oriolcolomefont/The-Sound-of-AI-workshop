@@ -1,0 +1,32 @@
+X:1
+T:Strollin'
+T:Strollin'
+C:Horace Silver
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+S"Dbmaj7" z2 z E =D_D z C- | C D3 F z A z |"Em7" =A6"A7" DC- |"Ebm7" C6"Ab7" z2 | %4
+w: I saw her stroll-|* in' down the|prom- e- nade.|_|
+"Dbmaj7" z2 z E =D_D z C- | C D3 F z A z |"Abm7" =B6"Db7" d_B- |"Gm7" B6"C7" cA- | %8
+w: I took one look|_ and I said|"Oh, my God."|_ Please help|
+"Fm7" A4 A z A z |"Bb+7" d z d2- d2 d z |"Ebm7" d4 A A2 A- |"Ab7" A8 |"Dbmaj7" z2 z A AA z e- | %13
+w: _ me to|win her. _ She's|all that I need.|_|Dear Lord a- bove|
+"Bbm7" e e3- e2 d=A- |"Eb7b5" A4- AcBF- |"D7#9" F6 z2 |"Dbmaj7" z2 z E =D_D z C- | C D3 F z A z | %18
+w: _ me _ please help|_ _ me suc- ceed.|_|She turned and smiled|_ at me to|
+"Ebm7" =A6"A7" DC- |"Ebm7" C6"Ab7" z2 |"Dbmaj7" z2 z E =D_D z C- | C D3 F z A z | %22
+w: my sur- prise.|_|I lat- er found|_ out she had|
+"Abm7" =B6"Db7" d_B- |"Gm7" B6"C7" cA- |"Fm7" A4 A z A z |"Bbm7" e z e2- e2 d=A- | %26
+w: great big eyes.|_ It all|_ goes to|prove that _ your dream|
+"Eb7b5" A4- AcB=E- |"F#m7" E2 (3(^C/=E/C/) =A,"B7" ^D z z2 |"Fm7" z c3"Bb7" B z B, z | %29
+w: _ _ can come true,|_ don't _ _ you see.|I'm just as|
+"Ebm7" FAGE z"Ab7" F3!dacoda! |"^D\nB" D z z2"Fm7" A4 |"Ebm7" AAAA z"Ab7b9" F3 | %32
+w: hap- py as I can|be. She's|strol- lin al- long with|
+"Db" C z z2 z4!D.S.! ||O"Db" D z z"Gb7b5" e- e=d_d"Fm7"c | z2 z"Bb7#9" d- dc=B"Ebm7"_B | %35
+w: me.|be. Sweet- * ie, and me,|ba- * by makes three,|
+ z2 z"Ab7b9" =B- B3"Dbmaj7" =G- | G8 |] %37
+w: strol- * lin'.|_|
+

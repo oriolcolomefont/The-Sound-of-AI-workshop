@@ -1,0 +1,28 @@
+X:1
+T:The French Song
+T:The French Song
+T:Herb Alpert
+C:Herb Alpert
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ z G G A |"G""G" B2 G F |"C" E2 G c |"G" B2 G2- |"G" G2 B c |"D" B2 A F |"D" D2 F A |"G" G4- | %8
+w: Quand le so-|leil dit bon-|jour aux Mon-|tag- nes-|* Et que|la nuit ren-|con tre le|jour-|
+w: Now when the|sun says good-|day to the|moun- tains-|* And the|night says hel-|lo to the|dawn-|
+"G" G2 G A |"G" B3/2 B/ G F |"C" E2 G/G/ c |"G" B2 G2- |"G" G2 B c |"D" B2 A F |"D" D2 F A | %15
+w: * Je suis|seule a- vec mes|reves sur la Mon-|tag ne-|* Un- e|voix me ra-|pel- le tou-|
+w: * I'- m|alo- ne with my|dreams on- * the|hill- top-|* I can|stil hear his|voice though he's|
+"G" G4- |"G" G3 G |"C" c2 c d |"C" c3 d/c/ |"G" B2 G3/2 A/ |"G" B3 B |"A" A2 A A |"A" A E F G | %23
+w: jours-|* E-|coute a ma|porte de les|chan- sons du|vent M'-|rapel- le les|sou- ve- nirs- du|
+w: gone-|* I|hear from my|door the love-|songs through the|door It|brings back sweet|me- mo- ries of|
+"D" A4- | A G G A |"G" B2 G F |"C" E2 G c |"G" B2 G2- |"G" G2 B c |"D" B2 A B |"D" c c B A | %31
+w: toi-|* Quand le so-|leil dit bon-|jours aux Mon-|tag- nes-|* Je suis|seule je ne|veux pen- ser qu'a|
+w: you-|* Quand le so-|leil dit bon-|jours aux Mon-|tag- nes-|* je suis|seule je ne|veux pen- ser qu'a|
+"G" G4- | G z z2 |] %33
+w: toi-||
+w: toi-||
+

@@ -1,0 +1,62 @@
+X:1
+T:The Altar
+T:The Altar
+T:Ray Boltz & Steve Millikan, 1989
+C:Ray Boltz & Steve Millikan 1989
+Z:All Rights Reserved
+L:1/16
+Q:1/4=80
+M:3/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Gently" z8"G" G2-A2 | B8 B4 | d6- c2 B4 |"D" A4-"G/D" B4"D7" c4 |"G" B8"G/B" d4 | d4- A4 B4 | %6
+w: just _|as I|am _ with|out _ one|plea but|that _ Thy|
+"D7" c8"C/D" e4 |"C/G" e8"G" d4 | B8 G2-A2 | B8 B4 | d4- c4 B4 |"C" e8 e4 | g4 f4 e4 |"G" d8 d4 | %14
+w: blood was|shed for|me and _|that thou|bidst _ me|come to|Thee _ O|Lamb of|
+ d4- c4 B4 |"D" A12 |"D/F#" d12 |[M:4/4][Q:1/4=68]"G" B16 |"Gsus4" z12 z3 D | %19
+w: God _ I|come|I|come|the|
+"G2" D3D3D2 D3C2B,2C- |"Em2" D4 z8 z3 D |"C" E3G2"Am/C"A G6 z4 |"G" B3c2B2A-"D" A4 z3 D | %23
+w: ser vice is near ing an end|_ the|choir is sing ing|"Just as I am _ and|
+"G2" D3D2>D2D- D3G2A3 |"Em2" E4 z4 z8 |"C" z2 EE G2G2<"Am/C"A2G2 z3 G |"G" B2B2 c2BB-"D" A4 z4 | %27
+w: now as the old _ song is|played|peo ple at the al tar are|kneel ing down to pray _|
+"C" z Gcc cc2"G2/B"d3G2 z3 B |"Am7" cB2B- AG-AA-"D" A4 z4 |"C" z2 cB c2cd-"G/B" d2G2 z AB2 | %30
+w: and some are find ing mer cy for|give ness for _ their _ sins _|some are fight ing bat tles _ and they're|
+"Am" c2BA- GG-AA-"D" A4 z3 A |"C" A-GGG- G2>G2 GG2A2>B2B- |"G" B4 z4 z8 | %33
+w: strug gl ing _ to _ win _ the|time _ has come _ to give them to the Lord|_|
+"C" z2 GG2G2A-"D7sus4" A3B/-A/- G2<G2 |"G" G4 z4 z8 |"C" z2 e2 ee2e-"Am/C" d3d2G2A- |"G" B4 z4 z8 | %37
+w: that's what this al _ tar _ _ is|for|that's what this al _ tar is for|_|
+"C" z2 ee ee2e-"Am/C" d2>d2 ccB2 |"G" B2B"C/G"c2"G"B2B-"D" A4 z4 |"Em" z2 BB BAGA2B3 z4 | %40
+w: you don't have to car ry _ _ those _|bur dens an y more _|there's a light in the dark ness|
+"Bm7" z2 BA B2<d2 B4 z4 |"Am7" z3 G (3c2B2c2"G/B" d2G2 z ABc- |"C" c2BA- G2AA-"D" A4 z3 A | %43
+w: there's a love that's true|and Je sus is wait ing He is wait|_ ing here _ for you _ go|
+"C" AG2G- G2>A2 GG2A2>B2B- |"G" B4 z4 z8 |"C2" z2 GG2G2A-"D7sus4" A2>(B2 AG)G2- |"G" G4 z4 z8 | %47
+w: quick ly now _ be fore they close the door|_|that's what this al _ tar _ _ is|for|
+"Gsus4" z12 z3 D |"G2" D3D3D2 D3C2B,2C- |"Em2" D4 z8 z3 D |"C" E3G2"Am/C"A G6 z4 | %51
+w: A|fa ther is pray ing for his|son a|mother kneels beside them|
+"G" B3c2B2A-"D" A4 z3 D |"G2" D3D2>D2D- D3G2A3 |"Em2" E4 z4 z8 |"C" z2 EE G2G2<"Am/C"A2G2 z3 G | %55
+w: thanking God they've come _ an|old man is stand ing there in|tears|giv ing up a part of that|
+"G" B2B2 c2BB-"D" A4 z4 |"C" z Gcc cc2"G2/B"d3G2 z3 B |"Am7" cB2B- AG-AA-"D" A4 z4 | %58
+w: he's held back for years _|hearts are be ing _ bro ken *|lives are be ing _ _ changed _|
+"C" z2 cB c2cd-"G/B" d2G2 z AB2 |"Am" c2BA- GG-AA-"D" A4 z3 A |"C" A-GGG- G2>G2 GG2A2>B2B- | %61
+w: those who call up on _ Him they will|nev er be _ the _ same _ the|time has come _ _ to give in to the Lord|
+"G" B4 z4 z8 |"C" z2 GG2G2A-"D7sus4" A3B/-A/- G2<G2 |"G" G4 z4 z8 |"C" z2 e2 ee2e-"Am/C" d3d2G2A- | %65
+w: _|that's what this al _ tar _ _ is|for|that's what this al _ tar is for|
+"G" B4 z4 z8 |"C" z2 ee ee2e-"Am/C" d2>d2 ccB2 |"G" B2B"C/G"c2"G"B2B-"D" A4 z4 | %68
+w: _|you don't have to car ry _ _ those _|bur dens an y more _|
+"Em" z2 BB BAGA2B3 z4 |"Bm7" z2 BA B2<d2 B4 z4 |"Am7" z3 G (3c2B2c2"G/B" d2G2 z ABc- | %71
+w: there's a light in the dark ness|there's a love that's true|and Je sus is wait ing He is wait|
+"C" c2BA- G2AA-"D" A4 z3 A |"C" AG2G- G2>A2 GG2A2>B2B- |"G" B4 z4 z8 | %74
+w: _ ing here _ for you _ go|quick ly now _ be fore they close the door|_|
+"C2" z2 GG2G2A-"D7sus4" A2>(B2 AG)G2 |"G2" G4 z4 z8 |"C" z2 e2 ee2e-"Am/C" d3d2G2A- |"G" B4 z4 z8 | %78
+w: that's what this al _ tar _ _ is|for|that's what this al _ tar is for|_|
+"C" z2 ee ee2e-"Am/C" d2>d2 ccB2 |"G" B2B"C/G"c2"G"B2B-"D" A4 z4 |"Em" z2 BB BAGA2B3 z4 | %81
+w: you don't have to car ry _ _ those _|bur dens an y more _|there's a light in the dark ness|
+"Bm7" z2 BA B2<d2 B4 z4 |"Am7" z3 G (3c2B2c2"G/B" d2G2 z ABc- |"C" c2BA- G2AA-"D" A4 z3 A | %84
+w: there's a love that's true|and Je sus is wait ing He is wait|_ ing here _ for you _ go|
+"C" AG2G- G2>A2 GG2A2>B2B- |"G" B4 z4 z8 |"C" GGGG G2A2>"Am/D"A2(BA G2)AB- |"Em" B4 z4 z4"D/E" z4 | %88
+w: quick ly now _ be fore they close the door|_|and you can give your bur dens to _ _ the Lord|_|
+"Am7" z2 cc2B2"^rit.""D7"A2>(B2A G2>)G2 |"^a tempo""G" G16 |"Gsus4" z16 |"G" z16 |] %92
+w: that's what this al tar _ _ is|for|||
+

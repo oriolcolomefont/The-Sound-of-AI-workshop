@@ -1,0 +1,24 @@
+X:1
+T:Oh, Lord I Am Not Worthy
+T:Oh Lord, I Am Not Worthy
+C:'Non Dignus' Traditional before 1871
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" (D/E/) | F"Eb/Bb" G"Bb" F B |"F7sus4" B"F7" A2 (A/B/) | c E G F |"Bb" D3 (D/E/) | %5
+w: Oh _|Lord I am not|worth- y That _|Thou should'st come to|me; But _|
+w: And _|humb- ly I'll re-|ceive Thee, The _|Bride- groom of my|soul, No _|
+w: E- *|ter- nal Ho- ly|Spir- it, Un- *|worth- y though I|be, Pre _|
+w: In- *|crease my faith, dear|Jes- sus, In _|Thy real pres- ence|here, And _|
+"Bb" F F B A |"Eb" A G2"Edim7" G |"Bb/F" F B"F7" A c |"Bb" B3 z |] %9
+w: speak the word of|com- fort, My|spir- it healed shall|be.|
+w: more by sin to|grieve Thee, Or|fly thy sweet con-|trol.|
+w: pare me to re-|ceive Him, And|trust the Word to|me.|
+w: make me feel most|deep- ly, That|Thou to me art|near.|
+

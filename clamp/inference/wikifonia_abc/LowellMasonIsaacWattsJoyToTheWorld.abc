@@ -1,0 +1,24 @@
+X:1
+T:Joy To The World
+T:Joy To The World
+C:Lowell Mason
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" c2 B>A | G3"Dm" F |"C" E2"G7" D2 |"C" C3 G |"F" A3 A |"G" B3 B |"C" c3 c | (cB) (AG) | %8
+w: Joy to the|world! the|Lord has|come: Let|earth re-|ceive her|King: Let|ev- * 'ry _|
+w: Joy to the|world! the|Sav- ior|reigns: Let|men their|songs em-|ploy, While|fields _ and _|
+w: He rules the|world with|truth and|grace, And|makes the|na- tion|prove The|glo- * ries _|
+"C" ((G>F) E)c | (cB) (AG) | (G>F E)E | EE E(E/F/) |"C" G3 (F/E/) |"G7" DD D(D/E/) | F3 (E/D/) | %15
+w: heart _ _ pre-|pare _ Him _|room, _ _ And|heav'n and na- ture _|sing, And _|heav'n and nat- rue _|sing, And _|
+w: floods _ _ rocks,|hills _ and _|plains _ _ Re-|peat the sound- ing _|joy, Re- *|peat the sound- ing _|joy, Re- *|
+w: of _ _ His|right- * eous- *|ness _ _ And|won- ders of His _|love, And _|won- ders of His _|love, And _|
+"C" (C c2)"F" A |"C" (G>F E)"Dm"F |"C" E2"G7" D2 |"C" C4 |] %19
+w: heav'n _ and|heav'n _ _ and|na- ture|sing.|
+w: peat _ re-|peat _ _ the|sound- ing|joy.|
+w: won- ders, and|won- * * ders|of His|love.|
+

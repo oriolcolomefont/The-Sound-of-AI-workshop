@@ -1,0 +1,38 @@
+X:1
+T:Row, row, row
+T:Row, row, row.
+T:Jimmie V. Monaco
+T:William Jerome
+C:Jimmie V. Monaco
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"Bb" B cA | BG AF | GA FG- | G3 z | z B cA | BG AF |"F7" GA FG- | G3 z | G F2 d- | d2 c2 | %10
+w: Young John- nie|Jones he had a|cute lit- tle boat||and all the|girl- ies he would|take for a float||he had girl|* ies|
+w: Right in his|boat he had a|cute lit- tle seat||and ev- ry|kiss he stole from|Flo was so sweet||and he knew|* just|
+"Bb" c2 Bd- | d3"C7" z | z c dB |"F7" A2 G2 | A2 Bc- | c3 z |"Bb" z B cA | BG AF | GA FG- | %19
+w: on the shore||sweet lit- tle|peach- es|by the score||but John- ie|was a Weis- en-|heim- er you know,|
+w: how to row||He was a|row- ing|Ro- me- o||he knew an|Is- land where the|trees were so grand|
+ G3"G7" z | z G A=B | A2 G2 |"Cm" c4- | c3 z |"C7" z c dc | =e2 d2 |"F" d2 Ac- | c3 A | %28
+w: |his stead- y|girl was|Flo||and ev'- ry|Sun- day|af- ter- noon|* she'd|
+w: |he knew just|where to|land||then tales of|love he'd|tell to Flo|* un-|
+"C7" cB AG- | GA B=B |"F7" c4- | c z z2 | z D E=E |:"Bb" F2 F2 | F3 z | z B cd | cB A_A | %37
+w: jump in his boat|* and they would|spoon||and then he'd|row, row,|row|way up the|riv- er he would|
+w: til it was time|* for them to|go|||||||
+"Eb" G2"G7" G2 |"Cm" G3 z | z c de |"C7" dc BG |"F7" Ac BG | A3 z | Ac BG | A3 F |"Bb" GA GF | %46
+w: row, row,|row|a hug he'd|give her then he'd|kiss her now and|then|she would tell him|when he'd|fool a- round and|
+w: |||||||||
+ GA GF | GA GD |"F7" FD E=E |"Bb" B2"F7" F2 |"Bb" F3 z | z B cd | cB A_A |"Cm" G2 c2 |"G7" =B2 d2 | %55
+w: fool a- round and|then they'd kiss a-|gain and then he'd|row row,|row|a lit- tle|furth- er he would|row, oh,|oh, oh,|
+w: |||||||||
+"Cm" c4- | c2 cd | ed ce- | e2 dc |"Bb" dc Bd- | dc BG |"C7" B4 |"F7" c4 |1"Bb" z B3 | BD E=E :|2 %65
+w: oh|* then he'd|drop both his oars|* take a|few more en- cores|* and then he'd|row,|row,||* and then he'd|
+w: |* with her|head on his breast|* then there's|twen- ty bars rest||||||
+ B4- | B3 z |] %67
+w: row.||
+w: ||
+

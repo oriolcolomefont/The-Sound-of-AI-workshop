@@ -1,0 +1,47 @@
+X:1
+T:Can't Get Used To Losing You
+T:Can't Get Used To Losing You
+T:Doc Pomus & Mort Shuman
+C:Doc Pomus & Mort Shuman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z2 G2"F" z A"D" z A |"G" z2 B2"D" z A"F" z A |"C" z2 G2"F" z A"D" z A | %3
+w: |||
+w: |||
+w: |||
+"G" z2 B2"D" z A"F" z A |:"C" z CEC"F" FD"D"^FD ||"G" G2 B2"D" z A"F" z A |"C" z CEC"F" FD"D"^FD | %7
+w: |Guess there's no use in hang- in'|'round. * * *|Guess I'll get dressed and do the|
+w: |Called up some girl I used to|know. * * *|Af- ter I heard her say hel-|
+w: |I'll find some- bod- y wait and|see. * * *|Who am I kid- din'? On- ly|
+"G" G2 B2"D" z A"F" z A |"Em" EEGE"F" AF"A7"EG |"Dm" F2 A2"A7" z G z G |"D7" ^FAcA edce | %11
+w: town. * * *|* I'll find some crowd- ed av- e-|nue. * * *|Though it will be emp- ty with- out|
+w: lo, * * *|Could- n't think of an- y- thing to|say. * * *|Since you're gone it hap- pens ev- 'ry|
+w: me. * * *|* 'Cause no one else could take your|place. * * *|Guess that I am just a hope- less|
+"G7" d6"^tacet" ^c2 |"F" cccd cBA_B |"Em" BBBc BA G2 |"Dm" AAAB AB c2 ||[M:2/4]"G7" !>!B2 !>!B2 |1 %16
+w: you. *|Can't get used to los- ing you, no|mat- ter what I try to do.|Gon- na live my whole life through||
+w: day. *|||||
+w: case. *|||||
+[M:4/4] Bc d2"^tacet" z G,A,B, ||"C" C2 E2"F" z A"D" z A |"G" z2 B2"D" z A"F" z A :|2 %19
+w: lov- ing you. * * *|||
+w: |||
+w: |||
+"G7" Bc d2"^tacet" z G,A,B, ||"C" C2 G2"F" z A"D" z A |"G" z2 B2 z B"Gb" z _B |"F" cccd cBA_B | %23
+w: lov- ing you. * * *|||Can't get used to los- ing you, no|
+w: ||||
+w: ||||
+"Em" BBBc BA G2 |"Dm" AAAB AB c2 ||[M:2/4]"G7" !>!B2 !>!B2 ||[M:4/4] Bc d2"^tacet" z G,A,B, | %27
+w: mat- ter what I try to do.|Gon- na live my whole life through||lov- ing you. * * *|
+w: ||||
+w: ||||
+"C" C2 G2"Eb" z _B"F" z A |"C" c2 GG !>!c2 z2 |] %29
+w: ||
+w: ||
+w: ||
+

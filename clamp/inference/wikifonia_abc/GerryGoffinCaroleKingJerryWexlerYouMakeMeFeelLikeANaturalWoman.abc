@@ -1,0 +1,47 @@
+X:1
+T:(You Make Me Feel Like) A Natural Woman
+C:Carole King, Gerry Goffin, Jerry Wexler
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:A
+V:1 treble nm="Piccolo"
+%%MIDI program 72
+V:1
+"A" z6 | EC EC EC |"E/G#" EF (C2 B,2) | z6 |"G" z B, DB, D2 | z2 ED E2 |"D" (D2 A,2) z2 | %7
+w: |Look- in' out * on the|morn- ing rain, _||I used to feel|un- * in-|spired. _|
+w: |When my soul was in the|lost and found, _||you came a- long|* * to|claim it.|
+"A/C#""Bm7" z6 |"A" z2 z C EF | AE FE F2 |"E/G#" z C EF (CB,) | z6 |"G" z2 D2- DB, | DB, E2 E2 | %14
+w: |And when I|knew I'd have to face|an- oth- er day, _||Lord, _ it|made me feel so|
+w: |I did- n't|know just what was wrong|with me _ _ _||'til _ your|kiss _ helped me|
+"D" (D2 A,2) z2 |"A/C#" z6 |"Bm7" z C EC EC |"C#m7" E F3 z2 |"Bm7" z C EC EC |"C#m7" F4 z C | %20
+w: tired. _||Be- fore the day I|met you,|* life was so un-|kind *|
+w: name it.||Now I'm no lon- ger|doubt- ful|of what I'm liv- ing|for, cause|
+"Bm7" EC EC EC |"C#m7" FE (FE) FE |"Dmaj7" (AE F2-) FE |"Bm7/E" c2 B2 (AB) |"A" (3(AFE- E2) z2 | %25
+w: Your * love * was the|key to my _ peace of|mind, _ _ _ 'cause|you make me _|feel _ _ _|
+w: if I make you hap- py|I don't need to do _|more, _ _ _ _|_ _ _ _||
+"D" c2 B2 (AB) |"A" (3(AFE- E2) z2 |"D" c2 B2 (AB) |"A" A2"D" F2"A/C#" (EF) | %29
+w: you make me _|feel _ _ _|You Make Me _|Feel Like A _|
+w: ||||
+"A" C2"D" B,2"A/C#" A,2 |"Bm7" C B,3 z2 |"Bm7/E" z6 :|"A" z6 | (AE) FE FE |"G/A" =GF (EF) FE | %35
+w: Nat- u- ral|Wo- man|||Oh, _ ba- by, what you've|done to me! _ (What you've|
+w: ||||||
+ =GF (E2"D" F2) |"A" z2 (AE) FE | (FE) (FE) (=G2- |"G/A" G)E E4 | =GF (EF) z2 |"Dmaj7" z6 | %41
+w: done to me!) _|You _ make me|feel _ so _ good|_ in- side|(Good in- side.) _||
+w: ||||||
+ F A3 (BA) |"Am7/D" =cB (AB) z2 | =cB (AB) z2 |"D" z2 AF AF |"A/C#" AF (e=c (3B)AF | %46
+w: And I just _|want to be _|(want to be) _|close to you. You|make me feel _ _ so a-|
+w: |||||
+"Bm7" (BA F2) z ^c- |"Bm7/E" c2 A2 B2 |:"A" (3(AFE- E2) z2 |"Dmaj7" c2 B2 (AB) | %50
+w: live! _ _ You|_ make me|feel _ _ _|you make me _|
+w: ||||
+"A" (3(AFE- E2) z2 |"Dmaj7" c2 B2 (AB) |"A" A2"D" F2"A/C#" (EF) |"A" C2"D" B,2"A/C#" A,2 |1,2 %54
+w: feel _ _ _|You Make Me _|Feel Like A _|Nat- u- ral,|
+w: ||||
+"Bm7" C2 E2 E2 |"Bm7/E" EF z E FE :|3"Bm7" C B,3 z E, ||"Bm7/E" F,2 A,2 (B,A,) |"A" C(B, A,2) z2 | %59
+w: nat- u- ral|wo- man You make me|Wo- man a|nat- u- ral _|wom- an _|
+w: |||||
+"D""A/C#""Bm7" z6 |"A" z6 |] %61
+w: ||
+w: ||
+

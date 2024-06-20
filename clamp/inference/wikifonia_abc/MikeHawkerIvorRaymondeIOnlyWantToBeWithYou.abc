@@ -1,0 +1,39 @@
+X:1
+T:I Only Want To Be With You
+T:I Only Want To Be With You
+T:Mike Hawker & Ivor Raymonde
+C:Mike Hawker & Ivor Raymonde
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z2 D2 E D2 E |"D7" F8 |"G" z2 D2 E D2 E |"D7" F4- F3 D |:"G" BAAG GFFE |"Em" E B,2 B,- B,3 D | %6
+w: |||* * I|don't know what it is that makes me|love you so * I|
+w: ||||does- n't mat- ter where you go or|what you do * I|
+"G" BAAG GFFE |"Em" E B,2 B,- B,3 B, |"C" C2 _EG"D" F F2 D |"Am7" E B2 A-"D7" A3 D | BAAG GFGA | %11
+w: on- ly know I nev- er wan- na|let you go * "cos|you star- ted some- thin' Oh|can't you see * that|ev- er since we met you've had a|
+w: wan- na spend each mo- ment of the|day with you * Oh|lok what has hap- pened with|just one kiss * I|nev- er knew that I could be in|
+ B E2 E- E3 E |"Am" c2"Bm" B2"Am" A"C#dim" G2 A- |"D7" A2 z2 z2 z B |"Am7" cBAG"D7" A A2 G- |1 %15
+w: hold on me * It|hap- pens to * true|* I|on- ly want to be with you|
+w: love like this * It's|cra- zy but it's true|* I|on- ly want to be with you|
+"G" G4"C""D" z3 D ::2"G" G2"C" G2"G" G4 ||"Eb" z2 G2 =F2 _E2 | G3 G =F _E3 |"G" D2 DD"C" E3 G | %20
+w: * It||You stopped and|smiled at me *|Asked if I'd care to|
+w: |||||
+"G" ED- D6 |"D" A,2 A,2 DD D2 | F F2"Bm7" A- A3 F |"Em7" G2 GG"A7" F G2 A- |"D7" A3 B BAGA | %25
+w: dance * *|I fell in- to your|op- en arms * and|I did- n't stand a chance|* Now lis- ten hon- ey|
+w: |||||
+"G" BAAG GFFE |"Em" E B,2 B,- B,3 D |"G" BAAG GFFE |"Em" E B,2 B,- B,3 B, |"C" C2 EG"D" F F2 D | %30
+w: I just want to be be- side you|ev- ry- where * As|long as we're to- geth- er hon- ey|I don't care * 'cos|you star- ted some- thin' Oh|
+w: |||||
+"Am7" E B2 A-"D7" A3 D | BAAG GFGA | B E2 E- E3 E |"Am" c2"Bm" B2"Am" A"C#dim" G2 A- | %34
+w: can't you see * that|ev- er since we met you've had a|hold on me * no|mat- ter what you do|
+w: ||||
+"D7" A2 z2 z2 z B |"Am7" cBAG"D7" A A2 G- :|"G""C" G6"G" z2 || %37
+w: * I|on- ly want to be with you-|.|
+w: |||
+

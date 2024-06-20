@@ -1,0 +1,36 @@
+X:1
+T:I Got It Bad And That Ain't Good
+T:I Got It Bad And That Ain't Good
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"^VERSE" z2 z D |"G69" E/F/F/E/"C9" E/F/A/G/ |"Bm7" D3"E7b9" B, | %3
+w: The|po- ets say that all who love are|blind, but|
+"Am7" C/E/B/A/4G/4-"D9" G/E/4G/4"C9"F/E/ |"Bm7b5" D3"E7b9""Am7""D9#5" D | %5
+w: I'm in love and I _ know what time it|is. The|
+"G69" E/F/F/E/"C9" E/F/A/G/ |"Bm7" D3"E7b9" B, |"Am9" C/E/B/A/4G/4- G/E/4G/4F/E/ |"G69" D3 B, | %9
+w: good book says, "Go seek and ye shall|find." Well,|I have sought and, my, _ what a climb it|is My|
+"Dm7" D/E/ (3=F/G/A/"G9" B/ A G/ |"Cmaj7" E/G/A/B/"Am7" (d/ c3/2) |"B7" B/B/c/d/"E7#9" c/d/c/B/ | %12
+w: life is just like the wea- ther. It|chan- ges with the hours. _|When he's near, I'm fair and warm- er.|
+"A7" E/F/G/A/"Eb9" (3_B/A/G/"D9" A/_E/ |"Gmaj7" D/E/E/D/"C9" E/F/A/G/4F/4 | %14
+w: When he's gone, I'm cloud- y with show- ers.|In e- mo- tion, like the o- cean, it's|
+"G69" E/F/F/E/"C9" E- E/F/4G/4 |"D6/A" A/A/B/D/"C9" A3/2"B7" F/ |"Em7" A"A13" F"D7" D2 || %17
+w: ei- ther sink or swim _ when a|wo- man loves a man like|I love him.|
+"G6""^CHORUS" ^C D e d |"B7" F G"Em7" A G |"A13" z B"Em9" G A |"A13" B4 |"Am7" z B G A | %22
+w: Nev- er treats me|sweet and gen- tle,|the way he|should.|I got it|
+"B+7" B"E7b5" d"A7b9" G"D13" B |"G""Em7" G4 |"Am7" z2"D7" z2 |"G6" ^C D e d |"B7" F G"Em7" A G | %27
+w: bad and that ain't|good!||My poor heart is|sen- ti- men- tal,|
+"A9" z B"Em7" G A |"A13" B4 |"Am7" z B G A |"B+7" B"E7b9" d"A7b9" G"D13" B |"G6""C#dim7" G4- | %32
+w: not made of|wood.|I got it|bad and that ain't|good!|
+"Dm7" G2"G+7" z G |"Cmaj13" A B d c | B A2 G |"F7" A B d c | A3 G |"Gmaj7" F G B d | %38
+w: _ But|when the week- end's|ov- er and|Mon- day rolls a-|round I|end up like I|
+"Bm7" f e2"E7" B |"Am7" d c2 E |"D13" B"D7b9" A3 |"G6" ^C D e d |"B7" F G"Em7" A G | %43
+w: start out, just|cry- in' my|heart out.|He don't love me|like I love him.|
+"A13" z B"Em9" G A |"A13" B4 |"Am9" z B G A |"B+7" B"E7b9" d"A7" G"D7b9" B |"Gb" G4 |"G/D" z4 |] %49
+w: No bod- y|could.|I got it|bad and that ain't|good!||
+

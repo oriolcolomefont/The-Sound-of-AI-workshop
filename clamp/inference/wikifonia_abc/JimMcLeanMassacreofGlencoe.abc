@@ -1,0 +1,33 @@
+X:1
+T:Massacre of Glencoe
+T:Massacre of Glencoe
+T:Jim McLean
+C:Jim McLean
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." F |:"Bb" d3/2"^Chorus" c/ B | F2 B |"Eb" G2 E |"Bb" F z F | d3/2 c/ B | F2 B | %7
+w: Oh|cruel is the|snow that|sweeps Glen-|coe and|co- vers the|grave o'|
+w: |||||||
+w: |||||||
+"F7" A/c/- c2- | c z F |"Bb" d3/2 c/ B | F2 B |"Eb" G2 E |"Dm" F z F |"Eb" G E B |"F" A B c | %15
+w: Do- nald *|* Oh|cruel was the|foe that|raped Glen-|coe and|mur- dered the|house o' Mac-|
+w: ||||||||
+w: ||||||||
+"Bb" c B- B-!fine! |"^Verses" B z F || B/d/- d F |"F7" c/e/- e F |"Dm" d f d |"Gm" B z d | %21
+w: Don- ald *|1. they|came in * a|bliz- zard * we|off- ered them|meat a|
+w: |2. they|came from * Fort|Wil- liam * with|mur- der in|mind the|
+w: |3, they|came in * the|night while * the|men were a-|sleep their|
+"Cm" c e c |"F7" F2 F |"Bb" d f d |"F7" c z F |"Bb" B/d/- d F |"F7" c/e/- e F |"Dm" d f d | %28
+w: roof o'er their|heads dry|shoes for their|feet we|wined them * and|dined them * they|ate of our|
+w: Camp- bell had|orders King|Wil- liam had|signed put|all to * the|sword * * these|words un- er-|
+w: bank of Ar-|gylls through|snow soft and|deep like|mur- de- * ring|fox- es * all|on help- less|
+"Gm" B z F/F/ |"Eb" G E B |"F7" A B c |"Bb" c/B/- B2 | B z F :| %33
+w: meat and they|slept in the|house o' Mac-|Don- ald *|* Oh|
+w: lined and *|leave none a-|live called Mac-|Don- ald *||
+w: sheep they *|slaugh- tered the|house o" Mac-|Don- ald *||
+

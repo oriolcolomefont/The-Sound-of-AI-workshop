@@ -1,0 +1,39 @@
+X:1
+T:Someplace Green
+T:Someplace Green
+T:Rod McKuen
+C:Rod McKuen
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z z/ B,/ |"Eb" E E"Bb7/F" F F |"Eb/G" z G/G/"Ab" A A |"Eb/Bb" z G/E/"Bb7" F/D/- D |"Eb" E3 B | %5
+w: The|Good Lord made man|then he rest- ed|for a lit- tle *|while. Said|
+w: The|Good Lord looked down|on- * the Earth|one af ter noon and|frowned. Said|
+w: The|Good Lord's been- *|a- round a- while|e- ter- ni- ty at|least. And|
+"Ab" c c"Gm" B G |"Cm" F E"Ab" C/B,/- B, |"Eb" E E/F/"Cm" G G |"Fm""Bb7" F3 B |"Ab" c c"Eb/G" B G | %10
+w: "Look what I've done,|ain't he pret- ty," *|* then he cracked a|smile. I'll|watch him grow I'll|
+w: "man ain't learned an|aw- ful lot since *|I carved him out of|ground He's|built a lot of|
+w: I guess he'll be|a- round a while. *|'till time and tide have|ceased. *|Look- in' down from|
+"Cm" F E"Ab" C2 |"Eb" E E/F/ G/A/- A |"Bb7" F3 F |"Eb" E E"Bb7" F F |"Eb" G/G/- G"Ab" A A | %15
+w: hear him talk,|* learn to love and *|kill, but|when he's had his|fill of * these I'll|
+w: steep- * les|of clay and rocks and *|sand But|he has- n't learned|to get * a- long|
+w: some- * where,|* try- in hard to *|find if|man has earned his|pa- ra- * dise the|
+"Eb/Bb" G G"Bb7" F F |"Eb" E E G B |"Fm7" F4- |"Bb7" F z B,/D/- D |"Eb" E4- | E E"Cm7" G B | %21
+w: walk him up the|hill. To Some- place|Green,|* some- place *|nice,|* some- place that|
+w: with his fel- low|man." And * *|||||
+w: oth- er side of|time. And * *|||||
+"Fm7" F4- |"Bb7" F F E D |"Eb" E4- |"Eb7" E z G/B/- B |"Ab" c4- |"Gm" c B G F |"Cm" E4- | %28
+w: I|* call par- a-|dise.|* Grow- in' *|green-|* er in the|rain,|
+w: |||||||
+w: |||||||
+"Abm6/B" E2"Eb/Bb" G/B/- B |"Fm7" F4- |"Bb7" F F E D |"Eb""Fm7/Bb" E4- |"Eb" E3 z |] %33
+w: * wait- in' *|there|* for man to|claim.-||
+w: |||||
+w: |||||
+

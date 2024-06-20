@@ -1,0 +1,26 @@
+X:1
+T:You're Driving Me Crazy
+T:You're Driving Me Crazy
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Fmaj7" c8- |"Am7" c2 d2"D7" d>c d2 |"Gm7" d4"C7" c4- |"C7" c4 BAGD- |"Gm7" D8- |"C7" D4 BAGD- | %6
+w: You!!|* you're driv- ing me|cra- zy!|* What did I do?||* What did I do?|
+"Fmaj7" D8- |"Gm7" D2 A2 B2"G#dim7" =B2 |"Fmaj7" c8- |"Am7" c2 d2"D7" d>c d2 |"Gm7" d4"C7" c4- | %11
+w: |* My tears for|you|* make ev- 'ry- thing|ha- zy|
+ c4 BAGD- |"Gm7" D8 |"C7" E8 |"Fmaj7" F8- |"Bm7" F6"E7" e2 |"A" e6"Am/C" E>F | %17
+w: * cloud- ing the skies||of|blue.|* How|true! were the|
+"Bm7" ^F F2 G"E7" ^G G2 =G |"Amaj7" ^F F2 G ^G=G^G^F- |"Bm7" ^F6"E7" e2 |"Amaj7" e6"Am/C" E>F | %21
+w: friends who were near me, to|cheer me, be- lieve me they knew.|* But|you! were the|
+"Bm7" ^F F2 G"E7" ^G G2 E |"A7" A A2 ^G"D7" A=GAc- |"C7" c4"C+" c4 |"Fmaj7" c8- | %25
+w: kind who would hurt me, de-|sert me, when I need- ed you!|* Yes!|You|
+"Am7" c2 d2"D7" d>c d2 |"Gm7" d4"C7" c4- | c4 BAGD- |"Gm7" D8 |"C7" E8 |1"F""Abdim7" F8 || %31
+w: * you're driv- ing me|cra- zy!|* What did I do?||to|you?|
+"C7" z4"C+" c4 :|2"Fmaj7""Db7" F8- ||"F" F6 z2 |] %34
+w: Yes!|you?||
+

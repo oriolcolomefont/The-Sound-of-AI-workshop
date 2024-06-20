@@ -1,0 +1,36 @@
+X:1
+T:Roses Are Red (My Love)
+T:Roses Are Red (My Love)
+C:Paul Evans
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z E D C |:S"G7" C3/2 B,/ B,2- | B, F E B, |"C" D3/2 C/ C2- | C G F E |"F" E3/2 D/ D2- | %6
+w: A long, long|time a- go|_ on grad- u-|a- tion day|_ You hand- ed|me your book,|
+w: |thru' high- school|_ and when the|big day came,|_ I wrote in-|to your book,|
+w: |lit- tle girl?|_ She looks a|lot like you.|_ Some day some|boy will write|
+"G7" D F E D |"C" C"C7" E F G |"F" A3/2 ^G/ A2 | z2 c/F/ A |"C" G3/2 C/ E2 |"Am" z2 G/F/ E | %12
+w: _ I signed this|way: Ros- es are|red, my love,|Vi- 'lets are|blue, _ _|Su- gar is|
+w: _ next to my|name: * * *|||||
+w: _ in her book|too: * * *|||||
+"F" F3/2 E/ D A |"G7" G3/2 E/ D E |1"C" C4- || C E D C :|2"C" C4- || C2 z2 ||3"C""F""C""G7" C4- || %19
+w: sweet, my love, But|not as sweet as|you.|_ We da- ted|you.|_|you.|
+w: |||||||
+w: |||||||
+"C" !fermata!C3 z!fine! |]"F" z A G F |"G" E3/2 D/"G7" E B, |"C" D C C D |"C7" E4 |"F" z A G F | %25
+w: _|Then I went|far a- way and|you found some- one|new.|I read your|
+w: ||||||
+w: ||||||
+"G7" E D E F |"C" G G"F7" G A |"G7" G"C7" E F G |"F" A3/2 ^G/ A2 | z2 c/F/ A |"C" G3/2 C/ E2 | %31
+w: let- ter, dear, and|I wrote back to|you: Ros- es are|red my love,|Vi 'lets are|blue, _ _|
+w: ||||||
+w: ||||||
+"Am" z2 G/F/ E |"F" F3/2 E/ D A |"G7" G3/2 E/ D E |"C" C4- | C E D C!D.S.! |] %36
+w: Su gar is|sweet, my love, Good-|luck, may God bless|you.|_ Is that your|
+w: |||||
+w: |||||
+

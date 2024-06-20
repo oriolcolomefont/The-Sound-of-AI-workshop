@@ -1,0 +1,26 @@
+X:1
+T:The girl that I marry
+T:The girl that I marry
+T:Irving Berlin
+T:from Annie get your gun
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z F |:"Bb" B B B | B F D |"Cm" E2 E |"F7" E2 F | A A A | A G A |"Bb" B2 d | d2 d |"F7" c2 B | %10
+w: The|girl that I|mar- ry will|have to|be as|soft and as|pink as a|nur- ser-|y the|girl I|
+ A2 G |"Bb" F3- | F"C7" G"F7" A |"Bb" B F D |"Cm" G E C |"Bb" F D B, |"F7" C2 F |"Bb" B B B | %18
+w: call my|own|* will have|sat- ins and|lac- es and|smell of co-|logne her|nails will be|
+ B F"Cm7" D | E2 E |"F7" E2 F | A A A | A G A |"Bb" B2 d | d d d | d c2- | c c c |"Eb" c B2- | %28
+w: pol- ished and|in her|hair she'll|wear a gar-|d- nia and|I'll be|there "stead of|flit- ting|* I'll be|sit- ting|
+ B A B | c B A | c B"Bb" G | G F2- |"F7" F2 F |"Bb" B B B | B F D |"F7" E c"Cm7" B | %36
+w: next to her|and she'll purr|like a kit-|ten *|* A|doll I can|car- ry the|girl that I|
+"F7" A"Cm7" G"F7" A |1"Bb" B/F/ f/F/ B ||"Cm" z/ G/ g/G/ c |"F7" z/ A/ a/A/ a |"Bb" b2 F :|2 %41
+w: mar- ry must|be. * * * *||||
+"Bb" B/F/ f/F/ B ||"Cm" z/ G/ g/G/ c |2"F7" z/ A/ a/A/ a ||"Bb" b2 z |] %45
+w: ||||
+

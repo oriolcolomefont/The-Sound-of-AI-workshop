@@ -1,0 +1,15 @@
+X:1
+T:God save the queen
+C:Jean-Baptiste Lully
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+ G G A | F>G A | B B c | !>!B>A G | A G F | G (G/A/B/c/) | d d d | d>c B | c c c | c>B A | %10
+w: God save our|gra- cious Queen|long live our|no- ble Queen|God save the|Queen * * * *|Send her vic-|to- ri- ous|hap- py and|glo- ri- ous|
+ B (c/B/A/G/) | !>!B>c d | (3(e/d/c/) B A | G3 |] %14
+w: long reign _ _ _|o- ver us|god _ _ save the|Queen|
+

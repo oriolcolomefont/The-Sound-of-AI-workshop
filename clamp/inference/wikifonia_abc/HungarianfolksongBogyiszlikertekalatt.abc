@@ -1,0 +1,15 @@
+X:1
+T:Bogyiszlói kertek alatt
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E A3 c2 e2 | _e3 =e A E3 | A B3 c3 B | A A3 A4!fine! :| g2 g2 f2 e2 | d B3 G4 | d2 f2 e2 c2 | %7
+w: Bo- gyisz- ló- i|ker- tek a- latt|foly- ik el a|ka- ná- lis,|Min- dig für- dik|a gó- lya,|még- is sá- ros|
+ B2 A2 E4!D.C.! |] %8
+w: a toll- la,-|
+

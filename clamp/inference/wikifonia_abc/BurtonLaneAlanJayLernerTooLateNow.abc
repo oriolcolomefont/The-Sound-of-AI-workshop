@@ -1,0 +1,30 @@
+X:1
+T:Too Late Now
+T:Too Late Now
+C:Burton Lane
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7" E G"Am7" B A/>G/ |"Dm7" E C"G7sus4" C3/2 D/ |"Cmaj7" E G"Am7" B c/>A/ |"Dm7" G D"G7" D2 | %4
+w: Too late now to for-|get your smile, the|way we cling when we've|danced a- while.|
+"Cmaj7" E G"Am7" B c/>d/ |"F#m7b5" e d/c/"B7" B A |"Em7""Am7" G3 c |"Dm7""G7" F4 | %8
+w: Too late now to for-|get and go on to|some- one|new.|
+"Cmaj7" E G"Am7" B A/>G/ |"Dm7" E C"G7sus4" C3/2 D/ |"Cmaj7" E G"Am7" B c/>A/ |"Dm7" G D"G7" D2 | %12
+w: Too late now to for-|get your voice, the|way one word makes my|heart re- joice.|
+"Cmaj7" E G"Am7" B c/>d/ |"F#m7b5" e d/c/"B7" B A |"Em7""A7""Dm7" G3"G7" d |"Cmaj7" c3 d/>^d/ | %16
+w: Too late now to i-|mag- ine my- self a-|way from|you. All the|
+"Bm7b5" e3/2 =d/"E+7" c3/2 B/ |"Am" ^G ^F3 |"Bm7b5" ^G A"E7" ^F/>G/A/>B/ |"Am7" c3 c/>^c/ | %20
+w: things we've done to-|geth- er|I re- live when we're a-|part. All the|
+"Am7b5" d3/2 =c/"D+7" _B3/2 A/ |"Gm" ^F E3 |"Am7b5" ^F G"D7" E F |"Dm7""G7" G4 | %24
+w: ten- der fun to-|geth- er|stays on in my|heart.|
+"Cmaj7" E G"Am7" B A/>G/ |"Dm7" E C"G7sus4" C3/2 D/ |"Cmaj7" E G"Am7" B c/>B/ |"Dm7" G D"G7" D2 | %28
+w: How could I ev- er|close the door, and|be the same as I|was be- fore?|
+"Cmaj7" E G"Am7" B c/>d/ |"F#m7b5" e d/c/"B7" B A |"Em7""A7" G2"Dm7""G7" d2 |"Cmaj7" c3 z |] %32
+w: Dar- ling, no, no, I|can't an- y more, it's|too late|now.|
+

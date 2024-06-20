@@ -1,0 +1,34 @@
+X:1
+T:All My Tomorrows
+T:All My Tomorrows
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2"E7" E2 |:"Am9" BBBB B3 A |"Am7b5" BA _E4"D7b9" z F |"Bm7" AAAA A3 G |"Bbm7" _D6"Eb7" z E | %5
+w: To-|day I may not have a|thing at all, ex-|cept for just a dream or|two. But|
+"Am7" GGGG"D9sus4" G2"D7/C" FE |"Bm7" F D2 E"E7b9" =F2 ED |"Am7" E C2 D"D7b9" _E3 D | %8
+w: I've got lots of plans for to-|mor- row, and all my to-|mor- rows be- long to|
+"Gmaj7" D4"Bm7" z2"E7b9" E2 |"Am9" BBBB B3 A |"Am7b5" BA _E4"D7b9" z F |"Bm7" AAAA A3 G | %12
+w: you. Right|now it may not seem like|spring at all, We're|drift- ing and the laughs are|
+"Bbm7" _D6"Eb7" z E |"Am7" GGGG"D9sus4" G2"D7/C" FE |"Bm7" F D2 E"E7b9" =F2 ED | %15
+w: few. But|I've got rain- bows planned for to-|mor- row, and all my to-|
+"Am7" E C2 D"D7b9" _E3 D |"G9sus4" D6"G7" z2 |"Cmaj7" z2 E2 F2 G2 |"Cm7" _BAGG- G_BAG | %19
+w: mor- rows be- long to|you.|No one knows|bet- ter than I _ that luck keeps|
+"Gmaj7" =BAGG-"Em7/D" G2 A2 |"C#m7b5""Cm6" B8 |"G6/B" z2 G2"Em7" A2 B2 |"Am7" dcBB-"D13b9" BdcB | %23
+w: pass- ing me by, * that's|fate!|But with you|there at my side, _ I'll soon be|
+"B7" dcBB-"E9" B2"A9#5" B2 |"D9sus4" D4 z2"E7b9" E2 |"Am9" BBBB B3 A |"Am7b5" BA _E4"D7b9" z F | %27
+w: turn- ing the tide, _ just|wait! As|long as I've got arms that|cling at all, it's|
+"Bm7" AAAA A3 G |"Bm7" _D6"Eb7" z =E |"Am7" GGGG"D9sus4" G2"D7/C" FE |"Bm7" F D2 E"E7b9" =F2 ED | %31
+w: you that I'll be cling- ing|to. And|all the dreams I dream, beg, or|bor- row, on some bright to-|
+"Am7" E C2 D"D7b9" _E3 D |"Bm7b5" B6"E7b9" E2 |"Am9" BBBB (3B2 A2 B2 |"Am7" c4"D7b9" D4 |1 %35
+w: mor- row they'll all come|true, and|all my bright to- mor- rows be-|long to|
+"G6" G4"Bm7""E7" z4 :|2"G6" G8 |] z8 |"Am9""_(Optional Ending)" BBBB (3B2 c2 d2 | %39
+w: you.|you.||all my bright to- mor- rows be-|
+"^Am7b9" _e4"D7" d4 |"G6" d8- | d8 |] %42
+w: long to|you.||
+

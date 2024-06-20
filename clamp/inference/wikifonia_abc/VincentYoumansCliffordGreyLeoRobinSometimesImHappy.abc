@@ -1,0 +1,24 @@
+X:1
+T:Sometimes I'm Happy
+T:Sometimes I'm Happy
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Fmaj7" z ^G A A |"Gm7/C" A B3 |"Fmaj7" z ^G A A |"C7" A G3 |"Fmaj7" z ^G A A |"Gm7/C" A B3 | %6
+w: Some- times I'm|Hap- py,|some- times I'm|blu- e|my dis- po-|si- tion|
+"Fmaj7" z ^G A A |"C7" A G3 |"F" z ^G"Fmaj7" A c |"Cm7" _e2"B7" e2 |"Bbmaj7" d E F _d- | %11
+w: de- pends on|you. *|I nev- er|mind the|rain from the skiesc|
+"Bbm7""Eb9" _d4 |"F" z E F A |"Eb11" c2"D9" c2 |"Gm7" B F A G- |"Db""C9" G4 |"Fmaj7" z ^G A A | %17
+w: |if I can|find the|sun in your eyes.||Some- times I|
+"Gm7/C" A B3 |"Fmaj7" z ^G A A |"C7" A G3 |"Fmaj7" z ^G A A |"Gm7/C" A B3 |"Fmaj7" z ^G A A | %23
+w: love you,|some- times I|hate you;|but when I|hate you,|it's 'cause I|
+"C7" A G3 |"F" z ^G"Fmaj7" A c |"C7" _e2"B7" e2 |"Bbmaj7" d E F _d- |"Bbm7" d4 | %28
+w: love you.|That's how I|am, so|what can I do?||
+"F" z G"Fmaj7" A c |"Gm7" B G"C7b9" A2 |1"F6" F4- | F2 z2 :|2"F6" F4- | F2 z2 |] %34
+w: I'm hap- py|when I'm with|you||you.||
+

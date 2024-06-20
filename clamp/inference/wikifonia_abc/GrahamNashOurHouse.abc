@@ -1,0 +1,25 @@
+X:1
+T:Our House
+T:Our house
+T:Graham Nash
+C:Graham Nash
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C""^Medium rock" G2 cd c4 | e2 ga gedd |"F" c2 cd c2 G2 | A8 |"C" GGcd c2 d2 |"Am" e2 ga gedc | %6
+w: I'll light the fire|you place the flow- ers in the|vase that you bought to-|day|star- ing at the fire for|hours * and hours * while I|
+"F" c2 d2 c2 G2 |"G7" A2 B2 d2 B2 | A2 B2 d2 G2 |"C" e4 z4 | ag f2 e2 d2 | c8 |"C" e4 e2 ee | %13
+w: lis- ten to you|play your love songs|all night long for|me|on- ly for me *||Our house is a|
+"F" aaaa a2 fe | fgfe"C" e2 e2 |"F" fgfe"C" e2 e2 |"F" fgfe"C" edcG |"F" A8 |"G7" d4 f4 | %19
+w: ve- ry ve- ry fine house with|two cats in the yard, life|used to be so hard, now|ev- ry- thing is eas- y cause of|you|OOO wa|
+"C" g2 e2 efge |"G7" fgge fgcd |"F" c2 Ac"C" GGAc |"F" ABce"Dm" defc' |"C" b2 g2 egge | %24
+w: la, la, la, la, la, la,|la, la, la, la, la, la, la, la,|la la la la la la la|la la la la la la la la|la la la la la la|
+"G7" fgge fgcd |"F" c2 c_e dc e2 ||"G" c4 f4 |"C" g2 ee e2 c2 | e2 ga gedc |"F" c2 cc"G" d2 d2 | %30
+w: la la la la la la la la|la la la la la la|OOO wa|I'll light the fire while|you place the flow- ers in the|vase that you bought to|
+"C" ec G2 E4- | E8 |] %32
+w: day. * * *||
+

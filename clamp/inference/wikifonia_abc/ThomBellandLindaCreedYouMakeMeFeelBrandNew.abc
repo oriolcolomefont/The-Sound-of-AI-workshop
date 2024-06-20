@@ -1,0 +1,45 @@
+X:1
+T:You Make Me Feel Brand New
+T:You Make Me Feel Brand New
+T:Thom Bell & Linda Creed
+C:Thom Bell and Linda Creed
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gmaj7" FFFF F z FF |"C6" EEE z E2 A2 |"Gmaj7" FFFF F z FF |"C6" EEE z E2 D2 |:"Gmaj7""G6" B6 D2 | %5
+w: |||* * * * My|love I'll|
+w: ||||love when|
+"Cm6" _EEGG d2 c2 |"Gmaj7" B6"G6" D2 |"Cm6" _EEGG d2 c2 |"Gmaj7""G6" B6 BA- |"Em7" A4- A z BA- | %10
+w: nev- er find the words my|love To|tell you how I feel my|love Mere words|* * could not-|
+w: ev- er I was in- se-|cure you|built me up and made me|sure You gave|* * my pride|
+"A9" A4- A z EA- |"Am7" A8- |"D9" A2 z2"Cm7" B2"F9" c2 |[K:Bb]"Bbmaj7""Bb6" d6 F2 | %14
+w: * * ex- plain||* Prec- ious|love you|
+w: * back to me||* Prec- ious|friend with|
+"Ebm6" _GGBB f2 e2 |"Bbmaj7""Bb6" d6 F2 |"Ebm6" _GGBB f2 eB |"Bbmaj7" d6"Bb6" z2 | %18
+w: held my life with- in your|hands Cre-|at- ed ev- 'ry- thing I *|am|
+w: you I'll al- ways have a|friend You're|some- one who I can de- *|pend|
+"Ebm6" _GGBB f2 eB |"Bbmaj7" d8- |"Bb6" d4 z fff- |"Dm7" f8 |"Gm7" FGAc- cBDF- |"Dm7" F6 z D | %24
+w: Taught me how to live a- *|gain|* On- ly you||cared when I need- * ed a friend|* Be-|
+w: To walk a path that some- times|bends|* With- out you||life has no mean- * ing or rhyme|* Like|
+"Gm7" FGAc- cBce |"Ebmaj7" d6 z2 | dedc"Gm7" B4 |"Cm7" dedc"Gm7" B2"Ebmaj7" Bd |"Cm7" c8- | %29
+w: lieved in me through * thick and thin||This song is for you|filled with grat- i- tude and *|love|
+w: notes to a song * out of time||How can I re- pay|you for hav- ing faith in- *|me|
+"F9" c2 z2"^tacet" B2 c2 |"Ebmaj7" d6 z2 |"Cm7" (3d2 e2 f2 d2 c2 |"Dm7" c6 z A |"Gm7" c2 A2 B2 c2 | %34
+w: * God bless|you|you make me feel brand|new For|God blessed me with|
+w: |||||
+"Ebmaj7" d6 z2 |"Cm7" (3d2 e2 f2 d2 c2 |"Dm7" c6 z A |"Gm7" c2 A2"^tacet" B2 c2 |"Ebmaj7" d6 z2 |1 %39
+w: you|You make me feel brand|new I|sing this song 'cause|you|
+w: |||||
+"Cm7" z2 dc B2 (3BFG- ||"Bbmaj7" G F3"Bb6" z2 z F |"Ebm6" _GGBB f2 e2 |"Gmaj7" d8- |"G6" d6 D2 :|2 %44
+w: make me feel brand * *|* new *|||* My|
+w: |||||
+"Cm7" (3d2 e2 f2 d2 c2 ||"Dm7" c6 z B |"Cm7" d2 c2"F9" e2 d2 |"^Bbmaj7" f8 |] %48
+w: you make me feel brand|new. *|||
+w: ||||
+

@@ -1,0 +1,26 @@
+X:1
+T:Memory Lane
+T:Memory Lane
+T:Larry Spies & Con Conrad
+T:Buddy G. Desylva
+C:Larry Spies & Con Conrad
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 (3FGA |"F" d4 (3FGA |"F+" _d4 (3FGA |"F" c6- | c4 (3DEF |"G9" A4 (3DEF |"G7b9" _A4 (3DEF | %7
+w: I am with|you Wan- der- ing|through Mem- o- ry|Lane;|* Liv- ing the|years, Laugh- ter and|tears, o- ver a-|
+"Gm7" G6- |"C7" G4 A_A |"Gm7" G4 c2 |"C7" A4 G_G |"F" F4 c2 | G4"Fm" F2 |"C" E2 =B2"Adim" A2 | %14
+w: gain.|* I am|dream- ing|yet of the|night we|met When|life was a|
+"G7" G2"C#dim" ^C2"G7" D2 |"Gm7" G6- |"C7" G4 (3FGA |"F" d4 (3FGA |"F+" _d4 (3FGA |"F" c6- | %20
+w: love- ly re-|frain.|* You were so|shy, Say- ing "Good-|bye" there in the|dawn;|
+ c4 (3DEF |"G9" A4 (3DEF |"G7b9" _A4 (3DEF |"Gm7" G6- | G4 F^F |"Gm7b5" G4 FA |"G7" G4 F2 | %27
+w: * On- ly a|glance Full of ro-|mance, and you were|gone!|* Though my|dreams are in|vain, My|
+"F" d4 ce |"D7" d4 (3DEF |"Gm7" B4 (3DEF |"C7" A4 C2 |"^F" F6- | F2 z2 z2 |] %33
+w: love will re-|main Stroll- ing a-|gain, Mem- 0- ry|Lane with|you.-||
+

@@ -1,0 +1,92 @@
+X:1
+T:God is Good All the Time
+T:Don Moen & Paul Overstreet, 1995 Arrangement:Larry Johnson, 2013
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z8 | z8 |"Cmaj7" z8 |"Dm7" z8 |"Em7" z8 |[Q:1/4=90]"^Freely"!mf!"Dm7" z4"C" z2 EG | %6
+w: |||||God is|
+w: ||||||
+ G-"F/C"G"C" z4 EG/G/- |"Am7" G2 z3 C E/GA/- |"F" AG (E/D/C- C2) EG |"G6" A2 G G2 z EG | %10
+w: good _ all the time|_ He put a song|_ of praise _ _ _ in this|heart of mine God is|
+w: ||||
+"C" G2 z2"F/C" z2"C" EG/G/- |"Am7" G2 z4 EG |"F" A3/2G>(ED/ C2) z C |"G6" A2 G G2 E2 D/-C/ | %14
+w: good all the time|_ through the|dark est night _ _ His|light _ shine God is _|
+w: ||||
+"F" C2 z"Bb/F" z"F" z2 FE/-D/ |"G6" D2 z3 E- DC |[Q:1/4=122]"^New Tempo""C" C2 z2"F" z2 z z | %17
+w: good God is _|good all _ the|time|
+w: |||
+"Gsus4" z4 z z/ E3/2G |"C" G z"F/G" z2"C" z2 EG/G/- |"Am" G z"G/E" z2"Am" z C E<G | %20
+w: God is|good all the time|_ He put a|
+w: |||
+"F" A2 G2 (E/D/C) EG |"G" z AGG- G3/2E3/2G |"C" G z"F/G" z2"C" z2 EG/G/- | %23
+w: song of praise _ _ in this|heart of mine _ God is|good all the time|
+w: |||
+"Am" G2"G/E" z2"Am" z2 EG |"F" A2 G2 E/D/C z C |"G" A2 G2 G3/2E3/2D | %26
+w: _ through the|dark est night _ _ His|light will shine God is|
+w: |||
+"F" C z2"Bb/C" z"F" z3/2"F" F3/2E |"G" D z2"C/D" z"G" z3/2 E3/2D |"C" C2 z2"F/C" z4 | %29
+w: good God is|good all the|time|
+w: |||
+"C" z6!mf! EG |"G" G3/2D3/2 z3 EG |"Am" A2 E2 z2 E<G |"F" A2 G2 C2 C-<E |"Am" E2 z2"G" z2 E<G | %34
+w: If You're|||||
+w: |walk ing through the|val ley there are|shad ows all a _|round do not|
+"Em" G2 z4 E<G |"Am" A3/2E3/2 z3 E<G |"F" A2 G2 F2 EE- |"G" D2 z2 z3/2 EE3/2 | %38
+w: ||||
+w: fear He will|guide you He will|keep you safe and sound|_ He has|
+"Dm" DC z2 z3/2 C/ FE/E/- |"G" ED z2 z3/2 E3/2D |"Dm7" D3/2C3/2z3/2zE3/2G |"F" A2 A2"G" G3/2E3/2G | %42
+w: ||||
+w: pro mised to nev er leave|_ you nor for|sake you and His|word is true God is|
+"C" G z"F/G" z2"C" z2 EG/G/- |"Am" G z"G/E" z2"Am" z C E<G |"F" A2 G2 (E/D/C) EG | %45
+w: good all the time|_ He put a|song of praise _ _ in this|
+w: _|||
+"G" z AGG- G3/2E3/2G |"C" G z"F/G" z2"C" z2 EG/G/- |"Am" G2"G/E" z2"Am" z2 EG | %48
+w: heart of mine _ God is|good all the time|_ through the|
+w: |||
+"F" A2 G2 E/D/C z C |"G" A2 G2 G3/2E3/2D |"F" C z2"Bb/C" z"F" z3/2"F" F3/2E | %51
+w: dark est night _ _ His|light will shine God is|good God is|
+w: |||
+"G" D z2"C/D" z"G" z3/2 E3/2D |"C" C2 z2"F/C" z4 |"C" z2"F/G" z2"C" z2 AB |"Am" c2 c2 B A2 (A- | %55
+w: good all the|time|||
+w: ||though I|may not un der stand|
+"Em" A<G) z2 z2 GA |"Gm7" _B3 B A2 G-F |"Dm7" F4 z3 c |"Ab" c3 c _B2 _A-G |"Eb" (G2 F<_E) z EEF | %60
+w: ||me my|life is in your _|hands _ _ and through the|
+w: _ _ all the|plans you have for _|_|||
+"Dm" G2 G2"C/E" G3/2E3/2G |"F" A2 A"G" G2 E EG |"C" G z"F/G" z2"C" z2 EG/G/- | %63
+w: eyes of faith I can|clear ly see that God is|good all the time|
+w: |||
+"Am" G z"G/E" z2"Am" z C E<G |"F" A2 G2 (E/D/C) EG |"G" z AGG- G3/2E3/2G | %66
+w: _ He put a|song of praise _ _ in this|heart of mine _ God is|
+w: |||
+"C" G z"F/G" z2"C" z2 cB/(A/- |"Am" A/G/E)"G/E" z2"Am" z2 EG |"F" A2 G2 C2 z G | %69
+w: good all the time|_ _ _ through the|dark est night His|
+w: |||
+"G" A2 G2 G3/2E3/2D |"F" C z2"Bb/C" z"F" z z/ F3/2E |"G" D z z2 z3/2 E3/2D |"C" C z z2 z4 | %73
+w: light still shines God is|good God is|good all the|time|
+w: ||||
+"Am" z8 |"F" z8 |"F/G" z8 |"C" z8 |"Am" z8 |"F" z8 |"G" z8 |"C" z8 |"Am" z8 |"F" z8 |"G" z8 | %84
+w: |||||||||||
+w: |||||||||||
+"F" z8 |"G" z8 |"C" z8 | z2"G/A" z2 z3/2 ^F3/2A |[K:D]"D" A z"G/A" z2 z2 FA/A/- | %89
+w: |||God is|good all the time|
+w: |||||
+"Bm" AB z"A/F#" z"Bm" z D F<A |"G" B2 A2 ((F/E/)D) FA |"A" z B AA3/2-A3/2 FA | %92
+w: _ _ He put a|song of praise _ _ in this|heart of mine _ God is|
+w: |||
+"D" A z"G/A" z2"D" z2 dc/B/- |"Bm" B/A/F z"A/F#" z"Bm" z2 FA |"G" B2 A2 (F/E/D) z D | %95
+w: good all the time|_ _ _ through the|dark est night _ _ His|
+w: |||
+"A" B2 A2 A3/2F3/2E |"G" D z"C/D" z"G" z z G2 F |"A" E z z"D/E" z"A" z F2 E | %98
+w: light will shine God is|good all the|time He's so|
+w: |||
+"G" D2 z z z F3/2-A3/2 |"A" A2 z3 F2 E |"Em7" D2 z2"G" z F3/2A3/2 |"Asus4" B-A z2 z3/2 B3/2d | %102
+w: good He's _|good God is|good He's so|good _ all the|
+w: ||||
+ d8- | d8- | d8 | z8 | z8 | z8 | z8 |] %109
+w: time|_||||||
+w: |||||||
+

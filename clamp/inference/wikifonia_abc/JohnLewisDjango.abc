@@ -1,0 +1,27 @@
+X:1
+T:Django
+T:Django
+T:John Lewis
+T:1955 by MJQ Music
+C:John Lewis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+U:s=!stemless!
+V:1 treble 
+%%MIDI program 40
+V:1
+"Fm""^Slow 4, even 8ths" z a2 g |"Bbm7" f3/2 =e/ f d |"C7b9" z b2 d' |"Fm" a3/2 g/ a f | %4
+"F7b9" z c'2 e' |"Bbm7" d'3/2 c'/ d' b |"Eb7b9" z b2 d' |"Abmaj7" c'3/2 =b/ c' a | %8
+"Dbmaj7" z a2 c' |"Gm7b5" b3/2 =a/ b g |"G7/F" =b3/2 ^a/ _b g |"C/E" c'3/2 =b/"C7b9" c' g' | %12
+"Fmaj9" z g'2 f' |"Fm7/Bb" z e'2 d' |"C+7" z c'2"C7" b |"Bbdim7/F" b2"Fm" a2 |"Fmaj9" z g2 f | %17
+"Fm7/Bb" z e2 d |"C+7" z c2"C7" B |"Bbdim7/F" B2"Fm" A2!fine! |]: %20
+"Fm""^Solos - med. swing" sf sf"Dm7b5" sd sd |"G7" sg sg"C7" sc sc |"F7b9" sf sf"Bbm7" sB sB | %23
+"Eb7" se se"Ab7" sA sA |1"Db7" sd sd"G7" sg sg |"C7" sc sc sc sc :|2"Db7" sd sd"C7" sc sc || %27
+"Fm6" sf sf sf sf ||"F7b9" sf sf sf sf |"Bbm6/F" sB sB sB sB |"F7b9" sf sf sf sf | %31
+"Bbm6/F" sB sB sB sB |"F7b9" sf sf sf sf |"Bbm6/F" sB sB sB sB |"F7b9" sf sf"Bbdim7/F" sf sf | %35
+"F7b9" sF sF sF sF ||"Bbm" sB sB"Gm7b5" sG sG |"C7" sc sc"F7" sf sf |"Bb7" sB sB"Ebm7" se se | %39
+"Ab7" sA sA"Db7" sd sd |"Gb7" s_G sG sG sG | s_G sG sG sG |"Db7" sd sd sd sd | sd sd sd sd | %44
+"Gb7" s_G sG sG sG | s_G sG sG sG |"Db7" sd sd sd sd |"C7""_after Solos..." sc sc sc sc!D.C.! |] %48
+

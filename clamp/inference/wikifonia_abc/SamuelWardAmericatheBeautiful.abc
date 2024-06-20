@@ -1,0 +1,23 @@
+X:1
+T:America the Beautiful
+C:Samuel Ward
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ G x3 |"C" G3/2 E/"Am" E"Adim" G x3 |"Dm7" G3/2 D/"G7" D"F" E x3 |"F/E" F"Dm7" G"G7" A B x3 | %4
+w: Oh,|beau- ti- ful for|spa- cious skies, for|am- ber waves of|
+"C" G2-"Adim" G"G7" G x3 |"C" G3/2 E/"Am" E"Adim" G x3 |"Dm7" G3/2 D/"G7" D d x3 | %7
+w: grain _ for|pur- ple moun- tain|maj- est- ies a-|
+"Bbdim" ^c"G7" d"A7" e"D7" A x3 |"G7" d3 G x3 |"C" e3/2 e/"G7" d"G9" c x3 | %10
+w: bove the frui- ted|plain! A-|me- ri- ca A-|
+"F" c3/2"G7" B/ B"Dm7" c x3 |"G9" d"Dm7" B"G" A"G7" G x3 |"C" c-"Cmaj7" c-"C7" c"Bbdim" c x3 | %13
+w: me- ri- ca God|shed his grace on|thee _ _ and|
+"F" c3/2 A/"Dm7" A c x3 |"C" c3/2"C/B" G/"Am" G"G7" G x3 |"F" A"Dm7" c"G" G"G7" d x3 | %16
+w: crown thy good with|broth- er- hood from|sea to shi- ning|
+"C" c2-"Am7" c-"G7" c x3 |] %17
+w: sea. * *|
+

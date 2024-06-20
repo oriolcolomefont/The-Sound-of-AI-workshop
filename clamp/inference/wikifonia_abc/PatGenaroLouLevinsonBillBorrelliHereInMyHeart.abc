@@ -1,0 +1,27 @@
+X:1
+T:Here In My Heart
+T:Here In My Heart
+T:Pat Genaro,Lou Levinson & Bill Borrelli
+C:Pat Genaro,Lou Levinson & Bill Borrelli
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" d3 c/B/ |"Gm" d3 c/B/ |"D7" (B2 (3B) A c |"Eb" B G3 |"Cm7" c3 B/A/ |"F7" c3 B/A/ | %6
+w: Here in my|heart I'm a-|lone * and so|lone- ly.|Here in my|heart I just|
+"F+7" (A2 (3A) G F |"Bbmaj7" A D3 |"Fm6" F E/D/ F2- |"G7" F D _A3/2 G/ |"Cm" F E3- | E4 | %12
+w: yearn * for you|on- ly.|Here in my arms|* I long to|hold you,||
+"Gm6" G F/=E/ G2- |"A7" G G/A/ B A/G/ |"Dm""A7" A3 A |"Cm7" B2"F7" c2 |"Bb" d3 c/B/ |"Gm" d3 c/B/ | %18
+w: hold you so near,|* ev- er close to my|heart. So,|dar- ling,|say that you|care, take this|
+"D7" (B2 (3B) A c |"Eb" B G3 |"Cm7" c3 B/A/ |"F7" c3 B/A/ |"F+7" (A2 (3A) G F |"Bbmaj7" A D3 | %24
+w: heart * I give|glad- ly,|sure- ly you|know I need|your * love so|bad- ly.|
+"Ebm6" E F/_G/ B2- | B B (3c B c |"Bb" d4 |"Fm""G7" F4 |"Cm" E F G2- |"F7" G F/G/ (3A B c | %30
+w: Here is my heart,|* my life and my|all,|dear,|please be mine,|* and stay Here In My|
+"Bb" B4- | B3 z |] %32
+w: Heart.-||
+

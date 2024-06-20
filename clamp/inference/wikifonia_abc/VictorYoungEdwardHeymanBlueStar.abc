@@ -1,0 +1,28 @@
+X:1
+T:Blue Star (The "Medic" Theme)
+T:Blue Star (The Medic Theme)
+T:Victor Young
+T:Edward Heyman
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 B2 ||"Ebdim" d6 c2 |"Ab6" F6 GA |"Gdim" (3c2 c2 c2 c2 B2 |"Ab" E4- EEEF |"F9" G6 EF | %6
+w: When|things go|wrong and there's|no one a- round to|hear, * I look at|you, Star of|
+"Db7" G6 GA |"Ebmaj7" BB-"Eb6" B4 GA |"Fm7" B6"Bb7" B,2 |:"Eb" G4- GFED |"Cdim" C6 DE | %11
+w: blue, And my|trou- bles * dis- ap-|pear. Blue|Star * when I am|blue, All I|
+"Fm7" F4- FGAc |"Bb7" B6 B2 |"Eb" e6 dc |"Ebdim" d6 cB |"Fm" c6 BA |"Bbm" B2 cB"C+7" A2"C7" G2 | %17
+w: do * is look at|you, For|I seem to|find peace of|mind, And I|nev- er get lone- ly|
+"Ab6" F6 F2 |"Cm6" G6 FE |"Fm7" F8- | F2 z2"Bb7" z2 B,2 |"Eb" G4- GFED |"Cdim" C6 DE | %23
+w: when you|shine from a-|far.|* With|you * a- way up|there, I don't|
+"Fm7" F4- FGAc |"Bb7" B6 B2 |"Eb" e6 dc |"Ebdim" d6 cB |"Fm" c6 BA |"Bbm" B2 cB"C+7" A2"C7" G2 | %29
+w: dare * to have a|care, For|I want to|show, That your|glow lets me|know that you know that|
+"F9" c6 c2 |"Ab" e4"Abm6" e4 |1"Eb" e8- ||"Fm7" e2 z2 z2"Bb7" B,2 :|2"Eb" e8- || e4- e2 z2 |] %35
+w: I'm not|blue, Blue|Star|* Blue|Star||
+

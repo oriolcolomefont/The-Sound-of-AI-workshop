@@ -1,0 +1,14 @@
+X:1
+T:Hej, Dunáról fúj a szél
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ dd cA | dd c2 :| d A2 G | AA A2 |: GG FD | GG F2 :| G D2 C | DD D2 |] %8
+w: Hej, Du- ná- ról|fúj a szél,|Du- ná- ról|fúj a szél,|Ha Du- ná- ról|nem fúj- na,|Du- ná- ról|fúj a szél.|
+w: Sze- gény em- bert|min- dig ér,|||I- lyen hi- deg|sem vol- na,|||
+

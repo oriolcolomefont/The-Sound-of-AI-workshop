@@ -1,0 +1,39 @@
+X:1
+T:Brown Eyed Girl
+C:Van Morrison
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" z8 |"C" z8 |"G" z8 |"D7" z8 |"G" z8 |"C" z8 |"G" z8 |"D7" z8 |:S"G" z4 BcBc- |"C" c d3 z4 | %10
+w: ||||||||Hey where did we|* go?|
+w: ||||||||What ev- er- hap-|* pened|
+w: ||||||||So hard to find|my way|
+"G" z4 BAGA- |"D7" A B3 z4 |"G" z4 dddd |"C" c3 z z4 |"G" z4 BAGA- |"D7" A B3 z4 |"G" z4 dddd | %17
+w: Days when the rains|* came|down in the hol-|low|play- in' a new|* game|laugh- in' and a|
+w: to~Tues- day and so|* slow|goin' down the old|mine~with|a~trans- ist- or rad-|i- o|stand- ing in the|
+w: now that I'm all|on my~own|I~saw you~just the other|day|my * * how~you|have grown|cast my mem- 'ry|
+"C" d c2 d- d c3 |"G" z4 BBAG |"D7" A A3 z4 |"G" z2 dd d2 dd- |"C" d c2 d- d2 c2 |"G" z2 B6 | %23
+w: run- nin' hey * hey|skip- pin' and a|jump- in'|In the mis- ty morn-|* in' fog * with|our|
+w: sun- light laugh- * in'|hiding behind a rain-|bow's wall|* * slippin' and a-|slid- in' * * *|all~along|
+w: back there Lord * *|Sometime I'm overcome think-|in' 'bout|* * makin' love in~the|green grass * * *|behind|
+"D7" A2 AB- BB A2 |"C" G6 z2 |"D7" z2 A2 B2 B2 |"G" G8 |"Em" z8 |"C" z2 g4 e2 |"D7" z4 B B2 G | %30
+w: hearts a thump- * in' and|you|my Brown Eyed|Girl||You my|Brown Eyed Girl|
+w: a wat- er- * fall with|you|my Brown Eyed|Girl||You my|Brown Eyed Girl|
+w: the stad- i- * um with|you|my Brown Eyed|Girl||You my|Brown Eyed Girl|
+"G" z8 |1"D7" z8 :|2"D7" z2 A2 A2 Bc- || cc d2 z4 | z4 cBAG- |"G" G2 dd- d d2 e- | %36
+w: ||Do you re- mem-|* ber when|we used to sing|* sha la * la la|
+w: ||||||
+w: ||||||
+"C" e c2 d- d c2 B- |"G" B B2 B B2 GA |"D7" z8 |"G" z2 d[d-d]2 d2 e- |"C" e c2 [d-d]2 c2 B- | %41
+w: * la la * la la|* la la la ti da||sha la * la la|* la la * la la|
+w: |||||
+w: |||||
+"G" B B2 B B2 GA |"D7" z4 B B2 G |"G" z8 | z8 | z8 | z8 | z8 |"C" z8 |"G" z8 |"D7" z8!D.S.! |] %51
+w: * la la la ti da|la ti da|||||||||
+w: ||||||||||
+w: ||||||||||
+

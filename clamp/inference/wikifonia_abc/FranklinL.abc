@@ -1,0 +1,33 @@
+X:1
+T:This Is My Father's World
+T:This Is My Father's World
+T:Franklin L. Shephard
+T:Maltbie D. Babcock
+T:Public Domain
+C:Franklin L. Shephard
+Z:Public Domain
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ (E/F/) |"Eb" G B"Bb" G F |"Eb" E3 (F/G/) |"Ab" A c"Eb" B G |"Bb" F3 c |"Eb" B G G (F/E/) | %6
+w: 1.~This *|is my Fa- ther's|world. And *|to my lis- t'ning|ears All|na- ture sings and *|
+w: 2.~This *|is my Fa- ther's|world. The *|birds their car- ols|raise; The|morn- ing light, the *|
+w: 3.~This *|is my Fa- ther's|world. Oh, *|let me ne'er for-|get That|though the wrong seems *|
+"Gm" G F"Cm" E"Eb" B, | (E/F/) G"Bb" B (F/G/) |"Eb" E3 B | e B"Ab" c d |"Eb" e3 (e/d/) | %11
+w: round me rings The|mu- * sic of the *|spheres. This|is my Fa- ther's|world. I *|
+w: lil- y white De-|clare * their Mak- er's *|praise. This|is my Fa- ther's|world. He *|
+w: oft so strong, God|is * the Rul- er *|yet. This|is my Fa- ther's|world. The *|
+"Ab" c e"Bb7" d c |"Eb" B3 c/-c/ | B G G (F/E/) |"Gm" G F"Cm" E B, |"Eb" (E/F/) G"Bb" B (F/G/) | %16
+w: rest me in the|thought Of *|rocks and trees, of *|skies and seas, His|hand * the won- ders *|
+w: shines in all that's|fair. In the|rus- tling grass I *|hear Him pass. He|speaks * to me ev- 'ry-|
+w: bat- tle is not|done. Je *|sus who died shall be|sat- is- fied, And|earth * and heav'n be *|
+"Eb" E3 |] %17
+w: wrought.|
+w: where.|
+w: one.|
+

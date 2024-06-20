@@ -1,0 +1,60 @@
+X:1
+T:Peel Me A Grape
+T:Peel Me A Grape
+T:Dave Frishberg
+T:
+T:(Am)
+T:mariehelene.julien@gmail.com
+C:Dave Frishberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 54
+%%MIDI control 7 101
+%%MIDI control 10 64
+V:1
+"Am7""_intro" .[ea]2 z"Bb13" !>![gc'-] [gc']4 |"Am7" .[ea]2 z"Bb13" !>![gc'-] [gc']4 | %2
+w: ||
+"Am7" .[ea]2 z"Bb13" !>![gc'-] [gc']4 |"Am7" .[ea]2 z"Bb13" !>![gc'-] [gc']4 || %4
+w: ||
+"_A" z"Am7" e- (3ec"Bb13"A d4 | z"Am7" e- (3ec"Bb13"A d4 |"Am7" z e-"G#m9" (3ecA"Gm7" d2"C7" Ac | %7
+w: Peel * me a grape|Cruch * me some ice|Skin * me a peach save the|
+"F7" d2 cA"E7" c d3 |"Am7" z e- (3ec"Bb7"A d4 |"Am7" ec"G#m7"Ad-"Gm9""C7" d4 |"F7" z cdA c2 d2 | %11
+w: fuzz for my pil- low	|Talk * to me nice|talk to me nice *|You've got to wine me|
+"C7" z2 _e2 c2 A2 |"F7" c2 dA c2 d2 |"C7" z2 _ec- c2 A2 |"F7" c2 dA c2 d2 |"C7" z2 _ec- c2 A2 | %16
+w: and dine me|Don't try to fool me|Be- jewel * me|Ei- ther a- muse me|or lose * me|
+"E7sus4" z e- (3ef^d e E3 |"E7" z4 GE^GA ||"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 | %19
+w: I'm * get- ting hun- gry|Peel me a grape||
+"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 |"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 | %21
+w: ||
+"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 ||"_A" z"Am7" e- (3ec"Bb13"A d4 | z"Am7" e- (3ec"Bb13"A d4 | %24
+w: |Pop * me a cork|French * me some wine|
+"Am7" z e-"G#m9" (3ecA"Gm7" d2"C7" Ac |"F7" d2 cA"E7" c d3 |"Am7" z e- (3ec"Bb7"A d4 | %27
+w: Crack * me a nut bring a|bowl full of bon- bons|Chill * me some wine|
+"Am7" ec"G#m7"Ad-"Gm9""C7" d4 |"F7" z cdA c2 d2 |"C7" z2 _e2 c2 A2 |"F7" c2 dA c2 d2 | %31
+w: Keep stand- ing by *|Just en- ter- tain me|cham- pagne me|Show me you love me|
+"C7" z2 _ec- c2 A2 |"F7" c2 dA c2 d2 |"C7" z2 _ec- c2 A2 |"E7sus4" z e- (3ef^d e E3- | %35
+w: Kid glove * me|Best way to cheer me|Cash- mere * me|I'm * get- ting hun- gry|
+"E7" E2 z2 GE^GA ||"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 |"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 | %38
+w: * Peel me a grape|||
+"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 |"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 ||"Em7""_B" A2 _B^G A2 BG | %41
+w: ||Here's how to be an a-|
+"A7" A_B^GA- A4 |"Dm7" A2 _B^G"A7b9" A2 BG |"Dm7" A_B^GA-"G7" A4 |"F#m7" B2 c^A"B7" B ^F3 | %45
+w: gree- a- ble chap *|Love me or leave me in|lux- u- ry's lap *|Hop when I hol- ler|
+"F#m7" Bc^A"B7"B- B2 z B |"F7" c2 d2 _e c3 |"E7" z2 B2 c d3 ||"_A" z"Am7" e (3ec"Bb13"A d4 | %49
+w: Skip when I snap * When|I say: "Do it"|Jump to it|Send out for scotch *|
+ z"Am7" e (3ec"Bb13"A d4 |"Am7" z e-"G#m9" (3ecA"Gm7" d2"C7" Ac |"F7" d2 cA"E7" c d3 | %52
+w: Bring me some wine *|Cut * me a rose make a|tea with the pe- dals|
+"Am7" z e- (3ec"Bb7"A d4 |"Am7" ec"G#m7"Ad-"Gm9""C7" d4 |"F7" z cdA c2 d2 |"C7" z2 _e2 c2 A2 | %56
+w: Just hang a- roud *|Pick up the tab *|Ne- ver out- think me|Just mink me|
+"F7" c2 dA c2 d2 |"C7" z2 _ec- c2 A2 |"F7" c2 dA c2 d2 |"C7" z2 _ec- c2 A2 | %60
+w: Po- lar bear rug mr|Don't bug * me|New Thun der- bird me|You heard * me|
+"E7sus4" z e- (3ef^d e E3- |"E7" E2 z2 GE^GA ||"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 | %63
+w: I'm * get- ting hun- gry|* Peel me a grape||
+"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 |"Am7" .[ea]2 z"Bb13" [gc'-] [gc']4 | %65
+w: ||
+"Am7" .[ea]2 z"Bb13" !fermata![gc'-] [gc']4 |] %66
+w: |
+

@@ -1,0 +1,34 @@
+X:1
+T:Ob-La-Di Ob-La-Da
+T:Obla-di, Obla-da
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+V:1
+"G" B B B B | B B A G |"D7" F A2 A- | A3 z | c c c c | c c B A |"G" G4- | G3 z |"G7" d d d d | %9
+w: Des- mond had a|bar- row in the|mar- ket place||Mol- ly is the|sing- er in a|band||Des- mond says to|
+w: Des- mond takes a|troll- ey to the|jewel- ry store,|_|Buys a twen- ty|car- at gold- en|ring.|_|Takes it back to|
+w: Hap- py ev- er|af- ter in the|mar- ket place,|_|Des- mond lets the|child- ren lend a|hand.|_|Mol- ly stays at|
+ d d c B |"C" c d2 e- | e e d c |"G" B B c B |"D7" A c B A |"G" G4- | G z G B | d2 G B | d2 G B | %18
+w: Mol- ly girl I|like your face|* and Mol- ly|says this as she|taked him by the|hand.|* Ob- la|di, ob- la|da, life goes|
+w: Mol- ly wait- ing|at the door,|_ And as he|gives it to her|she be- gins to|sing.|_|||
+w: home and does her|pret- ty face.|_ and in the|eve- ning she still|sings it with the|band.|_|||
+"Bm" d4 |"Em" g4 |"G" d c B c |"D7" B A3 |"G" G4- |1 G z G B :|2"G7" G4 :|3"C" z G/G/ c d || %26
+w: on,|brah!|La, la how the|life goes|on|* Ob- la||In a couple of|
+w: ||||||||
+w: ||||||||
+ e2 d e | g2 c2 | e2 G2 |"G7" B3 B | A3 A | G3 G | =F4 |"C" z G/G/ c d | e2 d e | g2 c2 | e2 G2 | %37
+w: years, they have|built a|home sweet|home. *||||With a couple of|kids run- ning|in the|yard of|
+w: |||||||||||
+w: |||||||||||
+"G" B B2 B | c2 B2 | A"D7" z A z | B z c z"^D.C. al Fine" |] %41
+w: Des- mond and|Mol- ly|Jones. *||
+w: ||||
+w: ||||
+

@@ -1,0 +1,25 @@
+X:1
+T:And the Band Played Waltzing Matilda
+T:And the band played Waltzing Matilda
+T:Eric Bogle
+C:Eric Bogle
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 (F2 G2) |:"D" A2 A/A/"G" ddB |"D" AAd/"Bm" F2 F/G |"D" AFF"A7" GFE |"D" E D2 z2 F/G/ | %5
+w: Now when|I was a young man I|car- ried a pack and I|lived the free life of a|ro- ver from the|
+"D" AAA"G" ddc/B/ |"D" AAB"Bm" F2 F/G/ |"D" AFF"A7" GFE |"D" E D3 z d/d/ |"A7" ccB (AB)c | %10
+w: Mur- rays green ba- sin to the|dus- ty out- back well I|waltzed my Mat- il- da all|o- ver then in|nine- teen- fif- teen * the|
+"D" dde d2 d |"A7" cBA ABc |"D" ddB A2 F/G/ |"D" AAA"G" ddc/B/ |[M:3/8]"D" AAB | %15
+w: coun- try said son its|time you stopped rov- ing theres|work to be done so they|gave ma a tin hat and they|gave me a|
+[M:6/8]"Bm" F3 z2 (F/G/) |"D" AAF"A7" GFE |"D" A3- A2"^Chorus:" F/G/ ||"D" A2 A"G" dd>B | %19
+w: gun and *|sent me a- way to the|war * and the|band played Waltz- ing Ma-|
+"D" B A2 z2 F/G/ |"D" AA>d"G" ddB |"A7" A3 z2 A |"G" BBB B2 B/B/ |"D" AAA"Bm" B2 B | %24
+w: til- da and the|ship pulled a- way from, the|quay, and|midst all the tears, the flag|wav- ing and cheers we|
+"D" AAF"A7" G2 F/E/ |"D" D3- D3 |] %26
+w: sailed off to Gal- li- po-|li- *|
+

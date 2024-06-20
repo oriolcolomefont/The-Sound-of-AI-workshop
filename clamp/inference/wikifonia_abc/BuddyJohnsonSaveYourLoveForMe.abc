@@ -1,0 +1,30 @@
+X:1
+T:Save Your Love For Me
+T:Save Your Love For Me  
+C:Buddy Johnson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am7" B3 E G4- | G2 z2 CEGB |"Cm7" d3 G _B4- |"F7" B3 G _E=FGA |"Am7" B3 =E G4 |"D7" z EGA BGED | %6
+w: Wish I knew|_ why I'm so in|love with you,|_ no one else in this|world will do,|so, dar- ling, save your love for|
+"Gmaj7" G8- |"Bm7" G4"E7" z4 |"Am7" B3 E G4- | G3 E CEGB |"Cm7" d3 G _B4- |"F7" B3 G _E=FGA | %12
+w: me.|_|Run a- way,|_ if I were wise I'd|run a- way,|_ but like a fool in|
+"Am7" B3 =E G4 |"D7" z EGA BGED |"Gmaj7""C7" G8- |"Gmaj7" G4 z2 GG ||"C7" _Bc z2 z BcB | %17
+w: love I stay,|and pray you'll save your love for|me.|_ I can|feel it ev- en when|
+ d2 G_B- B G2 =E |"Gmaj7" G=B z2 z edB |"G7" A G2 (3G(ED) GGG |"C7" _B2 cd z GBc | z dG_B- B3 G | %22
+w: you're not here, _ can't con-|ceal it, I real- ly|love you my dear. _ And tho' I|know no good can come from|lov- ing you, _ I|
+"Gmaj7" =Bddd-"Bb7" deed |"Am7" z eed-"D7" d4 |"Am7" B3 E G4- | G3 E CEGB |"Cm7" d3 G _B4- | %27
+w: can't do a thing, _ I'm so in|love with you. _|Help me please,|_ hve merc- y on a|fool like me,|
+"F7" B3 G _E=FGA |"Am7" B3 =E G4 |"D7" z EGA BGED |"B7" B8- |"E7" B2 B2 c2 d2 | %32
+w: _ I know I'm doomed but|still I plead,|dar- ling, please save your love for|me.|_ You may have|
+"Am7" (3B2 G2 E2 B3 G/E/ |"Cm7" (3d2 _B2 G2 d4- |"D7" ddcd =fd (3(fd)c |1"Gmaj7" d8- | %36
+w: fun with the crowd, but for|cry- ing out loud,|_ dar- ling, please save you love _ for|me.|
+"Bm7" d4"E7" z4 :|2"Gmaj7" d8- | d4 z4 |] %39
+w: _|me.|_|
+

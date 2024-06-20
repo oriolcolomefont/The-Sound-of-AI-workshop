@@ -1,0 +1,37 @@
+X:1
+T:A House Is Not A Home
+T:A House Is Not A Home
+T:From Movie: A House Is Not A Home
+T:Burt Bacharach
+T:Hal David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z3 F |:"Dbmaj7" AFAc"Gb6/Db" E4- | E2 EG GBBd |"Dbmaj7" fc c6 |"Db7sus4" z4"Db9" f2 a2 | %5
+w: A|chair is still a chair|_ e ven when there's no one|sit- ting there;|But a|
+"Gbmaj7" afga"F+7" g3 f/f/ |"Bbm7" afga"Abm7" g2"Db7" fa |"Gbmaj7" fd d2- ddfg |"Ebm7" f3 e fd d2 | %9
+w: chair is not a house, and a|house is not a home when there's|no one there _ to hold you|tight, and no one there|
+"Ab11" gf d4 B2 |"Dbmaj7" A6 z F ||"^Dbmaj.7" AFAc"Gb6/Db" E4- | E2 EG GBBd |"Dbmaj7" fc c6 | %14
+w: you can kiss good-|night. A|room is still a room|_ ev en when there's noth- ing|there but gloom;|
+"Db7sus4" z4"Db9" f2 a2 |"Gbmaj7" afga"F+7" g3 f/f/ |"Bbm7" afga"Abm7" g2"Db7" fa | %17
+w: But a|room is not a house, and a|house is not a home when the|
+"Gbmaj7" fd d2- ddfg |"Ebm7" f3 e fd d2 |"Ab11" gf d4 B2 |"Dbmaj7" A8 ||"Gb" cB e4 d2 | %22
+w: two of us _ are far a-|part and one of us|has a bro- ken|heart.|Now and then I|
+"Ebm7" Bf e4 d2 |[M:3/4]"Db" =GABc df | =g6 |[M:4/4]"^Ebmaj.7" fe B2- BB=gf |[M:3/4]"Fm9" =g6 | %27
+w: call your name and|sud- den- ly your face ap-|pears|But it's just _ a cra- zy|game.|
+"^Ebmaj.7" fe B3 B |[M:4/4]"Ebm9"[Q:1/4=96]"^Ritard." f3 e"Ab7b9" !fermata!f4 || %29
+w: When it ends it|ends in tears.|
+"Dbmaj7""Dbmaj7" AFAc"Ebm7/Db""Ebm7/Db" E4- | E2 EG GBBd |"^Dbmaj.7" fc c6 | %32
+w: Dar- ling, have a heart,|_ don't let one mis- take keep|us a- part.|
+"Db7sus4" z4"Db9" f2 a2 |"Gbmaj7""Gbmaj7" afga"F+7""F+7""F7b9""F7b9" g3 f/f/ | %34
+w: I'm not|meant to live a- lone. Turn this|
+"Bbm7""Bbm7" afga"Abm7""Abm7" g2"Db7b9" fa |"Gbmaj7""Gbmaj7" fd d2- ddfg |"Ebm7""Ebm7" f3 e fd d2 | %37
+w: house in- to a home. When I|climb the stair _ and turn the|key, Oh, please be there|
+"Ab11" gf d4 B2 |1"Dbmaj7""Dbmaj7" A6 z F :|2"Dbmaj7""Dbmaj7" A8- | A2 z2 z4 |] %41
+w: still in love with|me. A|me.||
+

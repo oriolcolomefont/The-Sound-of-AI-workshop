@@ -1,0 +1,60 @@
+X:1
+T:That Day
+T:That Day
+T:Lyric and Music by Les Kettley
+T:Intro
+T:© Les Kettley 
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=110
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ A"F" e2 d | c"G9" e3 |"G7" B"C" d2 c | B"D9" d3 |"D7" A"Dm7" c2 B | A"G7" G3- | G4 | %7
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+"^Verses" c"F" e2 d | A"Fm" _A3 | B"C" d2 c | G"D7" ^F3 | A"Dm" c2 B | F"G7" D2 ^D- | D"C9" E3- | %14
+w: In love ev-|'ry day,|I pray ev-|'ry day,|your love would|be here to|_ stay,|
+w: |||||||
+w: That day was|the worst,|I have ev-|er known,|a day I|thought could not|_ dawn,|
+w: |||||||
+w: No one can|love you,|as much as|I do,|she'll leave you|then what will|you do,|
+"C7" E4 | E"F" D2 F | A"Fm" e3 | B"C" c2 B | A"A7" E3 | A"F" e2 d |"^*" c"G9" e3 |"G7" B"C" c3- | %22
+w: _|but she came|a- long|and swept you|a- way,|my life fell|a- part|that day.|
+w: ||||||||
+w: _|our love was|so strong,|yet you went|a- way,|with someone you|can't love|that way.|
+w: ||||||||
+w: _|with my op-|en arms,|I'll wel- come|you back,|then we'll put|our _|_ _|
+ c3 z | E B,"F" C2 | E B,"Fm" C2 | D F _A"G7" G- | G2 z2 |2"G9""^Last verse from" e2"G7" f ^f || %28
+w: _||||||
+w: ||||||
+w: _||||||
+w: ||||||
+w: |||||lives back on|
+"C""^*" g4- | g3 z |:"^Chorus" A"F" F2 A | c"G9" e/d/ z/ d/"G7" d | B"Em" G2 A | %33
+w: |||||
+w: |||||
+w: ||That day I|will nev- er for- get,|that day I|
+w: |||||
+w: track.|_||||
+ B"Am" d/c/ z/ c/ c | A"Dm" F2 G | A"G7" c/B/ z/ B/ B |1"^1" A"C" G3 :|2"^2" d"C" e3- ||"C7" e4 | %39
+w: ||||||
+w: ||||||
+w: will al- ways re- gret,|that day when|my ver- y worst fears|came true,|came true.|_|
+w: ||||||
+w: ||||||
+ e"F" e3/2 c/ c | c"G9" e/ d c/"G7" e | B/d/"C" c3 | B c B"C7" _B |] %43
+w: ||||
+w: ||||
+w: that day I cried|a riv- er of tears|ov- er you.|_ _ _ _|
+w: ||||
+w: ||||
+

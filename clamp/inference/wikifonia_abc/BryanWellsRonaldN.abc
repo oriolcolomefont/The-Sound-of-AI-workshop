@@ -1,0 +1,48 @@
+X:1
+T:Someday at Christmas
+T:Someday At Christmas
+C:Bryan Wells
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"A" A,2 EF E2 E2 |"E/G#" G,2 EF E4 |"Em/G" z =G,EF E2 E2 |"D" E2 DC"D6" D4 |"Dm6" =F,2 DE D2 D2 | %5
+w: Some- day at Christ- mas|men won't be boys|play- ing with bombs like|kids play with toys|One warm De- cem- ber|
+w: Some- day at Christ- mas|there'll be no wars|when we have learned what|Christ- mas is for.|When we have found what|
+"Amaj7" D2 CB, C2 z ^F, |1"Bm7" B,2 F,2"E7" B,2 C/B,/A, ||2"Bm7" B,4"E7" z4 :| %8
+w: our hearts will see a|world where men are _ _|free.|
+w: life's real- ly worth, *|||
+"Bm7" B,3 F, G,2 C/B,/A, |"A" A,4 z4 ||[K:Bb]"Bb" z2 FF FFFF |"F/A" G3 F F4 |"Fm/Ab" z2 FF FGGF | %13
+w: there'll be peace on _ _|earth.|Some- day all our dreams will|come to be,|some- day in a world where|
+w: |||||
+"Eb9" F2 EE- E4 |"Ebm6" z2 EE E_GFE |"Bbmaj7" E2 DD- D2 z D |"Cm7" C2 G,G,"F7" A,2 C2 | %17
+w: men are free. _|may- be not in time for|you and me, _ but|some- day at Christ- mas|
+w: ||||
+"Bb" B,4"Cm7" z2"F7" z2 |:"Bb" B,2 FG F2 F2 |"F/A" z A,2 F/G/ F2 z2 |"Fm/Ab" z/ _A,/GGF FF F2 | %21
+w: time.|Some- day at Christ- mas|we'll see a land|with no hun- gry chil- dren, *|
+w: |Some- day at Christ- mas|there'll be no tears|when all men are e- qual and|
+"Eb" z FEF"Eb6" E4 |"Ebm6" z EE_G F2 E2 |"Bbmaj7" z BFE D/C/B, z D |"Cm7" C2 G,2"F7" A,2 D/C/B, | %25
+w: no emp- ty hand.|One hap- py morn- ing|peo- ple will share _ _ a|world where peo- ple _ _|
+w: no man has fears.|One shin- ing mo- ment,|one pray'r a- way _ _ _|from our word to _ _|
+"Cm7" C4"F7" z4 :|"Bb" B,4 z4 |[K:B]"B" z2 BG FGFG |"F#/A#" G2 FF- F4 |"F#m/A" z2 =AG GAGF | %30
+w: care.||Some- day all our dreams will|come to be, _|some- day in a world where|
+w: _|day.||||
+"E" F2 GE-"E6" E2 z2 |"Em6" z E2 E E=GFE |"Bmaj7" E2 DD- D3 D |"C#m7" C2 G,G,"F#7" A,2 C/B,/A, | %34
+w: men are free, _|may- be not in time for|you and me, _ but|some- day at Christ- mas _ _|
+w: ||||
+"B" B,4 z4 |[K:C] z"C" cAG GA z2 |"G/B" A2 AB G4 |"Gm/Bb" z GAG A2 GG- |"F" G2 GA"F6" F2 z2 | %39
+w: time.|Some- day at Christ- mas|man will not fail.|Hate will be gone and love|_ will pre- vail.|
+w: |||||
+"Fm6" z FFG G F2 F |"Cmaj7" F2 EE- E3 E |"Dm7" D2 A,2 B,2 CD- |"G7" D4 z4 |"C" z2 GG GGGG | %44
+w: Some- day a new world that|we can start _ with|hope in ev- 'ry heart.|_|Some- day all our dreams will|
+w: |||||
+"G/B" A3 G G4 |"Gm/Bb" z2 GG G_BAG |"F" G3 F"F6" F4 |"Fm6" z2 FF F_AGF |"Cmaj7" F2 EE- E3 E | %49
+w: come to be,|some- day in a world where|men are free,|may- be not in time for|you and me, _ but|
+w: |||||
+"Dm7" D2 A,A,"G7" B,2 D2 |"E7" E4"A7" z2 E2 |"Dm7" F4 G4 |"G7" C4 G4 | C8 |] %54
+w: some- day at Christ- mas|time, some-|day at|Christ- mas|time.|
+w: |||||
+

@@ -1,0 +1,39 @@
+X:1
+T:I Love You Baby
+T:I Love You Baby
+T:Paul Anka
+C:Paul Anka
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G A |:"Eb" B2 B B/G/- | G/ E3/2 F G |"Bb7" A- A A A/A/- | A3 B | d- d d d | d c B A | %7
+w: 1...As I|walk by the sea-|* side, As I|walk * thro' the grass,|* I|see * lit- tle|blue- birds mak- ing|
+w: (2...As I)|walk by the school-|* yard, as I|walk * by the gate,|* I|see the weep- ing|wil- low where we|
+w: (3...As I)|walk to the cor-|* ner and I|pass a cand- y store,|* I|hear the ve- 'ry|mus- ic that I|
+"Eb" G- G G A | B3 G | B2 B3/2- B/ | G E"Eb7" F G |"Ab" A3/2 A/ A B/A/ | (A3 A) |"Eb" B2 B2 | %14
+w: love * while I|pass. *|Bees are *|hum- min' and there's|sing- ing ev- 'ry- where||Ev- 'ry|
+w: kiss'd on ev- 'ry|date And|carved in the|bark you'll find an|ar- row and a heart|* And|un- der-|
+w: once * heard be-|fore. *|Oh, how you|held me as the|mus- ic soft- ly played||I was|
+"Bb7" c2 d2 |"Eb" e4- | e z z2 ||"Eb" e B c G ||"Bb7""^Chorus" A2 A3/2 A/ | A B z2 | %20
+w: one's in|love.-||Oh oh oh oh|I love you|ba- by,|
+w: neath it|says;:-|||||
+w: so in|love.-|||||
+"Eb" G2 G A/B/- | B4 |"Bb7" B2 B3/2 F/ | A B z F |"Eb" G ^F G A/B/- | B E"Eb7" F G |"Ab" A2 A A | %27
+w: I love you so,||I need you,|hon- ey, I'll|ne- ver let you go,|* 'Cos you're the|girl in my|
+w: |||||||
+w: |||||||
+ A2 A A |"Eb" G2 G F | E3 G |"Bb7" F2 A2 | G2 F2 |1"Eb" E4 || G/^F/G/B/- B G | %34
+w: life You're the|one I a-|dore and|I- *|* love|you.||
+w: |||||||
+w: |||||||
+"Bb7" F/=E/F/B/- B F | F/=E/ F G A :|2"Eb" E4- || E2 e z |] %38
+w: |* * * 2...As I|you.||
+w: |* * * 3...As I|||
+w: ||||
+

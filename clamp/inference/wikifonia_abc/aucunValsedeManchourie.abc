@@ -1,0 +1,23 @@
+X:1
+T:Valse de Manchourie
+T:Valse de Manchourie
+T:Waltzin' to Mongolia        
+T:Michel Flamez
+C:aucun
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Accordion" snm="Acc."
+%%MIDI program 21
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^ré" (A3 |"^m" A) F G | (A3 | A3) |"^la" G"^7" A ^c | f2 e |"^rém" d3- | d3 | A d f | %9
+"^la" ^c2"^7" d | e d B |"^sol" e2"^m6" d |"^la" A"^7" ^c e | f2 e |"^rém" d3- ||1 d3 ::2 %16
+"^rém" z A/^G/ A/B/ ||"^la" A"^7" (E2 | E) F G |"^rém" (A3 | A) c/=B/ c/d/ |"^do" c (G2 | G) A B | %23
+"^fa" (c3 | c) c"^la7" ^c |"^rém" d (A2 | A) _B/A/ ^G/A/ |"^solm" c (B2 | B) F G | A G F | %30
+"^si" E2"^la" A |1"^7" D3 :|2"^rém" D3 |:"^ré7" d2 _e | d2 c |"^solm" c2 B | B A B |"^do" c2 d | %38
+ c2 B |"^fa" B A _A | A3 |"^rém" A, D F | A d f |"^solm" d c B | d3 |"^sib" F A G |"^la7" E2 F | %47
+"^rém" (D3 |1 D) d c :|2"^rém" D z2 || %50
+

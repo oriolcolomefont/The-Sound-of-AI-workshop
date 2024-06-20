@@ -1,0 +1,38 @@
+X:1
+T:Anthropology
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ F, |:"Bb" B,DCB, E^CDF |"Cm7" z2 z E"F7" z F E2 |"Dm7" z D ED C"G7"A,B,D | %4
+"Cm7" CG,B,A,"F7" z2 z B,- |"Bb7" B,2 G,B, DB, z =E- |"Eb7" E _E2 _G,- G,B,CD |1 %7
+"Dm7" F2 z =B,"G7" z _A2 ^F ||"Cm7" GEB,G,"F7" DF z F, :| z8 |2 (3E"Bb"FE DF z D EG, || %11
+ CG,B,C z2 z ^F- ||"D7" F2 G_A =A^FGA | ^FD z2 z2 z =E |"G7" F=ED=B, EDB,A, | z2 z A- A A2 A- | %16
+"C7" AG=ED- D3 G, | (3C/D/C/G, B,C z2 z E- |"F7" E2 DC =B,DCG, | C2 B,A, z2 z F, || %20
+ B,"Bb"DCB, E^CDF |"Cm7" z2 z E"F7" z F E2 |"Bb" z D ED C"G7"A,B,D |"Cm7" CG,B,A,"F7" z2 z B,- | %24
+"Bb7" B,2 G,B, DB, z =E- |"Eb7" E _E2 _G,- G,B,CD | (3E"Bb"FE DF z D EG, | CB,A,B, z4 || %28
+"Bb" z2 FG/A/ (3Bc^c dB | cBAB cF z2 | z2 z ^C (3DFA BG | EC (3BcB AGDE |"Bb7" FG_AG FEDC | %33
+"Eb" B,A,_A,C BGEC |"Bb" B_GEA, B,EC^C | D4 z2 z F ||"Bb" BFDB, F,B,DF | B^FDB, ^F,B,DF | %38
+ BGEC DE F2 | z2 z F G/B/d/f/ e2 |"Bb7" z4 (3de=e f_e |"Eb" dcB_A GBcd | fedc (3AB=B cA | %43
+ BF- F2 z4 ||"D7" (3=edc BA G^F=E=B, | (3CE^F BF ECAG |"G7" FE (3D_DC =B,2 e=B | _AFE=B, E=EG=A | %48
+"C7" Bcd^G AcBA | GF=ED ^GE_D=B, |"F7" G2 E/D/C/=B,/- B,GEB, | B,_A,=A,_G E=E F2 || %52
+"Bb" z E C^C DB,G,A, | CB, A,/C/E/_G/ F^C (3DFA | B2 F2 G4 | z4 z2 (3FGA |"Bb7" (3Bc^c d2 B2 F2 | %57
+"Eb" G4 z4 | z8 | z2 d6 ||"Bb" FBdg f3 e- | e2 d2 z2 z D | EGBd cccA- | A2 G2 z2 g^f | %64
+"Bb7" fedc BA_Ac |"Eb" GBcd f z fe |"Bb" z e c4 z2 | z4 z2 ^cd ||"Bb" gfAB ed=EF | cB^CD GFA,B, | %70
+ DEDC =B,_AGF | EG,B,D CB, A,/C/E/^F/ |"Bb7" F^C (3DFA c=B_B_A |"Eb" GFEC"Ebm" B_GEA, | %74
+"Bb" B,EC^C D4 | z4 z2 d2 =e2 || g2 ^f2 (3d2 =e2 g2 | ^f2- f=e d2 =BD | B2 B4 (3f_dB | z8 | z8 | %81
+ e=ec_d =dcBA | GF E2 z4 | z8 || z4 (3FGA (3Bc^c | d2 FG z4 | z4 z2 F^F | Gec^c d_d=c=B | %88
+ BA_AC BAGF | EA,B,C _DB,G,A, | CB,A,B, DF- F2 | z4 z2 z D || (3F"Bb"GF DF (3BcB FB | dcBA cBAG | %94
+ (3FGF DF (3BcB FB | dcBA cBAG |"Bb7" FEDC c2 z2 |"Eb" z c/=B/ _B_A GBcd |"Bb" fedc (3AB=B cA | %99
+ BGEC ^CAG_G ||"Bb" F=E/_E/ DE- ED/_D/ C>^F- | F2 =F/4=E/4_E3/2 z3/2 =E/- E_E/D/ | _D2 z2 z2 z =D | %103
+ E2 Fd E2 z2 |"Bb7" z2 c=B _BA_Ac |"Eb" GBcd f=e _e z |"Bb" z2 z A- AB/=B/ cA | BF z2 z2 z d || %108
+"D7" ^cd (3ed_d =c=B_BA | G^F=ED BF_EC |"G7" A2 z2 (3=ef^f (3gf=f | =e_edc =BAGF | %112
+"C7" =E2 z ^F (3GBd fd | e=ec^c d=cBA | G"F7"F (3EGB d_dc=B | BGEC _A_G=B,A, ||"Bb" B,8- | %117
+ B,3 =B,-"F7" (3B,2 ^C2 _G2- |"Bb" GF- F6 | z2 z B, (3=B,2 E2 _G2 |"Bb7" F6- FE- | %121
+"Eb" E4- E _D2 B, |"Bb" DF z2 z2 z D | EFGA BFDB, ||"Bb" ^FGEC =FC- C2- | C2 z2 z4 | z8 | z8 |] %128
+

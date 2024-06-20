@@ -1,0 +1,41 @@
+X:1
+T:Stardust
+T:STARDUST
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z"Cmaj7" cec dBcA |"F9" BA G6 |"E7b9" FE^DE cB^GE |"A7" ^C8 | z2"Dm" DF ADFA | %5
+w: And now the pur- ple dusk of|twi- light time,|steals a- cross the mea- dows of my|heart|High up in the sky the|
+w: You wand- ered down the lane and|far a- way|leav ing me a song that will not|die|Love is now the Star Dust|
+"C" (3G2 E2 G2"Am" c4 |1"B7" B2 B,^D AB,DA |"Em" G2"Dm7" G2"G7" G4 :|2 z"G7" GAF GEFD || %9
+w: lit- tle stars climb,|al- ways re- mind- ing me that|we're ap- part.-|the mus- ic of the years gone|
+w: of yes- ter- day-||||
+"C" C4 z B"C+7"c^c |:"F6" d2 c2 A2 F2 | D2 F2 A2 e2 |"Fm6" e8 |"Fm6" dc_AF D3 d |"C" c2 G2 c4 | %15
+w: by. Some- times I|won- der why I|spend the lone- ly|night|dream- ing of a song. The|mel- o- dy|
+w: ||||||
+"Em7" BeBG"A7" E4 | z"Dm7" AcA FG"A7"EF |"Dm7" D4-"Fm6" D E2 D |"G7" G2"Gdim" G2"G7" G4 | %19
+w: haunts my rev- er- ie,|and I am once a- gain with|you, * when our|love was new,|
+w: ||||
+ z D2 E GD"G+7"^DE |"C" E4"Dm7" A4- |"Em7/Ab" A6 e2 |"D9" edcA E2 ^F2 | BD^C=C- C A2 D | %24
+w: and each kiss an in- spir-|a- tion.|* But|that was long a- go, now|my con- sol- a * tion is|
+w: |||||
+"G7" G2 G2"Dm7/G" AdDA |"G7" G6"C+7" c2 |"F6" d2 c2 A2 F2 | D2 F2 A2 e2 |"Fm6" e8 | %29
+w: in the Star Dust of a|song. Be-|side a gar- den|wall, when stars are|bright,|
+w: |||||
+"Fm6" dc_AF D3 d |"C" c2 G2 c4 |"Em7" BeBG"A7" E4 | z"Dm7" AcA FG"A7"EF |"Dm7" D4-"Fm6" D E2 D | %34
+w: you are in my arms. The|night- in- gale|tells his fair- y tale|of par- a dise where ros- es|grew. * Though I|
+w: |||||
+"Fm6" G2 ^F2 =F4- |"Bb7" F6 CD |"C" E2 G2"Am7" c2 e2 |"B7" B6"E+7" c2 |"F6" dcAF"A7" A4- | %39
+w: dream in vain,|* in my|heart it will re-|main my|Star- dust mel- o dy|
+w: |||||
+ A"G7"GAF GEFD |1"C" C8 |"A7b5/Eb""D7" z4"Db+" z B"C+7"c^c :|2"C""Cm6" C8- |"C6" C8 |] %44
+w: * the mem- o- ry of love's re-|frain.|Some- times I|frain.||
+w: |||||
+

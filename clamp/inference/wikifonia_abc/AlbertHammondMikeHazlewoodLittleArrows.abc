@@ -1,0 +1,31 @@
+X:1
+T:Little Arrows
+T:Little Arrows
+T:Albert Hammond, Mike Hazlewood
+C:Albert Hammond, Mike Hazlewood,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 D E/F/- |:"Bb" F z/ F/ G/ A B/- | B z B c | e d c B/c/- | c"F7" z A B | c c c/ B B/- | %6
+w: Theres a boy|* a lit- tle boy|* shoot- in|ar- rows in the blue|* and he's|aim- ing them at some-|
+ B/ A3/2 A G | F G/F/- F D |"Bb" D z D/ E F/- | F z/ F/ G/ A B/- | B z/ B/ B c | e d c B | %12
+w: * one but the|ques- tion is * at|who is it me|* or is it you|* its hard to|tell un- til youre|
+"F7" c z A B | c/ c c B B/- | B/ A3/2 A G | F F G/ A3/2 |"Bb" B z D"F7" F |"Bb" B2 D F | %18
+w: hit but you'll|know it when they hit|* you cos they|hurt a lit- tle|bit Here they|come fall- ing|
+ B2 d/ d3/2 | B4 | z2 D F |"C" c2 E G | c2 =e e | c3 z | z c c b/b/- |"F" b/ a g/ a z | %26
+w: out of the|blue|lit- tle|ar- rows for|me and for|you|you're fall- ing in|* love a- gain-|
+ z2 c/ z/ b/b/- | b/ a g/ a z | z2"F7" f f |"Bb" f d d d | d B B B |"Eb" B G E F/G/- | G3 e | %33
+w: fall- ing in|* love a- gain|lit- tle|ar- rows in your|cloth- ing lit- tle|ar- rows in your hair|* when|
+"F7" e c c c | c A A/ A3/2 |"Bb" G F F F/F/- | F z f f | f d d d |"Eb" d B B3/2 B/ | B G E F/G/- | %40
+w: you're in love you'll|find those lit- tle|ar- rows ev- ry where|* lit- tle|ar- rows that will|hit you once and|hit you once a- gain|
+ G z e e |"F7" e c c c/c/- | c A A/ G3/2 |"Eb" F e"^toCoda" d c |1"Bb" B z"F7" z2 || %45
+w: * lit- tle|ar- rows that hit ev|* ry bod- y|ev- ry now and|then|
+"^slowly" F E C A, | F, z D/ E G/ :|2"Bb" B z"^D.S.a.Coda" D F || B3 G |"F" F2"F7" F2 | %50
+w: wow oh oh the|pain some folk a|then here they|then yes|ev- ry|
+"Bb" G2"F7" A2 |"Bb" B4- | B3 z | z4 |] %54
+w: now and|then.|||
+

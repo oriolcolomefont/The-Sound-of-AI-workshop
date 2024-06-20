@@ -1,0 +1,26 @@
+X:1
+T:LA CUCARACHA
+T: Laukens Music Productions  
+T:LA CUCARACHA
+T:D. Savino
+T:Cha Cha
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=165
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"D7" [FAcd]2 [FAcd][FAcd]"Am7" [GAce]2 [GAce][GAce] | %1
+"D7" [Acdf][Acdf][Acdf][Acdf]"Am7" [Aceg]2 [Aceg][Aceg] | %2
+"D7" [cdfa]2 [cdfa]2"Cm6" [Ac_eg][Aceg][Aceg][Aceg] |"D7" [Acdf]2 z2 z DDDS ||"G" G2 z B- BDDD | %5
+ G2 z B- B4 | z G2 F GFG^G |"D7" A4 z DDD | F2 z A- ADDD | F2 z A- A4 | z d2 e dcBA | %11
+"G" B3 G z DDD | G2 z B- BDDD | G2 z B- B4 | z G2 F GFG^G |"D7" A4 z DDD | F2 z A- ADDD | %17
+ F2 z A- A4 | z d2 e dcBAO |"G" G8 ||"G" z2 DD GGBB | d3 B- B4 | z2 dd"E7" edcB |"Am" c3 A- A4 | %24
+"D7" z2 DD FFAA | c3 A- A4 | z2 de dcBA |"G" B3 G- G4 | z2 DD GGBB | d3 B- B4 | z2 dd"E7" edcB | %31
+"Am" c3 A- A4 |"D7" z2 DD FFAA | c3 A- A4 | z2 de dcBA |"G" G4 z DDSD ||O"G" G2 z2 z4 |] %37
+

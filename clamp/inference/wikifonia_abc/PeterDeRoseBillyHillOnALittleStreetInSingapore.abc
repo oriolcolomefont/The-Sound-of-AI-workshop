@@ -1,0 +1,24 @@
+X:1
+T:On A Little Street In Singapore
+T:On A Little Street In Singapore
+C:Peter DeRose
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C""Bb" c8- |"C" cBG_B"G+7" AF_AG |"C""Bb" G8- |"C" G6"Bb" G2 |"G""F" G8- | %5
+w: On|_ a lit- tle street in Sin- ga-|pore|_ we'e|meet|
+"G" G^FD=F"C7b5" EC_ED |"G""F" D8- |"G" D6"F" G2 |"C""Bb" c8- |"C" cBG_B"G+7" AF_AG |"C""Bb" G8- | %11
+w: _ be- side a lot- us cov- ered|door.|_ A|veil|_ of moon- light on her lone- ly|face,|
+"C" G6"Bb" G2 |"G""F" G8- |"G" G^FD=F"C7b5" EC_ED |"C""Bb" C8- |"C" C6"Bb" C2 |"F" c3 A A2 G2 | %17
+w: _ how|pale|_ the hands that held me in em-|brace.|_ My|sails to- night are|
+"Gm/C" G3 F"F" (3F2 G2 F2 |"Db" _A3 F D4- | D6 C2 |"F" c3 A A2 G2 | G3 F"Fm" F2 E2 |"Dm7" G8- | %23
+w: filled with per- fume of|Shal- i- mar|_ with|tem- ple bells to|guide me to the|shore.|
+"G7" GG^FG ^GA_B=B |"C""Bb" c8- |"C" cBG_B"G+7" AF_AG |"C""Bb" G8- |"C" G6"Bb" z2 |"G""F" G8- | %29
+w: _ And then I'll hold her in my|arms|_ and love the way I loved be-|fore.|_|On|
+"G" G^FDE"C7b5" C_E=ED |1"C6""Am7" C8- |"C6" C2 z2"Dm7""G7" z4 :|2"C" C8- |"Bb""E" C8- |"C" C8 |] %35
+w: _ a lit- tle street in Sin- ga-|pore.|_|pore.|_||
+

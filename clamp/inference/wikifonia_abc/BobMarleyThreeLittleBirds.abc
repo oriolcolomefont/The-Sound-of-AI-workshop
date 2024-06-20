@@ -1,0 +1,28 @@
+X:1
+T:Three Little Birds
+T:Three Little Birds
+T:Bob Marley
+C:Bob Marley
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+|:"A" z4 abae'- e'2c'2 ba z2 :|"A" z4 abae'- e'2c'2 ba c2 |:"A" B2A2 z4 z3 E c2ec- | %3
+w: |* * * * * * * * Don't|wor- ry a bout a thing|
+ c2 z2 z4 z4 z2 A2 |"D" ffff f z z2 z2 ff gf2e- |"A" e2 z2 z4 z4 cee2 | e2f2 z4 z2 z A c2e{/d} e- | %7
+w: _ 'cause|ev- 'ry lit– tle thing's gon–na _ be al- right.-|– Sing–in _ don't|wor– ry a- bout a thing|
+ e2"A" z2 z4 z4 z2 A2 |"D" ffff f z z2 z2 ff gf2e- | e2 z2 z4 z4 (3c2e3e | %10
+w: _ 'cause|ev- 'ry lit– tle thing's gon–na _ be al- right.-|– 1.~Rise up this|
+ c2"D""A"c2 z4 z2 z{B} c cd2c || c2"A"B2B2 z2 z2 z f- ffef- | f2"E" z2 z4 z2 z f f2e2 | %13
+w: morn–in', _ smile- * with the|Ris- ing sun Three- * lit–tle _ birds-|* pitched by my|
+ f2d2 z4 z4 fazf | z e2 z z4 z2 z c cde2 | e2d2B2 z2 z4 ce-e2 || z2 A2A2A2 A2B2f2c2 | %17
+w: door- step. Sing- in' sweet|songs, of mel- o- dies|pure and true, say- in' _|"This is my mes sage to you,|
+ B2A2- A4 z4 cee2 :| %18
+w: whoo, hoo." _ Sing- in', don't|
+

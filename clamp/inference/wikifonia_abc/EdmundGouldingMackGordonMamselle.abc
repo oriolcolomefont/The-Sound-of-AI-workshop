@@ -1,0 +1,26 @@
+X:1
+T:Mam'selle
+T:Mam'selle
+C:Edmund Goulding
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"D7" z2 D2 E2 B2 |"Gmaj7" F3 B F4- |"Gmaj9" F2 D2"D7" E2 B2 |"Gmaj7" F3 B F4- | %4
+w: A small ca-|fe, Mam- 'selle|_ our ren- dez-|vous, Mam- 'selle.|
+"Gmaj9" F2 D2"Em7" E2 G2 |"Am7" c3 G"D7" F3 E |"Am7" c3 G"D7" F3 E |"G" B3 F E4- | %8
+w: _ The vi- o-|lins were warm and|sweet, and so were|you, Mam- 'selle.|
+ E z D2"D7" E2 B2 |"Gmaj7" F3 B F4- | F2 G2"G7" A2 B2 |"C6" A3 e A4- |"Cm" A2 A2 B2 c2 | %13
+w: _ And as the|night danced by|_ A kiss be-|came a sigh,|_ Your love- ly|
+"G" d2 GG"Em" GGGG |"Am7" G2 A4"Cm" G2 |"G" d2 GG"Em" GGGG |"Em7" G2"A7" B4 G2 |"D7" d8- | %18
+w: eyes seemed to spark- le just like|wine does, No|heart ev- er yearned the way that|mine does for|you.|
+ d z D2 E2 B2 |"Gmaj7" F3 B F4- |"Gmaj9" F2 D2"D7" E2 B2 |"Gmaj7" F3 B F4- | %22
+w: _ And yet I|know too well,|_ Some day you'll|say good- bye,|
+"Gmaj9" F2 D2"Em7" E2 G2 |"Am7" c3 G"D7" F3 E |"Am7" e3 c"D7" A2 F2 |1"G6" G6"Am7" z2 || %26
+w: _ Then vi- o-|lins will cry and|so will I, Mam-|'selle.|
+"D7" z2 D2 E2 B2 :|2"G6" G6 z2 |] %28
+w: A small ca-|'selle.|
+

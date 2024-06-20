@@ -1,0 +1,19 @@
+X:1
+T:Én vagyok a falu rossza egyedül
+T: 
+C:Hungarian song
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" CDEF GcBA | Gc G3 A GF |"G" EG D3 F ED |"Cm" C4 z4!fine! ::"Cm" e e2 e"G" d2 d2 | %5
+w: Én va- gyok a fa- lu rosz- sza|e- gye- dül, csak né- kem|he- ge- dül a vén ci-|gány.|Ha nin- csen pén- zem,|
+w: ||||E- nyém a leg- szebb|
+"Cm" c c2 c"G" G2 G2!D.C.! :| %6
+w: i- szom hi- tel- be',|
+w: le- ány sze- rel- me,|
+

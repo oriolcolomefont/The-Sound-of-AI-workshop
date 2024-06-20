@@ -1,0 +1,30 @@
+X:1
+T:All to Jesus I surrender
+T:All to Jesus I surrender
+T:W S Weeden
+T:©
+T:All to Jesus I surrender, Humbly at His feet I bow, Worldly pleasures all forsaken; Take me, Jesus, take me now. All to Jesus I surrender, Make me, Saviour, wholly Thine; Let me feel Thy Holy Spirit, Truly know that Thou art mine. All to Jesus I surrender, Lord, I give myself to Thee; Fill me with Thy love and power, Let Thy blessing fall on me. All to Jesus I surrender, Now I feel the sacred flame. Oh, the joy of full salvation! Glory, glory to His name! 
+C:W S Weeden
+Z:Public Domain
+%%score ( 1 2 )
+L:1/8
+Q:1/4=108
+M:4/4
+K:D
+V:1 treble nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F3 F G2 F2 | E3 E F2 E2 | D3 D G2 F2 | E2 F2 D4 | F3 F G2 F2 | E3 E F2 E2 | D3 D G2 F2 | %7
+w: All to Jesus _|I surrender, _ _|All to Him I|freely _ give|I will ever _|love and trust Him|in His presence _|
+ E2 F2 D4 || d3 c B2 A2 | G8 | c3 B A2 G2 | F8 | F3 G B2 A2 | d3 c c2 B2 | A3 G F2 E2 | D8 |] %16
+w: daily _ live.|I surrender _ _|all|I surrender _ _|all.|All to Thee my|blessed _ Saviour _|I surrender _ _|all.|
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | G G G G G4 | x8 | F F F B A4 | x8 | x8 | x8 | x8 |] %16
+

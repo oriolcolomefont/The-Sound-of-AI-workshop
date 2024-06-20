@@ -1,0 +1,21 @@
+X:1
+T:Whistling Rufus
+T:Whistling Rufus....
+C:Kerry Mills
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"F" F F/A/ c c/d/ | f f d/ c3/2 | F F/G/ B/A/ G |"C7" c4 |"F" F F/A/ c c/d/ | f f d/ c3/2 | %6
+"G7" g g g/f/ d |"C7" g4 |"F" F F/A/ c c/d/ | f f d/ c3/2 | F F/G/ B/A/ G |"F" c3"F7" f | %12
+"Bb6" d/ f d/"F" c d/c/ |"Dm" A F"G7" G/F/D/C/ |"F" F/ A F/"G7" G/F/"C" G |1"F" F z f z!fine! :|2 %16
+"F" F A E F |:"F" c2 c2- | c d c F |"C7" E2 E2- | E B ^F G |"Gm7" d2 d2- |"C""C7" d e d B | %23
+"F" A2 A2 | A A E F | c2 c2- |"F7" c d c F |"Bb" B2 B2- | B c B F |"F" A2 B A |"G7" D2"C7" E2 |1 %31
+"F" F4- | F A E F :|2"F" F4- || F2"F7" f2 |:"Bb" B3 c | d3 f | g3/2 a/ g3/2 a/ | g f d B | %39
+"C7" c3/2 d/ c3/2 d/ | c G A B |"F" c3/2 d/ c3/2 d/ |"F7" c A G F |"Bb" B3 c | d3 f | %45
+ g3/2 a/ g3/2 a/ | g f d B |"C7" c3/2 d/ c3/2 d/ |"F7" c F G A |1"Bb" B4- | B2 z"F7" F :|2 %51
+"Bb" B4- | B z"C7" c2!D.C.! |] %53
+

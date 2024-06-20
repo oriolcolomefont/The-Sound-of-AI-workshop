@@ -1,0 +1,20 @@
+X:1
+T:Hadnagyuram
+C:Hungarian song
+Z:Public Domain
+L:1/4
+M:2/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" C C | =B,/ C3/2 |"G" F E | D3/2 E/ |"Cm" D/ C3/2 | C z!fine! |"Eb" G/ G3/2 | A G |"B" F F | %9
+w: Had- nagy|u- ram|hí- vat|az i-|ro- dá-|ba,|Ma- rad-|jál benn|é- des|
+w: E- gész|szá- zad|hall- gat|majd a|sza- vad-|ra!||||
+ D B, |"Eb" E/ E3/2 | E z |"Eb" G/ G3/2 | A G |"Cm" C C | D E |"G" F/ F3/2 | G z/ E/ |"Cm" D C | %19
+w: fi- am|to- vább-|ra,|Há- rom|csil- lag|lesz a|vál- lad-|ra varr-|va, de|rá- varr-|
+w: ||||||||||
+"G" G, z!D.C.! |] %20
+w: va,|
+w: |
+

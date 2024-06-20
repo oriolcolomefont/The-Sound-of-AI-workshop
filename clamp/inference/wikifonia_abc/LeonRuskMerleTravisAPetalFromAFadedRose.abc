@@ -1,0 +1,28 @@
+X:1
+T:A Petal From A Faded Rose
+T:A petal from a faded rose
+T:Merle Travis and Leon Rusk
+C:Leon Rusk, Merle Travis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 D E |:"Bb" F4- | F2 B3/2 G/ |"F7" A2 C2- | C2 C D | E4- | E G F E |"Bb" D4- | D2 F B | d3 d | %10
+w: Heres a|rose|* from the|gar- den|* where the|bloom|* of ro- mance|grows|* but I'll|keep one|
+w: |love|* is a|mem- ry|* where its|gone|* no- bod- y|knows|* but I'll|hold so|
+"D7" c2 c =B |"Eb" _B E G2- | G2 G ^G |"F7" A =G F2- | F F A c |"Bb" B4- |"F7" B2 z2 || %17
+w: part near my|ach- ing heart|* just a|pet- al from|* a fad- ed|rose||
+w: dear as a|sou- ve- nir|* just a|pet- al from|* a fad- ed|rose||
+ z2"Bb" D"F7" E |"Bb" F4- | F2 B3/2 B/ |"F7" A2 C2- | C2 C D | E4- | E G F E |"Bb" D4- | D2 F B | %26
+w: Love is|sweet|* in the|morn- ing|* when the|breeze|* of sum- mer|blows|* but will|
+w: I will|live|* with the|ros- es|* where the|stream|* of mem- ry|flows|* and each|
+ d3 d |"D7" c2- c =B |"Eb" _B E G2- | G2 G ^G |"F7" A =G F2- | F F A c |2"Bb" B4- || %33
+w: fade and|die when the|win- ters night|* like a|pet- al from|* a fad- ed|rose|
+w: time I|dream * a|tear will gleam|* On this|pet- al from|* a fad- ed|rose.|
+"F7" B z"Bb" D"F7" E :|1"Bb" B4- ||"^4" B3 z |] %36
+w: * Now our|rose||
+w: |||
+

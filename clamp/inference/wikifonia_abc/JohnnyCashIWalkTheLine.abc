@@ -1,0 +1,25 @@
+X:1
+T:I Walk The Line
+T:I walk the line
+T:John R Cash
+C:Johnny Cash
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z F F F |"Gm" G2 G2 |"C7" G _B A G |"F" F4- | F F F F |"Gm" G2 G2 |"C7" G _B A G |"F" F4- | %8
+w: I keep a|close watch|on the heart of|mine|* I keep mu|eye wide|o- pen all the|time|
+w: ||||||||
+ F F G A |"Bb" _B2 _B2 | _B d c _B |"F" A4- | A F E D |"C7" C4- | C G F E |"F" F4- | F F F F | %17
+w: * I keep the|ends out|for the tie that|binds|* be- cause your|mine|* I walk the|line|* I find it|
+w: |||||||||
+"Gm" G G G G |"C7" G _B A G |"F" F4- | F F F F |"Gm" G G G2 |"C7" G _B A G |"F" F4- | F F G A | %25
+w: ver- y ver- y|eas- y to be|true|* I find my-|self a- lone|when each day is|through|* yes I'll ad-|
+w: |||||||* yes I *|
+"Bb" _B2 _B2 | _B d c _B |"F" A4- | A F E D |"C7" C4- | C G F E |"F" F4- | F z z2 |] %33
+w: mit that|I'm a fool for|you|* be- cause your|mine|* I walk the|line||
+w: ||||||||
+

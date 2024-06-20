@@ -1,0 +1,24 @@
+X:1
+T:Now Is The Hour
+T:Now is the hour
+T:(Haera Ra)
+T:Clement Scott
+T:Maewa Kaihau
+C:Clement Scott 1913
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" B3 |"C" G2 A |"G" B3- | B2 B |"D7" B2 A | c2 F |"G" G3- | G3 |"C" G3 |"G" A2 ^A |"G" B3 | %11
+w: Now|is the|hour|* for|me to|say good-|bye||Soon|I'll be|sail-|
+w: Ha-|e- re-|ra|* Te|ma- na|ta- ngi|pai||E|hae- re|a-|
+"Em" G3 |"A7" A2 G | F2 G |"D7" A3- | A3 |"G" B3 |"C" G2 A |"G" B3- | B2 B |"D7" B2 A | c2 F | %22
+w: ing|Far a-|cross the|sea||While|I'm a-|way|* Oh|please re-|mem- ber|
+w: na|Koe ki|pa- ma-|mao||Ha-|e- re-|ra|* Ka|ho- ki-|mai- a|
+"G" G3- | G2 z |"C" G3 | A2 ^A |"G" B2 G |"E7" c2 B |"A7" E3 |"D7" F3 |"G" G3- | G3 |] %32
+w: me||When|I re-|turn I'll|find you|wait|ing|here||
+w: no||Ki-|* te|tau E|ta- ngi|a-|tu|nei.||
+

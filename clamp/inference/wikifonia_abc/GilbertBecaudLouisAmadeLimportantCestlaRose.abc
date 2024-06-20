@@ -1,0 +1,51 @@
+X:1
+T:L'important C'est la Rose
+T:L'important C'est la Rose
+T:Gilbert Becaud
+T:Louis Amade
+T:
+C:Gilbert Becaud
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 56
+V:1
+"C" E3 E |"F" F2"G7" D2 |"C" E3 E |"F" F2"G7" G F ||S"C" E D E F |"C7" G3 A/G/ |"F" F G A B | %7
+w: |||* 1.Toi qui|mar- ches dans le|vent Seul dans|la trop gran- de|
+w: |||* 2.Toi qui|cher- ches quelque ar-|gent pour te|bou- cler la se-|
+w: |||* 3.Toi pe-|tit que tes pa-|rents Ont lais-|sés seul sur la|
+"C" c C2 A/G/ |"F" F G A B |"C" c G2 E/C/ |"Bb" D4- |"G7" D2 G F |"C" E D E F |"C7" G3 A/G/ | %14
+w: vil- le A- vec|le ca- fard tran-|quil- le Du pas-|sant|* Toi qu'elle|a lais- sé tom-|ber Pour cou-|
+w: mai- ne Dans la|ville où tu pro-|mè- ne Ton bal-|lant|* Cas- ca-|deur so- leil cou-|chant Tu pas-|
+w: ter- re Pe- tit|oi- seau sans lu-|miè- re Sans prin-|temps|* Dans ta|ves te de drap|blanc Il fait|
+"F" F G A B |"C" c C2 A/G/ |"F" F G A B |"C" c G2 G/c/ |"Bb" d4- |"G7" d2 G G |"Dm" A2 A A | %21
+w: rir vers d'au- tres|lu- nes Pour cou-|rir d'au- tres for-|tu- nes L'im- por-|tant|* L'im- por-|tant c'est la|
+w: ses de- vant les|ban- ques Si tu|n'es que sal- tim-|ban- que. L'im- por-|tant|||
+w: froid comme en bo-|hè- me T'as le|coeur comme en ca-|rê- me Et pour-|tant|||
+"G7" B A G F |"Em" G2 G G |"A7" A G F E |"Dm" F3 F/F/ |"G7""^3e fois al Coda" G/F/ E2 D ||"C" C4 | %27
+w: ro- se l'im- por-|tant c'est la|ro- se l'im- por-|tant c'est la|ro * se crois|moi|
+w: ||||||
+w: ||||||
+"G7" z2 G F!D.S.! ||O"C" C4 | z2"Ab7" _A _G |[K:Db]"Db" F E F G |"Db7" A2 B A |"Gb" G A B c | %33
+w: 2.Toi qui|moi|4.Toi pour|qui don- nant don-|nant J'ai chan-|té ces quel- ques|
+w: ||||||
+w: ||||||
+"Db" d D2 B/A/ |"Gb" G A B c |"Db" d A2 F/D/ |"Cb" E4- |"Ab7" E2 A G |"Db" F E F G |"Db7" A3 B/A/ | %40
+w: li- gnes Com- me|pour te faire un|si- gne En pas-|sant|* Dis à|ton tour main- te-|nant Que la|
+w: |||||||
+w: |||||||
+"Gb" G A B c |"Db" d D2 B/A/ |"Gb" G A B c |"Db" d A2 A/d/ |"Cb" e4- |"Ab7" e3 A/A/ |: %46
+w: vie n'a d'im- por-|tan- ce Que par|u- ne fleur qui|dan- se Sur le|temps|* L'im- por-|
+w: ||||||
+w: ||||||
+"Ebm" B2 B B |"Ab7" c B A G |"Fm" A2 A A |"Bbm" B A G F |"Ebm" G2 G G ||1"Ab7" A/B/ A2 E | %52
+w: tant c'est la|ro- se l'im- por-|tant c'est la|ro- se L'im- por-|tant c'est la|ro- * se crois-|
+w: ||||||
+w: ||||||
+"Fm" F4- |"Bbm" F3 A/A/ :|2"Ab7" A/G/ F2 D |"Db" D4- | D4- | D4 |] %58
+w: moi|* L'im- por|ro- * se crois|moi.|||
+w: ||||||
+w: ||||||
+

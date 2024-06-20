@@ -1,0 +1,22 @@
+X:1
+T:Cantina Band
+T:Cantina Band
+T:from Star Wars
+T:John Williams
+C:John Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"Dm" A2 d2 A2 d2 | A d2 A- A^G A2 |"Dm" A^GA=G"C7" z ^FGF |"F" =F3 D- D4 |"Dm" A2 d2 A2 d2 | %5
+ A d2 A- A^G A2 |"G7" =G2 G2- G^F G2 |"C7" [cc] B2 A z G3 |"Dm" A2 d2 A2 d2 | A d2 A- A^G A2 | %10
+"Gm7" c2 c2-"C7" cA G2 |"F" =F3 D- D4 |"Bb" D4"Bdim7" F4 |"F/C" A4"D7" c4 | %14
+"G7" _e2 d2"C7" ^G A2 F |"F" z8 ||"Dm" z a2 f a2 z2 | z a2 f a2 z2 | z a2 f ^ga z f- | f3 d- d4 | %20
+"Dm" z a2 f a2 z2 | z a2 f a2 z2 | z a2 f ^ga z =g- |"C7" g3 c- c4 |"Dm" z a2 f a2 z2 | %25
+ z a2 f a2 z2 | z a2 f ^ga z f- | f3 d- d4 |"Bb" B,D F2"Bdim7" =B,D F2 |"F/C" ^G A2 D-"D7" D4 | %30
+"G7" DFAd"C7" c A2 F- |"F" F4 z4 |:"Dm" F3 _A- AF G2- | GF _A2 G2 A2 | F3 _A- AF G2- | %35
+ GF _A2 G2 A2 |"Dm" F3 _A- AF G2- | GF _A2 G2 A2 | F2 _A2 G2 A2 | F2 _A2 G2 A2 :| %40
+

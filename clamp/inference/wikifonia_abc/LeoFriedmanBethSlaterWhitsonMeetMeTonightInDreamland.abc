@@ -1,0 +1,28 @@
+X:1
+T:Meet Me Tonight In Dreamland
+T:Meet Me Tonight In Dreamland
+C:Leo Friedman
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" d A c | B3 |"Dm" A D A |"Gm" G3 |"Bb" F G A | c B3/2 D/ |"G#dim7" F3 |"Cm" E2 z |"G7" e =B d | %9
+w: Dream- ing of|you,|that's all I|do,|Night and day|for you I'm|pin-|ing,|And in your|
+"Cm" c3 |"Cm7" B G B |"F" A G F |"F7" E F G |"F" d c A |"C#dim7" G3 |"Bb" F2 F |"A7" F2 =E | %17
+w: eyes,|blue as the|skies, I can|see the love-|light soft- ly|shin-|ing; Be-|cause you|
+ A2 =E |"Dm" F2"A7" G |"Dm" A2"F#dim7" A |"C" A2 G |"C7" A2"C+" ^G |"F" A2"C7" B |"F7" c3 | %24
+w: love me|there it|seems, Pray|meet me|in the|land of|dreams.|
+"Bb" D F"Bb7" B |"G7" e2 d |"C7" c3 | G3 |"F7" E F A |"Dm" d2"F7" c |"Bb" F3- | F2"Ab7" z |: %32
+w: Meet me to-|night in|dream-|land|Un- der the|sil- v'ry|moon||
+"G7""^CHORUS" G =B d | e2 =B |"C7" d3 | c3 | d c B |"F#dim7" ^F2"C7" G |"F7" c3- | c3 | %40
+w: Meet me to-|night in|dream-|land|where love's sweet|ro- ses|bloom||
+"Bb" D F"Bb7" B |"G7" e2 d |"C7" c3 | G3 |"F7" E F A |"Dm" d2"F7" c |"Bb" F3- | F2"Bb+" z | %48
+w: Come with the|love- light|gleam-|ing|In your dear|eyes of|blue||
+"Eb" G"F#dim7" ^F"Eb" G |"C#dim7" B2 G |"Bb" F"C#dim7" =E"Bb" F |"G7" d2 !fermata!=B |"C7" c G d | %53
+w: Meet me in|dream- land|sweet dream- y|dream- land|There let my|
+"F7" c2 F |1"Bb" B2"Db7" z ||"F7" z3 :|2"Bb""Bb7""Ebm" B3- ||"Bb" B2 z |] %58
+w: dreams come|true.||true.|_|
+

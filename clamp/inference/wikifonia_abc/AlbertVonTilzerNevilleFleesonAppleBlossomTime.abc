@@ -1,0 +1,21 @@
+X:1
+T:Apple Blossom Time
+T:Apple Blossom time
+T:Neville Fleeson/Albert vonTilzer
+C:Albert von Tilzer, Neville Fleeson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G2 A | B A G |"D" F3/2 E/ D/E/ | F3 |"C" E2 F | G F E |"G" D3/2 C/ B,/C/ | D3 |"D" D A ^G | %9
+w: I'll be|with you in|ap ple blos som|time|I'll be|with you to|change your name to|mine|Some- day in|
+ A3 |"G" D B ^A | B3 |"A" =A3/2 ^G/ A | E3/2 F/ =G |"D" F G ^G | A3 |"G" G2 A | B A G | %18
+w: May,|I'll come to|say|Hap- py the|bride the sun|shines on to-|day|what a|won- der- ful|
+"D" F3/2 E/ D/E/ | F3 |"C" E2 F | G F E |"B" F3/2 E/ ^D/E/ | F3 |"A7" E B ^A | B3 | E =A ^G | %27
+w: wed- ding there will|be|what a|won- der- ful|day for you and|me|Church bells will|chime|you will be|
+ A2 E |"C" =G2 F |"D7" E2 F |"G" G3- | G3 |] %32
+w: mine in|ap- ple|blos- som|time||
+

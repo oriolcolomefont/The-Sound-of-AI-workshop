@@ -1,0 +1,33 @@
+X:1
+T:Fun and Games
+T:Fun And Games
+T:Chuck Mangione
+C:Chuck Mangione
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=190
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/4
+V:1
+|:"^A" z4"F" Acdf | z g f4{_a} =a2 | z4{_a} =a2 z g | z g f4 z2 | z4 Acdf | z g f6 | %6
+{_a} =ag fg z d f2- | f4 z4 ::"^B""C" c2 cc"Bb" ddf"F"f- | f2"Bb" b2"B" =b2"C" c'2- | %10
+ c'4"Bb" b2 aa |"F" ff"Bb"gg z d"F" f2- | f2 z d z fzd | ffd"C"c- c2{_a} =ag | %14
+"F" agf"C"g z d"F" f2- | f4 z4 :|"^C""^F7" z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %27
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %46
+ z8 | z8 |] %48
+V:2
+|: F z z2 | x4 | x4 | z2 z/ F/ F | F z z2 | x4 | x4 | z/ A/ F F F :: x4 | x4 | x4 | x4 | x4 | x4 | %14
+ x4 | z/ A/ F F F :| x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %31
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %48
+

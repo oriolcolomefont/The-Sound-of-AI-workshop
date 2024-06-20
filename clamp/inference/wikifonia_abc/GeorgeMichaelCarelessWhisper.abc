@@ -1,0 +1,42 @@
+X:1
+T:Careless Whisper
+T:Careless Whisper
+T:George Michael
+C:George Michael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm7" A A2 G- G F2 D- |"Gm7" D4 z2"Am7" z D/D/ |"Bbmaj7" A2 BG- GDFD |"Am7" A2 G2 F2 E2 | %4
+w: I feel so _ un- sure|_ as I|take your hand _ and lead you|to the dance floor|
+w: Time can ne- * ver mend|_ _ the|care- less whis- * pers _ _|of a good friend|
+"Dm7" z D/E/FG/A/- A2 z2 |"Gm7" z D/E/FD/c/- cB"Am7" z2 |"Bbmaj7" ABAB AB/A-<AF/ | %7
+w: As the mu- sic dies _|some- thing in your eyes _ _|calls to mind a sil- ver screen * and|
+w: to the heart and mind _|ig- nor- ance is kind _ _|there's no com- fort in the truth _ _|
+"Am7" A2 G2 F2 E>D- ||S"Dm7" D>f f/e/e/e/ ed/d/- d2 |"Gm7" fd f/dg/- gf"Am7"ed | %10
+w: all its sad good- byes|* I'm ne- ver gon- na dance a- gain _|guil- ty feet have got _ no rhy- thm|
+w: pain is all you'll find|_ _ _ _ _ _ _ _ _ _||
+"Bbmaj7" z f/f/fe ed/d-<dd/ |"Am7" e/ee/- e/c/d c2 z3/2 c/ |"Dm7" f/f/f f/e/e/e/ ed/d-<dd/ | %13
+w: though it's ea- sy to pre- tend _ I|know you're not _ a fool _ I|should have known bet- ter than to cheat a friend _ and|
+w: |||
+"Gm7" fdfd/g/- gf"Am7"ed |"Bbmaj7" z f/f/ f/e/e/e/ ed/d-<dd/ |"Am7" e/ed/- d<e f2 e2!dacoda! | %16
+w: waste a chance that I'd _ been gi- ven|so I'm ne- ver gon- na dance a- gain _ the|way I danced _ with you- _|
+w: |||
+"Dm" d4 z4 |"Gm7""Am7" z8 |"Bbmaj7" z8 |"Am7" z4 z2 z3/2 A/ :|"Dm7" ag/g/- g/fa/ gf/f<dd/ | %21
+w: _|||To-|night- the mu- * sic seems _ so loud _ I|
+w: |||||
+"Gm7" a/gg/- g/fa/ gf"Am7" d2 |"Bbmaj7" ff z/ fg/- g/g/ff>d |"Am7" e/d/e/d/ e/d/e/d/ ef/g-<gd/ | %24
+w: wish that we _ could lose _ this crowd|May- be it's bet- * ter this way we'd|hurt each oth- er with the things we want to say _ we|
+w: |||
+"Dm7" a/gg/- g/fa/ gf/f<dd/ |"Gm7" a/gg/- g/fa/ g>f"Am7" f/dd/ |"Bbmaj7" d'3 c' c'>bb>a | %27
+w: could have been _ so good _ to- geth- er we|could have had _ this dance _ for- ev- er but|now who's gon- na dance with|
+w: |||
+"Am7" a3 z a>g- g/f/d!D.S.! |:O"Dm" ed/e/ d2 z4 |"Gm7""Am7" z8 |"Bbmaj7" z8 |"Am7" z8 :| %32
+w: me? Please stay _ _ _|_ _ _ _||||
+w: |||||
+

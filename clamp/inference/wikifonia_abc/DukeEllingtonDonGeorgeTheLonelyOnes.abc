@@ -1,0 +1,30 @@
+X:1
+T:The Lonely Ones
+T:The Lonely Ones
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: F2 |"Fmaj7" d4- dcAF |"Cm7" d4-"F7" dcAF |"Bbmaj7" A4- AAFD |"Bbm7""Eb7" F6 F2 |"Fmaj7""D7" A8 | %6
+w: You've|seen _ them come and|go, _ they walk a-|lone _ where lights ar|low. And|so,|
+"G7" F _c2 B"C7" _A2 FF- |"Fmaj7" F8- |"Gm7" F4"C7" z2 F2 ||"Fmaj7" d4 dcAF |"Cm7" d4-"F7" dcAF | %11
+w: they're called the lone- ly ones.|_|* You've|seen _ their haunt- ed|eyes, _ the emp- ty|
+"Bbmaj7" A4- AAFD |"Bbm7""Eb7" F6 F2 |"Fmaj7""D7" A8 |"G7" F _c2 B"C7" _A2 FF- |"Fmaj7""Bb7" F8- | %16
+w: dreams _ they ad- ver-|tize. They|know,|they're called the lone- ly ones.|_|
+"Fmaj7" F4 z2 D2 ||"Bb7" FF_AA FFDD | F _A3 (_c B3) |"Fmaj7" _A F2 F-"Gm7""C7" F4 |"Fmaj7" F6 z2 | %21
+w: * On|rai- ny nights they ren- dez- vous where-|ev- er blue _|trum- pets moan. _|_|
+"Bb7" FF_AA FFDD | F_A_cB- B2 A2 |"Am7" =B2"D7" =c6- |"Gm7" c4"C7" z2 F2 |"Fmaj7" d4- dcAF | %26
+w: There they wait, and when it's late they|get the pa- pers _ and|go home.|_ To-|night _ I'm so a-|
+"Cm7" d4-"F7" dcAF |"Bbmaj7" A4- AAFD |"Bbm7""Eb7" F6 F2 |"Fmaj7" A4-"Dm7" AAGF |"G7" A6 AA- | %31
+w: fraid _ that I will|join _ that lost pa|rade. My|love, _ why can't you|see, just you|
+"Em7b5" A4-"A7" AAAA |"Dm7""Cm7" F6"F7" F2 |"Bbmaj7" G2 F2"Bdim7" _A2 Fc- | %34
+w: _ _ can set me|free. Come|back and res- cue me|
+"G7" c _c2 B"C7" _A2 FF- |1"Fmaj7" F8- |"Gm7" F4"C7" z4 :|2"Fmaj7" F8- | F4 z4 |] %39
+w: _ from the lone- ly ones.|_||(ones)||
+

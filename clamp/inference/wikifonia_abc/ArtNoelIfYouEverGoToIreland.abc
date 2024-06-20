@@ -1,0 +1,20 @@
+X:1
+T:If You Ever Go To Ireland
+T:If You Ever Go To Ireland
+T:Art Noel
+C:Art Noel
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z z C/D/ |:S"C" E2 G |"E7" e2 d |"F" c (A2 |"F" A2) c/A/O |"C" G2 E |"D7" E D C |"Dm" D3 | %8
+"G7" D2 C/D/ :| G2"C" E/C/ |"G7" D C D |"C" (C3 |"C7" C2) G/G/ |"F" A3/2 A/ A |"F" A2 B/c/ | %15
+"Em" B G E |"Em" G2 G/G/ |"F" A B c |"C" G E C |"D7" (D3 |"G7"S D2) C/D/O || z z z | %22
+O"C" G2 c/e/"^To Coda" |"G7" d c d |"C" (c3 |"C" c) z z |] z3 | z3 | z3 | z3 | z3 |] %31
+

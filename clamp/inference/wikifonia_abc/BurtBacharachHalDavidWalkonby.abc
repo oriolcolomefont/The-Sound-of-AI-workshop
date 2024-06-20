@@ -1,0 +1,32 @@
+X:1
+T:Walk on by
+T:JBB Sept 2011
+T:Burt Bacharach
+T:walk on by
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am7""^A" EEEE"D9" EDCD |"Am7" E2 z C"D9" DCDC- |"Am7" C2 z2"D9" B,CB,A,- | %3
+w: If you see me walk- in' down the|street & I start to cry|* each time we meet|
+w: I just can't get o- ver lo- sin'|you & so if I seem|* bro- ken & blue|
+"Am7" A,2 z2"D9" A A2 G- |"Gm7" G2 D2 FA z F |"Am7" .G2 .E2 A A2 G- |"Gm7" G2 D2 FA z F | %7
+w: * Walk on by,||* * walk on by||
+w: ||||
+"Am7" d d2 c- c3 C |"Dm7" FGA_B A2 F2 |"Am7" d d2 c- c3 F |"Bbmaj7" A G2 _B A G2 B | %11
+w: Make be- lieve * That|you don't see the tears Just|let me grieve * In|pri- vate 'cause each time I|
+w: Fool- ish pride * That|all that I have left. So|let me hide * the|tears & the sad- ness you|
+"C9sus4" A G2 z AGFG |"Fmaj7""^B" A3 !>!A- A2 !>!A2 |"Bbmaj7" !>!A3 !>!A D F2 A- | %14
+w: see you I break down &|cry * * *|* * Walk on by|
+w: gave me When you said good-|bye * * *||
+"Fmaj7" A3 !>!A- A2 !>!A2 |"Bbmaj7" !>!A3 !>!A D F2 A- |"Fmaj7" A3 !>!A- A2 !>!A2 | %17
+w: * (don't * *|stop) * walk on by|* (don't * *|
+w: |||
+"Bbmaj7" !>!A3 !>!A D F2 A- |"Fmaj7" A3 !>!A- A2 !>!A2 |"Bbmaj7" !>!A3 !>!A- A2 z2 |] %20
+w: stop) * walk on by|||
+w: |||
+

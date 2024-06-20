@@ -1,0 +1,28 @@
+X:1
+T:Boo-Hoo
+T:Boo-Hoo
+C:Edward Heyman, Carmen Lombardo, John Jacob Loeb
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2"G+" G2 |"C" G4- |"G+""C" G4- | G E F ^F | G B2"Cdim" A |"G7" F4- | F4- | %7
+w: Boo-|Hoo|_|* you've got me|cry- ing for|you.|_|
+"Gdim" F ^C"G7" D"C" E |"G7" F A2 G |"C" E3"Gdim" G |"G7" F3"Cdim" A |"C" G c"G7" B d | %12
+w: * And as I|sit here and|sigh, Says|I, "I|cna't be- lieve it's|
+"C" c z"G7" G2 |"C" G4- |"G+""C" G4- | G E F ^F | G B2"Cdim" A |"G7" F4- | F4- | %19
+w: true. Boo-|Hoo|_|* I'll tell my|mam- ma on|you.|_|
+"Cdim" F ^C"G7" D"C" E |"G7" F A2 G |"C" E3"Gdim" G |"G7" F3"Cdim" A |"C" G c"G7" B d | %24
+w: * The lit- tle|game that you|played has|made her|ba- by oh! so|
+"C" c z"B+7" B2 |"E" B2 ^G2 | ^F2 E2 |"B7""F#m7" ^F4- |"B7" F B"B+" B B |"G" d2 B2 |"D7" A2 B2 | %31
+w: blue. You|left me|in the|lurch|_ You left me|wait- ing|at the|
+"G7""Dm7" d4- |"G" d z"G+" G2 |"C" G4- |"G+""C" G4- | G E F ^F | G B2"Cdim" A |"G7" F4- | F4- | %39
+w: church,|_ Boo-|Hoo|_|* That's why I'm|cry- ing for|you|_|
+"Gdim" F ^C"G7" D"C" E |"G7" F A2 G |"C" E3"Gdim" G |"G7" F3"Cdim" A |"C" G c"G7" B d | %44
+w: * Some day you'll|feel like I|do And|you'll be|Boo- Hoo- Hoo- ing|
+"C" c2- c2 |] %45
+w: too. _|
+

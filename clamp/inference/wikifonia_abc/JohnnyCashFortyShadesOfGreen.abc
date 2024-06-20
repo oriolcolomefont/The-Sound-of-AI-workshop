@@ -1,0 +1,32 @@
+X:1
+T:Forty Shades Of Green
+T:Forty shades of green
+T:Johnny Cash
+T:Country Swing
+C:Johnny Cash
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ G |"C" G3 E E2 ^D2 | E2 E4"C7" c2 |"F" c2 A4 AG | A6 cc | c2 c2"F" B2 c2 |"C" A2 G4 GG | %7
+w: I|close my eyes and|pic- ture the|em- 'rald of the|sea from the|fish- ing boats at|Ding- le to the|
+w: |wish that I could|spendan hour at|Dub- lin's churn- ing|surf I'd *|love to watch the|farm- ers drain the|
+"D7" A4 D2 DE |"G7" D6 G2 |"C" G3 E E2 ^D2 | E2"C7" E4 cc |"F" c4 A2 AG | A6 c2 | c2 c2 B2 c2 | %14
+w: sores of Dun- a-|dee I|miss the Riv- er|Shan- non and the|folks at Skip- pa-|ree the|moor lands and the|
+w: bogs and spade the|turf To|see a- gain the|thatch- ing of the|straw the wo- men|glean I'd|walk from Cork to|
+"C" A2 G4 EE |"Dm7" F F3"G7" E3 D |"C" C4"C7" z2 z c |"F" c2 c2 c3 c |"G" B2 B2 A3 G | %19
+w: mid- lands with their|for- ty shades of|green But|most of all I|miss a girl in|
+w: Liarn to see the|gor- ty shades of|green *|||
+"C" G2 c2 G3 F | E6 z c |"F" c2 c2 c3 c |"G" B2 B2 A3 G |"C" G2 c2 G3 E |"G7" D6 G2 | %25
+w: Tip- per- ar- y|town and|most of all I|miss her lips as|soft as ei- der-|down a-|
+w: ||||||
+"C" G3 E E3 ^D | E2 ^DE-"C7" E3 c |"F" c3 A A2 ^GA- | A4 z2 cc | c2 c2 B c3 |"C" AA G4 EE |1 %31
+w: gain I want to|see and do * the|things we've done and seen|* where the|breeze is sweet as|Shal- i- mar and there's|
+w: ||||||
+"Dm7" F F3"G7" E2 D2 |"C" C4 z2 c2 :|2"Dm7" F F3"G7" E2 D2 |"C" C8 |] %35
+w: for- ty shades of|green I|For- ty shades of|green.|
+w: ||||
+

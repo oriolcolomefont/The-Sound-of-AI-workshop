@@ -1,0 +1,24 @@
+X:1
+T:Mother
+T:Mother
+T:all rights reserved
+T:Arranged by Stuart Bradbury
+T:Howard Johnson, Theodore Morse (c1915)
+C:Howard Johnson, Theodore Morse (c1915)
+Z:All Rights Reserved
+L:1/8
+Q:1/4=84
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 21
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+"F" cAB=B cF"Fdim"GD |"C7" F4 E3 z | cB^FG cBDB |"F" A6 | FFEF"Bb" GFG"Bb7"^G |"F" !^!A4"D7" c3 z | %6
+w: M is for the mil- lion things she|gave me,|O means on- ly that she's grow- ing|old,|T is for the tears were shed to|save me,|
+"G7" GA=Bc dBA_A |"C7" !tenuto!G6 z |"F" cAB=B cF"Fdim"GD |"C7" F4 E3 z | GG^FG cGA"Gm"B | %11
+w: H is for her heart of pur- est|gold.|E is for her eyes with Love- light|shin- ing,|R means right and right she'll al- ways|
+"A" A6 z |"Ddim" _AAGF"Db7" AAGF |"F" c4"D7" =A3 A |"Gm" GABc"G7" d2"C7" c2 |"F" f6 z2 || %16
+w: be,|Put them all to- geth- er they spell|MOTH- ER A|word that means the world to|me.|
+

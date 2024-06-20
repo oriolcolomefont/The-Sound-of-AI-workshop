@@ -1,0 +1,22 @@
+X:1
+T:Upper Manhattan Medical Group
+T:Upper Manhattan Medical Group
+T:UMMG
+T:Billy Strayhorn
+T:1956 by Music Sales Corporation and Tempo Music, Inc.
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Db
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Fm7b5" b6 a=b- |"Bb7b9" b3 _b- b4 |"Ebm7" z a3- a2 gf- |"Ab7" f4 z e3 | %4
+"Dbdim7" =A3 B-"Db6" B3 c- |1"Dbmaj7" c2 d2 (3f2 a2 c'2 |"Dbm7" e'6 b=g- |"Gb7" g4 a4 :|2 %8
+"Dbmaj7" c2 d2 (3f2 a2 d'2 |"Abm7" g'6"Db7" f'g'- |"Abm7" g'4"Db7" f'4 ||"Gm7b5" f6 =e2 | %12
+"C7" c'2 b2 a2 =g2 |"Fmaj7" =g6 f=e- | e3 f- f4 |"Abm7b5" g6 f2 |"Db7" d'2 b2 =a2 _a2 | %17
+"Gbm7" a6 gf- |"Ebm7" f4-"Ab7" f4 ||"Fm7b5" b6 ab- |"Bb7b9" b3 b- b4 |"Ebm7" z a3- a2 gf- | %22
+"Ab7" f4 z e3!dacoda! |"Dbdim7" =a6 d'b- |"Dbmaj7" b8 |"Dbdim7" =a6 d'b- |"Dbmaj7" b8!D.C.! |] %27
+O"Dbdim7" =a8- | a6 d'b- |"Dbmaj7" b8- | b8 |"Dbdim7" =a8- | a6 d'b- |"Dbmaj7" b8- | b8 |] %35
+

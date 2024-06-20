@@ -1,0 +1,27 @@
+X:1
+T:Play Fiddle,Play
+T:Play Fiddle ,Play
+T:Jack Lawrence,Emery Deutsch&Arthur Altman
+C:Jack Lawrence, Emery Deutsch, Arthur Altman
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm" A4 FG |"Dm7/C" A4 de |"Bb6" f2 e z z d |"Gm6" c=B _B4 |"A7" A4 EF |"Em7b5" G4"A7" AB | %6
+w: Play Fid- dle,|Play, play my|loved one a|mel- o- dy,|sing to my|love, while the|
+"Dm" A4 DE | F4 z2 |"Dm" A4 FG |"Dm7/C" A4 de |"Bb6" f2 e z z d |"Gm6" c=B _B4 |"A7" A4 EF | %13
+w: stars swing a-|bove.|Play Fid- dle,|Play, sing my|loved one a|rhap- so- dy,|play on the|
+"Em7b5" G4"A7" FE |"Dm""Gm" D6 |"Dm" D4 z D |"C7" C2 E2 G2 | B2 A z z G |"F" F2 G2 ^G2 | A4 z A | %20
+w: strings of her|heart.|* The|camp- fires are|gleam- ing, as|red as the|sun, and|
+"E7/B" ^G2 =B2 d2 |"E7" f2 e z z d |"A7" ^c2 e2"Em7b5" B2 |"A7" A3 G FE |"Dm" A4 FG | %25
+w: my heart keeps|dream- ing, just|dream- ing of|one. So soft- ly|croon, while the|
+"Dm7/C" A4 de |"Bb6" f2 e z z d |"Gm6" c=B _B4 |"A7" A4 de |"Em7b5" f4"A7" ^ce |"Dm""Gm" d6- | %31
+w: moon weaves our|two hearts in|har- mo- ny,|Play Fid- dle,|Play to my|love.|
+"Dm" d2 z4 |] %32
+w: |
+

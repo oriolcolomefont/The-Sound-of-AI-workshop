@@ -1,0 +1,61 @@
+X:1
+T:The Hobbit Song
+T:Lonely Mountain	
+T:Neil Finn
+T:Lonely Mountin Neil Finn - P 2
+T:Lonely Mountin Neil Finn - P 3
+T:Lonely Mountin Neil Finn - P 4
+C:Neil Fynn
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+V:1
+"Em" z8 | z8 | z4 B,2 (DE) |"Em" E2 z2 z2 G2 | A2 (BA) G2 F2 | E4 z4 | z4 E2 G2 |"D" F2 F2 z4 | %8
+w: ||Far o- *|ver the|Mis- ty * Moun- tains|rise,|leave us|stand- ing|
+ z2 z G (A G2) F |"Em" E2 z2 z4 | z2 z G A B2 B- |"Bm" B6 z2 | z2 z F (A B2) A- | %13
+w: up- on * the|heights.|What was be- fore,||we see * once|
+"F#m" A (A3- AF) z2 | z2 z A, (D F2) G |"G" G G3 z2 z A |[M:2/4]"D/F#" (G F2) E | %17
+w: * more * *|is our * king-|* dom, a|dis- * tant|
+[M:4/4]"Em" E2 z2 z4 | z4 B,2 DE |"Em" E E3 z2 G2 |[M:2/4]"D" (A G2) F |[M:4/4]"Em" E4 z4 | %22
+w: light.|Fier- y moun-|* tain be-|neath * the|moon.|
+"Em" z2 z B, G2 B2 |"D/F#" F2 F4 z2 | z2 z G A G2 F- |"F#m" F F2 z z4 | z2 z F A2 BB- |"Bm" B8 | %28
+w: The words un-|spok- en,|we’ll be * there|* soon.|For home a song||
+"Bm" z2 z F d3 A- |"F#m" A A3- A4 | z2 z A, D2 A2 |"G" B2 B2 z2 z A |[M:2/4]"D/F#" B A2 A | %33
+w: that ech- oes|* on, *|and all who|find us will|know * the|
+[M:4/4]"Em" E4 z4 |"D" z8 ||"Em" z2 G2 G2 z A |"Em" ED B,2"D" B,2 z2 |"Em" z2 G2 G3 A | %38
+w: tune.||Some folk we|nev- er for- get.|Some kind we|
+"Em" GA F2 B,2 z2 |"D" z2 EF F3 G | FE D2 D2 z2 |"Am" z2 G2 G3 F |"Am" GA F2"D" E2 z2 | %43
+w: nev- er for- give.|Have- n’t seen the|back of us yet,|we’ll fight as|long as we live.|
+"Em" z2 D-E E2 EF |"Em" G D3"D" B,2 z2 |"Em" z2 DE E3 F | B2 A2 B,2 z2 |"D" z2 E-F F2 FG | %48
+w: All * eyes on the|hid- den door,|to the Lone- ly|Moun- tain borne.|We’ll * ride in the|
+ FE D2 D2 z2 |"Am7" z DDE E2 z F |"Am7" G3 F"D" ED D2 |"Em" E4 z4 | z4 B,2 D-E ||"Em" E2 E2 z2 G2 | %54
+w: gath- er- ing storm|un- til we get our|long- for- got- * ten|gold.|We lay *|un- der the|
+"D" A2 B-A G-FD-E |"Em" E4 z4 | z2 z B, D-E G2 |"D" F4- D2 z2 | z2 G2 A- G2 F |"Em" E4 z4 | %60
+w: Mis- ty * Moun- * tains *|cold,|in slum- * bers|deep *|and dreams * of|gold.|
+ z2 z G A2 BB- |"Bm" B6 z2 | z2 z F B3- A |"F#m" A A3- A2 z2 | z2 z A, ^C2 FG- |"G" G G3 z2 z A | %66
+w: We must a- wake,||our lives *|to make, *|and in the dark-|* ness a|
+[M:2/4]"D/F#" G- F2 F |[M:4/4]"Em" E4 z4 | z2 z B, B,2 DE- |"Em" G2 z2 z2 B2 |[M:2/4]"D" AG F2 | %71
+w: torch * we|hold.|From long a- go|* when|lan- * terns|
+[M:4/4]"Em" E4 z4 | z2 z B,- B, G2 B |"D" F6 z2 | z2 z G A- G2 F |"F#m" F4 z4 | %76
+w: burned,|un- * til this|day|our hearts * have|yearned.|
+"F#m" z2 z F A B2 B- |"Bm" B6 z2 | z2 z B d3 c- |"F#m" c A3- A4 | z4 D2 F2 |"G" G2 G4 z2 | %82
+w: Her fate un- known,||the Ark- en-|* stone, *|what was|sto- len|
+"D/F#" z2 z d B- A2 G |"Em" E4 z4 |"Am" z8 |"G" z8 |"Am" z8 | z4 A2 c2 |"G" B8 |"G" z2 z c dc B2 | %90
+w: must be * re-|turned.||||Oh, *||oh. * * *|
+"Am" A8 | z2 z c d2 eB- |"Em" B8- | B2 z B d e2 d |"Bm" dc B6- | B2 z B B-AA-G |"C" G8 | %97
+w: |We must a- wake||* and make * the|day * *|* to find * a *|song|
+ z2 A-G F-E D2 |"Am" E2 z2 z4 |"D" z8 ||"Em" z2 E2 G2 z A |"Em" ED B,2"D" B,2 z2 |"Em" z2 G2 G3 A | %103
+w: for * heart * and|soul.||Some folk we|nev- er for- get.|Some kind we|
+ GA F2 B,2 z2 |"D" z2 EF F3 G | FE D2 D2 z2 |"Am7" z2 E2 E3 F |"Am7" GA F2"D" E2 z2 | %108
+w: nev- er for- give.|Have- n’t seen the|end of it yet,|we’ll fight as|long as we live.|
+"Em" z2 D-E E2 EF |"Em" E D3"D" B,2 z2 | z2 DE E3 F | B2 A2 B,2 z2 |"D" z2 E-F F2 FG | %113
+w: All * eyes on the|hid- den door,|to the Lone- ly|Moun- tain borne.|We’ll * ride in the|
+ FE D2 D2 z2 |"Am7" z D DE E2 z F |"Am7" G3 F"D" E-D D2 |"Em" E4 z4 | z4 B,2 D2 ||"C" E2 z2 z2 G2 | %119
+w: gath- er- ing storm|un til we get our|long- for- got- * ten|gold.|Far a-|way from|
+"Bm" A2 B-A G2 D2 |"Em" E4 .z4 | %121
+w: Mis- ty * Moun- tains|cold.|
+

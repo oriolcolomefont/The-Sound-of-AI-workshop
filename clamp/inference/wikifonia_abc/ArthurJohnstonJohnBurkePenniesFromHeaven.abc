@@ -1,0 +1,40 @@
+X:1
+T:Pennies From Heaven
+T:Pennies From Heaven
+C:Arthur Johnston
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm6" z2"G7" z3/2 E/ |"C" G"Gm" G/"A7"G/ A3/2 A/ |"F" F F"G7" G G |"C" E4- |"Em" E2-"Am" E3/2 E/ | %5
+w: A|long time a- go, a|mil- lion years B.|C.|_ _ The|
+"C" G"Gm" G/"A7"G/ A3/2 A/ |"F" F F"G7" G G |"C7""Am" E4- |"E" E2-"C7" E3/2 C/ | %9
+w: best things in life were|ab- so- lute- ly|free.|_ _ But|
+"Dm" D D-"G7" D/E/C/D/ |"C" E"Am" E2- E/E/ |"Dm" F G/F/"Em" E"G7" F |"C" G2- G G | %13
+w: no- one _ ap- pre- ci-|a- ted _ a|sky that was al- ways|blue. _ And|
+"Am" A A-"B7" A/B/"G+"G/A/ |"Em" B B2- B/B/ |"Cm6" c d/c/"Bm" B"D7" c |"G9" d2-"G7" d/c/"C+"c/c/ | %17
+w: no- one _ con- grat- u-|la- ted _ a|moon that was al- ways|new. _ So it was|
+"Dm7" c/A/"F6"A/F/ F/D/"Dm7"D/D/ |"Dm6" D2- D/"B+"B/B/B/ |"Cmaj7" B/G/"Am7"G/E/"C6" E/C/"Am7"C/C/ | %20
+w: planned that they would van- ish now and|then _ and you must|pay be- fore you get them back a-|
+ C"E7" z"Eb9" z2 |"D9" z2"D7" F/^F/=F/^F/ |"Bm" B2"D+" _B2 |"Dm" z ^G/A/ G/A/G/A/ | %24
+w: gain.|That's what storms were|made for,|and you should- n't be a-|
+"Em" e2- e"G7" d |:"C6" c c"Dm7" c B |"Em7" d d"Ebdim7" B2 |"Dm7" A/A/A/A/-"G7" A G- | %28
+w: fraid _ for|Ev- 'ry time it|rains it rains|Pen nies from Heav- * en|
+"Dm7""G7" G4 |"C6" c c"Dm7" c B |"Em7" d d"Ebdim7" B2 |"Dm7" A/A/A/A/-"G7" A G- |"Dm7""G7" G4 | %33
+w: _|Don't you know each|cloud con tains|Pen nies from Hea- * ven?|_|
+"C9" z E G _B | d d c _B |"F" z A A ^G | A4 |"D7" z ^F A c | e e d c |"G7" z B d F |"Dm7""G9" A4 | %41
+w: You'll find your|for- tune fall- ing|all ov- er|town.|Be sure that|your um- brel- la|is up- side|down.|
+"C" c c"Dm7" c B |"Em7" d d"Ebdim7" B2 |"Dm7" A/A/A/A/-"G7" A G- |"Dm7""G7" G4 |"C7" c c c B | %46
+w: Trade them for a|pack- age of|sun- shine and flow- * ers.|_|If you want the|
+"C9" d d c2 |"^Fma7" e/e/e/e/- e d- |"F6" d4 | z F A c |"Bb7" e e e _e | %51
+w: things you love,|you must have show- * ers.|_|So when you|hear it thun- der,|
+"^Cma7" d d"C9" d/_d/c/B/- |"A9" B3 B/_B/ |"Dm7" (3A F A (3c A c |"D7" d2"G7b9" e2 |"C""A7" c4 | %56
+w: don't run un- der a tree,|_ There'll be|Pen- nies from Heav- en for|you and|me.|
+"D7""G7" c4 :|"C" c4- | c4 |] %59
+w: _|me.|_|
+

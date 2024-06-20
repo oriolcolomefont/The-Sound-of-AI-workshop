@@ -1,0 +1,39 @@
+X:1
+T:America The Beautiful
+T:America The Beautiful
+C:Samuel Ward
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F |"Bb" F3/2 D/"Bdim7" D F |"F7" F3/2 C/ C"Bb" D |"Cm7" E F"F7" G A |"Bb""Bdim7""F7" F3 F | %5
+w: O|beau- til- ful for|spac- ious skies For|am- ber waves of|grain. For|
+w: O|beau- ti- ful for|pil- grim feet Whose|stern im- pas- sioned|stress. A|
+w: O|beau- ti ful for|he- roes proved in|lib- er- at- ing|strife. Who|
+w: O|beau- ti- ful for|pat- riot dream That|sees be- yond the|years Thine|
+"Bb" F3/2 D/ D"Bdim/A" F |"F" F3/2 C/ C c |"Fdim" =B"F" c"Gm" d"C7" G |"F""C7""F7" c3 F | %9
+w: pur- ple moun- tain|maj- es- ties A-|bove the frui- ted|plains. A-|
+w: tho- o- fare for|free- dom beat Ac-|ross the wild- er-|ness! A-|
+w: more than self their|coun- ty loved, And|mer- cy more than|life! A-|
+w: al- a- bas- ter|ci- ties gleam, Un-|dimmed by hu- man|tears! a-|
+"Bb" d3/2 d/"Dm7" c"Dbdim7" B |"Cm7" B3/2 A/"F7" A"Cm7" B |"F7" c A"Eb/G" G"F/A" F | %12
+w: mer- i- ca! A-|mer- i- ca! God|shed his grace on|
+w: mer- i- ca! A-|mer- i- ca! God|mend thine ev- 'ry|
+w: mer- i- ca! A-|mer- i- ca! May|God thy gold re-|
+w: mer- i- ca! A-|mer- i- ca! God|shed his Grace on|
+"Bb""Cm""Bb7" B3 B |"Eb" B3/2 G/ G"C#dim" B |"Bb/D" B3/2 F/"Bb" F"Bb7/Ab" F |"Cm7" G B"F7" F c | %16
+w: thee, And|crown thy good with|bro- ther- hood, From|sea to shin- ing|
+w: flaw, Con-|firm thy soul in|self con- trol, Thy|lib- er- ty and|
+w: fine Till|all suc- cess be|no- ble- ness, And|ev- 'ry gain di-|
+w: thee, And|crown thy good with|broth- er- hood, From|sea to shin- ing|
+"Bb" B4 |] %17
+w: sea!|
+w: law!|
+w: vine!|
+w: sea!|
+

@@ -1,0 +1,26 @@
+X:1
+T:I Couldn't Sleep A Wink Last Night
+T:I Couldn't Sleep A Wink Last Night
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2"F7" F2 |:"Bb" c>Bc>B c2 B2 |"D7/A" D4-"D7b5" D3 D |"G9" A>GA>G"Dm7" A2"G7" G2 | %4
+w: I|could- n't sleep a wink last|night, _ be-|cause we had that sil- ly|
+"Gm7" D4-"C9" D3 C |"F7" D>CD>C D3 C |"Bb" F F2 F-"Gm7" F3 G | A>GA>G"C9" A A2 G | %8
+w: fight. _ I|thought my heart would break the|whole night thru, _ I|knew that you'd be sor- ry and|
+"F7" AB=Bc- c2 F2 |"Bb" c>Bc>B c2 B2 |"D7/A" D4-"D7b5" D3 D |"G9" A>GA>G"Dm7" A2"G7" G2 | %12
+w: I'm sor- ry too. _ I|did- n't have a fav'- rite|dream _ The|one in which I hold you|
+"Gm7" D4-"C9" D3 C |"F7" D>CD>C D3 C |"Bb" F2 F2-"Gm7" F>GA>B |"Cm7" c>Bc>B c2 Bd- | %16
+w: tight _ I|had to call you up this|morn- ing, _ to see if|ev'- ry- thing is still all right|
+"D+7""D7" d4"G7b9" e3 d |"Cm7" cBGE"F7" D2 C2 |"Dm7" F2"Bb" F4"Bdim7" d_d | %19
+w: _ Yes, I|had to call you up this|morn ing 'Cause I|
+"C7" c>BG>B"F13" d2"F7" d2 |1"Bb" B4-"Ebm/Gb" B z"F7" F2 :|2"Bb" B6 z2 |] %22
+w: could- n't sleep a wink last|night. _ I|night.|
+

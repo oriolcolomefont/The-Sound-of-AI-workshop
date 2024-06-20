@@ -1,0 +1,24 @@
+X:1
+T:Day By Day
+T:Sammy Cahn, 
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am9" B3/2 A/"Am7" E2- | E F G A |"Em7" B B B3/2 A/ |"Am7""D7" E3 F |"Gmaj7" A3/2 G/ D2- | %5
+w: Day by day|_ I'm fall- ing|more in love with|you And|day by day|
+"C9" D E (3F A G |"Bm7" F4- |"Bbdim7" F3 E |"Dm/F" D C B, C |"B7" G F =F ^F |"Em" B2 B2- | %11
+w: _ my love seems to|grow|_ There|is- 'nt an- y|end to my de-|vo- tion|
+"Em" B3"Em7" B | A G F G |"A9" B A ^G A |"Am7" c2 c2- |"Bm7" c3/2 c/"E7" d c | %16
+w: _ It's|deep- er dear by|far than an- y|o- cean|* I find that|
+"Am9" B3/2 A/"Am7" E2- | E F G A |"Em" B B B3/2 A/ |"Am7""D7" E3 F |"Gmaj7" A3/2 G/ D2- | %21
+w: day by day|_ You're mak- ing|all my dreams come|true So|come what may|
+"C9" D E (3F A G |"Bm7b5" d4- |"E7" d3 _d |"Am7" c3/2 B/ G2- |"Cm7" G2 (3F"F7" G A | %26
+w: _ I want you to|know|_ I'm|yours a- lone|_ and I'm in|
+"Gmaj7" B3"F9" B |"E7" B3 B |"Am7" B A E F | G2"D7" A F |1"Gmaj7" G4 |"Bm7" z2"E7" z2 :|2"G" G4 |] %33
+w: love to|stay, As|we go through the|years day by|day.||day.|
+

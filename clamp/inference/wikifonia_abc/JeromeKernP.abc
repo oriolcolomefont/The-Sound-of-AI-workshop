@@ -1,0 +1,28 @@
+X:1
+T:Bill
+T:Bill
+T:Jerome Kern
+T:P.G.Wodehouse and Oscar Hammerstein II
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." GG |"C" e2 G2"Am7" A2 e2 |"Dm7" dede"G7" d2 G2 |"C" cdcd"Am7" cBAB | %4
+w: But a-|long came Bill who's|not the type at all you'd|meet him on the street and nev- er|
+"Dm7" GA G4"G7" A2 |"Dm7" FE D4"G7" B2 |"C" GF E4 G2 |"Am7" cd e2"D7" e d2 c |"G7" Bc d2 cBAG | %9
+w: no- tice him his|form and face his|man- ly grace are|not the kind that you would|find in a stat- ue and I|
+"C" e2 G2"Am7" A2 e2 |"Dm7" dede"G7" d2 G2 |"C7" c4 E4 |"F" A6 A2 |"Dm7" c2 D2- DFAc | %14
+w: can't ex- plain it's|sure- ly not his brain that|makes me|thrill. I|love him _ be- cause he's|
+"C" eG A2-"Am7" AGAc |"Dm7" d4"G7" e4 |"C" c6 G2 |"C" e2 G2"Am7" A2 e2 |"Dm7" dede"G7" d2 G2 | %19
+w: won- der- ful _ be- cause he's|just old|Bill he's|just my Bill an|or di- nar- y boy he|
+"C" cdcd"Am7" cBAB |"Dm7" GA G4"G7" A2 |"Dm7" FE D4"G7" B2 |"C" GF E4 G2 |"Am7" cd e2"D7" e d2 c | %24
+w: has- n't got a thing that I can|brag a- bout and|yet to be up-|on his knee so|com- fy and room- y feels|
+"G7" Bc d2 cBAG |"C" e2 G2"Am7" A2 e2 |"Dm7" dede"G7" d2 G2 |"C7" c4 E4 |"F" A6 A2 | %29
+w: nat- u- ral to me and I|can't ex- plain it's|sure- ly not his brain that|makes me|thrill I|
+"D7" c2 D2-"^N.C." DFAc |"C" eG A2-"Am7" AGAc |"Dm7" d4"G7" e4 |"C" c6 z2 |] %33
+w: love him _ be- cause he's|I don't know _ be- cause he's|just my|Bill|
+

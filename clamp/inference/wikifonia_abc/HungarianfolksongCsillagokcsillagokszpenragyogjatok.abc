@@ -1,0 +1,17 @@
+X:1
+T:Csillagok, csillagok, szépen ragyogjatok
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ AABA E C3 | A3 G E D3 | A,4 A,4!fine! | ccBA B2 G2 | A B3 c A3 | E4 E4 | ccBc B G3 | A3 B c2 A2 | %8
+w: Csil- la- gok, csil- la- gok,|szé- pen ra- gyog-|ja- tok.|A sze- gény- le- gény- nek|u- tat mu- tas-|sa- tok,|mu- tas- sa- tok u- tat|a sze- gény- le-|
+w: Nem ta- lál- ja há- zát|a sze- re- tő-|jé- nek.||||||
+ E4 C4!D.C.! |] %9
+w: gény- nek,|
+w: |
+

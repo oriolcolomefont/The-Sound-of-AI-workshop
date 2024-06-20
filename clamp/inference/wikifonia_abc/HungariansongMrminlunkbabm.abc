@@ -1,0 +1,14 @@
+X:1
+T:Már minálunk babám
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ edcB c d3 | cBA^G A F3 | E2 A2 c B3 | A4 A2 z2!fine! :: e2 gg f e2 e | d4 e2 z2!D.C.! :| %6
+w: Már mi- nál- unk, ba- bám,|már mi- ná- lunk, ba- bám,|az jött a szok-|ás- ba,|Föl- megy a le- gény a|fá- ra,-|
+w: Nem sze- dik a megy- gyet,|nem sze- dik a megy- gyet|fe- de- les ko-|sár- ba,|A meggy- fa te- te- jé-|re, oszt|
+

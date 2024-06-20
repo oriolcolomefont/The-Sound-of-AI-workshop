@@ -1,0 +1,30 @@
+X:1
+T:The Night Is Young And You're So Beautiful
+T:The Night Is Young And You're So Beautiful
+C:Dana  Suesse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z3 G |"C" c3 B"Cmaj7" B3 A |"C6" A3 G"Cmaj7" (3E2 F2 G2 | B3 A"C6" A3 G | %4
+w: The|night is young and|you're so beau- ti- ful,|here a- mong the|
+ G3 E"Am7" (3C2 D2 E2 |"Dm7" G4"G7" G4- |"Dm7" G4"G7" (3D2 E2 F2 |"C""Cdim" A8- | %8
+w: sha- dows, beau- ti- ful|lad- y,|_ o- pen your|heart.|
+"Dm7" A4"G7" z3 G |"C" c3 B"Cmaj7" B3 A |"C6" A3 G"Cmaj7" (3E2 F2 G2 | B3 A"C6" A3 G | %12
+w: _ The|scene is set, the|breez- es sing of it:|can't you get in-|
+ G3 E"Am7" (3C2 D2 E2 |"Dm7" G4"G7" G4- | G4"Ddim/B" (3^G2 A2 B,2 |"C" C8- | %16
+w: to the swing of it,|la- dy|* when do we|start?|
+ (3C2 E2 F2 (3G2 F2 E2 |"B7" ^D3 B B4- | (3B2 G2 A2 (3B2 A2 G2 |"Cmaj7" E8- | %20
+w: _ When the lad- y is|kiss- a- ble|_ and the eve- ning is|cool,|
+ (3E2 G2 A2"Cm" (3B2 A2 G2 |"D7" ^F3 d d4- | (3d2 A2 B2 (3c2 B2 A2 |"G7" d8- | d6 G2 | %25
+w: _ an- y dream is per-|miss- a- ble|_ in the heart of a|fool.|_ The|
+"C" c3 B B3 A | A3 G (3E2 F2 G2 | B3 A"C6" A3 G |"Cmaj7" G3 E"Am7" (3C2 D2 E2 |"Dm7" G4"G7" G4- | %30
+w: moon is high and|you're so glam- o- rous,|and if I seem|ov- er am- or- ous,|la- dy,|
+"Dm7" G4"G" (3G2"F" A2"E7" B2 |"Am" c8- |"D9" c6"D7b5" c2 |"C6" e3 d d3 c |"Cdim" B3 A"G7" A3 G | %35
+w: _ what can I|do?|_ The|night is young and|I'm in love with|
+"C" c8- | c6 z2 |] %37
+w: you.|_|
+

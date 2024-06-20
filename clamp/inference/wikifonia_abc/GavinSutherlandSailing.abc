@@ -1,0 +1,25 @@
+X:1
+T:Sailing
+T:Sailing
+T:Gavin Sutherland
+C:Gavin Sutherland
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 CD |:"F" F2 F2 z2 Ac |"Dm" d2 d2 z2 d>c |"Bb" c B3 z2 B>A |"F" A2 z2 z2 BA | %5
+w: I am|sail- ing I am|sail- ing Home a-|gain * 'Cross the|sea, I am|
+w: I am|fly- ing I am|fly- ing, Like a|bird * 'Cross the|sky. I am|
+w: I am|climb- ing, I am|climb- ing, Up the|mount- ain To the|sun. I am|
+w: I am|trav'- ling I am|trav'- ling Down the|long road Close to|home. I am|
+"G" AG G2 z2 AG |"Dm" F2 F2 z2 CD |"Gm" AG G2 z2 GF |1"F" F4 z2"C7" CD :|3"F" F6 z2 |] %10
+w: sail * ing Storm- y|wa- ters To be|near * you To be|free. I am|free.|
+w: fly- * ing, Pass ing|high clouds To be|with * you To be|free * *||
+w: climb * ing Through the|sun- shine, Come and|join- * me' Climb- ing's|fun. * *||
+w: trav'- * ling Dus- ty|high- ways Soon I'll|be- * there, Home and|||
+

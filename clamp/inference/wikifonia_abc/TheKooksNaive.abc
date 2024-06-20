@@ -1,0 +1,59 @@
+X:1
+T:Naive
+C:The Kooks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G#min
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^intro""G#sus4" z8 |"E" z8 |"F#" z8 |"B" z4"F#7/A#" z4 |:"G#sus4"zG gz/f/- fz/d/- d/c/d | %5
+w: ||||I'm not sayin' _ it _ was your|
+w: ||||I may say _ It * was your|
+"E" d z gz/f/- f/d/c/d/ d(d/c/- |"F#" c)zz2z2zc |"B" c2 c>c-"F#7/A#" cz/c/- c/z/c | %8
+w: fault Al- though * you could have done more _|_ you're|so na- ive _ yet _ so|
+w: fault cause~I know _ you could have done more _|_||
+"G#sus4" z2 gz/f/- fz/d/- d/dd/- |"E" dz/G/ g/gf/- f/dd/- dd- |"F#" dzz2z2zc | %11
+w: How could _ this _ be done|_ by such a smi- * ling sweet- _ heart|_ Oh|
+w: |||
+"B" cccc"F#7/A#" c/cd/- d2 |"G#sus4"z>G g/gf/- f/fd/- d z |"E"z>d- d>d- dd d/dd/- |"F#" dzz2z2zB | %15
+w: and your sweet and pret- ty face. _|In such an ug- * ly way _|Some- _ thing _ so beau- ti- ful|_ Now|
+w: ||||
+"B" cddc"F#7/A#" d/ed/- d2 ||"^Chorus""E" z2 c>B- BB c>B- |"B" B>B c>B-"F#/A#" B/BB/ cB | %18
+w: ev'- ry- time I look in- side _|I know * that she knows|_ that I'm not _ fond of ask- ing|
+w: |||
+"E" z2 cc B>c- c/cB/- |"B" B2 cc"F#/A#" B>B c>B- |"E" B z c>B- BB c>G- | %21
+w: True or false it * may be,|* she's still out to get me|_ I know * that she knows|
+w: |||
+"B" G>B c>B-"F#/A#" B/BB/ cB |"E" z2 cc B>f- f/ff/- |1"B" f2 dd"F#/A#" d>d f>d- |"E" d2 z2 z4 | %25
+w: _ that I'm not _ fond of ask- ing|True or false it * may be,|* she's still out to get me|_|
+w: ||||
+ z8 :|2"B" f2 dd"F#/A#" d>d a>f- ||"G#m" f2 z2"G#m/A#" z4 ||"G#m/B" z4"G#m/C#" z4 |"E" z8 |"E" z8 | %31
+w: |* she's still out to get me|_||||
+w: ||||||
+"G#m" z4"G#m/A#" z4 |"G#m/B" z4"G#m/C#" z4 |"E" z8 |"E" z8 ||"G#sus4" z2 gz/f/- fz/d/- d/dd/- | %36
+w: ||||How could _ this _ be done|
+w: |||||
+"E" dz/G/ g/gf/- f/dd/- d(d |"F#" d)zz2z2zc |"B" c2 c>c-"F#7/A#" cz/c/- c/z/c | %39
+w: _ by such a smi- * ling sweet- _ heart|_ You're|so na- ive _ yet _ so|
+w: |||
+"G#sus4" z2 g/gf/- f/fd/- d z |"E"z>d- d>d- dd d/dd/- |"F#" dzz2z2zc |"B" dddc"F#7/A#" d/ed/- d2 || %43
+w: such an ug- * ly thing _|Some- _ one _ so beau- ti- ful|_ And|ev'- ry- time I look in- side _|
+w: ||||
+"^Chorus""E" z2 c>B- BB c>B- |"B" B>B c>B-"F#/A#" B/BB/ cB |"E" z2 cc B>c- c/cB/- | %46
+w: I know * that she knows|_ that I'm not _ fond of ask- ing|True or false it * may be,|
+w: |||
+"B" B2 cc"F#/A#" B>B c>B- |"E" B z c>B- BB c>G- |"B" G>B c>B-"F#/A#" B/BB/ cB | %49
+w: * she's still out to get me|_ I know * that she knows|_ that I'm not _ fond of ask- ing|
+w: |||
+"E" z2 cc B>f- f/ff/- |"B" f2 dd"F#/A#" d>d a>(f- ||"^Outro""E" fe/d/- d) z"D#m" z4 | %52
+w: True or false it * may be,|* she's still out to get me|_ _ _ _|
+w: |||
+"G#m" z2 BB"B" Bc/d/- d2 |"E" z4"D#m" z4 |"G#m" z2 BB"B" Bc/d/- d2 |:"E" g2 f2"D#m" d>f- fc | %56
+w: just don't let me down *||just don't let me down *|Hold on to your _ kite,|
+w: ||||
+"G#m" z2 dd"B" de/d/- d2 :| %57
+w: just don't let me down *|
+w: |
+

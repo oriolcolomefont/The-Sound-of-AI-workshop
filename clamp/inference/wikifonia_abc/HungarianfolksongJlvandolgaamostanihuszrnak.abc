@@ -1,0 +1,14 @@
+X:1
+T:Jól van dolga a mostani huszárnak
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ AEAE ccBA | ^G B3 E2 z2 :| c2 c2 d2 d2 | ccBB AA G2 | AAFF EE D2 | EEAA ccdc | B A3 A2 z2 |] %7
+w: Jól van dol- ga a mos- ta- ni|hu- szár- nak,|Mert a szé- na|por- ci- ó- ba van köt- ve,|van köt- ve, de van köt- ve,|Gye- re, ró- zsám, tedd a lo- vam|e- lé- be.|
+w: Nem kell szé- nát ka- szál- jon a|lo- vá- nak,||||||
+

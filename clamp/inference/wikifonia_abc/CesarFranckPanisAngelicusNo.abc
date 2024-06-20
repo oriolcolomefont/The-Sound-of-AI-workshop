@@ -1,0 +1,42 @@
+X:1
+T:Panis Angelicus, No. 5
+T:Panis Angelicus
+C:Cesar Franck
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" F4"F+" F2 F2 |"Dm/F" E>D D4"D/F#" d2 |"Gm" c2 BA G2"G9" A2 |"F/C" F4"Am/C" EAcA | %4
+w: ||||
+"F/C" F2"C7" ED"F/C" C2 F2 |"C" G4- GA"C7"BG |"F/C" F2"C7" ED"F/C" C2 FA |"C7" G4- GcdB | %8
+w: ||||
+"A7/C#" A4-"Dm7" AAcA |"Gm/Bb" G4-"Gm7" GABD |"F/C" F2 ED C2 FA |"C7" G3 F"F" F2 z2 || %12
+w: ||||
+"C7" A4 A2"F" G2 | G>F F2 z4 | A4"C7" A2 G2 |"F" G>F F2 z4 |"Bb/F" d4 d2"F" c2 | %17
+w: Pa- nis An-|gel- i- cus|Fit pa- nis|ho- mi- num|Dat pa- nis|
+"Bb/D" B3 B B2"F/C" A2 |"C7/Bb" G3 G G2"F/A" F2 |"C/G""Dm7""C7" c8 |"F" A4"C7" A2 G2 | %21
+w: coe- li- cus Fi-|gu- ris ter- mi-|num|O- res mi-|
+"F" G>F F2 z4 |"Am/E" c4"E7" c2 =B2 |"Ebdim7" =B>A A4 z2 |"G9" A4"G7/D" G2 z2 |"C" c4 G2 z2 | %26
+w: ra- bi- lis|man- du- cat|Do- mi- num,|Pau- per,|pau- per|
+"G7" d2 FG A3 F |"E7/G#" E4 z4 |"Am" A4 E2 z2 |"A7" B3 G"Dm" F2 z2 |"G7" =B2 cd"F/C" A3"G7" B | %31
+w: ser- vus et hu- mi-|lis|Pau- per,|pau- * per|Ser- vus et hu- mi-|
+"C" c4 z EGc |"G" =B2 cd"A7/G" A2"G/F" B2 |"C/E" c2 de"G7/D" =B2"C" c2 | %34
+w: lis. * * *|||
+"G7" d2 ef"Am7/G" e2"G7" d2 |"E7" c4-"D#dim" c2"C7/E" _B2 |"F" A4"C7" A2 G2 |"F" G>F F2"C7" z4 | %38
+w: ||Pa- nis An-|gel- i- cus|
+"F" A4"C7" A2 G2 |"F" G>F F2"F7" z4 |"Bb" d4 d2"F/A" c2 |"Gm7" B3 B B2"F" A2 | %42
+w: Fit pa- nis|ho- mi- num|Dat pa- nis|coe- li- cus Fi-|
+"Gm7/Bb" G3 G G2"Bm7b5" F2 |"C7" c4"F" z4 |"C7" c4"Gm7/C" B2 A2 |"C7" A>G G2"Gm7/C" z4 | %46
+w: gu- ris ter- mi-|num|O- res mi-|ra- bi- lis|
+"C7" c4"Gm7/C" d2 B2 |"C7" A>G"Gm7/C" G2 z4 |"C7/Bb" c4-"F/A" cAGF |"C7/E" B3 G"F" A2 A2- | %50
+w: man- du- cat|Dom- i- num|Pau- * * per, *|pau- * per ser-|
+"Gm9/C" A2 GF"C7" G3 A |"F" F4"F/C" z4 |"D7/C" d4-"Gm/Bb" dBAG |"D7/F#" c3 A"Gm" B2 B2- | %54
+w: * vus et hu- mi-|lis|Pau- * * per *|pau- * per ser-|
+"C7" B2 GB"F/C" A2 GF |"C" G4-"C7" G3 F |"F" F4"C" C2"Bb/D" B,2- | %57
+w: * vus * ser- vus et|hu- * mi-|lis * *|
+"Dbdim7" B,2"C7" G,B,"F" A,2"F/A" G,F, |"Gm7/Bb" G,4-"C7" G,3 F, |"F" F,4 A,2 C2 | F2 z2 z4 |] %61
+w: ||||
+

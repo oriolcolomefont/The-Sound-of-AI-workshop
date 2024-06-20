@@ -1,0 +1,43 @@
+X:1
+T:Hallelujah!  I'm a Bum
+T:Hallelujah -- I'm a Bum
+T:traditional American hobo song - origin uncertain 
+T:Amsco Music Sales Co., N.Y.C. 1933
+C:traditional American hobo song
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: C |"F" F F F | F2 G/G/ | A A A | A2 (F/A/) | c c c |"Bb" d"F" (c A) |"C7" G G G | G2 || %9
+w: 1.~Re-|joice and be|glad, For the|spring- time has|come. We can|throw down our|shov- els and|go on the|bum.|
+w: 2.~The~|spring- time has|come, And I'm|just out of|jail, With _|out a- ny|mon- ey, with-|out a- ny|bail.|
+w: 3.~I~|went to a|house, And I|rapped on the|door. And the|la- dy says,|"Bum, bum, you've|been here be-|fore!"|
+w: 4.~I|like _ Jim|Hill, He's a|good friend of|mine, That is|why I am|hik- ing down|Jim Hill's main|line.|
+w: 5.~I|went to a|house, And I|asked for some|bread, And the|la- dy says,|"Bum, bum, the|ba- ker is|dead."|
+w: 6.~Oh,|why don't you|work, Like _|o- ther men|do? Now _|how can I|work, when there's|no work to|do?|
+w: 7.~So|why don't you|save All the|mo- ney you|earn? If _|I did- n't|eat I'd have|mo- ney to|burn.|
+w: 8.~Well,|I don't like|work, And _|work don't like|me. And _|that is the|rea- son I|am so hun-|gry.|
+"^CHORUS:" c/>c/ |"Bb" d"F" c A/>G/ | F2 c/>c/ |"Bb" d"F" c A/>A/ |"C7" G2 c/>c/ | %14
+w: Hal- le-|lu- jah, I'm a|bum! Hal- le-|lu- jah, bum a-|gain. Hal- le-|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"Bb" d"F" c (3A/A/G/ | F F A/A/ |"C7" B A G |"F" !fermata!F2 :| %18
+w: lu- jah, give us a|hand- out to re-|vive us a-|gain.|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

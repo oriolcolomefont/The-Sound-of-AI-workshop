@@ -1,0 +1,35 @@
+X:1
+T:Mandy
+T:Mandy
+T:Scott English and Richard Kerr
+T:Rock
+C:Scott English, Richard Kerr
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" GAcA e2 G2 | G8 | GAcA e2 G2 | G8 |S"Dm" feed d3 A |1"F" f2 ef e2 d2 |"Bb" feee d3 G | %7
+w: I re- mem- ber all my|life|rain- ing down as cold as|ice|shad- ows of a man a|face through the win- dow|cry- ing in the night the|
+w: Morn- ings just an- oth- er|day|hap- py peo- ple pass my|way|Look- ing in their eyes I|||
+"G7" f2 g2 e3 d :|2 f2 e2 e2 dA ||"Bb" fgfe d3 G |"G7" fe d2 fg e2 |"C" d2 c2 z z Ge | %12
+w: night goes in- to|see a mem- ry I|nev- er re- a- lized how|hap- py you made me Oh|Man- dy well you|
+w: |up- hill climb- ing the|tears are in my mind and|both- ing is rhym- ing *||
+"Am" dc e2"F" dc e2 |"G" d2 G4 GG | fefe d2 e2!dacoda! |"C" d2"^Chorus" c2 z2 Ge | %16
+w: came and you gave with- out|tak- ing but I|sent you a- way * Oh|Man- dy well you|
+w: ||||
+"Am" dc e2"F" dc e2 |"G" dB G2 z2 GG | fefe d2 e2 |1"C" d2 c6 | z2 z2 z2 G2 :|2"Am" d2 c6 || z8 | %23
+w: kissed me and stopped me from|shak- ing * and I|need you ro- day * Oh|Man- dy|I"m|Man- dy||
+w: ||* * * D.S.al * *|||||
+"Dm" feed d3 A | f2 e2 e2 dA |"Bb" fgfe d3 G |"G" fe d2 fg e2!D.S.! |:O"C" d2 c2 G2 e2 | %28
+w: yes- ter- days a dream I|face the morn- ing *|cry- ing on a breeze the|pain is call- ing * Oh|Man- dy well you|
+w: |||||
+"Am" dc e2"F" dc e2 |"G" d2 G2 G2 G2 | fefe d2 e2 |"C" d2 c2 G2 e2 |"Am" dc c2"F" dc c2 | %33
+w: came and you gave with- out|tak- ing but I|sent you a- way * Oh|Man- dy well you|kissed me and stopped me from|
+w: |||||
+"D" d2 d2 z2 GG | fefe d2 e2 :| %35
+w: shak- ing and I|need you to- day * Oh|
+w: ||
+

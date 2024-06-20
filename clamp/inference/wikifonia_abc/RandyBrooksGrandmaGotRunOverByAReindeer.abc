@@ -1,0 +1,25 @@
+X:1
+T:Grandma Got Run Over By A Reindeer
+T:Grandma got run over by a Reindeer!
+T:Randy Brook
+C:Randy Brooks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" C"^chorus:"EEE EEDC | G2 E6 | EEEG FEDE |"F" F6 z2 | AAAA AAGF |"C" G2 E2 z2 E2 | %6
+w: Grand- ma got run o- ver by a|rein- deer|walk- ing home from our house Christ- mas|Eve|You can say there's no such thing as|San- ta but|
+w: ||||||
+"G" DDEF EDCB, |"C" C8 ||"^verse:" z2"C" EE EEDC |"G" C2 B,6 | z2 DE FDCD |"C" E8 | z CCC EEGG | %13
+w: as for me and Grand- pa we be-|lieve|She'd been drink- ing too much|egg- nog|and we begged her not to|go|but she for- got her med- i-|
+w: ||Now we're all so proud of|Grand pa|He's been tak- ing this so|well|see him in there watch- ing foot-|
+"F" A2 F2 z2"G" FE | DDEF EDCB, |"C" C8 |"Am" z2 EE EEDC |"Em" C2 B,6 |"G" z2 DE FDCD |"C" E8 | %20
+w: ca- tion and she|stag- gered out the door in- to the|snow.|When we found her Christ- mas|morn ing|at the scene of the at-|tack|
+w: * ball Drink- ing|beer and play- ing cards with cous- in|Mel|Its not Christ- mas with- out|Grand- ma|all the fam- 'lys dressed in|black,|
+ z2 CC EEGG |"F" A2 F2 z2 FE |"G" DDEF EDCB, |"C" C2 z2 z4 |] %24
+w: she had hoof- prints on her|fore- head and in-|crim- i- nat- ing Claus marks on her|back!|
+w: and we just can't help but|won- der should we|op- en up her gifts or send them|back!|
+

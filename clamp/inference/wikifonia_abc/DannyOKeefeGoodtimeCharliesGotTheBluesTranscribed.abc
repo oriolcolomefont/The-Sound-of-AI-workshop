@@ -1,0 +1,36 @@
+X:1
+T:Goodtime Charlie's Got The Blues (Transcribed)
+C:Danny O'Keefe
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Melody 1" snm="Melody 1"
+%%MIDI channel 5
+%%MIDI program 73
+V:1
+"G " z f z e z d (3Bcd | Gf z e z d (3Bcd | Gf z e z d (3Bcd | Gf z e z d (3Bcd | G2 BB d<c B/AA/ | %5
+w: ||||* Ev- 'ry- bo- dy's go- ne a\-|
+ B8 | z2 AB c/B/ A2 G |"C6" A3 B/A/"C " G4 |"Cmaj7" z c cB cB AG |"D7" A8 | z2 Bd B/A/G EG | %11
+w: way,|said they're mo- vin' to L.|A.... * * *|There's not a soul I know a\-|round,|ev- 'ry bo- \- dy's lea- vin'|
+"G " G8 | z B BB dB AG | B8 | z2 BB cB BG |"C6" A2- (3A3/2B/A"C " G4 |"Cmaj7" z B cB cB AG | %17
+w: town.|Some caught a freight, some caught a|plane.|Find the sun- shine, leave the|rain... * * * *|They said this town 'll waste your|
+"D7" A8 | z3/2 G/ Bd B/A/G EG |"G " G8 | z2 (3Bcd ed (3dcB | %21
+w: time,|I guess they're ri- ght it's was- tin'|mine.|Some got- ta wi- n, some got- ta|
+"Cmaj7" B2- (3B3/2c/B"C6" AB/A/"C " G2 |"D7" z2 A<B AG ED |"G " G8 |"D7" z2 B<B AG EG |"G " G8 | %26
+w: lose... * * * * * * *|Good- time Char- lie's got the|blues,|Good- time Char- lie's got the|blues.|
+ z2 z d ed (3BAG |"D7" F4 z2 z d |"D9" ed ed Bd B/A/G/A/ |"G " G4 z4 | z3/2 G/ BB dB AG | B8 | %32
+w: ||||Ya' know my heart keeps tel- lin'|me|
+ z3/2 G/ _B=B cB AG |"C6" A3 B/A/"C " G4 |"Cmaj7" z3/2 B/ cB cB AG |"D7" A8 | z3/2 G/ Bd B/A/G EG | %37
+w: you're not a kid at thir- ty|three... * * *|You play a\- round you'll lose your|wife,|you play too lo- ng you'll lose your|
+"G " G8 | z3/2 B/ B<B dB AG | B8 | z A BB cd AG |"C6" A3 B/A/"C " G4 |"Cmaj7" z3/2 B/ cB cB AG | %43
+w: life.|I got my pills to ease the|pain,|can't find a thing to ease the|rain... * * *|I'd love to try and set- tle|
+"D7" A8 | z3/2 G/ Bd B/A/G EG |"G " G8 | z2 (3Bcd ed (3dcB | %47
+w: down|but ev- 'ry b\- o\- dy's lea- vin'|town.|Some got- ta wi- n some got- ta|
+"Cmaj7" B2- (3B3/2c/B"C6" AB/A/"C " G2 |"D7" z2 B<B AG ED |"G " G8 |"D7" z2 B<B AG ED |"G " G8 | %52
+w: lose... * * * * * * *|Good- time Char- lie's got the|blues.|Good- time Char- lie's got the|blues.|
+"D7" z2 B<B dd B/A/G |"G " G8 | z8 | d4 z e (3BAG | B4 z2 z G | d4 z e (3BAG | B4 z2 z G | %59
+w: Good- time Char- lie's go- t the|blues.||||||
+ d4 z e (3BAG | B4 z2 z A | G8 |] %62
+w: |||
+

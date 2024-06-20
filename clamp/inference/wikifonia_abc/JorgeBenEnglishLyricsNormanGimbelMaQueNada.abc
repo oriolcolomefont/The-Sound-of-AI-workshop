@@ -1,0 +1,37 @@
+X:1
+T:Ma Que Nada
+T:Ma Que Nada
+T:Jorge Ben
+C:Jorge Ben
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Am" A8- | A8- | A4 c2 e2 |"D7" d4- d c2 A- |"Am" A6 z2 | A4 A4!D.S.!O ||1 A8- | A4 z4 :|2 A8 || %9
+w: 1.~Ooo|_|* when Your|eyes _ met mine|_|Pow Pow|Pow|_||
+w: 2.~Ooo|_|* I could|lose _ my mind|_|Ow Ow|||Ow|
+"Em7" G4- G F2 E- |"Am" E A3 GGGF |"G7" GAGF"Em7" G F2 E- |"Am" E A3- A G2 F | %13
+w: Its _ a feel|_ ing that be gins to|grow an grow an grow in side|_ me _ till I|
+w: _ _ _ _||||
+"G7" G2 GF"Em7" GFGE- |"Am" E3 E D2 C2 |"E7" E2 E^G- G G2 A- |"Am" A8- | A2 z A- A B2 c- | %18
+w: feel like I'm gon na ex plode|_ Oh, this is|what you do _ to me!|_|* Are _ your lips|
+w: |||||
+ c3 A- A d2 B- |"G7" BBBG"Em7" E G2 A- |"Am" A8- | A2 AA AAee |"Dm7" e3 d- d2"G7" B2- | %23
+w: _ say _ ing things|_ that you feel in your heart?|_|* If your heart is beat ing|mad ly _ Then|
+w: |||||
+ B G2 G"Em7" E G2 A- |"Am" A8 |"G7" G4- G F2 E- |"Am" E A3- A3 E |"G7" GFGF GFGF |"Am" E A3- A3 E | %29
+w: _ let the mus ic start.|_|Hold _ me, hold|_ me! _ It's|heav en ooo it's heav en when you|hold me; _ I|
+w: ||||||
+"G7" G3 F G3 F |"Am" E4 D2 C2 |"E7" E2 E^G- G G2 A- |"Am" A8- | A4 z4!D.C.! ||"Am"O A8- | %35
+w: want you night and|day. Ooo I|want you here _ to stay.|_||Ow!|
+w: ||||||
+ A2 z2 z4 |] %36
+w: _|
+w: |
+

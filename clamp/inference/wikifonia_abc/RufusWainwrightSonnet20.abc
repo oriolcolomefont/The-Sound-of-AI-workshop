@@ -1,0 +1,16 @@
+X:1
+T:Sonnet 20
+T:Sonnet 20
+T:Rufus Wainwright
+C:Rufus Wainwright
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" z4 |"Eb" z4 |:"Eb" z4 |"Bb" z4 |"Cm" z4 |"Gm" z4 |"Fm" z4 |"Eb" z4 |"Ab" z4 |"Bb7" z4 | %10
+"Bb7" z4 :|"Eb" z4 |"Bbm" z4 |"C" z4 |"B" z4 |"Eb" z4 |"Bbm" z4 |"C" z4 |"B" z4 |"B" z4 |"Bb" z4 | %21
+"Bb" z4 |"Eb" z4 |"Bb" z4 |"Cm" z4 |"Gm" z4 |"Gm" z4 |] %27
+

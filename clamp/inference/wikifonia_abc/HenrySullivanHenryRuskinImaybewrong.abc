@@ -1,0 +1,24 @@
+X:1
+T:I may be wrong
+T:I may be wrong
+T:Harry Ruskin
+T:Henry Sullivan
+C:Henry Sullivan
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" z c c c | c2"F7" c2 |"Bb" z c c c |"Bbm" c3/2 _B/ _B2 |"F" z A A A |"G7" A2 A2 |"C7" z G G F | %7
+w: I may be|wrong, but|I think you'e|won- der- ful|I may be|wrong but|I think you're|
+"F" F4 | z c c c | c2"F7" c2 |"Bb" z c c c |"Bbm" c3/2 _B/ _B2 |"F" z A A A |"G7" A2 A2 | %14
+w: swell|I like your|style say|I think its|mar- vel- ous|I'm al- ways|wrong so|
+"C7" z G G F |"F" F4 |"Gm7" G/G/ F"C7" E/F/ G |"F" A A3 |"Gm7" _B/_B/ A"C7" G/A/ _B |"E7" B4 | %20
+w: how can I|tell?|all of my shirts are un-|sight- ly|all of my ties are a|crime|
+"Am" c/c/ B A/B/ c |"Dm" d d3 |"G7" d e/g/ g/e/ d |"C" c4 |"C7" z"F" c c c | c2"F7" c2 | %26
+w: if dear in you I've picked|right- ly|its the ve * ry first|time|you came a-|long say|
+"Bb" z c c c |"Bbm" c3/2 _B/ _B2 |"F" z A A A |"G7" A2 d2 |"C7" z G G F |"F" F3 z |] %32
+w: I think you're|won- der- ful|I think you're|grand but|I may be|wrong|
+

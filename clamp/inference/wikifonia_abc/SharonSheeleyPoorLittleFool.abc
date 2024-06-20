@@ -1,0 +1,53 @@
+X:1
+T:Poor Little Fool
+T:Poor Little Fool
+T:Sharon Sheeley
+T:©
+C:Sharon Sheeley
+Z:All Rights Reserved
+L:1/8
+Q:1/4=135
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" c2 gg- ga g2 |"Am" A2 ee- eg e2 |"F" F2 cc- cd c2 |"G7" G2 dd- de E2 |:"C" G2 G2 G2 G2 | %5
+w: |||* * * * 1) I|used to play a-|
+w: |||* * * * 2) _|played a- round and|
+w: |||* * * * 3) _|told me how she|
+w: |||* * * * 4) _|next day she was|
+w: |||* * * * 5) _|played this game with|
+"Am" A2 A2 A2 G2 |"F" F2 F2- F2 FF |"G7" G4- G2 E2 |"C" G2 G2 G2 G2 |"Am" A2 AA- A3 G | %10
+w: round with hearts and|has- ten * at my|call, _ but|when I met that|lit- tle girl _ I|
+w: teased me with her|care- free * de- vil|eyes _ She'd|hold me close and|kiss me * but her|
+w: cared for me and|that we'd * ne- ver|part. _ And|so for the very|first time * * I|
+w: gone and I _|knew she'd * lied to|me. _ She|left me with a|brok- en heart _ and|
+w: oth- er hearts, but-|ne- ver * thought I'd|see _ the|day- when some- one|else would play _ those|
+"F" F2 F2 F2 F2 |"G7" G4 G2 ED |"C" C4- C2 c2 |"Am" c A3- A4 |"F" z2 D2- D2 FA |"G7" G4- G2 E2 | %16
+w: knew that I would|fall. Poor lit- tle|fool _ oh|yeah, _ _|I _ was a|fool _ uh-|
+w: heart was full of|lies * * *|||||
+w: gave a- way my|heart. * * *|||||
+w: won her vic- tor-|y * * *|||||
+w: fool- ish games with|me. * * *|||||
+"C" C2 cG EcGE |"Am" cAEc- cA E2 |"F" F2 cA FcAF |1,2,3,4"G7" dBGd- d2 E2 :|5"G7" dBGd- dGED || %21
+w: huh. * * * * * *|||* * * * 1) She|* * * * * Poor lit- tle|
+w: |||* * * * 2) She||
+w: |||* * * * 3) The||
+w: |||* * * * 4) I've||
+w: |||||
+"C" C4- C2 c2 |"Am" c A3- A4 |"F" z2 A2- A2 GA |"G7" G4- G2 E2 |"C" C2 cG EcGE |"F" cAFc- cA F2 | %27
+w: fool, _ Oh|yeah, _ _|I _ was a|fool, _ uh-|huh * * * * * *||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+"C" C2 GE CGEC | G2"G7" B,2"C" C4 |] %29
+w: ||
+w: ||
+w: ||
+w: ||
+w: ||
+

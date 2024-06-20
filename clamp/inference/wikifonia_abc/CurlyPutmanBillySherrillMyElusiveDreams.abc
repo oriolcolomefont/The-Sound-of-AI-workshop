@@ -1,0 +1,23 @@
+X:1
+T:My Elusive Dreams
+T:My elusive dreams
+T:Curly Putman and Billy Sherrill
+C:Curly Putman, Billy Sherrill
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"^Verse" z2 z D |:"G" D D3 D3 D |"C" E G3 z2 z E |"D7" D F3 A3 B |"G" c B3 z3 D | D D3 D3 D | %6
+w: You|fol- lowed me to|Tex- as you|fol- lowed me to|U- tah We|did- n't find it|
+"C" E6 GF |"D7" ED- D6 | z6 DD |"G" D D3 D3 D |"C" E2 F2 G4 |"D7" z2 DF A3 B |"G" c2 B2 B3 D | %13
+w: there so we|moved * on|Then you|went with me to|Al- a- bam|things looked good in|Bir- ming- ham we|
+ D D3 z2 DG |"C" E4 z EFG |"D7" A8 |"^Chorus" z2 D2 G2 B2 |"G" d6 d2 |"C" e2 d2 c4 | %19
+w: did- n't find it|there so we moved|on|I know your|tired of|fol- low- ing|
+"D7" z2 AB c3 d |"G" c3 B BA G2 |"C" z2 cc B3 A |"G" B3 A G4 |"D7" z3 A A G2 F |1"G" G8 | %25
+w: my e- lu- sive|dreams and schemes * *|for they're on- ly|fleet- ing things|my e- lu- sive|dreams|
+ z4 z2 z D :|2"G" G8 |] %27
+w: you|dreams.|
+

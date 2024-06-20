@@ -1,0 +1,22 @@
+X:1
+T:Hello Hello Who's Your Lady Friend?
+T:Hello hello who's your lady friend?
+T:Harry Fragson
+T:Worton David, Bert Lee
+C:Harry Fragson
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z F |"D" A3 F | A4 |"A7" GF EF | G4 | GF E^D | E^D E=F |"D" ^F4- | ^F4 |"F#" F2 F2 | F4 | %11
+w: Hel-|lo hel-|lo|whos your la- dy|friend?|whos the lit- tle|gir- lie by your|side?||I've seen|you|
+"Bm" DC DE | F4 |"E7" E2 =F2 | ^F2 ^G2 |"A7" BA =GE | C3 F |"D" A3 F | A4 |"A7" GF EF | G4 | %21
+w: with a girl or|two|Oh oh|oh I|am sur- prised at|you hel-|lo hel-|lo|stop your lit- tle|games|
+ GF E^D | E^D E=F |"D" ^F4- | F3 F | F/F/F ^EF |"D" GF ^EF |"Em" B4 | E4 |"A" A2 A2 |"A7" AG EF | %31
+w: dont you think your|ways you ought to|mend?|* It|is- nt the girl I|saw you with at|Brigh-|ton|who who|whos your lad- y|
+"D" D4- | D3 z |] %33
+w: friend.||
+

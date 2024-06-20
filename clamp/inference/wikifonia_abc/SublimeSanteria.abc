@@ -1,0 +1,21 @@
+X:1
+T:Santeria
+T:Santeria
+T:Sublime
+C:Sublime
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:E
+V:1 treble nm="Piano" snm="Pno"
+%%MIDI program 0
+V:1
+ z4 z2 z e/e/ |"^EE" eeed fede |"Abm" dddc e d2 z/ d/ |"Dbm" ccGG ccGc |"^BB" B z z2 eBgf | %5
+"^EE" eeedf ede |"Abm" dddce d-d/ z B/- |"Dbm" B/c/ cGG ccG"^BB"c | B z z eeBg"^AA" e | %9
+ c z z"^BB" edcB c/"^EE" B/- | B3/2- B/ z"Dbm" G/Bc z/ z2 |"^AA" z2 z e"^BB"dcd e/"^EE"e/- | %12
+ e/-e z/ G2"Dbm" F2 E- E/ z/ |"^AA" C-C g2"^BB" fee"^EE" f/ z/ | %14
+"^EE/Eb/E" ge"Dbm"e f/e-"^BB"e/ c2 z |]"^AA" z2 z gfee f/ e/- |"^EE" e3/2 z/ z2 z2 z e/e/ | %17
+"^EE" eeed fede |"Abm" dddc e d2 z/ d/ |"Dbm" ccGG ccGc |"^BB" B z z2 eBgf |"^EE" eeedf ede | %22
+"Abm" dddce d-d/ z B/- |"Dbm" c/-c/ cGG"^BB" ccGc |"^AA" B z z e"^BB"eBg z/ f/ |"^EE" e8 |] %26
+

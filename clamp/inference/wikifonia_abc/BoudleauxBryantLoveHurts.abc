@@ -1,0 +1,38 @@
+X:1
+T:Love Hurts
+T:© 1960
+T:Love Hurts
+T:Boudleaux Bryant
+T:(transcribed from the Roy Orbison version)
+T:filed: 
+T:  
+C:Boudleaux Bryant
+Z:All Rights Reserved
+L:1/8
+Q:1/4=108
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Slowly" z8 | z4 z2 c2 |:"Bb" B6 c2 |"Gm" B6 c2 |"Eb" B6 d2 |"F" c4 (dfd)c |"Bb" B6 c2 | %7
+w: |Love|Hurts Love's|sore, Love|wounds and|mars a- * * ny|heart not|
+w: |(I)|know, I|know, but|ev- en|so, I _ know a|thing or|
+"Gm" B6 c2 |"Eb" B6 d2 |{d}"F" c3 F ffee |"Bb" d4"D" ddcc |"Eb" B4"D" ddcc |"Eb" B4 GGGG | %13
+w: touched or|strong in|love; You take a lot of|pain, take a lot of|pain; Love is like a|cloud... holds a lot of|
+w: two; I've|learned from|you; I real- ly learned a|lot, real- ly learned a|lot; Love is like a|stove... burns you when it's|
+"F" F6 G2 |"Bb" F8- | F4-"Db" F2"Eb" G2 |1"Bb" F8- | F4-"Bbmaj7" F2"F" c2 :|2"Bb" F8- || %19
+w: rain. Love|Hurts,|_ _ Love|Hurts.|_ _ I|Hurts.|
+w: hot. Love|Hurts,|_ _ Love||||
+ F4-"Bb7" F4 |"Eb" G2 A2 B3 G |"D" d3 c"Gm" B4 |"D" d3 c"Gm" B3 G |"D" d3 c"Gm" B4 | %24
+w: _ _|Some fool's reign of|hap- pi- ness,|bliss- full- ness, to-|geth- er- ness;|
+w: |||||
+"C7" G2 A2 B3 G | =e3 d c3 c | g2 g2 (f2 =e2) |"F" f3 F ffee |"Bb" d4"D" ddcc |"Eb" B4"D" ddcc | %30
+w: Some fools fool them-|selves, I guess, but|they won't fool _|me. You know it is- n't|true, know it is- n't|true, Love is just a|
+w: ||||||
+{c}"Eb" B4 GGGG |{G}"F" F6 G2 |:"Bb" F8- | F4-"Db" F2"Eb" G2"^Repeat and Fade" :| %34
+w: lie made to make you|blue, Love|Hurts|_ _ Love|
+w: ||||
+

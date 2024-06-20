@@ -1,0 +1,23 @@
+X:1
+T:My Buddy
+T:My Buddy
+T:Lyrics by: Gus Kahn
+T:Music by: Walter Donaldson
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Gmaj7" d2 B |"G#dim7" d2 B |"Am7" d B d |"D13" B2"D9" A |"G/B" G2 E |"Bbdim7" G2 E | %6
+w: Nights are|long since|you went a-|way, I|think a-|bout you|
+w: Miss your|voice, the|touch of your|hand Just|long to|know that|
+"Am7" G E G |"D7sus4" E2"D7" D |"G6" E G2- |"G" G z"F9" G |"E9" ^G B2- |"F9" B z"E7" B | %12
+w: all through the|day; My|Bud- dy.|_ My|Bud- dy,|_ No|
+w: you un- der-|stand, *||||* Your|
+"Am" c"Am9" e2 |1"A9" E2"D#7" G |"D7" (A3 |"D+7" _B3) :|2"D13" B"D9" B2 ||"Gmaj7" G3- | G2 z |] %19
+w: Bud- dy|quite so|true.|_||||
+w: ||||miss- es|you.|_|
+

@@ -1,0 +1,22 @@
+X:1
+T:Swanee
+T:Swanee
+T:George Gershwin,
+T:Irving Caesar
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" A4 | A4 | A G G F | A G G F |"Bb" G4 |"Gm" F2"C7" D2 |"F" C F3- | F G A _B | c4 |"A" ^c4 | %10
+w: Swan-|ee-|how I love you|How I love you|My|dear old|Swan- ee|* I;d give the|world|to|
+"Bb" d4 | z _B c ^c |"Gm" d4 |"C7" e4 |"F" f e d c | d c B _B |"F" A4 | A4 | A G G F | A G G F | %20
+w: be|A- mong the|folks|in|D. I X I|E ven now my|Mam-|mys|wait- ing for me|pray- ing for me|
+"Bb" G4 |"Gm7" F2"C7" D2 |"F" C F3- | F G A _B | c4 |"A" ^c4 |"Bb" e d ^c d- |"Gm" d3 ^d | %28
+w: down|by the|swan- ee|* the folks up|North|will|see me no more|* when|
+"C" e d c _B | A G2"F" F- | F4- | F3 z |] %32
+w: I go to the|Swan- ee shore|||
+

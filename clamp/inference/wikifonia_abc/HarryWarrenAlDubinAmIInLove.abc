@@ -1,0 +1,28 @@
+X:1
+T:Am I In Love?
+T:Am I In Love?
+T:Harry Warren
+T:Al Dubin
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z z/ B/ ||"G" D3 B |"Am7" A3"D9" B |"Gmaj7" D D"G6" D B |"Am7" A3"D9" B |"G" D D D"G6" E | %6
+w: Am|I in|love? Am|I the vic- tim|of the|thing that makes a|
+"Gmaj7" F F F"G" G |"Gmaj7" F3"G" G |"Gdim" E3 F |"D7" D E F"Am7" G |"D7" A B c d | %11
+w: ti- ger ten- der|as a|dove? There|must be some- thing|wrong with me I|
+"F7" c2"E7" B2- |"Dm6" B2"E7" z B |"A7" E F G A | B _B A _A |"Am7" G2"D7" F2 |"Am7" E3"D7" B | %17
+w: know it.|* I.m|fair- ly float- ing|while I'm quot- ing|po- et-|ry. Am|
+"G" D3 B |"Am7" A3"D9" B |"Gmaj7" D D"G6" D B |"Am7" A3"D9" B |"G" D D D"G6" E | %22
+w: I in|love? Am|I the vic- tim|of the|ma- gic of the|
+"Gmaj7" F F F"G6" G |"Bm7" A A A"G" B |"Dm7" d3"Fdim" e |"C6" d3 c |"Cm6" _E3 d | %27
+w: moon- light and a|mil- lion stars a-|bove? Am|I in|love? I|
+"D7" c"G" B"B7sus4" A"Em" B |"A7" A2 A"Cm6" B |"G" D D"Bm6" D"Bdim" B | %30
+w: on- ly wish I|knew, * But|if I am, then|
+"C6" A"Cm6" A"D7" A"D7b9" B |"G""Eb7" G4- |"G" G3 z |] %33
+w: I'm in love with|you.||
+

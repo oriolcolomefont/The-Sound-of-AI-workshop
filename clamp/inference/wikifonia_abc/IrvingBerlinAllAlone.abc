@@ -1,0 +1,22 @@
+X:1
+T:All Alone
+T:All Alone
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" FG A4- |"F/C" A2 G2 F2 |"C7" EF G4- | G2 F2 E2 |"F" F4- FA |"C+7" c4- cd |"Fmaj7" A6- | %7
+w: All a- lone,|_ I'm so|all a- lone.|_ There is|no- * one|else _ but|you.|
+"F6" A6 |"Em7b5" GA B4- |"A7" B2 A2 G2 |"Dm7" FG A4- |"G13" A2 G2 F2 |"A/E" E4- EA |"E7" ^G4- G=B | %14
+w: _|All a- lone,|_ by the|tel- e- phone|_ wait- ing|for _ a|ring, _ a|
+"Am7" A4- Ac |"Gm7" B4-"C7" Bd |"Cm7" cd _e4- |"F7" e2 d2 c2 |"Bb" B2 d4- |"Ab13" d6 |"G7" de f4- | %21
+w: ting- * a-|ling. _ I'm|all a- lone|_ ev- 'ry|eve- ning,|_|All a- lone,|
+ f2 e2 d2 |"C7" e6- |"C+7" e2 d2 c2 |"F" AG F4- |"Cm7" F4"F7" G2 |"Bbmaj7" AG F4- |"Eb7" F4 G2 | %28
+w: _ feel- ing|blue,|_ won- d'ring|where you are,|_ and|how you are|_ and|
+"F/C" AG E4 |"C7" GF E4 |1"F" F4"Dm7" z2 |"Gm7""C7b9" z6 :|2"F" F6- | F6 |] %34
+w: if you are|all a- lone|too.||||
+

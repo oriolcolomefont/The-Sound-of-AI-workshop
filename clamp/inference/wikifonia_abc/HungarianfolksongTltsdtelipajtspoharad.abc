@@ -1,0 +1,14 @@
+X:1
+T:Töltsd teli pajtás poharad
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ G2 GA G2 E2 | GF E2 GF E2 :: EEEF E2 D2 | CE G2 GAGF | E2 D2 CC C2 :| %5
+w: Töltsd te- li, paj- tás,|p- ha- rad, po- ha- rad,|Így jár a- ki min- dig|bort i- szik, míg a te- me-|tő- be nem vi- szik,-|
+w: Míg ki nem ű- zik|a fo- gad, a fo- gad,|Ha a te- me- tő- be|ki- vi- szik, is- ten- úgy- se,|több bort nem i- szik.-|
+

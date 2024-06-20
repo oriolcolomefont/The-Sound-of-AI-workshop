@@ -1,0 +1,27 @@
+X:1
+T:Play Me
+T:Play me
+T:Neil Diamond
+C:Neil  Diamond
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" d2 d | c B c | d2 d | c B c | d2 d | c B d | g2 d | d c B |"C" c/B/ G2 | z3 | z E c/B/ | G2 D | %12
+w: She was|morn- ing and|I was|night time I|one day|woke up to|find her|ly- in' be-|side my bed||I soft- ly|said come|
+"G" D B2- | B3 | z2 z | z z d ||S"G" d2 B | c B c | d d3/2 d/ | c B c | d G d/d/ | c B d | z g d | %23
+w: take me|_||For|I've been|lone- ly in|* need of|some- one *|* as though I'd|done some- one|wrong some-|
+ d/c/ B B/B/ |"C" c/B/ G2 | z z2 | z E c/B/ | G2 D |"G" D B2- | B3 |"C" E E/E/ G |"D" ^F F/F/ A | %32
+w: where * * but I|don't know where||I don't know|where come|late- ly|_|You are the sun,|I am the moon,|
+"C" G G/G/ c |"D7" ^F F/F/ A |"G" B/A/ G2- | G3!dacoda! | d2 d | c B c | d2 d | c B c | d2 d | %41
+w: you are the words,|I am the tune|Play * me|_|Song she|sang to me|song she|brang to me|words that|
+ c B d | g2 d | d c B |"C" c/B/ G2- | G3 | z E c/B/ | G2 D |"G" D B2- | B2 z |"C" E E/E/ G | %51
+w: rang in me|rhyme that|sprang from me|warmed the night|_|and what was|right be-|came me|_|You are the sun|
+"D" ^F F/F/ A |"C" G G/G/ c |"D7" ^F F/F/ A |"G" B/A/ G2 |"D" z3!D.S.! |:O E E/E/ G | %57
+w: I am the moon|you are the words|I am the tune,|play * me||you are the sun|
+"D" ^F F/F/ A |"C" G G/G/ c |"D7" ^F F/F/ A |"G" B/A/"^Repeat and fade" G2 | z3 :| %62
+w: I am the moon|you are the words|I am the tune|play * me.||
+

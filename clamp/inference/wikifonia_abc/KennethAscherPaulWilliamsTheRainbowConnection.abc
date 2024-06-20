@@ -1,0 +1,40 @@
+X:1
+T:The Rainbow Connection
+T:The Rainbow Connection
+C:Kenneth Ascher
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A" C E A |"F#m" B/>c/"F#m7" c2 |"Bm" D F A |"D/E" A"E" B3/2 B,/ |"A" C E"E/G#" G | %5
+w: Why are there|so man- y|songs a bout|rain- bows, and|what's on the|
+"F#m7" A2"A/E" E |"D9" F3- |"D/E" F2"Esus4" z |"A" C E A |"E/F" B/c/-"F#m7" c z/ C/ |"Bm" D F A | %11
+w: oth- er|side?|_|Rain- bows are|vi sions, _ but|on ly il-|
+"D/E" A"E" B3/2 B,/ |"A" C E"E/G#" G |"F#m7" A A"A/E" E |"D9" F3- |"D9/A" F2 z |"Dmaj7" F c F | %17
+w: lu- sions but|rain- bows have|noth- ing to|hide.|_|So we've been|
+ c F c | F c F | c F2 |"G#m/C#" G G G | B G E | G3- | G2 z |"Bm7" D F A |"E" G"D/E" A3/2 E/ | %26
+w: told, and some|choose to be-|lieve it.|I know we're|wrong; wait and|see.|_|Some- day we'll|find it, the|
+"C#m7" E G B |"E/F#" G"F#7" ^A3/2 C/ |"Bm7" D/F/- F =A |"E7sus4" c/c/- c"E7" B |"A" A3 | %31
+w: rain bow con|nec tion; the|lov- ers, _ the|dream- ers, _ and|me.|
+"E/G#" B3/2 A/ B |"F#m7" c3/2 B/ A |"A/E" E2 E |"D9" F3/2 G/ A |"A/C#" E3/2 G/ A |"D6/E" B3 | %37
+w: All of us|un- der it's|spell; we|know that it's|prob- a- bly|mag-|
+"Eb6/F" =c3- |"F9" c z"F" z ||[K:Bb]"Bb9" D F B |"F/G" c/d/"Gm7" d3/2 D/ |"Cm7" E F B | %42
+w: ic.|_|Have you been|half a- sleep and|have you heard|
+"Eb/F" B"F" c2 |"Bb" D F"F/A" A |"Gm7" B B"Bb/F" F |"Eb9" G3- |"Eb/F" G2"Fsus4" z |"Bb" D F B | %48
+w: voic- es?|I've heard them|call- ing my|name.|_|Is this the|
+"F/G" c/d/-"Gm7" d3/2 D/ |"Cm7" E F B |"Eb/F" B"F" c3/2 C/ |"Bb" D F"F/A" A |"^Gm8" B B F | %53
+w: sweet sound _ that|calls the young|sail- ors? The|voice might be|one and the|
+"Eb9" G3- |"Eb" G2 z |"Ebmaj7" G d G | d G d | G d G | d G3/2 G/ |"Am/D" A A A | c A F | A3- | %62
+w: same.|_|I've heard it|too man- y|times to ig-|nore it. It's|some- thing that|I'm s'posed to|be.|
+ A2 z |"Cm7" E G B |"F" A"Eb/F" B3/2 F/ |"Dm7" F A c |"F/G" A"G7" =B3/2 D/ |"Cm7" E/G/ G3/2 _B/ | %68
+w: _|Some- day we'll|find it, the|rain- bow con-|nec- tion; the|lov- ers _ the|
+"F7sus4" d/d/- d"F7" c |"Bb" B3 |"F/A" c3/2 B/ c |"Gm7" d3/2 c/ B |"Bb/F" F2 F | %73
+w: dream- ers, _ and|me.|La da da|dee da da|do la|
+"Eb9" G3/2 A/"Eb" B |"Fsus4" F B"F7" A |"Bb" B3- | B3 |] %77
+w: la da da|da de da|do.|_|
+

@@ -1,0 +1,23 @@
+X:1
+T:Mr Tambourine Man
+T:Mr Tambourine Man
+T:Bob Dylan
+C:Bob Dylan
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^Chorus:""F" c2 c B |"G" G F G A |"C" G A G E |"F" C2 C D |"C" E G G G |"F" A G F E | %6
+w: hey mis- ter|tam- bou- rine man|play a song for|me I'm not|sleep- y and there|is no place I'm|
+"G7" D D D2- | D4 |"F" c2 c B |"G7" G F G A |"C" G A G E |"F" C2 C D |"C" E A G E |"F" F E D C | %14
+w: go- ing to||hey mis- ter|tam- bour- ine man|play a song for|me in the|jin- gle jan- gle|morn- ing I'll come|
+"G7" D2 E D |"C" C2- C2 || z2"^Verse:" c c |"F" c c c B |"G7" A G2 E |"C" E A G E |"F" C4 | %21
+w: fol- low- ing|you *|though I|know that eve- nins|em- pire has|re- turned in- to|sand|
+"C" E A G E |"F" C2 C D |"C" E G G G |"F" A G F E |"G7" D D3- | D3 c |"F" c c c B |"G7" A F G A | %29
+w: van- ished from my|hand left me|blind- ly here to|stand but still not|sleep- in|* my|wea- ri- ness a-|maz- es me I'm|
+"C" G A G E |"F" C3 D |"C" E A G E |"F" C2 C D |"C" E A G G |"F" A G F E |"G7" D D3- | D4 |] %37
+w: brand- ed on my|feet I|have no one to|meet and the|an- cient emp- ty|steets too dead for|dream- in-||
+

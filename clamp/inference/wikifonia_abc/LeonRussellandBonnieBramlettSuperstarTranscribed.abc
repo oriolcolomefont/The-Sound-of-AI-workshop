@@ -1,0 +1,42 @@
+X:1
+T:Superstar (Transcribed)
+T:Superstar
+C:Leon Russell and Bonnie Bramlett
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Guitar (jazz)" snm="Gtr"
+%%MIDI program 26
+V:1
+"Emin" f3 e B4- | B4 z f ef |"C " gf e6 |"G " ed G6- |"A7" G4 z E FG |"D " A4"C " G4 | %6
+w: ||||||
+"Emin" E4"Bmin7" D4 |"Emin" E8- | E8 | f3 e B4- | B2 z e2 d e2 |"C " GG G6- |"G " G2 z2 e2 de | %13
+w: |||Long a\- go|* and oh so|far a\- way|* I fell in|
+"A7" GG G6- |"C " G2 z2 z E GA |"Bmin" Bd B6- | B6 z2 |"Emin" f3 e B4- | B2 z2 e d2 e | %19
+w: love with you|* be- fore the|se- cond show.||Your gui- tar,|* it sounds so|
+"C " GG G6- |"G " G2 z2 e d2 e |"A7" GG G6- |"C " G2 z2 z E GA |"Bmin7" Bd B6- |"B7" B6 z2 | %25
+w: sweet and clear|* but you're not|real- ly here.|* It's just the|ra- di- o.||
+"C " eg/g/ gg/g/"G " gf/f/"Amin7" ef |"G " ed- d6 |"C " eg/g/ gg"G " gf"Amin7" e/e/f | %28
+w: Don't you re- mem- ber you told me you loved me|ba- by. *|Said you'd be com- ing back this way a\- gain|
+"G " ed- d4 z2 |"C " e>g a>g"G " f>f"Amin7" e/e/f |"G " ed- d4 z G |"Fmaj7" (3BAG A6 | %32
+w: may- be. *|Ba- by, ba- by, ba- by, ba- by, oh,|ba- by, * I|lo- v\- e you,|
+"Cmaj7" B2 BA G4 |"Emin" f3 e B4- | B4 z f ef |"C " gf e6 |"G " ed G6- |"A7" G4 z E FG | %38
+w: I real- ly do.||||||
+"D " A4"C " G4 |"Emin" E4"Bmin7" D4 |"Emin" E8- | E8 | f3 e B4- | B2 z2 e2 de |"C " GG G6- | %45
+w: ||||Lone- li- ness|* is such a|sad af- fair|
+"G " G2 z2 e2 de |"A7" GA BA G4- |"C " G2 z2 z E GA |"Bmin" BA B6- | B6 z2 |"Emin" f3 e B4- | %51
+w: * and I can|hard- ly wa- i\- t|* to be with|you a\- gain.||What to say|
+ B2 z2 e2 de |"C " GG G6- |"G " G2 z2 e2 de |"A7" GG G6- |"C " G2 z2 z E GA |"Bmin7" Bd B6- | %57
+w: * to make you|come a\- gain.|* Come back to|me a\- gain|* and play your|sad gui- tar.|
+"B7" B6 z2 |"C " eg/g/ gg/g/"G " gf/f/"Amin7" ef |"G " ed- d6 |"C " eg/g/ gg"G " gf"Amin7" e/e/f | %61
+w: |Don't you re- mem- ber you told me you loved me|ba- by. *|Said you'd be com- ing back this way a\- gain|
+"G " ed- d4- d z |"C " e>g a>g"G " f>f"Amin7" e/e/f |"G " ed- d4- dG |"Fmaj7" (3BAG A6 | %65
+w: may- be. * *|Ba- by, ba- by, ba- by, ba- by, oh,|ba- by, * * I|lo- v\- e you,|
+"Cmaj7" B2 Bd B4 |"C " eg/g/ gg/g/"G " gf/f/"Amin7" ef |"G " ed- d6 | %68
+w: I real- ly do.|Don't you re- mem- ber you told me you loved me|ba- by. *|
+"C " eg/g/ gg"G " gf"Amin7" e/e/f |"G " ed- d4- d z |"C " e>g a>g"G " f>f"Amin7" e/e/f | %71
+w: Said you'd be com- ing back this way a\- gain|may- be. * *|Ba- by, ba- by, ba- by, ba- by, oh,|
+"G " ed- d4- dG |"Fmaj7" (3BAG A6 |"Cmaj7" B2 BA G4- |"G " G8 |] %75
+w: ba- by, * * I|lo- v\- e you,|I real- ly do.||
+

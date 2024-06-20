@@ -1,0 +1,20 @@
+X:1
+T:A bachelor gay (from "The Maid of the Mountains")
+T:a bachelor gay
+C:James William Tate
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ z4 z B,D^D |"G" E4- ED^CD |"E7" c2 B2 ^A2 BE |"A7" B2 A2 ^G2 A2 | E4- EE^DE |"Am7/D" G4- GF=F^F | %6
+w: At se- ven-|teen * he falls in|love quite mad- ly with|eyes of ten- der|blue * At twen- ty|four * he gets it|
+"D7" B2 A2 F2 ^CD |"G/B" F2 E^D"A#dim" F2 E2 |"D7/A" B,4- B,"D7"B,D^D |"G" E4- ED^CD | %10
+w: ra- ther bad- ly with|eyes of a diff'- rent|hue * At thir- ty|five * you'll find him|
+"E7" c2 B2 ^A2 BE |"C" B2 A2 ^G2 A2 |"C#dim" e6 GA |"G/D" B^ABd"D7" B=A"D#dim"BA | %14
+w: flirt- ing sad- ly with|two or three or|more When he|fan- cies he is past love it is|
+"Em7" GFGB"A7" FEFE |"G/D" DEGB"D7" edAB |"G" G8- | G8 |] %18
+w: then he meets his last love and he|loves her as he's nev- er loved be-|fore.||
+

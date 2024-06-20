@@ -1,0 +1,18 @@
+X:1
+T:Lotus Blossom
+C:Kenny Dorham
+Z:All Rights Reserved
+L:1/8
+Q:1/4=220
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Dm7" d2- d"C7"c- c2"Dm7" d z | z cdf dcAG |"Cm7" A2- A"F7"G- G2"Bbmaj7" A z | z GAc AGFD | %4
+"Bdim7" FDz"Bb7"G Dz_A"A7"D- | D2 F2 GFD"Dm7"D |1 z ^G,A,"C7"E z B,C"Em7b5"G | z EF"A7"c- c2 z2 :|2 %8
+ z8 || z B,CD _EFGA |"Am7b5" d4- d2 c_B- |"D7" B4- B2- A_B- |"Gm7" B8 | z8 |"Gm7b5" c4- c2 _BA- | %15
+"C7" A4- A2 GA- |"Fmaj7" A2 GF E2 D"Em7b5"E- | E2- E"A7"A z4 |"Dm7" d2- d"C7"c- c2"Dm7" d z | %19
+ z cdf dcAG |"C7" A2- A"F7"G- G2"Bbmaj7" A z | z GAc AGFD |"Bdim7" FDz"Bb7"G Dz_A"A7"D- | %23
+ D2 F2 GFD"Dm7"D | z8 | z8 |] %26
+

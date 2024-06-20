@@ -1,0 +1,29 @@
+X:1
+T:This I Swear
+C:Joseph Rock
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"C7" z4 z2 C2 |"F " c2- cd"Amin" c2- cA |"Bb " A2 G4-"C7" GC |"F " c2- cd"Amin" c2- cA | %4
+w: My|love * for you * will|la- st * till|time * it- self * is|
+"Bb " A2"C7" G6 |"F " z2 CC c2 A2 |"Bb " z2 GF GD- D2 |"Gmin7" G2- GA G2- GA |"C7" AG- G4 C2 | %9
+w: thro- ugh|Oh my dar- ling|Oh my dar- ling *|this * I swear * is|tr- ue. * My|
+"F " c2- cd"Amin" c2- cA |"Bb " A2 G4-"C7" GC |"F " c2- cd"Amin" c2- cA |"Bb " A2"C7" G6 | %13
+w: heart * is yours * my|de- ar. * There|will * be no * one|n\- ew.|
+"F " z2 CC c2 (3AGF |"Bb " A2 GF GD- D2 |"Gmin7" G2- GA G2- GG |"F " GF- F4"F7" (3FAc | %17
+w: Oh my dar- li- * *|ng Oh my dar- ling *|This * I swear * is|tr- ue. * I * *|
+"Bb " d2- dd"Bbmin6" ag- gf |"Amin7" ag- g4"C7" f2 |"Amin" e2- ee"Gmin7" e2 dc | %20
+w: pro- * mise you * * that|I * * will|ne- * ver make you *|
+"F7" _e4- e2 (3FAc |"Bb " d2- dd dc- cB |"Bbmin" _d4- d2"Gmin7" (3FAB |"Amin" c2- cc"G7" d2 cd | %24
+w: cry. * This love will|be * e\- ter- nal- * *|ly * cross my *|heart * and hope to *|
+"C7" e6 d2 |"F " c2- cd"Amin" c2- cA |"Bb " A2 G4-"C7" GC |"F " c2- cd"Amin" c2- cA | %28
+w: die. My|lips * will kiss * I|vow * * no-|bo- * dy else * but|
+"Bb " A2"C7" G6 |"F " z2 CC c2 (3AGF |"Bb " A2 GF GD- D2 |"Gmin7" G6 A2 |"C7" AG- G4 A2 | %33
+w: you. *|Oh my dar- li- * *|ng Oh My dar- ling *|this I|swe- ar * is|
+"F " AG"Bbmin" F6- |"F " F8 |] %35
+w: tr- * ue.||
+

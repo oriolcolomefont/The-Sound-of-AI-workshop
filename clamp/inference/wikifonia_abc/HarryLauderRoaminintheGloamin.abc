@@ -1,0 +1,39 @@
+X:1
+T:Roamin' in the Gloamin'
+T:Roamin' in the Gloamin'
+C:Harry Lauder
+Z:All Rights Reserved
+L:1/4
+Q:1/4=180
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" c c d c | A A G F | F F"Bb" G A |"C" C2 z2{C} |"C7" B3/2 c/ d B | c A G F | %6
+w: 1.I've seen lots o'|bon- nie las- sies|trav- 'lin far and|wide,|But my heart is|set right noo on|
+w: 2.One nicht in the|gloam- in' we were|trip- pin' side by|side|kissed her twice, and|asked her once if|
+w: 3.Last nicht ef- ter|stroll- in' we got|hame at half- past|nine|Sit- tin' at the|kit- chen fire I|
+"G" A/ G3/2 G3/2 A/ |"C" G3 c |"F" c c d c | A A G F | F F G A |"Bb" B2 z B |"G" G A =B c | %13
+w: bon- nie Kate Mc-|Bride _|And al- though I'm|no' a chap that|throws a word a-|way, *|I'm sur- prised my|
+w: she would be my|bride. _|She was shy, _|so was I _|we were baith the|same, But|I got brave and|
+w: asked her to be|mine. _|When she prom- ised,|I got up and|danced the Hie- lan|fling Ive|just been at the|
+ d =B A G |"G7" d3/2 ^c/ d e |"C" c2 z2 |"F""^CHORUS" d c2 A/A/ |"Bb" G F2 F/G/ | %18
+w: sel' some- times at|a' I've got to|say.|Roam- in' in the|gloam- in' on the|
+w: brav- er on the|jour- ney com- in'|hame.|||
+w: jew'l- lers and I've|picked a nice wee|ring.|||
+"F" A/ A3/2"Bb" F3/2 D/ |"C" C2"C7" z2 |"F" F F F F |"Dm" d c"G" =B c |"G7" d G G3/2 A/ | %23
+w: bon- nie banks o'|Clyde.|Roam- in' in the|gloam- in' wi' a|las- sie by my|
+w: |||||
+w: |||||
+"C" G2 z c/c/ |"F" d/ c3/2 c3/2 A/ |"F" F2 G A |"Bb" c =B _B G |"G7" D2 z2 |"C7" E E D C | %29
+w: side. When the|sun has gone to|rest, that's the|time that we love|best|O, it's love- ly|
+w: ||||||
+w: ||||||
+ E d c A |"C7" G4 |"F" F |] %32
+w: roam- in' in the|gloam-|in'.|
+w: |||
+w: |||
+

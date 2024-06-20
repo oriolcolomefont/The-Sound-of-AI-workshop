@@ -1,0 +1,36 @@
+X:1
+T:When Sunny Gets Blue
+T:When Sunny Gets Blue
+C:Marvin Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ z4 z2 z C |"Gm7" (3A2 G2 A2"C7sus4" C3"C7" C |"Bbm7" cBF_D"Eb9" c B3 | %3
+w: When|Sun- ny gets blue, her|eyes get gray and cloud- y.|
+"Fmaj7" z2 A/G/F/E/"Gm7" D2 G2 |"Am7""D9" E8 |"Bm7b5" D>FG>F"Bm7" _A>F"Eb9"G>F | %6
+w: Then the rain be- gins to|fall.|Pit- ter, pat- ter, pit- ter, pat- ter,|
+"Am7" D>FG>F"Abm7" _A>F"Db9"G>F |"Gm7" D>FG>F"C13" c3"Bb13" B/F/ |"A13""A7b13" A4-"D9" A3"D7b9" C | %9
+w: love is gone so what's the mat- ter?|No sweet lov- er man comes to|call. _ When|
+"Gm7" (3A2 G2 A2"C7sus4" C3"C7" C |"Bbm7" cBF_D"Eb9" c B3 |"Fmaj7" z2 A/G/F/E/"Gm7" D2 G2 | %12
+w: Sun- ny gets blue, she|breathes a sigh of sad- ness,|like the wind that stirs the|
+"Am7""D9" E8 |"Bm7b5" D>FG>F"Bbm7" _A>F"Eb9"G>F |"Am7" D>FG>F"Abm7" _A>F"Db9"G>F | %15
+w: trees.|Wind that sets the leaves to sway- in',|like some vi- o- lins are play- in'|
+"Gm7" D>FG>F"C13" c3"Bb13" (B/F/) |"Em7""A7b9" A8 |"Dmaj7" ^F>GF>G"Em7" A3 =B | %18
+w: weird and haunt- ing mel- o- *|dies.|Peo- ple used to love to|
+"F#m7" ^cA A2"B7b9" A^F F2 |"Em7" (3^F2 D2 E2"A9" F2"A7b9" G2 |"Dmaj7" A8 | %21
+w: hear her laugh, see her smile.|That's how she got her|name.|
+"Dm7" F>GF>G"G13" A3"G7b13" ^A |"Cmaj7" =BG G2"Am7" GE E2 |"Fmaj7" (3E2 C2 D2"Dm7" E2"G7b5" F2 | %24
+w: Since the sad af- fair, she's|lost her smile, changed her style.|Some- how she's not the|
+"Gm7" G4-"C9" G3 C |"Gm7" (3A2 G2 A2"C7sus4" C3"C7" C |"Bm7" cBF_D"Eb9" c B3 | %27
+w: same. _ But|mem- 'ries will fade, and|pret- ty dreams will rise up|
+"Fmaj7" z2 A/G/F/E/"Gm7" D2 G2 |"Am7""D9" E8 |"Bm7b5" D>FG>F"Bbm7" (3_AFG-"Eb9" G>F | %30
+w: where her oth- er dream fell|through.|Hur- ry new love, hur- ry here _ to|
+"Am7" C>FG>F"Abm7" (3_AFG-"Db9" G>F |"Gm7" A>cd>c"C+7" (3_e2 c2 _A2 |"F6/G""C+7" G8- | %33
+w: kiss a- way each lone- ly tear, _ and|hold her near when sun- ny gets|blue.|
+"F6/G""C+7" G8 |"Gm7" A>cd>c"^C75" (3_e2 c2"Gb9" _A2 |"F6/G" G8- | G8 |] %37
+w: _|Hold her near when sun- ny gets|blue.|_|
+

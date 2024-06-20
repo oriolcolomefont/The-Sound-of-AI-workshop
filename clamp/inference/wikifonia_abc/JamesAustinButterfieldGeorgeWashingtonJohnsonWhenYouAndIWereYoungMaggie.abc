@@ -1,0 +1,36 @@
+X:1
+T:When You And I Were Young, Maggie
+T:When You And I Were Young, Maggie
+C:James Austin Butterfield
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z6 c2 |"F" c2 A>G"F7" F2 GF |"Bb" F4 D F2 D/-D/ |"F" C2 F->F A2 c->c |"C7" G4 z2 c2 | %5
+w: I|wan- dered to- day to the|hill, Mag- gie, To *|watch the _ scene be- *|low; The|
+w: A|cit- y so si- lent and|lone, Mag- gie, Where the|young and the gay and the|best, In|
+w: They|say I am fee- ble and|gray, Mag- gie, My *|steps are less spright- ly than|then, My|
+"F" c2 A>G"F7" F2 GF |"Bb" F4 D F2 D |"F" C2 F>A"C7" c2 (G>A) |"F" F4 z2 F2 |"Bb" d2 d>d B2 d>d | %10
+w: creek and the creak- ing old|mill, Mag- gie, As|we used to long a- *|go. The|green grove is gone from the|
+w: pol- ished white man- sions of|stone, Mag- gie Have|each found a place of _|rest. Is|built where the birds used to|
+w: face is a well writ- ten|page, Mag- gie, But|time a- * lone was the|pen. They|say we are ag- ed and|
+"F" c4 A c2 A |"C" G2 c->c"G7" (c=B)"Em"(e"G7"d) |"C" c4"C7" z2 c-c |"F" c2 (A>G)"F7" F2 (G>F) | %14
+w: hill, Mag- gie, Where|first the _ dai- * sies _|sprung. The _|creak- ing old mill is *|
+w: play, Mag- gie, And|join in the songs _ that were|sung. For we|sang as _ gay as _|
+w: gray, Mag- gie, As|sprays by the white _ break- ers|flung; But to|me you're as fair as you|
+"Bb" F4 D F2 D |"F" C2 (F>A)"C7" c2 (G>A) |"F" F6 F2 |"Bb" d2 d>d B2 d>d |"F" c4 AcA>A | %19
+w: still, Mag- gie, Since|you and _ I were _|young. And|now we are a- ged and|gray, Mag- gie, And the|
+w: they, Mag- gie, When|you and _ I were _|young. *|||
+w: were, Mag- gie, When|you and _ I were _|young. *|||
+"C" G2 cc"G7" (c=B)ed |"C" c4"C7" z2 cc |"F" c2 A>G"F7" F2 GF |"Bb" F4 D F2 D | %23
+w: tri- als of life _ near- ly|done; Let us|sing to the days that are|gone, Mag gie, When|
+w: ||||
+w: ||||
+"F" C2 (F>A)"C7" c2 (G>A) |"F" F4 z4 |] %25
+w: you and _ I were _|young.|
+w: ||
+w: ||
+

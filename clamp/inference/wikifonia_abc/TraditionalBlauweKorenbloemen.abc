@@ -1,0 +1,33 @@
+X:1
+T:Blauwe Korenbloemen
+T: Laukens Music Productions  
+T:Beguine
+T:BLAUWE KORENBLOEMEN
+T:Arr. Henk Laukens
+T:BLAUWE KORENBLOEMEN blad 2 van 
+T: Laukens Music Productions  
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+Q:1/4=140
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ (3d e f |"F" f c2- c/f/ |"C7" (3e e f g e |"F" f2- f/A/ c/f/ |"C7" e d c B |:"F" A3 c | f3 e | %7
+"Bb" e3/2 d/- d2- | d4 |"C7" G3 B | e3 (3d/e/d/ |"F" c4- |"C7" c4 |"F" A3 c | f3 f | %15
+"Bb" g3/2 d/- d2- | d2 (3d e f |"F" f c2- c/d/ |"C7" (3e e f g eO ||"F" f2- f/A/ B/c/ | %20
+"Bb" d/d/ z z"C7" e ||"F" A/ A A/ A z/ B/ | c/ c c B A/ |"C7" G4- | G4 | B/ B B/ B z/ c/ | %26
+ d/ d d c B/ |"F" A4- | A4 | A/ A A/ A c |"F7" f/ f f/ e _e |"Bb" d3/2 f/- f2- | f2 f/ e d/ | %33
+"F" (3d c c c3/2 d/ |"C7" e/ e f/ g e |"F" f2- f/A/ c/f/ |"C7" e d c B :|O"F" f2 f/c/ A/F/ | %38
+"D7" d c A ^F ||[K:G]"G" B/ B B/ B z/ c/ | d/ d d c B/ |"D7" A4- | A4 | c/ c c/ c z/ d/ | %44
+ e/ e e d c/ |"G" B4- | B4 | B/ B B/ B d |"G7" g/ g g/ f =f |"C" e3/2 g/- g2- | g2 g/ f e/ | %51
+"G" (3e d d d3/2 e/ |"D7" f/ f g/ a f |"G" g2- g/B/ d/g/ |"D7" f e d c ||"G" B3 d | g3 f | %57
+"C" f3/2 e/- e2- | e4 |"D7" A3 c | f3 (3e/f/e/ |"G" d4- |"D7" d4 |"G" B3 d |"G7" g3 g | %65
+"C" a3/2 e/- e2- | e2 (3e f g |"G" g d2- d/e/ |"D7" (3f f g a f |"G" g4- |"C" g2 (3e f g | %71
+"G" g d2- d/e/ |"D7" (3f f g a f |"G" g4- | g g/g/ g z |] %75
+

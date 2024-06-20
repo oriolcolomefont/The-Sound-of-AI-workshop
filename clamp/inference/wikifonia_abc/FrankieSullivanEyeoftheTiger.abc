@@ -1,0 +1,63 @@
+X:1
+T:Eye of the Tiger
+T:Eye of the Tiger
+T:Survivor
+T:Main Line
+T:JW
+T:2
+T:Eye of the Tiger 
+T:Repeat from begining until end
+T:3
+T:Eye of the Tiger 
+T:4
+T:Eye of the Tiger 
+C:Frankie Sullivan
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:none
+V:1 treble transpose=-2 nm="Melody"
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:F] z2"Cm" Ac/A/- A2 z2 |"Ab" GFAG F2 z2 | z2"Bb" G<F G2 G<A |"Cm" G2 F2 z4 | %4
+w: Ris- in' up,- *|back on the street _|Did my time took my|chances _|
+ z2"Cm" Ac/d/- dAGF |"Ab" A>G- GG F2 DF/"Bb"G/- | G2 GF/G/- G2 GF/"Cm"A/- | A4 z4 | %8
+w: Went the distance, _ _ now I'm|back on _ my feet Just a man|_ and his will _ to survive _|_|
+ z"Cm" A Ac/A/- A2 z"Ab" F | GFAG F2 z2 | z"Bb" GGG GFA"Cm"G- | G F3 z4 | z2"Cm" Ac/d/- d2 GF | %13
+w: So many _ times, _ it|happens _ too fast _|You change your passion _ for glory|_ _|Don't lose your grip on the|
+"Ab" A>G- GG F2 D<F |"Bb" G2 GG/G/- G2 GF/"Cm"A/- | A4 z"Bb" G z/"Cm7" A3/2 | z"Fm" B BB/B/- BAGF | %17
+w: dreams of _ the past You must|fight just to keep _ them alive _|_ It's the|eye of the tiger, _ _ it's the|
+"Eb" FGA"Bb"G- G"Bb"G-"Cm7"A3/2 z/ |"Fm" B2 BB/B/- BAGF |"Cm" A2"Bb" G2 z"Bb" G- G<"Cm7"A | %20
+w: thrill of the fight _ Risin' _|up to the challenge _ _ of our|rival _ And _ the|
+"Fm" B2 BB/B/- BAGF |"Eb" FGA"Bb"G- G"Bb"G- G<"Cm7"A |"Fm" B>A- AB"Eb" c>B- Bc | %23
+w: last known survivor _ _ _ stalks his|prey in the night _ And _ he's|watchin' _ _ us all in _ the|
+"Ab" d6 GF/"Cm"G/- | G>F F4 z2 | z8 | z2"Cm" Ac/A/- A2 z2 |"Ab" GFAG F2 z2 | z2"Bb" GF/G/- G2 G<A | %29
+w: eye of the tiger|_ _ _||Fact to face, _|out in the heat _|Hangin' _ tough, _ stayin' _|
+"Cm" G2 F2 z4 | z2"Cm" Ac/d/- d2 GF |"Ab" A>G- GF A2 DF/"Bb"G/- | G2 GF/G/- G2 GF/"Cm"A/- | %33
+w: hungry _|They stack the odds 'till we|take to _ the street For we kill|_ with the skill _ to survive _|
+ A4 z"Bb" G z/"Cm7" A3/2 | z"Fm" B BB/B/- BAGF |"Eb" FGA"Bb"G- G"Bb"G- G<"Cm7"A | %36
+w: _ It's the|eye of the tiger, _ _ it's the|thrill of the fight _ Risin' _ up|
+"Fm" B2 BB/B/- BAGF |"Cm" A2"Bb" G2 z"Bb" G- G<"Cm7"A |"Fm" B2 BB/B/- BAGF | %39
+w: to the challenge _ _ _ of our|rival _ And _ the|last known survivor _ _ _ stalks his|
+"Eb" FGA"Bb"G- G"Bb"G- G<"Cm7"A |"Fm" B>A- AB"Eb" c>B- Bc |"Ab" d6 GF/"Cm"G/- | G>F F4 z2 | z8 | %44
+w: prey in the night _ And _ he's|watchin _ _ us all in _ the|eye of the tiger|_ _ _||
+ z8 | z8 | z2"Cm" Ac/A/- A2 z2 |"Ab" GFAG F2 z2 | z2"Bb" GF/G/- G2 GA |"Cm" G2 F2 z4 | %50
+w: ||Risin' _ up, _|straight to the top _|Have the guts, _ got the|glory _|
+ z2"Cm" Ac/d/- d2 GF |"Ab" A>G- GF A2 DF/"Bb"G/- | G2 GF/G/- G2 GF/"Cm"A/- | %53
+w: Went the distance, _ now I'm|not gonna _ _ stop Just a man|_ and his will _ to survive _|
+ A4 z"Bb" G z/"Cm7" A3/2 | z"Fm" B BB/B/- BAGF |"Eb" FGA"Bb"G- G"Bb"G- G<"Cm7"A | %56
+w: _ It's the|eye of the tiger, _ _ it's the|thrill of the fight _ Risin' _ up|
+"Fm" B2 BB/B/- BAGF |"Cm" A2"Bb" G2 z"Bb" G- G<"Cm7"A |"Fm" B2 BB/B/- BAGF | %59
+w: to the challenge _ _ _ of our|rival _ And _ the|last known survivor _ _ _ stalks his|
+"Eb" FGA"Bb"G- G"Bb"G- G<"Cm7"A |"Fm" B>A- AB"Eb" c>B- Bc |"Ab" d8 | z4 z2 GF/"Cm"G/- | G>F F4 z2 | %64
+w: prey in the night _ And _ he's|watchin' _ _ us all in _ the|eye|of the tiger|_ _ _|
+ z8 | z8 | z8 | z8 | z2 z D AGF"Cm"G- | GF F2 z4 | z8 | z8 | z2 z D AGF"Cm"G- | GFFD z4 | z8 | z8 | %76
+w: ||||The eye of the tiger|_ _ _|||The eye of the tiger|_ _ _ _|||
+ z2 z D AGF"Cm"G- | GFFG z4 | z8 | z8 | z2 z D AGF"Cm"G- | GFFD z4 | z8 | z8 | z8 | z8 | z8 | z8 | %88
+w: The eye of the tiger|_ _ _ _|||The eye of the tiger|_ _ _ _|||||||
+ z8 | z8 | z8 |] %91
+w: |||
+

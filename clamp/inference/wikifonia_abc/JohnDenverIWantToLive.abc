@@ -1,0 +1,50 @@
+X:1
+T:I Want To Live
+T:I Want To Live
+T:John Denver
+T:Foxtrot
+C:John Denver
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"^N.C." z2 DD |:S"G" DDDD DCB,C |"Em" DGAB d2 cB |"C" cccB"Am" cBAG |"G" B4"D7" z2 DD | %5
+w: There are|chil- ren raised in sor- row on a|scorched and bar- ren plain there are|chil- dren raised be- neath the gold- en|sun there are|
+w: |gazed out on the o- cean seen the|breach- ing of a whale? have you|watched the dol- phins fro- lic in the|foam? Have you|
+w: |stand- ing all to- geth- er face to|face and arm in arm we are|stand- ing on the thresh- old of a|dream No more|
+"G" DDDD DCB,C |"Em" DGGB d2 cB |"C" cccc"Am" cBAB |"F" cBAc"D" d2 (3ddd |"G" d2 (3dcB d2 (3dcB | %10
+w: chil- dren of the wa- ter * *|chil- dren of the sand and they|cry out through the u- ni- verse their|voic- es raised as one I want to|live I want to grow I want to|
+w: heard the song the hump- back hears five|hun- dred miles a- way tel- ling|tales of an- cient his- to- ry of|pas- sa- ges and home? * * *||
+w: hun- ger no more kil- ling no more|wast- ing life a- way it is|sim- ply an i- de- a- and I|know its time has come. * * *||
+"C" e2 (3edc e2 (3e^fg!dacoda! |"Bm" ^f2 (3fgf"C" e2 (3edc |"D" d2 (3ddd"G" d4- |1 d4"D7" z2 DD :|2 %14
+w: see I want to know I want to|share what I can give I want to|be I want to live|* have you|
+w: ||||
+w: ||||
+ d4 z2 AB ||"Am" cBAB cBAc |"Em" BAGA B2 AB |"F" cBAB"Am" cBAG |"G" B4 z2 AB |"Am" cAAB cBAc | %20
+w: * for the|work- er and the war- ri- or the|lov- er and the liar for the|na- tive and the wan- der- er in|kind for the|mak- er and the us- er and the|
+w: ||||||
+w: ||||||
+"Em" BAGA B2 AB |"F" cBAB"Am" cBAc |"F" cBAc"D7" d2 DD!D.S.! ||O"Bm" ^f2 (3fgf"A" e2 (3ed^c | %24
+w: moth- er and her son I am|look- ing for my fam- i- ly and|all of you are mine we are|share what I can give I want to|
+w: ||||
+w: ||||
+"D7" d4 z2 (3ddd |"G" d2 (3dcB d2 (3dcB |"C" e2 (3edc e2 (3e^fg |"Bm" ^f2 (3fgf"A" e2 (3ed^c | %28
+w: be I want to|live I want to grow I want to|see I want to know I want to|share what I can give I want to|
+w: ||||
+w: ||||
+"D7" d4 z2 (3de^f |"G" g8- |"C" g8 |"Bm" ^f6"A" z2 |"D7" z4 z2 (3ddd |"G" d2 (3dcB d2 (3dcB | %34
+w: be I want to|live|||I want to|live I want to grow I want to|
+w: ||||||
+w: ||||||
+"C" e2 (3edc e2 (3e^fg |"Bm" ^f2 (3fgf"A" e2 (3ed^c |"D7" d6 (3ddd |"G" d8- |"C" d4 z2 (3ddd | %39
+w: see I want to know I want to|share what I can give I want to|be I want to|live|* I want to|
+w: |||||
+w: |||||
+"D7" d6 (3ddd |"G" d6 z2 |] %41
+w: live I want to|live!|
+w: ||
+w: ||
+

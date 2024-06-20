@@ -1,0 +1,25 @@
+X:1
+T:There's A Tear In My Beer
+T:There's a tear in my beer
+T:Hank Williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 c ^c |:"F" d2 c A | d2 c A | d d c A | d4 | F3 A | c c d F |"C7" E4- | E3 d | e e d _B | %10
+w: There's a|tear in my|beer cause I'm|cry- in for you|dear|You are|on my lone- ly|mind|* in-|to these last nine|
+w: |nightI walked the|floor * *|and the night be-|fore|you are|on my lone- ly|mind|* it|seems my life is|
+ e2 d _B | e e d _B | e4 | C3 E | c c d G |"F" A4- |"F7" A3 F |"Bb" _B B B d | f f f d | %19
+w: beers I have|shed a mil- lion|tears|you are|on my lone- ly|mind|* I'm|gon- na keep on|sit- tin here un-|
+w: through and *|I'm so dog- gone|blue|you are|on my lone- ly|mind|* I'm|gon- na keep on|sit- tin here till|
+"F" d c c A | c4 |"G7" B3 c | d d2 d |"C7" e3/2 f/ e d | c2 c ^c |"F" d2 c A | d2 c A | d d c A | %28
+w: til I'm pet- ri-|ried|and then|may- be these|tears will leave my|eyes there's a|tear in my|beer cause I'm|cry- ing for you|
+w: I cant moe a|toe|and then|may- be my|heart wont hurt me|so there's a|tear in my|beer cause I'm|cry- ing for you|
+ d4 |"G7" d3 d |"C7" e e d c |1"F" f4- |"C7" f z"^N.C." c ^c :|2"F" f4- | f2 z2 |] %35
+w: dear|you are|on my lone- ly|mind|* last *|mind||
+w: dear|You are|on my lone- ly|mind.||||
+

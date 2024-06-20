@@ -1,0 +1,42 @@
+X:1
+T:I'M THRILLED !
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"E" E2>G2"A" A2>C2"D" =D2>=G2"G" z GF2 |"E" E2>G2"A" A2>C2"D" =D2>=G2"G" z GF2 | %2
+w: ||
+"E" E2>G2"A" A2>C2"D" =D2>=G2"G" z GF2 |"E" B2>d2"A" e2>G2"D" A2>"G"=d2 e4 | %4
+w: |* * * * * * I'M|
+"E" B4"A" z2 B2"D" A4"G" z4 |"E" B2B2"A9" BAB2"D" =dBAB"G" z d3 | %6
+w: THRILLED I'm touched|when you say that you need me so much And|
+"E" e2=d2"A9"B2=G2"D" A2GA-"G" A4 |"E" BBE2"A7" =GA2A-"D" A4"G" G2F2 |"E" E4"A" z4"D" z4"G" z4 | %9
+w: that you'll spend some time with me _|Ba by you'll sure ly see _ that I'M|THRILLED|
+"E" B2>d2"A" e2>G2"D" A2>=d2-"G" ddc2 |"E" B2>d2"A" e2>G2"D" A2>=d2-"G" ddc2 | %11
+w: ||
+"E" B2A"A"B-"D" B4 =d2A2"G" BBBe |"E" z =dd2"A" BA=GA"D" z AGA"G" z2 GA | %13
+w: I'm am azed _ I'm ag hast what a jolt,|what a kick, what a spin, what a blast that you|
+"E" B2>E2"A" =GA2"D"A-"G" A8 |"E" z2 B2"A" e=dB2"D" A2-=G2"G"^A2=A2 |: %15
+w: MIGHT re turn my call _|The joy of it all _ Call ME|
+"E" E2[EG][EG]"A" [EA]2[EA][EA]"D" [=DF][DF][DF][D=G]"G" z4 | %16
+w: THRILLED! (When you say that you need me so much|
+"E" z2 [EG][EG]"A" [EA]2-[EA][EA]"D" [=DF]-[DF][DF][D=G]"G" z4 | %17
+w: That you'll spend _ some time _ with me|
+"E" z2 [EG][EG]"A" [EA]2[EA][EA]"D" [=DF][DF][DF][D=G]"G" z4 |"E" z4"A" z4"D" z4"G" z4 | %19
+w: "Sin _ cer it y's" wnat yer ab out||
+"G" z2 BA BAB"E7"d z BAB- B4 |"G" z2 e2d2B2"E7" A2BE- E4 |"G" z2 BB BB2"E7"d dB2A z A,B,2 | %22
+w: Aft er beat ing my head on the wall _|It feels quite nice to stop _|You ac know ledge my ex ist ance (I might|
+"C" E2DB,- B,2d2"D" e2de z g3 |"E" e4 z4 z4 z4 |"E" z4"A" z4"D" z4"G" z4 | %25
+w: run be serk) _ QUICK! call a cop! I"M|THRILLED||
+"E" z4"A" z4"D" z4"G" z4 |"E" z4"A" z4"D" z4"G" z4 |"E" z4"A" z4"D" z4"G" z4 | %28
+w: |||
+"E" BA2B-"A" B2>E2"D" =GA2A"G" z BBB |"E" z BBB"A" z =d2e"D" z d2^A"G" =A4 | %30
+w: It's for re al and it's un willed tho I know|in ad vance who will be billed _|
+"E" e2=d^A"A" z =G2=A-"D" AAGA-"G" A4 |"E" z2 BB"A" =deee"D" =ge2e"G" z g2e :| %32
+w: Tho the world knows you're _ such a lout !|from the top you're gon na hear me SHOUT: I'm THRILLED|
+

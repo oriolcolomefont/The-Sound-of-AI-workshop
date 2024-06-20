@@ -1,0 +1,25 @@
+X:1
+T:Hard Times Come Again No More
+T:Hard Times Come Again No More
+T:Stephen Foster
+T:1854
+C:Stephen Foster
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Verse" z4 z2 CD |"C" E2 EE E G2 E |"F" DC"G" CD"C" E2 A>G | G2 E2"G" EC D>D |"C" C4 z2 CD | %5
+w: Let us|pause in life's pleas- ures and|count her ma ny tears while we|all sup sor orw with the|poor theres a|
+ E2 EE E G2 E |"F" DC"G" CD"C" E2 A2 | G2 E2"G" EC D>D |"C" C4 z2 EF |"^Chorus" G2 z G G2 ^FG | %10
+w: song that will lin- ger for-|ev- er in our ears; Oh|Hard Times Come A- gain no|more 'Tis the|song the sigh of the|
+"F" A4"C" G2 z2 | c2 G2"F" A2"C" G2 | EE D>C"G" D2 CD |"C" E2 EE E G2 E |"F" D>C"G" CD"C" E2 A2 | %15
+w: wea- ry|Hard Times, Hard Times,|come a- gain no more many- ny|days you have- lin- gered a-|round my cab- in door Oh!|
+ G2 E2"G" EC D>C |"C" C4 z4 |] %17
+w: Hard Times, come a- gain no|more.|
+

@@ -1,0 +1,30 @@
+X:1
+T:Look To Your Heart
+T:Look To Your Heart
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B2 F G |"Cdim7/G" F3 A |"G" G D"Gdim7" ^C"G" D |"Gdim7" ^C3 A |"G" G D"Gdim7" ^C"G" D | %5
+w: Look to your|heart, when|there are words to|say and|nev- er leave your|
+"Gdim7" ^C3 E |"D6/F#" E D3- | D3 z |"Am" B3/2 A/ A2- |"Dm/A" A B d c |"Am6" B3/2 A/ A2- | %11
+w: love un-|spok- en.|_|Day by day,|_ we go our|thought- less way|
+"Dm6/A" A B d c |"Am" B3/2 A/ A2- |"D" A A"D7" ^G/A/B/c/ |"G/B" d2"Bb7" d2 |"Am7" d3"Ab9" z | %16
+w: _ and on- ly|when we pray,|_ do we re- mem- ber|those we|love.|
+"G" B2 F G |"Cdim7/G" F3 A |"G" G D"Gdim7" ^C"G" D |"Gdim7" ^C3 A |"G" G D"Gdim7" ^C"G" D | %21
+w: Too late to|find a|word that's warm and|kind, Is|more than just a|
+"Gdim7" ^C3 E |"D6/F#" E D3- |"Dm6/F" D3 z |"Am" B3/2 A/ A2- |"D" A B"D7" d c | %26
+w: pass- ing|to- ken.|_|Speak your love|_ to those who|
+"Bm7b5" e3/2 d/ d2- |"E7" d =f e d |"Am""Am7" c4- |"F9" c _e d c |"G6" B2 G A |"C" G4 | %32
+w: seek your love,|_ Look to you|heart,|_ your heart will|know what to|say,|
+"Am" A2 E F |"C" E2"D7" F2 |1"G""C/G""Cm6/G" G4- |"G" G"D7b5" z"D7" z2 :|2"G""C/G""Cm6/G" G4- | %37
+w: Look to you|heart to-|day.|_|day.|
+"G" G4 |] %38
+w: _|
+

@@ -1,0 +1,28 @@
+X:1
+T:When You Walk Through a Storm
+T:When you walk thru a storm
+T:arousel"
+T:chart by zack@zackdanziger.com
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 7
+%%MIDI program 0
+V:1
+ z2 C C ||"C" C2 E D | C2 E F |"G7" G2 D2 | D3 D |"F" F2 G F |"C" E2 G E |"G" D4- |"Gm" D2 D E | %9
+w: When you|walk thru a|storm Keep your|head up|high And|don't be a-|fraid of the|dark.|_ At the|
+"Dm" F2 D D |"Bb" D2 F G |"F" A2 F2 |"Dm" F2 G A |"Gm/D" _B2"F/C" A c |"Gm/Bb" G2"F/A" F c | %15
+w: end of the|storm is a|gol- den|sky And the|sweet sil- ver|song of a|
+"E/G#" E4- | E2"C7" E2 |"F" A2 G A |"G7/F" B3 B |"C/E" c2 B c |"Fm6" d2 c d |"C/G" e2 c2 | %22
+w: lark.|_ Walk|on thru the|wind, Walk|on thru the|rain, Tho' your|dreams be|
+"Em" G2 E2 |"F" A4- | A2"G7" B2 |"C/E" c2 c2 |"E+" c2 c2 |"F" c2 B c |"D/F#" d2 c d | %29
+w: tossed and|blown.|_ Walk|on, walk|on With|hope in your|heart And you'll|
+"C/G" e2"E+" e2 |"Fmaj7" e2"F#7" e2 |"G" e4- | e2"G7/F" d2 |"C/E" g2"E+" e2 |"F" c2"G7" A2 | %35
+w: ne- ver|walk a-|lone,|* You'll|ne- ver|walk a-|
+"C" G4- | G2 z2 |] %37
+w: lone.||
+

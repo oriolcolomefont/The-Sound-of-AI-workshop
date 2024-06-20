@@ -1,0 +1,26 @@
+X:1
+T:This Is Always
+T:This Is Always
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"D7b9" B2 | F6"D7" A2 |"G" D6"D7b9" B2 | F6"D7" A2 |"G""D" D8 |"Dm" DB,CD"Bm7" E3"E7" E | %6
+w: Our|love will|live, our|love will|last.|This is not a dream that|
+"Am" ECDE"C#m7" F3"F#7" F |"Bm" FDEF"Em" GE"A7"FG |"D7" A3 D"D+7" ^A4 |:"G" z B,DF AG (3DB,D- | %10
+w: end- ed with the dawn, It's|one that fate in- tend- ed to live|on and on.|This is- n't some- times, this is al-|
+ D4"E7" E4 |"Am7" z CEG BG (3EDE- | E4"F#7" F4 |"G" D6"Ddim" E2 |"Am7""D7" D6"A#m7" ^C2 | %15
+w: * ways.|This is- n't may- be this is al-|* ways.|This is|love, the|
+"Am7" =CEGB d2 d2 | B4"D7b9" _B4 |"G" z =B,DF AGDB,D- | D4"E7" E4 |"Am7" z CEG BGECE- | %20
+w: real be- gin- ning of for-|ev- er|This is- n't just mid- sum- mer mad-|* ness,|a pass- ing glow, a mo- ments mad-|
+ E4"F#7" F4 |"G" D6"Ddim" E2 |"Am7" D6"D7""D+7" E2 |"G" DEGB"G9" d2 d2 |"F7" c6"E7" B2 | %25
+w: * ness,|yes it's|love. I|knew it on the night we|met. You|
+"Am7" B2 A2 B3 A |"Cm6" c2 d2"D7b9" B3 F |"G" A2 G2 A2 B2 |"Bm" F4"Bbm" =F4 |"Am7" z EGB dBGE | %30
+w: tied a string a-|round my heart, So|how can I for-|get you.|With ev- 'ry kiss I know that|
+ B4"D7b9" F4 |1"F#" F2"G" G6- ||"Eb" G2"Fm7" z2"D7" z4 :|2"F#" F2"G""Eb" G6 ||"Fm7" z4"D9""G" z4 |] %35
+w: this is|al- ways.||||
+

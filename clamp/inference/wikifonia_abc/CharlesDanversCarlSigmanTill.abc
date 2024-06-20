@@ -1,0 +1,22 @@
+X:1
+T:Till
+T:Till
+C:Charles Danvers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:D
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"D" D8- | DCDF A3 D |"F#m" C8- | C=C^CF A3 C |"Em7" B,8- | B,^A,B,D G3 A |"A7" F8- |"D7" F6 z2 | %8
+w: Till|* the moon de- serts the|sky|* Till all the seas run|dry|* Till then I'll wor- ship|you.||
+"G" B8- |"Em6" B^DEG B3 C |"D" A8- | ACDF A3 D |"Em7" G8- | G^A,B,D G3 B, |"E9" F8 |"A7" E8 | %16
+w: Till|* the trop- ic sun grows|cold|* Till this young world grows|old|* My dar- ling I'll a-|dore|you.|
+"D" d8- | (3d2 c2 e2 (3d2 c2 B2 |"F#7" c8- | (3c2 B2 d2 (3c2 B2 A2 |"G" B8- | %21
+w: You|* are the rea- son to|live|* All I own I would|give,|
+ (3B2 A2 c2 (3B2 A2 G2 |"E9" F8 |"A7" E8 |"D" D8- | DCDF A3 D |"F#m" C8- | C=C^CF A3 C | %28
+w: * just to have you a-|dore|me.|Till|* the riv- ers flow up-|stream|* Till lov- ers cease to|
+"Em7" B,8- | B,^A,B,D"A9" B3 C |"D""Ddim" D8- |"Em7" D2 z2"A7" z4 :|"D""G7" D8- |"D6" D4- D2 z2 | %34
+w: dream|* Till then I'm yours, be|mine.||mine.||
+

@@ -1,0 +1,35 @@
+X:1
+T:The Wild Rover
+T:The Wild Rover
+T:Adapted from Pat Clancy, Tom Clancy, Liam Clancy and Tommy Makem
+C:Origin unknown
+Z:Public Domain
+L:1/4
+M:3/4
+K:E
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ E/E/ |"E" E3/2 F/ E | C B, G | G F G |"A" (A3 | A) z G/A/ |"E" B G B |"B7" A F D | B, G F | %9
+w: I've _|been a wild|ro- ver for|man- y a|year,|_ And I've|spent all my|mon- ey on|whis- key and|
+w: I went|in- to an|ale house I|used to fre-|quent,|_ And I|told the land-|la- dy my|mon- ey was|
+w: Then out|of my poc-|ket I took|so- ver- eigns|bright,|_ And the|land- la- dy's|eyes op- ened|wide with de-|
+w: I'll go|back to my|par- ents, con-|fess what I've|done,|_ And *|ask them to|par- don their|pro- di- gal|
+"E" (E3 | E) z E | E F E | C B, G | G F G |"A" (A3 | A) z G/A/ |"E" B G B |"B7" A3/2 F/ D | %18
+w: beer,|_ But|now I'm re-|turn- ing with|gold in great|store,|_ And I|nev- er will|play the wild|
+w: spent,|_ I|asked for a|bot- tle; she|an- swered me|"Nay,|_ Such a|cus- tom as|yours I can|
+w: light.|_ She|said, "I have|whis- kies and|wines of the|best,|_ And the|words that I|said, sure, were|
+w: son.|_ And|if they ca-|ress me as|of- times be-|fore,|_ Then I|ne- ver will|play the wild|
+ B, G F |"E" E || D E |"B" F3 | F3 | D (B,2 | B,3) |"E" z G G | G F G |"A" (A3 | A) G A |"E" (B3 | %30
+w: ro- ver no|more.|And it's|no,|nay,|nev- er,|_|No, nay,|nev- er no|more|_ Will I|play|
+w: get an- y|day."|||||||||||
+w: on- ly in|jest."|||||||||||
+w: ro- ver no|more.|||||||||||
+ B3/2) G/ E |"A" D (C2 | C) z C |"E" B, (G2 |"B7" G2) F |"E" (E3 | (E3) | E2) |] %38
+w: _ the wild|ro- ver,|_ No,|nev- er|_ no|more.|_||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+

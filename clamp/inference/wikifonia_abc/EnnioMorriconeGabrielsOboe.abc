@@ -1,0 +1,23 @@
+X:1
+T:Gabriel's Oboe
+T:Gabriel's Oboe
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D""^Lentamente" A/B/A/F/"Asus4/E" A4-"A/E" AA |"D/F#" d/e/ (3d/c/d/ c/d/c/B/"A/G" B/A/A- A2- | %2
+ A3 A"D/F#" de/d/cd/c/ |"G/C#" B4 BdcB |"Em7" (3AGA-"A7" A4 z A |"D" feed"Dmaj7/C#" d3 A | %6
+"Bm" f/e/e/d/"D/A" d4 c/d/c/d/ |"G" B4-"Gmaj7" BBdg |"D" g/f/f-"Dmaj7/C#""Bm" f4"Bm7/A" db | %9
+"G" a2 g2 d2"Cmaj7" f2 |"Asus4" a8 |"A7" a6 z2 |"D" A/B/A/F/"A/E" A4- AA | %13
+"D/F#" d/e/ (3d/c/d/ c/d/c/B/"G" B/A/A- A2- |"A7" A3 A"D/F#" de/d/"F#m"cd/c/ |"G/F#" B4 BdcB | %16
+"Em7" A/G/A-"A7" A4 z A |"D" feed"Dmaj7/C#" d3 A |"Bm" f/e/e/d/ d4"D/A" c/d/c/d/ | %19
+"Gmaj7" B4- BBdg |"D" (3gf"Dmaj7/C#"f-"Bm" f4"Bm/A" db |"G""A/G" b6- (3baa |"D/F#""G" a6 gf | %23
+"Asus4""A7" e6 f2 |"F#/A#" f8 |"Bm""Bm7/A" f3 d"G" g2"Gmaj7" f2 |"Asus4""A7" e6- ed |"D" d8- | %28
+ d6 z2 |] %29
+

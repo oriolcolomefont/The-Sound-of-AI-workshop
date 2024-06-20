@@ -1,0 +1,18 @@
+X:1
+T:Cold Duck Time
+T:Cold Duck Time
+C:Eddie Harris
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ C EF FA- |:"F7" A3 C EF | FA,-"Bb7" A,3 C | EF F A2"F7" B | z c A2 FE |"Bb7" F3 C EF | %6
+ FA-"F7" A3 C | EF F"Bb7" A,3- | A,C EF FA- |"F7" AB z c A2 | FE"Bb7" F3 C | EF F"Db7" A3- | %12
+ A4- AF- |"Eb9" F6- | F"F7"F z2 z2 | z C EF FA- :| %16
+

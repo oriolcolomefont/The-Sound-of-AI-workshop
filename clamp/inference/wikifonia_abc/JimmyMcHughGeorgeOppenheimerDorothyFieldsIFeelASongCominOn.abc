@@ -1,0 +1,30 @@
+X:1
+T:I Feel A Song Comin' On
+T:I Feel A Song Comin' On
+T:Jimmy McHugh, George Oppenheimer
+T:Dorothy Fields
+C:Jimmy McHugh, George Oppenheimer
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" B4- |"Fm7""Bb7" B4- | B"Ab" c A"Bb7" B- | B G2 A |"Eb" B4- |"Bb7" B4- | B"Ab" c A"Bb7" B- | %7
+w: I|_|* feel a song|_ com- in'|on|_|* And I'm warn-|
+ B G A2 |"Db" B c B"C7" c- | c c B2 |"Abm6" A B A"Bb7" B- | B B A2 |"Eb" G4- |"Eb7" G4 | %14
+w: * ing ya|It's a vic- tor-|* i- ous,|hap- py and glo-|* ri- ous|new|_|
+"Ab6""Abm6" F4- |"Bb7" F4 |"Eb" B4- |"Fm7""Bb7" B4- | B"Ab" c A"Bb7" B- | B G2 A |"Eb" B4- | %21
+w: strain!|_|I|_|* feel a song|_ com- in'|on|
+"Bb7" B4- | B"Ab" c A"Bb7" B- | B G A2 |"Db" B c B"C7" c- | c c B2 |"Abm6" A B A"Bb7" B- | B B A2 | %28
+w: _|* It's a mel|_ o- y|Full of the laugh-|* ter of|child- ren out af-|* ter the|
+"C" G4- |"Dm7""G7" G4- |"C" G4 | z c =B G |"Dm7" =A2"G7" G =e- | e =e3 |"Cmaj7" d2"C6" =A c- | %35
+w: rain!|_||You'll hear a|tune- ful sto-|* ry|Ring- in' thru|
+ c c3 |"Dm7" =A2"G7" G =e- | e =e3 |"C7" d2 d"F9" c- | c c"Bb7" B2 |"Eb" B4- |"Fm7""Bb7" B4- | %42
+w: _ ya!|Love and glo-|* ry!|Hal- le- lu|_ ja! And|now|_|
+ B"Ab" c A"Bb7" B- | B G2 A |"Eb" B4- |"Bb7" B4- | B"Ab" c A"Bb7" B- | B G A2 |"Eb" B c B"C7" c- | %49
+w: * that my troub-|* les are|gone|_|* Let those heav-|* en- ly|drums go on drum-|
+"Fm7" c c B2 |"Fm7" e f e"Bb7" f- | f"Fm7" e2 e |"Eb" e4- | e4- | e4- | e z z2 |] %56
+w: * min', 'Cause|I feel a song|_ com- in'|on!|_|||
+

@@ -1,0 +1,18 @@
+X:1
+T:Beautiful Brown Eyes
+T:Beautiful Brown Eyes
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" A3/2 A/ A |"F7" F G A |"Bb" B B2- |"Bbm" B3 |"F" A3/2 A/ A |"F#dim" A B A |"C7" G3 | %7
+w: Beau- ti- ful,|beau- ti- ful|brown eyes,|_|Beau- t- ful,|beau- ti- ful|brown|
+ (c2"C7" B) |"F" A3/2 A/ A |"F7" F G A |"Bb" B B2- |"Bbm" B2 B |"C7" c G A | B D E |1 %14
+w: eyes, _|Beau- ti- ful,|beau- ti- ful|brown eyes,|_ I'll|nev- er love|blue eyes a-|
+"F""Gm""E7" F3- ||2"F" F"Gm7" z"C7" z :|"F""Bb6""Bbm6" F3- |"F" F2 z |] %18
+w: gain.|_|gain.|_|
+

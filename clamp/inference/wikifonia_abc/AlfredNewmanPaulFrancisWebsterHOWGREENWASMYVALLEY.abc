@@ -1,0 +1,30 @@
+X:1
+T:HOW GREEN WAS MY VALLEY
+T:HOW GREEN WAS MY VALLEY
+T:Alfred Newman, Paul Francis Webster
+C:Alfred Newman, Paul Francis Webster
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"^tacet" e d/B/ G |:"Eb6" c2"Bb+" c2- |"Eb7" c c B/G/ E |"Abm" A4- | A A"Eb" G/E/ C | %5
+w: How green was my|val- ley,|* How blue were my|skies,|* I wor- shipped the|
+w: |love dream|* Has fad- ed and|gone,|* No more does the|
+"F7" F2"F+" F2- |"Bb7" F D (3D D D |1"Eb" G4- || G"^tacet" e d/B/ G :|2"Eb""Abm" E4- || %10
+w: love light|* That shone in your|eyes.|* Our heav- en- ly|dawn.|
+w: sun- rise|* Ap- pear with the||||
+"Eb" E G/B/-"Gm" B/G/ B |"Cm" c2 c2- | c d"Gm" B/G/ B |"Cm" c4- | c G/"Gm"B/- B/G/ B |"C7" c c2 G | %16
+w: * I still * hear your|laught- er,|* I whis- per your|name,|* This world, * dear, with-|out you Will|
+w: ||||||
+"Db7" B B"C7" G A |"F7" F4- |"Bb7" F"^tacet" e d/B/ G |"Eb6" c2"Bb+" c2- |"Eb7" c c B/G/ E | %21
+w: nev- er be the|same.|* How green was my|val- ley,|* How dear were your|
+w: |||||
+"Abm" A4- | A A"Eb" G/E/ C |"F7" F2"F+" F2- |"Bb7" F D (3D E F |"Eb""Abm" E4- |"Eb" E z z2 |] %27
+w: charms;|* Come back to me|dar- ling,|* Come back to my|arms.-||
+w: ||||||
+

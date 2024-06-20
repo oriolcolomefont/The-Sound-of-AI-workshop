@@ -1,0 +1,23 @@
+X:1
+T:El Relicario
+T:El Relicario
+T:Jose Padilla
+C:Jose Padilla
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm" z D EF GF | E2 DE FG |"A7" A2 ^GA cB |"Dm" A6- | A3 A ^GA |"C7" (5:4:5c/d/c/B/A/ GA Bc | %6
+"F" A/B/A/G/ FF EF |"Gm" B/A/G/F/ ED E>D |"A" A6- | A2 z E EE |"Gm6" B2 B4- | B3 E EE |"A" A2 A4- | %13
+ A3 E EE |"Gm6" B2 B4- | B3 B B>E |"A" A6- | A6 |"E7" ^G2 ^F2 G2 |"A" ^F2 A2 ^G2 |"E7" =B4 ^G2 | %21
+"A" (3^F^GF E4 | A2 ^G2 ^F2 |"E7" ^G2 A2 =B2 | =B2 A2 ^G2 |"A" (3=B^cB AA ^GA | %26
+"C7" (5:4:5c/d/c/B/A/ GA Bc |"F" A/B/A/G/ FF EF |"Gm" B/A/G/F/ ED ^CD |"A" A6- | A2 z D E^F || %31
+[K:D]"A7" G2 A4 | G2 A2 G2 |"D" A2 B4 | A2 B2 A2 |"A7" B2 cd cB | A2 Bc BA |"D" F6- | F2 z D EF | %39
+"A7" G2 A4 | G2 A2 G2 |"D" A2 B4 |"B7" A2 B2 F2 |"Em" A2 GA BG |"A7" F2 EG FE |"D" D6- | %46
+ D2 z2 z2 |] %47
+

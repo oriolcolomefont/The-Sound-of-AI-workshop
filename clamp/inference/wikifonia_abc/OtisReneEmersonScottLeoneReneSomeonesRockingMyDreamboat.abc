@@ -1,0 +1,32 @@
+X:1
+T:Someone's Rocking My Dreamboat
+T:Someone's Rocking My Dreamboat
+C:Otis Rene
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm" B2"F#m" =A2"Fm7" (3_A2 c2 e2 |"Bb7" G2 G6 |"Eb" F E2 D EGBd- |"Adim" d6 =Bc |"Fm7" eeec- c4 | %5
+w: Some- one's rock- ing my|dream- boat.|Some- one's in- vad- ing my dreams;|_ We were|sail- ing a- long _|
+"Bb7" BBBG- G4 |"Eb" (3F2 D2 E2 (3G2 B2 d2 |"Edim" c8 |"Gm" B2"F#m" =A2"Fm7" (3_A2 c2 e2 | %9
+w: peace- ful and calm, _|sud- den- ly some- thing went|wrong.|Some- one's rock- ing my|
+"^bB7" G2 G4 D2 |"^eB" F E2 D EGBd- | d6"Adim" =Bc |"Fm7" eeec- c3 c |"Bb7" BBBG- G4 | %14
+w: dream- boat, dis-|turb- ing a beau- ti- ful dream.|_ It's a|mis- t'ry to me _ this|mu- t'ny at sea, _|
+"Eb6" FEEE-"Cm6" E4 ||"Ab7" (3E2 F2 E2"G7" D2 G2 |"Cm6" cc c2"Ddim7" (3d2 d2 d2 | %17
+w: Who can it be. _|(Who can it be) A|friend- ly breeze gave us a|
+"Cm6" c2"Cdim" ^FG B=A"Ab7" _A2 |"Cm6" G G2 G- G4 |"Ab7" (3E2 F2 E2"G7b9" D4 | %20
+w: start to a par- a- dise|all our own. *||
+"Cm6" cccc"Ddim7" d4 |"Cm6" (3c2 c2 c2"Ab7" e2 e2 |"G" d2 d2"D7" (3c2 =B2 c2 |"Bb7" d4"Bbdim" z4 || %24
+w: All at once a storm|blew us a- part, and|left me drift- ing a-|lone.|
+"Gm" B2"F#m" =A2"Fm7" (3_A2 c2 e2 |"Bb7" G2 G4 D2 |"Eb" F E2 D EGBd- | d6"Adim" =Bc | %28
+w: Some- one's rock- ing my|dream- boat, I'm|cap- tain with- out an- y crew,|_ But with|
+"Fm7" (3e2 e2 e2"F#dim" c3 =B |"Eb" _BBB=B-"B7" B4 |"Fm" c2 c2 (3e2 c2 A2 |"F7" G4"Bb7" G4 | %32
+w: love as my guide I'll|fol- low the tide, _|I'll keep sail- ing till|I find|
+"Eb6" E8- | E6 z2 |] %34
+w: you.|_|
+

@@ -1,0 +1,36 @@
+X:1
+T:Superstar
+T:Superstar
+T:Leon Russell and Bonnie Bramlett
+C:Leon Russell and Bonnie Bramlett
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am" B3 A E4- |"C/G" E4 (3A2 G2 A2 |"F" C3 C C4- |"C/E" C2 z2 z AGA |"D7" CC C6- |"F" C4 z A,CD | %6
+w: 1.....Long a- go,|* and oh so|far a- way|* I fell in|love with you|* be- fore the|
+w: 2.....Lon- li- ness|* is such a|sad af fair,|* and I can|hard- ly wait|* to be with|
+"E7" EG E6- | E6 z2 |"Am" B3 A E4- |"C/G" E4 (3A2 G2 A2 |"F" CC C6- |"C/E" C2 z2 (3A2 G2 A2 | %12
+w: sec- ond show.||Your gui- tar|* it sounds so|sweet and clear|* but you're not|
+w: you a- gain.||What to say|* to make you|come a- gain,|* come back to|
+"D7" CD C6- |"F" C2 z2 z A,CD |"E7" EG E6- | E6 z2 |S"F" Ac/c/cc/c/"Em" cB/B/"Dm"BA | %17
+w: real- ly here|* it's just the|ra- di- o,||Don't you re- mem- ber you told me you loved me|
+w: me a- gain|* and play your|sad gui- tar.|||
+"C" AG- G4 z3/2 G/ |"F" Ac/c/cc"Em" BB"Dm" B/A/A |"C" AG- G4 z2 |"F" Acdc"Em" BB"Dm" A/A/A | %21
+w: ba- by. * You|said you'd be com- ing back this way a- gain|ba- by. *|Ba- by, ba- by, ba- by, ba- by oh|
+w: ||||
+"C" A/G/G- G4 z C |"Bb" E>DCD- D4!dacoda! |1"F" E2 ED C4 ||"Am" b3 a e4 |"C/G" e4 z bab | %26
+w: ba- * by * I|love * * you *|I real- ly do.|||
+w: |||||
+"F" c'b a6 |"C/E" ag c6 |"D7" c4 z ABc |"G" d4"F" c4 | A4"Em7" G4 |"Am" A4 B4 | A4 B2 EA :|2 %33
+w: |||||||
+w: |||||||
+"C" E2 EG E4- ||S"C7" E6 z2!D.S.! ||O"F""^Coda" E2 ED C4- | C6 z2 |] %37
+w: I real- ly do||I real- ly do.-||
+w: ||||
+

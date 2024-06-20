@@ -1,0 +1,22 @@
+X:1
+T:Tulips From Amsterdam
+T:Tulips from Amsterdam
+T:Ralf Arnie
+T:Neumann and Bader  English: Gene Martyn
+C:Ralf Arnie
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z a a ||"F" a2 g | g2 f | f2 e |"E7" e2 z |"Bb" d d d | d2 g | d3 | z g g |"C7" g2 f | f2 e | %11
+w: When its|spring a-|gain I'll|bring a-|gain|Tu- lips from|Am- ster-|dam|with a|heart thats|true I'll|
+ e2 d/A/ | d2 z |"F" c c c | c2 f | c3 | z c'"F7" c' | c'2 b | b2 a | a2 g | g2 z |"Bb" f f f | %22
+w: give to *|you|Tu- lips from|Am- ster-|dam|I cant|wait un-|til the|day you|fill|these emp- ty|
+ f2 b | f3 | z d e | f2 d | z d e |"F" f2 c | z e f |"C7" g2 c | g2 ^g |"F" a2 f | z e f | %33
+w: arms of|mine|like the|wind- mill|keeps on|turn- ing|thats how|my heart|keeps on|yearn- ing|for the|
+"Bb" c'2 b | c'2 b |"F" a3- |"D7" a ^g a |"Bb" c' c' b |"C7" a2 g |"F" f c A | F z2 |] %41
+w: day I|know we|can|* share these|Tu- lips from|Am- ster-|dam. * *||
+

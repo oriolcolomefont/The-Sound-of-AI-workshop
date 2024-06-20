@@ -1,0 +1,31 @@
+X:1
+T:I'm Gonna Knock On Your Door
+T:I'm Gonna Knock On Your Door
+T:Aaron Schraeder,Sid Wayne
+C:Aaron Schroeder,Sid Wayne
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^Elaine,this is Rudolph out here\nIf you don't  come out tonight'" cccc"C7" BBBB | %1
+w: |
+"F" A4 z CDC |:"F" A A2 G FCCC | A A2 G FCCC | A A2 G A2 A2 |"C7" B2 z2 z CDC | %6
+w: * I'm gon- na|knock on your door, * * *|ring on your bell, * * *|Tap on your win- dow|too. If you don't|
+"F" A A2 G"F7" F2 GF |"Bb" B2 BB- BGBG |"F" AAAA"C7" GGGG |"F" FCCC z CDC | A A2 G FCCC | %11
+w: come out to- night while the|moon is bright * I'm gon- na|knock and ring and tap un- til you|do. * * * I'm gon- na|knock on your door, * * *|
+ A A2 G FCCC | A A2 G A2 A2 |"C7" c2 CD CCDC |"F" A A2 G F2"F7" GF |"Bb" B2 BB- BGBG | %16
+w: call out your name, * * *|Wake up the town, you'll|see. * * * I'm gon- na|whoo- hoot and howl like a|love- sick owl * Un- til you|
+"F" AAAA"C7" G G2 G |"F" F2 z2 z F"F7"GF |"Bb" B2 z2 z FGF | B2 BB- B2 z2 |"F" A2 A2 AFGF | %21
+w: say you're gon- na come out with|me. Hey lit- tle|girl, this ain't no|time to sleep *|Let's count kis- ses 'stead of|
+ z A2 A"F7" AFGA |"Bb" B2 z2 z FGF | B2 BB- B2 z B |"G7" =B2 B2 B2 z B |"C" c C2 C- CC"C7"DC | %26
+w: coun- tin' sheep. * * *|How, How can I|hold you near * with|you up there and|me down here? * I'm gon- na|
+"F" A A2 G FCCC | A A2 G FCCC | A A2 G A2 A2 |"C7" c2 CD C CDC |"F" A A2 G F2"F7" GF | %31
+w: knock on your door, * * *|ring at your bell, * * *|Wake up the town, you'll|see * * * If you don't|come out to- night when the|
+"Bb" B2 B2 BGBG |"F" AAAA"C7" GGGG |1"F" F2 z2 z C"C7"DC :|2"F" F2 z2 z4 |] %35
+w: moon is bright, I'm gon- na|knock and ring and tap un- til you|do. I'm gon- na|do.|
+

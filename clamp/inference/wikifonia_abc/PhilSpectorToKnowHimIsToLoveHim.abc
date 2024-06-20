@@ -1,0 +1,37 @@
+X:1
+T:To Know Him Is To Love Him
+T:To Know Him Is To Love Him
+T:Phil Spector
+T:©
+T:To Know Him Is To Love Him
+T:2
+C:Phil Spector
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:6/8
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^moderately slow" A, |"D" F3 F3 | FED- DEF |"A7" E3 E3 | EDC- C3 |"Bm" D3 D3 | DCB,- B,3 | %7
+w: To|know, know,|know _ him _ is to|love, love,|love _ him. _|just to|see him smile _|
+"G" D3 D3 | DCB,- B,2 A, |"D" F3 F3 | FED- DEF |"A7" E3 E3 | EDC- CA,E |"D" D3- D2 E | %14
+w: makes my|life- worth- while. _ To|know, know,|know _ him _ is to|love, love,|love _ him _ and I|do. _ _|
+"G" D3- D2 B, |"D" D3- D3 |"A7" z6 |"D" F3 F3 | FED- D3 |"A7" E3 E3 | EDC- C3 |"Bm" DDD D2 D | %22
+w: _ _ _|||I be|good to him, _|I bring|love to him. _|Ev- ry- one says there'll|
+ DCB,- B,2 B, |"G" D3 DDD | DCB,- B,3 |"D" F3 F2 F | FED- DEF |"A7" E3 E3 | EDC- CA,E | %29
+w: come a day _ when|I'll walk a- long|side of him. _|Yes, Yes, to|know _ him _ is to|love, love,|love _ him _ and I|
+"D" D3- D2 E |"G" D3- D2 B, |"D" D3- D3 | z6 ||[K:F]"F" A3- A3- | A3 c2 d |"C" c3- c3 | G3- G3 | %37
+w: do. _ _|_ _ _|||Why _|_ can't he|see? _|_ _|
+"Bb" F3- F3- | F3 FGF |"A" E3- E3- | E3 z z z |"F" A3- A3 |"D7" ^F3 A2 A |"Gm" B3- B3 | %44
+w: How _|_ blind can he|be? _|_|Some- *|day he will|see _|
+"Dm" A3- A2 A |"E7" ^G3- G2 G | ^G3- G2 G |"A7" A3- A2 =B | A3 A2 A, ||[K:D]"D" F3 F3 | FED- DEF | %51
+w: _ _ that|he _ was|meant _ for|me, _ oh,|oh, yes. To|know, know,|know _ him _ is to|
+"A7" E3 E3 | EDC- C3 |"Bm" D3 D3 | DCB,- B,3 |"G" D3 D3 | DCB,- B,2 A, |"D" F3 F3 | FED- DEF | %59
+w: love, love,|love _ him. _|Just to|see him smile _|makes my|life worth- while. _ To|know, know,|know _ him _ is to|
+"A7" E3 E3 | EDC- CA,E |:"D""^repeat and fade" D3- D2 E |"G" D3 D2 B, :| %63
+w: love, love|love _ him _ and I|do. _ _|_ Yes I|
+

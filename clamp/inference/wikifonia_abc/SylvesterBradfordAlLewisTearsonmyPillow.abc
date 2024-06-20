@@ -1,0 +1,35 @@
+X:1
+T:Tears on my Pillow
+T:Tears On My Pillow
+T:Sylvester Bradford, Al Lewis
+T:Sylvester Bradford, Al Lewis
+C:Sylvester Bradford, Al Lewis
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"C" z2 G e2 d"Am" cde- e3 |"Dm" z z A d2"G7" c BdG- G3 |"C" z z G e2"Am" d cde- e3 | %3
+w: You don't re- mem- ber me, *|but I re- mem- ber you. *|'Twas not so long a- go *|
+w: If we could start a- new *|I woul- n't hes- i- tate. *|I'd glad- ly take you back *|
+"Dm" z z A d2 c"G7" BdG- G3 |"F" z F2- FAc"G7" B G2- G3 |"F" F3- FAc"G7" (B G2) (Bc)d |1 %6
+w: You broke my heart in two. *|Tears * on my pil- low, *|pain * in my heart * caused * by|
+w: and tempt the hand of fate. *|Tears * on my pil- low, *|pain * in my heart * caused * by|
+"C""Am" e12- |"Dm""G7" e12 :|2"C" e3- eed"F" c3"G7" d3 ||"C""F""C" c12 || %10
+w: you.||* * hoo hoo hoo hoo||
+w: ||||
+"F" A2 A"G7" B2 d"C" c c2- c3 |"F" A2 A"G7" B2 d"C" c6 |"F#7" ^c2 ^c ^c2 ^c"G7" d2 d d2 d | %13
+w: Love is not a gad- get, *|love is not a toy.|When you find the one you love he'll|
+w: |||
+"F#7" ^c2 c (cB)c"G7" d6 |"C" z z G e2 d"Am" cde- e3 |"Dm" z z A d2 c"G7" BdG- G3 | %16
+w: fill your heart * with joy.|Be- fore you go a- way, *|my dar- ling think of me. *|
+w: |||
+"C" z z G e2"Am" d cde- e3 |"Dm" z z A d2 c"G7" BdG- G3 |"F" z F2- FAc"G7" B G2- G3 | %19
+w: There may be still a chance *|to end my mis- er- y *|Tears * on my pil- low *|
+w: |||
+"F" F3- FAc B"G7" G2 Bcd |"C" e3- eed"F" c3"G7" d3 |"C" !fermata!c12 |] %22
+w: pain * in my heart * caused * by|* * hoo hoo hoo hoo|hoo.|
+w: |||
+

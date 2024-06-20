@@ -1,0 +1,33 @@
+X:1
+T:Thine Alone
+T:Thine Alone
+T:from "Eileen"
+T:Victor Herbert
+T:Henry Blossom
+C:Victor Herbert
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^Verse" G3 F GB"Ab"AG |"Fm" FECE"G7" G2"Bb7" F2 |"Eb" G4"Ab" F E3 |"Eb""Bb7" G8 | %4
+w: Tell me why is there a|doubt with- in thy heart, my-|own! Tell me|why!|
+"Eb" G3 F GB"Ab"AG |"Fm" FECE"G7" G2"Cdim" =A2 |"Gm" B4"Cdim" =A G3 |"Bb+7" B6"Bb7" Bc | %8
+w: I but fear the time will|come when we must part! A-|las! I should|die! Ev- er|
+ d3 c"Cm6" c"Eb"BGB |"Bb" GF"Dm"DF"C7" D B,2 B, |"F7" DF- F4 FG |"Bb""Ebm" B4-"Bb7" B2"Bb9" FG | %12
+w: more, by day, by night, I'll|dream of thee my dar- ling. My|heart * * is but|thine! * Thine a-|
+"Cm7b5" B2"F7" =A2 z2"Bb7" FG ||"Eb""^Chorus" B3 c"Eb/G" edcB ||"Cm" G2"Ab" G4 EF | %15
+w: lone.- * In thine|arms en- fold me, my be-|lov- ed, let thine|
+"Eb" G3 B"Bbm7" AG"Eb7"F>E |"Ab" C4 z2 CD |"Fm7" F2 FG"Bb7" B2 Bd |"Eb" c2 BG"Eb/G" B2 Bc | %19
+w: eyes look fond- ly in- to|mine, for thy|love bears a spell all too|won- drous to tell, 'tis a|
+"Bb/F" d2 Bc"F7" d2 c2 |"Fm7/Bb" f6"Bb7" FG |"Eb" B3 c"Eb/G" edcB |"Cm" G2 G4"Ab" EF | %23
+w: rap- ture that's all di-|vine. So with|in thy ten- der arm en-|fold me, for thy|
+"Eb" G3 B"Bbm7" AG"Eb7"F>E |"Ab" c6"Ddim" d2 |"Cm" e3 d"F7" fedc | %26
+w: loss the world could not a-|tone. Be-|lov- ed, swear that you will|
+"Eb/Bb" e2 G2"F7/C" F2"Abm/B" EF |"Eb/Bb" G B3"Fm/Bb" f2- f>"Bb7"e |"Eb" e8- | e6 z2 |] %30
+w: e'er be true and for-|ev- er mine * a-|lone.-||
+

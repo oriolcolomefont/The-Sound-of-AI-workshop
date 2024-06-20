@@ -1,0 +1,36 @@
+X:1
+T:Christmas Is For Children
+T:Christmas Is For Children
+C:Carl R. Vasta
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" z E/G/ c z/ B/ |"Dm" B A3 |"G7" B, D B z/ A/ |"C" G3 z |"F" A, C F z/4 E3/4 | %5
+w: Christ- mas is for|child- ren,|That's what peo- ple|say|All their smiles are|
+w: Cook- ies on the|man- tle,|San- ta's on his|way.|Soon we'll op- en|
+"Dm" E D2- D/D/ | D3/2 E/ D"G7" G, |1"C" C3 z :|2"C" C3 z ||"F" c z/ B/ A c |"Em" B G2 z | %11
+w: bright- er, * be-|cause of Christ- mas|day.||I re- mem- ber|Christ- mas,|
+w: pres- ents, _ _|here on Christ- mas|day.|day.|||
+"Gm" _B3/2 A/"C7" G B |"F" A2 z2 |"Fm7" _A3/2 G/ F A |"C" G E2 z/ E/ |"D7" D3/2 E/ D A, | %16
+w: ev- 'ry- one was|there,|All a- round our|ta- ble, the|joy that we would|
+w: |||||
+"Dm" D3"G7" z ||"C" E G c z/ B/ |"Dm" B A2 z |"G7" B, D B3/2 A/ |"C" G3 z/ A,/ |"F" A, C F z/ E/ | %22
+w: share.|Christ- mas is for|child- eren|try it and you'll|see, They're|call- ing from your|
+w: ||||||
+"Dm" E D2 z/ D/ | D3/2 E/ D"G7" G, |"C" C3 z |"F" c3/2 B/ A c |"Em" B G2 z/ A/ | %27
+w: mem- 'ry, the|child you used to|be.|I re- mem- ber|Christ- mas A|
+w: |||||
+"Gm" _B3/2 A/"C7" G B |"F" A3 z |"Fm7" _A3/2 G/ F z/4 A3/4 |"C" G E2"A" z |"D7" D z/ E/ D A, | %32
+w: wreath up- on the|door.|Friend- ly smiles and|hand- shakes,|who could ask for|
+w: |||||
+"Dm" D3"G7" z/ E/ |"C" E G c z/4 B3/4 |"Dm" B A2 z/ B,/ |"G7" B, D B3/2 A/ |"C" G3 z | %37
+w: more. What|ev- er your live|brings you, be|hap- py Christ- mas|day.|
+w: |||||
+"F" A, C F3/2 E/ |"Dm" E D2 D/D/ | D E D"G7" G, |"C" C2 z2 |] %41
+w: Christ- mas is for|child- ren, It will|al- ways be that|way.|
+w: ||||
+

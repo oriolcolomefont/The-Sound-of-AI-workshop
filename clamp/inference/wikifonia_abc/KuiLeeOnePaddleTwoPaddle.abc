@@ -1,0 +1,31 @@
+X:1
+T:One Paddle, Two Paddle
+T:One paddle, two paddle
+T:Kui Lee
+C:Kui Lee
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F""^Swing or Jazz" C2 FF"D7" A2 ^FF |"G7" z2 G2 A2 G2 |"C7" z2 EE D2 C2 |"F" F8 | CCFF"D" A2 z2 | %5
+w: One pad- dle two pad- dle|three pad- dle|for to take me|home|four- teen on the right|
+w: |||||
+"G7" GAGF D2 z2 | z2 GG GFED |"C7" C6 DE |"F" F z z2 z4 |"C7" z4 z2 c2 |"F" cccc A2 F2 | %11
+w: four- teen on the left|take me to Ha- wai- i|nei no- ka|best|I|went a- way a long time|
+w: ||||I|want to smell the flow- ers|
+ z2 cc A2 F2 |"Bb" z2 F2 F2 GF |"F" A8 | cc c2 A2 F2 | A2 cc A2 F2 |"G7" G2 GG G2 d2 |"C7" c6 CC :| %18
+w: such a long time|a long time a-|go|seen e- nough cit- ies|to last a life- time|go- ing a- way no|more Sing- ing|
+w: sweet sweet flow- ers|where the trade winds|blow,~I've|seen e- nough cit- ies|to last a life- time|Go- ing a- way no|more * *|
+"F" C2 FF"D7" A2 ^FF |"G7" z2 G2 A2 G2 |"C7" z2 EE D2 C2 |"F" F8 | CCFF"D7" A2 z2 | %23
+w: one pad- dle two pad- dle|three pad- dle|for to take me|home|Four- teen on the right|
+w: |||||
+"G7" GAGF D2 z2 | z2 GG GFED |"C7" C6 DE |"F" F2 z2 z4 |"C7" z4 z2 CC |:"F" C2 FF"D7" A2 ^FF | %29
+w: four- teen on the left|take me to Ha- wai- i|nei no- ka|best|sing- ing|one pad- dle two pad- dle|
+w: ||||||
+"G7" z2 G2 A2 G2 |"C7" z2 EE D2 C2 |1"F" F6 CC :|2"F" F8- | F8 |] %34
+w: three pad- dle|for to take me|home sing- ing|home||
+w: |||||
+

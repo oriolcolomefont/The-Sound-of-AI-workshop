@@ -1,0 +1,24 @@
+X:1
+T:Too Young
+T:Too Young
+T:Sid Lippman
+T:Sylvia Dee
+C:Sid Lippman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z F |:"Bb" B3 c |"Dm" d A F D |"Gm" G4- |"Cm7" G3"F7" F |"Bb" B3 c |"Dm" d A F D |"Eb" G4- | %8
+w: They|try to|tell us we're too|young|* too|young to|real- ly be in|love|
+"G7" G3 G |"Cm" c d e B |"F7" A3 G | A B"Cm7" c G |"F7" F3 G | A B"Cm7" c G |"F7" F G A F | %15
+w: * they|say that love's a|word a|word we've on- ly|heard but|can't be- gin to|know the mean- ing|
+"Bb" D4- |"Cm7" D3 F |"Bb" B3 c |"Dm" d"D" A F D |"Gm" G4- | G3 F |"Bb" B3 c | d B c d |"Eb" c4- | %24
+w: of|* and|yet we're|not too young to|know|* this|love will|last though years may|go|
+ c3 G |"Cm" e3 d |"Eb" d c c B |"Bb" F4- |"G7" F2 =E F |"Cm7" G3 _E |"Dm" A3"F7" F |1"Bb" B4- || %32
+w: * and|then some-|day they may re-|call|* we were|not too|young at|all.|
+"^CmY" B3"F7" F :|2"Bb" B4- || B4 |] %35
+w: * They|all||
+

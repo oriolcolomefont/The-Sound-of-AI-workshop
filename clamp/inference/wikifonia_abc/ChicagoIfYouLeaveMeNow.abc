@@ -1,0 +1,59 @@
+X:1
+T:If You Leave Me Now
+C:Chicago
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:B
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+ FF |: c2"Bmaj7" dd- d2zF |"G#m7" cBcB c2 Bc- |"D#m7" c2 dd- d2 z2 |z4zd ab- | %5
+w: If you|leave me now, _ you'll|take a- way the big- gest part|_ of me _|Oh, Oh, Oh,|
+w: |leave me now, _ you'll|take a- way the ve- ry heart|_ of me _|Oh, Oh, Oh,|
+"G#m7" b2 ag-"C#7" gfga- |1[M:2/4]"F#"a c2d- |[M:4/4]"B" d2 z2"F#" z4 |z4zF FF :| z8 |2 %10
+w: _ Oh, No _ ba- by please|_ don't go|_|And if you||
+w: _ OH, No _ ba- by please|_ _ _||||
+[M:2/4]"F#"a c2d- ||[M:4/4]"B" d2z2zd ab- |"G#m7" b2 ag-"C#7" (3g2 c2 c2 |[M:2/4]"F#" fga(g | %14
+w: * don't go|_ Oh, oh, oh,|_ oh, No _ I just|want you to stay|
+w: ||||
+[M:4/4]"B" f4-)f"F#" z z2"B" z | z8 |:S"E9sus4" z4 z2 e=a- |=a g2f- f2"Am/E" eb- | %18
+w: _ _||A love|_ like ours _ is love|
+w: ||we've come|_ too far _ to leave|
+ b2 =ae- e2 f(g- |"E" g/f/e) z2 z4 |"G#m7" z4 ffgg- |"E" g2 (=a/g/)f-"F#" f2 g(f- |1 %22
+w: _ that's hard _ to find|_ _ _|How could we let|_ it _ slip _ a- way|
+w: _ it all _ be- hind|_ _ _|How could we end|_ it _ all _ this way|
+"B" f/c/d-d) z z4 |"G#m7" z8 :|2 (b/"B"e/f- f)zzd ef- |"D#m7" f f2f- fffg- ||"G#m7" g d2(c B)zzB | %27
+w: _ _ _ _||* * * * When to- mor-|_ row comes _ and we'll both|_ re- gret _ The|
+w: |||||
+"C#m" e2 fe- e d2"D#m"d- || d3"Em"e/d/ cdc"^To Coda"B- | B F2E FG (3F/G/F/ E | %30
+w: things we said _ to- day|_ (instr.) * * * * *||
+w: |||
+"Bmaj7" c d2d- d2>F2 |"G#m7" cBcB c2>B2 |"D#m7" cdfd- d4 |z4z2zd/c/ | %34
+w: ||||
+w: ||||
+"G#m7" (3B2 c2 d2"C#" c2zc/B/ |[M:2/4]"F#" (3A2 B2 c2 |[M:4/4]"B" B4- B2zd/c/ | %37
+w: |||
+w: |||
+"G#m7" (3B2 c2 d2"C#7" (3c2 d2 ^e2 |[M:2/4]"F#" (3f2 g2 a2 |[M:4/4]"B" f4f"F#" C2"B"D- | %40
+w: |||
+w: |||
+"^D.S." D8 ||OB z z2 z2 FF |"Bmaj7" c2 dd- d2zF |"G#m7" cBcB c2 Bc- |"D#m7" cf(fd-) d2 z2 | %45
+w: |* If you|leave me now _ you'll|take a- way the big- gest part|_ Of you _ _|
+w: |||||
+z4zd ab- |:"G#m7" b2 ag-"C#7" gfga- |[M:2/4]"F#"a c2d- |[M:4/4]"B" d4 z2 z dc | %49
+w: Oh, oh, oh,|* Oh, No, _ ba- by please|_ don't go|_|
+w: ||||
+"G#m7" (3B2 c2 d2"C#7" c3 c/B/ |[M:2/4]"F#" (3A2 B2 c2 |[M:4/4]"B" DD"F#"C"B"D-D"F#" C2"B"D- | %52
+w: |||
+w: |||
+D"F#" C2"B"D D4 |"G#m7" (a2 b/a/)g-"C#7"gzz/c/d |[M:2/4]"F#" fd/f/- f/d/f | %55
+w: |Oh, _ _ girl, _ I just|got to have _ you by|
+w: |Oh, _ _ ma- ma I just|got to have _ your lo-|
+[M:4/4]"B" f(g- g/=a/g/f/- f2) z dc |"G#m7" (3B2 c2 d2"C#7" c3 c/B/ |[M:2/4]"F#" (3A2 B2 c2 | %58
+w: my side _ _ _ _ _ _ _|_ _ _ _ _ _||
+w: _ ving, yeah * * * * * *|||
+[M:4/4]"B" DD"F#"C"B"D-D"F#" C2"B"D- |D"F#" C2"B"D Ddab- :| z8 | z8 |] %62
+w: |* * * * Oh, Oh, Oh,|||
+w: ||||
+

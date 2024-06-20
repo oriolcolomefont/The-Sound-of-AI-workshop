@@ -1,0 +1,28 @@
+X:1
+T:If I Should Lose You
+T:If I Should Lose You
+C:Ralph Rainger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z D"D+7" d3/2 c/ |:"F#dim" A2"Gm" B2 | z D"D+7" d3/2 c/ |"F#dim/G" (3A A c"Gm" B2 | %4
+w: If I should|lose you|the stars would|fall from the sky.|
+"Bb7" z B, B3/2 _A/ |"Bb+9" ^F2"Eb" G2 | z B,"Bb7" B3/2 _A/ |"Bb+9" (3^F F _A"Eb" G2 | %8
+w: If I should|lose you|the leaves would|with- er and die.|
+"Cm7" z G A B |"F13" D2"C+9" D2- |"F13" D C D E |"Bbdim" =E/ G F/"Bb" F2- | F F"Gm" G"D7" A | %13
+w: The birds in|May- time|* would sing a|mourn- ful re- frain|* and I would|
+"F#dim" A/ c B/"Gm" B2 |"C9" B/ d c/ c B |"Cm""Ab7" c4- |"F7" c D"D+7" d3/2 c/ |"F#dim" A2"Gm" B2 | %18
+w: wan- der a- round|hat- ing the sound of|rain.|* With you be-|side me|
+ z D"D+7" d3/2 c/ |"F#dim/G" (3A A c"Gm" B2 |"Bb7" z B, B3/2 _A/ |"Bb+9" ^F2"Eb" G2 | %22
+w: the rose would|bloom in the snow.|With you be-|side me|
+ z B,"Bb7" B3/2 _A/ |"Bb+9" (3^F F _A"Eb" G2 |"Cm7" z G A B |"F9" D2"C+9" D2- |"F6" D"F7" C D E | %27
+w: no winds of|win- ter would blow.|I gave you|my love|* and I was|
+"C#dim" =E/ G F/"Bb" F"Eb" G |"D7" A/ c B/"Gm" B"Gm7" c |"C9" d3/2"Gb7" B/"Bb" F2- | %30
+w: liv- ing a dream, but|liv- ing would seem in|vain if I|
+"Cm9" F2"F+9" G2 |1"Bb""Adim7""Gm" B4 ||"D7/F#" z D"D+7" d3/2 c/ :|2"Bb" B4- || B4 |] %35
+w: * lost|you.|If I should|you.|_|
+

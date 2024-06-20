@@ -1,0 +1,46 @@
+X:1
+T:I Got Plenty o' Nuttin'
+T:I Got Plenty O' Nuttin'
+T:George Gershwin
+C:George Gershwin
+Z:Public Domain
+L:1/8
+M:4/4
+K:none
+V:1 treble transpose=-9 
+%%MIDI program 65
+V:1
+[K:G]"G6" G2 G2"C6" AG A2 |"Gmaj7" B d3"D7" z2 z c |"G6" B2 B2"C6" ABAG |"G6" z4"B7" z F3 | %4
+w: I got plen- ty o'|nut- tin' and|nut- tin´s plen- ty for me.|Oh,|
+w: I got plen- ty o'|nut- tin' and|nut- tin's plen- ty for me.|Oh,|
+"E6" E2 E"Amaj7"^C- C2 z2 |"E6" E2 E"Amaj7"^C- C2 z2 |"E6" E2 E2"Amaj7" ^CE z =F- |"Dbmaj7" F8 | %8
+w: got no car, _|got no mule, _|got no mi- se- ry.|_|
+w: got the sun, _|got the moon, _|got the deep blue sea.|_|
+"Am7" z4"D7" z2 z F ||"G6" G2 G2"C6" AG A2 |"Gmaj7" B d3"D7" z2 z c |"G6" Bc B2"C6" ABAG- | %12
+w: The|folks with plen- ty o'|nut- tin´ they|got- ta lock on _ the door.|
+w: The|folks with plen- ty o'|plen- ty, they|got to pray all _ the day.|
+"G6" G4"B7" F4 |"E6" E2 E2"Amaj7" E ^C3 |"E6" E3 E"Amaj7" E^C z E |"E6" z E z E"Amaj7" ^CE z =F | %16
+w: _ Oh,|´fraid some- bo- dy|going to rob ´em while|there's out- a ma- king|
+w: _ Oh,|seems with plen- ty,|you got to wor- ry,|to keep the de- vil|
+"Dbmaj7" z =F3- F4 |"Am7" z4"D7" F4 |"G6" G4"C6" z4 |"G6" z8 ||"Bm7" F2 DB, D2 B,D | %21
+w: more, _|what|for?||I got no lock on the|
+w: away. _||||I ain't frigh- tend a- bout|
+"E7" F4"Em7" EFEB, |"Bm7" D4 z4 |"E7" z4"Em7" EFEB, |"Bm7" F2 DB, F4 |"E7" z4"Em7" EFEB, | %26
+w: door, that's no way to|be.|They can steal the|rug from the floor,|that's o- kay with|
+w: hell, 'til my time ar-|rives.|Ne- ver wor- ry|long as i'm well.|Ne- ver one to|
+"Bm7" D2 B,D"Am7" E2 CE |"D7" F2 DF"A7" G2 EG |"D7" A2 FA c4- | c8 ||"G6" G2 G2"C6" AG A2 | %31
+w: me, 'cause the things that I'll|prize like the stars in the|sky's all are free.|_|I got plen- ty o'|
+w: strive, to be good, to be|bad, what the hell, I am|glad, I'm a- live.|_|I got plen- ty o'|
+"Gmaj7" B d3"D7" z2 z c |"G6" B2 B2"C6" ABAG |"G6" z4"B7" z F3 |"E6" E2 E^C-"Amaj7" C2 z2 | %35
+w: nut- tin' and|nut- tin's plen- ty for me.|Oh,|got my girl, _|
+w: nut- tin' and|nut- tin's plen- ty for me.|Oh,|got my man, _|
+"E6" E2 E^C-"Amaj7" C2 z2 |"E6" z2 E2"Amaj7" E^C z E |"Dbmaj7" =F2 FF- F4 | z8 | z4"D7" F2 F2 | %40
+w: got my song, _|got hea- ven the|whole day long. _||Got my|
+w: got my song, _|got hea- ven the|whole day long. _||Got my|
+"G6" G8 |"Am7" z4"D7#9" =F2 F2 |"G6" G8 |"Am7" z4"D7#9" =F2 F2 |"G6" G8 |"Am7" z4"D7#9" =F2 F2 | %46
+w: girl.|Got my|song.|Got my|lord.|Got my|
+w: man.|Got my|song.|Got my|lord.|Got ma|
+"G6" G8 | z8 |] %48
+w: song.||
+w: song.||
+

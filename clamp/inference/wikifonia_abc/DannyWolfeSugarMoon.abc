@@ -1,0 +1,24 @@
+X:1
+T:Sugar Moon
+T:Sugar Moon
+T:Danny Wolfe
+T:Danny Wolfe
+C:Danny Wolfe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+ D E =E z |"Bb" F4- | F D E F |"Eb" G4- | G E F G |"F7" A4- | A F G _G |"Bb" F4- | %8
+w: oh sug er|moon|* come out to|night,|* bring me your|glow|* of an- gel|light,|
+ F D"Cm7" E"C#dim" =E |"Bb" F4- | F D"Eb" E"Bb" F |"Eb" G4- | G =E F G |"F7" A4- | %14
+w: * hear in my|arms|* * love will|bloom|* if you will|shine,|
+ A"A" F"F+" _d/"F7" c3/2 |"Bb" B4- | B B c B |"Eb" G4 | G B A G |"Bb" G/ F3/2- F2- | F B z/ c B/ | %21
+w: * oh sug- ar|moon|* while you shine|down|* from up a-|bove * *|* I'll hold her|
+"C7" G4 | G G A B |"F7" A4- | A"Bb" D"C7" E"C#dim" =E |"Bb" F4- | F D"Eb6" E"Bb" F |"Eb" G4- | %28
+w: close|* and talk sweet|love|* and in your|glow|* we'll hear love's|tune|
+ G E F G |"F7" A4- | A"F+" F _d/"F7" c3/2 |"Bb" B4 |"Bb" D"Cm7" E"C#dim" =E z |"Bb" B4 |] %34
+w: * then she'll be|mine|* oh, sug- ar|moon|oh, sug- ar|moon.|
+

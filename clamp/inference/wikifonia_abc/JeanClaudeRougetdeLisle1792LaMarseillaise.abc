@@ -1,0 +1,29 @@
+X:1
+T:La Marseillaise
+T:La Marseillaise
+T:hymne national francais
+T:Jean-Claude Rouget de Lisle (1792)
+T:(Public domain?  written in 1792)
+C:Jean-Claude Rouget de Lisle (1792)
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z3/2 D/ D>D |"G" G2 G2"C" A2"D7" A2 |"G" (d3 B) G z/ G/ B>G |"C" E2 c4"D7" A>F |"G" G4 z2 G>A | %5
+w: Al- lons en-|fants de la Pa-|tri- * e, le jour de|gloire est ar- ri-|vé Con- tre|
+"G" B2 B2 B2 c>B |"D" B2 A2 z2 A>B |"D7" c2 c2 c2 d>c |"G" B4 z2 d>d | (d2 B>)G d2 B>G | %10
+w: nous de la ty- ran-|ni- e L'é- ten-|dard sang- lant est le-|vé L'é- ten-|dard _ sang- lant est le-|
+ D4 z3/2 D/ D>F |"D7" A4 c2 A>F |"G" A2 G2 =F4 |"C" E2 G>G"A7" G2 F>G |"D" A6 z A | %15
+w: vé. En- ten- dez-|vous dans nos cam-|pag- nes Mu-|gir ces fé- ro- ces sol-|dats? Ils|
+"^Gmi" _B3 B BBcd |"D7" A6 _BA |"^Gmi." G3 G G_B"A7"AG |"D" G2 F z z2 z3/2 d/ |"G" (d4 d>)d B>G | %20
+w: vien- nent jus- que dans nos|bras, é- gor-|ger vos fils, * vos com-|pag- nes! Aux|ar- * mes ci- toy-|
+"D" A6 z3/2 d/ |"G" (d4 d>)d B>G |"D" (A4 A) z D2 |"G" G4 z2"D7" A2 |"G" B6 z2 |"C" c4 d2 e2 | %26
+w: ens! For-|mez _ vos bat- tail-|ons! * Mar-|chons, mar-|chons,|Qu'un sang im-|
+"D" (A4 A) z e2 |"G" (d4 d>)B"D7" c>A |"G" G8 |] %29
+w: pur _ A-|breu- * ve nos sil-|lons.|
+

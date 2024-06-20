@@ -1,0 +1,39 @@
+X:1
+T:Bonnie Mary of Argyle
+T:Bonnie Mary of Argyle
+T:Traditional
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z2"C7" A3 B ||"F" c3 A G2 F2 |"Bb" B>c !fermata!d2 f2 d2 |"F" c2 A2"C7" G3 E | %4
+w: ||||
+w: ||||
+"F" F4"C13" A3 B |:"F" c3 A"A7" G2"A+7" F2 |"Bb" D F3"F" z3 A/-A/ |"Bb" G2 d2"C7" c3 B | %8
+w: * I have|heard the ma- vis|sing- ing * his|love song to the|
+w: |voice may lose it's|sweet- ness and thine|eye it's bright- ness|
+"F" A6"C7" AB |"F" c3 A"F7" G2 F2 |"Bb" D F3 z2"Bdim" FG |"F" A2 F2"C13" !fermata!A3 G | %12
+w: morn; I have|seen the dew- drop|cling- ing to the|rose just new- ly|
+w: too; Tho' thy|step may lack it's|fleet- ness and thy|hair it's sun- ny|
+"F" F4"C7" A3"A7" A |"Dm" A2 d2"Gdim" ^c2"Dm" d2 |"A" e2 A4 AA |"Dm" A3 B"A" A2 G2 |"Dm" F4 z2 AA | %17
+w: born. But a|sweet- er song has|cheered me at the|ev'- ning's gen- tle|close; And I've|
+w: hue. Still to|me wilt thou be|dear- er than *|all the world shall|own; I have|
+"G7" G3 G A2 =B2 |"C" c2 G2 z2"Am7" GG |"C" G2 c2"G13" e3 d | %20
+w: seen an eye still|bright- er than the|dew- drop on the|
+w: loved thee for thy|beau- ty but *|not for that a-|
+"C" (c2"Fdim" B2)"C7" !fermata!_B2 AB |"F" c3 A"A7" G2"A+7" F2 |"Bb" D F3 z2"F" AA | %23
+w: rose; * * 'twas thy|voice, my gen- tle|Ma- ry, and thine|
+w: lone; * * I have|watched thy heart, dear|Ma ry, and it's|
+"Bb" G2 d2"C7" c3 B |"F" A6"C7" (AB) |"F" c3 A"F7" G2 F2 |"Bb" B2 !fermata!d2"Bdim" f2 d2 | %27
+w: art- less win- ning|smile That *|made this world an|E- den, Bon- nie|
+w: good- ness was the|wile, That has|made thee mine for|ev- er, Bon- nie|
+"F" c2 A2"C7" G3 E |1"F" !fermata!F4"C13" A3 B :|2"F" !fermata!F6 z2 |] %30
+w: Ma- ry of Ar-|gyle. 2.~Tho' thy|\-gyle|
+w: Ma- ry of Ar-|gyle. * *||
+

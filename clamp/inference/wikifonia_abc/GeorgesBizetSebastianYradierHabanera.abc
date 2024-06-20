@@ -1,0 +1,24 @@
+X:1
+T:Habanera
+T:Habañera
+T:(from the opera "Carmen")
+T:Georges Bizet, Sebastian Yradier
+T:Alfred Publishing Co., Inc.
+C:Georges Bizet, Sebastian Yradier
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Flute" snm="Fl."
+%%MIDI program 73
+V:1
+!p!"^Moderato" .d2 .^c2 | =c3 (c .=B2) ._B2 | A3 (A .^G2) .=G2 | (3(FG)F EF .G2 .F2 | %4
+ D3 z .d2 .^c2 | =c3 (c .=B2) ._B2 | A3 (A .G2) .F2 | (3(EF)E DE .F2 .E2 || %8
+[K:D]!<(!!mp! D3 z .d2 .c2!<)! | =c3 (c .B2) ._B2 | A3 (A .^G2) .=G2 | (3(FG)F EF .G2 .F2 | %12
+ D3 z .d2 .c2 | =c3 (c .B2) ._B2 | A3 (A .G2) .F2 | (3(EF)E DE .F2 .E2 | D3!mf! (A .D2) .E2 | %17
+ F3 (A .F2) .E2 | D3 (E .F2) .G2 | .A.A.A.A .B2 .A2 | G3 (B .E2) .F2 | G3 (B .G2) .F2 | %22
+ E3 F .G2 .A2 | .B.B.B.B .c2 .B2 | A2 z!<(! (A .d2) .e2!<)! |!f! f2 z!mp! (A .F2) .E2 | %26
+ D3 (E .F2) .G2 |"_poco ritenuto" .A.A.A.A !fermata!d2"^a tempo" (3(cd)c | %28
+ G2 z!<(! (B .e2) .f2!<)! |!f! g2 z!mf! (B .G2) .F2 | E3 (F .G2) .A2 | %31
+"_molto ritenuto" (cB)^GA !fermata!f2!<(!"^a tempo" (3(ef)e!<)! |!f! !>!.d2 z (a !>!.d'2) z2 |] %33
+

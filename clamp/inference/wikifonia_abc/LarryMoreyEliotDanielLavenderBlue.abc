@@ -1,0 +1,29 @@
+X:1
+T:Lavender Blue
+T:Lavender Blue
+T:(Dilly Dilly)
+T:Larry Morey,Eliot Daniel
+C:Larry Morey,Eliot Daniel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" F4 A2 d2 |"F7" c4 BAGF |"Bb" z2 f2 e2 d2 |"F" c8 |"Bb" f4 e2 d2 |"F" c4 BAGF |1 %6
+w: Lav- en- der|blue dil- ly dil- ly|lav- en- der|green|If I were|king dil- ly dil- ly|
+w: Who told me|so? dil- ly dil- ly|who told me|so?|I told my-|self dil- ly dil- ly|
+"G7" G4 G2 A2 ||"C7" G8 :|2"C7" d2 d4 E2 ||"F" F6 FF |"Bb" ddff d2 FF | ddff d3 d | %12
+w: I'd need a|queen|I told me|so if your|dil- ly dil- ly heart feels a|dil- ly dil- ly way N|
+w: ||||||
+"A" c2 e2 c2 e2 |"D7" c4 c2 cc |"C" eegg e2 GG | eegg e4 |"G7" g2 f2 e2 dd |"C7" ccBB A2 G2 | %18
+w: if you'll an swer|yes * in a|pre- ty lit- tle church on a|dil- ly dil- ly day|You'll be wed in a|dil- ly dil- ly dress of|
+w: ||||||
+"F" F4 A2 d2 |"F7" c4 BAGF |"Bb" z2 f2 e2 d2 |"F" c8 |"Bb" f4 e2 d2 |"F" c4 BAGF |"G" d4 B4 | %25
+w: Lav- en- der|blue dil- ly dil- ly|Lav- en- der|green|then I'll be|king dil- ly dil- ly|and you'll|
+w: |||||||
+"C7" e4 c4 |"F" f4"Bb" agfe |"F" f6 z2 |] %28
+w: be my|queen * * * *||
+w: |||
+

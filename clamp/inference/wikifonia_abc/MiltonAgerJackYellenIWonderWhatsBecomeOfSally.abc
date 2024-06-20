@@ -1,0 +1,24 @@
+X:1
+T:I Wonder What's Become Of Sally
+T:I Wonder What's Become Of Sally
+C:Milton Ager
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 D2 |:"G" d3 ^c =cB |"Dmaj7" A4 G2 |"A7" F6 | E4 G2 |"D7" F6 | E4 c2 |"G" B6- | B4 D2 | %9
+w: I|won- der what's be-|come of|Sal-|ly, That|old|gal of|mine?|_ The|
+ d3 ^c =cB |"Bm" A4"Gm/Eb" G2 |"D/A" F6 |"B7" B6 |"Em" G3 F GA |"A7" B6 |"D7" A3 ^G AB | c4 ^c2 | %17
+w: sun- shine's miss- ing|from our|al-|ley,|Ev- er since the|day|Sal- ly went a-|way. No|
+"G7" de d3 e | d4 G2 |"C" c>d c3 d | c4 E2 |"E" B>c B3 c |"E7" B4 E2 |"A7" A>B A3 B |"D7" A4 D2 | %25
+w: mat- ter what she|is, Where-|ev- er she may|be, If|no one wants her|now Please|send her home to|me. I'll|
+"G" d3 ^c =cB |"Dmaj7" A4 G2 |"E7" F6 | E4 E2 |"Am7" c6 |"D7" d4 B2 |1"G" G6- | G2"D7" z2 D2 :|2 %33
+w: al- ways wel- come|back my|Sal-|ly, That|old|gal of|mine.|_ I'll|
+"G" G6- | G4 z2 |] %35
+w: mine.|_|
+

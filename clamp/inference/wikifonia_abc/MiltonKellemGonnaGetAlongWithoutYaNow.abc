@@ -1,0 +1,40 @@
+X:1
+T:Gonna Get Along Without Ya Now
+T:Gonna Get Along Without Ya Now
+T:Milton Kellem
+T:Milton Kellem
+C:Milton Kellem
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" G2 C2 G>C C2 |"Am" E2 C2 D>A, A,2 |"Gm" A2 D2 G>D D2 |"C7" c6 C2 |"F" F6 F2 |"Am" c6 c>c | %6
+w: |||* Hmm|Hmm Hmm|Hmm Gon- na|
+"Gm7" BBBB"C13" c2 cA- |"F" A6 C2 | F2 FF- FF F2 |"Am" c2 cc- cccc |"Gm7" BBBB"C13" c2 cA- | %11
+w: Get A- long With- out Ya now|* Hmm|Hmm- my hon * ey Hmm|Hmm my hon- * ey gon- na|get a- long with- out ya now|
+"F6" A6 z A |"Fmaj7" c2 cc- c c2 c |"Dm" A2 AA- A2 z A |"Gm7" c2 cc- c c2 c |"C9" A2 AA- A2 FF | %16
+w: * You|told me I * was the|neat- est thing * You|ev- en asked * me to|wear your ring * then you|
+"Fmaj7" A2 AA- AAAA |"Dm" F2 FF- F2 z F |"Gm7" A2 AA- A A2 A |"C9" D2 DD- D2 C2 |"F" F6 F2 | %21
+w: ran a- roun' * with ev- 'ry|girl in town * you|nev- er cared * if it|got me down * Hmm|Hmm Hmm|
+"Am" c6 cc |"Gm7" BBBB"C13" c2 cA- |"F" A6 C2 | F2 FF- FF F2 |"Am" c2 cc- cccc | %26
+w: Hmm gon- na|get a- long with- out ya now|* Hmm|Hmm my hon- * ney Hmm|Hmm my hon- * ey gon- na|
+"Gm7" BBBB"C13" c2 cA- |"F" A6 CC |"F6" F2 FF- FF F2 |"Am" c2 c2 cccc |"Gm7" BBBB"C13" c2 cA- | %31
+w: get a- long with out ya now|* got a|long with- out- * ya be-|fore I met ya gon- na|get a- long with- ouy ya now|
+"F" A4 z2 CC |"F6" F2 FF- FF F2 |"Am" c2 c2 c2 c>c |"Gm7" BBBB"C13" c2 cA- |"F6" A4 z2 A2 | %36
+w: * gon- na|find some- bod- * y who's|twice as cute 'cause I|did- n't like ya an- y- how|* You|
+"Fmaj7" c2 cc cc c2 |"Dm" A2 A2 A3 A |"Gm7" c2 c2 c2 c2 |"C13" A2 A2 A2 z2 |"Fmaj7" A2 AA AA A2 | %41
+w: told ev'- ry bod- y that|we were friends but|this is where our|friend- ship ends|All of a sud- den you|
+"Dm" F2 F2 F2 z F |"Gm7" AAAA A2 A2 |"C9" D2 D2 D2 C2 |"F" F6 F2 |"Am" c6 cc | %46
+w: change your tune you|have- n't been a- round since|way last June Hmm|Hmm Hmm|Hmm gon- na|
+"Gm7" BBBB"C13" c2 cA- |"F" A6 CC |"F6" F2 FF- FF F2 |"Am" c2 cc- cccc |"Gm7" BBBB"C13" c2 cA- | %51
+w: get a- long with- ouy ya now|* got a|long with- out * ya be-|fore I met * ya gon- na|get a- long with- out ya now|
+"F" A6"C7" C2 |"C13" c6 c2 |"F" AA z2 z2 C2 |"C13" c6 c2 |"F" A4 C2 C2 |"C13" c2 c2 c2 c2 | %57
+w: * So|long my|hon- ey Good-|bye my|dear gon- na|get a- long with-|
+"Gm7" B4"C13" c4 |"F" A4-"Dm" A4- |"Gm7" A4-"C7b9" A4- |"F6" A4- A4- | A6 z2 |] %62
+w: out you|now- *||||
+

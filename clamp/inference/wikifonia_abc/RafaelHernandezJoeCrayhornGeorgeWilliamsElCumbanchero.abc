@@ -1,0 +1,40 @@
+X:1
+T:El Cumbanchero
+T:El Cumbanchero
+T:Rafael Hernandez
+T:(Eng.)Joe Crayhorn&George Williams
+C:Rafael Hernandez
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z z/ G/ |:S"Cm" c c c c | c c c c | e3/2 c/ z2 | z2 z z/ G/ | c c c c | c c c c | e3/2 c/ z2 | %8
+w: El|cum- ba, cum- ba,|cum- ba, cum- ban-|che- ro,|In|Span- ish means a|rogue of a ran-|che- ro.|
+w: |cum- ba, cum- ba,|cum- ba, cum- ban-|che- ro.|He's|got a gal with|plen- ty of di-|ne- ro,|
+w: |cum- ba, cum- ba,|cum- ba, cum- ban-|che- ro,|The|sen- or- i- tas|wait for his bo-|le- ro.|
+ z2 z c/d/ | e3/2 c/"Bb" d3/2 B/ |"Ab" c3/2 A/"Gm" B3/2 G/ |"Fm" A3/2 F/"Cm" G3/2 E/ | %12
+w: While the|oth- er gau- chos|work all day, El|Cum- ban- che- ro|
+w: He will|tell her she's the|on- ly one, but|when her back is|
+w: But El|Cum- ban- che- ro|takes his time, so|they will have to|
+"Fm" F3/2 D/"Cm" E3/2 C/ |"D7" D4 |"G7" z2 G A |O G F E D!dacoda! |"Cm" C4- |1 C2 z z/ G/ :|2 %18
+w: spends his day at|play,|with a|la- dy in his|arms.|* El|
+w: turned, just watch him|run,|to an|oth- er la- dy's|arms.||
+w: stand in line to|dance,|in El|Cum- ban- che- ro's|||
+ C3 z ||"C7" C4 | =E2 G2 | B2 _d2 | c2- c/B/A/G/ |"Fm" F4 | z2 C C | F4 | z2 z E |"D7" D4 | %28
+w: |Girls|don't be-|lieve that|he * could tell a|lie,|ay, ay,|ay.||All|
+w: ||||||||||
+w: ||||||||||
+ ^F2 =A2 | c2 e2 | d2- d/c/B/A/ |"G7" G3 z |"Fm" z2 d B |"G7" (3G A G (3F G F!D.S.! | %34
+w: of them|think that|he's * their spe- cial|guy,|hear them|cry, * * * * *|
+w: ||||||
+w: ||||||
+ (3E F E D z/ G/ ||"Cm""^Coda" C3 z |"G7" ^f g =a =b |"Cm" c'2 c' c' | c'2 z2 |] %39
+w: * * * * Hey!|Arms.||||
+w: |||||
+w: |||||
+

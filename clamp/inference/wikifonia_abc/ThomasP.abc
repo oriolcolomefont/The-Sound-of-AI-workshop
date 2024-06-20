@@ -1,0 +1,24 @@
+X:1
+T:I'll Take You Home Again, Kathleen
+T:I'll take you home again, Kathleen
+T:unknown
+T:Irish traditional
+C:Thomas P. Westendorf
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"C7" z2 C2 |"F" A3 A"C7" BG"G#dim7"d=B |"F/A" c6 z A |"C7" A3 G ^FGA>G |"F" F6"C7" z C | %5
+w: I'll|take you home a- gain Kath-|leen a-|cross the o- cean wild and|wide to|
+"F" A3 A"C7" BG"G#dim7"d=B |"F/A" c6 z A |"C" G3 c"G7" d=BAG |"C7" c6 z c |"Gm7" d3 c BAB=B | %10
+w: where your heart has ev- er|been since|first you were my bon- ny|bride the|ros- es all have left your|
+"F" c6 z c |"C7" e3 d cBGB |"F" A6 z A |"Dm" A3 d AA"Dm#5"BB |"A7/E" A6"D7" z A |"G7" G3 G AGA=B | %16
+w: cheek I've|watched them fade a- way and|die your|voice is sad when e'er you|speak and|tears be- dim your lov- ing|
+"C7" c6 z c |"F" A3 A"C7/G" BG"G#dim7"d=B |"F/A" c6 z A |"C7" A3 G ^FGAG |"F" F6 z c | c3 A GFDF | %22
+w: eyes Oh|I will take you back Kath-|leen to|where your heart will feel no|pain and|when the fields are fresh and|
+"Bb" d6 ed |"F/C" c3 A"C7" GABE |"F" F6 z2 |] %25
+w: green I'll *|take you to your home a-|gain.-|
+

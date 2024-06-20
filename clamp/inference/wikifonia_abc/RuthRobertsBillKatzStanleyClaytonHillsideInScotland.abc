@@ -1,0 +1,31 @@
+X:1
+T:Hillside In Scotland
+T:Hillside in Scotland
+T:S.Clayton,Katz,Roberts
+C:Ruth Roberts, Bill Katz, Stanley Clayton
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F4 F2 |"Dm7" F2 G2 A2 |"Bb" A2 G3 F |"C7" ED C4 |"F" F4 F2 |"Dm7" F2 A2 c2 |"Bb" d2 c3 A | %7
+w: I re-|mem- ber the|hill- side in|Scot- * land|I re-|mem- ber the|boy in the|
+"Gm7" G6 |"Bb" d4 f2 |"C7" e4 d2 |"Am" c4 d2 |"Dm7" AG F4 |"Gm7" G2 F3 F |"Am7" c2 A3 A | %14
+w: glen|There my|heart is|still a|wan- der ing|ev- er and|ev- er and|
+"Gm7" G2 F3 F |"Dm7" F6 |"F" F4 F2 |"Dm7" F2 G2 A2 |"Bb" A2 G3 F |"C7" ED C4 |"F" F4 F2 | %21
+w: ev- er a-|gain|Green and|warm was that|hill- side in|Scot * land|Cher- ry|
+"Dm7" F2 A2 c2 |"Bb" d2 c3 A |"Gm7" G6 |"Bb" d4 f2 |"C7" e4 d2 |"Am" c2 d4 |"Dm7" AG F4 | %28
+w: sweet was the|love that was|there|there my|heart is|still a|wan- der- ing|
+"Gm7" G2 F3 F |"Am7" c2 A3 A |"Gm7" G2 F3 F |"Dm7" F6 |"Dm7" f4 f2 |"C" e4 c2 |"Bb" d2 f3 f | %35
+w: ev- er and|ev- er and|ev- er a-|gain-|There the|moon was|burn- ing *|
+"Am" c6 |"Bb" d4 d2 |"Am" c4 A2 |"G7" A2 G2 F2 |"C7" G6 |"F" F4 F2 |"Dm7" F2 G2 A2 |"Bb" A2 G3 F | %43
+w: bright|when we|kissed that|bon- * ny|night|I re-|mem- ber the|hill- side in|
+"C7" ED C4 |"F" F4 F2 |"Dm7" F2 A2 c2 |"Bb" d2 c3 A |"Gm7" G6 |"Bb" d4 f2 |"C7" e4 d2 |"Am" c4 d2 | %51
+w: Scot- * land|I re-|mem- ber the|boy in the|glen|there my|heart is|still a|
+"Dm7" AG F4 |"Gm7" G2 F3 F |"Am7" c2 A3 A |"Gm7" G2 F3 F |"Dm7" F6 |"Bb" d4 f2 |"C7" e4 d2 | %58
+w: wan- der- ing|ev- er and|ev- er and|ev- er a-|gain|there my|heart is|
+"Am" c4 d2 |"Dm7" AG F4 |"Gm7" G2 F3 F |"Am7" c2 A3 A |"Gm7" G2 F3 F |"Dm7" F6 |] %64
+w: still a-|wan- der- ing|ev- er and|ev- er and|ev- er a-|gain.-|
+

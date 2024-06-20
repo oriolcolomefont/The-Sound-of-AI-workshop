@@ -1,0 +1,16 @@
+X:1
+T:Groovin' High
+C:Charlie Parker, Dizzy Gillespie
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+|:"Eb" BG z2 z4 | BG z2 z4 |"Am7"z=E =Ac"D7" =BA^GE |"Am7" GF^Fd-"D7" d2 c=A |"Eb" BG z2 z4 | %5
+ BG z2 z4 |"Gm7"zD GB"C7" =AG^FD |"Gm7" FE=Ec-"C7" c2 B^G |"F7" =AF z2 z4 | (3=ABA F z z4 ||1 %10
+"Fm7"zC FA"Bb7" GF=EC |"Fm7" E^CDB-"Bb7" B2 A^F |"Eb" GBdf-"Gm7" f2 dB |"F#m7" =e^c z2 z4 | %14
+"Fm7" FAce- e2 cA |"E7" d=B z2 z2 B/^c/B/=A/ :|2"Fm7"zC FA"Bb7" GF=EC ||"Fm7" E^CDB-"Bb7" B2 A=E | %18
+"Fm7" .F2 FG AG .F2 |"Abm7" .A2 AB"Db7" _cB .A2 |"Eb6" .e2 z2"^(Gb7" z4 |"Fm7" z4"^E7)" z4 |] %22
+

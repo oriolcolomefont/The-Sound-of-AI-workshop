@@ -1,0 +1,22 @@
+X:1
+T:In cerca di Te
+C:Eros Sciorilli
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am" A B c e |"B7" ^d B"E7" =d c |"Am" A4 | z4 |"Dm" d e f a |"E7" ^g e"A7" =g f |"Dm" d4 | z4 | %8
+"E7" e2 b2 | c' b a ^g |"Am" b2 a2 | z e"F" g f |"Am" e c e d |"F" c A"B7" c A |"E7" B4 | z4 | %16
+"Am" A B c e |"B7" ^d B"E7" =d c |"Am" A4 | z4 |"Dm" d e f a |"E7" ^g e"A7" =g f |"Dm" d4 | z4 | %24
+"E7" e2 b2 | c' b a ^g |"Am" b2 a2 | z e"F" g f |"Am" e c e d |"B7" c A"E7" c B |"Am" A4 | %31
+ z a a a |"Dm" a2 g2 |"G7" b a g f |"C" e4 | z a a a |"Dm" a2 g2 |"G7" b a g f |"E7" e4 | %39
+"A7" z e e e |"Dm6" e d e f |"F7" a ^g a b |"E7" ^g4 | z e ^f ^g |"Dm" a ^g a b |"F" c' b c' d' | %46
+"E7" b4 |"F" z a a b |"E7" ^g4 |"Dm" z f f g |"E7" e4 | z4 |"Am" A B c e |"B7" ^d B"E7" =d c | %54
+"Am" A4 | z4 |"Dm" d e f a |"E7" ^g e"A7" =g f |"Dm" d4 | z4 |"E7" e2 b2 | c' b a ^g |"Am" b2 a2 | %63
+ z e"F" g f |"Am" e c e d |"B7" c A"E7" c B |"Am" A4 | z4 |] %68
+

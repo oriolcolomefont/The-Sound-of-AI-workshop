@@ -1,0 +1,17 @@
+X:1
+T:Negyvenhatos sárga villamoson
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" c2 c2 B A3 |"G" GG^FG A G3 |"C" cBcd"G" e d3 |"C" c4 z4!fine! :|"C" e2 e2"G" B d3 | %5
+w: Negy- ven- ha- tos|sár- ga vil- la- mos- on|ka- la- uz az a- nyó-|som,|Sej, haj, Li- na,|
+"C" c2 c2"F" B A3 |"G" d2 d2 A c3 | BdBA GGAB!D.C.! |] %8
+w: nincs itt hi- ba,|e- gyütt me- gyünk|a mo- zi- ba, a mo- zi- ba,|
+

@@ -1,0 +1,29 @@
+X:1
+T:Aimer à Perdre La Raison
+C:Jean Ferrat
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" z8 |"E7" z8 |"Am" z8 |"F" z4"G7" z2 z G, ||S"C" E3 E DE"E7"FG |"Am" C4 z2 z C | %6
+w: |||Ai-|mer à per- dre la rai-|son Ai-|
+w: ||||||
+"F" F3 F EF"A7"GA |"Em""G7" D6 z2 |"C" z EFG FEDC |"G7" D6 z2 |"Dm" z FGA GFED |"Am" E6 z2 | %12
+w: mer à n'en sa- voir que|dire|A n'a- voir que toi d'ho- ri-|zon|Et ne con- naî- tre de sai-|son|
+w: ||||||
+ z ABc BA^GA |"Am7" c6 z =A |"F" c3 c =B=A^GA!dacoda! ||"C" c8 |"Cm" z8 | z GF_E DC=B,C | %18
+w: Que par la dou- leur du par-|tir Ai-|mer à per- dre la rai-|son||Ah c'est tou- jours toi que l'on~bles-|
+w: |||||La faim la fa- tigue et le|
+ GGF_E DC=B,C |"Fm" _AAGF"Bb7" D_EFD |"Eb" G3 G- G2 z2 |"Fm" z F_ED"G9" =B,CDB, | %22
+w: se C'est tou- jours ton mi- roir bri-|sé Mon pau- vre bon- heur ma fai-|bles- se _|Toi qu'on in- sulte et qu'on dé-|
+w: froid Tou- tes les mi- sè- res du|monde C'est par mon a- mour que j'y|crois _ _|En el- le je por- te ma|
+"Abmaj7" _E3 E- E2 z2 |"Fm" z _EDC B,CDE |"G7" D6 z G,!D.S.! ||O"Am" c8- |[M:2/4]"F" c4 | %27
+w: lais- se _|Dans tou- te chair mar- ty- ri-|sée Ai-|son||
+w: croix _ _|Et de leurs nuits ma nuit se|fonde Ai-|||
+[M:3/4] z6 |"C" z6 |] %29
+w: ||
+w: ||
+

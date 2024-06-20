@@ -1,0 +1,36 @@
+X:1
+T:My Ship
+T:My Ship
+T:from "Lady in the Dark"
+T:Kurt Weill
+T:Ira Gershwin
+C:Kurt Weill
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z C |:"F" D F"D7" c A/c/ |"Gm7" A D"C7" D z/ C/ |"F" D F"F#dim" c c |"G7" D3"C+7" C/^C/ | %5
+w: My|ship has sails that are|made of silk. The|decks are timmed with|gold. And of|
+w: |ship's a- glow with a|mil- lion pearls, and|ru- bies fill each|bin. * The|
+"F" D F"D7" c c/d/ |"Gm7" c B"A7" A E/F/ |1"Dm""Em" G4- |"Gm" G3"C7" C :|2"Dm" G2"Em" G2 | %10
+w: jam and spice there's a|par- a- dise in the|hold.|* My|ship comes|
+w: sun sits high in a|sap- phire sky when my||||
+"Bb" F2 z"F7" A/c/ ||"Gm" B"Am" A"C7" G3/2 c/ |"Gm" B"Am" A"C7" G2 |"Gm" d B"C7" G F | %14
+w: in. I can|wait the years till|it ap- pears|one fine day, one|
+w: ||||
+"F" A3"E7" =B/d/ |"Am7" c =B"Dm7" A z/ d/ |"Am7" c =B"Dm7" A B/c/ |"G7" d =B G"Edim" E | %18
+w: spring. But the|pearls and such, they|won't mean much if there's|mis- sing just one|
+w: ||||
+"G7" D3"C+7" C |"F" D F"D7" c A/c/ |"Gm7" A D"C7" D z/ C/ |"F" D F"F#dim" c c |"G7" D3"C+7" C/^C/ | %23
+w: thing. I|do not care if that|day ar- rives, that|dream need ne- ver|be, if the|
+w: |||||
+"F" D F"D7" c c/d/ |"Gm" c B"A7" A G |"Dm" F3/2 F/"G7" G"C7" G |"F" A3"C+7" c/c/ | %27
+w: ship I sing does- n't|al- so bring my|own true love to|me. If the|
+w: ||||
+"F" =B c"Dm" f e/f/ |"Bb7" e d c B |"F" c2"Gm" f2 |"Bbm6" F2"C7" G2 |"F" F4 |] %32
+w: ship I sing does- n't|al- so bring my|own true|love to|me.|
+w: |||||
+

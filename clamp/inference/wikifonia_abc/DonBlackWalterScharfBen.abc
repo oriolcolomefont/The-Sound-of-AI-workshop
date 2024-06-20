@@ -1,0 +1,27 @@
+X:1
+T:Ben
+T:Ben
+T:Walter Scharf / Don Black
+T:Transcripción: Alberto Betancourt
+C:Don Black, Walter Scharf
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"^Moderato""F" A,CFA,"Gm7/F" B,DCB, |"F" A,CFA,"Gm7/F" B,DCB, :|"F" C3 D C=B,CD | %3
+"C7/E" CG G4 z2 |"F" C3 D C=B,CD |"C7/E" CB B4 z2 |"F" A3 B A^GAB |"A7sus4/E" A3 B"A/C#" A^GAB | %8
+"Eb7b5" A3 B"D7" A^GAB |"^Db6b5" G3 A"C7" G^FGA- |"F" AG F2-"Gm/F" F4 |"F" A,CFA,"Gm7/F" B,DCB, | %12
+"Fm" C3 _D C=B,CD |"C7/E" CG G4 z2 |"Fm" C3 _D C=B,CD |"C7/E" CB B4 z2 |"F" A3 B A^GAB | %17
+"A7sus4/E" A3 B"A/C#" A^GAB |"Eb7b5" A3 B"D7" A^GAB |"^Db6b5" G3 A"C7" G^FGA- | %20
+"F" AG F2-"Gm/F" F4 |"F" A,CFA,"Gm/F" B,D F2 |:"Gm7" Gc c2-"C7/E" c2 z2 |"Fmaj7" EA A2-"F6" A2 z2 | %24
+"Gm7" DG G2-"C7/E" G2 z2 |1"F" CF F2 z2 F2 :|2"F" CF F4 z2 || C3 D C=B,CD |"C7/E" CG G4 z2 | %29
+"F" C3 D C=B,CD |"C7/E" CB B4 z2 |"F" c3 d c=Bcd |"C7/E" c3 d c=Bcd |"Eb7" B3 c"D7" BABc | %34
+"^Db6b5" B2 FA"C7" G^FGC |"F" F4-"Gm/F" F2 C2 |"F" F4-"Gm/F" F2 AG |"F" G F3"Gm/F" z2 C2 | %38
+"F" F4-"Gm/F" F2 G2 |"Fmaj7" AG"F6" F6 |] %40
+

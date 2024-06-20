@@ -1,0 +1,17 @@
+X:1
+T:Buster Rides Again
+T:Buster rides again
+T:Bud Powell
+C:Bud Powell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 56
+V:1
+"^Latin" z6 G2 |:"C7" c2 c_B- BG c2 | z6 G2 |"C7" c2 c_B z2 G2 | z6 G2 |"C7" c2 c_B- BG c2 | %6
+ z6 G2 |"C7" c2 c_B z2 G2 | z6 C2 ||"F7""^Swing" G4 F G2 _E- |"C7" E C2 z z C3 |"F7" G4 F G2 =E | %12
+"C7" z6 C2 |"F7" G4 F G2 _E- |"C7" E C2 z z C3 |"Ab7" _E2 z2 E C2 D |1 %16
+"G7" z6"_(fade latin section (A) to end)" G2 :|2 z8 |] %18
+

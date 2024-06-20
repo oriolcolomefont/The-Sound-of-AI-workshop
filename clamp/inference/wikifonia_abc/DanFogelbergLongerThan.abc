@@ -1,0 +1,36 @@
+X:1
+T:Longer Than
+T:Longer Than
+T:Dan Fogelberg
+T:Dan Fogelberg
+C:Dan Fogelberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z2 DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 |"G" z2 DB,"Am7" A,2 B,C | %3
+w: Long er than there've been|fish- es in the oc- ean|High er than an- y|
+"Gmaj7/B" DEF"C" E3- E2 |"G" z2 DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 | %6
+w: bird ev- er flew _|Long- er then there've been|stars up in the heav- ens|
+"Bb" DC_B,"D7/A" C2"G" A,2"C/G" G,- |"G" G,8 | z2 DB,"Am" A,2 B,C |"Gmaj7/B" DED"C" G,2 A,3 | %10
+w: I've been in love with you|_|Strong- er than an- y|moun- tain cath- ed ral|
+"G" z2 DB,"Am" A,2 B,C |"Gmaj7/B" DEF"C" E3- E2 |"G" z2 DB,"Am" A,2 B,C |"Gmaj7/B" DED"C" G,2 A,3 | %14
+w: True- er than an- y|tree ev- er grew _|Deep- er than an- y|for- est prim- ev- al|
+"Bb" DC_B,"D7/A" C2 A,2"G" G,- | G,8 |"F9/C" =F4"C" E4 |"Eb9/Bb" CD_E=F"Bb" D_B,- B,2 | %18
+w: I am in love with you>||I'll bring|fi- re in the win- ter _|
+"F9/C" =F4"C" E4 |"Eb9/Bb" =F_EDC"Bb" ED/C/ _B,2 |"F9/C" =F4"C" E4 | %21
+w: You'll send|show- ers in the spring _ _ _|We'll fly|
+"Eb9/Bb" CD_E=F"Bb" D_B,-B,=F, |"D7sus4/G" D6"D/F#" C"Dm7/F"B, |"D7/F#" A,8 | %24
+w: through the falls and sum- mers _ with|Love on our|wings.|
+"G" z2 DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 |"G" z2 DB,"Am7" A,2 B,C | %27
+w: Through the years as the|fi- re starts to mel- low|Blur- ring lines in the|
+"Gmaj7/B" DEF"C" E3- E2 |"G" z D/D/DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 | %30
+w: books of our lives _|though the bind- ing cracks and the|pag- es start to yel low|
+"Bb" DC_B,"D7/A" C2 A,2"G" G,- | G,8 |"Bb" DC_B,"D7/A" C2 F2"G" G- | G8 |] %34
+w: I am in love with *||I am in love with you|_|
+

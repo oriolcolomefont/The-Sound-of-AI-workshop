@@ -1,0 +1,45 @@
+X:1
+T:A WHOLE NEW WORLD
+T:A WHOLE NEW WORLD
+T:soundtrack from Alladin
+T: Lyrics entered by Raphael Pungin  br326@cleveland.freenet.edu 
+T:A WHOLE NEW WORLD
+C:Alan Menken
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 4
+%%MIDI program 73
+V:1
+"D" f e/"D/G" g f/ d/ A/- |"D" A4 |"D" f e/"D/G" g f/ d |"Bm" f3/2 e/"A/C#" e2 | %4
+w: I can show you the world|_|Shin- ing, shim- mer- ing,|splen- * did|
+"Em" e _e/"F#7" f =e c/ |"Bm" e d c/"Bm/A" d B/ |"G" z c/ e d"D" A/- | A4 | %8
+w: Tell me prin- cess, now|when did you last let|your heart de- cide?|_|
+"D" f e/"D/G" g f/ d/ A/- |"D" A4 |"D" f e/"D/G" g f/ d |"Bm" f3/2 e/"A/C#" e2 | %12
+w: I can o- pen your eyes|_|Take you won- der by|won- * der|
+"Em" e _e/4"F#7" f =e c/ e/4- |"Bm" e d"Bm/A" c d |"G" B/ c e d"D" f/- |"D" f3/2 f/"G" g b | %16
+w: O- ver, side- ways and un-|* der On a|ma- gic car- pet ride.|_ A whole new|
+"A" a4 |"G" z3/2 f/ g b |"A/C#" a e/ g z/4 f/4 f- |"D" f2 f/g/ a |"A" c' b/ a2 f/ | %21
+w: world|A new fan-|tas- tic point of view|_ No one to|tell us no Or|
+"G" c' d'/"D" a2 d/ |"Bm" f e"E7" d B |"A7" d e/f/ g b |"A" a4- |"D" a f g b | %26
+w: where to go Or|say we're on- ly|dream- ing A whole new|world|_ A dazz- ling|
+"A" a e/"Bbdim7" g3/2 f/ f/- |"Bm" f2"D7" f/ g a/ |"G" c' b/"D" a2 d/ |"G" c'/ d'"D" a2 d/ | %30
+w: place I ne- ver knew|_ But, now, from|way up here It's|crys- tal clear That|
+"Bm" f e"E7" d e |"C" g f"A7" d c |"D" d4- | d2 z2 |[K:F]"F" a g/"F/Bb" b a/ f/ c/- |"F" c2 z2 | %36
+w: now I'm in a|whole new world with|you.|_|Un- be- lie- va- ble sights|_|
+"F" a g/"F/Bb" b a/ f |"Dm" a z/4 g/4"C/E" g2 g/ |"Gm" z ^f/"A7" a g e/ |"Dm" g f"Dm/C" e f | %40
+w: In- desc- ri- ba- ble|feel- * ing Soar-|ing, tumbl- ing, free-|wheel- ing Through an|
+"Bb" d/ e g f a/- |"F" a a"Bb" b d'/c'/ |"C" c'4- |"C/F" c' a b d' |"C" c' g/ b3/2 a/ a/- | %45
+w: end- less dia- mond sky.|_ A whole new _|world|_ A hund- red|thou- sand things to see|
+"F" a2 a/ b c'/ |"C/Bb" e' d'/ c'2 f/ | z e'/d'/ z3/2 f/ |"D" a g f g |"Bb/C" b a f d | %50
+w: _ I'm like a|shoot- ing star I've|come so I|can't go back to|where I used to|
+"C" g a a/g/ f |"F" c a b d' |"C" c' g/ b3/2 a/ a/- |"D" a2 a/ b c'/ |"C/Bb" e' d'/ c'2 f/ | %55
+w: be. A whole _ new|world With new ho-|ri- zons to pur- sue|_ I'll chase them|a- ny- where There's|
+ e' f' c'2 | z3/4 a/ g/ f g b/4- |"Eb" b a f e |"D" f4 | z z/4 a/ b d' z/4 |"F/Bb" c'4 | %61
+w: time to spare|Let me share this whole|_ new world with|you.|A whole new|world|
+ z3/2 a/ b d' |"C/G" c'4 | z3/2 a/ b d' |"F/Bb" c'3/2 a/ b d' |"F/C" c' c c' a/g/ |"F" f2 z2 | %67
+w: That's where we'll|be|A thril- ling|chase A wond- rous|place For you and _|me.|
+

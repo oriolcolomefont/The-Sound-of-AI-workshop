@@ -1,0 +1,48 @@
+X:1
+T:Moondance
+T:Moondance
+C:Van Morrison
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4"Gm" z CFG |:"Fm" AGFG-"Gm" GFEF- |"Fm" F2 C2"Gm" F2 G2 |"Fm" A2 GF"Gm" GFEF- | %4
+w: Well it's a|mar- vel- ous night _ for a Moon-|* dance with the|stars up a- bove in your eyes.|
+w: |wan- na make love _ to you to|* night, I can't|wait til the morn- ing has come.|
+"Fm" F4"Gm" z F G2 |"Fm" AGFG-"Gm" GFEF- |"Fm" F2 C2"Gm" F2 G2 |"Fm" AGFG-"Gm" GFEF- | %8
+w: _ A fan-|tab- u- lous night _ to make ro|_ mance 'neath the|cov- er of Oc- * to- ber skies.|
+w: * And I|know now the time _ _ is just|_ right and straight|in- to my arms _ you will run.|
+"Fm" F4"Gm" z CFG |"Fm" A2 GF"Gm" (GF)EF- |"Fm" F2 C2"Gm" F2 G2 |"Fm" A2 GF"Gm" GFEF- | %12
+w: _ And all the|leaves on the trees _ are fall|_ ing to the|sound of the breez- es that blow,|
+w: _ and when you|come my _ heart will be wait|_ ing to make|sure that you're nev- er a- lone.|
+"Fm" F4"Gm" z F G2 |"Fm" AGFG-"Gm" GFEF- |"Fm" F2 C2"Gm" F2 G2 |"Fm" (3A2 G2 F2"Gm" (3G2 F2 E2 | %16
+w: _ and I'm|try- ing to please _ to the call-|* ing of your|heart- strings that play soft and|
+w: _ There and|then all my dreams _ will come true,|_ dear, there and|then I will make you my|
+"Fm" F4"Gm" F-FGA |"Bbm7" d4"Eb7" e d2 c- |"Fm" c2 F2 G2 A2 |"Bbm7" B4-"Eb7" BABc- | %20
+w: low. * And all the|night's * * mag-|* ic seems to|whis- * per and hush.|
+w: own. And ev- 'ry time|I _ _ touch|_ you you just|trem- * ble in- side.|
+"Fm7" c4 z FGA |"Bbm7" d4"Eb7" e d2 c- |"Fm" c2 F2 G2 A2 |"Bbm" B4- BABc- |"C+7" c4 z2 fe- | %25
+w: _ And all *|soft * * moon|* light seems to|shine _ in your blush.|_ Can I|
+w: * And I know|how _ _ much|_ you want me|that * you cant hide.||
+"Fm" e2 cf- fcAB- |"Bb" (BA)(BA) (BA)(BA) |"Fm" (BF) z2 z2 FA- | A2 z2 z2 fe- | e2 cf- f(cA)B- | %30
+w: _ just have _ one a- more|_ _ Moon- * dance _ with _|you _ my love?|_ Can I|* just make _ some * more|
+w: |||||
+"Bbm" (BA)(BA) cBAB- | (BA) z2"Fm" z2 FF- |1 F2 z2"C+7" z2 FG :|2"Fm" F2"C" z2 z CFG || %34
+w: _ _ ro _ mance with a- you,|_ _ my love?|_ Well I|love? One more Moon-|
+w: ||||
+"Fm" c2 c2"Gm" B4 |"Fm" z4"Gm" B3 A |"Fm" B2 c2"Gm" z4 |"Fm" z4"Gm" z2 BA |"Fm" B/A/F F2"Gm" z4 | %39
+w: dance with you|in the|moon- light|on a|ma- * gic night,|
+w: |||||
+"Fm" z4"Gm" z4 |"Fm" F3 F-"Gm" F2 F2- |"Fm" F2 F2"Gm" z f2 f |"Fm" fe c2"Gm" z4 | %43
+w: |la la _ la|_ la, in *|moon- light *|
+w: ||||
+"Fm" z4"Gm" z2 BA |"Fm" BA B/A/F"Gm" F2 z2 |"Fm" z4"Gm" z2 F2 |"Fm" (3(f2 e2) c2"Eb" (3(f2 e2) c2 | %47
+w: on a|mag- * * * ic night.|Can't|I _ just have _ one|
+w: ||||
+"Db" (3(f2 e2) c2 (3B2"Cm" A2 B2 |"Bbm" B2 z2 c/B/A B/A/F- |"Fm" F2 z2 z4 |] %50
+w: more _ _ dance _ with|you, my _ _ love? _ _|_|
+w: |||
+

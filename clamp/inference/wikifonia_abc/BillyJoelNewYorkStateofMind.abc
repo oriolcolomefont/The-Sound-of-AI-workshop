@@ -1,0 +1,36 @@
+X:1
+T:New York State of Mind
+T:2
+T:New York State of Mind
+C:Billy Joel
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Eb" z G GF/E/"G75b9#9#11b13" F/G/G- GF/E/ |"Cm7" F/G/G- GF/E/"Bbm7""Eb7" F/E/E- E2 | %2
+w: Some folks like to get a- way, _ take a|ho- li- day _ from the neigh- bor- hood. _|
+"Ab" cc cB/A/"Gm7" B/c/c-"C75b9#9#11b13" cB/A/ |"Fm7" B/A/A- A2"Abm7" z2"Db7" z2 | %4
+w: Hop a flight to Mi- a- mi Beach _ or to|Hol- ly- wood. _|
+"Eb" cc"Eb/Db" B/B/c"Cm7" _G/F/E-"Cm/Bb" EC/B,/ |"Ab" CE"Gm7" (3_GFE-"Cm7" E2"F7" z2 |1 %6
+w: But I’m tak- in’ a Grey- * hound * on the|Hud- son Riv- er Line, _|
+"Fm7" z2 z/ B,/C/E/"Bb7" _GF E/C/C- |"Eb" C4"Fm7" z2"Bb7" z2 :|2 %8
+w: I'm in a New York State of mind.|_|
+"Fm7" z2 z/ B,/C/E/"Bb7" _GF E/C/E- ||"Eb" C8"G75b9#9#11b13" ||"Cm7" z EEE"F7" EDCB, |"Bb" CD D6 | %12
+w: I'm in a New York State of mind.|_|It was so eas- y liv- ing|day to day,|
+"Bbm7" z _DDD"Eb7" DE (3FEE |"Ab" E8 |"Dm7" z FFF"G7" F=EDC |"C" DG =E4 z C |"Cm7" DE E4"F7" z B, | %17
+w: Out of touch with the rhy- thm and|blues,|But now I need a lit- tle|give and take, the|New York Times, the|
+"Fm7" CD D2"Bb7" z4 ||"Eb" z G/G/ GF/E/"G75b9#9#11b13" F/G/G- GF/E/ | %19
+w: Dail- y News.|It comes down to re- a- li- ty, _ and it's|
+"Cm7" F/G/G- G"Bbm7"F/E/"Eb7" F/E/E- E2 |"Ab" z c cB/A/"Gm7" B/c/c-"C75b9#9#11b13" cB/A/ | %21
+w: fine with me, _ 'cause I've let it slide. _|Don't care if it's Chi- na- town, _ or on|
+"Fm7" B/A/A- A2"Abm7" z2"Db7" z2 |"Eb" z B/B/"Eb/Db" B/B/c"Cm7" _G/F/E-"Cm/Bb" Ez/B,/ | %23
+w: Riv- er- side. _|I don't have an- y rea- * sons, _ I've|
+"Ab" CE"Gm7" (3_GFE"Cm7" E2"F7" z2 |"Fm7" z2 z/ B,/C/E/"Bb7" _GF E/C/E- |"Eb" C8"Fm7""Bb7" |] %26
+w: left them all _ be- hind.|I'm in a New York State of mind.|_|
+

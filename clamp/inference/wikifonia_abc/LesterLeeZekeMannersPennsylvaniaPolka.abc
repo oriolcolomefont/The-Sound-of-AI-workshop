@@ -1,0 +1,29 @@
+X:1
+T:Pennsylvania Polka
+T:Pennsylvania Polka
+T:Lester Lee, Zeke Manners
+C:Lester Lee, Zeke Manners
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"F""^Bright Polka tempo" c c z c | A A z A | F A F C- | C4 | z C F A | c2 d2 |"C7" d E3- | E4 | %8
+w: Strike up the|mus- ic the|band has be- gun|_|the Penn- syl-|van- ia|Pol- ka|_|
+ d d z d | B B z B | G B G E- | E4 | z C E G | c2 d2 |"F" d A3- | A3"C7" A |"F" c c z c | A A z A | %18
+w: Pick out your|part- ner and|join in the fun|_|the Penn- syl-|van- ia|Pol- ka|_ it|start- ed in|Soran- ton its|
+ F A F C- | C4 | z C F A |"F7" c2 _e2 |"Eb" _e"Bb" d3- | d4 | d ^c d ^d |"C7" e3 d |"F" d c3- | %27
+w: now Num- ber one|_|it's bound to|en- ter-|tain ya-||ev- ry- bod- y|has a|man- ia|
+ c A F D |"C7" C E z G | d2 E2 |"F" G"Bbm" F3- | F z z2 || z4 | z4 ||"F" c c z c | A A z A | %36
+w: _ to do the|Pol- ka from|Penn- syl-|van- ia|_|||Strike up the|mus- ic the|
+ F A F C- | C4 | z C F A | c2 d2 |"C7" d E3- | E4 | d d z d | B B z B | G B G E- | E4 | z C E G | %47
+w: band has be- gun|_|the Penn- syl-|van- ia|Pol- ka|_|pick out your|part- ners and|join in the fun|_|the Penn- syl-|
+ c2 d2 |"F" d A3- | A2 z"C7" A | c c z c | A A z A | F A F C- | C4 | z C F A |"F7" c2 _e2 | %56
+w: van- ia|Pol- ka|_ it|start- ed in|Scran- ton its|now Num- ber one|_|it's bound to|en- ter-|
+"Eb" _e"Bb" d3- | d4 | d ^c d ^d |"C7" e3 d |"F" d c3- | c A F D |"C7" C E z G | d2 E2 | %64
+w: tain ya|_|ev- ry- bod- y|has a|man- ia|_ to do the|Pol- ka from|Penn- syl-|
+"F" G"C7" F3- |"F" F3 z |] %66
+w: van- ia.|_|
+

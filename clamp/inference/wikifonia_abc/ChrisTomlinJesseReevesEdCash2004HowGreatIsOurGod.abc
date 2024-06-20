@@ -1,0 +1,34 @@
+X:1
+T:How Great Is Our God
+T:How Great Is Our God
+T:Chris Tomlin, Jesse Reeves & Ed Cash 2004
+C:Chris Tomlin, Jesse Reeves & Ed Cash 2004
+Z:All Rights Reserved
+L:1/8
+Q:1/4=76
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z6 z G |"C" c2 G G3 FG- | G6 z G |"Am7" c2 G G3 EG- | G3 E FE/FE/G- |"F2" G3 E FE/FE/G- | G6 Gc- | %7
+w: The|spen dor of the King|_|clothed in ma jes ty|_ let all the earth re joice|_ _ all the earth re joice|_ He wraps|
+"C" c2 G G3 EG- | G6 z G |"Am7" c2 G G3 EG- | G3 E FE/FE/G- |"F2" G3 E FE/FE/G- | G6 Gc- | %13
+w: _ Him self in light|_ and|dark ness tried to hide|_ and trem bles at His voice|_ and trem bles at His voice|_ how great|
+"C" c4 z G d>c- | c4 ed<dc |"Am7" c4 z G d>c- | c3 G<ed dc |"Fmaj7" c6 Ad- |"G" d4 z GGc- | %19
+w: _ is our God|_ sing with me how|great is our God|_ and all wii see how|great how great|_ os our God|
+"C2" c8 | z6 z G |"C" c2 G G3 FG- | G6 z G |"Am7" c2 G G3 EG- | G3 E FE/FE/G- |"F2" G3 E FE/FE/G- | %26
+w: _|and|age to age He stands|_ and|time is in His hands|_ be gin ning and the end|_ be gin ning and the end|
+ G6 Gc- |"C" c2 G G3 EG- | G6 z G |"Am7" c2 G G3 EG- | G3 E FE/FE/G- |"F2" G3 E FE/FE/G- | G6 Gc- | %33
+w: _ the God|_ head three in one|_|Fa ther Spir it Son|_ the Li on and the Lamb|_ the Li on and the Lamb|_ how great|
+"C" c4 z G d>c- | c4 ed<dc |"Am7" c4 z G d>c- | c3 G<ed dc |"Fmaj7" c6 Ad- |"G" d4 z GGc- | %39
+w: _ is our God|_ sing with me how|great is our God|_ and all will see how|great how great|_ is our God|
+"C2" c8 |"C" e2 fe>dc d>c- | c8 |"Am7" e2 f e3 d>c- | c6 z d |"Fmaj7" e2 f e3 cd- |"G" d4 z Gee- | %46
+w: _|name a bove _ _ all names|_|wor thy of all praise|_ my|heart will sing how great|_ is our God|
+"C" e8 |"C" e2 fe>dc d>c- | c8 |"Am7" e2 f e3 d>c- | c6 z d |"Fmaj7" e2 f e3 cd- |"G" d4 z Gee- | %53
+w: _|name a bove _ _ all names|_|wor thy of all praise|_ my|heart will sing how great|_ is our God|
+"C" e8 | z6 Gc- |"C" c4 z G d>c- | c4 ed<dc |"Am7" c4 z G d>c- | c3 G<ed dc |"Fmaj7" c6 Ad- | %60
+w: _|how great|_ is our God|_ sing with me how|great is our God|_ and all wii see how|great how great|
+"G" d4 z GGc- |"C2" c8 |] %62
+w: _ is our God|_|
+

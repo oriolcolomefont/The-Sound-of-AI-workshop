@@ -1,0 +1,38 @@
+X:1
+T:Only This I Want
+T:Only This I Want
+C:Dan Schutte
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"D""^Refrain" z2 AA"A" A3 F |"D/F#" D6 z2 |"G/B" z2 G"A/C#"A B3 c |"D""A" A6 z2 | %4
+w: On- ly this I|want:|but to know the|Lord,|
+w: ||||
+w: ||||
+"Bb" z2 FG"A/C#" A3 B |"D/A" F6 DE |"Bb" F3 D"A6" F2 E2 |"D/F#" D6 z2 || %8
+w: and to bear his|cross, so to|bear the crown He|wore.|
+w: ||||
+w: ||||
+"Am""^Verses" z2 =cc"Cdim/D#" c3 c |"G" B6 z2 |"Am" A2 G2"B7" F G2 A |"Em" G6 z2 | %12
+w: 1.~All but this is|loss,|worth- less re- fuse to|me,|
+w: 2.~~I will run the|race:|I will fight the good|fight,|
+w: 3.~Let your heart be|glad,|al- ways glad in the|Lord,|
+"A/E" z2 cc c3 c |"Bm""Bbm7/D" d6 Bc |"E7" d4- d2 cB |1"A/C#""A7/C#" A6 z2 :|2 %16
+w: for to gain the|Lord is to|gain _ all I|need.|
+w: so to win the|prize of the|king- dom of my|Lord.|
+w: so to shine like|stars in the|dark- ness of the||
+"A/C#""A7/C#" A6 z2 ||"D" z2 AA"A" A3 F |"D/F#" D6 z2 |"G/B" z2 G"A/C#"A B3 c |"D""A" A6 z2 | %21
+w: |On- ly this I|want:|but to know the|Lord,|
+w: |||||
+w: night.|||||
+"Bb" z2 FG"A/C#" A3 B |"D/A" F6 DE |"Bb" F3 D"A6" F2 E2 |"D" D6 z2 |] %25
+w: and to bear his|cross, so to|bear the crown He|wore.|
+w: ||||
+w: ||||
+

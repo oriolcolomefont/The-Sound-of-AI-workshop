@@ -1,0 +1,28 @@
+X:1
+T:Blues For Alice (For Bb Instrument)
+T:Blues For Alice
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 z/ g3/2- ||"G6" g2 dB f2 dB |"F#m7" ef^ce"B7b9" ^d=cAB- |"Em7" B2 GE"A7" ABGF | %4
+"Dm7" (3=FAc e_e"G7" z G (3GAG |"C7" d2 cA _B C2 A |"Cm7" =f_ec^c"F7" dGAB- |"Bm" B2 FD E2 z _e- | %8
+"Bbm7" e_dFc-"Eb7" c2 z _B |"Am7" (3A2 g2 g2 gecE |"D7" BAdc f3 z |"G6" d2 BF A3 e- | %12
+"Am7" e2 cA"D7" B2 z D ||"G6" (3FGA GD FGC^C |"F#m7" E^C (3^DFA"B7" cd/c/BG |"Em" ADEF-"A7" F2 z2 | %16
+"Dm" z4"G7" z2 (3G/G/G/ z |"C7" (3^c2 =c2 G2 ^c2 =cG |"Cm" A_BGA/G/"F7" =FD (3C/D/C/ G, | %19
+"Bm" B,2 (3DFA GDE=F- |"Bbm" F2 z2"Eb7" z2 ^DE |"Am" cd/c/BA dA z2 | %22
+ z =F ^F/^G/A/c/"D7" f/g/e/=f/ ^f/d/4^d/4e/=d/ |"G7" c/A/d/c/ B/G/_E/C/ D2 z2 | %24
+"Am" z4"D7" z2 z F ||"G" (3GBd f/g/^g/a/- ag/=g/fe |"F#m" _eFAB"B7" cd/c/BG | %27
+"Em" (3A/_B/A/ GEG-"A7" G2 (3A/=B/A/ G |"Dm" FG- G4"G7" z2 |"C7" z E-EG/_B/ dc (3B/c/B/ G | %30
+"Cm" AG z =F"F7" (3D2 C2 G,2 |"Bm" B,2 (5:4:5D/F/A/B/c/ dAFD |"Bbm" _e_d (3AFD"Eb7" c_B z2 | %33
+"Am" z2 =F (5:4:5^F/^G/A/c/e/ =g2 F |"D7" G/A/ (3c/^c/d/ _e/d/=c/B/ A/G/F/A,/ C/_E/D/B,/ | %35
+"G" C/B/F/G/ A2 z2 z D- |"Am" D6"D7" ED ||"G" Bd/B/AG z2 z B |"F#m7b5" (3c/d/c/ BAG"B7" FE^DF | %39
+"Em" E^DEF"A7" GAB=D |"Dm" EF- F2"G7" z4 |"C7" z d-d z g (3f/d/c/ _BG | %42
+"Cm" z2 z D"F7" ^c=c (3_B/c/B/ G |"Bm" B2- B (3d/B/F/ EE- E2 |"Bbm""Eb7" z8 | %45
+"Am" z =F (5:4:5^F/A/B/c/^c/ d/c/=c/ z/ z =F |"D7" F/A/ (3B/c/^c/ d/c/=c/B/ A/G/F/A/ c/_e/A/B/ | %47
+"G" (3c/d/c/ B/A/G z z F3- |"Am" F2 A/G/F/E/"D7" _EG/E/ D/C/B,/D/ |"G" F/G/E/F/ D2 z4 |] %50
+

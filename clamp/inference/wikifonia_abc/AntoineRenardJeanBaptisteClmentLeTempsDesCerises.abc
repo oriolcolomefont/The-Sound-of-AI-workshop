@@ -1,0 +1,19 @@
+X:1
+T:Le Temps Des Cerises
+C:Antoine Renard
+Z:Public Domain
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ z z D |:"G" G G G | G2 G |"D" A A A | A A A |"G" B B B |"G7" B2 B |"C" c c c | c2 B |"G" B B c | %10
+w: Quand|nous chan- te-|rons le|temps des ce-|ri- ses, Et|gai ros- sig-|nol, et|mer- le mo-|queur, Se-|ront tous en|
+ (B3 |"D7" A3) |"G" G z"G7" G |"C" c c c | c2 c | c e c |"G" c B B | B B B | d2 B | B A G | %20
+w: fê-||te, Les|bel- les au-|ront la|fo- lie en|tê- te Et|les a- mou-|reux, du|so- leil au|
+"D7" A3- | A z D |"G" G G G | G2 G |"D7" A A A | A A A |"G" B B B | d2 B |"D7" B A F |"G" G3- | %30
+w: cœur.|_ Quand|nous chan- te-|rons le|temps des ce-|ri- ses Sif-|fle- ra bien|mieux le|mer- le mo-|queur|
+ G"^4x Fine" z D :| %31
+w: _ Mais|
+

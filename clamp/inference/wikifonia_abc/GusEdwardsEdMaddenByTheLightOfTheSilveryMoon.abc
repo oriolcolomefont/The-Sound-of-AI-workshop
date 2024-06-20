@@ -1,0 +1,26 @@
+X:1
+T:By The Light Of The Silvery Moon
+T:By The Light Of The Silvery Moon
+C:Gus Edwards
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" G z"Cdim" A z |"G7" B z"C" c z | B/>d/c/>A/"Cdim" B/>d/c/>A/ |"Dm" F3 z | A z"E7" B z | %5
+w: Place park,|scene dark,|Sil- v'ry moon is shin- ing thru the|trees;|Cast two,|
+"A7" ^c z"Dm" d z |"G7" B/>d/"Dm7"c/>A/"G7" B/>d/"Dm7"c/>A/ |"C""Gdim" E3"G7" z | %8
+w: me you,|Sound of kiss- es float- ing on the|breeze;|
+"C" G z"Cdim" A z |"G7" B z"C" c z | B/>d/c/>A/"Cm6" B/>d/c/>A/ |"G" B3 z |"D7" e z ^F z | %13
+w: Act one|be- gun|Di- a- logue "Where would you like to|spoon?"|My cue,|
+"G" d z"Em" G z |"Am" A/>B/c/>E/"Am7" B"D7" A |"G7" G3 E/F/ |:"C" G4- | G c/>d/ e/>d/ c |"D7" A4- | %19
+w: with you,|Un- der neath the sil- v'ry|moon. By the|light|* of the sil- ver- y|moon,|
+ A d c A |"G7" B4- | B G/A/ B/A/ G |"C6" A2"Gdim" E2 |"G7" G2- G/ z/ E/F/ |"C" G4- | %25
+w: _ I want to|spoon;|_ to my hon- ey I'll|croon love's|tune. _ Hon- ey-|moon|
+ G c/d/ e/d/ c |"F""A7" A4- |"Dm" A d"A" e"Dm" f |"C" e"C7" c"D7" d"Fm" f |"Am" e c/>d/ (e/>d/) c | %30
+w: _ keep a shin- ing in|June.|_ Your sil- v'ry|beams will bring love|dreams; We'll be cud- * dling|
+"E7b5""A""A7" e4- |"D7" e c/>d/"C" e/>c/"G7" d |1"C" c4- || c z z E/>F/ :|2"C" c4- || c z z2 |] %36
+w: soon|_ by the sil- ver- y|moon.|_ By the|moon.|_|
+

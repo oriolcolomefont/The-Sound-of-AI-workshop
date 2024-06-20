@@ -1,0 +1,47 @@
+X:1
+T:Tennessee Christmas
+T:Tennessee Christmas
+C:Gary Chapman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G, C2 D- D E2 G,- |"Am7" G,2 CD- D E2 F- |"Bb" F E2 D- D C2 D- |"Gsus4""G" D8 | %4
+w: Come- on weath- * er- man|_ give us _ a fore-|* cast snow- * y white.|_|
+w: Ev- 'ry now _ and then|_ I get _ a wan-|* derin' urge _ to see,|_|
+"C" G, C2 D- D E2 G,- |"Am7" G,2 CD- D E2 F- |"Bb" F E2 D- D2 DD- |"Gsus4""G" D8 |"F" FFFE- E D3 | %9
+w: Can't you hear _ the pray'rs|_ of ev- * 'ry child-|* like heart _ to- night?|_|Rock- ies are call- * in,'|
+w: may- be Cal- * i- for-|* nia, may- * be Tin-|* sel- town's _ for me.|_|There's a par- ade _ there:|
+"C" G,CED- D C3 |"G" F,F,DC- C B,2 C- |"C" CDEE- E2- E z/ E/ |"F" FFFE- E D3 |"C" G,CED- D C3 | %14
+w: Den- ver snow fall * in',|Some- bod- y said _ it's four|_ feet _ deep. _ _ But|it does- n't mat- * ter,|give me the laugh- * ter,|
+w: we'd have it made _ there.|Bring home a tan _ for New|_ Year's _ Eve. _ _ _|Sure sounds ex- cit- * ing,|aw- f'ly in- vit _ ing;|
+"G" B,B,B,B,- B,B,CD- | D4 z G,CD |]"C" E2 EE D C2 C- |"F/C" C A,3 z2 z3/2 C/ | %18
+w: I'm gon- na choose _ to _ keep|_ an- oth- er|ten- der ten- nes- see Christ-|* mas. The|
+w: still I think I'm _ gon- na keep|_|||
+"G/C" D2 DD- D E2 F |"C" E6 EF | G3 G- GFED- |"Am7" D E3 z DEF- |"Dm7" F2 ED- D C2 D- | %23
+w: on- ly Christ- * mas for|me. Where the|love cir- * cles a- round|* us like the gifts|_ a- round _ our tree.|
+w: |||||
+"Gsus4" D4"G" z EFG- |S"C" GGGG- GEFG- |"Em7" GGAG z EFG- |"Gm7" G2 GF-"C7" F E2 F- | %27
+w: _ Well I know|_ there's more snow _ up in Col-|* o- ra- do than my roof|_ will ev- * er see.|
+w: * Well, they say|_ in L. A. _ it's a warm|_ hol- i- day, it's the on-|* ly place _ to be.|
+"F" F6 z C/C/ |"F/A" A2 AA"G/B" G G2 G- |"C" G E3"Am7" z2 z E/E/ | %30
+w: _ But a|ten- der Ten- nes- see Christ-|* mas is the|
+w: _|||
+"Dm7" F2 FF-"G7" F E2 D!dacoda! |1"C" C8 |"Bb/C" C_Bdf- f g2 a- |"F/Bb" a2 aa- a g2 f- | %34
+w: on- ly Christ- * mas for|me;|||
+w: ||||
+"F/G" fAcg"G" g4 :|2"C" C4"F/G" z EFG!D.S.! |]O"Am7""Dm7" E6 z3/2"C/E" C/ |"F" A2 AA"G/B" G G2 G- | %38
+w: |me. Well I know|me. A|ten- der Ten- nes- see Christ-|
+w: ||||
+"C" G E3"Am7" z2 z E/E/ |"Dm7" F6 G2 |"G7" F2 E4 z D |"C" C8 |"Bb/C" C_Bdf- f g2 a- | %43
+w: * mas is the|on- ly|Christ- mas for|me.||
+w: |||||
+"F/Bb" a2 aa- a g2 f- |"Dm7" f2 ff- f e2 c- |"Gsus4" cAcg-"G" g4- |"C" g8 |] %47
+w: ||||
+w: ||||
+

@@ -1,0 +1,32 @@
+X:1
+T:What The World Needs Now Is Love
+T:What the world needs now is love
+T:Burt Bacharach
+T:Hal David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E2 G2 |:"Bm7" d4 d2 |"Em7" B4 D2 |"Bm7" d4 d2 |"Em7" B6 |"C" AG AE G2- | G2 E2 G2 |"Bm" B4 BD | %8
+w: ||||||||
+w: What the|world needs|now is|love sweet|love|its the on- ly thing|* that theres|just * too|
+"D7" BA A2 EG |"Bm7" d4 d2 |"Em7" B4 D2 |"Bm7" d4 d2 |"Em7" B6 |"C" AG AE G2- | G2 E2 G2 | BA B4- | %16
+w: ||||||||
+w: lit- tle of what the|world needs|now is|love sweet|love|no not just for some|* ~but for|ev- ery one|
+"B7" B6 |"Em7" z2 z F FF | F2 G2 AB | F2 F4- | F2 B3 F |"Dm" E2 G3 B |"G" A2 B3 G |"Cmaj7" DE E4- | %24
+w: |Lord we dont|need an- oth- er|moun- tain|* there are|moun- tains and|hill sides e-|nough to climb|
+w: |Lord we dont|need an- oth- er|mead- ow|* there are|corn- fields and|wheat- fields d-|nough to grow|
+"C" E2 G3 D |"Dm7" E2 G3 B |"G" A2 B3 G |"Cmaj7" DE E2- EF |"Em7" GG G4 |"A7" z2 EE FG |"D" A6- | %31
+w: * there are|O- ceans- and|riv- ers e|nough to cross * e|nough to last|till the end of|time|
+w: * there are|sun- beams and|moon- beams e-|nough to shine * oh|lis- ten Lord,|if you want to|know|
+ A2 E2 G2 :|"B" BA B4- |"E7" B6 |"C" AG AE G2- | G2 E2 G2 |"Bm7" d4 e2 |"Cmaj7" B6 |"D7" A4 ED | %39
+w: * what the|ev- ry- one||No not just for some|* oh but|just for|ev|ry * *|
+w: ||||||||
+"G" EG G4- | G2 z4 |] %41
+w: one * *||
+w: ||
+

@@ -1,0 +1,15 @@
+X:1
+T:Este van már, késő este, pásztortüzek
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A E A B | c/c/ B A z | c c B A | G/G/ F E z | E3/2 E/ e3/2 e/ | e/d/ c B z | A E A B | %7
+w: Es- te van már,|ké- ső es- te,|Pász- tor- tü- zek|ég- nek mesz- sze,|Mesz- * mesz- sze,|más ha- tá- ron,|Az al- föl- di|
+ c/c/ B A z |] %8
+w: ró- na- sá- gon.-|
+

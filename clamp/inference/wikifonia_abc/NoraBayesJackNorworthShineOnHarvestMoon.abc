@@ -1,0 +1,24 @@
+X:1
+T:Shine On Harvest Moon
+T:Shine On Harvest Moon
+C:Nora Bayes
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 B2 |"E7" c4 B4 | c2 B2 ^G2 E2 |"A7" ^C4- C>^B,^C>=B | A6 z2 |"D7" B4 A4 | B2 Ad- dB A2 | %7
+w: Oh,|shine on,|shine on Har- vest|moon _ up in the|sky,|I ain't|had no lov- * in' since|
+"G" G>E"D7"D>F"C#7" G>E"Bm"D>E |"C" G>E"G"DG-"C#7" G2"G" z2 |"E7" c4 B4 | c2 B2 ^G2 E2 | %11
+w: Jan- u- ar- y, Feb- ru- ar- y,|June or Jul- y. _|Snow time|ain't no time to|
+"A7" ^C4- C>^B,^C>B | A6 A2 |"D7" B4 A4 | B2 Ad- d B3 |"G" G3 D"C" EDEG- |"G" G6 B2 |"E7" c4 B4 | %18
+w: stay _ out- doors and|spoon, So|shine on,|shine on har- * vest|moon for me and my gal.|_ Oh,|shine on,|
+ c2 B2 ^G2 E2 |"A7" ^C4- C>^B,^C>=B | A6 z2 |"D7" B4 A4 | B2 Ad- dB A2 | %23
+w: shine on Har- vest|moon _ up in the|sky,|I ain't|had no lov- * in' since|
+"G" G>E"D7"D>F"C#7" G>E"Bm"D>E |"C" G>E"G"DG-"C#7" G2"G" z2 |"E7" c4 B4 | c2 B2 ^G2 E2 | %27
+w: Jan- u- ar- y, Feb- ru- ar- y,|June or Jul- y. _|Snow time|ain't no time to|
+"A7" ^C4- C>^B,^C>B | A6 A2 |"D7" B4 A4 | B2 Ad- d B3 |"G" G3 D"C" EDEG- |"G" G6 z2 |] %33
+w: stay _ out- doors and|spoon, So|shine on,|shine on har- * vest|moon for me and my gal.|_|
+

@@ -1,0 +1,31 @@
+X:1
+T:(I Remember) In the Still of the Night
+T:(I Remember) In the Still of the Night
+T:Fred Parris
+T:©
+C:Fred Parris
+Z:All Rights Reserved
+L:1/8
+Q:1/4=78
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" z"^slow doo-wop ballad" EEC EE E2 |"Am" z EEC AA G2 |"F" z FFD FF F2 |"G7" z FFD FF GE/F/ || %4
+w: Shoo doot 'n' shoo- bee doo,|shoo doot 'n' shoo- bee doo,|shoo doot 'n' shoo- bee doo,|shoo doot 'n' shoo- bee whoa, In the|
+"C" G4- G2 AB |"Am" B2 A2- A2 (3AGA |"F" F F3- F2 (3AGA |"G7" A2 G2- G2 EF |"C" G4- G2 (3BAB | %9
+w: still _ of the|night _ _ I _ _|held you, _ held _ you|tight _ _ 'cause I|love _ love _ you|
+"Am" B2 A2- A2 (3AGA |"F" F F3- F2 (3AGA |"G7" A G2 E/F/ G3 E/D/ |"C" E/D/ C3-"F" C4 | %13
+w: so, _ _ pro- mise I'll|ne- ver _ let _ you|go, _ in the still of the|night. _ _ _|
+"C" z4"C7" z2 AA |"F" c2 A2- A2 (3A^GA | c2 A2- A3 A |"C" G3 A G3 G | c/A/ G3-"C7" G2 AA | %18
+w: I re-|mem- ber _ that night in|May, _ _ the|stars were bright a-|bove. _ _ _ Well I'll|
+"F" c2 A2- A2 ^GA | c2 A2- A3 E |"D7" D2 z E D3 D |"G7" GA (3BGA G2 (3cGA |"C" A2 G2- G2 AB | %23
+w: hope _ _ and I'll|pray _ _ to|keep your pre- cious|love. _ _ _ _ _ So, _ be-|fore _ _ the _|
+"Am" B2 A2- A2 (3AGA |"F" F F3- FF (3AGA |"G7" A G2 E/F/ G3 E/D/ |"C" E/D/ C3-"F" C4- | %27
+w: light _ _ hold me a-|gain dear _ with all of your|might, _ in the still of the|night. _ _ _|
+"C" C4 z2 z2 |] %28
+w: _|
+

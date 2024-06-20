@@ -1,0 +1,42 @@
+X:1
+T:Times Of Your Life
+T:Times Of Your Life
+C:Roger Nichols
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |"G9" B,2 D2"C9" G3 A |"Gmaj7""C9" B6 z d |"Gmaj9" e B3-"Cmaj7" BABd |"Gmaj7" fA"Cmaj7" B4 z d | %5
+w: Good|morn- ing yes- ter-|day, You|wake up _ and time has|slipped a- way, And|
+"Am7" dcc"Gmaj7/B"B AB/G/-"G/B"Gd |"C9" dcc"Gmaj7"B AB/G/-"G/D"GD |"Em7" E G3-"Em7/A" G>E"A9"E>D | %8
+w: sud- den- ly it's hard to find _ the|mem- o- ries you left be- hind _ re-|mem- ber, _ Do you re-|
+"Am7/D" E A3-"D9" A2 z D |"G9" B,2 D2"C9" G3 A |"Gmaj7""C9" B6 z d |"Gmaj9" e B3-"Cmaj7" BABd | %12
+w: mem- ber _ the|laugh- ter and the|tears, the|shad- dows _ of mist- y|
+"Gmaj7" fA"Cmaj7" B4 z d |"Am7" dcc"Gmaj7/B"B AB/G/-"G/B"Gd |"C9" dcc"Gmaj7"B AB/G/-"G/D"GD | %15
+w: yes- ter- years? The|good times and the bad you've seen _ and|all the oth- ers in be- tween, _ re-|
+"Em7" E G3-"Em7/A" G>E"A9"E>D |"Am7/D" E A2 B c2 AB |"Gmaj7""Fmaj7" G8- |"Gmaj7" G4"Em7" z2 G2 | %19
+w: mem- ber. _ Do you re-|mem- ber the times of your|life?|_ Reac|
+"Dm7" =f2 ed d2"Dm7/G" cd |"Cmaj7" d e3-"Fmaj7" e4 |"Bm7" d2 ^cB"Bm7/E" B2 AB | %22
+w: back for the joy and the|sor- row, _|put them a- way in your|
+"Amaj7""Dmaj7" ^c6 E2 |"Am7" =c2 BA"Am7/D" A2 GA |"Gmaj7" A B3-"Cmaj7" B2 z D | %25
+w: mind, for|mem- 'ries are tiome that you|bor- row _ to|
+"Gm7" _B2 AB"G#m7" =B2 AB |"Am7" c2"Am7/D" d6 | z2 z d- d4 |"G9" B3 B"C9" (AG)(GD) | %29
+w: spend when you get to to-|mor- row.|Here _|comes the set- * ting _|
+"Gmaj7""Cmaj7" D6 z d |"Gmaj9" e B3-"Cmaj7" BABd |"Gmaj9" fA B4"Cmaj7" z d |: %32
+w: sun, The|sea- sons _ are pass- ing|one by one so|
+"Am7" dcc"Gmaj7/B"B AB/G/-"G/B"Gd |"C9" dcc"Gmaj7"B AB/G/-"G/D"GD |"Em7" E G3-"Em7/A" G>E"A9"E>D | %35
+w: ga- ther mo- ments while you may, _ Col-|lect the dreams you dream to- day, _ re-|mem- ber. _ Will you re-|
+"Am7/D" E A2 B c2 AB |1"Gmaj7""Cmaj9" G8- |"Gmaj7""Cmaj9" G8 :|2"Gmaj7""Cmaj9" G8- || %39
+w: mem- ber the times of your|life"|_|life?|
+"Gmaj7""Cmaj9" G6 ed |"Gmaj7" (e d3-"Cmaj9" d4- |"Gmaj7" d4-"Cmaj9" d) c2 B |"Gmaj7""Cmaj9" G8- | %43
+w: _ of your|life _ _|_ _ of your|life?|
+"Gmaj7""Cmaj9" G8 |:"Gmaj7" AA/G/A"Cmaj9"G/A/- A B3 |"Gmaj7" z AAG A/A"Cmaj9"G/ A/A/B/G/- | %46
+w: _|Do you re- mem- ber ba- * by,|do you re- mem- ber the times of your life?|
+"Gmaj7""^Repeat And Fade" G8 :| %47
+w: _|
+

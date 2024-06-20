@@ -1,0 +1,26 @@
+X:1
+T:It's Time To Say Goodnight
+T:It's Time To Say Goodnight
+T:Henry Hall
+T:Kate Gibson
+C:Henry Hall
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z C |"F" A2 A |"Am" c2 c |"Dm" F3- | F"Edim" E"F6" F |"Bb" d2 d |"D7" c2 d |"Gm" B3 | %8
+w: It's|time to|say good-|night,|* and it's|time to|close your|eyes,|
+"C7" E"Bb6" F"C7" G |"F" A2 A |"Am" c2 c |"Dm" F3- | F"Edim" E"F" F |"G7" G2"G9" A |"G7" =B2 d | %15
+w: |Let's put|out the|light,|* till the|dawn breaks|through the|
+"C7""Bb" G3 |"C7" C"Bb" D"C7" E |"F" A2 A |"Am" c2 c |"Dm" F3 | F"C7" E"F6" F |"Bb" d2"D7" c | %22
+w: skies.||While long|sha- dows|creep|* May your|dreams be|
+"Gm" B2"Dm" A |"C7" G3- | G"Am" A"C7" B |"Adim" c2 c |"Cm7b5" B2 A |"C7" e2"C+9" d |"F" c2"Bb" B | %29
+w: sweet and|bright|* In a|mo- ment|you'll be|sound a-|sleep, It's|
+"F" A2 A |"C7" G2 G |"F" F3 |] %32
+w: time to|say good-|night.|
+

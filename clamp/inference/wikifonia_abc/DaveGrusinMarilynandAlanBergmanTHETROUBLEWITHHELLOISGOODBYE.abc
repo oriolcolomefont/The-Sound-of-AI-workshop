@@ -1,0 +1,30 @@
+X:1
+T:THE TROUBLE WITH HELLO IS GOODBYE
+T:THE TROUBLE WITH HELLO IS GOODBYE
+T:Music: Dave Grusin Lyrics: Marilyn & Alan Bergman 1974
+T:SOLOS
+T:The Trouble With Hello Is Goodbye - p. 2
+C:Dave Grusin
+Z:All Rights Reserved
+L:1/4
+Q:1/4=96
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Eb""^Eb pedal" z z/ B,/ G/A/G/E/ |"F" F/G/ G3 |"Db7" z z/ B,/ F/G/F/D/ |"Eb" E4 | %4
+"Cm7" z z/ B,/ B/c/B/G/ |"Bbm7" A"Eb9" B2 E |1"Abmaj7""Eb6" c4 |"Am7/D""D7b9" z4 || %8
+"Gm7" z z/ D/ d/e/d/B/ |"Bb/F" c/d/ d2- d/B/ |"C7/E" G/c/ c2 z/ G/ |"F69" =A4 | %12
+"Bb69" z F/B/ B3/2 F/ |"Em7/A" G/=A/"^A9(13)" A3 |"Dm7" =E/F/ F3 |"Fm7/Bb" _E3/2 F/ F2 :|2 %16
+"Ab69" e4- ||"Ab/Gb" e4 ||"Cm7/F" z z/ F/ e/f/"F7"e/c/ |"Bbm7" c/_d/ d2 z/ F/ | %20
+"Gm7" B/c/"C9" c2 G |"Db/Cb" A4 |"Eb69/Bb" z z/ B,/ G/A/G/E/ |"Fm7/Bb" C"Bb7b9" F2 D |"Eb69" E4 | %25
+"Fm7/Bb""^(""^)" z4 |]:"Eb""^Eb pedal" B B B B |"F" B B B B |"Db7" B B B B |"Eb" B B B B | %30
+"Cm7" B B B B |"Bbm7" B B"Eb7" B B |1"Ab" B B B B |"Am7/D" B B"D7b9" B B ||"Gm7" B B B B | %35
+"Bb/F" B B B B |"C7/E" B B B B |"F" B B B B |"Bb" B B B B |"Em7/A" B B"A7" B B |"Dm7" B B B B | %41
+"Fm7/Bb" B B B B :|2"Ab" B B B B ||"Eb/Gb" B B B B ||"Cm7/F" B B"F7" B B |"Bbm7" B B B B | %46
+"Gm7" B B"C7" B B |"Abm7" B B"Db7" B B |"Eb/Bb" B B B B |"Fm7/Bb" B B"Bb7b9" B B |"Eb" B B B B | %51
+"Fm7/Bb" B B B B || %52
+

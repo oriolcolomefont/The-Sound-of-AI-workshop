@@ -1,0 +1,28 @@
+X:1
+T:Sevemedim Kara Gozlum
+T:Sevemedim Kara Gozlum
+T:Orhan Gencebay
+T:Orhan Gencebay
+C:Orhan Gencebay
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z4 G2A2 A2A2 cBc2 | z4 B2c2 c2B2 BAB2 | z4 BAB2 B2A2 dcde | de c4 cd cdBc B2BB | %4
+ A2 A4 AB AcG2 A4 :| z4 d2d2 e2d2f2e2 | g2fg f4 gafg efde | cdc2c2d2 d2cdc2d2 | %8
+ ed(e2 e4) fgef decd | BAB2d2d2 e2d2f2e2 | g2efe2fg efde decd | c2e2d2cd cdBcB2AB | %12
+ A2 A4 AB ABG2 A4 |: z4 G2A2 A2A2 cB(c2 | c4) B2c2 (c2B2) (BA)B2 | z4 B2B2 B2(A2 d)cde | %16
+ (de) c4 cd cdBcB2AB | A2 z2 d2d2 (e2d2)(f2e2) | g2 (g4 e2) (e2d2)(d2c2) | %19
+ (e2d2)c2(cc) Bc(B2 A)B z2 | A2 A4 AB ABG2 A4 ::S z4 d2d2 e2(e2f2)e2 | (g2f)g f4 gafg efde | %23
+ cdc2 c(cd2) (d2c)d (de)c2 | z2 e(ed2)c2 (c2B)c(B2A2) | A2 A4 AB ABG2 A4 :: z4 G2A2 A2A2 cBc2 | %27
+ z4 B2c2 c2B2 BAB2 | z4 BAB2 B2A2 dcde | c2e2d2cd cdBcB2AB | A2 A4 AB ABG2 A4 :| z4 d2d2 e2d2f2e2 | %32
+ g2fg f4 gafg efde | cdc2c2d2 d2cdc2d2 | ede2 e4 fgef decd | BAB2d2d2 e2d2f2e2 | %36
+ g2ege2fg efde decd | c2e2d2cd cdBcB2AB | A2 A4 Ac ABG2 A4 |: z4 G2A2 A2(G2 c)Bc2 | %40
+ c4 B2c2 (c2B2) (BA)B2 | z4 B2B2 B2(A2 d)cde | de c4 cd cdBcB2cB | A2 z2 d2d2 (e2d2)(f2e2) | %44
+ g2(g2e2)e2 (e2d2)(d2c2) | z2 e2d2c2 ccBc(B2A)B |S A2 A4 AB AcG2 A4 :| %47
+

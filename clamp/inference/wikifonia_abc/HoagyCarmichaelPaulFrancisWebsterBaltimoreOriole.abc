@@ -1,0 +1,26 @@
+X:1
+T:Baltimore Oriole
+T:Baltimore Oriole
+T:Hoagy Carmichael
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Gm7" (3GAG (3dBG-"Gm/F" G4- |"C9/E" (3G2 d2 d2"Cm6/Eb" c3 B/c/ |"Gm7" (3d2 G2 G2 (3G2 F2 D2 | %3
+"Dm7" D6"G7b9" z G |"Cm7" (3cdG cc- c4- |"F9" (3c2 c2 c2"Ab7" (3c2 B2 c2 | %6
+"Gm7" (3d2 G2 G2 (3G2 F2 D2 |"C9" D8 |"Cm7" (3C2 D2 C2 G4- |"Am7b5" (3G2 G2 G2"D7#5#9" F3 E/F/ | %10
+"Gm" (3G2 D2 D2 D4- |"Gm7" D3 G/D/"C9" (3G2 A2 B2 |"Am7b5" d c3- c4 |"Eb7" BGAB- B2 cA- | %14
+"D7" A4-"D7b9" Ad (3edc- |"Am7b5" (3c2 c2 B2"D7" A D3 ||"Gm7" (3GAG (3dBG-"Gm/F" G4- | %17
+"C9/E" (3G2 d2 d2"Cm6/Eb" c3 B/c/ |"Gm7" (3d2 G2 G2 (3G2 F2 D2 |"Dm7" D6"G7b9" z G | %20
+"Cm7" (3cdG cc- c4- |"F9" (3c2 c2 c2"Ab7" (3c2 B2 c2 |"Gm7" (3d2 G2 G2 (3G2 F2 D2 |"C9" D8 | %24
+"Cm7" (3C2 D2 C2 G4- |"Am7b5" (3G2 G2 G2"D7#5#9" F3 E/F/ |"Gm" (3G2 D2 D2 D4- | %27
+"Gm7" D3 G/D/"C9" (3G2 A2 B2 |"Am7b5" d c3- c4 |"Eb7" BGB_d"D7" c3 B |"Gm""Gm/F" G8- | %31
+"Em7b5" G2 BB-"Eb7" BE"D7#5" B2 |"Gm""Gm/F" G8 |"Em7b5" G2 BB-"Eb7" BE"D7#5" B2 |"Gm" G8 | z8 |] %36
+

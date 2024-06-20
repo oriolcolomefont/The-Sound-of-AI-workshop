@@ -1,0 +1,22 @@
+X:1
+T:What Have They Done To My Song, Ma?
+T:What have they done to my song Ma
+T:Melanie Safka
+T:Bright Foxtrot
+C:Melanie Safka
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"F" A ^G A | c2 ^G A | F4 | D4 |"Bb" z d ^c d | f2 ^c d | _B4 | z F G F |"F" A ^G A/G/A/F/ | %9
+w: Look what they|done to my|song,|Ma|look what they|done to my|song|well, its the|on- ly thing that I could|
+w: Look what they|done to my|brain|Ma|look what they|done to my|brain|Well they *|picked it like a chick- *|
+w: Ils on chan-|gé ma chan-|son|ma|ils ont chan-|gé ma chan-|son|C'est la seule|* cho- se * que je|
+"G" G G A/D/ D |"Bb" F F G A | F2 D2 |"F" z A ^G A |"C7" c2 G A |"F" F4 :| %15
+w: do half right and its|turn- ing out all|wrong, Ma|Look what they|done to my|song.|
+w: * cken bone and I|think I'm half in-|sane Ma|look what they|done to my|brain|
+w: peux faire et ce *|n'est * pas *|bon ma|ils ont chan-|gé ma chan-|son.-|
+

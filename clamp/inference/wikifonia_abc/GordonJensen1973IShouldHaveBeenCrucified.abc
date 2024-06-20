@@ -1,0 +1,38 @@
+X:1
+T:I Should Have Been Crucified
+T:I Should Have Been Crucified
+T:Gordon Jensen, 1973
+C:Gordon Jensen, 1973
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z6 | z6 | z6 | z6 | z6 |[Q:1/4=80] z4 FF |"Bb" B B4 B |"Cm7" G F3- (3:2:2F2 E |"Bb" F6- | %9
+w: |||||I was|guil ty with|no thing _ to|say|
+"Cm7" F2 z2 (3FBB |"Gm" B B4 G |"C6" A A4 G |"Cm7" G4- (3GAG |"F7" F3 z (3FGA |"Bb" B4- BB | %15
+w: _ and they were|com ing to|take me a|way _ _ _|_ but then a|voice _ from|
+"Bb9" c c4 B |"Eb" B4- BA | G4- (3GGG |"C7" G6 | G2 A3 B |"Cm7" c6- |"F7" c4 z F |"Bb" d2 d3 d | %23
+w: hea ven was|heard _ that|said _ let him|go|take me in|stead|_ and|I should have|
+"F7" e2 d3 c |"Bb" B4- Bc |"Bb7" d4 c2 |"Eb" B B4 B | B B4 G |"Bb" F6- | F4 z2 | B2 B3 B | %31
+w: been cru ci|fied _ _|_ _|I should have|suf fered and|died|_|I should have|
+ B2 c2"Bb7" d2 |"Eb" e2 z2 GA |"C7" B4 z c |"Bb" d2 c2 z B |"Cm7" c2 B2"F7" A2 |"Bb" B6- | %37
+w: hung on the|cross in dis|grace but|Je sus Go'ds|Son took my|place|
+ B2 z2 FF |"Bb" B B4 B |"Cm7" G F3- (3:2:2F2 E |"Bb" F6- |"Cm7" F2 z2 (3FBB |"Gm" B B4 G | %43
+w: _ Crown of|_ thorns the|spear deep in His|side|_ _ and the|_ pain _|
+"C6" A A4 G |"Cm7" G4- (3GAG |"F7" F3 z (3FGA |"Bb" B4- BB |"Bb9" c c4 B |"Eb" B4- BA | G4- (3GGG | %50
+w: should have been|mine _ _ _|_ the rust y|nails _ _|were _ meant|for _ _|me O yet Christ|
+"C7" G6 | G2 A3 B |"Cm7" c6- |"F7" c4 z F |"Bb" d2 d3 d |"F7" e2 d3 c |"Bb" B4- Bc |"Bb7" d4 c2 | %58
+w: took|tem and I|went|free and|I should have|been cru ci|fied _ _|_ _|
+"Eb" B B4 B | B B4 G |"Bb" F6- | F4 z2 | B2 B3 B | B2 c2"Bb7" d2 |"Eb" e2 z2 GA |"C7" B4 z c | %66
+w: I should have|suf fered and|died|_|I should have|hung on the|cross in dis|grace but|
+"Bb" d2 c2 z B |"Cm7" c2 B2"F7" A2 |"Bb" B6- | B4 z F |"Bb" d2 d3 d |"F7" e2 d3 c |"Bb" B4- Bc | %73
+w: Je sus Go'ds|Son took my|place|_ and|I should have|been cru ci|fied _ _|
+"Bb7" d4 c2 |"Eb" B B4 B | B B4 G |"Bb" F6- | F4 z2 | B2 B3 B | B2 c2"Bb7" d2 |"Eb" e2 z2 GA | %81
+w: _ _|I should have|suf fered and|died|_|I should have|hung on the|cross in dis|
+"C7" B4 z c |"Bb" d2 c2 z B |"Cm7" c2 B2"F7" A2 |"Bb" B6- | B6 | z6 | z6 | z6 | z6 |] %90
+w: grace but|Je sus Go'ds|Son took my|place|_|||||
+

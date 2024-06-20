@@ -1,0 +1,29 @@
+X:1
+T:O To Be Like Thee
+T:O To Be Like Thee
+T:Thomas O. Chisholm & William J. Kirkpatrick, 1897
+C:Thomas O. Chisholm & William J. Kirkpatrick 1897
+Z:All Rights Reserved
+L:1/4
+Q:1/4=75
+M:3/4
+K:Db
+V:1 treble nm="Voice"
+%%MIDI channel 3
+%%MIDI program 54
+V:1
+ z3 | z3 |"Db2" z3 |"Bbm" z3 |"Gb2" z3 |"Ab" z3 |:"Db" D F A | A3 | A3 |"Dbdim7" B c d |"Db" A3 | %11
+w: ||||||O to be|like|Thee|Bles sed Re|deem|
+ F3 | D F A | A3 | F3 |"Db" F"Ab7/C" G"Db" F |"Ab" E3- | E3 |"Db" D F A | A3 | A3 |"Dbdim7" B c d | %22
+w: er|this is my|con|stant|long ing and|prayer|_|glad ly I'll|for|feit|all of earth's|
+"Db" A3 | F3 | A G F |"Ab/Eb" E3 |"Eb7" d3 | d"Cm/Eb" c B |"Ab" A3- |"Ab7" A3 || %30
+w: treas|ures|Je sus Thy|per|fect|like ness to|wear|_|
+"Db" A"Dbdim" =G"Db" A |"Gb" B3 | G3 | d c B |"Gb" B3 |"Db" A3 | A G F |"Ab7" G3 | G3 | %39
+w: O to be|like|Thee|O to be|like|Thee|bles sed Re|deem|er|
+"Ab9" B"Bbm7" A"Ab7/C" G |"Db" F3- | F3 | A"Dbdim" =G"Db" A |"Gb" B3 | G3 | d c B |"Gb/Db" B3 | %47
+w: pure as Thou|art|_|Come in Thy|sweet|ness|come in Thy|full|
+"Db" A3 | D F A | A3 |"Db/Ab" F3 | F D"Ab7" E |1"Db" D3- | D3 :|2"Db" D3- || D3 | z3 | z3 | z3 | %59
+w: ness|stamp Thine own|im|agge|deep on my|heart|_|heart|_||||
+ z3 |] %60
+w: |
+

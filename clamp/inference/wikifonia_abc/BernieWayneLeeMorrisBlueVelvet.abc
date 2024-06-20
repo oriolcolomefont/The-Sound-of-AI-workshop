@@ -1,0 +1,28 @@
+X:1
+T:Blue Velvet
+T:Blue Velvet
+C:Bernie Wayne, Lee Morris
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2"F7" F A |:"Bb" B4 |"Dm" d A3 |"Cm7" (3G A B"F7b9" (3:2:4d c A/G/ |"Bb" F3 z | %5
+w: She wore|blue|vel- vet,|Blu- er than vell- vet was the|night,|
+"Cm7" (3E F G (3:2:4c G E/C/ | F2"F7" F3/2"F+7" F/ |"Bbmaj7""G7b9" F4- |"Cm" F z"F7" F A |"Bb" B4 | %10
+w: Soft- er than sat- in was the|light from the|stars.|* She wore|Blue|
+"Dm" d A3 |"Cm7" (3G A B"F7b9" (3:2:4d c A/G/ |"Bb" F3 z |"Cm7" (3E F G (3:2:4c G E/C/ | %14
+w: Vel- vet|blu- er- than vel- vet were her|eyes,|Warm- er than May her ten- der|
+ F2"F7" F3/2 A/ |"Fm7" c4- | c3"Bb9" z |"Eb" d3/2 d/ (3d c B |"Ebm7" _d d3 |"Bb" (3c c c B D | %20
+w: sighs, love was|ours.||Ours a love I held|tight- ly,|Feel- ing the rap- ture|
+ F3"Bb7" z |"Eb" d3/2 d/ (3d c B |"Ebm7" _d d3 |"Dm7" (3c A c"Edim" B2 |"Cm7" (3B G B"F7" A F | %25
+w: grow,|Like a flame burn- ing|bright- ly,|But when she left,|gone was the glow of|
+"Bb" B4 |"Dm" d A3 |"Cm7" (3G A B"F7b9" (3:2:4d c A/G/ |"Bb" F3 z |"Cm7" (3E F G (3:2:4c G E/C/ | %30
+w: Blue|Vel- vet|But in my heart there'll al- ways|be,|pre- cious and warm, a mem- o-|
+ F2"F7" F3/2 A/ |"Fm" c4- | c"Bb" z B c |"Eb" d B G E |"F+7" _G/ _d3/2 d A |1"Bb6""G7b9" B4- || %36
+w: ry through the|years|* And I|still can see Blue|Vel vet through my|tears.|
+"Cm" B z"F7" F A :|2"Bb6" B4- || B3 z |] %39
+w: * She wore|tears.||
+

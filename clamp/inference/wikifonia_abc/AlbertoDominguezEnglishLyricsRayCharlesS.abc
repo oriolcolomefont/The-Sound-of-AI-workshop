@@ -1,0 +1,28 @@
+X:1
+T:Frenesi
+T:Frenesi
+C:Alberto Dominguez
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb7" z"^N.C." EFG BcBA |"Bbm7" B2 z B"Eb7" e4- |"Bbm7" ecBc"Eb7" BAFA |"Bbm7" B2 z B"Eb7" e4- | %4
+w: It was fi- es- ta down in|Mex- i- co,|_ and so I stopped a- while to|see the show,|
+"Bbm7" ecBc"Eb7" BAGE |"Ab6" F2 z F"Abmaj7" c4 | z GGG"Abdim" B2"Eb7" GE |"Ab6" F8 | %8
+w: _ I knew that Fre- ne- si meant|"please love me",|And I could say fre- ne-|si.|
+"Eb7" z"^N.C." EFG BcBA |"Bbm7" B2 z B"Eb7" e4- |"Bbm7" ecBc"Eb7" BAFA |"Bbm7" B2 z B"Eb7" e4- | %12
+w: A love- ly se- no- ri- ta|caught my eye,|_ I stood en- chant- ed as she|wan- dered by|
+"Bbm7" ecBc"Eb7" BAGE |"Ab6" F2 z F"Abmaj7" c4 | z GGG"Abdim" B2"Eb7" GE |"Ab6" F8 | %16
+w: _ and nev- er know- ing that it|came from me,|I gent- ly sighed fre- ne-|si.|
+"^Eb7." z"^N.C." CC=D =ECFC |"C" G8 |"Bbm6" z GGA BBAB |"C" G8 |"^N.C." z CC=D =ECFD |"C" G8 | %22
+w: She stopped and raised her eyes to|mine,|her lips just plead- ed to be|kissed,|her eyes were soft as cand- le|shine,|
+"Db9" z FFG"Dm7b5" A2 GA |"Bbm7" B8 |"Eb9" z"^N.C." EFG BcBA |"Bbm7" B2 z B"Eb7" e4- | %26
+w: so how was I to re-|sist?|And now with- out a heart to|call my own,|
+"Bbm7" ecBc"Eb7" BAFA |"Bbm7" B2 z B"Eb7" e4- |"Bbm7" ecBc"Eb7" BAGE |"Ab6" F2 z F"Abmaj7" c4 | %30
+w: _ a great- er hap- pi- ness I've|nev- er known,|_ be- cause her kiss- es are for|me a- lone,|
+"Bbm7" z BBB"Eb7" e2 Bc |1"Ab6""E9" A8 :|2"Ab6" A8- || ABcd"A9" e2 ee |"Ab6" e8- | e2 z2 z4 |] %36
+w: who would- n't say fre- ne-|si.|si.|_ who would- n't say fre- ne-|si!||
+

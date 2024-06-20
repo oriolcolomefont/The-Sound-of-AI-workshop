@@ -1,0 +1,27 @@
+X:1
+T:Walkin' In The Sunshine
+T:Walkin' In The Sunshine
+T:Roger Miller
+C:Roger Miller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" G^FGF GB,- B,2 | G^FGF GB,- B,2 |"Bb7" F6 z2 | z8 | F=EFE FB,-B,F- | FFFF ED- D2 | %6
+w: Walk- in' in the sun- shine *|Sing a lit- tle sun- shine *|song.||Put a smile up- on your * face|* as if there's noth- in' *|
+"Eb" E6 z2 | z8 | GGGG B,E- E2 |"Eb7" GB G2 FE E2 |"Ab" A/A/A-AA C/C/C-CE |"Abm" BA-AG- GE F2 | %12
+w: wrong.||Think a- bout a good time *|had a long time a- go.|Think a- bout * for- get a- bout * your|wor- ries * and * your woe.|
+"Eb" G^FGF GB,- B,2 |"Bb7" FFFF DB,- B,2 |"Eb" E8 |"Eb7""^To Coda 2nd Time" z8 || %16
+w: Walk- in' in the sun- shine *|Sing a lit- tle sun- shine *|song.||
+O z2"Ab" ee- ed c2 |"Eb" B2 eG- G2 z2 |"Bb7" z AAA GG F2 |"Eb" EF-FG-"Eb7" G4 |"Ab" z2 ee- ed c2 | %21
+w: La la * la la|la dee oh *|Wheth- er the weath- er be|rain or * snow *|Pre- tend- * in' can|
+"Eb" BG-GE- E2 z E |"F7" FG-GC- CD z E |"Bb7" FD-DB,- B,C D2 | z8 ::O"Eb""^Coda" G^FGF GB,- B,2 | %26
+w: make it * real * A|snow- y * pas- * ture of|green and * grass- * y field||Walk- in in the sun- shine *|
+"Bb7" FFFF DB,- B,2 |"Eb" E8 | z8 :| %29
+w: Sing a lit- tle sun- shine *|song.||
+

@@ -1,0 +1,62 @@
+X:1
+T:If You Can't Sing It (You'll Have To Swing It)
+T:If You Can't Sing It
+C:Sam Coslow
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"Eb" z3/2 E/ |"Ab" (3AAA"Fm" (3:2:2A, A,2"Bbm7" z/ A,/F/F/"Eb7"B, z/ B,/ | %2
+w: The|con- cert was ov- er in Deutch- land- halle, the|
+"Abmaj7" (3EEE"Fm7" (3A,A,A,"Bbm7" D3"Eb7" z/ D/ |"Ab9" (3EEE"G9" (3FFF"C7" G/G/G"F9"G, z/ G,/ | %4
+w: mae- stro took bow af- ter bow, He|said, "My dear friends, I have giv- en my all. I'm|
+"Dm7b5" F/FG,/"G7b9" (3F2 E/=D/"Cm9" C2"Bm7" z2 |"Bbm7" B,D/F/ B/B/B"Cm7" c>G"Fm7"G z/ G/ | %6
+w: sor- ry, it's all ov- er now."|When from the bal- con- y way up high, there|
+"Bb9sus4" B/B/B"Bb13"F>E"Bbm7b5/Eb" D/E/D/E/-ED |"Ebmaj7" (D<B,-) B,4 E2 || %8
+w: sud- den- ly came a mourn- * * * * ful|cry _ _ Oh,|
+S"Abmaj7" EA,- (3A,CE"Fm9" F F2 z |"Dbmaj7" FF (3B,D3/2F/"Db7" G4 |"Abmaj7" z G (3GBA"Gb7" G_GB z | %11
+w: Mis- ter _ Pa- ga- ni- ni,|please play my rhap- so- dy.|And if you can- not play it,|
+"F" AF"Gm7"FF-"Abdim7""F13/A""B9" F4 |"Bb9" z c"Ab6/C"cA"Dbm6" B(B/A/)"Bb13/D" F2 | %13
+w: won't you sing it? _|And if you can't sing _ it|
+"Bbm9" z EFE"Eb13" c E3 |"Ab6/Bb" A/A/G/A/ (3B/B/B/ A/B/ ce/B/-B z/ B/- | %15
+w: you'll simp- ly have to|bru- dit n- di- doo- dle- ya- doo- di- dru- bi- bow, _ ool-|
+ BC/=A/-A=B,/_A/- A_B,/(G/- G2 |"Abmaj7" C2) z2"Fm9" G/F/G/F/ G<F- | %17
+w: * yo- aal- * ya- aal- * ya- aah. _|_ Lis- ten, Pa- ga- ni- ni,|
+"Bbm7" F z (3=EFD"Db13" (3CB,G- G2 |"Abmaj7" z3/2 G/- G/GB/"Gb9#11" (3AG_G- G2 | %19
+w: _ we breath- less- ly a- wait _|your _ mas- ter- full ba- ton. _|
+ (3z BA-"Gm7" A2"Abdim7" FF"F7/A""B13" F2 | %20
+w: Go on, _ and swing it.|
+"Bb13" z/ (G/=E/F/)"Abmaj7/C" (G/E/)F/(G/"Dbm6" E<F)"Bb9/D" G<E |"Bbm11" z EFE"Eb13" (3(=Bc)E- E2 | %22
+w: And _ _ if _ you can't _ _ swing it,|you'll sim- ply have _ to _|
+"Ab6/Bb" ec/A/ d/B/G/c/- cA/E/ B/G/E/A/4G/4 | F/D/B,/G/ E/C/A,/F,/ DC A,2 | %24
+w: boop- boo- da- dee- da- do- ba- * boop- m- be- dee- doo- dee- dle|deel- ta doo- da- doot- da- doot- n- dool- ya- ow.|
+"Gm11" z =B, (3CDC (3:2:2_B, C2- C2 |"C7sus4" C/CD/ (3CB,C- C2 z C |"Fm6" c/AF/- F2- FC=D>=E | %27
+w: We've heard your rep- er- toire, _|and at the fin- al bar, _ we|greet- ed you _ _ with round ap-|
+ (=E<=D- D4) z C |"Bb13sus4" c>A A/AA/-"Bb13" A<(FF) z | %29
+w: plause. _ _ But|what a great ov- a- * tion, _|
+"Bb9sus4" G>B (3GFG"Bb13" F2 z F/A/!dacoda! |"Eb9sus4" F/A/FAB _c_F/_G/-G=F | %31
+w: your in- ter- pre- ta- tion of "I|nev- er blinked back at fire- * flies" _ would|
+"Abmaj7" E4"Fm9" (3CGF G<F- |"Bbm7" F2 (3=A,B,D"Db13#11" (3FAG- G2 | %33
+w: do. So Pa- fa- ni- ni,|_ don't you be a mean- ie. _|
+"Abmaj13" z GGB"Gb13" (3AG_G- G2 |"F7" (3z BA-"Gm7b5" A2"Abdim7" FF"F7/A""E7/B""F7/C" F2 | %35
+w: What have you up your sleeve? _|Come on _ and spring it.|
+"Bb13" z c"Ab/C"cA"Dbm6" BA"Bb9/D" F2 |"Bbm11" z EFE"Eb13" (3=BcE- E z/ a/- | %37
+w: And if you can't spring it,|you'll simp- ly have _ to _ eet-|
+"Ab6/Bb" a/A/_c/A/ B/A/F/A/ de/c/=c z | %38
+w: * n- deet- n- doo- dit- n- dit- doo- boo- booie. _|
+ (6:4:6c/c/c/e/e/e/ (6:4:6B/B/B/d/d/d/ (6:4:6A/A/A/c/c/c/ B/G/F/E/!D.S.! || %39
+w: Boo- dit- n- di- dit- n- doo- dit- n- di- dit- n- di- dit- n- di- din- di- dee- da- do- do.|
+O"Eb13sus4" c/e/c/A/ F/A/c/e/ c/A/FF z/ F/ ||[K:A]"E13sus4" F/A/c/e/ c/A/F/A/ c/e/c/A/(F=F) | %41
+w: doo- be- yoo- be- doo- ba- doo- be- de- ba- dat- da, ba-|doo- ba- doo- be- yoo- ba- da- ba- doo- be- ya- ba- do _|
+"Amaj9" EF- (3FGF"^F#mj9" G<F- F2 |"Bm7" (3:2:2z A2 (3AFA"D13#11" (3FAG- G2 | %43
+w: List- en _ Pa- ga- ni- ni _|now, don't you be a mean- ie. _|
+"Amaj13" z B (3BAc"G13" (3:2:2B (A2 E2) |"F#7" z =G/G/-"G#m7b5" G2"Adim7" CG/"F#7/A#"F/-"C13" F2 | %45
+w: What have you up your sleeve? _|Come on _ and spring it _|
+"B13" z c"A/C#"cA"Dm6" BA"B7/D#" F2 |"Bb9" z ccc"E13" c E3 | %47
+w: And if you can't spring it|you'll sim- ply have to|
+"A9" (3(c2 B/c/) (B2-"G13" BB/A/- A2-) | A6"Bbmaj7""A6" z2 |] %49
+w: swing _ _ it _ _ _ _|_|
+

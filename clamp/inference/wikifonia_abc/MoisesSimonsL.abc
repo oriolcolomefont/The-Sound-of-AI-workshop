@@ -1,0 +1,32 @@
+X:1
+T:Peanut Vendor,The(El Manisero)
+T:Peanut Vendor,The (El Manisero)
+T:Moises Simons
+T:L. Wolfe Gilbert & Marion Sunshine (Eng.)
+C:Moises Simons
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z2 G2 D2 E2 |"D7" z2 FE- EE D2 |"G" z2 G2 D2 E2 |"D7" z2 FE- EE D2 ||"G" z2 B2 d4 | %5
+w: ||||Pea- nuts|
+"D7" z2 FE- EE D2 |"G" z2 B2 d4 |"D7" z2 FE- EE D2 |"G" z2 Bc ded^c |"D7" d2 dc- cc"G" B2 | %10
+w: |Pea- nuts||If you have- n't got ba-|na- nas don't * be blue.|
+ z2 GA BcdB |"D7" d2 Ac- cB"G" G2 | z2 G2 D2 E2 |"D7" z2 FE- EE D2 |"G" z2 G2 D2 E2 | %15
+w: Pea- nuts in a lit- tle|bag are call- ing you. *||||
+"D7" z2 FE- EE D2 |"G" z2 D2 E2 GA- |"Am7" A A2 c-"D7" cB"G" G2 | z2 D2 E2 GA- | %19
+w: |For at the ve-|* ry break * of day,|The pea- nut ven-|
+"Am7" A A2 c-"D7" cB"G" d2- | d2 G2 D2 E2 |"D7" z2 FE- EE D2 |"G" z def g2 ef- |"D7" f2 de- ec d2 | %24
+w: * dor's on * his way.|||Thru' ev- 'ry ci- ty, town|* and coun- * try lane,|
+"G" z Bcd e2 cd- |"D7" d2 Bc- cA B2 |"G" z G2 A B2 GA- |"D7" A2 FE- EE D2- |"G" D2 G2 D2 E2 | %29
+w: You'll hear him sing his plain-|* tive lit- * tle strain.|And as he goes by|* to you * he'll say||
+"D7" z2 FE- EE D2 |"G" z2 G2 D2 E2 |"D7" z c2 d edcd- |"G" d2 G2 D2 E2 |"D7" z c2 d efed- | %34
+w: ||Pea- nuts, roast- ed to- day||Ftesh- ly roast- ed to- day|
+"G" d B2 c ded^c |"D7" d2 dc- cc"G" B2 | z G2 A Bc"Ddim"dB |"Am7" d A2"D7" c- cB"G" G2 |] %38
+w: * If you're look- ing for a|mor- al to- * his song,|Fif- ty mil- lion lit- tle|mon- keys can't * be wrong.|
+

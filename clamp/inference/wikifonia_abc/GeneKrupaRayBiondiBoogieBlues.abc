@@ -1,0 +1,21 @@
+X:1
+T:Boogie Blues
+T:Boogie Blues
+T:Gene Krupa & Ray Biondi
+C:Gene Krupa & Ray Biondi
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z EEE |"Eb" G B2 z z EEE |"Ab9" A B2 z z EEE |"Eb" GA=AB GB"Bb9"_GF- |"Eb9" F4 z E"Eb7"EE | %5
+"Ab9" _G B2 z z EEE | A B2 z z EEE |"Eb" GA=AB GB_G=G- | G6 z G |"Bb9" (3ABG AG ABAG | %10
+"Ab9" (3_GAF GF GAGG |"Eb" GBAG"Ab9" _GB,"Bb9"DE- |"Eb" E4 z eee | eEEE Eeee | eEEE Eeee | %15
+ eEEe eEEe |"Eb7" eede =ef^fg |"Ab9" z b_g z bb g2 | bbab z4 |"Eb" z bg z bb g2 | bbgb z4 | %21
+"Bb9" z bg z bb g2 |"Ab9" z af z aa f2 |"Eb" E2 z e =abae | =a3 b z2"Bb+9" bc'- |"Eb9" c'8- | %26
+ c'2 z2 z4 |] %27
+

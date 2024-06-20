@@ -1,0 +1,30 @@
+X:1
+T:In Your Own Sweet Way
+C:Dave Brubeck
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI control 7 100
+%%MIDI control 10 64
+L:1/8
+V:1
+"Eb6" (3z e B |:"Am7" d2"D7" c2 |"Gm7" B2-"C7" B2 |"Cm7" z/ d/e/f/"F7" e d | %4
+"Bb7" B c/"Ebmaj7"d/- d2 |"Abm7" z/ _c/_d/e/"Db7" d c |"Gbmaj7" B _d/_G/-"Bmaj7" (3G B G | %7
+"F7" A2"B7" _G2 |1"Bb7" F2"Eb6" (3z e B :|2"Bb7" F2"Eb6" z B ||"Em7" =A2"A7" =B3/2 ^c/- | %11
+"Dmaj7" c4 |"Em7" z =A"A7" =B B |"Dmaj7" ^f f/f/- f2 |"Dm7" z c"G7" ^c d |"Em7" g g/g/-"A7" g _g | %16
+"Dm7b5" f2"Ab7" e2 |"G7" d2"Cm7" (3z e B ||"Am7" d2"D7" c2 |"Gm7" B2-"C7" =B2 | x3 d | %21
+"Bb7" B c/d/"Ebmaj7" d2 |"Abm7" z/ _c/_d/e/"Db7" d c |"Gbmaj7" B _d/b/-"Bmaj7" (3b b _g | %24
+"F7" a2"B7" _g2 | x B _c _g |1"Ebm" e4- | e4 :|2"Ebm" _g3/2 g/ g3/2 g/ |"F/Eb" f3/2 f/ f3/2 f/ || %30
+"E7/Eb" =e3/2 e/ e3/2 e/ | e3/2 e/ e3/2 e/ |"Abm" e3/2 e/ e e |"Bb7" d"Bb9" B"A13" =B"Ab13" _B | %34
+"G7#9#5" e"Gbmaj7" B"F#7#11b9#5" =B"Emaj9#11" _g |"Ebm9" f4 |] %36
+V:2
+ x4 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 :|2 x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || %18
+ x8 | x8 |"Cm7" z def"F7" e2 x2 | x8 | x8 | x8 | x8 |"Bb7" f2 x6 |1 x8 | x8 :|2 x8 | x8 || x8 | %31
+ x8 | x8 | x8 | x8 | x8 |] %36
+

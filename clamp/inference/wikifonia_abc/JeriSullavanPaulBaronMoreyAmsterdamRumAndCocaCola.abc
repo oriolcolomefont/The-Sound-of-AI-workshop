@@ -1,0 +1,39 @@
+X:1
+T:Rum And Coca Cola
+T:Rum And Coca Cola
+T:Morey Amsterdam,Jeri Sullavan & Paul Baron
+C:Jeri Sullavan & Paul Baron, Morey Amsterdam
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^VERSES" z2 z/ E F/ |"C" G G A A | G/ G A/- A E | G G"C#dim" A E |"G7/D" G G/F/- F3/2 D/ | %5
+w: If you|ev- er go to|Trin- i- dad, * they|make you feel so|ve- ry glad, * ca-|
+w: Since the|Yan- kee come to|Trin- i- dad * they|got the young girls|go- in' mad * Young|
+w: From Chic|chic- a- ree to|Mon- a's Isle * na-|tive girls all *|dance and smile * Help|
+w: In old|Trin- i- dad, I|al- so fear * The|situ- a- tion is|might- y queer * Like|
+w: Out on|Man- * zan- *|el- la beach * G.-|I. ro- mance with|na- tive peach * All|
+"Dm7" F F"G7" G G |"Dm7" F F/G/-"G7" G E/F/ | G G G F |"C" E"G7" D/C/-"C" C G/G/ || %9
+w: lyp- so sing and|make up rhyme, * gua- ran-|tee you one good|real fine time. * Drink- in'|
+w: girls say they *|treat 'em nice * Make Trin|i dad like *|pa- ra- dise.- * * *|
+w: sol- dier cel- e-|brate his leave * Make ev-|e- ry day like|New Year's Eve. * * *|
+w: Yan- kee girl the|na- tive swoon * When- *|she hear * der|Bin- go croon.- * * *|
+w: night long, make *|tro- pic love * Next day,|sit in hot sun|and cool off.- * * *|
+"C""^CHORUS" G G E A- | A E G2 | G G E c- |"Ebdim" c B"G7" F2 |"Dm7" F F D G- |"G7" G D F2 | %15
+w: Rum and Co- ca|* Co- la-|go down Point Koo-|* mah- nah,|both moth- er and|* daugh- ter|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ G G G3/2 F/ |"D7" E E"G7" D"C" C- | C4- | C3 z |] %19
+w: work- in' for the|Yan- kee dol- lar.-|||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

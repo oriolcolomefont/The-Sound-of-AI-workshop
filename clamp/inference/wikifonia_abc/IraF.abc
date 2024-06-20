@@ -1,0 +1,44 @@
+X:1
+T:Mansion Over the Hilltop
+T:Mansion Over the Hilltop
+C:Ira F. Stanphill
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 | z E F ^F |"C" G2 E2 |"F" z c/c/ c/B/ A |"C" G2"G6" E2- | %10
+w: ||||||I'm sat is|fied with|just a cot tage be|low _|
+"C" E G G"D#m" ^F |"G7" F2 D2- | D A/A/"G6" G"B" ^F |"C" G4 | z E"Dm" F"B" ^F |"C" G2 E2 | %16
+w: _ A lit tle|sil ver|_ and a lit tle|gold|but in that|ci ty|
+"F" z c/c/ c/B/ A |"C" G2"G6" E2- |"C" E G"F" A"F#" ^A |"G7" B2"Dm7" A2- |"G7" A G B/c/ d | %21
+w: where the ran somed will|shi ne|_ I want a|gold one|_ that's sil _ ver|
+"C" c4- |"C7" c c"Dm7" c"C7" c |"F" c2 A2- | A c d/c/ A |"C" G2"Em" E2- |"C" E G"F" A"F#" ^A | %27
+w: lined|_ I've got a|man sion|_ just ov er the|hill top|_ in that bright|
+"G" B2"Dm7" A2- |"G7" A B A/G/"B" ^F |"C" G4- |"C7" G c c c |"F" c2 A2- | A c/B/ d/c/ A | %33
+w: land where|_ we'll ne ver grow|old|_ and some day|yon der|_ we will ne ver more|
+"C" G2"Em" E2- |"C" E G"F" A"F#" ^A |"G7" B2"Dm7" A2- |"G7" A G B/-c/ d |"C" c4- |"C" c E F ^F | %39
+w: wan der|_ but walk on|streets that|_ are pur _ est|gold|_ don't think me|
+"C" G2 E2 |"F" z c/c/ c/B/ A |"C" G2"G6" E2- |"C" E G G"D#m" ^F |"G7" F2 D2- | D A/A/"G6" G"B" ^F | %45
+w: poor or|des ser ted or or|lone ly|_ I'm not dis|cour aged|_ I'm _ hea ven|
+"C" G4 | z E"Dm" F"B" ^F |"C" G2 E2 |"F" z c/c/ c/B/ A |"C" G2"G6" E2- |"C" E G"F" A"F#" ^A | %51
+w: bound|I'm just a|pil grim|in search of _ that|ci ty|_ I want a|
+"G7" B2"Dm7" A2- |"G7" A G B/c/ d |"C" c4 |"C7" c c"Dm7" c"C7" c |"F" c2 A2- | A c d/c/ A | %57
+w: man sion|_ a harp and I|crown|_ I've got a|man sion|_ just ov er the|
+"C" G2"Em" E2- |"C" E G"F" A"F#" ^A |"G" B2"Dm7" A2- |"G7" A B A/G/"B" ^F |"C" G4- |"C7" G c c c | %63
+w: hill top|_ in that bright|land where|_ we'll ne ver grow|old|_ and some day|
+"F" c2 A2- | A c/B/ d/c/ A |"C" G2"Em" E2- |"C" E G"F" A"F#" ^A |"G7" B2"Dm7" A2- | %68
+w: yon der|_ we will ne ver more|wan der|_ but walk on|streets that|
+"G7" A G B/-c/ d |"C" c4- |"C7" c c"Dm7" c"C7" c |"F" c2 A2- | A c d/c/ A |"C" G2"Em" E2- | %74
+w: _ are pur _ est|gold|_ I've got a|man sion|_ just ov er the|hill top|
+"C" E G"F" A"F#" ^A |"G" B2"Dm7" A2- |"G7" A B A/G/"B" ^F |"C" G4- |"C7" G c c c |"F" c2 A2- | %80
+w: _ in that bright|land where|_ we'll ne ver grow|old|_ and some day|yon der|
+ A c/B/ d/c/ A |"C" G2"Em" E2- |"C" E G"F" A"F#" ^A |"G7" B2"Dm7" A2- |"G7" A G B/-c/ d |"C" c4 | %86
+w: _ we will ne ver more|wan der|_ but walk on|streets that|_ are pur _ est|gold|
+ z4 | z4 | z4 |] %89
+w: |||
+

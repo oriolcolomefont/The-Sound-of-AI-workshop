@@ -1,0 +1,23 @@
+X:1
+T:Little Brown Jug
+T:Little Brown jug.
+T:Joseph Winner
+C:Joseph Winner
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z D |"G" B, D D D |"C" C E E E/E/ |"D7" ^F/^F/ ^F E ^F |"G" G A B2 | B, D D D |"C" C E E2 | %7
+w: My|wife and I lived|all a- lone in a|lit- tle log hut we|call our own|she loved gin and|I loved rum|
+"D7" ^F ^F E ^F |"G" A G G2 | B, D D2 |"C" C E E2 |"D7" ^F/^F/ ^F E ^F |"G" G A B2 | B, D D2 | %14
+w: tell you what dont|we have fun.|Ha ha ha|you and me|lit- tle brown jug dont|I love thee|ha ha ha|
+"C" C E E2 |"D7" ^F/^F/ ^F E ^F |"G" A G G G |"C" E G G G |"F" F A A A |"G7" B B A B |"C" c d e2 | %21
+w: you and me|lit- tle brown jug dont|I love thee tis|you who make my|friends my foes tis|you who makes me|wear old clothes|
+ E G G G |"F" F A A2 |"G7" B B A B |"C" d c c2 | E G G2 |"F" F A A2 |"G7" B/B/ B A B |"C" c d e2 | %29
+w: here you are so|near my nose|tip her up and|down she goes!|ha ha ha|you and me|lit- tle brown jug dont|I love thee|
+ E G G2 |"F" F A A2 |"G7" B/B/ B A B |"C" d c c z |] %33
+w: ha ha ha|you and me|lit- tle brown jug dont|I love thee!|
+

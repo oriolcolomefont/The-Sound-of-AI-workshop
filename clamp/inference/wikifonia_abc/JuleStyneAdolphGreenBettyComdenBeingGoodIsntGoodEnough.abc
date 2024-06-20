@@ -1,0 +1,44 @@
+X:1
+T:Being Good Isn't Good Enough
+T:Being Good Isn't Good Enough
+T:From "Hallelujah, Baby!"
+T:Jule Styne
+T:Betty Comden & Adolph Green
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am7" G F D2- | D2 G"D7" F |"Gmaj7" D3/2 B,/ B,2- |"Em6" B,4 |"Am7" G F D2- | D2 G"D7" F | %6
+w: ||||||
+w: Be- ing good|_ is- n't|good e- nough.||Be- ing good|_ won't be|
+"Dm7" =F3/2 c/ c2- | c3 z |"Cm7" _B A"F7b9" =F2- |"Cm7" F _B A"F7b9" =F |"Bb6" _B A"Dm" =F2 | %11
+w: |||||
+w: good e- nough.|_|When I fly|_ I must fly|ex- tra high,|
+"Gm7" z =F G =F |"E9" A ^G"Bm7" E2- | E"E7" E =F"E7b9" E |"A7""A7b9" G3 G |"A7" G"^+5" A2"A7" G | %16
+w: |||||
+w: And I'll need|spe- cial wings;|_ So far to|go, from|so far be-|
+"^D7+b9""D+9" _B4- | _B3"D+7" z |"Am7" G F D2- | D2 G"D7" F |"Gmaj7" D3/2 B,/ B,2- |"Em6" B,4 | %22
+w: ||||||
+w: low.|_|Should I try?|_ Am I|strong e- nough?|_|
+"Am7" G F D2- | D2 G"D7" F |"Dm7" =F3/2 c/ c2- | c3 z |"Cm7" [_BB] A"F7b9" =F2- | %27
+w: |||||
+w: Is there time?|_ Have I|long e- nough?|_|Got- ta fly|
+"Cm7" F _B A"F7b9" =F |"Dbmaj7" c4- |"Fm6" c3 z |"Ab" =F G _B _A |"Abdim" D3"Ab" _E |"E7" E4- | %33
+w: ||||||
+w: _ and if I|fall,|_|That's the way it's|got to|be.|
+ E3 z |"Ab" =F G _B _A |"Ddim/Eb" D3"Ab" _E |"E7" E4- |"A9" E3 z |"Am7" G F D2- | D G F"D7" D | %40
+w: |||||||
+w: _|There's no oth- er|way for|me.|_|Be- ing good|_ just won't be|
+"G+7" B ^A G2- |"Cmaj7" G B ^A G |"Cm6" d3 d |"D7b9" c _B2 A |1"G7" G4- |"C9" G4- |"Cm" G4 | %47
+w: |||||||
+w: good e- nough.|_ I'll be the|best or|noth- ing at|all.|_||
+"D7" z4 :|2"G""G+""G6" B4- |"A9" B4- |"G""E""Dm7" B4- |"Gmaj7" B2- B z |] %52
+w: |||||
+w: |all.|_|||
+

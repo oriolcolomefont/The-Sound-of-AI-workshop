@@ -1,0 +1,34 @@
+X:1
+T:Largo  (Going Home)
+T:Largo   (Going home)
+T:(From New World Symphony)  (De la Sinfonia del Nuevo Mundo)
+T:A.Dvorak
+C:Antonín Dvořák
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" E2 G |"Cmaj7/B" G3 |"Am7" E2 D |"Am7/G" C3 |"F6""Fmaj7" D2 E |"F9" G2"Fmaj7" E |"F6" D3- | %7
+w: Go- ing-|home|go- ing|home|I'm just|go- ing|home|
+w: Mor- ning-|star|lights the|way|Rest- less|dream all|done|
+"G7" D3 |"C" E2 G |"Cmaj7" G3 |"Am7" E2 D |"Am7/G" C3 |"F6" D2"Fmaj7" E |"F6" D2 C |"Csus4" C3- | %15
+w: |qui- et|like|slip a-|way|I'll be|go- ing|home|
+w: |Shad- ows|gone,|break of|day|Life has|just be-|gun|
+"C""C7" C3 |"F" A2 c |"Fmaj7" c3 |"G" B2 G |"Fmaj7" A3 | A2 c |"G" B2 G |"Fmaj7" A3 | %23
+w: |It's not|far,|just close|by|Je- sus|is the|door|
+w: |Ev- ry|tear|wiped a-|way|pain and|sick- ness|gone|
+"F""Fmaj7" A2 c |"F6" c3 |"G" B2 G |"Fmaj7" A3 |"F6" A2 c |"G" B2 G |"F" A3- |"Fmaj7""F6" A3 | %31
+w: work all|done,|laid a-|side|fear and|grief no|more||
+w: wide a-|wake|here with|him|peace goes|on and|on||
+"C2" E2"Cmaj7/B" G | G3 |"Am7" E2 D |"Am7/G" C3 |"F6" D2"Fmaj7" E |"F9" G2"Fmaj7" E |"F6" D3- | %38
+w: Friends are|there|wait- ing|now|He is|wait- ing|too|
+w: go- ing|home|go- ing|home|I'll be|go- ing|home|
+"G7" D3 |"C" E2 G |"Cmaj7/B" G3 |"Am" c2 d |"Am7/G" e3 |"Dm" d2 c |"G7" d2 A |"C" c3- | c3 |] %47
+w: |see his|hand,|see his|smile,|he will|lead me|through||
+w: |see the|light|see the|sun|I'm just|go- ing|home.||
+

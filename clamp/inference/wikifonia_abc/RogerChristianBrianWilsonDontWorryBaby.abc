@@ -1,0 +1,44 @@
+X:1
+T:Don't Worry Baby
+C:Roger Christian
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 2
+%%MIDI program 66
+V:1
+"F " F8 | c6 E2 |"Bb " D8- | D8 |"F " F2 z2 F2 z2 | F2 z2 F2 z2 |"Bb " D2 z2 D2 z2 | D2 z2 D2 z2 | %8
+w: ||||||||
+"F " F2 z F2 G2 F |"Amin" CC DD EE FF- |"Bb " FD B2- B B2 A |"C7" A>B AG- G4 |"F " z2 z F2 G2 F | %13
+w: * Well it's been|bur- ning up in- side of me for|* oh, I * don't know|h\- o\- w long. *|I don't know|
+"Amin" C2 DD E2 FF |"Bb " D B2 B- B3 A- |"C7" AA/B/ AG- G4 |"Gmin" z2 D2 c2 B2 |"C7" A2 GG- G4 | %18
+w: why but I keep think- ing|some- thing's bound * to|* go- o\- o wrong. *|But she looks|in my eyes *|
+"Amin" z2 E2 d2 c2 |"D7" =B2 A A2 G AB |"G " AG- G6 |"Gmaj7" z2 z =B2 A G^F- |"C " FG- G6 | %23
+w: and makes me|re- a\- lize and sh- e|sa- ys, *|don't wor- ry ba-|* by! *|
+"D7" z ^F G A2 F EF- |"Gmaj7" F^F E2 D4 | z2 z =B2 A G^F- |"C " FG- G6 |"D7" z8 | %28
+w: E\- very- thing will turn out|* a\- l\- right.|Don't wor- ry ba-|* by! *||
+"Fmaj7" A4"C7" G4 |"F " z2 z F2 G2 F |"Amin" CC DD EE FF- |"Bb " FD B2- B B2 B |"C7" AA GG- G4 | %33
+w: |I guess I|should'- ve kept my mouth shut when I|* star- ted * to brag|a\- bout my car, *|
+"F " z2 z F2 G2 F |"Amin" C2 D2 EE FF |"Bb " D B2 B- B3 A |"C7" A2 GG- G4 |"Gmin" z2 D2 c2 B2 | %38
+w: but I can't|back down now be- cause I|pushed the o\- * ther|guys too far. *|She makes me|
+"C7" A2 GG- G4 |"Amin" z2 E2 d2 c2 |"D7" =B2 A A2 G AB |"G " AG- G6 |"Gmaj7" z2 z =B2 A G^F- | %43
+w: come a\- live *|and makes me|wan- na drive when sh- e|sa- ys, *|don't wor- ry ba-|
+"C " FG- G6 |"D7" z ^F G A2 F EF- |"Gmaj7" F^F E2 D4 | z2 z =B2 A G^F- |"C " FG- G6 |"D7" z8 | %49
+w: * by, *|e\- very thing will turn out|* a\- l\- right.|Don't wor- ry ba-|* by! *||
+"Fmaj7" A4"C7" G4 |"F " F2 z2 F2 z2 | F2 z2 F2 z2 |"Bb " D2 z2 D2 z2 | D2 z2 D2 z2 | %54
+w: |||||
+"F " F2 z2 F2 z2 | F2 z2 F2 z2 |"Bb " D2 z2 D2 z2 | D2 z2 D2 z2 |"F " F2 z F2 G2 F | %59
+w: ||||* She told me|
+"Amin" CC DD EE FF- |"Bb " FD BB- B2 A2 |"C7" A2 GG- G4 |"F " z2 z F2 G2 F |"Amin" CC DD EE FF- | %64
+w: ba- by when you race to- day just|* take a\- long * my|love with you *|and if you|knew how much I loved you ba- by|
+"Bb " FD B2 B3 A |"C7" A2 GG- G4 |"Gmin" z2 D2 c2 B2 |"C7" A2 GG- G4 |"Amin" z2 E2 d2 c2 | %69
+w: * no- thing could go|wrong with you. *|Oh, what she|does to me *|when she makes|
+"D7" =B2 A A2 G B2 |"G " AG- G6 |"Gmaj7" z2 z =B2 A G^F- |"C " FG- G6 |"D7" z ^F G A2 F EF- | %74
+w: love to me and she|sa- ys *|Don't wor- ry ba-|* by, *|e\- very- thing will turn out|
+"Gmaj7" F^F E2 D4 | z2 z =B2 A G^F- |"C " FG- G6 |"D7" z ^F G A2 F EF- |"Gmaj7" F^F E2 D4 | %79
+w: * a\- l\- right.|Don't wor- ry ba-|* by! *|e\- very- thing will turn out|* a\- l\- right!|
+ z2 z =B2 A GA- |"C " AE- E6 |"D7" z2 z ^F2 G2 A |"G " G4"Gmaj7" z4 |] %83
+w: Don't wor- ry ba|* by! *|Ooo- Ooo- Ooo-|Ooo!|
+

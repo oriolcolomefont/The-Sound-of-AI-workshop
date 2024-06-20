@@ -1,0 +1,36 @@
+X:1
+T:A FOGGY DAY
+C:George Gershwin, Ira Gershwin
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F" z2 z c f_ecg- |:"Eb/F" g_e z2 z4 |"F" z2 z c f_ecB- |"Eb/F" Bc/B/ c4 z2 |"F9" z2 C2 CCz_E- | %5
+w: ||||A FOG GY DAY|
+"Eb/Ab" E8 |"G/B" z2 D2 DDzA- |"Bb/C" A8 |"F" z2 F2 FFz_A- |"Eb/Ab" A8 |"G/B" z2 G2 G G2 d- | %11
+w: _|in Lon don town|_|It had me low|_|It had me down|
+"Bb/C" d8 |"Fmaj7" z2 e2 e2 ec- |"Eb6/F" cc- c6 |"Bbmaj7" z2 A2 z AAF- |"Db/Eb" F4 z4 | %16
+w: _|I viewed the morn|_ ing _|with such a larm|_|
+"Fmaj7/C" z2 z F AGAA- |"D7" Ac- c4 c2 |"G9" z2 A2 z AAD- |"Bb/C" D4-"C+" ^C4 |"F9" z2 C2 C2 FF- | %21
+w: The Brit ish mu se|_ um _ had|lost all its charm|_ _|"How long", I won|
+"Eb/Ab" F_E- E6 |"G/B" z2 D2 DD-DA- |"Bb/C" A4"C+" z2 AG |"Fmaj7" F6 z F |"Eb/Ab" _AB A6 | %26
+w: _ dered _|"could this thing _ last?"|_ but the|age of|mir a cles|
+"G7/B""_1." z2 G2- GG-Gd- |"Bb/C" d4 z2 d2 |"Eb6/F" f6 f2 | d6 d2 |"Bbmaj7" c4 z czA- | %31
+w: had _ n't _ passed|_ For|sud den|ly I|saw you there|
+"Dbmaj9b5/Eb" A4 z2 AB |"F/C" c2 F2"Bb/C" G2 BA- |"Am6/C" A2 F2"Gm/C" G2 A2 |"Am7" A4"Dm7" f4 | %35
+w: _ and thru|FOG GY LON DON TOWN|_ the sun was|shin ing|
+"Gm7" F4"Bb/C" F4 |"F" F8 :|"F/C""^2." c2 F2"Bb/C" G2 BA- |"Am6/C" A2 z2"Gm/C" z2 AB | %39
+w: ev' ry|where|FOG GY LON DON TOWN|_ and thru|
+"F/C" c2 F2"Bb/C" G2 BA- |"Am6/C" A2 z2"Gm9/C" A2 B2 |"F/A" c2 F2"Bb6" G2 BA- | %42
+w: FOG GY LON DON TOWN|_ and thru|FOG GY LON DON TOWN|
+"Dm" A2 F2"C#+" G2 A2 |"F/C" A4"G7/B" f4 |"Db" F4"Eb" F4 |"F" F8 |"Eb/F" g_e z2 z4 | %47
+w: _ the sun was|shin ing|ev' ry|where|_ _|
+"F" z2 z c f_ecB- |"Eb/F" Bc/B/ c4 z2 |"F" z2 z c f_ecg- |"Eb/F" g_e z2 z4 | cBAF z _ECE | %52
+w: |||||
+ F2 F2 z4 |] %53
+w: |
+

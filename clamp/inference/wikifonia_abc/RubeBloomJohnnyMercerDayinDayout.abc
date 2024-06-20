@@ -1,0 +1,34 @@
+X:1
+T:Day in, Day out
+T:Day in, Day out.
+T:Rube Bloom
+T:Johnny Mercer
+C:Rube Bloom
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G |"C" A4- | A3 G |"Dm7" A4- | A3"G" G |"C" A A A G | A B c d |"D7" d4- |"C" d c d3/2 c/ | %9
+w: Day|in|* day|out|* the|same old hoo- doo|fol- lows me a-|bout|* that same old|
+"G7" B3/2 B/ B3/2 B/ | B c (3B/A/G/ z | A3/2 A/ A2- |"Bb" A c (3B/A/G/ z | A3/2 A/ A2- | %14
+w: pound- ing in my|heart when- ev- er I|think of you|* and dar- ling I|think of you|
+"F" A c (3B/A/G/ z |"Em7" E4- |"A7" E3"Dm7" G |"C" A4- | A3 G |"Dm7" A4- | A3"G" G | %21
+w: * day in and day|out|* day|out|* day|in|* I|
+"C" A A"Dm7" A G | A B"C" c d |"Cm7" d4- | d c B c |"G" d D/D/ D/D/D/D/ |"Dm7" F F3 | %27
+w: need- nt tell you|how my days be-|gin|* when I a-|wake I a- wak- en with a|tin- gle|
+"G" d D/D/ D/D/D/G/ |"Dm7" F4 |"G" d D/D/ D/D/D/D/ |"Am7" B3/2 B/ _B3/2 B/ |"Dm7" A4- |"G" A3 G | %33
+w: One pos- si- bil- i- ty in|view|the pos- s- bil- i- ty of|may- be see- ing|you|* come|
+"C" A4- | A3 G |"Dm7" A4- | A3"G" G |"C" A A"Dm7" A G | A B"C" c d |"F" e4- | e2"A" f e | %41
+w: rain|* come|shine|* I|meet you and to|me the day is|fine|* then I|
+"D7" d d d2- | (3d/c/d/ (3_e/d/c/ z2 |"C" B4- |"Em7" B A B3/2 A/ |"^N.C." B4- | %46
+w: kiss your lips|* and the pound- ing be-|comes|* the o- ceans|roar|
+"Dm7" B A"G7" B3/2 A/ |"^n.c." B4- |"C" B2"A7" f e |"D" d"D7" d d2- |"Dm7" (3d/c/d/ _e/d/ c/ z3/2 | %51
+w: * a thou- sand|drums|* can't you|see it's love|* can there by an- y|
+"C" =A4- |"Gm" =A B"A7" E F |"Dm7" G3 A | c3"G7" e |"C" c4- |"Fmaj7" c4- |"Cmaj7" c4- |"Fmaj7" c4 | %59
+w: doubt|* when there it|is day|in day|out?||||
+"C" A4 |] %60
+w: |
+

@@ -1,0 +1,28 @@
+X:1
+T:Taboo
+T:Taboo
+T:(Tango)
+T:Margarita Lecuona 
+T:English: S.K.Russell.
+C:Margarita Lecuona
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Em""_Tango" B2 B2 | B2- B/d/B/A/ | B2 B2- | B3 z |"Am" A2 A2- |1"B7" A3/2 G/ A/B/A/G/ | %6
+w: Slow- ly|East- * ern moon as-|cend- ed|_|Night came|_ and found her close be-|
+"Em" E2 E2- | E3 z :|2 z z z B, ||"B7" F2 F2- | F"Am" F A F/E/ |"B7" F2 F2- | F2 z2 | z z z B, | %14
+w: side me|_|and|al- though|_ I knew this was|mad- ness|_|and|
+ F2 F2- |"Am" F F A F/E/ |"B7" F2 F2- | F z z B, |"Em" B2 B2- | B B"B7" d c/A/ | B2 B2- | B2 E z | %22
+w: mere- ly|_ a pre- lude to|sad- ness|_ I|ling- ered|_ in- tent up- on|stay- ing|_ ig-|
+"Am" A2 A2- | A"B7" A/G/ A/B/A/G/ |"Em" E2 E2- | E2 z E |"Em7" B2 z E | B2 z E | %28
+w: nor- ing|_ ev- 'ry word my heart kept|say- ing|_ Ta-|boo ta-|boo, re-|
+"Am" A/ B"B7" A/ G/ A G/ |"Em" E2 z E |"Em7" B2 z E |"E7" B2 z E |"Am" A/ B A/"B7" G/ A G/ | %33
+w: mem- ber she is- n't for|you Ta-|boo ta-|boo There's|some- one that you're prom- ised|
+"Em" E4 |] %34
+w: to.|
+

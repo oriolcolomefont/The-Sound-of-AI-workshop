@@ -1,0 +1,26 @@
+X:1
+T:Fill Me Now
+T:Fill Me Now
+T:Elweed H. Stokes &  John R. Sweeney, 1879
+C:Elweed H. Stokes &  John R. Sweeney 1879
+Z:All Rights Reserved
+L:1/4
+Q:1/4=80
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z3 | z3 |"F2" z3 |"Bbmaj7" z3 |"Fmaj7" z3 |"Gm7" z2"C13" z |:"F" A2 A |"C7sus4/F" G2"F" F | %8
+w: ||||||Hov er|O'er me|
+ C2"Bb/F" D |"F" F2"C" G |"F" A2"C7/G" B |"F/A" c2"Bb" d |"F/A" c2"F" A |"C" G3 |"F" A2 A | %15
+w: Ho ly|Spir it|Bathe my|trem bling|heart and|brow|Fill me|
+"C7sus4/F" G2"F" F | C2"Bb/F" D |"F" F2"C" G |"F" A2"C7/G" B |"F/A" c2"Bb" A |"C7" G2"F" F | F3 | %22
+w: with Thy|hal lowed|pres ence|come o|come and|fill me|now|
+"C" G2 G | c3 |"F" A2 A | c3 |"Bb" d2 d |"F/A" c2"F" A | c2 A |"C" G3 |"F" A2 A | %31
+w: fill me|now|fill me|now|Je sus|come and|fill me|now|fill me|
+"C7sus4/F" G2"F" F | C2"Bb/F" D |"F" F2"C" G |"F" A2"C7/G" B |"F/A" c2"Bb" A |1,2,3"C7" G2"F" F | %37
+w: with Thy|hal lowed|pres ence|come O|come and|fill me|
+ F3 :|4"C7" G2"F" F || F3 | z3 | z3 | z3 |] %43
+w: now|fill me|now||||
+

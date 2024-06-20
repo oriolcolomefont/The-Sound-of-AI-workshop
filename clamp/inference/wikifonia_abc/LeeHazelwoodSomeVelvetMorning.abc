@@ -1,0 +1,46 @@
+X:1
+T:Some Velvet Morning
+T:Some Velvet Morning
+T:Lee Hazelwood
+T:All rights Reserved
+C:Lee Hazelwood
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Staff"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am" z A, A, A, |"C6" C C C/ D- D/ |"Am" z A,2- A, | z A, A, A, |"C6" C C C/ D- D/ | %5
+w: (Lee)~Some~ vel- vet~|morn- ing~ when~ I'm~ *|straight.~ *|I'm~ gon- na'~|o- pen~ up~ your~ *|
+w: |||||
+"Am" z A,2- A, | z C C C |"C6" E2 D C |"Am" D A,2 z/ A,/ | A,3/2 C/"C6" C3/2 D/ |"Am" A,3 z/ A,/ | %11
+w: gate.~ *|And~ may- be~|tell~ you~ 'bout~|Phaed- ra,~ and~|how she~ gave me~|life, and~|
+w: ||||||
+ A,3/2"C6" C/ C3/2 D/ |"Am" A,2 z2 | z A, A, A, |"C6" C C C/ D3/2 |"Am" z A,2- A, | %16
+w: how she~ made it~|end.~|Some~ vel- vet~|morn- ing~ when~ I'm|straight.~ *|
+w: |||||
+[M:3/4]"G" G2 D | G2 D |"D" A2 ^F | ^F3 |"G" G2 D | G2 D |"D" A2 ^F | ^F3 |"C" G2 E | E3 | %26
+w: (Nancy)~1.~Flo- wers~|grow- ing~|on~ a~|hill,|Dra- gon|flies~ and~|daf- fo-|dils.|Learn~ from~|us|
+w: ~~~~~~~~~~~~~~2.~Flo- wers|are the|things we|grow,|Se- crets|are the|things we|grow.|||
+"D" ^F2 D | D3 |"C" G2 E | E2 E |"D" ^F2 D | D3 |"Am7" E2 A | E2 A | E3 :|2 %35
+w: ve- ry~|much.|Look~ at~|us~ but~|do~ not~|touch.|Phae- dra~|is~ my~|name.|
+w: |||||||||
+[M:4/4]"Am" z A, A, A, ||"C6" C C C/ D3/2 |"Am" z A,3 |[M:3/4]"C" C2 G, | C2 G, |"G" D2 B, | B,3 | %42
+w: (Lee) * *|||(Nancy) *||||
+w: Some vel- vet|morn- ning when I'm|straight,|Flo- wers|grow- ing|on a|hill|
+[M:4/4]"Am" z A, A, A, |"C6" C C C/ D3/2 |"Am" z A,3 |[M:3/4]"C" C2 G, | C2 G, |"G" D2 B, | B,3 | %49
+w: (Lee) * *|||(Nancy) *||||
+w: I'm gon- na|o- pen up your|gate.|Dra- gon|flies and|daf- fo-|dils|
+[M:4/4]"Am" z C C C |"C6" E2 D C |"Am" D A,3 |[M:3/4]"F" C2 A, | A,3 |"G" B,2 G, | G,2 z/ A,/ | %56
+w: (Lee) * *|||(Nancy) *|||* (Lee)|
+w: And may- be|tell you 'bout|Phae- dra|Learn from|us|ver- y|much. And|
+[M:4/4]"Am" A,3/2 C/"C6" C3/2 D/ |[M:3/4]"Am" A,3 |"F" C2 A, | A,2 A, |"G" B,2 G, | G,2 z/ A,/ | %62
+w: ||(Nancy) *|||* (Lee)|
+w: how she gave me|life|Look at|us but|do not|touch. And|
+[M:4/4]"Am" A,3/2 C/"C6" C3/2 D/ |[M:3/4]"Am" A,2 z |"Am7" A,2 D | A,2 D | A,2- A, | %67
+w: ||(Nancy) *|||
+w: how she made it|end.|Phae- dra|is my|name. *|
+

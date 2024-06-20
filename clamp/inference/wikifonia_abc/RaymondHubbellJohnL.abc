@@ -1,0 +1,26 @@
+X:1
+T:Poor Butterfly
+T:Poor Butterfly
+C:Raymond Hubbell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|: z"Ab/C" E"E7/B" =E"Bbm7" F |"Eb9" d4 | z c/B/ d c |"Abmaj7" B2 B2 |"Abmaj7" z A =B, C | %5
+w: Poor but- ter-|fly|'neath the blos- som|wait- ing.|Poor but- ter-|
+"C+7" A4 | z =B,/C/ A G |"F9" G4 | z F =B, C |"Bb7" G F/G/"Eb9" F2- | F E (=D E) | %11
+w: fly|for she loved him|so.|The mo- ments|pass in- to hours,|* the ho- urs-|
+"Ab" B A/B/"Fm" A2- | A F G A |"Bb7" c B/c/ B2- | B A =E F |"Eb9" B4- | %16
+w: pass in- to years,|* and as she|smiles through her tears|* she mur- murs|low.|
+ B"Ab/C" E"E7/B" =E"Bbm7" F |"Eb9" d4 | z c/B/ d c |"Abmaj7" B2 B2 | z A =B, C |"C+7" A4 | %22
+w: * The moon and|I|know that he'll be|faith- ful.|I'm sure he'll|come|
+ z =B,/C/ A G |"F9" G4 | z2 F C |"Bbm7" D E/F/ e2- | e d/c/ e d |"Ab" d (=B/c/) G2- | %28
+w: to me bye and|bye.|But if|he don't come back|* then I nev- er|sigh or * cry.|
+"Ab" G A C"Abdim/Gb" G |"Eb9" F4 | z (=D/E/)"Bbm7" _d"Eb" c |1"Ab" A z"Bdim7" z2 :|2"Ab" A4- || %33
+w: * I just must|die.|po- or but- ter-|fly|fly.|
+ A z z2 |] %34
+w: |
+

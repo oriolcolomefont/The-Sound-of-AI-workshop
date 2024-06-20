@@ -1,0 +1,30 @@
+X:1
+T:Pickin' a Chicken
+T:Pickin' a Chicken
+C:Derek Bernfield, Garfield de Mortimer
+Z:All Rights Reserved
+L:1/4
+Q:1/4=145
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"C" G A2 G | C3/2 D/ E F |"G7" G A2 G | B,4 | G A2 G | B,3/2 B,/ D F |"C" G A2 G | C4 | G A2 G | %9
+w: 1.Come to the|bar- be- que- and|sit by my|side,|We coul- n't|choose a bet- ter|night if we|tried.|Can't you im-|
+w: 2.come to the|bar- be- que my|dar- ling, my|dear,|I'm so in|love with you, and|when you are|near|I get a|
+ C3/2 D/ E F |"G7" G A2 G |"C" B,4 | G D2 E | F E2 D | C4- | C4"_Fine" ||"C7" c3/2 G/- G A | %17
+w: ag- ine what a|thrill it would|be?|Pick- in' a|chick- en with|me|_|It's so _ rom-|
+w: feel- ing that for-|ev- er you'll|be,|Pick- in' a|chick- en with|me|_||
+ _B3/2 A/- A G |"F" A3/2 F/- F A | d3/2 c/ B A |"G7" G3/2 D/- D E | F3/2 E/- E F |"C" G4- | G4 | %24
+w: an- tic, _ the|moon up _ a-|bove is ex- tra|bright on _ a|night such _ as|this,|_|
+w: |||||||
+"C7" c3/2 G/- G A | _B3/2 A/- A G |"F" A3/2 F/- F A | d3/2 c/ B A |"G7" G3/2 D/- D E | %29
+w: Pul- ling _ a|wish- bone _ with|some- one _ you|love is al- most|cer- tain _ to|
+w: |||||
+ F3/2 E/- E D |"C""F" C4- |"C" C3"F""G7" G"_D.C. al Fine" |] %32
+w: end with _ a|kiss.|_ so|
+w: |||
+

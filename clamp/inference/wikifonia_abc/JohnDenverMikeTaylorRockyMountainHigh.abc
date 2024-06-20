@@ -1,0 +1,61 @@
+X:1
+T:Rocky Mountain High
+T:Rocky Mountain High
+T:Mike Taylor and John Denver
+C:John Denver, Mike Taylor
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 c c |:"F" c2 c c | c c c c |"Gm7" c _B B A |"Eb" G2"C" z c/c/ |"F" c3 c/c/ | c c _B A | %7
+w: He was|born in the|sum- mer of the|twen- ty sev- enth|year com- in|home to a|place he'd nev- er|
+w: |Climbed Cathe- dral|moun- tains he saw|sil- ver clouds be0-|low he sawev-|rything as *|far as you can|
+w: |||||||
+"Gm7" _B A F2- |"Bb" F2"C" c c |"F" c c c d | f d c c |"Gm" c _B/B/ B A |"Eb" G2"C" c c | %13
+w: been be- fore|* he left|yes- ter- day be-|hind him you might|say he was born a-|gain you might|
+w: see * *|* and they|say that he got|cra- zy once andhe|tried * to touch the|sun and he|
+w: ||||||
+"F" c c c/d/ d | c3/2 c/ _B/A/ F |"Gm7" F4- |"Bb" F2"C" z c/c/ |"F" c c c"^|" c | c c2 c | %19
+w: say he found * a|key for ev- * ry|door|* when he|first came to the|moun- tains his|
+w: lost a friend * but|kept his mem- * o-|ry|* now he|walks in qui- et|sol- itude the|
+w: ||||life is full of|won- der bu~this|
+"Gm7" c _B/B/ B A |"Eb" G2"C" c c |"F" c3 c | c c _B A |"Gm7" F4- |"Bb" F2"C" z c/c/ |"F" c c c d | %26
+w: life * was far a-|way on the|road and|hang- ing by a|song|* but the|strings al- read- y|
+w: for- * ests and the|streams seek- ing|grace in|ev ry step he|takes|* his sight|* has turned in-|
+w: heart * still knows some|fear of a|simple thing~he|can not com- pre-|hend|* why the|try to tear the|
+ f d z c/c/ |"Gm7" c _B B/A/ G- |"Eb" G2"C" c c |"F" c c c/A/ c | c c _B/A/ F |"Gm7" F4- | %32
+w: bro- ken and he|does- n't real- ly care|* it keeps|chang- ing fast * and|it don't last * for|long|
+w: side him- self to|try and un- der- stand|* the se-|ren- i- ty * of~a|clear blue moun- * tain|lake|
+w: moun- tains down to|bring in~a coup- le more|* * more|peop- * ple * more|scars up- on * the|land.|
+"Bb" F2"C" z F/F/ |"Bb" d d d d |"C" d/c/ c c/A/ d |"F" c4- | c2 z d |"Bb" d d d/c/ c | %38
+w: * but the|Col- o- ra- do|Rock * y Moun- tain high||* I've|seen it rain * in|
+w: * and the||||||
+w: * and the||||||
+"C" c2 c/_B/ A |"F" A4- | A2 z F |"Bb" d d d d |"C" e/e/ d c3/2 c/ |"F" c/c/c/c/ d e |"Bb" f4- | %45
+w: fire in * the|sky|* the|shad- ow from the|star- light * * is|soft- er than a lul- la-|by|
+w: |||||||
+w: |||||||
+ f4- | f4 | z c/f/ d _B |"C" c4- | c c _B A |"Gm7" G F3 |"Bb" F d/d/"C" d/c/ c |"F" c4- | %53
+w: ||Rock- y Moun- tain|high|||* Rock y Moun * tain|high|
+w: ||||||||
+w: ||||||||
+ c c _B A |"Gm7" G F3 |1"Bb" F2"C" z c :|2"Bb" F2"C" c c!D.S.! ||O"F" c4- | c2 z F/F/ | %59
+w: ||* He|* now his|high|* it's a|
+w: ||||||
+w: ||||||
+"Bb" f f f f |"C" e e e/d/c/d/ |"F" c4- | c2 z f |"Bb" f f f/e/ e- |"C" e2 e/_B/ B |"F" A4- | %66
+w: Col- o- ra- do|Rock- y Moun- * tain high||* I've|seen it rain- in fire|* in * the|sky|
+w: |||||||
+w: |||||||
+ A3 z |"Bb" d d d d |"C" e e/d/ c3/2 c/ |"F" f f f c |"Bb" d3 f- | f4- | f3 z | z d/f/ d _B |: %74
+w: |Friends a- round the|camp- fire * * and|ev- ry- bod- y's|high *|||Rock- y Moun- tain|
+w: ||||||||
+w: ||||||||
+"F" c4- | c c _B A |"Gm7" G F3- |"Bb" F"^Repeat and fade" d/d/"C" d/c/ _B :| %78
+w: high|||* Rock- y Moun * tain.|
+w: ||||
+w: ||||
+

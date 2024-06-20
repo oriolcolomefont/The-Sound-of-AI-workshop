@@ -1,0 +1,51 @@
+X:1
+T:It Ain't What You Do (It's The Way That You Do It)
+T:Tain't What You Do
+C:James Young
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2"Eb7" e2 |"Ab" AAA"Ab/Gb"c- cc c2 |"Db/F" d d2 =d-"E7" d3 d |"Ab6" ee e2"Adim" e2 e2 | %4
+w: When|I was a kid * a- bout|half past three, * my|dad- dy said son come|
+w: ||||
+"Bbm7" d2"E7" =B_B-"Eb7" B3 A |"Ab" e2 A2"Ab7/C" e3 A |"Db" e e2 d-"Bbm7b5" d3 B | %7
+w: here to me * said|swing may come and|swing may go, * but|
+w: |||
+"Ab6" cc"Eb9/Bb" d2"Bdim" =d2"Ab6/C" e2 |"Bbm7" d2"Eb+7" =B"Ab"A- A2 A2 |: %9
+w: this is one thing you|ought to know * Oh|
+w: ||
+"Ab" A A2 A"Ab/Gb" A A2 A |"Db6/F" A A2 A"Eb7" F F3 |"Db" A A2 A"Ab/C" A A2 A | %12
+w: Tain't what you do, it's the|way that cha do it,|tain't what you do it's the|
+w: Tain't what you do, it's the|way that cha do it,|tain't what you say it's the|
+"Bbm7" A A2 A"Eb7" _c B3 |"Ab" A A2 A"Ab/Gb" A A2 A |"Db6/F" A A2 A"Eb7" ce- e2 | %15
+w: way that cha do it,|tain't what you do it's the|way that cha do it, *|
+w: way that cha say it.,|tain't what you say it's the|way that cha say it. *|
+"Ab" e2"Adim" e2"Bbm7" (ed)"Eb7"=B"Ab"A- | A2"Adim" z2"Bbm7""Eb7" z4 |"Ab" A A2 A"Ab/Gb" A A2 A | %18
+w: That's what gets * re- sults.||Tain't what you do it's the|
+w: That's what gets * re- sults.||Tain't what you croon it's the|
+"Db6/F" A A2 A"Eb7" F F3 |"Db" A A2 A"Ab/C" A A2 A |"Bbm7" A A2 A"Eb7" _c B3 | %21
+w: time that cha do it,|tain't what you do it's the|time that cha do it,|
+w: way theat cha croon it,|tain't what you croon it's the|way that cha do it,|
+"Ab" A A2 A"Ab/Gb" A A2 A |"Db6/F" A A2 A"Eb7" ce- e2 |"Ab" e2"Adim" e2"Bbm7" (ed)"Eb7"=B"Ab"A- | %24
+w: tain't what you do it's the|time that cha time it. *|That's what gets * re- sults.|
+w: tain't what you croon it's the|way that cha croon it. *|That's what gets * re- sults.|
+ A2 z2"Ab7" A2 B2 |"Db6" d3 d-"Ebm7" d4 |"Bbm7/F" z e3"Eb11" d"Eb+7" =B2"Ab6" A- | A2 z2 z4 | %28
+w: * You can|try hard *|don't mean a thing||
+w: * If you're|lone- some *|and on the shelf,||
+ z4"Ab7" A2 B2 |"Db6" d3"Ebm7" d- d4 |"Edim""Db6/F" z8 |"Ab" z e2 c"Adim" e2 ce- | %32
+w: Take it|ea- sy *||then your jive will swing.|
+w: It's your|own fault, *||so just blame your- self.|
+"Eb7""E9""Eb9" e8 |"Ab" A A2 A"Ab/Gb" A A2 A |"Db6/F" A A2 A"Eb7" F F3 |"Db" A A2 A"Ab/C" A A2 A | %36
+w: |Tain't what you do it's the|place that cha do it.|Tain't what you do it's the|
+w: |Tain't what you say it's the|place that cha say it.|Tain't what you croon it's the|
+"Bbm7" A A2 A"Eb7" _c B3 |"Ab" A A2 A"Ab/Gb" A A2 A |"Db/F" A A2 A"Eb7" ce- e2 | %39
+w: time that cha do it.|Tain't what you do it's the|way that cha do it. *|
+w: time that cha croon it,|Taint what you do it's the|way that cha do it. *|
+"Ab" e2"Adim" e2"Bbm7" (ed)"Eb7"=B"Ab6"A- |1 A z"Adim" z2"Bbm7""Eb7" z4 :|2 A"Eb7" z z2"Ab" z4 |] %42
+w: That's what gets * re sults.|||
+w: That's what gets * re- sults.-|||
+

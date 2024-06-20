@@ -1,0 +1,26 @@
+X:1
+T:If I Love Again
+T:If I Love Again
+C:Ben Oakland
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" A B A F |"C7" C4 |"F" F C F d |"C7" c4 |"F7" A B"D7" A ^F |"Gm7" G4 |"Gdim7" G A G E | %7
+w: If I love a-|gain,|Tho' it's some- one|new,|If I love a-|gain,|It will still be|
+"F" F4 |"Dm" z D F A |"Gm" d d"Bb" f f |"Dm" B4- |"F""Bb7""G7" B4 |"Cm" z C _E G | %13
+w: you.|In some- one|els- e's fond em-|brace,|_|Il close my|
+"F7" c c"Abm" _e"B7" e |"C""Bb" c4- |"Am""C+7" c4 |"F" A B A F |"C7" C4 |"F" F C F d |"C7" c4 | %20
+w: eyes but see your|face.|_|If I love a-|gain,|I'll find oth- ers|charms;|
+"F7" A B"D7" A ^F |"Gm7" G4 |"Gdim7" G A G E |"F" F4 |"Dm" z D F A |"Dm7" d2 (3d d d |"Dm6" f4 | %27
+w: But I'll make be-|lieve,|You are in my|arms.|And tho' my|lips whisp- er, "I|love|
+"Bbm" F3 G |"F" A"Bb" B"F" A F |"C7" C4 |"F7" A B A B |"D7" c4 |"Bbm" B c B c | %33
+w: you," My|heart will not be|true.|I'll be lov- ing|you,|Ev- 'ry- time I|
+"Gdim" _d2"Ebm" _e2 |1"F" f4- | f2 z2 :|2 f4- | f3 z |] %38
+w: love a-|gain.|_|gain.|_|
+

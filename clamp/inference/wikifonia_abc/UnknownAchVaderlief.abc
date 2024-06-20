@@ -1,0 +1,43 @@
+X:1
+T:Ach Vaderlief
+T: Laukens Music Productions  
+T:Wals
+T:Arr. H. Laukens
+T:ACH VADERLIEF
+T:2
+T:ACH VADERLIEF blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=230
+M:3/4
+K:C
+V:1 treble nm="mel"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ e |"D7" e d c | A B c |"G7" d z GS ||"C" e2 ^d | e3- | e z f | e2 _e |"G7" d3- | d z G | d2 ^c | %11
+ d3- | d z e |"C" d c A | G3- | G z G | e2 ^d | e3- | e z g |"C7" g2 _g |"F" f3- | f z f | %22
+"Fm" e2 ^d |"C" e3- | e z c |"D7" d3- |"G7" d zO c ||"C" c3- | c z e |"D7" e d c | A B c | %31
+"G7" B c _d | d z G ||"C" G A B | c d ^d | e3- | e z G | G A B |"Cdim" d c B |"G7" B3- | B z G | %41
+ G B c | d d e | f3- | f z G | G B d | g d ^d |"C" e3- | e z G | G A B | c d ^d | e3- | e z e | %53
+"C7" g g g | g f e |"F" A3- | A z A | A B c |"Fm" d c d |"C" e3- | e z e |"D7" e d c | A B c | %63
+"G7" d z GS ||O"C" c/G/ A/B/ c/d/ | e/d/ c/B/ c/e/ |"G7" g z G |:"C" e2 ^d | e3- | e z f | e2 _e | %71
+"G7" d3- | d z G | d2 ^c | d3- | d z e |"C" d c A | G3- | G z G | e2 ^d | e3- | e z g |"C7" g2 _g | %83
+"F" f3- | f z f |"Fm" e2 ^d |"C" e3- | e z c |"D7" d3- |"G7" d z c |"C" G/^F/ G/A/ B/d/ | %91
+"Fm" c/B/ c/d/ e/f/ |"C" g3- | [Gceg] z z |] %94
+V:2
+ x | x3 | x3 | x3 || x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 || x3 | x3 | x3 |: x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | z e- [ce]- | x3 |] %94
+

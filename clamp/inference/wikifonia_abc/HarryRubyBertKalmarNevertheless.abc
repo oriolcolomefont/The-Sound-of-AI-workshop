@@ -1,0 +1,30 @@
+X:1
+T:Nevertheless
+T:Nevertheless
+C:Harry Ruby
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" B>BB>A- A3 G |"Dbdim7" B>BB>A- A3 G |"F7" A>AA>G- G3 F |"Dm7b5" _A>AA>G-"G7" G3 F | %4
+w: May- be I'm right, _ or|may- be I'm wrong, _ And|may- be I'm weak _ or|may- be I'm strong: _ But|
+"Cm" G>GG>F-"G7" F>=E _E2 |"C7" D4"F7" C4 |"Bb""Gm7" F8 |"C7""F7" z8 |"Bb" B>BB>A- A3 G | %9
+w: nev- er- the- less _ I'm in|love with|you.||May- be I'll win, _ and|
+"Dbdim7" B>BB>A- A3 G |"F7" A>AA>G- G3 F |"Dm7b5" _A>AA>G-"G7" G3 F |"Cm" G>GG>F-"G7" F>=E _E2 | %13
+w: may- be I'll lose, _ and|may- be I'm in, _ for|cry- ing the blues; _ But|nev- er- the- less _ I'm in|
+"C7" D4"F7" F4 |"Bb""Gm7" B8- | B z A2 B2 =B2 |"Fm7" c>cc>B-"Bb7" B3 _A | %17
+w: love with|you.|_ Some- how I|know at a glance _ the|
+"Fm7" c>cc>B-"Bb7" B>c _A2 |"Eb" G8 | B8 |"Gm7" d>dd>c-"C7" c3 B |"Gm7" d>dd>c-"C7" c>d B2 | %22
+w: ter- ri- ble chan- * ces I'm|tak-|ing:|Fine at the start, _ then|left with a heart _ that is|
+"Cm7" c8 |"F7" F8 |"Bb" B>BB>A- A3 G |"Dbdim7" B>BB>A- A3 G |"F7" A>AA>G- G3 F | %27
+w: break-|ing.|May- be I'll live _ a|life of re- gret _ and|may- be I'll give _ much|
+"Dm7b5" _A>AA>G-"G7" G3 F |"Cm" G>GG>F-"G7" F>=E _E2 |"C7" D4"F7" F4 |1"Bb""Gm7" B8- | %31
+w: more than I'll get~~ _ But|nev- er- the- less _ I'm in|love with|you.|
+"Ebm" B2"F7" z4 z2 :|2"Bb""C7""F+" B8- |"Bb" B2 z4 z2 |] %34
+w: _|you.|_|
+

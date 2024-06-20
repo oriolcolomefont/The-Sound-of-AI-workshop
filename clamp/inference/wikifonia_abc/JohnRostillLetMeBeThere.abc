@@ -1,0 +1,41 @@
+X:1
+T:Let Me Be There
+T:Let Me Be There
+T:John Rostill
+C:John Rostill
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G2 GA c2 ||"C" e2 c2 e d2 c- | c2 GG AcEC- | C4 G^F=F^D | E3"^Verse 1" G, G,A,CE- || %5
+w: ||||* Wher- ev- er you go|
+"C" E2 C2 G,A,CA, | z3 C DEDC |"F" D2 C2- CF,A,G,- |"C" G,4 G,A,CE- | E2 C2 G,A,CA, | %10
+w: |wher- ev- er you may|wan- der * in your life|* sure- ly you know||
+ C2 z G, EEFE |"G" E2 D2 B,B,A,G,- | G,4 G,A,CE- |"C" E2 C2 G,A,CD | E3 C"C7" DEDC | %15
+w: * I'ii al- ways wan- na|be there, * * * *|* hold- ing your hand||* and stand- ing by to|
+"F" D2 C2- CF,A,G,- |"C" G,4 G,A,CE- | E2 C2 G,A,CE |"G7" D3 G, ED"G11"CA, |"C" D2 C2 G^F=F^D | %20
+w: catch you * when you fall|* see- ing you through||* in ev- 'ry- thing you|do. * * * * *|
+ E4 E G2 G- ||S"C" G2"^Chorus" G2 G G2 A- | A2 G2"C7" E D2 C- |"F" C2 C2 CCA,F- | F2 C2 z EGG- | %25
+w: * Let me be|* there in your morn-|* ing, Let me be|* there in your * night.|* * Let me change|
+"C" G2 G2 G G2 A- | A2 G2 z EFE |"D7" ED-"D7b5" D6 |"G7" z4 E G2 G- |"C" G2 G2 G G2 A- | %30
+w: * what- ev- er's wrong|* * and make it|right * *|Let me take|* you through that won-|
+ A G2 E-"C7" EDCC- |"F" C2 C2 CCA,F- | F4 z EGG- |"C" G2 E2 DCA,G,- | G,2"G7" z G, EDCD-!dacoda! || %35
+w: * der- land * * that on-|* ly two can * share|* All I ask|* you- oo * * *|* is let me be there,|
+O"C" D2 C2 AGEG | C2 G2 GA c2 ||"C" e2 c2 e d2 c- | c2 GG AcEC- | C4 G^F=F^D | %40
+w: |||||
+"F" E4"^Verse 2" G,A,CE- ||"C" E2 C2 G,A,CA, | C3 C DEDC |"F" D2 C2- CF,A,G,- |"C" G,4 G,A,CE | %45
+w: * Watch- ing you grow||* and go- ing thru' the|chang- es * in your life|* that's how I know|
+ E2 C2 G,A,CA, | C2 z G, EEFE |"G" E2 D2 B,B,A,G,- | G,3 G, G,A,CE- |"C" E2 C2 G,A,CD | %50
+w: |* I'll al- ways wan- na|be there, * * * *|* when- ev- er you feel||
+ E2 E(E"C7" E)DDC |"F" D2 C2 C2 A,G,- |"C" G,3 G, G,A,CE- | E2 C2 G,A,CE |"G7" D3 G, ED"G11"CD- | %55
+w: * you need * a friend to|lean on here I am|* When- ev- er you call||* you know I'll be there|
+"C" D2 C2 G^F=F^D | E4 E G2 G!D.S.! ||O"C" D2"^Coda" C2 AECD- |"F" D2 C2 F G2 G- |"C" G2 E2 DCAG- | %60
+w: |* Let me be||* * All I ask|* yoo- oo * * *|
+"G7" G3 G, EGED- |"C" D2 C2 G^F=F^D | E8 |] %63
+w: * Is let me be there.-|||
+

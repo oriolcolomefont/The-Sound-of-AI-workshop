@@ -1,0 +1,25 @@
+X:1
+T:Oh My Pa-Pa
+T:Oh! my Papa
+T:unknown
+C:Paul Burkhard
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"G" G2 G"Am7" G |"G" G3 G | B A B G |"D7" F A c2 | F2 F E | D3 E | F G A F |"G" G2-"Am7" G z | %8
+w: Oh my Pa-|pa to|me he was so|won- der- ful,|Oh my Pa-|pa to|me he was so|good *|
+"G" G2 G"Am7" G |"G" G3 G | B A B G | F A c2 |"D7" F2 F E |"Am7" D3"D7" E | F G A B |"G" G4 | %16
+w: no one could|be so|gen- tle and so|lov- a- ble|oh my Pa-|pa he|al- ways un- der-|stood|
+ B2 B B | B3 B | B d c B |"D" A"D" F D2 |"G" B2 B B | B3 B |"F7" ^A A B ^c |"Bm" B2"D7" =A2 | %24
+w: gone are the|days when|he would take me|on his knee|and with a|smile he'd|change my tears to|laugh- ter|
+"G" G2 G"Am7" G |"G" G3 G | B A B G |"D7" F A c2 | F2 F E | D3 E | F G A F |"G" G2-"Am7" G z | %32
+w: oh, my Pa-|pa so|fun- ny so a-|dor- a- ble|al- ways the|clown so|fun- ny in his|way *|
+"G" G2 G"Am7" G |"G" G3 G | B A B G |"D7" F A c2 | F2 F E |"Am7" D3"D7" E | F G A B |1"G" G4 :|2 %40
+w: Oh my Pa-|pa to|me he was so|won- der- ful|deep in my|heart I|miss him so to-|day|
+"G" B4- || B B B B |"C" c4- | c c c c |"Am7" d4- | d d"D7" d d |"G" d4- | d2- d z |] %48
+w: day|* oh my Pa-|pa|* oh my Pa-|pa|* oh my Pa-|pa||
+

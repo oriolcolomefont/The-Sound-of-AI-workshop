@@ -1,0 +1,23 @@
+X:1
+T:Menjetek be kapuin
+T: 
+C:Unknown
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:3/4
+K:Amin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" E/>E/ E E | E/E/ E z |"G" D E F |"Am" E2 E |"Am" c B A |"G" G/ G3/2 G | G3/2 A/ B |1 %7
+w: Men- je- tek be|ka- pu- in|há- la- a-|dás- sal,|tor- ná- ca-|in át di-|csé- re- tek-|
+"Am" A2 z :|2"Am" A2 E |:"Am" c3/2 B/ A |"G" G/ G3/2 G | G/ A3/2 z/ B/ |"Am" A E E | c B A | %14
+w: kel!|kel! Mert|jó az Úr,|ö- rök- ké|va- ló ke-|gyel- me, és|hû- sé- ge|
+"G" G3/2 G/ G | G3/2 A/ B |1"Am" A2 E :|2"Am" A3- || A z z |"Am""^Felsõ szólam" z z c |: %20
+w: meg- ma- rad|mind- ö- rök-|re, Mert|re.|_||
+"Am" e3/2 d/ c |"G" d/ d3/2 d | d/ c3/2 z/ d/ |"Am" c A A | c B A |"G" d3/2 d/ d | d3/2 c/ d |1 %27
+w: |||||||
+"Am" e2 c :|2"Am" e3 || e z z |] %30
+w: |||
+

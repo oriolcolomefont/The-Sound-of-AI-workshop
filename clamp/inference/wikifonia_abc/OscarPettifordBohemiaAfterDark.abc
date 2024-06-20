@@ -1,0 +1,27 @@
+X:1
+T:Bohemia After Dark
+T:Bohemia After Dark
+C:Oscar Pettiford
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Am6" z ^G,A,B, CEAc |"Bm7b5" e d3-"E7b9" d4 |"Am6" z ^G,A,B, CEAc |"Bm7b5" _edcA"E7b9" dc A2 | %4
+w: ||||
+w: ||||
+"Am6" z ^G,A,B, CEAc |"Bm7b5" e d3-"E7b9" d2 z A |"Am6" ^dea_e =dcAc |"Bm7b5" d2 cA-"E7b9" A4 :| %8
+w: ||||
+w: ||||
+"Am6" A4 z AcA |"Am9" dAcA dc A2- |"Am9" A4 z cec | cAdA eA G2- | G4 z AdA | cAde dA e2- | %14
+w: ||||||
+w: ||||||
+"Am6" e4 z dAd | eAdG EA B2- |"F7""E7b9" B8 |"Am6" z ^G,A,B, CEAc |"Bm7b5" e d3-"E7b9" d2 z A | %19
+w: |||||
+w: |||||
+"Am6" ^dea_e =dcAc |1"Bm7b5" d2 cA-"E7b9" A4!D.C.! :|2"Bm7b5" d2 cA-"E7b9" A4!fine!!fine! |] %22
+w: |||
+w: |||
+

@@ -1,0 +1,38 @@
+X:1
+T:Bell Bottom Trousers
+T:Bell Bottom Trousers
+C:Moe Jaffe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A A F F | C C A2 |"C7" A G G"Ebm6" ^F |"C7" G4 | G G E E | C C G2 |"F" G F F"C7" E |"F" F4 | %8
+w: 1.Once there was a|lit- tle girl,|who lived next to|me,|And she loved a|sai- lor boy,|he was on- ly|three.|
+w: 2.When they walk a-|long the street,|an- y- one can|see,|They are oh so|much in love,|hap- py as can|be.|
+w: 3.When her sail- or|boy's a- way,|on the oc- ean|blue,|Sol- dier boys all|flirt with her,|but to him she's|true|
+w: 4~~.Ev- 'ry- where her|sail- or went,|she was sure to|go,|Till one day he|sailed a- way,|where she does- n't|know.|
+w: 5~~~.If her sail- or|she can't find,|on the bount- y|main,|She is hope- ful|he will soon|come home safe a-|gain.|
+ A A F F | C C A2 |"C7" A G G"Ebm6" ^F |"C7" G4 | G G E E | C C G- G |"F" G F F"C7" E |"F" F2 z2 || %16
+w: Now he's on a|bat- tle- ship|ain his sail- or|suit.|Just a great big|sail- or man *|but he's just as|cute.|
+w: Hand in hand they|stroll a- long,|they don't give a|hoot;|He wont let go|of her hand, *|ev- en to sa-|lute.|
+w: Tho' they smile and|tip their hats,|and they wink their|eyes,|She just smiles and|shakes her head, *|then she soft- ly|sighs.|
+w: Now she's gon- na|join the Waves,|may- be go to|sea,|Try to find her|sail- or boy where-|ev- er he may|be.|
+w: So they can get|mar- ried, and|raise a fam- i-|ly.|Dress up all their|kid- dies in *|sail- or's dun- ga-|rees.|
+"F""^CHORUS" A2 F F | C2 A2 |"C7" A G G ^F | G4 | G2 E E | C2 G2 |"F" G F F"C7" E |1"F" F2 z2 :|2 %24
+w: Bell bot- tom|trou- sers,|coat of na- vy|blue,|She love her|sail- or|and he loves her|too.|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"F" F3 z |] %25
+w: too.|
+w: |
+w: |
+w: |
+w: |
+

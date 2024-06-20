@@ -1,0 +1,71 @@
+X:1
+T:Ain't Misbehavin' (Expanded Version)
+C:Fats Waller, Harry Brooks
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"Eb " E"Cmin"FEB"Eb " B3 z |"Dm7b5" FGFc- c3 z |"Eb " z B"Gmin" cB e e2 d |"Abmaj7" fecG- G_G F2 | %4
+w: ||||
+"Eb " EF"Gbmaj7"EB B3 z |"Ddim" z F"Gsus47" GF"Bb7" c c2 B |"Eb7" e2 z2"Gmin""Abmaj7" z4 | %7
+w: |||
+"Dmin""Ebmaj7" z8"_BOY:" | G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | %12
+w: |/Tho- ~it's- ~a- ~fick- le-|~age,-|/with- ~flirt- ing- ~all- ~the-|~rage,-|
+ G B2 G =B2 G2 |"C7" d c2 G- G4 |"F7" G c2"Gmin" G c2 c2 |"Cmin" c8 |"Eb " G B2 G"B7" =B2 B2 | %17
+w: /Here- ~is- ~one- ~bird- ~with-|~self~ con- trol;- *|/Hap- py- ~in- side- ~my-|~cage.-|/I- ~know- ~who- ~I- ~love-|
+"E ""Eb7" =B8 | G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | B e2 B"Cmin" e2"Eb " e2 |"Cmin" e c2 c- c4 | %22
+w: ~best,-|/Thumbs- ~down- ~on- ~all- ~the-|~rest,-|/My- ~love- ~was- ~giv- en,-|~heart- ~and- ~soul;- *|
+"Gmaj7" d =B2 G"Cmaj7" =E2 B2 | G4"Dm7b5" z4 |"Eb " z E"Abmaj7" FE B B3 | %25
+w: /So- ~it- ~can- ~stand- ~the-|~test-|\No- ~one- ~to- ~talk- ~with,-|
+"Dm7b5" z F"Gsus47" GF"Cmin" c4 | z B cB"G7" e e2 d |"Abmaj7" fecG- G_G F2 | %28
+w: ~all- ~by- ~my- self,-|/No- ~one- ~to- ~walk- ~with,- /But-|~I'm- ~hap- py- ~on- * ~the- ~shelf.-|
+"Eb " z E"Gbmaj7" FE B B3 |"Ddim" z F"Gsus47" GF"Bb7" c c2 B |"Eb7""Cmin" G8- |"Ebmaj7" G8 | %32
+w: /Ain't- ~mis- be- hav- in'-|/I'm- ~sav- in'- ~my- ~love- ~for-|~you.-||
+ z E"Bb " FE B"Eb " B3 |"Dm7b5" z F"Gsus47" GF"Cmin" c4 | z B cB"G7" e e2 d | %35
+w: /I- ~know- ~for- ~cer- tain,-|~the- ~one- ~I- ~love,-|/I'm- ~thru- ~with- ~flir- tin',- /It's-|
+"Abmaj7" fecG- G_G F2 |"Eb " z E"Gbmaj7" FE B B3 |"Ddim" z F"Gsus47" GF"Bb7" c c2 B | %38
+w: ~just- ~you- ~I'm- ~think- * in'- ~of.-|/Ain't- ~mis- be- hav- in'-|/I'm- ~sav- in'- ~my- ~love- ~for-|
+"Eb ""Abmaj7" E8 |"Eb7""Gmin" z8 |"Cmin" z2 ec e c3 |"Ab7" z2 ec e c3 |"F7" z2 ec e c3 | %43
+w: ~you.-||/Like- ~Jack- ~Hor- ner,-|/In- ~the- ~cor- ner,-|/Don't- ~go- ~no- where,-|
+"C7" z2 =ec e c3 |"F " z2 f2 f2"Bb7" f2 |"F7" f2 e2"C7" d2 c2 | B4"Fmin" c4 | G4"Bb " F4 | %48
+w: /What- ~do- ~I- ~care,-|/Your- ~kiss- es-|~are- ~worth- ~wait- in'-|~for,- /Be-|lieve- ~me.-|
+"Eb " z E"Abmaj7" FE B B3 |"Dm7b5" z F"Gsus47" GF"Cmin" c4 | z B cB"G7" e e2 d | %51
+w: /I- ~don't- ~stay- ~out- ~late,-|/Don't- ~care- ~to- ~go,-|/I'm- ~home- ~a- bout- ~eight,- /Just-|
+"Abmaj7" fecG- G_G F2 |"Eb " z E"Gbmaj7" FE B B3 |"Ddim" z F"Gsus47" GF"Bb7" c c2 B | %54
+w: ~me- ~and- ~my- ~ra- * di- o.-|/Ain't- ~mis- be- hav- in'-|/I'm- ~sav- in'- ~my- ~love- ~for-|
+"Eb ""Amin" e8 |"Bbmaj7" z8 |"Eb " EF"Cmin"EB"Eb " B3 z |"Dm7b5" FGFc- c3 z | %58
+w: ~you-||||
+"Eb " z B"Gmin" cB e e2 d |"Abmaj7" fecG- G_G F2 |"Eb " EF"Gbmaj7"EB B3 z | %61
+w: |||
+"Ddim" z F"Gsus47" GF"Bb7" c c2 B |"Eb7" e2 z2"Gmin""Abmaj7" z4 |"Dmin""Ebmaj7" z8"_GIRL:" | %64
+w: |||
+ G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | G B2 G =B2 G2 | %69
+w: /Your- ~type- ~of- ~man- ~is-|~rare,-|/I- ~know- ~you- ~real- ly-|~care,-|/That's- ~why- ~my- ~cons- cience-|
+"C7" d c2 G- G4 |"F7" G c2"Gmin" G c2 c2 |"Cmin" c8 |"Eb " G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | %74
+w: ~ne- ver- ~sleeps;- *|/When- ~you're- ~a- way- ~some-|where,-|/Sure- ~was- ~a- ~luck- y\-|~day,-|
+ G B2 G"B7" =B2 B2 |"E ""Eb7" =B8 | B e2 B"Cmin" e2"Eb " e2 |"Cmin" e c2 c- c4 | %78
+w: /When- ~fate- ~sent- ~you- ~my-|~way,-|/And- ~made- ~you- ~mine- ~a-|lone- ~for- ~keeps,- *|
+"Gmaj7" d =B2 G"Cmaj7" =E2 B2 | G4"Dm7b5" z4 |"Eb " z E"Abmaj7" FE B B3 | %81
+w: /Dit- to- ~to- ~all- ~you-|~say.-|\No- ~one- ~to- ~talk- ~with,-|
+"Dm7b5" z F"Gsus47" GF"Cmin" c4 | z B cB"G7" e e2 d |"Abmaj7" fecG- G_G F2 | %84
+w: ~all- ~by- ~my- self,-|/No- ~one- ~to- ~walk- ~with,- /But-|~I'm- ~hap- py- ~on- * ~the- ~shelf.-|
+"Eb " z E"Gbmaj7" FE B B3 |"Ddim" z F"Gsus47" GF"Bb7" c c2 B |"Eb7""Cmin" G8- |"Ebmaj7" G8 | %88
+w: /Ain't- ~mis- be- hav- in'-|/I'm- ~sav- in'- ~my- ~love- ~for-|~you.-||
+ z E"Bb " FE B"Eb " B3 |"Dm7b5" z F"Gsus47" GF"Cmin" c4 | z B cB"G7" e e2 d | %91
+w: /I- ~know- ~for- ~cer- tain,-|~the- ~one- ~I- ~love,-|/I'm- ~thru- ~with- ~flir- tin',- /It's-|
+"Abmaj7" fecG- G_G F2 |"Eb " z E"Gbmaj7" FE B B3 |"Ddim" z F"Gsus47" GF"Bb7" c c2 B | %94
+w: ~just- ~you- ~I'm- ~think- * in'- ~of.-|/Ain't- ~mis- be- hav- in'-|/I'm- ~sav- in'- ~my- ~love- ~for-|
+"Eb ""Abmaj7" E8 |"Eb7""Gmin" z8 |"Cmin" z2 ec e c3 |"Ab7" z2 ec e c3 |"F7" z2 ec e c3 | %99
+w: ~you.-||/Like- ~Jack- ~Hor- ner,-|/In- ~the- ~cor- ner,-|/Don't- ~go- ~no- where,-|
+"C7" z2 =ec e c3 |"F " z2 f2 f2"Bb7" f2 |"F7" f2 e2"C7" d2 c2 | B4"Fmin" c4 | G4"Bb " F4 | %104
+w: /What- ~do- ~I- ~care,-|/Your- ~kiss- es-|~are- ~worth- ~wait- in'-|~for,- /Be-|lieve- ~me.-|
+"Eb " z E"Ebmaj7" FE B"Eb " B3 |"Dm7b5" z F GF c4 |"Eb " z B"Gmin" cB e e2 d | %107
+w: /I- ~don't- ~stay- ~out- ~late,-|/Don't- ~care- ~to- ~go,-|/I'm- ~home- ~a- bout- ~eight,- /Just-|
+"Abmaj7" fecG- G"Ebmin"_G F2 | z E FE"Gb7" B B3 |"Ddim" z"Gsus47" F GF"Bb7" c c2 B | %110
+w: ~me- ~and- ~my- ~ra- * di- o.-|/Ain't- ~mis- be- hav- in'-|/I'm- ~sav- in'- ~my- ~love- ~for-|
+"Ebmin""Bb7" e8- |"Eb " e8 |] %112
+w: ~you-||
+

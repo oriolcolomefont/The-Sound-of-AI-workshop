@@ -1,0 +1,14 @@
+X:1
+T:Erdő, erdő, de magos a teteje
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ FD FG | Ac AG | F D3 | D2 z2!fine! |: d2 c2 | A2 G2 | cc dd |1 c A3 | A2 z2 :|2 c A3 | G4!D.C.! |] %11
+w: Er- dő, er- dő,|de ma- gos a|te- te-|je,|Jaj, de|ré- gen|le- hul- lott a|le- ve-|le,|le- ve-|le,|
+w: Ár- va ma- dár|pár- ját ke- re-|si ben-|ne.||||||||
+

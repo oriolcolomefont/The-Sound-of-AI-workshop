@@ -1,0 +1,50 @@
+X:1
+T:Walking Happy
+T:Walking Happy
+T:Jimmy Van Heusen
+T:Sammy Cahn
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ z/"D7" G A/"D+9" _B"D7b9" =B |:"G" B2 D D- | D/ ^C D/ E D |"B9" ^D2 A2- | A/ F G/"Bdim" ^G"B7" A | %5
+w: There's the kind of|walk you walk|* when the world's un-|done you.|* There's the kind of|
+w: |walk you walk|* when you feel like|crow- ing.|* There's the kind of|
+"Em9" A2 B,"Em" B,- | B,/ ^A, B,/"Am" C"Em" B, |"A9" F4 | z/"Adim" ^D E/ F"A7" G | %9
+w: walk you walk|* when you're walk- ing|proud.|There's the kind of|
+w: walk you walk|* when you're on your|way.|There's the kind of|
+"Am7" A2"E7" E"Am" E- | E/ ^D E/"Adim" F"Am7" G |"Bbdim" G3/2 E/- E2 | %12
+w: walk you walk|* when the neigh- bors|shun you. *|
+w: walk you walk|* when your pride is|show- ing. *|
+"Adim/E" z/ ^D E/"B/C#" F"Em/C#" G |"G/B" G2"Am/C" E"Em/C#" E- | E/ G A/"A7sus4" B"A7" G | %15
+w: There's the kind of|walk you walk|* sets you 'bove the|
+w: There's the kind of|walk you walk|* when to- day's your|
+"D11" c4 |"D9" z/ B c/"A7b9" ^c"D" d |"Dm7" d2"Am" A"Dm7" A- | A/ ^G A/"G" B"G+7" A | %19
+w: crowd.|There's the kind of|walk you walk|* when some- bod- y|
+w: day.|There's the kind of|walk you walk|* when the world's all|
+"C6" c3/2 G/- G2 | z2 z/ c3/2 |"Am/F#" c B"B+" B"B7" A |"Em" A G"A9" G F |"Am7/D" E4- |1 %24
+w: loves you. *|That's|ve- ry much like|walk- ing on a|cloud.|
+w: rain- bows, *|and|your heart's hop- pin'|like a pop- in-|jay.|
+"D9" E D"Gdim" E"D7" F |"G" G2"F#dim/G" A2 |"G7" B d3 |"C" z/ d c/ B A | %28
+w: * Good for- tune|found you|chap- pie,|and your life's a|
+w: ||||
+"Ab7/C" _A"Cdim" =A"C" B c |"Bm11" e4- |"E7" e/ B c/"E7b9" ^c d |"Am7" d3/2"Em7/A" E/ E2 | %32
+w: hap- py va- len-|tine.|* When you're walk- ing|ha- p- py|
+w: ||||
+"Am7" d/>E/E/>E/"C#/D" ^E"D7" F |"G""Eb9""D9" G4 | z/ G A/ _B =B :|2"D9" z3/4 ^A/<B/d/4 B =A || %36
+w: Don't the bloom- in' world seem|fine?|There's the kind of|So you had best be-|
+w: ||||
+"G" G A B/ d3/2 |"G/F#" z3/4 ^A/<B/d/4 B =A |"C/E" G A B/ d3/2 |"Cm/Eb" z3/4 ^A/<B/d/4 B =A | %40
+w: lieve it chap- pie|You'll find that life is|fin- ger snap- py|The day you learn that|
+w: ||||
+"G/D" G A B/ d3/2 |"B7b9/E" z/ c B/"Em" A G |"A9" F4 | F z z E |"Am7" G E B G | %45
+w: walk- ing hap- py|Gives the world a|shine.|* So|just keep walk- ing|
+w: |||||
+ d/>B/G/>E/"Ab6" =F"Ab7" ^F |"G" G4- | G2- G z |] %48
+w: hap- py with your hand in|mine.||
+w: |||
+

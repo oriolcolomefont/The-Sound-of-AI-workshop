@@ -1,0 +1,24 @@
+X:1
+T:My World (Il Mondo)
+T:My World (Il Mondo)
+C:Jimmy Fontana
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" DEEF FEE>D |"Gm" DEEF FE- (3EED |"Eb" EFFG GF- (3FFE | EFFG GFF>E |"F" FGGA AG- (3GGF | %5
+w: Stay be- side me, stay be- side me|Say you'll nev- er leave me. _ How I|love you, how I love you _ how I|need you, Please be- lieve me In your|arms I found my heav- en, _ And your|
+"F7" FGGA A2 c2 |"Bb" d3 F- F4 | z Fed dccB |"Gm" B3 D- D3 z | z ccB BAAG |"Eb" G3 B,- B,4 | %11
+w: lips have done their part Il|Mon do _|Your love is all I need in|my world. _|Let ten- der kiss- es plead in|my world. _|
+ z GGF FEED |"Cm" D4"F7" C4 | z4 c4 |"Bb" d3 F- F3 z | z Fed dccB |"Gm" B3 D- D4 | z ccB BAAG | %18
+w: How could I ev- er live with-|out you.|Il|Mon do _|My heart be- longs to you so|take it. _|And pro- mise me you'll nev- er|
+"Eb" GE- E4 EG |"F7" A3 z AB c2 |1"Bb" B8- | B4 z2 z2 :|2"Bb" B8- | B4"F7" A4 || B2 c2"Bb" B4- | %25
+w: break it. _ Say you'll|stay here in my|arms.||arms.|_ here|in my arms.|
+ B8 |] %26
+w: _|
+

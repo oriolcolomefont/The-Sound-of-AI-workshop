@@ -1,0 +1,72 @@
+X:1
+T:I'm gonna be (500 Miles)
+C:The Proclaimers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Intro""E" z8 | z8 | z8 | z4 z2 G<A |:"^Verse""E" B c3 z2 GA | BB B/cB/- BA G<A | %6
+w: |||When I|wake up well I|know I'm gon- na be _ I'm gon- na|
+w: ||||wor- king yes I|know I'm gon- na be _ I'm gon- na|
+"A" BB/B/- Bc"B" BGFE |"E" G2 z2 z G G<A |"E" B c3 z2 GA | BB B/cB/- BA G<A | %10
+w: be the man _ who wakes up next to|you. * When I|go out yeah I|know I'm gon- na be _ I'm gon- na|
+w: be the man _ who's work- ing hard for|you. And when the|mo- ney comes in|for the work I do _ I'll _ pass|
+"A" BB/B/- Bc"B" BGFE |"E" E2 z2 z2 G<A |"E" B c3 z2 GA | BB B/cB/- BA G<A |"A" BB/B/- Bc"B" BGFE | %15
+w: be the man _ who goes a- long with|you. When I|get drunk yes I|know I'm gon- na be _ I'm gon- na|be the man _ who gets drunk next to|
+w: al- most _ ev'- ry pen- ny on to|you. When I|come home yeah I|know I'm gon- na be _ I'm gon- na|be the man _ who comes back home to|
+"E" G2 z2 z G G<A |"E" B c3 z2 GA | BB B/cB/- BA G<A |"A" BB/B/- Bc"B" BF/F/- FE | %19
+w: you. And if I|ha- ver yeah I|know I'm gon- na be _ I'm gon- na|be the man _ who's ha- ve- ring _ to|
+w: you. And if I|grow old well I|know I'm gon- na be _ I'm gon- na|be the man _ who's grow- ing old _ with|
+"E" E2 z2 z2 z B ||"^Chorus""E" g2 B2 B2 B2 | B2 B2 B2 B(B |"A" a2) B2 B2 A2 |"B" G2 F2 F2 BB | %24
+w: you. But|I would walk five|hund- red miles and I|_ would walk five|hund- red more just to|
+w: you. *|||||
+"E" g2 B2 B2 B2 | B2 B2 B2 B2 |"A" a2 B2 B2 A2 |1"B" G2 F2 F2 G<A :|2"B" G2 F2 F2 gg/g/- | %29
+w: be the man who|walked one thou- sand|miles to fall down|at your door When I'm|at your door Pa- da- da-|
+w: |||||
+"E" ge z2 z2 gg/g/- || ge z2 z G/G/ GG/G/ |"A" AA/A/ AA/A/"B" BB/B/ BA |"E" G2 z2 z2 gg/g/- | %33
+w: _ da Pa- da- da-|_ da da- da- dam- da- da-|dam da- da- dam- da- da- dam da- da- dam da|da Pa- da- da-|
+w: ||||
+"E" ge z2 z2 gg/g/- | ge z2 z G/G/ GG/G/ |"A" AA/A/ AA/A/"B" FF/F/ FE |"E" E2 z2 z4 | z8 | %38
+w: _ da Pa- da- da-|_ da da- da- dam- da- da-|dam da- da- dam- da- da- dam da- da- dam da|da||
+w: |||||
+ z4 z2 GA ||"^Verse""E" B c3 z2 GA | BB B/cB/- BG G<A |"A" BB/B/- Bc"B" BGFE |"E" G2 z2 z2 G<A | %43
+w: When I'm|lone- ly yes I|know I'm gon- na be _ I'm gon- na|be the man * who's lone- ly with- out|you When I'm|
+w: |||||
+"E" B c3 z2 GA | BB B/cB/- BG G<A |"A" BB/B/- Bc"B" BGFE |"E" E2 z2 z2 c<B |"E" B G3 z2 cB | %48
+w: dream- ing Well I|know I'm gon- na dream * I'm gon- na|dream a- bout _ the time when I'm with|you. When I|go out Well I|
+w: |||||
+ BB B/cB/- BA G<A |"A" AA/A/- AA"B" BBBA |"E" G2 z2 z G G<A |"E" B c3 z2 GA | BB B/cB/- BG G<A | %53
+w: know I'm gon- na be _ I'm gon- na|be the man * who goes a- long with|you And when I|come home yeah I|know I'm gon- na be _ I'm gon- na|
+w: |||||
+"A" BB/B/- Bc"B" BGFE |"C#m" G2 z2 z G GA |"F#m" BB/B/- Bc"B" B/G!fermata!F/- FE |"E" E2 z2 z4 | %57
+w: be the man _ who comes back home to|you. I'm gon- na|be the man _ who's com- in' home _ to|you.|
+w: ||||
+ z4 z2 z B ||"^Chorus""E" g2 B2 B2 B2 | B2 B2 B2 B(B |"A" a2) B2 B2 A2 |"B" G2 F2 F2 BB | %62
+w: But|I would walk five|hund- red miles and I|_ would walk five|hund- red more just to|
+w: |||||
+"E" g2 B2 B2 B2 | B2 B2 B2 B2 |"A" a2 B2 B2 A2 |"B" G2 F2 F2 gg/g/- ||"E" ge z2 z2 gg/g/- | %67
+w: be the man who|walked one thou- sand|miles to fall down|at your door Pa~Pa da- da-|_ da Pa- da- da-|
+w: |||||
+ ge z2 z G/G/ GG/G/ |"A" AA/A/ AA/A/"B" BB/B/ BA |"E" G2 z2 z2 gg/g/- |"E" ge z2 z2 gg/g/- | %71
+w: _ da da- da- dam- da- da-|dam da- da- dam- da- da- dam da- da- dam da|da Pa- da- da-|_ da Pa- da- da-|
+w: ||||
+ ge z2 z G/G/ GG/G/ |"A" AA/A/ AA/A/"B" FF/F/ FE |"E" E2 z2 z2 gg/g/- |"E" ge z2 z2 gg/g/- | %75
+w: _ da da- da- dam- da- da-|dam da- da- dam- da- da- dam da- da- dam da|da Pa~Pa da- da-|_ da Pa- da- da-|
+w: ||||
+ ge z2 z G/G/ GG/G/ |"A" AA/A/ AA/A/"B" BB/B/ BA |"E" G2 z2 z2 gg/g/- |"E" ge z2 z2 gg/g/- | %79
+w: _ da da- da- dam- da- da-|dam da- da- dam- da- da- dam da- da- dam da|da Pa- da- da-|_ da Pa- da- da-|
+w: ||||
+ ge z2 z G/G/ GG/G/ |"A" AA/A/ AA/A/"B" FF/F/ FE |"E" E2 z2 z2 z B ||"^Chorus""E" g2 B2 B2 B2 | %83
+w: _ da da- da- dam- da- da-|dam da- da- dam- da- da- dam da- da- dam da|da And|I would walk five|
+w: ||||
+ B2 B2 B2 B(B |"A" a2) B2 B2 A2 |"B" G2 F2 F2 BB |"E" g2 B2 B2 B2 | B2 B2 B2 B2 |"A" a2 B2 B2 A2 | %89
+w: hund- red miles and I|_ would walk five|hund- red more just to|be the man who|walked one thou- sand|miles to fall down|
+w: ||||||
+"B" G2 F2 (A2 G2 | !fermata!E8) |] %91
+w: at your door _|_|
+w: ||
+

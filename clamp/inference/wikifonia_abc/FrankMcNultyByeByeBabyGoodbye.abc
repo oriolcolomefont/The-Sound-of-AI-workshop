@@ -1,0 +1,25 @@
+X:1
+T:Bye Bye, Baby, Goodbye
+T:Bye Bye Baby Goodbye
+T:Frank McNulty
+C:Frank McNulty
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" G2 A2 G2 Ac- | c2 AG- GACE- | E8- | E8 |"C" GG A2 GGAc- | c2 AG- GAEG- |"G7" G8- | G4 z4 | %8
+w: Bye bye bye bye bye|* bye ba * by good- bye|_||Got- ta get go- in bye bye|_ bye ba- * by good- bye|_||
+"C" GGAA G2 AA |"C7" c2 AG- G3 D |"F7" _ECDC ECDC |"F7" GF_EC- C4 |"C" G2 A2 G2 AG- | %13
+w: had a lot- ta fun at the|dance to- night _ Ca-|hum a lit- tle clo- ser and I'll|hold _ you tight _|Bye bye bye bye bye|
+"G7" G2 _ED- DCA,C- |"C" C8- | C4 z4 |"G7" B4 B2 dB- | BA G6 | B4 B2 dB- | B8 |"G7" B4 B2 dB | %21
+w: _ bye ba- * by goodbye _|_||I get so lone-|* * ly|when we're a- part|_|I love you on-|
+ BA G2- G2 z G |"D7" A2 z A B2 cd- |"G7" d8 |"C" G2 A2 G2 Ac- | c2 AG- GACE- | E8- | E6 z2 | %28
+w: * * ly _ so|don't you break my heart|_|bye bye bye bye bye|_ bye ba- * by good- bye|_||
+"C" GG A2 GGAc- | c2 AG- GAEG- |"G7" G8- | G4 z4 |"C" GGAA GGAG |"C7" c2 AG- G3 D | %34
+w: Got- ta get go- in bye bye|_ bye ba- * by good- bye|_||See you in the morn- in bout the|break of day _ Ju|
+"F7" _ECDC =ECDC |"F7" GF_EC- C4 |"C" G2 A2 G2 AG- |"G7" G2 _ED- DCA,C- |"C" C8- | C2 z2 z4 :| %40
+w: hust a lit- tle kiss and I'll be|on _ my way _|bye bye bye bye bye|_ bye ba- * by Good- bye|_||
+

@@ -1,0 +1,38 @@
+X:1
+T:Don'cha Go 'Way Mad
+T:Don'cha Go 'Way Mad
+C:Jimmy Munday, Illinois Jacquet
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Ab" z =B,CE G2 EC |"Bbm7" A2 FB,- B,4 |"Cm" z2 (3CEG BGEC |"Dbmaj7" cABc- c2"C" z2 | %4
+w: I must con- fess what you|say is true: _|I had a ren- dez- vous with|some- bod- y new; _|
+w: ~~~~~~~ * * * * *|||~~~~~ * * * *|
+"B6" z A2 E A_cAE |"Bb7" A =D2 A-"Abmaj7" A4 | z A2 _D A_cAD |"Bb7" A A2 A-"Ab" A2 z2 | %8
+w: That's the on- ly one I|ev- er had; _|Ba- by, ba- by don- 'cha|go 'way mad. _|
+w: ||~~~~ * * * * *||
+ z =B,CE G2 EC |"Bbm7" A2 FB,- B,4 |"Cm" z2 (3CEG BGEC |"Dbmaj7" cABc-"C" c2"B6" z2 | %12
+w: Oh, cheat- in' shows and it|nev- er goes, _|You got- ta rea- son to be|mad, I sup- pose; _|
+w: |~~~~~ * * *|||
+ z A2 E A_cAE |"Bb7" A =D2 A- A4 |"Abmaj7" z A2 _D A_cAD |"Bb7" A A2"Ab" A- A2 z2 | %16
+w: But, she on- ly was a|pass- ing fad, _|Ba- by, ba- by don- 'cha|go 'way mad. _|
+w: ~~~~~ * * * * *|||~~~~ * * *|
+"Gm7" c c2 G"C7" c3 B |"Fm" A F3- F4 |"Gm7" ccGc-"C7" c2 BA- |"Fm" A8 |"Fm7" BBA"Bb7"B- B3 A | %21
+w: Her kinds a dime a|doz- en, _|That's not the kind _ I want.|_|Who'd ev- er dream _ your|
+w: ||I should have passed _ her by.|_||
+"Eb" G B3-"Edim" B3 B |"Fm7" ABAB"Bb7" GBce- |"Eb7" e8 |"Ab" z =B,CE G2 EC |"Bbm7" A2 FB,- B,4 | %26
+w: cou- sin _ Would|wan- der in- to that res- tau- rant?|_|I un- der- stand that you|feel up- set, _|
+w: * * * Would|come a- long and give us the eye?|_|||
+"Cm" z2 (3CEG BGEC |"Dbmaj7" cABc-"C" c2"B6" z2 | z A2 E A_cAE |"Bb7" A =D2 A- A4 | %30
+w: What do you say that you for-|give and for- get. _|Come and kiss me just to|show you're glad, _|
+w: ||||
+"Abmaj7" z A2 _D A_cAD |1"B6" A"Bb7" A2 A-"Ab" A2 z2 :|2"B6" A"Bb7" A2 A-"Ab" A2 z2 |] %33
+w: Ba- by, ba- by don- 'cha|go 'way mad. _|go 'way mad. _|
+w: |||
+

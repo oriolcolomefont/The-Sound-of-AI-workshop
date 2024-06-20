@@ -1,0 +1,32 @@
+X:1
+T:LET ME KISS YOU
+C:Whyte
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" z4 z2 cA |"Em" BcAB- B2 A2 |"Dm" c/B/A- A2 cBAA- |"Am" E4 AcBA |"Em" B2- B3/2Bc3/2 B2 | %5
+w: There's a|place in the sun _ for|an y one _ who has the will|_ to chase one and|I _ think I've found|
+"Am" B2- A2 z2 AB |"F" cBAG"G" GA B>B- |"Am" B>A- A2"G9" A-G-F-E- |"C" E2 z2 c2 BB- | %9
+w: mine _ Yes I|do be lieve that I have found mine|_ _ _ Sooo _ _ _|_ Close your eyes|
+"E" B2 z2 z AAB |"Am" cA-Ac"G" dBGF |"F" F-c z2 c2 B2 |"Dm" Ae- e4 ec |"C" G4"G/B" c2 B2 | %14
+w: _ and think of|some one _ you phys ic 'cly ad|mire _ LET ME|KISS YOU _ OH, OH|OH LET ME|
+"Dm" Ae- e4 ec |"C" G4"G/B" z4 |"Am" Ec<Bc/-c/"Em" EB<AB |"F" Fc<Bc/-c/"G" Gc<Bc | %18
+w: KISS YOU _ OH, OH|OH|||
+"Em" Ec<Bc<"Am"Ec<Bc |"F" Fc<Bc/-c/"G" Gc<G-G |"Am" z2 z A cc-cB- |"Em" BB- BB/A/ B/c/B AA/-G/ | %22
+w: ||I've zig zagged _ all|_ ov _ ver Am er i ca and I _|
+"Dm" Fc-cA- A z2 D |"Am" Ec-cA- AG- G2 |"Em" z BAB AB-BB- |"Am" Bc/B/ A/B- B2- B/ AB/c/- | %26
+w: can not _ find _ a|safe ty _ hav _ ven _|SAY, would you let me _ CRY|_ _ _ _ _ _ _ on your shoul|
+"F" cAAG"G" GA B2 |"Am" B>A- A2"G" BA-AG |"C" F-E z2 c2 c2 |"E" B2 z2 z AAB |"Am" cA-Ac"G" dBGF | %31
+w: _ der _ I've heard that you'll|try _ _ an y _ thing|twice _ CLOSE YOUR|EYES and think of|some one _ you phys ic 'cly ad|
+"F" F-c z2 c2 B2 |"Dm" Ae- e4 ec |"C" G4"G/B" c2 B2 |"Dm" Ae- e4 ec |"C" G4"G/B" z4 | %36
+w: mire _ LET ME|KISS YOU _ OH, OH|OH LET ME|KISS YOU _ OH, OH|OH|
+"E" z2 z B"G" Bc- c2 |"C" z2 z G edcd- |"E" d4 z AAB |"Am" cAzc"G" d/cB/- BG- |"F" G<c- c2 c2 A2 | %41
+w: But THEN _ _|you op en your eyes|_ and you see|some one you phy sic cly _ de|_ spise _ but my|
+"Dm" c6 cc- |"C" cG- G2-"G/B" G3 G- |"Dm" G<c- cc BABc |"Am" A4- Ac/B/ A/G/F | E8 |] %46
+w: heart is op|_ en _ _ my|_ heart _ is op en to _|you _ _ _ _ _ _|_|
+

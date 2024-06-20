@@ -1,0 +1,32 @@
+X:1
+T:All of a Sudden My Heart Sings (Key of C)
+T:All of a Sudden My Heart Sings
+C:Laurent Herpin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"E7" z2 (3EEE (3^GGG (3BBB |"Amin" A2 (3ccc cc BA | c4 AB ce |"Emin" B2 (3BBB BB AG | %4
+w: |* The se- cret way you hold my|hand * * * *|* to let me know you un- der-|
+ B4 (3B2 e2 B2 |"F " A2 (3AAA AA GF | A4 d2 BA |"C " G2 (3GGG GG FE |"A7" G4 EF GA | %9
+w: stand, * * *|* the wind and rain u\- pon your|face, * * *|* the breath- less world of your em-|brace, * * * *|
+"Dmin" F2 (3FFF FF- (3FFG |"Fmin" F6 z2 |"C6" z2 (3EEE EE- (3EEF |"A7" E6 z2 | %13
+w: * your lit- tle laugh and * half- sur-|prise,|the star- light gleam- ing * in your|eyes,|
+"D7" z2 (3DDD DD- (3DDE |"G7" D6 z2 |"C " z2 (3CCC CC CC | C4"G7" z4 |"C " z2 (3CCC CC CC | C6 z2 | %19
+w: re- mem b'ring all those * lit- tle|things|all of a sud- den my heart|sings.|All of a sud- den my heart|sings|
+"G7" z2 (3DDD DD DD | D6 z2 |"C " z2 (3EEE EE EE |"C7" E6 z2 |"F " z2 (3FFF FF FF |"Fmin" F6 z2 | %25
+w: when I re- mem- ber lit- tle|things.|The way you dance and hold me|tight,|the way you kiss and say "Good|Night",|
+"C " z2 (3GGG GG GG |"C7" G6 z2 |"F " z2 (3AAA AA AA | A6 z2 |"G7" z2 (3BBB BB BB | B6 z2 | %31
+w: the cra- zy things we'd say and|do,|the fun it is to be with|you,|the ma- gic thrill that's in your|touch,|
+"C " z2 c2 cc- cc | (3ccc c4 z2 |"Amin" z2 (3ccc cc ec | c4 AB ce |"Emin" B2 (3BBB BB AG | %36
+w: oh, dar- ling * I|love you so much!|The se- cret way you hold my|hand, * * * *|* to let me know you un- der-|
+ B4 (3B2 e2 B2 |"F " A2 (3AAA AA GF | A4 d2 BA |"C " G2 (3GGG GG FE |"A7" G4 EF GA | %41
+w: stand, * * *|* the wind and rain u\- pon your|face, * * *|* the breath- less world of your em-|brace, * * * *|
+"Dmin" F2 (3FFF FF FG |"Fmin" F6 z2 |"C6" z2 (3EEE EE EF |"A7" E6 z2 |"D7" z2 (3DDD- D2 DE | %46
+w: * your lit- tle laugh and half- sur-|prise,|the star- light gleam- ing in your|eyes,|re- mem- b'ring * all those|
+"G7" D6 z2 |"F " z2 (3ccc cc- c2 | c4"G7" d4 |"C " c4 cc BA |"Fmaj7" f2- fe"G7" d2 G2 |"C " g8 |] %52
+w: things,|all of a sud- den *|my heart|sings. * * * *|||
+

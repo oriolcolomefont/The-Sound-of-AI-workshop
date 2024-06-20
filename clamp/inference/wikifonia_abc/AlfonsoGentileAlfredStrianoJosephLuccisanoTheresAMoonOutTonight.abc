@@ -1,0 +1,46 @@
+X:1
+T:There's A Moon Out Tonight
+T:There's a Moon Out Tonight
+C:Alfonso Gentile & Alfred Striano, Joseph Luccisano
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Melody 2" snm="Melody 2"
+%%MIDI channel 5
+%%MIDI program 0
+V:1
+ z4"C7" A2 B2 |"F " c A2 F"Dmin" DF (3cAG |"Gmin7" F2(3zDF"C7" (3GAc AB | %3
+w: There's a|moon out to- nig- ht. * * *|* Let's go str- ol- lin'. There's a|
+w: |* * * * * (whoa oh oh|ooh) * * * * * * *|
+"F " c A2 F"Dmin" DF (3cAG |"Gmin7" F2(3zDF"C7" GA c/d/c/B/ |"F " c A2 F"Dmin" DF (3cAG | %6
+w: girl in my he- art, * * *|* whose heart I'- ve stol- len. There's a|moon out to- ni- ght. * * *|
+w: * * * * * (whoa oh oh|ooh) * * * * * * * *|* * * * * (whoa oh oh|
+"Gmin7" F2 FD"C7" (3EGc- ce |"F " c/A/G A/c/A-"Dmin" A4 |"Gmin" z4"C7" z2 AB | %9
+w: * Let's go strol- len through * the|park. * * * * * *|There's a|
+w: ooh) * * * * * * *|||
+"F " c A2 F"Dmin" DF (3cAG |"Gmin7" FF FD"C7" (3EGc- (3cAB |"F " c A2 F"Dmin" DF (3cAG | %12
+w: glow in my he- art. * * *|* I ne- ver felt be- fore. * There's a|girl at my si- de, * * *|
+w: * * * * * (whoa oh oh|ooh) * * * * * * * * *|* * * * * (whoa oh oh|
+"Gmin7" F2(3zDF"C7" (3GAc- (3cAB |"F " c A2 F"Dmin" DF (3cAG |"Gmin7" FF FD"C7" (3EGc- ce | %15
+w: * th- at I a\- dore. * There's a|glow in my he- art. * * *|* I ne- ver felt like this * be-|
+w: ooh) * * * * * * * *|* * * * * (whoa oh oh|ooh) * * * * * * * *|
+"F " c/A/G A/c/A-"Dmin" A4 |"Gmin""C7" z4"F7" z2 F2 |"Bb " dd- d4 (3dcB |"Gmin7" B6 gf | %19
+w: fore. * * * * * *|Oh|dar- lin' * where have you|been? I've been|
+w: ||||
+"C7" ec- c2- c"Gmin"c (3dcd |"C7" c8 |"F " z2 A/c/A/G/ F"Dmin"G A2 |"F " z A B/c/A/G/ AD D<F | %23
+w: long- in' * * for you all my|life.|* * * * * ba by,|I've ne- ver felt this way be- fo- re.|
+w: ||Whoa uh oh oh oh, * *||
+"Bb " z B2 A (3BBB (3BBd |"Gmin" c c2 d"C7" ef (3ged |"F " c A2 F"Dmin" DF (3cAG | %26
+w: Well, I guess it's be- cause there's a|moon out to- night. * * There's a|glow in my he- art. * * *|
+w: |* * * * (whoa oh) * *|* * * * * (whoa oh oh|
+"Gmin7" FF FD"C7" (3EGc- (3cAB |"F " c A2 F"Dmin" DF (3cAG |"Gmin7" F2(3zDF"C7" (3GAc- (3cAB | %29
+w: * I ne- ver felt be- fore. * There's a|girl at my si- de, * * *|* th- at I a\- dore. * There's a|
+w: ooh) * * * * * * * * *|* * * * * (whoa oh oh|ooh) * * * * * * * *|
+"F " c A2 F"Dmin" DF (3cAG |"Gmin7" F2 FD"C7" (3EEG (3:2:2B c2 | c2 B2"F " (3cdB c2 | %32
+w: glow in my he- art. * * *|* I\- I guess it's be- cau- se|there's a moon out to- night,|
+w: * * * * * (whoa oh oh|ooh) * * * * * * *||
+"Amin" (3AAA A2"Dmin7" (3FFF F2 |"Bb " FD d2 d2 dA |"C7" c3 c"F " AG Ac | A8 |] %36
+w: moon out to- night, moon out to- night;|there's a moon out to- o\-|o\- night. * * * *||
+w: ||||
+

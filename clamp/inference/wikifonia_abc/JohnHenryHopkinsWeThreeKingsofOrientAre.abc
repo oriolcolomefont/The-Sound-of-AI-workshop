@@ -1,0 +1,23 @@
+X:1
+T:We Three Kings of Orient Are
+T:We Three Kings of Orient Are
+T:John Henry Hopkins
+T:John Henry Hopkins
+T:Jeremy Brantley
+C:John Henry Hopkins
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"Em" B2 A | G2 E |"B7" F G F |"Em" E3 |"Em" B2 A | G2 E |"B7" F G F |"Em" E3 |"G" G2 G |"D" A2 A | %10
+w: We three|kings of|O- ri- ent|are|bear- ing|gifts we|tra- verse a-|far|Field and|foun- tain|
+"G" B2 B | d c B |"Am" A B A |"B+" G2"B" F |"Em" E3 |"D" F2 A |"G" G2 G | G2 D |"C" G2 E |"G" G3 | %20
+w: moor and|moun- * tain|Fol- low- ing|you- der|star|O _|Star of|won- der|star of|night|
+"G" G2 G | G2 D |"C" G2 E |"G" G3 |"G" G2 G |"Am" A2"G" B |"C" c2"G" B |"Am" A2"G" B |"G" G2 G | %29
+w: star with|roy- al|beau- ty|bright|West- ward|lead- ing|still pro-|ceed- ing|guide us|
+ G2 D |"C" G2 E |"G" G3 |] %32
+w: to Thy|per- rect|light|
+

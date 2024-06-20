@@ -1,0 +1,28 @@
+X:1
+T:When I Look In Your Eyes
+T:When I Look In Your Eyes
+C:Leslie Bricusse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Am" EF E2"G#+" EF E2 |"Am7" z EFE AEAe |"D/F#" d2 de d4 |"Fmaj7" z EFE"E7" ^GEGd | %4
+w: When I look in your eyes,|I see the wis- dom of the|world in your eyes,|I see the sad- ness of a|
+"Am" c2 cd"Am7" c4 |"Bb/F" z2 _Bc"E7b5" d2 cB |"Am""Am7" A8 |"Fmaj7""E7" z8 | %8
+w: thous- and good- byes,|When I look in your|eyes.||
+"Am" EF E2"G#+" EF E2 |"Am7" z EFE AEAe |"D/F#" d2 de d4 |"Fmaj7" z EFE"E7" ^GEGd | %12
+w: And it is no sur- prise|to see the soft- ness of the|moon in your eyes,|the gen- tle spar- kle of the|
+"Am" c2 cd"Am7" c4 |"Bb/F" z2 _Bc"E7b5" d2 cB |"Am""Am7" A8- |"Am" A4"D9" z4 |"Bm7" EE"E7" E6 | %17
+w: stars in the skies,|When I look in your|eyes.|_|In your eyes|
+"Bm7" z ^F^GA"E7" Bc"G7b9"d^d |"Cmaj7#5" e8 |"Am7" z E^F^G ABce |"Bm7b5" d8 | %21
+w: I see the deep- ness of the|sea,|I see the deep- ness of the|love,|
+"E7" z E^F^G"F7" ABcd |"B7""F7" B8- |"E7" B4 z4 |"Am" EF E2"G#+" EF E2 |"Am7" z EFE AEAe | %26
+w: The love I feel you felt for|me.|_|Au- tumn comes, sum- mer dies,|I see the pass- ing of the|
+"D/F#" d2 de d4 |"Fmaj7" z EFE"E7" ^GEGd |"Am" c2 cd"Am7" c4 |"Bb/F" z2 _Bc"E7b5" dBdB |"Am" A8- | %31
+w: years in your eyes,|And when we part there'll be no|tears, no good- byes,|I'll just look in- to your|eyes.|
+"D/A" A6"Dm/A" z f |"Am" e3 f"Am7" e3 f |"D/F#" d3 e"Dm/F" d4 |"Am/E" cefe"E7b5" _Bdf_b |"Am" a8 |] %36
+w: _ Those|eyes, so wise, so|warm, so real,|How I love the world your eyes re-|veal.|
+

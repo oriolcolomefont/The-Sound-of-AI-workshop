@@ -1,0 +1,19 @@
+X:1
+T:Ha énnékem
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A3 B c2 c2 | c2 c2 c2 c2 |"E" B3 c d c3 | B4"Am" A4 |"Am" c3 d e2 e2 | e2 e2 e2 e2 | %6
+w: Ha én- né- kem,|ha én- né- kem|száz fo- rin- tom|vol- na,|Ki- lin- csem is,|ki- lin- csem is|
+"E" d3 e f e3 | d4"Am" c4 |: e2 e2 e2 ee |"Dm" d2 d2 d4 | d2 e2 d2 B2 |"Am" c c3 c4 | %12
+w: vert a- rany- ból|vol- na,|De mi- vel, _ _|hogy nin- csen,|fá- ból van a|ki- lin- csem,|
+"E" B3 c d c3 | B4"Am" A4 :| %14
+w: mad- zag a hú-|zó- ja.|
+

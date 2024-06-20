@@ -1,0 +1,28 @@
+X:1
+T:Lovesick Blues
+T:Lovesick Blues
+T:(Adapted by Hank Williams)
+T:Cliff Friend
+T:Irving Mills
+C:Cliff Friend 1921
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z z2 z ^GA=G |"F" A^GA=G A f2 c | c2 c2 A2 FC | DCD^D"C7" E4- | E6 BA | BAB=B cf c2 | G6 A^G | %7
+w: I got the|feel- in called the blues * *|Oh oh Lawd since my|ba- by said good- bye-|* Lawd I|dont know what I'll do * *|* all I|
+ A^GA=G"F" A f2 c- |"F7" c2 F2 A2 c2 |"Bb7" d3 c d2 F2 | _A6 d2 |"F" d c2 c- c=B_BA- | %12
+w: do is sit and sigh * *|* that last long|day she said good-|bye- well|Lawd I tho't * I would cry|
+"D7" A6 z ^G |"G7" A d2 ^G A d2 ^G | AAAA B G3 |"C7" dcdc dcdc | dc A2"F7" f2 c2 | cf c2"E7" A4- | %18
+w: 
+ she;d|do me she'd do you she's|got that kind of lov- in|Lawd I love to hear her when she|calls me sweet dad *|* * * dy|
+"F7" A2 FD FE D2 |"C7" C8- | CABA BB =B2 |"C7" c4 G4- | G^FG=F G2"Bb" _A2 |"A7" =A8- | %24
+w: * such a beau- ti- ful|dream|* I hate to think it all|o- ver|* I've lost my heart it|seems|
+ A2 A2 B2"F7" c2 |"Bb7" d3 c d2 F2 | _A6 dd |"F" c4 c=Bc^c |"D7" d d2 d- dc A2 |"G7" AfAf A G3 | %30
+w: * I've grown so|used to you some-|how Lawd I;m|no- bod- ys sug- ar|dad- dy now * and I'm|lone- * * * some *|
+"C7" z ccc dc d2 |"F" A f3-"Ab" f4- |"Gm7" f4"F7" z4 |] %33
+w: I got the love- sick blues|||
+

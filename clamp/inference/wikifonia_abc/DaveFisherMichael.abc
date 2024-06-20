@@ -1,0 +1,30 @@
+X:1
+T:Michael
+T:Michael
+T:(Row the boat ashore)
+T:Dave Fisher
+C:Dave Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 C E3 |:"C" G3 E G2 A2 | G4 E2 G2 |"F" A8 |"C" G4 E G3 |"Em" G3 E F2 E2 |"F" D4 C2 D2 | %7
+w: Mi- chael|row the boat a-|shore Hal- le-|lu|jah Mich- ael|row the boat a-|shore Hal- le-|
+w: |||||||
+w: |||||||
+"Em" E4"G7" D4 |"C" C3 z"^Verse:" C E3 |"C" G3 E G2 A2 | G4 E2 G2 |"F" A8 |"C" G4 E G3 | %13
+w: lu *|jah Sist er|help to trim the|sail Hal- le-|lu-|jah sis- ter|
+w: |the riv- er|Jordan ischil- ly and|cold Hal- le-|lu|jah Chills the|
+w: |the riv- er,is|deep,and the riv- er|is,wide Hal- le-|lu|jah Milk and|
+"Em" G3 E F2 E2 |"F" D4 C2 D2 |"Em" E4"G7" D4 |1"C" C4 C E3 :|2"C" C4 C E3 ||"C" G3 E G2 A2 | %19
+w: help to trim the|sail Hal- le-|lu *|jah Mich- ael||row the boat a-|
+w: body but not the|soul Hale le|lu *|jah Mich ael|||
+w: honey on the other|side Hal- le-|lu *||jah Michael *||
+ G4 E2 G2 |"F" A8 |"C" G4 E G3 |"Em" G3 E F2 E2 |"F" D4 C2 D2 |"Em" E4"G7" D4 |"C" C8 |] %26
+w: shore Hal- le-|lu-|jah Mich ael|row the boat a-|shore Hal- le-|lu *|jah|
+w: |||||||
+w: |||||||
+

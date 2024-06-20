@@ -1,0 +1,26 @@
+X:1
+T:No Arms Can Ever Hold You
+T:No Arms Can Ever Hold You
+C:Art Crafter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" E2 E2- EDCD |"Cm" E2 E4 CE |"Fm7" G3 F F4- |"Bb7" F6 z2 |"Eb" G2 G2- GFEF |"Cm" G2 G4 EG | %6
+w: No arms _ can ev- er|hold you, like these|arms of mine,|_|No heart _ can ev- er|love you, like this|
+"Fm7" c3 B B4- |"Bb7" B4 z2 G2 |"Eb" B3 B B3 B |"Ebdim" d6 cd |"Fm7" B3 B B4- |"Bb7" B4 z2 G2 | %12
+w: heart of mine.|_ My|dreams can all conme|true, If you'll|care for me,|_ This|
+"Cm" (3G2 G2 G2 F3 E | G6"Edim" A2 |"Fm7" c4 A2 F2 |"Bb7" D6 z2 |"Eb" E2 E2- EDCD |"Cm" E2 E4 CE | %18
+w: love that I feel for|you, was|just meant to|be.|No lips _ can ev- er|kiss you like these|
+"Fm7" G3 F F4- |"Bb7" F6 z2 |"Eb" G2 G2- GFEF |"Cm" G2 G4 EG |"Fm7" c6 c2 |"G7" d6 d2 | %24
+w: lips of mine,|_|No one _ can ev- er|of- fer, what I|of- fer|you, My|
+"Cm" e3 e e3 e |"Abm" e6 de |"Eb" f3 e e4- |"Ebdim" e6 z2 |"Eb" E2 E2- EDCD |"Ebdim" E2 E4 CD | %30
+w: heart, my love are|yours, 'til the|end of time,|_|No arms _ can ev- er|hold you, like these|
+"Fm7" E4"Bb7" F4 |1"Eb""Gm7" E4"Fm7""Bb7" z4 :|2"Eb" E6 z2 |] %33
+w: arms of|mine|mine.|
+

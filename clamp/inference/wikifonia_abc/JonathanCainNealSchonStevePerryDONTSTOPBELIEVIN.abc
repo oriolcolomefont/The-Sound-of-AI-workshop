@@ -1,0 +1,44 @@
+X:1
+T:DON'T STOP BELIEVIN'
+C:Jonathan Cain, Neal Schon
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 bass nm="Voice"
+%%MIDI program 0
+V:1
+|:"Bb" B,,4- B,,C,D,F,- |"F" F,4 z G,A,G,- |"Gm" G,4 z A,B,E,- |"Eb" E,4 z A,B,B,, :| %4
+w: ||||
+[K:treble]"Bb" z4 z2 dB |"F" cc-cd- d4 |"Gm" z4 GBBB |"Eb" f2 fd- dc- c2 |"Bb" z2 z F d2 B2 | %9
+w: Just a|small town _ girl _|liv ing in a|lone- ly world _ _ _|She took the|
+"F" c2 c>d- dc B2 |"Gm" c3 d- dB- B2- |"Eb" B4 z4 |"Bb" z4 z2 dB |"F" cc-cd- d4 |"Gm" z4 GBBB | %15
+w: mid night train _ go ing|an y _ where _|_|Just a|ci ty _ boy _|born and raised in|
+"Eb" f2 fd- dc- c2 |"Bb" z4 z FdB |"F" cczd z c B2 |"Gm" c3 d- d2 B2 |"Eb" z2 z2 z2 z2 | %20
+w: South De troit _ _ _|He took the|mid night train go in|an y _ where||
+"Bb" B,4- B,CDF- |"F" F4 z GAG- |"Gm" G4 z ABE- |"Eb" E4 z ABB, |"Bb" z2 z F GBBB |"F" c2 cd- d4 | %26
+w: ||||A sing er in a|smok y room _|
+ z2"Gm" z F GBBB |"Eb" f2 fd- dc- c2 |"Bb" z2 cB c2 cB |"F" c2 Bc z c B2 |"Gm" c2 dc- cd-dc- | %31
+w: The smell of wine and|cheap per fume _ _ _|For a smile they can|share the night It goes|on and on _ and _ on|
+"Eb" cd- dd/-c/- B2 z2 | z8 | z8 |:"F/Eb" c3"Eb" B z4 |"F/Eb" c3"Bb/Eb" d- d2 z2 | %36
+w: _ and _ on _ _|||Strang ers|wait ing _|
+"F/Bb" z4 B"Bb"BBB |"F/Bb" f2 e"Bb"d- d2 c2 |"F/Eb" c3"Eb" B z4 |"F/Eb" c3 d"Bb/Eb" z c B2 | %40
+w: up and down the|boul e vard _ Their|shad ows|search ing in the|
+"F/Bb" c2 d"Bb"B- B4 |"F/Bb" z2 z2"Bb" z2 z2 |"F/Eb" c3"Eb" B z4 |"F/Eb" c3 d-"Eb" d2 z2 | %44
+w: night _ _ _||Street lights|peo ple _|
+"F/Bb" z4"Bb" BBBB |"F/Bb" f2"Bb" ed- dc- c2 |"F/Eb" c3"Eb" B z4 |"F/Eb" c2 z"F/Bb" d z c B2 | %48
+w: liv ing just to|find e mot _ ion _|Hid ing|Some where in the|
+"F" f4-"Bb" f4- |"F" f2-"Bb" f2-"Ab" f2- f2 | z8 | z8 |"Bb" z2 dB d3 B |"F" cczd- d4 | %54
+w: _ _||||Work ing hard to|get my fill _|
+"Gm" z4 GBBB |"Eb" f2 fd- dc- c2 |"Bb" z2 dc dcBB |"F" cczd- dc B2 |"Gm" c2 z d- d2 B2- | %59
+w: Ev' ry bo dy|wants a thrill _ _ _|Pay ing an y thing to|throw the dice _ _ One|Nore time _ _|
+"Eb" B4 z2 z2 |"Bb" z2 cd cB z2 |"F" cc-cd- d2 z2 |"Gm" z4 GBBB |"Eb" f2 fd- dc- c2 | %64
+w: _|Some will win _|Some wil _ lose _|Some were born to|sing the blues _ _ _|
+"Bb" z2 df g2 d2 |"F" c2 dc- cB B2 |"Gm" c2 dc- c2 dc |"Eb" z d- dd/c/ B2 z2 :: %68
+w: Oh the mov ie|nev er end _ it goes|on and on _ and on|and _ on _ _|
+"Eb/Bb" e"Bb"d-zd z2 z c |"F" e3 d- d4 |"Gm" z4 edef |"Eb" g2 f/g/d- d-c- B2 | %72
+w: DON'T STOP * BE|LIEV ING _|Hold on to the|feel ing _ _ _ _ _|
+"Eb/Bb" e2- d"Bb"d z4 |"F" e3 d- dc B2 |"Dm" f8- |"Eb" f4 z4 :| %76
+w: Street _ Lights|peo ple _ _ _|Ohhhh|_|
+

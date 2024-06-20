@@ -1,0 +1,28 @@
+X:1
+T:You Stepped Out Of A Dream
+T:You Stepped Out Of a Dream
+T:Nacio Herb Brown/Gus Kahn
+T:
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7" E4- | E E (3E E E |"Dmaj7" F4- | F2 (3F F F |"Bbm7" G3/2 G/ G2- |"Eb7" G G (3G F _E | %6
+w: You|* stepped out of a|dream.|* You are too|won- der- ful|* to be what you|
+"Abmaj7" c4- | c2 (3c c c |"Gm7" c3/2 C/ C2- |"C7" C2 (3c c c |"Fmaj7" c3/2 C/ C2- | C2 (3c c c | %12
+w: seem.|* Could there be|eyes like your?|* Could there be|lips like your?|* Could there be|
+"Am7" c3/2 C/ C2- |"D7" C2 (3C D C |"Ab7" _E4 |"G13" E3 z |"Cmaj7" E4- | E E (3E E E | %18
+w: smiles like your?|* hon- est and|true-|ly?-|You|* stepped out of a|
+"Dbmaj7" F4- | F2 (3F F F |"Bbm7" (3G G G G2- |"Ebm7" G G (3G F _E |"Gb9#11" c4 |"F7" z c c c | %24
+w: cloud.|* I want to|take you a- way,|* a- way from the|crowd,|and have you|
+"Dm7b5" c2 _B _A |"G7" G3 _A |"Cmaj7" (3B B B B2- |"Em7" B2"Am7" (3d c E |"Dm7" G4- | %29
+w: all to my-|self a-|lone and a- part|* out of a|dream,|
+"G7" G2 (3G G G |"Cmaj7" G4 | z4 |] %32
+w: * safe in my|heart.||
+

@@ -1,0 +1,33 @@
+X:1
+T:Make Me A Channel Of Your Peace
+T:Make Me A Channel Of Your Peace
+C:Sebastian Temple
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"D" z FFF"Gmaj7/D" FFGA |"D" F6"Gmaj7/D" z A, |"D" FFFF"Bm" FFGA |"Csus2" E6"A7" z A, | %4
+w: 1.~Make me a chan- nel of Your|peace. Where|there is hat- red let me bring You|love. Where|
+w: 2.~Make me a chan- nel of Your|peace. Where|there's de- spair in life, let me bring|hope. Where|
+"Em" GGGG GGAB |"G/A" G6"A9" z A, |"Em" GGGG"A7" F2 E2 |"D" D6 z D |"G" BBBB"Em" BBcd | %9
+w: there is in- jur- y Your par- don|Lord, and|where there's doubt true faith in|You. O|Mas- ter, grant that I may nev- er|
+w: there is dark- ness _ _ on- ly|light, and|where there's sad- ness ev- er|joy. *||
+"F#m" A6"Bm" z A, |"Em" GGGG GGAB |"D" (F2"G/D" G2"D7" A2) DD |"G" BB B2"Em7" BBcd | %13
+w: seek, so|much to be con- soled as to con-|sole _ _ to be|un- der- stood as to un- der-|
+w: ||||
+"F#m" A6"Bm" FF |"E" E2 E^G BBAG |1"A" (A2"G/A" B2"A7" c3) z :|2 %16
+w: stand to be|loved as to love with all my|soul _ _|
+w: |||
+"A""A" (A2"G/A""G/A" B2"A7""A7" c3) z ||"D" z FFF"Gmaj7/D" FFGA |"D" F6"Gmaj7" z A | %19
+w: soul _ _|3.~Make me a chan- nel of Your|peace It|
+w: |||
+"D" FF (3FFF-"Bm" FFGA |"Csus2" E3"A7" E4 A |"Em" GGGG GGAB |"G/A" G6"A9" B,A, | %23
+w: is in par- don- ing _ that we are|par- doned, in|giv- ing of our- selves that we re-|ceive, and in|
+w: ||||
+"Em" GGGG G (3GG"A7"F E |"D""Gmaj7" D8 |"D" z8 |] %26
+w: dy- ing that we're born to e- ter- nal|||
+w: |||
+

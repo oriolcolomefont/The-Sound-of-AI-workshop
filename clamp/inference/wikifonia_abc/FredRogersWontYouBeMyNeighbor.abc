@@ -1,0 +1,32 @@
+X:1
+T:Won't You Be My Neighbor?
+T:Won't You Be My Neighbor
+C:Fred Rogers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 c>B |"F" (3c=Bc (3BcB"D7" d>c_B>A |"Gm7" (3BAB"D+" (3ABA"Bbm" c>B"C7"A>G | %3
+w: It's a|beau- ti- ful day in the neigh- bor- hood, A|bear- ti- ful day for a neigh- bor. Would you|
+w: |neigh- bor- ly day in this beaut- y wood, A|neigh- bor- ly day for a beau- ty. Would you|
+"Am7" CG-"Abdim" G4"Gm7" A"C7"G |1"F" CG-"Abdim""Gm" G4"C7" A>B :|2"F" CF-"F7" F4 FF || %6
+w: be mine? _ Could you|be mine? _ It's a|be mine? _ I have|
+w: be mine? _ Could you|||
+"^Bn" F>F (3FFF"D7" ^F>FF>F |"Gm" G2 G"Db"_A- A3 A |"F" =A>A (3AAA"Gm7" (3BBB B>B | %9
+w: al- ways want- ed to have a neigh- bor|just like you! _ I've|al- ways want- ed to live in a neigh- bor-|
+w: |||
+"Abm7" =B2"Db7" B"Gm7"c- c2"C7" _B2 |"F" (3=BcB"Fmaj7" (3cBc"Cm" (3dc_B"D7" A2 | %11
+w: hood with you. _ So|let's make the most of this beau- ti- ful day,|
+w: ||
+"Gm7" (3ABA (3BAB (3cBA"Bbm" G2 |"F" (3CFG"Dm" A2"Gm" (3DGA"Gm7" B2 |"C7" E>dc>E"F" G F3 | %14
+w: since we're to- geth- er we might as well ~say,|Woud you be mine? Could you be mine?|Won't you be my neigh- bor?|
+w: |||
+"Bb" D>d"Am7" c2"Gm" D>d"Am""D7" !fermata!c2 |"Gm7" (3dcB"C7" A>E"Bb" G<F-"F" F2 |] %16
+w: Won't you please, Won't you please?|Please won't you be my neigh- bor? _|
+w: ||
+

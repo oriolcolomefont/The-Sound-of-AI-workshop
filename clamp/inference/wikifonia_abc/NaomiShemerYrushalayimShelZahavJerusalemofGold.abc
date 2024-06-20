@@ -1,0 +1,29 @@
+X:1
+T:Y'rushalayim Shel Zahav (Jerusalem of Gold)
+T:Y'rushalayim Shel Zahav
+T:Naomi Shemer
+T:
+C:Naomi Shemer
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ G |:S"Cm" GG GC"Cm/Bb" CG |"Abmaj7" G2 F2 z F | FA G2"G7" F>=E |"Cmaj7" =E4 z G | GG GG"C7" AG | %6
+w: A-|vir ha- rim tsa- lul ka-|ya- yin v'-|ré- ach o- ra- *|nim ni|sa b'- ru- ach ha- ar-|
+w: |tar- dé- mat i- lan va-|e- ven sh'vu-|ya ba- cha- lo- *|ma ha-|ir a- sher ba- dad yo-|
+"Ab" G2 FA GF |"Am7b5" E4"Bdim" D2 |1"Cm" C4 z G :|2"Cm" C2 z C CC |:"Fm/Ab" F2 F2 FF | %11
+w: ba- yim im kol pa-|a- mo-|nim. *|* Y'- ru- sha-|la- yim shel za-|
+w: she- vet u- v' li-|ba cho-|* Uv'-|ma. * * *||
+"Eb/G" E2 z E EE |"Fm7" A2 A2"Bb7/F" AA |"Ebmaj7" G2 z G"Eb7" GG |"Abmaj7" c4 dc || %15
+w: hav v'- shel n'-|cho- shet v'- shel|or ha- lo l'-|chol shi- *|
+w: ||||
+O"Gm7" B2 G2"Bdim" F2 |"Cm" E4"G7" D2 |1"Cm" C2 z C CC :|2"Cm" C4"^D.S. a Coda" z G || %19
+w: ra- yich a-|ni ki-|nor. Y'- ru- sha-|nor. *|
+w: ||||
+O"Gm7" B2 G2 FG |"Fm" A2 B2"Fm/Eb" c2 |"Dm7b5" d6- |"G7" d4 dc |"Cm" !fermata!c4 z2 |] %24
+w: ra- yich a- *|ni- * ki-|nor|_ ki *|nor.|
+w: |||||
+

@@ -1,0 +1,69 @@
+X:1
+T:Sorry seems to be
+T: 
+T:E.John/B.Taupin
+T: 
+C:Elton John
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=60
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ d'8- | d'2 b2 g2 b/a/g/d/ |"Cm" e3 =B/c/ GE D/E/C |"Am7b5" E2 G/^F/G/A/"D7" GF [CD][CD] || %4
+w: ||||
+"Gm""^A" z2 (3d/d/d/d/>d/ d>B"Bb/F" dB/d/- |"Cm9" d<c- c z FEDE | %6
+w: What I got to do to make _ you love|_ me? _ _ _ _ _|
+"F" [A,C]2 (3c/c/c/c/>B/ (d/c/B/)B/ cB/B/- |"Bb" B2 z2"Am7b5" ED"D7"G^F | %8
+w: _ What I got to do _ _ _ to make you care?|_|
+"Gm" z2 d/d/d d>B"Bb/F" d/Bd/- |"Cm9" d<c- c z FGFE |"F" z/ cc/ (c/B/)B/(d/- d/c/B/)B/ cB | %11
+w: What do I do when light- ning strikes|_ me? _ _ _ _ _|& I wake _ to find _ _ _ that you're not|
+"Bb" B3 z"Am7b5" ED"D7"G^F ||"Gm" z2 d/d/d dz/B/"Bb/F" dB/d/- |"Cm9" d<c- c z [DF]G,[CE]G, | %14
+w: there? * * * *|What do i do to make you want|_ me? _ _ _ _ _|
+"F" [A,C] (3c/c/c/ c/B/(d/c/ B)c/B/- BB/B/- |"Bb" B2 z2"Am7b5" ED"D7"G^F | %16
+w: _ What I got to _ do _ _ to be _ heard? _|_|
+"Gm" z2 d/d/d ag/d/- d/Bd/- |"Cm9" d<c- c z [DF]2 [CE]2 |"F" c/c/ z z/ cB/ d>B cB/B/- | %19
+w: What do I say when it's _ all o-|* ver? _ _ _|Sor- ry seems to be the har- dest word.|
+"Bb" B2 z2"F/A" [CF]B,[CF]B, ||"Eb/G""^B" z e/(e/ f<e)"D/F#" z/ d/d/(e/ d2) | %21
+w: _|It's sad, _ _ so _ sad _|
+"Bb/F" z g/a/ ba"Em7b5" ag/d/- d/(c/B) |"Cm/Eb" z e/e/ f<e"D7" dc/B/- BA/B/- | %23
+w: It's a sad, sad si- tu- a- * tion. _|& it's get- ting more & more _ ab- surd.|
+"Gm" B2 [B,DG]2"Am7b5" [CEG][CEG]"D7"[A,D][A,D^F] |"Eb/G" z e/(e/ f<e)"D/F#" z/ d/d/(e/ d2) | %25
+w: |It's sad, _ _ so _ sad _|
+"Bb/F" z g/a/- a/ba/-"C7/E" a/g/d (c/B/G) |"Eb" z c/d/ e/d/d/c/- c2 z"Bb/D" G | %27
+w: Why can't _ we talk _ it o- ver? _ _|Al- ways seems _ to me _ That|
+"Cm7" c<d ed/f/-"D7" f>e dc"^Al Coda" ||"Gm" B3 d/b/ [db][ca][Bg][Af] |"Cm" [Af]>[Ge] [Ge]4 c2 | %30
+w: sor- ry seems to be _ the har- dest|word. * * * * * *||
+"F7" [A,EF]2 z c/c'/"Eb" [db][ca]"F7"[Bg][Af] |"Bb" [Ge]>[Fd] [Fd]2"Am7b5" A/B/c/e/"D7" d/^f/g/a/ | %32
+w: ||
+"Gm" bd/[bd']/ [bd'][c'e'] [bd'][a^c'][bd']g |"Cm" [d'f'][c'e'][bd'][c'e'] c'2"Cm7" B2 | %34
+w: ||
+"F7" A[fa]/[gb]/ [ac']2 [ac']/[bd']/[c'e'] [af'][ec'] | %35
+w: |
+"Bb" [db]2 d/c/B/A/"F/A" B/A/G/F/ C/B,/C/D/"^D.S. al Coda" || %36
+w: |
+"Gm" B2 z (3d/d/d/ dz/B/"Bb/F" dB/d/- |"Cm9" d c2 z [EG][DF][CE][B,D] | %38
+w: word. What do i do to make you love|_ me? * * * *|
+"F" [A,C]2 (3c/c/c/c/B/ (d/c/B) c>B |"Bb" B2 z2"Am7b5" ED"D7"G[^FA] |"Gm" z2 d/d/d gfdB | %41
+w: * What I 've got to do _ _ to be|heard? * * * *|What do I do when light- nin'|
+"Cm9" d c3 FEFE |"Am7b5" c/d/e fe/e/-"D7b9" e2 z2 |"Gm" g/a/b ba/(a/"Cm" g e2 A) | %44
+w: strikes me? _ _ _ _|What have I got to do? _|What have I got to do? _ _ _|
+"Am7b5" c/d z/ ed/f/-"D7" f>e d^f |"Bb/F" g8 | x8 | x8 |"Gm9" [A,B,DG]8- | [A,B,DG] z z2 z4 |] %50
+w: Sor- ry seems to be * the har- dest|word.|||||
+V:2
+ [FGBd]2 [FGBd]2 [=EGBd]2 [EGBd]2 | [EGBd]2 [EGBd]2 [EGBd]2 [DGB]2 | x8 | x8 || x8 | x8 | x8 | x8 | %8
+ x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | %27
+ x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %45
+ z GBf"Em7b5" =eGce |"Cm/Eb" eGce"Gm/D" dB/A/ c/B/A |"Am7b5" C<D ED"Dsus4" [G,CD]2"D7" [A,C^F]2 | %48
+ x8 | x8 |] %50
+

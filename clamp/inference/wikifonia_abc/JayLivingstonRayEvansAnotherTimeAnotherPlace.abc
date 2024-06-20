@@ -1,0 +1,26 @@
+X:1
+T:Another Time, Another Place
+T:Another Time, Another Place
+C:Jay Livingston, Ray Evans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z DFB |:"Bbmaj7" A4 z FDF | A4 z DFG |"Eb7" (3A2 B2 c2 A4- | A4 z2 _A2 |"Abmaj7" G4 z CE_A | %6
+w: An- oth- er|time, an- oth- er|place, we'll be to-|geth- er a- gain!|* This|kiss, this same em-|
+ G4 z CEF |"Db7" (3G2 _A2 B2 G4- | G4 z2 G_G ||"Ebmaj7" F2 FE F2 E2 |"F#dim7" z FFE F2 E2 | %11
+w: brace wll be more|won- der- ful then!|* Though good-|bye is a sad time,|be glad we had time|
+"Gmaj7" (3D2 E2 =B2 ^F4- |"Bbdim7" F8 |"Bbmaj7" (3F2 G2 d2 A4- |"Gm7" A6 B2 |"C7" c8- | %16
+w: to fall in love;||I leave my love|* with|you!|
+"F7" c4 z DFB ||"Bbmaj7" A4 z FDF | A4 z DFG |"Eb7" (3A2 B2 c2 A4- | A4 z2 _A2 | %21
+w: * When shad- ows|grow, I'll miss the|glow that on- ly|you can pro- vide,|* but|
+"Abmaj7" G4 z CE_A | G4 z CEF |"Db7" (3G2 _A2 B2 G4- | G4 z2 _G2 |"Ebmaj7" (3F2 F2 E2 F3 E | %26
+w: then I'll just pre-|tend you're still right|here by my side!|* Now|give me once more, that|
+"Ab7" (3c2 c2 B2 c3 B |"Bbmaj7" (3A2 c2 A2 A4 |"Dbdim7" z2 GA cBAG |"Cm7" F4 z GBG |"F7" F6 G2 |1 %31
+w: kiss I a- dore, then|I'll let you go!|But we'll meet an- oth- er|time, an- oth- er|place, I|
+"Bbmaj7" B8- |"Cm7" B4"F7" z DFB :|2"Bbmaj7" B8 |] %34
+w: know!|* An- oth- er|know!|
+

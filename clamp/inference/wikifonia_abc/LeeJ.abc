@@ -1,0 +1,24 @@
+X:1
+T:Smiles
+T:Smiles
+C:Lee J. Roberts
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 D E |:"D" F4- | F E F G |"D7" A2 A2- | A2"Am7" G"D7" F |"G/B" G4- | G F G A |"G/D" B4- | %8
+w: There are|smiles|_ that make us|hap- py,|_ there are|smiles|_ that make us|blue;|
+"G" B2 B"Gm" ^A |"B7" B3 ^c | ^d ^c B ^A |"Em" B2 B2- | B2 ^A B |"A7" ^c3 B |"Em7" G A"A6" F E | %15
+w: _ There are|smiles that|steal a- way the|tear drops|_ as the|sun- beams|steal a- way the|
+"D7""Ddim7" A4- |"D7" A2 B c |"G7" d3 B | d B d B |"Dm" A2 A2- | A2"G+" G A |"C#dim" B3 ^A | %22
+w: dew.|_ There are|smiles that|have a ten- der|mean- ing,|_ that the|eyes of|
+ B ^A B G |"C" E4- | E2 E F |"A#dim" G3 F | A G F G |"G" d2 B2- | B2 c ^c |"D7" d"Am7" =c2 A | %30
+w: love a- lone can|see,|_ and the|smiles that|fill my life with|sun- shine|_ are the|smiles that you|
+ E2"D7" F2 |1"G" G2-"Gdim7""A#dim7/G" G2- ||"G" G2"D7" D E :|2"G" G2-"Gdim7" G2- || %34
+w: give to|me. *|* There are|me. _|
+"Adim7" G2-"G" G z |] %35
+w: _ _|
+

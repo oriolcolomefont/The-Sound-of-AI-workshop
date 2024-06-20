@@ -1,0 +1,27 @@
+X:1
+T:If My Friends Could See Me Now
+T:If My Friends Could See Me Now
+C:Cy Coleman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z A G E |: A G2 E- | E A G E |"C7" A G2 E- | E3 c |"F" d c A d | c A d c | A d2 c- | c B c d | %9
+w: If they could|see me now,|_ that lit- tle|gang of mine,|_ I'm|eat- ing fan- cy|chow and drink- ing|fan- cy wine.|_ I'd like those|
+w: |see me now,|_ My lit- tle|ddust- y group,|_ _|traip- sin' 'round this|mil- lion dol- lar|chick- en coup.|_ I'd hear those|
+"B7" ^d2 d2 | ^d2 d2 |"E7" e ^d =d"Am" c- | c A B c |"D7" d2"Fm6" d2 |"C" d2"D7" d2 | %15
+w: stum- ble|bums to|see for a fact|_ The kind of|top drawer|first rate|
+w: thrift shop|cats say:|"Broth- er, get her!|_ Draped on a|bed- spread|made from|
+"G7" e d B G- | G A G E |"C" A G2 E- | E A G E |"C7" A c2 d- | d e d c |"F" d c2 A- | A d c A | %23
+w: chums I at- tract.|_ All I can|say is "Wow!-|* ee Look- a|where I am.|_ To night I|land- ed, pow!|_ right in a|
+w: three kinds of fur."|_ All I can|say is "Wow!|_ Wait till the|riff and raff|_ See just ex-|act- ly how|_ he signed this|
+"E7" d ^d2 e- | e2 ^d e |"A+7" f2"Bb9" f2 |"G7" f"A7" e2"D7" d- | d d ^c/c/ d | e d ^c d | %29
+w: pot of jam."|_ What a|set up!|Ho- ly cow!|_ They'd nev- er be-|lieve it, If my|
+w: au- to- graph."|_ What a|build- up!|Ho- ly cow!|_ _ _ _ _||
+"G7" e2"G#dim" e2 |1"F" e"G7" d2"C" c- | c4- | c"G7" A G E :|2"F" e"G7" d2"C" c- | c4- | c2- c z |] %36
+w: friends could|see me now|_|* If they could|see me now|_||
+w: |||||||
+

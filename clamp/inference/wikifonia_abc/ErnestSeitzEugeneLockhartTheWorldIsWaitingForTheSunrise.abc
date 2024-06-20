@@ -1,0 +1,20 @@
+X:1
+T:The World Is Waiting For The Sunrise
+T:The World Is Waiting For the Sunrise
+C:Ernest Seitz
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3 ^D |"C" E3"G+7" G |"Am" A3"G+7" G |"C" E G"Am" A c |"E7" e2 d2 |"F" c3 A |"Em7""A7" G3 E | %7
+w: Dear|one the|world is|wait- ing for the|sun- rise,|ev- 'ry|rose is|
+"D7" E D2 E |"Dm7" D3"G+7" ^D |"C" E3"G+7" G |"Am" A3"G+7" G |"C" E G"Am" A c |"E7" e2 d2 | %13
+w: heav- y with|dew. The|thrush on|high his|sleep- y mate is|call- ing|
+"F" c3 A |"Em7""A7" G3 E |"Dm7b5""G7" F3 G |"C" e4- | e3 z |] %18
+w: and my|heart is|call- ing|you!|_|
+

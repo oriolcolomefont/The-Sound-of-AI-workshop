@@ -1,0 +1,32 @@
+X:1
+T:It's A Lovely Day Today
+T:It's A Lovely Day Today
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"F7" z d2 ^c |:"Bbmaj7" d2 F2"Eb7" F2 FF- |"Dm7" F4"G7" z d2 ^c |"Cm7" dF F2"F7" F2 Fd- | %4
+w: It's a|love- ly day to- day,|* so what-|ev- er you've got to do,|
+"Fm7" d4"Bb7" z BcB |"Ebmaj7" d2 B2"Ebm7" c2 B2 |"Dm7" dB c2-"Dbdim7" c B3 |"Cm7" F8- | %8
+w: * You've got a|love- ly day to|do it in, * that's|true.|
+"F7" F4 z D2 E |"Bbmaj7" F2 d2"Gm7" BB F2 |"Cm7" E2 c2"F7" A3 F |"Bbmaj7" D2 B2"G7" GG D2 | %12
+w: * And I|hope what- ev- er you've|got to do is|some- thing that can be|
+"Cm7" C2 D2"F7" E4 |"Bbmaj7" z D2 E"Eb7" F2 G2 |"D7" A4"Gm7" B4 |"C7" c8- |"Cm7" c4"F7" z d2 ^c | %17
+w: done by two,|for I'd real- ly|like to|stay.|* It's a|
+"Bbmaj7" d2 F2"Eb7" F2 FF- |"Dm7" F4"G7" z d2 ^c |"Cm7" dF F2"F7" F2 Fd- |"Fm7" d4"Bb7" z BcB | %21
+w: love- ly day to- day,|* and what-|ev- er you've got to do|* I'd be so|
+"Ebmaj7" d2 B2"Ebm7" c2 B2 |"Dm7" dB c2-"Dbdim7" c B3 |"Cm7" F8- |"F7" F4 z D2 E | %25
+w: hap- py to be|do- ing it * with|you.|* But if|
+"Bbmaj7" F2 d2"Gm7" BB F2 |"Cm7" E2 c2"F7" A3 F |"Bbmaj7" D2 B2"G7" GG D2 |"Cm7" C2 D2"F7" E4 | %29
+w: you've got some- thing that|must be done, and|it can on- ly be|done by one|
+"Bbmaj7" z D2 E"Eb7" F2 G2 |"D7" A4"Gm7" B4 |"Am7""Ab7#11" d8- |"Dm7" d4"G7" z d3 | %33
+w: there is noth- ing|more to|say|* ex-|
+"Edim7" G2 dd"Ebdim7" _G2 d2 |"Bbmaj7" F2 d2"C7" =E2 d2 |"Cm7" z c2 B"F7" A2 c2 |1"Bbmaj7" B8- || %37
+w: cept it's a love- ly|day for say- ing|it's a love- ly|day.|
+"Cm7" B4"F7" z d2 ^c :|2"Bbmaj7" B6 z2 |] %39
+w: * It's a|day.|
+

@@ -1,0 +1,44 @@
+X:1
+T:Sometimes When We Touch
+T:Sometimes when we touch
+T:Barry Mann
+T:Dan Hill
+C:Barry Mann
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"^Verse" z2 z F |:"C" E2 G2 c2 G2 |"F" G A3 z2 GG |"G" G d3 BG G2 |"C" G4 z2 E2 | %5
+w: You|ask me if I|love you and I|choke on my * re-|ply I'd|
+w: |mance with all its|strat- egy leaves me|batt- ling with * my|pride but|
+"Em" E2 GG- G2 G2 |"Am" A2 Bc- c2 EE |"D" D2 DA- AB G2 |"G" G4 z2 z D |"Dm7" f2 ff- f2 e2 | %10
+w: ra- ther hurt * you|hon- est- ly * than mis-|lead you with * * a|lie and|who am I * to|
+w: through the in * se-|cut- it- y * some ten-|der- ness * * * sur-|vives I'm|just an- oth * er|
+"G" e d3 z2 x G |"C" e2 e2 d2 e2 |"Am" c4"Am7" z2 z G |"F" A2 AB- B2 c2 |"C" G c3 z2 x c | %15
+w: judge you on|what you say or|do I'm|on- ly just * be-|gin- ning to|
+w: writ- er still|trapped with- in my|truths a|hes- i- tant * prize|fight- er still|
+"Dm7" c2 ce- ed c2 |"G" d4 z4 |"G7" z4 z2 z G ||S"C" e"^Chorus" e3 ec c2 |"F" F4 z2 z c | %20
+w: see the re * * al|you|and|some- times when * we|touch the|
+w: trapped with * in * my|youth||||
+"G" d2 dd- d2 B2 |"Em" G4 z2 AB |"Am" c2 cc- c2 E2 |"D" D3 A AB A2 |"G" G6"F" z2 | %25
+w: hon- es- tys * too|much and I|have to close * my|eyes and * * *|hide|
+w: |||||
+"Em" z4"Dm" z c"G"cd |"C" e2 e-e e2 c2 |"F" F4 z2 Bc |"G" d2 dd- d2 B2 |"Em" G4 z EEE | %30
+w: I wan- na|hold you till * I|die till we|both break down * and|cry I wan- na|
+w: |||||
+"Dm7" F2 c2- cc d2 |"G" eccc- c3 c |"C" c6 z2 |"C7" z8 |"F" z8!fine! |"Fm" z4 z2 z C :| %36
+w: hold you till * the|fear * in me * sub-|sides|||Ro|
+w: ||||||
+"C" c6"^Middle Section" z2 | z4 x2 z c |"G" d2 dd- d2 c2 | e d3 z2 z c | e2 dd c2 c2 | %41
+w: sides|At|times I'd like * to|break you and|drive you to * your|
+w: |||||
+"C" cA G2 z2 z c |"Am" c2 cc- c2 c2 |"Em" B G3 z2 z G |"F" AG G2 G2 E2 |"C" D4"G7" z4 | %46
+w: knees * * at|times I'd like * to|break through and|hold * you end- less-|ly|
+w: |||||
+ z4 z2 z G!D.S.! |] %47
+w: And|
+w: |
+

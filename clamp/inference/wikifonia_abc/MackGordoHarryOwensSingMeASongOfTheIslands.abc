@@ -1,0 +1,28 @@
+X:1
+T:Sing Me A Song Of The Islands
+T:Sing me a song of the islands
+T:(from Song of the Islands)
+T:Mack Gordon and Harry Owens 
+C:Mack Gordo, Harry Owens
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 4
+V:1
+"Eb" B B B B |"Ab" B A E3/2 F/ |"Eb" G G"Gm" B3/2 G/ |"Fm7" G F3 |"Eb" B B B B |"Ab" B A E3/2 E/ | %6
+w: Here I am en-|rap- tured by the|thrill of my Ha-|wai- i|While I live I'll|tell of you the|
+"Eb" G E"Bb7" B3/2 F/ |"Fm" F E2"Eb" z |:"Bb7" d2 c B | c2 B =A |"Eb" B2 G2- | G4 |"Bb7" d2 c B | %13
+w: spell of you Ha-|wai- i|Sing me a|song of he|is- lands|_|My ser- e-|
+ c2 B =A |"Eb" B2 e2 | G4 |"Bb7" B2 F G |"Ab" A2 E F |"Eb" G2 B2- | B4 |"Bb7" B2 F G | %21
+w: nade that the|trade winds|know|Sing me a|song of the|is- lands|_|where hearts are|
+"Fm7" A B/A/"Bb7" G F |"Eb" E4- | E2 z E |"Ab" c c3 |"Bb7" c B =A c |"Eb" =A B3- | B3 E | %28
+w: high when the moon is|low|_ Where|rip- pling|wa- ters seem to|say _|_ A-|
+"Ab" c2 c2 |"Bb7" c B =A c |"Eb" =A B3- | B2- B z |"Bb7" d2 c B | c2 B =A |"Eb" B2 G2- | G4 | %36
+w: lo- ha|Wao- I- A- o-|e _|_ _|Bring me the|fra- grance of|gin- ger|_|
+"Bb7" d2 c B | c2 B =A |"Eb" B2 e2 | G4 |"Bb7" B2 F G |"Ab" A2 E F |"Eb" G2"Cm7" e2- |"F7" e2 z G | %44
+w: strum your gui-|tars while I|dream a-|way|Sing me a|song of the|Is- lands|_ A-|
+"Fm" F2 F2 |1"Bb7" c A F D |"Eb" E4- | E z z2 :|2"Bb7" c A F d |"Eb" e4- | e4- | e2 z2 |] %52
+w: lo- ha|wao- i- a- o-|e|_|wao- i- a- o-|e|_||
+

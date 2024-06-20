@@ -1,0 +1,17 @@
+X:1
+T:Qui peut faire de la voile sans vent ?
+T:Qui peut faire de la voile sans vent ?
+C:anonymous
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" C2 DE DCGG | A G2 z A2 Bc | BA G2 E G2 z | F2 GA GF E2 | F G2 z D2 EF | ED C3 C2 z :| %6
+w: Qui peut faire de la voi- le|sans vent? Qui peut ram-|er sans ra- a- me?|Et qui peut quit- ter son|a- mie sans ver- ser|un- e lar- me?|
+w: Je peux faire de la voi- le|sans vent. Je peux ram-|er- sans ra- a- me.|Mais je n'peux quit- ter mon|a- mie sans ver- ser|un- e lar- me.|
+

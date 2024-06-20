@@ -1,0 +1,17 @@
+X:1
+T:Ó, gyönyörű szép
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" D2 FG A2 B2 | AA"A"GG"D" F2 z2 |"D" D2 FG A2 B2 | AA"A"GG"D" F2 z2 |"Bm" FF"A"EE"D" AA"G" G2 | %5
+w: Ó, gyö- nyö- rû szép,|ti- tok- za- tos éj|Ég- sze- mû gyer- mek,|csöpp ró- zsa- le- vél,|Kis- ded- ként az é- des Úr|
+"Bm" FF"A"EE"D" AA"G" G2 |"D" FF"A"EE"D" D2 D2 |] %7
+w: já- szo- lá- ban meg- si- mul|szent ka- rá- csony éj- jel.|
+

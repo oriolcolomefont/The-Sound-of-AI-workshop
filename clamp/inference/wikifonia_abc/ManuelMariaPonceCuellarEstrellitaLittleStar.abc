@@ -1,0 +1,21 @@
+X:1
+T:Estrellita (Little Star)
+T:Estrellita
+C:Manuel María Ponce Cuéllar
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:F
+V:1 treble nm="untitled" snm="untitled"
+%%MIDI program 24
+V:1
+ z2"CbminMaj7" z3/2 C/ |"Fmaj7" E2 FA/"Amin"c/ | g3 f |"Bbmaj7" f>G G2 |"Gmin" z2 z [cB] | %5
+"C7" d>^F G>A |"Gmin" B z2 d |"Cbdim" d>"Amin"e c2 |"Dmin" cC/A/- A/ z A/ | E2"F " FA/c/ | %10
+ a2"A " z e |"Bbmaj7" g>f G2 |"Gmin" z e/g/ f/e/f/d/ |"F " d>c f>A |"C7" AB d>E |"F " F4 | %16
+ z2 z3/2 C/ |"Fmaj7" E2 FA/"Amin"c/ | g3 f |"Bbmaj7" f>G G2 |"Gmin" z2 z [cB] |"C7" d>^F G>A | %22
+"Gmin" B z2 d |"Cbdim" d>"Amin"e c2 |"Dmin" cC/A/- A/ z A/ | E2"F " FA/c/ | a2"A " z e | %27
+"Bbmaj7" g>f G2 |"Gmin" z e/g/ f/e/f/d/ |"F " d>c f>A |"C7" AB d>E |"F " F4 |"Bb " z2 B2 | %33
+"D7" A^F/"Gmin"G/ d2- |"C7" d2 cA | GA/F/"F " C2 | z2"Bb " B2 |"Gbaug" A^F/G/ B2 |"Amin""C7" A3 G | %39
+"F " B>A F2- |"C " F2 z C |"F " E2 FA/"Amin"c/ | a2 z e |"Edim" g>f"Dmin" G2 | %44
+"C " z e/g/ f/e/f/d/ |"F " d>c f>A |"C7" AB d>E |"F " F4- | F4 |] %49
+

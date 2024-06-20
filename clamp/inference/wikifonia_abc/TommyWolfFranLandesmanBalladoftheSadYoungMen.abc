@@ -1,0 +1,41 @@
+X:1
+T:Ballad of the Sad Young Men
+T:Ballad of the Sad Young Men
+T:Tommy Wolf
+T:Fran Landesman
+C:Tommy Wolf
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Eb" E3/2 F/ G E |"Ab" C D"Eb" E2 |"Fm7" F B B d |"Bb13" B4 |"Eb" E3/2 F/ G E |"Ab" C D"Eb" E2 | %6
+w: Sing a song of|sad young men,|glass- es full of|rye.|All the news is|bad a- gain;|
+w: Au- tumn turns the|leaves to gold.|ALow- ly dies the|heart.|Sad young men are|grow- ing old;|
+"Fm7" B, E"Bb9" G3/2 F/ |"Eb" E4 ||"Ab" F G"Fm7" A E |"Am7""D7" D4 |"Gm" G =A"Gm7" B3/2 F/ | %11
+w: kiss your dreams good-|bye.|All the sad young|men|sit- ting in the|
+w: that's the cruel- est|part.|All the sad young|men|seek a cer- tain|
+"Bbm7""Eb7" E4 |"Ab" A B c d |"Fm7" c3"Bb9" B/=A/ |"Gm7" B c B2- |"C7b9" B2 A G |"Fm7" A B A2 | %17
+w: bars,|know- ing ne- on|nights, mis- sing|all the stars,|* All the|sad young men|
+w: smile.|Some- one they can|hold for a|lit- tle while.|* Tir- ed|lit- tle girl|
+"Dm7" G A"G+7" G3/2 F/ |"Cm" E4- |"F7" E2 F/F/G/c/ |"Fm7" B4- |"Bb7" B2"Bb9" C/D/E/F/ |"Gm" B,4- | %23
+w: drift- ing through the|town.|* Drink- ing up the|night,|* try- ing not to|drown.|
+w: does the best she|can,|* try- ing to be|gay|* for a sad young|man.|
+"C7b9" B,4 |"Ab" F G"Fm7" A E |"Am7""D7" D4 |"Gm" G =A"Gm7" B3/2 F/ |"Bbm7""Eb7" E4 |"Ab" A B c d | %29
+w: |All the sad young|men|sing- ing in the|cold.|Try- ing to for-|
+w: |While a gri- my|moon|watch- es from a-|bove,|all the sad young|
+"Fm7" c3"Bb13" B/=A/ |"Gm7" B c c2- |"C7b9" c2 A G |"Fm7" A B A2 |"Dm7" G A"G+7" G F |"Cm" E4- |1 %35
+w: get * they're|grow- ing old.|* All the|sad young men|cho- king on their|youth.|
+w: men * at|mak- ing love.|* Mis- be-|got- ten moon,|shine for sad young|men.|
+"F7" E2 E/F/G/c/ |"Fm7" B4- |"Bb7" B2 C/D/E/F/ |"Eb" E4- |"Ab" E4- |"Fm7" E4- |"Bb9" E4 :|2 %42
+w: * Try- ing to be|brave,|* run- ning from the|truth.||||
+w: |||||||
+"F7" E2 D E ||"Fm7" e3 d |"Gm" B2 d e |"Ab" f3 e |"Gm7""C7b9" B4 |"Fm" F2"Edim" G2 | %48
+w: * Let your|gen- tle|light guide them|home a-|gain.|All the|
+w: ||||||
+"Fm7" A2"Bb7" d2 |"Eb" e4- |"Ab" e4- |"Fm7""Bb9" e4 |"Eb" e4 |] %53
+w: sad young|men.||||
+w: |||||
+

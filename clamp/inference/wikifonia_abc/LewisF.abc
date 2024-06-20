@@ -1,0 +1,40 @@
+X:1
+T:Waiting For The Robert E. Lee
+T:Waiting For The Robert E Lee
+T:Lewis F. Muir
+T:L.Wolfe Gilbert
+C:Lewis F. Muir
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z ^D |:"C" EG ^DE- | E G2 ^D | EG ^DE- | E G2 ^G | Ac ^GA- | A c2 ^G |"F" Ac ^GA- | AB cd | %9
+w: Way|down on the lev-|* ee in|old Al * a-|bam- y There's|dad- dy and mam-|* my there's|Eph- riam and Sam-|* my, on a|
+w: |whis- tles are blow-|* in' the|smoke- stacks are show-|* in' The|ropes they are throw-|* in' ex-|cuse me, I'm go-|* in' To the|
+"C" e4 |"E7/B" d4 |"F/A" cA cA- |"C/G" AG E2 |"D7/A" DE F^F- | F d2 c |"G7" Bc ^cd- | dB GF | %17
+w: moon|light|night you can find|* them all,|While they are wait-|* in' the|ban- jos are syn-|* co- pa- tin'.|
+w: place|where|all is har- mo-|* ni- ous,|Ev- en the preach-|* er, he|is * the dance-|* ing teach- er|
+"C" EG ^DE- | E G2 ^D | EG ^DE- | E G2 ^G |"F" Ac ^GA- | A c2 ^G | Ac ^GA- | AB cd |"C" e4 | %26
+w: What's that they're say-|* in' *|What's that they're say-|* in? *|While they keep play-|* in' *|hum- min' and sway-|* in' It's the|good|
+w: Have you been down|* there? *|Were you a- round|* there? If|you ev- er go|* there you'll|al- ways be found|* there, Why *|dog-|
+"E7/B" d4 |"F/A" cA cA- |"C/G" AG EG |"D7/A" c c2- c |"G7" d c2 d |"C" c4- |"C7" cc B_B || %33
+w: ship|Rob- ert E Lee|* that's come to|car- ry the|cot- ton a-|way-|, * * *|
+w: gone,|here comes my ba-|* by On the|good old *|Rob- ert E.|Lee.||
+"F""^Chorus" A d2 d- | dc A2 | F4- | F3 z |"C7/G" ^D E2 G- | G _B2 e |"C7" d4- | dc d^d | e4 | %42
+w: Watch them shuff-|* lin' a-|long||See them shuff-|* lin' a-|long|* Go take your|best|
+w: |||||||||
+"Gm7" d4 |"C7" c4 |"C7" _B3 ^G |"F" Ac ^GA- | A c2 ^G | Ac ^GA- |"C7" Ac =B_B |"F" A d2 d- | %50
+w: gal|real|pal, Go|doen to the lev-|* ee, I|said to the lev-|* ee and *|Join that shuff-|
+w: ||||||||
+ dc A2 | F4- | F3 z |"C7/G" ^D E2 G- | G _B2 e |"C7" d4- | dc d^d | e4 |"Gm7" d4 |"C7" cd ec | %60
+w: * * lin'|throng-||Hear that mu-|* sic and|song|* It's sim- ply|great|mate,|Wait- in' on the|
+w: ||||||||||
+ d e3 | cd ec | d c2 c |1"F""Bb" F4- ||"F" F2"G7" G^D :|2"F""Bb" f4- ||"F" f2- f z |] %67
+w: lev- ee,|Wait- in' for the|Rob- ert E.|Lee|* * The|Lee.-||
+w: |||||||
+

@@ -1,0 +1,37 @@
+X:1
+T:Ain't No Sunshine (All Of Me)
+T:Ain't No Sunshine
+T:Bill Withers
+C:Bill Withers
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+|: z4 EG2A- A2<c2B2A2 |"Am7" A8"Em" z4"G" z4 |"Am7" z4 EG2A- A2>c2- cB2A |"Am7" A8"Em" z4"G" z4 | %4
+w: Ain't No Sun- * shine when she's|gone|It's not warm * when * she's a-|way|
+w: Won- der this _ time where she's|gone|won- der if * she's * gone to|stay|
+"Am7" z4 AA2c2e3 de2e- |"Em7" e2 d4 Ad c2A2G2A2 |"Dm" A4 (3c2d2c2- c4 AG2A | %7
+w: Ain't no sun- shine when she's gone|_ _ and she's al- ways gone too|long an- y- time _ she goes a-|
+w: ain't no sun- shine when she's gone|_ _ and this house just ain't no|home an- y- time _ she goes a-|
+"Am" A4 z4"Em" z4"G" z4 :| z2 EG2<A2G A2GA- AGA2 | GA2GA2GA- AGAE GA2G | A2GA- AGAE GA2Gc2AG- | %11
+w: way-|and I know I Know I know * i know|i know i know i know * i know i know i know|i know i * know i know i know i know i know|
+w: way-||||
+ GGA2 GA2G A2GA- AGA2 | GA2GA2GA- AGA2 GA2A | c2 z e- edee gee2d2>c2 | dc z A ed2d- d2<c2A2A2 | %15
+w: * i know i know i know i know * i know|i know i know i know * i know i know i|know hey * i ough- ta leave the young thing a-|lone _ but ain't no sun- * shine when she's|
+w: ||||
+"Am7" A8"Em" G4"G" G4 | A4 EG2A- A2<c2B2A2 |"Am7" A8"Em" z4"G" z4 |"Am7" z4 EG2A- A2>c2- cB2A | %19
+w: gone _ _|_ Ain't No Sun- * shine when she's|gone|On- ly dark- * ness * ev- 'ry-|
+w: ||||
+"Am7" A8"Em" z4"G" z4 |"Am7" z4 AA2c2e3 de2e- |"Em7" e2 d4 Ad c2A2G2A2 |"Dm" A4 (3c2d2c2- c4 AG2A | %23
+w: day|Ain't no sun- shine when she's gone|_ _ and this house just ain't no|home an- y- time _ she goes a-|
+w: ||||
+"Am" A4 z4"Em" z4"G" z4 |:"Am" z4 (3c2d2c2- c4 AG2^G | %25
+w: way-|an- y- time _ she goes a-|
+w: ||
+"Am" A4 z4"Em" z4"G""_[Repeat four times]" z4 :| %26
+w: way-|
+w: |
+

@@ -1,0 +1,26 @@
+X:1
+T:All Of Me
+C:Seymour Simons
+Z:All Rights Reserved
+L:1/4
+Q:1/4=130
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 52
+V:1
+"^A""C" c G/E/- E2- | E2 (3c d c |"E7" B ^G/E/- E2- | E4 |"A7" A G/E/- E2- | E ^D (3E _B A | %6
+w: All of me, _|_ why not take|all of me? _|_|Can't you see _|_ I'm no good with-|
+"Dm7" G2 F2- | F3 z |"E7" E _E/D/- D2- | D2 (3E ^G B |"Am" d2 c2- | c4 |"D7" B _B/A/- A2- | %13
+w: out you?|_|Take my lips, _|_ I want to|lose them.|_|Take my arms, _|
+ A2 (3B d B |"Dm7" A4 |"G7" B3 z ||"^B""C" c G/E/- E2- | E2 (3c d c |"E7" B ^G/E/- E2- | E4 | %20
+w: _ I'll ne- ver|use|them.|Your good- bye _|_ left me with|eyes that cry. _|_|
+"A7" A G/E/- E2- | E ^D (3E _B A |"Dm7" G2 F2- | F3 z |"F6" d2 c B/d/- |"Fm6" d3 c | %26
+w: How can I _|_ go on, dear, with-|out you?|_|You took the part|_ that|
+"Em7" B2 E G/B/- |"A9" B3 A |O"Dm9" c2 A c |"G7" e2 e2 |"C" c2-"A7" c2- |"Dm7" c3"G7" z :| %32
+w: once was my heart,|_ so|why not take|all of|me? _|_|
+O"Dm9" c2 A c |"G7" B3 z |"Em7" d2 B d |"A7" ^c3 A |"Dm9" c2 A c |"G13" e2 e2 |"F6/C" c4- | %39
+w: why not take|all?|Why not take|all? So|why not take|all of|me?|
+"C" c3 z |] %40
+w: _|
+

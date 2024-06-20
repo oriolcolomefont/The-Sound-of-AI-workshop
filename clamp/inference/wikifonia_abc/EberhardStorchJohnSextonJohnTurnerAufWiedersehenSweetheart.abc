@@ -1,0 +1,24 @@
+X:1
+T:Auf Wiedersehen, Sweetheart
+T:Auf Wiedersehen Sweetheart,
+T:Eberhard Storch
+T:John Sexton and John Turner
+C:Eberhard Storch
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2"C" E2 |:"Dm" E D"G7" D2- | D2 F2 |"C" F E E2- | E2 G2 |"Dm" G F F2- |"G7" F2 A2 |"C" G4- | %8
+w: Auf|Wie- der- sehen|_ auf|wie- der- sehen|_ we'll|meet a- gain|_ sweet-|heart|
+ G2"C7" c2 |"F" c A F2- | F2"G7" A2 |"C" G E C2- | C2"Am" E2 |"D7" E D D2- | D2 E2 |"G7" D4- | %16
+w: _ This|love- ly day|_ has|flown a- way|_ the|time has come|_ to|part|
+ D2 E2 |"Dm" E"G7" D D2- | D z F2 |"C" F E E2- | E2 G2 |"Dm" G F F2- |"G7" F2 A2 |"C" G4- | %24
+w: _ We'll|kiss a- gain|_ like|this a- gain|_ don't|let the tear-|* drops|start|
+ G2"C7" c2 |"F" c A F2- | F2"G7" A2 |"C" G E C2- | C2 E2 |"Dm" F A"Fm" c2- |"G7" c2 d2 |1"C" c4 | %32
+w: _ With|love thats true|_ I'll|wait for you|_ Auf|Wie- der- sehen|_ sweet-|heart.|
+"Ab7" z2"G7" E2 :|2"C" c4- |"Ab7""C" c4 |] %35
+w: Auf-|heart.-||
+

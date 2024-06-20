@@ -1,0 +1,41 @@
+X:1
+T:Birthday
+T:Birthday!
+T:John Lennon & Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 64
+V:1
+ A"A7"Ace =g f2 e | A2 z2 z4 |"A7" AAce =g f2 e | A2 z2 z4 |"D7" DDFA =c B2 A | D2 z2 z4 | %6
+w: ||||||
+"A7" AAce =g f2 e | A2 z2 z4 |"E7" EEGB d c2 B | E2 z2 z4 |"A7" AAce =g f2 e | A2 z2 z4 | %12
+w: ||||||
+"A7" z4 z2 z E | AA=G=c- c A3 | z z2 z4 E | AA=G=c- c E3 |"D7" z z2 z4 E | AA=G=c- c A3 | %18
+w: You|say it's your birth _ day.|It's|my birth- day too. _ _|They|say it's your birth- * day.|
+"A7" z z2 z4 E | AAA=G =c2 A2 |"E7" z z2 z4 E | AA=G=c- c A3 |"A7" z2 z4 EE | A2 A=c- c2 A2 | z8 | %25
+w: We're|gon- na have a good time.|I'm|glad it's your birth- * day.|Hap- py|birth- day to _ you.||
+"E" G8- |"E" G8 | z2 EE EDDD | D2 CC- CB,- B,2 | z2 GG GFFF | F2 EE- ED- D2 | z2 BB BAAA | %32
+w: ||Yes, we're go~- ing to a|par- ty, par- * ty. _|Yes, we're go~- ing to a|par- ty, par- * ty. _|Yes, we're go~- ing to a|
+ A2 GG- GF- F2 |[K:C]"C" c3 G3 GE |"G" GFD G2- G z2 |"C" c3 G3 GE |"G" GFD G2- G z2 |"C" c3 G3 GE | %38
+w: par- ty, par- * ty. _|_ _ I would|like you to dance _|(Birth- day) Take a|cha- cha- cha~ chance _|(Birth day) I would|
+"G" GFD G2- G z2 |"C" c3 G3 z2 |"G" G8 |[K:A]"E" G8- |"E" G8 | A"A7"Ace =g f2 e | A2 z2 z4 | %45
+w: like you to dance _|(Birth- day)|Dance|||||
+"A7" AAce =g f2 e | A2 z2 z4 |"D7" DDFA =c B2 A | D2 z2 z4 |"A7" AAce =g f2 e | A2 z2 z4 | %51
+w: ||||||
+"E7" EEGB d c2 B | E2 z2 z4 |"A7" AAce =g f2 e | A2 z2 z4 |"A7" Ae z =g z a2 g | ed=cA =G4 | %57
+w: ||||||
+ =Ge z [G-=g] G-[Ga] z =c' | ed (6:4:4c/d/c/A3/2 z4 |[K:C]"C" c3 G3 GE |"G" GFD G2- G z2 | %61
+w: ||* * I would|like you to dance _|
+"C" c3 G3 GE |"G" GFD G2- G z2 |"C" c3 G3 GE |"G" GFD G2- G z2 |"C" c3 G3 z2 |"G" G8 | %67
+w: (Birth- day) Take a|cha- cha- cha~ chance _|(Birth day) I would|like you to dance _|(Birth- day)|Dance!|
+[K:A]"E" G8- |"E" G8 | A"A7"Ace =g f2 e | A2 z2 z4 |"A7" AAce =g f2 e | A2 z2 z4 | %73
+w: ||||||
+"D7" DDFA =c B2 A | D2 z2 z4 |"A7" AAce =g f2 e | A2 z2 z4 |"E7" EEGB d c2 B | E2 z2 z4 | %79
+w: ||||||
+"A7" AAce =g f2 e | A2 z2 z4 |] %81
+w: ||
+

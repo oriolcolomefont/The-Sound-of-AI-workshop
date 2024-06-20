@@ -1,0 +1,48 @@
+X:1
+T:What a Wonderful World
+T:What A Wonderful World
+T:Bob Thiele, George David Weiss
+T:Bob Thiele, George David Weiss
+C:George David Weiss, Gary Bisaga
+Z:Creative Commons BY
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ CE |"F" F3 A"Am""D7" c4 |"Gm7" z d"C7" dd"Am7""D7" c4 |"Gm7" z B"C7" BB"F""^/G" A4 | %4
+w: I see|trees of green,|red ros\- es too,|I see them bloom|
+w: ||||
+"A7" z G GG"Dm" F2- (3FFF |"Db" F2- (3FFF F4 |"Gm7" z2"Gm7b5" FF"C7" (3E2 F2 G2 | %7
+w: for me and you, * and I|think * to my\- self|What A Won\- der\- ful|
+w: |||
+"F""F""^/C""^/C#" A4-"D7" A4- |"Gm7" A4"C7" z2 CE |"F" F3 A"Am""D7" c3 c | %10
+w: World. *|* I see|skies of blue and|
+w: |||
+"Gm7" d3"C7" d"Am7""D7" c3 c |"Gm7" B2-"C7" (3BBB"F""^/G" A3 A |"A7" G2- (3GGG"Dm" F2- (3FFF | %13
+w: clouds of white, the|bright * bless\- \-ed day, the|dark * sac\- red night, * and I|
+w: |||
+"Db" F2- (3FFF F4 |"Gm7" z2"Gm7b5" FF"C7" (3E2 F2 G2 |"F" F4-"Bbm6" F4- | F4"F" z2 F2 || %17
+w: think * to my\- self|What A Won\- der\- ful|World. *|* The|
+w: ||||
+"C7" GGGG G C2 C |"F" BAA^G A3 F |"C7" GGGG G C2 G |"F" BAA^G A2 Ac |"Dm" d2 dd"Am" c2- (3cAc | %22
+w: col\- ors of the rain\- bow, so|pret\- ty in the sky are|al\- so on the fac\- es of|peo\- ple go\- in' by, I see|friends shak\- in' hands, * say\- in',|
+w: |||||
+"Bb" d2 dd"F" c4 |"Gm7" z d dd"F#dim7" c c3 |"Gm7" B2"F#dim7" A2"Gm7" G2"C7" CE || %25
+w: "How do you do!"|They're real\- ly say\- in'|"I Iove you," I hear|
+w: |||
+"F" F3 A"Am""D7" c3 c |"Gm7""C7" d3 d"Am7""D7" c4 |"Gm7" z B"C7" BB"F" A3 A | %28
+w: ba\- bies cry I|* them grow.|* learn much more than|
+w: * * * watch|||
+"A7" G2- (3GGG"Dm" F2- (3FFF |"Db" F2- (3FFF F4 |"Gm7" z2"Gm7b5" FF"C7" (3E2 F2 G2 | %31
+w: I'll * ev\- er know, * and I|think * to my\- self|What A Won \-der ful|
+w: |||
+"F" A4-"^/G" A4- |"Am7b5" A2 z2"D7" A2 A2 |"Gm7" (3A2 F2 G2 F4 | z2 FF"C7" (3E2 F2 G2 | %35
+w: World. *|* Yes, I|think to my self|What A Won der ful|
+w: ||||
+"F" F4-"Bb6" F4- | F4-"F" F4 |] %37
+w: World. *||
+w: ||
+

@@ -1,0 +1,46 @@
+X:1
+T:Matchmaker
+T:Matchmaker
+C:Jerry Bock
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 | %8
+w: Match- mak- er|match- mak- er|make me a|match|find me a|find,|catch me a|catch|
+"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"F7b9" A2"F11" B |"Bb" c B A |"C11" F2"C7" C |"F" F3- | F3 | %16
+w: Match- mak- er|match- mak- er|look through your|book and|make me a|per- fect|match.|_|
+"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 | %24
+w: Match- mak- er|match- mak- er|I'll bring the|veil|you bring the|groom,|slen- der and|pale.|
+"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"F7b9" A2"F11" B |"Bb" c B A |"C11" F2"C7" C |"F" F3- | %31
+w: Bring me a|ring, for I'm|long- ing to|be the|en- vy of|all I|see.|
+ F z F |"Bbm7" _d3 | _d3 |"Eb7" _d c B | _d c B |"Abmaj7" c3 | c _A B |"Ab" c B _A | c2 C | %40
+w: _ For|pop-|pa|make him a|schol- ar, For|mom-|ma make him|rich as a|king, For|
+"Gm7" B3 | B3 |"C7" B _A G | B _A G |"Fm" _A G A |"F7" A ^G A |"Bbm" B2 c |"C7b5" _d3 |"F" C F F | %49
+w: me|well,|I would- n't|hol- ler if|he were as|hand- some as|an- y|thing.|Match- mak- er|
+"Gm7" F G G |"Gm7" G A A |"Gm" A3 |"Fmaj7" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 |"F" C F F | %57
+w: match- mak- er|make me a|match|find me a|find|catch me a|catch|night aft- er|
+"Gm7" F G G |"Fmaj9" G A A |"F7b9" A2"F11" B |"Bb" c A B |"Am7" c3 |"Bb" c A B | c2 z |"Gm7" F3 | %65
+w: night in the|dark I'm a-|lone So|find me a|find|make me a|match|of|
+"C7" C3 |"F" F3- |"Gm7" F3- |"Fmaj7" F3- | F z z |"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"Gm9" A3 | %74
+w: my|own.||||Match- mak- er|match- mak- er|You know that|I'm|
+"F" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 |"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"F7b9" A2"F11" B | %82
+w: Still ver- y|young,|Please take your|time.|Up to this|min- ute I|mis- un- der-|stood, That|
+"Bb" c B"Gm7" A |"C11" F2"C7" C |"F" F3- | F3 |"Bbm7" _d3 | _d3 |"Eb7" _d c B | _d c B | %90
+w: I could get|stuck for|good|_|Yen-|tel|see that he's|gen- tle. Re-|
+"Abmaj7" c3 | c _A B |"Ab" c B _A | c2 C |"Gm" B z z | B z z |"C7" B _A G | B"Fm" _A z | z z _A | %99
+w: mem-|ber You were|al- so a|bride. It's|not|that|I'm sen- ti-|men- tal|It's|
+"F7" =A ^G A |"Bbm" B2 c |"C7b9" _d3- | d3- | d3 |"F" C F F |"Gm7" F G G |"Fmaj9" G A A |"Gm9" A3 | %108
+w: just that I'm|ter- ri-|fied!|_||Match mak- er|match- mak- er|Plan me no|plans,|
+"F" G A A |"Gm9" A3 |"F" G A A |"Gm9" A3 |"F" C F F |"Gm9" F G G |"Fmaj9" G A A | %115
+w: I'm in no|rush,|may- be I've|learned.|Play- ing with|match- es a|girl can get|
+"F7b9" A2"F11" !fermata!B |"Bb" c B A | F3 |"Bb" c B A | F3 |"F" c B A | F3 |"G7" d c =B | G3 | %124
+w: burned So|bring me no|ring,|Groom me no|groom,|find me no|find.|Catch me no|catch.|
+"Gm7/B" z z D | D G B |"B9" d3 |"C7" e3 |"F" f3- | f3- | f3- | f z2 |] %132
+w: Un|less he's a|match-|less|match.|_|||
+

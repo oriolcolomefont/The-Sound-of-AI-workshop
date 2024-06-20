@@ -1,0 +1,24 @@
+X:1
+T:Because You're Mine
+T:Because you're mine
+T:Nicholas Brodszy
+T:Sammy Cahn
+C:Nicholas Brodszky
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z D FG |"Bb" A6- | Ac cA AB | BG GA AF |"Fm" FG"G7" GF ED |"Cm" C4- CC |"G7" D4- DD |"Cm" E6- | %8
+w: Be- cause you're|mine|* the bright- est star I|seee looks down my love and|en- vys me be- cause youre|mine * be-|cause * youre|mine|
+"Cm7" E3 E GA | B6- | Bd dB Bc |"F" cA AB"Cm7" BG | GA"F7" AF AG |"Bb" D4- DF |"F7" A4- AG | %15
+w: * be- cause youre|mine|* the breeze that hur- ries|by be- comes a mel- o-|dy and why be- cause youre|mine * be-|cause * youre|
+"Bb" D6- | D z2 D FG |"Dm7" _A4 GA |"G7" G3 F ED |"Cm" G6- |"Cm" G3 E GA |"Em" B4 AB | %22
+w: mine|* I on ly|know for as|long as I may|live|* I'll on- ly|live for the|
+"A7" A3 G F=E |"Dm" A4"Bb" A2 |"Cm" d2"F7" cD FG |"Bb" A6- | Ac cA AB | BG GA AF | %28
+w: kiss that you a-|lone may|give me and when we|kiss|* that is- nt thun- der|dear its on- ly my poor|
+"Fm" FG"G7" GF ED |"Cm7" G4 G2 |"F" d4 d2 |"Bb" B6- | B4 z2 |] %33
+w: heart you hear and its ap-|plaus be-|cause youre|mine!||
+

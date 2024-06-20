@@ -1,0 +1,51 @@
+X:1
+T:Let Me Entertain You
+C:Guy Chambers, Robbie Williams
+Z:All Rights Reserved
+L:1/8
+Q:1/4=124
+M:4/4
+K:F
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+|:"F" z8 |"Ab/F" z8 |"Bb/F" z8 |"F" z8 ::"F" ffff f/f(f/ f)f |"Ab/F" _e/d(e/ e/)d/e e<(e e) z | %6
+w: ||||Hell is gone and hea- ven's here, there's _|no- thing left _ for you to fear, _|
+w: ||||Life's too short for you to die _ so|grab your- self _ an a- li- bi _|
+"Bb/F" dd/d/z/d/d d<dz_a |"F" f2 z2 z4 | ffff f/f(f/ f)f |"Ab/F" _e/de/z/d/e d<e z2 | %10
+w: shake your arse come ov- er here, now|scream.|I'm a burn- ing ef- fi- gy _ of|ev- ery- thing I used to be|
+w: hea- ven knows your mo- ther lied, mon|cher.|Se- pa- rate your right from wrongs, _ _|come and sing a dif- ferent son,|
+"Bb/F" dd d/d(d/ d/)d/dz_a |"F" f2z2zc _e<f ||"F" f2 (f6 |"Ab" _e4) e2 e(f |"Bb" f) f3 z4 |"F" z8 | %16
+w: you're my rock of em- pa- thy, _ my|dear. So come on|let me|_ en- ter- tain|_ you,||
+w: the ket- tle's on so don't be long, mon|cher. * * *|||||
+"F" f2 (f6 |"Ab" _e4) e2 e(f |"Bb" f) f3 z4 |"F" z8 :|"F" ff/f/z/ff/ f/f(f/ f)f | %21
+w: let me|_ en- ter- tain|_ you.||Look me up in the yel- low pa- _ ges,|
+w: |||||
+"Ab/F" _ed ed/e/z/d/(e e/)ee/ |"Bb/F" dd dd/d/ ddFF |"F" f2 z2 z4 | f/f/f ff/f/z<f f>_e | %25
+w: I will be your rock of a- _ ges, your|see through fads and your cra- zy pha- ses,|yeah.|Lit- tle Bo Peep has lost his sheep,he popped|
+w: ||||
+"Ab/F" _ed/e/z/d/e d<ez>d |"Bb/F" d/dd/zd/d/ d/dd/z_a |"F" f2 z2 z4S || c2 B_A F2 FA | %29
+w: a pill and fell a- sleep, _ the|dew is wet but the grass is sweet my|dear.|Your mind gets burned with the|
+w: |||He may be good he may|
+"Ab/Eb" cc_e(c c2>)B2 |"Bb/D" ccB_A F2 FF |"F" _AG_E(F F2)zB | c2 B_A FFFA |"Ab/Eb" c2 _e(c c2)ze | %34
+w: ha- bits you've learned _ but|we're the ge- ne- ra- tion that's|got to be heard, * you're|tired of your tea- chers and your|school's a drag, _ you're|
+w: be out- ta sight _ but|he can't be here so come a-|round to- night _ _ _|shere is the place where the _|feel- ing grows, _ you|
+"Bb/D" fff(f f)fff |"F" _a2 _e(f f)c e<Of |:"F" f2 (f6 |"Ab" _e4) e2 e(f |"Bb" f) f3 z4 |1,2 %39
+w: not going to end _ up like your|mum and dad. _ So come on|let me|_ en- ter- tain|_ you,|
+w: got- ta get high _ be- fore you|taste the lows. * * * *||||
+"F" z8 :|3"F" z8S |:O"F" z8 |"Ab/F" z8 |"Bb/F" z8 |1"F" z8 :|2"F" z8 |:"F" f2 (f6 | %47
+w: |||||||Let me|
+w: ||||||||
+"Ab" _e4) e2 e(f |"Bb" f) f3 z4 |"F" z8 ::"F" f/f_e/ fe/(f/ f/)e/(f f) z | %51
+w: _ en- ter- tain|_ you.||Come on, come on, come on, _ come on, _|
+w: ||||
+"Bbsus4/Eb" _e/ed/ ed/(e/ e/)d/(e e) z |"Bb/D" d/dd/ dd/(d/ d/)d/((d d2) |"F" c) z z2 z4 :|"F" z8 | %55
+w: come on, come on, come on, _ come on, _|come on, come on, come on, _ come on _|_||
+w: ||||
+"Ab" z8 |"Bb" z8 |"F" z8 | z8 |"Ab" z8 |"Bb" z8 |"F" z8 |:"F" A2 A2zA A(A |"Ab" _A)A z2 z4 | %64
+w: |||||||Let me en- ter- tain|_ you,|
+w: |||||||||
+"Bb" F2 F2zF F(F |"F" F)F z2 z4 :| %66
+w: let me en- ter- tain|_ you.|
+w: ||
+

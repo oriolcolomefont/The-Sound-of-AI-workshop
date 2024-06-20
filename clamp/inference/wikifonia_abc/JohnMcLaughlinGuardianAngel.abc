@@ -1,0 +1,34 @@
+X:1
+T:Guardian Angel
+T:Guardian Angel
+T:(Play A sections for intro/outro, B section for melody and solos)
+T:John McLaughlin
+T:2
+C:John McLaughlin
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:G
+V:1 treble transpose=-12 nm="P1"
+V:2 treble transpose=-12 
+L:1/4
+V:1
+"Cmaj7/E""^A1" (EcBc g)"Bm7/D"(DAB | Af)"A/C#"(^CA e)"C"(=CGe) |"Gmaj7/B" (B,FGF d)"C#11"(CFG | %3
+ Fe)"Bm"(B,F d)"Am"(A,Ec) |"E/G#" (^G,EB)"F#7#11"(F, EBF,E | ^AEBA eF,)G,"E/G#"(^G, | %6
+ EB)"A"(A,E ^c)A,^A,"Bm"(B, | Fd)"C#11"(CF GFeC) |"A/C#" (^CAe)"D7"(D Af)"Cmaj7/E"(Ec | %9
+ Bcg)"F#11"(=F cBca) |"C" (CGe)"Gmaj7/B"(B, FGFd) |"Dmaj7/F#" (F,^CDC AF,)"G"(G,D | B8) | z8 || %14
+"Cmaj7/E""_(With A1 accompaniment)""^A2" z2 z B e"Bm7/D"g (f/g/f) | e7"A/C#""C" A | %16
+"Gmaj7/B" B(c/B/ A)G A"C#11"BAG | FD"Bm"AB G2"Am" ED |"E/G#" E F2"F#7#11" E- E^D- D2 | %19
+ ^CB, C2 EDF"E/G#"E | D E3"A" GEA"Bm"^c | B2"C#11" de a2 ba | %22
+"A/C#" gd' z"D7"{bc'}b z g"Cmaj7/E"fe | dcB"F#11"=F cBAG |"C" ^FGF"Gmaj7/B"D B,A, B,2 | %25
+"Dmaj7/F#" DB, E2 D B2"G" A |!fine! G8 ||[M:3/4] z2 !>![ae']2 [gd'][fb]- | [fb]6 | z6 |: %30
+"^Em""^B" e^d ef ga |"^D" b2 b2 b2 |"^C7" b/d'/c'/b/ a2 g=f- |"^Fma7" =f3 e =fa | %34
+"^Am" c'e' bc' bg |"^G" eg f^d Bc |"^C" BG E_E DC |"^B7" B,4 z B |"^Em" e^d ef ga | %39
+"^D" bd'/c'/ b/d'/c'/b/ d'/c'/b |"^C7" b/c'/d'/c'/ a2 g=f- |"^Fma7" =f e2 =f2 a | %42
+"^Am" c'e' bc' bg |"^G" eg f^d Bc |"^C" BG E_E DC |"^B7" B,6 :| %46
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 ||[M:3/4] x3 | z B2 | x3 |: x3 | x3 | x3 | x3 | x3 | x3 | %36
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 :| %46
+

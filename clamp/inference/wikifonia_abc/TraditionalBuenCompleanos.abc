@@ -1,0 +1,18 @@
+X:1
+T:Buen Compleanos
+T:Buen Compleanos
+T:TRADITIONAL
+C:Traditional
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z G/>G/ |"Cm" A G- G c |"G7" =B2 z G/G/ | A G- G d |"Cm" c2 z G/>G/ | g e- e c | %6
+"Dm" =B =A- A f/f/ |"Am" =e c-"G7" c d |"Cm" c4 |] %9
+

@@ -1,0 +1,55 @@
+X:1
+T:Chiquitita
+T:Chiquitito
+T:Benny Andersson & Bjorn Ulvaeus
+C:Benny Andersson & Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B/c/ de d/c/B |:S"G""C/G" d8 |"G" z2 z B/c/ d2 e2 | dcBA-"D" A4- | A8 | f3 e/f/"C" g3 e | %6
+w: Chi- qui- ti- ta, tell me what's|wrong|you're en- chained by|your own sor- row *||in- * * * your|
+w: |truth,|I'm a shoul- der|you can cry on. *||Your * * * best|
+w: |down,|and your love's a|blown out can- dle, *||all * * * is|
+"D" d3 A/B/"D11" c2 c2 |"G" cBAB- B2 z2 | z2 z B/c/ de d/c/B |"C/G" d8 |"G" z2 z B/c/ d2"C/G" e2 | %11
+w: eyes there is no hope|for to- mor- row. *|How I hate to see you like|this,|there is no way|
+w: friend, I'm the one you|must re- ly on. *|You were al- ways sure of your-|self,|now I see you've|
+w: gone and it seems too|hard to han- dle, *|Chi- qui- ti- ta tell me the|truth,|there is no way|
+"Bm9" fe/d/fd- d4 | z8 |"D" f3 e/f/"C" g3 e |"D" d3 A/B/"D11" c2 c2 |"G" cBAG- G2"C/G" z2 |1 %16
+w: you can de- ny it, *||I * * * can|see that you're, oh, so|sad, so qui- et, *|
+w: bro- ken a feath- er, *||I * * * *|hope we can patch it|up to- geth- er,- *|
+w: you can de- ny it, *||I * * * *|see that you're, oh, so|sad so qui- et.- *|
+"G" z2 z B/c/ de d/c/B :|2"G" z2 z e/f/ ga g/f/e/f/ ||"C" g8 ||[M:5/4] z2 z e/f/ga g/f/ege/f/ | %20
+w: Chi- qui- ti- ta, tell me the|Chi- qui- ti- ta, you and I *|know|how the heart- aches come and they go and the|
+w: ||||
+w: ||||
+[M:4/4]"G" gdcB- B4 | z2 Bc/d/- defg/f/- |"D" f3 e/f/"C" g3 e |"D" d3 A/B/"D11" c2 c2 | %24
+w: scars they''re leav- in' *|You'll be danc- * in' once a- gain|* and the pain will|end, you will have no|
+w: ||||
+w: ||||
+"G" cBAB- B4 | z2 z e/f/ ga g/f/e/f/ |"C" g8 ||[M:5/4] z2 z e/f/ga g/f/ega || %28
+w: time for griev- in', *|Chi- qui- ti- ta you and I *|cry|but the sun is still in the sky and|
+w: ||||
+w: ||||
+[M:4/4]"G" ba/g/bg- g4 | z2 Bc/d/- defg |"D" f3 e/f/"C" g3 e |"D" d3 A/B/"D11" c2 c2 | %32
+w: shin- in' a- bove you, *|let me hear * you sing once|more like you did be-|fore, sing a new song,|
+w: ||||
+w: ||||
+"G" cBAG- G2 B,C || DEFG"D" a3 g | f3 e/f/"C" g3 e |"D" d3 A/B/"D11" c2 c2!dacoda! || %36
+w: Chi- qui- ti- ta, * * *|* * * * Try once|more like you did be-|fore, sing a new song|
+w: ||||
+w: ||||
+O"G" cBAG- G2 z2 | z2 z B/c/ de d/c/B/c/!D.S.! ||"G" c"^Coda"BAG- G2 B,C | DEFG a3 g | %40
+w: Chi- qui- ti- ta. *|So the walls came tumb- * lin' *|Chi- qui- ti- ta, * * *|* * * * try once|
+w: ||||
+w: ||||
+"D" f3 e/f/"C" g3 e |"D" d3 A/B/"D11" c2 c2 |"G" cBAG- G2 z2 |] %43
+w: more like you did be-|fore, sing a new song,|Chi- qui- ti- ta.- *|
+w: |||
+w: |||
+

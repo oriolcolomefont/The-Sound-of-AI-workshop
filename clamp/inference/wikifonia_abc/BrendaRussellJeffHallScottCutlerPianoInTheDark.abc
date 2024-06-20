@@ -1,0 +1,95 @@
+X:1
+T:Piano In The Dark
+T:Piano In The Dark
+T:Brenda Russell, Jeff Hall, and Scott Cutler
+T:Intro:
+T:2
+T:(D)
+C:Brenda Russell, Jeff Hall, Scott Cutler
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:2/2
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:!mf!"Fm7" [ca]3 [Bg]- [Bg] [Ge]2 [Ge]- |"Eb/Db" [Ge] [Gf]2 [GB]- [GB]4 | %2
+w: ||
+w: ||
+"Ab/C" cde"Db"d- d c2"Eb" B- | B3 A/B/"Ab/C" c4 :|2"Eb" B4- (3B2 A2 G2 ||"Fm7" F8 | %6
+w: ||||
+w: ||||
+"Cm7/Eb""Cm7/Bb" z8 |"Fm9" z8 |"Cm7/Eb""Cm7/Bb" z8 ||"Fm9""^(A)" z2 CC C"Fm7"C C2 | %10
+w: |||When I find my- self|
+w: ||||
+ C"Cm7/Eb"B,A,C-"Cm7/Bb" C4 | z"Fm9" CCC"Fm7" CC C2 |"Cm7/Eb" CFGA"Cm7/Bb" G2 FC- | %13
+w: watch- in' the time, _|I nev- er think a- bout|all the fun- ny things you've said|
+w: |||
+ B,/"Bbm7/Db"A,/F, A,2"Db" z2 z F, |"Ab/C" A,A,A,B,- C z2 z |"Bbm7/Db" B,B,B,"Eb"B,- B,A,CC |: %16
+w: _ _ _ _ I|feel like it's dead. _|Where is it lead- * ing me now?|
+w: |||
+"Fm9""^(B)" z CCC"Fm7" C2 CC |"Cm7/Eb" CB,A,C-"Cm7" C2"Cm7/Bb" z2 |"Fm9" z CCC C2"Fm7" CC- | %19
+w: I turn a- round in the|still of the room, _|_ know- ing this is when|
+w: He holds me close like a|beat of a heart, _|He plays a mel- o- dy|
+"Cm7/Eb" CFGA"Cm7/Bb" B2 AG- |"Bbm7/Db" F4"Db" z2 z F, |"Ab/C" A,A,A,"C7#5"B,- B,Cz>F, | %22
+w: _ I'm gon- na make my move.|_ Can't|wait any _ long- * er and|
+w: born to tear me all a- part.|_ The|si- lence is brok- * en and|
+"Bb/D" FFF"C/E"F- FG=AA- |[K:F]"^F(add9omit3)"S"^(C)" A2 z2 F>G-GA |"Fsus4/Bb" A2 z2 z FGA- | %25
+w: I'm feel- ing strong- * er But oh,|_ just as _ I|walk to the door|
+w: no words are spok- * en, _ _|_||
+"F/C" A2 A"Bb/D"G FFB,C- |"F" C A3- A2 z F- |"F/G" F2 z"F/A" C F>G-GA |"Fsus4/Bb" A2 z2 z2 z C- | %29
+w: _ I can feel your e- mo-|* tion _ there.|_ It's pul- ling _ me|back, back|
+w: ||||
+"F/C" C F2"Bb/D" F- F G3O |"C/D" c2- A"Dm7"c- A2 z c |"Bb" BBA"F/C"A G"C"GzG/_A/ | %32
+w: _ to love _ you.|Oh, _ no _ caught|up in the mid- dle I cry _|
+w: |||
+"Gm7" G2 F"F/A"F GAz>C |"Fsus4/Bb" FFFF CC"C" z2 |"C/D" z d-A"Dm7"c- A2 z c | %35
+w: _ just a lit- tle when|I think of let- ting go.|Oh, _ no, _ gave|
+w: |||
+"Bb" BBA"F/C"A G"C"GzG/_A/ |"Gm7" G2 A"F/A"F FFzC |1 c"Bbm9" B2 _A"F/C" A G2 G- | %38
+w: up on the rid- dle, I cry _|_ just a lit- tle when|he plays pi- an- o in|
+w: |||
+[K:Ab]"Fm" GF F6 |: x8 | x8 | x8 :|2 x8 :| x8 |"Cm/Eb""Cm7/Bb" z8 |"Fm9""Fm" z8 | %46
+w: _ the dark.||||||||
+w: ||||||||
+"Cm/Eb""Cm7/Bb" z8 ||"Bbm/Db" z4"Db" z A,2 F, |"Ab/C" A,A,A,"C7#5"B,- B,Cz>F, | %49
+w: |Oh, the|si- lence is bro- * ken and|
+w: |||
+"Bb/D" FFF"C/E"F- FG=AA- |:[K:F]"C/D"O"^(F)" c2- A"Dm7"c- A2 z c |"Bb" BBA"F/C"A G"C"GzG/_A/ | %52
+w: no words are spo- * ken, but oh,|Oh _ no _ caught|up in the mid- dle I cry _|
+w: |||
+"Gm7" G2 F"F/A"F GAz>C |"Fsus4/Bb" FFFF CC"C" z2 |"C/D" z d-A"Dm7"c- A2 z c | %55
+w: _ just a lit- tle when|I think of let- ting go.|Oh, _ no, _ gave|
+w: |||
+"Bb" BBA"F/C"A G"C"GzG/_A/ |1"Gm7" G2 z"F/A" F/F/ GA z2 |"Bbm9" z/ F3/2F>F- FF-"F/C"F/_D/C :|2 %58
+w: up on the rid- dle I cry _|_ just a lit- tle|I cry, I _ cry _ _ _|
+w: |||
+"Gm7" G2"F/A" AF FFzC ||"Bbm9" c B2 _A"F/C" A G2 G- |:[K:Ab]"Fm9""^(G)" GF"Fm" F6 | %61
+w: _ just a lit- tle when|he plays pi- an- o in|the dark. _|
+w: |||
+"Cm/Eb""Cm7/Bb" z8 |"Fm9""Fm" z8 |"Cm7/Eb""Cm7/Bb" z8 :| z8 |] %65
+w: ||||
+w: ||||
+V:2
+|: x8 | x8 | x8 | x8 :|2 x8 || x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | %18
+w: ||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 |[K:F] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+w: ||||||||||||||||||
+ x8 |1 x8 |[K:Ab] [ca]3 [Bg]- [Bg] [Ge]2 [Ge]- |:"Eb/Db""^(E)\n" [Ge] [Gf]2 [GB]- [GB]4 | %40
+w: ||||
+"Ab/C" cde"Db"d- d c2"Eb" B- | B4- (3B2 A2 G2 :|2 c"Bbm9" B2 A"Ab/C" A G2 G- :|"Fm9" GF"Fm" F6 | %44
+w: ||He plays pi- an- o in|* the dark.|
+ x8 | x8 | x8 || x8 | x8 | x8 |:[K:F] x8 | x8 | x8 | x8 | x8 | x8 |1 x8 | x8 :|2 x8 || x8 |: %60
+w: ||||||||||||||||
+[K:Ab] x8 | x8 | x8 | x8 :| x8 |] %65
+w: |||||
+

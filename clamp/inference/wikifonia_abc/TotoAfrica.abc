@@ -1,0 +1,77 @@
+X:1
+T:Africa
+C:Toto
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:B
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 65
+V:1
+|:"A" C3/2CCC/ C"G#m"B,"C#m" E2- | E8 |"A" C3/2CCC/ C"G#m"B,"C#m" E2- | E8 :| %4
+w: ||||
+w: ||||
+w: ||||
+"B"z/B,/F/F/ F2"D#m" F<F GA/"G#m"B/- | B2 z2"^/F#" D<D EF/"A/E"F/- | F<E ED"E/F#" C<C CB,/D/- | %7
+w: I hear the drums e- cho- ing to- night,|_ she hears on- ly whis-|_ pers of some qui- et con- ver- sa-|
+w: |||
+w: |||
+[M:2/4]"G#m" D2- D/C/B, |[M:4/4]"A" C2 z2 z"G#m" z"C#m" z2 |:"B"zF F<F"D#m" FF G/A"G#m"B/- | %10
+w: _ _ _ _|tion.|She's com- ing in 12: 30 _ flight,|
+w: ||The wild dogs cry out in the night|
+w: |||
+ B2z>D"^/F#" D/DE/- EF |"A/E" FE/E/- ED"E/F#" CC/C/- CB, |[M:2/4]"G#m" D2- D/C/B, | %13
+w: _ the moon- lit winds _ re-|flect the stars _ that guide me t'wards _ sal-|va- _ _ _|
+w: _ As they grow rest- _ les|long- ing for _ some so- lit- ary, _ com-|_ _ _ pan-|
+w: |||
+[M:4/4]"A" C2 z2 z"G#m" z"C#m" z2 |"B"zF FF/F/-"D#m" F/FF/ GA/B/- |"G#m" B2 z2"^/F#" D/D/D/E/- EF | %16
+w: tion.|| stopped an old _ man a- long the way,|_ hop- ing to find _ some|
+w: y,|I know that I * must do what's right _|_ Sure as Kil- * i- man-|
+w: |I 3rd time * * instrumental * * * *||
+"A/E" FE/E/- E/D/C-"E/F#" C>B, CB, |[M:2/4]"G#m" D2- D/C/B, |[M:4/4]"A" C2 z2 z"G#m" z"C#m" z2 | %19
+w: old for- got- * ten words _ or an- cient|me- _ _ lo-|dies,|
+w: ja- ro ris- * es like _ an emp- ress|above the Serengti _|_|
+w: |||
+"B"zF FF"D#m" FFGA |"G#m" B2 z2 d/de/- ef |"A" f/ee/- e/d/"G#m"e- e2"C#m" z2 | z8 | %23
+w: He turned to me as if to|say Hur- ry boy _ it's|wait- ing there * for you _||
+w: I seek to cure what's deep in-|side Fright- ened of this _|thing that I've be- _ come. _||
+w: |* Pret- ty boy _ she's|wait- ing there * for you. _||
+"_its""F#m"z=a/a/ aa/"D"a/- aa/a/- a/a/a/"A"a/- | =a2>g2"E" g4 |"F#m"z=a a/a/a/a/"D" a/aa/- aa | %26
+w: Gon- na take the life _ that dragged _ me a- way|_ from you,|there's noth- ing that a hun- dred men _ or|
+w: |||
+w: |||
+"A" =a>a ag"E" g4 |"F#m"z=A AA/"D"f/- f2 fe |"A" e3c/"E"B/-"^3rd" B4"^time" | %29
+w: more could ev- er do.|I bless the rains _ down in|Af- ri- ca, _|
+w: |||
+w: |||
+"^to""F#m"z=a/a/ aa"D" aa/a/- a<a |"A" =aa/a/- a<g"C#m" g2- g/f/e |"E" g2- g/=a/g"F#m" f2"G#m" z2 | %32
+w: Ø na take some- time to do _ the|things we nev- * er had. _ _ _|_ _ _ _ _|
+w: gon- * * * * * * * *|||
+w: |||
+"A" C3/2CCC/ C"G#m"B,"C#m" E2- | E8 |"A" C3/2CCC/ C"G#m"B,"C#m" E2- | E8 :: %36
+w: ||||
+w: ||||
+w: ||||
+"F#m""^4 times"z=A AA/"D"f/- f2 fe |"A" e3c/"E"B/- B4 :|"F#m"z/=a/a/a/ aa/a/-"D" aa/a/- aa | %39
+w: I bless the rains _ down in|af- ri- ca. _|I'm gon- na take some- * time to do _ the|
+w: |||
+w: |||
+"A" =aa/a/- a<g"C#m" g2- g/f/e |"E" g2- g/=a/g"F#m" f2"G#m" z2 |:"A" C3/2CCC/ C"G#m"B, E2-"C#m" | %42
+w: things we nev- * er had. _ _ _|_ _ _ _ _||
+w: |||
+w: |||
+ E8"^repeat""^fade" :| %43
+w: |
+w: |
+w: |
+V:2
+|: x8 | C,>C, C,2 C,>C, C,2 | x8 | C,>C, C,2 C,>C, C,2 :| x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 |: %9
+ x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 | x8 | x8 | %23
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | C,>C, C,2 C,>C, C,2 | x8 | %35
+ C,>C, C,2"^2nd" C,>"^go"C,"^to""^time" C,2 :: x8 | x8 :| x8 | x8 | x8 |: x8 | %42
+ C,>C, C,2 C,>C,"^to" C,2 :| %43
+

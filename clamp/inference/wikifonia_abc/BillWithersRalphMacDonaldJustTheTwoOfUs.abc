@@ -1,0 +1,19 @@
+X:1
+T:Just The Two Of Us
+T:Just The Two Of Us
+T:Bill Withers
+C:Bill Withers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"Bbm7/Db" z AAA"C7" GGAB |"Fm" c2 de"Ebm7" fe"Ab7"cB |"Bbm7/Db" A>Acc/B/-"C7" BAcB | %3
+"Fm" A<F z2 z4 |"Bbm7/Db" z AAA"C7" GGAB |"Fm" c2 de"Ebm7" fe"Ab7"cB | %6
+"Bbm7/Db" A>A c/BA/"C7" BAcB |"Fm" A<F z2 z2 cA |"Bbm7/Db" BA/A/ z2"C7" z2 ec | %9
+"Fm" ec/e/- e/ef/-"Ebm7" fe"Ab7"cA |"Bbm7/Db" BA/A/ z2"C7" z2 BA |"Fm" BA/F/ z2 z2 cA | %12
+"Bbm7/Db" BA/A/ z2 z2"C7" ec |"Fm" ec/e/- e/ef/-"Ebm7" fe"Ab7"cA | %14
+"Bbm7/Db" BA/A/ z2"C7" z2 B/AF/- |1"Fm" F6 z2 :|2"Fm" F6 z2 |] %17
+

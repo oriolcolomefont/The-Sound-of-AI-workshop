@@ -1,0 +1,28 @@
+X:1
+T:The Hour Of Parting
+T:The Hour Of Parting
+T:Mischa Spoliansky
+T:Gus Kahn
+C:Mischa Spoliansky
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G8- |"G7" GGAB"G+" ^d2 BA |"C" E8 |"D7" z E^FB e2 BA |"G7" E8 |"C+7" z DE^G d2 GE |"Dm7" D8 | %7
+w: Love,|* the hour of part- ing is|near,|And in my heart I can|hear|The song we heard when I|met|
+"Ebm" ^D8 |"C" G8 |"G7" z GAB"G+" ^d2 BA |"C" E4 z4 |"D7" z E^FB e2 BA |"G7" E8 | %13
+w: you.|Love,|it was a night of ro-|mance,|that all be- gan with a|dance.|
+"F" z DEG"G7" A2 d2 |"C" c8- |"B7sus4" c2 e2 e2 e2 |"E7" e4"Bm" B4 |"E7" z2 ee- eB e2 | %18
+w: I nev- er will for-|get|* a dream- y|tan- go|I still * hear them|
+"A7" e4 B4- | B2 z2 z4 |"D7" d4 A4 | z2 dd- dA d2 |"G7" e2 z2"Dm7" d2 z2 |"B7" B2 z2"G7" A2 z2 | %24
+w: play- ing||Tan- go|they played * while we|two were|say- ing,|
+"C" G8- |"G7" GGAB"G+" ^d2 BA |"C" E8 |"D7" z E^FB e2 BA |"G7" E8 | z DEG"Am6" A2"G7" d2 |"C" c8- | %31
+w: Love,|* we know that love can not|die,|But now we're say- ing "Good-|bye"|The part- ing hour is|here.-|
+ c2 z2 z4 |] %32
+w: |
+

@@ -1,0 +1,28 @@
+X:1
+T:Tears for alice
+T:You're My Thrill
+C:David lanz
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm7b5" c3 G |"C7b9" d4 |"Gm7b5" c B ^F G |"C7b9" d c3 |"Cm7b5" c B _G B |"Gb7" d"F7b9" c3 | %6
+w: You're my|thrill,|you do some- thing|to me,|you send chills right|thru me,|
+"Bbm7" F/F/F/F/"Gb9" A A |"Fm7" F F"Db9" A2 |"Gm7b5" c3 G |"C7b9" d4 |"Gm7b5" c B ^F G | %11
+w: and I look at you, 'cause|you're my thrill.|You.re my|thrill,|how my pulse in-|
+"C7b9" d"Cm7b5" c3 | c B _G B |"Gb7" d"F7b9" c3 |"Bbm7" F/F/F/F/"Gb9" A A |"Fm7" F F"Db9" A2 | %16
+w: creas- es,|I just go to|piec- es|when I look at you, 'cause|you're my thrill.|
+"Cm7" F4 |"F7" e4 |"Bbm7" e d"F7" =E F |"Bbm7" e d3 |"Dm7" G4 |"G7" f4 |"C" f =e"C/G" =B c/d/ | %23
+w: Mmmm,|Mmmm|noth- ing else could|mat- ter,|Mmmm,|Mmmm,|here's my heart on a|
+"Gb9" e d"F9" e d |"Gm7b5" c3 G |"C7b9" d4 |"Gm7b5" c B ^F G |"C7b9" d c3 |"Cm7b5" c B _G B | %29
+w: sil- ver plat- ter.|Where's my|thrill?|Why this strange de-|si- re|that keeps mount- ing|
+"Gb7" d"F7b9" c3 |"Bbm7" F/F/F/F/"Gb9" A A |"Fm7" F F"Db9" A A |"G7" F4 |"Gbmaj7" F4 |"Fm" F4- | %35
+w: high- er?|When I look at you I|can't sit still, 'cause|you're|my|thrill.|
+ F4 |] %36
+w: |
+

@@ -1,0 +1,24 @@
+X:1
+T:Danny Boy
+T:Danny Boy
+T:Traditional Irish Melody
+T:Fred E. Weatherly
+C:Londonderry Air, Traditional Irish tune
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z E F G |"Fmaj7" A3 G |"F" A d c A |"Bb" G F D2 | z F A B |"Fmaj7" c3 d |"Dm7" c A F A |"Gm7" G4 | %8
+w: Oh Dan- ny|boy the|pipes the pipes are|call * ing|from glen to|glen and|down the moun- tain|side|
+"C7" z E F G |"Fmaj7" A3 G |"F7" A d c A |"Bb" G F D C | D E F G | A3 B |"C7" A G F G |"F" F4 | %16
+w: the sum- mers|gone and|all the ros- es|fall * ing *|* its you its|you must|go and I must|bide|
+"Bb" z"F" c d e | f3 e |"Bb" e d c d |"F" c A F2 |"C7" z c d e |"F" f3 e |"Bb" e d c A |"G7" G4 | %24
+w: but come you|back when|sum- mers in the|mea * dow|or when the|val- leys|hushed and white with|snow|
+"C7" z c c c |"F7" a3 g |"Bb" g f d f |"F" c A F2 |"Bbm" z E F G |"F" A d c A |"Gm7" G F"C7" D E | %31
+w: Its I'll be|here in|sun- shine or in|sha * dow|Oh Dan- ny|boy, oh Dan- ny|boy I love you|
+"F" F4 | f2 z2 |] %33
+w: so.||
+

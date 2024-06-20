@@ -1,0 +1,21 @@
+X:1
+T:By the river of the roses
+T:By the rive of the roses
+T:Joe Burke, Marty Symes,
+C:Joe Burke, Marty Symes,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G |"C" G G c d | e e"F" f e |"C" e2 c2- | c3 G | G G c d | e f/e/ e d |"G7" B4- | B3 G | %9
+w: I|met her by the|ri- ver of the|ro- ses|* the|sweet- est girl this|side of the Al- a-|mo|* I|
+ G G d e | f f g f | e2 d2- | d3 G | G G B d | g g/f/ e d |"C" c4 | c c/c/ c/c/ c |"F" c2 A2 | %18
+w: left her by the|ri- ver of the|ros- es|* with|tear- dimmed eyes she|whis- pered I'll miss you|so|all the ros- es have fa-|ded since|
+ A c/c/ d c |"C" e4 | e e/e/ e e |"D7" e2 d2- | d c B c |"G7" d d e d | f3 G | G"C" G c d | %26
+w: we- ve been * a-|part|but the one rose she|gave me|* will al- ways|bloom with- in my|heart and|some- day by the|
+ e e"F" f e |"C" d2 c2- | c3 A |"G7" G A B d | g/g/ f e d |"C" c4- |"F" c3"C" z |] %33
+w: ri- ver of the|ro- ses|* I|dont know when but|we'llmeet * a gain I|know,||
+

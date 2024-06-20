@@ -1,0 +1,28 @@
+X:1
+T:Rudolph The Red-Nosed Reindeer
+C:Johnny Marks
+Z:Creative Commons BY
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ A/B/ |"F" c/ A F/"Em7" B/ G E/ |"Dm7" A/ F D/"Cmaj7" A/ G3/2 |"Fmaj7" c/ A F/"Em7" B/ G E/ | %4
+w: You know|dash- er and dan- cer and|pran- cer and vix- en|com- et and cu- pid and|
+"Dm7" G/ F E/"Cmaj7" A/ G3/2 |"Am/C" E E"E7/B" E E |"Am" A3 A/B/ |"D9" c c c/ B A/ | %8
+w: don- ner and blitz- en|but do you re-|call the most|fa- mous rein- deer of|
+"G7sus4" G2-"G7" G2 ||"C" G/ A G/ E c | A G3 | G/A/G/A/ G"Ebdim" c |"G7" B4 |"Dm7" F/ G F/"G" D B | %14
+w: all *|Ru- dolph the red- nosed|Rein- deer|had a ver- y shin- y|nose.|and if you ev- er|
+"Em7" A"G7" G3 |"Dm7" G/A/G/A/"G+" G A |"C" E4 |"C" G/ A G/ E c | A G3 | G/A/G/A/ G"Ebdim" c | %20
+w: saw it|you could e- ven say it|glows|all of the oth- er|rein- deer|used to laugh and call him|
+"G7" B4 |"Dm7" F/ G F/"G" D B |"Em7" A"G7" G3 |"Dm7" G/A/G/A/"G+" G A |"C" E4 |"F" A A c A | %26
+w: names|they nev- er let poor|Ru- dolph|Join in an- y Rein- deer|games.|Then one fog- gy|
+"C" G E G2 |"G7" F A G F |"C" E4 |"G7" D E G A | B B B2 |"C" c c B A |"G7" G F/D/- D z | %33
+w: Christ- mas Eve|San- ta came to|say|Ru- dolph with your|nose so bright|won't you guide my|sleigh to- night *|
+"C" G/ A G/ E c | A G3 | G/A/G/A/ G"Ebdim" c |"G7" B4 |"Dm7" F/ G F/"G" D B |"Em7" A"G7" G3 | %39
+w: Then all the Rein- deer|loved him|and they shout- ed out with|glee|"Ru Dolph the Red Nosed|Rein Deer"|
+"Dm7" G A"G+" G A |"C" G2 d2 | c4 |] %42
+w: You'll go down in|His- to-|ry-|
+

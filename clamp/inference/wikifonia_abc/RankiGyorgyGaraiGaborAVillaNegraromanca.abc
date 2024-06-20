@@ -1,0 +1,17 @@
+X:1
+T:A Villa Negra románca
+C:Ránki György
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z6 z C |"C7" cccc =Bc_BG | cccc =Bc_BG | cccc =BcAG |"Fm" F6 z2 |"B7" B2 BB =AB_AF | %6
+w: De|jött egy- szer egy vas- tag ür- ge,|lux- us- au- tón el- te- rül- ve,|al- ku- dott a ház- ra, pént kí-|nált,|Ná- lunk ma- radt a pén- ze,|
+ B2 BB =AB_AF | B2 BB =AB_AF |"Eb" GBGE"G7" D2 z C |:"Cm" GGGG BBGE | G2 G2 z2 z C | GGGG BBGE | %12
+w: á- mult, mit kap cse- ré- be,|á- pol- ta a dok- tor- ja|há- rom hé- ten át. A|Vil- la Neg- ra nem a- pá- ca|zár- da, a|Vil- la Neg- ra nem fé- nyes lo-|
+"Fm" F6 z F | FFFF AAFD | F2 FF z cBA |1 G2 G2"G7" ^FGED |"Cm" C6 z C :|2 G2 G2 ^FGB>A |"Cm" c8 |] %19
+w: kál, Va-|gány le- gény ha szép- sze- rén be-|zör- get itt, E csön- des|ház- ban ol- tal- mat ta-|lál. A|ol- tal- mat ta- * *|lál.-|
+

@@ -1,0 +1,31 @@
+X:1
+T:At The End Of The Day
+T:At The End Of The Day
+T:Donald O'Keefe
+C:Donald O'Keefe
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 B,B, ||S"Eb" E4 EE |"Cm" E4 G2 |"Gm" B4 B2 |"Eb7" B6 |"Ab" c4 c2 |"Fm7" c2 d2 e2 | %7
+w: At the|end of the|day Just|kneel and|say|"Thank- you|Lord for my|
+"Eb/G" B4 G2 |"C7b9" B4 B2 |"Fm7" A3 B c2 |"Bb7" F4 GA |"Eb" G3 A B2 |"Cm" E4 FG |"Fm" F4 GA | %14
+w: work and|play. I've|tried to be|good, For I|know that I|should".. That's a|prayer for the|
+"Bb7" D2 E2 F2!dacoda! ||"Eb" E6- | E4 B,2 ||[M:6/8]"Fm7" F2 F FEF |"Fdim" G2 G"Eb" E2 B, | %19
+w: end of the|day.|* So|when the new dawn be-|gins to break, Just|
+"Fm7" AAA A2 G/A/ |"Bb7" B2 B"Eb" G2 E |"Ab" ccc cde |"Eb" B2"Bb" A"Eb" G2"Edim" B/c/ | %23
+w: lift up your eyes, Let your|heart a- wake, Be|rea- dy to meet what the|day may send, and be|
+"Bb" d>^cd FB"Ebm"=c |"F7" ddc"Bb" B3 |"Fm7" FFF FEF |"Bb7b9" G^FG"Eb" E2 B, | %27
+w: rea- dy to greet ev- 'ry|man as a friend.|No- bod- y knows what a|pow'r you have found, So|
+"Fm7""Fm7" AAA"Fm7b5" AGA |"Bb7" B>=AB"Eb" G3 |"Ab" ccc e2 d/c/ |"Eb" B>cB"F7" E2"Abm" F | %31
+w: do what you can for the|oth- ers a- round,|Car- ry them high when they|seem to be low as|
+"Eb" G2"Gm" B"Fm7" A2"Bb7" F ||[M:3/4]"Eb" E2 B,C EG!D.S.! |"Fm7" B4 B,B,!D.S.! || %34
+w: on your way you|go. * * * *|* At the|
+"Eb""Eb""^CODA" e4"Bbm6" G2 |"Ab" A2 c2"Abm""Abm" e2 |"Eb" e6 |] %37
+w: day. *|||
+

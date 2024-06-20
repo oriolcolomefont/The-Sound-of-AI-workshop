@@ -1,0 +1,33 @@
+X:1
+T:Liebestraum
+T:Liebestraum
+T:Transcription:  R. Miller
+T:Franz Listz
+C:Franz Listz
+Z:All Rights Reserved
+L:1/4
+M:6/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |"G" B3 B3 |"B7" B3- B2 B |"E7" B2 B c2 B |"A7" B3 E z E |"D7" E F G B2 A |"G" G3 z z D | %7
+ B3 B3 |"B7" B3- B2 B |"E7" B2 B c2 B |"A7" e3 z z E |"D7" E F G B2 A |"G" G3 z z G | %13
+"Cm" G2- G/F/ G2- G/A/ |"G" B3 z z z/ B/ |"Em" B2- B/^A/ B2- B/B/ |"B" B2 z4 |"G#m" ^d3 =d3 | %18
+"Eb" _e3 _B3 |"Cm" c3- c2 G |"D" A3"Cm" c2 _B |"D" A ^G A"Cm" c2 _B |"D" A ^G A"Cm6" _e3 | %23
+ e d c _B A G |"D" ^F3 !fermata!d2 c |"Bb" d3 d3 |"D7" d3 z z d |"G7" d2 d _e2 d |"C7" d3 G z G | %29
+"F7" G A _B d2 c |"Bb" c _B"Gdim" G"Bb" =F z =F | d3"D7" d3 |"Ddim" d3"G7" z z d | %33
+"Cb" d2 _e d2 _e |"Dbm" _f3- f2 _A |"Gb7" _A _B _c _e2 _d |"Cb" _c z z z2 z/ =B/ | %37
+"Em" B2- B/^A/ B2- B/^c/ |"B" ^d2- d/^c/ B z z/ d/ |"G#m" ^d2- d/=d/ _e2- e/=f/ |"Eb" g3 g3 | %41
+"G7" g3- g2 z/ g/ |"Bbm6" g2 g"C7" _a2 g |"F7" g3 c z c |"Bb7" c d _e g2 d | %45
+"Eb" ^e d"Cdim" c"Eb" _B z B | g3"G7" g3 |"Gdim" g6 |"Em" g3"Gdim" g3 |"A7" g2 ^f =e F G | %50
+"Am7" B3 A z g |"A7" g3/2 f/ (3a/g/f/ e F G |"Am7" B3 A z g | %53
+"Gdim" g3/2 f/a/g/"A7" b/a/ f' z/ e'/ |"D7" d'/c'/b/a/g/f/ e F G |"Am7" B2 A d2 c | f2 e b2 a | %57
+"D7" e'6 | d'3- d'3 |"G" B3 B3 |"B7" B3- B z B |"E7" B2 B c2 B |"A7" B3 E z E |"D7" E F G B2 A | %64
+"G" G3 z z D | B3 B3 |"B7" B3- B z B |"E7" B2 B"Ddim" c2 B |"Em6""Edim" e6 |"Cm6" z3 A3 | %70
+"Dm6""Ddim" d6 |"Bbm6" z3 G3 |"Am7" c3-"Cm6" c2 B |"D7b9" B2 A B2 A |"G" G6 | %75
+ B2"B7" B"E" B"Fm" c"Ddim" B |"Gdim" e z z4 |"F" A2"A7b5" A"D" A B"Cdim" A |"Ddim" d z z4 | %79
+"Ab" c6 |"Am7" A3-"D7" A2 B |"G" G6 |"C" G6 |"G" G6 |] %84
+

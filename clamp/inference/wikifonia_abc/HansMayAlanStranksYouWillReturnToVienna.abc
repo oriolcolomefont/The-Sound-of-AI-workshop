@@ -1,0 +1,22 @@
+X:1
+T:You Will Return To Vienna
+T:You will return to Vienna
+T:Hans May
+T:Alan Stranks
+C:Hans May
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" c f e | d c3/2 B/ |"G" A3 |"G7" G3 |"C7" e d c | B A3/2 G/ |"F" E3 | D3 | C F3/2 E/ | %9
+w: You will re-|turn to Vi-|en-|na|Hearts al- ways|yearn for Vi-|en-|na|Spar- kle of|
+"Gm" D3 |"A7" E A3/2 G/ |"Dm" F3 |"G7" G f3/2 e/ | d3 |"C7" G e3/2 d/ | c3 |"F" c f e | d c3/2 B/ | %18
+w: wine|Mu- sic di-|vine|Star light a-|bove|laug- ter and|love|Tho hearts may|sigh in Vi-|
+"G" A3 |"G7" G3 |"C7" e d c | B A3/2 G/ |"F" E3 | D3 | C F E |"Gm" D G F |"A7" E A3/2 G/ |"Dm" F3 | %28
+w: en-|na|dreams nev- er|die in Vi-|en-|na|hope lights the|gloom and the|li- lacs still|bloom|
+"Gm7" F D F | D F3/2 A/ |"C7" G3 |"F" F3 :|"Gm7" f d f | d f3/2 d/ |"C7" e3 |"F" f3 |] %36
+w: til you re-|turn to Vi-|en-|na|Til you re-|turn to Vi-|en-|na!|
+

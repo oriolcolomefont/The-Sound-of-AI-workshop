@@ -1,0 +1,43 @@
+X:1
+T:Just Say I Love Her (Dicitencello vuie)
+C:Rodolfo Falvo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"Gmin" d"_FLUTE INTRO"e dc/d/ c2 G2 |"Cmin" de dc/d/ c2 E2 |"D7" AB AG/A/ G2 ^FD/F/ | %3
+w: |||
+"Gmin" G z G2 B2- Bd |"Cmin" d4 c4 |"D7" z2 z c d c2 B/A/ |"Gmin" cB-"Bb " B4 z2 | %7
+w: * Just say * I|love her,|I've loved her from the|st- art *|
+"Ebmaj7" z2 z G"D " BG BG |"Gmin" B4"Amin7" A4 |"D " z2 z G"D7" BA ^FA |"Gmin" D6"Bb " z2 | %11
+w: and tell her how I'm|yearn- ing|to say what's in my|heart.|
+"Gmin" z2 G2 B2 d2 |"Cmin" d4 c4 |"D7" z2 z c d c2 B/A/ |"Gmin""Bb " B6 z2 | %15
+w: Just say I|need her|as ro- ses need the|rain|
+"Ebmaj7" z2 z G"D7" BG BG |"Gmin" B4"Amin7" A4 |"D " z2 z A"D7" BA- AG/^F/ |"Gmin" AG- G4 z2 | %19
+w: and tell her that with-|out her|my dreams are * all in|va- in. *|
+"Bb " z8 |"F7" z F Ac e3 f |"Eb " e>d-"Gmin7" d4 z d/B/ |"F7" F3 A/c/ e3 f/e/ |"Bb " d4 z4 | %24
+w: |If you should chance to|meet her * a\- ny-|time, a\- ny place, a\- ny-|where,|
+"D " D3 ^F/A/"D7" c3 d |"Eb " cB- B4 z2 |"Cmin7" B2 BB cB Bc |"D " d z d2"D7" d2 d2 |"Cmin" d4 c4 | %29
+w: I was a fool to|leave her. *|Tell her how much a fool can|care. And if she|tells you|
+"D7" z2 z c d c2 B/A/ |"Gmin""Bb " B6 z2 |"Ebmaj7" z2 z G"D " BG BG |"Gmin" B4"Amin7" A4 | %33
+w: she's lone- ly now and|then,|won't you just say I|love her|
+"D " z2 z A"D7" BA- AG/^F/ |"Gmin" A"_FLUTE SOLO"G-"D7" G4 z2 |"Gmin" z2 G2 B2 d2 |"Cmin" d4 c4 | %37
+w: and want her * back a\-|ga- in. *|||
+"D7" z2 c2 d c2 B/A/ |"Gmin""Bb " B6 z2 |"Ebmaj7" z2 z G"D " BG BG |"Cmin" E4 E4 | %41
+w: ||||
+"D7" z2 z A B A2 G/^F/ |"Gmin" G6 z2 |"Bb " z8 |"F7" z F Ac e3 f |"Eb " e>d-"Gmin7" d4 z d/B/ | %46
+w: |||If you should chance to|meet her * a\- ny-|
+"F7" F3 A/c/ e3 f/e/ |"Bb " d4 z4 |"D " D3 ^F/A/"D7" c3 d |"Eb " cB- B4 z2 |"Cmin7" B2 BB cB Bc | %51
+w: time, a\- ny place a\- ny-|where,|I was a fool to|leave her, *|tell her how much a fool can|
+"D " d z d2"D7" d2 d2 |"Cmin" d4 c4 |"D7" z2 z c d c2 B/A/ |"Gmin""Bb " B6 z2 | %55
+w: care. And if she|tells you|she's lone- ly now and|then|
+"Ebmaj7" z2 z G"D " BG BG |"Gmin7" B4"Amin7" A4 |"D7" z2 z A BA- AG/^F/ |"Gmin" AG- G4 z2 | %59
+w: won't you just say I|love her|and want her * back a\-|ga- in. *|
+"D " z2 z G"D7" BG BG |"Gmin7" B4"Amin7" A4 |"D7" z2 z A BA- AG/^F/ |"Gmin" A"_FLUTE"G-"D7" G4 z2 | %63
+w: Won't you just say I|love her|and want her * back a\-|ga- in. *|
+"Gmin" de dc/d/ c2 G2 |"Cmin" de dc/d/ c2 E2 |"D7" AB AG/A/ G2 ^FD/F/ |"Gmin" G8 |] %67
+w: ||||
+

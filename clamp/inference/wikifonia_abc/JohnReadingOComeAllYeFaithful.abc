@@ -1,0 +1,23 @@
+X:1
+T:O Come All Ye Faithful
+C:John Reading
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+ G |"G" G2 D G |"D" A2 D2 |"G" B A B c | B2"D" A G |"A7" G2 F E |"D" F G A B | F2"A7" E>D |"D" D4 | %9
+w: O|come all ye|faith- ful,|joy\- ful and tri|tri\- um\- phant|come ye, o|come * ye to|Beth\- _ le\-|hem.|
+w: |Sing choirs of|an- gels,|sing in ex- al\-|ta\- tion, _|sing all ye|cit- i- zens _|hea\- ven a\-|bove;|
+w: ||||||of * * *|||
+"G" d2 c B |"D7" c2"G" B2 |"D" A B"A" G A |"D" F>E D G |"G" G F G A | G2 D B | B A B c | %16
+w: Come and be-|hold Him,|born the King of|An\- * gels, O|come let us a\-|dore Him, O|come let us a\-|
+w: Glo- ry to|God *|in _ the _|high\- _ est, *||||
+w: |||||||
+ B2"D" A B |"C" c B"D7" A G | F2"G" G c | B2"D7" A>G |1"G" G3 z :|2"G" G3 x |] %22
+w: dore Him, O|come let us a\-|dore Him, *|Christ * the|Lord.|Lord.|
+w: ||||||
+w: ||||||
+

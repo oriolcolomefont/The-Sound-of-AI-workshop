@@ -1,0 +1,37 @@
+X:1
+T:Diana
+T:Diana
+C:Paul Anka
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Eb" G G G G |"Cm" G G G2 |"Fm7" A A A A |"Bb7" B A F2 |"Eb" G G G G |"Cm" G G G2 |"Fm7" A A A A | %7
+w: I'm so young and|you're so old|this my dar- ling|I've been told.|I don't care just|what they say|'cause for ev- er|
+"Bb7" B A F2 |"Eb" B B B B |"Cm" c c c2 |"Fm7" c c c c |"Bb7" d d d2 |"Eb" e4 |"Cm" e4 | %14
+w: I will pray,|you and I will|be as free|as the birds up|in the tree|Oh|please|
+"Fm7" c3 c |"Bb7" B3 D |"Eb" F E3- |"Fm7""Bb7" E4 |"Eb" z4 |"Fm7""Bb7" z4 |"Eb" G G G G/G/ | %21
+w: stay with|me di-|an- a|_|||Thrills I get when you|
+"Cm" z/ G G/ G2 |"Fm7" z/ A A/ A A |"Bb7" B A F2 |"Eb" G G G G/G/ |"Cm" G G G2 |"Fm7" A A A A | %27
+w: hold me close,|oh my dar- ling|you're the most.|I love you, but do|you love me?|Oh Di- a- na,|
+"Bb7" B A F2 |"Eb" B B B B |"Cm" c c c2 |"Fm7" c c c c/c/ |"Bb7" d d d2 |"Eb""Cm" e4 | e4 | %34
+w: can't you see|I love you with|all my heart,|and I hope we- will|nev- er part?|Oh,|please|
+"Fm7" c3 c |"Bb7" B3 D |"Eb" F E3- |"Fm7""Bb7" E4 |"Eb" z4 |"Eb7" z4 |"Ab" z/ c c/ c/ c3/2 | %41
+w: stay with|me Di-|an- a|_|||Oh my dar- ling|
+"Abm" z/ _c c/ c/ c3/2 |"Eb" z/ B B/ B B |"Ebmaj7" z/ B B/"Eb7" B/ B3/2 |"Ab" z/ c c/ c2 | %45
+w: oh my lov- er|tell me that there|is no o- ther|I love you|
+"Abm" z/ _c c/ c3/2 c/ |"Eb" B z/ B/"Edim7" B z/ B/ |"Fm7" B/B/B/B/"Bb7" B/B/B/B/ |"Eb" G G G G | %49
+w: with my heart Oh|oh oh oh oh|oh _ _ _ _ _ _ _|on- ly you can|
+"Cm" G G G2 |"Fm7" A A A A |"Bb7" B/B/A/ F/- F2 |"Eb" G G G/G/G/G/ |"Cm" G G G2 | %54
+w: take my heart,|on- ly you can|tear it a- part. _|When you hold me in your|lov- ing arms,|
+"Fm7" A A/ A A/A/A/ |"Bb7" B A F2 |"Eb" B B B/B/B/B/ |"Cm" c c c2 |"Fm7" z/ c c/ c/c/c/c/ | %59
+w: I can feel you giv- ing|all your charms.|Hold me dar- ling ho ho|hold me tight,|squeeze be ba- by with a-|
+"Bb7" d d d2 |"Eb" e4 |"Cm" e4 |"Ab" c3 c |"Bb7" B3 D |"Eb" F E3- | E4 |] %66
+w: all your might.|Oh|please|stay by|me, Di-|a- na|_|
+

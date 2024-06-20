@@ -1,0 +1,28 @@
+X:1
+T:Tuff (Transcribed Blues Sax)
+C:John Henry Cannon, Jr.
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Alto Sax" snm="A Sax."
+%%MIDI channel 4
+%%MIDI program 65
+V:1
+ c z c<_d- d/ z3/2 c2 |"Bb " B8- | B2 z2 z B2 F- | F2 B2 _d=d dg | f8- | f2 fe d4- | d4 z4 | %7
+"F " f8- |"F7" f2 ed c4- | cF _d4 Bc |"Bb " B4 GF G2- | G2 FE D z2 c |"F7" z2 c z z c (3_dc=B | %13
+"Bb " B8- | B2 z2 z2 z B- | BF BB (3ddg (3dgd | f8- | f2 gf =e_e d2- | d2 z2 F2 G/F/=E/F/ | %19
+"F " f8 |"F7" z2 ef (3dfd c2 | z F _d2- dB cF |"Bb " (3:2:2G B2- B2- BF/^F/ GB | %23
+"Gmin" G F2 E D z2 B- |"Bb7" BB c2 BA Bg- |"Eb " g4- gf e2- | e2 z2 g4 | bc' b4 (3c'bg | %28
+"Bb " f6- ff |"Gmin" ^fg _g=f d4- |"Bb7" dB c2 d2 cB |"Eb " g4 f=e _e2- | e2 z2 g4 | %33
+ bc' b/4c'/4b3/2- b2 g2 |"Bb " f4"Bb7" f2 _a2 |"Ab " _a2 a2 f2 z c |"F7" _d/ z3/2 c/d/ z z/ c7/2 | %37
+"Bb " B8- | B2 z2 z2 z B- | BF BB- B2 dg/d/ | f8 | ^fg/_g/ =f/_f/ (3:2:2ed/- d4- | %42
+ d2 FG A(3A/B/A/ GF |"F " f8- | f2 ef (3d/e/d/ c3- | cF _d4 BG |"Bb " B4 F/^F/G/B/ =e/f/b/f/ | %47
+"Gmin" _f/e/_d- d/B/G/F/ B4 |"Bb7" z B c2 B c2 B |"Eb " g6 e2- | e2 z2 b4 | %51
+ c'b g/4>b/4g3/2- g2- g/e/c/B/ |"Bb " (3:2:2_d/=df- f2- f/f/g/4_a/4g/4f/4 a2- | %53
+"Gmin" a2 g/_a/g/f/ B4- |"Bb7" Bc- c4 cB |"Eb " g6 e2- | e2 z2 b4 | bb b4- bb |"Bb " b2 d'6- | %59
+ d'6 z c |"F7" _d/ z3/2 c/d/ z z/ c7/2 |"Bb " B8- | B2 z2 z2 z B- | BF BB- B2 _d/=d/g/d/ | f6 z g | %65
+ bb gb/g/4b/4 g/<f/- f2 z | F2 G/G/A/[BA]/ B/c/c/d/ d/e/e |"F " f8- | f2 ef de/4d/4c/- c2- | %69
+ cF _d2 Bc FG |"Bb " B2 z b gf e/4f/4e/_d | B_A F=A B2 z c- |"F7" c2 z2 c2 z2 | z c- c6- | %74
+ c=B- B2- B/ _B7/2- |"Bb " B8 |] %76
+

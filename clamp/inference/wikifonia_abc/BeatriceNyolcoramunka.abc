@@ -1,0 +1,17 @@
+X:1
+T:Nyolc óra munka
+C:Beatrice
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 66
+V:1
+"F" F2 FC F2 FE- |"C" E E2 C EE C2 |"G" D2 DD CCDE- |"C" E6 z2 |"F" F2 FC F2 FE- | %5
+w: Nyolc ó- ra mun- ka, nyolc|* ó- ra pi- he- nés,|nyolc ó- ra szó- ra- ko- zás,||Nyolc ó- ra mun- ka, nyolc|
+"C" E E2 C EE C2 |"G" D2 DC EEDC- |"C" C6 z C |"C" E2 E2 E3 E- | EEEF E2 C2 |"G" DDDD DD z D- | %11
+w: * ó- ra pi- he- nés,|nyolc ó- ra szó- ra- ko- zás,|* A|kocs- má- ban, ott|* van a nagy é- let,|tom- pul- nak az a- gyak, é-|
+ DDDE D2 B,2 |"C" E2 EE E/E/ E2 E | EEEF E2 C2 |"G" DDDD D3 D | DDDE D2 G,2 |] %16
+w: * le- sek a ké- sek,|Sű- rű a le- ve- gő az|ol- csó sör sza- gá- tól,|e- le- ged van már, e|* * * vi- lág- ból!|
+

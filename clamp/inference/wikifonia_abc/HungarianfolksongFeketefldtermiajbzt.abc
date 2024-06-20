@@ -1,0 +1,14 @@
+X:1
+T:Fekete föld termi a jó búzát
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ dded cAAG |1 c2 A4 z2 :|2 F2 D4 z2 |: GGAG FDDC |1 F2 D4 z2 :|2 D2 D4 z2 |] %6
+w: Fe- ke- te föld ter- mi a jó|bú- zát,||Sű- rű er- dő a be- tyár la-|ká- sa,||
+w: Sű- rű er- dő ne- ve- li a||be- tyárt,|Szép csár- dás- né gon- dot vi- sel||rá- ja.-|
+

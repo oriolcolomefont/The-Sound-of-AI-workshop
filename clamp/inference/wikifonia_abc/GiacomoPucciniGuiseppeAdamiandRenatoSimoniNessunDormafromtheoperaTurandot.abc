@@ -1,0 +1,33 @@
+X:1
+T:Nessun Dorma from the opera Turandot
+T:Nessun Dorma from the opers Turandot
+T:G. Puccini
+C:Giacomo Puccini
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" CG,A,C A2"Dbm6" c>c |"F" c2 c4"Dbm6" C>C |"F" C2 C2 G,A,CF | GA-Ac cc/c<"Dbm6"c_B/ | %4
+w: * * * * * Nes- sun|dor- ma! Nes- sun|dor- ma! * * * *|* * * * Tu pu reo Prin ci|
+"F" A2 A2 (3AAA"Dbm6" _A>E |"F" F2 F2"Dbm6" e2 e>d |"F" c2 cc cc"Dbm6"c>_B | %7
+w: pes sa, nel la tua fred da|stan za, guar- di le|stel- le che tre- ma- no d'a|
+"F6" A2 A2- AA"Dbm6"_A>E |"F" F2 F2 GAcf |"C" z cde dc"Cmaj7"d>B ||[M:2/4]"F" A4- || %11
+w: mo re * e di spe-|ran- za! * * * *|Mail mio mis te- ro chiu- soin|me,|
+[M:4/4]"F6" Adef ed"Fmaj7"e>c |"G" B2"Am" c2"G" dd"G6"ef |"Em" g2 g2 g2- g>e |"F" e4- eee>c | %15
+w: * il no- me mio nes- sun sa-|pra! No, no, sul- la tua|boc- * ca lo di-|ro, * Quan- do la|
+"C" G4 G2"G" d>B |"F" c3 G ACGA | cCFA z c"Dbm6"c>_B |"F" AAAc"Dbm6" e3 d | %19
+w: lu- ca splen- de-|ra! * * * * *|* * * * Ed il mio|ba- cio scio- glier il si-|
+"F6" c2 c2- cA"Dbm6"_A>E |"F" F2 F2 GAcf |"C" z cde dc"Cmaj7"d>B ||[M:2/4]"F" A4- || %23
+w: len- zio * che ti fa|mi- a! * * * *|||
+[M:4/4]"F6" Adef ed"Fmaj7"e>c |"G" B2"Am" c2"G" dd"G6"ef |"Em" g2 g2 ggg>e |"F" e2 e2 eee>c | %27
+w: |* * * Di- le- gua|not- te! tra- mon- ta- te|stel- le tra- mon- ta- te,|
+"C" G2 GG GG"G"d>B |"F" c6 A>c | f6 c2 | a6- a>g ||[M:2/4]"C" g4 ||[M:4/4] z cde dc"G"d>B || %33
+w: stel- le! Al- l'al- ba vin- ce-|ro! vin- ce-|ro! vin-|ce- * *|ro||
+[M:2/4]"F6" A4 ||[M:4/4] z"Dm7" def ed"Fmaj7"e>c |"G" B2"Am" c2"G" d2"G6" ef |"C" g8 |] %37
+w: ||||
+

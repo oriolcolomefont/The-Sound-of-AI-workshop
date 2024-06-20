@@ -1,0 +1,26 @@
+X:1
+T:Chi Mai
+T:Chi Mai
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ a2 a2 a2 a2 |"F#m" c'2 z2 c'2 c'2 |"E" z2 ba b2 z2 |"F#m" a2 f2 z2 (3:2:2g2 a | %4
+"Bm7" a2 d2"E" z2 (3:2:2g2 f |"Amaj7" g2 c2 z4 |"Dmaj7" z2 (3:2:2f2 e"G#m7b5" f2 B2 | %7
+"C#sus4" z2 c'2 b2 z c'- |"C#" c'8 ||S"F#m" c'2 z2 c'2 c'2 |"E" z2 ba b2 z2 | %11
+"Dmaj7" a2 f'2 z2 (3:2:2g2 a |"Bm7" d2 z2 (3:2:5g/f/"E"gg/f/ (3:2:4gg/f/g |"Amaj7" g2 c2 z4 | %14
+"Dmaj7" f2 z2 (3:2:5f/e/ff/e/ (3:2:4ff/e/f |"G#m7b5" B2 B2 z4 | %16
+"C#" ^e2 z2 (3:2:5e/^d/ee/d/ (3:2:4ee/d/e |"F#m" z2 f2 f'4 | (3F,CF (3Acf (3afc (3AFC || %19
+"F#m" c2- (3:2:5cB/c/d/c/"C#7" (3B/A/ B2 (3B2 A/G/ |"F#m" A6- A/4F/4G/4A/4 B/4c/4d/4e/4 | %21
+"D" f2- (3:2:5fe/f/"F#7"=g/f/ e2 (3e2 d/c/ |"Bm" d6- (3dcB |"F#m" c2 f2"G#7" g3 ^d | %24
+"C#7" ^e6- (3efg |"F#m" a2 c'2"B" b3 f |"C#" g4 z4!D.S.! ||"F#m" c'2 z2 c'2 c'2 | %28
+"E" z2 (3z ba b2 z2 |"Dmaj7" a2 f'2 z2 (3:2:2g2 a |"Bm7" d2 z2 (3:2:5g/f/"E"gg/f/ (3:2:4gg/f/g | %31
+"Amaj7" g2 c2 z4 |"Dmaj7" f2 z2 (3:2:5f/e/ff/e/ (3:2:4ff/e/f |"G#m7b5" B2 B2 z4 | %34
+"C#" ^e2 z2 (3:2:5e/^d/ee/d/ (3:2:4ee/d/e |"F#m" z2 f2 f'4-!fine! | f'8 |] %37
+

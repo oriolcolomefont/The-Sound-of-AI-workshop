@@ -1,0 +1,36 @@
+X:1
+T:Puttin' On The Ritz
+T:Puttin' On The Ritz
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F/A" C D"Abdim" F D |"Gm7" F/ E"C7" G/- G2 |"F/A" C D"Abdim" F D |"Gm7" F/ E"C7" G/- G2 | %4
+w: Have you seen the|well- to- do *|up and down Park|Av- en- ue, *|
+"Ab/C" _E F"Bdim" _A F |"Eb7/Bb" _A/ G"Eb7" B/- B2 |"Ab/C" _E F"Bdim" _A F | %7
+w: on that fam- ous|thor- ough- fare *|with their nos- es|
+"Eb7/Bb" _A/ G"Eb7" B/- B2 |"C6/G" c2"C#dim" G3/2 E/ |"Dm7" G F"G7" E/ D3/2 | %10
+w: in the air. *|High hats and|Ar- row col- lars,|
+"C6" c2"C#dim" G3/2 E/ |"Dm7" G F"G7" E/ D3/2 |"Am" A A"Am7" E E |"D7" A4 |"G7" =B B B/A/ G | %15
+w: white spats and|lots of dol- lars,|spend- ing ev- 'ry|dime|for a won- der- ful|
+"C7b9""C+7""C7" c4 |:[K:Ab]"Fm" F A c C/F/- | F/A/ c C F | A c C/ F A/ | c"C7" C =E G |"C7b9" B4- | %21
+w: time.|If you're blue and you|* don't know where to|go to, why don't you|go where the fashion|sits,|
+ B2 c/B/A/G/ |"Fm""Fm/Eb" F4 |"Db9" z2"C7" z2 |"Fm" F A c C/F/- | F/A/ c C F | A c C/ F A/ | %27
+w: * put- tin' on the|Ritz.||Diff- 'rent types who wear|* a day coat, pants|with stripes and cut- a-|
+ c"C7" C =E G |"C7b9" B4- | B2 c/B/A/G/ |"Fm""Fm/Eb" F4 |"Db" z2"F7/C" z2 |"Bbm" B c d e | %33
+w: way coat, per- fect|fits,|* put- tin' on the|Ritz.||Strol- ling up the|
+ f e"Gb9" d"F9" c |"Bbm6" B z/ B/- B2 |"Eb" z2"Eb7" z2 |"Ab6" A B"Fm7" c d |"Bbm7" e d"Eb7" c B | %38
+w: av- en- ue so|hap- py. *||All dressed up just|like an En- glish|
+"Ab6" A z/ A/- A2 |"Db9" A/ A A/- A/"C9" G3/2 |"Fm" F A c C/F/- | F/A/ c C F | A c C/ F A/ | %43
+w: chap- pie, *|ver- y snap- * py.|Come let's mix with Rock-|* e- fell- ers walk|with sticks or "um- ber-|
+ c"C7" C =E G |"C7b9" B4- | B2 c/B/A/G/ |1"Fm" F4- ||"Db7""C7b9" F2"C9" z2 :|2"Fm""Bbm6" F4- | %49
+w: el- las" in their|mitts,|* put- tin' on the|Ritz.||Ritz.|
+"F6" F3 z |] %50
+w: |
+

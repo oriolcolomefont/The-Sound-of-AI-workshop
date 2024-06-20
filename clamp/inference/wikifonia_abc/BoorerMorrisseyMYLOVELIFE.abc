@@ -1,0 +1,26 @@
+X:1
+T:MY LOVE LIFE
+C:Boorer
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"G" G4 |"C/E" E3 F |"D" D4- | D2 z2 ::"G" B3 G |"C/E" c2 B2 |"D" A4- | A4 ::"G" G4 | %9
+w: |||||||||
+"Cmaj9/E" z B/B/- B B/B/- |"D" B/A/- A2 z | z4 |"G" z d/B/- B/B/-B/G/- | %13
+w: Come on _ to my|_ house _||Come on _ and _ do|
+"Cmaj9/E" G3/2 z/ B/B/-B/A/- |"D" A2 z2 | z4 |"G" z d/d/- d/c/ B |"Cmaj9/E" z d/d/ z/ c/ B | %18
+w: _ some thing _ new|_||I know _ you love|one per son so|
+"D" z z/ d/ A A | z c2 c- |"G" B3 z |"C/E" c2 B2 |"D" A4- | A4 |"Em" e B3 |"C" g/e/- e e B | %26
+w: why can't you|love two?|_|||||Give a _ lit tle|
+"D" d B2 z |"D" A A"B7" B B |"Em" e B3 |"C" g/e/- e e B |"D" d B2 z | z z z B/c/ |"G" d B2 z/ B/ | %33
+w: some thing|||Give a _ lit tle|some thing|to MY|LOVE LIFE MY|
+"Cmaj9/E" d B2 B |"D" c A2 z | z/ c/- c2 c | B3 B/c/ |"G" d B2 z/ B/ |"Cmaj9/E" d B2 B | %39
+w: LOVE LIFE MY|LOVE LIFE|OH _ _|_ to MY|LOVE LIFE MY|LOVE LIFE MY|
+"D" c A2 z | z/ c/- c2 c :|"G" G4 |"C/E" E3 F |"D" D4- | D2 z2 |] %45
+w: LOVE LIFE|OH _ _|_||||
+

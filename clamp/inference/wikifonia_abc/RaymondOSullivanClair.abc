@@ -1,0 +1,60 @@
+X:1
+T:Clair
+T:Clair
+T:Raymond O'Sullivan
+C:Raymond O'Sullivan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fm7" A6 F>G |"Bbm7" A>Bcc (3c2 d2 e2 |"Db6" c3 d/c/"Eb9" B2 z3/2 c/ |"Db6" e2 f z"Eb9" c>BG>E || %4
+w: ||||
+w: ||||
+"Fm7" A6 z3/2 F/ |"Bbm7" A>ccc- c"Bbm9" B2"Bbm7" A |"Eb9" G6 z3/2 E/ |"Cm7" G>BBB- B c2 G/A/ | %8
+w: Clair the|mo- ment I met * you I|swear I|felt as if some- * thing some- *|
+w: ||||
+"Fm" F6 z E |"Bbm7" D>EFF- F3 D |"Gm7b5" F>GAB-"Eb7" B2 E2 |S"Fm7" A6 z3/2 F/ | %12
+w: where had|hap- pened to me, * which|I could- n't see; * and|then the|
+w: |||Clair if|
+"Bbm7" A>ccc- c B2 A |"Eb9" G6 z3/2 E/ |"Cm7" G>BBB- B c2 G/A/ |"Fm" F6 z E |"Bbm7" D>EFF- F3 D | %17
+w: mo- ment I met * you a-|gain I|knew in my heart * that we were|friends, it|had to be so, * it|
+w: Ev- er a mo- * ment so|rare Was|cap- tured for all * to com- *|pare that|mo- ment is you, * in|
+"Gm7b5" F>GAB-"Eb7" B2 E2 |"Ab" e6 z3/2 E/ |"Gbdim" e>dcc (3c2 d2 e2 |"Bbm7" e/f/d- d6 | %21
+w: could- n't be no; * But|try as|hard as I might * do I|don't know why, *|
+w: all that you do; * But|why in|spite of our age * dif- f'rence|do I cry *|
+"Eb7" d>cBA- AG/G<AB/ |"Abmaj7" B/c/c- c6 |"Dbmaj7" c>BAA- A>GA>B |"Bb9" c>BAA- A>GAB | %25
+w: you get to me * in a way I|can't des- cribe, *|Words mean so lit- * tle when you|look up and smile * I don't care|
+w: each time I leave * * you I feel|I could die, *|No- thing means more * to me than|hear- ing you say * I'm going to|
+"Ab6" c>BAA- A>GA>B |"Bb9" c>fcB- B2 A2 |"Bbm7" B8!D.S.! |"Eb9" c4 B4 || %29
+w: what peo- ple say * to me, you're|more than a child * oh|Clair|Clair- *|
+w: mar- ry you, will * you mar- ry|me Un- cle Ray * oh|Clair|Clair *|
+[K:A]"F#m7""^Coda" A6- A>F |"Bm7" A>ccc- c>BAG- |"E7" G6- G>E |"Amaj7" G>BBB- B>AGF- | %33
+w: ||||
+w: ||||
+"D#m7b5" F4 F2 G>A |"C#maj7" G2 =F>^F G2 E>F |"C#maj7" G>^A=c>^c ^d>cG>=F |[K:Ab]"Fm7" A6 z3/2 F/ | %37
+w: |||Clair I.ve|
+w: ||||
+"Bbm9" A>ccc (3c2"Bbm7" d2 e2 |"Eb13""Eb7b9" c6 AG- |"Abmaj7" G>ECA,-"Fm7" A,>CEA- | %40
+w: told you be- fore, * don't you|dare get back|* in- to bed, * can't you see|
+w: |||
+"Bbm7" A>FDB,-"Eb9" B,>DFB- |"Abmaj7" B>GEC-"Fm7" C>EGc- |"Bbm7" c>BAB-"Eb9" B>cde- | %43
+w: * that it's late, * no you can't|* have a drink, * Oh al- right|* then but wait * just a bit|
+w: |||
+"Ab" e6"Absus4" z3/2"Ab" E/ |"F#dim" (3e2 d2 c2 (3c2 d2 e2 |"Bbm7" e/f/d- d6 |"Eb7" d>cBA- A>GA>B | %47
+w: * while|I in an ef- fort to|ba- by sit *|cap- ture my breath, * what there is|
+w: ||||
+"Abmaj7" B/c/c- c6 |"Dbmaj7" c>BAA- A>GA>B |"Bb9" c>BA>A- A>GA>B |"Ab6" c>BAA- A>GA>B | %51
+w: left of it. *|You can be mur- * der at this|hour of the day, * but in the|morn- ing, to- night * will seem a|
+w: ||||
+"Bb9" c>fcB- B2 A2 |"Bbm7" B8 |"Eb9" c4 B4 |"Dm7b5" A3 F AB c2 |"Dbmaj7" A3 F AB c2 | %56
+w: life- time a- way, * Oh|Clair|Clair *|||
+w: |||||
+"Ab" A3 F"Bbm7" AB"Eb7"cB |"Abmaj7" c4 A4 |] %58
+w: |Oh Clair|
+w: ||
+

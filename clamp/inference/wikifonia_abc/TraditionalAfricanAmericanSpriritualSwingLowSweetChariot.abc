@@ -1,0 +1,22 @@
+X:1
+T:Swing Low Sweet Chariot
+T:Swing Low, Sweet Chariot
+C:Traditional African American Spriritual
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" B2 G4 B2 | G3 G (E D3) | G<GG>G Bd d2 |"D7" d8 |"G" (e<d) B4 d2 | G3 G (E D3) | %6
+w: Swing low sweet|char- i- ot, _|Com- in' for to car- ry me|home.|Swing _ low, sweet|char- i- ot, _|
+"Em" G<GG>G"A9" B<B"D7" A2 |"G" G8- | G4 z2 B2 |"G" d G2 E G2 GG |"A7" GG G2"D7" (E D3) | %11
+w: Com- in' for to car- ry me|home.|_ I|look ov- er Jor- dan and|what did I see, _|
+"G" G<GG>G B<d d2 |"D7" d6 d2 |"G6" (e<d) B2 B2 G2 |"C" GGG>G"D7" (E2 D2) | %15
+w: Com- in for to car- ry me|home? A|band * of an- gels|com- in' af- ter me, _|
+"G" G<GG>G"A9" B<B"D7" A2 |"G" G8 |"G" B2 G4 B2 | G3 G (E D3) | G<GG>G Bd d2 |"D7" d8 | %21
+w: Com- in' for to car- ry me|home.|Swing low sweet|char- i ot, _|Com- in' for to car- ry me|home.|
+"G" (e<d) B4 d2 | G3 G (E D3) |"Em" G<GG>G"A9" B<B"D7" A2 |"G" G8- | G4 z4 |] %26
+w: Swing * low sweet|char- i ot, _|Com- in' for to car- ry me|home.|_|
+

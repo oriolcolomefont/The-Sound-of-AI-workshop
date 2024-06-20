@@ -1,0 +1,45 @@
+X:1
+T:The Dream Of Olwen
+T:The Dream of Olwen
+T:From the film 'While I Live'
+T:Charles Williams
+T:Winifred May
+C:Charles Williams
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z2 z/ z/ z/"^No chord, Play in Octaves" F/ | E>E, E,2- E,/c/B/A/ | %2
+w: ||
+[M:4/4] ^G/A/F/E/ ^D/E/C/A,/ ^G,/A,/F,/E,/ ^D,/E,/C,/B,,/ |[M:3/4] C,6 | C,2 G,3 C, | %5
+w: |||
+ D,2- D,^F, A,D | ^F2 A4 |[M:4/4]"C" E2 G,2- G,A,B,C |"Dm7" D3 E D2 A2 |"G7" G2 d3 cGA | %10
+w: ||Ol- wen, * I hear you|call to me At|moon- rise a- cross a|
+"Gm" _B3 E"A7" A4 |"Dm" F2 A,2- A,=B,^CD |"Gdim" E3 F E2"Gm" _B2 |"A7" A2 e3 d"Dm"^GA | %14
+w: gold- en sea,|Soft- ly * the waves make|mel- o- tody to|wake all my song of|
+"Am" c3 ^F"B7" B4 |"G7" d2 B4 AG |"Gm" _B2 DE"A7" A4 |"Fm7" _A2 C2- CD_EF |"Eb" G2 _B6 | %19
+w: mem- o- ry,|Ol- wen, come to|me, I im- plore,|Tell me, * where shall I|find you?|
+"G" =B2 G4 ^FE |"Fm" c2 DF"Fm6" _A4 |"G7" =A2 B,C ^C D2"G7" G |"C" !fermata!G8 | %23
+w: Ol- wen, till the|stars shine no more|True un- to you I shall|be.|
+[K:Eb]"Eb" G4 F2 E2 |"Bb7" B6 F2 |"Ab" A6 E2 |"G7" G6 F2 |"Cm" E4 F2 G2 |"Cm7" c6 G2 | %29
+w: Deep is the|blue that|veils the|night, The|light in the|west has|
+"A7" B4"A" =A4- | A4"Dm" D4 |"Gm" B4 =A2 G2 |"Dm" d6 =A2 |"Cm7" G6 =A2 |"Dm7" F6 D2 | %35
+w: fad- ed.|* But|I must pur-|sue till|dawn breaks|through, The|
+"Eb" E4 G2 B2 |"F7" =A4 c2 e2 |"D7" d4- d z =A2 |"Dm7b5" c4"G7" =B>G, A,/=B,/C/D/ || %39
+w: dream I am|dream- ing of|you, * be-|lov- * * * * * *|
+[K:C]"C" E2 G,2- G,A,B,C |"Dm" D3 E D2 A2 |"G7" G2 d3 cGA |"Gm" _B3 E"A7" A4 | %43
+w: Ol- wen, * it is your|face I see That|wak- ens in ev- 'ry|place for me|
+"Dm" F2 A,2- A,=B,^CD |"Gdim" E3 F E2"Gm" _B2 |"A7" A2 e3 d"Dm"^GA |"Cdim" c3 ^F"B7" B4 | %47
+w: Mu- sic, * of van- ished|ecs- ta- cy That|ech- oes in- to E-|ter- ni- ty|
+"G7" d2 B4"C6" AG |"Gm" _B2"C7" DE"F7" A4 |"Bb7" _A2 C2- CD_EF |"Eb" G2 _B6 |"G" =B2 G4"Em" ^FE | %52
+w: Ol- wen in the|wings of the wind|Fond- ly * your voice is|fall- ing|Call- ing from a|
+"Am" c2 CD"Dm7b5" D3 C |"C" E2 FG"A7" A3 E |"Dm" F2 GA"G7" B2 cd |"C" !fermata!e2 G3 ABc | %56
+w: world * a- part, And|strange- ly you seem To|ans- wer the dream in my|heart! * * * *|
+ !fermata!e4 !fermata!c4 | !fermata!C8- | C8 |] %59
+w: |||
+

@@ -1,0 +1,28 @@
+X:1
+T:This Funny World
+T:This Funny World
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z BcB d3 G |"D7" FGAC- CD E2 |"G" D4 D4 |"C" d'eee"Fmaj7" e2"F7" _e2 |"G" z BcB d3 G | %5
+w: This fun- ny world, makes|fun of the things _ that you|strive for.||This fun- ny world, can|
+"D7" FGAC- CD E2 |"Fm6" D4"E7" D4 |"Dm" d'eee"E7sus4" =f2"E" e2 |"Am9" z EFG- GA B2 | %9
+w: laugh at the dreams _ that you|live for;||If you're beat- * en con-|
+ c2"Am""D7" c6 |"G" z FGA- AB"Gsus4" c2 |"G" d8 |"Em" z GAB ^c-c"Em7" d2 |"F#7" e2 e4 ^c2 | %14
+w: ceal it!|There's not pi- * ty for|you.|For the world can- * not|feel it, Just|
+"Bm7" B B2 F"E7" B4 |"A7" A A2 E"Dm7" A4 |"G" z BcB d3 G |"D7" FGAC- CD E2 |"G" D4 D4 | %19
+w: keep to your- self.|Weep to your- self.|This fun- ny world can|turn right a- round _ and for-|get you.|
+"C" d'eee"D7" e2"D7b9" _e2 |"G" z BcB d3 G |"F" =FGAB-"G7" Bc d2 |"C""C/B" e8- |"C/A""C/G" e8 | %24
+w: |It's al- ways sure to|roll right a- long _ when you're|through.|_|
+"A7" z ^cdc e3 A | BA"Dm7" d6 |"G7" z BcB d3 G |"C6" AG"Cm6" c6 |"G" z BcB d3 G | %29
+w: If you are borke you|should- n't mind|It's all a joke for|you will find,|This fun- ny world is|
+"C" e2 e2"D7" e2 F2 |1"G""A7b9""D7" G8- |"Eb7""D7sus4" G6"D7" z2 :|2"G" G8- | G6 z2 |] %34
+w: mak- ing fun of|you.|_|you.|_|
+

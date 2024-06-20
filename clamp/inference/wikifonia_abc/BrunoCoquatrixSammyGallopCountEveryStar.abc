@@ -1,0 +1,24 @@
+X:1
+T:Count Every Star
+T:Count Every Star
+C:Bruno Coquatrix
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z"Bbmaj7" D (3FBG-"Gm7" G3 F/D/ |"Cm7" E2 B2"F7" A4 |"Bbmaj7" z D (3FBG-"Gm7" G3 F/D/ | %3
+w: Count ev- 'ry star * in the|mid- night sky;|count ev- 'ry rose, * ev- 'ry|
+"Cm7" (E2 d2)"F7" c4 |"Fm7" z Bcd"Bb7" cBGD |"Ebmaj7" F4"Ab7" E4 |"Dm7" z2 DF"Gm7" G2 B2 | %7
+w: fire- * fly,|for thats how man- y times I|miss you.|Heav- en knows I|
+"Cm7" c4"F7" F4 |"Bbmaj7" z D (3FBG-"Gm7" G3 F/D/ |"Cm7" E2 B2"F7" A4 | %10
+w: miss you.|Count ev- 'ry leaf * on a|wil- low tree;|
+"Bbmaj7" z D (3FBG-"Gm7" G3 F/D/ |"Cm7" E2 d2"F7" c4 |"Fm7" z fff"Bb7" gd^cd | %13
+w: count ev- 'ry wave * on a|storm- y sea.|Count ev- 'ry star and dar- ling,|
+"Emaj7" f2 _f2"Ab7" e4 |"Dm7" z def"Gm7" (3B2 c2 d2 |"Cm7" e4"F7" A4 |1"Bb""Gm7" B8- || %17
+w: when you do,|you'll know the times I have|cried for|you.|
+"Cm7" B4"F7" z4 :|2"Bb" B8 |] %19
+w: |you.|
+

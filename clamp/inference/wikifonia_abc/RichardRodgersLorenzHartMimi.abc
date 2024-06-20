@@ -1,0 +1,28 @@
+X:1
+T:Mimi
+T:Mimi
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 D2 ||"G" BB"D7" AA |"G" G G2 G |"D7" AA"Am7" GG |"D7" F3 D |"G" B>D DD | DD z"G#dim" D | %7
+w: My|left shoe's on my|right foot, my|right shoes on my|left. Oh,|lis- ten to me|Mi- mi, of|
+"D7" c>D DD | D3"D7" D |"G" BB"D7" AA |"G" G G2 G |"A7" AA GG |"D7" F3 D |"G" d>G GG | G G2 G | %15
+w: reas- on I'm be-|reft. The|but- tons of my|trou- sers are|but- toned to my|vest. Oh,|lis- ten to me|Mi- mi, mere|
+"A7sus4" A2 B2 |"A7" A2 B2 |"C" D4- |"D7" D2 z2 ||"G" DD z2 | z2 z D |"Am7" EE"D7sus4" DD | %22
+w: pass- ions|in my|breast!.||Mi- mi,|you|fun- ny lit- tle|
+"D7" AA FF |"G" DD z2 | z B, CB, |"D7" D4- | D4 |"G" DD z2 | z2 z D |"Am7" EE"D7" DD | BB AA | %31
+w: good for noth- ing|Mi- mi,|am I the|guy?||Mi- mi|you|sun- ny lit- tle|hon- ey of a|
+"G" DD z2 | z B, CB, |"G7sus4" D4- |"G7" D4 |"C" EE z2 | z E FG |"D7" B2 BB- | B F3 |"Em" A2 AA- | %40
+w: Mi- mi|I'm aim- ing|high.||Mi- mi|you've got me|sad and dream-|* y|You could free|
+ A E3 |"C#dim" G2 GG- | G ^C3 |"G" DD z2 | z2 z D |"Am7" EE DD |"D7" dd BB |"G" G2"Am7" EE | %48
+w: * me|if you'd see|* me.|Mi- mi|You|know I'd like to|have a lit- tle|son of a|
+"G" GG"D7" EE |"G" G4- | G z z2 |] %51
+w: Mi- mi by and|by.||
+

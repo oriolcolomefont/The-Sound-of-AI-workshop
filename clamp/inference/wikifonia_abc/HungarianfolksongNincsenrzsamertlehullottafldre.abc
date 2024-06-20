@@ -1,0 +1,19 @@
+X:1
+T:Nincsen rózsa, mert lehullott a földre
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Gmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" G2 G2"C7" g2 g2 |"F" a2 a2"C7" a2 g2 |"F" f f3"F" f2 z2 |"A" a2 a2"A7" a g3 | %4
+w: Nin- csen ró- zsa,|mert le- hul- lott|a föld- re,|Nincs sze- ret- õm,|
+"Dm" f f3"A" g3 f |"Dm" =e d3"Dm" d2 z2 |"F" f2 f2"F7" f2 e2 |"B" d2 d2"F7" d c3 | %8
+w: mer' el- ha- gyott|ö- rök- re,|Ha el- ha- gyott,|hagy- jon is el|
+"B" B B3"B" B2 z2 |"D7" d2 d2"D7" c c3 |"Gm" B2 B2"D7" c3 B |"Gm" A G3"Gm" G2 z2 |] %12
+w: ö- rök- re,|Mert nem le- het|min- den- ki- nek|hat ök- re.|
+

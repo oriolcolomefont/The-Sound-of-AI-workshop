@@ -1,0 +1,31 @@
+X:1
+T:I've Got A Lovely Bunch Of Coconuts
+T:I've got a lovely bunch of Cocoanuts
+T:Fred Heatherton
+C:Fred Heatherton
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" ccB c2 B | c3- c2 A |"G7" B2 ^A B2 A | B6 |"D7" d2 ^c d2 c | d2 c B2 A | d2 c B2 A |"G7" G6 |: %8
+w: Down at an Eng- lish|Fair * one|eve- ning I was|there|when I heard a|show- man shout- ing|un- der- neath a|flare|
+"C" E3 ^D2 E | ccc B2 A | E2 E E3- | E6 | E2 E"D" ^D2"C" E | c2 c B2 A |"G7" F6- | F3- F2 z | %16
+w: I've got a|lov- er- ly bunch of|co- coa- nuts||there they are a|stand- ing in a|a|row *|
+ B3 B3 | B3 B3 | B2 B BBB | B6 |"D7" AAA A2 A | AAA A2 B | d2 c B2 A |"G7" G6 |"C" E3"D" ^D2"C" E | %25
+w: Big ones|small ones|some as big as your|head|Give em a twist a|flick of the wrist thats|what the show- man|said|I've got a|
+ ccc B2 A | E2 E E3- | E6 | EEE"D" ^D2"C" E | c2 c B2 A |"G7" F6- | F3- F2 z | B3 B2"C" ^A | %33
+w: lov er ly bunch of|co- coa- nuts||ev- e- ry ball you|throw will make me|rich||There stands me|
+"G7" B3 B2"C" ^A |"G7" B2 B B2"C" ^A |"G7" B3 B2"Dm7" =A |"G7" G2"Dm7" A"G7" B2"Dm7" A | %37
+w: wife * the|i- dol of me|life sing- ing|roll or bowl a|
+"G7" G2 F EED |"C" C6- | C2 z G2 A | c2 c c2 c | c2 c cBA | c6- | c2 z G2 A | c2 c c2 c | %45
+w: ball a pen- ny a|pitch|* sing- ing|roll or bowl a|ball a pen- ny a|pitch|* sing- ing|roll or bowl a|
+ c2 c cBA |"G7" B6- | B6 | B2 B B2 B | B6 | B2 B B2 B | B3 B2"Dm7" A | %52
+w: ball a pen- ny a|pitch||roll or bowl a|ball|roll or bowl a|ball sing ing|
+"G7" G2"Dm7" A"G7" B2"Dm7" A |"G7" G2 F EED |1"C" C6- ||1 C4"G7" z2 :|2"C" C6- ||"G7" C3-"C" C2 z | %58
+w: roll or bowl a|ball a pen- ny a|pitch.||||
+ z6 | z6 |] %60
+w: ||
+

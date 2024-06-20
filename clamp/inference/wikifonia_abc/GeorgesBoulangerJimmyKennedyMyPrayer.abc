@@ -1,0 +1,28 @@
+X:1
+T:My Prayer
+T:My prayer
+T:Georges Boulanger
+T:Jimmy Kennedy
+T:(Founded on the melody "Avant de Mourir")
+C:Georges Boulanger
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"F" C2 || A8- | AcAG F3 G |"E7" D8- | D2 FG"D" A2 GF |"Bbm6" _D8- | D2 FG A2 GF |"Bb" C8- | %8
+w: My|prayer|* is to ling- er with|you|* at the end of the|day|* in a dream * thats|di-|
+"C7" C6 C2 ||"F" A8- | A2 cA G2 FG |"E7" D8- | D2 FG"D" A2 GF |"Bbm6" _D8- | D2"C7" C=D E2 DC | %15
+w: vine my|prayer|* is a rap- ture in|blue|* with the world far a-|way|* and your lips close to|
+"F" F8- | F6"F7" F2 ||"Bb" _d8- | d2 _e_d e2 de |"F" c8- |"F" c6 c2 |"Bb" B2 _AG B4- | %22
+w: mine|* to-|night|* while our hearts are a-|glow|* Oh|tell me the words|
+ B2 _AB"G7" A2 GF |"C7" G8- | G2 z2 z2 C2 ||"F" A8- |"Bb" A2 cA G2 FG |"E7" _D8- | D2 FG"D" A2 GF | %29
+w: * that I;m long- ing to|know|* my|prayer|* and the an- swer you|give|* may they still be the|
+"Bbm6" _D8- | D2 FG A2 GF |"F7" f8- | f2 ef e2 de |"Bb" d4"C7" c4- | c2 BA c2 BG |"F" F8- | %36
+w: same|* for as long as we|live|* that you'll al- ways be|there *|* at the end of my|prayer|
+ F6 z2 |] %37
+w: |
+

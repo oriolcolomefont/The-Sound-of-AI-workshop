@@ -1,0 +1,25 @@
+X:1
+T:Whispering Hope
+T:Whispering Hope
+T:Alice Hawthorne
+C:Alice Hawthorne
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"F" A3- | A B c |"C" G3- | G e c |"G7" B3- | B A B |"C" c3- | c2 z ||"C" G3/2 G/ G |"F" c B A | %10
+w: ||||||||Soft as the|voice of an|
+"C" G3 | E3 |"G7" F3/2 F/ F | A G F |"C" E3- | E3 |"C" E3/2 E/ E |"C7" E F G |"F" A3 | c3 | %20
+w: an-|gel,|breath- ing a|les- son un-|heard.||Hope with a|gen- tle per-|sau-|son|
+"C" G3/2 G/ G |"G7" B A B |"C" c3- | c3 |"C" G3/2 G/ G | G ^F"G7" =F |"C" E3 | c3 | %28
+w: whis- pers her|com- fort- ing|word.||Wait 'till the|dark- ness is|o-|ver,|
+"G/D" B3/2 B/ B |"D7" B c A | G3- |"G" G3 |"C" c3/2 c/ c |"F" c B A |"C" G3 | c3 | E3/2 E/ E | %37
+w: wait 'till the|temp- est is|done.||Hope for the|sun- shine to-|mor-|row,|af- ter the|
+"G7" G F D |"C" C3- | C3 |"G7" G3- | G A B |"C" c3- | c B c |"G7" d3- | d c d |"C" (e3 | G3) | %48
+w: show- er is|gone.||Whis-|* per- ing|hope,|* Oh, how|wel|* come Thy|voice,||
+"F" A3- | A B c |"C" G3- | G G c |"G7" B3- | B A B |"C" c3- | c3 |] %56
+w: Mak|* ing my|heart|* in its|sor|* row re-|joice.-||
+

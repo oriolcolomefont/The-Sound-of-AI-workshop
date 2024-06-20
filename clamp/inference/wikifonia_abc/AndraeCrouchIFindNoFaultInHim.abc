@@ -1,0 +1,31 @@
+X:1
+T:I Find No Fault In Him
+T:I Find No Fault In Him
+T:Andrae Crouch
+T:Andrae Crouch
+T:1966
+C:Andrae Crouch
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c2 c3 c |"Em" B4 G2 |"F" A6- |"A7" A6 |"Dm7" d2 d3 d | c4 c2 | B6- |"G7" B4 z2 |"F" A3 ^G Ac | %9
+w: I find no|fault in|Him,||I find no|fault in|Him||Yet he was re-|
+"F#dim7" d c2 z A2 |"C" G4 G2 |"Am""Fm" c4- cc |"C" c2 C2"Fm" F2 |"C" E4"G7" D2 |"C" C6- | %15
+w: ject- ed de-|spised of|men * but|I find no|fault in|Him|
+ C2 z2"G7" G2 |"C" E2 E3 E |"Fm6" D4 C2 |"C" G6- |"G7" G3 z GG |"C" E2 E4 |"G7" D4 A2 |"C" G6- | %23
+w: * They|led Christ to|Cal- va-|ry|* But He|nev- er|said one|word|
+"Gm7" G4"C7" z2 |"F" A4 A2 |"E7" B3 B d2 |"Am" c2 c4 |"Ab+" c4"C/G" E2 |"D7" E4 E2 | D4 C2 | %30
+w: |Just the|cries of lost|sin- ners|* Was|all the|Sav- ior|
+"Dm7" D6- |"G7" D2 z G GG |"C" E4 E2 |"Dm7" D4"G9" A2 |"C" G6- |"G7" G3 z GG |"C" E4 E2 | %37
+w: heard|* And then they|pierced Him|in His|side,|* and the|blood came|
+"Dm7" D4"G9" A2 |"Gm7" G6- | G3 z"C7" C2 |"F" A4 Ac |"Fm" d c3 cd |"C""Gm/Bb" e6 | %43
+w: stream- ing|down,|* And|that's how He|pur- chased my sal-|va-|
+"A" e3 z"A7/C#" e2 |"Dm" f2"A7/E" e2"F6" d2 |"C/G" c4"G7" B2 |"F" c6- |"C" c4 z2 |] %48
+w: tion, And|I find no|fault in|Him!||
+

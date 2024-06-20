@@ -1,0 +1,28 @@
+X:1
+T:Where (Tsiolkovsky's 6th symphony)
+T:Where
+C:Tsiolkovsky
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"D " z A A2 | z A A2 |"D " z f e d | B A F A |"Ddim" d3 z/ B/ |"D " B3/4c/8B/8 A2 z | z f e z/ d/ | %7
+w: ||Where is the|hea- ven that we|hoped would|be? * * *|Where is the|
+ A F D F |"A7" B3- B/A/ |"D " A3 z |"F#dim" a2 g3/2 f/ |"Emin" f2 e2 |"C#dim" g2 f3/2 e/ | %13
+w: glad- ness my heart|came * to|see?|Where is the|rap- ture|we can't re-|
+"D " e2 d2 |"G#m7b5" z f e d |"D " A F D F |"A7" B3- B/A/ |"D " A/4B/4A/- A2 z | z4 |"D " z f e d | %20
+w: cap- ture?|Where is the|fu- ture your love|pro- * mised|me? * * *||Where is the|
+ B A F A |"Ddim" d3 z/ B/ |"D " B3/4c/8B/8 A2 z | z f e d | A F D F |"A7" B3- B/A/ |"D " A3 z | %27
+w: pro- mise of the|joy we|knew? * * *|Where are you|prin- cess? Are you|cry- * ing|too?|
+"F#dim" a2 g/4a/4 g f/ |"Emin" f2 e2 |"C#dim" z g f3/2 e/ |"D " e2 d2 |"G#m7b5" z f e d | %32
+w: Why has * * it|en- ded?|Was love pre-|ten- ded?|Where is the|
+"D " A F D F |"A7" B3- B/A/ |"D " A/4B/4A/- A2 z |"F#dim" =c3 f |"G6" B3 z |"C#dim" _B3 e | %38
+w: splen- did world I|shared * with|you? * * *|Where are|you?|Where are|
+"D " A3 z |"D#dim" A3 =c |"E7" ^G3 B |"A7" G3 B/A/ |"D " B/A/- A2 z |"G#m7b5" z f e d | %44
+w: you?|Why oh|why did|our love *|die? * *|Where are you|
+"D " A F D F |"G " B2 d2 |"D " a4 | z f e d | B A F A | f F A2- | A4 |] %51
+w: dar- ling? Are you|cry- ing|too?|||||
+

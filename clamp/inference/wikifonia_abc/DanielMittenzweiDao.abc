@@ -1,0 +1,20 @@
+X:1
+T:Dao
+T:Dao
+T:Daniel Mittenzwei
+T:Leadsheet
+C:Daniel Mittenzwei
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Em11""^Free" x4 | x4 | x4 | x4 |"Am11" x4 | x4 |"Em11" x4 | x4 |"C9b5" x4 |"B7#5#9" x4 | %10
+"Bb9b5" x4 | x4 ||"Em11" x4 | x4 | x4 | x4 |"Am11" x4 | x4 |"Em11" x4 | x4 |"C9b5" x4 | %21
+"B7#5#9" x4 |"Em11" x4 |"_Repeat until uninspired" x4 :| %24
+

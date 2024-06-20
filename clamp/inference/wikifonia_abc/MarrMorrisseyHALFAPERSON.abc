@@ -1,0 +1,28 @@
+X:1
+T:HALF A PERSON
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ D2 FA z Fz[DG=B]- |:"G" [DGB]2 z2 A2 AA- |"Bb" AAzA z G A2- |"G" A2 z2 z F F2 |"Bb" AAzA z G A2- | %5
+w: |* Call me mor|_ bid call me pale|_ I've spent|six years on your trail|
+"G" A4 z4 |"Dm" A z z2"C" A3"Bb" F- | F4 FGzA |"G" G4- GDFE- |"C" [DG=B]2 z2 A2 AA :| %10
+w: _|Six long years|_ on your trail|_ _ oh _ _|_ Call me mor|
+"C" E4 z AAA |:"A" A2 A2 AGFF- |"Bb" F4"F" z2"C" AA |"A" AAAB- BAGA- |"Bb" A"Eb/Bb"F-"Bb" F6 | %15
+w: * and if you|have five sec onds to spare|_ then I'll|tell you the sto _ ry of my|_ life _|
+"F" A2 A2 ABA"C"G- | G4 z4 |"A" z AAA BAGF- |"Dm" F4"Bb" z2 z A |"F" AA A2 ABAG- |"C" G4 z4 | %21
+w: Six teen clum sy and shy|_|I went to Lon don and I|_ I|booked my self in at the "Y"|_|
+"Am" ABzA z GAA- |"A" A4 z AAA |"Bb" AG F2 FA-A"G"G | G4 z AAA |"Bb" AG F2 FA-AD- | %26
+w: "W _ _ "C" _ "A"|_ I said I|like it here can I _ stay?|_ I said I|like it here can I _ stay?|
+"G""^TO CODA" D4 z2 G2 |"Dm" AGFG"C" AF F2 |"Bb" z2 FG A2 z A |"G" G4 z D-F-E |"C" z4 A2 A2 | %31
+w: _ and|do you have a va can cy|for a back scrub|ber? Oh _ _|She was|
+"Bb" AG A2 z GA-"G"A- | A4 z2 AA |"Bb" AG F2 FGA"G"A- | A z2 A AGFA |"Dm" AGGF"C" AFFF- | %36
+w: left be hind sour _ _|_ and she|wrote to me equ al ly DOUR|_ she said "In the days|_ when you were hop less ly poor|
+"Bb" F4 FGAF |"G" F- F3 z2 D-F |"C" E4 AA A z ::"Bb""^CODA" z2 AG AGAA |"G" A-G- G2 z2 z2 :| %41
+w: _ I just liked you|more _ Oh _|_ and If you|Thats the sto ry fo my|life _ _|
+

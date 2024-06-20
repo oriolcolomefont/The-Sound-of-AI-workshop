@@ -1,0 +1,27 @@
+X:1
+T:Unchained Melody
+T:UNCHAINED  MELODY
+C:Alex North 1955
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"G" G3 A |"Em" G3 A |"Cmaj7" B G2 G |"D7" D F A B |"G" G3 A |"Em" G2 B, C |"D" D4- |"D7" D4 | %8
+w: Oh, my|love, my|dar- ling, I've|hun- gered for your|touch a|long, lone- ly|time.||
+w: ||||||||
+"G" G3 A |"Em" G3 A |"Cmaj7" B G2 G |"D7" D F A B |"G" G3 A |"Em" G3 G |"Bm" d4- |"D" d3"D7" c | %16
+w: Time goes|by so|slow- ly and|time can do so|much. Are|you still|mine?|* I|
+w: ||||||||
+"G" B G D2- |"D6/F#" D2 A2 |"Em7" G D B,2- |"Gmaj7" B,2 F2 |"Am/C" E C A,2- |"D7" A,2 A2 |"G" G4- | %23
+w: need your love,|* I|need your love,|* God|speed your love|* to|me.|
+w: |||||||
+ G4 |:"C" C D E G |"D" F3 G/F/ |"C" E3 C/E/ |"Bb" D4 |"C" C D E G |"D" A3 B/A/ |1"G" D4- | D4 :|2 %32
+w: |Lone- ly riv- ers-|flow to the|sea, to the|sea,|to the op- en|arms of the|sea.||
+w: |Lone- ly riv- ers-|sigh, "Wait for|me, wait for|me,|I'll be com- ing|home, wait for|||
+"G" G4- | G4 |] %34
+w: ||
+w: me!"||
+

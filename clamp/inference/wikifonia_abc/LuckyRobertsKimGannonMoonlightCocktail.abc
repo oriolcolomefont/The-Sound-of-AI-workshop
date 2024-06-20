@@ -1,0 +1,39 @@
+X:1
+T:Moonlight Cocktail
+T:Moonlight Cocktail
+C:Lucky Roberts
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" (3B,^A,B,"D7" (3CB,C"G" D B2 B, |"B7" A2 B,G-"Em7" G4 | %2
+w: Cou- pl- 'a jig- gers of moon- light and|add a star, *|
+w: Now add a cou- pl- 'a flow- ers, a|drop of dew, *|
+"A7" (3^C^B,C"E7" (3D^CD"A7" E =B2 ^C |"Em11" A2 ^C"A9sus4"G- G4 | %4
+w: Pour in the blue of a June night and|one gui- tar, *|
+w: stir for a cou- pl- 'a ho- urs till|dreams come true, *|
+"D7" (3F^EF"A7" (3GFG"D7" A f2 F |"Am7" e2 Fd-"D13" d4 |1"G" B2 d2"Em7" G3 B || %7
+w: mix in a cou- pl- 'a dream- ers and|there you are, *|lov- ers hail the|
+w: as to the num- ber of kiss- es, it's|up to you, *||
+"Am7" A2 c2"D7" F2 A2 :|2"Am" c2 e2"C/E" A2 c2 ||"A9" B"D7" A2"G6" G- G4 |"F#m7" F4-"B7" F>FG>^G | %11
+w: moon- light cock- tail.|Moon- light cock- tails|need a few. *|Cool * it in the|
+w: ||||
+"F#m7" A B2 B-"B7" B4 |"F#m7" B>BA>A"B7" F>F^D>D |"Em" E"B7" F2"Em" G- G4 |"A7" ^C4- ^C>CD>^D | %15
+w: sum- mer breeze, *|serve it in the star- light un- der-|neath the trees. *|You'll * dis- cov- er|
+w: ||||
+"Em7" E G2 G-"A7" G2 E2 |"Em7" B>BA>A"A7" G E3 |"D7" F G2 A-"D7b9" A4 | %18
+w: tricks like these * are|sure to make your moon- light|cock- tail please. *|
+w: |||
+"G" (3B,^A,B,"D7" (3CB,C"G" D B2 B, |"B7" A2 B,G-"Em7" G4 |"A7" (3^C^B,C"E7" (3D^CD"A7" E =B2 ^C | %21
+w: Fol- low the sim- ple di- ec- tions and|they will bring, *|life of an- oth- er com- plex- ion, where|
+w: |||
+"Em11" A2 ^C"A9sus4"G- G4 |"D7" (3F^EF"A7" (3GFG"D7" A f2 F |"Am7" e2 Fd-"D13" d4 | %24
+w: you'll be king. *|You will a- wake in the morn- ing and|star to sing. *|
+w: |||
+"Am" c2 e2"C/E" A2 c2 |"A9" B"D7" A2"G" G- G4 |] %26
+w: Moon- light Cock- tails|are the thing. *|
+w: ||
+

@@ -1,0 +1,52 @@
+X:1
+T:Old time waltz medley
+T:various
+T:Old time waltzes
+T:(1)Home on the range (2)_Beautiful Isle of Somewhere (3)Believe me if all those endearing young charms (4) When you were sweet sixteen (5) Whispering Hope
+C:various
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^(1)" z z G |"C" G c d | e2 c/B/ |"F" A f f | f2 e/f/ |"C" g2 c/B/ |"D7" c B c |"G7" d3- | d2 G | %9
+w: Oh|give me a|home where the|buf- fa- lo|roam where the|deer and the|an- te- lope|play|* where|
+"C" G c d | e2 c/B/ |"F" A f f | f2 f/f/ |"C" e d c |"G7" B c d |"C" c3- | c2 z | g3 | %18
+w: nev- er is|hear a dis-|cour- ag- ing|word and the|skies are not|cloud- y- all|day.||home|
+"G7" f e3/2 d/ |"C" e3- | e2 G/G/ | c2 c/c/ |"D7" c B c |"G7" d3- | d2 G |"C" G c d | e2 c/B/ | %27
+w: home on the|range|* where the|deer and the|an- te- lope|play|* where|ne- ver is|heard a dis-|
+"F" A f f | f2 f/f/ |"C" e3/2 d/ c |"G7" B c d |"C" c e g | c'3 |] z3 |"^(2)" z3 |"C" e d c | %36
+w: cour- ag- ing|word and the|skies are not|cloud- y all|day * *||||Some- where the|
+ G2 c |"F" c3 |"G7" B3 | f e d | A2 B |"C" A3 | G3 | e d c | G2 c |"G" B3 | d3 |"D7" d e d | %48
+w: sun is|shin-|ing|some- where the|song- birds|dwell||hush then they|sad re-|pin-|ing|God lives and|
+ c B A |"G" G3- | G3 |"G7" d3 | G3 |"C" c3 | G3 | c c c |"D7" c B c |"G7" d2 e | f3 |"C" e f e | %60
+w: all * is|well||some-|where|some-|where|beau- ti- ful|isle * of|some *|where|land of the|
+"G7" d2 d/d/ |"C" g2 c |"F" f3 |"C" e d c | G c e |"G7" d3 |"C" c3 |] z3 | z3 | %69
+w: true where we|live a-|new|Beau- ti- ful|isle * of|some-|where|||
+"^(3)" z z"^N.C." E/"C"D/ | C3/2 D/ C | C E G |"F" F A c | c2 B/A/ |"C" G3/2 F/ E |"G7" D C D | %76
+w: Be- *|lieve me if|all those en-|dear- ing young|charms which I|gaze on so|fond- ly to-|
+"C" E3- | E2 E/D/ | C3/2 D/ C | C E G |"F" F A c | c2 B/A/ |"C" G c E |"G7" D3/2 C/ D |"C" C3- | %85
+w: day|* were to|change by to-|mor- row and|flee from my|arms like *|fair- y gifts|fad- ing a-|way|
+ C2 G/F/ | E G c | c2 G/G/ |"F" A F c | c2 B/A/ |"C" G3/2 F/ E |"G7" D C D |"C" E3- | E2 E/D/ | %94
+w: * thou wouldst|still be a-|dored as this|mo- ment thou|art, Let thy|love- li- ness|fade as it|will|* and a-|
+ C3/2 D/ C | C E G |"F" F A c | c2 B/A/ |"C" G c E |"G7" D3/2 C/ D |"C" C3- | C2 z | z3 | z3 | %104
+w: round the dear|ru- in- each|wish of my|heart would en-|twine it- self|ver dant- ly|still||||
+ z z"^(4)" G |"C" E2 C | E2 G | c e2 | d2 c |"F" A3- | A3- | A2 F |"G7" F2 D | F2 G | B2 A | G2 A | %116
+w: I|love you|ad I|nev- er|loved be-|fore||* since|first I|met you|on the|vil- lage|
+"C" G3- | G3- |"G7" G3- | G2 E |"C" E2 C | E2 G | c e2 | d2 c |"F" A3- | A3- | A3- | A2 A | A2 B | %129
+w: greeen|||* come|to me|or my|dream of|love is|o'er|||* I|love you|
+ d2 c |"C" A G2 | A B c |"D7" e3 | c d e |"G7" d2 c |"C" c3- | c3 |] z3 | z3 |"C" G2"^(5)" G/G/ | %140
+w: as I|loved you|when you were|sweet|when you were|sweet six-|teen||||Soft as the|
+"F" c B A |"C" G3 | E3 |"G7" F3/2 F/ F | A G F |"C" E3- | E3 | E2 E/E/ | E F G |"F" A3 | c3 | %151
+w: voice of an|an-|gel|breath- ing a|les- son un-|heard||Hope with a|gen- tle per-|sua-|sion|
+"C" G3/2 G/ G |"G7" B A B |"C" c3- | c3 | G z G/G/ |"G7" G _G F |"C" E3 | c3 | B z B/B/ | %160
+w: whis- ers her|com- fort- ing|word||wait till the|dark- ness is|o-|ver|wait till the|
+"D7" B c A |"G" G3- |"G7" G3 |"C" c2 c/c/ |"F" c B A |"C" G3 | c3 | E3/2 E/ E |"G7" G F D | %169
+w: tem- pest is|done||hope for the|sun- shine to-|mor-|row|af- ter the|show- er is|
+"C" C3- | C3 ||"G7" G3- | G A B |"C" c3- | c B c |"G7" d3- | d c d |"C" e3 | G3 |"F" A3- | A B c | %181
+w: gone||Whis|* per ing|hope|* oh how|wel|* come thy|voice||mak|* ing my|
+"C" G3- | G E C |"G7" B,3- | B, A, B, |"C" C3- | C3- | C3 | z3 |] %189
+w: heart|* in its|sor|* row re-|joice||||
+

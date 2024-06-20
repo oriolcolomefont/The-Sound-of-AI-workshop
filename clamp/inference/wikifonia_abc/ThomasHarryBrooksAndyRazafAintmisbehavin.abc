@@ -1,0 +1,28 @@
+X:1
+T:Aint misbehavin'
+T:Aint misbehavin'
+T:Andy Razaf,Thomas Waller, Harry Brooks
+C:Thomas Fats Waller, Harry Brooks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"F" FGF c c3 |"Gm" z GAG"C7" d4 |"F" z cdc f f2 e |"Bb" gfdA- A_AG z |"F" z FGF"Dm" c c3 | %5
+w: No one to talk with|all by my- self|no one to walk with but|I'm hap- py on * the shelf|aint mis- be- hav- in|
+w: I know for cer- tain|the one I love|I'm through with flirt- ing Its|just you I'm thin * in of|aint mis- be- hav- in|
+"Gm7" z GAG"C7" d d2 c |"F" A8- |"Cm7" A8 :|"F" F8- |"Gm7" F6"F" z2 |"Dm" z2 fd f d3 | %11
+w: I'm sav- in my love for|you||you||Like Jack Hor- ner|
+w: I'm sav- ing my love for|you.|||||
+"Bb" z3 f df d2 |"G7" z2 fd f d3 |"D7" z3 ^f d^f d2 |"C" z2 g2 g2 g2 |"Dm" g2 f2"G7" e2 d2 | %16
+w: in the cor- ner|dont go no where|what do I care|your kiss- es|are worth wai- tin|
+w: |||||
+"G" c4"D7" d4 |"G7" A4"C7" G4 |"F" z FGF c c3 |"Gm7" z GAG"C7" d4 |"F" z cdc f f2 e | %21
+w: for be-|lieve me|I dont stay out late|dont care to go|I'm home a- bout eight just|
+w: |||||
+"Bb" gfdA- A_A G2 |"F" z FGF"Dm" c c3 |"Gm7" z GAG"C" d d2 c |"F" f8- | f6 z2 |] %26
+w: me and my ra * di- o|aint mis- be- hav- ing|I'm sav- in my love for|you.||
+w: |||||
+

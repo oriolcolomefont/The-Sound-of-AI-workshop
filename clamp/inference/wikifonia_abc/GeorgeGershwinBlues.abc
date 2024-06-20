@@ -1,0 +1,22 @@
+X:1
+T:Blues
+T:Blues 
+T:From American In Paris
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb""G+7" (f8- |"Cm" fg"Bb/D"fB"Eb7"{/c}"Eb7" _dc"F11"BG |"Bb""G+7" F8- | %3
+"Cm7""Bb/D" F6)"Ebm6""F7b9" z2 |"Bb""G+7" (f8- |"Cm" fg"Bb/D"fB"Eb7"{/c}"Eb7" _dc"F11"BG | %6
+"Bb""Bb/D""Ebmaj7""F11" B8- |"Bb""Cm7""C#dim" B6)"Bb7/D" z2 |"Eb" (geBG"Cm7b5" _G f2) (e | %9
+"Bb/F" dB_GF)"Gb9" (=E_d)"F7b9"(_Ec) |"Bb""Eb""F11" B8 |"Bb" z b"Bb/Ab"bb"Gb9" (_a_g)"F7b9"(fe) | %12
+"Bbm" f4 _DFB_d |"C7/G" (cB)_dB"Ebm6/Gb" (cB)dB |"Bb7/F" _AFFF- F(F,"B7b5"EF,) | %15
+ z (f_a)"Ab7b5"(d f)"F7b5"(=Bd)"^F7b9+"_g ||"Bb""G+7" (f8- |"Cm" fg"Bb/D"fB"Eb7" _dc"F11"BG | %18
+"Bb""G+7" F8- |"Cm7""Bb/D""Ebm6" F6)"F7b9" z2 |"Bb""G+7" ((f8 |"Cm" f)g"Bb/D"fB"Eb7" _dc"F11"BG | %22
+"Bb""Bb/D""Ebmaj7""F11" B8- |"Bb""Cm7" B6)"C#dim""Bb7/D" z2 |"Eb" (geBG"Cm7b5" _G f2) (e | %25
+"Bb/F" dB_GF)"Gb9" (=E_d)"F7b9"(_Ec) |"Bb""Bb/D""Ebmaj7""F11" B8- |"Bb" B6 z2 |] %28
+

@@ -1,0 +1,61 @@
+X:1
+T:Nobody's Perfect
+C:Matthew Gerrard, Robbie Nevil
+Z:Public Domain
+L:1/8
+M:4/4
+K:Dmin
+V:1 alto nm="Imported MIDI"
+V:1
+ [Dd] A d f a f d A | [B,d] B d f [Cb] f d B | [F,c] A c f a f c A | [C,c] G c e [E,g] f e c | %4
+ [D,d] A d f a f d A | [B,d] B d f [A,b] f d B | [F,c] A c f a f c A | %7
+ [C,C,,c] G [C,,cC,] e [gC,C,,] f [eC,,C,] c | [DD,,d]3/4 z/4 D,, D, D [D,,dD] D,,/ [Cc]/ D, [Dd] | %9
+ D,, D,, D, D [D,,A,A] D,,/ [cC]/ D, [AA,] | D,, D,, D, d [D,,fF] D,,/ [eE]/ D, [cC] | %11
+ D,, D,, D, D [D,,G,G] D,,/ [AA,]/ D, D | [DD,,d]3/4 z/4 D,, D, D [D,,dD] D,,/ [Cc]/ D, [Dd] | %13
+ D,, D,, D, D [D,,A,A] D,,/ [cC]/ D, [AA,] | D,, D,, D, d [D,,fF] D,,/ [eE]/ D, [cC] | %15
+ D,, D,, D, D [D,,G,G] D,,/ [AA,]/ D, D | [C,C,,cC] [C,C,,cC] [C,C,,cC] [C,C,,cC] [C,C,,cC]2 z2 | %17
+ [C,,G,,] G G F F [_EC,,G,,] [EC,,G,,]2 | [B,,_E,,] G G F F [E,,B,,_E] [EE,,B,,]2 | %19
+ [_E,_A,,] C _E C F [A,,E,C] [CA,,E,]2 | [_E,_A,,] _E E C F [B,,F,C] [CB,,F,]2 | %21
+ [G,C,] G G F F [C,,G,,_E] [EC,,G,,]2 | [B,,_E,,] G G F F [E,,B,,_E] [EE,,B,,]2 | %23
+ [_E,_A,,] C _E C F [A,,E,C] [CA,,E,]2 | [_E,_A,,] _E E C F [E,CA,,] [CA,,D,]2 | %25
+ B,,, [CB,F] [FB,,CB,] _E [B,,,F] E [B,,F] [ECG] | C,,2 [C,_E]3/4 z/4 C, [EGC,,C]3/2 z/ C,2 | %27
+ B,,, [FB,C] [B,,CB,F] _E [B,,,F] E [FB,,] [GC] | %28
+ [GCC,,C,] [C,,EGCC,] [CGEC,C,,] [EC,C,,GC] [C,,GC,Ec] [cEG] [EGc] [EGc] | %29
+ D,, [D,,FdA]3/4 z/4 D,, D,, [D,,cAF] [AcD,,F] [FD,,cA] [D,,EAc]3/4 z/4 | %30
+ [AEB,,] [B,,FdB]3/4 z/4 B,, [B,,D] [B,,F] [B,,F] [B,,F] [EBCB,,] | %31
+ [CEF,,B] [F,,CFA] [CAFF,,] [GF,,FC]3/4 z/4 F,, [CFF,,] [F,,G] [F,,DCEG]3/4 z/4 | %32
+ C,, C,, C,, C,, [GcC,,E] [GEC,,c] [EcC,,G] [C,,EGc]3/4 z/4 | %33
+ D,, [D,,AFd]3/4 z/4 D,, [AD,,] [D,,cFA] [AD,,Fc] [FD,,Ac] [AcED,,] | %34
+ [AEB,,c] [FdBB,,]3/4 z/4 B,, B,, [FB,,] [B,,F] [FB,,] [B,,CEB]3/4 z/4 | %35
+ F,, [CF,,FA]3/4 z/4 F,, [F,,GFC]3/4 z/4 F,, [F,,CF] [F,,G] [F,,CDFG]3/4 z/4 | %36
+ C,, C,, C,, C,, [CC,,E] [EC,,C] [CEC,,] [C,,CE] | [B,,,B,,CE] [FDB,] [FDB,]4 z2 | %38
+ e/ f/ c'/ c/ e/ f/ c'/ B/ c/ e/ f/ B/ c/ e/ f | [C,,G,,] G G F F [_EC,,G,,] [EC,,G,,]2 | %40
+ [B,,_E,,] G G F F [E,,B,,_E] [EE,,B,,]2 | [_E,_A,,] C _E C F [A,,E,C] [CA,,E,]2 | %42
+ [_E,_A,,] _E E C F [B,,F,C] [CB,,F,]2 | [G,C,] G G F F [C,,G,,_E] [EC,,G,,]2 | %44
+ [B,,_E,,] G G F F [E,,B,,_E] [EE,,B,,]2 | [_E,_A,,] C _E C F [A,,E,C] [CA,,E,]2 | %46
+ [_E,_A,,] _E E C F [E,CA,,] [CA,,D,]2 | B,,, [CB,F] [FB,,CB,] _E [B,,,F] E [B,,F] [ECG] | %48
+ C,,2 [C,_E]3/4 z/4 C, [EGC,,C]3/2 z/ C,2 | B,,, [FB,C] [B,,CB,F] _E [B,,,F] E [FB,,] [GC] | %50
+ [GCC,,C,] [C,,EGCC,] [CGEC,C,,] [EC,C,,GC] [C,,GC,Ec] [cEG] [EGc] [EGc] | %51
+ D,, [D,,FdA]3/4 z/4 D,, D,, [D,,cAF] [AcD,,F] [FD,,cA] [D,,EAc]3/4 z/4 | %52
+ [AEB,,] [B,,FdB]3/4 z/4 B,, [B,,D] [B,,F] [B,,F] [B,,F] [EBCB,,] | %53
+ [CEF,,B] [F,,CFA] [CAFF,,] [GF,,FC]3/4 z/4 F,, [CFF,,] [F,,G] [F,,DCEG]3/4 z/4 | %54
+ C,, C,, C,, C,, [GcC,,E] [GEC,,c] [EcC,,G] [C,,EGc]3/4 z/4 | %55
+ D,, [D,,AFd]3/4 z/4 D,, [AD,,] [D,,cFA] [AD,,Fc] [FD,,Ac] [AcED,,] | %56
+ [AEB,,c] [FdBB,,]3/4 z/4 B,, B,, [FB,,] [B,,F] [FB,,] [B,,CEB]3/4 z/4 | %57
+ F,, [CF,,FA]3/4 z/4 F,, [F,,GFC]3/4 z/4 F,, [F,,CF] [F,,G] [F,,CDFG]3/4 z/4 | %58
+ C,, C,, C,, C,, [CC,,E] [EC,,C] [CEC,,] [C,,CE] | [B,,,B,,CE] [FDB,] [FDB,]4 z2 | %60
+ e/ f/ c'/ c/ e/ f/ c'/ B/ c/ e/ f/ B/ c/ e/ f | %61
+ [GDCC,,E]3/4 z/4 C,, C,, C,, [C,,EGc] [cC,,EG] [cC,,EG] [cEGC,,] | %62
+ D,, [D,,FdA]3/4 z/4 D,, D,, [AcD,,F] [AFD,,c] [AcD,,F] [D,,EAc]3/4 z/4 | %63
+ B,, [FB,,Ad]3/4 z/4 B,, B,, [FB,,] [B,,F] [B,,F] [B,,CEB]3/4 z/4 | %64
+ F,, [CAFF,,]3/4 z/4 F,, [GCFF,,]3/4 z/4 F,, [FCF,,] [F,,G] [GCDFF,,] | %65
+ C, C, C, C, [G,C,EC] [EC,G,C] [CEC,G,] [ECC,G,]3/4 z/4 | %66
+ [B,,F,] [DF] B,,2 [CcB,,,] [Cc] [CB,,c] [Cc] | A,,, [FC] A,, [FC] A,,, A,,, [A,,D] F | %68
+ [EC,,GC]2 [FC,] [CEG] C,, F [C,EAC] G | C,, A C,2 [CD,,G,E] [E,,G,CE] [CD,,G,E] [C,,CG,E]3/4 z/4 | %70
+ B,,, [CDFB,] B,,2 [B,,,cC] [cC] B,, [cC] | F,, [CF] F, [FC] F,, F,, [F,D] F | %72
+ [G,A,,^CA] [_CA] [CA] [GG,A,,C] [AC] [AC] [CG,A,,G] [CA]7/4 | %73
+ z/4 [AA,A,,G,] [G,A,A,,A]2 [A,AaA,,] [A,,A,Aa] [aAA,,A,]2 | [Dd] A d f a f d A | %75
+ [B,d] B d f [Cb] f d B | [F,c] A c f a f c A | [C,c] G c e [E,g] f e c | [D,d] A d f a f d A | %79
+ [B,d] B d f [A,b] f d B | [F,c] A c f a f c A | [C,,C,c] G [cC,C,,] e [gC,,C,] f [C,eC,,] c | %82
+ d3/4 | %83
+

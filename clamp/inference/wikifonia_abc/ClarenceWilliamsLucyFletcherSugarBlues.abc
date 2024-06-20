@@ -1,0 +1,24 @@
+X:1
+T:Sugar Blues
+T:Sugar Blues
+C:Clarence Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" c A2 G- G2 E2 | C4- C2 z2 | cAGE G E3 |"C7" D4- D2 z2 |"F" D C3 _E C3 |"C" ^DEDE"F" C C3 | %6
+w: Have you heard * these|blues *|That I'm Going to sing to|you *|When you hear them|they will thrill you thro and|
+"C" C8- | C4- C2 GA |"G" BdB"D7"d- dB A2 |"G" G4- G2 G2 |"D7" A^GAB c A3 |"G7" d4- d z z2 |: %12
+w: thro'|* * They're the|sweet- est blues you * ev- er|heard * Now|lis- ten and don't say a|word. *|
+"C""^Chorus" c A2 G- G4 | c>c_B>A G A2 G |"G7" B A2 G- G3 A | B2 AD GA A2 | B B2 d- d2 BG | %17
+w: Su- gar Blues *|Ev- ry- bo- dy's sing- ing the|Su- gar Blues * The|Whole Town is Ring- ing My|Lov- in Man's * sweet as|
+"Dm" A B2 A- A2"G7" AB |"C7" c2 _B2 G2 E2 | EG E2 C4 | c2 _BA G A2 G | c _B2 G- G2 EE | %22
+w: he can be * But the|dog- gone fool turned|so- ur on me|I'm so un- hap- py I|feel so bad * I could|
+ D2 E2 D C3 |"F" A4-"Dm" A2 DD | DDDA- A2 AB |"C" c2"E7" B2"A7" A2 G2 |"D7" ^GA=GA"G7" A G3 | %27
+w: lay me down and|die. * You can|say what you choose * but I'm|all con- fused, I've|got the sweet, sweet Su- gar|
+"C" c2"E7" B2"A7" A E2 G |"D7" ^GA=GA"G7" A G3 |1"C" c4-"G7" cG"G+"A>G :|2"C" e8- | e2 z2 z4 |] %32
+w: Blues, more su- gar, I've|got the sweet, sweet Su- gar|Blues * I've got the|Blues.||
+

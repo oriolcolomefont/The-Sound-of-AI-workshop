@@ -1,0 +1,14 @@
+X:1
+T:Házigazda, aluszol-e?
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ CE(G>A) G4 | DE F2 E2 z2 :| G2 EC AA G2 | F2 ED EF G2 | F2 ED ED C2 |] %5
+w: Há- zi- gaz _ da,|a- lu- szol- e?|Ser- kenj fel ál- mod- ból,|és kelj fel ágy- ad- ból,|mert jöt- tünk te- hoz- zád!|
+w: Íly sok- á _ ig|még nyug- szol- e?||||
+

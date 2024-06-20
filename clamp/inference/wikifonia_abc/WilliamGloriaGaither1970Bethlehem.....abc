@@ -1,0 +1,48 @@
+X:1
+T:Bethlehem . . . Galilee . . . Gethemane
+T:Bethlehem . . . Galilee . . . Gethemane
+T:William & Gloria Gaither, 1970
+C:William & Gloria Gaither 1970
+Z:All Rights Reserved
+L:1/8
+Q:1/4=66
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"Eb2" z8 |"Abm6/Bb" z6 EG |"Eb" G6"Bb6/D" GA |"Fm/C" A2"Cm" G2"Eb/Bb" z2 GE |"F/A" F6"Am6/Bb" A>G | %5
+w: |Beth le|hem He was|born there I be|lieve I be|
+"Eb2" G4 z2 EG |"Eb" G6"Bb6/D" GA |"Fm/C" A2"Cm" G4"Eb/Bb" GE |"F/A" F6"Abm6/Bb" A>G | %9
+w: lieve Ga li|lee Je sus|walked there I be|lieve I be|
+"Eb" G4"Db/F" z F"Eb/G"Ec |"Abmaj7" c4- c"Fm6/Ab"c d>c |"Gm7" c2 B2"Cm7" z EEB | %12
+w: lieve Geth se ma|ne _ my Sav ior|prayed there On Cal va|
+"Gm" B4"Cm7" z B"Eb/Bb"GE |"F/A" F4"Abm6/Bb" z2 E>G |"Eb" G6"Bb6/D" z A | %15
+w: ry He died a|lone but the|tomb He|
+"Fm/C" A2"Cm" G4"Eb/Bb" GE |"F/A" F4"Am6/Bb" z2 A>G |"Eb" G2-"Gm7/D" G2"Cm" z2"Eb/Bb" EG | %18
+w: left there I be|lieve I be|lieve _ I be|
+"F/A" F4-"Am6/Bb" F2 A>G |"Eb2" G8 |"Abm/Bb" z4"Abm6/Bb" z2 EG |"Eb" G6"Bb6/D" GA | %22
+w: lieve _ I be|lieve|Beth le|hem He was|
+"Fm/C" A2"Cm" G2"Eb/Bb" z2 GE |"F/A" F6"Am6/Bb" A>G |"Eb2" G4 z2 EG |"Eb" G6"Bb6/D" GA | %26
+w: born there I be|lieve I be|lieve Ga li|lee Je sus|
+"Fm/C" A2"Cm" G4"Eb/Bb" GE |"F/A" F6"Abm6/Bb" A>G |"Eb" G4"Db/F" z F"Eb/G"Ec | %29
+w: walked there I be|lieve I be|lieve Geth se ma|
+"Abmaj7" c4- c"Fm6/Ab"c d>c |"Gm7" c2 B2"Cm7" z EEB |"Gm" B4"Cm7" z B"Eb/Bb"GE | %32
+w: ne _ my Sav ior|prayed there On Cal va|ry He died a|
+"F/A" F4"Abm6/Bb" z2 E>G |"Eb" G6"Bb6/D" z A |"Fm/C" A2"Cm" G4"Eb/Bb" GE |"F/A" F4"Am6/Bb" z2 A>G | %36
+w: lone but the|tomb He|left there I be|lieve I be|
+"Eb" G2-"Gm7/D" G2"Cm" z2"Eb/Bb" EG |"F/A" F4-"Am6/Bb" F2 A>G |"Eb2" G8 | %39
+w: lieve _ I be|lieve _ I be|lieve|
+"Abm/Bb" z4"Abm6/Bb" z2 EG |"Eb" G6"Bb6/D" GA |"Fm/C" A2"Cm" G2"Eb/Bb" z2 GE | %42
+w: Beth le|hem He was|born there I be|
+"F/A" F6"Am6/Bb" A>G |"Eb2" G4 z2 EG |"Eb" G6"Bb6/D" GA |"Fm/C" A2"Cm" G4"Eb/Bb" GE | %46
+w: lieve I be|lieve Ga li|lee Je sus|walked there I be|
+"F/A" F6"Abm6/Bb" A>G |"Eb" G4"Db/F" z F"Eb/G"Ec |"Abmaj7" c4- c"Fm6/Ab"c d>c | %49
+w: lieve I be|lieve Geth se ma|ne _ my Sav ior|
+"Gm7" c2 B2"Cm7" z EEB |"Gm" B4"Cm7" z B"Eb/Bb"GE |"F/A" F4"Abm6/Bb" z2 E>G |"Eb" G6"Bb6/D" z A | %53
+w: prayed there On Cal va|ry He died a|lone but the|tomb He|
+"Fm/C" A2"Cm" G4"Eb/Bb" GE |"F/A" F4"Am6/Bb" z2 A>G |"Eb" G2-"Gm7/D" G2"Cm" z2"Eb/Bb" EG | %56
+w: left there I be|lieve I be|lieve _ I be|
+"F/A" F4-"Am6/Bb" F2 A>G |"Eb2" G8 |] %58
+w: lieve _ I be|lieve|
+

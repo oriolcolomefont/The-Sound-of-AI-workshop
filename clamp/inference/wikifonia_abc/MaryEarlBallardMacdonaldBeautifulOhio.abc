@@ -1,0 +1,26 @@
+X:1
+T:Beautiful Ohio
+T:Beautiful Ohio
+C:Mary Earl
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cm" e2 =B2 c2 | G6 |"Fm" e2 =B2 c2 | A6 |"G7" G^F G=A =Bc | d6 |"Cm" G^F G=B cd | e6 | e2 =B2 c2 | %9
+w: Long, long a-|go,|Some- one I|know|Had a lit- tle red ca-|oe.|In it room for on- ly|two|Love found it's|
+ G6 |"Fm" e2 =B2 c2 | A6 |"G7/B" G2 ^F2 G2 |"G9" e4"G7" d2 |"Cm" c6- |"Bb7/D" c6 |]"Eb" B3 =A _AG | %17
+w: start,|Then in my|heart,|And like a|flow- er|grew.|_|Drift ing with the|
+ B3 =A _AG |"Bb7" B4 A2 | D6 | c3 =B _BA | c3 =B _BA |"Eb" c4 B2 | E6 | e4 G2 | d4 G2 | %26
+w: cur- rent down a|moon- lit|stream,|while a- bove the|heav- ens in their|glor- y|gleam;|And the|stars on|
+"Fm/Ab" c6- | c6 |"Bb7" d4 A2 | c4 B2 |"Eb" G6- | G6 | B3 =A _AG | B3 =A _AG |"Bb7" B4 A2 | D6 | %36
+w: high,|_|twink- le|in the|sky.|_|Seem- ing in a|par- a dise of|love di-|vine,|
+ c3 =B _BA | c3 =B _BA |"Eb" c4 B2 | E6 | ee d2 e2 |"C7" B2 A2 G2 |"Fm" F3 =E Fd |"Fm7" c6 | %44
+w: Dream- ing of a|pair of eyes that|looked in|mine;|Beau- ti- ful O-|hi- o, in|dreams a- gain I|see|
+"Bb7" d2"Fm7" c2"Bb7" B2 | G2 A2 D2 |"Eb" E6- | E6 |] %48
+w: Vis- ions of|what used to|be.|_|
+

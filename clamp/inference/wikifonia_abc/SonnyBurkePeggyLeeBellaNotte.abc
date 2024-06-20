@@ -1,0 +1,26 @@
+X:1
+T:Bella Notte
+T:Bella Notte
+C:Sonny Burke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B2- (3BAB A2- (3AGF | A2- (3AGA G2- (3GEF |"G/B" G3 F"Bbdim7" A3 F |"Am7" E2"D7" D6 | %4
+w: This _ is the night, _ i'ts a|beau- * ti- ful night _ and we|call it bel- la|not- te.|
+ A2- (3AGA"Am7/D" G2- (3GEF | G2- (3GFG"D7" F2- (3FED |"Am7" E3 E"D7" G3 F |"C/G" E2"G" D4 D2 | %8
+w: Look _ at the skies, _ they have|stars _ in their eyes _ on this|love- ly bel- la|not- te. So|
+"Dm7" d2 d2 d2- (3dcd | B2"Dm7/G" B4 A2 |"C" B B2 A B2"G+7" G2 |"Cmaj7" B6 z E | %12
+w: take the love _ of your|loved one. You'll|need it a- bout this|time to|
+"Em7" B2 A2"A9" G F3 |"Em7" A2 AF-"A9" F2- (3FGF |"Am7/D" E2 E2"D7" F2 G2 |"Am7/D" A6"D+7" ^A2 | %16
+w: keep from fall- ing|like a star _ _ when you|make that diz- zy|climb. For|
+"G" B2- (3BAB A2- (3AFG |"Bm7b5" d d2 A"E+7" c2- (3c^AB |"Am7" c3 E"D7b9" B3 F |1 %19
+w: this _ is the night _ and the|heav- ens are right _ on this|love- ly bel- la|
+"G" A2"Am7/D" G4"D+7" z2 :|2"G" A2 !fermata!G6 |] %21
+w: not- te.|not- te.|
+

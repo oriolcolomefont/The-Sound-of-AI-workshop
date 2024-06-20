@@ -1,0 +1,24 @@
+X:1
+T:You Only Live Twice
+T:You Only Live Twice
+C:John Barry
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" A2 (3d c A |"Cm" G3 F |"Bbm" G3 A |"F" C3 z |"Bbm7" B,2 (3C _D F | %5
+w: You on- ly live|twice or|so it|seems.|One life for you-|
+"C7" G3/2 C/"Bbm7" (3B _A B |"C" c4- |"C7b5" c3"C9" z |"F" A2 (3d c A |"Cm" G3 F |"Bbm" G3 A | %11
+w: self and one for your|dreams.|_|You drift through the|years and|life seems|
+"F" C3 z |"Bbm7" B,2 (3C _D F |"C7" G3/2 C/"Bbm" (3B _A B |"F" F4- | F3 z |"Bbm7" z _d (3_e d B | %17
+w: tame,|Till one dream ap-|pears and love is it's|name.|_|And love is a|
+"C" c c- c3/2 c/ |"Ebm" B _G2 B |"C" c3 z |"Bbm7" z _d (3_e d B |"C" c c2 G/c/ |"Bbm7" _d d2 B | %23
+w: stran- ger _ who'll|beck- on you|on.|Don't think of the|dan- ger or the|stran- ger is|
+"C7" =e3 z |"F" A2 (3d c A |"Cm" G3 F |"Bbm" G3 A |"F" C3 z |"Bbm7" B,2 (3C _D F | %29
+w: gone.|This dream is for|you, So|pay the|price.|Make one dream come|
+"C7" G3/2 C/"Bbm" (3B G _A |1"F""C11" F4- |"F" F2"C11" z2 :|2"F" F4- | F2 z2 || %34
+w: true, You on- ly live|twice.|_|twice.|_|
+

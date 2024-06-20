@@ -1,0 +1,54 @@
+X:1
+T:White Wedding
+T:White Wedding
+C:Billy Idol
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 bass nm="Melody"
+%%MIDI channel 4
+%%MIDI program 0
+V:1
+ B,,,B,,,D,,E,, ^F,,F,,E,,D,, | B,,,B,,,D,,E,, ^F,,F,,E,,D,, | B,,,B,,,D,,E,, ^F,,F,,E,,D,, | %3
+w: |||
+ B,,,B,,,D,,E,, ^F,,F,,E,,D,, |[K:treble]"Bm" ^F2 D2 B,2 ^F,2 | B,2 D2 ^F2 D2 |"E" E8- | %7
+w: ||||
+"D" E/ z/ z z2 z4 |"Bm" ^F2 D2 B,2 ^F,2 | [B,D^F]2 D2 F2 D2 |"D" [B,A]6- [B,A]>E- |"E" [E^GB]8 | %12
+w: |||||
+[K:bass] B,,,B,,,B,,,B,,, B,,,B,,,B,,,B,,, | B,,,B,,,B,,,B,,, B,,,B,,,B,,,B,,, | %14
+w: ||
+ B,,,B,,,B,,,B,,, B,,,B,,,B,,,B,,, | B,,,B,,,B,,,B,,, B,,,B,,,B,,,B,,, |: %16
+w: ||
+[K:treble]"Bm" B,2"^Verses" DE ^F2 FB,- | B, D2 E- E E3- |"A" E2 z2 z4 |"E" EEEE EEEE | %20
+w: Hey lit- tle sis- ter, what|_ have you _ done?|_||
+"Bm" B,2 DE ^F2 FA- | A ^F2 E- EF F2- |"A" F/ z/ z z2 z4 |"E" EEEE EEEE |"Bm" B,2 DE ^F2 FA- | %25
+w: Hey lit- tle sis- ter, who's|_ the on- * ly one?|_||Hey lit- tle sis- ter, who's|
+ A ^F2 E- EF F2 |"Bm" B,2 DE ^F2 FA- | A/z/^F z E- EF B,2 |"Bm" B,2 DE ^F2 FA- | A ^F3 z2 DB, | %30
+w: _ your su- * per- man?|Hey lit- tle sis- ter, who's|_ the one _ you want?|Hey lit- tle sis- ter, shot-|* gun It's a|
+"A" z2 D2 D2 B,2 |"E" z2 z A- A^FEF- |"Bm" F4 z4 | z4 z2 DB, |"E" z2 D2 D2 B,B, |"D" z2 D2 D D3 | %36
+w: nice day to|start _ a- gain _|_|It's a|nice day for a|white wed- ding|
+"Bm" B,B,B,B, B,B,B,B, | z4 z2 DB, |"E" z2 D2 D2 B,2 |"D" z2 z A- A^FEF- |"Bm" F6 z2 | z8 :| %42
+w: _ _ _ _ _ _ _ _|It's a|nice day to|start _ a- gain _|_||
+"_Inst gtr""Bm" ^F2 D2 B,2 ^F,2 | B,2 D2 ^F2 D2 |"E" E8- |"D" E4 z4 |"Bm" ^F2 D2 B,2 ^F,2 | %47
+w: |||||
+ B,2 D2 ^F2 D2 |"D" A8 |"E" B8 | ^F2 D2 B,2 ^F,2 | B,2 D2 ^F2 D2 |"E" ^F2 D2 B,2 ^F,2 | %53
+w: ||||||
+ B,2 D2 ^F2 D2 |"Bm" ^F2 D2 B,2 ^F,2 | B,2 D2 ^F2 D2 |"D" ^F2 D2 B,2 A,2 |"E" _A,2 B,2 E2 D2 | %58
+w: |||||
+"Bm" _D2 A,2 ^F,2 B,2- | B,8 |"A" z4"^Vocal" z2 z d- |"E" d/z/B B2 B2 d2 | z8 | %63
+w: |||||
+ z4 z2"_weird outro vox" B,D |"Bm" ^FFzF- FE D2 | B,8- | B,2 z2 z4 | z4 z2 B,D |"Bm" ^FFzF- FE A2 | %69
+w: There is|noth- ing fair _ in this|world|_|There is|noth- ing safe _ in this|
+ ^F8 | z8 | z4 z ^F F2 |"Bm" A^FzA- AF A2 | ^F4 z F F2 | A ^F2 A z F A2 |"Bm" ^F4 z F F2 | %76
+w: world||And there's|noth- ing sure _ in this|world And there's|noth- ing pure in this|world Look for|
+"Bm" A^FzA z F A2 | A4 c2 A2- |"E" A6 z2 |"D" z2 z e- ee e2- |"Bm" e4 B4- | B2 dd- d2 dB | %82
+w: some- thing left in this|world _ _|_||||
+ z2 d2 d2 B2 | z2 D2 D D3 | z8 | z4 z2 DB,- | B,/ z/ z D2 D2 B,2 | z2 z e- ee e2- | e8- | %89
+w: |||||||
+ e4 B2 dB- | B2 d2 d2 B2- | B/ z/ z z e- ee e2- | e8 | B4 d2 dB- | B2 d2 d2 B2- | B/ z/ z z2 z4 | %96
+w: |||||||
+ z8 |] %97
+w: |
+

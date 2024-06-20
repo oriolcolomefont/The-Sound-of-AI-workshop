@@ -1,0 +1,33 @@
+X:1
+T:Ain't That A Shame
+T:Ain't That A Shame
+T:Antoine Domino & Dave Bartholomew
+C:Antoine Domino & Dave Bartholomew
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G D G/ D D/ |"C7" G D G/ D D/ |"G" G A/>^A/ B/>G/E/D/- |"D7" D3 B, |:"G" D3"G6" E | %5
+w: |||* You|made me|
+w: ||||broke my|
+ G2 z/ B,/B,/D/- |"G" D3"G6" E |"G" G G A B |"C7" (3A/_B/A/"C9" G3 |"C7" z E (3E E C | %10
+w: cry when you said|* Good-|bye AIN'T THAT A|SHAME1 * * *|My tears fell like|
+w: heart when you said|* we'll|part * * *|||
+"G" E/ D3/2- D2 | z G A B |"C7" (3A/_B/A/"C9" G3 |"C7" z A/A/"C9" G E |"D9" F E"D13" D"Gb" _D | %15
+w: rain * *|AIN'T THAT A|SHAME1 * * *|You're the one to|blame. * * *|
+w: |||||
+"D7" C z2 B, |"G" D3"G6" E | G3 B, |"G" D3"G6" E |"G" G G A B |"C7" (3A/_B/A/"C9" G3 | %21
+w: * Oh|well good-|bye al-|though I'll|cry, AIN'T THAT A|SHAME1 * * *|
+w: ||||||
+"C7" z E (3E E C |"G" E/ D3/2- D2 | z G A B |"C7" (3A/_B/A/"C9" G3 |"C7" z A/A/"C9" G"C7" A |1 %26
+w: My tears fell like|rain, * *|AIN'T THAT A|SHAME1 * * *|You're the one to|
+w: |||||
+"G" B4- ||"Am7""D7" B3 B, :|2"G" B4- ||"G6" B3 z |] %30
+w: blame.|* You|blame.-||
+w: ||||
+

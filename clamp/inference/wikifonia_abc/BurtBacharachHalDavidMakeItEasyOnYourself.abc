@@ -1,0 +1,44 @@
+X:1
+T:Make It Easy On Yourself
+T:Make It Easy On Yourself
+T:Burt Bacharach
+T:Hal David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bbm7" c2"Eb7" B2 |"Cm" e_dcB"Fm7" c/B/A/B/ c2- |"Db" c4"Eb9" c2 B2 |"Cm" e_dcB"Fm7" c/B/A/B/ c2- | %4
+w: ||||
+"Db" c4"Eb" z2 B2 ||"Db" AB c4 z A |"Bbm7" E2 z2"Cm/Eb" E<EGB |"Ab" c3 G z2 GG | %8
+w: * 'Cause|break- ing up is|so ver- y hard to|do. * * *|
+"Bb6" b3 B"Bb7" a3 z ||"Eb" GFFE"Cm" D C3 |"Eb" B,3 G FEDB, |"Cm" (3DCB, C4 G,G, |"C" C6 z B, | %13
+w: |If you real- ly love him|and there's noth- ing I can|do, * * * * *|* don't|
+"Eb" BAAG G B,3 |"Eb+" =B,2 z B AGFE |"Cm" G/F/E/F/ G2- GFGA |"Eb9" B2 z E"Bbm7" c2"Eb7" B2 | %17
+w: try to spare my feel- ings,|* just tell me that we're|through * * * * * * * *|* And make it|
+"Cm" e_dcB"Fm7" c/B/A/B/ c2- |"Db" c2 z2"Eb9" c2 B2 |"Cm" e_dcB"Fm7" c/B/A/B/ c2- | %20
+w: eas- y on your- self, * * * *|* make it|eas- y on your- self * * * *|
+"Db" c2 AA"Eb" z2 B2 |"Db" AB c2 z2 z A |"Bbm7" E2 z2"Cm/Eb" E<EGB |"Ab" c3 G z2 GG | %24
+w: * * * 'cause|break- ing up is|so ver- y hard to|do. * * *|
+"Bb6" b3 B"Bb7" a3 B, |"Eb" GFFE"Cm" D C3 |"Eb" B,3 G FEDB, |"Cm" (3DCB, C4 G,/F,/E,/F,/ | %28
+w: * * * And|if the way I hold you|can't com- pare to his ca-|ress * * * * * * *|
+"C" C6 z B, |"Eb" BAAG G F3 |"Eb+" =B,2 z B AGFE |"Cm" G/F/E/F/ G2- GFGA | %32
+w: * no|words of con- so- la- tion|* will make me miss you|less. * * * * * * * *|
+"Eb9" B3 E"Bbm7" c2"Eb7" B2 |"Cm" e_dcB"Fm7" c/B/A/B/ c2- |"Db" c2 z2"Eb9" c2 B2 | %35
+w: * My dar- ling,|if this is good- bye * * * *|* I just|
+"Cm" e_dcB"Fm7" c/B/A/B/ c2- |"Db" c2 AA"Eb" z2 B2 |"Db" AB c2 z2 z A |"Bbm7" E2 EE"Cm/Eb" G B3 | %39
+w: know I'm gon- na cry * * * *|* * * so'|run to him be-|fore you start cry- in'|
+"Ab" c3 G z2 GG |"Ab6" z2 z E"Bbm7" c2"Eb7" B2 |"Cm" e_dcB"Fm7" c/B/A/B/ c2- |"Db" c4"Eb9" c2 B2 | %43
+w: too; * * *|And make it|eas- y on your- self * * * *|* make it|
+"Cm" e_dcB"Fm7" c/B/A/B/ c2- |"Db" c2 AA"Eb" z2 B2 |"Db" AB c2 z2 z A |"Bbm7" E2 z2"Cm/Eb" E<EGB | %47
+w: eas- y on your- self * * * *|* * * 'cause|break- ing up is|so ver- y hard to|
+"Ab" c/B/A/B/ c2- cBce |"Cm" c2 GG z2 c/B/A/B/ |"Db" c2 AA z Bce |"Cm/Eb" c2 GG z2 GG | %51
+w: do * * * * * Oo * *|* * * Whoa- o- o- o|oh * * oh.- * *||
+"Abmaj7" c8 |] %52
+w: |
+

@@ -1,0 +1,30 @@
+X:1
+T:Goodnight My Love
+T:Goodnight My Love
+C:Mack Gordon
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3 B, |"Eb" G3"Gm" D |"Eb6" F3"Eb" E |"Eb6" (3G A B"Bbdim" (3B A G |"Bb7" B D2 C | %5
+w: Good-|night my|love, The|tired _ old moon is de-|scend- ing, Good-|
+"Fm6" A3"C7" =E |"Abmaj7" G3"Fm" F | (3A B c"Bb7" (3c B A |"Eb" c G3 | z"Gm" d d d | %10
+w: night my|love, my|mo- ment with you now is|end- ing.|It was so|
+"D" d/>_d/"Cdim" c3 |"Fm7" c/>_c/"Bb7" B3 |"Bbm6" B/>=A/"C+" _A3 |"F9" z G G G | G/>G/ c2 c | %15
+w: heav- en- ly,|hold- ing you,|close to me;|It will be|heav- en- ly to|
+"Fm7" (3e c A (3e c A |"Bb7" F2"Bb+7" z B, |"Eb" G3"Gm" D |"Eb6" F3"Eb" E | %19
+w: hold you a- gain in a|dream. The|stars a-|bove Have|
+"Eb6" (3G A B"Bbdim" (3B A G |"Bb7" B D2 C |"Fm6" A3"C7" =E |"Abmaj7" G3"Fm" F | %23
+w: prom- ised to meet us to-|mor- row, Till|then my|love, How|
+ (3A B c"Bb7" (3c B A |"Cm" e4 |"Bbm7" z e e e |"Eb7" e c"Eb9" c2 |"Abmaj7" B G"Ab" A"Abm6" _c- | %28
+w: drear- y the new day will|seem.|So for the|pres- ent dear,|We'll have to part,|
+ c3"Bb7" B, |"Eb" G3"Gm" D |"Eb6" F3"Eb" E |"Bbm6" B3 F |"C+" A3 G |"Fm7" e c A C | %34
+w: _ Sleep|tight, my|love, Good-|night my|love, Re-|mem- ber that you're|
+"F9" G2"Bb7" G2 |1"Eb6" E4- |"Fm7" E z"Fm6" z"Bb7" B, :|2"Eb" E4- | E3 z |] %39
+w: mine sweet-|heart.|_ Good|||
+

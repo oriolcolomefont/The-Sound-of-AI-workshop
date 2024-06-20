@@ -1,0 +1,24 @@
+X:1
+T:Il Grillo é buon cantore - Contralto
+T:Il grillo é buon cantore
+T:Frottola a quattro voci
+T:Giosquino D'Ascanio
+C:Giosquino D'Ascanio
+Z:Public Domain
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 103
+%%MIDI control 10 64
+V:1
+ A4 | F4 | B,2 z F | F F F F | F2 F F | G G G G | G2 E3/2 F/ | G2 E3/2 F/ | G2 E3/2 F/ | G4 | %10
+w: El|gril-|lo el|gril lo~é buon can-|to- re Che|tie- ne lon- go|ver- * *|||so,~|
+ A A z2 | A A z2 | A A z2 | A A z2 | A/ A/ A/ A/ A/ A/ A/ A/ | A/ A/ A/ A/ G G | A4 | F4 | %18
+w: Dal- le|be- ve|gril- lo|can- ta,|dal- le dal- le be- ve be- ve|~~~gril- lo gril- lo can- ta.|El|gril-|
+ B,2 z F | F F F F | F2 F2 | G G G2 | G2 B B | F F F2 | F2 A A | A2 A F | F F F2 | F2 F2 | F2 F2 | %29
+w: lo el|gril- lo~é buon can-|~to- re.|Ma non fa|co- * me|gli altri uc~cel-|~li, Co- me|li han can-|ta- to~un po-|co, Quan-|do la|
+ B,2 C2 | C2 C C | z C C2 | C2 C C | z C C2 | C2 C2 | F D E C | C2 C2- | C2 z2 |] %38
+w: mag- gior|el cal- do|Al- lor|can- ta sol|per a-|mo- *||* re.||
+

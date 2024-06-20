@@ -1,0 +1,23 @@
+X:1
+T:Nana para Alicia
+T:Nana para Alicia
+T:Juanma Belda
+C:Juanma Belda
+Z:Creative Commons BY
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Guitar" snm="Gtr"
+%%MIDI program 24
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 24
+V:1
+!pp! z8 :: c'4 b3 a | ^g4 e4 | _b4 a3 g | f8 | d'4 c'3 a | b4 e4 | e4 ^g4 | a8 :| A,8 |] %10
+V:2
+ A,[ce][ce][ce] E,[ce][ce][ce] :: A,[ce][ce][ce] E,[ce][ce]=a | E,[Bd][Bd][Bd] B,[Bd][Bd][Bd] | %3
+ _E[_dg][dg][dg] A,[c=d][cd]=g | D[Ac][Ac][Ac] A,[Ac][Ac][Ac] | D[fa][fa][fa] A,[df][df]=a | %6
+ E[d^g][dg][dg] B,[^GB][GB][GB] | E,[^GB][GB][GB] B,[Bd][Bd][Bd] | A,[ce][ce][ce] E,[ce][ce][ce] :| %9
+ x8 |] %10
+

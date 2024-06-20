@@ -1,0 +1,30 @@
+X:1
+T:How Can You Mend A Broken Heart
+T:How Can You Mend A Broken Heart
+C:Barry Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"E" GBcc cBcB |"Emaj7" cecB G3 A |"F#m7" AecA GFEF |"E" G4 z4 |"G#" GGGG ^A2 ^B2 | %5
+w: I can think of young- er days when|liv- ing for my life was|ev- 'ry- thing a man could want to|do.|I could nev- er see to-|
+w: I can still~feel the breeze * * that|rust- les through the trees and|mist- y mem- o- ries of days gone|by.|We could nev- er see to-|
+"C#m" (d3 c) (d c2) c |"F#" eeee (d c2) c |"B" (c B2) B c2 d2 | z4 e4 ||"Emaj7" dddd- d3 d | %10
+w: mor- * row, _ but|I was nev- er told _ a-|bout * the sor- row.|And|how can you mend _ a|
+w: mor- * row; * *|no one said a word _ a-|bout * the sor- row.|||
+ (3ded- d6 |"F#m7" (3ccc cc ccBA | c4 z4 |"A" c2- (3cBc"B" B2 z2 |"A" z ABc"B" B F3 | %15
+w: bro- ken heart _|How can you stop the rain from fal- ling|down?|How * can you stop|the sun from shin- ing?|
+w: |||||
+"F#m7" z AAA"B" G2 F2 |"E" G4 z4 |"Emaj7" dddd- d3 d | (3ded- d6 |"F#m7" z2 (3ccc ccBA | c4 z2 c2 | %21
+w: What makes the world go|'round?|How can you mend _ this|bro- ken man _|How can a los- er ev- er|win? Please|
+w: ||||||
+"A" c3 B"B" B3 A |"A" c3 B"B" B4 |"F#m7" z AAB"B" G3 F |1"E" E4 z EGE || A2 G6 :|2"E" E4 z2 EG || %27
+w: help me mend my|bro- ken heart|and let me live a|gain. * * *||gain. * *|
+w: ||||||
+ A2 A4 (3ccB | c3 B cecB |"Emaj7" !fermata!G8 |] %30
+w: |||
+w: |||
+

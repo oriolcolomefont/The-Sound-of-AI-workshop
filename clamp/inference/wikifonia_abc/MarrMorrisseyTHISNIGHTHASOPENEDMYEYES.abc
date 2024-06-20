@@ -1,0 +1,48 @@
+X:1
+T:THIS NIGHT HAS OPENED MY EYES
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z4 z2 FF |"Bm" GF-FF"F#m" F/-FE/ D>F |"Bm" z4"F#m" z2 z B |"Gmaj7" B3 D"Dmaj7" DG F2 | %4
+w: In a|riv er _ The col _ or of lead|im|merse the ba by's head|
+"Gmaj7" z4"A" E F2 G |"Bm" FE F2"F#m" GF G-F/ z/ |"Bm" z4"F#m" F/F/F/F/ FG | %7
+w: wrap her up|in the News of the World _|dump her on a door step|
+"Gmaj7" z F-"Dmaj7" D6 |"Gmaj7" z4"A" z2 G2- |"Em9" G4 GF- F2 | z2 z G GFFG- |"Bm9" F4- FFFF | %12
+w: girl _|This|_ night _ _|has op ened my eyes|_ _ and I will|
+"A" z F/E/ FE F-D z2 |"Bm" z FFF"F#m" F2 ED |"Bm" FG"F#m" F6 |"Gmaj7" z2 z/ D/F"Dmaj7" FFFF | %16
+w: nev er sleep a gain _|You kicked and cried like a|bull ied child|a grown man of twen ty|
+"G" F4"A" EF-FG |"Bm" z FzE-"F#m" EFGF |"Bm" z2 z F"F#m" F/F/F/F/ F/F/F/D/ | %19
+w: five Oh he _ said|he'd cure _ your ills _|but he did n't and he nev er will|
+"Gmaj7" z2 z2"Dmaj7" z2 z2 |"Gmaj7" z4 z2"A7" G2- |"Em9" G6- F2- | F2 z2 G2 AF- | %23
+w: |so|_ _|* save your life|
+"Bm9" F3 z2 F/F/ F/F/F/F/ |"Asus4" G2- F2 z2 z F |"Gmaj7" FF F"Dmaj7"F/F/ FFF-D- | %26
+w: _ be cuz you've on ly got|one _ The|dream is gone but the baby is real _|
+"A" D2 z2"G9" DD/D/ E/G/E- |"Em9" E2 GG GFD z |"G" z Dz"A"[CF] FFFF | %29
+w: _ Oh you did a good thing|_ _ _ _ _ _|* She could have been a|
+"Gmaj7" FFFF"Dmaj7" F/F/F/F/ FD |"A" z2 z"Gmaj9" D D/D/D/E/ GE- |"Em9" E2 GG GF E2 | %32
+w: po et or she could have been a fool _|Oh, _ you did a bad thing|_ _ _ _ _ _|
+"Gmaj7" G2 FF"A6" F2 F2 |"Em9" AGFE A2 A/G/F- |"Gmaj7" [FG]DGC"D" A,2"A" A,2- | A,8 | %36
+w: * * and I'm not|hap py and I'm not sad _ _|_ _ _ _ _ _||
+"Bm" z FF"F#m"F F2 ED |"Bm" z F2-"F#m" F2 z2 D |"Gmaj7" FFF"Dmaj7"E DE F2 |"G" z2 z E E/"A"E/F FG | %40
+w: A shoe less child on a|swing _ re|minds you of your own ag ain|She took aw ay your trou|
+"Bm7" F4"F#m" z F2 E |"Bm7" F/E/F-"F#m" F>E FF- D2 |"G" z2 z2"D" z2 z2 |"Gmaj7" z2 z2"A" G4 | %44
+w: bles, Oh, but|then ag ain _ she left pain _||so|
+ G4 G F3 | G4 G2 AF | F2- F2 z/ F/F/F/ F/F/F | GF- F4 z F |"Gmaj7" FF F"Dmaj7"F/F/ FFF-D- | %49
+w: _ _ _|Please save your life|_ _ be cuz you've on ly got|one _ _ The|dream is gone but the baby is real _|
+"A" D2 z2"G9" DD/D/ E/G/E- |"Em9" E2 GG GFD z |"G" z Dz"A"[CF] FFFF | %52
+w: _ Oh you did a good thing|_ _ _ _ _ _|* She could have been a|
+"Gmaj7" FFFF"Dmaj7" F/F/F/F/ FD |"A" z2 z"Gmaj9" D D/D/D/E/ GE- |"Em9" E2 GG GF E2 | %55
+w: po et or she could have been a fool _|Oh, _ you did a bad thing|_ _ _ _ _ _|
+"Gmaj7" G2 FF"A6" F2 F2 |"Em9" AGFE A2 A/G/F- |"Gmaj7" [FG]DGC"D" A,2"A" A,2- | A,8 |: %59
+w: * * and I'm not|hap py and I'm not sad _ _|_ _ _ _ _ _||
+"Gmaj7" [DFB]2 z"Dmaj7" [A,CF]- [A,CF]2 ED |"A" [A,C][A,C]z"G9"[G,D] z G,CE- |"Em9" E2 GG- GF E2 | %62
+w: |||
+"G" G2 FE-"A" EF [EF]2 :| %63
+w: |
+

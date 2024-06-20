@@ -1,0 +1,33 @@
+X:1
+T:This Is the Army Mr Jones
+T:This is the Army Mr Jones,
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" F2 F3/2 F/ | F A"Bb" F D |"F" F4- | F4 | A2 A3/2 A/ | A c"Bb" A F |"F" A4- | A4 | %8
+w: This is the|ar- my Mis- ter|Jones||no pri- vate|rooms or tel- e-|phones||
+ c2"Fmaj7" c3/2 c/ |"F7" c d2 c |"Gm" B2"Dm" A2 |"Bbm" G2 F G |"F" A2 E F |"C7" G2 D E | %14
+w: You had your|break- fast in|bed be-|fore but you|wont have it|there an- y-|
+"F" F2"Am7" c c/c/ |"Gm7" c c/c/"C7" c c/c/ |"F" F2 F3/2 F/ | F A"Bb" F D |"F" F4- | F4 | %20
+w: more * * *||this is the|ar- my Mis- ter|Green||
+ A2 A3/2 A/ | A c"Bb" A F |"F" A4- | A4 | c2"Fmaj7" c3/2 c/ |"F7" c d2 c |"Gm" B2"Dm" A2 | %27
+w: we like the|bar- racks nice and|clean||you had a|house- maid to|clean your|
+"Bbm" G2 F G |"F" A2 E F |"C7" G2 D E |"F" F4- |"F7" F4 |"Bb" B2 B3/2 c/ | d c2 B |"F" c4- | c4 | %36
+w: floor but she|wont help you|out an- y-|more.||Do what the|bu- glers com-|mand||
+"F" c c/c/ A c | f c f f- | f z z2 |"Bb" B2 B3/2 c/ | d c2 B |"Dm7" A2 G"G7" F |"C7" G4 | %43
+w: |||They're in the|Ar- my and|not in a|band|
+ c c/c/ c c/c/ |"F" F z F3/2 F/ | F A"Bb" F D |"F" F4 | c/c/c/A/ c/c/ z | A z A3/2 A/ | %49
+w: |This is the|Ar- my Mis- ter|Brown||You and your|
+ A c"Bb" A F |"F" A4 | f/f/f/c/ f/f/ z | c2"Fmaj7" c3/2 c/ |"F7" c d2 c |"Gm" B2"Dm" A2 | %55
+w: ba- by went to|town||She had you|wor- ried but|this is|
+"Bbm" G2 F G |"F" A2 E F |"C7" G2 D E |1"F" F4 ||1"Gm7" c/c/c/c/"C" c/c/c/c/ :|2"F" F z f f/f/ || %61
+w: war, and she|wont wor- ry|you an- y-|more||more. * * *|
+ f c/d/ e/ f3/2- | f z z2 |] %63
+w: ||
+

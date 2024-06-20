@@ -1,0 +1,25 @@
+X:1
+T:Stumbling
+T:Stumbling
+T:Zez Confrey
+C:Zez Confrey
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" DEGA B2 DE | GA B2 DEGA | B4"G7" d4 |"E7" c4 B4 |"A7" A_AGF E2 =A_A | GF E2 A_AGF | E8- | %7
+w: Stum- bling all a- round, Stum- bling|all a- round, stum- bling all a-|round so|fun- ny,|Stum- bling here and there, stum- bling|ev- 'ry where And I must de-|clare|
+ E2 E2 G2 E2 |"D7" E F2 F- F4- | F2 F2 A2"Adim" F2 |"Em" F G2 G- G4- | G2 G2 B2 G2 | %12
+w: * I stepped right|on her toes *|* and when she|bumped my nose *|* I fell and|
+"A7" G A2 A- A4- | A2 A2 ^c2 A2 |"D" d8- | d2 c2 A2 F2 |"G" DEGA B2 DE | GA B2 DEGA | B4"G7" d4 | %19
+w: when I rose, *|* I felt a-|shamed,|* and told her,|That's the lat- est step, that's the|lat- est step, that's the lat- est|step, My|
+"E7" c4 B4 |"A7" A_AGF E2 =A_A | GF E2 A_AGF | (E8 | E2) B2 B A2 c- |"Cm6" c4 _E4- | %25
+w: hon- ey,|Not- ice all the pep, no- tice|all the pep, no- tice all the|pep,|* She said ,Stop mum-|* bling|
+ E2 c2 c c2 B- |"G" B4 D4- | D2 D2 E2 G2 |"A7" BAGF E2 ^cB |"D7" AG F2 dcBA |"G" G8 |] %31
+w: * tho' you are stum-|* bling|* I like it|just a lit- tle bit, just a|lit- tle bit, quite a lit- tle|bit.|
+

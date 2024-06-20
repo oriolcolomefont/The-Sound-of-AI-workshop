@@ -1,0 +1,35 @@
+X:1
+T:Scotch and Soda
+T:Scotch and Soda
+T:Dave Guard
+T:Dave Guard
+C:Dave Guard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|: z"Abmaj7" GFG- G F3 |"Db9" z2 (3_CEF G4 |"Eb" z2 (3EFG B c3 |"Gm7" d2 c"C9"B- B c3 |"F7" C8 | %5
+w: Scotch and so- * da,|mud in your eye,|Bab- by do I feel|high. Oh me, * Oh|my!|
+w: Dry mar- tin * i|jig- ger of gin,|Oh what a spell you've|got me in, * Oh|my!|
+"Fm7" z (BG)B- B"Bb7" G3 |"Dm" F8- |1"Abm" F6"G7" z2 :|2"Eb9" F8- | F6"Eb+" z2 || %10
+w: Do * I * feel|high.||||
+w: Do * I * feel|||high.||
+"Ab" z EFA- A2 B2 |"Eb" c3 E- E2 z A |"Eb" B3 c"Fm7" A2"Bb7" BG- |"Ebmaj7" GB- B4 z G | %14
+w: ||||
+w: Peo- ple won't * be-|lieve me, * they'll|think that I'm just brag|* gin'. * But|
+"F9" G G2 F- F3 C | G G2 F- F3 F |"Bb7" c2 B2"Bbdim" A2 G2 |"Fm7" F3 B-"Bb7" B2 z2 | %18
+w: ||||
+w: I could feel * the|way I do * and|still be on the|wa- gon. *|
+"Abmaj7" z GFG- G F3 |"Db9" z2 (3_CEF G4 |"Eb" z E2 F G B2 d- |"Gm7" d2 cB-"C9" B c3 |"F7" C8 | %23
+w: |||||
+w: All I need * is|one of your smiles,|sun- shine of your eyes,|* oh me, * oh|my,|
+"Fm7" z (BG)B-"Bb7" B G3 |"Gm7" B>B (3BBB- B G3 |"C7" dc- c6 |"Fm7" z e2 c e c3 | %27
+w: ||||
+w: do * I * feel|high- er than a kite * can|fly! * *|Give me lov- in',|
+"Bb7" B c3"Ab7" _G2 EE- |"Eb6" E8- |"Db9" E6"Eb" z2 |] %30
+w: |||
+w: ba- by, I feel high.|||
+

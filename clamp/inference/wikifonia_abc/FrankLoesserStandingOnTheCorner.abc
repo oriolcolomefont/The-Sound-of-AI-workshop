@@ -1,0 +1,28 @@
+X:1
+T:Standing On The Corner
+T:Standing on the corner
+T:Frank Loesser
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" e^def g2 g2 |"F" gfeg f2 c2 |"C" G8- |"G7" G4 z4 |"C" e^def g2 g2 |"F" gfeg f2 c2 |"D7" d8 | %7
+w: Stand- ing on the cor- ner|watch- ing all the girls go|by||stand- ing on the cor- ner|watch- ing all the girls go|by|
+w: Stand- ing on the cor- ner|watch- ing all the girls go|by||stand- ing on the cor- ner|giv- ing all the girls the|eye|
+"G7" z4 Bc d2 |"C" e2 e^d e^cdB |"F" c2 c2 cd e2 |"Fm" f4 ed c2 |"G7" B4 z2 ^d2 |"C" e^def g2 g2 | %13
+w: broth- er you|dont know a nic- er oc- cu-|pa- tion mat- ter of|fact neith- er do|I than|stand- ing on the cor- ner|
+w: broth- er if|you've got a rich i- mag- i-|na- tion give it a|whirl give it a|try try|stand- ing on the cor- ner|
+"F" gfeg f2 fe |"C" df e2"D7" edce |"G7" d6 A2 |1"C" c8- | c6 z2 ||2"C" c8- | c2 z2 z4!fine! |] %20
+w: watch- ing all the girls watch- ing|all the girls watch- ing all the|girls go|by||by.||
+w: watch- ing all the girls watch- ing|all the girls watch- ing all the|girls go|||||
+"Am" z2 AB c4 |"D7" z ABc A4 |"Am" z2 AB cB c2 |"D7" z ABc A4 |"C" z2 cd ed e2 | z cde c2 dc | %26
+w: I'm the cat|that got the cream|have- n't got a girl|but I can dream|have- n't got a girl|but I can wish so I|
+w: ||||||
+ GG^FG"Bb" _B2 A_A |"C" GG^FG"Bb" _B2 A_A |"C" GG^FG"G7" d4- | d2 z2 z4!fine! |] %30
+w: take me down to Main Street and|that's where I se- lect my i-|mag- i- nar- y dish!||
+w: ||||
+

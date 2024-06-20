@@ -1,0 +1,14 @@
+X:1
+T:For Turiya
+C:Charlie Haden
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+ G |"Gm" d2 c |"D7b9/G" e2 d |"Gm" d3 | d c B |"Gm" d2 B |"Cm/G" c3 | c B A | c2 A |"Gm" B3 | %10
+"Gm/F" z d f |"Ebmaj7" g3 |"F7" f3 |"Gbdim" e3 |"Gm" d3 | d c B |"Ebmaj7" A3 |"F7b9" F3 | %18
+"Gbdim" ^F3 |"Gm" G3- | G3 |] %21
+

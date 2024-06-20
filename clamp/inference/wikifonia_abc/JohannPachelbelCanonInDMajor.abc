@@ -1,0 +1,26 @@
+X:1
+T:Canon In  D Major
+T:Canon In D Major
+C:Johann Pachelbel
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" d4"A" c4"Bm" B4"F#m" A4 |"G" G4"D" F4"G6""A" E8 |"D" f4"A" e4"Bm" d4"F#m" c4 | %3
+"G" B4"D" A4"G" B4"A" c4 |"D" f4 e4"Bm" d4"F#m" c4 |"G" B4"D" A4"G" B4"A" c4 | %6
+"D" D2F2"A"A2G2"Bm" F2D2"F#m"F2E2 |"G" D2B,2"D"D2A2"G" G2B2"A"A2G2 | %8
+"D" F2D2"A"A2c2"Bm" d2f2"F#m"a2A2 |"G" B2G2"D"A2F2"G" G2d2"A"d2>c2 | %10
+"D" dcdD"A" CAEF"Bm" DdcB"F#m" cfab |"G" gfeg"D" fedc"G" BAGF"A" EGFE | %12
+"D" DEFG"A" AEAG"Bm" FBAG"F#m" AGFE |"G" DB,Bc"D" dcBA"G" GFEB"A" ABAG | %14
+"D" af/g/af/g/"A" a/A/B/c/ d/e/f/g/"Bm" fd/e/fF/G/"F#m" A/B/A/G/ A/F/G/A/ | %15
+"G" GB/A/GF/E/"D" F/E/D/E/ F/G/A/B/"G" GB/A/Bc/d/"A" A/B/c/d/ e/f/g/a/ | %16
+"D" fd/e/fe/d/"A" e/c/d/e/ f/e/d/c/"Bm" dB/c/dD/E/"F#m" F/G/F/E/ F/d/c/d/ | %17
+"G" Bd/c/BA/G/"D" A/G/F/G/ A/B/c/d/"G" Bd/c/dc/B/"A" c/d/e/d/ c/d/B/c/ | %18
+"D" fFGF"A" Eefe"Bm" dFDB"Fm" AA,G,A, |"G" B,BcB"D" AA,G,A,"G" B,BAB"A" cCB,C | %20
+"D" Dded"A" cCDC"Bm" B,BAB"F#m" cfab |"G" gfeg"D" fedc"G" BAGd2<"A"d2c |"D" d16 |] %23
+

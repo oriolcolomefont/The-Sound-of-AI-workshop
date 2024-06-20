@@ -1,0 +1,22 @@
+X:1
+T:Douce Ambiance
+T:Douce Ambience
+T:Douce Ambience
+C:Django Reinhardt
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="P1"
+V:1
+"D7""^INTROOUTRO" dd[Q:1/4=160]dd- d4 |"Ebmaj7" ddd"^Bright triplet Gypsy Swing"d z4 | %2
+"E7" dddd- d4 |"F6" dddd z4 |"Bb6" dddd- d4 |"Ebmaj7"O"^LAST TIME TO CODA" dddd- d4 | %6
+"D743" dddd- d4 |"D7" d8 |:"Gm" dddd z4 |"D7" dddd z4 |"Gm" de^cd"F7" feB=c |"Bb" d4"Bdim7" z4 | %12
+"Cm" c c2 c c^c d2 |"Gm" B3 G- G4 |"Ab7" _A A2 A e2 ed- |"D7" d4 z4 |"Gm" dddd z4 |"D7" dddd- d4 | %18
+"Gm" de^cd"F7" feB=c |"Bb" d4"Bdim7" z4 |"Cm" c c2 c c^c d2 |"Gm" B3 G- G4 | %22
+"Ab7" _A A2 A"D7" A B2 G- |"Gm" G4 z4 |"Abm" _A3 B _c_def | _g3 f- f3 e- | e_c_A_G F2 GA | F8 | %28
+"Am" A3 =B cd=e^f | g3 ^f- f4 |"F7" =f4"E7" =e2"Eb7" _e2 | z2"C#7" ^c2"D7" d4 ||"Gm" dddd- d4 | %33
+"D7" dddd- d4 |"Gm" de^cd"F7" feB=c |"Bb" d4"Bdim7" z4 |"Cm" c c2 c c^c d2 |"Gm" B3 G- G4 | %38
+"Ab7" _A A2"D7" A A B2 G- |"Gm" G4 z4 :|"Ebmaj7"O dddd- d4 |"D7" z d _d2 c2 =B2 | %42
+ _BA_AG z =d"Gm" G2 | z8 |] %44
+

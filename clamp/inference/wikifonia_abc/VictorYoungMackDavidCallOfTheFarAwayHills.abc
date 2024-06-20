@@ -1,0 +1,35 @@
+X:1
+T:Call Of The Far Away Hills
+T:Call Of The Far Away Hills
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 EG |"Ebmaj7" B6 EG | c2 B4 EG | B2 cB c3 B | c3 B cBGE |"Fm7" F8- |"Bb7" F6 FG |"Fm7" B8- | %8
+w: Sha- dows|fall on the|pra- rie. Day is|done and the sun is|slow- ly fad- ing out of|sight.|_ I can|hear|
+w: |rest on the|pra- rie. There's no|rest for a rest- less|soul that just was born to|roam.|_ Who can|say|
+"Bb7" B2 cB c3 B |"Ebmaj7" c3 B"Eb7" cBGE |"Ab6""Db7" F6 EF |"Gm7" G2 Bc"C7" B3 G | %12
+w: _ oh so clear, a|call that ech- oes in the|night. Yes, I|hear, sweet and clear the|
+w: _ may- be way out|there my heart may find a|home? And I|hear, sweet and clear the|
+"Fm7" F2 FG"Bb7" FE C2 |1"Ebmaj7" E8- |"Fm7" E4"Bb7" z2 EG :|2"Ebmaj7" E8- |"Bbm7" E4"Eb7" z2 ec || %17
+w: call of the far a- way|hills.|_ There's no|hills.|_ There are|
+w: call of the far a- way|||||
+"Abmaj7" e8- | e2 e2 e2 c2 |"Ebmaj7" B8- | B6 ec |"Abmaj7" e8- | e2 e2 e2 c2 |"Gm7""C7" B8- | %24
+w: trails|_ I've nev- er|seen,|_ and my|dreams|_ are get- ting|lean|
+w: |||||||
+"Fm7" B2 cB"Bb7" c3 B |"Ebmaj7" c3 B"Eb7" cBGE |"Ab6""Db7" F6 EF |"Gm7" G2 Bc"C7" B3 G | %28
+w: _ and be- yond the|sun- set there are brand new|thrills. When a|new dream or two may|
+w: ||||
+"Fm7" F2 FG"Bb7" FE C2 |"Gm7" G2 Bc"C7" B3 G |"Fm7" F2 FG"Bb7" FE C2 |1"Ebmaj7" E4 e4- | %32
+w: be just one star a- way,|I must o- bey the|call of the far a- way|hills. _|
+w: ||||
+"Fm7" e4"Bb7" z4 :|2"Ebmaj7" E4 e4- | e4 z4 |] %35
+w: _|hills. _|_|
+w: |||
+

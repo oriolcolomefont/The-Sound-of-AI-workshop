@@ -1,0 +1,26 @@
+X:1
+T:Oh How I Miss You Tonight
+T:Oh How I Miss You Tonight
+C:Benny Davis
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B B B |"G/B" A G3/2 B,/ |"G""Cm6/G" D3- |"G""Am" D2"A#dim7" z |"G" D D D |"Gdim" E2 E | %6
+w: Oh, how I|miss you to-|night,|_|Miss you while|lights are|
+"D7" F3- | F2 z |"Am" c c c |"D7" B A3/2 C/ |"Am7" E3- |"D9" E3 |"Am" E"C+/A" E"Am7" E | %13
+w: low,|_|Oh, how I|need you to-|night,|_|More than you'll|
+"Bbdim7" G2 F |"G/B" D3- |"Am7" D2"D7" z |"G" B B B |"G/B" A G3/2 B,/ |"G" D3- |"Dm" D2 z | %20
+w: ev- er|know.|_|Each mo- ment|though we're a-|part,|_|
+"E7" E ^G B | d c3/2 B/ |"Am" A3- | A2 A/B/ | c c c |"Am7b5" c B3/2 A/ |"G" d"F#+" d"Dm/F" d | %27
+w: You're nev- er|out of my|heart,|_ But I'd|rath- er be|lone- ly, And|wait for you|
+"E7" d"E+" c3/2"E7" B/ |"A7" A E G |"D7" F G A |1"G" G3/2 d/"Gdim" f/g/ |"Am7" e"D7" d2 :|2 %32
+w: on- ly, Oh,|pal how I|miss you to-|night. * * *||
+"G" G3- | G2 z |] %34
+w: night.|_|
+

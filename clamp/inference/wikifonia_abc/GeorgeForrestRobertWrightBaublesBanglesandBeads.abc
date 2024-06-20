@@ -1,0 +1,23 @@
+X:1
+T:Baubles, Bangles and Beads
+T:Baubles bangles and beads
+T:Robert Wright and George Forrest
+C:George Forrest, Robert Wright
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Gm7" D G2 |"C7" D G2 |"F" E A3/2 C/ | F E/F/ E/D/ |"Gm7" D G2 |"C7" D G2 |"F" E A3/2 C/ | A3 | %8
+w: Bau- bles|ban- gles|hear how they|jing jing- a- ling- a|bau- bles|ban- gles|bright shin- y|beads|
+"E" ^F B2 | ^F B2 |"A" ^G ^c3/2 E/ | A ^G/A/ ^G/^F/ |"E" ^F B2 | ^F B2 |"A" ^G ^c3/2 E/ | ^c3 | %16
+w: spar- kles|span- gles|my heart will|sing sing- a- ling- a|wear- ing|bau- bles|ban- gles and|beads.|
+"Ab7" _B3 | c _B c |"Db" _A3 | F3 |"C7" _B3 | c _B c |"F" A3 | C2 ^C |"Gm7" D G2 |"C7" D G2 | %26
+w: I'll|glit- ter and|gleam|so,|Make|some- bod- y|dream|so that|some- day|he may|
+"F" E A3/2 C/ |"D7" c _B/c/ _B/A/ |"Gm7" D A2 |"C7" D A3/2 D/ |"F" A3- |"D7" A _B A |"Gm7" D A2 | %33
+w: buy me a|ring ring- a- ling- a|I've heard|that's where it|leads,|* wear- ing|bau- bles|
+"C7" D d3/2 E/ |"F" F3- | F z2 |] %36
+w: ban- gles and|beads.||
+

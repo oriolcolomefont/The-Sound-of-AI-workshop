@@ -1,0 +1,28 @@
+X:1
+T:I Hear A Dream
+T:I Hear A Dream
+C:Ralph Rainger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z B, |"Eb" G3/2 G/ G2- | G2"Edim" B2 |"Fm7" F4- | F2"Bb7" B,2 |"Fm" F3/2 F/"Db7" F2- | %6
+w: I|hear a dream|_ all|day|_ A|dream that calls|
+"Bb7" F2 B2 |"Eb" E4- | E2"Eb7" E2 |"Ab" c3/2 c/ c2- | c2 e2 |"Gm" d B"Ab" c2 | %12
+w: _ to|me.|_ "Come|home a- gain|_ you|sail- or- man,|
+"Gm" B G"Ab""Abm" A2 |"Eb" G3/2 G/"Edim" G2- |"Bb7" G2"Ab" A"Bb7" F |"Eb" E4- |"Eb7" E2"Ab" d c | %17
+w: sail- or man,|Home a- gain|_ to the|sea."|_ Where my|
+"Eb" B E"Fm7" d c |"Eb" B2"Fm" c d |"Cm" e3/2 d/"Ab" c/"Gm" B G/ |"Fm" F2"Bdim" A"G7" G | %21
+w: goal is who can|tell Fare thee|well my dar- ling. A-|dieu. While my|
+"Cm" E C"Bdim" A"G7" G |"Cm7" E3 G |"F9" c2 C2 |"Fm" F3"Bb7" B, |"Eb" G3/2 G/ G2- | G2"Edim" B2 | %27
+w: soul is on the|blue my|heart's with|you. I|hear a dream|_ all|
+"Fm7" F4- | F2"Bb7" B,2 |"Fm" F3/2 F/"Db7" F2- |"Bb7" F2 B2 |"Eb" E4- | E2"Eb7" E2 | %33
+w: day|_ A|dream that calls|_ to|me.|_ "Come|
+"Ab" c3/2 c/ c2- | c2 e2 |"Gm" d B"Ab" c2 |"Gm" B G"Ab""Abm" A2 |"Eb" G3/2 G/"Edim" G2- | %38
+w: home a- gaim|_ you|sail- or- man.|sail- or- man,|Home a- gain|
+"Bb7" G G"Ab" A"Bb7" F |"Eb" E4- | E4 |] %41
+w: _ where you should|be."|_|
+

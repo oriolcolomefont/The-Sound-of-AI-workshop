@@ -1,0 +1,30 @@
+X:1
+T:Sincerely
+T:Sincerely
+C:Harvey Fuqua
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"C9#5" d2 |:"F6" c2"Dm7" c6- |"Gm7" c2 dc"C7" e2- (3e(de) |"F6" c2"Dm7" c6 | %4
+w: Sin-|cere- ly|_ Oh! _ yes, _ sin- *|cere- ly.|
+"Gm7" z2 GA"C7" cA(GA) |"F6" (FD)"Dm7" F6- |"Gm7" F2 A2"C7" G2- (3GFG |"F""Dm7" F8- | %8
+w: ~'Cause I love your so _|dear- * ly,|* Please say _ you'll be|mine.|
+"Gm7" F4"C7" z2"C+7" d2 |"F6" c2"Dm7" c6- |"Gm7" c2 dc"C7" e2- (3ede |"F6" c2"Dm7" c6 | %12
+w: _ Sin-|cere- ly,|_ Oh, you know _ how I|love you,|
+"Gm7" z2 GA"C7" cA(GA) |"F6" (FD)"Dm7" F6- |"Gm7" F2 A2"C7" G2- (3GFG |"F""Gm7" F8- | %16
+w: I'll do an- y- thing _|for _ you.|* Please say _ you'll be|mine.|
+"G#dim" F4"F7" z2 F2 |"Bb6" d6 Bc |"Bbm6" (_d_e)cB- B3 c |"F6" (Ac-) (3c=dc dc"Fmaj7"AA | %20
+w: _ Oh,|Lord, won't you|tell _ me why _ I|love _ _ _ _ _ that fel- la|
+"F9" G6 z2 |"G7" G6"Dm7" A=B |"G7" GG- G4 GG |"C9" ddGG ddGG | z d2 d d2"C9#5" d2 | %25
+w: so.|He does- n't|want me, _ Oh, I'll|nev- er, nev- er, nev- er, nev- er,|let him go. Sin-|
+"F6" c2"Dm7" c6- |"Gm7" c2 dc"C7" e2- (3ede |"F6" c2"Dm7" c6 |"Gm7" z2 GA"C7" cAGA | %29
+w: cere- ly,|_ Oh, you know _ how I|love you,|I'll do an- y- thing *|
+"F6" FD"Dm7" F6- |"Gm7" F2 A2"C7" G2- (3GFG |1"F""Dm7" F8 ||"Gm7" z4"C7" z2"C9#5" d2 :|2 %33
+w: for _ you.|_ Please say _ you'll be|mine.|Sin|
+"F""Dm7" F8 ||"Gm7""Gb7" F6"F6" z2 |] %35
+w: mine.|_|
+

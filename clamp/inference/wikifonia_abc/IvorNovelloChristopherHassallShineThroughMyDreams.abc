@@ -1,0 +1,20 @@
+X:1
+T:Shine through my dreams (from "Glamorous Night")
+T:Shine through my dreams
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"Ab" c4 BAFC |"Cm" EE E4"Bdim" (3AAA |"Bbm7" EE E4"Eb7" (3BGF |"Ab" EE"Eb7" E6 |"Ab" c4 BAFC | %5
+w: Shine through my dreams and|once a- gain soft- ly and|sec- ret- ly whis- oer your|love to me|Roam though my sil- ent|
+"F7" EE E4 (3GEG |"Eb/Bb" BB B4"Bb7" (3cAF |"Eb" B8 |"Bbm7b5" d4"Eb7" cBAG |"Cm" e3 c"Fm" A2 Bc | %10
+w: thoughts a- gain mak- ing a|par- a- diise here in my|heart|Though fate may hold us|far a- part she will|
+"Bbm7" d3 B"C7" G2 AB |"Ebm6/Gb""F7" c8 |"Dbm" c4 BA=ED |"Cm7" GG G3"Fm7" FGA | %14
+w: turn our dar- ness to|light|Make all my dreams re-|al- it- y That I may|
+"Bbm7b5" ddcd"Eb7" B3 A |"Ab" A8 |] %16
+w: hold you in my arms to-|night|
+

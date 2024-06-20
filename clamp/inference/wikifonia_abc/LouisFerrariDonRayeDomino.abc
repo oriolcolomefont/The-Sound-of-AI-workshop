@@ -1,0 +1,22 @@
+X:1
+T:Domino
+T:Domino
+T:Louis Ferrari
+T:French:  Jacques Plante   English:  Don Raye
+C:Louis Ferrari
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"^N.C." e f |"Am" e3- | e e f | e3- | e e f | e c A | E A c |"Dm" e d2- | d d e |"D7" d3- | %10
+w: Do- mi-|no|_ do- mi-|no|_ you're an|an- gel that|heav- en has|sent me|_ do- mi-|no,|
+ d d e | d3- | d d e | d B ^G | E ^G B |"Am" d c2- | c c B |"A7" A3 | g3 |"Dm" f3- | f B A | %21
+w: _ do- mi-|no|_ you're a|dev- il de-|signed to tor-|ment me|_ When your|heart|must|know|_ that I|
+"G7" G3 | f3 |"C" e3- |"E7" e e f |"Gm" e3- |"A7" e f g |"Dm" f3- | f e d |:"Am" c d c | %30
+w: love|you|so|_ tell me|why|_ tell me|why|_ why do|you make me|
+"E7" B c B |"Am" A3- | A"^repeat and fade" e d :| %33
+w: cry Do- mi-|no?|_ Why do|
+

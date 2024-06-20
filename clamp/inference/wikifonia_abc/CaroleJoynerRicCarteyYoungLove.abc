@@ -1,0 +1,23 @@
+X:1
+T:Young Love
+T:Young Love
+T:CaroleJoyner and Ric Cartey
+C:Carole Joyner, Ric Cartey
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ D |:"C" EEEE EEEE |"E7" EEEE EEEE |"F" B2 A2 G2 F2 |"G7" A2 G2 F2 G2 |"C" G2 E2 E4- | %6
+w: They|say for ev- ry boy and girl there's|just one love in this old world ~~and|I * know *|I've * * found|mine * *|
+"F" E4"G7" z2 z D |"C" EEEE"E7" E/EE/EE |"E7" EEEE EEEE |"F" B2 A2 G2 F2 |"G7" A2 G2 F2 G2 | %11
+w: * the|heav- en- ly touch of your em- brace tells|me no one can take your place *|ev * * *|er * in my|
+"C" G2 D2 E4- | E4"G7" z2 G2 |"C" c6 d2 |"G7" cB- B6 |"F" c6 A2 |"G7" B6- BA |"C" cA G6- | %18
+w: heart * *|* young|love first|love * *|filled with|true * de-|vo * tion|
+"F" G4"G7" z2 G2 |"C" c6 d2 |"G7" cB- B4 A2 |"F" c6 A2 |"G7" B6 BD |"C" E"F" D2 C- C4- |1 %24
+w: * young|love our|love * * we|share with|deep * e-|mo * tion *|
+"F" C4"G7" z2 z2 :|2 C4"G7" z2 G2 |] %26
+w: |* young|
+

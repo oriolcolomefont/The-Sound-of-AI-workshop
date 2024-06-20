@@ -1,0 +1,27 @@
+X:1
+T:It's Not Unusual
+T:Its not unusual 
+T:Gordon MIlls and Les Reed
+C:Gordon Mills, Les Reed
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"F" z C F G2 A- | A2 (_Bc-) c_B A2 |"Gm7" G3 C CC C2- |"C7" C8 |"F" z2 z C F G2 A- | %5
+w: Its not un- u-|* su- al * to be|loved by an- y- one||it's not un- u-|
+ A2 _Bc- c_B A2 |"Gm7" G3 G GA G2- |"C7" G8 |"Am7" z2 z E c _B2 A- | AG- G2 FEFG- | %10
+w: * su- al to have fun|with an- y- one *||but when I see|* you * hang- ing a- bout|
+"Gm7" G3 G GA G2- |"C" G8 |"Gm7" z2 z C G A2 _B- |"C7" _B2 cA- A3"^tocoda" G |"F" A2 A2 A2 F2- | %15
+w: * with an- y- one||It's not un- u-|* su- al * to|see me cry *|
+ F6 z C |"Gm7" DC C6- |"C7" C4 z2 z A |"Gm7" _B2 c_B- _BAAG- | G8 |"C7" z2 C2 E2 G2 | %21
+w: * I|wan- na- die|* no|mat- ter what * you say *||you'll find it|
+ _B2 _B2 A2 GA- |"F" A4 AGAG | AG F6 |"Dm" A2 _BA- AG F2- | F8 |"Gm7" _B2 c_B BA G2- | G8 | %28
+w: hap- pens all the time|||Love will nev- * er do||what you want * it to||
+"C7" z2 C2 E2 G2 | _B2 _B2 A2 _Bc- |"Am7" c8- |"D7" c4 d2 c2 |"Gm7" d2 c6- |"C7" c8 |] %34
+w: why cant this|cra- zy love be mine?|||||
+"^coda""F" A2 AA- A2 GA- | AG F6- | F6 z2 |] %37
+w: find that I'm * in love|* with you||
+

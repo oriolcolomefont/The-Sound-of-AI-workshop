@@ -1,0 +1,33 @@
+X:1
+T:To Love and Be Loved
+T:To Love and Be Loved
+T:Theme from "Some Came Running"
+T:Jimmy Van Heusen
+T:Sammy Cahn
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+ z2 z"E7" E ||"^Ami" e3 d/c/ |"^Dmi" A2 B c |"^Ami" E E/^D/"^Ami7" E2- |"D9" E2 B"D7b9" c | %5
+w: To|love and be|loved, that's what|life's all a- bout.|* Keeps the|
+"^Dmi" D D/^C/"^Dmi7" D2- |"G7" D z/ ^C/"B7" D ^D |"C" E E"^Dmi7" F3/2 F/ | %8
+w: stars com- ing out.|* What makes the|sad heart sing, the|
+"^Emi7" G G"E7b9" ^G z/ E/ |"^Ami" e3 d/c/ |"^Dmi" A2 B c |"^Ami" E E/^D/"^Ami7" E2- | %12
+w: birds take wing. To|love and be|loved, that's whatr|liv- ing is for.|
+"D9" E2"^Fmi6" e d |"^Emi7" G G/^F/"^Ami" G c |"D9" e2"G9" B2 |"^Gmi7" c4- | %16
+w: * Makes me|love you the more, the|more we|cling.|
+"C7" c"^Gmi" c"B9" c"C7" c |"F" (3d e d A2- | A c c c |"Bb7" (3d e d _A2- | A c c c | %21
+w: * Let o- thers|race to the moon,|* Through time and|space to the moon.|* My goal is|
+"C" (3d e d c2- |"D9" c e c A |"^Dmi" F2- F/F/"^Dmi7"G/F/ |"^Bmi7" E3"E7" E ||"^Ami" e3 d/c/ | %26
+w: great- er than this|* To reach your|lips, * to share your|kiss. To|stay in your|
+"^Dmi" A2 B c |"^Ami" E E/^D/ E2- |"D9" E2"^Fmi6" e d |"^Emi7" G/ G ^F/"^Emi6" G/ G"Edim" ^F/ | %30
+w: arms is the|dream I pur- sue,|* To be|shel- tered and safe from the|
+"^Dmi7" G2"G7" e d |"^Gmi6" G/ G ^F/ G/ G ^F/ |"^Ami7" G2"A7" f e |"^F#mi7b5" c/ c B/ c/ c B/ | %34
+w: storm, to be|co- zy and e- ver so|warm, and for|al- ways to love and be|
+"^Fmi6" c2"G9" d2 |"C" c4- | c2 z2 |] %37
+w: loved by|you.||
+

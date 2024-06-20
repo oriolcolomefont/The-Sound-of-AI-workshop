@@ -1,0 +1,35 @@
+X:1
+T:Hallelujah, I love her so
+C:Ray Charles
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"G"zd ed _B"G/B"AGE |"C" G2 G_B-"C#dim7" B2 z2 |"G"zd ed _B"G/B"AGE |"C" G2 GE- E2"C#dim7" z2 | %4
+w: * Let me tell you 'bout a|girl I know _|She is my ba- by and she|lives next door _|
+w: When I'm in trou- ble and I|have no friend. _|I know she'll go with me un-|til the end _|
+"G" z2 ed _BAGE |"G7/B" G2 GG- G2 z2 |"C"zE GE GEGE | G2"C#dim7" GG- GDEG | %8
+w: Eve- ry mor- ning 'fore the|sun comes up _|She brings me cof- fee in my|favo- rite cup _ That's why I|
+w: Eve- ry- bo- dy asks me|how I know _|I smile at them and say, "She|told me so" _ That's why I|
+"G"(B d3)"B7" z2 B"C/F#"B |"Em"(A G3)"C7" z2 _BA |"A7" _BAGE G2"D7sus4" GG- |"G" G2 z2 z4 :| %12
+w: know _ Yes I|know _ Hall- e-|lu- jah, I just love her so|_|
+w: know _ Yes I|know _ Hall- e-|lu- jah, I just love her so|_|
+"C"zE GE GEGE | G"C#dim7"G G2 z4 |"G"z2>B2 edBG |"G7" B2 GA- A2 z2 |"C7" z2 GE GEGE | %17
+w: Now, if I call her on the|te- le- phone|And tell her that I'm|all a- lone _|By the time I count from|
+w: |||||
+"Bb7" G2 GG- G2 z2 |"Am"zE AE z4 |"D7"A B2(e- e2 d2) ||"G" z2 ed _B"G/B"AGE | %21
+w: one to four _|I hear her|on my door _ _|In the eve- ning when the|
+w: ||||
+"C" G2 G_B-"C#dim7" B2 z2 |"G" z2 ed _B"G/B"AGE |"C" G2 GE- E2"C#dim7" z2 |"G"zd ed (_BA)GE | %25
+w: sun goes down _|When there is no- bo- dy|else a- round _|She kiss- es me _ and she|
+w: ||||
+"G7/B" G2 GG- G2 z2 |"C"zE GE GEGE |"C#dim7" G2 GG- GDEG |"G"(B d3)"B7" z2 BB | %29
+w: holds me tight _|And tells me "Dad- dy, eve- ry-|thing's all right _ That's why I|know _ Yes I|
+w: ||||
+"Em"(A G3)"C7" z2 _BA |"A7" _BAGE"D7sus4" G2 GG- |"G" G2 z2 z4 |] %32
+w: know _ Hall- e-|lu- jah I just love her so||
+w: |||
+

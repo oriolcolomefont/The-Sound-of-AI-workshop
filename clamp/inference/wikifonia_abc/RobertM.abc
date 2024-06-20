@@ -1,0 +1,46 @@
+X:1
+T:English Country Garden
+T:In an English country garden
+T:Robert M Jordan
+C:Robert M.Jordan
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 4
+V:1
+|:"C" c2 c"F"c"F" A2 A2 |"G" G2 G"C"F"C" E2 EF | G2"F" C2"F""Dm7" D2"Dm7" F2 |"G7" z2 E"C"D"C" C4 | %4
+w: How ma- ny gen- tle|flow- ers * grow in an|Eng- lish coun- try|gar- * den?|
+w: How ma- ny in- sects|find their * home in an|Eng- lish coun- try|gar- * den?|
+w: How ma- ny song- birds|make their * nests in an|Eng- lish coun- try|gar- * den?|
+ c2 c"F"c"F" A2 A2 |"G" G2"C" G"C"F EEEF | G2"F" C2"F""Dm7" D2"Dm7" F2 |"G7" z2 E"C"D"C" C4 | %8
+w: I'll tell you now of|some I * know, and those I|miss I hope you'll|par- * don.|
+w: I'll tell you now of|some I * know, and those I|miss I hope you'll|par- * don.|
+w: I'll tell you now of|some I * know, and those I|miss I hope you'll|par- * don.|
+"C" ccc"G7"A"G7" BA G2 |"C" ccc"G7"A"G7" BA G2 |"C" c2 c"D7"c"D7" A2 dc |"G" B2 B"G7"A"G7" G2 AB | %12
+w: Daf- fo- dils, hearts, sea- son phlox,|Mea- dow- sweet and lil- ies, stocks;|gen- tle * lu- pin and|tall hol- ly- hocks; ro- ses,|
+w: Dra- gon fli- es moths and bees|Spi- ders fall- ing from the trees,|but- ter flies sway in the|mild gen- tle breeze. There are|
+w: Bab- bl- ing coo- coo- ing doves|Rob- ins and the war- bling thrush|blue- bird, * lark, finch and|night- ing- * gale. We all|
+"C" c2 c"F"c"F" A2 A2"C" |"G" z GG"C"F"C" E2 EF x | G2"F" C2"F""Dm7" D2"Dm7" F2 | %15
+w: fox- gloves, * snow- drops,|for- get- me nots, in an|Eng- lish coun- try|
+w: hedge- hogs * that roam|and lit- tle gnomes in an|Eng- lish coun- try|
+w: smile in the spring, *|birds all * sing in an|Eng- lish coun- try|
+"G7" z2 E"C"D"C" C4- | C6 z2 | z8 :| C6 z2 | z8 |] %20
+w: gar- * den.|||||
+w: gar- * den|||||
+w: gar- * den|||||
+V:2
+|: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x2 x"F" x"F" x2 AA | %13
+w: |||||||||||||
+w: |||||||||||||
+w: ||||||||||||when the|
+ x x x F/"C"F/"C" x x4 | x8 | x8 | x8 | x8 :| x8 | x8 |] %20
+w: |||||||
+w: |||||||
+w: start to|||||||
+

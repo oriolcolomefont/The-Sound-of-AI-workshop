@@ -1,0 +1,35 @@
+X:1
+T:Hot Toddy
+T:Hot Toddy
+T:Ralph Flanagan
+T:Herb Hendler
+C:Ralph Flanagan
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+|: z"G6" G2 z z2 |"G9" F2 G F2 z |"G6" G2 z G2 z |"G9" F2 G F2 z |"Cmaj7" G2 z G2 E |"C6" z6 | %6
+w: Hot|tod- dy sure|makes a|bo- dy feel|might- y nice,||
+w: Four|swal- lows of|hot hot|tod- dy, you're|think- ing twice,||
+"Cmaj7" G2 z G2 E |"C6" z6 | z"G6" G2 z z2 |"G9" F2 G F2 z |"G6" G2 z G2 z |"G9" F2 G F2 z | %12
+w: might- y nice.||One|swal- low of|hot hot|tod- dy's worth|
+w: think- ing twice.||Five|swal- lows of|hot hot|tod- dy, they're|
+"Cmaj7" G2 z G2"C6" E | z6 |"Cmaj7" G2 z G2"C6" E | z6 |"C" z c2 z z2 |"C9" _B2 c B2 z | %18
+w: an- y price,||an- y price.||Two|swal- lows of|
+w: throw- ing rice,||throw- ing rice.||You're|need- in' some|
+"C6" c2 z c2 z |"C9" _B2 c B2 z |"Fmaj7" c2 z c2"F6" A | z6 |1"Fmaj7" c2 z c2"F6" A | z6 | %24
+w: hot hot|tod- dy will|break the ice,||break the ice.||
+w: hot hot|tod- dy, take|my ad- vice,||||
+ z"D6" d2 z z2 |"D9" c2 d c2 z |"D6" d2 z d2 z |"D9" c2 d c2 z |"G7" d2 z"Ebm6" _B2"D6" A | z6 | %30
+w: Three|swal- lows of|hot hot|tod- dy will|add the spice.||
+w: ||||||
+ z6 | z6 :|"Fm6" c2 z c2 _A | z6 | z"G6" G2 z z2 |"G9" F2 G F2 z |"G6" G2 z G2 z |"G9" F2 G F2 z | %38
+w: ||my ad- vice.||Start|cook- in' with|hot hot|tod- dy and|
+w: ||||||||
+"G6" G2 z G2 z |"G9" (F2 G) F2"C6" C- | C6- | C3 z z2 | z6 |] %43
+w: coast to|par- * a- dise.||||
+w: |||||
+

@@ -1,0 +1,37 @@
+X:1
+T:Enchanted
+T:Enchanted
+C:Buck Ram
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Tremolo Strings" snm="Tremolo Strings"
+%%MIDI channel 6
+%%MIDI program 44
+V:1
+"Eb6" f4 c4 |"Ab6" f4 c4 |"Eb6" f4 c4 |"Bb7" d"A "_d"Ab " c"G "_c"Gb " B"F7"=A _AG |"Bb7" F8 x4 | %5
+w: |||||
+"Eb " GA- (3ABc c B3 |"Ab " cd- (3def f e2 c |"Eb " BG- G6 | z4 dc- (3cB=A |"Bb7" AF-"Fmin" F6 | %10
+w: Li- ving * is a dr- eam|when you * make it se- em en-|chan- ted. *|Lo- vers * take for|gran- ted, *|
+"Bb7" z4 c2 (3BAB |"Eb " B G3 z"Cmin" G2 B- |"Fmin" BG BF-"Bb7" F4 |"Eb " GA- (3ABc c B3 | %14
+w: all the world's a\-|gl- ow; they ought|* to kn- ow. *|When you * touch a st- ar|
+"Ab " cd- (3def f e2 c |"Eb " BA G6 | z4 dc- (3cB=A |"Bb7" A2 F6 | z4 BA- (3AAD |"Eb " FE- E6 | %20
+w: then you * real- ly a\- re en-|ch- an- ted.|Find the * seed and|plant it;|love will * make it|gr- ow. *|
+"Eb7" z2 E2 G2 B2 |"Ab " e2(3zec e2(3zec | e2(3zec e f2 e |"Eb " B2(3zBB =A B2 c | %24
+w: It's real- ly|grand when you stand hand and|hand with your lo- ver and|thrill to the won- ders of|
+ c/d/c/B/- B4 z c |"F7" e2 (3eec e e2 c | e2 ec e f2 e |"Bb7" d2 dd c2 cd | B=A _AG F2 z2 | %29
+w: ni- * * ght. * And|days too will a\- maze you and|soon you dis- co- ver your|dreams run to dreams in con-|tin- u\- ous fli- ght.|
+"Eb " BG- (3GcG B4 |"Ab " (3cde- ef f e2 c |"Eb " BA G6 | z4 dc B=A |"Bb7" A2 GF- F4 | %34
+w: Love is * ec- sta- sy;|it's di- vine * to b\- e en-|ch- an- ted|when your dreams are|slan- t\- ed *|
+ z4 cB- (3BAD |"Eb " F/G/F/E/- E6 |"Eb7" z2 E2 G2 B2 |"Ab " e2(3zec e2(3zec | e2(3zec e f2 e | %39
+w: through a * lo- ver's|e\- * * yes. *|It's real- ly|grand when you stand hand and|hand with your lo- ver and|
+"Eb " B2(3zBB =A A2 c | c/d/c/B/- B4 z c |"F7" e2 (3eec e e2 c | e2 ec e f2 e |"Bb7" d2 dd c2 cd | %44
+w: thrill to the won- ders of|ni- * * ght. * And|days too will a\- maze you and|soon you dis- co- ver your|dreams run to dreams in con-|
+ B=A _AG F2 z2 |"Eb " cG- (3GcG B4 |"Ab " (3cde- ef f e2 c |"Eb " BG- G6 | z4 dc B=A |"Bb7" A2 F6 | %50
+w: tin- u\- ous fli- ght.|Love is * ec- sta- sy;|it's di- vine * to b\- e en-|chan- ted *|when your dreams are|slan- ted|
+ z4 cB- (3BAD |"Eb " F/G/F/E/- E6 |"Bb7" d"A "_d"Ab " c"G "_c"Gb " B"Bb7"=A _AG- |"Eb " G4 GA Bc | %54
+w: through a * lo- ver's|e\- * * yes. *|||
+ B8 |] %55
+w: |
+

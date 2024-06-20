@@ -1,0 +1,25 @@
+X:1
+T:I do I do I do I do I do
+T:I do I do I do I do I do
+T:Benny Anderson, Bjorn Ulvaeus
+C:Benny Anderson, Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G4"G7" A2 Bd- |"C" d c3 f2 e2 |"A7" A4 B2 ^ce- |"Dm" e d3- d2 a^a |"G7" b6- b^a | bgaf gefd | %6
+w: Love me or leave|* me make your|choice but be- lieve|* me * I love|you * I|do I do I do I do I|
+"C" e8 |"G7" z8 |"C" G4"G7" A2 Bd- |"C" d c3 f2 e2 |"A7" A4 B2 ^ce- |"Dm" e d3- d2 a^a | %12
+w: do||I can't con ceal|* it dont you|see cant you feel|* it * dont you|
+"G7" b6- b^a | bgaf gefd |"C" c8- | c4"^N.C." z cB_B- |"Gm" _B4- _Baga- |"C7" a g3 e2 c2 | %18
+w: too? * I|do I do I do I do I|do|* Oh * I've|* * been * dream|* in thru my|
+"F" A4- Agfg | f8 |"D7" z2 a2 a2 ^f2 | e2 ^f4 d2 |"Dm" a4 f2 e2 |"G7" d4"^N.C." B2 A2 | %24
+w: lone- * ly * past||now I just|made it I|found you at|last so come|
+"C" G4"G7" A2 Bd- |"C" d c3 f2 e2 |"A7" A4 B2 ^ce- |"Dm" e d3- d2 a^a |"G7" b6- b^a | bgaf gefd | %30
+w: on now lets try|* it I love|you cant de- ny|* it * cos its|true * I|do I do I do I do I|
+"C" c8- | c6 z2 |] %32
+w: do||
+

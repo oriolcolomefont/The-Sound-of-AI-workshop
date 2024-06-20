@@ -1,0 +1,35 @@
+X:1
+T:Baby Doll
+C:Bessie Smith
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"^Medium tempo"!mf!"F" FFAc"D7" dddc |"G7" z"C7" _A2 F"F" F2 FG |"D7" =Ad c2"G7" z _A"C7"GF | %3
+w: Hon\- ey there's a fun\- ny feel\- ing|* my heart, and it's|bound to drive your ma\- ma|
+"F" F6"C7" z2 |"F" z AAc _A F2 =A | cddd (A F2) F |"C" EG G2-"G7" GGGG |"C7" G6 z c | %8
+w: wild.|It must be some\- thing they|call the Cu\- ban Doll,\- * it|weren't your ma\- * ma's an\- gel|child. I|
+[K:F]"F7" cccc c c2 z |"Bb" z ccc c2 z A |"G9" AAAF"C13511" A3 A |"F" F6 z E |"G7" G2 _B2 A G2 z | %13
+w: went to see the doc\- tor|the oth\- er day, he|said l's well as well could|be: But|I said, "Doc\- tor,|
+ z GGG- G4 |[K:F] G/G/G- G4 A/A/A/G/- |"C7" G6 z F ||"F" F/F/G/F/- FA-"F/Eb" A c2 z | %17
+w: you don't know *|real\- ly what's * wor\- ry ing me.\_|* I|want to be some\- * bo\- * dy's|
+"D7" z d2 c A>A A/A/A- |"G9" AAAA-"C13511" A c2 _A |"F" F4 z2 z F | F/F/G/F/- F_A-"F/Eb" A c2 d- | %21
+w: ba\- by doll, so I can get|* my lov\- ing * all the|time. I|want to be some\- * bo\- * dy's ba\-|
+"D7" d3 c (A D3) |"G7" z ^G A4 A=G- |"C7" G4 z4 |"F7" z AAc c2 F2 | z ddd F2 z ^G | %26
+w: * by doll, *|to ease my mind.||He can be ug\- ly,|he can be black, so|
+"Bbmaj7" Accd AFFF |"Bdim" z d2 d (_A F2) F |"F" F/F/G/F/- F=A-"F/Eb" A A2 d- | %29
+w: long as he can ea\- gle rock and|ball the Jack. * I|want to be some\- * bo\- * dy's ba\-|
+"D7" d3 c A>A A/A/(A |"G9" A)AFD-"C9" D c2 _A |"F" F2 =AA-"D7" A2 z A |"G9" AA A/A/c-"C7" c3 d | %33
+w: * by doll, so I can get|* my lov\- in'\_ * all the|time; I mean * to|get my lov\- in' all * the|
+"F" (_A F3)"C7" z c2 A ||"F7" c/d/d- d_A F2 d/d/d/(c/ | c3) _A F2 A/B/=B/B/ | %36
+w: time. * * I|went to the * gyp\- sy to get my for\-|* tune told; She said "You in|
+"Bbmaj7" c3 d _AF A/A/F |"Bdim" z d2 d (_A F2) F ||[K:F]"F" F/F/G/F/- F=A"F/Eb" A A2 d- | %39
+w: hard luck, Bes\- sie, dog\- gone your|bad luck soul!" * I|want to be some\- * bo\- * dy's ba\-|
+"D7" d3 c A>A A/A/A- |"G9" AAFD-"C9" D c2 _A |"F" F2 =AA-"D7" A2 z A |"G9" AA A/A/c-"C7" c3 d | %43
+w: * by doll, so I can get\-|* my lov\- in' * all the|time; I mean * to|get my lov\- in' all * the|
+"F" (AF- F4) z2 |] %44
+w: time. * *|
+

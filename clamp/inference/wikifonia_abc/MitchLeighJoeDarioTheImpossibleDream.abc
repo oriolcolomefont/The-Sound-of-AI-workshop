@@ -1,0 +1,33 @@
+X:1
+T:The Impossible Dream
+T:The Impossible Dream
+T:(The Quest)  from Man of la Mancha
+T:Mitch Leig
+T:Joe Dario
+C:Mitch Leigh
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ E |:"C" G3- | G E F | G F E | G3- | G3- | G2 G |"F" A3- | A F G | A G F | A3- | A3- | A2 A | %13
+w: To|dream|_ the im-|pos- si- ble|dream|_|* to|fight|_ the un-|beat- a- ble|foe|_|* to|
+"Em" B3- | B E F | G A B |"F" c F2- | F3- | F2 G |1"Dm" A3- | A D E | F G A |"G7" B3- | B3- | %24
+w: bear|_ with un-|bear- a- ble|sor- row|_|* to|run|_ where the|brave dare not|go|_|
+ B2 E :|2"Dm" A3- || A F G | A B c |"G7" d3- | d3 |"Dm" c d c |"C" e3- | e2 c | c d c |"Am" e3- | %35
+w: * to|reach|_ the un-|reach- a- ble|star!|_|this is my|quest|_ to|fol- low that|star|
+ e2 c | c d c |"Em" e B2- | B2 c | d c B |"F" d3- | d2 A | c B A |"Am" c3- | c A B | c B A | %46
+w: _ no|mat- ter how|hope- less|_ no|mat- ter how|far|_ to|fight for the|right|_ with- out|ques- tion or|
+"Ab" c3- | c c d | e d c |"C" e d c | e c d |"Am" e f e |"Bb" d3- | d3 | z d e |"Dm" f3- | f e d | %57
+w: pause|_ to be|wil- ling to|march- in to|hell for a|heav- en- ly|cause|_|and I|know|_ if I'll|
+ f d c |"Bb" f3- | f e f | e d c |"E" B3- | B3- | B B c |"F" d3- | d c d | d c B |"B7" d3- | %68
+w: on- ly be|true|_ to this|glo- ri- ous|quest|_|* that my|heart|_ will lie|peace- ful and|calm|
+ d c d | c B A |"Fm" _A3- | _A3 | z"G7" E F |"C" G3- | G E F | G F E | G3- | G3- | G F G |"F" A3- | %80
+w: _ when I'm|laid to my|rest|_|and the|world|_ will be|bet- ter- for|this|_|* that one|man|
+ A F G | A G F | A3- | A3- | A G A |"Em" B3- | B E F | G A B |"F" c F2- | F3- | F2 c |"C" e3- | %92
+w: _ scorned and|cov- ered with|scars|_|* still _|strove|_ with his|last ounce of|cour- age|_|* to|reach|
+ e c d |"G7" e d c |"C" c3- | c3- | c2 z |] %97
+w: _ the un-|reach- a- ble|stars.|_||
+

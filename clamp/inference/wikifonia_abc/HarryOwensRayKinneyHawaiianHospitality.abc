@@ -1,0 +1,36 @@
+X:1
+T:Hawaiian Hospitality
+T:Hawaiian Hospitality
+T:Harry Owens & Ray Kinney
+C:Harry Owens & Ray Kinney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3/2"^tacit" A/ B>=B |:"F" c3 c"C7" B3 c |"F" A4- A>FF>F | G G2 G"Abdim" F>GF>E- |"C7" E6 c>^c | %5
+w: A- long the|beach at Wai- ki-|ki, * a fair wa-|hi- ne is wait- ing for me,|* with her|
+w: |moon we stroll a-|long, * and life is|just like a beau- ti- ful song,|* when she|
+"Gm7" d2 d2-"F#dim" d>c (3cc=B |"Gm7" B4-"C7" B>CC>C |"Gm7" C>CC>A"C7" B,>B, (3B,GF- |1 %8
+w: dark eyes * and lov- a- ble|charms * and ver- y|sweet Ha- wai- ian Hos- pi- tal- i- ty.|
+w: whis- pers, * come in- to my|arms, * it's just the|old Ha- wai- ian Hos- pi- tal- i- ty.-|
+"F" F4-"C7" F>AB>=B :|2"F""F7" F8 ||"Bb" z3/2 ^c<dc/ d2 d2 | d2"Bdim" e4 d2 | %12
+w: * * Be- neath the||And 'tho my heart may|sob to A-|
+w: ||||
+"F" d2 c2 c>c"Fdim"=B>c |"F""A7" c8 |"Dm7" z2 A>^G A2 A2 |"D7" A>Bcd- d>dc>A |"G9" A6 D2 | %17
+w: lo- ha when I sail a-|way,|how my heart will|throb to the thought * of com- ing|back some|
+w: |||||
+"C7" G4- G>"^tacit"AB>=B |"F" c3 c"C7" B3 c |"F" A4- A>FF>F | G>GG>F-"Abdim" F3 F | %21
+w: day. * And when my|dream of love comes|true, * there will be|O- ko- le- hao * for|
+w: ||||
+"C7" E4- E>cc>^c |"C9" d>d^c>=c- c2 =B2 |"C7" B4- B>CC>C |"Gm7" C>CC>A"C7" B,>B, (3B,GF- | %25
+w: two, * a lit- tle|We- la- ka- hao- * might|do. * it's just the|old Ha- wai- ian Hos- pi- tal- i- ty.-|
+w: ||||
+"F" F6 z2 |] %26
+w: |
+w: |
+

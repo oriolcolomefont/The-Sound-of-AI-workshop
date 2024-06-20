@@ -1,0 +1,24 @@
+X:1
+T:De Vogeltjesdans
+T: Laukens Music Productions  
+T:Polka
+T:DE VOGELTJESDANS
+T:Arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G7" G2 z2 g2 z2 | G2 z2 g2 z2 | G2 g2 G2 g2 | Gg Gg Gg Gg | GG GG GG GG | G2 GG AA EE || %6
+S"C" G2 GG AA EE | G2 GG AA cc |"G7" B2 B2 A2 G2 | F2 FF GG DD | F2 FF GG DD | F2 FF GG BB | %12
+"C" A2 A2 G2 F2 | E2 GG AA EE | G2 GG AA EE | G2 GG AA cc |"G7" B2 B2 A2 G2 | F2 FF GG DD | %18
+ F2 FF GG DD | F2 GG AA BB |"C" c2 A2 G2 E2 | C2 G2 _G2 F2 |:"C""^Laatste keer versnellen" E6 G2 | %23
+ e6 d2 | d4 c4- | c2 G2 _G2 F2 | E6 G2 |"D7" d6 c2 |"G7" B8- | B2 A2 G2 _G2 | F6 G2 | d6 c2 | %32
+ c4 B4- | B2 d2 d2 c2 | c4 B4- | B2 B2 c2 d2 |"C" c8-!fine! |1 c2 G2 _G2 F2 :|2 c2 GG AA ESE |] %39
+

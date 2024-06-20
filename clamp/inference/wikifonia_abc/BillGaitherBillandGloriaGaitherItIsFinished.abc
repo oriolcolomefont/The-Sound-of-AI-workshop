@@ -1,0 +1,35 @@
+X:1
+T:It Is Finished
+T:It Is Finished
+T:Bill Gaither
+T:Bill and Gloria Gaither
+T:All Rights Reserved
+C:Bill Gaither
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: EF |"C" G-G- G2 GG |"C7" c-c- c2 cc |"F" cA- A4- | A4 AA |"C" G4 GG | G4 FE |"G7" D6- | D4 EF | %9
+w: 1.~There's a|line * * that's been|drawn * * through the|a- ges *|* On that|line stands an|old, rug- ged|cross.|* On that|
+w: 2.~Still,~~~~ in|my heart, * * a|bat- tle * * was|rag- ing; *|* Not all|pris- 'ners of|war had come|home.|* There were|
+"C" G2- G2- GG |"C7" c c4 c |"F" cA- A4- | A3 A AA |"C" G4 GG |"G7" F4 ED |"C" C6- | C4 EF | %17
+w: cross, * * a|bat- tle is|rag ing *|* * For the|gain of man's|soul or its|loss.|* The earth|
+w: bat- tle- fields *|of my own|mak- ing; *|* I did- n't|know that the|war had been|won.|* Then I|
+"C" G4 GG |"C7" c4 cc |"F" cA- A4- | A4 AA |"C" G4- GG | G F4 E |"G7" D6- | D4 (EF) |"C" G2 G3 G | %26
+w: shakes with the|force of the|con- flict *|* And the|sun * re-|fus- es to|shine.|* For *|there hangs God's|
+w: heard how the|King of the|A- ges *|* Had *|fought all the|bat- tles for|me,|* And that|vic- t'ry was|
+"C7" c c4 c |"F" cA- A4- | A4 A2 |"C" G4 GG |"G7" B2 c2 d2 |"C" c6- | c2 z2 cc |"C" cG- G3 G | %34
+w: Son in the|bal- ance, *|* And|then through the|dark- ness He|cries,|* It is|fin- ished, * the|
+w: mine for the|claim- ing, *|* And|now, praise His|name, I am|free!|||
+"C7" c2 c2 d2 |"F" c2 A4- | A4 cc |"C" c G4 G | c2 d2 e2 |"G7" d6- | d4 ee |"F" (ed) c3 c | %42
+w: bat- tle is|o- ver.|* It is|fin- ished, there'll|be no more|war.|* It is|fin- * ished, the|
+w: ||||||||
+ d2 c3 c |"C" cA G4- | G4 cc | c G4 G |"G7" B2 c2 d2 |"C" c6- | c4 :| %49
+w: end of the|con- * flict|* It is|fin- ished, and|Je- sus is|Lord.||
+w: |||||||
+

@@ -1,0 +1,25 @@
+X:1
+T:I Will Serve Thee
+T:I Will Serve Thee
+T:William & Gloria Gaither, 1969
+C:William & Gloria Gaither, 1969
+Z:All Rights Reserved
+L:1/4
+Q:1/4=85
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z2 E G |"Eb" B2 G2- | G E"Ab" A c |"Eb" B2 G2- | G z E G |"Gm/Bb" B3 A | %11
+w: |||||I will|serve thee|_ be cause I|love thee|_ you have|giv en|
+ G2"D7" ^F2 |"Eb" G4- | G z E G | B2 G2- | G E"Ab" A c |"Eb" B2 G2- | G z E G |"Gm/Bb" B3 A | %19
+w: life to|me|_ I was|no thing|_ be fore you|found me|_ you have|giv en|
+ G2"Bb7" F2 |"Eb" E4- | E2 z2 |"Ab" c2 A2- | A2 A c |"Eb" B2 G2- | G z E G |"Gm/Bb" B3 A | %27
+w: life to|me|_|heart aches|_ bro ken|pie ces|_ ru ined|lives ar|
+ G2"D7" ^F2 |"Eb" G2"Fm7" A2 |"F#dim7" =A2"Eb/G" B2 |"Ab" c2 A2- | A E A c |"Eb" B2 G2- | G z E G | %34
+w: why you|died on|cal vary|your touch|_ was what I|longed for|_ you have|
+"Gm/Bb" B3 A | G2"Bb7" F2 |"Eb" E4- | E2 z2 | z4 | z4 | z4 | z4 |] %42
+w: giv en|life to|me|_|||||
+

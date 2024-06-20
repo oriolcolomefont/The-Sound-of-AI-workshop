@@ -1,0 +1,66 @@
+X:1
+T:I Remember It Well
+T:I Remember It Well
+T:(Gigi)
+T:Frederick Loewe
+T:Alan Jay Lerner
+T:All Rights Reserved
+C:Frederick Loewe
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Staff"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z3[Q:1/4=80]"^80" G, D>E |:"C" E3 G, D>E |"Cmaj7" E3 G, D>E |"C6" E3 G, D>E |"C" E4 G2 | G4 G>F | %6
+w: 1.(Him)~We met at|nine * * *|* I was on|time * * *|* Ah|yes, I re-|
+w: 1.(Her)...... * *|* We met at|eight. * * *|* No you were|late. *||
+w: ||||||
+w: |2.(Him)~ride * * *|* You lost a|glove. * * *|* Ah|yes, I re-|
+w: |2.(Her)....... You walked me|home. * * *|* I lost a|comb. *||
+"Dm7" E2 F2 G2 |"G7" D6 | z3 G, C>D |"Dm7" D3 D D>C |"G7" D3 G, C>D |"Dm7" D3 C C>A, |"G7" B,4 G2 | %13
+w: mem- ber it|well.|We dined with|friends. * * *|* A te- nor|sang. * * *|* Ah|
+w: |||* We dined a-|lone. * * *|* A bar- i-|tone. *|
+w: |||||||
+w: mem- ber it|well.|That bril- liant|sky; * * *|* Those Rus- sian|songs; * * *|* Ah|
+w: |||* We had some|rain. * * *|* From sun- ny|Spain? *|
+"Dm7" G4 G>F |"G7" E2 F2 D2 |"C" E6 | z3 C F>G |"F" G4 A2 |"F6" A4 E>F |"Fm" G4 G2 | G4 E>F | %21
+w: yes, I re-|mem- ber it|well.|That daz- zling|A- pril|moon. * *|||
+w: |||||* There was|none that|night, and the|
+w: ||||||||
+w: yes, I re-|mem- ber it|well.|You wore a|gown of|gold. * *||* Am I|
+w: |||||* I was|all in|blue. * *|
+"C" G4"Eb" G2 |"A7" G4 E2 |"Dm" F4 E2 |"G7" D3 D D>E |"C" E3 E E>D |"Cmaj7" E3 C"C7" G>A | %27
+w: |* That's|right, that's|right. * * *|||
+w: month was|June. *||* It warms my|heart to know that|you re- mem- ber|
+w: ||||||
+w: get- ting|old? *|||||
+w: |* Oh|no, not|you. How strong you|were, how young and|gay, I prince of|
+"F" A3 A A>G |"F6" A4 G,2 |"C" G4 G,>C |"G7" D2 E2 D2 |"C" C6!fine! |]"G7" z4 G,2 | %33
+w: |* Ah|yes, I re-|mem- ber it|well.|How|
+w: still the way you|do. *|||||
+w: ||||||
+w: |* Ah|yes! I re-|mem- ber it|well.||
+w: love, in e- very|way. *|* I re-|mem- ber it|well.||
+[M:6/8]"C"[Q:1/4=100]"^100" CDE"Cmaj7" B,CD |[M:4/8]"Am" A, C A, C |[M:6/8]"G7" B,4 z G, | %36
+w: of- ten I've thought of that|Frii- day * *|night When|
+w: |* * Mon- day||
+w: |||
+w: |||
+w: |||
+"Am" A,B,C"Dm7" DEC |"G7" D4 z D |"F" DEF"Fmaj7" ^CDE |"Dm" D/D/EF"Am" D2 C/A,/ | %40
+w: we had our last ren- dez-|vous. And|some- how I fool- ish- ly|won- dered if you might, by some|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+"C6"[Q:1/4=70]"^rit." C3 C"D7"C/D/E/C/ |"Dm7" G6- |"G7" G3 G,D>E :| %43
+w: chance, be think- ing of it|too.|* That car- riage|
+w: |||
+w: |||
+w: |||
+w: |||
+

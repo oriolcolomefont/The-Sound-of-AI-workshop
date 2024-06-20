@@ -1,0 +1,23 @@
+X:1
+T:Caterina
+T:Caterina 
+T:Earl Shuman, Bugs Bower, 
+C:Bugs Bower, Earl Shuman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 D F |:"B" G2 A2- | A2 D F | G2 z2 | z2 D F | G z D F | G G/G/ G G/G/ | G A/B/ A F |"Cm" E4- | %9
+w: Cat- er-|in- a|* oh ho|ho|(echo,oh ho|ho) when we|kiss pret- ty miss pret- ty|miss I'm in ec- sta|cy|
+ E z E G | c2 d2- | d e d B | c e d B | c e d B | c c/c/ c c/c/ |"C7" c B/A/ G/A/B/ z/ |"F7" c4- | %17
+w: * Ca- ter-|in- a|* oh ho ho|ho (echooh ho ho|ho) but when we|kiss pret- ty miss pret- ty|miss are you think- ing of|me?|
+ c2 D F |"^bB" G2 A2- | A2 D F | G z D F | G z =E F | c c/c/ c c/c/ | c B/c/"Bb" d B |"Eb" c4- | %25
+w: * Ca- ter-|in- a|* ah ha|ha (echo,ah ha|ha) just how|long is the list is the|list of the lips you've|kissed|
+ c2"Eb" e d | d/ c d/ c d |"Ebm" c2 d c |"Bb" c/ B c/ B A |"G7" G2 D F |"Cm" G2 E G |"F7" A2 F A | %32
+w: * Oh how|hap- py my heart would|be if I|knew that you love just|me say its|true say you|do Ca- ter-|
+"Eb" c2"Bb" B2- | B z D F :|"Eb" c2"Bb" B2- |"F7" B3"Bb" z | %36
+w: in- a|* Ca- ter|in a||
+

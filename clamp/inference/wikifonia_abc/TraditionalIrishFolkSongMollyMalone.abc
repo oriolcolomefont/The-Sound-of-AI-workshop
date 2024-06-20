@@ -1,0 +1,28 @@
+X:1
+T:Molly Malone
+T:Molly Malone
+C:Traditional Irish Folk Song
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 D2 |"G" G G3 G2 |"Em7" G B3 G2 |"C6" A2 A3 A |"D7" A c3 A2 |"G" B2 c2 d2 |"Em7" d2 c2 B2 | %7
+w: 1.~In|Dub lin's fair|cit- y, where|girls are so|pret- ty, I|first set my|eyes on sweet|
+w: |2.~was a fish|mon- ger, but|sure 'twas no|won- der, for|so were her|fath- er and|
+w: |3.~died of a|fev- er, and|no one could|save her, and|that was the|end of sweet|
+"A7" B2 A3 A |"D7" A4 DD |"G" G2 G2 G2 |"G7" G B3 G2 |"Am" A2 A3 A |"D7" A c3 BA |"G" d B3 G2 | %14
+w: Mol- ly Ma-|lone. As she|pushed her wheel-|bar- row thru|streets broad and|nar- row sing- ing,|"Coc- kles! and|
+w: moth- er be-|fore. And they|each whheeled their|bar- row thru|streets broad and|nar- row sing- ing|"Coc- kles and|
+w: Mol- ly Ma-|lone. But her|ghost wheels her|bar- row thru|streets broad and|nar- row sing- ing|"Coc- kles and|
+ d2 B3 G |"Am" A3 G"D7" A2 |"G" G4 D2 || G3 G G2 | (G2 B2) G2 |"D7" A3 A A2 | (A2 c2) BA | %21
+w: Mus- sels, a-|live, a- live|oh!" A-|live, a- live|oh, _ a-|live, a- live|oh, _ sing- ing|
+w: Mus- sels a-|live, a- live|oh!" *|||||
+w: Mus- sels a-|live, a- live|oh!" *|||||
+"G" d2 B3 G |"Em7" d B3 G2 |"A7" A3 G"D7" A2 |1"G" G4"D7" D2 :|2"G" G4"D7" D2 :|3"G" G6- || G6 |] %28
+w: "Coc- kles and|Mus- sels a-|live a- live|oh!" 2.~She|oh!" *|||
+w: ||||* 3.~She|oh!"||
+w: |||||||
+

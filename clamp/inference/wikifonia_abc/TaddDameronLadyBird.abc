@@ -1,0 +1,17 @@
+X:1
+T:Ladybird
+T:LADYBIRD
+T:Tadd Dameron
+C:Tadd Dameron
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 73
+V:1
+|:"Cmaj7" z/ G3/2 G G | G3/2 G/ z/ G3/2 |"Fm7" _B2 (3_A _E C |"Bb7" G F3 |"Cmaj7" z/ G3/2 G G | %5
+ G3/2 G/ z/ G3/2 |"Bbm7" c2 (3_A F _D |"Eb7" c =B2 z |"Abmaj7" z/ _B3/2 A _A | _B A/_A/- A2 | %10
+"Am7" z/ B3/2 _B A |"D7" =B _B/A/- A2 |"Dm7" c2- (3c A F |"G7" E2 ^C D |"Cmaj7" G G"Eb7" F _E | %15
+"Abmaj7" F F"G+7" _E _D :| %16
+

@@ -1,0 +1,28 @@
+X:1
+T:When Day Is Done
+T:When Day Is Done
+T:Robert Katscher
+T:Buddy De Sylva
+C:Robert Katscher
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z F |"Bb" B B B F |"Bbdim" A A A =E |"F9" G2 G2 | G3"F7" F | A A A F |"F9" G G G"F7" A | %7
+w: When|day is done and|shad- ows fall, I|dream of|you; When|day is done I|think of all the|
+"Bbmaj7" d2 d2 | d3 d |"Bb" c B2 d |"G7" c =B2 d |"C7" _A G G c | G3 c |"F7" B A2 c | %14
+w: joys we|knew. That|yearn- ing re|turn- ing to|hold you in my|arms, Won't|go love I|
+"Ebdim" A"F7" G2 A |"Bb" G F"Bdim" ^c d |"Cm6" f e"F9" c"F7" c |"Bb" B B B F |"Bbdim" A A A =E | %19
+w: know love, with-|out you night has|lost its charms! When|day is done and|grass is wet with|
+"F9" G2 G2 | G3"F7" F | A A A F |"F9" G G G"F7" A |"D7""Ebdim" d4- |"D7" d2 d2 |"Bb9" f f f c | %26
+w: twi- light's|dew, My|lone- ly heart is|sink- ing with the|sun.|* Al-|though I miss your|
+"Ab" e e e"Bb+" B |"Ebmaj7" d2 d2 |"D7b5" d3 d |"G7" f f"F#7" ^f f |"Cm7" g g"F7" f d |"Bb" B4- | %32
+w: ten- der kiss the|whole day|through, I|miss you most of|all when day is|done!-|
+ B z z2 |] %33
+w: |
+

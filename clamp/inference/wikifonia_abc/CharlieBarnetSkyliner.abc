@@ -1,0 +1,32 @@
+X:1
+T:Skyliner
+T:Skyliner
+C:Charlie Barnet
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7""^Bright Swing Tempo" B4 |"C7" _B2"C6" A2 |"A9" =B4 |"Em7b5" _B2"A7" A2 |"Dm7" G4 | F2 A2 | %6
+w: Sky-|lin- er,|Sky-|lin- er,|fly-|ing so|
+"Abmaj7" G4 |"Fm6" F4 |"Dm7" E4 |"Fm6" D2 G2 |"G9" E4 |"G7b9" D4 |"Cmaj7" B,4 |"D7" C2 E2 | %14
+w: free-|ly;|we|seem to|real-|ly|touch|heav- en,|
+"G7" G B d e |"Am7/G" A c e g |"Cmaj7" B4 |"C7" _B2"C6" A2 |"A9" =B4 |"Em7" _B2"A7" A2 |"Dm7" G4 | %21
+w: high- er, high- er,|ev- er high- er,|Sun-|beams all|dance|on your|wings,|
+ F2 A2 |"Abmaj7" G4 |"Fm6" F4 |"Dm7" E4 |"Fm6" D2 G2 |"G9" E4 |"G7b9" D4 |"C" C4 |"Bb9" C2 C2 | %30
+w: where the|light|falls,|and|then when|night|falls,|stars|dance a-|
+"C" C4- | C z z2 |"Eb9" (3c B _B (3A B =B | (3c B _B (3A B c |"Abmaj7" G4 | z2 _A c |"Db9" _e4 | %37
+w: bove|_|giv- ing a show for the|peo- ple be- low as we|fly.|As we|fly|
+"Gb9" _g4 |"Cb" _d4- | d2 (3z _c _B |"C7" (3A _A G (3^F G ^G | (3=A _A G (3^F G =A |"F" c4- | %43
+w: so|high,|_ hear- ing|each sing- le beat of the|mo- tors re- peat with a|sigh,|
+ c z z2 |"Gb9" _A4 |"D9" B4 |"D9#11" G4- | G z z2 |"Cmaj7" B4 |"C7" _B2"C6" A2 |"A9" =B4 | %51
+w: _|by|and|by.|_|I'll|hold her|close,|
+"Em7b5" _B2"A7" A2 |"Dm7" G4 | F2 A2 |"Abmaj7" G4 |"Fm6" F4 |"Dm7" E4 |"Fm6" D2 G2 |"G9" E4 | %59
+w: that's the|sweet|song they|sing|me.|sky-|lin- er|bring|
+"G7b9" D4 |"C" C4 |"Bb9" c4 |"C" c4- | c3 z |] %64
+w: me|home|to|love.|_|
+

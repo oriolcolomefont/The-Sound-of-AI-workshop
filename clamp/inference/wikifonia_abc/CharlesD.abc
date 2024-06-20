@@ -1,0 +1,44 @@
+X:1
+T:Life's Railway to Heaven
+T:Life's Railway to Heaven
+C:Charles D. Tillman 1890
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 |!fff! z6 cc |"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF |"Ab" E6 EE | %10
+w: |||||life is|like a moun tian|rail road with an|en gineer that's _|brave we must|
+ A4 E2 AB | c2 c4 AA |"Bb" B4 B2 Ac |"Eb7" B6 cc |"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF | %17
+w: make the run suc|cess ful from the|crad le to the|grave watch the|curves the fills the|tun nels ne ver|fal ter ne ver|
+"Ab" E6 EE | A4 E2 AB | c2 c4 AB | c4 A2"Eb7" BB |"Ab" A6 dd |"Db" d4 d2 AB |"Ab" c2 c4 ee | %24
+w: quail keep your|hand up on the|throt tle and your|eye up on the|rail bles sed|sav ior thou wilt|guide us till we|
+ e4 c2 BA |"Eb7" B6 cd |"Ab" e4 c2 BA |"Db" F2 A4 AB |"Ab" c4 A2"Eb7" BB |"Ab" A6 cc | %30
+w: reach that blis sful|shore where the|an gels wait to|join us in Thy|praise for ev er|more you will|
+"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF |"Ab" E6 EE | A4 E2 AB | c2 c4 AA |"Bb" B4 B2 Ac | %37
+w: roll up grades of|tri al you will|cross the bridge of|strife make sure|Christ is your con|duc tor on this|light ening train of|
+"Eb7" B6 cc |"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF |"Ab" E6 EE | A4 E2 AB | c2 c4 AB | %44
+w: life al ways|mind ful of ob|struct ions do your|du ty nev er|fail keep your|hand up on the|throt tle and your|
+ c4 A2"Eb7" BB |"Ab" A6 dd |"Db" d4 d2 AB |"Ab" c2 c4 ee | e4 c2 BA |"Eb7" B6 cd |"Ab" e4 c2 BA | %51
+w: eye up on the|rail bles sed|sav ior thou wilt|guide us till we|reach that blis sful|shore where the|an gels wait to|
+"Db" F2 A4 AB |"Ab" c4 A2"Eb7" BB |"Ab" A6 cc |"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF | %57
+w: join us in Thy|praise for ev er|more you will|oft en find ob|struc tions look for|storms of wind and|
+"Ab" E6 EE | A4 E2 AB | c2 c4 AA |"Bb" B4 B2 Ac |"Eb7" B6 cc |"Ab" c4 A2 Bc | B2 A4 AA | %64
+w: rain on a|fill or curve or|tres tle they will|all most ditch your|train put your|trust a lone in|Je sus nev er|
+"Db" A4 B2 AF |"Ab" E6 EE | A4 E2 AB | c2 c4 AB | c4 A2"Eb7" BB |"Ab" A6 dd |"Db" d4 d2 AB | %71
+w: fal ter nev er|quail keep your|hand up on the|throt tle and your|eye up on the|rail bles sed|sav ior thou wilt|
+"Ab" c2 c4 ee | e4 c2 BA |"Eb7" B6 cd |"Ab" e4 c2 BA |"Db" F2 A4 AB |"Ab" c4 A2"Eb7" BB | %77
+w: guide us till we|reach that blis sful|shore where the|an gels wait to|join us in Thy|praise for ev er|
+"Ab" A6 cc |"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF |"Ab" E6 EE | A4 E2 AB | c2 c4 AA | %84
+w: more as you|roll a cross the|tres sle cros sing|jor dan's swel ling|tide you be|hold the un ion|dep ot in to|
+"Bb" B4 B2 Ac |"Eb7" B6 cc |"Ab" c4 A2 Bc | B2 A4 AA |"Db" A4 B2 AF |"Ab" E6 EE | A4 E2 AB | %91
+w: which your train will|glide there you'll|meet the sup erin|tend ent God the|Fath er God the|Son with a|hear ty joy ous|
+ c2 c4 AB | c4 A2"Eb7" BB |"Ab" A6 dd |"Db" d4 d2 AB |"Ab" c2 c4 ee | e4 c2 BA |"Eb7" B6 cd | %98
+w: plaud it wea ry|pil grim wel come|home bles sed|sav ior thou wilt|guide us till we|reach that blis sful|shore where the|
+"Ab" e4 c2 BA |"Db" F2 A4 AB |"Ab" c4 A2"Eb7" BB |"Ab" A8 | z8 | z8 | z8 |] %105
+w: an gels wait to|join us in Thy|praise for ev er|more||||
+

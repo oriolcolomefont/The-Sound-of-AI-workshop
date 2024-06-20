@@ -1,0 +1,45 @@
+X:1
+T:We've Got Tonight
+T:We've Got Tonight
+T:Bob Seger
+T:Bob Seger
+T:All Rights Reserved
+C:Bob Seger
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"^Kenny" (3cBA |"Ab""Db" E6 (3cBA |"Ab" F2"Db" E4 (3cec |"Ab" (e2"Db" c4) (3fec | %4
+w: I know it's|late. I know you're|wear- y. I know your|plans * don't in- clude|
+"Ab" (e2"Eb7" c4) (3cBA |"Ab""Db" E6 (3cBA |"Ab" F2"Db" E4 (3cec |"Ab" e2"Db" c3 c (3fec | %8
+w: me. * Still, here we|are; Both of us|lone- ly. Long- ing for|shel- ter From all that we|
+"Ab" (ec-)"Eb7" c4 (3cec |"Ab" e2"Db" c4 (3fec |"Ab" e2"Db" c4 (3cec |"Ab" e2"Db" c4 (3fec | %12
+w: see. * * Why should we|wor- ry? No- one will|care, girl. Look at the|stars now, so far a-|
+"Ab" (ec-)"Eb7" c4 (3cBA |"Ab""Db" E6 (3cBA |"Ab" F2"Db" E4 (3cec |"Ab" (e2"Eb7" c4) (3cBA | %16
+w: way. * * We've got to-|night Who needs to-|mor- row? We've got to-|night, babe; Why don't you|
+"Ab""Eb7" A6"^Sheena" (3cBA |"Ab""Db" E6 (3cBA |"Ab" D2"Db" E4 (3cec |"Ab" (e2"Db" c4) (3cBA | %20
+w: stay? Deep in my|soul I've been so|lone- ly; All of my|hopes * fa- ding a-|
+"Ab" c2-"Eb7" c4 (3cBA |"Ab" E4-"Db" EE (3cBA |"Ab" D2"Db" E3 c (3cec |"Ab" (e2"Db" c4) (3fec | %24
+w: way. * I've longed for|love * Like ev- 'ry- one|else does. I know I'll keep|search- ing af- ter to-|
+"Ab""Eb7" e6"^Kenny" (3cec |"Ab" e2"Db" c4 (3fec |"Ab" e2"Db" c4"^Sheena" (3cec | %27
+w: day. So there it|is, girl; We've got it|all now. And here we|
+"Ab" e2"Db" c4 (3fec |"Ab""Eb7" e6"^Both" (3cBA |"Ab" (A2"Db" c4) (3fec |"Ab" e2"Db" c4 (3cec | %31
+w: are, babe; What do you|say? We've got to-|night * Who needs to-|mor- row? We've got to-|
+"Ab" (e2"Eb7" c4) (3cBA | A8 |"Cb" z"^Kenny" eee e/e/eee |"Ab" c2 A6 |"Cb" z eee e2 ee | %36
+w: night, babe; Why don't you|stay?|I know it's late and I know you're|wear- y.|I know your plans don't in-|
+"Ab" c2 A2"^Sheena" a2 ef |"Db" f/e/"Fb" d4- d"^Both" f/e/d |"Ab" e2"Db" c4 f/e/d | %39
+w: clude me. But, here we|are, * * * Both of us|lone- ly Both of us|
+"Ab" e2"Eb7" c4"^Kenny (hushed)" (3cBA |"Ab""Ab" A6"^Kenny" (3cBA | %41
+w: lone- ly Why don't we|stay? We've got to-|
+"Ab" A/F/"Db"E- E4"^Sheena" (3cBA |"Ab" EE-"Db" E4"^Kenny" (3cec |"Ab" (e2"Db" c4)"^Sheena" (3cBA | %44
+w: night; * * * Who needs to-|mor- row? * Let's make it|last; * Let's find a|
+"Ab""Eb7" A6"^Kenny" (3EFA |"Ab" (c2"Db" e4)"^Sheena" (3fec |"Ab" B2"Db" A4"^Both" (3cec | %47
+w: way. Turn out the|lights. * Come take my|hand now. We've got to-|
+"Ab" e2"Eb7" c4 (3cBA |"Ab" A6 (3cec | e2 c6 |"Eb7" z2 c2 B2 A2 |"Ab" A8 |] %52
+w: night, babe; Why don't we|stay? We've got to-|night, *|Why don't we|stay?|
+

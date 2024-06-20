@@ -1,0 +1,35 @@
+X:1
+T:500 miles
+T:500 Miles
+T:Hedy West
+C:Hedy West
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G A |"G" B3/2 B/ A G |"Em" B2 A G |"Am" A3/2 B/ A G |"C" E2 E G |"Am" A3/2 B/ A G | %6
+w: 1.........If you|miss the train I'm|on, then you'll|know that I am|gone, You can|hear the whist- le|
+w: 2....Lord I'm|one, * Lord I'm|two, Lord I'm|three, * Lord I'm|four, Lord, I'm|five * hun- dred|
+w: 3.....Not a|shirt * on my|back, not a|pen- ny to my|name. Lord I|can't- * go *|
+w: 4..........If you|miss the train I'm|on you will|know that I am|gone. You will|hear the whist le|
+"C" E D E G |"D" A4-!fine! ||"D7" A3/2 A/"G" G"D7" A |"G" B3/2 B/ A G |"Em" B3/2 B/ A G | %11
+w: blow a hun- dred|miles.|* A hun- dred|miles, a hun- dred|miles, a hun- dred|
+w: miles- * from my|home,|* Five hun- dred|miles, five hun- dred|miles, five hun- dred|
+w: back- * this a-|way|* * This a-|way, * this a-|way, * this a-|
+w: blow a hun- dred|miles.||||
+"Am" A3/2 B/ A G |"C" E2 E G |"Am" A3/2 B/ A G |"D7" E3/2 D/ E G | %15
+w: miles, a hun- dred|miles. You can|hear the whis- le|blow a hun- dred|
+w: miles, five hun- dred|miles, Lord I'm|five * hun- dred|miles- * from my|
+w: way * this a-|way. Lord I|can't * go back-|* home this a|
+w: ||||
+"G""^2 repeats,then" G2- G z!D.C.! |] %16
+w: miles.- *|
+w: home.- *|
+w: way. *|
+w: |
+

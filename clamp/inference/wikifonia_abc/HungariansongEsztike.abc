@@ -1,0 +1,17 @@
+X:1
+T:Esztike
+T:Esztike 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" C2 CC CDEC |"G" D2 DC B,4 | D2 DD DFED |"C" C8!fine! :|"G" G G2 F E4 |"Dm" F F2 E D4 | %6
+w: Esz- ti- ke- ti- ke- ti- ke,|Esz- ti- ke lány,|es- té- re le- gyen a ba-|bám!|A- nyós is lesz,|a- pós is lesz,|
+ F2 F2 E2 F2 |"G" G2 GG GFED!D.C.! |] %8
+w: Esz- ti- ké- nek|jó so- ra lesz, ga- lam- bom!|
+

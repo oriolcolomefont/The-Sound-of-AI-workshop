@@ -1,0 +1,47 @@
+X:1
+T:Fire Down Below
+T:Fire Down Below
+T:From the movie "Fire Down Below"
+T:Lester Lee
+T:Ned Washington
+C:Lester Lee
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^CHA-CHA" z2 C F ||S"Gm7" D2 D"C9" G- | G2 E"C7b9" G |"F6" F2 D F- | F2 C F |"Gm7" D2 D G- | %6
+w: Don't be-|lieve my eyes|* They're the|cold- est eyes|* But I'm|not so cold|
+w: (I'll ad)-|mit my face|* is the|qui- et type|* This can|all be changed-|
+"C7" G2 E"C7b9" G |"F" F2 D F- | F/ F F/ E _E |"D7" D/ ^F A/ c A |"Gm" G"D7" A/B/-"Gm" B2 | %11
+w: * Let me|put you wise||Keep- ing the tem- p'ra-|ture so low *|
+w: * when the|time is ripe||Call out the vol- un-|teer bri- gade *|
+"C7" C/ E G/ B"C7b9" B |"F" A/ F F/ z/ F/"A7" z/ G/ |"D7" D/ ^F A/ c A | %14
+w: This is a work of|art * * * *|For there's a fi- re|
+w: Haul out the fi- re|cart * * * *|For there's a fi- re|
+"Gm" G"D7" A/B/-"Gm" B2!dacoda! |"C7" G A/B/- B/G/ E |"F" F z C F |"Gm7" D2 D"C9" G- | %18
+w: down be- low *|Down be- low * in my|heart. And my|cra- zy lips|
+w: down be- low, *||||
+ G2 E"C7b9" G |"F6" F2 D F- | F2 C F |"Gm7" D2 D G- |"C7" G2 E"C7b9" G |"F" F2 D F- | %24
+w: * They're such|la- zy lips|* But they'll|come to life|* should we|come to grips|
+w: ||||||
+ F/ F F/ E _E |"D7" D/ ^F A/ c A |"Gm" G"D7" A/B/-"Gm" B2 |"C7" C/ E G/ B"C7b9" B | %28
+w: |If you have an- y-|thing in mind *|Warn you be- fore you|
+w: ||||
+"F" A/ F F/ z/ F/"A7" z/ F/ |"D7" D/ ^F A/ c A |"Gm" G"D7" A/B/-"Gm" B2 |"C7" G A/B/- B/G/ E | %32
+w: start * * * *|There is a fi- re|down be- low *|Down be- low * in my|
+w: ||||
+"F" F C F A | d/d/d/d/- d/d/ c |"C7" d d z/ C/C/C/ | d/d/d/d/- d/d/ c |"F" d z/ C/ C/C/C/C/ | %37
+w: heart * * *|Now that you're get * ting my|num- ber * * *|Know what I'm talk- * ing a-|bout * * * * *|
+w: |||||
+ d/d/d/d/- d/d/ c |"C7" d d z c | G A/B/- B/G/ E |"F" F z C F!D.S.! || %41
+w: Pile on the coal * and the|lum- ber Don't|let the fi- * re go|out! I'll Ad|
+w: ||||
+O"Gm7""^CODA" G"D7" A/B/-"Gm" B2 |"Bbm6" G A/B/- B2 |"C7" G A/B/- B/G/ E |"F" F F/F/ F/ z/ z |] %45
+w: Down be- low *|Down be- low *|down be- low * in my|heart. * * *|
+w: ||||
+

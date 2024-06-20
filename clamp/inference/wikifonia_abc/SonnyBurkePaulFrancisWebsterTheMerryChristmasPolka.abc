@@ -1,0 +1,35 @@
+X:1
+T:The Merry Christmas Polka
+T:The Merry Christmas Polka
+C:Sonny Burke
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z/ B,/ E F |:"Ebmaj7" G3 z/ G/ |"Fm7" ^F G"Bb7b9" A3/2 G/ |"Ebmaj7" G/ E3/2"Gm7" z2 | %4
+w: Come on and|dance the|Mer- ry Christ- mas|pol- ka.|
+w: |dance the|Mer- ry Christ- mas|pol- ka.|
+"Bb7" z z/ F/"Eb7" G B |"Abmaj7" c3 c |"Adim7" e d2 c |"Gm7" B4- |"C7b9" B z/ G/ A B | %9
+w: Let ev- 'ry|one be|hap- py and|gay.|_ Oh. it's the|
+w: Let ev- 'ry|lad- y|step with her|beau|_ a- round the|
+"Fm7" c2 c3/2 c/ |"Bb7" F G2 A |"Gm7" B z/ B/ B B |"Cm7" E F2 G |"Fm7" A A2 A |"C+7" c B A G | %15
+w: time to be|jol- ly and|deck the halls with|hol- ly, so|let's have a|jol- ly hol- i-|
+w: tree to the|ceil- ing, with|lots of time for|steal- ing those|kiss- es be-|neath the mis- tle-|
+"Fm7" F4- |"Bb7" F z/ B,/ E F ||"Ebm7" G3 z/ G/ |"Fm7" ^F G"Bb7b9" A3/2 G/ | %19
+w: day!|_ Come on and|dance the|Mer- ry Christ- mas|
+w: toe!|_ Come on and|dance the|Mer- ry Christ- mas|
+"Ebmaj7" G/ E3/2"Gm7" z2 |"Bb7" z z/ F/"Eb7/Bb" G B |"Am7" c2 c2 |"D9" =B c d c |"Gmaj7" =B4 | %24
+w: pol- ka.|An- oth- er|joy- ous|sea- son has be-|gun.|
+w: pol- ka,|with ev- 'ry|bod- y|join- ing in the|fun.|
+"C7b9" z z/ G/ ^F G |"Fm7" c2 c- c |"Bb7" F G2 A |"G7#9" B B2 B |"Cm7" E F2 G |"Fm7" d c B A | %30
+w: Roll out the|yule- tide *|bar- rels and|sing out the|car- ols, a|Mer- ry Christ- mas|
+w: Roll out the|barr- els that|cheer you and|shout 'til they|hear you, a|Mer- ry Christ- mas|
+"Bb7" G2 F2 |1"Eb6" E4- |"Fm7" E z/ B,/"Bb7" E F :|2"Dbmaj7""D7b9" E4- |"Eb6" E z z2 |] %35
+w: ev- 'ry|one!||||
+w: ev- 'ry|one!|_ Come on and|one.|_|
+

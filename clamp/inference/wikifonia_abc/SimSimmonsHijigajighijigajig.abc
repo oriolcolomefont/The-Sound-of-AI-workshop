@@ -1,0 +1,34 @@
+X:1
+T:Hi-jig-a-jig  hi-jig-a-jig
+T:Hi jig-a-jig, hi-jig-a-jig
+T:(follow the band)
+T:Sim Simmons
+C:Sim Simmons
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^Verse:" z z d |]"G" B B B | G G G |"C" C E E |"Am7" C E E |"D7" D F A | c B A |"G" B3- | %8
+w: My|old mans a|croon- er a|croon- er a|croon- er he|sings on the|air ten- der-|ly|
+w: My|old mans a|plum- ber a|plum- ber a|plum- ber with|whis- kers and|nice ro- sy|cheeks|
+w: My|old mans a|doc- tor a|doc- tor a|doc- tor he|push- es out|pills by the|peck|
+w: My|old mans a|coal- man a|coal- man a|coal- man he's|made e- nough|dough to re-|tire|
+ B2"D7" d |"G" B B B | G G G |"C" C E E |"Am7" C E E |"D7" D F A | c B A |"G" G3- | G"D7" d c |: %17
+w: * and|when he comes|home in the|ev- ning the|ev- ning he|starts in to|ser- en- ade|me|* sing- ing|
+w: * and|when he comes|home in the|ev- ning the|ev- ning I|give him a|plate- ful of|leaks.||
+w: * and|when he comes|home in the|ev- ning the|ev- ning he|gives me a|pain in the|neck.||
+w: * I|wish he'd come|home in the|ev- ning the|ev- ning and|bring me a|lump for the|fire.||
+"G" B B/B/ B | G G/G/ G |"C" C E E |"Am" E3 |"D7" D F A | c B A |"G" B3- | B"D7" d c | %25
+w: Hi- jig- a- jig|hi- jig- a- jig|fol- low the|band|fol- low the|band all the|way|* sing- ing|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"G" B B/B/ B | G G/G/ G |"C" C E E | E3 |"D7" D F A | c B A |"G" G3 | z"D7" d c :|"G" G3- | G2 z |] %35
+w: hi- jig- a- jig|hi- jig- a- jig|fol- low the|band|fol- low the|band all the|way|sing- ing|way||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+

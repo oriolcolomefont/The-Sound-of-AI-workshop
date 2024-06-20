@@ -1,0 +1,36 @@
+X:1
+T:Auld Lang Syne
+T:Auld Lang Syne
+T:Traditional (Thought By Some After William Shield, Master of the King's Music)
+T:Robert Burns
+C:Traditional (Thought by some to be after William Shields, Master of the King's Music)
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z2 z2"C7" C2 |:"F" F3"Gm7" F"F" F2"G9" A2 |"C7" G3"Gm7" F"C7" G2 (AG) |"F" F3"F" F"F7" A2 c2 | %4
+w: Should|auld ac- quain- tance|be for- got and _|nev er brought to|
+w: |twa hae run a-|boot the braes, and _|pu'd the gow- ans|
+w: |there's a hand, my|trust- y fiere and _|gie's a hand o'|
+"Bbmaj7" d6"Gm7" d-d |"F" c3 A"G7" A2 F2 |"C7" G3 F"C7" G2"A7" (AG) |"Gm7" (F3 D)"C7" (D2 C2) | %8
+w: mind? * Should|auld ac- quain- tance|be for- got, and _|Auld _ Lang _|
+w: fine; But we've|wander- 'd mony a|wear- y fitt sin' _|Auld _ Lang _|
+w: thine. And we'll|tak' a right guid-|will- y waught for _|Auld _ Lang _|
+"F""Gm7""F" F6"Bb" d2 ||"F" (c3 A)"G7" (A2 F2) |"C7" G3 F"C7" G2 d2 |"F" (c3 A)"F9" (A2 c2) | %12
+w: Syne? For|Auld _ Lang _|Syne, My dear, for|Auld _ Lang _|
+w: Syne. *||||
+w: Syne *||||
+"Bbmaj7" d6"Gm7" f2 |"F" c3 A"F7" A2 F2 |"C7" G3 F"C7" G2"A7" (AG) |"Gm7" (F3 D)"C7" (D2 C2) |1 %16
+w: Syne, We'll|tak a cup o'|kind- ness yet, for _|Auld _ Lang _|
+w: ||||
+w: ||||
+"F""Gm7""F" F6"C7" C2 :|2 !fermata!F6 z2 |] %18
+w: Syne. 2.We|Syne.|
+w: * 3.And||
+w: ||
+

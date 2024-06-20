@@ -1,0 +1,26 @@
+X:1
+T:Runaway
+T:Runaway
+C:Del Shannon, Max Crook
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"Fm" z F2 G | F G/_A/- A c |"Eb" B G3 | _E F/G/- G B |"Db" _A F2 _E | _D _E/F/- F _A |"C7" G4 | %7
+w: As I|walk a- long _ I|won- der|what went wrong _ with|our love, a|love that was _ so|strange.|
+ z4 |"Fm" z F F G | F G/_A/- A c |"Eb" B G2 F | _E F/G/- G B |"Db" _A F3 | _D _E/F/- F _A | %14
+w: |And as I|still walk on _ I|think of the|things we've done _ to-|geth- er|while our hearts _ were|
+"C7" G4 | z4 ||"F" z c/c/ A G | F G/A/- A z |"Dm" z d/c/ d/c/c/c/ | d c/(A/- A/G/ F) | %20
+w: young.||I'm a- walk- in'|in the rain. _|Tears are fall- in' and I|feel a pain, _ _ _|
+"F" z/ C/A/B/ A G | F G/A/- A z |"Dm" z d c A | d c/A/- A/C/ A |"F" G F3 | a g f e | %26
+w: A- wish- in' you were|here by me _|To end this|mis- er- y. _ And I|won- der,|wo- wo- wo- wo-|
+"Dm" d c/A/- A z | z4 |"F" G F z2 | a g f e |"Dm" d2 c d/c/ | A2 d/(c/ A) |"F" G F3- | F D F A | %34
+w: won- * der _||why, _|why- why- why- why-|why she ran a-|way, And I _|won- der|_ where she will|
+"C7" (c G/A/- A2) | z C D"C7" F |"F" G/F/ F3 |"Bb" F F F F |1"F" G/F/ F3 |"C7" z4 :|2"F" G/F/ F3- | %41
+w: stay, _ _ _|My lit- tle|Run- a- way,|run- run- run- run-|Run- a- way.||Run- a- way.|
+ F3 z |] %42
+w: _|
+

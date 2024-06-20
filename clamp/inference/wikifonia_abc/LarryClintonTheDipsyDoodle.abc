@@ -1,0 +1,39 @@
+X:1
+T:The Dipsy Doodle
+T:The Dipsy Doodle
+C:Larry Clinton
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bb" z3/2 B<"A"AA/"Bb" B"A" A2 A |"Bb" B>B"A"AB-"Bb" B4 |"Bb" z3/2 B<"A"AA/"Bb" B"A" A2 A | %3
+w: The Dip- sy Doo- dle is|thing to be- ware. _|The Dip- sy Doo- dle will|
+w: The Dip- sy Doo- dle is|eas- y to find. _|It's al- most al- ways in|
+"Bb" B>B"A"AB-"Bb" B4 |"Eb" z3/2 B<"D7"AA/"Eb" B"D" A2 A |"Eb" B>B"D"AB-"Eb" B4 | %6
+w: get in your hair. _|And if it gets you it|could- n't be worse _|
+w: back of your mind. _|You nev- er know it un-|til it's too late. _|
+"Bb" z3/2 B<"A"AA/"Bb" B"A" A2 A |"Bb" B>B"A"AB-"Bb" B"F7" F2 F |"Bb" B2 B2- B d2- d | B2 B2 G F3 | %10
+w: the things you say will come|out in re- verse _ like You|love I _ and _|me love you. _|
+w: And then you're in such a|ter- ri- ble state, _ like the|moon jumped o- ver the|cow hey did- dle|
+"C7" z B2 A G>AB>c |"F7" d F2 B-"Bb" B4 :|"Fm7" c2 c2"Bb7" B>B B2 |"Eb" G G3- G2 B>=B | %14
+w: That's the way the Dip- sy|doo- dle works! _|||
+w: That's the way the Dip- sy|Doo- dle works! _|Then you think that you're|cra- zy _ You're the|
+"Fm7" c>cc>c"Bb" B2 B2 |"Eb" G B3- B2 c>^c |"Gm7" d2 d2"C7" c2 c2 |"F" A c3- c2 c>d | %18
+w: vic- tim of the Dip- sy|Doo- dle. _ But it's|not your mind that's|ha- zy _ It's your|
+w: ||||
+ f2 c>d"Eb" e2 B>c |"F7" d c3- c4 |"Bb" z3/2 B<"A"AA/"Bb" B"A" A2 A |"Bb" B>B"A"AB-"Bb" B4 | %22
+w: tongue that's at fault not your|noo- dle. _|You'd bet- ter lis- ten and|try to be good. _|
+w: ||||
+ z3/2 B<"A"AA/"Bb" B"A" A2 A |"Bb" B>B"A"AB-"Bb" B4 | z3/2 B<"A"AA/"Bb" B"A" A2 A | %25
+w: And try to do all the|things that you should _|The dip- sy Doo- dle will|
+w: |||
+"Bb" B>B"A"AB-"Bb" B4 |"Bb" z3/2 B<"A"AA/"Bb" B"A" A2 A |"Bb" B>B"A"AB-"Bb" B"F7" F3 | %28
+w: get you some day. _|You'll think you're cra- zy the|things that you'll say _ like|
+w: |||
+"Bb" B2 B2 B2 d2 | B2 B2 G F3 |"C7" z B2 A G>AB>c |"F7" d F2 B-"Bb" B4 |] %32
+w: Rhy- thm got I|and hot am I|That's the way the Dip- sy|Doo- dle works! _|
+w: ||||
+

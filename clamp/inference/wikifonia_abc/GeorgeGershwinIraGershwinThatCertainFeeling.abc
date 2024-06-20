@@ -1,0 +1,45 @@
+X:1
+T:That Certain Feeling
+T:That Certain Feeling
+T:George Gershwin
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb6" B B"Bb7" B A |"Eb6" B4 | B B"Bb7" B A |"Eb6""Eb7" B4 |"Abmaj7" c c c B |"Fm7" c c"Bb9" c B | %6
+w: He:~Knew it from the|start,|Love would play a|part.|Felt that feel- ing|come a- steal- ing|
+w: ||||||
+"Eb6" d e B G |"Fm7""Bb7" A4 |"Eb6" B B"Bb7" B A |"Eb6" B3 B |"Ab9" B B B A | B3 B | %12
+w: In my lone- some|heart.|She:~It would be i-|deal, if|that's the way you|feel, But|
+w: ||||||
+"Bb/F" f2"Gm7" B c/d/ |"Cm7" e2"F13" d2 | %14
+w: tell me, is it|real- ly|
+w: ||
+"Bb6" B"Eb6" !fermata!G"Bb7/F" !fermata!A"Gdim7" !fermata!B |:"Fm6" z c c c |"Edim7" c B3 | %17
+w: real? (He:)~You gave me|That cer- tain|feel- ing,|
+w: |That cer- tain|feel- ing,|
+"Fm9" z/ G/ G G G |"Bb7" G F3 |"Ebmaj7" z d d d | d"Eb6" c3 |"C+7" z/ A/ A A A | A"C7" G3 | %23
+w: The first time I|met you|I hit the|ceil- ing|I could not for-|get you.|
+w: The first time I|met you.|That cer- tain|feel- ing,|I could not for-|get you.|
+"F9" z G G G |"Fm9" G F"Bb7" A G |"Eb" B B B B- |"Ebm6" B4 |"Bb" z d"Gm" d d |"Bb" d"Gm" B2 d | %29
+w: You were com-|plete- ly sweet, Oh|what could I do?|_|I want- ed|phras- es to|
+w: I felt it|hap- pen just as|you came in view.|_|Grew sort of|diz- zy, Thought,|
+"Bb" d d"Gm" d B- |"Bb""C7""C#dim7" B4 ||"Bb9" z c c c |"Bbdim7" c B3 |"Bb11" z/ G/ G G"Bb13b9" G | %34
+w: sing your prais- es.|_|That cer- tain|feel- ing,|The one that they|
+w: "Gee, Who is he?"|_|That cer- tain|feel- ing,|I'm here to con-|
+"Bb7" G F3 |"Ebmaj7" z d d d | d"Eb6" c3 |"G7" z/ e/ e e e | e d3 |"C9" z =e e e | =e c2 e | %41
+w: all love.|No use con-|ceal- ing|I've got what they|call love.|Now we're to-|geth- er, Let's|
+w: fess, it|Is so ap-|peal- ing,|No words can ex-|press it.|I can- not|hide it, I|
+"F9" _e e e c- | c3 z |"Fm7" c2 B A |"Bb13" z G B c |1"Eb6""Cm" e4- | %46
+w: find out wheth- er|_|You're feel- ing|that feel- ing|too.|
+w: must cin- fide it.|_|I'm feel- ing|that feel- ing||
+"Eb" e/ z/"Eb6" !fermata!G"Bb7" !fermata!A"Gdim" !fermata!B :|2"Eb""Cm" e4- |"Eb" e2- e/ z/ z |] %49
+w: * You gave me|too.|_ _|
+w: |||
+

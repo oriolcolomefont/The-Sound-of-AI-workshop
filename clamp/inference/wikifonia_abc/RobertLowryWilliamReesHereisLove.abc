@@ -1,0 +1,31 @@
+X:1
+T:Here is Love
+T:Here is Love
+T:Robert Lowry
+T:William Rees
+C:Robert Lowry
+Z:Public Domain
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ FG |"F" A3 FGA |"Bb" G F3 FD |"F" C3 FEF |"C" G4 | FG |"F" A3 FGA |"Bb" G F3 FD |"F" C3 F"C"GE | %9
+w: Here is|love, vast as the|o- cean, Lov- ing-|kind- ness as the|flood,|When the|Prince of Life, our|Ran- som, Shed for|us His pre- cious|
+w: On the|mount of cru- ci-|fix- ion, Foun- tains|o- pened deep and|wide;|Through the|flood- gates of God's|mer- cy Flowed a|vast and gra- cious|
+w: Let me,|all Thy love ac-|cept- ing, Love Thee,|ev- er all my|days;|Let me|seek Thy king- dom|on- ly, And my|life be to Thy|
+w: In Thy|truth Thou dost di-|rect me By Thy|Spir- it through Thy|Word;|And Thy|grace my need is|meet- ing As I|trust in Thee, my|
+"F" F4 | AB |"F" c3 ABA |"C" A G3 GA |"Gm" B3 G"C7"AB |"F" A4 | AG |"Dm" F3 GFE |"Bb" D F3 FG | %18
+w: blood.|Who His|love will not re-|mem- ber? Who can|cease to sing His|praise?|He can|nev- er be for-|got- ten, Through- out|
+w: tide.|Grace and|love, like might- y|riv- ers, Poured in-|ces- sant from a-|bove,|And heav'n's|peace and per- fect|jus- tice Kissed a|
+w: praise;|Thou a-|lone shalt be my|glo- ry, Noth- ing|in the world I|see;|Thou hast|cleansed and sanc- ti-|fied me, Thou Thy-|
+w: Lord.|Of Thy|full- ness Thou art|pour- ing Thy great|love and pow'r on|me,|With- out|meas- ure, full and|bound- less, Draw- ing|
+"F" A3 F"C"GE |"F" F4 |] %20
+w: heav'n's e- ter- nal|days.|
+w: guilt- y world in|love.|
+w: self hast set me|free.|
+w: out my heart to|Thee.|
+

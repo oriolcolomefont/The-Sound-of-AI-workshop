@@ -1,0 +1,33 @@
+X:1
+T:One by One
+T:One by one
+T:Jack Anglin/Johnnie Wright/Jim Anglin
+C:Jack Anglin, Johnnie Wright, Jim Anglin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^Verse" C |:"F" C3 C |"Bb" D F/-F/ G F |"F" A4- | A2- A c | c- c- c A | F C B A |"C7" G4- | %8
+w: My|plans and|hope have * tum- bled|down|* * my|cas * tle of|dreams plunged to the|ground|
+w: (how)|can you|go to * sleep at|night|* dont old|mem'ries * make you|long * for day-|light|
+w: (the)|love I|treas- ured you sold for|gold|* * for|world * * ly|goods you left me|cold|
+ G3 C |"F" C3 C |"Bb" D/-D/F/F/ G/-G/ F |"F" A4- | A2- A c | c- c2 c |"C7" A C E G |"F" F4- | %16
+w: * how|can you|face me af- ter what * you've|done|* * you|shat- tered my|dreams * one by|one|
+w: * you'll|pay the|price * af- ter hav- in your|fun|* You'll re-|gret each mis-|take * one by|one|
+w: * you're|hap- py|now * but the time * will|come|* your false|loves * will|leave you one by|one|
+"^Chorus" F2 z2 || z2"C7" C C |"F" C3 C |"Bb" D F G F |"F" A4- | A2 A c | c3 c | A D/F/ B A | %24
+w: |One by|one you|broke each vow you|made|* it was|you who|lied it was me that|
+w: ||||||||
+w: ||||||||
+"C7" G4- | G3 C |"F" C3 C/C/ |"Bb" D/ F F/ G F |"F" A4- | A3 c | c3 c/c/ |"C7" A C E"^2" G |1 %32
+w: paid|* as|sure's there's a|heav- en be- yond the|sun|* You'll|pay for your|lies * one by|
+w: ||||||||
+w: ||||||||
+"F" F4- || F3"C7" C :|3"F" F4- || F3 z |] %36
+w: one|(2) how|one||
+w: |(3) the|||
+w: ||||
+

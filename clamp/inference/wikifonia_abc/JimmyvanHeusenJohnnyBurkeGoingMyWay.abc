@@ -1,0 +1,28 @@
+X:1
+T:Going My Way
+T:Going My Way
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" A c B G |"C#dim" =E"Eb" G"Bb" F2- |"F7" F2 C"F+" F |"Bb" D G3 |"Eb" A c B G | %5
+w: This road leads to|Rain- bow- ville.|_ Go- ing|my way?|Up a- head is|
+"C#dim" =E"Eb" G"Bb" F2- |"F7" F2 C"F+" F |"Bb" D G3 |"Eb" z G"C7" c B |"F" A"F7" F"D7" d c | %10
+w: Blue- bird Hill.|_ Go- ing|my way?|Just park a|bas- ket full of|
+"Gm" B2"D+" B2- |"Gm7" B G"C7" c B |"F""Am" A3"F#dim" A |"Gm7" B F"C9" A =E |"Cm7" G2"Bdim" D2 | %15
+w: wish- es|_ And off you|start with|Sun- day morn- ing|in your|
+"Cm7""Fm7""F7" F4 |"Eb" A c B G |"C#dim" =E"Eb" G"Bb" F2- |"F7" F2 C"F+" F |"Bb" D G3 | %20
+w: heart.|'Round the bend you'll|see a sign,|_ "Dream- ers|High- way."|
+"Eb" A c B G |"C#dim" =E"Eb" G"Bb" F2- |"Bb9" F2 F"Bb+" B |"Eb" G c3 | z G"C7" c B | %25
+w: Hap- pi- ness is|down the line.|_ Go- ing|my way?|The smiles you'll|
+"F" A"F7" F"D7" d c |"Gm" B2"Gm7" D2 |"Edim" G4 | =E G"Bb" F B |"Bdim" D F"Cm" E"F9" c |1 %30
+w: gath- er will look|well on|you.|Oh, I hope you're|go- ing my way|
+"Bb""Cm""F9" B4- |"Bb" B z"F7b5""F7" z2 :|2"Bb""Ebm" B4- |"Bb" B4 |] %34
+w: too.|_|too.|_|
+

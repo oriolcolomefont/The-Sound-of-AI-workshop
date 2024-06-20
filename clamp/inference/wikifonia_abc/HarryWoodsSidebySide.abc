@@ -1,0 +1,29 @@
+X:1
+T:Side by Side
+T:SIDE BY SIDE
+T:HARRY WOODS
+T:Words and Music by
+C:Harry Woods
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ E>F |:"Eb" G2 G>A G>^F G2 |"Ab/Eb" A4"Eb" G4 | B2 B>c B>=A B2 |"Ab/Eb" c4"Eb" B2 B>=B | %5
+w: Oh! we|ain't got a bar- rel of|mon- ey,|May- be we're rug- ged and|fun- ny, But we'll|
+w: |Don't know what's com- in" to-|mor- row|May- be it's trou- ble and|sor- row, But well|
+"Ab" c>=Bce-"Adim7" e4 |"Eb" GA=AB-"C7" B4 |"F7" E4"Bb7" F4 |"Eb" E8 :|"G7" G2 e2 e2 e2 | e2 d6 | %11
+w: tra- vel a- long _|Sing- in' a song _|Side By|Side.|Thru all kinds of|wea- ther|
+w: tra- vel the road _|Sha- rin' our load _|Side By|Side.|||
+"C7" d d2 d d2 G2 | c4- c z c>^c |"F7" d3 ^c d3 c | d2 c4 F2 |"Bb7" c2 c2"Bbdim" c>B c2 | %16
+w: What if the sky should|fall _ Just as|long as we're to-|ge- ther, It|does- n't mat- ter at|
+w: |||||
+"Bb7" B4- B z E>F |"Eb" G2 G>A G>^F G2 |"Ab/Eb" A4"Eb" G4 | B2 B>c B>=A B2 |"Ab/Eb" c4"Eb" B2 B2 | %21
+w: all _ When they've|all had their quar- rels and|part- ed|We'll be the same as we|star- ed Just|
+w: |||||
+"Ab" c>=B ce-"Adim7" e4 |"Eb" GA=AB-"C7" B4 |"F7" e4"Bb7" f4 |1"Eb" e4- e z E>F :|2"Eb" e4 z4 |] %26
+w: trav- lin' a- long _|Sing- in' a song _|Side by|Side. _ Oh! we|Side.|
+w: |||||
+

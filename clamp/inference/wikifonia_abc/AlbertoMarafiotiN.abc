@@ -1,0 +1,41 @@
+X:1
+T:N.5 ( ANDANTE 8/3/96 )
+C:ALBERTO MARAFIOTI
+Z:All Rights Reserved
+%%score { ( 1 3 ) | ( 2 4 ) }
+L:1/4
+Q:1/4=120
+M:3/4
+K:F#
+V:1 treble nm="Piano"
+%%MIDI program 0
+L:1/8
+V:3 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:2 bass 
+%%MIDI channel 1
+%%MIDI program 0
+V:4 bass 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+"^p sonoro" z4 M[FA]2 | (G>A B>c) MA2 | (G>A B>c) MA2 | (G>A B>A) MG2 | (F>G A>G) MF2 | %5
+ (E>F G>A) MF2 | (E>F G>A) G2- | G4 vF2 | %8
+[M:4/4][K:bass] [G,,G,]2 ([F,A,]>[E,G,]) [F,A,]>[F,^B,] ([F,B,]2 |[M:3/4][K:treble]"^1" c4) (B2 :| %10
+[K:bass]"^2" C4) B,C | B,4 CB, | A,6- |] %13
+V:2
+ z2!8vb(! ([F,,,F,,]!8vb)! | [F,B,C] [F,A,C])!8vb(! ([E,,,E,,]!8vb)! | %2
+ [E,A,C] [E,G,C])!8vb(! ([=E,,,=E,,]!8vb)! | [=E,A,C] [E,G,C])!8vb(! ([D,,,D,,]!8vb)! | %4
+ [D,G,B,] [D,F,B,])!8vb(! ([=D,,,=D,,]!8vb)! | [=D,G,B,] [D,F,B,])!8vb(! ([C,,,C,,]!8vb)! | %6
+ [C,G,B,] [C,F,B,])!8vb(! [C,,,C,,]/>([F,,,F,,]/!8vb)! | [G,B,]2 [F,A,]) | %8
+[M:4/4]!8vb(! ([G,,,G,,] [F,,,F,,] [D,,,D,,] [C,,,C,,]- |[M:3/4] [C,,,C,,]- [C,,,C,,]2)!8vb)! :| %10
+!8vb(! [C,,,C,,]3 | [F,,,F,,]3- | [F,,,F,,]3-!8vb)! |] %13
+V:3
+ x3 | F F E | E E =E | =E E D | D D =D | =D D C | C C C- | C3 |[M:4/4][K:bass] x4 | %9
+[M:3/4][K:treble] C2 (3B,/C/G/ :|[K:bass] E,3 | F,3- | F,3- |] %13
+V:4
+ x2!8vb(! x!8vb)! | x2!8vb(! x!8vb)! | x2!8vb(! x!8vb)! | x2!8vb(! x!8vb)! | x2!8vb(! x!8vb)! | %5
+ x2!8vb(! x!8vb)! | x2!8vb(! x!8vb)! | C,3 |[M:4/4]!8vb(! x4 |[M:3/4] x3!8vb)! :|!8vb(! x3 | x3 | %12
+ x3!8vb)! |] %13
+

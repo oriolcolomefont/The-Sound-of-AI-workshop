@@ -1,0 +1,33 @@
+X:1
+T:I'll Paint You A Song
+T:I'll Paint You A Song
+C:Mac Davis
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z FEF |:"Gm/F" GA D6- | D2 z G GFFG |"Fmaj7" A2 cc- c4- | c4"F" z FEF |"Gm" GA G6- | %6
+w: I'm just a|coun- try boy,|_ there's lit- tle I can|of- fer you. _|_ Just ryhmes and|mel- o- dies.|
+w: |side your eyes,|_ _ _ and find a|lit- tle girl _|_ whose dreams have|turned to sand.|
+"Bbm" G2 z2 z FF_D |"F" CA- A6 | A2 z2 z FEF |"Gm" G3 A D4- | D4 z GFG |"Fmaj7" A2 cc- c4- | %12
+w: _ are all I|have to give.|_ But I've made|friends with life|* and I can|com- fort you, _|
+w: _ some- where a-|long her way.|_ But if you'll|close your eyes|_ and step in-|side my world, _|
+ c4"F" z FEF |"Gm" G2 AG- G4- |"Bbm" G2 z2 z FF_D |"F" CA A6- | A2 z A (3A2 B2 c2 |"Gm" A2 G6- | %18
+w: _ If you'll just|come with me, _|_ I'l show you|how to live.|_ I'll sing you a|morn- ing|
+w: _ I'll take you|by the hand, _|_ We'll find a|brand new day|_ I'll sing you a|mead- ow|
+"C7" G2 z F (3E2 F2 G2 |"F" c2"Fmaj7" A6- |"F6" A2 z A"F" (3A2 B2 c2 |"Gm" A2 GG- G2 GA | %22
+w: _ with laugh- * ing|blue birds.|* I'll sing you a|fair- y- tale _ full of|
+w: _ with marsh- * mal-|low skies.|_ I'll sing your a|pu- py dog _ with a|
+"C7" B B2 B (3B2 c2 d2 |"F""Fmaj7" c8- ||"F6" c2 z A"F" (3A2 B2 c2 |"Bb" d2 d6- | %26
+w: rib- bons and crepe pa- per|words.|* I'll sing you a|rain- bow|
+w: pink tongue and big lov- ing|eyes.|* I'll sing you a|sun- set|
+ d2 de (3f2 e2 d2 |"F""Fmaj7" c8- |"F6" c2 z"F" A (3A2 B2 A2 |"Gm" A2 G6- |"C7" G2 z G (3G2 F2 E2 | %31
+w: _ you can keep for your|own.|* I'll sing you a|morn- ing,|_ I'll pain you a|
+w: _ _ that glows all night|long.|* I'll sing you a|mea- dow,|_ I'l paint you a|
+"F" F8 |1 z4 z FEF :|2 z4"C7" GGAB |"F" c8- | c z z2 z4 |] %36
+w: song.|I look in-||||
+w: song!||won't you come a-|long.||
+

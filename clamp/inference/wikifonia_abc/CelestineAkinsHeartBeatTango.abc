@@ -1,0 +1,30 @@
+X:1
+T:Heart Beat Tango
+T:Heart Beat Tango
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/8
+Q:1/4=95
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ E2 G c2"C" e3- |"C" e d2 c c2"G" =B2- |"G" B2 z D2 F =B2 |"C" c4 =B2 _B"A"A- |"A" A4 z _A=AB | %5
+w: Let our hearts beat|_ to the tan go|_ Lets pre tend|we're back a gain|_ Let our mem|
+"A" AB A4 _A=A | ed e"C" d4 z | e"F" f2 f2 e d2 | =B"F" A4 z E2 | G c2"C" e4 d- |"C" dc c2"G" =B4 | %11
+w: or ies go back to|mem or y lane|and lets be sweet hearts|a gain Lets|re mem ber all|_ our vows dear|
+ z D2 F =B2"C" c2- |"C" c2 =B2 _B"A" A3- | AzA_A =A e2"C" d- |"C" d2- d2 f2 ed- |"C" d c4 z =BA | %16
+w: Let our lips meet|_ once a gain|_ So if you loved _|me _ long a go|_ dear Lets pre|
+ A2 G2"F" d e2 G | c4 z2 E2 | G c2"C" e4 d- |"C" dc c2"G" =B4 | D2 F =B2"C" c3- | %21
+w: tend we're sweet hearts a|gain Lets|pre tend we nev|_ er part ed|As we did so|
+"C" c =B2 _B"A" A4 | z"A" A_A=A e2"C" d2- |"C" d2 f2 e d2"C" c- |"C" c3 z =B2 A"C"A- | %25
+w: _ long a go|So let our hearts beat|_ to the tang o|_ As we do|
+"C" A G2"F" d e2 G"C"c- |"C" c3 z z z z z |] %27
+w: _ the tang o to night|_|
+

@@ -1,0 +1,32 @@
+X:1
+T:Things Ain't What They Used To Be
+T:Things Aint What They Used To Be
+C:Mercer Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb7" (3z B,E (3GBc B2 cE- | E3 G- G2 z2 | (3z B,E (3GBc B2 cE- | E3 G- G2 z2 | %4
+w: Got so wear- y of be- in' noth-|* in', _|felt so drear- y just do- in' noth-|* in', _|
+w: No use be- in' a doubt- in' Thom-|* as, _|no ig- nor- in' that ros- y prom-|* ise, _|
+"Ab7" (3z EA (3cef e2 fA- | A3"Abm7" _c z cBG- |"Eb7" (3GB,E (3GBc B2 cE- | E3 G z2 z B | %8
+w: did- 'nt care ev- er get- tin' noth-|* in', felt so low.|_ Now my eyes on the far ho ri-|* zon can|
+w: now I know there's a hap- py sto-|* ry yet to come.|_ It's the dawn of the day of glor-|* y: mil-|
+"Fm7" (3e_dB- B4 z B | (3e_dB (3edB d2"Bb7" =de-!dacoda! |"Eb7" e8- |"Fm7" e4"^bB7" z B,CE | %12
+w: see a glow _ an-|noun- cin' Things ain't what they used to be.|_|* Look at that|
+w: len- ni- um. _ I|tell you things ain't what they used to be.|_||
+"Eb7" =AB- B6 | =ABAB G2 (3B,CE | =AB- B6 | =ABAB G2 EB, |"Ab7" =AB- B6 | =ABAB G2 EB, | %18
+w: ar- my _|fight- in' to be free. It does- n't|bar me! _|Shows me how to go with my|head up; _|eyes ain't look- in' low. Don't feel|
+w: ||||||
+"Eb7" =AB- B6 | =ABAB G2 z B |"Fm7" (3e_dB- B4 z B | (3e_dB (3edB"Bb7" d2 =de- |"Eb7" e8- | %23
+w: fed up, _|that's how come I see a|vic- tor- y; _ be-|lieve me things ain't what they used to be.|_|
+w: |||||
+"Fm7" e4"Bb7" z4!D.C.! ||O"Eb7" e8- | e4 z4 |] %26
+w: |||
+w: |||
+

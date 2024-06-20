@@ -1,0 +1,21 @@
+X:1
+T:Jaj, de szép kék szeme van magának
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=90
+M:2/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" C2 DE | G2 ^FG |"Fm" cc F2 | A2 z2 |"Cm" G2 DE |"Fm" FE DF |"Cm" GF E2 |"G" D2 z2 | %8
+w: Jaj, de szép|kék sze- me|van ma- gá-|nak,|Nincs i- lyen|a vi- lá- gon|sen- ki más-|nak.|
+"Cm" C2 DE | G2 ^FG |"Fm" cc F2 | A2 z2 |"Cm" G2 =AB | cB =Ac |"G" dB =A2 | G2 z2 |"Cm" e2 dc | %17
+w: A szí- vem|úgy do- bog|mi- kor lá-|tom,|Meg- ha- lok|egy csók- já- ért,|gyöngy- vi- rá-|gom!|Nap- pal is|
+"G" d2 cB |"Cm" cd c2 |"G" G2 z2 |"G" ^F2 G=A | DD dc |"Cm" =Bc e2 |"G" d2 z2 |"Cm" C2 DE | %25
+w: ál- mod- om|mo- so- lyá-|val,|Éj- jel meg|azt hú- za- tom|a ci- gány-|nyal,|Jaj, de szép|
+ G2 ^FG |"Fm" cc F2 | A2 z2 |"Cm" G2 DE |"Fm" FE DF |"G" GE D2 |"Cm" C2 z2 |] %32
+w: kék sze- me|van ma- gá-|nak,|Nincs i- lyen|a vi- lá- gon|sen- ki más-|nak.|
+

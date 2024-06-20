@@ -1,0 +1,28 @@
+X:1
+T:Put Your Dreams Away
+T:Put You Dreams Awauy
+C:Stephan Weiss and Paul Mann
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" G3 c"Eb7" BG |"Ab" FE"Abm" F2 G2 |"Eb6" E4"Gbdim" c2 |"Fm7""Bb7" B6 |"Eb" G3 c"Eb7" BG | %5
+w: Dreams are made of|mem- o- ries, some|old, some|new.|They are love- ly|
+"Ab" FE"G7" F2 G2 |"Cm" E2"Cm7" G2"F9" d2 |"Bb7sus4" !fermata!B4"Bb7" B=B |:"Fm7" c4 _B2 | %9
+w: mem- o- ries, but|do they come|true? Put your|dreams a-|
+"Bb7" G4 FG |"Ebmaj7" DF C4- |"C7" C4 B,2 |"Fm7" C3 E AB |"Bb7" G2 ^F2 c2 |"Gm7" G6- |"C7" G4 B=B | %16
+w: way for an-|oth- er day|_ and|I will take their|place in your|heart.|_ Wish- ing|
+"Fm7" c4 _B2 |"Bb7" G4 FG |"Ebmaj7" DF C4- |"Am7b5" C4"D7" ^C2 |"Gmaj7" D3 =E Gc | %21
+w: on a|star nev- er|got you far|_ and|so it's time to|
+"Am7" =B2 =A2"D7" B2 |"Gmaj7" d6- | d6 |"Fm7" e3 d cB |"Bb7" A4 Bc |"Gm7b5" B6 |"C7" G6 | %28
+w: make a new|start.|_|When your dreams at|night fade be-|fore|you,|
+"Abm7" _c3 B AG |"Db7" F4 EF |"Fm7" G6 |"Bb7" F4 B=B |"Fm7" c4 _B2 |"Bb7" G4 FG |"Gm7b5" DF _D4 | %35
+w: then I'll have the|right to a-|dore|you. Let your|kiss con-|fess this is|hap- pi- ness,|
+"C+7" C2 A2 z G |"Fm7" c2 B2 C2 |"Bb7" G4 B,2 |1"Eb6" E6 |"Fm7" z2"Bb9" z2 B=B :|2"Eb6""Ab" E6- | %41
+w: dar- ling, and|put all your|dreams a-|way.|Put your|way.|
+"Eb" !fermata!E4 z2 |] %42
+w: _|
+

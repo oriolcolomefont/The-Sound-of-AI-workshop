@@ -1,0 +1,22 @@
+X:1
+T:Dream (When You're Feeling Blue)
+C:Johnny Mercer
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble transpose=-12 nm="Guitar"
+%%MIDI program 25
+V:1
+"Bb" B4- | B c/B/"Bbmaj7" c B |"A7" A4- | A4 |"Bb" G4- |"Dm7" G A/G/"G9" A G |"G7" F4- | F4 | %8
+w: Dream|* when you're feel- ing|blue||Dream|* that's the thing to|do-||
+"Eb" E4- | E F/E/"Ebm" F E |"Bb" D F"A7" G"Dm7" A- |"G7" A4 |"C7" =E G A B- |"Gm7" B3 A | %14
+w: Just|* watch the smoke rings|rise in the air||You'll find your share|* of|
+"Cm7" G A B c- |"F7" c2"Gbdim7" d2 |"Bb" B4- | B c/B/"Bbmaj7" c B |"A7" A4- | A4 |"Bb" G4- | %21
+w: mem- or- ies there|* So|dream|* when the day is|thru||Dream|
+"Dm7" G A/G/"G9" A G |"G7" F4- | F4 |"Eb" E4- | E F/E/"Ebm" F E |"Bb" D F"A7" G"D7" A- | %27
+w: * and they might come|true||Things|* nev- er are as|bad as they seem-|
+ A2"Gm7" B2 |"Cm7" c4 |"F7b9" d4 |"Bb" B4- | B3 z |] %32
+w: * So|Dream|Dream|Dream-|.|
+

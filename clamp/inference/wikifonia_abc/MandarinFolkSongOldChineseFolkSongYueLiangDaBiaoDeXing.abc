@@ -1,0 +1,33 @@
+X:1
+T:Yue Liang Da Biao De Xing
+T:Yue Liang Dai Biao De Xing
+T:Mandarin Folk Song
+T:Arranged by Peter L 2008
+T:Bank:________ Tempo= Voice________
+C:Mandarin Folk Song
+Z:Creative Commons BY
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ EF |"C" G3 (3AED"Am" C3 | FG"Dm" A3 c BA |"G" G6 G,2 |:"C" C3 E G3 C |"Em" B,3 E G2 G2 | %6
+w: |||* Ni|wen wo ai ni|you duo shen wo|
+"F" A3 B c2 A2 |"C" G6 ED |"Am" C3 C C2 ED |"F" C3 C C2 DE |"Dm" D3 C A,2 E2 |"G" D6 G,2 | %12
+w: ai ni you ji|fen wo de|qing ye zhen wo de|ai ye shen yue liang|dai biao wo de|xing ni|
+"C" C3 E G3 C |"Em" B,3 E G2 G2 |"Dm" A3 B c2 A2 |"G" G6 ED |"C" C3 C C2 ED |"Am" C3 C C2 DE | %18
+w: wen wo ai ni|you duo shen wo|ai ni you ji|fen wo de|xing bu ye wo de|ai bu bian yue liang|
+"F" D3 A,"G" B,2 CD |"C" C6 G2 |"^Pickup 2nd verse" E3 D C2 G2 |"Em" B,6 A,B, |"F" A,3 B, A,2 G,2 | %23
+w: dai biao wo de *|xin qing|qing de yi ge|wen yi jing|da dong wo de|
+"C" E6 G2 | E3 D C2 G2 |"Em" B,6 A,B, |"Am" C3 C C2 DE |"G" D6 G,2 |"C" C3 E G3 C | %29
+w: xin shen|shen de yi duan|qing jiao wo|si nian dao ru *|jin ni|wen wo ai ni|
+"Em" B,3 E G2 G2 |"Am" A3 B"F" c2 A2 |"C" G6 ED |"Am" C3 C C2 ED |"F" C3 C C2 DE | %34
+w: you duo shen wo|ai ni you ji|fen ni qu|xiang yi xiang ni qu|kan yi kan yue liang|
+"G" D3 A, B,2 CD |"C" C6"G" G,2 :| z8 |] %37
+w: dai biao wo de *|xin *||
+

@@ -1,0 +1,56 @@
+X:1
+T:"ART HOUNDS"
+C:Whyte
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" c2 A4 z2 |"C" c2- c>c- c>A- A2 |"G" d2 d6 |"E7" B2 B>c- c>B- BA |"Am" c2 c2 c2 A2 | %5
+w: "ART HOUNDS"|write _ some _ thing _|"ART HOUNDS"|look for noth _ ing _ and|those that do are|
+"C" c2 c2 c2 B2 |"G" d2 d2 d2 c2 |"E7" Bc B4 z2 |:"Am" c3 B- BAzA |"C" Bc G- G4 z | %10
+w: judged by those who|tried and found they|can not do|||
+"G" d3 c- c B2 A |"E7" Bc B- B2 z2 z :|"Am" c2 A2 z2 cc |"C" c2 cc- A4 |"G" d2 d2 d2 c2 | %15
+w: ||"ART HOUNDS" seek the|"Greek" i deal _|Gaze on what they'll|
+"E7" Bc B4 z A |"Am" cccc c-AzA |"C" cccA z4 |"G" dd d2 de d2 |"E7" cB- B4 z2 |"Am" c2 A6 | %21
+w: nev er feel The|pit i less re venge _ of|those with out friends|Pit i less, pit i less|re venge _|"ART HOUNDS"|
+"C" c2 cA- A2 z c |"G" dd z2 dc z2 |"E7" Bc B2 z2 z A |"Am" cccc c2 cc |"C" c2 c2 c2 z2 | %26
+w: nose a round _ They've|seen it some where|writ ten down And|ev' ry thing they've seen on the|mov ing screen|
+"G" d2 d2 dc- c>c |"E7" B4 z2 d2 |"F9" eedc- c d2 d |"G" d2 B2 z2 ee |"C" eedc eedc | %31
+w: Helps them pick up _ the|pace In|Eu ro pe an _ hushed mus|e ums: Will I|see you, will I see you, will I|
+"Am" eedc eezd |"F9" eddc- c2 z d |"G" dB z2 f2 f2 |"E" f2 e6- |"E7" d8 |"C" z2 z2 z2 e2 | %37
+w: see you, will I see you, In|Eu ro pe an _ mus|e ums Will I|SEE YOU|?|My|
+"E" d-B z2 z2 e2 |"Am" ^g4 a4 |"Dm" z2 z2 z2 z2 |"F" z2 z2 a4 |"G" g4 d4 | %42
+w: LIFE _ IS|OP' RA||MY|LIFE IS|
+"E""^619 488 5244" f2 e4- d2- |"E7" d8 |"C" z2 z2 z2 B2 |"E" B-^G z2 z2 e2 |"Am" ^g4 a4 | %47
+w: OP' RA _|_|My|LIFE _ IS|OP' RA|
+"Dm" z2 z2 z2 z2 |"F" z2 z2 a4 |"G" g4 d4 |"E" f2 e4- d2- |"E7" d8 |:"Am" c2 A4 AB | %53
+w: |MY|LIFE IS|OP' RA _|_|ART HOUNDS in a|
+"C6" c2 cA- A2 z c |"G" d2 d2 d2 c2 |"E7" Bc B2 z AAB |"Am" c2 AB cAAB |"C6" c2 A2 cAzc | %58
+w: res tau rant _ they|bring a long their|lov ing Aunt but when they|can't find a ta ble for their|far Aunt Mab el they|
+"G" d2 d2 d2 cB- |"E7" B4 z2 d2 :|"F9" eedc- c d2 d |"G" d2 B2 z2 ee |"C" eedc eedc | %63
+w: stomp their feet and cry|_ (In)|Eu ro pe an _ hushed mus|e ums: Will I|see you, will I see you, will I|
+"Am" eedc eezd |"F9" eddc- c2 z d |"G" dB z2 f2 f2 |"E" f2 e6- |"E7" d8 |"C" z2 z2 z2 e2 | %69
+w: see you, will I see you, In|Eu ro pe an _ mus|e ums Will I|SEE YOU|?|My|
+"E" d-B z2 z2 e2 |"Am" ^g4 a4 |"Dm" z2 z2 z2 z2 |"F" z2 z2 a4 |"G" g4 d4 |"E" f2 e4- d2- |"E7" d8 | %76
+w: LIFE _ IS|OP' RA||MY|LIFE IS|OP' RA _|_|
+"C" z2 z2 z2 B2 |"E" B-^G z2 z2 e2 |"Am" ^g4 a4 |"Dm" z2 z2 z2 z2 |"F" z2 z2 a4 |"G" g4 d4 | %82
+w: My|LIFE _ IS|OP' RA||MY|LIFE IS|
+"E" f2 e4- d2- |"E7" d8 |"Am" c2 A2 z4 |"C" c2 cc- c A3 |"G" dd-de- ed-dc |"E" B2 Bc- cBAB | %88
+w: OP' RA _|_|ART HOUNDS|ver y fun _ ny|we ry _ wit _ ty _ but|ve ry lone _ ly and be|
+"Am" c2 BA- A2 B2 |"C" ccBA- A2 c2 |"G" d2 d2 d2 cB- |"E" B4 z4 | z4 z2 ee |"C" eeze z d c2 | %94
+w: low the belt _ is|shriv eled and small _ It|knows a thou sand walls|_|When you|can not stand the real|
+"E" B2 z2 z2 ee |"Am" eeze z d c2 |"Dm" A2 z2 e2 d2 |"F" c-A z2 z2 ed |"G" ddzd z e f2 |"E" e8- | %100
+w: world When you|can not stand the real|world take my|hand _ When you|can not stand the real|world|
+ d4 c2 d2 |"C" eeze z d c2 |"E" B2 z2 z2 ee |"Am" eeze z d c2 |"Dm" A2 z2 e2 d2 |"F" c-A z2 z2 ed | %106
+w: _ when you|can not stand the real|world When you|can not stand the real|world take my|hand _ When you|
+"G" ddzd z e f2 |"E" e8- |"G" d4 B2 B2 |"C" c2 B2 z2 d2- |"E" d4 c4 |"Am" e2 d2 c2 e2 | %112
+w: can not stand the real|world|_ I take|fif teen pills|_ to|send me to sleep|
+"D" z2 e2 e2 d2 |"F" c-A- A2 z2 d2 |"G" d2 e2 f2 e2- |"E7" e8 |"G" z4 z ccB |"C" cA z2 z ccB | %118
+w: and fif teen|pills _ _ to|shake me a wake|_|What does it|mean ? What does it|
+"E7" cA z2 z ccB |"Am" cA z2 z ccc |"F" ce- e6 |"G" z4 B c2 B |"E" B4 z4 |] %123
+w: mean _ What does it|mean _ What does it|mean ? _|No bod y|knows.|
+

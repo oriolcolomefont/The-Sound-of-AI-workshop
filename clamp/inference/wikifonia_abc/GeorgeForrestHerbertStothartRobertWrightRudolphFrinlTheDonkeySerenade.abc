@@ -1,0 +1,32 @@
+X:1
+T:The Donkey Serenade
+T:The Donkey Serenade
+T:Rudolph Frinl/Herbert Stothart/Robert Wright/George Forrest
+T:Rhumba
+C:George Forrest, Herbert Stothart, Robert Wright, Rudolph Frinl
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"^N.C." E2 F2 |:"Dm" G4 D2 E2 |"G7" G4 D2 E2 |"C" G4 c2 A2 | G2 E2 DCDE |"Dm" G4 D2 E2 |1 %6
+w: There's a|song in the|air but the|fair se- no-|ri- ta does- n't seem to|care for the|
+w: |sing to the|mule If your|sure she wont|think that I am just a|fool ser- e|
+"G7" G4 D2 E2 |"G" C8- | C2 z2 E2 F2 :|2"G7" G4 d2 e2 ||"C" e2 d2 c2- c2- | c6 z2 | z ccc cdGA | %13
+w: song in the|air|* so Ill||||A- mi- go mi- o dos she|
+w: |||na- ding a|mule. * * *|||
+ (3cde fe"G7" d4 |"C" z ccc cdGA | (3cde fe"G7" d4 |"C" z ccc cdGA | z ccc cdGA | z ccc cdGA | %19
+w: not have a dain- ty bray?|she lis- tens care- ful- ly to|each lit- tle tune you play||si, si mi mu- cha ti- to|she'd love to sing it too if|
+w: ||||||
+ (3cde fe"E7" d z E2 |"Am" e4 d2 c2 |"E7" d4 e2 f2 |"Am" e4 d2 c2 |"E7" d4 z2 E2 |"Am" e4 d2 c2 | %25
+w: on- ly she knew the way but|try as she|may in her|voice theres a|flaw and|all that the|
+w: ||||||
+"D7" e4 d2 c2 |"Dm" d8- |"G7" d2 z2 E2 F2 |"Dm" z2 z2 gggg |"G7" gggg gggg |"C" gggg gggg | %31
+w: la- dy can|say|* is Ee-|se- no- ri- ta|don- key si- ta not so fleet as|a mos- qui- to but so sweet like|
+w: ||||||
+"Dm" gggg"G7" gfed |"C" c z gc' c z z2 |] %33
+w: my Chi- qui- ta youre the one for|me * * *|
+w: ||
+

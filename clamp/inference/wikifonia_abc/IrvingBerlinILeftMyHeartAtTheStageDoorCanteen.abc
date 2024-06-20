@@ -1,0 +1,30 @@
+X:1
+T:I Left My Heart At The Stage Door Canteen
+T:I Left My Heart At The Stage Door Canteen
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" z F F F |"Fdim" F E/D/- D/E/ F |"Gm" G4- | G4 |"F" z A A A |"Dm" A G/F/- F/G/ A |"Gm" B4- | %7
+w: Old mis- ter|ab- sent mind- * ed that's|me.|_|Just as for-|get- ful as _ I can|be.|
+"C7" B4 |"F" z c c c |"Bb" d B/"A7"G/- G/F/ E |"Dm" F4- | F4 | z F F F |"G9" A F/D/- D/F/ A | %14
+w: _|I've got the|strang- est sort _ of a|mind.|_|I'm al- ways|leav- ing some- * thing be-|
+"C7""Cdim" c4- |:"C7" c C F A | G G2 z/ F/ | E E2 D |"F" C4- | C C F"Cdim" c |"Gm7" B B2 z/ A/ | %21
+w: hind.|_ I left my|heart at the|stage door can-|teen|_ I left it|there with a|
+"C7" G G2 d |"F" c4- | c4 |"Bb" d d/^c/ d"C7" e |"F" =c c3 |"Gm7" B B/A/"C7" B c |"F" A4 | %28
+w: girl named Ei-|leen|_|I kept her serv- ing|dough- nuts|'till all she had were|gone.|
+"Gm" G G/^F/"A7" G A |"Dm7" =F F"G7" F/D/ F |"C7" c4- | c C F A |"C7" G G2 z/ F/ | E E2 D | %34
+w: I sat there dunk- ing|dough- nuts 'till she caught|on.|_ I must go|back to the|arm- y rou-|
+"F" C4- | C C F"Cdim" c |"Gm7" B B2 z/ A/ |"C7" G G2 d |"F" c4- | c3 z/ c/ | %40
+w: tine.|_ and ev- 'ry|dough- boy knows|what that will|mean.|_ A|
+"Cm" _e/ d B/- B3/2 A/ |"D7" d/ c B/- B3/2 A/ |"Gm" c B A G |"Bbm" B/ A G/- G F | %44
+w: sol- dier boy _ with-|out a heart _ has|two strikes on him|from the start _ and|
+"F" C F2"Fdim" E/D/ |"C7" E"Gm7" F2"C7" G |1"F""Fdim" F4- |"C7" F/ z/ C F A :|2"F""Bb" F4- | %49
+w: my heart's at the|stage door can-|teen.|_ I left my|teen|
+"F" F3 z |] %50
+w: _|
+

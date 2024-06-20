@@ -1,0 +1,28 @@
+X:1
+T:And So To Sleep Again
+T:And So To Sleep Again
+C:Joe Marsala, Sunny Skylar
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"D7" z2"G" D2"C#dim" E2 G2 |"Am7" c3 G"D7" F4- | F3 D"D+" EFED |"G" B3 F"G6" E4- | %4
+w: And so to|sleep a- gain|* as if I'll ev- er|sleep a- gain,|
+"G6" E2"G" D2"C#dim" E2 G2 |"Am7" CC C6- |"D7" C2 D2 E2 F2 |"G" B,8- | B,2 D2"C#dim" E2 G2 | %9
+w: * these rest- less|nights go on|* a- way from|you.|* And so to|
+"Am7" c3 G"D7" F4- | F3 D"D+" EFED |"G" B3 F"G6" E4- | E2"G" D2"C#dim" E2 G2 |"Am7" CC C6- | %14
+w: dream a- gain,|* as if I'll ev- er|dream a- gain,|* my dar- ling|since you're gone|
+"D7" C2 D2 E2 F2 |"B7sus4" B8- |"B+" B2 B2"B7" B2 B2 |"C" B3 A"D9b5" ^G2"Am6" A2 | %18
+w: * my dreams are|through.|* No oth- er|arms can ease this|
+"B7b9" c2"B6" B2"B7" F2 A2 |"Em" G8- | G2 B2"B+" B2"Em7" B2 |"A9" B3 A"D#dim" ^D2"A7" E2 | %22
+w: ache with- in my|heart.|* No oth- er|lips can kiss a-|
+"A9" B2"A7" A2"D#dim" ^D2"A7" E2 |"Am7" A8- |"D9" A2 D2 E2 G2 |"Am7" c3 G"D7" F4- | F3 D"D+" EFED | %27
+w: way these tears that|start.|* And so to|sleep a- gain,|* as if I'll ev- er|
+"G" B3 F"G6" E4- |"G6" E3 D"C#dim" EFGE |"Am7" c3 d c4- |"D7b9" c2 FG A2 F2 |1"G""A9" G8 :|2 %32
+w: sleep a- gain,|* as if I'll ev- er|love a- gain|* an- y one but|you.|
+"G""A9" G8- ||"Cm6""G" G8 |] %34
+w: you.||
+

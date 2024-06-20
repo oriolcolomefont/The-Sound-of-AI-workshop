@@ -1,0 +1,30 @@
+X:1
+T:Wexford Carol
+T:The Wexford Carol
+C:Traditional Irish Carol
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z D |"G" G(G/F/) G3 A | Bc"G/B" d3 d |"D7/F#" c>"G"(B"Em" G/)"D7" D2-"Em/G" D/(D/E/) | %4
+w: Good|peo- ple _ all this|Chtrist- mas time, Con-|sid- er _ well _ and _|
+w: The|night be- * fore that|hap- py tide, The|no- ble _ Vir- * gin _|
+w: Let|all you _ songs and|prais- es be, Un-|to His _ Heav- * 'nly _|
+"F" =F>G"Dm7" F3 D |"G" GF G3 A | Bc"G/B" d3 B |"C/G" A"D/F#"d"Em" (B G2) A |"C" G>F"G" G3 G | %9
+w: bear in mind, What|our good God for|us has done, in|send- ing His _ be-|lov- ed Son. With|
+w: and her guide Were|long time seek- ing|up and down to|find a lodg- * ing|in the town. But|
+w: Ma- jes- ty; and|ev- er- more a-|mongst our mirth, Re-|mem- ber Christ _ ou|Sav- ior's birth. That|
+"C/G" G=f"F" (d c2) A |"Gm7" (_B/A)"F/A"c"Bb" B2- B/(d/c/) |"Gm" (_B/A)G/ (G/ D2) z/ (D/E/) | %12
+w: Mar- y ~~ho- * ly|we _ should pray _ to _|God _ with love _ this _|
+w: mark how all _ things|came _ to pass: _ From _|ev- * 'ry door _ re- *|
+w: night the Vir- * gin|Mar- * y mild, _ Was _|safe _ de- liv- * er'd _|
+"Dm" =F>G"F" F3 D |"G" G(G/F/) G3 A | Bc"G/B" d3 B |"Dm" cd (B/G) G2 A/ |"G" (G/F/)G G3 z |] %17
+w: Christ- mas Day; In|~Beth- le- * hem up-|on that morn, There|was a bless- * ed Mes-|si- * ah born.|
+w: pelled A- las! As|long fore- * told their|re- fuge all Was|but a hum- * ble ox-|'s _ _ stall.|
+w: of a child; Ac-|cord- ing _ un- to|Heav'n's de- cree, Man's|sweet sal- va _ tion for|to _ _ be.|
+

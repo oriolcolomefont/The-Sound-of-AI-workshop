@@ -1,0 +1,24 @@
+X:1
+T:Suicide is Painless
+T:Theme from Mash
+T:(Suicide in Painless)
+T:Mike Altman and Johnny Mandel
+T:
+C:Johnny Mandel
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Foxtrot" z z z c |:"Gm" _B A B A |"C7" _B A G2 |"F" A G A G | A G F3/2 A/ |"Gm" G F G F | %6
+w: Through|ear- ly morn- ing|fog I see|vis- ions of the|things to be the|pains that are with-|
+"C" G F E3/2 G/ |"F" F E F E | F G A2- |"D7" A4- | A3 c |"Gm" d c d c |"C7" d c2 c |"F" d c d c | %14
+w: held for me I|re- al- ize and|I can see|_|* that|su- i- cide is|pain~~ less it|brings on man- y|
+ d c2 c | A c d f |"Gm" g f d c |1"Dm" d4- | d3 c :|2"Dm" d4- || d3 c |"F" A c d f |"Gm" g f d c | %23
+w: chang- es and|I can take or|leave it if I|please|_ I|please,|_ and|you can do the|same thing if you|
+"Dm" d2 d d | d3 z |] %25
+w: please * *||
+

@@ -1,0 +1,21 @@
+X:1
+T:Just Can't Get Enough
+T:Just Can't Get Enough
+T:Depeche Mode
+C:Vince Clark
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 25
+V:1
+"G" G2 G3/2GG/GAB | G2 G3/2GG/GAB |"C" G2 G3/2GG/GAB | c2 B2 A2 B2 |"G" G2 G3/2GG/Ged | %5
+ G2 G3/2GG/Ged |"C" c2 c3/2cc/cag | c2 A2 G2 A2 |:"G" dddd/d/- d d2 d | BGGD/G/- G3 G | %10
+"C" cccG/c/- c"F" =f2"C" e | cccG/c/- c"F" =f2"C" e |"G" dddd/d/- d d2 d | BGGD/G/- G3 G | %14
+"C" cccG/c/- c"F" =f2"C" e | cccG/c/- c =f2 e |"D" DAAA A2 AB |"Em" A G2 G- G3 G |"C" c2 B2 G2 A2 | %19
+ c2 B2 A2 B2 |"G" GGGG/G/- G"C" c2"G" B | GGGG/G/- G"C" c2"G" B |"C" cccG/c/- c"F" =f2"C" e | %23
+ cccG/c/- c =f2 e :|"A7" AA^cA/dd/cBc |"D" DDFD/GG/FEF |"A7" AA^cA/dd/cBc | %27
+"Em" [EGB]2"Fdim" [=F^GB]2"D7" [^FAc][FAc] [FAc]<[FAd] ::"G" GGGG/G/- G"C" c2"G" B | %29
+ GGGG/G/- G"C" c2"G" B |"C" cccG/c/- c"F" =f2"C" e | cccG/c/- c"F" =f2"C" e :|"G" [B,DG] z z2 z4 |] %33
+

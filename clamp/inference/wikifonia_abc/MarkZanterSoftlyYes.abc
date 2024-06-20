@@ -1,0 +1,19 @@
+X:1
+T:Softly Yes
+C:Mark Zanter
+Z:All Rights Reserved
+L:1/4
+Q:1/4=138
+M:4/4
+K:Ab
+V:1 treble-8 nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ x2"^Med Ballad" a b |:"Bbm7" c'2- (3c' b a |"Abmaj7" g3 f |"Eb7#9" b4- | b z g a | %5
+"Ebm7" b2- (3b a _g |"Ab13" f3 e |"Cm7" c4- |"C7" c2 z c |"Gm7b5" c/B/B/B/- B2- |"C7" B2 (3e a c' | %11
+"Fm11" b4 |"Ab7" a z a b |"Dbmaj7" c'2- (3c' b a |"Abmaj7" g3 z/ f/ |"Dm11" g/b/ (3g/f/g/- g2 | %16
+"Db7b5" z2 a b |"Fm7" c'2- (3c' b a |"Dbmaj7#11" g3"Db7b5" f |"A7b5" b4- | b z g a | %21
+"Ebm7" b2- (3b a _g |"Ab13" f3 e |"Cm7" c4- |"C7" c2 z c |"Gm7b5" c/B/B/B/- B2- |"C7" B2 (3e a c' | %27
+"Bb7" b4 |"F7#5#9" a z a b |"Bbm9" c'2- (3c' b a |"Eb7b5" g3 z/ f/ |"Abmaj7" g/b/ (3g/f/g/- g2 | %32
+"F7#9" z2 a b :| %33
+

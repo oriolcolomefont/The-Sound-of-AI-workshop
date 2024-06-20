@@ -1,0 +1,28 @@
+X:1
+T:I'll Close My Eyes
+T:I'll Close My Eyes
+C:Billy Reid
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z C"Bbm" B3/2 A/ |:"F" A4- | A C"Bbm" B"F" A |"Em7" A3/2 G/"A7""Gm6" E2- |"A7" E A, G ^F | %5
+w: I'll close my|eyes|* to ev- 'ry-|one but you,|* and when I|
+"Dm" =F4- | F/F/E/F/ A F |"Cm7" _E4- | E3 D |"Bbmaj7" ^C D c2- |"Bbm6" c B F G |"F" (3A A A A2- | %12
+w: do|* I'll see you stand- ing|there.|* I'll|lock my heart|* to an- y|oth- er ca- ress,|
+ A3 A |"E7" (3^G G G G2- | G F/F/ (3F E D |"Am""Fdim" E4- |"C7" E C"Bbm" B3/2 A/ |"F" A4- | %18
+w: * I'll|nev- er say yes|* to a new love af-|fair.|* I'll close my|eyes|
+ A C"Bbm" B"F" A |"Em7" A3/2 G/"A7""Gm6" E2- |"A7" E A, G ^F |"Dm" =F4- | F/F/E/F/ A F | %23
+w: * to ev- 'ry-|thing that's gay|* if you're not|there|* to share each love- ly|
+"Cm7" _E4- |"F7" E3 D |"Bbmaj7" ^C D c2- |"Bbm6" c B F G |"F" (3A A A"Cm6" A2- | %28
+w: day.|* And|thru the years|* those mo- ments|when we're a- part,|
+"D7" A A"Cdim" c"Abm" =B |"Gm" _B3/2 D/ E F |"Bbm6" G2"C7b9" A2 |1"F""Db9" F4- | %32
+w: * I'll close my|eyes and see you|with my|heart.|
+"C7" F C"Bbm" B3/2 A/ :|2"F""E""F""Fdim" F4- |"F" F z z2 || %35
+w: _ I'll close my|heart..|_|
+

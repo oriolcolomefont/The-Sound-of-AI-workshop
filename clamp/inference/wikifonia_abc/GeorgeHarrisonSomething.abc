@@ -1,0 +1,28 @@
+X:1
+T:Something
+T:Something
+T:George Harrison
+T:George Harrison
+C:George Harrison
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Bb"!mp! BBBB B2 BA- | A8 |"Bb7" z _AAA ABcB |"Eb" BG- G4 z2 |"C" cccc"C/E" B2 cA- | %5
+w: Some- thing- in the way she moves||at- tracts me like no oth- er|lov- er. *|Some- thing in the way she woos|
+"F" AF- F4 z F |"Gm" G/B/G/c/- c/G/B-"Gm/F#" B3 G |"Gm/F" d/c/B/c/-cd"Gm6/E" (B G3) | %8
+w: * me * I|don't want to leave * her now, * you|know I be- lirve * and how *|
+"Eb" z!<(! GBG"Db" _A2"F/C" =A2 |"G"!<)!!f! =B8 || z!mp! =BBB"Gmaj7/F#" BBd=e |"Em" =B6 d=e | %12
+w: ||You're ask- ing me will my love|grow. I don't|
+"C" (=e2 c2)"F" f2!<(! e2 |"G"!<)!!mf! d8 | z!mp! =BBB"Gmaj7/F#" BBd=e |"Em" =B6"^E m7/D" d!<(!=e | %16
+w: know * I don't|know.|You stick a- round now, it may|show, I don't|
+"C"!<)!!mf! (=e2 c2)"F" f2 e2 |"Bb" d6 z2 ||!mp! BBBB B2 BA- | A8 |"Bb7" z _AAA ABcB | %21
+w: know * I don't|know.|Some- thing in the way she knows,||and all I have to do is|
+"Eb" BG G4 z2 |"C" cccc"C/E" B2 cA- |"F" AF- F4 z F |"Gm" G/B/G/c/- c/G/B-"Gm/F#" B3 G | %25
+w: think of her.|Some- thing in the things she shows|* me * I|don't want to leave * her now, * you|
+"Gm7/F" d/c/B/c/-cd"Gm6/E" (B G3) |"Eb" z GB!<(!G"Db" _A2"F/C" =A2 |"Bb"!<)!!f! B6 z2 |] %28
+w: know I be- lieve, * and how. *|||
+

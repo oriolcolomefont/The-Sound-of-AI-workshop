@@ -1,0 +1,28 @@
+X:1
+T:White Rose Of Athens
+T:White Rose of Athens
+T:Hadjidakas, Bradtke, N.Newell, A.Blayer 
+C:Hans Bradtke, Manos Hadjidakis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z A A A |:"F" A3 A | A3/2 B/ A G | A2 A2- | A G A B |"C7" c3/2 d/ c B | A3/2 B/ A G |"F" A4- | %8
+w: The sum- mer|days are|end- ing in the|val- ley|* and now the|time has come when|we must be a-|part|
+w: |leaves are|fall- ing in the|val- ley|* and soon the|win- ter snow will|lie * on the|ground|
+ A A A A | A3 A | A3/2 B/ A G | A2 A2- | A G A B |"C7" c3/2 d/ c B | A B G A |"F" F4- | F4 || %17
+w: * but like the|rose that|comes back with the|spring- time|* you will re-|turn to bring the|sum- mer to my|heart||
+w: * but like the|rose that|comes back with the|spring- time|* you will re-|turn to me whenn|spring- time comes a-|round||
+"F" F3 F | F F G A |"Cm7" G4- | G4 |"C7" c3 B | A2 G2 |"F" B3 A | G2 F2 | F3 F | F F G A | %27
+w: till the|white rose blooms a-|gain||you must|leave me|leave me|lone- ly|so good-|bye my love till|
+w: ||||||||||
+"Gm7" G4- | G4 |"C7" c3 B | A A G G |1"F" F4- | F A A A :|2"F" F4- || F4 |"C7" c3 B |"Am" A2 _A2 | %37
+w: then||till the|white rose blooms a-|gain|* the autumn *|gain||till the|white rose|
+w: ||||||||||
+"Gm" G2 _G2 |"F" F4- | F2 z2 | z4 | z4 |] %42
+w: blooms a-|gain,-||||
+w: |||||
+

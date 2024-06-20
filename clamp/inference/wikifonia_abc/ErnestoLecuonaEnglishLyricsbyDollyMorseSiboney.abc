@@ -1,0 +1,22 @@
+X:1
+T:Siboney
+T:Siboney
+C:Ernesto Lecuona
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 E2 G2 |"C" e8- | e4 d2 e2 | d3 c- c2 B2 | d c2 B- BA"Gdim" E2 |"G7" F G2 B- B4- | B8- | B8- | %8
+w: Si- bon-|ey,|_ that's the|tune that _ they|croon at you _ down Ha-|van- a way, _|_||
+ B4 F2 G2 | d8- | d4"F" c2"G7" d2 |"Dm7" c3"G7" B- B2 A2- | A G2 A- AG F2 |"C" E8- | E8- | E8- | %16
+w: * Si- bon-|ey,|_ that's the|dance that _ they|_ dance at _ the ca-|fe.|_||
+ E4 E2 G2 |"C" e8- | e4 d2 e2 | d3 c- c2 B2 | d c2 B- BA"Gdim" E2 |"G7" F G2 B- B4- | B8- | B8- | %24
+w: * And that|tune|_ brings you|dreams so _ it|seems un- der- * neath the|sil- ver moon. _|_||
+ B4 F2 G2 | d8- | d4"F" c2"G7" d2 |"Dm7" c3"G7" B- B2 A2- | A G2 A- AG F2 |"C" E2 z2"Fm" c2 _A2 | %30
+w: * As they|play|_ Si- bon-|ey, ev- * 'ry|_ care will _ fade a|way. Fas- ci-|
+"Cm" G3 _E- Ec"Fm" _A2 |"Cm" G3 _E- EF"G7" D2 |"C" C8- | C6 z2 | z8 |] %35
+w: nat- ing, _ cap- ti-|vat- ing, _ Si- bon-|ey|_||
+

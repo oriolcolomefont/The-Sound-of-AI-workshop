@@ -1,0 +1,27 @@
+X:1
+T:You've Got To Have Heart
+T:You've got to have heart
+T:Richard Adler and Jerry Ross
+C:Richard Adler, Jerry Ross
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ G2 fe f2 |:"Dm7" g8 |"G7" z2 ag agag |"C" e8 |"A7" z2 ag age^d |"Dm7" ec c2 c4 |"Fm" ec c2 c2 d2 | %7
+w: You've got ta have|heart|all you real- ly need is|heart|when the odds are say- ing|you'll nev- er win|thats when the grin should|
+"C" e8 | z2"^N.C." G2 fe f2 |"Dm7" g8 |"G7" z2 ag agag |"C" e8 |"A7" z2 ag age^d |"Dm7" ec c2 c4 | %14
+w: start|you've got to have|hope|must- n't sit a- round and|mope|noth- ings half as bad as|it may ap- pear|
+"Fm" ec c2 c2 _A2 |"C" c8 | z2"^N.C." cd edcB |"Gm7" _B2 B6 |"C7" z2 cd edc_B |"F" A8 | %20
+w: wait 'll next year and|hope|when your luck is bat- tin|ze- ro|get your chin up off the|floor|
+ z2"^N.C." de ^fed_d |"Am7" c2 c6 | z2"D7" de ^fedc |"G7" BGGG AGGG | AG"^N.C." G2 fe f2 | %25
+w: mis- ter you can be a|he- ro|you can o- pen an- y|door there's noth- in to it but to|do it you've got to have|
+"Dm7" g8 |"G7" z2 ag agag |"C" e8 |"A7" z2 ag age^d |"Dm7" ec c2 c2 d2 |"Fm" ec c2 cdcd |"Gm" e8 |1 %32
+w: heart|miles n miles n miles of|heart|oh its fun to be a|gen- ius of course but|keep that old horse be- fore the|cart|
+"A7" z2 ag"G7" fe d2 |"C" c8 |"G7" z2"^N.C." G2 fef z :|2"A7" z2 ag"G7" ag a2 |"C" c'8- | %37
+w: first you've got to have|heart!|you've got to have|first you've got to have|heart.|
+ c'2 z2 z4 |] %38
+w: |
+

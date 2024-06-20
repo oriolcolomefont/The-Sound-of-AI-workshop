@@ -1,0 +1,40 @@
+X:1
+T:Let's Take the Long Way Home
+T:Let's Take the Long Way Home
+T:from "Here Come the Waves"
+T:Harold Arlen
+T:Johnny Mercer
+T:1944
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" G2 E3/2 C/ |"Ab" E2"Bb7" F2 |"Eb" G4- | G2"Fm7" A2 |"Eb" B2"Cm7" E3/2 C/ |"Fm7" E2 c2 | %6
+w: Let's take the|long way|home,|_ Let's|look for the|long way|
+ B4- |"Bb7" B2"Bb9" c2 |"Gm7" d f"Eb" e B- | B2"Edim" G2 |"Fm""Db7" A4- |"Bb7" A2"Ddim" G A | %12
+w: home|_ And|on the way, let's|_ pre-|tend|_ that this|
+"Gm7" B d c"Cm7" B- | B2 E2 |"Dm7""Bbm" F4- |"G7" F2"E9" ^F2 |"Eb" G G"Cm" z/ E C/ | %17
+w: won- der- ful night|_ won't|end.|_ Through|As- ia would be|
+"Fm7" E2"Bb7" F2 |"Eb" G4- | G2"Fm" A2 |"Eb9" B B-"Ab" B/ E C/ |"Fm7" E2 c2 |"Gm""Eb" d4- | %23
+w: much too|soon,|_ We'll|cir- cle _ once a-|round the|moon,|
+"C9" d2"C+7" c2 |"Ab" B B2 B |"Fm" A G F E |"G" G2 G"C+9" A- |"^C-9+" A4 |"F9" G2 E3/2 C/ | %29
+w: _ Our|dream boat will|car- ry us a-|cross the foam,|_|We'll take the|
+"Fm7" E2"Bb7" F2 |"G+7" G G z/"Cm7" E C/ |"Ab9" E2 F2 |"Eb" B2"Cm7" E3/2 C/ |"Fm7" E2"Bb7" F2 | %34
+w: long way,|make sure it's the|wrong way,|Let's take the|long way|
+"Eb" E4- | E2 G G | G2"Ab" A"Bb7sus4" F | F2 F F |"Bb7" F2 G"Bb7sus4" E |"Eb" E2 G G | G2 B F | %41
+w: home,|_ Shall we|fly Through the|night, shall we|dream as we|go? See the|star on your|
+"Fm7" F2 c F |"Bb7" F2 G"Bb7sus4" E |"Eb" E2 e d |"Cm" e2"Ab" c =B |"F9" c2 d"^F-9+" ^c | %46
+w: right, see the|farm down be-|low? The whole|trip it ap-|pears, On- ly|
+"Bb" d d B =A |"Fm7" B4- |"Bb7" B2"^Bb-9+" ^F2 |"Eb" G2"Cm7" E3/2 C/ |"Fm7" E2"Bb9" F2 |"Eb" G4- | %52
+w: takes a mil- lion|years.|_ If|you're in the|mood to|roam|
+ G2"Fm7" A2 |"Eb" B2"Cm7" e3/2 C/ |"Fm7" E2"Bb7" F2 |1"Eb" E4- |"Fm""Fm7""Bb7" E3"Bb+7" z :|2 %57
+w: _ Then|Let's take the|long way|home.|_|
+"Eb" E4- | E3 z | z4 |"Fm7" z4 |"Bb7""Bb7sus4" z4 |"Eb" z4 |] %63
+w: home.|_|||||
+

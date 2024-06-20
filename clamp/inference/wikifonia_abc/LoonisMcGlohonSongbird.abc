@@ -1,0 +1,30 @@
+X:1
+T:Songbird
+T:Songbird
+C:Loonis McGlohon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"D7" F2"Ebmaj7" G2 B,BAG |"Bbm7/Eb" AF _D4"Eb7" E2 |"Abmaj7" CEGB"Fm7" AGEF |"Dm7" G6"G7" D2 | %4
+w: Song- bird, thank you for your|love- ly song! You've|light- ed all the cor- ners of the|day. But|
+"Cm7" CEGB"F7" =AFDE |"Dm7" F3"D7" c"Gm7" B3 F |"Ebm7" _GFG_d"Ab7" cBAG | %7
+w: tell me how a tin- y song- bird|learned so much of|life and love and all the games we|
+"Cm7""F7""Fm7" F6"Bb7" z2 |"D7" F2"Ebmaj7" G2 B,BAG |"Bbm7/Eb" AF _D4"Eb7" E2 | %10
+w: play?|Song- bird, thank you for your|hymn to joy! I|
+"Abmaj7" CEGB"Fm7" AGEF |"Dm7" G6"G7" D2 | CEGB"F7" =AFDE |"Dm7" F3"D7" c"Gm7" B3 F | %14
+w: list- ened and you changed my life for|me for|in your song I see a world more|beau- ti- ful, more|
+"Ebm7" _GFG_d"Ab7" cBAG |"^DbMa7" F6"Bb7" A2 |"Ebm7" BA_GF"Ab7" DE"D7"FG | %17
+w: gen- tle- ness in ev- 'ry face I|see. Oh,|who can ev- er count the love- ly|
+"Fm7" A3"F7" C"Bbm7" _D3 C |"Gm7" cBAG"C7b9" _G"C9"=GAG |"Cm7/F" C2"Fdim7" D2"Fm7" E2"Bb7b9" =E2 | %20
+w: songs you've sung or|know a- bout the the man- y hearts|you have made young?|
+"D7" F2"Ebmaj7" G2 B,BAG |"Bbm7/Eb" AG _D4"Eb7" E2 |"Abmaj7" CEGB"Fm7" AGEF |"Bbm7/Eb" G6"Eb7" D2 | %24
+w: Song- bird, thank you for you're|love- ly song, and|if you ev- er have to fly a-|way, I|
+"Cm7" CEGB"Bbm7" AG"Eb7"FE |"Abmaj7" c3 A"Abm7/Db" E3"Db9" F | %26
+w: know that I'll re- mem- ber ev- 'ry|song you've sung, as|
+"Ebmaj7" GB"Ebdim7"DE"Fm7" ce"Fm7/Bb"E>F |"Eb6" E6 z2 |] %28
+w: well as I re- mem- ber them to-|day.|
+

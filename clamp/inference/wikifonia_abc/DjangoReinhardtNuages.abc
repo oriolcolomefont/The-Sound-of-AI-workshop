@@ -1,0 +1,23 @@
+X:1
+T:Nuages
+T:Nuages
+T:Django Reinhardt
+C:Django Reinhardt
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 16
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+ ^CD A_A GF ||"^Bbm7""Eb7" =F7 E |"Adim7""D7b9" _E7 D/C/ |"G""^Am7""^Bbm7" D8 | %4
+"^Bm7" z2 z (3B,/D/F/ A_AGF |"^Bbm7""Eb7" =F6 A,/B,/F/E/ |"Adim7""D7" _E6- (3ED^C |"G" D8 | %8
+"^Gj7" z2 A,B, cB (3AGF |"^F#m" A8 |"^F#m6" z2 A,B, (3BcB (3AGF |"^Em" G8 |"^Em6" z2 FG B3 G | %13
+"A7" E8 |"A13" z2 EF GAB=f |"^D7(+9)""^(Ao7)" d8 |"D9" z2 ^CD A_AGF |"^Bbm7""Eb7" =F7 E | %18
+"Adim7""D7b9" _E7 D |"G""^Am7" D8 |"^Bm7" z2 B,/D/G/B/"^Gj7" d_dcB |"^Ebm7""Ab9" _B7 A | %22
+"G7b9" _A7 G |"^Cj7""F7" G8 |"^Cj7" z2 z ^F/G/ g=f_ef |"^Cm7" g8- |"F7" g4 g=f_ef |"^Gj7""C7" g8 | %28
+"^Bm7" z2 A,/B,/D/F/ A_AGF |"^Bbm7""Eb7" =F7 E |"Adim7""D7b9" _E7 D |"^Gj7""C7" D8- | %32
+"^G" D2 z2 z4 |] %33
+

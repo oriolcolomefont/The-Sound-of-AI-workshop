@@ -1,0 +1,27 @@
+X:1
+T:The Godfather Waltz (Come Live Your Life With Me)
+T:Come Live Your Life With Me (Godfather Waltz)
+C:Nino Rota
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm" c2 =B/c/ | _d2 c |"Fm" c/A/- A2- | A2 z | c2 =B/c/ | _d2 c |"Cm" c/G/- G2- | G2 z | c2 =B/c/ | %9
+w: No one can|buy to-|mor- row _|_|no one can|sell their|sor- row; _|_|But when you|
+w: Here in our|world to-|geth- er, _|_|love will go|on for-|ev- er. _|_|Warm in the|
+ e2 c |"G7" =B2 d |"Cm" c2 z |"Fm" A G A | c2 =B |"Cm" G3- | G2 z |"G7" G3- | G =A/=B/ c/d/ | %18
+w: look in-|to my|eyes,|dar- ling you'll|al- ways|see.|_|Love,|_ I will give you|
+w: shel- ter|of my|arms,|dar- ling, you'll|al- ways|be.|_|Love,|_ I will give you|
+"Cm" e3- |"Ab" e2 z |"Fm" e2 d/c/ |"G7" =B2"G7sus4" c |"Cm" c3- | c2 z!fine! ||"Fm" c =B c | %25
+w: love.|_|Come live your|life with|me.|_|We'll have our|
+w: love.|_|Come live your|life with|me.|_||
+"Db" c =B c |"Cm" c =B c | _d c B |"Fm" A G F | =E2 F |"C" G3- | G2 z |"Fm" c =B c | c =B c | %34
+w: good times, and|ev- en in|sad times, with|love we will|find a|way.|_|No- thing else|mat- ters but|
+w: |||||||||
+"Cm" c =B c | e d c |"Gm" B =A G |"D7" ^F2"D7sus4" G |"Gm" G3- | G2 z!D.C.! |] %40
+w: lov- ing each|oth- er the|way that we|do to-|day.|_|
+w: ||||||
+

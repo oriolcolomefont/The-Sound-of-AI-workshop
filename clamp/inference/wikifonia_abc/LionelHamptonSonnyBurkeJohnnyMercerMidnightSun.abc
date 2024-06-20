@@ -1,0 +1,38 @@
+X:1
+T:Midnight Sun
+T:Midnight Sun
+C:Lionel Hampton, Sonny Burke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 B2 |:"Cmaj7" d>_dc>B _B>A_A>E | G E3 G>_GF>E |"Cm7" _E2 dB-"F9" B4- | B4 z2 A2 | %5
+w: Your|lips were like a red and rub- y|chal- ice, warm- er than the|sum- mer night. _|_ The|
+"Bbmaj7" c>B_B>A _A>G_G>D | F D3 F>E_E>D |"Bbm7" _D2 cA-"Eb" A4- | A4 z2 G2 | %9
+w: clouds are like an al- a- bas- ter|pal- ace ris- ing to a|snow- y height. _|_ Each|
+"Abmaj7" _B>A_A>G _G>FE>C | _E C3 E>D_D>C |"Abm7" C2 _BG"Db9" G4- | G4 _B>GE>F | %13
+w: star it's own au- ro- ra bor- e-|al- is, sud- den- ly you|held me tight. _|_ I could see the|
+"Cmaj7" G G2 G-"Am7" G4- |"Dm7" G4"G7b9" z2 B2 |"Cmaj7" d>_dc>B _B>A_A>E | G E3 G>_GF>E | %17
+w: mid- night sun. _|_ I|can't ex- plain the sil- ver rain that|found me, or was that a|
+"Cm7" _E2 dB-"F9" B4- |"Cm7" B4"F9" z2 A2 |"Bbmaj7" c>B_B>A _A>G_G>D | F D3 F>E_E>D | %21
+w: moon- lit veil? _|_ The|mus- ic of the un- i- verse a-|round me, or was that a|
+"Bbm7" _D2 cA-"Eb9" A4- | A4 z2 G2 |"Abmaj7" _B>A_A>G _G>FE>C | _E C3 E>D_D>C | %25
+w: night- in- gale? _|_ And|then your arms mir- a- cu- lous- ly|found me, sud- den- ly the|
+"Abm7" C2 _BG"Db9" G4- | G4 _B>GE>F |"Cmaj7" G G2"Am7" G- G4 |"F#m7""B7b9" z8 | %29
+w: sky turned pale, _|_ I could see the|mid- night sun. _||
+"Emaj7" B^c^GA"E6" B2 GA |"Em7" B^cGA"A7" B2 c2 |"Dmaj7""D6" A8- |"Dmaj7" A4"D6" z2 ^F2 | %33
+w: Was there such a night, it's a|thrill I still don't quite be-|lieve,|_ But|
+"Dmaj7" AB^FG"D6" A2 FG |"Dm7" ABFG"G9" A2"G+7" BG- |"Em7""Eb9" G8- |"Dm7" G4"Db7#9" z2 B2 | %37
+w: af- ter you were gone, there was|still some star- dust on my sleeve.|_|* The|
+"Cmaj7" d>_dc>B _B>A_A>E | G E3 G>_GF>E |"Cm7" _E2 dB-"F9" B4- |"Cm7" B4"F9" z2 A2 | %41
+w: flame of it may dwin- dle to an|em- ber, and the stars for-|get to shine, _|_ And|
+"Bbmaj7" c>B_B>A _A>G_G>D | F D3 F>E_E>D |"Bbm7" _D2 cA-"Eb9" A4- | A4 z2 G2 | %45
+w: we may see the mead- ow in De-|cem- ber ic- y white and|cry- stal- line. _|_ But|
+"Abmaj7" _B>A_A>G _G>FE>C | _E C3 E>D_D>C |"Abm7" C2 _BG"Db9" G4- | G4 _B>GE>F |1 %49
+w: Oh, my dar- ling al- ways I'll re-|mem- ber when your lips were|close to mine, _|_ And we saw the|
+"C" G G2 G-"Am7" G4 ||"Dm7" z4"G7b9" z2 B2 :|2"C" G G2 G- G4- ||"Db9" G6"C9" z2 |] %53
+w: mid- night sun. _|Your|mid- night sun. _|_|
+

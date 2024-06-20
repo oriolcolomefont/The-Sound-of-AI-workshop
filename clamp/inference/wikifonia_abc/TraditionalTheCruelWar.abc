@@ -1,0 +1,30 @@
+X:1
+T:The Cruel War
+T:The Cruel War
+T:Traditional
+C:Traditional
+Z:Public Domain
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |"G" D2 D E |"Em" G G2 G |"Am" A3/2 B/ A A |"B" B2 B A |"C" G2 G F |"Am" E E2 E |"G" D2"C" E G | %8
+w: The|cruel war is|rag- ing, *|John- ny has to|fight. * I|want to be|with him from|morn- ing til|
+w: To-|mor- row is|Sun- day, *|Mon- day is the|day that your|cap- tain will|call you and|you must o-|
+w: I'll|tie back my|hair, * men's|clo- thing I'll put|on, * I'll|pass as your|com- rade, as|we march a-|
+w: Oh|John- ny, oh|John- ny, I|feel you are un-|kind, * I|love you far|bet- ter than|all of man-|
+"G" G3 D | D2 D E |"Em" G G2 G |"Am" A3/2 B/ A A |"B" B2 B A |"C" G2 G F |"Am" E E3 | %15
+w: night. I|want to be|with him, it|grieves * my heart|so. Won't you|let me go|with you?|
+w: bey. Your|cap- tain will|call you, it|grieves * my heart|so. Won't you|let me go|with you?|
+w: long. I'll|pass as your|com- rade no-|one will ev- er|know. Won't you|let me go|with you?|
+w: kind. I|love you far|bet- ter than|words can e'er ex-|press. Won't you|let me go|with you?|
+"G" D2"C" E G |"G" G3 |] %17
+w: No, my love,|no.|
+w: No, my love,|no.|
+w: No, my love,|no.|
+w: Yes, my love,|yes.|
+

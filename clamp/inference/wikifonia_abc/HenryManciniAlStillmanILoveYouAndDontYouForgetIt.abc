@@ -1,0 +1,58 @@
+X:1
+T:I Love You And Don't You Forget It
+T:I love You And Don't You Forget It
+T:Henry Mancini
+T:Al Stillman
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^lively latin style" G G G F/A/- | A/ A G/ F E | F F F E/G/- | G/ G F/ E D | E E E D/F/- | %5
+w: I love you and don't-|* you for- get it.|I love you and don't-|* you for- get it.|I love you and don't-|
+w: |||||
+ F/ F E/"Abdim" D B, |"Am7" C3/2 D/-"D7" D2 | E D/=F/- F/E/ D | F F F E/G/- | %9
+w: * you for- get it,|Ba- by.- *||Love me, too, and you|
+w: ||||
+"Am7" G/ G F/ E"D7" D |"Am7" E E E D/F/- |"D7" F/ F E/ D C | D D D C/E/- | E/ E D/ C D | %14
+w: * won't re- gret it.|Love me too and you|* won't re- gret it,|love me, too and you|* won't re gret it|
+w: |||||
+"G" B,3/2 D/- D2 | G, B,/D/- D/B,/ D | G G G F/A/- | A/ A G/ F E | F F F E/G/- | G/ G F/ E D | %20
+w: Ba- by *||I love you and don't|* you for- get it,|I love you and don't|* you for- get it.|
+w: ||||||
+"E7" E E E D/=F/- | F/ =F E/ D B, |"Am" C3/2 E/- E2 | A, B,/C/- C/D/ E |"C" A A A G/_B/- | %25
+w: I love you and don't|* you for- get it,|Ba- by. *||I love you and don't|
+w: |||||
+"Cm" B/ _B A/ G _E |"G" G G G F/A/- |"Bbdim" A/ A G/ F E |"Am7" D D D C/E/- | %29
+w: * you for- get it,|(That makes sev- en times|* that I said it,|I don't see how you|
+w: |(That makes twen- ty times|* that I said it,||
+ E/ E C/"D7" B, A,!dacoda! ||"G" G,4 | D ^D/E/- E/E/ _E | D ^D E =D/G/- |"G7" G z G,2 || %34
+w: * can for- get it|now.|||* I|
+w: |||||
+[K:C]"C" A,2 C2 | E2 G2 | A2 E2- | E z G,2 | A,2 C2 | E2"C#dim" G2 |"Dm7" F4- |"G7" F z G,2 | %42
+w: love you|in the|spring- time,|* I|love you|in the|Fall;|* I|
+w: ||||||||
+ A,2 B,2 | D2 F2 | B2 A2- | A z F2 | E2 D2 |"G7b5" ^C2"G7" D2 |"C" G4- | G z G,2 | A,2 C2 | E2 G2 | %52
+w: love you|at a|par- ty,|* We|al- ways|have a|ball;|* And|when you're|in my|
+w: ||||||||||
+ A2 E2- | E z G2 |"A7" _B2 A2 | E2 G2 |"Dm" F2 D E | F G A B |"F" c B/A/- A/B/ c | %59
+w: arms, dear,|* I|love you|most of|all, * *||In the morn- * ing and|
+w: |||||||
+"C" B A/G/- G/A/ B |"Dm7" A G/F/- F/G/ A |"C7" G4 |"F" c B/A/-"F#dim" A/B/ c | %63
+w: in the eve- * ning and|when ita cloud- * y or|clear,|I'm in love- * with you|
+w: ||||
+"C" B A/G/-"A7" G/A/ B |"Dm7" A G/F/"G7" A, E/D/ |"C" C E/G/- G/E/ G!D.C.! ||"G""^Coda" G, ^D E z | %67
+w: so in love * with you|ev- 'ry * day of the|year. * * * * *|now! * *|
+w: ||||
+ D ^D/E/- E/E/ F |"C" A A A G/_B/- |"Cm" B/ _B A/ G _E |"G" G G G ^F/A/- |"Bbdim" A/ A G/ ^F E | %72
+w: |I love you and don't|* you for- get it,|There, that's one more time|* that I said it,|
+w: |||||
+"Am7" D D D C/E/- | E/ E C/"D7" B, D |"G" G2 z G |] %75
+w: I don't see how you|* can for- get it|now! *|
+w: |||
+

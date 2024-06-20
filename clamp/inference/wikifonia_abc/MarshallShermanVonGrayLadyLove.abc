@@ -1,0 +1,34 @@
+X:1
+T:Lady Love
+T:Lady love
+T:Von Gray
+C:Marshall Sherman, Von Gray
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A2 CC- C4 | z cdc"F7" fdcd |1"Bb" A2 FF- F4 |"Gm" z4"C7" z2 c2 :|2"Bb" A2 FF- F2 C2 || %5
+w: La- dy love *|your love is peace- ful like a|sum- mers breeze *|My|ba- by's touch * you|
+w: la- dy love *|with love thats ten- der as a||||
+"Gm7" _BBAG A"C7"GFG |"Dm" A c3"Dm7" A4 |"Bb" z2 FG"Gm" _B2 AF |"C" G8- |"C7" G2 z2 z4 |: %10
+w: give me all of the things that U|need so much|you're my world la- dy|love||
+w: |||||
+"F" A2 CC- C4 | z cdc"F7" gfcd |1"Bb" AF F6 |"Gm7" z4"C7" z2 c2 :|2"Bb" AF F4 FG || %15
+w: la- dy love *|your love is cool- ing like the|win- ter snow|my|fires glow * and I|
+w: la- dy love *|with a love that's co- zy as~a||||
+"Gm7" _BBAA"C7" GG/-G/ F/G/F |"Dm" A d3 A4 |"Bb" D F2 _B"C7" A2 A2 |"F" GFAF- F4 |"F7" z4 z2 cd | %20
+w: keep on need- ing you girl * a lit- tle|more and more|and I thank you my|la- dy love * *|you know|
+w: |||||
+"Bb" z2 dd"Am7" f d2 d |"Bb" fdcd"Am7" d4 |"Bb" z2 d/c/d"Am" fdcd |"Dm" agfd"C7" d4 | %24
+w: its not ea- sy to|deep love flow- ing smooth|peo- ple are peo- ple and they|all * have their moods|
+w: ||||
+"Bb" z daa"Am7" g2 dc |"Bb" ffff"Am" d4 |"C7" z _edc e2 dB | g2 _e2 c4 | z _edc e d3 | %29
+w: but its so nice just to|have some- one like you|who wants a smooth and *|ea- sy thing|and all the good times|
+w: |||||
+ a2 _b2 a f2 f |"F" a2 aa- a4 | z agf"F7" fddc/d/ |"Bb" AAGF- F4 |"Gm" z4"C7" z2 c2!D.C.! |] %34
+w: that it brings * my|la- dy love *|you've been with me through all of my|ups and down * *|My|
+w: |||||
+

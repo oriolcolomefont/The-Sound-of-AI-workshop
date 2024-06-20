@@ -1,0 +1,35 @@
+X:1
+T:My One and Only Love
+C:Guy Wood
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" z G,A,>C"Em" DEBG |"Dm7" A2 d2"G7" B2- (3BGF |"Am" E2 c2"Fmaj7" A2- (3AFE | %3
+w: |||
+"D7" E2 C2"G7" z2 !fermata!g2 |:"C" z G,A,>C"Em7" DEBG |"Dm7" A2 d2"G9" B2- (3BGF | %6
+w: |The ver- y though of you makes|my heart sing _ like an|
+"Am" E2 c2"Fmaj7" A2-"F6" (3AFE |"Dm6" D2 B2"Em7" G4 |"Dm7" z AGF"G7" E>DG>E | %9
+w: A- pril breeze _ on the|wings of spring.|And you ap- pear in all your|
+"Am" C A,3-"F""Am" A,4 |"Dm7" z F GA"G7" G2 D2 |"Em7""Am7""Dm7" G8 |"C" z G,A,>C"Em7" DEBG | %13
+w: splen- dor _|my one and on- ly|love|The shad- ows fall and spread their|
+"Dm7" A2 d2"G9" B2- (3BGF |"Am" E2 c2"Fmaj7" A2-"F6" (3AFE |"Dm6" D2 B2"Em7" G4 | %16
+w: mys- tic charm _ in the|hush of night _ while you're|in my arms.|
+"Dm7" z AGF"G7" E>DG>E |"Am" C A,3-"F""Am" A,4 |"Dm7" z FGA"G7" G2"G7b9" E2 | %19
+w: I feel your lips so warm and|ten- der _|my one and on- ly|
+"C" C2-"F#m7b5" C4"B7" z B, |"Em9" B2- (3BAG"Em9/D#" B2- (3BAG |"F#m7" B, B,3-"B7" B,2 z B, | %22
+w: love. _ The|touch _ of your hand _ is like|heav- en _ a|
+"Em9" B2- (3BAG"Em9/D#" B2- (3BAG |"F#m7" B,4-"B7" B,2 z B, |"Em" E2- (3E^FG"Em7" E3 B, | %25
+w: heav- * en that I've _ nev- er|known _ The|blush _ on your cheek when-|
+"A9" E2- (3E^FG E4 |"Dm7" (3D2 D2 D2 (3F2 D2 F2 |"Dm7/G" D4-"G7b9" D4 |"C" z G,A,>C"Em7" DEBG | %29
+w: ev- * er I speak|tells me that you are my|own. _|You fill my ea- ger heart with|
+"Dm7" A2 d2"G9" B2- (3BGF |"Am" E2 c2"Fmaj7" A2-"F6" (3AFE |"Dm6" D2 B2"Em7" G4 | %32
+w: such de- sire. _ Ev- 'ry|kiss you give _ sets my|soul on fire.|
+"Dm7" z AGF"G7" E>DG>E |"Am" C A,3-"F""Am" A,4 |"Dm7" z FGF"G7#5b9" _A2 B2 |1 %35
+w: I give my- self in sweet sur-|ren- der, _|my one and on- ly|
+"C""Ebdim""Dm7""G7#5b9" c8 :|2"Abmaj7""Db6""C69" C8 |] %37
+w: love.|love.|
+

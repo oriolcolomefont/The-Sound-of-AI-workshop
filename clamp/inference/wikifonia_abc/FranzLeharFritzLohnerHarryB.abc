@@ -1,0 +1,24 @@
+X:1
+T:Yours Is My Heart Alone
+T:Your's Is My Heart Alone
+C:Franz Lehar
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Bdim7" F4- |"E7b9" F2 E F |"Am7" E D C2- |"D7" C D A, B, |"Gm7" C4- |"C7" C D B, A, | %6
+w: Your's|_ is my|heart a- lone|_ and with- out|you|_ life holds no|
+"Am7""D7" C4- |"Gm7" C2"C7" z2 ||"Bdim7" F4- |"E7b9" F2 E F |"Am7" E D C2- |"D7" C D E F | %12
+w: charm.|_|Your's|_ ev- 'ry|thought I own,|_ our love the|
+"Dm7" G4- |"G7" G A F E |"Gm7" G4- |"C7" G2 z2 ||"Adim7" c4- |"D7b9" c2 B A |"Gm7" (3B A G D2- | %19
+w: theme|_ of ev- 'ry|dream.|_|All|_ that makes|life seem worth- while|
+ D D E F |"Bbm7" B4- |"Eb7" B2 A G |"Fmaj7" (3A G F A,2- | A, B, =B, C |"Bdim7" F4- | %25
+w: _ dwells in your|eyes|_ and the|spell of your smile.|_ There is no|song|
+"E7b9" F2 E F |"Am7" E D C2- |"D7" C D A, B, |"Gm7" C D F A |"C7" G2 A2 |1"F6" F4- || %31
+w: _ half so|sweet to me|_ as your voice|whis- per- ing "I|love you,|dear."|
+"Gm7" F2"C7" z2 :|2"F6" F4- || F2 z2 | %34
+w: _|dear."|_|
+

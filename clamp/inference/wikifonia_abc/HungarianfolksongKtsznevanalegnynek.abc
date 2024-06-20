@@ -1,0 +1,15 @@
+X:1
+T:Két színe van a legénynek
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C C3 C E3 | E D3 E2 C2 | E E3 E2 C2 | F F3 F3 E | E D3 D3 F | E D3 D2 z2 |: G G3 G G3 | %7
+w: Két szí- ne van|a le- gény- nek,|mint a csöpp- nyi|le- pe- dő- nek,|csu- haj- ja, de|csu- haj- ja,|Há- rom szí- ne|
+ G F3 E G3 | C C3 C E3 | F2 D2 C2 B,2 | C C3 C2 z2 :| %11
+w: van a lány- nak,|mint a csok- ros|vi- o- lá- nak,|csu- haj- ja.|
+

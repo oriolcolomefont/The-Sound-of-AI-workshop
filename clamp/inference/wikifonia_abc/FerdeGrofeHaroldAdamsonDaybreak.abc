@@ -1,0 +1,28 @@
+X:1
+T:Daybreak
+T:Daybreak
+T:Ferde Grofe
+T:Harold Adamson
+C:Ferde Grofe
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B2 c2- |"Bb+" c d (3d B c |"Eb" G4- |"F7" G c (3c G c |"Fm7" G2"Bb7" G2- |"Eb7" G c (3c G c | %6
+w: Day- break,|* an- oth- er new|day,|* the mist on the|mead- ow|* is drift- ing a-|
+"Ab6" F4 |"B7" ^F2"Bb7" G2 |"Eb" B2 c2- | c e"Ebm6" (3e B c |"Bb""Gm" d4 |"A7" =A4- | %12
+w: way.|For it's|day- break.|* the sun's in the|sky|now,|
+"F7" A G (3G F G | c4- |"Bb7" c G (3G F G |"Bb+" B4 |"Eb" B2 c2- |"Bb+" c d (3d B c |"Eb" G4- | %19
+w: * and flow- ers break|through|* their blank- et of|dew|Sun- rise|* how love- ly it|seems|
+"F7" G c (3c G c |"Fm7" G2"Bb7" G2- |"Eb7" G c (3c G c |"Ab6" F4 |"B7" ^F2"Bb7" G2 |"Eb" B2 c2- | %25
+w: * to see from my|win- dow|* a sky full of|dreams,|As the|white clouds|
+"Bbm7" c e"Eb7" (3e c B |"Ab6" F4- | F2"Abm6" E2 |"Eb" B2"C7" c2- |"Fm7" c e"Bb7" (3e c f | %30
+w: * sail on through the|blue,|* at|day- break,|* I day- dream of|
+"Eb" e4- | e4 |] %32
+w: you.-||
+

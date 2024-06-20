@@ -1,0 +1,19 @@
+X:1
+T:Szőr a szitába
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:2/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" C E |"G" G/ F D/ |"Cm" C E |"G" G/ F D/ | E D |"C" C z!fine! |"Gm" G B |"D" d/ c =A/ | %8
+w: Szõr a|szi- tá- ba,|kis- lány|az ágy- ba,|hosz- szá-|ba,|Szõr a|szi- tá- ba,|
+"Gm" G B |"D" d/ c =A/ | B =A | G z |"C" e d | c =B |"G" d c | G2 |"Fm" B A | G F |"Cm" G E | %19
+w: kis- lány|az ágy- ba,|hosz- szá-|ba,|A- zért|fek- szik|hosz- szá-|ba,|job- ban|fér- jek|hoz- zá-|
+"G" D2!D.C.! |] %20
+w: ja,|
+

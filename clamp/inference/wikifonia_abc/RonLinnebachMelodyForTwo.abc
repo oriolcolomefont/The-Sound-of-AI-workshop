@@ -1,0 +1,16 @@
+X:1
+T:Melody For Two
+C:Ron Linnebach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 z2 z3/2 E/ ||"Am7" B>c z3/2 E/ B>c EF- |"Dm7" F8 |"Ddim7" F>E F>G _A2 F2 | %4
+"Cmaj7" E>G- G2- G>E- E2 |"Am7" B3/2c3/4 z E/ B>c EF- z/4 |"Dm7" F2 ed"G7" z"G7" G3 | %7
+"Em" c>"A7b9"B"A7b9" _B>"Dm7"A-"Dm7""G+7" A2"G+7" ^A>G- |"C6""^fine" G8 :|"F6" D4 A4 || %10
+"Dm7" G2-"G+7" G>"G+7"_A- A4 |"C13" z3/2"C13" A-<A z/ G2 D2 |"Fmaj7" C8 |"Am7" C3 E- E2 G2 | %14
+"Dm7" B3 A- A2 E2 |"G7""F#7" G4"F#7""F7" ^F2"F7" =F2 |"E7" E6 z3/2"^D.C. al fine" E/ |] %17
+

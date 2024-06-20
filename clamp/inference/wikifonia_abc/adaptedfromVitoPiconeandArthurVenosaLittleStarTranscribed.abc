@@ -1,0 +1,57 @@
+X:1
+T:Little Star (Transcribed)
+T:Little Star
+C:adapted from Twinkle Twinkle Little Star
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:A
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI program 65
+V:1
+"A " z z/4 c3/4 (3:2:2d e/- (3e/A/B/ | c2 A A | A A B c | (3B/c/B/ A G A |"D " F A B c | %5
+w: Where are you * lit- tle|star? * *|* Oh oh oh|o\- \- \- h ra da|ta da ta da|
+w: |* (Where are|you?) * * *|||
+"E7" d c/B/- B3/2 z/ |"A " z A B c | (3B/c/B/ A G A |"D " F A B c |"E7" d c/B/- B2 |"A " A A A A | %11
+w: t\- o\- o. *|Oh oh oh|o\- \- \- h ra da|ta da ta da|t\- o\- o. *|Twin- kle Twin- kle|
+w: ||||||
+ B/ A A/- A3/2 z/ |"D " A A A A |"E " B B/B/- B2 |"A " A A A2 | B A A z |"D " A A A A | %17
+w: lit- tle star, *|how I won- der|where you are. *|Wish I may,|wish I might|make this wish come|
+w: ||||||
+"E " B B/B/- B2 |"A " A A A A | B/ A A/- A3/2 z/ |"D " A A A B |"E " c B/B/- B2 |"A " z A B c | %23
+w: true to- night. *|Searched all o\- ver|for a love, *|you're the one I'm|thin- kin' of. *|Oh oh oh|
+w: ||||||
+ (3B/c/B/ A G A |"D " F A B c |"E7" d c/B/- B3/2 z/ |"A " z A B c | (3B/c/B/ A G A |"D " F A B c | %29
+w: o\- \- \- h ra da|ta da ta da|t\- o\- o. *|Oh oh oh|o\- \- \- h ra da|ta da ta da|
+w: ||||||
+"E7" d c/B/- B2 |"A " (3z c B A G | (3A G F- F2 |"D " (3z F F A B |"E " G F/E/- E2 | %34
+w: t\- o\- o. *|Twin- kle twin- kle|lit- tle star, *|how I won- der|where you are. *|
+w: |||||
+"A " (3z c B A G | (3A G F- F2 |"D " (3z F F A B |"E " G F/E/- E2 |"A " z A B c | (3B/c/B/ A G A | %40
+w: High a\- bove the|clouds some- where, *|send me down a|love to share. *|Oh oh oh|o\- \- \- h ra da|
+w: ||||||
+"D " F A B c |"E7" d c/B/- B3/2 z/ |"A " z A B c | (3B/c/B/ A G A |"D " F A B c |"E7" d c/B/- B2 | %46
+w: ta da ta da|t\- o\- o. *|Oh oh oh|o\- \- \- h ra da|ta da ta da|t\- o\- o. *|
+w: ||||||
+"A " z A2 B |"D " c B A G |"A " A4 |"E " z4 |"D " z F A B | c B/A/- A2 | z A2 B | c B/A/- A2 | %54
+w: Oh oh|oh oh oh oh|oh||Oh there you|a\- r\- e, *|high a\-|b\- o\- ve. *|
+w: ||||||||
+"A " z A2 B | c B/A/- A2 | z A A B | c (3e/c/B/ A B |"D " z F A B | c B/A/- A2 | z A A B | %61
+w: Oh dear|G\- O\- D, *|send me a|lo- \- \- \- v\- e.|Oh there you|a\- r\- e, *|li- ght- ing|
+w: |||||||
+ c B/A/- A3/2 z/ |"E " z B B c | d/e/ d B z/ d/ |"E7" e d e d |"E " c d c B |"A " A A A A | %67
+w: up the sky. *|I need a|l\- o\- v\- e, a|re- al re- al|l\- o\- v\- e.|Twin- kle Twin- kle|
+w: ||||||
+ B/ A A/- A3/2 z/ |"D " A A A A |"E7" B B/B/- B2 |"A " A A A2 | B A A z |"D " A A A A | %73
+w: lit- tle star, *|how I won- der|where you are. *|Wish I may,|wish I might|make this wish come|
+w: ||||||
+"E " B B/B/- B2 |"A " z A B c | (3B/c/B/ A G A |"D " F A B c |"E7" d c/B/- B3/2 z/ |"A " z A B c | %79
+w: true to- night. *|Oh oh oh|o\- \- \- h ra da|ta da ta da|t\- o\- o. *|Oh oh oh|
+w: ||||||
+ (3B/c/B/ A G A |"D " F A B c |"E7" d c/B/- B2 |"A " A A A A | %83
+w: o\- \- \- h ra da|ta da ta da|t\- o\- o. *|Oh da da da|
+w: ||||
+"D " z/4 F/4 A/4B/4 c/4B/4A/4G/4"E " B/G/4F/4 E |"A " (3z c d (3e A B | c4 |] %86
+w: w\- \- o w\- \- \- o o\- \- \- h|There you are lit- tle|star.|
+w: |||
+

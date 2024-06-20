@@ -1,0 +1,43 @@
+X:1
+T:Jeannine I Dream Of Lilac Time
+T:Jeannine I Dream Of Lilac Time
+T:Nathaniel Shilkret
+T:L.Wolfe Gilbert
+C:Nathaniel Shilkret
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z"G" d |"C" e2"E7" d |"Am" c2 e |"G" d d/c/ B/c/ |"E7" d2 D |"A7" E2 G |"D7" E2 d |"G" B/A/ G2 | %8
+w: ||||||||
+w: ||||||||
+ G2 z ||"G""^Verse" B B B |"Bm" d3 |"G" B B B |"Em" G3 |"Am" A A A |"D7" A G A |"G" B d2 | %16
+w: |Li- lacs in|bloom,|rar- est per-|fume|Tells me that|wait- ing is|end- ed,|
+w: |Shad- ows are|gone,|break- ing of|dawn,|Liv- ing in|hope for to-|mor- row,|
+"D+7" d3 |"G" B B B |"Bm" d3 |"G" B B B |"Em" G3 |"A7" B A G | B A G |"D7" A d2 | %24
+w: |Spring- time is|here,|soon you'll be|near,|When all our|heart- aches are|mend- ed|
+w: |Ban- ish the|care,|we've had our|share,|We've known the|Mean- ing of|sor- row|
+"Ddim" ^G"D7" A"Ddim" B |"Am" c d e |"C+" e d c |"B7" B3 | A3 |"Em" G A B |"A7" B A G |"A9" B3 | %32
+w: |Close in my|arm's fond em-|bra-|ces,|Once more in|hap- pi- est|pla-|
+w: |Blos- soms of|li- lac in|sea-|son,|My heart is|light that's the|rea-|
+"D7" A2 D ||"G""^Chorus" E2 G |"G/B" E2"Bbdim" G |"D7" F/G/ A2- | A2 D | E2 F | D2 c | %39
+w: ces; Jean-|nine, I|dream of|li- lac- time,|* Your|eyes, they|beam in|
+w: son. *|||||||
+"G" B/c/ d2- | d2"E7" e |"Am7" d2"Ebdim" c |"Em" B2 d |"Am7" c c/B/ A/B/ | c2"D#dim" c |"Em" B2 A | %46
+w: li- lac- time,|* Your|win- ning|smile, and|cheeks blush- ing like the|rose, Yet|all the|
+w: |||||||
+"A7" G2 B |"D7" A A/G/ F/G/ | A2 D |"G" E2 G | E2"Bbdim" G |"D7" F/G/ A2- | A2 D | E2 F | A2 c | %55
+w: while, you|sigh when no- bod- y|knows, Jean-|nine my|queen of|li- lac time,|* When|I re-|turn, I'll|
+w: |||||||||
+"G" B/c/ d2- | d2"G7" d |"C" e2"E7" d |"Am" c2 e |"G" d d/c/"G7" B/c/ |"E7" d2 D |"A7" E2 G | %62
+w: make you mine,|* For|you and|I our|love- dream can nev- er|die, Jean-|nine, I|
+w: |||||||
+"D7" E2 d |"G" B/A/ G2- | G2 z |] %65
+w: dream of|li- lac time.-||
+w: |||
+

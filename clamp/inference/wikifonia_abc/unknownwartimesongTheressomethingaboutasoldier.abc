@@ -1,0 +1,24 @@
+X:1
+T:There's something about a soldier
+T:unknown
+T:
+T:There's something about a soldier
+C:unknown  (war-time song)
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z z z A, |"F" C C/C/ C C | C z A,2 | F"F" F/F/ F F | F z C2 | A A/A/ A A | A F C A, | %7
+w: There's|some- thing a- bout a|sol- dier,|some- thing a- bout a|sol- dier,|some- thing a- bout a|sol- dier that is|
+"C7" B,2 B,2 | B,3 C | E E/E/ E E | E C2 E | G G/G/ G G | G E2 z | B B/B/ B B | B G E C | %15
+w: fine, fine,|fine He|may be a stret big|Gen- eral, He|may be a ser- geant|maj- or,|May- be a simp- le|pri- vate of the|
+"F" F"Bb" z"F" F z | F z A, B, |"F" C C/C/ C C | C z A,2 | F F/F/ F F | F C2 z | A A/A/ A A | %22
+w: line, line,|line, But there's|some- thing a- bout his|bear- ing,|some- thing in what he's|wear- ing|Some- thing a- bout his|
+"D7" A D ^F A |"Gm" G2 D2 | G2 G A | B D ^E D | B2 A G |"F" A =C =B, C |"Gm" G3 F |"F" F C/C/ F C | %30
+w: but- tons all a|shine, shine,|shine, but a|mil- i- tar- y|chest seems to|suit the lad- ies|best, There's|some- thing a bout a|
+ F C F A |"C7" c2 c2 |"F" F4 |] %33
+w: sol- dier that is|fine, fine,|fine|
+

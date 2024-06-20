@@ -1,0 +1,26 @@
+X:1
+T:Moon Over Miami
+T:Moon Over Miami
+C:Joe Burke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"D7" d4 (3c2 d2 c2 | d2 d6 |"G" c B2 c B2 G2 |"Gmaj7" D4-"G#dim7" D>DD>B |"Am7" B4- B>DD>c | %5
+w: Moon ov- er Mi-|a- mi,|shine on my love and|me, * so we can|stroll * be- side the|
+"D7" A6"G7" B>A |"C" G4"Cm6" G4 |"G" G6 z2 |"D7" d4 (3c2 d2 c2 | d2 d6 |"G" c B2 c B2 G2 | %11
+w: roll of the|rol- ling|sea.|Moon ov- er Mi-|a- mi,|shine on as we be-|
+"Gmaj7" D4-"G#dim7" D>DD>B |"Am7" B4- B>DD>c |"D7" A6"G7" B>A |"C" G4"Cm7" G4 |"G" G4"F#7" z4 || %16
+w: gin, * a dream or|two * that may come|true, when the|tide comes|in.|
+"Bm""^Bridge" F2 GF"Em" B2 AG |"Bm" F>F (3FF=F-"Bb9" F4 |"Bm" (3^F2 D2 E2"F#7" (3F2 D2 E2 | %19
+w: Hark to the song of the|smil- ing trou- ba- dours, *|hark to the throb- bing gui-|
+"Bm""F#7" F8 |"Bm" F2 GF"Em" B2 AG |"Bm" F>F (3FFG-"Gm6" G4 |"D7" (3A2 F2 A2"Eb7" (3_B2 G2 B2 | %23
+w: tars|hear how the waves of- fer|thun- der- ous ap- plause, *|af- ter each song to the|
+"Am7""D7" d8 || d4 (3c2 d2 c2 | d2 d6 |"G" c B2 c B2 G2 |"Gmaj7" D4-"G#dim7" D>DD>B | %28
+w: stars.|Moon ov- er Mi-|a- mi,|you know we're wait- ing|for, * a lit- tle|
+"Am7" B4- B>DD>c |"D7" A6"G7" B>A |"C" G4"Cm6" G4 |"G" G6 z2 |] %32
+w: love, * a lit- tle|kiss, on Mi-|a- mi|shore.|
+

@@ -1,0 +1,39 @@
+X:1
+T:Farmer's Market
+T:Farmer's Market
+T:Art Farmer
+T:Annie Ross
+T:1952, renewed 1980 Raybird Music Inc. & Art Farmer Music.
+C:Art Farmer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ e ||"^N.C. (Intro - optional)" fAdf ed_dA | c2 d=B z d/f/ af | gd z2 BAGc | z EFB- BAFD || %5
+w: |||||
+w: |||||
+S"F6""^A" FC=B,C GC_B,C |"Gm7" ABAG"C7" z2 z A- |"F6" A2 B=B cEF_B- |"Cm7" BAF_E"F7" z2 z F | %9
+w: Once there was a girl and she was|right from the sticks Thought|* she'd go out to the mar-|* ket one day and|
+w: Once there was a drum- mer who was|straight from New York. Tour-|* in' the count- ry with *|* Ward- ell Gray *|
+"Bbmaj7" D2 z2 cABf- |"Bbm7" f4-"Eb7" fd^de |"Am7" z4 BAG^F |"D7b9" z2 z A- A c2 _e | %13
+w: hey we could sure say|* * of the town|she was the toast,|Real- * ly the|
+w: * we could sure say|* * of the drums,|he was the toast,||
+"Gm7" d2 z A cAB_D- |"C7b9" _D2 A4 z2 |"F6" GBAG"Abmaj7" _ABc_e |"Dbmaj7" _dF_Ac"Gb7" B=A_GE || %17
+w: most, we don't want to boast,|* but|scads of lads would soon sur- round her|Cit- y slick- ers sure would hound her.|
+w: ||all the craz- y chicks would hound him,|all the swing- in bands would sound him.|
+"F6""^B" FC=B,C GC_B,C |"Gm7" ABAG"C7" z2 z A- |"F6" A2 B=B cEF_B- |"Cm7" BAF_E"F7" z2 z F/=E/ | %21
+w: She walked in the mar- ket place and|what did she see, Crew-|* cut and cute with a cra-|* zy goat- ee What a|
+w: Then one day he saw the one that|made his head whirl, He|* met and mar- ried the same|* lit- tle girl. * *|
+"Bbmaj7" D2 z2 cABf- |"Bbm7" f4-"Eb7" fd^de |"Am7" z4 gfe_e |"D+7" z2 b4 ag |"Gm7" z2"Db7" a6- | %26
+w: blend, he was the end|* * sell- in' beans|Dressed in his jeans,|"What a buy."|she|
+w: * they are the end|* * they're real cool|house with a pool|crazy scenes *|Blame|
+"C+7" a4- afdc | %27
+w: * * was heard to|
+w: * * it on the|
+"F6" f2"^Solo break ..." z2"^Solos on F blues. \nAfter solos, D.S. al fine" z4!fine! | z8 |] %29
+w: cry.||
+w: beans.||
+

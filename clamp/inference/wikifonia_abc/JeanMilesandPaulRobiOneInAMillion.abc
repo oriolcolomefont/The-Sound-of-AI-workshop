@@ -1,0 +1,41 @@
+X:1
+T:One In A Million
+C:Jean Miles and Paul Robi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+ z4 z2 dc |"G " B2- (3BAG"D7" A c2 F |"G " G2"F " =F"D "D- D2 dc |"G " B2- (3BAG A"D " D2 A | %4
+w: ||* * * * There is|one * in a mil- lion like|
+"G " (3B2 A2 G2- G2 z G |"C " g2- (3ggg e c2 e |"G " (3fed- d2z2(3zBc | d2 d2"G7" e2- (3edB | %8
+w: y\- o\- u, * a|dream * in a mil- lion come|tr- u\- e. * I con-|fess that I * real- ly|
+"C " G2 GA-"Cmin6" A2(3zGA |"A7" B2- (3BAG B2- (3BeB |"D7" B A3 d2 c2 |"G " B2- (3BAG"D " A D2 A | %12
+w: don't know why * but I|know * that I glow * like I|d\- o. On- ly|once * in a life- time is|
+"G " (3BAG- G2 z2 z G |"C " g2- (3ggg e2- (3ece |"G " e d3z2(3zBc | d2 d2"G7" e2(3ze=f | %16
+w: p\- a\- r * to|find * some- one rare * as you|ar- e. But now|you're a\- round, I have|
+"C " g2 g2"Cmin6" g2- (3g_ec |"G " B2- (3BAG"D7" A c2 F |"G " G2 z2 g2"G7" =f2 | %19
+w: real- ly found * that there's|one * in a mil- lion like|you. Fate was|
+"C " e3 e c2- (3cBc |"G " d2 B2 A G2 e |"D " d2- (3dAA- A2 (3AGA |"G " B d3"G7" g2 =f2 | %23
+w: sure- ly kind * to have|my heart fi- nd some-|one * like yo- * u to be|my love. I give|
+"C " e3 e c2- (3cBc |"G " d2 B2 G2 z2 |"A " z A- (3AAA ^c A2 f |"D " (3efe d2 d2 c2 | %27
+w: thanks each day * that you|came my way,|way * out of hea- ven to|t\- r\- y love. Oh yes,|
+"G " B2- (3BAG"D7" A D2 A |"G " (3BAG- G2 z2 z G |"C " g2- (3ggg e c2 e |"G " (3fed- d2z2(3zBc | %31
+w: once * in a life- time you|kn- o\- w, * a|love * hea- ven star- ted be-|l\- o\- w. * Though it|
+ d2 d2"G7" e2(3ze=f |"C " g2 g2"Cmin6" ag- g_e |"G " d2- (3dcB"D " A G2 A |"B7" B4"D " z d2 c | %35
+w: may be rare, you and|I do sha- re * this|love * that has hap- pened to|few. For there'e|
+"G " B2- (3BAG"D7" A c2 F |"G " G2 z2 g2"G7" =f2 |"C " e3 e c2- (3cBc |"G " d2 B2 A G2 e | %39
+w: one * in a mil- lion like|you. Fate was|sure- ly kind * to help|my heart fi- nd some-|
+"D " d2- (3dAA- A2 (3AGA |"G " B d3"G7" (3gag =f2 | e3"C " e c2- (3cBc |"G " d2 B2 A G2 z | %43
+w: one * like yo- * u to be|my love I * * give|thanks each day * that you|came my wa- y,|
+"A " z A- (3AAA ^c A2 f |"D " (3efe d2 (3ded c2 |"G " B2- (3BAG"D7" A D2 A |"G " AG- G2 z2 z G | %47
+w: way * out of hea- ven to|t\- r\- y love. O\- \- h yes,|once * in a life- time you|kno- w, * a|
+"C " g2- (3ggg e c2 e |"G " (3fed- d2z2(3zBc | d2 de-"G7" e2(3ze=f |"C " g2 g"Cmin6" a2 g- g_e | %51
+w: love * hea- ven star- ted be-|l\- o\- w. * Though it|may be rare * you and|I do sha- re * this|
+"G " d2- (3dcB"D " A G2 A |"B7" B4"D " z d2 c |"G " B2- (3BAG"D7" A c3 | f4 d4 | %55
+w: love * that has hap- pened to|few. For there's|one * in a mil- lion|li- ke|
+"G " a3/2b/4a/4"C ""Cmin6" g6- |"G " g8 |] %57
+w: y\- o\- \- u.||
+

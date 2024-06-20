@@ -1,0 +1,16 @@
+X:1
+T:Hogyha nékem sok pénzem lesz
+T:Hogyha nékem sok pénzem lesz 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am" E3 E ^D2 E2 | A2 E2 C2 A,2 |"E" ^G,A,B,C DC B,2 |"Am" A,4 z4!fine! :|"Am" AAAB c2 A2 | %5
+w: Hogy- ha né- kem|sok pén- zem lesz,|fel- ü- lök a re- pü- lő-|re,|A- mer- re én já- rok,|
+"E" GGGF"Am" E4 |"Am" EE^F^G A2 E2 |"E" FEDC B,4!D.C.! |] %8
+w: bá- mul a vi- lág,|I- rigy- lik a sok pénzt,|a- mit köl- tök rád,|
+

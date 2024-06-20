@@ -1,0 +1,21 @@
+X:1
+T:We wish you a merry christmas
+T:We wish you a merry christmas
+T:Traditional
+C:Traditional
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 13
+V:1
+ G |:"C" c c/d/ c/B/ |"F" A A A |"D7" d d/e/ d/c/ |"G7" B G G |"E7" e e/f/ e/d/ |"Am" c A G/G/ | %7
+w: We|wish you a mer\- ry|Christ\- mas, we|wish you a mer\- ry|Christ\- mas, We|wish you a mer\- ry|Christ\- mas and a|
+"Dm" A d"G7" B |"C" c2 G |"C" c c c |"Em" B2 B |"D7" c B A |"G" G2 d |"C" e d c |"G" g G G/G/ | %15
+w: hap\- py new|year! Good|tid\- ings to|you where\-|ev\- er you|are: Good|tid\- ings for|Christ\- mas and a|
+"D7" A d"G7" B |"C" c2 G :|"C" c c/d/ c/B/ |"F" A A A |"D7" d d/e/ d/c/ |"G7" B G G | %21
+w: hap\- py New|Year! We|wish you a mer\- ry|Christ\- mas. We|wish you a mer\- ry|Christ\- mas We|
+"E7" e e/f/ e/d/ |"Am" c A G/G/ |"Dm" A d"G7" B |"C" c2 x |] %25
+w: wish you a mer\- ry|Christ\- mas and a|hap\- py New|Year!|
+

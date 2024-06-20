@@ -1,0 +1,39 @@
+X:1
+T:You're My World
+T:You're My World
+T:Il Mio Mondo
+T:Umberto Bindi
+T:Carl Sigman
+C:Umberto Bindi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Octave,no chord" (3:2:2g2 g (3:2:2g2 g (3:2:2g2 g (3:2:2g2 g | %1
+w: |
+ (3:2:2g2 g (3:2:2g2 g (3:2:2g2 g (3z EF |:"Cm" G2 (3FED"Cm7" C2 G2 |"F7" F6 (3z DE | %4
+w: * * * * * * You're my|world, you're ev- 'ry breath I|take, You're my|
+"Fm" F2 (3EDC"Bb7" B,2 F2 |"Eb" E6 (3z CD |"Cm" E2 (3z GF"Gm" (D2 (3:2:2D2) B, | %7
+w: world you're ev- 'ry move I|make. Oth- er|eyes see the stars * up|
+"Ab" (3CDC-"C7" (C4 (3C)FG |"Fm7" (A2 (3:2:2A2) c"Bb7" (B2 (3:2:2B2) F | %9
+w: in the skies, * * But for|me * they shine * with-|
+"Eb" (3GAG-"Dm7" G4"G7" (3z EF |"Cm" G2 (3FED"Cm7" C2 G2 |"F7" F6 (3z DE | %12
+w: in your eyes, * As the|trees reach for the sun a-|bove, So my|
+"Fm" F2 (3EDC"Bb7" B,2 F2 |"Eb" E6 (3z CD |"Ab" E4"Abm" (3F2 E2 F2 |"Ebmaj7" G4"Fm7" (3A2 G2 A2 | %16
+w: arms reach out to you for|love. With your|hand rest- ing in|mine, I feel a|
+"Gm7" (3B2- B2 B2"G7" (3=B2- B2 c2 |"C" c4 c2"G7" d2 ||[K:C]"C" e2 (3dcB"Am" A2 e2 | %19
+w: pow- * er so- * di-|vine. You're my|world, you are my night, my|
+"Dm" d6 (3z Bc |"G7" d2 (3cBA G2 d2 |"C" c6 (3z AB |"F" c4"Fm" (3d2 c2 d2 |"C" e4"Fm" (3f2 e2 f2 |1 %24
+w: day, You're my|world, you're ev- 'ry prayer I|pray. If our|love ceas- es to|be, Then it's the|
+"C" (3e2 d2 c2"G7" d3 c ||"C""Cm" c4 z2"G7" (3z"Cm" _EF :|2"C" (3e2 d2 c2"Dm" d4- || %27
+w: end of my world for|me. You're my|end of my world,|
+"G7b9" d4"C" (3e2"G" d2"Am" c2 |"G7""G7b9" d8- |"G7" d2 ed"Dm7" c2"G7" B2 |"C" c2 (3dcB"Am" A2 e2 | %31
+w: * End of my|world,|* It's the end for|me. * * * * *|
+"Dm" d6 (3z Bc |"G7" d2 (3cBA G2 d2 |"C" c6 z2 |] %34
+w: |||
+

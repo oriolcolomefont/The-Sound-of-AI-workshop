@@ -1,0 +1,55 @@
+X:1
+T:Something's Got a Hold on Me
+T:Something's Got a Hold on Me
+T:ETTA JAMES LEROY KIRKLAND PEARL WOODS
+C:ETTA JAMES. LEROY KIRKLAND, PEARL WOODS
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^80 - Freely" G4 | G G2 F GG G2 | G2 C6 | c4 c4 | z G/G/ G/G/G/G/ G/G/G/G/ G/G/G/G/ | %5
+w: Oh,|Some- times I get a good|feel- ing,|Yeah! (Yeah)|I get a good feel- ing that I nev- er nev- er had be|
+w: |||||
+ G2 C2 C4 | z2 G/G/G/G/ F/G/G/G/ G/G/G/G/ | G4 z G G/G/G/G/ | G4 G4 | %9
+w: fore, no, no.|And I just got\- ta tell you right now that I be-|lieve, I real- ly do be-|lieve that|
+w: ||||
+[Q:1/4=120]"^120" z2 G,G, _B,_B,=B,B, |:"C" CB,CB, CC C2 | C4 C4 |"C" G3 G"F7" F F3 | %13
+w: |Some- thing's got a hold on me|yeah, yeah.|Oh, it must be|
+w: |Some- thing's got a hold on *|me, yeah.|Oh, it must be|
+"C" E2 (CC) _E_E=EE |"F7" FEFE FF F2 | F F3 F4 |"C" G3 G"F7" F F3 |"C" E2 CB, CB,CB, | %18
+w: love. Oh * * * * *|Some- thing's got a hold on me|right now, child.|Oh, it must be|love. Let me tell you now *|
+w: love. Oh * * * * *|Some- thing's got a hold on me|right now child|Oh, it must be|love. Let me tell you now *|
+"C" (CB,)CB, CB,CB, | C C3"C7" E2 E2 |"F7" FEFE FEFF | F F3 F4 |"C" CCCB, CB,CB, | C C3"C7" E3 E | %24
+w: I * got a feel- ing, now I|feel so strange. *|Ev- ry- thing a- bout me seems *|to have changed.|Step by * * step I got a|brand new walk. I|
+w: I * ne- ver felt like * *|this be- fore. *|Some- thing's got a hold on me that|won't let go.|I be lieve I'd die * if I|on- ly could. I|
+"F7" FE(FE) FFFG | G G3 FCCB, |"C" C4 C4 |"G7" D4 D4 |"C" E4 E4 |"F7" c8 |"C" c4"Am7" G4 | %31
+w: e- ven sound * bet- ter * *|when I talk. I said uh|Oh! (Oh)|Oh! (Oh)|Oh! (Oh)|Oh!|Oh, wo|
+w: sure feel * * strange * but it|sure feels good. * * *||||||
+"Dm7" F2 F2"G7" F F3 |"C" EGGG"F7" F F3 |1"C" E2 F,F, A,A,(B,B,) :|2"C" E2 CB, CB,CB, || %35
+w: wo, It must be|love. (You know it must be|love.) Let me tell you now *|love. Let me tell you now my|
+w: ||||
+ C2 C2 C C2 C | C C3"C7" E3 E |"F7" F2 F2 FFFF | G G3 F4 |"C" C2 CC C2 C2 | C C3"C7" E4 | %41
+w: heart feels hea- vy, my|feet feel light. I|shake all o- ver but I|feel al- right.|I ne- ver felt like|this be- fore.|
+w: ||||||
+"F7" FFFF FFFF | G G3 F4 |"C" C2 CC C2 CC | CC C2"C7" E3 E |"F7" F2 F2 FF F2 | F F3 F4 | %47
+w: Some- thing's got a hold on me that|won't let go.|I ne- ver thought it could|hap- pen to me. My|heart was hea- vy, in|mis- er- y.|
+w: ||||||
+"C" C2 CC C2 CC | C C3"C7" E4 |"F7" F2 F2 FFFF | GG G2 FCCB, |"C" C4 C4 |"G7" D4 D4 |"C" E4 E4 | %54
+w: I ne- ver thought it could|be this way.|Love's sure gon- na put a|hurt- in' on me. I said uh|Oh! (Oh)|Oh! (Oh)|Oh! (Oh)|
+w: |||||||
+"F7" c8 |"C" c4"Am7" G4 |"Dm7" F2 F2"G7" F F3 |"C" EGGG"F7" F F3 |"C" E2 CB, C C3 | %59
+w: Oh!|Ba- by,|oh, It must be|love. (You know it must be|love.) Yeah, it walks like|
+w: |||||
+ C2 CC"F7" F F3 |"C" E3 C C C3 | C3 C"F7" F F3 |"C" E2 CB, C C3 | E2 CC"F7" F F3 | %64
+w: love. (Yeah, it walks like|love.) It talks like|love. (It talks like|love.) Makes me feel al-|right. (Makes me feel al-|
+w: |||||
+"C" E2 CB, C/C/ C2 C | C2 CC"F7" F/F/ F2 F | C2"^repeat and fade out" G,2 A, C3 | C2 z2 z4 |] %68
+w: right.) In the mid- dle of the|night. (In the mid- dle of the|night.) Wo wo wo|wo|
+w: ||||
+

@@ -1,0 +1,31 @@
+X:1
+T:The Village Of St. Bernadette
+T:The Village Of St. Bernadette
+T:Eula Parker
+C:Eula Parker
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A2 F/D/ |"Fmaj7" C2 C |"Bbmaj7/F" A F D |"F" C3 |"Dm" F2 F/F/ | F G A |"G7" G E D | %7
+w: I've trav- elled|far the|land and the|sea,|beau- ti- ful|pla- ces I|hap- pened to|
+w: There like a|dream, this|won- der- ful|night|I gazed at|the grotto a-|glow in the|
+w: Now I am|home, I'm|hap- py to|be|Tell- ing of|pla- ces I've|trav- elled to|
+"C7sus4""C7" C3 |"Bbmaj7" A2 F/D/ |"Am7" C2 C |"Gm7" A F D |"Fmaj7" C2 C |"Dm" F F F | %13
+w: be,|One lit- tle|town I'll|nev- er for-|get is|Lo- urdes, the|
+w: night.|A feel- ing|di- vine|swept o'er me|there. I|fell to my|
+w: see.|One lit- tle|town I'll|nev- er for-|get is|Lo- urdes, the|
+"Bb6" G"Adim" A"Gm7" B |"F/C" A F"Gm7/C" F |"F6""F" F2 C ||"Bb" B2 B |"F" A2 A |"C7" G G G | %19
+w: Vil- lage Of|Saint Bern- a-|dette. A-|ve, A-|ve, A-|ve Ma- ri-|
+w: knees as I|whis- pered a|pray'r *||||
+w: Vil- lage Of|Saint Bern- a-|dette. *||||
+"Am7" c2"D7" A |"Gm7" B2"C7" B |"F" A2"F#dim" A |"Gm7" G G"C7" A/G/ |"F" F2 z |] %24
+w: a, A-|ve, A-|ve, A-|ve Ma- ri- *|a.|
+w: |||||
+w: |||||
+

@@ -1,0 +1,28 @@
+X:1
+T:Marie
+T:Marie
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"C7" A c |"F6" d d2 d |"C+7" e3 e |"F""Cdim" c4- |"F6" c2"C7" A c |"F6" d d2 d | %6
+w: There's a|gleam in your|eyes, Ma-|rie.|_ And the|mean- ing is|
+"E7/B""E7b5" e3 e |"A7" A4- | A2 A A |"Am7b5" e3 e |"D7" d2 ^G A |"Cdim" c3 c |"Gm" B2 D F | %13
+w: plain to|see.|_ But you'll|find ro-|mance is a|game of|chance, that is|
+"G9" A G2 F |"C7" c2"C+7" c2 |"F9" c4- |"Gb9""F9" c3 d |:"Bb6" f4- | f d f d | F4 | d3"F9" _d | %21
+w: not all it|seems to|be.|_ Ma|rie,|* the dawn is|break-|ing. Ma-|
+"F6" c4- | c A c A | C4 | A3"Db9" _A |"C9" G4- | G =A c B |"Gm7" D4 |"C7" E3 C |"F" F3 A | %30
+w: rie,|* you'll soon be|walk-|ing, to|find|_ your heart is|ach|ing. And|tears will|
+"C7" G3 B |"F" A3 c |"F+7" ^c3"F7" d |"Bb" f4- | f d f d | F4 | d3"G9" _d |"F" c4- | c A c A | C4 | %40
+w: fall as|you re-|call the|moon|_ in all it's|splend-|or the|kiss|_ so ver- y|ten-|
+ A3"Db9" _A |"C9" G4- | G =A c B |"Gm7" d4 |"C7" E3 C |"F" A4- | A2"C9" D2 |"F" F4- | %48
+w: der. The|words|_ will you sur-|ren-|der, to|me|_ Ma-|rie.|
+"Gb9""F9" F3 d :|"F""Eb" F4- |"E" F4 |] %51
+w: * Ma-|Ma-|rie.|
+

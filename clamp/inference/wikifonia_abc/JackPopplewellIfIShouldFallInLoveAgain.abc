@@ -1,0 +1,25 @@
+X:1
+T:If I Should Fall In Love Again
+T:If I Should Fall In Love Again
+T:Jack Popplewell
+C:Jack Popplewell
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B, |"Eb" B,2 C |"Cm7" C2 G |"Fm7" G2 F |"Bb7" F2 D |"Eb/G" D2 E |"F#dim" E2 c |"Fm7" c2 B | %8
+w: If|I should|fall in|love a-|gain, I'd|fall in|love with|you a-|
+"Bb7" B2 =A/B/ |"Eb/G" f2 e |"F#dim" d2 c |"Fm7" B3- |"Bb7" B2 =A/B/ |"Eb" e2 d |"C7" c2 B | %15
+w: gain, with the|same old|moon a-|bove,|* and your|hand in|mine, I'd|
+"Fm7" A e3/2 A/ |"Bb7" G"Bb+" ^F z/ G/ |"Eb" B,2 C |"Cm7" C2 G |"Fm7" G2 F |"Bb7" F2 D | %21
+w: whis- per "I|love you". If|I should|lose my|heart a-|gain, I'd|
+"Eb/G" D2 E |"F#dim" E2 c |"Fm7" c2 B |"Bb7" B2 =A/B/ |"Eb/G" f2 e |"D7" d2 c/d/ |"G+7" e2 d | %28
+w: choose you|from the|start a-|gain. I'd be|just the|same, If I|loved a-|
+"C7" c2 =B,/C/ |"F7" G2 =B,/C/ |"Bb7" G2 B |"Eb" e3- | e z z |] %33
+w: gain I should|still fall in|love with|you.-||
+

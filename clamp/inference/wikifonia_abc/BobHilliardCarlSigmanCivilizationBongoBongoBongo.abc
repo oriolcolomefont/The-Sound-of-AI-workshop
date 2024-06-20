@@ -1,0 +1,27 @@
+X:1
+T:Civilization (Bongo, Bongo, Bongo)
+T:Civilization (Bongo, Bongo, Bongo)
+T:
+T:Music: Bob Hilliard
+T:Lyrics: Carl Sigman
+C:Bob Hilliard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" EEEE EEDC | EEEE EEDC | EGAG- G4- | G8 | ccBB AAGG | AAGG"C#dim" FFEE |"Dm7" G2 DD-"G7" D4- | %7
+w: Bon- go, bon- go, bon- go I don't|want to leave the Con- go, Oh, no,|no, no, no, no! _|_|Bin- gle, ban- gle, bun- gle, I'm so|hap- py in the jun- gle I re-|fuse to go. _|
+ D2 G2 G2 G2 |"Dm7" G2 D2"G9" E2 A,2 |"Dm7" G2 D2"G9" E2 A,2 |"Dm7" G>AFG-"G7""Dm7" G4- | %11
+w: _ Don't want no|bright lights, false teeth,|door- bells, land- lords,|I make it clear _|
+"Bbm6" G4"G7" z A2 G |"Dm7" B>BA>A"G7" G"G9" F3 | z2 F2"G7" E2 D2 |"C" C8- | C4 z2 EF | %16
+w: _ That, no|mat- ter how they coax me,|I'll stay right|here!|_ They have|
+ G G2 G F E2 G- |"Em" G6 EF |"Gm" G G2 G F E2 G- |"A7" G4 (3G2 G2 G2 |"Dm7" A G3- G4- | %21
+w: things like the a- tom bomb,|_ So, I|think I'll stay where I "um"|_ Ci- vi- li-|za- tion, _|
+"G7" G2 G2"Dm7" A2"Bdim" B2 |"C" c8- | c6 z2 |] %24
+w: _ I' stay right|here!|_|
+

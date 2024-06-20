@@ -1,0 +1,38 @@
+X:1
+T:Another Op'nin', Another Show
+T:Another Op'nin', Another Show
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^Allegro (very lively)" z2 B,2 |:"Eb" E2 B, E- | E E2 B, | E2 B, E- | E3 F | G2 E"Bb" G- | %6
+w: An-|oth- er op'-|* nin', an-|oth- er show|_ In|Phi- ly, Bos-|
+"Eb6" G G2 E | G2 E G- | G3"Bb7" A |"Eb" B2 G B- | B B2 G |"Bb7" B2 G B- | B3 B | %13
+w: * ton or|Bal- ti- moe,|_ A|chance for stage|_ folks to|say "hel- lo|_ an-|
+"Eb" e2 B"C7b9" _d- | d c"Fm7b5" B2 |"Bb7" A G2 F |"Eb" E2"Bb7" B,2 |"Eb" E2 B, E- | E E2 B, | %19
+w: oth- er op'-|* nin,' of|an- oth- er|show. An-|oth- er job|_ that you|
+ E2 B, E- | E3 F | G2 E"Bb" G- |"Eb6" G G2 E | G2 E G- | G3"Bb7" A |"Eb" B2 G B- | B B2 G | %27
+w: hope, at last,|_ Will|make your fu-|* ture for-|get your past,|_ An-|oth- er pain|_ where the|
+"Bb7" B2 G B- | B3 B |"Eb" e2 B"C7b9" _d- | d c"Fm7b5" B2 |"Bb7" A G2 F |"Eb" E2"D7" z2 | %33
+w: ul- cers grow,|_ An-|oth- er op'-|* nin' of|an- oth- er|show.|
+"Gm" d z z d- | d d2 B |"D7" d"C/E" d"Fm" d"D7/F#" c- |"D7" c4 |"Gm" B z z B- | B B2 G | %39
+w: Four weeks|_ you re-|herse and re- herse,|_|three weeks|_ and it|
+"Eb7/Db" B"Gm/D" B"Eb7" B"D7" =A- | A4 |"Gm" d z z d- | d d2 B |"C9" d"Bb/D" d"Gm/E" d"F" c- | %44
+w: could- n't be worse.|_|One week,|_ will it|ev- er be right?|
+ c3"F7" F |"Bb" B c"Bb/A" d f- |"Bb/Ab" f d"Gm7" f2 |"C7" B"F+7" _d2"Bb" B- | B2"Bb7" B,2 | %49
+w: _ Then|out o' the hat,|_ it's that|big first night!|_ the|
+"Eb" E2 B, E- | E E2 B, | E2 B, E- | E3 F | G2 E"Bb" G- |"Eb6" G G2 E | G2 E G- | G3"Bb7" A | %57
+w: ov- er- ture|_ is a-|bout to start,|_ You|cross your fin|_ gers and|hold your heart,|_ It's|
+"Eb" B2 G B- | B B2 G |"Edim7" B2 G"Bb7" B- | B3 B |1"Eb" e2 B"C7b9" _d- | d c"Fm7b5" =B2 | %63
+w: cur- tain time|_ and a-|way we go,|_ An-|oth- er op'-|* nin' of|
+"Bb7" A G2 F |"Eb" E2"Bb7" B,2 :|2"Eb" e2 B"C7b9" _d- | d c =B2 ||"F7" c f2 c | %68
+w: an- oth- er|show. An-|oth- er op'-|* nin', just|an- oth- er|
+"Fm7b5" e2 d"Fm6/Ab" c- | c B"Eb/C" e2- |"Eb/Cb""Eb/Bb" e4 |"Bb7""Bb7/C" f4- |"Bb7/Cb""Bb7" f4 | %73
+w: op'- nin' of-|* an oth-||er|_|
+"Eb" g4- | g4- | g4- | g z z2 |] %77
+w: show!|_|||
+

@@ -1,0 +1,39 @@
+X:1
+T:Baby I'm-A Want You
+T:Baby I'm-A Want You
+T:David Gates
+C:David Gates
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab" EEEEF2A2 z8 |"Bbm7/Ab" BBBBc2B2 z4 z cef- |"Abmaj7" f2ee- ec2e f2eB cBAA- | %3
+w: Ba- by I'm a want you.|Ba- by I'm a- need you. You're the on-|* ly one * I care * e- nough * * to hurt|
+"Db" A2cA- AEF2"Db/C" z8 |"Bbm7" AAAAB2c2 z4 z Bcd- |"Db/Eb" dc2d-d2cA- AEF2-F2A2 | %6
+w: * a- bout * * *|May- be I'm a cra- zy, but I just|* can't live * with- out * * * * your|
+"Ab" EEEEF2A2 z8 |"Bbm7/Ab" BBBBc2B2 z4 z cef |"Abmaj7" f2ee- ec2e- e2eB cBAA- | %9
+w: love- in' and af- fec- tion,|giv- in' me di- rec- tion like a guid-|* ing light * to help * me through * * my dark-|
+"Db" A2cA- AEF2"Db/C" z8 |"Bbm7" AAAAB2c2 z4 z Bcd- |"Db/Eb" d2cd-d2cA B2A2- AFEB- | %12
+w: * est ho- * ur. *|Late- ly I'm a pray- in' that you'll al-|* ways be * a- stay- * in' * be- * side|
+"Ab" BABF ABA2 z8 |"Cm7" ggggg2fg- g2fb- b2<a2 |"Eb/Db" g2>a2-"Db"a2f2- f4 z4 | %15
+w: * * * me * * *|used to be my life was just * e- mo- * tions|pass- ing * by *|
+"Cm" ggggg2fg- g2fb- b2<a2 |"Eb/Db" g2>a2-"Db"a2f2- f4 z4 |"Ab" EEEE FAA2- A8 | %18
+w: Feel- ing all the while and nev- * er real- * ly|know- ing * why. *||
+"Bbm7/Ab" z2 c2 cBAF A2>B2 ce2f |"Abmaj7" f4 eceb- ba z f z e z c |"Db" B2cBA2FE FA z F ECB,C | %21
+w: |||
+"Bbm7" AAAAB2c2 z4 z Bcd- |"Db/Eb" d2cd-d2cA B2A2- AFEB |"Ab" cABF ABA2 z4 z4 | %24
+w: Late- ly I'm a pray- in' that you'll al-|* ways be * a stay- * in * be- * side|* * * me * * *|
+"Cm" ggggg2fg- g2fb- b2<a2 |"Eb/Db" g2>a2-"Db"a2f2- f4 z4 |"Cm" ggggg2fg- g2fb- b2<a2 | %27
+w: Used to be my life was just * e- mo- * tions|pass- ing * by *|Then you came a- long and made * me laugh * and|
+"Eb/Db" g2>a2-"Db"a2f2- f4 z2"F7/A" e2 | e4"Bbm" f2"Db/Eb"d2- d4- dEF2 |"Ab" EEEEF2A2 z8 | %30
+w: made me * cry. * You|taught me why. * * * *|Ba- by I'm a- want you,|
+"Bbm7/Ab" BBBBc2B2 z8 |"Abmaj7" z8 z4 z efa- |"Gbmaj7/Ab" a2f2f2ea- a2=BB_B2AF |"Ab" EEEE EFA2 z8 | %34
+w: Ba- by I'm a- need you.|Oh, it took|* so long to find * you ba- * by, ba-|* by I'm a want * you|
+"Bbm7/Ab" BBBBc2B2 B2B2 cBAB |"Abmaj7" ceef e4- e2ef aeff |"Ab" a8 z8 |] %37
+w: Ba- by, I'm a need you. * * * * * *|||
+

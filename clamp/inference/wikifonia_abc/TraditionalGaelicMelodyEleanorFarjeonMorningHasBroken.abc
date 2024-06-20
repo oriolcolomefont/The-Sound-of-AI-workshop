@@ -1,0 +1,31 @@
+X:1
+T:Morning Has Broken
+T:Morning Has Broken
+T:Words Eleanor Farjeon Traditional Gaelic Melody
+C:Traditional Gaelic Melody
+Z:All Rights Reserved
+L:1/4
+Q:1/4=85
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z3 |"C" C E G |"Am" c3 |"D/F#" d3 |"G" B A G |"F" A3 |"C" G3 | C D E | %13
+w: ||||||Mor nig has|bro|ken|like the first|mor|ning|Black bird has|
+"Em" G3 |"F" A3 |"C/E" G E C |"Dm7" D3- |"G" D3 |"C" G E G |"Am" c3 |"F" A3 |"C" G E C |"Am" C3 | %23
+w: spo|ken|like the first|bird|_|praise for the|sing|ing|praise for the|morn|
+"Fm6/Ab" D3 |"C/G" E D E |"Em" G3 |"F" A3 |"G7" D E D |"C" C3- | C3 |"C" C E G |"Am" c3 | %32
+w: ing|praise for them|spring|ing|fresh from the|Word|_|Sweet the rain's|new|
+"D/F#" d3 |"G" B A G |"F" A3 |"C" G3 | C D E |"Em" G3 |"F" A3 |"C/E" G E C |"Dm7" D3- |"G" D3 | %42
+w: fall|sun lit from|hea|ven|like the first|dew|fall|on the first|grass|_|
+"C" G E G |"Am" c3 |"F" A3 |"C" G E C |"Am" C3 |"Fm6/Ab" D3 |"C/G" E D E |"Em" G3 |"F" A3 | %51
+w: praise for the|sweet|ness|of the wet|gar|den|sprung in com|plete|ness|
+"G7" D E D |"C" C3- | C3 |"C" C E G |"Am" c3 |"D/F#" d3 |"G" B A G |"F" A3 |"C" G3 | C D E | %61
+w: where His feet|pass|_|mine is the|sun|light|mine is the|mor|ning|born of the|
+"Em" G3 |"F" A3 |"C/E" G E C |"Dm7" D3- |"G" D3 |"C" G E G |"Am" c3 |"F" A3 |"C" G E C |"Am" C3 | %71
+w: one|light|e den saw|play|_|praise with e|la|tion|praise ev ery|morn|
+"Fm6/Ab" D3 |"C/G" E D E |"Em" G3 |"F" A3 |"G7" D E D |"C" C3- | C3 | z3 | z3 | z3 | z3 |] %82
+w: ing|God's re cre|a|tion|of the new|day|_|||||
+

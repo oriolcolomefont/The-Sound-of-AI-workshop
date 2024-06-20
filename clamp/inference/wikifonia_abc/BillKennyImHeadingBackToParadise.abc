@@ -1,0 +1,30 @@
+X:1
+T:I'm Heading Back To Paradise
+T:I'm Heading Back To Paradise 
+T:Bill Kenny 
+T:Bill Kenny 
+C:Bill Kenny
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z F GA |:"F#m7b5" B4- BAGF |"B7" A4- AB,_EF | A4-"B+7" AGFE |"^Emin" G4- GFGA |"F#m7b5" B4- BAGF | %6
+w: I'M HEAD- ING|BACK * TO PA- RA-|DISE * Sweet- heart I'm|co- * ming home to|you. * I'm tired of|roa- * ming on through|
+"B7" A4- AB,_EF | A4-"B+7" AGFG |"^Emin" E4- EE^GB |"E7" e4- edcB |"^Amin" c4- cDFA | %11
+w: life * my heart keeps|cry- * ing out for|you. * I've tra- veled|far * a- cross the|sea * in search of|
+"D7" d4- dcBA |"G" B4-"B7" BFGA |"F#m7b5" B4- BAGF |"B7" A4- AB,_EF | A4-"B+7" AGFG | %16
+w: fame * and for- tunes|told * the sands of|time * have beck- oned|me * and still I|strive * to reach my|
+"^Emin" E4 z4 |"^Amin" A6 AA |"F#m7b5""B7" c6 cc |"^Emin" BE- E4 z2 | z8 |"F#m7b5" F6 FF | %22
+w: goal.|Day af- ter|day I keep|won- dering *||while my poor|
+"B7" AA z2 z4 |"^Emin" GE- E4 z2 |"C7" GG"B7" z2 z FGA |"F#m7b5" B4- BAGF |"B7" A4- AB,_EF | %27
+w: heart beats'|thun- dering *|thun- dering Please take me|home * to hea- vens|blue * there let us|
+ A4-"B+7" AGFE |"Em" G4- GE^GB |"E7" e4- edcB |"Am" c4- cB,_EF |1"F#m7b5" B4-"B7" BAFG || %32
+w: live * our whole life|through * I'M HEA- DING|BACK * TO PA- RA-|DISE * sweet- heart I'm|co- * ming home to|
+"Em" E4- EFGA :|2"F#m7b5" B3 A"B7" F2"B+7" B2 ||"Em" e8 |] %35
+w: you * I'M HEA- DING|co- ming home to|you!|
+

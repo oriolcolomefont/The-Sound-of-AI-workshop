@@ -1,0 +1,19 @@
+X:1
+T:Lost Woods
+T:The Legend of Zelda: Lost Woods
+T:Koji Kondo
+C:Koji Kondo
+Z:All Rights Reserved
+L:1/8
+Q:1/4=140
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|: FA B2 FA B2 | FABe d2 Bc | BG E4- ED | EG E6 | FA B2 FA B2 | FABe d2 Bc | eB G4- GB | GD E6 | %8
+ DE F2 GA B2 | cB E6 | DE F2 GA B2 | cd e6 | DE F2 GA B2 | cB E6 | D-CF-E G-FA-G | %15
+ B-Ac-B d-c e/f/z/d/- | e8 | z8 :| z8 | z8 |] %20
+

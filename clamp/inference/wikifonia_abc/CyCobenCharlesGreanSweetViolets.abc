@@ -1,0 +1,33 @@
+X:1
+T:Sweet Violets
+T:Sweet Violets
+T:Cy Coben and Charles Grean
+C:Cy Coben, Charles Grean
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 C |:"F" F A C | F A C | A B A |"C7" G2 C | E G C | E G C | G A G |"F" F A C | F A C | A B A | %11
+w: There|once was a|farm- er who|took a young|miss in|back of the|barn where he|gave her a|lec- ture on|hors- es and|chick- ens and|
+w: (the)|girl tol the|farm- er that|he'd bet- ter|stop and|she called her|fath- er and|he called a|tax- i and|got there be-|fore ver- y|
+w: (the)|far- mer de-|cid- ed he'd|wed an- y|way and|start- ed in|plan- ning for|his wed- ding|suit which he|pur- chased for|on- ly one|
+"C7" G2 C | E G C | E G C | G A G |"F" F A C | F A C | A B A |"C7" G2 C | E G C | E G C | G A G | %22
+w: eggs and|told her that|she had such|beau- ti- ful|man- ners that|suit- ed a|girl of her|charms a|girl that he|want- ed to|take in his|
+w: long cause|some- one was|do- ing his|lit- tle girl|right for a|change and so|thats why he|said if|you mar- ry|her son you're|bet- ter off|
+w: buck but|then he found|out he was|just out of|mon- ey and|so he got|left in the|lurch *|stand- ing and|wait- ing in|front of the|
+"F" F A C | F A C | A B A |"C7" G3 | E G C | E G C | G A G ||"F" A3 |"Bb" F2"C7" G |"F" A3- | A3 | %33
+w: wash- ing and|iron- ing and|then if she|did|they could get|mar- ried and|raise lots of|Sweet|Vi- o-|lets||
+w: sing- le cause|its al- ways|been my be-|lief|Mar- riage will|bring a man|noth- ing but|||||
+w: end of this|sto- ry which|just goes to|show|all a girl|wants from a|man is his|||||
+ A2 A |"Bb" B2"F" A |"C7" A G2 |"Gm7" G G G |"C7" E E F |"Gm7" G2 G |"C7" E3 | c d c | B A G | %42
+w: Sweet- er|than the|ros- es|cov- ered all|o- ver from|head to|toe|cov- ered all|o- ver with|
+w: |||||||||
+w: |||||||||
+"F" A3 |"C7" A E G |1"F" F3- ||"F" F z C :|2"F" F3- || F z2 |] %48
+w: Sweet|V i o|lets|(2) the|lets||
+w: |||(3) the|||
+w: ||||||
+

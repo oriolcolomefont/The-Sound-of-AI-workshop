@@ -1,0 +1,18 @@
+X:1
+T:Cantaloupe Island
+T:Cantaloupe Island
+T:Herbie Hancock
+C:Herbie Hancock
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm7" z8 | z8 | z8 | z6 GG |:"Gm7" z4 Bc c2 | z2 z B cdFG- | G2 z2 z4 | z6 Gg |"Eb7" z4 Bc c2 | %9
+ z2 z B c_dFG- | G2 z2 z4 | z4 dfdf |"Em11" G3 G- G4- | G2 z2 dfdf | G3 G- G4- | G6 z2 |"Gm7" z8 | %17
+ z8 | z8 | z8 :| %20
+

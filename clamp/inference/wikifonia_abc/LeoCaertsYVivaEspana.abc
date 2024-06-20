@@ -1,0 +1,35 @@
+X:1
+T:Y Viva España
+T: Laukens Music Productions  
+T:Paso doble
+T:Leo Caerts
+T:EVIVA ESPANA
+T:2
+T:EVIVA ESPANA blad 2 van 
+T: Laukens Music Productions  
+C:Leo Caerts
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/4
+K:Gmin
+V:1 treble nm="Eviva Espana"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"D7" dc/d/ e2- | ed/c/ BA | (3G/A/G/ ^F/G/ A2- | AA/B/ cd |"Gm" BG/A/ Bc |"F" AB"Eb" GA | %6
+"D7" ^F z d z | D z GB ||S"Gm" dd dd | (3e/f/e/ d ^cd | (3e/f/e/ d3- | d(3d/e/d/ cB |"F" c A2 c | %13
+"Eb" B(3A/B/A/ GB |"D7" A4- | A2 GB |"Gm" dd dd | (3e/f/e/ d ^cd | (3e/f/e/ d3- | d(3d/e/d/ ^cd | %20
+"F" f c2 d |"Eb" f (3e/f/e/ dc |"D7" d4- | d3 d |"Eb" ee ee | ed c (3B/c/B/ |"D7" A4- | A3 A | %28
+"A7" B (3A/B/A/ ^GA | B (3A/B/A/ ^GA |"D7" d4- | d2 =B2 ||[K:G]"G" d2 d2 | ef e (3d/e/d/ | B4- | %35
+ B2 d2 | g4 |"Gdim" e2 f2 |"D7" (3d/e/d/ c3- | c2 c2 | e2 e2 | fg f (3e/f/e/ | c4- | c2 d2 | f4 | %45
+ g2 f2 |"G" (3e/f/e/ d3- | d2 B2 | d2 d2 | ef e (3d/e/d/ | B4- | B2 d2 | g4 |"Gdim" e2 f2 | %54
+"D7" (3d/e/d/ c3- | c2 c2 | e2 e2 | fg fe | c4- | c2 d2 | d2 c2 | _B2 A2O ||"Gm" GG/A/ _Bc | %63
+"F" A_B"Eb" GA |"D7" F2 d2 | D z z z |"D7" dc/d/ _e2- | ed/c/ _BA | (3G/A/G/ F/G/ A2- | AA/_B/ cd | %70
+"Gm" _BG/A/ Bc |"F" A_B"Eb" GA |"D7" F2 d2 | D z G_B!D.S.! ||O"G" GG/G/ GG | G z B2 | d2 d2 | %77
+ ef e (3d/e/d/ | B4- | B2 d2 | g4 |"Gdim" e2 f2 |"D7" (3d/e/d/ c3- | c2 c2 | e2 e2 | %85
+ fg f (3e/f/e/ | c4- | c2 d2 | f4 | g2 f2 |"G" (3e/f/e/ d3- | d2 B2 | d2 d2 | ef e (3d/e/d/ | B4- | %95
+ B2 d2 | g4 |"Gdim" e2 f2 |"D7" (3d/e/d/ c3- | c2 c2 | e2 e2 | fg fe | c4- | c2 d2 | d2 c2 | %105
+ _B2 A2 |"G" GG/G/ GG |"G" G"Ab"_A"Bb" _B"Ab"A |"G" G2 G>G | G4 |] %110
+

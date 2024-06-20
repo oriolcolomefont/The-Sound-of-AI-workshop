@@ -1,0 +1,22 @@
+X:1
+T:Jolly Old Saint Nicholas
+T:Jolly Old Saint Nicholas
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" dd dd |"F/A" cc c2 |"Gm" BB BB |"Dm/F" d4 |"Eb" GG GG |"Bb/D" FF d2 |"Cm" AB cd |"F7" c4 | %8
+w: Jol- ly old Saint|Nich- o- las|lean your ear this|way|Don't you tell a|sin- gle soul,|What I'm going to|say.|
+w: When the clock is|strik- ing twelve,|When I'm fast a-|sleep.|Down the chim- ney|broad and black,|With your pack you'll|creep.|
+w: John- ny wants a|pair of skates,|Su- zy wants a|sled.|Nel- lie wants a|pic- ture book,|Yel- low blue and|red.|
+"Bb" dd dd |"F/A" cc c2 |"Gm" BB BB |"Dm/F" d4 |"Eb" GG GG |"Bb/D" FF d2 |"F7" cB cd |"Bb" B4 |] %16
+w: Christ- as eve is|com- ing soon,|Now, you dear old|man,|Whis- per what you'll|bring to me;|Tell me if you|can.|
+w: All the stock- ings|you will find,|Hang- ing in a|row;|Mine will be the|short- est on,|You'll be sure to|know.|
+w: Now I think I'll|leave to you,|What to give the|rest;|Choose for me, dear|San- ta Clause,|You will know the|best.|
+

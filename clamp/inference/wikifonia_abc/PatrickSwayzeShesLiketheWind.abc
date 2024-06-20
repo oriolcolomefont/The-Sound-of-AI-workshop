@@ -1,0 +1,55 @@
+X:1
+T:She's Like the Wind
+T:She's like a wind
+T:JBB Sept 2012
+T:P.Swayze
+C:Patrick Swayze
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/16
+Q:1/4=60
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/8
+V:1
+"C" BAGG- G2 z2 z4 z2 AG |"Em" B4 z4 z8 |"C" BAGG- G2 z2 z4 z A2d |"Em" B4 z4 z4 z3 c | %4
+w: She's like the wind _ thru my|tree|She rides the night _ next to|me She|
+"C" BAGG- GA z2 BAGG- GAAG |"Em" B4 z4 z4 z3 B |"C" BAGG- G2>G2 Bddd- dd2B |"Em" e8 z6 BB | %8
+w: leads me thru moon- * light On- ly to burn _ me with the|sun She's|ta- king my heart _ But she does- n't know _ what she's|done Feel her|
+"Am7" Bccc- c2 z2 z4 z eee |"Bm7" e2dd- d2 z2 z6 B2 |"Am7" BAGG- G2 z2 z4 z3 e | %11
+w: breath in my face _ Her bo- dy|close to me _ Can't|look in her eyes _ She's|
+"Bm7" ed(dB) (e2d2-"D" d8) ||"G" z2 BA"Bm7/F#" B2BA"Em7" B2BB"G/D" B/A/G2A |"C2" E4 z4 z4 BAGG- || %14
+w: out of my _ league _ _|Just too fool to be- lieve I have an- y- thing she|needs She's like the wind|
+"C" G4 z4 z8 |"Em" z16 |"C" z16 |"Em" z8 z4 z3 B |"C" BAGG- GA z2 z3 B Bd2B- |"Em" B4 z4 z6 BB | %20
+w: |||I|look in the mir- * ror & all I see|_ Is a|
+"C" BA2G- G2 z2 z3 d ddBe- |"Em" e8 z4 z BBB |"C" Bccc- c2 z2 z3 d (3d2d2e2 |"Em" B4 z4 z8 | %24
+w: young old man _ with on- ly a dream|_ Am I just|fool- in' my- self _ it's just stop the|pain|
+"C" cccc- cB z2 z3 d d2B2 |"Em" e8 z6 BB |"Am7" Bccc- c2 z2 z4 z eee |"Bm7" e2dd- d2 z2 z6 B2 | %28
+w: Liv- ing with- out _ her I go in-|sane Feel her|breath in my face _ Her bo- dy|close to me _ Can't|
+"Am7" BAGG- GA z2 z4 z3 e |"Bm7" ed(dB) (e2d2-"D" d8) || %30
+w: look in her eyes _ _ She's|out of my _ league _ _|
+"G" z2 BA"Bm7/F#" B2BA"Em7" B2BB"G/D" B/A/G2A |"C2" E4 z4 z4 BAGG- ||[M:5/4]"C" G4 z4 z8"D" z4 | %33
+w: Just too fool to be- lieve I have an- y- thing she|needs She's like the wind||
+[M:4/4]"Em" z8 z6 BB |"Am7" Bccc- c2 z2 z4 z eee |"Bm7" e2dd- d2 z2 z6 B2 | %36
+w: Feel your|breath in my face _ Your bo- dy|close to me _ Can't|
+"Am7" BAGG- GA z2 z4 z3 e |"Bm7" ed(dB) (e2d2-"D" d8) |:"G" z2 BA"Bm7/F#" B2BA"Em7" B4"G/D" z4 | %39
+w: look in your eyes _ _ You're|out of my _ league _ _|Just too fool to be- lieve|
+"C" z2 B2"G/B" A2GG-"Am7" G2 z2"C/D" z4 :| %40
+w: She's like the wind _|
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 || x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 ||[M:5/4] x10 |[M:4/4] x8 | x8 | %35
+w: ||||||||||||||||
+ x8 | x8 | x8 |: z4 z g/e/ g/g/e/g/- | ga x6 :| %40
+w: |||(Just too fool to be- *||
+

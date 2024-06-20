@@ -1,0 +1,33 @@
+X:1
+T:High noon
+T:High Noon 
+T:(Do not forsake me)
+T:Dimitri Tiomkin
+T:Ned Washington
+C:Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" z C F G | A F B A | G F3- | F4 | z F G A |"F7" G F2 D- |"Bb" D4 |"Gm" G4 | z D G A | %9
+w: Do not for-|sake- me oh my|dar- lin||on this our|wed- ding day|||do not for-|
+ B G"C7" c B |"F" A4 |"Dm" d4 |"A" ^c4- | ^c4 |"C" c A/c/- c2- |"C7" c4 |"F" z C F G | A F B A | %18
+w: sake me oh my|dar-|lin|wait||wait a- long *||I do not|know what fate a-|
+ G F3- | F4 | z E F G |"F7" A F c F |"Bb" d4- |"D7" d4 |"Gm" z d d e | f f e d |"F" c F3- | %27
+w: waits me||I on- ly|know I must be|brave||and I must|face a man who|hates me|
+"F7" F4 |"Bb" z F F G |"F" A c3 |"Bb" z F F G |"F" A c3 |"Bb" z F F A |"F" c2 A x |"Gm" F2"C7" G2 | %35
+w: |or lie a|cow- ard|a cra- ven|cow- ard|or lie a|cow- ard-|in my|
+"F" F4- | F3 z ||"Bb" F F/F/ F F | F F A F |"F" F F/F/ F F | F F D C |"Bb" F F/F/ F F | F F A2 | %43
+w: grave||he made a vow while|in state pri- son|vowed it would be my|life or his an|Im not a- fraid of|death but oh|
+"F" c2 B A | G2"G" F D |"C" G3- G | c4 |"F" z C F G | A F B A | G F3- | F4 | z E F G | %52
+w: what would I|do if you|leave *|me?|do not for-|sake me oh my|dar- lin||al- though my|
+"F7" A F c F |"Bb" d4- |"D7" d4 |"Gm" z d d e | f f e d |"F" c F3 |"Bb" z F F G |"F" A c3 | %60
+w: love is true and|tried||do not for-|sake me oh my|dar- lin|al- though I'm|griev- in|
+"Bb" z F F G |"F" A c3 |"Bb" z F F A |"F" c2 A2 |"Gm" F2"C" G2 |"F" F4- | F3 z |"Bb" f d f2- | %68
+w: dont think of|leav- in|now that I|need you|by my|side||wait a- long|
+ f2 z2 |"F" f d f/d/ c- | c2 z2 |"Bb" F D F2- | F2 z2 | F F"F" c2- | c2 z2 |] %75
+w: |wait a- long * *||wait a- long||wait a- long-||
+

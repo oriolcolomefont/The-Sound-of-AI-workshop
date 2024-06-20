@@ -1,0 +1,31 @@
+X:1
+T:Cigareetes, Whusky & Wild, Wild Women
+T:Cigareetes, Whusky & Wild, Wild Women
+T:Tim Spencer
+C:Tim Spencer
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" G G G | G B B |"C" A G E |"G" D2 D | B B B | B A G |"A7" G F G |"D7" A2 D |"G" G G G | %9
+w: 1.....Once I was|hap- py and|had a good|wife, I|had e- nough|mon- ey to|last me for|life, I|met with a|
+w: 2.....Now I am|fee- ble and|bro- ken with|age, The|lines on my|face make a|well writ- ten|page, I'm|leav- ing this|
+w: 3.....Write on the|cross at the|head of my|grave, "For|wom- en and|whus- ky here|lies a poor|slave," Take|warn- ing dear|
+ G B B |"C" A G E |"G" D2 d | d d d | d c B |"D7" A G F |"G" G2 d/d/ |:"G" d2 d | B G G |"C" G2 G | %19
+w: gal, and we|went on a|spree, She|taught me to|smoke * and|drink * whus-|ky; Cig- a-|reetes and|whus- ky and|wild, wild|
+w: sto- ry, how|sad but how|true, On|wom- en and|whus- ky and|what they can|do; * *||||
+w: strang er, take|warn- ing dear|friend, Then|write in big|let- ters these|words at the|end; * *||||
+"G" E D d | d2 d || d B B |"A7" B A G |"D7" A3- | A3- | A3- | A2 d/d/ |"G" d2 d | B G G |"C" G2 G | %30
+w: wom- en They'll|drive you|cra- zy, They'll|drive you in-|sane|||* Cig- a-|reetes and|whus- ky and|wild, wild|
+w: |||||||||||
+w: |||||||||||
+"G" E D d | d2 d | d B B |"D7" A G F |"G" G3- | G3- | G3 :| %37
+w: wo- men, They'll|drive you|cra- zy, They'll|drive you in-|sane|||
+w: |||||||
+w: |||||||
+

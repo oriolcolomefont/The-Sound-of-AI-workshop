@@ -1,0 +1,28 @@
+X:1
+T:Jeepers Creepers
+T:Jeepers Creepers
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bm" B2"D" A2 |"Bm7" A2"G6" G2 |"D7" z/ A A/"D9" G"D7" F |"G6" E3/2 D/-"G" D2 |"Bm" B2"D7" A2 | %5
+w: Jeep- ers,|creep- ers!|Where'd you get those|peep- ers? *|Jeep- ers,|
+"Bm7" A2"G6" G2 |"D7" z/ A A/"D9" G"D7" F |"G" G4 |"Bm" B2"D" A2 |"Bm7" A2"G6" G2 | %10
+w: creep- ers!|Where' you get those|eyes?|Gosh all|git up!|
+"D7" z/ A A/"D9" G"D7" F |"G6" E3/2 D/-"G" D2 |"Bm" B2"D7" A2 |"Bm7" A2"G6" G2 | %14
+w: How'd they get so|lit up? _|Gosh all|get up!|
+"D7" z/ A A/"D9" G F |"G" G4 ||"Dm7" G2"G6" E2 |"C6" G4 |"Dm7" z/ G =F/ E"G7" D | %19
+w: How'd they get that|size?|Gol- ly|gee!|When you turn those|
+"Cmaj7" B,"C" C/A,/-"C6" A,2 |"Em7" A2"F#m" F2 |"D6" A4 |"Em7" z/ A G/"F#m" F"A7" E | %23
+w: heat- ers on, _|woe is|me!|Got to put my|
+"D9" E"D7" F/D/- D2 |"Bm" B2"D7" A2 |"Bm7" A2"G6" G2 |"D7" z/ A A/"D9" G"D7" F | %27
+w: cheat- ers on, _|jeep- ers,|creep- ers!|Where'd you get those|
+"G6" E3/2 D/-"G" D2 |"Bm" B2"D7" A2 |"Bm7" A2"G6" G2 |"D7" z/ A A/"D9" G"D7" F |"G" G2"Bm" B2 | %32
+w: peep- ers? _|Oh! Those|weep- ers!|How they hyp- no-|tize! Oh|
+"Am7" z/ A A/"D9" G"D7" F |1"G" G3 z :|2"G" G3 z |] %35
+w: where'd you get those|eyes?|eyes?|
+

@@ -1,0 +1,42 @@
+X:1
+T:IK MEEN 'T
+T: Laukens Music Productions  
+T:Foxtrot
+T:IK MEEN 'T
+T:Arr. H. Laukens
+T:7-4 A3-2
+T:29
+T:2
+T:IK MEEN 'T blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=125
+M:4/4
+K:C
+V:1 treble nm="Ik Meen 't"
+%%MIDI channel 4
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" [EGc]8 |"F" [FAc]8 |"Fm" [F_Ac]8 |"C" [EGc]8 ||"C" ee ee gg ge |"E7" e<d- d6 | %6
+"Am" cc cd ee ec |"Gm" c<_B- B6 |"F" AA A<B cd cA |"C" G2- GG"D7" A c3- | c2 ee ee ec | %11
+"G" [GB]2"Am7" [Ac]2"Gdim" [^A^c]2"G7" [Bd]2 |"C" ee ee gg ge |"E7" e<d- d6 |"Am" cc cd ee ec | %15
+"Gm" c<_B- B6 |"F" AA A<B cd cA |"C" G2- Ge e A3- |"D7" A2 ee"G7" ee ec |"C" c8- |"F" c2 cc cA cc | %21
+"G7" d8- |"F" dc cA c2- c/a/g |"Em" g>e- e6- |"F" e2 aa aa ba |"C" g2 gf"Am" ed c2- | %26
+"F" cc cc"Dm7" dc Bc |"Dm9" e2 d2 c>d- d2- |"G7" d8 |"C" ee ee gg ge |"E7" e<d- d6 | %31
+"Am" cc cd ee ec |"Gm7" c<_B- B6 |"F" AA A<B cd cA |"C" G2- GG A c3- | c2 ee ee ec | %36
+"G" [GB]2"Am7" [Ac]2"Gdim" [^A^c]2"G7" [Bd]2 |"C" ee ee gg ge |"E7" e<d- d6 |"Am" cc cd ee ec | %40
+"Gm" c<_B- B6 |"F" AA A<B cd cA |"C" G2- G/e/e e A3- |"D7" A2 ee"G7" ee ec |"C" c8- |"F" c8 | %46
+"Fm6" d8 |"G#7" ^d8 ||[K:Db]"Db" ff ff aa af |"F7" f<e- e6 |"Bbm" dd de ff fd |"Abm" d<_c- c6 | %52
+"Gb" BB B<c de dB |"Db" A2- AA"Eb7" B d3- | d2 ff ff fd | %55
+"Ab" [Ac]2"Bbm7" [Bd]2"Abdim" [=B=d]2"Ab7" [ce]2 |"Db" ff ff aa af |"F7" f<e- e6 | %58
+"Bbm" dd de ff fd |"Abm" d<_c- c6 |"Gb" BB B<c de dB |"Db" A2- Af f B3- |"Eb7" B2 ff"Ab7" ff fd | %63
+"Db" d8- | d8 |:"Db" ff ff aa af |"F7" f<e- e6 |"Bbm" dd de ff fd |"Abm7" d<_c- c6 | %69
+"Gb""^fade out" BB B<c de dB |"Db" A2- AA B d3- | d2 ff ff fd | %72
+"Ab" [Ac]2"Bbm7" [Bd]2"Abdim" [=B=d]2"Ab7" [ce]2 |"Db" ff ff aa af |"F7" f<e- e6 | %75
+"Bbm" dd de ff fd |"Abm" d<_c- c6 |"Gb" BB B<c de dB |"Db" A2- A/f/f f B3- | %79
+"Eb7" B2 ff"Ab7" ff fd |"Db""^Herhalen, dan fade out" d8- | d8 :| %82
+

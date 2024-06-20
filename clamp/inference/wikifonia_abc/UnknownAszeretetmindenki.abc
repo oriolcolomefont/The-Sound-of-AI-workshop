@@ -1,0 +1,17 @@
+X:1
+T:A szeretet mindenkié
+T: 
+C:Unknown
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 z G, |"C" C/C/ C C/ D E/ | C3 C |"G" D/D/ D D/ E F/ | D3 D |"C" E E E/E/F/G/ |"F" G F C D | %7
+w: A|sze- re- tet min- den- ki-|é, a|sze- re- tet min- den- ki-|é, csak|meg kell ke- res- ni a|for- rás- sát, a|
+"C" E/E/ E"G" D/ D D/ |"C" C4 |] %9
+w: sze- re- tet min- den- ki-|é.|
+

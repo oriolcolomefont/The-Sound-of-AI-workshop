@@ -1,0 +1,36 @@
+X:1
+T:Circle In The Sand
+C:Rick Knowles
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" G4"Gsus4" F4 |"Gm" G2 G-D D2 z2 |"Eb" GAGF"F" D2 CD- |"Gm" D8 |"Gm" G4"Gsus4" F2 FF | %5
+w: 1.Sun down|all a _ round|walk ing thru the sum mer's end|_|Waves crash ba by,|
+w: 2.Cold wind|tide moves _ in|shiv ers in the salt ty air.|_|Day breaks _ _|
+"Gm" G2 G-D D4 |"Eb" GAGF"F" D2 D-F |"Gm" G8 |"Dm7" D2 F2 G2 GB |"Eb6" c2 B2 G2 F-G |"Cm" G6- Gd- | %11
+w: don't look _ back|I won't walk a way a _|gain|OH _ _ ba by|an y where you _|go _ We|
+w: My heart _ aches|I will wait for you right _|here.|Oh _ _ ba by|when you look for _|me _ can|
+"Fsus4" dccB"F" c2 d2 |"Dm7" D2 F2 G2 GB |"Eb6" c2 B2 G2- (3:2:2G2 d- |"Cm7" (3:2:2d2 c cB c2 d2- | %15
+w: _ are bound to geth er|I be gin ba by,|where you end _ some|_ things are for ev er|
+w: _ you see for ev er?|I be gin ba by,|where you end, _ We|_ be long to geth er.|
+"F9" d8 | z4 DFGB |"Gm" B- G3"Dm" F2 C-D |"Gm" D4"Dm" DFGB |"Gm" G2 G2"Dm" A2 A-B |"Gm" B6- Bd | %21
+w: _||||||
+w: _|CIR CLE IN THE|Sand _ round and _|round nev er end ing|love is what we've _|found. _ And|
+"Ebmaj7" d3 B B2 GG- |"F/Eb" G2 FF- F2 d>d- |"Ebmaj7" d2 BB- B2 d-c |"F" c2 z2 DFGB | %25
+w: ||||
+w: you com plete the heart|_ of me _ Our love|_ is all _ we _|need. CIR CLE IN THE|
+"Gm" BG-"Dm" G6 | z2 z A-"Dm" BAGF |"Gm" GA"Dm" G6 |: %28
+w: |||
+w: SAND _ _|CIR _ CLE IN THE|SAND _ _|
+"Gm" [Bdg]2 [Bdg]"Eb"[G-B-_e] [_G__Be]"F" [FAc]2 z | z4 dffd | %30
+w: |Ba by can you|
+w: _ _ _ _ _|Can you hear me|
+"F" [Acf]3"Eb" [B_eg-] [Beg]2"Gm" [Bdg]2- | [Bdg]8 | z8 :| %33
+w: hear me? _ _|_||
+w: call ling? _ _|_||
+

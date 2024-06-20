@@ -1,0 +1,24 @@
+X:1
+T:With These Hands
+T:With these hands
+C:Abner Silver
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" C C C2- |"Am" C2 B, C |"Dm" E3/2 D/ D2- |"G7" D2 z2 |"C" z E E E | E E ^D E |"Dm" A4- | %7
+w: With these hands|_ I will|cling to you|_|I'm yours for-|ev- er and a|day|
+"G7" A4 |"C7" G G G2- | G z ^F G |"F" B3/2 A/ A2- |"Em" A4 |"A7" z"Dm" E E E | E F G3/2 F/ | %14
+w: _|with these hands|_ I will|bring to you|_|a ten- der|love as warm as|
+"Dm" D4- |"G7" D4 |"C" C C C2- |"Am" C2 B, C |"Dm" E3/2 D/ D2- |"G7" D4 |"C" z E E E | %21
+w: May|_|with this heart|_ I will|sing to you|_|long af- ter|
+"C" E E ^D E |"Dm" A4- |"E7" A2 B2 |"Am" c c c2- |"Fm" c2 B c |"C" d3/2 c/ c2- |"Am" c2 B c | %28
+w: stars have lost their|glow|_ and|with these hands|_ I'll pro-|vide for you|_ should there|
+"D7" d c c B |"Fm" d c c B |"C" d3/2 c/ c2- | c2 d A |"C" G2 C2- |"F" C2 B A |"Em" G2"Am" C2 | %35
+w: be a storm- y|sea, I'll turn the|tide for you|_ and I'll|nev- er|_ no I'll|nev- er|
+"Dm" E3"G7" D |"C" C3 z |] %37
+w: let you|go|
+

@@ -1,0 +1,17 @@
+X:1
+T:So What
+C:Miles Davis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI program 0
+V:1
+ z"^bass 8va bassa" DAB cdec |:"Dm7" d4"^reply" B2>A2 | z"^bass 8va bassa" DAB cdec | %3
+d A3"^reply" B2>A2 | z"^bass 8va bassa" DAB cdec | d4"^reply" B2>A2 | z"^bass 8va bassa" e3 e2 e2 | %7
+d A3"^reply" B2>A2 |1O z"^bass 8va bassa" DAB cdec :|2 z"^bass 8va bassa" _E_Bc _d_efd || %10
+"Ebm7" _e4"^reply" c2>_B2 | z"^bass 8va bassa" _E_Bc _d_efd |_e _B3"^reply" c2>B2 | %13
+ z"^bass 8va bassa" _E_Bc _d_efd | _e4"^reply" c2>_B2 | z"^bass 8va bassa" f3 f2 f2 | %16
+_e _B3"^reply" c2>B2 | z"^bass 8va bassa" DAB cde"^D.S. al Fine"c |]O"Dm7" z8 |] %19
+

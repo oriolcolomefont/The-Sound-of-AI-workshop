@@ -1,0 +1,30 @@
+X:1
+T:A Man Called Peter
+T:A Man Called Peter
+T:Charles Tobias,Max Stein & Ken Sloan
+C:Charles Tobias,Max Stein & Ken Sloan
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z C |:"F" A G"F+" F E |"Bb" G D- D D/D/ |"Gm" G F"C7" E D |"F""C7""F" C3 C |"F7" c c B A |1 %6
+w: I|met a man called|Pe- ter * when my|dreams had gone a-|stray, and|as I talked with|
+w: |kind and hum- ble|man was he * who|set my heart a-|glow, some-|how I found in|
+"Bb" G D2 F ||"G7" A F E F |"C7" G3 C :|2"Bb" G D D3/2 F/ ||"G7" A G"C7" F G |"F" F3 F | %12
+w: Pet- er my|cares just stole a-|way. A|ev- 'ry word the|faith I need- ed|so. Con-|
+w: ||||||
+"Bb" B B B B |"Dm" d A2 A |"Eb" G B"F7" A G |"Bb""F7""Bb" F3 F |"A7" E E G G |"Dm" F F A A/A/ | %18
+w: tent- ment I was|seek- ing to|make my life worth-|while, and|sud- den- ly my|soul was free and my|
+w: ||||||
+"G7" =B B A B |"C7" c3 C |"F" A G"F+" F E |"Bb" G D2 D |"Gm" G F"C7" E D |"F""C7""F" C3 C | %24
+w: heart be- gan to|smile. Some-|where this man called|Pet- er helps|peo- ple just like|me, If|
+w: ||||||
+"F7" c c B A |"Bb" G B2 F/G/ |"F/C" A"Dm" F"Gm7" d"C7" E |"F" F3 z |] %28
+w: there were more like|Pet- er, what as|great world this would|be.|
+w: ||||
+

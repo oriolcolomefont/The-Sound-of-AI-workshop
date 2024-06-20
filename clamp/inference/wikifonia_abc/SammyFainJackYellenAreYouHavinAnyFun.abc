@@ -1,0 +1,30 @@
+X:1
+T:Are You Havin' Any Fun
+T:Are You Havin' Any Fun
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 F>F G>GD>D |:"Bb""F7" F8- |"Bb" F z F>F G>GF>F |"F" c3 F-"Cm7" F4 | %4
+w: Are you hav- in' an- y|fun?|_ What y' get- tin' out o'|liv- in'? _|
+"F7" z2 F2"Edim" G2"Gb7" _G2 |"F7" F e2 c- c A2 F | E4 F>Ac>A |"Bb""Eb6" B8- | %8
+w: What good is|what you've got _ if you're|not hav- in' an- y|fun?|
+"^N.C." B z F>F G>GD>D |"Bb""F7" F8- |"Bb" F z F>F G>GF>F |"F7" c3 F-"Cm7" F4- | %12
+w: _ Are you hav- in' an- y|laughs?|_ Are you get- tin' an- y|lov- in'? _|
+"F7" F z F2"Edim" G2"Gb7" _G2 |"F7" F e2 c- c A2 F | E4 F>Ac>A |"Bb""Eb6" B8 |"Bb" z2 B2 B2 B2 | %17
+w: _ If oth- er|peo- ple do _ so can|you; have a lit- tle|fun.|Af- ter the|
+"Ebm7" _d2 Bc- c2 B2 | _d4- d d2 c |"Bbm" B2 F2 _D E2 F- | F2 B2 B2 B2 |"Edim" _d2 B2 c B2 d- | %22
+w: hon- ey's in _ the|comb _ lit- tle|bees go out and play;|_ E- ven the|old gray mare down home|
+"C7" d6 B2 |"F7" AA"C7" B2"F7" c4 | f"^N.C." z F>F G>GD>D |"Bb""F7" F8- |"Bb" F z F>F G>GF>F | %27
+w: _ has|got to have hay.|Hey! Bet- ter have a lit- tle|fun.|_ You ain't gon- na live for-|
+"F7" c3 F-"Cm7" F4 |"F7" z2 F2"Edim" G2"Gb7" _G2 |"F7" F2 ec- c4 |"Dm7" c2"G7" =Bd- d4 | %31
+w: ev- er; _|Be- fore you're|old and gray _|still o- kay. _|
+"Cm" z e2 c"F7" B2 A2 |"Bb" B4"G7" d4 |"Cm7" z e2 c"F7" B2 A2 |1"Bb" B z F>F G>GD>D :|2 %35
+w: Have your lit- tle|fun, son!|Have your lit- tle|fun! Are you hav- in' an- y|
+"Bb" B2 z2 z4 |] %36
+w: fun!|
+

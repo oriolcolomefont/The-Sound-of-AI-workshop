@@ -1,0 +1,24 @@
+X:1
+T:Buona Sera
+T:Buona Sera
+C:Peter De Rose
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 EF |:"C" G>GG>G A>AA>A | A G3 z2 E>F | G>GG>G c>cB>G |"G7" F4- F z D>E | %5
+w: Buon- a|se- ra, Si- gno- ri- na, buon- a|se- ra. It is|time to say good- night to Na- po|li, _ though it's|
+"Dm7" F>FF>F"G7" Fd- (3dcA | c B3 z3/2 d<cA/ | c>BB>A (3AAA G>F |"C" E4- E z E>F | %9
+w: hard for us to whis- per, * "Buon- a|se- ra," with that old|moon a- bove the Med- i- ter- ra- nean|Sea. _ In the|
+"C" G>GG>G A>AA>A | A G3 z2 E>F |"C" G>GG>G"C7" e>ed>c |"F" A4- A z c>c | c>cc>c"Fm" c>c_B>_A | %14
+w: morn- ing, Si- gno- ri- na, we'll go|walk- ing where the|moun- tains and the sand come in- to|sight. _ By the|lit- tle jewel- 'ry shop we'll stop and|
+"C" _A G3 z2"Cdim" =A>G |"G7" G>FF>E F2"G+" B>G |"C" B G3 z2 c>d |"C7" e>ee>e e>ed>c | %18
+w: ling- er While I|buy a wed- ding ring for your|fin- ger. In the|mean- time let me tell you that I|
+"F" d A3 z2 c>A |"C" cG- (3Gcc"G7" BG (3GAB |1"C" c6 EF :|2"C" c6 GG ||"C" BB- (3BBB"G7" BG (3GAB | %23
+w: love you, Buon- a|se- ra _ si- gno- ri- na kiss me good|night. Buon- a|night. Buon- a|se- ra _ si- gno- ri- na kiss me good|
+"C" c2"G7" z2"C" z4 |] %24
+w: night.|
+

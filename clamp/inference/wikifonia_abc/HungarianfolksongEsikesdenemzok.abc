@@ -1,0 +1,15 @@
+X:1
+T:Esik eső, de nem ázok
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E2 E2 EDCB, | C4 A,4 | D2 D2 DB,CD | E4 E2 z2 | E2 C2 ECEA | (G3 F) E3 E | D2 F2 EDCB, | %7
+w: Es- ik es- ő, de nem|á- zok,|cse- resz- nye- fa a- lá|ál lok,|O- da is csak a- zért|ál- * lok, mert|ar- ra men- nek el a|
+ A,4 A,2 z2 |] %8
+w: lá- nyok.-|
+

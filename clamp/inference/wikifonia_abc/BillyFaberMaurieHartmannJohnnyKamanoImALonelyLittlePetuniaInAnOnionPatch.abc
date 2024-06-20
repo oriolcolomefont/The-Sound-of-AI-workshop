@@ -1,0 +1,21 @@
+X:1
+T:I'm A Lonely Little Petunia In An Onion Patch
+T:I'm a lonely little petunia in an onion patch
+T:Imogen Heap
+C:Billy Faber, Maurie Hartmann, Johnny Kamano
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E F |"C" G G G/G/ G | G e d c |"F" d F A3/2 A/ |"G7" B B B A |"C" A G G E/F/ | G G G/G/ G | %7
+w: I'm a|lone- ly lit- tle Pe-|tun- ia in an|on- ion patch, an|on- ion patch, an|on- ion patch I'm a|lone- ly lit- tle Pe|
+ G e d c |"F" d F A c |"G7" B B B B | A B"C" c2- | c3 c |"F" A3 c |"C" G3 c |"D7" d d d d | %15
+w: tun- ia in an|on- ion patch oh|wont you come and|play with me|* Boo-|hoo boo|hoo oh|wont you come and|
+ d A B c |"G7" d3 E/F/ |"C" G G G/G/ G | G e d c |"F" d F A3/2 A/ |"G7" B B B A | A B"C" c2- | %22
+w: play- ay- ay with|me I'm a|lone- ly lit- tle Pe-|tunia in an on-|ion patch oh wont|you come and play-|ay with me|
+ c3 z | z4 |] %24
+w: ||
+

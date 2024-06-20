@@ -1,0 +1,32 @@
+X:1
+T:Ciribiribin
+T:Ciribiribin
+T:Alberto Pestalozza
+T:Jack Lawrence
+C:Alberto Pestalozza
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 cBAG |"C7" B4 c=B_BA |"F" c4 c=B_BA |"C7" c8- | c4 c2 A2 ||"F" G6 F2 | E6 F2 | DE C6- | %8
+w: ||||* When the|moon hangs|low in|Na- po- li,|
+ C4 F2 G2 | A6 c2 | d6 f2 |"C7" e8- | e4 e2 g2 | d6 f2 | e6 d2 | ed G6- | G4 G2 A2 | B6 c2 | %18
+w: * there's a|hand- some|gon- do-|lier|* Ev- 'ry|night he|sings so|hap- pi- ly,|* so his|la- dy|
+ d6 e2 |"F" c8- | c4 c2 A2 | G6 F2 | E6 F2 | DE C6- | C4 c2 d2 |"D7" _e6 d2 | _e6 d2 |"Gm" d8- | %28
+w: love can|hear.|* In a|man- ner|oh grav-|iss- i mo,|* he re-|peats his|ser- en-|ade,|
+ d4 G2 A2 |"C7" B6 A2 | G6 d2 |"F" cA F6- | F4 F2 G2 | A2 c4 A2 |"C7" G6 c2 |"F" F8- | F4 c=B_BA | %37
+w: * And his|heart beats|so for-|tiss- i- mo,|* when she|rais- es her|Ven- etian|shade.|* Ci- ri- bi- ri-|
+"C7" c4 c=B_BA |"F" c4 c=B_BA |"C7" c8- | c4 cBAG |"F" c6 A2 | G6 F2 | C6 F2 | G6 F2 | C6 A2 | %46
+w: bin, ci- ri- bi- ri-|bin, ci- ri- bi- ri|bin.|* Ci- ri- bi- ri-|bin, he|waits for|her each|night be-|neath her|
+ G6 F2 |"C7" B8- | B4 d_dcB | e6 d2 | B6 A2 | G6 G2 | A6 G2 | d6 f2 | e6 d2 |"F" d4 c=B_BA | %56
+w: bal- co-|ny.|* Ci- ri- bi- ri|bin, he|begs to|hold her|tight, but|no, she|won't a-|gree. Ci- ri- bi- ri-|
+"F" c6 A2 | G6 F2 | C6 F2 | G6 F2 | C6 A2 |"F7" G6 F2 |"Bb" d8- | d4"Fdim" ed^cd |"F" f8- | %65
+w: bin, she|throws a|rose and|blows a|kiss from|up a-|bove,|* Ci- ri- bi- ri-|bin,|
+ f4"Fdim" ed^cd |"F" f8- | f4"G9" AG^FG |"C7" B6 E2 | A6 G2 |"F""Bb" F8- |"F" F4 z4 |] %72
+w: * ci- r- bi- ri-|bin|* ci- ri- bi- ri-|bin, they're|so in|love.-||
+

@@ -1,0 +1,25 @@
+X:1
+T:Melody Of Love
+T:Melody of Love
+T:unknown
+C:Hans Engelmann
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" C2 D | E2 F |"D" B3 |"D7" A3 |"G7" A3 | G3 | D3- | D3 |"C" E2 F | ^F2 G | e3 | d3 |"F" c3 | %13
+w: Hold me|in your|arms|dear|dream|with|me||Crad- led|by your|kiss-|es|ten-|
+ c3 |"C7" c3- | c2 z |"F" C2 D | E2 F |"D" B3 |"D7" A3 |"G7" A3 | G3 | D3- | D3 |"C7" E2 c | %25
+w: der-|ly||while a|choir of|an|gels|from|a-|bove||sings our|
+"Gm7" B2 D |"C" A3 |"C7" G3 |"F" F3- |"Bb" F3- |"F" F3 |"C7" c/B/ G/E/ D/_D/ |"F" C2 D | E2 F | %34
+w: mel- o-|dy|of|love||||heart to|heart for-|
+"D" B3 |"D7" A3 |"G7" A3 | G3 | D3- | D3 |"C7" E2 F | ^F2 G | e3 | d3 |"F" c3 | c3 |"C7" c3- | %47
+w: ev-|er|lips|en-|twine||I am|yours and|you|are|mine|all|mine|
+ c/B/ G/E/ D/_D/ |"G" C2 D | E2 F |"D" B3 |"D7" A3 |"G7" A3 | G3 | D3- | D3 |"C7" E2 c | %57
+w: |heav- en|wrote the|mu-|sic|up|a-|bove||for our|
+"Gm7" B2 D |"C" A3 |"C7" G3 |"F" F3- |"Bb" F3- |"^F" F3- | F z2 | z3 |] %65
+w: ~mel- o-|dy|of|love.|||||
+

@@ -1,0 +1,29 @@
+X:1
+T:Come, Holy Ghost
+T:Come, Holy Ghost
+C:Louis Lambillotte
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C C C |"F" F3 |"C" G G G | A3 | A"Fsus2" G"F" A | (c"Fsus4" B)"F" A |"Bbmaj7" (A B) A |"C" G3 | %8
+w: 1.~Come, Ho- ly|Ghost,|Cre- a- tor|blest,|And in our|hearts _ take|up _ Thy|rest.|
+w: 2~.~~~~O Com- for-|ter,|to Thee we|cry,|Thou heav'n- ly|gift _ of|God _ most|high;|
+w: 3.~~~~~O Ho- ly|Ghost,|Thru' Thee a-|lone,|Know we the|Fa- * ther|and _ the|Son;|
+w: 4.~Praise be to|Thee,|Fa- ther and|Son,|And Ho- ly|Spi- * it,|with _ them|one;|
+"F/C" C C"C7" C |"F" F3 |"Csus4" G G"C" G |"F" A3 | c"C" c"F" c |"Bb" d2 (c/B/) |"F/C" A2"C7" G | %15
+w: Come with Thy|grace,|and heav'n- ly|aid|To fill the|hearts which _|Thou hast|
+w: Thou font of|love,|and fire of|love,|And sweet an-|noint- ing _|from a-|
+w: Be this our|firm,|un- chang- ing|creed:|That Thou dost|from Them _|both pro-|
+w: And may the|Son,|on us be-|stow,|The gifts that|from the _|Spi- rit|
+"F" c3 | c"C" c"F7" c |"Bb" d2 (c/B/) |"F/C" A2"C7" G |"F" F3 |] %20
+w: made;|To fill the|hearts which _|Thous hast|made.|
+w: bove:|And sweet an-|noint- ing _|from a-|bove.|
+w: ceed;|That Thou dost|from Them _|both pro-|ceed.|
+w: flow:|The gifts that|from the _|Spir- it|flow.|
+

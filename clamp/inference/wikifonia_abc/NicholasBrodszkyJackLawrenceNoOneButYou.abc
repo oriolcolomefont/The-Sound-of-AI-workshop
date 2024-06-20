@@ -1,0 +1,26 @@
+X:1
+T:No One But You
+T:No One But You
+T:Nicholas Brodszky
+T:Jack Lawrence
+C:Nicholas Brodszky
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B cB |:"G" c3 B AG | A3 G FE |"Gmaj7" F6- | F3 G AG |"G" A3 G FE | F3 E DC |"E7" E6- | E6 | %9
+w: No One But|You could take my|heart be- fore you|came.|* No one but|you could make my|heart burst in- to|flame.||
+"Am" E=F FE"Am7" EG | G2"D7" F4 |"G" FG GF FA |"Em7" A2 G4 |"A7" GA AG GB |"Em7" B2"A7" A3 G | %15
+w: Now I hear my- self con-|fess- ing|All the dreams I've been sup-|press- ing,|All at once my lips are|bless- ing your|
+"Am7" A6- |"D9" A3 B cB |"G" c3 B AG | A3 G FE |"Gmaj7" F6- | F3 G AG |"G" A3 G FE | F3 E DC | %23
+w: name.|* Your hands are|cool, your eyes are|warm, your smile is|bliss.|* I'd be a|fool to fear the|storm that's in your|
+"E7" E6 | E6 |"Am" E=F FE"Am7" EG | G2"D7" F4 |"G" A2"F#7" F2"C9" G2 |"Dm6" d3 B"E7" cB | %29
+w: kiss||Let your kiss de- stroy or|save me,|so shall it|be! Till life is|
+"Am7" c3 B AG | A4"D7" B2 |1"G""Em7" G6- ||"Am7" G z z B"D7b9" cB :|2"G""F" G6- ||"G" G4 z2 |] %35
+w: thru' No One But|You for|me.|* No One But|me-||
+

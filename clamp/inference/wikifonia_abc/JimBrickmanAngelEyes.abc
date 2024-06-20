@@ -1,0 +1,30 @@
+X:1
+T:Angel Eyes
+T:Angel Eyes
+C:Jim Brickman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z2 ee- eegg- |"G" g2 d2"Am9" e4 |"F" z2 cc- cded- |"G" d2 c2"C" c4 | z2 z e- efgg- | %5
+"G" g2 d2"Am9" e4 |"F" z2 cc- cded- |"G" d6 z c |"F9" c3 G- G2 c2 | A, C2 G- G D2 G- |"G9" G8 | %11
+ D2 G,B,- B, G2 D- |"C" D2 EE- EFGG- |"G" G2 D2"Am9" E4 |"F" z2 cc- cded- |"G" d2 c2"C" c4 | %16
+ z2 z e- efgg- |"G" g2 d2"Am9" e4 |"F" z2 cc- cded- |"G" d6 z c |"F9" g2 cc-"G" c2 gg- | %21
+"Am7" g B2 c- c2 A2 |"F" c2 ed-"G" d2 ee- |"C" e4- e C2 D |"F9" G2 CC-"G" C2 GG- | %25
+"Am7" G B,2 C- C4 |"F" c2 cB-"Em7" Bc"Dm7" A2- | A6 CF | A2 AG- GG G2- |"G" G8- | G4- G G2 G | %31
+"C" z2 ee- eegg- |"G" g2 d2"Am9" e4 |"F" z2 cc- cded- |"G" d2 c2"C" c4 | z2 EE- EFGG- | %36
+"G" G2 B2"Am" c4 |"F" z2 cc- cBA"G"B- | B2 d2"Am" e4 |"F" c2"Em7" cB- BB"Dm7" A2- | A8 | %41
+ A2 AG G2 G2 |"G" G8 ||[K:G] z dbb- bc'd'"Em9"d'- | d' d'2"C9" d'- d'4 | z2 EE- EFGG- | %46
+"D7sus4" G2"D7" F2"G" G4 | z2 BB- Bcdd- |"Bm7" d2 d2"Cmaj9" d4 | z2 ee- efg"Dsus4"g- | %50
+ g4- g"D" f3 |"Em" g4 G B3 | B2 B"D"A- AA"C" G2- | G8 | G2 G"D/C"F- F D3 |"D" D4 D4 | D8 | %57
+"G" z2 bb- bc'd'"D"d'- | d'2 f2"Em" g4 |"C" z2 ee- efg"Dsus4"g- | g2"D" f2"G" g4 | %61
+[K:C]"C" z2 ee- efg"G"g- | g2 d2"Am9" e4 |"F" z2 cc- cde"G"d- | d4- d c2 G |"F9" g2 cc-"G" c2 gg- | %66
+"Am7" g B2 c- c G3 |"F" c2 ed-"G" d2 e"C"e- | e8 |"F9" g2 cc-"G" c2 gg- |"Am7" g2 B2 c4 | %71
+"F" c2 c"Em7"B- BB"Dm7" A2- | A8 | A2 G"Dm7"G- G A3 |"G7sus4" G4"G" B4 |"C" c2 EE- EFGG- | %76
+"G" G2 D2"Am" E4 |"F" z2 cc- cded- |"G" d2 c2"C" c4 | z2 ee- efgg- |"G" g2 b2"Am" c'4 | %81
+"F" z2 c'c'- c'd' e'2 |"G" d'4 !>!a g3- | g!>!d- d2- d2 c2 |"F9" c4 D G2 D |"Gsus4" c6 C2 | %86
+"C9" !fermata!G8 |] %87
+

@@ -1,0 +1,22 @@
+X:1
+T:Love Walked In
+T:Love Walked In
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb" G4 | B, E G B |"F7" =A A A/G/ A |"Bb7" B4 |"Eb" G4 | B, E G B |"F7" c c c/B/ c |"Bb7" d4 | %8
+w: Love|walked right in and|drove the sha- dows a-|way|love|walked right in and|brought my sun- ni- est|day.|
+"Eb" e4 | E G B"Eb+7" e |"Ab" d d d/c/ d |"C+7" c4 |"Fm" z B"C+7" B/A/ B |"Fm7" A4 | %14
+w: One|ma- gic mo- ment|and my heart seemed to|know|that love said "Hel-|lo,"|
+"Eb" z G"Ab" A"Bb" B |"F9" =B c"Fm7" E"Bb7" F |"Eb" G4 | B, E G B |"F7" =A A A/G/ A |"Bb7" B4 | %20
+w: though not a|word was spo- ken.|One|look and I for-|got the gloom of the|past|
+"Eb" G4 | B, E G B |"F7" c c c/B/ c |"Bb7" d4 |"Eb" e4 | E G B"Eb+" e |"Ab" f2 e2 | %27
+w: one|look and I had|found my fu- ture at|last.|One|look and I had|found a|
+"Fm7" d c"Abm6" B A |"Eb""Eb7" G3"C7" G |"Fm" B A"Bb7" G F |"Eb" E4- | E z z2 |] %32
+w: world com- plete- ly|new, when|Love walked in with|you.||
+

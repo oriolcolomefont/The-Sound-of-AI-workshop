@@ -1,0 +1,27 @@
+X:1
+T:Whistle Down The Wind
+T:Whistle down the wind
+T:Arranged by Tony   Back
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+|:"C" Bcec ecGc | Gcec ecGc :|"C" AGEG G4- | G8 | AGED EG G2- | G8 |"G7" G"C"DDD D4 | GDDD D2 G2 | %8
+w: ||Whis- tle down the wind||let your voic es car- r- ry||Drown out all the rain|light a patch of dark- ness|
+"C" AGED EG G2- | G8 | AGED E4- | E8 | AGED EG G2- | G8 |"Dm7" GDDD D2 D2 |"G7" GDDD D3 G | %16
+w: treach- er- ous and scar- r ry||How- l at the stars,||whis- per when you're sle- ep- ing||I'll be there to hold you,|I'll be there to stop, the|
+"C" AGED EG G2- | G6 CC |"F" c4 c4 |"C" G6 ED |"Dm7" C4 c4 |"C" AG G4 cc |"Em" BGGG G3 G | %23
+w: chills and all the weep- ing *|* Make it|clear and|strong, so the|whole night|lo- ong * Ev'ry *|sig- nal that you send, un-|
+"F" AFFF F4 |"C/G" GEEE"Am" E2 G2 |"Dm" FDDD"G7" D3 G |"C" AGEG G4- | G8 | AGED EG G2- | G6 GG | %30
+w: til the ver- y end|I will not a- ban- don|you my prec- ious friend, so|try and stem the tide;||Then you'll raise a ba- nn- er|* send a|
+"G7" GDDD D4 | GDDD D3 G |"C" AGED EG G2- | G4 GdGG |"Dm7" GDDD D2 G z | GDDD D3"G7" E | %36
+w: flare up in the sky,|try to burn a torch, and|try to build a bon- fire *|* * * Ev- ry|sig- nal that you send, un-|til the ve- ry end, I'm|
+"C" C2 G2 A2 G2 | C2 G2 A2 G2 | C2 G2 d2 cG |"Dm7" GDDD D3 G | GDDD D3 G | GDDD D2"G7" E2 | %42
+w: there * * *||* * * so- o|whis- tle down the wind the|sig- nal that you send, un-|til the ver- y end, I'm|
+"C" C2 z2 z2 z2 |] %43
+w: there.|
+

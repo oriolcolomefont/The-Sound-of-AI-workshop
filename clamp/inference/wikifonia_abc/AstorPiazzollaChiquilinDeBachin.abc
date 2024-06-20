@@ -1,0 +1,26 @@
+X:1
+T:Chiquilin De Bachin
+T:Chiquilin De Bachin
+T:Astor Fiazzolla 
+C:Astor Piazzolla
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z"A7" _B BA AG |"Dm" G2 F2 E2 |"G7" D2 E2 F2 |"Cmaj7" G2 E2 D2 | C2 D2 E2 |"Bdim7" F2 D2 C2 | %6
+"E7" B,2 C3 C |"Am" A,6- | A,6- | A,6- | A,4 ED |:"Am" C2 C2 CB, |"Am/G" A,2 A,2 ED | %13
+"Am/F#" C2 C2 CB, |"Am/F" A,4 AG |"Dm" F2 F2 FE |"G7" D2 D2 GF |"Bb7b5" E2 E2 ED |"A7" ^C6 | %19
+"Dm" G2- GF ED |"G7" C2 B,4 |"C" F2 FE DC |"F" B,2 A,4 |"Bdim7" E2 ED CB, |"F7" A,2 B,4 |"E7" E6- | %26
+ E4 ED ||"Am" C2 C2 CB, |"Am/G" A,2 A,2 ED |"A/F#" C2 C2 CB, |"Am/F" A,4 AG |"Dm" F2 F2 FE | %32
+"G7" D2 D2 GF |"^Bb6b5" E2 E2 ED |"A7" ^C6 |"Dm" A,2- A,F ED |"G7" A,2 B,4 |"Em" B,2- B,G ^FE | %38
+"Am" B,2 C4 | C2- CB AG | ^F2 G2 AF | B6- | B4 cc || c4 BA | c2 B2 A2 | c4 BA | c2 B2 A2 | c4 BA | %48
+"E" A2 ^G2 B2 |"^Bb6b5" E6- |"A7" E_B BA AG |"Dm" G2 F2 E2 |"G7" D2 E2 F2 |"Cmaj7" G2 E2 D2 | %54
+"Fmaj7" C2 D2 E2 |"Dm" F2 D2 C2 |"F7" B,2 C2 D2 |"E7" E6- | E4 ED :|"E7" B,4 CC |"Am" A,6- | A,6- | %62
+ A,6- | A,6 |] %64
+

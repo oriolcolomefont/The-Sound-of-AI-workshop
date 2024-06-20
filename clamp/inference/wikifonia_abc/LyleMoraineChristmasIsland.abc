@@ -1,0 +1,24 @@
+X:1
+T:Christmas Island
+T:Christmas Island
+C:Lyle Moraine
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 B^A BD G2 |"G4" c4"G" B4 |"E7" z2 d2 c2 B2 |"A7" A4 B4- | B6 AG |"D7" F^EFE FEFE | %6
+w: How'd ja like to spend|Christ- mas|on Christ- mas|Is- land?|* How'd ja|like to spend a hol- i- day a-|
+ F2 c2 B2 A2 |"G""G#dim" D8- |"D7" D2 B^A BD G2 |"G4" c4"G" B4 |"E7" z2 d2 c2 B2 |"A7" A4 B4- | %12
+w: way ac- cross the|sea?|_ How'd ja like to spend|Christ- mas|on Christ- mas|Is- land?|
+ B6 AG |"D7" F^EFE FEFE | F2 c2 BB A2 |"G" G8- | G2"G7" GG"Dm7" AA"G7" B2 |"C" c4 E4 | %18
+w: _ How'd ja|like to hang your stock ing on a|great big co- co- nut|tree?|_ How'd ja like to stay|up late|
+"Cm6" z2 cB cd c2 |"B7/F#""Dm6/F" B8- |"E7" B2 B^A Bc B2 |"A7" A2 ^C2 E2 G2 | B2 B2 (3B2 A2 G2 | %23
+w: like the is- land- ers|do,|_ Wait for San- ta to|sail in wioth your|pres- ents in a can-|
+"Cm6" A8- |"D7" A2"^N.C." B^A BD G2 |"G4" c4"G" B4 |"E7" z2 d2 c2 B2 |"A7" A4 B4- | B6 AG | %29
+w: oe?|* If you ev- er spend|Christ- mas|on Christ- mas|Is- land,|_ You will|
+"D7" F^EFE FEFE | F2 c2 B2 A2 |"C/G" G8- |"G" G2 z2 z4 |] %33
+w: nev- er , for ev- 'ry day your|Christ- mas dreams come|true.|_|
+

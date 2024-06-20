@@ -1,0 +1,52 @@
+X:1
+T:I Go Crazy
+C:Paul Davis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Staff-6" snm="Staff-6"
+%%MIDI channel 7
+%%MIDI program 0
+V:1
+ z4 z c BA |"Amin" E4- Ec BA |"Cmaj7" BG DG cG cB |"Amin9" c3 B- B2 G/F/E | %4
+w: ||||
+"Cmaj7" D3 G- G2 G,/B,/E/G/ |"G " B2 D<G GA AB |"Gmaj7" B4 z G AB |"Cmaj7" c>B A<G z2 EG | %8
+w: |* Hel- lo ~girl ~it's ~been ~a|while. Guess ~you'll ~be|~glad ~to ~kn- ow that ~I've|
+"G " BB B"D " A2 F E<D- |"G " D2 DG GA AB |"Cmaj7" B4 z4 |"Amin7" EG E"Emin7" B,2 D ED- | %12
+w: ~learned ~how ~to ~laugh ~and ~smi- le.|* Get- ting ~o- ver ~you ~was|~slow.|They ~say ~old ~lov- ers ~can ~be|
+"Cmaj7" D2 B,G,-"Emin" G,2 z3/2 D/ |"Amin7" EG E"Bmin7" B,2 C DE |"D " A,3 B,"Emin" z B AG | %15
+w: * ~good ~friends * but|~I ~nev- er ~thought ~I'd ~real- ly|~see ~you, I'd ~real- ly|
+"D " AA d"Emin" B2 c dc- |"Amin7" c/B/A/G/- G2 z2 z E/E/ |"Emin" EE B"D6" B2 c de | %18
+w: ~see ~you ~a- gain. I ~go ~cr-|* a\- z\- y! * When ~I|~look ~in ~your ~eyes ~I ~still ~go|
+"Cmaj7" (3B/A/G/- G3 z2 BB |"F " cd BA/G/-"G " G2 G<A |"D " FF FG-"Emin" G2 B2 | %21
+w: ~cra- z\- y! * No, ~my|~heart ~just ~can't ~hide * * that ~old|~feel- in' ~in- side, * way|
+"D " AA AB-"Emin" Bc dB |"Amin7" A<A- A2 z c BA/G/ |"Emin" EE B"D6" B2 e BA/G/- | %24
+w: ~deep ~down ~in- side * O\- h, ~b-|a by, * you know when I|look in your eyes I go cra- zy!|
+"Cmaj7" G4 B/c/B/G/ EB/c/ |"Emin" B/G/E B/c/e g2 B/G/E- |"G " ED DG GA AB |"Gmaj7" B4 z2 AB | %28
+w: ||* You ~say ~he ~sat- is- fies ~your|mind, tells you|
+"Cmaj7" c>B A<G- G2 EG |"G " BB BA"D " AF E<D- |"G " DD DG GA AB |"Cmaj7" B4 z4 | %32
+w: ~all ~of ~his ~dreams. * I ~know|~how ~much ~that ~means * ~t- o you.|* I ~re- al- ize ~that ~I ~was|~blind.|
+"Amin7" EG E"Emin7" B,2 D ED- |"Cmaj7" D2 B,G,-"Emin" G,2 z2 |"Amin7" EG E"Bmin7" B,2 C D2 | %35
+w: Just ~when ~I ~thought ~I ~was ~o-|* ver ~you, *|I ~see ~your ~face ~and ~it|
+"D " A, A,2 B,"Emin" z B2 G |"D " AA- A"Emin" B2 c dc- |"Amin7" c/B/A/G/- G2 z2 z E/E/ | %38
+w: ~just ~ain't ~true. No, it|just ain't * ~true. I ~go ~cr-|* a\- z\- y! * When ~I|
+"Emin" EE B"D6" B2 c de |"Cmaj7" (3B/A/G/- G3 z2 BB |"F " cd BA/G/-"G " G2 G<A | %41
+w: ~look ~in ~your ~eyes ~I ~still ~go|~cra- z\- y! * That ~old|~flame ~comes ~a- li- ve, * it ~starts|
+"D " FF FG-"Emin" G2 B2 |"D " AA A"Emin" B2 c dB |"Amin7" A<A- A2 z c BA/G/ | %44
+w: ~burn- ing ~in- side * way|~deep ~down ~in- side. O\- h, ~b-|a\- by, * you ~know ~when ~I|
+"Emin" EE B"D6" B2 e BA/G/- |"Cmaj7" G4 B/c/B/G/ EB/c/ |"G " B/G/E B/c/e g2 c/B/G/E/- | %47
+w: ~look ~in ~your ~eyes I ~go ~cra- zy!|||
+"Gmaj7" E/ z/ D DG GA AB |"Cmaj7" B4 z2 B/G/E |"Emin7" E3 D-"D6" D2 z D- | %50
+w: |||
+"Cmaj7" D3 G- G2 E/G/B/e/ |"Amin7" e3 B-"Bmin7" B4 |"D " A3 B-"Emin" B4 |"D " AA d"Emin" B2 c dc- | %54
+w: ||Oh- ~oh, *|~O- o\- oh, ~Oh I ~go ~cr-|
+"Amin7" c/B/A/G/- G2 z2 z E/E/ |"Emin" EE B"D6" B2 c de |"Cmaj7" (3B/A/G/- G3 z2 BB | %57
+w: * a\- z\- y! * You ~know|~when ~I ~look ~in ~your ~eyes ~I|~go ~craz- y! * No, ~my|
+"F " cd BA/G/-"G " G2 G<A |"D " FF FG-"Emin" G2 B2 |"D " AA A"Emin" B2 c dB | %60
+w: ~heart ~just ~can't ~hi- de * that ~old|~feel- in' ~in- side, * way|~deep ~down ~in- side. I ~go ~cr-|
+"Amin7" A<G E2 z c BA/G/ |"Emin" EE B"D6" B2 e BA/G/- |"Cmaj7" G2 z2 B/c/B/G/ EB/c/ | %63
+w: a\- z\- y! You ~know ~when ~I|~look ~in ~your ~eyes I ~go ~cra- zy!||
+ B/G/E B/c/e g2 c/B/G/E/ |"Emin9" B,4 z4 |] %65
+w: ||
+

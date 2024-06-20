@@ -1,0 +1,29 @@
+X:1
+T:Let the People Sing
+T:Let the people sing
+T:Noel Gay
+T:Noel Gay, Ian Grant, Frank Eyton
+C:Noel Gay
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" c d"D7" A B |"G7" c3"C7" z |"F" d c"Dm7" A B |"Gm7" c3"C7" z |"F" d c"Cm7" A F | %5
+w: Let the peo- ple|sing|sing like an- y-|thing|a- ny sort of|
+w: let the peo- ple|sing|let the wel- kin-|ring|a- ny thing to|
+"Db7" _A2"C7" G2 |"F" F3 z |1"Gm7" G B"C7" d _d :|2 z A G F ||"Am" E A _B c | =B3 A |"Am7" c2 A2- | %12
+w: song they|choose|||find a mer- ry|song to|cheer them|
+w: kill the|blues||||||
+"D" A3 z |"C" G c d e |"G7" d3 G |"Gm7" G2 c2- |"C7" c3 z |"F" c d"Dm7" A B |"Gm7" c3"C7" z | %19
+w: |tell them that I|long to|hear them||when things all go|wrong|
+w: |||||||
+"F" d c"Dm7" A B |"Gm7" c3"C7" z |"F" d c"Dm7" A F |"Cm7" G2"F7" F2 |"Bbmaj7" d4- | d3 z | %25
+w: you will find a|song|wel- come as a|breath of|spring||
+w: ||||||
+"F" d c"Dm7" A F |"Gm7" d2"C7" c2 |"F" f4- | f2 z2 |] %29
+w: ther- fore let the|peo- ple|sing.||
+w: ||||
+

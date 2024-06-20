@@ -1,0 +1,27 @@
+X:1
+T:The Dreidel Song
+T:I Have a Little Dreidel
+T:Samuel E. Goldfarb (1891–1978)
+T:Arr. Kevin Collins
+C:Samuel E. Goldfarb (1891–1978)
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z g |:"C" c c d d | e c2 e |"C" g g f e |"G7" d2- d G |"G7""C" d d e e | f d2 d |"G7" g f e d | %8
+w: I|have a lit- tle|drei- del I|made it out of|clay, * And|when it’s dry and|read- y Then|drei- del I shall|
+w: |has a love- ly|bod- y With|legs so short and|thin, * And|when my drei- del’s|ti- red It|drops and then I|
+w: |drei- del’s al- ways|play- ful It|loves to dance and|spin, * A|hap- py game of|drei- del Come|play now, let’s be-|
+"C" c2 | g2 ||"C""C" g e g e | g e2 e |"C" g g f e |"G7" d2- d d |"G7""C" f d f d | f d2 d | %16
+w: play.|O|drei- del, drei- del,|drei- del I|made it out of|clay, * And|when it’s dry and|read- y Then|
+w: win.||||||||
+w: gin.||||||||
+"G7" g f e d |1,2"C" c2- c G :|3"C" c2- c z |] %19
+w: drei- del I shall|play. * It|play. *|
+w: |* * My||
+w: |||
+

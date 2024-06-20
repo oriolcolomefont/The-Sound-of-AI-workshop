@@ -1,0 +1,22 @@
+X:1
+T:Maybe
+T:Maybe
+C:Allan Flynn and Frank Madden
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" c4 |"D7" A4 |"G7" G A2 E | D4 |"C7" G A2 E |"Gm7" D3"C+" E |"F""F#dim" C4- |"Gm7" C3"C7b9" z | %8
+w: May-|be|you'll think of|me,|When you are|all a-|lone,|_|
+"F" F E2 D |"Fdim" F E2 D |"Cdim" ^D"C7" E"F#dim" C"C9" =D- | D4 |"Cdim" ^D"C7" E C"Gm7" =D- | %13
+w: May- be the|one who is|wait- ing for you|_|Will prove un- true|
+ D2"C9" B2 |"Gm7" B"C" c"E" ^G"F" A- | A4 |"F" c4 |"D7" A4 |"G7" G A2 E | D4 |"C7" G A2 E | %21
+w: _ then|what will you do.|_|May-|be|you'll sit and|sigh,|wish- ing that|
+"Gm7" D3"C+" E |"F""F#dim" C4 |"F+" ^C4 |"Bb" D E2 F |"D7" ^F G2 A |"Gm" B"D7" A"Gm" G"G9" d- | %27
+w: I were|near|Then|may- be you'll|ask me to|come back a- gain,|
+ d2"Db7" _d2 |"F" c"Cm6" A2"D7" c |"G7" D2"C9" A2 |"F""Bb7" F4- |"F6" F3 z |] %32
+w: _ And|may- be I'll|say, "May-|be"||
+

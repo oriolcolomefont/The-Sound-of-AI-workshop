@@ -1,0 +1,15 @@
+X:1
+T:Mint szarvas hűs
+C:Unknown
+Z:Public Domain
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z A, D E | F4 | z E D B,/A,/- | A,4 | z A, D C/D/- | D4 | z E F (G/F/-) | (F/E/-) E3 | z E F G | %9
+w: Mint szar- vas|hűs|for- rás u- tán,||lel- kem e- ped,||vá- gyik Hoz- *|* zád, *|Úgy men- nék|
+ A4 | z/ G/G/F/ E D/F/- | F4 | z z/ E/ D B, | A,4 | z A, D C/D/- | D4 |] %16
+w: én|az é- lő út fe- lé,||mi- kor jössz|el,|hogy el- vi- gyél?||
+

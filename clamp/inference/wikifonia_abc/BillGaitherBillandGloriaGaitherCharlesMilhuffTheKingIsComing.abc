@@ -1,0 +1,41 @@
+X:1
+T:The King Is Coming
+T:The King Is Coming
+T:Bill Gaither
+T:Bill and Gloria Gaither, Charles Milhuff
+T:All Rights Reserved
+C:Bill Gaither
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F->F |:"Bb" F3 F F>F |"Eb" G2"Bb" F2 F>F |"Eb" G3 G G>G |"C7" G4 G>G |"F7" A3 G A>B | c2 A2 G>F | %7
+w: 1.~The *|mar- ket- place is|emp- ty, No more|traf- fic in the|street; All the|build- ers' tools are|si- lent, No more|
+w: 2.~(Hap- py)|fa- ces line the|hall- way, Those whose|lives have been re-|deemed; Bro- ken|homes that He has|mend- ed, Those from|
+w: 2.~(I can)|hear the char- iots|rum- ble, I can|see the march- ing|throng, And the|flur- ry of God's|trum- pets Spells and|
+"Bb" B3 B"Eb" B>G |"Bb" F4 F>F |"Bb" B3 B B>B |"Bb7" B B3 B>B |"Eb" B3 B G>E |"Cm" G4 G>_A | %13
+w: time to har- vest|wheat. Bu- sy|house- wives cease their|la- bor, In the|court- room, no de-|bate; Work on|
+w: pris- on he has|freed. Lit- tle|child- ren and the|ag- ed, Hand in|hand stand all a-|glow; Who were|
+w: end to sin and|wrong. Re- gal|robes are now un-|fold- ing, Heav- en's|grand- stands all in|place; Heav- en's|
+"F7" A3 G A>B | c2 A2 F>F |"Bb" B3 B"Eb" B>B |1,2"Bb" B4 F>F :|3 B2"F7" d3 c ||S"Bb" B4- BB | %19
+w: earth is all sus-|pen- ded As the|King comes through the|gate. Hap- py|||
+w: crip- pled, bro- ken,|ruin- ed, Clad in|gar- ments white as|snow. I can|||
+w: choirs now all as-|sem- bled, Start to|sing "A- maz- ing||Grace" Oh, the|King * is|
+"Bb7" d d4 c |"Eb" B4- BB |"C7" B G3 G>^G |"F7" A3 G A>B | c A3 F2 |"Bb" B3 B"Eb" B>G | %25
+w: ||||||
+w: ||||||
+w: com- ing, the|King * is|com- ing; I just|heard the trum- pet|sound- ing and|now His face I|
+"Bb" F2"F7" d3 c |"Bb" B4- BB |"Bb7" d d4 c |"Eb" B4- BB |"Cm" B G3 ^G2 |"F7" A4 F2 | %31
+w: ||||||
+w: ||||||
+w: see. Oh, the|King * is|com- ing, the|King * is|com- ing, Praise|God, He's|
+ e2 d2 c2!dacoda! |"Bb" B6 |"F7" d4- dc!D.S.! |O"Bb" B6- | B4 B2 |"F7" A4 F2 | e2 d2 c2 |"Bb" B6 |] %39
+w: |||me.|* Praise|God, He's|com- ing for|me.|
+w: ||||||||
+w: com- ing for|me.|Oh, * the||||||
+

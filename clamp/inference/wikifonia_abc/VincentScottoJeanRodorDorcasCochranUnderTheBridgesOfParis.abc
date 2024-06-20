@@ -1,0 +1,36 @@
+X:1
+T:Under The Bridges Of Paris
+T:Under the bridges of Paris
+T:(Sous les ponts de Paris)
+T:Vincent Scotto
+T:Rench: J.Rodor  English: Dorcas Cochrane
+C:Vincent Scotto
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 C |"F" F2 G | A2 c | c2 B | A2 A |"Gm" G2 G |"C7" F2 E |"F" F3- | F2 C | F2 G | A2 c | c2 B | %12
+w: My|dar- ling|why I|sing this|song is|ea- sy|to ex-|plain|_ It|tells what|hap- pens|all a-|
+w: Pour|al- ler|a Sur-|es- *|nes ou|bien a|Cha- ren-|ton,|_ Tout|le long|de la|Sei- *|
+ A2 A |"Gm" G2 G |"C7" F2 E |"F" F3- | F z G |"G7" G2 A | A2 G |"C" G2 A | A2 G |"G7" G D E | %22
+w: long the|bridg- es|of the|Seine|_ The|va- ga-|bonds go|there at|night to|sleep all their|
+w: ne on|pas- se|sous les|ponts|_ Pen-|dant le|jour sui-|vant son|cours tout|Par- is en|
+ F"C7" E F | G3- | G z G |"G7" G2 A | A2 G |"C" G2 A | A2 G |"G7" G D E | F E F |"C7" G3- | G z2 |: %33
+w: trou- bles a-|way|_ but|when the|moon is|shin- ing|bright my|heart wants to|sing it this|way|_|
+w: ba- teau dé-|file|_ L'coeur|plein d'en-|train ça|va ça|vient Mais|l'soir lors- que|tout dort tran-|quile|_|
+"F""^Chorus" C F A | c2 F | A3- | A3 | C F G | A2 B |"C7" G3- | G3 | G A B | c B A | G F G | %44
+w: How would you|like to|be|_|down by the|Seine with|me|_|Oh what I'd|give for a|mo- ment or|
+w: Sous les ponts|de Pa-|ris|_|Lors- que des-|cend la|nuit|_|Toutes sortes de|gueux se fau-|fillent en ca-|
+"F" A2 z |"G7" D E F | G F E | D ^C D |"C7" G3 |"F" C F A | c2 F | A3- | A3 | C F G | A2 B | %55
+w: two|un- der the|brid- ges of|Par- is with|you|Dar- ling I'd|hold you|tight|_|far from the|eyes of|
+w: chet'|et sont heu-|reux d'trou- ver|u- ne cou-|chette|Hô- tel du|Cou- rant|d'Air|_|ou l'on ne|paye pas|
+"C7" G3- | G3 |"Gm" G A B | c B A | G F G |"A7" A3 |"Gm" G A B |"C7" A2 G |1"F" F3 | z3 :|2 %65
+w: night|_|Un- der the|brid- ges of|Par- is with|you|I'd make your|dreams come|true||
+w: cher|_|L'par- ful et|l'eau c'est pour|rien mon mar-|quis|sous les ponts|de Par-|is||
+"F" F3- | F z2 |] %67
+w: true.|_|
+w: ris|_|
+

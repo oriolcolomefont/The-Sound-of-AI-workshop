@@ -1,0 +1,28 @@
+X:1
+T:"JACK THE RIPPER"
+C:Whyte
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F#m" z2 AF A2 AF- |"D" F4"Bm" z2 z2 |"F#m" A4 AAzF- |"D" F4"Bm" z2 G2 |"F#m" A4 z GAG | %5
+w: Oh, you look so tired|_|Mouth slack and wide|_ Ill-|housed and ill ad|
+"D" F2 z2"Bm" z2 G2 |"F#m" A2 A-F A2 GA |"D" A2 AF"Bm" z4 |:"A" z4 A2 B2 |"E" B4 G4 | %10
+w: vised Your|face is _ mean as your|life has been|Crash in|to my|
+"D" AF-F z B-c- c2 |"E" G2 E2 z4 |"A" z2 z A A2 BB- |"E" B4 BBBB- |"D" B A2 z c2 A2 |"E" E2 z2 z4 | %16
+w: arms _ _ I _ _|want you|You don't a gree|_ but you don't re|_ fuse I KNOW|YOU|
+"F#m" z2 F2 F2 GA |"D" F2 z2"Bm" z2 G2 |"F#m" A2 AF ABzA |"D" F z z2"Bm" z4 |"F#m" z GzA z AAA | %21
+w: And I know a|place where|no one is like ly to|pass|I don't care if its|
+"D" F2 z2"Bm" z2 FG |"F#m" A2 F2 ABAF- |"D" F4"Bm" z2 z2 |"F#m" z2 AF A2 AF- |"D" F4"Bm" z2 FG | %26
+w: late and you|don't care if you are lost|_|Oh, you look so tired|_ But to|
+"F#m" A2 AF A2 F2 |"D" F2 z2"Bm" z2 D2 |"F#m" C4 z2 D2 |"D" D2 z2"Bm" z A A/A/F | %30
+w: nite you pre sume too|much too|much too|much and if its the|
+"F#m" A2 AF AA A2 |"D" A2 z B/A/"Bm" G2 F2 ::"F#m" A2 A2 A/B/A/G/ F2 |"D" A2 A2"Bm" A/B/A/G/ F2 | %34
+w: last thing I ev er do|I'm gon na get you|AH HA No bod y knows me|AH HA No bod y knows me|
+"F#m" A2 A2 A/B/A/G/ F2- |"D" F8 :| %36
+w: AH HA No bod y knows me|_|
+

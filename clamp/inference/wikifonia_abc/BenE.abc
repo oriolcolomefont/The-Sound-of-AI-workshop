@@ -1,0 +1,30 @@
+X:1
+T:Stand By Me
+T:Stand By Me
+C:Ben E. King, Jerry Leiber and Mike Stoller
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 Ac |:"F" d6 z A | c8 |"Dm" z2 FG A2 G2 | F6 FG |"Bb" (A F3-) F2 FA | %6
+w: When the|night has|come|and the land is|dark, And the|moon _ _ is the|
+"C7" G F3-"Gm7" F2"C7" GF |"F" F8- | F6"C7" Ac |"F" d6 Ac | d3 (c BAG)(F/G/) |"Dm" A6 FG | F6 FG | %13
+w: on- ly _ light we'll|see.|_ No I|won't be a-|fraid, No _ _ _ I _|won't be a-|fraid Just as|
+"Bb" (A F3-) F2 FA |"C7" (G F3-)"Gm7" F2"C7" AG |"F" F6 z c |"F" d2 c2 e2 e2 | (dc d4) d2 | %18
+w: long _ _ as you|stand, _ _ stand by|me. So|dar- ling, dar- ling|stand _ _ by|
+ d4 (c d3) |"Dm" (A/G/F/G/ A4) G2 | F6 A2 |"Bb" (G F3-) F4 |"C7" z2 AG"Gm7" F4 |"F" z2 AG F4- | %24
+w: me, Oh, _|stand _ _ _ _ by|me, Oh,|stand , _|stand by me,|stand by me,|
+ F6"C7" Ac |"F" d4 z A/c/dd | c8 |"Dm" z2 z G AA G2 | F6 FG |"Bb" A F3- F2 A2 | %30
+w: * If the|sea that we look up-|on|should tum- ble and|fall, or the|moun- tain _ should|
+"C7" G F3-"Gm7" F2"C7" FG |"F" F8- | F6"C7" Ac |"F" d6 Ac | d3 (c BAG)F/G/ |"Dm" A6 FG | F6 FG | %37
+w: crum- ble _ in the|sea.|_ I won't|cry, I won't|cry, No _ _ _ I _|won't shed a|tear Just as|
+"Bb" (A F3-) F2 FA |"C7" (G F3-)"G7" F2"C7" AG |"F" F6 z c | d2 c2 e2 e2 |"F" (dc d4) d2 | %42
+w: long _ _ as you|stand, _ _ stand by|me. So|dar- ling, dar- ling,|stand _ _ by|
+ d4 (c d3) |"Dm" (A/G/F/G/ A4) G2 | F6 A2 |"Bb" (G F3-) F4 | z2"C7" AG"Gm7" F4 |1"F" z2 AG F4- || %48
+w: me, Oh, _|stand _ _ _ _ by|me, Oh,|stand _ _|stand by me,|stand by me|
+ F6"C7" Ac :|2"F" z2 AG F4- || F6 z2 |] %51
+w: * When the|stand by me.||
+

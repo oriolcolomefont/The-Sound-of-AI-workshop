@@ -1,0 +1,22 @@
+X:1
+T:Why Do I Love You?
+T:Why do I love you
+T:Jerome Kern
+T:Oscar Hammerstein II
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G D ^C D | G4 |"Am" G D ^C D |"D7" F4 |"G" B D ^C D | B4 |"Am" B d c A- |"D7" A4 |"G" A B A2- | %9
+w: Why do I love|you|why do you love|me|why should there be|two|hap- py as we|_|can you see|
+ A G E G |"Am" d4 |"D7" F4 |"G" E G E2- | E D E G |"Am" B4 |"D7" A4 |"G" G D ^C D | G4 | %18
+w: _ the why or|where-|fore|I should be|_ the one you|care|for|You're a luck- y|boy|
+"Am" G D ^C D |"D7" F4 |"G" B D ^C D | B4 |"Am" B d c A- |"D7" A4 |"G" A B A2- |"G7" A G A B | %26
+w: I am luck- y|too|all our dreams of|joy|seem to come true|_|may be that's|_ be- cause you|
+"C" e4 |"Cm" c4 |"G" B D ^C D |"Am" d2"D7" B2 |"G" G4- | G4 |] %32
+w: love|me|may- be that's why|I love|you.|_|
+

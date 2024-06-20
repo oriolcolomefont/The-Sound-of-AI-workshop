@@ -1,0 +1,28 @@
+X:1
+T:Beautiful Sunday
+T:Beautiful Sunday
+T:Daniel Boone and Rod McQueen
+C:Daniel Boone, Rod McQueen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 4
+V:1
+"D" f e2 d- d A2 z | FABA- A2 z A | f e2 d- d A3 | FABA- A2 z2 |"G" B4 d4 |"A" A2 AA FA B2 | %6
+w: Sun- day morn * ing|up with the lark * I|think I'll take * a|walk in the park *|Hey hey|hey its a beau- ti- ful|
+w: Birds are sing * ing|you by my side * Lets|take a car * and|go for a ride *|Hay hey|hey its a beau- t- ful|
+"D" D8 | z8 | f e2 d- d A2 z | FABA- A2 z A | f e2 d- d A2 A | FABA- A4 |"G" B4 d4 | %13
+w: day!||I've got some- * one|wait- ing for me * and|when I see * her I|know that she'll say *|Hey hey|
+w: day||We'll drive on * and|fol- low the sun * *|mak- ing Sun- day * *|go on and on *|Hay hey|
+"A" A2 AA FA B2 |"D" D8 | z8 |"^Chorus:" f2 z2 f2 z2 | f2 z2 fe d2 |"G" e3 d B4 | z4 c2 d2 | %20
+w: hey its a beau- ti- ful|day||Hi hi|hi beau- ti ful|Sun * day|this is|
+w: hey its a beau- ti- ful|day||||||
+"A" e2 z2 e2 z2 | e2 z2 edB z |"D" d3 B A4 | z4 d2 e2 | f2 z2 f2 z2 | f2 z2 fe d2 |"E7" e3 d B4 | %27
+w: my my|my beau- ti- ful|day * *|when you|said said|said said that you|loved * me|
+w: |||||||
+ z4 edBA |"G" B4 d4 |"A" A2 AE FA B2 |"D" D8 |1"G" z8 :|2"A7" z8 |] %33
+w: oh * * *|my my|my its a beau- t- ful|day.|||
+w: ||||||
+

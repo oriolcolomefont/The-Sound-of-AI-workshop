@@ -1,0 +1,44 @@
+X:1
+T:Anchors Aweigh
+T:Anchors Aweigh
+C:Capt. Alfred H. Miles U.S.N. (retired)
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C4 | E2"G" G2 |"Am" A3 E | A4 |"C" c3 c |"G7" d2 G2 |"C" c4- | c4 |"F" A4 | c2 A2 | %10
+w: Stand|Nav- y|out to|sea,|Fight our|bat- tle|cry;|_|We'll|nev- er|
+w: An-|chors a-|weigh my|boys,|An _|chors a-|weigh|_|Fare-|well to|
+"C" G2"Cdim" A2 |"G7" B2"C" c2 |"D7" ^F2 A2 | d2 c2 |"G7" B2 G2 |"F" F2"G7" D2 |"C" C4 | E2"G" G2 | %18
+w: change our|course, so|vi- cious|foe steer|shy- y-|y- y|Roll|out the|
+w: col- lege|joys, we|sail at|break of|day- day-|day- day!|Through|our last|
+"Am" A3 E | A4 |"C" c4 |"G7" d2 G2 |"C" c4- | c4 |"F" A4 | c2 A2 |"C" G2"Am" A2 | %27
+w: T. N.|T.|An-|chors a-|weigh|_|Sail|on to|vic- to-|
+w: night on|shore,|Drink|to the|foam,|_|Un-|til we|meet once|
+"G#dim" B2"Am" c2 |"C" E3/2 G/ ^F G |"G7" D3/2 G/ ^F G |"C" C4- | C z"E7" e3/2 e/ | e2 E2 | %33
+w: ry and|sink their bones to|Dav- y Jones hoo-|ray|_ _ Yo|ho there|
+w: more Here's|wish- ing you a|hap- py voy- age|home.|_ Heave a-|ho there|
+"Am" A A A/B/c/d/ | e e e"E7" ^G |"Am" A z"D7" d3/2 d/ | d2 D2 |"G" G G G/A/B/c/ | d d d"D7" ^F | %39
+w: ship- mate, take the fight- ing|to the fare off|seas; _ Yo|ho there|mess- mate hear the wail- ing|of the wild ban-|
+w: sail- or, ev- 'ry- bod- y|drink up while you|may; Heave a-|ho there|sail- or, for you're gon- na|sail at break of|
+"G" G2 G3/2 G/ | G3 G/G/ | G3 G/G/ | G G G G | G z G2 |"C""C" C4 | E2"G" G2 |"Am" A3 E | A4 | %48
+w: shees _ All|hands fire _|brands Let's _|blast them as we|go. So|Stand|Nav- y|out to|sea,|
+w: day Drink a-|way, drink a-|way, For you|sail at break of|day, Hey!|An-|chors a-|weigh my|boys,|
+"C" c3 c |"G7" d2 G2 |"C" c4- | c4 |"F" A4 | c2 A2 |"C" G2"Cdim" A2 |"G7" B2"C" c2 |"D7" ^F2 A2 | %57
+w: Fight our|bat- tle|cry;|_|We'll|nev- er|change our|course, so|vi- cious|
+w: An _|chors a-|weigh|_|Fare-|well to|col- lege|joys, we|sail at|
+ d2 c2 |"G7" B2 G2 |"F" F2"G7" D2 |"C" C4 | E2"G" G2 |"Am" A3 E | A4 |"C" c4 |"G7" d2 G2 |"C" c4- | %67
+w: foe steer|shy- y-|y- y|Roll|out the|T. N.|T.|An-|chors a-|weigh|
+w: break of|day- day-|day- day!|Through|our last|night on|shore,|Drink|to the|foam,|
+ c4 |"F" A4 | c2 A2 |"C" G2"Am" A2 |"G#dim" B2"Am" c2 |"C" E3/2 G/ ^F G |"G7" D3/2 G/ ^F G | %74
+w: _|Sail|on to|vic- to-|ry and|sink their bones to|Dav- y Jones hoo-|
+w: _|Un-|til we|meet once|more Here's|wish- ing you a|hap- py voy- age|
+"C" c4- | c z z2 |] %76
+w: ray|_|
+w: home.|_|
+

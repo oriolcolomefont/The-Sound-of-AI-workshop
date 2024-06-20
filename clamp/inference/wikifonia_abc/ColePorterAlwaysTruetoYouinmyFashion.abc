@@ -1,0 +1,33 @@
+X:1
+T:Always True to You in my Fashion
+T:Always True to You
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ z z z C/D/ |:"C" E C E C/E/- |"C+" E2 z C/D/ |"C6" E C E C/E/- |"C+" E2 z C/D/ |"C" E D E F/G/- | %6
+w: 1.If a|cus- tom tail- ored vet|_ asks me|out for some- thing wet|_ when the|vet be- gins to pet|
+w: |asked to have a meal|_ by a|big ty- coon in steel|_ If the|meal in- cludes a deal|
+"C/E" G A"Ebdim" B/ c B/- |"G7" B4- | B3 A/B/ |"C" c c"C+" c c/c/- |"F" c/ c B/"F#dim" A B | %11
+w: _ I cry "Hoo- ray"||* but I'm|al- ways true to you|_ dar- lin' in my|
+w: _ ac- cept I may|_||||
+"C/G" A G2"C7" C |"Fm" G F2 C/D/ |"C/G" E E"A7" E E/E/- |"D7" E/ E D/"G7" C D/C/- |"C" C4- |1 %16
+w: fash- ion (my|fash- ion) yes I'm|al- ways true to you|_ dar- lin' in my way|_|
+w: |||||
+ C3 C/D/ :|2 C3"C7" C/C/ ||"F" F A A A | A3"Fm" G/F/ |"C" E G G G | G3"C7" C/C/ | %22
+w: * I've been|* There's an|oil- man known as|Tex who is|keen to give me|checks and his|
+w: ||||||
+"F" A ^G/"A7" A A B/ |"D7" c B/ c3/2 A |"G7" d4- | d3 A/B/ |"C" c c"C+" c c/c/- | %27
+w: checks I fear means that|Tex is here to|stay|_ But I'm|al- ways true to you|
+w: |||||
+"F" c/ c B/"F#dim" A B |"C/G" A G2"C7" G |"Fm" G F2 C/D/ |"C/G" E E"A7" E E/E/- | %31
+w: _ dar- lin' in my|fash- ion (my|fash- ion) yes I'm|al- ways true to you|
+w: ||||
+"D7" E/ E D/"G7" C D/C/- |"C" C4- | C4 |] %34
+w: _ dar lin' in my way|_||
+w: |||
+

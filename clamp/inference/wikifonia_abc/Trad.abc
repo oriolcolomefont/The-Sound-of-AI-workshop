@@ -1,0 +1,31 @@
+X:1
+T:The Water Is Wide (O Waly, Waly)
+T:The Water is Wide
+T:unknown
+C:trad. English or Scots ca. 17th C.
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Bb" z2 B,2 EE F2 |"Eb" G8- | G2 F2"Ab" E3 C |"Eb" B,8- | B,2 B,2"Eb" E2 D2 |"Cm" E8- | %6
+w: The wa- ter is|wide|* I cant cross|o'er|* and neith er|have|
+w: There is a ship|and|* she sails the|sea|* she's load- ed|up|
+ E2 F2"Cm7" G3 A |"Bb" F8- | F2 F2 G3 A |"Gm" B8- | B2 AG"Gm7" F3 E |"Cm" G8- |"Ab" G2 F2 E3 C | %13
+w: * I wings to|fly|* build me a|boat|* that can car- ry|two|* and both shall|
+w: * as deep can|be|* but not so|deep|* as the love I'm|in|* I know not|
+"Eb" B,8- |"Bb" B,2 B,2 C E3 |"Eb" E8 :|[K:F] z2"F" C2 FF G2 | A8- | A2 G2"Bb" F3 D |"F" C8- | %20
+w: row|* my love and|I|Oh love so gen-|tle|* love is kind||
+w: how|* I sink or|swim|||||
+ C2 C2 F2"Fmaj7" E2 |"Dm" F8- | F2 G2"Dm7" A3 B |"C" G8- |"C7" G2 G2 A3 B |"Am" c8- | %26
+w: * the sweet- est|flower|* when first its|new|* but love grows|old|
+w: ||||||
+ c2 BA"Am7" G3 F |"Dm" A8- |"Bb" A2 G2 F3 D |"F" C8- |"C" C2 C2"C7" D F3 |"F" F8- | %32
+w: * and * wax- es|cold|* and fades a|way|* like morn ing|dew|
+w: ||||||
+"Bb" F2 G2 F3 D |"F" C8- |"C" C2 C2"C7" D F3 |"F" F8- | F8 |] %37
+w: * and fades a-|way|* like morn- ing|dew||
+w: |||||
+

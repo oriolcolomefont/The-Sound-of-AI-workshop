@@ -1,0 +1,28 @@
+X:1
+T:Say "Si, Si"
+T:Say "Si Si"
+T:Ernesto Lecuona
+T:Al Stillman,Francia Luban
+C:Ernesto Lecuona
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"F#dim" e4 |"Bb7/F" d3 B- B2 A2- | A4"F#dim" e4 |"Bb7/F" d8- | d4"Bb+7" d4 |"Eb6" c3 B- B2 G2- | %6
+w: In|Spain they * say|* "Si,|Si."|* in|France you'll * hear|
+ G4"Bb+7" d4 |"Eb6" c8- | c2 z2 EFGA |"Bb7" B3 A- A2 F2- | F4 c4 | B8- | B4 FGAB | %13
+w: * "Oui,|Oui,"-|* ev- 'ry lit- tle|Dutch girl * says|* "Ya.|Ya,"|* ev- 'ry lit- tle|
+"Eb6" c3 B- B2 G2- | G4"Bb+7" d4 |"Eb6" c8- | c4"F#dim" e4 |"Bb7/F" d3 B- B2 A2- | A4"F#dim" e4 | %19
+w: Da- nish * doll|* says|"Da"|* But|sweet- heart * tell|* me|
+"Bb7/F" d8- | d4"Bb+7" d4 |"Eb6" c3 B- B2 G2- | G4"Bb+7" d4 |"Eb6" c8- | c2 z2 FGAB | %25
+w: why,|* no|mat- ter * how|* I|try,|* you won't lis- ten|
+"Ab" c3 c- c2 =B2- | B c2 d- de c2 |"Eb" B B2 =A- Ac B2 | e2 z2"F#dim" e4 |"Bb7/F" d3 B- B2 A2- | %30
+w: to my * plea,|* won't say * "Yes" in|an- y lan- * guage to|me, when|will you * say|
+ A4 f4 |"Eb""Ab" e8- |"Eb" e6 z2 |] %33
+w: * "Si|Si."-||
+

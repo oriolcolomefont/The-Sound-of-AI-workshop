@@ -1,0 +1,24 @@
+X:1
+T:They Didn't Believe Me
+T:They Didn't Believe Me
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z D E G |"Am7" A2 A2- |"D7" A B A/>B/G/>A/ |"G" B4- |"Bm7b5" B B"E7b9" (3B c d |"Am7" A2 A2- | %6
+w: And when I|told them|* how beau- ti- ful you|are|* They did- n't be-|lieve me|
+"D7" A A (3A B c |"G" D2 D2- |"Em7" D D E G |"Am7" c E F G |"D7" A3/2 F/ G"D7/C" A |"Bm7" d F G A | %12
+w: * they did- n't be-|lieve me|* your lips your|eyes your cheeks your|hair are in a|class be- yond com-|
+"Em" B2 B ^c |"Bm" d B/>^c/ d2- |"F#7" d ^c B ^A |"Bm7""F9" B4- |"E7" B d"E7b9" c B |"Am7" A2 A2- | %18
+w: pare you're the|love- li- est girl|* that one could|see|* And when I|tell them|
+"D7" A A/>B/ (3A/B/A/ G/>A/ |"G6" B2 B2- |"Em7" B G A B |"Am" c2 c2 |"D7" c c B ^A |"G6""F9" B4- | %24
+w: * and I cert- n'ly am goin' to|tell them|* that I'm the|man whose|wife one day you'll|be|
+"E7" B B B/c/ d |"Am" A2 A2- |"D7" A A A/B/ c |"G" D2"Am7" D2- |"Bm7" D D"E7" ^D E |"Am7" c E F G | %30
+w: * they'll nev- er be-|lieve me|* they'll nev- er be-|lieve me|* that from this|great big world you've|
+"D7" A2"D7b9" B2 |"G" G4- | G z z2 |] %33
+w: cho- sen|me!||
+

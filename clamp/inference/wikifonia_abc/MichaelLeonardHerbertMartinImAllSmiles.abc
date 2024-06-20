@@ -1,0 +1,41 @@
+X:1
+T:I'm All Smiles
+T:I'm All Smiles 
+T:Michael Leonard
+T:Herbert Martin
+C:Michael Leonard
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"D+9" E3 |"Gm7" D3 |"C#+9" E3 |"Bdim" B,"C" =C2 |"Am7" G3 |"D7" E3 |"Bm7" F3- |"E7" F2 F | %8
+w: I'm|all|smiles,|Dar- lin'|You'd|be|too||
+w: I'm|all|chills,|Dar- lin'|through|and|through||
+"C#m7" B3 |"Gb9" ^G3 |"Bmaj7" ^A3 |"Bb" =F"B" ^F2 |1"Em7" G G F |"A9" G G F |"Dmaj7" E3- || %15
+w: If|you|knew,|Dar- lin'|all of my|smiles were for|you.|
+w: My|cold|hands,|Dar- lin'||||
+ E z2 :|2"Em7" G G F |"A11" G2 E |"F#m7" A3- |"D6" A2 z ||"Gbmaj7" _B _B _B |"Ab7" _B =C _B | %22
+w: |warm to the|touch of|you.||Rain has- n't|fal- len for|
+w: |||||||
+"Fm7" _B _A2- |"Bb7" A2 _A |"Gm7b5" _B _B _B |"C7b5" _B =C _B |"Fmaj7" =A3- | A2 A |"G" A A A | %29
+w: days now,|* but|rain- bows are|fill- ing the|skies.|* My|heart must have|
+w: |||||||
+"A9" A G A |"Dmaj7" B F2- | F3 |"Gmaj7" c A F |"B7" B2 =F |"Bb7b5" E3- | E D/C/ D/E/ |"D+9" =F3 | %37
+w: paint- ed those|rain- bows||shi- ning be-|fore my|eyes.|* Can't you tell that|I'm|
+w: ||||||||
+"Gm7" D3 |"Db+9" E3 |"Bdim" B,"C" =C2 |"Am7" G3 |"D7" E3 |"Bm7" F3- |"E7" F2 z |"C#m7" B3 | %45
+w: in|love|Dar- lin'|Deep|and|true.||With|
+w: ||||||||
+"Gb9" ^G3 |"Bmaj7" ^A3 |"Bb" =F"B" ^F2 |"Em7" G G F |"A11" G2 E |"C#" ^G"D" A A |"D7" A2 D | %52
+w: guess|who,|Dar- lin'|Some- one I'd|die for,|beg, steal or|lie for,|
+w: |||||||
+"F#" ^A"G" B B |"E" B2 E |"A7" c c3/2 c/ | c B c |"F#m7" e d3/2 c/ |"Bm7" d2 A |"Em7" d d d | %59
+w: eat hum- ble|pie for|some one to|fly to the|sun, moon, and|sky for.|Some- one to|
+w: |||||||
+"A11" d B3/2 c/ |"F#7" (3:2:2e2 d c |"Bm7" d2 G |"Em7" d2 d |"A11" d B c |"D" d3 |] %65
+w: live for, to|love with and|cry for.|And that|some- one is|you.|
+w: ||||||
+

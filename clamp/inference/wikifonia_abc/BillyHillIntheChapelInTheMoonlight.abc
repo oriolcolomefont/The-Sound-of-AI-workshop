@@ -1,0 +1,37 @@
+X:1
+T:In the Chapel In The Moonlight
+T:In the Chapel in the moonlight
+T:Billy Hill
+C:Billy Hill
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ G2 A2 |"Am" cAcA- A3 E |"C7" GEGE- E3 E |"F" GFGF-"Fm" F2 CD |"C" E4- E2 AA | %5
+w: There's a|lit- tle old church * thats|cov- ered with moss * where|I held your hand * ten- der-|ly * * I|
+w: In a|lit- tle old book * a|love- ly old hymn * still|ech- oes in my mem- o- ry|* * should I|
+"Am" cAcA-"Am7" A3 A |"C" cAcA- A2 c2 |"D7" dddd- d B2 A |"G7" G6 z2 |"^Chorus:" z2 CD FEDC |: %10
+w: of- ten go there * to|gaze at the cross * and|dream that you'll come * back to|me|How I'd love to hear the|
+w: turn to the page * my|eyes would grow dim * with|thoughts of what once * used to|be||
+"C" E4"Am" E4- |"C" E2 GA BcGA |"Em" B4 B4- | B2"A7" AB"Am" cdAB |"D7" c8- | c2 e2"G7" dB A2 | %16
+w: or- gan|* in the chap- el in the|moon- light|* while we're strol- ling down the|aisle|* where ro- ses en-|
+w: ||||||
+"C" G8- |"G7" G2 CD FEDC |"C" E4"Am" E4- |"C" E2 GA BcGA |"Em" B4 B4- |"A7" B2 AB"Am" cdAB | %22
+w: twine|* How I'd love to hear you|whis- per|* in the chap- el in the|moon- light|* that the love- light in your|
+w: ||||||
+"D7" c8- | c2"Dm7" e2 dc d2 |"C" c8- | c6 cd |"C" e2 e2"Em" e3 e |"C7" e2 e4 dc |"F" A2 A2 ^G3 G | %29
+w: eyes|* for- ev- er will|shine|* till the|ro- ses turn to|ash- es till the|or- gan turns to|
+w: |||||||
+"C" G6 EF | G2 G2"Em" G3 G |"Am" A2 c2 c2"Am7" cd |"D7" e2 e2 d3 c |"G7" d2 CD FEDC | %34
+w: rust If you|nev- er come I'll|still be there till the|moon- light turns to|dust how I'd love to hear the|
+w: |||||
+"C" E4"Am" E4- |"C" E2 GA BcGB |"Em" B4 B4- |"A7" B2 AB cdAB |"D7" c8- | c2"Dm7" e2"G7" dc d2 |1 %40
+w: cho- ir|* in the chap- el in the|cha- pel|* as they sing "Oh Pro- mise|Me"|* for- ev- er be|
+w: ||||||
+"C" c8 |"G7" z2 CD FEDC :|2"C" c8- | c8 |] %44
+w: mine|How I'd love the hear the|mine||
+w: ||||
+

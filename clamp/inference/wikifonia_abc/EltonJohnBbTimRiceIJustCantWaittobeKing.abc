@@ -1,0 +1,69 @@
+X:1
+T:I Just Can't Wait to be King
+T:I Just Can't Wait to be King 
+T:Disney's Lion King
+C:Elton John - Bb
+Z:All Rights Reserved
+%%score ( 1 2 3 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 3
+%%MIDI program 71
+V:2 treble 
+%%MIDI channel 3
+%%MIDI program 71
+V:3 treble 
+%%MIDI program 71
+V:1
+ z6 z3/2 D/ |"G" D/DE GB A G2 D/ |"G" E/GG A G2 D DE/ | z G GG _B/AG GB/ | z _B B/A G2 z2 D/ | %5
+w: (Simba)I'm|gon- na be a migh- ty king So|en- e- mies be- ware! (Zazu)Well I've nev-|er seen a king of beasts With quite|so lit- tle hair (Simba)I'm|
+"G" D/DE GB A G2 D/ | E/GG A/ G4 z/ D/ | E/GG E3/2 _B/A G2 G/ |"E/G" B/GG G/ G4 D | %9
+w: gon- na be the mane e- vent Like|no king was be- fore I'm|brush- ing up on look- ing down I'm|work- ing on my roar (Zazu)Thus|
+"A" EG GG GG BG |"D" A6 E/G _B/- |"C" B2 AG d2 A/G/ G- |"G" G2 z6 | z6 E/G/G/G/ | %14
+w: far, a rath- er un- in- spir- ing|thing (Simba)Oh, I just|_ ca- n't wait to be king!|_|(Simba)No one say- ing|
+"C" A G2 z3 E/G/G/G/ |"Am" B A2 z3 E/G/G/G/ |"D/Gb" B A2 z3 E/G/G/G/ |"Dsus4/G" c2 B6 | %18
+w: do this (Nala)No one say- ing|be there (Simba)No one say- ing|stop that (Nala)No one say- ing|see here|
+"C" EG GE G2 BG |"D" A2 z6 |"C" _BB AG A2 AG |"D/G" G2 z6 | z7 D |"G" DD G>G B/A G2 G/ | %24
+w: (Zazu)Now see here! (Simba)Free to^run around all|day|Free to do it all my _|way|(Zazu)I|think it's time that you and I Ar-|
+"D/G" BA GA G4 |"C" EG G/EG A3/2 G/AB/ | z B B/A/ G4 D |"G" GG GG A/GG A3/2 | %28
+w: ranged a heart to heart|(Simba)Kings don't need ad- vice From lit- tle horn-|bills for a start (Zazu)If|this is where the mon- arch- y is|
+"D/G" B/BB3/2 A/ G2 G GE/ | z G GE GG/G GB/ | z B BA G3/8 z2 z/ z/8 D |"A" EG GG GG BG | %32
+w: head- ed Count me out Out of serv-|ice, out of Af- ri- ca I would-|n't hang a- bout This|child is get- ting wild- ly out of|
+"D" A6 E/G _B/- |"C" B2 AG d2 A/G/ G- |"G" G2 z6 | z8 | z8 | z8 | z8 | z6 F/^G/G/G/ | %40
+w: wing (Simba)Oh, I just|_ ca- n't wait to be king|_|||||Ev- ery- bod- y|
+"Db" _B ^G4 z F/G/G/G/ |"Bbm" c _B4 z F/^G/G/G/ |"Eb/G" c _B4 z ^G/G/G/G/ | %43
+w: look left Ev- ery- bod- y|look right Ev- ery- where you|look I'm Stand- ing in the|
+"Ebsus4/Ab" ^c =c3 z3 _E |"Db" [^CF]^G<[=C_EG] G<[^CFG] G/[FGc] G3/2 |"Eb" [_EG]8 | %46
+w: spot- light (Animals)Let|ev- ery crea- ture go for broke and|_|
+"Db" [^CF]^G<[=C_EG] G<[^CFG] G/[FGc] G3/2 |"Eb" [_EG]8 | %48
+w: hear it in the herd and on the|_|
+"Db" [^CF]^G<[=C_EG] G<[^CFG] G/[FGc] G3/2 |"Eb" _E8 |"Db75" [^CFB]2 [^CF_B]^G [_E=GB]2 [CEB]<^G | %51
+w: gon- na be King Sim- ba's fin- est|_|* ca- n't wait to be|
+"Ab" C8 |"Db75" [^CFB]2 [^CF_B]^G [_E=GB]2 [CEB]<^G |"Ab" C8 |[M:2/4]"Db75" [^CFB]2 [^CF_B]^G | %55
+w: _|* ca- n't wait to be|_|* ca- n't|
+[M:4/4]"Eb" _B8- | B4 x4 |"Ab" ^G6 x2 | ^G/c/_e/[ce^g] [ceg]e/ [ceg]2 ^G,2 |] %59
+w: _||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | _B7 _E | x8 | _B7 _E | x8 | [G_B]6 F/^G [^CF=B]/- | x8 | %51
+w: |||||||sing Let's||wing It's||fling (Simba)Oh, I just||
+ [_E^G]6 F/G [^CFB]/- | x8 | [_E^G]6 F/G [^CFB]/- |[M:2/4] x4 |[M:4/4] [_EG]4 _B4- | B4 x4 | %57
+w: king! Oh, I just||king! Oh, I just||wait _|_|
+ z/ c/_e/[ce^g] [ceg]g/ [^cf]c/ [=ce]2 z/ | x8 |] %59
+w: ||
+V:3
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 | %55
+w: |||||||||||||||||
+[M:4/4] x4 [G_eg]4 | [_B_eg_b]4 [e_e']2 B<^G | x8 | x8 |] %59
+w: to|be _ king! _|||
+

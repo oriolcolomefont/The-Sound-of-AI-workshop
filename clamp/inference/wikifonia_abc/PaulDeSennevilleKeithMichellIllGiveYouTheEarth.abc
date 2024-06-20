@@ -1,0 +1,41 @@
+X:1
+T:I'll Give You The Earth
+T:I'll Give You The Earth
+T:Tous Les Bateaux,Tous Les Oiseaux
+T:Paul De Senneville
+T:Keith Michell
+C:Paul De Senneville
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^moderato" ABBA A4 | z CCA AFFG |"Em7" GAAG G4 |"A7" z A,A,G GEEE |"Dm" FGGF"C#+" F4 | %5
+w: I'll give you the Earth|for you to hold in your two|hands for what it's worth;|I'll take the stars and make a|gar- land for your hair|
+w: |||||
+"F6" z FAG"Bm7b5" FEFD |"Gm6" E8 |"A7" A6 z2 |:"F" ABBA A4 | z AcB AFFG |"Em7" GAAG G4 | %11
+w: And there'll be flow- ers ev- 'ry-|where.||Then I'll take the sky|wipe off the clouds and give you|blue- birds that fly high,|
+w: |||We'll ride on the sea,|swim in a love that's deep and|brave and wide and free.|
+"A7" z A,A,G GEEE |"Dm" FGGF"C#+" F4 |"F6" z FAG"Bm7b5" FEFD |"Gm6" E8 |"A7" A6 z2 |"F" A8 | %17
+w: I'll give you trees that throw their|bran- ches at the sky,|I'll give you an- y- thing you|ask|me.|See|
+w: we'll take our love and bur- nish|all the world a- round,|And when we weep we'll make no|sound.||If|
+ z ABA cBAB |"Em7" AG G6 |"A7" z GAG"A7b9" B3 A |"Dm" GFFF-"C#+" F4 |"F6" z FGF"Bm7b5" AGFD | %22
+w: I've caught a pearl- * * here|in my hand|And on- ly we can|un- der- stand * *|that pearls don't hap- pen when you|
+w: you think I'm prom- is- ing too|much * *|Here is my hand and|when we touch * *|I'll give you all and heav- en|
+"Gm6" E8 |"A7" A6 z2 |"F" ABBA A4 | z CCA AFFG |"Em7" GAAG G4 |"A7" z A,A,G GEEE | %28
+w: cry.||I'll give you the sun|the stars, the moon I'll give you|joy and as we run|A- cross the sands of life with|
+w: too.||I'll give you the Earth|for you to hold in your two|hands for what it's worth|I'll take the stars and make a|
+"Dm" FGGF"C#+" F4 |1"F6" z FAG"Bm7b5" FDEE ||"Gm6" E8 |"A7" A6 z2 :|2"F6" z FAG"Bm7b5" FDEE || %33
+w: hap- pi- ness we'll laugh|and you'll be whole and not a|half|then.|And there'll be flow- ers ev- 'ry-|
+w: gar- land for your hair|||||
+"Gm6" E8- |"A7" E6 z2 |:"F" ABBA A4 | z AcB AFFG |"Em7" GAAG G4 |"A7" z A,A,G GEEE | %39
+w: where||I'll give you the sun,|the stars, the moon, I'll give you|joy and as we run|A- cross the sands of life with|
+w: ||La la la la la|la la la la la la la|la la la la la|La la la la la la la|
+"Dm" FGGF"C#+" F4 |"F6" z FAG"Bm7b5" FEFD |"Gm6" E8 |"A7""^Repeat & Fade 2nd.time" A6 z2 :| %43
+w: hap- pi- ness we'll laugh,|And you'll be whole, and not a|half|then.|
+w: la la la la la|La la la la la la la|la|la.|
+

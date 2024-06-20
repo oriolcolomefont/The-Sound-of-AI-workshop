@@ -1,0 +1,38 @@
+X:1
+T:If That Isn't Love
+T:If That Isn't Love
+T:Dottie Rambo, 1969
+C:Dottie Rambo, 1969
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z3 |[Q:1/4=80]"Bb" F F3/2 F/ |"F" G F3/2 E/ |"Eb/Bb" E"Bb" D2- | D2 z | %10
+w: ||||||He left the|splen dor of|hea ven|_|
+"Eb" B G3/2 B/ |"F" A2- A/G/ |"Bb" F3- |"F" F z F/B/ |"Bb" d2 d |"Fm/Bb" e"Bb7" d3/2 c/ | %16
+w: know ing His|des _ ti|ny|_ was the|lone ly|hill of Gol|
+"Eb" c B2- | B z A/G/ |"Bb" F B"Eb" e |"F6" d2-"F7" d/c/ |"Bb" B3- | B z B |"Bb7" c B _A | %23
+w: go tha|_ There to|lay down His|life _ for|me|_ If|that is n't|
+"Eb" G3- | G2 z/ B/ | c B3/2 B/ |"Bb" d3- | d z d/d/ |"Eb/Bb" e"Bb" d3/2 B/ |"Cm7" c3- | c z c/d/ | %31
+w: love|_ the|oc ean is|dry|_ There's no|stars in the|sky|_ and the|
+ e d/ c B/ |"Bb" d3- | d z B |"Bb7" c B _A |"Eb" G3- | G2 B | c B3/2 B/ |"Bb" d3- | d z d/d/ | %40
+w: spar row _ can't|fly|_ If|that Is n't|love|_ then|heav en's a|myth|_ there's no|
+"Eb/Bb" e"Bb" d3/2 B/ |"Cm7" c3- | c z d | e d c |"Bb" B3- | B2 z |"Bb" F F3/2 F/ |"F" G F3/2 E/ | %48
+w: feel ing like|this|_ if|that is n't|love|_|Ev en in|death he re|
+"Eb/Bb" E"Bb" D2- | D2 z |"Eb" B G3/2 B/ |"F" A2- A/G/ |"Bb" F3- |"F" F z F/B/ |"Bb" d2 d | %55
+w: mem bered|_|thief hang ing|by _ His|side|_ _ He|spoke with|
+"Fm/Bb" e"Bb7" d3/2 c/ |"Eb" c B2- | B z A/G/ |"Bb" F B"Eb" e |"F6" d2-"F7" d/c/ |"Bb" B3 | B z B | %62
+w: love and com|pas sion|_ then He|took him to|par _ i|dise|_ If|
+"Bb7" c B _A |"Eb" G3- | G2 z/ B/ | c B3/2 B/ |"Bb" d3- | d z d/d/ |"Eb/Bb" e"Bb" d3/2 B/ | %69
+w: that is n't|love|_ the|oc ean is|dry|_ There's no|stars in the|
+"Cm7" c3- | c z c/d/ | e d/ c B/ |"Bb" d3- | d z B |"Bb7" c B _A |"Eb" G3- | G2 B | c B3/2 B/ | %78
+w: sky|_ and the|spar row _ can't|fly|_ If|that Is n't|love|_ then|heav en's a|
+"Bb" d3- | d z d/d/ |"Eb/Bb" e"Bb" d3/2 B/ |"Cm7" c3- | c z d | e d c |"Bb" B3- | B2 z | z3 | z3 | %88
+w: myth|_ there's no|feel ing like|this|_ if|that is n't|love|_|||
+ z3 | z3 |] %90
+w: ||
+

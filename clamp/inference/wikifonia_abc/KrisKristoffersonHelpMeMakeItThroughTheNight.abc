@@ -1,0 +1,25 @@
+X:1
+T:Help Me Make It Through The Night
+T:Help me make it through the night
+T:Kris Kristofferson
+C:Kris Kristofferson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|: z2"Eb" E G | A G F G | B,2"Ab" z2 |"Eb" z2 G G | A G G F |"Ab" E4- | E4 |"Fm" z2 F G | A F F E | %9
+w: Take the|rib- bons from your|hair|shake it|loose and let it|fall||Lay- in|soft up- on my|
+w: Come and|lay down by my|side|till the|ear- ly morn- ing|light||all I'm|tak- in is your|
+"Bb7" D4- | D4 |1 z2 F G | A G F E |"Eb" G4 | z4 :|2"Bb7" z2 A A | G F E D!dacoda! ||"Eb" E4 | %18
+w: skin||like the|shad- ows on the|wall|||||
+w: time||||||help me|make it through the|night|
+ z2 E E | c c ^c d |"Ab" e4- | e4 | z4 | z2 d e | f e e e |"Eb" c B3- | B4 | z2 c e | e e e e | %29
+w: I dont|care who's right or|wrong|||I dont|try to un- der-|stand *||let the|dev- il take to-|
+w: |||||||||||
+"F7" d c3- | c4 | z2 c d | e c c =A |"Bb7" B4- | B4!D.S.! ||O z4 |"Eb" E4- |"Ab" E4 |"Eb" z4 |] %39
+w: mor- row||Lord, to-|night I need a|friend|||night|||
+w: ||||||||||
+

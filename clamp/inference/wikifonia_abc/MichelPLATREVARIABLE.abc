@@ -1,0 +1,13 @@
+X:1
+T:VARIABLE
+C:Michel PLATRE
+Z:Creative Commons BY-NC-SA
+L:1/8
+M:3/8
+K:C
+V:1 treble nm="Part_1"
+V:1
+ Gcd | e2 d | a2 g | e3 | c'ba | g2 e | c2 d | e3 | Gcd | e2 d | a2 g | e3 | c'ba | g2 e | c2 d | %15
+ B3 :: edc | edc | agf | e3 | cBA | cBA | B2 c | d3 | edc | edc | agf | e3 | cBA | cBA | G2 B | %31
+ A3 :| %32
+

@@ -1,0 +1,28 @@
+X:1
+T:Soft Lights And Sweet Music
+T:Soft Lights And Sweet Music
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Fm" z c"C7" c c |"Fm" c c (3c e d |"G7" =B2 G2- | G4 |"C7" z B B B | B B (3B c _A |"Fm" F4- | %7
+w: I can't re-|sist the moan of a|cel- lo,|_|I can't re-|sist the light of the|moon,|
+"Db7" F4 |"Fm" z c"C7" c c |"Fm" c c (3c e d |"G7" =B2 G2- | G4 |"C7" z B B B | B B (3B c _A | %14
+w: _|So place me|in a light that is|mel- low|_|And let me|hear a beau- ti- ful|
+"Fm" F4- | F F"Bbm" (3G _A B |"Fm""C7" c4- |"Fm" c F"Bbm" (3G _A B |"C7" c4- | c4 |:"F7" _e2 c2- | %21
+w: tune,|_ The mus- ic must|flow,|_ The lights must be|low.|_|Soft lights|
+ c2 _e2 |"D7" c4 | A c2 A |"G7" F2 D2- | D2 F2 |"Bm7b5" D4- |"Bb7" D4 |"F" z C D F | %29
+w: _ and|sweet|mu- sic and|you in|_ my|arms.|_|Soft lights and|
+ A c"F#dim" d d- |"C7""Gm7/D" d4- |"Ebdim""C7/E" d4 |"C7" z C E G | B c"C+7" d d- |"F6""Gm7" d4- | %35
+w: sweet mel- o- dy|_||will bring you|clo- ser to me.|_|
+"G#dim""F/A" d4 |"F7" _e2 c2- | c2 _e2 |"D7" c4 | A c2 A |"G7" F2 D2- | D2 F2 |"Bm7b5" D4- | %43
+w: |Cho- pin|_ and|pale|moon- light re-|veal all|_ your|charms.|
+"Bb7" D4 |"F" z C D F | A c"Dm7" d f |"G7" g4 | e d2 A |"C7" c2 A2- | A2 D2 |1"F""Abdim" F4 | %51
+w: _|So give me|vel- vet lights and|sweet|mus- ic and|you in|_ my|arms.|
+"Gm7""C7" z4 :|2"F" F4- | F3 z |] %54
+w: |arms.|_|
+

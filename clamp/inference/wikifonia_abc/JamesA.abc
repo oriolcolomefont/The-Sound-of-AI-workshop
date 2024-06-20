@@ -1,0 +1,43 @@
+X:1
+T:The Rose Of No Man's Land (1916)
+T:The Rose Of No Man's Land(1916)
+T:James A. Brennan
+T:William Thomas
+C:James A. Brennan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Intro" z4 z2 GF |"Em" E2"B7" F2"Em" G2"Db7" cB |"D" A2"Gb" ^A2"B" B2 cd | %3
+w: |||
+w: |||
+"E7" e2 B2"Em7b5" d"A7" c3 |"D" d4 d'2 z2 |:"D" z"^Verse" ABc"B" BA F2 |"E7" B4 E4 | %7
+w: ||I've seen some beau- ti- ful|flow- wers|
+w: ||Out of the Heav- en- ly|splen- dour|
+"A7" G2 AB F2 E2 |"D""Ebdim" A4-"A7" A z z2 |"D" z ABc BA"Ebdim" F2 |"A7" A4 E4 | %11
+w: Grow in life's gar- den|fair. *|I've spent some won- der- ful|hours *|
+w: Down to the trail of|woe *|God in His mer- cy has|sent her|
+"D" F2"Bm" Bd"E7" c2 B2 |"A""Adim" A4-"A" A z"B7" z2 |"G" E2"Bm" FG"E7" B2 d2 |"Bb7" d4"A7" c4 | %15
+w: Lost in their fra- grance|rare, *|But I have found an-|oth- er,|
+w: cheer- ing the world be-|low. *|We call her Rose of|Heav- en,|
+"E7" B2"Gb7" cd"E7" c2 E2 |"A""Gbdim" A4-"A" A z FG ||"D""^Chorus" A^G A4 B2 |"A7" A^G =G4 EF | %19
+w: Won- drous be- yond com-|pare. * There's a|rose that grows on|"No Man's Land" And it's|
+w: We've learn'd to love her|so.- * * *|||
+"Em" GA"A7" B4 c2 |"D""Ebdim" B4-"Em" B2"D" FG | A^G A4 AB |"A" c=c"Gb7" ^c4 =c^c | %23
+w: won- der- ful to|see; * Tho' it's|spray'd with tears, it will|live for years, In my|
+w: ||||
+"Bm7" d2 cd"E7" c2 E2 |"A" A4- A z"D" FG | A^G A4 B2 |"A7" A^G =G4 EF | G2 AA B2"Gb7" c2 | %28
+w: gar- den of mem- or-|y. * It's the|one red rose, the|sol- dier knows, It's the|work of the Mas- ter's|
+w: |||||
+"Bm" d4- d z"B7" GF |"Em" E2"B7" F2"Em" G2"Db7" cB |"D" A2"Gb" ^A2"B" !fermata!B2 cd | %31
+w: hand. * 'Mid the|wars great curse, stands the|Red Cross Nurse, She's the|
+w: |||
+"E7" e2 B2"Em7b5" d"A7" c3 |"D" d4- d2 z2 :| %33
+w: rose of "No Man's|Land"- *|
+w: ||
+

@@ -1,0 +1,22 @@
+X:1
+T:Maria Elena
+T:Maria Elena
+C:Lorenzo Barcelata
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z c BcBA |:"C" c6 E2 |"Em7" G4- GBB_B |"Dm" A8- | A3 d ^cdc=c |"G7" B6 D2 | G4- GBGB |"C" E8- | %8
+w: Ma- ri- a͡͡~E- le- na|you're the|ans- * wer to a|prayer.|_ Ma- ri- a͡͡~E le na|can't you|see _ how much I|care?|
+ E6 G2 | e4- ecdB | c4- cCEG |"Ebdim" B6 A2 |"Dm7" F6 G2 | d4- dBcA |"G7" B4- BDEF |"C" B6 A2 | %16
+w: _ To|me _ your voice is|like _ the ech- o|of a|sigh, and|when _ you're near my|heart _ can't speak a-|bove a|
+ E3 c BcBA | c6 E2 |"Em7" G4- GBB_B |"Dm" A8- | A3 d ^cdc=c |"Bm7b5" B6 E2 |"E7" ^G4 E4 | %23
+w: sigh. Ma- ri- a͡͡~E- le- na|say that|we _ will ne- ver|part,|_ Ma- ri- a͡͡~E- le- na|take me|to your|
+"Am7""Ab7" c8- |"Gm7" c6"C7" c2 |"Fmaj7" d4- dcdc |"Fm6" d4- dcd^d |"Em7" e8- |"Am7" e4- eEGB | %29
+w: heart.|_ A|love _ like mine is|great _ e- nough for|two.|_ _ To share this|
+"D9" A4- A^FAd |"G13" B4- BGBe |1"C""Cdim" c8- ||"G7" c3"^N.C." c BcBA :|2"C" c8 |] %34
+w: love _ is real- ly|all _ I ask of|you.|_ Ma- ri a͡͡~E- le- na|you.|
+

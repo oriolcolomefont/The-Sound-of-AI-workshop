@@ -1,0 +1,31 @@
+X:1
+T:Playmates
+T:Playmates
+T:music based on "Iola" by Charles L. Johnson
+T:Saxie Dowell
+C:Saxie Dowell
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B2 G2- | G G"F7" A G |"Bb" F B D2- | D G"Bdim" G _G |"F7/C" F c A2- |1 A G G _G || %6
+w: Play- mate|* come out and|play with me|* and bring your|dol- lies three,|* climb up my|
+w: rain barr'l,|* slide down my|cel- lar door|* and we'll be|jol- ly friends||
+"Bb" F d B2- |"Bb7" B B B B :|2"F7" A F G A ||"Bb""Eb" B4- |"Bb" B3 B |"Eb" B/B/ G E G |"Bb" F3 B | %13
+w: ap- ple tree,|* look down my-|* for- ev- er|more.|* She|could- n't come out and|play, it|
+w: |||||||
+"Eb" B G E G |"Bb" F3 B |"Eb" B G E G |"Bb" F d c B |"F7" A e d c |"Bb" B B"Bb7" B B |: %19
+w: was a sun- ny|day, with|tear- ful eye she|breathed a sigh and|I could hear her|say, I'm sor- ry!|
+w: ||||||
+"Eb" B2 G2- | G G"F7" A G |"Bb" F B D2- | D G"Bdim" G _G |"F7/C" F c A2- |1 A G G _G || %25
+w: Play- mate|* I can- not|play with you,|* my dol- lies|have the flu,|* boo- hoo hoo|
+w: rain barr'l,|* ain't got no|cel- lar door,|* but we'll be|jol- ly friends||
+"Bb" F d B2- |"Bb7" B B B B :|2"F7" A F G A ||"Bb""Eb" B4- |"Bb" B3 z |] %30
+w: hoo hoo hoo,|* ain't got no|* for- ev- er|more.-||
+w: |||||
+

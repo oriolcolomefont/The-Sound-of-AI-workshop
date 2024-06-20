@@ -1,0 +1,24 @@
+X:1
+T:Sway - Part 2
+T:Sway - Part 2
+T:Pablo Beltran Ruiz
+T:Norman Gimbel
+C:Pablo Beltran Ruiz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+V:1
+ z A2 A AAAf |"Em7b5" e2 d"A7b9" ^A4 z |"Em7b5" e2 d"A7b9" ^A4 z |"Dm" e2 dA/G/ F/G/ A3 | %4
+w: Like a flo- wer ben- ding|in the breeze,|bend with me,|sway with me * * * *|
+ z A2 A AAAA |"Em7b5" ^A2 =A"A7b9" G4 z |"Em7b5" ^A2 =A"A7b9" G4 z |"Dm" A2 G F4 z | z A2 A AAAf | %9
+w: When we dance you have a|way with me|stay with me|sway with me.|When ma- rim- ba start to|
+"A7" e8 | (3z2 A2 A2 (3A2 A2 g2 |"Dm" f3 e d4 | z A2 A AAAf |"A7" e4 z4 | z A2 ^A (3=A2 A2 ^G2 | %15
+w: play|hold me close make me|sway * *|like an o- cean hugs the|shore,|hold me close, sway me|
+"Dm" A8 | z A2 A AAAf |"Em7b5" e2 d"A7b9" ^A4 z |"Em7b5" e2 d"A7b9" ^A4 z |"Dm" e2 d A4 z | %20
+w: more.|Like a flo- wer ben- ding|in the breeze,|bend with me,|sway with me,|
+ z d2 d d^cde |"Em7b5" d2 ^c"A7b9" ^A4 z |"Em7b5" e2 d"A7" ^c4 z |"Dm" f2 ed- d4- | d2 z2 z4 |] %25
+w: when we dance you have a|way with me,|stay with me,|sway with me! *||
+

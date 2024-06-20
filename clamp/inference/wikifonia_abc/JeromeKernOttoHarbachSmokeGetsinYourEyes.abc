@@ -1,0 +1,25 @@
+X:1
+T:Smoke Gets in Your Eyes
+T:Smoke gets in your eyes
+T:(Easy version)
+T:Jerome Kern
+T:Ottos  Harbach
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G4 ^FAGE |"Am" c4"D7" BdcA |"G" g8- |"C" g4"A7" ag^de |"G" ^f4 edEG |"Am7" d4"D7" edDE | %6
+w: You asked me how I|knew my true love was|true|* I of course re-|plied some- thing here in-|side can- not be de-|
+"G" B8 |"Am7" A8 |"G" G4 ^FAGE |"Am7" c4"D7" BdcA |"G" g8- |"C" g4"A7" ag^de |"G" ^f4 edEG | %13
+w: nied||they said some- day you'll|find all who love are|blind|* when your hearts on|fire you must re- al-|
+"Am7" d4"D7" edDE |"G" G8- | G8 |"Eb" G_B g2- gdf_e | G_B d2- dc (3_BC_E |"Bb7" _B4 _B4 | _B8 | %20
+w: ize snmoke gets in your|eyes||so I chaffed * them and I|gai- ly laughed * to think they could|douibt my|love|
+"Eb" G_B g2- gdf_e | G_B d2-"E7" dcBA |"G" B4"E7" B4 |"Am7" A8 |"G" G4 ^FAGE |"Am" c4"D7" BdcA | %26
+w: yet to- day * my love has|flown a- way * I am with-|out my|love|now laugh- ing friends de-|ride tears I can- not|
+"G" g8- |"C" g4"A7" ag^de |"G" ^f4 ed (3EGB |"Am7" d4"D7" edDE |"G" G8- | G6 z2 |] %32
+w: hide|* so I smile and|say when a love- ly flame|dies smoke gets in you|eyes.||
+

@@ -1,0 +1,32 @@
+X:1
+T:The Shrine Of Saint Cecilia
+T:The Shrine Of Saint Cecilia
+T:Jokern
+T:Carroll Loveday
+C:Jokern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Slowly" z4 z2 C2 ||"F" A2 AF ED^CD |"Gm" B2 BG"C7" E3 C |"F" c2 cA"Dm" GFEF | %4
+w: Our|home is a sham- bles, all I've|treas- ured is gone. The|town seems de- sert- ed, ev- 'ry|
+"Bb" d2 dc"Gm" B3 d |"Bb" f2 fd"Bbm" cBAB |"F" c2 Ae"D7" d2 A2 |"Bbm" B3 A"C7" c3 A |"F" G2 F4 C2 | %9
+w: one so for- lorn, A|storm came from up a- bove, but|some- how it missed The|Shrine Of Saint Ce-|cil- ia. The|
+ A2 AF ED^CD |"Gm" B2 BG"C7" E3 C |"F" c2 cA"Dm" GFEF |"Bb" d2 dc"Gm" B3 d |"Bb" f2 fd"Bbm" cBAB | %14
+w: bells in the cha- pel nev- er|ring an- y- more, The|clock in the stee- ple can't tell|time as be- fore, But|up on the hill- side stands a|
+"F" c2 Ae"D7" d2 A2 |"Bbm" B3 A"C7" c3 A |"F" G2 F4 c2 |"Bb""^a little faster" d4- d^cde | %18
+w: place heav- en blessed, The|Shrine Of Saint Ce-|cil- ia. Each|day * at e- ven|
+"F" c4- cccd |"Gm" BABA"C7" B2 c2 |"F" A6 B2 |"Gm" G2 G2"A7" G2 A2 |"Dm" F6 A2 |"G7" d2 A2 G2 F2 | %24
+w: tide * when I seek|ha- ven from my dai- ly|care, You'll|find me by her|side, it|seems so peace- ful|
+"Gm""C7" G6 C2 |"F""^a tempo" A2 AF ED^CD |"Gm" B2 BG"C7" E3 C |"F" c2 cA"Dm" GFEF | %28
+w: there. I|kneel in my sol- i- tude and|si- lent- ly pray, That|heav'n will pro- tect you dear, and|
+"Bb" d2 dc"Gm" B3 d |"Bb" f2 fd"Bbm" cBAB |"F" c2 Ae"D7" !fermata!d2 AA |"Bbm" B3 A"C7" c3 A | %32
+w: there'll come a day, The|storm will be o- ver and that|we'll meet a- gain at The|Shrine Of Saint Ce-|
+"F" G2 !fermata!F6 |] %33
+w: cil- ia.|
+

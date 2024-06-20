@@ -1,0 +1,17 @@
+X:1
+T:Ősszel érik, babám
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A3 B AGFC | F G3 A G3 | D4 D2 z2!fine! | d c3 A2 c2 | B A3 G c3 | A4 A2 z2 | d2 c2 A2 c2 | %7
+w: Ősz- szel é- rik, ba- bám,|a fe- ke- te|sző- lő,|Te vol- tál az|i- ga- zi sze-|re- tő,|Bo- csásd meg, ha|
+w: El- le- ned- re, bab- ám,|rosz- szat cse- le-|ked- tem.|||||
+ B2 A2 DEFG | A4 B2 z2!D.C.! |] %9
+w: va- la- va- la- ha- vé-|tet- tem,-|
+w: ||
+

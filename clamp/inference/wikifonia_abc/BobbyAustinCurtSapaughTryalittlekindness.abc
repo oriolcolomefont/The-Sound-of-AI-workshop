@@ -1,0 +1,31 @@
+X:1
+T:Try a little kindness
+T:Try a little kindness
+T:Bobby Austin and Curt Sapaugh
+C:Bobby Austin, Curt Sapaugh
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ A/A/ |:"D" A A A/ A3/2 |"G" A G G E |"D" F4 | z F/F/ G/ F3/2 |"A" E4 |"G" z D/D/ D F |"D" D3 z | %8
+w: If you|see your bro- ther|stand- ing by the|road|with a heav- y|load|from the seeds he's|sowed|
+w: |* Dont walk a-|round the down and|out|lend a hel- ping|hand|in- * stead of|doubt|
+ z z z/ A/A/A/ | A A A A |"G" A A G E |"D" F4 | z F G/ F3/2 |"A" E4 |"G" z D D/D/ F |"D" D3 z | %16
+w: andif * you|see your sis- ter|stand- ing by the|way|just stop and|say|"Youre goin' the wrong|way|
+w: and * the|kind- ness that you|show * ev- 'ry|day|will help some-|one|a- long * their|way|
+ z"A7" A B d || c3/2 B/ c/ e3/2 || c/B/ A2 d |"G" d3/2 d/ d/ d z/ |"D" B A2 d |"G" d d/d/- d A | %22
+w: You got- ta|try a lit- tle|kind- * ness yeah|show a lit- tle|kind- ness just|shine your light * for|
+w: ||||||
+"D" A A/F/- F D |"A" E4 |"A7" z d d d |"G" d3/2 d/ d/ d3/2 | f/e/ d- d/ d d/ |"D" d c B A | %28
+w: ev- 'ry- * one to|see|and if you|try a lit- tle|kind- * ness * then you'll|o- ver look the|
+w: ||||||
+"Bm" F F2 z/ E/ |"G" G G G G |"A" F E- E/ A, A,/ |"G" G G"A" F E |"D" D4- | D2"C" z2 |"G" z4 |1 %35
+w: blind- ness of|nar- row mind- ed|peo- ple * on their|nar- row mind- ed|streets,|||
+w: |||||||
+"D" z4 :|2"C" z4 |"G" D3"D" z |] %38
+w: |||
+w: |||
+

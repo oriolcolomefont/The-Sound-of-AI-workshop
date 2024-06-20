@@ -1,0 +1,94 @@
+X:1
+T:Skid Row (Downtown)
+C:Alan Menken
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 65
+V:1
+z4z2zF |"Bb" BBBB cBAG |"Gm" A B2B- B2zF |"Dm" AAAA BAGA |"Cm7" BAGF"F7" G2 A2 | %5
+w: Al-|arm goes off at se- ven and you|start up- town. _ You|put in your eight hours _ for the|po- wers that have al- ways|
+w: |||||
+"Bb" GA/G/ F2 z4"F/A" |"Gm" z2 DD F2>G2 |"Cm7" DE/D/ CB, C4 |"Eb/F" z2"^N.C." F,2 G,2 B,2 |: %9
+w: been. _ _ _|Till it's five P.|M. _ _ _ _ _|Then you go|
+w: ||||
+"Bb" D2 D2"F" z2 CB, |"Bb" C D2D- DC D2 |"Dm" F2 F2"A" z2 =ED |"Dm" =E2 FF- FD F2 | %13
+w: Down- town Where the|folks are broke _ You go|Down- town Where your|life's a joke _ You go|
+w: ||||
+"Eb" G2 G2"Bb" z2 FE |"Eb" F G2G- GB c2 |"Gm" d2 cB- B4 |"Eb/F" z2 F2 G2 B2 |1"Bb" G3A/G/"F" F4- | %18
+w: Down- town When you|buy your to- _ ken, you|go _ _ _|Home to Skid|Row! _ _ _|
+w: |||||
+"Bb" F2 F2 G2 B2 |"Gm" G3A/G/ F4 |2"Eb/F" z2 F,2 G,2 B,2 :|"Bb" F6 z2 |:"Ebmaj7" d2 dd cdcB | %23
+w: _ Home to Skid|Row! _ _ _|Yes you go||Up- town you ca- ter to a|
+w: ||||up- town you cat- er to a|
+ c d2d- d2zD |"Gm" dddd cdcB | c d2d- d2zG |"Cm" eeee dedc | d e2e- e2zG |1"F7" eeee dedc | %29
+w: mil- lion jerks _ _|Up- _ town you're mes- sen- gers and|mail- room clerks _ _|Eat- in' all your lun- ches at the|hot- dog carts _ The|boss- es take your mon- ey And they|
+w: mil- lion whores _ You|dis- infect * ter- raz- zo on their|bath- room floors _ Your|morn- ing's tri- bu- la- tion, af- ter-|noon's a curse _ And||
+ d e2e- e2 z2 :|2 ccdd e =e2"Eb/F"f- || f F2F,- F,G, B,2 ||"Bb" D2 D2"F" z2 CB, | %33
+w: break your hearts _||* That's when * you go|Down- town Where the|
+w: |five * o'clock is e- ven worse!|||
+"Bb" C D2D- D2 z2 |"Dm" F2 F2"A" z2 =ED |"Dm" =E F2F- F2 z2 |"Eb" G2 G2"Bb" z2 FE | %37
+w: guys are drips. _|Down- town Where they|rip your slips. _|Down- town Where re-|
+w: ||||
+"Eb" F G2G- GB c2 |"Gm" d2 cB- B4 |"Eb/F" z2 F2 G2 B2 |"Bb" G3A/G/"F" F4 |"Bb" z2 F2 G2 B2 | %42
+w: la- tion- ships _ are no-|go. _ _ _|Down on Skid|Row! _ _ _|Down on Skid|
+w: |||||
+"Gm" G3A/G/"Dm7" F4 |"Gm" z2 F2 G2 B2 |"Eb" G3A/G/"Bb" F4 |"Eb" z2 F2 G2 B2 |"Cm7" c8- | %47
+w: Row! _ _ _|Down on Skid|Row! _ _ _|Down on Skid|Row!|
+w: |||||
+"Eb6/F" c6"F7" z2 ||"Gm2" G2z2zD FG- | G B2A- AG F2 |"Eb2" G2z2zE FG- | G B2A- AG F2 | %52
+w: _|Poor! All my life,|_ I've always _ _ been|poor! I keep asking|_ _ god _ what I'm|
+w: |||||
+"Gm2" G2z2zD FG- | G B2A- AG F2 |"Dm2" G2z2z2>"Cm7"F2- | F G2"Eb/F"B- B c3 |"Cm" e2 z2"G" z4 | %57
+w: for! And he tells|_ me, "Gee, _ I'm not|sure... Sweep|_ that floor, _ kid"|Oh!|
+w: |||||
+"Cm"zc cc dcBG- |"Gm" GGzG BG"Dm"FG- |"Gm" G2zG A B2e- |"Cm" e2 z2"G" z4 |"Cm"zc cc (3d2 c2 B2 | %62
+w: I started _ life as an or-|_ phan, A child of the street,|_ here on Skid Row!|_|He took me in, gave me|
+w: |||||
+"Gm" GBzB B2 AB |"^Gb7-5" cBAB- B2 z2 |"Bb/F" cBAB- B2 z2 |"C7/E" cBAB- B2 AB |"F7sus4" c8- | %67
+w: shelt- er, A bed, crust of|bread, and a job- _|Treats me like dirt, _|Calls me a slob, _ Which I|am!|
+w: |||||
+"F7" c2 F2 B2 c2 ||"Bb" D2 D4CB, | C D2D- DC D2 |"Dm" F2 F4=ED | =E F2F- FD F2 |"Eb" G2 G4FE | %73
+w: _ So I live...|Down- town That's your|home address, _ _ ya live|Down- town When your|life's a mess, _ ya live|Down- town Where depression's|
+w: ||||||
+ F G2G- GB c2 |"Gm" d2 cB- B2 z2 |"Eb/F" z2 F2 G2 B2 |"Bb" G3A/G/"F/Bb" F4 |"Bb" z8 | %78
+w: * * just status _ _|quo! _ _ _|Down on Skid|Row! * * *||
+w: |||||
+"Dm" z2 AA"^Dsus24" AGAA- |"Dm" AGAB-"^Dsus24" BA"Dm" F2 |"Eb" z2 GB"Bb/Eb" BABB- | %81
+w: Cause I constantly _ _ pray|_ I'll get outa _ _ here|Please won't somebody say _ _|
+w: |||
+"Eb" BABd- dc B2 |"Gm" z2 BB BGFB- |"Eb/F" BG F2 B2 c2 |:"Bb" z2 DF"F/Bb" FDFF- | %85
+w: I'll _ get outa _ _ here|Someone gimme _ _ my shot|_ or I'll rot here!|Show me how and I will,|
+w: |||Gee, it sure would be swell|
+"Bb" FGAB-"F/Bb" BA"Bb" F2 |"Dm" z2 AA"^Dsus24" AGAA- |"Dm" AGAB-"^Dsus24" BA"Dm" F2 | %88
+w: _ I'll get out- _ ta here|I'll start climb- in' up hill|_ and get out- _ ta here|
+w: _ to get out- _ ta here|Bid the gut- ter fare- well|_ and get out- _ ta here|
+"Eb" z2 GB"Bb/Eb" BABB- |"Eb" BABd- dc B2 |1"Gm" z2 BB BGFB- |2"Eb/F" BG F2 B2 c2 :| %92
+w: Some- one tell me I still|_ could get out- _ ta here|Some- one * tell lady luck|that _ I'm stuck here|
+w: I'd move hea- ven and hell|_ to get out- _ ta Skid|||
+"Gm" z2 AB BGBB- || B"F7sus4"GBd- dc B2 | z2 GB BGBB- | BGBd- dc B2 | z2 GB BGBB- | BGBd- dc B2 | %98
+w: I'd do I- dun- no- what|_ to get out- _ ta Skid|But a hell of a lot|_ to get out- _ ta Skid|People tell me * theres not|* a way * out- ta Skid|
+w: ||||||
+ z2 GB BGBB- | BGBd- dc B2 |"Bb" B8-"F" |"Bb" B8-"F" |"Bb" B8"F" |"Bb" z z3 z4 |] %104
+w: But be- lieve me I gotta|_ get _ out- _ ta Skid|row!|_|||
+w: ||||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 |2 x8 :| x8 |: x8 | x8 | x8 | x8 | x8 | x8 |1 x8 | x8 :|2 x8 || x8 || x8 | x8 | x8 | x8 | x8 | %37
+w: ||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %56
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | %75
+w: |||||||||||||||||||
+ x8 | z2 DF FDFF- | FGAB-"F/Bb" BA"Bb" F2 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | %89
+w: |Someone _ show me a way|_ to get outa _ _ here||||||||||||
+ x8 |1 x8 |2 x8 :| x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %104
+w: |||||||||||||||
+

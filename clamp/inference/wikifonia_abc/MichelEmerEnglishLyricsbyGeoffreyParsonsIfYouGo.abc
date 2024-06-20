@@ -1,0 +1,28 @@
+X:1
+T:If You Go
+T:If You Go
+C:Michel Emer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Dm7" B3/2 ^c/ e2- | (3e d ^c (3e d c |"D7" =c4- |"Ab7" c2 z2 |"Bbmaj7" B3/2 A/ c2- | %5
+w: If you go,|_ if you love me no|more,|_|if I know|
+ (3c B A (3c B A |"E7" ^G4- | G2 z2 ||"Em7b5" =G ^F A G |"A7#9" B A c B |"Dm7" d ^c e d | %11
+w: _ that you want me no|more,|_|then the sun would|lose it's light, and|day turn in- to|
+"Bm7b5" f2 (3f e d |"Bb7#11" e4- | e z/ f/ (3f e d |"Em7b5" e4- |"A7" e2 z2 ||"Dm7" d3/2 ^c/ e2- | %17
+w: night, night with- out|stars,|_ deep night with- out|stars.|_|If you go,|
+ (3e d ^c (3e d c |"D7" =c4- |"Ab7" c2 z2 |"Bbmaj7" B3/2 A/ c2- | (3c B A (3c B A |"E7" ^G4- | %23
+w: _ if you leave me a-|lone,|_|if I know|_ you're no long- er my|own,|
+ G2 z2 ||"Em7b5" =G ^F A G |"A7#9" B A c B |"Dm7" d ^c e d |"Bm7b5" f2 (3f e d |"Bb7#11" e4- | %29
+w: _|win- ter would re-|place the spring, the|birds no more would|sing, this can- not|be;|
+ e z (3f e d |"A7" e4- |"D7" e2 (3d d d |"Fm7""Bb7" _e3 d |"A7" ^c2 (3c c c |1"Dm7" d4- | %35
+w: _ stay here with|me.|_ My heart would|die, I|know, if ~you should|go.|
+"Em7b5" d2"A7" z2 :|2"Dm7" d4- | d2 z2 |] %38
+w: _|go.|_|
+

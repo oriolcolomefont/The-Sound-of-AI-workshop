@@ -1,0 +1,22 @@
+X:1
+T:Some Day
+T:Some Day
+C:Rudolf  Friml
+Z:All Rights Reserved
+L:1/4
+M:6/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" B3 G3- | G F G A B z/ G/ |"Cm7" B3 G3- | G6 |"F7" A3 F3- | F F G A F z/ A/ |"Bb6" G6- | G6 | %8
+w: Some day|_ you will seek me and|find me.|_|Some day|_ of the days that shall|be.|_|
+"G7" G3 D3- | D D E F E3/2 D/ |"Cm" G3 C3- | C/ z/ G A B3/2 A/ G |"C9" d3 G3- |"Eb9" G2 A B A B | %14
+w: Sure- ly|_ you will come and re-|mind me|_ of a dream that is|call- ing|_ for you and for|
+"C7" c6- |"F7" c6 |"Bb" B3 G3- | G F G A B z/ G/ |"Cm7" B3 G3- | G6 |"F+" A3 F3- | %21
+w: me.|_|Some day|_ when the win- ter is|o- ver|_|Some day|
+"F+7" F F G A B c |"D7" d6- |"Fm6""G7" d6 |"Cm7" G3 e3- |"Ebm" e d e d c z/ B/ |"Bb" D3 A3- | %27
+w: _ in the flush of the|Spring|_|My soul|_ shall dis- cov- er, the|soul born|
+ A G A G F z/ D/ |"Cm7" G3- G A B | c3"F7" (d e) f |"Bb" f6- | f6 |] %32
+w: _ for her love- er, the|man _ with the|heart of _ a|king.||
+

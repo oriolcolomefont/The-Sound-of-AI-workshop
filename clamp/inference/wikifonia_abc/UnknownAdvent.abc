@@ -1,0 +1,25 @@
+X:1
+T:Advent
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"Dm" z8 |:"Dm" d2- dd/e/"Am" c2 A2 |"F" c2- cc/d/"C" A2 G2 |"Bb" F2- FG/B/"F" A2 GF |1 %4
+w: ||||
+"A7" E2- EE/F/ G2 A2 :|2"A7" E8 ||"Dm" D6 z2 |"Dm""^Szóló" A<A AB/A/-"Am" A2 z2 | %8
+w: |||Sö- tét fenn az ég, *|
+"F" A>A AA"C" G2 z3/2 G/ |"Bb" GF F2"F6" FG FD/E/- |"A" E4"A7" z4 |"Dm" A<A AB/A/-"Am" A2 z2 | %12
+w: fény se- hol sem ég, az|ar- com- ra ál- mos köd szi- tál,||Sü- ket sű- rű csönd, *|
+"F" AA/A/- AA/G/-"C" G2 z G |"Bb" GF/F/- FB"F" AA A<A |[M:2/4]"E" ^GG/G/ GG/A/- | %15
+w: né- ma- ság- * kö- szönt, * és|sen- ki nincs * ki fény- lő je- let|gyújt- son az éj- sza- kán.|
+[M:4/4]"A" A4 z2"^Kórus" AA ||[K:D]"G" d2 cB/A/-"D" A2 AB |"A" AA/A/ AG/F/-"Bm" F2 EF | %18
+w: * Jöjj el|hát Is- te- nem, * lob- bants|lán- got az éj- je- len, * é- lő|
+"G" GG G<G"A" AA AB/A/- |"D" A6"A7" AA |"G" d2 cB/A/-"D" A2 AB |"A" AA/A/ AG/F/-"Bm" F2 EF | %22
+w: ir- gal- ma- dat ter- jeszd ki kö- lénk,|* Jöjj el|hát Is- te- nem, * nyíl- jon|már ki a vég- te- len, * jöjj el|
+"G" GG/G/- GB"D" AF"A7" G>E |"D" D6 z2 |] %24
+w: gyer- mek ar- * cú Is- ten, szállj kö-|zénk!|
+

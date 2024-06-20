@@ -1,0 +1,17 @@
+X:1
+T:Erdő mellett nem jó lakni
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A A E | A3 | G ^F D | E z A | E z2 :| A A E | A3 | G ^F D | E z z | C C A, | D3 | C B, G, | %12
+w: Er- dő mel-|lett|nem jó lak-|ni, ha-|hó!|Há- rom ö-|let,|meg egy fe-|let,|ö- lel- jen|meg,|aa- ki sze-|
+w: Mert sok fát|kell|ha- so- gat-|ni, ha-|hó!||||||||
+ A, z D | A, z2 |] %14
+w: ret, ha-|hó!-|
+w: ||
+

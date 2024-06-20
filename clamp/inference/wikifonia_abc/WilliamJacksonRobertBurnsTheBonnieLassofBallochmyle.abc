@@ -1,0 +1,36 @@
+X:1
+T:The Bonnie Lass of Ballochmyle
+T:Bonnie Lass of Ballochmyle
+C:William Jackson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=110
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x6 (cB) |"F" A>G A>B c2 d2 |"C7" G6 d2 |"F" c>A F>G"C7" A2 G2 |"F" F6 (cB) | A>G A>B c2 d2 | %6
+w: Fair _|is the morn in flow' ry|May And|sweet is night in Au- tumn|mild When _|rov- ing thro' the gar- den|
+w: O _|had she been a coun- try|maid, And|I a hap- py coun- try|swain; Tho, _|shelt' red in the low- est|
+"C7" G6 d2 | c=B cd e2 d2 | c6 c2 |"F" c f3 A2 c2 |"Bb" (dc)(BA)"C7" G3 C |"F" F>G A>B (cd) (cB) | %12
+w: gay Or|wand' ring in the lone- ly|wild, But|wo- man na- tures|dar- * ling _ child! There|all her charms she does _ com- *|
+w: shed That|ev- er rose on Scot- lands|plain, Tho'|wea- ry win- ter's|wind _ and _ rain With|joy with rap- ture I _ would _|
+ (A4"C7" G2) C2 |"F" A3 A"C7" G>F G>A |"F" F6 F2 |"Bb" B3 B A>G A>B |"C7" G6 GF | E>F G>A B2 (dc) | %18
+w: pile _ E'en|there her o- ther works are|foil'd, E'en|there her o- ther works are|foil'd By the|bon- nie lass o' Ba- loch- *|
+w: toil _ And|night- ly to my bos- om|strain And|Night- ly to my bos- om|strain. The _|_ _ _ _ _ _ _|
+"F" c4"Bb" d4 |"F" cA F"C7" G A2 G2 |"F"[Q:1/4=60]"_Adagio ¼ note = 60" F6 (AB) | %21
+w: myle, The|bon- nie lass o' Bal- loch-|myle, The _|
+w: |||
+"Bb" d<c F4"F" (AB) |"Bb" dc =Bc"F" !fermata!F3 c |"C7"[Q:1/4=108]"_Moderato" ed c B A2 G2 | %24
+w: bon- nie lass The _|bon- nie, bon- nie lass The|bon- nie lass o' Bal- loch-|
+w: |||
+"F" F6 :|"F"[Q:1/4=50]"_rit." F6 (AB) |"Bb" d<c F4"F" (AB) |"Bb" dc =Bc"F" !fermata!f3 c | %28
+w: myle|myle, The _|bon- nie lass The _|bon- nie bon- nie lass The|
+w: ||||
+"C7" ed c B A2 G2 |"F" F6 |] %30
+w: bon- nie lass o' Bal- loch-|myle|
+w: ||
+

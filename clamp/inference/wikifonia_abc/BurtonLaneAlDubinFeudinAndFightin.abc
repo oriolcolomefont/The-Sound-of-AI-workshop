@@ -1,0 +1,30 @@
+X:1
+T:Feudin' And Fightin'
+T:Feudin' And Fightin'
+C:Burton Lane
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" G"Cm7" B2 c |"Fm7" G E"Bb7" C B, |"Eb" G"Cm7" E3- |"Fm7""Bb7" E4 |"Eb" G B2 c | G E C B, | %6
+w: Feud- in' and|fuss- in' and a-|fight- in',|_|Some- times it|gets to be ex-|
+"Fm7" G F3- |"Bb7" F4 |"Eb" G B2 c |"Eb7" e/c/ B G E |"Ab" F E2 C |"B7" E2 F E |"Eb" G B2 G | %13
+w: ci- tin'|_|Don' like them|orn- er- y neigh- bors|down by the|creek. We'll be|plumb out of|
+"Fm7" E B, E2 |"Eb""Ab" E4- |"Eb""Ebdim" E4 |"Bb7" B d3- | d2 c B |"Eb" c B3- | B4 | %20
+w: neigh- bors next|week.|_|Grand- ma,|_ poor ol'|grand- ma,|_|
+"Fm7" B B"Gm" B B |"F#m""Fm" B3 A |"Eb" A G3- | G4 |"G7" G =B3- | B2 G F |"C" F =E3- | %27
+w: Why'd they have to|shoot poor|grand- ma?|_|She lies|_ 'neath the|clov- er|
+"Cmaj7""C6" E4 |"F" F F"F7" F F |"Db+" F2"F7b5" F2 |"Fm7" F"Bb7" B3 | B/c/B/A/ G F | %32
+w: _|Some- one caught her|bend- in'|ov- er|pick- in' up a dai sy!|
+"Eb" G"Cm7" B2 c |"Fm7" G E"Bb7" C B, |"Eb" G"Cm7" E3- |"Fm7""Bb7" E4 |"Eb" G B2 c | G E C B, | %38
+w: Feud- in' and|fuss- in' and a-|fight- in'|_|This is a|wrong that needs a-|
+"Fm7" G F3- |"Bb7" F4 |"Eb" G B2 c |"Eb7" e/c/ B G E |"Ab" F E2 C |"B7" E2 F E |"Eb" G B2 c | %45
+w: right- in,|_|Let's get the|fu- ner- al ser- vice|ov- er so|then we can|start in a|
+"Fm7" e c"Bb11" e2 |1"Eb" e4 |"Bb7" z4 :|2"Eb" e4- | e3 z |] %50
+w: feud- in' a-|gain.||gain.|_|
+

@@ -1,0 +1,31 @@
+X:1
+T:Dont it make my brown eyes blue
+T:Dont it make my brown eyes blue
+T:Richard Leigh
+C:Richard C, Leigh
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" z2 GA"Am" c4 |"Dm7" z Gcc"G7" (3AGE G2 |"C" z2 GA"Am7" A3 E |"Em7" D E2 (3E-"E7"ED z z2 | %4
+w: Dont know when|I've been so blue * * *|dont know whats come|o- ver you * *|
+w: I'll be fine|* when you're gone * * *|I'll just cry *|all night long * *|
+"Am" z C2 D"C" E c2"D7" c- | c6 z A |1"F" ccAG"Em7" G E3 ||"F" EFED- D4 :|2"F" ccAG c c3 ||"C" c8 | %10
+w: you've found some- one new|* and|dont it make my brown eyes|blue * * * *|dont it make my brown eyes|blue|
+w: say it is- nt true||||||
+"Am" z ccc"Em7" BA G2 |"F" z AGG"C" G4 |"Am" z ccc"Em7" B/A/GGE/G/ |"F" z A2 G"C" G4 | %14
+w: tell me no se * crets|tell me some lies|give me no rea- * sons * give me|al- i- bies|
+w: ||||
+"Am" z ccd"Em7" BGGc- |"F" c2 AG"C" ED C2 |"Dm7" z DDD"Em" E3 C |"F" FFGG-"^D.S.alCoda" G4 || z8 |: %19
+w: tell me you love me and dont|* let me cry * *|say an- y- thing but|dont say good- bye- *||
+w: |||||
+"F" c"^Coda"cAG"Em7" G A3 |"F" ccAG"Em7" G A3 |"F" ccGG"^Repeat""^tofade" c c3 |"C" c8 | %23
+w: dont it make my brown eyes|dont it make my brown eyes|dont it make my brown eyes||
+w: ||||
+"Dm7" z4 z2"G7" z A :| %24
+w: and|
+w: |
+

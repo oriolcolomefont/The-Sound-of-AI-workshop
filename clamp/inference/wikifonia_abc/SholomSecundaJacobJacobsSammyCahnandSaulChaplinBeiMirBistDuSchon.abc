@@ -1,0 +1,25 @@
+X:1
+T:Bei Mir Bist Du Schon
+C:Sholom Secunda
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"Am" e/ e e/ e"F7" _e/e/- | e/_e/ e"E7" =e E |:"Am" c2 B/ A c/- |"Eb7b5" c/ z/ z z"E7" E | %4
+w: |* * * * Bei|mir bist du shchon|_ please|
+"Am" c2 B/ A c/- |"F9" c/ z/ z z"E7" B | B2 _A/ E B/- | B/ B c B A/- |"Am" A4 |"F9" z z"E7" z E | %10
+w: let me ex- plain|_ Bei|mir bist du schon|_ means that you're grand|_|Bei|
+"Am" c2 B/ A c/- |"Eb7b5" c/ z/ z z"E7" E |"Am" c2 B/ A c/- | c/"F9" z/ z z"E7" B | B2 _A/ E B/- | %15
+w: mir bist du schon|_ a-|gain I'll ex- plain|_ it|means you're the fair-|
+ B/ B c B A/- |"Am" A4 | z A B c |"Dm" d2 A d- | d/ c3/2 B A |"Am" c2 c/ A c/- | c A B c | %22
+w: * est in the land|_|I could say|Bel- la Bel-|* la ev- en|say Voon- der- bar|_ Each lan- guage|
+"Dm" d2 A d- | d/ c3/2 B A |"Esus4/B" e2 e/ e"E" e/- |"F9" e/ z/ z"E7" z E |"Am" c2 B/ A c/- | %27
+w: on- ly helps|_ me tell you|how grand you are|_ I've|tried to ex- plain|
+"Eb7b5" c/ z/ z z"E7" E |"Am" c2 B/ A c/- |"F9" c/ z/ z z"E7" B | B2 _A/ E B/- | B/ B c B A/- | %32
+w: * Bei|mir bist du schon|_ so|kiss me and say|_ you un- der- stand|
+"Am" A3"Eb7b5" z |"F7" z z"E7" z z :| %34
+w: _||
+

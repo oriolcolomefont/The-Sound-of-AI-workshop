@@ -1,0 +1,28 @@
+X:1
+T:Blue Hawaii
+T:Blue Hawaii
+T:(from Waikiki Wedding)
+T:Leo Robin and Ralph Rainger
+C:Leo Robin, Ralph Rainger
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^A" D2 ^C2 D4 |"C" z2 ^D2 E3 _E |"G" D2- (3D^C=C B,4 | z2 B2"E7" c3 B |"A7" A3 ^C E4 | %5
+w: Night and you|and Blue Ha-|wa * * * ii|the night is|heav- en- ly|
+"D7" z2 A^A B3 =A |"G" (3GGE D6 |"D" z2 A2"D7" G2 E2 |"G" D2 ^C2 D4 |"C" z2 ^D2 E3 _E | %10
+w: and * you are|heav- en to me||Lov- ely you|and Blue Ha-|
+"G" D2 (3D^C=C B,4 | z2 B2"E7" c3 B |"A7" A3 ^C E4 |"D7" z2 A^A B3 F |"G" G8- |"C" G2"G" z4 z2 | %16
+w: wa * * * ii|with all this|love- li- ness|there * should be|love||
+"C""^B" E3 B A4- | A2 =F2"G" G2 E2 | GEGE D4- | D4 z2 ^D2 |"A7" E3 B A4- | A2 G2 E2 G2 |"D" A8- | %23
+w: Come with me|* * while the|moon is on the sea|* the|night is young|* and so are|we|
+ A6 z2 |"G""^C" D2 ^C2 D4 |"C" z2 ^D2 E3 _E |"G" D2- (3D^C=C B,4 | z2 B2"E7" c3 B |"A7" A3 ^C E4 | %29
+w: |Dreams come true|in Blue Ha-|wa * * * ii|and mine could|all come true|
+"D7" z2 A^A B3 F |"G" G3 F"C" G3 F |"G" G4 g4 |] %32
+w: this * mag- ic|night of nights with|you. *|
+

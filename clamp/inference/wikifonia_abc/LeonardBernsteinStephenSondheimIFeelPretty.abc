@@ -1,0 +1,35 @@
+X:1
+T:I Feel Pretty
+T:I feel pretty
+T:(from West Side Story)
+T:Leonard Bernstein
+T:Stephen Sondheim
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"C" C2 E2 |:"F" FA- A4 | z2"C" C2 E2 |"F" FA- A2 z2 | z2"C" C2 E2 |"F" F A3"C" E2 |"F" F A3 F2 | %7
+w: I feel|pret- ty *|oh, so|pret- ty *|I feel|pret- ty and|wit- ty and|
+"Gm7" c6- |"C7" c2 B2 A2 |"Dm" GF- F4 | z2 G2 A2 |"Gm7" B3 A GF |"C" E4 (3DED |"F" C6- |"Eb" C6- | %15
+w: bright!|* and I|pit- y *|an- y|girl who is- nt|me to- * *|night||
+"F" C2 z4 | z2"C" C2 E2 |"F" FA- A4 | z2"C" C2 E2 |"F" FA- A4 | z2"C" C2 E2 |"F" F A3"C" E2 | %22
+w: |I feel|charm- ing *|Oh, so|charm- ing *|it's a-|larm- ing how|
+"F" F A3 F2 |"Gm7" c6- |"C7" c2 B2 A2 |"Dm" GF- F4 | z2 G2 A2 |"Gm7" B3 A GF |"C" E4"C7" G2 | %29
+w: charm- ing I|feel|* and so|pret- ty *|that I|hard- ly can be-|lieve I'm|
+"F" F6- |"Eb" F6- |"F" F2"Eb" z4 |"F" z6 |"F7" z2"Bb" dd dd | d2"F7" _e2 c2 |"Bb" d3 c B2- | %36
+w: real||||See the pret- ty|firl in that|mir- or there|
+ B2"F7" z4 |"Bb" z2 dd dd | d3 c"Gm" B2 |"F" cA- A4- | A2 z4 |"Am" z2 AA AA |"E7" =B2 BB BB | %43
+w: |who can that at-|trac- tive girl|be? * *||such a pret- ty|face, such a pret- ty|
+"Am" c2 cc cc |"Fm" d2 dd dd |"C" e6- |"Gm7" e6- |"C" e2 z4 | z2"C" C2 E2 |"F" FA- A4 | %50
+w: dress such a pret- ty|smile such a pret- ty|me|||I feel|stun- ning *|
+ z2"C" C2 E2 |"F" FA- A4 | z2"C" C2 E2 |"F" F A3"C" E2 |"F" F A3 F2 |"Gm7" c6- | %56
+w: and en-|tranc- ing *|feel like|run- ning and|danc- ing for|joy|
+"C" c2"Gm7" d2"C7" e2 |"Dm" f6- | f2"Dm7" d2 e2 |"Gm7" fd- d4 |"C7" g3 f e2 |"F" f6- |"Eb" f6- | %63
+w: * for I'm|loved|* by a|pret- ty *|won- der- ful|boy!||
+"C" f2"F" z4 | z2"C" C2 E2 :| f6- | f2 z4 |] %67
+w: |I feel|||
+

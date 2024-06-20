@@ -1,0 +1,45 @@
+X:1
+T:In The Garden
+T:In The Garden
+T:C Austin Miles, 1912
+C:C Austin Miles 1912
+Z:All Rights Reserved
+L:1/4
+Q:1/4=80
+M:3/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z2 E |"Ab" E C D | E A B | c3- | c B A |"Db" A2 A | B A F |"Ab" A3 | %13
+w: |||||I|come to the|gar den a|lone|_ while the|dew is|still on the|ros|
+ E2 G/A/ |"Eb7" B2 B | G2 F/G/ |"Ab/C" A2"Eb" B |"Ab" c2 c |"Bb7" B2 c | B2 A |"Eb" G2"Bb7" A | %21
+w: es and the|voice I|hear fal ling|on my|ear the|Son of|God dis|clos _|
+"Eb7" !fermata!B !fermata!c2- | c B/"Ab" A- A/- | A/ A G F/- | F/ G2"Eb7/Bb" G/- | G/ G2 E/ | %26
+w: es and|_ He walks _|_ with me and|_ he talks|with me and|
+ E/ d2 d/- | d/ d c =B/- | B/"Ab" c2- c/- | c3 | A/B/ c2 | c"C7" B B | G"Fm" A2 | %33
+w: he tell _|me I am _|His own _|_|and the joy|we share as|we tar|
+"Ab7/Eb" A"Db" !fermata!A2 | F"Ab/Eb" E/ A3/2 | A"Eb7" G/B/- B- | B"Ab" A2- | A2 E |"Ab" E C D | %39
+w: ry there|none o ther|has e ver _|_ known|_ He|speaks and the|
+ E A B | c3- | c B A |"Db" A2 A | B A F |"Ab" A3 | E2 G/A/ |"Eb7" B2 B | G2 F/G/ |"Ab/C" A2"Eb" B | %49
+w: sound of His|voice|_ is so|sweet the|birds hush their|sing|ing and the|mel o|dy that He|gave to|
+"Ab" c2 c |"Bb7" B2 c | B2 A |"Eb" G2"Bb7" A |"Eb7" !fermata!B !fermata!c2- | c B/"Ab" A- A/- | %55
+w: me with|in my|heart is|ring _|ing and|_ He walks _|
+ A/ A G F/- | F/ G2"Eb7/Bb" G/- | G/ G2 E/ | E/ d2 d/- | d/ d c =B/- | B/"Ab" c2- c/- | c3 | %62
+w: _ with me and|_ he talks|with me and|he tell _|me I am _|His own _|_|
+ A/B/ c2 | c"C7" B B | G"Fm" A2 |"Ab7/Eb" A"Db" !fermata!A2 | F"Ab/Eb" E/ A3/2 | A"Eb7" G/B/- B- | %68
+w: and the joy|we share as|we tar|ry there|none o ther|has e ver _|
+ B"Ab" A2- | A2 E |"Ab" E C D | E A B | c3- | c B A |"Db" A2 A | B A F |"Ab" A3 | E2 G/A/ | %78
+w: _ known|_ I'd|stay in the|gar den with|Him|_ though the|night a|round me is|fal|ling but He|
+"Eb7" B2 B | G2 F/G/ |"Ab/C" A2"Eb" B |"Ab" c2 c |"Bb7" B2 c | B2 A |"Eb" G2"Bb7" A | %85
+w: bids me|go through the|voice of|woe His|voice to|me is|cal l|
+"Eb7" !fermata!B !fermata!c2- | c B/"Ab" A- A/- | A/ A G F/- | F/ G2"Eb7/Bb" G/- | G/ G2 E/ | %90
+w: ing and|_ He walks _|_ with me and|_ he talks|with me and|
+ E/ d2 d/- | d/ d c =B/- | B/"Ab" c2- c/- | c3 | A/B/ c2 | c"C7" B B | G"Fm" A2 | %97
+w: he tell _|me I am _|His own _|_|and the joy|we share as|we tar|
+"Ab7/Eb" A"Db" !fermata!A2 | F"Ab/Eb" E/ A3/2 | A"Eb7" G/B/- B- | B"Ab" A2- | A3 | z3 | z3 | z3 | %105
+w: ry there|none o ther|has e ver _|_ known|_||||
+ z3 |] %106
+w: |
+

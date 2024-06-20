@@ -1,0 +1,25 @@
+X:1
+T:Isa Lei
+T:Isa Lei
+T:Lieut A.W.Caten (Bandmaster Fiji Defence Force)
+C:Lieut.A.W.Caten (Bandmaster Fiji Defence Force)
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z"C" _E2 F | G G2 G AGcd | e e2- e2"F" f2 f |"C" e e2 c"G7" BcdB |"C" c c3 c2 EF | %5
+w: I- sa|I- sa vu- la- gi- la- sa|di- na * No- mu|la- ko au na ra- ra- wa|ki- na * Ca- va|
+w: I- sa|I- sa you are my on- ly|trea- sure * must you|leave me so lone- ly and for-|sa- ken * as the|
+ G G2 G AGcd | e e3- e2"F" ff |"C" e e2 c"G7" BcdB |"C" c c3- c z z2 |: z4 z d2"C" c | %10
+w: be- ka ko a ma- i ca-|ka- va * Ni ko|la- ko au na se- ga ni-|la- sa *|I sa|
+w: ro- ses will miss the sun at|dawn- ing * ev- ry|mo- ment my heart for you is|yearn- ing *|I- sa|
+ B"F" A3 A2 cA |"C" A G3- G A2 G |"G7" G G2 E FGAG |"C" G G3- G2 cB |"F" B A3- A2 cA | %15
+w: le- i na no- qu|ra rarawa * Ni ko|sa na vo- do e na ma|ta- ka * Bau na-|nu- ma * na noda-|
+w: le- i the pur- ple|shadows fall * sad the|mor- row will dawn up- on my|sor row * Oh for-|get not * when you're|
+"C" A G3- G2 cd | e e2 c"G7" BcdB |"C" c4- c2 z2 :| %18
+w: tou lasa * Ma- i|Su- va na- nu- ma ti ko|ga *|
+w: far away * pre- cious|mo- ments be- side dear Su- va|bay. *|
+

@@ -1,0 +1,26 @@
+X:1
+T:The Hawaiian Wedding Song
+T:The Hawaiian Wedding Song
+T:Charles E. King
+T:Hawaiian: Charles E. King    English:  Al Hoffman and Dick Manning
+C:Charles E. King
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E4"G" G2"C" B,2 |"^SLOW""^ROCK" C4"C7" C4 |"F" F4"G7" A2 F2 |"C" E4"G7" G2 A2 | %4
+w: This is the|mo- ment|I've wait- ed|for I can|
+"C" G4"E7" E2 D2 |"Am" C4 C4 |"D7" E4 D2 A^A |"G7" B4 B4 |"C" e4 G2 A2 |"D7" e4 d4 |"G7" d4 G2 B2 | %11
+w: hear my heart|sing- ing|Soon bells will be|ring- ing|this is the|mo- ment|of sweet "A-|
+"C" d4 c4 | cEBE AGB,C |"G7" A A6 z | BFAF GFD^D |"C" EA A6 | c4 e4 |"D7" e4 d4 |"G7" G2 A2 B2 e2 | %19
+w: lo- ha|I will love you long- er than for-|ev- er|Pro- mise me that you will leave me|nev- * er|her and|now dear.|All my love I|
+"C" d4 c4 | cEBE AGB,C |"G7" A2 A6 | BFAF GFD^D |"C" EA A6 |"C7" C2 E2 G2 _B2 |"F" A8 | %26
+w: vow dear|Pro- mise me that you will leave me|nev- er|I will love you long- er than for-|ev- er *|Now that we are|one|
+"D7" D2 ^F2 A2 c2 |"G7" B6 G2 |"C" e4"A7" ^c2 ^c2 |"D7" e2 d2 c2 A2 |"G7" f3 f e2 B2 |"C" c6 G2 | %32
+w: Clouds wont hide the|sun Blue|skies of Ha-|wai- i smile on|this our wed- ding|day I|
+ e6 c2 |"A7" e6 G2 |"D7" e4"G7" B4 |"C" c8 |] %36
+w: do love|you with|all my|heart.|
+

@@ -1,0 +1,28 @@
+X:1
+T:Tomorrow Never Comes
+T:Tomorrow Never Comes
+T:Ernest Tubb
+C:Ernest Tubb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" z8 | z8 |"F" z8 |"C" z8 | z8 | z8 |"G" z8 |"C" z4 z2 DE |"C" E2 G4 AG | A2 c4 AA | %10
+w: ||||||||||
+w: |||||||Oh you|tell me that you|love me Yes you|
+w: ||||||||weeks now I have|wait- ed ma- ny|
+w: ||||||||mor- row I'll be|leav- ing Yes to-|
+"F" A2 c4 Ac |"C" G6 DE | E2 G4 AG | A2 c4 AA |"G7" A2 c4 Ac |"C" G6 DE |"C" E2 G4 AG | A6 AA | %18
+w: ||||||||
+w: tell me that you|care that to-|mor- row we'll be|mar- ried But to-|mor- row's nev- er|there Oh to-|mor- row nev- er|comes No, to-|
+w: long nights have I|cried. Just to|see that hap- py|morn- ing when I|have you by my|side * *|||
+w: mor- row I'll be|gone and to-|mor- row you'll be|weep- ing but to-|mor- row nev- er|comes * *|||
+"F""F" A2 c4 Ac |"C" G6 DE |"C" E2 G4 AG | A2 c4 AA |"G" A2 c4 Ac |"C" G6 DE :| %24
+w: ||||||
+w: mor- row nev er|comes Now you|tell me that you|love me but to-|mor- row nev- er|comes Ma- ny|
+w: |||||* So to|
+w: ||||||
+

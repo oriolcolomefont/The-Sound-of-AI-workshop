@@ -1,0 +1,32 @@
+X:1
+T:All Right, Okay, You Win
+T:Alright, Okay, you win
+T:Sid Syche and Mayme Watts
+T:Swing
+C:Mayme Watts, Sid Wyche
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^N.C." C D |"F" F z z _A | F z z _A | A z C D |"F7" F G _A/_D/ D |"Bb" F z z G | F z z d | %7
+w: Well, al-|right o-|kay you|win I'm in|love with you well, al-|right o-|kay you|
+"F" c/A/ z A _A | A/F/ D C z |"C7" _B/A/B/A/ B B |"Bb" c z z F |"F" c _B/c/"Bb" _A F |"F" F z C D | %13
+w: win * ba- by|what can I do|I'll do an- y- thing you|say, it's|just got- ta be that|way well al-|
+ F z z _A | F z z _A | A z C D |"F7" F G _A/_D/ D |"Bb" F z z G | F z z d |"F" c/A/ z A _A | %20
+w: right o-|kay you|win I'm in|love with you well al-|right o-|kay you|win * ba- by|
+ A/F/ D C2 |"C7" _B/A/B/A/ B B |"Bb" c z z F |"F" c _B/c/"Bb" _A F | F"F" z z2 | z d c A/D/ | %26
+w: what can I do|An- y- thing you say I'll|do as|long as it's me and|you|all that I am|
+ F/_A/ z z2 | z d/c/ _A F | F z z2 | z"Bb" d c/_A/ F | z d c/F/F/F/ |"F" _A"^N.C." F F F | %32
+w: ask- ing|all I want from|you|just love me like|I love you and it|won't be hard to|
+ G z C D |"F" F z z G | _A z z A | A z C D |"F7" F G _A/_D/ D |"Bb" F z z G | F z z d | %39
+w: do well, al-|right o-|kay you|win I'm in|love with you well al-|right o-|kay you|
+"F" c/A/ z A ^G | A/F/ D C z |"C7" _B/A/B/A/ B B |1"Bb" c z z F |"F" c _B/c/"Bb" _A F | %44
+w: win * ba- by|what can I do|I'll do an- y- thing you|say it's|just got to be that|
+"F" F z C D :|2"Bb" c z z f ||"F" f/d/c/_A/"Bb" G F |"F" F z f f | f z z f |"Bb" f z z f |"F" f4- | %51
+w: way well al|man sweet|ba- by take me by the|hand well al-|right o-|kay you|win.|
+ f2 z2 |] %52
+w: |
+

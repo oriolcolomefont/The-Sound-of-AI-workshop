@@ -1,0 +1,25 @@
+X:1
+T:Auld Lang Syne
+C:Traditional
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ C2 |"F" F3 E F2 A2 |"C7" G3 F G2 A2 |"F" F3 F A2 c2 |"Bb" d6 d2 |"F" c3 A A2 F2 | %6
+w: Should|auld ac- quaint- ance|be for- got, and|nev- er brought to|mind? Should|auld ac- quaint- ance|
+"C7" G3 F"A7" G2 A2 |"Bb" F3 D"C7" D2 C2 |"F" F6 d2 | (c3 A) (A2 F2) |"C7" G3 F G2 d2 | %11
+w: be for- got and|days of Auld Lang|Syne, For|Auld * Lang *|Syne, my dear, For|
+"F" (c3 A) (A2 c2) |"Bb" d6 d2 |"F" c3 A A2 F2 |"C7" G3 F"A7" G2 A2 |"Bb" (F3 D)"C7" (D2 C2) | %16
+w: Auld * Lang *|Syne, We'll|take a cup of|kind- ness yet, For|Auld * Lang *|
+"F" F6 C2 | F3 E F2 A2 |"C7" G3 F G2 A2 |"F" F3 F A2 c2 |"Bb" d6 d2 |"F" c3 A A2 F2 | %22
+w: Syne We|twa' ha'e ran a-|boor the brae, and|pu'd the Gow- ans|fine. We've|wand- ered mony a|
+"C7" G3 F"A7" G2 A2 |"Bb" (F3 D)"C7" (D2 C2) |"F" F6 d2 | (c3 A) (A2 F2) |"C7" G3 F G2 d2 | %27
+w: wear- y foot sin|Auld * Lang *|Syne. For|Auld * Lang *|Syne, my dear, For|
+"F" (c3 A) (A2 c2) |"Bb" d6 d2 |"F" c3 A A2 F2 |"C7" G3 F"A7" G2 A2 |"Bb" (F3 D)"C7" (D2 C2) | %32
+w: Auld * Lang *|Syne, we'll|take a cup of|kind- ness yet, for|Auld * Lang *|
+"F" F6 z2 |] %33
+w: Syne.|
+

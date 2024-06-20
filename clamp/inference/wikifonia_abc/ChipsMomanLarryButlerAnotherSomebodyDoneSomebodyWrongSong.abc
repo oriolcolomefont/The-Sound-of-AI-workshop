@@ -1,0 +1,26 @@
+X:1
+T:Another Somebody Done Somebody Wrong Song
+T:(Hey wont you play)
+T:Larry Butler and Chips Moman
+T:Another somebody done somebody wrong song
+C:Chips Moman, Larry Butler
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"F" A cBAc |"Bb" B6 BA |"C7" BABA B2 BA |[M:2/4] B2 c2 |[M:4/4]"F" BA A6 | z2 F2 F2 F2 | %6
+w: Its lone- ly out to-|night and the|feel- in just got right for a|brand new|love song *|some- bod- y|
+ G2 FE ED D2 |"F" C4 A4 | z8 ||S"F" c6 AB |"F" c4 z AAB |"F7" z2 c2 c2 d2 | _e2 ed dc B2 | %13
+w: done some- * bod * y|wrong song||Hey wont you|play an- oth- er|some- bod- y|done some * bod * y|
+"Bb" c B3 B4 | z4 z FBA |"F" BAAA- A4 | z2 FF F2 A2 |"Gm7" AG G6 |"C7" z2 EE E2 G2 |"F" GF F6 | %20
+w: wrong * song|and make me|feel- * at- home *|while I miss my|ba- * by|while I miss my|ba- * by|
+ z4 z2 C2 ||"F" GF"^To verse" F6- | F2 z2 z4!fine! |]"F" C4 A2 G2 | A6 C2 |"A" ^C4 A A3 | %26
+w: so|ba- * by||Play play for|me a|sad mel- o-|
+"A7" A6 ^C2 |"D7" D4 A A3 | A2 AA B2 A2 |"G" A4- AG A2 |"G7" G6 C2 |"C7" C4 G ^F3 | G4 z CCC | %33
+w: dy so|sad that it|makes ev- 'ry bod- y|cry * * *|* A|real hurt- in|song a- bout a|
+"F" C4 AAG z |"D7" A6 z A |"G7" A2 GF FE D2 | D4"Am7" E2 F2 |"C" G8- |"C7" G6 z2!D.S.! |] %39
+w: love thats gone *|wrong cause|I dont * wan * na|cry all a-|lone||
+

@@ -1,0 +1,37 @@
+X:1
+T:Mockingbird Hill
+T:Mockingbird Hill
+T:Vaughn Horton
+T:for instruments in middle & upper register
+T:not known
+C:Vaughn Horton (1951)
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Verse:" z2 G/F/ |:"C" E G c | e c G |"F" F A c | f2 A |"G7" G B3/2 d/ | f d f |"C" e c A | %8
+w: 1.~When the|sun in the|morn- ing peeps|o- ver the|hill, and|kiss- es the|ros- es round|my win- dow|
+w: 2.~~~~~~~~~~~ *|three cor- ner'd|plow and an|a- cre to|till, and~a|mule that I|bought for a|ten dol- lar|
+w: 3.~~~~~~~~~~~ *|late in the|eve- ning I|climb up the|hill, and|survey all my|king- dom while|ev'- ry- thing's|
+ G2 G/F/ | E G c | e c G |"F" F A c | f2 A/A/ |"G7" G B d | f d f |"C" e c c | c2 z || %17
+w: sill, Then my|heart fills with|glad- ness when|I hear the|trill Of the|birds in the|tree- tops of|Mock- ing- bird|Hill.|
+w: bill, There's a|tum- ble- down|shack and a|rus- ty old|mill, But it's|my Home Sweet|Home up on|Mock- ing- bird|Hill.|
+w: still. On- ly|me and the|sky, and an|old whip- poor|will, But it's|my Home Sweet|Home up on|Mock- ing- bird|Hill.|
+"^Refrain:" z2 G/c/ |"C" e2 (3e/e/e/ |"F" f"C" e d |"F" c F A |"C" G2 e |"G7" f3/2 d/ B/A/ | %23
+w: Tra- la-|la, twid- dly dee|dee dee, it|gives me a|thrill, To|wake up in the|
+w: ||||||
+w: ||||||
+ G B d/f/ |"C" e c"F" A |"C" G2 G/c/ |"C" e2 (3e/e/e/ |"F" f"C" e d |"F" c F A |"C" G2 e | %30
+w: morn- ing to the|mock- ing- bird's|trill. Tra- la-|la, twid- dly dee|dee dee, there's|peace and good|will. You're|
+w: |||||||
+w: |||||||
+"G7" f3/2 d/ B/A/ | G B d |"C" e c c |1,2 !fermata!c2 G/F/ :|3"C" c3 |] %35
+w: wel- come as the|flow- ers on|Mock- ing- bird|Hill. 2.~~~Got a|Hill.|
+w: |||* 3.~When it's||
+w: |||||
+

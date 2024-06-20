@@ -1,0 +1,50 @@
+X:1
+T:Zwei Kleine Italiener
+T:Zwei Kleine Italiener
+T:Christian Bruhn
+T:Georg Buschor
+C:Christian Bruhn
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:D
+V:1 treble nm="Keyboard Synthesizer" snm="Synth."
+%%MIDI program 81
+V:1
+ z2 d3/2 d/ |"A7" c c B B |"D" A A B3/2 B/ |"A7" A A G G |"D" F2"Ddim" d3/2 d/ |"A7" c c B B | %6
+w: Ei- ne|rei- se in den|Sü- den ist für|and- re schick und|fein, doch zwei|Klei- ne I- ta-|
+w: ||||||
+w: ||||||
+"D" A A B3/2 B/ |"A7" A E G F |"D" D F/D/ F F/D/ |"A7" E E/C/ E/C/B,/A,/ |"D" F F/D/ F F/D/ | %11
+w: lie- ner möch- ten|gern zu Hau- se|sein * * * * *|||
+w: |||||
+w: |||||
+"A7" E3 A, |:"D" D A, D F |"G" B2"D" A F |"G" B2"D" A F |"A7" A3/2 G/ G A, | C A, C E | A2 G E | %18
+w: * Zwei|klei- ne I- ta-|lie- ner, die|Träu- men von|Na- po- li, von|Ti- na und Ma-|ri- na, die|
+w: |klei- ne I- ta-|lie- ner, ver-|ges- sen die|hei- mat nie, die|Pal- men und die|Mäd- chen am|
+w: |klei- ne I- ta-|lie- ner, am|Bahn- hof da|kennt man sie! Sie|kom- men je- den|A- bend zum|
+ A2 G E |"D" G3/2 F/ F A, | D A, D F |"G" B2"D" A F |"G" B2"D" A F |"G" B2 d3/2 d/ |"A7" c c B B | %25
+w: war- ten schon|lang auf sie. Zwei|klei- ne I- ta-|lie- ner, die|sind so al-|lein Ei- ne|Rei- se in den|
+w: Stran- de von|Na- po- li. Zwei|klei- ne I- ta-|lie- ner, die|se- hen es|ein: * *||
+w: D=- zug nach|Na- po li. Zwei|klei- ne I- ta-|li- ner, sehn|stumm hin- ter|drein * *||
+"D" A A B3/2 B/ |"A7" A A G G |"D" F2"Ddim" d3/2 d/ |"A7" c c B B |"D" A A B3/2 B/ |"A7" A E G F | %31
+w: Sü- den ist für|an- dre schick und|fein, doch zwei|klei- ne I- ta-|lie- ner möch- ten|gern zu Hau- se|
+w: ||||||
+w: ||||||
+"D7" D3 D |[K:G]"G" B3 B |"Gdim" ^A2"G" B2 |"C" c4 |"G" B3 B |"A7" A2 c2 | B2 A2 |"G" G2"C" E2 | %39
+w: sein Oh|Ti- na,|oh Ma-|ri-|na, wenn|wir uns|ein- mal|wie- der-|
+w: ||||||||
+w: ||||||||
+"G" D3 D | B3 B |"Gdim" ^A2"G" B2 |"C" c4 |"G" B3 B |"D7" A2 c2 | B2 A2 || %46
+w: sehn! Oh|Ti- na,|oh Ma-|ri-|na, dann|wird es|wie- der|
+w: |||||||
+w: |||||||
+"G" G3/2 F/"Em7" G ^G!dacoda! ||"A7" A G F E ||[K:D]"D" F F/D/ F F/D/ |"A7" E E/C/ E/C/B,/A,/ | %50
+w: schön * * *||||
+w: ||||
+w: ||||
+"D" F F/D/ F F/D/ |"A7" E3 A, :|[K:G]O"G" G G/E/ G G/E/ | D"D7" F"G" G z |] %54
+w: |* Zwei|Schön _ _ _ _ _|_ _ _|
+w: ||||
+w: ||||
+

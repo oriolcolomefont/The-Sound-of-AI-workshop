@@ -1,0 +1,30 @@
+X:1
+T:It's You I LIke
+T:It's You I Like
+C:Fred Rogers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B, |"Eb" G3"D" D |"Gm7""C7" C3 B, |"Fm7" A G A E |"Bb7""C/E" D3 C |"Fm" A G A E | %6
+w: It's|you I|like, It's|not the things you|wear, It's|not the way you|
+"Bb7" D C"Bb7/Ab" D/C/ B, |"Gm7" B3 F |"Cm""Eb/Bb" E3 E |"Abmaj7" c c"Bb9/D" c A |"Gm7""Cm" B3 E | %11
+w: do your hair, But it's|you I|like. The|way you are right|now, The|
+"Fm7" A A"Bb7" A F |"Ebmaj7" G"Abmaj7" G3 |"Dm7" F F"G7" F G |"Cm7" E E E G |"Cm/F" c4- | %16
+w: way deep down in-|side you|Not the things that|hide you, Not your|toys|
+"F7" c G F E |"Fm7" B B3- |"Fm" B2"Bb7" z C/B,/ |"Eb" G3"D/Bb" D |"Gm7""C7" C4 |"Fm" A G A E | %22
+w: _ They're just be-|side you.|_ But it's|you I|like,|Ev- 'ry part of|
+"Bb" D3"C7" C |"Fm""^rall un poco" A G A E |"Bb7" D C"Bb7/Ab" D B, |"Gm7" B3 F | %26
+w: you, Your|skin, your eyes, your|feel- ings Wheth- er|old or|
+"C7""^a tempo" =E3 C |"Fm" c c"Fdim" =B"Ab" c |"Fm6" d d"G7sus4" c"G7" d |"Cm" e2- e/E/D/E/ | %30
+w: new. I|hope that you'll re-|mem- ber Ev- en|when _ you're feel- ing|
+"F7" F3 D/E/ |"Ebmaj9/Bb" B B"Eb/Bb" B E |"Fm7/Bb" c c"Bb7" c D |"Abm9""Db7" B4- |"Gm7""C7" B3 C | %35
+w: blue That it's|you I like, it's|you your- self, It's|you,|_ It's|
+"Fm7" c4 |"Bb7" D4 |"Eb" E4- | E3 z |] %39
+w: you|I|like.|_|
+

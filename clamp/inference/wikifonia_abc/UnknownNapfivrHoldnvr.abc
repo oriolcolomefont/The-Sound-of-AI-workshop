@@ -1,0 +1,25 @@
+X:1
+T:Napfivér, Holdnővér
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" D2 FG |"F#m" A2 z A |"G" B-A"A" GB |"D" A4 |"Bm" d2 cB |"F#m" A2 F2 |"G" FG"A" FE |"D" D4 | %8
+w: Fi- vé- rem,|Nap, és|nõ- * vé- rem,|Hold,|Oly rit- kán|lát- lak,|hal- lom han- go-|tok.|
+"Bm" z B, DE |"F#m" F4 |"G" G>F"A" ED |"D" D2 z2 |"D" z D FG |"F#m" A3 A |"G" BA"A" G-B |"D" A4 | %16
+w: Nyo- maszt a|sok|gyöt- re- lem és|gond.|Fi- vé- rem,|Szél, és|le- ve- gõ _|ég|
+"Bm" d2 cB |"F#m" A2 z F |"G" FG"A" FE |"D" D4 |"Bm" z B, DE |"F#m" F4 |"G" G>F"A" ED |"D" D2 z2 | %24
+w: Nyisd ki sze-|mem, hogy|lás- sam, a- mi|szép!|Kö- rül- ö-|lel|a ra- gyo- gás,|dicsfény.|
+"Bm""^Refrén" z B cd |"F#m" c-A F2 |"G" GG"A" A>B |"D" A4 |"Bm" B2 AG |"F#m" A2 F>F |"G" GF E>D | %31
+w: Mert Is- ten|mû- * ve|min- den te- remt-|mény,|Ér- zem jó-|sá- gát, és|szí- vem új- ra|
+"A" D4 |"D" D2 FG |"F#m" A2 z A |"G" B-A"A" GB |"D" A4 |"Bm" d2 cB |"F#m" A2 F2 |"G" FG"A" FE | %39
+w: él.|Fi- vé- rem,|Nap, és|nõ- * vé- rem,|Hold,|Most vég- re|lát- lak,|hal- lom han- go-|
+"D" D4 |"Bm" z B, D<E |"F#m" F3 F |"G" G>F"A" E<D |"D" D2 z2 |] %44
+w: tok.|Meg- ö- lel-|ném az|e- gész vi- lá-|got.|
+

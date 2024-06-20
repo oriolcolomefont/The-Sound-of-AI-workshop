@@ -1,0 +1,21 @@
+X:1
+T:Star Spangled Banner
+C:Francis Scott Key
+Z:Public Domain
+L:1/8
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+ F>D |"Bb" B,2 D2 F2 |"Gm" B4 d>c |"Bb" B2 D2"C7" =E2 |"F" F4 FF |"Bb" d3 c B2 |"F" A4 GA | %7
+w: Oh, _|say can you|see, by the|dawn's ear- ly|light, What so|proud- ly we|hail'd at the|
+"Bb" B2 B2"F" F2 |"Bb" D2 B,2 F>D |"Bb" B,2 D2 F2 |"Gm" B4 d>c |"Bb" B2 D2"C7" =E2 |"F" F4 FF | %13
+w: twi- light's last|gleam- ing? Whose broad|stripes and bright|stars, thro' the|per- i- lous|fight, O'er the|
+"Bb" d3 c B2 |"F" A4 GA |"Bb" B2 B2"F" F2 |"Bb" D2 B,2 dd |"Bb" d2 e2 f2 |"Bb" f4 ed | %19
+w: ram- parts we|watch'd, were so|gal- lant- ly|stream- ing? and the|rock- ets' red|glare, the bombs|
+"F" c2 d2 e2 | e4 e2 |"Bb" d3 c B2 |"F" A4 G>A |"Gm" B2 D2"C7" =E2 |"F" F4 F2 |"Bb" B2 B2 BA | %26
+w: burst- ing in|air, Gave|proof thro' the|night that our|flag was still|there. Oh|say does th- at|
+"Eb" G2 G2 G2 |"Cm" c2 ed cB |"F" B2 A2 FF |"Bb" B3 c de |"Gm" f4 Bc |"Bb" d3 e"F" c2 |"Bb" B6 |] %33
+w: star- spang- led|ba- n- ner ye- t|wa- ve O'er the|la- nd of the|free and the|home of the|brave.|
+

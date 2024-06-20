@@ -1,0 +1,51 @@
+X:1
+T:Bye Bye
+T:Bye Bye
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 bass nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"_(Play this bass thru entire piece except last 3 bars)" F,,F,,G,,F,, ^G,,/A,,/F,,B,,A,, | %1
+w: |
+w: |
+ F,,F,,G,,F,, ^G,,/A,,/F,,B,,A,,[K:treble] |"F" FFGF (^G/A/)FBA | FFGF (^G/A/)FBA | %4
+w: |Ev- 'ry night your line _ is bu- sy;|all that buz- zin' makes _ me diz- zy.|
+w: |||
+ FFGF (^G/A/)FBA | FFGF (^G/A/)FBA |"F7" _E6- EC[K:bass] | %7
+w: Could- n't count on all _ my fing- ers|all the dates you've had _ with swing- ers.|Bye _ bye,|
+w: |||
+ F,,F,,G,,F,, ^G,,/A,,/F,,B,,A,,[K:treble] | _E8 | c^F z2 z4 | z C_EF (3_G2 G2 G2 | %11
+w: |bye|ba- by!|I'm gon- na kiss you good-|
+w: ||||
+ (3_G2 F2 _E2 (3C2 B,2 C2 |"F" ^G,A, z2 z4[K:bass] | %13
+w: bye and go right thru that|door way!|
+w: ||
+[K:bass] F,,F,,G,,F,, ^G,,/A,,/F,,B,,A,,[K:treble] |"F7" _E6- EC[K:bass] | %15
+w: |So _ long,|
+w: ||
+ F,,F,,G,,F,, ^G,,/A,,/F,,B,,A,,[K:treble] | _E8 | c^F z2 z4 | z C_EF (3_G2 G2 G2 | %19
+w: |I'm|leav- in'!|This is the last time we'll|
+w: ||||
+ (3_G2 F2 _E2 (3C2 B,2 C2 |"F" ^G,A, z2 z4 | z4 z FFF |"F" F4- FF_EC | FF_EC- CCCC | F2 _EC F2 EC | %25
+w: meet on the street go- in'|your way.|Don't look sur-|prised; _ you know you|but- tered your bread _ so now it's|fair you should stare at the|
+w: ||||||
+ FF_EC- C4 | A4- AAG_E | AAG_E- EEEE | A2 G_E A2 GE | AAG_E- EEEE |:"F7" _E6- EC[K:bass] | %31
+w: back of my head. _|If _ you write a|let- ter to me, _ my for- mer|friend, don't you end with an|R. S. V. P. _ I'm go- in'|Bye _ Bye;|
+w: |||||Bye _ By,|
+[K:bass] F,,F,,G,,F,, ^G,,/A,,/F,,B,,A,,[K:treble] | _E8 | c^F z2 z4 | z C_EF (3_G2 G2 G2 | %35
+w: |I'm|mov- in'.|To- mor- row I may be|
+w: |bye,|ba- by!|Now that I've heard all that|
+ (3_G2 F2 _E2 (3C2 B,2 C2 |1 ^GA z2 z4 || z4 z _EEE :|2 ^GA z2 z2 z F || ^GA z2 z2 z F | %40
+w: split- tin' to Bri- tain or|Nor- way.|I'm say- in'||pad it? I'm|
+w: jazz and where- as I have|||had it, why||
+ ^GA z2 z2 z F | ^GA z2 z E/F/- F/A/c |"Gbmaj7" _e2 e2 e2 e2 | _e2 e2 e2 e"Fmaj7"d- | %44
+w: thru now, with|you now. So ba- * by it's|au- re- voir, a-|dios, ciao ciao, Bye Bye!|
+w: ||||
+ !fermata!d8 |] %45
+w: _|
+w: |
+

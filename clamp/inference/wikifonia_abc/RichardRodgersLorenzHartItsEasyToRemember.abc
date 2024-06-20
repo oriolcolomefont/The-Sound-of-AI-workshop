@@ -1,0 +1,30 @@
+X:1
+T:It's Easy To Remember
+T:It's Easy To Remember
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"Bb7" z BBB |:"Fm7" B A3-"Bb7" ABBB |"Ebmaj7" B G3-"C7" GBBB |"Fm7" B2 F4"Bb7" d2 | %4
+w: Your sweet ex-|pres- sion, * the smile you|gave me, * the way you|looked when we|
+"Eb" B6"Eb+" =B2 |"Abm" =B2"Ab" c2"Eb" e3 G |"Fm7" B2 A4 A2 |"Adim" ^F2"Eb" G2"Bb9" c3 D | %8
+w: met. It's|eas- y to re-|mem- ber but|so hard to for-|
+"Eb" B4- BBBB |"Fm7" B A3-"Bb7" ABBB |"Eb" B G3- GBBB |"Fm7" B2 F4"Bb7" d2 |"Eb" B6"Eb+" =B2 | %13
+w: get. * I hear you|whis- per, * "I'll al- ways|love you." * I know it's|ov- er and|yet, it's|
+"Abm" =B2"Ab" c2"Eb" e3 G |"Fm7" B2 A4 A2 |"Adim" ^F2"Eb" G2"Bb9" c3 D |"Eb" E4- EEEE | %17
+w: eas- y to re-|mem- ber but|so hard to for-|get. * So I must|
+"Eb7sus4" E4-"Eb7" EFGB |"Abmaj7" c2 c2"Ab6" A2 A2 |"Bbm7" _d2 d2"Eb7" B2 B2 | %20
+w: dream * to have your|hand car- ess me,|Fin- gers press me|
+"Abmaj7" c4-"Ab6" cEEE |"Abm7" E4-"Db7" EF_GA |"Gbmaj7" B2 B2"Gb6" _G2 G2 | %23
+w: tight. * I'd rath- er|dream * than have that|lone- ly feel- ing|
+"Bb" B2 B2"Cm" c2"F7" c2 |"Bb" d4-"Bb7" dBBB |"Fm7" B A3-"Bb7" ABBB |"Eb" B G3- GBBB | %27
+w: steal- ing through the|night. * Each lit- tle|mo- ment * is clear be-|fore me, * and though it|
+"Fm7" B2 F4"Bb7" d2 |"Eb" B6"Eb+" =B2 |"Abm" =B2"Ab" c2"Eb" e3 G |"Db9" B2 A4 A2 | %31
+w: brings me re-|gret, it's|easy to re- mem-|ber but so|
+"Adim" ^F2"Eb" G2"Bb9" c3 D |1"Eb" E4- EBBB :|2"Adim" ^F2"Eb" G2"Bb9" c3 d ||"Eb""Ab""Eb" e8 |] %35
+w: hard to for get.|* * Your sweet ex-|so hard to for-|get.-|
+

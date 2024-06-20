@@ -1,0 +1,42 @@
+X:1
+T:Looking For a City
+T:Looking For a City
+T:Marvin P. Daltin & Oliver Cooper, 1943
+C:Marvin P. Daltin & Oliver Cooper 1943
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Medium""Bb" BBBB dB z2 |"Eb" BGBG B z z2 |"Bb" BBBB ddBB |"F" c2-"C7" c2-"F" c z z2 | %4
+w: here a mong the sha dows|in a lone ly land|we're a band of pil grims on the|move _ _|
+"Bb" BBBB dB z2 |"Eb" BGBG B z z2 |"Bb/F" BBBB dB"F7"cc |"Bb" B2-"Bbdim" B2-"Bb" B z z2 | %8
+w: bur denend down with sor rows|shunned on ev ery hand|look ing for a ci ty built a|bove _ _|
+ B4- BGFG | DB,- B,4 z2 |"Eb" B4- BBGB |"Bb" F6 z2 | B4- BGFG | DB,- B,4 z2 |"C7" G4- GGBG | %15
+w: look ing for a _|cit y _|where _ we'll nev er|die|There _ the saint ed|mil lions _|nev _ er say good|
+"F" A6 z2 |"Bb" B4- BGFG | DB,- B,4 z2 |"Eb" B4- BBGB |"Bb" F6 z2 |"Eb" B4- BBGF |"Bb" DF- F4 z2 | %22
+w: bye|there _ we'll meet our|Sav ior _|and _ our loved ones|too|come _ oh Ho ly|Spir it _|
+"C7" G4-"F7" GGAF |"Bb" B2-"Eb7" B2-"Bb" B2 z2 |"Bb" BBBB dB z2 |"Eb" BGBG B z z2 |"Bb" BBBB ddBB | %27
+w: all _ our homes re|new _ _|Here in dis a point ment|we so sad ly roam|friends no long er speak a word of|
+"F" c2-"C7" c2-"F" c z z2 |"Bb" BBBB dB z2 |"Eb" BGBG B z z2 |"Bb/F" BBBB dB"F7"cc | %31
+w: love _ _|we have found con tent ment|pro mised us a home|look ing for a ci ty built a|
+"Bb" B2-"Bbdim" B2-"Bb" B z z2 | B4- BGFG | DB,- B,4 z2 |"Eb" B4- BBGB |"Bb" F6 z2 | B4- BGFG | %37
+w: bove _ _|look ing for a _|cit y _|where _ we'll nev er|die|There _ the saint ed|
+ DB,- B,4 z2 |"C7" G4- GGBG |"F" A6 z2 |"Bb" B4- BGFG | DB,- B,4 z2 |"Eb" B4- BBGB |"Bb" F6 z2 | %44
+w: mil lions _|nev _ er say good|bye|there _ we'll meet our|Sav ior _|and _ our loved ones|too|
+"Eb" B4- BBGF |"Bb" DF- F4 z2 |"C7" G4-"F7" GGAF |"Bb" B2-"Eb7" B2-"Bb" B2 z2 |"Bb" BBBB dB z2 | %49
+w: come _ oh Ho ly|Spir it _|all _ our homes re|new _ _|in this land of dang ers|
+"Eb" BGBG B z z2 |"Bb" BBBB ddBB |"F" c2-"C7" c2-"F" c z z2 |"Bb" BBBB dB z2 |"Eb" BGBG B z z2 | %54
+w: go ing here and there|trust ing in the Sav iour's bles sed|love _ _|though we may be strang ers|in the world of care|
+"Bb/F" BBBB dB"F7"cc |"Bb" B2-"Bbdim" B2-"Bb" B z z2 | B4- BGFG | DB,- B,4 z2 |"Eb" B4- BBGB | %59
+w: look ing for a ci ty built a|bove _ _|look ing for a _|cit y _|where _ we'll nev er|
+"Bb" F6 z2 | B4- BGFG | DB,- B,4 z2 |"C7" G4- GGBG |"F" A6 z2 |"Bb" B4- BGFG | DB,- B,4 z2 | %66
+w: die|There _ the saint ed|mil lions _|nev _ er say good|bye|there _ we'll meet our|Sav ior _|
+"Eb" B4- BBGB |"Bb" F6 z2 |"Eb" B4- BBGF |"Bb" DF- F4 z2 |"C7" G4-"F7" GGAF | %71
+w: and _ our loved ones|too|come _ oh Ho ly|Spir it _|all _ our homes re|
+"Bb" B2-"Eb7" B2-"Bb" B2 z2 |] %72
+w: new _ _|
+

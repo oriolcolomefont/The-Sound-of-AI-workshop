@@ -1,0 +1,14 @@
+X:1
+T:You look Good to Me
+C:clement  Wells
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" c e g ^f | a g ^f g |"G" B d g ^f | a g ^f g |"Gm7" _B d g ^f | a g ^f g |"A7" A e g ^f | %7
+ a g ^f g |"Fm7" _A c f e | g f e f |"C" G c e _e | f e _e =e |"G" G B d ^c | %13
+ e"G7""G7""G7""G7" d"G7""G7""G7""G7" c B |"C" c"G""G""G""G" e"G""G""G""G" G e |"C" c4 |] %16
+

@@ -1,0 +1,37 @@
+X:1
+T:Ferry Cross the Mersey
+C:Gerry Marsden
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"F ""Cmin" z8 |"F ""Cmin" z8 |"F ""Cmin" c8- |"F " c2 _Bc"Cmin" _e2 cB |"F ""Cmin" c8 | %5
+w: ||Life|* goes on day af- ter|day,|
+"F ""Cmin" z8 |"F ""Cmin" c8- |"F " c2 _Bc"Cmin" _e2 cB |"F ""Cmin" c6 z2 |"F " z4"C7" z2 c2 | %10
+w: |hearts|* torn in e\- ve- ry|way.|So|
+"F " f2 c2- c z"Fmaj7" fg | e2"Amin" c4 Ae |"Gmin" d4- dc _Bd |"C7" c3- c/c/- c>A- AG | %14
+w: fer- ry * cross the|Mer- cey cause this|land's * the place I|love * and * here * I'll|
+"F " A4"Cmin" z4 |"F ""Cmin" z8 |"F ""Cmin" c8- |"F " c2 _Bc"Cmin" _e>c- cB |"F ""Cmin" c6- c z | %19
+w: stay.||Peo-|* ple they rush e\- * very-|where, *|
+"F ""Cmin" z8 |"F ""Cmin" c8- |"F " c2 _Bc"Cmin" _e2 cB |"F " c4"Cmin" z4 |"F " z4"C7" z2 c2 | %24
+w: |each|* with their own se- cret|care.|So|
+"F " f2 c4 fg |"Amin" e2 c4 Ae |"Gmin" d4- dc _B-(3B/4d/4c/4-c/ |"C7" c3 A G<A G2 |"F " F6 z2 | %29
+w: fer- ry cross the|Mer- cey a\- nd|al- * ways take * me there, *|the place I l\- o\-|ve.|
+ z8 |"Gmin" F G2 A"C7" _B2 cB |"F " A2 F4 z2 |"Gmin" G z/ G/- GA"C7" _B2 c2 |"F " A3 z"Fmaj7" z4 | %34
+w: |Peo- ple a\- round e\- very|cor- ner,|they seem * to smile and|say,|
+"Gmin" z2 GA"C7" _B>c- cd |"Amin" e2 c>A- A4 |"G7" d>d- dd (3d2 c2 _B2 |"C7" c2 z2 z4 | %38
+w: we don't care what * your|name is boy, *|we'll ne- * ver turn you a\-|way.|
+"F ""Cmin" c8- |"F " c2 _Bc"Cmin" _e2 cB |"F ""Cmin" c8 |"F ""Cmin" z8 |"F ""Cmin" c8- | %43
+w: So,|* I con- tin- ue to|say,||here,|
+"F " c2 _Bc"Cmin" _e2 cB |"F " c4-"Cmin" c z z2 |"F " z4"C7" z2 c2 |"F " f2 c4 fg | %47
+w: * I * al- ways will|stay. *|So,|fer- ry cross the|
+"Amin" e2"C " c4 Ae |"Gmin" d4- dc _Bd |"C7" c4- c<c AG |"F " A4-"Cmin" A z z2 | %51
+w: Mer- cey cause this|land's * the place I|love * and here I'll|stay, *|
+"F " z2 z A"Cmin" G2 d>c- |"F ""Cmin" c8 |"F " z4"Cmin" _B2 G2 |"F ""Cmin" F8- |"F ""Cmin" F8 | %56
+w: and here I'll stay,||here I'll|stay.||
+"F " z8 |] %57
+w: |
+

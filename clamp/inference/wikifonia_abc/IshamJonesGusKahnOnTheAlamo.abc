@@ -1,0 +1,24 @@
+X:1
+T:On The Alamo
+T:On The Alamo
+C:Isham Jones
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"Eb" E/D/ F E |: G4- | G E/D/ F E |"F7" G4- | G F/E/ G F |"Dm7b5/F" c3 c |"Bb" d3 d |"Eb" B4- | %8
+w: Where the moon swings|low|_ On the Al- a-|mo|_ In a gar- den|fair, where|ro- ses|grow.|
+ B E/D/ F E | G4- | G B/=A/ c B |"Gm7" d4- | d d/c/ e d |"Bb" f3 d |"F7" c3 d |"Bb7" B4- | %16
+w: _ In the ten- der|light|_ of the sum- mer|night.|_ I can see her|wan- der|to and|fro|
+"Eb" B E/D/ F E | G4- | G E/D/ F E |"F7" G4- | G F/E/ G F |"Dm7b5/F" c3 c |"Bb" d3 d |"Eb" B4- | %24
+w: _ For she said I'll|wait|_ By the gol- den|gate|_ On the night I|said, "I|love you|so."|
+"Ebdim" B c/d/"Eb" e"Dm7" c |"Cm" G3 G |"Cm7" e3 e |"Cdim/Ab" c4- | c"Eb" E/D/ F E |"F7" G4 | %30
+w: _ and in all my|dream it|seems, I|go|_ Where the moon swings|low|
+"Bb7" G3 G |1"Eb" G/F/ E3- | E E/D/ F E :|2"Eb" G/F/ E3- | E z z2 |] %35
+w: On the|Al- a- mo.|_ Where the moon swings|Al- a- mo.|_|
+

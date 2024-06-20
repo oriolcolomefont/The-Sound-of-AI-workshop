@@ -1,0 +1,35 @@
+X:1
+T:Master of the Wind
+T:Master of the Wind
+T:Joel Hemphill, 1984
+C:Joel Hemphill 1984
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+U:s=!stemless!
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z"C" ccc c<G E>E |"F" F>F FG A/G/F z z/ F/ |"G" GG/G/- GG/G/- G2 A<E | %3
+w: my boar of life _ sails _|on a trou bled sea _ _ when|ev er there's _ a wind _ in my|
+"C" G2"G7sus4/D" G4"G7" z G |"C" cc cc/c/ c<G z E |"F" FF<FG/A/- A3"Am7/E" G |"Dmaj7" F6 z2 | %7
+w: my sail *|but I have _ a friend _ who|watch es o ver me _ _|_|
+"G" GG<GG"Amaj7" G2"G/B" G"G7"B, |"C" sC4"F/G" z2"G" z2 ||"C" z c c>c cccG |"F" A/G/F- F4 z2 | %11
+w: when the breeze _ turns into a|gail|I know the mas ter of the|wind _ _ _|
+"G7" z B B>B BBAG |"F/C" F2- F/E/D"C" E2 z2 | cc c>c c<G E>E |"F" F2 F"Amaj7/E"G"Dm" A/G/F z2 | %15
+w: I know the mak er of the|rain _ _ _ _|He can calm the storm _ make the|sun shine a gain _ _|
+"G" z G G>G GG"G7"GB, |"C" sC6 z2 || z"C" ccc c<G E>E |"F" F>F FG A/G/F z z/ F/ | %19
+w: I know the mas ter of the|wind|Some times I soar _ like an|ea gle to the sky _ _ am|
+"G" GG/G/- GG/G/- G2 A<E |"C" G2"G7sus4/D" G4"G7" z G |"C" cc cc/c/ c<G z E | %22
+w: mong the peaks _ my soul _ can _|be found an|un ex pect ed _ storm _ may|
+"F" FF<FG/A/- A3"Am7/E" G |"Dmaj7" F6 z2 |"G" GG<GG"Amaj7" G2"G/B" G"G7"B, | %25
+w: drive me from the heights _ _|_|bring me low but ne'er brings me|
+"C" sC4"F/G" z2"G" z2 ||"C" z c c>c cccG |"F" A/G/F- F4 z2 |"G7" z B B>B BBAG | %29
+w: down|I know the mas ter of the|wind _ _ _|I know the mak er of the|
+"F/C" F2- F/E/D"C" E2 z2 | cc c>c c<G E>E |"F" F2 F"Amaj7/E"G"Dm" A/G/F z2 |"G" z G G>G GG"G7"GB, | %33
+w: rain _ _ _ _|He can calm the storm _ make the|sun shine a gain _ _|I know the mas ter of the|
+"C" sC6 z2 || %34
+w: wind|
+

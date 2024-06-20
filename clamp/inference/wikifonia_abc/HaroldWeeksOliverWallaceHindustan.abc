@@ -1,0 +1,24 @@
+X:1
+T:Hindustan
+T:Hindustan
+T:Harold Weeks
+T:Oliver Wallace
+C:Harold Weeks
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c4- | c2"G+" A2 |"C" G4- | G2 E G | A B E G | A B"Gdim" E G |"G9" A4- | A4 |"Dm7" d4- | %9
+w: Hin-|* du-|stan,|* where we|stopped to rest our|ti- red car- a-|van.||Hin-|
+"G7" d2"Cdim" B2 |"G9" A4- | A2 G A | B d"Cdim" c A |"G7" B d c A |"C""Dm7" E4- |"Ebdim""C/E" E4 | %16
+w: * du-|stan|* where the|paint- ed pea- cock|proud- ly spread his|fan.||
+"C" c4- | c2"G+" A2 |"C" G4- | G2 G A |"Gm7" _B d G B |"C7" E G _B d |"F" d4- | d4 |"D7" e4- | %25
+w: Hin-|* du-|stan|* where the|pur- ple sun bird|flashed a- cross the|sand.||Hin-|
+ e2 d2 |"Fm6" _A4- | A2"C" G"Ab7" ^G |"Dm7" A c F A |"G9" e2"G7" d2 |"C" c4- | c3 z |] %32
+w: * du-|stan|* where I|met her and the|world be-|gan.-||
+

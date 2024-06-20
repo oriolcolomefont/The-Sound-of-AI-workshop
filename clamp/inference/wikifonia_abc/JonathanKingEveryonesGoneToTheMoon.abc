@@ -1,0 +1,43 @@
+X:1
+T:Everyone's Gone To The Moon
+T:Everyone's gone to the Moon.
+T:unknown
+C:Jonathan King
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+|:"F" A6"^Foxtrot" cA |"C" G2 c6 |"Bb" D6 B2 |"C7" G4 z4 |"F" A6 cA |"C" G2 c6 |"Gm7" B2 d6 | %7
+w: Streets- * *|||||* es||
+w: Eyes full or|sor- *|nev- er|wet|Hands full of|* ey|all in|
+w: * full of|peo- *|all a-|lone|Roads full of|hous- *|nev- er|
+w: |||||mon- *|all *|
+"C7" c8 | d6 fd |"F" c2 z z f4 |"C7" B4 z2 d2 |"F" c6 z2 |"Gm7" D6 BA |"C7" G6 FG |"F" A8- | %15
+w: |||||* * ones|||
+w: ||||||||
+w: home|Church full of|sing- ing|out of|tune|ev- ry- *|gone to the|moon|
+w: debt|Sun coming out|in the|middle of|June|ev- ry ones|gone to the|moon|
+ A4 z4 :|"C" c4 c3 d | c6 z2 | c4 c3 d | c6 z2 |"Bb" B4 d3 B |"F" A2 z c3 A2 |"Gm7" G8- | %23
+w: |||||Ev- * *|||
+w: ||||||||
+w: |Long time a-|go|life had be-|gun|* ry- one|went to the|sun|
+w: ||||||||
+"C7" G6 z2 |"F" A6 cA |"C" G2 c6 |"Bb" D6 B2 |"C7" G8 |"F" A6 cA |"C" G2 c6 |"Gm" B2 d6 | %31
+w: ||* ors||||||
+w: ||||||||
+w: |hearts full of|mot- *|pain- ted|green|Mouths full of|choc- late|cov- ered|
+w: ||||||||
+"C7" c6 z2 |"Bb" d6"F" fd |"C7" c2 f4 z2 |"F" B4 d2 z2 | c8 |"G7" D4 B2 A2 |"C7" G6 FE |"F" F8- | %39
+w: ||||||||
+w: ||||||||
+w: cream|Arms that can|on- ly|lift a|spoon|ev ry- ones|gone to the|moon.|
+w: ||||||||
+ F4 z4 |] %40
+w: |
+w: |
+w: |
+w: |
+

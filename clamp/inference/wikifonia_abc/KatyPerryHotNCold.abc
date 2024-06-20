@@ -1,0 +1,54 @@
+X:1
+T:Hot N Cold
+C:Katy Perry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto" snm="A."
+%%MIDI control 7 100
+%%MIDI control 10 42
+V:1
+|:"G" B2 z2 z B G"D"A- | A2 z2 z A G"Am"A- | A2 z2 z A G"C"E- | E2 z2 z2 D2 |"G" B2 z2 z B G"D"A- | %5
+w: You change your mind|_ Like a girl|_ chan- ges clothes|* Yeah|you P M S|
+w: We used to be|_ Just like twins|_ So in- sync|_ The|same e- ner- gy|
+ A2 z2 z A G"Am"A- | A2 z2 z A G"C"E- | E2 z2 z2 D2 |"G" B2 z2 z B G"D"A- | A2 z2 z A G"Am"A- | %10
+w: * Like a bitch|* I would know|_ And|you o- ver think|_ Al- ways speak|
+w: _ Now's a dead|_ bat- te- ry|_ Used|to~laugh About no- thing|_ Now you're plain|
+ A2 z2 z A G"C"E- | E2 z2 z D D"G"B- | B2 z2 z2 G"D"A- | A2 GA- A2 G"Am"A- | (A6 G"C"E- | %15
+w: _ crypti- cal- ly|* I should know|_ That you're|* no good _ for me||
+w: _ bo- o- ring|* I should know|_ That you're|_ not gon- _ na change||
+ E2) z2 z D D"G"G- | GG G z G2 D"D"G- | GG G z G2 D"Am"A- | AA B z E2 D"C"A- | AA B z E2 D"G"G- | %20
+w: * Cause you're hot|_ then you're cold You're yes|_ then you're no You're in|_ then you're out You're up|* then you're down You're wrong|
+w: |||||
+ GG G z G2 D"D"G- | GG G z G2 D"Am"A- | AA B z E2 D"C"A- | AA B z E2 z2 | B2"G" BB BBBB | %25
+w: _ when it's right It's black|and _ it's white We fight|* we break up We kiss|* we make up|You, you don't real- ly wan- na|
+w: |||||
+"D" A2 AA- A3 A- | A2"Am" AA AAAA | G2"C" EG- G2 D"G"G- | GG G z G2 D"D"G- | GG G z G2 D"Am"A- | %30
+w: stay no but * You,|* but you don't real- ly wan-|na go o * You're hot|_ then you're cold You're yes|_ then you're no You're in|
+w: |||||
+ AA B z E2 D"C"A- | AA B z E2 z2 :|"Em" z8 |"C" z8 |"G" z8 |"D" z8 |"Em" z8 |"C" z8 |"G" z8 | %39
+w: _ then you're out You're up|_ then you're down||||||||
+w: |||||||||
+"D" z8 |"Em" z2 z e- eB- B2 |"C" z G Ge- eB- B2 |"G" z c cc- cccc- |"D" c B2 A2 B2- B | %44
+w: |Some- _ one _|call the doc- _ tor *|Got a case _ of love *|* bi- po- lar *|
+w: |||||
+"Em" z2 Ge- eB- B2 |"C" z G Ge- e B3 |"G" c2 cc c B2"C" (^F- | F6 GA- | A2) z2 z4 | %49
+w: Stuck on _ a *|rol- ler- coas- _ ter|I can't get off this ride...|_ _ _||
+w: |||||
+"G" B4 z B G"D"A- | A2 z2 z A G"Am"A- | A2 z2 z A G"C"E- | EG- G2 z4 | z4 z D D"G"G- |: %54
+w: You change your mind|_ Like a girl|_ chan- ges clothes||Cause you're hot|
+w: |||||
+ GG G z G2 D"D"G- | GG G z G2 D"Am"A- | AA B z E2 D"C"A- | AA B z E2 D"G"G- | GG G z G2 D"D"G- | %59
+w: * then you're cold You're yes|_ then you're no You're in|_ then you're out You're up|_ then you're down You're wrong|_ when it's right It's black|
+w: |||||
+ GG G z G2 D"Am"A- | AA B z E2 D"C"A- |1 AA B z E2 DG :|2 B2"G" BB BBBB |"D" A2 AA- A3 A- || %64
+w: _ and it's white We fight|_ we break up We kiss|_ we make up You're hot|You, you don't real- ly wan- na|stay * no _ You,|
+w: |||||
+ A2"Am" AA AAAA | G2"C" EG- G2 D"G"G- | GG G z G2 D"D"G- | GG G z G2 D"Am"A- | AA B z E2 D"C"A- | %69
+w: _ but you don't real- ly wan-|na go o _ You're hot|* then you're cold You're yes|_ then you're no You're in|_ then you're out You're up|
+w: |||||
+ AA B z E2 D2 |"G" G8 |] %71
+w: _ then you're down *||
+w: ||
+

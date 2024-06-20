@@ -1,0 +1,34 @@
+X:1
+T:A Million to One (Transcribed)
+T:A Million to One
+C:Philip E. Medley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 66
+V:1
+ z4 z2 f2 |"Bb " dd- dd B4 | z F Bc de- ef |"Cmin" d3 c"G7" =B2 z d |"F7" c6 z F | %5
+w: A|Mil- lion * to One,|that's what our folks think * a\-|bout this love of|ours. A|
+"Cmin7" ee- ee c4 |"F7" z F cd ef- ff |"Bb " d3 d de f2 | d4"Bb7" z2 B2 |"Eb " ee- e4 ef | %10
+w: Mil- lion * to One,|they say that our love * will|fade like yes- ter- day's|flowers. They're|bet- ting * e\- very-|
+"C7" g4 z2 ga |"Bb " bf- f2 z g- gf | d6 z G |"Gmin" dd- d4 z G | d2- (3dcd"C7" c4 | %15
+w: thing that our|lo- ve * won't * sur-|vive. They're|ho- ping * in|time * we'll for- get|
+"Cmin7" z2 d2"F7" e f3 |"Cmin7" dc-"F7" c4 z F |"Bb " dd- dd B4 | z F Bc de- ef | %19
+w: each o\- ther's|li- es. * A|Mil- lion * to One,|they feel we're too young * to|
+"Cmin" d3 c"G7" =Bc- cd |"F7" c6 z F |"Cmin7" ee- ee c4 |"F7" z F cd ef- ff |"Bb " e3 d d2- (3def | %24
+w: know the mea- ning * of|love. A|Mil- lion * to One,|that they've for- got- ten * the|dreams that we're * drea- ming|
+ fd-"Bb7" d4 B2 |"Eb " f3 e dc- c2 |"Ebmin" z f fe dc- c2 |"Bb " z2 df ed AB |"C7" c6 B2 | %29
+w: o\- f. * But|we'll for- give them *|be- cause we love them *|af- ter all is said and|done. Dear|
+"Bb " F2- (3Fdd"Gmin" cB- B2 |"Cmin7" z2 f2"F7" e c2 d | %31
+w: "One * in a Mil- lion" *|A Mil- lion to|
+"Bb " B2"_Tenor Sax" F/B/d/f/"Gmin" (3ggg f/d/B/A/ |"Bb7" _A2 g/f/g/f/ bg B2 | %33
+w: One. * * * * * * * * * * *|* * * * * * * But|
+"Eb " f3 e dc B/A/_A/G/ |"Ebmin" _Gf fe dc ^F2 |"Bb " F2 df ed AB |"C7" c2 F/G/B/d/ c2 B2 | %37
+w: we'll for- give them * * * *|* be- cause we love them *|* af- ter all is said and|done. * * * * * Dear|
+"Bb " F2- (3Fdd"Gmin" cB DF |"Cmin7" E2 f2"F7" e c2 d |"Bb " B6 dB |"Gmin7" f4 d4 |"Bb " F8- | %42
+w: "One * in a Mil- lion" * *|* A Mil- lion to|One. * *|||
+ F8 |] %43
+w: |
+

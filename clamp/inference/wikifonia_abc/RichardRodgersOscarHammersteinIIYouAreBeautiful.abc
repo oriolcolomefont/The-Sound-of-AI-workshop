@@ -1,0 +1,26 @@
+X:1
+T:You Are Beautiful
+T:You Are Beautiful
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"D69" B3 A |"D" D3/2 E/ F2 |"D69" B3 A |"D" D4 |"Em" E/ F G/"A" A E |"F#m/E" F"G/A" G"A" A2 | %6
+w: You are|beau- ti- ful,|small and|shy.|You are the girl whose|eyes met mine.|
+"Em" E/ F G/"A" A A | D4 |"D69" B3 A |"D" D3/2 E/ F2 |"D69" B3 A |"D" D4 |"Em" E/ F G/"A" A E | %13
+w: Just as your boat sailed|by.|This I|know of you,|noth- ing|more.|You are the girl whose|
+"F#/E" F"G/A" G"A" A2 |"Em" F/ G A/ B"A9" B |"D9" B4 |"G" B/ c B/ A G |"D" F3/2 E/ D2 | %18
+w: eyes met mine,|Pass- ing the ri- ver|shore.|You are the girl whose|laugh I heard.|
+"G" B/ c B/ A G |"D9" F4 |"G/B" G/ A G/ F E |"D/A" d3/2 F/ F2 |"E9" ^G/ G G/ F F |"Em7/A""A7" E4 | %24
+w: Sil- ver and soft and|bright:|Soft as the fall of|Lot- us leaves,|Brush- in' the air of|night.|
+"D69" B3 A |"D" D3/2 E/ F2 |"D69" B3 A |"D" D4 |"Em" E/ F G/"A" A E |"F#/E" F"G/A" G"A" A2 | %30
+w: While your|flow- er boat|sailed a-|way.|Gent- ly your eyes looked|back on mine,|
+"Em" F/ G A/ B"A7" c |"D7sus4""D7" d4 |"G" e/ d c/ B A/G/ |"A9" C2 F2 |"D" D4 |"A7sus4""A7" z4 :| %36
+w: clearl- ly you heardf me|say:|"You are the girl I will|love some-|day."||
+"D" D4- | !fermata!D3 z |] %38
+w: ||
+

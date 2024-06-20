@@ -1,0 +1,57 @@
+X:1
+T:The Prayer
+T:The Prayer
+C:David Foster
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z cfa |"Bb9" a2 g2 agba |"Fsus4" g2"F" f2"Dm" edef |"Db" f2 _e2"Bbm" _dcde |"Fsus4" f8- | %5
+w: |||||
+w: |||||
+"F" f3 C AGFG |"Bb" D8 |"Csus4" z2 z C"C" GFEF |"F" A,8 |"F/A" z2 z C AGFG |"Bb" D8 | %11
+w: * I pray you''ll be our|eyes|and watch us where we|go.|and help us to be|wise,|
+w: ||||||
+"Gm/C" z2 z C GFEF |"Eb/F" G8- |"F" G4 AABc |"Gm" D8 |"Gm7/C" z4"C7" EEFG |"A7sus4" A8- | %17
+w: in times when we don't|know.|* Let this be our|prayer,|when we lose our|way.|
+w: ||||||
+"A7" A6 z2 |"Dm" FFEF"Bb" d4 |"Dm" FFEF"Am" c4 |"Bb" DDFB"F/C" A2"C" G2 |"Bb/F" F8 | %22
+w: |Lead us to a place,|guide us with your grace|to a place where we'll be|safe.|
+w: |||||
+"F" z2 z C AGFG |"Bb" D8 |"F" z2 z C AGFG |"F/A" A,8 |"F/A" z2 z C AGFG |"Bb" D8 | %28
+w: I pray we'll' find your|light,|and hold it in our|hearts|When stars go out each|night|
+w: ||||||
+"Gm7/C" z2 z C GFEF |"Eb/F" G8- |"F" G4 AABc |"Gm7/C" D4"C7" z4 |"A7sus4" z2 z A BAAB |"A7" A6 z2 | %34
+w: you're our e- ter- nal|star.|* Let this be our|prayer|when sha- dows fill our|day|
+w: ||||||
+"Dm" FFEF"Bb" d4 |"Dm" FFEd"Am" c4 |"Bb" DDFB"F/C" A2"C7" G2 |"Bb/F" F8 |"F" z4 z FAc | %39
+w: Lead us to a place,|guide us with your grace,|give us faith so we'll be|safe.|So- gna mo͜͜~un|
+w: |||||
+"C/Bb" e2"Bb" d2"C/Bb" edf>e |"Fsus4" d2"F" c2 z FAc |"C/Bb" e3"Bb" d"C/Bb" ede>f | %42
+w: mon- do sen- za piu vio-|len- za. Un mon- do|di giu- sti- zia͜͜~e di spe-|
+w: |||
+"Fsus4" g2"F" f2 z cfa |"Bbmaj7" a2 g2 ag!fermata!b>a |"Fsus4" g2"F" f2"Dm" ede>f | %45
+w: ran- za. O- gnu- no|dia la man- no͜͜~al suo vi-|ci- no sim- bo- lo di|
+w: |||
+"Db" f2 _e2"Bbm" _dcde |"Fsus4" f8- |"F" f3 f fcB>A |[K:Bb]"Eb" G3 B BABc |"Fsus4" G3 F"F" cBAB | %50
+w: pa- ce di tra- ter- ni-|ta.|* La for- za che ci|dai We ask that life be|kind, e͜͜~il~ de- sid- de- rio|
+w: |||||
+"Bb" F3 F cBAB |"Bb9/D" F3 F defg |"Eb" G3 G GABd |"Fsus4" c3 F"F" cBAB |"Ab/Bb" c6 z2 | %55
+w: che. and watch us from a-|bove, O- gnu- no tro vi͜͜~a|more We hope each soul will|find in- ter- no͜~e den tro|se.|
+w: |||||
+"Bb" z4 ddef |"Cm" G6 z2 |"Cm7/F" z4"F7" AABc |"D7sus4" d4 ccBc |"D7" (B/AG/ ^F4) z2 | %60
+w: Let this be our|prayer|just like ev- 'ry|child, just like ev- 'ry|child, * * *|
+w: |||||
+"Gm" BBAB"Eb" g4 |"Gm" BBAB"Dm" f4 |"Eb" GGBe"Bb/F" d2"F7" c2 |"Eb/Bb" B6"Bb/A" z2 | %64
+w: need to find a place,|guide us with your grace,|Give us faith so we'll be|safe.|
+w: ||||
+"Gm" BBAB"Eb" g4 |"Gm" BABg"Dm" !fermata!f4 |"Eb" GGBe"Bb/F" d2"F7" c2 |"Gb" _d8- | d4"Ab" e4 | %69
+w: E la fe- de che|hai ac- ce- so͜~in noi|Sen- to che ci sul- ve-|ra.|_ _|
+w: |||||
+"Bb" f8 |] %70
+w: |
+w: |
+

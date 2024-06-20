@@ -1,0 +1,22 @@
+X:1
+T:Toyland
+T:Toyland
+T:Victor Herbert, Glen MacDonough
+C:Victor Herbert, Glen MacDonough
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"F6" d3 |"Fmaj7" A3 |"Am7" c3 |"D7" A3 |"Gm7" B c B |"C7" A2 G |"Fdim7" D3 |"Fmaj7" C3 | %8
+w: Toy-|land,|toy-|land,|lit- * tle|girl and|boy|land.|
+w: Child-|hood's|joy-|land,|mys- * tic|mer- ry|joy-|land.|
+"Bbmaj7" F2 E |"Bbm6" F2 G |1"Am7" A c2- ||"D7" c =B c |"G7sus4" d2 e |"G7" d2 G |"Gm7" G3- | %15
+w: While you|dwell with-|in it,|_ you are|ev- er|hap- py|then.|
+w: Once you|pass its||||||
+"C7" G3 :|2"Am7" A c2 ||"D7" d2 D |"Gm7" D c B |"Db9#11" G2"C7b9" A |"F6" F3- | F z2 |] %22
+w: _|bor- ders|you can|nev- er re-|turn a-|gain.|_|
+w: |||||||
+

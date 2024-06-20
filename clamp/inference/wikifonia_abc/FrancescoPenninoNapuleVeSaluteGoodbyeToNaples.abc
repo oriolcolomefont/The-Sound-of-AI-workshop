@@ -1,0 +1,26 @@
+X:1
+T:Napule Ve Salute (Goodbye To Naples)
+T:Napule Ve Salute (Goodbye To Naples)
+C:Francesco Pennino
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" dc/B/ AG |"F7" AB cA |"Bb" (3(G/A/G/ F3-) | F2 z2 |"Bb" dc/B/ AG | AB c"Bbdim"B | %6
+w: Na- pu- le bel- lo|mio, io te sa-|lu- * * to,|_|cu- 'na spe- ran- za|sem- pre͜'e te ve-|
+"Cm" (3(A/B/A/ G3- | G2) z2 |"Cm" ed/c/ =Bc |"F7" de f"D7"d |"Gm" (3(c/d/c/ B3-) | B4 | %12
+w: dé; _ _ _|_|si- no 'stu co- re|mio sar- ria per-|du- * * to|_|
+"C7" cB/A/ GA | BB cA |"F7" (3(G/A/G/"Fdim" F3- | %15
+w: stan- no pe' sem- pe͜~as-|sai lun- ta- no͜~'a|te! _ _ _|
+"F7" F)"Bb"!fermata!d"C9" !fermata!d"F7"!fermata!d ||"Bb" c2 B2 | cc cB |"Cm" (3(A/B/A/ G3- | %19
+w: _ Cie- lo- 'ncan|ta- to|ches- ta giu- ven-|tu! _ _ _|
+ G)c cB |"Cm7" B>A"F7" AA |"Cm7" AB"F7" cA |"Bb" F4- | Fd cB |"Bb" F2 F2- | Fe"G7" dc | %26
+w: _ dim- me; si|Na- pu- le io|ve- dar- rag- gio|cchiú|_ co- re spar-|tu- to|_ ma- re d'ar-|
+"Cm" G2 G2- | Gc"Gm7" d"Cm7b5"e |"Bb" f2 f2- | fd"F7" c>B |"Bb" d2 d2- |"Bb" dd cB | F2 F2- | %33
+w: gen- to,|_ stel- le lu-|cen- te|_ io ve sa-|lu- to|_ _ _ _||
+ Fe"G7" dc |"Cm" G2 G2 | z C DE |"Bb" F"Cm"G"D7" A"Gm"B |"Cm" c z z"F7" F |"Bb" B2 z2 |] %39
+w: ||Ar- ri- ve-|der- ci Na- po-|li, Ad-|dio!|
+

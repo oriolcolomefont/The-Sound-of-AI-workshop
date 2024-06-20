@@ -1,0 +1,75 @@
+X:1
+T:Don't You Worry 'bout a Thing
+T:Don't You Worry 'bout a Thing
+T:Stevie Wonder
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Gb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z B- |:S"Ebm" B2 GA-"Bb+" A2 EG- |"Ebm7" G2 EA-"Ab7" A2 z E |"Dbm7" _FEDG-"Gb7" GDDD- | %4
+w: Ev-|'ry- bod- * * y's got|_ a thing _ but|some don't _ know _ how to han-|
+w: |lol you're style _ of life's|_ a drag _ and|that you must go _ oth- er pla-|
+w: |* 'ry- bod- * y's needs|_ a change _ a|chance to _ check _ out the new|
+"Cbmaj7" D C2 G-"Bb+/Fb" G2 z E |"Ebm" B2 GA-"Bb+" A2 EG- |"Ebm7" G2 EA-"Ab7" A2 z E | %7
+w: * dle it _ _|Al- ways reach- * in' out|_ in vain _ ac-|
+w: * * ces _ But|just _ don't _ you feel|_ too bad _ when|
+w: _ _ _ _ But|you're the on- * ly one|_ to see _ the|
+"Dbm7" _FEDG-"Gb7" GDDD- |"Cbmaj7" D C2 E- EGBA- |"Bb+/Fb" AAAB cdBA |"Gb" B2 z2 z4 | %11
+w: cept- ing the things _ not worth hav-|* * * * * * ing|_ But don't you wor- ry 'bout a|thing|
+w: you get _ fooled _ by _ smi-|* * * * ing fac- es|_ _ _ _ _ _ _ _||
+w: chan- ges you take _ your- self through|_ _ _ _ _ _ _|||
+"Gb7" z2 AB cdBA |"Bbm" (B2 G)A- AG- G2 |"Cbmaj7" z4 z/ G3/2F_F |"Abmaj7" E2 B(B A)(AE)E- | %15
+w: Don't you wor- ry 'bout a|thing _ ma- * ma _|'Cause I'll be|stand- in' on _ the _ side|
+w: ||||
+w: ||||
+"Db11" EGG(G F)F- F2!dacoda! |1"Gbmaj9" A6 z2 ||"Bb+" z4 z2 GB :|2"Gb" c2 BB-"F" B =A2 (A || %19
+w: _ when you check _ it _|out|They say|out _ _ _ _ _|
+w: ||||
+w: ||||
+"Fb" B) A2 A-"Eb" A =G2 _G- |"D" G G2 G-"Db" GF"Gb" A2 | z4 z D E<G |"Gb" c B2 B-"F" B =A2 A- | %23
+w: _ _ _ _ _ _||When you get|off _ _ _ _ _|
+w: ||||
+w: ||||
+"Fb" A _A2 A-"Eb" A =G2 _G- |"D" G G2 G-"Db" GF"Gb" A2 | z2 Bd egag |"Ebm" bag"Bb+"a- age"Ebm7"g- | %27
+w: _ _ _ _ _ _|* * * * your trip|Don't you wor- ry 'bout a|thing _ _ _ _ _ _ _|
+w: ||||
+w: ||||
+ ged"Ebm6/Bb"e- ed B2 |"Fbmaj7" G A3- A4 | z2 Bd egag |"Ebm" bag"Bb+"a- age"Ebm7"g- | %31
+w: _ _ _ _ _ _ _||Don't you wor- ry 'bout a|thing _ _ _ _ _ _ _|
+w: ||||
+w: ||||
+ ged"Ebm6/Bb"e- ed B2 |"Fbmaj7" G A3- A4 | z8 | b2 ga- a2 eg- | g2 eg- g2 z e | _fedg- g d2 d- |1 %37
+w: _ _ _ _ _ _ _|||Bom ba bom _ ba bom|_ ba bom _ bom|bom bom bom bom _ bom bom|
+w: ||||||
+w: ||||||
+ d c2 g- g2 z b :|2 d c2 e- egba || a2 aa aged | B2 z2 z4 |"Gb7" z2 AB cdBA | %42
+w: _ _ _ _ Bom|* bom bom _ _ _ _|_ Don't you wor- ry 'bout a|thing|Don't you wor- ry 'bout a|
+w: |||||
+w: |||||
+"Bbm" (B2 G)A- AG- G2 |"Cbmaj7" z4 z/ G3/2F_F |"Abmaj7" E2 B(B A)(AE)E- |"Db11" EGG(G F)F- F2 | %46
+w: thing _ ma- * ma _|'Cause I'll be|stand- in' in _ the _ side|_ when you check _ it _|
+w: ||||
+w: ||||
+"Gb" c2 BB-"F" B =A2 (A |"Fb" B) A2 A-"Eb" A =G2 _G- |"D" G G2 G-"Db" GF"Gb" A2 | z4 z D E<G | %50
+w: out _ _ _ _ _|_ _ _ _ _ _||When you get|
+w: ||||
+w: ||||
+"Gb" c B2 B-"F" B =A2 A- |"Fb" A _A2 A-"Eb" A =G2 _G- |"D" G G2 G-"Db" GF"Gb" A2- | %53
+w: off _ _ _ _ _|_ _ _ _ _ _|* * * * your trip|
+w: |||
+w: |||
+ A2 z2 z2 z B!D.S.! ||O"Gb" A3 B B,4 |"Bb+" z2 Bd egag |:"Ebm" bag"Bb+"a- age"Ebm7"g- | %57
+w: _ Ev'|out _ _|Don't you wor- ry 'bout a|thing _ _ _ _ _ _ _|
+w: ||||
+w: ||||
+ ged"Ebm6/Bb"e- ed B2 |"Fbmaj7" G A3- A4 | z2 Bd egag :| %60
+w: _ _ _ _ _ _ _||Don't you wor- ry 'bout a|
+w: |||
+w: |||
+

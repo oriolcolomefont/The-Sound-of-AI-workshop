@@ -1,0 +1,29 @@
+X:1
+T:She thinks I still care
+T:She thinks I still care.
+T:Dicky Lee
+C:Dicky Lee
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"C" GG E4 |"F" z CAA c4 |"C" z C (3AGE G4- | G6 z2 |"C" e2 ee- e3 e |"G7" f2 d2 (3edB- Bc | %6
+w: Just be- cause|I ask a friend|a- bout * * her||Just be- cause * I|spoke her name * * * some-|
+"C" c4 z4 | z4 z2 Gc |"C" e e3 d e3 | z f2 e d3 d |"F" c3 F A4 |"C" e3 d c2 z2 |"G7" G6 z d | %13
+w: where|just be-|cause I saw her|then went all to|piec * es|she * thinks|I still|
+"C" c8 |"^alCoda" z4 z2 z"^Chorus" c |"F" c c3- c2- (3cAc | d c3- c2- (3cAc |"C" A G3- G4 | %18
+w: care,|but|if she's * * hap- py|think- in * * I still|miss her *|
+ z4 z2 z c | c e3- e2- (3ede | f e3- e2 dc |"G" d8 |"F" z c3- c2 Ac | dc A2- A3 c |"C" A G3- G4 | %25
+w: then|let that * * sil- ly|no- tion * bring her|cheer|ow * could she|ev- er be * so|fool- ish *|
+ z4 z2 z c |"D7" c6- (3cAB | c4 z2 (3edc |"G7" d4 d4 |"C" G3 G E3 C |"F" AA c2- c3 F | %31
+w: Oh|where * would she|get such an i-|de- a?|Just be- cause I|haunt the same * old|
+"C" (3AGE G6- | G2 z2 z2 cd | e e3- e2 de |"G7" f d3- d2 cB |"C" c8- |"^D.S.alCoda" c4 z2 Gc || %37
+w: pla * * ces|* where the|mem- ry * of her|lin- gers * ev- ry|where|* just be|
+"C" z4"^Coda" z2 Gc | e e3 d e3 | z f2 e d3 d |"F" c3 F A4- | A8 |"C" e4 c4 |"G7" G4 d4 |"C" c8- | %45
+w: just be-|cause I saw her|then went all to|piec * es||she thinks|I still|care.|
+"F" c6"C" z2 |] %46
+w: |
+

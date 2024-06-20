@@ -1,0 +1,35 @@
+X:1
+T:Glendora
+T:Glendora
+T:Ray Stanley
+C:Ray Stanley
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cm""^Verses" C E F G/G/ | F E C B, | C2 C2- | C3 E | G B/B/ B/B/B/B/ | c B G/F/ E | G2 G2- | %7
+w: Verse1.......I'm in love with a|dol- ly named Glen-|do- ra,|* she|works in the win- dow of a|big de- part * ment|store- a.|
+w: Verse2....She's so shy that I|don't know how I|found her,||with three big bod- y guards *|al- ways work- in a-|round her|
+w: Verse3.........(8 bars music only) *|||||||
+w: Verse4.....Late last night at the|store they did some|chang- in'|* An'|I stood * watch- in when they|star- ted re- * ar-|rang- in'|
+ G3 z | G B c3/2 c/ | c B G3/2 G/ |"Ab7" _G/G/ E F E/E/ | _G/G/ E F2 |"Cm" e c B/ G G/ | %13
+w: |Eyes of blue, *|hair like gold, *|nev- er been young but she'll|nev- er get old,|oh, Glen- do- ra, I|
+w: |One just nods an'|two just grins an'|threes got- ta mouth full of|saf- e- ty pins.|Oh Glen- do- ra, I|
+w: |I stand left an'|I stand right *|out ta my head 'cause I'm|out- * ta sight.|Oh, Glen- do- ra I|
+w: |She lost her wig,|she lost her arms|an' when they got through she|lost all her charms.|oh Glen- do- ra what|
+"Ab7" _G/E/ F"G7" F E |"Cm" C4- | C4 |"Cm""^Chorus" e3 c |"Gm7" B G3 |"Cm" e3 c |"Gm7" B G3 | %20
+w: wan- na see more of|you.||Oh, Glen-|do- ra,|oh, Glen-|do- ra,|
+w: wan na see more of|you,||Oh Glen-|do- ra,|oh Glen-|do- ra'|
+w: wan- na see more of|you.|(toVerse4)|||||
+w: did * they do to|you,||Oh Glen|do ra,|oh Glen|do ra'|
+"Cm" e c B/ G G/ |"Ab7" _G/E/ F"G7" F E |"Cm" C4- | C3 z |] %24
+w: oh, Glen- do- ra, I|wan- na see more of|you.|(toVerse2)|
+w: oh, Glen- do- ra, I|wan- na see more of|you.|(toVerse3)|
+w: ||||
+w: oh Glen do ra what|did * they do to|you.|(repeatChorus)|
+

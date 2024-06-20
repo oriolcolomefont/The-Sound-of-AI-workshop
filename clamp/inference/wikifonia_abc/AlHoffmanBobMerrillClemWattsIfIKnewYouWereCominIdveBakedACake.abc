@@ -1,0 +1,42 @@
+X:1
+T:If I Knew You Were Comin' I'd 've Baked A Cake
+T:If I knew you were comin' I'd 've baked a cake
+C:Al Hoffman, Bob Merrill, Clem Watts
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F""^Moderato" c A2 c3 z2 |"Dm" A F2 A3 z F |"F" AA"Eb7" B2"D7" c2 B2 | %3
+w: Well well well|look who's here I|have n't seen you in|
+w: |||
+"G9" AD"C7" G"F" F3"Bb/C" F"C7"G |:"F" B2 A^G A=GFD | C2 D F3 z2 |"C7" C2 D G3 z2 | %7
+w: man- y a year. If I|knew you were com- ing I'd 've|baked a cake,|baked a cake,|
+w: ||||
+"F" C2 D A3"Bb" F"C7"G |"F" A2 A^G A=GFD | C2 D F2 c2 A |"C7" c2"Bb" BB"C" A2 GG | %11
+w: baked a cake. If I|knew you were com- ing I'd 've|baked a cake. How- ja|do. How- ja do. How- ja|
+w: ||||
+"F" F4 z2"Bb" F"C7"G |"F" A2 A^G A=GFD |"F" C2 D F3 z2 |"C7" C2 D G3 z2 |"F" C2 D A3"Bb" F"C7"G | %16
+w: do. Had you|dropped me a let- ter I'd 've|hired a band|grand- est band|in the land had you|
+w: ||hired a hall|great big hall|band and all had you|
+"F" A2 A^G A=GFD | C2 D F3 z A |"C7" cABG"Bb" A2"C" GF- |"F" F4 z"F7" G2 F |"Bb" d2 B2 F2 Bd- | %21
+w: dropped me a let- ter I'd 've|hired a band and|spread a wel- come mat for you.|_ Now I|don't know where you came|
+w: dropped me a let- ter I'd 've|hired a hall and|spread a wel- come mat for you.|_||
+ dB- B4 AB | c2 B2 A B2 c- |"F" c4"C7""F" z2 FF |"Dm" A^GAG"F+" A=GFG |"Dm7" A^GAG"G9" A=G"G7" F2 | %26
+w: _ from _ 'cause I|don't know where you've been.|_ But it|real- ly does- n't mat- ter grab a|chair and fill your plat- ter and|
+w: |||||
+"Bb" d2"Adim" c2"Bb6" B2"Db7b5#9" AG- |"C9" G4 z2"Bb" F"C7"G |"F" A2 A^G A=GFD | C2 D F3 z2 | %30
+w: dig dig dig right in|_ If I|knew you were com- ing I'd 've|baked a cake.|
+w: |* If I|knew you were com- ing I'd 've|kept the pot|
+"C7" C2 D G3 z2 |"F" C2 D A3 FG |"F" A2 A^G A=GFD | C2 D F2 c2 A |"C7" c2"Bb" BB A2"C9" GG |1 %35
+w: Hired a band|Good- ness sake If I|knew you were com- ing I'd 've|baked a cake. How- ja|do. How- ja do. How- ja|
+w: cof- fee pot|nice and hot _ _|_ _ _ _ _ _ _|||
+"F" F4"G9""C7" z2"Bb" F"C7"G :|2"F" F4-"Bb9""F" F z z2 |] %37
+w: do. If I|do. _|
+w: ||
+

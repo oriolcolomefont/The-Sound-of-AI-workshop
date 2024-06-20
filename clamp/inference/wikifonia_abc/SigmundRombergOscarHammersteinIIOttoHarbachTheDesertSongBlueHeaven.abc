@@ -1,0 +1,28 @@
+X:1
+T:The Desert Song (Blue Heaven)
+T:The Desert Song
+T:Sigmund Romberg
+T:Otto Harbach and Oscar Hammerstein II
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Vocal"
+%%MIDI program 68
+V:1
+"Cm" c3 |"Eb" _B G B |"Cm" c3 | G3 |"Eb" _B3 |"Cm7" G _E F |"G7" G3- | G3 |"Cm" c3 |"Eb" _B G B | %10
+w: My|des- ert is|wait-|ing-|Dear,|come there with|me.||I'm|long- ing to|
+"Cm" c3 | G3 |"G" B3 |"D" A"G" B"D7" c |"G" d3- | d3 |"Eb" G _B G | G _E F |"Gm7" G3- | G3 | %20
+w: teach|you|Love's|sweet mel- o-|dy.||I'll sing a|dream- song to|you,||
+"Eb" G _B G | G _E F |"G7" G3- |"G+7" G3 |:"C""C" E3 |"B" ^D B"B7" A |"Dm" A2"A" ^C | %27
+w: Paint- ing a|pic- ture for|two:||Blue|heav- en and|you and|
+"Dm" D2"A7" E |"Dm7" F3 |"G7" F c B |"Cmaj7" B2"B" ^D |"C" E3/2 E/"G7" F/^F/ |"C" G3 |"E7" ^G e d | %34
+w: I, And|sand|kiss- ing a|moon- lit|sky. A des ert|breeze|whisp- 'ring a|
+ d2"Am" c | c ^D E |"Bm" B2"D7" A | A d B |"Dm7" A2"G7" G |"Dm7" A2"G7" G |"C" E3 |"B" ^D B"B7" A | %42
+w: lull- a|by, On- ly|stars a-|bove you To|see I|love you.|Oh,|give me that|
+"Dm" A2"A" ^C |"Dm" D2"A7" E |"Dm7" F3 |"G7" F c B |"Cmaj7" B2"B" ^D |"C" E3/2 E/"G7" F/^F/ | %48
+w: night di-|vine And|let|my arms in|yours en-|twine. The des- ert|
+"C" G3 |"E7" ^G e d | d2"Am" c |"D7" D B"F" A |"C" E3 |"G7" G3 |1"C" c3- || c3 :|2 c4 x43 || x3 |] %58
+w: song|call- ing, Its|voice en-|thrall- ing Will|make|you|mine.||||
+

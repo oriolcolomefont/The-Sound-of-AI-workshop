@@ -1,0 +1,40 @@
+X:1
+T:THIS FATHER'S DAY
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" z3 e f g |"Bb9" c6 |"F9" z3 G A c |"C9/E" d6 |"Bbsus4" z3 C E F |"F9/A" G4 z F |"Em" G6 | %7
+w: |||||||
+"F9" z3 C D C |"C" E2 G A2 G |"Bb" C2 C D2 E |"F6" D E C- C3 |"Em" z3 C2 D |"Am" E3 G2 A | %13
+w: It was a|park you gave to|me the day that|I ar rived _|Filled with|rides, trees and|
+"F9" G3 E E C |"Bb/D" D6 | z3 C2 D |"Em" E G2- G G A |"Am9" G2 z z z _E |"C/Bb" D C2- C D E | %19
+w: smiles that watched me|grow|There were|les sons _ to be|learned and|hon ors _ to be|
+"F" C6- | C6 | z C2 D2 C |"Dm9" E2 G G2 A |"C/E" G C2- C3 |"Bb7" z D2- D D C | D6 |"F" z3 z3 | %27
+w: made|_|My jour ney|stops to pause and|"THANK YOU" _|THIS _ FATH ER'S|DAY||
+"G" z3 C D C |"C" E2 G G2 A |"Bb6" G3- G z E |"F" D E C- C3 |"Em" z3 C D2 |"Am9" E G2 z G E | %33
+w: A pho to|graph of you and|me _ in|black and white _|Ed ges|burn ished by the|
+"F" A2 G E2 C |"Bb" D3 z z z | z C2 D C2 |"Em" E G2 A2 G |"Am9" C2 z G2 G |"C9/Bb" A c2 z d e | %39
+w: years with out a|frame|To day this|im age that I|keep grows full|col or and com|
+"F" c6 | z3 C2 D |"Dm9" E G"Em7" G- G3 |"Bb7" z E2"F" F- E C |"C" C6 | z3 G G G |"C" c3 z d B | %46
+w: plete|As I|think of you _|THIS FATH _ ER'S|DAY|And in the|blink of an|
+"Ab/C" c2 c2 B c |"G/B" d2 G G2 A |"Gm/Bb" G3 z G2 |"F9" c2 c G2 G | G2 A E2 F |"C/E" G6 | %52
+w: eye we've rib boned|thou sands miles a|part Its|seld om that we|ride in the same|car|
+"Cm/Eb" z2 G G2 G |"Ab" c2 c c2 c |"Bb/Ab" d2 d d2 c |"Eb/G" _B2 _E E2 F | _E2 z E2 E | %57
+w: But on oc|ca sion when we|do the road's dir|ec tion points the|same as you|
+"Dm7" F2 F F2 G |"F" F2 c c2 B |"G" G6 |"G7" z2 G d2 e |"C" c2 c c2 c |"Bb9" c2 c G2 z | %63
+w: once en cor aged|me: "YOU WILL GO|FAR"|And I've gone|far in shoes I|knew that I|
+"F" z A2- A G F |"Em" G3 z G G |"Am7" d2 c2 B c |"F" G2 z E2 F |"Bb9/D" G2 A G2 E | C6- | %69
+w: could _ nev er|fil as you|tied mine man y|times, I now|bend to do the|same|
+"Bb9" C6- | C3 z3 |"Em" z A2 G2 E |"Am" C4 z2 |"Bbsus4/F" z A2 G2 E |"F" C4 z2 | F3 F3 | G3 G3 | %77
+w: _||You lent me|roof|You gave me|life|||
+ z2 C C2 D |"Dm9" E2 G"C9/E" A2 G |"Bbsus4/F" C6 |"G" z3 E3 | E3 D3 |"C" C6 |"C" z3 e f g | %84
+w: and send to|you that "I've Been|Blessed"|THIS|FATH ER'S|DAY||
+"Bb9" c6 |"F9" z3 G A c |"C9/E" d6 |"Bbsus4" z3 C E F |"F9/A" G4 z F |"Em" G6- |"F" G6- |"C" G6 |] %92
+w: ||||||||
+

@@ -1,0 +1,38 @@
+X:1
+T:Don't Know Why
+T: 
+T:Jesse Harris
+T: 
+T:I would die in ecs-tasy But iÕll be a bag of bones Dri-ving down the road a-lone 
+T:Some-thing has to make you run I donÕt know why I did-nÕt come I feel as emp-ty as a drum I donÕt know why I did-nÕt come
+C:Jesse Harris
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Bb" A2 B_A-"Bb7" ABFD |"Eb" z2 G^F-"D" FDF=F- |"Gm7" FDF=E-"C7" E[DG]EF- |"F7" F2 z2 z B,- B,2 |: %4
+w: |||* I _|
+w: ||||
+S"Bb" z AFF-"Bb7" F D2 D/C/- |"Eb" C/B,/ B,3"D7#5" z4 |"Gm7" z/ G,/B, DC-"C7" CB,B,B, | %7
+w: wai- ted Õtil _ i saw _|_ the sun|I donÕt know why _ _ I did-|
+w: When I saw _ the break _|_ of day|I wished that I _ _ could fly|
+"F7sus4" C D3"Bb" z4 |"Bb" z/ B,/A FF-"Bb7" FD- DD/D/- |"Eb" DB,/B,/- B,2"D7#5" z4 ||1 %10
+w: nÕt come|I left you by _ _ _ the house|_ of fun _|
+w: a- way|In- stead of knee- * ling _ in _|the sand _ _|
+"Gm7" z/ G,/B, DC-"C7" CB,B,B, |"F7sus4" C D3"Bb" z B,- B,2 |"Gm7" z B,DC"C7" z2 B,B,/C/ | %13
+w: I donÕt know why _ _ I did-|nÕt come I _|donÕt know why I did- nÕt|
+w: |||
+"F7sus4" D4 z4 :|2"Gm7" B, D2 (C"C7" B,)B, z2 ||"F7sus4" B,CB,B,-"Bb" B,2 z2 || %16
+w: come|Catch- ing tear- * drops|in my _ hand _|
+w: |||
+"Gm7" z2 z3/2 G,/ B2 B2 |"C7" A3 A- AGFF- |"F7" F2 z2 z4 | z8 |"Gm7" z2 z3/2 G,/ B2 B2 | %21
+w: My heart is|drench'd in _ _ _ wine|_||But youÕll be|
+w: |||||
+"C7" A3 A- AGFF- |"F7" F3"Bb/Eb" E- E2 z"Bb/D" D- | D3"F/C" C- C2 z2S |] %24
+w: on my _ _ _ mind|_ For- * e-|* ver _|
+w: |||
+

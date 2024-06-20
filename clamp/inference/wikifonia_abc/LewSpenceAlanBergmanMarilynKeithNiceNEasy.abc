@@ -1,0 +1,28 @@
+X:1
+T:Nice 'N' Easy
+T:Nice "N" Easy
+C:Lew Spence
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C" z E3 ^D2 E2 |"C+" ^D2 EF- F2 E2 |"C6" z E3 ^D2 E2 |"C7" ^D2 EF- F2 E2 |"Dm7" z F3 E2 FG- | %5
+w: Let's take it|nice 'n' eas- * y,|It's gon- na|be so eas- * y,|For us to fall|
+ G6 FD- | D8 |"C#dim""G7" z8 |"C" z E3 ^D2 E2 |"C+" ^D2 EF- F2 E2 |"C6" z E3 ^D2 E2 | %11
+w: * in love.|||Hey bab- y|what's you hur- * ry,|Re- lax and|
+"C7" ^D2 EF- F2 E2 |"Dm7" z F3 E2 FG- |"A7b9" G6 FA- |"Dm""Dm7" A8 |"Bm7b5""E7b9" z8 | %16
+w: don't you wor- * ry,|We're gon- na fall|* in love.|||
+"Am" z c3 B2 c2 |"C+" B2 cd- d2 c2 |"C" z c3"G7" B2 AG- |"C" G3 E G2 A2 |"Em7b5" _B6 AG- | %21
+w: We're on the|road to ro- * mance,|That's safe to say,|* But let's make|all the stops|
+"A7" G2 _G"A+7"F- F2 ED- |"D7" D8 |"Dm7""G7b9" z8 |"C" z E3 ^D2 E2 |"C+" ^D2 EF- F2 E2 | %26
+w: * a- long * the way.|||The prob- lem|now of course * is,|
+"C6" z E3 ^D2 E2 |"C7" ^D2 EF- F2 E2 |"F" z A3 ^G2 A2 |"E7b5" ^A3 B-"E7" B3 c- |"Am""Am7" c8- | %31
+w: To sim- ply|hold your horse- * es,|To rush would|be a * crime,||
+"D9" c4 z"Ebdim" A3 |"C" B2 cB-"Am7" B2 G2 |"Dm7" F2 GF-"G9" F2"G7b9" D2 |"C""Em7""Dm7" C8 | %35
+w: * 'Cause|nice 'n' eas- * y|does it ev- * 'ry|time!|
+"G9""G7b9" z8 :|"C""Am7""Dm7" C8- |"Db7" C6"C6" z2 |] %38
+w: |time!||
+

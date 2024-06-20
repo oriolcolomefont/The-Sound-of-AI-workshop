@@ -1,0 +1,33 @@
+X:1
+T:Speak Low
+T:Speak Low
+C:Kurt Weill
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z C |:"Gm9" A4- |"C9" A2 (3G D G |"Gm9" A4- |"C9" A2 (3G D G |"Gm9" A2 (3G D G |"C9" A3 G | %7
+w: Speak|low|* when you speak|love,|* our sum- mer|day with- ers a|way too|
+w: |low,|* dar- ling, speak|low|* love is a|spark lost in the|dark too|
+"F6" d3 c |"D7" d3 A |"Bbm9" c4- |"Eb9" c2 (3B F B |"Bbm9" c4- |"Eb9" c3/2 B/4c/4 (3B F G | %13
+w: soon too|soon Speak|low|* when you speak|love,|* our * mo- ment is|
+w: soon, too|soon, I|feel|* wher- ever I|go|* that to- mor- ow is|
+"G9" A3/2 A/- (3A E F |"C9" G3/2 G/-"C7b9" (3G F E |1"F6" D2"D7" D2 ||"Gm7" D3"C7" C :|2"F" F4- || %18
+w: swift, like * ships a|drift, we're * swept a-|drift too|soon. Speak||
+w: near, to- mor- row is|here and al- lways too|||soon.|
+ F4 |"Fm7" (3_e d c =e2- | e2 _A2 |"Abm" G3 F | F4 |"Ebmaj7" (3d c B d2- | d2 G2 |"E7b9" F3"E7" E | %26
+w: |||||love is pure gold,|* and|time a|
+w: |Time is so old|* and|love so|brief||||
+ E3"C+7" C |"Gm9" A4- |"C9" A2 (3G D G |"Gm9" A4- |"C9" A z/ G/ (3G D G |"G9" A2 (3G D G | %32
+w: thief. We're|late|* dar- ling we're|late|* the cur- tain de-|scends, ev- 'ry- thing|
+w: ||||||
+"C9" A3 G |"F6" d3 c |"D" d3 A |"Bbm9" c4- |"Eb9" c2 (3B F G |"F" A4- | A A"D7" B c | %39
+w: ends too|soon, too|soon, I|wait|* dar- ling I|wait|* will you speak|
+w: |||||||
+"G9" d d d3/2 d/ |"C9#5" d d d3/2 d/ |"F6" d4- | d3 z |] %43
+w: low to me, speak|love to me, and|soon||
+w: ||||
+

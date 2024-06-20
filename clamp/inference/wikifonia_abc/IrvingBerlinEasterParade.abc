@@ -1,0 +1,30 @@
+X:1
+T:Easter Parade
+T:Easter Parade
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" d3 ^c"F7" d3 =c |"Bb7" B2 d4"Bb+7" c2 |"Eb/G" B3 A B3 A |"Eb" G2"Cm7" B4"C#dim7" G2 | %4
+w: In your East- er|bon- net, with|all the frills up-|on it you'll|
+"Bb/D" F3 =E"F7" F3 _E |"Bb" D2 F2"Gm" B2 c2 |"C7" d2 c4 B2 |"Cm/F""F7""F7" c8 | %8
+w: be the grand- est|la- dy in the|East- er Pa-|rade.|
+"Bb" d3 ^c"F7" d3 =c |"Bb7" B2 d4"Bb+7" c2 |"Eb/G" B3 A B3 A |"Eb" G2 B4"C#dim7" G2 | %12
+w: I'd be all in|clov- er and|when they look you|o- ver I'll|
+"Bb/D" F3 =E"F7" F3 _E |"Bb" D2 F2"Gm" B2 c2 |"C9" d2"C7" B4"F7" c2 |"Bb""Cm/F""Bb" B6 B>=B | %16
+w: be the proud- est|fel- low in the|East- er Pa-|rade. On the|
+"Fm6" c>c"Bb6" c6 | z4 z2"B+" B2 |"Eb6" c>c"Eb6/Bb" c6 |"Eb" z4 z2"Eb/Bb" c>^c |"Gm" d>d d4 c2 | %21
+w: Av- e- nue|Fifth|Av- e- nue|the pho-|to- graph- ers will|
+"C7" =e2 e4 c2 |"F" f2 f>c"Eb/F" e2 e>B |"Dm/F" d2 d>A"F9" c2"F7#5b9" ^c2 |"Bb" d3 ^c"F7" d3 =c | %25
+w: snap us. And|you'll find that you're in the|ro- to- gra- vure. Oh,|I could write a|
+"Bb7" B2 d4"B+7" c2 |"Eb/G" B3 A B3 A |"Eb" G2"Cm7" B4"C#dim7" G2 |"Bb/D" F3 =E"F7" F3 _E | %29
+w: son- net a-|bout your East- er|bon- net and|of the girl I'm|
+"Bb" D2 F2"Gm7" B2 c2 |"C9" d2 B4"F7" c2 |1"Bb""Bbdim7""Cm" B6"F+7" z2 :|2"Bb" B6 z2 |] %33
+w: tak- ing to the|East- er Pa-|rade|rade.|
+

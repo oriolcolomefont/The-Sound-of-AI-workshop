@@ -1,0 +1,28 @@
+X:1
+T:Anna
+T: Laukens Music Productions  
+T:Samba
+T:Arr. H. Laukens
+T:ANNA
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=135
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ B,CS ||"G" D2 EF G2 AB |"D7" c2 [DFAc][DFAc] [DFAc]2 A,B, | C2 DE F2 GA | %4
+"G" B2 [DEGB][DEGB] [DEGB]2 BG | EE AF DD GE |"D7" C2 [CDFA][CDFA] [CDFA]2 AF | DD GE CC FD | %8
+"G" B,2 z2 z2 B,C | D2 EF G2 AB |"D7" c2 [DFAc][DFAc] [DFAc]2 A,B, | C2 DE F2 GA | %12
+"G" B2 [DEGB][DEGB] [DEGB]2 BG | EE AF DD GE |"D7" C2 [CDFA][CDFA] [CDFA]2 AF | DD GE CC FD | %16
+"G" G2 D2"G7" D2 _E2 ||"C" E C2 D E4- | E2 C2 C2 E2 |"G" G F2 E D4- | D2 D2 G2 F2 | %21
+"D7" A A2 G F2 D2 | E E2 E D2 C2 |"G" B,8- | B,2 D2"G7" D2 _E2 |"C" E C2 D E4- | E2 C2 C2 E2 | %27
+"G" G F2 E D4- | D3 D G2 F2 |"D7" A A2 G F2 D2 | F F2 D F2 A2 |"G" G8 | z3 D"D7" EF GA |: %33
+"G" B6 A2 | c c2 B A2 G2 | A A2 G F2 E2 | D6 D2 | G2 F2 A A2 G | F E2 D"D7" C4- | C4 F4 | %40
+"G" G F2 E D4- | D4 G4 |"D7" F E2 D C4- | C4 F4 |"G" G8-O ||1 G2 z D"D7" EF GA :|2 %46
+ G2 z2 z2 B,C!D.S.! ||O G2 GG G2 x2 |] %48
+

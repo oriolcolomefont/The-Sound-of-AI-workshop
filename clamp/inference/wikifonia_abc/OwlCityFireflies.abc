@@ -1,0 +1,55 @@
+X:1
+T:Fireflies
+T:Fireflies
+T:
+C:Owl City
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"Bb" z8 |"Eb" z8 |"Ab" z8 | z4"Fm" z4 |"Bb" z8 |"Eb" z8 |"Ab" z8 | z4"Fm" z2 e2 |"Bb" d3 B3 e2 | %9
+w: |||||||||
+w: |||||||||
+"Eb" d3 B3 c2- |"Ab" c6 B2 | c3 e3"Fm" f2- |"Bb" f4- fB B2 |"Eb" g3 f3 e2- |"Ab" e8 | z4"Fm" z4 |: %16
+w: |||||||
+w: |||||||
+"Bb" z2 B,F- FF-FE |"Eb" F2 E2 B,4 |"Ab" z2 B,C- CC B,2 | C2 E2"Fm" F4 |"Bb" z2 G2 F2 EB,- | %21
+w: You would * not * be-|lieve your eyes|if ten * mil- lion|fi- re- lies|lit up the world|
+w: 'Cause I * get * a|thou- sand hugs|from ten * thou- sand|light- ning bugs|Asthey try to teach|
+"Eb" B,B, B,2 FE-EC- |"Ab" C4 z4 | z4"Fm" z4 |"Bb" z2 B,F- FF-FE |"Eb" F2 E2 B,4 | %26
+w: * as I fell a- * sleep|||'cause they * fill * the|o- pen air|
+w: * * me how to * dance.|||a fox- * trot * a-|bove my head|
+"Ab" z B, C2 C2 B,2 | CE-EF-"Fm" F2 B,B,- |"Bb" B,G-GF- FE-EB,- |"Eb" B,2 B,G- GF-FC |"Ab" z4 E4 | %31
+w: and leave tear- drops|ev- ery- * where * You'd think|* me * rude, * but * I|* would * * stop * and|stare|
+w: a sock hop be-|neath my * bed * A dis-|* co * ball * is * hang-|* * ing * by * a|thread.|
+ z8 ||"Ab" z2 G2 F2 EB- |"Eb/G" BG- G2 F2 EF- |"Bb" F8 | z2 B,2 E2 DC- |"Ab" C8 |"Eb/G" B,4 z4 | %38
+w: |I'd like to make|* my- * self be- lieve||that pa- net earth||turns|
+w: |||||||
+"Bb" D8 |"Ab" C6 z C | C2 EE- EE G2 |"Eb/G" FE- E2 B,3 B, |"Ab" C2 CE-"Bb" E2 F2 |"Cm" C6 z B, | %44
+w: slow-|ly It's|hard to say * that I'd|ra- ther * stay a-|wake when I'm * a-|sleep 'Cause|
+w: ||||||
+"Ab" C2 E2 E2 G2 |"Eb" FE B,4 E2 |1"F" F8 | C4 z4 :|2"Bb" F8 || z4"Cm" z4 |"Ab" z8 | z8 | %52
+w: ev- ery- thing is|ne- ver as it|seems.||||||
+w: ||||||||
+"Bb" z2 B,F- FF-FE |"Eb" F2 E2 B,4 |"Ab" z2 B,C- CC B,2 | C2 E2"Fm" F4 |"Bb" z2 G2 F2 EB,- | %57
+w: |||||
+w: |||||
+"Eb" B,B, B,2 FE-EC- |"Ab" C4 z4 | z4"Fm" z4 |"Bb" z2 B,F- FF-FE |"Eb" F2 E2 B,4 | %62
+w: |||||
+w: |||||
+"Ab" z B, C2 C2 B,2 | CE-EF-"Fm" F2 B,B,- |"Bb" B,G-GF- FE-EB,- |"Eb" B,2 B,G- GF-FC |"Ab" z4 E4 | %67
+w: |||||
+w: |||||
+ z8 :|"Ab" z2 G2 F2 EB- |"Cm" BG- G2 F2 EF- |"Bb" F8 | z2 B,2 E2 DC- |"Ab" C8 |"Eb/G" B,4 z4 | %74
+w: |I'd like to make|* my- * self be- lieve||that pa- net earth||turns|
+w: |||||||
+"Gm" D8 |"Ab" C6 z C | C2 EE- EE G2 |"Eb/G" FE- E2 B,3 B, |"Ab" C2 CE-"Bb" E2 F2 | %79
+w: slow-|ly It's|hard to say * that I'd|ra- ther * stay a-|wake when I'm * a-|
+w: |||||
+"Cm""Cm" C6 z B, |"Ab" C2 E2 E2 G2 |"Eb" FE B,4 E2 |1"F" F8 | C4 z4 ||2"Bb" F8 | z4"Cm" z4 |] %86
+w: sleep 'Cause|ev- ery- thing is|ne- ver as it|seems.||||
+w: |||||||
+

@@ -1,0 +1,30 @@
+X:1
+T:Brother, Can You Spare a Dime?
+T:Brother Can You Spare A Dime?
+C:Jay Gorney
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+|:"Cm" C>DE>F G c3 |"G7" =B2 G_B-"C7" B4 |"F" =A2 F_A-"Bb7" AB A2 |"Eb""G7" G8 | %4
+w: Once I built a rail- road,|made it run, _|Made it race _ a- gainst|time.|
+"Fm" F>ED>E"G7" F G3 |"Cm" E2 CE-"Ab7" E4 |"Fm" D>C=B,>C"G7" D E2 C- |"Cm" C8 | C>DE>F G c3 | %9
+w: Once I built a rail- road,|now it's done _|Broth- er can you spare a dime?|_|Once I built a tow- er,|
+"G7" =B2 G_B-"C7" B4 |"F" =A2 F_A-"Bb7" AB A2 |"Eb""G7" G8 |"Fm" F>ED>E"G7" F G3 | %13
+w: to the sun. _|Brick, and riv- * et and|lime,|Once I built a tow- er|
+"Cm" E2 CE-"Ab7" E4 |"Fm" D>C=B,>C"G7" D E2 C- |"Cm" C8 | C>D=E>F G4 | %17
+w: Now it's done, _|Broth- er can you spare a dime?|_|Once in kha- ki suits|
+"Edim" (3B2"C7" A2 G2-"Gm7" G4 |"Edim" (3B2 A2"C7" G2 _d>c (3BBA |"Bbm6""C7" G8 | %20
+w: Gee, we look swell|Full of that Yan- kee Doo- dle de-|dum.|
+"F7" C>D=E>F G3 =A |"Cm" (3B2"F7" =A2 G2"F9" G4 |"Cm" B=AGc- cB"A7b5"=Ad |"D7""D7b5""G7" d8 | %24
+w: Half a mil- lion boots went|slog- gin' thrru hell,|I was the kid _ with the drum.|_|
+"Cm" edc=B c G2 c |"G7" =B2 G_B-"C7" B4 |"F7" =A2 F_A-"Bb7" AB A2 |"Eb""G7" G8 | %28
+w: Say, don't you re- mem- ber, they|called me Al. _|It was Al _ all the|time|
+"Fm" F>ED>E"G7" F G3 |"Cm" e2 ce-"Ab7" e4 |"Fm" dc=Bc"G7" d e2 c- |1"Cm""G7" c8 :|2 %32
+w: Say, don't you re- mem- ber|I'm your pal! _|Bud- dy, can you spare a dime?|_|
+"Cm" c4- c2 z2 |] %33
+w: |
+

@@ -1,0 +1,17 @@
+X:1
+T:Zörög az akácfalevél
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" G G3 G G3 | G3 F E C3 |"F" F G3 A2 A2 |"C" A3 G E C3 |: E C3 D2 C2 |"G" D D3 G2 F2 | %6
+w: Zö- rög az a-|kác- fa le- vél,|Mer' é- szak- ról|fúj- ja a szél,|U- gyan ba- bám,|ho- vá let- tél,|
+ G2 F2 E2 D2 |"C" C C3 D2 C2 :| %8
+w: Már két es- te|el nem jöt- tél.|
+

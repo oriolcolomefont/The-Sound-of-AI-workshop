@@ -1,0 +1,30 @@
+X:1
+T:My Hang Up Is You
+T:Myhang-up is you
+T:Freddie Hart
+T:Fox-trot
+C:Freddie Hart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c3 c d3 c |"G" B2 D2 G3 B |"D7" z2 A2 D^F A2 |"G" G8- | G4 z4 | z2 D2 B,2 EB, | E2 B,2 z2 B2 | %7
+w: Ev- ry- bod- ys|got one ba- by|my hang- up is|you||Ev- ry bod- ys|got one, a|
+"G7" B2 B2 A3 A |"C" G4 z2 cc | cc z2 c2 de |"G" dG z2 z2 B2 |"A" A2 E2 B3 B |"D7" A6 D2 | %13
+w: hang- up of some|kind Call it|hab- it or call it|weak- ness thank|good ness I got|mine the|
+"G" DB, E2"D7" DB, E2 |"G" DB, z2 z2 BB | B3 B A3 A |"C" G8 | c3 c d3 c |"G" BD z2 G3 B | %19
+w: want- ing the crav- ing the|need- ing keeps my|world from fall- in|through|Ev- ry bod- ys|got one ba- by|
+"D" z2 A2 D^F G2 |"G" G4 z4 | z4 z2 c2 |"C" cc z2 z2 cc | d3 G G2 dd |"G" e2 d4 BG | D4 z2 B2 | %26
+w: my hang- up is|you|I'm|hung up on the|thrills I feel when I|hold you in my|arms I'm|
+"C" cc z2 c2 cc | d2 G2 Gdde |"G" d3 B D3 B |"D7" A8 | z4 z2 DB, |"G" D2 B,2"D7" E3 B, | %32
+w: hung up be- cause I|need your love to wrap a-|round and me me|warm|you're my|lit- tle piece of|
+"G" D2 B,2 B2 BB |"G7" B3 B A3 A |"C" G8 | z8 | c3 c d3 c |"G" B2 D2 G3 B |"D7" z2 A2 D^F ^F2 | %39
+w: heav- en you're all Ive|got to hand on|to||ev- ry- bod- ys|got one ba- by|my hang- up is|
+"G" G8 |"G7" z8 |"C" c3 c d3 c |"G" B2 D2 G3 B |"D7" z2 A2 D^F ^F2 |"C" G8- | G8 |"G" z2 D2 c2 B2 | %47
+w: you||ev- ry- bod- ys|got one ba- by|my hang up is|you|||
+ e2 d2 B4 |] %48
+w: |
+

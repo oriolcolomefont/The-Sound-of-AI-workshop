@@ -1,0 +1,28 @@
+X:1
+T:Wait Till the Sun Shines Nellie
+T:wait till the sun shines nellie
+T:harry von tilzer
+T:andrew b. sterling
+C:Harry Von Tilzer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Bb" F4 |"D7" d3 c |"Gm" B2"Eb" G2 |"Bb" F B3 | z"F7" c2"Fdim" B |"F7" c2 d2 |"Bb" B2"A7" G2 | %7
+w: wait|till the|sun shines,|nel lie,|when the|clouds go|drift ing.|
+"Bb" F4 |"Eb" G3"Eb" E |"Bbdim" A3 G |"Bb" F2 B2 |"Cm" c"Gm" d3 | z"C9" d d d | c B"C7" G B | %14
+w: by;|we will|be so|hap py,|nel lie,|don't let me|hear you sigh ing|
+ z"F7" d d d | c A G ^F |"Bb" =F4 | d3"D7" c |"Gm" B2"Eb" G2 |"Bb" F B3 |"F7" c2"B7" =B2 | %21
+w: don't let me|hear you cry ing,|down|lov er's|lane we'll|wand er,|sweet hearts|
+"F7" c2"A7" ^c2 |"D7" d4- | d G ^F G |"G7" e4- | =e d2 G |"C9" d2"C7" c2 |"^Fsharpdim" ^F z G2- | %28
+w: you and|i|* if you will|wait|* till the|sun shines.|nel *|
+ G d3 | d d _d c | =B4 | =e e e e- | =e d ^F G | c2 c2 | c c/d/ c/=B/ G | d f3- | f3/2 (f/ f2) | %37
+w: |* bye * and|bye|hap py to geth|er, er but it|all de|pends the weath * er man,|nel lie|* oh *|
+ d F3- | F2 d2 | c2 =B2 | c c ^c d- | d4- | d G ^F G | =e4- | =e d2 G | d2 c2 | ^F G3 | d4- | %48
+w: nel lie|* now|don't you|sit there and sigh,||* if you will|wait|* till the|sun shines,|nel lie,|by|
+ d d _d c | =B4 |] %50
+w: * bye bye and|bye|
+

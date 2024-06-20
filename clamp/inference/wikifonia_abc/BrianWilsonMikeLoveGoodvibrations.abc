@@ -1,0 +1,34 @@
+X:1
+T:Good  vibrations
+T:Good Vibrations
+T:Brian Wilson, Mike Love
+C:Brian Wilson,  Mike Love
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Dm" d/c/ A z2 | A A/A/ d/d/ f |"C" g c c/_B/ A | z2 z G/A/ |"Bb" _B c G A | _B A G F | %6
+w: I * *|I love the col- or- ful|clothes she wears * *|and the|way the sun- light|plays up- on her|
+w: Close my eyes|* she's * some * how|hclo- ser now * *||soft- ly smile I|know she must be|
+"A" G/F/ E3 | z4 |"Dm" a4- | a a/a/ a/g/ f |"C" c d A G | F2 z G/A/ |"Bb" _B c G A | _B A G F | %14
+w: hair * *||I|* hear the sound of a|gen- tle word *|* on the|wind that lifts her|per- fume through the|
+w: kind * *||then|* * * * I look|in her eyes *|* she goes|with me to a|blos- som world *|
+"A" A/G/ E3 |"C7" z4 |"F" z f"Cm" _e/_e/ d |"F" F G"Cm" _B c |"F" z f"Cm" _e/_e/ d | %19
+w: air * *||I'm pick- ing up|good vi- bra- tions|she's giv- ing me|
+w: |||||
+"F" F G"Cm" _B c |"F" z f"Cm" _e/_e/ d |"F" F G"Cm" _B c |"F" z f"Cm" _e/_e/ d |"G" F G"Dm" _B c | %24
+w: ex- ci- ta- tions|I'm pick- ing up|good vi- bra- tions|she's giv- ing- me|ex- ci- ta- tions|
+w: |||||
+"A" z g"Em" f/f/ e |"A" G A c d | z g f/f/ e | G A c d | z a g/g/ ^f | A B d e |1 %30
+w: I"m pick- ing up|good vi- bra- tions|she's giv- ing me|ex- ci- ta- tions-|I'm pick- ing up|good vi- bra- tions|
+w: ||||||
+"A" z a"Em" g/g/ ^f ||"A" A B"Em" d e :|2"A" z a"Em" g/g/ ^f ||"A" A B"Em" e d |"A" z2 B ^c- | %35
+w: she's giv- ing me|ex ci- ta- tions|she's giv- ing me|ex- ci- ta- tions|ta- tions|
+w: |||||
+ ^c4- | ^c4 |] %37
+w: ||
+w: ||
+

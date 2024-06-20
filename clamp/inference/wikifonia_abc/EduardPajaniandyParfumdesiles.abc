@@ -1,0 +1,20 @@
+X:1
+T:Parfum des îles
+T:PARFUM DES ILES
+T:Eduard Pajaniandy
+C:Eduard Pajaniandy
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:Eb
+V:1 treble 
+%%MIDI program 66
+V:1
+|:S"Cm" c2e z a2g z | z c2e- eag2 |"Dm7b5" =B2d z a2g z |"G7" z8 |"Dm7b5" =B2d z a2g z | %5
+ z =B2"G7"d- da2g | c2"Cm"e z a2g z | z4 z g_gf |"Gm7b5" =e2g z _d'2c' z | z"C7b9" =e2g- g_d'2c' | %10
+ f2"Fm"a z _d'2c' z |"Fm" z8 | c2"Cm"e z a2g z | z2 a"G7"g f2ed | c8- |1 c8 :|2 c4"Cm" z2 (3edc |: %17
+ B2>"Fm"d2- df2a | c'2>b2- b"Bb7"f2^f |"Eb" g8- | g2g2 b=a_ag | ^f2>"D7"=a2- ac'2d' | %22
+ e'2>"D7b9"d'2- d'c'2=b |"G7" d'8- | d'2gg- (3g2_g2f2 |"C7" =e2>g2- gb2c' | %26
+ _d'2>c'2-"C7b9" c'b2c' | b2>"Fm"a2- aa2b |"Db9" .=b4 z2 ef |"Eb" g2b2"Cm" g2e2 | %30
+"Fm" f2a2"Bb7" f2d2 |1"Eb" e8 | c4"G7" z2 (3edc :|2"Eb" e8- ||S"G7" e8 ||O c8- | c8 |] %37
+

@@ -1,0 +1,34 @@
+X:1
+T:You're The One That I Want
+T:YOU'RE THE ONE THAT I WANT
+T:JOHN FARRAR
+C:John Farrar
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ E G3 |:"Am" A6 z2 | z2 E2 E2 DD- | D2 C2 z4 | z4 E2 G2 |"F" A8- | A4 G2 G2 |"C" (G2 E4) z2 | %8
+w: I got|chills.|They're mul- ti- ply-|* in'|And I'm|los-|* in' con-|trol. _|
+w: |filled|* with af- fec-|* tion|you're too|shy|_ to con-|vey, _|
+ z4 E2 G2 |"E" ^G4 G4 | z4 E2 C2 |"Am" D2 C2 z4 | z2 FF FFFF | E4 A,2 A,2 | z8 | z8 | %16
+w: 'Cause the|pow- er|you're sup-|ply- in',|(it's e- lec- tri- fy- in'!)||||
+w: med- i-|tate in|my dir-|rec- tion.||Feel your way.|||
+ z2 z C EE G2 |"C" G2 z2 z4 | z4 E G2 A- |"Em" A2 BG- G2 z2 | z8 |"Am" z4 c c2 c- | c2 B2 A G3 | %23
+w: You bet- ter shape|up,|'cause you need|_ a man _||and my heart|_ is set on|
+w: I bet- ter shape|up.|'cause I need|_ a man _||who can keep|_ you sat- is-|
+"F" A4 z4 | z2 z C EE G2 |"C" (A2 G2) z4 | z4 EGEA- |"Em" A2 BG- G2 z2 | z8 |"Am" z4 c c2 c- | %30
+w: you.|You bet- ter shape|up; _|you bet- ter un-|* der- stand _||to my heart|
+w: fied.|I bet- ter shape|up _|If I'm * gon-|* na prove _||that your faith|
+ c2 B2 A2 GA- |"F" A8 | z8 | z8 | z4 z2 cc ||S"C" cccc z4 | z8 | z2 e2 z d2 z |"F" c4 AF z c | %39
+w: _ I must be true.|_|||You're The|One That I want||You, oo,|oo, hon- ey. The|
+w: _ is jus- ti- fied.|_||||||||
+"C" cccc z4 | z8 | z2 e2 z d2 z |"F" c4 AF z c |"C" cccc z4 | z8 | z2 e2 z d2 z |"F" c3 c c2 AB- | %47
+w: one that I want.||You, oo,|oo, hon- ey. The|one that I want.||You, oo,|oo are what I need|
+w: ||||||||
+"G" B8 | z2 B2 c2 d2 | d8 |1 z4"^Tacet" E2 G2 :|2 z4 z2 c"^and fade"c!D.S.! || %52
+w: _|Oh, yes in-|deed.|If you're|* The|
+w: |||||
+

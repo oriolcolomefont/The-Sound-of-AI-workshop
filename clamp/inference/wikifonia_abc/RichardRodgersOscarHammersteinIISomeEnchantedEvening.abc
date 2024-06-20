@@ -1,0 +1,38 @@
+X:1
+T:Some Enchanted Evening
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C""^Moderately" G/^F/A/G/ G C- | C2-"Am" C"C" z |"G7" G/^F/A/G/ G B- | B3 z |"C" G/^F/A/G/ G c- | %5
+w: Some En- chant- ed\- Eve- ning|_ _|You may see a stran- ger,|_|You may see a stran- ger,|
+w: Some En- chant- ed Eve- ning|_ _|Some one may be laugh- ing|_|You may hear her laugh- ing|
+"C+" c c c c |"F" A3/2 E/"F6" D2 | (3z D"C6" E G E |"Dm7""G7" D4- |"Dm" D D"E7" (3E G E | %10
+w: _ A- cross a|crowd- ed room|And some- how you|know|_ You know e- ven|
+w: _ A- cross a|crowd- ed room|And night af- ter|night|_ As strange as it|
+"Am""C7" C4- |"F" C A (3B c d |"Dm7" c B2 A | G E2"G7" D |1"C""C7" E4- |"C+" E2"Cdim" z2 :|2 %16
+w: then|_ That some- where you'll|see her a-|gain and a-|gain|_|
+w: seems|_ The sound of her|laugh- ter will|sing in your|||
+"C" C4- | C3 z ||"G7" F F/F/"C" E E |"G7" D/D/D/D/"C6""C" C2 |"G7" F F/F/"C" E E | %21
+w: dreams.|_|Who can ex- plain it?|Who can tell you why?|Fools give you rea- sons.|
+w: |||||
+"Am7" D D"D7" D D |"G""Cm6" G4- |"Esus4""Dm7" G3"Cdim" z |"C" G/^F/A/G/ G C- | C2-"Am" C"C" z | %26
+w: Wise men ne- ver|try.|_|Some en- chant- ed eve- ning|_ _|
+w: |||||
+"G7" G/^F/A/G/ G B- | B3 z |"C" G/^F/A/G/ G c- |"C+" c c c c |"F" A3/2 E/"F6" D2 | %31
+w: When you find your true love,|_|When you feel her call you|_ A- cross a|crownd- ed room.|
+w: |||||
+ z D"C6" (3E G E |"Dm7""G7" D4- |"Dm" D D"E" (3E G E |"Am""C7" c4- |"F" c A (3B c d |"Dm7" c B2 A | %37
+w: Then fly to her|side|_ And make her your|own|_ Or all through your|life you may|
+w: ||||||
+ c A2"G7" d |"C" c4- | c3 z |"G7" F F/F/"C" E E |"G7" D/D/D/D/"C6""C" C2 |"G7" F F/F/"C" E E | %43
+w: dream all a-|lone.|_|Once you have found her.|Nev- er let her go.|Once you have find her.|
+w: ||||||
+"Dm" D2 F2 |"Dm7" A2 c2 |"C" e2-"C6" e"C" z |] %46
+w: Nev- er|let her|go! *|
+w: |||
+

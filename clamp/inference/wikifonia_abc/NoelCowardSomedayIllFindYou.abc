@@ -1,0 +1,22 @@
+X:1
+T:Someday I'll find you (from "Private Lives"
+T:Someday I'll find you
+C:Noël Coward
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Eb" e B G |"Bb+7" ^F d2 |"Eb" e B G |"Bb+7" ^F d2 |"Eb" c B d | c B G |"Abmaj7" E3 |"Bb7" G3 | %8
+w: Some- day I'll|find you|Moon- light be-|hind you|True to the|dream I am|dream-|ing|
+"Eb/G" B c d |"F7" f e c |"Fm7" A3/2 c/"C7" A/G/ |"Fm7" F3 |"Gm" B3/2 d/"D7" B/=A/ |"Gm" G3 | %14
+w: As I draw|near you you'll|smile a lit- tle|smile|For a lit- tle|while|
+"Fm7" c/d/ f2 |"Bb7" F/A/ c2 |"Eb" e B G |"Bb+7" ^F d2 |"^EB7" e B G |"Ab" F c2 |"C7" c G =E | %21
+w: we shall stand|hand in hand|I'll leave you|nev- er|Love you for|ev- er|All our past|
+ C B c |"F" =A3 |"Bb7" A3 |"Eb7" G/A/ B B |"Ab" c3 |"G7" d/e/ f f |"C7" g3 |"Fm7" e c A | %29
+w: sor- row re-|deem-|ing|Try to make it|true|Say you love me|too|Some- day I'll|
+"Fm7/Bb" F c"Bb7" D |"Eb" E3- | E3 |] %32
+w: find you a-|gain||
+

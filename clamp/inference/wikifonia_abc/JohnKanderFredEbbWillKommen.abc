@@ -1,0 +1,27 @@
+X:1
+T:WillKommen
+T:Willkommen
+T:(from Cabaret)
+T:John Kander
+T:Fred Ebb
+T:All Rights Reserved
+C:John Kander
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B F2 G | B F G2 | ^D E3- | E4 | B F2 z | B F G2 | ^D E3- | E4 | c ^G2 A | =F ^F2 A | B F G E- | %11
+w: Will- kom- men!|Bein- ve- nue!|Wel- come!||Frem- der,|E- tran- ger,|Stran- ger.||Glück- lich zu|se- hen, Je-|suis en- chan- té.|
+w: veel'- common 	|bee\-en'- vah- new|||frem'- dehr|ae'- trah jhay|||glu'- cleesh su|zay'- en ju-|sees' ae- shan- tae'|
+ E4 | A ^D2 E | B2 A2 | G F A F | E4 | B F2 G | B F G2 | ^D E3 | z E ^D/ E3/2 | c4- | c E ^D E | %22
+w: |Hap- py to|see you,|Blei- be, Res- te,|Stay.|Will- kom- men!|Bein- ve- nue!|Wel- come!|im Cab- a-|ret,|* au Cab- a-|
+w: |||bly'- buh ray'- stuh||veel'- common *|bee\-en'- vah- new||im * *||* aww * *|
+ B2 B2 | B2 B2 | G4- | G z z2 |] %26
+w: ret, to|Cab- a-|ret.||
+w: ||||
+

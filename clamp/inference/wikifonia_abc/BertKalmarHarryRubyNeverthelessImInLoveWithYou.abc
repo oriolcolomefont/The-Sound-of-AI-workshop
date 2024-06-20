@@ -1,0 +1,26 @@
+X:1
+T:Nevertheless (I'm In Love With You)
+T:NEVERTHELESS (I'M IN LOVE WITH YOU)
+C:Bert Kalmar, Harry Ruby
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Bb" B>BB>A- A3 G |"Dbdim7" B>BB>A- A3 G |"F7" A>AA>G- G3 F |"Dm7b5" _A>AA>G-"G7" G3 F | %4
+w: May- be I'm right, * and|may- be I'm wrong, * And|may- be I'm weak * and|may- be I'm strong * but|
+"Cm" G>GG>F-"G7" F>=E _E2 |"C7" D4"F7" C4 |"Bb""Gm7" F8 |"C7""F7" z8 |"Bb" B>BB>A- A3 G | %9
+w: Nev- er- the- less * I'm in|love with|you||May- be I''ll win * and|
+"Dbdim7" B>BB>A- A3 G |"F7" A>AA>G- G3 F |"Dm7b5" _A>AA>G-"G7" G3 F |"Cm" G>GG>F-"G7" F>=E _E2 | %13
+w: may- be I'll lose, * and|may- be I'm in, * for|cry- in' the blues * but|Nev- er- the- less, * I'm in|
+"C7" D4"F7" F4 |"Bb" B8- | B z A2 B2 =B2 |"Fm7" c>cc>B-"Bb7" B3 _A |"Fm7" c>cc>B-"Bb7" B>c _A2 | %18
+w: love with|you.|* Some- how, I|know at a glance * the|ter- ri- ble chan- * ces I'm|
+"Eb" G8 | B8 |"Gm7" d>dd>c-"C7" c3 B |"Gm7" d>dd>c-"C7" c>d B2 |"Cm7" c8 |"F7" F8 | %24
+w: tak-|ing:|fine at the start, * thern|lefr with a heart * that is|break|ing|
+"Bb" B>BB>A- A3 G |"Dbdim7" B>BB>A- A3 G |"F7" A>AA>G- G3 F |"Dm7b5" _A>AA>G-"G7" G3 F | %28
+w: May- be I'll live * a|life of re- gret * and|may- be I'll give * much|more than I'll get; * but|
+"Cm" G>GG>F-"G7" F>=E _E2 |"C7" D4"F7" F4 |"Bb" B8- | B6 z2 |] %32
+w: Nev- er- the- less * I'm in|love with|you||
+

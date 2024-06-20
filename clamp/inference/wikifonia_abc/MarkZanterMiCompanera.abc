@@ -1,0 +1,21 @@
+X:1
+T:Mi Companera
+C:Mark Zanter
+Z:All Rights Reserved
+L:1/4
+Q:1/4=222
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ x3 A/B/ |: c c/B/- B/ A c/- |"Dm7" c2 z F/F/- | F2 z2 |"G7" z2 z G/A/ | B B/A/- A/ G B/- | %6
+"Cmaj7" B2 z E/E/- | E2 z2 |"A7" z4 | G G/F/- F/ E F/- |"Dm7" F2 z D/A/- | A2 z2 |"G7" z4 | %13
+ z G (3F E D |"Cmaj7" E4 | z4 |"A7" z2 z A/B/ :| %17
+"Cmaj7""^Interlude: Play as introduction, Interlude between head and solos, between solos, and as coda." [Be] [Be] [Ae]/ [Ae] [Be]/- | %18
+ [Be]/ [Be] [Ae]/- [Ae] z |"Bm7b5" [Ad] [Ad] [Gd]/ [Gd] [Ad]/- | [Ad]/ [Ad] [Gd]/- [Gd] z | %21
+"Am7" [Gc] [Gc] [Fc]/ [Fc] [Gc]/- | [Gc]/ [Gc] [Fc]/- [Fc] z |"G7" [FB] [FB] [EB]/ [EB] [FB]/- | %24
+ [FB]/ [FB] [EB]/- [EB] z |"F#m7b5" [EA] [EA] [DA]/ [DA] [EA]/- | [EA]/ [EA] [DA]/- [DA] z | %27
+"Fmaj7" [EA] [EA] [DA]/ [DA] [EA]/- | [EA]/ [EA] [DA]/- [DA] z |"E7" [EA] [EA] [DA]/ [DA] [EA]/- | %30
+ [EA]/ [EA] [DA]/- [DA] z |"E7" z2 z"^D.C." A/B/ |] %32
+

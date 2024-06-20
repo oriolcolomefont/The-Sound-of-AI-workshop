@@ -1,0 +1,39 @@
+X:1
+T:Een Hartje van Goud
+T: Laukens Music Productions  
+T:Wals
+T:EEN HARTJE VAN GOUD
+T:Arr. H. Laukens
+T:EEN HARTJE VAN GOUD blad 2 van 
+T: Laukens Music Productions  
+C:Unknow
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:3/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ E2 E2 E2 |"B7" [B,D]2 [CE]2 [^^C^E]2 | [DF]6 | [DF]2 [E=G]2 [^E^G]2 | [FA]6 |"E" eB Ge BG | %6
+"A" ec Ae cA |"E" eB Ge BG | [GBe]2 z2 z2 |:"E" G2 G2 B2 | e2 d2 c2 | d2 c2 G2 | B6 | G2 B2 e2 | %14
+ d4 B2 | d4 B2 |"F#m" A6 | A2 F2 A2 | c2 (3FAc f2 | A2 F2 A2 |"B7" d2 (3Bdf a2 | c2 B2 d2 | %22
+ c2 B2 d2 |1 c2 B2 A2 |"E" G2 (3b_ba (3ga^a :|2 c2 B2 f2 ||"E" e2 (3egb e'2 ||"E" G2 B2 e2 | %28
+ g2 gg eg | b2 ^^f2 g2 | B2 ge' ge | B2 c2 e2 | ed ef ge | d^^c de fd | c^B cd ec | B2 B2 e2 | %36
+ g2 gg eg | b2 ^^f2 g2 | B2 ge' ge | B2 g2 e2 |"B7" g4 f2 | [Bd]2 [ce]2 [=d=f]2 | %42
+ [df]2 [e=g]2 [^e^g]2 | [fa]2 f2 g2 |"F#m" a2 FA cf | a2 g2 a2 | d2 c'a fc | A2 e2 f2 | c2 cf ac' | %49
+ f'c' af cA | F2 z2 z2 | e2 e2 e2 |"B7" d2 Bd fa | b2 c2 B2 | f2 af dB | A2 c2 d2 |"E" eB Ge BG | %57
+"A" ec Ae cA |"E" (3eBG (3EGB (3egb | e'2 z2 z2 ||"E" G2 B2 e2 | g2 gg eg | b2 ^^f2 g2 | %63
+ B2 ge' ge | B2 c2 e2 | ed ef ge | d^^c de fd | c^B cd ec | B2 B2 e2 | g2 gg eg | b2 ^^f2 g2 | %71
+ B2 ge' ge | B2 g2 e2 |"B7" g4 f2 | [Bd]2 [ce]2 [^^c^e]2 | [df]2 [e^^f]2 [^eg]2 | [fa]2 f2 g2 | %77
+"F#m" a2 FA cf | a2 g2 a2 | d2 c'a fc | A2 e2 f2 | c2 cf ac' | f'c' af cA | F2 z2 z2 | e2 e2 e2 | %85
+"B7" d2 Bd fa | b2 c2 B2 | f2 af dB | A2 c2 d2 |"E" eB Ge BG | [eg]3 [_e=g] [=df][_d=f] | %91
+"C7" [=ce]4 z2 ||[K:F]"F" A2 c2 f2 | a2 aa fa | c'2 ^g2 a2 | c2 af' af | c2 d2 f2 | fe fg af | %98
+ e^d ef ge | d^c de fd | c2 c2 f2 | a2 aa fa | c'2 ^g2 a2 | c2 af' af | c2 a2 f2 |"C7" a4 g2 | %106
+ [ce]2 [df]2 [^d^f]2 | [eg]2 [f^g]2 [^fa]2 | [gb]2 g2 a2 |"Gm" b2 GB dg | b2 a2 b2 | e2 d'b gd | %112
+ B2 f2 g2 | d2 dg bd' | g'd' bg dB | G2 z2 z2 | f2 f2 f2 |"C7" e2 ce gb | c'2 d2 c2 | g2 bg ec | %120
+ B2 d2 e2 |"F" fc Af cA |"Bb" fd Bf dB |"F" (3fcA (3FAc (3fac' | f'2 z2 z2 |] %125
+

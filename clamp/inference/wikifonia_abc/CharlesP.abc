@@ -1,0 +1,32 @@
+X:1
+T:I Would Not Be Denied
+T:I Would Not Be Denied
+T:Charles P. Jones, 1900
+C:Charles P. Jones 190
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 | z2 z"C" C/E/ | G G G"F/C" A |"C" G E E C |"G7" D D"Am" C"G" D | %10
+w: ||||||When _|pangs of fear seized|on my soul un|to the Lord I|
+"C" E3 C/E/ | G G G"F/C" A |"C" G E E C |"G7" D D"C/G" E"G7" D |"C" C3 G | c c c e | c3 G | %17
+w: cried Till _|Je sus came and|made me whole I|would not be de|nied I|would not be de|nied I|
+"F" A A c A |"C" G3 G | c c c"F/C" A |"C" G E E C |"G7" D D"C/G" E"G7" D |"C" C-"F/C" C-"C" C2 | %23
+w: would not be de|nied till|Je sus came and|made me whole I|would not be de|nied _ _|
+ z3"C" C/E/ | G G G"F/C" A |"C" G E E C |"G7" D D"Am" C"G" D |"C" E3 C/E/ | G G G"F/C" A | %29
+w: As _|Ja cob in the|days of old I|wrest led with the|Lord and _|in stant ly with|
+"C" G E E C |"G7" D D"C/G" E"G7" D |"C" C3 G | c c c e | c3 G |"F" A A c A |"C" G3 G | %36
+w: cour age bold I|stood up on His|word I|would not be de|nied I|would not be de|nied till|
+ c c c"F/C" A |"C" G E E C |"G7" D D"C/G" E"G7" D |"C" C-"F/C" C-"C" C2 | z3"C" C/E/ | %41
+w: Je sus came and|made me whole I|would not be de|nied _ _|Old _|
+ G G G"F/C" A |"C" G E E C |"G7" D D"Am" C"G" D |"C" E3 C/E/ | G G G"F/C" A |"C" G E E C | %47
+w: Sat an said my|Lord was gone and|would not hear my|prayer but _|priaise the Lord the|work is done and|
+"G7" D D"C/G" E"G7" D |"C" C3 G | c c c e | c3 G |"F" A A c A |"C" G3 G | c c c"F/C" A | %54
+w: Christ the Lord is|here I|would not be de|nied I|would not be de|nied till|Je sus came and|
+"C" G E E C |"G7" D D"C/G" E"G7" D |"C" C-"F/C" C-"C" C2 | z4 | z4 |] %59
+w: made me whole I|would not be de|nied _ _|||
+

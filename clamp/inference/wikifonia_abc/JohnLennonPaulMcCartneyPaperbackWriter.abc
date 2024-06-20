@@ -1,0 +1,39 @@
+X:1
+T:Paperback Writer
+T:Paperback Writer
+T:John Lennon - Paul McCartney
+C:John Lennon & Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Organ 3" snm="Org. 3"
+%%MIDI channel 10
+%%MIDI program 18
+V:1
+ c3 d e4 | e4 d4- | d8- | d8 | G,CDG- GG, =F2 | G, C2 G, CD =F2 | G,CDG- GG, =F2 | %7
+w: Pa- per- back|writ- er||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+ G, C2 G, CD B2 |:"G7" d2 d2 dd cB | d2 d2 dd de | =f3 f f2 ed | ed d4 B2 |"G7" d2 dd dd cB | %13
+w: * * * * * 1.~Dear|Sir or Ma- dam, will you|read my book? It took me|years to write, will you|take a look? It's|Based on a nov- el by a|
+w: |Dir- ty sto- ry of a|dirt- y man * and his|cling- ing wife does- n't|un- der- stand. His|son is * work- ing for the|
+w: |Thou- sand pag- es give or|take a few, * I'll be|writ- ing more in a|week or two. I~can|make it * long- er if you|
+w: |Real- ly like it you can|have the rights, * It could|make a million for you|o- ver- night. If~you|must re- turn * it you can|
+w: ||/ * * * * *|/ * * * *|/ * * *||
+ d2 d2 d2 de | =f2 f f3 ed | ed dd GG B2 |"C" c2 c6- | c2 d3 d =f2 |"G7" g2 g6- | g6 GB :: %20
+w: man named Lear and I|need a job, so I|want to be a pa- per- back|writ- er,|* Pa- per- back|writ- er.||
+w: dai- ly Mail It's a|stead- y job but he|wants to be a pa- per- back|writ- er.|||* It's a|
+w: like the style, I can|change it round and I|want to be a pa- per- back|writ- er.|||* If you|
+w: send it here, But I|need a break and I|want to be a pa- per- back|writ- er.||||
+w: / * * * *|/ * * * *|/ * * * * * *||/ * * *||/ * *|
+"G7" c3 d e4 | e4 d4- | d8- | d8 :| %24
+w: Pa- per- back|writ- er|||
+w: ||||
+w: ||||
+w: ||||
+w: |/ *|/|/|
+

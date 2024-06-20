@@ -1,0 +1,39 @@
+X:1
+T:I Wonder as I Wander
+T:I Wonder as I Wander
+T:John Jacob Niles
+T:Appalachian Carol
+C:John Jacob Niles
+Z:All Rights Reserved
+L:1/4
+Q:1/4=80
+M:3/4
+K:Gmin
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^slowly with much expression" z2 D |"Gm" G D G/G/ |"Cm/G" B A G |"Gm7" F D B, |"Cm/G" C2 D | %5
+w: I|won der as I|wan der out|un der the|sky how|
+"Gm" G D G |"Cm/G" B A G |"Gm7" B A3/2"Cm/G" G/ |"Gm" G2 D | G D G |"Cm/G" B A G |"Gm7" B A G | %12
+w: Je sus our|Sav ior did|come for to|die for|poor on ry|peo ple like|you and like|
+"G7" F2 D |"Cm" G D G/G/ |"Bb/D" B !fermata!d"Cm7" G |"Gm" B G"Gm6" D |"Cm" C2 z | z2 D | %18
+w: I I|won der as I|wan der out|un der the|sky|when|
+"Gm" G D G/G/ |"Cm/G" B A G |"Gm7" F D B, |"Cm/G" C2 D |"Gm" G D G |"Cm/G" B A G | %24
+w: Ma ry birthed _|Je sus 'twas|in a cow's|stall with|wise men and|far mers and|
+"Gm7" B A3/2"Cm/G" G/ |"Gm" G2 D | G D G |"Cm/G" B A G |"Gm7" B A G |"G7" F2 D/D/ |"Cm" G D G/G/ | %31
+w: shep herds and|all but|hight from God's|hea ven a|star's light did|fall and the|prom ise if the|
+"Bb/D" B !fermata!d"Cm7" G |"Gm" B G"Gm6" D |"Cm" C2 z | z2 D |"Gm" G D G |"Cm/G" B A G | %37
+w: a ges it|did then re|call|If|Je sus had|want ed for|
+"Gm7" F D B, |"Cm/G" C2 D |"Gm" G D G |"Cm/G" B A G |"Gm7" B A3/2"Cm/G" G/ |"Gm" G2 D | G D G | %44
+w: an y wee|thing a|star in the|sky or a|bird on the|wing or|all of God's|
+"Cm/G" B A G |"Gm7" B A G |"G7" F2 D |"Cm" G D G/G/ |"Bb/D" B !fermata!d"Cm7" G |"Gm" B G"Gm6" D | %50
+w: an gels in|heaven for to|sing He|sure ly could _|have it for|He was the|
+"Cm" C2 z |[Q:1/4=80]"^slowly with much expression" z2 D |"Gm" G D G/G/ |"Cm/G" B A G | %54
+w: King|I|won der as I|wan der out|
+"Gm7" F D B, |"Cm/G" C2 D |"Gm" G D G |"Cm/G" B A G |"Gm7" B A3/2"Cm/G" G/ |"Gm" G2 D | G D G | %61
+w: un der the|sky how|Je sus our|Sav ior did|come for to|die for|poor on ry|
+"Cm/G" B A G |"Gm7" B A G |"G7" F2 D |"Cm" G D G/G/ |"Bb/D" B !fermata!d"Cm7" G |"Gm" B G"Gm6" D | %67
+w: peo ple like|you and like|I I|won der as I|wan der out|un der the|
+"Cm" C2 z |] %68
+w: sky|
+

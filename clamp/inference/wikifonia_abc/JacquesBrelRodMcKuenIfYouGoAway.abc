@@ -1,0 +1,44 @@
+X:1
+T:If You Go Away
+T:If You Go Away
+T:Jacques Brel
+T:Rod McKuen
+C:Jacques Brel
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am" z2 AB cB |"B7" B2 AA"Am" BA |"B7" A2 aa"Am" ba |"B7" a2 FB cB |:S"Em" B2 BB cB | B2 BB cB | %6
+w: |||* If you go a-|1.....way on this sum- mer|day, Then you might as|
+w: ||||2.....way As I know you|will You must tell the|
+w: ||||3.....way as I know you|~~must There is no- thing|
+"Am" A2 AA BA | A2 AA BA |"D7" A2 AA BA | A2 AA BA |"G" G2 GG AG | G2 GG AG |"Am6" F2 FF GF | %13
+w: well take the sun a-|way All the birds that|flew in the sum- mer|sky When our love was|new And our hearts were|high And the day was|young And the nights were|
+w: world To stop turn- ing|'Till you re- turn a-|gain If you ev- er|do For what good is|love With- out lov- ing|you? Can I tell you|now As you turn to|
+w: left In this world to|trust Just an emp- ty|room Full of emp- ty|space Like the emp- ty|look I see on your|face And I'd been the|shad- ow of you shad-|
+"B7" F2 FF GF |"Em" E2 EE FE |"Em6" E2 EE FE |"C6" E2 EE FE |"B7" _E2 EE"Em" =E_E | %18
+w: long And the moon stood|still For the night bird's|song If you go a-|way If you go a-|way If you go a-|
+w: go I'll be dy- ing|slowly 'till the next hel-|lo * * * *|||
+w: ow If you might have|kept me * By your|side * * * *|||
+ E2 EE"Am" FE!fine! ||"Em" E2 z B ^c^d |"Em" e3 e (3efe |"Em6" g2 gg fe |"B7" f2 ff ^dB | %23
+w: way If you go a-|way. But if you|stay I'll make you a|day Like no day has|been Or will be a-|
+w: |* But if you|stay I'll make you a|night Like no night has|been Or will be a-|
+w: |||||
+"Em" e2 z B (3B^c^d | e3 e (3efe |"Em6" g3 g (3gfe |"D7" d3 d (3Adc |"G" B2 z ^d"B7" ef | %28
+w: gain * We'll sail the|sun We'll ride on the|rain And talk to the|trees And wor- ship the|wind But if you|
+w: gain I'll sail on your|smile I'll ride on your|touch I'll talk to your|eyes That I love so|much But if you|
+w: |||||
+"Em" g3 g bg |"F" =f2 ff af |"Am6" e2 ee"B7" (3^ddd |"Em" e2 ee fe |"G" d2 dd ed | %33
+w: go I'll un der|stand Just leave me en-|ough love To fill up my|hand If you go a-|way If you go a-|
+w: go I won't *|cry Though the good is|gone From the word * good-|bye * * * *||
+w: |||||
+"Am" c2 cc"Am6" dc |"B7" B2 BB"Am6" cB |"B7""Am6" B6 |"B7""Am6" z6 |"B7" z2 BB cB!D.S.! :| %38
+w: way If you go a-|way If you go a-|way||If you go a|
+w: |||||
+w: |||||
+

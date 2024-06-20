@@ -1,0 +1,40 @@
+X:1
+T:Dwelling Place
+T:Dwelling Place
+C:John Foley
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 A, |"D" F3 |"D/C#" F2 E |"Bm" D3- |"Bbm7/A" D E F |"Em" G3 |"Em7/D" G2 F |"A6/C#" E F2- | %8
+w: 1.~I|fall|on my|knees|_ to the|Fath-|er of|Je- sus,|
+"A7" F2 G |"D" A3- |"A/C#" A F A |"B7" A B2- | B2 A |"Em" G3 |"Em7/D" G2 F |"A/C#" E3- | %16
+w: _ the|Lord|_ who has|shown us|_ the|glor-|y of|God.|
+"A7" E2 A, |"D" F3 |"D/C#" F2 E |"Bm" D3- |"Bbm7/A" D E F |"Em" G3 |"Em7/D" G2 F |"A6/C#" E F2- | %24
+w: _ 2.~May|Christ|in His|love|_ give us|strength|for our|liv- ing|
+"A7" F2 G |"D" A3- |"A/C#" A F A |"B7" A B2- | B2 A |"Em" G3 |"Em7/D" G2 F |"A/C#" E3- | %32
+w: _ the|strength|_ of the|Spir- it|_ the|glor-|y of|God.|
+"A7" E2 A, |"D" A3 |"A/C#" A2 G |"Bm" F2 E |"Bm7/A" D z D |"G" B3 |"A" B2 A |"D" F3 |"A6" z F G | %41
+w: _ 2.~May|Christ|find a|dwel- ling|place of|faith|in our|hearts.|May our|
+"D" A3 |"Bm" F3 |"G" D3 | G2 F |"E/G#" E3- | E2 z |"A" z3 |"A7" C D E |"Bm" D3- |"Bm7/A" D3- | %51
+w: lives|be|root-|ed in|love,|_||root- ed in|love.|_|
+"E7/G#" D3 |"E9" z3 |"A" z3 |"Asus4" z3 |"A6/C#" z3 |"A" z z A, |"Bm" B3 |"E9/G#" B3 |"A" A3- | %60
+w: |||||3.~May|grace|and|peace|
+"A/G" A2 G |"F#" F3- | F2 c |"Bm" d3- |"A" d2 c |"G" c B2- | B2 B |"Asus4" A3- |"A7" A2 G | %69
+w: _ be|yours|_ in|God|_ our|Fath- er,|_ and|in|_ the|
+"D" A3- |"A/C#" A3- |"Bm7" A3- |"A" A z A, |"D" F3 |"D/C#" F2 E |"Bm" D3- |"Bbm7/A" D E F | %77
+w: Son.|_||* 4.~I|fall|on my|knees|_ to the|
+"Em" G3 |"Em7/D" G2 F |"A6/C#" E F2- |"A7" F2 G |"D" A3- |"A/C#" A F A |"B7" A B2- | B2 A | %85
+w: Fath-|er of|Je- sus,|_ the|Lord|_ who has|shown us|_ the|
+"Em" G3 |"Em7/D" G2 F |"A/C#" E3- |"A7" E2 A, |"D" A3 |"A/C#" A2 G |"Bm" F2 E |"Bm7/A" D z D | %93
+w: glor-|y of|God.|_ May|Christ|find a|dwel- ling|place of|
+"G" B3 |"A" B2 A |"D" F3 |"A6" z F G |"D" A3 |"Bm" F3 |"G" D3 | G2 F |"E/G#" E3- | E2 z |"A" z3 | %104
+w: faith|in our|hearts.|May our|lives|be|root-|ed in|love,|_||
+"A7" C D E |"Bm" D3- |"Bm7/A" D3- |"E7/G#" D3 |"E9" z3 |"A" z3 | z3 |"D" z3 |"Em7/D" z3 |"D" z3 |] %114
+w: root- ed in|love.|_||||||||
+

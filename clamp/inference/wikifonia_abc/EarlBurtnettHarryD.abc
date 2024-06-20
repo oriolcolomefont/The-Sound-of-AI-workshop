@@ -1,0 +1,26 @@
+X:1
+T:Do You Ever Think Of Me
+T:Do You Ever Think Of Me
+C:Earl Burtnett
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb" B2- B"Ebdim" =A |"Eb" B2- B"Ebdim" =A |"Eb" B"Ebdim" =A"Eb" B"Eb+" =B | %3
+w: When _ you|have _ an-|oth- er's arms a-|
+"Ab" c"Eb" B"Ebdim" =A"Eb" B |"Bb7" B =A _A2- | A2"Edim" G2 |"Bb7" A4- | A2- A z | c2- c =B | %9
+w: bout you, Do you|ev- er think|_ of|me?|_ _|When _ you|
+ c2- c =B | c =B c ^c | d =c c d |"Eb" c =B _B2- | B2"F#dim" =A2 |"Eb" B4- | B G"Eb7" B _d | %16
+w: whis- * per,|"I can't live with-|out you," Do you|ev- er think|_ of|me?|_ And when your|
+ f2- f"Ebdim" e | f2- f e |"Eb7" f e _d B | F2 G2 |"Ab" F G c2- | c2"Eb" G2 |"Ab""Abm" F4- | %23
+w: eyes _ dis-|guise _ the|same old lov- ing|lies, You|tell so ten-|* der-|ly|
+"Bb7" F G A =A |"Eb" B2- B"Ebdim" =A |"Eb" B2- B"Ebdim" =A |"Eb" B"Ebdim" =A"Eb" B"Eb+" =B | %27
+w: _ Deep in your|heart _ un-|feel- * ing|When soem heart you're|
+"Ab" c"Eb" B"Ebdim" =A"Eb" B |"Bb7" B =A _A2- | A2 f2 |1"Eb""Bbdim" e4- ||2 %31
+w: stesl- ing, Do you|ev- er think|_ of|me?|
+"Bb7" e"Fm" z"Bb7b9" z2 :|"Eb""Abm" e4- |"Eb" e z z2 |] %34
+w: _|me?|_|
+

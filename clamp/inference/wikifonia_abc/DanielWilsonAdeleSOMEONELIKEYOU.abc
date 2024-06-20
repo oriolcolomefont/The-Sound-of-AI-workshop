@@ -1,0 +1,60 @@
+X:1
+T:SOMEONE LIKE YOU
+C:Daniel Wilson
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Bb" B,DFD B,DFD B,DFD B,DFD |"Dm/A" A,DFD A,DFD A,DFD A,DFD |"Gm" G,DGD G,DGD G,DGD G,DGD | %3
+w: |||
+"Eb" B,EGE B,EGE B,EGE F4- |:"Bb" F2 D6 z4 C2<B,2 |"Dm/A" z4 FF2D D4 C2<B,2 | %6
+w: * * * * * * * * * * * * I|_ heard that you're|set tled down _ That you|
+"Gm" z4 FF2D- D4 C2<B,2 |"Eb" z4 F2FD D4- C2-<B,2- |"Bb" B,4 F2>D2- D4 C2<B,2 | %9
+w: found a boy _ and you're|mar ried now _ _ _|_ I heard _ that your|
+"Dm/A" G4 D4 B,4 z C2B, |"Gm" B,2G,B, B,4 z4 z G,G,G, |"Eb" CB,C2 C2D2 D4 z2 E2 | %12
+w: dreams came true Guess he|gave you things _ I did n't|give to you _ _ _ _|
+"Bb""_Üncle cares" F4 D4 z4 GFFF- |"Dm/A" F2F2- D4 z4 D2D2 |"Gm" G,2G,B,- B,2>G,2 z2 z F,- G,2 z2 | %15
+w: Old friend Why are you so|_ shy _ Ain't like|you to hold _ back or _|
+"Eb" C2CC B,CC2 D2 z4 C2 |"F9" DDDD DCCB,"Gm" C2CB, CB,B,B,- |"Eb9" B,2CB, CB,C2 CB,CB, CB,B,B, | %18
+w: hide _ from the light _ _ I|hate to turn up _ out of the blue un in vit ed but I|_ could n't stay a way _ I could n't fight it. I had|
+"F9" CDDD D2>C2"Gm7" CB,CB, CB,CD |"Eb" G,4 z B,CB,"F9/Eb" C4 D4 |"Eb9" D4 z4 z8 | %21
+w: hoped you'd see my face and that you'd be re mind ed that for|me It is n't o ver|_|
+"Bb" z BBB BB2A-"F" A2 z2 AAA-B |"Gm" G8"Eb" z4 G2A2 |"Bb" BF2F- FB2A-"F" A4 z B-G2 | %24
+w: Nev er mind _ I'll find _ SOME ONE LIKE _|YOU I wish|no thing but _ the best _ for _|
+"Gm" G8"Eb" B4 d2d2 |"Bb" d2d2 z f2d2-"F"d2 z e-dc-B |"Gm" d2<d2- d2<d2"Eb" c/-B/-G3 BB2B | %27
+w: you two. Don't for|get me I beg _ I'll _ re _|mem ber _ You said _ _ some times it|
+"Bb" B2>F2 F2>F2"F" GF2F G2>G2 |"Gm" G8"Eb" z2 B2B2B2 |"Bb" B2>F2 F2>F2"F" FE2D D-C2B, | %30
+w: last and loves but some times it hurts in|stead Some times it|last and loves but some times it hurts _ in|
+"Gm" B,8"Eb9" D8 |"Bb" F6 D2- D4 C2B,2 |"Dm/A" z2 F2-F2D2- D4 C2B,2 | %33
+w: stead _|You know _ how the|time _ flies _ only _|
+"Gm" F2>F2- F2D2- D2>C2- C2B,2 |"Eb" B,2E2D2C2- C4 B,2C2 |"Bb" F2>F2- F2D2- D2>C2- C2B,2 | %36
+w: yes ter _ day _ was _ the|time of our lives _ We were|born and raised _ _ in _ a|
+"Dm/A" z2 G2F2D2- D4 C4 |"Gm" B,2G,2B,2B,2- B,6 G,2 |"Dm/A" B,2B,2C2C2- C4 z4 | %39
+w: sum mer haze _ Bound|by the sur prise _ of|our glo ry days _|
+"F9" DDDD DCCB,"Gm" C2CB, CB,B,B,- |"Eb9" B,2CB, CB,C2 CB,CB, CB,B,B, | %41
+w: hate to turn up _ out of the blue un in vit ed but I|_ could n't stay a way _ I could n't fight it. I had|
+"F9" CDDD D2>C2"Gm7" CB,CB, CB,CD |"Eb""^ADELE WINS !!" G,4 z B,CB,"F9/Eb" C4 D4 |"Eb9" D4 z4 z8 | %44
+w: hoped you'd see my face and that you'd be re mind ed that for|me It is n't o ver|_|
+"Bb" z BBB BB2A-"F" A2 z2 AAA-B |"Gm" G8"Eb" z4 G2A2 |"Bb" BF2F- FB2A-"F" A4 z B-G2 | %47
+w: Nev er mind _ I'll find _ SOME ONE LIKE _|YOU I wish|no thing but _ the best _ for _|
+"Gm" G8"Eb" B4 d2d2 |"Bb" d2d2 z f2d2-"F"d2 z e-dc-B |"Gm" d2<d2- d2<d2"Eb" c/-B/-G3 BB2B | %50
+w: you two. Don't for|get me I beg _ I'll _ re _|mem ber _ You said _ _ some times it|
+"Bb" B2>F2 F2>F2"F" GF2F G2>G2 |"Gm" G8"Eb" z2 B2B2B2 |"Bb" B2>F2 F2>F2"F" FE2D D-C2B, | %53
+w: last and loves but some times it hurts in|stead Some times it|last and loves but some times it hurts _ in|
+"Gm" B,8"Eb9" D8 |"F/C" B,B,FD- D2C2 B,B,FD- D2D2 |"Gm/D" DDDD z2 DD EDDD- D4 | %56
+w: stead _|Noth ing com pares _ No wor ries or cares _ re|grets and mis takes they are mem or ries made _|
+"Eb9" B,F2C- C2B,2 z4 D2D2 |"Cm" D4- C4"Bb/D" C4 D4 |"Eb" B,8"F/Eb" z4 z4 | %59
+w: Who would have known how bit ter|sweet _ this would|be|
+"Bb" z BBB BB2A-"F" A2 z2 AAA-B |"Gm" G8"Eb" z4 G2A2 |"Bb" BF2F- FB2A-"F" A4 z B-G2 | %62
+w: Nev er mind _ I'll find _ SOME ONE LIKE _|YOU I wish|no thing but _ the best _ for _|
+"Gm" G8"Eb" B4 d2d2 |"Bb" d2d2 z f2d2-"F"d2 z e-dc-B |"Gm" d2<d2- d2<d2"Eb" c/-B/-G3 BB2B | %65
+w: you two. Don't for|get me I beg _ I'll _ re _|mem ber _ You said _ _ some times it|
+"Bb" B2>F2 F2>F2"F" GF2F G2>G2 |"Gm" G8"Eb" z2 B2B2B2 |"Bb" B2>F2 F2>F2"F" FE2D D-C2B, | %68
+w: last and loves but some times it hurts in|stead Some times it|last and loves but some times it hurts _ in|
+"Gm" B,8-"Eb9" !fermata!D8 |] %69
+w: stead _|
+

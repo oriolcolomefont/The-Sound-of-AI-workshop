@@ -1,0 +1,77 @@
+X:1
+T:Jesu, Joy Of  Man's Desiring
+T:Jesu, Joy Of Man's Desiring
+C:Johann Sebastian Bach
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" (3z GA (3Bdc"C/E" (3ced |"G/B" (3dgf"Em" (3gdB (3GAB |"Am" (3cde"G/B" (3dcB"C" (3ABG | %3
+w: |||
+w: |||
+"D" (3FGA"D/F#" (3DFA"D" (3cBA |"G" (3BGA"Em" (3Bdc"C" (3ced |"G/B" (3dgf"Em" (3gdB"Em/D" (3GAB | %6
+w: |||
+w: |||
+"C6" (3Edc"C#m7b5" (3BAG"D7" (3DGF |:"G" (3GBd (3gdB (3GBd | B4"C/E" c2 |"D/F#""Em" d4"D" d2 | %10
+w: ||1.~Je- su,|joy of|
+w: ||2.~Thru the|way where|
+"C/E""D/F#" c4"G" B2 |"D" A2 A2 (3AcB |"D7" (3cAF (3DFA (3cBA |"G""G/F#" B4"C/E" c2 | %14
+w: man's de-|sir- ing, * * *||Ho- ly|
+w: hope is|guid- ing, * * *||Hark, what|
+"G/B" d4"Em" B2 |"C6" AB/c/"D" B2 A2 |"G" (3GBA (3Bdc"C/E" (3ced |"G/B" (3dgf"Em" (3gdB (3GAB | %18
+w: wis- dom,|love _ _ most _|bright, * * * * * * * *||
+w: peace- ful|mu- * * sic _|rings! * * * * * * * *||
+"Am" (3cde"G/B" (3dcB"C6" (3ABG |"D" (3FGA (3DFA (3cBA |"G" (3BGA"Em" (3Bdc"C" (3ced | %21
+w: |||
+w: |||
+"G/B" (3dgf"Em" (3gdB"Em/D" (3GAB |"C6" (3Edc"C#m7b5" (3BAG"D7" (3DGF |"G""G/F#" B4"C/E" c2 | %24
+w: ||Drawn by|
+w: ||Where the|
+"D/F#""Em7" d4"D" d2 |"C/E""D/F#" c4"G" B2 |"D" A2 A2 (3AcA |"D7" (3cAF (3DFA (3cBA | %28
+w: Thee, our|souls as-|pir- ing * * *||
+w: flock, in|Thee's con-|fid- ing, * * *||
+"G""G/F#" B4"C/E" c2 |"D/F#""Em7" d4"D" B2 |"C6" AB/c/"D" B2"D7" A2 |"G" (3GBA (3Bdc"C/E" (3ced | %32
+w: Soar to|un- cre-|a- * * ted _|light. * * * * * * * *|
+w: Drink of|joy from|death- * * less _|springs. * * * * * * * *|
+"G/B" (3dgf"Em" (3gdB (3GAB |"Am" (3cde"G/B" (3dcB"C6" (3ABG |"D" (3FGA (3DFA (3cBA | %35
+w: |||
+w: |||
+"G" (3BGA"Em" (3Bdc"C" (3ced |"G/B" (3dgf"Em" (3gdB"Em/D" (3GAB | %37
+w: ||
+w: ||
+"C" (3Edc"C#m7b5" (3BAG"D7" (3DGF |"G" (3GBd (3gdB (3GB^c |"D""D/C" A4"E7/B" B2 |"Am" c4 c2 | %41
+w: ||Word of|God our|
+w: ||Their's is|beau- ty's|
+"Dm6" B3"Bm7b5" c/d/"E7" B2 |"Am" A2"F" A2"Dm" (3d=fe |"C6" (3ea^g"F" (3aec"F/E" (3ABc | %44
+w: flesh _ _ that|fash- ioned * * *||
+w: fair- * * est|plea- sure, * * *||
+"Dm" (3=fed"D#dim7" (3cBA"E7" (3EA^G |"Am" c4 d2 |"C""A" e4"C/E" e2 |"Dm7/F" d3"Dm7" e/=f/"G7" d2 | %48
+w: |With the|fire of|life _ _ im-|
+w: |Their's is|wis- dom's|ho- * * liest|
+"C" c2"C/E" c2"C7" (3GA_B |"F" (3Ac=B"Dm7" (3^cAF"G7" (3DEF |"C" (3ECD (3EGF"G/B" (3GBA | %51
+w: pas- sioned. * * *|||
+w: trea- sure. * * *|||
+"G" B4"C/E" c2 |"G/B" d4"Em" d2 |"Am" c2"G/B""C6" B4 |"D" A2 (3FAG"D7" (3AcB | (3cAF (3DFA (3cBA | %56
+w: Striv- ing|still to|Truth un-|known, * * * * * *||
+w: Thou dost|ev- er|lead Thine|own, * * * * * *||
+"G""G/F#" B4"C/E" c2 |"G/B" d4"Em" B2 |"C6" AB/c/"D" (3:2:2B A2 A2 |"G" (3GBd (3gdB (3GBd | %60
+w: Soar- ing,,|dy- ing|round _ _ Thy _ _|Throne. * * * * * * * *|
+w: In the|love of|joys _ _ un- * *|known. * * * * * * * *|
+"G7" (3=fdB (3GBd"C/G" (3ecA |"D7/G" (3FAc"G" (3dBG"Em/G" (3EGB |"D7/G" (3cAF (3DFA (3cBA | %63
+w: |||
+w: |||
+"G" (3BGA (3Bdc"C/E" (3ced |"G/B" (3dgf"Em" (3gdB (3GAB |"Am" (3cde"G/B" (3dcB"C6" (3ABG | %66
+w: |||
+w: |||
+"D" (3FGA (3DFA (3cBA |"G" (3BGA"Em" (3Bdc"C" (3ced |"G/B" (3dgf"Em" (3gdB"Em/D" (3GAB | %69
+w: |||
+w: |||
+"C6" (3Edc"C#m7b5" (3BAG"D7" (3DGF :|"G" !fermata!G6 |] %71
+w: ||
+w: ||
+

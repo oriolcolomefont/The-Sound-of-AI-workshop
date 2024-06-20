@@ -1,0 +1,25 @@
+X:1
+T:Who's Taking You Home Tonight
+T:Who's Taking You Home Tonight
+T:Tommie Connor & Manning Sherwin
+C:Tommie Connor & Manning Sherwin
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" E3 |"F#dim" D E C |"Fm7b5" A2 G |"Bb7" F3 |"Eb" B B B |"F#dim" d2 d |"Fm7" B3- |"Bb7" B2 z | %8
+w: Who's|Tak- ing You|Home To-|night,|af- ter the|dance is|through,||
+"Eb" E3 |"F#dim" D E C |"Fm7b5" A2 G |"Bb7" F2 G |"Eb" B B B |"Gm7b5" _d d d |"C7" B3- | B3 | %16
+w: Who's|go- ing to|hold you|tight and|whis- per I|love you I|do.||
+"Fm7" c3/2 B/ A/B/ |"Bb7" c3/2 B/ A/c/ |"Eb" B3 |"Cm" G2 G |"Fm7" A"Gdim" B"Fm/Ab" c | %21
+w: Who's the luck- y|boy that's go- ing|your|way, to|kiss you good-|
+"Gdim" B"Fm7" A E |"Abm/B" G3 |"Bb7" F3 |"Eb" E3 |"F#dim" D E C |"Fm7b5" A2 G |"Bb7" F3 | %28
+w: night at your|door-|way.|Who's|Tak- ing You|Home To-|night|
+"Eb" B B B |"Gm7b5" _d2 d |"C7" c3- | c2 G |"Fm7" B A B |"Bb7" G B c |"Eb""Ab" e3- |"Eb" e2 z |] %36
+w: dar- ling, it's|plain to|see,|* I'm|plead- ing, please|let it be|me.-||
+

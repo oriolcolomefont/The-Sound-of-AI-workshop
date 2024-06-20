@@ -1,0 +1,24 @@
+X:1
+T:Because Of You (There's A Song In My Heart)
+T:Because Of You
+C:Arthur Hammerstein, Dudley Wilkinson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 G2"Bbdim" A3 G |"Bb7" B4 D3 _D |"Fm7" C4 A3"Bb7" B |"Eb" G8 | z2 G2"Bbdim7" A3 G | %5
+w: Be- cause of|you, there's a|song in my|heart.|Be- cause of|
+"Bb7" B4 D3 _D |"Fm7" C4 A3"Bb7" B |"Eb" G8 | z2 B2"Bb+7" c3 B |"Gm7b5" _d3 d B3 A | %10
+w: you our ro-|mance had it's|start.|Be- cause of|you the sun will|
+"C7" G3 G A3 B |"Fm" c3 c"C7b9" A3 G |"Fm" F6 C2 |"F9" G2 G4 C2 |"Fm9" _G2 G4 C2 |"Fm7/Bb" F8- | %16
+w: shine, the moon and|stars will say you're|mine for-|ev- er and|nev- er to|part.|
+"Bb7" F2 G2"Bbdim" A3 G |"Bb7" B4 D3 _D |"Fm" C4 A3"Bb7" B |"Eb" G8 | z2 B2"Bb+7" c3 B | %21
+w: * I on- ly|live for your|love and your|kiss.|It's par- a-|
+"Gm7b5" _d4 B3 A |"C7" G2 F4 =E2 |"Ab6""C7/G" c8- |"Fm" c6 c2 |"Ab" d6 c2 |"D7" d6 c2 | %27
+w: dise to be|near you like|this.|* Be-|cause of|you my|
+"Eb/Bb" d2 e2 B2 G2 |"Cm" F2 E2 F2 G2 |"F9" c6 A2 |"Bb7" d6 d2 |"Eb" e8 |] %32
+w: life is now worth-|while and I can|smile be-|cause of|you.|
+

@@ -1,0 +1,26 @@
+X:1
+T:See You Later, Alligator
+T:See you later, alligator
+T:Robert Guidry
+T:Shuffle or Swing
+C:Robert Guidry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"^N.C." AG cGAE |:"C" GE z2 z4 | z2 AG cGAE | GE z2 z4 | z2 dc _ecdA |"F7" cA z2 z4 | %6
+w: Well I saw my ba- by|walk- ing|with an- oth- er man to-|day *|well, I saw my ba- by|walk- ing|
+w: |told me|near- ly made me lose my|head *|when I thought of what she|told me|
+ z2 AG cGAE |"C" GE z2 z4 | z2 AG cGAE |"G7" GF z2 z4 | z2 Ac cGAc |"C" c2 z2 z4 | z2 AG cGAE | %13
+w: with an oth- er man to-|day *|When I asked her what's the|mat- ter|this is what I heard her|say:|See you lat- er al- li-|
+w: near- ly made me lose my|head *|but the next time that I|saw her|mind- ed her of what she|said||
+ GE z2 z4 | z2 AG c2 AE | GE z2 z4 | z2 dc _ecdA |"F7" cA z2 z4 | z2 AG c2 AE |"C" GE z2 z4 | %20
+w: ga- tor|af- ter while croc- o-|dile *|see you lat- er al- li-|ga- tor|af- ter while croc- o-|dile *|
+w: |||||||
+ z2 AG cGAE |"G7" GF z2 z4 | z2 Ac cGAc |"C" c2 z2 z4 | z2 AG cGAE :| %25
+w: can't you see you're in my|way now|don't you know you cramp my|style|when I thought of what she|
+w: |||||
+

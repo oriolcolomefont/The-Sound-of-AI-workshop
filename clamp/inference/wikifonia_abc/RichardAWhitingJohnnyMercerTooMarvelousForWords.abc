@@ -1,0 +1,26 @@
+X:1
+T:Too Marvelous For Words
+T:Too Marvelous For Words
+C:Richard A Whiting
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z E |:"Am7" A3 E |"D9" B/>B/ B2 E |"Am7" A B A E |"D9" B3 A |"F#" F"G" G/E/- E2 | %6
+w: You're|just too|mar- ve- lous, too|mar- ve- lous for|words, like|glor- i- ous, *|
+"C9" F G/E/- E3/2 F/ |"G" B, D"C7" E G |"F#" F/G/ E2"Em7" D |"Am7" A3 E |"D9" B/>B/ B2 E | %11
+w: glam- or- ous, * and|that old stand- by|a- mor- ous. It's|all too|won- der- ful, I'll|
+"Am7" A B A E |"D9" B3 A |"G" F G/E/- E2 |"C9" F G/E/- E3/2 F/ |"Bmaj7" ^D F"C#m7" ^G"F#9" ^c | %16
+w: nev- er find the|words, that|say e- nough, *|tell e- nough * I|mean they just aren't|
+"B6" B/^c/ B2 B |"Dm7" d3 A |"G9" c3"Dm7" B |"Bm7b5" d d"Dm7/A" d A |"Dm7b5" c"G+7" c2 G | %21
+w: swell e- nough. You're|much too|much, and|just too ver- y,|ver- y! To|
+"Cmaj7" B3"G+" G |"C6" A3"G+" G |"Cmaj7" B A"G" G F |"Am7" E"D7" F2 D |"Am7" A3"D9" E | %26
+w: ev- er|be in|Web- ster's Dic- tion-|ar- y. And|so I'm|
+"Am7" B/>B/"D9" B2 A |"F#" F"G" G"Dm6" A B |"E7" d3"Ddim" B |"Em7" d"Edim" _d"Am" c E | %30
+w: bor- row- ing a|love song from the|birds, to|tell you that you're|
+"Cm6" d/>_d/ c2"G+" B |"Cm6" A"Cm" B"C" G"D7" A |1"G" G3 D :|2"G" G3 z |] %34
+w: mar- vel- ous too|mar- vel- ous for|words. You're|words.|
+

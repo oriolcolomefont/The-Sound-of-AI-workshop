@@ -1,0 +1,32 @@
+X:1
+T:All That Thrills My Soul Is Jesus
+T:All That Thrills My Soul Is Jesus
+T:Thoro Harris
+T:Thoro Harris
+T:All Rights Reserved
+C:Thoro Harris
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" F3 F"Eb" GF"Bb"DF |"Eb" G4 B4 |"F" A3 G FGAc |"Bb" B6 z2 |"Bb" F3 F"Eb" GF"Bb"DF |"Eb" G4 B4 | %6
+w: 1.~Who can thrill the heart like|Je- sus,|By His pres- ence all di-|vine?|True and ten- der, pure and|pre- cious,|
+w: 2.~Love of Christ, so free- ly|giv- en,|Grace of God be- yond de-|gree,|Mer- cy high- er than the|heav- en,|
+w: 3.~Ev- 'ry need His hand sup-|ply- ing,|Ev- 'ry good in Him I|see.|On His strength di- vine re-|ly- ing,|
+w: 4.~By the crys- tal, flow- ing|riv- er|With the ran- somed I will|sing,|And for- ev- er and for-|ev- er|
+"F" A3 G FGAc |"Bb" B6 z2 |"Bb""^REFRAIN" d3 d"D7" cc"Gm"BB |"D7" A4"Eb""Ddim" G4 |"C7" c3 d cBAG | %11
+w: Oh, how blest to call Him|mine!|All that thrills my soul is|Je- sus;|He is more than life to|
+w: Deep- er than the deep- est|sea!||||
+w: He is more than life to|me.||||
+w: Praise and glo- ri- fy the|King.||||
+"F""F7" F6 z2 |"Bb" F3 F"Bb7" GFDF |"Eb" G4"Cm7" B4 |"F" A3 G"F7" FGAc |"Bb" B6 z2 |] %16
+w: me;|And the fair- est of ten|thou- sand|In my bless- ed Lord I|see.|
+w: |||||
+w: |||||
+w: |||||
+

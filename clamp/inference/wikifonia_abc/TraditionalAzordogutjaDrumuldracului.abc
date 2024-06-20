@@ -1,0 +1,16 @@
+X:1
+T:Az ördög útja (Drumul dracului)
+T: 
+C:Traditional
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" C>D E>D C>D E>D | C>D E>F"G" G2 G2 |"Fm" F>G A>G F>G A>G | F>E D>E"Cm" C2 C2 :| %4
+"Cm" G2 C>"Fm"D E>D C2 |"Cm" G2 C>"Fm"D E>D C2 |"Cm" G2 C>D E>D C>D |1"Cm" E2 F2"G" G4 :|2 %8
+"G" E2 D2"Cm" C4 |] %9
+

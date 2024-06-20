@@ -1,0 +1,27 @@
+X:1
+T:So Do I
+T:So do I
+T:(Bel Ami)
+T:theo Mackeben
+T:German: Hans Fritz Beckmann, English: Ian Grant,
+C:Theo Mackeben
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 B, B |:"Bb7" A2 G B | A2"Fm7" B G | F4- |"Bb7" F2 B, c |"Eb" B2 =A c | B2"Bb7" c _A |"Eb" G4- | %8
+w: You like|mu- sic that|swings so do|I|* you like|flow'rs in the|Spring so do|I|
+ G2 A B |"Ab" c c"Fm7" A/ G F/- |"Bb7" F2 G A |"Eb" B B"G7" G/ F E/- |"Cm" E2"Cm7" C E | %13
+w: * and you|like to run a- round|* with your|feet way off the ground|* and to|
+"F7" G2 C E | G2 F E |"Bb7" F4- | F2 B,"Bb" B | A2 G B | A2"Fm7" B G |"Bb7" F4- | F2 B, c | %21
+w: feel love is|real so do|I|* you like|jazz more than|Liszt so do|I|* and you|
+"Eb" B2 =A c |"Eb" B2"Bb7" c _A |"Eb" G4- |"C7" G2 A B |"Fm7" c c e c |"Abm" F2 E F | %27
+w: like to be|kissed so do|I|* so it|must be plain to|see that you've|
+"Eb" G B"Gm7" d B |"C7" c2 B, B |"Fm7" A2 B G |"Bb7" F2 G B, |"Eb" E4- |"Bb7" E z B, B :| %33
+w: got to mar- ry|me then as|you say I|do so do|I|* you know|
+"Bb7" F2 G B |"Eb" e4- |"Fm7" e3"Eb" z | z4 |] %37
+w: love so do|I|||
+

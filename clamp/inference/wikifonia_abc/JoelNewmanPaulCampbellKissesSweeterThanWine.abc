@@ -1,0 +1,24 @@
+X:1
+T:Kisses Sweeter Than Wine
+T:Kisses Sweeter Than Wine
+C:Joel Newman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 F2 |:"Bb" ddd"F"c- c c2 c |"Gm" _BAG"Dm"F- FGAB |"F" c2 c2"Dm" A2 F2 |"G" GAFG- G3 F | %5
+w: When|I was a young _ man and|nev- er been kissed _ I got to|think- in' o- ver|what I had missed. _ I|
+w: |asked me to mar- * ry and|be his sweet wife _ and we would|be so hap- py|all of our life. _ He|
+"Bb" dddc-"F" c3 c |"Gm" _BAG"Dm"F- FG A2 |"F" z2 c2"Dm" A3 F |"G" GAFG- G4 ||"Bb" (_B8 || %10
+w: got me a girl _ I|kissed her and then _ _ _|Oh, Lord, I|kissed her a- gain. _|Oh|
+w: begged and he plead- ed like~~a|nat- ur- al man _ and then|Oh, Lord, I|gave him my hand. _|_|
+[M:2/4]"Dm" A4) ||[M:4/4]"Gm7" G F2 D- DE"D7" ^F2 |"G" G8- | G8 |"Bb" (_B8 |[M:2/4]"Dm" A4) | %16
+w: _|Kiss- es sweet- * ter than|wine.|_|Oh,|_|
+w: ||||||
+[M:4/4]"Gm7" G F2 D- DE"D7" ^F2 |1"G" G8- || G4 z2 F2 :|2"G" G8 |] %20
+w: kiss- es sweet- * ter than|wine|_ He,|wine.|
+w: ||||
+

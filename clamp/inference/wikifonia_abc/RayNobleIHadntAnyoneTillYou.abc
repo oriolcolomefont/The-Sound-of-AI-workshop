@@ -1,0 +1,26 @@
+X:1
+T:I Hadn't Anyone Till You
+T:I Hadn't Anyone Till You
+C:Ray Noble
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z CDC |:"Gm7" D3 C D4- | D4"C13" A4 |"F6" F8- | F4 z DED |"Am7" E3 D E4- |"D9" E4 d4 | %7
+w: I had- n't|an- y- one|* till|you,|* I was a|lone- ly one|* till|
+"G9" A8- | A4 z GAG |"Gm7" A3 G A3 G |"C7" c2"Em7b5" A4"A7" c2 |"Dm7" G3 F"A7" G4- | G6 F2 | %13
+w: you.|_ I used to|lie a- wake and|won- der if|there could be|_ a|
+"Amaj7" E2 ^F2"F#m7" A2 =B2 |"Bm7" ^c2 c4"E7" =B2 |"A7" A3 =B"D9" A4 |"G7" G3 A"C7" GCDC | %17
+w: some- one in the|wide world just|made for me.|Now I see, I had to|
+"Gm7" D3 C D4- | D4"C13" A4 |"F6" F8- | F4 z DED |"Am7" E3 D E4- |"D9" E4 d4 |"G9" A8- | %24
+w: save love _|_ for|you,|_ I nev- er|gave my love|_ till|you.|
+ A4"Cm7" z F"F7"GF |"Bmaj7" G3 F G3 F |"Eb9sus4" _A3 G"Eb9" F4 |"Fmaj7" d3 c"E+7" d3 c | %28
+w: _ And through my|lone- ly heart de-|mand- ing it,|Cu- pid took a|
+"Am7b5" _ed c2"D7b9" z CDC |"Gm7" D3 C D4- | D4"C13" A4 |"F6" F8- | F4"D7" z CDC :|"F6" F8- | %34
+w: hand in it, I had- n't|an- y- one|* till|you.|* I had- n't|you.|
+ F4 z4 |] %35
+w: |
+

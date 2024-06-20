@@ -1,0 +1,30 @@
+X:1
+T:"LAST NITE I DREAMT SOMEBODY LOVED ME"
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Gm" z2 z2 z2 | G2 A- A A- B |"Eb" B2- G- G2 z | e d2 c B2 |"Ebm" _G3 z2 B | =B2 _B- B2 A | %6
+w: |Last Night _ I _|dreamt _ _|_ _ _ _|* that|some bod _ y|
+w: |Last Night _ I _|felt _ _|_ _ _ _|* real|_ arms _ ar|
+"Dm7" A2 F- F2 z |"D7" z2 z2 z2 |"Gm" z3 G2 A- | A2 A B2- B- |"Eb" G3 z B G | B G d- c2 B | %12
+w: loved me _||no hope|_ no harm _|_ just an|oth er false _ a|
+w: ound me _||||||
+"Ebm" c- B- _G- G3 | z2 z2 z2 |"Dm" z2 z2 z2 |"D7" z2 z z z d :| d2 c c d d |:"Gm" d6 | %18
+w: larm _ _ _|||SO|||
+w: ||||tell me how _ long|_|
+ z2 c- d2 d- |"Eb" d- c B B2 c | d3- d2 B |"Ebm" B6 | z2 z2 z2 |"Dm" z3 z2 d |"D7" e2 d c- d d | %25
+w: I _ know|_ _ but it goes|_ _ on|_||this|stor ry is _ old|
+w: be _ fore|_ _ _ _ the|last _ one|_||and|tell me how _ long|
+"Gm" d6 | z2 c- d2 d- |"Eb" d- c B B2 c | d3- d2 B |"Ebm" B6 | z2 z2 z2 |"Dm" z3 z2 d | %32
+w: _|I _ know|_ _ but it goes|_ _ on|_|||
+w: _|be _ fore|_ _ _ _ the|right _ one|_||this|
+"D7" e2 d d2 d :| %33
+w: |
+w: sto ry is old|
+

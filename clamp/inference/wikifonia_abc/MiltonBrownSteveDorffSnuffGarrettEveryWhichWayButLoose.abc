@@ -1,0 +1,40 @@
+X:1
+T:Every Which Way But Loose
+T:Every which way but loose
+T:Stephen Dorff: Milton Brown: Snuff Garrett
+C:Milton Brown, Steve Dorff, Snuff Garrett
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z8 z4 z2 D2 |"G" B2B2 BBc2- c2BB-B2G2 |"D" AAAA-A2BA- A2 z2 z4 |"Em" G2G2- GGAB- BA2 z GG2G | %4
+w: I've|al- ways been the kind * of man * who|does- nt be- lieve * in strings *|long term * ob- li- ga * tions are just un|
+w: ||||
+"B" F2F^D FG2F- F2 z2 z2 D2 |"C" E2EEG2A-"D7"A F2 z2 E2D2 |"B7" B2Bc"B7" BAGG-"Em" G2 z2 E2G2 | %7
+w: * ne- ces- sar- y things * but|girl you've got me think * in while I'm|drink- in * one more * beer * if I'm|
+w: |||
+"A" B2A z z2 EG B2A z z GGG |"Am7" e2e2B2A2"D" G4"D7" z2 B2 |:"G" BB2B2BcB2 z4 D2B, | %10
+w: head- ed for a heart- ache then why the|hell am I still here I'm|test- ing my re- sis- tance and its|
+w: ||comes up in the morn- ing it should|
+"D" A2A2 AB2A- A2 z2 z4 |"Em" z GGGG2AB- BAGG- G z G2 |"B" F2F2 FGAA2-A2 z z2 ^D2 | %13
+w: wear- ing might- y thin *|I've got the feel- ing I * should * leave * be|fore the roof caves * in * my|
+w: find me some- place new but|right this * min- ute all * I * want * isto|lay here * next * to you those|
+"C" E2E2- EEGA-"D7" A2BF z ED2 |"B7" Bc2B2A2"Em"A G2 z2 z EEG |"A" B2AA z E2B2A2A2 z G2 | %16
+w: mind tells * me to mov * a- long but my|bo- dy begs me to stay and now I|feel the need to hold you close and|
+w: mem- ories * still keep call * ing me * from,|some- where in my past * * Bet- ter|hur- ry if they want me cause Ican|
+"Am7" e2e2c2A2 F2-"D7" F4 DD |"D" f2f2-f2e2 e4 z4 |"C" EEEG- GEc2- c2cB2A2 z | %19
+w: love the night a- way * while youre|turn ing * me *|ev- ry which way * but loose * you turn me|
+w: feel me fad- ing fast * * *|||
+"G" DDDG- GDB2- B4 z2 A2 |"D7" A2AA2AB-B ABB z GAG2 |"G" B2AB2^deB AG2G-G2 z2 | %22
+w: ev- ry which way * but loose * in-|side the fir- res burn * ing * me in my *|mind you just keep * turn- * ing me *|
+w: |||
+"C" EEEG- GEc2 c2 z2 z4 |"G" DDDG- GDB2-"E7" B2^GA2B2 z |"Am7" A2BB2c2"D"B AG2 z2"D7" z F2 |1 %25
+w: ev- ry which way * but loose *|ba- by theres no * ex- cuse * you turn me|ev ry * which way * * but|
+w: |||
+"C" z8 x4 G4 |"D" z8 x4 z ddB :|2"C" A2BA G12 |"G" z16 |] %29
+w: |when the sun|||
+w: ||||
+

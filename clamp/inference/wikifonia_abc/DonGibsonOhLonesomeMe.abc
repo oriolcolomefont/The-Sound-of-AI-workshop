@@ -1,0 +1,35 @@
+X:1
+T:Oh, Lonesome Me
+T:Oh, Lonesome Me
+T:Don Gibson
+C:Don Gibson
+Z:All Rights Reserved
+L:1/4
+Q:1/4=230
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 127
+V:1
+"D" F A A A | F A A A |"A7" G A A2- | A3 A | G A A A | G A A A |"D" F A B A- | A3 A | F A A A | %9
+w: Ev- 'ry- bod- y's|go- in' out and|hav- in' fun.|_ I'm|just a fool for|stay- in' home and|hav- in' none. _|_ I|can't get o- ver|
+w: bad mis- take I'm-|mak- in' by just|hang- in' 'round.|_ I|know that I should|have some fun and|paint the town. _|_ A-|love- sick fool that's|
+w: must be some way|I can lose these|lone- some blues,|_ for-|get a- bout the|past and find some-|bod- y new. _|_ I've|thought of ev- ry|
+"D7" F A d d |"G" B4- | B4 |"A7" A4- | A2 A A |1"D" A F3- | F2 z A :|2"D" A F3- | F2 z F | %18
+w: how she set me|free.|_|Oh,|_ Lone- some|Me _|_ A|me _|_ I'll|
+w: blind and just can't|see.|_|Oh,|_ Lone- some|_ _||||
+w: thing from A to|Z.|_|Oh,|_ Lone- some|_ _||||
+"A" E E E E | E3 E |"E7" E E E E | E4 | E E E E | E E F A |"A" F E3- | E2 z E | E E E E | E3 E | %28
+w: bet she's not like|me, she's|out and fan- cy|free,|flirt- ing with the|boys with all her|charms. _|_ But,|I still love her|so and|
+w: ||||||||||
+w: ||||||||||
+"E7" E E E E | E3 E | E E E E | E E F ^G |"A" A4- |"A7" A A2 A :|3"D" A F3- || F4 |"A7" A4- | %37
+w: broth- er don't you|know I'd|wel- come her right|back here in my|arms.|_ Well there|me. _|_|Oh,|
+w: |||||||||
+w: |||||||||
+ A2 A A |"D" A F3- | F4 |"A7" A4- | A2 B c |"D" d4- | d4 |] %44
+w: _ Lone- some|Me. _|_|Oh,|_ Lone- some|Me.|_|
+w: |||||||
+w: |||||||
+

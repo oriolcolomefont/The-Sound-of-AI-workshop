@@ -1,0 +1,63 @@
+X:1
+T:Alejandro
+T:Alejandro
+T:Lady Gaga
+T:Stefani Germanotta & RedOne
+C:Stefani Germanotta & RedOne
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z F{A} GF |: f3 d | de dc | g3 G | GF ^Ac | ee d^A |1 cB/B/4c/4 B/^A/=B/c/ |[M:3/4] d3 F{A} GF :|2 %8
+w: ||||||||
+ cB/B/4c/4 B/^A/=B/c/ d2 |:[M:4/4]"Bm" BB/B/ de"Bm/D" ff z e |"F#+" ff z c z czc | %11
+w: |||
+"Bm" BB/B/ de"Bm/D" ff z e ||1"F#m" ff z2 f/a/f/a/ z2 :|2"F#m" FF z2 C2 C2 |: %14
+w: |||
+"Bm" C>B,- B,2"Bm/D" z3/2 B,/ B,B,/B,/- |"F#m" B,A,- A,2 z2 z/ A,/A,/A,/ | %16
+w: ||
+"Bm" B,A ED/E/-"Bm/D" EA E/EE/ |"F#m" DD z2 C2 C2 |"Bm" C>B,- B,2"Bm/D" z3 B,/B,/ | %19
+w: |||
+"F#m" B,A,- A,2 z3 B,/B,/- |"Bm" B,A ED/E/-"Bm/D" EA EE/(E/ |"F#m" D2) z2 G/F/G F2 || %22
+w: |||
+"Bm" FFF"Bm/D"F FF F2 |"F#m" FF FF/F/- FF F2 |"Bm" FFF"Bm/D"F FF F2 |"F#m" FF/F/ F2 z G GF/D/- || %26
+w: |||* * * * Don't call my name|
+"G" DG GF/D/-"D" D2 z E/F/ |"A" E>C- C2"Bm" z G GF/D/- |"G" DG GF/D/-"D" D2 z z/ F/ | %29
+w: ||* * * * * * Fer-|
+"A" E>C- C2"Bm" z G GF/D/ |"G" DG GF/D/-"D" DGGF |"A" E/DE/ DF"Bm" z B, B,C/D/- | %32
+w: nan- do _ _ _ _ _|_ _ _ _ _ _ _ _ _||
+"G" DB, B,C/D/-"D" D2 z3/2 F/ |"A" E>C- C2"Bm" z3 D/D/ |"G" D>B,- B,D/D/"D" D>B,- B,2 | %35
+w: * * * * * * Ro-|ber- to _ A- le|jan- dro * * * * * *|
+"A" [A,C]4 D"Bm" D2 C |"G" D/C/D/C/ DB,"D" [DF]/[CE]/[DF]/[CE]/ [DF]>[A,C]- | %37
+w: |A- le- a- le- jan- dro A- le- a- le- jan- dro|
+"A" [A,C]2 [CE]2"Bm" A/F/A FD/D/ |"G" D>B,- B,D/D/"D" D>B,- B,2 |"A" [A,C]4 D"Bm" D2 C | %40
+w: * * * * * * A- le|jan- dro _ A- le- jan- dro *||
+"G" D/C/D/C/ DB,"D" [DF]/[CE]/[DF]/[CE]/ [DF]>[A,C]- ||1"A" [A,C]2 [CE]2"Bm" A/F/A FB | %42
+w: A- le- a- le- jan- dro A- le- a- le- jan- dro||
+"Bm" BB/B/ de"Bm/D" ff z e |"F#+" ff z c z czc |"Bm" BB/B/ de"Bm/D" ff z e ||"F#m" FF z2 C2 C2 :|2 %46
+w: ||||
+"A" C2 z2"Bm" z B, B,C/D/- ||"Bm" DB, B,C/D/-"Bm/D" D2 z2 |"F#m" A>G- GF DB, B,C/D/- | %49
+w: ||* * * * * Don't call my name|
+"Bm" DB, B,C/D/-"Bm/D" D2 z2 |"F#m" A>G- GF DB, B,C/D/- |"G" DB, B,C/D/-"D" D2 z2 | %52
+w: |||
+"A" A>G- GF"Bm" DG GF/D/- |"G" DG GF/D/-"D" D2 z3/2 F/ |"A" E>C- C2"Bm" z G GF/D/- || %55
+w: |* * * * * * Fer-|nan- do- _ _ _ _ _|
+"G" DG GF/D/-"D" D2 z F/F/ |"A" E>C- C2"Bm" z G GF/D/- ||"G" DG GF/D/-"D" D2 z3/2 F/ | %58
+w: _ _ _ _ _ _ A- le-|jan- dro _ _ _ _ _|_ _ _ _ _ _ Fer-|
+"A" E>C- C2"Bm" z G GF/D/- ||"G" DG GF/D/-"D" DGGF |"A" E/DE/ DF"Bm" z B, B,C/D/- | %61
+w: nan- do- _ _ _ _ _|_ _ _ _ _ _ _ _ _||
+"G" DB, B,C/D/-"D" D2 z3/2 F/ |"A" E>C- C2"Bm" z3 D/D/ |:"G" D>B,- B,D/D/"D" D>B,- B,2 | %64
+w: * * * * * * Ro-|ber- to _ A- le|jan- dro * * * * * *|
+"A" [E,A,C]4 D"Bm" D2 C |"G" D/C/D/C/ DB,"D" [DF]/[CE]/[DF]/[CE]/ [DF]>[A,C]- | %66
+w: |A- le- a- le- jan- dro A- le- a- le- jan- dro|
+"A" [A,C]2 [CE]2"Bm" A/F/A FD/D/ |"G" D>B,- B,D/D/"D" D>B,- B,2 |"A" [E,A,C]4 D"Bm" D2 C | %69
+w: * * * * * * A- le|jan- dro * A- le- jan- dro *||
+"G" D/C/D/C/ DB,"D" [DF]/[CE]/[DF]/[CE]/ [DF]>[A,C]- ||1"A" [A,C]2 z2"Bm" [F,B,D]2 z D/D/ :|2 %71
+w: A- le- a- le- jan- dro A- le- a- le- jan- dro||
+"A" A,2 z2"Bm" [F,B,D]2 z D/D/ ||"G" D>B,- B,2 z4 |] %73
+w: |jan- dro _|
+

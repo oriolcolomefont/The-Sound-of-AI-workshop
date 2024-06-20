@@ -1,0 +1,52 @@
+X:1
+T:THESE THINGS TAKE TIME
+C:Marr
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F" [FAc]2 z"Gm7" [GBd] [GBd]2 z"F" [FAc] | z [FAc]z"Gm7"[GBd] [GBd]3 z |"Bb" DF B2"C" E2 cF- | %3
+w: |||
+"Bb" FB-BF"C" G2 F2 |"Dm" F2 D2 E2 F"C"E- | E2 D4 FD |"G" F2 D2 E2 F2 |"A" E6"Dm" E2 | %8
+w: * * * * * Mine|eyes have seen the glo|_ ry of the|sac red wun der|kind you|
+ F2 D4 E"C"F- | D6 z E |"G" F2 D2 E F2"A" E- | E-D"C" z2 D2"Dm" E2 | FDDD z E F2 |"C" ED- D6 | %14
+w: took me be hind|_ a|dis used rail way line|_ _ and said|I know a place where we|can go _|
+"G" z FFD F3"A" F- | E4"C" z EE"Dm"E | F2 FF- FFF"C"F | E2 FF z FzF- |"G" D8 |"A" z4"C" z2 ED | %20
+w: where we are not known|_ and then you|gave me some _ thing that I|won't for get to soon|_|But I|
+"F" C3 E"G" D2 ED |"F" C2 ED-"G" D2 D2 |"Bb" DCzC-"C" C2 CC |"Bb" DC-CC-"C" B,A, z2 | %24
+w: can't be lieve that you'd|ev er care _ and|this is why _ you will|nev er _ care _ _|
+"Dm" z A A2 A2 A2 |"Gsus4" A8 |"Dm" z A A2 A2 G2 |"Gsus4" A6- AG |"Dm" A2 GA- A2 G2 | Ac- c2 AcAG | %30
+w: but these things take|time|and I know that|I'm _ the|most in ept _ that|ev er _ stepped! _ _ _|
+"F" F2 z"Bbsus2" C- C2 [A,F]2- |"F" [A,F]8 |"F" [CA]2 z"Bbsus2" [DB] z2"C" [Ec]2- | [Ec]8 | %34
+w: _||||
+"Dm" z4 z2 E2 |"C" EF D2- D4 |"G" z2 DD DEFE |"A" E2 z2"C" F2 F2 |"Dm" F2 FF F2"C" F2 | %39
+w: I'm|spell _ bound _|but a wom an div ides|_ and the|hills are al ive with|
+ FF F2 FD- D2 |"G" z2 z2 z2"A" z2 | z2"C" z2 E2 F2- |"Dm" FFEF E2 D"C"E | F2 FF EDDE | %44
+w: cel ib ate cries _ _||but you|_ know where you came from you|know where you're go ing and you|
+"Gsus2" F2 D2 E2 F"A"E- | E4"C" z4 |"Dm" z2 z F FFF"C"F | z EEE E2 F-"Gsus2"D | D4 z2 z2 | %49
+w: know where you be long|_|You said I was ill|and you were not wrong _|_|
+"A" z4"C" z2 ED |"F" C3 E"G" D2 ED |"F" C2 ED-"G" D2 D2 |"Bb" DCzC-"C" C2 CC | %53
+w: But I|can't be lieve that you'd|ev er care _ and|this is why _ you will|
+"Bb" DC-CC-"C" B,A, z2 |"Dm" z A A2 A2 A2 |"Gsus4" A8 |"Dm" z A A2 A2 G2 |"Gsus4" A6- AG | %58
+w: nev er _ care _ _|but these things take|time|and I know that|I'm _ the|
+"Dm" A2 GA- A2 G2 | Ac- c2 AcAG |"F" F2 z"Bbsus2" C- C2 [A,F]2- |"F" [A,F]8 | %62
+w: most in ept _ that|ev er _ stepped! _ _ _|_||
+"F" [CA]2 z"Bbsus2" [DB] z2"C" [Ec]2- | [Ec]8 |"Dm" A6 z A |"C6" AAGG z FzG |"G7" F6"A" z2 | %67
+w: ||Oh the|al coh ol ic aft er|noons|
+ z FF"C"F z F F2 |"Dm" FD- D2 z F E2 |"C6" FDDD- D2 E2 |"G" FD- D2 z2 F2 |"A" FFFF-"C" FFzF- | %72
+w: when we sat in your|room _ _ they meant|more _ to me _ than|an y _ an|y liv in thing _ on earth|
+"D" D2 z2 z EE"C"E | FD- D2 z2 E2 |"Gsus2" FD- D2 z4 |"A" F2 F z"C" F2 F"Dm"F- | FE- D4 F"C"F | %77
+w: _ that had more|worth _ _ than|a ny _|liv ing thing on earth|_ _ _ on Earth|
+ FGFE D2 E2 |"Gsus2" F2- D6 |"A" E3 D-"C" D2 C2 |"F" C2 E"G"D- D4 |"F" C2 ED-"G" D4 | %82
+w: _ _ _ _ _ ON|EARTH _|Oh _ _ _|_ _ _ _||
+"Bb" D_EDC-"C" C4 |"Bb" z [B,F]-[B,F][CG]-"C" [CG]4 |"Dm" AA-AA A2 A2 |"G7" B-A- A6 | %86
+w: ||Viv id _ and in your|prime _ _|
+"Dm" z2 AA ABcA- |"G7" A4 z4 |"Dm" z2 AA AB c2 |"G7" A3 G- G4 | %90
+w: you will leave me be hind|_|You will leave me be|hind _ _|
+"F" [CFA]2- [CFA]"C" [EGc]3"F" [CFA]2- | [CFA]8 |"F" [CFA] z2 z"Bb" [B,CF] z2"C" [CEG]- | [CEG]8 |] %94
+w: _ _ _ _||||
+

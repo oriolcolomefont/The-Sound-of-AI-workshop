@@ -1,0 +1,36 @@
+X:1
+T:Autumn Leaves
+T:Autumn Leaves
+T:Johnny Mercer
+T:
+T:
+T:
+C:Johnny Mercer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 101
+%%MIDI control 10 64
+V:1
+ E F G |:"Am7" c4- |"D7" c D E F |"Gmaj7" B2 B2- |"Cmaj7" B C D E |"F#m7b5" A4- |1"B7" A B, ^C ^D | %7
+w: The fall- ling|leaves,|* drift by my|win- dow.|* The fall- ing|leaves|* of red and|
+w: |lips,|* the sum- mer|kiss- es,|* the sun- burned|hands,||
+"Em" G4 | z E F G :|2 A"B7" F A G ||"Em" E4- | E z ^D E |"F#m7b5" F B, F2- |"B7b9" F F E F | %14
+w: gold.|I see your|* I used to|hold|* Since you|went a way,|* the days grow|
+w: |||||||
+"Em" G4- | G G F G |"Am7" A4- |"D7" A D d c |"Gmaj7" B4- | B z ^A B |"F#m7b5" c c A A | %21
+w: long|* and soon I'll|hear,|* old win- ters|song.|* but I|miss you most of|
+w: |||||||
+"B7b9" F3 c |"Em7" B2"Eb7" B2- |"Dm7""Db7" B3 E |"Cmaj7" A3 G |"B7b9" F2 G B, |"Em7" E4 :| %27
+w: all, my|dar- ling,|* when|Au- tum|leaves start to|fall.|
+w: ||||||
+ B z ^A B |"F#m7b5" c c A A |"B7b9" F3 c |"Em7" B2"Eb7" B2- |"Dm7""Db7" B3 E |"Cmaj7" A3 G | %33
+w: * but I|miss you most of|all, my|dar- ling,|* when|Au- tum|
+w: ||||||
+"B7b9" F2 G B, |"Em7" E4 | %35
+w: leaves start to|fall.|
+w: ||
+

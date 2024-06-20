@@ -1,0 +1,38 @@
+X:1
+T:You're Laughing At Me
+T:You're Laughing At Me
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B, ||"Fm7" F"Bb7" F3- | F F/F/ (3F E F |"Ebmaj9" G4- | G/ z/ G/G/"Eb/Bb" (3G F G |"Fm7" A A3- | %6
+w: I|love you|_ which is eas- y to|see.|_ but I have to keep|guess- ing,|
+ A A/A/"Bb7" (3A G A |"Bb7/Eb""Eb/Bb" B4- | B z z"Eb7/G" E |"Ab" c c3- |"Adim7" c c/c/ (3c d c | %11
+w: _ how you feel a- bout|me.|_ You|lis- ten|_ to the words that I|
+"Eb/G" B4- |"Edim7" B/ z/ B/B/"C7b9" (3B c B |"Fm" A"Fm7" A3- |"Bb7" A F/F/ (3F"Ab/Bb" E"Bb9" D | %15
+w: speak,|_ but I feel that you|lis- ten|_ with your tongue in your|
+"Eb""Eb+/Bb" E4- |"Eb+""Eb/Bb" E4 |:"Eb6" C4 |"Eb+" _C/G/G/G/- G2 |"Eb" z B, =C D | %20
+w: cheek.|_|You're|laugh- ing at me. _|I can't be|
+ E F/G/-"Cm7" G/A/"Bdim7" B |"Eb/Bb""Eb7" G4 |"Adim7" _G/c/c/c/-"Ab" c"Abm7" _c |"Gm7""Eb/G" B4- | %24
+w: sen- ti- men- * tal for|you're|laugh- ing at me, _ I|know.|
+"Ebmaj7" B2 z2 |"Gb" (3B B B B B |"Gbmaj7" B _D3 | (3z _D _G (3B _d e | _d4 |"Bb" (3=d d d d d | %30
+w: _|I want to be ro-|man- tic,|but I have- n't a|chance.|You've got a sense of|
+"Ebdim/Bb" d c2 d |"Fm7/Bb" (3c c c (3c A F |"Bb7" D4 |"Eb6" C4 |"Eb+" _C/G/G/G/- G2 | %35
+w: hum- or, and|hu- mor is death to ro-|mance.|You're|laugh- ing at me. _|
+"Eb" z B, =C D | E F/G/-"Cm7" G/A/"Bdim7" B |"Eb/Bb""Eb7" G4 | %38
+w: Why do you|think it's fun- * ny when|I|
+"Adim7" _G/c/c/c/-"Ab7" c"Bm6/G#" =B |"G" d4- |"G7" d2"G7sus4" z2 |"Cm" z e"Bbm7" e"Eb7" e | %42
+w: say that I love _ you|so?|_|You've got me|
+"Ab6" f/e/c/A/"Abm6" G F |"Eb/G" B4- | B/ z/ d"F#dim7" d d |"Bb9/F" d/c/c/c/-"Edim7" c2- | %46
+w: wor- ried, and I'm all at|sea|_ for while I'm|cry- ing for you _|
+"Bb9/F" c2"D7/Bb" D2 |1"Bbdim7/Eb" F/"Eb6"E/E/E/- E2- |"F#dim7" E2"Fm7""Bb7" z2 :|2 %49
+w: _ you're|laugh- ing at me. _|_|
+"Bbdim7/Eb" F/E/"E6"E/E/- E2- | E2 z2 |] %51
+w: laugh- ing at me. _|_|
+

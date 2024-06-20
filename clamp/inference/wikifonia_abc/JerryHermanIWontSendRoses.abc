@@ -1,0 +1,27 @@
+X:1
+T:I Won't Send Roses
+T:I Won't Send Roses
+T:From Mack and Mabel
+T:Jerry Herman
+T:Jerry Herman
+C:Jerry Herman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ z C"G7b9" D E |:"C" E G, z2 |"C6" z C D E |"Cmaj7" G4 |"C6" z C D E |"C" E G, z2 |"C6" z C D E | %7
+w: I won't send|ros- es|or hold the|door;|I won't re-|mem- ber|which dress you|
+"Em7" A4 |"A7" z G F E |"Dm7" E/F/E/F/ D2- |"E7" D F E D |"Am" D/E/D/E/ C2- |"Am7" C C D E | %13
+w: wore.|My heart is|too much ic con- trol,|_ the lack of|ro- mance in my soul|_ will turn you|
+"Am" E2 A,2 |"D7" z C D E |"Dm7" E2 A,2 |"Dm7" z C"G7b9" D E |"C" E G, z2 |"C6" z C D E | %19
+w: grey, kid,|so stay a-|way, kid.|For- get my|shoul- der|when you're in|
+"Cmaj7" G4 |"Gm7" z F G"Gm6" A | A"Fmaj7" C z2 |"F6" z F G A |"Am7" d4- |"D7" d c"D7b9" _B A | %25
+w: need.|For- get- ting|birth- days|is guar- an-|teed.|_ And should I|
+"Gm" A/_B/A/B/ G2 | z"E7" _A =A B |"Am" c4- |"Fm6" c C D E |"C" E G, z2 |"Am7" z C D E |"Dm7" A4 | %32
+w: love you, you woukd be|the last to|know.|_ I won't send|ros- es|and ros- es|suit|
+"G7" B,4 |"C" C4 |] %34
+w: you|so.|
+

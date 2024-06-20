@@ -1,0 +1,34 @@
+X:1
+T:Let's Just Praise the Lord
+T:Let's Just Praise the Lord
+T:William & Gloria Gaither, 1972
+C:William & Gloria Gaither 1972
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z6 | z6 | z6 | z6 | z6 |[Q:1/4=90] z4 CF |"F" A3 ^G AG | A F3"D7" ^F2 |"G7" G3 G AG | D4 G2 | %10
+w: |||||we _|thank you for your|kind ness we|thank you for your|love we've|
+"C7" G3 G GG | A G3 C2 |"Bb" D F3 FF | D"F" C3 CF | A3 ^G Ac |"F7" AG F3"D7" ^F |"G7" G3 G AG | %17
+w: been in hea venly|plac es felt|bles sings from _|a bove we've been|shar ing all the|good _ things the|family can af _|
+ D4 GG |"C7" G3 G GG | A G3 C2 | B2 A2 G2 |"F" F6- | F2 F2 A2 | c4- cd |"F7" c6 |"Bb" B4- Bc | %26
+w: ford let's just|turn our praise towanrd|hea ven and|praise _ the|Lord|_ Let's just|praise _ the|Lord|praise _ the|
+"Bbm6" B4 FG |"F" A3 ^G Ac |"D7" d c3 A2 |"G7" A4- A_A |"C7" G z"Bb/C" F2"C7" A2 |"F" c4- cd | %32
+w: Lord let's just|lift our hands to|heav en and|praise _ the|Lord let's just|praise _ the|
+"F7" c6 |"Bb" B4- Bc |"Bbm" B4 FG |"F/C" A3 A"D7" BA |"G7" G D2 D"C7" EG |"F" F6- | F2 z2 CF | %39
+w: Lord|praise _ the|Lord lets jut|lift our hand to|hea ven and praise the|Lord|_ Just the|
+"F" A3 ^G AG | A F3"D7" ^F2 |"G7" G3 G AG | D4 G2 |"C7" G3 G GG | A G3 C2 |"Bb" D F3 FF | %46
+w: pre cious name of|Je sus is|wor thy of our|praise let|us bow our knee|be fore Him|our hands to heav|
+ D"F" C3 CF | A3 ^G Ac |"F7" AG F3"D7" ^F |"G7" G3 G AG | D4 GG |"C7" G3 G GG | A G3 C2 | %53
+w: en raise when He|comes in clouds of|gl o ry with|Him to ev er|reign Let's _|lift our hap py|voi ces and|
+ B2 A2 G2 |"F" F6- | F2 F2 A2 | c4- cd |"F7" c6 |"Bb" B4- Bc |"Bbm6" B4 FG |"F" A3 ^G Ac | %61
+w: praie His dear|name|_ Let's just|praise _ the|Lord|praise _ the|Lord let's just|lift our hands to|
+"D7" d c3 A2 |"G7" A4- A_A |"C7" G z"Bb/C" F2"C7" A2 |"F" c4- cd |"F7" c6 |"Bb" B4- Bc | %67
+w: heav en and|praise _ the|Lord let's just|praise _ the|Lord|praise _ the|
+"Bbm" B4 FG |"F/C" A3 A"D7" BA |"G7" G D2 D"C7" EG |"F" F6- | F4 z2 | z6 | z6 | z6 | z6 |] %76
+w: Lord lets jut|lift our hand to|hea ven and praise the|Lord|_|||||
+

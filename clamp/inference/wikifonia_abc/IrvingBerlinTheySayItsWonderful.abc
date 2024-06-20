@@ -1,0 +1,26 @@
+X:1
+T:They Say It's Wonderful
+T:They Say It's Wonderful
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Gm7" z D E F |"Bbm6/Db" B A/B/"C7" A G |"F/A" c3/2 c/ E2- |"Abdim7" E2 D2 | %4
+w: They say that|fall- ing in love is|won- der- ful,|* it's|
+"Gm7b5" B3/2 B/ _D2- |"C7b9" _D2"C7" C C |"Fmaj9" C4- |"F#dim" C4 |"Gm7" z D E F | %9
+w: won- der- ful|* so they|say.||And with a|
+"Bbm6/Db" B A/B/"C7" A G |"F/A" c3/2 c/ E2- |"Abdim7" E2 D2 |"Gm7" B3/2 B/ _D2- | %13
+w: moon up a- bove, it;s|won- der- ful,|* it's|won- er- ful|
+"C7b9" _D2"C7" C E |"F7" F"F9" A3- |"F+7" A3 G |"Bb" F F F F |"Bbm" A G2 A |"F/A" F F F F | %19
+w: * so they|tell me.|* I|can't re- call who|said it, I|know I nev- er|
+"Am" c A2 =B | c c c c |"G#dim" d c/=B/"E7" ^G F |"Am" E4 |"Abm6" _E4 |"Gm6" z D E F | %25
+w: read it. I|on- ly know they|tell me that love is|grand,|and|the thing that's|
+"Bbm6/Db" B A/B/"C7" A G |"Am7" d3/2 d/ c2 |"D+7" B3/2 B/"D7" A2 |"G7sus4" G A"G9" F"Gm7" C- | %29
+w: known as ro- mance is|won- der- ful,|won- der ful,|in ev- 'ry way,|
+ C2"Gb7b5" E E |"F6""Dm11" F4- |"Gm9" F3"C13" z :|"F6" F4- | F3 z |] %34
+w: * so they|say||say.||
+

@@ -1,0 +1,22 @@
+X:1
+T:I Saw Three Ships
+T:I Saw Three Ships
+C:Traditional English Carol
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z C |"F" F2 F"C/F" G-GA |"F" c2 A"C/F" G2 B |"F" A2 F F2 A |"C/F" G2 E C2 C | %5
+w: I|saw three ships _ come|sail- ing in On|Christ- mas Day, on|christ- mas Day, I|
+w: And|what was in _ those|ships all three On|Christ- mas Day on|Christ- mas Day, And|
+w: The|Vir- gin Mar- y and|Christ were there O|Christ- mas Day on|Chirst- mas Day; The|
+"F" F2 F"C/F" G-GA |"F" c2 A"C/F" G2 B |"F" A2 F FGA |"C/F" G3"F" F2 z |] %9
+w: saw three ships _ come|sail- in in On|Christ- mas Day in the|morn- ing|
+w: what was in _ those|ships all three On|Christ- mas Day in the|morn- ing?|
+w: Vir- gin Mar- y and|Christ were there On|Chirst- mas Day in the|morn- ing.|
+

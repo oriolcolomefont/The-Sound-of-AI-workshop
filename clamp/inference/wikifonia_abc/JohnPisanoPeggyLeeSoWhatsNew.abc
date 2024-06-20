@@ -1,0 +1,40 @@
+X:1
+T:So What's New
+T:So What's New
+T:John Pisano
+T:Peggy Lee
+C:John Pisano
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G ^G A/ A =G/- | G ^G/A/- A/ A A/ | G ^G A/ A =G/- | G ^G/A/- A/ z ^F/ |:"C" G ^G A/ G =G/ || %5
+w: |||* * * * So|tell me babe what's new|
+w: ||||I missed * you so,|
+ G z z z/ ^G/ |"A7" A ^A B/ A =A/- | A z z2 |"D7" z c2 A |1"G7" G F E/ D G/ || %10
+w: * and|how's the scene with you?||Gee, it's|good to see you, babe.|
+w: |how you'll nev- er know||Gee it's||
+"C" G2"C#dim" _B, z/ E/ |"Dm7" F/G/ F D z/ ^F/ :|2"G7" G F E/ D C/- ||"C" C2 G,2 | %14
+w: |* * * * Yeah'|good to see you, babe.||
+w: ||||
+"C7" C _B, A, G, ||"F" c ^c d z/ =c/- |"Fm" c ^c/d/- d z |"E7" z e- e/B/ d |"Am" c4 | %19
+w: |You walked in, lights|* went on *|all- o- ver my|face,|
+w: |||||
+"D7" z e- e/B/ d | c3/2 A/ B c |"G7" e/ d c/ B A | G"^drum" G, G, G, |"C" G ^G A/ G =G/- | %24
+w: You * lit up|the place and you've|been gone just too long,|now * * *|Tell me babe what's new?|
+w: |||||
+ G z z z/ ^G/ |"A7" A ^A B/ A =A/- | A z z2 |"D7" z c2 A |"G7" G F E/ D3/2 |"Em7" z d2 B | %30
+w: * You|glad to see me too,||Hey my|world is spin- ning,|now I|
+w: ||||||
+"A7" A G F/ E3/2 |"Dm7" F2"D#dim" ^F2 |"Em7" G"Am7" c2 A |"Dm7" F2"D#dim" ^F2 |"Em7" G"Am7" c2 A | %35
+w: know I'm win- nin'|You stay|home now, don't|ev- er|roam now, and|
+w: |||||
+"Dm7" F2"D#dim" ^F2 |"Em7" G2"A7" A2 |"D7" e/ d c/"G7" B"C" c | z/"^drum" G,/ G, G, z |] %39
+w: I'll say|ba- by,|So good to see you.||
+w: ||||
+

@@ -1,0 +1,31 @@
+X:1
+T:Let it Snow...
+T:Let it Snow...
+C:Jule Styne
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G,G, |:"C" GG F2"G7" E2 D2 |"C" C2 G,4 G,G, |"Dm7" D3 C D3 C |"G7" B,2 G,4 A,2 | %5
+w: Oh the|Weath- er out side is|fright ful but the|fire is so de-|light- ful and|
+w: |does n't show signs of|stop- ping and I|brought some corn for|pop- ping the|
+w: |fi- re is slow- ly|dy- ing and my|dear we're still good-|bye- ing as|
+"Dm7" AA G2"A7" F2 E2 |"Dm" D6 BA |"G7" G2 GF E2 ED |1"C" C4 z2 G,2 :|1"C" C6 B,C ||1"C" C6 z2 |] %11
+w: since we've no place to|go let it|snow let it snow let it|snow It|snow when we|snow|
+w: lights are turned way down|low _ _|_ _ _ _ _ _||||
+w: long as you love me|so _ _|_ _ _ _ _ _||||
+"G" DE D2 B,2 G2 | D6 B,D |"Am7" C2 CB,"D7" A,2 G,A, |"G" B,6 B,C | D2 ED B,2 G2 | D8 | %17
+w: fin- al- ly kiss good|night how I'll|hate go- ine out in the|storm But if|you'll real- ly hold me|tight|
+w: ||||||
+w: ||||||
+"A7" GF E2"D7" F2 EF |"G" G6 G,2 |] %19
+w: all the way home I'll be|warm the|
+w: ||
+w: ||
+

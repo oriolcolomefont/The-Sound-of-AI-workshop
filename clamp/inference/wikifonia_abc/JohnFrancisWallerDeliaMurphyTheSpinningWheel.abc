@@ -1,0 +1,23 @@
+X:1
+T:The Spinning Wheel
+T:The Spinning Wheel
+T:(Irish Ballad)
+T:John Frances Waller, Delia Murphy
+C:John Francis Waller,Delia Murphy
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" GBD GBD | GBd"D" d c2 | FAD FAD | FAc"G" c B2 | ddd Bcd |"C" ecc"G" dBB |"C" ccc"G" BAG | %7
+w: Mel- low the moon- light to|shine is be- gin- ning|close by the win- dow young|Eil- een is spin- ning|bent o'er the fire her blind|grand- moth- er sit- ting is|croon- ing and moan- ing and|
+w: |||||||
+"D" AdA"G" B G2 |"G" BB"^Chorus:"B GGG | DGB"D" d c2 | AAA DFA | DFA"G" c B2 | ddd Bcd | %13
+w: drow- si- ly knit- ting|Mer- ri- ly cheer- i- ly|nois- i- ly whirr- ing|swings the wheel spins the wheel|while the foots stir- ring-|Spright- ly and light- ly and|
+w: |Slow- er and slow- er and|slow- er the wheel swings|low- er and low- er and|low- er the reel rings|ere the reeland the wheel stoppd,their|
+"C" ecc"G" dB z |"D" ccc"G" BAG |"D" AdA"G" B G2 |] %16
+w: air- i- ly ring- ing|sounds the sweet voice of the|young maid- en sing- ing-|
+w: spin- ning and mov- ing|thro,thegrove the young lov- ers by|moon- light are rov- ing-|
+

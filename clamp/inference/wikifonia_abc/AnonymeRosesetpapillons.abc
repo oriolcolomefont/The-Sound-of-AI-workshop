@@ -1,0 +1,20 @@
+X:1
+T:Roses et papillons
+T:Roses et papillons
+T:Polka
+T:Anonyme
+T:JHC Villers
+C:Anonyme
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:none
+V:1 treble transpose=-2 nm="B Trumpet"
+%%MIDI program 56
+V:1
+[K:G]!p! DB B>A | GF F2 | Dc c>A | Gd !breath!d2 | DB B>A | GF e2 | dc E>F | AG G z |: %8
+!f! AF/G/ AB | A3 d | ^cA ^ce | ed d z | AF/G/ AB | A3 d | ^cA B^c | dd d z |!p! DB B>A | GF F2 | %18
+ Dc c>A | Gd !breath!d2 | DB B>A | GF e2 | dc E>F | AG"^FINE" !fermata!G z :: %24
+[K:C]!p!"^TRIO" EG c>E | GF F2 | DF d>D | FE !breath!E2 | EG c>E | GF d>c | BG e>d | %31
+ ce c z!D.C.! :| %32
+

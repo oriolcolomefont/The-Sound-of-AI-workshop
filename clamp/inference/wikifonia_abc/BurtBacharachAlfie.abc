@@ -1,0 +1,23 @@
+X:1
+T:Alfie
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+Q:1/4=78
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cmaj7" G/F/E/F/ G6 |"G91113sus4" F c3- c2 GA |"Cmaj7" G2 CB"F9" AB,- B,C |"Em7" D4"A7b9" z2 EG | %4
+"Dm7" ec c2-"Fm7" c/d/c Bc |"Em7" dG G2"A7b9" z4 |"Dm7" AD E2"G13" FG A2 |"F#dim7" Ad B4 c2 | %8
+"Dm7" AD E2 FG A2- |"G91113sus4" A2 A2"G+7" A4 ||"Cmaj7" G/F/E/F/ G6 |"G91113sus4" F c3- c2 GA | %12
+"Cmaj7" G2 CB"Am7" AB,- B,C |"D2/F#" D4"Fm7" z2"Em7" E"Eb13"G |"Dm7" ec c2- c/d/c Bc | %15
+"Em7" dG G2"A+7" z2 z c |"Dm7" AD E2"G7" FG A2 |"F#m7b5" Ad B4"F7" z c ||"Bm7" d3 B (3^F2 A2 G2 | %19
+"Cm7" _E4"Am7" D=E (3GBd |"Bm7" e3 B"E7b9" B4 |"Dbm7" z4"Gb9" z2"Cm7" z"F9" D | %22
+"Bm7" d3 B (3^F2 A2 G2 |"Cm7" _E4"Am7" D=EGB |"Dm9" c3 B c3 B |"G91113sus4" B3 A"G+7" B2 A2 || %26
+"Cmaj7" G/F/E/F/ G6 |"G91113sus4" F c3- c4 |"F#m7b5" z ABc"F7" DCdc |"Em7" G4"Am7" d2 c2 | %30
+"F#m7b5" z ABc"F7" DCdc |"Em7" G3 A"Am7" Bc- c2 |"D7#11" d2 !fermata!e6 |"G91113sus4" AD E2 FG A2 | %34
+"F#m7b5" Ad B4"F7" c2 |"G91113sus4" AD E2 FG A2 |"C#dim7" AG G6 |"G91113sus4" z8 |"C#dim7" AG G6 | %39
+"G7" z8 :|"""Cmaj7""^Last x" z8 :| %41
+

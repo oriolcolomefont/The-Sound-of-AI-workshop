@@ -1,0 +1,35 @@
+X:1
+T:Mockin'Bird Hill
+T:Mockingbird Hill
+T:(Tra-la la twittle dee dee dee)
+T:Vaughn Horton
+T:Fast Waltz
+C:Vaughn Horton
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Verse:" z2 D/C/ ||S"G" B, D G | B G D |"C" C E G | c2 E |"D7" D F3/2 A/ | c A c |"G" B G E | %8
+w: When the|sun in the|morn- in peeps|o- ver the|hill and|kiss- es the|ros- es round|my win- dow|
+w: |three co- rnered|plow and an|a- cre to|till anda|mule that I|bought for a|ten dol- lar|
+w: |late in the|eve- ning I|climb up the|hill and|survey all my|king- dom while|ev'ry- thing's still|
+ D2 D/C/ | B, D G | B G D |"C" C E G | c2 E/E/ |"D7" D F A | c A c |"G" B G G | G2"^Chorus:" z || %17
+w: sill then my|heart fills with|glad- ness when|I hear the|trill of the|birds in the|tree- tops of|Mock- in- bird|Hill|
+w: bill there's a|tum- ble- down|shack and a|rus- ty old|mill but it's|my Home Sweet|Home up on|Mick- in- bird|Hill|
+w: |||||||||
+ z2 D/G/ |"G" B2 (3B/B/B/ |"C" c"G" B A |"C" G C E |"G" D2 B |"D7" c3/2 A/ F/E/ | D F A/c/ | %24
+w: Tra- la-|la twit- tle- dee|dee dee it|gives me a|thrill to|wake up in the|morn- ing to the|
+w: |||||||
+w: |||||||
+"G" B G"C" E |"G" D2 D/G/ |"G" B2 (3B/B/B/ |"C" c"G" B A |"C" G C E |"G" D2 B |"D7" c3/2 A/ F/E/ | %31
+w: mock- in- birds|trill tra- la-|la twit- tle- dee|dee dee theres|peace and good|will you're|wel- come as the|
+w: |||||||
+w: |||||||
+ D F A |"G" B G G |1 G2 D/C/!D.S.! ||2"G" G3!fine! || %35
+w: flow- ers on|Mock- ing- bird|Hill. Got a|Hill|
+w: ||* When it's||
+w: ||||
+

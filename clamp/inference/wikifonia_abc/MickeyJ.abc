@@ -1,0 +1,26 @@
+X:1
+T:There Is No Christmas Like A Home Christmas
+T:There Is No Christmas Like A Home Christmas
+C:Mickey J. Addy
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z E/F/ |"C" G4 |"Gm7" F"C7" E2 D/C/ |"F" c4 |"F" B A2 E/F/ |"C" G c"G7" B"Fmaj7" A | %6
+w: There is|no|Christ- mas like a|home|Christ- mas, with your|Dad and Moth- er,|
+"Em7" G"Dm7" F"Cmaj7" E"D7" C |"Dm""Fm6" D4- |"G7" D3 E/F/ |"C" G4 |"Gm7" F"C7" E2 D/C/ |"F" c4 | %12
+w: Sis- ter, Broth- er|there.|_ With their|hearts|hum- ming at your|home-|
+ B A2 E/F/ |"C" G c"G7" B"Fmaj7" A |"Em7" G"Dm7" F"Cmaj7" E"G7" D |"C" C2 z2 |"F" z2"C7" z2 | %17
+w: com- ing, and that|mer- ry yule- tide|spir- it in the|air.||
+"F" A"F+" A"F6" A2 |"F" A"F+" A"F6" A2 |"F" A c"G6" B"G7" A |"C" G4 |"Am" E E"E+" E2 | %22
+w: Christ- mas bells,|Christ- mas bells,|ring- ing loud and|strong,|fol- low them,|
+"Am7" E E"D9" E3/2 E/ |"Dm7" A"C#dim" G"Dm" F"C#dim" E |"Dm7" D3"G7" E/F/ |"C" G4 | %26
+w: fol- low them, you've|been a- way too|long. There is|no|
+"Gm7" F"C7" E2 D/C/ |"F" c4 |"F" B A2"Ab7" _A |"C" G c"G7" B"Fmaj7" A |"Em7" G"Dm7" F"G9" E D | %31
+w: Christ- mas like a|home|Christ- mas, for|that's the time of|year all roads lead|
+"C" C2 z2 |] %32
+w: home.|
+

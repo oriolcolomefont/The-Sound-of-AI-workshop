@@ -1,0 +1,17 @@
+X:1
+T:Székely himnusz
+C:Mihalik Kálmán
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z GEG A2 A2 | GGEG c2 c2 | z Gcd e2 e2 | fdc>B c4 :| z EEE A2 A2 | ccBA E2 E2 | z EEE A2 A2 | %7
+w: Ki tud- ja mer- re,|mer- re visz a vég- zet,|gö- rön- gyös ú- ton,|sö- tét éj- je- len.|Ma- rok- nyi szé- kely,|por- lik, mint a szik- la|né- pek har- cá- nak|
+w: Ve- zesd még- egy- szer|győ- ze- lem- re né- ped,|Csa- ba ki- rály- fi,|csil- lag ös- vé- nyen!||||
+ GAGF E4 | z GEG A3 A | GGEG c2 c2 | z Gcd e2 e2 | fdc>B c4 |] %12
+w: zaj- ló ten- ge- rén,|Fe- jünk az ár, jaj,|száz- szor el- bo- rít- ja,|ne hagyd el- vesz- ni,|Er- délyt, Is- te- nünk!|
+w: |||||
+

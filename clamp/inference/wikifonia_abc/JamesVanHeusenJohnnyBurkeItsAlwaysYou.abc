@@ -1,0 +1,28 @@
+X:1
+T:It's Always You
+T:It's Always You
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z E |"Bbm7" (3F F B"Eb7" F =E |"Abmaj7" _E E2"Adim7" =D |"Bbm7" (3_D D F"Eb7" C D | %4
+w: When-|ev- er it's ear- ly|twi- light, I|watch 'till a star breaks|
+"Cm7""F7" E4 |"Bbm7" (3D D F"Eb7" C D |"Abmaj7" E F"Fm7" G A |"Bbm7" d2"Eb7" e2 |"Cm7" c3"F7" E | %9
+w: through;|fun- ny it's not a|star I see, It's|al- ways|you. When-|
+"Bbm7" (3F F B"Eb7" F =E |"Abmaj7" _E E2"Abdim7" =D |"Bbm7" (3_D D F"Eb7" C D |"Cm7""F7" E4 | %13
+w: ev- er I roam through|ros- es, and|late- ly I oft- en|do,|
+"Bbm7" (3D D F"Eb7" C D |"Abmaj7" E F"Fm7" G A |"Bbm7" d2"Eb7" G2 |"Abmaj7" A4 | %17
+w: fun- ny, it's not a|rose I touch, it's|al- ways|you.|
+"Ebm7" B E"Ab7" F3/2 E/ |"Ebm7" B/E/ F2 E |"Dbmaj7" A A A _G/A/ | F4 |"Fm7" c F"Bb7" G3/2 F/ | %22
+w: If a breeze car-|ess- es me, it's|real- ly you strol- ling|by.|If I hear a|
+"Fm7" c/F/ G2"Bb7" F |"Bbm7" (3B B B B A |"Eb7" G3 _G |"Bbm7" (3F F B"Eb7" F =E | %26
+w: mel- o- dy, it's|mere- ly the way you|sigh. Wher-|ev- er you are, you're|
+"Abmaj7" _E E2"Adim7" =D |"Bbm7" (3_D D F"Eb7" C D |"Cm7""F7" E4 |"Bbm7" (3D D F"Eb7" C D | %30
+w: near me, you|dare me to be un-|true.|Fun- ny, each time I|
+"Abmaj7" E F"Fm7" G A |"Bbm7" d2"Eb7" G2 |"Abmaj7" A3 z |] %33
+w: fall in love it's|al- ways|you.|
+

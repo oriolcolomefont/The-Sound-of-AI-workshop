@@ -1,0 +1,43 @@
+X:1
+T:We are the Champions
+C:Freddie Mercury
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Eb
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:1
+ z3 GBc |:"Cm" c3- c2 z |"Bb/C" z3 GBc |"Cm" c3 z3 |"Bb/C" z3 GBc- |"Cm" ccG z3 | %6
+w: I've paid my|dues _|time af- ter|time.|I've done my|_ sen- tence|
+w: |bows _|and my curtain|calls|and ev'rything me|fame goes fortune|
+w: ||||You brought *|that and with|
+"Bb/C"z2G/G/ d<cB/c/ |"Cm" c3- c z2 |"Bb/C" z3 Bde |"Eb" e3 z3 |"Ab/Eb" z3 Bd/d/e- |"Eb" e6 | %12
+w: but com- mit- ted no _|crime _|And bad mis-|takes|I've pleasure a few|_|
+w: * * I thank * you|all *|But it's been|no|no made * cruise||
+w: ||||||
+"Ab/Eb" z3 Bde |"Eb" e<ee/f/"Bb/D" f>fg |"Cm" g2g"F7" =a2a |"Bb" b3 B/d/f/g/a | %16
+w: i've had my|share of sand- kicked in my _|face but I've come|through And I need to go|
+w: I consider a|* challenge before the whole human race|and I ain't gonna|lose * * * * *|
+w: * * it||||
+"^Bb(add9)" c'2b c'2b | c'2b"C" c'3 ||[K:F]"F" f3- fef |"Am7" e2c- c2A |"Dm7" d2A- A3 | %21
+w: on, and on, and|on, and on|We _ are the|cham- pions _ my|friends _ _|
+w: |||||
+w: |||||
+"Bb"z3"C"z2c |"F" f3- fga |"Am7" c'2a- ade |"Bb" d3- d"Am" z"Gm" z |"F#dim7" z6 |"Gm" d3 c2d | %27
+w: And|we'll _ keep on|fight- ing _ till the|end _||We are the|
+w: ||||||
+w: ||||||
+"C" c3 B3 |"Bbdim7" b3 __b2_b |"Edim7" a3 g3 |"F" a3 f2b |"Gm9" a3 f2b |1"Ab6" _a3 f2b | %33
+w: cham- pions|We are the|cham- pions|no time for|los- ers 'cause|we are the|
+w: ||||||
+w: ||||||
+"Bb7" _a3 f3 |"C7sus4"z2>z2_ec ||[K:Eb]"Fm" f6- |"Bb" f6- |"Fm" f6 | z6"Bb/F" |"Fm" z6 | %40
+w: champ- ions|of the|world|_||||
+w: |||||||
+w: |||||||
+"C7sus4"z2G GBc :|2"Bb" a3 f3 |"C7sus4" z6 |] %43
+w: I've tak- en my|champ- ions||
+w: |||
+w: |||
+

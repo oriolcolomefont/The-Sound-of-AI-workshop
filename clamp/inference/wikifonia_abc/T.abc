@@ -1,0 +1,22 @@
+X:1
+T:Good Night (Sax Transcription from Memory)
+T:Good Night
+C:T. Yoshida
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"G7" z4 z2 _E2 |"Cmin" C6 c2 |"Ab7" ^G6 ^F2 |"G7" G6 B,2 |"Cmin" C6 _E2 | C6 c2 |"Ab7" ^G6 ^F2 | %7
+"G7" G6 B,2 |"C " C6 z2 |"Cmin" C_E G^F-"Bmin" F4 |"Cmin" C_E G^F-"Bmin" F4 | %11
+"Eb " _E2 G2"F7" EC ED- |"Dmin7" D8 |"Eb " _EG cB-"G " B4 |"Eb " _EG cB-"G " B4 | %15
+"G7" z G FG _EC DC- |"C " C8 | z c Bc Bc Bc |"G " dG GG- G4 |"G7" z2 d/c/B/c/ d2- dB | %20
+"C " c2- cB/c/"G7" G4 |"Fmin7" z _A GF AA- A2 |"Cmin" z G _EC G4 |"G7" G2 F2"F7" _E2 CD- | %24
+"G7" D6 _E2 |"Cmin" C6 c2 |"Ab7" ^G6 ^F2 |"G7" G6 B,2 |"Cmin" C6 _E2 | C6 c2 |"Ab7" ^G6 ^F2 | %31
+"G7" G2 ^F/G/F/G/ _EC DC- |"C " C6 z2 | z c Bc Bc Bc |"G " dG GG- G4 |"G7" z2 d/c/B/c/ d2- dB | %36
+"C " c2- cB/c/"G7" G4 |"Fmin7" z _A GF AA- A2 |"Cmin" z G _EC G4 |"G7" G2 F2"F7" _E2 CD- | %40
+"G7" D6 _E2 |"Cmin" C6 c2 |"Ab7" ^G6 ^F2 |"G7" G6 B,2 |"Cmin" C6 _E2 | C6 c2 |"Ab7" ^G6 ^F2 | %47
+"G7" G2 ^F/G/F/G/ _ec d2 |"C " c8- | c8 |] %50
+

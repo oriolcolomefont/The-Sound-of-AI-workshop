@@ -1,0 +1,23 @@
+X:1
+T:But Beautiful
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ ^CD |:[M:4/4]"Gmaj9" A2 A4 GF |"G#dim7" =F6 DE |"Am9" B2 B4 A_A |"Bbdim7" G6 FG |"G" d2 d4 B_B | %6
+w: Love is|fun- ny or it's|sad Or it's|qui- et or it's|mad; It's a|good thing or it's|
+"Dm6""E7" A6 ^G2 |"A9" BB B6- | B8 |"D7" BB B4 A2 |"G" d2 B2"Em7" A3 G |"Am7" c2 A2 G2"D7" F2 | %12
+w: bad, But|Beau- ti- ful!|_|Beau- ti- ful to|take a chance and|if you fall, you|
+"G" B6 D^D |"Em6" E2 E2-"Em7" E2 G2 |"A9" B2 G2 F2 E2 |"Am7" A8- | A6"D7" ^CD |"Gmaj9" A2 A4 GF | %18
+w: fall And I'm|think- ing _ I|would- n't mind at|all.|_ Love is|tear- ful or it's|
+"G#dim7" =F6 ^DE |"Am9" B2 B4 A_A |"Bbdim7" G6 FG |"G" d2 d4 B_B |"Dm6""E7" A6 ^G2 |"A9" BB B6- | %24
+w: gay; It's a|prob- lem or it's|play; It's a|heart- ache eith- er|way, But|Beau- ti- ful!|
+ B6 E^E |"D7" F2 F4 A2 |"G" d2 B2"Em7" A3 G |"Am7" e2 c2"B+7" B2"B7" A2 |"Em" G6"F9" G2 | %29
+w: _ And I'm|think- ing if|you were mine I'd|nev- er let you|go And|
+"G" dd d4"Bb7" G2 |"Am7" cc c2-"Ab7" c2 F2 |1"G" G8- |"D7" G6 ^CD :|2"G" G8- | G6 z2 |] %35
+w: that would be But|Beau- ti- ful _ I|know.|_ Love is|know.|_|
+

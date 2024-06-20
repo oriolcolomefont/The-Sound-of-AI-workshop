@@ -1,0 +1,28 @@
+X:1
+T:If I Loved You
+T:if I loved you
+T:Richard Rodgers, Oscar Hammerstein II,
+C:Oscar Hammerstein II, Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F2 A2 |"E" d d3 |"F" f- (3f/e/d/ c- (3c/_B/G/ |"Dm" G F A2 |"Gm" G2 _B2 |"E" e e2 f |"C" c4- | %7
+w: If I|loved you|time * and a- ain * I would|try to say|all I'd|want you to|know|
+w: If I|loved you|words * would- nt come * in an|eas- y way|round in|cir- cles I'd||
+"C7" c4 :|"F" f4- | f2"A7" z2 |"Dm" f2 e d |"Gm" c _B c d |"E7" e2 e2 | e4 |"Dm" f2 e d | %15
+w: |go||Long- ing to|tell you but a-|fraid and|shy|I'd let my|
+w: ||||||||
+"Gm" c _B c d |"G7" g2 g2 |"C7" g4 | z4 |"F" f2 A2 |"E" d d3 |"F" f- (3f/e/d/ c- (3c/B/A/ | %22
+w: gold- en chanc- es|pass me|by!||Soon you;d|leave me|off * you would go * in the|
+w: |||||||
+"Dm" G F A2 |"Gm" G2 _B2 |"E" e e2 f |"F" a4- |"D7" a4 |"Gm" g2"D7" a2 |"Gm" _b _b"C" d e | %29
+w: mist of day|nev- er|nev- er to|know||How I|loved you If I|
+w: |||||||
+"F" f2 f2- | f2 z2 |] %31
+w: loved you||
+w: ||
+

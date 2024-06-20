@@ -1,0 +1,28 @@
+X:1
+T:A Tree in the Meadow
+T:A tree in the meadow
+T:Billy Reid
+C:Billy Reid
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z E/F/ |:"C" G2 E3/2 D/ |"Cmaj7" D C2"Gm7" C/C/ |"F" c2"B7" F A |"C" G3 G |"F" c3/2 c/ B A | %6
+w: There's a|tree in the|mea- dow with a|stream drift- ing|by and|carved up- on that|
+w: |al- ways re-|mem- ber the *|love in your|eye the|day you carved up-|
+"C" G c"F" C F |1"C" E C"D7" C B, ||1"Fm" D2"G7" z E/F/ :|2"C" E C"Ab7" C D ||"C" C2 z"D7" D | %11
+w: tree I see I|love you till I|die I will|love you till I|die But|
+w: on that tree I|||||
+"G" D B B B |"Am7" B/c/"D7" A2 A |"G" A/B/"Bb" G2 A |"Am7" D3 D |"G" D B B B |"Am7" B/c/"D7" A2 A | %17
+w: fur- ther on down|lov- ers lane a|sil- hou- ette I|see I|know you're kiss- ing|some- one else, I|
+w: ||||||
+"Em7" A/B/ G2 A |"Dm7" F3"G7" E/F/ |"C7" G2"G7" E3/2 D/ |"Cmaj7" D C2"Cm7" C |"F" c2"B7" F A | %22
+w: wish that it were|me By that|tree in the|mead- ow my|thoughts al- ways|
+w: |||||
+"C" G3 A/B/ |"F" c c"B7" B A |"C" G c"F" C F |"C" E/ G3/2"Ab" d3/2 c/ |"C" c4- | c4 |] %28
+w: lie and wher-|e'er you go you"ll|al- ways know I|love you till I|die.||
+w: ||||||
+

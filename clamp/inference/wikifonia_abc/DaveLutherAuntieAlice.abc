@@ -1,0 +1,32 @@
+X:1
+T:Auntie Alice
+T:Auntie Alice
+T:Dave Luther  (N.Z.)
+T:Tempo:    Bluegrass or Polka  (120)
+C:Dave Luther
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ E"^Verse:" F |"C" G e d c/c/ |"F" d z/ c A A/ |"C" G A"G" F G |"C" E2 E F | G e d c/c/ | %6
+w: In the|lit- tle church on the|vill- age green I|vowed my life a-|way, Foll- owed|by a lit- t- le|
+"F" d c A A/A/ |"G" G G A B |"C" c2 z2 | E z F z |"C" G e d c/c/ |"F" d c A/A/ z |"C" G A"G" F G | %13
+w: gath- er- ing fo- r|those who wished to|stay.|Every- one|who came brought us some-|thing good to- o|build our hap- py|
+"C" E2 z/ z/4 E3/4F/ | G e d c/c/ |"F" d c A A/A/ |"G" G G A B |"C" c4 |"^Chorus" z4 |"C" G E G E | %20
+w: home, But a|cer- tain some- thi- ng|caught my eye as it|stood out on its|own.||Aun- tie Al- ice|
+ G2 c2 | z e3 |"F" c A c A | c2 A2 |"C" G4 | e2 g2 | e4 | e2 g2 | e4 |"D7" d d d d | d e d c | %31
+w: bought us|this|Aun- tie Al- ice|bought us|this:|not too|late|not too|soon,|press it in the|mid- dle it will|
+"G" B2 c2 | d2 z2 |"C" G E G E | G2 c2 | e4 |"F" c A c A | c2 A2 |"C" G4 | c c d z | e e e e | %41
+w: play a|tune|Aun- tie Al- ice|bought us|this|Aun- tie Al- ice|bought us|this,|We got a|clock from Unc- le|
+ e d c c |"G" A c A c | e d"C" c2 |"^Verse" E z F z |"C" G e d c |"F" d z c A/4A/4A/ | %47
+w: Wil- bur- force but|Aun- tie Al- ice|bought us this.|When the|vic- ar stood up|for his speech there was|
+"C" G A"G" F G | z/"C" E3/2 E/F/ z | G e d c/c/ |"F" d c A A/A/ |"G" G G A B |"C" c2 z2 | E z F z | %54
+w: not one eye on|him, every- one|was wait- ing anx- ious-|ly * fo- r *|Aun- tie to come|in.|And my|
+ G e d c/c/ |"F" d c A A/A/ |"C" G A"G" F G |"C" E2 E/F/ z | G e d c/c/ |"F" d c A A/ z/ | %60
+w: pret- ty wife who was|full of strife, she- e|said it is- nt-|fair That the|wedding day was run- ner|up to- o that|
+"G" G G A B |"^Chorus:" z"C" c3 | z4 |] %63
+w: that thing ov- er|there.||
+

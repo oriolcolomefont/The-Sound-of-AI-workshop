@@ -1,0 +1,32 @@
+X:1
+T:Hemels Blauw
+T: Laukens Music Productions  
+T:Beguine 
+T:HEMELS BLAUW
+T:W. Tura
+T:Arr. H. Laukens
+T:2
+T:HEMELS BLAUW blad 2 van 
+T: Laukens Music Productions  
+C:W. Tura
+Z:All Rights Reserved
+L:1/4
+Q:1/4=161
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 21
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+"Bbm""^Intro" B2 B c | _d4 |"F" c2 c B |"D7" A4 |"Gm" B2 B A |"C7" G2 F E |"F" F2 A B |"C7" c4 || %8
+S"F" f2 (3e f e | c3/2 A/ ^G/A/ c/=B/ |"C7" _B4- | B4 | e2 (3d e d | c3/2 G/ ^F/G/ d/_d/ |"F" c4- | %15
+ c4O ||"D7" d2- d/d/ _e/d/ | A3/2 A/ ^G/A/ c/=B/ |"Gm" B4- | B4 |"E7" e2 (3e f e | =B2 c d | %22
+"Am" e4- |"C7" e4 |"F" f2 (3e f e | c3/2 A/ ^G/A/ c/=B/ |"C7" _B4- | B4 | e2 (3d e d | %29
+ c3/2 G/ ^F/G/ d/_d/ |"F" c4- | c4 |"Bbm" _d d/d/ d2- | d _d _e d |"F" f4- | f A/B/ (3c d e | %36
+"Gm" d d/d/ (3d e f |"C7" e e/e/ (3e f g |"F" f4- | f4 |:"C7" c/g/ g/g/- g2- | g g/g/ (3g f e | %42
+"F" f2 c2- | c4 |"C7" c/g/ g/g/- g a | b2 a e |"F" f4- | f4S :|O"Bbm" _d d/d/ d2- | d _d _e d | %50
+"F" f4- | f A/B/ (3c d e |"Gm" d4- |"C7" d e/e/ (3e f g |"F" f4- | f4 |:"C7" c/g/ g/g/- g2- | %57
+ g g/g/ (3g f e |"F" f2 c2- | c4 |"C7" c/g/ g/g/- g a | b2 a e |1"F" f4- | f4 :|2"F" f4- || %65
+"Bbm" f4- |"F" f4- | f z z2 |] %68
+

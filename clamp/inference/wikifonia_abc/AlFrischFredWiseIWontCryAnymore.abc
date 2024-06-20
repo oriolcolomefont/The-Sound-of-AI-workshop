@@ -1,0 +1,30 @@
+X:1
+T:I Wont Cry Anymore
+T:I Wont Cry Anymore 
+C:Al Frisch
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"C7" !fermata!C"Ddim" !fermata!D |:"Fmaj7" (3E F G E2- | E2 (3D"Fm7b5" E F | %3
+w: I won't|cry an- y- more|_ now that you've|
+"Gm9" A2"Bbmaj7" A2- |"Bbdim/A" A2"C7" C"Ddim" D |"Fmaj7" (3E F G E2- | E2 (3D"Fm7b5" E F | %7
+w: left me.|_ I won't|sigh an- y- more|_ now that you're|
+"Am7b5" c4- |"D7b5" c4 |"Gm7" d2 c B |"Bbm" A3/2 G/ F E |"A7sus4" G3 A |"Dm" F4 | %13
+w: gone.|_|I've shed a|mil- lion tears since|we're a-|part,|
+"G9sus4" A2"Em/F" G F |"Fmaj7" E D"G13" E F |"Gm7/C" G3"C7" C |"Bbdim7/E" _A2"C7" C"Ddim" D | %17
+w: But tears can|ne- ver mend a|brok- en|heart. I won't|
+"Fmaj7" (3E F G E2- | E2 (3D"Fm7b5" E F |"Gm9" A2"Bbmaj7" A2- |"Bbdim/A" A2"C7" C"Ddim" D | %21
+w: sigh an- y- more,|_ I'll just for-|get you.|_ And I'm|
+"Fmaj7" (3E F G E2- | E2 (3D"Fm7b5" E F |"Am7b5" c4- |"D7b5" c4 |"Gm7" d2 c B |"Bbm" A G2 A/B/ | %27
+w: clos- ing the door|_ of mem- o-|ries.|_|Though you're the|one love that my|
+"Am7" c2"F/D" (3c A F |"Am7" E2"Abdim" (3D E F |"Gm7" B3 D/E/ |"Bbmaj7/C" A2-"Bbm/E" A E/A/ | %31
+w: arms are long- ing|for, This is good|bye. I wont|cry _ an y-|
+"F" F4- | F2 z2 :| %33
+w: more.||
+

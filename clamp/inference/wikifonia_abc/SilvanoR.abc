@@ -1,0 +1,29 @@
+X:1
+T:EL RANCHO ROCK
+T:EL RANCHO ROCK
+T:Alla En El Rancho Grande
+T:Silvano R. Ramos
+T:Ben Raleigh
+C:Silvano R. Ramos
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z C |:"F" A A A"C7" G | G"F" F2 A |"Bb" B"F" A"Bb" B"B" =B |"C7" c2 E2- | E2 z C | D C =B, C | %7
+w: They're|rock- in' at the|ran- cho' Each|Don Jo- se and|Pan- cho;|* They|put their heart and|
+w: |||||||
+ B G2 C | D C =B, C |"F" A F2 C | D C A, C | F2 A2 | z C F A |"F" c4 |"C7" B2"F" A2 |"C7" c E3 | %16
+w: soul in The|rock- in' and the|roll- in', They|ev- en do some|stroll- in'|1..When there are|Mex-|i- can|stars out.|
+w: |||||2..All night the|juke-|box is|go- in',|
+ z C E G | c4 | B2 A2 |"F" G F3 | z C F A | c4 | B2 A2 |"C7" c E3 | z C E G | c4 | B2 A2 |1 %27
+w: The cow- boys|get|their gui-|tars out.|You'll hear no|mam-|bo or|cha- cha,|They dig the|new|beat too|
+w: And plen- ty|pe-|sos they|throw in.|Old cow- boy|songs|they don't|sing now,|EL RAN CHO|ROCK|is the|
+"F" G F3 || z2 z C :|2"F" G F3- || F3 z |] %31
+w: much- a!|They're|||
+w: ||thing now!-||
+

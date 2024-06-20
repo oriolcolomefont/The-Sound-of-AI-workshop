@@ -1,0 +1,20 @@
+X:1
+T:Oh! You Beautiful Doll
+T:Oh! You Beautiful Doll
+C:Nat D. Ayer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"F" C6 D2 | FGAc-"D7" c2 A2 |"G7" G2 G2 GFDG- | G6 z2 |"C7" E4- E^DEF | G2 E2 D2 C2 | %6
+w: Oh! You|beau- ti- ful doll, _ you|great big beau- ti- ful doll!|_|Let _ me put my|arms a- round you,|
+"F" F4-"C7" FEFG |"F" A2 F2"Gm7" D2"C7b9" [_D=DD^D]2 |"F" C6 D2 | FGAc-"D7" c2 A2 | %10
+w: I _ could nev- er|live with- out you.|Oh! you|beau- ti- ful doll, * you|
+"G7" G2 G2 GFDG- | G6"C7" FG |"F" A2 ^GA- A=GFG | A2 ^GA- A2 F2 |"Db7" _A2 GA- AGFG | %15
+w: great big beau ti- ful doll!|_ If you|ev- er leave _ me, how my|heart would ache, _ I|want to hug _ you but I|
+ _A2 GA- A2 z2 |"F" =A4"A7" A4 |"Dm7" A4 A4 |"G7" A A2 c-"C7" cA G2 |1"F" F6"C7" z2 :|2"F" F6 z2 |] %21
+w: fear you'd break. _|Oh! oh!|oh! oh!|Oh!, you beau- * ti ful|doll!|doll!|
+

@@ -1,0 +1,24 @@
+X:1
+T:Hold My Hand
+T:Hold My Hand
+C:Ray Henderson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G A |"G7" B4- | B d c A | B z/ F/ A2- | A2 E F |"C" G4- | G c B G | A z/ E/ G2- | G2"C7" G G | %9
+w: Hold my|hand|_ and let me|feel you near,|_ Hold my|hand|_ to tell me|you are here,|_ There's so|
+"F" G3 F | G F"Dm7" c3/2 F/ |"C" E2 E2- | E E"Am7" c3/2 E/ |"D7" E2 E2- | %14
+w: much you're|touch re- veals so|clear- ly|_ and so sin-|cere- ly|
+"Am7" E A"D7" !fermata!e3/2 A/ |"G7" d4- | d z G A | B4- | B d c A | B z/ F/ A2- |"G7" A2 E F | %21
+w: _ to me my|dear|_ And un-|til|_ you tell me|with your lips,|_ There's a|
+"C" G4- | G c B G | A z/ E/ G2- | G2 A"C7" _B |"F" c3 c |"Fm" e d c d |"C" G4- | G z G"F#dim" A | %29
+w: thrill|_ in just your|fin- ger- tips,|_ That my|heart a-|lone can un- der-|stand|_ Ev- 'ry-|
+"G7" B4- | B"Dm7" d A"G7" B |1"C" c3 z |"G7" z2 G A :|2"C" c4- | c2- c z |] %35
+w: time|_ you hold my|hand.|Hold my|hand.|_ _|
+

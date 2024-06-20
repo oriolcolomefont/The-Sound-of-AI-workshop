@@ -1,0 +1,22 @@
+X:1
+T:Ramona
+T:Ramona
+C:Mabel Wayne
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z B, |:"Eb" G2 G3 G | AG FE FG |"Bb7" A6- | A4 z B, | A2 A3 A | BA GF GA |"Eb" B6- | B4 B2 | %9
+w: Ra-|mon- a, I|hear the mis- sion bells a-|bove,|_ Ra-|mo- na, they're|ring- ing out our song of|love,|_ I|
+ e2 e3 d | d2 c3 B |"Bb7" d>e f>e (3dcB | A4 z B | d2 d3 c | c2 B3 =A |"Eb" B>c d>c (3B=A_A | %16
+w: press you, ca-|ress you, and|bless the day you taught me to|care, To|al- ways re-|mem- ber the|ram- bling rose you wear in your|
+ G4 z B, | G2 G3 G | AG FE FG |"Bb7" A6- | A4 z B, | A2 A3 A | BA GF GA |"C7" c6- | c4 B2 | %25
+w: hair. Ra-|mo- na, when|day is done you'll hear my|call,|_ R-|mo- na, we'll|meet be- side the wat- er-|fall,|_ I|
+"Fm" c4 d2 |"Abm6" f4 e2 |"Gm" d>e"Ebdim" c>d"Db" B>c |"C7" G4 z C |"Fm" A2 A3 C | %30
+w: dread the|dawn when|I a- wake to find you|gone, Ra-|mo- na I|
+"Gm" G2 G3"Bb7" B, |1"Eb" E6 ||2"D" z2"Cm" z2"Bb+" z B, :|"Eb" E6- | E4 z2 |] %35
+w: need you my|own.|Ra-|||
+

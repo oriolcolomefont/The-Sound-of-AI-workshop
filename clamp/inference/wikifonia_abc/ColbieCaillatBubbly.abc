@@ -1,0 +1,63 @@
+X:1
+T:Bubbly
+C:Colbie Caillat
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Intro""A" z8 |"Apedal5/G#" z8 |"D9" z8 |"A" z8 ::"^Verse""A" z A ec (ec)BA | %5
+w: ||||I've been a- wake _ for a|
+w: ||||The rain is fall- in' on my|
+"Apedal5/G#" (cB) B6 |"D9" z B ec ecBA |"A" (cB) A4 z2 |"A" z A ec ecBc | %9
+w: while _ now.|You've got me feel- in' like a|child _ now.|'Cause ev- 'ry time I see your|
+w: win- dow- pane,|but we are hid- in' in a|saf- er place.|* Un- der cov- er, stay- in'|
+"Apedal5/G#" ec (B2- B A3) |"D9" z A ec ec(BA) |"A" cBAA ABce- ||"^Chorus""A" e2 cB ABc(e- | %13
+w: bub- bly face, _ _|I get the tin- glies in a|sil- ly place. It starts in my toes|_ and I crin- kle my nose.|
+w: dry and warm, _ _|you give me feel- ings that _|I a- dore. * * * * *||
+"Apedal5/G#" ec) z A ABc(B- |"D9" B A2) F A(AF)(A- |"A" AF) z E ABce- |"A" e2 B2 ABce- | %17
+w: _ _ Wher- ev- er it goes,|_ _ I al- ways _ know|_ _ that you make me smile|_ Please stay for a while|
+w: ||||
+"Apedal5/G#" e B3 ABc(B- |"D9" B A2) F ABcA- |"A" A4 z4 :|"Amaj7/C#" z4 z2 z F | ABce- e2 fB- | %22
+w: _ now. Just take your time|_ _ wher- e- ver you go.|_|But|what am I gon- _ na say|
+w: |||||
+"D" B8 | z8 |"E4" z4 z2 z A | ABcf- f e2 z |"Bm7" (B2 AF- F4) |"Amaj7/C#" z2 z c- c e3- | %28
+w: _||when|you make me feel _ this|way? _ _ _|I _ just...|
+w: ||||||
+"D" e4 z2 A2- | A2 FF ABce |"^Chorus""A" e2 cB ABc(e- |"Apedal5/G#" ec) z A ABc(B- | %32
+w: _ Mm.|_ And it starts in my toes,|* and I crin- kle my nose.|_ _ Wher- ev- er it goes,|
+w: ||||
+"D9" B A2) F A(AF)(A- |"A" AF) z E ABce- |"A" e2 B2 ABce- |"Apedal5/G#" e B3 ABc(B- | %36
+w: _ _ I al- ways _ know|_ _ that you make me smile|_ Please stay for a while|_ now. Just take your time|
+w: ||||
+"D9" B A2) F ABcA- |"A" A4 z4 |:"^Interlude""A" z8 |"Apedal5/G#" z8 |"D9" z8 |"A" z8 :| %42
+w: _ _ wher- e- ver you go.|_|||||
+w: ||||||
+"^Verse""A" z A ec (ec)BA |"Apedal5/G#" (cB) B6 |"D9" z B ec ecBA |"A" (cB) A4 z2 | %46
+w: I've been a- sleep _ for a|while _ now.|You tucked me in just like a|child _ now.|
+w: ||||
+"A" z A ec ecBc |"Apedal5/G#" ec (B2- B A3) |"D9" z A ec ecBA |"A" cBAA ABce- | %50
+w: 'Cause ev- 'ry time you hold me|in hour arms, _ _|I'm com- fort'- ble e- nough to|feel your warmth. It starts in my soul|
+w: ||||
+"^Chorus""A" e2 cB ABc(e- |"Apedal5/G#" ec) z A ABc(f- |"D9" f e2) c e B2 A- |"A" A2 z F ABce- | %54
+w: _ and I lose all con- trol.|_ _ When you kiss my nose,|_ _ the feel- in' shows|* 'cause you make me smile.|
+w: ||||
+"A" e2 BB ABce- |"Apedal5/G#" e B3 ABc(c- |"D9" c B2 A- A4- |"A" A4) z2 z B || %58
+w: _ Ba- by, just take your time|_ now, hold- in' me tight|_ _ _ _|* Wher-|
+w: ||||
+"^Slower""^Outro""A" c3 (B- B A2) c |"Amaj7/G#" cec(B- BA) z e |"D6" (c B2) A- A2 AA- | %61
+w: ev- er _ _ wher-|ev- _ _ er. _ _ wher-|ev- _ er _ you go.|
+w: |||
+"A" A4 z2 z e |"A" (e2 c)(c- cB- (3B)(fe) |"Amaj7/G#" (e c2) (c B2) c2 |"D6" c3 B- B2 AA- | %65
+w: _ Where-|ev- * er, _ _ _ wher- _|ev- _ er, _ wher-|ev- er _ you go.|
+w: ||||
+"A" A4 z4 |"A" z A3 (ABc)e- |"Amaj7/G#" e c2 B- B A3 |"D6" z2 z A c B2 (c- | cB) z2 z4 | %70
+w: _|Ooh, wher- _ _ ev-|_ er you _ go,|I al- ways know.|_ _|
+w: |||||
+"A" z2 z A ecB(e- |"Amaj7/G#" ec)cc fec(e |"D6"{/B} c B2) z z4 |"A" z8 |] %74
+w: 'Cause you make me smile,|_ _ e- ven just for a while.|_ _||
+w: ||||
+

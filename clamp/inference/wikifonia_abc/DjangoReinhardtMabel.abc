@@ -1,0 +1,26 @@
+X:1
+T:Mabel
+T:Mabel
+T:Django Reinhardt
+T:(HC/DC)
+C:Django Reinhardt
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" [Cc]2 z2"Ebdim" [_E_e]2 z2 |"F#dim" [^F^f]2 z [Aa-]"Ebdim" [Aa]2 z2 |"G7" z _e z e dcAG | %3
+"C" c3 A-"G7" A4 |"C" [Cc]2 z2"Ebdim" [_E_e]2 z2 |"F#dim" [^F^f]2 z [Aa-]"Ebdim" [Aa]2 z2 | %6
+"G7" z _e z e dcAG |"C" c3 A-"G7" A4 ||"C" [Cc]2 z2"Ebdim" [_E_e]2 z2 | %9
+"F#dim" [^F^f]2 z [Aa-]"Ebdim" [Aa]2 z2 |"G7" z _e z e dcAG |"C" c3 A-"G7" A4 | %12
+"C" [Cc]2 z2"Ebdim" [_E_e]2 z2 |"F#dim" [^F^f]2 z [Aa-]"Ebdim" [Aa]2 z2 |"G7" z _e z e dcAG | %15
+"C" c3 A-"G7" A4 ||"C9" cdeg z g- g2 |"Db9" _d_ef_a z a- a2 |"C9" cdeg z g- g2 |"Bb9" _Bcdf- f4 | %20
+"C9" cdeg z g- g2 |"Db9" _d_ef_a z a- a2 |"C9" z _e- e2 dcAG | c2 AE GA z2 ||"C9" cdeg z g- g2 | %25
+"Db9" _d_ef_a z a- a2 |"C9" cdeg z g- g2 |"Bb9" _Bcdf- f4 |"C9" cdeg z g- g2 | %29
+"Db9" _d_ef_a- a z ga |"C9" c _B- B2 AGEC | G2 B,C z4 |] %32
+

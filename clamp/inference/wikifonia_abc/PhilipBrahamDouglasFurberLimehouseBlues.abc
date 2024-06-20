@@ -1,0 +1,22 @@
+X:1
+T:Limehouse Blues
+T:Limehouse blues
+C:Philip Braham
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"Db7" F G A F- | F G2 A | F G A F- | F4 |"Bb7" F G A F- | F G2 A | F G A F- | F4 |"Ab" E F G A- | %9
+w: Oh Lime- house kid|* oh you|sweet Lime- house kid||go- in' the way|* that the|rest of them did||Poor brok- en blos-|
+ A B2 =B |"C7" c =B _B"Fm" A- | A4 |"Bb7" F G A =A- | A B2 c |"Eb7" B =A _A G- | G4 | %16
+w: * som and|no- bod- y's child||haunt- ing and taunt-|* ing you're|just kind of wild||
+"Db7" F G A F- | F G2 A | F G A F- | F4 |"Bb7" A B c A- | A B2 c | A B c A- | A4 | %24
+w: Oh Lime- house blues|* I've the|real Lime- house blues||can't seem to shake|* off those|real Chi- na blues||
+"Ab/Eb" e =d e"F7" f- | f e2 c |"Bbm" d c d"Dbm6" B- | B4 | d c d"Eb7" e- | e c2 B | %30
+w: rings on your fing-|* gers and|tears for your crown||that is the stor-|* y of|
+"Ab" A A"Dbm" A"Ab" A- | A4 |] %32
+w: old Chi- na town||
+

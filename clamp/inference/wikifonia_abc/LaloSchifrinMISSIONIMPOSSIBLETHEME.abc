@@ -1,0 +1,33 @@
+X:1
+T:Mission Impossible Theme
+T:Mission Impossible Theme
+C:Lalo Schifrin
+Z:All Rights Reserved
+L:1/8
+M:5/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Gm" G,2 z G,-G, z _B,2 C2 | G,2 z G,-G, z F,2 ^F,2 | G,2 z G,-G, z _B,2 C2 | %3
+w: ||~~~~~~~~~~ * * * *|
+w: |* ~~~~~~~~~ * * *||
+ G,2 z G,-G, z F,2 ^F,2 | (3_bgd- d6 z2 | (3_bg_d- d6 z2 | (3_bgc- c6 z2 | _Bc z2 z2 z4 | %8
+w: ||~~~~~~~ * * *|||
+w: ||~~~~~~~ * * *|||
+ g2 z g-g z"Bbm" _b2"Cm" c'2 |"Gm" g2 z g-g z"Fm" f2"F#m" ^f2 |"Gm" g2 (3_bg^f'- f'4 z2 | %11
+w: ||~~~~~~~ * * * *|
+w: ||~~~~~~~ * * * *|
+ z2 (3_bg=f'- f'4 z2 | z2 (3_bge'- e'4 z2 | _e'd' z2 z2 z4 |"Cm" _EC G,6 z2 | _EC _G,6 z2 | %16
+w: ||||* * ~~~~~~~|
+w: ||||* * ~~~~~~~|
+ _EC F,6 z2 | _E,F, z2 z2 z4 |"Gm" _BG ^f6 z2 | _BG =f6 z2 | _BG e6 z2 | %21
+w: |||||
+w: |||||
+"Dsus4" _ed z A-A z"Ebsus4" _B2"Fsus4" c2 |"Dsus4" A2 z2 z2"Bb/Ab" f"Eb/Db" g3- | %23
+w: ||
+w: ||
+ g4- !fermata!g4 z2 |] %24
+w: |
+w: |
+

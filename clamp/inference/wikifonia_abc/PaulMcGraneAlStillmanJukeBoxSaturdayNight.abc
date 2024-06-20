@@ -1,0 +1,26 @@
+X:1
+T:Juke Box Saturday Night
+T:Juke Box Saturday Night
+C:Paul McGrane
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" F>CE>F- F>CE>F- | F A3- A4 | F C2 F- F G3 |"F7" A8 |"Bb" B>FA>B- B>FA>B- | B d3- d4 | %6
+w: Mop- pin' up so- * da pop rick-|* eys *|to our hearts * de-|light|Danc- in' to swing- * er- oo quick-|* ies, *|
+"F" c2"Ab+7" =B2"Gm7" _B^G"C7"AF- |"F" F8 |"F" F>CE>F- F>CE>F- | F A3- A4 | F C2 F- F G3 |"F" A8 | %12
+w: Juke box Sat- ur- day night||Good- man and Ky- * ser and Mil-|* ler *|help to make * things|bright,|
+"Bb" B>FA>B- B>FA>B- | B d3- d4 |"F" c2"Ab+7" =B2"Gm7" _B^G"C7"AF- |"F""Gmaj7""F" F8 | %16
+w: mix- in' hot licks * with van- il-|* la, *|Juke box Sat- ur- day night||
+"Cm7" G F2 G-"F7" G F3 |"Cm7" d3 c-"F7" c4 |"Bb" G2 F2"F+7" A F2 G |"Bb" G8 | %20
+w: They put noth '- in'|past us *|me and hon- ey lamb,||
+"Dm7" A G2 A-"G7" A G3 |"Dm7" e3"G7" d2- d3 |"Gm7" c c3 B2 BG- |"C7" G8 |"F" F>CE>F- F>CE>F- | %25
+w: mak- in' one * coke|last us, *|'til it's time to scram.||Mon- ey, we real- * ly don't need|
+ F A3- A4 | F C2 F- F G3 |"F7" A8 |"Bb" B>FA>B- B>FA>B- | B d3- d4 | %30
+w: * that, *|we make out * al-|right,|let- tin' the oth- * er- guy feed|* that, *|
+"F" c2"Ab+7" =B2"Gm7" _B^G"C7"AF- |1"F""Gm7""C7" F8- :|2"F" F8 |] %33
+w: Juke box Sat- ur- day night.|||
+

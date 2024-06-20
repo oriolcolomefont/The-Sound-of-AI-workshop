@@ -1,0 +1,16 @@
+X:1
+T:Italian Polka
+T:Italien Polka
+T:Traditionel
+T:
+C:Traditionel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 21
+V:1
+"G" B2 dc B2 GB | d2 dc B4 | G2 B2 d2 B2 |"D" c2 cB A4 | A2 cB A2 Bc | d2 cB A4 | A2 Bc d2 e2 | %7
+ dcBA"G" G4 || d4 B4 | GA B2"D" c2 B2 | A4 d4 | cB A2"G" G4 :| %12
+

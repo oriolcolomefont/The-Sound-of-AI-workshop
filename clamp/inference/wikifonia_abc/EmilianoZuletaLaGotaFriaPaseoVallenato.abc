@@ -1,0 +1,31 @@
+X:1
+T:La Gota Fria (Paseo Vallenato)
+T:(Paseo Vallenato)
+T:Transcripción: ALBERTO BETANCOURT
+T:EMILIANO ZULETA
+C:Emiliano Zuleta
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^acordeon""Am" e4- eceg | e4- eceg | e4- eceg | e3 g e3 g | e8 | z AAB cBcd | e2 e2 e2 e2 | %7
+"E7" e4 dfed |"Am" c2 A2 z2"^voz" EE | AAAB cBcd | eeee eeee |"E7" eeee edcB |"Am" c2 A2 z2 ce- |: %13
+ e c2 d e2 cd- |"E7" d B3 z2 df- | f d2 e f2 de- |1"Am" e c3 z2 ce- :|1"Am" e c3 z4 || %18
+"^acordeon""C" z ceg g2 fe- |"G7" e d3 z4 | z Bdf d2 fa- |"C" a g2 e e2 z2 |:"^voz" eeed c2 eg- | %23
+"G7" g f3 z4 | dddd f2 ff- |1"C" f e3 z4 :|1"C" f e3 z2 Ac- |:"Am" c c2 c e2 dc- | %28
+"E7" c B2 d d2 ef- | f d2 e f2 de- |1"Am" e c3 z2 Ac- :|1"Am" e c2 e e2 ee- |: eeee f2 ed- | %33
+"E7" d2 z2 z2 ef- | f d2 e f2 de- |1"Am" e c2 e e2 ee- :|1"Am" e c2 z c2 cc- || c c2 c d2 dc- | %38
+"E7" c B3 z2 ef- | f d2 e f2 de- |"Am" e c2 z c2 cc- | c A2 E d2 dc- |"E7" c B3 z2 ef- | %43
+ f d2 e f2 de-O ||"Am" e c3"^D.C. al Coda" z4 |]O e"Am" c3 z2"^acordeon" ee | AAAB cBcd | %47
+ e2 ee aaaa |"E7sus4" aaaa eeed |"Am" c2 A2 z2 E"^voz"E | AAAB cBcd | e2 e2 z2 ee | %52
+"E7" e2 ee BdcB |"Am" c4 z2 Ae- |: e c2 d e2 cd- |"E7" d2 z2 z2 ef- | f d2 e f2 de- |1 %57
+"Am" e c3 z2 Ae- :|1"Am" e c3 z2 cc- |: c A2 E d2 dc- |"E7" c B3 z2 ef- | f d2 e f2 de- |1 %62
+"Am" e2 z2 z2 cc- :|1"Am" e2 z"^acordeon" E A2 ce |: A2 ce A2 ce- |"E7" e d2 E B2 df | %66
+ B2 df B2 df- |"Am" f e2 E"^Fade out" A2 ce :| %68
+

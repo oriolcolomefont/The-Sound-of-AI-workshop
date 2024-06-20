@@ -1,0 +1,25 @@
+X:1
+T:Why Don't You Believe me?
+T:Why Don't You Believe Me?
+T:Arr; Wim Alderding
+C:?
+Z:All Rights Reserved
+L:1/4
+Q:1/4=92
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"A" z [CEAc]"A#dim" [CEAc] d/e/ |"Bm" [FAc]2 [DFB]2 |"Dm" z [D=FGB]"E7" [DFGB] c/B/ |"A" [A,CE]4 | %4
+"A" z [=C^DFA]"Adim" [CDFA] B/A/ |"Bm" [B,D]2 [B,D]2 |"E7" z ^E/F/ A G |"A" [CEF]4 | %8
+"A" z [CEAc]"A#dim" [CEAc] d/e/ |"Bm" [FAc]2 [DFAB]2 |"Dm" z [D=FGB]"E7" [DFGB] [Gc]/[GB]/ | %11
+"A" [A,CE]4 |"A" z [=C^DFA]"Adim" [CDFA] [^CEB]/[CEA]/ |"Bm" [B,D]2 [B,D]2 | %14
+"E7" z [DEG] [DEG] [Gc]/[GB]/ |"A" [CEA]4 ||"Em7" A =G/F/"A7" E F/G/ |"D" B"B7" [^DFA]3 | %18
+"Em7" A =G/F/"A7" E F/G/ |"D" [DFA]4 |"F#m7" [FB] [FA]/G/"B" [^DF] G/A/ |"E" c"C#7" [=FB]2 [FB] | %22
+"F#7" c ^A"B7" ^d B |"E7" [EGBe]4 |"A" z [EAc]"A#dim" [EAc] d/e/ |"Bm" [FAc]2 [DFAB]2 | %26
+"Dm" z [=FB]"E7" [GB] [Gc]/[GB]/ |"A" [CE]4 |"A" z [CEA]"Adim" [CEA] [CEB]/[CEA]/ | %29
+"Bm" [B,D]2 [B,D]2 |"E7" z [DEG] [DEG] [DEGc]/[DEGB]/ |"A" [CEA]4 |] %32
+

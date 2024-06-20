@@ -1,0 +1,20 @@
+X:1
+T:Sing, Sing, Sing
+T:Sing, Sing, Sing
+T:Louis Prima
+C:Louis Prima
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Em" B2"B7" A2 |"Em" G2"B7" A2 |"Em" z/ B B/"B7" A A |"Em" G A"B7" B2 |"Em" e e"B7" B2 | %5
+"Em" e e"B7" B2 |"Em" B G A B |"Am" A"B7" G/"Em"E/- E z |"Em" B2"B7" A2 |"Em" G2"B7" A2 | %10
+"Em" z/ B B/"B7" A A |"Em" G A"B7" B2 |"Em" e e"B7" B2 |"Em" e e"B7" B2 |"Em" B G A B | %15
+"Am" A"B7" G/E/-"Em" E z |"G" G G"D7" A B |"G" G B"D7" A2 |"Am7" d d"D7" d3/2 c/ |"G" B G G2 | %20
+"G" G G"D7" A B |"G" G B"D7" A2 |"G" B d"D7" d e |"G" B G G"B7" z |"Em" B2"B7" A2 |"Em" G2"B7" A2 | %26
+"Em" z/ B B/"B7" A A |"Em" G A"B7" B2 |"Em" e e"B7" B2 |"Em" e e"B7" B2 |"Em" B G A B | %31
+"Am" A"B7" G/"Em"E/- E z :| %32
+

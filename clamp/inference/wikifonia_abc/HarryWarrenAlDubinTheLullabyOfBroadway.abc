@@ -1,0 +1,39 @@
+X:1
+T:The Lullaby Of Broadway
+T:The Lullaby Of Broadway
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C" z3/4 E/<E/E/4 E E |"G7" E/ D F/- F2 | z3/4 D/<D/D/4 D D |"C" D C3 | z3/4 E/<E/E/4 E E | %5
+w: Come- on a- long and|list- en to *|the lul- la- by of|Broad- way.|The hip hoo- ray and|
+w: ||||The hi- dee- hi and|
+"G7" E/ D F/- F2 | z3/4 D/<D/D/4 D D |"C" D C3 |"F" z3/4 A/<A/A/4 A G |"Gm7" A/ G _B/-"C7" B2 | %10
+w: bal- ly- hoo, *|the lul- la- by of|Broad- way.|The rum- ble of the|sub- way train, *|
+w: boop- a- doo, *|the lul- la- by of|Broad- way.|The band be- gins to|go to town, *|
+"Gm7" z3/4 G/<G/G/4"C9" G G |"F" G F3 |"F" z3/4 A/<A/A/4 A G |"Gm7" A/ G _B/-"C9" B2 | %14
+w: The rat- tle of the|tax- is.|The daf- fy- dils who|en- ter- tain *|
+w: and ev- 'ry one goes|cra- zy.|You rock- a- bye your|ba- by 'round *|
+"Gm7" z3/4 G/<G/G/4"C9" G G |"F" G F"G7" G3/2 F/ |"C" E E"A7" E E |"Dm7" E/ D F/- F2 | %18
+w: at An- ge- lo's and|Max- ie's. When a|Broad- way- ba by|says "Good- night,' *|
+w: 'til ev- 'ry things get|haz- y. Hush- a-|bye, I'll buy you|this and that *|
+ z3/4 D/<D/D/4"G7" D D |"C" D C3 | z3/4 E/<E/E/4"A7" E E |"Dm7" E/ D F/-"Fm6" F2 |"G7" z D E F | %23
+w: it's ear ly in the|morn- ing.|Man- hat- tan ba- bies|don't sleep tight *|un til the|
+w: you hear a dad- dy|say- ing.|And ba- by goes home|to her flat *|to sleep all|
+"C7" G4 ||[K:F]"F" A4 |"Gm7" B4 |"F" A4 |"C9" G4 |"F""F7" A4 |"Bb""Bbm6" B4 |"F" A A"C9" G G/F/- | %31
+w: dawn:|Good-|night|Ba-|by,|good-|night|milk- man's on his way.|
+w: day:||||||||
+"F" F4 | A4 |"Gm7" B4 |"F" A4 |"C9" G4 |"F""F7" A4 |"Bb""Bbm6" B4 |1"F" A A"C9" G G/F/- || %39
+w: |Sleep|tight,|Ba-|by,|sleep|tight,|let's call it a day|
+w: ||||||||
+"F" F3/2 G/-"G7" G2 :|2"F" A"C7" B"G#dim" =B"F" c/"Db"_d/- || _d4 |"Gm7" =d B G D | %43
+w: * Hey! *|Let's call it a day.||List- en to the|
+w: ||||
+"F" c A"Dm" F D |"Db9" _A2"C9" =A2 |"F" c4- | !fermata!c z z2 |] %47
+w: lul- la- by of|old Broad-|way.-||
+w: ||||
+

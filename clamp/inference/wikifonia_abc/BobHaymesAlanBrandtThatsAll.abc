@@ -1,0 +1,30 @@
+X:1
+T:That's All
+T:That's All
+C:Bob Haymes
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ EF |"C" GBGE"Dm7" GBGE |"Em7" GG-"Fm7" G4"G7" EF |"Em7" GBGE"A9" GBGE |"Dm7""G7" G6 AB | %5
+w: I can|on- ly give you love that lasts for-|ev- er, _ And the|pro- mise to be near each time you|call; and the|
+"F#m7b5" cecA"Fm7" c3 A |"Em7" cecA"Ebdim7" c3 A |"Em7""A7b9" G6 E2 |"D7b5""G7" D6 EF | %9
+w: on- ly heart I own, for|you and you a- lone, that's|all, that's|all. I can|
+"C" GBGE"Dm7" GBGE |"Em7" GG-"Fm7" G4"G7" EF |"Em7" GBGE"A9" GBGE |"Dm7""G7" G6 AB | %13
+w: on- ly give you count- try walks in|spring- time, _ and a|hand to hold when leaves be- gin to|fall; and a|
+"F#m7b5" cecA"Fm7" c3 A |"Em7" cecA"Ebdim7" c3 A |"Em7""Eb7""Dm7" G6"G7" E2 |"F""Ab7""C" C6 Cc | %17
+w: love whose burn- ing light, will|warm the win- ter night, that's|all, that's|all. There are|
+"Gm7" A2 Cc"C9" A2 Cc |"Fmaj9" A2"D9" A4 Cc |"Gm7" A2 Cc"C9" A2 Cc |"Fmaj7""F6" A6 Dd | %21
+w: those I am sure who have|told you they would|give you the world for a|toy. All I|
+"Am7" B2 Dd"D9" B2 Dd |"Gmaj7" B2"E9" B4 Dd |"Am7" B2 Dd"D9" B2 DB |"Dm7""G7" G6 EF | %25
+w: have are these arms to en-|fold you and a|love time can nev- er de-|stroy; If you're|
+"C" GBGE"Dm7" GBGE |"Em7" GG-"Fm7" G4"G7" EF |"Em7" GBGE"A9" GBGE |"Dm7""G7" G6 AB | %29
+w: won- d'ring what I'm ask- ing in re-|turn dear, _ you'll be|glad to know that my de- mands are|small: say it's|
+"F#m7b5" cecA"Fm7" c3 A |"Em7" cecA"Ebdim7" c3 A |"Em7""Eb7""Dm7" G6"G7" E2 |"C" C8 |] %33
+w: me that you a- dore, for|now and ev- er- more, that's|all, that's|all.|
+

@@ -1,0 +1,24 @@
+X:1
+T:Bourbon Street Parade
+T:Bourbon Street Parade
+C:Paul Barbarin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^INTRO: Horns Only" (3F2 C2 F2 (3A2 F2 A2 | c8 | A c2 A F A2 F | C2 C2 D2 E2 |:"F" z4 A4 | %5
+w: ||||Let's|
+ E3 F- F4 | z4 A4 |"F" E3 F- F4 | z4 A4 | E4 F3 B- |"C7" B8- | B8 | z4 B4 | ^F3 G- G4 | z4 B4 | %15
+w: fly down, _|or|drive down, _|to|New Or- leans.|_||That|cit- y, _|it's|
+"C7" ^F3 G- G4 | z4 c4 | c4 B3 A- |"F" A8- |"C7" A8 || z4 A4 | E3 F- F4 | z4 A4 |"C7" E3 F- F4 | %24
+w: pret- ty, _|hist-|or- ic scenes..|_||I'll|take you, _|par-|ade you, _|
+ A6 A2 |"F7" G4 F3 d- |"Bb" d8- | d8 ||"Bb" F3 F E2 F2 |"Bdim" G3 F- F4 |"F" A3 A ^G2 A2 | %31
+w: down on|Bour- bon Street!|_||We'll hit all the|hot spots, _|You'll meet all the|
+"D7" B3 A- A4 |"G7" D4 A4 |"C7" E4 A4 |1"F" F2 z2 z4 |"C7" z8 :|2"F" F2 z2 z4 |] %37
+w: big shots, _|down on|Bour- bon|Street!||Street!|
+

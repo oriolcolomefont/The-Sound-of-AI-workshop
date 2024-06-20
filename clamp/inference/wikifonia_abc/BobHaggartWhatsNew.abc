@@ -1,0 +1,30 @@
+X:1
+T:What's New
+C:Bob Haggart
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 0
+V:1
+"G7" B2>c2- ||"C6" c8 |"Bbm9" z2 (3c_B_A"Eb7" GFE_E- |"Abmaj7" _E8 |z"^Dm7(b5)"D _ED"G7" ^C2 D2 | %5
+w: What's new?|_|How is the world treat- ing you?|_|You have- n't changed a|
+"Cm" G8"^Am7(b5)" |z"^Dm7(b5)"F GF"^G7(#5)" _E2 [B,D]2 | D"C6"CCC-"Am7" C4 |"Dm7" z4"G7" B2>c2- || %9
+w: bit;|love- ly as ev- er,|I must ad- mit. _|What's new?|
+"C6" c8 | z2"Bbm9" (3c_B_A"Eb7" GFE_E- |"Abmaj7" _E8 |z"^Dm7(b5)"D _ED"G7" ^C2 D2 | %13
+w: _|How did that ro- mance come through?|_|We have- n't met since|
+"Cm" G8"^Am7(b5)" |z"^Dm7(b5)"F GF"^G7(#5)" _E2 [B,D]2 |"C6" DCCC- C4 |"C9sus4" z4"C7" e2>f2- || %17
+w: then,|gee, but it's nice to|see you a- gain. _|What's new?|
+"F6" f8 | z2"Ebm9" (3f_e_d c"Ab7"_BA_A- |"Dbmaj7" _A8 |z"^Gm7(b5)"G _AG"C7" ^F2 G2 | %21
+w: _|Pro- ba- bly I'm bor- ing you,|_|but see- ing you is|
+"Fm" c8"^Dm7(b5)" |z_B"^Gm7(b5)" cB"^C7(#5)" _A2 [EG]2 |"Fm" GFCF- F4 | %24
+w: grand,|and you were sweet to|of- fer your hand, _|
+ _A"^Dm7(b5)"GDG-"G7" G2 B2 ||"C6" c8 | z2"Bbm9" (3c_B_A"Eb7" GFE_E- |"Abmaj7" _E8 | %28
+w: I un- der- stand. _ A-|dieu,|par- don my ask- ing what's new,|_|
+z"^Dm7(b5)"D _ED"G7" ^C2 D2 |"Cm" G8"^Am7(b5)" |z"^Dm7(b5)"F GF"^G7(#5)" _E2 [B,D]2 | %31
+w: of course you could- n't|know|I have- n't changed, I|
+"C6" DCCC-"^(Am7" C4 |"Dm7" z8"G7""^)" |] %33
+w: still love you so. _||
+

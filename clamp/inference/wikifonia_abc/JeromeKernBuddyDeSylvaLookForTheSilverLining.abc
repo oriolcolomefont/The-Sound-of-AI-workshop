@@ -1,0 +1,26 @@
+X:1
+T:Look For The Silver Lining
+T:Look for the Silver Lining
+T:Jerome Kern + Bud de Sylva
+T:Medium Swing
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 4
+V:1
+"Ebmaj7" G2 G2- |"Fm7" G A"Bb7" F G |"Ebmaj7" E2 E2- |"Fm7" E F"Bb7" G A |"Gm7" B2 B2 | %5
+w: Look for|* the sil- ver|lin- ing|* when- e'er a|cloud ap-|
+"Abmaj7" e d2 c |"Gm7" B4- |"C7b9" B E F G |"Fm7" A2 A2- |"Bb7" A C D F |"Gm7" B2 B2- | %11
+w: pears in the|blue|* re- mem- berr|some- where|* the sun is|shin- ing|
+"Cm7" B G B c |"F7" e2 e2- | e2 d2 |"Fm7/Bb" B3/2 c/ B3/2 c/ |"Bb7" B3/2 c/ A3/2 B/ || %16
+w: * and so the|right thing|* to|do is make it|shine for you a|
+"Ebmaj7" G2 G2- |"Fm7" G A"Bb7" F G |"Ebmaj7" E2 E2- |"Fm7" E F"Bb7" G A |"Bbm7" B2 B2 | %21
+w: hear full|* of joy and|glad- ness|* will al- ways|ban- ish|
+"Eb7" B A2 G |"Abmaj7" c4- |"Gb7b5" c c =B c |"F13" f2 d2- |"D7b9/F#" d e c d |"Gm7" B2 B2- | %27
+w: sad- ness and|strife|* so al- ways|look for|* the sil- ver|lin- ing|
+"C7" B G d c |"Fm7" A2 A2 |"Bb7b9" A/B/ G2 F |"Ebmaj7" E4- | E3 z |] %32
+w: * and try to|find the|sun- ny side of|life.||
+

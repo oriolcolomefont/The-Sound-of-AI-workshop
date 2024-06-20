@@ -1,0 +1,17 @@
+X:1
+T:Ievan Polkka
+T:Ievan Polkka 
+T:Loituma
+C:Finnish folk song
+Z:Public Domain
+L:1/4
+Q:1/4=140
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 71
+V:1
+"Dm" A, D D3/2 E/ | F D D F/G/ |"C" E C C E |"Dm" F D D2 |"Dm" A, D D3/2 E/ | F D D F | %6
+"C" A A/G/ F E |"Dm" F D D F/G/ |"Dm" A A G/G/ F |"C" E C C E | G G F/F/ E |"Dm" F D D F/G/ | %12
+"Dm" A A G/G/ F |"C" E C C E | G G F/F/ E |"Dm" F D D2 |] %16
+

@@ -1,0 +1,26 @@
+X:1
+T:Everybody Ought to Go to Sunday School
+T:Everybody Ought to Go to Sunday School
+T:Composer:Unknown Arranger:  Larry Johnson, 2011
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"Eb" B>B B>B"Ab" c>c c>c |"Eb" B2 B2 G4 |"Bbsus4" F2 F2"Bb" B4 |"Eb" G2 G2 B3 B | %4
+w: Ev ery bo dy ought to go to|sun day school|sun day school|sun day school the|
+"Ab" c2 cc"Eb" B2 BB |"Bb7" A2 AA"Eb" G4 | B>B E>E"Cm" G>G E>E |"Fm" F2"Bb" F2"Eb" E4 | %8
+w: boys and the girls and the|moms and the dads|ev ery bo dy ought to go to|sun day school|
+"Eb" B>B B>B"Ab" c>c c>c |"Eb" B2 B2 G4 |"Bbsus4" F2 F2"Bb" B4 |"Eb" G2 G2 B3 B | %12
+w: ev ery bo dy ought to know the|gol den rule|gol den rule|gol den rule the|
+"Ab" c2 cc"Eb" B2 BB |"Bb7" A2 AA"Eb" G4 | B>B E>E"Cm" G>G E>E |"Fm" F2"Bb" F2"Eb" E4 | %16
+w: boys and the girls and the|moms and the dads.|ev ery bo dy ought to know the|gol den rule|
+"Eb" B>B B>B"Ab" c>c c>c |"Eb" B2 B2 G4 |"Bbsus4" F2 F2"Bb" B4 |"Eb" G2 G2 B3 B | %20
+w: Ev ery bo dy ought to go to|sun day school|sun day school|sun day school the|
+"Ab" c2 cc"Eb" B2 BB |"Bb7" A2 AA"Eb" G4 | B>B E>E"Cm" G>G E>E |"Fm" F2"Bb" F2"Eb" E4 |] %24
+w: boys and the girls and the|moms and the dads|ev ery bo dy ought to go to|sun day school|
+

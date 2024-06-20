@@ -1,0 +1,34 @@
+X:1
+T:What's The Use Of Wonderin'
+T:What's The Use Of Wonderin'
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" c>Bc>B"Am" A C2 B,/C/ |"Dm" D>EF>G"G9" A3 G |"C" C>DE>F"A7" G>AB>^c | %3
+w: What's the use of won- d'rin' if he's|good or if he's bad, Or|if you like the way he wears his|
+"D7""D7b5/Ab" d6"Ab7" ^d2 |"C/G" e>dc>B"Am" c E2 ^D/E/ |"F" B>A"C/E"G>F"Dm7" C3 C/D/ | %6
+w: hat? Oh,|what's the use of won- d'rin' if he's|good or if he's bad? He's your|
+"C" E>FG>A"A7" B ^c3 |"D7" z2 d2"Dm7/G" c>B"G9"A>B |"C""Am" c8- |"Dm7/F" c4 z4 | %10
+w: fel- ler and you love him,|That's all there is to|that.|_|
+"C" c>Bc>B"Am" A C2 B,/C/ |"Dm" D>EF>G"G9" A3 G |"C" C>DE>F"A7" G>AB>^c | %13
+w: Com- mon sense may tell you that the|end- ing will be sad, And|now's the time to break and run a-|
+"D7""D7b5/Ab" d6"Ab7" ^d2 |"C/G" e>dc>B"Am" c E2 ^D/E/ |"F" B>A"C/E"G>F"Dm7" C3 C/D/ | %16
+w: way. But|what's the use of won- d'rin' if the|end- ing will be sad? He's yer|
+"C" E>FG>A"A7" B ^c3 |"D7" z2 d2"Dm7/G" c>B"G9"A>B |"C""Am" c8- |"Dm7/F" c4 z4 |"F" C2 F4 (3FED | %21
+w: fel- ler and you love him,|There's noth- ing more to|say.|_|Some- thin' made him the|
+"C9" CDDD- D4 |"F" EFFF- F2"F#dim" A2 |"Gm7" _B6"C13" A2 |"F" C2 F4 (3FED |"C9" CDDD- D4 | %26
+w: way that he is, _|Wheth- er he's false _ or|true, And|some- thin' gave him the|things that are his, _|
+"F" EFFF- F2"B7" A2 |"E9""A+7" B6"D9""G+7" B2 |"C" c>Bc>B"Am" A C2 B,/C/ |"Dm" D>EF>G"G9" A3 G | %30
+w: One of these things _ is|you, so|When he wants your kiss- es you will|give them to the lad, And|
+"C" C>DE>F"A7" G>AB>^c |"D7" d6"Ab7" ^d2 |"C/G" e>dc>B"Am" c E2 ^D/E/ | %33
+w: an- y- where he leads you, you will|walk. And|an- y- time he needs you, You'll go|
+"F" B>A"C/E"G>F"Dm7" c3 C/D/ |"C" E>FG>A"A7" B ^c3 |"D7" z2 d2"Dm7/G" c>B"G9"A>B |1"C""Am" c8- | %37
+w: run- ning there like mad. You're his|girl and he's yer fel- ler|And all the rest is|talk.|
+"Dm7/F" c4"C/G" z2"G7" z2 :|2"C""Fmaj7" c8- |"C" c4 z4 |] %40
+w: _|talk.|_|
+

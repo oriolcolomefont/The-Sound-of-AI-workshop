@@ -1,0 +1,31 @@
+X:1
+T:Misty
+T:MISTY
+T:ERROL  GARNER
+C:Errol Garner
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z z cA z4 |:"F" E6 CD |"Cm" _Eddd"F" dcAF |"Bb" D2 A,_B, D2 FA |"Bbm" ccc_B"Eb7" c2 _B z | %5
+w: Look at|me, I'm as|help- less as a kit- ten up a|tree And I feel like I'm|cling- ing to a cloud, I|
+w: |way and a|thou- sand ci- o- lins be- gin to|play, Or I might be the|sound of your hel- lo, That|
+"F" A2 _Bc"Dm" F2 GA |"Gm7" _B2 DD"C7" E2 FG |"A""^1)---------------------------------" A8- | %8
+w: can't un- der- stand, I get|mist- y just hold- ing your|hand.|
+w: mu- sic I hear, I get|mist- y the mo- ment you're||
+"G7" A4"C7" z z cA :|"F""^2)----------" F8 | z z FG A2 cd |"Cm7" _e2 _e_e _e4- |"F7" e2 z2 f_gf_e | %13
+w: * Walk my|near.|You can say that you're|lead- ing me on|* it's just what I|
+w: |||||
+"Bb" d2 dd d4 | z FG _B2 cd z |"Bm" eeed e4 |"E" e2 ed"G" g2 ed |"C7" c8- | c4 z cA z |"F" E6 CD | %20
+w: want you to do,|Dont you no- tice how|hope- less- ly I'm lost,|That's why I'm fol- low- ing|you|* On my|own, would I|
+w: |||||||
+"Cm" _Eddd"F7" dcAF |"Bb" D2 A,_B, D2 FA |"Bbm" ccc"Eb7"_B z c2 _B |"F" A2 Bc"Dm" F2 GA | %24
+w: wan- der through this won- der- land a-|lone- Nev- er know- ing my|right foot from my left, My|hat from my glove, I'm too|
+w: ||||
+"Gm7" _B2 DD"C7" E2 FG |"F" f''' F7 | F6 z2 | z8 | z8 | z z z2 z4 | z8 |] %31
+w: mist- y and too much in|||||||
+w: |||||||
+

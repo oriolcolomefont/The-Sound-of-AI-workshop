@@ -1,0 +1,52 @@
+X:1
+T:He Is Here
+T:He Is Here
+T:Kirk Talley, 1990
+C:Kirk Talley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 8
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 |[Q:1/4=90] z4 C2 D2 |"C" E2 z2"F/C" F3 F |"C" EDC z E2"Dm/C" F2 | %8
+w: |||||He is|here hal le|lu _ jah He is|
+"C" G2 z2"F/C" A3 G |"C" G2 z2 E2 G2 | c2 z2"F/C" c3 c |"C" cA G2 G2"G7sus4/D" G2 | %12
+w: here a men|_ He is|here ho ly|ho _ ly I will|
+"C/E" G2 z G"F" F2"C" E2 |"Gsus4" D3"G" z"F/A" C2"G7" D2 |"C" E2 z2"F/C" F3 F | %15
+w: bless his name a|gain He is|here lis ten|
+"C" EDC z E2"Dm/C" F2 |"C" G3 G"F" A G2 F |"C" G2 z2 E2 G2 |"C/Bb" c2 z2"F/A" c3 c | %19
+w: close _ ly He is|cal ling out _ your|name He is|here you can|
+"C/G" cG z2"F" A2"C/E" G2 |"C/G" E3 C"G7" E D2 C |"C" C8- | C6 z2 |"G" z2 G2 G3 G | G3 D D3 E | %25
+w: touch Him you will|nev er be _ the|same|_|I sense an|awesome mov _ ing|
+"F" F4"G7" F2 FF |"C" E C3 z4 |"G" z2 G2 G3 A | G3 D D4 |"F" F3 F"G7" F3 G |"C" E4 z4 | %31
+w: of the ho ly|spi rit|I see His|coun te nence|rest ing on your|face|
+"G" z2 G2 G3 A | G3 D D3 E |"F" F3 F"G7" G3 A |"C" GE/D/ C2 z3 E/F/ |"C/E" G3 G"F" A3 A | %36
+w: I know that|there are an gels|hov ring all a|round _ _ us for the|pres ence of the|
+"C/E" G E2"F/G" F"G7" E2 D2 |"C" C8- | C2 z2 C2 D2 |"C" E2 z2"F/C" F3 F |"C" EDC z E2"Dm/C" F2 | %41
+w: Lord is _ in this|place|_ He is|here hal le|lu _ jah He is|
+"C" G2 z2"F/C" A3 G |"C" G2 z2 E2 G2 | c2 z2"F/C" c3 c |"C" cA G2 G2"G7sus4/D" G2 | %45
+w: here a men|_ He is|here ho ly|ho _ ly I will|
+"C/E" G2 z G"F" F2"C" E2 |"Gsus4" D3"G" z"F/A" C2"G7" D2 |"C" E2 z2"F/C" F3 F | %48
+w: bless his name a|gain He is|here lis ten|
+"C" EDC z E2"Dm/C" F2 |"C" G3 G"F" A G2 F |"C" G2 z2 E2 G2 |"C/Bb" c2 z2"F/A" c3 c | %52
+w: close _ ly He is|cal ling out _ your|name He is|here you can|
+"C/G" cG z2"F" A2"C/E" G2 |"C/G" E3 C"G7" E D2 C |"C" C8- | C6 z2 |"G" z2 G2 G3 G | G3 D D3 E | %58
+w: touch Him you will|nev er be _ the|same|_|I searched for|peace a mong the|
+"F" F4"G7" F2 FF |"C" E C3 z4 |"G" z2 G2 G3 A | G3 D D4 |"F" F3 F"G7" F3 G |"C" E4 z4 | %64
+w: shad dows dark and|lone ly|I gave up|on find ing|that long and lasting|love|
+"G" z2 G2 G3 A | G3 D D3 E |"F" F3 F"G7" G3 A |"C" GE/D/ C2 z3 E/F/ |"C/E" G3 G"F" A3 A | %69
+w: I tast ed|all the things that|sin could think to|of fer _ me but to|day I feast on|
+"C/E" G E2"F/G" F"G7" E2 D2 |"C" C8- | C2 z2 C2 D2 |"C" E2 z2"F/C" F3 F |"C" EDC z E2"Dm/C" F2 | %74
+w: man na _ _ from|above.|_ He is|here hal le|lu _ jah He is|
+"C" G2 z2"F/C" A3 G |"C" G2 z2 E2 G2 | c2 z2"F/C" c3 c |"C" cA G2 G2"G7sus4/D" G2 | %78
+w: here a men|_ He is|here ho ly|ho _ ly I will|
+"C/E" G2 z G"F" F2"C" E2 |"Gsus4" D3"G" z"F/A" C2"G7" D2 |"C" E2 z2"F/C" F3 F | %81
+w: bless his name a|gain He is|here lis ten|
+"C" EDC z E2"Dm/C" F2 |"C" G3 G"F" A G2 F |"C" G2 z2 E2 G2 |"C/Bb" c2 z2"F/A" c3 c | %85
+w: close _ ly He is|cal ling out _ your|name He is|here you can|
+"C/G" cG z2"F" A2"C/E" G2 |"C/G" E3 C"G7" E D2 C |"C" C8- | C6 z2 | z8 | z8 | z8 | z8 |] %93
+w: touch Him you will|nev er be _ the|same|_|||||
+

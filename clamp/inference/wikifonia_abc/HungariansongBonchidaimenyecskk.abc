@@ -1,0 +1,17 @@
+X:1
+T:Bonchidai menyecskék
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" EGGG GE E2 |"G" CDDD"C" DC C2 |"C" EGGG GE E2 |"G" CDDC"Am" A,A, A,2 | CB,A,A, CB, A,2 | %5
+w: Bonc- hi- da- i me- nyecs- kék,|ug- rál- nak, mint a kecs- kék,|Sze- re- tõ- jük min- dig más,|az u- ruk csak rá- a- dás.|Áj- na...- * * * * *|
+"Dm" C D2 C"E" E2 E2 |"Am" CB,A,A, CB, A,2 |"E" C D2 C"Am" A,2 A,2 |] %8
+w: |||
+

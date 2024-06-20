@@ -1,0 +1,28 @@
+X:1
+T:Struttin' With Some Barbecue
+T:Struttin' With Some Barbecue
+C:Louis Armstrong, Lillian Nobles
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 CDEG |:"Cmaj7" !-(!B2 !-)!GB-"G+" B4- |"Cmaj7" B4"G+7" GGGA |"Cmaj7""Gdim" E8 |"C6" z4 CDEG | %5
+w: Strut- tin' with some|bar- be- cue, _|_ swing- in' with the|band;|like the hap- py|
+"Cmaj7" B2 BB-"G+" B4- |"Cmaj7" B A3"C#dim7" AGGA |"Dm7" D8 |"G7" z4 EFGA- | %9
+w: peo- ple do _|_ way down in dix- ie|land.|Hear that ol' trom-|
+"Dm" A3"A+" A-"Dm7" A4- |"G9" A2 GE"G7" GE"G#dim7"DE |"Am" C8 | z2 z B- BBBA |"Am7" B4"D9" BABd | %14
+w: * bone _|_ and the trum- pe ad _|lib.|Love * to hear the|lick while I do my|
+"Am7" BA-"D9" A6 |"G7" _BGAG !-(!B2 !-)!GG | z G G2 CDEG |"Cmaj7" !-(!B2 !-)!GB-"G+" B4- | %18
+w: pick- in', _|pick- in' on a juic- y rib.|'Cause I'm strut- tin' with some|bar- be- cue, _|
+"Cmaj7" B4"G+7" GGGA |"C" E8 | z4 CDEG |"C9" _B2 BB- B4- |"Gm7" B4-"C7" Bc _B2 |"F6" A A3- AEED- | %24
+w: _ feel- in' might- y|grand;|pass an- oth- er|help- in', please, _|_ _ of that|good ol' _ dix- ie- land.|
+ D4 z CDC | D D3- DDC"F7"_E- | E4- EGGF |"C" =E2 GB-"Em7" B4- |"A9" B2 z A ^G2 A2 | %29
+w: _ And mis- ter|wait- er, _ if you please,|_ _ an- oth- er|rib or two; _|_ and I'll go|
+"Dm7" c2 c2 c A2 _e- |"F#dim7" ecd_e"Dm7/G" d2 cc- |"C""A9" c8 |"G7" z4 CDEG :| %33
+w: strut, strut, strut- tin', strut-|* tin' with some bar- be- cue.|_|Strut- tin' with some|
+"C""C7""F""Fm6" c8- |"C""Db9" !fermata!c6"C9" z2 |] %35
+w: ||
+

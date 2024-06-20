@@ -1,0 +1,32 @@
+X:1
+T:How Insensitive
+T:How Insensitive
+T:Antonio Carlos Jobim
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm7" A8- | A2 BA- A B2 A- |"A7b9/C#" A8- | A2 BA- A B2 A- |"Cm6" A4- A ^G2 A | c =B2 _B- B A2 A- | %6
+w: How|* in- sen- * si- tive||* I must * have seemed|* * when she|told me that * she loved|
+w: Now,|* she's gone * a- way||* and I'm * a- lone|* * with the|mem- 'ry of * her last|
+"G7/B" A3 G- G4- | G4- G3 G- |"^Bbmaj76" G8- | G2 AG- G A2 G- |"Ebmaj7" G8- | G2 AG- G A2 G- | %12
+w: * me. *|* * How||* un- moved * and cold||* I must * have seemed|
+w: * look. *|* * Vague||* * drawn * and sad,||* I see * it still,|
+"Em7b5" G4 z ^F2 G |"A+7" B A2 ^G- G =G2 G- |"Dm" G3 F- F4- |"Dm7" F4- F3 F- |"F7/C" F8- | %17
+w: * when she|told me so * sin- cere-|* ly *|* * Why,||
+w: * all her|heart- breakin * * that last|* look. *|* * How,||
+ F2 GF- F G2 F- |"Bdim7" F8- | F2 GF- F G2 A- |"Bbmaj9" A6 F2 |"^A7b9sus" D2 ED-"A7b9" D E2 F- | %22
+w: * she must * have asked,||* did I * just turn|* and|stare in i- * cy si-|
+w: * she must * have asked,||* could I * just turn|* and|stare in i- * cy si-|
+"Dm7" F4 F4- | F4- F3 F- |"F7/C" F8- | F2 GF- F G2 E- |"E7/B" E8- | E2 FE- E F2 E- | %28
+w: * lence?|* * What||* was I * to say?||* What can * you say|
+w: * lence?|* * What||* was I * to say?||* What can * one do|
+"Gm6/Bb" E4 z ^D EG- |"A7b9" G ^F2 =F- F E2 E- |"Dm7" E3 D- D4- |"A7b9" D2 z2 z4 :| %32
+w: * when a love|* af- fair * is o-|* ver? *||
+w: * when a love||||
+

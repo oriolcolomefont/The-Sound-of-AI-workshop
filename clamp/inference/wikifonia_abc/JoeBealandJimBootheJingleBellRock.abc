@@ -1,0 +1,33 @@
+X:1
+T:Jingle-Bell Rock
+T:Jingle Bell Rock
+C:Joe Beal and Jim Boothe
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 26
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" c c c2 B B B2 | A B A E- E4 | A B A2"C#dim" E2 G2 |"Dm7" A B A2"G7" F4 | %4
+w: Jin- gle- bell, Jin- gle- bell,|Jin- gle- bell Rock _|Jin- gle- bell swing and|Jin- gle- bells ring|
+"Dm7" D E2 F"G7" G A2 G |"Dm7" D E F2"G7" G4 |"Dm7" z2 A ^G"G7" A G A2 |"G" A2 ^D D- D4 | %8
+w: Snow- in' and blow- in' up|bush- els of fun|Now the jin- gle- hop|has be- gun _|
+"C" cc c2 BB B2 | ABAE- E4 | AB A2"C#dim" E2 G2 |"Dm7" AB A2"G7" F4 |"Dm7" D E2 F"G7" G A2 G | %13
+w: Jin- gle- bell, Jin- gle- bell,|Jin- gle- bell Rock _|Jin- gle- bells chime in|Jin- gle- bell time|Dan- cin' and pran- cin- in|
+"Dm7" DE F2"G7" G4 |"D7" z2 AA"G7" B G2 c- |"C" c6"Dm7""C7" cc |"F" (c d2) c3 Ac | %17
+w: Jin- gle- bell Square|In the fros- ty air|_ What a|bright _ time, it's the|
+"F#dim" (c d2) c4 c |"C" c2 B2 A2 G2 | E4- E2 cc |"Am7" c d2"D7" c3 Ac |"Am7" d3 c-"D7" c4 | %22
+w: right _ time To|rock the night a-|way _ Jin- gle-|bell _ time is a|swell time _|
+"G7" z G G2"Dm7" GAAA |"G7" B A2 G3 z2 |"C" c c c2 B B B2 | A B A E- E4 | A B A2"Em7" E2 G2 | %27
+w: To go gli- din' in a|one- horse sleigh|Gid- dy- ap, jin- gle horse|pick up your feet _|Jin- gle a- round the|
+"A7" A8 |"F" A2 c2 ddcc |"Fm6" _AAcd- d4 |"D7" z2 cA"G7" BA G2 |1 %31
+w: clock|Mix and min- gle in a|jin- gl- in' beat _|That's the Jin- gle- bell|
+"C" c2-"C#dim" c2-"Dm7" c2"G7" z2 :|2"D7" z2 cA"G" BA G2 || z2 cA"G7" Bc d2 | %34
+w: Rock. _ _|That's the Jin- gle- bell,|That's the Jin- gle- bell|
+"F" c2-"C" c2-"Dm7" c2-"B" c2- |"C" c4- c2 z2 |] %36
+w: Rock. _ _ _|_ _|
+

@@ -1,0 +1,27 @@
+X:1
+T:He's a Tramp
+T:He's a tramp
+T:Peggy Lee and Sonny Burke
+C:Peggy Lee, Sonny Burke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ AF |"C7" G6"Gm7" AF |"C7" GA- A4 cA |"Gm" Bc- c4 cA |"C7" B6 cd |"F""E7" e6 de | %6
+w: He's a|tramp, but they|love him _ breaks a|new heart ev- * 'ry|day he's a|tramp they a-|
+"Eb" dc- c2 F2 AF |"G7" _AFGA"C7" G2 F2 |"F" F4"D7" z2 AF |"Gm" G6 AF |"C7" GA- A4 cA | %11
+w: dore him _ _ and I|on- ly hope he'll stay that|way he's a|tramp he's a|scoun- drel, _ he's a|
+"Gm" Bc- c4 cA |"C7" B6 cd |"F" e4"E7" ^G2 de |"Eb7" dc- c2 ^F2"D7" A=F |"G7" _AFGA"C7" GFDC | %16
+w: round- er, _ he's a|cad, He's a|tramp _ but I|love him _ _ and _|ev- en I have got it pret- ty|
+"F" F6 EF |"Cm" GG G4 F2 |"F7" GG G6 |"Bb" z F GA cB A2 | cB- B4"Dm" z2 | z A AG A3 G | %22
+w: bad You can|nev- er tell when|he'll show up|he gives you plen- ty of|troub- le _|I guess he's just a|
+"G7" A A2 A- A4 | z2 dc B3 A |"C7" G2 A2 BcAF |"Gm" G6 AF |"C7" GA- A4 cA |"Gm" B c2 c2 A B2- | %28
+w: no 'count pup. _|But I wish that|he were doub- le He's a|tramp he's a|ro- ver _ and there's|noth ing more to say|
+"C7" B4 cc d2 |"F" e4"E7" ^G2 de |"Eb7" dc- c2 ^F2 AF |"G7" _AFGA"C7" GF D2 |"F" F8- | %33
+w: _ If he's a|tramp _ he's a|good one _ _ And I|wish that I could trav- el his|way|
+ F2 z2 c2 z2 | F2 z2 z4 |] %35
+w: _||
+

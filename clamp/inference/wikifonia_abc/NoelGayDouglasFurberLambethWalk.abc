@@ -1,0 +1,36 @@
+X:1
+T:Lambeth Walk
+T:Lambeth Walk
+T:(from Me and My Girl)
+T:Noel Gay, Douglas Furber,
+C:Noel Gay
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F2 D D |"Gm7" G/G/- G"C7" C z/ C/ |"Cm" A A"D7" D z/ D/ |"Gm7" B B/G/- G z/ G/ | %4
+w: Lam- beth you've|nev- er * seen the|skies aint blue the|grass aint green * it|
+"A" c/A/- A"F7" c A | A/F/- F"Dm7" A/ z/ F | F D"Gm7" F/D/- D |"C7" C/D/- D"F" F z | %8
+w: has- nt * got the|May fair * touch but|that dont mat- ter *|ve- ry * much|
+"Am" A2 E3/2 E/ |"Dm" =B B"E7" E z |"A" A A ^F/ A F/ |"Dm" =B B"E7" E z/ E/ |"Am" c A/c/-"F" c A | %13
+w: we play the|Lam- beth way|not like you out a|bit more gay and|when we have * a|
+"D7" c/ A"Ab" d/- d z |"C7" z d d c- |"C" c2"^chorus:" z2 |:"F" c/c/-c/"Bb"d/- d"F" c | %17
+w: bit of fun *|Oh Boy *||An- y * time * you're|
+ A F/C/- C z | c/c/-c/"D7"d/- d c |"Gm7" B G/D/- D"D7" z |"Gm7" D3/2 G/- G B | d3 z | %22
+w: Lam- beth way *|an- y * eve- ning *|an- y day *|You'll find * us|all|
+"C7" e/ d d/ B G |"F" (F2"Bb" c)"C7" z |"F" c/c/-c/"Bb"d/- d"F" c | A F/C/- C z | %26
+w: do- in the Lam- beth|walk *|ev ry * lit- tle *|Lam- beth gal *|
+ c/c/-c/"D7"d/- d c |"^Gm76" B G/D/- D"D7" z |"Gm7" D3/2 G/ G d- | d2 z2 |"C7" e/ d d/ B G | %31
+w: with her * lit * tle|Lam- beth pal *|You'll find em all||do- in the Lam- beth|
+"F" (F3 c) |"D7" F/G/F/G/- G"G7" G |"C" G A"Am" z2 |"G7" A/=B/A/B/- B B |"Em" (=B"C" c) z2 | %36
+w: walk *|ev- ry- thing free * and|ea- sy|do as you darn * well|pleas- ey|
+"Em" =B/c/"F"B/c/-"D7" c c |"C" e c2 z |"G7" d G2 z |"C7" G c2 z |"F" c/c/-c/"Bb"d/- d"F" c | %41
+w: why dont you make * your|way there|go there|stay there|once you * get * down|
+ A F/C/- C z | c/-c/"D7"d/- d c z/ |"Gm7" B G/D/- D"D7" z |"Gm7" D2 G B | d3 z |"C7" e/ d d/ B G | %47
+w: Lam- beth way *|ev- ry ev- en- ing|ev- ry day *|you'll find your-|self|do- in the Lam- beth|
+"F" F3 z :|"F" F3 z |] %49
+w: walk|walk.|
+

@@ -1,0 +1,31 @@
+X:1
+T:Get Me to the Church on Time
+T:Get Me to the Church on Time
+T:Frederick Loewe
+C:Frederick Loewe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" D2 E3/2 D/ |"D7" ^C D C D |"G" G2 G2- | G4 |"G" D2 E3/2 D/ |"D7" B, D G A |"G" B4- | B4 | %8
+w: I'm get- ting|mar- ried in the|mor- ning||Ding dong the|bells are goin' to|chime||
+"Am7" A2 B3/2 A/ |"D7" ^G A z z |"Am7" A2 B3/2 A/ |"D7" ^G A z A |"Am7" d d d d | %13
+w: Pull out the|stop- per|Let's have a|whop- per but|get me to the|
+"C#7" =F2"D7" ^F2 |"G" G4- | G4 |"G" D2 E3/2 D/ |"D7" ^C D C D |"G" G2 G2- | G4 |"G" D2 E3/2 D/ | %21
+w: church on|time||I've got to|be there in the|morn- ing||Spruced up and|
+"D7" B, D G A |"G" B4- | B4 |"Am7" A2 B3/2 A/ |"D7" ^G A z z |"Am7" A2 B3/2 A/ |"D7" ^G A z A | %28
+w: look- ing in my|prime||Girls come and|kiss me|Show how you'll|miss me but|
+"Am7" d d d d |"C#7" =F2"D7" ^F2 |"G" G4- | G G F G |"C" E G3- | G G F G |"G" D4- | D G F G | %36
+w: get me to the|church on|time|* If I am|danc,- ing|* roll up the|floor|* if I am|
+"A7" E A3 | A3/2 G/ F E |"D7" D4- | D2 E2 |"G" D2 E3/2 D/ |"D7" ^C D C D |"G" G2 G2- | G4 | %44
+w: whist- ling|(Whistle) me out the|door|* for|I'm get- ting|mar- ried in the|morn- ing||
+"G" D2 E3/2 D/ | B, D G A | B4- |"E7" B4 |"Am" A2 B3/2 A/ | ^G A z _B |"G/D" B2 c3/2 B/ | %51
+w: Ding dong the|bells are goin' to|chime||Kick up a|rum- pus but|don't lose the|
+ ^A B z B |"Bm" d d d d |"Em" G4 |"Bm" d d d d |"A7" G3 B |"G/D" d2 d2 |"Em7" d B G E |"Am7" G4 | %59
+w: com- pass and|get me to the|church|Get me to the|church For|Gawd's sake|get me to the|church|
+"D7" A4 |"G" G4 |] %61
+w: on|time!|
+

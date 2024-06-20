@@ -1,0 +1,98 @@
+X:1
+T:Pan de Vida
+T:Pan de Vida
+T:Bob Hurd
+T:Bob Hurd, Pia Moriarty
+T:All Rights Reserved
+C:Bob Hurd
+Z:All Rights Reserved
+L:1/4
+Q:1/4=130
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G7sus4""^CHORUS - Written to be sung bi-lingual, but translations (below)\n                    can be use to sing in either.""^130" C D |: %1
+w: Pan de|
+w: (Bread of|
+w: |
+w: |
+w: |
+w: |
+w: |
+"C" E3 | E3- | E D E |"F" F2 E |"G" D3- |"G7sus4" D3- |"G7" D3 | z D E |"Dm" F3 |"Dm" F3 | %11
+w: Vi-|da,|* cuer- po|del Se-|nor.|||Cup of|bles-|sing,|
+w: Life)||* (Bo- dy|of the|Lord)|||(San- ta|coo-|pa)|
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+"Dm7" z E F |"G" G2 F |"C" E3- | E3- |"C7" E3 | z F G |"F" A3 |"F/E" A3- |"Dm7" A2 A |"E7" ^G A B | %21
+w: blood of|Christ, our|Lord.|||At this|ta-|ble,|* the|last shal be|
+w: (Cros- to|Re- den-|tor)|||(Su jus-|ti-|cia|* nos|con- ver- ti-|
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+"Am" c3- |"Am/G" c3 |"D7/F#" z2 z/ A/ | A B c |"C" G3- | G3 |"Dm7" z E E |"G7sus4" F E D | %29
+w: first.||Po-|der es ser-|vir,||por- que|Dios es *|
+w: ra.)||(Pow'r|is for ser-|vice)||(Be- cause|God * is|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"C" C3-!dacoda! |1,2,3 C3 ||"Dm7" z3 | %32
+w: a-|mor.||
+w: love.)|||
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+"G7sus4""^VERSES - sing in either language or alternate" z2 C |"F" A A A |"Bb/F" A G F |"F" F3- | %36
+w: ENGLISH~1.|We are the|dwell- ing of|God,|
+w: 2.|You call me|teach- er and|Lord;|
+w: 3.|There is no|Jew * or|Greek;|
+w: ||||
+w: ESPANOL~1.|So- mos el|tem- plo do|Dios|
+w: 2.~Us-|te- des me|lla- man "Se-|nor"|
+w: 3.|No hay es-|cla- vos ni|li-|
+"Bb/F" F2 F |"F" A A/-A/ A |"G7/F" A G F |"C" G3- |"C/Bb" G2 z |"Am" c c c |"Am/G" c B A | %43
+w: |Fra- gile * and|wound- ed and|weak.||We are the|bod- y of|
+w: |I, who * have|washed * your|feet.||So you must|do as I|
+w: |There is * no|slave * or|free.||There is no|wo- man or|
+w: |||||||
+w: |Fra- gi- * les|se- res hu-|ma-|nos.|So- mos el|cuer- po de|
+w: * Me\-in-|cli- no a la-|var- les los|pies.||Ha- gan lo|mis- mo, hu-|
+w: bres. *|no hay * mu-|je- res ni|hom|bres,|so- lo a|que- llos que..he-|
+"Dsus4" A3- |"D7" A G ^F |"Dm" G3 |"Em" G G G |"F" G F E |"G" D3- |"Gmaj7" D3 |"G7" D3 | %51
+w: Christ,|* called to|be|* the com-|pas- sion of|God|||
+w: do,|* so the|great-|est must be-|come * the|least.|||
+w: man,|* On- ly|heirs|* of the|prom- ise of|God.|||
+w: ||||||||
+w: Cris-|* to Lla-|ma|* dos a|ser com- sipa-|si||vos.|
+w: mil|* es, sir-|vien|* do- se|u- nos a|o||tras.|
+w: re-|* dan e;|rei-|* np qie|Dios pro- MEme-|no.|||
+"Gsus4" z C D :|O C3- | C3 |"D7" z2 z/ A/ | A B c |"C" G3- | G3 |"Dm7" z E E |"G7" F E D |"C" C3- | %61
+w: Bread of|||Po-|der es ser-|vir,||por- que|Dios es *|a-|
+w: |||(Pow'r|is for ser-|vice)||(Be- cause|God * is|love.)|
+w: ||||||||||
+w: ||||||||||
+w: Pan de||||||||||
+w: ||||||||||
+w: ||||||||||
+ C3 |"Dm7" z3 |"G7sus4" z3 |"C" z3 |] %65
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

@@ -1,0 +1,27 @@
+X:1
+T:Winnie the Pooh
+T:Winnie the Pooh
+T:Richard and Robert Sherman
+C:Richard Sherman, Robert Sherman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"C7" E/>D/ E D z |"F" E/>D/ E D z |"C7" C/>C/B/>B/ A/>A/ G |"F" F E D"B7" ^D |"C7" E/>D/ E D z | %5
+w: Win- nie the Pooh|Win nie the Pooh|tub- by lit- tle cub- by all|stuffed with fluff he's|Win- nie the Poob|
+"F" E/>D/ E D z |"C7" C/>C/B/>B/ A/>A/ G |"F" F2- F/ z/ z |[M:3/4]O"Gm7" B2 A/G/ |"C7" E2 D | %10
+w: Win- nie the Pooh,|wil- ly nil- ly sil- ly ole|bear _|Deep in the|hun- dred|
+"F" C2 D |"F#dim7" C2 A |"Gm7" B A G |"C7" E2 G |"Fmaj7" A3- |"F6" A z C/C/ |"Gm7" B2 A/G/ | %17
+w: ac- re|wood where|Chris- to- pher|Ro- bin|plays|_ you will|find the en-|
+"C7" E2 G |"Am7" c2 A |"Dm" F2"Dm7" C |"G7" D E F |"C7" E D C |"F" F3- | F z A | %24
+w: chant- ed|neigh- bor-|hood of|Chris- to- pher's|chi- ld- hood|days|_ A|
+[M:4/4]"Gm7" B/A/ G"C7" E D |"F" C D"F#dim" C z/ A/ |"Gm7" B/A/ z/ G/"C7" E G |"F" A2- A/ z/ C | %28
+w: don- key named Ee- yore|is his friend and|Kan- ga and lit- tle|Roo _ There's|
+"Gm7" B/A/ z/ G/"C7" E G |"F" c A"Dm" F"Dm7" z/ C/ |"G7" D/E/ F"C7" E/D/ C |"F" F z z2!D.C.! || %32
+w: Rab- bit and Pig- let|and there's Owl but|most of all Win- nie the|Pooh|
+O"C7" C C B B | A A G2 |"F" F z z2 | z4 |] %36
+w: Wil- ly nil- ly|sil- ly ole|bear.||
+

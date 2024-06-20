@@ -1,0 +1,21 @@
+X:1
+T:Humoresque (opus101 no.7)
+T:Humoresque (opus101 no.7)
+T:Antonin Dvorak
+C:Antonin Dvorak
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G>AG>A B>de>d |"C" g>fa>g"Adim" f>a"C"g>e |"G" dd<ed<ge<dB/A/- |"D7" A7- A/ z/ | %4
+"G" G>AG>A B>de>d |"C" g>fa>g"Adim" f>a"C"g>e |"G" d>dg>G"D7" A2 d2 |"G" G6 z2 ||"G" B2 b>a a2 g2 | %9
+"C" g2 f>e"E7" e2 d2 |"Am" d2 ce"D7" d2 c2 |"G" BA G4 z2 | B2 b>a a2 g2 |"C" g2 f>e"E7" e2 d2 | %14
+"Am" dcde"D7" BABc |"G" B2"Gdim" _B4"D7" A2 ||"G" G>AG>A B>de>d |"C" g>fa>g"Adim" f>a"C"g>e | %18
+"G" dd<ed<ge<dB/A/- |"D7" A7- A/ z/ |"G" G>AG>A B>de>d |"C" g>fa>g"Adim" f>a"^C"g>e | %22
+"G" d>d"Gm"_b>d"A7" ^c>b"D7"a>e |"G" g6 z2 |] %24
+

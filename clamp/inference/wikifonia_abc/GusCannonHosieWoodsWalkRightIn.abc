@@ -1,0 +1,26 @@
+X:1
+T:Walk Right In
+T:Walk right in
+T:Gus Cannonand H Woods
+T:8 bt or Rock
+C:Gus Cannon, Hosie Woods
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G2 G2 D4 | G^F F2"E7" E4 |"A7" _BAGE"D7" G2 AE |"G" G6 z2 | G2 G2 D4 | G^F F2"E7" E4 | %6
+w: Walk right in|set right * down|dad- dy let your mind roll *|on|Walk right in|set right * down|
+w: Walk right in|set right * down|ba- by let your hair hang *|down|Walk right in|set right * down|
+"A7" A^GA^G A2 B2 |"D7" A8 |"G" GGEE DDED | G2 EB, D2 E2 |"C" _BAGE _B2 AE | G4"D7" z4 | %12
+w: dad- dy let your mine roll|on|Ev- ry- bod- ys talk- in bout a|new way o walk- in|do you wan- na lose * your|mind?|
+w: ba- by let your hair hang|down|Ev- ry- bod- ys talk- in bout a|new way o walk- in|do you wan- na lose * your|mind?|
+"G" G2 G2 D4 | G^F F2"E7" E4 |"A7" _BAGE"D7" G2 AE |"G" G6 z2 :|"G" G6"E7" z2 | %17
+w: walk right in|set right * down|dad- dy let your mind roll *|on|down|
+w: walk right in|set right * down|ba- by let your hair hang *|||
+"A7" ^ABc^c"D7" dc^AB |"G" G6 z2 |] %19
+w: dad- dy let your mind * roll *|on|
+w: ||
+

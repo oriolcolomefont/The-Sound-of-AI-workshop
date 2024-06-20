@@ -1,0 +1,30 @@
+X:1
+T:This Is The Time I Must Sing
+T:This Is The Time I Must Sing
+T:William J & Gloria Gaither, 1975
+C:William J & Gloria Gaither 1975
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 |[Q:1/4=85] z2 F/G/ |"F" A A A | A G F/F/ | A A A | A G3/2 F/ | A A A | %11
+w: |||||I have|tast ed the|free dom I can|go where He's|lead ing for|shack les can|
+ A G F |"C" E3- | E2 G/A/ |"Gm" B B B | B A G/G/ | B B B | B A3/2 G/ | B B B |"C7" B A G |"F" F3- | %21
+w: hold me no|more|_ I have|learned of life's|es sence and I|stand in His|pres ence and|sing with my|heart He is|Lord|
+ F2 c | c c3/2 c/ | c B3/2 A/ | c c3/2 c/ | c B3/2 A/ | c c3/2 c/ | c B A |"C7" G3- | G2 G/A/ | %30
+w: _ Keep|si lent ye|moun tains ye|fields and ye|foun tains for|this is the|time I must|sing|_ It's the|
+"Gm" B3/2 B/ B | B A G/G/ | B B3/2 B/ |"C7" B A3/2 G/ |"Gm7" B B3/2 B/ |"C7" B A G |"F" F3- | %37
+w: time to sing|prais es to the|Rock of the|Ag es and|this is the|time I must|sing|
+ F2 F/G/ |"F" A A A | A G F/F/ | A A A | A G3/2 F/ | A A A | A G F |"C" E3- | E2 G/A/ |"Gm" B B B | %47
+w: _ There are|days filled with|sor row and _|plans for to|mor row but|this is the|time I must|sing|_ and I|know there's a|
+ B A G/G/ | B B B | B A3/2 G/ | B B B |"C7" B A G |"F" F3- | F2 c | c c3/2 c/ | c B3/2 A/ | %56
+w: rea son why _|in His own|sea son God|gives me a|song I can|sing|_ Keep|si lent ye|moun tains ye|
+ c c3/2 c/ | c B3/2 A/ | c c3/2 c/ | c B A |"C7" G3- | G2 G/A/ |"Gm" B3/2 B/ B | B A G/G/ | %64
+w: fields and he|foun tains for|this is the|time I must|sing|_ It's the|time to sing|prais es to the|
+ B B3/2 B/ |"C7" B A3/2 G/ |"Gm7" B B3/2 B/ |"C7" B A G |"F" F3- | F2 z | z3 | z3 | z3 | z3 |] %74
+w: Rock of the|Ag es and|this is the|time I must|sing|_|||||
+

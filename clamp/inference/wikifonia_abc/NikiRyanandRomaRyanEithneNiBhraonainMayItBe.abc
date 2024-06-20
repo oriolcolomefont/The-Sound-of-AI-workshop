@@ -1,0 +1,44 @@
+X:1
+T:May It Be
+T:May It Be
+C:Niki Ryan and Roma Ryan
+Z:All Rights Reserved
+L:1/16
+M:3/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F#power" z12 | z4 z4 z2 A,B, |:"F#m" C6 B,2 C2E2 |"D" F8 F4 |[M:2/4]"A/C#" E4 (3(FEC) (A,B,) | %5
+w: |1.~May it|be and ev- 'ning|star shines|down up- * * on _|
+w: ||be the shad- ows|call will|fly- * * * * *|
+[M:3/4]"E/B" B,8 z2 A,B, |"F#m" C6 B,2 C2E2 |"D" F8 (F2<A2) |[M:2/4]"A/C#" E4 (3(FEC) A,B, | %9
+w: you. May it|be when dark- ness|falls, your _|heart _ _ _ will be|
+w: way. May it|be you jour- ney|on to _|light _ _ _ _ the|
+[M:4/4]"E/B" B,12 (C2<E2) |[M:3/4]"D" F6 E2 F2A2 |"A/C#" E8 C2E2 |[M:4/4]"Bm" F6 (EC) B,4 C4 | %13
+w: true. You _|walk a lone- ly|road. Oh! How|far you _ are from|
+w: day. When the|night is o- ver-|come, you may|rise to _ find the|
+[M:5/4]"Esus4" E8"E" z8 z4 ||[M:3/4]"A""^Chorus" E8 F4 |"F#m/C#" A8 E4 |"D" A8 B4 | %17
+w: home.|Mor- ni-|ë u-|tú- li-|
+w: sun.||||
+[M:4/4]"Esus4" (A3B/A/"E" G8) G4 |[M:3/4]"A" A8 E4 |"E/B" E4 (D3E/D/) C4 |"D" D8- D2E2 | %21
+w: ë _ _ _ Be-|lieve and|you _ _ _ will|find _ your|
+w: ||||
+[M:4/4]"Esus4""E" E12 (C4 |[M:3/4]"A" E8) (E2F2) |"F#m/C#" A8 E4 |"D" A8 B4 | %25
+w: way. Mor-|* ni- *|ë a-|lan- ti-|
+w: ||||
+[M:4/4]"Esus4" (A3B/A/"E" G8) G4 |[M:2/4]"F#m" A6 E2 |[M:3/4]"D" (F6 E2) (F/E/D3) | %28
+w: ë. _ _ _ A|prom- ise|lives _ with- * *|
+w: |||
+[M:4/4]"Esus4/B" E8"E" E8 |1[M:3/4]"A" E12- | !fermata!E8 z2 A,B, :|2"A" E12- | %32
+w: in you|now.|_ 2.~May it|now|
+w: ||||
+[M:4/4]"E/G#" E12 G4 ||[M:3/4]"F#m" A8 E4 |"D" F6 (E2 FED2) |[M:5/4]"Esus4/B" E8"E" E12 | %36
+w: _ A|prom- ise|lives with- * * *|in you|
+w: ||||
+[M:3/4]"A" !fermata!E12 |] %37
+w: now.|
+w: |
+

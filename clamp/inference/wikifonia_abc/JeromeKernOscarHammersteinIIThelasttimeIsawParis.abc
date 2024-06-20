@@ -1,0 +1,24 @@
+X:1
+T:The last time I saw Paris
+T:The last time I saw Paris
+T:Jerome Kern
+T:Oscar Hammerstein II
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." G |"C" A G E G | c c2 G | A G E G |"G7" B3 G | A G F G |"Fm" f f"G7" d G | %7
+w: The|last time I saw|Par- is her|heart was warm and|gay, I|heard the laugh- ter|of her heart in|
+"Dm" f f"G7" d e |"C" c3 G | A G E G | c c2 G | A G E G |"G7" B3 G | A G F G |"Fm" f f"G7" d G | %15
+w: ev- ry street ca-|fe. The|last time I saw|Par- is her|trees were dressed for|spring and|lov- ers walked be-|neath those trees and|
+"Dm" f f"G7" d e |"C" c3 c |"D7" d e c d |"G" B B B e |"D7" d e c d |"G" B3 d |"E7" e ^f d e | %22
+w: birds found songs to|sing I|dodged the same old|tax- i cabs that|I had dodged for|years, the|chor- us of the|
+"A" ^c ^c ^c ^c |"Dm" e d c A |"G7" G3 G |"C" A G E G | c c2 G | A G E G |"G7" B3 G | %29
+w: squeak- y horns was|mus- ic to my|ears the|last time I saw|Par- is her|heart was warm and|gay No|
+"Dm" A f"G7" e d |"Gm" g2"A7" A A/A/ |"Dm" A f d2- | d2"G7" e2 |"C" c4- | c3 z | z4 | z4 |] %37
+w: mat- ter how they|change her I'll re-|mem- ber her|* that|way.||||
+

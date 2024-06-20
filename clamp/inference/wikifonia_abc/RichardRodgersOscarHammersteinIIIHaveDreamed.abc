@@ -1,0 +1,24 @@
+X:1
+T:I Have Dreamed
+T:I Have Dreamed
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb6" E3 D E4- | E2 B,D"Bb7" F3 B |"Eb6" F4 E4- | E6 z2 | E3 D E4- | E2 B,D F3 B |"Bb9" F8- | %7
+w: I have dreamed|_ that your arms are|love- ly|_|I have dreamed|_ what a joy you'll|be.|
+ F6 z2 |"F6" F3 =E F4- | F2 CF"C7" G3 c |"F6" G4 F4- | F4"Bb9" G3 F |"Eb6" E8- |"Cm7" E4"F7" F3 E | %14
+w: _|I have dreamed|_ ev- 'ry word you'll|whis- per|_ when your|close,|_ close to|
+"Bb" D8- | D6"D7" z2 |"G" G3 ^F G4- |"Gmaj7" G2 DG =A3 d |"G6" =A4 G4- |"G" G8 | G3 ^F G4- | %21
+w: me.|_|How you look|_ in the glow of|eve- ning|_|I have dreamed|
+"Gmaj7" G2 DG =A3 d |"Bb9" d8- | d4"Fm7" e2"Bb7" d2 |"Eb" c2 B2 G2 F2 |"G7" G4 e2 d2 | %26
+w: _ and en- joyed the|view.|_ In these|dreams I've loved you|so that by|
+"Cm" c2 B2 G2 F2 |"F7" G4 E2 F2 |"Eb" G4 A2 B2 |"Ab" c4"G7" d4 |"Cm" e8- | e4"F9" d2 e2 | %32
+w: now I think I|know what it's|like to be|loved by|you|_ I will|
+"Bb6" f4"Adim7" d2 e2 |"Bb9" c4"Bb7" d4 |1"Eb" e8- || e6"Bb7" z2 :|2"Eb" e8- || e6 z2 |] %38
+w: love be- ing|loved by|you.|_|you.|_|
+

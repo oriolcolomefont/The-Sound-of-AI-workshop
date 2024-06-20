@@ -1,0 +1,32 @@
+X:1
+T:Love & Marriage
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"C" C2 G2 ^G A3 |"G7" B,2 G2 ^G A3 |"C" z2 C>B,"C7" C>D E>G |"F" F2 c2"Fm" ^c d3 | %4
+w: Love and mar- riage,|love and mar- riage,|Go to- geth- er like a|horse and car- riage,|
+w: Love and mar- riage|love and mar- riage,|It's an in- sti- tute you|can't dis- par- age,|
+"C" e3 d c2 G2 |"E7" ^G4"F" A3 B |"C" c2 A2 G>AB>c |1 z"D7" d3"G7" G4 :| z"G7" d3"C" c4 | %9
+w: This I tell you|bro- ther, Ya|can't have one with- out the|oth- er||
+w: Ask the lo- cal|gen- try, And|they will say it's el- e-||me- t'ry|
+"Ab" c4"Ab7" c4 |"Ab6" c>_B _A>G F2 _E2 |"Bbm7" F4 z"Eb7" _E _D2 |"Ab" C2 _E4 | c4"Ab7" c4 | %14
+w: |||||
+w: Try, try|try to sep- ar- ate them,|It's an il-|lu- sion.|Try, try,|
+"Ab6" c>_B _A>G F2 _E2 |"C" G8 |"G7" z3/2 G/ F>E D2 G2 |"C" C2 G2 ^G A3 |"G7" B,2 G2 ^G A3 | %19
+w: |||Love and mar- riage,|love and mar- riage,|
+w: try and you will on- ly|come|to this con- clu- sion-|_ _ _ _||
+"C" z2 C>B,"C7" C>D E>G |"F" F2 c2"Fm" ^c d3 |"C" e3 d c2 G2 |"E7" ^G4"F" A3 B |"C" c2 A2 G3 A | %24
+w: Go to- geth- er like a|horse and car- riage,|Dad was told by|moth- er, You|can't have one, you|
+w: |||||
+ c2 A2 G3 A | c2 A2 G>A B>c | z"D7" d3-"G7" d4 |"C" c8 |] %28
+w: can't have none. You|can't have one with- out the||er.|
+w: ||||
+

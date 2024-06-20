@@ -1,0 +1,20 @@
+X:1
+T:La Habanera
+T:Carmen
+C:adapated by Georges Bizet adapted from the habanera El Arreglito, composed by the Spanish musician Sebastián Yradier
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ d^c |"Dm" (3=ccc =B_B | AA/A/ ^G=G | (3F/G/F/ E/F/ GF |"Gm6" E2 d^c |"Gm6" (3=ccc =B_B | %6
+ A/A/ z/ A/"Gm" GF |"A7" (3E/F/E/ D/E/ FE |"Dm" D2 d^c |"Dm" (3=ccc =B_B | A>A ^G=G | %11
+ (3F/G/F/ E/F/ GF |"Gm" E2 d^c | (3=ccc =B_B | A/A/ z/ A/ GF |"A7" (3E/F/E/ D/E/ FE || %16
+[K:D]"Dm" D2"D" dc |"D" (3=ccc B_B | A z/ A/ ^G=G | (3F/G/F/ E/F/ GF |"G6" E2 dc | %21
+"G6" (3=c=cc B^A | A z/ A/"G" GF |"A7" (3E/F/E/ D/E/ FE |"D" D>A D"A"E |"D" F>A F"A"E | %26
+"D" D>E F"A7"G |"D" A/A/A/A/"G" B"D"A |"Em" G>B E"B7"F |"Em" G>B G"B7"F |"Em" E>F G"B7"A | %31
+"Em" B/B/B/B/"A7" cB |"D" A>A d"A"e |"D" f>A F"A"E |"D" D>E F"A7"G |"D" A/A/A/A/"Bm" d"Fm"c | %36
+"Em" G>B e"B7"f |"Em" g>B G"B7"F |"Em" E>F G"B7"A |"A7" c/B/^G/A/ f3/2 (3e/4f/4e/4 |"D" d>A d z |] %41
+

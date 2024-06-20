@@ -1,0 +1,26 @@
+X:1
+T:You're My Thrill
+T:You're My Thrill
+C:Jay Gorney
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A7" A3 E |"Em7b5" B4 |"A7" A G B c |"Em7b5" B"A7" A3 |"Cm" A G"Am7b5" _E c |"D7" B A2 D | %6
+w: You're my|thrill,|you do some- thing|to me|you send chills right|through me, When|
+"G7" D D/D/"Eb9" F3/2 F/ |"Dm" D D"Bb7" F2 |"A7" A3 E |"Em7b5" B4 |"G7" A G B c |"Eb9" B A3 | %12
+w: I look at you, "Cause|you're my thrill.|You're my|thrill,|how my pulse in-|creas- es,|
+"Dm" A G B c |"Bb7" B A2 D | D D/D/ F3/2 F/ | D D F2 | (D4 | c4) | c B ^C D | c B3 |"E7" (E4 | %21
+w: I just go to|piec- es when|I look at you, 'Cause|you're my thrill.|Hmmm|_|Noth- ing seems to|mat- ter.|Hmmm|
+ d4) |"Adim7" d ^c ^G A/A/ |"Bb9" c B"Ab9" c B |"A7" A3 E |"Bb7" B4 |"G7" A G B c |"Eb9" B A3 | %28
+w: _|here's my heart on a|sil- ver plat- ter,|where's my|will?|Why this strange de-|sire? *|
+"Dm" A G B c |"Bb7" B A3 |"G7" D/D/D/D/"Eb7" F2 |"Dm" D/D/D/A/-"Bb7" A2 |"D7" D4 |"Gm" d4 | %34
+w: That keeps moun- ting|high- er|when I look at you|I can't keep still. _|You're|my|
+"D""Ab9" d4- |"D6" d4 |] %36
+w: thrill.|_|
+

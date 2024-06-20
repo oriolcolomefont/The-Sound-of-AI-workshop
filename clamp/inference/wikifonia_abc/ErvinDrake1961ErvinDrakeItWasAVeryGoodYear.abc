@@ -1,0 +1,37 @@
+X:1
+T:It Was A Very Good Year
+T:It Was A Very Good Year
+C:Ervin Drake 1961
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Dm" E2 DE A,4 | E2 DE FE D2 |"Am" E2 DE"F" C2 C2 |"A7" ^C4- !fermata!^CA,=B,C |:"Dm" D2 A2 A4 | %5
+w: |||* * 1.When I was|sev- en- teen|
+w: |||* * * * 2.|twen- ty- one|
+w: |||* * * * 3.|thri ty five|
+w: |||* * * * 4.|days are short,|
+ A4 z FGA |"Eb" GG _E2 E4- | _E4 z _EFE |"Dm" DD A2 A3 =B |"F" c2 A2 A3 c |"Eb" B2 GG G4- | %11
+w: * it was a|ver- y good year,|* It was a|ver- y good year for|small town girls and|soft sum- mer nights,|
+w: * it was a|ver- y good year|* It was a|ver- y good year foe|cit- y girls who|lived up the stair,|
+w: * it was a|ver- y good year|* It was a|ver- y good year for|blue- blooded girls of|in- depen- dent means,|
+w: * I'm in the|autumn of the year,|* and now I|think of my life as|vin- tage wine from|fine old * kegs,|
+ G4 z2 B-B |"D" A2 ^FF F4- | ^F6 AA |"Eb" G2 E2 E4- | E4 z E^FG |1"D""_verses 1-3" FF D2 D4 || %17
+w: * we'd *|hide from the lights|* on the|vil- lage green|* When I was|sev- * en- teen.|
+w: * with *|per- fumed * hair|* that *|came un- done|* When I was|twen- * ty- one.|
+w: * we'd *|ride in lim- ousines|* their chauf-|feurs would drive.|* When I was|thir- * ty- five|
+w: * From the|brim to the dregs,|* it poured|sweet and clear,|* It was a||
+"Dm" E2 DE A,4 | E2 DE FE D2 |"Am" E2 DE"F" C2 C2 |"A7" ^C4- !fermata!^CA,=B,C :|2 %21
+w: |||* * 2.When I was|
+w: |||* * 3.When I was|
+w: |||* * 4.But now the|
+w: ||||
+"D""_verse 4" FF D2 D4 ||"Dm" E2 DE A,4 | E2 DE FE D2 |"Am" E2 DE"F" C2 C2 |"A7" ^C4"A" A4 |] %26
+w: ver- y good year|||||
+w: |||||
+w: |||||
+w: |||||
+

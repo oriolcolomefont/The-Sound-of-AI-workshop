@@ -1,0 +1,37 @@
+X:1
+T:You'll Never Get To Heaven
+T:You'll Never Get To Heaven
+T:If You Break My Heart
+T:Burt Bacharach
+T:Hal David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Ebmaj7" z2 FF D2 B,2 |"Ab" B A2 B A2 GA |"Db9" GF F6 |"Ebmaj7" z2 FF D2 B,2 |"Ab" B A2 B A2 GA | %5
+w: 1.....Moth- er told me|al- ways to fol- low the|gold- en rule,|And she said it's|real- ly a sin to be|
+w: 2.....I've been hear- ing|ru- mours a- bout how you|play a- roun',|Though I don't be-|lieve what I hear, still it|
+w: 3.....I can hard- ly|wait for the day when we|say I do.|It's a day I've|dreamed of so long, now it's|
+"Db9" GF F6 |"Eb7" A2 G2 F E2 A | G F2 E- E2 EE |"Cm7" B2 =A2 G"F7" F2 F |"Bb" c B3- B2 c2 | %10
+w: mean and cruel.|So re- mem- ber if|you're un- true * an- gels|up in heav- en are|look- ing * at|
+w: gets me down.|If you ev- er should|say good- bye * it would|be so aw- ful the|an- gels * would|
+w: com- ing true.|You will prom- ise to|cher- ish ~~me. * If you|break your prom- ise the|an- gels * will|
+"Bb7" B6- BA ||"Ebmaj7" GGGG"Ab" AGFE |"Ebmaj7" G F2 A-"Ab" A4 |"Ebmaj7" GGGG"Ab" A G2 B- | %14
+w: you. * You'll|nev- er get to heav- en if you|break my heart *|So be ver- y care- ful not|
+w: cry. * You'll||||
+w: see. * You'll||||
+"Gm" B G2 A-"Fm7" AF"Gm" G2 |"Ebmaj7" GGGG"Ab" AGFB,- |"Fm7" B,4 CECF- | F6 C2 |1"Eb" B,8 :|2 %19
+w: * to make * us part.|You won't get to heav- en if you|* break my * heart,|* Oh|no.|
+w: |||||
+w: |||||
+"Eb" B,>A, G,6 |:"Fm7""^Repeat and fade out" z2 CC EE A2 | B4- BcGF | G4- GBDC |"Ebmaj7" D8 :| %24
+w: no- * *|||||
+w: |||||
+w: |||||
+

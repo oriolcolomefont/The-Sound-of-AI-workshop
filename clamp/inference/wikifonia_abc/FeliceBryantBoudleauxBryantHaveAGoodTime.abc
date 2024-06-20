@@ -1,0 +1,30 @@
+X:1
+T:Have A Good Time
+T:Felice Bryant & Boudleaux Bryant
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c"Eb7" A2 B"D7" c^c d2 |"G7" D3 F"C7" EF G2 |"F" F2 Ac"Abdim" =B e2 d |"Gm7""C7" c6 C2 |: %4
+w: |||* Good-|
+"F" A6 z E | G>FG>F"Abdim" G3 D |"Gm7" F>DFE-"C7" E3 d |"Gm7" f>dfe-"C7" e2 C2 |"Gm""Bb+" B6 z A | %9
+w: bye I|hate to see you go but|have a good time * *|* * * * * So|long, I'll|
+"Gm7" A>GA>G"C7" A3 G |"Fmaj7" G>EGF-"F" F3 e |"Fmaj7" g>egf-"F6" f2 (3CFA |"F" c2 c2"Am" c3 c | %13
+w: miss you, Dear, I know but|have a good time * *||Have your fling, be|
+"Cm6" (3c2 d2 c2"D+" B"D7" A3 |"Gm" z2 G2"D9" AG"D7" A2 |"Gm" B4 A>_AG>_G |"G9" A2 A2 A3 A | %17
+w: gay with your new love|I'm set- ting you|free * * * *|Dance and sing, pre-|
+ A2"F" GA"Abdim" G"G7" F3 |"C9" z2 d2"Gm7" dB G2 |"C7" E6 C2 |"F" A6 E2 | G>FG>F"Abdim" G2 D2 | %22
+w: tend that it's true love|Don't wor- ry 'bout|me. I|know that|tears will on- ly drive you|
+"Gm7" F>DF"C7"E- E3 d |"Gm7" f>dfe-"C7" e2 C2 |"Gm""Bb+" B6 z A |"Gm7" A>GA>G"C7" A3 G | %26
+w: far- ther a- way * *|* * * * * Just|go, for-|get that I'm a- live, it's|
+"Fmaj7" G2 EG"F" F3 e |"Fmaj7" g>egf-"F" f2 (3CFA | c2 c2"Am" c>AB>=B |"Cm6" c>dc"D+"B- B"D7" A3 | %30
+w: your hol- i- day *||When you've tired of be- ing|reck- less and care- * free,|
+"Gm" z2 G2 G>AB"Abdim"d- | d4 (3=B2 d2 f2 |"F" c"Eb7" A2 B"D7" c^c d2 |"G7" D3 F"C7" EF G2 |1 %34
+w: re- mem- ber that I'm||wait- ing to wel- come you|home, so have a good|
+"F" F2 Ac"Abdim" =B e2 d ||"Gm7""C7" c6 C2 :|2"F" F2 Ac"Db9" _e_d"C7b9"dc ||"F" c'6 z2 |] %38
+w: time. * * * * *|* Good|time. * * * * * *||
+

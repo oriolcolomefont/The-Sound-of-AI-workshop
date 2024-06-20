@@ -1,0 +1,21 @@
+X:1
+T:Scrapple From The Apple
+T:Scrapple From The Apple
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Gm7" z ^FGB AG=FD |"C7" Gc z2 z B2 A |"Gm7" B>f (3dBG ADG_D |"C7" z2 z A- A B2 A | %4
+"F" c>A (3GFG- G2 z f |"Bb7" d2"Bdim7" z e- ed (3AB=B |"F" c2 z A BA^GA | cABc z4 | %8
+"Gm7" z ^FGB AG=FD |"C7" Gc z2 z B2 A |"Gm7" B>f (3dBG ADG_D |"C7" z2 z A- A B2 A | %12
+"F" c>A (3GFG- G2 z f |"Bb7" d2 z e-"Bdim7" ed (3AB=B |"F" c2 z A BA^GA | FCEF z4 | %16
+"Em7" z4 (3^f/g/f/ ed_d |"A7" =BAG^F ED^CE |"D7" G =B2 G AE- E2 | z2 z D/_D/ C/=B,/A,/G,/_G, z | %20
+"G7" z2 z D/E/ F/G/ A/4=B/4c/4d/4 e/d/^c/d/ | g2 eA- A^F (3GBd |"Gm7" f (3e/d/c/ BA GF (3EGB | %23
+"C7" d2 GA cB- B2 |"Gm7" z ^FGB AG=FD |"C7" Gc z2 z B2 A |"Gm7" B>e (3dBG ADG_D | %27
+"C7" z2 z A- A B2 A |"F" c>A (3GFG- G2 z f |"Bb7" d2 z e-"Bdim7" ed (3AB=B |"F" c2 z A BA^GA | %31
+ FCEF z4 |] %32
+

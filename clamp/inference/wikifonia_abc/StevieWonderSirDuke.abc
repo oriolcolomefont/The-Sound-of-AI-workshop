@@ -1,0 +1,54 @@
+X:1
+T:Sir Duke
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/16
+Q:1/4=72
+M:4/4
+K:B
+V:1 treble 
+%%MIDI program 4
+V:1
+"B""^Moderately" z4 d2e2 g2f2d2c2 |"G#m" B2 c4 BG- G4 G2B2 |"G7" =d2c2B2=G2 B2 ^d4 c2- |"F#7" c16 | %4
+w: Mu- sic is a world with-|in it- self _ _ with a|lan- guage we all un- der- stand,|_|
+w: Mu- sic knows it is and|al- ways will _ _ be~one of|the things that life just won't quit.|_|
+"B" z4 d2f2 g2f2d2c2 |"G#m" B2 c4 BG- G2F2G2B2 |"G7" =d2c2B2=G2 B2 d4 c2- | %7
+w: with an e- qual op- por-|tu- ni- ty _ _ for all to|sing _ dance and clap their hands|
+w: But~here are some of mu- sic's|pi- o- neers, _ _ that time will|not al- low us to for- get|
+"F#7" c6 =c2-"F7" c4 z BBB |"E9" B2B2"Eb9"_B2B2"D9" =A2^AG-"Db9" G2G2 | %9
+w: _ _ _ but just be-|cause a re- cord has a groove _ don't|
+w: _ _ _ for there's *|Ba- sie, Mil- ler, Satch- * mo, _ and~the|
+"D9" =A2A2"D#9" ^A2A"E9"=B z4 z BBB |"E9" B2BB"Eb9" _B2B=A-"D9" AAG2-"Db9" GGG2 | %11
+w: make it in the groove but you can|tell right a- way at let- * ter A _ when the|
+w: king of all, Sir Duke, and with a|voice like * El- la's ring- * in' out _ there's no|
+"D9" A2"D#9"A2"E9" B2"F9"=c"F#9"^c z8!dacoda! ||"B" z4 d2f2 f2d2f2d2 |"Fm7" a4 gag2- g8 | %14
+w: peo- ple start to move.|They can feel it all _|o- * * ver. _|
+w: way the band can loose.|||
+"Emaj7" z4 g2f2 f2d2g2f2 |"C#m7" d4 cBG2"F#11" B4 G2F2 |"B" z4 d2f2 f2d2f2d2 |"Fm7" a4 gag2- g8 | %18
+w: They can feel it all _|o- ver, _ _ peo- ple. *|They can feel it all _|o- * * ver. _|
+w: ||||
+"Emaj7" z4 g2f2 f2d2g2f2 |"C#m7" d4 cBG2"F#11" B4 G2<!>!b2 |"^N.C." B,4 z B,DC z CGF z2 F,G, | %21
+w: They can feel it all _|o- ver, _ _ peo- ple, go!||
+w: |||
+ B,2C=D ^DFGB z c=d^d z4 | g2>d2-d2f2- f2c2-c2d2 | cBGF cBGB- B4 z4 | d2cB cBGB GFG2- GFDF | %25
+w: ||||
+w: ||||
+ DCDC B,CB,G,- G,2F,2 z4 | F,G,B,C DFGB- BGB2- BG2F | G2>F2- FDF2- F2F,F, z4!D.C.! |: %28
+w: |||
+w: |||
+"B" z4 d2f2 f2d2f2d2 |"Fm7" a4 gag2- g8 |"Emaj7" z4 g2f2 f2d2g2f2 | %31
+w: You can feel it all _|o- * * ver. _|You can feel it all _|
+w: |||
+"C#m7" d4 cBG2"F#11" B4 G2"^x3"F2 :|O"B" z4 d2f2 f2d2f2d2 |"Fm7" a4 gag2- g8 | %34
+w: o- ver, _ _ peo- ple. *|You can feel it all _|o- * * ver. _|
+w: |||
+"Emaj7" z4 g2f2 f2d2g2f2 |"C#m7" d4 cBG2"F#11" B4 G2<!>!b2 |"^N.C." B,4 z B,DC z CGF z2 F,G, | %37
+w: You can feel it all _|o- ver, _ _ peo- ple,go! *||
+w: |||
+ B,2C=D ^DFGB z c=d^d z4 | g2>d2-d2f2- f2c2-c2d2 | cBGF cGGB- B4 z4 | d2cB cBGB GFG2- GFDF | %41
+w: ||||
+w: ||||
+ DCDC B,CB,G,- G,2F,2 z4 | F,G,B,C DFGB- BGB2- BG2F | G2>F2- FDF2- F2F,F, z4 |] %44
+w: |||
+w: |||
+

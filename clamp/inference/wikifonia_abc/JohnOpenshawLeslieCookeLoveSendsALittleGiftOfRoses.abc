@@ -1,0 +1,34 @@
+X:1
+T:Love Sends A Little Gift Of Roses
+T:Love Sends A Little Gift Of Roses
+T:John Openshaw
+T:Leslie Cooke
+C:John Openshaw
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G2 FE DEGB |"Fm7b5" e2 fe g3 z |:"Eb""^Verse" G2 GG B3 B |"Gbdim" =Aedc"Bb7" B2 B2 | %4
+w: ||Take thou my gift, my|of- fer- ing of ros- es,|
+w: ||Take thou my gift, and|be it joy or sor- row,|
+"Eb" G2 G>G"Cm" G3 G |"F7" GGFE"Bb7" F4 |"Eb" G2 GG B3 B |"Gbdim" =Aedc"Bb7" c2 B2 | %8
+w: Cull'd from my gar- den,|sweet with twi- light dew;|If just one flow'r up-|on your breast re- pos- es|
+w: Think ere my ros- es|fade and fall a- part;|With each sweet bloom that|you may scorn to- mor- row,|
+"Edim" B2 =AG"Bb" FGAB |"Cm7" e2"F7" d2"Bb7" BAF"Bb+7"^F ||"Eb""^Chorus" G2 FE DEGB | %11
+w: Life shall for ev- er hold no|rose but you. * * *|Love sends a lit- tle gift of|
+w: I send to you for joy or|pain my heart. * * *||
+"B7" =B4"Bb7" c4 |"Fm7" A2 GF"Ab6" =EFAc |"Bb7" _d4 =d4 |"Eb" f2 ed"G7" defe |"Ab" e4"Abm" =B4 | %16
+w: ro- ses,|breath- ing a pray'r un- to my|pos- ies,|torn from my heart as twi- light|clo- ses,|
+w: |||||
+"Bb7" c3 D D4 |"Eb" c3 G G4 |"Eb" G2 FE DEGB |"B7" =B4"Bb7" c4 |"Fm7" A2 GF"Ab6" =EFAc | %21
+w: as- king this,|on- ly this.|One heart to grow a lit- tle|ten- der,|two eyes to glow with lov's own|
+w: |||||
+"Bb7" _d4 =d4 |"Eb" f2 ed"G7" defe |"F7" e4 =A4 |"Bb7" c3 D D4 | c3 B"^Eb" B4- | B6 z2 :| %27
+w: splen- dour,|two lips to give me sweet sur-|ren- der,|just a kiss,|just a kiss.-||
+w: ||||||
+

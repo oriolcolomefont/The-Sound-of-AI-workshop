@@ -1,0 +1,34 @@
+X:1
+T:Joyful, Joyful, We Adore Thee
+T:Joyful, Joyful, We Adore You
+C:Ludwig van Beethoven
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" F F"Dsus4" G"D" A |"A" A G F E |"D" D D"A" E"D" F | F3/2 E/"A" E2 |"D" F F"Dsus4" G"D" A | %5
+w: Joy- ful joy- ful,|we a dore Thee,|God of glo- ry,|Lord of love.|Hearts un- fold like|
+w: All thy works with|joy sur- round Thee,|Earth and heaven re|flect Thy rays|Stars and an- gels|
+w: Thou art giv- ing|and for- giv- ing|Ev- er bless- ing|ev- er blest.|Well- spring of the|
+w: Mor- tals join the|might- y cho- rus|Which the morn- ing|stars be- gan|Love di- vine is|
+"G/B" A G"Em" F E |"D/A" D D"A" E"D" F |"A7" E3/2 D/"D" D2 ||"A" E E"D/A" F D | %9
+w: flowers be- fore Thee|Open- ing to the|sun a- bove|Melt the clouds of|
+w: sing a- round Thee|Cen- ter of un-|bro- ken praise.|Field and for- est,|
+w: joy of liv- ing|O- cean depth of|hap- py rest!|Thou our Fa- ther,|
+w: reign- ing o'er us|Lead- ing us with|mer- cy's hand.|Ev- er sing- ing|
+"A" E F/G/"D/A" F D |"A" E F/G/"F#7/A#" F E |"Bm" D"E" E"A" A,2 |"D" F F"Dsus4" G"D" A | %13
+w: sin and * sad- ness|Drive the * dark of|doubt a- way|Giv- er of im-|
+w: vale and * moun- tain|Flow- ery * mea- dow,|flash- ing sea|Chant- ing bird and|
+w: Christ our * Bro ther|All who * live in|love are Thine|Teach us how to|
+w: march we * on- ward|Vic- tors * in the|midst of strife.|Joy- ful mu- sic|
+"G/B" A G"Em" F (G/E/) |"D/A" D D"A" E"D" F |"A7" E3/2 D/"D" D2 |] %16
+w: mor- tal glad- ness, *|fill us with the|light of day!|
+w: flow- ing foun- tain *|Call us to re-|joice in Thee!|
+w: love each oth- er *|Lift us to the|joy di- vine!|
+w: leads us sun- ward *|in the tri- umph|song of life|
+

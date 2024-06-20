@@ -1,0 +1,33 @@
+X:1
+T:Lili Marlene
+T:Lili Marlene
+C:Norbert Schultze
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"C" E>EE>F G2 E2 |"Dm7" F>FF>c"G7" B4 | D>DD>E F2 F>G | B>AG>F"C" E3"C7" C |"F" A2 B>c B2 A2 | %5
+w: Un- der- neath the lan- tern|by the bar- rack's gate|dar- ling I re- mem- ber the|way you used to wait. 'Twas|there that you whis- pered|
+w: Time would come for roll- call,|time for us to part,|dar- ling I'd car- ress you and|press you to my heart. And|there 'neath that far off|
+"C" A2 G2 B3 A |"Dm7" G2 F2"G7" A3 G |"C" F2 E2 G3 E |"Dm7" G3 F"G7" F2 d2 | %9
+w: ten- der- ly that|You loved me you'd|al- ways be my|Li- li of the|
+w: lan- tern light I'd|hold you tight, we'd|kiss good- night my|Li- li of the|
+"C" c4"Cmaj7" G2"C#dim" E2 |"Dm7" G3 F"G7" F2 B,2 |"C" C6"C#dim" e2 |"Dm7" g3 f"G7" f2 B2 |1 %13
+w: lamp- light my|own Li- li Mar-|lene. *||
+w: lamp- light my|own Li- li Mar-|lene *||
+"C""F""C""G7" c8 :|2"C" c8 ||"C" E>EE>F G2 E2 |"Dm7" F>FF>c"G7" B4 | D>DD>E F2 F>G | %18
+w: ||Or- ders came for sail- ing|some- where ov- er there.|All con- fined to bar- racks was|
+w: ||Rest- ing in a bil- let|just be- hind the line,|ev- en tho' we're part- ed your|
+ B>AG>F"C" E3"C7" C |"F" A2 B>c B2 A2 |"C" A2 G2 B3 A |"Dm7" G2 F2"G7" A3 G |"C" F2 E2 G3 E | %23
+w: more than I could bear. I|knew you were wait- ing|in the street. I|heard your feet But|could not meet. My|
+w: lips are close to mine, You|wait where that lan- tern|soft- ly glows, Your|sweet face seems to|haunt my dreams. My|
+"Dm7" G3 F"G7" F2 d2 |"C" c4"Cmaj7" G2"C#dim" E2 | G3 F F2 B,2 |"C" C6"C#dim" z2 | %27
+w: Li- li of the|lamp- light, My|own Li- li Mar-|lene.|
+w: Li- li of the|lamp- light, My|own Li- li Mar-|lene|
+"Dm7" z4"G7" z4 |1"C""F" z4"C""G7" z4 :|2"C" z8 |] %30
+w: |||
+w: |||
+

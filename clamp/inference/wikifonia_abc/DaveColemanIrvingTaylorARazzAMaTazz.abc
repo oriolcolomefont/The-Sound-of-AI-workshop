@@ -1,0 +1,34 @@
+X:1
+T:A-Razz-A-Ma-Tazz
+T:A-Razz-A-Ma-Tazz
+T:Dave Coleman
+T:Irving Taylor
+C:Dave Coleman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z C |:"F" c =B c A- | A3"Ab7" _A |"G7" G ^F G D- | D4 |"C7" c B G c- | c B G2 |"F" A ^G A F- | %8
+w: A-|razz- a- ma- tazz,|* A-|razz- a- ma- tazz,||I love a tune|* that's got|plen- ty of jazz,|
+w: |||||When I hear rag-|* time I|lose all my cares,|
+"F7" F4 |"Bb" D ^C D"Bbm" F- | F3 G |"F" A ^G"Cm" A"D7" B- | B4 |"G7" A2 A2 | A G F D | %15
+w: |Noth- in' too smart|* and|noth- in' too sweet,||Some- thin'|catch- y that- 'll|
+w: |Nith- in' too soft|* and|noth- in' too slow,||I go|craz- y when that|
+"Gm" F D F"C7" E- | E3 C |"F" c =B c A- | A3"Ab7" _A |"G7" G ^F G D- | D4 |"C7" c B G c- | c B G2 | %23
+w: tick- le my feet.|* A-|razz- a- ma- tazz,|* is|some- thin' to hear,||When I'm out danc-|* in' or|
+w: horn starts to blow.|||* is|what I re- quest,||When I'm out danc-|* in in|
+"A7" A G E A- | A4 |"Bb" D ^C D"Bbm" F- | F3 G |"F" A ^G"Cm" A"D7" B- | B3 D |"G7" A G A G | %30
+w: drink- in' a cheer,||Can't tell you why|* I|love what it has,|* A-|razz- a- razz- a-|
+w: my Sun- day best,||Out on the floor|* I'm|one of the squares,-|||
+"C7" c G A A- |1"F" A2 F2- || F c c c |"C" c z z"G7" =B |"C7" B z z"F" A |"C7" G"F" F"C7" E"G7" D | %36
+w: razz- a- ma- tazz.||* And when the|band, gives|out, I|stand right up and|
+w: ||||||
+"C" C z"C7" C2 :|2"F" A2 F2- || F z f z |] %39
+w: shout A-|||
+w: |||
+

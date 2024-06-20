@@ -1,0 +1,28 @@
+X:1
+T:Shangri-La
+T:Shangri-La
+C:Matt Malneck, Robert Maxwell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" z E F G |"Dm7" E D3 |"Gm" z E F G |"C9""C7b9" A4 |"F" z E F G |"Dm7" E D2 F |"Gm7" A B G A | %7
+w: Your kiss- es|take me|to Shan- gri-|La.|Each kiss is|mag- ic that|makes my lit- tle|
+"Gb7" B c"C7b9" _d3/2 c/ |"Fmaj7" c4- |"F6" c c c c |"Ab9" c _e2 c |"Dbmaj7" c _e2 c | %12
+w: word a Shan- gri-|La.|* A land of|blue- birds and|foun- tains and|
+"Gb9" B _d2 B |"Fmaj7" A3"F6" A |"Bbmaj7" A c2 A |"Eb9" A c2 c |"Gm7" G3 D |"C9" A4 |"F" z E F G | %19
+w: noth- ing to|do, But|cling to an|an- gel that|looks like|you.|And When you|
+"Dm7" E D3 |"Gm" z E F G |"C7""C9" A4 |"F" z E F G |"Dm7" E D2 F |"Gm7" A B G A | %25
+w: hold me,|How wam you|are.|Be mine my|dar ling And|spend your life with|
+"Gb7" B c _d3/2 e/ |"Fmaj7" c4- | c3 c |"Gm7" B c G A |"Gb7" B c"C7b5" _d3/2 c/ |"Fmaj7" c4 | %31
+w: me in Shan- gri-|La|* For|an- y- where you|are is Shan- gri-|La|
+ z"F6""^(Instumental)" E F G |"Dm7" E D3 |"Gm" z E F G |"C7""C9" A4 |"F" z"^(Instrumental)" E F G | %36
+w: ||How wam you|are.||
+"Dm7" E D2 F |"Gm7" A B G A |"Gb7" B c _d3/2 c/ |"Fmaj7" c4- | c3 c |"Gm7" B c G A | %42
+w: * * You|make my lit- tle|word a Shan gri-|La|* For|an- y- where you|
+"Gb" B c"C7b9" _d3/2 e/ |"F" f4 |] %44
+w: are is Shan- gri-|La|
+

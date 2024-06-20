@@ -1,0 +1,51 @@
+X:1
+T:More Than A Woman
+T:More Than A Woman
+T:Barry,Robin & Maurice Gibb
+C:Barry,Robin & Maurice Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dbmaj7""^medium disco beat" c>F z F- F2 F<_A | (3c2 B2 c2 (3_e2 c2 B2 |"Bb/C" c>B z B- B2 B2 | %3
+w: |||
+w: |||
+ c2 z3/2 G/ A<c- c2 |:"Fmaj7" Accc/c/- c/c/d z C | Ac/c/- c/cd/- dc/c/- c/cc/- | %6
+w: |Girl, I've known you ver- * y well. I've|seen you grow- * in' ev- * 'ry day. * I nev-|
+w: |There are sto- ries old * and true of|peo- ple so * in love * like you * and me|
+"Bb/C" c/BB/- B/AA/- AG/G/-G z | c/cB/BA AG/G/-GF |"Fmaj7" Ac/c/- c/cc/- c/cd/-d z | %9
+w: * er real- * ly looked * be- fore, *|but now you take my breath a- way. * *|Sud- den- ly * you're in * my life, *|
+w: * and I * can see * my- self *|let his- to- ry re- peat it- self. * Re-|flect- ing how * I feel * for you, *|
+ Ac/c/- c/cd/- dccc |"Bb/C" cB/B/- B/AA/- AGG z | c/cB/BA/A/- A/GG/-G z | %12
+w: part of ev- * 'ry thing * I do, You|got me work- * ing day * and night|just tryin' to keep a hold * on you. *|
+w: think- in' 'bout * those peo- * ple then, I|know that in * a thou- * sand years|I'd fall in love with you * a- gain. *|
+"Ab" z ccc/c/-"Bb" c/cd/-dc |"Ebmaj7" B>B-Bc-"Cm" c/B/G z2 |"Ab" z ccc/d/-"Bb" dccB | %15
+w: Here in your arms * I found * my|par- a- * dise, * * *|my on- ly chance * for hap- pi-|
+w: This is the on- * ly way * that|we should * fly, * * *|This is the on- * ly way to|
+"Gm" B2 z2 z4 |"Ab" z c/c/- c/cc/-"Bb" cc/d/-dc |"Ebmaj7" BBBc-"Cm" c/B/G z/ c3/2 | %18
+w: ness.|And if * I lose * you now, * I|think I would die) * * * Oh,|
+w: go.|And if * I lose * your love, * I|know I would die)- * * * *|
+"Dbmaj7" cc/c/- c/B_e/- e_dcB | cc c/Bc/- c z z2 | cccB/_e/- e_dcB |"Bb/C" cc/c/- c/cc/ z4 | %22
+w: say you'll al- * ways be * my ba- by,|We can make it shine *|We can take for- ev- * er just a|min- ute at- * a time.|
+w: ||||
+ d>cAd- d c3 |"Dbmaj7" z ccB/_e/- e c2 z | F>F z F- F4 |"Ab" z _EEF _ABcB- |"Bbm" B/_A/F z2 z4 | %27
+w: Oh, * * * * *|More than a wo- * man,||More than a wo- man to me,||
+w: |||||
+"Dbmaj7" z ccB/_e/- e c2 z | F>F z F- F4 |"Ab" z _EEF _ABcB- |"Bbm" B/_A/F z2 z4 | %31
+w: More than a wo- * man.||More than a wo- man to me,||
+w: ||||
+"Dbmaj7" c>F z F- F2 F<_A | (3c2 B2 c2 (3_e2 c2 B2 |"Bb/C" c>B z B- B c3- | cd- d/c/A d c3 :: %35
+w: ||* * * * Oh.-||
+w: ||||
+"Dbmaj7" z"^repeat and fade" ccB/_e/- e c2 z | F>F z F- F4 |"Ab" z _EEF _ABcB- | %38
+w: More than a wo * man||More than a wo- man to me.-|
+w: |||
+"Bbm" B/_A/F z2 z4 :| %39
+w: |
+w: |
+

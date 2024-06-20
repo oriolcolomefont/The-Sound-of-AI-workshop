@@ -1,0 +1,36 @@
+X:1
+T:NEVER EVER
+C:King/King
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"A7" z2 z =c- c2Ac c2zc- cAc2 |"A7" z2 z =c- c2Ac c2zc- cAc2 | z2 AB cd2e- dd2c- c2<B2 | %3
+w: Bah _ bah bah _ Bah _ Bah Bah|Bah _ bah bah _ Bah _ Bah Bah|Did you ev er lose _ your mind _ now?|
+w: ||You must nev er show _ your sor _ row|
+w: ||Did you ev er hurt _ _ in side ?|
+ z2 AB cd2e- ed2c- c2<B2 | z2 AB cd2e- ed2c c2<d2 | z"Bm7" c2B2A2B2cB2 A-A z2 | %6
+w: Did you say there's no _ to mor _ row?|Did you ev er think _ that you _ were|1.2.Not the one you should 've been _|
+w: Just re mem ber there's _ to mor _ row|Ev en if he told _ you that _ you're|3.down and not supp posed to win _|
+w: He left your room with _ out good bye _|Did you ev er thinl _ that you _ were||
+ z cB2 A2B2 c2BA z AAA |"D" z2 d2- dddd"A" cB2B- B2<c2 |"D" z2 d2- dcd"C#m7"e- e8 | z2 cB z2 A2 | %10
+w: Heed my words and don't give in * * *|Nev _ er Ev er Think of Bad _ Times|Just _ re mem ber _||
+w: heed my words get "UP" a gain * * *||||
+w: ||||
+"D""^CHORUS:" z2 d2- dddd"A" cB2B- B2<c2 | E4 GEGE z D2=C z A,G,^G, :|"E7" z8 z4 z cc2 |"D" d16 | %14
+w: Nev _ er Ev er Nev er Ev _ er|_ _ _ _ _|Bah Bah|Bah|
+w: ||||
+w: ||||
+"A7" z8 z4 z cc2 |"D" d16 |"E7" z8 z4 z cc2 |"D""^Instrum Break" d16 |"A7" z2 AA AAAA AA2A- A2<A2 | %19
+w: Bah Bah|Bah|Bah Bah|Bah|nev er ev er, ev er Nev er ev _ er|
+w: |||||
+w: |||||
+"D" d16 |"A7" z4 z4 z4 z4 :| %21
+w: BAH||
+w: ||
+w: ||
+

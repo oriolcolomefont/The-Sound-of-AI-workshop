@@ -1,0 +1,25 @@
+X:1
+T:Meditation
+T:Meditation
+C:Jules Massenet
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" f4- fd (3Adf | b4 c'2 d'2 | d3 e (5:4:5f/g/f/e/f/ aA |"G" B6 cd |"Em" fe g2 g2 ^de | %5
+ fgab b2 B2 |"A7" c4"G/B" d2 e/d/c/d/ |"A7/C#" e4"Bbm/Db" =f4 |"D" f4- fd (3Adf | b4 c'2 d'2 | %10
+ f4- fd A/d/f/a/ |"C/E" =c'4 d'2 e'2 |"B" f'4- f'^d' (3bf^d | %13
+"Em" (3:2:2a2 g (3eBG (3:2:2f2 e (3BGE |"D/A" (3:2:2d2 A (3FDA, B,2 CD |"Em/A" E4 F2 G2 | %16
+ E2 F2 B,2 E2 |"Em" D4"A7" C4!dacoda! ||"D" D8 |"C" =c4- cGAE |"F#7" G2 F2- F2 (3^A^ce | %21
+"Em7" e4- eBcG |"A7" B2 A2- A2 (3ceg |"G" g3 a"Bm" bfdB |"Am" e>f (5:4:5e/^d/e/f/g/ ge=cG | %25
+"C" _B4 A2 G2 |"C7" a2 g=f e2 d=c |"F" d'3 =c' a3 c' | e'3 d' =c'2 ac' | %29
+"Bbm" =f'3 e'"Fm/A" g'f'=c'_a |"Bbm" =fe"G"gf"Fm" f=c_A=F |"Gdim" =F>E E2-"Bbm" EF-FF | %32
+"Gdim" =F>E E2-"Fm" EF-FF |"A7" =F>E E2-"Edim" EG-G_B |"A7" _B>G E/G/B/^c/"Edim" e=f^fg- | %35
+"A7" gf=fe ga^a=b | b3 g- ge-ec!D.C.! ||O"D" D8- | D6 A2 |"Ddim" B4 c2 d2 |"D" f4- fd (3AFD | %41
+"Eb7" G2 _B2- B2"A7" C2 |"D" D4- DCDE | D4- DCDE | D4- DFDf | f8- | f8 |] %47
+

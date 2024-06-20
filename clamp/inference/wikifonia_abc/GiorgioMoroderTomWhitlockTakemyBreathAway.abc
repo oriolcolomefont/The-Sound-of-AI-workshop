@@ -1,0 +1,61 @@
+X:1
+T:Take my Breath Away
+C:Giorgio Moroder, Tom Whitlock
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="Lead sheet"
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"^Take My Breath Away""^www.notonly.ru""^Giorgio Morodr\nTom Whitlock" x4 EFAB |"Ab" A4- AEAG- | %2
+w: ||
+w: ||
+w: ||
+"Cm/G" G4 z E GF- |"Fm" F4 z C FG- |"Cm/G" G4 EFAB |:S"Ab" AAAA A2 EG- |"Cm/G" GGGG G2 EF- | %7
+w: |||Watch- ing ev- 'ry mo- tion in|* my fool- ish lo- ver's game.|
+w: |||Watch- in, I keep wait- ing, still|* an- tic- i- pat- ing love.|
+w: |||Watch- ing ev- 'ry mo- tion in|* this fppl- ish lov- er's game.|
+"Fm" F8 |"Cm/G" z4 EFAB |"Ab" AAAA A2 EG- |"Cm/G" GGGG G2 E(F- |"Fm" FE/C/- C6) |"Cm/G" z4 EFAB || %13
+w: ||On this end- less o- cean, fi-|* n'lly lov- ers know no shame.|||
+w: ||Nev- er hes- i- tat- ing to|* be- come the fa- ted ones.|||
+w: ||Haunt- ed by the no- tion some-|* where there's a love in flames.|||
+"Bbm" BBBB B2 FA- |"Db/Ab" AAAF A2 B(G- |"Eb" GF/E/- E6) | z4 EFAB |"Ab" AAAA A2 EG- | %18
+w: Tur- ning and re- tur- ning to|* some sec- ret place in- side.|||Watch ing in slow mo- tion as|
+w: |* * * * * to hide.||||
+w: |* * * * * in- side.||||
+"Cm/G" GGGG G3 E |"Db" (F>E D6) |"Eb" z4 EFAB |"Ab" A4 z E AG- |"Cm/G" G4 z E GF-"^To Coda" |1 %23
+w: * you turn a- round and|say * *|"Take my breath a-|way". * * *||
+w: * * * my way *|||||
+w: * * * to me *|||||
+"Db" F4 z D FG- |"Eb" G4 EFAB |"Ab" A4 z E AG- |"Cm/G" G4 z E GF- |"Db" F4 z D FG- | %28
+w: |* "Take my breath a-|way". * * *|||
+w: |||||
+w: |||||
+"Eb" G4 EFAB :|2"Fm" z4 z C FG- ||"Cm/G" G4"Ab" A4 ||"Bb" BBBB B B2 B- |"Eb/G" B B3 z2 BB- | %33
+w: |||Trough the ho- ur glass I saw|* you in time|
+w: |||||
+w: |||||
+"Db" B A2 G- G(FE)E- |"Ab" E8 |"Bb" BBBB B B2 B- |"Eb/G" B B3 z2 BB- |"Db" B A2 G- G F2 E- | %38
+w: * you slipped * a- _ way||When the mir- ror crashed, I called|* you and turned|* to hear * you say:|
+w: |||||
+w: |||||
+"Ab" E3 B, EFGA |"Bb" F8 | z3 F- F F2 E/C/ |"Eb" (EC/B,/- B,6) | z4 EFAB |"Ab" A4 z E AG- | %44
+w: * If on- ly for to-|day|I * am un a-|fraid * * *|"Take my breath a-|way". * * *|
+w: ||||||
+w: ||||||
+"Cm/G" G4 z E GF- |"Fm" F4 z C FG- |"Cm/G" G4 EFAB |"Ab" A4 z E AG- |"Cm/G" G4 z E GF- | %49
+w: ||* "Take my breath a-|way". * * *||
+w: |||||
+w: |||||
+"Fm" F4 z C FG- |"Cm/G" G4 EFAB"^D.S. al Coda" |:"^Coda""Db" z4 z F2 E- |"Eb" E4 EFAB | %53
+w: ||"My love,|* take my breath a-|
+w: ||||
+w: ||||
+"Ab" A4 z E AG- |"Cm/G" G4 z E GF"^Repeat and Fade" :| %55
+w: way". * * *||
+w: ||
+w: ||
+

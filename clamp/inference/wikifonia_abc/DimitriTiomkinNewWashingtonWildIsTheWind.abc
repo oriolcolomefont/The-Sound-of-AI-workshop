@@ -1,0 +1,28 @@
+X:1
+T:Wild Is The Wind
+T:Wild Is The Wind
+C:Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Gm7" ^C2 D2 A2 G2 |"Eb7" B3 E E4 |"Gm7" ^C2 D2 A2 G2 |"Cm7" d3 G G4 |"F7" ^F2 G2 d2 A2 | %5
+w: Love me, love me|say you do.|Let me fluy a-|way with you,|for my love is|
+"Bbmaj7" c2 G2"D+7" B2 ^F2 |"Gm7" AG^FG"Eb7" A4- |"Adim7""D7" A8 |"Gm7" ^C2 D2 A2 G2 | %9
+w: like the wind and|wild _ is the wind!|_|ive me more than|
+"Eb7" B3 E E4 |"Gm7" ^C2 D2 A2 G2 |"Cm7" d3 G G4 |"F7" ^F2 G2 d2 A2 |"Bbmaj7" c2 G2"D+7" B2 ^F2 | %14
+w: one ca- ress;|sat- is- fy this|hun- gri- ness.|Let the wind blow|through your heart, for|
+"Gm7" AG^FG"Eb7" A4- |"Cm7""F7" A8 |"Bbmaj7" d8 | c4 B4- | BBAB cBAB |"Cm7""F7" c8 |"Cm7" c8 | %21
+w: wild _ is the wind!|_|You|touch me;|_ I hear the sound of man- do-|lins.|You|
+"Eb7" B4"D7" A4- |"Gm7" AAGA BAGA |"C7" B8 |"Cm7" B4 AG F2 |"F7" A4 GF E2 |"Cm7" G4"F7" d2 c2 | %27
+w: kiss me,|_ and with that kiss the world be-|gins.|You're spring to me,|all things to me.|You're life it-|
+"Adim7""D7" A8 |"Gm7" ^C2 D2 A2 G2 |"Eb7" B3 E E4 |"Gm7" ^C2 D2 A2 G2 |"Cm7" d3 G G4 | %32
+w: self!|Like a leaf clings|to a tree,|oh, my dar- ling|cling to me,|
+"F7" ^F2 G2 d2 A2 |"Bbmaj7" c2 G2"D7" B2 ^F2 |"Gm7" AG^FG B3 D |"Gm7" B8 |"Adim7" AG^FG"D+7" B3 D | %37
+w: for we're crea- tures|of the wind and|wild _ is the wind, the|wind.|Wild _ is my love for|
+"Gmaj7" =B8- |"Adim7" B4"D7" z4 :|"Gmaj7" =B8- | B8- | B8 |] %42
+w: you.|||||
+

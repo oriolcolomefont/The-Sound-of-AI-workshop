@@ -1,0 +1,29 @@
+X:1
+T:This is The Life
+T:This is the Life
+T:Charles Strouse
+T:Lee Adams
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"G" D G2 D |"C" C z z2 |"D7" C A2 F |"G" F G B,2 | D G2 D |"C" C z z2 |"D7" C A2 F |"G" G4 | %8
+w: This is the|life!|Here's where the|liv- in' is!|This is the|life!|Ba- by, you're|there!|
+w: House at the|beach.|Din- ners at|Twen- ty one.|Head wait- ers|smile|when you walk|in.|
+ D G2 D |"C" C z z2 |"D7" C A2 F |"G" F G B,2 |"G" D G2 D |"C" C z z2 |"D7" C A2 F |"G" G4 | %16
+w: This is the|life!|You've wait- ed|long e- nough.|Man, you've arr-|ived,|breathe in that|air!|
+w: Hand- tai- lored|suits,|shirts with your|mon- a- gram,|feel of real|silk|next to your|skin.|
+"C" B c2 G |"D7sus4" A4 |"Am6" A B2"B7" F |"E" F ^G =G2 |"A7sus4" E A2 E |"A7" A4 | %22
+w: Wine and per-|fume,|sil- ver and|can- dle- light.|Chil- dren make|way,|
+w: Top of the|heap,|first cab- in|all the way.|How sweet the|song|
+"D7sus4" A d2 A |"D7" d4 |"G" D G2 D |"C" C z z2 |"D7" C A2 F |"G" F G B,2 |1 D G2 D | %29
+w: I'm here to|stay!|Noth- in' but|class,|that's how it's|gon- na be!|This is the|
+w: when you be-|long.||||||
+"Ab" c2"D7" F2 |"G" G z z2 || z4 :|"Ab" c4- | c4- | c z"D7" E2 |"G" G4- | G4- | G z z2 |] %38
+w: life for|me.||||||||
+w: |||||||||
+

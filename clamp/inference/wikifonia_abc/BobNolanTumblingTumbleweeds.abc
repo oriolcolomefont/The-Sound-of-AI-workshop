@@ -1,0 +1,25 @@
+X:1
+T:Tumbling Tumbleweeds
+T:Tumbling Tumbleweeds
+T:Bob Nolan
+C:Bob Nolan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" c4- (3c z c (3cB_B | A8 |"E" B4- (3BBB (3B_BA | ^G8 |"F" A4- (3AAA (3AGF |"C" E8 | %6
+w: See _ them tum- bl- ing|down|Pledg- * ing their love to the|ground|lone- * ly but free I'll be|found|
+"G7" G2- (3GGG (3G^F=F (3E^D=D |"C" ED C4- C z |"F" c4- (3ccc (3cB_B | A8 |"E" B4- (3BBB (3B_BA | %11
+w: drift- * ing a- long with the tum- bl- ing|tum- ble weeds _|Cares _ of the past are be-|hind|No- * where to go but I'll|
+ ^G8 |"F" A4- (3AAA (3AGF |"C" E8 |"G7" G2- (3GGG (3G^F=F (3E^D=D |"C" ED C2- C z E_E | %16
+w: find|just _ where the trail * will|wind|drift- * ing a- long with the tum- bl- ing|tum- ble weeds _ I _|
+"Fm" D4-"G7" DEFE |"C" G6 EE |"Am" ^F4-"B" FGA^A |"Em" B8 |"F" c4- (3c z c (3cB_B | A8 | %22
+w: know _ when night has|gone that a|new _ world's born at|dawn|I'll _ keep roll- ing a-|long|
+"E" B4- (3BBB (3B_BA | ^G8 |"F" A4- (3AAA (3AGF |"C" E8 |"G7" G2- (3GGG (3G^F=F (3E^D=D | %27
+w: deep _ in my heart is a|song|here _ on the range I be-|long|drift- * ing a- long with the tum- bl- ing|
+"C" ED C4- C2 |] %28
+w: tum- ble weeds. _|
+

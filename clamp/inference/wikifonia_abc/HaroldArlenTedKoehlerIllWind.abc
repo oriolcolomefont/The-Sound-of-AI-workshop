@@ -1,0 +1,28 @@
+X:1
+T:Ill Wind
+T:Ill Wind
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" B8 |"Dm7" d2 c2"Fm7" _A3 A |"G7" G8 |"Ebm" _d2 c2 B2 _G2 |"Bb" F6- Fd |"F7sus4" fe _G4 G2 | %6
+w: Blow|ill wind, blow a-|way,|let me rest to-|day. * You're|blow- in' me no|
+"Bb" B8- | B4"F+7" _A4 |"Bb" F8- |"Eb7""F7" F8 |"Bb" B8 |"Dm7" d2 c2"Fm7" _A3 A |"G7" G8 | %13
+w: good,|* no|good.||Go|ill wind, go a-|way,|
+"Ebm" _d2 c2 B2 _G2 |"Bb" F6- Fd |"F7sus4" fe _G4 G2 |"Bb" B8- | B2 _A2"F+7" A2 A2 |"Bb" F8- | %19
+w: skies are oh, so|gray, * A-|round my neigh- bor-|hood|* and that's no|good.|
+ F4-"F7" F3 ^c |"D7" d D2 ^c"Em7" d D2 c |"Fm" d D2 ^c"D7" d D3 |"G7" (3d2 d2 d2 d"Edim" =e3- | %23
+w: * * You're|on- ly mis- lead- in' the|sun- shine I'm need- in',|And ain't that a- shame.|
+ e4-"G7" e3 _e |"D7" d D2 e"Em7" d D2 e |"Fm" d D2 e"D7" d D2 e |"Dm7" d2 GG- G G2 G | %27
+w: * * It's|so hard to keep up with|troub- les that creep up From|out of no- * where, When|
+"Cm7b5" e2 _G2"F+7""F7" !fermata!F4 |"Bb" B8 | d2 c2"Fm7" _A3 A |"G7" G8 |"Bbm" _d2 c2 B2 _G2 | %32
+w: loves- to blame.|So|ill wind, blow a-|way,|let me rest to-|
+"Bb" F6- Fd |"F7" fe"F7b9" _G4 G2 |"Bbmaj7" B8- |"C7" B4"F7" c4 |"Bbmaj7" d8- |"C7" d4"F7" c4 | %38
+w: day, * You're|blow- in' me no|good,|* no|good,|* no|
+"Bbmaj7" d8- |"Bb" d8- | d8- | d8 |] %42
+w: good.||||
+

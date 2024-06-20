@@ -1,0 +1,24 @@
+X:1
+T:Flashdance... What a Feeling
+C:Giorgo Moroder
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+V:1
+"Bb" D6 CB, |"F" CC z2 z2 CD |"Cm" E6 DD |"Gm" D>C B,2 z2 CB, |"Eb" G6 FE |"Bb" F4 z2 EF | %6
+ E/"Ab"D/C- C4 z B, |"Eb" C2 z2"F" z2 (3z B,C |"Bb" D6 CB, |"F" C4 z2 CD |"Cm" E6 DD | %11
+"Gm" D/C/B,- B,2 z2 CB, |"Eb" G6 FE |"Bb" F4 z2 EF | E/"Ab"D/C- C6- |"Ab" C2 z2 z4 |"Eb" z8 | %17
+"F" z4"Eb" z B,2"F" C ||"Bb" D4- D C2 B, |"F" C2 F,2 z2 CD |"Cm" E6 DC |"Gm" (3DCB, B,2 z2 CB, | %22
+"Eb" G4- G B2 G |"Bb" F4 z2 ED | E/"Ab"D/C- C6- |"Eb" C2 z2"F" z F AB- ||"Gm" B2 B2 z4 | %27
+"Eb" z4"F" F2 Ac- |"Gm" cBBF"F" G2 z2 |"Eb" z4"F" F A2 B- |"Bb" B B2 c-"Cm7" cBA"F7"B- | %31
+ B"Bb" B2 c- c"Eb"FFF- | F8 |"Eb" z4"F" F2 AB- |"Gm" BB G2"F" z4 |"Eb" z4"F" F A2 B- | %36
+"Bb" B B2 c-"Cm7" cBA"F7"B- | B"Bb" B2 c- c"Eb"FFF- | F8- |"F" F2 (3GFD F2 G2 | z8 | z8 | z8 | z8 | %44
+ z8 | z8 | z8 |"Eb" z4"F7" z"_D.S. al Coda" G (3GFE ||O F6-"F7" FG |"Eb" z4"F" z F Ac- | %50
+"Ab" c2 B6- |"Ab" B8 |"F7" z8 |"F" z8 | z8 | z8 | z8 |"Eb" z4"F" z F AB- |"Gm" B2 BF"F" G2 z2 | %59
+"Eb" z4"F" F2 Ac- |"Gm" c B2 c-"F" cB G2 |"Eb" z4"F" F A2 B- |"Bb" B B2 c-"Cm7" cBAB- | %63
+"Bb" B B2 c-"Eb" cBBc- | c8- |"F" cd/c/ B/c/ z F A2 B- |:"Gm" B2 BF G2"F" z2 |"Eb" z4"F" F A2 B- :| %68
+

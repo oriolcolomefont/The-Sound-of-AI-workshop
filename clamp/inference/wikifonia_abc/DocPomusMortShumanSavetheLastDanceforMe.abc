@@ -1,0 +1,35 @@
+X:1
+T:Save the Last Dance for Me
+T:SaveTheLastDance-Drifters2
+C:Doc Pomus, Mort Shuman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 13
+%%MIDI program 5
+V:1
+ z8 | z4 z2"Dmin7" CD |"C " E2 z4 EE | E2 EE E2 E2 | E2 EE E2 FE |"G7" E2 DD- D4 | z4 z2 DE | %7
+w: |You can|dance ev ery|dance with the guy who|gave you the eye let him|hold you tight. *|You can|
+ F2 z4 FF | F2 FF F2 F2 | F2 FF- F2 G=F |"C " F2 EE- E4 | z2 E2"G7" F2"C7" G2 |"F " A2 A2 A A2 B | %13
+w: smile ev ery|smile for the man who|held your hand * 'neath the|pale moon light. *|But don't for|get who's tak ing you|
+ c2 c2 dcBA |"C " A2 GG- G4 | z4 z2 G2 |"G7" G D3- D2 =DE | F4 E2 D2 |"C " C8 | z4 z2 CD | %20
+w: home and in whose arms you're|gon na be. *|So|dar lin' * save the|last dance for|me.|Oh I|
+ E2 z4 EE | E2 EE E2 E2 | E2 EE E2 FE |"G7" E2 DD- D4 | z4 z2 DE | F2 z4 FF | F2 FF F2 F2 | %27
+w: know that the|mu sic is fine like|spark ling wi ne go and|have your fun. *|Laugh and|sing but wh|ile we're a part don't|
+ F2 FF- F2 G=F |"C " F2 EE-"Emin" E4 |"C " z2 E2"G7" F2"C7" G2 |"F " A2 A2 A A2 B | c2 c2 dcBA | %32
+w: give your heart * t o|an y one. *|But don't for|get who's tak ing you|home and in whose arms you're|
+"C " A2 GG- G3 z | z4 z2 G2 |"G7" (3:2:2G2 D- D4 =DE | F4 E2 D2 |"C " C8 | z2 G,G, CC"Amin7"A,G, | %38
+w: gon na be. *|So|dar lin' * save the|last dance for|me.|Ba by don't you know I|
+"G7" B,2 DD- D4- | D2 B,B, =DD"Emin"B,B,/C/ |"C " z8 | z2 G,G, CC"Amin7"A,G, |"G7" D/4D7/4DD- D4 | %43
+w: love you so? *|* Can't you feel it when we touch?||I will ne ver ne ver|let you g o. *|
+ z2 z G GFED |"C " C2 z2 z4 | z4 z2 CD | E2 z4 EE | E2 EE- E2 =EE | E2 EE- E z"Amin7" F=E | %49
+w: I love you oh so|much.|You can|dance go and|car ry on * 'til the|night is gone * and it's|
+"G7" E2 DD- D4 | z4 z2"Emin7" DE |"G7" F2 z4"Dmin" FF |"G7" F2 FF- F2 =FF | F2 FF- F2 G=F | %54
+w: time to go. *|If he|asks if you're|all a lone * can he|take you home * you must|
+"C " F2 EE- E4 | z2 E2"G7" F2"C7" G2 |"F " A2 A2 A A2 B | c2 c2 dc"Dmin7"BA |"C " A2 GG- G4 | %59
+w: tell him no. *|'Cause don't for|get who's tak ing you|home and in whose arms you're|gon na be. *|
+ z4 z2 G2 |"G7" (3:2:2G2 D- D4 =DE | F4"Emin7" E2 D2 |"C " C8- | C6 z2 | z8 |"F ""C " z8 |] %66
+w: So|dar lin' * save the|last dance for|me.||||
+

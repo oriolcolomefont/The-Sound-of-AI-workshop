@@ -1,0 +1,33 @@
+X:1
+T:Titanium
+T:Titanium
+T:Sia Furler, David Guetta, Giorgio Tuinfort, Afrojack
+C:Afrojack, David Guetta, Giorgio Tuinfort, Sia Furler
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"Eb" z B Bced- |"Gm" d6 Bf |"Cm" e e2 d2 d2 c- | c c2 e- e4 |"Eb" z2 z B Bced- | %5
+w: You shout it lo- ud|_ but I|_ can't hear a word|_ you say. *|I'm tal- king- lo- ud|
+"Gm" d3 B Bc G2- |"Cm" G4 z4 | z8 |"Eb" z2 z B Bced- |"Gm" d6 Bf |"Cm" e e2 d2 d2 c- | c c2 e- e4 | %12
+w: _ not say- ing much|_||I'm cri- ti- ciz- ed|_ but all|_ your bul- lets rich|_ o- chet _|
+"Eb" z4 Bced- |"Gm" d3 B Bc G2- |"Cm" G2 z2 z4 | z8 |"Ab" z2 z c aa g2- |"Bb" g2 z d dg g2- | %18
+w: shoot me down _|_ but I get up|_||I'm bul- let proof|_ no- thing to lose|
+"Gm" g2 z2 d2 df |"Cm" g3 d- d2 ec- |"Ab" c4 aa g2- |"Bb" g2 z d dg g2- |"Gm" g2 z2 d2 df | %23
+w: _ fire a- way|_ fire _ a- way|_ Rich- o- chet|_ you take your aim|_ Fire a- way|
+"Cm" g3 d- d2 ec- |"Ab" c2 z E cc B2- |"Bb" B2 z G GB B2- |"Gm" BG z2 GGGe- |"Cm" e3 d- d3 c- | %28
+w: _ fire _ a- way.|_ You shoot me down|_ but I won't fall|_ _ I am ti ta|_ ni _ um|
+"Ab" c2 z E cc B2- |"Bb" B2 z G GB B2- |"Gm" BG z2 GGGe- |"Cm" e3 d- d3 c- |"Ab" c2 z2 B2 G2- | %33
+w: _ You shoot me down|_ but I won't fall|_ _ I am ti- ta|_ ni _ um|_ Stone hard|
+"Bb" G2 z F B2 G2- |"Gm" G2 z2 BBGF |"Cm" F2 A2 G4 |"Ab" z4 B2 G2- |"Bb" G2 z B, BB G2 |"Cm" c8- | %39
+w: * Ma- chine gun|_ fir- ed at the|ones who run.|Stone hard|_ as bul- let proof|glass.|
+ c4 z4 |"Ab" z2 z E cc B2- |"Bb" B2 z G GB B2- |"Gm" BG z2 GGGe- |"Cm" e3 d- d3 c- | %44
+w: _|you shoot me down|_ but I won't fall|_ _ I am ti- ta|_ ni _ um|
+"Ab" c2 z E cc B2- |"Bb" B2 z G GB B2- |"Gm" BG z2 GGGe- |"Cm" e3 d- d3 c- |"Ab" c8 | z8 |] %50
+w: _ you shoot me down|_ but I won't fall|_ _ I am ti- ta|_ ni _ um|_||
+

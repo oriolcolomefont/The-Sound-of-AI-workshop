@@ -1,0 +1,24 @@
+X:1
+T:It Happened In Monterey
+T:It Happened In Monterey
+C:Mabel Wayne
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4"F7" F2 |:"Gm" G2 G3"Bb" F | AB A3 F |"F9" G2 G3 F |"F7" c4 z F |"F9" G2 G3 F |"F7" AB A3 F | %7
+w: It|hap- pened in|Mon- te- rey, a|long time a-|go, I|met her in|Mon- te- rey, in|
+"Gm" G2 G3"Bb" F |"Bb+""Bb" d6 | d2- dc BA | c2- cB AG |"F7" B2- BA GF |"Cdim""F7" A6 | c2- cB AG | %14
+w: old Mex- i-|co|Stars _ and steel gui-|tars, _ And lus- cious|lips, _ as red as|wine,|Broke _ some- bo- dy's|
+ B2- BA GF |"Bb" A2- AG FA |"F9" G4"F7" F2 |"Gm" G2 G3"Bb" F | AB A3 F |"F9" G2 G3 F |"F7" c4 z F | %21
+w: heart, _ And I'm a-|fraid _ that it was|mine. It|hap- pened in|Mon- te- rey, With-|out think- ing|twice, I|
+"F9" G2 G3 F |"F7" c=B c2"A7b5" ^c2 |"D7" d2- d^c =c_B | A6 |"G7" G2 d2 e2 | d2 G4 |"C7" G2 c2 d2 | %28
+w: left her and|threw a- way the|key _ to Par- a-|dise,|My in- dis-|creet heart,|longs for the|
+ c2 G3 F |"F9" G2 G3 F |"F7" c2 c2 d2 |1"Bb""Bb/D""Dbdim7" B6 ||"F7/C" z2 z2"F7" F2 :|2"Bb" B6- || %34
+w: sweet- heart That|I left in|old Mon- te-|rey.|It|rey.|
+ B6 |] %35
+w: _|
+

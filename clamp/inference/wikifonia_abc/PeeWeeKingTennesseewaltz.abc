@@ -1,0 +1,25 @@
+X:1
+T:Tennessee waltz
+T:Tennessee waltz
+T:Skinuo: Blaško Mijić
+C:Pee Wee King
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:E
+V:1 treble-8 
+%%MIDI program 24
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 AB |"A" c(e e2) AB | c(e e2) ab |"A7" c'(e' e'2) c'b |"D" a2 f2 aa |"A" a2 e3 c | f2 e2 c2 | %7
+w: I was|dan- cing * with my|dar- ling * to the|Te- nn- e ss- ee|wa- ltz when an|old friend I|ha- ppened to|
+"E7" (B6 | B4)"A" AB | c(e e2) AB | c(e e2) z b |"A7" c'(e' e'2) c'b |"D" a2 f2 z a |"A" a2 e3 c | %14
+w: see|* In- tro-|duce him * to my|loved one * and|whi- le- e they were|dan- cing my|friend stole my|
+"E7" f2 =d2 B2 | (A6 |"A" A4) ab |: c'4 c'2 |"C#7" b4 c'b |"D" a2 =d2 f2 |"A" e4 aa | a2 e2 c2 | %22
+w: sweat- heart from|me|_ I re-|member the|night and the|Te- nne- ssee|waltz now I|know just how|
+ f2 e2 c2 |"E7" (B6 | B4)"A" AB |"A" c(e e2) AB | c(e e2) z b |"A7" c'(e' e'2) c'b | %28
+w: much I have|lost|_ yes I|lo- st * my little|dar- ling * the|ni- ght * they were|
+"D" a2 f2 z"A" a | a2 e3 c |"E7" f2 =d2 B2 |"A" (A6 |1 A4) AB :|2 (A6 || A6) |] %35
+w: pla- ying the|bea- uti- full|Te- nne- ssee|waltz|_ I re|waltz||
+

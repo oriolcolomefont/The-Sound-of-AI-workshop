@@ -1,0 +1,29 @@
+X:1
+T:Stompin' At The Savoy
+T:Stompin' At The Savoy
+T:Chick Webb
+T:© Dan Parshall
+C:Chick Webb
+Z:Creative Commons BY-NC-SA
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ A3 c |:"Fmaj7" z CDA E2 CD- | D4"C7" A3 c |"Fmaj7" z CDA E2 CD- | D4"F#dim7" A3 c | %5
+w: Sav- voy,|the home of sweet ro- mance|_ Sa- voy,|it wins you at a glance,|_ Sa- voy,|
+"Gm7" z CDF B2 FE- |"C7" E4 A3 F- |"Fmaj7" F4 z4 |"Gm7" z4"C7" A3 c |"Fmaj7" z CDG E2 CD- | %10
+w: gives hap- py feet a chance|_ to dance.|_|Your form,|just like a cling- ing vine|
+ D4"C7" A3 c |"Fmaj7" z CDG E2 CD- | D4"F#dim7" A3 c |"Gm7" z CDF B2 FE |"C7" E4 A3 F- | %15
+w: _ Your lips,|so warm and sweet as wine|_ Your cheek,|so soft and close to mine|_ div- ine!|
+"Fmaj7" F4 z4 |"Cm7" z4"F7" z4 |"Bb7" c B3"B7" _d =B3 |"Bb7" cB- B6 |"Eb7" c B3"Bbm7b5" _e _d3 | %20
+w: _||How my heart is|sing- ing, _|while the band is|
+"Eb7" cB- B6 |"Ab7" B _A3"A7" =B =A3 |"Ab7" B_A- A4 z =A |"Db7" B_ddd- d4 |"C7" Accc A3 c | %25
+w: swing- ing _|nev- er tired of|romp- in _ and|stomp- in with you _|at the Sav- oy What joy!|
+"Fmaj7" z CDG E2 CD- | D4"C7" A3 c |"Fmaj7" z CDG E2 CD- | D4"F#dim7" A3 c |"Gm7" z CDF B2 FE- | %30
+w: A per- fect hol- i- day|_ Sa- voy,|where we can glide and sway|_ Sa- voy,|oh let me stomp a way|
+"C7" E4 A3 F- |"Fmaj7" F4 z4 |"Gm7" z4"C7" z4 :| %33
+w: _ with you.|_||
+

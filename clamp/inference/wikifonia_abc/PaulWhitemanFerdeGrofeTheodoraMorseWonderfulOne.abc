@@ -1,0 +1,26 @@
+X:1
+T:Wonderful One
+T:Wonderful One
+T:Paul Whiteman & Ferde Grofe
+T:Theodora Morse
+C:Paul Whiteman & Ferde Grofe
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B ||"Cm" c2 B/c/ |"D7" B2 A/B/ |"G" A G F |"C#dim" G A z/ E/ | G"D7" F ^E | F A z/ F/ | %7
+w: My|won- der- ful|one, When *|ev- er I'm|Dream- ing, Love's|love- light a-|gleam- ing, I|
+"G" E3- | E2 B |"Cm" c2 B/c/ |"D7" B2 A/B/ |"G" A G F |"Em7" G A z/ B/ |"A7" A E F | G A B | %15
+w: see,|* My|won- der- ful|one, how my|arms ache to|hold dear, To|cud- dle and|fold near to|
+"D7" A3- | A z B |"Cm" c2 B/c/ |"D7" B2 A/B/ |"G" A G F |"C#dim" G A z/ E/ | G"D7" F ^E | F A c | %23
+w: me.|* Just|you, on- ly|you, in the|shad- ow- y|twi- light, In|sil- ver- y|moon- light there's|
+"E7" e3- | e2 e |"Cm6" c c c |"D7" c B A |"G" B B"B7" B |"Em7" B A G |"A7" G E G |"D7" B B D | %31
+w: none|* like|you, I a-|dore you, my|life I live|for you, My|won- der- ful,|won- der- ful|
+"G" G3- | G2 z |] %33
+w: one.-||
+

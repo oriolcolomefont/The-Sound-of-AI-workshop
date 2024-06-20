@@ -1,0 +1,22 @@
+X:1
+T:Hadd zengjen énekszó
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=60
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Bm" B,>B,"A" C>C"D" D2"A" A2 |"D" F>F"A" E/FE/ D/-"D" D3 D/ |"D" D>D F>G"A" A>B A>A | %3
+w: |* * * * * * * Hadd|zeng- jen é- nek szó- ó- ó, fel|
+w: |||
+"D" D>D F>G"A" A>B A2 |:"A" A>B A>G"D" F2 D>D |"A" E>E F>E"D" D>E FF :| %6
+w: é- gig uj- jon- gó- ó- ó|Já- szo- lá- ban szuny- nyad az|é- des Meg- vál- tó- ó- ó, Ott|
+w: |Fény- lik Õ az új nap, kit|vár- va vár- tunk ré- é- ég, _|
+"Bm" B,>B,"A" C>C"D" D2"A" A2 |"D" F>F"A" E>E"D" D4 |] %8
+w: Kez- det Õ és vé- ég,|kez- det Õ és vég!|
+w: _ _ _ _ _ _||
+

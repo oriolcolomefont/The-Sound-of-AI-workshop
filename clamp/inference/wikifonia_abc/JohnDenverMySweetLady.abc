@@ -1,0 +1,37 @@
+X:1
+T:My Sweet Lady
+T:My sweet lady
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E2 G4 GE |"Dm" D2 F4 EF |"C" G3 A G2 ED |"F" C6"Fm" CD |"C" E3 G G3 G | A2 G4 FE |"Dm" D8 | %7
+w: La- dy are you|cry- ing do the|tears be- long to *|me did you|think our time to-|geth- er was all|gone?|
+w: La- dy are you|hap- py do you|feel the way I *|do are there|mean- ings that you've|nev- er seen be-|fore?|
+w: La- dy are you|cry- ing do the|tears be- long to *|me did you|think our time to-|geth er was all|gone?|
+"G" z8 |"C" E2 G4 GE |"Dm" D2 F4 EF |"C" G3 A G2 ED |"F" C6"Fm" CD |"C" E2 G2 G3 G | %13
+w: |La- dy you've been|dream- ing I'm as|close as I can *|be and I|swear to you our|
+w: |La- dy my sweet|la- dy I just|cant be- lieve its *|true and its|like I've nev- er|
+w: |La- dy my sweet|la- dy I'm as|close as I can *|be and I|swear to you our|
+"Dm" F3 E"G" D3 C |"C" C8 |"C7" z8 |"F" A3 A A4- |"G" A2 GG G2 GF |"C" E8 |"C7" z4 z2 A2 | %20
+w: time has just be-|gun||Close your eyes|* and rest your wear- y|mind|I|
+w: ev- er loved be-|fore||||||
+w: time has just be-|||||||
+"F" A2 A2 z2"^ToCoda" AA |"G" G4 G2 GF |"C" EF E6 |"C7" z4 z2 F2 |"F" A3 A c3 c |"G" B4 B2 BA | %26
+w: prom- ise I will|stay right here be-|side * you|To-|day our lives were|joined be- came en-|
+w: ||||||
+w: ||||||
+"C" G8 | z4 z2 A2 |"Am" A4 A2 Bc |"Am7" A4 A2 Bc |"Dm" e6"^D.C.alCoda" d2 |1"G" d8 :|2"G" d8 || %33
+w: twined|I|wish that you could|know how much I|love *|you|you|
+w: |||||||
+w: |||||||
+"C" C8- |"^Coda" C2 z2 z4 |] %35
+w: gun||
+w: ||
+w: ||
+

@@ -1,0 +1,27 @@
+X:1
+T:The Coventry Carol
+T:The Coventry Carol
+C:Traditional English
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Gm" G G"D" ^F |"Gm" G2 B |"F" A2"Gm" G |"D" ^F3 |"Gm" G"F" A"Gm" B |"Cm" c2"D7" A |"Gm" G3- | %7
+w: Lul- lay, thou|lit- tle,|ti- ny|Child,|bye, bye, lul-|loo, lul-|lay.|
+w: O sis- ters|too, how|may we|dok|for to pre-|serve this|day.|
+w: Her- od the|King in|his rag-|ing,|charg- ed he|hath this|day.|
+w: Then woe is|me, poos|Child, for|Thee,|and ev- er|morn and|day.|
+ G2"Bb" d |"F" c2"Gm" B |"D" A2"Gm" B |"Cm6" A2 G |"D" ^F3 |"Gm" G"D7" ^F"Gm" G |"Cm" c2"D" A | %14
+w: _ Lul-|lay, Thou|lit- tle,|ti- ny|Child,|bye, bye, lul-|loo, lul-|
+w: _ This|poor young-|ling for|whom we|sing,|bye, bye, lul-|loo, lol-|
+w: _ His|men of|might, in|his own|sight,|all child- ren|young to|
+w: _ For|Thy part-|ing nor|say nor|sing,|bye, bye lul-|loo, lul-|
+"G" =B3- | B3 |] %16
+w: lay.|_|
+w: lay.|_|
+w: slay.|_|
+w: lay.||
+

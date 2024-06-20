@@ -1,0 +1,14 @@
+X:1
+T:Adott Isten szekeret
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ AcBA B2 GE :: DDDD G2 GG | AAGF E2 EE :| %3
+w: A- dott Is- ten sze- ke- ret,|Ü- ve- gem- nek fe- ne- ket,|ab- ból i- szom e- le- get.|
+w: Sze- ke- rem- nek ke- re- ket,|||
+

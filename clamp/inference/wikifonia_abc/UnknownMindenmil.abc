@@ -1,0 +1,17 @@
+X:1
+T:Minden, mi él
+T: 
+C:Unknown
+Z:Public Domain
+L:1/16
+Q:1/4=80
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" FF2E F4 FF2E F-ED2 |"Bm" FF2E F4 FF2E F-ED2 |"G" GG2F G4 GG2F G-FE2 | %3
+w: Min- den, mi él, csak Té- ged hir- * det,|Min- den di- csér, mert mind a mû- * ved,|az- zal, hogy él, ezt zen- gi Né- * ked:|
+"A" AA2B A4"A7" AA2A B-AB-A ||"D""^Legvégén" FF2E F12 |] %5
+w: di- csér- lek én, di- csér- lek Té- * ged! _|Di- csér- lek én!|
+

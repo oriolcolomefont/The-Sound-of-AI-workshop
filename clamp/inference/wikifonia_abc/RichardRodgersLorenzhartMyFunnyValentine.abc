@@ -1,0 +1,28 @@
+X:1
+T:My Funny Valentine
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 66
+V:1
+"^A""Cm" C4 D2 E2 |"^Cm(ma7)""G7" D3 E D4 |"Cm7" C4 D2 E2 |"Cm6" D3 E D4 |"Abmaj7" C4 D2 E2 | %5
+w: My fun- ny|Val- en- tine,|sweet co- mic|Val- en- tine,|you make me|
+"Fm7" B4 A2 G2 |"^Dm7(b5)" F8- |"^G7(b9)" F8 ||"Cm" E4 F2 G2 |"^Cm(ma7)""G7" F3 G F4 | %10
+w: smile with my|heart.|_|Your looks are|laugh- a- ble,|
+"Cm7" E4 F2 G2 |"Cm6" F3 G F4 |"Abmaj7" E4 F2 G2 |"Fm7" d3 c B3 =A |"Abm6" A8- |"Bb7" A4 G2 F2 ||"" %16
+w: un- pho- to-|graph- a- ble,|yet, you're my|fav'- rite work of|art.|_ Is your|
+"^B""^Bb pedal""Ebmaj7" B3 E"Fm7" E2 D2 |"Gm7" E4"Fm7" E2 D2 |"Ebmaj7" c3 E"Fm7" E2 D2 | %19
+w: fig- ure less than|Greek; is you|mouth a lit- tle|
+"Gm7" E4"Fm7" E2 D2 ||"Ebmaj7" d3 E"^G7(b9)" E2 D2 |"Cm" E4"Bbm7" F2"A7" G2 |"Abmaj7" c8- | %23
+w: weak when you|o- pen it to|speak, are you|smart?|
+"^Dm7(b5)" c4"^G7(b9)" D4 ||"^C""Cm" C4 D2 E2 |"^Cm(ma7)""G7" D3 E D4 |"Cm7" E4 F2 G2 | %27
+w: _ But|don't change a|hair for me,|not if you|
+"Cm6" F3 G F4 |"Abmaj7" c4 d2 e2 |"^Dm7(b5)" d3 e"^G7(b9)" d4 |"Cm" e8- |"Bbm7" e8 | %32
+w: care for me,|stay, lit- tle|va- len- tine,|stay!|_|
+"Abmaj7" E4 F2 G2 |"Fm7" F3 G"Bb7" F4 |"Ebmaj7" E8- |"^Dm7(b5)" E6"^G7(b9)" z2 |] %36
+w: Each day is|Val- en- tine's|day.|_|
+

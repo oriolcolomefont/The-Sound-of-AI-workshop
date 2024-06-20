@@ -1,0 +1,41 @@
+X:1
+T:The Tijuana Jail
+T:The Tijuana Jail
+T:Denny Thompson
+T:All Rights Reserved
+C:Denny Thompson
+Z:All Rights Reserved
+L:1/4
+Q:1/4=150
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab""^150" z A c A |:"Db" F4- | F/A/A/A/ B A |"Ab" (A2- A/E/ F | E) E F/F/E/E/ |"Eb7" (c B3) | %6
+w: We went one|day|* A- bout a month a-|go * * *|* To have a lit- tle|fun *|
+w: |dice|* Rak- in * in the|dough * * *|* And then * I *|heard *|
+ z c c B |"Ab" A A c/c/ A |"Db" F4- | F A/A/ B A |"Ab" (A2- A/E/ F | E) E/E/ F/F/ E | %12
+w: In Mex- i-|co. We end- * ed|up|* In a gam- bling|spot * * *|* Where the li- * quor|
+w: A whis- tle|blow. I start- ed to|run|* When a man in|blue * * *|* Said * "Sen- or come|
+"Eb7" (c2 B2) | z c/c/ c B |1"Ab" A A/A/ c A :|2 A A c A ||S"Db" F4- | F A/A/ B A/A/ | %18
+w: flowed *|And the dice were|hot. I was shoot- in'||||
+w: with me|Cause * I want||you." So here we|are|* In the Ti- juan- a|
+"Ab" (A2- A/E/ F | E) E F E |"Eb7" (c2 B2) | z c c B |"Ab" A A c A |"Db" F4- | F A B A | %25
+w: |||||||
+w: jail. * * *|* Ain't got no|friends *|To go our|bail So here we'll|stay|* 'Cause we can't|
+"Ab" (A2- A/E/ F | E) E F E |"Eb7" (c2 B2- | B) c/c/ c B/B/ |"Ab" A4!fine! | z A c c/c/ | %31
+w: ||||||
+w: pay * * *|* Just send our|mail *|* To the Ti- juan- a|jail.|Just five hun- der'd|
+"Db" B/ A7/2- | A A/A/ B A |"Ab" (A2- A/E/ F | E) E/E/ F/F/E/E/ |"Eb7" c/ B7/2- | B B/B/ c B | %37
+w: ||||||
+w: dol- lars|* And they'll set us|free, * * *|* But I could- n't raise a|pen- ney|* If you threat- ened|
+"Ab" A A c c |"Db" B/ A7/2- | A A B A |"Ab" (A2- A/E/ F | E) E F E/E/ |"Eb7" (c2 B2) | z c c/c/ B | %44
+w: |||||||
+w: me. I know five|hun- der'd|* Don't sound like|much, * * *|* But just try to|find *|Some- bo- dy to|
+"Ab" A A c A!D.S.! |] %45
+w: |
+w: touch. So here we|
+

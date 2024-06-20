@@ -1,0 +1,31 @@
+X:1
+T:Cheryl  Moana  Maree
+T:Cheryl Moana Maree
+T:John Rowles   (N.Z.)
+C:John Rowles
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z z z z z z AB |"F" cccd F4- | F6 F2 |"Bb" ff e2 d4- | d4 z z AB |"C7" BBBB B2 c2 | g3 f e2 d2 | %7
+w: In a|sleep- y lit- tle town|* Where|soft bree- zes blow,|* * a|love- ly lit- tle Mao- ri|miss I used to|
+"F" c8- |"C7" c6 AB |"F" c2 c2 A2 B2 | c3 a g2 f2 |"Bb" d2 d2 BB c2 | d8 |"C7" G3 G G2 AA | %14
+w: know|* Some- day|I will find my|way and I'll re-|turn from ov- er the|sea|To where my is- land|
+ B2 c2 A2 G2 |"F" F8- |"Bb""F" F8 | A4 F2 C2 |"Bb" d4 c2 z =B |"F" c8- | c8 | A4 F2 C2 | d4 c3 =B | %23
+w: sweet- heart waits for|me||Cher- yl Mo-|an- a Mar-|ee||back home she's|wait- ing for|
+"C7" _B8- | B8 | G4 E2 C2 | d4 c3 =B | c8- | c8 | G2 GG G2 A2 | B2 c2 A2 G2 |"F" A8- |"C7" A8 | %33
+w: me||Cher- yl Mo|a- na Mar-|ee||there on the shore she|waits so pa- tient-|ly||
+"^8VA----------------------------""F" A4 F2 C2 |"Bb" d4 c3 =B | %35
+w: Cher- yl Mo-|a- na Mar-|
+"^-------------------------------------------------------------------------------------------------------------""F" c8- | %36
+w: ee|
+ c8 |"F7" A4 A2 B2 | c4 B2 A2 |"Bb" B8- | B8 |"C7" G4 G2 A2 | B4 A2 G2 | %43
+w: |Some- day- our|wait- ing will|end||Safe in my|arms she will|
+"^-----------------------------------------------------------------------------------------------""F" C8- | %44
+w: be|
+ C6 C2 |"C7" G4 G2 A2 | B2 E2 A3 G |"Bb" F8- |"F" F8 | z8 |] %50
+w: * My|Cher- yl Mo-|a- * na Mar-|ee-|||
+

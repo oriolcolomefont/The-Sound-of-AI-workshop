@@ -1,0 +1,38 @@
+X:1
+T:Lo, How A Rose E'er Blooming
+T:Lo, How A Rose E'er Blooming
+T:Traditional German
+C:Michael Praetorius
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" d2"D7" d"G" d |"C" e"G" d"D" d2 |"Em" B2"C""F#m7b5" c2 |"G" B"D" A2"Am" G- | %4
+w: Lo, how a|Rose e'er bloom-|ing From|ten- der stem|
+w: I- sa- iah|'twas fore- told|it, The|Rose I have|
+w: Es ist ein|Ros' ent- sprun-|gen Aus|ein- er Wurz-|
+w: Das Rös- lein|das ich mein-|e, Da-|von Je- sa-|
+"D7" G F"G" !fermata!G2 | d2"D7" d"G" d |"C" e"G" d"D" d2 |"Em" B2"C""F#m7b5" c2 | %8
+w: _ hath sprung!|of ~Jes- se's|line- age com-|ing As|
+w: _ in mind,|With Mar- y|we be- hold|it, The|
+w: * el zart.|Wie uns die|Alt- en sung-|en, Aus|
+w: * ias sagt:|Ist Ma- ri-|a, die Rein-|e, Die|
+"G" B"Am""D7" A2"Em" G- |"Cm" G"D7" F"G" !fermata!G2 |"Em" z"Bm" B"Am" A"D7" F | %11
+w: men of old|_ have soun.|It cam, a|
+w: Vir- gin Moth-|* er kind.|To show God's|
+w: Jes- se kam|_ die Art.|Und hat ein|
+w: uns das Blüm-|* lein bracht,|Aus Gott- es|
+"Em" G"A" E"D" (D/E/ F) |"G" z d"D7" d"G" d |"C" e"D7" d"G""Dm" d2 |"E" B2"Cm" c2 | %15
+w: flower- et bright, _ _|A mid the|cold of win-|ter, When|
+w: love a- right, _ _|She bore to|men a Sav-|ior, When|
+w: Blüm- lein bracht, _ _|Mit ten im|kalt- en Win-|ter, Wohl|
+w: ew' gem Rat _ _|Hat sie ein|Kind lein g'bor-|en Bleib-|
+"G" B"Am""D7" A2"Em" G- |"Cm" G"D7" F"G" !fermata!G2 |] %17
+w: half spent was|_ the night.|
+w: half spent was|_ the night.|
+w: zu der halb-|* en Nacht.|
+w: end ein' rein-|* e Magd.|
+

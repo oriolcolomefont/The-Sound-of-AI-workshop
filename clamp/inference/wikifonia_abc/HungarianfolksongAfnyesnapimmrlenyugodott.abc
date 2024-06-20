@@ -1,0 +1,15 @@
+X:1
+T:A fényes nap immár lenyugodott
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E E3 E E3 | D2 C2 DEFE- | E8 | G G3 F E3 | D E3 F2 ED | C8 | E3 D C B,3 | D2 C2 B,2 A,2 | %8
+w: A fé- nyes nap|im- már le- nyu- go- dott,||A föld szí- ne|sö- tét- ben ma- ra-|dott.|Nap- pa- li fény|éj- jel- re vál-|
+ G,2 G,6 | G,2 A,2 B,2 C2- | C2 E2 E2 D2 | C2 B,2 A,4 |] %12
+w: to- zott,|Fá- radt- ak- nak|* byu- go- dal-|mat ho- zott.-|
+

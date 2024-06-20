@@ -1,0 +1,20 @@
+X:1
+T:If We Can't Be The Same Old Sweethearts
+T:If We Can't Be The Same Old Sweethearts
+C:James Vincent Monaco
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4"Bb7" z2 G>F | F2"Eb" E>D"Eb7" E2 G2 |"C7" B2 B4 A>G | G2"Fm" F>=E F2 A2 |"C7" c4-"Fm" c2 ce | %5
+w: If we|can't be the same old|sweet- hearts, Then we'll|just be the same old|friends, _ For I|
+"^Bbn7" eddB A2 Bd |"Eb" dccB"C7" G3 ^G |"F7" =ABcA GAGF |"Bb""Bbdim" B4-"Bb7" B2 G>F | %9
+w: want some- one like you, Just to|tell my troub- les to, My|hap- pi- ness on you it all de-|pends; _ For I've|
+ F2"Eb" E>D"Eb7" E2 G>A |"C7" B2 B4 A>G | G2"Fm" F>=E F2 A>B |"C7" c4-"Fm" c2 ce | %13
+w: known you too long to for-|get you, And my|old dream of love nev- er|ends, _ Tho' I|
+"Bb7" eddB A2 Bd |"Eb" dc"Ebdim"c=A"C7" c2"Gdim" BA |"Fm7" _A2 eA"Bb7" A2 G2 |"Eb" E4- E2 z2 |] %17
+w: know you can't be mine, We will|meet from time to eime, And we'll|just be the same old|friends. *|
+

@@ -1,0 +1,54 @@
+X:1
+T:PAINT AMERICA LOVE
+C:LOU CHRISTIE & TWYLA
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:Gb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Ebm" E2 F | G2 F |"Bb/E" A2 G | F2 E |"Db6" A2 G | F2 E |"Ab/C" A2 G | F2 E |"Bbsus4" B3- | B3 | %10
+w: ||||||||||
+w: ||||||||||
+"Ebdim" [Ee]3- | [Ee]3 |"Ebm" E2 F | G2 F |"Bb/E" A2 G | F2 E |"Db6" A2 G | F2 E |"Ab/C" A2 G | %19
+w: |||||||||
+w: |||||||||
+ F2 E |"Bb" F3- | F3 | F3- | F3 |:[K:E]"F#m9" e3 | e2 d |"Emaj9" B3- | B3 |"F#maj9" e2 d | e2 d | %30
+w: |||||1.Trapped|by old|ways|_|Dis tant|mus ic|
+w: |||||2.Salt|in our|wounds|_|Lov _|ing com|
+"Emaj9" B3- | B3 |"E" G2 A | G2 A |"B/D#" B3- | B3 |"D" F2 G | F2 G |"A/C#" A3 | z z E |"C" E F2 | %41
+w: plays|_|Paint ed|fad ed|signs|_|Si lent|voi ces|meet|A|cross the|
+w: munes|_|Sor row|at our|door|_|Bor rowed|trou bled|times|In|_ vis|
+ E F2 |[K:Gb]"Ab" A3- |"Ab/Gb" A3- |"Ab/F" A3 |"Ab/Eb" z z A |"Gb/Ab" B B f | e z B |"Ab9" A3 | %49
+w: free dom|line|_||There's|vis ions a|bove the|sod|
+w: a ble|score|_||||||
+ z z A |"Gb/Ab" B2 f | e2 B |"Ab" A3- | A3 |"Gb/Ab" e2 f | e2 f |"Ab" g- f f | e2 z |"Gb/Ab" g2 f | %59
+w: When|Man and|Love are|God|_|There's a|bright er|world _ to|share|Rest less|
+w: ||||||||||
+ e2 f |"Ab" g2 a | b2 z |"Fm7""^JAZZ WALTZ" A2 z |"Bbm" d3 |"Ebm/Bb" B- B/A/- B |"Ab" A G F | %66
+w: ways will|take us|there|TIME|TO|PAINT _ A _|MER IC A|
+w: |||||||
+"Fm7" A2 A |"Bbm" d d d |"Ebm/Bb" B- B/<A/- A/4G/A/4- |"Ab" A2 z |"Bbm" f2 f |"Eb" e2 z | %72
+w: TIME TO|HON OR THE|BEST _ IN _ OUR _|SELVES|Time for|hope|
+w: ||||||
+"Fm7" =c2 c |"Bbm" d2 f/g/ |"Db" a3- |"Db/C" a3- |"Db/Bb" a3 |"Db/Ab" z f g |"Ebm" a3- | %79
+w: Time for|peace PAINT IT|LOVE|_||PAINT IT|LOVE|
+w: |||||||
+"Ebm/Db" a3- |"Ebm/C" a3 |"Ebm/Bb" z f g |"Db" a2- a/-g/- |"Fm" a3 | %84
+w: _||PAINT IT|LOVE _ _|_|
+w: |||||
+"Cb" [ce]/[ce]/4-[ce]/4 [ce]/[ce]/4[ce]/4- [ce]/>[ce]/ |"Gb" [Bd] z f/g/ |"Db" a2- a/-g/- | %87
+w: Go a _ head and _ paint it|love PAINT IT|LOVE _ _|
+w: |||
+"Fm" a3 |"Cb" [ce]/[ce]/4-[ce]/4 [ce]/[ce]/4[ce]/4- [ce]/>[ce]/ |"Gb" [Bd] z z :: %90
+w: _|Go a _ head and _ paint it|love|
+w: |||
+"Db""^REPEAT & FADE OUT" a3- |"Db/C" a3- |"Db/Bb" a3 |"Db/Ab" z f g |"Ebm" a3- |"Ebm/Db" a3- | %96
+w: LOVE|_||PAINT IT|LOVE|_|
+w: ||||||
+"Ebm/C" a3 |"Ebm/Bb" z f g :| %98
+w: |PAINT IT|
+w: ||
+

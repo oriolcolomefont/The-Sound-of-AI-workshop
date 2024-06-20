@@ -1,0 +1,17 @@
+X:1
+T:This Love
+T:This love
+T:Adam Levine and Jesse Charmichael
+C:Adam Levine, Jesse Carmichael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 1
+V:1
+ z8 |:"G7/B" =BB- BB B2 E/F/E/C/ |"Cm" cc- cc c2 z2 |"Fm7" E2 E2 EFEC |"Ddim7" B2 z2 z4 :: %5
+"Cm" G2"Fm" G2"Bb" G2 GE |"Eb" G E2 G E3 G |"Cm" E2"Fm7" G C4 G |"Bb" FEE"Eb"F EFED | %9
+ C z"Cm" G2"Fm" G2"Bb" G2 |"Eb" GE F G2 F E2 |"Cm" z G E2 G C2 z |"Bb" G2 FE EF"Ab"ED | %13
+"G" C =B,4 z B,>D- | D C6"Cm" G |"Fm" _G F6 z |"G7" F>E z D CDEC- |"Cm" C4 z4 :| %18
+

@@ -1,0 +1,22 @@
+X:1
+T:Jealous lover
+T:Jealous lover
+T:(theme from The Apartment)
+T:Charles Williams
+C:Charles Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E G2 G, |"Am" A,4 |"Dm7" F A2 A, |"G7" B,4 |"C" G2"Am7" c B/A/ |"Dm7" c F3 |"Fm" _A C2 D | %7
+w: The key to|love|be- longs to|you|It leads to a|door- way|where dreams come|
+"E" E4 |"C7" E G2 E/C/ |"F" D4 |"Bb" D F2 D/_B,/ |"Eb" C G2 G |"G" G D B, C/D/ |"Cm" _E B2 A | %14
+w: true|when you turn the|key|and look for your|lov- er you|find the one that your|heart meant to|
+"C" G E"D7" C B,/C/ |"G" ^C D2 ^D |"C" E G2 G, |"Am7" A,2 z2 |"Dm7" F A2 A, |"G7" B,4 | %20
+w: share your lone- ly a|part- ment when|you find the|one|you're dream- ing|of|
+"C" G2"Am7" c B/A/ |"Dm7" c F2 G |"Fm" _A2"G7" B2 |"C" c3 z |] %24
+w: You hold till for-|ev- er the|key to|love.|
+

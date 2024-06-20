@@ -1,0 +1,23 @@
+X:1
+T:Lonnie's Lament
+T:Lonnie's Lament
+T:John Coltrane
+C:John Coltrane
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ GF |:"Cm7" _E3 D/C/"Dm7" D F3 |"Ebmaj7" _EC A,4"Dm7" D_B, |"Cm7""Dm7" G,8- |"Ebmaj7" G,6"Dm7" GF | %5
+"Cm7" _E3 D/"Dm7"C/ D F3 |"Ebmaj7" _EC A,4"Dm7" D_B, |"Cm7""Dm7" G,8- |"Ebmaj7" G,6"Dm7" CD || %9
+"Cm7" _E3 D/C/"Bb7" c3 _B |"Ebmaj7" F3 G"Abmaj7" _E C2 D |"Ab7" DF"A7" _B6- | %12
+"Ab7" B3 c"G75b9#9#11b13" _A3 _G/F/ |"Cm7" G2 _E2"Dm7" F2 D2 |"Ebmaj7/G" _E2 CG,"G7" _B,2 =B,2 | %15
+"Cm7""Dm7" C8- |"Ebmaj7" C6"Dm7""_1st time" GF :|"Cm7""^Solo Section" z8 | z8 | z8 | z8 | z8 | z8 | %23
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %33
+

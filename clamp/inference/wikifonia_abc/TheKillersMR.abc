@@ -1,0 +1,32 @@
+X:1
+T:MR. BRIGHTSIDE
+C:The Killers
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+|:"Bb" z2 BB BBBc- |"Bb/A" AABB BB B2 |"Eb" B2 BB BBBB- | BBBA BA B2 |"Bb" z BBA BBAB- | %5
+w: Com ing out of my cage|_ and I've been do in' just|fine Got ta, Got ta be down|_ be cause I want it all.|It start ed out with a kiss|
+"Bb/A" BBBB BA B2 |"Eb" B2 BB BBAB- | BzBA BBBB- |"Bb" BzBB BBAB- |"Bb/A" BzBB BBAB- | %10
+w: _ How did it end up like|this? It was on ly a kiss|_ It was on ly a kiss|_ Now I'm fall ing a sleep|_ and she's call ing a cab|
+"Eb" BzBB BBAB- | BzBG cB_AB |"Bb" z2 BB BBBB- |"Bb/A" BzBB BBAB- |"Eb" BzBB BBAB- | B B2 B BB A2 | %16
+w: _ While he's hav ing a smoke|_ and she's tak ing a drag|Now they're go ing to bed|_ and my stom ach is sick|_ And its all in my head|_ but she's touch ing his|
+"Gm7" B4 B2 z2 | B2 B2 B2 A2 |"Gm7/F" A2 z2 B2 z2 | B4 B4 |"Eb" B8 | z"Gm7" B d2 e2 d2 | B2 z2 c4 | %23
+w: Chest now|he takes off her|dress now|LET ME|GO|And I just can't|look its|
+"Gm7/F" c2 B2 d4 | z2 z2 z2 F2 |"Eb9" c2- B-B B2 c2- | c2 B6 |"Bb/F" A2 z B B4 |"Eb" B2 B2 B2 BA | %29
+w: kil ling me|and|tak _ ing _ con|_ trol.|JEAL OU SY|turn ing saints in _|
+"Gm" A3 B B4 |"F" A2 B2 A2 B2 |"Bb/F" A2 z B/ z/ B4 |"Eb" B2 B-A B-A/ z/ B-A | %33
+w: to the sea|Swim ming thru sick|lul la bies|chok ing _ on _ your _|
+"Gm" A2 z B/ z/ B2 z2 |"Eb" B2 B2 B2 c2 |"Bb/F" e2 z e d2 z2 |"Eb" e2 d>B- B2 F2 | %37
+w: al * *|but its just the|price I pay|Dest in y _ is|
+"Gm" c3- B/ z/ B2 z2 |"F" A2 B2 A>c- c2 |"Bb/F" e3 d d4- |"Eb" d6- c2 | z"Gm" F d2 c2 B2 | %42
+w: call ing me|Op en up my _|eag er eyes|_ _|cause I'm Mist er|
+"F" c4"Eb7" B2 z2 ::"Bb" A3 B- B4- |"Eb" B8- |"Gm" B4 z4 |"F" z2 z2 z2 z2 | e3- d- d4- | d6- cB- | %49
+w: Bright side|NEV ER _|_|||NEV ER _|_ _ _|
+ B4 z4 | z2 z2 z2 z2 :| %51
+w: ||
+

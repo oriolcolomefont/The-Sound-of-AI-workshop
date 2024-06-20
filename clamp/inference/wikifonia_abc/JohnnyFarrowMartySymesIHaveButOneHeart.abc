@@ -1,0 +1,33 @@
+X:1
+T:I Have But One Heart
+T:I Have But One Heart
+C:Johnny Farrow
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z E"G7" G3/2 E/ |"C" G2"Cmaj7" G2- |"C6" G A"F#dim" B A |"Dm7" A2 F2- | F D"G7" F3/2 D/ | %5
+w: I have but|one heart|_ this heart I|bring you.|_ I have but|
+w: Vi- ci- n'~'no|ma- re,|_ fa- cim- me͜~am|mo- re,|_ a co- re͜͜~a|
+"Dm" F2"Bb" F2- |"G7" F G"G+" A G |"C" E4- | E E"G7" G3/2 E/ |"C" G2"Cmaj7" G2- | %10
+w: one heart|_ to share with|you.|_ I have but|one dream|
+w: co- re|_ pe ce spa-|sà.|_ So am- re-|na- re|
+"C6" G E"Dm7" F"C" G |"F" B2 A2- |"Dm7" A A G F |"C" E2"Gdim" G2- |"Dm7" G E"G7" D3/2 C/ |"C" C4- | %16
+w: _ that I can|cling to.|_ You are the|one dream|_ I pray comes|true.|
+w: _ e ti- ro'a|rez- za;|_ ma p'al- le-|rez- za|_ ston- g'a- mu-|rì.|
+ C3"B7" B, |"Em" (3G A B A3/2 G/ |"Am" A"B7b5""B7" A3 |"B7" (3^F G A"B" G3/2"B7" F/ | %20
+w: _ My|dar- ling, un- til I|saw you,|I nev- er felt this|
+w: ||||
+"Em" G3"D7" D |"G" (3B c d"Fm" c3/2 B/ |"Am" c c3 |"D7" (3A B c B3/2 A/ |"G7" d E G3/2 E/ | %25
+w: way, And|no- bod- y else be-|fore you|ev- er has heard me|say: You are my|
+w: |||||
+"C" G2"Cmaj7" G2- |"C6" G E"Dm7" F"C" G |"F" B3/2 A/ A2- | A A G F |"C" E2"Gdim" G2- | %30
+w: one love|_ my life I|live for you|_ I have but|one heart|
+w: |||||
+"Dm7" G E"G7" D3/2 C/ |"C" C4 |] %32
+w: _ to give to|you.|
+w: ||
+

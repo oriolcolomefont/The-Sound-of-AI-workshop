@@ -1,0 +1,18 @@
+X:1
+T:The Alphabet Song
+T:THE ALPHABET SONG
+C:Wolfgang Amadeus Mozart
+Z:Public Domain
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F""^Moderately fast" F F c c |"Bb" d d"F" c2 |"C7" B B"F" A A |"C7" G/G/G/G/"F" F2 | c c"C7" B B | %5
+w: A B C D|E F G|H I J K|L M N O P|Q R S and|
+"F" A A"C7" G2 |"F" c c"C7" B B |"F" A A"C7" G2 |"F" F F c c |"Bb" d d"F" c2 |"C7" B B"F" A A | %11
+w: T U V|W(dou- ble- U) and|X Y Z.|Now you've heard my|A B C's;|Tell me what you|
+"C7" G G"F" F2 |] %12
+w: think of me.|
+

@@ -1,0 +1,24 @@
+X:1
+T:Laplace
+T:Laplace
+T:by Adam Fine
+T:copyright © 2009 Little Zaide Music all rights reserved www.littlezaide.com
+T:(solos only	  )
+C:Adam Fine
+Z:All Rights Reserved
+L:1/8
+Q:1/4=200
+M:4/4
+K:Db
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Db""^allegro" c6 d2 | e2 fe- e2 d2 |"Ab7""Gb7" c8- | c4 A4 |"Db" c6 d2 | e2 fe- e2 d2 | %6
+"Abm7" _c4 e4 |"Db7" d6 z2 ||1"Gb" B3 B dc_cB |"Gbm7" __B8 |"Db/F" A4 z def- | f2 ed- d2 cB- | %12
+"Bb7" B4 z4 | z4 z Bcd- |"Ebm7" dBdf- f2 ed- |"Ab7sus4" d4"Ab7" c4 :|2"Gb" B3 B dc_cB || %17
+"Gbm7" __B4 z def- |"Db/F" f2 g2 a2 b2 |"Bb7b9" _c'2 ba z aga- |"Ebm7" a4 z aga- | %21
+"Ab7b9" a4 _c'2- =c'b/__b/ |!D.S.!O"Db" a8 |"Ab7" z8"_DC for solos" |"Gbm7"O G,8 |"Db/F" F,8 | %26
+"Emaj7" =E,8 |"Ebm7" E,8 |"Dmaj7#11" !fermata!=D,8 |] %29
+

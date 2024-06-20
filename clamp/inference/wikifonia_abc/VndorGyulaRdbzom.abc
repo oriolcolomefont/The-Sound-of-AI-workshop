@@ -1,0 +1,19 @@
+X:1
+T:Rád bízom
+T: 
+C:Vándor Gyula
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F" A, C C2 |"Bb" D F F G |"C" A A"C7" G/F/ G |"F" F D C2 |"F" A, C C2 |"Gm7" D F F G | %6
+w: Rád bí- zom,|Rád bí- zom, a|fé- nyes na- po- kat|Rád bí- zom,|Rád bí- zom,|Rád bí- zom a|
+"C" A/ A3/2"C7" G/F/ G |"F" F4!fine! |"Am" A A A/G/F/C/ |"Dm" D/ D3/2 C2 |"Am" A A A/G/F/C/ | %11
+w: ne- héz na- po- kat|is!|Sor- som le- gyen a Te|ke- zed- ben,|biz- tos he- lye van a|
+"Dm" F F F/ F3/2 |"G7" G4 |"C7" z D/ C3/2 B,!D.C.! |] %14
+w: fél- tõ szí- ved-|ben,|e- zért hát|
+

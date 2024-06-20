@@ -1,0 +1,28 @@
+X:1
+T:Pardon Me If I Break Your Heart
+T:Pardon Me If I Break Your Heart
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"C" E G"C" e2- | e"C" d e"G" d- | d2"C" c2 |"F" A3 z |"G" G E G"G" B- | B2- B/ z/ A | %6
+w: Par don me|_ if I break|_ your|heart|That's what you seem|_ _ to|
+ B A"G" B2- | B z ^F G |"G" d3"Am" c | d"Am" c2- c | A"F" c2 d | c"G" B3 | z/ A"C" e2- e/ | %13
+w: be say ing|_ Par don|me if|I hurt _|the one who|loves me|* it's _|
+ d c"E" ^G2- | G/ z/ A3/2"F" c3/2 |"G" B3 z/ z/ | z E G"C" e- | e2 d e |"G" d3"C" c- | c"F" A3 | %20
+w: just a game|_ we're play|ing|Par don me|_ if I|made you|_ cry|
+ z"Fdim" _A"F" =A2 |"G" d3 e |"G" f3"F" e |"F" A4 | z"Fdim" _A"F" =A"G" d- | d2 z/"G" B c/- | %26
+w: You've said|that so|man y|times|Par don me|_ if I|
+ c/ d"G" B2 z/ | c"Gm" g3- | g"G" e3 | z"G" d2 e | d A"G" B2- | B G"C" c2- | c2 z2 :| %33
+w: _ hurt you|a gain|_ dear|Seems to|be one of|_ your lines|_|
+

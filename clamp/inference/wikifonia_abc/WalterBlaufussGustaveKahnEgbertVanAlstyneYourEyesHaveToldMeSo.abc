@@ -1,0 +1,22 @@
+X:1
+T:Your Eyes Have Told Me So
+T:YOUR EYES HAVE TOLD ME SO
+T:Music By Walter Blaufuss
+T:Words By Gustave Kahn and Egbert Van Alstyne
+C:Walter Blaufuss
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Violins 2" snm="Vlns. 2"
+%%MIDI program 48
+V:1
+ z C z |"F" c2 A | G2 F |"Gm7" D F D |"C7" E2 C |"F" D E F | A c e |"Gm7" d3 |"C7" c2 c | %9
+w: (I)|saw your|eyes, your|won- der- ful|eyes with|love- light and|ten- der- ness|beam-|ing, They|
+"D7" d2 A | c2 =B |"C" c2 G |"Cdim" B2 A |"G7" A G F | D E F |"C7" ^F2 G | c2 C |"F" c2 A | G2 F | %19
+w: thrill'd me|through, *|fill'd me|too with|won- der- ful|dreams (I) am|dream- *|ing. No|need to|speak, no|
+"Gm7" D F D |"C7" E2 C |"F" D E F | A c e |"Gm7" d3 |"C7" c2 c |"F7" f2 ^c |"Bb" e2 d |"D7" d2 A | %28
+w: more shall (I)|seek for|my heart has|taught me their|mean-|ing and|love has|come at|last (I)|
+"Gm" c2 B |"G7" D E F |"C7" A2 A |"F" F3- | F2 z | z3 |] %34
+w: know Your|Eyes- * Have|Told Me|So|_||
+

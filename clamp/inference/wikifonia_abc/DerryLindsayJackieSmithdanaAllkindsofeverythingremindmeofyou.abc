@@ -1,0 +1,30 @@
+X:1
+T:All kinds of everything (remind me of you)
+T:All Kinds Of Everything (Remind Me Of You)
+C:Derry Lindsay, Jackie Smith
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" c2 G3 c |"G" dB G4 |"Dm7" FF E2 F2 |"G" G6 |"C" c2 G3 c |"G" dB G4 |"Dm7" F2 E2 F2 |"G" G6 | %8
+w: Snow- drops, and|daff- o- dils,|but- ter- flies and|bees,|sail- boats and|fish- er- men,|things of the|sea,|
+w: Sea- gulls, and|aer- o- planes,|things * of the|sky,|winds that go|howl- * ling,|breez- es that|sigh,|
+"C" cd e4 |"G7" dB G4 |"C" cd e2 c2 |"Bb" d6 |"C" c2 G3 c |"Dm7" AF D3 C |"G7" B,2 E2 D2 |1 %15
+w: wish- ing wells,|wed- ding bells,|ear- ly morn- ing|dew,|all kinds of|ev- 'ry thing re-|mind me of|
+w: sit- y sights|ne- on lights,|grey * skies or|blue,|all kinds of|ev- 'ry- thing re-|mind me of|
+"C" C6 :|2 C6 |:S"Dm" DE F4 |"Em" EF G4 |"Dm" DE F2 G2 |"C" E6 |"Dm" (^FG) A4 |"G" (GA) B4 | %23
+w: you.|you.|Sum- mer- time,|win- ter- time,|spring and au- tumn|too,|Mon- * day,|Ttues- * day,|
+w: you.|you.|||||||
+"D7" c2 B2 A2 |"G7" G6 |"C" c2 G3 c |"G" (dB) G4 |"Dm7" F2 E2 F2 |"G" G6 |"C" c2 G3 c |"G" dB G4 | %31
+w: I think of|you.|Dan- ces, ro-|man- * ces,|things of the|night,|sun- shine and|hol- i days,|
+w: ||||||||
+"Dm7" F2 E2 F2 |"G" G6 |"C" cd e4 |"G7" dB G4 |"C" cd e2 c2 |"Bb" d6 |"C" c2 G3 c |"Dm7" AF D3 C | %39
+w: post- cards to|write,|bud- ding trees,|aut- umn leaves|a snow- flake or|two.|All kinds of|ev- 'ry- thing re-|
+w: ||||||||
+"G7" B,2 E2 D2 |"C" C6!D.S.! :|"C" C6!fine! |] %42
+w: mind me of|you.|you.|
+w: |||
+

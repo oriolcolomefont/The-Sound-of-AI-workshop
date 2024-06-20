@@ -1,0 +1,24 @@
+X:1
+T:Thanks A Million
+T:Thanks A Million
+C:Arthur Johnston
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"D7" D3 A, |"Ddim" E E2 B, |"Am" D C E G |"D7" B3 d |"G" A/A/ A2 G |"B7" F/F/ F2 B | %6
+w: Thanks a|mil- lion, a|mil- lion thanks to|you, For|ev- 'ry- thing that|love could bring you|
+"Bdim" =F2"E7" E2- | E4 |"Am" z C E G |"D7" B d2 B |"G" A3/2 G/ G G- | G3 B |"A7" F3/2 E/ E E- | %13
+w: brought me.|_|Each ten- der|love- word you|hap- pened to say,|_ Is|hid- den a- way,|
+ E3 A |"D7" E3/2 D/ D D- |"Ddim" D3 z |"D7" D3 A, |"Ddim" E E2 B, |"Am" D C E G |"D7" B3 d | %20
+w: _ In|mem- 'ry's bou- quet.|_|Thanks a|mil- lion, for|I rem- em- ber|too, the|
+"G" A/A/ A2 G |"B7" F/F/ F2 B |"Bdim" =F2"E7" E2- | E4 |"C" z E G B |"Am7" d d"D7" d c |"G" B3 F | %27
+w: ten- der- ness that|your car- ess- es|taught me.|_|You made a|mil- lion dreams come|true and|
+"Bbdim" A G F =F |"Am7" E3 D |"D7" c A2 B |1"G" G4 |"D7""Ddim" z4 :|2"G" G4- | G3 z |] %34
+w: so I'ms say- ing|thanks a|mil- lion to|you.||you.|_|
+

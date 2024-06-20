@@ -1,0 +1,17 @@
+X:1
+T:Blues for Vanessa
+T:Blues for Vanessa
+T:Carolyn Rhoads
+T:2011
+C:Carolyn Rhoads
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"F9" z c (3fcd _e2 f z | c2 d2 _e2 f z | z c (3fcd _e2 f z | _e2 d2 c4 |"Bb9" z cf3/2c_a3/2 f2 | %5
+ z cf3/2c_a3/2 f2 |"F9" z c (3fcd _e2 f z |"^D7b13add#9" _e2 d2 c4 |"Gm9" z c2 f3/2 c7/2- | %9
+"C9" c/ z/ c- c2 B>_AF>_E |"F9""F9""F9" F8 |"^D7b13add#9""Gm9""C9" z8 |] %12
+

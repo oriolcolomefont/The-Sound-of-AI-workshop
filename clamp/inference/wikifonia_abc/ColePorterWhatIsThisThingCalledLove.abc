@@ -1,0 +1,39 @@
+X:1
+T:What Is This Thing Called Love?
+T:What Is This Thing Called Love?
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" G G/G/"C#dim7/C" _B B |"Cdim7" A A3 |"Fm6/C" F F/F/"Bdim7/C" _A A |"Cmaj7""C7" G3 G | %4
+w: I was a hum- drum|per- son,|Lead- ing a life a-|part, When|
+w: You gave me days of|sun- shine,|You gave me nights of|cheer, You|
+"F7" c c"Bb7" F G/_A/ |"Ebmaj7" _B/c/ B-"Eb7" B G |"Fm6" F/ _A G/ F"F#dim7" _E |"G" D4 | %8
+w: love flew in through my|win- dow wide _ And|quick- ened my hum- drum|heart.|
+w: made my life an en-|chant- ted dream, _ Till|some- bod- y else came|near.|
+"G" B B/B/ d d |"A7/G" ^c c3 |"Cm6/G" A A/A/"Ebdim7/G" c c |"Gmaj7""G7" B3 B |"C7" G G _B3/2 G/ | %13
+w: Love flew in through my|win- dow,|I was so hap- py|then. But|af- ter love had|
+w: Some- bod- y else came|near you,|I felt the win- ter's|chill. And|now I sit and|
+"F7" A/c/A/F/"Dm7b5" _A2 |"Fm6/Ab" D D"G7#5b9" _E E |"C6" C3 ||"C7" _B |:"Gm7b5""^A" _B G G2- | %18
+w: stayed a lit- tle while,|Love flew out a-|gain.-|What|is this thing|
+w: won- der night and day|Why I love you|still.|||
+"C7b9" G2 _B2 |"Fm6" _A4 | z2 z _A |"Dm7b5" _A/ G G/- G2- |"G+7" G2 ^D2 |"Cmaj7" E4 | z2 z _B | %25
+w: _ called|love,|This|fun- ny thing _|_ called|love?|Just|
+w: |||||||
+"Gm7b5" _B G G2- |"C7b9" G _B B3/2 A/ |"Fm6" _A4 | z2 z _A |"Dm7b5" _A/ G G/- G2- | %30
+w: who can solve|_ its mys- ter-|y?|Why|should it make _|
+w: |||||
+"G+7" G _E E/ E3/2 |"C6" C4 | z2 z _e ||"Cm7""^B" _e c c2- |"F7" c _e (3e f e |"Bbmaj7" d4 | %36
+w: _ a fool of|me?|I|saw you there|_ one won- der- ful|day.|
+w: ||||||
+ z2 z d |"Ab9" c _A A2- | _A c (3c _B _A |"Dm7b5" G4 |"G7" z _B B B ||"Gm7b5""^C" _B G G2- | %42
+w: You|took my heart|_ and threw it a-|way.|That's why I|ask the Lord|
+w: ||||||
+"C7b9" G _B B/ c B/ |"Fm6" _A4 | z2 z _A |"Dm7b5" _A G G2- |"G+7" G2 _e2 |"C6" c4 | z4 :| %49
+w: _ in Heav- en a-|bove,|What|is this thing|_ called|love?||
+w: |||||||
+

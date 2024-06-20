@@ -1,0 +1,36 @@
+X:1
+T:On The Street Where You Live
+T:On The Street Where You Live
+C:Frederick Lowe
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"G7" C D |:"C" E A [AA-]2 | A2"G7" G F |"C" E C C2- | C2"G7" C D |"C" E B"Dm" B B | %6
+w: I have|of- ten walked|* down this|street be- fore,|* But the|pave- ment al- ways|
+"C/E" B c"Ebdim" B c |"Dm7" A G G2- |"G7" G2 D E |"Dm7" F e e2- |"Fm6" e2 d e |"C/E" d c c2- | %12
+w: stayed be- neath my|feet be- fore.|* All at|once am I|* sev- 'ral|sto- ries high,|
+"Am7" c2 e d |"D7" c2 d c |"G7" B2 c B |"C""G+7" A4- |"C" A z"G7" C D |"C" E A A2- | A2"G7" G F | %19
+w: * Know- ing|I'm on the|street where you|live.|* Are there|li- lac trees|* in the|
+"C" E C C2- | C2 C D | E"Dm" B B B |"C/E" B c"Ebdim" B c |"Dm7" A G G2- |"G7" G2 D E | %25
+w: heart of town?|* Can you|hear a lark in|an- y oth- er|part of town?|* Does en-|
+"Dm" F e e2- |"Fm6" e2 d e |"C/E" d c c2- |"Am7" c2 e d |"D7" c2 d c |"G7" B2 c d |"C""Dm7" c4- | %32
+w: chant- ment pour|* out of|ev- 'ry door?|* No, it's|just on the|street where you|live.|
+"Ebdim" c z"C/E" d2 |"E7" e4- | e d (3d c B |"F6" d2 A2- | A2 B c |"Fm6" d4- | d c"F#dim" (3c B A | %39
+w: * And|oh,|* the tow- er- ing|feel- ing,|* just to|know|* some- how you are|
+"C" c4- | c2 z c |"Ab""Abmaj7" c4- |"Am6" c B (3B A ^G |"F#m7" B2 ^F2- |"B7" F ^F ^G A | %45
+w: near!|* The|o-|* ver pow- er- ing|feel- ing|* That an- y|
+"E" B B"B" B B |"Bm" B ^F"D7" G A |"Dm""Em" B4- |"G7" B z C D |"C" E A A2- | A2"G7" G F | %51
+w: sec- ond you may|sud- den- ly ap-|pear!|* Peo- ple|stop and stare:|* they don't|
+"C" E C C2- | C2 C D | E B"Dm" B B |"C/E" B c"Ebdim" B c |"Dm7" A G G2- |"G7" G2 D E | %57
+w: both- er me;|* For there's|no- where else on|earth that I would|rath- er be.|* Let the|
+"Dm7" F e e2- | e z"Fm6" !fermata!f e |"C/E" d c c2- |"Am7" c2 e d |"D7" c2 d c |"G7" B2 c d | %63
+w: time go by,|* I wont|care if I|* Can be|here on the|street where you|
+"C""Dm7" c4- |"Ebdim" c-"C" c z2 |] %65
+w: live.||
+

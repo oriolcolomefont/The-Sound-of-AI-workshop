@@ -1,0 +1,27 @@
+X:1
+T:Come On Home
+T:COME ON HOME
+T:  Concert  
+T:Horace Silver
+C:Horace Silver
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Gb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ (3z =CE | E2 z2 z4 | z4 (3z EG (3AGE | G2 z2 z4 | z4 B<d A/4=A/4_A/4G/4E/D/ | E2 z2 z4 | %6
+ z2 (3GFE DB,F=C- | C8 | (3z z B (3dBd (3BGB (3GE=B, | B,8- | B,4 z2 (3EGA |: (3AGB z2 z2 (3EGA | %12
+ (3AGE z2 z2 (3EGA | (3AGB z2 (3z d=A (3_AGE | (3AGE z2 z2 (3Acd | (3dce z2 z2 (3Acd | %16
+ (3dcA z2 z2 (3EGA | (3AGB z2 (3z d=A (3_AGE | (3AGE z2 z2 (3EGA | (3^F^D=B, z2 z2 (3z =DF | %20
+ (3F=DB, z2 z2 (3z =CE |1 E2 z2 z4 | z4 z2 (3EGA :|2 z8 |:"Ebm6""^Solos" z2 z2 z2 z2 | %25
+"Fm7" z2 z2"Bb7" z2 z2 |"Ebm6" z2 z2 z2 z2 |"Bbm7" z2 z2"Eb7" z2 z2 |"Abm6" z2 z2 z2 z2 | %29
+"Fm7" z2 z2"Bb7" z2 z2 |"Ebm6" z2 z2 z2 z2 |"Ebm6" z2 z2 z2 z2 | %32
+"F#m7""_After solos D.S. al Coda ( no repeat )" z2 z2"B7" z2 z2 |"Fm7" z2 z2"Bb7" z2 z2 | %34
+"Ebm6" z2 z2"C7" z2 z2 |"B7" z2 z2"Bb7" z2"^( last x only )" (3EGA :| E2 z2 z4 | z4 (3z EG (3AGE | %38
+ G2 z2 z4 | z4 B<d A/4=A/4_A/4G/4E/D/ | E2 z2 z4 | z2 (3GFE DB,F=C- | C8 | %43
+ (3z z B (3dBd (3BGB (3GE=B, | B,8- | B,6 (3=B_B=E | E2 z2 z4 |] %47
+

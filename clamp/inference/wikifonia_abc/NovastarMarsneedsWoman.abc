@@ -1,0 +1,42 @@
+X:1
+T:Mars needs Woman
+C:Novastar
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:D
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"Gmaj7" z4 D2DA- A2!fermata!F2 A2BA- |"Bm" !fermata!A4 (3C2C2D2 AF2F A2B2- | %2
+w: Hey com- man- _ der It's~your ca- det|_ I'm~on ly a roo- kie and you're a|
+"Gmaj7" B2!fermata!B,2 CD2A z2 AF A2A2 |"A" (AFE2- E4) z8 |"Gmaj7" z4 z DDA- A2F2 AABA- | %5
+w: _ vet I've~got this ship It's~kin da like my|car _ _ _|Hey com- man- _ der new to the game|
+"Bm" A4 C2>D2 A2F z A2B2- |"Gmaj7" B2B,2 z2 CD AF z2 AA2(A- |"A" AFE2) z4 z4 c2cd- || %8
+w: _ It's~called sur- vi- val What's my|_ name For this mis- sion Be- hind bars|_ _ _ Don't you know|
+"Em" d4 z4 z3 c cccd- |"Gmaj7" d4 z4 z4 (3d2c2e2 |"Bm" e4 z4 z3 c dcee- |"A" e4 z4 z ccc z ccd- | %12
+w: _ It's~get ting kind of strange|_ Mars needs wo-|man Can that be ar- ranged?|_ So you best buck- le up|
+"Em" d4 z4 (3:2:4z2 z cc2 (3c2c2c2 |"Gmaj7" d4 z4 z4 (3d2c2e2 |"Bm" e4 z4"Bm/G#" z4 dcee- | %15
+w: _ Be fore you hit the|roof Mars needs wo-|man Needs wo- man too|
+"A""A" e4 z4 z8 ||"Gmaj7" z4 DDA2- A z AF ABA2- |"Bm" A4 CD2A- A2FA A2<B2- | %18
+w: _|Climb a- board _ with the speed of light|_ See the stars _ be- fore it gets|
+"Gmaj7" B2B,2 z CDA z3 B- BBA(A |"F#m" F2<E2- E4) z8 |"Gmaj7" z4 z DDA- A2F2 A2BA- | %21
+w: _ night Hang on tight The earth's gon- na move|_ _ _|Hey com- man- _ der It's~your ca- det|
+"Bm" A4 (3d2c2B2 (3d2c2B2 (3d2c2B2 |"Gmaj7" B,2B,B- (3B2A2A2- AFAF A2A2 |"A" (AFE2) z4 z4 c2cd- | %24
+w: _ I'm on- ly try- ing But not quite the|yet I've got _ this cause _ It kin- da seems so|far. _ _ Don't you know|
+"Em" d4 z4 z3 c cccd- |"Gmaj7" d4 z4 z4 (3d2c2e2 |"Bm" e4 z4 z3 c dcee- |"A" e4 z4 z ccc z ccd- | %28
+w: _ It's~get ting kind of strange|_ Mars needs wo-|man Can that be ar- ranged?|_ Oh you best buck- le up|
+"Em" d4 z4 (3:2:4z2 z cc2 (3c2c2c2 |"Gmaj7" d4 z4 z4 (3d2c2e2 |"Bm" e4 z4"Bm/G#" z4 dcee- | %31
+w: _ Be fore you hit the|roof Mars needs wo-|man Needs wo- man too|
+"A""A" e4 z4 z4 c2cd- |"Em" d4 z4 z2 fe f2BB- |"Gmaj7" B4 z4 z4 (3g2e2f2 |"Bm" d4 z4 z3 B fgfe- | %35
+w: _ Don't you know|_ It's~get ting kind of strange|_ Mars needs wo-|man Can that be ar- ranged?|
+"A" ec/B/A z z4 z e2e- eeed- |"Em" d4 z4 (3z2 e2e2 (3e2f2d2- |"Gmaj7" d4 z4 z4 (3d2c2e2 | %38
+w: _ _ _ _ Oh mo * buck- le up|_ Gon- na hit the roof|_ Mars needs wo-|
+"Bm" e4 z4"Bm/G#" z4 dcee- |"A" e4 z4 z8 | z8 z3 A (cdcA) ||"Gmaj7" B4 z4 z3 A (cdcA) | %42
+w: man Needs wo- man too|_|It's floa- _ _ _|ting It's Floa- _ _ _|
+"Bm" B4 z4 z3 A (cdcA) |"Gmaj7" B4 z4 z3 A (cdcA) |"A" B4 z4 z3 A (cdcA) |"Gmaj7" B4 z4 z8 | %46
+w: ting It's floa- _ _ _|ting It's floa- _ _ _|ting It's floa- _ _ _|ting|
+"F#m" z16 |"Gmaj7" z16 |"A" z16 |:"Gmaj7" z16 |"Bm" z16 |"Gmaj7" z16 |"A" z16 :| %53
+w: |||||||
+

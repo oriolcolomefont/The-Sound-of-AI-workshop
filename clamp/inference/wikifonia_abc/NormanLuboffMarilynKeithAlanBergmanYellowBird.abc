@@ -1,0 +1,24 @@
+X:1
+T:Yellow Bird
+T:Yellow Bird
+T:Norman Luboff
+T:Marilyn  Keith and Alan Bergman
+C:Norman Luboff
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" c3"D" =B |"F" c3"C" A |"Gm" B B/A/"C7" B c |"F" A4 | c3"D" =B |"F" c3"C" A | %6
+w: Yel- low|bird up|high in ba- na na|tree|yel- low|bird you|
+"Gm" B B/A/"C7" B c |"F" A4 |"Bb" D D G/B/ d |"F" C C F/A/ c |"C7" C C E/G/ B |"F" C C F/A/ c | %12
+w: sit all a- lone like|me|did your la- dy frien'|leave de nest a- gain?|Dat is ve- ry sad|makes me feel so bad|
+"Bb" D D G/B/ d |"F" C C F/A/ c |"C7" z/ C/ C B/A/ G |"F" F4 | A c/F/ A c |"Gm7" B d G2 | %18
+w: you can fly a- way|in de sky a- way|You more luck- y dan|me!|I al- so have a|pret- ty gal|
+"C7" G B/E/ G d |"F" c4 | A c/F/ A c |"Gm" B d G2 |"C7" z C E/G/ c |"Gm" z B/B/"C7" A G |"F" F4- | %25
+w: she not with me to-|day|Dey all de same de|pret- ty gal|make dem de nest|den dey fly a-|way!|
+ F4 | c3"D" =B |"F" c4 |"D" =B4 |"F" c4 | c4 |] %31
+w: |yel- low|bird|yel-|low|bird.|
+

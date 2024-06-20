@@ -1,0 +1,15 @@
+X:1
+T:Házunk előtt, kedves édesanyám
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ d2 d2 | c A3 | dd GA | G F3 | AA GF | E D3 | D2 z2!fine! :| d2 f2 | e2 d2 | c c3 | A F3 | df ed | %12
+w: Há- zunk|e- lőtt|ked- ves é- des-|a- nyám,|van egy ma- gas|e- per-|fa,|Csip- kés|an- nak|a le-|ve- le,|sej, de jó sza-|
+ A2 z2!D.C.! |] %13
+w: gú,-|
+

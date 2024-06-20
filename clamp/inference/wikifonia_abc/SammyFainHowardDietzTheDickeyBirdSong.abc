@@ -1,0 +1,35 @@
+X:1
+T:The Dickey-Bird Song
+T:The Dickey-Bird Song
+T:from the movie "Three Daring Daughters"
+T:Sammy Fain
+T:Howard Dietz
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" z FBc d2 cB | cdBG- G2 DB | G2 DB"Gm7" G2 DB |"C7" G8 |"Cm7" z CDE"F7" F2 DC | %5
+w: A Dick- ey Bird whis- pered|have- n't you heard, * spring is|here, spring is here, spring is|here,|a lit- tle crow sang a|
+w: A lit- tle frog sang a|song on his log, * lose your|blues, lose your blues, loser your|blues,|and you and I fell in|
+"Gm" B,DBA-"G7" A3 G |1"C7" =EGdc- c=B _B2 ||"Cm7""F7" c8 :|2"Cm7" EGed-"F7" dF c2 ||"Bb" B6 BA | %10
+w: hsp- py hel- lo, * my|fa- vor- ite time * of the|year.|hear- ing the Dick * ey Bird's|news. If you|
+w: love in re- ply, * on|||||
+"Fm7" _AcFA"Bb7" DFAc |"Fm7" e4"Bb7" d4 |"Eb" z BcG BB,CG- | G6 c=B |"Gm7" BdGB"C7" =EGBd | %15
+w: have to look a- round to find a|rea- son|for such a won- der- ful thing,|* you can|blame it on the sent- i- men- tal|
+w: |||||
+"Gm7" A4"C7" G4 |"F7" (3=BcB c>B c>CDE |"Cm7""F7" E8 |"Bb" z FBc d2 cB | cdBG- G2 DB | %20
+w: sea- son,|fall- ing in love is done in the spring.||The bob- o- link looked at|us with a wink, * at- a-|
+w: |||||
+ G2 DB"Gm7" G2 DB |"C7" G8 |"Cm" z CDE"F7" F2 DC |"Gm" B,DBA-"G7" A3 G |"Cm7" EGed-"F7" dF c2 | %25
+w: boy, at- a- girl, noth- in's|wrong,|when you're in love you'll go|swing- ing a- long, * a|sing- ing the Dick- * ey Bird|
+w: |||||
+"Bb" B6 z2 |] %26
+w: Song.|
+w: |
+

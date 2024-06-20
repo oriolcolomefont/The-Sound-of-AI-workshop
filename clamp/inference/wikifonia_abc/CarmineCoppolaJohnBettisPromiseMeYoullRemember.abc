@@ -1,0 +1,78 @@
+X:1
+T:Promise Me You'll Remember
+T:Promise Me You'll Remember
+C:Carmine Coppola
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Fmaj13""Fmaj13" C2 DE"D7b9""D7b9" D3 C |"Gm9""Gm9" D D3 z4 |"Gm7/C""Gm7/C" G2 F4-"C7b9""C7b9" FE | %3
+w: Pro mise me you'll re-|mem- ber|this love _ to-|
+w: |||
+"Fmaj7""Fmaj7" (3GAG"F6""F6" F4 z2 |"Am7""Am7" C2 DE"Ab9""Ab9" D3 C |"Gm7""Gm7" B B3 z4 | %6
+w: geth- er to- day.|We may not have to-|mor- row,|
+w: |||
+"Bbmaj7/C""Bbmaj7/C" z BBB"C7b9""C7b9" B3 A |"Fmaj7""Fmaj7" c6"F6""F6" z2 | %8
+w: it's not for us to|say.|
+w: ||
+"Am7b5""Am7b5" c3 d/_e/"D7b9""D7b9" d3 c |"Gm7""Gm7" B B3 z4 | %10
+w: Fate is- n't kind to|lov- ers,|
+w: ||
+"Bbm7""Bbm7" z2 z _d"Eb9""Eb9" d>BBA |"Fmaj7""Fmaj7" c6 z2 | C2 DE"D7b9""D7b9" D3 C | %13
+w: it breaks the hard- est|heart,|prom- ise me you'll re-|
+w: |||
+"G13""G13" G2"Gdim7""Gdim7" G4"G9""G9" z2 |"Gm7""Gm7" G2"Gm7b5""Gm7b5" F4"C7b9""C7b9" E2 | %15
+w: mem- ber|how good we|
+w: ||
+"Gdim/F""Gdim/F" (3(GAG F4)"F""F" z2 |"Fm""Fm" z _A2 A/A/"Fm7""Fm7" B3"Bb7/F""Bb7/F" B | %17
+w: are. _ _ _|Why do I find a|
+w: ||
+"Edim7/F""Edim7/F" G G3- G4 |"Db9""Db9" z GGG"C7""C7" _A"C7b9""C7b9" G3 |"Fm""Fm" F4 z4 | %20
+w: sad- ness _|un- der your sweet- est|kiss?|
+w: |||
+"Gm7b5""Gm7b5" z2 (3BBB"C7""C7" c3"C7b9""C7b9" c |"Fm""Fm" _A A3"Abm7/Eb""Abm7/Eb" z2 z G | %22
+w: Des- ti- ny seems to|whis- per it|
+w: ||
+"Db9""Db9" _A2 F4 A2 |"Bbmaj7/C""Bbmaj7/C" c6"C9""C9" z2 || %24
+w: won't stay like|this.|
+w: ||
+S"Fmaj13""Fmaj13" C2 DE"D7b9""D7b9" D3 C |"Gm9""Gm9" D D3 z4 | %26
+w: When- ev- er we're to-|geth- er,|
+w: ||
+"Gm7/C""Gm7/C" G2 F4-"C7b9""C7b9" F2 |"Fmaj7""Fmaj7" (3GAG"F6""F6" F4 z2 | %28
+w: I feel _|time stand- ing still.|
+w: ||
+"Am7""Am7" C2 DE"Ab9""Ab9" D3 C |"Gm7""Gm7" B B3 z4 |"Bbmaj7/C""Bbmaj7/C" z B2 B"C7b9""C7b9" B3 A | %31
+w: I on- ly know I|love you,|and I al- ways|
+w: |||
+"Fmaj7""Fmaj7" c6"F6""F6" z2 |"Am7b5" c3 d/_e/"D7b9" d3 c |"Gm7" B B3 z4 | %34
+w: will|If we should lose each|oth- er|
+w: |||
+"Bbm7" z2 z _d"Eb9" d>BBA |"Fmaj7" c6 z2 | C2 DE"D7b9" D3 C |"G13" G2"Gdim7" G4"G9" z2 | %38
+w: some- where in- side the|dark,|prom- ise me you'll re-|mem- ber|
+w: ||||
+"Gm7" G2"Gm7b5" F4"C7b9" E2!dacoda! ||"Gdim/F" (3(GAG F4)"F" z2 || %40
+w: how good we|are. * * *|
+w: ||
+"Fm" z _A2 A/A/"Fm7" B3"Bb7/F" B |"Edim7/F" G G3- G4 |"Db9" z GGG"C7" _A"C7b9" G3 |"Fm" F4 z4 | %44
+w: ||||
+w: ||||
+"Gm7b5" z2 (3BBB"C7" c3"C7b9" c |"Fm" _A A3"Abm7/Eb" z2 z G |"Db9" _A2 F4 A2 | %47
+w: |||
+w: |||
+"Bbmaj7/C" c6"C9" z2 |"Bbmaj7/C""C7b9" z8!D.S.! :|O"Fmaj9" (3(GAG F4)"Fmaj7/G" z2 | %50
+w: ||are. _ _ _|
+w: |||
+"Am7b5" c3 d/"D7b9"_e/ d3 c |"Gm7" B B3 z4 |"Bbm7" z2 z _d"Eb9" d>BBA |"Fmaj9" c6 z2 | %54
+w: Time is- n't kind to|lov- ers,|it breaks the hard- est|hearts.|
+w: ||||
+ C2 DE"D7b9" D3 C |"G13" G2"Gdim7" G4"G9" z2 |"Gm7" G2"Gm7b5" F4"C7b9" E2 | %57
+w: Prom- ise me you'll re-|mem- ber|how good we|
+w: |||
+"Fmaj7" (3(GAG F4) z z |] %58
+w: are. _ _ _|
+w: |
+

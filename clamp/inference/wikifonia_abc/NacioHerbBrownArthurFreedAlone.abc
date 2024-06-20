@@ -1,0 +1,28 @@
+X:1
+T:Alone
+T:Alone
+T:Nacio Herb Brown
+T:Arthur Freed
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B, |"Eb" C3 e |"Gm" (3d B d"Cm" (3c G B |"Fm" A3 B, |"Bb7" F3 B, |"Eb" C3 e | %6
+w: A-|lone a-|lone with a sky of ro-|mance a-|bove a-|lone a-|
+"Gm" (3d B d"Cm" (3c G B |"Fm" A3 B, |"Bb7" F3 G |"Eb" B B B G |"Cm" c c2 c |"F9" G G"F7" E E | %12
+w: lone on a night that was|meant for|love There|must be some- one|wai- ting who|feels the way I|
+"F9" G4 | z C"F7" (3C D E |"F9" G3"F7" E |"Bb7" F3 F |"Bb+7" ^F3 B, |"Eb" C3 e | %18
+w: do|Who- ev- er you|are are|you are|you A-|lone a-|
+"Gm" (3d B d"Cm" (3c G B |"Fm" A3 B, |"Bb7" F3 B, |"Eb" C3 e |"Gm" (3d B d"Cm" (3c G B | %23
+w: lone on this night that we|two could|share A-|lone a-|lone with your kiss that could|
+"Fm" A3 B, |"Bb7" F3 G |"Eb" B B B G |"C7" c c2 c |"F9" G G"F7" E E |"B" e3"Bb7" B, |"Eb" C3 e | %30
+w: make me|care And|when you come I|pro- mise to|be your ver- y|own A-|lone a-|
+"Gm" (3d B d"C7" (3c G B |"Fm" A2"Bb7" D2 |"Eb" E3 z |] %33
+w: lone with a heart meant for|you a-|lone|
+

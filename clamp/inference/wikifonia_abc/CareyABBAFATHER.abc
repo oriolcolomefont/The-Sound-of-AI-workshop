@@ -1,0 +1,22 @@
+X:1
+T:ABBA FATHER
+C:Carey
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"D" D3 | A3- | A3- | A3 |"G" z z z | G A B |"D" A2 F | D3- |"G" D2 z | G A B |"D" A2 F | D3- | %12
+w: AB|BA|_|||AB _ BA|Fath _|er|_|You are the|pot _|ter|
+w: Mold|us|_|||Mold us and|fash ion|us|_|in to the|im _|age|
+w: Fath|er|_|||May we be|one in|you|_|May we be|one with|you|
+w: Glo|ry|_|||Glo ry and|praise to|you|_|Glo ry and|praise to|you|
+ D2"A7" A, | G F E |"D" D3- | D z A, |"A7" G F E |"D" D3- | D3 :| %19
+w: _ and|we are the|clay|_ the|work of your|hands|_|
+w: _ of|Jes us your|son|_ of|Jes us your|son|_|
+w: _ as|he is in|you|_ and|you are in|him|_|
+w: _ for|ev er Am|en|_ For|ev er Am|en.|_|
+

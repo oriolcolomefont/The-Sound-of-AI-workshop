@@ -1,0 +1,39 @@
+X:1
+T:The Climb
+T:The Climb
+T:Jesse Alexander & Jon Mabe
+C:Jessi Alexander & Jon Mabe
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E" B2 B2 B2 B2 | B2 B2 B2 B2 | z G/G/GB e2 B2 | z GGB f2 eB |"A" z c/c/cc cBAB/c/- | %5
+w: ||I can al- most see it|that dream I'm dream- ing but|There's a voice in- side my head say- ing|
+"F#m" cccc c2 B2 |"E" z G/G/GB e2 B2 | z GGB f2 eB |"A" cc/c/-cB/B/- B A2 z | %9
+w: * You'll ne- ver reach it|Eve- ry step I'm tak- ing|Eve- ry move I make feels|Lost with no * di- rec- * tion|
+"F#m" z ccB/B/- B A2 c |"C#m" g4 z2 e/f/g |"G#m" g4 z3 e/g/ |"A" b2 a2"F#m" g f2 f |"B" f z z2 z4 | %14
+w: My faith is skak- * ing but|I got- ta keep|trying Got- ta|keep my head held high||
+"E" z/ B/g/g/ g/f/f/g/ feeB | z/ B/g/g/ g/f/f/g/ fe g2 |"A" z g/g/ g/f/f/g/ feeB | %17
+w: There's al- ways gon- na be a- no- ther moun- tain|I'm al- ways gon- na wan- na make it move|Al- ways gon- na be an up- hill bat- tle|
+"F#m" z g g/f/f/g/ fe g2 |"E" z g/g/gf feeB | z g/g/gf f/e/e/e/fg |"C#m" b4"B" a3 g | %21
+w: Some- times I'm gon- na have to lose|ain't a- bout how fast I get there|ain't a- bout what's wait- ing on the o- ther|side * *|
+"A" e4 z2 ag/g/- |"E" g2 G,B, FB,EB, | E,E,G,B, FB,EB, |"E" z G G/G/B e2 B2 | z G G/G/B f2 e2 | %26
+w: * It's the climb|||The trou- bles I'm fac- ing|The chan- ces I'm tak- ing|
+"A" z ccB BAAE |"F#m" z ecB"B" c2 B2 |"E" z GGB e2 B2 | z G G/G/B f2 e2 |"A" z c c/c/c cBAc | %31
+w: Some- times might knock me down but|no I'm not break- ing|I may not know it|But these are the mo- ments|I'm gon- na re- mem- ber most yeah|
+"F#m" z c c/B/B"B" BA z G |"C#m" g4 z3/2 c/ e/f/g |"G#m" g4 z2 z e/e/ |"A" bagf"F#m" fefd/e/- | %35
+w: Just got- ta keep go- ing And|I' I got- ta be|strong * *|just * keep * push- * ing * on|
+"B" e4 z2 B2 |"E" z/ B/g/g/ g/f/f/g/ feeB | z/ B/g/g/ g/f/f/g/ fe g2 |"A" z g/g/ g/f/f/g/ feeB | %39
+w: * Cause|There's al- ways gon- na be a- no- ther moun- tain|I'm al- ways gon- na wan- na make it move|Al- ways gon- na be an up- hill bat- tle|
+"F#m" z g g/f/f/g/"B" fe"E" g2 | z g/g/gf feeB | z g/g/gf f/e/e/e/fg |"C#m" b4"B" a3 g | %43
+w: Some- times I'm gon- na have to lose|ain't a- bout how fast I get there|ain't a- bout what's wait- ing on the o- ther|side * *|
+"A" e4 z2 ag/g/- |"E" g2 G,B, FB,EB, | E,E,G,B, FB, b/ag/- |"A" g/f/e- e2 z4 |"F#m" B4"B" B4 | %48
+w: * It's the climb||* * * * * * Yeah- * *|||
+"E" B4 z4 |] %49
+w: |
+

@@ -1,0 +1,30 @@
+X:1
+T:Boulevard Of Broken Dreams
+T:Boulevard Of Broken Dreams
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:S"A7" z A^GA BAGA |:"Dm" d2"Gm" d6- |"Dm" dA^GA BA=GF |"Gm" E8- |"A7" EG (3^FGA- A>G (3FGE- | %5
+w: I walk a- long the street of|sor- row,|* The bou- le- vard of brok- en|dreams,|_ Where gi- go- lo _ and gi- go- lette|
+w: |mor- row,|_ When you be- hold your shat- tered|schemes,|_ And gi- go- lo _ and gi- go- lette,|
+ EG (3^FGA- A>G (3FGE- |"A7" EG^FG AG=FE!dacoda! ||"Dm" F8- |"Bm7" FA^GA BAGA!D.S.! :|O"Dm" D8- | %10
+w: _ can take a kiss _ with- out re- gret,|_ So they for- get their brok- en|dreams.|_ You laugh to- night and cry to-||
+w: _ wake up to find _ their eyes are wet,|_ With tears that tell of brok- en|||dreams|
+ D z DE ^FGAB |"Am7b5" c4 c4- |"D7" c2 AB"A7b5" cc"D7"BA |"Gm" B8- | B2 CD E=FGA |"Bbm" B4 B4- | %16
+w: * Here is where you'll al- ways|find me,|_ Al- ways walk- ing up and|down,|_ But I left my soul be-|hind me,|
+w: _||||||
+"C7" B2 GA"Bbm" BB"C7"A^G |"F" A8- |"A7" AA^GA BAGA |"Dm" d2"Em7" d6- |"Dm" dA^GA BA=GF | %21
+w: _ In an old ca- the- dral|town,|_ The joy that you find here you|bor- row,|_ You can- not keep it long it|
+w: |||||
+"Em7b5" E8- |"A7" EG (3^FGA- A>G (3FGE- | EG (3^FGA- A>G (3FGE- |"A7" EG^FG AG=FE |1"Dm""A7" D8 :|2 %26
+w: seems,|_ But gi- go- lo _ and gi- go- lette|_ still sing a song _ and dance a- long|_ The bou- le- vard of brok- en|dreams.|
+w: |||||
+"Dm""Cm7b5""A7" D8- ||"D""D6" D8 |] %28
+w: dreams.|_|
+w: ||
+

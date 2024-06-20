@@ -1,0 +1,31 @@
+X:1
+T:Little Grey Home In The West
+T:Little Grey Home In The West
+T:Hermann Lohr
+T:D. Eardley-Wilmot
+C:Hermann Lohr
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"C" C E |:"C" G E G |"G7" F E D |"C" C3- | C E G |"Am" c A c |"D7" B A B |"G" G3- | G G G | %9
+w: When the|gold- en sun|sinks in the|hills,|* And the|toil of a|long day is|o'er|* Though the|
+w: |hands that will|wel- come me|in.|* There are|lips I am|burn- ing to|kiss.|* There are|
+"Dm7" A c A |"Em" B G E |"Dm" F A F |"C" G C C |"D7" E B, C | D B, C |"G" G3- | G G G |"G7" E D E | %18
+w: road may be|long, in the|lilt of a|song I for-|get I was|wear- y be-|fore.|* far a-|head, where the|
+w: two eyes that|shine just be-|cause they are|mine, And a|thou- sand things|o- ther men|miss.|* It's a|cor- ner of|
+"C" D B, C | (G3 |"C7" G) G G |"A7" F E F | E E ^C |"Dm" A3 |"Em" e2"G7" d |"C" d c B | %26
+w: blue sha- dows|fall|* I shall|come to con-|tent- ment and|rest;|And the|toils of the|
+w: heav- en it-|self,|* Though it's|on- ly a|tum- ble- down|nest,|But with|love brood- ing|
+"Ebdim" d c A |"Dm7" c A F |"G7" E D E |"C" G E"C#dim" G |1"G7" F E D ||"C" C3- | C C E :|2 %33
+w: day will be|all charmed a-|way in my|lit- tle grey|home of the|west|* There are|
+w: there, why, no|place can com-|pare With my|lit- tle grey||||
+"G7" G A e ||"C" c3- | c2 z |] %36
+w: home in the|west.-||
+w: |||
+

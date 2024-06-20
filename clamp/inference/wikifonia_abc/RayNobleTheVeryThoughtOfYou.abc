@@ -1,0 +1,29 @@
+X:1
+T:The Very Thought Of You
+T:THE VERY THOUGHT OF YOU
+T:RAY NOBLE
+C:Ray Noble
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+V:1
+"^With a slow easy swing" C EC |:"Ab" EE E6- | E4- ECEC |"Ab6" FF F6- | F4- FFAF | %5
+w: The Ver- y|Thought Of You,|_ _ and I for-|get to do|_ _ the lit- tle|
+"Abmaj7" A3 F"Bbm7" A3 F |"Bdim7" A3 F"Cm7" (3A2"F7" F2 A2 |"Bb7" cc c6- | c4 z c ec | %9
+w: or- di- nar- y|things that ev- 'ry- one|ought to do.|_ I'm liv- ing|
+"Bbm7" e3 c"Eb7" e3 c |"Gm7b5" B2 B2-"C7" B2 A2 |"Fm7" c3 A"Fm/Eb" c3 A |"Dm7b5""G7b9" G6 F2 | %13
+w: in a kind of|day- dream, _ I'm|hap- py as a|king, and|
+"Cm7" E3 C"F7" E3 F |"Bb7" G2 G4 A2 |"Bbm7" B4- BAFD |"Eb7" B,4 z C EC |"Ab" EE E6- | E4- ECEC | %19
+w: fool- ish tho' it|may seem, to|me _ that's ev- 'ry-|thing The mere i-|dea of you|_ _ the long- ing|
+"Ab6" FF F6- | F4- FFAF |"Abmaj7" A3 F"Bbm7" A3 F |"Bdim7" A3 F"Cm7" (3A2"F7" F2 A2 |"Bb7" cc c6- | %24
+w: here for you,|_ _ You'll nev- er|know how slow the|mo- ments go 'til I'm|near to you.|
+ c4 z c ec |"Bbm7" e3 c"Eb7" e3 c |"Gm7b5" B2 B2-"C7" B2 A2 |"Fm7" c3 A"Fm/Eb" c3 A | %28
+w: _ I see your|face in ev- 'ry|flow- er; _ your|eyes in stars a-|
+"Ddim7" F4-"G7" FCEC |"Cm7" EE E2"F7" z C EC |"Bbm7" EE E2-"Eb7" E2 c2 |1"Ab6" A8- | %32
+w: bove, _ It's just the|thought of you, The Ver- y|Thought Of You, _ my|love.|
+"Bbm7" A2 z2"Eb7" z C EC :|2"Ab6" A8- | !fermata!A8 |] %35
+w: _ The Ver- y|love.|_|
+

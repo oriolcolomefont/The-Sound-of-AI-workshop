@@ -1,0 +1,32 @@
+X:1
+T:Dansero
+T:Dansero
+T:Richard Hayman, Lee Daniels, S. Parker
+T:Richard Hayman, Lee Daniels, S. Parker
+C:Richard Hayman, Lee Daniels, Sol Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Gm7" F2 BE-"C7" E3 ^D |"Fmaj7" E2 A=D-"F6" D4 |"Gm7" F2 BE- E"C7" E2 ^D | %3
+w: Hold me close * and|hold me tight. *|Hold me now * while my|
+w: If I dream * of|new de- lights, *|it's a part * of this|
+"Fmaj7" E2 A"F6"=D- D4 |"Gm7" F2 B"C7"E- E4 |"Cm" G2 A"D7"^F- F4 |"G7" FDEF"C7b9" _A2 A2 | %7
+w: head seems light. *|Thrills like this *|lin- ger so *|When I hear them play Dan-|
+w: night of nights. *|And while I *|feel this glow *|Let them play and play Dan-|
+"F" G3 F- F4 :|"A7" =AAAA"A13" AAAA |"A+7" A2 AA-"A7" AAAA |"D9" A2 =B"D9b5"^G- G4- | G8 | %12
+w: ser- o. *|In my heart I know that if I've|heard one tune * I've heard a|thou- sand themes. *||
+w: ser- o. *|||||
+"G7" z GGG"G13" GGGG |"G+7" G2 GG-"G7" GGGG |"C9" G2 A"C9b5"^F- F4 |"Gm7" z FBd"C7" c4 | %16
+w: But still and all I find there's|on- ly one * that thrills me|to ex- tremes, *|or so it seems.|
+w: ||||
+"Gm7" F2 BE-"C7" E3 ^D |"Fmaj7" E2 A=D-"F6" D4 |"Gm7" F2 BE- E"C7" E2 ^D |"Fmaj7" E2 A"F6"=D- D4 | %20
+w: Here be- fore * my|ve- ry eyes *|I could swear * this is|par- a- dise. *|
+w: ||||
+"Gm7" F2 B"C7"E- E4 |"Cm" G2 A"D7"^F- F4 |"G7" FDEF"C7b9" _A2 A2 |"F" G3 F- F4 |] %24
+w: This is all *|mine I know, *|When I hear them play Dan-|ser- o. *|
+w: ||||
+

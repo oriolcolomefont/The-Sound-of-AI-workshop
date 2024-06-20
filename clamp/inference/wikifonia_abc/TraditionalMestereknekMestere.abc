@@ -1,0 +1,19 @@
+X:1
+T:Mestereknek Mestere
+T: 
+C:Traditional
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" GGGG"F" cA G2 |"G" GFED"C" C4!fine! |"G" EF G2 D4 | EF G2 D4 |"C" EEDD"G" EE F2 | %5
+w: Mes- te- rek- nek Mes- re- re,|mondd meg mi az egy!|Egy az Is- ten,|a jó Is- ten,|Ti- zen- ket- tõ a- pos- tol,|
+w: Aki él _ _ ö- rök- ké,|mind- ö- rök- ké, Amen.|_ _ _ _|||
+"C" EEDD"G" EE F2 |"G" EF G2 D4 | EF G2 D4!D.C.! |] %8
+w: ... _ _ _ _ _ _|nyolc bol- dog- ság,|... _ _ _|
+w: |||
+

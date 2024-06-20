@@ -1,0 +1,28 @@
+X:1
+T:The Blackboard of My heart
+T:The Blackboard of my heart
+T:Lyle Gaston and Hand Thompson
+C:Lyle Gaston, Hank Thompson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^Verse:" z C |:"F" C A A G | G F F3/2 C/ | C F G F |"C7" E3 C | C B B A | A G G F | E F E D | %8
+w: When|I was young and|went to school they|taught me how to|write to|take the chalk and|make a mark and|hope it turns out|
+w: If|you'd been true the|way you should and|not have gone a-|stray these|tears would not have|fall- en down and|washed the words a-|
+"F" C3 C | C A A G | G F F F |"F7" G F G A |"Bb" B3 B | B B c d |"F" c A F G |"C7" A G E G | %16
+w: right Well|thats the way it|is with love and|what you did to|me I|wrote it so you;d|know that I was|yours e- ter- nal-|
+w: way no|need to talk for|if the chalk should|write these words a-|gain *|It will be for|some- one else not|things that might have|
+"F" F4 ||"^Chorus:" z2 A, B, |"F" C F A G | F C A, B, | C F G F |"C7" E3 z | C B B A | A G G F | %24
+w: ly|But my|tears have washed I|love you from the|black- board of my|heart|Its too late to|clean the slate and|
+w: been.||||||||
+ E F E D |"F" C3 C | C A A G | G F F F |"F7" G F G A |"Bb" B3 B | A B c d |"F" c A F G | %32
+w: make an- oth- er|start I'm|sat- is- fied the|way things are al-|though were far a-|part My|tears have washed I|love you from the|
+w: ||||||||
+"C7" A G E G |1"F" F2 z C :|2"F" F3 z |] %35
+w: black- board of my|heart If|heart.|
+w: |||
+

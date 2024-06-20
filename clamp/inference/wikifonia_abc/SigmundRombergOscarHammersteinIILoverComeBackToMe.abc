@@ -1,0 +1,28 @@
+X:1
+T:Lover, Come Back To Me
+T:Lover, Come Back To Me
+T:Sigmund Romberg
+T:Oscar Hammerstein II
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+|:"G" z GGA B4 |"B7" z FFG A4 |"Em" z GGA"Em7" B4 |"A7" z EEF"Cm" G4 |"G" z DDE"Em" GABd | %5
+w: The sky was blue;|and high a- bove,|the moon was new|and so was love.|This ea- ger heart of mine was|
+"A7" B4"D7" A4 |"G" DE G2"C" G2"Cm6" G2 |"G" (G4"D7" d2) z2 |"G" z GGA B4 |"B7" z FFG A4 | %10
+w: sing- ing:|"Lov- er, where can you|be?" *|You came at last.|love had its day,|
+"Em" z GGA"Em7" B4 |"A7" z EEF"Cm" G4 |"G" z DDE"Em" GABd |"A7" B4"D7" A4 | %14
+w: that day is past,|you've gone a- way.|This ach- ing heart of mine is|sing- ing:|
+"G" DE G2"C" G2"Cm6" G2 |"G" G4"B7" F4 |"Em" EFGA Be^de |"Am" ce^de"Em" B4 |"B" B4"B7" F4 | %19
+w: "Lov- er come back to|me!" When|I re- mem- ber ev- 'ry lit- tle|thing you used to do,|I'm so|
+"C7" G4"B7" F4 |"Em" EFGA Be^de |"Am" ce^de"Em" B4 |"A7" B4 EFGB |"D7" d4"D9" A4 |"G" z GGA B4 | %25
+w: lone- ly.|Ev'- ry road I walk a- long l've|walked a- long with you,|no won- der I am|lone- ly.|The sky is blue,|
+"B7" z FFG A4 |"Em" z GGA"Em7" B4 |"Fdim" z BBc"E7" d4 |"Am" z ccd"Am7" egec | %29
+w: the night is cold,|the moon is new,|but love is old;|and while I'm wait- ing here, this|
+"G" Bd"Em"BG"Am" A2"D7" B2 |"G" DE G2"C" G2"Cm6" G2 |1"G" G4"D7" z4 :|2"G" G6 z2 |] %33
+w: heart of mine is sing- ing:|"Lov- er come back to|me!"|me!"|
+

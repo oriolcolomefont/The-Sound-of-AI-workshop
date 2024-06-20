@@ -1,0 +1,30 @@
+X:1
+T:The Anniversary Song
+T:Anniversary Song
+C:Josef Ivanovici
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"B7" B,3- | B, ^D E | F3- | F ^D B, |"Em" G3- | G F E | B3- | B z B |"Am" c3- | c B A |"Em" B3- | %11
+w: Oh!|_ how we|danced|_ on the|night|_ we were|wed.|_ We|vowed|_ our true|love,|
+w: night|_ seemed to|fade|_ in- to|blos-|* som- ing|dawn;|_ The|sun|_ shone a-|new.|
+ B"B7" A"Em" G |"B7" F3- | F"B+" G"B7" F |"Em" E3- | E z B, |"B7" B,3- | B, ^D E | F3- | F ^D B, | %20
+w: _ though a|word|_ was- n't|said.|_ The|world|_ was in|bloom|_ there were|
+w: _ but the|dance|_ ling- ered|on.|_ Could|we|_ but re-|live|_ that sweet|
+"Em" G3- | G F E | B3- | B z B |"Am" c3- | c B A |"Em" B3- | B"B7" A"Em" G |"B7" F3- | %29
+w: stars|_ in the|skies,|_ Ex-|cept|_ for the|few|_ that were|there|
+w: mo-|* ment sub-|line,|_ We'd|find|_ that our|love|_ is un-|alt-|
+ F"B+" G"B7" F |1"Em" E3 |"D7" F/G/ A/B/ c/d/ ||2"Em" E3-!fine! || E2 z |"D9" e e e | e e e | %36
+w: _ in your|eyes.||||Dear as I|held you so|
+w: * ered by|||time.|_|||
+ e"G" d3/2 ^c/ |"D7" d3 |"D7" c c c | c c c | c"G" B3/2 ^A/ | B2 B |"B7" A A A | A A A | %44
+w: close in my|arms,|An- gels were|sing- ing a|hymn to your|charms. Two|hearts gent- ly|beat- ing were|
+w: ||||||||
+"Cdim" A"Em" G"B7" F |"Em" E2 e |"Am" c"Am6" A F |"Em""Edim" G2"B7" F |"Em" E3- | E z B,!D.C.! |] %50
+w: mur- mur- ing|low, "My|dar- ling I|love you|so."|_ The|
+w: ||||||
+

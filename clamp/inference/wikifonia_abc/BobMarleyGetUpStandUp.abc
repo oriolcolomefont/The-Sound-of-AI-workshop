@@ -1,0 +1,28 @@
+X:1
+T:Get Up, Stand Up
+T:Get Up, Stand Up
+T:Bob Marley
+C:Bob Marley
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 24
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+"Am" GA z2 Bc z2 | z8 |"Am" G A2 c- cG A2 | z8 |"Am" GA z2 Bc z2 | z8 |"Am" G A2 c- cG A2 z8 | z8 | %8
+w: Get Up, Stand Up.||Stand up for _ your right.||Get Up, Stand Up.||Don't give up _ the fight.||
+"Am" GA z2 Bc z2 | z8 |"Am" G A2 c- cG A2 | z8 |"Am" GA z2 Bc z2 | z8 |"Am" G2 Ac- cG A2 | %15
+w: Get Up, Stand Up.||Stand up for _ your right.||Get Up, Stand Up.||Don't give up _ the fight.|
+ z8"^Fine" ||"Am" z e2 e d c2 e- | e(d c2) z4 |"Am" cccB- BcBA- | A2 z2 z4 |"Am" z2 z e- edcd- | %21
+w: |Preach- er man don't tell|_ me _|heav- en is un- * der the earth.|_|I _ know you don't|
+ d e3 z2 z c- |"Am" c c2 c B2 BA- | A2 z2 z cde- |"Am" e2 d2 dc Ae- | e2 z2 z2 z e- | %26
+w: _ know what|_ life is real- ly worth.|_ is not all|_ that glit- ters is gold|_ half|
+"Am" e d2 d c A2 e | c d2 c- c2 z G | A2 .AB- BB c2 | z e3 z4 | (3e2 e2 d2- dc A2 | %31
+w: _ the sto- ry has ne-|ver been told _ so|now you see _ the light|hey|Stand up for _ your right|
+ z4 e d3"^D.C. al Fine" |] %32
+w: come on|
+

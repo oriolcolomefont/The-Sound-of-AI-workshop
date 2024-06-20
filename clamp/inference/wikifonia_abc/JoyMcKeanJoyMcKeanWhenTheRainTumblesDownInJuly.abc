@@ -1,0 +1,29 @@
+X:1
+T:When The Rain Tumbles Down In July
+T:When the rain tumbles down in July
+C:Joy McKean
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 5
+%%MIDI program 24
+V:1
+|:"D " z2 D E |"D " F2 A2 |"A7" A2 B3/2 A/ |"D " F/E/ D3 | z2 z d |"G " d2 c d |"G " e2 d/c/ B | %7
+w: Let me|wan~\-~~ der|North to the|home~\-~ * stead,/|Way|out,/ fur~\-~ ther|on,/ there * to|
+"D " A4- | A z B c |"G " d c2 d | e z d B |"D " B/A/ F3 | z2 D E |"D " F2 A A |"D " B A2 B | %15
+w: roam,/|* By a|gul~\-~ ly in|flood let me|lin~\-~ * ger,/|When the|sum~\-~ mer~\-~ y|sun~\-~ shine has|
+"A7" E4 |"A7" z2 D E |"D " F2 A3/2 A/ |"A7" A2 B A |"D " F/E/ D3 | z2 z d |"G " d2 c d | %22
+w: flown,/|where the|logs tang~\-~ gle|up on the|creek~\-~ * beds,/|And|clouds veil the|
+ e2 d/c/ B |"D " A4- | A z/ B/ B c |"G " d c2 d | e2 d B |"D " A/F/ D3 | z2 D E | F z E D | %30
+w: old north~\-~ * ern|sky,/|* And * the|cat~\-~ le move|back from the|low~\-~ * lands,/|When the|rain tum~\-~ bles|
+"A7" C2 D E/D/ |"D " D4- | D2 z2 | z4 :|"D " F2 A A |"D " B2 A3/2 B/ |"A7" E4- |"A7" E z z2 | %38
+w: down in Jul~\-~ly *||||husks in the|barn through the|day,/||
+"A7" z2 z A,/A,/ |"D " F A2 F |"A7" A2 B3/2 A/ |"D " F/E/ D3 | D2 d d |"G " d z c d | e/d/ d d B | %45
+w: And the|dro~\-~ ver draws|rein by the|riv~\-~ * er,/|* Its been|years since he's|seen * * it so|
+"D " A4 | z2 z d |"G " d2 c d | e2 d A |"D " A/F/ D3 | z2 D E |"D " F2 E D |"A7" C z D E | %53
+w: high,/|And|that's just a|sto~\-~ ry of|home~\-~ * wards,/|When the|rain tumb~\-~ bles|down in Ju~\-~|
+"D ""G " D4 |"D " z4 |] %55
+w: ly./||
+

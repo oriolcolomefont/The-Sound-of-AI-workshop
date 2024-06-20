@@ -1,0 +1,42 @@
+X:1
+T:I Don't Want to Live on the Moon
+T:I don't want to live on the moon
+C:Sesame Street
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z6 EF |:"C" G2 GF-"C/B" FGFE- |"Am" E4-"Em" E2 ED |"F" CFED-"G" DCDE- |"C" E6 EF | %5
+w: Well, I'd|like to vi- * sit the moon|_ _ on a|roc- ket ship high _ in the air|_ Yes, I'd|
+w: |tra- vel un- * der the sea.|_ _ I could|meet all the fish _ ev- ery where|_ Yes, I'd|
+w: |I should vi- * sit the moon|_ _ Well, I'll|dance on a moon- _ beam and then|_ I will|
+ G2 GF"C/B" FGFE- |"Am" E4-"Em" E2 ED |"F" CFED-"G" DCB,C- |"C" C6 cc |"F" cccc-"Fm" cccc- | %10
+w: like to vis- * it the moon|_ _ But I|don't think i'd like _ to live there|_ I would|like to look down _ from the earth|
+w: tra- vel un- * der the sea|_ _ But I|don't think I'd like _ to live there|_ I might|stay for a day _ there if I|
+w: make a wish _ on a star|_ _ And I'll|wish i was home _ once a- gain|_ Though I'd|like to look down _ at the earth|
+"C" cGGG z2 cc |"F" cccc-"Fm" cccc- |"C" cGGG z2 GG |"F" AGFG-"C" GFEF- |"Em" FEDC-"Am" C2 ED | %15
+w: _ from a- bove I would|miss all the pla- * ces and peo-|* ple I love So al-|though I might like _ it for one|_ af ter noon * * I|
+w: _ had my wish But there's|not much to do _ when your friends|_ are all fish and an|oy- ster and clam _ ar- n't real|_ fa- mi- ly * So I|
+w: _ from a- bove I would|miss all the pla- * ces and peo-|* ple I love So al-|though I may go _ i'll be co-|* ming home soon * 'Cause I|
+"F" CFED-"G" DCB,C- |1"C" C4 z EEF :|2 C4 z CCC ||"F" AAAG-"C" GCCC |"G" FG-GE-"C" E2 z2 | %20
+w: don't want to live _ on the moon|* I'd like to|* I'd like to|vi- sit the ju- * ngle hear the|li- ons * roar _|
+w: don't want to live _ in the sea|||||
+w: don't want to live _ on the moon|||||
+"F" AAAG-"C" GGGc |"G" dBAG-"C" G2 GG |"F" AGFG-"G" GFEF- |"Em" FEDE-"Am" E2 z D | %24
+w: go back in time _ and meet a|di- o- no- saur _ Ther's so|ma- ny strange pla- * ces where I'd|_ like to be _ But|
+w: ||||
+w: ||||
+"F" CFED-"G" DCB,C- |"C" C6 EF :|3 C6 ED |"F" CFED-"G" DCB,C- |"C" C4"C/B" z4 |"Am" z4"Em" z4 | %30
+w: none of them per- * man- en- tly|_ So if|* No, I|don't want to live _ on the moon|||
+w: ||||||
+w: ||||||
+"F" z4"G" z4 |"C" z8 |] %32
+w: ||
+w: ||
+w: ||
+

@@ -1,0 +1,38 @@
+X:1
+T:Rose, Rose, I Love You
+T:Rose, Rose, I Love You
+C:Chinese Folk Song
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C2 C3/2 D/ | E G2"G7" G | d3/2 e/ d/B/ A | G4 |"C" C2 E G |"F" A c3 |"C" G2 A/c/ E |"G7" D4 | %8
+w: 1.~Make way, oh|make way For|my East- ~- * ern|Rose.|Men crowd in|doz- ens|ev- 'ry- where she|goes.|
+w: 2.~Rose, Rose, I|love you With|your al- * * mond|eyes.|Frag- rant and|slen- der|'neath trop- i- cal|skies,|
+"C" E G"Am" A c |"Em" G A G E |"F6" D E"B7" G ^F |"Em" E4 |"C" C D E G |"Am" A c2 e | %14
+w: In her rick- shaw|on the street or|in the cab- a-|ret.|Please make way for|Rose, you can|
+w: I must cross the|seas a- gain and|nev- er see you|more|Way back to my|home on a|
+"F6" d2"G7" G2 |1"C" c3 z :|2"C" c3 z ||"C" c2"^En" B2 |"F" A2"G7" D2 | B2 A2 |"C" G2"Am" C2 | %21
+w: hear them|say|shore|All my|life I|shall re-|mem- ber|
+w: dis- tant|||||||
+"G7" D E G G |"C" C D E2 | G2"Am" A A |"Em" E4 |"C" c2"Em" B2 |"F" A2"G7" D2 | B2 A2 | %28
+w: Or- i- en- tal|mus- ic and|you in my|arms,|Per- fumed|flow- ers|in your|
+w: |||||||
+"C" G2"Am" C2 |"G7" D E G G |"C" C D E2 | G2"A" A2 |"F6" D4- | D z"G7" z2 ||"C" C2 C3/2 D/ | %35
+w: tress- es,|Lo- tus scent- ed|bree- zes and|sway- ing|palms.|_|1.Rose, Rose, I|
+w: ||||||2.~Rose, Rose I|
+ E G2"G7" G | d3/2 e/ d/B/ A | G4 |"C" C2 E G |"F" A c3 |"C" G2 A/c/ E |"G7" D4 |"C" E G"Am" A c | %43
+w: love you My|ship is in * the|bay.|Kiss me fare-|well now,|there's noth- ing to|say,|East is East and|
+w: love you *|With and ach- * ing|heart.|What is your|fu- ture|Now we have to|part|Stand- ing on the|
+"Em" G A G E |"F6" D E"B7" G ^F |"Em" E4 |"C" C D E G |"Am" A c2 e |"F6" d2"G7" G2 |1"C" c3 z :|2 %50
+w: West is West, our|worlds are far a-|part.|I must leave you|now, but I|leave me|heart.|
+w: jet- ty as the|steam- er moves a-|way|Flow- er of Ma-|lay- a, I|can- not||
+"C""Am" c4 ||"Em""Am" z4 |"F6""G7" z4 |"C" z4 |] %54
+w: ||||
+w: ||||
+

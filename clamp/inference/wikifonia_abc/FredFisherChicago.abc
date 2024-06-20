@@ -1,0 +1,30 @@
+X:1
+T:Chicago
+T:Chicago
+C:Fred Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 c2 |:"C" B3 A- A2 c2 | B3"Ebdim7" A- A2 E2 |"Dm7" FEDG-"G7" G2 z2 |"Dm7" FEDG-"G7" G2 F2 | %5
+w: Chi-|ca- go, * Chi-|ca- go, * that|tod- dl- in' town, *|(tod- dl- in' town. ) Chi-|
+"Dm7" F3 D- D2 F2 |"G7" E3 D- D2 B,2 |"C" CB,A,C- C2 z2 | z E3"G7" E D3 |"C" CDEF G A2 G | %10
+w: ca- go, * Chi-|ca- go, * I'll|show you a- round, *|I love it!|Bet your bot- tom dol- lar you|
+ B2 GA- AG B2 |"D7" E3 D- D2 A2 | E3 D- D3 E |"Dm7" F2 G2"G7" E D3 |"Dm7" F G2 F"G7" E2 D2 | %15
+w: lose the blues * in Chi-|ca- go, * Chi-|ca- go. * The|town that Bil- ly|Sun- day could not put|
+"C/E" G4"Ebdim" z4 |"Dm7" z4"G7" z2 c2 |"C" B3 A- A2 c2 | B3"Ebdim7" A- A2 E2 | %19
+w: down!|On|State street * that|great street, * I|
+"Dm7" FEDG-"G7" G2 z2 |"Dm7" FEDG-"G7" G2 F2 |"Bm7b5" F3 D- D2 F2 |"E7" E2 E2 D2 E2 |"Am" C8 | %24
+w: just want to say, *|just want to say * They|do things * they|don't do on Broad-|way|
+"A7" ^C8 |"Dm" E D2 E D2 ED- |"Fm" DE D2 D2 z2 |"C" A G2 A G2 AG- | GA G2"Ebdim" G2 cc | %29
+w: Say,|They have the time, the time|* of their life,|I saw a man, he danced|* with his wife in Chi-|
+"Dm7" B3 A-"G7" A3 c |"Dm7" B2 B2"G7" A2 B2 |1"C""Cdim" c8- |"Dm7" c4"G7sus4" z2 c2 :|2 %33
+w: ca- go, * Chi-|ca- go, my home|town.|_ Chi-|
+"C""Cdim" c8- |"Dm7""Dbmaj7" c4 z4 |] %35
+w: town.|_|
+

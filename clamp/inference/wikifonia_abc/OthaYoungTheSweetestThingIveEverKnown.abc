@@ -1,0 +1,43 @@
+X:1
+T:The Sweetest Thing (I've Ever Known)
+T:The Sweetest Thing
+T:Otha Young
+C:Otha Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" z eBd- d2-"D/F#" [Ad]2 |"Em" z e"D"Bd-"C" d2"G/B" B2 |"Am7" E4-"C/D" E2 G,A, |: %3
+w: ||* * When I|
+w: |||
+"G" B, B,3 z2 DG |"G7" D D3 z2 A,B, |"C" C4 z DCB, |"Cm" G,4 z2 G,A, |"G" B, B,3"D/F#" z2 DD | %8
+w: see you in the|morn- ing with the|sleep still in your|eyes, I re-|mem- ber all the|
+w: I, * we're not|chil- dren. We have|both been loved be-|fore. We have|giv- en and,we have|
+"Em" E E3"G/D" z DDE- |"A/C#" E4 z B,A,G, |"D" A,4 z3/2 G,/G,A, |"G" B, B,3 z2 DG | %12
+w: laugh- ter and the tears|* we shared last|night. And as we|lie here, just two|
+w: tak- en man- y rides|* on trou- bled|shores. But all the|heart- aches and temp-|
+"G7" D D3 z2 A,B, |"C" C4 z DCB, |"Cm" G,4 z G,G,A, |"G" B,4 z B,CB, |"D" A,4 z A,B,A, | %17
+w: shad- ows in the|light be- fore the|dawn, the sweet- est|thing I've ev- er|known is lov- ing|
+w: ta- tions on- ly|make me love you|more. The sweet- est|thing I've ev- er|known is lov- ing|
+"C" G,4-"G/B" G,2-"Am7" G,2- |"G" G,2 z D D2 D2 ||"C" E E3 z2 z G- | GGAG D4 |"G" B3 A B/A/ G3- | %22
+w: you. * *|* And I have|nev- er been|* a- fraid * of|los- ing. * * *|
+w: you. * *|||||
+ G2 z G"G/F#" G2 AG |"Em" B B3- B2 BB |"Am" cB/A/ G2-"A7" GGEE |"C" G4- GE G<F |"D" z2 BA A3 A | %27
+w: * And I have *|nev- er * want- ed|love * * * * to be a|chain. * * * *|I * on- ly|
+w: |||||
+"G" B/A/ G3 z2 AB |"G7" c2 B2- B A2 B |"C" G2 G2 z2 AG |"Cm" _BA !fermata!G2 z GGA | %31
+w: know * that when I'm|with you, * you're my|sun- shine, you're my|rain. * * The sweet- est|
+w: ||||
+"G" B2 z2 z DGB |"D" A4 z DFA |1"C" G4-"G/B" G2-"Am7" G2- |"G" GdBd- d2"D" A2 | %35
+w: thing I've ev- er|known is lov- ing|you. * *||
+w: ||||
+"Em" z e"D"Bd-"C" d4 |"Am7" E4-"C/D" EG,G,A, :|2"C" G4 (3E2"G/B" D2"Bb6" D2 |"A7" A4- AGGA | %39
+w: |* * Now, you and|you. * * *|* * the sweet- est|
+w: ||||
+"G/D" B>A G2- GDGB |"D" A4- ADFA |"C" G4-"G/B" G2-"Am7" G2- |"G" G4 z4 |] %43
+w: thing * * * I've ev- er|known * is lov- ing|you. * *||
+w: ||||
+

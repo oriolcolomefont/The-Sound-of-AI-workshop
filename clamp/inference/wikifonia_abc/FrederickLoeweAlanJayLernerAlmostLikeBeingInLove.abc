@@ -1,0 +1,30 @@
+X:1
+T:Almost Like Being In Love
+T:Almost Like Being In Love
+T:Frederick Lowe
+T:Alan Jay Lerner
+C:Frederick Loewe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb7" B c |:"Ebmaj7" d2 B G |"F7" A2 A B |"Ddim7/Bb" c2 A F |"Dbdim7" G2 G A |"Cm7" z B G A | %6
+w: What a|day this has|been! What a|rare mood I'm|in! Why, it's|al- most like|
+"F9sus4" B"F7b9" G2 A |"Bb6" B4- | B"Bb+" z B c |"Ebmaj7" d2 B G |"F7" A2 A B |"Ddim7/Bb" c2 A F | %12
+w: be- ing in|love.|_ There's a|smile on my|face for the|whole hu- man|
+"Dbdim7" G2 G A |"Cm7" z B G A |"F9sus4" B G-"F7b9" G A |"Bb6" B4- | B z B c ||"Am7" d2 A =B | %18
+w: race. Why, it's|al- most like|be- ing * in|love.|* All the|mu- sic of|
+"D7" c2 =e d |"Gmaj7" =B4- | B z G A |"Gm7" B2 A B |"Cm7" c G2 c |"Am7b5" d4- | %24
+w: life seems to|be,|* like a|bell that is|ring- ing for|me.|
+"D7b9" d d d"D+7" d ||"Ebmaj7" d2 B G |"F7" A2 A B |"Dm7" c2 A F |"Dbdim7" G2 G A |"Cm7" B2 G A | %30
+w: * And from the|way that I|feel when that|bell starts to|peal I could|swear I was|
+"C#dim7" B G2 G/A/ |"Bb6/D" B2 G A |"Dbdim7" B G2 B |"Cm7" d2 B c |"F7" d d c2 |1"Bb6""Fm7" B4- | %36
+w: fall- ing, I could|swear I was|fall- ing, it's|al- most like|be- ing in|love.|
+"Bb7" B z B c :|2"Bb6" B4 |] %38
+w: _ What a|love.|
+

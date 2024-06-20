@@ -1,0 +1,24 @@
+X:1
+T:The Ranger's Waltz
+T:The Rangers Waltz
+T:Quentin Ratliff
+T:Leslie R. Welch
+C:Quentin Ratliff
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4"^N.C." G2 ||"C" g4 G2 | e4 E2 | G3 A (3GAE | C2 E2 DC |"G" G,2 B,3 D | D2 B3 A | G2 ^FG AG | %8
+w: Swing|out swing|in and|waltz me a- round a-|gain Oh how I|love to go|danc- ing to|that lilt- ing mel- o-|
+"C" E4 G2 | g4 G2 | e4 E2 | G3 A (3GAE | C2 E2 DC |"G" G,2 B,3 D |"G7" F2 E2 C2 |"C" C6- | %16
+w: dy Swing|out swing|in and|twirl me a- round a-|gain to the *|tune of that|old Rang- ers|waltz|
+"^Fine" C6 |] z4 B,2 |"F" C2 F2 FG | A2 G2 F2 | c3 c fc | A2 z2 c2 |"C7" G3 A _BG | E4 G2 | %24
+w: |The|first time that I|heard it I|thought that I would|cry for|ten- der mem- o-|ries brought|
+"F" F3 G AF | C2 A,2 _B,=B, | C2 F2 FG | A2 G2 F2 | c3 c fc | A2 z2 cA |"C7" G2 GA _BG | E3 C G_G | %32
+w: tear- drops to my|eyes It was a|ver- y hap- py|feel- ing that|made me act this|way when the|beau- ti- ful Rang- ers|waltz * they would|
+"F" F6- |"^Returnto""^Playtofine""^D.S.alfine" F2 z2 G2 |] %34
+w: play.||
+

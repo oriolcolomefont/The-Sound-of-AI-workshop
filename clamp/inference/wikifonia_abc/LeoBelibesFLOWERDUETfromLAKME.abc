@@ -1,0 +1,28 @@
+X:1
+T:FLOWER DUET from LAKME
+C:Leo Belibes
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:6/8
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"G" z2 G-FG-F E2"Cmaj7"F-G"Am/G"A2 |"G" z2 G-FG-F E2"Cmaj7"F-G"Am/G"A2 |"G" z2 GA-GA- Bc-BA-G-F | %3
+w: Sous _ le _ do me e pais|ou _ le _ blanc jas _ min|A la _ ro _ se _ s'as _ _|
+"C/G" E-F-E-F-E-F"Bm7" D6 |"G" z2 G-FGF E2"Cmaj7"F-G"Am/G"A2 |"G" z2 GFGF E2"Cmaj7"FG"Am/G"A2 | %6
+w: sem _ _ _ _ _ ble,|Sur _ la ri ve en _ fleurs|ri _ ant _ au ma _ tin,|
+"G" z2 G-AG-A B-cB-AG-F |"C/G""_for Caron from Kevin" E-FE-F-E-F"G" G6 |"D" z2 F-ED-E F2F-DD-F | %9
+w: Viens, _ des _ cen _ dons _ en _|sem _ _ _ _ _ ble.|Dou _ ce _ ment glis _ sons _|
+"Bm7" z2 F-ED-E F2F-DD-F |"D" z2 F-ED-E F2F-DD-F |"D7" z2 F-DD-F z2 d4 |"C" c6- z GE-CE-G | %13
+w: de _ son _ flot char _ mant _|Sui _ vons _ le cou _ rant _|fu _ yant, _ Dans|_ de fre _ mis _|
+ c2- e4- c4 E2 |"Cm" _E6- EEC-G,CE | G2- c4- G4 _E2 |"G/D" D2G-FEF G6 |"Dm7b5/G" z2 =FEDE F6 | %18
+w: san _ _ te,|D'u _ ne main _ non cha|lan _ _ te,|Viens, ga _ gnons le bord|Ou la sour ce dort|
+"D/C" z2 E2-C2 z2 E2C2 | z2 E2C2 E2-C2E2 |"G" z2 G-FG-F E2"Cmaj7"F-G"Am/G"A2 | %21
+w: Et _ l'oi seau,|l'oi seau chan _ te!|Sous _ le _ do me e pais|
+"G" z2 G-FG-F E2"Cmaj7"F-G"Am/G"A2 |"G" z2 G-AG-A B-c-B-A-G-F- | E-F-EF-E-F E2-"D7"F2"C/G"E2 | %24
+w: ou _ le _ blanc jas _ min|Ah! _ des _ cen _ _ _ _ _|_ _ _ _ _ _ dons _ en|
+"G" B12 | B6 z4 z2 |] %26
+w: sem|ble!|
+

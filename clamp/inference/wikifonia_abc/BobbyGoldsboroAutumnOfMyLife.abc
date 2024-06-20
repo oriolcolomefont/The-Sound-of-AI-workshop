@@ -1,0 +1,32 @@
+X:1
+T:Autumn Of My Life
+T:Autumn Of My Life
+C:Bobby Goldsboro
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ FD |"F" C2- C3- CFB |"Dm" A4- A2- AG |"Bb" F4- F2- Fd |"F" c4 z2 FD | C2 F2- F3 B |"Dm" AF G4 A2 | %7
+w: In the|spring * * of my|life _ _ she|came _ _ to|me, She brought|sun- shine _ where|win- ter winds had|
+w: And the|years * * they went|by, _ in the|spring _ of my|life, And in|sum- mer _ she|blessed me with a|
+w: But~in the|Autumn * * of my|years, _ _ I|no- ticed _ the|tears, And I|knew that * our|life was in the|
+w: Now _|what, * what do you|say, _ to a|child _ _ of|ten? How~do you|tell him _ his|dad- dy's goin' a-|
+w: Now a|rose _ _ can't be|found _ on a|snow _ cov- ered|ground, And the|sun can- not shine|through _ cloud- y|
+"Gm7" G8- |"C7" G4 z2 FD |"F" C C3- C2 FB |"Dm" A6 AG |"Bb" F3 F- F2 d2 |"F" c4 z2"A7" AG | %13
+w: blown;|_ Then I|took her _ for my|wife in the|spring of _ my|life, And she|
+w: child;|_ Love con-|tin- ued _ _ to|grow in the|spring of _ my|life; And in|
+w: past:|_ Though I|tried _ _ to pre-|tend, I knew|it was _ the|end, For the|
+w: way?|* Do I|tell him _ that I|reached the Aut-|umn of _ my|life, And that|
+w: skies|* But I'm|rich- er, _ _ you|see, for the|years she gave to|me, And~ I'm|
+"Dm" F F3- F2 G2 |"Bb" A4-"C7" AFDE |"F""Bb" F8- |"F" F6 z2 |] %17
+w: brought me _ a|joy _ I'd nev- er|known.|_|
+w: ev- 'ry morn- ing|sun _ I saw her|eyes.|_|
+w: Aut- umn of my|life ~~ has come at|last.|_|
+w: he'll _ un- der-|stand * some win- ters|day?|_|
+w: con- tent in the|Aut- * tumn of my|life.|_|
+

@@ -1,0 +1,25 @@
+X:1
+T:I Cried For You
+T:I cried for you
+T:Arthur Freed, Gus Arnheim and Abe Lyman
+C:Arthur Freed, Gus Arnheim, Abe Lyman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" A2 e2- |"Am7" e2 d2 |"G7" D4- | D2 E F |"Gm7" c2"C7" A G |"Gm7" c A2 G |"F" D4- | D4 | %8
+w: I cried|* for|you|* now its|your turn to|cry ov- er|me||
+"F" E2 F2 | G2 A B |"Gm7" c4 |"C7" E4 | C2 E2 | G2 B2 |"G" d2 z2 |"C" c4 |"F" A2"E7" e2- | %17
+w: ev- 'ry|road has a|turn-|ing|thats one|thing youre|learn-|ing|I cried|
+"A7" e2"D7" d2 |"G7" D4- | D2 E F |"Gm7" c2 c2 | c2"Em7" B2 |"A7" A4- |"Cm" A2"A7" ^G A | %24
+w: * for|you|* what a|fool I|used to|be|* now I|
+"D7" d2 d2 |"Fm" d2 d ^c | d ^c"C" d"D7" d- | d A2 ^G |"G7" A2 A2 |"Bb" A2 A ^G | A ^G"F" A"G" A- | %31
+w: found two|eyes just a|lit- tle bit blu|* er I|found a|heart just a|lit- tle bit tru-|
+ A D2 z |"Fm7" A2 e2- |"Am7" e2"D7" d2 |"G7" D4- | D z E F |"Gm7" c2"C7" A G |"Gm7" c A2"C7" G | %38
+w: * er|I cried|* for|you|* now its|your turn to|cry ov- er|
+"F" F4- | F2 z2 |] %40
+w: me.||
+

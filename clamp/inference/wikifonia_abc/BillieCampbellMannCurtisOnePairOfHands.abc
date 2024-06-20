@@ -1,0 +1,36 @@
+X:1
+T:One Pair Of Hands
+C:Billie Campbell
+Z:Creative Commons BY
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" C3 C/C/- C<C- CA,/B,/ |"Am" C>C- C2 z4 |"Dm7" D2- DD/C/ D2- D/B,C/ |"G7" D2 z2 z4 | %4
+w: One pair of _ hands _ formed the|moun tains _|One _ pair of hands _ formed the|sea|
+w: one pair of _ hands _ healed the|sick _ _|One _ pair of hands _ raised the|dead|
+"C" E3 E/E/ E<E- E/E/D/C/ |"Am" E2 z4 DE |"F" F3/2-FD/E<FD/z/EF |"G7" F4 z4 |"C" G2 GG G2 EG | %9
+w: One pair of _ hands _ _ made the|sun ev ry|bird _ ev ry flow er ev ry|tree|One pair of hands formed the|
+w: One pair of _ hands calmed a rag ing|storm * and|thou sands _ of peo ple * were|fed|One pair of hands said "I|
+"Am" AG z4 FG |"F" A>A z A/G/ A/G-F/- FG/A/ |"G" B4 z2 z G |"C" c2 cd"E7" e-d- cc/d/ | %13
+w: val leys * the|oc ean * the riv ers _ _ and the|sand Those|hands are so strong _ _ so when|
+w: Love You" and those|hands _ were _ nailed _ _ _ to a|tree *||
+"F" e2 d2"Fm" _e-d- cc/d/ |"C/G" e2 z c"G7" d e2 d/B/ |"C" c4"A7" z2 z2 | %16
+w: life goes wrong _ _ put your|faith in to one pair of|hands|
+w: |||
+[K:D]"D" D3 D/D/- D<D- DB,/C/ |"Bm" D>D- D2 z4 |"Em7" E2- EE/D/ E2- E/CD/ |"A7" E2 z2 z4 | %20
+w: One pair of _ hands _ formed the|moun tains _|One _ pair of hands _ formed the|sea|
+w: ||||
+"D" F3 F/F/ F<F- F/-F/E/D/ |"Bm" F2 z4 EF |"G" G3/2-Gz/E/F/"Gm" G>E- (3EFG |"A7" G4 z4 | %24
+w: One pair of _ hands _ _ made the|sun ev ry|bird _ ev ry flow er _ ev ry|tree|
+w: ||||
+"D" A2 AA A2 FA |"Bm" BA z4 z A |"G" B>B z z/ A/ B/A-G/- GA/B/ |"A" c4 z2 z A | %28
+w: One pair of hands formed the|val leys the|oc ean the riv ers _ _ and the|sand Those|
+w: ||||
+"D" d2 de"F#7" f-e- dd/e/ |"G" f2 e2"Gm" =f-e- dd/e/ |"D/A" f2 z d"A7" e f2 e/c/ |"D" d8 |] %32
+w: hands are so strong _ _ so when|life goes wrong _ _ put your|faith in to one pair of|hands!|
+w: ||||
+

@@ -1,0 +1,29 @@
+X:1
+T:There Goes My Everything
+T:There goes my everything
+T:Dallas Frazier
+T:Country
+C:Dallas Frazier
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ FE |:"Bb" D2 F4 |"Eb" B4 BG |"Bb" F2 D4- | D2 z2 Bc | d3 d cd |"F7" e2 dc BA |"Bb" B6- | %8
+w: I hear|foot- steps|slow- * ly|walk- ing|_ as they|gent- ly walk a-|cross * a lone- ly|floor.|
+w: |mem- 'ry|turns back the|pag- es|_ I can|see the hap- py|years * we had be-|fore|
+ B2"F7" F2 E2 |"Bb" DF- F3 F |"Eb" B4 BG |"Bb" F2 D4- | D2 z2 Bc | d2 d2 cd |"F7" e2 dc BA | %15
+w: _ and a|voice * * is|soft * ly|say- ing|_ dar ling|this will be good-|bye * for ev- er|
+w: _ now the|love * * that|kept this old|heart beat-|ing has been|shat- tered by the|clos * ing of the|
+"Bb" B6- | B4 z2 |"Bb" d2 d3 d |"F7" e2 d2 c2 |"Bb" B4"F7" c2 |"Bb" d6 |"Eb" B2 G3 B |"F7" A4 Bc | %23
+w: more|_|There goes my|re- son for|liv- *|ing|there goes the|one of my|
+w: door,|_|||||||
+"Bb" BG F4- | F2 z4 | B2 B3 B |"Bb7" B2 c2 d2 |"Eb" e4 G2 | B4 z2 |"Bb" d2 d3 e |"F7" d4 c2 |1 %31
+w: dreams _ _|_|there goes my|on- ly pos-|ess- *|ion|there goes my|ev- ry-|
+w: ||||||||
+"Bb" B6 |"F7" z4 FE :|2"Bb" B6- | B2 z4 |] %35
+w: thing|As my|thing|_|
+w: ||||
+

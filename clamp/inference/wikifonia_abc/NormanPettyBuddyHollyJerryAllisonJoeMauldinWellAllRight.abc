@@ -1,0 +1,33 @@
+X:1
+T:Well All Right
+T:Well All Right
+T:Norman Petty,Buddy Holly,Jerry Allison,Joe Mauldin
+C:Norman Petty, Buddy Holly,Jerry Allison,Joe Mauldin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z C DF- |"F" FFFF"Eb" _EEEE |"F" FFFF- FCDC- | CCCC"C7" CCCC |"F" CCCC C"^Verse" CD(F |: %5
+w: ||||* * * * * WELL ALL RIGHT|
+w: ||||* * * * * (WELL ALL RIGHT)|
+"F" F) F2 _E-"Eb" E2 EE |"F" F F CC- C C DF- | F C F C"C7" G G2 A- |"F" A CCC- C CDC | %9
+w: * so I'm * Be- ing|fool- ish, * * * Well all right|* * let * peo- ple know|* * * * * A- bout the|
+w: * so I'm * go- in'|stead- y * * * It's all right|* * when * peo- ple say,|* * * * * That those *|
+ F C F C"Eb" _E G2 F- |"F" FF C C- C CDF- | F F2"C7" G2 E2 F- |"F" F CCC- C"^Chorus" FGB- || %13
+w: dreams * and * wish- es you|* wish * * * in the night|* when lights are low|* * * * * Well all right,|
+w: fool- * ish kids can't be read-|* y * * * for the love|* that comes their way.-||
+"Bb" B FFF F ABc- |"C7" c BBB B CDC |"F" F C F C"Eb" _E B,B,C |"F" F F2 F- FFGB- | %17
+w: * * * * * Well all right,|* * * * * Oh, we- 'll|live * and * love * * with|all our might. * Well all right,|
+w: ||||
+"Bb" B FFF F ABc- |"C7" c BBB B CDF- |"F" F C F C"Eb" _E B,B,C |1"F" F F2 F- FCDF :|2 %21
+w: * * * * * Well all right,|* * * * * Our * life|* * time * love * * will|be all right, * Well all right|
+w: ||||
+"F" F F2 F- F CDF- || FFFF"Eb" _EEEE |"F" FFFF FCDF- | FFFF"C7" GGGG |"F" FFFF- F z z2 |] %26
+w: be all right.- * * * *|||||
+w: |||||
+

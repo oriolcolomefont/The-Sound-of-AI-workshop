@@ -1,0 +1,19 @@
+X:1
+T:Csínom Palkó, csínom Jankó
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Gm" A,3 B, C2 E2 |"Cm" D3 D D2 D2 |"D7" E3 D C2 B,2 |"Gm" A,4 A,2 z2 |"Gm" A,3 B, C2 E2 | %5
+w: Csí- nom Pal- kó,|Csí- nom Jan- kó,|cson- tos ka- ra-|bé- lyom,|Szép sely- mes ló-|
+"Cm" D4 D4 |"D7" E D3 C2 B,2 |"Gm" A,4 A,2 z2 |"B" E E3"F7" G2 F2 |"B" E3 E"Gm" D C3 | %10
+w: din- gom,|da- li pár pisz-|to- lyom,|No- sza, raj- ta,|jó ka- to- nák,|
+"B" E E3"F7" G F3 |"B" E4 B2 z2 |"D7" B,2 C2 D2 B,2 |"Gm" A, E3 E2 E2 |"D7" B, C3 D B,3 | %15
+w: i- gyunk e- gész-|ség- gel,|Men jen tánc- ba|ki- ki köz- tünk|az ő je- gye-|
+"Gm" A,4 A,4 |] %16
+w: sé- vel.-|
+

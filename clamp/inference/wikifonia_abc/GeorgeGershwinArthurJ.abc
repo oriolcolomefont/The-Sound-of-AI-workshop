@@ -1,0 +1,36 @@
+X:1
+T:Nobody But You
+T:Nobody But You
+T:from the score of La La Lucille
+T:George Gershwin
+T:Arthur J. Jackson, B.G. DeSylva
+T:MCMXIX by T.B. Harms & Francis, Day & Hunter, N.Y.
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Allegretto moderato" g4 | ee e(c | c)=E FG | (A=A) (dc) ||"Eb""^a tempo"!p! B"Eb"B"Eb" B2 | %5
+w: ||||Ma- ny queens|
+"Eb6" ee e2 |"Ab6" F"Abm6/G"F"Abm6/G" F2 |"B7" BB B2 |"Eb6" E4 |"Abm6" z"Bb7" F"Bb7" AG |"Eb" (E4 | %11
+w: I have seen|On the stage|and the screen,|Who|would nev- er|do\_\_\_|
+"Ebdim7" E)"Bb7" z"Bb7" z2 |"Eb" B"Eb"B"Eb" B2 |"Eb6" ee e2 |"Abm6" FF F2 |"^D7aug" BB B2 | %16
+w: :|Bil- lie Burke,|Al- ice Joyce,|none of them|were my choice.|
+"Gm" G4 |"Ebdim7" z =A cB |"Gm""Cm6" (G4 |"Gm""Cm6" G)"Cm6""Gdim7" z"Gdim7" z2 |"Bb7" B2 ff | %21
+w: But|when I met|you\_\_\_\_\_\_|\_\_\_~|My thum- ping|
+"Eb" e4 |"Bb7" BB ff |"Eb" e4 |"Cm7""F7" e2"F7" cc |"Bb""Eb" d2"Eb" B2 |"Am7""D7" c2"D7" =AA | %27
+w: heart|From the ver- y|start|Knew right a-|way dear.|That's why I|
+"Gm""Bb7" B2"Bb7" _A2 |:"Eb""^Refrain:""^p ---\n"!f! G4 |"Bb7" FE F(E |"Eb" (E4) | E2) z2 | %32
+w: say, dear|No-|bo- dy but ~~you\_\_\_\_|\_\_\_\_|\_\_|
+"F9" G4 | FE FE | (E4 | E2) z2 |"Bb7" d4 |"Gbdim7/Bb" z e ce |"Bb7" d4 |"C7" z c Gc |"^Fm7sus" B4 | %41
+w: No-|bo- dy will do\_\_|\_\_|\_\_|I|have seen them|all,|But did- n't|fall|
+"Fm" z A Bc |"Ab/C" E4 |"Bb7" F4 |"Eb" G4 |"Bb7" FE F(E |"Eb" (E4) | E2) z2 |"F9" G4 | FE F(E | %50
+w: Un- til I|saw|you.|Who's|locked in my heart?\_\_|\_\_|\_\_|Who's|my lit- tle Yum|
+ E4) |"Bb7" F4 |"Eb" (G4 | G)A Bc |"C9" d4 | z c BA |"F9" G4 |"Bb7" FE F(E |1"Eb" E3) z || z4 :|2 %60
+w: |Yum?|Hon-|* ey tell me,|who?|You know it's|no-|bo- dy but you.\_\_|||
+"Eb""Ebdim7" (E4 ||"Eb" E2) z2 |] %62
+w: you.\_\_\_||
+

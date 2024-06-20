@@ -1,0 +1,22 @@
+X:1
+T:Avalon
+T:Avalon
+T:Vincent Rose
+T:Al Jolson, B.G.De Sylva
+C:Vincent Rose
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." C |"C7" G2 A2 | _B2 c2 | _B A G2- | G2 C2 |"F" F4- | F2"C7" G2 |"F" A4- | A2 C2 | %9
+w: I|found my|love in|A- va- lon|* be-|side|* the|bay|* I|
+"C7" E2"Gm7" F2 |"C7" G2"Gm7" F2 |"C7" E D C2- | C2 D2 |"F" A4- | A2"C7" D2 |"F" A4- | A2 D2 | %17
+w: left my|love in|A- va- lon|* and|sail'd|* a-|way|* I|
+"D7" A2 _B2 | c2 d2 | c _B A2- | A2 D2 | G4- | G2"D7" A2 |"Gm" _B4- | _B z D2 |"F" C2 F2 | A2 c2 | %27
+w: dream of|her and|A- va- lon|* from|dusk|* till|dawn|* and|so I|think I'll|
+"D7" e d e2- | e z d2 |"Gm" _B4 |"C7" A4 |"F" F4- | F3 z |] %33
+w: trav- el on|* to|A-|va-|lon||
+

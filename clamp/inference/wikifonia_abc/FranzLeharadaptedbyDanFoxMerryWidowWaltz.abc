@@ -1,0 +1,27 @@
+X:1
+T:Merry Widow Waltz
+T:Merry Widow Waltz
+T:Franz Lehar
+C:Franz  Lehar (adapted by Dan Fox)
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" dd d2 d2 |"Gdim" ee e2 e2 |"D7" f2 z2 d2 | D2 z2 z2 ||S"G" D4 G2 | A4 B2 | D4 G2 | A4 B2 | %8
+"D7" c6 |"G" B6 |"D7" A6- | A6 | D4 A2 | B4 c2 | D4 A2 | B4 c2 |"G/B" d6 |"D7/A" c6 |"G" B6- | B6 | %20
+"C" e4 e2 |"D7" f4 e2 |"G" d6 |"Em" G6 |"Am" c4 c2 |"F#m7b5" d4 c2 |"B" B6- | B6 |"D" A4 A2 | %29
+"D/C" B4 A2 |"G/B" d4 B2 |"C" G4 E2 |"Am7" G6 |"D7" A6 |1"G" G6- ||"^To Next Strain" GB cB ^AB ||2 %36
+"G" G2 z G G2!fine! || G2 z2 z2 |]"D7""^Next Strain" d4 ^c2- | c2 =c3 B | B4 A2- | A2 ^G2 A2 | %42
+"G" g4 f2- | f2 e3 _e | _e4 d2- | d2 ^c2 d2 |"D7" ^d2 e3 e | e2 ^G3 G | ^G2 A2 A2 | A2 B2 c2 | %50
+"G" ^c2 d3 d | d2 ^A3 A | ^A2 B2 B2 | z B cB ^AB |"D7" d4 ^c2- | c2 =c3 B | B4 A2- | A2 ^G2 A2 | %58
+"G" e4 _e2- | e2 d3 c |"E7" c4 B2- | B2 ^A2 B2 |"C#dim" f4 e2- | e2 ^d3 e |"G/D" e4 d2- | %65
+ dB cB ^AB |"D7" d4 ^c2- | c2 =c3 F |"G" G6- | G2 z2 ed |:[K:C]"C" e4 dc | d4 cB | A6- | A4 GA | %74
+ B4 AG |"C/E" A4 GE |"Dm" F6- | F4 ^GA | d4 AG | F4 GA |1"Em/G" e6 ||"G#dim" d6 |"Am" c4 de | %83
+"D7" ^f4 ba |"G" g4"D7" ^f2 |"G7" f2 z2 ed :|2"C/G" e4 dc ||"C/E" G4 ^FG |"G9" B4 AF |"G7" e4 d2 | %90
+"C" c2 z E"Eb7/Db" _E2 |"D7" D2 z2 z2!D.S.! |] %92
+

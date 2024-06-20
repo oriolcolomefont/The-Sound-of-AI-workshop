@@ -1,0 +1,38 @@
+X:1
+T:A Whiter Shade of Pale
+C:Procol Harum
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"^Intro""C" E8- |"C/A" EDCB,"C/G" CDEC |"F" A6"F/E" Bc | F/"Dm"E/ F3-"Dm/C" F2 D2 |"G" B6"G/F" cd | %5
+w: |||||
+w: |||||
+ G/"Em"F/ G3-"G7" GFEF | F"C"EDC"F" CDEF |"G" B,CDE"F" FE"G7" D2 |: %8
+w: |||
+w: |||
+"^Verse""C"z2>G2 e/"C/B"d/e- ed |"Am"d (c3- c/"C/G"A/G-) G2 |"F"z2>c2"F/E" dd- dc/A/ | %11
+w: We skipped a light _ fan-|dang- o _ _ _ _|turned cart- wheels _ 'cross the|
+w: |||
+"Dm7"(c A3) z4 |"G" z2 z B/A/"G/F"B B2 A/A/ |"Em"A G3"G7" z4 |"C"z2z>G"C/B" e2 d/c/c- | %15
+w: floor _|I was feel- ing kin- da|sea- sick|the crowd called out _|
+w: |||but * * * *|
+"Am" c>A e2"Em" z4 |"F"z2z>c d>"Dm/E"c dA/c/- |"Dm7"c d3 z4 |"G" z2 z A/A/"G/F"B B2 A/A/- | %19
+w: _ for more|The room was hum- ming har-|_ der|as the ceil- ing flew a-|
+w: ||||
+"Em"A G3"G7" z4 |"C" z2 z d/e/"C/B"g g2 g/e/ |"Am" a2- a>e"Em" (ee e/d/c) | %22
+w: _ way|When we called out for an-|o- * ther drink _ _ _ _|
+w: |||
+"F"z2z>c d>"Dm/E"c dA/(c/- |"Dm7"c A2) z"Em/G" (3e2 e2 g2 ||"^Chorus""C6" (a2>g2-"C/B" g2>)e2 | %25
+w: the wai- ter brought a tray|_ _ And so it|was _ _ that|
+w: |||
+"Am" e>(d c2-"C" c/d/e) z2 |"F" z2 z c/c/ d<"F/E"c dA |"Dm7"(c A3) z4 |"G" z2 z B/A/"G/F" B>A BA | %29
+w: la- ter * * * *|as the mill- er told his|tale *|that her face, at first just|
+w: ||||
+"Em"A G3"G7" z2 z A/c/ |"C" c2 (c/A/G)"F" z2 z A/c/ |"C" (e>d c2)"G7" z4 :| %32
+w: ghost- ly turned a|whi- ter _ _ shade of|pale _ _|
+w: |||
+

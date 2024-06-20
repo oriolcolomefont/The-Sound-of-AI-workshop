@@ -1,0 +1,61 @@
+X:1
+T:Heaven Sent
+C:Heather Nova
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:C#min
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+V:2 treble 
+V:1
+"^Intro""C#m" z8 |"A" z8 |"E" z8 |"B" z8 |"C#m" z8 |"A" z8 |"E" z8 |"B" z8 |"^NC" z8 || %9
+w: |||||||||
+"^Verse""C#m" z2 dc d d2d- | d2 cd cd- d2 |z4z2zG | dc d- d2f- f2- |"A" f2 (dc) d2 z2 |"F#m" z8 | %15
+w: Got the lights down low,|_ the streets be- low _|The|world in- side _ is _|_ spin- _ ning||
+"C#m" z2 d d2-d d/c/d- | d2 z2 z d2d- | d2 cd- d2zG | d2 cd- df- f2- |"A" f2 (d/c/)d- d2 z2 | %20
+w: All my _ me- mo- ries,|_ my doubts|_ a- bout _ The|ways that I've _ been _|_ liv- _ ing _|
+"F#m" z8 |"B" z2 ff f4 | f2 e (g2f- f2) |z4z2zB | g f2 f2 e2g- |"A" g8 |"F#m" z8 |"B" z8"B6" | %28
+w: |You come on|like the sun _ _|And|blow it all a- way|_|||
+"B"z2zB ce- e2 ||S"^Chorus""C#m" z2 b2- b a2g- |"A" g c2-c ef- f2 |"E" z2 g2- g f2f- | %32
+w: And I guess _|heav- _ en sent|_ you _ 'cause I'm _|heav- _ en high|
+"B" f2 z2 ce- e2 |"C#m" z2 b2- b a2g- |"A" g c2-c ef- f2 |"E" z2 g2- g f2f- |"B" f2zB ce- e2 | %37
+w: _ And I'm _|head- _ ing in-|_ to _ what I _|can't _ des- cribe|_ It's all I _|
+"A" z2 b2- b a2g- |"F#m" g c2-c ef- f2 |"B" z2 g2- g f2f- |"G#m" f2zc g f2(e- | %41
+w: ev- _ er want-|_ ed _ but I'm _|terr- _ if- ied|* you're in my head,|
+"C#m" e c2) z g f2(e- |"A" e c2) z g f2f- |"F#m" f2 fe g2 ff- |"B" f4 z4O |"^NC" z8 || %46
+w: _ _ in my veins|_ _ in my world|_ and you're here to stay|_||
+"^Verse""C#m" z2 dc d d2d- | d2 d2 z2 d/c/d- | d2z2z2zG | d c2 d2f- f2- |"A" f2 (d/c/B- B2) z2 | %51
+w: Ev'- ry day I wake|_ up, he- si- tate|_ I|feel you in my _|_ sky _ _ _|
+"F#m" z8 |"C#m" z2 d2 d2 d/c/d- | d2 z2 z d2d- | d2 cd- d2zG | d c2 d2f- f2- | %56
+w: |All the me- lo- dies,|_ my dreams,|_ it seems _ You're|al- ways on my _|
+"A" f2 (e/d/c de- e2) |"F#m" z8 |"B" z2 ff f4 | f2 e f2-feg- | g f3z2zB | g f2 f2 e2g- |"A" g8 | %63
+w: _ mind _ _ _ _ _||You come on|like the tide, _ you turn|_ me And|I can't turn a- way|_|
+"F#m" z8 |"B" z8"B6" |"B"z2zB ce-"^D.S. al Coda" e2 |"^Coda""^Interlude""F#m7/A" z8 | z8 |"B" z8 | %69
+w: ||And I guess _||||
+ z8 |"F#m7/A" z8 | z8 |"F#m" z8 | z8 |"B" z8 | z8 |"^NC" z8 |z2zB ce- e2 || %78
+w: ||||||||And I guess _|
+"^Chorus""C#m" z2 b2- b a2g- |"A" g c2-c ef- f2 |"E" z2 g2- g f2f- |"B" f2 z2 ce- e2 | %82
+w: heav- _ en sent|_ you _ 'cause I'm _|heav- _ en high|_ And I'm _|
+"C#m" z2 b2- b a2g- |"A" g c2-c z4 |"E" b b3 b2 gb- |"B" b2zB ce- e2 |"A" z2 b2- b b2b- | %87
+w: head- _ ing in-|_ to _|what I can't des- cribe|_ It's all I _|ev- _ er want-|
+"F#m" b a2-a gf- f2 |"B" z2 g4ff- |"G#m" f2zc g f2(e |"C#m" c2) b2- b a2g- |"A" g c2-c ef- f2 | %92
+w: _ ed _ but I'm _|terr- if- ied|* you're in my head,|_ heav- _ en sent|_ you _ 'cause I'm _|
+"E" z2 g2- g b2c'- |"B" c'2zc g f2(e |"C#m" c2) b2- b a2g- |"A" g c2-c z4 |"E" b b2b- b2 gb- | %97
+w: heav- _ en high|_ you're in my head,|_ head- _ ing in-|_ to _|what I can't * des- cribe|
+"B" b2zc f(f e2) |"A" z2 b2- b b2b- |"F#m" b a2-a gf- f2 |"B" z2 g4ff- |"G#m" f2zc g f2((e || %102
+w: _ You're all I _|ev- _ er want-|_ ed _ but I'm _|terr- if- ied|* you're in my head,|
+"^Outro""C#m" e) c2) z g f2(e- |"A" e c2) z g f2f- |"F#m" f8- |"B" fd- d2 g f2((e | %106
+w: _ _ in my veins|_ _ in my world|_|* Yeah, * in my head,|
+"C#m" e) c2) z g f2(e- |"A" e c2) z g f2f- |"F#m" f8- |"B" fd- d2 g f2((e |"C#m" e) c2) z g f2(e- | %111
+w: _ _ in my veins|_ _ in my world|_|* Yeah, * in my head,|_ _ in my veins|
+"A" e c2) z g f2f- |"F#m" f8- |"B" f z fe g2 f(e |"A" !fermata!c4) z4 |] %115
+w: _ _ in my world|_|* And you're here to stay|_|
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |x4zG, B,E || C4 z4 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |z4zG, B,E || C4 z4 | x8 | x8 | x8 | x8 | x8 | x8 | %53
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %72
+ x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %91
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %110
+ x8 | x8 | x8 | x8 | x8 |] %115
+

@@ -1,0 +1,22 @@
+X:1
+T:Girl Of My Dreams (I Love You)
+T:Girl Of My Dreams
+C:Sunny Clapp
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 (3E/F/^F/ |:"C" G c"G7/D" B |"C7/E" _B3 |"F" A d c |"Dm7b5" _A3 |"C/G" G3 |"G+" G2 G |"C" G3- | %8
+w: Girl of my|dreams I love|you,|hon- est I|do,|You|are so|sweet.|
+"G+" G2 (3E/F/^F/ |"C" G c"G7/D" B |"C7/E" _B2"C+" ^G |"F" A d c |"Ab7/Gb" _A3 |"C/G" G c e | %14
+w: _ If I could|just hold your|charms, a-|gain in my|arms,|Then life would|
+"D7" A2"G7" B |"C" c3- | c3/2 B/ c/d/ |"E7" e3 | B3 |"Am" c3/2 d/ e/c/ | A3 |"D7" d3 | A e _e | %23
+w: be com-|plete.|_ Since you've been|gone.|dear,|life don't seem the|same.|Please|come back a-|
+"G7""Fm6/Ab" d3- |"G7" d2 (3E/F/^F/ |"C" G c"G7/D" B |"C7/E" _B3 |"F" A d c |"Ab7/Gb" _A3 | %29
+w: gain.|_ And af- ter|all's said and|done,|there's on- ly|one,|
+"C/G" G c e |"D7" A2 B |1"C" c3- ||"Dm7" c"G+" z (3E/F/^F/ :|2"C""F6""Fm6" c3- ||"C6" c2 z |] %35
+w: Girl Of My|Dreams it's|you.|_|you.||
+

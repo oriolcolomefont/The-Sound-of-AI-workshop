@@ -1,0 +1,30 @@
+X:1
+T:In The Blue Of Evening
+T:In The Blue Of Evening
+C:Alfonso D'Artega
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Fdim""_Moderately Slow" =B,2"F" C2 c3 A |"Bbm7" _A2 A6 |"F" (3G2 F2 E2"Abdim" G4 | %3
+w: In the blue of|eve- ning,|When you ap- pear|
+"Gm7" (3F2 E2 D2"Gm7b5" _D2 B2- | B8 |"F" (3A2 G2 F2"Abdim" E3 F |"Gm7" D6 D2 | %7
+w: close to me, dear one,||There in the dusk we'll|share a|
+"C13" A4-"C13b9" (3A2 ^F2 G2 |"F""Dm7" c8 |"Gm7""C7" z8 |"Fdim" =B,2"F" C2 c3 A |"Bbm7" _A2 A6 | %12
+w: dream * rev- er-|ie.||In the blue of|eve- ning,|
+"F" (3G2 F2 E2"Abdim" G4 |"Gm7" (3F2 E2 D2"Gm7b5" _D2 B2- | B8 |"F" (3A2 G2 F2"Abdim" E3 F | %16
+w: While crick- ets call|and stars are fall- ing,||There 'neath the star- lit|
+"Gm7" d6 D2 |"C13" A6"C7b9" E2 |"Edim" (G2"F" F6) |"Ebm7""Ab7" z8 |"Db" F>C_D>F B3 _A | %21
+w: sky you'll|come to|me. *||In the shad- ows of the|
+"Ebm7b5" _G3 F"Ab7" E3 _A |"Ebm7b5" _G3 F"Ab7" E3 _D |"Db" _A8 |"F" =A>EF>A"F6" d3 c | %25
+w: night we'll stand, I'll|touch your hand and|then|Soft- ly as your love- ly|
+"Gm7b5" B3 A"C7" G3 c |"Gm7b5" B3 A"Bbm6" G3 F |"C7" c8 |"Fdim" =B,2"F" C2 c3 A |"Bbm7" _A2 A6 | %30
+w: eyes en- treat, Our|lips will meet a-|gain.|In the blue of|eve- ning,|
+"F" (3G2 F2 E2"Abdim" G4 |"Gm7" (3F2 E2 D2"Bbm6" _D2 B2- | B8 |"F" (3A2 G2 F2"Abdim" E3 F | %34
+w: Night winds a- bove|whisp- 'ring "I love you,"||There we will find ro-|
+"Gm7" d6 ^CD |"C13" A6"C7b9" E2 |"Edim" G2"F" F6- | F8 |] %38
+w: mance, In the|blue of|eve- ning-||
+

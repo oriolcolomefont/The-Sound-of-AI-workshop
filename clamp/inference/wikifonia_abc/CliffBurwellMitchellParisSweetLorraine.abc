@@ -1,0 +1,28 @@
+X:1
+T:Sweet Lorraine
+T:Sweet Lorraine
+T:Cliff Burwell
+T:Mitchell Paris
+C:Cliff Burwell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^SWING" z4 z2 ^A2 |"G" B2 B2"E7" B4- |"A7" B2 AB"D7" cdBA |"Em7" G2 G2 G4- |"C7" G2 FG"B7" ABGF | %5
+w: I've|just found joy|* I'm as hap- py as a|ba by boy|* with an- oth- er brand new|
+"E7" E2 E2"A7" E4- |"D7" E2 DE FGAB |"Bm7" d8- |"E7" d4"D7" z2 ^A2 |"G" B2 B2"E7" B4- | %10
+w: choo- choo toy|* when I'm with my sweet Lor-|raine|* A|pair of eyes|
+"A7" B2 AB"D7" cdBA |"Em7" G2 G2 G4- |"C7" G2 FG"B7" ABGF |"E7" E2 E2"A7" E4- |"D7" E2 DE FGAB | %15
+w: * that are blu- er than the|sum- mer skies|* when you see them you will|re- a- lise|* why I love my sweet Lor-|
+"G" G8 |"Dm7" e2 d2"G7" e2 d2 |"C" cdef"E7" e2 d2 |"Am7" c2 c2"C7" c4 |"F" cde=f"E7" e2 d2 | %20
+w: raine|I'm so hap- y|when Its rain- ing I dont|miss the sun|For its in my sweet- ies|
+"Am7" c6"C7" z2 |"F7" ABcd"E7" c2 B2 | A2 A2"D7" A4 |"F7" ABcd"E7" c2 B2 | A4"D7" z2 ^A2 | %25
+w: smile|Just to think that I'm the|luck- y one|who will lead her down the|aisle each|
+"G" B2 B2"F7" B4- |"A7" B2 AB"D7" cdBA |"Em7" G2 G2 G4- |"C7" G2 FG"B7" ABGF |"E7" E2 E2"A7" E4- | %30
+w: night I pray|* that no- bo- dy steals her|heart a- way|* just cant wait unt- til that|hap- py day|
+"D7" E2 DE FGAB |"G" G6 z2 | g2 g2 g2 z2 |] %33
+w: * when I mar ry sweet Lor-|raine||
+

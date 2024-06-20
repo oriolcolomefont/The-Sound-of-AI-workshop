@@ -1,0 +1,42 @@
+X:1
+T:Spain
+T:Spain
+T:Isham Jones
+T:Gus Kahn
+C:Isham Jones (1924)
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^Tempo di Tango" B B2 G BG B2 |"Ebdim" =A8 |"Abdim" A A2 F AF A2 |"C7b9" G8 | %4
+w: ||||
+"F9" G G2 E GE G2 |"Bb7" FGAB- BG F2 |"Eb" E2 B,C D2 E2 |"Bb7" F2 G2 AB c2 |"Eb" B B2 G BG B2 | %9
+w: |||||
+"Ebdim" =A8 |"Abdim" A A2 F AF A2 |"C7b9" G8 |"F9" G G2 E GE G2 |"Bb7" FGAB- BG F2 | %14
+w: |||||
+"Eb" E2 B,C B,2 C2 |"Bb7" B,2 B,C B,2 C2 ||"Eb" z"^Verse" Bcd edcB |"Fm" =B c2 G A4 | %18
+w: ||I know a sun- ny land, Of|ro- mance and rhyme,|
+"Bb7" =B c2 G A4 |"Eb" ^c d2 =A B4 | z Bcd edcB |"Gm" ^c d2 =A G4 |"F7" d e2 =A GAFB- | %23
+w: Where sweet bells chime,|at eve- ning time,|Where love and laught- ter, Drive all|sor- row a- way,|I long to be there to- day,|
+"Bb" B2 AG"Bb7" F2 z2 |"Eb" z Bcd edcB |"Fm" =B c2 G A4 |"Bb7" =B c2 G A4 |"Eb" ^c d2 =A B4 | %28
+w: |Where fra- grant or- ange blos- soms|smile at the sky,|Maids pass- ing by,|Smile while they sigh,|
+ z Bcd edcB |"Gm" ^c d2 =A G4 |"F7" d e2 =A GAFB- |"Bb" B2 A2"Bb7" G2 F2 ||"Eb""^Chorus" B8 | %33
+w: For skies and eyes are friend- ly,|ten- der and true,|My land I'm sing- ing for you.||Spain|
+"Ebdim" =Acde- ed c2 |"Abdim" A8 |"C7b9" GABc- cB A2 |"F9" G8 |"Bb7" FGAB- Bc d2 | %38
+w: you're like a maid- * en so|fair,|Twin- ing a rose * in her|hair,|Watch- ing and wait- * ing for|
+"Eb" B2 GA"Edim" (3BcB AG |"Bb7" B2 FG (3ABA GF |"Eb" B8 |"Ebdim" =Acde- ed c2 |"Abdim" A8 | %43
+w: me. * * * * * * *||Blue|Med- i- ter- ran- * e- an|skies,|
+"C7b9" GABc- cB A2 |"F9" G8 |"Bb7" FGAB- BG F2 |"Eb" E8 | z2 EF"Eb7" (3GAG F=E |"Ab" E8 | %49
+w: Kiss- ing the tears * from your|eyes,|There by the sum- * mer- y|sea,-||In|
+"Abm" e6 _d=B |"Eb" B8 | z2 dc (3BcB GF |"Ab" E8 |"Abm" e4 f2 e2 |"Eb" B8 | z2 dc"Bb7" (3BcB GF | %56
+w: My * *|heart||Though|we be a-|part,||
+"Eb" B8 |"Ebdim" =Acde- ed c2 |"Abdim" A8 |"C7b9" GABc- cB A2 |"F9" G8 |"Bb7" FGAB- BG F2 | %62
+w: You|ring like a lov- * er's re-|frain|Soft as the pat- * ter- ing|rain,|Sing- ing of beau- * ti- ful|
+"Eb" E2 FG"Bb7" (3ABA GF |"Eb" E2 z2 e2 z2 |] %64
+w: Spain. * * * * * * *||
+

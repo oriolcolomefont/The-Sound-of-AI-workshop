@@ -1,0 +1,26 @@
+X:1
+T:I'm Getting Sentimental Over You
+T:I'm Getting Sentimental Over You
+T:George Bassman & Ned Washington, 1932
+C:George Bassman & Ned Washington 1932
+Z:All Rights Reserved
+L:1/4
+Q:1/4=70
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Moderately Slow""F" E F A c |"E7" e3 d/_d/ |"Cm" c G _E C |"D7#5" D3"D7" C |"G7" =B, A F D | %5
+w: Ne ver thought I'd|fall but _|now I hear love|call I'm|get ting sen ti|
+"C7" B, G E C |"F" D2-"D7b9" D2- |"Gm7" D2"C7" z2 |"F" E F A c |"E7" e3 d/_d/ |"Cm" c G _E C | %11
+w: men tal o ver|you _|_|things you say and|do just _|thrill me through and|
+"D7#5" D3"D7" C |"G7" =B, A F D |"C7" B, _A"C7#5" A G |"F" F2-"Bb" F2- |"F" F2"E7" z2 | E A =B c | %17
+w: through I'm|get ting sen ti|men tal ov er|you _|_|I thought I was|
+ =B A B c | ^d2 d =B | d4 | E ^F ^G =B | e e2 d | (3c ^c d (3=c ^c d | c4 |"F" E F A c | %25
+w: hap py I could|live with out|love|now I must ad|mit love is|all _ I'm think _ ing|of|won't you please be|
+"E7" e3 d/_d/ |"Cm" c G _E C |"D7#5" D3"D7" C |"G7" =B, A F D |"C7" B, G2 ^G |"F" A2"Cm/Eb" B c | %31
+w: kind and _|just make up your|mind that|you'll be sweet and|gen tle be|gen tile with|
+"D7#5" d3"D7" C |"G7" =B, A F D | B, _A"C7#5" A G |"F" F4 |] %35
+w: me be|cause I'm sen ti|men tal o ver|you.|
+

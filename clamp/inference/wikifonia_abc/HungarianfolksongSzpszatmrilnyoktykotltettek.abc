@@ -1,0 +1,14 @@
+X:1
+T:Szép szatmári lányok tyúkot ültettek
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A,B,CD E3 F | EDCB, A,2 z2!fine! |: EECE G3 G | AABA E2 z2!D.C.! :| %4
+w: Szép szat- má- ri lá- nyok|tyú- kot ül- tet- tek,|Egy tyúk a- lá har- minc-|hat to- jást tet- tek,-|
+w: Szép szat- má- ri lá- nyok,|mi lesz ve- le- tek?|Har- minc- hat to- jás- ból|csak egy ka- kas lett,|
+

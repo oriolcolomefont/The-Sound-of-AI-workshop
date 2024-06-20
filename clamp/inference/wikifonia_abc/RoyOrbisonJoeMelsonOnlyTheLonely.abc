@@ -1,0 +1,23 @@
+X:1
+T:Only The Lonely
+C:Roy Orbison, Joe Melson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ d/ B A/ |:"G" A B2 G/A/ | B B c B |"Am" A4- | A2 c/ d c/ |"D7" B A2 A/c/ |"Am7" e e2"D7" d | %7
+w: On- ly The|Lone- ly Know The|Way I Feel to-|night.|_ On- ly The|Lone- ly know the|feel- ing ain't|
+w: |Lone- ly know the|heart- aches I've been|through.|_ On- ly The|Lone- ly know I|cry and cry|
+"G" B4- | B2 G/ A G/ | B D3- | D2 B/ c B/ |"G7" d4- | d2 c/ B A/ |"C" c c3- | c2 c/ B A/ | %15
+w: right,|_ There goes my|ba- by.|_ There goes my|heart.|_ They've gone for-|ev- er|_ so far a-|
+w: for|you. May- be to-|mor- row,|_ a new ro-|mance.|_ No more sor-|row _|_ but that's the|
+"A7" (^c4 |"D7" d/) z/ z/ D/ d/ B A/ |"G" A G3- |"G7" G2 (A B) |"C" (A G C2- | C3) G |"D7" F4- | %22
+w: part.|_ But On- ly The|Lone- ly|_ know _|why _ _|_ I|cry.|
+w: chance.|_ You've got to take|if you're|_ lone- *|ly, _ _|_ heart-|break.|
+ F2 F/ G A/ |1"G" A G3- |"D7" G2 d/ B A/ :|2"G" A G3- | G3 z |] %27
+w: _ On- ly The|Lone- ly.|_ On- ly The|||
+w: _ On- ly The|||Lone- ly.|_|
+

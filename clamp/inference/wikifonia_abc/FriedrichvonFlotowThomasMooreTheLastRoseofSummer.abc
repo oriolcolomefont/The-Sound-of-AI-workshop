@@ -1,0 +1,30 @@
+X:1
+T:The Last Rose of Summer
+T:The Last Rose of Summer
+T:(from "Martha")
+T:von Flotow
+T:Thomas Moore
+T:Amsco Music Sales Co., N.Y.C. 1933
+C:Friedrich von Flotow
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ E>F |"Eb" G2 (e>d) (c>B) | B G3 (E>F) | (G B2) G"Bb7" (F>E) |"Eb" E4 EF |"Eb" G2 (e>d) (c>B) | %6
+w: 1.~'Tis the|last rose _ of *|sum- mer, Left- *|bloom\- _ ing a- *|lone; All her|love- ly * com- *|
+w: 2.~I'll not|leave thee, _ thou *|lone one, To *|pine _ _ on the|stem. Since the|love- ly * are *|
+ B G3 (E>F) | (G B2) G"Bb7" (F>E) |"Eb" E4 (BG) |"Ab" e3 d c>B |"Eb" B2 G2 (B>G) | %11
+w: pan- ions Are *|fad- * ed and *|gone; No *|flow- er of her|kin- dred, No *|
+w: sleep- ing, Go *|sleep _ thou with *|them. Thus *|kind- ly I _|scat- ter thy *|
+"^Cmi." e3 d"G7" c=B |"^Cmi." (c2{=Bcd} e2) E>F |"Eb" G2 (e>d) (c>B) | B G3 (E>F) | %15
+w: rose bud is *|nigh, _ To re-|flect back * her *|blush- es, or *|
+w: leaves * o'er the|bed; _ Where thy|mates of * the *|gar- den, lie *|
+ (G (B2) G)"Eb7" F>E | E4 z2 :| %17
+w: give _ _ sigh for|sigh.|
+w: scent\- _ _ less and|dead.|
+

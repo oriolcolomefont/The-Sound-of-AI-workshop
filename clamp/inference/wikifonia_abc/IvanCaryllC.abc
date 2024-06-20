@@ -1,0 +1,31 @@
+X:1
+T:The Kiss Waltz
+T:The Kiss Waltz
+T:from "The Pink Lady"
+T:Ivan Caryll
+T:C.M.S.McLellan
+C:Ivan Caryll
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G3 |"Bb+" ^F3 |"Eb" G F E | E F G |"Bb7/F" B3 |"Edim" B3 |"Bb7/F" B3- |"Bb7" B3 |"Bb7/F" A3 | %9
+w: I|have|kiss- es in|plen- ty, But,|if|you|please,||I|
+"Edim" G3 |"Bb7/F" A G F | F G A |"Eb" c3 | c3 | c3- | c3 |"Eb/G" B3 |"Gbdim" =A3 |"Eb/G" B c d | %19
+w: give|va- ri- *|ous kiss- es|in|diff-|'rent|keys,|Warm,|sweet|kiss- es that|
+"Eb/Bb" e d c |"Bb7/F" A3 |"Bb7" A3 |"Bb7/F" A3- |"Bb7" A G F |"Bb7/D" B3 |"Bb7b5" =E3 |"Bb7" F3 | %27
+w: kin- dle, and|cold|that|freeze;|* I can|give|both|kinds|
+"Bb+7" ^F3 |"Eb" G3- |"Eb/D" G3- |"Eb/C" G3- |"Eb/Bb" G3 |"Eb" G3 |"Bb+" ^F3 |"Eb" G F E | E F G | %36
+w: with|ease.||||If|I|ev- er de-|cide you de|
+"Bb7/F" B3 |"Edim" B3 |"Bb7/F" B3- |"Bb7" B3 |"Bb7/F" A3 |"Edim" G3 |"Bb7/F" A G F |"Bb7" F G A | %44
+w: serve|such|bliss,||I'll|bend|near- er and|near- er to|
+"Eb" c3 | c3 | c3- | c3 |"Eb/G" B3 |"Gbdim" e3 |"Bb7/F" e d ^c |"Bb7" d3 |"Eb" G3 |"Ebdim" c3 | %54
+w: you,|like|this!||And|the|world in e-|clipse,|All|my|
+"Bb7/D" c B =A | B3 |"Ab/C" A3 |"Abm/B" e3 |"Eb" e d c | B G B |"Bb7" G3 | F3 |"Eb" E3- | E z z |] %64
+w: love on my|lips,|I|will|give you my|best and my|warm-|est|kiss.-||
+

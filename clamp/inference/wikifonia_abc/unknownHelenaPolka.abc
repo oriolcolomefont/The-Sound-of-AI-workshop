@@ -1,0 +1,20 @@
+X:1
+T:Helena Polka
+T:Helena  Polka
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" g g g g |"G7" g g g f |"C" f e e e | e3 G |"G7" e d d d | d3 G |"C" f e e e | e3 G | g g g g | %9
+"G7" g g g f |"C" f e e e | e3 G |"G7" e d d d | d3 d | g g B B |"C" c c c z :|"G" d d g b | %17
+ d d g b |"D7" a a d' d' |"G" c' b b/a/ g | d d g b | d d g b |"D7" a d' a d' |"G" g z"G7" g2 || %24
+"C" g g g g |"G7" g g g f |"C" f e e e | e3 G |"G7" e d d d | d3 G |"C" f e e e | e3 G | g g g g | %33
+"G7" g g g f |"C" f e e e | e3 G |"G7" e d d d | d3 d | g g B B |"C" c c c z |:"F" c4 | B c d c | %42
+ f4 | z f e d |"C7" c4 | e2 g2 |"F" d2 c2 | z"^N.C." A B =B |"F" c4 | =B c d c | f4 | z f e d | %52
+"C7" c2 e2 | a2 g2 |"F" f z f3/2 f/ |1"^N.C." f A B =B :|2 f z z2 |] %57
+

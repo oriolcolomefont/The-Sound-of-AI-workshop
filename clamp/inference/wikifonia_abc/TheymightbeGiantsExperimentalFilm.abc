@@ -1,0 +1,52 @@
+X:1
+T:Experimental Film
+C:They might be Giants
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="[Alto Saxophone]"
+V:1
+"^G" z2 BA-"^F" A2 GE- |"^C" E2 GF-"^D" F2 AG- |"^Em" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" GzzG | %4
+w: The col- _ or of|_ in- fin- _ i- ty|_ in- side _ an em-|_ pty glass _ I'm|
+"^G" GABA-"^F" A2 GE- |"^C" E2 GF-"^D" F2 AG- |"^Em" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" GzzG | %8
+w: squint- ing my eye _ and turn-|_ ing off _ and on|* and on _ and off|_ the light _ It's|
+"^Em" Bcdc-"^Am" c2 BA- |"^D" A2 DB-"^G" BzzG |"^Em" Bcdc-"^Am" c2 BA- |"^D" A2 GD-"^G" D2 EF | %12
+w: for this ex- per- _ i- men-|_ tal film _ Which|no- bo- dy knows _ a- bout|_ and which _ I'm still|
+"^Em" GABA-"^Am" A2 GF- |"^D" F2 DG-"^G" G2 FG- |"^C" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" G2 z2 | %16
+w: fi- gure- ing out _ what's goin'|_ a go _ in my|_ ex- per- _ i- men-|_ tal film _|
+"^C" c2zc cded- |"^D" d2 G2 F G2d- |"^G" d2 G2 F G2d- |"^Am" d2 G2 F G2c- |"^C" c2 B2 A G2F- | %21
+w: Yeah you're all gon- na be|_ in this ex- per-|_ i- ment- al film|_ and e- ven though|_ I can't ex- plain|
+"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- |"^D" F2 G4zF |"^G" GABA-"^F" A2 GE- |"^C" E2 GF-"^D" F2 AG- | %26
+w: _ it I al- read-|_ y know how great|_ it's I|al- read- y know _ the end-|_ ing it's _ the part|
+"^Em" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" GzzG |"^G" GABA-"^F" A2 GE- |"^C" E2 GF-"^D" F2 AG- | %30
+w: _ that makes _ your face|_ im- plode _ I|don't know what makes _ your face|_ im- plode _ but that's|
+"^Em" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" GzzG |"^Em" Bcdc-"^Am" c2 BA- |"^D" A2 DB-"^G" BzzG | %34
+w: _ the way * the mov-|_ ie ends. * It's|for this ex- per- _ i- men-|_ tal film _ Which|
+"^Em" Bcdc-"^Am" c2 BA- |"^D" A2 GD-"^G" D2 EF |"^Em" GABA-"^Am" A2 GF- |"^D" F2 DG-"^G" G2 FG- | %38
+w: no- bo- dy knows _ a- bout|_ and which _ I'm still|fi- gure- ing out _ what's goin'|_ a go _ in my|
+"^C" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" G2 z2 |"^C" c2zc cded- |"^D" d2 G2 F G2d- | %42
+w: _ ex- per- _ i- men-|_ tal film _|Yeah * all * gon- be|_ in this ex- per-|
+"^G" d2 G2 F G2d- |"^Am" d2 G2 F G2c- |"^C" c2 B2 A G2F- |"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- | %47
+w: _ i- ment- al film|_ and e- ven though|_ I can't ex- plain|_ it I al- read-|_ y know how great|
+"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- |"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- |"^D" F2 G2- G2 z2 || %52
+w: _ it's e- ven though|_ I can't ex- plain|_ it I al- read-|_ y know how great|_ it's *|
+[K:F]"^F" z8"^Eb" |"^Bb" z8"^C" |"^Dm" z8"^Gm" |"^C" z8"^F" |"^F" z8"^Eb" |"^Bb" z8"^C" | %58
+w: ||||||
+"^Dm" z8"^Gm" |"^C" z8"^F" ||[K:G]"^G" z2 BA-"^F" A2 GE- |"^C" E2 GF-"^D" F2 AG- | %62
+w: ||The col- _ or of|_ in- fin- _ i- ty|
+"^Em" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" GzzG |"^Em" Bcdc-"^Am" c2 BA- |"^D" A2 DB-"^G" BzzG | %66
+w: _ in- side _ an em-|_ pty glass _ It's|for this ex- per- _ i- men-|_ tal film _ Which|
+"^Em" Bcdc-"^Am" c2 BA- |"^D" A2 GD-"^G" D2 EF |"^Em" GABA-"^Am" A2 GF- |"^D" F2 DG-"^G" G2 FG- | %70
+w: no- bo- dy knows _ a- bout|_ and which _ I'm still|fi- gure- ing out _ what's goin'|_ to go _ in my|
+"^C" G2 B,C-"^Am" C2 AD- |"^D" D2 FG-"^G" G2 z2 |"^C" c2zc cded- |"^D" d2 G2 F G2d- | %74
+w: _ ex- per- _ i- men-|_ tal film _|Yeah you're * all gon- be|_ in this ex- per-|
+"^G" d2 G2 F G2d- |"^Am" d2 G2 F G2c- |"^C" c2 B2 A G2F- |"^D" F2 G2 A B2c- |"^C" c2 B2 c B2d- | %79
+w: _ i- ment- al film|_ and e- ven though|_ I can't ex- plain|_ it I al- read-|_ y know how great|
+"^D" d2 d2 d d2d- |"^C" d2 z2 dddd- |"^D" d2 G2 F G2d- |"^G" d2 G2 F G2d- |"^Am" d2 G2 F G2c- | %84
+w: _ it's gon- na yeah|_ you're gon- na be|_ in this ex- per-|_ i- men- tal film|_ and e- ven though|
+"^C" c2 B2 A G2F- |"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- |"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- | %89
+w: _ I can't ex- plain|_ it I al- read-|_ y know how great|_ it's e- ven though|_ I can't ex- plain|
+"^D" F2 G2 A B2c- |"^C" c2 B2 A G2F- |"^D" F2 G2- G2 z2 |"^C5" z8 |] %93
+w: _ it I al- read-|_ y know how great|_ it's _||
+

@@ -1,0 +1,39 @@
+X:1
+T:Hello Young Lovers
+T:Hello Young Lovers
+T:(from The King and I)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 4
+V:1
+ z z G |"Cmaj9" G2 G |"Dm7" G3/2 A/ B |"Em7" A3/2 G/ F |"Dm7" E2 E |"Cmaj7" E2 E | %6
+w: Hel-|lo young|lov- ers who-|ev- er you|are I|hope your|
+"A7b9" E3/2 G/ A |"Dm7" D3- |"G7" D3 |"Dm7b5" F3/2 F/ F |"G7" D3/2 D/ D |"Ebmaj7" G3/2 A/ G | %12
+w: trou- bles are|few||all my good|wish- es go|with you to-|
+"G7" D3 |"Dm7" D D3/2 D/ |"G7sus4" C2"G7" B, |"C" C3- |"Dm7" C2"G7" G |"Cmaj9" G2 G | %18
+w: night|I've been in|love like|you.|* Be|brave young|
+"Dm7" G3/2 A/ B |"Em7" A3/2 G/ F |"Dm7" E2 E |"Cmaj7" E2 E |"A7b9" E3/2 G/ A |"Dm7" D3- |"G7" D3 | %25
+w: lov- ers and|fol- low your|star be|brave and|faith- ful and|true||
+"Dm7b5" F3/2 F/ F |"G7" D3/2 D/ D |"Ebmaj7" G3/2 A/ G |"G7" D3 |"Dm7" D D3/2 D/ | %30
+w: cling ver- y|close to each|oth- er to-|night|I've been in|
+"G7sus4" C2"G7" B, |"C" C3- |"C7" C2 C |"F" F F F |"Gm7" F2 E/F/ |"Am7" G F F |"Gm7" F2 E/F/ | %37
+w: love like|you|* I|know how it|feels to have|wings on your|heels, and to|
+"Fmaj9" G F F |"Gm7" F2 E/G/ |"Fmaj7" A3- |"F6" A2 A |"Bm7" A ^G G |"E7" ^G2 A/B/ |"Am9" B A A | %44
+w: fly down a|street in a|trance|* you|fly down a|street on a|chance that you'll|
+"D7" A2 A/B/ |"Dm7" c z F |"A+7" F E F |"Dm7" D3- |"G7" D2 G |"Cmaj9" G2 G |"Dm7" G3/2 A/ B | %51
+w: meet and you|meet not|real- ly by|chance|* Dont|cry young|lov- ers what|
+"Em7" A3/2 G/ F |"Dm7" E2 E |"Cmaj7" E2 E |"A7b9" E3/2 G/ A |"Dm7" D3- |"G7" D3 | %57
+w: ev- er you|do dont|cry be-|cause I'm a-|lone||
+"Dm7b5" F3/2 F/ F |"G7" D3/2 D/ D |"Ebmaj7" G3/2 A/ G |"G7" D3 |"Dm7" D D D |"G7" D C B, | %63
+w: all of my|mem- 'ries are|hap- py to-|night|I've had a|love of my|
+"Gm" E3- |"C7" E3 |"F" F F F |"Fm" F G ^G |"E7" ^G2 A |"A7" A3 |"Dm7" A A A |"Ab9" _B B"G7b9" =B | %71
+w: own||I've had a|love of my|own like|yours|I've had a|love of my|
+"C" c3- | c z z |] %73
+w: own.||
+

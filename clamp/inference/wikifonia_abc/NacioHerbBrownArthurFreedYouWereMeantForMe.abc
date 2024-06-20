@@ -1,0 +1,28 @@
+X:1
+T:You Were Meant For Me
+T:You Were Meant For Me
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" z A A A |"F#dim7" c4 |"Gm" z G G G |"C7sus4""C7" c4 |"F/A" z C D E |"Abdim7" G3 D | %6
+w: Life was a|song,|you came a-|long,|I've laid a-|wake the|
+"Gm7" F2 D2 |"C7" E4 |"Gm" z B B B |"D7" d4 | z A A A |"Ebdim7" c4 |"G7/D" G A"G7" G2- | G2 D2 | %14
+w: whole night|through.|If I but|dared|to think you|cared,|this is what|_ I'd|
+"Gm7/C" F3 D |"C7" E4 |:"C7" d2 c2 |"Gm7" D2"C7" E2 |"F" A4- | A4 |"C7" d2 c2 |"Gm7" D2"C7" E2 | %22
+w: say to|you.|You were|meant for|me|_|I was|meant for|
+"F" A4- | A4 |"D7" d2"A7/E" ^c2 |"D7/F#" c =B"D7" _B A |"G7" A _A G F- | F4 |"G7" A _A G ^F | %29
+w: you|_|Na ture|pat- terned you and|when she was done|_|you were all the|
+"G7" F2 D2 |"Cdim7" d c d"C7" c- | c"G#dim7" =B"F/A" c"Db/Ab" ^c |"C7" d2 c2 | D2 E2 |"F" A4- | %35
+w: sweet things|rolled in- to one|* youre like a|plain- tive|mel- o-|dy|
+ A3 c |"C7" d2 c2 |"Gm" D2"Gm6/Bb" E2 |"A" A4- |"A+" A3"A7" A |"D7b9" _e2"D7" d2 | c3 A | %42
+w: _ that|ne- ver|lets me|free|_ for|I'm con-|tent the|
+"Gm" B G"D7" A ^F |"Gm" G"Dm" A"G7" B"C" c |"C7" d2 c2 |"Gm7" D2"C7" A2 |1"F" F4- | %47
+w: an- gels must have|sent you and they|meant you|just for|me.|
+"Db/Ab" F"Bbm" z"Bdim7""C7" z2 :|2"F""Gm7b5" F4- |"F" F z z2 |] %50
+w: _|me.|_|
+

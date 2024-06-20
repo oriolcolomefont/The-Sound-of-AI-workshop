@@ -1,0 +1,42 @@
+X:1
+T:My Love
+T:My Love
+T:Tony Hatch
+C:Tony Hatch
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C3/2 C/ C/D/ E |"F" G F/E/ F F/E/ |"G7" D3/2 D/ D/C/ D |"C" C4- | C"^Chorus" E"G7" F"C" G |: %5
+w: ||||* My Love is|
+w: |||||
+S"F" A A A A |"Dm7" A B/A/"G7" G F |"Em" G G G/ G E/- |"Am" E3/2 C/ D E |"Dm7" F F F F | %10
+w: warm- er than the|warm- est * sun- shine,|soft- er than a sigh,|* My Love is|deep- er than the|
+w: |||||
+"G7" F G/F/ E D |"C" E3/2 D/ E/ F G/ | (G4 | G) E"G7" F"C" G |"F" A A A A |"Dm7" A B/A/"G7" G F | %16
+w: deep- est * o- cean,|wid- er than the sky||* My Love is|bright- er than the|bright- est * star that|
+w: ||||||
+"Em" G G/G/ G/ G E/ |"Am" E3/2 C/ D E |"Dm7" F F F F |"G7" F G/F/ E D!dacoda! ||"Dm7" C2"G7" D2 | %21
+w: shines ev- 'ry night a- bove|* and there is|noth- ing in this|world that can ev- er|change My|
+w: |||||
+"C" C4 |"G7" D3 F/E/ |"Dm7" D3/2 D/ D/C/ D |"G7" F3/2 F/ E D ||"C""^Verse" E E E/ G- G/ | %26
+w: Love-||||Some- thing hap- pened *|
+w: ||||Once I thought * that|
+"F" F F F3/2 E/ |"G7" D/D/D/D/ C D |"C" E4 | E E E/ G- G/ |"F" F F G A |"G7" G2- G3/2 D/ | G4 | %33
+w: to my heart the|day * * that I met|you,|some- thing that I *|nev- er felt be-|fore. * *||
+w: love was meant for|an- y- one * else but|me.|Once I thought * you'd|nev- er come my|way. * *||
+"C" E E E G |"F" F F/F/- F E |"G7" D D C D |"E7""A7" E3 E |"Dm7" F F/F/- F E |"G7" D D C B, | %39
+w: You are al- ways|on my mind * no|mat- ter what I|do, and|ev- 'ry day * it|seems I want you|
+w: Now it on- ly|goes to show * how|wrong we all can|be, for|now I have * to|tell you ev- 'ry|
+"C" C4- | C E"G7" F"C" G!D.S.! :|"Dm7""^CODA" C4 |"G7" D4 |"C" C3/2 C/ C/D/ E |"F" G F/E/ F F/E/ | %45
+w: more|* My Love is|change|My|Love. * * * *||
+w: day|* My Love is|||||
+"G7" D3/2 D/ D/C/ D |"C" C z z2 |] %47
+w: ||
+w: ||
+

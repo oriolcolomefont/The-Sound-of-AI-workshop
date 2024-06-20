@@ -1,0 +1,42 @@
+X:1
+T:Pieces Of Dreams (Little Boy Lost)
+T:Pieces Of Dreams (Little Boy Lost)
+C:Michel Legrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Eb" ED E2"Fm7" B,4- |"Eb" B,4"Cm7" z EFG |"Fm7" FE F2"Fm7" B,4- |"Bb7" B,4 z DEF | %4
+w: Lit- tle boy lost|* in search of|lit- tle boy found.|* You go a-|
+w: ||||
+"Ebmaj7" GF G2"Fm7" AG A2 |"Gm7" BA B2"Cm7" cB c2 |"Bbm7" _d8 |"Bb7""Bdim" =d8 |"Cm" ed e2 G4- | %9
+w: won- der- ing, wan- der- ing,|stum- bl- ing, tum- bl- ing,|round!|round!|When will you find|
+w: |||||
+ G4"D7" z cde |"Gm" dc d2 G4- |"Gm7" G6"Gm6" z2 |"Abmaj7" cB c2 E4- |"Ab6" E4 z ABc | %14
+w: * what's on the|tip of you mind?||Why are you blind|* to all you|
+w: |||* * ~ *||
+"Gm7" BA B2"C7" GF G2 |"Fm7" AG A2"Bb7" FE F2 |"Eb" ED E2"Fm7" B,4- |"Eb" B,4"Cm7" z EFG | %18
+w: ev- er were, nev- er were,|real- ly are, near- ly are?|Lit- tle boy false|* in search of|
+w: ||||
+"Fm7" FE F2 B,4- |"Bb7" B,4 z DEF |"Ebmaj7" GF G2"Fm7" AG A2 |"Gm7" BA B2"Cm7" cB c2 |"Bbm7" _d8 | %23
+w: lit tle boy true.|* Will you be|ev- er done trav- el- ing,|al- ways un- rav- el- ling|you,|
+w: |||||
+"Bdim" =d8 |"Cm" ed e2"Ab" A4- |"Abm6" A4 z def |"Eb" ed e2 E4- |"Am7b5" E4 z FG=A | %28
+w: round!|Run- ning a- way|* could lead you|fur- ther a- stray.|* And as for|
+w: |||||
+"Eb" BA B2"Eb+" E4- |"Fm7" E4"Bbm7" c4 |"Ebmaj7" BA B2"Eb7" E4- |"Fm7" E4"Fm7b5" A4 | %32
+w: fish- ing in streams|* for|pieces of drea ms,|* those|
+w: ||||
+"Ebmaj7" GF G2"Cm7" ED E2 |"Fm7" FE F2"Bb7" DC D2 |"Eb" ED E2"Fm7" B,4- |"Eb" B,4"Cm7" z EFG | %36
+w: piec- es will nev- er fit.|What is the sense of it?|Lit- tle boy blue|* don't let your|
+w: |* * * ~~~~~~~~~~~ * *|||
+"Fm7" FE F2 B,4- |"Bb7" B,4 z DEF |"Ebmaj7" GF G2"Fm7" AG A2 |"Gm7" BA B2"Eb6" cB c2 |"Bbm7" _d8 | %41
+w: lit tle- sheep roam.|* It's time, come|blow your horn, meet the morn,|look and see, can you be|far|
+w: |* ~~~~~~~~~~~~~~~~~~~~~~~~~ * *||||
+"Bb7" =d8 |"Eb""Ab" e8- |"Eb" e8 |] %44
+w: from|home?||
+w: |||
+

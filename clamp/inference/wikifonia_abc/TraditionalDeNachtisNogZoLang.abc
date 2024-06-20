@@ -1,0 +1,23 @@
+X:1
+T:De Nacht is Nog Zo Lang
+T: Laukens Music Productions  
+T:Wals
+T:DE NACHT IS NOG ZO LANG
+T:Arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:3/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ AS ||"E7""^3x helemaal" G3 | F D B, | G3 | D F E |"A" C3- | C3- | C3- | C2 A, ||"A" C3 | C C C | %11
+ E3 |"E7" D B, D |"A" C2 A,- | A,3- | A,3- | A,2 F |:"E7" E3 | D B, G, | E3 | D F3/2 E/ | %21
+"A" D2 C- | C3- | C3 | E, A, B, | C3 | C C B, |"F#7" ^A,3 | ^A, C3/2 A,/ |"Bm" D2 B,- | B,3- | %31
+ B,3- | B,2 D |"A" C3 | B, C D |"E7" B,3 | A, B, C |"A" A,- A G | F E C | A,3/2 A,/ C/E/ |1 %40
+ A z F :|2 A zS A |] %42
+

@@ -1,0 +1,59 @@
+X:1
+T:Uptown Girl
+T:Uptown Girl
+T:Words & Music by Billy Joel
+C:Billy Joel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E" z e d e |"F#m" f e d c |"E/G#" z g f g |"A" a g"B" f e ||"E" e e e z |"F#m" z d/e/ f/e/d/c/ | %6
+w: Oh * *||Oh * *||Up- town girl|She's been liv- ing in her|
+w: ||||||
+w: ||||||
+"E/G#" c B/G/ B z |"A" z/ A/G/A/"B" B/A/G/F/ |"E" E e e z |"F#m" z/ e/d/e/ f/e/d/c/ | %10
+w: up- town * world|I'll bet she ne- ver had a|back- street guy|I'll bet her ma- ma nev- er|
+w: ||||
+w: ||||
+"E/G#" c B/G/ B z |"A" z/ A/G/A/"B" B c/d/ |:"E" e e e z |"F#m" z/ e/d/e/ f/e/d/c/ | %14
+w: told her * why|I'm gon- na try for an|up- town girl|* She's been liv- ing in her|
+w: ||Up- town girl|You know I can't a- fford to|
+w: ||||
+"E/G#" c B/G/ B z |"A" z/ A/G/A/"B" B/A/G/F/ |"E" E e (f e) |"F#m" z/ e/d/e/ f/e/d/c/ | %18
+w: white bread * world|As long as an- y- one with|hot blood can *|And now she's look- ing for a|
+w: buy her * pearls|But may- be some- day when my|ship comes in *|She'll un- der- stand what kind of|
+w: ||||
+"E/G#" c B/G/ B z |"A" z/ A/G/A/"B" B z |"C" z =c e a |"Am7" =g2 e g |"Dm" =f2 =d e | %23
+w: down- town * man|That's what I am|And when she|knows what she|wants from her|
+w: guy I've * been|And then I'll win|And when she's|walk- ing she's|look- ing so|
+w: |||||
+"G7" =f e =d z |"C" z =c e a |"Am7" =g2 e g |"Bdim7" =f2 =d e |"E7" =f e =d z |"A" z c c d | %29
+w: ti- i- me|And when she|wakes up and|makes up her|mi- i- nd|She'll see I'm|
+w: fi- i- ne|And when she's|talk- ing she'll|say that she's|mi- i- ne|She'll say I'm|
+w: ||||||
+"F#m" e =d c z |"Bm" =d c B z |"B7" d c B c/d/ |"E" e e e z |"F#m" z/ e/d/e/ f/e/d/c/ | %34
+w: not so tough|Just be- cause|I'm in love with an|up- town girl|You know I've seen her in her|
+w: not so tough|Just be- cause|I'm in love with an|up- town girl|* She's been liv- ing in her|
+w: |||||
+"E/G#" c B/G/ B z |"A" z/ A/G/A/"B" B/A/G/F/ |"E" E e (f e) |"F#m" z/ e/d/e/ f/e/d/c/ | %38
+w: up- town * world|She's get- ting tired * of her|high class toys *|And all her pre- sents from her|
+w: white bread * world|As long as an- y- one with|hot blood can *|And now she's look- ing for a|
+w: ||||
+"E/G#" c B/G/ B z |"A" z/ A/G/A/"B" B z |"G" z =G B =d |"Am7" f e a =g |"F#7/A#" f e =g f | %43
+w: up- town * boys|She's got a choice|Oh * *|||
+w: down- town * man|That's what I am||||
+w: |||||
+"Bm" e =d"Bm/A" c B |"G" z =G B =d |"Am7" f e a =g |"F#7/A#" f e =g f |"B7" e d B2 :: %48
+w: |Oh * *||||
+w: |||||
+w: |||||
+"E" e e (f e) |"F#m" z B/B/ b g |"E/G#" g3/2 f/ e z/ G/ |"A" A A/A/"B" B c/d/ :| %52
+w: Up town girl *|she's my up- town|girl * * you|know I'm in love with an|
+w: ||||
+w: ||||
+

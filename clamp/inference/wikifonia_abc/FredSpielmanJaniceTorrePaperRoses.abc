@@ -1,0 +1,32 @@
+X:1
+T:Paper Roses
+T:Paper Roses
+T:Fred Spielman
+T:Janice Torre
+C:Fred Spielman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^Verse:" z2 z G |:"C" c B c B | c G E C |"G7" B,2 D2- | D2 z G | B G F G | B G F G |"C" E4- | %8
+w: I|re- al- ize the|way your eyes de-|ceived me|* with|ten- der looks that|I mis- took for|love|
+w: |pre- ty lips look|warm and so ap-|peal- ing|* they|seem to have the|sweet- ness of a|rose|
+ E2 z G | c B c B | c G"C7" E C |"F" F2 A2- | A3 c |"G7" B G F G | B G B d |"C" c4- | %16
+w: * so|take a- way the|flow- ers that you|gave me|* and|send the kind that|you re- mind me|of|
+w: * but|throw a- way the|flow- ers that I|gave you|* I'll|send the kind that|you re- mind me|of|
+"^Chorus:" c z c3/2 B/ |"F" B2 A2- | A2"G7" B3/2 A/ |"F" A2"C" G2- | G2"A" A3/2 G/ |"Dm" G F E F | %22
+w: * Pa- per|ro- ses|* pa- per|ro- ses|* oh how|real those ros- es|
+w: ||||||
+"G7" A3 G |"C" E4- | E2 c3/2 B/ |"F" B2 A2- | A2"B7" B3/2 A/ |"Em" A2 G2- | G2"A" A3/2 G/ | %29
+w: seem to|be|* but they're|on- ly|* im- i-|ta- tion|* like your|
+w: |||||||
+"Dm" G F E F |"G7" A2 B,2 |1"C" C4- | C2 z G :|2"C" C4- || C z"A" A3/2 G/ |"Dm" G F E F | %36
+w: im- i- ta- tion|love for|me|* your|me|* like your|im- i- ta- tion|
+w: |||||||
+"G7" A2 B2 |"C" c4- | c2 z2 |] %39
+w: love for|me,||
+w: |||
+

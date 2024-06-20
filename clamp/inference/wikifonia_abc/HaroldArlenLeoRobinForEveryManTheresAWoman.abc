@@ -1,0 +1,36 @@
+X:1
+T:For Every Man There's A Woman
+T:For Every Man There's A Woman
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2"C7" z C |:"Fm" F2 c2"Fm/Ab" c2 BA |"C7/G" B c3-"C7" c3 C |"Ab+" F2 c2"Ab" c2 BA | %4
+w: For|ev- 'ry man there's a|wo- man, _ for|ev- 'ry man there's a|
+w: |ev- 'ry prince there's a|prin- cess, _ for|ev- 'ry Joe there's a|
+"Gm" B4-"C7" B3 C |"Fm" F2 c2 c2 BA |"Bb7" Bc =d6 |"Abm" e2 c2"C7" B2 G2 |"Fm" A8 | %9
+w: plan, _ and|wise men know it was|ev- er so;|since the world be-|gan|
+w: Joan, _ and|if you wait you will|meet the mate|born for you a-|lone,|
+"G+7" e e2 c"C7" B2 GF- |"Fm7" F8 |"Gdim7" z B2 B"C7" G4 |"Fm7" z c2 c A4 |1 %13
+w: wo- man was mad for man.|_|Where is she?|Where is the|
+w: hap- py to be your own.|_|Where is she?|Where is the|
+"Db7" B B2 B"C7" G3 C :|2"Db7" B B2 B"C7" G4 ||"Abmaj7" z e2 e"Adim7" c4 |"Bbm7" z e e2"Eb7" c4 | %17
+w: wo- man for me? For||||
+w: |wo- man for me?|Find the one,|find the one,|
+"Abmaj7" z e2 c ec"Bb7"BA |"Db7" B2 Gc-"C7" c2 z C |"Fm" F2 c2"Fm/Ab" c2 BA | %20
+w: then to- geth- er you will|find the sun. _ For|ev- 'ry heart there's a|
+w: ||* * * * a|
+"C7/G" B c3-"C7" c3 C |"Fm" F2 G2"Fm/Eb" A2 c2 |"Bbm7" B8- |"Fm/C" B2 FG A2 c2 | %24
+w: mo- ment _ for|ev- 'ry hand a|glovec|_ and for ev- 'ry|
+w: ||||
+"G+7" e e2 c"C7" B2 G2 |"Fm7" F8 |"Gdim7" z B2 B"C7" G4 |"Fm7" z c2 c A4 |"Gdim7" B4"C7" G4 | %29
+w: wo- man, a man to|love.|Where is she?|Where is the|one for|
+w: |||||
+"Fm7" F8- | F4 z4 |] %31
+w: me.||
+w: ||
+

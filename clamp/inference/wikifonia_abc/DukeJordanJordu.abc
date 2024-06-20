@@ -1,0 +1,33 @@
+X:1
+T:Jordu
+T:Jordu
+T:Duke Jordan
+T:1959 You Look Good Music Publishing
+C:Duke Jordan
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 26
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 26
+V:1
+"^N.C." z G cd efge |:S"^A" ^f4"G7" =f3"Cm" e | z"^N.C." Gcd efgb |"F7" =a4"Bb7" _a3"Ebmaj7" g | %4
+ z"^N.C." Gcd efge | ^f4"G7" =f3"Cm" e | z4 (3e/f/e/ c ec- |1"Ab7" c8 |"G7" z"^N.C." Gcd efge :|2 %9
+"Ab7" c8 || z4"G7" z g'2 g'- |]"G7""^B" g'2 (3=a/b/_a/ g"C7" a2 f'=e' | %12
+"F7" f'2 (3=a/b/_a/ g"Bb7" a2 f'd' |"Eb7" e'2 (3g/a/g/ f"Ab7" _g2 =e2 |"Db7" f4 z f'2 f'- | %15
+"F7" f'2 (3=a/b/_a/ g"Bb7" a2 f'd' |"Eb7" e'2 (3g/a/g/ f"Ab7" _g2 e'c' | %17
+"Db7" _d'2 (3f/_g/f/ e"Gb7" =e3"G7" _e | z"^N.C." Gcd efge |]"^A" ^f4"G7" =f3"Cm" e | %20
+ z"^N.C." Gcd efgb |"F7" =a4"Bb7" _a3"Eb7" g | z"^N.C." Gcd efge | ^f4"G7" =f3"Cm" e | %24
+ z4 (3e/f/e/ c ec- |"Ab7" c8!dacoda! | %26
+"G7""_D.S. for solos AABA. \nChanges on the beat - comp. throughout breaks\nafter solos, D.C. al coda" z8 |] %27
+O"Ab7" c4-"G7" c4 |"Gb7" z4"B7" (3e/f/e/ cec- |"Bb7" c4-"Eb7" c4 |"Ab7" z4"G7" (3e/f/e/ cec- | %31
+"Ab7" c8 |"G7" z2 z g (3b/c'/b/ gb"Cm"=b- | b8 |] %34
+V:2
+ x8 |: z"D7" d'3"G7" g'3"Cm" c' | x8 | x8 | x8 | z"D7" d'3"G7" g'3"Cm" c' | x8 |1 x8 | x8 :|2 x8 || %10
+ x8 |] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] z"D7" d'3"G7" g'3"Cm" c' | x8 | x8 | x8 | %23
+ z"D7" d'3"G7" g'3"Cm" c' | x8 | x8 | x8 |] x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %34
+

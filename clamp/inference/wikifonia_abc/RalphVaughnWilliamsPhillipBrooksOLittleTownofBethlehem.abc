@@ -1,0 +1,41 @@
+X:1
+T:O Little Town of Bethlehem
+T:O Little Town of Bethlehem
+T:music by Ralph Vaughn Williams
+C:music by Ralph Vaughn Williams
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 3
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z3 C |"F" F"Bb" F"F" F"Gm" G |"F" A/-G/"Dm" A/-B/"C" c"Dm" A |"Gm" B"F/A" A/-F/"Gm" G"C7" G | %4
+w: O|lit- tle town of|Beth- * le- * hem, how|still we _ see thee|
+w: For|Christ is born of|Mar- * * * y and|gath- ered _ all a-|
+w: How|si- lent- ly, how|si- * lent- * ly, the|the won- drous Gift is|
+w: Where|chil- dren pure and|hap- * * * py pray|to the _ bles- sed|
+"F" F3"C" C |"F" F"Bb" F"F" F"Gm" G |"F" A/-G/"Dm" A/-B/"C" c"Dm" A | %7
+w: lie! A-|bove thy deep and|dream- * less _ sleep the|
+w: bove, While|mor- tals sleep, the|ang- * els _ keep their|
+w: giv'n; So|God im- parts to|hu- * man _ hearts the|
+w: Child, where|mis- er- y cries|out _ to _ Thee, Son|
+"Gm" B"F/A" A/-F/"Gm" G"C7" G |"F" F3"Dm" F/-A/ |"Am" c3/2 d/"C7" c/-B/ A/-G/ | %10
+w: si- lent _ stars go|by. Ye- t|in thy dark _ streets _|
+w: watch of _ won- drous|love. O _|mor- ning stars _ to- *|
+w: bless- ings _ of His|Heav'n. No _|ear may he- ar His _|
+w: of the _ moth- er|mild; Where _|char- i- ty _ stands _|
+"F" F/-G/"Dm" A/-B/"C" c C |"F/A" F"F" A"Gm/Bb" G"Dm" F |"C" C2"C" C2 |"F" F"Bb" F"F/A" F"Gm" G | %14
+w: shi- * * * neth the|ev- er- las- ting|Light; The|hopes and fears of|
+w: geth- _ _ _ er, pro-|claim the ho- ly|birth, and|prai- ses sing to|
+w: com- _ _ _ ing, but|in this world of|sin, where|meek souls will re-|
+w: watch- _ _ _ ing and|faith holds wide the|door, the|dark night wakes, the|
+"F" A/-G/"Dm" A/-B/"C" c"Dm" A |"Gm" B"F/A" A/-F/"C" G"C7" G |"F" F3 |] %17
+w: all _ the _ years are|met in _ thee to-|night.|
+w: God _ the _ King, and|peace to _ men on|earth.|
+w: ceive _ Him _ still, the|dear Christ _ en- ters|in.|
+w: glo- * ry _ breaks, and|Christ- mas _ comes once|more.|
+

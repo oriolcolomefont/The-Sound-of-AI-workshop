@@ -1,0 +1,41 @@
+X:1
+T:Sixteen Candles
+T:Sixteen Candles
+C:Luther Dixon and Alysson Khent
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 4
+%%MIDI program 66
+V:1
+"Amin" z2 AA c2 A2 | z2 AA"D7" dc (3AGA |"F " F2 z2 (3F2 F2 F2 |"C7" G2 z2 c2 A2 | %4
+w: Hap- py Birth- day|Hap- py Birth- day Ba- a\- by|Oh I Love You|So! Six- teen|
+"F " (3:2:2G2 F-"Fmaj7""C " F6 |"F7" (3z2 A2 A2"Cmin""F7" G3 F |"Bb " D6 z2 | %7
+w: Can- dles *|make a love- ly|light|
+ z2"Bbmin" GF GF- FG/F/ |"C7" E(3:2:2D/C-"B7" C6 |"C7" z2 cc dc- cB |"F " Ac- c2"Fmaj7" z4 | %11
+w: b\- ut n\- ot * a\- s|bri- gh- t *|as your e\- yes * to|ni- ght. *|
+"C " z2 c2"Amin""C " A3 E |"F " GF-"Fmaj7""C " F6 |"F7" z2 AA G2- GF |"Bb " D8 | %15
+w: Blow out the|can- dles, *|make your wish * come|true,|
+"Bbmin" z2 GF GF- FG/F/ |"C7" (3EDC-"B7" C6 |"C7" z2 BB"Amin" A"C7" E2 G |"F ""Bbmaj7" F8 | %19
+w: fo- r I'- ll * b\- e|w\- i\- shing *|that you lo- ve me|too.|
+"F " z2"Dmin" d2"F7" dc d2 |"Bb " (3:2:2dc/B- Bc d2"A " z2 |"Bb " z d dd"Bbmaj7" c2 B2 | %22
+w: You're on- ly six-|te- e\- e\- * e\- en|but you're my teen- age|
+"F " (3AGF-"Fmaj7" F4 z2 | z4"Dmin" d2"F " A2 |"Dmin" A/G/F- F2 A/G/F- F2 | A4"G7" d2 AF | %26
+w: que- e\- en. *|You're the|pret- ti- est * love- li- est *|girl I've e\- ver|
+"Gmin" G4"G7" z4 |"C7" z4 c2 A2 |"F " (3:2:2G2 F-"Fmaj7""C " F6 |"F7" z2 AA G2- G<F |"Bb " D6 z2 | %31
+w: seen.|Six- teen|can- dles *|in my heart * will|glow,|
+"Bbmin" z2 GF GF- FG/F/ |"C7" E (3:2:2DC/-"B7" C6 |"C7" z2 BB"Amin" A>E-"C7" EG | %34
+w: fo- r e\- ver * a\- nd|e\- e\- ver, *|for I lo- ve * you|
+"F " GF-"Bbmaj7" F4 z2 |"F " z2 d2 dc d2 |"Bb " (3:2:2dc/B- Bc d2"A " z2 |"Bbmaj7" z d dd c2 B2 | %38
+w: so- o. *|You're on- ly six-|te- e\- e\- * e\- en|but you're my teen- age|
+"F " (3AGF-"Fmaj7" F4 z2 | z2 z c"F " d2 cA |"Dmin" A/G/F- F2"Dbaug" A/G/F- F2 |"F " A4"G7" df dA | %42
+w: que- e\- en. *|O\- h you're the|pret- ti- est * love- li- est *|girl I'- ve e\- ver|
+"Gmin" G4"Gsus47""G7" z4 |"Cmaj7" z4 c2 A2 |"Fmaj7" (3:2:2G2 F-"F ""C " F6 | %45
+w: seen.|Six- teen|can- dles *|
+"F7" z2 AA"Cmin""F7" G2- G<F |"Bb " D6 z2 | z2"Bbmin" GF GF- FG/F/ |"C7" E (3:2:2DC/-"B7" C6 | %49
+w: in my heart * will|glow,|fo- r e\- ver * a\- nd|e\- e\- ver, *|
+"C7" z2 BB A>E- EG x23/24 |"F " GF cc"Bb7" d2 f2 x353/48 |"F " f8- x47/6 | f4 z4 |] %53
+w: for I lo- ve * you|so- o. For I Love You|So!||
+

@@ -1,0 +1,13 @@
+X:1
+T:Star Wars Intro
+T:Star Wars Intro
+C:John Williams
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="B Clarinet"
+%%MIDI program 71
+V:1
+ G, G, G, | C3 | G2 =F | E D c- | c2 G- | G =F E | D c2- | c G2 | =F E =F | D3- | D z2 | z3 |] %12
+

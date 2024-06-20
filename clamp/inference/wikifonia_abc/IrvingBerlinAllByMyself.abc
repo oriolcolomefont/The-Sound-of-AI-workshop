@@ -1,0 +1,30 @@
+X:1
+T:All By Myself
+T:All By Myself
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" E4 ^D E2 G- |"C6" G4 ^F G2"D7" c- | c4 c4- | c6 z2 |"G7" B4 D E2"Dm7" F- | F4"G+7" A B2 G- | %6
+w: All by my- self|_ in the morn-|* ing,|_|all by my- self|_ in the night,|
+"Cmaj9""C6" G8- |"Dm7""G9" G6 z2 |"C" E4 ^D E2 G- |"C6" G4 A ^A2"B7" B- | %10
+w: _||I sit a- lone|_ with a ta-|
+ B2"F#m7" B2 B"B7" A2"E7" ^G- | G8 |"Am" c2 c2"Cm/Eb" c B2"D7" A- | A8 | %14
+w: * ble and a chair.|_|so un- hap- py there,|_|
+"G7" d2 d2"Fm6/Ab" d c2"G7" B- | B8 |"C" E4 ^D E2 G- | G4 ^F G2"D7" c- | c4 c4- | c6 z2 | %20
+w: play- ing sol- i- taire.|_|All by my- self|_ I get lone-|* ly,|_|
+"G7" B4 D E2"Dm7" F- | F4"Dm7/F" A B2"E7" ^G- |"E+7""E9" G8- | G z E2"D#dim7" ^F2"E7/D" ^G2 | %24
+w: watch- ing the clock|_ on the shelf.|_|* I'd love to|
+"F" A2 ^G2 A2 B2 |"Dm7/F" c2 B"F#dim7"d- dc A2 |"C/G" G4"G+/B" G4- |"Gm/Bb" G z G"A7"A- AG E2 | %28
+w: rest my wear- y|head on some _ bod- y's|shoul- der.|_ I hate _ to grow|
+"Am7" D4"D9" A4 |"G7" z2 B2"Dm7/G" A2"G7" G2 |1"C6""Am7" c8- |"Dm7" c4"G7" z4 :|2"C""Am7" c8- | %33
+w: old- er|all by my-|self.|_|self.|
+"Dm7" c4"Db7" z4 |] %34
+w: _|
+

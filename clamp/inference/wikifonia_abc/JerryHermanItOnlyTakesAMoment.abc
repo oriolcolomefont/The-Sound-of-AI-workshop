@@ -1,0 +1,36 @@
+X:1
+T:It Only Takes A Moment
+T:It Only Takes A Moment
+C:Jerry Herman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z G ||S"Bbmaj7" F2"Gm7" B,2- |"Cm7" B,2"F7" C G |"Bbmaj7" F2"Gm7" B,2- |"Cm7" B,2"F7" C G | %5
+w: It|on- ly|_ takes a|mo- ment,|_ For your|
+"Bbmaj7" F3"Bb6" G |"Gm" A3 B |"G7b9" =B4- | B3 =B |"Cm" c2"Cm" G2- |"Cm7" G2"G9" A d | %11
+w: eyes to|meet and|then|_ Your|heart knows|_ in a|
+"Cm" c2"Cm" G2- |"Cm7" G2"G9" A d |"Cm" c3 e |"Cm" =B3 G |"Cm7" _B3 e |"F9" A3 G | %17
+w: mo- ment,|_ You will|nev- er|be a-|lone a-|gain. I|
+"Bbmaj7" F2"Gm7" B,2- |"Cm7" B,2"F7" C G |"Bbmaj7" F2"Gm7" B,2- |"Cm7" B,2"F7" C G | %21
+w: held her|_ for an|in- stant,|_ But my|
+"Bbmaj7" F3"Bb6" G |"Gm" A3 B |"G7b9" e4- | e3 e |"Cm7" d2 B2- |"Cm7b5" B2 c e |"Bb" d2"Gm" B2- | %28
+w: arms felt|sure and|strong.|_ It|on- ly|_ takes a|mo- ment,|
+"Cm7b5" B2 _A _G |"Bb" F3"Gm" B |"Cm7" d2"F7" c2!dacoda! |"Bb" G4 | z D E F |"Bbmaj7" F4- | %34
+w: _ to be|loved a|whole life|long.|I've heard it|said|
+"Bb6" F F F G |"Cm7" G4- |"F7" G D E F |"Bbmaj7" F4- |"Bb6" F F F3/2 c/ |"Cm7" c4- |"F7" c A B c | %41
+w: _ that love must|grow,|_ That to be|sure,|_ you must be|slow,|_ I saw you|
+"Bbmaj7" c4- | c c c f |"Gm7" f4- | f B (3B A G |"Cm7b5" _G3/2 _A/ G2- | G C (3C D E | %47
+w: smile|_ and now I|know,|_ I'll lis- ten to|just my heart,|_ That smile made me|
+"^F7b9+" _G3/2 _A/ G2- | G2 _A _G!D.S.! ||O"Bb" B4- | B D E F |"Bbmaj7" F4- |"Bb6" F F F G | %53
+w: trust my heart.|_ For it|long.|_ and that is|all|_ that love's a-|
+"Cm7" G4- |"F7" G D E F |"Bbmaj7" F4- |"Gm7" F F F d |"C9" d4- |"Cm7b5" d2 d e |"Bb" d2"Gm" B2- | %60
+w: bout|_ And we'll re-|call|_ when time runs|out|_ That it|on- ly|
+"Cm7b5" B2 c e |"Bb" d2"Gm" B2- |"Cm7b5" B2 _A _G |"Bb" F3"Gm" B |"Cm7" d2"F7" c2 |"Bbmaj7" B4- | %66
+w: _ took a|mo- ment,|_ To be|loved a|whole life|long.|
+"Bb6" B4 |] %67
+w: _|
+

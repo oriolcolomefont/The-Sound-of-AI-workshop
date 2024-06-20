@@ -1,0 +1,25 @@
+X:1
+T:The Town I Loved
+T:The Town I Loved So Well
+T:Phil Coulter
+T:slow
+T:Intro
+C:Phil Coulter
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z2 z2 CD |"A" [A,CE]6 E2 |"E7" [EGB]6 AG |"D" [DFA]6 AF |"A" [A,CE]6 E2 |"D" [DFA]6 GA | %6
+"A" [A,C]6 A,B, |"A" [A,C]6 DC |:"E7""^solist" [B,D]4 z2 CD |"A" [A,CE]6 E2 |"E7" [EGB]6 AG | %11
+"D" [DFA]6 AF |"A" [A,CE]6 EE |"D" [DFA]4 G2 A2 |"A" [A,CE]4 C B,2 A, |"A" (([A,C]8 | %16
+"A" [A,C]4)) z2 EE |:"D""^koor" [DFA]4 A2 A2 |"E7" [EGB]6 cd |"A" d c2 c c2 B2 | %20
+"A" [Ac]4 z2"D" Bc |"D" [Adf]6 d2 |"D" d3 c B3 A |"D" GF"A" ([A,CE]6 |"A" [A,CE]4) z2 CD | %25
+"A" [A,CE]6 E2 |"E7" [GBd]6 AG |"D" A3 A A3 A |"A" [A,CE]6 EE |"D" [DFA]6 GA | %30
+"A" [A,CE]6"E7" B,A, |"A" ([A,CEA]8 |"A" [B,CEA]4) z4 :| %33
+

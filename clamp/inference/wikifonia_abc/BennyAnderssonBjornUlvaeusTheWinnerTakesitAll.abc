@@ -1,0 +1,56 @@
+X:1
+T:The Winner Takes it All
+C:Benny Andersson & Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Gb
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 DE F>G |:"Gb" B,6 z2 | z4 B,C D>E |"Db/F" E2 D4 z2 | z2 z D DCB,A, |"Abm/Eb" C6 z2 | %6
+w: I don't wan- na|talk,|a- bout things we|gone through|_ though it's hur- ting|me,|
+w: |arms,|thin- king I be-|longed there,|I fi- gured it made|sense,|
+w: |kiss|like I used to|kiss you|* does it feel the|same,|
+ z2 z D DC B,>A, |"Db" C6 z2 | z4 DE F>G |"Gb" B,6 z2 | z4 B,CDE |"Db/F" E2 D4 z2 | z4 DCB,A, | %13
+w: _ now it's his- to-|ry.|I've played al my|cards|and that's what you've|done too|no- thing more to|
+w: _ buil- ding me a|fence,|buil- ding me a|home,|thin- king I'd be|strong there|but I was a|
+w: * when she calls your|name.|Some- where deep in-|side|you must know I|miss you,|but what can I|
+"Abm/Eb" C4 x4 | z4 DC B,>A, |"Db" C6 z2 | z2 z D Dc c>B ||"Gb" B6 z2 | z2 z B,"Bb7/D" B,AAG | %19
+w: say,|no more ace to|play.|The win- ner takes it|all,|the lo- ser stan- ding|
+w: fool,|play- ing by the|rules.|The gods may throw a|dice,|their minds as cold as|
+w: say,|rules must be o-|beyed|The jud- ges will de-|cide|the likes of me ab-|
+"Ebm" G6 z2 | z2 z E"Eb7/G" Eddc |"Abm" c8- | c2 c2- cBAB |"Db" ((c8 |1 c2)) z2 DEFG :|2 %25
+w: small|be- side the vic- to-|ry,|_ that's her des- ti- ny||* I was in your|
+w: ice|and some- one way down|here|_ _ lo- ses some- one|dear.||
+w: bide|spec- ta- tors of the|show|* * al- ways stay- ing|low.||
+ c2 z D2 Dc c/B/ ||"Gb" B4 z2 z2 | z2 z B,"B7/D" B,AAG |"Ebm" G6 z2 | z2 z E"E7/G" Eddc | %30
+w: * The win- ner takes it|all,|the lo- ser have to|fall,|it's sim- ple and its|
+w: |||||
+w: |||||
+"Abm" (c8 | c2) z c cBAB |"Db" (c8 | c2) z D DE F>G :|3 c2 z D2 Dc c/B/ |"Gb" B4 z2 z2 || %36
+w: plain,|_ _ why should I com-|plain|_ But tell me does she|* The game is on a-|gain|
+w: ||||||
+w: ||||||
+ z2 z B,"Bb7/D" B,AAG |"Ebm" G6 z2 | z2 z E"Eb7/G" Eddc |"Abm" (c8 | c2) z c cBAB |"Db" (c8 | %42
+w: a lo- ver or a|friend,|a big thing or a|small|* the win- ner takes it|all.|
+w: ||||||
+w: ||||||
+ c2) z2 z4 | z4 DEFG |"Gb" B,6 z2 | z4 B,C D>E |"Db/F" E2 D4 z2 | z4 DCB,A, |"Abm/Eb" C6 z2 | %49
+w: _|I dont wan- na|talk,|if it makes you|feel sad,|and I un- der|stand,|
+w: |||||||
+w: |||||||
+ z2 z D DC B,>A, |"Db" C6 z2 | z4 DE F>G |"Gb" B,6 z2 | z4 B,CDE |"Db/F" E2 D4 z2 | z4 DCB,A, | %56
+w: you've come to shake my|hand.|I a- po- lo|gise|if it makes you|feel bad,|see- ing me so|
+w: |||||||
+w: |||||||
+"Abm/Eb" C4 z4 | z4 DC B,>A, |"Db" C6 z2 | z2 z D Dddc |"Gb" c8- |"Bb7/D" c8- |"Ebm" c6 z2 | %63
+w: tense,|no self- con- fi-|dence|The win- ner takes it|all|_||
+w: |||||||
+w: |||||||
+ z2 z D"Eb7/G" Dddc |"Abm" c8- | c8- |"Db" c8 |] %67
+w: The win- ner takes it|all|_||
+w: ||||
+w: ||||
+

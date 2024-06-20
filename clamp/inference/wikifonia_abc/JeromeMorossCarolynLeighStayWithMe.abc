@@ -1,0 +1,31 @@
+X:1
+T:Stay With Me
+T:Stay With Me
+T:from "The Cardinal"
+T:Jerome Moross
+T:Carolyn Leigh
+C:Jerome Moross
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+ z2"Bb9" G F ||"^Ebma7" G2 G F |"Cm7" G B G E |"^Dbma7" F2 F E |"Bb9" F2 G F |"^Ebma7" G2 G F | %6
+w: Should my|heart not be|hum- ble, should my|eyes fail to|see, should my|feet some- times|
+"Cm7" G c G E |"^Dbma7" F2 F G |"Fm7" A2"Bb9" B A |"Bbm7" B2 B"Dbm6" A |"Bbm7" B _d"Dbm6" B G | %11
+w: stum- ble on the|way, Stay with|Me. Like the|lamb that in|spring- time wan- ders|
+"Fm7" A2 A B | c2"Bb9" B A |"Gm" B d"Cm" B G |"Fm7" E2"Db" F"Bb" D |"Ab7" E2"F7" E"Bb7" C | %16
+w: far from the|fold, comes the|dark- ness and the|frost, I get|lost, I grow|
+"Eb" E z"Gm" G"D" =A |"Gm" B2 G =A |"Bbm6" B _d"C7" c B |"Fm" A2 F G | A2 A B |"Abm" _c2 A B | %22
+w: cold. I grow|old, I grow|wea- ry and I|know I have|sinned and I|go seek- ing|
+"Db7" _c e _d _c |"^Gbma7" B2 _G A |"Bb9" B2 G F |"^Ebma7" G2 G F |"Cm7" G B G E |"^Dbma7" F2 F E | %28
+w: shel- ter and I|cry in the|wind. Though I|grope and I|blun- der and I'm|weak and I'm|
+"Bb9" F2 G F |"^Ebma7" G2 G F |"Cm7" G c G E |"^Dbma7" F2 F G |"Fm7" A2"Bb9" B A |"Bbm7" B2 B A | %34
+w: wrong, though the|road buck- les|un- der where I|walk, walk a-|long. Till I|find to my|
+"Eb9" B _d B G |"^Abma7" A2 A B |"Fm7" c2"Bb9" B A |"Gm" B d"Cm" B G |"Fm7" E2"Db" F"Bb" D | %39
+w: won- der ev- ry|path leads to|Thee, all that|I can do is|say, Stay With|
+"Ab9" E2"Bb9" E C |"^Ebma7" E4 |] %41
+w: Me, Stay With|Me.|
+

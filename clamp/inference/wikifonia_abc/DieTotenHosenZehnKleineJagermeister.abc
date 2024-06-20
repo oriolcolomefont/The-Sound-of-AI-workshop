@@ -1,0 +1,21 @@
+X:1
+T:Zehn Kleine Jägermeister
+C:Die Toten Hosen
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"G" G2 G>G | GD DD | GG AA | B2 z B |"C" cc AA |"G" BB GG |"D" AA ^FF |"G" G2 z2 :| %8
+w: Zehn klei- ne|Jä- ger- meist- er|ra- uchten ein- en|Joint, Den|ein- en hat es|um- ge- haun, da|wa- ren's nur noch|neun,|
+"G""^Refrain" (3:2:2d2 e- ed | e2 d2 | d e2 d |"D" d A3 | c d2 c | d d2 c | d d2 c |"G" B G3 | %16
+w: Ei- ner * für|al- le,|al- le für|ei- nen,|Wenn ei- ner|fort ist, wer|wird denn gleich|wei- nen,|
+ d e2 d | e2 d2 | g g2 ^f |"C" e2 z2 | c d2 c | d2 c2 |"D" B B2 A |"G" G2 z2 |] %24
+w: Ein- mal trifft|je- den,|är- ger dich|nicht,|So geht's im|Le- ben,|du o- der|ich.|
+"C""^Bridge" g2 g2- | g2 e2 |"G" d2 ed- | d2 g2 |"D" a2 a2 | g2 ^f>g- |"G" g2 z2 | e2 ^f2 | %32
+w: Ein- mal|* muss|je- der gehn,|* und|wenn dein|Herz zer- bricht,||Da- von|
+"C" g2 gg- | g2 e2 |"G" d2 ed- | d2 g2 |"D" a3 g- |"G" g2 ^f2 | g2 z2 |] %39
+w: wird die Welt|* nicht|un- ter- gehn,|* Mensch|är- ger|* dich|nicht!|
+

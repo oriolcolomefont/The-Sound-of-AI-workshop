@@ -1,0 +1,44 @@
+X:1
+T:The Girl from Ipanema
+T:The Boy From Ipanema
+T:Antonio Carlos Jobim
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI control 7 95
+%%MIDI control 10 64
+V:1
+|:"Dmaj9""^A" E3 C C2 B,"Amaj9"E- | E2 CC- CCB,"Dmaj9"E- | E2 C2 C2 B,"Amaj9"E- | %3
+w: Tall and tan and young|* and hand- * some, the boy|* from I- pa- ne-|
+w: When he walks he's like|* a sam- * ba that swings|* so cool and sways|
+ EECC- CCB,"G9"D- | D B,2 B,- B,B,A,"A7b5"C- | C A,2 A,- A,A, G,2 |1"Dmaj7" z2 A,6- | A,8 :|2 %8
+w: * ma goes walk- * ing and when|* he pass- * es, each one|* he pass- * es goes|"ah!"||
+w: * * so gen- * tle, that when|* he pass- * es, each one|* he pass- * es goes|||
+"Dmaj7" z2 A,6- || A,8 ||"Ebmaj7""^B" D8- | (3D2 _E2 D2"Dm7" (3=C2 D2 C2 | %12
+w: "ah!"||Oh,|* but I watch him so|
+w: ||||
+"Cm7" _B,3"Ebm6" =C- C4- | C6 z"Fmaj7" E- | E8- | (3E2 =F2 E2"Em7" (3D2 E2 D2 | %16
+w: sad- ly. *|* How||* can I tell him I|
+w: ||||
+"Dm7" =C3"Fm6" D- D4- | D6 z"Gmaj7" F- | F8- | (3F2 G2 F2"F#m7" (3E2 F2 E2 |"Em7" D3"Gm6" E- E4- | %21
+w: love him? *|* Yes,||* I would give my heart|glad- ly *|
+w: |||||
+ E4 (3z2 F2 G2 |"Bm7" (3A2 A,2 B,2"F#m7" (3C2 D2 E2 |"Bb7" ^E6"D7" F2 | %24
+w: * but each|day when he walks to the|sea, he|
+w: |||
+"Am7" (3G2 G,2 A,2"Em7" (3B,2 C2 D2 |"A7b5" ^D8 ||"Dmaj9""^C" E3 C C2 B,"Amaj9"E- | %27
+w: looks straight a- head not at|me.|Tall and tan and young|
+w: |||
+ E2 CC- CCB,"Dmaj9"E- | E2 C2 C2 B,"Amaj9"E- | EECC- CCB,"Gmaj9"F- | F3 D DDB,"Amaj9"A- | %31
+w: * and hand- * some, the boy|* from I- pa- ne-|* ma goes walk- * ing and when|* he pass- es I smile,|
+w: ||||
+ A3 C (3C2 C2 B,2 |"Dmaj7" C8 |"Amaj9" z3 C (3C2 C2 B,2 |"Dmaj7" C8 |"Amaj9" z3 C (3C2 C2 B,2 | %36
+w: * but he does- n't|see|he just does- n't|see|No, he does- n't|
+w: |||||
+"Dmaj7" C8- | C6 z2 |] %38
+w: see||
+w: ||
+

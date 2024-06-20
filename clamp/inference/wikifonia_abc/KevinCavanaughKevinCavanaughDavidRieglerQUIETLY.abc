@@ -1,0 +1,66 @@
+X:1
+T:QUIETLY
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"Ebmaj7" d2 BG d2 BG |"Ab6/Bb" f2 cA f2 cA |"Ebmaj7" d2 BG d2 BG | %3
+w: |||
+w: |||
+ !tenuto![Cc]>!tenuto![Dd]- [Dd]!tenuto![Ee] !tenuto![Ff]>!tenuto![Gg]- [Gg]!tenuto![Aa]/!tenuto![=A=a]/ |: %4
+w: |
+w: |
+"Ebmaj7" B-[G,B-][G,B-][B,B] B,2 B,B, |"Ab6/Bb" C>E- EF- F4- | F2"Gm7" FE FFFE | %7
+w: 1. _ 1.Driv- ing home in the|dark of _ night _|_ win dows down the eve- 'ning|
+w: 2. (i) slip the key _ in|side the _ door _|_ stock ing feet _ pad a|
+"Cm9" FG-GE- E2 DE |"Cbmaj9" B4 z E_GB- |"Fbmaj9" BA-A_G A3 B |"Ebmaj9" F/-E/- F4- F2 z | %11
+w: air feels _ right _ Four teen|miles and I'll be|_ home _ to you (to|You) _ _ _|
+w: cross the _ floor _ you're a|wake you're wait ing|_ up _ for me (for|me) _ _ _|
+"Ab6/Bb" f2 cA f2 cA |"Ebmaj9" d2 BG d2 BG :|"Ab6/Bb" f2 cA c2 FE |"Ebmaj9" DB,B,B,- B,4 | %15
+w: _ _ _ _ _ _||* * * * and I|en- ter the room _|
+w: _ _ _ _ _ _||||
+"Ab6/Bb" CE F6 | %16
+w: QUI- ET LY|
+w: |
+ !tenuto![Cc]>!tenuto![Dd]- [Dd]!tenuto![Ee] !tenuto![Ff]>!tenuto![Gg]- [Gg]!tenuto![Ee] | %17
+w: _ _ _ _ _ _ _ A|
+w: |
+"Abmaj9" G6 z/ FE/ |"Db7b5b9" FG-GE- E3 E |"Gm7" G6 z D/E/ | B>A- AG F>E- EF |"Fbmaj9" _G6 E_F | %22
+w: breeze blows the|cur tains _ back _ I|need and I|hold you _ at last. Night- * in|gale brings a|
+w: BRIDGE: * *|||||
+"Cbm/B" _G_FE_D- D4 | _G_FE_D- D4 |"Fm7" CB,A,"Gm7"B,- B,3 E |"Abm6" F_GF"Cb9/Db"E- E4- | E6 DE | %27
+w: song just for you _|_ _ _ _ _|We catch the spark _ of|light in the blue _|_ in the|
+w: |||||
+"Gm7" B8- |"Abmaj9" B4 z4 |"Ebmaj7" D2 B,G, D2 B,G, |"Ab6/Bb" F2 CA, F2 CA, | %31
+w: blue|_|||
+w: ||||
+"Ebmaj7" D2 B,G, D2 B,G, | %32
+w: |
+w: |
+ !tenuto![Cc]>!tenuto![Dd]- [Dd]!tenuto![Ee] !tenuto![Ff]>!tenuto![Gg]- [Gg]!tenuto![Aa]/!tenuto![=A=a]/ | %33
+w: |
+w: |
+ B-"Ebmaj7"[G,B-][G,B-][B,B] B,2 B,B, |"Ab6/Bb" C>E EF- F4- |"Gm7" FF F/F/E FEFE | %36
+w: 3. how can we sleep when the|night's so a- live *|* In a room down- stairs the eve' ning|
+w: |||
+"Cm7" FG-GE- E2 DE |"Cbmaj9" B4- BE-E_G- |"Fbmaj9" GBA_G A3 B |"Ebmaj7" F/-E/-F- F6- | %40
+w: clock strikes _ five _ Sleep must|come _ but _ it|_ won't come too soon (too|soon) _ _ _|
+w: ||||
+"Ab6/Bb" F2 z2 F2 E2 |:"Ebmaj7" DB,CB,- B,4 |"Ab6/Bb" CE F6- |"Ebmaj7" [DF]2 B,G, D2 B,G, | %44
+w: _ and you|love me a- gain *|QUI- * ET-|LY * * * * *|
+w: ||||
+"Ab6/Bb" F2 CA, F2 E2 :|"Ebmaj7" DB,CB,- B,4 |"Ab6/Bb" CE F6- | F4 z4 | %48
+w: * * * and you|love me a- gain *|QUI- * ET-|ly|
+w: ||||
+ !tenuto![Cc]>!tenuto![Dd]- [Dd]!tenuto![Ee] !tenuto![Ff]>!tenuto![Gg]- [Gg]!tenuto![Aa]/!tenuto![=A=a]/ | %49
+w: |
+w: |
+ !fermata![Bb]4 z4 |] %50
+w: |
+w: |
+

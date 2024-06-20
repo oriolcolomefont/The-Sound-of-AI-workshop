@@ -1,0 +1,34 @@
+X:1
+T:Songbird
+T:Songbird
+C:Christine McVie
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+S"Em/G" z4 z"D" (A- A/G/E/)(G/- |"C9" G<E- E6) | z2 z G- G3 (E |"G" B,)B, (D/B,)B,/- B,4 | %4
+w: For _ _ _ you|_ _ _|there'll * be|* no cry- * ing. _|
+ z4"Am7" z (A-"G/B" A/G/E/)G/- |"C9" (G c3- c2- c/BA/ | B/A/G- G4) z2 |"G" z D D2- D>G(AB- | %8
+w: For _ _ _ you|_ _ _ _ _ _||the sun _ will be shin-|
+ (3B/A/G/- G/)G/-"Am7" G4"G/B" AB |"Am" c3 B (3(A/B/A/ G) A2 |"Em" E G3"D/E" z2 z/ D/(B- | %11
+w: * * * * ing _ cos I|feel that when _ _ _ I'm|with you it's al-|
+"C9" B/A/G/)G/- G6- | G2 z2 z D2 D- |"G" D(C/B,/) (C<B,- B,4- | B,4) z DDD- |"D" D(F- F/G/A A3) F | %16
+w: * * * right. _|_ I know|_ it's * right. _ _|_ And the song|* birds _ _ _ _ keep|
+"C" (3GFE D4 z G- |"Em" G/AB/- B6 | B4- BB"Bm/D"B(B |"C" A)GG(G/F/-) F/FE/-E(E/D/) | %20
+w: sing- ing like they know|_ the score. _|_ _ And I love|* you, I love _ _ you, I _ love _|
+"D7" D4 z D-DD/G/!dacoda! ||"G" A/(BA/- A<G-"C" G4) |"G""^Guitar Solo" z2 z"Am7" D, E,G,"G/B"A,G, | %23
+w: you like _ nev er|be fore. _ _ _ _||
+"C9" G,6 G,E, | C4- CCB,A, |"G" A,<B,-B, (3A,/B,/A,/ G,4- | G,3"Am7" D, E,G,"G/B"A,G, | %27
+w: ||||
+"C9" G,6 G,E, | C4- C B,2 D |"G" D3 (3C/D/C/ B,3 (3A,/B,/A,/ | G,3 [GB]/[GB]/ cB- B/A/G | %31
+w: ||||
+"D" A3 (3G/A/G/ F D2 E/F/ |"C" GFED C2 CD |"Em" E3 E/E/ F3 F | [GB]2 [GB]2 [FA]2"Bm/D" [EG]2 | %35
+w: ||||
+"C" [CE]4 [CE]A A<G |"D7" F4- F B2 A/G/ |"G""C" G8!D.S.! ||2O"G" A/(BA/ A<G-"Am7""G/B" G4) || %39
+w: |||be- fore _ _ _ _|
+"C" z B- B2 G E2 D |"G" (D/C/ B,3-"G7" B,4) |"C" z B3 G E2 D |"G" (D/C/ B,3) z4 |] %43
+w: Like _ nev er be|fore _ _ _|Like nev er be-|fore. * *|
+

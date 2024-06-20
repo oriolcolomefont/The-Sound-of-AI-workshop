@@ -1,0 +1,28 @@
+X:1
+T:I'm Glad There Is You
+T:I'm Glad There Is You
+C:Jimmy Dorsey
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Fmaj7" E E2 E- E4- | E2 E2 A>AE>E |"Fm7" _EE- E6- | E2 _E2 _A>AE>E |"Gm7" DD- D6- | %5
+w: In this world _|_ of or- di- na- ry|peo- ple _|_ ex- tr'or- di- na- ry|peo- ple _|
+ D2 D2"C7" (3E2 F2 G2 |"Fmaj7""D7" c8- |"Gm7""C7" c8 |"Fmaj7" c c2 c- c4- | c2 c2"Abdim7" e>ed>d | %10
+w: _ I'm glad there is|you.|_|In this world _|_ of ov- er- ra- ted|
+"Gm7" BB- B6- |"C7" B2 B2"C+7" d>dc>c |"Fmaj7" AA- A6- |"D7" A2 A2 cBAG- |"Gm7" G8- | %15
+w: pleas- ures, _|_ of un- der- rat- ed|treas- ures, _|_ I'm glad there is you.|_|
+"C7" G2 A2"Cm7" B2"F7" c2 |"Bbmaj7" c4- c>FG>A | c2 B2"Eb9" F2 G2 |"Fmaj7" A3 A- A4- | %19
+w: * I'll live to|love, _ I'll love to|live with you be-|side me. _|
+ A2 E2 F2"A7/E" G2 |"Dm7" A4-"G7" A>EF>G |"Dm7" A2 G2"G7" E2 F2 |"Gm7" D8 |"C7""C7b9" E8 | %24
+w: _ This role so|new, _ I'll mud- dle|thru' with you to|guide|me.|
+"Fmaj7" E E2 E- E4- | E2 E2 A>AE>E |"Fm7" _E E2 E- E4 | E2 _E2 _A>AE>E |"Gm7" D D2 D- D4- | %29
+w: In this world _|_ where man- y man- y|play at love, _|_ and hard- ly an- y|stay in love, *|
+ D2 D2"C7" (3E2 F2 G2 |"Cm7" c8- |"F7" c6 c>^c |"Bb6" d f3-"F/A" f4- |"Gm7" f2 F2"C7" AA"C7b9" A2 | %34
+w: * I'm glad there is|you.|_ More than|ev- er _|_ I'm glad there is|
+"F""Eb6""E6" F8- |"F6" F6 z2 |] %36
+w: you.|_|
+

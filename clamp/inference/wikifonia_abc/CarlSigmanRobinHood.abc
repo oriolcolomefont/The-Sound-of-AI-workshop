@@ -1,0 +1,37 @@
+X:1
+T:Robin Hood
+T:Robin Hood
+T:Carl Sigman
+C:Carl Sigman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" C C"^Refrain" C2 | C C C2 | E E"G7" E3/2 D/ |"C" C3 z |"G7" D D D2 | D D D2 | %6
+w: Rob- in Hood|Rob- in- Hood|Rid- ing thru the|glen|Rob- in Hood|Rob- in Hood|
+w: ||||||
+w: ||||||
+"Dm7" F F F3/2 E/ |"G7" D3 z |"C" E2 E C |"Em" G4 |"F" A2 A F |"Am" c3 z |"G7" B A G2- | G4 | %14
+w: with his band of|men|Feared by the|bad|loved by the|good|Rob- in Hood||
+w: ||||||||
+w: ||||||||
+"Dm7" A F D2- |"G7" D4 |"C" E D C2- | C4- | C4- |1"^2." C2 z2 ||3"G7" C3 z || z2 z"^Verse" E | %22
+w: Rob- in Hood||Rob- in- Hood|||||He|
+w: |||||||He|
+w: |||||||With|
+"C" G3/2 A/ G F | E C E F | G A G F | E2 z E | G3/2 A/ G F | E C E G |"G7" D4 | z2 z E | %30
+w: called the great est|arch ers to a|tav ern on the|green they|vowed to help the|peo ple of the|king|they|
+w: came to Sher- wood|For- est with a|feath- er in his|cap A|fight- er nev- er|look- ing for a|fight|His|
+w: Fri- ar Tuck and|Lit- tle John they|had a ro- guish|look they|did the deeds that|oth- ers would- nt|dare|re-|
+"C" G3/2 A/ G F | E C E G |"F" c d c B | A2 z A |"C" G2 G2 | A/A/ G"G7" E D |"C" C4- | %37
+w: hand- led all the|trou- ble on the|Eng- lish coun- try|scene and|still found|plen- ty of time to|sing|
+w: bow was al- ways|rea- dy and he|kept his ar- rows|sharp He|used them|fight- ing for what was|right|
+w: cap- tured all the|mon- ey that the|e- vil sher- iff|took and|re- scued|man- y a la- dy|fair.|
+"^D.S.alfine" C3 z |] %38
+w: |
+w: |
+w: |
+

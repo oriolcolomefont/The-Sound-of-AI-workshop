@@ -1,0 +1,55 @@
+X:1
+T:Big Girls Don't Cry
+C:Four Seasons
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 65
+V:1
+"Ab" z4"Fm" |"Bbm" z4"Eb7" |"Ab" z4"Fm" |"Bbm" z4"Eb7" |"Ab" e2"Cm/Eb" e2 |"Db" d2"Eb7" e2 | %6
+w: ||||Big girls|don't cry,|
+w: ||||||
+"Ab" e2"Cm/Eb" e2 |"Db" d2"Eb7" e2 |:"Ab" E A"F7" F2- |"Bbm7" F2"Eb7" c e |"Ab" f e"F7" c z | %11
+w: big girls|don't cry|Big * girl|_ don't _|cry _ _|
+w: |||||
+"Bbm7" d/ dB/-"Eb7" B2 |"Ab" E A"F7" F2- |"Bbm7" F2"Eb7" c/ E3/2 |"Ab" F/A/- A2 z | %15
+w: they don't cry. _|Big _ Girl|_ Don't _|cry _ _|
+w: ||||
+"Bbm7" D/ DB,/-"Eb7" B,2 |"Ab" E A"F7" F2- |"Bbm7" F2"Eb7" c e |"Ab" f e"F7" c z | %19
+w: they don't cry?) _|My * girl|_ said good-|bye, _ _|
+w: |Ba- _ by|_ I was|cruel, _ _|
+"Bbm7" d/ dB/-"Eb7" B2 |"Ab" E A"F7" F2- |"Bbm7" F2"Eb7" c/ E3/2 |"Ab" F/A/- A3 | %23
+w: my, oh my. _|my _ girl|_ did- n't|cry _ _|
+w: I was cruel. _|Ba- _ by,|_ I'm a|fool * *|
+"Ab" C z E"Ab+" =E |"F7" F4 | F/F/=A/c/ F =E |"Bb7" z F/=E/ F>G | A G/F/ F =E |"Eb7" E4 | %29
+w: why Sil- ly|boy.)|had to break up (Sil- ly|Thought that she would|call my bluff. (Sil- ly|boy.|
+w: fool.) (Sil- y|boy.)|ma _ ma said (Sil- ly|Shame on you, you're|cry'n' in bed (Sil- ly|girl.)|
+ E G/B/- B2 |"Ab" e2"Cm/Eb" e2 |"Db" d2"Eb7" e2 |"Ab" E A"F7" F2- |"Bbm7" F2"Eb7" c e | %34
+w: my sur- prise _|"Big girls|don't cry"|Big * girls|_ don't _|
+w: told a lie _|Big girls|do cry|_ _ _||
+"Ab" f e"F7" c z |"Bbm7" d/ dB/-"Eb7" B2 |"Ab" E A"F7" F2- |1"Bbm7" F2"Eb7" c/ E3/2 | %38
+w: cry _ _|they don't cry _|Big _ girls|_ don't cry|
+w: ||||
+ F/A/-"Ab" A2 z |"Bbm7" D/ DB,/-"Eb7" B,2 :|2 F/"Ab"A/- A2 z ||"Bbm7" D/ DB,/-"Eb7" B,2 | %42
+w: _ _ _|they don't cry) _|cry * *|al- i- bi) _|
+w: ||||
+"Ab" e2"Cm/Eb" e2 |"Db" d2"Eb7" e2 |"Ab" e2"Cm/Eb" e2 |"Db" d2"Eb7" !fermata!e2 |] %46
+w: Big girls|don't cry,|big girls|don't cry.|
+w: ||||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | z C"F7" C z | x4 | x4 | %17
+w: ||||||||||||||(Who said|||
+w: |||||||||||||||||
+ x4 | x4 | x4 | x4 | x4 | z C"Db" D D | x4 | z F/=E/ F>E | x4 | F4 | x4 | z E/=D/ E>D | x4 | x4 | %31
+w: |||||I won- der||Told my girl we||boy.)||Then she said to|||
+w: |||||(I'm such a||Shame on you your||||Shame on you, you|||
+ x4 | x4 | x4 | x4 | x4 | x4 |1 x4 | z C"F7" C z | x4 :|2 z C"F7" C>C || x4 | x4 | x4 | x4 | x4 |] %46
+w: |||||||(Who said||that's just an||||||
+w: |||||||||||||||
+

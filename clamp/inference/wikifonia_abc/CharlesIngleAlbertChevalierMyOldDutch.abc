@@ -1,0 +1,45 @@
+X:1
+T:My Old Dutch
+T:Dear Old Dutch
+C:Charles Ingle
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 57
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"D" A2"F#m" FE"D" D3 F |"D" AA"A7"FE"D" EDFG | A2"A7" AA"D" A2 z B/c/ |"Bm" d^G"E7"cB"A7" c A2 A | %4
+w: 1.I've got a pal. A|reg'- lar out an out- er She's a|dear good old gal' I'll _|tell yer all a- bout 'er. It's|
+w: 2.I calls 'er Sal, 'Er|prop- per name is Sair- er An' yer|may find a gal As _|you'd con- sid- er fair- er She|
+w: 3.Sweet fine old gal, For|worlds I would- n't lose 'er, She's a|dear good old gal, An' _|that's what made me choose 'er. She's|
+w: 4.I sees yer Sal Yer|pret- ty rib- bons sport- in' Ma- ny|years now, old gal, Since _|them young days of court- in'. I|
+"D" DEFG"A7" FE A3/2 A/ |"D" AF"Em"ED E"E7"F"A" E z/ E/ |"F#7" FG F z/ E/"Bm" DC D z/ E/ | %7
+w: ma- ny years since we first met, 'Er|'air was then as black as jet, It's|Whit- er now, but she don't fret, Not|
+w: ain't an an- gel- she can start A-|jaw- in' till it makes yer smart, She's|just a wom- an bless 'er 'eart, is|
+w: stuck to me through thick 'an thin, When|luck was out, when luck was in, Ah!|what a wife to me she's been, An'|
+w: ain't a cow- ard still I trust When|we're to part as part we must, That|Death may come and tate me fust To|
+"A" C2"E7" B,2"A7" !fermata!E3 A |"D" D3 E FGAF |"Em7" E2"A7" F2"D" D2 FG |"Bm7" A2 Bc"E7" d2 B2 | %11
+w: my old gal. We've|been to- geth- er now for|for- ty years, An it|don't seem a day too|
+w: my old gal! _|_ _ _ _ _ _|||
+w: what a pal! _|_ _ _ _ _ _|||
+w: wait- my pal! _|_ _ _ _ _ _|||
+"A" c6 A2 |"Bm" d3 d"C#m" c^GAB |"F#m" A2"F#" _B2"Bm" =B2"B" FF |"Em" G2 AB"A7" F2 E2 | %15
+w: much, There|ain't a la- dy liv- in'|in the land As I'd|"swop" for my dear old|
+w: ||||
+w: ||||
+w: ||||
+"D""A7" A6 A2 |"Bm" d3 d"C#m" c^GAB |"F#m" A2"F#" _B2"Bm" =B2"B" FF |"Em" G2 AB"A7" F2 E2 | %19
+w: Dutch. There|ain't a la- dy liv- in'|in the land As I'd|"swop" for my dear old|
+w: ||||
+w: ||||
+w: ||||
+"D" D8 |] %20
+w: Dutch.|
+w: |
+w: |
+w: |
+

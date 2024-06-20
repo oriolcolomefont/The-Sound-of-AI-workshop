@@ -1,0 +1,39 @@
+X:1
+T:Don't Bring Lulu
+T:Don't Bring Lulu
+T:Billy Rose,Lew Brown,Ray Henderson
+C:Billy Rose, Lew Brown & Ray Henderson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z c |:"Bb" d d B c | d B2 B |"Eb" c B A G |"Bb" F4 |"Cm7" z/ F/G/F/ G F |"C7" B2 G2 | %7
+w: Your|pres- ence is re-|ques- ted, wrote|lit- tle John- ny|White,|But with this in- vi-|ta- tion|
+w: We|all went to the|par- ty, a|real high- toned af-|fair,|And then a- long came|Lu- lu|
+"Eb" z/ G/B/G/ B G |"F7" d2 c3/2 ^c/ |"Bb" d d B c | d B2 B |"Eb" c B A G |"F" F3 F | A F"C7" B G | %14
+w: There is a stip- u-|la- tion; When|you at- tend this|par- ty You'll|all be trea- ted|right But|there's a wild and|
+w: As wild as an- y|Zu- lu. She|star- ted in- to|Charle- ston and|how the boys did|stare But|when she did the|
+"F" A B c A |"C7" B c A G |"F" F2"F7" F2 ||"Bb""^Chorus" B/B/ B G F/F/ | B B G F | B2"C7" c2 | %20
+w: woo- ly gi- rl|You boys can't in-|vite. Now|you can bring Pearl, she's a|darn nice girl, But|don't bring|
+w: Hu- la hu- la|Then she got the|air. *||||
+"F7" A F z2 | c/c/ c A F/F/ | c c A F | c2 d2 |"Bb" d"Bb7" B3 |"Eb" c B B B |"Ebm" c B B2 | %27
+w: Lu- lu|You can bring Rose with the|turned up nose, But|don't bring|Lu- lu|Lu- lu al- ways|wants to do|
+w: |||||||
+"Bb" G F F F |"G7" G F F2 |"C7" =E C E G | c c c2 |"F7" c3/2 d/ c B | A F F2 |"Bb" B/B/ B G F | %34
+w: what we boys don't|want her to.|Ev- ery time she|starts a- round,|Lon- don bridge is|fall- ing down.|You can bring cake or|
+w: |||||||
+ B/B/ B G F | B2"C7" c2 |"F7" A F z2 | c/c/ c A F/F/ | c c A F/F/ | c =B c ^c |"D" d4 | %41
+w: fil- lets of steak, But|don't bring|Lu- lu|Lu- lu gets blue and she|goes cuc- koo Like the|clock up- on the|shelf,|
+w: |||||||
+"Eb" c c c B |"Edim" _d2 c3/2 B/ |"Bb/F" G G G F |"G7" A2 G2 |"Bb" B/B/ B G F |"C7" c c A G | %47
+w: She's the kind of|smart- ty who|breaks up ev- 'ry|par- ty;|Hul- la- ba- loo- loo,|don't bring Lu- lu.|
+w: ||||||
+"Bb/F" d d d"F7" c |"Bb" B3 z :| %49
+w: I'll bring her my-|self.|
+w: ||
+

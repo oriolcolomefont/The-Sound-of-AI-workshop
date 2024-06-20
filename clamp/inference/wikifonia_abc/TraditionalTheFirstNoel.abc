@@ -1,0 +1,33 @@
+X:1
+T:The First Noel
+T:The First Noel
+T:Traditional
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+ F/E/ |"D" D3/2 E/"Bm" F/G/ |"A" A2"Em" B/c/ |"D" d c"G" B |"D" A2"G" B/c/ |"D" d c"A7" B | %6
+w: The *|first * no- *|el the *|an- gel did|say was to|cer- tain poor|
+w: They *|look- * ed *|up and *|saw * a|star shin- ing|in * the|
+w: This *|star * drew *|nigh to *|the * north-|west O'er *|Beth- * le-|
+"D" A"G" B"A7" c |"D" d A"A7" G |"D" F2"A7" F/E/ |"D" D3/2 E/"Bm" F/G/ |"A" A2"Em" B/c/ | %11
+w: shep- herds in|fields as they|lay in *|fields * where *|they lay *|
+w: East * be-|yond * them|far. and *|to * the *|earth it *|
+w: hem * it|took * its|rest And *|there * it *|did both *|
+"D" d c"G" B |"D" A2"G" B/c/ |"D" d c"A7" B |"D" A"G" B"A7" c |"D" d A"A7" G |"D" F2"A7" F/E/ | %17
+w: keep- ing their|sheep On a|cold win- ter's|night * that|was * so|deep. No- *|
+w: gave * great|light And *|so it con-|tin- ued both|day * and|night. * *|
+w: stop * and|stay Right *|o'er * the|place * where|Je- * sus|lay. * *|
+"D" D3/2 E/"Bm" F/G/ |"F#m" A2"D" d/c/ |"G" B2 B |"D" A3 |"Bm" d c"G" B |"D" A B"A7" c | %23
+w: el * No- *|el No- *|el No-|el|Born is the|king * of|
+w: ||||||
+w: ||||||
+"D" d A"A7" G |"D" F2 F/E/ |] %25
+w: Is- * ra-|el (2).They *|
+w: |* (3).This *|
+w: ||
+

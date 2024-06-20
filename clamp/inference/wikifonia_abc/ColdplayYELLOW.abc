@@ -1,0 +1,32 @@
+X:1
+T:YELLOW
+C:Coldplay
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+ z8 | z8 | z8 | z8 |"G" z ABA B4 | z ABA B2 d2 |"D" A8 | z GAG A2 dG- |"C" D4 z4 | z EGE G2 E<D | %10
+w: ||||Look at the stars|look how they shine for|you|and ev 'ry thing you do|_|yeah, they were all YEL LOW|
+"G" z ABA B4 | z ABA B2 d2 |"D" A8 | z GAG A2 d2 |"C" G8 | z EGE G2 E<D | z8 |"G" z ABA B2 d"D"A | %18
+w: I came a long|I wrote a song for|you|and ev' ry thing you|do|And it was called YEL LOW||So then I took my turn|
+ z8 | z GAG A2 d"C"G | z8 | z EGE G2 E<D |"G" z2 z2 z2 z2 | z8 |"C" z2 G2 e3- d | %25
+w: |Oh, what a thing to've done||and it was all YEL LOW|||Your skin _|
+"Em" z GGd"D" dB B2 |"C" z2 G2 e3- d |"Em" z GGd"D" dB B2 |"C" z2 G2 e3- d |"Em" z GGd"D" dB B2- | %30
+w: Oh yeah your skin and bones|Turn IN _|to some thing beau ti ful|You know _|You know I love you so|
+"C" E8 | z GGd dB B2- |"D" D8 |"G" z ABA B2 z2 | z ABA B2 d2 |"D" A8 | z GAG A2 dG- |"C" G4 z4 | %38
+w: _|You know I love you so|_|I swam a cross|I jumped a cross for|you|Oh, what a thing to do|_|
+ z EGE G2 E<D |"G" z ABA B4 | z ABA B2 d2 |"D" A8 | z GAG A2 d2 |"C" G8 | z E G/z/E G2 E<D | %45
+w: Cos you were all YEL LOW|I drew a line|I drew a line for|you|Oh what a thing to|do|and it was all YEL LOW|
+"G" z2 z2 z2 z2 | z8 |"C" z2 G2 e3- d |"G" z GGd"D" dB B2 |"C" z2 G2 e3- d |"Em" z GGd"D" dB B2 | %51
+w: ||Your skin _|Oh yeah your skin and bones|Turn IN _|to some thing beau ti ful|
+"C" z2 G2 e3- d |"G" z GGd"D/F#" dB B2- |"C" E8 | z GGd dB B2- |"G" D8 | z8 |"D" z AAd dB B2 | %58
+w: D'you know _|for you I bleed my self|dry|For you I bleed my self|dry||For you I bleed my self|
+"C" G<E- E2 z4 | z GGd dB B2 |"G" G<D- D6 | z4 z2 DD | d3 B- B4 | z GAG AG- G2 |"D" d3 B- B4 | %65
+w: dry _ _|For you I bleed my self|dry _ _|cuz its|true _ _|Look how they shine for _|you _ _|
+"G" z BBA B4 | z A B/z/A/ z/ B2 d"D"A | z8 | z G A<G A2 EG- |"C" G8 |] %70
+w: Look at the stars|look how they shine for you||and ev' ry thing you do|_|
+

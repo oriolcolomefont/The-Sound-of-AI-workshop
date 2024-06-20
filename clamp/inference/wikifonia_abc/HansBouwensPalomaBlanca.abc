@@ -1,0 +1,44 @@
+X:1
+T:Paloma Blanca
+T:PALOMA BLANCA
+T:Hans Bouwens
+T:Hans Bouwens
+C:Hans Bouwens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" z E z E z E z E | g8- | g8- | g4 z eef |:"C" g2 e2"F" z c'-c'a |"C" g2 e2 z eef | %6
+w: ||||||
+w: ||||||
+ g2 e2"F" c'a-ag- |"C" g4 z eef | g2 e2"F" c'a-ag- |"C" g2 e2 z eef | g2 g2"G7" af-fe- |"C" e8- |1 %12
+w: ||||||
+w: ||||||
+ e4 z eef :|2"C" e4 z2"C7" e2 ||[K:F]"F" =Bc c2 Bc c2 | Bc c/=B/_B A2 AB |S"F" c2 A3"Bb" f2 d | %17
+w: |||* * * * * * When the|sun shines on the|
+w: |||||
+"F" c2 A3 z FA |"F" c2 A2"Bb" f d2 c- |"F" c2 z2 z2 FA |"F" c2 A2"Bb" z f2 d |"F" c2 A2 z2 FA | %22
+w: moun- tains and the|night is on * run|_ It's a|new day it's a|new way. and I|
+w: |||||
+"F" c2 c2"C7" B G2 F- |"F" F2 c2 =Bc c2 | =Bc c/B/_B A2 FA |:"F" c2 A2"Bb" z f2 d |"F" c2 A3 z AB | %27
+w: fly up to the sun|_ _ _ _ _|* * * * * * I can|feel the mor- ning|sun- light I can|
+w: |||had my share of|los- ing once they|
+ c2 A2"Bb" f d2 c |"F" c2 z2 z2 AB | c2 A2"Bb" f d2 c- |"F" c2 A2 z2 FA | c2 c2 B"C7" G2 F- | %32
+w: smell the new- born hay.|* I can|hear God's voic- es call-|* ing. from my|gold- en sky- light way|
+w: locked me on a chain.|* Yes they|tried to break my pow|* er oh I|still can feel the pain|
+"F" F2 c2 =Bc c2 | =Bc c/B/_B A4 | c2 cc c c2 d- |"Bb" dd- d6- | d8 | f2 ff fedc- |"F" c8 | %39
+w: _ _ _ _ _||Oh, la Pa- lo- ma blan-|* ca _|_|I'm just a bird in the sky.|_|
+w: _ _ _ _ _|||||||
+ c2 cc c c2 d- |"Bb" dd- d6- | d8 | f2 ff fedc- |"F" c4 cBAG- |"C7" G2 z G BAGF- | %45
+w: Oh la Pa- lo- ma blan-|* ca. _|_|O- ver the moun- tains I fly|_ no one can take|_ my free- dom a way|
+w: ||||||
+"F" F6 z2!fine! ||1 z4 z F2 A :|2"Bb" f2 ff fedc- ||"F" c4 cBAG- |"C7" G2 z G BAGF- |"F" F6 z2 | %51
+w: _|Once I||* No one can take|* my free- dom a- way||
+w: ||||||
+ z F z F z FAB!D.S.! |] %52
+w: * * * When the|
+w: |
+

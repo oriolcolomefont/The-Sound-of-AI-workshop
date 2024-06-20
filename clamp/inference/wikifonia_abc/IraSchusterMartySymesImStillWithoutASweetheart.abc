@@ -1,0 +1,31 @@
+X:1
+T:I'm Still Without A Sweetheart
+T:I'm Still Without A Sweetheart 
+T:Ira Schuster 
+T:Marty Symes
+C:Ira Schuster
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ _e |:"E7" e3 d | c3 B |"A7" E A3 | z2 z A/B/ |"D7" d3 c | B3 A |"G" D4 |"G7" z4 |"C" E2 _E =E | %10
+w: I'M|STILL WITH-|OUT A|SWEET- HEART|'cuz I'm|still in|love with|you.||You're in my|
+w: ||||||||||
+"Cm" c4 |"G" D2 ^C D |"E7" B4 |"A7" ^c3 B | A G _E =E |"D7" A4 | z2 z _e |"E7" e3 d | c3 B | %19
+w: heart|ne- ver to|part,|though you|love some- bo- dy|new.|I|hope that|you'll be|
+w: |||||||||
+"A7" E A2 z | z2 z B |"D7" d3 c | B2 _B2 |"B" B4 | z2 z B |"C" A3 A |"C#dim" f3 e |"G" d e2 f | %28
+w: ha- ppy|al-|though it|makes me|blue.|I'M|STILL WITH-|OUT A|SWEET- HEART be-|
+w: |||||||||
+"E7" e3 B |"A7" A3 B |1"D7" d2 B2 ||"G""G#dim" G2 z2 |"Am" z2"D7" z _e :|2"D7" d2 e2 ||"G" g4- | %35
+w: cause I'm|still in|love with|you.||love with|you.|
+w: ||||I'M|||
+ g3 z |] %36
+w: |
+w: |
+

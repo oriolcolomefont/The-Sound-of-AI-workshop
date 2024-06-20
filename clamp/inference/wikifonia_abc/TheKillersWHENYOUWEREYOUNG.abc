@@ -1,0 +1,51 @@
+X:1
+T:WHEN YOU WERE YOUNG
+C:The Killers
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"E" z d2 e edcB |"F#" F2"G#m" c2 d4- |"B" d2 dd d2 B2 |"E" c c2 d cBGF | z Eed ed c2- | %5
+w: You sit there in _ your|_ heart ache|_ Wait ing on some|beau ti ful boy _ to _|to save you from your _|
+w: Can we climb this moun tain?|I don't know|_ High er now than|ev er be fore _ I _|know we can make it if|
+"F#" c<F"G#m" c2 d4 |"B" z ddd f B2 F |"E" F F2 F F F2 e |"E" eeee e2 d2 | %9
+w: _ _ Old Ways|You play for give ness "Watch|It Now Here He Comes!" He|does n't look a thing like|
+w: we take it slow|Let's take it ea sy Ea|sy Now Watch It GO! We're|burn ing down the high way|
+"F#""^2." c3 d-"G#m" d2 cB |"B" z ccc cB B2 |"E""_1." z ccd cBBB- | B6 B2 |"F#" d3 B-"G#m" B4 | %14
+w: Jes us _ but he|talks like a gen tle man|Like you im ag ined WHEN YOU|_ WERE|YOUNG _ _|
+w: sky line _ on the|back of a nur ri cane|that start ed turn ing WHEN YOU|_ WERE|YOUNG _ _|
+"B" z2 z2 z2 z2 |"E" z2 z2 z2 z2 :|"E""^2." z4 z2 BB- | B6 B2 |"F#" f2- f>d-"G#m" dc B2- |"B" B8 | %20
+w: ||WHEN YOU|_ WERE|YOUNG _ _ _ _ _|_|
+w: ||||||
+"E" z2 z2 z2 fg- |"E" gfzf f2 ff- |"F#" f2 d2"G#m" d2 ed- |"B" d d2 d d2 BG |"E" G2 z2 z2 BB- | %25
+w: And some|_ times you close your eyes|_ and see the place|_ where you used to live|_ WHEN YOU|
+w: |||||
+"E" B2 z2"F#" z ^A2 B- |"E" G4 z4 |"F#" dddd"G#m" dddd |"B" dddd FFGG- |"E" GGGG GGGG | %30
+w: _ WERE YOUNG|_||||
+w: |||||
+"E" GBeg- g f2- f |"F#" F^A c2"G#m" d2 B2 |"E" eee"D#"d dd"C#"cc | c"B"BBB B"A#"^A"G#" G2 | %34
+w: ||||
+w: ||||
+"F#" F8- | F4 z ddd |"C#m" e e2 e- (3:2:2e2 e d>e- | e d2 ^A A2 z e |"E" e e2 e e2 d2 | %39
+w: |* They say the|dev il's wat _ er, it ain't|_ so sweet _ You|don't have to drink right|
+w: |||||
+"G#m" d4 z4 |"D#m" z ^AAA A2 dd- |"G#m" d8 |"F#" z2 BB B>G- GF- | F2 z2 cd c2- | c3 d c B3 | %45
+w: now.|But you can dip your feet|_|Ev' ry once in _ a|_ lit tle while|_ _ _ _|
+w: ||||||
+ EEEE EEEE | FFFG GGGG :|"F#" d3 B-"G#" B2 z2 |"B" z ccc cB B2 |"E" z ccd cBB[G-B] | G2 z2 z2 B2 | %51
+w: |||Talks like a gen tle man|Like you im ag ined WHEN YOU|_ WERE|
+w: ||||||
+"F#" f3 d-"G#" d2 cB- |"B" B2 z2 z4 |"B" z2 z2 z eee | eeee e2 d2 |"F#" c2 c"G#m" d3 z2 | %56
+w: YOUNG _ _ _ _|_|I said, he|does n't look a thing like|Jes _ us.|
+w: |||||
+"B" z4 z4 |"E" z4 z2 z e |"E" eeee e2 d2 |"F#" f2- fd-"G#m" (3:2:2d c2 B2 |"B" z2 z2 z2 z2 | %61
+w: |HE|does n't look a thing like|Jes _ us _ _ _||
+w: |||||
+"E" z2 d d2 c cc |"E" [ce][Be][Be]"D#"[Bd] dd"C#"cc | c"B"BBB B"A#"^A"G#" G2 |"F#" F8 |] %65
+w: But more than you'll ev|er KNOW _ _ _ _ _ _|_ _ _ _ _ _ _||
+w: ||||
+

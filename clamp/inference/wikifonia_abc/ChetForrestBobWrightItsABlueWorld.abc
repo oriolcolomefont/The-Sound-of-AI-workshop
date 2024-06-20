@@ -1,0 +1,26 @@
+X:1
+T:It's A Blue World
+T:It's A Blue World
+C:Chet Forrest
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 ^C2 D2 |:"Gm9" A4 A4- | A4"C+7" _A4 |"Fmaj7" G4 G4- | G4 E2 F2 |"Cm9" d4 d4- | d4"F+7" _d4 | %7
+w: It's a|blue world|* with-|out you.|* It's a|blue world|* a-|
+"Bbmaj7" c8- | c4- c c3 | c3 B c3 B |"Bbm9" c3 B"C7b9" _d3 c |"Fmaj7" A4 A4- |"F7" A6 A2 | %13
+w: lone.|* * My|days and nights that|once were filled with|hea- ven,|* with|
+"Bbm9" _A3 G A3 G |"Db9" _A3 G B3 A |"C9""Db9b5" G8- |"C7" G4 ^C2 D2 |"Gm9" A4 A4- | A4"C+7" _A4 | %19
+w: you a- way, how|emp- ty they have|grown.|* It's a|blue world|* from|
+"Fmaj9" G4 G4- | G4 E2 F2 |"Cm9" d4 d4- | d4"F+7" _d4 |"Bbmaj9" c8- | c4- c c3 | %25
+w: now on;|* it's a|through world|* for|me.|* * The|
+"Bbmaj9" c3 B c3 B |"Bbm9" c3 B"Eb9" F3 G |"Fmaj7" A3 E"Gm7" (3G2 F2 E2 |"Am7b5" _E4"D7" ^C2 D2 | %29
+w: sea, the sky, my|heart and I, we're|all an in- di- go|hue, with- out|
+"G9" A4 ^C2 D2 |"Gm9" A4"C7b9" A4 |1"F""Abdim7" F8- ||"Gm7" F2 z2"C7" ^C2 D2 :|2 %33
+w: you it's a|blue, blue|world.|* It's a|
+"F""Bbm7""F/A""Abdim7" F8- ||"Gm7" F6"Gbmaj7""F6" z2 |] %35
+w: world.||
+

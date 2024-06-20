@@ -1,0 +1,17 @@
+X:1
+T:Azt hallottam, picike babám
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:2/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Cm" G2 G2 | G2 G2 |"Fm" Gc FA |"Cm" G2 z2 |"Cm" Ge dc |"G" BA GF |"Cm" EG"G" DE |"Cm" C2 z2 :| %8
+w: Azt hal-|lot- tam,|pi- ci- ke ba-|bám,|hogy te en- gem|nem sze- ret- tél|so- ha i- ga-|zán.|
+"Bb" B,D F2 |"Fm" AG F2 |"Cm" dc =Bc |"G" G2 z2 |"Cm" Ge dc |"G" BA GF |"Cm" EG"G" DE | %15
+w: Pe- dig én|té- ge- det|na- gyon sze- ret-|lek,|gye- re visz- sza,|gyó- gyítsd meg a|fá- jó szí- ve-|
+"Cm" C2 z2 |] %16
+w: met!|
+

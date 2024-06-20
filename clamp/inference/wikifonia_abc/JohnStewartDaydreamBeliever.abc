@@ -1,0 +1,28 @@
+X:1
+T:Daydream  Believer
+T:Daydream Believer
+T:John Stewart
+T:Swing
+C:John Stewart
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z B B B |"G" G2 B G |"Am" A2 G A |"Bm" B"^(G)" d B G |"C" C3 c/ z/ |"G" d d d e |"Em" G G A B | %7
+w: Oh I could|hide neath the|wings of the|blue- bird as she|sings the|six o- clock a-|larm would nev- er|
+"^D7(Am)" A4- | A"D7" z B B |"G" G2 B G |"Am" A2 G A |"^Bm(G)" B d B G |"C" C3 c |"G" B B"Em" c B | %14
+w: ring|* But it|rings and I|rise, wipe the|sleep out of my|eyes, my|shav- ing ra- zor's|
+"D7" A"Am" G"D7" ^F A |"G" G4- || G z z2 |"C" e e"D7" ^f e |"G" d4 |"C" c c"D7" d d | %20
+w: cold * and it|stings||Cheer up sleep- y|Jean|Oh what can it|
+"^G(Em)Am" B2 G A | z"G" d d e |"C" d c B c |"G" z d c B |"D7" A4- | A z z2 |"G" G G D B | %27
+w: mean to a|day- dream be-|lieve- er and a|home com- ing|queen||You once thought of|
+"Am" A2 G A |"^Bm(G)" B d B G |"C" C3 z |"G" d d d e |"Em" G G A B |"^D7(Am)" A4- | A"D7" z B B | %34
+w: me as a|white knight on a|steed|now you know how|hap- py I can|be|* and our|
+ G"G" G B G |"Am" A2 G A |"^Bm(G)" B d B G |"C" C3 c |"G" B B"Em" c B | %39
+w: good times start and|end with- out|dol- lar one to|spend but|how much ba- by|
+"D7" A"Am" G"D7" ^F"^D.S.""^and""^fade." A |"G" G4 |] %41
+w: do we real- ly|need.|
+

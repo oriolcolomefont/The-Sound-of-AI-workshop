@@ -1,0 +1,30 @@
+X:1
+T:It's Only A Paper Moon
+T:It's Only A Paper Moon
+T:Rose, Harburg, Arlen
+T:© Dan Parshall
+C:Harold Arlen
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F6" z C2 C"F#dim" c c2 c |"Gm7" ^A2 =AG-"C7" G4 |"Gm7" z C2 C"C9" ^A A2 A |"F" A2 GF- F4 | %4
+w: Say, it's on- ly a|pap- er moon *|sail- ing ov er a|card- board sea, *|
+ z C2 C"F7" c c2 ^c |"Bb6" d2 ^AG-"Bdim" G2 FE- |"C7" E2 dc- c2 EF- |"F" F4"C7" z4 | %8
+w: but it would- n't be|make be- lieve * if you|* be- lieved * in me.||
+"F6" z C2 C"F#dim" c c2 c |"Gm7" ^A2 =AG-"C7" G4 |"Gm7" z C2 C"C9" ^A A2 A |"F" A2 GF- F4 | %12
+w: Yes, it's on- ly a|can- vas sky *|hang- ing ov- er a|mus- lin tree, *|
+ z C2 C"F7" c c2 ^c |"Bb6" d2 ^AG-"Bdim" G2 FE- |"C7" E2 dc- c2 EF- |"F" F4"F7" z2 F2 | %16
+w: but it would- n't be|make be- lieve * if you|* be- lieved * in me.|* With-|
+"Bb6" G4"Abdim" ^G4 |"Fmaj7/C" A4 z2 ^Ad |"Gm7" c3 c"C7" A3 A |"F" F4"F7" z2 F2 | %20
+w: out your|love, it's a|hon- ky- tonk par-|ade. With-|
+"Bb6" G4"Abdim" ^G4 |"Fmaj7/C" A4 z2 ^GA |"Am7" cc c2"D7" c2 ^GA |"G9" dd d2"C7" d4 | %24
+w: out your|love, it's a|mel- o- dy played in a|pen- ny ar- cade.|
+"F6" z C2 C"F#dim" c c2 c |"Gm7" ^A2 =AG-"C7" G4 |"Gm7" z C2 C"C9" ^A A2 A |"F" A2 GF- F4 | %28
+w: It's a Barn- um and|Bail- ey world, *|just as phon- y as|it can be, *|
+ z C2 C"F7" c c2 ^c |"Bb6" d2 ^AG-"Bdim" G2 FE- |"C7" E2 dc- c2 EF- |"F" F4 z2 z2 |] %32
+w: but it would- n't be|make be- lieve * if you|* be- lieved * in me.||
+

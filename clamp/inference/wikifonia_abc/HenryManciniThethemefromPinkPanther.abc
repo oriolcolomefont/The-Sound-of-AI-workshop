@@ -1,0 +1,29 @@
+X:1
+T:The theme from Pink Panther
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"^intro" z"^bass" ^C D^D |"Em7" E8- | E4 z ^C D^D |"Em7" E8- | E4 z2 z"^lead" ^D || %5
+"^[A]""Em7" E2 z F G2 z ^D | EFGc BEGB |"C7#11" (_B4- (3BAG) (3(EDE- | E2) z2 z2 z ^D | %9
+"Em7" E2 z F G2 z ^D | EFGc BGBe |"F7#11" ^d8- | d4 z2 z ^D |"Em7" E2 z F G2 z ^D | EFGc BEGB | %15
+"C7#11" (_B4- (3BAG) (3(EDE- | E2) z2 z"^bass" ^C D^D | E z"^lead""CN.C." ed BAGE | %18
+ (3:2:2(_B A2) (3:2:2(B A2) (3:2:2(B A2) (3:2:2(B A2) |"Em7" (3(GED) EE- E4 | z8 || %21
+[K:F]"^[B]""Gm6" ^FG- G2 z2 AB- | B4- B^cdf- |"Eb7" f4- f_e_dB- | B z z2 z2 z G | %25
+"Gm6" B/c/B/G/ AG z2 z B | _d/_e/d/B/ cB- B2 GF- |"Ab7" F8 | z4 z2 ^FG- |"Gm6" G z z2 z G Bc | %30
+ _dd (3dcB GB z G |"Eb7" (3B2 c2 _d2 (3d2 c2 B2 | G6 F"Gm7"D | z8 | %34
+"Eb7" (3GB z !tenuto!B2"D7b9" (3^FA z !tenuto!A2 |"Gm6" G2 z2 z4 | z8 || %37
+[K:G]"^[C]""^Solo's""Em7" z8 | z8 |"C7" z8 | z8 |"Em7" z8 | z8 |"F7" z8 | z8 |"Em7" z8 | z8 | %47
+"C7" z8 | z8 |"Em7" z8 |"C7" z4"F#m7" z2"B7" z2 |"Em7" z8 | z8 || z"^bass" ^C D^D"Em7" E4- | %54
+ E4- E4 | z ^C D^D"Em7" E4- | E4 z2 z"^lead" ^D ||"^[D]""Em7" E2 z F G2 z ^D | EFGc BEGB | %59
+"C7#11" (_B4- (3BAG) (3(EDE- | E2) z2 z2 z ^D |"Em7" E2 z F G2 z ^D | EFGc BGBe |"F7#11" ^d8- | %64
+ d4 z2 z ^D |"Em7" E2 z F G2 z ^D | EFGc BEGB |"C7#11" (_B4- (3BAG) (3(EDE- | %68
+ E2) z2 z"^bass" ^C D^D | E z"^lead" ed BAGE | %70
+ (3:2:2(_B A2) (3:2:2(B A2) (3:2:2(B A2) (3:2:2(B A2) |"Em7" (3(GED) EE- E4 |"C7" (3(GED) EE- E4 | %73
+"Em7" (3(GED) EE- E4- | !fermata!E8 |] %75
+

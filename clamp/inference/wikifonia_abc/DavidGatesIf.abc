@@ -1,0 +1,33 @@
+X:1
+T:If
+T:If
+C:David Gates
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 cd |:"A" e3 e e2 ee- |"Amaj9" e2 dc- c2 de- |"A9" e e2 d- d2 c2 |"Bm7/A" A4 z2 Ad- | %5
+w: If a|pic- ture paints a thou-|* sand words, * then why|* can't I * paint|you? The words|
+w: |man could be two pla-|* ces at * one time,|* I'd be * with|you; to- mor-|
+"Bm7b5/A" d2 d2 c A2 E- |"A" E4 z2 E=F- |"Bm7b5/D" =F =F2 A- A2 eB- |"E9sus4" B4"E13" z2 cd | %9
+w: * wil nev- er show|* the you|* I've come * to know.|* If a|
+w: * ow and to- day,|* be- side|* you all * the way.|* If the|
+"A" e3 e e2 ee- |"Amaj7" e2 dc- c2 z d |"A9" e2 ed- d2 cA- |"Bm7/A" A4 z2 Ad- | %13
+w: face could launch a thou-|* sand ships * then|where am I * to go?|* There's no|
+w: world would stop re- vol-|* ing, spin- * ning|slow- ly down * to die,|* I'd spend|
+"Bm7b5/A" d d2 c- c2 AE- |"A" E4 z2 E=F- |"Bm7b5/D" =F2 =FA- A e3 |"E9sus4" B4"Fdim7" z2 Ac- | %17
+w: * one home * but you.|* You're all|* thats left * me|to. And when|
+w: * the end * with you.|* And when|* the world * was|through, then one|
+"F#m" c4- c f2 g- |"C#/F" g4- g a2 c- |"F#m/E" c2 cB- B(A B2) |"B/D#" B4"Bm/D" z2 f2 | %21
+w: * * my love|* * for life|* is run- * ning *|dry, you|
+w: * * by one|* * the stars|* would all * go *|out. Then|
+"Cm7b5" e6 B^A- |"F#7" ^A6 e2 |1"Bm7" d6 A2 ||"E7" G4 z2 cd :|2"Bm7" d6 e2 ||"D/E" f6 g2 |"A" a8- | %28
+w: come and pour|* your-|self on|me. If a|sim- ply|fly a-|way|
+w: you and I|* would||||||
+"Bm7/F#" a8- |"Bm7b5/F" a8- |"A" a8 |] %31
+w: _|||
+w: |||
+

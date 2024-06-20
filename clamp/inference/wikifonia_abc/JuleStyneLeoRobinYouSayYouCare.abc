@@ -1,0 +1,28 @@
+X:1
+T:You Say You Care
+T:You Say You Care
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fm7" z B F c |"Bb7" B4 |"Fm7" z B F c |"Bb7" B A G F |"Ebmaj7" A G F E |"Fm7" F C"Bb7" D F | %6
+w: You say you|care,|and all at|once a mil- lion|rose- es pour their|per- fume on the|
+"Gm7" B,4- |"C7" B,2 z2 || z B F c | B4 |"Fm7" z B F c |"Bb7" B A G F |"Ebmaj7" A G F E | %13
+w: air.|_|You say you|care,|and you put|words ro what the|whip- poor- wills are|
+"Fm7" F C"Bb7" D F |"Emaj7" E4- |"Dm7b5" E2"G7" z2 ||"Cm7" z c G d |"Ab7" c4 |"Cm7" z c G d | %19
+w: sing- ing ev- 'ry-|where.|_|How sweet, how|strange,|that all my|
+"Am7b5" c =A"D7b9" ^F _E |"Gm7" D =F B d |"C7" =e d B G |"Fm7" F4- |"Bb7" F2 z2 |:"Fm7" z B F c | %25
+w: lon- li- ness should|change in- to the|lov- li- ness we|share.|_|If you were|
+"Bb7" B4 |"Fm7" z B F c |"Bb7" B A G F |"Ebmaj7" A G F E |"Fm7" F C"Bb7" D F |"Gm7b5" B4- | %31
+w: there,|no hill would|be too high, and|dar- ling, I would|ev- en fly the|sea,|
+"C7" B2 z2 |"F7" =B d c G |"Fm7" _B A"Bb7" C D |1"Ebmaj7" E4 |"Gm7""C7" z4 :|2"Ebmaj7" E4- | %37
+w: _|just to hear you|say you care for|me.||me.|
+ E2 z2 |] %38
+w: |
+

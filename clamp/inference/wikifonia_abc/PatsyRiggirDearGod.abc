@@ -1,0 +1,21 @@
+X:1
+T:Dear God
+T:Dear God
+T:Patsy Riggir
+C:Patsy Riggir
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ e3 |"C" f e3/2 d/ |"F" c F3/2 A/ |"C" A G3/2 G/ |"G7" G B A | G3 |"C" d e c | A/c/ A G | z2 G | %9
+w: I|go * to|church on a|Sun- day the|vows that I|make|I break them|on a Mon- day|the|
+ e e g | f2 z/ e/ |"F" d F A | G2 z/ G/ |"G7" B B B | B A G |"G" G A B |"C" c3 | g3 | %18
+w: rest of the|week I|do as I|please then|come Sun- day|morn- ing I|pray on my|knees|Dear|
+"C" e c z/ e/ |"F" f A c |"C" A G z/ G/ |"G7" G B z/ A/ | G2 z/ d/ |"C" e c A | A G z/ G/ | e e g | %26
+w: God * I|know I'm not|wor- thy but|I need you|so and|please wont you|hur- ry and|help me turn|
+"F" f e d | c F A |"C" G2 G |"G7" G B A |"G" G B d |"C" c3- | c z2 |] %33
+w: back from the|path I have|trod you'll|ne- ver be|sor- ry dear|God.||
+

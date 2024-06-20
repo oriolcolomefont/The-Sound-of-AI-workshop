@@ -1,0 +1,27 @@
+X:1
+T:The Poor People Of Paris
+T:The poor people of Paris
+T:(Joans song)
+T:Marguerite Monnot
+T:English:Jack Lawrence, French:ReneRouzaud
+C:Marguerite Monnot
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 f e |:"C7" e d d ^c | d2 f e | e d d ^c | d2 f e |"F" e d d ^c | d2 e d | A2"E" ^G2 | %8
+w: Just got|back from Pa- ris|France, all they|do is sing and|dance all they've|got there is ro-|mance what a|trag- e-|
+w: |sor- ry for the|French ev- ry|guy has got a|wench ev- ry|cou- ples got a|bench kiss- ing|shame- less-|
+"F" A2 f e |"D7" _e d A d |"Gm" c _B2 G/A/ |"C7" _B c d e |"F" g3/2 f/ e d |"C7" c _B D E |"F" A4 | %15
+w: dy ev- ry|bou- le- vard has|lov- ers ev- ry|lov- ers- in a|trance the poor *|peo- ple of Pa-|ree|
+w: ly night and|day they're mak- ing|mus- ic while they're|mak- ing love in|French * * *|||
+ f c d/c/ d |1 f z f e :|2 f z f e ||"C7" e d d ^c | d2 f e | e d d ^c | d2 f e | e d d ^c | %23
+w: ||* so dont|go to Pa- ris|France not un-|less you like to|dance not- un-|less you want ro-|
+w: ||||||||
+ d2 f e | e d d ^c | d2 e c |"F" f4- | f z z2 |] %28
+w: rmance like those|poor in- ha- bi-|tants of Par-|ee.-||
+w: |||||
+

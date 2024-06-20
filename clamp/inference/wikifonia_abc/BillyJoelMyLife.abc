@@ -1,0 +1,34 @@
+X:1
+T:My Life
+T:My life
+T:Billy Joel
+C:Billy Joel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"C" ee e2 cc | cGGG GG E2 |"F" F2 A2 z4 | z8 |"G" z2 dd d2 BB | BG G2 BA G2 |"C" G4 z4 |"F" z8 | %8
+w: Got a call from an|old * friend we used to be|real close||said he could- n't go|on the A- mer- i- can|way||
+w: I don't need you to|wo- ry for me * cause I'm|al- right||I don't want you to|tell me it's time to come|home||
+"C" z2 ee e2 cc | cGGG GF E2 |"F" F2 A2 z4 |"G" z2 dd d2 BB | BG G2 Bc c2 |1"C" c8 | z8 :|2 %15
+w: Closed the shop sold the|house bought a tick- et to the|West Coast|Now he gives them a|stand- up rou- tine in L.|A.||
+w: I don't care what you|say an- y- more * this is|my life|Go a- head with your|own life * leave me a-|lone.-||
+"Am" c4 c2 cc || cAAA AFDC |"E" D2 E2 E4- | E2 z2 z4 |"C7" z4 C2 cc | cAAA AE C2 | %21
+w: lone. I nev- er|said you had to of- fer me a|sec- ond chance||I nev- er|said I was a vic- tim of|
+w: ||||||
+"D7" D2 E2 D2 C2- | C4 z4 |"F" z2 F2 G2 A2 | G8 |"E" z2 ^G2 A2 B2 |"Am" c8 |"D7" z4 A2 B2 | %28
+w: cir- cum- stance *||I still be-|long|dont get me|wrong|you can|
+w: |||||||
+ c2 d2 B3 A |"F" A4"G" G4 |"F" A4"G" B4 |"C" z2 ee e2 cc | c2 GG GF E2 |"F" F4 A2 z2 | %34
+w: speak your mind but|not on|my time|(instrumental) * * * *|||
+w: ||||||
+"G" z4 z2 dd | d2 BB BA G2 |"C" G8 |"F" z8 |"G" z2 ee e2 cc | c2 GG GF E2 |"F" F4 A2 z2 | z8 |: %42
+w: ||||I don't care what you|say an- y more this is|my life||
+w: ||||||||
+"G" z2 dd dB B2 | B2 G2 ed c2 |"C" c8- |"^Repeat and fade" c8 :| %46
+w: go a- head with your|own life, leave me a-|lone.-||
+w: ||||
+

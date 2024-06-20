@@ -1,0 +1,19 @@
+X:1
+T:No Me Esqueca
+T:No Me Esqueca
+T:Joe Henderson
+C:Joe Henderson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Alto Saxophone"
+%%MIDI program 5
+V:1
+ A3 b z a2 e | Ae .b2 a3 e | A3 b z a2 e | Ae .b2 g3 d | A3 c' z a2 e | gaec d3 c | F3 g z f2 d | %7
+ _Bf .c'2 _b3 e | a3 g z g z a | z2 z .E BcEC |:"D13sus4" ^F4 z G AB | B2 AB z c EC | %12
+"Am7" ^F G2 A- A B2 B- | BABA d_eG_E |"F13sus4" A4 z _B cd | d2 cd z _e G_E | %16
+"Cm7" A _B2 c- c d2 d |"F13" z2 z c d3 c |"Bb" F8 |"Bbm7" z E Fc-"Eb7" c3 _B |"Ab" _E4- EDE_B- | %21
+"Abm7" B4"Db7" ._A2 F_D- |"Gb" D8 |"^Gb7(#9#11)" z2 A4- AG |"F" C3 C z C G2- |1 %25
+"^E7(#5#9)" G2 z .E BcEC :|2 G8 |] %27
+

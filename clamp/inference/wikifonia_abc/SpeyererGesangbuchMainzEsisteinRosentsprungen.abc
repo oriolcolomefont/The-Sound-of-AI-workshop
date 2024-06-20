@@ -1,0 +1,40 @@
+X:1
+T:Es ist ein Ros entsprungen
+T:Es ist ein Ros entsprungen
+T:Speyerer Gesangbuch
+C:Speyerer Gesangbuch
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A2 | A A"G" B"D" A |"A" A2"Bm" F2 |"Em" G2"D" F"A" E- | E"Bm" D2"A" C |"D" !breath!D2 A2 | %6
+w: Es|ist ein Ros ent-|sprun- gen|aus ei- ner|* Wur- zel|zart. Wie|
+w: Das|Röl- lein das ich|mei- ne|da- von I-|* sai- as|sagt: Ma-|
+w: Das|Blü- me- lein so|klei- ne|das duf- tet|* uns so|süß. mit|
+ A A"G" B"D" A |"A" A2"Bm" F2 |"Em" G2"D" F"A" E- | E"Bm" D2"A" C |"D" D2 z"D" F | %11
+w: uns die Al- ten|sun- gen|von Jes- se|* kam die|Art. Und|
+w: ri- a ist´s die|Rei- ne|di uns das|* Blüm- lein|bracht. Aus|
+w: sei- nem hel- len|Schei- ne|ver- treibt`s die|* Fins- ter-|nis. Wahr|
+"A" E C"Bm" D"E" B, |"A" A,2 z"D" A | A A"G" B"D" A |"A" A2"B7" F2 |"Em" G2"D" F"A" E- | %16
+w: hat ein Blüm- lein|bracht Mit-|ten im kal- ten|Win- ter|wohl zu der|
+w: Got- tes ew- gem|Rat hat|sie das Kind ge-|bo- ren|und blieb doch|
+w: Mensch und wah- rer|Gott hilft|uns aus al- lem|Lei- de|ret- tet von|
+ E"Bm" D2"A" C |"D" D2 z2 |] %18
+w: * hal- ben|Nacht.|
+w: * rei- ne|Magd.|
+w: * Sünd und|Tod|
+V:2
+ F2 | F D G F | E2 D2 | B,2 A, A, | A,2 A,2 | A,2 D2 | F D G F | E2 D2 | B,2 D C | C B, A,2 | %10
+ A,2 z D | C A, B, B, | A,/B,/ C z D | F D G F | E2 ^D2 | B,2 A,2 | A,2 A,2 | A,2 z2 |] %18
+

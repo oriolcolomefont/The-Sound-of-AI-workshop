@@ -1,0 +1,28 @@
+X:1
+T:There! I've Said It Again
+T:There! I've Said It Again
+C:Redd Evans and Dave Mann
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"F+" ^c2 |"Bb" d2 d4 _d2 |"Fm7" c2 AF"Bb9" c2"Bb+" d2 |"Eb" B2 B4"Gm" G2 |"Gdim" B2 cB A3 G | %5
+w: I|love you, there's|noth- ing to hide, it's|bet- ter than|burn- ing in- side, I|
+"Cm7" F2 F4"F7" D2 |"Fm" F2 G_A"G7" G4 |"C9" d3 G dB d2 |"Cm7" c6"F7""F+" ^c2 |"Bb" d2 d4 _d2 | %10
+w: love you, no|use to pre- tend,|There! I've said it a-|gain. I've|said it, what|
+"Fm7" c2 AF"Bb9" c2"Bb+" d2 |"Eb" B2 B4"Gm" G2 |"Gdim" B2 cB A3 G |"Cm7" F2"F7" F4 D2 | %14
+w: more can I say? Be-|lieve me there's|no oth- er way I|love you, I|
+"Fm" F2 G_A"G7" G4 |"C9" d3 G"Eb" dB"F7" d2 |"Bb" B8 |"Fm7" B2 B_A"Bb7" G F2 G | %18
+w: will to the end,|There! I've said it a-|gain.|I've tried to drum up a|
+"Fm7" B2 B_A"Bb7" G F3 |"Eb" (3G2 B2 G2"Fm7" B2"Bb+" B2 |"Eb" G6 G2 |"Gm7" c2 cB"C7" A G2 A | %22
+w: phrase that would sum up|al that I feel for|you. But|what good are phra- zes? The|
+"Gm7" c2 cB"C7" A G2 A |"Cm7" c2 c2"F7" c2 =EF |"F+" ^c2 c2 c2 c2 |"Bb" d2 d4 _d2 | %26
+w: thought that a- ma zes is|you love me, and it's|hea- ven- ly, For-|give me for|
+"Fm7" c2 _AF"Bb9" c2"Bb+" d2 |"Eb" B2 B4"Gm" G2 |"Gdim" B2 cB A3 G |"Cm7" F2 F4"F7" D2 | %30
+w: want- ing you so, but|one thing I|want you to know, I've|loved you since|
+"Fm" F2 G_A"G7" G4 |"C9" d3 G"Eb" dB"F7" d2 |"Bb" B8 |] %33
+w: heav- en knows when,|There! I've said it a-|gain.|
+

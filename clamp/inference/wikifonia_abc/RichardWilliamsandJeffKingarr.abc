@@ -1,0 +1,22 @@
+X:1
+T:Chorales
+T:Chorales
+T:Various
+C:Richard Williams and Jeff King arr. By R.C.O. Lomboy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+ [CE]2 [CF]2 [DG]2 ([DA][DB]) | ([Fc]B) [FA]2 [EG]4 | [FA]2 [DF]2 [EG]2 [EG]2 | %3
+ [FA]2 [^FA]2 [GB]4 | [Ec]3 [Ec] [Dd]4 | [Ec]2 [FB]A [EG]4 | [CA]2 [CF]2 [CF]2 [CE]2 | %7
+ [DF]E[DF]C [CF]2 !fermata![CE]2 | [EG]2 [FA]3 [EG] [CF]2 | %9
+[K:G][M:5/4] [E,E]/[=F,=F]/[G,G]/[A,A]/ [DB]2 [Ec]F [Gd]2 [Gd]2 |[M:4/4] [Gc]F [GB]2 [FA]4 | %11
+ [GB]2 [Fc]G [Bd]A[Gc][FB] | [EA]3 [DG] [DG]4 | [FA]2 [^GB]2 [Ac]=G[Ac]E | [=FB]2 [EB]D [EA]4 | %15
+ [Ec]2 [Gd]2 [Ge]=F[Ge]E | [Ad]2 [Gd]=F [DG]4 | [EB]2 [Fc]2 [Gd]2 [Gd]2 | [Ec]2 [DB]E [FA]4 | %19
+ [GB]2 [Fc]2 [Gd]F[Ec][DB] | [DG]2 [DG]F [DG]4- |[K:C] [DG]6 d/c/B/A/ | [EG]4 [DG]2 AB | %23
+ [Ec]4 [DB]2 A2 | [CA]2 [CG]2 [DF]2 D2 | [CE]2 [DF]2 [EG]4 | F4 [FA]4 | [EG]2 EG [CG]2 [CF]2 | %28
+ [CE]4 [CD]2 [B,D]2 | [CE]8- | [CE]8 | z8 | %32
+

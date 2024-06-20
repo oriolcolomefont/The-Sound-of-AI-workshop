@@ -1,0 +1,34 @@
+X:1
+T:Awesome In This Place
+T:Awesome In This Place
+T:David Billington, 1992
+T:Moderately slow, in 2
+C:David Billington 1992
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 3
+%%MIDI program 0
+V:1
+"Ebmaj9" z8 |"Cm7" z4"Gm7" z4 |"Ab" z8 |"Fm7" z4"Bb" z4 |"Ebmaj9" z8 |"Cm7" z4"Gm7" z4 |"Ab" z8 | %7
+w: |||||||
+"Fm7" z4"Bb" z2 GB |:"Cm7" B2 BB- B B2 B- | B G3- G2 z2 |"Ab" B2 BB- B c2 E- | E6 z B | %12
+w: As I|Come in to * your pres|* ence *|past the gates * of praise|* in|
+"Cm7" B2 BB- B B2 B- | B G3 z2"Eb/Bb" FG |"Ab" A2 GF- F2 EE- | E4"Eb/G" z3 B, |"Bbsus4" GF F4 EG- | %17
+w: to your sanc * tu ar|* y till we're|stand ing face * to face.|* I|look up on your cou|
+"Bb" G2 FF- FFFG |"Absus2/C" A2 G"Bb"F- F G2 E- |"Ab" E4 z EFG |"Fm7" A2 G2 F2"Eb/G" E2- | %21
+w: * ten ence * I see the|full ness of * you grace.|* and I can|on ly bow down|
+ E4"Abmaj9" G2 F2- |"Bbsus4" F8- |"Bb" F2 z2"Abmaj7/Bb" G2 B2 |"Ebsus4" B2 BB- B B2"Eb" B- | %25
+w: * and say||* you are|awe some in * this place|
+ B2 z2 G3 A |"Fm7" A8- | A4"Eb/G" z2 FG |"Ab" A2 AA- A A2 A- |"Ab/Bb" A2 z2 c3 B | %30
+w: * Migh y|God.|* You are|awe some in * this place|* Ab ba|
+"Eb" B3 G/-F/- E3- B- |"Ab/Bb" B4 z2 GA |"Eb" B2 B"Fm7"B- B c2 B- |"Eb/G" B6 z B | %34
+w: Fa ther * * *|* You are|wor thy of * all praise|* to|
+"Ab" B2 AA-"Eb/G" A G2 F- |"Fm7" F4 z2 FG |"Ab/Bb" A2 AA- A A2 A- | A2 z2 G2 F-E |1"Eb" E8 | %39
+w: You our lives * we raise|* You are|awe some in * this place|* Might y *|God|
+"Fm7" z4"Bb" z2 GB :|2"Eb" E8- || !fermata!E8 |] %42
+w: As I|God.||
+

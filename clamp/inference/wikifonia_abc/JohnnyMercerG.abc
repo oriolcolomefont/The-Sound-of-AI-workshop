@@ -1,0 +1,39 @@
+X:1
+T:G. I. Jive
+T:G. I. Jive
+C:Johnny Mercer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4"G+" z2 (3GAG |:"C" c2"B" ^D"C"E- E4 |"C" c2"B" ^D"C"E- E3 G | c2 ^D>E"Dm7" c>c"G7"D>E | %4
+w: This is the|G. I. jive, _|man a- live _ It|starts with the bug- ler blow- in'|
+w: |wash and dress, _|more or less, _ You|go get your break- fast in a|
+"C" (3cD^D (3EGc B3"Cdim" A |"Dm7" G2 F"G7"=D- D4 | z2 z A- A"G+" A2 G |"C" A G2 E- E4- | %8
+w: rev- ei- lle ov- er your bed when|you ar- rive. _|Jack, _ that's the|G. I. Jive, _|
+w: beau- ti- ful lit- tle ca- fe' they|call the mess. _|Jack, _ when you|con- va- lesce, _|
+ E2 z2"Edim" z2 (3GAG |"G7" B6 (3GAG |"F7" F6"G7" (3^DE=D |"C6" C8 |1 c2 z2"G+" z2 (3GAG :|2 %13
+w: _ Roo- tle- tee-|toot! Jump in your|suit, make a sa-|lute,|Voot! Af- ter you|
+w: _ Out of your|seat, in- to the|street, make with the|feet,||
+"C6" c2 z2 z2 (3CDC |"F9" _E2 E2 E3 C ||"Db9" _A"C9" G3- G2 (3CDC |"F9" _E>E E2 E2 C2 | %17
+w: Reet! If you're a|P. V. T. your|dut- y _ is to sa-|lute the L- I- E-|
+w: ||||
+"Db9" _B"C9" =A3- A2"F9" (3FGF |"Bb9" _A>A A2 A2 F2 |"B9" _d2"Bb9" c2- c2"Eb7" z c | %20
+w: U- T, _ But if you|brush the L- I- E-|U- T, _ The|
+w: |||
+"Ab9" _e"G9" d2 d/d/"Ab9" _B"G9" A2 A/A/ |"Ab9" _E"G9" D3- D2"G7" (3GAG |"C" c2"B" ^D"C"E- E4 | %23
+w: M. P. makes you K. P. on the|Q. T. _ This is the|G. I. Jive, _|
+w: |||
+"C" c2"B" ^D"C"E- E3 G | c2 ^D>E"Dm7" c>c"G7"D>E |"C" (3cD^D (3EGc B3"Cdim" A | %26
+w: man a- live, _ They|give you a pri- vate tank, that|fea- tures a lit- tle de- vice called|
+w: |||
+"Dm7" G2 F"G7"=D- D4 | z2 z A2"G+" A2 G |"C" A2 GE- E4- |"C6" E4"Edim" z2 (3GAG |"G7" B6 (3GAG | %31
+w: flu- id drive. _|Jack, af- ter|you re- vive _|_ Chunk all your|junk, back in the|
+w: |||||
+"F7" F6"G7" (3^DE=D |"C" C8 | c2 z2 z4 |] %34
+w: trunk, Fall on your|bunk.|Clunkl|
+w: |||
+

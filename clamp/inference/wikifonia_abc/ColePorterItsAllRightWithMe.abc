@@ -1,0 +1,39 @@
+X:1
+T:It's All Right With Me
+T:It's All Right With Me
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 C D |:"Cm7" E2 G2- |"Ddim7" G2"G7" C D |"Cm7" E2 G2- |"Ddim7" G2"G7" C D |"Cm7" E2 F G- | %6
+w: It's the|wrong time|* and the|wrong place|* tho' your|face, is charm-|
+w: |wrong song|* in the|wrong style|* tho' your|smile is love-|
+ G E F G |"Fm7" A2 c2- | c2 =B c |"Bb7" d2 c2- | c D ^C D |"Gdim7" c2 =B _B- |"C7" B2 C D | %13
+w: * ing, it's the|wrong face;|* it's not|her face|* but such a|charm- ing face|* that it's|
+w: * ly, it's the|wrong smile;|* it's not|her smile|* but such a|love- ly smile|* that it's|
+"F7" E2 G2- |1 G3 F ||"Bb7" D4- |"Ddim7" D z"G7" C (D :|2"Bb7" G3) F ||"Ebmaj7" E4- | E2 z E | %20
+w: all right|* with|me.|* It's the|* with|me.|* You|
+w: all right|||||||
+"Gdim7" B2 B c | _d d2 B |"F#dim7" =A2 A B | c3 =A |"Fm7" A2 A B |"Bb7b9" =B c2 A |"Ebmaj7" G4- | %27
+w: can't know how|hap- py I|am that we|met, I'm|strange- ly at|tract- ed to|you.|
+w: |||||||
+ G2 z E |"Gdim7" B2 B c | _d d2 B |"F#dim7" =A2 A B | c3 =A |"Fm7" A2 A/ A A/ |"Bb7" A B2 A | %34
+w: * There's|some- one I'm|try- ing so|hard to for-|get, don't|you want to for-|get some- one|
+w: |||||||
+"Ebmaj7" G4- |"Ddim7" G z"G7" C D |"Cm7" E2 G2- |"Ddim7" G2"G7" C D |"Cm7" E2 G2 | %39
+w: too?|* It's the|wrong game,|* with the|wrong chips,|
+w: |||||
+"Ddim7" z2"G7" C D |"Cm7" E2 F G- | G E F G |"Fm7" A2 c2 | z2 =B c |"Bb7" d2 c2 | z D ^C D | %46
+w: tho' your|lips are temp-|* ting they're the|wrong lips;|they're not|her lips|but they're such|
+w: |||||||
+"G7" c2 =B _B- |"C7" B z C D |"F7" E2 G2- | G3 F |"Bb7" D4- | D z E F |"Ebmaj7" G2 B2- | %53
+w: temp- ting lips|* that if|some night|* you're|free|* dear, it's|all right,|
+w: |||||||
+"Bbm7" B2"Eb7" z =B |"Abmaj7" c2 e2- | e3 c |"F7""Bb7" e4- |"Eb" e2 z2 |] %58
+w: * it's|all right|* with|me.||
+w: |||||
+

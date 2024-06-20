@@ -1,0 +1,100 @@
+X:1
+T:Under the Sea
+T:Under the Sea
+T:Disney's "Little Mermaid"
+T:2
+T:Under the Sea
+T:3
+T:Under the Sea
+T:4
+T:Under the Sea
+T:5
+T:Under the Sea
+T:6
+T:Under the Sea
+C:Alan Menken
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+L:1/8
+V:1
+ z F/ _B B B/4A/4 | z c _B F | z3/4 D/ F F F/ C/4- | C F D2 | z F/ _B B/ B |"F" A c _B F | %6
+w: The sea- weed is al-|ways green- er|In some- bo- dy el-|* se's lake.|You dream a- bout|go- ing up there.|
+ z3/4 D/ F F F/C/4 | z F D2 | z3/4 G/ _B B G/F/4 | z _B F B | z c/ c c3/4 _B/c/8 d/8 | z c _B z | %12
+w: But that is a big|mis- take.|Just look at the world|a- round you,|Right here on the o- ce-|an floor.|
+ z G/ _B B G/ |"F" F _B F B | z c/ c c3/4 _B/c/8 d/8 | z c _B z | z2 d/ c _B/ |"Eb" G z3 | %18
+w: Such won- der- ful|things sur- round you.|What more is you loo- *|kin' for?|Un- der the|sea,|
+ z3/2 d c3/4 _B/ c/4- |"F" c z3 | z3/2 d c _B/ |"Eb" G _E/ d c _B/ |"F/A" G F/ d c3/4 _B/ d/4- | %23
+w: Un- der the sea.|_|Dar- ling it's|bet- ter Down where it's|wet- ter. Take it from me.|
+"Bb" d z3 | z3/2 d c _B/ |"Eb" G _B B G/ c/- |"F/A" c c _B z/4 c3/4 | %27
+w: _|Up on the|shore they work all day.|_ Out in the|
+"G" c/16 d3/4- d3/16 d/ c c/ _B | z3/2 d c3/4 _B/ G/4- |"Eb" G F/ d c3/4 _B/ G/4- | %30
+w: _ sun _ they slave a- way.|While we de- vo-|* tin' full time to floa-|
+"F" G F/ d c3/4 _B/4 B/- |"Bb" B z3 | z [D_B]/ [DB] [DB] [DB]/ |"F" [CA] [_Ec] [D_B] [_B,F] | %34
+w: * tin' Un- der the sea.|_|Down here all the|fish is hap- py|
+ z F/ F F F/ | C F D2 | z [D_B]/ [DB] [DB] [DB]/ |"F" [CA] [_Ec] [D_B] [_B,F] | z F/ F F F/4C/4 | %39
+w: As off through the|waves they roll.|The fish on the|land ain't hap- py.|They sad 'cause they in|
+ z3/4 C D z z/4 | z G/ _B B G/ |"Bb/F" F _B F B | z [_Ec]/ [Ec] [Ec]3/4 [D_B]/[Ec]/4 | %43
+w: the bowl.|But fish in the|bowl is luc- ky,|They in for a wor|
+ [Fd] [_Ec] [D_B] z | z G/ _B B G/ |"Bb/D" F _B F B | z4 | z3 d |"Bb" _B z d/ c B/ |"Eb" G2 z2 | %50
+w: _ ser fate.|One day when the|boss get hun- gry,||on^the^plate?|One More! Un- der|the|
+ z3/2 d c _B/ |"C/F" c2 z2 | z3/2 d c _B/ |"Eb" G _E/ d c _B/ |"F" G F/ d c _B/ |"Bb" d2 z2 | %56
+w: sea, Un- der|the|sea. No- bo-|dy beat us, Fry us|and eat us In fri-|ca-|
+ z3/2 d c _B/ |"Eb" G _B B G/ c/- |"A" c/ z c _B c/4c/4 |"G" d d/ c c/ _B | z3/2 d c _B/ | %61
+w: see. We what|the land folks loves to|_ cook. Un- der _|the sea we off the|hook. We got|
+"Bb/Eb" G _E/ d c _B/ |"A" G F/ d c _B/ |"Eb" _B2 z2 | z3/2 d c _B/ |"F" c2 z2 | z3/2 d c _B/ | %67
+w: no trou- bles Life is|the bub- bles Un- der|the|sea. Un- der|the|sea. Since life|
+"Eb" G _E/ d c _B/ |"F" G F/ d c _B/ |"Bb" d2 z2 | z3/2 d c _B/ |"Eb" G _B B G/ c/- | %72
+w: is sweet here We got|the beat here Na- tu-|ral-|ly. E- ven|the stur- geon an' the|
+"F" c c3/2 _B c/ |"G" d d/ c c/ _B | z3/2 d c _B/ |"Eb" G _E/ d c _B/ |"F" G F/ d c _B/ | %77
+w: _ ray They get|the _ urge 'n^start to|play. We got|the spi- rit, You got|to hear it Un- der|
+"Bb" _B2 z2 | z3 F/A/ | z/ A A/ A F/F/ | z/ F F/ F F/A/ | z/ A A/ A F/F/ | z/ F3/4 F/ F F/ G3/4- | %83
+w: the|sea. The|newt play the flute. The|carp play the harp. The|plaice play the bass And|they soun- din' sharp. The|
+"C/Eb" G/ G G/ _B G/F/ | z/ F F/ _B B |"F7" A A/_B/ c B |"Bb/F" _B z2 F/A/ | z/ A A/ A F/F/ | %88
+w: _ bass play the brass. The|chub play the tub.|The fluke is the duke|of soul. The|ray he can play. The|
+ z/ F F/ F F/A/ | z/ A A/ A F/F/ | z/ F3/4 F/ F F/ G3/4- |"Eb" G/ G G/ _B G/F/ | z/ F F/ _B2 | %93
+w: ling's on the strings. The|trout roc- kin' out. The|black- fish she sings. The|_ smelt and the sprat They|know where _|
+"F/C" A _B c B |"Bb" _B2 c/8 d7/8 c/B/ |"Eb" G2 z2 | z3/2 d c _B/ |"D/F" c2 z2 | z3/2 d c _B/ | %99
+w: An' oh, that blow-|fish _ _ _ _|_||||
+"Eb" G _E/ d c3/4 _B/ G/4- |"F" G F/ d c _B/ |"Bb" d2 z2 | z3/2 d c _B/ |"Eb" G _B B G/ c/- | %104
+w: |||||
+"A" c c _B c |"Gm" d d/ c c/ _B | z3/2 d c3/4 _B/ G/4- |"Eb" G _E/ d c3/4 _B/ G/4- | %108
+w: ||||
+"F" G F/ d c/ _B |"Bb" _B2 z2 | z e3/2 d c/ |"F" A2 z2 | z3/2 e d c/ |"G" d2 z2 | z3/2 e d c/ | %115
+w: ||blow. Un- der|the|sea. Un- der|the|sea. When the|
+"F" A F/ e d c/ |"G/B" A G/ e d c/ |"C" e2 z2 | z3/2 e d c/ |"F" A c c A/ d/- | %120
+w: sar- * * * *|||||
+"G" d/ z z/4 d c/ d/ e/4- |"Am" e e/ d e/ d |"D7/Gb" c3/2 e d c/ |"F" A F/ e d c/ | %124
+w: ||||
+"B" A G/ e d c/ |"C" c2 z2 | z3/2 e d c/ |"F" A F/ e d c/ |"G/B" A G/ e d c/ |"C" c2 z2 | %130
+w: ||||||
+ z3/2 e d c/ |"F" A F/ e d c/ |"G/B" A G/ e d c/ |"Am" A A/ e d/ c |"D/A" d c/ e d/ c | %135
+w: |||||
+"F" d c/ e d3/4 c/ d/4- |"G/B" d c/ e d3/4 c/4 c/- |"C" c z3 |] %138
+w: |||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %57
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %76
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4 z3 _B | x8 | %94
+w: ||||||||||||||||it's||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %113
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %132
+w: |||||||||||||||||||
+ x8 | x8 | x8 | x8 | x8 | x8 |] %138
+w: ||||||
+

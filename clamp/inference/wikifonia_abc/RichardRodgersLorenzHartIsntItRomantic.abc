@@ -1,0 +1,26 @@
+X:1
+T:Isn't It Romantic?
+T:Isn't It Romantic
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Bb7" z4 DECD |:"Eb" E2 E6 |"Bb7" DECD E2 F2 |"Eb" G3 G"Bb+7" B3 B |"Eb" G4"Bb7" DECD |"Eb" E2 E6 | %6
+w: Is- n't it ro-|man- tic?|Mus- ic in the night, a|dream that can be|heard. Is- n't it ro-|man- tic?|
+"Bb7" DECD E2 F2 |"Eb" G3 G B3 B |"C+7""C7" _d8 |"Fm""C7""Fm" c8 |"Bb7" dcBA"G7" G2 F2 | %11
+w: Mov- ing shad- ows write the|old- dest mag- ic|word.|I|hear the breez- es play- ing|
+"Cm" E3 E"G+7" G3 G |"Cm""^Eb 7/Bb" E8 |"Ab""^C 7/G" c8 |"Fm" dcBA"Bb7" G2"Bdim7" F2 | %15
+w: in the trees a-|bove.|While|all the world is say- ing|
+"Cm" E3 E"F9" c3 c |"Bbdim7" _D4"Bb7" =DECD |"Eb" E2 E6 |"Bb7" DECD E2 F2 |"Eb" G3 G"Bb+7" B3 B | %20
+w: you were meant for|love. Is- n't it ro-|man- tic?|Mere- ly to be young on|such a night as|
+"Eb" G4"Bb7" DECD |"Eb" E2 E6 |"Bb7" DECD E2 F2 |"Eb" G3 G B3 B |"C+7""C7" _d8 |"Fm""C7""Fm" c8 | %26
+w: this? Is- n't it ro-|man- tic?|ev- 'ry note that's sung is|like a lov- ers|kiss.|Sweet|
+"Bb7" dcBA"G7" G2 F2 |"Cm" E3 E"Cm/Bb" G3 G |"Cm/A" c3 c"Abm6" e3 e |"Eb/G" f2 e2"Edim7" B4- | %30
+w: sym- bols in the moon- light,|do you mean that|I will fall in|love per chance?|
+"Bb7" B4 decd |1"Eb" e4"Gbdim7" z4 ||"Bb7" z4 DECD :|2"Eb""Abm7" e8- ||"Eb6" e6 z2 |] %35
+w: * Is- n't it ro-|mance?|Isn't it ro- man-|mance?||
+

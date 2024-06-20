@@ -1,0 +1,23 @@
+X:1
+T:Ma'moiselle de Paree
+T:Ma'moiselle de Paree
+T:Eric Maschwitz, Paul Durand
+C:Paul Durand
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Eb" G3 | G3 | G A B |"Abm" G F E |"Eb" G3 | G3 | G A B |"E" A G F |"Fm" A3 | A3 |"Fm7" A B c | %11
+w: She's|so|chic and a-|dor- a- ble|no|one|thinks it de-|plor a ble|when|men|all turn a-|
+ A G F |"Bb7" d3- | d3- |"Fm" d c B |"Bb7" A G F |"Eb" E3 |"Cm7" B2 G |"Fm7" E c B |"Bb7" A G F | %20
+w: round just to|see||* Ma'- moi|selle de Par-|ee||||
+"Eb" G3 | G3 | G A B |"Abm" G F E |"Eb" G3 | G3 | G A B |"E" A G F |"Fm" A3 | A3 |"Fm7" A B c | %31
+w: You|bet|girls get a|kick from her|learn|each|cute lit- tle|trick from her|in|their|hearts they would|
+ A G F |"Bb7" d3- | d3- |"Fm" d c B |"Bb7" A G F |"Eb" E3- |"Gb" E e c |"Fm7" B3 |"Bb7" z A F | %40
+w: all like to|be||* Ma'- moi-|selle de Par-|ee|* Light of|heart|fan- cy|
+"Eb" E3 |"Cm" z e c |"Fm7" B c B |"Bb7" A G F |"Eb" E3- | E z2 |] %46
+w: free|sh'es the|spir- it of|spring in Par-|ee-||
+

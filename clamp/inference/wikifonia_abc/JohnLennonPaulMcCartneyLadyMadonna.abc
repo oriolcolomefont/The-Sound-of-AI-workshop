@@ -1,0 +1,74 @@
+X:1
+T:Lady Madonna
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Alto Saxophone"
+%%MIDI program 5
+V:1
+"A""^Intro" z2"A" z2"D" z4 |"A" z2"A" z2"D" z4 |"A" z2"A" z2"D" z4 |"F" z2"G" z2"A" z4 || %4
+w: ||||
+w: ||||
+"A" cc-"A" cc/B/-"D" B<A z2 |"A" cc/B/-"A" BF"D" A2 z2 |"A" cc"A"ec"D" fe"D"cA- | %7
+w: La- dy * Ma- Don- * na|chil- dren at * your feet|Won- der how you man- age to make|
+w: |||
+"F" A"G" A3"A" (=c A3) ||"A" cc-"A" cc/B/-"D" B<A z2 |"A" cc"A" BF/A/-"D" A2 z2 | %10
+w: * ends meet *|Who finds * the mo- * ney|when you pay the rent *|
+w: |||
+"A" cc"A"ec"D" f/ec/-"D" c2 |"F" A2"G" =G(=c"A" A2) z2 || %12
+w: Did you think that mo- ney was *|hea- ven sent *|
+w: ||
+"Dm7" dd/d/-"Dm7" d=c/d/-"Dm7" dc/d/-"Dm" dc |"G7" d2"G7" =G2"G7" z2"G7" z2 | %14
+w: Fri- day night * ar- rives * with- out * a|suit- case|
+w: ||
+"C" =cc/c/-"C" cA"C" cc"C"ce |"Am7" (=cA)"Am7" z2"Am7" z2"Am7" z2 | %16
+w: sun- day mor- * ning cree- ping like a|nun *|
+w: ||
+"Dm7" dd"Dm7"d=c"Dm7" dc/d/-"Dm" dc |"G7" d2"G7" (B/A/=G-)"G7" G2"G7" z2 |"C" e4"Bm7" d2 B2 | %19
+w: Mon- day's child has learned to tie * his|boot- legs * * *|See how they|
+w: |||
+"E7sus4" e4-"E7" e2 z2 ||"A" cc-"A" cc/B/-"D" B<A z2 |"A" cc/B/-"A" BF"D" A2 z2 | %22
+w: run *|La- dy * Ma- Don- * na|ba- by at * your breast|
+w: |||
+"A" cc"A"ec"D" fe"D"cA- |"F" A3"G" =G"A" (=cA a2) |"A""^Solo" AA"A"=c^c"D" dd =f/^f/a | %25
+w: won- ders how you ma- nage to feed|* the rest * *||
+w: * * * * * * to *|||
+"A" z A"A"=c^c"D" dd =f/^f/a |"A""A" z A"A"=c^c"D" dd"D"ee |"F" =ff"G"=gg"A" a4 || %28
+w: |||
+w: |||
+"Dm7" dd"Dm7"dd-"Dm7" d2"Dm" d=c |"G7" dd"G7" d2-"G7" d2"G7" z2 |"C" =cc"C"cc-"C" c2"C" e=g | %31
+w: pa pa pa pa * pa pa|pa pa pa *|pa pa pa pa * pa pa|
+w: |||
+"Am7" =c'2"Am7" b=g-"Am7" ga"Am7" e2 |"Dm7" dd"Dm7"dd-"Dm7" d2"Dm" d=c | %33
+w: pa pa pa * pa pa|pa pa pa pa * pa pa|
+w: ||
+"G7" dd"G7" d2-"G7" d2"G7" z2 |"C" e4"Bm7" f2 f2 |"E7sus4" c4"E7" B4 || %36
+w: pa pa pa *|See how how|they run!|
+w: |||
+"A" cc-"A" cc/B/-"D" B<A z2 |"A" cc/B/-"A" BF"D" A2 z2 |"A" cc"A"ec"D" fe"D"cF | %39
+w: La- dy * Ma- Don- * na|ly- ing on * the bed|List- en to the mu- sic play- ing|
+w: |||
+"F" A"G" A3"A" (=cA a2) |"A""^Solo" AA"A"=c^c"D" dd =f/^f/a |"A" z A"A"=c^c"D" dd =f/^f/a | %42
+w: in your head * *|||
+w: |||
+"A" z A"A"=c^c"D" dd"D"ee |"F" =ff"G"=gg"A" a4 ||"Dm7" dd/d/-"Dm7" d=c/d/-"Dm7" dc/d/-"Dm" dc | %45
+w: ||Tues- day af- * ter- noon * is ne- * ver|
+w: |||
+"G7" d2"G7" =G2"G7" z2"G7" z2 |"C" =cc/c/-"C" cc"C" cc"C" d<e |"Am7" =c2"Am7" z2"Am7" z2"Am7" z2 | %48
+w: end- ing|wednes- day- mor- * ning pa- pers did- n't|come|
+w: |||
+"Dm7" dd/d/-"Dm7" d=c"Dm7" d<d"Dm" dc |"G7" d2"G7" =G2"G7" z2"G7" z2 |"C" e4"Bm7" d2 B2 | %51
+w: Thurs- day night * you stock- ings need- ed|men- ding|See how they|
+w: |||
+"E7sus4" e4-"E7" e2 z2 ||"A" cc-"A" cc/B/-"D" B<A z2 |"A" cc/B/-"A" BF"D" A2 z2 | %54
+w: run *|La- dy * Ma- Don- * na|chil- dren at * your feet|
+w: |||
+"A" cc"A"ec"D" fe"D"cA- |"F" A"G" A3"A" (=cA a2-) |"Bm7" a4"C6" z4 | z4"A" z4 | %58
+w: Won- der how you man- age to make|* ends meet * *|||
+w: ||||
+"Bm7" z4"C6" z2"Bm7" z"A" z | z8 |] %60
+w: ||
+w: ||
+

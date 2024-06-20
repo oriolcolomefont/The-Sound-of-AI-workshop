@@ -1,0 +1,44 @@
+X:1
+T:To Life
+C:Jerry Bock
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm" C, E F,, E | C, E F,, E | C, E F,, E | C, E F,, G |:"D7b9" e z z"D7" d | %5
+w: |||* * * To|Life to|
+w: |||||
+"G7sus4" c z z"G7" =B |"Cm" c G z2 | z2 z G |"C7" c _d z c | B A z G |"Fm" A z z2 | z F =E _E | %12
+w: life, L'-|chai- im!|L'-|chai- im, L'-|chai- im, To|Life!|If you're been|
+w: ||||||Life has a|
+"Bb7" D B2 A |"Ebmaj7" G ^F G2 |"Abmaj7" C A2 G |"Db" F =E"Dbmaj7" F2 |"Bbm7" z _d2 d | %17
+w: luck- y, then|Mon- day was|no worse than|Sun- day was,|Drink L'-|
+w: way of con-|fus- ing us,|Bless- ing and|bruis- ing us,||
+"G7" d _d2 =d |"D7b9" e z z"D7" d |"G7sus4" c z z"G7" =B |"Cm" c G z2 | z2 z G |"C7" c _d z c | %23
+w: chai- im To|Life, To|Life L'-|chai- im!|L'-|chai- im, L'-|
+w: ||||||
+ B A z G |"Fm" A z z2 | z F =E _E |"Bb7" D B2 A |"Ebmaj7" G ^F G2 |"Abmaj7" C A2 G | %29
+w: chai- im, To|Life!|One day it's|hon- ey and|rai- sin cake,|Next day _|
+w: ||A gift we|sel- dom are|wise e- nough|Ev- er to|
+"Db" F =E"Dbmaj7" F2 |"Bbm7" z _d2 d |"G7" d _d2 =d |"C" =e4- |"C7" =e z z2 |"Fm" c2 c2 | %35
+w: stom- ach ache.|Drink L'-|chai- im to|Life!|_|Our great|
+w: prize e- nough,|||||God would|
+ =B c _B A |"Cm" G2 G2 | ^F G =F E |"D7" D2 D2 |"G7" D E F ^F |"Cm" G4- |"C7" G z z2 |"Fm" c2 c2 | %43
+w: men have writ- ten|words of|wis- dom to be|used when|hard- ship must be|faced;|_|Life o-|
+w: like us to be|joy- ful,|E- ven though out|hearts lie|pant- ing on the|floor;|_|How much|
+ =B c _B A |"Cm" G2 G2 | ^F G =F E |"D7" D2 D2 | E D ^C D |"G" G4- | G2 z G |"D7b9" e z z"D7" d | %51
+w: blig- es us with|hard- ship|So the words of|wis- dom|should- n't go to|waste.|_ To|us and|
+w: more can we be|joy- ful|When there's real- ly|some- thing|to be joy- ful|for.|_ To|life to|
+"G7sus4" c z z"G7" =B |"Cm" c G z2 | z2 z G |"C7" c _d z c | B A z G |"Fm" A z z2 | z F =E _E | %58
+w: our good|for- tune|Be|hap- py, be|health- y long|life!|And if our|
+w: life! L'-|chai- im.|L'-|chai- im, L'-|chai- im, To|life!|It gives you|
+"Bb7" D B2 A |"Ebmaj7" G ^F G2 |"Abmaj7" C A2 G |"Db" F =E"Dbmaj7" F2 |"Bbm7" z _d2 c |"G" =B e3- | %64
+w: good for- tune|nev- er comes,|Here's to what-|ev- er comes|Drink L'-|chai- im|
+w: some- thing to|think a- bout,|Some- thing to|drink a- bout,|||
+ e4- | e3 d |1"Cm" c z z2 | z4 | z4 | z2 z G :|2 c"Cm" z"G7" z2 |"Cm" z4 |] %72
+w: _|* To|life!|||To|life!||
+w: ||||||||
+

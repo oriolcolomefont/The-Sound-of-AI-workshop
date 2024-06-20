@@ -1,0 +1,26 @@
+X:1
+T:You Don't Know Me
+T:You Don't Know Me
+C:Eddy Arnold
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z G"G+7"G>A |:"C" A>G G3 G,C>E | A>G G3 c"C7"c>d |"F" d>c c3 CF>A | d>c c3 c"F#dim"B>A | %5
+w: You give your|hand to me, and then you|say hel lo, and I can|hard- ly speak my heart is|beat ing so and an y-|
+"C" A>G G3 EA>G |"Dm7" G>F F3 B,D>F |"C" F E3- E4 |"D7" z4"G7" z A"G+7"A>A |"C" A>G G3 G,C>E | %10
+w: one can tell you think you|know me well but you don't|know me. *|No, you don't|know the one who dreams of|
+ A>G G3 c"C7"c>d |"F" d>c c3 CF>A | d>c c3 c"F#dim"B>A |"C" A>G G3 EA>G |"Dm7" G>F F3 B,D>F | %15
+w: you at night and longs to|kiss you lips and longs to|hold you tight to you I'm|just a friend that's all I've|ev- er been but you don't|
+"C" D C3-"F" C4- |"C" C4 z2"C7" z3/2 C/ |"F" A2 AB c3 c |"C" B B2 A/G/"C#dim" G2 A>G | %19
+w: know me *|* For|I nev- er knew the|art of mak- ing love though my|
+"Dm" (3F2 E2 F2"G7" A3 F |"C" E G3- G3 E |"Am" c3 c c3 c |"Em" B>BB>B B3 G |"D7" A3 A A>G^F>A | %24
+w: heart ached with love for|you. * * A-|fraid and shy I'd|let my chance go by, the|chance you * * * *|
+ G4"G7" z G"G+7"G>A |"C" A>G G3 G,C>E | A>G G3 c"C7"c>d |"F" d>c c3 CF>A | d>c c3 c"F#dim"B>A | %29
+w: too You give your|hand to me, and then you|say good- bye I watch you|walk a- way be- side a|luck- y guy you'll nev- er|
+"C" A>G G3 EA>G |"Dm7" G>F F3 B,B,>D |"C" D C3-"F" C4- |"C" C2 z2"G7" z G"G+"G>A :|"C" C8 | %34
+w: nev- er know the one who|loves you so but you don't|know me. *|* You give your|me.|
+

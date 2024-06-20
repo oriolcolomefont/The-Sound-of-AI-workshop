@@ -1,0 +1,43 @@
+X:1
+T:Insieme
+T:Insieme
+T:Lucio Battisti
+T:JBB Juillet 2012
+C:Lucio Battisti
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"D" DAdf- fD/A/- A/df/ | DAdf- fD/A/- A/df/ :|"D" A,E DG/F/- FA, z2 | A,E DG/F/- F2 z2 | %4
+w: ||Io non ti co- no- * sco|io non so chi sei _|
+ A,E DG FA, z F/F/ |"Em" FE EB,/B,/- B,2 z2 | B,G"B7" FA/G/-"Em" GB, z2 | %7
+w: so che͜~hai can- cel- la- to con un|ge- sto͜~i so- gni miei. _|So- no na- to ie- * ri|
+ B,G"B7" FA"Em" G2 z3/2 G/ | GAA_B"C#dim" B3 B |"D" A/E/F- F2 z4 |"Bm" BB F/AB/- B2 z2 | %11
+w: nei pen- sie- ri tuoi ep-|pu- re͜~a des- so sia- mo͜~in|sie- me. _ _|Non ti chie- do sai _|
+"F#m" AA F/GA/- A2 z2 |"Am6/C" AA FG A3 =c |"G" B/A/G- G2 z4 |"Gm" GG EF/G/- G3 G | %15
+w: quan- to re- ste- rai, _|du- ra͜~un gior- no la mia|vi- ta _ _|io sa- prò che l'ho _ vis-|
+"D" F/E/D (3:2:2E D2- D2 z2 |"E7" EF B,<D E E3 |"Em" E/F/B,- B,D EE"A7#5" ^EE ||"D" F6 GF- | %19
+w: su- * * * ta _|an- che so- lo͜~un gior- no|ma l'a- vrò _ fer- ma- ta͜~in sie- me͜~a|te, a te|
+"F#7" F6 GF- |"Am6/C" F6 AG- |"G/B" G D2 B,- B,4 |"Gm/Bb" D6 GF- |"D" F D2 A,- A,2 A,"E7/D"B,- | %24
+w: _ a te|_ che͜~or mai|_ sei mia _|tu, l'a- mo-|* re, io _ in- sie-|
+ B,E- E4 D"A7"E- | EA- A6 |"D" F6 GF- |"F#7" F6 GF- ||"Am6/C" F2 BA =c B2 A | %29
+w: * me, _ in- sie-|* me. _|La la la|_ la la|* Io ti a- mo͜~e ti|
+"G/B" B/A/G- G2 z A GA/_B/- |"Gm/Bb" B4 z _BBA- |"D" (3AGF (3GFE F/E/D A,"E7/D"B,- | %32
+w: a- me- rò _ fin- ché lo vuoi|_ an- che sem-|* pre se tu lo vor- rai _ _ in- sie-|
+ B,E- E4 D"A7"E- | E A3 =cccB- |"D" BA- A4 A^A- |"F#7" A6 ^A=A- |"Am6/C" A6 =cB- | %37
+w: * me, _ in- sie-|* me in- sie- me͜~a te.|_ _ _ La la|_ la la|_ la la|
+"G/B" B G2 D- D2 z2 |"Gm/Bb" D6 GF- |"D" F D2 A,- A,2 A,"E7/D"B,- | B,E- E4 DE- |"A7" EA- A6 | %42
+w: _ la la _|Tu, l'a- mo-|* re, io _ in- sie-|* me, _ in- sie-|* me. _|
+"Eb" _BB BA/B/- B B3 |"D" z A/A/ AG/A/- A/G/ F3"^D.S. al Coda" ||"Am6/C" A6 =cB- | %45
+w: Io non ti co- nos- * co|io non so chi sei _ _ _|_ _ _|
+"G/B" B G2 D- D2 z2 |"Gm/Bb" D6 GF- |"D" F D2 A,- A,2 A,"E7/D"B,- | B,E- E4 DE- | %49
+w: ||||
+"A7" EA- A4 z"G" G- | G2"D" F2"Em" ED B,2 |"D" !fermata![F,A,]8 |] %52
+w: |||
+

@@ -1,0 +1,16 @@
+X:1
+T:Száz forintnak ötven a fele
+T:Száz forintnak ötven a fele
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am" E2 E2 E2 E2 |"E" EDCB,"Am" A,2 z2 |"Am" AAAA A2 G2 |"E" CCDD"Am" E2 z2 |"Am" AAAA A2 G2 | %5
+w: Száz fo- rint- nak|öt- ven a fe- le,|E- gye meg a fész- kes|fe- ke- te fe- ne,|Nem le- het az em- ber|
+"E" C4"Am" E4 |"E" GFED C B,3 |"Am" A,4 A,4 |] %8
+w: fá- ból,|Ki kell rúg- ni a hám-|fá- ból!|
+

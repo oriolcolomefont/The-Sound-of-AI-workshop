@@ -1,0 +1,46 @@
+X:1
+T:I'll never fall in love again
+T:Lonnie Donegan
+C:Lonnie Donegan
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:3/8=58
+M:6/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"C" z GG c/c/ c2 | cc/B/(c- cc/d/e) |"Em" z cB/B/ B2- B/A/ | (B/A/ G2 A/G/ E2) | %4
+w: * I've been in love|so ma- ny times. _ _ _ _|I thought I knew _ the|score _ _ _ _ _|
+w: All those things I heard|a- bout you _ _ _ _ _|I thought were on- * ly|lies _ _ _ _ _|
+"F" z z C A-A/G/A/G/ | A(A/G/)A- A3 |"Dm7" z3/2 F/F G2 F/E/ |"G7" D3 z A-A/G/ |"C" E G2- G3- | %9
+w: But now _ you've treat- ed|me so _ wrong _|I can't take an- y-|more & _ it|looks like _|
+w: But when _ I caught you|in his _ arms _|I just broke down &|cried * * *||
+ G3 z3 |"Em" z z E- EE/D/E/D/ | E3- E2 D |"Dm7" F6- |"G7" F3- F2 E- |"C" E(DC) !>!G!>!G!>!G | %15
+w: _|I'm _ nev- er gon- na|fall _ in|love|_ _ a-|* gain * * * *|
+w: ||||||
+"G7" !>!G (G,/A,/B,/C/ D/E/F/G/A/B/) ||"C" c6- | c3 G3 | E6- | E z e f<ed/c/ |"Em" B6- | B3 z3 | %22
+w: |Fall|_ in|love,|_ I'm nev- er gon- na|fall|_|
+w: |||||||
+ z G(A G/E/-) E2 | z z B B/B/- B2 |"F" A6- | A3 [Cc]3 |"Dm7" [Df]6 |"G7" z3 [Ee]3 ||1 %28
+w: in love _ _ _|I mean it _|Fall|_ in|love|a-|
+w: ||||||
+"C" [Dd]/[Cc]/- [Cc]2 [EG][FA][G_B] |"F" [FA]3 c3 |"C" z3 G,/A,/ G,2- |"G" G,3 (G/A/ G2) :|2 %32
+w: gain * * * * *||||
+w: ||||
+"C" c6 ||"F" [FA]3 c3 |"C" c6- | c6 |] %36
+w: gain.||||
+w: ||||
+V:2
+|: x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 || x6 | x6 | x6 | %19
+ x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 | x6 ||1 x6 | C2 G/A/- A3 | x6 | x6 :|2 x6 || C2 G/A/- A3 | %34
+ x6 | x6 |] %36
+

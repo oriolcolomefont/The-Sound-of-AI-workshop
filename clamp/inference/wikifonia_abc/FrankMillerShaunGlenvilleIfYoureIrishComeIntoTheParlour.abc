@@ -1,0 +1,31 @@
+X:1
+T:If You're Irish, Come Into The Parlour
+T:If your Irish come into the parlour
+T:Shaun  Glenville  and Frank Miller
+C:Frank Miller, Shaun Glenville
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z B2 A |"G" G3 D3 | D3 E3 | G6- | G2 z G2 A | B3 d3 |"Am7" cdc"D" B2 A |"G" G6- | %8
+w: In sweet|Lim- rick|Town they|say|* ~~lived a|chap named|Pat * rick John Mol-|loy|
+ G2 z"D" B2 A |"G" G3 D3 | D3 E3 | G6- | G3- G z B |"A7" A2 B ^c2 A | ^G2 A B2 ^c |"D7" d6- | %16
+w: * once he|sailed to|U. S.|A.|* * his|luck in for- eign|parts he thought he'd|try|
+ d3- ddd |"Am7" c3 E3 |"D" F3- F2 B |"Am7" A2 ^G"D7" A2 B |"G" =G3- G2 F |"Em" G2 G G2 G | %22
+w: * * now he's|made his|name * and|is a weal- thy|man * he|put a bit a-|
+"A7" GAG"F7" F2 E |"B" B6- | B3- B z B |"A7" ^c2 ^B =c2 A | =B3- B2 B |"D" B2 ^c B2 A | F3 F2 F | %29
+w: way for a rain- y|day|* * so|if you gaze up-|on * the|house of Pat- rick|John * you'll|
+"D" d6- |"D7" d2 z d2 c ||"G" B3 D3- | D2 D DED |"A7" ^C6 | A2 z A2 B |"D7" c3 d3 | B3 A3 | %37
+w: say|* if your|I- rish|* come in- to the|par-|lour theres a|wel- come|there for|
+"G" G6- | G2 z A2 B |"Am7" c6 |"D" E6 |"G" D2 ^C D2 G | B3- B z B |"D" AAA"F" A2 A | %44
+w: you|* If your|name|is|Tim- o- thy or|Pat * so|long as you come from|
+"A7" A2 B A2 G |"D" F2 D F2 A | d2 z"D7" d2 c |"G" B3 D3- | D2 D DED |"A7" ^C2 z4 | A2 z A2 B | %51
+w: Ire- land theres a|wel- come on the|mat If you|come from|* the moun- tains of|Mourne|* or Kil-|
+"D7" c3 d3 | B3 ^A3 |"G" B6- | B3- B z B | ddd dBd |"D7" c2 B A2 B |"G" ddd dBd |"D7" c2 B ABc | %59
+w: lar- neys|lakes so|blue|* * we'll|sing you a song and we'll|make a fuss who-|ev- er you are you are|one of us If youre|
+"G" d3 B3 |"Am7" cdc"D" B2 A |"G" G6- |"C" G3"G" z"^D.C." z2 |] %63
+w: I- rish|this is the place for|you.||
+

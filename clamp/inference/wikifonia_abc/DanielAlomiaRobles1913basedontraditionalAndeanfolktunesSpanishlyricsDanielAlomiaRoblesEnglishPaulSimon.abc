@@ -1,0 +1,33 @@
+X:1
+T:El Condor Pasa
+T:El Condor Pasa
+T:(If I could)
+T:Jorge Mitchberg and Daniel Robles
+T:Paul Simon
+C:Daniel Alomía Robles  1913 based on traditional Andean folk tunes
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z B, |:"Em" E ^D E ^F | G ^F G A |"G" B4- | B z d d | B4- | B z e d | B4 | z B A G | %9
+w: I'd|rath- er be a|spar- row than a|snail|* yes I|would|* if I|could|I sure- ly|
+w: |rath- er be a|for- est than a|street||||||
+"Em" A/G/ E3- | E z B2 | A/G/ E3- | E2 z B, | E ^D E ^F | G ^F G A |"G" B4- | B z e d | B4 | %18
+w: would * *|* Hmm||* I'd|rath- er be a|ham- mer than a|nail|* Yes I|would|
+w: |||* I'd|rath- er feel the|earth be- neath my|feet.|||
+ z e/d/ e d | e d B2- | B B A G |"Em" A/G/ E3- | E z B2 | A/G/ E3 | z2 z B |"C" e3 d | %26
+w: if I on- ly|could * *|* I sure- ly|would * *|* Hmm||A-|way I'd|
+w: ||||||||
+ e3/2 d/ e3/2 g/ | g3/2 ^f/ e2- | e2 g e |"G" d4 | z d e d | B4 | z2 z B |"C" e3 d | %34
+w: rath- er sail a-|way * *|* like a|swan|thats here and|gone|A|man gets|
+w: ||||||||
+ e3/2 d/ e3/2 d/ | e4 | z e g3/2 e/ |"G" d4 | z d e d | B4 | z B A G |"Em" A/G/ E3- | E2 B2 | %43
+w: tied up to the|ground|He gives the|world|its sad- dest|sound|its sad dest|sound * *||
+w: |||||||||
+ A/G/ E3- | E z G2 | E4- | E2 z B, :| %47
+w: ||||
+w: ||||
+

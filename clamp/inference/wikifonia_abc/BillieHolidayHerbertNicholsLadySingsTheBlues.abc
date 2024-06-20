@@ -1,0 +1,26 @@
+X:1
+T:Lady Sings The Blues
+T:Lady Sings The Blues
+C:Billie Holiday
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm6" e4- edcG |"Ab7" A4- AedA |"Cm6" =A4- AedA |"Cm7" B6 z2 |"Cmaj7" =B4- B=AG=E | %5
+w: La- * dy sings the|blues, _ she's got them|bad, _ she feels so|sad.|Wants _ the world to|
+"Fmaj7" =E4- E=B=A_E |"Cmaj7" =E^DEE-"A7b9" E4- |"Dm7" E6"G13" z2 |"Cm6" e4- edcG |"Ab7" A4- AedA | %10
+w: know _ what the blues|are all a- bout. _|_|La- * dy sings the|blues, _ she tells her|
+"Cm6" =A4- AedA |"Cm7" B6 z2 |"Cmaj7" =B4- B=AG=E |"Fmaj7" =E4- E=B=A_E |"Cmaj7" =E^DEE"A7b9" E4- | %15
+w: side, _ noth- ng to|hide.|Now _ the world will|know _ just what the|blues are all a- bout.|
+"Dm7" E6"G13" z _E |"C7" =E2 G2 =AGAG | BG=AG- G2 GA | BG=AG- G>E (3EGA | BG=AG- G3 _A | %20
+w: _ The|blues ain't noth- in' but a|pain in your heart. _ When you|get a bad start, _ when you and your|man have to part, _ she|
+"D7" =A2 =BA c2 BA | c2 =B=A z F (3^FAB | c4- c=Bc^c |"G7" d G3- G4 |"Cm6" e4- edcG | %25
+w: ain't gon- na just sit a-|round and cry. She knows she won't|die _ be- cause she|loves him. _|La- * dy sings the|
+"Ab7" A4- AedA |"Cm6" =A4- AedA |"Cm7" B6 z2 |"Cmaj7" =B4- B=AG=E |"Fmaj7" =E6 z _E | %30
+w: blues _ she's tell- in'|you _ she's got them|bad.|Now _ the world will|know, she's|
+"C" EG=AG"G7" BGAG- |"Cm7" G6"F9""G+7" G!fermata!e |"Cm6" !fermata!d6 z2 |] %33
+w: nev- er gon- na sing them no more,|_ no _|more.|
+

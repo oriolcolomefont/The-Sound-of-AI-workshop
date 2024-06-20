@@ -1,0 +1,36 @@
+X:1
+T:It Had To Be You
+T:It Had To Be You
+C:Isham Jones
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" d2 B2"Gmaj7" d2 B2 |"G7" dedB- B4 |"C6" A2 G2"Cm6" A2 G2 |"G" ABAG-"Em7" G4 |"A7" EGAB- B4 | %5
+w: Why do I do|just as you say, _|why must I just|give you your way? _|Why do I sigh, _|
+ EGAB-"D7" Bd B2 |"G""Cm6" G6"D+7" z2 |"G" z2 B2"D7" c2"Gdim" ^c2 |"G" d2 B2"Gmaj7" d2 B2 | %9
+w: why don't I try _ to for-|get?|It must have|been that some- thing|
+"G7" dedB- B4 |"C6" A2 G2"Cm6" A2 G2 |"G" ABAG-"Em7" G4 |"A7" EGAB- B4 | EGAB- Be B2 | A8- | %15
+w: lov- ers call fate, _|kept on say- ing|I had to wait. _|I saw them all, _|just could- n't fall _ 'til we|met.|
+"D7" A2"D+" D2 EDEF- |:"Gmaj7""D7" F8- | F2 F2"F9" GFG^G- |"E7""Bm" G8- |"E7" G2 ^G2 AGAB- | %20
+w: _ It had to be you,|_|* it had to be you,||* I wan- dered a- round|
+"A9" B3 G"Em7" A^GAB- |"A9" B3 G"Em7" A^GAB- |"A9""Em7" B8- |"A9" B2 A2 BABd- |"D7" d8- | %25
+w: * and fin- al- ly found|* the some- bod- y who||* could make me be true||
+ d2 B2"D#dim" ABAG- |"Em7""B7" G8- |"Em7" G2 G2"Bb7" GFGA- |"A7" A4"Em7" GFGA- |"A7" A4 BeBA- | %30
+w: * could make me be blue||* and ev- en be glad|* just to be sad|* think- ing of you.|
+"Am7" A8- |"D7" A2"D" D2"D+""D+" EDEF- |"G""Gmaj7""D+" F8- | F2 F2"F9" GFG^G- |"E7""Bm" G8- | %35
+w: |* Some oth- ers I've seen,||* might nev- er be mean||
+ G2 ^G2 AGA"A9"B- | B3 G"Em7" A^GAB- |"A9" B3 G"Em7" A^GAB- |"A9""Em7" B8- |"C#dim" B2 B2 Bcde- | %40
+w: * might nev- er be cross|* or try to be boss|* but they would- 'nt do||* For no- bod- y else|
+"Am" e4"C" EFGA- |"Adim7" A4"D7" ABcd- |"G" d4"D#dim" ABA"Em"G- | G2 F2"C#dim" EDEF- | %44
+w: * gave me a thrill|* with all your faults|* I love you still.|* It had to be you|
+"D7" F4"Abdim7" EDEF- |"D7" F4"Bm" BdBG- |"G""Bb7" G8 |"D7" z2 D2"D+" EDEF |"G""D7" G8- | %49
+w: * wond- er- ful you|* had to be you||It had to be you,|you.|
+"Gmaj7" G6 z2 |] %50
+w: _|
+

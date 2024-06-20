@@ -1,0 +1,37 @@
+X:1
+T:I Belong to Glasgow
+T:I Belong to Glasgow
+T:Will Fyffe
+C:Will FYffe (1920)
+Z:All Rights Reserved
+L:1/4
+Q:1/4=130
+M:3/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x2 E |"E" D D D |"A7" E D E |"D" F A2 |"D" d c d |"A7" e"G" d B |"D" A3 | A ^G A |"G" B _B =B | %9
+w: |Me and a|few o' my|cro- nies|one or two|pals o' my|ain|We went in-|to a ho-|
+w: There's|no wrong in|be- ing tee-|tot- al|or saving a|shill- ing or|two-|_ If your|mon- ey you|
+ E2 E/E/ |"Em" B _B =B |"E7" D2 D |"A" E A B |"E7" c B E |"A" A3- | A z z |"D" D D D |"A7" E D E | %18
+w: tel and we|did ve- ry|well- and|then we came|out once a-|gain|_|Then we went|in- to a-|
+w: spend Then you've|noth- ing to|lend Well|that's all the|bett- er for|you|_|Ther's no harmin|tak- ing a|
+"D" F A2 | z z A |"D" d c d |"A7" e"G" d B |"D" A3- | A A A |"E7" E E E | E F ^G |"F#m" A ^G A | %27
+w: noth- er|And|that is the|rea- son I'm|fu'|_ We had|six deoch and|do- rus and|then sang a|
+w: drop- pie|It|ends all your|trou- ble and|strife|_ _ It|gives- you the|feel- ing that|when you get|
+"Bm" B c d |"E7" c B A | B A ^G |"A" A3- | A z z |"D" D2 E |"A7" F2 G |"D" A d2- |"D7" d3 | %36
+w: cho- rus Just|lis- ten I'll|sing it to|you|_|I be-|long to|Glas- gow|_|
+w: home _ You|won't give a|hang for the|wife|_|||||
+"G" d2 e | d2 B |"D" A3- | A3 |"D" D z D | D E F | A2 B | c2 d |"E7" e2 ^d | e2 f |"A7" e3- | %47
+w: Dear old|Glas- gow|town|_|What's the|mat- ter wi'|Glas- gow|for it's|go- ing|round and|round|
+w: |||||||||||
+ e2 A |"D" d2 e | f e d |"A7" e2 c | B2 A |"G" B c d |"D" A2 F |"E7" E3- |"A7" E2 A |"D" d d d | %57
+w: _ I'm|on- lya|com- mon old|work- ing|chap as|an- y- one|here can|see|_ but|when I get|
+w: ||||||||||
+"G" d c B |"D" A B A | F G A |"E7" B c d |"A7" e2 d |"D" d3- | d3 |] %64
+w: a cou- pleo'|drinks on a|Sat- ur- day|Glas- gow be-|longs to|me.|_|
+w: |||||||
+

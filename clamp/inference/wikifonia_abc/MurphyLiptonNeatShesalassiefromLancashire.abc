@@ -1,0 +1,19 @@
+X:1
+T:She's a lassie from Lancashire
+T:Shes a lassie from Lancashire
+T:Murphy, Lipton, Neat
+C:Murphy, Lipton, Neat
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G2 A | B G E | D2 B, | D3 |"F" A,2 B, | C B, A, |"G" B,2 C | D3 | G2 A | B G E |"G" D2 B, | %11
+w: She's a|las- sie from|Lan- ca-|shire|just a|las- sie from|Lan- ca-|shire,|she's the|las- sie I|love so|
+ D3 |"A7" A,3 | A3 |"D" A3- | A3 |"G" G2 A | (B G) E | D2 B, | D3 |"D" A,2 B, | C B, A, | %22
+w: dear|Oh|so|dear||though shes|dress- ed in|clogs and|shawl|she's the|pret- ti- est|
+"G" B,2 C | D3 |"G" G B G |"D" A F D |"G" G B G |"D" A F D |"C" E E B |"D7" A2 B |"G" G3- | G3 |] %32
+w: of them|all|None could be|fair- er or|ra- rer than|Sa- rah, my|las- sie from|Lan- ca-|shire.||
+

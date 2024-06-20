@@ -1,0 +1,32 @@
+X:1
+T:Bendemeer's Stream
+T:Bendemeer's Stream
+T:The Mountains Of Mourne
+T:Traditional
+T:Thomas Moore
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"D7" D/D/ |"G" D B B |"B7" B B A | A"Em" G G |"A7" G2 F/E/ |"D7" E D D | D E F |"G" A3/2 G/ G | %8
+w: There's a|bow- er of|ros- es by|Ben- de- meer's|Stream, And the|night- in- gale|sings round it|all the day|
+w: Now the|ros- es soon|with- ered that|hung o'er the|wave, But some|blos- soms were|gath- ered while|fresh- ly they|
+ G2"D7" D/D/ |"G" D B B |"B7" B B A | A"Em" G"Em7" G |"A7" G2 F/E/ |"D7" E D D | D E F |"G" A G G | %16
+w: long; In the|time of my|child- hood 'twas|like a sweet|dream, To *|sit mid the|ros- es and|hear the bird's|
+w: shone, And a|dew was dist-|illed from the|flow- ers that|gave, All the|frag- rance of|sum- mer when|sum- mer had|
+ G2 D |"D7" D c c |"D9/F#" c c c | c"G""Gdim" B3/2 ^A/ |"G" B2 D | D G B |"E7" d2"A9/C#" B/B/ | %23
+w: song. That|bow'r and it's|mu- sic I|nev- er for-|get, But|oft when a-|lone in the|
+w: gone. Thus|mem- o- ry|draws from de-|light 'ere it|dies, An|ess- ence that|breaths of it|
+"A7" B A G |"D7" A2 D |"G" D B B |"B7" B B A | A"Em" G"Em7" G |"A7" G2 F/E/ |"D7" E D D | D E F | %31
+w: bloom of the|year, I|think, "Is the|night- in- gale|sing- ing there|yet? Are the|ros- es still|bright by the|
+w: ma- ny a|year, Thus|dear to my|soul as 'twas|then to my|eyes Is that|bow'r by the|banks of the|
+"G" A G"Cm" G |"G" G2 z |] %33
+w: calm Ben- de-|meer?"|
+w: calm Ben- de-|meer.|
+

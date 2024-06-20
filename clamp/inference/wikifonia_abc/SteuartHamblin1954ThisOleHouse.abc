@@ -1,0 +1,35 @@
+X:1
+T:This Ole House
+T:This Ole House
+T:Steuart Hamblin, 1954
+C:Steuart Hamblin 1954
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+"Ebmaj7" z4 |"Fm7" z4 |"Gm7" z4 |"Fm7" z2 G B |"Eb" E E E E |"Eb7" E E F G |"Ab" A A A A | A2 A A | %8
+w: |||This ole|house once knew his|chil- dren this ole|house once knew his|wife this ole|
+"Bb" B B B B | B B B G |"Eb" E E"Ab" E C |"Eb" E2 G B | E E E E | E E F G |"Ab" A A A A | A2 A A | %16
+w: house was home and|com- fort as they|fought the storms of|life this ole|house once rang with|laugh- ter this ole|house heard man- y|shouts now he|
+"Bb7" B B B B | B B B B | B A G F |"Eb" E2 z2 || z2 E/E/G/G/ |"Ab" A A A A | c e e/e/c/c/ | %23
+w: trem- bles in the|dark- ness when the|light- nin walks a-|bout|Ain't a gon- na|need this house no|long- er ain't a- gon- na|
+"Eb" B B B c | E2 B B |"Bb7" B3/2 B/ B A | F F c c |"Eb" c3/2 B/ c B | G2 e e |"Ab" c3/2 B/ c A | %30
+w: need this house no|more Ain't got|time to fix the|shin- gles ain't got|time to fix the|floor ain't got|time to oil the|
+ E A A c |"Eb" c B B E | G2 B B/B/ |"Bb7" B B B B | B B B/B/B/B/ | B/ B c/ G F |"Eb" E3 z | %37
+w: hin- ges not to|mend no win- dow|panes Ain't gon- na|need this house no|long- er I'm a get- tin|rea- dy to meet the|saints|
+ z2 G B |"Eb" E E E E |"Eb7" E E F G |"Ab" A A A A | A2 A A |"Bb" B B B B | B B B G | %44
+w: This ole|house once knew his|chil- dren this ole|house once knew his|wife this ole|house was home and|com- fort as they|
+"Eb" E E"Ab" E C |"Eb" E2 G B | E E E E | E E F G |"Ab" A A A A | A2 A A |"Bb7" B B B B | B B B B | %52
+w: fought the storms of|life this ole|house once rang with|laugh- ter this ole|house heard man- y|shouts now he|trem- bles in the|dark- ness when the|
+ B A G F |"Eb" E2 z2 || z2 E/E/G/G/ |"Ab" A A A A | c e e/e/c/c/ |"Eb" B B B c | E2 B B | %59
+w: light- nin walks a-|bout|Ain't a gon- na|need this house no|long- er ain't a- gon- na|need this house no|more Ain't got|
+"Bb7" B3/2 B/ B A | F F c c |"Eb" c3/2 B/ c B | G2 e e |"Ab" c3/2 B/ c A | E A A c |"Eb" c B B E | %66
+w: time to fix the|shin- gles ain't got|time to fix the|floor ain't got|time to oil the|hin- ges not to|mend no win- dow|
+ G2 B B/B/ |"Bb7" B B B B | B B B/B/B/B/ | B/ B c/ G F |"Eb" E4 |[M:4/4] z4 | z4 | z4 | z4 |] %75
+w: panes Ain't gon- na|need this house no|long- er I'm a get- tin|rea- dy to meet the|saints|||||
+

@@ -1,0 +1,19 @@
+X:1
+T:A cigányok sátora
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"C" c B c d | e c G z |S"C" G/F/E/G/ c z |"G" B/G/A/B/"C" c z!fine! :|"C" e e e e |"G" d d g z | %6
+w: A ci- gá- nyok|sá- to- ra|la- di- la- di- lom,|sár- ga li- li- om,|Én a vaj- dát|nem bá- nom,|
+w: Le- é- gett az|éj- sza- ka,|la- di- la- di- lom,|sár- ga li- li- om.|||
+ d d ^c d |"C" e c G z |"C" c A/B/ c A/B/ | c A/B/ c A/B/ |"G" c A G z | c A G z!D.S.! |] %12
+w: csak a lá- nyát-|saj- ná- lom,|Õ volt- _ né- kem a|zim- ber- i zom- bo- ri|szép asz- szony,|jó asz- szony,|
+w: ||||||
+

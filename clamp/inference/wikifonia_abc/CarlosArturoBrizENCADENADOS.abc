@@ -1,0 +1,41 @@
+X:1
+T:ENCADENADOS
+T:ENCADENADOS
+T:Carlos Arturo Briz
+T: 
+C:Carlos Arturo Briz
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+"Cm6/Eb" d2 (3c=Bc"D7" =fedc |"Gm" d2 (3BAB"C7" _e_dcB |"F" A3 B"Eb7" G2 cB |"D7/C" AG ^F4 z G || %4
+w: |||* * * Tal|
+"Cm/G" AGAG AGAG |"Gm/D" G2 D4 z G |"Cm" AGAG AGAG |"Gm/D" G2 D4 z c |"Am7b5" dcdc"D7" dcdc | %9
+w: vez se- r’a me- jor que no vol-|vie- ras Qui-|z‡s fue- ra me- jor que me'ol- vi-|da- ras Vol-|ver es em- pe- zar a'a- tor- men-|
+"Gm/D" cBcB"Gm7/F" cBcB |"A7/E" BAAA"Eb7/Db" AG^FG |"D7" A6 z G |"Cm" AGAG AGAG |"Gm/D" G2 D4 z G | %14
+w: tar- nos A que- rer- nos pa- ra'o-|diar- nos Sin prin- ci- pio ni fi-|nal Nos|he- mos he- cho tan- to, tan- to|da- –o Que'a-|
+"F7" AGAG AGAG |"Bb" G2 D4 z c |"Am7b5" dcdc"D7/C" dcdc |"Gm" cBcB"Gm7/F" cBcB | %18
+w: mor en- tre no- so- tros, es mar-|ti- rio Ja-|m‡s qui- so lle- gar el de- sen-|ga- –o Ni'el ol- vi- do, ni'el de-|
+"Eb9" BABA"D7" BABA |"Gm" G4 z3 G |:"Cm7" GFFA"F7" Acce |"Bb" e2 d4 z G |"Cm7" GFFA"F7" Acce | %23
+w: li- rio Se- gui- re- mos siem- pre'i-|gual Ca-|ri- –o co- mo'el nues- tro'es un cas-|ti- go Que|se lle- va'en el al- ma'has- ta la|
+"Bb/D" e2 d4 z d |"Am7b5" dcce"D7" eddc |"Gm/Bb" c2"Gm7" B4 z B |"A7/E" cAAA"Eb7/Db" AG^FG | %27
+w: muer- te Mi|suer- te ne- ce- si- ta de tu|suer- te Y|tœ me ne- ce- si- tas mu- cho|
+"D7" A6 z G ||"Cm" AGAG AGAG |"Gm" G2 D4 z G |"F7" AGAG AGAG |"Bb" G2 D4 z d | %32
+w: m‡s Por|e- so no'ha- br‡ nun- ca des- pe-|di- da Ni|paz al- gu- na'ha- br‡ de con- so-|lar- nos El|
+"Am7b5" dcce"D7/C" eddc |"Gm" cBBd"Gm7/F" dccB |"Eb9" BAcd"D7" BAG^F |1"Gm" G6 z2 :|2"Gm" G8- || %37
+w: pa- so del do- lor, ha de'en- con-|trar- nos De ro- di- llas en la|vi- da Fren- te'a fren- te'y na- da|m‡s||
+"Eb7" G z AB"Ab/C" cdec |"G" d8 | !fermata!d6 z2 |] %40
+w: * Fren- te'a fren- te'y na- da|m‡s|_|
+V:2
+ x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 |1 x8 :|2 x8 || %37
+ x8 | z2 a=b ^fae=f | x8 |] %40
+

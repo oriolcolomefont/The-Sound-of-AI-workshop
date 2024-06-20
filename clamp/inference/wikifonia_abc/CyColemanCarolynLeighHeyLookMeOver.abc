@@ -1,0 +1,29 @@
+X:1
+T:Hey, Look Me Over
+T:Hey look me over
+T:Cy Coleman
+T:Carolyn Leigh
+C:Cy Coleman
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" D3 B2 ^A | B3 D3 |"B7" ^D3 B2 ^A |"D" B6 |"E7" E3 B2 ^A | B3 c3 |"Am" B2 =A A2 ^G | %7
+w: Hey look me|o- ver|lend me an|ear|fresh out of|clo- ver|mort- gaged up to|
+w: |||||||
+ A3- A z ^C |"D7" D3 A2 ^G |"F" A3"D7" D3 |"G" D3 B2 ^A |"E7" B3- B2 E |"A7" AAA A_AG | %13
+w: here * but|dont pass the|plate folks|dont pass the|cup * I|fig- ure when- ev- er you're|
+w: ||||||
+ F2 =F E2 _E |"D7" D2 ^D =E2 =F | ^F2 =F E2 _E |"G" D3 B2 ^A | B3 D3 |"B7" ^D3 B2 ^A |"D" B6 | %20
+w: down and out the|on- ly way is|up and I'll be|up like a|rose- bud|high on the|vine|
+w: |||||||
+"E7" E3 B2 ^A | B3 c3 |"Am" B2 =A A2 ^G | A2 z B2 c |"Cm" ddd d_dc |"F" B2 _B A2 _A | %26
+w: don't thumb your|nose bud|take a tip from|mine I'm a|lit- tle bit short of the|el- bow room but|
+w: ||||||
+"C" G2 ^G =A2 ^A |"E7" =B3 c2 d |"Am7" e3 e3 |"D7" B3 B3 |1"G" G6 || z6 :|2 G6- || G3- G2 z |] %34
+w: let me get me|some and look|out world|here I|come.||||
+w: |* hear me|shout *||||||
+

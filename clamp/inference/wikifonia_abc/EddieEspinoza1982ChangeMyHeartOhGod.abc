@@ -1,0 +1,32 @@
+X:1
+T:Change My Heart Oh God
+T:Change My Heart Oh God
+T:Eddie Espinoza, 1982
+T:Prayerfully
+C:Eddie Espinoza 1982
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z2 z2"Am7" z2 z2 |"Dm7" z2 z2 z2 z2 |"G7" z2 z2 z2 z2 |"F/C" z2 z2 z2 z2 |: %4
+w: ||||
+"C" z2 EF"Fm7" G A2 F- |"Dm7" F8 |"G" z2 DE"F/G" F"G" G2 E- |"C" E8 |"Am7" z2 EF G A2"Dm7" F- | %9
+w: Change my Heart Oh God|_|make it ev er true|_|change my heart oh God|
+ F8 |"G7" z2 FE D E2"C" C- | C8 ||"Esus4" z4"E" (3^G2"Esus4/F#" A2"F/G#" B2 |"Am" c3 B A4 | %14
+w: _|may I be like you|_|you are the|pot _ ter|
+"Dm7" z2 A2"G7" G2 AE- |"C" E8 |"Esus4" z4"E" (3^G2"Esus4/F#" A2"F/G#" B2 |"Am" c3 B"Am/G" A4 | %18
+w: I am the clay|_|mold me and|make _ me|
+"C/D" z2 AA G2"D7" ^F2 |"Gsus4" G4-"G" G4 |"C" z2 EF"Em7" G A2 F- |"Dm7" F8 | %22
+w: this is what I|pray _|change my heart oh God|_|
+"G" z2 DE"F/G" F"G" G2 E- |"C" E8 |"Am7" z2 EF G A2 F- |"Dm7" F8 |1,2"G7" z2 FE D E2 C- | %27
+w: make it ev er true|_|change my heart oh God|_|may i be like You|
+"F/C" C8 :|3 z2"G7" FE D E2 C- ||"F/C" C8 |"G7" z2 FE D E2 C- |"F/C" C8 |"G7" z2 FE D E2 C- | %33
+w: _|may I be like you|_|make it more like you|_|make it more like you|
+"F/C" C8 |"G7" z2 FE D E2 c- |"C" c8 | z8 | z8 | z8 |] %39
+w: _|make it more like you|_||||
+

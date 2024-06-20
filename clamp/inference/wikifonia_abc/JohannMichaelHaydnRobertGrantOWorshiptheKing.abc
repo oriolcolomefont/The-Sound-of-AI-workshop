@@ -1,0 +1,28 @@
+X:1
+T:O Worship the King
+T:O Worship the King
+T:Johann Michael Haydn
+T:Robert Grant
+T:Public Domain
+C:Johann Michael Haydn
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:3/4
+K:A
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^120" E |"A" A A B | c2 A |"D" d d c |"E" B2 E |"A" A A B | c2 d |"E" (e/>d/) c B |"A" A2 E | %9
+w: 1.~O~~~|wor- ship the|King, all|glo- rious a-|bove, And|grate- ful- ly|sing His|won- * der ful|love. Our|
+w: 2.~O~~~|tell of His|might, and|sing of His|grace, Whose|robe is the|light, whose|can- * o- py|space. His|
+w: 3.~Thy|boun- ti- ful|care, what|tongue can re-|cite? It|breathes in the|air, it|shines * in the|light. It|
+w: 4.~Frail|chil- dren of|dust, And|fee- ble as|frail, In|Thee do we|trust,, nor|find * Thee to|fail. Thy|
+"E" E E F |"E7" G G A | B B c | d2 E |"A" A A B |"F#m" c c d |"E" (e/>d/) c B |"A" A2 |] %17
+w: shield and De-|fend- er, the|An- cient of|Days, Pa|vil- ioned in|splen- dor and|gird- * ed with|praise.|
+w: char- iots of|wrath the deep|thun- der clouds|form, And|dark is His|path on the|wings * of the|storm.|
+w: streams from the|hills, it de-|scends to the|plains, And|sweet- ly dis-|tills in the|dew * and the|rain.|
+w: mer- cies, how|ten- der, how|firm to the|end! Our|Ma,- ker, De-|fen- der, Re-|deem- * er and|Friend!|
+

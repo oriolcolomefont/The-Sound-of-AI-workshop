@@ -1,0 +1,22 @@
+X:1
+T:Music Box Dancer
+T:Music Box Dancer
+T:1974 pop hit by Canadian composer Frank Mills
+T:Frank Mills
+T:Peter Piper Music Ltd (1979) from North Country Music Ltd. (1974)
+C:Frank Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ (c |"C" (c)Gce cegc |"F" c'ba(g"C" g4)) |"G7" (gfdB GBdf |"C" eca(g g2)) z (c | (c)Gce cegc | %6
+"F" c'ba(g"C" g4)) |"G7" (gfdB GBdB |"C" cGe(c c4)) |"F" (c'afc Acfa |"C" gca(g g4)) | %11
+"G7" (gfdB GBdf |"C" eca(g g4)) |"F" (c'afc Acfa |"C" gca(g g4)) |"G7" (gfdB GBdB | %16
+"C" cGe(c c2)) z (c | (c)Gce cegc |"F" c'ba(g"C" g4)) |"G7" (gfdB GBdf |"C" eca(g g2)) z (c | %21
+ (c)Gce cegc |"F" c'ba(g"C" g4)) |"G7" (gfdB GBdB |"C" cGe(c c2)) z |] %25
+

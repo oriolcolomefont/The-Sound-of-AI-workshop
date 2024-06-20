@@ -1,0 +1,36 @@
+X:1
+T:Do You Hear What I Hear
+T:Do You Hear What I Hear
+C:Gloria Shayne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"C" z4 z2 CD |: E-E E2 EE"Gm7"DD |"C" E6 z2 | CCGG c2 G2- |"C" G4 z4 | EEEE E2"Gm7" DD |"C" E6 z2 | %7
+w: Said the|night * wind to the lit- tle|lamb,|"Do you see what I see?|_|Way up in the sky lit- tle|lamb,|
+w: |lit tle lamb to the shep- herd|boy,|"Do ~~~you hear what I hear?|_|Ring- ing thru the sky shep- herd|boy,|
+w: |shep- herd boy to the might- y|king,|"Do you know what I know?|_|In your pal- ace warm might- y|king,|
+ CCGG c2 G2- | G4 z2 z G |"Am" A3 E E4 |"Em" GAGF E2 ED |"F" C2 C2"G" D2"F" CD | %12
+w: do you see what I see?|_ A|star, a star,|danc- ing in the night, with a|tail as big as a|
+w: do you hear what I hear?|_ A|song, a song,|high a- bove the trees, with a|voice as big as the|
+w: do you know what I know?|_ A|Child, a Child,|shiv- ers in the cold, Let us|bring him sil- ver and|
+"E" E4"Am" z2"G" ED |"F" C2 C2"Dm7" F2 ED |1"C" C6 z2 ||2 z4 z2 CD :|3"C" C6 z2 || z4 z2 CD | %18
+w: kite, with a|tail as big as a|kite."|2.~Said the|gold."|4.~Said the|
+w: sea, with a|voice as big as the|sea."|3.~Said the|||
+w: gold, Let us||||||
+"C" E2 E2 EE"Gm7"DD |"C" E6 z2 | CCGG c2 G2- | G4 z4 | EEEE E2"Gm7" DD |"C" E6 z2 | %24
+w: king to the peo- ple ev'ry-|where,|"Lis- ten to what I say!|_|Pray for peace peo- ple ev- 'ry|where,|
+w: ||||||
+w: ||||||
+"C" CCGG c2 G2- | G4 z2 z G |"Am" A3 E E4 |"Em" GAGF E2 ED |"F" C2 C2"G" D2"F" CD | %29
+w: Lis- ten to what I say!|_ The|Child, the Child,|sleep- ing in the night, He will|bring us good- ness and|
+w: |||||
+w: |||||
+"E" E4"Am" z2"G" ED |"F" C4 C4 |"Dm7" F2 E2"G7" z2 D2 |"C""Gm7" C8- |"C" C6 z2 |] %34
+w: light, He will|bring us|good- ness and|light.|_|
+w: |||||
+w: |||||
+

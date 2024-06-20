@@ -1,0 +1,24 @@
+X:1
+T:Ma premiere Guitare
+T:Ma premiere Guitare
+T:Sacha Distel
+T: 
+C:Sacha Distel
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Amin
+V:1 treble transpose=-12 nm="MusicXML Part"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Am6" efef- f4 | efef- f4 | z e c'b a3 e |"Bmaj7b5" g2 ^f=f- f2 z2 |"E7" dede- e4 | dede- e4 | %6
+"Fdim" z d ba"E7" ^g2 d2 |"Am6" d2 ce-"Ddim" e2"Fdim" z2 ||"Am6" efef- f4 | efef- f4 | %10
+ z e c'b a3 e |"Bmaj7b5" g2 ^f=f- f2 z2 |"E7" dede- e4 | dede- e4 |"E7" z d ba"Fdim" ^g2 b2 | %15
+"Am6" ba a2 z4 ||"A7" a2 ^g2 a2 g2 | a2 ^ga- a4 | a2 _b2 a2 e2 |"Bm7b5" g2 ^ff- f4 | %20
+"B7" c'2 b2 c'2 b2 | c'2 b2 c'2 d'2 |"E7" bb z b3 z z | c'2 bb z b2 z ||"Am6" efef- f4 | efef- f4 | %26
+ z e c'b a3 e |"Bmaj7b5" g2 ^f=f- f2 z2 |"E7" dede- e4 | dede- e4 |"Ddim" z d ba"Fdim" ^g2 b2 | %31
+"Am6" ba a2"E7" z4 |] %32
+

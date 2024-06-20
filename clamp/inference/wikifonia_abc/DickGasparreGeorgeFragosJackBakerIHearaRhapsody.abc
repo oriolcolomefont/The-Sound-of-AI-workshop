@@ -1,0 +1,30 @@
+X:1
+T:I Hear a Rhapsody
+C:Dick Gasparre, George Fragos, Jack Baker
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"G" G =A =B ||"Cm9" d3/2 c/"Gb" e2- |"Fm7" e2"Bb7b9" d2 |"Ebmaj7" (3B G A"Ab9" B2- | %4
+w: And when I|hear you call|* so|soft\- ly to me,|
+"Gm7b5" B G"C7b9" (3G A B |"Fm7" B3/2 A/"Abm7" _c2- |"Bm7" c D"Bb7" D D | %7
+w: * I don't hear a|call at all,|* I hear a|
+"Ebmaj7" F3/2 E/"A7#11" (E2 |"Dm7b5" E) G"G9" =A =B |"Cm9" d3/2 c/"Gb" e2- |"Fm7" e2"Bb7b9" d2 | %11
+w: rhap\- so\- dy.|* And when your|spark\- ling eyes|* are|
+"Ebmaj7" (3B G A"Ab9" B2- |"Gm7b5" B G"C7b9" (3G A B |"Fm7" B3/2 A/"Abm7" _c2- | %14
+w: smil\- ing at me,|* then soft through the|star\- lit skies|
+"Bm7" c D"Bb7" D D |"Ebmaj9" F3/2 E/"Bbm11" E2- |"Am7b5" E2"D7b9" z2 ||"Gm7" z D (3D D D | %18
+w: * I hear a|rhap\- so\- dy.||My days are so|
+"Cm7" E3 C |"D7b9" E3/2 D/"Gm7" D2- |"F7b9""Cm9" D4 |"Bbmaj7" z F (3F F F |"Fm7" A3 F | %23
+w: blue when|you're a\- way.||My heart longs for|you, so|
+"Dm7b5" c3/2 =B/"G7" B2- | B G =A =B ||"Cm9" d3/2 c/"Gb" e2- |"Fm7" e2"Bb7b9" d2 | %27
+w: won't you stay?|* My dar\- ling,|hold me tight|* and|
+"Ebmaj7" (3B G A"Ab9" B2- |"Gm7b5" B G (3G A B |"Fm7" B3/2 A/"Abm7" _c2- |"Bm7" c D"Bb7" D D | %31
+w: whis\- per to me.|* Then soft through a|star\- ry night|* I hear a|
+"Ebmaj9" F3/2 E/ (E2 | E) z z2 |] %33
+w: rhap\- so\- dy.||
+

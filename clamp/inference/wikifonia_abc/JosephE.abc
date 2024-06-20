@@ -1,0 +1,22 @@
+X:1
+T:I Wonder Who's Kissing Her Now
+T:I wonder who's kissing her now
+T:Jos. E. Howard
+T:Hough and Adams
+C:Joseph E. Howard, Harold Orlob
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 D |"G" B d B |"D7" A d A |"G" G3 |"G" z3 |"G" G B G |"B" F B F |"C" E3 |"E7" z3 |"Am" c e c | %10
+w: I|won- der who's|kiss- ing her|now||won- der who's|teach- ing her|how||won- der who's|
+"E7" B d B |"A7" A2 G | E3 |"Em" B2 ^A |"A7" A3 |"D7" e2 _e | d2 D |"G" B d B |"D7" A d A |"G" G3 | %20
+w: look- ing in-|to her|eyes|breath- ing|sighs!|tell- ing|lies! I|won- der who's|buy- ing the|wine|
+"G" z z D | G B G |"B" F B F |"C" E3 |"E7" z3 |"Am" E F G |"C" A G A |"G" B d f |"E7" e2 B | %29
+w: for|lips that I|used to call|mine||Won- der if|she ev- er|tells him of|me I|
+"Am" d c E |"D7" B A d |"G" G3- | G3 |] %33
+w: won- der who's|kiss- ing her|now.||
+

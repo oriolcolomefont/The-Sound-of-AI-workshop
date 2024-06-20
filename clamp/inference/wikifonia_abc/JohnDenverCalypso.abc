@@ -1,0 +1,37 @@
+X:1
+T:Calypso
+T:Calypso
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ D |:"G" B2 A/G/ | D2 D/D/ | B c d | c B3/2 D/ | D G A | B B c | d c B |"Am" A3- | A z B | %10
+w: To|sail on a|dream with a|crys- tal clear|o- cean, to|ride on the|crest of the|wild rag- ing|storm,|_ To|
+w: |dol- phin who|guides you, You|bring us be-|side you To|light up the|dark- ness and|show us the|way,|_ For|
+"G" B A A | D D D | B c d | c B3/2 D/ | B c d | c B c | d c B |"Am" A G2- | G B B |"G" B A G | %20
+w: work in the|ser- vice of|life and li-|ving * in|search of the|an- swers to|quest- ions un-|known *|* To be|part of the|
+w: though we are|stran- gers in|your si- lent|world * To|live on the|land we must|learn from the|sea. *|* To be|* true as|
+ D D3/2 D/ | B c d | c B2 | B c d | c B2 | B c B |"Dm" d3- | d3 |"C" c2 c | c B A |"G" G A B | %31
+w: move- ment and|part of the|grow- ing,|part of be-|gin- ning|to un- der-|stand|_|Aye, Ca-|lyp- so The|pla- ces- you've|
+w: the tide, And|free as a|wind- swell,|Joy- ful and|lov- ing|in let- ing|it~be|_||||
+ c B3/2 G/ |"C" c d e |"G" d c B |"D" A A A |"G" B3 |"C" e2 e | e d c |"G" B A B | c B3/2 B/ | %40
+w: been to The|things that you've|shown us the|sto- ries you|tell|Aye Ca-|lyp so I|sing to your|spi- rit The|
+w: |||||||||
+"C" c d e |"G" d c B |"D7" c B A |"G" G2 B/c/ |"D" d z2 | a3 |"C" g ^f e |"G" d2 B/c/ |"D" d3 | %49
+w: men who have|served you so|long and so|well Hi- dee-|ay-|ee-|ooo- * *|* do- die|oh-|
+w: |||||||||
+ a2 b |"C" c' b a |"G" g2 B/c/ |"D" d3 | a2 b |"C" c' b a |"G" b2 B/c/ |"D" d3 | a3 |"C" g3- | g3 | %60
+w: ooo- do-|do- do- do-|* do- die|ay-||||||||
+w: |||||||||||
+ z B B ||"D" d3 | a2 b |"C" c' b a |"G" g2 B/c/ |"D" d3 | a2 b |"C" c' b a |"G" b2 B/c/ |"D" d3 | %70
+w: like the|ay-|ee- *||* do- die-|ay-|ee- *||* do- die-|ee.-|
+w: ||||||||||
+ a2 b |"C" c' b a |"G" g2 B/c/ |"D" d3 | a3 |"C" g3- | g3- |1"G" g2 B/c/ :|2"G" g2 z |] %79
+w: |||||||* Hi- dee-||
+w: |||||||||
+

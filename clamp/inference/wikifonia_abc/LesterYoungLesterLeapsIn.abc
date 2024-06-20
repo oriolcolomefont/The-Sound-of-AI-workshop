@@ -1,0 +1,27 @@
+X:1
+T:Lester Leaps In
+T:Lester Leaps In
+T:Lester Young
+T:©
+T: 
+T:Lester Leaps In
+T:2
+C:Lester Young
+Z:All Rights Reserved
+L:1/8
+Q:1/4=200
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F G2 |:"Bb6" B4"Gm7" B4 |"Cm7" B2 BB"F7" d2 f2 |"Dm7" B3"Gm7" G3 z2 |"Cm7" z4"F7" z F G2 | %5
+"Bb6" B4"Gm7" B4 |"Cm7" B2 BB"F7" d2 f2 |"Bb7" B4 z4 |"C13" z4"F13b9" z F G2 |"Bb6" B4"Gm7" B4 | %10
+"Cm7" B2 BB"F7" d2 f2 |"Dm7" B3"Gm7" G3 z2 |"Cm7" z4"F7" z F G2 |"Bb6" B4"Gm7" B4 | %14
+"Cm7" B2 BB"F7" d2 f2 |"Bb6" B4"Bb6/B" z4 |"Bb6/C""Bb6/C#" z8 ||"D7" z8 | z8 |"G7" z8 | z8 | %21
+"C7" z8 | z8 |"F7" z8 | z4 z F G2 ||"Bb6" B4"Gm7" B4 |"Cm7" B2 BB"F7" d2 f2 |"Dm7" B3"Gm7" G3 z2 | %28
+"Cm7" z4"F7" z F G2 |"Bb6" B4"Gm7" B4 |"Cm7" B2 BB"F7" d2 f2 |"Bb7" B4 z4 | %32
+"C13" z4"F13b9" z F G2 :| %33
+

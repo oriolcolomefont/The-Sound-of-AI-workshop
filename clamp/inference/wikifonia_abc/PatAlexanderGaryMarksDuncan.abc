@@ -1,0 +1,25 @@
+X:1
+T:Duncan
+T:Duncan
+T:Pat Alexander
+C:Pat Alexander
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 z =F |:"D" ^FDDD B,2 B,2 | B,2 A,2 z2 z =F | ^FDDD B,2 =C2 |"A7" ^C2 z4 z C | C2 E2 B,3 C | %6
+w: I|love to have a beer with|Dun- can I|love to have a beer with|Dunc we|drink in mod- er-|
+w: |love to have a beer with|Kev- in I|love to have a beer with|Kev we|drink in mod- er-|
+w: |love to have a beer with|Rob- ert I|love to have a beer with|Bob we|drink in mod- er-|
+ B,2 A,4 CC | CCCC CC C2 |"G" B,2 C2"D" A,2 =F2 | ^F2 AF D2 F2 | B,2 A,4 FF |"D7" F2 D2 E2 F2 | %12
+w: a- tion and we|nev- er ev- er ev- er get|roll- ing drunk we|drink at the "Town and|Coun- try where the|at- mos- phere is|
+w: a- tion and he|drives * me home in * his|big old Chev *||||
+w: a- tion just one|more * and * hes * back|on the job *||||
+"G" G3 z4 F |"G" GFGF G2 F2 |"Em" E2 G4 ^G2 |"A7" A2 F4 E2 |"D" D3 z D2 z =F :| %17
+w: great I|love to have a drink with|Dun- can cause|Dun- cans me|mate Yeah I|
+w: ||Kev- in *|Kev- ins *||
+w: ||Rob- ert *|Rob- erts *||
+

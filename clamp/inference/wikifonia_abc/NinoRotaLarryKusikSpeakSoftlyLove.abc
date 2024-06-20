@@ -1,0 +1,24 @@
+X:1
+T:Speak Softly Love
+T:Speak Softly Love
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm" z4"Fm6/C" z Gce |:"Cm" dcec"Fm/C" dcAB |"Cm" G4 z Gce | dcec"Cm/Eb" dcG_G |"Fm" F4 z FA=B | %5
+w: Speak soft- ly|love, and hold me warm a- gainst your|heart. I feel your|words, the ten- der, trem- bling mo- ments|start. We're in a|
+ d4- dFA=B |"Cm" c4 z CE_B |"Cm/G" AGBA"G7sus4" AG"G7"G=B, |"Cm" C4 z cc_c | %9
+w: world _ our ver- y|own, shar- ing a|love that on- ly few have ev- er|known. Wine col- ored|
+"Bb7/D" B4"Bb7" d2 ^cA |"Eb" G4 z GBG |"Db/F" F4-"Fm6/Ab" FFA^F |"G" G4 z"^N.C" Gce | %13
+w: days warmed by the|sun, deep vel- vet|nights _ when we are|one. Speak soft- ly|
+"Cm" dcec"Fm/C" dcAB |"Cm" G4 z Gce | dcec"Fm/C" dc"Cm"G_G |"Fm6/C""Cm" F4"Fm/C" z FA=B | %17
+w: love, so no one hears us but the|sky. The vows of|love we make will live un- til we|die. My life is|
+"Fm" d4- dFA=B |"Cm" c4 z CE_B |"Cm/G" AGBA"G7sus4" AG"G7"G=B |1"Cm" c4 z Gce :|2 %21
+w: yours _ and all be-|cause you came in-|to my world with love so soft- ly|love. Speak soft- ly|
+"Cm" !fermata!c8 |] %22
+w: love.|
+

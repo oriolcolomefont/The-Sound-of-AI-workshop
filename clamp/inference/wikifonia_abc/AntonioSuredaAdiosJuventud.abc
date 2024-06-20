@@ -1,0 +1,28 @@
+X:1
+T:Adios Juventud
+T:Adios Juventud
+T:Antonio Sureda
+T:Vals
+C:Antonio Sureda
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:3/4
+K:Eb
+V:1 treble nm="Vals"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z G =A=B cd |:"Cm""^A" ed c=B c2 | z =B cd ed | c=B cA G2 | z G AG ^FG |"C7" c=B c_d c2 | %6
+ z =B c_d c_B |"Fm" AG FG A2 | z F GA GF | cA AG F2 | z F GA GF |"Cm" cGGF E2 | z E FG FE | %13
+"G7" d2 =B2 G2 | F2 E2 D2 |"Dm" G6- | GG =A=B cd :|"Cm" C6- | C2 z2 z2 ||[K:C]"C""^B" e2 d3 c | %20
+ B2 d3 c |"Dm" B2 A3 ^G | A4 z2 |"G7" d2 c3 B | A2 c3 B |"C" A2 G3 ^F | G4 z2 | c2 B2 A2 | %28
+ G2 B3 A |"Dm" G2 F3 E | F4 z2 |"G7" G2 F3 E | F4 z2 |"C" F2 E3 ^D | E4 z2 :| F4 B,2 |"C" C6- | %37
+ C2 z2 z2 |]"C""^BANDONEON VARIACION over B" e_e dc GE | d_d cG FE |"Cm" B_B AF E_E | %41
+ D(=E F)^G A^c |"G7" d_d cB AF | cB AF ED |"C" A=A GE D_D | C(^D E)(^F G)B | cA GE DC | BA GE D^C | %48
+"Dm" G_G FE DE | FA de f2 |"G7" BA GF E_E | DG Bd f2 |"C" AG FE D_D | CE Gc d^d |"C" e_e dc GE | %55
+ d_d cG FE |"Dm" B_B AF E_E | D(E F)^G A^c |"G7" d_d cB AF | cB AF ED |"C" A_AGE D_D z2 | %61
+ C(^D E)(^F G)B | cA GE DC | BA GE D^C |"Dm" G_G FE DE | FA de f2 |"G7" BAGF E_E z2 | DF GB dB | %68
+"C" c2 z2"G7" G2 |"C" c2 z2 z2 |] %70
+

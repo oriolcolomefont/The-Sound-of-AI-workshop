@@ -1,0 +1,31 @@
+X:1
+T:Poi E
+T:Poi E
+T:Dalvanius Prime and Ngoi Pehwairangi
+C:Dalvanis Prime, Ngoi Pehwairangi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." B B2 B2 BB | GB B2 B2 BB | GBBB B2 BB |[M:2/4] B2 BB |[M:4/4] eB G2 E2 z2 || %5
+w: Te poi pa- tu- a|ta- ku poi pa- tu- a|ki- a ri- te pa pa- ra|pa- tu- a|ta- ku poi e|
+"E" G2 GF E2 E2 |"A" ccce edcc |"B" B2 Bc BA G2 |"E" FFFG AG F2 |"A" GGGF EE E2 |"A" cccd edcB | %11
+w: Re * re ra e|ta- ku po- i po- r- ti- ti|ti ta- ha ta- ha ra|wha- ka ra- ru ra- ru e|Po- ro ta ka ta- ka ra|po ro hu- ri hu- ri mai *|
+"E" BBBc BA G2 |[M:2/4]"B" F2 FF |[M:4/4]"E" E8- | E2 z2 z4 ||"A" c2 cd ed c2 |"E" BBBc BA G2 | %17
+w: ri- te to nu ki te ti|wai wa- ka|e||Ka pa- re- pa- re ra|pi- o- o- i- o- i- a|
+"A" cccd ed c2 |"E" BBBc BA G2 |"A" cccd ed c2 |"E" B2 Bc BA G2 |"A" cccd edcc |"B" BGFE"E" E4- | %23
+w: wha- ka he- ke he- ke e|ki a ko- ri ko- ri e|pi- ki wha- ka run- ga ra|ma mui- nga mai * a|ta- ku po- i po- ro ti- ti-|ta- ku poi * e|
+ E4 z4 |:"E" E4 B,4 | z E2 F GFE z |"A" E4 C4 | z EFG AGFE |"B" D4 B,4 | z FFG AGF z |1 %30
+w: |Poi e|wha- ka ta- ta mai|Poi e|ka- ua he re- re- ke *|Poi e|kia pi- ri mai ki au|
+"E" E4 B,4 ||"B" z F2 G AGFE :|2"B" B3 B BGFE ||"E" G"^ToCoda"GGG GG G2 | G2 G2 GGGF | %35
+w: Poi e|aw- hi mai * ra *|po- i ta- ku poi *|re- re a- tu ta- ku poi|ti ta ta- ha ra *|
+"^N.C." GGGG FGGG | eB"D" G2 E2"^alCoda" z2 |]"E" E8- |"^Coda" E8 |:[K:F]"F" F4 C4 | z F2 G AGF z | %41
+w: wha- ka- run- ga wha- ka ra- ro|tak- u poi e|e||Poi e|wha- ka ta- ta mai|
+"Bb" F4 D4 | z FGA BAGF |"C" E4 C4 | z GGA BAG z |1"F" F4 C4 ||1"C" z GAB AGF z :|2"C" c3 c cAGF || %48
+w: Poi e|ka- ua he re- re ke *|Poi e|kia pi- ri mai ki au|Poi e|aw- hi mai * ra *|Po i ta- ku poi *|
+"F" F8 |:"C" c3 c cAGF |1"F" F8 :|2 A"F"AAA AA A2 ||"^N.C." A2 AA AAAG | GAAA GAAA | GAAG F z z2 |] %55
+w: e|po- i ta- ku poi *|e|re- re a- tu ta- ku poi|ti ta * ta- ha ra *|wha- ka run- ga wha- ka ra- ro|ta- ku po * e.|
+

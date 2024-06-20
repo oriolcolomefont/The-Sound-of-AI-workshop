@@ -1,0 +1,30 @@
+X:1
+T:San Antonio Rose
+T:San Antonio Rose
+C:Bob Wills
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"C" G c | e3 c |"C7" G2 E C |"F" A3 F |"D7" D3 A |"G7" B3 A | F2 D ^D |"C" E4- | E2 G c | %9
+w: Deep with-|in my|heart lies a|mel- o-|dy, A|song of|old San An-|tone.|_ Where in|
+"C" e3 c |"C7" G2 E C |"F" A3 F |"D7" D3 A |"G7" B3 A | G2 A G |"C" (G c3- | c2) G F | E3 G | %18
+w: dreams I(|live with a|mem- o-|ry, Be-|neath the|stars all a-|lone. _|_ It was|there I|
+ c3 E |"F" F3/2 G/ A F |"D7" D3 A |"G7" B3 A | G2 A G |"C" E2 G c | E3 G | E3 G |"C7" c3 E | %27
+w: found be-|side the Al- a-|mo, En-|chant- ment|strange as the|blue up a-|bove. A|moon- lit|pass that|
+"F" F G A F |"D7" D3 A |"G7" B3 A | G G A G |"C" (G c3- | c4) |"G" d d d ^c | c B2 d | %35
+w: on- ly she would|know, Still|hears my|brok- en son of|love. _|_|Moon in all your|splen- dor know|
+"D7" ^f2 f =f | e4 | z ^f f =f | e2 ^f e |"G" d3 B | G4 | d d d ^c | c B2 d |"D7" ^f f e/f/=f/e/- | %44
+w: on- ly my|heart,|Call back my|Rose, Rose of|San An|tone.|Lips so sweet and|ten- der, like|pet- als fall ing a part,|
+ e4 | z ^f f =f | e2 ^f e |"G" d3 e |"G7" =f4 |"C" e3 c |"C7" G2 E C |"F" A3 F |"D7" D3 A | %53
+w: _|Speak once a-|gain of my|love my|own.|Brok- en|song, emp- ty|words I|know still|
+"G7" B2 A G | F2 D ^D |"C" E4- | E2 G c | e3 c |"C7" G2 E C |"F" A3 F |"D7" D3 A |"G7" B3 A | %62
+w: live in my|heart all a-|lone.|_ For that|moon- lit|pass bhy the|Al- a-|mo And|Rose, my|
+ G G A G |"C" (G c3- | c) z z2 |] %65
+w: Rose of San An-|tone. _|_|
+

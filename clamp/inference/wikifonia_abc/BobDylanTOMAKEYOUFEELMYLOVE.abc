@@ -1,0 +1,26 @@
+X:1
+T:TO MAKE YOU FEEL MY LOVE
+C:Bob Dylan
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" z2 GG GGFE |"C/B" G2 CC- C4 |"C/Bb" z2 GG G F2 E |"F/A" F2 CC- C4 |"Fm/Ab" z2 FF FFED | %5
+w: When the rain is blow ing'|in your face _|and the whole world is|on your case _|I could of fer you a|
+"C/G" E2 CC- C4 |"D7" z CCE"F/G" C2 CC- |"C" C4 z4 |"C" GGGG GGEF |"C/B" G2 CC- C4 | %10
+w: warm em brace _|to make you feel my love|_|When the eve nin' shad ows and the|stars ap pear _|
+"C/Bb" z GGG GGFE |"F/A" F2 CC- C4 |"Fm/Ab" z CFF FFED |"C/G" E2 CC- C4 |"D7" z CCE"F/G" C2 CC- | %15
+w: And there is no one there to|dry your tears _|(And) I could hold you for a|mill ion years _|to make you feel my love|
+"C" C4 z4 |"F" z ccc ccBA |"C" G2 CC- C4 |"E" z EEF"F" EDDC |"C" C8 |"F" z ccc dcBA | %21
+w: _|I know you have n't made your|mind up yet _|But I would nev er do you|wrong|I know it from the mom ent|
+"C" G2 CC- C4 |"D9" EEEE EDCD |"G" D4 z4 |"C" z2 GG GGFE |"C/B" GCzC- C4 |"C/Bb" z2 GG GGFE | %27
+w: that we met _|No doubt in my mind where you be|long|I'd go hun gry I'd go|black and blue _|I'd go crawl in' down the|
+"F/A" FC C6 |"Fm/Ab" z2 z F FFED |"C/G" ECzC- C4 |"D7" z CCE"F/G" C2 CC- |"C" C4 z4 | %32
+w: av en ue|There's noth ing that I|would n't do _|to make you feel my love|_|
+"Fm/Ab" z2 z F FFED |"C/G" ECzC- C4 |"D7" z CCE"F/G" C2 CC- |"C" C8 |] %36
+w: There's noth ing that I|would n't do _|to make you feel my love|_|
+

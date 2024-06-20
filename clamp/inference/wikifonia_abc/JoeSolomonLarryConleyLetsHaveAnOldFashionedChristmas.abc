@@ -1,0 +1,24 @@
+X:1
+T:Let's Have An Old Fashioned Christmas
+T:Let's Have An Old Fashioned Christmas
+C:Joe Solomon
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Eb" e2"Edim7" B G |"Fm7" c2"Bb7" A D |"Ebmaj7" F2"Eb6" E2- |"Fm7" E2"Bb7" z2 |"Eb" E2 F G | %5
+w: Let's have an|old fash- ioned|Christ- mas;||dress up and|
+"Gm7" B2"Gbdim7" c d |"Fm7" B4- |"Bb7" B4 |"Dm7b5" A2 G F |"G7" A G2 D |"Cm7" F2 E G- |"Cm7" G3 G | %12
+w: old fash- ioned|tree.||Let's make the|spir- it of|Auld Lang Syne|* the|
+"F7" =A2 G F | c2"F+7" ^c2 |"Bb7" d4- | d4 |"Eb" e2"Edim7" B G |"Fm7" c2"Bb7" A D | %18
+w: same as it|used to|be.||Hearts will be|light as a|
+"Ebmaj7" F2"Eb6" E2- |"Fm7" E2"Bb7" z2 |"Eb7" E2 F G |"Bbm7" B2"Eb7" A G |"Abmaj7""C7/G" c4- | %23
+w: feath- er||af- ter some|old fash- ioned|cheer.|
+"Fm7" c2 =B c |"Fm/Ab" d2 =B c |"Adim7" d =B2 c |"Eb/Bb" e2"Db9" B2- |"C7" B B A G |"Fm7" d2 c B | %29
+w: * So let's|all be good|fel- lows to-|geth- er;|* let's have an|old fash- ioned|
+"Bb7" A G2 F |1"Eb""Gbdim7" E4- ||"Fm7" E2"Bb7" z2 :|2"Eb" E4- || E2 z2 |] %34
+w: Christ- mas this|year.||year.||
+

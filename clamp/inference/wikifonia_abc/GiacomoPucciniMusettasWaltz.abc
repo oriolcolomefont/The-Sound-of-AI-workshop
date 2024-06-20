@@ -1,0 +1,48 @@
+X:1
+T:Musetta's Waltz
+T:Musetta's Waltz
+T:Puccini
+C:Giacomo Puccini
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c4 C/E/G/c/ |"Em" B4 C/E/G/B/ |"F" A6- | AA B{d}c"Dm7" BA |"G7" cF F2 F2- | FG A{c}B AG | %6
+w: As * * * *|thro' the * * *|street|* I wan- der on- ward|mer- i- ly *|* I wan- der on- ward|
+w: Quan- * * * *|do me'n * * *|vo'|* quan- do m'en vo' so|let ta per la|via la gen- te sosta e|
+"C"{G}"C" BE E2 E2- | EG, A,C EG |"C" c4 C/E/G/c/ |"C/E" B4 C/E/G/B/ |"F""F/E" A6- | %11
+w: dain- ti- ly *||see\_how the * * *|folk look * * *|round|
+w: mi- * ra *||e\_\_\_\_la\_\_\_\_\_bel- * * * *|les\_ za * * *|mi..a|
+"Dm7" AA B{d}c BA |"C" ge"G7sus4" dc"Fmaj7" AE- |"C/G" EG- G2"G9" DE |"C" C2- CG, CE | cC GG, C2 | %16
+w: * be- cause they know I'm-|charm- ing a ver- y charm-|ing * * * *|girl * * * *||
+w: * tut- ta ri- cerca in|me * * ri- cerca in|me da ca po a|pie * * * *||
+ z C"Dm" D2"Am" E2- |"F" E F2 D"C7" EF |{EF} ED CD EF | GA _Bc ^cd |"F" z C"Dm" D2"Am" E2- | %21
+w: and then mine|* to mark their hidden|long- ing and all the pass-|ion in their * eyes *|and then the|
+w: ed as- sa-|poro- allor la bra- mo|sia sot- til * che da|gl'oc- * chi tra- spi- ra|e dai pa-|
+"Dm" E F2"Am" D EF |"C7"{[EF]}"C7" ED C2 EF |[M:4/4]"Gm7" G2"G9" Ad"C" c3 z | %24
+w: joy of conquest o- ver-|comes * me ev'- ry|man is my prize|
+w: le- sivezzi in- ten- der|sa * * alle oc-|cul te bel la|
+[M:3/4]"F6" z c d2 e2- | e f2"C9" d ef |"C7""C7""C7""C7"{[ef]}"C7""C7""C7""C7" ed cd ef | %27
+w: and thus their|* hearts their hearts I|cap- tur- e as if by|
+w: co- si l'ef|flu * vio del *|si * * * o *|
+ ga _bc' ^c'd' |"Eb6" z _e d2 c2 |"D7" d c2"Gm" _B2 z |"C7" z _B A2 G2 | %31
+w: ma- * gic all my own|ah rap- ture|ah rap- ture|tis mi- ne|
+w: * tut- ta m'ag- gi- ra|fe- li- ce|* fa *|fe- li- ce|
+[M:4/4] z AG"F"F z F (3FAB |[M:3/4]"C" c4 C/E/G/c/ |"Cmaj7/E" B2- B2 C/E/G/B/ |"F" A4- A2- | %35
+w: a- lo- ne * * * *|now * * * *|you * that * * *|once *|
+w: mi- * fa * * * *|E * * * *|tu * che * * *|sai *|
+"Dm7" AA B{d}c BA | cF F2 F2- |"G7" FG A{c}B AG |"C""C"{G}"C""C" BE E2 E2- | EG, A,C EG | %40
+w: * your pass- ion once be-|tray- ed * *|* why should you be dis|may'd * * *|* * * * * yet|
+w: * che me- mo- rie ti|strug- * gi *|* da me tan- to ri-|fug- * gi *|* * * * * so|
+ c4 C/E/G/c/ |"Cmaj7/E" B2- B2 C/E/G/B/ |"F" AG FE DC |"Dm7" FA B{/d}c BA |"C" ge"Am" dc"Dm9" AE | %45
+w: tho' deep in your *|heart * deep in your *|heart * * * * *|* rank- les the smart you'll|nev- er nev- er con- fess|
+w: ben le ango- scie *|tue * non le vu- ci|dir * * * * *|* non le vuci dir so|ben * * * ma ti|
+"C"{[G,C]}"C" E/G/c/e/ g2"G9" de |"C" c6- | c z z4 |] %48
+w: but * * * * rath- er|die||
+w: sen * * * * ti mo|||
+

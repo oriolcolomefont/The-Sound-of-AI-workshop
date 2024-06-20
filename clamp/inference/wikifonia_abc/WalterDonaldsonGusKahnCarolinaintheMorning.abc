@@ -1,0 +1,26 @@
+X:1
+T:Carolina in the Morning
+T:Carolina In The Morning
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"C" G>EG>E G>EG>E | G>EG>E"Gdim" G>EG>E |"G7" (G4- G^F G2 | =F8) |"Dm" A>FA>F A>FA>F | %5
+w: Noth- ing could be fin- er than to|be in Car- o- lin- a in the|morn- * * *|ing,|No- one could be sweet- er than my|
+ A>FA>F"G7" A>FA>F |"Cdim" (A4- A^G A2 |"C" =G8) |"F" AB c4 A2 |"C" G2 E6 |"F" AB c4 A2 |"A7" G8 | %12
+w: sweet- ie when I meet her in the|morn- * * *|ing.|Where the morn- ing|glor- ies|Twine a- round the|door,|
+"D7" ^FG^GA- A2 ^A2 |"G" B2"Dm6""E7" d6 |"Am" cdcB-"D7" B2 B2 |"G7""Gdim""G7" G8 | %16
+w: Whisp- er- ing pret- * ty|sto- ries|I long to hear _ once|more.|
+"C" G>EG>E G>EG>E | G>EG>E"Gdim" G>EG>E |"G7" (G4- G^F G2 | =F8) |"Dm" A>FA>F A>FA>F | %21
+w: Strol- ling with my girl- ie where the|dew is pear- ly ear- ly in the|morn- * * *|ing,|But- ter- flies all flut- ter up and|
+ A>FA>F"G7" A>FA>F |"F#dim" (A4- A^G A2 |"G7" =G8) |"C" c>GA>G c>GA>G | c>AGC-"C7" C4 | %26
+w: kiss each lit- tle but- ter- cup at|dawn- * * *|ing,|If I had A- lad- din's lamp for|on- ly a day, *|
+"F" c4 A>^GA>B |"D7" c>A"D7b5"cB-"G7" B4 |"C" G>EG>E A>BA>_A | G>EG>E A>Bc>A | %30
+w: I'd make a wish and|here's what I'd say: _|Noth- ing could be fin- er than to|be in Car- o- lin- a in the|
+"D7" (d4-"D7b5" d^c"G7" d2 |1"C" =c2) z2 z4 :|2"C" =c6 z2 |] %33
+w: morn- * * *|ing.|ing.|
+

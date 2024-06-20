@@ -1,0 +1,29 @@
+X:1
+T:Green, Green Grass Of Home
+T:Green green grass of home
+T:Curly Putman
+T:Country
+C:Curly Putman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z G |:"C" G G G ^F/A/ | G3 G/G/ |"F" A c2 A/c/ |"C" G2- G/G/c/d/ | e e2 d/e/ | f e d c | %7
+w: The|old home- town looks the|same as I|step down from the|train * and there to|greet me is my|ma- ma * and|
+w: |old house * is still|standing tho' the|paint is cracked and|dry * and there's that|old oaktree * that|I used * to|
+"G7" B d3 | z2 c e |"C" g g g g |"C7" f e d c |"F" z c/c/ B c | d c B A/A/ |"C" G G"Am7" c c | %14
+w: pa- pa|down the|road I look and|there runs Ma- ry|hair of gold and|lips like cher- ries it's|good to touch the|
+w: play one|down the|road I walk with|my sweet Ma- ry||||
+"Dm7" d d"G7" c B |"C" c4 | z2 c e | g2 g e |"C7" f e2 e/d/ |"F" d c2 B/c/ |1 d c2 A | %21
+w: green green grass of|home|Yes they'll|all come to|meet me, arms *|reach- ing smil- ing|sweet- ly its|
+w: ||Yes they'll|all come to|see me in the|shade * of the||
+"C" G G"Am7" c c |"Dm7" d d"G7" c B |"C" c4 | z2 z G :|2 d c B A/A/ ||"C" G c2"Am7" c/c/ | %27
+w: good to touch the|green, green grass of|home|the|old oak tree as they|lay me neath the|
+w: ||||||
+"Dm7" d f"G7" c B |"C" c4- | c3 z |] %30
+w: green green grass of|home.||
+w: |||
+

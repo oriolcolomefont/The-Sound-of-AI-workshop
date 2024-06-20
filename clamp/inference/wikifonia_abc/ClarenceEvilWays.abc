@@ -1,0 +1,45 @@
+X:1
+T:Evil Ways
+T:Evil Ways
+C:Clarence Sonny Henry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Midi C15, T14" snm="Midi C15, T14"
+%%MIDI channel 3
+%%MIDI program 66
+V:1
+"Amin" e4"D7" d4 |"Amin" z c"D7" dd d/c/A cA |"Amin" c4"D7" d4 |"Amin" z c"D7" dd d/c/A cA | %4
+w: ||||
+"Amin" A3 A"D7" d3 A- |"Amin" A3 A"D7" dd d2 |"Amin""D7" z8 |"Amin" z e de"D7" dc AG | %8
+w: |||You've ~got ~to ~change ~your ~e- vil|
+"Amin" A2 z2"D7" z4 | c"Amin" d3"D7" z4 |"Amin" z A e2"D7" e2 d z |"Amin" d c2"D7" A2 e dc | %12
+w: ~ways,|ba- by,|~be- fore ~I ~stop|~lov- in' ~you. You've ~got ~to|
+"Amin" d c3"D7" z4 | c"Amin" d3"D7" z4 |"Amin" z A ee"D7" de dc |"Amin" d c2"D7" A2 A AG | %16
+w: ~ch ange,|~ba- by,|and ~ev- e\- ry ~word ~that ~I|~say ~is ~true. You ~got ~me|
+"Amin" Ac z G"D7" Ac z2 |"Amin" dc A"D7" c2 A AG |"Amin" Ac z A/G/"D7" Ac z A | %19
+w: ~run- nin' ~and ~hid- in'|~all ~o- ver ~town, you ~got ~me|~sneak- in' ~and ~a- peep- in' and|
+"Amin" dc A c2 A cd |"E " e8 |"Emaj7" z2 d_e"Amin" dc AG | A2 z2"D7" z4 | c"Amin" d3"D7" z4 | %24
+w: ~run- nin' ~you ~down. This ~can't ~go|~on,|Lo- rd knows ~you ~got ~to|~change,|~ba- by.|
+"Amin""D7" z8 | c"Amin" d3"D7" z _e dc |"Amin" d c3"D7" z4 | c"Amin" d3"D7" z4 | %28
+w: |Ba- by! When I come|ho- me|~ba- by,|
+"Amin" z A ee"D7" de dc |"Amin" d c2"D7" A2 _e dc |"Amin" dc z2"D7" z4 | c"Amin" d3"D7" z4 | %32
+w: my ~house ~is ~da- rk ~and ~my|~pots ~are ~cold. You're Hang- in'|ro- ~und,|~ba- by,|
+"Amin" z A ee"D7" de de |"Amin" d c2"D7" A2 A AG |"Amin" Ac z G"D7" Ac z A | %35
+w: with ~Jean ~and ~Jo- an and a\-|~who ~knows ~who. I'm ~get- tin'|~ti- red ~of ~wait- in' and|
+ dc"Amin" A"D7" c2 A AG |"Amin" Ac z G"D7" Ac z A |"Amin" dc A c2 A cd |"E " e8 | %39
+w: ~fool- in' ~a- round, I'll ~find ~some|bo- dy who ~won't ~make ~me|~feel ~like ~a ~clown. This ~can't ~go|~on,|
+"Emaj7" z2 d_e"Amin" dc AG | A2"D7" B6 |"Amin" c4"D7" d4 |"Amin" z c"D7" dd- d/c/A cA | %43
+w: Lo- rd knows ~you ~got ~to|~change. *|||
+"Amin""D7" z8 |"Amin" z4"D7" z e dc |"Amin" d c3"D7" z4 | c"Amin" d3"D7" z4 | %47
+w: |When I come|ho- me|~ba- by,|
+"Amin" z A ee"D7" de dc |"Amin" d c2"D7" A2 _e dc |"Amin" dc z2"D7" z4 | c"Amin" d3"D7" z4 | %51
+w: my ~house ~is ~da- rk ~and ~my|~pots ~are ~cold. You're hang- in'|ro- und,|~ba- by,|
+"Amin" z A ee"D7" de de |"Amin" d c2"D7" A2 A AG |"Amin" Ac z G"D7" Ac z A | %54
+w: with ~Jean ~and ~Jo- an and a\-|~who ~knows ~who. I'm ~get- tin'|~ti- red ~of ~wait in' and|
+ dc"Amin" A"D7" c2 A AG |"Amin" Ac z G"D7" Ac z A |"Amin" dc A c2 A cd | e8 | z2 e2 g2 ga- | %59
+w: ~fool- in' ~a- round, I'll ~find ~some-|bo- dy who ~won't ~make ~me|~feel ~like ~a ~clown. This ~can't ~go|~on,|Your ~E- vil ~ways!|
+"D7" a8- |"Amin""D7" a8- |"Amin""D7" a8- |"Amin""D7" a8- |"Amin" a8 |] %64
+w: |||||
+

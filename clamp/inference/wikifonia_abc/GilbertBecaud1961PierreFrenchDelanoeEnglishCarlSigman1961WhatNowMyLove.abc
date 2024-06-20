@@ -1,0 +1,30 @@
+X:1
+T:What Now, My Love?
+T:What now my love
+T:(original french version Et Maintenant)
+T:G.Becaud
+T:French: P.Delanoe, English: Carl Sigman
+C:Gilbert Bécaud 1961
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." (3GGB |:"G" B8- | B4 z2 (3GGB |"C" c4"G" B4- | B4 z2 (3GGG |"Am7" A8- | %6
+w: What now my|love|* now that you|left me|* how can I|live|
+w: |dreams|* turn- ing to|ash- es|* * and my|hopes|
+ A2 BA"D7" G2 A2 |"G" B8- | B4 z2 (3GGB :|"G" B8- | B2 z2 z2 (3GGe |"Am7" e8- |"D7" e2 ^F2 ^F2 d2 | %13
+w: * through an- oth- er|day|* watch- ing my|||||
+w: * in- to bits of|||clay.|* Once I could|see,|* once I could|
+"G" d8- | d4 z2 (3GGc |"Am7" c6 Bc |"D7" d6 c2 |"G" d8- | d2 G2 G2 _e2 |"F7" _e8- | e2 F2 F2 d2 | %21
+w: ||||||||
+w: feel|* now I am|numb I've be-|come un-|real|* I walk the|night|* with- out a|
+"Bb" d8- | d2 z2"^N.C." z2 (3GGc |"Cm" c8- | c4"Eb7" _B4 |"D7" A8- | A4"^N.C." z2 (3GGB |"G" B8- | %28
+w: |||||||
+w: goal|* stripped of my|heart|* my|soul|* what now my|love|
+ B4 z2 (3GGG |"C" c4"G" B4- | B2 z2 z2 (3GGG |"Am7" A8- | A4"D7" A4 |"G" B8- | B4 z4 |] %35
+w: |||||||
+w: * now there is|noth- ing|* on- ly my|last|* good-|bye-||
+

@@ -1,0 +1,26 @@
+X:1
+T:Chi-baba chi-baba
+T:Chi-baba Chi-baba
+T:(My  Bambino go to sleep)
+T:Mack David, Al Hoffman, and Jerry Livingston
+C:Mack David, Al Hoffman, Jerry Livingstone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2"^Chorus:" z G |:"C" (3cdc (3BAA cG"A"^FG |"G7" BA (3FED"C" A G2 G | %3
+w: Chi-|ba- ba chi- ba- ba ch- wa- wa En- ja-|la- wa cook- a la goom- ba Chi-|
+"C" (3cdc (3BAB cG"A"^FG |"G7" BA F2 D"C" C2 G |"C" (3cdc (3BAB cG"A"^FG |"G7" BA (3FED"C" A G2 G | %7
+w: ba- ba chi- ba- ba chi- wa- wa my bam-|bi- no go to sleep Chi-|ba- ba chi- ba- ba chi- wa- wa En- ja-|la- wa cook- a- la goom- ba chi-|
+"C" (3cdc (3BAB cG^FG |"G7" BAFD"C" C4 |"Am" EEAA"E7" ^GG B2 |"Am" (3ABc BA E4 | %11
+w: ba- ba chi- ba- ba chi- wa- wa my bam-|bi- no go to sleep.|All the stars are in the skies|read- y to say good- night|
+"Am" EEAA"E7" ^GGBB |"Am" A8 |"C" GGcc"G7" BB d2 |"C" (3cde dc G4 |"D7" AAAA AABc | %16
+w: cant- you see your doll is sleep- y|too|Close your drows- y lit- tle eyes|Ma- ma will hold you tight|While she sings a lul- la- bye to|
+"Dm7" d4-"Fm" d3"G7" G |"C" (3cdc (3BAB cG"A"^FG |"G7" BA (3FED"C" A G2 G | %19
+w: you * Chi|ba- ba chi- ba- ba chi- wa- wa en- ja|la- wa cook- a- la goom- ba chi-|
+"C" (3cdc (3BAB cG"A"^FG |1"D7" AA"G7"BB"C" c2 z G :|2"D7" AA"G7"BB"C" c2- c2 |] %22
+w: ba- ba chi- ba- ba chi- wa- wa my bam-|bi- no go to sleep. Chi|bi- no go to sleep. *|
+

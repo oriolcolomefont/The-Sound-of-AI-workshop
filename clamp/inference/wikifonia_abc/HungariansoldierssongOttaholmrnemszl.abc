@@ -1,0 +1,18 @@
+X:1
+T:Ott ahol már nem szól
+T:Ott, ahol már nem szól 
+T:Hungarian soldier's song
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+Q:1/4=30
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A,A,A,A,"Dm" D2 D2 |"Em" EDCB,"Am" A,4 |"Am" EECE"C" G2 G2 |"F" AABA"C" E4 | %4
+w: Ott, a- hol már nem szól|szép mu- zsi- ka szó,|me- ne- tel a szá- zad,|be- le- pi a hó,|
+"Am" EECE"C" G2 G2 |"F" AABA"C" E4 |"Am" A,A,A,A,"Dm" D2 D2 |"Em" EDCB,"Am" A,4 |] %8
+w: be- le- pi a temp- lom|zsin- dely te- te- jét,|majd ki- ás- sa on- nan|a magy- ar hon- véd.|
+

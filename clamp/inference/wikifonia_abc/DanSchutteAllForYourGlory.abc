@@ -1,0 +1,68 @@
+X:1
+T:All For Your Glory
+T:All For Your Glory
+C:Dan Schutte
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ AB |"F" c4 ef |"Bb/F" B4 GA |"C" B2 c2 G2 |"F" A4 FG |"Dm" A4 c2 |"Bb" c2 B3 A |"Gm" B2 c2 F2 | %8
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"Csus4" G6- | G2"C" G4 ||S"F" F3 G A2 |"Bb/F" B2 G4 |"C" G3 F E2 |"Fsus4" C2-"F" C2 z2 | %14
+w: ||1.Christ in our|wak- ing,|Christ in our|sleep, _|
+w: ||2.Christ in our|la- bor,|Christ in our|rest, _|
+w: ||3.Christ in our|pre- sent,|christ in our|past. _|
+w: ||4.Christ in the|thun- der,|Christ in the|calm, _|
+w: ||5.Christ in the|mor- ning,|Christ in the|night, _|
+w: ||6.Christ in the|stran- ger,|Christ in the|friend, _|
+w: ||7.Christ in the|might- y,|Chirst in the|meek, _|
+w: ||8.Christ at our|start- ing,|Christ at our|end, _|
+"Dm" F4 GA |"Am" c2 A3 c |"Bb" d2 c2 A2 |"Csus4" G2-"C" G2 z2 |"F" A3 G A2 |"Bb" B2 G4 | %20
+w: Christ in the|1.trea- 'sure of|mem- 'ries we|keep. *|All the days|laugh- ter,|
+w: Christ in the|2.fa- ces of|pil- grim and|guest. *|All the days|won- der,|
+w: Christ in our|3.long- ing for|love that will|last. *|All of life's|hun- ger,|
+w: Christ in the|4.heal- ing of|mu- sic's sweet|balm. *|All of life's|si- lence,|
+w: Christ in the|5.yield- ing of|dark- ness and|light. *|All of life's|pro- mise,|
+w: Christ in our|6.beau ty of|hearts that will|bend. *|All of life's|rap- ture,|
+w: Christ in our|7.find- ing the|home that we|seek. *|All of life's|sweet- ness,|
+w: Christ in our|8.long- ing for|jour- neys to|end. *|All that we've|trea- sured,|
+"C" G3 A"A7/C#" B2 |"Dm" A3 z FE |"Bb" D2 E2 F2 |"F/A" c2 F3 C |"Gm" B,3 F"C" E2 |"F" F6 ||1,3,5,7 %26
+w: all the days|tears it is|all for your|glo- ry, my|Lord and my|God.|
+w: all the days|woe, it is|al for your|glo- ry, my|Lord and my|God.|
+w: all of life's|feast, it is|all for your|glo- ry, my|Lord and my|God|
+w: all of life's|song, it is|all for your|glo- ry, my|Lord and my|God.|
+w: all iof life's|need, it is|all for your|glo- ry, my|Lord and my|God.|
+w: all of life's|ruin, it is|all for your|glo- ry, my|Lord and my|God.|
+w: all of life's|sting. it is|all for your|glo- ry, my|Lord and my|God|
+w: all that we've|lost, it is|all for your|glo- ry, my|Lord and my|God.|
+ z2 z2 fe |"Bb" d2 e2 f2 |"F/A" c'2 f3 c |"Gm" B3 g"C" e2 |"F" f6- | f4 z2!D.S.! ||2,4,6 %32
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ z2 z2 z z!D.C.! ||0 z2 z2 fe |"Bb" d2 e2 f2 |"F/A" c'2 f3 c |"Gm" B3 g"C" e2 |"F" f6- | f4 z2 |] %39
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+

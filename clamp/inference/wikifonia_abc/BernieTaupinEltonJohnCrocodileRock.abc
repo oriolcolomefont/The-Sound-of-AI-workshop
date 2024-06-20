@@ -1,0 +1,44 @@
+X:1
+T:Crocodile Rock
+T:Crocodile Rock
+T:Elton John and  Bernie Taupin
+T:Originally in G
+C:Bernie Taupin, Elton John
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" AAAA AA z F | A2 BA- A2 z2 |"Dm" AAAA AA z F | A2 BA- A2 z2 |"Bb" BBBB BB z G | B2 cB- B2 z2 | %6
+w: ||||||
+w: ||||||
+"C" cccc cc z A | c2 dc z Acc- |:"F""^Verse" cA A2 A c2 A- | A/G/F- F2 z Acd- |"Am" dc A2 A c2 A- | %11
+w: |* * * I re- mem-|* ber when rock was young.|_ _ _ _ Me and Su-|* si had so much fun.|
+w: ||* went by, and rock~just died,|_ _ _ _ _ _ Su|_ sie went and left for~some|
+ A/G/F- F2 z Acd- |"Bb" dc A2 A c2 A- | A/G/F- F2 z Acd- |"C" d c2 c- cAcA | dcAc- cAcd- | %16
+w: _ _ _ _ Hold- ing hands|_ _ and skim- min' stones.|_ _ _ _ Had an old,|_ gold Chev- * y and a|place of my own. _ But the big-|
+w: for- eign guy. * * * Long|* * night cry- in' by~the|re- cord machine * * * dream-|in' of~my Chev- * y and old|_ _ blue jeans. _ But the'll nev-|
+"F" dccA Ac-cA- | A/G/F- F2 z A A/A/c |"Am" d2 cc AA c2 | A/G/F- F2 z Acd- |"Bb" dccA AA-AA | %21
+w: * est kick I ev- * er got,|_ _ _ _ was do- in' a|thing called the Croc- o- dile|Rock. _ _ _ While the oth-|* er kids were rock- in' round the|
+w: * er kill thrills we _ _ got.|_ _ _ _ burn- * * ing|up to the Croc- o- dile|Rock. _ _ _ Learn- ing fast|_ _ 'till the weeks went _ past.|
+ G G3 z Acd- |"C" dccc- cAcc | dc A2 c2 d2 |"Dm""^Chorus" z2 d/d/"C"d"C""Dm" c"Dm"d"C" z"C" c | %25
+w: clock. _ We were hop-|* in an bop- * in' to the|Croc- o- dile Rock, Well|Croc- o- dile Rock- in' is|
+w: _ _ We real- ly|though _ the Croc- * o- dile _|Rock _ would last. Well||
+"Dm""C" d2"C""Dm" c"Dm"d-"C" d"C""Dm"c"Dm"dc |"G7" d2 G2 F2 G2 | FG- G2 z4 |"C7" z Ged c2 dc | %29
+w: some- thing shock- * in',~ when your|feet just won't keep|still. _ _|I nev- er knew me a|
+w: ||||
+ _e c2 d- dcdf- |"F" f ^G2 A2 c^GA- | A6 z d- |"D" d2 ee ^fd z ^c | d2 e^f- f2 z ^c | %34
+w: bet- ter time _ and I guess|_ I nev- er _ will.|_ Oh|_ Lawd- y ma- ma those|Frid- day nights _ when|
+w: |||||
+"G7" d2 _AG- G F3 | d _A2 F2 G F2 |"C7" z Ge_e =ecdc | f d2 c2 _A2 F |"Bb" F F2 z z4 |"C" z4 z4 | %40
+w: Su- sie wore _ her|dress- es tight _ and|the Croc- o- dile _ Rock- in'|was _ _ out of|sight. _||
+w: ||||||
+"F" A8- | A4 AGFG |"Dm" A8- | A4 AGFG |"Bb" B8- | B4 BAGB |"C" c8- | c4 z Acc ::"F" a8- | a4 agfg | %50
+w: La|_ la la la la|la|_ la la la la|la|_ la la la la|la|_ But the years|La|_ la la la la|
+w: ||||||||||
+"Dm" a8- | a4 agfg |"Bb" b8- | b4 bagf |"C" c8- | c4 z4 :| %56
+w: la|_ la la la la|la|_ la la la la|la|_|
+w: ||||||
+

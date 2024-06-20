@@ -1,0 +1,31 @@
+X:1
+T:Crying
+T:Crying
+T:Roy Orbison and Joe Melson
+T:Country Ballad
+C:Roy Orbison, Joe Melson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2"^N.C." (3EEG |:"C" A6 EG | A6 EG | A4 B3 G | E6 Bc | dc c2 ccBc |"C+" d2 c2 c2 Bc | %7
+w: I was all|right for a|while I could|smile for a|while but I|saw you last night you held my|hand so tight as you|
+w: |I~was ov- er|you but it's|true oh so|true I *|love you ev- en more than I|did be- fore but *|
+"F" d3 c A2 F2 |"Fm" D6"G7" AA |"C" A2 G2 G3 G |"G7" A2 B2 G4- | G2 G2 A2 B2 |"C" cGAE G4 | %13
+w: stopped to say "hel-|lo" oh you|wished me well you|could- n't tell|* that I'd been|cry- * * * ing|
+w: dar- ling what can|I do? *|for you don't love|me and I'll|* al- ways be|cry- * * * ing|
+"Em" G2 e2 B4 |"C" cGAE G4 |"Em" G2 e2 B3 G |"F" F6 EF |"G7" E6 DD |"F" D2 C4 B,C | %19
+w: o- ver you|cry- * * * ing|o- ver you when|you said "so|long" left me|stand- ing all a-|
+w: o- ver you|cry- * * * ing|o- ver you yes|now you're *|gone and *|from this mo- ment|
+"G7" B,6 (3B,CD |"C" D2 C6 |"C+" D2 C6 |"F" D2 C6 |"Fm" E4 DCCC |"C" G6 C2 | C6 CC |"G7" G6 B,B, | %27
+w: lone a- lone and|cry- ing|cry- ing|cry- ing|cry- ing it's hard to|un- der-|stand but the|touch of your|
+w: on I'll * be|cry- ing|cry- ing|cry- ing|cry- ing * * *||||
+ B,6 (3B,CD |1"C" D2 C6- | C6 (3EEG :|2"C" D2 C6- | C6 z2 |] %32
+w: hand can start me|cry- ing|* I thought that|cry- ing||
+w: |||||
+

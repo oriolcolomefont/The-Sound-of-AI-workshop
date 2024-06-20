@@ -1,0 +1,28 @@
+X:1
+T:Friendly Persuasion
+T:Friendly persuasion
+T:Dimitri Tiomkin
+T:Paul francis Webster
+C:Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 G,2 A,2 ||"C" G8 | z2"Dm7" A,C E"G"DFA |"C" G3 E G4 | z2"Dm7" A,B, C"G"DFA |"C" G3 E G4 | %6
+w: Thee I|love|more than the mead- ows so|green and still|more than the mul- ber- ries|on the hill|
+ z2"F" A,B, C"Dm7"DFA |"Em" z BGE"F" D4- | D2 z2"G7" G,2 A,2 |"C" C8- | C6 z2 |"Gm7" A3 A"C" G4 | %12
+w: more than the buds on the|may ap- ple tree|* i love|thee||arms have I|
+"Gm7" z GAG"F" F3 C |"Cm7" A6"C" E2 |"F" G2 F6 |"Fm7" B3 B A3 B, |"B7" A3 A"E" ^G3 G | %17
+w: strong as the oak for|this oc-|ca- sion|lips have I to|kiss thee too in|
+"Gm" G4"A7" F2"G" E2 |"F" A2"G7" G2 G,2 A,2 |"C" G8 |"Dm7" z2 A,C E"G"DFA |"C" G3 E G4 | %22
+w: friend- ly per-|sua- sion thee is|mine|though I dont know man- y|words of praise|
+"Dm7" z2 A,C E"G"DFB |"C" G3 E G3 G |"F" z2 A,B, C"Dm7"DFA |"Em" B2 G2 E2"Dm" d2- | dcAF D4- | %27
+w: thee pleas- ure me in a|hun- dred ways so|put on your bon- net your|cape and your glove|* and come with me|
+ D4-"G7" DG,G,A, |"C" C6 d2 |"F" c3 A"C" G3 F |"G7" D3 E"C" C3 e |"F" c3 A"C" G3 G, | %32
+w: * * for thee I|love and|come with me for|thee I love oh|come with me for|
+"Dm7" G,2 A,2"Ab" C4- |"F" C6"C" z2 |] %34
+w: thee I love||
+

@@ -1,0 +1,30 @@
+X:1
+T:There Goes That Song Again
+T:There Goes That Song Again
+C:Jule Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" z2 c2 B2 c2 |"E7" B ^G2 E- E4 |"A7" A2 A>^G A2 A>G |"A" A"Em7b5" =G2 E-"A7" E4 | %4
+w: There goes that|song a- gain, _|We used to call it our|ser- e- nade. _|
+"Dm7" G2 G>^F G2 G>F | G =F2 D-"G7" D4 |"C" C D2 E"Am" C D2 E |"Dm7" (3DEF (3DEF"G7" G4 | %8
+w: We fell in love when we|heard it played, _|ov- er, and ov- er, and|ov- er and ov- er a- gain.|
+"C" z2 c2 B2 c2 |"E7" B ^G2 E- E4 |"A7" A2 A>^G A2 A>G |"A" A"Em7b5" =G2 E-"A7" E4 | %12
+w: I still re-|mem- ber when, _|I sang those words and they|made you mine. _|
+"Dm7" G2 G>^F G2 G>F | G =F2 D-"G7" D4 |"C" C D2 E"Am" C D2 E |"Dm7" (3DEF (3DEF"C7sus4""C7" G4 | %16
+w: I'd steal a kiss and re-|peat each line, _|ov- er and ov- er, and|ov- er and ov- er a- gain.|
+"F" z2 A2"G7" BABc- |"C" c6"Cdim" d2 |"Dm7" c2 B2 A2"G+7" GA- |"C""G+""C" A6"E7" e2 | %20
+w: We drif- ted a part,|_ You|walked off with my heart.|_ It's|
+"Am" d2 c2 E2 c2 |"D9" B2"D7b9" A4"D7" d2 |"G7" c2 B2"Dm7" A2 B2 | A2"G7""G+" G6 |"C" z2 c2 B2 c2 | %25
+w: fun- ny how one|lis- ten, Just|start me re- mi-|nis- cin'.|I'd soon for-|
+ B ^G2 E- E4 |"A7" A2 A>^G A2 A>G | A"Em7b5" =G2 E-"A7" E4 |"D7" c2 c>B c2"Ddim" Bc- | %29
+w: get that "yen" _|I told my- self when you|said, "So long, "|but I was wrong, there goes|
+"D7" c2 B2"Dm7" A2"G7" Bc- |1"C""Cdim" c8- |"Dm7" c2 z2"G+7" z4 :|2"C""Fm6" c8- |"C" c6 z2 |] %34
+w: _ that song a- gain.|_||(gain)|_|
+

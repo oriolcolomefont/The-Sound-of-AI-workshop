@@ -1,0 +1,38 @@
+X:1
+T:I am....I said
+T:I am....I said
+T:Neil Diamond
+T:Foxtrot or March
+C:Neil Diamond
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F F F3/2 F/ | F F2 F/F/ | F4 | A2 c2 |"Bb" d2 z D/D/ | D/D/D/D/ D2- | D4 | D2 F2 | %8
+w: L. A's fine the|sun shines most the|time||* and the|feel; in is lay back|||
+"C" E E E3/2 D/ | E E E E/E/ | E/E/ E E/E/ E- | E4 |"F" z (3F/F/F/ F F- | F4- | F4 | z2 z A/c/ | %16
+w: palm trees grow and|rents are low but you|know I keep think- in bout||mak- in my way back|||Well i'm|
+ z c/c/ c/c/c/c/ | c3 c | c/c/ c2 c | f f f d |"Bb" d4- | d F _B c | d4 | _B2 d2 |"C" c c e3/2 e/ | %25
+w: New York Cit- y born and|raised but|now- a- days I'm|lost be- tween two|shores||||L. A's fine but|
+ g g e2 |"C7" c c e3/2 e/ | g g f e/f/ |"F" f4- | f4- | f2 z a | a3 c |] c4- | c4- | c2 z a | %35
+w: it aint home|New York's home, but|it aint mine no *|more||* I|am I|said||* to|
+ a c2 d- |"Bb" d4- | d4- | d2 z d | d _b2 d- | d _b2 d- | d _b3 | d c _B c- |"F" c4- | c4- | %45
+w: no- one there|||* and|no- one heard|* at all|* not|e- ven the chair|||
+ c2 z a | a3 c | c4- | c4- | c2 z a | a3 c |"Bb" d4- | d4- | d2 z d | d _b2 d- | d _b2 d- | d _b3 | %57
+w: * I|am I|cried||* I|am said|I||* and|I am lost|* and I|* cant|
+ d c _B c- |"F" c4- | c4- |"C" c2 z2 | _B _B c _B- |"F" _B A2 f- | f4 | z2 a g- |"C" g _b3 | %66
+w: e- ven say why||||leav- in me lone-|* ly still||||
+"F" A2 a g | g4 | c2 a g- |"C" g2 z F/F/ |"F" F/F/ F- F/F/F/F/ | F F F D | F/F/F/F/- F2- | F4 | %74
+w: |||* Did you|ev- er read * a- bout a|frog who dreamed of|be- in a king *||
+ z2"Bb" D D/D/ | D D3- | D4- | D2 z E/E/ |"C" E/E/ E E E/E/ | E/E/ E E/D/E/E/ | E/E/ E E2- | E4 | %82
+w: and then be-|came one?||* well ex-|cept for the names and a|few oth- er chang- es if you|talk a- bout me||
+"F" z F F/F/ F | F F3 | A4 | C F G A | c c/c/ c/c/ c | c c c2 | c/c/ c3- | c c/c/ f f/d/ |"Bb" d4 | %91
+w: the sto- ry's the|same one||* * * but|I got an emp- ti- ness|deep in- side|and I've tried|* but it wont let me|go|
+ _B2 c2 | d4 | _B, D F _B |"C" c c/c/ e e | g g e3/2 c/ |"C7" c c/c/ e e/e/ | g g g f/e/ |"F" f4- | %99
+w: ||* * * and|I'm not a man who|likes to swear but|I've nev- er cared for the|sound of be- in a-|lone|
+ f4- | f2 z a | a3"^returnto""^andfade" c |] %102
+w: |* I|am I|
+

@@ -1,0 +1,64 @@
+X:1
+T:Everything
+C:Michael Bublé
+L:1/8
+M:4/4
+K:D
+U:s=!stemless!
+V:1 treble nm="[Piano]"
+V:1
+"^Intro""D" A2 f2-"D/B" f A2^G- |"E" ^G f2"Em/G"e- edAd |"D" A2 f2-"D/B" f A2^G- | %3
+w: |||
+"E" ^G f2"Em/G"e- edAd |"D" A2 f2-"D/B" f A2^G- |"E" ^G f2e- e d2=G- | %6
+w: |||
+"Em7b5/G" G f2e-"Em7b5/A" e d2d |"D"z4z"Dsus4"F EE ||"^[A]" D"D"Dz2"D/B"zF EE |"E7" D D2E- EFEE | %10
+w: |You're a fal-|ling star you're the get-|a- way car _ you're the line|
+"Em/G" D/B,/D- D2-"Em7/A" DFEE |"D" D D2z"Dsus4"zF EE |"D" D F2z"D/B"zF EE |"E7" D D2zzD FE | %14
+w: in the sand _ _ when i go|to far you're the swim-|ming pool on an au-|gust day and you're the|
+"Em/G" E D2 F2-"Em7/A"FEE- |"D" D2z2"Dsus4"zA Bd |"D" d d2z"D/B"zA Bd |"E7" d f2zzA AB | %18
+w: per- fect thing _ to say|_ and you play|it tough but it's kin-|da cute oh, when you|
+"Em7b5/G" ddBA"Em7b5/A" ddBA |"D" d d2d"Dsus4"zB dd |"D" B B2z>"D/B"DFEE |"E7" D D2zzD FA | %22
+w: smile at me you know ex- act- ly|what you do ba- by don't|pre- tend that you don't know|it's true cause you can|
+"Em7b5/G" FDDB,"Em7b5/A" D D2D |"D" z2 D F2 A2A- ||"^[B]""G" A4-"A" A A2A- |"D" EFz2"Bm"zD FA | %26
+w: see it when i look at you|and in this cra-|* * zy li-|* fe and through these|
+"G" c4-"A" c d2d- |"D" d2 d e2-"D7"edB |"G"z2zF"^F#7(#9)" A A2A- |"Bm" F2zF"A" A F2E- | %30
+w: cra- * zy times|_ it's you _ it's you|you make me swing|_ you're ev'- ry line|
+"E" E2zF A F2E- |"Em/G" E2zF"Em7/A" EDED- |"D" D2 sB2"D/B" sB2 sB2 |"E7" sB2 sB2 sB2 sB2 | %34
+w: _ you're ev'- ry word|_ you're e- ve- ry- thing|||
+"Em7b5/G" sB2 sB2"Em7b5/A" sB2 sB2 |"D" sB2 sB2"Dsus4"zF EE ||"^[C]" D"D"Dz2"D/B"zF EE | %37
+w: |* * You're a ca-|rou- sel you're a wish-|
+"E7" DF- F2- FFEE |"Em/G" DDz2"Em7/A"zF EE |"D" D D2z"Dsus4"zF EE |"D" D D2z"D/B"zF EE | %41
+w: ing well _ _ and you line|me up when you ring|my bell you're a mys-|te- ry you're from ou-|
+"E7" D F2zzF FF |"Em/G" EDB,A,"Em7/A" D D2D- |"D" D2z2"Dsus4"zA Bd |"D" d d2z"D/B"zA Bd | %45
+w: ter space you're ev'- ry|mi- nute of my ev'- ry day|_ and i can't|be- lieve oh that i'm|
+"E7" d f2 z z2 AB |"Em7b5/G" ddBA"Em7b5/A" ddBA |"D" d d2d"Dsus4"zA BA |"D" d f2e-"D/B" eA Bd/B/- | %49
+w: your man and i|get to kiss you ba- by just be-|cause i can what- e- ver|comes our way _ ah we'll see it|
+"E7" B B2zzB dd |"Em7b5/G"zD DB,"Em7b5/A" D D2D |"D" z2 D2 F2 A2 |"^[D]""G" A4-"A" A A2A- | %53
+w: _ through and you know|that's what our love can do.|and in this|cra- * zy li-|
+"D" EFz2"Bm"zD FA |"G" c4-"A" c d2d- |"D" d2 d e2-"D7"edB |"G"z2zF"^F#7(#9)" A A2A- | %57
+w: * fe and through these|cra- * zy times|_ it's you _ it's you|you make me swing|
+"Bm" F2zF"A" A F2E- |"E" E2zF A F2E- |"Em/G" E2zF"Em7/A" EDED |: %60
+w: _ you're ev'- ry line|_ you're ev'- ry word|_ you're e- ve- ry- thing|
+"_Guitar Solo""D" sB2 sB2"D/B" sB2 sB2 |"E7" sB2 sB2 sB2 sB2 |"Em7b5/G" sB2 sB2"Em7b5/A" sB2 sB2 |2 %63
+w: |||
+"D" sB2 sB2 sB2 sB2 :|"_Stop Guitar Solo""D" sB2 sB2 sB2 A2 |"^[E]""D" [df]4"D/B" [Ad]4 || %66
+w: |* * * So|la la|
+"^E7(9)" [^GB]4 [df]4 |"^Gm(ma7)" [G_B]4 [A=c]2-"Em7b5/A" [Ac][FA]/[EA]/ |"D" [DA]2 z2 z2 A2 | %69
+w: la la|la la _ la _|_ so|
+"D" [df]4"D/B" [Ad]4 |"^E7(9)" [^GB]4 [df]4 |"^Gm(ma7)" [Gd]4"Em7b5/A" [Ae]2- [Ae][Fd] | %72
+w: la la|la la|la la _ la|
+"D"z2zB dB d2 ||[K:E]"^[F]""A" e6"B"de/d/ |"E" B2z2"C#m"zE GB |"A" d4-"B" d e2e- | %76
+w: and in _ this|Cra- zy li- *|* and through these|cra- * zy times|
+"E" e2 e f2-"E7"fec |"A"z2zG"^G#7(#9)" B B2c- |"C#m" c2zB"B" c B2G- |"F#" G2zF G B2F- | %80
+w: _ it's you _ it's you|you make me swing|_ you're ev'- ry line|_ you're ev'- ry word|
+"F#m/A" F2 z2"F#m7/B" (3G2 F2 E2 |"C#m" (G4 c4 |"C#m/B" e8) | z4 (3G2 F2 E2 |"^F#7(9)" F4 z4 | %85
+w: _ You're ev'- ry|thing _|_|you're ev'- ry|song|
+z2zC G2 F/E/F- |"^Am(ma7)" F4 z4 |"F#m7b5/B"zC EC E E2E- |"E" E2 z2"E/C#" z4 | %89
+w: and i sing a- long|_|'cause you're my ev'- ry- thing|_|
+"F#" z4"Amaj7" z2 E2 |"E" (E/C/B,) z2"E/C#" z4 |"F#" z8"Amaj7" |"E" [eg]4"E/C#" [Be]4 | %93
+w: yeah|yeah _ _||la la|
+"^F#7(9)" [^Ac]4 [eg]4 |"^Am(ma7)" [A=c]4 [B=d]2-"F#m7b5/B" [Bd][GB]/[FB]/ |"E" [EB]2 z2 z2 B2 | %96
+w: la la|la la _ la _|_ so|
+"E" [eg]4"E/C#" [Be]4 |"^F#7(9)" [^Ac]4 [eg]4 |"Am" A2>G2 AB- BG/F/ |"E" E2 z2 z4 |] %100
+w: la la|la la|la la la la _ la _|_|
+

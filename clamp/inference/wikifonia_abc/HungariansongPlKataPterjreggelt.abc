@@ -1,0 +1,15 @@
+X:1
+T:Pál, Kata, Péter, jó reggelt
+C:Hungarian song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C C/D/ E C | D B, C z | E E/F/ G E | F D E z | G/G/G/G/ G A/G/ | F G/F/ E z | E/E/E/E/ E F/E/ | %7
+w: Pál, Ka- ta, Pé- ter,|jó reg- gelt!|Már o- da- künn a|nap fel- kelt!|Szól a ka- ka- sunk, az a|nagy ta- ra- jú,|Gye- re ki a rét- re, ku-|
+ D G C z |] %8
+w: ko- ri- kú!|
+

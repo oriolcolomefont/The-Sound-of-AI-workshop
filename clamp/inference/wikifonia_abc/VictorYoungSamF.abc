@@ -1,0 +1,30 @@
+X:1
+T:On The Street Of Dreams
+T:Street Of Dreams
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Ebm6" E E3- E4- |"Bb7" E_GFE"Bb+7" G G2 G |"Ebm6" E E3- E4- |"Bb7" E_GFE"Bb+7" G G2 G | %4
+w: Mid- night, _|_ you heav- y lad- en, it's|mid- night. _|_ Come on and trade in your|
+"Ebm6" (3B2 B2 B2"Db7" A3 A |"B7" (3_G2 G2 G2"Bb7" F3 F |"Ebm6" (3E2 E2 E2"Ab9" e3 e | %7
+w: old dreams for new, your|new dreams for old. I|know where they're bought, I|
+"Bbm7b5" (3_d2 d2 d2"Eb7" B4 |"Abm6" A A3- A4- |"Bb+7" AA_G_F A G2 _F |"Ebm6" E E3- E4- | %11
+w: know where they're sold.|Mid- night, _|_ you've got to get there at|mid- night, _|
+"B7" E_GFE"Bb+7" G G2 G |"Ebm" (3B2 B2 B2"Db7" A4 |"B7" (3_G2 G2 G2"Bb7" F4 | %14
+w: _ and you'll be met there by|oth- ers like you,|broth- ers as blue,|
+"Cm7b5" _GGAB"B7" e2 e2 |"Fm11""Bb7" B8 |:"F9" G4 (3F2 ^F2 G2 |"Fm9" G4"Bb7" =F^FFG | %18
+w: smil- ing on the street of|dream.|Love laughs at a|king, kings don't mean a|
+"Ebmaj7" D4"Abmaj7" CEGc |"Gm11""C+7" c8 |"F9" G4 (3F2 ^F2 G2 |"Fm9" G4"Bb7" =F^FFG | %22
+w: thing on the street of|dreams.|Dreams bro- ken in|two can be made like|
+"Ebmaj7" G4"Bb+7" B=Bce |"Bbm11""Eb7" e8 ||"Ab6" f4 (3e2 c2 A2 |"Db7" F4 (3A2 _c2 =d2 | %26
+w: new on the street of|dreams.|Gold, sil- ver and|gold, all you can|
+"Gm7" f4 (3e2 B2 =A2 |"Db7" _A4"C7" G4 |"F9" G4"Db9#11" (3F2 ^F2 G2 |"Fm11" G4"Bb7" =F^FFG | %30
+w: hold is in the|moon- beams.|Poor, no- one is|poor, long as love is|
+"Fm11" G4"Bb7" B=Bce |1"Eb6""C7b9" e8 :|2"Eb6" e8 || %33
+w: sure on the street of|dreams.|dreams.|
+

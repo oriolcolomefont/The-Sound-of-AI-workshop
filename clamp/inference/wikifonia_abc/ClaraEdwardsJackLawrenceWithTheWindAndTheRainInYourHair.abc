@@ -1,0 +1,26 @@
+X:1
+T:With The Wind And The Rain In Your Hair
+T:With The Wind And The Rain In Your Hair
+C:Clara Edwards
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Ddim7" G2"G7" F G |"Cm7" E2 G B |"Adim7" d2"D7" c d |"Gm7" B2"C7" G F |"Fm7" G2 F G | %5
+w: Last night we|met and I|dream of you|yet with the|wind and the|
+"Db7" E2 F E |"Ebmaj7" G4- |"Fm7" G2"Bb7" z2 ||"Ddim7" G2"G7" F G |"Cm7" E2 G B | %10
+w: rain in your|hair.|_|I held you|tight as you|
+"Adim7" d2"D7" c d |"Gm7" B2"C7" G F |"Fm7" G2 F G |"Db7" E2 F E |"Ebmaj7""Ab7" E4- | %15
+w: whisp- ered "Good-|night" with the|wind and the|rain in your|hair.|
+"Ebmaj7" E2 z2 ||"Adim7" e2 ^F =A |"D7" d3 c |"Gm7" d c B G | B3 G |"Cm7" e2 d c |"F7" G2 F E | %22
+w: _|Now it will|be my|fav- 'rite mem- o-|ry, that|vi- sion of|you stand- ing|
+"Fm7" F4- |"Bb7" F2 z2 |"Ddim7" G2"G7" F G |"Cm7" E2 G B |"Adim7" d2"D7" c d |"Gm7" B2"C7" G F | %28
+w: there.|_|There in the|mist how you|sighed when we|kissed with the|
+"Fm7" G2 F G |"Db7" E2 F E |1"Ebmaj7" E4- |"Fm7" E2"Bb7" z2 :|2"Ebmaj7" E4- | E2 z2 |] %34
+w: wind and the|rain in your|hair.|_|hair.|_|
+

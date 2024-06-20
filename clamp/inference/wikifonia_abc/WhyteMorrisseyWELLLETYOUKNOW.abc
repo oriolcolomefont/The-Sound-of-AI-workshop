@@ -1,0 +1,45 @@
+X:1
+T:WE'LL LET YOU KNOW
+C:Whyte
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"D" [DFA]6 D2 |"Gm" F>F- F>F- F2 z E |"D" F2 E2 FE F2- | F4"D/C#" z4 |"Bm" z4 z B,B,F- | %5
+w: * How|sad are _ we? _ and|how sad have we been?|_|we'll let you|
+w: * You|won der _ how _ we've|stayed a live till now|_||
+"Em" FF- F6 |"Bm" z4 z B,B,F- |"Em9" FF- F2 z2 FE |"Bm" DB, B,2- B,4 | z2 z2 z FFF | %10
+w: _ know _|We'll let you|_ know _ ah, but|on ly if _|you're real ly|
+w: |||||
+"A7" FE-EE- E2 z2 | z2 z2 z2 z2 ::"D" z4 FF F2 |"G" F6- FD |"D" G>F- FD G->F DE | F4"D/C#" F4- | %16
+w: In 'trest _ ed _||* We're all|smiles _ and|hon est _ I swear _ its the|turn stiles|
+w: ||We will de|scend _ on|an y _ one un ab le to|de fend|
+"Bm" F2 z2 z FFE |"Em" DB,- B,2 z4 |"Bm" z2 DB, F4 |"Em" z2 DB, FDB,F- |"Bm" F4 z4 | %21
+w: _ that make us|hos tile _|woh _ _|Woh, _ _ Woh, _ _|_|
+w: _ _ THEM _|SELVES _ _||||
+ z2 DB, FDB,G- |"A7" G4 z2 z2 | z2 z2 z2 z2 :|"D" z2 DE F2 FF- |"Gm" F4 z EFE |"D" DEFG A4 | %27
+w: Woh, _ _ Woh, _ _|_||And the songs we sing|_ they're not sup|posed to mean a thing|
+w: ||||||
+ z2 DE F2- D2 |"Bm" z2 DE F2- D2 |"Em" z2 DE F2 D2 |"Bm" z2 DE F2- D2 |"Em" z2 DE F2- D2- | %32
+w: La de dah _|La de dah _|La de dah _|La de dah _|La de dah _|
+w: |||||
+"Bm" D4 z4 |"Bm" z2 DE F2- D2 |"A7" G4 z2 z2 | z2 z2 z2 z2 |:"D" [A,DF]8 |"Gm" [_B,DG]8 | %38
+w: _|La de dah _|_||||
+w: ||||||
+"D" [A,DF]8 | [DFA]4"D/C#" [CFA]4 |"Bm" [DFB]8 |"Em" [EGB]8 |"Bm" [DFB]8 |"Em" [EGB]8 | %44
+w: ||||||
+w: ||||||
+"A" [CEA]8- | [CEA]8 |"A7" [CEG]8- | [CEG]8 :|"E" z2 EE z FzE |"G" z2 z2 z2 z2 |"E" z2 EF- F2 G2 | %51
+w: ||||We may seem cold||or we _ may|
+w: |||||||
+"D" FE E2 z2 EF |"E" G>G z G GG G/G/G |"G" GF- F2 z2 z D |"E" F2 z D F2 z D |"G9" FF D2 z4 |: %56
+w: ev en be the most|de press ing peo ple you've ev er|known _ _ At|heart what's left we|sad ly know|
+w: |||||
+"E" z2 z2 FFFE |"G9" F2 z2 FF z2 |"E" FEFE- EEFG |"D9" F z z2 z4 :| %60
+w: That we are the|last tru ly|Brit ish peo ple _ you'll ev er|know|
+w: ||||
+

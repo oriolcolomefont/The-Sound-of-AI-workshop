@@ -1,0 +1,17 @@
+X:1
+T:Huszárgyerek, huszárgyerek
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ c B3 A A3 | e e3 e e3 | f e3 d c3 | B4 E2 z2 :| d d3 d d3 | d2 e2 d2 c2 | B2 A2 e2 e2 | d4 G2 z2 | %8
+w: Hu- szár gye- rek,|hu- szár gye- rek|sze- re- ti a|tán- cot.|Ha csör- ge- ti,|hadd csör- ges- se,|peng- jen sar- kan-|tyú- ja,|
+w: Az ol- da- lán,|az ol- da- lán|csör- ge- ti a|kar- dot,|||||
+ c d3 e e3 | e2 d2 c2 z c | e d3 c2 B2 | A4 A2 z2 |] %12
+w: Kos- suth La- jos|ver- bunk- ja a|mu- zsi- kál- ta-|tó- ja.-|
+w: ||||
+

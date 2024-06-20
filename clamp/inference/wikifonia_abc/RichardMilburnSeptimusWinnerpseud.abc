@@ -1,0 +1,36 @@
+X:1
+T:Listen to the Mockingbird
+T:Listen to the Mockingbird
+T:Richard Milburn
+T:Septimus Winner, aka Alice Hawthorne
+T:(1855)
+T:Amsco Music Sales Co., N.Y.C. 1933
+C:Richard Milburn
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Moderato" DD |"D7" D3 D F2 (E>F) |"G" A(G G3) z (E>D) |"D7" D(F F3) z (E>D) |"G" D (G3 G) z DD | %5
+w: 1.~I'm *|dream- ing now of _|Hal- lie, _ Sweet *|Hal- lie, _ Sweet *|Hal- lie, _ I'm *|
+w: 2.~Ah, *|well I yet re- *|nen- ber, _ Re- *|mem- ber, _ Re- *|mem- ber, _ Ah, *|
+"D7" D3 D F2 (E>F) |"G" A(G G3) z BB |"C" ceee"D7" eddF |"G" G4 z2 || D2 |"D7" D3 D F2 (E>F) | %11
+w: dream- ing now of _|Hal- lie _ For the|thought of her is one that nev- er|dies.|She's|sleep- ing in the _|
+w: well I yet re\- _|mem- ber _ When we|gath- er'd in the cot- ton side by|side.|'Twas|in the mild Sep- *|
+"G" A(G G3) z (E>D) |"D7" D (F3 F) z E>D |"G" D (G3 G) z DD |"D7" D3 D F2 (E>F) |"G" A(G G3) z BB | %16
+w: val- ley, _ the _|val- ley, _ the *|val- ley, _ She's *|sleep- ing in the _|val- ley, * And the|
+w: tem- ber, _ Sep- *|tem- ber, _ Sep- *|tem- ber, _ 'Twas *|in the mild Sep- *|tem- ber _ And the|
+"C" ceee"D7" eddF |"G" G4 z2 |:"^CHORUS:" B/B/B/B/ |"D7" BA A2 z2 A/A/A/A/ |"G" AG G2 z2 G2 | %21
+w: mock- ing- bird is sing- ing where she|lies.|Lis- ten to the|mock- ing bird, Lis- ten to the|mock- ing bird, the|
+w: mock- ing- bird was sing- ing far and|wide.||||
+"D7" AAAA AcBA |"G" B4 z2 B/B/B/B/ |"D7" BA A2 z2 A/A/A/A/ |"G" AG G2 z2 G2 |"C" ceee"D7" eddF | %26
+w: mock- ing bird, stil sing- ing o'er her|grave; List- ten to the|mock- ing bird, Lis- ten to the|mock- ing bird, Still|sing- ing where the weep- ing wil- lows|
+w: |||||
+"G" G4 z2 :| %27
+w: wave.|
+w: |
+

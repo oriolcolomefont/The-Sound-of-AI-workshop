@@ -1,0 +1,20 @@
+X:1
+T:The Blue Skirt Waltz
+T:The Blue Skirt Waltz
+T:Vaclav Blaha
+T:Mitchell Parish
+C:Vaclav Blaha
+Z:Creative Commons BY
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" a3 | e ^d e |"F" f2 ^d |"C" e3 | c e e | c2 a |"G7" g3- | g3 | b3 | b ^a b | a2 g | g3 | %12
+w: I|dream of that|night with|you|La- dy when|first we|met|_|We|danced in a|world of|blue,|
+ g B d | g2 f |"C" e3- |"C7" e3 |"F" f f f | a2 a | a ^g a | f3 |"C" e e e | c c d | e3- | e3 | %24
+w: How can my|heart for-|get|_|Blue were the|skies and|blue were your|eyes,|Just like the|blue skirt you|wore|_|
+ e3 | c2 d | e c a |"G7" g3 | f2 f | e e d |"C" c3- | c z2 |] %32
+w: Come|back blue|la- dy come|back|Don't be|blue an- y-|more|_|
+

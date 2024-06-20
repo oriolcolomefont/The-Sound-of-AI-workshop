@@ -1,0 +1,17 @@
+X:1
+T:Jaj, de nagyon régen volt, de soká lesz
+T:Jaj, de nagyon régen volt, de soká lesz
+T:Hungarian song
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:2/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Cm" CC CD | EE DC |"G" D =B,3 | G,2 z2 | DD DE | FF ED |"Cm" E C3 | C2 z2 ::"Cm" G2 E2 | EF G2 | %10
+w: Jaj, de na- gyon|ré- gen volt, de|so- ká|lesz,|Mi- kor ne- kem|gön- dör ha- jú|ba- bám|lesz!|Gön- dör|a ha- ja,|
+"Fm" A2 F2 | FG A2 |"Cm" GF ED |"G" CF ED |"Cm" E C3 | C2 z2 :| %16
+w: kar- csú~a|de- re- ka,|Meg- ö- lel- ném,|de ő azt nem|a- kar-|ja.|
+

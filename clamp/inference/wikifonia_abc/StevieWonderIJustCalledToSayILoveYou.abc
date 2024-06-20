@@ -1,0 +1,44 @@
+X:1
+T:I Just Called To Say I Love You
+T:I just called to say I love you
+T:Stevie Wonder
+T:Rock
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z G B3/2 c/ |:"C" c2 z2 | z G B3/2 c/ | c2 z2 | z G B3/2 c/ | c B c d | e d c B |"Dm" A2 z2 | %8
+w: No New Years|Day|to cel- e-|brate|no choco- late|cov- ered can- dy|hearts to give a-|way|
+w: |rain|no flow- ers|bloom|no wed- ding|Sat- ur- day with-|in the month of|June|
+ z A ^c d | d4 | _d3/2 A/ d _d | A2 z2 | z A ^c3/2 d/ |"Dm7" d3/2 c/ c d |1"C" e c"G" c B || %15
+w: No first of|spring|* no song to|sing|in fact here's|just an oth er|or di- nar- y|
+w: but what it|is|* is some- thing|true|made up of|these three words that|fly to south- ern|
+"C" G2 z2 | z G B3/2 c/ :|2"C" e c c B || c2 z2 | z2 c c |"Dm" A2 z"G" c | B2 z G |"C" B c3 | %23
+w: day|No A- pril|I must say to|you|I just|called to|say I|love you|
+w: skies||||||||
+ z2 c c |"Dm" A2 z c |"G" B A G A |"Am" E2 z2 | z2 c c |"Dm" A2 z c |"G" B2 z G |"Am" d e c2 | %31
+w: I just|called to|say how much I|care|I just|called to|say I|love * you|
+w: ||||||||
+ z2 c c |"Dm7" A G F D |"C" E C"G" E E |"C" C2 z2 | z G B3/2 c/ :|"C" e c"G" c B |"C" c2 z2 | %38
+w: and I|mean it from the|bot- tom of my|heart|No sum- mers|words could ev- er|do|
+w: |||||||
+ z2 c c |"Dm" A2 z c |"G" B2 z G |"C" B c3 | z2 c c |"Dm" A2 z c |"G" B A G A |"Am" E2 z2 | %46
+w: I just|called to|say I|love you|I just|called to|say how much I|care|
+w: ||||||||
+ z2 c c |"Dm" A2 z c |"G" B2 z G |"Am" d e c2 | z2 c c |"Dm7" A G F D |"C" E C"G" E E |"C" C4 | %54
+w: I just|called to|say I|love * you|and I|mean it from the|bot tom of my|heart|
+w: ||||||||
+ z2 f f |"Gm" d2 z f |"C" e2 z c |"F" e f3 | z2 f f |"Gm" d2 z f |"C" e d c d |"Dm" A2 z2 | %62
+w: I just|called to|say I|love you|I just|called to|say how much I|care|
+w: ||||||||
+ z2 f f |"Gm" d2 z f |"C" e2 z c |"Dm" e3/2 f/ f2 | z2 f f |"Gm7" d c _B G |"F" A F"C" F G | %69
+w: I just|called to|say I|love * you|and I|mean it from the|bot- tom of my|
+w: |||||||
+"F" F2 z2 |"Db" F2 _A2 |"Eb" F4 | _E2 _E2 |"F" F4- | F4- | F4- | F A/A/ A z | z4 |] %78
+w: heart|of my|heart,|of my|heart.|||||
+w: |||||||||
+

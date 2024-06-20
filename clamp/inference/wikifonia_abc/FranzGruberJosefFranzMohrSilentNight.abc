@@ -1,0 +1,18 @@
+X:1
+T:Silent Night
+C:Franz Gruber
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G3 A G2 | E6 | G3 A G2 | E6 |"G7" d4 d2 | B6 |"C" c4 c2 |"C7" G6 |"F" A4 A2 | c3 B A2 | %10
+w: Si- _ lent|night,|Ho- _ ly|night,|All is|calm,|All is|bright.|Round you|Vir\- * gin|
+"C" G3 A G2 | E6 |"F" A4 A2 | c3 B A2 |"C" G3 A G2 | E6 |"G" d4 d2 |"G7" f3 d B2 |"C" c6 | e6 | %20
+w: Moth\- er and|Child,|Ho\- ly|in\- fant so|ten\- der and|mild,|Sleep in|Hea\- ven\- ly|peace||
+ c2 G2 E2 | G3 F D2 |"C" C6- | C6 |] %24
+w: Sle\- ep in|Hea\- ven\- ly|peace.||
+

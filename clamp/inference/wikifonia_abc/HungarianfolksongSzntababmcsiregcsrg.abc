@@ -1,0 +1,17 @@
+X:1
+T:Szánt a babám, csireg-csörög
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" Gc Bc |"G7" de fd |"G" g2 f2 |"C" e c3 | c2 z2!fine! |:"C" e3"G7" f |"G7" g d2 d |"C" cc GG | %8
+w: Szánt a ba- bám,|csi- reg- csö- rög,|sej- haj,|a já-|rom,|Szánt a|ba- bám a|be- ne- de- ki|
+w: Szép a ba- bám,|Be- ne- de- ken,|sej- haj,|nincs pár-|ja.|Szá- raz|a föld, a|hár- mas e- ke|
+"F" A A3 |"C" G2"G7" z2!D.C.! :| %10
+w: ha- tá-|ron|
+w: nem áll-|ja,-|
+

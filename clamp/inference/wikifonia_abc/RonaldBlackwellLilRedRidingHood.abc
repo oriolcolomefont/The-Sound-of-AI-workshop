@@ -1,0 +1,19 @@
+X:1
+T:Li'l Red Riding Hood
+T:Li'l Red Riding Hood
+T:Sam the Sham and the Pharohs
+T:Yes, probably
+C:Ronald Blackwell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Dm" D D D E |"F" F F F z |"G" z G G D |"G" G D G z |"Bb" F F F/E/ D |"A7" E E E/D/ C |"Dm" D4 |1 %7
+"A7" G G G z :|2"Dm" D D D2 |:"F" A3 G | A G F z |"Dm" z/ A/A/G/ A z/ G/ | A G F z/ z/ | %13
+"G" G G G F | G F G z |"C7" G G G z | G G A G!D.C.! :| %17
+

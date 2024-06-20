@@ -1,0 +1,25 @@
+X:1
+T:Beg Your Pardon
+T:Beg Your Pardon
+T:Francis Craig & Beasley Smith
+C:Francis Craig & Beasley Smith
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B, |"Eb" G2 A B | G2"Gbdim" F E |"Bb7" D F3- | F3 B, |"Fm7" A2 B c |"Bb7" B2 =A _A | %7
+w: If|I lose my|head, Beg Your|Par- don.|* For|things I have|said, Beg Your|
+"Eb" G B3- |"Eb7" B4 |"Ab" c2 A E | C E2 c |"Eb" B2"D" =A"Bbm" B |"C9" G3 G |"F9" G2 F E | %14
+w: Par- don.||Why should I|wor- ry, the|way that I|do, when|you're in no|
+"Cm7" G"F7" F2 E |"Bb9" D F A c- | c3 B, |"Eb" G2 A B | G2"Gbdim" F E |"Bb7" D F3 | F3 B, | %21
+w: hur- ry to|let me love you.|* I'll|try for a|kiss in the|gar- den,|* and|
+"Fm7" A2 B c |"Bb7" B2 =A _A |"Eb" G B3- |"Eb7" B3 =B |"Ab" c A E A/c/- |"Adim" c3 d | %27
+w: if I should|miss, Beg Your|Par- don,|* But|if some sun- ny day,|* you'll|
+"Eb" c B"D" =A/"Bbm" B"C+7" _A/- | A3"C7" G |"F9" G2 =B, C |"Fm7" B2"Bb7" B G |"Eb" F E3- | E3 z |] %33
+w: let me have my way,|* I|won't have to|say, Beg Your|Par- don.-||
+

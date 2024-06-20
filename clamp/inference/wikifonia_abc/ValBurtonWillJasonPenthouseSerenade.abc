@@ -1,0 +1,28 @@
+X:1
+T:Penthouse Serenade
+T:Penthouse Serenade
+C:Val Burton
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z3/2 E/ |:"C6" (3d d d (3c c c |"Cdim7" (3B B B A3/2 A/ |"Dm7" (3c c c (3A A A | %4
+w: Just|pic- ture a pent- house way|up in the sky, with|hin- ges on chim- neys for|
+"G7" (3G G G E3/2 E/ |"Dm7" (3G G G"G7" E/ E E/ |"Dm7" (3G G G"G7" E3/2 E/ |"C" C2"Ebdim7" c2 | %8
+w: stars to go by, a|swee slice of heav- en for|just you and I when|we're a-|
+"Dm7" G3"G7" G |"Cmaj7" (3d d d (3c c c |"Cdim7" (3B B B A3/2 A/ |"Dm7" (3c c c (3A A A | %12
+w: lone. From|all of so- ci- e- ty|we'll stay a- loof, and|live in pro- pri- e- ty|
+"G7" (3G G G E3/2 E/ |"Dm7" (3G G G"G7" E/ E E/ |"Dm7" (3G G G"G7" E3/2 E/ |"Cmaj7" C2"F7" _E2 | %16
+w: there on the roof, two|heav- en- ly her- mits we|will be in truth when|we're a-|
+"Cmaj7" C3 z |"Dm7" D F"C#dim7" E G |"Dm7" F A2"G7" A |"Cmaj7" G c"E7" B d |"Am7" c e2 e | %21
+w: lone.|We'll see life's mad|pat- tern as|we view old Man-|hat- tan, then|
+"D7" d e c d | B c A2 |"G7" B c A B | G A F G |"Cmaj7" (3d d d (3c c c |"Cdim7" (3B B B A3/2 A/ | %27
+w: we can thank our|luck- y stars|that we're liv- ing|as we are. In|our lit- tle pent- house, we'll|al- ways con- trive to|
+"Dm7" (3c c c (3A A A |"G7" (3G G G E3/2 E/ |"Dm7" (3G G G"G7" E/ E E/ |"Dm7" (3G G G"G7" E/ E3/2 | %31
+w: keep love and ro- mance for-|ev- er a- live, in|view of the Hud- son just|o- ver the drive, when|
+"Cmaj7" C2"F7" c2 |1"Cmaj7" c2"C#dim7" z"G7/D" z/ G/ :|2"C" c3 z |] %34
+w: we're a-|lone. Just|lone.|
+

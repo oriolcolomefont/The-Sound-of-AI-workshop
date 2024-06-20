@@ -1,0 +1,39 @@
+X:1
+T:I Want To Hold Your Hand
+T:I Want To Hold Your Hand
+C:Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4"G7" z2 GA |"C" (G>F E4) EG |"G7" (F>E) D6 |"Am" z EEE E2 E2 |"E" B,6 A2 |"C" (G>F) E4 EG | %6
+w: Oh yeh|I'll _ _ tell you|some- * thing|I think you'll un- der-|stand. When|I _ _ say that|
+w: ||||||
+"G7" (F>E) D6 |"Am" z EEE E2 Ee- |"E" e8 |"F" z cBA"G7" G2 F2 |"C" (G>FE>D"Am" E/D/C-) C2 | %11
+w: some- * thing,|I wan- na hold your hand.|_|I wan- na hold your|hand _ _ _ _ _ _ _|
+w: |||||
+"F" z cBA"G7" G2 D2 |"C" C6"G7" GA |:S"C" (G>F E4) EG |"G7" (F>E D6) |"Am" z EEE E2 E2 | %16
+w: I wan- na hold you|hand. 2.Oh *|please _ _ say to|me _ _|you'll let me be your|
+w: ||3.you _ _ got that|some- thin', _|I think you'll un- der-|
+"E" B,6 A2 |"C" G>F E4 EG |"G7" (F>E D6)!dacoda! ||"Am" z EEE E2 Ee- |"E" e8 |"F" z cBA"G7" G2 F2 | %22
+w: man. And|please _ _ say to|me _ _|you'll let me hold your hand.|_|now let me hold your|
+w: stand When|I _ _ say that|some- * thing,||||
+"C" (G>FE>D"Am" E/D/C-) C2 |"F" z cBA"G7" G2 D2 |"C" C8 |"Gm7" z2 D2 F2 A2 |"C7" G2 F2 E2 D2 | %27
+w: hand. _ _ _ _ _ _ _|I wan- na hold your|hand.|And when I|touch you I fell|
+w: |||||
+"F" CC- C4 CD- |"Dm" D8 |"Gm7" z2 D2 F2 A2 |"C7" G2 F2 E2 D2 |"F" C4 z FFG- |"G7" G4 z F"F"FG- | %33
+w: hap- py * in side.|_|It's such a|feel- ing that my|love, I can't hide,|_ I can't hide,|
+w: ||||||
+"G7" G4 z F"F"FG- |"G7" G8- | G6 A2!D.S.! :|O"Am" z EEE E2 Ee- |"E""E" e8 |"F" z cBA"G7" G2 F2 | %39
+w: _ I can't hide.|_|* Yeh|I wan- na hold your hand.|_|I wan- na hold your|
+w: ||||||
+"C" (G>FE>D"Am" E/D/C-) C2 |"F" z cBA"G7" G2 F2 |"E" E8 |"F" z cBA"G7" G2 D2 |"F" c8 | %44
+w: hand. _ _ _ _ _ _ _|I wan- na hold your|hand.|I wan- na hold your|hand.|
+w: |||||
+"C" !fermata!c8 |] %45
+w: |
+w: |
+

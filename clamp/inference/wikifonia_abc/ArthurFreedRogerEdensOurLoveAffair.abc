@@ -1,0 +1,52 @@
+X:1
+T:Our Love Affair
+T:Our Love Affair
+T:Arthur Freed,Roger Edens
+T:from the movie "Strike Up The Band"
+C:Arthur Freed, Roger Edens
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A7" A"Edim" E |"Dm7" F"Gdim" G"Dm7" A c | d2"G7b9" e2 |"C" c"G7" a"C" g2 |"C7b9" e"C" c c' z || %5
+w: |||||
+w: |||||
+"Cmaj7""^Verse" E E"Am7" E E |"Dm7" F F/E/"G7" D"E" E |"C" C G E/G/A/c/ |"Gm7" d/_B/G/F/"C7" E c | %9
+w: Here we are two|ver- y be- wil- der'd|peo- ple. * * * *||
+w: ||||
+"Fmaj7" A A"Dm7" A A |"Gm7" _B B/A/"C7" G"Bb" F/G/ |"F" F2"Bbm6" G, _B, | %12
+w: Here we are two|babes that are lost in the|wood. * *|
+w: |||
+"F" A,"G" G"Cdim" A"Bdim" B |"C" c c"C+" c c |"F" d c/A/"Abdim""Fm" G3/2 F/ |"Cmaj7" E E"Am" E E | %16
+w: * We're not quite|cer- tain what has|hap- pen'd to us, This|love- ly thing that's|
+w: ||||
+"Dm7" A G/F/"Fm" E3/2"Fdim" D/ |"C" C C"C+" C C |"Dm7" G F/E/"G7" D/C/ D |"C" C c"Em" z/ E/ e | %20
+w: so mar- vel- ous, But|right from here the|fu- ture looks aw- ful- ly|good * * *|
+w: ||||
+"Dm7" z/ F/ f"G7" d"G+" G |:"Cmaj7""^Chorus" A2"C" G C- | C3 G |"Dm7" A2"G7" G B- | B2 z G | %25
+w: * * * Our|Love Af- fair|* will|be such fun,|* We'll|
+w: |Love Af- fair|* was|meant to be,|* It's|
+"Cmaj7" A2"C" G C- | C"Cmaj7" E2"C" G |"Em7" d2"Am7" c"Em7" d- |"Cdim" d3 c |"G7" B3 d | %30
+w: be the en-|* vy of|ev- 'ry one,|* Those|fa- mous|
+w: me for you|* dear and|you for me,|* We'll|fuss, and|
+"Dm7" A A2"Cdim" c |"G7" G G"Cdim" B"Dm7" F- | F3"G+" ^D |"C" E G"G+" G"Gm6" G- |"A7" G3 ^D | %35
+w: lov- ers we'll|make them for- get!|* From|Ad- am and Eve|* to|
+w: quar- rel and|tears start to brew,|* But|af- ter the tears|* our|
+"D7" E B B"G7" B- | B3 G |"Cmaj7" A2"C" G C- | C3 G |"Dm7" A2"G7" G B- | B2 z G | %41
+w: Scar- lett and Rhett|* When|youth has had|* its|mer- ry fling|* We'll|
+w: love will smile through.|* I'm|sure that I|* could|nev- er hide|* The|
+"Cmaj7" A2"C" G C- | C"Cmaj7" E2"C" G |"E7" d2"Cdim" c"Gm6" d- |"E7" d3 c |"F" e3 d | %46
+w: spend our eve-|* nings re-|mem- ber- ing|* Two|hap- py|
+w: thrill I get|* when you're|by my side|* And|when we're|
+"Cdim" c c2 A |"G" B"G+" B"Em7" G"A6" B- | B2"A7" A"Edim" E |"Dm7" F"Gdim" G"Dm7" A c | %50
+w: peo- ple who|say on the square,|* Is- n't|ours a love- ly|
+w: old- er we'll|proud- ly de- clare,|* Was- n't|ours a love- ly|
+ d2"G7" e2 |1"C" c"G7" a"C" g2 ||"Fm" e"G7" d g"G+" G :|2"C" c"G7" a"C" g2 ||"G7b9" e"C" c c' z |] %55
+w: Love Af-|fair. * *|* * * Our|||
+w: Love Af|||fair.- * *||
+

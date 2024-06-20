@@ -1,0 +1,34 @@
+X:1
+T:When Johnny Comes Marching Home Again
+T:When Johnny Comes Marching Home Again
+C:Louis Lambert
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z E |"Am" A2 B c2 d | ecA ecA |"Gm" G2 A B2 c | dge dBG |"Am" A2 B c2 d | ecA"Gm" Bcd | %7
+w: |||||||
+"C" efe"E7" dcB |"Am" A2 a A2 E ||"Am/E" EAA A2 B | c2 B c2 A |"C/E" G3- G2 E | G3- G2 A | %13
+w: |* * * When|John- ny come march- ing|home a- gain, Hur-|rah, _ hur-|rah. _ We'll|
+"Am/E" EAA A2 B | c2 B c2 d |"C/E" e3- e2 c |"E7" e3- e2 (c/d/) |"Am/E" e2 e (ed)c | %18
+w: give him a heart- y|wel- come then, Hur-|rah, _ hur-|rah. _ The *|men will cheer, _ the|
+"E7" d2 d d2 B |"F" c2 c (cB)A |"E7" B2 B Bcd |"Am/E" e3"E7" d3 |"F" c3"E7" B3 |"Am/E" EAA A2 ^G | %24
+w: boys will shout, the|lad- ies, they _ will|all turn out. And we'll|all feel|gay when|John- ny comes march- ing|
+ A3- A2 E ||"Am" A2 B c2 d | ecA ecA |"Gm" G2 A B2 c | dge dBG |"Am" A2 B c2 d | ecA"Gm" Bcd | %31
+w: home. * *|||||||
+"C" efe"E7" dcB |"Am" A2 a A2 E ||"Am/E" (EA)A A2 B | c2 B c2 A |"C/E" G3- G2 E | G3- G2 A | %37
+w: |* * * The|old _ church bell will|peal with joy, Hur-|rah, _ hur-|rah _ To|
+"Am/E" (EA)A A2 B | c2 B c2 d |"C/E" e3- e2 c |"E7" e3- e2 (c/d/) |"Am/E" e2 e (ed)c | %42
+w: wel- * come home our|dar- ling boys Hur-|rah, _ Hur-|rah. _ The _|vil- lage lads * and|
+"E7" d2 d d2 B |"F" c2 c (cB)A |"E7" B2 B Bcd |"Am/E" e3"E7" d3 |"F" c3"E7" B3 |"Am/E" EAA A2 ^G | %48
+w: las- sies say, With|ro- ses they _ will|strew the way, And we'll|all feel|gay when|John- ny comes march- ing|
+ A3- A2 E |"Am" A2 B c2 d | ecA ecA |"G" G2 A B2 c | dge dBG |"Am" A2 B c2 d | ecA"Gm" Bcd | %55
+w: home. _ _|_ _ _ _||||||
+"C" efe"E7" dcB |"Am" A2 a A2 z |] %57
+w: ||
+

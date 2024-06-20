@@ -1,0 +1,33 @@
+X:1
+T:I'm Happy About the Whole Thing
+T:I'm Happy About the Whole Thing
+T:Jerome Kern
+T:© 1939
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+Q:1/4=130
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G2 ||"^A" F"Ebmaj7"E B, G,2 B, D2 |"Eb6" C6 B,2 |"Ebmaj7" CC C"Edim" C4 B, | %4
+w: I'm|hap- py a- bout the whole|thing. You|have the right looks, you're|
+"Fm7" CC C"Bb7" C4 B, |"Fm7" CC C C4 B, |"Bb7" CB, G F3 G2 |"Ebmaj7" FE B, G,2 B, D2 | %8
+w: sweet to my friends, You|keep the right books be-|tween your book ends. I'm|hap- py a- bout the whole|
+"Eb6" C6 B,2 |"Ebmaj7" CC C"Edim" C4 B, |"Fm7" CC C"Bb7" C4 =B, |"Gmaj7" DD D"Em" D3 D2 | %12
+w: thing. When-|e- ver we dance, you're|seen and not heard; You|of- fer your glance, but|
+"Gm7" DD D D3 E2 |"C7sus4" F8- |"C7" F2 F2 E2 D2 |"Fm7" F8- |"Bb7" F2 G2 A2 G2 || %17
+w: ne- ver a word. What's|more|_ you let me|sing!|* Your dis- po-|
+"Bbm7""^B" B4 F4- |"Eb7" F6 G2 |"Bbm7" B2 B2 A2 G2 |"Eb7" BBBB A2 G2 |"Abmaj7" A4 E4- | E6 F2 | %23
+w: si- tion|_ is|like old Sol you're|sun- ny as a po- li-|ti- cian.|_ Where-|
+"Gm7" G2 G2"C7" D3 E |"Fm7" FFFF"Bb7" C2 G2 ||"Ebmaj7""^C" FE B, G,2 B, D2 |"Eb6" C6 B,2 | %27
+w: as, to wit, I|real- ly must ad- mit I'm|hap- py a- bout the whole|thing. When|
+"Ebmaj7" CC C"Edim" C4 B, |"Fm7" CC C"Bb7" C4 B, |"Fm7" CC C"Bb7" C4 B, |"Bbm7" GG G"Eb7" G4 G | %31
+w: my at- ti- tude is|one of des- pair, you|get in my mood and|not in my hair, You're|
+"Abmaj7" A2 A2 GFAG- |"Abmaj" G6 F2 |"Fm7" BG E"Bb7" B,2 D F2 |"Ebmaj7" E8 |] %35
+w: al- ways right in the swing,|_ I'm|hap- py a- bout the whole|thing.|
+

@@ -1,0 +1,33 @@
+X:1
+T:Snowbird
+T:Snowbird
+T:Gene MacLellan
+C:Gene MacLellan 1969
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z f |:"F" f e e d |"Am" d c c F |"Gm" G4- | G3 c/c/ |"C7" c B B A | A G G A | B c A G | %8
+w: Be-|neath this snow- y|man- tle cold and|clean|* the *|un- born grass lies|wait- ing for its|coat to turn to|
+w: |I was young my|heart was young then|too|* an- y|thing that it would|tell me thats the|thing that I would|
+w: |Spread your tin- y|wings and fly a-|way|* and *|take the snow back|with you where it|came from on that|
+w: |breeze a- long the|riv- er seems to|say|* that he'll|on- ly break my|heart a- gain should|I de- cide to|
+"F" C4- | C3 f | f e e d |"Am" d c c F |"Gm" G4- | G3 c/c/ |"C7" c B B A | A G G A | B B A G |1 %17
+w: green|* the|snow- bird sings the|song he al- ways|sings|* and *|speaks to me of|flow- ers that will|bloom a- gain in|
+w: do|* but|now I feel such|emp- ti- ness with-|in|* for the|thing I want the|most in life isthe|thing that I cant|
+w: day|* the|one I love for|ev- er is un-|true|* and *|if I could you|know that I would|fly a- way with|
+w: stay|Solit- tle|snow- bird take him|with you when you|go|* to that|land of gen- tle|breez- es where the|peace- ful wa- ters|
+"F" F4- ||"^2,3," F3"^4" f :|2"F" F4- || F2 e/d/ c |"C7" e/ e3/2 e d | c c B c |"Bb" d4- | d4 | %25
+w: spring|* when|||||||
+w: win||||||||
+w: you|* The|||||||
+w: ||flow,|* Yeah, * *|If I could you|know that I would|fly||
+ z"Gm7" f f f |"F" f4- | f4- | f3 z |] %29
+w: ||||
+w: ||||
+w: ||||
+w: a- way with|you.|||
+

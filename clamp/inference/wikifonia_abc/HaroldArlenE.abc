@@ -1,0 +1,26 @@
+X:1
+T:Right as the Rain
+T:Right as the Rain
+T:Harold Arlen
+T:E.Y. Harburg
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+"F#m7b5" E3 D/B,/ |"Fm" C3 D |"E7#9" E3 D/B,/ |"Eb9" C3 D |"Dm7" E3"G7" A |"C" G2 E"F" C | %6
+w: Right as the|rain that|falls from a-|bove. So|real, so|right is our|
+"B7b9" D4- |"Bb9" D3"Am7" G |"Dm7" A2"G7" d B |"C" c G2 G |"D7" A2"G7b9" d B |"C" c3"Am7" G | %12
+w: love.|* It|came like the|spring- time that|breaks through the|snow. I|
+"Dm7" A A"G7" A/d/-d/B/ |"C" c3/2 G/"Am7" E C |"Gm7" A F D B, |"Fm6" G3 F |"C" E3"G7b9" D/B,/ | %17
+w: can't say what it * may|bring, I on- ly|know, I on- ly|know it's|right to be-|
+"C" C2 z/"G7" C/E/G/ |"D7" A A"G7" A A |"C" C2 z/ C/E/G/ |"E7#9" B B B B |"Am7" C2"A7" B ^c | %22
+w: lieve what- ev- er|gave your eyes this|glow, what- ev- er|gave my heart this|song can't be|
+"Am7" d4- |"Dm7" d3"G7" c |"F#m7b5" e2 z/ d/B/c/- |"Fm" c3 d |"E7#9" e3 d/B/ |"Eb9" c3 d | %28
+w: wrong.|* It's|right as the rain|* that|falls from a-|bove and|
+"Dm7" e e (3e c A |"G7" F2 d B |"C" c4 |] %31
+w: fills the world with the|bloom of our|love.|
+

@@ -1,0 +1,34 @@
+X:1
+T:The Ugly Duckling
+T:The ugly duckling
+T:Frank Loesser
+T:Cha -cha or rock
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 d2 ||"Cm" e2 GG"F7" e2 A2 |"Bb" d2 F4 d2 |"Cm" ee G2"F7" ee A2 |"Bb" f4 z2 dd | %5
+w: There|once was an ug- ly|duck- ling- with|feath- ers all stub- by and|brown and the|
+w: That|poor lit- le ug- ly|duck- ling- went|wand- er- ing far * and|near but at|
+w: I'm|not such an ug- ly|duck- ling- No|feath- ers all stub- by and|brown for in|
+"Cm" e2 G2"F7" e2 A2 |"Bb" d2 d^c"G7" d2 _A2 |"Cm" G3 e"D7" d2 c2 |"Gm" B6"Bb7" z2 | %9
+w: oth- er birds in|so man- y words said:|zz get out of|town|
+w: ev- ry place they|said to * his face|xx get out of|here|
+w: fact these birds, in|so man- y words said"|tsk the best in|town!|
+"Eb" G3 e"F7" d2 c2 |"Bb" F3 d"Gm" c2 B2 |"Cm" E3 c"F7" B2 A2 |"Bb" B4 z2 AB | %13
+w: zz get out! *|zz get out! *|zz get out of|town and he|
+w: xx get out! *|xx xx get out!|xx xx get out|here and he|
+w: tsk the best! *|tsk the thebest! best!|tsk tsk the best|in town not|
+"Eb" G2 A"Bb"B F2 AB |"Cm" EBAB"Bb" D2 AB |"Cm" CB B2"F7" B2 A2 |"Bb" B4 z2"A" ab | %17
+w: went with a quack and a|wad- dle and a quack in a|flur- ry of Ei- der-|down * *|
+w: went with a quack and a|wad- dle and a quack and a|ve- ry un- hap- py|tear but one|
+w: a quack not a quack not|wadd- le or a quack but a|bird of great re- *|nown. * *|
+"Eb" g2 ab"Bb" f2 ab |"Cm" ebab"Bb" d2 ab |"Cm" cb b2"F7" b2 a2 |"Bb" b4 z4 |] %21
+w: ||||
+w: day he became a SWAN and|then he sang * * * *|||
+w: ||||
+

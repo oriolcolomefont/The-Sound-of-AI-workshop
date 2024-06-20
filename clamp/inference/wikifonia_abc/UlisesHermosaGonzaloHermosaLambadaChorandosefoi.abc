@@ -1,0 +1,78 @@
+X:1
+T:Lambada - Chorando se foi
+T:Chorando Se Foi (Lambada)
+T:Gonzalo and Ulises Hermosa
+C:Ulises Hermosa, Gonzalo Hermosa
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Flute" snm="Fl."
+%%MIDI program 73
+V:1
+ z8 |"Dm" D>DFA D>DFA | z [Adf] z [Adf] z [Adf] A2 |"Dm" D>DFA D>DFA | %4
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+ z [Adf] z [Adf] z [Adf] A2 |:"Dm" a3 g fe d2 |"Bb" dfed"C" cdAG |"Dm" A6 !~(!A2 | %8
+w: |1.~Instrumental * * * *|||
+w: |2.~Chor~~~~~~~~~~~~- an- do se foi|quem un di- a so me fez cho-|rar *|
+w: |3.~~A~~~~~~~~~~~~~~~~~ re- cor- da- ção|vai es- tar com el- e aon- de-|for *|
+w: |~ * * * *|||
+"Dm" !~)!a3 g fe d2 |"Bb" dfed"C" cdAG |"F" A6 z2 |"Gm" g2 gf B2 Bd |"Gm" a2 gf B2 df | %13
+w: |||Chor- an- do estará a- o|lembrar um a- mor que um|
+w: Chor an- do so foi|quem un di a so me fez cho-|rar.|Dança, sol e mar guar- dar-|ei no ol- har. Oh a-|
+w: A re- cor- da- ção|vai es- tar com el- e aon- de|for.|||
+w: |||||
+"C" ee/d/cc- cdcd- |"Dm" d8 |"Gm" gggf B2 Bd | a2 gf B2 df |"C" ee/d/ c2 ccdc | %18
+w: di- * * a não _ sou- be cui-|dar.|Chor- * and- do estará a- o|lembrar um a- mor que um|di- * * a não _ sou- be|
+w: mor _ _ faz perder _ e en- con-|trar.|Lam- * ban- do estarei a- o|lembrar que este amor por um|di- * * a um in- stan- te|
+w: |||||
+w: |||||
+"Dm" f/e/d-"^x3" d6 :|"Dm" A/[df][df]/ [df]2 A/[df][df]/ [df]2 | %20
+w: cui- * dar. _|_ _ _ _ _ _ _ _|
+w: foi _ rei. _|_ _ _ _ _ _ _ _|
+w: ||
+w: ||
+"F" c/[fa][fa]/ [fa]2 c/[fa][fa]/ [fa]2 |"Dm" A/[df][df]/ [df]2 A/[df][df]/ [df]2 | %22
+w: ||
+w: ||
+w: ||
+w: ||
+"F" c/[fa][fa]/ [fa]2 c/[fa][fa]/ [fa]2 |"Gm" g2 gf B2 Bd |"Gm" a2 gf B2 df |"C" ee/d/cc- cdcd- | %26
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+"Dm" d8 |"Dm" a3 g fe d2 |"Bb" dfed"C" cdAG |"Dm" A6 !~(!A2 |"Dm" !~)!a3 g fe d2 | %31
+w: |A re- cor- da- ção|vai es- tar com el- e aon- de|for *|A re- cor- da- ção|
+w: |||||
+w: |||||
+w: |||||
+"Bb" dfed"C" cdAG |"Dm" A6 z2 |"Gm" g2 gf B2 Bd |"Gm" a2 gf B2 df |"C" ee/d/cc- cdcd- |"Dm" d8 | %37
+w: vai es- tar com el- e aon- de|for|Chor- an- do estará a- o|lembrar um a- mor que um|di- * * a não _ sou- be cui-|dar.|
+w: ||||||
+w: ||||||
+w: ||||||
+"Gm" gggf B2 Bd | a2 gf B2 df |"C" ee/d/ c2 ccdc |"Dm" f/e/d- d6 | %41
+w: Can- * ção, _ riso, e dor|melodia de a- mor Um mo-|men- * * to qu fi- cou no|ar _ _ _|
+w: ||||
+w: ||||
+w: ||||
+"Dm" A/[df][df]/ [df]2 A/[df][df]/ [df]2 |"F" c/[fa][fa]/ [fa]2 c/[fa][fa]/ [fa]2 | %43
+w: Ai ai ai * * * * *|Dan- çan- do * Lam- ba- da !!|
+w: ||
+w: ||
+w: ||
+"Dm" A/[df][df]/ [df]2 A/[df][df]/ [df]2 |"F" c/[fa][fa]/ [fa]2 c/[fa][fa]/ [fa]2 | %45
+w: ||
+w: ||
+w: ||
+w: ||
+"Gm" g2 gf B2 Bd |"Gm" a2 gf B2 df |"C" ee/d/cc- cdcd- |"Dm" d8 |] %49
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

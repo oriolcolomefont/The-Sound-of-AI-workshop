@@ -1,0 +1,40 @@
+X:1
+T:Maybellene
+T:Maybellene
+T:Chuck Berry,Russ Fratto,Alan Freed
+T:
+C:Chuck Berry,Russ Fratto.Alan Freed
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"C9#5" d3 d ||S"F6" c8- | c2 dd- dc F2 | A8 | z2"F7" C2"Bb7b9" _A2 A2 | F8- | F2 _AA- AF F2 | %7
+w: May- bel-|lene|* Why can't * you be|true?|Oh! May- bel-|lene|* Why can't * you be|
+w: |||||||
+w: |||||||
+"F6" A8- | A4 z2 A2 |"C7" BB A2 BB =B2 | c2 B2"Ddim" _A3 F |1"F" F8- || %12
+w: true?|* You've|start- ed back do- in' the|things you used to|do|
+w: |||||
+w: |||||
+"^Segue to Verse" F4 z2 z F ||2"F""Db9""C9""F6" F8 || _F6 z2!fine! ||"Bb9""^Verse" _A-A A2 AAGG | %16
+w: * As|||1.......I * was mo- ti va tin'|
+w: * The|||2....Cad- il- lac pulled * up a-|
+w: * The|||3....mo- tor cooled down, * the *|
+ GGF_A- A2 z F | _A2 AA G-GDD |"F6" F2 FC- C2 z F |"C7" _AAAA GGDD |"Bb9" F-FFA-"F6" A3 F | %21
+w: o- ver the hill * I|saw May- bel- lene * in a|Coup de Ville * A|Cad- il- lac a- roll- in' on the|o- * pen road, * *|
+w: head of the Ford, * The|Ford got * hot and would- n't|do no more, * It|then * got * cloud- y and *|start- ed to rain, * I|
+w: heat * went down * And|that's when I heard * that *|high- way sound, * The|Cad- il- lac a- sit- tin' like a|ton * of lead * A|
+"Bb9" _AAAA G2 D-D |"F6" F2 FC- C2 z F |"C7" _AAA-A GGD-D |"Bb9" F-FFA-"F6" A-ADD | %25
+w: Noth- in' will out- run my *|V. 8. Ford, * The|Cad- il- lac * do- in' bout *|nine- * ty five * * She's *|
+w: toot- ed my * horn for a|pass- in' lane, * The|rain * wa- ter blow- in' all *|un- der my hood * * * I|
+w: hun- dred and- * ten half a|mile a- head, * The|Cad- il- lac * lok- in' like it's|sit- * tin' still- * And * I|
+"Bb9" _AAAA GGDD |"F6" F-FFC- C"C9#5""C9#5" d2 d!D.S.! |] %27
+w: bump- er to * bump- er, roll- in'|side * by side * May- bel|
+w: know that I was do- in' my *|mo- * tor good * May- bel|
+w: caught * May- bel- lene * at the|top of the hill. * May- bel|
+

@@ -1,0 +1,61 @@
+X:1
+T:Caruso
+T:Caruso
+T:Lucio Dalla
+T:©WA
+T:Wim Alderding
+T:Caruso
+T:2
+T:Caruso
+T:3
+T:verse 4
+C:Lucio Dalla
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/16
+Q:1/4=66
+M:4/4
+K:Dmin
+V:1 treble nm="Piano"
+%%MIDI program 4
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 4
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/4
+V:1
+"^rubato""Dm9" z16"Bbmaj9" |"Gm" z16"Gm" |"Fmaj9" z16"Bb2""Bb" |"C9" z16"C" |[M:2/4] z8 || %5
+[M:4/4]"Dm9""^lento 66 verse 1" z4 AA/A/A/A/(A A/)"Dm"A/A z2 z DFA |"Gm7" c6 BA (A2<G2) G4 | %7
+"C/G" z3 G/G/ G/G/G/(G/G<)G"A7sus4" z3 A,"A7" A,A,^CE |"Dm9" B2>A2 (F4"Dm" F2)D2 z4 | %9
+"Dm9" z3 A A/A/AA/A/A/A/"Dm" A2<D2 z D(3DFA |"Gm7" c6 BA A2<(G2 G4) | %11
+"C" z2 GG/G/ (3GGGGG"A7sus4" z2 ^CE"A7" B2>A2 |"Dm9" F4 F2 z2 z8 |"Dm" z4 A4 d4 f4 || %14
+"Gm7" f6 e2 B8 |"C" z4 e2e2 e2<(g2"A7" g2)f2 |"Dm9" e4 (d2>d2)"Dm" A8 |"Dm" z4 A2>d2 d2f2 f4 | %18
+"Gm7" f6 e2 B8 |"C" z4 e2ee"A7sus4" ee g4"A7" f2 |"Dm9" e2d2 d2dA"Dm" A8 || %21
+"Dm9""^verse 2 & 3" z2 A/A/A/A/ AAA(A A)"Dm"A z2 DD/(D/F)A |"Gm7" c4 cB/B/AG G4 z4 | %23
+"C/G" z2 G/G/G G/G/G/G/GG"A7" G2 z2"A" z A,/A,/A,E |"Dm9" B2A(F F)ED2"Dm" z8 | %25
+"Dm9" z4 A/A/A/A/AA AAAA z D/(D/F)A |"Gm7" c6 B2 A2 G6"Fmaj7" | %27
+"Em7" z GG/G/G/G/ G/G/G/G/G/G/G/G/"A7sus4" G>GG z"A7" z A,^C/E/"_To Coda"GO | %28
+"Dm9" B>BAB BAF2"Dm" D2 z2 z4 |"Dm" z AA/A/A/A/ A/A/A/A/AA"A/C" z3 D/D/"F/C" DDFA | %30
+"Bb9" c6"Dm/A" B2"Gm6" A2 G6"F6" |"Em7" G4 G/G/G/G/G/G/G/G/"A7sus4" G>GGA,"A7" A,A,(3^CEG | %32
+"Dm9" B2>A2 (F4 F2)D2 z4 |"Dm" z4 A4 d4S f4"^D.S. al Coda"O ||"Dm" B2A2 F4 F8 || %35
+[K:Bbmin]"Bbm9" z f2f/f/ ffff"Bbm" fBB2 (3BBBdf | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | %44
+ z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 | %60
+ z16 |] %61
+V:2
+ E E D [B,CF] | [CF]2 [B,DG]2 | [G,A,CE]2 [A,DF]2 | [DE]2 [CE]2 |[M:2/4] [E,G,CE]2 || %5
+[M:4/4] [EFA] [EFA] [DFA] [DFA] | [B,Fc] [B,FB] [G,B,DF] [DF]/B,/ | [G,CE] [G,CE] [G,DE] [G,^CE] | %8
+ [EFA] [EFA]/A,/ [A,DF]3/2 A,/ | [EFA] [EFA]/A,/ [DFA] [DFA] | [B,Fc] [B,FB] [B,FA] [A,DG]/B,/ | %11
+ z4 | z4 | D A d f || [df]3/2 e/ [DGB]/B/4c/4 [GBd]/>f/ | [EGc] [Gce]/e/ [Gce]/<(g/ [G^cg]/)f/ | %16
+ [FAe] [EFA]/>D/ A,/[EG]/ [DF] | [DFA] [DFA] [Dd] [Adf] | [GBdf]3/2 e/ [DGB]/G/4A/4 [DGB]/A/ | %19
+ [CEG] [Gce]/[Gce]/ g [G^c]/f/ | [FAe] [EFA] A/G/ A || [EFA] [EFA] [DFA] [DFA] | %22
+ [B,Fc] [B,FB] [B,FA] [DFG]/f/ | [Gce] [CEG] [DEA] [^CEA] | [EFA] [EFA] [DFA] [DFA]/4D/4F/4A/4 | %25
+ [FAe] [EFA] [DEG] [DFA] | [B,Fc] [B,FB] [B,FA] [CEA] | [B,DG] [DEG]/B,/ [DEG] [^CEG] | %28
+ [EFA] [EFA] [DFA] [DFA] | [DFA] [FAd] [A^ce] [A=cf] | [DFc] [Fd] [Bde] [Adf] | %31
+ [B,DG] z [G,DE] [G,^CE] | [EFA] [EFA] [EFA]/[DA]/[Fd]/[Af]/ | [da] A c f || %34
+ [DA]/[EG]/[FA]/[EG]/ [FA]2 ||[K:Bbmin] [FBdf] [CDF] [B,DF] [B,D]/F/ | z4 | z4 | z4 | z4 | z4 | %41
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %60
+ z4 |] %61
+

@@ -1,0 +1,18 @@
+X:1
+T:Éjjel az omnibusz tetején
+T:Éjjel az omnibusz tetjén 
+C:Zerkovitz Béla
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" c2 AB c2 AB | ce c3 c Bc |"G" df d3 d cB |1"C" c4 z4!fine! :|2"C" c4 z eff ||"C" gege gega | %6
+w: Éj- jel az om- ni- busz|te- te- jén, em- lék- szel,|ki- csi- kém, de csu- da|volt,|* Mi- köz- ben|a lo- vacs- kák ban- du- kol- tak|
+w: Lent nyi- ko- rog- tak a|ke- re- kek,~s fe- let- tünk|ne- ve- tett a te- li-|hold.|||
+ g"Dm" ^f3 f4 |"C" ecec eceg | e"D" ^d3 d4!D.C.! |] %9
+w: Bu- dán át,|El- ol- tot- tam é- gő aj- kad,~s|a lám- pát,-|
+w: |||
+

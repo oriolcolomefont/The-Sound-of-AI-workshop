@@ -1,0 +1,28 @@
+X:1
+T:Marianne
+T:Marianne
+T:Terry Gilkyson:  Rich Dehr:  Frank Miller
+C:Terry Gilkyson, Frank Miller, Richard Dehr
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" C A A A | C A A A |"C7" A G B A | G4 | C G G G | C G G G | G B A G |"F" F4 | C A A A | %9
+w: Mar i anne oh|Mar i anne oh|wont you mar- ry|me?|We can have a|bam- boo hut and|bran- dy in the|tea|Leave your fat old|
+w: When she walks a-|long the shore *|peo- ple pause to|greet|White birds fly a-|round her Lit- tle|fish come to her|feet|In her heart is|
+ C A A A |"Bb" c B d c | B4 |"C7" d d e d |"F" c2 c2 |"C7" z B2 c | %15
+w: ma- ma home, she|nev- er will say|yes|If ma- ma dont|know now|she can|
+w: love but I'm the|on- ly mor tal|man|who's al- lowed to|kiss my|Mar- i-|
+"F" A"^(spokentacet)" ^^c/ ^^c ^^c ^^c/ ||"F" A2 c2 | F2 A2 |"C7" A G B2- | B4 |"C7" G2 B B | %21
+w: guess my * my yes|All day|all night|Mar- i- anne||Down by the|
+w: anne Dont rush me *||||||
+ E2 G2 |"F" G F A2- | A4 | A A c c | F2 A A |"C7" A G B2- | B4 | G2 B B | E2 G2 |1"F" G F F2- || %31
+w: sea- side|sift- in sand||Ev- en lit- tle|chi- dren love|Mar- i- anne||Down by the|sea- side|sift- in sand|
+w: ||||||||||
+ F z"C7" z2 :|2"F" G F F2- || F3 z |] %34
+w: |sift- in sand.||
+w: |||
+

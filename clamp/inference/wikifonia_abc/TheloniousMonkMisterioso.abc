@@ -1,0 +1,20 @@
+X:1
+T:Misterioso
+T:Misterioso
+T:Thelonious Monk
+C:Thelonious Monk
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Bb7" F,DG,E A,FG,E |"Eb7" B,GC_A _DBCA |"Bb7" F,DG,E A,FG,E |"Bb7" F,DG,E A,FG,E | %4
+"Eb7" B,GC_A _DBCA |"Eb7" B,GC_A _DBCA |"Bb7" F,DG,E A,FG,E |"Bb7" F,DG,E"Dm7" A,F"Dbm7"_A,=E | %8
+"Cm7" G,E_A,=E =A,F_A,E |"F7" G,E_A,=E =A,F_A,E |"Bb7" F,DG,E A,FB,G |1"Bb9b5" C_A-"B9b5" A6 :|2 %12
+"Bb9b5" C_A- A4 z2 |] %13
+

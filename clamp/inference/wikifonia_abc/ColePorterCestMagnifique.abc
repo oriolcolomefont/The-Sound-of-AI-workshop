@@ -1,0 +1,24 @@
+X:1
+T:C'est Magnifique
+T:C'est Magnifique
+T:Cole Porter
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+V:1
+"^Foxtrot" G |"C" c3 d | e3 B | A B A B | A G G G/G/- |"Em7" G4 |"Ebdim" z A A A |"Dm" A2 F2- | %8
+w: When|love comes|in and|takes you or a|spin oo la la la|_|C'est mag- ni-|fi- que|
+"G7" F2"A7" z A |"Dm" d3 e | f3 c |"Dm7" B c B c | B A A A/A/- |"Dm7" A4 |"D#dim" z B B G | %15
+w: _ when|ev- 'ry|night your|loved one holds you|tight oo la la la|_|C'est mag- ni-|
+"C" A2 E2- |"G13" E3 G |"C" c3 d | e3 B | A B A B | A G G G/G/- |"Cmaj7" G4 |"C7" z c/d/ e c | %23
+w: fi- que|_ but|when one|day your|loved one drifts a-|way oo la la la|_|it is so tra-|
+"F" e2 d2- | d3 A | d3 e |"Fm" f3 d |"Em" e d c A |"Am7" G E G e |"D7" d4 |"G7" e4 |"C" c4- | %32
+w: gi- que|_ but|when once|more he|whis- pers "Je t'a-|dore" C'est mag- ni-|fi-||que.|
+ c3 z |] %33
+w: _|
+

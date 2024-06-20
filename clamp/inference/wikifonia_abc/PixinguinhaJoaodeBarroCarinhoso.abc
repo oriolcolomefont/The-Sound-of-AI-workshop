@@ -1,0 +1,33 @@
+X:1
+T:Carinhoso
+T:Carinhoso
+T:Pixinguinha & João de Barro (1937)
+T:1
+T:2
+T:Carinhoso
+C:Pixinguinha
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ (3:4:3c B A || c4- | c2 (3c B A | c4- | c2 (3e ^d c | e4- | e2 (3e ^d c | g4- | g2 (3g ^^f g | %9
+w: Meu co- ra-|ção|* Não sei por|quê|* Ba- te fe-|liz|* Quan- do- te|vê|* Se os meus|
+ b3/2 a/ (3g f b | f3/2 e/ (3f e a | e3/2 d/ (3d c f | c3/2 B/ (3c B A | c4- | c2 (3B A B | A4- | %16
+w: ó- lhos fi- cam sor-|rin do e pe- las|ru- as vão te se-|guin- do mas mes- mo|assim|* fo- ges de|mim|
+ A2 g/a/g/f/ |: e/f/e/^d/ c/d/c/B/ | A/B/c/^d/ e/d/c/d/ | c2 g/a/g/f/ | e/f/e/^d/ c/d/e/f/ | %21
+w: * Ah, se tu sou-|bes- ses co- mo~eu sou tão ca- ri-|nho- so e~mui to mui to que te|que- ro * * *|* * * * E co- mo é~sin|
+ g/f/e/c/ B/c/^d/e/ | f/g/f/c/ e/^d/c/B/ | e2 =f2 | f2 g2 | a4 | (3z g f (3e c A | G2 ^B2 | %28
+w: ce- ro~o meu a- mor Eu sei que|tu não fu- gi- ri- as mais de|mim Vem,|vem, vem,|vem|Vem sen- tir o ca-|lor dos|
+ ^d2 g2 | f4- | (3f d c (3B c d | c4- | c2 (3z ^B c | a2 (3g a g | f2 (3e f e | d2 (3c d c | %36
+w: lá- bios|meus|* à pro- cu- ra dos|teus|* Vem ma-|tar es- ta pai-|xão que me de-|vora o cor- ra-|
+ B/c/d/e/ =f a | a2 (3c ^B c | e2- (3e B c |1 A4- | A z g/a/g/f/ :|2 A4- || A2 (3c B A | c4- | %44
+w: ção e só as- sim en-|tão se- rei fe-|liz * bem fe-|liz|* Ah, se tu sou-|liz|||
+ c2 (3c B A | c4- | c2 (3B A B | A4- | A2 z2 |] %49
+w: |||||
+

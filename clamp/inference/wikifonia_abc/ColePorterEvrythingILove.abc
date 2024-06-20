@@ -1,0 +1,32 @@
+X:1
+T:Ev'rything I Love
+T:Ev-rything I Love
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Ebm" z E/E/- E/F/ _G |"Abm" B A3 |"Bb7" z D/D/- D/E/ F |"Abm6" A"Ebm" _G3 |"Eb7" z G/G/- G/A/ B | %5
+w: If I _ were Lord|By- ron,|I'd write _ you, sweet|sir- en,|A po- * em in-|
+"Dbm6" _d"Abm" _c3 |"Db7" z/ A/A/A/ A/ _G B/- |"Gb""Bb7" B4 |"Ebm" z E/E/- E/F/ _G |"Abm6" B A3 | %10
+w: spir- in',|A kil- ler dil- ler- oo.|_|Too bad _ I' no|po- et,|
+"Db7" z A/A/- A/B/ _c |"Cb" e"Gb" _d2 d |"Bb" z/ d d/- d c/B/ |"Gb7" _d d/d/- d c/B/ | %14
+w: I hap- * pen to|know it, But|y way _ here's a|roun- de- lay _ that I|
+"C7" c"Cbpower" c"F7" c/B/ G |"Bb7" B4 ||"Eb""^Refrain" z G G2 |"Eb+" z G G2 |"Abmaj7" G3 C | %19
+w: wrote last night a- bout|you.|You are|to me|ev- 'ry-|
+"Fm" C4 |"Bb9" z c c2 |"Bb+9" z c c2 |"Eb" c3 G | G4 |"Eb6" z e e2 |"Eb+7" z e e2 |"Ab" e3 c | %27
+w: thing,|My life|to be,|ev- 'ry-|thing.|When in|my sleep|you ap-|
+"C7" c4 |"Db7" z _d"Ebm" d2 |"Edim" z _d"Db7" d2 |"Gb" _d3 B |"Bb7" B3 z |"Eb" z G G2 | %33
+w: pear,|Fair skies|of deep|blue ap-|pear.|Each time|
+"Eb+" z G G2 |"Abmaj7" G3 C |"Fm" C4 |"Bb9" z c c2 |"D7" z =A/B/ c d- |"G" d d2 G | G4 | %40
+w: our lips|touch a-|gain,|I yearn|for you oh, so|_ much a-|gain.|
+"Cm" z e e3/2 d/ |"Bbm7" _d/ e"Eb7" c/- c3/2 =B/ |"Ab" (3B c e"C7" (3^F G c |"F7" =F4 | %44
+w: You are my|fav- 'rite star, _ My|hav- en in heav- en a-|bove.|
+"Eb" z G"C7" G2 |1"Fm" z/ A F/"Abm6" E"Bb7" D ||"Eb""Cm" E4- |"Abmaj7" E"F9" z"Bb+7" z2 :|2 %48
+w: You are|ev- 'ry- thing I|love.|_|
+"Fm7" z/ A c/ e"Bb7" f ||"Eb""Bb+9" e4 |"Eb6" e2- e z |] %51
+w: ev- 'ry- thing I|love.|_ _|
+

@@ -1,0 +1,32 @@
+X:1
+T:My Way
+T:My Way
+T:by Frank Sinatra
+C:My Way
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z2 z2 C2 |:"F" A4 z CAG |"Am" A4 z CAG |"Cm" A4 z GAG |"D7" G2 ^F4 D2 |"Gm" B4 z DBA | %6
+w: And|now the end is|near and so I|face the fi- nal|cur- tain. My|friend I say it|
+w: |loved, I've laughed and|cried. I've had my|fill my share of|lo- sing. And|now as tears sub-|
+"Gm7" B4 z DBA |"C7" B4 z cGG |"F" B2 A4 z =B | c4 z =Bcd |"F7" c4 z dAc |"Bb" B4 z BBA | %12
+w: clear I'll state my|case of which I'm|cer- tain. I've|lived a life that's|full I've trav- eled|each and ev'- ry|
+w: side I find it|all * so a-|mus- ing. To|think I did all|that and may I|say not in a|
+"Bbm" c2 B4 B2 |"F" A4 z CBA | G4"C7" E2 FG |"Bbm" G8 |"F" F4 A2 Bc | c4 z dc=B |"F7" c4 z Bcd | %19
+w: high- way and|more much more than|this. I did it|my|way. Yes there were|times I'm sure you|knew, when I bit|
+w: shy way. Oh|no Oh no not|me. I did it|my|way. What is a|man? What has he|got? If not him-|
+"Bb" d4 ccdc | d4 z def |"Gm7" f4 z dfd |"C7" e4 z efg |"Am7" g4 z aeg |"Dm" f4 z def | %25
+w: off more than I could|chew. But thru it|all when there was|doubt I ate it|up and spit it|out. I faced it|
+w: self _ then he has|not. To say the|things he tru- ly|feels and not the|words of one who|kneels. The rec- ord|
+"Gm7" f4 z dfd |"C7" e4 z efg |"Bbm" g8 |1"F" f6 C2 :|2"F" f6 z2 |] %30
+w: all and I stood|tall and did it|my|way. I've||
+w: shows I took the|blows and did it|_||way.|
+

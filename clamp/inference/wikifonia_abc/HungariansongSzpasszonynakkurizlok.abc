@@ -1,0 +1,22 @@
+X:1
+T:Szép asszonynak kurizálok
+T:Csárdáska 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" G2 G2 G3 G |"Fm" FG A2"Cm" G4 |"G" DE F2 E4 | =B,C D2"Cm" C4 :|"Cm" c c2 c cd c2 | %5
+w: Szép asz- szony- nak|ku- ri- zá- lok,|ku- ri- zá- lok,|ku- ri- zá- lok,|Jaj, jaj, jaj, a szí- vem,|
+w: Az u- rá- ra|fity- tyet há- nyok,|fity- tyet há- nyok,|fití- tyet há- nyok.||
+"Bb" B B2 B Bc B2 |"Fm" A3 A c2 A2 |"Cm" G2 A2 G4 |"Fm" F2 F2 FG F2 |"Cm" E E2 E EF E2 | %10
+w: meg ne- tudja sen- ki sem,|hogy a kis- lányt|sze- re- tem,|Csak a cig- ány egyedül,|aki né- kem he- ge- dül,|
+w: |||||
+"G" D2 G2 G3 E |"Cm" DCC=B, C4 |] %12
+w: csak õ tud- ja|egy- es- egy- e- dül.|
+w: ||
+

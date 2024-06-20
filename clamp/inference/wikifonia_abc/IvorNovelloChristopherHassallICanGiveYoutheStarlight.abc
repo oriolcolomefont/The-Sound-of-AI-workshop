@@ -1,0 +1,22 @@
+X:1
+T:I Can Give You the Starlight
+T:I can give you the starlight
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" D2 D |"Bbdim" G E3/2 G/ |"Am7" D3 |"D7" D3 |"G" D2 D |"Bbdim" G E3/2 G/ |"Am7" d3- |"D7" d3 | %8
+w: I can|give you the|star-|light|Love un-|chang- ing and|true||
+"G" e2 d |"B7" B A3/2 B/ |"Em" G3 |"^(7)" G3 |"A7" B2 G | G F3/2 A/ |"Am7/D" E3 |"D7" F3 | %16
+w: I can|give you the|oc-|ean|Deep and|ten- der de-|vot-|ion|
+"G" D2 D |"Bbdim" G E3/2 G/ |"Am7" D3 |"D7" D3 |"G" D2 D |"Bbdim" G E3/2 G/ |"Am7" d3- |"D7" d3 | %24
+w: I can|give you the|mount-|ains|Pools all|shimm- 'ring and|blue||
+"G/B" g2 d |"C" d B c |"G/D" g2 B |"A7/E" B ^G A |"G/D" B c d |"C" G3 |"G/D" B c d |"A7" G3 | %32
+w: Call and|I shall be|All you|ask of me|Mus- ic in|Spring|Flowers for a|King|
+"G/D" B c d |"Am7" G2"D7" A |"G" G3 |] %35
+w: All these I|bring to|you.|
+

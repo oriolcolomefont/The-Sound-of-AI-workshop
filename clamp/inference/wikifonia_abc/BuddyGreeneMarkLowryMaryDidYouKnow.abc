@@ -1,0 +1,48 @@
+X:1
+T:Mary Did You Know
+T:Mary Did You Know?
+C:Buddy Greene
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Am" z8 |"G" z8 |"Dm7" z8 |"E7sus4" z4 A,B,CE |S"Am" E2 z2 z A,ED- |"G" D2 CB,- B,2 z G, | %6
+w: |||1.Ma- ry did you|know that your ba-|* by boy _ would|
+w: ||||2.~know that your ba-|* by boy _ will|
+w: ||||3.~know that your b-|* by boy _ is|
+"Dm7" A, B,2 C- C D2 C- |"Esus4" C B,3"E" A,B,CE |"Am" E2 z2 z AED- |"G" D2 CB,- B,2 z G, | %10
+w: one day walk _ on wa-|* ter? Ma- ry did you|know that your ba-|* by boy _ would|
+w: give sight to _ the blind|_ man? Ma- ry did you|know that your ba-|* by boy _ would|
+w: Lord of all _ cre- a-|* tion? Ma- ry did you|know that your ba-|* by boy _ will|
+"Dm7" A, B,2 C- C D2 F- |"Esus4" FE z2"E" z EAA- |"Dm7" A2 z2 z AcB |"G" B2 AG- G2 z D | %14
+w: save our sons _ ands daugh-|* ters? Did you know|_ that you ba-|* by boy _ has|
+w: calml a storm _ with his|_ hand? Did you know|_ that your ba-|* by boy _ has|
+w: one day rule _ the na-|* tions? Did you know|_ that your ba-|* by boy _ was|
+"C" E2 GG-"G/B" G A2 A- |"Am" A2 z2"Em/G" z DEF- |"Dm7" F2 ED- D2 CD- | D E3 z2 z F/F/!dacoda! | %18
+w: come to make _ you new;|_ _ this Child|_ that you _ de- liv-|* ered will *|
+w: walked where an- * gels trod.|_ and when you|kiss your lit- * tle ba-|* by you've *|
+w: Heav- en's per- * fect Lamb.|_ _ and the|sleep- ing Child _ you're hold-|* ing is the|
+O"Esus4" E2 FE- E F2 E- |1"E" E2 z2 A,B,CE :|2"E" E2 z2 z4 ||"Am7" E4 EDCB, |"G" (C A,3) z4 | %23
+w: soon de- liv- * er you?|_ 2.~~Ma- ry did you||Oh, Ma- ry did you|know? _|
+w: kissed the face _ of God?|_||||
+w: |||||
+"Dm7" z8 |"E7sus4" z2 A2"E7" AEEA |"Am7" Ac z2 z4 |"G" z8 |"Dm7" z8 |"E7sus4" z4"E7" z2 z A | %29
+w: |Oh, Ma- ry did you|know? _|||The|
+w: ||||||
+w: ||||||
+"F" c2 cd- d2 z c |"G" B2 cB- B2 z B |"Am" c2 AA-"G" AG A2- |"F" A4 z2 z A |"Dm7" c2 cd- d2 z c | %34
+w: blind will see, _ the|deaf will hear, _ the|dead will live _ a- gain,|_ the|lame will leap, _ the|
+w: |||||
+w: |||||
+"Esus4" B2 cB-"E" B2 z A |"Am" c2 de- e f2 e- |"Esus4" e8 |"E" z4 A,B,CE!D.S.! ||O"Esus4" E8 | %39
+w: dumb will speak _ the|prais- es of _ the Lamb?|_|3.~~Ma- ry did you|Great|
+w: |||||
+w: |||||
+"E" ^G8 |"Am9" A8 |] %41
+w: I|Am?|
+w: ||
+w: ||
+

@@ -1,0 +1,40 @@
+X:1
+T:Try To Remember
+C:Harvey Schmidt
+Z:All Rights Reserved
+L:1/8
+Q:1/4=1
+M:3/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"G""_Tenderly" G,2 D2 B,2 |"G/B" B,2 G2 D2 |"Cmaj7" C2 G2 A,2 |"D7" F2 G2 A2 |:"G" B3 B B2 | %5
+w: ||||Try to re-|
+w: ||||Try to re-|
+w: ||||Deep in De-|
+ B2 A2 G2 |"Am7" C3 C C2 |"D7" C2 D2 E2 |"G" D4 B,2 | G4 D2 |"Am7" E4 C2 |"D7" AE- E4 | %12
+w: mem- ber the|kind of Sep-|tem- ber when|life was|slow and|oh, so|mel- low. _|
+w: mem- ber when|life was so|ten- der that|no one|wept ex-|cept the|wil- low. _|
+w: cem- ber it's|nice to re-|mem- ber al-|tho' you|know the|snow will|fol- low. _|
+"G" B3 B B2 | B2 A2 G2 |"Am7" C3 C C2 |"D7" C2 D2 E2 |"G" D4 B,2 | G4 D2 |"Am7" E4 C2 | %19
+w: Try to re-|mem- ber the|kind of Sep-|tem- ber when|grass was|green and|grain was|
+w: Try to re-|mem- ber when|life was so|ten- der that|dreams were|kept be-|side your|
+w: Deep in De-|dem- ber it's|nice to re-|mem- ber with-|out a|hurt the|heart is|
+"D7" AE- E4 |"Bm7" d3 d d2 |"Em7" d2 c2 B2 |"Am7" c3 c c2 |"D7" c2 B2 A2 |"Gmaj7" B3 B B2 | %25
+w: yel- low. _|Try to re-|mem- ber the|kind of Sep-|tem- ber when|you were a|
+w: pil- low. _|Try to re-|mem- ber when|life was so|ten- der that|love was an|
+w: hol- low. _|Deep in De-|cem- ber, it's|nice to re-|mem- ber the|fire of Sep-|
+"Cmaj7" B2 A2 G2 |"F" A4 E2 |"D7" FD- D4 |"G" B3 B B2 | B2 A2 G2 |"Am" C3 C C2 |"D7" C2 D2 E2 |1 %32
+w: ten- der and|cal- low|fel- low. _|Try to re-|mem- ber and|if you re-|mem- ber then|
+w: em- ber a-|bout to|bil- low. _|Try to re-|mem- ber and|if you re-|mem- ber then|
+w: tem- ber that|made us|mel- low. _|Deep in De-|cem- ber our|hearts should re-|mem- ber and|
+"G" BG- G4 | z2 BG BG |"Cmaj7" BG BG BG |"D7" BG BG BG :|2"G" BG- G4 || z2 BG BG | %38
+w: fol- low. _|Fol- low, fol- low,|fol- low, fol- low, fol- low,|fol- low, fol- low, fol- low,|fol- low. _|Fol- low, fol- low,|
+w: ||||||
+w: ||||||
+"Cmaj7" BG BG BG |"D7" BG BG BG |"G" B2 G4- | G2 z4 |] %42
+w: fol- low, fol- low, fol- low,|fol- low, fol- low, fol- low,|fol- low.|_|
+w: ||||
+w: ||||
+

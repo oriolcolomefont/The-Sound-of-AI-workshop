@@ -1,0 +1,34 @@
+X:1
+T:He Wears A Pair Of Silver Wings
+T:He Wears A Pair Of Silver Wings
+C:Michael Carr
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" z3/2 c<Bc/ B>A"F+"E>F |"Gm" A>G (3^FGB-"Bm6""C7" B3 A |"F" G>FE>F"Dm7" A>A (3FFE- | %3
+w: Al- tho' some peo- ple say that|he's a craz- y guy _ To|me he means a mil- lion oth- er things.|
+"G7" E6"G#dim" z D |"Gm7" F>FD>F"C7" A>G (3ABc- |"F" c>cA>c"D7" e3 d |"Gm" c>BA>B"G9" d2 A2 | %7
+w: _ For|he's the one who taught this hap- py heart|* of mine to fly, He|wears a pair of sil- ver|
+"Gm7""C7" G8 |"F" z3/2 c<Bc/ B>A"F+"E>F |"Gm" A>G (3^FGB-"Bbm6""C7" B3 A | %10
+w: wings.|And tho' it's pret- ty tough the|job he does a- bove, _ I|
+"F" G>FE>F"Dm7" A>A (3FFE- |"G7" E6"G#dim7" z D |"Gm7" F>FD>F"C7" A>G (3ABc- |"F" c>cA>c"D7" e3 d | %14
+w: would- n't have him change it for a king's|_ An|or- din- ar- y fel- low in the un-|* i- form I love He|
+"Gm" c>BA>B"G9" A2"C7" A2 |"F" F8 |"Ebm" F>_ED>E"Ab7" _G>F=E>F |"Db" _A2 A4"Dbdim7" =AB | %18
+w: wears a pair of sil- ver|wings.|I'm so full of pride when we go|walk- ing ev- 'ry|
+"Ebm7" _d2 B2"Ab7" c2 _A2 |"Db" F8 |"Gm" (3A2 ^F2 G2"C7" (3B2 ^G2 A2 |"F" c2 c6 | %22
+w: time he's home on|leave.|He with those wings on his|tu- nic|
+"Dm7" (3c2 c2 c2"G9" (3e2 e2 e2 |"C7" c8 |"F" z3/2 c<Bc/ B>A"F+"E>F | %25
+w: Me with my heart on my|sleeve.|But when I''m left a- lone and|
+"Gm" A>G (3^FGB-"Bbm6""C7" B3 A |"F" G>FE>F"Dm7" A>A (3FFE- |"G7""G#dim7" E6 z D | %28
+w: we are far a- part _ I|some- times won- der what to- mor- row brings|_ For|
+"Gm7" F>FD>F"C7" A>G (3ABc- |"F" c>cA>c"D7" e3 d |"Gm" c>BA>B"G9" d2"C7b9" E2 |1 %31
+w: I a- dore that craz- y guy who taught|_ my hap- py heart to|wear a pair of sil- ver|
+"F6""Bm6""Gm7" F6"C7" z2 :|2"F6""Bb6/G" F4-"F" F2 z2 |] %33
+w: wings.|wings _|
+

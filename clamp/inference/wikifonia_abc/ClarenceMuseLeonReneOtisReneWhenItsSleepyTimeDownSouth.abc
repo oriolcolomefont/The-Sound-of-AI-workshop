@@ -1,0 +1,28 @@
+X:1
+T:When It's Sleepy Time Down South
+T:When It's Sleepy Time Down South
+C:Clarence Muse
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" E2 E2 EDCD |"Fm" E E2 E- E4 |"C" B, C2 E- EG"Am7" c2 |"D7" d d2 d- d4 | %4
+w: Pale moon shin- ing on the|fields be- low _|Folks are croon * ing songs|soft and low, _|
+"G9" A2"Gdim" A2"G9" AGEG |"Dm/G" E E2"Em/G" E- E2"E7" D2 |"F" CA, C4"Fm" C2 |"C" C8 | %8
+w: Need- n't tell me so be-|cause I know, _ It's|sleep- y time down|south.|
+"F" E2 E2 EDCD |"Fm" E E2 E- E4 |"C" B, C2 E- EG"Am7" c2 |"D7" d d2 d- d4 | %12
+w: Soft winds blow- ing thru the|pine- wood trees, _|Folks down there _ live a|life of ease, _|
+"G9" A2"Gdim" A2"G9" AGEG |"Dm/G" E E2"Em/G" E- E2"E7" D2 |"F" CA, C4 C2 |"C" (C4"B7" B,4) | %16
+w: When ol' mam- my falls up-|on her knees, _ It's|sleep- y time down|south. _|
+"E" B,>^CE>^G B B2 G |"E6" ^c c2 ^G"Bdim" B B3 |"B7" B B2 ^G B2 G2 |"E" E8 | B,>^CE>^G B B2 G | %21
+w: Steam- boats on the riv- er a-|com- in', a- go- in'|splash- ing the night a-|way,|Hear those ban- jos ring- in' the|
+"E6" ^c c2 ^G"Bdim" B B3 |"B7" B B2 ^G B2 G2 |"E" (E4"G7" G4) |"F" E2 E2 EDCD |"Fm" E E2 E- E4 | %26
+w: folks are a- sing- in'|they dance till break of|day. _|dear old South- land with it's|dream- y songs, _|
+"C" B, C2 E- EG"Am7" c2 |"D7" d d2 d- d4 |"G9" A2"Gdim" A2"G9" AGEG | %29
+w: Takes me back _ there where|I be- long, _|How I'd love to be in|
+"Dm/G" E E2"Em/G" E- E2"E7" D^C |"F" CA, C4"Fm" C2 |1"C" C4"C7" z4 :|2"C" C8 |] %33
+w: mam- my's arms, _ When it's|sleep- y time down|south.|south.|
+

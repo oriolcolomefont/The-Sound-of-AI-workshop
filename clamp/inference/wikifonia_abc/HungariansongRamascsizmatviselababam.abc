@@ -1,0 +1,15 @@
+X:1
+T:Rámás csizmát visel a babám
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" E2 C2 E2 C2 |"G" DC=B,C D2 z2 | G, =B,3 D2 F2 |"Cm" ED"G"C=B,"Cm" C2 z2!fine! :| %4
+w: Rá- más csiz- mát|vi- sel a ba- bám,|Sze- ret is az|en- gem i- ga- zán.|
+"G" G2 G2 B2 B2 |"Cm" cBAG"Fm" A2 z2 | F2 F2 A2 A2 |"Cm" BAGF"G" GFED!D.C.! |] %8
+w: Rá- más csiz- ma|hadd sza- ked- jon el,|Csak a ba- bám|so- se hagy- jon el, * * *|
+

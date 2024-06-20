@@ -1,0 +1,40 @@
+X:1
+T:The Best Is Yet To Come
+T:The Best Is Yet To Come
+C:Cy Coleman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Ab" CG C2 _G2 CF- | FC =E2 C _E2 C | (E C3- C4- | C6) z2 | C G2 C _G2 CF- | FC =E2 C _E2 C | %6
+w: Out of the tree of life|_ I just picked me a|plum, _ _|_|you came a- long and ev-|* 'ry- thing's start- in' to|
+"F7" (E C3- C4- | C6) z2 |"Bbm7" B, E2 B, E2 B,E- |"Eb7" EB, E2 B, E2 D |"Ab" (C A,3- A,4- | %11
+w: hum; _ _|_|still it's a real good bet|_ the best is yet to|come. _ _|
+"Dm7b5" A,2) z2"G7" z4 |"C" =E =B2 E _B2 E=A- | A=E _A2 E G2 E |"A7" (G =E3- E4- | E6) z2 | %16
+w: _|The best is yet to come|_ and babe, won't, it be|fine, _ _|_|
+"Dm" =E =B2 E _B2 E=A- | A=E _A2 E G2 E |"A7" (G =E3- E4- | E6) z2 |"Dm" =D G2 D"G7" G2 D2 | %21
+w: you think you've seen the sun|_ but you ain't seen it|shine, _ _|_|wait till the warm- ups|
+"Dm" G2 G=D-"G7" D4 |"C" =A c2 A c2 Ac- | c6 z2 |"Dm" =D G2 D"G7" G2 D2 |"Dm" G2 G=D-"G7" D4 | %26
+w: un- der way, _|wait till our lips have met|_|Wait till you see that|sun shine day, _|
+"C" =A c2 A c2 Ac | c6 z2 |"Ab" C G2 C _G2 CF- | FC =E2 C _E2 C |"F7" (E C3- C4- | C6) z2 | %32
+w: you ain't seen noth- in' yet!|_|The best is yet to come|* and babe, won't you be|fine, _ _|_|
+"Bb" F c2 F =B2 F_B- |"Eb" B =B2 A (B_B) A2 |"Ab" A8- | A8 ||"C7" z (AG)F (AG) F2 | %37
+w: the best is yet to come,|_ come the day * you're|mine.|_|Come * the day * you're|
+"Fm""Db7/F" F8- |"Fm6" FAGF"Db7/Ab" AG F2 |"Fm""Db7/F" F8 |"Fdim7" z _cBA"Eb9" _cB A2 | %41
+w: mine|* I'm gon- na teach you to|fly;|We've on- ly tast- ed the|
+"Ab""E7/Ab" A8- |"Db7/A" A_cBA"E7/Ab" _cB A2 |"Ab""E7/Ab" A8- |"Gm7" A4"C7" z4 | %45
+w: wine,|_ we're gon- na drain the cup|dry.|_|
+"Fm" F c2 F _c2 FB- |"Db7" BF =A2 F _A2 F |"Fm" (AF- F6- |"Db7" F6) z2 |"Fm" F c2 F _c2 FB- | %50
+w: Wait till your charms are ripe|_ for these arms to sur-|round; _ _|_|You think you've flown be- fore|
+"Db7" BF =A2 F _A2"Fm7" F | (AF- F6- |"Bb7" F6) z2 |"Ebm7" E A2 E"Fm7" A2 E2 | %54
+w: _ but you ain't left the|ground. _ _|_|wait till you're locked in|
+"Gb6" A2 A"Ab7"E- E4 |"Db6" B d2 B"Ebm7" d2 B"Edim"d- | d6"Db6" z2 |"Ebm7" E A2 E"Fm7" A2 E2 | %58
+w: my em- brace _|wait till I draw you near.|_|Wait till you see that|
+"Gb6" A2 A2"Ab7" E4 |"Db6" B d2 B d2 Bd- | d z z2 z4 ||[K:A]"A" C G2 C =G2 CF- | FC =F2 C E2 C | %63
+w: sun- shine place,|ain't noth- in' like it here!|_|The best is yet to come|* and babe, won't it be|
+"F#7" (EC- C2- C4- | C6) z2 |"B7" F c2 F =c2 FB- |"E7b5" B(=cB)A (cB) A2 |"A" A8- | A8 |] %69
+w: fine; _ _ _|_|the best is yet to come|* come * the day * your|mine.|_|
+

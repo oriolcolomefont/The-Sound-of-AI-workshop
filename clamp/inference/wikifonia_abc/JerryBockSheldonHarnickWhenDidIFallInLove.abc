@@ -1,0 +1,31 @@
+X:1
+T:When Did I Fall In Love
+T:When did I fall in love
+T:(from Fiorello)
+T:Jerry Bock
+T:Sheldon Harnick
+C:Jerry Bock
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"F" F F G | A c c2 |"C7" z B c2 | z B c2 |"F" z F F G | A c c3/2 B/ |"C7" d c G2- | G4 | %8
+w: When did I|fall in love?|what night?|which day?|when did I|first be- gin to|feel this way?||
+"Dm" z D D E | F A A2 |"Em" z ^G A2 |"A7" z ^G A z |"Dm" z2 F G/A/ |"G7" B c d2 |"C" z2 B c/d/ | %15
+w: how could the|mo- ment pass|un- felt|ig- nored|where was the|blind- ing flash?|where was the|
+"C7" e f g2 |"F" z F F G | A c c2 |"C7" z B c2- | c B c2 |"F" z F F G | A c2 B |"C7" c4- |"F7" c4 | %24
+w: crash- ing chord?|when did I|fall in love?|I cant|* re- call|not that it|mat- ters at|all||
+"Bb" z _B _B c | d f f2 |"F" z e f2 |"Cm" z e"F" f2 |"Bb" z d"Am" d e |"Gm" f a2"C7" g |"F" f4- | %31
+w: It does- nt|mat- ter when|or why|or how|as long as|I love him|now|
+ f4 | a2 c3/2 c/ | c4 |"Gm" g3/2 c/ c3/2 c/ | B c3 |"Cm" g2 c3/2 c/ | B c3 |"F" z2 B c/f/ | a4- | %40
+w: |when did re-|spect|first be- come at-|fec- tion?|when did af-|fec- tion|sud- den- ly|soar?|
+"Dm" a2 g f | e3/2 d/ c _B/A/ |"Gm" _B4 | z G/A/ _B G/B/ | _B4 |"C7" z A/_B/ c d/e/ |"F" f4- | %47
+w: * what a|strange and beau- ti- ful|touch|that I love him so|much|when I did- nt be-|fore|
+ f4 ||"Bb" z _B _B c | d f f2 |"F" z e f2 |"Cm" z e"F" f2 |"Bb" z d"Am" d e |"Gm" f a2"C7" g | %54
+w: |I'm where I|want to be|his love|his wife|un- til the|end of my|
+"F" f4- | f3 z |] %56
+w: life||
+

@@ -1,0 +1,23 @@
+X:1
+T:Would You
+T:Would you
+T:Nacio Herb Brown
+T:Arthur Freed
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 G2 |:"Eb" E3 B, EG | c4 G2 |"Fm7" B4 C2 |"Bb7" G4 G2 |"Eb" E3 B, EG | c4 G2 |"Fm7" B4 C2 | %8
+w: He|holds her in his|arms Would|you, would|you, He|tells her of her|charms would|you, would|
+w: |kiss her with a|sigh would|you would|you And|if the girl were|I would|you would|
+"Bb7" G4 G2 |"Eb" E3 E DE |"Eb7" e3 E DE |"Ab" e4 E2 |"Abm" _c6 |1"Eb" G4"F" G2 |"Cm7" c4"F7" c2 | %15
+w: you, they|met as you and|I and they were|on- ly|friends.|But be-|fore the|
+w: you And|would you dare to|say let's do the|same as|they|||
+"Abm" F4"Bb7" F2 | B4 G2 :|2"F7" c6 |"Bb7" D4"Abm7" E2 |"Eb" E6- | E4 z2 |] %21
+w: sto- ry|ends He'll|I|would would|you||
+w: ||||||
+

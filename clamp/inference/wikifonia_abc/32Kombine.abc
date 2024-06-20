@@ -1,0 +1,15 @@
+X:1
+T:Kombiné
+C:3+2
+Z:Public Domain
+L:1/8
+M:2/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" G>A G2 | G>A G2 | G>A G>E |"G" E2 z2 |"Fm" F2 FF |"G" GF ED |"Cm" C2 z2!fine! :|"Cm" cd cG | %8
+w: Kom- bi- né,|kom- bi- né,|csip- kés kom- bi-|né,|Még az éjjel|fel- haj- tom majd|én.|Ne féjl kis- lány,|
+"Bb" Bc B2 |"Cm" cd cG |"Bb" Bc B2 |"Cm" G2 GG | GF EF |"G" G4 | z G ED!D.C.! |] %15
+w: nem lesz baj,|majd a pap- lan|be- ta- kar,|Majd a paplan|min- dent el- ta-|kar,|ha a- kar,-|
+

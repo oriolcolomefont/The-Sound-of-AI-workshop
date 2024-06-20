@@ -1,0 +1,30 @@
+X:1
+T:I'll Remember April
+T:I'll Remember April
+C:Gene DePaul, Patricia Johnson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" z B c d |"G6" c B A G |"Gmaj7" A3 G |"G6" F E3 |"Gm7" z A _B c |"Gm6" _B A G =F | %6
+w: This love- .ly|day will length- en|in- to|ev- 'ning,|We'll sigh good-|bye to all we've|
+"Gm7" G/A/ G3- |"Gm6" G2 z G |"Am7b5" A3 A |"D7" A A B3/2 c/ |"F9" d d3- |"E9" d z"E7" e3/2 d/ | %12
+w: ev- er had.|* A-|lone where|we have walked to-|geth- er,|* I'll re-|
+"Am7" B c d c- |"D7b9" c2 B ^A |"Gmaj7" B4- |"G6" B2 z B |"Cm7" G G G2- |"F7" G A _B c | %18
+w: mem- ber A- pril|* and be|glad.|* I'll|be con- tent|* you loved me|
+"Bbmaj7" d3 c |"Bb6" _B A2 =F |"Cm7" G G G2- |"F7" G A _B c |"Bbmaj7" d d d2- |"B6" d d (3d d d | %24
+w: once in|A- pril, Your|lips were warm,|* and love and|spring were new.|* But I'm not a-|
+"Am7" d3 d |"D7" e c d3/2 B/ |"Gmaj7" A B3- |"G6" B B d c |"F#m7" B B3- |"B9" B z (3B A ^G | %30
+w: fraid of|Au- tumn and her|sor- row,|* For I'll re-|mem- ber|_ A- pril and|
+"Emaj7""E6" B4- |"Am9""D13" B4 |"G" z B c d |"G6" c B A G |"Gmaj7" A3 G |"G6" F E3 | %36
+w: you.||The fire will|dwin- dle in- to|glow- ing|ashe- es,|
+"Gm7" z A _B c |"Gm6" _B2 (3A G =F |"Gm7" G/A/ G3- |"Gm6" G2 z G |"Am7b5" A3/2 A/ A2- | %41
+w: For flames and|love live such a|lit- tle while.|* I|won't for- get|
+"D7" A A (3A B c |"F13" d d3- |"E9" d z"E7" e3/2 d/ |"Am7" B c d c- |"D7b9" c2"D13b9" B B |1 %46
+w: * but I won't be|lone- ly,|* I'll re-|mem- ber A- pril,|* and I'll|
+"G" G4- ||"G6" G4- |"Gmaj7" G4- |"G6" G4 :|2"G" G4- ||"G6" G4- | G4- | G4 |] %54
+w: smile.||||smile||||
+

@@ -1,0 +1,27 @@
+X:1
+T:Blood Count
+T:Blood Count
+T:Billy Strayhorn
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F7#9/B" G^G=B2- B8- B2c2 |"Bb7#5#9" _d2B2 B12 |"Eb7#9/A" =B,CA2- A8 c2B2 |"Bbm11" _E8"A9" =E8 | %4
+"Dm6" FE_ED F8- F2A,2 |"Dm/Bb" FE_ED F8- F2A,2 |"Dm6" FE_ED F8- F2A2- |"A7#11""D7b9" A16 | %8
+"F7#9/B" G^G=B2- B8- B2c2 |"Bb7#5#9" _d2B2 B12 |"Eb7#9/A" =B,CA2- A8 c2B2 |"Bbm11" _E8"A9" =E8 | %12
+"Dmaj7" ^F=FED ^F8- F2A,2 |"D+" ^F=FED ^F8- F2A,2 |"D6" ^F=FED ^F8- F2A2- |"D9""D7b9" A16 | %16
+"G6" e12 ^F2E2- | E16 |"Gm6" e12 F2E2- | E16 |"Fmaj7" e12 F2E2- |"E7" E8"E7b9" F8 | %22
+"A13" ^F8"Bb13" G8 |"B13" ^G8"C13" A8 |"F7#9/B" G^G=B2- B8- B2c2 |"Bb7#5#9" _d2B2 B12 | %26
+"Eb7#9/A" =B,CA2- A8 c2B2 |"Bbm11" _E8"A9" =E8 |"Dmaj7" ^F=FED ^F8- F2A,2 |"D+" ^F=FED ^F8- F2A,2 | %30
+"D6" ^F=FED ^F8- F2A2- |"D9" A8"D7b9" z2 (3DE^F (3GAB(3cd_e |[K:D]"Gmaj7" A^G=GF A12 | %33
+"C13" A^G=GF A8- A2A2 |"Dmaj7" (3A4 C4 D4"D6" (3B4 _A4 =A4 |"E13" c8"E7" e4 d4 | %36
+"F" A8- A2>A2 _BAG=F |"E""Eb" A16 |"Dm" z8"F" =f8 |"E" e8"Eb" _e8 |"Dm""F" e16 |"E""Eb" e16 | %42
+"Dm" !fermata!e16 |] %43
+

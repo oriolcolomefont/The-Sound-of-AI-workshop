@@ -1,0 +1,17 @@
+X:1
+T:Erdő, erdő, kerek erdő
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" E E3 E2 C2 |"F" F F3 G2 F2 |"G" D2 D2 D2 G2 |"C" E E3 E2 G,2 |"C" C C3 C2 E2 |"G" D D3 E2 D2 | %6
+w: Er- dõ, er- dõ,|ke- rek er- dõ,|de szép ma- dár|lak- ja ket- tõ,|Kék a lá- ba,|zöld a szár- nya,|
+"G" B, B,3 B,2 G,2 |"C" C C3 D2 C2 |] %8
+w: pi- ros a ró-|zsám or- cá- ja.|
+

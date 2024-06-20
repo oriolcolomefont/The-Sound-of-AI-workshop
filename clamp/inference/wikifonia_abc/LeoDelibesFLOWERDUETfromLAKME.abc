@@ -1,0 +1,28 @@
+X:1
+T:FLOWER DUET from LAKME
+C:Leo Delibes
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:6/8
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"G" z2 B4- B2"Cmaj7" A-B-"Am/G" c2 |"G" z2 B4- B2"Cmaj7" AB"Am/G" c2 |"G" z2 Bc-Bc- de-dc-B-A | %3
+w: Do _ me e pais|le _ jas _ min|A la _ ro _ se _ s'as _ _|
+"C/G" G-A-G-A-G-A"Bm7" F6 |"G" z2 B4- B2"Cmaj7" A-B-"Am/G" c2 |"G" z2 B4- B2"Cmaj7" A-B-"Am/G" c2 | %6
+w: sem _ _ _ _ _ ble,|Ri _ ve en fleurs|frais _ ma _ tin,|
+"G" z2 B-cB-c d-ed-cB-A |"C/G" G-A-GA-G-A"G" B6 |"D" z2 A4- A2A-dd-A |"Bm7" z2 B4- B2B-FF-B | %10
+w: Nous _ ap _ pel _ lent _ en _|sem _ _ _ _ _ ble.|Ah! _ glis _ sons _|en _ sui _ vant _|
+"D" z2 A4- A2A-dd-A |"D7" z2 A-dd-A z2 d4 |"C" e6- ecG-EG-c | e2- g4- e4 c2 |"Cm" c6- cG_E-CEG | %15
+w: Le _ cou _ rant _|fu _ yant, _ Dans|l'on _ de fre _ mis _|san _ _ te,|D'u _ ne main _ non cha|
+ c2- _e4- c4 G2 |"G/D" B6 B2-e2B2 |"Dm7b5/G" d6 d2-e2B2 |"D/C" d2c2E2 z2 c2E2 | %19
+w: lan _ _ te,|Ga gnons _ le|bord Ou _ l'oi|Seau chan te, l'oi seau,|
+"_for Maggie from Kevin" z2 c2E2 c2-E2c2 |"G" z2 B4- B2"Cmaj7" A-B-"Am/G" c2 | %21
+w: l'oi seau chan _ te!|Do _ me e pais,|
+"G" z2 B4- B2"Cmaj7"A-B"Am/G"c2 |"G" z2 B-cB-c d-e-d-c-B-A- | GA-GA-G-A G2-"D7"A2"C/G"G2 |"G" d12 | %25
+w: blanc _ jas _ min|Nous _ ap _ pel _ _ _ _ _|_ _ _ _ _ _ lent _ en|sem|
+ d6 z4 z2 |] %26
+w: ble!|
+

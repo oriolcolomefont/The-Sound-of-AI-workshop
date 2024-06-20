@@ -1,0 +1,51 @@
+X:1
+T:Diary
+T:Diary
+T:David Gates
+C:David Gates
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:S"Gmaj7" z ddB/c/- cBAG/A/- |"F/G" AB/A/- A6 |"C6/G" z AAB cccB/d/- |"G" d2 d2 z4 | %4
+w: I found her dia- * ry un- der- neath|* the tree, *|and star- ted read- * ing a- bout|* me.|
+w: Then she con- front- * ed with the writ-|* ing there, *|sim- ply pre- tend- ing not to care-||
+w: I found her dia- * ry un- der- neath-|* the tree, *|and star- ted read- * ing a- bout|* me.|
+"Gmaj7" z d/d/-dB c<BAG/A/- |"F/G" AB/A/- A6 |"C6/G" z AAB/c/- cccB/d/- |"G" d6 z2 | %8
+w: The words * she'd writ- ten took me by|* sur- prise. *|You'd nev- er read * them in her eyes||
+w: I passed * it off as just in keep-|* ing with *|her to- tal dis- * con- cert- ing air||
+w: The words * be- gin to stick then tears|* to fall *|Her mean- ing now * was clear to see||
+"Edim" z2 _B2 G2 E2 |"G/D" D B2 B- B3 B |"D7" c2 c2"B7/D#" B A2 G- |"Em" G4"G7" z4 | %12
+w: They said that|she had found * the|love she'd wait- ed for.||
+w: And tho' she|tried to hide * the|love that she de- nied||
+w: The love she'd|wait- ed for * was|some- one else not me.||
+"C" z4 c/B/A-AB- |"G" Bc/B/ G6 |"C" z4 cBAB-!dacoda! |1"G" B G3 z4 :|2"G" B G3 z4 || %17
+w: Would- n't you * know-|* * * it.|She would- n't show|* it.-|* it.|
+w: Would- n't you * know|* * * it.|She would- n't show-|* it.||
+w: Would- n't you * know-|* * * it|She would- n't show|* it.||
+"D7" z4"B7/D#" B A2 G- |"Em" G G2 g-"G7/D" g =f2 e- |"C" e2 z2"Am7" c B2 A- | %20
+w: And as I|* go thru' * my life|* I will give|
+w: |||
+w: |||
+"D7" A A2 f-"D7/C" f e2 d- |"G/B" d2 z2 f f2 e- |"C" e c3 G A2 B- |"Bsus4" B8!D.S.! || %24
+w: * to her * my wife|* all the sweet|* things I can find.-||
+w: ||||
+w: ||||
+"G""^Coda" B G3 z4 |"D7" z4"B7/D#" B A2 G- |"Em" G G2 g-"G7/D" g =f2 e- |"C" e2 z2"Am7" c B2 A- | %28
+w: * it|And as I|* go thru' * my life,|* I will wish|
+w: ||||
+w: ||||
+"D7" A A2 f-"D7/C" f e2 d- |"G/B" d2 z2 f f2 e- |"C" e c3 G A2 B- |"G" B4"Bm7" f f2 e- | %32
+w: * for her * his wife,|* All the sweet-|* things she can find.|* All the sweet|
+w: ||||
+w: ||||
+"C" e c2 G-"C/D" G"D7" A2 G- |"G" G8 |] %34
+w: * things she * can find.-||
+w: ||
+w: ||
+

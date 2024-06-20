@@ -1,0 +1,24 @@
+X:1
+T:Flow Gently Sweet Afton
+T:Flow Gently Sweet Afton
+C:Jonathan E. Spilman
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C |"F" F F (A/G/) | F F C |"Bb" D F D |"F" C2 C | F F"C" G |"F" A A c | c A"G7" F |"C" G2 C | %9
+w: Flow|gent- ly sweet *|Af- ton a-|mong thy green|braes. Flow|gent- ly I'll|sing thee a|song in thy|praise. My|
+"F" F F (A/G/) | F F C |"Bb" D B D |"F" C2 C | F F"C" G |"F" A !fermata!c"Bb" B |"F" C C"C7" E | %16
+w: Ma- ry's a- *|sleep by thy|mur- mur- ing|stream. Flow|gent- ly sweet|Af- ton dis-|turn not her|
+"F" F2 (E/F/) |"C" G G c | G G E |"G7" G F D |"C" E2 (E/F/) | G G c | G G E | %23
+w: dream. Thou *|stock dove whose|e- cho re-|sounds from the|hill. Ye _|wild whist- ling|black- birds in|
+"G7" (F/E/) (F/G/) (A/=B/) |"C" !fermata!c2"C9" d |"F" c A (A/G/) | F F C |"Bb" D B D |"F" C2 C | %29
+w: yon _ thorn- * y _|dell. Thou|green cres- ted _|lap- wing, thy|scream- ing for|bear; I|
+ F F"C" G |"F" A !fermata!c"Bb" B |"F" C C"C7" E |"F" F3 |] %33
+w: charge you, dis-|turb not my|slum- ber- ing|fair.|
+

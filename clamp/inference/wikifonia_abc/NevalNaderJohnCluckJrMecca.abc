@@ -1,0 +1,25 @@
+X:1
+T:Mecca
+T:Mecca
+T:Neval Nader, John Gluck Jnr
+C:Neval Nader, John Cluck Jr
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Cm" C E G c | d c3 |"Ab" d c d c |"Bb7" B F G A |"Eb" G/ B G/- G2 |"G7" z2 z G |"Cm" C E G c | %7
+w: |||||||
+w: I live on the|West- side|she lives on the|east side of the|street * * *|and|though they say that|
+ d c/d/- d c |"Ab" B A/B/- B A |"Bb7" D/D/ D E F |"Eb" G4- |"Eb7" G3 G |"Ab" A/A/ G F G | %13
+w: ||||||
+w: east is east * and|west is west * and|nev- er the twain shall|meet|* each|morn- ing I face her|
+"G7" A G2 G |"Ab" (3c/=B/A/ z _B c |"G7" d2 c d |"Cm" f e d c/c/ |"Ab" f e d c |"Cm" g/ g3/2- g2- | %19
+w: ||||||
+w: win- dow and|pray that our love can|be Cause that|brow- stone hous where my|ba- by live is|Mec- ca *|
+ g4 |"G7" g/ g3/2- g2- | g3 g |"Cm" g2 g/^f/g/a/ |1"G7" g4 :|2"Cm" g3 z |] %25
+w: ||||||
+w: |Mec- ca *|* to|me * * * *|||
+

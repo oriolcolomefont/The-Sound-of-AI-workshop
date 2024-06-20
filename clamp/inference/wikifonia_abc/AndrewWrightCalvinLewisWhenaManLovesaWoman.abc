@@ -1,0 +1,49 @@
+X:1
+T:When a Man Loves a Woman
+T:When A Man Loves A Woman
+T:Calvin Lewis Andrew Wright
+C:Andrew Wright, Calvin Lewis
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z3 z dd |:"F" d2- c ccA |"C/E" c2 d z3 |"Dm7" z3 AAG |"F/C" FFF/D/ F3 |"Bb" z3 AG>F | %6
+w: When a|man _ loves _ a|wom man|can't keep his|mind on noth' in else|He'd trade the|
+w: |man _ loves _ a|wom an|* spend his|ver- y last _ dime|Try- ing to|
+"C7" G2 C/C/ DFD |"F" F6 |"C7" z3 ddd |"F" d2- c ccA |"C/E" c2 d z3 |"Dm7" z3 A2 G | %12
+w: world for a good thing he's|found|If she is|bad _ _ he can't|see it.|She can|
+w: hold on to what _ he|needs.|He's give up|all _ _ _ his|com- forts|and sleep|
+"F/C" G-FD G-F z |"Bb" z3 AG(3G/F/D/ |1"C7" F G2 z2 C/C/ |"F" DFF- F3 |"C7" z3 z dd :|2 %17
+w: do _ no wrong, _|Turn his back on his|best friend if he|puts her down. _|When a|
+w: out in the rain _|if she said that's the|_ _|||
+"C7" G3- GCD/F/ ||"F" F3 z3 |"F9" z6 |"Bb" z3 z BB |"Bb" d2 d- d2 F |"F" A c2- c3 |"F9" z6 | %24
+w: way _ it ought to|be||When a|man loves _ a|wom an _||
+w: |||||||
+"Bb" z3 BBc |"Bb" d2 d e2 d |"F" d- c2 c z z |"F9" z6 |"Bb" z3 BBB |"Bb" d2 d- d2 d | %30
+w: I give you|ev- ery thing I've|got _ _||Try- ing to|hold on _ to|
+w: ||||||
+"F" c3"C/E" c d2 |"Dm7" A/-G/ F2 z3 |"G" d2 d z fd |"G7" f2 e e2 d |"Gm7" d2 c- c3 |"F" z3 z ee | %36
+w: your pre- cious|love _ _|Ba- by,- ba- by,|please don't treat me|bad _ _|When a|
+w: ||||||
+[K:G]"G" e2 d- ddB |"D" d2 e z3 |"Em7" z3 BAA/A/ |"G/D" A- G2 z3 |"C" z3 z BA |"D7" B A2- A2 D | %42
+w: man loves _ _ a|wom- an|deep down in his|soul _|she can|bring him _ such|
+w: ||||||
+"G" EGG- G3 |"D7" z3 eee |"G" e2 d ddB |"D" d2- e z3 |"Em7" z3 B2 A |"G/D" AGD G3 |"C" z3 z BA | %49
+w: mis- e- ry _|If she is|play ing him for a|fool _|he's the|last one to know|Lov- ing|
+w: |||||||
+"D7" A3 z/ A/BA |"G" G3 z3 |"D7" z3 eee |"G" e2- d dgf |"D" e d2 z3 |"Em7" z2 B B>AB/A/ | %55
+w: eyes can nev- er|see|Yes, when a|man _ _ loves a|wom- an|I know ex- act- ly|
+w: ||||||
+"G/D" AGG- G3 |"C" z3 z2 G | d d2 z3 |"D7" edB/A/ B/A/G<G | !fermata!z3 ee z |:"G" e2- d ddB | %61
+w: how he feels _|cause|ba- by|ba _ _ _ _ _ _ by|When a|man _ loves _ a|
+w: ||||||
+"D" d2 e z3 |"Em7" z6 |"D7" z3 z ee :| %64
+w: wom an||When a|
+w: |||
+

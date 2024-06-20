@@ -1,0 +1,15 @@
+X:1
+T:A bundának nincs gallérja
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" C E G G | G A G E |"F" c c B A |"C" A G G z |:"F" A F F F |"C" G E E E |"G" F D D D |1 %7
+w: A bun- dá- nak|nincs gal- lér- ja,|még- is bun- da|a bun- da,|I- haj bun- da,|csu- haj bun- da,|még- is bun- da|
+"C" C E G z :|2"C" C C C z |] %9
+w: a bun- da,|a bun- da.-|
+

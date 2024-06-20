@@ -1,0 +1,54 @@
+X:1
+T:Takin' Care of Business
+C:Randy Bachman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+U:s=!stemless!
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"C" C8 |"Bb" z8 |"F" z8 |1,2,3,4"C" z8 :|5"C" z4 z2 z _E |: EDED ECC_B, |"^B" C2 _E2 C_B,=EE | %7
+w: 1.~Intro~rhythm~guitar|||||||
+w: 2.~add~piano,~bass,~drums||||1.~They|get up ev- 'ry morn- in' from the|'larm clock's war- nin' take the|
+w: 3.~4.~add~lead||||2.~(There's)|work eas- y as fish- in' you could|be~a mu- si- cian if you|
+w: ||||3.~Break|Drums~only * * * * * * *||
+w: ||||4.~They|get up ev- 'ry morn- in' from the|'larm clock's war- nin' take the|
+w: ||||5.|* * add~vocal~harmony * * * * *||
+"F" _E2 E2 ECDC |"C" _E=E z2 z2 E_E | E_E=E_E =ECC_B, |"Bb" CC_E=E CCEC |"F" _E3 C DC D2 | %12
+w: |||||
+w: eight fif- teen in- to the|cit- y There's a|whis- tle up a- bove and peo- ple|push- in' peo- ple shov- in' and the|girls who try to look|
+w: can make sounds * loud or|mel- low Get a|sec- ond hand gui- tar * chanc- es|are you'll go * far if you get|in~with the right bunch of|
+w: ||add~lead * * * * * * *|||
+w: eight fif- teen in- to the|cit- y There's a|whis- tle up a- bove and peo- ple|push- in' peo- ple shov- in' and the|girls who try to look|
+w: ||add~lead~and~bass * * * * * * *|||
+"C" _E=E z2 z DDD | E2 E2 C2 EC |"Bb" _EEDC E3 C |"F" _ECDC ECDC |"C" E2 z2 z2 E_E | %17
+w: |||||
+w: pret- ty And if your|train's on time you can|get to work by nine and|start your slav- in' job and get your|pay If you|
+w: fel- lows. * Peo- ple|see~you havin' fun, just a-|ly- in' in the sun *|tell them that you like it this way.|* It's the|
+w: |add~bass * * * *|||Take~good~care * *|
+w: pret- ty And if your|train's on time you can|get to work by nine and|start your slav- in' job and get your|pay If you|
+w: |||||
+ E_E=E_E =E2 C_B, |"Bb" C_B,_EE C3 B, |"F" C_B,CB, CB, C2 |"C" E2 z2 z _E=E_E | E_E=E_E =E2 C2 | %22
+w: |||||
+w: ev- er get an- noyed look at|me I'm self em- ployed I|love to work at noth- in' all|day And I've been|tak- in care of bus- iness|
+w: work that we a- void and we're|all * self em- ployed we|love to work at noth- in' all|day And we've been|tak- in care of bus- iness|
+w: * * of~my~business * * * *|* * while~I'm~away * * *|* * ev'ry~day * * * *|Full~ensemble * * *||
+w: ev- er get an- noyed look at|me I'm self em- ployed I|love to work at noth- in' all|day And I've been|tak- in' care of bus- iness|
+w: full~ensemble~to~fade * * * * * *|||||
+"Bb" z2 FF G4 |"F" _EEDC =E2 C2 |"C" z2 _EE =E2 _EE | EEDC E2 C2 |"Bb" z2 FF G4 |"F" _EEDC =E2 CC | %28
+w: ||||||
+w: ev- 'ry day|Tak- in' care of bus- iness|ev- 'ry way I've been|tak- in' care of bus- iness|it's all mine|Tak- in' care of bus- iness and|
+w: ev- 'ry day|Tak- in' care of bus- iness|ev- 'ry way we've been|tak- in' care of bus- iness|it's all mine|Tak- in' care of bus- iness and|
+w: ||||||
+w: ev- 'ry day|Tak- in' care of bus- iness|ev- 'ry way I've been|tak- in' care of bus- iness|it's all mine|Tak- in' care of bus- iness and|
+w: ||||||
+"C" _E=E_E=E C2 EC | sC8 |"Bb" z8 |"F" z8 |"C" z8 | sC8 |"Bb" z8 |"F" z8 |"C" z8 :| %37
+w: |||||||||
+w: work- in' o- ver- time work- out-|||||||||
+w: work- in' o- ver- time * *|||||||||
+w: |||||||||
+w: work- in' o- ver- time * *|drums~and~claps~only||||add~vocals~"Takin'~Care~of~Business"||||
+w: |||||||||
+

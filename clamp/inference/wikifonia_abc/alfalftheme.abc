@@ -1,0 +1,30 @@
+X:1
+T:alf theme
+T:Alf Theme Song - Eb - Alto
+C:alf
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:A
+U:s=!stemless!
+V:1 treble nm="piano" snm="piano"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+ z4 z2 z z/ z/4 F/4 | G3/2A- AB- B3 z | z2 [Bc]e- (3e2 B2 G2 | B3 A/G/ F4 | z8 | %5
+ [FG]3/2A- (AB- B4 | z2 [Bc][Be]- (3[Be]2 [GB]2 G2 | [Ac]4- [Ac]2 [Bc]B- | B4 (3B2 c2 ^d2 | %9
+ ^d z z2 z e fe- | e4 (3[Gc]2 [G^d]2 [Ge]2 | [ceg]3 f/e/ [Acf]4 | [FB^d]4 [EAc]4 | Bc ^dd- d2 z2 | %14
+ z e c[Ge]- [Ge] [GB]2 G | [EAc]4 [EAB]4 | [CEA]4 [^DF] z z2 | G3/2A- AB- B3 z | %18
+ z2 [Bc]e- e[EB]- [EB][EG]3/2 | [DB]3 A/G/ [DF-]3 F | z F/G/ AGFG A/G/ F2 GA | G3/2A- AB x15/2 | %22
+ z2 [Bc]e- (3e2 B2 z2 | [EAc]4 z2 [Ace]([F-B^d-] | [FBd]2)) z2 [FB]3/2([Fc-] [Fc])[F^d] | %25
+ [FB^d]2 z2 z e c[Gce] | z4 (3[Gc]2 [G^d]2 [Ge]2 | [ceg]3 f/e/ [Acf]4 | [FB^d]4 [EAc]4 | %29
+ Bc ^dd- d2 z2 | z e c[Ge]- [Ge] [GB]2 G | [EAc]4 [EAB]4 | [CEA]4 ([B,^D-F-] [DF]3) | %33
+ z2 C,2 ^E,2 G,2 | ^E2 G,2 z4 | %35
+V:2
+ x8 | x17/2 | x8 | x8 | x8 | x17/2 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+ x4 B,[B,^D-] [CD-]<[DE] | x17/2 | x17/2 | x8 | x11 | sE8 B4 | x2 G2- (3:2:2G4 G2 | x8 | x17/2 | %25
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+

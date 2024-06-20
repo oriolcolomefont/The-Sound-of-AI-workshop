@@ -1,0 +1,50 @@
+X:1
+T:The Trolley Song
+T:Trolley Song
+T:2
+C:Hugh Martin and Ralph Blane
+Z:All Rights Reserved
+L:1/4
+Q:1/4=240
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x2"Bb7" G A |"Eb7" B2 G2 |"Ab7" F G A c |"Eb" B2 G2 |"Ab" F2"Bb" G A |"Eb" B3 G |"Bb7" c A F D | %7
+w: With my|high starched|col- lar and my|high top'd|shoes and my|hair piled|high u- pon my|
+"Eb" E4- | E z B2 |"Fm7" A G F G |"Bb7" A2 c2 |"Eb" (B A) G A |"Gm" B c d2 |"Ebm" e2 _G2 | %14
+w: head,|_ I|went to lose a|jol- ly|hour _ on the|trol- ley and|lost my|
+"F7" d2 F2 |"Bb7" B4- | B z G A |"Eb7" B2 G2 |"Ab7" F G A c |"Eb" B2 G2 |"Ab" F2"Bb" G A | %21
+w: heart in-|stead.|_ With his|light brown|der- by and his|bright green|tie, He was|
+"Eb" B3 G |"D7" =A B c A |"Gm" d4 | z2 d2 |"Bb" d2 c B |"Cm7" c2 d e |"Bb7" d2 c B |"Cm7" c2 d e | %29
+w: quite the|hand- som- est of|men,|I|start- ed to|yen, so I|count- ed to|ten, then I-|
+"Bb" z d c B |"Cm7" c2"F7" F2 |"Fm7" B4 |:"Eb7" G2 G2 | G2 F E | F G3- | G3 z |"Eb" G2 G2 | %37
+w: count- ed to|ten a-|gain.|"Clang, clang,|clang," went the|trol- ley,|_|"Ding, ding,|
+ G2 F E |"Fm7" F4- |"Bb7" F3 z |"Eb7" G2 G2 | G2 F E |"Ab" F"Ab7" G3- |"Abm" G2 E F | %44
+w: ding," went the|bell,|_|"Zing, zing,|zing," went my|heart- strings,|_ For the|
+"Eb7" G2"Cm" E F |"Fm7" G E"Bb7" F2 |"Eb" E4 |"Eb" G2 B2 | G2 F E | F"Fm7" G3- | G3 z | %51
+w: mom- ent I|saw him I|fell.|"Chug, chug,|chug," went the|mo- tor|_|
+"Eb7" G2 B2 | G2 F E |"Ab7" F4- | F3 z |"Eb7" G2 B2 | G2 F E | F"Fm7" G3- | G2 E F | %59
+w: "Bump, bump,|bump," went the|brake,|_|"Thump, thump,|thump," went my|heart- strings|_ When he|
+"Eb7" G2"Cm" E F |"Fm7" G E"Bb7" F2 |"Eb" E4- | E4 | z"Ab" F G A |"Fm7" B4- |"Bb7" B A G F | %66
+w: smil'd I could|feel the car|shake.|_|He tipp'd his|hat,|_ and took a|
+"Eb" E3 z | z"Ab" F"Eb" G"Ab" A |"Fm7" B c A B |"Bb7" G A F G |"Eb" E3 z | z G"Ab" A"Eb" B | %72
+w: seat|He said he|hoped he had- n't|stepp'd up- on my|feet,|He ask'd my|
+"Cm" c4- |"D7" c d B c |"Gm7" =A3 z |"Bbm" z G =A B |"F" c d"Gm7" B c | =A B"C7" G A |"F7" F4- | %79
+w: name,|_ I held my|breath,|I could- n't|speak be- cause he|scared me half to|death.|
+"Fm7" F3 z |"Eb" G2 B2 | G2 F E | F G3- | G2 z2 | G2 B2 | G2 F E |"Fm7" F4- |"Bb7" F3 z | %88
+w: _|"Buzz, buzz,|buzz," went the|buz- zer,|_|"Plop, plop,|plop," went the|wheels,|_|
+"Eb7" G2 e2 | c2 B G |"Ab" F E3- |"Abm" E z E F |1"Eb" G2 F E |"Bb" A2 G F |"Eb" B2 A G | %95
+w: "Stop, stop,|stop," went my|heart- strings,|_ As he|start- ed to|go, then I|start- ed to|
+"Abm" _c2 B A |"Eb" c4- | c4- |"Fm7" c z A B |"Bb" c A"Bb7" B2 |"Eb7" c4- |"Fm7" c4 :|2 %102
+w: know how it|feels|_|* When the|un- i- verse|reels|_|
+"Eb" G2 F E ||"Bb" A2 G F |"Eb" B2"Ab" A"Eb" G | _c2"Abm" B A |"Eb" c4- | c4 | z2 d c | d2 c d | %110
+w: start- ed to|leave I took|hold of his|sleeve with my|hand|_|And as|if it were|
+"Fm7" B4- |"Bb" B4 |"G" z2 c B | c2 B c |"Fm7" A2"Bb7" G F |"Eb" B2"Ab" A G | c2"Eb" B A | %117
+w: planned|_|He stay'd|on with me|and it was|grand, Just to|stand with his|
+"G7" d2"Dm7" c"G7" d |"Cm" e4- |"Cm7" e3 z |"Fm7" z2 c d | e2"Bb" c d |"Eb" e4- | e4- | e3 z |] %125
+w: hand hold- ing|mine,|_|To the|end of the|line.|_||
+

@@ -1,0 +1,36 @@
+X:1
+T:Blue Skies
+T:Blue Skies
+T:Irving Berlin
+T:All Rights Reserved
+T:1927
+C:Irving Berlin
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 52
+L:1/4
+V:1
+"Dm" D3 A- A4- |"Db+" A4 GFGA- |"F/C" A8- |"Bm7b5" A4 (3G2 F2 G2 |"F" A3 C-"Dm" C4- | %5
+w: BLUE SKIES _|_ smil ing at me.|_|* Noth ing but|BLUE SKIES _|
+"Gm7" C4"C7" C D2 F- |"F" F8- |"Bb" F4"A7" z4 |"Dm" D3 A- A4- |"Db+" A4 GFGA- |"F/C" A8- | %11
+w: _ do I see.|_||Blue- birds _|_ sing- ing a song:|_|
+"Bm7b5" A4 (3G2 F2 G2 |"F" A3 C-"Dm" C4- |"Gm7" C4"C7" C D2 F- | (F8 |"F" F4) z4 |"F" FGAB c4 | %17
+w: * noth- ing but|blue- birds _|_ all day long.|_||Nev- er saw the sun|
+"Bbm7" _dcBc-"F" c4 |"Gm7b5" BAGA-"F" A4 |"Gm7b5" GFEF-"F" F4 |"F" FGAB c4 |"Gm7b5" _dcBc-"F" c4 | %22
+w: shin- ing so bright, _|nev- er saw things _|go- ing so right. _|No- tic- ing the days|hur- ry- ing by; _|
+"Gm7b5" BAGA-"F" A4 |"Gm7b5" GFE(F-"F" F2"A7" E2) |"Dm" D3 A- A4- |"Db+" A4 GFGA- |"F/C" A8- | %27
+w: when you're in love, _|my how they fly. _ _|Blue days, _|_ all of them gone.|_|
+"Bm7b5" A4 (3G2 F2 G2 |"F" A3 C-"Dm" C4- |"Gm7" C4"C7" C D2 F- |"F" F8- |"Bb7" F4"A7" z4 |] %32
+w: * Noth- ing but|BLUE SKIES _|_ from now on.|_||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |"F" z2"C7" z2 | x4 | x4 | %17
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %32
+

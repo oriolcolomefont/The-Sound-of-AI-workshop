@@ -1,0 +1,19 @@
+X:1
+T:Old Love
+T:Old Love
+T:Eric Clapton
+T:Robert Cray
+C:Eric Clapton, Robert Cray
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Am7""Dm7""^Intro (2X)" z4 |"G7sus4""G7" z4 |"Am7""Dm7/F" z4 |"G7sus4""G7" z4 ::"Am7""Dm7" z4 | %5
+"G7sus4""G7" z4 |"Am7""Dm7/F" z4 |"G7sus4""G7" z4 |"Am7""Dm7" z4 |"G7sus4""G7" z4 | %10
+"Am7""Dm7/F" z4 |"G7sus4""G7" z4 |"Fmaj7" z4 |"E7b9" z4 |"Am""Am/G#" z4 |"Am7/G""D7/F#" z4 | %16
+"Fmaj7" z4 |"E7b9" z4 |"Fmaj7" z4 |"E7b9" z4 |"Am7""Dm7" z4 |"G7sus4""G7" z4 |"Am7""Dm7/F" z4 | %23
+"G7sus4""G7" z4 |"Am7""Dm7" z4 |"G7sus4""G7" z4 |"Am7""Dm7/F" z4 |"G7sus4" z4 :| %28
+

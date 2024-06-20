@@ -1,0 +1,30 @@
+X:1
+T:Love You Madly
+T:Love You Madly
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z3 d- |"Fmaj7" d2 c2"Dm7" A3 F |"G7" G A2 C-"C7" C3 A- |"A7" A2 B^G"D7" A D2 F- | %4
+w: Love|_ you mad- ly|right or wrong, _ sounds|_ like a ly- ric of|
+"G7" F2 GA-"C7" A3 _A |"Cm7" G G2 d-"F7" dc=AF |"Bbmaj7" A2 FA-"Bm7b5" A3 d | %7
+w: _ a song, _ but|since it's so, _ I thought you|ought to know _ I|
+"Am7" c C2 A-"C7" A2 DG- |"Fmaj7" G3 F"Gm7" z2"C7" z d- |"Fmaj7" d2 c2"Dm7" A3 F | %10
+w: love you, love _ you mad-|* ly. "Bet-|* ter fish are|
+"G7" G A2 C-"C7" C3 A- |"A7" A2 B^G"D7" A D2 F- |"G7" F2 GA-"C7" A3 _A |"Cm7" G G2 d-"F7" dc=AF | %14
+w: in the sea," _ is|_ not the the- o- ry|_ for me, _ and|that's for sure, _ just like I|
+"Bbmaj7" A2 FA-"Bm7b5" A3 d |"Am7" c C2 A-"C7" A2 DG- |"Fmaj7" G3 F z4 |"Dm7b5" z GGG"G7" GGGG | %18
+w: said be- fore, _ "I|love you, love _ you mad-|* ly.|If you could see the hap- py|
+"Cm7" G G2 G-"F7" G3 ^G |"Bbmaj7" AF D2"F+7" z2 AG- |"Bbmaj7" G3 F- F^CDF |"Dm7" A F2 A-"G7" A3 D | %22
+w: you and me _ I|dream a- bout so proud-|* ly _ you'd know the|breath of spring _ that|
+"Dm7" A F2 A-"G7" A3 B- |"Gm7" B2 G=B-"Bdim7" B2 _Ac- |"Cdim7" c4"C7b9" ^c3 d- | %25
+w: makes me sing _ my|_ love song _ so loud-|* ly. Good|
+"Fmaj7" d2 c2"Dm7" A3 F |"G7" G A2 C-"C7" C3 A- |"A7" A2 B^G"D7" A D2 F- |"G7" F2 GA"C7" A3 _A | %29
+w: _ things come to|those who wait, _ so|* just re- lax and wait|_ for fate _ to|
+"Cm7" G G2"F7" d- dc=AF |"Bbmaj7" A2 FA-"Bm7b5" A3 d |"Am7" c C2 A-"C7" A2 DG- |"Fmaj7" G3 F z4 |] %33
+w: let me see _ the day you'll|say to me, _ "I|love you, love * you mad-|* ly!"|
+

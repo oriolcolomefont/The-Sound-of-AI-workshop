@@ -1,0 +1,62 @@
+X:1
+T:Ease Your Mind
+C:Frederik Sioen
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"Gm""^Intro" z16 | z16 |"Fm" z16 | z16 |"Gm""^Verse 1" z3 D AA2A- A2BG- G4 | %5
+w: ||||you're wande\- ring about * for days *|
+w: |||||
+ z3 D AA2A- A2BB- B2GG- |"Fm" G4 z4 z8 | z16 |"Gm" z3 D AA2A- A2BB- B4 | z3 D dd2d- d2dd- d2dd- | %10
+w: an e\- du\- ca\- * tion for your brain *|||you start to re\- * ar\- range *|but you keep won\- * dering who's * to blame|
+w: |||||
+"Fm" d4 z4 z8 | z16 |"Gm""^Verse 2" z4 dddd- dGGG- G2>G2 | AAAA- A2GG GG (3GGB- B2<B2 | %14
+w: ||it's just a mat\- * ter of time * un\-|til you find out * you're pre\- tend\- ding to be o\- k *|
+w: ||||
+"Fm" z8 z CFF z4 | z16 |"Gm" z2 dd dd2d ddgd d2dd | fggg- g2g2 (3d2d2g2 d4 |"Fm" z12 z3 d | %19
+w: (but you're not)||some\- thing ti\- ckles the back of your mind * you ain't|ge tting no grip, * you slip and you slide|you'd|
+w: |||||
+ fd2f- fg2d- d2<c2- c4 |:"Gm""^Chorus" a6 gd- d8 | g6 gd- d2>d2 d2=e2- |"Fm" e6 dB B8 | %23
+w: be\- tter case * your mind * * *|ease your mind *|ease your days * for your own|* * good *|
+w: |ease your mind *|ease your ways * for your own|* * good *|
+ e2e2 e2dA- A2<G2- G4 :|"Cm" d2d2 d2de c2c2c2c2 | d2d2 d2de c2c2c2c2 |"Bbm" c2c2 c2c_d B2B2B2B2 | %27
+w: (hold right there, * part\- * ner!) *|toop toop toop too do toop toop toop tonp|(etc.) * * * * * * * *||
+w: (hold right there, * part\- * ner!) *||||
+ c2c2 c2c_d B2B2B2B2 |"Cm" d2d2 d2de c2c2c2c2 | d2d2 d2de c2c2c2c2 |"Bbm" c2c2 c2c_d B2B2B2 z2 | %31
+w: ||||
+w: ||||
+ c2c2 c2c_d B2B2B2B2 |"Gm""^Verse 3" z2 dc dddc dddg d2d2- | dddc dddc dfdc d2dc | %34
+w: |can't you see that you are jum\- ping through the roof, man?|* are you a fool that yon still need in\- stant ap\- pro\- val? *|
+w: |||
+"Fm" z2 fe fefe fffe f2f2 | z cfe fefe f_afe fef2 |"Gm""^Verse 4" z ddc dddc d2gd- d2<d2 | %37
+w: (can't you see that you are jum\- ping through the roof, man?|are you a fool that you still need in\- stant ap pro\- * val?)|don't you get ti\- red of your own be\- ha\- * viour?|
+w: |||
+ z d(fg) gggg (3g2g2g2 d2d2 |"Fm" c z fe f2fe f_afe fef2 | z ccc f4- fc2c- c4 |: %40
+w: you keep on ac\- ting like you're some kind of stran\- ger|* (don't you get ti\- red of your own be\- ha\- viour? *|you'd bet\- ter ease * your mind!) *|
+w: |||
+"Gm""^Chorus" a6 gd- d8 | g6 gd- d2>d2 d2=e2- |"Fm" e6 dB- B8 | e2e2 e2d2 A2<G2- G4 :|"Fm" z16 |: %45
+w: ease your mind *|case your days * for your own|* * good *|(hold right there, * part\- ner!) *||
+w: ease your kind *|ease your ways * for your own|* * good *|(hold right there, * part\- ner!) *||
+"Gm""^Bridge" d2dd"Abmaj7" =e2e2"Gm" dd (3ddd"Abmaj7" e2e2 | %46
+w: come back and save me lift me up and a\- maze me|
+w: |
+"Gm" z2"Abmaj7" =e2 e2"Gm"dd ddd"Abmaj7"e- e2<e2 |"Fm" g6 g2- g2dc- c4 | z16 :| %49
+w: late\- ly you are dri\- ving me cra\- * zy|ease your * mind * *||
+w: |||
+"Gm" d2dd"Abmaj7" e2e2"Gm" dd (3ddd"Abmaj7" e2e2 |"Gm" z2"Abmaj7" e2 e2"Gm"dd ddd"Abmaj7"g- g2<g2 | %51
+w: come back and save me lift me up and a\- maze me|late\- ly you are dri\- ving me cra\- * zy|
+w: ||
+"Bb""_Outro" f8 z8 | z16 |"Cm" d2d2 d2de c2c2c2c2 | d2d2 d2de c2c2c2c2 | %55
+w: ||toop toop toop too do toop toop toop toop|(etc.) * * * * * * * *|
+w: ||||
+"Bbm" c2c2 c2c_d B2B2B2 z2 | c2c2 c2c_d B2B2B2 z2 |"Cm" d2d2 d2de c2c2c2c2 | d2d2 d2de c2c2c2c2 | %59
+w: ||||
+w: ||||
+"Bbm" c2c2 c2c_d B2B2B2 z2 | c2c2 c2c_d B2B2B2 z2 | c2c2 c2c_d B2B2B2 z2 | c2c2 c2c_d B2B2 z4 |] %63
+w: ||||
+w: ||||
+

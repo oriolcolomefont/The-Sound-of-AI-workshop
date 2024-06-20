@@ -1,0 +1,23 @@
+X:1
+T:Micimackó
+C:Halász Judit
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" G G/ G3/2 E/F/ |"Em" G/G/ G G E |"F" F F G A |1"C" G E/ G3/2 z :|2"G" G A/ B3/2 z || %5
+w: Egy na- pon, mi- kor|Mi- ci- mac- kó- nak|sem- mi dol- ga|nem a- kadt,||
+w: Eszé- be ju- tott, hogy|ten- ni ké- ne va-|la- mi na- gyon||fon- to- sat,|
+"Am" c c c/ c3/2 |"Em" B/ G3/2 G G |"F" A A c A |"C" G E/ E z E/ |"Am" A/ A3/2 A A |"F" A A A A | %11
+w: El- ment te- hát|Ma- lac- ká- hoz,|hogy meg- néz- ze,|mit csi- nál, de|Ma- lac- ká- nál|ép- pen- ak- kor|
+w: ||||||
+"D7" A A B A |"G" G z z2 |:"C" c/ c3/2 G E |"F" F/G/ A z2 |"G" G A G F |1"C" E F G z :|2 %17
+w: sen- kit nem ta-|lált.|Mi- nél in- kább|hull a hó,|an- nál in- kább|ha- va- zik,|
+w: ||Mi- nél in- kább|ha- va- zik,|an- nál in- kább||
+"C" E C z2 |:"F" F3/2 F/ A F |"C" E G z2 |"G" z G/A/ G F |1"C" E G z2 :|2"C" E C z2 |] %23
+w: |Hull a hó és|hó- zik,|Mi- ci- mac- kó|fá- zik,|fá- zik.-|
+w: hull a~hó.||||||
+

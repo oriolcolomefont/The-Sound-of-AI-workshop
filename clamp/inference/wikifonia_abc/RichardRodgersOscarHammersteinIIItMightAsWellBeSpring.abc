@@ -1,0 +1,42 @@
+X:1
+T:It Might As Well Be Spring
+T:It Might As Well Be Spring
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 DD |:"G" EDDG"Gmaj7" EDDG |"G" E2 D4 DD | D>Bd>G"Gmaj7" B>DG>D |"Dm7" =F6"G7" F2 | %5
+w: I'm as|rest- less as a wil- low in a|wind storm. I'm as|jump- y as a pup- pet on a|string. I'd|
+w: |||||
+"C" E2 ^DE"Cdim7" F3 G |"G/B" G2"G/D" D4 DD |"Am7" c2 c2"D7" c2 F2 |"Gmaj7" B6"G6" DD | %9
+w: say that I had spring|fev- er, but I|know it is- n't|spring. I'm as|
+w: ||||
+"G" EDDG"Gmaj7" EDDG |"G" E2 D4 DD | D>Bd>G"Gmaj7" B>DG>D |"Dm7" =F6"G7" F2 | %13
+w: star- ry eyed and vague- ly dis- con-|nect- ed, like a|night- in- gale with- out a song to|sing. Oh|
+w: ||||
+"C" E2 ^DE"Cdim7" F3 G |"G/B" G2 D4"G/D" DD |"Am7" d2 d2"D7" d2 F2 |"G" G8 |"C" c2 c2 cdcB | %18
+w: why should I have spring|fev- er when it|is- n't real- ly|spring?|I keep wish- ing I were|
+w: |||||
+"Dm7" A2 =F2"Dm7/G" F4 |"Dm7" A=FFF"G7b5" F2"G7" E2 |"C" G8 | c2 c2 cdcB |"F#m7" A2 F2"B7" F2 GA | %23
+w: some- where else,|walk- ing down a strange new|street,|hear- ing words that I have|nev- er heard from a|
+w: |||||
+"Em/G" B2 B2"A7" ^c2 c2 |"G""D7""G" d6"D7" DD |"G" EDDG"Gmaj7" EDDG |"G" E2 D4 DD | %27
+w: (man) I've yet to|meet. I'm as|bus- y as a spi- der spin- ning|day dreams, I'm as|
+w: (girl) * * *||||
+ D>Bd>G"Gmaj7" B>DG>D |"Dm7" =F6"G7" F2 |"C" EE^DE"Cdim7" FF=F^F |"G/B" G2 G4"G/D" FG | %31
+w: gid- dy as a bab- y on a|swing. I|have- n't seen a croc- cus or a|rose- bud or a|
+w: ||||
+"C6" A2 A2"D9" A2 F2 |"B7" B6"E7b9" Bc |"A7" ^c2 A2 A2 AB |"D9" cAAA A2 A^A |"G7" B2 G2 G2 B2 | %36
+w: rob- bin on the|wing, but I|feel so gay in a|mel- an- chol- y way that it|might as well be|
+w: |||||
+"A7" A6 G2 |"G/D" D3- (D/B/) G4 |"D7" D3- (D/c/) A4 |"G""Em" G8 |1"C" z4"D7" z2 DD :|2 %41
+w: spring. It|mi- * ght as|we- * ll be|spring!|I'm as|
+w: |||||
+"G""C6" G8- ||"G" G4 z4 |] %43
+w: srping!||
+w: ||
+

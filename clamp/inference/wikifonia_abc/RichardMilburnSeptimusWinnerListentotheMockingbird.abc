@@ -1,0 +1,23 @@
+X:1
+T:Listen to the Mockingbird
+T:Listen to the mockingbird
+T:unknown
+C:Richard Milburn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." G |"G7" G3 G | B2 A B |"C" d c3- | c2 A3/2 G/ |"G7" G B3- | B2 A3/2 G/ |"C" G c3- | %8
+w: I'm|dream- ing|now of sweet|Hal- ley|* My sweet|Hal- ley|* my sweet|Hal- ley|
+ c2 G2 |"G7" G3 G | B2 A3/2 B/ |"C" d c3- | c2 e e |"Dm" f a a a |"G7" a g f d |"C" c4 | %16
+w: * I'm|dream- ing|now of sweet|Hal- ley|* for the|thought of her is|one that nev- er|dies|
+ z2"^N.C." e/e/e/e/ |"G7" e d d2 | z2 d/d/d/d/ |"C" d c c2 | z2 c2 |"G7" d d d2 | d f e ^d | %23
+w: Lis- ten to the|mock- ing bird,|lis- ten to the|mock- ing bird|the|mock- ing bird|sing- ing o'er the|
+"C" e4 | z2"^N.C." e/e/e/e/ |"G7" e d d2 | z2 d/d/d/d/ |"C" d c c2 | z2 e2 |"F" f a a a | %30
+w: grave|lis- ten to the|mock- ing- bird|lis- ten to the|mock- ing- bird|still|sing- ing where the|
+"G7" a g f d |"C" c4- | c z z2 |] %33
+w: weep- ing wil- lows|wave.||
+

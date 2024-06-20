@@ -1,0 +1,22 @@
+X:1
+T:Git Along Little Dogies
+T:Git Along Little Dogies
+T:traditional cowboy song
+T:
+T:arranged by Paul Hill
+T:Amsco Music Sales Co., N.Y.C. 1933
+C:traditional cowboy ballad
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ d/d/ |"G" d2 e (dB)G/G/ |"C" AGE"D" EDD |"G" G2 A Bde | dB"A7"G"D7" A2 d/d/ |"G" d2 e (dB)G/G/ | %6
+w: Whoop- pee|Ti Yi Yo _ Git a-|long lit- tle do- gies, It's|your mis- for- tune and|none of my own, Whoop- pee|Ti Yi Yo _ Git a-|
+"C" AGE"D" EDD |"G" GAB dBG |"A7" A>G"D7"A"G" !fermata!G2 |] %9
+w: long lit- tle do- gies, You|know that Wy- om- ing will|be your new home.|
+

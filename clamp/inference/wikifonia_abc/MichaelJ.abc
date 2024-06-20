@@ -1,0 +1,34 @@
+X:1
+T:Agnus Dei
+T:Agnus Dei
+C:Michael J. Smith
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A" (3(C4 D4) E4 F4 E4- | E16 | (3(C4 D4) E4"D/A" (3(F4"E/A" G4 A4) |"D/A" A4- A2GF G2FE(F2E)D | %4
+w: Al- * le- lu- ia,|_|Al- * le- lu- * *|ia, _ for our Lord God Al- migh- * ty|
+"Asus2" E16- | E16 |"A" (3(C4 D4) E4 F4 E4- | E16 | (3(C4 D4) E4 (3(F4 G4 A4) | %9
+w: reigns.|_|Al- * le- lu- ia,|_|Al- * le- lu- * *|
+"D/A" A4- A2GF G2FE(F2E)D |"Asus2" E16- | E16 | (3(C4 D4) E4"D/A" (3(F4 G4 A4) | A8 A4"E" B2>c2 | %14
+w: ia, _ for our Lord God Al- might- * y|reigns.|_|Al- * le- lu- * *|ia. Ho- * *|
+"A" c8- c4"E/A" B2c2 |"A" c8- c4 A2c2 |"D/A" d4"A" c4- c2BA"F#m"A2B2 |"Esus4" B8-"E" B4 BcBA | %18
+w: ly, _ Ho- *|ly _ are You.|Lord ~God _ Al- * might- *|y. _ Wor thy is the|
+"D" F12 BcBA | F8 F2G2"D/F#"(A2"E/G#"Bc) |"A" c8- c4"E/A" (B2>c2) |"A" c8- c4 A2c2 | %22
+w: Lamb; Wor- thy is the|Lamb. You are Ho- * *|ly. _ Ho- *|ly _ are You,|
+"D/A" d4 c4-"A" c2(BA)"F#m"(A2B2) |"Esus4" B8-"E" B4 BcBA |"D" F12 BcBA | %25
+w: Lord God _ Al- * might- *|y. _ Wor thy is the|Lamb; Wor- thy is the|
+ F8 F2G2"D/F#"(A2"E/G#"Bc) |"A" c8- c4"E/A" B2c2 |"A" c8- c4 A2c2 |"D/A" d4 c4-"A" c2BA"F#m"A2B2 | %29
+w: Lamb. You are Ho- * *|ly, _ Ho- *|ly _ are You.|Lord ~God _ Al- * might- *|
+"Esus4" B8-"E" B4 BcBA |"D" F12 BcBA | F8 F2G2"D/F#"(A2"E/G#"Bc) |"A" c8- c4"E/A" (B2>c2) | %33
+w: y. _ Wor- thy is the|Lamb; Wor- thy is the|Lamb. You are Ho- * *|ly. _ Ho- *|
+"A" c8- c4 A2c2 |"D/A" d4 c4-"A" c2(BA)"F#m"(A2B2) |"Esus4" B8-"E" B4 BcBA |"D" F12 BcBA | %37
+w: ly _ are You,|Lord God _ Al- * might- *|y. _ Wor thy is the|Lamb; Wor- thy is the|
+ F4 z4 (F4"E" G4) |"A" A16 |] %39
+w: Lamb. A- *|men.|
+

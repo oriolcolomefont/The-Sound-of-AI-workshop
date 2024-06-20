@@ -1,0 +1,64 @@
+X:1
+T:Awake
+T:Awake
+C:Thomas Salter, Eric Mouquet
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Ab
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Ab" z3 E cAB2-"Eb/G" B2AB-B2c(B |"Fm" A2<)A2- A4"Ab/C" z2 Ad-d2c2 |"Db" A8"Ebsus4" z3 F"Eb"A2cc- | %3
+w: A bear- ti- ful _ and blind- * ing morn-|* ing. _ The world _ out-|side be- gins to breathe.|
+"Ab" c12 z4 | z3 Ec2BB-"Eb/G" B2AB c4- |"Dbsus2/G" c(BA)A- A4"Absus2/C" z2 A2d2>c2- | %6
+w: _|See clouds ar- riv- * ing with- out|_ warn- * ing. _ I need you|
+"Db" c2<A2- A4"Ebsus4" z3 F"Eb"A2B(B |"Ab" A8) z4 c2<e2 |"Db" f4- fee2-"Ebsus4" e4"Eb" z2 fg | %9
+w: _ here _ to shel- ter me.|* And I|know _ _ that _ on- ly|
+"Fm" a2gf- f"Ab/C"e2"Db"(c/B/ A8) |"Absus2" z3 FA2ee-"Db" e2cB- Bc(c>d | %11
+w: time will tell _ us how _ _|to car- ry on _ with- out _ each oth- *|
+"Ebsus4" c2<)B2- B4"Eb" z3 E (3A2B2c2 |"Fm7" e8- e2cd-d2cc- |"Csus4" c2 B6"Cm" z4 (3A2B2c2- | %14
+w: * er. _ So keep me a-|wake _ to mem- * o- rize|_ you. Give me more|
+"Ab" c2 e6- e2cd2-<d2c |"Ebsus4" c2 B6"Eb" z4 B2<c2 |"Bbm" (d8- dc)c2-"Absus2/C" (3c2e2c2 | %17
+w: _ time _ to feel _ this|_ way. We can't|stay _ _ like _ this for-|
+"Db" B2<A2- A4 z3 F"Eb" ABc2- |"Fm" c6 c2 e6 cF- |"Db" F4 z4"Ebsus4" A6"Eb" (BA- | %20
+w: ev- er, _ but I can have|_ you next to me.|_ to- day. _|
+"Ab" A8)"Eb/G" z8 |"Dbsus2/F""Absus2/C" z16 |"Ab""Eb" z16 |"Fm""Ab/C" z16 | %24
+w: _||||
+"Ab" z3 E cAB2-"Eb/G" B2AB-B2cB |"Fm" A2<A2- A4"Ab/C" z2 Ad2-<d2c |"Db" A8"Ebsus4" z3 F"Eb"A2cc- | %27
+w: If I could make _ these mo- * ments end-|* less, _ If I _ could|stop the winds of change,|
+"Ab" c12"Eb7/G" z4 |"Ab" z3 ce2c(c"Eb/G" B)B2B- B2<e2- | %29
+w: _|If we just keep _ our eyes _ wide|
+"Dbsus2/F" e(dc)A- A4"Absus2/C" z3 A2<d2c- |"Db" c2(BA- A4)"Ebsus4" z3 E2<"Eb"c2(B | %31
+w: _ o- * pen, _ then ev- 'ry-|* thing * * would stay the|
+"Ab" A2) A6 z4 c2<e2 |"Db" (f4 e2)e2-"Ebsus4" (e2 c<B)"Eb" z2 fg |"Fm" a2g(f e)f2(B"Bbm7" A8) | %34
+w: _ same. And I|know _ that _ _ _ on- ly|time will tell _ me how _|
+"Absus2/C" z3 FA2ee-"Dbsus2" e2cB- Bc(c>d |"^EbSIS" c2<)B2- B4"Eb" z3 E"^N.C." (3A2B2c2 | %36
+w: we'll car- ry on _ with- out _ each oth- *|* er. _ So keep me a-|
+"Fm7" e8- e2cd-d2cc- |"Csus4" c2 B6"Cm" z3 E (3A2B2c2- |"Ab" c2 e6- e2cd2<d2c- | %39
+w: wake _ for ev- * 'ry mo|_ ment, and give us more|_ time _ to be _ this|
+"Ebsus4" c2 B6"Eb" z4 B2<c2 |"Bbm" (d8- dc)c2-"Absus2/C" (3c2e2c2 |"Db" B2 A6 z3 F"Eb" ABc2- | %42
+w: _ way. We can't|stay _ _ like _ this for-|ev- er, but I can have|
+"Fm" c6 c2 e6 eF- |"Db" F4 z4 A6 (BA- | A4)"Fm" c4"Ab" (c2 c/d/e)"Ab/C" e4 | %45
+w: * you next to me|_ to- day.. _|_ We'll let _ _ _ to-|
+"Ebm" (e4- ed)d2-"Dbsus4" d2<d2"Db" z3 c |"Bbm" (d4 c2)c2"Fm" (cBA2-A2>)F2 | %47
+w: mor- * * ow _ wait. You're|here _ right now _ _ _ with|
+"Eb" (B4- Bc/B/AB- B4) z3 F |"Db" (F2- F/G/A)"Fm" A4"Ab" c4"Ab/C" e4 | %49
+w: me. _ _ _ _ _ _ And|all _ _ _ my fears just|
+"Ebm" _g6 f2-"Dbsus4" f(f/e/d2-"Db"d2) z c |"Bbm" (d4- dc)c2"Fm" (cBA2) z2 (c2 | %51
+w: fall a- * way _ _ _ when|you _ _ are all _ _ I|
+"Ebsus4" B2)(cB- B12- |"Eb" B12- B2>A2 |"Fm" c16- |"Cm" c8) z8 |"Ab" (c12 d2c2 | %56
+w: _ see. _ _|_ _ _|||Whoa. _ _|
+"Ebsus4" B8)"Eb" z4 B2<c2 |"Bbm" (d8- dc)c2"Ab/C" e4 |"Db" c2B2 A4 z4"Eb" ABc2- | %59
+w: _ We can't|stay _ _ like this|for- ev- er, But I have|
+"Fm" c6 c2 e6 f(f |"Ebsus4" e16) |"Eb" z16 |"Dbsus2" z8 z2 A2 edcB |"Fm" A2<A2- A8"^N.C." z4 | %64
+w: _ you here to- day|||And we will re- mem-|* er. _|
+"Dbsus2" z4 z3 e- e4 edc(B |"Fm" A2<)c2-"Eb/G""Ab" c12- |"Db" c16- |"Fm" c8"Eb/G""Ab" z8 | %68
+w: Oh, _ we will re- mem-|* ber. _|_||
+"Db" z8 z4 (A2B2 |"Fm" c8"Eb/G" B2cd"Ab"c2BA) |"Dbsus2" (f16 |"Fm" e8)"Eb" z4"Ab" z3 A | %72
+w: Ooh _|_ _ _ _ _ _ _|Hey.|_ Re-|
+"Db" d2c(B2<A2)F"Bbm7" B2>c2B2>A2 |"Ab""Eb/G" A16 |"Dbsus2/F" z8"Absus2/C" z8 | %75
+w: mem- ber all _ the love we shared to-|day.||
+"Db" z8"Ebsus4""Eb" z8 |"Ab" z16 |] %77
+w: ||
+

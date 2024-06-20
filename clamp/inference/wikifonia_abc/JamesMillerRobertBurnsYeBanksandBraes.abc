@@ -1,0 +1,32 @@
+X:1
+T:Ye Banks and Braes
+T:Ye Banks and Braes
+T:tune:Jas. Miller
+T:Words: Robert Burns
+C:James Miller
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x2 D |"G" G2 G |"D" (A G) A |"Em" (B d) B |"D" (A G) A |"G/B" (B3/2 A/) G |"C" (G E) D | %7
+w: 1.Ye|banks and|braes _ o'|bon- * nie|Doon, _ How|can _ ye|bloom _ sae|
+w: 2.Oft|hae I|rov'd _ by|bon- * nie|Doon, _ To|see _ the|rose _ and|
+"G" (D E) G |"D" A2 (B/A/) |"G" G2 G |"D" (A G) A |"Em" (B d) B |"D" (A G) A |"G/B" (B3/2 A/) G | %14
+w: fresh _ and|fair? How _|can ye|chant _ ye|lit- * tle|birds, _ And|I _ sae|
+w: wood- * bine|twine; And _|il- ka|bird _ sang|o' _ its|luve _ And|fond- * ly|
+"C" (G E) D |"D7" (D E) G |"G" G2 B |"G" d2"C" e |"G" (d B) G |"G" d2"C" e |"G" d B G | %21
+w: wea- * ry|fu' _ o'|care? Thou'll|break my|heart _ ye|warb- ling|bird, _ that|
+w: sae _ did|I _ o'|mine. Wi'|light- some|heart _ I|pu'd a|rose, _ Fu'|
+"G" (d B) G |"Em" (d B) G |"Am" (e3/2 d/) (c/B/) |"D7" A2 (B/A/) |"G" G2 G |"D" (A G) A | %27
+w: want- * tons|through _ the|flow'- * ring _|thorn: Thou _|minds me|o' _ de-|
+w: sweet _ up-|on _ its|thor- * ny _|tree; And _|my fause|lo- * ver|
+"Em" (B d) B |"D" (A G) A |"G/B" (B3/2 A/) G |"C" (G E) D |"D7" (D E) G |"G" G2 |] %33
+w: part- * ting|joys, _ De-|part- * ed|ne- * ver|to _ re-|turn.|
+w: stole _ my|rose _ But|ah! _ he|left _ the|thorn _ wi'|me.|
+

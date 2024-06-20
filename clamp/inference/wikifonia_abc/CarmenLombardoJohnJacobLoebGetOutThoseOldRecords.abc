@@ -1,0 +1,26 @@
+X:1
+T:Get Out Those Old Records
+T:Get Out Those Old Records
+C:Carmen Lombardo
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z B, C ^C |"G" D4 | B D2"G+7" ^D |"C" E2"E7" E/>D/ E |"Am" c E2"Dm7" =F |"D7" ^F =F ^F G | %6
+w: Get out those|old|re- cords, Those|old phon- o- graph|re- cords, The|ones we used to|
+ A c B ^A |"G" B4 | z B, C ^C | D4 | B D2"G+7" ^D |"C" E2"E7" E/>D/ E |"Am" c E2"Dm7" =F | %13
+w: play so long a-|go.|What if they|sound|scratch- y, The|tunes real- ly were|catch- y, And|
+"D7" ^F =F/F/ ^F G | A c B A |"G""C" G4 |"G" z G A"G7" B |"C" c c c/E/ G |"Cm" d c2 c/>d/ | %19
+w: spec- ial- ly those that|said, "I love you|so."|I used to|beg you ov- er and|ov- er, Just to|
+"G" c B B D | B2 z3/4 D/4E/G/ |"A7" B/>A/ G- G/>^C/E/>G/ | B/>A/ G2 ^G |"D7" A B"Am7" G A | %24
+w: set the wed- ding|day, To get you|"court- a- ble," _ I'd bring my|port- a- ble, And|melt you heart a-|
+"D7" F B, C ^C |"G" D4 | B D2"G+7" ^D |"C" E2"E7" E/>D/ E |"Am" c E2"Db7" =F |"D7" ^F =F ^F G | %30
+w: way, With all those|old|re- cords, Those|old pho- no- graph|re- cords, The|ones we used to|
+ A c B A |"G""G7""Gdim""Cm" G4- |"G" G z z2 |] %33
+w: play so long a-|go.||
+

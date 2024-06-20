@@ -1,0 +1,42 @@
+X:1
+T:Live For Life (Vivre Pour Vivre)
+T:Live For Life
+C:Francis Lai
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Gmaj7" FF FF FE |"G6" AA AA AG |"F#7sus4" FF FF FE |"F#7" F6 |"Gmaj7" FF FF FE |"G6" AA AA AG | %6
+w: 1.~Come with me my love and|seize the day and live it,|live it ful- ly, live it|fast.|Nev- er think- ing once a-|bout to- mor- row, till to-|
+w: 2.~In Par- ee to- day, in|Am- ster- dam to- mor- row,|sixt- y min- utes thru the|skies.|Fly with me to see the|set- ting sum- mer sun and|
+"F#7sus4" FF FF FE |"F#7" F4"F#maj7" =F2 |"Fmaj7" EE EE ED |"F6" GG GG G=F |"E7sus4" EE EE ED | %11
+w: mor- row's been and gone and|past. We'll|pour the wine and fill the|cup of joy and drink it,|drink as if it were the|
+w: stay with me to see it|rise. And|say to those who say to|live this way is mad, that|mad we'd rath- er be than|
+"E7" E6 |"Bm7" D6 |"E7" E2 ^G2 F2 |1"Amaj7" ^C6- || C6 :|2"Amaj7" ^C6- || C6 ||"Dm7" AA AA AA | %19
+w: last.|Live,|just live for|life.|_|life.|_|If you let me I will|
+w: wise.|Live,|just live for||||||
+"G7" e4 d2 |"Cmaj7" GG GG GG |"Ebdim" d4 c2 |"Dm7" =FF FF FF |"Gm7" c4"G7" B2 |"Cmaj7" A6- | A6 | %26
+w: lead you|thru the mys- ter- y and|won- der|of a world you've nev- er|known be-|fore.|_|
+w: |||||||
+"F#m7" AA AA AB |"B7" A6 |"Emaj7" ^GG GG GA | ^G6 |"Fmaj7" AA AA A_B | A6 |"Em7" GG GG GA | %33
+w: Share the splen- dors to be|shared,|Mag- ic plac- es to ex-|plore,|Dare the dan- gers to be|dared.|Life is all of this and|
+w: |||||||
+"A7" G4 FG |"Am7/D" A6- |"D7b9" A6 |:"Gmaj7" FF FF FE |"G6" AA AA AG |"F#7sus4" FF FF FE | %39
+w: more, this and|more.|_|3.Yes- ter day's a mem- 'ry,|gone for good for- ev- er,|while to- mor- row is a|
+w: |||4.~Come with me to where the|hills are green and still and|filled with flow- ers to a-|
+"F#7" F6 |"Gmaj7" FF FF FE |"G6" AA AA AG |"F#7sus4" FF FF FE |"F#7" F4"F#maj7" =F2 | %44
+w: guess.|What is real is what is|here and now, the "here and|now" is all that we pos-|sess. So,|
+w: dore|Come with me to where the|laugh- ter rings and drowns the|pound- ing sound of guns of|war. Yes,|
+"Fmaj7" EE EE ED |"F6" GG GG G=F |"E7sus4" EE EE ED |"E7" E6 |"Bm7" D6 |"E7" E2 ^G2 F2 |1 %50
+w: take my hand and we will|take the mo- ment, if for|just the mo- ment's hap- pi-|ness.|Live,|just live for|
+w: come with me my love and|live for life and life will|live for you for- ev- er-|more.|Live,|just live for|
+"Amaj7" ^C6- || C6 :|2"Amaj7" ^C6- || C6 |"Bm7" D6 |"E7" E2 ^G2 F2 |"Amaj7" ^C6- |"A6" C6 | %58
+w: life.|_|life.|_|Live,|just live for|life,|_|
+w: ||||||||
+"Bm7" D6 |"E7" E2 ^G2 F2 |"Amaj7" ^G6- | G6- | !fermata!G6 |] %63
+w: live|just live for|life.|_||
+w: |||||
+

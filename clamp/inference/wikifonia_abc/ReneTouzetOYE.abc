@@ -1,0 +1,33 @@
+X:1
+T:OYE!
+T:OYE!
+T:Rene Touzet
+C:Rene Touzet
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:none
+V:1 treble transpose=-2 nm="B Trumpet"
+%%MIDI program 56
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:Bb]"Bb"!f!"^Intro" (c.d) z !tenuto!F/.F/ | z/ .B.c/ z/ !tenuto!c/.B |"Gm" (c.d) z G/A/ | %3
+ !tenuto!B/.G.B/ z/ !tenuto!c/.d |"Cm" !tenuto!cd z !tenuto!F/.F/ | z/ .B.c/ z/ !tenuto!c/.B | %6
+"F7" !tenuto!c2 !tenuto!d2 | !tenuto!e>!^!f z/ !tenuto!f/!^!f :: %8
+"Bb" z3/2 !tenuto!d/ !tenuto!B!tenuto!F/.E/- |"Eb" E/.G!tenuto!B/ (G.E) |"F7" (F.A) (A.c) | %11
+ !>!f>!^!f z/ !tenuto!f/!^!f :|"Bb69" !^![dfb]!^![dfb] z [dfb]/[dfb]/ | !^![dfb]2 z2 || z3 !>!f- | %15
+ f3 z | z2 z3/2 !^!d/ | z/ !^!f!>!g/ z2 | z4 | z4 | !^!c!^!d !>!e>!^!e | z/ !^!=e!>!f/"^R" z2 :: %22
+S z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 :: %30
+"Bb""^Interlude" z3/2 !tenuto!d/ !tenuto!B!tenuto!F/.E/- |"Eb""Eb""Eb" E/.G!tenuto!B/ (G.E) | %32
+"F7""F7""F7" (F.A) (A.c) | !>!f>!^!f z/ !tenuto!f/!^!f :|"Bb69" !^![dfb]!^![dfb] z [dfb]/[dfb]/ | %35
+ !^![dfb]2 z2 ||"Bb""^Canto" z4 | z/ B,D/- DF |"Gm" !tenuto!G2 z2 | z3/2 G/- GA |"Cm7" B4 | %41
+ z/ B,G,/- G,B, |"F7" z (f/e/) f>!^!g | z/ !^!f!>!f/ z2 :|"D7" z4 | z/ D^FAF/ |"Gm" G2 z2 | %47
+ B>G- GD |"Cm" E4- | E2 z2 |"F7" z4 | z/ F/G/A/ B/c/d/e/ |"F7" f4- | f3 _f/e/ |"Ddim" d4- | d2 z2 | %56
+"Eb" e4- | e2 z2 | E/FE/ F2 |"F7" !^!ez/!>!f/- f2 :: z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 :: %68
+"^R" z3 !>!f- | f3 z | z2 z3/2 !^!d/ | z/ !^!f!>!g/ z2 | z4 | z4 |1 !^!c!^!d !>!e>!^!e || %75
+ z/ !^!=e!>!f/ z2 :|2 z4 || !tenuto!f/.f!tenuto!f/ .g.a |"Bb69" !^!bz/!tenuto!b/ !^!b2 | %79
+"^Mambo" z/ !>![Fd]3/2 .[DB].[B,G] |:"F7" [A,F]4 | z/ [A,F]/[CA]/[Ec]/- [Ec][CA] |"Bb" [DB]4 | %83
+ z/ !>![Fd]3/2 .[DB].[B,G] ::"F7" c2 d2 | e2 gb |"Bb" af d>c- | c<B z a |"F7" g2 e2 |1 z2 cg || %90
+"Bb" f4 | z4 :|2 z2 ef ||"Bb69" !^![dfb]!^![dfb] z [dfb]/[dfb]/ | !^![dfb]2 z2!D.S.!!fine! |] %95
+

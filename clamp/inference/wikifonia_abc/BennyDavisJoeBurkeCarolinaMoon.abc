@@ -1,0 +1,21 @@
+X:1
+T:Carolina Moon
+T:Carolina Moon
+T:Benny Davis and Joe Burke
+C:Benny Davis, Joe Burke
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" e3 f ^fg |"C7" c4 B2 |"F" A6 |"Fm" f6 |"C" e3 d ce |"G7" d3 c Bd |"C" c6 |"G7" z2 d2 ^d2 | %8
+w: Car- o- li- na|moon keep|shin-|ing|shin- ing on the|one who waits for|me||
+"C" e3 f ^fg |"C7" c4 B2 |"F" A6 |"Fm" f6 |"C" e3 d ce |"G7" d3 c Bd |"C" c6 |"C7" z2 c2 c2 | %16
+w: Car- o- li- na|moon I'm|pi-|ning|pi- ning for the|place I long to|be|How I'm|
+"F" (3cB_B A4 | f2 A4 |"C" (3BA_A G4 | e2 G4 |"D7" (3A_AG ^F4 | (3A^AB c2 e2 | d6- | d4 z2 | %24
+w: hop- ing to- night|youll go|go to the right|win dow|scat- ter your light|say I'm al- right please|do||
+ e3 f ^fg | c4 B2 | A6 | f6 | e3 d ce | d4 e2 | c6- | c6 |] %32
+w: Tell her that I'm|blue and|lone-|ly|dream- y Car- o-|li- na|moon.||
+

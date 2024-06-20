@@ -1,0 +1,52 @@
+X:1
+T:Lady
+T:Lady
+T:Lionel Richie
+C:Lionel Richie
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Dm" dAeA fAaA | dAeA fAaA |S"Dm" A D3 z3 D/A/ |"Gm/D" AG z G/F/"C/D" EF z G/F/ | %4
+w: ||La- dy, I'm your|knight in shin- ing ar- mour and I|
+w: ||La- dy, for so|man- y years I thought I'd nev- er|
+"Dm" A D3 z3 D/A/ |[M:2/4]"Gm/D" A2 (3GGF |[M:4/4]"C/D" E c3 z3 F/D/ |"Dm" A4 z4 | z4 z3 A | %9
+w: love you, you have|made me what I|am and I am|yours..||
+w: find you, you have|come in- to my|life and made me|whole|For-|
+"C/D" A D3 z3 D/A/ |"Dm/G" A2 (3GGF"C/D" EFG>B |"Dm" A D3 z3 D/A/ |[M:2/4]"Gm/D" A2 (3GGF | %13
+w: My love, there's so|man- y ways I want to say I|love you, let me|hold you in my|
+w: ev- er, let me|wake to see you each and ev- 'ry|morn- ing, let me|hear you whisp- er|
+[M:4/4]"C/D" E c3 z2 F/GA/- |"Dm" A4 z4 | z4 z2 A(c/A/)!dacoda! ||"Gm7" d6- d>F | %17
+w: arms for- ev- er more.|_|You have _|gone _ and|
+w: soft- ly in my ear.|_|In my _|_ _ _|
+"Am7" c2 BA/A/"D7" d c3 |"Bmaj7" z2 f<e"Am7" e c2 F/G/ |"Dsus4" A6"D7" z c |"Gm7" d6- dA/B/ | %21
+w: made me such * a fool,|I'm so lost in your _|love. And|oh, _ we be-|
+w: ||||
+"Am7" c3 e"D7" c A3 |"Bbmaj7" z2 (3fed"Am7" e2 A<c |"Dsus4" d8-!D.S.! |"D" d4 z4 || %25
+w: long to- geth- er.|Won't you be- lieve in my|song?|_|
+w: ||||
+O"Gm7" d6- dA/B/ |"Am7" c2- c/A/c"D7" d A3 |"Bbmaj7" z2 f/e/e"Am7" d<c- c/F/G | %28
+w: eyes _ I see|no- * one else but you,|There's _ no oth- er _ love like|
+w: |||
+"Dsus4" A A3-"D7" A2 z c |"Gm7" d6- d/c/A/B/ |"Am7" cAce"D7" c A3 | %31
+w: our love. _ And|yes, _ Oh yes, I'll|al- ways want you near me.|
+w: |||
+"Bbmaj7" z f (3fed"Am7" e2 z A/c/ |"Dsus4" d8- |"D7" d6 z2 |"Bb" d d3- d4 |"C/Bb" z2 z e c3 d | %36
+w: I've wait- ed for you for so|long.|_|La- dy _|your love's the|
+w: |||||
+"F" c2- c/B/A/B/"C/E" c4 |"Dm/C" z4 z2 z F/F/ |"Bb" d4 d4 |"C7/Bb" z2 e2 c4 | %40
+w: on- * ly love I need.|and be-|side me|is where|
+w: ||||
+"F" z2 z A/c/"C7/E" c3 d/F/- |"Dm" F4 z2"Dm/C" z F |"Bb" d d3- d4 |"C7/Bb" z2 e2 c A3 | %44
+w: I want you to be.|_ 'Cause,|my love, _|there's some- thin'|
+w: ||||
+"F" (d c2) (d"C/E" G) F2 G |"Dm" A4"Dm/C" z2 z A |"Bb" B"Am7" A2 G/A/"Gm7" (G F3) |"C" z4 z2 DF | %48
+w: I * want * you to|know. You're|the love of my life _|you're my|
+w: ||||
+"Dm" GF- F2 z2 d/e/f/"Gm7/D"a/ | aggf"C/D" efgf |"Dm" aAdf aad'f' | a'8 |] %52
+w: la- dy! _ _ _ _ _|_ _ _ _ _ _ _ _|||
+w: ||||
+

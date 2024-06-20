@@ -1,0 +1,30 @@
+X:1
+T:What I Did For Love
+T:What I Did For Love
+C:Marvin Hamlisch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 EE/A/-AE/G/- |"C" G8- |"Am" G2 z E"A7" AGFE |"Dm7" FD- D6- |"Fm" D2 z2 _AG/G/-GF | %5
+w: Kiss to- day * good bye||* the sweet- ness and the|sor- row *|* We did what * we|
+"C" E4"G" G4 |"D9" c8- |"^N.C." c2 z2 EEAE/D/- |"Fm" D z DE F _A2 D- | D z DE Fc- c2 |"G" B8- | %11
+w: had to|do,|* And I can't re- gret|* what I did for love.|* what I did for *|love.|
+"G7" B2"_N.C." z2 EE/A/-AE |"C" G8- |"A7" G2 z E AGFE |"Dm7" FD- D6- |"Fm" D2 z2 _AG/G/-GF | %16
+w: * Look my eyes * are|dry,|* the fift was ours to|bor- row. *|* It's as if * we|
+"C" E4"G" G4 |"D9" c8- |"^N.C." c2 z2 EEAE/D/- |"Fm" D z DE F _A2 D- | D z DE Fc- c2 |"G" B8- | %22
+w: al- ways|knew,|* But I won't for- get|* what I did for love,|* what I did for love.||
+[M:2/4]"G" B4 |[M:4/4]"Am" c8- |"Fmaj7" c2 z2"E7" BcdB |"^Ajm" c8- | c2 z2"B7" ABcA |"Em" B8- | %28
+w: |Gone,|* love is nev- er|gone,|* as we trav- el|on,|
+"G" B2 z2"A7" GA_BG |"Fm" _A4 G4 |"G7" z4"^N.C." EE/A/-AE/G/- |"C" G8- | G2"A7" z E AGFE | %33
+w: * love's what we'll re-|mem- ber.|Kiss to- day * good- bye||* and point me t'ward to-|
+"Dm7" FD- D6- |"Fm" D2 z2 _AG/G/-GF/E/- |"C" E4"G" G4 |"Am" c8- |"D7" c4 z2 ed/c/- | %38
+w: mor- row *|* Wish me luck * the same|* to|you.|* Won't for- get,|
+"F" c2 ed/c/-"C" c2 ed/c/- |"Dm7" c4"G7" d4 |"C" c8 |"Fm" z2 DE FB- B2 |"C" c8 |"Fm" z2 DE FB- B2 | %44
+w: * can't re- get- * what I did|* for|love.|what I did for *|love.|What I did for *|
+"C" c8 |] %45
+w: love.|
+

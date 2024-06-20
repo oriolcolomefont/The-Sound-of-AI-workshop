@@ -1,0 +1,40 @@
+X:1
+T:Please Mr. Sun
+T:Please Mr. Sun 
+T:Ray Getzov
+T:Sid Frank 
+C:Ray Getzov
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" A2- (3ABc"Dm" F2- (3FGA |"Gm""C7" G6 z2 |"Gm" G3 A"C7" B2- (3BBB |"F" A c3-"F7" c3 c |1 %4
+w: ||||
+w: Talk * to her .PLEASE * MIS- TER|SUN,|speak to her * mis- ter|rain- bow, * and|
+w: Whis- * per to her * mis- ter|wind,|sing to her * mis- ter|rob- bin * and|
+"Bb" d3 e"Am" c A2 F ||"Gm" B B3- B2- (3BAA |"C7" G8- | G6 z2 :|2"Bb" d3 e"Am" c A3 || %9
+w: ||||miss- us moon- light|
+w: take her un- der your|branch- es * * mis- ter|tree.|||
+w: |||||
+"Gm" B2- (3BFG"C7" A3 G |"F" F8- | F6 z2 |"Gm" z2 GA B3 A | G8 |"F" z AAB c3 B | A6 z2 | %16
+w: put * in a word for|me.||Tell her how I|feel,|it should- 'nt end this|way.|
+w: |||||||
+w: |||||||
+"Gm" Bc"C7" d6 |"Am" c3 A"Dm" F3 G |"Dm7" AA- (3AFG"G7" (3AAA GF |"C7" G6 z2 | %20
+w: Since you are|all her friends she'll|list- en * to what- ev- er you have to|say.|
+w: ||||
+w: ||||
+"F" A2- (3ABc"Dm" F2- (3FGA |"Gm""C7" G6 z2 |"Gm" G G2 A"C7" B3 B |"F" A c3- c3 c | %24
+w: Ba- * bble to her * mis- ter|brook,|kiss her for me miss|rain- drop * and|
+w: ||||
+w: ||||
+"Bb" d3 e"Am" (3c2 A2 F2 |"Gm" B4"C7" E2 FG |"F" F8- | F2 z2 z4 |] %28
+w: watch to see they all|do, PLEASE MIS- TER|SUN.||
+w: ||||
+w: ||||
+

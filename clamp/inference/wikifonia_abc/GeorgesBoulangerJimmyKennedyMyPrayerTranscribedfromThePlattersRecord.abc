@@ -1,0 +1,36 @@
+X:1
+T:My Prayer (Transcribed from The Platters Record)
+C:Georges Boulanger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 7
+%%MIDI program 52
+V:1
+"Bbdim" (3z =e f (3_g f c |"Ebmin" e4 |"F7" (3z c _d (3e d __B |"Bbmin" c/B/- B3 | %4
+w: When the ~twi- light is|gone|and no song- birds are|sing- ing, *|
+"Bbdim" (3z =e f (3_g f c |"Ebmin" e4 |"F7" (3z c _d (3e d __B |"Bb " B4- |"Ebmin" B3 B | %9
+w: When the ~twi- light is|gone|you come in- to my|heart|* and|
+"Ebmin7" (3_d c B"Dbmin" (3_A _G A |"F " F4- | F2"Gb " _d"F7" c/F/ |"Bb " c/B/- B3- | B3"F " F | %14
+w: here in my heart you will|stay|* while I\- *|~pra- y. *|* My|
+"Bb ""Gmin" d4- |"Bb " (3d f d (3:2:4c B- B/c/ |"Gdim7" G4- | (3G B c"Ebmaj7" (3d2 c/B/ | %18
+w: prayer|* is to lin- ger * with|you|* at the end of the|
+"Ebmin" ^F4- | (3F B c"EbminMaj7" (3d2 c/B/ |"Bb " F4- |"F7" F2 z/ f/ g/f/ |"Bb " f/d/-"Gmin" d3- | %23
+w: ~day|* in a ~dream that's de-|vine.|* M\- \- y|~pra- yer *|
+"Bb " (3d f d (3:2:4c B- B/c/ |"Gdim7" G4- | (3G B c"Ebmaj7" (3d2 c/B/ |"Ebmin" _G4- | %27
+w: * is a rap- ture * in|~blue|* with the ~world far a\-|way|
+"F7" (3G F =G (3A2 G/F/ |"Bb " B4- | B2"Bb7" z B |"Ebmin" _g4- | (3g _a _g"Bbsus47" (3a2 ^f/a/ | %32
+w: * and your lips close to|~mine.|* To-|night|* while our hearts are a\-|
+"Bbmin" f4- | f3"F " f |"Ebmin" (3e _d c e2- |"Gb " (3e _d e"C7" (3:2:4d c- c/B/ |"F7" c4- | %37
+w: glow,|* oh,|tell me the words|* that I'm long- ing * to|~know.|
+ c z z/ f/ g/f/ |"Bb " f/d/-"Gmin" d3- |"Bb " (3d f d c/ d c/ |"Gdim7" G4- | %41
+w: * M\- \- y|pra- yer *|* and ~the ~ans- wer you|~give,|
+ (3G B c"Ebmaj7" (3d2 c/B/ |"Cdim""Ebmin" _G4- |"Cdim" (3G B c"Ebmin" (3d2 c/B/ |"Bb ""Gmin" b4- | %45
+w: * may ~they ~still be the|~same|* ~for ~as ~long as we|live,|
+"Bbmaj7" (3b a b (3a2 g/a/ |"Cmin""F7" g2 f2- |"Eb " (3f e d (3:2:2f e2 |"F " a2 f2 | %49
+w: * that you'll al- ways be|the- re|* at the end of|m\- y|
+"Bb ""Ab9" b4- |"Bb ""Ab9" b4- |"Bb " b z z2 |] %52
+w: prayer.|||
+

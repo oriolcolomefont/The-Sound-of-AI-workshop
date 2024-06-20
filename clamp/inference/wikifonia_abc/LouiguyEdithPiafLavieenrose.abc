@@ -1,0 +1,23 @@
+X:1
+T:La vie en rose
+C:Louiguy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Flute"
+%%MIDI program 73
+V:1
+ E"G7b9" ED |"C" CB,CD E3 F |"A7b9" FE"Dm"D^C DE F2- | FG"G7"GF"C" EDEF |"Gm" G3 GGG"A7"GG | %5
+w: Des yeux qui|font bais- ser les miens, Un|rir' qui se perd sur sa bouch'|* Voi- là le por- trait sans re-|touch' De l'hom- me au- quel|
+ ^DE"Dm7" G4"G7" z2 |:"C" c3 B AGEc |"Cmaj7" B3 A"C6" GECB |"C" A3 G EB,CB |"Dm7" (A4"G7" G4) | %10
+w: j'ap- par- tiens|Quand il me prend dans ses|bras Il me par- le tout|bas, Je vois la vie en|ro- se|
+"Dm7" f3 c"G7" BAFc |"G7" B3 A GFDB |"Dm7" A3 G"G7" F^CDB |"C""F#m6" (A4"Dm7""G7" G4) | %14
+w: Il me dit des mots d'a-|mour, Des mots de tous les|jours, Et ça m'fait quel- que|cho- se|
+"C" c3 B AGEc |"Cmaj7" B3 A"C6" GECB |"C" A3 G EB,"C7"Cc |"F" c8 |"Fm" d d2 c d d2 c | %19
+w: Il est en- tré dans mon|cœur U- ne part de bon-|heur Dont je con- nais la|cause|C'est lui pour moi, Moi pour|
+"C" d d2 c"C" G4 |"Eb" d d2 c d d2 c |"Dm7" d d2 c e2"G7b9" !fermata!d2 |"C" c3 B AGEc | %23
+w: lui, dans la vie|Il me l'a dit, l'a ju-|ré pour la vi- e|Et dès que je l'a- per-|
+"Cmaj7" B3 A"C6" GECB |"Dm7" A3 G A2"G7" B2 |1"C""Ab9""Dm7" c6"G7" z2 :|2"C""Dm7""C" c6 z2 |] %27
+w: çois A- lors je sens en|moi Mon cœur qui|bat.|bat.|
+

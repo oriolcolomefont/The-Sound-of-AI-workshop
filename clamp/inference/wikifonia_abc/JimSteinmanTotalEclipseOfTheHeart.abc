@@ -1,0 +1,71 @@
+X:1
+T:Total Eclipse Of The Heart
+T:Total Eclipse Of The Heart
+C:Jim Steinman
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+S"Bbm" B,2CD- D4 DCDC DCDC |"Ab" ECCB,/C/- CB,=B,_B, CB, C<B, (C/B,/A,3) | %2
+w: Turn a- round _ Ev- 'ry now and then I get a|lit- tle bit lone- * * ly and you're nev- er com- ing round. * *|
+w: Turn a- round _ Ev- 'ry now and then I get a|lit- tle bit rest- * * less and I dream of some- thing wild. * *|
+"Bbm" B,2CD- D4 DCDC DCDD |"Ab" ECC((B, C)B,)A,B, CB,CB, CB,A,D |"Db" D2E(E F4) FEFE FEFF | %5
+w: Turn a- round _ ev- 'ry now and then I get a|lit- tle bit tired _ _ of list- ten- ing to the sound of my tears.|Turn a- round. _ Ev- 'ry now and then I get a|
+w: Turn a- round _ ev- 'ry now and then I get a|lit- tle bit help- * less and I'm ly- ing like a child in your arms.|Turn a- round. _ Ev- 'ry now and then I get a|
+"B" F^FF=F- FFFF ^D>^CDCD>C=B,C |"Db" D2E(E F4) FEFE FEFF |"B" F^FF=F- FFFF E>^CECE>C=B,=E || %8
+w: lit- tle bit ner- * vous that the best of all the years have gone by.|Turn a- round. _ Ev- 'ry now and then I get a|lit- tle bit ter- * ri- fied and then I see the lood in your eyes.|
+w: lit- tle bit an- * gry and I know I got to get out and cry.|Turn a- round. _ Ev- 'ry now and then I get a|lit- tle bit ter- * ri- fied but thin I see the look in you eyes.|
+[K:E]"E""^CHORUS" E2F(F G4) (G2E2) E4 |[M:2/4] GFGF GFEF |1[M:4/4]"E" (E2F(F G4)) (G2E2) E4 | %11
+w: Turn a- round _ bright _ eyes|Ev- 'ry now and then I fall a-|part. * * * * * *|
+w: ||Turn a- round _ bright _ eyes.|
+[M:2/4] GFGF GFEF :|2"E" (E2F(F G4)) |"A9" (G2<B2) (GFE2) |[M:2/4] GFGF GFEF || %15
+w: Ev- 'ry now and then I fall a-|part. * * *||Ev- 'ry now and then I fall a|
+w: Ev- 'ry now and then I fall a-|Turn \-a- round _|bright _ eyes. * *||
+[K:Ab][M:4/4]"Ab" A4 z2 AA"Fm" G2AB-B2GA |"Db" z4 z2 AA"Eb7" G2AB-B2GG- | %17
+w: part and I need to know _ to- night;|And I need you more _ than ev-|
+w: ||
+"Ab" GA z2 z AAA"Fm" G2AB-B2GA |"Db" z4 z2 AA"Eb7" G2A(B-B2G)G |"Ab" GA z2 z ccc-"Fm" ccBA- AAG2 | %20
+w: * er And if you on- ly hold _ me tight.|we'll be hold- ing on _ _ for-|ev- er. And we'll on- * ly be mak- * ing it|
+w: |||
+"Db" (AGF2) z2 AA"Eb7" GGA(B-B2G)G |"Db/F" AAAA AAAA"Eb/G" B>BBB z3 E || %22
+w: right. _ _ 'cause we'll nev- er be wrong _ _ to-|geth- er we can take it to the end of the line. Your|
+w: ||
+[K:Ab]"Fm" cccc ccBA"Bb" BBcB- B/A/F3 |[M:2/4] z4 z3 C | %24
+w: love is like a sha- dow on me all of the time. _ _ _|I|
+w: ||
+[M:4/4]"Ab" AAAA AEEc-"Eb/G" cBBA (Ac) z E |"Fm" cccc cBBG"Bb" B/B/c2 z (BAF2) | %26
+w: don't know what to do and I'm al- * ways in the dark _ We're|liv- ing in a pow- der keg and giv- ing off sparks. _ _|
+w: ||
+[M:2/4] z ccc cBAc |[M:4/4]"Ab/C" z4 z2 cc-"Eb/Bb" ccBB"Ab/C"A2G(A- | %28
+w: I real- ly need you to- night.|For- ev- * er's gon- na start to- night|
+w: ||
+"Db" A/G/F2) z z2 cc-"Eb7" ccB(B AGG)A |"Ab/Eb" CEECE2EC"Fm" EECF z3 B, |[M:2/4]"C" CCCD CCB,A, | %31
+w: * * * For- ev- * er's gon- na start _ to night.|Once up- on a time I was fal- ling in love But|now I'm on- ly fal- ling a- part.|
+w: |||
+[M:4/4]"Db" z8 z4 z3"A/C" A, |"Bbm7" F,A,A,F, A, z2 F,"Eb" G,G,A,B,- B,A,G,A,- | %33
+w: There's|noth- ing I can do A to- tal e- clipse _ of the heart.|
+w: ||
+"Ab" A,2 z2 A2E2"Fm" G2AB- B2<G2 |"Db" A4- A2<F2"Eb7" G2AB-"Eb/G" BAG2 | %35
+w: _||
+w: ||
+"Ab" CEECE2EC"Fm" EECF z3 B, |"C" CCCD CCB,A,"Db""Ab/C" z8 | %37
+w: One up- on a time there was light in my life, but|now there's on- ly love in the dark.|
+w: ||
+"Bbm" F,A,A,F, A, z2 F,"Eb7" G,G,A,B,- B,A,G,A,- |"Ab" A,2 z4 A2"Fm" G2AB- B2<G2!dacoda! | %39
+w: noth- ing I can say A to- tal e- clipse _ of the heart.|_|
+w: ||
+"Db" A4- A2>E2"Eb7" G2AB B"Eb/G"AG2 |"Ab" e2d2c2A2 E2C2B,2A,2!D.S.! || %41
+w: ||
+w: ||
+O"Db" A4- A2>E2"Eb7" G2AB-"Eb/G" BAG2 |"Ab" e2d2c2A2 E2C2B,2A,2 |[K:E]"E" E2FG- G4 (G2E2) E4- | %44
+w: ||Turn a- round _ bright _ eyes.|
+w: |||
+[M:2/4] E6"E/B" z2 |[M:4/4]"E" E2FG- G4"^Fade" (G2E2) E4- |[M:2/4]"E/B" E6 z2 |] %47
+w: _|Turn a- round _ bright _ eyes.|_|
+w: |||
+

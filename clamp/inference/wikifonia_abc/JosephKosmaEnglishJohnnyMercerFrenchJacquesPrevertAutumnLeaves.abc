@@ -1,0 +1,43 @@
+X:1
+T:Autumn Leaves
+T:Autumn Leaves 
+T:
+C:Joseph Kosma
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Em" z B^c ^dfe |"Am" z EF Gdc |"F#m7b5" z ef edc |"B7" B6 ||"Em" EFG"Em7/D" EFG |"C7" EGE"B7" F3 | %6
+w: ||||Oh! je vous- drais tant que|tu te sou- viennes,|
+w: ||||||
+"Am" FGA FGA |"B7" FAG"Em" B3 |"E7b9" Bcd Bcd |"E7" Bdc"Am" A3 | FAG"B7" FAG |"Am/C" FGE"B7" F3 | %12
+w: des jour heu- reux ou nous|w- tions a- mis.|En ce temps- la la vie|e- tait plus belle|et le so- leil plus bru-|lant qu'au jourd- hui.|
+w: ||||||
+"Em" EFG"Em7/D" EFG |"C7" EGE"B7" F2 F |"Am" FGA"B7/A" FGA |"Em" B6 |"E7" Bdc Bdc | Bdc"Am" A3 | %18
+w: Le fueil- les mortes se ra-|massent a la pelle, tu|vois, je n'ai pas ou- bli|e.|Le feuil- les mortes se ra-|massent a la pelle,|
+w: ||||||
+ FAG"B7" FAG |"Am/C" FGE"B7" F2 F |"Em" EFG"Em7/D" BGF |"F#7" E3"B7" F2- F |"Em" EFG"D7" edc | %23
+w: les sou- ve- nirs et les|re- grets aus- si, et|le vent du nord les em-|por- te. *|Dans la nuit froide de l'ou-|
+w: |||||
+"G" B3- B2 B |"F#m7b5" cAG"B7" FGA |"Em" B3 B2 B |"C7" _B2 G GFE |[M:2/2]"B+7" B4-"B7" BEFG |: %28
+w: bli, * tu|vois, je n'ai pas ou- bli-|e la chan-|son que tu me chan|tais. * The fal- ling|
+w: |||||
+"Am7" c4-"D7" cDEF |"Gmaj7" B2 B2-"Cmaj7" BCDE |"F#m7b5" A4-"B7" AB,^C^D |"Em7" G4 z EFG | %32
+w: leaves * drift by the|win- dow, * the au- tumn|leaves * of red and|gold. I see your|
+w: son, * qui nous res-|sem- ble, * toi tu m'ai-|mais * et je t'ai-|mais. Nous vi- vions|
+"Am7" c4-"D7" cDEF |"Gmaj7" B2 B2-"Cmaj7" BCDE |"F#m7b5" A4-"B7" AFAG |"Em7" E4 z2 ^DE | %36
+w: lips, * the sum- mer|kis- ses, * the sun- burned|hands * I used to|hold. Since you|
+w: tous, * les ~deux en-|sem- ble, * toi qui m'ai-|mais * moi qui t'ai-|mais mais la|
+"F#m7b5" FB, F2-"B7" FFEF |"Em7" G4- GGFG |"Am7" A4-"D7" ADd>c |"Gmaj7" B6 ^AB | %40
+w: went a- way * the days grow|long, * and soon I'll|hear * old win- ter's|song. But I|
+w: vie se- pare * ceux qui s'ai-|ment * tout dou- ce-|ment * sans faire de|bruit. Et la|
+"F#m7b5" ccAA"B7" F3 c |"Em7" B2"A7" B4"Dm7""G7" E2 |"A/C#" A2- A"Am/C"G"B7" F2 GB, |1 %43
+w: miss you most of all my|dar- ling, When|au- * tumn leaves start to|
+w: mer ef- fa- ce sur le|sa- ble les|pas des a- mants de- su-|
+"Em7" E4 z EFG :|2"Em7" E6 z2 |] %45
+w: fall. The au- tumn|fall|
+w: nis. C'est une chan-||
+

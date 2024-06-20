@@ -1,0 +1,53 @@
+X:1
+T:The Blue Side of Lonesome
+T:The Blue Side of Lonesome
+C:Jim Reeves
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 bass 
+%%MIDI channel 9
+%%MIDI program 0
+V:1
+ z8 | z8 |"A7" z8 |"D " z8 | z8 | z4 (3z2 D2 D2- | D2- D<A,- A,<G, F,2- | F,/ E,7/2"A7" D, C,3 | %8
+w: |||||m ~cal|* * * * ~to ~tell|* ~You ~it's ~o|
+ E,8 | z4 z/ [DC-]3/2 CB,- |"Emin" B,3 G,"A7" G,2- G,<C- | C2"A " B,A,-"D " A,4- | A,8 | %13
+w: ver.|~dar * ling|* ~you're ~now * ~free|* ~to ~go. *||
+"Emin" (3B,2 C2 [D-C]2"D " D A,3 | z G, F,2- F,/ E,7/2 |"A7" D, C,3 E,4 | z4 z2 z B,- | %17
+w: /You' re ~say' * in|~you're ~sor * ry|~hurt * ~me,|~you|
+ B,<C- CB,-"Emin" B,2 z F, |"A7" G,2- G,<F,- F,2"D " E,D,- |"D7" D,8 | z4 (3z2"G " D,2 D,2 | %21
+w: * ~hurt * ~me * ~much|~more * ~than * ~know. *|||
+ G,4- G,B, D2- | D2 B,2 G,"D " B,3 | A,8- | A,2 A,B,"A " C4- | C>B,- B,C"E7" D2- D<"E "C- | %26
+w: in' * ~me ~where|* ~this * ~come|~from|* /Oh, ~I ~hope|* ~that * ~you ~won't * ~end|
+ C"E7" B,2"A7" A,- A,4 |"A ""A7" z8 | B,C"D " D2- D A,3 | z G, F,2 E,3 z |"A7" D,C,- C,2- C, E,3 | %31
+w: * ~up ~here. *||/If ~your ~new * ~ro|mance ~turns ~out|~fail * * * *|
+ z4 z2 A,B, | C2- C<B,- B,2 z"F#min" F, |"A7" G,2 F,2- F,>E,- E,>"D "D,- | D,8 | z4 z D- D<D- | %36
+w: |/Here's * * * ~to|~find ~me, * ~my * ~dear||* * ~just|
+ D2- D<A, G,2 F,2 | E,3 z D,"A7" C,3 | E,8 | z2 z C C2- C<B,- | B,2"Emin" G,2"A7" G,2 C2- | %41
+w: * * ~on ~the ~blue|~side ~lone *|some|/Right ~next * *|* ~the ~Heart break|
+ C2 B,"D "A,- A,4- | A,8 | B,C D2- D A,3 | z G, F,2 E,3 z | D,"A7"C,- C,>E,- E,4 |"Emin" z8 | %47
+w: * ~Ho * tel||/In ~a ~ta * vern|~that's ~known ~as|~Three * ~Tear * *||
+"A7" C3 B,- B,2 z F, | G,2 F,2- F,<E,- E,"D "D,- | D,8 |"A7" z8 | z8 |"D " z8 | z8 | z2 z D D4 | %55
+w: ~bar ~stool, * ~not|~do ing * ~so * *|~well|||||\The ~Floor|
+ A,2 G,>F,- F,2 E,2 | z2 D,"A7"C,- C,>E,- E,2- |"A " E,8 |"A7" z2 C2- C/ B,7/2 | G,2 G,2 C4 | %60
+w: ~has * ~car * pet|~of ~sor * row *||~no * ~one|~can ~weep ~in|
+ B,"D "A,- A,6 | z4 z3/2 B,/- B,"C# "C |"D " D2- D<A,- A,2 G,2 | F,2 E,2- E, z D,"A7"C,- | %64
+w: ~the ~aisle *|* * ~they|~say * ~some * *|~broke ~the * ~bar *|
+ C,>E,- E,6 |"Emin" z4 z2"A7" C2- | C/ B,7/2 F, G,3 | F,3 E,2"D " D,3- |"D7" D,8 | %69
+w: ~mir ror *|~on|* ly ~the ~ghost|~of ~a ~smile.||
+ z2 z D,"G " D,2- D,<G,- | G,2 B,D- D3- D/B,/- | B, G,2"D " B,2 A,3- | A,6- A,A,- | %73
+w: /The ~hands * ~of|* ~the ~clock * * ~ne|* ver ~al ter|* * /For|
+ A,"B7"B,"A " C4 z B, |"E7" C D3 C3 B,- | B,"A7"A,- A,6 | z4 (3z2 B,2 C2 | %77
+w: * ~things * ~ne|ver ~change ~in ~this|* ~place. *|/There's ~no|
+"D " D2- D<A,- A, z G,F,- | F,2 E,2 z2 D,"A7"C,- | C,>E,- E,6 | z4"Emin" z2"A7" C2- | %81
+w: ~pre * sent, * ~no ~past,|* ~and ~no ~fu|* ture. *|~ones|
+ C<B,- B, z F, G,3 |"Emin" F,3- F,/E,/- E,"D " D,3- | D,8 | z2 z D D4 | A,>G,- G,>F,- F,2 E,2 | %86
+w: * ~who * ~have ~lost|~in * ~love's * ~race||\I'm ~just|~in ~the * ~blue * ~side|
+ (3z2 D,2"A7" C,2- C,>E,- E,2 | z8 | z/"C#min" C3/2"A7" C2 B,4 | (3:2:2G,2 G,- G,>C- C3 B,- | %90
+w: ~of ~lone * some *||/Right ~next ~to|~the ~Heart * ~break * ~Ho|
+ B,"D "A,- A,6 | z4 z B,2 C | D2 A,2- A, z G,F,- | F,>E,- E,2 z3/2 D,/- D,"A7"C,- | C,E,- E,6 | %95
+w: * tel. *|/In ~a|~ta vern * ~that's ~known|* ~as * ~Three * ~Tear|* drops. *|
+ z4 z2 C2 | B,4 F, G,3 | F,3 E,2"D " D,3- | D,8- | D,8 | z8 | z8 |] %102
+w: ~bar|~stool ~not ~do|ing ~so ~well.|||||
+

@@ -1,0 +1,30 @@
+X:1
+T:My Monday Date
+T:My Monday Date
+C:Earl Hines
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z F |:"Bb6" d3 A |"Dm7" c3"Dbdim7" G |"Cm7" B G G2- | G z (3B G E |"F7" D F3- | F A"F#+7" A A | %7
+w: Now,|don't for-|get our|Mon- day date,|~~ ~Boy:~ba- by be|read- y|_ when I come|
+w: ||||* Girl:~~gon- na be|read- y|_ when you come|
+"Bb6""Bbdim7" G4- |"Cm7" G2"F7" z F |"Bb6" d3 A |"Dm7" c3"Bbdim7" G |"Cm7" B G G2- | G z (3B G E | %13
+w: by.|_ And|when the|clock strikes|half past eight,|_ I'll be there|
+w: by.|_|||||
+"F7" D F3- | F d/^c/ d F/G/ |"Bb""Cm7""F7" B4 |"Bb6" z B"Bb7" c ^c |"Eb" d =c d c- | c2"Ebm" d A | %19
+w: ~wait- in'|_ with a kiss and a|sigh.|I'm gon- na|hold you so fast|_ when we|
+w: ||||||
+"Bb" c B c B- | B B c B |"C9" A G G G- | G c2 A |"F7" G F F F- | F2 z F |"Bb6" d3 A | %26
+w: dance cheek to cheek;|_ store up e-|nough love to last|_ us the|rest of the week.|_ So,|don't for-|
+w: |||||||
+"Dm7" c3"Dbdim7" G |"Cm7" B G G2- | G z (3B G E |"F7" D F3- |"Cm7" F2"F7" d/^c/ d |"Bb""Bdim7" B4 | %32
+w: get our|Mon- day date,|_ ba- by I|pro- mise|_ neith- er will|I|
+w: ||||||
+"Cm7" z2"F7" z F :|"Bb""Bb/D""Eb""Edim7" B4- |"Bb/F" B3"B9""Bb9" z |] %35
+w: Now,|I|_|
+w: |||
+

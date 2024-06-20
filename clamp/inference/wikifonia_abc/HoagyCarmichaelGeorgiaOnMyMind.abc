@@ -1,0 +1,32 @@
+X:1
+T:Georgia On My Mind
+T:Georgia on My Mind
+T:Arr. by RF & DL
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Gmaj7" B/d/-"G6" d3 |"F#m7b5" B/A/-"B7" A3 |"Em7" z B"Dm7" e B |"Cmaj7" A2-"Cm6" A G/A/ | %4
+w: Geor­ gia, _|Geor­ gia, _|The whole day|through, _ Just an|
+"G/B" B d"E7" f e |"Am7" c/e/- e"D7" B A |"G""G#dim7" d4 |"Am7" e/e/e/e/"D7#5" ^A2 | %8
+w: old sweet song keeps|Geor­ gia _ on my|mind.|(Geor­ gia on my mind.)|
+"Gmaj7" B/d/-"G6" d3 |"F#m7b5" B/A/-"B7" A3 |"Em7" z B"Dm7" e B |"Cmaj7" A2-"Cm6" A G/A/ | %12
+w: Geor­ gia, _|Geor­ gia, _|a song of|you _ Comes as|
+"G/B" B d"E7" f e |"Am7" c E"D7" B B |"Gmaj7""G6" G4- |"G7" G"Gb7" z"B7" z2 | %16
+w: sweet and clear as|moon­ light through the|pines.|_|
+"Em7" E/ G"Am7" A/- A B |"Em7" G/ E G/-"A7" G2 |"Em7" E/ G A/-"Am7" A B |"Em7" d/ B ^c/-"A7" c2 | %20
+w: Oth­ er arms _ reach|out to me; _|Oth­ er eyes * smile|ten­ der­ ly; _|
+"Em7" E/ G A/- A B |"C#m7b5" d/ e"C#dim7" f/- f3/2 e/ |"Bm7b5" d B"E7" d d |"Am7" B2"D7#5" A2 | %24
+w: Still in peace­ * ful|dreams I see _ the|road leads back to|you. _|
+"Gmaj7" B/d/-"G6" d3 |"F#m7b5" B/A/"B7" A3 |"Em7" z B"Dm7" e B |"Cmaj7" A3"Cm6" G/A/ | %28
+w: Geor­ gia, _|Geor­ gia, _|no peace I|find; Just an|
+"G/B" B d"E7" f e |"Am7" c E"D7#5" B B |"G6""Cm6" G4 |"G6" G4 |] %32
+w: old sweet song keeps|Geor­ gia on my|mind|_|
+

@@ -1,0 +1,38 @@
+X:1
+T:Who's Sorry Now
+T:Who's Sorry Now
+C:Ted Snyder
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z d |:"C7" d2 c =B |"F7" c d z A |"Bb" c B z G |"Bb" F3"Bbdim" B |"F7sus4" B2"F7" A ^G | %6
+w: 1.You|smiled when we|part- ed, it|hurt me some-|how, I|thought there was|
+w: 2.~(Al)-|though I for-|give you, I|can- not for-|get, how|you shat- tered|
+ A c z"F+" A |"Bb6" G4 | z2 z d |"C7" d2 c =B |"F7" c d z A |"Bb/D" c2 B A |"Bbm/D" B3 B | %13
+w: noth- ing worth-|while.|The|ta- bles are|turn- ing, and|you're cry- ing|now, while|
+w: all my i-|deals.|You|smiled when I|told you that|you would re-|gret, and|
+"F/C" A2 ^G A |"C7" B"Cdim7" ^F z"C7" G |"F7""Cm7" c4- |"F7" c z"Eb/F" z"F7" z ||"Bb" D2 F B | d4 | %19
+w: I am just|learn- ing to|smile.|_|Who's sor- ry|now?|
+w: now you know|just how it|feels.|_|||
+"D7" D2 ^F A | d4 |"G+" e2"G7" d =B | G2"D7" ^F"G7" =F |"C7" =E2 G d | c4 |"F7" _E2 F A | c4 | %27
+w: Who's sor- ry|now?|Whose heart is|ach- ing for|break- ing each|vow?|Who's sad and|blue?|
+w: ||||||||
+"Bb" D2 F B |"Bdim" d4 |"F" c2 A c |"C7" B2 A G |"F7" c4- | c2"Cm7" z"F7" z |"Bb" D2 F B | d4 | %35
+w: Who's cry- ing|too?|Just like I|cried o- ver|you.|_|Right to the|end,|
+w: ||||||||
+"D7" D2 ^F A | d4 |"G+7" e2"G7" d"Gdim" ^c |"G7" d"G+" e2"G7" d |"Cm" G4- |"G7" G z z2 | %41
+w: just like a|friend,|I tried to|warn you some-|how.|_|
+w: ||||||
+"Cm" e2 d c |"Cm7b5" e4 |"Bb" d2 c B |"G7" d4 |"C7" G2 A B |"Cm7b5" c"F7" d2 F |1"Bb""Bdim7" B4- | %48
+w: You had your|way,|now you must|pay;|I'm glad that|you're sor- ry|now.|
+w: |||||||
+"Cm7" B2"F7" z"Bb" d :|2"Bb" B4- | B3 z |] %51
+w: _ Al-|now.|_|
+w: |||
+

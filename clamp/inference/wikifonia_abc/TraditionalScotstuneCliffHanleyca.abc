@@ -1,0 +1,21 @@
+X:1
+T:Scotland The Brave
+T:Scotland the brave
+T:unknown
+C:Traditional Scots tune
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" C2 CD ECEG | c2 cB cGEC |"F" F2 AF"C" EGEC |"G7" D2 GG G4 |"C" C2 CD ECEG | c2 cB cGEC | %6
+w: Hark when the night is fall- ing|heart hear the pipes are call- ing|loud- ly and proud- ly call- ing|Down thro' the glen|there where the hills are sleep- ing|now feel the blood a- leap- ing|
+"F" F2 AF"C" EGEC |"G7" D2 CB,"C" C4 |:"G" d2 dd dB G2 |"C" c2 ed cA G2 |"F" c2 cc"G" B2 BB | %11
+w: high as the spir- its of the|old High- land men|Tower- ing- in gall- ant fame|Scot- land my moun- tain hame|High may your proud stand- ards|
+"F" AcBA"G7" G4 |"C" C2 CD ECEG | c2 cB cGEC |"F" F2 AF"C" EGEC |"G7" D2 GG G4 |"C" C2 CD ECEG | %17
+w: glor- i- ous- ly wave|land of my high en- deav- our|land of the shin- ing ri- ver|land of my heart for ev- er|Scot- land the brave|High in the mis- ty high- lands|
+ c2 cB cGEC |"F" F2 AF"C" EGEC |"G7" D2 CC"C" C4 :| %20
+w: out by the pur- ple is- lands|brave are the hearts that beat be-|neath Scot- tish skies|
+

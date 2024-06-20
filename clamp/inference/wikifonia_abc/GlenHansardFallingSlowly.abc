@@ -1,0 +1,47 @@
+X:1
+T:Falling Slowly
+T:Falling Slowly
+C:Glen Hansard
+Z:All Rights Reserved
+%%score { 1 2 }
+L:1/4
+M:4/4
+K:F
+V:1  nm="part-1"
+%%MIDI program 0
+V:2  nm="part-2"
+%%MIDI program 0
+L:1/8
+V:1
+ C D E D | C D F E | C D E D |"F" C C C C | C D E D | C D F E | C D E D | C4 || A, A, G, G, | %9
+ F, F, G, G, | A, A, G, G, |"F" C C C C | C4 || !>!c d =B c |"F" !>!c d =B c | %15
+"Am" !>!c d =B"Am" c |"Fsus2" !>!g2 f2 | !>!c d =B c |"F" !>!c d =B c |"Am" !>!c d"Esus4" =B c | %20
+"Fsus2" !>!g2 f2 || z4 || C D E D |"F" C D F E | C D E D |"F" C4 | C D E D |"F" C D F E | C D E D | %29
+"F" C4 || A, A, G, G, | F, F, G, G, | A, A, G, G, |"F" C C C C | C4 || !>!c d =B c | %36
+"F" !>!c d =B c |"Am" !>!c d"Esus4" =B c |"Fsus2" !>!g2"F" f2 | !>!c d =B c |"F" !>!c d =B c | %41
+"Am" !>!c d"Esus4" =B c |"Fsus2" !>!g2"F" f2 || z4 || !>!c d =B c |"F" !>!c d =B c | %46
+"Am" !>!c d"Esus4" =B c |"Fsus2" !>!g2"F" f2 | !>!c d =B c |"F" !>!c d =B c | %50
+"Am" !>!c d"Esus4" =B c |"Fsus2" !>!g2"F" f2 || z4 || C D E D | C D F E | C D E D |"F" C4 | z4 | %58
+ z4 |] %59
+V:2
+ C, C,2 C,2 C,2 C, | C, C,2 C,2 C,2 C, | C, C,2 C,2 C,2 C, | F, F,2 F,2 F,2 F, | %4
+ C, C,2 C,2 C,2 C, | C, C,2 C,2 C,2 C, | C, C,2 C,2 C,2 C, | F,F,CF, CF,CF, || A,,E,zE, G,,D,zD, | %9
+ F,,C,zC, G,,D,zD, | A,,E,zE, G,,D,zD, | [F,,F,]F,zF, z F,zF, | z F,CF, CF,CF, || %13
+ [C,E,C]E,[E,C]E, [E,C]E,[E,C]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %15
+ [A,,E,A,]E,[E,A,]E, [E,A,]E,[E,A,]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %17
+ [C,E,C]E,[E,C]E, [E,C]E,[E,C]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %19
+ [A,,E,A,]E,[E,A,]E, [E,A,]E,[E,A,]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, || [F,,F,]F,CF, CF,CF, || %22
+ C, C,2 C,2 C,2 C, | F, F,2 F,2 F,2 F, | C, C,2 C,2 C,2 C, | F,F,CF, CF,CF, | C, C,2 C,2 C,2 C, | %27
+ F, F,2 F,2 F,2 F, | C, C,2 C,2 C,2 C, | [F,C]F,CF, CF,CF, || A,,E,zE, G,,D,zD, | %31
+ F,,C,zC, G,,D,zD, | A,,E,zE, G,,D,zD, | [F,,F,]F,zF, z F,zF, | z F,CF, CF,CF, || %35
+ [C,E,C]E,[E,C]E, [E,C]E,[E,C]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %37
+ [A,,E,A,]E,[E,A,]E, [E,A,]E,[E,A,]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %39
+ [C,E,C]E,[E,C]E, [E,C]E,[E,C]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %41
+ [A,,E,A,]E,[E,A,]E, [E,A,]E,[E,A,]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, || [F,,F,]F,CF, CF,CF, || %44
+ [C,E,C]E,[E,C]E, [E,C]E,[E,C]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %46
+ [A,,E,A,]E,[E,A,]E, [E,A,]E,[E,A,]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %48
+ [C,E,C]E,[E,C]E, [E,C]E,[E,C]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, | %50
+ [A,,E,A,]E,[E,A,]E, [E,A,]E,[E,A,]E, | [F,,F,C]F,[F,C]F, [F,C]F,[F,C]F, || [F,,F,]F,CF, CF,CF, || %53
+ [C,C]C,DC, EC,DC, | [C,C]C,DC, FC,EC, | [C,C]C,DC, EC,DC, | [F,C]F,CF, CF,CF, | CF,CF, CF,CF, | %58
+ CF,CF, CF,CF, |] %59
+

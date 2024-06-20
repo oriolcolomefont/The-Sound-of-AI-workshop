@@ -1,0 +1,18 @@
+X:1
+T:Just Dropped In (To See What Condition My Condition Was In)
+T:Just Dropped In
+T:Mickey Newbury
+C:Mickey Newbury
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble transpose=-14 
+%%MIDI program 66
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:D]"^Tenor Sax" b2- ||"Bm" bd' b2 d'b z2 |"E7" z B/B/ de ff (3=f/e/d/ B |"Bm" ee z2 z b- bd' | %4
+"E7" b2 d'b z d ef |"Bm" z B d/e/ z z B d/ed/ |"E7" z/ d/ z z B d/e/ z de | %7
+"F#7" ^e/f/f f>f- f/f/f z/ f3/2 | f4 (3e/=f/e/d ed |] %9
+

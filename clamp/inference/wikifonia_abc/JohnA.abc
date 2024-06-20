@@ -1,0 +1,21 @@
+X:1
+T:I Do Like To Be Beside the Seaside
+T:I do like to be beside the seaside.
+T:unknown
+C:John A. Glover-Kind
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G ^G |"C" A2 =G E | D C B, C | G2 G2- | G2 G2 |"C" A2 G E | D C B, C |"Dm" A4- | A2 A2 | %9
+w: Oh I|do like to|be be- side the|sea- side|* I|do like to|be be- side the|sea|* I|
+"G7" B2 A F | E D ^C D |"A7" A2 G2 |"Dm" F2"A7" E ^C |"G7" E2 D2 | E3 (3D/^C/D/ |"G7" E2 D2 | %16
+w: do like to|stroll up- on the|prom prom|prom where the|brass bands|play tid- dle- y|om pom|
+ B,2 G2 |"C" A2 G E | D C B, C | G2 G2- | G2 G2 |"C" A2 G E | D C B, C |"Dm" A4- | A2 ^G A | %25
+w: pom so|just let me|be be- side the|sea- side|* and|I'll be be-|side my- self with|glee|* and theres|
+"G7" B ^A B ^A | B2 =A ^F |"C" A G A G |"A7" A G F E |"Dm" D2 A2 |"G7" z E D E |"C" C4- | C2 z2 |] %33
+w: lots of girls be-|side I should|like to be be-|side be- side the|sea side|be- side the|sea.||
+

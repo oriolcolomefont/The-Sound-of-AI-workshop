@@ -1,0 +1,37 @@
+X:1
+T:Kell még egy szó (Honfoglalás)
+T: 
+C:Koltay Gergely
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z4 z2 C-B, |"Am" A,6 C-D |"C" E6 A,B, |"F" C6 D2 |"E" B,4 z2 C-B, |"Am" A,4 z A,CD |"C" E6 DE | %7
+w: Kell _|még egy _|szó mi- e-|lõtt men-|nél, Kell _|még egy ö- le-|lés, a- mi|
+w: |||||||
+"Dm" F3 F E-DD-E |"E" E6 z E |"F" A3 A3 A2 |"C" G3 E3 z2 |"Dm" z2 F2 E2 DE- |"E" E6 CB, | %13
+w: vé- gig el- * kí- *|sér, Az|ú- ton majd|né- ha|gon- dolj re- ám,|_ Ez a|
+w: ||||||
+"Am" A,6 CD |"C" E6 z C |"Dm" C2"E" D4 B,C |S"Am" A,6 C-B, |"Am" A,6 C-D |"C" E8 |"F" C3 C D2 C2 | %20
+w: föld a ti-|éd, ha|el- mész, visz- sza|vár. Nézz _|rám, és _|lásd:|csil- la- gok- ra|
+w: |||* Úgy _|kell,hogy te is|értsd:|nem él- tél hi-|
+"E" B,6 C-B, |"Am" A,6 CD |"C" E6 z E |"Dm" F3 F E2 DE- |"E" E6 EE |"F" A3 A A2 A2 | %26
+w: lépsz, Nézz _|rám, to- va|tûnt a|ré- gi szen- ve _|dés, Hol a|fák az é- gig|
+w: ába, Ez a|hely, a- hol|élsz, vi-|lág- nak vi- lá- *|ga, Az é-|gig é- rõ fá-|
+"C" G-E E4 z E |"Dm" F F3 E2 DE- |"E" E6 CB, |"Am" A,6 CD |"C" E6 z C |"Dm" C2"E" D4 B,C | %32
+w: ér- * nek, ott|meg- é- rint a fény.|_ Tu- dod|jól, ho- va|mész, de|vé- gül ha- za|
+w: nak, _ ha nem|nõ új- ra á- *|ga, Úgy élj,|hogy te le-|gyél vi-|rág- nak vi- rá-|
+"Am" A,8 |"Am" A4 A4 |"C" G2 E2 E2 E2 |"Am" c2 c2 B A3 |"C" E8 |"Dm" c4 d- c2 c | %38
+w: térsz.|Szállj, szállj|só- lyom szár- nyán|há- om he- gyen|túl,|Szállj, szállj, _ ott|
+w: ga.|_ _|||||
+"Am" B-A A2 E2 DE |"Dm" F3 F E2 D2 |"E" E8- | E6 C-B,!D.S.! |"Am" A,6 CD |"C" E6 C-B, | %44
+w: vá- * rok rád, a- hol|vé- get ér az|út.|_ Nézz _|rám, ne í-|gérj, Nézz _|
+w: ||||||
+"Am" A,6 CD |"E" B,4 z DC-B, |"Am" A,6 CD |"C" E8 |"Dm" C2 D2"G" B,B, C>A,- |"Am" A,8 |] %50
+w: rám, so- se|féjl, ha nincs _|hely, a- hol|élj,|in- dulj ha- za- fe- lé.|_|
+w: ||||||
+

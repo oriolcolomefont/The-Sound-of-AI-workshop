@@ -1,0 +1,43 @@
+X:1
+T:A Swingin' Safari
+T:A Swingin' Safari
+T:Composer B. Kaempfert performer Bert Kaempfert
+T:2
+T:3
+C:Bert Kaempfert
+Z:All Rights Reserved
+L:1/8
+Q:1/4=160
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4 z2 z z/ G/ |"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G |"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G | %5
+"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G |"C" c2 e>G"G7" f>d B>c- |"C" c4 z2 z z/ G/ | %9
+"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G |"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G |"C" c2 e>G c2 e>A | %14
+"F" c2 f>A c2 f>G |"C" c2 e>G"G7" f>d B>c- |"C" c4 z2 z z/ G/ |"C" c2 e>G c2 e>A | %18
+"F" c2 f>A c2 f>G |"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G |"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G | %23
+"C" c2 e>G"G7" f>d Bc- |"C" c4 z2 z z/ G/ |"C" e>c- c>c e2 g>f |"F" z4 z z/ f/- f>d | %27
+"C" e>c- c>G z2 e>d |"G" z4 z2 z z/ g/ |"C" e>c- c>c e2 g>f |"F" z4 z z/ f/- f>f | %31
+"C" e>c- c>c"G7" _e2 dc |"C" z4 z2 z z/ G/ |"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G | %35
+"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G |"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G | %39
+"C" c2 e>G"G7" f>d Bc- |"C" c4 z2 z z/ G/ |"C" c4 d2 e2 |"F" f4 g2 a2 |"C" g8- |"G" g2 z2 d2 f2 | %45
+"C" e6 c2 |"F" _e2 d2 c2 A2 |"C" G8- |"G" G6 z2 |"C" z4"C/E" c2 z2 |"F" z4"F#dim" c2 ^f2 | %51
+"C/G" ge z2 z4 |"C7" z4 z z/ c'/ z z/ a/ |"F7" c'2 z2 _e2 z2 |"F7" z4 z"F#dim" z/ c'/- c'a | %55
+"C/G" c'2 _e2 c2 z2 |"C" z4 z a z2 |"G" aa z2 a2 z2 |"G" z4 z _b/- =b2- |"C" b2 g2 g2 c2 | %60
+"G" g3 f z4 |"C" c>c z2"C/E" c>c c2 |"F" z4"F#dim" z2 a2 |"C/G" g>c' z2 z4 |"C7" z8 | %65
+"F7" c'c'/c'/- c'c'- c'>a z2 |"F7" _e2 _de-"F#dim" e2 d>^c |"C/G" c>A z z/ A/ z4 | %68
+"C" z4 z z/ a/ z2 |"G" a2 z z/ a/ z4 |"G" z2 z z/ _b/ z2 z z/ a/ |"C" g>c z2 c2 z2 | %72
+"C" z4 z2 z z/ G/ |"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G |"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G | %77
+"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G |"C" c2 e>G"G7" f>d Bc- |"C" c4 z2 z z/ G/ | %81
+"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G |"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G |"C" c2 e>G c2 e>A | %86
+"F" c2 f>A c2 f>G |"C" c2 e>G"G7" f>d Bc- |"C" c4 z2 z z/ G/ |"C" c4 d2 e2 |"F" f4 g2 a2 |"C" g8- | %92
+"G" g2 z2 d2 f2 |"C" e6 c2 |"F" _e2 d2 c2 A2 |"C" G8- |"G" G6 z z/ G/ |"C" c2 e>G c2 e>A | %98
+"F" c2 f>A c2 f>G |"C" c2 e>G c2 e>G |"G" B>d B>G- G2- G>G |"C" c2 e>G c2 e>A |"F" c2 f>A c2 f>G | %103
+"C" c2 e>G"G7" f>d Bc- |"C" c4 z2 z z/ G/ |"C" c2 e>G"G7" f>d Bc- |"C" c4 z2 z z/ G/ | %107
+"C" c2 e>G"G7" f>d Bc- |"C" c4 z4 |] %109
+

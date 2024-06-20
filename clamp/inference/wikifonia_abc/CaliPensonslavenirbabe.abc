@@ -1,0 +1,21 @@
+X:1
+T:Pensons à l'avenir babe
+C:Cali
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" z8 | z8 ||"C" E2 z G- G2 z2 | z4 E D2 E- |"Em" E2 AG- G2 z2 | z4 E F2 D- |"Fmaj7" D2 z3 C2 D- | %7
+w: ||Sommes nous _|just' en train|_ de prendre _|du bon temps|_ ou quel-|
+"G" D2 DD- D G2 E- |"C" E2 z2 z4 | z4 z2 z D |"C" EE z G2 z GA | G2 z D EEDE |"Em" z2 AG- G2 z2 | %13
+w: * que chose _ comme ça|_|je|re- doute juste le mo-|ment où tu po- se- ras|ta tête _|
+ z2 z E2 E FD- |"Fmaj7" D2 z2 z C2 D- |"G" D2 D D2 G2 E- |"C" E2 z2 z4 | z2 z G ed/c/- c/B/B- | %18
+w: sur mon é- paule|_ où tu|_ mur- mu- re- ras|_|'pen- sons à l'a- * ve- nir|
+"Cmaj7" B2 cG- G2 z2 | z2 z G ed/c/- cB/c/- |"C" c4 z4 | z2 z G ed/c/- c/B/B- | %22
+w: _ ba- be _|pen- sons à l'a- * ve- nir|_|pen- sons à l'a _ ve- nir|
+"Fmaj7" B2 cG- G2 z2 | z2 z G ed/c/- cB/c/- |"Am" c4 z4 |] %25
+w: _ ba- be _|pen- sons à l'a- * ve- nir.|_|
+

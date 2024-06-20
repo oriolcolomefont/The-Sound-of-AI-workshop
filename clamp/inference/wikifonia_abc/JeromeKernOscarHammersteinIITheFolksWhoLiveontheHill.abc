@@ -1,0 +1,32 @@
+X:1
+T:The Folks Who Live on the Hill
+T:The folks who live on the hill
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" E4"C7" E4- |"F" EFGA"G7" c c2 B |"C/E" d2 A"Cdim/Eb"c- c4 |"G7/D" B2 F"Am/C"A- A4 | %4
+w: Some day|_ we'll build a home on a|hill- top high _|you and I _|
+"G/B" GA G2"F/A" c2 c2 |"C/G" EF E2"Dm7" A2"G7" G2 |"C" E4-"C7" E4- |"F" EFGA"G7" BA B2 | %8
+w: Shin- y and new, a|cot- tage that two can|fill _|_ and we'll be pleased to be|
+"Gm/Bb" G4-"A7" G4- |"Dm7" GFGA"G7" DC D2 |"C" C8- | C8 |"C" E4"C7" E4- |"F" EFGA"G7" c c2 B | %14
+w: called _|_ the folks who live on the|hill|_|Some day|_ we may be add- ing a|
+"C/E" d2 A"Cdim/Eb" c4 c |"G7/D" B2 F"Am/C"A- A4 |"G/B" GA G2"F/A" c2 c2 | %17
+w: thing or two a|wing or two _|We will make chang- es|
+"C/G" EF E2"Dm7" A2"G7" G2 |"C" E4-"C7" E4- |"F" EFGA"G7" BA B2 |"Gm/Bb" G4-"A7" G4- | %21
+w: as an- y fam- ily|will _|_ but we will al- ways be|called _|
+"Dm7" GFGA"G7" DC D2 |"C" C8 |"F#m7b5""B7" z8 |"Em" G4- GBcB |"B7" ^FBcB B,FGF |"Em" G4- GGAG | %27
+w: _ the folks who live on the|hill||Our _ ver- an- da|will com- mand a view of mead- ows|green _ the sort of|
+"Em7" BGAG"A7" BG"D7" A2 |"G" G8- | GGAG"G7" AGAG |"C" E4"C7" E4- |"F" EFGA"G7" c c2 B | %32
+w: view that seems to want to be|seen|_ and when the kids grow up and|leave us|_ we'll sit and look at that|
+"C/E" d2 A"Cdim/Eb"c- c4 |"G7/D" B2 F"Am/C"A- A4 |"G/B" GA G2"F/A" c2 c2 | %35
+w: same old view _|just we two _|Dar- by and Joan who|
+"C/G" EF E2"Dm7" A2"G7" G2 |"C" E4-"C7" E4- |"F" EFGA"G7" BA B2 |"Gm/Bb" G4-"A7" G4- | %39
+w: used to be Jack and|Jill _|_ the folks who like to be|called _|
+"Dm7" GFGA"G7" dc d2 |"E7" e4-"A7" e4- |"D7" ecde"G7" dc d2 |"C" c8 |] %43
+w: _ what they have al- ways been|called _|_ the folks who live on the|hill.|
+

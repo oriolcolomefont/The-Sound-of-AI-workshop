@@ -1,0 +1,30 @@
+X:1
+T:Pennsylvania 6500
+T:Pennsylvania 6500
+C:Jerry Gray
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" DE G2 BG E2 |"C9" D3 E- E4 |"G" DE G2 BG E2 | D3"Ddim" E- E4 |"Am7" DE G2 cG E2 | %5
+w: Num- bers I've got by the|doz- en _|ev- 'ry- one's un- cle and|cous- in. _|But I can't live with- out|
+"D7" D3 E- E4 ||"G" z4"^Tacet   (Spoken:)" DDDD | D2 DD- D D3 ||"G" DE G2 BG E2 |"C9" D3 E- E4 | %10
+w: buz- zin' _|Penn- syl- van- ia|six, five thou- * sand.|I've got a sweet- y I|know there, _|
+"G" DE G2 BG E2 | D3 E-"Ddim" E4 |"Am7" DE G2 cG E2 |"D7" D3 E- E4 || %14
+w: Some- one who sets me a-|glow there." _|Gives me the sweet- est "hel-|lo there. _|
+"G" z4"^Tacet    (Spoken:)" DDDD | D2 DD- D D2"Am7" z ||"B+7" B c2"B7" B- B2 AG- | %17
+w: Penn- syl- van- ia|six, five thous- * sand.|We don't say _ "how are|
+"Em" G E3 z F"Am"GA |"B+7" B c2"B7" B- B2 AG- |"Em" G4"E7b5" z ^G3 |"A7" A _B2 A- A G3 | %21
+w: _ you" and ver- y|sel- dom ask _ "what's new?"|_ In-|stead we start _ and|
+"D" F2"C7" GA-"B7" A3 ^A |"E9" BdB^B"A7" ^cA=Bd- |"D7" d"Eb9" c2"D9" A- A4 ||"G" DE G2 BG E2 | %25
+w: end each call _ with|"bab- y con- fi- den- tial- ly I|_ love you." _|May- be it sounds a bit|
+"C9" D3 E- E4 |"G" DE G2 BG E2 | D3"Ddim" E- E4 |"Am7" DE G2 cG E2 |"D7" D3 E- E4 | %30
+w: fun- ny _|When I'm a- way from my|hon- ey, _|Here's what I do with my|mon- ey. _|
+"G" z4"^Tacet   (Spoken:)" DDDD | D2 DD- D D3 |] %32
+w: Penn- syl- van- ia|six, five thou- * sand.|
+

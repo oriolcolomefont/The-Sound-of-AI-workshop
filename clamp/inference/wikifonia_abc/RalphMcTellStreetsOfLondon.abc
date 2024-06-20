@@ -1,0 +1,43 @@
+X:1
+T:Streets Of London
+T:Streets of London
+T:Ralph McTell
+C:Ralph McTell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"G" B B B B |"D" d d2 B/A/ |"Em" G2 G2 |"Bm" B B3 |"C" E E E G |"G" G G2 G/G/ |"A7" A2 A2 | %7
+w: Have you seen the|old man in the|closed down|mar- ket,|kick ing up the|pa- pers with his|worn out|
+w: Have you seen the|old girl who walks|the streets~of|Lon- don,|* dirt in her|hair and her clothes|in *|
+w: In the all night|ca- fé at a|quarter past|ele- ven|same old man is|sit- ting there *|on his|
+w: Have you seen the|old man outside the|sea- man's|mis- sion,|mem- 'ry fad- ing|with the medal ribbons|that he|
+"D" B4 |"G" B B B d |"D" d d d2 |"Em" G F G B |"Bm" B/ c B/- B2 |"C" z E E/ G3/2 |"G" G G2 G/G/ | %14
+w: shoes?|In his eyes you|see no pride,|hand held loose- ly|at his side, *|yes ter- day's|pa- per tell- ing|
+w: rags?|She's no time for|talk- ing, she|just keeps right on|walk- * ing, *|car ry- ing|her home in two|
+w: own.|Look- ing at the|world o- ver|the rim of his|tea- * cup, *|each tea lasts|an hour and he|
+w: wears?|In our win- ter|cit- y the|rain cries a lit-|tle pi- ty, *|for one more|forgotten hero and a|
+"D7" D2 E/ F G/- |"G" G4- | G2 z G |"C" c2 c c |"G" B B2 d |"D7" d2 c2 |"G" B4 |"A7" z A A A/A/- | %22
+w: yes- ter- day's news.||* So|how can you|tell me you're|lone- *|ly|and say for you|
+w: car- ri- er bags.||||||||
+w: wanders home a- lone.||||||||
+w: world that doesn't care.||||||||
+ A/E/E/G/ F2 |"D7" D4- | D4 |"G" B B/B/- B/ d3/2 |"D" d d/B/- B A |"Em" G F/G/- G3/2 A/ | %28
+w: * that the sun don't|shine?||Let me take * you|by the hand * and|lead you through * the|
+w: ||||||
+w: ||||||
+w: ||||||
+"Bm" B3/2 c/ B D |"C" z E E G |"G" G G2 G |"D7" D D/E/- E F |1"G" G2 B/ c d/- |"D" d2 B A | %34
+w: streets of Lon- don|I'll show you|some- thing to|make you change * your|mind. * * *||
+w: ||||||
+w: ||||||
+w: ||||||
+"Em" G2 G/ G3/2 |"D7" A4 :|2"G" G3 z |] %37
+w: |||
+w: |||
+w: |||
+w: |||
+

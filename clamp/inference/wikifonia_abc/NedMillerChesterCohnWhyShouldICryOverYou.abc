@@ -1,0 +1,26 @@
+X:1
+T:Why Should I Cry Over You
+T:Why Should I Cry Over You
+C:Ned Miller
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" z/ C3/2"G7" D"C7" E |"F" F2"Am7" G"D7" A |"Gm7" z2"C7" c B/G/ |"Gm7""C7" D4 | %4
+w: I don't know|why I should|cry ov- er|you,|
+"Gm7" z c2 B/G/ |"C11" D3 z |"F6" z2"Ebmaj7" (3B A _A |"F7""C7" A4 |"F" z C"G7" D"C7" E | %9
+w: Sigh ov- er|you,|Ev- en be|blue.|I should have|
+"F" F2 G A |"Am" c3"F/A" =B/A/ |"Am6""Am7" E4 |"Dm7" F A2 z |"G7" z F E D |"C11" G4- | G3"C7" z | %16
+w: known that you'd|leave me a-|lone,|And break|my heart in|two.|_|
+"F7" c c2 A/G/ | F G3 |"Bb6" z F c3/2 c/ | B4 |"D7" z B A ^F/E/ | D E2 ^F |"G7" A3 _A | %23
+w: Al- though you have|left me|a- lone to|pine,|And all of my|love was a|waste of|
+"C7" G3"C7#9" z |"F6" C"G7" D2"C7" E |"F" F"Am7" G2"D7" A |"C7" c2 B/ G3/2 |"Gmaj7" D3"Eb+" _E | %28
+w: time,|Some- day your|heart will be|bro- ken like|mine, So|
+ z"Cm7" E"Cdim" _E"Cm7" =E |1"C11" c2- c/A/A/F/- |"F6""D7b5" F4 |"Gm9" z2"C+7" z2 :|2 %32
+w: why should I|cry _ ov- er you.|_||
+"C11" c2- c/A/A/F/- |"F6" F4 |] %34
+w: cry _ ov- er you.|_|
+

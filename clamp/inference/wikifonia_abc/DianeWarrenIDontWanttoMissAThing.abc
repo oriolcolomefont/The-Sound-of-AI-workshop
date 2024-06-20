@@ -1,0 +1,53 @@
+X:1
+T:I Don't Want to Miss A Thing
+T:I Don't Want to Miss A Thing
+T:Diane Warren
+C:Diane Warren
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:G
+V:1 bass nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"E7sus4" E,,8"D/F#" F,,8 |"Asus4" A,,16 |"E7sus4" E,,8"D/F#" F,,8 | %3
+w: |||
+"Asus4" A,,8 B,,2A,,G,, F,,G,,A,,2 |"E7sus4" E,,8"D/F#" F,,8 | %5
+w: ||
+"Asus4" A,,6 E,,2 B,,2A,,G,, F,,G,,A,,2 |"E7sus4" E,,8"D/F#" F,,8 | %7
+w: ||
+"Asus4" A,,8[K:treble] z4 z2 DD |"G" B,2DE- E4"D/F#" B,2D2B2G2 |"Em7" A2G2 G8 (3z2 G2G2 | %10
+w: * I could|stay a- wake _ just to hear you|breath- ing * Watch you|
+"C" E2D2 D2<C2"G/B" D2D2 (3z2 G2G2 |"Am7" E2DD-D2C2 D2E2 z2 DD |"G" B,2DE- E4"D/F#" B,2D2B2>G2 | %13
+w: smile while you are sleep- ing while you're|far a- way _ and dream- ing I could|spend my life _ in this sweet sur-|
+ A2"Em7" G6 z2 z2 (3z2 G2G2 |"C" E2D2 D2<D2"G/B" D2E2 z2 z D |"Am7" DCE2 z4 z4 EFGA | %16
+w: ren- der. I could|stay lost in this mo- ment for-|ev- * er ev- 'ry mo- ment|
+"Bm7" A4 D2B2- B2"Cmaj7"GE GAB2 |"Dsus4" B2>A2 A12 |"G" z4 BBBB-"D/F#" B2AA- A4 | %19
+w: spent with you * is a mo- ment I|treas- ure. _|don't wan- na close * my eyes, _|
+"Am7" z4 AAAd- d2cB- BAG2 |"C" A2EGE2DE B2AG G"D"DA2- |"G" A2>D2 BBBB"D/F#" B2AA- A4 | %22
+w: don't wan- na fall _ as- sleep _ 'cuz I'd|miss you, ba- by and I don't wan- na miss a thing.|_ 'Coz e- ven when I dream of you, *|
+"Am7" z3 A AAAA d2cBA2BA |"C" G2EGE2DE B2AG G"D"DA2 |"G" G8"D/F#" z8 |"Em7" z8 z4 z2 DD | %26
+w: the sweet- est dream would nev- er do. _ I'd still|miss you, ba- by, and I don't wan- na miss a thing|_|Lay- ing|
+"G" B,2DE- E4"D/F#" B,D2B-B2G2 | A2"Em7"G2 G4 z4 (3z2 G2G2 |"C" E2D2D2B,D-"G/B" D2<B,2 (3z2 G2G2 | %29
+w: close to you, _ feel- ing your _ heart|beat _ ing, and I'm|won- d'ring what you're dream * ing won- d'ring|
+ E2"Am7"D2 D2<D2 B2A2 z2 AG |"G" A2GG2<G2G A2"D/F#"G2c2>d2 |"Em7" B2AG- G4 z4 EFGA | %32
+w: if it's me you're see- ing Then I|kiss your eyes _ and thank God we're to-|geth- * er. _ I just wan- na|
+"Bm7" A4 d2B2-"Cmaj7" B2GE GABB- |"Dsus4" B2A2A2>G2 B2AGB2AG!D.S.! ||[M:2/4]O"G" G4 GGGG || %35
+w: stay with you _ in this mo- ment for- ev|_ _ er for- ev- er and ev- er *|* I don't wan- na|
+[M:4/4]"F" A2A2 A4 G2<=F2 AAAG |"C/E" G2A2 E4 z4 GGG=F |"Eb" G2FG- GA2_B- B2AG- G4 | %38
+w: miss one smile; _ _ I don't wan- na|miss one kiss I just wan- na|be with you, _ right here _ with you, _|
+"Bb/D" =F2F2 F4 z4 _BBBB |"F" _B2A2 AA2G =F4 AccA |"C/E" c2Ad-d2c2 z4 (3z2 G2A2 | %41
+w: just like this I just wan- na|hold _ you close, _ _ feel your heart so|close to mine, _ _ and just|
+"Gm7" _B2<B2 cBB2 A2<G2 (3=F2G2A2 | A2"Dsus4"AA- A12 | d2"D"d2d2d2- d8 | %44
+w: stay here in _ this mo- ment for all the|rest of time. _|Ba- by ba- by _|
+ z4"G" BBBB-"D/F#" B2AA- A4 |"Am7" z4 AAAd- d2cB- BAG2 |"C" A2EGE2DE B2AG G"D"DA2 | %47
+w: Don't wan- na close _ my eyes, _|don't wan- na fall _ a- sleep, _ 'cuz I'd|miss you, ba- by and I don't wan- na miss a thing.|
+"G" G2>D2 BBBB"D/F#" B2AA- A4 |"Am7" z2 z A AAAA d2cBA2BA |"C" G2EGE2DE B2AG"D" GDA2 | %50
+w: _ 'cuz e- ven when I dream of you, _|the sweet- est dream would nev- er do _ I'd still|miss you, ba- by and I don't wan- na miss a thing.|
+ G4"G" dddd-"D/F#" d2Be- e4 |"Am7" z4 dddd- d2cB- BAG2 |"C" A2EGE2DE B2AG G"D"DA2 | %53
+w: _ Don't wan- na close _ my eyes, _|don't wan- na fall _ a- sleep, _ 'cuz I'd|miss you, ba- by and I don't wan- na miss a thing|
+"Em7" G2>D2 BBBB"D/F#" B2AA- A4 |"Am7" z2 z A AAAA d2cBA2BA |"C" G2EGE2DE B2AG G"D"DA2 |: %56
+w: _ 'Coz e- ven when I dream of you, _|the sweet- est dream would nev- er do. _ I'd still|miss you, ba- by, and I don't wan- na miss a thing.|
+"G" G4 z4"D/F#" z8 |"Am7" z16 |"C" z4 z4 z4"D" z4 :| %59
+w: _|||
+

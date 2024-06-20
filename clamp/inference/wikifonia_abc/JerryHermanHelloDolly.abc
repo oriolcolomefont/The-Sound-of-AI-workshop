@@ -1,0 +1,34 @@
+X:1
+T:Hello, Dolly!
+T:Hello, Dolly!
+T:JERRY HERMAN
+C:Jerry Herman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+ D |:"Bb" F4 | D B, D F |"Gm" G4 | D B, D F |"Bbmaj7" A B A B |"Bbdim" A B c z/ B/ |"Cm7" F4 | %8
+w: Hel-|lo,|Dol- ly well, Hel-|lo|Dol- ly It's so|nice to have you|back where you be-|long.|
+w: ||||||||
+"F7" z =E F ^F |"Cm" G4 |"Cm7" E C E G |"Ab" _A4 | E C E G |"Cm7" d c d c |"F7" d c A F | %15
+w: You're look- ing|swell.|Dol- ly. we can|tell.|Dol- ly, You're still|glow- in', you're still|crow- in' you're still|
+w: |||||||
+"Bb6" z"Bbdim" G2 A |"F7" F D E =E |"Bb" F4 | D B, D F |"Gm" G4 | D B, D F |"Fm7" c B"Bb7" c B | %22
+w: go- in'|strong. We feel the|room|sway- in', for the|band's|play- in' one of|your old fa- v'rite|
+w: |||||||
+"Fm7" c B"Bb7" c B |"Ebmaj7""Eb6" G4 |"Cm6""D7" A4 |"Gm" z B2 G |"Dm" F2 D/ F3/2 |"Gm" B/B/ B B G | %28
+w: songs from 'way back|when.|So|take her|wrap, fel- las,|Find her an emp- ty|
+w: |||gol- ly|gee, fel- las,|Find her a va- cant|
+"Dm" F2 D/ F3/2 |"C9" d/d/ d"C9#5" d d |1"Cm7" d c"F9" e d |"Bb""Bdim" B4 |"Cm7" z2"F7" z D :|2 %33
+w: lap. fel- las,|Dol- ly- 'll nev- er|go a- way a-|gain,|Hel-|
+w: knee, fel- las.-|||||
+"Cm7" d c"F9" e z ||"C9" d/d/ d"C9#5" d d |"Cm7" d c"F9" e z |"C9" d/d/ d"C9#5" d d | %37
+w: go a- way.|Dol- ly- 'll ne- ver|go a- way|Dol- ly- 'll ne- ver|
+w: ||||
+"Cm7" d c"F9" e d |"Bb" B4- | B-"F7" B-"Bb" B z |] %40
+w: go a- way a-|gain!|_ _ _|
+w: |||
+

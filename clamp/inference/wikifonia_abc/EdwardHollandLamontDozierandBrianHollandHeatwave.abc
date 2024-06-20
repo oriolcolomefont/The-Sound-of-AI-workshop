@@ -1,0 +1,50 @@
+X:1
+T:Heatwave
+T:Heatwave 
+T:Love Is Like A
+C:Edward Holland
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A2"G" B2"D" A2"G" BA- |"D" A2"G" B2"D" A2"G" BA- |"D" A2"G" B2"D" A2"G" B2 | %3
+w: |||
+w: |||
+w: |||
+w: |||
+"D" z2"^N.C." BB- BA B2 |:"Em7" A2 BA B4 |"F#m7" z2 z F FA B2 |"Bm7" A3 F B B3 | FEDB- B2 A2 | %8
+w: When- ev- * er I'm|with him * *|some- * thing in-|side * * *|* * * starts _ to|
+w: |calls my * name|soft * * *|low, * sweet and|plain, _ _ _ _ I|
+w: |stare in- to space|tears * * all|o- ver my face;|* * * I can't ex|
+w: |yeah, * * yeah,|yeah, _ _ whoa|ho. * * *|* * * * * yeah,|
+"Em7" A3 B BBBF |"F#m7" B2 z F- F A3 |"Bm7" B3 A- A B3 | A3 F- F2 B,2 |"Em7" D2 DB, DB,DD | %13
+w: burn- in' * * * *|* and _ I'm|filled with _ de-|sire. _ _ _|_ Could it be * * a|
+w: feel, * yeah, * * *|yeah, well, _ I|feel that burn- in'|flame. _ _ Has|high blood * pres- sure got a|
+w: plain it, _ ~~don't un- der-|stand it, I ain't|ne- ver felt like|this be- fore. Now|that fun- ny feel- in' has *|
+w: yeah, * * * yeah, *|yeah, * * *|ho. * * *||* Don't * pass * up *|
+"F#m7" FFEF- FD D2 |"G6" G2 DG- G G2 D |"A7" BAAA- AB,DB, ||"D" D2"G""D""G" D6 | %17
+w: dev- il in me, _ or is|this the way _ love's sup-|posed * to be? * * * *|heat- wave|
+w: hold * on me, _ or is|this the way _ love's sup-|posed * to be? * It's like a||
+w: me a- * mazed; _ I don't|know what to _ do, my|head's in a haze. * * * *||
+w: this * * chance, _ , *|* this time _ it's a|true * ro- mance. * . * *||
+"D" z2"G" z F-"D" FB,"G"DD |"D" (DE"G" F2)"D""G" z4 |"D" z D"G" B2"D" A2"G" A2 | %20
+w: burn- * in in my|heart: _ _|I can't keep from|
+w: |||
+w: |||
+w: |||
+"D""G" B3 A-"D""G" A4 |"D" z A,"G"B,A,"D" D"G" E2 D- |"D""G" D4"D""G" z4 |1"D" z2 BB- BA B2 :|4 %24
+w: cry- in', _|it's tear- in' me a- part.|_|When- ev- * er he|
+w: |||Some- times _ _ I|
+w: |||Yeah, yeah, _ _ yeah,|
+w: ||||
+"D" D2 AB- BA F2 |"Em7" E2 z E- E4 |"F#m7" F2 z F- F4 |"Bm7" F2 z F- F4 |] %28
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

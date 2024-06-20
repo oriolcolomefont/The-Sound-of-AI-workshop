@@ -1,0 +1,43 @@
+X:1
+T:Smilin' Through
+T:Smilin' Through
+T:Arthur A. Penn
+T:Arthur A. Penn
+C:Arthur A. Penn
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"Eb" e/f/ | g"Ebmaj7" d"Eb7" _d |"Ab" B"Bb7" A F |"Eb" E"Eb7" B"Fm7b5" e |"Eb" e2 E/"Bb7"F/ || %5
+w: ||||* There's a|
+w: |||||
+S"Eb" G"Ebmaj7" G"Eb7" G |"Abmaj7" B"Fm/Ab" A"Eb" G |"Bb7" F"Ab" E"Bb7" F |"Eb" G2 E/F/ | %9
+w: lit- tle brown|road wind- in'|o- ver the|hill To a|
+w: ev- er I'm|left in this|world on my|own, I shall|
+ G"Ebmaj7" G"Eb7" G |"Abmaj7" G"Fm/Ab" F"Adim" E |"Bb7" F3- | F z c/d/ | %13
+w: lit- tle white|cot by the|sea;|* There's a|
+w: wait for my|call pat- ient-|ly,|* And if|
+"Eb" e e"Gbdim" !fermata!f |"Bb7" d/B/ z =A/B/ |"C7" _d c G |"C7sus4" B/"Abdim"A/ z"Bb7" G/F/ | %17
+w: lit- tle green|gate * At whose|tre- lis I|wait- , While two|
+w: heav- en be|kind * I shall|wait there to|find, * Those two|
+"Eb" B/G/"F7" E/ z/"Bb7" F |"Eb" B/G/"Fm7" E/ z/"Bb7" F |"Eb" E3-!fine! |] E z"Eb" E/"Bb7"F/ | %21
+w: eyes o' blue Come|smil- in' through At|me!|* There's a|
+w: eyes o' blue Come|smil- in through At|me.||
+"Eb" G"Ebmaj7" G"Eb7" G |"Abmaj7" B"Fm/Ab" A"Eb" G |"Bb7" F"Ab" E"Bb7" F |"Eb" G2 E/F/ | %25
+w: gray lock or|two in the|brown of the|hair, There's some|
+w: ||||
+"Eb" G"Ebmaj7" G"Eb7" G |"Abmaj7" G"Fm/Ab" F"Adim" E |"Bb7" F3- | F z c/d/ | %29
+w: sil- ver in|mine, too I|see;|* But in|
+w: ||||
+"Eb" e e"Gbdim" !fermata!f |"Bb7" d/B/ z =A/B/ |"C7b9" _d c G |"C7sus4" B/"Abdim"A/ z"Bb7" G/F/ | %33
+w: all the long|years * When the|clouds brought their|tears, * Those two|
+w: ||||
+"Eb" B/G/"F7" E/ z/"Bb7" F |"Eb" B/G/"Fm7" E/ z/"Bb7" F |"Eb" E3 |"Bb7" B z"Eb" E/"Bb7"F/!D.S.! |] %37
+w: eyes o' blue Kept|smil- in' through At|me!|* And if|
+w: ||||
+

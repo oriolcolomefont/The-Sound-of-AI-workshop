@@ -1,0 +1,15 @@
+X:1
+T:Now's The Time
+T:Now's The Time
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 z C |"F7" FFGC F2 z C |"Bb7" FFGC F2 z C |"F7" FFGC FFGC | FFGC F2 z C |"Bb7" FFGC F B,3 | %6
+ FFGC F =B,3 |"F7" FFGC FFGC | FFGC F2 z _A- |"Gm7" AFDC D2 z2 |"C7" z G3 FGF_E | %11
+"F7" z C2 B, C2 z2 |"C7" z8 |] %13
+

@@ -1,0 +1,21 @@
+X:1
+T:Mambo Inn
+T:Mambo Inn
+T:Bobby Woodlen
+C:Mario Bauza, Grace Sampson, Bobby Woodlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gm7" D2 F2"C9" G3 E- |"Fmaj7" E3 F"D7" z A2 d |"Gm7" c4"C9" A3 c- |"Fmaj7""Am7""Abm7" c8 | %4
+"Gm7" D2 F2"C9" G3 E- |"Am7" E3 F"D7" z A2 d |"Gm7" c4"C9" A3 F- |1"Fmaj7""D7#9" F8 :|2 %8
+"Fmaj7""F#m""B7" F8 ||"Bbm7" F3 c z B2 c- |"Eb9" c8 |"Abmaj7" _E3 B"G7#9" z _A2 B- | %12
+"Gbmaj7""Emaj7b5" B8 |"Dm7" G3 e z d2 e- |"G7" e8 |"Gm7" G3 A z G2 A- |"C9" A3 B-"D7#9" B4 | %17
+"Gm7" D2 F2"C9" G3 E- |"Fmaj7" E3 F"D7" z A2 d |"Gm7" c4"C9" A3 c- |"Fmaj7""Am7""Abm7" c8 | %21
+"Gm7" D2 F2"C9" G3 E- |"Fmaj7" E3 F"D7" z A2 d |"Gm7" c4"C9" A3 F |"Fmaj7" z8 || %25
+

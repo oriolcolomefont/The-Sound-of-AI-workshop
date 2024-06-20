@@ -1,0 +1,28 @@
+X:1
+T:My Immortal
+C:Evanescence
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 74
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A" z8 |"C#m" z8 |"A" z8 |"C#m" z8 |"A" z2 AA/A/- AAAc/c/- |"C#m" c8 |"A" z2 z A/A/- AAAA | %7
+"C#m" z cc>c c/B/ A2 z |"A" z e/e/ed/c/- c4 |"C#m" z eed cB/c/- c<c | %10
+"A" z/ A/e/e/ e/ee/ ec/e/- e2 |"C#m" z e/e/- e/ee/- e2 ga/a/- ||S"F#m" a2 z"C#m" g ggga/a/- | %13
+"F#m" a2 z"C#m" g ggga/a/- |"F#m" a2 z"C#m" g gggg |"E" g2 ga- ab-ba- |"F#m" a z/ c/a"D"g- g a3 | %17
+"E" bba"C#m"g- gagf |"F#m" z/ z c/a"D"g- g a3 |"E" bba"C#m"g- ga g<f |"F#m" z z/ c/a"D"g- g a3 | %21
+"E" b2 a"C#m"g- gaga |"F#m" z z/ c/a"D"g- g a3 |"E" a<g- g6 | z4 g3 a ||O"A" a8 |"C#m" z8 |"A" z8 | %28
+"C#m" z8 ||"A" z2 AA/A/- AAAc/c/- |"C#m" c8 |"A" z2 z A/A/- AA/A/- A/A/G | %32
+"C#m" z cc>c cB/c/- c/d/c |"A" z/ z A<AA/ A>AA>c- |"C#m" ccce/c/- c/B/ A3 |"A" z eed/c/- c4 | %36
+ z"C#m" e- e/dc/- cB/c/- c/d/c |"A" z eed/c/- cB/c/- c2 |"C#m" z eee e>ega!D.S.! |] %39
+O"D" a3 e- e2 f2 |"F#m" g3 a- a2 b2 |"C#m" b3 a- a2 g2 |"D" g f3 z2 z g |"Bm7" a3 a- a2 c'2 | %44
+"C#m7" b2- bb/a/- a4 |"D" g3 a- a2 b>a |"E" c'3 b- b2 aa- ||"F#m" a4"D" z4 |"E" z3"C#m" z z4 | %49
+"F#m" z3"D" z z4 |"E" z3"C#m" z z4 ||"F#m" z2 a"D"g- g a3 |"E" bba"C#m"g- gagf | %53
+"F#m" z/ z c/a"D"g- g a3 |"E" bba"C#m"g- ga g<f |"F#m" z/ z c/a"D"g- g a3 |"E" b2 a"C#m"g- gaga | %57
+"F#m" z/ z c/a"D"g- g a3 |"E" a<g- g6 | z4 g3 a ||"A" a8- |"C#m" a8 |"A" z8 |"C#m" z8 |"A" z8 | %65
+"C#m" z8 |"A" z8 |"C#m" z8 |"A" z8 |] %69
+

@@ -1,0 +1,44 @@
+X:1
+T:The Wedding Song
+C:Ricardo & Chantal
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Emin
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Intro""Am" z8 |"Am" z8 |:"^Verse""Am" GA A<A GA A<A | GA A<B cBA(G |"Em" B2) z2 E2 B2 | %5
+w: ||I've been ha- ving dreams and vi- sions|in them you are al- ways stand- ing|_ right be-|
+w: |||||
+"D" (D2>A2) A2 z2 |"Am" GA A2 G<A A2 |zA AB cBA(G |"Em" B2) z2 E2 B2 |"D" (D2>A2) A2 z2 |1 %10
+w: side _ me|I reach out for your hand|To see your arms ex- tend- ing|_ Out- stretched|towards _ me|
+w: |||||
+"Em"z2z>E G<A BG |"D" A2 z2 z4 |"Em" z2 GA B2 AG |"D" A2 AG AG/(F/- FG) |"Em"z2z>G BdBG | %15
+w: For you I don the|veil|By your light oth- ers|pale by com- pa ri- son _ _|I place my faith in|
+w: |||||
+"D" A2zB AGED |"Em" (ED) E2 z4 | z8 :|2"Em"z2z>E G<A BG |"D" A2 z2 z4 ||"Em"z2z>E G<A BG | %21
+w: love My fate in this com-|mu- * nion||To you I give my|pledge|I ho- nor all that's|
+w: ||||||
+"D" A2 FF GG G<F |"Em"z>E GA/B/- BdBG |"D" A2 z2 BAGF |"Em" (ED) E2 z4 | z6 d/d/e/e/ || %26
+w: good in this life we're li- ving|To think not on- * ly for my-|self But of grea- ter|un- _ ion|Can I get a|
+w: |||||
+"^Chorus""C" gez4ga |"D" gf- fd/d/ dBde |"Em" B2 (AG-) G2 z2 | z6 d/d/e/e/ |"C" ge z6 | %31
+w: wit- ness there's salv-|a- tion _ and _ rap- ture for the|lone- ly _ _|Can I get a|wit- ness|
+w: ||||wit- *|
+"D" gf d2 d e2d |"Am" B2 (AB-) B2 z2 |z4zG dc |"C" BA G4 z2 | z8 :|3"Em"z2z>E G<A BG | %37
+w: bless this day sacr- ed and|ho- ly * *|Sa- cred and|ho- _ ly||With you I am re-|
+w: ||||||
+"D" A2 z2 z4 ||"Em" z2 GA B2 AG |"D" A2 GF GF- F z |"Em" z2 G<A B<d BG |"D" A2z/A/B A>G ED | %42
+w: vealed|All my shame all my|faults and my vir- tues *|Be- hold bo- dy mind and|spirit but I'm so de- vot- ed|
+w: |||||
+"C" G4"^D(add 9)" F4 |"Em" E8 | z8"^fine" ||"^Interlude" z8 | z8 | z8 | z8 | z8 | z8 | z8 | %52
+w: all to|you|||||||||
+w: ||||||||||
+ z6 d/d/e/e/ ||"^Chorus""C" gez4ga |"D" gf- fd/d/ dBde |"Em" B2 (AG-) G2 z2 | z6 d/d/e/e/ | %57
+w: Can I get a|wit- ness there's salv-|a- tion _ and _ rap- ture for the|lone- ly _ _|Can I get a|
+w: |||||
+"C" ge z6 |"D" gf d2 d e2d |"Am" B2 (AB-) B2 z2 |z4zG dc |"C" BA G4 z2"^Repeat to 3." | z8 :| %63
+w: wit- ness|bless this day sacr- ed and|ho- ly * *|Sa- cred- and|ho- _ ly||
+w: wit- *||||||
+

@@ -1,0 +1,42 @@
+X:1
+T:A Mighty Fortress Is Our God
+T:A Mighty Fortress Is Our God
+T:Martin Luther
+T:Martin Luther
+T:Public Domain
+C:Martin Luther
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c |: c c"G" (G/A/)"Em" B |"Am" (c/B/)"D" A"G" !fermata!G"Am" c |"Em" B"F" A"C" G"Am" A | %4
+w: 1.~~A~~~~~|might- y For- * tress|is * our God. A|bul- work nev- er|
+w: 2.~(Did)|we in our * own|strength * con- fide, Our|striv- ing would be|
+w: 3.~(And)|though this world * with|de- * vils filled, Should|threa- ten to un-|
+w: 4.~(That)|word a- bove * all|earth- * ly powers, No|thanks to them, a-|
+"Dm" (F/E/"G" D)"C" !fermata!C c | c c"G" (G/A/)"Em" B |"Am" (c/B/)"D" A"G" !fermata!G c | %7
+w: fail- * * ing Our|Help- er He * a-|mid * the flood Of|
+w: los- * * ing. Were|not the right * Man|on * our side, The|
+w: do- * * us. We|will not fear * for|God * hath willed His|
+w: bid- * * eth. The|Spir- it and * the|gifts * are ours Through|
+"Em" B"F" A"C" G"Am" A |"Dm" (F/E/"G" D)"C" !fermata!C C |"C" G"Am" A"G" G"D" ^F |"G" G3 C | %11
+w: mor- tal ills pre-|vail- * * ing. For|still our an- cient|foe doeth|
+w: Man of God's own|choos- * * ing. Dost|ask who that may|be? Christ|
+w: truth to tri- umph|through * * us. The|prince of dark- ness|grim, We|
+w: Him who with us|sid- * * eth. Let|goods and kind- red|go, This|
+"G" G"C" G"F" A"Dm" B |"Am" c3"E" B |"Am" c"E" B"Am" A"D" A |"G" G3"F" A |"Am" A"C" G"A" A"Dm" F | %16
+w: seek to work us|woe. His|craft and power are|great And|armed with cru- el|
+w: Je- sus, it is|He; Lord|Sa- ba- oth, His|name, From|age to age the|
+w: trem- ble not for|him. His|rage we can en-|dure, For,|lo, his doom is|
+w: mor- tal life al-|so. The|bo- dy they may|kill; God's|truth a- bid- eth|
+"E" E3"Am" c |"Em" B"F" A"C" G"Am" A |"Dm" (F/E/"G" D)"C" !fermata!C"C" c :| %19
+w: hate, On|earth is not his|e- * * qual. Did~~|
+w: same. And|He must win the|bat- * * tle. And|
+w: sure. One|lit- tle word shall|fell * * him. That|
+w: still. His|king- dom is for-|ev- * * er. *|
+

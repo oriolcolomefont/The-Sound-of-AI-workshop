@@ -1,0 +1,37 @@
+X:1
+T:Do That To Me One More Time
+T:DO THAT TO ME ONE MORE TIME
+T:Toni Tennille
+C:Toni Tennille
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" eeee efgc- |"Am" c2 cA cdeA- |"F" A2 AG A c2 A- |"F" A G3 z aag |"C" eeee efgc- | %5
+w: Do that to me one more * time|* once is nev- er e- nough|* with a man like you||Do that to me one more * time|
+w: Pass that by me one more * time|* once just is- nt e- nough|* for my heart to hear|* * Woah * *|tell it to me one more * time|
+"Am" c2 cA aged |"F" c2 AG A c2 e- |"G" e d2 f- f e3 |"Am" z3 a4 g |"G" eed c2- c2 d | %10
+w: * I can nev- er get e-|nough of a man like you|* * Woah * *|kiss *|me * * * * like|
+w: * I can nev- er hear e-|nough while i got- cha near|* * Woan * *|say those|words a * gain * like|
+"C" ecdc d c2 z |"D" z4 z AAG |"F" AG G4 z2 | fffg edcd |1"C" d c3 z4 |]2"Am7" d c3 z4 |: %16
+w: you just * did * *|oh ba *|* * by|do that to me once a * gain|||
+w: you just * did * *|oh ba *|* * by|tell it to me once a * gain|||
+[K:D]"D" ffff fgad- |"Bm" d2 dB defB- |"G" B2 BA B d2 B- | B A3 z bba |"D" ffff fgad- | %21
+w: (1) instrumental * * * * * *||* with a man like you|* * Woah * *|do that to me one more * time|
+w: Do that to me one more * time|* once is nev- er e- nough||||
+"Bm" d2 dB bafe |"G" d2 BA B d2 f- |"A" f e2 g g f3 | z2"Bm" b4 af |"A" fede dd z e | %26
+w: * I can nev- er get e-|nough of a man like you|* * Woah * *|kiss * me|* * * * * * like|
+w: |||||
+"D" fdee d2 z2 |"E" z4 z2 BB |"G" BA A2 z4 |1"Bm7" z8 ||"G" z8 |"A7" z8 ::2 ggga fede- || %33
+w: you just * did *|Woah ba|* * by||||do that to me once a * gain|
+w: |||||||
+"D" e d3 z4 |"Bm" z4 fddB |"Em7" BBAA- A2 z2 :|"G" ggga ffdd- |:"D" d2 z2 dABB | %38
+w: |woah * woah *|ba * * by *|do that to me one more * time|* do it a gain|
+w: |||||
+"A7" A4 =fe"^Repeat"d"^and""^fade"d :| %39
+w: * one more * time|
+w: |
+

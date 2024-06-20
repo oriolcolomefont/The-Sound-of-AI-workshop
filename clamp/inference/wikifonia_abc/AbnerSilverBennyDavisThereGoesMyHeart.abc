@@ -1,0 +1,24 @@
+X:1
+T:There Goes My Heart
+T:There Goes My Heart
+C:Abner Silver
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" z D F d |:"Bbmaj7" c4- | c"Bb" B A"G+" G |"Cm" F3/2 E/ G2- | G C G c |"Cm7" B4- | %6
+w: There goes my|heart,|_ there goes the|one I love.|_ There goes the|girl~(boy)|
+ B"F7" A G F |"Bb" E3/2 D/ F2- | F D F G |"Fm" _A3/2 G/"G7" G2- | G F E D |"Cm""G7" G4- | %12
+w: _ I was- n't|wor- thy of;|_ There goes my|hap- pi- ness|_ it could- n't|be!|
+"Cm" G G A B |"Gm7" d3/2 c/"C7" c2- | c B A G |"Cm7" c4- |"F7" c"Bb" D F d |"Bbmaj7" c4- | %18
+w: _ There goes some-|bod- y else,|_ in place of|me.|_ Good- bye ro-|mance,|
+ c"Bb" B A"G+" G |"Cm" F3/2 E/ G2- | G C G c |"Cm7" B4- | B"F7" A G F |"Bb" E3/2 D/ F2- | F D F G | %25
+w: _ it could- n't|last some- how,|_ I had my|chance,|_ but it's all|ov- er now,|_ I nev- er|
+"Fm" _A3/2 G/"G7" G2- | G G"Dm7" c"G7" d |"Cm" e4- |"Ebm6" e e d c |"Bb" d3 B | %30
+w: thought that she~(he)|_ could pass me|by!|_ There goes my|heart and|
+"Cm7" c2-"F7" c"Ebm7" B |1"Bb""Edim" B4 ||"F7" z"Bb" D F d :|2"Bb""Eb6" B4- ||"Bb" B3 z |] %35
+w: here _ am|I.|Ther goes my|I.|_|
+

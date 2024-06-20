@@ -1,0 +1,61 @@
+X:1
+T:With You I'm Born Again
+T:With You I'm Born Again
+T:David Shire, Carol Conners
+T:All Rights Reserved
+C:Carol Conners, David Shire
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D2 |"Dm" A2 F3 G |"Am7" E2 C4 |"Bbmaj7" DE FA GF |"Am7" E2 C4 |"Gm7" DE FA GF | %6
+w: (Billy)~Come|bring me your|soft- ness.|Com- fort me through all this|mad- ness.|Wo- man don't you know with|
+w: ||||||
+"^A7b9sus" G3 F"A7b9" EB, |"Dsus4" A,6- |"D" A,4 z D |"Dm" A2 F3 G |"Am7" E2 C4 | %11
+w: you I'm born a-|gain.|* (Syreeta)~Come|give me your|sweet- ness.|
+w: |||||
+"Bbmaj7" DE FA GF |"Am7" E2 C4 |"Gm7" DE FA GF |"^A7b9sus" G3 F"A7b9" EB, |"Dsus4" A6- |"D" A4 z2 | %17
+w: Now there's you there is no|week- ness.|Ly- ing safe with- in your|arms I'm born a-|gain.||
+w: ||||||
+"Bbmaj7" BA F2 D2 |"Am7" E4 z C |"Bbmaj7" D4 F2 |"Am7" E6 |"Bbmaj7" BA F2 D2 |"Am7" E4 C2 | %23
+w: (Billy)~I was half, not|whole, in|step with|none.|(Syreeta)~Reach- ing through this|world, in|
+w: ||||||
+"Gm7" D4 F2 |"A7sus4" G6- |"A7" G2 z2 D2 |"Dm" A2 F3 G |"Am7" E2 C4 |"Bbmaj7" DE FA GF | %29
+w: need of|one.|* (Both)~Come|show me your|kind- ness.|In your arms I know I'll|
+w: ||||||
+"Am7" E2 C4 |"Gm7" DE FA GF |"^A7b9sus" G3 F"A7b9" EG |"Dsus4" F6- |"D" F6 |"Gm7" DE FA GF | %35
+w: find this.|(Billy)~Wo- man don't you know with|you I'm born a-|gain.||(Syreeta)~Ly- ing safe with- in your|
+w: ||||||
+"^A7b9sus" G3 F"A7b9" EA, |"Dsus4" A6- |"D" A4"^INTERLUDE\n6 measures" z2 |"Dm7" z6 | z4 D2 | %40
+w: arms I'm born a-|gain.|||(Billy)~Come|
+w: |||||
+"Dm7" A2 F3 G |"Am7" E2 C4 |"Bbmaj7" DE FA cB |"Am7" E2 C4 |"Gm7" DE FA GF | %45
+w: bring me your|soft- ness.|Com- fort me through all this|mad- ness.|Wo- man don't you know with|
+w: |||||
+"^A7b9sus" G3 F"A7b9" EB, |"Dsus4" A,6- |"D" A,4 z D |"Dm" A2 F3 G |"Am7" E2 C4 | %50
+w: you I'm born a-|gain.|* (Syreeta)~Come|give me your|sweet- ness.|
+w: |||||
+"Bbmaj7" DE FA GF |"Am7" E2 C4 |"Gm7" DE FA GF |"^A7b9sus" G3 F"A7b9" EB, |"Dsus4" [DA]D DE ^FD | %55
+w: Now there's you there is no|week- ness.|Ly- ing safe with- in your|arms I'm born a-|gain. * * * * *|
+w: ||||(Billy)~Wo- man don't you know with|
+ ^FD FD FA |"Bbmaj7" BA F2 D2 |"Am7" E4 z C |"Bbmaj7" D4 F2 |"Am7" E6 |"Bbmaj7" BA F2 D2 | %61
+w: |(Both)~I was half, not|whole, in|step with|none.|Reach- ing through this|
+w: you I'm born a- gain *||||||
+"Am7" E4 C2 |"Gm7" D4 F2 |"A7sus4" G6- |"A7" G2 z2 D2 |[K:Gb]"Ebm" B2 G3 A |"Bbm7" F2 D4 | %67
+w: world, in|need of|one.|* Come|show me your|kind- ness.|
+w: ||||||
+"Bmaj7" EF GB AG |"Bbm7" F2 D4 |"Abm7" EF GB AG |"^Bb7b9sus" A3 G"Bb7b9" FA |"Ebm" =G6- | %72
+w: In your arms I know I'll|find this.|Wo- man don't you know with|you I'm born a-|gain.|
+w: |||||
+"Bmaj7" G6 |[M:4/4]"Abm7" z2 EF G2 B2 |[M:3/4]"^Bb7b9sus" A4 G2 |"Bb7b9" A4 F2 |"Ebsus4" =G6- | %77
+w: |Ly- ing safe with|you I'm|born a-|gain.|
+w: |||||
+"Eb" G6 |] %78
+w: |
+w: |
+

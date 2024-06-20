@@ -1,0 +1,21 @@
+X:1
+T:Dites - Moi
+T:Dites - Moi
+T:(tell me why)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E F G2- | G c G2 | G G A G |"G7" G2 D2 | D E F2 | F B F2 | F F G D |"C" E4 | E F G2 | G c G2 | %10
+w: Di- tes moi|* pour quoi|* la vie est|bel- le|di- tes moi|* pour quoi|* la vie est|gai?|di- tes moi|* pour quoi|
+w: Tell me why|* the sky|* is filled with|mu- sic|tell me why|* we fly|* on clouds a-|bove|can it be|* that we|
+"C7" G c B3/2 _B/ |"F" _B2 A2 |"Dm" A B c2 |"C" G B c2 |"G7" D2 B2 |"C" c2 z2 |] %16
+w: * Chere ma d"moi|sel- le|est- ce- que|par- ce que|vous m'ai|mez?|
+w: * can fly to|mu- sic|just be- cause|just be- cause|we're in|love?|
+

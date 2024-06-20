@@ -1,0 +1,24 @@
+X:1
+T:It Could Happen To You
+T:It Could Happen To You
+C:Jimmy Van Husen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" D3 E |"G#dim7" =F E B2 |"Am7" E3 F |"Bbdim7" G F ^c2 |"G/B" d2 d2 |"C7" d c2 G |"B7" B4- | %7
+w: Hide your|heart from sight,|lock your|dreams at night.|It could|hap- pen to|you.|
+"Bm7""E7" B4 |"Am7" B2 B2 |"Cm" B c G A |"G" B2 B2- |"F#m7b5""B7" B4 |"Em" G2"C7/E" G2 | %13
+w: |Don't count|stars or you might|stum- ble,||some- one|
+"A7" G A E F |"Am7" G2 A2 |"Am6" E2"Ab9" F2 |"G" D3 E |"G#dim7" =F E B2 |"Am7" E3 F | %19
+w: drops a sigh and|down you|tum- ble.|Keep and|eye on spring,|run when|
+"Bbdim7" G F ^c2 |"G/B" d2 d2 |"C7" d c2 G |"B7" B4- |"Bm7""E7" B4 |"Am7" B2 B2 |"Cm" B c G A | %26
+w: church bells ring.|It could|hap- pen to|you.||All I|did was won- der|
+"G/D" B F"C7" A G |"Bm7b5""E7" d4 |"Am7" D2 D2 |"D7" c A2"D7b9" B |1"G""Em" G4- || %31
+w: how your arms would|be|and it|hap- pened to|me|
+"Am7" G3"D7" z :|2"G""C6""C9" G4- ||"G" G4 |] %34
+w: |||
+

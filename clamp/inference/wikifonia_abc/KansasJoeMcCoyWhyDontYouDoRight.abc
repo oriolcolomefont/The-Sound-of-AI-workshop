@@ -1,0 +1,28 @@
+X:1
+T:Why Don't You Do Right
+T:Why Don't You Do Right
+T:Kansas Joe McCoy
+T:Peggy Lee
+C:Kansas Joe McCoy
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z A, |:"Dm""^A" F2 FF"Dm7" DED=B, |"Bb7" z FDE-"A7" E3 A, |"Dm" F2 FF"Dm7" DED=B, | %4
+w: You|had plen- ty mon- ey nine- teen|twen- ty two * You|let oth- er wom- en make a|
+w: |sittin' down * won- d'ring what it's|all a- bout * If|y'ain't got no mon- ey they will|
+w: |you had pre- pared * twen- ty|years a- go * You|would- n't be wan- d'ring now from|
+"Bb7" z FDE-"A7" EDED |"Gm7""^B" F D3- D4- | D F2 E"A7" DD E2 |"Dm""Dm7" (D8 |"Bb7""A7" D8) | %9
+w: fool of you * Why don't you|do right *|* Like some oth- er men|do||
+w: put you out * * * *|||||
+w: do' to do' * * * *|||||
+"Gm7" z FFD"A7" E3 ^C |"Gm7" z FF^C"A7" D2 E(D |"Dm""Dm7" (D8) |"Bb7""A7" D6) z A, :| %13
+w: Get out of here and|get me some mon- ey too||* You're|
+w: |||* If|
+w: ||||
+

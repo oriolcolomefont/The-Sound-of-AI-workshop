@@ -1,0 +1,39 @@
+X:1
+T:BOUM
+T:BOUM
+T:Charles TRENET
+T:JBB JUILLET 2009
+C:Charles TRENET
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+S"Eb" E/>E/ G/>F/"Cm" E G |"Fm" F B"Bb7" B z |"Eb" E/>E/ G/>F/"Cm" E G |"Fm7" F B"Bb7" B z | %4
+w: La pen- du- le fait tic-|tac- tic- tic|Les oi- seaux du lac pic-|pac- pic- pic|
+w: ||||
+"Eb7" c B c B/>E/ |"Ab" B =A _A z |"F7" F/>F/ F/>F/ c d |"Bb7" c =B _B/ z/ B, |:"Eb" B4 | %9
+w: Glou- glou- glou font tous|les dind- ons|& la jo- lie clo- che|ding- dang- dong Mais|boum!|
+w: ||||boum!|
+"Cm""Fm" (3c B A"Bb7" G F |"Eb" B,4 |"Cm""Fm" (3c B A"Bb7" G F |"Gm" B2"Cm" (3E F G | %13
+w: Quand no- tre coeur fait|boum|Tout a- vec lui dit|boum & c'est l'a-|
+w: Il chan- te ÇLove in|BloomÈ|Au ryt- hme de ce|boum Qui re- dit|
+"Fm7" A2"Bb7" B3/2 G/ |"Eb""Eb/G" F"Ab""Fm7" E3 ||1 z4 :|2"Eb6" =A, B, =B, C || %17
+w: mour qui s'Ž-|vei- lle|||
+w: boum ˆ l'o-|reil- le|||
+"Db" F F/>G/"Bb7" F G/>A/ |"Eb" B B/>G/"Cm" B A/>G/ |"Db" F F/>F/"Bb7" F G/>F/ |"Eb" E B,3 | %21
+w: Tout a chan- gŽ de- puis|hier & la rue a des|yeux qui re- gardent aux fe-|n�- tres|
+w: ||||
+"Ab" F F/>F/"Abm" F G/>A/ |"Eb/G" B B/>G/ B G/>B/ |"Am7b5" c c/>c/"D7" c =A/>c/ |"G" d2"Bb7" d2 || %25
+w: Y'a du li- las & y'a|des mains ten- dues Sur la|mer le so- leil va pa-|ra”- tre|
+w: ||||
+"Eb" B4 |"Cm""Fm" (3c B A"Bb7" G F |"Eb" B,4 |"Cm""Fm" (3c B A"Bb7" G F |"Gm" B2"Cm" (3E F G | %30
+w: boum!|L'as- tre du jour fait|boum|Tout a- vec lui dit|boum Quand no- tre|
+w: |||||
+"Fm" A2"Bb7" B3/2 G/ |"Eb" E4- |"Fm7""Bb7" E4S |] %33
+w: coeur fait boum-|boum|_|
+w: |||
+

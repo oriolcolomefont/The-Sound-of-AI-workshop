@@ -1,0 +1,36 @@
+X:1
+T:Daisy A Day
+T:A Daisy A Day
+T:Judd Strunk
+T:Judd Strunk
+C:Jud Strunk
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C/D/ |"C" E E E |"Cmaj7/B" F E D |"Am7/G" E"C7" G G/G/ |"F" A c c | d c A |"C" G G G |"F" A c c | %8
+w: He re-|mem- bers the|first time he|met her. He re-|mem- bers the|first thing she|said. He re-|mem- bers the|
+w: They would|walk down the|street in the|eve- ning and for|years I would|see them go|by, And their|love that was|
+w: Now He|walks down the|street in the|eve- ning and he|stops by the|old can- dy|store. And I|some how bel-|
+ d c A | G/E/ D/C/ C/D/ |"D7" E E E | E D C |"G7" D2 C/D/ |"C" E E E |"Cmaj7" F E D | %15
+w: first time he|held * her * and the|night that she|came to his|bed. he re-|mem bers her|sweet way of|
+w: more than the|cothes that they wore could be|seen by the|gleam in their|eye, As a|kid, they would|take me for|
+w: ieve he's be-|liev- * * ing that he's|hold- ing her|hand like be-|fore For he|feels all her|love walk- ing|
+"Am7" E"C7" G2 | G/G/ A c/c/ | d c A |"C" G2 G/G/ |"F" A c c |"Dm7" c A A |"C" G C C/D/ | E E E | %23
+w: say- ing|Ho- * ney has *|some- thing gone|wrong. He re-|mem- bers the|fun and the|teas- ing and the|rea- son he|
+w: can- dy|and I love to go|tag- ging a-|long We would|hold hands while|walked to the|cor- ner. and the|old man would|
+w: with him.|and he smiles at the|things she might|say, Then the|old man walks|up to the|hill- top and *|gives her a|
+"G7" F E D |"C""G7" C2"C" C | E E E |"Cmaj7" F E D |"Am7" E/"C7" G2 G/ |"F" A c c | d c A | %30
+w: wrote her this|song. I'll|give you a|dai- sy a|day dear I'll|give you a|dai- sy a|
+w: sing her his|song. *||||||
+w: dai sy a|day. *||||||
+"C" G2 G |"F" A c c | c2 A |"C" G C C |"Am" C2 C/D/ |"C" E E E |"G" F E D |"C" C2 z |] %38
+w: day. I'll|love you un-|til the|riv- er's run|still and the|four winds we|know blow a-|way|
+w: ||||||||
+w: ||||||||
+

@@ -1,0 +1,23 @@
+X:1
+T:Waltz No. 2 by Chostakovitch
+T:D.Chostakovitch
+T:
+T:Waltz No. 2 by Chostakovitch
+C:Dimitry Chastakovitch
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:none
+V:1 treble transpose=-9 
+%%MIDI program 65
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:C]"Am" e3 | c2 B | A3- | A A B | c A c |"Fmaj7" e2 f | e3 |"F6" d3 |"G7" d3 | B2 A |"E" ^G3- | %11
+ G E ^G | B ^G B | d e f | ^d3 | e3 |"Am" c'3 | b2 a |"G" g2 f | d3 |"G7" b3 | a2 g | g2"C" e |: %23
+ z c d |"Am" e e/d/ e/f/ | d d/"G"c/ d/e/ |"F" c z e :| z c d | e"Am" e/d/ e/f/ |"G" d d/c/ d/e/ | %30
+"F" c z z | z z g |"Am" c'3 |"Am" c'3 |"Am" c' b a | g e g |"G" b3 | b3 |"Am" a g e | c d e | a3 | %41
+"Am7" g3 |"G" g f e | d c d |"Am7" a2 g | d2"G6" g | e2 g |"Am" c'2 d' | e'3 | e'3 |"Am" e' d' c' | %51
+ b g b |"Dm" d'3 | d'3 |"G" d' c' b | a e g |"Am" c'3 | c'3 | c'3 | d' c' d' |"Fmaj7" e'2 c' | %61
+"G" g a b |"Am" c' d' c' |"E" ^a =a ^g |"Am" a2 A |] %65
+

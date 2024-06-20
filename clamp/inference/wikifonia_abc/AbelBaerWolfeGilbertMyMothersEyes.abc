@@ -1,0 +1,26 @@
+X:1
+T:My Mother's Eyes
+T:My Mother's Eyes
+C:Abel Baer
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" z c"Cmaj7" B E |"C7" G/ A G/- G2 |"F" z A F C |"Fm" F/ G F/-"Fm6" F2 |"C" z G"Am7" E C | %5
+w: One bright and|guid- ing light, _|that taught me|wrong from right, _|I found in|
+"D7" D2"Dm7" C"G7" D |"C""Am7" E4- |"Dm7" E2"G7" z2 |"C" z c"Cmaj7" B E |"C7" G/ A G/- G2 | %10
+w: my moth- er's|eyes.|_|Those ba- by|tales she told, _|
+"F" z A F C |"Fm" F/ G F/-"Fm6" F2 |"C" z G E C |"D7" D2"Dm7" C"G7" D |"C""F" C4- | %15
+w: that road all|paved with gold, _|I found in|my moth- er's|eyes.|
+"C""Ab7" C2"Dm7""E7" z2 |"Am" z c c E |"Adim" ^D c"B7b9" c"B7" B |"E7" z c B ^G |"Em7""A7" E4 | %20
+w: _|Just like a|wand'- ring spar- row|one lone- ly|soul,|
+"D7" z B B A |"Am7" D B"D7" B A |"G7" z A"C#dim" A E |"Dm7""G7" G4 |"C" z c"Cmaj7" B E | %25
+w: I walked the|straight and nar- row|to reach my|goal.|God's gift sent|
+"C7" G/ A G/- G2 |"F" z A F C |"Fm" F/ G F/-"Fm6" F2 |"C" z G"Am7" A c |"D7" d2"Dm7" c"G7" d |1 %30
+w: from a- bove, _|a real un-|self- ish love, _|I found in|my moth- er's|
+"C" c4 :|2"C" c4- || c3 z | %33
+w: eyes.|eyes.|_|
+

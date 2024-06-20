@@ -1,0 +1,31 @@
+X:1
+T:Nagasaki
+T:Nagasaki
+T:Harry Warren & Mort Dixon
+C:Harry Warren & Mort Dixon
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z2 G2"Gdim" G G2 G |"G7" G2 Gd- d4 |"C" z2 G2"Gdim" G G2 G |"G7" G2 Gd- d4 | %4
+w: Hot gin- ger and|dy- na- mite *|There's no- thing but|that at night *|
+"C" ee"Bdim"BB"Am" cc"E7"^GG |"F" AA"Edim"EE"Dm" FF"Ab7"^FF |"C" GA^FG"Ab7" _e"G7" d3 |"C" c6 z2 | %8
+w: Back in Na- ga sak- i where the|fel- lers chew to- bacc- y And the|wom- en wick- y wack- y|woo.|
+"C" z2 G2"Gdim" G G2 G |"G7" G2 Gd- d4 |"C" z2 G2"Gdim" G G2 G |"G7" G2 Gd- d4 | %12
+w: The way they can|en- ter tain *|Would hur- ry a|hur- ri- cane *|
+"C" ee"Bdim"BB"Am" cc"E7"^GG |"F" AA"Edim"EE"Dm" FF"Ab7"^FF |"C" GA^FG"Ab7" _e"G7" d3 |"C" c6 z2 || %16
+w: Back in Na- ga- sak- i where the|fel- lers chew to- ac- cy And the|wom- en wick- y wack- y|woo.|
+"F" z cde d c3 |"Fm" z cde d c3 |"C" z cde dcEG- |"C7" G8 |"F" z cde d c3 |"Fm" z cde d c2 _A | %22
+w: Oh! Fu- ji- am- a|You get a mom- mer,|and then your troub- les in- crease.||In some pa- go- da|She ord- ers so- da The|
+"C" G2"F" A2"C" G2"F" A2 |"Eb7" _B2"D7" ^F>A"G7" G4 |"C" z2 G2"Gdim" G G2 G |"G7" G2 Gd- d4 | %26
+w: earth skakes milk shakes|ten cents a piece.|They kiss- ee and|hug- ee nice *|
+"C" z2 G2 G"Gdim" G2 G |"G7" G2 Gd- d4 |"C" ee"Bdim"BB"Am" cc"E7"^GG | %29
+w: By jin- go it's|worth the price *|Back in Na- ga- sak- i where the|
+"F" AA"Edim"EE"Dm" FF"Ab7"^FF |"C" GA^FG"Ab7" _e"G7" d3 |"C" c6 z2 |] %32
+w: fel- lers chew to- bac- cy anr the|wo- men wick- y wack- y|woo.|
+

@@ -1,0 +1,30 @@
+X:1
+T:That Sunday (That Summer)
+T:That Sunday (That Summer)
+C:George David Weiss
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"Eb" z4 BdBG |"Fm7" E6"Bb7b9" F2 |"Gm7" F4"C7b9" G4 |"Fm7" z AGA e2"Bb" d2 |"Ebmaj7" B4 Bd"C7"BG | %5
+w: If I had to|chose just|one day|to last my whole life|through, it would sure- ly|
+"Fm7" E6"Bb7b9" F2 |"Gm7" F4"C7b9" G4 |"Fm7" z AGA e2"Bb7" d2 |"Bbm7""Eb7" B8 | %9
+w: be that|Sun- day,|The day that I met|you.|
+"Ab" BG (3BEE- E z2 E |"Abm6" BG (3BEE- E4 |"Gm7" FDDD F<DDB, |"C9" D8 |"Fm" BG (3BEE- E z2 E | %14
+w: New- born whip- por- wills _ were|call- in' from the hills. _|Sum- mer was a- com- in' in but|fast.|Lots of daf- fo- dils _ were|
+"Db9" BG (3BEE- E4 |"Am7" DDDD"D7" D<DDD |"Gmaj7" DDDD"G6" D D3 |"Fm7" z G E2 G E2 B | %18
+w: show- in off their skills, _|Nod- ding all to- geth- er I could|al- most hear them whis- per:|"Go on, kiss her, go|
+"Gm7" d2"Gbm7" _d2"Fm7" c2"Bb7b9" _c2 |"Eb" z4 BdBG |"Fm7" E6"Bb7b9" F2 |"Gm7" F4"C7b9" G4 | %22
+w: on and kiss her!"|If I had to|chose one|mo- ment|
+"Fm7" z AGA e2"Bb7" d2 |"Ebmaj7" B4"C7" BdBG |"Fm7" E6"Bb7b9" F2 |"Gm7" F4"C7b9" G4 | %26
+w: to live with- in my|heart, It would be that|ten- der|mo- ment|
+"Fm7" z AGA e3"Bb7b9" d |"Gm7b5" _d4"C+7" c4 |"Fm" eeee"Abm" E4 |"Gm7" dddd"C7" B4 | %30
+w: re- call- ing how we|start- ed|Dar- ling, it would be|when you smiled at me|
+"Fm7" c C3- C2 z c |"Bb7b9" _c _C3- C3 D |"Eb" D !fermata!E3 BdBG |"Eb" D E3 BdBG | %34
+w: that way _ that|Sun- day _ that|sum- mer. If I had to|sum- mer. If I had to|
+"Fm7" E4"Bb7b9" F4 |"Eb" F2 !fermata!G6 |] %36
+w: chose just|one day.|
+

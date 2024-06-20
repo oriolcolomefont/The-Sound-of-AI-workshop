@@ -1,0 +1,26 @@
+X:1
+T:Candy
+T:Candy
+C:Alex Kramer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Eb" d4 G4 |"Ebm" z BcB d2"Ebm7" _d2 |"Bb" c4 F4 |"Bbdim" z ABA c2 =B2 |"Cm7" B4 E4 | %5
+w: Can- dy|I call my su- gar|"Can- dy"|Be- cause I'm sweet on|Can- dy|
+"F7" z CEG B2 A2 |"Bb6" G8- |"Fm7" G2 d2"Bb7" d2 d2 |"Eb" d4 G4 |"Ebm" z BcB d2"Ebm7" _d2 | %10
+w: Amd Can- dy's sweet on|me.|* She un- der-|stands me|My un- der- stand- ing|
+"Bb" c4 F4 |"Bbdim" z ABA c2 =B2 |"Cm7" B4 E4 |"F7sus4" z EGB"F11" d2 d2 |"Bb""Eb7""Ebdim7" B8- | %15
+w: Can- dy.|And Can- dy's al- ways|han- dy|When I need ym- pa-|thy.|
+"Bb" B4 z2 d2 |"D" d2 _d2"C" c2 =e2 |"Am7" E F2"D7" ^F- F2 z D |"G" =B2"D+" _B2"G7" A2 d2 | %19
+w: * I|wish that there were|four of her * So|I could love much|
+ D"Gdim" =E2 F-"G7" F4 |"C7" z A2 G A G3 | A c3 A2 G2 |"F7" z d2 c d c3 |"Cm7" G2 A2"Bb7" B2 c2 | %24
+w: more of her *|She has tak- en|my com- plete heart|Got a sweet tooth|for my sweet- heart.|
+"Eb" d4 G4 |"Ebm" z BcB d2"Ebm7" _d2 |"Bb" c4 F4 |"Bbdim" z ABA c2 =B2 |"Cm7" B4 E4 | %29
+w: Can- dy,|It's gon- na be just|dan- dy|The day I take my|Can- dy|
+"F7sus4" z EGB"F11" d2 d2 |1"Bb""Eb7""Ebdim7" B8- ||"F9" B6"Bb7" z2 :|2"Bb" B8- || B6 z2 |] %34
+w: And make her mine, all|mine||mine.||
+

@@ -1,0 +1,19 @@
+X:1
+T:Yardbird Suite
+C:Charlie Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Cmaj7" z c3 G2 A2 |"Fm7" _B3 _A-"Bb7" A_EFG- |"C7" G4"Bb7" G3 E- |"A7" E3 E FEFG | %4
+"D7" EC z C- C4 |1"G7" z2 z D z E FG- |"Em7" G3 A-"A7" AEFG- |"Dm7" G6"G7" z2 :|2 %8
+"Dm7" z2 z C"G7" ECEC- |"Cmaj7" C8 |"F#m7b5" z4 z2"B7#9" (3G/A/G/ ^F ||"Em7" E3 ^F G E2 A | %12
+"F#m7b5" z A-"B7#9" A6 |"Em7" GAG^F EB,C^C- |"A7" C4 z2 z _B, |"Dm7" A,3 A z E FG | %16
+"Em7b5" z G3"A7#9" FED^C |"D7" EA, z E- E3 A, |"Dm7" DEFG"G7" z4 ||"Cmaj7" z c3 G2 A2 | %20
+"Fm7" _B3 _A-"Bb7" A_EFG- |"C7" G4"Bb7" G3 E- |"A7" E2 EF z ^D EA |"D7" z A- A6 | %24
+"Dm7" z A, (3B,CD"G7" E2 G,C- |"Cmaj7" C6 z2 |] %26
+

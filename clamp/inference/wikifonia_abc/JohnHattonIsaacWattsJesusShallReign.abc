@@ -1,0 +1,33 @@
+X:1
+T:Jesus Shall Reign
+T:Jesus Shall Reign
+T:John Hatton
+T:Isaac Watts
+T:Public Domain
+C:John Hatton
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^120" E2 G A | B2 (c d) | e2"F" (d c) |"Bb" B4 |"Eb" B2 B B |"Ab" c2"Eb" B2 |"F" A2"Eb" G2 | %7
+w: 1.~Je~~- sus shall|reign where *|e'er the *|sun|Does his suc-|ces- sive|jour- neys|
+w: 2.~To~ Him shall|end- less *|pray'r be *|made,|And end- less|prais- es|crown His|
+w: 3.~Peo- ple and|realms of *|ev- 'ry *|tongue|Dwell on His|love with|sweet- est|
+w: 4.~Let~ ev- 'ry|crea- ture *|ris and *|bring|His grate- ful|hon- ors|to our|
+"Bb" F4 |"Eb" G2 G F | (E G) (B e) |"Ab" (c B) (A G) |"Bb" F4 |"Eb" B2 c d | e3"Ab" A |"Bb" G2 F2 | %15
+w: run.|His king- dom|spread * from *|shore * to *|shore,|Till moons shall|wax and|wane no|
+w: head.|His name like|sweet * per- *|fume * shall *|rise|With ev- 'ry|morn- ing|sac- ri-|
+w: song,|And in- fant|voic- * es *|shall * pro- *|claim|Their ear- ly|bless- ings|on His|
+w: King;|An- gels de|scend * with *|songs * a- *|gain,|And earth re-|peat the|loud A-|
+"Eb" E4 |] %16
+w: more.|
+w: fice.|
+w: name.|
+w: men!|
+

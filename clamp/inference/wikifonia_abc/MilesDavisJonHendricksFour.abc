@@ -1,0 +1,30 @@
+X:1
+T:Four
+T:Four
+T:Miles Davis
+T:Jon Hendricks
+C:Miles Davis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI control 7 95
+%%MIDI control 10 64
+V:1
+ z B, CD |:S"Eb" z B, CDzB, CD | z F EDzB, C_D- |"Ebm7" D8 |"Ab7" z4 z E FG |"Fm7" z E FGzE FG | %6
+w: Of the won-|der- ful things that you get|out of life there are four.||And they may|not be man- y, but no-|
+w: |ond is hon- or and hap-|pi- ness makes num- ber three.||When you put|them to- geth- er you'll know|
+ z B AGzE F_G- |"Abm7" G8 |"Db7" z4 FGA=A |"Eb/G" B4 EGB=B |"F#m7" z =E3"B7" ^D4 | %11
+w: bod- y needs an- y more.||Of the man- y|facts mak- ing the list|of life,|
+w: what the last one must be.||Ba- by, so the|truth, hon- or and hap-|pi- ness|
+"Fm7" z c3 B2 AG- |"Bb7" G4 z F GA |1"Eb/G" B4 EGB=B- ||"F#m7" B2 =E^D-"B7" D4 | %15
+w: truth takes the lead.|* And to re-|lax know- ing the gist|* of life, *|
+w: ||||
+"Fm7" z c3 B2 A"Bb7"G |"Bb7" z4 z B, CD :|2"Gm7" B2 GB"F#m7" =B=E ^D2 || %18
+w: it's truth you need|Then the sec-|won- der- ful, won- der- ful|
+w: |||
+"Fm7" c2 AF"Bb7" d2 B"Eb6"e |"^(Eb6" z8 |"Fm7" z4"Bb7" z B, CD!D.S.! || %21
+w: love that- 'll make it four.||(Of the won)|
+w: |||
+

@@ -1,0 +1,19 @@
+X:1
+T:Haragszik az édesanyám
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" C D3 E D3 |"G" G3 G A G3 ::"Fm" c c3 d c3 |"Bb" B3 B c B3 |"Fm" c c3 B A3 |"Cm" G3 G A G3 | %6
+w: Ha- rag- szik az|é- des- a- nyám,|Ne ha- ra- gudj|é- des- a- nyám,|u- tá- nad is|járt az a- pám,|
+w: Mért já- rok a|lá- nyok u- tán,|||||
+"G" F3 E D2 G2 |"Cm" C C3 C2 z2 :| %8
+w: né- ha nap- ján,|va- sár- nap.|
+w: ||
+

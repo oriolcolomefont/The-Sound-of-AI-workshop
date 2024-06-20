@@ -1,0 +1,29 @@
+X:1
+T:Ai Se Eu Te Pego
+T:AI SE EU TE PEGO
+T:Michel Teló 
+T:Chorus x2
+C:Aline da Fonseca, Amanda Teixeira, Antonio Cerqueira, Karine Vinagre, Sharon Arcoverde
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C""^CHORUS" c>c- c z"G" B>B- BA |"Am" cA cA/c/-"F" c<A- A z |"C" c2 c/c/c"G" BB B2 | %3
+w: Nos- sa _ nos- sa _ As-|sim vo- cê me ma- * ta _|Ai se eu te pe- go Ai|
+"Am" c2 c/c/c"F" c A2 c |"C" cczc"G" BBzA |"Am" cAcA"F" c>A- A z |"C" c2 c/c/c"G" BB B2 | %7
+w: ai se eu te pe- go De-|li- cia de- li- cia As-|sim vo- cê me ma- ta _|Ai se eu te pe- go Ai|
+"Am" c2 c/c/c"F" cA- A z | c/c/e g2 B/B/d g2 | A/A/c ec [fa][eg][df][ce] | c/c/e g2 B/B/d g[fa]- | %11
+w: ai se eu te pe- go _|_ _ _ _ _ _ _ _|||
+ [fa-]2 [fa](3F/A/c/ [fa][eg][df][ce] || c/c/c- c z B2 Ac- | cc- c2- c z z2 | %14
+w: |Sá- ba- do _ no ba- la-|* da _ _|
+ z/ ee/ e/ed/ dc dc/e/- | e2- e/c/d c2 z2 | (3z gg (3gge ffec | A4 z2 z/ c/c/c/ | %18
+w: A ga- le- ra co- me- çou a dan- çar|_ _ _ _ _|E pas- sou a me- ni- na mais lin-|da To- mei co-|
+ cc z/ c/c/c/ BBAc- | c4 z4 :| %20
+w: ra- gem e co- me- cei a fa- lar|_|
+

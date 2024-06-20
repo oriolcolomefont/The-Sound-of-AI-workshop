@@ -1,0 +1,39 @@
+X:1
+T:Give Them All To Jesus
+T:Give Them All To Jesus
+T:Phil Johnson and Bob Benson
+C:Phil Johnson and Bob Benson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=115
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 |"F" z2 AA"Bb" B2 cB- |"Fmaj7" BA- A4"F9" GF |"Gm7" D2 B6 | z8 | %10
+w: ||||||are you tired of chas|_ ing _ pret ty|rain bows||
+"C7" z3/2 C/ GG A2 BA- | A G3"Bb/C" F3 F |"F" DC- C6 |"Bb/C" z8 |"F" z2 AA"Bb" B2 cB- | %15
+w: and are you tired of spin|_ inb round and|round _ _||wrap up all the shat|
+"Fmaj7" B A2"F9" G2 F FD- |"Gm7" DG- G6 | z8 |"C7" z3/2 C/ GG A B2 A- | A G3 B2 A2 |"F" F8 | %21
+w: _ tered dreams of _ your|_ life _||and at the feet of Je|_ sus lay them|down|
+"Bb/C" z6 AB |"F" c4 z AB"Am7"c- | c6 z2 |"Bb" z2 BB BAA"C7"A- | A G3 z2 GA |"Gm7" B4 B A2 G- | %27
+w: give them|all give them all|_|give them all to _ Je|_ sus shat tered|dreams wound ed hearts|
+"C7" G2 z G F G2 A- |"F" A8 |"Bb/C" B4 z2 AB |"F" c4 z AB"Am7"c- | c6 z2 |"Bb" z2 BB BAA"C7"A- | %33
+w: _ brok en _ toys|_|* give them|all give them all|_|give them all _ to Je|
+ A G3 z3 G |"Gm7" B3 B BAA"C7"A- | A G3 z FEE |"F" F8- | F8 |"F" z2 AA"Bb" B2 cB- | %39
+w: _ sus and|He will turn _ your sor|_ row in _ to|joy|_|* He nev er said|
+"Fmaj7" BA- A4"F9" GF |"Gm7" D2 B6 | z8 |"C7" z3/2 C/ GG A2 BA- | A G3"Bb/C" F3 F |"F" DC- C6 | %45
+w: _ you'd on ly see|sun shine||and He nev er said _|_ there'd be no|rain _ _|
+"Bb/C" z8 |"F" z2 AA"Bb" B2 cB- |"Fmaj7" B A2"F9" G2 F FD- |"Gm7" DG- G6 | z8 | %50
+w: |He _ on ly prom|_ ised a heart full of|sing ing _||
+"C7" z3/2 C/ GG A B2 A- | A G3 B2 A2 |"F" F8 |"Bb/C" z6 AB |"F" c4 z AB"Am7"c- | c6 z2 | %56
+w: a bout the ve ry things|_ that once brought|pain|give them|all give them all|_|
+"Bb" z2 BB BAA"C7"A- | A G3 z2 GA |"Gm7" B4 B A2 G- |"C7" G2 z G F G2 A- |"F" A8 |"Bb/C" B4 z2 AB | %62
+w: give them all to _ Je|_ sus shat tered|dreams wound ed hearts|_ brok en _ toys|_|* give them|
+"F" c4 z AB"Am7"c- | c6 z2 |"Bb" z2 BB BAA"C7"A- | A G3 z3 G |"Gm7" B3 B BAA"C7"A- | A G3 z FEE | %68
+w: all give them all|_|give them all _ to Je|_ sus and|He will turn _ your sor|_ row in _ to|
+"F" F8- | F8 | z8 | z8 | z8 | z8 |] %74
+w: joy|_|||||
+

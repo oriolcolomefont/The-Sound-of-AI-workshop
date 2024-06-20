@@ -1,0 +1,20 @@
+X:1
+T:Morning
+C:Greig
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:E
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E" BGF EFG |"E" BGF EF/G/F/G/ |"E/B" BGB"C#m" cGc |"E" BGF E2- E |"E" BGF EFG |"E" BGF EF/G/F/G/ | %6
+"E/B" BGB"C#m" cGc |"G#" d=c^A G2- G |"G#" d=c^A GAc |"G#" d=c^A GA/c/_B/c/ |"G#" d^Bd"C#m" ece | %11
+"G#" d^B^A G2- G |"G#" d=c^A GAc |"G#" d=c^A GA/c/_B/c/ |"G#" d^Bd"C#m" ece |"B" fdc B2- B | %16
+"B" fdc Bc/d/c/d/ |"B" fdc Bc/d/c/d/ |"B" fdB"B7/A" fdB |"B7/F#" fdB"B7" fdB |"E" bgf efg | %21
+"E" bgf ef/g/f/g/ |"E/B" bgb"C#m" c'gc' |"F#m" c'ag f2- f |"F#m" cAG FGA |"F#m" cAG FG/A/G/A/ | %26
+"F#m" cAc"D#dim" dAd |"B/D#" dBd"C#m" eBe |"E/G#" ece"F#m" fcf |"G#" g4- g-g/-g/4 z/4 | %30
+"E" BGF EFG |"E" BGF EF/G/F/G/ |"E/B" BGB"C#m" cGc |"B" d6 |"E" e6 | %35
+

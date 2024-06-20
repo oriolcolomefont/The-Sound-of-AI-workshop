@@ -1,0 +1,26 @@
+X:1
+T:Milord ( Ombre de la Rue)
+T:Milord
+T:Marguerite Monnot
+T:Bunny Lewis  Original lyrics G.Moustaki
+C:Marguerite Monnot 1959
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^SWING" B ^A B |"G" ^A2 B G- | G B ^A B |"C" A2 G E- | E G A ^A |"G" B2 D2 |"Em7" G2 B2 | %7
+w: Come on get|wise Mi- lord|_ her lips tell|lies Mi- lord|_ the girl that|you a-|dored has|
+w: Al- ler ve-|nez Mi- lord|_ vous as- soir|à ma table|_ Il fait si|froid de-|hors i-|
+"A7" B A A ^G |"D7" A B c ^c |"G7" d2 G G- | G B c ^c |"C" d2 G G- |"F7" G B c ^c |"G" d2 G G- | %14
+w: found some oth- er|guy she's just got|bored Mi- lord|_ now you're ig-|nored Mi- lord|_ deep down in-|side your pride|
+w: ci c'est com- for-|table Lais- ser vous|faire Mi- lord|_ et pre- nez|bien vos aise|_ vos pei- nes|sur mon coeur|
+"Em7" G2 B2 |"A7" B A A ^G |"D7" A B ^A B |"G" ^A2 B G- | G B ^A B |"C" A2 G E- | E G A ^A | %21
+w: _ won't|let you say good-|bye that South- ern|belle Mi- lord|_ has got a|heart of ice|_ love cam be|
+w: _ et|vos pieds sur une|chaise Je vous con-|nais Mi- lord|_ vous n'm'a- vais|ja- mais vu|_ Je n'suis qu'une|
+"G" B2 D2 |"Em7" G2 B2 |"A7" G F"D7" E F |"G" G2 g z |] %25
+w: hell Mi-|lord as|well as par- a-|dise. *|
+w: fille du|port une|om- bre de la|rue. *|
+

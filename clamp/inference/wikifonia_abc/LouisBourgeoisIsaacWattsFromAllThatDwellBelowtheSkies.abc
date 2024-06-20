@@ -1,0 +1,27 @@
+X:1
+T:From All That Dwell Below the Skies
+T:Doxology
+T:Louis Bourgeois
+T:Isaac Watts
+T:Public Domain
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G | G F E D | G A !fermata!B B | B B A G | c B !fermata!A | G | A B A G | E F !fermata!G d | %8
+w: 1.~From|all that dwell be-|low the skies, Let|the Cre- a- tor's|praise a- rise;|Let|the Re- deem- er's|praise be sung Through|
+w: 2.~E~~~~~~-|ter- nal are thy|mer- cies, Lord; E-|ter- nal truth at-|tends thy word.|Thy|praise shall sound from|shore to shore Till|
+w: 3.~Your|lof- ty themes, ye|mor- tals bring, In|songs of praise di-|vine- ly sing;|The|great sal- va- tion|loud pro- claim, And|
+w: 4.~In~~~~~~|ev- 'ry land be-|gin the song; To|ev- 'ry land the|strains be- long;|In|cheer- ful sounds all|voi- ces raise, And|
+w: 5.~Praise|God from whom all|bless- ings flow; Praise|Him all crea- tures|here be- low;|Praise|Him a- bove, ye|heav'n- ly host; Praise|
+ B G A c | B A !fermata!G |] %10
+w: ev- 'ry land by|ev- 'ry tongue.|
+w: suns shall rise and|set no more.|
+w: shout for joy the|Sav- iour's name.|
+w: fill the world with|loud- est praise.|
+w: Fa- ther, Son and|Ho- ly Ghost.|
+

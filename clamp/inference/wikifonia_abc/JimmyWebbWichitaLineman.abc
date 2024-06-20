@@ -1,0 +1,28 @@
+X:1
+T:Wichita Lineman
+T:Wichita Lineman
+T:Words and Music by JIMMY WEBB
+T:
+C:Jimmy Webb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ z CFG BBAG ||"Bbmaj7" Ac- c6 |"F69" z2 FG BA F2 |"Gm7" C8 |"Dm" Fccc"Am" c2 cc | %5
+w: I am the line- man for the|coun- ty, _|And I drive the main|road|Search- in' in the sun for an-|
+"G" cd- d2 (=BG)GA- |"D" A8 | z AAA AAG^F |"C" (D2 E6) | z2 AA AAG^F |"G" (G/^F/D- D6) | %11
+w: oth- er _ o- * ver- load.|_|I hear you sing- in' in the|wires _|I can hear you thru the|whine, _ _ _|
+"Gm" z2 DD (3A2 G2 ^F2 |"D" (G<^F) D6 |"C" z2 z D EDDd- |"Bb" d8- |"Am7" d8 |"Bb" z8 | %17
+w: And the Wi- chi- ta|line- * man|is still on the line.|_|||
+"Gm7" z CFG BBAG |"Bbmaj7" (dA) c6 |"F69" z2 F<G (3B2 A2 F2 |"Gm7" C6 z F |"D" Fccc"Am" cccc | %22
+w: I know I need a small va-|ca- * tion,|But it don't look like|rain, And|if it snows that stretch down south will|
+"G" cd- d2 (=BG)GA- |"D" A8 | z2 AA AAG^F |"C" D2 E6 | z2 AA AAG^F |"G" (G/^F/D- D6) | %28
+w: nev- er _ stand _ the strain.|_|And I need you more than|want you,|And I want you for all|time, _ _ _|
+"Gm" z2 DD (3A2 G2 ^F2 |"D" (G<^F) D6 |"C" z2 z D EDDd- |"Bb" d8- |"Am7" d8 |"Bb" z8 |"Gm7" z8 |: %35
+w: And the Wi- chi- ta|line- * man|is still on the line|_||||
+"Bb" z8 |"C" z8 |"Bb" z8 |"C" z8 :| %39
+w: ||||
+

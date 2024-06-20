@@ -1,0 +1,28 @@
+X:1
+T:Dancing On A Dime
+T:Dancing On A Dime
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gmaj7" B, D E G | A3 B | d B A G |"C7" A3 G |"Gmaj7" F G F3/2 E/ | F G F3/2 E/ | %6
+w: Is- n't this sub-|lime? We're|dan- cing on a|dime. The|crowd- ed floor is|per- fect for a|
+"Bm7b5" D E D/ C E/- |"E7" E3 D |"A7" ^C/ E G/ B B |"Am7" B =C/C/-"D7" C2 | %10
+w: nice ro- man- tic time.|_ Oh,|how can I help but|hold you tight _|
+"Gmaj7" B,/ D F/ G A/A/- | A3 G |"A7" B,/ ^C E/ A A/A/- | A3 G |"Am7" A/B/G/A/- A2 | %15
+w: here in a warm em- brace?|_ There|is- n't an inch of space|_ for|be- ing dis- creet, _|
+"D7" F/G/E/F/- F2 |"Gmaj7" B, D E G | A3 B | d B A G |"C7" A3 G |"Gmaj7" F G F3/2 E/ | %21
+w: so I re- peat: _|Is- n't this sub-|lime? This|dan- cing on a|dime? We're|hand in glove, the|
+ F G F3/2 E/ |"Bm7b5" D E D/ C E/- |"E7" E3 D |"Am7" C/ E G/ c B |"F7" d/ c d/ c3/2 B/ | %26
+w: pic- ture of a|ro- mance in it's prime.|_ Now|dar- ling, I guess I|bet- ter con- fess for|
+"Gmaj7" A/ G A/ G F |"A7""Bbdim7" A3 G |"Bm7" B, D E G |1"Am7" d2"D7" B/_B/ (3A/_A/G/- | %30
+w: I knew it all the|time that|I'd be close to|you dan- cing on a dime.|
+"Gmaj7" G4- |"Am7" G2"D7" z2 :|2"Am7" d2"D7" B/_B/ (3A/_A/G/ |"Gmaj7" G4- | G2 z2 |] %35
+w: _||you dan- cing on a dime.|_||
+

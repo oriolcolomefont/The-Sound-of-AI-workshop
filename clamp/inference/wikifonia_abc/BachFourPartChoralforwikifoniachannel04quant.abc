@@ -1,0 +1,42 @@
+X:1
+T:Four Part Choralforwikifoniachannel04quant
+T:Bach Four Part Choralforwikifoniachannel04quant
+T:2
+T:3
+C:Bach ?
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble nm="Flute" snm="Fl."
+V:1
+ z16 | z8 z4 z d3- | d6 d2- d2>_e2 d-[de]d2- | d4 d_efe dcd-[de-] e2<d2- | d4 =ede2- e2de f4- | %5
+ f2>f2- f4- f^g-[^g=g-]g f2>_e2- | _e2 d4- dc d_edc- c_Bc-[B-c] | _B^G_BG =G2d_e dcd-[de] =e2f2- | %8
+ f z [f=g]g- g^g2=g- g2^f=f- f_ed-[de-] | _ed[d_e]e [de]2<.[cd]2 d2>e2 [de]dcd | %10
+ _e2c2 defg [ef]dc-[Bc-] c-[_B-c]BB- | _B z _B2 z2 z c- c_e z c edcc- | %12
+ c-[_Bc] z [A=B] [A_B] z [GA]B cB[cd]c [AB][_B=B] z c | d2 e6 _e2<f2 f4 | z2 z _e gfe z defe dced | %15
+ cd_ed c z dG A z _Bc z B z ^G | =Gd_B^G z F=G^G BcGG B[cd] z [d=e] | %17
+ [cd][de] z _e z eee z e z _B z cde | z d[cd]c d z d z [_efg] z e2 d2>e2- | %19
+ [_eg] z dc _Bcd[_efg] [de]A z c def[eg] | fg z ^g g z g_b [gb] z =g2 _ed z [c-_d=d] | %21
+ c_BA z B2>_b2- b4 b4- | _b z z _b ^g-[^g=g] z b- b^gb2 d'4- | d'2 z2 _e'2d'2 c'_b2^g =g2^g=g | %24
+ _b-[_ab]2<g2-[fg-][^fg]g- [f-g][^d-f]d=d- d2>=e2- | e^fg2 _b2<^g2 =g-[f-g]f2 cd_e2 | %26
+ =fg2f- fd_e2 =ef z _b- b2<g2 | z [g_a]g2 e z [d-e]d- [d_e]de[cd] e z [de]2 | %28
+ ^fd[^df]g fdfd =d z c z =a2>f2- | ^f2_e2 ^g2>=g2- g2<=f2 e2>d2- | d2 _e6- e2->[d-e]2 dede | %31
+ d4 c2>d2- d8 | e4- e2<f2- f6 ^g2 | =g2>f2- f2_e2- .ed z d c4 | f6 g z z g3 a z a2 | %35
+ _b2>b2- ba z a- a4 a4 | [cc']2>[cc']2- [cc']2c'-[cc'] c'_B2a A_b-[Gb]b | %37
+ [cc']2[dd'] z d' z d'd'- d'cgd f4- | %38
+ [ef]2f-[ef] [ef][e-f]2[ef]- [ef]2-<[efa]2- [efa]-[e-f-g-a]2.[efg] | f2>_e2- e2d2- d2 c6- | %40
+ c-[cd-]2d- d4- d2 _e6- | _e2-[ef]3-[d-ef]2d- d^c2<d2 z z2 | %42
+ z2 =c'-[_bc']- [b-c'].ba2- [ab]2 c'4 _e'2- | %43
+ [d'-_e']d'2-[c'd']- [c'-d']c'-[_bc']2- [bc']2<a2- a2<g2- | %44
+ g2<[_B_b]2- [Bb]2<[cc']2- [cc']2<[dd']2 [_e_e']4- | [_e_e']16- | %46
+ [_e_e']2- [ded'e']6- [ded'e']2->[dec'd'e']2- [d-e-c'-d'e'-]2[dec'd'-e']2 | %47
+ [d-_e-c'-d'-_e']2[d-e-c'-d'_e'-]3[dec'd'e']3- [dec'_d'=d'e']4- [dec'_d'=d'e']-[d-e-c'c'-_d'-=d'-e'-][dec'_d'=d'e']2 | %48
+ [d_eb=c'^c'd'_e']2->[deab=c'^c'd'e']2- [deab=c'^c'd'e']2->[de=a^ab=c'^c'd'e']2- [d-e-=a-^ab-=c'-^c'-d'-e'-]2>[de^g-=ab=c'^c'd'e']2 g2>_b2- | %49
+ _b2>_e'2- e'd'2=c'- c'2>d'2- d'2>d2- | d4- d-[dg]2-[dg_b]- [dgb]2-[d-gbc'-]2 [dc']4 | %51
+ [dc']4 a2g2- g2a2 _b4- | _b2>e2- e2>f2- fg2_e- e2<d2- | d2_e2 d4- de2d- d_Bd2- | %54
+ [d_e]2_b z d' z z _e' z d' z2 [fg] z a z | d z _e z d z z2 z4 A_B z2 | %56
+ D_ED z d z _ed z a_b z g z c' z | d' z z2 z2 f z a z d' z _e' z d' z | %58
+ z _e'd' z c'd'e' z d' z e' z d'4- | d'16- | d'8 ^c'4 _e'4- | _e'4- e'2<d'2- d'8- | d'16- | %63
+ d'4 z4 z4 z2 d' z | z d' z2 z4 z8 |] %65
+

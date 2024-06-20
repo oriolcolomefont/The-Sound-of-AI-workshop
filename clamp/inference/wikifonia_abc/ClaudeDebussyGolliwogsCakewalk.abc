@@ -1,0 +1,18 @@
+X:1
+T:Golliwog's Cakewalk
+C:Claude Debussy
+Z:Public Domain
+L:1/8
+M:2/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Fm7b5/Eb" B/AB/ FB | A/FE/ _CE |"Eb2" B,/B,C/ B,B | B,4[K:bass] |"Fm/Eb" B,/A,B,/ CA, | %5
+"Fm7b5/Eb" B,/A,B,/ _CA, |"^N.C." B,/G,F,/ E,D, | C,G,, C,D,[K:treble] |"Fm7b5/Eb" B/AB/ FB | %9
+ A/FE/ _CE |"Eb2" B,/B,C/ B,B | B,4 |"Gb2" B,/B,C/ B,_D | EF E_G |"F7" F/FG/ Fd |"Bb" B2 b z | %16
+"Ab/Bb" E/FG/ FE |"Bb7sus4" F4 |"Eb6/G" E/FG/ FE | FEFc[K:bass] |"Ab/Bb" B,,/C,D,/ C,B,, | %21
+ B,,/C,D,/ C,B,, |"Bb6" B,,/C,D,/ C,B,, |"^N.C." z/ B,,/C,/D,/ C,B,,[K:treble] |"Ab/Bb" E/FG/ FE | %25
+"Bb7" F4 |"Eb6" E/FG/ FE | FE Fc |"Fm7b5/B" b/ab/ fb | a/fe/ _c2 |"^N.C." z/ A/F/E/ _C[K:bass] G, | %31
+"Eb" E,,2 z2 |] %32
+

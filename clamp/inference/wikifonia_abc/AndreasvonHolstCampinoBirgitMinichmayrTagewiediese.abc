@@ -1,0 +1,35 @@
+X:1
+T:Tage wie diese
+T:Tage wie diese
+T:Die Toten Hosen
+C:Andreas von Holst
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" DD/(D/ D/)D/C C/CC/A,A,/A,/ | DD/(D/ D/)D/C (C/C)C/ A,/A,/A,/A,/ | %2
+w: ||
+"G" A,/B,/B,/(B,/ B,/)B,/B, B,/B,B,/ B,/A,/B,/A,/ | A,/B,/A,/(B,/ B,/)B,/A, z GGG | %4
+w: |* * * * * * * Ich wart' seit|
+"D" GF z2 z DGF | D2 z2 z DEF |"G" GG z2 G/F(D/D)E | D2 z2 z GGG |"Bm" GF z2 z EFE | %9
+w: Wo- chen auf die- sen|Tag, und tanz' vor|Freu- de ü- ber den * As-|phalt. Als wär's ein|Rhyth- mus, als gäb's ein|
+ D2 z2 z B,/D/EF |"G" GG z2 GFDE | D2 z2 z FFF |"C" FE z2 z G,EE/(E/ |"G" D2) z2 z G,DE/(F/ | %14
+w: Lied das mich im- mer|wei- ter durch die Stras- sen|zieht. Komm' dir ent-|ge- gen, dich ab- zu- hol'n|* wie aus- ge- macht.|
+"D" F2) z2 z4 | z2 FF F F2 (F |"C" F) E3 z =C E<E |"G" ED z2 z A,DE |"D" D2 z2 z4 | z4 z GGG | %20
+w: |Zu der sel- ben Uhr|* zeit, am sel- ben|Treff- punkt, wie letz- tes|mal.|Durch das Ge-|
+ G<F z2 z GGG | G<F z2 z DEF |"G" G2 z G GF/(D/D)E | D2 z2 z GGG |"Bm" GF z2 z F/F/GF | %25
+w: drän- ge, der Men- schen-|men- ge bah- nen wir|uns den alt- be- kann- ten *|Weg. Ent- lang der|Gas- sen, zu den Rhein- ter-|
+ GF z2 z DEF |"G" G<G z G GF/(D/D)E | D2 z2 z F F<F |"C" FE z2 z E E/E(E/ |"G" E)D z2 z G,DE/(F/ | %30
+w: ras- sen, ü- ber die|Brü- cken bis hin zu der * Mu-|sik, wo al- les|laut ist, wo al- le drauf|sind * um durch- zu- dreh'n|
+"D" F2) z2 z4 | z2 FF F F2 (F |"C" F) E3 z E/E/EE |"G" ED z2 z A,DE/(D/ |"D" D2) z2 z4 | %35
+w: |Wo die an- dern war-|ten * um mit uns zu|star- ten, und ab- zu- geh'n.||
+"^N.C." z2 A2 ddef- |"D" f d3 z4 | z2 dd e2 f2 |"G" g f2 d- d2 z2 | z2 d2 gfeg- |"Em" g f3 z4 | %41
+w: An Ta- gen wie die-|sen, *|wünscht man sich Un-|end- lich- keit. *|An Ta- gen wie die-|sen, *|
+ z2 ee e2 f2 |"G" e d2 d- d2 z2 | z2 dd e2 f2 |"D" e d2 d- d2 z2 |] %45
+w: ha- ben wir noch|e- wig Zeit, *|wünsch' ich mir Un-|end- lich- keit. *|
+

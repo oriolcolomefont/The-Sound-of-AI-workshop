@@ -1,0 +1,23 @@
+X:1
+T:Blue
+T:Blue
+T:(and broken hearted)
+T:Lou Handman
+T:Grant Clarke, Edgar Leslie
+C:Lou Hardman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" e4- | e d c G |"B7" B4 | A4 |"E7" c4- | c B ^G E |"Gm7" F4 |"A7" E4 |"Dm" z D E F |"F" A c2 A | %10
+w: Blue|_ be- cause were|part-|ed|blue|_ and brok- en|heart-|ed|there was a|time I was|
+"Fm" c4 |"G7" B4 |"C" z G A B |"Am" d B2 c |"D7" e2 d2 |"G7" e2"F7" _e2 |"C" e4- | e d c G | %18
+w: Jol-|ly|you know the|rea- son I'm|mel- an-|chol- y|Blue|_ and oh so|
+"B7" B4 | A4 |"E7" c4- | c B ^G E |"Gm7" F4 |"A7" E4 |"Dm" z D E F |"F" A c2"Fm" d |"C" ^d e B c | %27
+w: lone-|ly|true,|_ I want you|on-|ly|we made a|blun- der and|lots of times I|
+"Am" ^G A z c |"Fm" f4 |"G7" e4 |"C" c4- | c3 z |] %32
+w: won- der if|you're|blue|too.|_|
+

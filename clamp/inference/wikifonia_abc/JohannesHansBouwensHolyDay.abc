@@ -1,0 +1,36 @@
+X:1
+T:Holy Day
+T:HOLY DAY
+T:J.Bouwens
+T:J. Bouwens
+C:Johannes Hans Bouwens
+Z:All Rights Reserved
+L:1/4
+Q:1/4=184
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Eb""^Presto" e2 d2 |"F7" c2 f e |"Bb" d3/2 e/ d c | B A G z |"Eb" e2 d2 |"F7" c F G A | %6
+w: ||||||
+w: ||||||
+"Bb" B4-!fine! | B"^NC" A/G/ F/E/D/C/ | B,4- | B,4 ||"Bb" d e d c | c B B2 |"Eb" B c B A | A G G2 | %14
+w: ||||Take a po- ny|and I'll go,|to bet- ter land|I know, loo-|
+w: ||||Wa- ter is there|clean and clear,|You can live there|with- out fear.|
+"Bb" F F B c | d2 B2 |"F7" c4- | c3 z/ d/ |"Bb" d e d c | c B B2 |"Eb" B c B A | A G G2 | %22
+w: king for a place|to stay||. *|fish- ing on the|ri- ver- side,|sun is shi- ning|warm and bright,|
+w: Peo- ple try to|un- der-|stand.|_ For-|get your trou- bles|and your pain,|some- day you will|stand a- gain.|
+"Bb" F F B c |"F7" d2 c2 |"Bb" B z d2 | d2 B2 ||S"F7" c4- | c d d B |"Bb" c B B2- | B d d B | %30
+w: Yes this is a|Ho- ly|day OH|HO- LY|DAY|_ oh Ho- ly|Ho- ly Day|_ This is my|
+w: Yed this is a|Ho- ly|day *||||||
+"F7" c c c c | c2 B2 |"Bb" d4- | d d d B |"F7" c4- | c d d B |"Bb" c B B2- | B B c d | %38
+w: Ho- ly Ho- ly|Ho- ly|Day|_ Oh Ho- ly|Day,|_ oh Ho- ly|Ho- ly Day:|_ This is my|
+w: ||||||||
+"Eb" e e e f!dacoda! |"F7" d2 c2 |"Bb" B4- |1 B B c d :|2"Bb" B z d2 | d2 d z | d2 B2!D.S.! || %45
+w: Ho- ly Ho- ly|Ho- ly|Day|_ _ _ _|Day, Oh|Ho- ly|Ho- ly|
+w: |||||||
+O"F7" d2 c2 |"Bb" B4- | B B c d!D.C.! |] %48
+w: Ho- ly|Day|_ _ _ _|
+w: |||
+

@@ -1,0 +1,21 @@
+X:1
+T:Alabama Waltz
+T:Alabama Waltz
+T:Hank Williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 EF |"C" G4 G2 | E2 C2 GG |"F" A2 c2 cc | A2 F3 A |"C" A2 G3 G | E2 C3 D | E6 |"G7" D4 E2 | %9
+w: I was|sad and|blue * I was|down * heart- ed|too * It|seemed like the|whole world was|lost|* then|
+"C" G4 GG | E2 C2 GG |"F" A2 c3 A | F4 Ac |"C" G2 G3 E |"G7" D3 C ED |"C" C6- |"C7" C6 |"F" A6 | %18
+w: I took a|chance * and we|hap- pened to|dance to the|tune of the|Al- a- bam- a|waltz||waltz|
+ c4 A2 |"C" G3 G GA | E2 C4 |"D7" D2 ^F2 G2 | A4 A2 |"G7" B2 d3 B | G6 |"C" G4 GG | E2 C2 G2 | %27
+w: waltz the|Al- a- bam- a|waltz *|there all my|fears and|cares * were|lost|there in your|arms * with|
+"F" A2 c2 dc | A4 c2 |"C" G4 E2 |"G7" D3 C ED |"C" C6- | C4 z2 |] %33
+w: all * of your|charms we|danced the|Al- a- bam- a|waltz||
+

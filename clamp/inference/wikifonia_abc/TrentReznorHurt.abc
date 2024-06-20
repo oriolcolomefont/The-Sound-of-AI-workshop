@@ -1,0 +1,38 @@
+X:1
+T:Hurt
+C:Trent Reznor
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+V:1
+"Am" z4 z4 |:"C" z4"D9" z4 |"Am" z4 z4 |"C" z4"D9" z4 |"Am" z4 z2 E2 ||"C" G E2"D9" D2C E2- | %6
+w: ||||I|hurt my- self to- day|
+w: ||||I|wear this crown of thorns|
+"Am" E6-EA, |"C" C2 CD-"D9" D2 CE- |"Am" E6zE |"C" G E3-"D9" EDCE- |"Am" E4z2zA, | %11
+w: _ _ to|see if I _ still feel|_ I|fo- cus _ on the pain|_ the|
+w: |on my li- _ ars chair|_|Full of _ bro- ken thoughts|_|
+"C" C2 A,D-"D9" D2>G,2 |"Am" A,6 E2 |"C" G E3-"D9" E2 DC |"Am" E4z2zA, |"C" C2 A,D-"D9" D2 A,E- | %16
+w: on- ly thing _ that's|real The|need- le _ tears a|hole the|old fa- mi- _ liar pain|
+w: I can- not _ re-|pair Be-|neath the _ stain of|time the|fee- lings dis- _ app- ear|
+"Am" E6EE |"C" GEz2"D9"zD CE- |"Am" E4zA, CA, |"C" CA,- A,2"D9" D2 G,G,- |"G" G,4 z4 || %21
+w: _ Try to|kill it all a- way|_ but I re-|mem- ber _ e- v'ry thing|_|
+w: _ _ _|You are some- one else|_|I am _ still right here|_|
+"Am7" G E2E- E2 CC- |"F9" C8 |"C" z2 E2 D2 CD- |"G" D8 |"Am7" G E2E- E2 CC- |"F9" C4 C2 A,C- | %27
+w: What have I _ be- come,|_|my sweet- est friend|_|Ev'- ry- one _ I know|_ goes a- way|
+w: ||||||
+"C" C4 E2 CG,- |"G" G,6-G,D |"Am7" D2 CE- E2 CC- |"F9" C8 |"C" D2 E2 D2 G,G, |"G" z6 z2 | %33
+w: _ in the end|_ _ And|you could have _ it all|_|My em- pire of durt||
+w: ||||||
+"Am7" D2 C E2 C2C- |"F9" C8 |1"G" D2 C E2 G,2A,- |"Am" A,2 z2 z4 :|2"G" D2 C E2 G,2G,- || %38
+w: I will let you down|_|I will make you hurt||I will make you hurt|
+w: |||||
+ G,2z2z2zD |"Am7" D C2E- E2 CC- |"F9" C4z2zD |"G" D E2 D2 G,2G,- | G,4 z4 |"Am7" D C2 E2 C2C- | %44
+w: * If|I could start _ a- gain|_ a|mill- ion miles a- way|_|I would keep my- self|
+w: ||||||
+"F9" C4 z4 |"G" D C2 E2 G,2A,- | !fermata!A,8 |] %47
+w: _|I would find a way||
+w: |||
+

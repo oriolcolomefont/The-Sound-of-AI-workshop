@@ -1,0 +1,27 @@
+X:1
+T:Funny girl
+T:Funny girl
+T:from Funny girl
+T:Julie Styne
+T:Bob Merill
+C:Julie Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" D2 E6 | z E2 D E2 D2 |"Gm" E2 F6 | z F2 E F2 E2 |"F" F2 G6 | z G2 F G2 F2 |"G7" A8- | %7
+w: Fun- ny|did ya hear that?|Fun- ny!|yes the guy said|Hon- ey|you're a fun- ny|girl|
+ A2 ^GA- A^G A2 |"C7" G2 A4 C2 | G2 A6 | c3 A A2 A2- | A8 |"F" z FGF GF G2 | GGFG- G2 F2 | %14
+w: * thats me * I just|keep them in|stitch- es|dou- bled in half||and tho I may be all|wrong for the guy * I'm|
+"Gm" A3 D D2 D2- |"C7" D2 ^GA- A^G A2 |"F" D2 E6 | z E2 D E2 D2 |"Gm" E2 F6 | z F2 E F2 E2 | %20
+w: good for a laugh|* I guess * its not|fun- ny|life is far from|sun- ny|when the laugh is|
+"F" F2 G6 | z G2 F G2 F2 |"Gm" c8- |"D7" c6 c2 |"Gm" _B2 DD ^CD^CD |"Bbm" c2 _B4 _B2 | %26
+w: o- ver|and the joke's on|you|* a|girl ought to have a sense of|hu- mour thats|
+"F" _B A2 C B,CFA | ^c4"G7" z ded |"C" c4 A4 |"G7" F3 D FDFA |"C7" c4"F7" A4 |"Bb" F4 FDFA | %32
+w: one thing you real- ly need for|sure when you're a|fun- ny|girl the fel- low said a|fun- ny-|girl fun- ny how it|
+"F" c4 e4 |"C7" cA- A2 AD- D2 |"F" F8- | F2 z2 z4 |] %36
+w: aint so|fun- ny * fun- ny *|girl.||
+

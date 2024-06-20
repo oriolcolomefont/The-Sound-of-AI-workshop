@@ -1,0 +1,26 @@
+X:1
+T:Melodie D'Amour
+T:Melodie D'Amour
+T:Henri Salvador
+T:Leo Johns
+C:Henri Salvador
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F/ F E/- E"F7" _E |"Bb" D4 |"C7" E F/G/- G/F/ E |"F" D C3 | A F C/ =B, _B,/- |"Gm7" B,4 | %6
+w: Mel- o- die * d'A|mour|take this song * to my|lov- er|shoo shoo lit- tle bird||
+"C7" G E C/ B, A,/- |"F" A,4 | F/ F E/- E"F7" _E |"Bb" D4 |"C7" E F G/-G/F/E/ |"F" D C3 | %12
+w: go and find my love||Mel- o- die * d'A-|mour|se- re- nade * at his|win- dow|
+ A F C/"Db7" _D =D/- |"Gm7" D4 |"C7" B G E/ E"^to" F/- |"F" F3"^interlude" F ||"^fine" F4 || %17
+w: shoo shoo lit- tle bird||sing my song of love|* Oh||
+"F" F F F/ F F/- | F4 | F F G/ F E/- |"C7" E4 | G G G/ G G/- | G4 | G G A/ G F/- |"F" F3 F | %25
+w: tell him I will wait||if he names the date||tell him that I care||more than I can bear|* for|
+ F F F/ F F/- | F4 | F F"Cm7" G/ A"F7" B/- |"Bb" B4 | z d B B |"F" A/ c A/- A2 |"C7" z G B G | %32
+w: when we are a- part||how it hurts my heart||so fly oh|fly a- way *|and say I|
+"F" F/ F"F7" c/- c2 |"Bb" z d B B |"F" A/ c A/- A2 |"C7" z G B G |"F" F/ F F/- F F |] %37
+w: hope and pray *|this lov- ers|mel- o- dy *|will bring him|back to me * oh|
+

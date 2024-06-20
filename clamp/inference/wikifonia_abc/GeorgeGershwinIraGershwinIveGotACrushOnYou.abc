@@ -1,0 +1,24 @@
+X:1
+T:I've Got A Crush On You
+T:I've Got A Crush On You
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z3/2 F<G^G/ |"Dm7" A2 c>A-"Dbdim" A4 |"Cm7" G B2 d-"F13b9" d4 |"Dm7" A>Ac>c"Dbdim" A A3 | %4
+w: I've got a|crush on you, *|sweet- ie pie, *|all the day and night- time|
+"Cm7" G B2 d-"F13b9" d3 c |"Bb" f2 d>c-"Gm7" c>B d2 |"C9" A3 G- G>cd>c |"Gm7" A3 G-"C9" G>cd>c | %8
+w: hear me sigh. * I|nev- er had * the least|no- tion * that I could|fall with * so much e-|
+"Cm7" d3 c-"F9""Ebdim" c4 |"Dm7" A2 c>A-"Dbdim" A4 |"Cm7" G B2"F13b9" d- d4 | %11
+w: mo- tion. *|Could you coo? *|Could you care? *|
+"Dm7" A>Ac>c"Dbdim" A A3 |"Cm7" G B2 e-"Cm7b5" e3 d |"Bb/F" f2 d>c"Gm7" c>B d2 |"C13" A6 z2 | %15
+w: for a cun- ning cot- tage|we could share? * The|world will par- * don my|mush|
+"Bb/F" D2"Dm7" F2"Gm7" G2 B2 |"C9" d2 ^c>d-"F13" d>^c d2 |"Bb""Eb""Edim" B8- | %18
+w: 'cause I've got a|crush my bab- * y on|you.|
+"Bb/F""F7b5" B6"Bb" z2 |] %19
+w: |
+

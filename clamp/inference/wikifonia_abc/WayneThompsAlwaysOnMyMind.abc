@@ -1,0 +1,19 @@
+X:1
+T:Always On My Mind
+C:Wayne Thomps
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+V:1
+"G" z2 Bc d3 c/B/ |"D" BA"D#dim" A6 |"G" z2 GA"G/D" B A2 G/F/ |"C" F E3"D" z4 |"G" z2 Bc d3 c/B/ | %5
+"D" BA"D#dim" A6 |"G" z2 GA"G/D" B A2 G/F/ |"A/C#" z G/F/ E6 |"C" z2 cd e e2 d/c/ | %9
+"G/B" d G2 G"C" B4 | z2 z A/B/"G/B" c B2 A/G/ |"Am" BG A2"C/G" G2"C/E" z2 | %12
+"D" z2 AA B"G/D"B"D7"cc |"G" d8 |"C" z2 AA"D7" cc BB/OA/ |"G" G4"C" z4 :|"G" d4-"D/F#" d3 e/G/ | %17
+"Em" G4"G/D" z4 | c"C"BAG c"G/B"B GA/G/ | B/"Am"G/ A2 B/A/"Am/D" GE D2 |"G" d4"D/F#" d3 e/d/ | %21
+"Em" G4"G/D" z2 Ac | c"C"B A>G c"G/B"B AG | B/"Am"G/ A3"D7" d3 B/G/ | z G/A/"Cm/Bb" G6 ||O"G" G8 | %26
+"Em" z8 |"C" z8 |"Am" z2 AA"D7" ccBB |"G" G8- | G6"^D.C. al Coda" z2 |] %31
+

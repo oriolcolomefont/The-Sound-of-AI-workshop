@@ -1,0 +1,15 @@
+X:1
+T:The Pink Panther Theme (Clarinet)
+T:The Pink Panther Theme (Clarinet)
+C:Someone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="B Clarinet"
+%%MIDI program 71
+V:1
+ _A, =A,2 z2 B, C2 | z2 _A,=A, z B,C z | =FE z A, C z E(_E | _E4) DCA,G, | A,8 | %5
+ _A, =A,2 z2 B, C2 | z2 _A,=A, z B,C z | =FE z A, C z A_A- | _A8- | _A7 =A | z G=F z ED z C | %11
+ E _E2 z =E _E2 z |] %12
+

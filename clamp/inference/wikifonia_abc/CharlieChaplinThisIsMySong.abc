@@ -1,0 +1,30 @@
+X:1
+T:This Is My Song
+T:This Is My Song
+C:Charlie Chaplin
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" GEG A2 B |"C6" A6 |"C" GEG A2 B |"Dm7" A6 | AFA"G7" B2 c | B3- B2 A/B/ | %6
+w: Why is my heart so|light?|Why are the stars so|bright?|Why is the sky so|blue _ since the|
+w: Flow- ers are smil- ing|bright.|Smil- ing for our de-|lght.|Smil- ing so ten- der-|ly, _ for the|
+"Dm7" A3-"G7" A2 G/A/ |1"C" G6 :|2"C" G3- G2 c || ccc c2 B |"G9" (3B/c/B/ A3- A2 |"G7" ABB A2 B | %12
+w: hour _ I met|you.||know why the world is|smil- * * ing, _|smil- ing so ten- der-|
+w: world, _ you and||me. _ I||||
+"C" G3- G2 G |"A7" A2 A G2 A |"Dm" (3G/A/G/ F2- F3 |"Dm7" DEF A2 G |"C" B6- | B6 || %18
+w: ly. _ It|hears the same old|sto- * * ry *|thru all e- ter- ni-|ty.|_|
+w: ||||||
+"C" c3- c>Bc/d/ |"Cmaj7" B3- B>AB/c/ | A2 G (4:3:4AGAE |"G7" F3- F2 G |"G7" A3- A>GA/B/ | %23
+w: Love _ this is my|song, _ Here is a|song, a ser- e- nade to|you. _ The|world _ can- not be|
+w: |||||
+"Dm" A3- A>GA/B/ |"G7" G3- G2 A |"C" G3- G2 G | d>Bc/B/ A2 G |"Dm" F3-"G7" F2 G | B>GA/F/ G2 D | %29
+w: wrong _ if in this|world _ there's|you. _ I|care not what the world may|say _ with-|out your love there is no|
+w: ||||||
+"C" (F E2- E3) | c3- c>Bc/d/ | B3- B>AB/c/ |"Dm7" A2 G A/G/A(d/c/) |"C" c6 |] %34
+w: day. _ _|Love _ this is my|song _ here is a|song, a ser- e- nade to _|you.|
+w: |||||
+

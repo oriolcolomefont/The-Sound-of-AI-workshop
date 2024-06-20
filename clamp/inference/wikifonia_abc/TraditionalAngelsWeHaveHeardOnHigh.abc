@@ -1,0 +1,25 @@
+X:1
+T:Angels We Have Heard On High
+T:Angels We Have Heard On High
+T:Traditional
+C:Traditional
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" A2 A2 A2 c2 |"C7" c3 B"F" A4 | A2 G2 A2 c2 |"C7" A3 G"F" F4 | A2 A2 A2 c2 |"C7" c3 B"F" A4 | %6
+w: An\- gels, we have|heard on high,|Sweet\- ly sing\- ing|o'er the plains.|And the moun\- tains|in re\- ply,|
+w: Shep\- ards why this|ju\- bi- lee?|Why your joy\- ous|strains pro- long|What the glad\- some|tid\- ings be,|
+ A2 G2 A2 c2 |"C7" A3 G"F" F4 | c4"D7" dcBA |"Gm" B4"C7" cBAG |"F" A4"Bb" BAGF |"C7" G3 C C4 | %12
+w: Which in- spire your|joy- ous strains,|"Glo\- * * * *|||* ri\- a,|
+w: E- cho\- ing their|heaven- ly song?"|||||
+"F" F2 G2 A2 B2 |"F" A4"C7" G4 |"F" c4"D7" dcBA |"Gm" B4"C7" cBAG |"F" A4"Bb" BAGF |"C7" G3 C C4 | %18
+w: In ex\- cel\- sis|De\- o,|Glo- * * * *|||* ri\- a,|
+w: ||||||
+"F" F2 G2 A2"Bb" B2 |"F" A4"C7" G4 |"F" F8- | F8 |] %22
+w: In ex\- cel\- sis|De\- *|o."||
+w: ||||
+

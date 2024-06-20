@@ -1,0 +1,37 @@
+X:1
+T:All Through the Night
+T:all through the night
+T:Cole Porter
+T:chart by zack@zackdanziger.com
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cmaj7" E4- |"F#m7" E2"Fm7" _E D |"Em7" D4- |"Gm7" D2"C7b9" _D C |"Fmaj7" C4- | %5
+w: All|_ thru the|night|_ I de-|light|
+"Fm7" C2"Bb7b9" B, _B, |"Ebmaj7" _B,4- | B,3 z |"Ebm7" _B,4- |"Ab9" B,2 A, _A, |"Dbmaj7" _A,4- | %11
+w: _ in your|love|_|All|_ thru the|night|
+"G7b9" A,2 G, _A, |"C6" A,3/2 E/ E2- |"A7" E4- |"Dm7" E z z2 |"G7" z2 z2 |"Cmaj7" E4- | %17
+w: _ you're so|close to me|_|||All|
+"F#m7" E2"Fm7" _E D |"Em7" D4- |"Gm7" D2"C7b9" _D C |"Fmaj7" C4- |"Fm7" C2"Bb7b9" B,3/2 _B,/ | %22
+w: _ thru the|night|_ from a|height|_ far a-|
+"Ebmaj7" _B,4- | B,4 |"Bmaj7" _B,4- | B,2 A, _A, |"Bb7" _A,4- | A,2 G, _G, | %28
+w: bove|_|You|_ and your|love|_ bring me|
+"Ebmaj7" G,3/2 G,/ G,2- | G,4 |"Fm6" z2 z2 |"G7#5" z2 z2 |"Cm" z2 G2 | _B2 A _A |"Dm7b5" _A3 G | %35
+w: ec- sta- sy.|_|||When|dawn come to|wak- en|
+"G7" G4- |"Bbm7" G G _B A |"Eb7" _A2 G2 |"Ab" F4- | F2 z2 |"Fm7" z2 F2 |"Bb7" _A2 G F | %42
+w: me,|_ You're ne- ver|there at|all|_|I|know you've for-|
+"Eb" F2-"Ebmaj7/D" F- F/_E/ |"Cm" _E4-"Cm7/Bb" |"Abmaj7" E2"Abmaj7/G" _E E |"D7b9/F#" _E3 D | %46
+w: sak- * * en|me,|_ 'til the|sha- dows|
+"Gmaj7" D4- |"G7" D3 G, |"Cmaj7" E4- |"F#m7" E2"Fm7" _E D |"Em7" D4- |"Gm7" D2"C7b9" _D C | %52
+w: fall|_ But|then|_ once a-|gain|_ I can|
+"Fmaj7" C4- | C2 B, C |"Fm7" _A4- | A2 G _A |"C6" A4 |"B7" ^D2"E7" E2 |"Dm7" A4 |"G7b9" _A3 G | %60
+w: dream|_ I've the|right.|_ To be|close|to you|all|thru the|
+"Cmaj7" G2- G2 |"Cm7" x4 |"Cmaj7" x4 |"Cm7" x4 |] %64
+w: night _||||
+

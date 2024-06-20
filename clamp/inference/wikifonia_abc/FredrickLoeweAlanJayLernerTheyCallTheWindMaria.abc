@@ -1,0 +1,38 @@
+X:1
+T:They Call The Wind Maria
+T:They Call The Wind Maria
+T:Fredrick Loewe
+T:Alan Jay Lerner
+C:Fredrick Loewe
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ C |:"F" F A A3/2 ^G/ |"Dm" A F F z/ C/ |"F" F A A ^G | A F z z/ C/ |"Dm" F A A3/2 ^G/ | %6
+w: A-|way out here they|have a name for|rain and wind and|fi- re. The|rain is Tess, the|
+w: |fore I knew Ma-|ri- a's name, and|heard her wail and|whin- in', I|had a gal, and|
+w: |here they have a|name for rain, for|wind and fi- re|on- ly. But|when you're lost and|
+"Am" A c c A/c/ |"Gm" d c"C7" A G |"F" A A3- | A z"C7" z z/ C/ |"F" F A A3/2 ^G/ | %11
+w: fire is Joe, and they|call the wind Ma-|ri- a.|* Ma-|ri- a blows the|
+w: she had me, and the|sun was al- ways|shin- in'.|* But|then one day I|
+w: all a- lone, the- re|ain't no name for|lone- ly.|* And|I'm a lost and|
+"Dm" A F F3/2 C/ |"F" F A A ^G | A c z z/ c/ |"Dm" d A A3/2 d/ |"Am" c A A3/2 c/ | %16
+w: stars a- round, and|sends the clouds a-|fly- in.' Ma-|ri- a makes the|moun- tain sound like|
+w: left my gal, I|left her far be-|hind me. And|now I'm lost, so|gol- darn lost, not|
+w: lone- ly man with-|out a star to|guide me. Ma-|ri- a blow my|love to me, I|
+"Gm" d c"C7" A G |"F" A F z2 | z2 z z/ c/ ||"Dm" d A3- | A z z z/ d/ |"Am" c A3- | A z z z/ c/ | %23
+w: folks were up there|dy- in.'|Ma-|ri- a!|* Ma|ri- a!|* They|
+w: e- ven God can|find me.||||||
+w: need my gal be-|side me.||||||
+"Gm" d2 c2 |"C7" A2 G2 |1"F" A A3- || A z z z/ C/ :|2"F""F" A A3- || A z z z/ C/ :|3"F" A A3- || %30
+w: call the|wind Ma-|ri- a!|* Be-|ri- a!|* Out|ri- a!-|
+w: |||||||
+w: |||||||
+ A4 |] %31
+w: |
+w: |
+w: |
+

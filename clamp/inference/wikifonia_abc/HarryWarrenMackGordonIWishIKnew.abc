@@ -1,0 +1,30 @@
+X:1
+T:I Wish I Knew
+T:I Wish I Knew
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z3/2"E7b9" B/ |"Am7" d/c/B/A/"D9" B/A/F/E/ |"Gmaj7" D D-"E7b9" D/D/=F/E/ | %3
+w: Is|this the night I've wait- ed oh so|long for? _ Is this my|
+"Am7" C2-"D9sus4" C/E/"D7b9"B/A/ |"Gmaj7" D3"E7b9" z/ B/ |"Am7" d/c/B/A/"D9" B/A/F/E/ | %6
+w: dream _ at last come|true? Are|you the one my heart has saved it's|
+"Gmaj7" D D-"F#+7" D/E/"F#7"F/^C/ |"Bm7" D2-"Em7" D/F/"A7"A/E/ |"Am7" A3"D7" z |:"Am9" z B B A | %10
+w: song for? _ How can I|tell? _ I wish I|knew.|I wish I|
+"D13" B3 A |"Am9" B A d B |"D7sus4" E"D7b9" A3 |"Gmaj7" z A A G |"C13#11" A3 G |"Gmaj9" A G d B | %16
+w: knew some-|one like you could|love me.|I wish I|knew you|placed no one a-|
+"Bm7" D"E9" F3 |"Am7" z E d c |"D9" B A F E |"Gmaj7" ^C3 D |"G6" G4 |"Em7" z G e B | %22
+w: bove me.|Did I mis-|take this for a|real ro-|mance?|I wish I|
+"A9sus4" A G"A9" ^D E |"D9" F2"C6" G2 |"Bm7" A2"E7b9" _B2 |"Am9" z B B A |"D13" B3 A | %27
+w: knew, but on- ly|you can|an- swer.|If you don't|care, Why|
+"Am9" B A d B |"D7sus4" E"D7b9" A3 |"Gmaj7" z A A G |"C13#11" A3 G |"Gmaj9" A G d B | %32
+w: let me hope and|pray so.|Don't lead me|on, If|I'm a fool just|
+"Bm7" D"E9" F3 |"Am7" z E d c |"D9sus4" B A"D7b9" G F |"Bm7b5" e2 d2 |"E7b9" c2"E7b9" B2 | %37
+w: say so.|Should I keep|dream- ing on, or|just for-|get you.|
+"Am9" z B B A |"D9sus4" d c"D7b9" A B |1"G6""C9" G4 ||"Bm7" z2"E7b9" z2 :|2"G6" G4 |] %42
+w: What shall I|do? I wish I|knew||knew.|
+

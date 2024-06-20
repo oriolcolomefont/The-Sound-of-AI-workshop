@@ -1,0 +1,26 @@
+X:1
+T:I'd Climb The Highest Mountain
+T:I'd Climb The Highest Mountain 
+T:Sidney Clare
+T:Lew Brown 
+C:Sidney Clare
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B |"Eb" E3/2 F/ E F |"Eb7" G E2 G/B/ |"Ab" e d f e |"C7" d c B A |"F7" G4 |"Bb" F4 | %7
+w: I'D|CLIMB THE HIGH- EST|MOU- NTAIN if I|knew that when I|climbed that mou- ntain|I'd|find|
+"Eb""Edim" B4 |"^Fmin" z2"Bb7" z B |"Eb" E3/2 F/ E F |"Eb7" G E2 G/B/ |"Ab" e d f e |"C7" d c B A | %13
+w: you.|I'd|swim the dee- pest|ri- ver if I|knew that when I|swam that ri- ver|
+"F7" G4 |"Bb7" B4 |"Eb""Ab" e4 |"Eb" z A c e |"Ab" f3 e | f3 c |"Eb" e d c B | z E G B |"C7" c3 B | %22
+w: I'd|find|you.|With- out you|dear my|life means|no- thing to me|no ma- tter|where you|
+ c3 G |"Fm" A B G A |"Bb7""Bbm7#5" F2 z B |"Eb" E3/2 F/ E F |"Eb7" G E2 G/B/ |"Ab" e d f e | %28
+w: are that's|where I want to|be. I'd|pray to get to|hea- ven 'cuz I|know that if I|
+"C7" d c B A |"F7" G4 |"Bb" B4 |"Eb""Ab" e4 |"Eb" z4 |] %33
+w: got to hea- ven|I'd|find|you.||
+

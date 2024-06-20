@@ -1,0 +1,25 @@
+X:1
+T:Scatter-Brain
+T:Scatter-Brain
+T:Johnny Burke,Keene-Bean & Frankie Masters
+C:Johnny Burke,Keene-Bean & Frankie Masters
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 B>c |"Eb" d>eB>G"Eb/G" E>B,E>G |"Ab" =B>cA>F"Fm" C4 |"Eb/Bb" =A>BG>E"Bb7" _A>FD>B, | %4
+w: You're as|pleas- ant as the morn- ing and re-|fresh- ing as the rain.|Is- n't it a pit- y that you're|
+"Eb" E>B,E>G"Bb7" B z B>c |"Eb" d>eB>G"Eb/G" E>B,E>G |"Ab" =B>cA>F"Fm" C4 | %7
+w: such a Scat- ter brain. When you|smile it's so de- light- ful, when you|talk it's so in- sane,|
+"Eb/Bb" =A>BG>E"Bb7" _A>FD>B, |"Eb" E4 z3/2 B<=AB/ |"Bb7" f>dB>=A _A>FD>B, |"Eb" E>B,E>G B>B=A>B | %11
+w: still it's charm- ing chat- ter Scat- ter|Brain I know I'll|end up ap- o- plec- tic but there's|no- thing I can do. It's just the|
+"Bb7" f>dB>=A _A>FD>B, |"Eb" G4 z3/2 B<=AB/ |"Bb7" f>dB>=A _A>FD>B, |"Eb" E>B,E>G B4 | %15
+w: same as be- ing in a hur- ri-|cane, and though my|life will be too hec- tic, there is|no- thing I can do,|
+"Ab" =B>cA>F"Eb" _B>GE>C |"Bb7" A>FD>B,"Eb" E2 z2 |] %17
+w: no- thing else can mat- ter you're my|darl- ing Scat- ter Brain.|
+

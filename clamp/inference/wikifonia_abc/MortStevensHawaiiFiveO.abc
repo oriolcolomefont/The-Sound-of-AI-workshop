@@ -1,0 +1,17 @@
+X:1
+T:Hawaii Five-O
+T:Hawaii-5-O
+C:Mort Stevens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^N.C." z z GG B d2 c- ||"Cm" c3 G- G4 |"Bb" z2 GG F B2 G- |"Cm" G8 |"Eb" z2 GG B d2 c- | %5
+"Cm" c3 g- g4 |"Bb" z2 ff d B2 g- |"Eb" g8- |"G7" g8 |"Cm" z2 b2 gfec | efec- c4 | %11
+"F7" z2 c'2 =agfd |"Ab" cBA"Bb"B- Bc d2 |"Cm" c3 g- g4 |"Bb" z2 ff d B2 c- |"Cm" c8- | c4 c'2 z2 |] %17
+

@@ -1,0 +1,31 @@
+X:1
+T:You Needed Me
+T:You needed me
+T:Randolph Goodrum
+C:Randy Goodrum
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z CCc |"F" c4 z CCc |"Gm7" _B4 z CC_B |"C7" _B4 z CC_B |"F" A4 z CCc |"F7" c4 z FF_e | %6
+w: I cried a|tear you wiped it|dry I was con-|fused you cleared my|mind I sold my|soul you brought it|
+"Bb" _ed d2 z FFd |"G7" d4 z GGf |"C" fe e2 z ddd | dc c2"C7" z CCc |"F" c4 z CCc | %11
+w: back to me and held me|up and gave me|dig- ni- ty some- how you|need- ed me you gave me|strength to stand a-|
+"Gm7" c_B _B2 z CC_B |"C7" _B4 z CC_B |"F" _BA A2 z CCc |"F7" c4 z FF_e |"Bb" _ed d4 z e | %16
+w: lone a- gain to face the|world out on my|own a- gain- you put me|high up- on a|pe- des- tal so|
+"F" fccA AGGF |"G7" AG G4 z A |"C7" AG G4 z G |"F" GF F2 z2 AA |"Dm" ddef"F" edAF | %21
+w: high that I can al- most see e-|ter- ni- ty you|need- ed me you|need- ed me and I|can't be- lieve its you I cant be-|
+"Bb" GA F2"F" z2 A2 |"Gm7" GF F2"Bb" z Fdc |"F" cA-"A" A4 AA |"Dm" ddef"F" edAF | %25
+w: lieve its true I|need- ed you and you were|there * * and I'll|nev- er leave why should I leave I'd|
+"Bb" GA F2"F" z2 FG |"G" AGGG AAdc |"C" c8- |"C7" c2 z2 z CCc |"F" c4 z CCc |"Gm7" _B4 z CC_B | %31
+w: be a fool cause I've|fina- 'ly found some- one who real- ly|cares|* you held my|hand when it was|cold, when I was|
+"C7" _B4 z CC_B |"F" A4 z CCc |"F7" c4 z FF_e |"Bb" _ed d2 z FFd |"G7" d4 z GGf |"C" fe e2 z ddd | %37
+w: lost you took me|home you gave me|hope when I was|at the end and turned my|lies back in to|truth a gain you ev- en|
+"^D.S.alCoda" dc c2"^Play" z"^to" CCc |:"^Coda" AG G4 z G | %39
+w: called me friend. you gave me|need- ed me you|
+"^Returnto" GF"^Repeatand" F2"^fade" z2 A2 :| %40
+w: need- ed me you|
+

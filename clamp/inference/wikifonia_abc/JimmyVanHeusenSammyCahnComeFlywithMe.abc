@@ -1,0 +1,55 @@
+X:1
+T:Come Fly with Me
+T: 
+T:Jimmy Van Heusen
+T: 
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ G |:S"C" d/ c c/-"C6" c G/d/- |"Em7" d c/d/-"Ebdim7" d c/F/- |"Dm7" [Fd] ^c =c z/{^A} B/- | %4
+w: Come|fly with me! _ Let's fly|_ Let's fly _ a- way!|_ _ _|
+w: |fly with me! _ Let's float|_ down to _ Pe- ru!|_ _ _|
+w: |Weath- er- wise, _ It's such|_ a love- * ly- day!|_ _ _|
+"G7" B/>d/ _B A G |"C" B/ A A/-"C6" A/ B _B/ |"Gm7" A/ G G/-"C7" G/ A _A/ |"F" G z/ F/ c c | %8
+w: * * * * If|you can use _ some ex-|ot- ic booze _ there's a|bar in far Bom-|
+w: * * * * In|Lla- ma Land _ there's a|one- man band _ & he'll|toot his flute for|
+w: * * * * Just|say the words _ & we'll|beat the birds _ down to|A- ca- pul- co|
+"Bb9" c3 CO ||"C" E G/C/-"C6" C D/_E/- ||1"F7" E G/C/-"G7sus4" C D/=E/- | %11
+w: bay. Come|fly with me! _ Let's fly|* Let's fly _ a- way!|
+w: you. Come|fly with me! _ Let's take||
+w: Bay. It's|||
+"E7#5" [E-c] B"A7b9" _B z/{^G} A/- |"D9" A/c/ _A"G7" G G :|2"F7" _E G/C/-"Gsus4" C D/C/- || %14
+w: _ _ _|* * * * Come|* off in _ the blue!|
+w: |||
+w: |||
+"C6" C2"F7" z2 ||"C6" z C/D/ E G |"Ab6" c3/2 c/- c2 |"Ab7#5" z/ c _B/ _A B |"Db" c2 c _D- | %19
+w: _|Once I get you|up there, _|where the air is|rar- i- fied,|
+w: |||||
+w: |||||
+"Bbm7" D4 |"Eb7" _B2 B _D- | D4 |"Ab6" _A2 A C- |"Bbm7" C C/_D/"Eb7sus4" _E _A | %24
+w: _|we'll just glide,|_|star- ry eyed.|_ Once I get you|
+w: |||||
+w: |||||
+"Ab" c3/2 c/- c"Ab7#5" z |"Ab6" z/ c B/ c"Db" _d |"G" =d2 d D- |"Em7" D4 |"Am7" d2 d D- |"D7" D4 | %30
+w: up there, _|I'll be hold- ing|you so near,|_|you may hear|_|
+w: ||||||
+w: ||||||
+"G7" d _d"F/G" c z/ B/- |"G7" B/d/"Bb7" _B"G7" A =B"^D.S. al Coda" ||O"C" E G/C/-"C6" C D/_E/- | %33
+w: an- gels cheer 'cause|_ we're to- geth- er.|per- fect for _ a fly-|
+w: |||
+w: |||
+"F7" E G/C/- C D |"Em7b5" E2"Bb7/F" F2 |"A7" G2 A2 |"D7" c e/A/- A B/c/- |"Dm7" c e/A/-"G7" A B | %38
+w: * ing hon- * ey-|moon, they|say. Come|fly with me! _ Let's fly!|_ Let's fly _ a|
+w: |||||
+w: |||||
+"C6" c4- | c2 z2 |] %40
+w: way!|_|
+w: ||
+w: ||
+

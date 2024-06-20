@@ -1,0 +1,37 @@
+X:1
+T:Reminiscing
+T:Reminiscing
+T:Joe Halford & Jay Justin
+C:Joe Halford & Jay Justin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 c2 d2 ||"C" e4 g4- | g4 e3 g |"G" ed- d2 B3 G | D4 z2 Bd |"D7" dc- c4 z D | D2 D2 B3 A | %7
+w: Rem in-|is- cing,|* Rem- in-|is- cing * ov- er|you, Re- min-|is- cing * is|all I seem to|
+"G" A3 B/A/"C" G4- |"G" G4 z2 D>G ||"G" B6 d/B/-B | AG-"G7" G4 G>A |"C" G4 CC-CG | E6 A>A | %13
+w: do. * * *|* Here am|I rem- in- is-|cing * * of the|years I spent * with|you. Here am|
+"D7" A6 G/A/-A | GF- F4 E>F |"C" E3 G, G,2 A,2 |"G" B,6 D>G | B6 d/B/-B | A2"G7" G4 z G | %19
+w: I re- min *|is- cing * "bout the|things that we went|through. Here am|I feel- in' *|lone- ly with-|
+"C" G2 C3 C G2 | E6 z A |"D7" A3 A BA-AA | F2 D4 z D | D3 D FA- A2 |"G" G6 D>G ||"G" B2 B4 d>B | %26
+w: out you by my|side. Just|left with tears * * and|sad- ness, the|things I have to *|hide. Oh the|good times and the|
+ A2"G7" G4 z G |"C"!<(! G!<)!C- C2 z G G2 | E6 z A |"D7" A2 B2 A3 G | F2 E2 D3 D |"C" D2 E4 DC | %32
+w: bad times, to-|geth- er * we went|through, those|mom- ents gone for|ev- * er they're|all I'm cling- ing|
+"G" B,4 z2 D>G | B2 B2 d2 B2 | A2"G7" G4 z G |"C" G3 C C2 G2 |"C" E6 z2 |"D7" AB- B2 A3 G | %38
+w: to, now I'm|left with on- ly|mem- 'ries, of|days that have gone|by,|nev- er * to re-|
+ F2 ED- D3 D | DD- D2 z2 FA |"G" G2 G2 A2 B2 |"C" c4 e4- | e4 e3 g |"G" ed- d2 B3 G | D4 z2 Bd | %45
+w: turn a- gain * no|mat- ter * how I|try. Just rem- in-|is- ing|* Rem in|is- cing * o- ver|you, Rem- in|
+"D7" dc- c4 z D | D2 D2 B3 A |"G" A3 B/A/"C" G4- |"G" G4 z2 D>G ||"G" B2 B2 d3 B | AG-"G7" G4 z G | %51
+w: is cing * is|all I seem to|do.- * * *|* Oh the|world was made for|lov- ers * but|
+"C" GC- C2 z2 GG | E6 z A |"D7" A3 B A3 G | F2 E2 D4 | DD D2 F2 A2 |"G" G2 G2 A2 B2 |:"C" c4 e4- | %58
+w: lov- ers * drift a-|part, now|I'm a lone- ly|lov- * ver|left with my bro- ken|heart, Just rem- in-|is- cing,|
+ e4 e3 g |"G" ed- d2 B3 G | D4 z2 Bd |"D7" dc- c4 z D | D2 D2 B3 A |1"G" A3 B/A/"C" G4- || %64
+w: * rem- in-|is- cing * ov- er|you, rem- in-|is- cing, * is|all I seem to|do.- * * *|
+"G" G2 G2 A2 B2 :|2"G" (3A2 B2 A2"C" G4- ||"G" G8 |] %67
+w: * Just rem- in-|do.- * * *||
+

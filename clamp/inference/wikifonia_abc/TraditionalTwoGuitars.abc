@@ -1,0 +1,20 @@
+X:1
+T:Two Guitars
+T:Two Guitars
+T:Les Deux Guitares
+T:Traditional
+C:Traditional
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm6""^A" z GBd e2 d2 |"Dm" z FAd e2 d2 |"A7" z GA^c e2 c2 |"Dm" dfed AFED |"Gm6" z GBd e2 d2 | %5
+"Dm" z FAd e2 d2 |"A7" z GA^c ecec |"Dm" d4 d2 z2 :|"A7""^B" z2 A2- AA^GA | B4 A4 | %10
+"Dm" z2 A2- AA^GA | B4 A4 |"A7" z2 A2- AA^GA | B4 A4 |"Dm" z2 A2- AA^GA | B4 A4 |"Gm" z2 B2- BBAB | %17
+ c2 B2 c2 B2 |"Dm" B2 A2 ^G2 A2 | B2 A2 B3 A |"Gm" A2 G2 ^F2 G2 |"A7" A2 G2 F2 E2 |"Dm" D8- | D8 |] %24
+

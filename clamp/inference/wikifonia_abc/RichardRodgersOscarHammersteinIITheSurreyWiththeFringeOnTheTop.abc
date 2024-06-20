@@ -1,0 +1,30 @@
+X:1
+T:The Surrey With the Fringe On The Top
+T:The Surrey With The Fringe On Top
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DG z2 | D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C DA z2 | %4
+w: Chicks and ducks and|geese bet- ter scur- ry|when I take you|out in the sur- rey,|
+"G" D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DBAG |"Em7" A6"A7" B2 |"Am7""D7" D8 | %8
+w: when I take you|out in the sur- rey with the|fringe on|top!|
+"G" D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DG z2 | D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C DA z2 | %12
+w: Watch that fringe and|see how it flut- ters,|when I drive them|high step- pin' strut- ters.|
+"G" D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DBAG |"Em7" A6"A7" B2 |"Am7" d6"D7" d2 | %16
+w: Nose- y pokes 'll|peek thru their shut- ters and their|eyes will|pop! The|
+"Dm7" c2 B2"G7" AAGG |"Cmaj7" cc B2"Am7" A3 E |"Dm7" G2 G2"G7" GG G2 |"Cmaj7" A2 G4 G2 | %20
+w: wheels are yel- ler, the up-|hol- ster- y's brown, the|dash- board's gen- u- ine|leath- er, with|
+"A7" dd ^c2 BBAA |"D" d2 ^c2"Bm7" B3 F |"Em9" A2 AA"A7" A2 B^c |"Am7" d4"D7" A4 | %24
+w: is- in- glass cur- tains, you can|roll right down, in|case there's a change in the|weath- er.|
+"G" D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DG z2 | D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DA z2 | %28
+w: Two bright side- light|wink- in' and blink- in',|ain't no fin er|rig I'm a- think- in'.|
+ D2 D2"Gmaj7" D2 D2 |"G6" D2 D^C"G" DBAG |"Am" A4"E7b9" B4 |"Am" c4"Bdim7" B2"Am/C" A2 | %32
+w: You can keep your|rig if you're think- in' 'at I'd|keer to|swap fer that|
+"G/D" DDDD DDDD |"Am7" c4"D7" E2 F2 |"G6""C" G8- |"G6" G6 z2 |] %36
+w: shin- y, lit- tle sur- rey with the|fringe on the|top.|_|
+

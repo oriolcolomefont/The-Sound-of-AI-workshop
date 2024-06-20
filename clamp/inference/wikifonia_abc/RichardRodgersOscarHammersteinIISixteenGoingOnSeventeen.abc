@@ -1,0 +1,29 @@
+X:1
+T:Sixteen Going On Seventeen
+T:Sixteen going on seventeen (from The Sound of Music)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" A ^G A B |"C7" C/C/ D ^D/D/ E |"F" F/ F G/ ^G A |"Dm9""G7" E3 z |"C9" D/ G D/ G D | %5
+w: You are six- teen,|go- ing on sev- en- teen,|ba by, it's time to|think!|Bet- ter be- ware, be|
+w: ||Fel- lows will fall in|line.|Ea- ger young lads and|
+"F" C/ F C/ F C |1"Gm7" c/ B A/"G7" E E |"C7" E3 z :|2"Gm" c B/A/"C7" E E ||"F" F3 z | %10
+w: can- ny and care- ful,|Ba- by you're on the|brink!|of- fer you food and|wine.|
+w: rou- es and cads will|||||
+"Bb" F/ E F/ B D | E E E3/2 F/ |"F7b9" _G F G F |"Bb" D3 z | F/ E F/ B D | E E E3/2 F/ | %16
+w: To- tal- ly un- pre-|pared are you to|face a world of|men.|Tim- id and shy and|scared are you of|
+w: ||||||
+"F" A A"D9" c c |"G7""C7" E4 |"F" c =B c d |"C7" E/E/ F ^F G |"F" A/ A B/ =B c |"Gm7b5" _d2 B2 | %22
+w: things be- yond your|ken,|You need some- one|old- er and wis- er|Tell- ing you what to|do *|
+w: ||||||
+"F" A ^G A/A/ B |"D7" C/C/ D ^D E |"G9" F d2 F |"C7b9" E _d2 E |"F" F4- | F2 z2 |] %28
+w: I am sev- en- teen|go- ing- on eigh- teen|I'll * take|care * of|you.|_|
+w: ||||||
+

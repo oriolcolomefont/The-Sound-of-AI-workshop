@@ -1,0 +1,22 @@
+X:1
+T:Ave Maria
+T:Ave Maria
+T:Charles Gounod, Johann Sebastian Bach
+C:Charles Gounod, Johann Sebastian Bach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" e8 |"Dm/C" f6 z f |"G7/B" g6 d2 |"C" e6 z2 |"Am/C" a4- aABc |"D/C" d3 e d2 z2 |"G/B" g4- gGAB | %7
+"C/B" c3 d c2 z2 |"Am7" c'4- c'cde |"D7" ^f3 e d2 A2 |"G" B4 z2 d2 |"Gdim" e4- eefg | %12
+"Dm/F" a3 A A2 z2 |"Fdim" d4- ddef |"C/E" g3 G G2 z2 |"F/E" c4- ccde |"Dm7" f4- ffga | %17
+"G7" b3 a g2 d2 |"C" e6 z z/ e/ |"C7" g4 e3 z/ e/ |"Fmaj7" a4 A3 z/ a/ |"F#dim" a4 c3 a | %22
+"Cm/G" c'4 _e3 z/ c'/ |"Fm6" c'4 d3 d |"G7" d4- ddcB |"C/G" g3 e c2 z2 |"G7sus4" f4- ffed | %27
+"G7" d'3 b g2 z2 |"Ebdim/G" a4- aabc' |"C/G" e'4- e'c'ge |"G7sus4" d4- daba |"G7" gd'bg fdBG | %32
+"C7" c8 |"F/C" c4 z4 |"G7sus4" g8 |"C" g8 |] %36
+

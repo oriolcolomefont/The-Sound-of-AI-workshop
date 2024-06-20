@@ -1,0 +1,41 @@
+X:1
+T:Man Of La Mancha
+T:Man Of La Mancha
+T:I, Don Quixote
+T:Mitch Leigh
+T:Joe Darion
+C:Mitch Leigh
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm""^Tempo di Paso Doble" DA/A/ AA"Am" A,A |"Dm" DA/A/ AA"Am" A,A |"Dm" DA/A/ AA"Am" BA | %3
+w: |||
+w: |||
+"Gm6/E" G2"A7" E2 DF |:"Dm" A3 D- DF | A2 B2 A2 |"Gm" c3 B- BG |"Dm" A4 FG | A3 B- BA | G2 F2 G2 | %10
+w: * * Hear me|now oh * thou|bleak and un-|bear- a- * ble|world. Thou art|base and * de-|bauched as can|
+w: * * (Hear me)|heath- ens * and|wiz- ards and|ser- pents * of|sin, All your|das- tard- * ly|do- ings are|
+"Gm6" E6- |"A7" E2 z2"^tacet" DF |"Dm" A3 D- DF | A2 B2 A2 |"Gm" c3 B- BG |"Dm" A4 F2 | %16
+w: be;|* And a|knight with * his|ban- ners all|brave- ly * un-|furled, Now|
+w: past;|* For a|ho- ly * en-|deav- or is|now to * be-|gin, And|
+"Gm" G3 A- AB |"F" c2 A2 c2 |"A" ^c6- |"A7" c2"Gm6" d2"A7" ^c2 |"D" d3 d- d^c | d2 A2"A" ^c2 | %22
+w: hurls down * his|gaunt- let to|thee!|* I am|I, Don * Qui-|xo- te, the|
+w: vir- tue * shall|tri- umph at|last!|* I am|I, Don * Qui-|xo- te, the|
+"D" d3 d- d^c | d2 A2"A" ^c2 |"Bm" d3 ^c- c=B |"F#m" A2 ^F2"Em7" G2 |"A" A6- | A2"Am" A2 c2 | %28
+w: Lord of * La|Man- cha, De-|stroy- er * of|e- vil am|I,|* I will|
+w: Lord of * La|Man- cha, A|name all * the|world soon will|know.|* I com-|
+"Dm" d3 d- dc | d2 A2"Am" c2 |"Dm" d3 d- dc | d2 A2"Am" c2 |"Dm" d3 c-"C7" cB |1"F" A2 F2"Am" C2 || %34
+w: march to * the|sound of the|trum- pets * Of|glo- ry for-|ev- er * to|con- quer or|
+w: mend now * my|soul to the|wild winds * Of|for- tune, oh|whith- er * so-||
+"Dm" D6- | D2 z2 DF :|2"F" A2 d2"Am" c2 |"Dm" d6- | d4 z2 ||"Dm""Dm""^Tag" F3 D- DF | A2 G2 F2 | %41
+w: die.|* Hear me,|ev- er they|blow.||Whith- er * so-|ev- er they|
+w: |||||||
+ A6- | A4 z2 |"F" A3 B- BA |"Am" c2 A2"^rall." e2 |"Dm""Am7" d6- |"Dm" d2 z2 z2 |] %47
+w: blow,||on- ward * to|glo- ry I|go!-||
+w: ||||||
+

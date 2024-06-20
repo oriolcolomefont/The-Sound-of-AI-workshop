@@ -1,0 +1,24 @@
+X:1
+T:Say It Isn't So
+T:Say It Isn't So
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Bbmaj7" GGGG G4- | G8 |"B7" _GGGG G4- | G8 |"Bbmaj7" FFFF G2 A2 |"Gm7" B2 B2 d2 d2 | %6
+w: Say it is- n't so,|_|say it is- n't so.|_|Ev- 'ry- one is say- ing|you don't love me,|
+"C7" d=EEE E4- | E8 |"Cm7" cccc c4- |"F7" c8 |"F#m7" ^cccc c4- |"B7" c8 |"Bbmaj7" dddd"G7" d2 d2 | %13
+w: say it is- n't so.|_|Ev- 'ry- where I go,|_|ev- 'ry- one I know|_|whis- pers that you're grow- ing|
+"Cm7" d2 c2"F7" c2 A2 |"Dm7" GDDD-"G7" D4- |"Cm7" D4"F7" z4 |"Bbmaj7" GGGG G4- | G8 | %18
+w: tir- ed of me,|say it is- n't so.|_|Peo- ple say that you|_|
+"B7" _GGGG G4- | G8 |"Bbmaj7" FFFF G2 A2 |"Gm7" B2 B2 d2 d2 |"Fm7" dccc c4- |"Bb7" c8 | %24
+w: found some- bod- y new,|_|and it won't be long be-|fore you leave me,|say it is- n't true.|_|
+"Ebmaj7" eeee e2 d2 |"Ab7" f2 e2 d2 c2 |"Bbmaj7" dddd A4- |"G7" A2 G2 ^F2 G2 |"Cm7" c4 c4- | %29
+w: Say that ev- 'ry- thing is|still o- kay, that's|all I want to know,|_ and what they're|say- ing|
+"F7" c4 dddd |1"Bbmaj7""G7" d8- ||"Cm7" d4"F7" z4 :|2"Bbmaj7" d8- || d4 z4 |] %34
+w: _ say it is- n't|so.|_|so.|_|
+

@@ -1,0 +1,30 @@
+X:1
+T:Dance With A Dolly
+T:Dance With A Dolly
+T:(With A Hole In Her Stocking)
+T:Terry Shand,Jimmy Eaton & Mickey Leader
+C:Terry Shand, Jimmy Eaton,Mickey Leader
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z B, |"Eb" E2 E2 G B3 | c2 BG- G2 z2 |"Bb7" B2 AF- F2 z2 |"Eb" A2 GE- E2 z B, | %5
+w: As|I was walk- in'|down the street, *|down the street, *|down the street * I|
+ E2 E2 E>FG>A | c2 BG- G2 z2 |"Bb7" A2 F2 B2 BE- |"Eb""Bb7" E6 z B, |"Eb" E2 E2 E>FG>A | %10
+w: met some- bod- y who was|might- y sweet, *|migh- ty fair to see.|* I|asked her would she like to|
+ c2 BG- G2 z2 |"Bb7" B2 AF- F2 z2 |"Eb" A2 GE- E2 z2 | E2 E2 E>FG>A | c2 BG- G2 z2 | %15
+w: have a talk, *|have a talk, *|make some talk. *|All the fel- lows stand- in'|on the walk, *|
+"Bb7" A2 F2 B2 BE- |"Eb""Eb7" E6 z2 |"Ab" A2 Ac- c>ce>e |"Eb" c B2 G B2 z2 |"Bb7" B A2 F D2 z2 | %20
+w: wish- in' they were me.||Mam- a, ma- * ma, let me|dress up to- night,|dress up to- night,|
+"Eb" c B2 G"Eb7" E2 z2 |"Ab" A2 A>A c>ce>e |"Eb" c B2 G B2 G>G |"F7" =A2 A>A A>GA>B- | %24
+w: dress- up to- night,|I've got a sec- ret gon- na|'fess up to- night, gon- na|dance by the light of the moon,|
+"Bb7" B4 z2 B>B |"Eb" e2 E>E E>FG>A | c2 B>B G>GG>G |"Bb7" B2 A>A F>FF>F |"Eb" c2 B>B G G3 | %29
+w: * Gon- na|Dance With A Dol- ly with a|hole in her stock- in' while our|knees keep a knock- in' and our|toes keep a- rock- in',|
+ e2 E>E E>FG>A | c2 B>B G G3 |"Bb7" B2 B>B B>AF>E- |"Eb" E6 z2 |] %33
+w: Dance With A Dol- ly With A|Hole In Her Stock- in',|dance by the light of the moon.-||
+

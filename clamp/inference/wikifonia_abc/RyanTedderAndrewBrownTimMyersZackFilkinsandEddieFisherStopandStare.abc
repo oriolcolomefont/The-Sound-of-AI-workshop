@@ -1,0 +1,42 @@
+X:1
+T:Stop and Stare
+C:Ryan Tedder, Andrew Brown, Tim Myers, Zack Filkins and Eddie Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Lead 8 (bass + lead)" snm="Bass + Lead"
+%%MIDI channel 4
+%%MIDI program 87
+V:1
+"C " z8 | z8 |"Emin" z8 | z8 |"C " z G GE AE E2- | EG GE AE E2- |"G " EG GE A2 BG- | GG GE AE E2 | %8
+w: ||||This town is cold- er now,|* I think it's sick of us|* It's time to make our move,|* I'm shak- in' off the rust|
+"C " z D DE G2 E2 | z G GE AE E2 |"G " z G GE A2 BG- | G2 GG B2 Bc- |"Amin" c A3 z A Bc- | %13
+w: I've got my heart set|on an- y\- where but here|I'm star- in' down my- self,|* count- in' up the yea-|* rs. Stead- y hands,|
+ c2 e2 d2 Bc- |"F " cA- A2- AA Bc- | c2 e2 dA GA- |"Amin" A4 z A Bc- | c2 e2 d2 Ac- | %18
+w: * just take the whe-|* el; * * ev- 'ry glance|* is kill- in' m\- e.|* Time to make|* one last ap- pe-|
+"F " c d3 z G AA- | A2 G2- G E3 |"C " c2 d2 d4- x2 | dA cd ed cA |"G " c2 d2 d4 x2 | z2 cd ed cA | %24
+w: * al for the life|* I * lead.|Stop and stare.|* I think I'm mov- in' but I|go no- where.|Yeah, I know that ev- 'ry-|
+"Amin" c2 d2 d2 c2 | z A cd ed cA- |"F " A2 c6 x2 | (3z4 c4 d4 |"C " c2 d2 e4 | z A cd ed cA | %30
+w: one gets sca- red.|But I've be- come what I can't|* be.|O\- h!|Stop and stare.|You start to won- der why you're|
+"G " c2 d2 d4 | z A cd ed cA |"Amin" c2 d2 d2 c2- | cA cd ed cA- |"F " Ac- c4- cG- x2 | %35
+w: here not there.|And you'd give an- y\- thing to|get what's fa- ir|* but fair ain't what you real- ly|* need * * Oh,|
+ G2 GE AE G2 |"C " E8 x2 | z8 | z G G/G/E A2 E2 | z2 EE G A2 G |"G " z G GE A2 E2- | %41
+w: * can you see what I|see?||They're try- 'n' to come back,|all my sens- es push.|Un- tie the weight bags,|
+ EG GG B B2 c- |"Amin" c A3 z A Bc- | c2 e2 d2 Ac- |"F " cA- A2- AA Bc- | c2 ed z A2 A- | %46
+w: * I nev- er thought I cou-|* ld. Stead- y feet,|* don't fail me no-|* w. * * I Will run|* 'til you can't walk.|
+"Amin" A4 z A Bc- | c2 e2 d2 Ac- |"F " c4 z G AA- | A G2 c- c3 z |"C " c2 d2 d4- | dA cd ed cA | %52
+w: * Some- thin' pulls|* my fo- cus out|* and I'm stand-|* in' down. *|Stop and stare.|* I think I'm mov- ing but I|
+"G " c2 d2 d4 | z2 cd ed cA |"Amin" c2 d2 d2 c2 | z A cd ed cA- |"F " A2 c4 z B/c/- x2 | %57
+w: go no- where.|Yeah, I know that ev- 'ry-|one gets scar- ed|but I've be- come what I can't|* be. Oh, *|
+ c d2 g- g3 z |"C " c2 d2 e4 | z A cd ed cA |"G " c2 d2 d4 | z A cd ed cA |"Amin" c2 d2 d2 c2- | %63
+w: |Stop and stare.|You start to won- der why you're|here not there.|And you'd give an- y\- thing to|get what's fa- ir|
+ cA cd ed cA- |"F " Ac- c4- cd- | d2 z g- g2 ae- |"C " e8 | z4 c/d/e eg- |"G " g3 a c'b a2 | %69
+w: * but fair ain't what you real- ly|* need. * * Oh,|* you * don't need.||Whoa * * * *|* * Ooo * *|
+ g3 z z d/B/ e2 |"Amin" z d c4 z2 | z c- c2- c g2 g/d/ |"F " e2- (3edc d G3 x | c G2 c c G3 | %74
+w: * Oh * *|Whoa *|Ah * * * Whoa *|* * Oh * * What|you need, what you need.|
+"C " c2 d2 d4 x2 | z A cd ed cA |"G " c2 d2 d4 x2 | z2 cd ed cA |"Amin" c2 d2 d4 x2 | %79
+w: Stop and stare.|I think I'm mov- in' but I|go no- where.|Yeah I know that ev- 'ry-|one gets scared.|
+ z2 cd ed cA- |"F " A2 c4- cG/F/ | E2 z G/E/ GE A2 x2 |"C " E8 |] %83
+w: I've be- come what I can't|* be. * Oh, Oh,|Oh, do you see what I|see?|
+

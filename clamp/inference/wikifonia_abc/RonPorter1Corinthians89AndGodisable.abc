@@ -1,0 +1,25 @@
+X:1
+T:And God is able
+T:And God is able
+T:Ron Porter
+T:©copyright Ronald L. Porter 2011
+T:Score
+T:.
+T:2 Corinthians 9:8
+T:Fighter Verse for Sept 18/19) During Welcome
+C:Ron Porter
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:Eb
+V:1 treble nm="Flute"
+%%MIDI program 12
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G7#5" z GAG FEDD |"Cm" [CEG]3 [CEG]- [CEG]4 | z2 z2 (CD)EF |"Bb69" [CDG]6 [CDG][CDG] | z4 GGFE | %5
+w: And God is a- ble to make|all grace. _|a- * bound to|you. so that|hav- ing all suf-|
+"Ab6" F2 EE z CFE- | E4 (3E2 (F2 E2) |"G7#5" D8 | DEFG- GFEC |"Bb" D2"Cm9" C6 |] %10
+w: fi- cien- cy in all things|_ at all _|times,|you may a- bound _ in ev- ry|good work.|
+

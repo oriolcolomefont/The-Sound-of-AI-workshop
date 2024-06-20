@@ -1,0 +1,31 @@
+X:1
+T:The Happiest Girl In The Whole U.S.A.
+T:The happiest girl in the whole U.S.A.
+T:Donna Fargo
+C:Donna Fargo
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z A,B,A, |:"G" G, B,2 B,G, z |"D7" A, C2 z z2 |"C" E E2 z EF |"C7" G3- G z2 |"G" D2 D z DD | %6
+w: Good morn- ing|morn- ing hel- lo|sun- shine|wake up sleep- y|head *|why'd we move that|
+"G7" CB,A, B, z D |"D" A,2 A, A,A,B, |"D7" A,3 A,B,A, |1"G" G, B,2 B,A,G, ||"D" A, B,2 z z2 |1 %11
+w: beau- jan- gle clock so|far a- way from the|bed just one more|min- ute thats why we|moved it|
+"C" EED E2 F ||"C7" G3 z EE |"D" DD/D/D D2 D |1 D2 A, A,A,B, || CC/C/C B,2 A, |"G" G,3- G,2 z | %17
+w: one more * hug or|two do you|love wak- in up next to|me as much as I|love wak- in- up next to|you *|
+"D" z2 z A,/B, z/ A, :|2"C" G2 G GG/G/G ||"D" F2 F BAB |"G" G2 G GAB |"C" B/A/G z GGG | %22
+w: you make the|you be care- ful got ta|go I love you *|have a beau- ti- ful|day * * and kiss the|
+"D" F3 F2 G |"D7" A F2- FBA |"C" G3- GEC |"G" D3 z z2 |"C" GGG GFE |"G" D G,2 G,2 G, | %28
+w: hap- pi- est|girl * * in the|whole * U. S|A|Skip- a- dee- doo- dah *|thank you Lord for|
+"D" A, A,2 G,2 A, |"G" B,3- B, z G |"C" GGG GGG |"A" BBA G z G/G/ |"A7" G2 E BAG |"D" A3- A z B | %34
+w: mak- ing him for|me * and|thank you for let- ting life|turn out the way that I|al- ways thought it could|be * there|
+"G" A2 G/G/ GGG | BBB BAB |"C" GGG AGE |"G" G3 z GG |"D" F3 F2 G |"D7" A/G/ F2 z BA |"C" G3- GEC | %41
+w: once was a time when I|could not im- ag- ine *|how it would feel * to|say I'm the|hap- pi- est|girl * * in the|whole * U. S.|
+"G" D3- D z G |:"G" GGE G2 A |"G7" BBB BBA |"C" AGG A2 E |"G" G3 GGA |"D" F3 F2 G |"D7" A F2 z BA | %48
+w: A. * now|shine on me sun- shine|walk with me world its a|skip- a- dee- doo dah|day and I'm the|ha- pi- est|girl * in the|
+"C" G3- G"^Repeatand""^fade"DC |"G" D3- D z2 :| %50
+w: whole * U. S.|A. *|
+

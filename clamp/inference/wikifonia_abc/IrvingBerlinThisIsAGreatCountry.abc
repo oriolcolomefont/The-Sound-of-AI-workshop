@@ -1,0 +1,26 @@
+X:1
+T:This Is A Great Country
+T:This Is A Great Country
+C:Irving  Berlin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z C C C |:"C" E3 D- | D C2 E | G3 F- | F E2 G | c2 G F | E2 G2 |"Dm7" D4- |"G7" D4 | %9
+w: This is a|great coun-|* try, a|great coun-|* try, So|let's shout it|clear and|loud.|_|
+"Em" E2 E"B7" ^F- | F2 E ^F |"Em" G2 G A- |"Am7b5" A2 G A |"G/D" B2"Am7" c A |"G/D" G2"D7" ^F2 | %15
+w: Take a look|_ in your|his- t'ry book|_ and you'll|see why we|should be|
+"G7" G4- |"C7" G4 |"F" A2 D2- | D2"G7" E F |"C/E" G E"Am" C2- | C3 C |"Dm" F2"C/E" E G | %22
+w: proud.|_|Hats off|_ to A-|mer- i ca,|_ the|land of the|
+"Fmaj7" E2"D/F" D C |"Dm7/G" D4- |"G7" D"^N.C" E F ^F |"C" G3"C7" E- | E C3 |"F" c3 B- | B A B c | %29
+w: free and the|brave.|_ If this is|flag wav-|* ing,|flag wav-|* ing, do you|
+"D7/F#" d2 d2- | d2 A2 |"Dm7/G" c B A2- | A2"G7" B2 |1"C""Dm7" c4- |"C" c"^N.C." C C C :|2"C" c4- | %36
+w: know of|_ a|bet- ter flag|_ to|wave.|_ this is a|wave.|
+ c3 z |] %37
+w: _|
+

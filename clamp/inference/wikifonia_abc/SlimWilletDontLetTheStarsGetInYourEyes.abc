@@ -1,0 +1,23 @@
+X:1
+T:Don't Let The Stars Get In Your Eyes
+T:Dont let the stars get in your eyes
+T:Slim Willet
+C:Slim Willet
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." B B B ||"G" c B A G | c B A G | G2 E D |"D7" ^F4- | ^F4 | A2 A G | ^F3 G | A2 A G | %9
+w: Dont let the|stars get in your|eyes, dont let the|moon break your|heart||love blooms at|night in|day- light it|
+ ^F D D D | ^F E D C |"G" B, B, C D | E D E D | B, D E D | E D B, D | E D D D |"D7" D ^F A A | %17
+w: dies dont let the|stars get in your|eyes oh keep your|heart for me for|some- day I'll re-|turn and you know|you're the on ly|one I'll ev er|
+"G" A G3- |"^Fine" G z z2 |] z"^N.C." B c B |"G" A G3- | G B c B | A G3- | G B c B | A G E D | %25
+w: love. *||too man- y|nights *|* too man- y|stars *|* too man- y|moons could change your|
+"D7" ^F4- | ^F3 A | A2 A G | ^F2 ^F G | A A A G | ^F2 ^F E | D D D"D" D | ^F E D D |"G" D4- | %34
+w: mind|* if|I'm gone too|long dont for-|get where you be-|long when the|stars come out re-|mem- ber you are|mine|
+ D"^N.C." B"^D.S.alFine" B"^Returnto" B |] %35
+w: * dont let the|
+

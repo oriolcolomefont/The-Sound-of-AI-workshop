@@ -1,0 +1,24 @@
+X:1
+T:Home, Sweet Home
+T:Home Sweet Home
+C:Henry Rowley Bishop ('Sicilian Air)
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z2 z (C/>D/) |"C" (E>F)"F" F>G |"C" G>E E2 |"G7" F>E FD |"C" E3 (C/D/) | (E>F)"F" F>G | %6
+w: 1.~Mid _|plea- * sures and|pal- a- ces|tho' _ we may|roam, Be it|ev- * er so|
+w: 2.~An _|ex- * ile from|home, splen- dor|daz _ zles in|vain; Oh, _|give _ me my|
+"C" G2 EG |"G7" (F>E) FD | C2 z G | c>B"F" A>"C"G | G2 EG |"G7" (F>E) FD |"C" E3 (G/G/) | %13
+w: hum- ble, there's|no _ place like|home! A|charm _ from the|skies seems to|hal- * low us|there, Which _|
+w: low- ly thatched|cot- * tage a-|gain; The|birds _ sing- ing|gai- ly that|came _ at my|call, Give me|
+ (c>B)"F" A>"C"G | G2 EG |"G7" G F2 D |"C" C4 | G4 |"G7" F2 D2 |"Am" C z"G" D z |"C" E2 z G | %21
+w: seek _ tho' the|world is not|met with else-|where.|Home,|home, _|sweet, sweet,|home, There's|
+w: them _ with that|peace of mind|dear- er than|all.|||||
+ (c>B)"F" A>"C"G | (G2 E)G |"G7" (F>E) FD |1"C" C4!D.C.! :|2"C" C4!fine! |] %26
+w: no _ place like|home, _ there's|no _ place like|home.|home.|
+w: |||||
+

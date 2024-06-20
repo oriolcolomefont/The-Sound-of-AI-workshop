@@ -1,0 +1,28 @@
+X:1
+T:In His Time
+T:In His Time
+C:(unknown) Maranatha Music Arrangement: Larry Johnson 2011
+Z:All Rights Reserved
+L:1/4
+Q:1/4=100
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z2"Eb" E G |"Fm" F4- |"Bb" F2 D"Bb7/D" F |"Eb" E4- | E2 G"Ebdim" B | %10
+w: |||||in his|time|_ in his|time|_ he makes|
+"Fm" A A"Fm" A"Fm7" A |"Bb9" A2 A c |"Eb" B4- |"Eb/G" B2"Db/Eb" A"Eb7" B |"Ab" c c c A | %15
+w: all things beau ti|full in his|time|_ Lord please|show me ev ery|
+"Bb" F2"Gm/Bb" G"Bb7/Ab" A |"Gm7" B B B"Gm" G |"Cm" E2"Gm7/C" F"Cm7" G |"Fm7" A A A"Fm" F | %19
+w: day as you're|teach ing me your|way that you|do just what you|
+"Bb9" D2"Ab/Bb" E"Bb7" F |"Eb" E4- | E2 z2 | z2"Eb" E G |"Fm" F4- |"Bb" F2 D"Bb7/D" F |"Eb" E4- | %26
+w: say in your|time|_|In Your|time|_ in Your|time|
+ E2 G"Ebdim" B |"Fm" A A"Fm" A"Fm7" A |"Bb9" A2 A c |"Eb" B4- |"Eb/G" B2"Db/Eb" A"Eb7" B | %31
+w: _ You make|all things beau ti|full in Your|time|_ Lord my|
+"Ab" c c c A |"Bb" F2"Gm/Bb" G"Bb7/Ab" A |"Gm7" B B B"Gm" G |"Cm" E2"Gm7/C" F"Cm7" G | %35
+w: life to you I|bring may each|song I have to|sing be to|
+"Fm7" A A A"Fm" F |"Bb9" D2"Ab/Bb" E"Bb7" F |"Eb" E4- | E2 z2 | z4 | z4 | z4 | z4 |] %43
+w: you a love ly|thing in your|time|_|||||
+

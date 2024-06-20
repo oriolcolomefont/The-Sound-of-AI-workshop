@@ -1,0 +1,24 @@
+X:1
+T:Who Cares
+T:Who Cares
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"G7" G2 |:"C7" B4 |"G+" z B2 A |"C+" c4 | z c2"E7" B |"F+" F4 | z F2"A7" E |"Fm" G4- | G2 z F | %9
+w: Who|cares|if the|sky|cares to|fall|in the|sea?|_ Who|
+"C" E2"Dm" F"Em" G- | G"Cdim7" B2 A |"Dm7" G3"Em" G- |"G7" G4 |"C" E2"G7" F"Am7" G- | %14
+w: cares how his-|* to- ry|rates me?|_|Long as your|
+ G"E7" d2"Am" c |"Ab7" _e2 e2 |"D+" _e2"G7" G2 |"C7" B4 | z"G+" B2 A |"C+" c4 | z c2 B | %21
+w: _ kiss in-|tox- i-|cates me!|Why|should I|care?|Life is|
+"Am" d z d2- | d d2 c |"D7" e4 | z c d"Ab7" ^d |"C" e3 c- | c2"Cdim7" A2 |"Dm7""Em" G4- | %28
+w: one long|_ ju- bi-|lee.|So long as|I care|_ for|you|
+ G2"A7" A2 |"Dm" c3 G- | G2"G7" E2 |"C" C4- | C z"G7" G2 :|"C" C4- | C2- C z |] %35
+w: _ And|you care|_ for|me.|_ Who|me.|_ _|
+

@@ -1,0 +1,18 @@
+X:1
+T:Clarinet polka
+T:Clarinet Polka
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." GF |"C" EGce Gceg | e2 e2 e2 eg | e2 eg e2 eg |"G7" gfdB G2 GG | FGBd GBdf | %6
+ b2 b2 b2 af | b2 af b2 af |"C" agec G2 GF | EGce Gceg | e2 e2 e2 eg | e2 eg e2 eg | %12
+"G7" gfdB G2 GG | FGBd GBdf | b2 b2 b2 ag | g2 ba gfed |"C" c2 c2 c2"^N.C." c'2 |:"F" c'4- c'afd | %18
+ c6 c_B | Acfc Acfc |"C7" _Bcec _B2 _b2 | _b4- _bged | c6 c2 |1 e3 _B e3 _B || %24
+ dcAF C2"^N.C." c'2 :|2 c2 Bc ^cd^de ||"F" f2 f2 f2 z2 |] %27
+

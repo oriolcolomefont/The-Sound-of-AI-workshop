@@ -1,0 +1,42 @@
+X:1
+T:Penny Arcade
+C:Sammy King
+Z:All Rights Reserved
+L:1/4
+Q:1/4=135
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"^AKS 2010" z2 z z/ D/ |:"G" B- B A/ G A/ |"Gmaj7" B2 A/ G F/- |"C" F3/2 G/ E2- | E4 | %5
+w: A|light _ shone in the|night some- where a-|he- a- d|_|
+w: |first I thought it a|dream that I was|_ in _|_|
+"A7" A2 G/ F G/ | A2 G/ F E/ | E2-"D" D2- | D3 z/ D/ |"G" B- B/A/ G/"Gmaj7" B- B/ | %10
+w: Blue turned in- to|green, then it was|re d.|_ And|stir _ ring the night _|
+w: Lost, lost in a|sea of glass and|tin. _|_ But|no, so dipp- ing my hand|
+ A3/2 G/ F/"C"F/-F/G/ | E3 z/ E/ |"A7" A3/2 A/ G F/G/ | A3/2 G/ G/G/F/E/ |"D7" D4 |"G" D2 D E | %16
+w: Love mus ic play- * *|ed. The|light I saw in the|night was a penn- y ar|cade.|"Step up and|
+w: in the back of my jea-|ns I|grabbed a hand ful of|coins to feed the ma- ch-|ines.|_ _ _|
+ G2 G A | B2 B A | G2 G A | B2 B A | G G F/F/ E |"D" D4- | D4 |"D7" A2 A B | c2 c B | A2 A B | %26
+w: play", each ma-|chine seemed to|say as I|walked round and|round the penn y ar-|cade||"Just ring the|bell on the|big bag a-|
+w: ||||||||||
+ c2 c B | A2 A G | F/ G3/2 F E |"G" D4- | D D B A |"C" G4- | G4- | G G/A/ G/G/ E |"G" D4- | D4- | %36
+w: telle and you'll|make all the|col oured lights cas-|cade|* And mus ic|played|_|* in the penn y arc|ade.|_|
+w: ||||||||||
+ D2 G F |"C" E2 C D | E4 |"D" A2 F G |"D7" A4 | z"G" B B B |"D7" c c A2 |1"G" G3- G/D/ :|2 %44
+w: * Well it|played and it|played,|played all the|time.|"Roll up and|spend your last|dime!" _ At|
+w: ||||||||
+"G" G3 z ||"G" D2 D E | G2 G A | B2 B A | G2 G A | B2 B A | G G F/F/ E |"D" D4- | D4 |"D7" A2 A B | %54
+w: dime!"|"Step up and|play", each ma-|chine seemed to|say as I|walked round and|round the penn y ar-|cade|_|"Just ring the|
+w: ||||||||||
+ c2 c B | A2 A B | c2 c B | A2 A G | F/ G3/2 F E |"G" D4- | D4- | D D B A |"C" G4- | G4- | %64
+w: bell on the|big bag a-|telle and you'll|make all the|col oured lights cas-|cade|_|* And mus ic|played|_|
+w: ||||||||||
+ G G/A/ G/G/ E |"G" D4- | D4- | D2 G F |"C" E2 C D | E4 |"D" A2 F G |"D7" A4 | z"G" B B B | %73
+w: * in the penn y arc|ade.|_|* Well it|played and it|played,|played all the|time.|"Roll up and|
+w: |||||||||
+"D7" c c A2 | z"G" B B B |"D7" c c A2 | z"G" B B B |"D7" c c A2 |"G" G4 | z4 |] %80
+w: spend your last,|"Roll up and|spend your last,|"Roll up and|spend your last|dime.||
+w: |||||||
+

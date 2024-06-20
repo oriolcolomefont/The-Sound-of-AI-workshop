@@ -1,0 +1,28 @@
+X:1
+T:Perfidia
+T:Perfidia
+T:Alberto Domingues
+T:English:  Milton Leeds
+C:Alberto Dominguez
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 G2 |"C" c8- |"Dm7" c3 B"G7" cdcB |"C" c3 B"Am7" A4- |"Dm7" A3 B"G7" cdcB | %5
+w: To|you|* my heart cries out Per-|fid- i- a|* for I found you the|
+"C" c B2 A"Am7" c2 A2 |"Dm7" G F2 G A2 F2 |"E7" E8- | E2 z2"G7" G4 |"C" c8- |"Dm7" c3 B"G7" cdcB | %11
+w: love of my life in|some- bod- y el- se's|arms|* your|eyes|* are ech- o- ing Per-|
+"C" c3 B"Am7" A4- |"Dm7" A3 B"G7" cd"Am7"cB |"Dm7" c B2 A"Am7" c2 A2 |"Dm7" G F2 G A2 F2 | %15
+w: fid- i- a|* for- get- ful of our|pro- mise of love you're|shar- ing an- oth- ers|
+"E7" E8- | E4 D2 E2 |"Dm" FFFG AAA^G | A3 ^G AGAB |"E7" ^G8- | ^G2 z2 B2 c2 |"Dm" dddc BBBc | %22
+w: charms|* with a|sad la- ment my dreams have fad- ed|like a bro- ken mel- o-|dy|* while the|Gods of love look down and laugh at|
+ BBBA GAGF |"E7" E8- | E2 z2"G7" G4 |"C" c8- |"Dm7" c3 B"G7" cdcB |"C" c3 B"Am7" A4- | %28
+w: what ro- man- tic fools we mor- tals|be|* and|now|* I know my love was|not for you|
+"Dm7" A3 B"G7" cdcB |"C" c B2 A"Am7" c2 A2 |"Dm7" G F2 G"G7" A2 d2 |"C" c2 z2"Fm" efef |"C" g8 | %33
+w: * and so I'll take it|back with a sigh per-|fid- i- ous one good|bye.- * * * *||
+ z8 |] %34
+w: |
+

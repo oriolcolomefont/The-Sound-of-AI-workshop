@@ -1,0 +1,38 @@
+X:1
+T:Out of This World
+T:Out of This World
+T:Harold Arlen
+T:Johnny Mercer
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z B |"Bbm" _d4- |"Gbmaj7" d2 (3c _d c |"Eb7" B4- |"Gbmaj7" B2 B z |"Bbm" _d4- | %6
+w: You're|clear|* out of this|world.|* When|I'm|
+"Gbmaj7" d2 (3c _d c |"Bbm7" B4- |"Eb9" B2 z E |"Gbmaj7" B4- |"Ebm6" B2 (3A B A |"Bmaj7" _G4- | %12
+w: * look- ing at|you.|* I|hear|* out of this|world|
+"Ab7" G2 z A |"Eb6" B B B B |"Edim" B B B B |"Fm7" (B c3-) |"Bb+" c2 z B |"Bbm" _d4- | %18
+w: * the|mu- sic that no|mor- tal ev- er|knew. *|* You're|right|
+"Gbmaj7" d2 (3c _d c |"Eb7" B4- |"Gbmaj7" B2 z B |"Bbm" e e e e |"Gbmaj7" e e (3_d e _d | %23
+w: * out of a|book.|* The|fai- ry talew I|read when I was so|
+"Bbm" B4- |"Eb9" B2 z E |"Gbmaj7" B B B2 |"Ebm6" B2 (3A B A |"Bmaj7" _G4- |"Ab7" G2 z A | %29
+w: high.|* No|ar- mored knight|* out of a|book|* was|
+"Eb6" B B B B |"Edim" B B B B |"Fm7" (B c3-) |"Bb9" c2 d2 |"Eb" (d e3-) | e4- | e2 z2 || %36
+w: more en- chan- ted|by a Lo- re-|lei *|* than|I. *|||
+ z2"Ab7" E"G7" F |"Cm" G2 G G | G2 =A =B | =B =A3- | A2 E F | G2 G G |"Cdim" =A2 =B c |"Ab9" d4- | %44
+w: Af- ter|wait- ing so|long for the|right time,|* af- ter|reach- ing so|long for a|star,|
+"G7b9" d2 c d |"Cm7" e2 e e |"Abmaj7" e3/2 c/ d c |"Cm6" d2 d2- |"Ab7" d2 f e |"Cm" d2 d2- | %50
+w: * all at|once from the|long and lone- ly|night- time|* and des-|pite time|
+"Ab7" d2 f d |"G9" d4- | d4- |"C9" d2 z2 |"F7" z2 z"Bb7" B |"Bbm" _d4- |"Gbmaj7" d2 (3c _d c | %57
+w: * Here you|are.|||I'd|cry|* out of this|
+"Eb7" B4- |"Gbmaj7" B2 z B |"Bbm" _d4- |"Gbmaj7" d2 (3c _d c |"Bbm7" B4- |"Eb9" B2 z E | %63
+w: world.|* If|you|* said we were|through.|* So|
+"Gbmaj7" B B B2- | B2"Ebm6" (3A B A |"Bmaj7" _G4- |"Abdim" G2 z A |"Eb6" B B B B |"Edim" B B B B | %69
+w: let me fly|* out of this|world|* and|spend the next e-|ter- ni- ty or|
+ (B c3-) | c2 d2 |"Eb" (d e3-) | e3 z |] %73
+w: two *|* with|you. *||
+

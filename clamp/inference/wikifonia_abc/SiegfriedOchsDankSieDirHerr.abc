@@ -1,0 +1,32 @@
+X:1
+T:Dank Sie Dir Herr
+C:Siegfried Ochs
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 23
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" G6- |"D7/A" G6- |"G/B" G6- |"C" G2 B3 A |"D" A6- |"A7/E" A6- |"D/F#" A6- |"D" A2 c3 B |"G" B6 | %9
+w: Dank|_||* sei Dir|Dank|_||* sei Dir|Herr,|
+"D/F#" d2 B3 A |"Em" G4 z2 |"C/E" G2 E3"D7/F#" D |"G" D6 |"G/B" G6 |"C" A3 B c2 |"G/D" B2"D" A3 G | %16
+w: Du hast Dein|Volk|mit Dir ge-|fuhrt,|Dein|_ _ _|ist nun das|
+"G" [Gg-]6 |"D7/A" g6- |"G/B" g6- |"C" g2 b3 a |"D" a6- |"A7/E" a6- |"D/F#" a6- |"D" a2 c'3 b | %24
+w: Land|_|||||||
+"G" b6 |"Gmaj7" d'2 b3 a |"Cmaj7" g6"C" |"G/B" g2"C" e3"D7/A" d |"G" d6 | %29
+w: |||||
+"A7/G""^To Coda"O e2 d^c BA |"D/F#" a2"G" B2"C/E" e2 |"A" ef"A7" g3 f |"D" f6 |"A" E4 ED |"D" D6 | %35
+w: ||||||
+"D/C" A2 GF ED |"B7" B6 |"Em/G" B2"Am" BA EF |"B" B,2 ^C2 ^D2- |"Em/G" E6- |"Am6" E2 A3 ^G | %41
+w: Eh' diese _ _ _|Feinde|uns auch _ bed- *|ro- * *||h'n dei- ne|
+"E/B" ^G6 |"A/C#" A3 ^G A2 |"D/C" A2 GF ED |"G/B" D2"C#dim" G2"D/F#" F"G"E |"D/F#" F2"A" E3"A7" D | %46
+w: Hand|schutz- te es,|in Dei- * ner _|Gna- * de _|gabst du uns|
+"D" D4 z2 | dF E3 D | D6"^D.C. al Coda" ||"D/C" a2O"^Coda" gf ed |"G/B" d'2"C" g2"Am7""G/D" c'2- | %51
+w: Heil.|||||
+ ba"D7" a3 g |"G" g6 |] %53
+w: ||
+

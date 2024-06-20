@@ -1,0 +1,39 @@
+X:1
+T:Rawhide
+T:Rawhide
+T:Ned Washington & Dimitri Tiomkin
+C:Ned Washington & Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" E G E G | E G3 | E G E G | E G3 | E G E G | E G"B7" B2 |"Em" e4- | e3"B7" B, |:"Em" E G E G | %9
+w: Roll- in' Roll- in'|Roll- in"-|Roll in' Roll in'|Roll in'|Roll- in' Roll- in'|Roll- in' Raw-|Hide|* Keep|Roll- in' Roll- in'|
+w: ||||||||Mov- in' Mov- in'|
+ E G3 | G B G B | G B3 |"G" B d B d | B d2 B | d4- | d3"B7" B |"Em" e e e"Bm7" d |"Em" e B2 d | %18
+w: Roll- in'|Though the streams are|swol- len|Keep them do- gies|roll- ing Raw-|hide|* Through|rain and wind and|wea- ther, *|
+w: Mov- in'|Though they're dis- ap-|prov- in'|Keep them do- gies|mov- ing Raw-|hide.|* Don't|try to un- der-|stand 'em, Just|
+"D7" d- d d c |"Em" B E3 |"D" d d2 d |"C" e/ e3/2 G"Am6" A |"B7" B4- | B4 |"Em" e e e d | e B2 d | %26
+w: Hell * bent for|leath- er,|Wish- ing my|girl is by my|side,||All the things I'm|miss- ing, Good|
+w: rope 'em throw and|brand 'em|Soon we'll be|liv- in' high and|wide,||My heart's cal- cu-|lat- ing, My|
+"D7" d/ d3/2"B7" d A |"Em" B E2 E |"Am" d d d c |"Em" B E2"Bm7" D |"Em" E4- | E3 E/E/ | %32
+w: fid- dles love and|kiss- ing, Are|wait- ing at the|end of my|ride.|* Move 'em|
+w: true love will be|wait- ing, Be|wait- ing at the|end of my|ride.||
+ E B/B/ B E/E/ | E B,/B,/"B7" B,"Em" E/E/ | E B/B/ B E |"B7" B3"Em7" E/E/ | E B/B/ B E/E/ | %37
+w: on, head 'em up, Head 'em|up, move 'em on Move 'em|on, head 'em up, Raw-|hide Cut 'em|out, ride 'em in, Ride 'em|
+w: |||||
+ E B,/B,/"B7" B,"Em" E/E/ |1 E B/B/ B"B7" B ||"Em" e2"Bm7" z D |"Em" z E"Bm7" z D | %41
+w: in, let 'em out, Cut 'em|out, ride 'em in, Raw-|hide *||
+w: ||||
+"Em" z E"Bm7" z D |"Em" z E z"B7" B, :|2"Em" B2 B B ||"B7" c2 B2 | e B"Bm7" z A | %46
+w: |* Keep|out. Ride 'em|in Raw-|hide. * *|
+w: |||||
+"Em" z B"Bm7" z A |"Em" z B"Bm7" z A |"Em" e E/E/ E z |] %49
+w: |||
+w: |||
+

@@ -1,0 +1,52 @@
+X:1
+T:Hallelujah Chorus
+T:Hallelujah Chorus 
+C:George Frideric Handel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"D" d3 A"G" B"D"A z2 | d3 A"G" B"D"A z d/d/ |"G" d"D"d z d/d/"G" d"D"d z d |"A7" c d2 c"D" d2 z2 | %4
+w: Hal- le- lu- jah,|Hal- le- lu- jah, Hal- le-|lu- jah, Hal- le- lu- jah, Hal-|le- * lu- jah,|
+"A" e3 A"D" f"A"e z2 | e3 A"D" f"A"e z e/e/ |"D" f"A"e z e/e/"D" f"A"e z e | %7
+w: Hal- le- lu- jah,|Hal- le- lu- jah, Hal- le-|lu- jah, Hal- le- lu- jah, Hal-|
+"D" (f"A"e)"E7" d2 c2 z2 |"^N.C." A4 B2 c2 | dD d3 d c2 | B4 A2 z"A" e/e/ | %11
+w: le- * lu- jah.|For the Lord|God Om- ni- po- tent|reign- eth; Hal- le-|
+"D" d"A"c z e/e/"D" d"A"c z e/e/ |"D" f"A"e z e/e/"D" f"A"e z2 |"^N.C." D4 E2 F2 | GG, G3 G F2 | %15
+w: lu- jah, Hal- le- lu- jah, Hal- le-|lu- jah, Hal- le- lu- jah!|For the Lord|God Om- ni- po- tent|
+ E4 D2 z"D" d/d/ |"G" d"D"d z d/d/"G" d"D"d z d/d/ |"G" d"D"d z d/d/"G" d"D"d z2 | d4"A" e2"D" f2 | %19
+w: reign- eth. Hal- le-|lu- jah, Hal- le- lu- jah, Hal- le-|lu- jah, Hal- le- lu- jah.|For the Lord|
+"G" gG"Em" g3"A" g"D" f2 |"Asus4""A" e4"D" d2 z2 |"A" A4"Bm" B2"A" c2 |"D" dD d3"E7" d"A" c2 | %23
+w: God Om- ni- po- tent|reign- eth;|For the Lord|God Om- ni- po- tent|
+"Bm7""E7" B4"A" A2"D" A2 |"A" A2"G" G2"D" F2"A7" (E>D) |"D" D8 |"A""G" z4"D" F2"A7" (E>D) | %27
+w: reign- eth. The|King- dom of this _|world|is be- *|
+"D" D6 f2 |"A" e2"G" d2"D" d2"A7" c2 |"D" d3"A7" c"D" d2"G#dim" d2 |"A" c3"D" A"G" B2"Em6" c2 | %31
+w: ~come the|King- dom ot our|Lord and of His|Christ, and of His|
+"D" d3"^N.C." A d2 F2 | B2 D2 G2 FE | E4 D2 d2 |"A" a2 c2"D" f2 A2 | %35
+w: Christ; and He shall|reign for- ev- er and|ev- er, and|He shall reign for-|
+"G#dim" d2"A" c"D"B"A" (c2"E" B>A) |"A" A2"A7" A2"D" d2 F2 |"G" B2 D2"C#dim" G2"D" F"G"E | %38
+w: ev- er and ev- * *|er, and He shall|reign for ev- er and|
+"D" (F2"A" E>D)"D" D2 d2 |"A" a2 c2"D" f2 A2 |"G#dim" d2"A" c"D"B"A" (c2"E" B>A) | %41
+w: ev- * * er, and|He shall reign for|ev- er and ev- * .-|
+"A" A4"^N.C." A2 A2 | A2 z"A" e"D" f"A"e z e |"D" f"A"e z e/e/"D" f"A"e z e/e/ | %44
+w: er. King of|Kings, for- ev- er and|ev- er, Hal- le- lu- jah, Hal- le-|
+"D" f"A"e"^N.C." A2 A2 A2 | A2 z"A" e"D" f"A"e z e |"D" f"A"e z e/e/"D" f"A"e z e/e/ | %47
+w: lu- jah, and Lord of|Lords for ev- er and|ev- er, Hal- le- lu- jah, Hal- le|
+"D" f"A"e z2"^N.C." d2 d2 | d2 z"D" A"G" B"D"A z A |"G" B"D"A z A/A/"G" B"D"A z A/A/ | %50
+w: lu- jah! King of|Kings, for- ev- er and|ev- er, Hal- le- lu- jah, Hal- le-|
+"G" B"D"A"^N.C" d2 e2 e2 | e2 z"E" E"A" A"E"^G z E |"A" A"E"^G z E/E/"A" A"E"G z E/E/ | %53
+w: lu- jah! And Lord of|Lords, for ev- er and|ev- er, Hal- le- lu- jah, Hal- le-|
+"A" A"E"^G z2 f2 f2 | f2 z"F#" F"Bm" B"F#"^A z F |"Bm" B"F#"^A z F/F/"Bm" B"F#"A z F/F/ | %56
+w: lu- jah, King of|kings, for ev- er and|ev- er Hal- le- lu- jah, Hal- le|
+"Bm" B2 F"^N.C."f g2 g2 | g4"G" d2 d2 |"A7" e3 g"D" (fe)(fg) |"A" e4 z2 A2 | %60
+w: lu- jah, and Lord of|Lords, King of|Kings and Lord _ of _|Lords; and|
+"Bm" d2"D" f2"G" B2"D" d2 |"A7" g2"D" fe"Asus4""A" e4 |"D" d2 z2"G" d2"D" d2 | %63
+w: He shall reign for|ev- er and ev-|er, King of|
+"G" d2"D" z d"G" d2"D" d2 |"G" d2"D" z d/d/"G" d"D"d z d/d/ |"G" d"D"d z d/d/"G" d"D"d z d/d/ | %66
+w: Kings, and Lord of|Lords, Hal- le- lu- jah, Hal- le-|lu- jah, Hal- le- lu- jah, Hal- le-|
+"G" d"D"d z2 z2 d2 |"G" d6 d2 |"D" d8 |] %69
+w: lu- jah, Hal-|le- lu-|jah!|
+

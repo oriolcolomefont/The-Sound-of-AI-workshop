@@ -1,0 +1,14 @@
+X:1
+T:Balatoni legények, Ica te, Sári te
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ cBcd cA G2 | GE G2 AB c2 :| e2 e2 e2 d2 | cB A2 d2 d2 | d2 c2 BA G2 | GGed cB A2 | cG c2 AB c2 |] %7
+w: Ba- la- to- ni le- gé- nyek,|I- ca, te, Sá- ri, te,|Nem jól fog- ták|a nya- kát, el- rik-|kan- tot- ta ma- gát,|Sá- ri cin- ge cun- ge- ráj,|I- ca, te, Sá- ri, te.|
+w: Li- bát lop- tak sze- gé- nyek,|I- ca, te, Sá- ri, te.||||||
+

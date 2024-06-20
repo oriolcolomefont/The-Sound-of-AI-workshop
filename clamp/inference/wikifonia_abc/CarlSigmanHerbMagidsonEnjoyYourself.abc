@@ -1,0 +1,32 @@
+X:1
+T:Enjoy Yourself
+T:Enjoy Yourself
+C:Carl Sigman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z C |"C" E F G C | E F G C | E F G A |"Dm7""G7" F3 D |"Dm7" F G"G9" A D |"Dm7" F G"G9" A D | %7
+w: 1.~You|work and work for|years and years, You're|al- ways on the|go, You|nev- er take a|min- ute off, too|
+w: 2.~~~|gon- na take that|o- cean trip, No|mat- ter come what|may, You've|got your re- ser-|va- tions but, you|
+"Dm7" F G"G9" A B |"C" G3 C | E F G C | E F G A |"C7" _B G F E |"F" A3 ^G | A c"G7" B"G9" A | %14
+w: bus- y mak- ing|dough. Some|day you'll say you'll|have your fun when|you're a mil- lion-|aire, I-|ma- fine all the|
+w: just can't get a-|way. Next|year for sure you'll|see the world you'll|real- ly get a-|round, But|how far can you|
+"C" c G"C#dim" G A |"Dm7" G F"G7" E D |"C" C3 E || G3 F | E3 G | c B"C#dim" A G |"Dm7""G7" F3 D | %21
+w: fun you'll have in|your old rock- ing|chair. En-|joy your-|self, it's|lat- er than you|think; En-|
+w: trav- el when your|six feet un- der|ground. En|||||
+ F3"C" E |"G7" D3 F | B A G F |"C" E3 E | G3 F | E3 G |"C7" c c d c |"F" c3 c | c A A"Fm6" c | %30
+w: joy your-|self, while|your still in the|pink. The|years go|by as|qiuick- ly as a|wink, En-|joy your- self, en-|
+w: |||||||||
+"C" c G G"C#dim" A |1"Dm7" G F"G7" E D |"C" C3 C :|2"Dm7" G2"Ab7" _A2 |"Dm7" A2"G7" B2 |"C" c4- | %36
+w: joy your- self, it's|lat- er than you|think. 2.~You're|lat- er|than you|think.|
+w: ||||||
+ c4 |] %37
+w: |
+w: |
+

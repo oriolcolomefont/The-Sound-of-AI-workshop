@@ -1,0 +1,21 @@
+X:1
+T:Polish Lullaby
+T:Polish Lullaby
+C:Traditional Polish
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" E E/D/ E |"Dm7" F"G7" F"C" E |"G" D D F |"Adim" A"C" G2 |"C" E E/D/ E |"Dm7" F"G7" F"C" E | %6
+w: Sleep, lit- * tle|Je- sus, my|trea- sure, my|bless- ing,|While Ma- * ry|com- forst Thee,|
+w: Lu- laj- * ze|Je- zu- niu|mo- fa per-|et- ko,|Lu- laj- * u-|lu- bio- ne|
+"G7" D"Em" G3/2 F/ |"F" F"C" E2 |"C" G G c/B/ |"F" A A/G/"Dm" F/E/ | F"G7" F"Adim" A | %11
+w: ten- der, ca-|ress- ing,|Lul- la- by, _|lit- tle _ one, in|lov- ing arms|
+w: me poe- sci-|det- ko.|Lu- laj- ze *|Je- su- * niu _|lu- laj- ze,|
+"Am" A"C" G2 |"C" E E/D/ E |"Dm7" F F"Am7" E |"^Dd" D"G" G3/2 F/ |"G7" F"C" !fermata!E2 |] %16
+w: ly- ing,|Guard- ing _ my|dar- ling and|still- ing Thy|cry- ing.|
+w: lu- laj,|A ty _ go|ma- tu- lu|w~pta- czu u-|tu- laj.|
+

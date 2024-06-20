@@ -1,0 +1,28 @@
+X:1
+T:What Can I Say After I Say I'm Sorry
+T:What Can I Say After I Say I'm Sorry
+C:Abe Lyman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B/d/ B B B |"Gmaj7" B/d/ B B"G7" B |"Cmaj7" B2"C6" A2- |"Am7" A3 z |"Cm6" A/c/ A A A | %5
+w: What can I say, dear,|af- ter I say I'm|sor- ry?|_|What can I do to|
+ A/c/ A A"D7" A |"Gmaj7" A2"G7" G2- | G3 z |"Gmaj7" F/G/ F F"G6" E |"Bbdim" F/G/ F F E | %10
+w: prove it to you, I'm|sor- ry?|_|I did- n't mean to|ev- er be mean to|
+"Am" (c2"B" B"Bb" _B |"Am" A3) E |"D7" F/A/"Am7" E E"D7" D | F/A/"Am7" E E"D7" D | %14
+w: you, _ _|_ If|I did- n't care I|would- n't feel like I|
+"G""Gdim" (d2 ^c"D7" =c |"G" B)"Edim" z"D7" z2 |"G" B/d/ B B B |"Gmaj7" B/d/ B B"G7" B | %18
+w: do. _ _|_|I was all wrong, but|right or wrong I don't|
+"Cmaj7" B2"C6" A2- |"Am7" A3 z |"Cm6" A/c/ A A A | A/c/ A A"D7" A |"Gmaj7" A2"G7" G2- | %23
+w: blame you,|_|Why should I take some-|bod- y like you and|shame you.|
+ G"G" G F G |"E7" =F2 ^D E | =F2 ^D E |"Am" e2 c/ A E/- | E3 E |"Am7" c/d/ c c c | %29
+w: _ I know that|I made you|cry, and I'm|so sor- ry dear,|_ So|what can I say, dear,|
+"D7" B/c/ d d B |1"Gmaj7" A2"G6" G2- |"Edim7" G3"D7/F#" z :|2"Gmaj7" A2"G" G2- | G3 z |] %34
+w: af- ter I say I'm|sor- ry?|_|sor- ry?|_|
+

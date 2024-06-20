@@ -1,0 +1,26 @@
+X:1
+T:Ev 'ry Day Of My Life
+T:Ev'ry Day Of My Life
+C:Al Jacobs
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 EG c2 Bd |:"C" c8- | c2 c2"C+" c2 c2 |"F" c3 A A4- |"G7" A2 DF B2"Dm7" Ac |"G7" B8- | %6
+w: Ev- 'ry day of my|life,|_ I'll be in|love with you,|_ Ev- 'ry day of my|life|
+ B2 B2"G+7" B2 B2 |"Cmaj7" B3 G G4- |"C6" G2 E2"Gm7" F2"C7" G2 |"F" A3 F A4- | %10
+w: _ I pro- mise|I'll be true.|_ I'll nev- er|make you cry,|
+"Dm" A2 F2"G7" G2"G9" A2 |"Cmaj7" B3 G B4- |"Am7" B2 G2 A2 B2 |"D7" c3 A c4- | c2 A2 B2 c2 | %15
+w: _ And as the|years go by|_ I'll al- ways|try to do|_ what pleas- es|
+"Dm7" d8- |"G7" d2 EG c2 Bd |"C" c8- | c2 c2"C+" c2 c2 |"F" c3 A A4- |"G7" A2 DF B2"Dm7" Ac | %21
+w: you.|_ Ev- 'ry day of my|life|_ I'll need you|close to me,|_ And if I have my|
+"G7" B8- | B2 B2"F7b5" B2 B2 |"E7" B3 E E4- |"Gm6" E6"A7" E2 |"Dm" D2 F2"Dm7" A2 c2 |"Fm6" d2 d6 | %27
+w: way|_ that's where you'll|al- ways be|_ I'll|prove how much I|love you|
+ d d2 c"Em7" d d2 c |"A7" B4 z2 AE |"Dm" FGAB-"G" B4- | B2"G7" GA Bc"G7b9" d2 |1"C" c8 | %32
+w: o- ver and o- ver a-|gain, Ev- 'ry|mo- ment I live, _|_ Ev- 'ry day of my|life.|
+ z2 EG c2 Bd :|2"C" c8- | !fermata!c6 z2 |] %35
+w: Ev- 'ry day of my|life.|_|
+

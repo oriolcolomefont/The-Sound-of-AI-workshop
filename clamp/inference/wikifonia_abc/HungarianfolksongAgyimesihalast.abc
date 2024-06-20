@@ -1,0 +1,13 @@
+X:1
+T:A gyimesi halastó
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ CCG,G, EE D2 | C E3 D4 | EEGG AAGF | E D3 D4 | EEGG AA G2 | EEGE DD G2 | CCG,G, EE D2 | E C3 C4 |] %8
+w: A gyi- me- si hal- as tó,|hal- as- tó,|be- le- es- tem sze- ke- res- től,|lo- vas- tól,|jaj, Is- te- nem, ki vesz ki,|jaj, de ki vesz ki- ki- ki,|saj- nál- e még en- ge- met|va- la- ki?|
+

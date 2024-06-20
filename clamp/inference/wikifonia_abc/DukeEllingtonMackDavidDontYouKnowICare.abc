@@ -1,0 +1,30 @@
+X:1
+T:Don't You Know I Care
+T:Don't You Know I Care
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G2 A2 |"Ebmaj7" B4"Bb7b9" =B4 |"Bbm7""Eb7" c8 |"F7" (3=B2 c2 B2"Bb7" _B2 GC- |"Ebmaj7" C4 D2 E2 | %5
+w: Don't you|know I|care|or don't you care to know?|_ If you|
+"Fm7" F4"E7" ^F4 |"Ebmaj7""C7b9" G8 |"Fm7" (3G2 B2 G2"Bb7b9" _c2 BG- |"Ebmaj7" G4"Fm7" G2"Bb7" A2 | %9
+w: know I|care|how can you hurt me so?|_ Dar- ling,|
+"Ebmaj7" B4"Bb7b9" =B4 |"Bbm7""Eb7" c8 |"F7" (3=B2 c2 B2"Bb7" _B2 GC- |"Ebmaj7" C4 D2 E2 | %13
+w: you are|part|of ev- 'ry breath I t,ake|_ will you|
+"Fm7" F4"E7" ^F4 |"Ebmaj7""C7b9" G8 |"Fm7" (3A2 B2 A2"E7" _c2 _dB- |"Ebmaj7" B4-"Am7b5" B3"D7" e | %17
+w: break my|heart,|or give my heart a break?|_ _ I|
+"Gm7" dBcd- d3 _d |"Am7b5" c=ABc-"D7" c3 _c |"Gm7" BBBB-"F#7" B_A_GE- |"Bmaj7" E6 z F | %21
+w: can't fig- ure out _ what|love's all a- bout _ and|where I fit in _ to your scheme.|_ Am|
+"Ebm7" _GEFG- G3 A |"Adim7" _GEFG- G4 |"B7" z2 _GF A2 G2 |"Fm7" F4"Bb7" =G2 A2 | %25
+w: I wast- ing time, _ please|tell me 'cause I'm _|down to my last|dream? Wont you|
+"Ebmaj7" B4"Bb7b9" =B4 |"Bbm7""Eb7" c8 |"F7" (3=B2 c2 B2"Bb7" _B2 GC- |"Ebmaj7" C4 D2 E2 | %29
+w: please be|fair,|love me or let me go.|_ Don't you|
+"Fm7" F4"E7" ^F4 |"Ebmaj7""C7b9" G8 |"Fm7" (3A2 B2 A2"Bb7b9" _c2 DE- |"Eb6" E6 z2 |] %33
+w: know I|care|or don't you care to know?|_|
+

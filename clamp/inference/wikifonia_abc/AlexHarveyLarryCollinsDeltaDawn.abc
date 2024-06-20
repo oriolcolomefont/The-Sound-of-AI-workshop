@@ -1,0 +1,29 @@
+X:1
+T:Delta Dawn
+T:Delta Dawn
+T:Alex Harvey & Larry Collins
+C:Alex Harvey & Larry Collins
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" F2 GF A2 AA |"Bb" GFFD"F" C2 C/DF/- | FFFF AAFF |"C" c6 z c |"F" d<ccc A2 A/AF/ | %5
+w: Del- ta- * Dawn, what's that|flow- er you have on? Could it be|* a fad- ed rose from days gone|by? And|did I hear you say he was a|
+"Bb" G/G/FFD/C/-"F" C2 z C | FFFG AA"C"GG |"Bb""F" F6 z F ||"F" AAcA/A/"Eb" G/F/DFF |"F" F F3- F4 | %10
+w: meet- in' you here to- day * to|take you to his man- sion in the|sky. She's|for- ty- one and her dad- dy still calls her|ba- by. *|
+ AAcA/A/"Eb" GFFF |"F" F F3- F2 z c/c/ |"Bb" dd"D"dd/d/"Gm" cB"C7"cd |"F" c6 z2 | %14
+w: All the folks a- round Browns- ville say she's|cra- zy. * 'Cause she|walks down- town with a suit- case in her|hand,|
+ AAcA/A/"Eb" GFDF |"F" F6 z F/F/ ||"F" AAcA"Eb" GFFF |"F" A8 | A/A/AcA/A/"Eb" G/F/F F2 | %19
+w: Look- in' for a mys- ter- ious dark- haired|man. In her|young- er days they called her Del- ta|Dawn,|Pret- ti- est wom- an you ev- er laid eyes|
+"F" A6 z c/c/ |"Bb" dd"D"dd"Gm" BB"C7"cd |"F" c6 z C | AAcA"Eb" GFDF |"F" F4"D7" ^F4 || %24
+w: on, Then a|man of low de- gree stood by her|side, And|prom- ised her he'd take her for his|bride. *|
+"G""^key G" G2 AG =B2 BB |"C" AGGE"G" D2 D/EG/- | GGGG =BBGG |"D" d6 z d |"G" e<ddd =B2 B/BG/ | %29
+w: Del- ta * Dawn what's that|flow- er you have on? Could it be|* a fad- ed rose from days gone|by? And|did I hear you say he was a|
+"C" A/A/GGE/D/-"G" D2 z D |"G" GGGA =BB"D"AA |"C" G4"G" G4 |] %32
+w: meet- in' you here to- day * to|take you to his man- sion in the|sky. *|
+

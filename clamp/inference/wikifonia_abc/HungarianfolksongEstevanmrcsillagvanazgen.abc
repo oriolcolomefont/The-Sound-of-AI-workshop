@@ -1,0 +1,14 @@
+X:1
+T:Este van már, csillag van az égen
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z C/C/ | F A | G/E/ F/D/ | C C!fine! |: z G/G/ | c A | F/G/ A/F/ |1 G G :|2 G D!D.C.! |] %9
+w: Es- te|van már,|csil- lag van az|é- gen.|Bí- ró|Mar- csa|mez- ít- láb a|ré- ten,||
+w: Gar- zó|Pé- ter|nem vesz töb- bet|né- ki.|Saj nál-|ja a|ci- pő- jét fel-||húz- ni,-|
+

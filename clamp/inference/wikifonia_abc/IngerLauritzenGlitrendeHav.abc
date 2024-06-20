@@ -1,0 +1,20 @@
+X:1
+T:Glitrende Hav
+T:Glitrende hav
+T:Inger Lauritzen
+T:Inger Lauritzen
+C:Inger Lauritzen
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:none
+V:1 treble transpose=-2 
+%%MIDI program 71
+V:1
+[K:F] C F E | D2 B, | G, E D | C2 A, | F, D C | B,2 G, | E, C B, | A,3 | C F E | D2 B, | G, E D | %11
+w: In- tet som|hav og|bøl- ger kan|dra- ge|U- ro- en|kal- der|læng- sler- ne|frem.|Den der vil|sej- le|le- ver med|
+ C2 A, | F, D C | B, D F | E D E | F3 || F C F | E3 | D B, D | C3 | G ^F G | B A G | A F D | C3 | %24
+w: sav- net|delt mel- lem|ha- vet og|sø- man- dens|hjem.|Blæn- den- de|hav,|glit- ren- de|hav;|vind- stil- le|da- ge du|sø- man- den|gav.|
+ F C F | E3 | D B, D | C3 | G ^F G | B2 E | F3- | F z2 |] %32
+w: Ly- se- re|klang,|bøl- ger- nes|sang.|Hør det end-|nu en|gang.||
+

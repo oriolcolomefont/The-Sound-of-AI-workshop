@@ -1,0 +1,28 @@
+X:1
+T:After All These Years
+T:After all these years
+T:Coleman/Kennedy
+C:Des Coleman, Ollie Kennedy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"G" G A2 B | D3 B, D4- | D4 GA B2 |"C" C3 D C4- | C3 c c3 B |"D" A8- | A2"D7" FF G2 A2 | %7
+w: My dar- ling|come to me|* sit you down|ea- si- ly|* and rest a-|while|* near the soft fire-|
+w: Time from me|pass- es on|* and I am|grow- ing old|* a lifetime nearly|gone|* I can- not un-|
+"G" D4"C" E2 DC |"D" D4- DG (3GAB |"G" D3 B, D4- | D4 GA B2 |"C" C3 D C4- | C3 c c3 B | %13
+w: light, cold is the|night, * but warm is my|heart with pride|* hav- ing you|by my side|* you're still my|
+w: fold nights dark and|cold * but warm is your|hand in mine|* feeb- le with|age- less time|* the light of|
+"D" A3 A A4- | A2"D7" FF F2 GA |"G" G8- |"^Chorus:" G3 G G3 F |"C" F2 E2 E4- | E3 E E2 DC | %19
+w: guid- ing light|* af- ter a- ll these|years|* your soft as-|sur- ing ways|* the rock I lean|
+w: love still shines|* af- ter a ll these|years.||||
+"G" D8- | D3 G G2 AB |"D" A3 B A4- |"A" A3 E E2 FG | G6 AG- |"D" G4 G A2 B |"G" D3 B, D4- | %26
+w: on|* saw me through my|dark- est days|* when all hope had|gone * *|* you're still the|on- ly one|
+w: |||||||
+ D3 G G F2 =F |"Am" E8- | E3 c c3 B |"D" A8- | A2"D7" FF F2 GA |"G" G8 |] %32
+w: * I'll ev- er hold|near|* and I love|you|* af- ter all * these|years.|
+w: ||||||
+

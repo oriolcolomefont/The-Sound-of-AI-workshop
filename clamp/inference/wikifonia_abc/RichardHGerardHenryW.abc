@@ -1,0 +1,23 @@
+X:1
+T:Sweet Adeline
+T:Sweet Adeline
+T:Richard H Gerard, Henry W. Armstrong
+C:Richard H Gerard,  Henry W. Armstrong
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." a g c |"F" f4- | f f"A7" e ^c |"Bb" d4- | d f f d |"C7" e4- | e d d B |"F" c4- | %8
+w: Sweet Ad- e-|line|* my Ad- e-|line|* at night dear|heart|* for you I|pine|
+ c a"C7" g c |"F" f4- | f f"A7" e ^c |"Bb" d4- | d2"E7" e d |"F" c f"D7" _b a |"G7" g d"C7" e c | %15
+w: * in all my|dreams|* your fair face|beams|* you're the|flow- er of my|heart sweet ad- e|
+"F" f4- | f a"C7" g c |"F" f4- | f f"A7" e ^c |"Bb" d4- | d f f d |"C7" e4- | e d d B |"F" c4- | %24
+w: line|* Sweet Ad- e-|line|* my Ad e|line|* at night dear|heart|* for you I|pine|
+ c a"C7" g c |"F" f4- | f f"D7" e ^c |"Bb" d4- | d2"E7" e d |"F" c f"D7" _b a |"G7" g d"C7" e c | %31
+w: * In all my|dreams|* your fair face|beams|* youre the|flow- er of my|heart sweet Ad- e-|
+"F" f4- | f z z2 |] %33
+w: line||
+

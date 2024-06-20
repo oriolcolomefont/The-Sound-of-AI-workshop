@@ -1,0 +1,30 @@
+X:1
+T:One At A Time
+T:One At A Time
+C:Michel Legrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7" G2- (3GED E4- |"Dm7" E2 ED"G7" E2 F2 |"Cmaj7" G2- (3GED"Am7" E4- | %3
+w: One _ at a time,|_ let me have one|smile _ at a time|
+"Dm7" E2 ED"G7" E2"G7b5" F2 |"Gm7" D2- (3DDC D4- |"Dm7" D2 DC"G7" D2 E2 |"C" C4- C B,3 | %7
+w: _ Give me just one|kiss _ at a time,|_ so we'll have e-|nough _ to|
+"Gm7" _B,2 A,2"G7" _A,2 G,2 |"Cmaj7" G2- (3GED E4- |"Dm7" E2 ED"G7" E2 F2 |"Cmaj7" G2- (3GED E4- | %11
+w: last a life- time.|One _ at a time|_ Let there be some|one _ at a time,|
+ E2 E^F G A3 |"Em" B2- (3BG^F G3 A |"Em7" B2- (3BG^F G3 A |"A7" B2- (3BG^F G4- | %15
+w: _ let the stars take|turns _ up a- bove, while|we're _ mak- ing love one|night _ at a time.|
+"A7b9" G2 G2 G2 G2 |"Dm7" G2- (3GED E3 F |"E7" G2 ^G2"Bm7" A2"E7" B2 |"Am7" c2- (3cAG A4- | %19
+w: _ One sip of|wine _ ev 'ry day, like|hear ing that you're|mine _ ev 'ry day;|
+"D7" A2 AB c d3 |"C/G" e2- (3ecB"Am7" c3 d |"Dm7" e2- (3ecB"F/C" c2"Bm7b5" d2 |"E7" e8- | %23
+w: _ on- ly fools would|will _ it a- way, or|spill _ it the way they|do.|
+"A7" e2 e2"A7b9" g2 f2 |"Dm7" e2- (3ecB c2 cd | e2- (3ecB"G11" c2"G7" d2 |"C""Bb/C" c8- | %27
+w: _ So till there's|one _ at a time, give me|one _ at a time with|you.|
+"Ab/C" c8- |"C" c8- | c8 | %30
+w: _|||
+

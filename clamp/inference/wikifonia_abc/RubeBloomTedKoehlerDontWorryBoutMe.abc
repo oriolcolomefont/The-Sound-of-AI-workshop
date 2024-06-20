@@ -1,0 +1,28 @@
+X:1
+T:Don't Worry 'Bout Me
+T:Don't Worry 'Bout Me
+C:Rube Bloom
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z"Ab" E |:"Eb7b9" (3e e e e2- | e2 d2 |"Abmaj7" c3/2 c/"Ab6" c2- |"Abmaj7" c3"Ab6" E | %5
+w: Don't|wor- ry 'bout me,|* I'll|get a- long,|* for-|
+"Eb7b9" (3c c c c2- | c _c (3B A G |"Ab6" F4- | F F"Bdim" A G |"Bbm7" (3F G E F A | (3B c A B c | %11
+w: get a- bout me,|* Be hap- py my|love.|* Let's say that|our lit- tle show ~is|ov- er and so the|
+"Bbm7b5" d3/2 =E/ E2- | =E2"Bbm6" F G |"Fm" (3A B G A B |"Bb7" (3=B c A _B c | %15
+w: stor- y ends,|* Why not|call it a day the|sen- si- ble way, and|
+"Bbm7" B3/2 E/"Eb7sus4" E2- |"F#dim" E3"Eb7" E |"Eb7b9" (3e e e e2- | e2 d2 | %19
+w: still be friends.|* "Look|out for your- self"|* should|
+"Abmaj9" c3/2 c/"Ab6" c2- |"Ab" c2 c"Eb7" d |"Ab" (3e e e (3e =d _d |"Ab7" (3c c c c"Ab+7" B | %23
+w: be a rule,|* Give your|heart and your love to who-|ev- er you love, Don't|
+"Db" A3/2 A/ A2- | A2 F G | (3A B G A B |"Dbm6" (3c d B c d |"Ab" e3/2 E/"Eb7" E2- | %28
+w: be a fool.|* Dar- ling,|why shoud you cling to|some fad- ing thing that|used to be?|
+"Ab" E3"Adim" E |"Bbm7" (3e e e e2- |"Eb7b9" e c (3c c c |1"A6" A2"Bdim7" z2 || %32
+w: * If|you can for- get,|* Don't wor- ry 'bout|me.|
+"Bbm7" z2"Eb7" z E :|2"Ab""Fm" A4- ||"Bbm7""Eb7""Ab" A4 |] %35
+w: Don't|me.||
+

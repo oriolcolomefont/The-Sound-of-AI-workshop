@@ -1,0 +1,27 @@
+X:1
+T:Cinderella, Stay In My Arms
+T:Cinderella, Stay In My Arms
+T:Jimmy Kennedy & Michael Carr
+C:Jimmy Kennedy & Michael Carr
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c6- | c2 B2 c2 |"E7" B4 ^DE | c2 B2 z2 |"A7" A3 ^G =G^F | F2 E3 A |"D7" E6 | D6 | %8
+w: Stay|* In My|Arms, Cin- der-|el- la,|while the clock is|strik- ing I'll|hold|you.|
+"G7" E3 D ^CD | F3 E ^DE |"C" G6- | G4 A2 |"D7" B3 A ^GA | B4 c2 |"Dm" e6 |"G7" d4 e2 |"C" c6- | %17
+w: At the stroke of|twelve don't run a-|way.|* Oh,|can't you hear my|heart, it|begs|you to|Stay|
+ c2 B2 c2 |"E7" B4 ^DE | c2 B2 z2 |"A7" A3 ^G =G^F | F2 E3 A |"D7" E6 | D6 |"Dm" D2 F2 A2 | %25
+w: * In My|Arms, Cin- der-|el- la,|May- be I'm that|fel- low Prince|Charm-|ing.|Since I met|
+"Ebdim" c2 c2 c2 |"C" c>A A4- | A4 c2 |"Dm" c>A A4- |"G7" A4 c2 |"C" c>A A4- |"A7" A6 | %32
+w: you I've had|one de- sign,|* your|wed- ding shoes|* placed|next to mine,||
+"Dm" D2 F2 A2 |"D#dim" c2 c2 c2 |"Em" e>B B4- |"A7" B z AB"Am7" cA |"D7" d6 |"G7" c4 d2 |"C" c6- | %39
+w: mid- night of|mid- nights, and|so di- vine,|* Cin- der- el- la|Stay|In My|Arms.-|
+ c2 z2 z2 |] %40
+w: |
+

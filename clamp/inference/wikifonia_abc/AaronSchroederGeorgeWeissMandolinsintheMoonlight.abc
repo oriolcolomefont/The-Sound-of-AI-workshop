@@ -1,0 +1,25 @@
+X:1
+T:Mandolins in the Moonlight
+T:Mandolins in the moonlight
+T:George Weiss, Aaron Schroeder
+C:Aaron Schroeder, George Weiss
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 F2 |:"Bb" F2 G2 G2 FF- | F G2 G G2 F2 | z F F2 G2 FC- |"F7" C6 F2 | F2 G2 G2 FF- | %6
+w: We're|not in Ven- ice in|* a gon- do- la|be- neath skies of blue|* and|yet it seems we're there|
+w: |wont be toss- ing coins|* in the foun- tain|down in Rome to- night|* and|yet my dreams come true|
+[M:4/4] F G2 G G2 F2 | z F F2 G2 FB,- |"Bb" B, z F2 G2 A2 |"Bb" B2 BB- BA G2 |"F7" A2 c6 | %11
+w: * Si- gno- ri- na|when I'm close to you|* cause I hear|Man- do- lins * in the|Moon- light|
+w: * Si- gno- ri- na|when you hold me tight||||
+ A2 AA- AB c2 |"Bb" B2 F6 |"Bb7" d2 dd- dc B2 |"Eb" e4 z eee |"Bb" dddd- dcBd |"F7" cccc- cB A2 | %17
+w: Man- do- lins * in the|moon- light|see what mag * ic you|start A song of|I- ta- ly sings * in per- fect|tune with the strings * of your|
+w: ||||||
+"Bb" B8- | B6 F2 :|"Bb" B8- | B6 z2 |] %21
+w: heart.|* We|heart||
+w: ||||
+

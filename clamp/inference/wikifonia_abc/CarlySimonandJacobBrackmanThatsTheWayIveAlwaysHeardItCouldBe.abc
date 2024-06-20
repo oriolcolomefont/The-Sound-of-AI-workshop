@@ -1,0 +1,44 @@
+X:1
+T:That's The Way I've Always Heard It Could Be
+T:Thats The Way I've Always Heard It Should Be
+T:Carly Simon and Jacob Brackman
+T:1970, 1971 Carly Simon and Jacob Brackman
+C:Carly Simon and Jacob Brackman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"Bm9/D" BcB cB/c/-cd |"Gmaj7" e<f- f/dd/- d4 |"Bm9/D" z2 B/c/B/c/- c<B- B/cd/- | %3
+w: My Fa- ther sits at night _ with|no _ _ lights on. _|His cig- a- rette _ glows _ in the|
+w: My friends from col- lege, they're _ all|mar- ried _ now. _ _|They have their hous- * es _ and their|
+w: You say that we can keep our _|_ love _ a- live _|Babe, all i know _ is _ what I|
+"Gmaj7" d b3- b4 |"Dm9" z2 a/a/=f/f/- f/gf/- f2 |"Cmaj7" z gee- e>d e2- | %6
+w: _ dark. _|The Liv- ing room _ is still. _|I walk by, _ no _|
+w: _ lawns. _|They have their si- * lent noons _|Tear- ful nights _ _ _|
+w: _ see. _|The cou- ples cling _ and claw _|and drown in _ _ loves|
+"Am/G" e/c/ G3- G z"Ab" z2 |"G" z8 |"Bm9/D" z BcB cBcd |"Gmaj7" f2 dd- d4 | %10
+w: _ re- mark *||I tip- toed past the mas- ter|bed- room where _|
+w: ang- ry dawns *||Their child- ren hate them for the|things they're not _|
+w: _ de- bris *||You say we'll soar like two birds|through the clouds, _|
+"Bm9/D" z BcB cB- (3Bcd |"G" b8 |"Dm9" z a a/=ff/ g f2 z |"Cmaj7" z gge e e2"Am/G" =c |"Ab" G8 | %15
+w: my moth- er reads her _ mag- a-|zine|i hear her call, "Sweet dreams"|but i for- get how to|dream|
+w: They hate them- selves for _ what they|are;|And yet they drink, they laugh|Close the wounds, _ hide the|scar.|
+w: But soon you'll cage me _ on your|shelf|I'll ne- ver learn to be|Just me first by _ my|self.|
+"G" z8 |"F" z2 z =c/c/ =f/gg/aa |"Em7" ageg- ge z2 |"Dm7" z z/ A/=ff/a/- aa a/ag/ | %19
+w: |but you say it's time _ we|moved in to geth- * er|and raised a fam- * ly of our own,|
+w: ||||
+w: ||||
+"Cmaj7" ag d<e- e4 |"F" z =cd=f/a/- aaaa |"Em7" ageg z eeg |1 b"A"aae- e2 z g ||"D" a2 a6 ||2 %24
+w: _ you and me. _|Well, thats the way _ I've al- ways|heard it should be. You want to|mar- * ry me? _ we'll|mar- ry|
+w: |||||
+w: |||||
+"A" baae- e2 g2 ||"D" agfe dB A2- | A2 z2 z4 |] %27
+w: |||
+w: mar- * ry me? _ We'll|mar- * ry. _ _ _ _|_|
+w: |||
+

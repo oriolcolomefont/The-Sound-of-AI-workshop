@@ -1,0 +1,26 @@
+X:1
+T:P. S. I Love You
+T:P.S. I Love You
+C:Gordon Hll Jenkins
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" z2 E>F G>Bc>e |"Gm" d4 z3/2"C7" c<BA/ |"Fm" c4"Bb7" z3/2 B<AG/ |"C7" B8 |"F7" z2 C>D E>FG>c | %5
+w: Dear I thought I'd drop a|line, the weath- ers|cool, the folks are|fine,|I'm in bed each night at|
+"Bb7" G8 |"Eb" z2 E2"Fm" E3 E |"Bb7" E2 F6 |"Eb" z2 E>F G>Bc>e |"Gm" d4 z3/2"C7" c<BA/ | %10
+w: nine.|P. S. I|love you.|Yes- ter- day we had some|rain, but all in|
+"Fm" c4"Bb7" z3/2 B<AG/ |"C7" B8 |"F7" z2 C>D E>FG>c |"Bb7" G8 |"Eb" z2 E2"Fm" E3 E |"Bb" F2 E6 | %16
+w: all, I can't com-|plain.|Was it dust- y on the|train.|P. S. I|love you.|
+"Eb7" B2 B>G"Fm7" A2- A>F |"Eb7" G>GE>F F>G- G2 | z3/2"Ab" B<BB/ A2 CE- | E8 |"F7" c2 c>=A B2 B>F | %21
+w: Write to the Browns * just|as soon as you're a- ble, *|They came a- round to call.||I burned a hole in the|
+ =A>AF>G- G>A- A2 |"Bb7" z3/2 B<BB/"C7" c3 c |"F7" E2 EF-"Bb7" F4 |"Eb" z2 E>F G>Bc>e | %25
+w: din- ing- room ta- * ble, *|And let me see, I|guess thats all. *|Noth- ing else for me to|
+"Gm" d4"C7" z3/2 c<BA/ |"Fm" c4"Bb7" z3/2 B<AG/ |"Bbm7""C7" B8 |"F7" z2 C>D E>FG>c |"Bb7" G2 G6 | %30
+w: say, and so I'll|close, but, by the|way,|ev- 'ry- bod- y's think- ing|of you.|
+"Eb" z2 E2"Db7" E3 E |"Ebmaj7" F2"Eb" E6 |"Ab" C2 E2"Emaj7" A2"Bb7b9" _c2 |"Ebmaj9" B8 |] %34
+w: P. S. I|love you.|P. S. I love|you.|
+

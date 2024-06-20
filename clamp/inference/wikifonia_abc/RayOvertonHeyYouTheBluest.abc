@@ -1,0 +1,34 @@
+X:1
+T:Hey You The Bluest
+T:Hey You, The Bluest
+T:Ray Overton
+T:Blues/Swing - score
+T:Copyright © 2012
+C:Ray Overton
+Z:Creative Commons BY
+L:1/8
+M:4/4
+K:Ab
+U:s=!stemless!
+V:1 treble 
+%%MIDI program 0
+V:1
+"_bass" z[K:bass] C, E,=E, |:"^A" F,"Fm69" z[K:treble]"Fm69""_horns" f(f f3) =B | %2
+ cf z2[K:bass] z"_bass" C,E,=E, | F,"Fm69" z[K:treble]"Fm69""_horns" f(f f3) =B | %4
+ cf z2[K:bass] z"_bass" E,_G,=G, | A,"Ab13" z[K:treble]"Ab13""_horns" (3f2 (f2 f2) z e | %6
+ (3c=B(_B B2)[K:bass] z"_bass" C,E,=E, | F,"Fm69" z[K:treble]"Fm69""_horns" f(f f3) =B | %8
+ cf z2 z =Bcf |"D7#9" f(c"G+7" c2)"G+7" e(B B2) |"Db7" e(B"C7#5b9" B2)"C7#5b9" d(A A2) |1 %11
+"C7b9" z2 sB2 B(B B2) ||"C7" z z z2[K:bass] z C,E,=E,[K:treble] :|2 %13
+[K:treble]"C7b9" z2 (sB2 B)(B B2) ||"C7" sB2 sB2 sB2 sB2 ||"Fm6""^B" (A8 | A4) (3B=B_B AB | %17
+"C7" =B(=E (E6) | =E3) z (3_F2 A2 d2 |"Fm""Fm#5""Fm""Fm#5" (c8 | %20
+"Fm""Fm#5""Fm" c4)"Fm" (3cd"Fm#5"c"Fm#5" =Bc |"C7" g"C7b9"(=e"C7b9""C7""C7b9" (e6) | %22
+"C7""C7b9""C7" =e4)"C7""C7b9" (3g2"C7b9" =e2 _d2 |"Fm""Fm#5""Fm""Fm#5" (c8 | %24
+"Fm""Fm#5""Fm" c4)"Fm" (3cd"Fm#5"c"Fm#5" =Bc |"C7" d(B"Fm" B2)"Fm" c(A A2) |"G+7" =B(G G6) | %27
+"C7" G z z2[K:bass] z"_\n\n\n\n""_bass""^8va basso" C,E,=E, |: %28
+"^C" F,"Fm69" z[K:treble]"Fm69" f(f f3) =B | cf z2[K:bass] z C,E,=E, | %30
+ F,"Fm69" z[K:treble]"Fm69""_horns" f(f f3) =B | cf z2[K:bass] z"_bass" E,_G,=G, | %32
+ A,"Ab13" z[K:treble]"Ab13""_horns" (3f2 (f2 f2) z e | (3c=B(_B B2)[K:bass] z"_bass" C,E,=E, | %34
+ F,"Fm69" z[K:treble]"Fm69""_horns" f(f f3) =B | cf z2 z =Bcf |"D7#9" f(c"G+7" c2)"G+7" e(B B2) | %37
+"Db7" e(B"C7#5b9" B2)"C7#5b9" d(A A2) |"Fm""_Fine" !fermata!F8 | %39
+"G+7""^Turnaround""_Solo on Letter C changes" sB2"C7""_After Solos play entire form" sB2"C7" sB2"^repeat for solos" sB2 :| %40
+

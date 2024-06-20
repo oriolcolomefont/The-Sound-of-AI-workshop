@@ -1,0 +1,61 @@
+X:1
+T:Advent Medley 1
+T:Advent Medley 1
+T:© Annie & John November 2011
+T:John and Annie
+T:Advent medley
+T:2 Clarinet/Cornet
+T:© Annie & John November 2011
+C:Arranged by John & Annie
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=130
+M:4/4
+K:Dmin
+V:1 treble nm="Flute"
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 73
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/8
+V:1
+|:"^130 =""^A" D E F G | A2 A- G | A2 A2 | A A B c | B2 A- G | A4 | D E F G | A2 A- G | A2 A2 | %9
+w: Let all mortal _|flesh keep _|silence, _|and with fear and|trembling _ _|stand;|ponder _ nothing _|earthly _ _|minded, _|
+ A A B c | B2 A- G | A4 | A A d A | G3 F | (D F A F) | E4 | A A d A | G2 E- F | D4 :| %19
+w: for with blessing _|in His _|hand,|Christ our God to|earth descendeth|_ _ _ _||our full homage _|to demand. _||
+[K:Emin]"^B" z3 d | d3 B | B3 B | (A c) B A |[M:2/4] G A |[M:4/4] B G E G | (A F E D) |:"^C" E3 E | %27
+w: Rejoice|_ rejoice,|_ Immanuel|_ _ _ _|* shall|come to thee, O|Israel. _ _ _|_ O|
+ G B B B | (A c B A) |[M:2/4] G A |[M:4/4] B G E G | (A F E D) | E3 A | A E E F | G2- F E | D3 G | %36
+w: come, O come, Immanuel|_ _ _ _|* and|ransom _ captive _|Israel _ _ _|_ that|mourns in lonely _|exile _ _|here until|
+ A B B B | (A c) B A | G3 d | d3 B | B3 B | (A c) B A |[M:2/4] G A |[M:4/4] B G E G | (A F E D) :| %45
+w: _ the Son of|God _ _ appear.|_ Rejoice,|_ rejoice,|_ Immanuel|_ _ _ _|* shall|come to thee, O|Israel. _ _ _|
+"^D" E3 G | G F G A | G2 D B | B A B c | B2 A B | c B A G | F2 G- c | B2- A3/2 G/ | G3 d | d3 B | %55
+w: _ O|come let us adore|_ Him O|come let us adore|_ Him O|come let us adore|_ Him _|Christ _ the|Lord. _|_ rejoice,|
+ B3 B | (A c B A) |[M:2/4] G A |[M:4/4] B G E G | (A F E D) | E3 z | z4 || %62
+w: _ Immanuel|_ _ _ _|* shall|come to thee, O|Israel. _ _ _|||
+[Q:1/4=120]"^Lively""^E" E E F G | A G F/ E3/2 | D/ D3/2 E F | G F E D | C/ C3/2 D E | %67
+w: Father _ God I|wonder _ how I|managed _ to exist|_ without _ the|knowledge _ of Your|
+ F E D/- C3/2 | F F F/ G3/2 | F3 ^D | E E F G | A G F E | D/ D3/2 E F | G F E D | C C D E | %75
+w: parenthood _ _ _|and Your loving _|care. But|now I am Your|son i am adopted|_ _ in Your|family _ _ and|I can never _|
+ F E/D/- D G | F F F F | B A G F |: B2 E2 | c B A G | A2 D2 | B A G F | G2 B,2 | A G F E |1 %84
+w: be alone, _ _ 'cause|Father _ God You're|there beside _ me.|I will|sing Your praises _|I will|sing Your praises _|I will|sing Your praises _|
+ F2 F/ F3/2 | B4 :|2 F2 E/ D3/2 || E3 z |"^F" z3 E || G B B B | (A c B A) |[M:2/4] G A | %92
+w: for evermore. _||for evermore. _||O|come, O come, Immanuel|_ _ _ _|* and|
+[M:4/4] B G E G | (A F E) D | E3 A | A E E F | G2- F E | D3 G | A B B B | (A c) B A |"^G" G3 d | %101
+w: ransom _ captive _|Israel * * *|* that|mourns in lonely _|exile _ _|here until|_ the Son of|God * * appear.|_ Rejoice,|
+ d3 B | B3 B | (A c) B A |[M:2/4] G A |[M:4/4] B G E G | (A F E D) | E4 |] %108
+w: _ rejoice,|_ Immanuel|_ _ _ _|* shall|come to thee, O|Israel. * * *||
+V:2
+|: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 :| %19
+[K:Emin] x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 |: x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | %31
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 :| x8 | x8 | %47
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 | x8 || x8 | %63
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | c8 | x8 | B8 | %82
+ x8 | A8 |1 x8 | x7/2 cBcB x/ :|2 x8 || x8 | x8 || x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 | x8 | %96
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 |[M:4/4] x8 | x8 | x8 |] %108
+

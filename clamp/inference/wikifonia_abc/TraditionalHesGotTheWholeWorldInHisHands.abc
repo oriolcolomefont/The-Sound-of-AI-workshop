@@ -1,0 +1,27 @@
+X:1
+T:He's Got The Whole World In His Hands
+T:He's Got The Whole World In His Hands
+T:Traditional
+C:Traditional;
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z ccc |"F" c4 A F3 | c d2 c- cccc |"C7" B4 G E3 |"F" c d2 c- cccc | c4 A F3 | c d2 c- cccc | %7
+w: He's got the|whole world *|in His hands, * He's got the|whole world *|in His hands, * He's got the|whole world *|in His hands, * He's got the|
+"C7" c2 c2 B G3 |"F" F4 z ccc | c2 cc A F3 | c d2 c- cccc |"C7" B2 BB G E3 |"F" c d2 c- cccc | %13
+w: whole world in His|hands. He's got the|wind and the rain *|in His hands * He's got the|wind and the rain *|in His hands, * He's got the|
+ c2 cc A F3 | c d2 c- cccc |"C7" c2 c2 B G3 |"F" F4 z ccc | cc- c2 A F3 | c d2 c- cccc | %19
+w: wind and the rain *|in His hands, * He's got the|whole world in His|hands. He's got the|sin- ner * man *|in His hands * He's got the|
+"C7" BB- B2 G E3 |"F" c d2 c- cccc | cc- c2 A F3 | c d2 c- cccc |"C7" c2 c2 B G3 |"F" F4 z c c2 | %25
+w: sin- ner * man *|in His hands, * He's got the|sin- ner- * man *|in His hands, * He's got the|whole world in His|hands. He's got|
+ c2 c2 A F3 | c d2 c z c c2 |"C7" B2 B2 G E3 |"F" c d2 c z c c2 | c2 c2 A F3 | c d2 c- cccc | %31
+w: you and me *|in His hands, He's got|you and me *|in His hands, He's got|you and me *|in His hands,- * He's got the|
+"C7" c2 c2 B G3 |"F" F4- F z z2 |] %33
+w: whole world in His|hands.- *|
+

@@ -1,0 +1,31 @@
+X:1
+T:Sierra Sue
+T:Sierra Sue
+T:Joseph B.Carey
+C:Joseph B Carey
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G2 F E | G2 F E |"Am7" G4 |"D7" F4 | F2 E D | F2 E D |"G" B4- | B3 z |"E7" B2 ^A B | c2 B2 | %10
+w: Far from the|ci- ty of|sor-|rows|sweet- heart I'm|wait- ing for|you||come to the|hills that|
+w: When you are|ti- red and|wea-|ry|then you'll come|home to the|fold||there on the|trail you'll|
+"A7" B4 | A4 | ^c2 B A | G2 ^D E |"D7" A4- |"Am7""D7" A z z2 | z"^Chorus:" B B ^A |:"G7" B4- | %18
+w: love|you|come to a|heart fond and|true||Si- er- ra|Sue|
+w: find|me|Wait- ing for|you as of|old.||||
+ B G"G" F E |"G7" G2 D2- | D B B"G" ^A | B4- | B G"B7" F ^D |"C" E4- |"Am" E c c"E7" B |"Am" c4- | %26
+w: * I'm sad and|lone- ly|* the rocks and|rills|* are lone- ly|too|* Si- er- ra|Sue|
+w: ||||||||
+ c c"E7" B ^G |"Am" B2 A2- | A"A7" E F G | A4- | A G G E |"D7" A4- |"D7" A B B ^A |"G" B4- | %34
+w: * I want you|on- ly|* no- one but|you|* Si- er- ra|Sue|* the ro- ses|weep|
+w: ||||||||
+ B G"G" F E | G2 D2- | D B ^A B |"G7" d4- | d d"E7" c B |"Am" E4- | E E F G |"A7" A4- | A G F G | %43
+w: * their tears are|fal- ling|* the gen- tle|doves|* no long- er|coo|* Oh cant you|hear|* my sad heart|
+w: |||||||||
+"G" d2 B2- |"E7" B B c B |"A7" e4- | e A"D7" A B |"G" G3 z |"D7" z B B ^A :|"G" G4- |"C" G3"G" z |] %51
+w: cal- ling|* cal- ling for|you|* Si- er- ra|Sue|Si- er- ra|Sue||
+w: ||||||||
+

@@ -1,0 +1,29 @@
+X:1
+T:Take Me In Your Arms
+T:Take Me In Your Arms
+T:From Broadway Show: Stardust
+T:Fred Markush
+T:Mitchell Parish
+C:Fred Markush
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Em" B/c/d/c/ B2- | B E F G |"Am" B B B/ _B A/- |"Am6" A4 |"B7" F/G/A/G/ F2- | F B, ^C ^D | %6
+w: Take me in your arms|_ be- fore you|take you love a- way,|_|Take me in your arms|_ be- fore we|
+"Em" E4- | E2"B7" z2 |"Em" B/c/d/c/ B2- | B E F G |"Am" B B B/ _B A/- |"Am6" A4 | %12
+w: part.|_|Let me thrill a- gain|_ to your car-|ess of yes- ter- day,|_|
+"B7" F/G/A/G/ F2- | F B, ^C ^D |"Em" E4- | E e e e |"D7" e2 d2- | d A ^G A |"C" c c"G" B2- | %19
+w: Let me fill a- gain|_ my hun- gry|heart.|_ One hour of|glad- ness|_ that we knew|in the past,|
+ B B ^A B |"Am6" c2"B7" B2- | B F =F ^F |"Am" A A"Em" G2 |"C7" G G"B7" F2 |"Em" B/c/d/c/ B2- | %25
+w: _ One mo- ment's|mad- ness,|_ Al- though it|be the last.|Hold me fast.|Blind me with your charms,|
+ B E F G |"Am" B B B/ _B A/- |"Am6" A4 |1"B7" F/G/A/G/ F2- | F B, ^C ^D |"Em" E4- | E z"B7" z2 :|2 %32
+w: _ with all the|star- dust in the sky,|_|Take me in your arms,|_ and then good|bye.|_|
+"B7" F/G/A/G/ F2- | F B ^c ^d |"Em" e4- | e z z2 |] %36
+w: Take me in your arms,|_ and then good-|bye|_|
+

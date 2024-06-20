@@ -1,0 +1,45 @@
+X:1
+T:I Guess I'll Have To Dream The Rest (Transcribed)
+C:Harold Green
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"Fmaj7" ec AF"G7" E2- ED |"C " E2 G2"Fmaj7" E2 z E |"Dmin7" GF EF"G7" E2- EB, |"Amin7" A,6 z B, | %4
+w: |* * * I|guess I'll have to dream * the|rest if|
+"Emin7" DD- DC"Cdim" BB- BA |"Dmin7" A,A, CE-"G7" E2 z D |"Cmaj7" B,B,- B,C"Cdim" BB- BA | %7
+w: you can't * re- mem- ber * the|things that you said, * those|nights that * my shoul- der * held|
+"Dmin7" A,A, CE-"G7" E2 z D |"Cmaj7" B,C EG"Gdim" _B2- BB |"F " A6 z E | %10
+w: your slee- py head; * if|you be- lieve that par- * ting's|best, I|
+"Dmin7" A,B, CD"Fdim" E2- EE |"G7" D6 z E |"Dmin7" GF EF"G7" E2- EB, |"Amin7" A,6 z B, | %14
+w: guess I'll have to dream * the|rest. I|guess I'll have to dream * a\-|lone of|
+"Emin7" DD- DC"Cdim" BB- BA |"Dmin7" A,A, CE-"G7" E2 z D |"Cmaj7" B,B,- B,C"Cdim" BB- BA | %17
+w: ho- ney- * moon crui- ses * once|dear to my heart, * of|one room * a\- part- ments * where|
+"Dmin7" A,A, CE-"G7" E2 z D |"Cmaj7" B,C EG"Gdim" _B2- BB |"F " A6 z A |"Dmin" A,B, CD"G7" E2- EE | %21
+w: we said we'd start, * of|foo- lish things we planned * to|own, I|guess I'll have to dream * a\-|
+"C ""C7" C6 z2 |"Dmin7" D4"G7" E4 |"Amin" C4 z2 D2 |"Dmin7" EE- EE"G7" G2- GG |"C ""C7" E6 z2 | %26
+w: lone.|I can|see that|your heart * has gone * a\-|stray;|
+"Dmin7" D4"G7" E4 |"Amin" C6 E2 |"F " AA- AA"Dmin7" A2 E2 |"G7" D6 z E |"Dmin7" GF EF"G7" E2- EB, | %31
+w: as for|me, I'll|love you * the same old|way. I|guess I'll have to dream * the|
+"Amin7" A,6 z B, |"Emin7" DD- DC"Cdim" BB- BA |"Dmin7" A,A, CE-"G " E2 z D | %34
+w: rest. There'll|be no * friends wai- ting * to|throw shoes and rice; * those|
+"Cmaj7" B,B,- B,C"Cdim" BB- BA |"Dmin7" A,A, CE-"G7" E2 z D |"Cmaj7" B,C EG"Gdim" _B2- BB | %37
+w: hea- ven- * ly mo- ments * will|ne- ver come twice; * I'm|thank- ful for the hours * you've|
+"F " A6 z A |"Dmin7" cA FA,"G7" E2- EE |"C ""C7" C6 E2 |"Dmin7" DD DD"G7" E2 E2 |"Amin" C6 D2 | %42
+w: blessed, I|guess I'll have to dream * the|rest. *|||
+"Dmin7" FF FF"G7" G2 G2 |"C ""C7" E6 E2 |"Dmin7" DA, CD"G7" E_E D_D |"Amin" C6 E2 | %46
+w: ||||
+"F " AA AA-"Dmin7" A2 A,C |"G7" D6 z E |"Dmin7" GF EF"G7" E2- EB, |"Amin7" A,6 z B, | %50
+w: |* I|guess I'll have to dream * the|rest. There'll|
+"Emin7" DD- DC"Cdim" BB- BA |"Dmin7" A,A, CE-"G " E2 z D |"Cmaj7" B,B,- B,C"Cdim" BB- BA | %53
+w: be no * friends wai- ting * to|throw shoes and rice, * those|hea- ven- * ly mo- ments * will|
+"Dmin7" A,A, CE-"G7" E2 z D |"Cmaj7" B,C EG"Gdim" _B2- BB |"F " A6 z A |"Dmin7" cA FA,"G7" E2- EE | %57
+w: ne- ver come twice, * I'm|thank- ful for the hours * you|blessed; I|guess I'll have to dream * the|
+"C " C4 z G Ac |"Fmaj7" ec AF"G7" E2- ED |"C " E2 GB-"Cmaj7" B2 z A |"Dmin7" cA FA,"Fmaj7" E4 | %61
+w: rest. * * *||* * * * I|guess I'll have to dream|
+"G7" G4"C " c4- | c8 |] %63
+w: the rest.||
+

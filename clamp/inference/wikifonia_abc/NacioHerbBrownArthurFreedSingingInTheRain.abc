@@ -1,0 +1,22 @@
+X:1
+T:Singing In The Rain
+T:Singing In The Rain
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 D2 |"G" d4- d>BA>G | E6 D2 | G4- G>GA>B | d6 D>E | G4- G>A B2 | d4 (B2"G#dim" d2) | %7
+w: I'm|sing- * ing in the|rain, Just|sing- * ing in the|rain. What a|glo- * ri- ous|fee- ling I'm|
+"D7" d4- d>B A2 |"D9" E6"D7" D2 | d4- d>B A2 | E6 D2 | d4 B3 A | E6 D2 | d4- d>B E2 | F4- F>B E2 | %15
+w: hap- * py a-|gain, I'm|laugh- * ing at|clouds So|dark up a-|bove, The|sun's _ in my|heart _ And I'm|
+"G" G4- G>E G2 |"G6" E6"G" D>E | G4- G>A B2 | d6 D>E | G4- G>A B2 | d6 D2 | G4- G>A B2 | %22
+w: read- * y for|love. Let the|storm- * y clouds|chase Ev- 'ry-|one _ from the|place, Come|on _ with the|
+ d4 (B2"G#dim" d2) |"D7" d4- d>B A2 |"D9" E6"D7" D2 | d4 B3 A | E6 DD | d4- d>B A2 | %28
+w: rain, I've a|smile _ on my|face. I'll|walk down the|lane With a|hap- * py re-|
+"D9" E6"D7" D2 | d d3- d2 D2 | F F2 B- B2 D2 |"G""G6""G" G8- | G6 z2 |] %33
+w: frain, And|sing- in' _ just|sing- in' in _ the|rain.||
+

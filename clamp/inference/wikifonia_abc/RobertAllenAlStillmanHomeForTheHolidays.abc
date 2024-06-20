@@ -1,0 +1,26 @@
+X:1
+T:Home For The Holidays
+T:Home For The Holidays
+C:Robert Allen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 E F |:S"C" G2"C7" E C |"F" c2 B A |"C" G F E2- | E2 C D | E2"B7" ^D"Bb7b5" E |"A7" A G F E | %7
+w: Oh, there's|no place like|home for the|hol- i- ~~days|_ 'cause no|mat- ter how|far a- way you|
+"D7" D4- |"G7" D2 E F |"C" G2"C7" E C |"F" d c"F#dim7" B A |"C" c E G2- | G2"D7" d c!dacoda! | %13
+w: roam.|_ When you|pine for *|sun- shine of a|friend- ly gaze,|_ for the|
+"G7" B G"Dm7" A F!dacoda! ||1"G7" G E"G7/B" F D ||"C" C4 |]"C7" z C F G |"F6" A c c B | %18
+w: hol- i- days you|can't beat home sweet|home.|I met a|man who lives in|
+ d c c3/2 B/ |"F" d c"F#dim7" B A |"C" G2"A7" E F |"G7" G G ^F G | B A G F |"C" E4 |"C7" z C F G | %25
+w: Ten- nes- see and|he was head- in'|for Penn- syl-|va- nia and some|home made pump- kin|pie.|From Penn- syl-|
+"F6" A c c B | d c c3/2 B/ | d c"F#dim7" B A |"C" G2 G A |"G/D" B d"G#dim7" d d | %30
+w: va- nia folks are|trav- lin' down to|Dix- ie's sun- ny|shore; from At-|lan- tic to Pa-|
+"Am7" d c"D7" z/ B A/ |"G" G G"C#dim7" G A |"Dm7" G F"G7" E F!D.S.! :|2O"G7" G2"C#dim7" E2 || %34
+w: cif- ic, gee, the|traf- fic is ter-|ri- fic. Oh, there's|can't beat|
+"Dm7" F4 |"G9""G7b9" d4 |"C" c4- | c3 z |] %38
+w: home|sweet|home.||
+

@@ -1,0 +1,21 @@
+X:1
+T:Hound Dog
+T:Hound Dog
+T:Jerry Leiber ad Mike Stoller
+C:Jerry Leiber, Mike Stoller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^N.C." _e2 e2 eeee |:"C" c4 c4- | c4 _eeGA | c8 | z _e e2 eeee |"F7" c4 c4- | c4 _eeGA |"C" c8 | %8
+w: You ain't noth- in' but a|hound dog|_ cry- in' all the|time|You ain't noth- in' but a|hound dog|_ cry- in' all the|time|
+ z2 _e2- ee e2 |"G7" dddd dddd |"F7" _e2 d2 cd c2 |"C" c8 | z2"^N.C." _ee ee e2 |"C" _e2 e6 | %14
+w: well _ you ain't|nev- er caught a rab- bit and you|ain't no friend * of|mine|when they said you was|high- classed|
+ z2 _e2 eccc | c8 | z2 _e2 eeee |"F7" _e2 e6 | z2 _e2 eccc |"C" c8 | z2 _e2- ee e2 | %21
+w: well that was just a|lie|when they said you was|high- classed|well that was just a|lie|Well _ you ain't|
+"G7" dddd dddd |"F7" _e2 d2 cd c2 |1"C" c8 | z"^N.C." _e e2 eeee :|2"C" c8- |"F7" c2"C" z2 z4 |] %27
+w: nev- er caught a rab- bit and you|ain't no friend * of|mine.|You ain't noth- in' but a|mine.|_|
+

@@ -1,0 +1,26 @@
+X:1
+T:On The Road Again
+T:On the road again
+T:Willie Nelson
+T:Medium Swing
+C:Willie Nelson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 D D |:"G" B B B2- | B4- | B z _B =B | c/c/ B A G |"B7" B B B2- | B4- | B z _B =B | c B A G | %9
+w: On the|road a- gain||* Just can't|wait to get on the|road a- gain||* Life I|love is mak- ing|
+"C" B A A E | A3 A | c c c/c/ d |"D7" B B B/A/ G |"G" G4- |1 G z D D :|2 G z G G ||"C" e e e2- | %17
+w: mus- ic with my|friends and|I can't wait to get|on the road * a-|gain|* On the|* On the|road a- gain|
+ e2 e f | g g g f | f e e d |"G" d B3- | B2 G G |"C" e e e2- | e3 f | g g g f | f e e d | %26
+w: * like a|band of gyp- sies|we go down the|high- way|* we're the|best of friends|* In-|sist- ing that the|world keep turn- ing|
+"G" d B3- | B3 c |"D7" B A3- | A D D D |"G" B B B2- | B4- | B z _B =B | c/c/ B A G |"B7" B B B2- | %35
+w: our way|* and|our way|* is on the|road a- gain||* just can't|wait to get on the|road a- gain|
+ B4- | B z _B =B | c B A G |"C" B A A E | A3 A | c c c/c/ d |"D7" B B B/A/ G |"G" G4- | G3 D | %44
+w: |* life I|love is mak- ing|mus- ic with my|friends and|I can't wait to get|on the road a- gain||* and|
+"C" c c c/c/ d |"D7" B B B/A/ G |"G" G4- | G z"D7" d/e/ f |"G" g2 z2 |] %49
+w: I can't wait to get|on the road * a-|gain.|||
+

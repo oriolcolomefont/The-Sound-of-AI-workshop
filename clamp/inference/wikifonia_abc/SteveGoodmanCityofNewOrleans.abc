@@ -1,0 +1,49 @@
+X:1
+T:City of New Orleans
+T:City of New Orleans 
+T:Stever Goodman
+C:Steve Goodman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 52
+V:1
+|:"G" d d2 d- d3 d- |"D" d d2 d- d2 cc- |"G" c2 B6 |"G" z8 |"Em" B/B/B- BB- B G3 | %5
+w: Rid- in' on _ the|Cit- y of _ New Or-|* leans,||Il- li- nois _ Cen- _ tral|
+w: Deal- ing card games with|the old men in the Club|_ car.||A pen- ny _ a point- *|
+w: Night- time on _ the|Ci- ty of _ New Or-|* leans||* * Chang- * ing _ cars|
+"C" e2 e2 (ed)dd- |"G" d6 z2 | z8 |"G""G" d d2 d- d2 dd- |"D" d d2 d- d2 cc- |"G" c2 B6 |"G" z8 | %12
+w: Mon- day mor- * in' rail.|_||Fif teen cars _ and fif-|* teen rest- * les rid-|* ers,||
+w: ain't no- one keep- in score.|_||Won't you pass _ the pa-|per bag that keeps the bot-|* tle.||
+w: Mem- phis Ten- * nes- see.|_||Half was home _ and we'll|_ be there _ by morn-|* ing,||
+"G" z4 z2 BB |"Em" B2 G4 z B |"D" dd d2 d2 FG- |"G" G4 z4 |"G" z4 z2 BB |"Em" B2 BB- B B3 | %18
+w: three con-|duc- tors and|twen- ty- five sacks of mail;~|_|All a-|long the south- * bound|
+w: Feel the|wheels _ _|rum- * lin' 'neath the floor.|_|And the|sons of Pull- * man|
+w: Through the|Mis- sissippi *|rol- ling down to the sea.|_|But all|the towns and _ pe-|
+"Em" B2 B2 B2- BB |"Bm" B2 B2 B2 BB- |"Bm" B2 BB- B2 z B |"Bm" d2 dd- d d3 |"D" d2 dd d2 d2 | %23
+w: Od- ys- sey, _ the|train pulls out of Kan|* ka- kee~ _ and|rolls a- long _ the|hous- es, farms _ and|
+w: port- ters * * *|and the sons of en|_ gin- eers _ ride|their fa- thers _ ma-|gic car- pet made of|
+w: ople seem to _ fade|in- to a bad *|* * dream * *|* And the _ steel|rail ain't heard the bad|
+"A" (e2 ^c4) z2 |"A" z8 |"Em" B2 BB- B B3 |"Em" B2 B2 B2- BB |"Bm" B2 B2 B2 BB- | %28
+w: fields. _||Pass- in' towns _ that|have no name _ and|freight- yards full of old|
+w: steel. _||And moth- ers _ with|their babes a- * sleep|are rock- ing to the|
+w: news. _||The con- duc- tor sings|his song a- gain, *|pass- sen- gers will please|
+"Bm" B2 BB- B2 dd |"D" d3 d- d2 AB |"D7" c2 cc- cBAG- |"G" G8 |"Am" z4"Bm" z4 |"C" g2 g4 ff | %34
+w: _ black men. _ and the|grave- yards _ of the|rust- ed au- * to- mo- biles.|_||Good morn- ing Am-|
+w: _ gen- tle * beat and|the rythm _ of the|rails is all _ _ they feel.|_|||
+w: _ re- frain _ This train's|got the _ _ _|dis- appear- ing _ rail- road blues.|_|||
+"D7" f2 ff- f f2 d- |"G" d2 G4 z2 | z2 z2 z2 A2 |"Em" B2 BB- B G3 |"C" e3 e e2 d2 |"G" d6 z2 | %40
+w: er- i- ca _ how are|_ you?|Say,|don't you know _ me|I'm your na- tive|son.|
+w: ||||||
+w: ||||||
+ z2"D7" d4"D9" c2 |"G" B3 B B3 B |"D" d d2 d- d2 e2 |"Em" (BA) G4"Em7" z2 |"A7" z2 z2 z GG"Bb"=f- | %45
+w: I'm the|train they call the|ci- ty of _ New|Or- * leans,|I'll be gone|
+w: |||||
+w: |||||
+ f2 =f2"C" e2 ed- | d2 dd"D9" (dc) B2 |"G" G6 z2 | %48
+w: _ five hund- red miles|_ when the day _ is|done.|
+w: |||
+w: |||
+

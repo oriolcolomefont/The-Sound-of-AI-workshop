@@ -1,0 +1,20 @@
+X:1
+T:Home, Sweet Home
+T:Home Sweet Home
+T:Henry R. Bishop
+T:John H,Payne
+C:Henry Rowley Bishop
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z C D |"C" E3 |"F" F2 A |"C" G3 | E2 G |"G7" F2 E | F2 D |"C" E3- | E C D | E3 |"F" F2 A |"C" G3 | %12
+w: Mid *|pleas-|ures and|pal-|a- ces|though *|we may|roam|* be it|ev-|er so|hum-|
+ E2 G |"G7" F2 E | F2 D |"C" C3- | C2 G | c3 |"F" B2 A |"C" G3 | E2 G |"G7" F2 E | F2 D |"C" E3- | %24
+w: ble theres|no *|place like|home|* a|charm|from the|skies|seem to|ha- *|low us|there|
+ E2 G | c3 |"F" B2 A |"C" G3 | E2 G |"G7" F2 E | F2 D |"C" C3- | C3 :| %33
+w: * theres|no|place like|home|oh! theres|no *|place like|home.||
+

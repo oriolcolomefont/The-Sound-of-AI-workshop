@@ -1,0 +1,25 @@
+X:1
+T:I Can Sing a Rainbow
+T:Sing a Rainbow
+T:Arthur Hamilton
+C:Arthur Hamilton
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" F"C7" G"F" A/G/ G | A c c2 |"Bb" d/B/ G"F" c/A/ F |"C7" G4 |"F" A/B/c/F/"Bb" e d | %5
+w: Red and yel- low and|pink and green|pur- ple and or- ange and|blue|I can sing a rain- bow|
+"F" z c/F/"Bb" c B |"F" z A/C/"Gm7" A G |"F" F2- F/ z/ z |"Bb" d/d/d/d/"F7" c2 | %9
+w: sing a rain- bow|sing a rain bow|too *|Lis- ten with your eyes,|
+"Gm7" d/d/d/d/"F" c c |"Gm7" B B/B/"C7" B B |"F" A4 |"G7" =B/A/G/F/"C" G c |"G7" z =B/A/"C" G c | %14
+w: lis- ten with your eyes and|sing ev- ry- thing you|see|you can sing a rain- bow|sing a rain- bow|
+"Dm7" z F/E/"G7" D E |"C7" C4 |"F" F"C7" G"F" A/F/ G | A c c2 |"Bb" d/B/ G"F" c/A/ F |"C7" G3 c | %20
+w: sing a- long with|me|red and yel low and|pink and green|pur- ple and or- ange and|blue Now|
+"F" A/B/c/F/"Bb" e d |"F" z c/G/"Bb" c B |"F" z A/C/"Gm7" A"C7" G |1"F" F2- F"C7" z :|2 %24
+w: we can sing a rain- bow|sing a rain- bow|sing a rain- bow|too. *|
+"F" F2- F z |] %25
+w: too. *|
+

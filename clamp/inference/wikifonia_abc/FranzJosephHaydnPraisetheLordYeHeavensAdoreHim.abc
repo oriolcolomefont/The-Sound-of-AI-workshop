@@ -1,0 +1,29 @@
+X:1
+T:Praise the Lord, Ye Heavens Adore Him
+T:Praise the Lord, Ye Heavens Adore Him
+T:Franz Joseph Haydn
+T:Public Domain
+C:Franz Joseph Haydn
+Z:Public Domain
+L:1/8
+Q:1/4=90
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^90" E3 F G2 F2 |"Bb" A2 G2"Bb7" (FD)"Eb" E2 |"Ab" c2"Eb" B2"Ddim" A2"Eb" G2 | %3
+w: 1.~Praise the Lord! Ye|heav'ns a- dore * Him;|Praise Him, an- gels|
+w: 2.~Praise the Lord, for|He is glo- * rious;|Nev- er shall His|
+"F" F2 GE"Bb" B4 |"Eb" E3 F G2 F2 |"Bb" A2 G2"Bb7" FD"Eb" E2 |"Ab" c2"Eb" B2"Ddim" A2"Eb" G2 | %7
+w: in the * height.|Sun and moon, re-|joice be- fore * Him.|Praise Him, all ye|
+w: pro- mise * fail.|God hath made his|saints vic- to- * rious;|Sin and death shall|
+"F" F2 (GE)"Bb" B4 |"Bb" F2 G2 (FD) B,2 | A2 G2 (FD) B,2 |"Eb" B2 A2"Cm" G3 G |"F" =A3 A"Bb" B4 | %12
+w: stars of * light.|Praise the Lord, * for|He hath spo- * ken;|Words His might- y|voice o- beyed.|
+w: not pre- * vail.|Praise the God * of|our sal- va- * tion;|Hosts on high, His|pow'r pro- claim.|
+"Eb" e3 d"Eb7" (dc) B2 |"Ab" c3 B"Eb" BA G2 |"Bb" F2 GA"Ab" (Bc)(AF) |"Bb" E2 (GF)"Eb" E4 |] %16
+w: Laws which ne- * ver|shall be bro- * ken|For their * guid- * ance *|hath He * made.|
+w: Heav'n and earth * and|all cre- a- * tion,|Laud and * mag- * ni- *|fy His * name.|
+

@@ -1,0 +1,47 @@
+X:1
+T:Have You Heard
+T:Have You Heard
+T:Word & Music by Frank Lavere, Roy Rodde, Lew Douglas
+T:As performed by The Duprees
+T:2
+T:Music engraving by GregD
+C:Frank Lavere, Roy Rodde, Lew Douglas
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:12/8
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Ebmaj7" z3 B2 c d6 |"Fm7" z3 c2 d e6 |"Gm7" z3 d2 e f6 |"Fm7" e6"Bb7b9" d6 ||"Eb" e6- e3 f3 | %5
+w: (Ah ah ah|Ah ah ah|Ah ah ah|Ah ah)|Have _ you|
+"Gm" d6 d3"Gbm" _d3 |"Fm7" c3 c3"Fm7/Bb" c d2- d e2 |"Eb" B6"Gm" d3"Gbm" _d3 | %8
+w: heard (Ooh ooh|ooh) who's kis- sing _ her|now? (Ooh ooh|
+"Fm7" c3 A2 B"Bb7" cBA- A3 |"Gm7b5" z3 G2 A"C7" BAG- G3 |"Fm7b5" z3 F2 G"Bb7" A3 G2 F | %11
+w: ooh) Do you think she's blue? _|Did she say we're through? _|Has she found some- one|
+"Eb" G6- G3 z3 |"Eb" e6- e3 f3 |"Gm" B6 d3"Gbm" _d3 |"Fm7" c3 c3"Fm7/Bb" c d2- d e2 | %15
+w: new? _|Have _ you|seen (Ooh ooh|ooh) the way she _ looks|
+"Eb" B6"Gm" d3"Gbm" _d3 |"Fm7" c3 A2 B"Bb7" cBA- A3 |"Gm7b5" z3 G2 A"C7" BAG- G3 | %18
+w: now? (Ooh ooh|ooh) Does she act the same _|when she hears my name? _|
+"Fm7b5" z3 F2 G"Bb7" A3 G2 F |"Eb" E12 ||"G7" z2 D d2 _d c2 =B- B2 ^F | %21
+w: Does she say who's to|blame?|My arms are emp- ty, _ my|
+"C7" =A2 _A G2 ^F =A2 G- G2 E |"G" E3- E2 D D6- | D12 |"Bb" z2 F f2 _f e2 d- d2 =A | %25
+w: nights are long and lone- ly, _ I|miss _ her so.|_|Each new to- mor- row _ can|
+"Eb" c2 _c B2 =A =c2 B- B2 c |"D7" d3- d2 d d6- |"Bb7" d6- d3 z3 ||"Eb" e6- e3 f3 | %29
+w: on- ly bring me sor- row. _ I|love _ her so.|_ _|Have _ you|
+"Gm" d6 d3"Gbm" _d3 |"Fm7" c3 c3"Fm7/Bb" c d2- d e2 |"Eb" B6"Gm" d3"Gbm" _d3 | %32
+w: heard (Ooh ooh|ooh) of their wed- * ding|day? (Ooh ooh|
+"Fm7" c3 A2 B"Bb7" cBA- A3 |"Gm7b5" z3 G2 A"C7" BAG- G3 |"Fm7b5/B" z3 F2 G"Bb7" A3 G2 F | %35
+w: ooh) Ru- mors come and go, _|still I'd like to know, _|If it's true won't you|
+"Eb/Bb" G6"C7" B6 |"Fm7" c6- c3 d3 |"B7" ^d6- d3 z3 ||[K:E]"E" e6- e3 f3 |"G#m" d6 d3"Gm" =d3 | %40
+w: tell me?|Have _ you|heard? _|Have _ you|heard (Ooh ooh|
+"F#m7" c3 c3"F#m7/B" c d2- d e2 |"E" B6"G#m" d3"Gm" =d3 |"F#m7" c3 A2 B"B7" cBA- A3 | %43
+w: ooh) of their wed- * ding|day? (Ooh ooh|ooh) Ru- mors come and go, _|
+"G#m7b5" z3 G2 A"C#7" BAG- G3 |"F#m7" z3 F2 G"B7" A3 G2 F |"E/B" G6"C#7" B6 |"F#m7" c12 |"B7" d12 | %48
+w: still I'd like to know, _|If it's true won't you|tell me?|Have|you|
+"E6" e12- | e12 |] %50
+w: heard?|_|
+

@@ -1,0 +1,28 @@
+X:1
+T:My Man
+T:My Man
+C:Maurice Yvain
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 B,2 |"Em" E2 E>F G2 G>F | E>FG>A B2 (B>G) |"B7" A2 F2 z4 | z4 z2 F>E | ^D2 D>E F2 F>E | %6
+w: It's|cost me a lot, but there's|one thing that I've got, it's _|my man.|Cold and|wet, tired you bet, but all|
+ ^D>EF>G A2 (G>F) |"Em" G2 E2 z4 | z4 z2 B,2 |"Em" E2 E>F G2 G>F | E>FG>A B2 (B>G) |"B7" A2 F2 z4 | %12
+w: that I soon for- get with _|my man.|He's|not much for looks, and no|he- ro out of books, is _|my man.|
+ z4 z2 F>E | ^D2 D>E F2 F>E | ^D>EF>G A2 G>F |"Em" G2 E2"B7" z2 (F>^D) |"Em" E>FG>A B2"B7" z2 | %17
+w: Two or|three girls has he, that he|likes as much as me, But I|love him! I _|don't know why I should,|
+"Em" z3/2 F<GA/ B2"B7" z2 |"Em" z3/2 G<FE/ D>FE>D | C>ED>C B,2"F#7" z2 ||"B" z2 FE"D7" D^DEF | %21
+w: He is- n't good,|He is- n't true, He beats me|too, what can I do?|Oh, my man I love him|
+"G" G2 B2 G2 B2 | G2 FE D^DE^E |"D7" F2 A2 F2 A2 | F2 FE D^DE^E | F2 c2 A2 F2 |"Am" E4"D7" F4 | %27
+w: so, he'll nev- er|know, All my life is just des-|pair, But I don't|care, When he takes me in his|arms the world is|bright and|
+"G""Ddim" D8- |"D7" D2 FE D^DEF |"G" G2 B2 G2 B2 | G2 BA"G7" GABG |"C" A2 B2 A2 G2 | %32
+w: right;|_ What's the dif- f'rence if I|say I'll go a-|way, When I know I'll come back|on my knees some|
+"A7" E2 EF AGFE |"G" D2 B,D E2 G2 |"A7" B4"D7" A4 |"G" G8- | G8 |] %37
+w: day? For what- ev- er my man|is, I am his for-|ev- er|more!|_|
+

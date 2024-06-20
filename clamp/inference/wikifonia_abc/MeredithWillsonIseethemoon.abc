@@ -1,0 +1,29 @@
+X:1
+T:I see the moon
+T:I see the moon
+T:Meredith Willson
+C:Meredith Willson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Eb" B, E/E/ E3/2 F/ |"Fm7" E"Bb7" D D z | B, F/F/ F F/G/ |"Eb" F E E2 | B, E/F/"Eb7" G B | %5
+w: I see the moon the|moon sees me|down thru the leaves of the|old oak tree|Please let the light that|
+w: I hear the lark the|lark hears me|sing- ing a song with a|mem- o- ry|please let the lark that|
+w: I kiss the rose the|rose kiss,es me|fra- grant as on- ly a|rose can be|please take the kiss that|
+"Ab" B A C2 |"Bb7" B, D/E/ F G |"Eb" E4 |"^Chorus:" B B/B/"Ab" c"Eb" B |"Bb7" B A/G/ A2 | %10
+w: shines on me|shine on the one I|love|O- ver the moun- tain|o- ver the sea|
+w: sings to me|sing to the one I|love|||
+w: com- forts me|back to the one I|love|||
+ A A/A/ B A |"Eb" A G/^F/ G2 | B, E/F/"Eb7" G B |"Ab" B A C2 |"Bb7" B, D/E/ F G |"Eb" E4 :| %16
+w: back where my heart is|long- ing to be|please let the light that|shines on me|shine on the one I|love|
+w: ||please let the lark that|sings to me|sing to the one I|love|
+w: ||please take the kiss that|com- forts me|back to the one I||
+"Eb" E3 z |] %17
+w: |
+w: |
+w: love.|
+

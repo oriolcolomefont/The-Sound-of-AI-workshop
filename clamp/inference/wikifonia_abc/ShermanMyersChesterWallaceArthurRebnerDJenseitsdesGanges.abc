@@ -1,0 +1,20 @@
+X:1
+T:Jenseits des Ganges
+T:Jenseits des Ganges
+T:Sherman Myers
+C:Sherman Myers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:none
+V:1 treble transpose=-2 nm="Tenor Saxophone" snm="T. Sax."
+%%MIDI program 66
+V:1
+[K:D] (F F) E/E/ E | F F E/E/ E | F F A A | B!<(!!<(!!<(!!<(!!<(!!<(! B!<)! c/c/ c | B3 A | B3 A | %6
+ F4- | F4 | c c B/B/ B | c c e2 | c c B/B/ B | c c e2 | f3 e | f3 e | c4- | c4 | d/c/ B d B | %17
+ c c F2 | B B E E | A4 | G/F/ E G E | F A B d | c c c c | F2- F z | z4 | z4 | z4 | z4 |: %28
+ ((B2 ^A2-)) | A2 =A ^G | =G2 F2- | F2 (^E2 | F2) B2- | (B2 =c2) | B4- | B2 (^A B) | d2 A2- | %37
+ A2 d B | F A F2- | (F2 (E) F) | D2 E F | A2 c2 | A4- | A4 | (B2 ^A2-) | A2 =A ^G | =G2 F2- | %47
+ F2 (^E2 | F2) A2- | A2 d2 | (e4- | e2) (d e) | f2 e2- | e2 (d B) | c2 B2- | B2 (^E F) | %56
+ (A G) d G | F2 F2 |1 D2- D z || z4 :|2 D4- || D z z2 |] %62
+

@@ -1,0 +1,35 @@
+X:1
+T:Senza Fine
+T:Senza Fine
+T:Gino Paoli
+T:Alec Wilder
+C:Gino Paoli
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Eb" F2 E |"Cm7" F2 E |"Fm7" z C E |"Bb7" F G B |"Eb" F2 E |"Cm7" F2 E |"Fm7" z C E | %7
+w: Sen- za|Fi- ne,|Let it|al- ways be|Sen- za|Fi- ne.|There's no|
+w: Sen- za|Fi- ne,|Let it|al- way be|Sen- za|Fi- ne.|Nev- er|
+"Bb7" F G B |"C#m7" =B2"F#7" ^A |"C#m7" =B2"F#7" ^A |"B" ^A2 ^G |"G#m7" ^A2 ^G |"C#m7" =B2 ^A | %13
+w: end to our|love, our|hopes, our|dreams, our|sighs, No|end at|
+w: end- ing the|sun- lit|days, the|moon- lit|nights. The|sea, the|
+ =B2"F#7" ^A |"B" ^A2 ^G | ^A2 ^G |"F7" _A2 _G | _A2 _G |1"Bb7" _G2 F | _G2 F :|2"Bb7" _G3 | %21
+w: all, no|sad good-|byes. No|fears, no|tears, no|love that|dies. It's|ev-|
+w: sand, the|star- ry|heights are|yours and|mine for||||
+"Bb7" F3 ||"Bbm7" F2 F |"Eb7" G2 G |"Abmaj7" c2 c | G2 G |"Bbm7" F2 F |"Eb7" G2 G |"Abmaj7" c2 c | %29
+w: er.|All we|are and|all we|know is|love and|love a-|lone, and|
+w: ||||||||
+ G2 G |"Bbm7" c2 B | c2 B |"Eb7b9" c2 B | c2 B |"Ab" B2 A | B2 A |"Fm7" B2 A | B2 A |"G7" A2 G | %39
+w: so the|world may|spin it's|wear- y|way, it's|lone- ly|night and|lone- ly|day, while|we go|
+w: ||||||||||
+ A2 G |"C7" A2 G | A2 G |"F7" G2 F | G2 F |"Bb7" G2 F | G2 z |"Eb" F2 E |"Cm7" F2 E |"Fm7" z C E | %49
+w: float- ing|far a-|bove in|nev- er|end- ing|time- less|love.|Sen- za|Fi- ne,|La la|
+w: ||||||||||
+"Bb7" F G B |"Eb" F2 E |"Cm7" F2 E |"Fm7" z C E |"Bb7" F G B |"Eb" F3 | E3 |] %56
+w: la la la|Sen- za|Fi- ne,|La la|la la la|La|la.|
+w: |||||||
+

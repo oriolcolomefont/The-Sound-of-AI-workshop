@@ -1,0 +1,24 @@
+X:1
+T:Traumerai
+T:Robt. Schumann
+T:Traumerai
+C:Robert Schumann
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 13
+%%MIDI program 68
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x6 C2 |:"F" F4- FEFA | cf"Bb" f4 ed |"F/C" cf"C7"GA Bd"F/A"F"C"G |"F" Ac"C" G4"C/G" C2 | %5
+"F" F4- FEFA | ca"A7/C#" a2- agfe |"Dm" fad"Fm"f"C/G" e3"F#dim7" _e | d2 e2"C7" c3 C :| %9
+"F" F4- FEFA | c"Cm7"_e"D" e4 dc |"Gm" BdG"F#dim"A"Gm/D" B3"Adim/Eb" A | %12
+"Gm/D" G3"D7" D-"Gm" D2 z"F/A" F |"Bb" B4- BABd | f"Gm"b"A" b4 ag | %15
+"Dm" fad"C#dim7"e"Dm/A" f3"Edim" e |"Dm/A" d3"A7" A-"Dm" A2"C7" G2 |"F" F4- FEFA | cf"Bb" f4 ed | %19
+"F" cf"C"GA BdFG |"F" Ac"C" G4"C/G" C2 |"F" F4- FEFA | ca"G7" a2- !fermata!agfd | %23
+"F/C" cf"C7"GA Bd"Gm"G"D"A |"Gm" Bd"C7"DE"F" !fermata!F4 |] %25
+

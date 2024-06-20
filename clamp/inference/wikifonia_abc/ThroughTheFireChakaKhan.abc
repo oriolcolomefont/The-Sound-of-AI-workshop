@@ -1,0 +1,66 @@
+X:1
+T:Chaka Khan
+T:Through The Fire
+T:노래
+T:의수록곡
+T:'IFeelForYou' (1984)
+T:AbM7
+T:/C
+T:DbM7
+T:B DbM7/Eb   AbM7
+T:/C
+T:akbobada.com
+C:Through The Fire
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/16
+Q:1/4=66
+M:4/4
+K:Ab
+V:1 treble stafflines=5 
+%%MIDI program 52
+%%MIDI control 7 64
+%%MIDI control 10 64
+V:2 treble stafflines=5 
+%%MIDI channel 1
+%%MIDI program 52
+%%MIDI control 7 64
+%%MIDI control 10 64
+L:1/8
+V:1
+"^=66" [GEB,]2[AC][GB,-] !^![GB,][AC]2[GB,-] !^![GB,][AC]2[GB,-] !^![GB,]2<[CAE]2 | %1
+w: |
+ [GEB,]2[AC][GB,-] !^![GB,][AC]2!^![A,-E-F] [A,EF_GD=B,]2"_." [FDA,E]4 | %2
+w: |
+ [GEB,]2[AC][GB,-] !^![GB,][AC]2[GB,-] !^![GB,][AC]2[GB,-] !^![GB,]2<[CAE]2 | %3
+w: |
+"^DbM7" [GEB,]2[AC][GB,-] !^![GB,][AC]2([EA,-F] (([__EA,F-]4) [EA,F]4))"^/Eb""^Ab" || %4
+w: |
+"^add2" E4 A,2B,2C2"^Caug7" D2CB,- B,2A,C- |"^Fm7" CB,C2- C2A,F-"^Ebm7" F2EE-"^Ab11" E2EC- | %6
+w: I look in youreyes * and * I－ can see|－－－ * * We've * loved * so danger * 　ou~　 sly　　　|
+"Dbmaj7" (CB,C2- C4)"Cm7" F2E2"Fm" A,2B,2C2"Bbm7" | D2>C2 (B,A,C2"D/Eb" B,2>A,2- A,4) | %8
+w: －－－ * * － You're not trusting * your|heart to any- * one －－－ * *|
+"Ab" E4 A,2B,2C2"C+7" z2 DC B,C2B, |"Fm" (C2<B,2- B,2>)A,2"Ebm7" F2EE-"Ab7" E2AA-"_start" | %10
+w: You tell~me * you're gonna * play it smart|－－ * －We're through * * before * we *|
+"Db" A4- A2>"_But"A,2"Cm7" F2EA,-"Fm" A,B,C(D-"Bbm7" | D2C)F- F2(CF-"Db/Eb" F2<E2- E4) | %12
+w: －－ * * I~believe * * that we've * on-|* ly just * be- gun * －－ *|
+"Dbm7/E" z4 (3^D2=E2^F2 F2D^G- G3F/D/"Cm7/Eb" | (^D/=E/D3- D/^C/=C3- C8)"Dbm7/E" | %14
+w: When~it's this * good,there's * * nosaying * *|no * －－－－－ * * * *|
+ z4 (3=E2E2^F2 F2E(^D ^C2=B,2)B,2- |"^Fm7/Eb" B,2<(E2- E4-"^Db/Eb" (3:2:4EFEC2) z FG(A- |: %16
+w: I~want * you so, I'm rea- * dy to|－ go －－－ * * * Through * the fire|
+"^Fm" A2F2) z FGA"^Bbm7" !^!A(Bc)(B A)(AG)(G- |"^Eb" G2FE- E4) z EEd !^!de2d- | %18
+w: －－ * To the li- * mit * to * the wall *|－ －－－ * * For a chance * to be|
+"Ab" dc2c- c2>A2"Db" (c2d)(c B)(AB)B-"Bbm" | B12"Bb""C" z FG(A- | %20
+w: －with * you － I'd gladly * risk * it * all|－ * the fire|
+"Fm" A2F2) z F(GA"Bbm7" ABc)(B A)(AG)(G/A/) |"Eb/G" (3(G2FE E4) z x17/3 (3e2ed- | %22
+w: － Through * whatever * * * come * whatmay * * * *|－－－－ * * * * * lov-|
+"Ab" d2cc c2>A2"Db" c2de !^!e2cB-"Gm7" | B8"C+7b9" c2(BA) (AG)GA | %24
+w: * * you － I'd take it all * * way|－ Right down * to thewire * *|
+V:2
+ x8 | x7 | x8 | x8 || x9 | x8 | x9 | x8 | x9 | x8 | x8 | x8 | x8 | x8 | x9 | x23/3 |: x8 | x8 | %18
+w: ||||||||||||||||||
+ x8 | B2- B/c/c- c2 x2 | x8 | x10/3 (3:2:9d Ed/Ee/d d/e(d/ | d/c)c/ cx/A/ cd/c/- c/(A/B/)B/ | %23
+w: |* －－－ * * －Through||For * chance * a * * at *|* ing * * * * * * * the * *|
+ B>c z2 x4 | %24
+w: * －|
+

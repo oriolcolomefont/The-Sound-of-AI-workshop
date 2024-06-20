@@ -1,0 +1,44 @@
+X:1
+T:Ol' Man River (with verse)
+T:Old Man River
+T:Jerome Kern
+T:Oscar Hammerstein II
+C:Jerome  Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^Verse" G/F/ E E G/F/ |"C7" E G"F" A c |"C" G/F/ E E G/F/ |"D9" E C"G7" D2 | %4
+w: Colored folks all work 'long the|Mis sis sip i,|Colored folks all work while de|white folk play.|
+"C7" E/D/ C C E/D/ | C C"F" D F |"C/G" E/D/ C C"D9" E/D/ |"Dm7" C"G7" D"C" C2 | %8
+w: Pull in' dem boats from de|dawn till sun set,|Get tin' no rest till de|judge ment day.|
+"Em6" B G"B7" A3/2 c/ |"Em6" B G"B7" A3/2 c/ |"Em6" B3/2 G/"B7" A3/2 c/ |"Em6" B G"B7" A2 | %12
+w: Don't look up an'|don't look down, you|don't das make tde|boss man frown.|
+"Em" G E"Am6" ^F3/2 A/ |"Em" G E"Adim" ^F3/2 A/ |"Em" G E"Am6" ^F3/2"Cdim" A/ |"Em" G E"Dm7" F2 | %16
+w: Bend your knees and|bow your head, and|pull dat rope un|til you dead.|
+"C7" G/F/ E E G/F/ | E G"F" A c |"A9" G/F/ E E G/F/ |"A7" E F"Dm7" D2 |"Dm7b5" F/E/ D D F/E/ | %21
+w: Let me go 'way from the|Mis sis sip i,|let me go 'way from de|white man boss.|Show me dat stream called de|
+ D D"C" E G |"Bb7" F/E/ D D F/E/ | D"G7" E"C" C E |"Dm7b5" E D"G7" B,"G9" A, || %25
+w: Riv er Jor dan,|Dats de old stream that I|long to cross. *||
+"C""^Chorus" G, G,"Am" A,/ C A,/ |"C" G, G,"F" A,/ C D/ |"C" E E"F" D/ C D/ |"C" E G"Am" A/ G A/ | %29
+w: Ol' Man Riv- er, dat|ol' man riv- er He|must know sump- in' but|don't sat noth- in', He|
+"G7" G G"G9" E/ D E/ |"D7sus4" G G"G7" E/ D E/ |"C""F" C4 |"G7" G,2 z z/ G,/ | %33
+w: jes keeps roll in', he|keeps on roll- in' a-|long.|* He|
+"C" G, G,"Am" A,/ C A,/ |"C" G, G,"F" A,/ C D/ |"C" E G"Am" A/ G A/ |"C" c c"Adim" B/ A B/ | %37
+w: don't plant tat- ters, he|don't plant cot- ton, An'|dem dat plants 'em is|soon for- got- ten, but|
+"G7" G G"G9" E/ D E/ |"Dm7" G G"G9" E/ D E/ |"C""F" C4- |"C" C"B7" B,/^D/"B+7" G"B7" A | %41
+w: Ol' Man Riv er, he|jes keeps rol lin' a|long.||
+"Em" B G"B7" A3/2 c/ |"Em" B G"B7" A2 |"Em6" B/>B/ G"Adim" A/>A/ c |"Em" B G"B7" A2 | %45
+w: You and me, we|sweat and strain,|Bod y all ach in' an'|racked wd pain,|
+"Em" G E"Am6" ^F2 |"Em" G E"Adim" ^F2 |"Em" G/>G/E/>E/"Am" ^F"Adim" A/>A/ |"Em" G E"G7" D G, | %49
+w: "Tote that barge!|lift dat bale."|Get a lit tle drunk and you'll|land in jail .|
+"C" G, G,"Am" A,/ C A,/ |"C" G, G,"F" A,/ C D/ |"C" E G"Am" A/ G A/ |"Dm7" c c"D7" d/ c d/ | %53
+w: Ah gets wear y and|sick of try ing, Ahm|tired of liv in', an|feared of dy- in', But|
+"C" e e"Am" d/ c d/ |"Dm7" e e"G7" d/c/ d |"C""Fm" c4- |"C" c z z2 |] %57
+w: Ol' Man Riv- er he|jes keeps roll- in' a-|long.-||
+

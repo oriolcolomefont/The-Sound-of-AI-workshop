@@ -1,0 +1,33 @@
+X:1
+T:I Walk A Little Faster
+T:I Walk A Little Faster
+T:Cy Coleman
+C:Cy Coleman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z E |"Bbmaj7" gf- (3fgf"Bdim" _A3 G |"Cm7" fe- (3efe"F13" ^Fd-dc |"Bbmaj7" FF- (3FFF"G+7" F G3- | %4
+w: Pre-|ten- ding * that we'll meet each|time I * turn a cor- ner * I|walk a * lit- tle fas- ter.|
+"Cm7""F+7" G6 z F |"Bbmaj7" gf- (3fgf"Bdim" _A3 G |"Cm7" fe- (3efe"F13" ^Fd-dc | %7
+w: * Pre-|ten- ding * life is sweet 'cause|love's a * round then cor- ner * I|
+"Fm7" BB- (3BBB B c3- |"Bb9sus4""Bb7b9" c6 z2 ||"Ebmaj7" GBeg"F7" fe- (3edc | %10
+w: walk a * lit- tle fas- ter.||Can't be- gin to see my * fu- ture|
+"Bbmaj7" Fd"Gm7" B4 z G |"Cm7" Fe"F7" c4 z G |"Bbmaj7" Ff d4 z2 |"Em7" ag- (3gag"A7" ^f=e- (3efe | %14
+w: shine as yet. No|sign as yet you're|mine as yet.|Rush- ing * toward a face I * can't di-|
+"Dmaj7" A^f"Bm7" d4 z =B |"Em7" AA (3AAA-"A7" A3 F |"F7" AA (3AAA-"F+7" A3 F | %17
+w: vine as yet, keep|bum- ping in- to walls, * and|tak- ing lots of falls. * But|
+"Bbmaj7" gf- (3fgf"Bdim" _A3 G |"Cm7" fe- (3efe"D7" ^F d2 c |"Gm7" AA- (3AAA A B3 |"C9" z4 z BdB | %21
+w: e- ven * though I meet at|ev- 'ry * sing- le cor- ner with|no- thing * but di- sas- ter,|I set my|
+"Bb/F" FF- (3FFF"G+7" F G3 |"Cm7" GG- (3GGG"A+7" G A3 |"Dm7" AA- (3AAA"Gm7" ABAB- | %24
+w: chin a * lit- tle high- er,|hope a * lit- tle long- er,|build a * lit- tle strong- er cas- tle|
+"C9" (3BAB d2- d2 z B |"Dm7" FG- (3GFG"G7sus4""G7" F4 |"Cm7" z3 F"F7" AA (3AA-A |"Bbmaj7" AB- B6- | %28
+w: * in the air, * and|thing- ing * you'll be there,|I walk a lit- tle *|fas- ter. *|
+ B8 |] %29
+w: |
+

@@ -1,0 +1,21 @@
+X:1
+T:Mon amant de Saint-Jean
+C:Emile Carrara
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piccolo"
+%%MIDI program 72
+V:1
+ z E F |:"Em" G G G | G F E | G3- | G F G |"Am" A3- | A G F |"Em" (G/F/) E2- | E E F | G G G | %10
+w: Je ne|sais pour- quoi|j'al- lais dan-|ser|_ A Saint|Jean|_ au mu-|set- * te|_ Mais quand|un gars m'a|
+ G F E |"Am" c3 | A B c |"B7" B2 A |"Em" G2"B7" F |"Em" E3- | E z E |"Em" B G E |"Em/D" B G E | %19
+w: pris un bai-|ser|J'ai fris- son-|né, J'é-|tais chi-|pée|_ Com-|men ne pas|per- dre la|
+"Em/C#" B B2- |"Cmaj7" B2 B |"Am" c c c | A B c |"Em" B3- | B z E |"Am" F F F | F2 F |"Em" G G G | %28
+w: tê- te|_ Ser-|rée par des|bras au- da-|cieux|_ car|l'on croit tou-|jours Aux|doux mots d'a-|
+ G2 G |"Am" G F G | A G A |"B" B3- | B2 z |"Em" B3 | G F E | B3 | G F E | B ^A B |"D7" e d c | %39
+w: mour quant|ils sont dit|a- vec les|yeux|_|Moi|qui l'ai- mais|tant|Je le trou-|vais le plus|beau de Saint|
+"G" B3- | B2 z |"Am" A3 | F G A |"Em" G3 | E F G |"B7" F3 | ^D G F |"Em" E3- | E E F :| %49
+w: Jean|_|Je|res- tais gri-|sée|Sans vo- lon-|té|Sous ses bai-|sers|_ Sans plus|
+

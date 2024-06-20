@@ -1,0 +1,33 @@
+X:1
+T:Love is a Loseing Game
+T:Love is a Loseing game
+T:Amy Winehouse
+C:Amy Winehouse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fdim" z8 ||"C" z Gdc"Dm7" A/B/ c3 |"Fdim" z d2 f/e/"Cmaj7" cd e2 | z c c/B/d/c/"Dm7" A/B/ c3 | %4
+w: |For you I was a flame;|love is a lo- sing game.|Five sto- ry fi- re as you came;|
+"Fdim" z d2 f/e/"Cmaj7" cd e2 |"Am7" z ee>e"Dm7" ef f2 |"Fm7" z fef/e/"Cmaj7" cd e2 | %7
+w: love is a lo- sing game.|One wish: I ne- ver played;|O- oh, what a mess we made.|
+"C" z Gdc"Dm7" A/B/ c3 |"Fdim" z d2 f/e/"Cmaj7" cd c2 |"F""^dim" z8 ||"C" z Gdc"Dm7" A/B/ c3 | %11
+w: And now the fi- nal frame;|love is a lo- sing game.||Been played out by the band;|
+"Fdim" z d2 f/e/"Cmaj7" cd e2 |"C" z cdc"Dm7" A/B/ c3 |"Fdim" z d2 f/e/"Cmaj7" cd e2 | %14
+w: love is a lo- sing hand.|Much more then I could stand|Love is a lo- sing hand|
+"Am7" z2 e/d/e-"Dm7" ef f2 |"Fm7" z fed"Cmaj7" z cde |"C" z Gdc"Dm7" A/B/ c3 | %17
+w: Self pro- fessed _ pro- found|'till the chips all were down|Know your're a gam- blin man|
+"Fdim" z d2 f/e/"Cmaj7" cd c2 |"F""^dim" z8 ||"C" z Gdc"Dm7" A/B/ c3 | %20
+w: love is a lo- sing hand||Though I am ba- ttle blind|
+"Fdim" z d2 f/e/"Cmaj7" cd e2 |"C" z2 dc"Dm7" cd d<c |"Fdim" z d2 f/e/"Cmaj7" cd e2 | %23
+w: love is a fate re- signed|me- mories mar my mi- nd|love is a fate re- signed|
+"Am7" z2 ee"Dm7" ef f2 |"Fm7" z _Afe"Cmaj7" c/d/e- e2 |"C" z Gdc"Dm7" AB c2 | %26
+w: o- ver fu- tile odds|and laughed at by the gods _|and now the fi- nal frame|
+"Fdim" z d2 f/e/"Cmaj7" cd c2 |] %27
+w: love is a lo- sing game|
+

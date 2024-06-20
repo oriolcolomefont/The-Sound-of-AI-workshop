@@ -1,0 +1,18 @@
+X:1
+T:One alone
+T:One alone
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" B,>D B2- B3 B |"B7" B>F B6 |"E7" B>E B2- B>B (3Bc_A |"A7" B4 A4 |"D7" B,>C A2- A3 A | %5
+w: One a- lone * to|be my own|I a- lone * to know her car-|ess- es|One to be * e-|
+ G>F A2- A3 F |"Am7" ED (3=F^FA"D7" d3 A |"Gdim" _B4"G" =B4 |"G" B,>D B2- B3 B |"B7" B>F B6 | %10
+w: ter- nal- ly * the|one my wor- ship- ping soul po-|sess- es-|At her call * I'd|give my all|
+"E7" BE =F/E/_A/B/ e3 B |"Am" d4 c4 |"Cm" G>_E G3 AGA |"G/D" Bd d3 DEG |"A7" A4"D7" B4 |"G" G8 |] %16
+w: All my life and all my love en-|dur- ing|This would be a mag- ic|world to me If she were|mine a-|lone|
+

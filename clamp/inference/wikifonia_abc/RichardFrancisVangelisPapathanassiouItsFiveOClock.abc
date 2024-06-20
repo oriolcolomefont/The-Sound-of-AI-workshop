@@ -1,0 +1,24 @@
+X:1
+T:It's Five O'Clock
+T:IT'S FIVE O'CLOCK
+T:APHRODITE CHILD
+T: 
+C:Richard Francis, Vangelis Papathanassiou
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Ab" E4"Eb" B,4 |"Fm" E4"Eb" B,4 ::"Ab" A2 Bc/A/-"Eb/G" A2 Bc/A/- |"Fm" A2 Bc"Db" dc"Eb" B2 | %4
+"Ab" A2 z B/c/"Eb/G" A2 Bc |"Fm" A2 Bc"Db" dc/B/-"Eb" B<A |"Ab" a3 g"Eb/G" f<e cB | %7
+"Fm" A3 B/c/"Db" dc"Eb"Bc |"Ab" [Aa]2 gf"Eb/G" e2 cB |"Fm" A2 Bc"Db" dc"Eb"BcO ||"Ab" E8 | %11
+"Ab7" a2 c'2 d'2 e'2 |"Db" d'4"Ab/C" c'4 |"Bbm" b2 d2"Ab/Ab" a2 f2 |"Eb/G""Ab/F" g8- | %15
+"Eb" g2 g2"Eb7/Db" a2 ba |"Ab" c'3 b/a/"Ab/G" c' b2 b/a/ |"Fm" c'b/a/- ab/a/"Eb" c'>d' c'/b/a | %18
+"Db""Ab/C" d6-"Ab/Bb""Ab/Ab" df/e/ |"Ebsus4" fe- e2-"Eb" egab |"Ab" c'3 b/a/"Cm/G" c' b2 b/a/ | %21
+"Fm" c'b/a/- ab/a/"Eb" c'>d' c'/b/a |"Db""Ab/C" d6-"Ab/Bb""Ab/Ab" df/e/ |"Ebsus4" fe-"Eb" e6 :| %24
+"^Coda"O"Ab" a2 gf"Eb/G" e2 cB |"Fm" A2 Bc"Db" dc"Eb"Bc |"Gb6/Ab" b8- | b8 |"F2" =a8- | a8 | f8- | %31
+ f8- | f2 z2 z4 |] %33
+

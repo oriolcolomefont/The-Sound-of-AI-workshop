@@ -1,0 +1,17 @@
+X:1
+T:Cserkészinduló
+C:Turry Peregrin
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"^Előénekes" G2 GG cGEC | G2 GG GFED |"^Kórus" CCCE G2 GG | A2 Ac G2 z2 | FFFG E2 CE | D4 C2 z2 | %6
+w: Cser- ké- szek jó mun- ká- ra|ké- szül- je- tek, e- lő- re!|Cser- kész fel a fej- jel, a|har- so- na zeng,|áll- junk csa- ta- sor- ba vi-|dá- man!|
+ C2 CE GGGG | A2 Ac G2 z2 | DDDD B,DGB | A4 G2 G2 | d3 G G2 F2 | E3 F G2 G2 | c3 c B2 A2 | %13
+w: Ránk vár a vi- lág, ez a|harc a mi- enk,|ka- to- ná- i va- gyunk va- la-|há- nyan. Jó|fegy- ve- rünk, iz-|mos ka- runk, é-|gő sze- münk, vi-|
+ G3 F E2 C2 | F3 F E2 D2 | E3 F G2 C2 | A3 A G2 G2 | A4 B4 | c2 z2 z4 |] %19
+w: dám da- lunk. A-|mer- re lé- pünk|meg- te- rem a|győ- ze- lem, a|győ- ze-|lem!|
+

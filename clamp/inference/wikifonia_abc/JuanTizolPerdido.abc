@@ -1,0 +1,23 @@
+X:1
+T:Perdido
+C:Juan Tizol
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+ C ||"Cm7" EF- F4zC |"F7" E F2C E F2B, |"Bb6" DF- F4zB, |"Dm7" D F2B,"G7" D F2C |"Cm7" EF- F4zC | %6
+w: Per-|di- do, _ I|look for my heart, it's per-|di- do, _ I|lost it way down in Tor-|ri- do _ while|
+"F7" EFdc- c2>F2 |"Bb6" GB- B6 |"Dm7"z4"G7"z2zC |"Cm7" EF- F4zC |"F7" E F2C E F2B, | %11
+w: chanc- ing a dance _ fi-|es- ta _|Bo-|le- ro, _ She|glanced as she danced a Bo-|
+"Bb6" DF- F4zB, |"Dm7" D F2B,"G7" D F2C |"Cm7" EF- F4zC |"F7" EFdc- c2>F2 |"Bb6" GB- B6- | B4 z4 || %17
+w: le- ro, _ I|said, tak- ing off my som-|bre- ro, _ "Let's|meet for a sweet _ si-|es- ta." _|_|
+"D7" d8 | (3A2 =B2 c2 d2 e=e- |"G7" =e8 | =BA- A6 |"C7" c8 | (3G2 A2 B2 c2 ^cd- |"Cm7" d8 | %24
+w: High|was the sun when we first|_|came close; _|Low|was the moon when we said|_|
+"F7" AG- G4zC ||"Cm7" EF- F4zC |"F7" E F2C E F2B, |"Bb6" DF- F4zB, |"Dm7" D F2B,"G7" D F2C | %29
+w: "A- dios", _ Per-|di- do _ Since|then has my heart been per-|di- do, _ I|know I must go to Tor-|
+"Cm7" EF- F4zC |"F7" EFdc- c2>F2 |"Bb6" GB- B6 |"^(Dm7" z8"^G7)" |] %33
+w: ri- do, _ That|yearn- ing to lose _ per-|di- do. _||
+

@@ -1,0 +1,27 @@
+X:1
+T:In Heaven There Is No Beer
+T:In Heaven There Is No Beer
+T:Ralph Siegel & Ernst Neubach
+C:Ralph Siegel & Ernst Neubach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G7""^Brightly" G3"D7/F#" A"G7/F" B3"C/E" c |"G7/D" d"C"e"G7/B"f"D7/A"^f"G7" g2 z2 | %2
+w: ||
+"C" c3 c e2 c2 |"F" A6- AA |"G7" B3 B B2 A2 |"C" G6- GG | c3 c e2"C7" e2 |"F" f6- ff | %8
+w: ||||||
+"C/G" e2 dc"G7" d2 cB |"C" c6- cG |S"C" cc-cc e2 c2 |"F" A6- AA |"G7" B3 B B2 A2 |"C" G6- GG | %14
+w: |* * In|Heav- en * there is no|beer * that's|why we drink it|here * and|
+ c3 c e2"C7" e2 |"F" f6 ff |"C" e2 dc"G7" ddcB |"C" c2 G2 E2 C2 |"G7" G3 A B3 c | def^f g2 z G | %20
+w: when we're gone from|here well our|friends will be drink ing all the|beer. * * *||* * * * * In|
+"C" cc-cc e2 c2 |"F" A6- AA |"G7" B3 B B2 A2 |"C" G6- GG | c3 c e2"C7" e2 |"F" f6 ff | %26
+w: Heav- en * there is no|beer * that's|why we drink it|here * And|when we're gone from|here well our|
+"C/G" e2 dc"G7" ddcB!D.S.! |"C""^and fade" c6- cG |] %28
+w: friends will be drink- ing all the|beer * In|
+

@@ -1,0 +1,40 @@
+X:1
+T:They Called It Dixieland
+T:They Called It Dixieland
+T:Richard A. Whiting
+T:Raymond Egan
+C:Richard A Whiting
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G7" z4 z ^FG>F ||"C" G2"A7" A2"Dm" F2"G7" G2 |"C" E2"Gdim""G7" G4"C" G>^G |"F" A2 c2 B2 A2 | %4
+w: I used to|have a dear old|Mam- my In the|days of old Black|
+"C""Gdim" G4-"G7" G>^FG>F |"C" G2"A7" A2"Dm" F2"G7" G2 |"C" E F2 G- G>GA>"Eb7"^A | %7
+w: Joe. * She used to|cud- dle me up-|on her knee- * And tell me|
+"G" B2 c2"D7" A2 B2 |"G" G4- G>^FG>A |"C7" _B2 D2 E2 G2 |"F" F2 A4 A>^A |"B7" B2 ^F2 G2 A2 | %12
+w: tales of long a-|go * She said the|an- gels built old|Dix- ie, And I|know that's not a|
+"E" B4-"G7" B2 A>B |"C" d2 c2"Cm6" d2 c2 |"G" B2 D4 D>^D |"A7" E>^DE>F"D7" ^F2 B2 | %16
+w: fib, * For to|me it looks like|hea- ven and I'll|tell you what the an- gels|
+"G" G4-"G7" G>"^CHORUS"GA>B ||"C" c2 B2 A2 B2 | c B2"A7" A- A2 E>F |"D7" ^F2 c2 c A3 | %20
+w: did. * They built a|lit- tle gar- den|for the rose * And they|called it Dix- ie-|
+ c4- c>^GA>^A |"G7" B2 A2 G2 A2 | B A2 G- G2 D>^D |"Cmaj7" E2 B2 B G3 | B4- B>^FG>^G | %25
+w: land, * They built a|sum- mer breeze to|keep the snows * far a-|way from Dix- ie-|land * They built the|
+"A7" A2 E2 G2 E2 |"Dm" F4- F2"Gdim" E>^D |"D7" E2 E2 E2 D2 | A4- A2"C" E>_E |"D7" D2 DD- D>E^F>G | %30
+w: fin- est place I've|known * When they|built my home sweet|home, * Noth- ing|was for- got- * ten in the|
+ A2 AA- A>Bc>A |"G" B>^AB>A"A7" B"D7" =A3 |"G" G4-"G7" G>GA>B |"C" c2 B2 A2 B2 | %34
+w: land of cot- * ton, From the|clo- ver to the hon- ey|comb. * And then they|took an an- gel|
+ c B2 A-"A7" A2 E>F |"D7" ^F2 c2 c A3 | c4- c>^GA>^A |"G7" B2 A2 G2 A2 | B A2 G- G2 D>^D | %39
+w: from the skies * And they|gave her heart to|me. * She had a|bit of hea- ven|in her eyes, * Just as|
+"E7" E2 B2 B ^G3 | B4- B>A^G>A |"A7" _B2 A2 ^G2 A2 | B A2 ^c- c3 d |"D7" e>de>d e>de>d | %44
+w: blue as blue can|be; * They put some|fine spring chick- ens|in the land * And|taught my Mam- my how to use a|
+ e d2 c- c>A"Cdim"B>A |"C" G2"Cdim" A2"G7" B2"C" c2 | e"E7" B2 A-"A7" A2 G>^G | %47
+w: fry- ing pan. * They made it|twice as nice as|par- a- dise, * And they|
+"D7" A2 c2"Fm" c"G7" B3 |"C" c4- c z z2 |] %49
+w: called it Dix- ie-|land.- *|
+

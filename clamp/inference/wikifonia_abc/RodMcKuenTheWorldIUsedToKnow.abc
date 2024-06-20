@@ -1,0 +1,31 @@
+X:1
+T:The World I Used To Know
+T:The World I Used To Know
+T:Rod McKuen
+C:Rod McKuen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z E"Cmaj7" E F |"C6" G3/2 A/"F" C D |"C""Am7" E4- |"Dm9""G7" E4 |"C" z E"Cmaj7" E F | %5
+w: Some- day some|old fa- mil- iar|rain,||will come a-|
+w: Some- day the|man I used to|be||will come a-|
+w: Some- day the|world I used to|know||will come a-|
+"C6" G A"Am7" C E |"Dm7" D4- |"G7" D4 |"Dm7" z D D E |"G7" F E F G |"Em7b5" E4- |"A7" E4 | %12
+w: long and know my|name,||and then my|shel- ter will be|gone,||
+w: long and call on|me||and then be-|cause I'm just a|man||
+w: long and bid me|go,||then I'll be|leav- ing you be-|hind,||
+"Dm7" z D D E |"G7" D C A, B, |"C" C4- | C"^tacit" C A B |"Em" G4 |"Dm7" z F"G7" F G |"Cmaj7" E4 | %19
+w: and * I'll|have to move a-|long.|* But till I|do|I'll stay a-|while|
+w: you'll find my|feet are made of|sand.|* But till that|time|I'll tell you|lies|
+w: for love is|just a state of|mind.|* But till that|day|I'll be your|man|
+"C6" z G, C D |"Dm7" E2 F2 |"G9" E D C B, |"C" C4- | C3 z |] %24
+w: and track the|hid- den|coun- try of your|smile.-||
+w: and chart the|hid- den|boun- dries of your|eyes.||
+w: and love a-|way your|troub- les if I|can.-||
+

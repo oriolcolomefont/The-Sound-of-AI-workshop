@@ -1,0 +1,45 @@
+X:1
+T:Goldfinger
+T:Goldfinger
+T:
+T:John Barry
+T:Leslie Bricusse and Anthony Newly  (originally in E)
+C:John Barry
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 1
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 1
+V:1
+|:"F" [CFAA]3"Db" [_DF_A]- [DFA]4"F" | x8 |"F" [CFAA]3"Db" [_DF_A]- [DFA]4"F" | x8 :| %4
+w: ||||
+"F" C4"Db" G F3 | z4 z2 f/_e/_d/B/ |"Cm" z2 G_E"F" F3 C |"Bb" D2 DD B2 A2 |"E" ^G2 z2 z4 | %9
+w: Gold- fin- ger||he's the man, the|man with the Mi- das|touch,|
+ z2 ^G2 G2 E2 |"C" G2 z2 z4 | z4 _D2 z C |"F" C4"Db" G F3 | z4 z2 f/_e/_d/B/ |"Cm" z2 G_E"F" F3 C | %15
+w: a spi- der's|touch.|Such a|cold fing- er||bec- kons you to|
+"Bb" (3D2 D2 D2 B2 A2 |"E" ^G2 z2 z4 | z2 ^G2 G2 G2 |"Am" A8 |"Am6" z4"Am#5" z2 =BA |: %20
+w: en- ter his web of|sin|but don't go|in.|Gold- en|
+"Em" (3G2 G2 E2"Am7" (3G2 G2 A2 |"B7" =B6 BA |"Em" (3G2 G2 E2 (3G2 G2 =B2 |"B7#9" d6 dc | %24
+w: words he will pour in your|ear, but his|lies can't dis- guise what you|fear. For a|
+"E" =B2 BB- B4 |"Cm" (3c2 c2 d2 c G3 |"C7" z2 GG _G2 E2 |"Dbdim" B3 G E2 _D2 |"F" C4"Db" G F3 | %29
+w: gold- en girl _|knows when he's kissed her.|It's the kiss of|death from Mis- ter|Gold- fing- er|
+ z4 z2 f/_e/_d/B/ |"Cm" z2 G_E"F" F3 C |"Bb" (3D2 D2 D2 B2 A2 |"E" ^G8 | z2 ^G2 G2 G2 |1"Am" A8 || %35
+w: |Pret- ty girl, be-|ware of this heart of|gold.|This heart is|cold.|
+"Am6" z4"Am#5" z2 =BA :|2"Am" A8 ||"Am6" z2 z A"Am#5" (3c2 =B2 G2 |"Am" A4-"Am#5" A4 | %39
+w: Gold- en|cold.|He loves on- ly|gold, _|
+"Am6" z4"Am#5" =B3 G |"Am" A4-"Am#5" A4 |"Am6" z4"Am#5" =B2 c2 |"Am" A4-"Am#5" A4 | %43
+w: On- ly|gold. _|He loves|gold. _|
+"Am" z2 z A"Am#5" (3c2 =B2 G2 |"Am" A4-"Am#5" A4 |"Am" z4"Am#5" =B3 G |"Am" A4-"Am#5" A4 | %47
+w: He loves on- ly|gold, _|On- ly|gold. _|
+"Am" z4"Am#5" =B2 c2 |"Am6" e8- | e8 | %50
+w: He loves|gold.|_|
+V:2
+|: x6 z f | =a3 f- f4 | x6 z F | =A3 F- F4 :| x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %14
+ x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %33
+ x8 |1 x8 || x8 :|2 x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %50
+

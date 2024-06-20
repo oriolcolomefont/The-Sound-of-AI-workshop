@@ -1,0 +1,26 @@
+X:1
+T:Moon Over Naples
+T:Moon Over Naples
+C:Bert Kaempfert
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B,4- | B,2 B, C | D4- | D3 z | B,/ B, C/ D E | F G A3/2 B/ |"D7" c4- | c3 z | A,4- | %9
+w: Wine|_ and gui-|tars,|_|moon ov- er Nap- les|and a mil- lion|stars;|_|There|
+w: Night|_ af- ter|night,|_|Kiss af- ter kiss un-|til the sun as|bright,|_|Two|
+ A,2 A, B, | C4- | C3 z | A,/ A, B,/ C D | E F G3/2 A/ |"G" B4- | B3 z | B,4- | B,2 B, C | D4- | %19
+w: _ by the|sea,|_|soft in my arms she|vowed her love to|me.|_|Gone,|_ now she's|gone,|
+w: _ sleep- y|eyes,|_|Hat- ed to say good-|bye to Par- a|dise.|_|Gone,|_ now she's|gone,|
+ D3 z | B,/ B, C/ D E |"G7" =F G A3/2 B/ |"C" e4- | e3 z |"Cm" _e4- | e2 d c |"G" B4- | B3 z | %28
+w: _|And so I search for|her from dawn to|dawn.|_|Where|_ can she|be?|_|
+w: _|And so I search for|her from dawn to|dawn.|_|Where|_ can she|be?|_|
+"D7" c/ c B/ A G | F G A3/2 F/ |1"G" G4- | G3 z :|2"G" G4- | G4 |] %34
+w: Moon ov- er Nap- les,|light her way to|me.|_|me.|_|
+w: Moon ov- er Nap- les|light her way to|me.|_|me.|_|
+

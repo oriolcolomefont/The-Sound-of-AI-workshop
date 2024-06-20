@@ -1,0 +1,33 @@
+X:1
+T:Mary in the morning
+T:Mary in the morning
+T:Johnny Cymbal and Mike Lendell
+C:Johnny Cymbal, Mike Lendell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" G/ G3/2 G G |"F" G/ G3/2- G2 |"C" z G G G |"G7" G F E D |"Am" z E E E |"F" F/ F3/2 C C | %6
+w: Noth- ings quite as|pret- ty *|as Mar- y|in the morn- ing|when through a|sleep- y haze I|
+w: Noth- ings quite as|pret- ty *|as Mar- y|in the morn- ing|chas- ing a|rain- bow in her|
+w: Noth- ings quite as|pret- ty *|as Mar- y|in the eve- ning|kissed by the|shades of night and|
+"D7" D D A, A, |"G7" B,4 |"C" z G G G |"F" G4 |"C" z G G G |"G7" G F E D |"Am" z E E E | %13
+w: see her ly- ing|there|soft as the|rain|that falls on|sum- mer flow- ers|warm as the|
+w: dreams so far a-|way|and when she|turns|I kiss her|face so soft- ly|and then my|
+w: star- light in her|hair|and as we|walk|I hold her|close be- side me|all our to-|
+"F" F/ F3/2 C C |"D7" D D A, A, |"G7" B,4- | B,4 |"C" E2"F" E D |1"C" E2 z2 ||3"C" E4 :| %20
+w: sun- light shin- ing|on her gold- en|hair|||||
+w: Mar- y wakes to|love an- oth- er|day.|||||
+w: mor- rows for a|life- time we will|share.|||||
+"Am" z A A B | c4 | z A A B | c B c d |"G" B G3- | G2 z2 |"Am" z A A B | c4 |"F" z A A B | %29
+w: When I a-|wake|and see her|there so close be-|side me||I want to|take|her in my|
+w: And Mar- ys|there|in sun- ny|days or storm- y|weath- er||She does- nt|care|'cause right or|
+w: |||||||||
+ c A B c |"D7" d4- | d A B c |"G7" B"C" G3- | G4!D.C.! :| %34
+w: arms the ache is|there|* so deep in-|side me||
+w: wrong the love we|share|* we share- to-|geth- er.-||
+w: |||||
+

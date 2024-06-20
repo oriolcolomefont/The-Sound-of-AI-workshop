@@ -1,0 +1,41 @@
+X:1
+T:Rain until September
+T:Rain until September
+T:(It might as well )
+T:Gerry Goffin, Carole King,
+C:Gerry Goffin, Carole King,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z A A e | c3 z | z A A e | c3 z | z A c e | g f2 c | c A c B | B z z2 |:"Ab" z E F G | %9
+w: What shall I|write|what can I|say|how can I|tell you how|much I miss you||the weath- er|
+w: ||||||||I dont need|
+"Fm" B A G A |"Db" F E E =D |"Eb7" E4 |"Ab" z E F G |"Fm" B A G A |"Db" f e"Eb" e =d |"Ab7" e4 | %16
+w: here has been as|nice as it can|be|al- though it|does- nt real- ly|mat- ter much to|me|
+w: sun- ny skies for|things I have to|do|cause I stay|home the whole day|long and think of|you|
+"Db" z f e d |"Dbm" c B c d |"Ab" e e c A |"B" F3 G/G/ |"Bbm" A A A2 |"Db" A G"Eb7" F G | %22
+w: for all the|fun I'll have while|you're so far a-|way * it|might as well|rain un- til Sep-|
+w: as far as|I'm con- cerned each|days a rain- y|day so it|||
+"Ab" F2 E2- |"Eb7" E3 z :|"Ab" B2 A2- | A3 z ||"E7" z E ^F ^G | =A =B ^c =d |"A" =e e ^c =A | %29
+w: tem- ber||tem- ber||my friends look|for ward to the|pic- nics on the|
+w: |||||||
+ ^F3 =E |"Bm" ^F =E"E7" E E |"Bm" ^F =E"E7" =A =B |"A" ^c4- | ^c3 z |"F7" z F G =A | B c =d e | %36
+w: beach yes|an- y- bo- dy|loves the sum- mer|times||but you know|dar- ling while your|
+w: |||||||
+"Bb" f f =d B |"Gm" G3 F |"F7" G F F F |"Eb" B c =d B |"Bb" e4- | e4 ||"Ab" z E F G |"Fm" B A G A | %44
+w: arms are out of|reach the|sum- mer is- nt|an- y friend of|mine||it does- nt|mat- ter whe- ther|
+w: ||||||||
+"Db" F E E =D |"Eb7" E4 |"Ab" z E F G |"Fm" B A G A |"Db" f e"Eb7" e =d |"Ab7" e4 |"D" z f e d | %51
+w: skies are grey or|blue|its rain- ing|in my heart cause|I cant be with|you|I'm on- ly|
+w: |||||||
+"Dbm" c B c d |"Ab" e e c A |"B" F3 G/G/ |"Bbm" A A"Db" A2 | A G"Eb7" F G |"Ab" B2 A2- | A3 G | %58
+w: liv- ing for the|day youre home to|stay so it|might as well|rain un- til Sep-|tem- ber|* sep-|
+w: |||||||
+ B2 A2- | A3 G |"Eb7" B4 |"^AB" A3 z |] %62
+w: tem- ber|* Sep-|tem|ber|
+w: ||||
+

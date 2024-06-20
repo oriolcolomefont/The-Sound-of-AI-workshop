@@ -1,0 +1,41 @@
+X:1
+T:Morgen (One More Sunrise)
+T:Morgen
+T:One More Sunrise
+T:Peter Mosser
+T:Noel Sherman(Eng.)Peter Mosser(Ger.)
+C:Peter Mosser
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" B,/D/- D3 |"C" E/G/- G3 |"G" B, D"D7" (3E D C |"G" B,4 |"C" E/G/- G3 | A/G/- G3 | %6
+w: One more *|sun- rise *|One more day to get|through.|One more *|sun- rise, *|
+w: Mor- gen, *|mor- gen *|lacht uns wie- der das|Gluck.|Ge- stern, *|ge- stern *|
+"G" B, D"D7" (3E D C |"G" B,4 |"Am7" A A A A/B/ |"Cm6" c c"D7" (3c B A |"G" G3- G/D/ | %11
+w: One more day with- out|you.|And those lips that I|knew could nev- er be|true. * *|
+w: liegt schon so weit zu-|ruck.|War es auch ei- ne|scho- ne, scho- * ne|Zeit! * *|
+ F/G/A/B/"D7" A2 |"G" B,/D/- D3 |"C" E/G/- G3 |"G" B, D"D7" (3E D C |"G" B,4 |"C" E/G/- G3 | %17
+w: |One more *|sun- rise, *|Now the heart- aches be-|gin;|Won- d'ring, *|
+w: |Mor- gen, *|mor- gen *|sind wir wei- der da-|bei,|Ge- stern, *|
+ A/G/- G3 |"G" B, D"D7" (3E D C |"G" B,4 |"Am7" A A A A/B/ |"Cm6" c c"D7" (3c B A |"G" G3- G/D/ | %23
+w: wan- d'ring, *|through the pla- ces we've|been,|Hop- ing that I can|keep my "sun- ny side|grin." * *|
+w: ge- stern *|ist uns heut'- ei- ner-|lei,|war es auch ei- ne|scho- ne, scho- * ne|Zeit! * *|
+ B/A/G/F/"G7" =F2 |"Cm" G G G G | _B A/G/- G2 |"Gm" D D D3/2 _B,/ | D/D/D/_E/ D2 |"Cm" G G G G | %29
+w: |Though our love is|dead and gone, *|In my heart it|still lives on and on.|Feel like some poor|
+w: |Sind wir heut'- auch|arm und klein, *|sind wir heut' auch|oh- ne Son- nen- schein,|sind wir heut' auch|
+ _B A/G/- G G/>G/ |"A7" A/A/ z A/A/ z |"D7" d/>d/d/>d/ d/>d/ z |"G" B,/D/- D3 |"C" E/G/- G3 | %34
+w: dy- in' swan, * Tired of|fly- in', try- in',|day by day I'm dy- in'!|One more. *|sun- rise, *|
+w: noch al- lein, * a- ber|mor- gen, mor- gen,|mor- gen, mor- gen, mor- gen,|Mor- gen, *|mor- gen *|
+"G" B, D"D7" (3E D C |"G" B,4 |"C" E/G/- G3 | G/c/- c3 |"G" B B B B |1"Am7" A A"D7" c c || %40
+w: One more day we're a-|part.|One more *|sun- rise, *|One more day- break|for a break- ing|
+w: Lacht uns wie- der das|Gluck.|Mor- gen *|mor- gen *|kommt die scho- ne|Zeit zu uns zu-|
+"G" B3- B/D/ | F/G/A/B/"D7" A2 :|2"Am7" c c"D7b9" _e e ||"G" d4- | d3 z |] %45
+w: heart! * *||for a break- ing|heart!-||
+w: ruck! * *||Zeit zu uns zu-|ruck!-||
+

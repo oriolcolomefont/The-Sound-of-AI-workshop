@@ -1,0 +1,38 @@
+X:1
+T:Do You Know My Jesus?
+T:Do You Know My Jesus
+T:V. B. Ellis & William F. Lakey, 1957
+C:1957, V. B. Ellis & William F. Lakey
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z6 | z6 | z6 | z6 | z6 | z6 |[Q:1/4=75]"C" G3 A G2 | E4"C7" C2 |"F" c6 | A6 |"C" G3 A G2 | %11
+w: ||||||have you a|heart that's|wea|ry|tend ing a|
+ E4"D7" C2 |"G" D6- | D6 |"C" G3 A G2 | E4"C7" C2 |"F" c6 | A6 |"C" G2 E2 EG | %19
+w: load of|care|_|are you a|soul that's|seek|ing|rest from the _|
+"F" F2"C/G" E2"G7" D2 |"C" C6- | C4 cA |"G7" B6- | B4 A2 |"F/C" A6 |"C" G4 cA |"G7" B6- | B4 A2 | %28
+w: bur den you|bear|_ do you|know|_ my|Je|sus do you|know|_ my|
+"C" G6- | G4 cd | e6- |"C7" e4 d2 |"F" d6 | c4 AA |"C" G4 cA |"G7" B2"F" c2"G7" d2 |"C" c6- | %37
+w: friend|_ have you|heard|_ he|loves|you and that|He will a|bide to the|end|
+ c4 z2 |"C" G3 A G2 | E4"C7" C2 |"F" c6 | A6 |"C" G3 A G2 | E4"D7" C2 |"G" D6- | D6 |"C" G3 A G2 | %47
+w: _|where is your|heart o|pil|grim|what does your|light re|veal|_|who hears you|
+ E4"C7" C2 |"F" c6 | A6 |"C" G2 E2 EG |"F" F2"C/G" E2"G7" D2 |"C" C6- | C4 cA |"G7" B6- | B4 A2 | %56
+w: calling for|com|fort|when naught but _|sor row you|feel|_ do you|know|_ my|
+"F/C" A6 |"C" G4 cA |"G7" B6- | B4 A2 |"C" G6- | G4 cd | e6- |"C7" e4 d2 |"F" d6 | c4 AA | %66
+w: Je|sus do you|know|_ my|friend|_ have you|heard|_ he|loves|you and that|
+"C" G4 cA |"G7" B2"F" c2"G7" d2 |"C" c6- | c4 z2 |"C" G3 A G2 | E4"C7" C2 |"F" c6 | A6 | %74
+w: He will a|bide to the|end|_|who knows your|dis a|point|ments|
+"C" G3 A G2 | E4"D7" C2 |"G" D6- | D6 |"C" G3 A G2 | E4"C7" C2 |"F" c6 | A6 |"C" G2 E2 EG | %83
+w: who hears each|time you|cry|_|who un der|stands your|heart|aches|who dries the _|
+"F" F2"C/G" E2"G7" D2 |"C" C6- | C4 cA |"G7" B6- | B4 A2 |"F/C" A6 |"C" G4 cA |"G7" B6- | B4 A2 | %92
+w: tears from your|eyes|_ do you|know|_ my|Je|sus do you|know|_ my|
+"C" G6- | G4 cd | e6- |"C7" e4 d2 |"F" d6 | c4 AA |"C" G4 cA |"G7" B2"F" c2"G7" d2 |"C" c6- | %101
+w: friend|_ have you|heard|_ he|loves|you and that|He will a|bide to the|end|
+ c4 z2 | z6 | z6 | z6 | z6 |] %106
+w: _|||||
+

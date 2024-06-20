@@ -1,0 +1,24 @@
+X:1
+T:Call Me Darling
+T:Call Me Darling
+C:Bert Reisfield, Mart Fryberg, Rolf  Marbot
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C^C |:"Gm7" D2 F4 D^D |"C7" E2 A4 E_E |"Fmaj7" D8- |"Am7" D4"D7" z2 C^C |"Gm7" D2 F4 D^D | %6
+w: Call me|dar- ling, call me|sweet- heart, call me|dear.|* Thrill me|dar- ling with the|
+"C7" E2 d4 c^G |"Fmaj7" A8- | A4 z2 AB |"Adim7" c2 d4 A2 |"D7" c2 d4 A2 |"Gm7" c2 B4 A2 | %12
+w: words I want to|hear.|* In you|dark eyes, so|smil- ing, a|pro- mise I|
+"Edim7" G6"A7" DE |"Dm7" F2 A4 F2 |"G7" E6 G2 |"Gm7" D4 _D4 |"C7" C6 C^C |"Gm7" D2 F4 D^D | %18
+w: see, but your|two lips won't|say you|care for|me. Oh my|dar- ling, if my|
+"C7" E2 A4 E_E |"Fmaj7" D8- | D4 z2 F^F |"Cm7" G2 B4 G^G |"F7" A2 d4 A_A |"Bbmaj7" G8- | G4 z2 FG | %25
+w: day- dreams would come|true,|* you would|meet me at a|sec- ret ren- dez-|vous,|* and I'd|
+"Db7" _A4- AGAG |"Eb7" F6 G^G |"Fmaj7" A4 c2 e2 |"D7" d6 C^C |"Gm7" D2 F4 D^D |"C7" E2 c4 cA |1 %31
+w: find * the par- a|dise that lies|deep in your|eyes. Call me|dar- ling, call me|sweet- heart, call me|
+"Fmaj7" F8- |"Am7" F4"D7" z2 C^C :|2"Fmaj7" F6 |] %34
+w: dear.|* Call ~me|dear.|
+

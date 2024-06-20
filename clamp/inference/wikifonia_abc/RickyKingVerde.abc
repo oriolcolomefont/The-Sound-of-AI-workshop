@@ -1,0 +1,25 @@
+X:1
+T:Verde
+T:Verde
+T:Ricky King
+C:Ricky King
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" z4 |"C" z4 |:"C" G z F/ E F/ |"C" [EG] z E/ G c/ |"G7" F z E/ D E/ |"G7" [DF] z z2 | %6
+"G7" A z G/ F G/ |"G7" A z d/ B A/ |"C" G z e/ c A/ |"C" G z z (3G/^F/G/ |"F" A z z z/ A/ | %11
+"G7" B z c d |"C" c G z/"F" A G/ |"C" z2 z"C7" (3G/^F/G/ |"F" A z z z/ A/ |"C" B z c d | %16
+"C+9" e2"E7" e d |"Am" d c B c |"D" e2 d c |"G7" c B d/ z/ z |1"G7" B z A ^G :|2"G7" B z A ^G || %22
+"C#" ^G z ^F/ =F ^F/ |"C#" ^G z F/ G ^c/ |"G#7" ^F z =F/ _E F/ |"G#7" ^F z z2 | %26
+"G#7" _B z ^G/ ^F G/ |"G#7" _B z _e/ c B/ |"C#" ^G z f/ ^c _B/ |"C#" ^G z z2 | %30
+"C#" ^G z ^F/ =F ^F/ |"C#" ^G z F/ G ^c/ |"G#7" ^F z =F/ _E F/ |"G#7" ^F z z2 | %34
+"G#7" _B z ^G/ ^F G/ |"G#7" _B z _e/ c B/ |"C#" ^G z f/ ^c _B/ |"C#" ^G z z2 | %38
+"C#" ^G z ^F/"^rit." =F ^F/ |"C#""^rit." ^G4 |] %40
+

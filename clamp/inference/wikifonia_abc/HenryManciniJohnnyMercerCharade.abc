@@ -1,0 +1,32 @@
+X:1
+T:Charade
+T:Charade
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am" E F E |"Am#5" B2 A |"Am6" E3- |"Am#5" E3 |"Am" E F E | D2 C |"Bm7b5" E B,2- |"E7" B,3 | %8
+w: When we played|our char-|ade|_|we were like|chil- dren|pos- ing,|_|
+"Bm7b5" D E D |"E7" B,3 |"Bm7b5" D E D |"E7" B,3 |"Bm7b5" D E3/2 D/ |"E7b9" C2 B, |"Am" A,3- | %15
+w: play- ing at|games,|act- ing out|names,|gues- sing the|parts we|played.|
+ A,3 |"Am" E F E |"Am#5" B2 A |"Am6" E3- |"Am#5" E3 |"Am" E F E | D2 C |"Bm7b5" E B,2- |"E7" B,3 | %24
+w: _|Oh what a|hit we|made,|_|we came on|next to|clos- ing;|_|
+"Bm7b5" D E D |"E7" B,3 |"Bm7b5" D E D |"E7" B,3 |"Bm7b5" D E3/2 D/ |"E7b9" C2 B, |"Am" A,3- | %31
+w: best on the|bill,|lov- ers un-|til|love left the|mas- que-|rade.|
+ A,3 ||"Dm7" A3- |"G9" A B c |"Cmaj7" B2 G |"Am7" E2 C |"Dm7" A,3 |"G7" F D B, |"Cmaj7" G3- | %39
+w: _|Fate,|_ seemed to|pull the|strings, I|turned|and you were|gone.|
+"A7b9" G3 |"Dm7" A3- |"G9" A B c |"Cmaj7" B2 G |"Am7" E2 C |"D9" B,2 A, | B,2 C |"Bm7b5" D3- | %47
+w: _|While|_ from the|dark- ened|wings the|mus- ic|box played|on.|
+"E7" D3 ||"Am" E F E |"Am#5" B2 A |"Am6" E3- |"Am#5" E3 |"Am" E F E | D2 C |"Bm7b5" E B,2- | %55
+w: _|Sad lit- tle|se- re-|nade,|_|song of my|heart's com-|pos- ing;|
+"E7" B,3 |"Bm7b5" D E D |"E7" B,3 |"Bm7b5" D E D |"E7" B,3 |"Bm7b5" D E3/2 D/ |"E7b9" c3- | c3- | %63
+w: _|I hear it|still,|I al- ways|will,|best on the|bill|_|
+ c2"E7b9" B |"Am" A3- | A3- | A3- | A3 |] %68
+w: * cha-|rade|_|||
+

@@ -1,0 +1,19 @@
+X:1
+T:Azt gondoltad, azt gondoltad
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" E E D C | E E D C |"G" =B,/C/ D"Cm" C2 |"Cm" G G F E | G G F E |"G" D/E/ F"Cm" E2 | %6
+w: Azt gon- dol- tad,|azt gon- dol- tad,|ba- bám, bá- nom,|Hogy te- tõ- led,|hogy te- tõ- led|el kell vál- nom,|
+"Cm" G F/E/"Fm" F/G/ A |"Bb" F E/D/"Eb" E/F/ G |"Cm" E D/C/"G" =B,/C/ F | %9
+w: Elvá- lá- sunk csak egy álom,|szíve- met más- nak a- jánlom,|ajna... _ _ _ _ _|
+"Cm" E/C/"G"D/=B,/"Cm" C2 |] %10
+w: _ _ _ _ _|
+

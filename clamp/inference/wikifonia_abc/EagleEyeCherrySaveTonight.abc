@@ -1,0 +1,33 @@
+X:1
+T:Save Tonight
+C:Eagle-Eye Cherry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+"Am" z4"F" z4 |"C" z4"G" z4 |"Am" z4"F" z4 |"C"z4"G"zE EG ::"_Verse""Am" A4"F" z2 A2 | %5
+w: |||(Go on and)|close the|
+"C" C>D- D2"G"zC EG |"Am" A4"F"zC AG |"C" G4"G" z2 EG |"Am" A4"F" z2 A>G | %9
+w: cur\- tains * cause all we|need is cand\- le|light you and|me and a|
+"C" G/E/E- ED"G" z G,/G,/ ED/C/ |"Am" C4"F" z4 |"C" z4"G" z2 EG |"Am" A4"C" z2 A2 | %13
+w: bott\- le of * wine gon\- na hold you to\-|night|Well, we|know I'm|
+"F" CD DD-"G" DD EG |"Am" A4zC"F" A/GG/- |"C"G E2>"G"z2C EG |"Am" (A2 G2)"F" z2 A2 | %17
+w: go\- ing a\- way * and how I|wish I Wish it were'nt|* so. So take this|wine * and|
+"C"G E2D-"G" D2 z2 |"Am" DD DE"F" DC C2 |"C" z4"G" E2>C2 ||"_Chorus""Am" C2z2"F"z2zA, | %21
+w: drink with me _|Let's de\- lay our mi\- se\- ry|Save to\-|night and|
+"C" CC/C/- C<D"G" D2 E2- |"Am" EC CC"F"z2zA, |"C" CC/C/- CD"G" D2 E2- |"Am" EC C2"F"z2zA, | %25
+w: fight the break * of dawn come|* to\- mor\- row to\-|mor\- row I'll * be gone, save|_ to\- night and|
+"C" CC/C/- C<D"G" D2 E2- |"Am" EC CC"F"z2zA, |1"C" CC/C/- CD"G" D2 EG :|2 %28
+w: fight the break * of dawn come\_|* to\- mor\- row to\-|mor\- row I'll * be gone There's a|
+"C" CC/C/- CD"G" D2 z2"_Solo" ||"Am" z4"F" z4 |"C" z4"G" z4 ||"Am" z4"F" z4 |"C" z4"G" z4 | %33
+w: mor\- row I'll * be gone|||||
+"Am" z4"F" z4 |"C" z4"G" z4 |"Am" z4"F" z4 |"C"z4"G"z2zC"^Bridge" ||"Am"G G2G-"F" G2zF | %38
+w: |||To\-|mor\- row comes * to|
+"C" EF G2"G" B,2 z2 |"Am"zC AG"F" G2zF |"C"E G2B,-"G" B,2 z2 |"Am" DD DE"F" DC C2 |"C" z8"G" | %43
+w: take me a\- way|I Wish that I that|I could stay *|girl you know I've got to go||
+"Am" DD DE"F" DC C2 |"C" z4"G" E2>D2"_To Chorus" || %45
+w: Lord, I Wish it was\- n't so|Save to-|
+

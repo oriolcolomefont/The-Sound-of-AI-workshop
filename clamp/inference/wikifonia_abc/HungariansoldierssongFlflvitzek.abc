@@ -1,0 +1,15 @@
+X:1
+T:Föl, föl, vitézek
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E E E/ E D/ | C/C/ D E z | A A A/ A G/ | F/E/ D E z | E E E/ E E/ | A/G/ F E z | E A B/ B B/ | %7
+w: Föl, föl, vi- té- zek|a csa- tá- ra,|A szent sza- bad- ság|ol- tal- má- ra,|é- des ha- zánk- ért|hő- si vé- rünk|ont- juk, hul- lajt- juk|
+ E/ c B/ A/^G/ A |] %8
+w: nagy bát- ran, míg é- lünk!-|
+

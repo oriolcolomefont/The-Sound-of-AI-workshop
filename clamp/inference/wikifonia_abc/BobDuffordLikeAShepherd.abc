@@ -1,0 +1,46 @@
+X:1
+T:Like A Shepherd
+T:Like A Shepherd
+C:Bob Dufford
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^Refrain" B2 G | B3/2 A/ G |"Ab" E2 C |"Bb" B,2 z/ B,/ |"Cm" E E3/2 E/ |"Ab" C E G |"Bb" F3- | %7
+w: Like a|she- pherd He|feeds his|flock and|gath- ers the|lambs in his|arms,|
+"Bb7" F2 z |"Eb" B3/2 B/ B |"C" B A G |"Fm" A3/2 B/ A |"Bb" F3- |"Fm7" F2 z |"Bb" F E D |"Eb" E3- | %15
+w: _|hold- ing them|care- ful- ly|close to His|heart,|_|lead- ing them|home.|
+ E2 z ||"E" =B B B |"Bb" _B B A |"Eb" G/A/ B2- | B2 z/ E/ |"Ab" c2 B |"Bbm" A G F |"C" G3- | G2 z | %24
+w: _|1.~Say to the|ci- ties of|Ju- * dah:|_ Pre-|pare the|way of the|Lord.|_|
+"Fm" A2 F/E/ |"Bb" D E F |"Eb" B2 A |"Cm" G2 z/ C/ |"Ab" A3/2 G/ F |"Fm" F G A |"Bb" B3- | %31
+w: Go to the|moun- tain- top,|lift your|voice: Je-|ru- sa lem,|here is your|God|
+"Bb7" B2 z ||"Eb""^Refrain" B2 G | B3/2 A/ G |"Ab" E2 C |"Bb" B,2 z/ B,/ |"Cm" E E3/2 E/ | %37
+w: _|Like a|she- pherd He|feeds his|flock and|gath- ers the|
+"Ab" C E G |"Bb" F3- |"Bb7" F2 z |"Eb" B3/2 B/ B |"C" B A G |"Fm" A3/2 B/ A |"Bb" F3- |"Fm7" F2 z | %45
+w: lambs in his|arms,|_|hold- ing them|care- ful- ly|close to His|heart,|_|
+"Bb" F E D |"Eb" E3- | E2 z ||"E" =B2 B |"Bb" _B2 A |"Eb" G/A/ B2- | B2 z/ E/ |"Ab" c c B | %53
+w: lead- ing them|home.|_|2.~I my-|self will|shep- herd them,|_ for|oth- ers have|
+"Bbm" A G F |"C" G3- | G2 z/ C/ |"Fm" A2 F/E/ |"Bb" D E F |"Eb" B2 A |"Cm" G2 z/ C/ | %60
+w: led them a-|stray.|_ The|lost I will|res- cue and|heal their|wounds and|
+"Ab" A3/2 G/ F |"Fm" F G A |"Bb" B3- |"Bb7" B2 z ||"Eb""^Refrain" B2 G | B3/2 A/ G |"Ab" E2 C | %67
+w: pas- ture them,|giv- ing them|rest.|_|Like a|she- pherd He|feeds his|
+"Bb" B,2 z/ B,/ |"Cm" E E3/2 E/ |"Ab" C E G |"Bb" F3- |"Bb7" F2 z |"Eb" B3/2 B/ B |"C" B A G | %74
+w: flock and|gath- ers the|lambs in his|arms,|_|hold- ing them|care- ful- ly|
+"Fm" A3/2 B/ A |"Bb" F3- |"Fm7" F2 z |"Bb" F E D |"Eb" E3- | E2 z ||"Ab" c3- |"Bb" c B A | %82
+w: close to His|heart,|_|lead- ing them|home.|_|3.~Come|_ un- to|
+"Eb" B3- |"Cm" B2 B |"Fm" A2 G |"Bb" A3/2 G/ F |"Eb" G/A/ B2- | B2 z/ E/ |"E" =B2 B | %89
+w: me|_ if|you are|heav- i- ly|bur- * dened|_ and|take my|
+"Bb" _B2- B/A/ |"Eb" G2 F |"Cm" G !fermata!e2 |"Ab" c2 B |"Fm7" A2 G |"Bb" F3- |"Bb7" F2 z || %96
+w: yoke _ up-|on your|shoul- ders.|I will|give you|rest.|_|
+"Eb""^Refrain" B2 G | B3/2 A/ G |"Ab" E2 C |"Bb" B,2 z/ B,/ |"Cm" E E3/2 E/ |"Ab" C E G |"Bb" F3- | %103
+w: Like a|she- pherd He|feeds his|flock and|gath- ers the|lambs in his|arms,|
+"Bb7" F2 z |"Eb" B3/2 B/ B |"C" B A G |"Fm" A3/2 B/ A |"Bb" F3- |"Fm7" F2 z |"Bb" F E D |"Eb" E3- | %111
+w: _|hold- ing them|care- ful- ly|close to His|heart,|_|lead- ing them|home.|
+"Eb/G" E3- |"Fm/Ab" E2 z |"Bb" F E D |"Eb" E3- | E3 |] %116
+w: _||lead- ing them|home.|_|
+

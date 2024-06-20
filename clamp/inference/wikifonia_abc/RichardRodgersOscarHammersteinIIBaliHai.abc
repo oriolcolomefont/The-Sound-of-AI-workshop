@@ -1,0 +1,37 @@
+X:1
+T:Bali Ha'i
+T:Bali Ha'i
+T:(from South Pacific)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"F" F2 F2 F2 | F2 GA G2 F2 |"Eb" G4"F" G4- |"G" G8 |"F" z2 F2 F2 F2 | FFGA G2 F2 |"A" A8- | %7
+w: Most peo- ple|live on a lone- ly|is- land||Lost in the|mid- dle of a fog- gy|sea|
+"G" A8 |"F" z2 F2 F2 F2 | F2 GA G2 F2 |"Gb" B4"Ab" B4- |"Bb" B8 |"Gm7" B2 BB B2 BB | B4 B4 | %14
+w: |most peo- ple|long for an- oth- er|is- land||one where they know they would|like to|
+"C" G8- |"C7" G6"^Refrain:" z2 | z4 z z Cc |:"F" =B6 B2 | =B2"F" c4 CA | ^G6 GG | A6 CA | %21
+w: be||Ba- li|Ha'i may|call you an- y|night an- y|day in your|
+"E" ^G4- GGGG |"Db7" ^G2"F" A4 CA |"Db7" _A6"C7" G_G |"F" F6 Cc | =B6 B2 | =B2 c4 CA | ^G6 GG | %28
+w: heart, * you'll hear it|call you come a-|way come a-|way Ba- li|Ha'i will|whis- per on the|wind of the|
+ A6 CA |"E" ^G4- GGGG |"Db7" ^G2"F" A4 CA |"Db7" ^G6"C7" =G_G |"F" F6 F2 |"Bb" B4 A2 _A2 | F6 F2 | %35
+w: sea here am|I * your spe- cial|is- land come to|me come to|me your|own spe- cial|hopes your|
+ B4 A2 ^F2 | D8 |"Gm" D4 E2 ^F2 | G4 A2 B2 |"Bb" B4 A2 B2 |"C7" c6 Cc |"F" =B6 B2 | =B2 c4 CA | %43
+w: own spe- cial|dreams|bloom on the|hill- side and|shine in the|streams If you|try, you'll|find me where the|
+ ^G6 GG | A6 CA |"E" ^G4- GGGG |"Db7" ^G2"F" A4"C7" CA |"Db7" ^G6"C7" =G_G |"F7" F6 FF | %49
+w: sky meet the|sea here am|I * your spec- ail|is- land! come to|me come to|me! Ba- li|
+"Bb" G6 GG |"C" B6 BB |1"F" d8- | d6 z2 |"E" E4 E3 E |"Dm" F2 D6 |"E" E3 E E3 E |"Dm" F2 D4 D2 | %57
+w: Ha'i Ba- li|Ha'i Ba- li|Ha'i||some day you'll|see me|float- ing in the|sun- shine my|
+"Gm" G4 G2 G2 | G2 BA G2 AG |"F" F8- | F6 z2 |"G" G4 G3 G |"Dm" A2 F6 |"G" G3 G G3 G |"Dm" A2 F6 | %65
+w: head stick- ing|out from a low fly- ing|cloud||you'll hear me|call you|sing- ing through the|sun- shine|
+"Gb" B4"Ab" B4 |"Bb" B4"Ab" B2"Bb" B2 |"Db" F8- |"F" F6 Cc | =B6 Cc | =B6 CA |"C7" d8- | %72
+w: sweet and|clear as can|be|* come to|me here I|am come to|me!|
+ d4 z2 Cc :|2"F" d8- | d4 z4 |] %75
+w: * Bal- i|Ha'i!||
+

@@ -1,0 +1,28 @@
+X:1
+T:Your Cheatin' Heart
+T:Your cheatin heart
+T:Hank Williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"G7" G c A/G/ |:"C" E4- |"C7" E G A G |"F" F4- | F c c d/c/ |"G7" B4- | B G A F |"C" E4- | %8
+w: Your cheat- in *|heart|* will make you|weep|* you'll cry and *|cry|* and try to|sleep|
+w: your cheat- in *|heart|* will pine some|day|* and crave the *|love|* you threw a-|way|
+ E G"G7" c A/G/ |"C" E4- |"C7" E G A G |"F" F4- | F c c d/c/ |"G7" B4- | B E F B, |"C" C4- | %16
+w: * but sleep wont *|come|* the whole night|through|* your cheat- in *|heart|* will tell on|you|
+w: * the time will *|come|* when you'll be|blue|* your cheat- in *|heart|* will tell on|you|
+ C c"C7" c c |"F" c4- | c c c3/2 c/ |"C" A/G/- G3- | G c c c |"D7" c4- | c A B c |"G7" B4- | %24
+w: * When tears come|down|* like fall- in|rain * *|* you'll toss a-|round|* and call my|name|
+w: ||||||||
+ B G c A/G/ |"C" E4- |"C7" E G A G |"F" F4- | F c c d/c/ |"G7" B4- | B G A B, |1"C" C4- | %32
+w: * you'll walk the *|floor|* the way I|do|* your cheat- ing *|heart|* will tell on|you|
+w: ||||||||
+ C G"G7" c A/G/ :|2"C" C4- | C3 z |] %35
+w: * your cheat- in *|you.||
+w: |||
+

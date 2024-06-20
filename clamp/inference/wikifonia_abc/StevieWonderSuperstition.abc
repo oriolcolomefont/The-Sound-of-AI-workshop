@@ -1,0 +1,26 @@
+X:1
+T:Superstition
+T:Superstition
+T:Stevie Wonder
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble transpose=-2 nm="B Trumpet"
+%%MIDI program 56
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:Gb] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 ||S z8 | z8 | z8 | z8 | z8 | z8 | %18
+ z8 | z8 |:"Ebm" z!f! !^!e z/ !^!e/ z G/A/B/!invertedturn!d/- d/B/e/!^!e/ | %21
+ z !^!e !tenuto!d/!^!ed/ bg"^x4" !^!e2 :|"Bb7"!mf! !>!f3 z"B7" !>!f3 z | %23
+"Bb7" !>!f2 z B"A7" (!tenuto!e2 .g)!>!e- |"Ab7" e6 z2 | %25
+O"Bb7#9b13"!ff! [=DA_dg]/[DAdg]/[DAdg]/[DAdg]/ !^![DAdg]2 z4 ||"Ebm" e6 z2 | %27
+ d2 =c2 (!tenuto!B2 =c)E- | E3 z z4 | z8!D.S.! ||!mf! !>!F3 z !>!G3 z | %31
+ !>!F3 z !tenuto!E2 .=C!>!E- || E6 z2 | z8 || z8 | z8 | z8!D.S.! | z8!D.S.! ||O!f! e6 z2 | %39
+ d2 =c2 (!tenuto!B2 =c)E- | [Ee]6 z2 | d2 =c2 (!tenuto!B2 =c)E ||!mf! F4 G4 | F4 E4 | F4 G4 | %45
+ F4 E4 ||!f! E6 z2 | d2 =c2 (!tenuto!B2 =c)E- | [Ee]6 z2 | d2 =c2 (!tenuto!B2 =c)E |: %50
+ z!f! !^!e z/ !^!e/ z G/A/B/!invertedturn!d/- d/B/e/!^!e/ | %51
+ z !^!e !tenuto!d/!^!ed/ bg"^x4" !^!e2 :| !>!F3 z !>!G3 z | !>!F3 z !tenuto!E2 .=C!>!E- | E6 z2 |] %55
+

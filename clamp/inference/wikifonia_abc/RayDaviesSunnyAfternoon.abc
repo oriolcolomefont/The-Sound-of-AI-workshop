@@ -1,0 +1,34 @@
+X:1
+T:Sunny Afternoon
+T:Sunny Afternoon The Kinks
+C:Ray Davies
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="1"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D/ |"Dm" D (E F) G/(A/ |"C7" A/) d c/- c z/ c/ |"F" A d c d |"C7" A d/c/- c2 |"A" A A A A | %6
+w: The|tax- man's tak- en all|* my dough, * And|left me in my|state- ly home. *|La- zin' on a|
+w: My|girl- friend's ran off with|* my car * She's|gone back to her|Ma and Pa *|Tel- lin' tales of|
+"A7" A/ G3/2 F E/D/- |"Dm" D z/ D/ F/ G (A/ |"C7" A) d (c/ c) z/ c/ |"F" A d c d | %10
+w: sun- ny af- ter- noon.|* And I can't sail|* my yacht, * He's|ta- ken ev'- ry-|
+w: drun- ken- ess and cruelty.|* * * So I'm|sit- tin' here * *|Sip- pin' at my|
+"C7" A/ d c/- c2 |"A" A A A A |"A7" A/ G3/2 F E/(D/ |"Dm" D2) z2 |"D" z4 |"D7" d d d d | %16
+w: thing I've got, *|All I've got's this|sun- ny af- ter- noon.|||Save me Save me|
+w: ice- cooled beer *|La- zin' on a|sun- ny af- ter- noon.|||Help me Help me|
+ d d d/ d (d/ |"G7" d2 D2) | z2 z/ d/d/d/ |"C7" d d c/d/ z | d c A G |"F" A4 |"A7" z2 z/ A A/ | %23
+w: Save me from this squeeze||I've got a|big fat mam- ma|try- in' to break|me.|And I|
+w: Help me sail a- way||And give me|two good rea- sons|why I ought- a|stay||
+"Dm" D A D A |"G7" D/ A D/- D z |"Dm" d d d d/(f/ |"G7" f/) f"C7" ((e/ e/) d3/2) |"F" c c c c | %28
+w: love to live so|pleas- ant- ly, *|Live this life of lux|* ur- y. * *|La- zin' on a|
+w: |||||
+"A7" ^c/ c3/2 d e/(f/ |"Dm" f4 |"A7" f2) z d |"Dm" f/ d (d/ d2 |"A7" d2) z d |:"Dm" f/ d (d/ d2 | %34
+w: sun- ny af- ter- noon.||* In|sum- mer- time, *|* In|sum- mer- time, *|
+w: ||||||
+"A7" d2) z d :| %35
+w: * In|
+w: |
+

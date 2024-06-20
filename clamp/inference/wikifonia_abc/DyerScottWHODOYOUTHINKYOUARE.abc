@@ -1,0 +1,42 @@
+X:1
+T:WHO DO YOU THINK YOU ARE
+C:Dyer
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Em7" [DEGB]2 [DEGB]2 z [DGB]z"A"[^CEA] | z [^CEA]z[CEA] [CFA][CFA] [CEA]2 | %2
+w: ||
+w: ||
+"F#m7" [EA^c]>[FAc]- [FAc]2 z [EAc]z"B"[DFB] | z2 z [DFGA] [DFB][DFB] [DFA]2 :|"Em7" z4 GG-AE- | %5
+w: ||Who am _ I?|
+w: ||Where are _ we?|
+"A" E4 z4 |"F#m7" z2 z F A^c- c<B |"B" z F- F>B- B>A- A2 |"Em7" G4- GG-AE- |"A" E6 z2 | %10
+w: _|I'm just a _ guy|who _ on _ _ ly|wants _ to _ try|_|
+w: _|we're at the _ croos|roads _ and _ I _|just _ can't _ see|_|
+"F#m7" z2 z F A^c- c<B |"B" z2 F2 B2 A2 |"Em7" G4 z G-AE |"A" z2 z2 z2 z2 | %14
+w: to do what's _ right|and nev er|make you _ cry||
+w: which road to _ take|to keep you|here with _ me||
+"F#m7" z2 z F A^c- c<"B"B- | B2 B2 B2 c z |"Em7" d2 d<d BG-G"A"E | z2 z E F2 G2 | %18
+w: but you're no _ good|_ for me and|Who Do You Think You _ Are|You try to|
+w: the lights are _ down|_ and ba by!|||
+"F#m7" e2 ee ^cAAF |"B" z2 z F G2 A2 |"Em7" d2 dd B/-B/-G G<"A"E | z2 z E F2 G2 | %22
+w: push me a bit too _ far|and ev' ry|days sees an o _ ther scar _|So tell me|
+w: ||||
+"F#m7" e2 ee ^cAA"B"F | z4 FG- G<A |"G" B4 BGB"A"^c- | c4 z4 |"Bb" d2 dd"F" cA-A"Eb"_B- | %27
+w: who do you think you _ are|You want _ me|there you've got ta care.|_|Who do you think you _ are|
+w: |||||
+ B4 A>_B- B<c |"Dm7""^Bo Donaldson rocked my mama" c2 cc =fczd- |"Ebmaj7" d4 z4 | %30
+w: _ tak ing _ ad|van tage of me this way|_|
+w: |||
+"Bb" d2 dd"F" cAz"Eb"_B | z4 A>_B- Bc |"Dm7" c2 cc =fcz"Ebmaj7"d- | d4 z _B c2 |"Dm7" d4 z _B c2 | %35
+w: Who Do You Think You Are|Hurt ing _ me|more with the things you say|_ Its not|fair you don't|
+w: |||||
+"Ebmaj7" d8 |"D" d2 dd"G/D" d2 d"D"d | z"C/D" dzd"G" d2 z2 |] %38
+w: care|Who do you real ly think|that you are?|
+w: |||
+

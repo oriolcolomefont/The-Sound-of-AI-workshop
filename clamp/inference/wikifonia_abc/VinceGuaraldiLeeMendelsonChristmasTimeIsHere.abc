@@ -1,0 +1,26 @@
+X:1
+T:Christmas Time Is Here
+T:Christmas Time Is Here
+C:Vince Guaraldi
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fmaj7" ec c3 A |"Eb9#11" A6 |"Fmaj7" ec c3 A |"Eb9#11" A6 |"Bm7b5" AF F3"Bbm7" E | %5
+w: Christ- mas time is|here,|hap- pi- ness and|cheer.|Fun for all that|
+"Am7" GE E3"Abm7" _E |"Gm7" DF D2"Bb/C" F2 |"Fmaj9" G6 |"Fmaj7" ec c3 A |"Eb9#11" A6 | %10
+w: chil- dren call their|fa- v'rite time of|year.|Snow- flakes in the|air,|
+"Fmaj7" ec c3 A |"Eb9#11" A6 |"Bm7b5" AF F3"Bbm7" E |"Am7" GE E3"Abm7" _E |"Gm7" DF D2"Bb/C" F2 | %15
+w: car- ols ev- 'ry-|where.|Old- en times and|an- cient rhymes of|love and dreams to|
+"Fmaj9" G6 |"Dbmaj7" c_A A3 c |"Gb9#11" c6 |"Dbmaj7" c_A A3 c |"Gb9#11" c6 |"Am7" cA A3"Eb9" c | %21
+w: share.|Sleigh- bells in the|air,|beau- ty ev- 'ry-|where.|Yule- tide by the|
+"D9" cA A3"D7b9" B |"Gm7" BG G2"Db9" A2 |"C13" A6 |"Fmaj7" ec c3 A |"Eb9#11" A6 |"Fmaj7" ec c3 A | %27
+w: fire- * side and|joy- ful mem- 'ries|there.|Christ- mas time is|here,|we'll be draw- ing|
+"Eb9#11" A6 |"Bm7b5" AF F3"Bbm7" E |"Am7" GE E3"Abm7" _E |"Gm7" DF D2"Bb/C" F2 |"Fmaj9" G6 |] %32
+w: near.|Oh, that we could|al- ways see such|spir- it through the|year.|
+

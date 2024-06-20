@@ -1,0 +1,25 @@
+X:1
+T:Just In Time
+T:Just in time
+T:(from Bells are ringing)
+T:Jule Styne
+T:Betty Comden and Adolph Green
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Bb" D"A" ^C"Bb" D2- | D"A" ^C D C |"Am7" D ^C"D7" D2- | D ^C D C |"Fm" D ^C D2- |"G7" D ^C D G | %6
+w: Just in time|* I found you|just in time|* be- fore you|came my time|* was run- ning|
+"C" D4- | D4 |"F7" D ^C D2- | D ^C D C |"Bb" D ^C D2- | D ^C D F |"Eb" G ^F G2- | G ^F G B | %14
+w: low||I was lost|* the los- ing|dice were tossed,|* my bridg- es|all were crossed|* no where to|
+"Ab" c4- |"D7" c4 |"Gm" B A B2- | B"D" A B A |"Gm" B c c d | d"C7" c c B |"Bb" G ^F G2- | %21
+w: go||now you're here|* and now I|know just where I'm|go- ing no more|doubt or fear|
+ G ^F G B |"G7" E4- | E D F E |"C" D ^C D2- | D ^C"F7" D F |"Bb" G ^F G2- |"Bb" G ^F G B | %28
+w: * I've found my|way|* for love came|just in time|* you found me|just in time|* and changed my|
+"C7" c =B c d |"Cm7" B2"F7" c2 |1"Bb" B4- |"C" B2 z2 :|2"Bb" B4- | B3 z |] %34
+w: lone- ly life that|love- ly|day.||||
+

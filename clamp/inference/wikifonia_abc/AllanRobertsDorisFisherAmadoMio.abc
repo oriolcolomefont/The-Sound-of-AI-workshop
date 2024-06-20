@@ -1,0 +1,41 @@
+X:1
+T:Amado Mio
+T:Amado Mio
+C:Allan Roberts
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"Dm6" A !fermata!d F ||S"Gm7" A3/2"Gm6" G/- G2- |"A7" G G A B |"A7b9""A7" B3/2 A/- A2- | %4
+w: A- mad- do|Mi- o _|_ love me for-|ev- er, _|
+w: |nev- er _|_ my love, my|dar- ling, _|
+"Dm" A D"A7" E"Dm" F |"Gm7" F3/2"Gm6" E/- E2- |"A7" E E c B |"Dm" A4- | A A d F | %9
+w: _ and let for-|ev- er _|_ be- gin to-|night.|_ when we're to-|
+w: _ my arms must|hold you _|_ an hold you|tight.|_ A- ma- do|
+"Gm7""Gm6" A3/2 G/- G2- |"A7" G G A B |"A7b9" B3/2"A7" A/- A2- |"Dm" A D"A7" E"Dm" F!dacoda! || %13
+w: geth- er _|_ A- ma- do|Mi- o _|_ I don't care|
+w: Mi- o _|_ love me for-|ev- er _|_ and let for|
+"Gm7" F3/2"Gm6" E/- E2- |"A7" E E"Gm6" D"A7" ^C |"Dm" D4- | D4 |"Gdim" ^C"Gm6" D"A7b9" E"A" F | %18
+w: whe- ther _|_ it's wrong or|right.|_|Ma- ny times I've|
+w: |||||
+"Dm" D2 A2 |"Gm6" z B B B |"A7b9" B2"A7""Dm" A2 |"A7" z/ G/A/B/- B/A/ G |"Dm" z/ F/G/A/- A/G/ F | %23
+w: whis- pered|"A- ma- do|Mi- o",|it was just _ a phase|that I'd heard _ in plays|
+w: |||||
+"Gm6" z/ E/F/G/- G/F/"A7" E |"Dm" D4 |"Gdim" ^C"Gm6" D"A7b9" E"A" F |"Dm" D2 A2 |"Gm6" z B B B | %28
+w: I was act- * ing a|part.|And now when I|whis- per.|A- ma- do|
+w: |||||
+"A7b9" B2"A7""Dm" A2 |"A7" z/ G/A/B/- B/A/ G |"Dm" z/ F/G/A/- A/G/ F |"Gm6" z/ E/F/G/- G/F/"A7" E | %32
+w: Mi- o|can't you tell- * I care|by the feel- * ing there?|"Cause it comes _ from my|
+w: ||||
+"Dm" D A !fermata!d F!D.S.! |]O"Gm6" B3/2 G/- G2- |"A7" G A"A7b9" ^c d |"Dm6""Dm6" d4- | d4- | %37
+w: heart. To- night or|ev- er _|_ be- gin to|night.|_|
+w: |||||
+ d4- | d2- d z |] %39
+w: ||
+w: ||
+

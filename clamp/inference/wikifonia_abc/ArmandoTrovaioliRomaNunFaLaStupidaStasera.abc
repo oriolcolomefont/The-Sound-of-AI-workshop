@@ -1,0 +1,28 @@
+X:1
+T:Roma Nun Fa La Stupida Stasera
+T:Roma Nun Fa La Stupida Stasera 2
+C:Armando Trovaioli
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" (3:2:2C2 C CC/C/"F+" ^C2"Bbm" AA/G/ |"F" G2- G<F- F4 | %2
+w: Ro ma nun fa la stu- pi- da sta-|se- * ra _|
+"F9" GG G/G/F"E7" E3/2 (3F/4E/4D/4- D/F/ (3:2:2DD/- |"Gm" D4"D7" z4 | %4
+w: dam- me 'na ma- no a fa- * je _ di' de si'|_|
+"Bb6" FF F/F/E/F/"Gm6" E3- E/4F/4G/ |"Dm7" AA/A/AG A<"Gm7b5"G-GG- | %6
+w: Sce- ji tut- te le stel- le _ _ _|più bri- la- rel- le che poi _ e͜~un|
+ Gc"Bb9" B/B/ (3:2:2AA/ A>"C7"G (G/- (3G/4A/4)F/4 G |"F" A2"Bb" (3ABA"C7" (3GAG (3FED | %8
+w: _ fri- ci- ci- co de lu- na tu- * * ta per|noi. * * * * * * * * *|
+"F" (3:2:2C2 C CC/C/"F+" ^C2"Bbm" AA/G/ |"F" G2- G<F- F4 |"F7" F>F F/G/G/G/ A2 (3ABc |"Bb" d6 z2 | %12
+w: Fa- je sen- ti ch~'e qua- si pri- ma-|ve- * ra _|Ma- no li me- jo gril- li pe' fa cri|cri|
+"Gm" c (3:2:2Bc/- c/4(B/8c/8)B/F"A7" AG-G>"Bbm7"B- | BA/B/- (3B/4"A7"(A/4B/4 A/)G/A/"Dm/A" G F3 | %14
+w: Pres- ta- me _ er _ po- ten- ti- no _ più|_ mal- an- * dri- * * no che ci- ai|
+"Gm" DD"Gm#5"^DD/D/"C7/G" E2 FG |"F9" (3GAF-"F" F4 z2 |] %16
+w: Ro- ma reg- ge- me͜~er moc- co- lo|sta- se- ra *|
+

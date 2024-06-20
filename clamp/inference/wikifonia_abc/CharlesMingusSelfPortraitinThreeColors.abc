@@ -1,0 +1,21 @@
+X:1
+T:Self-Portrait in Three Colors
+T:Self-Portait in Three Colors
+T:Charles Mingus
+T:1959 Columbia Records
+C:Charles Mingus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Ebmaj7/Bb""^Piano Intro" z8 |"Ebmaj7""E/B""D/B" z8 |:"Bbm7" C=A, (3B,C_D"Eb7" F=DEA- | %3
+"Abm7""Db7" A7 _G/A/ |"Gbmaj7""Bmaj7" F7 E/F/ |"Cm7" D^F, (3G,B,C _D"F+7" =A,3 | %6
+"Eb7" FD (3EF_G"Ab7sus4" _d4- |[M:2/4]"Emaj7" _d_c BA | %8
+[M:4/4]"Ebmaj7" (3:2:4GA/=A/B .B2"A7" B2 c2 |"Emaj7" A8 | %10
+"Ebmaj7" (3:2:4GA/=A/B .B2"Gm7" B>c ^c<d- |"C7" =AB/=B/ c2 D2 E2 |"Fm7" G8- |"Bb7" G8 | %14
+ G"Fm7"C (3DEF ^F=B,"Bb+7" (3^CDc |"Ebmaj7""Dbmaj7" B8- |1"Cm7""Bmaj7" B8 :|2 %17
+"Ebmaj7""^(Last Time)" B8 |] %18
+

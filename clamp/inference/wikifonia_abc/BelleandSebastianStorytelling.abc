@@ -1,0 +1,60 @@
+X:1
+T:Storytelling
+C:Belle and Sebastian
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c2 c2"Em" B2 B2 |"F" AcA"G" G2 G2 G |"C" c2 c2"Em" B2 B2 |"F" AcA"G" G2 G2 G |"C" C2 CC EGAG- | %5
+w: ||||Pic- ture a scene in your mind-|
+w: |||||
+w: |||||
+"Em" G3 z GGAB |"F" c B2 A2 A2 d- |"D" d2 AA ABcB- |"G" B7 z |"F" c B2 A2 G2 F- | F z z EF G3 | %11
+w: _ look at all the|peop- le and take note|* of the set- ting be- hind.||Lis- ten, watch and wait:|* a plot be-|
+w: ||||||
+w: ||||||
+"G6" E4 D E2 C- |"C" C z CC EGAG- |"Em" G3 z GGAB |"F" c2 B A2 z z A |"D" d2 AA B c2 B- | %16
+w: gins to take shape.|* There's a sto- ry and then|* cha- rac- ters will|come to you re-|la- ting e- vents as they|
+w: |||||
+w: |||||
+"G" B A2 G2 z2 G |"F" c2 B2 A2 GF- | F E3 F G2 E- |"G6" E4 D E2 C- |"C" C3 z4 z | z2 EE FFGG | %22
+w: * choose to, but|all their words and ac|* tions come en- tire-|_ ly from you.|||
+w: ||||||
+w: ||||||
+"F" A2 z2 F E2 D- |"G" D z z2 z GAB |:S"C" c2 G2 GFEG- |"Em" G F2 E3 DC- |"F" C z z2 z CDC | %27
+w: |* If you're a|sto- ry tel- ler you might|* think you're with- out|* re- spon- si|
+w: ||sto ry tel- ler you might|* think you're with- out|* re- spons- si-|
+w: ||sto- ry- tel- ler, you're not|* tryin' to es- cape|* re- spon- si-|
+"Ab" G F2 C2 GAB |"C" c2 G2 GF E2 |"Em" G F2 E2 D2 C- |"F" C z z2 z CDC | %31
+w: bi- li- ty, and you can|lead your cha- rac- ters|a- ny- where you want,|* you have im-|
+w: bi- li- ty, but in di-|rec- tions ac- tions and|words, cause and ef- fect|* you need con-|
+w: bi- li- ty, if we be-|lieve you then you're suc-|cess- ful, but you don't|* make claims to|
+"Ab" G F2 C2 z2 z"^To Coda" |]"C" E2 E G4 z |"F" A c2 B2 A2 z |"C" E2 E G2 z z2 |"F" A c2 B2 A2 G | %36
+w: mu- ni- ty.-|_ _ _||||
+w: sis- ten- cy.-|_ _ _||||
+w: ve- ri- ty.|||||
+"C" C2 CC EGAG- |"Em" G3 z GGAB |"F" c2 B A2 A2 d- |"D" d z AA ABcB- |"G" B z z AG G2 c- | %41
+w: Have you con- si- dered the way|* peop- le might re-|act to all the things|* that your cha- rac- ters say|* and are their ac-|
+w: How can you fi- nish your tale?|* lives- _ which have|played a part are sum-|_ _ ma- rized from the ve-|_ ry start and e-|
+w: |||||
+"F" c B2 A2 G2 F- | F z z EF G2 z |"G6" E4 D E2 C- |"C" C z CC EGAG- |"Em" G2 z2 z2 z G | %46
+w: _ tions hand in hand|* with what they|want to por- tray/|sick are you crip- pled in- sane|* re|
+w: _ pi- sodes left out|* to make it|all go your way.|* It's a migh- ty big world||
+w: |||||
+"F" A B2 z c A2 z |"D" d3 AABcB- |1"G" B7 z |"F" c4 A G2 F- | F4 F E2 D- |"G" D4 z4 | z4 z GAB :|2 %53
+w: flec ting the de-|sires that daren't speak their name||are you the one|* to be blamed?||Now you're a-|
+w: some of it I've|seen, but most- ly I've on-|_|||||
+w: |||||||
+"G" B2 A G4 G |"F" c2 B2 A G2 F- || F E2 z F G2 z |"G" E4 D E2 C- |"C" C z EE FFGG | A4 F E2 D- | %59
+w: _ ly heard, and|sto- ries are all fic-|_ tion from their|mo- ments of birth.|||
+w: ||||||
+w: ||||||
+ D4 z GA"^D.S."B |]O"C" z8 |"F" z8 |"C" z8 |"F" z8 |"C" z8 |] %65
+w: * You're just a||||||
+w: ||||||
+w: ||||||
+

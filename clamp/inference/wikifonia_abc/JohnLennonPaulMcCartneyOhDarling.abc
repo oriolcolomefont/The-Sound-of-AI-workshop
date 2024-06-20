@@ -1,0 +1,40 @@
+X:1
+T:Oh! Darling
+T:Oh! Darling
+T:John Lennon, Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:12/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+"^Slowly" A2- c |"C" A2 G- G3- G3 A2 c |"G" A2 G- G3- G6 |"Am" A3 A2 G A2 G z2 E | %4
+w: 1.~Oh *|Dar- ling- * * please be-|lieve me, _ _|I'll nev- er do you no|
+w: * (2.)|Dar- ling _ _ if you|leave me, _ _|I'll nev– er make it a-|
+"F" D- C2- C3 z2 z z2 A z4 |"Dm" A2 A A2 G"G" A2 G- G3 z2 |"Dm" A3 A2 G"G" A2 G z2 _E | %7
+w: harm. _ _ Be-|lieve me when l tell you, _|I'll nev–er _ do you no|
+w: lone. _ _ Be–|lieve mc when l beg you, _|Don't ev–er _ leave me a-|
+"C" D- C2- C3-"F" C6 |1"C" z3 z3"G" z3 A2- c :|2"C" z3 z3"C7" z3 z _ee |:"F" d2 c z3 z3 _eec | %11
+w: harm.- * * *|Oh!- *||told me you did- n't|
+w: lone. _ _ _||When you|_ _|
+"Ab" _e2 e cdc- ^c3 z2 =c/_B/ |"C" c3 ccc c2 c- c2 c | _E2- C- C3 z3 z =ee |"D7" e2 d- d3 z3 ddd | %15
+w: need me an- y- more, _ Well, you|know I near- ly broke down _ and|cried. _ _ When you|told me _ you did- n't|
+w: ||||
+ d2 d ddd- d3 z2 d/d/ |"G" d2 d d2"Abb5" d d2 d- d2 d |"G" (d3 B3 G3) A2- c | %18
+w: need me an- y more, _ Well, you|know I near- ly broke down _ and|died. _ _ 1.~Oh! _|
+w: ||* * * 2.~Oh! _|
+"C" A2 G- G3- G3 A2 E |"G" A2 G- G3- G6 |"Am" A3 A2 G A2 G z2 _E |"F" D C2- C3 z3 z2 A | %22
+w: Dar- ling- * * if you|leave me, _ _|I'll nev- er make it a-|lone- * * Be–|
+w: Dar- ling, _ _ please be-|lieve me, _ _|I'll nev- er let _ you|down. _ _ Be-|
+"Dm" A2 A A2 G"G" A2 G- G3 |"Dm" A3 A2 G"G" A2 G z2 _E |"C" D C2- C3-"F" C6 |1 %25
+w: lieve me when l tell you, _|I'll nev- er do you no|harm.- * * *|
+w: lieve me when I tell you _|I'll nev- er do you no|harm. _ _ _|
+"C" z3 z3"C7" z3 z _ee :|2"C" z3"Db7" [_CF]2 [_B,E]-"C7" !fermata![=B,E]6 |] %27
+w: * you||
+w: ||
+

@@ -1,0 +1,36 @@
+X:1
+T:I Wish You Love
+T:I Wish You Love
+C:Charles Trenet
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z B, |"Ebm" B4- | B _c/B/ A/_G/F/G/ |"Fm7b5" A4 |"Bb7" z B/A/ _G/F/E/F/ |"Ebm" _G4 | %6
+w: Good-|bye,|_ no use lead- ing with our|chins,|This is where our sto- ry|ends,|
+ z A/_G/"B7b5" F/E/D/E/ |"Fm7b5" F4- |"Bb7" F2 z B, |"Ebm" B4- | %10
+w: nev- er lov- ers, ev- er|friends.|_ Good-|bye,|
+"Ebm7" B _d/B/"Ab" A/_G/"Cdim"F/G/ |"Db" A4 | z _c/A/"Abm" _G/F/E/F/ |"Eb" =G4 | %14
+w: _ let our hearts call it a|day,|But be- fore you walk a-|way,|
+"Ebm" z B/_G/"B7b5" F/E/D/E/ |"Fm7b5" B4- |"Bb7" B z"Edim" (3G A B |:"Fm7" G F-"Bb7" (3F G F | %18
+w: I sin- cere- ly want to|say.|_ I wish you|blue- birds * in the|
+"Fm7" G2"Bb" (3F F B |"Ebmaj7" F2"Eb6" (3E F E |"Ebmaj7" F2"Eb6" (3E E A |"Fm7" E2"Fm/Bb" (3C E C | %22
+w: spring to give your|heart a song to|sing; and then a|kiss, but more than|
+"Bb7" D2 (3G F D |"Eb6" C4 |"Edim7" C z (3G A B |"Fm7" G F-"Bb7" (3F G F |"Fm7" G2"Bb7" (3F F B | %27
+w: this I wish you|love.|_ And in July|ly a * lem- on-|aide to cool you|
+"Ebmaj7" F2"Eb6" (3E F E |"Ebmaj7" F2"Eb6" (3E E A |"Fm7" E2 (3C E C |"Bb7" D2 (3G F G | %31
+w: in some leaf- y|glade; I wish you|health and more than|wealth I wish you|
+"Eb7""Ebdim7" F4- |"Eb7" F z (3E F A |"Ab" c2 (3c c c |"Abm6" =B2 (3E F G | %35
+w: love.|_ My break- ing|heart and I a-|gree that you nand|
+"Eb/G" B2"Bbm6" (3B B B |"C7" B2 (3C _D C |"Fm7" A2 (3A A A |"F9" G2 (3c c =B |"Bb7""Ebm7" B4- | %40
+w: I could nev- er|be so with my|best, my ver y|best, I set you|free.|
+"Bb7" B z"Edim7" (3G A B |"Fm7" G F-"Bb7" (3F G F |"Fm7" G2"Bb7" (3F F B | %43
+w: _ I wish you|shel- ter * from a|storm, a coz- y|
+"Ebmaj7" F2"Eb6" (3E F E |"Ebmaj7" F2"Eb6" (3E E A |"Fm7" E2 (3C E C |1"Bb7" D2"E7" (3G G G || %47
+w: fire to keep you|warm, But most of|all, when snow- flakes|fall, I Wish You|
+"Eb6" E4- |"Edim" E z (3G A B :|2"Bb9" c2"Bb7" (3D D D ||"Eb""Abm" E4- |"Eb" E2 z2 |] %52
+w: Love.|_ I wish you|fall I wish you|love.|_|
+

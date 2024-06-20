@@ -1,0 +1,34 @@
+X:1
+T:You're Gonna hear From Me
+T:You're Gonna Hear From Me
+T:Andre Previn
+T:Dory Previn
+C:André Previn
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" EE"C+" C2"Am" E E2 C |"G7" E2 G,2 G,3 G, |"Cmaj7" E E2 C"C7" E2 C2 |"F" F8 | %4
+w: Ev'- ry one tells me to|know my place. But|that ain't the way I|play.|
+"F" (3G2 G2 C2"Fm" G G2 c |"C" G2 C2"Am" C3 C |"Dm" F2"C" E2"F6" C C2"D9" A, | %7
+w: Why am I dar- ing to|show my face? 'Cause|I've got some- thing to|
+"G7" F4 z2"G7b9" (3EFE |:"C" F4- FE (3FEC |"Dm7" G,4-"G7" G,E (3EFE |"Gm7" A4- A"C7b9"G (3AGE | %11
+w: say! Move o- ver|sun * and give me some|sky. * I've got me some|wings * I'm ea- ger to|
+"F" C4-"Ab" CC"Bb9" (3CDC |"C" E4- EB, (3CEG |"A7b9" _B8 |1"Am7" (3=B2 B2 A2"D7b9" B2 AD- | %15
+w: try. * I may be un-|known, * but wait till I've|flown.|You're gon- na hear from me!|
+"Dm7" D4 z2"G7b9" (3EFE :|2"Am7" (3=B2 B2 A2"D7" d2 B"G7"G- |"C7b9" G8 ||"F" z2 A4 C2 |"Fm" C8 | %20
+w: * Make me some|You're gon- na hear from me.||For- tune|smiled|
+"C" z2 B,C E2 G2 |"B6" ^G2"C6" A4"Bbm7" _B2 |"Am7" =B6 D2 |"D7" D8 | z2"G7sus4" A,B, C3 A, | %25
+w: on the road be-|fore me. I'm|for- tune's|child.|Lis- ten world you|
+ D2"Dm7" E2 F2"G+7" G2 |"Eb" (3G2 _A2 G2 _A3 G |"Fm7" (3_A2 G2 _E2"Bb7" _B,2 (3G_AG | %28
+w: can't ig- nore me.|I've got a song that|longs to be played. Raise up my|
+"^Bbm7" c4- c_B"Eb7b9" (3c_BG |"Ab" _E4 z _E (3_EF_E |"C" G G3- GB, (3CEG |"A7b9" _B B3- B4 | %32
+w: flag * be- gin my pa-|rade. Then watch the world|o- ver * start com- ing up|clover. * *|
+"D7" (3A2 =B2 A2"G7" C2 D"Cmaj7"E- | E2 G"A9"B- B4 |"D9" (3d2 _d2 c2"G7" C2 D2 |"C" C8- |"Ab" C8- | %37
+w: That's how it's gon- na be,|* you'll see. *|You're gon- na hear from|me.||
+"C" C4 z4 |] %38
+w: |
+

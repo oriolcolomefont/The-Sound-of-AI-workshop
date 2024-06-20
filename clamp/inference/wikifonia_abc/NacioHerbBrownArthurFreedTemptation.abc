@@ -1,0 +1,28 @@
+X:1
+T:Temptation
+T:Temptation
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C" C2 C2- | C2"Db" (3_D F _A |"C" G4- | G2"Db" (3_D F _A |"C" G4 |"Db" F2- (3F _E _D | %6
+w: You came,|* I was a-|lone,|* I should have|known|You * were tem-|
+"C" =E2 E2- | E4 |"C" C2 C2- | C2"Db" (3_D F _A |"C" G4- | G2"Db" (3_D F _A |"C" G4 | %13
+w: ta- tion.||You smiled,|* Lur- ing me|on|* My heart was|gone.|
+"Db" F2- (3F _E _D |"C" C2 C2- | C z (3C E G |"Bbm" _B2 B2- | _B2 (3_B B B |"D7" A2 A2- | %19
+w: You * were tem-|ta- tion.|* It would be|thril- ling|* If you were|will- ing|
+"D7" A2 (3A A A |"Db7" _A2"C7" G2 |"B7" ^F4 |"Bb7" =F2"A7" E2 |"G+" _E3"G7" D |"C" C2 C2- | %25
+w: * If it can|nev- er|be|pit- y|me. For|you were|
+ C2"Db" (3_D F _A |"C" G4- | G2"Db" (3_D F _A |"C" G4 |"Db" _A2- (3A G F |"Bbm" _B2- (3B _A G | %31
+w: * Born to be|kissed|* I can't re-|sist,|You * are temp-|ta- * tion and|
+"C7" c3 c |"F" c4- | c2"Bbm" (3_d c _B |"F" c4- | c2"Bb" (3=d c _B |"F" c4 |"Gb" _B2- (3B _A _G | %38
+w: I am|yours.|* Here is my|heart,|* Take it and|say|We'll * nev- er|
+"F" =A4 |"Db" _A2- (3A G F |"C" G4 |"Db" F2- (3F _E _D |"C" =E4- | E2"Db" _D2 |"C" C4- | %45
+w: part|I'm * just a|slave,|On- * ly a|slave|* to|you|
+ C2"Fm" D2 |1"Cm6" G2 G2- || G2"G7" z2 :|2"Cm6" G2 G2- || G2 z2 |] %50
+w: * Temp-|ta- tion.||ta- tion.-||
+

@@ -1,0 +1,23 @@
+X:1
+T:Szájbergyerek
+T:Szájbergyerek 
+T:Kistehén tánczenekar
+C:Kistehén tánczenekar
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 12
+%%MIDI program 66
+V:1
+|:"Cm" CCzE z EEE |"G" D2 DD z2 z D |"G" DDzD FFFF |"Cm" E2 EE z4 |"Cm" GGGG B2 B2 | %5
+w: Van egy kék tó _ a|fák a- latt, ha|be- le szem le- hû- ti a|lá- ba- mat,|száj- ber- gye- rek kér- jél|
+"Fm" A G2 A F2 z2 |"Cm" EEEE G2 G2 |"G" G^FzG D4 :|"Cm" C2 CE- EEzE |"G" D2 DD z2 z G, | %10
+w: bo- csá- nat- ot,|mert nem mut- atom meg a|ka- csá- mat ott.|||
+"G" DDDD F2 FF |"Cm" E2 EE E2 z2 |"Cm" G2 G2 B2 B2 |"Fm" AGzA F2 z F |"Cm" EEEE G2 G2 | %15
+w: |||||
+"G" G ^F2 G FG=A=B |"Cm" c4 z4 |] %17
+w: ||
+

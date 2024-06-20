@@ -1,0 +1,82 @@
+X:1
+T:Honesty
+T:Billy Joel
+T:JBB  Mars  2012
+C:Billy Joel
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=60
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Bb" F,2 B,2"Bbm/Ab" [_A,_D]2 F2 |"Gbmaj7" [B,_DF]2 _G,_G"F7" [A,E]=G,F,=D |: %2
+w: ||
+w: ||
+w: ||
+"Bb" z B/B/ BA/A/"Eb" AG/G/- G2 |"F" z/ A/A/B/"F/Eb" A>G"Dm7" G<F z2 | %4
+w: If you search _ for ten- der- ness _|it isn't hard _ to find. _|
+w: I can al- * ways find some- one _|to say _ they sym- pa- thize.|
+w: When I'm _ deep in- side of me _|don't be too _ con- cerned. _|
+"Eb" z G/G/ GF/F/-"Gm" FF DB,/C/- |"Am" C4"Cm7" [B,EG]2"F7" [A,CF][A,CEF] | %6
+w: You can have the love _ you need to live.|_ _ _ _|
+w: If I wear my _ heart out on my sleeve.|_ _ _ _|
+w: I won't ask for noth- * in' while I'm gone.|_ _ _ _|
+"Bb" z/ B,/B/B/ B>A"Csus4" AG/G/"C" z/ F/G |"F" AB/A/-"A" AG/(G/"Dm" F2) F,/A,/D/F/ | %8
+w: & if you look for truth- ful- ness You might|just as well _ be blind. _ _ _ _ It|
+w: But I don't want some pret- ty face * to|tell _ me _ pret- ty lies. * * * *|
+w: But when I want sin- cer- i- ty tell me|where else _ can I turn? * * * * Cause|
+"Eb" G<G AB/A/-"A7" A^c/d/- d=e/d/- |"Dsus4" d8 ||"Ebmaj7" d3 c/e/-"F7" e2 z3/2 d/ | %11
+w: al- ways seems to be _ so hard _ to give.|_|Hon- es- ty _ is|
+w: All I want is some- * one to _ be- lieve.|_||
+w: you're the one that I _ de- pend _ up- on.|_||
+"D/F#" a^f/d/- dc/(c/"Gm7" B2)"F" z2 |"Eb" gecB"F" A2 GG- |"Bb" G F3"D" x4 | %14
+w: such a lone- * ly word. _|Ev- 'ry- one is so un- true.|_ _|
+w: |||
+w: |||
+"Ebmaj7" d3 c/e/-"F7" e2 z3/2 d/ |"D/F#" a^f/d/- dc/c/-"Gm7" c B2"F" z/ d/ | %16
+w: Hon- es- ty _ is|har- dly ev- * er heard. _ _ But|
+w: ||
+w: ||
+"Eb" gecB"F" A2 c"Cm/Bb"c- ||1 c"Bb" B3- B2"^Fsus9" [G,B,EF]2 :|2 c"Bb" B3"Bbm/Ab" [B,_D]2 F2 || %19
+w: most- ly what I need from you.|||
+w: |||
+w: |||
+"Gbmaj7" [B,_DF]_G,B,_G"F7" [A,E]=G,F,=D ||"Gm" z d/d/ dd/e/- e d3 |"D/G" z d/d/ dd/d/- d2 z2 | %22
+w: |I can find a lov- * er.|I can find a friend. _|
+w: |||
+w: |||
+"Fm6" z d/d/ d>d e/d/d- dg |"C7/E" d>c c/c/(c/B/ G2) z2 |"Eb" z c/c/ cc"F" dc/c/-"F7" cc | %25
+w: I can have se- cur- i- ty _ un-|til the bit- ter end. _ _|An- y- one can com- fort me _ with|
+w: |||
+w: |||
+"Eb/Bb" cB/B/- BB/B/-"Bb" B2 AG- |"C7sus4" G4"C7" z3 F |"F" (d3 e"D/F#" d2 cB- | %28
+w: prom- i- ses _ a- gain. _ I know,|_ I|know. _ _ _ _|
+w: |||
+w: |||
+"Eb" B6)"^Fsus9" [G,B,EF]2"_D.S. al Coda" || c"Bb" B3"Bbm/Ab" [_A,_D]2 FB, | %30
+w: _ _||
+w: ||
+w: ||
+"Gbmaj7" [B,_DF]2 _G,_G"F7" [A,E]=G,F,=D |"Ebmaj"!8vb(! [_G,B,D]G,B,E"F6" [F,A,D]2"F7" [F,A,C]E, | %32
+w: ||
+w: ||
+w: ||
+"Bb" B,D,F,B, [B,D]4!8vb)! |] %33
+w: |
+w: |
+w: |
+V:2
+ x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | [DG]2 [DG]2"D" [A,D^F]2 [A,DG][A,DF] || x8 | x8 | %12
+ x8 | [B,D]2 F,/B,/C/D/ z [A,D^F][A,DG][A,DA] | x8 | x8 | x8 ||1 x8 :|2 x8 || x8 || x8 | x8 | x8 | %23
+ x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 |!8vb(! x8 | x8!8vb)! |] %33
+

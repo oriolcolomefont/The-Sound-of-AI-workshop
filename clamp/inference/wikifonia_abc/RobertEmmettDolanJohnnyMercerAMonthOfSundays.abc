@@ -1,0 +1,27 @@
+X:1
+T:A Month Of Sundays
+T:A Month Of Sundays
+C:Robert Emmett Dolan
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+"_Moderately" D |:[M:4/4]"G" D3 D |"G#dim7" D E2 E |"Am7" E3 E |"Bbdim7" E F2 F |"G" F3 F | %6
+w: I'm|glad I|wait- ed A|Month Of|Sun- days to|find some-|
+"Em7" F G2 E |"Am7" d4- |"D7" d3 d |"G" d3 d |"G#dim7" d B2 c |"Am7" d E G c | A2-"D#dim7" A B | %13
+w: bod- y like|you.|_ I've|seen more|day- breaks turn|in- to lone- ly|nights, _ Those|
+"Em" B3 B |"A7" B G2 A |"Am7" B C E A |"D7" F3 D |"G" D3"G#dim7" D | D E2 E |"Am7" E3 E | %20
+w: signs of|Broad- way should|have that man- y|lights. Have|you tried|wait- ing A|Month Of|
+"Bbdim7" E F2 F |"G" F3 F |"Em7" F G2 E |"Dm7" d4- |"G7" d3 d |"Cmaj7" d3 d |"Cm" d B2 c | %27
+w: Sun- days for|just one|dream to come|true?|_ I'll|have to|own up, That|
+"G" d B A G |"Bbdim" F ^D2 E |"Am7" d E G c | A2"B7" B2 |"Em" G4- |"A9" G3 G | %33
+w: if you had- n't|shown up, There'd|on- ly be one|thing to|do,|_ I'd|
+"G" G G/G/"G+" G/G/G/G/ |"Am7" G B-"D7b9" B A |1"G" G4- |"Am7" G2"D7" z D :|2"G" G4- | %38
+w: wait for a mil- lion months of|Sun- days _ for|you.|_ I'm|you.|
+ !fermata!G3 z |] %39
+w: |
+

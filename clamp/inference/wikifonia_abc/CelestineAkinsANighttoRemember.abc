@@ -1,0 +1,32 @@
+X:1
+T:A Night to Remember
+T:A Night to Remember
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/4
+Q:1/4=115
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|: C A"C" G2- |"C" G2"C" G, G |"F" F3 E |"Dm" D E F"C" G- |"C" G2 z"C" G, |"Dm" D3 E | %6
+w: To oo night|_ is a|night to|re me m ber|_ The|night when|
+"Dm" D"F" C3 |"Dm" D2"C" E2- |"C" E z"C" C A |"C" G3"C" G, | G"F" F3 |"C" E D E F |"C" G3 z | %13
+w: we fell|in love|_ To oo|night is|a night|to re me m|ber|
+"C" G,"Dm" D3 |"Dm" E D"F" C2- |"F" C D2"C" C- |"C" C3 z |"C" C"C" D C"Dm" A- | %18
+w: The night|I've been dream|_ ing of|_|The an gels cried|
+"Dm" A2- A/"Dm" A"Dm" c/- |"Dm" c/"Dm" =B3 z/ |"Dm" A ^E =E ^E |"C" G3- G/ z/ | z"C" G, A, G, | %23
+w: _ _ when _|you sighed|I'll be le eav|ing _|The world stood|
+"Dm" F3 z |"Dm" F A"C" G2- |"C" G"C" F E D |"C" E3 z |"C" C D C"Dm" A- |"Dm" A2 A c | %29
+w: still|* the thrill|_ of our first|_|And now we stand|_ hand in|
+"F" =B3"Dm" A | F"C" E ^E G- |"C" G2 z"C" G |"C" E"C" C D"C" E |"F" F2 z"Dm" D | %34
+w: hand in|your do or way|_ and|pledge our hear r|arts to|
+"Dm" C =B, C"Dm" D- |"Dm" D2"F" E2 |"C" C4 :| %37
+w: re me e em|_ ber|_|
+

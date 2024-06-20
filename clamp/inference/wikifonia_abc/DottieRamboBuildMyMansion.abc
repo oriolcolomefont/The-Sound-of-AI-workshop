@@ -1,0 +1,35 @@
+X:1
+T:Build My Mansion
+T:Build My Mansion
+T:Dottie Rambo & Barbett Music
+T:(Next Door to Jesus)
+C:Dottie Rambo
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z4 |[Q:1/4=85] z C E F |"C" G2 E2 | z C"F" F A |"C" G2 E2 | %10
+w: ||||||I have no|cas tles|no earth ly|king dom|
+ z C/C/ C/D/ E |"G" G4 | z G"G7" (3A G F |"C" G4 | z E"G7/D" F"C7/E" G |"F" A2 F2 | z c/c/ c A | %17
+w: but my cab in will|do|till I _ get|home|my man sion's|yon der|on the hills of|
+"C" G2 E2 | z G/G/ B A |"G7" G2 D2- | D F (3F E D |"C" C4- | C z"G7/D" F"C7/E" G |"F" A2 F2 | %24
+w: glo ry|oh I hope my|man sion|_ sits near _ God's|throne|_ build my|man sion|
+ z c c A |"C" G2 E2 | z G B A |"G7" G2 D2- | D G (3A G F |"C" G4 | z E"G7/D" F"C7/E" G |"F" A2 F2 | %32
+w: next door to|Je sus|and tell the|an gels|_ I'm com _ ing|home|It does not|mat ter|
+ z c c3/2 A/ |"C" G2 E2 | z G B A |"G7" G2 D2- | D F E D |"C" C4- | C C E"G7" F |"C" G2 E2 | %40
+w: who lives a|round me|just so my|man sion|_ sits near the|Throne|_ My moth er's|man sion|
+ z C"F" F A |"C" G2 E2 | z C/C/ C/D/ E |"G" G4 | z G"G7" (3A G F |"C" G4 | z E"G7/D" F"C7/E" G | %47
+w: may be close|by me|a _ cross _ the|gold|en av _ e|nue|she was the|
+"F" A2 F2 | z c/c/ c A |"C" G2 E2 | z G/G/ B A |"G7" G2 D2- | D F (3F E D |"C" C4- | %54
+w: first one|to teach me of|hea ven|and the ver y|first one|Lord to tell me 'bout|you|
+ C z"G7/D" F"C7/E" G |"F" A2 F2 | z c c A |"C" G2 E2 | z G B A |"G7" G2 D2- | D G (3A G F |"C" G4 | %62
+w: _ build my|man sion|next door to|Je sus|and tell the|an gels|_ I'm com _ ing|home|
+ z E"G7/D" F"C7/E" G |"F" A2 F2 | z c c3/2 A/ |"C" G2 E2 | z G B A |"G7" G2 D2- | D F E D | %69
+w: It does not|mat ter|who lives a|round me|just so my|man sion|_ sits near the|
+"C" C4- | C2 z2 | z4 | z4 | z4 | z4 |] %75
+w: Throne|_|||||
+

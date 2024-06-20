@@ -1,0 +1,52 @@
+X:1
+T:Hello Mary Lou (Transcribed)
+C:Gene Pitney
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Sax" snm="Sax"
+%%MIDI channel 2
+%%MIDI program 66
+V:1
+"G " z d/d/ z/ e/ d | z d/d/ z/ e/ d | z d/d/ z/ e/ d |"D7" z d/d/ z B, |"G " D z D E/D/- | %5
+w: |||* * Hel-|lo Ma- ry lou,|
+ D z z2 |"C " z2 G/ A G/- | G z2 G |"G " B B/B/- B B |"Emin" B B/ B"D " A/ G/A/- |"D7" A z z2 | %11
+w: |good- bye heart.|* Sweet|Ma- ry lou * I'm|so in lo- ve with you.||
+ z2 z B, |"G " D z D E/D/- | D z z2 |"B7" z B B A/G/- |"Emin" G z G A/B/- |"A7" B z B B/A/- | %17
+w: I|knew Ma- ry lou||we'd ne- ver part.|* So hel- lo|* Ma- ry lou,|
+"D7" A z B/A/- A |"G " G z z2 |"D7" z2 z B, |"G " D D D D | E G/D/- D z |"C " E G G G | A A G G | %24
+w: * good- bye *|heart.|You|passed me by one|sun- ny day, *|flashed those big brown|eyes my way and|
+"G " B B B B/B/- |"Emin" B B/ B"D " A/ G/A/- |"D7" A z z2 | z2 z B, |"G " D D D D | E G/D/- D z | %30
+w: ooh I wan- ted you|* for- e\- v\- er more.||Now|I'm not one that|gets a\- round, *|
+"C " E G G G | _B A/G/- G G |"G " B B B B/A/- |"D7" A A B A/G/- |"G " G z z2 | z B, C _D | %36
+w: swear my feet stuck|to the ground * and|though I ne- ver did|* meet you be- fore.||I said hel-|
+"G " D z D E/D/- | D z z2 |"C " z2 G/ A G/- | G z2 G |"G " B B/B/- B B | %41
+w: lo Ma- ry lou,||good- bye heart.|* Sweet|Ma- ry lou * I'm|
+"Emin" B B/ B"D " A/ G/A/- |"D7" A z z2 | z2 z B, |"G " D z D E/D/- | D z z2 |"B7" z B B A/G/- | %47
+w: so in lo- ve with you.||I|knew Ma- ry lou,||we'd ne- ver part|
+"Emin" G z G A/B/- |"A7" B z B B/A/- |"D7" A z B/A/- A |"G " G z z2 |"D7" z F G A | %52
+w: * so hel- lo|* Ma- ry lou,|* good- bye *|heart.||
+"G " z g/ d g/ d | =f/ e d B/ G |"C " z e/ d _B/ G | e/ d _B/ A/ G3/2 |"G " z g/ d g/ d | %57
+w: |||||
+ g z/ =f/ e/_B/ G |"D7" z D/ C D3/2 | D/ C D C3/2 |"G " z d/ =f B/ G/d/ | d/e/ G/ B d/ G | %62
+w: |||||
+"B7" B B A/ G E/- |"Emin" E3/2 E G E/ |"A7" d g (3:2:2d _B/- B/B/- |"D7" B/ =B B/ A/G/ E | %66
+w: ||||
+"G " G3/2 c d/ _B |"D7" G D2 B, |"G " D D D D | E G/D/- D z/ D/ |"C " E G G G | A A G G | %72
+w: |* * I|saw your lips. I|heard your voice. * Be-|lieve me I just|had no choice. Wild|
+"G " B B B B/B/- |"Emin" B B/ B"D " A/ G/A/- |"D7" A z z2 | z2 z B, |"G " D D D D | E G/D/- D z | %78
+w: hor- ses coul- dn't make|* me st- ay a\- way.||I|thought a\- bout a|moon lit night, *|
+"C " E G G A | _B A/G/- G G |"G " B B B B/A/- |"D7" A A B A/G/- |"G " G z z2 |"D7" z B, C _D | %84
+w: arms a\- round you|good and tight. * That's|all I had to see|* for me to say...||Hey, hey, hel-|
+"G " D z D E/D/- | D z z2 |"C " z2 G/ A G/- | G z2 G |"G " B B/B/- B B | %89
+w: lo ma- ry lou,||good- bye heart.|* Sweet|Ma- ry lou * I'm|
+"Emin" B B/ B"D " A/ G/A/- |"D7" A z z2 | z2 z B, |"G " D z D E/D/- | D z z2 |"B7" z B B A/G/- | %95
+w: so in lo- ve with you.||I|knew Ma- ry lou,||we'd ne- ver part.|
+"Emin" G z G A/B/- |"A7" B z B B/A/- |"D7" A z B/A/- A |"G " G z z2 | z2 G A/B/- | %100
+w: * So hel- lo|* Ma- ry lou,|* good- bye *|heart.|So hel- lo|
+"A7" B z B B/A/- |"D7" A z B/A/- A |"G " G z z2 | z2 G A |"A7" B z B B/A/- |"D7" A z B/A/- A | %106
+w: * Ma- ry lou,|* good- bye *|heart.|Yes hel-|lo Ma- ry lou,|* good- bye *|
+"G " G4 | G D G2 |] %108
+w: heart.||
+

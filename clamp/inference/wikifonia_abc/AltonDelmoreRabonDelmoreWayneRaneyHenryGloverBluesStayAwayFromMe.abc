@@ -1,0 +1,24 @@
+X:1
+T:Blues Stay Away From Me
+T:Blues Stay Away From Me
+C:Alton Delmore, Rabon Delmore
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"F" A8- | AFG>F"C7" _A2 GF- |"F" F8- |"Cm7" F6"F7" z2 |"Bb" B8- | B>FG>F _A2"C7" GF- |"F" F8- | %7
+w: Blues|_ _ stay a- way from me.|_||Blues,|_ why don't you let me be?|_|
+w: Life|_ is full of mi- ser- y.|_||Dreams|_ are like a mem- o- ry,|_|
+ F2 z2"Dm" A2"F/C" A2 |"C7" G8- | G>FG>F _A2 GF- |"F" F8- |"Cm7" F6"F7" z2 |"F" A8- | %13
+w: * Don't know|why|_ you keep on haunt- ing me|_||Love|
+w: * Bring- ing|back|_ your love that used to be.|_||Tears|
+ A>FG>F"C7" _A>(AG)F- |"F" F8- |"Cm7" F6"F7" z2 |"Bb" BB B6- | B>FG>F _A>(A"C7"G)F- |"F" F8- | %19
+w: _ was nev- er meant for _ me,|_||True love _|_ was nev- er meant for _ me.|_|
+w: _ so ma- ny I can't _ see.|_||Years _ _|_ don't mean a thing to _ me.|_|
+ F2 z2"Dm" (A>F)"F/C"AG- |"C7" G8- | G>FG>F _A>(AG)F- |1"F""Gm7""Gm7/C" F8 :|2"F" F8 |] %24
+w: * Seems _ some- how|_|* we nev- er can a- * gree.|||
+w: * Time _ goes by,|_|* and still I can't be _ free.|||
+

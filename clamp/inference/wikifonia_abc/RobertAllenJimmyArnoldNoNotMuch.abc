@@ -1,0 +1,33 @@
+X:1
+T:No, Not Much!
+T:No, Not Much!
+C:Robert Allen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G6" B D"Am7" E"D7" F |"G" G A"Em" B e |"Am7" e3/2 d/"D7" d2- |"Am7""D7" d4 | %4
+w: I don't want my|arms a- round you,|no, not much!||
+w: I don't want my|arms a- round you,|no, not much!||
+"G" B D"Am7" E"D7" F |"G" G A"Em" B e |"Am7" e3/2 d/"D7" d2- |"Am7""D7" d4 |"G7" d c"Fm" c B | %9
+w: I don't bless the|day I found you,|no, not much!||I don't need you|
+w: I don't bless the|day I found you|no. not much!||Like a ten cent|
+"G7" B A"Dm7" A G |"Cdim" F3/2 A/ G2- |"Cmaj7" G4 |"C#dim" B A"A7" A G |"Am7" G F"D7" F E | %14
+w: like the stars don't|need the sky;||I wont love you|lon- ger than the|
+w: so- da does- n't|cost a dime;||I don't want you|near me on- ly|
+"F#dim" e2"Am7" c2 |"D7" A4 |"G" B D"Am7" E F |"G" G A"Em" B e |"Am7" e3/2 d/"D7" d2- | %19
+w: day I|die.|You don't please me|when you squeeze me,|no, not much!|
+w: all the|time.|You don't thrill me|when you hold me,|no, not much!|
+"Am7""D7" d4 |"Fdim" e/ =f f/"Dm" d c |"Bdim" B A"E" ^G E |"Am" e2"E" d2 |"Am""Am7" c4 | %24
+w: |My heads the light- est|from your ver- y|slight- est|touch.|
+w: |My brain gets haz- y|from you cool and|cra- zy|touch.|
+"C" e3/2 d/ c B |"Am7" A B"Cm/Eb" c2 |"G" d3/2 c/"Bm" B A |"E" ^G A"E7" B2 |"Am/E" E A c e | %29
+w: Bab- y, if you|ev- er go,|could I take it|may- be so.|Oh but would I|
+w: Bab- y if you|ev- er go,|could I take it|may- be so.|Oh, but would I|
+"D7/F" e F G A |1"G" G4 :|2"G" d4 ||"Am/E" E A c e |"D7" e F"C" G"D7" A |"G" G4 |] %35
+w: like it, no, not|much!|much!|Oh but would I|like it, no, not|much!|
+w: like it no not||||||
+

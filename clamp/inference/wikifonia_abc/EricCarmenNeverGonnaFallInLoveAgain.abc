@@ -1,0 +1,43 @@
+X:1
+T:Never Gonna Fall In Love Again
+T:Never Gonna Fall In Love Again
+T:based on 2nd.Symphony of Sergei Rachmaninoff
+T:Eric Carmen
+C:Eric Carmen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" D2 D2 E2 E2 | D2 D2 G A2 C- |"Am" C2 A,2 A,2"E7/Ab" B,2 |:"Am" z2"^Verse" E2 F2 EB- | %4
+w: |||No use pre- tend-|
+w: |||At first we thought|
+ B2 A2 E2 C2 |"Dm6" D4 z2 A,2 | D3 C B,2 z2 |"Esus4" z2 D2 E2 DB- |"E" B2 ^G2 E2 DD | %9
+w: * ing things can|still be|right * *|There's real- ly noth-|* ing more to say|
+w: * that love was|here to|stay * *|The sum- mer made|* it seem so right|
+"Am" DE C4 z2 |"Bm7b5" z2 A,2"E7" B,2 ^G,2 |"Am" z2 E2 F2 EB- | B2 A2 E2 C2 |"Dm" D4 z2 A,2 | %14
+w: ||I'll get a- long|* with- out your|kiss good-|
+w: ||But like the sun|* we watched it|fade a|
+ D3 C B,2 z2 |"Esus4" z2 D2 E2 DB- |"E" B2 ^G2 E2 DD- |"Am" DC A,2 z4 | %18
+w: night, * *|Just close the door|* and walk a- way||
+w: way * *|From morn- ing in-|* to lone- ly night-||
+"C7" z2"^Chorus" C>C E>EG>G ||S"F" B2 c>A- A4 |"G" z2 B,>B, D>DF>F |"Em" A B2 G G2 z2 | %22
+w: Nev- er gon- na fall in|love a- gain *|I don't wan- na start with|some- one new *|
+w: ||||
+"Am" z2 A,>A, C>CE>E |"Dm" G2 A>F- F4 |"G11" z2 E2"G7" D4 |"C" D2 E>E- ED C2 | z2 C>C"C7" E>EG>G | %27
+w: 'Cause I could- n't bear to|see it end *|Just like|me and you. * * *|No, I nev- er wan- na|
+w: |||||
+"F" B2 c>A- A4 |"G" z2 B,>B, D>DF>F |"Em" A2 B>G- G2 z2 |"Am" z2 A,>A, C>CE>E |"Dm" G2 A>F- F4 | %32
+w: feel the pain *|Of re- membr- in' how it|used to be, *|Nev- er gon- na fall in|love a- gain *|
+w: |||||
+"G11" z2 E2"G7" D4 |1"C" D2 EC- C4 || D2 D2"Am" E>C- C2 |"F" z2 C2 D2 E2 | %36
+w: Just like|you and me. *|||
+w: ||||
+"Dm" E2 F2"E7/Ab" D2 E2 :|2"C" D2 E>C- C4 || z2"^D.S. and fade" C>C"C7" E>EG>G |] %39
+w: |you and me. *|Nev- er gon- na fall in|
+w: |||
+

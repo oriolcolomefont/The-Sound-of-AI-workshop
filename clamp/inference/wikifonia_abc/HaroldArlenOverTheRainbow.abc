@@ -1,0 +1,28 @@
+X:1
+T:Over The Rainbow
+T:Over The Rainbow - Easy
+T:Harold Arlen
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+V:1
+|:"C" C4"Am" c4 |"Em" B2 GA B2"C7" c2 |"F" C4 A4 |"C" G8 |"F" A,4"Fm/D" F4 |"C" E2 CD"Am" E2 F2 | %6
+w: Some- where|O- ver the Rain- bow,|way up|high,|there's a|land that I heard of|
+w: Some- where|O- ver the Rain- bow,|skies are|blue,|and the|dreams that you dare to|
+"Dm7" D2 B,C"G7" D2 E2 |1"C" C4"F" z2"G7" z2 :|2"C" C6 z G ||"C" EGEG EGEG |"Dm7" FGFG"G7" FGFG | %11
+w: once in a lull- a-|by|true. Some|day I'll wish up- on a star and|wake up where the clouds are far be-|
+w: dream real- ly do come|||||
+"Em7" A4"A7" A4- |"Dm7" A6"G7" z G |"C" EGEG EGEG |"F#m7" ^FAFA"B7" FAFA |"Em7" B4"A7" B4 | %16
+w: hind me.|* Where|trou- bles melt like le- mon drops, a-|way a- bove the chim- ney tops that's|where you'll|
+w: |||||
+"Dm7" d4"G7" A4 ||"C" C4"Am" c4 |"Em" B2 GA B2"C7" c2 |"F" C4 A4 |"C" G8 |"F" A,4"Fm/D" F4 | %22
+w: find me|Some- where|O- ver the Rain- bow|blue- birds|fly.|Birds fly|
+w: ||||||
+"C" E2 CD"Am" E2 F2 |"Dm7" D2 B,C"G7" D2 E2 |"C" C8 |] %25
+w: o- ver the rain- bow,|why then, oh why can't|I?|
+w: |||
+

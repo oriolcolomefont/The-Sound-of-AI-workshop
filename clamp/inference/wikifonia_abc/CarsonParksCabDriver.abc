@@ -1,0 +1,32 @@
+X:1
+T:Cab Driver
+T:Cab Driver
+C:Carson Parks
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C |"F" D/F/- F3 | d d c F |"C7" E4- | E4 | C C E G | c e d B |"F6" A4- | A4 | F- F/-F/ A c/-c/ | %10
+w: 1.~Cab|dri- ver _|drive by Mar- y's|place,|_|I just want a|chance to see her|face;|_|don't _ _ stop the *|
+w: |3.~dri ver _|once more down the|street,|_|There's a lit- tle|place we used to|meet;|_|That's where I laid my *|
+"F7" f f g f |"Bb" d4- | d3 C |"C7" C E3 | d d c E |"F6" F4- | F3 C |"F" D/F/- F3 | d d c F | %19
+w: me- ter let it|race,|_ 2.~Cab|driv- er,|drive by mar- y's|place.|_ Cab|dri- ver, _|once more 'round the|
+w: fu- ture at her|feet,|_ 4.~Cab|dri- ver,|once more down the|street.|_ Cab|driv- er, _|wait here by the|
+"C7" E4- | E4 | C C E G | c e d B |"F6" A4- | A4 | F F/F/ A c |"F7" f f g f |"Bb" d4- | d3 C | %29
+w: block,|_|nev- er mind the|tick- ing of the|clock;|_|I on- * ly wish|we could have a|talk,|_ Cab-|
+w: door,|_|perhaps I'll hold her|in my arms once|more;|_|Then _ _ things will|be just like be-|fore,|_ Cab|
+"C7" C E3 | d d c E |1"F6" F4- | F3 C ||2"F6" F4- || F3 C |"F" D/F/- F3 | d d c F |"C7" E4- | E4 | %39
+w: dri- ver|once more 'round the|clock.|_ 3.~Cab||||bet- ter take me|home|_|
+w: dri- ver,|wait here by the|||door.|_ 5.~Cab|~dri ver _|_ _ _ _|||
+ C C E G | c e d B |"F6" A4- | A4 | F- F/-F/ A c/-c/ |"F7" f f g f | d4- | d3 C |:"C7" C E3 | %48
+w: I~guess that I was|meant to be a-|lone|_|I hope God sends me as|love one of my|own,|_ Cab|dri ver|
+w: |||||||||
+ e e d E |"F6" F4- | F3"^Repeat and fade" C :| %51
+w: bet- ter take me|home.|_ _|
+w: |||
+

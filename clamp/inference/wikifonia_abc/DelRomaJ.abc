@@ -1,0 +1,35 @@
+X:1
+T:I Will Follow Him
+T:I Will Follow Him
+T:Chariot
+T:J.W.Stole, Del Roma
+T:English by Norman Gimbel, Arthur Altman
+C:Del Roma, J.W.Stole
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 B,CEF ||"Eb" E8- | E2 B,C ECEG |"Gm" B3 G B4- | B6 z B |"Cm" (3c2 c2 c2 (3c2 G2 c2 | %6
+w: I WILL FOL- LOW|Him|* Fol- low him wher- ev- er|he may go|* There|is- n't an o- cean too|
+"Gm" B6 z B |"Ab" (3c2 c2 c2 (3c2 B2 A2 |"Bb7" B4 G2 F2 |"Eb" G8- |"Cm" G2 z2"^tacet" B,CEF | %11
+w: deep a|moun- tain so high it can|keep me a-|way|* I must fol- low|
+"Eb" E8 | E2 B,C ECEG |"Gm" B3 G B4- | B6 z B |"Cm" (3c2 c2 c2 (3c2 G2 c2 |"Gm" B6 z B | %17
+w: him|* ev- er since he touched my|hand I knew|* that|near him I al- ways must|be and|
+"Ab" (3c2 c2 c2 (3c2 B2 A2 |"Bb7" B6 GF |"Eb" (3G2 G2 F2 E4- | E6 B2 |:"Eb" ee z B ee z B | %22
+w: no- thing can keep him from|me he is|my des- tin- y|* I|love him I love him I|
+ ee z B edcB |"Cm" cc z G cc z G | cc z B"Fm7" cB"Bb7"cd |"Eb" ee z B ee z B | ee z B edcB | %27
+w: love him and where he goes I'll|fol- low I'll fol- low I'll|fol- low He'll al- ways be my|true love my true love my|true love from now un- til for-|
+"Cm" cc z G cc z G | cc z2"^tacet" B,CEF |"Eb" E8- | E2 B,C ECEG |"Gm" B3 G B4- | B6 z B | %33
+w: ev- er for ev- er for|ev- er I will fol- low|him|* fol- low him wher- ev- er|he may go|* there|
+"Cm" (3c2 c2 c2 (3c2 G2 c2 |"Gm" B6 z B |"Ab" (3c2 c2 c2 (3c2 A2 c2 |"Fm7" e4"Bb7" (3f2 d2 B2 | %37
+w: is- n't an o- cean too|deep a|moun- tain so high it can|keep keep me a-|
+"Eb" e8- |1 e2 e2"Bb7" (3f2 d2 B2 ||"Eb" e8- | e4 z2"Bb7" z B :|2"Fm7" f2 f2"Bb7" (3f2 e2 d2 || %42
+w: way|* a- way from my|love|* I|* a- way from my|
+"Eb" e8- | e4 (3d2 e2 d2 |"Cm" (3ded c6- | c2 z G ABcd |"Eb" e2 z2{/=A} B2 z2 |{/D} E2 z2 z4 |] %48
+w: love|* Ah- * *|||||
+

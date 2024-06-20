@@ -1,0 +1,24 @@
+X:1
+T:Wabash Blues
+T:Wabash Blues
+C:Fred Meinken
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb7" B4- | B F A/ G3/2 |"Eb" E4- | E3"Gdim" G |"Bb7" B4- | B F A/ G3/2 |"Eb" E4- | E2 z"Eb7" e | %8
+w: Oh,|_ those Wa- bash|blues,|_ I|know|_ I got my|dues,|_ A|
+w: ~~~~~~~~~~~~~~~~~|||||* * * ~~~~~|||
+"Ab" e4- | e f e/ c3/2 |"Eb" B4- | B2 z B |"Cb" _c4- | c _G A =A |"Bb" B4- | B3 z |"Bb7" B4- | %17
+w: lone-|* some soul am|I,|_ I|feel|_ that I could|die,|_|Can-|
+w: ||||~~~~~|||||
+ B F A/ G3/2 |"Eb" E4- | E3"Gdim" G |"Bb7" B4- | B F A/ G3/2 |"Eb" E4- | E2 z"Eb7" e |"Ab" e4- | %25
+w: * dle light that|gleams,|_ _|Haunts|_ me in my|dreams,|_ I'll|pack|
+w: * * * ~~~~~||||||* ~~~~~||
+ e f e/ c3/2 |"Eb" B4- | B3"Gdim" G |"Bb7" B4- | B F A/ G3/2 |"Eb" E4- | E3 z |] %32
+w: _ my walk- in'|shoes,|_ to|lose|_ those Wa- bash|Blues.|_|
+w: |||||||
+

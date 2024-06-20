@@ -1,0 +1,36 @@
+X:1
+T:You're The Top
+T:You're The Top
+C:Cole Porter
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Eb" z4"Bdim" z A2 G |"Eb" B2 z2"Edim" z4 |"Bb7" z4 z A2 G | B2 c2"Gm" G B2 z |"Eb" z4 z F2 E | %5
+w: You're the|top!|You're the|Col- os se- um!|You're the|
+w: You're the|top!|You're Ma-|hat- ma Ghan- di,|You're the|
+"Cm" G2 z2 z4 |"G7" z4 z F2 E | F2 G2 D F2 z |"Ab" z4 z D2 C |"Fm7" E2 CD-"Bb7" D2 EF | %10
+w: top!|You're the|Louvr' mu- se- um,|You're a|mel- o- dy * From a|
+w: top!|You're Na-|pol- eum brand- y,|You're the|pur- ple light * Of a|
+"Eb" A2 FG- G2"Bb" B2 |"Cm" c6 Bc |"D" d2"Gm" dd- d d2 d |"C7" d2"F7" dd- d d2 d | %14
+w: sym- pho- ny * by|Strauss, You're a|Ben- del bon- * net, A|Shake- speare son- * net, You're|
+w: sum- mer night * in|Spain, You're the|Na- tion'l Gall- * 'ry, You're|Gar- bo's sal- * 'ry, You're|
+"Bb9" f c2 c-"Edim" c4 |"Bb7""Bb+" z8 |"Eb" z4"Bdim" z A2 G |"Eb" B2 z2"Edim" z4 |"Bb7" z4 z A2 G | %19
+w: Mick- ey Mouse. *||You're the|Nile|You're the|
+w: cel- lo- phane, *||You're sub-|lime|You're a|
+ B2 c2"Gm" G B2 z |"Eb" z4 z F2 E |"Cm" G2 z2 z4 |"Eb7" z4 z F2 E | F2 G2"Eb9" _D F2 z | %24
+w: Tow'r of Pi- sa,|You're the|smile|on the|Mon- a Lis- a;|
+w: tur- key din- ner,|You're the|time|of the|Der- by win- ner,|
+"Ab" z4 z =D2 C |"Bb7" E2 DF-"Eb" F2 EE |"Em" G2 FA-"C7" A2 G2 |"F7" d2 z2 z2 cd | %28
+w: I'm a|worth- less check, * a *|to- tal wreck, * a|flop, But if|
+w: I'm a|toy bal- loon * that is|fat- ed soon * to|pop; But if|
+"Fm" e e2 e-"Eb" e3 e |"Ab" e e2 e-"Bb7" e3 e |1"Eb" e2 z2 z4 ||"Bb7""Bb+" z8 :|2 %32
+w: Bab- y, I'm * the|bot tom, You're * the|top!||
+w: Bab- y I'm * the|bot- tom, You're * the|||
+"Eb" e2"Edim" z2"Bb7" z4 ||"F#dim""E" z8 |] %34
+w: top!||
+w: ||
+

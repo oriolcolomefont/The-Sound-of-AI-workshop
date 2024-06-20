@@ -1,0 +1,21 @@
+X:1
+T:Honey Creek Cruise
+T:Honey Creek Cruise
+T:Ray Overton
+T:Copyright © 2008
+C:Ray Overton
+Z:Creative Commons BY
+L:1/8
+Q:1/4=12180
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"^Fast Jazz" G dg |:"C69" z"C69" Gdg z Gdg | z Gdg z Gdg |"Abmaj7" _e8- | e4 (3c^cd (3_e=ef | %5
+"C69" gGdg z Gdg | z Gdg z2 cf |"Db7" _e_c- c6- | c4 (3_c_d=d (3_e=ef |"C69" gGdg z Gdg | %10
+ z Gdg z2 _eg |"Abmaj7" _b_agf _e_dc_B | f_e_dc _B_AGF |"C69" E2 cG- G4- | G6 CD | %15
+"Db7" _E2 _cF- F4- | F6 _D_E |"C69" E2 cG- G4- | G6 CD |"Abmaj7" z _EFG z FG_A | %20
+ z2 (3G_A_B (3ABc (3cd_e |"Dm7" Me2 ce z2 z c |1"Db7" Me2 _ce z c z e ||"C69" z A z A- A4- | %24
+"G7" A4"G7" z Gdg :|2"Db7""^Ending" Me2 _ce z c"C" z"C" g |] %26
+

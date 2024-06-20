@@ -1,0 +1,27 @@
+X:1
+T:The Kerry Dance
+T:The Kerry Dance
+T:unknown
+C:James Lyman Molloy
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c2 d"C7" edc |"F" f2 a"C" g2 e | c'2 e"Am" edc |"D7" d2 A"G7" B3 |"C" c2 d"C7" edc | %5
+w: O, the days of the|Ker- ry danc- ing|O the ring of the|pi- per's tune!|O for one of those|
+"F" f2 a"C" g2 e |"Am" c'2 e"D7" edc |"G7" d2 c"C" c2 z |:"G" g z a"Em" g z a | %9
+w: hours of glad- ness|gone a- las like our|youth too soon|When the boys be-|
+"G" g z a"Em" g z a |"G" g z a"Em" bag |"A7" a z e"D7" ^f3 |"G" g z a"G7" g z a | %13
+w: gan to gath- er|in the glen of a|sum- mer night|and the Ker- ry|
+"C" g z a"Cm" g z a |"G" g z a bd'b |"D7" a2 g"G" g3 |"F" c'2 a fga |"Em" b2 g efg | %18
+w: pi- pers tun- ing|made us long * with|wild de- light;|O to think of it,|O to dream of it|
+"Dm" a2 a"A7" f2 e |"Ab7" d3-"G7" d3 |"C" c2 d"C7" eec |"F" f2 a"C" g2 e | c'2 e"Am" edc | %23
+w: fills my heart with|tears! *|O the days of the|Ker- ry danc- ing|O the ring of the|
+"D7" d2 A"G7" B3 |"C" c2 d"C7" edc |"F" f2 a"C" g2 e |"Am" c'2 e"D7" edc |1"G7" d2 c"C" c3 :|2 %28
+w: pi- per's tune|O for one of those|hours of glad- ness|gone a- las like out|youth too soon.|
+"Dm" d3-"G7" d2 c ||"C" c2 d"C7" edc |"F" f2 a"C" g2 e |"Dm" def"G7" gab |"C" c' z z c z2 |] %33
+w: youth * too|soon * * * *||||
+

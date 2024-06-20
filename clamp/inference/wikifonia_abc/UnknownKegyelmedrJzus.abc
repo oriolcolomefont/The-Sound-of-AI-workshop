@@ -1,0 +1,19 @@
+X:1
+T:Kegyelmed, Úr Jézus
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2"C" G A2 G2 G |"Dm" D4"F" F4 |"G" z2 G2 A2 GC- |"C" C4 z4 |"C" z2 G A2 G2 G |"Dm" D4"F" F4 | %6
+w: Ke- gyel- med, Úr|Jé- zus,|oly vég- te- len,|_|nem hagy- tál el-|vesz- ni|
+"G" z2 G2 A2 G2 |"C" C4 z4 |"Dm" z2 DD D2 EF- | FE D D2 E F2 |"F" z2 F2 F A2 G- | %11
+w: bûn mé- lyé-|ben.|Ke- reszt- fád- nak tit-|* ka- it mond- tad el,|és meg is ér-|
+"C" G F2 E G-F E2 |"Em" z2 z G G2 AE- | ED- D4 z2 |"Am" C3 A,"F" CCDC- |"C" C4 z4 |] %16
+w: * tet- te szí- * vem,|hogy drá- ga vé-|* red _|folyt a bû- ne- i- mért.|_|
+

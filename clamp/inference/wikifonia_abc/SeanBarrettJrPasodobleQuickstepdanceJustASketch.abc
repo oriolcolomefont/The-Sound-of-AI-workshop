@@ -1,0 +1,24 @@
+X:1
+T:Pasodoble (Quick step dance) Just A Sketch
+T:Latin Pasodoble
+T:Sean Barrett Jr
+C:Sean Barrett Jr
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno"
+%%MIDI program 0
+V:2 bass 
+%%MIDI channel 1
+%%MIDI program 0
+L:1/4
+V:1
+ A2 A2 c-c/A/- A/dd/ | d2 z2 d>c- cA | GA z2 z4 | A2 AA A2 AA | _B2 BB B2 cB | %5
+ A2- AG (3A/B/A/ G A2 | z8 | z8 |] %8
+V:2
+"_mezzo forte" A,, A,, C,3/4A,,/D,3/4 |"_crescendo" A,, A,, A,, A,, | A,, A,, E,, E,, | %3
+"_fore" A,, A,, B,, B,, |"_descrescendo" D, C, C,2 | A,,2 C,2 |"_fine" C, D, G, A, | z4 |] %8
+

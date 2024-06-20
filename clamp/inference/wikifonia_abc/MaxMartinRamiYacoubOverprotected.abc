@@ -1,0 +1,63 @@
+X:1
+T:Overprotected
+C:Max Martin
+Z:All Rights Reserved
+L:1/16
+Q:1/4=96
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"^www.notonly.ru""Cm" [EGc]12 [Gce]4 |"G7" [FG=Bd]16 |"F2" [FGc]12"Cm" [Gce]4 |"G7" [FG=Bd]16 | %4
+w: ||||
+"Cm" z4 C2C2 z4 z2 CG ||"Fm" F6 DE"G" D6 DE |"Cm" C8 z3 B, CB,CG |"Fm" F6 E2"G" D2ED- D2<C2 | %8
+w: Ac- tion! Say hel-|lo to the girl that I|am. You're gon- na have to|see through my per- spec- * tive.|
+"Cm" z8 z3 B, CB,CG |"Fm" F6 ED"G" D6 DE |"Cm" C8 z3 B, CB,CG |"Fm" F6 D2"G" D2ED- D2<C2 | %12
+w: I need to make mis-|takes just to learn who I|am and I don't wan- na|be so damn pro- tec- * ted.|
+"Cm" z8 E4 G4 ||"Fm" A2GG- GF2F-"Bb" F6 z E |"Cm" G2FF- FE2G- GF2F- FE2E | %15
+w: There must|be an- oth- * er way * 'cuz|I be- lieve * in tak- * ing chan- _ ces, but|
+"Fm" A2GG- GF2F-"Bb" F6 EF |"G7" G2EF G2EF G2AG- G2<F2 ||"Fm" z4 CCCE"G" D2>D2- DE2E- | %18
+w: who am I * to say * what a|girl is to do? God, I need some ans- _ wers.|What am I to do with * my life?|
+"Cm" E4 C2E2 F2FE- ED2C- |"Fm" C2<E2 CCCD"G" D2DD- DE2E- |"Cm" E4 C2E2 F2FE- ED2C- | %21
+w: * (You will find it out, * don't wor-|* ry) How am I sup- posed to know * what's right?|* (You just got to do * it your|
+ C2<"Fm"E2 E2F2"Bb" F2FF- FG2G- |"Eb" G6 FG"Ab" A2GF-"Eb/G" F2<E2 | %23
+w: * way) I can't help the way * I feel,|* but my life has been * so|
+"Fm" (F2>G2) F4"G7" z2 ED- D2<C2 |"Cm" z8 z3 B, CB,CG ||"Fm" F6 DE"G" D4 z DDE | %26
+w: o- * ver pro- tec- * ted.|I tell 'em what I|like, what I won't, and what I|
+"Cm" C8 z3 B, CB,CG |"Fm" F6 D2"G" D2ED- D2<C2 |"Cm" z8 z3 B- BAGF |"Fm" F4 z EFE"G" F6 FE | %30
+w: don't, but ev- 'ry- time I|do I stand cor- * rec- ted.|Things * that I have|known I can't be- lieve what I|
+"Cm" G2GF z FE2- EEED E2>D2 |"Fm" (F2>E2 F2>E2)"G" G6 GF- |"Cm" F2<E2- E4 E4 G4 || %33
+w: hear a- bout the world * I re- a- lize I'm|o- * * * ver pro- tec-|* ted. * There~There must|
+"Fm" A2GG- GF2F-"Bb" F6 z E |"Cm" G2FF- FE2G- GF2F- FE2E |"Fm" A2GG- GF2F-"Bb" F6 EF | %36
+w: be an- oth- * er way * 'cuz|I be- lieve * in tak- * ing chan- _ ces, but|who am I * to say * what a|
+"G7" G2EF G2EF G2AG- G2<F2 ||"Fm" z4 CCCE"G" D2>D2- DE2E- |"Cm" E4 C2E2 F2FE- ED2C- | %39
+w: girl is to do? God, I need some ans- _ wers.|What am I to do with * my life?|* (You will find it out, * don't wor-|
+"Fm" C2<E2 CCCD"G" D2DD- DE2E- |"Cm" E4 C2E2 F2FE- ED2C- | C2<"Fm"E2 E2F2"Bb" F2FF- FG2G- | %42
+w: * ry) How am I sup- posed to know * what's right?|* (You just got to do * it your|* way) I can't help the way * I feel,|
+"Eb" G6 FG"Ab" A2GF-"Eb/G" F2<E2 |"Fm" (F2>G2) F4"G7" z2 ED- D2<C2 |"Cm" z16 || %45
+w: * but my life has been * so|o- * ver pro- tec- * ted.||
+"Fm" z2 C2 z C3 z4 C4 | z8 z4 C4 | z2 C2 z C3 z4 C4 |"Cm" z4 z2 CC C8 ||"Fm" z2 FF FFFF FFFF FEEE | %50
+w: I need time,|love,|I need space.|This is it.|I don't need no- bod- y tell- in' me just what I'm wan- na,|
+ z6 EF F2F2 FEEG | z2 C2 z C3 G2FE- ED2D- |"Cm" D2EE- E4 C4 E4 |"Fm" F2F2 z FFF"Bb" FFFF FEEE | %54
+w: what, I what, what, what I'm gon- na|(I need) do a- bout * my des-|* ti- ny, * I say|no. no, no- bod- y tell- in' me just what I wan- na|
+"Eb" F2F2 z EEF"Ab" FEEF FEEF |"Cm" G2G2 z2 EF"G" G4 E4 |"Cm" C4 E2E2"G" z8 || %57
+w: do, do. I'm so fed up with peo- ple tell- in' me to|be- e some- one else but|me! Ac- tion!|
+"Fm" G4 CCCE"G" D2>D2- DE2E- |"Cm" E4 C2E2 F2FE- ED2C- |"Fm" C2<E2 CCCD"G" F2EF- FB2G- | %60
+w: Yeah! What am I to do with * my life?|* (You will find it out, * don't wor-|* ry) How am I sup- posed to know * what's right?|
+"Cm" G4 E2G2 A2AG- GF2E- | E2<"Fm"G2 E2F2"Bb" F2FF- FG2(G- | %62
+w: * (You just got to do * it your|* way) I can't help the way * I feel,|
+"Eb" GFE2) z2 FG"Ab" A2GF-"Eb/G" F2<E2 |"Db" F2>G2 F4"G" z2 ED- D2<C2 ||"Fm" z2 FF FFFF FFFF FEEE | %65
+w: * * * but my life has been * so|o- * ver pro- tec- * ted.|I don't need no- bod- y tell- in' me just what I'm wan- na,|
+ z6 EF F2F2 FEEG | z2 C2 z C3 G2FE- ED2D- |"Cm" D2EE- E4 C4 E4 |"Fm" F2F2 z FFF"Bb" FFFF FEEE | %69
+w: what, I what, what, what I'm gon- na|(I need) do a- bout * my des-|* ti- ny, * I say|no. no, no- bod- y tell- in' me just what I wan- na|
+"Eb" F2F2 z EEF"Ab" FEEF FEEF |"Cm" G2G2 z2 EF"G" G4 E4 |"Cm" C4 CCCE"G" D2>D2- DE2E- | %72
+w: do, do. I'm so fed up with peo- ple tell- in' me to|be- e some- one else but|me! What am I to do with * my life?|
+"Cm" E4 C2E2 F2FE- ED2C- |"Fm" C2<E2 CCCD"G" D2DD- DE2E- |"Cm" E4 C2E2 F2FE- ED2C- | %75
+w: * (You will find it out, * don't wor-|* ry) How am I sup- posed to know * what's right?|* (You just got to do * it your|
+ C2<"Fm"E2 E2F2"Bb" F2FF- FG2G- |"Eb" G6 FG"Ab" A2GF-"Eb/G" F2<E2 | %77
+w: * way) I can't help the way * I feel,|* but my life has been * so|
+"Db" (F2>E2) (D2>C2"G" =B,6) ED- |"Cm" D2<C2 z4 z8 |] %79
+w: o- * * ver * pro- tec-|* ted.|
+

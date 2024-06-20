@@ -1,0 +1,28 @@
+X:1
+T:I Wish I Knew How It Would Feel To Be Free
+T:I Wish I Knew How It Would Feel To Be Free
+C:Billy Taylor
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2"D11" G2 |:"G" d4"B7" B A2"Em" G- | G4"G13" E G2 G- |"C" G4"D11" E G2"G" G- | G4 z2"D11" G2 | %5
+w: I|wish I knew how|_ it would feel|_ to be free.|_ I|
+"G" d4"C" e"G/B" d2"G" B- | B4"D/F#" A2"G" d2 |"D/F#" A4"A13" F"A7" E2"D7" D- | D4 z2"D11" G2 | %9
+w: wish I could break|_ all these|chains hold- ing me.|_ I|
+"G" d4"B7" B A2"Em" G- | G4"G13" E G2 G- |"C" G4"D11" E G2"G" G- | G2 z2"C#dim" G G2"G/D" B- | %13
+w: wish I could say|_ all the things|* I should say;|_ Say 'em loud,|
+ B4"B7/D#" A A2"Em" G- | G4"C#dim" E E2"G/D" D- | D4"D11" G G2"G" G- | G4 z2"D11" G2 | %17
+w: _ say 'em clear|_ for the whole|_ world to hear.|_ I|
+"G" d4"B7" B A2"Em" G- | G4"G13" E G2 G- |"C" G4"D11" E G2"G" G- | G4 z2"D11" G2 | %21
+w: wish I could be|_ like a bird|_ in the sky.|_ How|
+"G" d4"C" e"G/B" d2"G" B- | B4"D/F#" A2"G" d2 |"D/F#" A4"A13" F"A7" E2"D7" D- | D4 z2"D11" G2 | %25
+w: sweet it would be|_ if I|found I could fly.|_ I'd|
+"G" d4"B7" B A2"Em" G- | G4"G13" E G2 G- |"C" G4"D11" E G2"G" G- | G2 z2"C#dim" G G2"G/D" B- | %29
+w: soar to the sun|_ and look down|_ at the sea.|_ Then I'd sing|
+ B4"B7/D#" A A2"Em" G- | G4"C#dim" E E2"G/D" D- | D4"D11" G G3 |1"G" G6 G2 :|2"G" G6 z2 |] %34
+w: _ 'cause I know|_ how it feels|_ to be|free. I|free.|
+

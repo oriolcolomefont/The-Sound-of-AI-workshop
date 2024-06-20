@@ -1,0 +1,33 @@
+X:1
+T:Great Balls of Fire
+T:Great Balls of fire
+C:Otis Blackwell (Jack Hammer)
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" z"^(tacet)" _B B B B2 B B | _B B B B- B z z2 |"C7" z"^(tacet)" _B B2 B2 G E | G2 A _B2 z z2 | %4
+w: You shake my nerves and you|rat- tle my brain. _|Too much love drives a|man in- sane.|
+"D7" z"^(tacet)" A A A A z z2 |"C7" z"^(tacet)" G G G G z z2 |"G""^(tacet)" G2 G2 G2 G g- | %7
+w: You broke my will,|but what a thrill.|Good- ness gra- cious, Great|
+ g G2 E G G z2 | z"G" _B B B B2 B B | B B B B- B B z2 |"C7" z _B B B B2 B B- | B2 _B2 G B z2 | %12
+w: _ Balls of Fi- re!|I laughed at love 'cause I|thought it was fun- * ny.|You came a- long and moved|_ me hon- ey.|
+"D7" z A A A A2 z2 |"C7" z G G G G2 z2 |"G""^(tacet)" G2 G2 G2 G g- | g G2 E G G z2 | %16
+w: I changed my mind,|this love is fine.|Good- ness gra- cious, Great|_ Balls of Fire! _|
+"C7" g3 G G2 E2 | z2 g6 |"G" g2 z G G4 | G2 z2 z4 |"C7" z g2 G G2 _B z | z8 | %22
+w: Kiss me ba- by,|Oh,|yo! It feels|good.|Hold me, ba- by||
+"D7" z"^(tacet)" A A A A A A A | F2 D D- D z z2 | z2 e d- d2 z2 | z2 e d- d2 z A | %26
+w: I want to love you like a|lov- er should. _|You're fine, _|so kind. _ I'm|
+"D7""^(tacet)" AAAA A2 AA |"D7" e2 e2 e2 e2 |"G" z B B B B2 B B | _B B B B- B2 z2 | %30
+w: gon- na tell the world that you're|mine, mine, mine, mine.|I chew my nails and I|twid- dle my thumbs. _|
+"C7" z _B B2 B B B B | B2 B B- B2 z2 | z"D7" a3 A A z A |"C7" G G G G- G G z2 | %34
+w: I'm real ner- vous but it|sure is fun! _|Oh, ba- by you're|driv- in' me cra- * zy.|
+"G""^(tacet)" G2 G2 G2 Gg- | g G2 E G G"G" z2 |] %36
+w: Good- ness gra- cious, Great|_ Balls of Fi- re|
+

@@ -1,0 +1,40 @@
+X:1
+T:We Shall Not Be Moved
+T:We shall not be moved
+T:  Traditional song Arranged by the Seekers
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z F/F/ |:"D" F F F F | G2 F2 |"A7" F E E ^D/E/- | E2- E z | E E E E | F2 E2 |"D" E D D E/F/- | %8
+w: Well I'm|on my way to|hea- ven|we shall not be moved||on my way to|hea- ven|we shall not be moved|
+w: |on the road to|free- dom|we shall not be moved||on the road to|free- dom-||
+ F D D C | B,3 C | D E D E |"D" F2"F7" E2 |"Bb" D4 | z"D" F2 D | F2"A7" F E |"D" D4- | D2-"A7" D2 | %17
+w: * just like a|tree thats|stand ing by the|wat- er-|side|we shall|not be *|moved||
+w: |||||||||
+"D" z F3 |"G" G2"D" F2 |"A7" F E E ^D/E/- | E4 | z E3 |"Em" F2"A7" E2 |"D" E D D E/F/- | F D D C | %25
+w: We|shall not|we shall not be moved||We|shall not|we shall not be moved|* just like a|
+w: ||||||||
+"G" B,3 C | D E D E |"D" F2"F7" E2 |"Bm" D4 |"D" z F2 D | F2"A7" F E |1"D" D4- | D2-"A7" D2 :|2 %33
+w: tree thats|stand- ing by the|wa- ter-|side|we shall|not be *|moved||
+w: ||||||||
+"D" D4- || D2 z F |"D" F2 F F |"G" G2"D" F2 |"A7" F E E ^D/E/- | E2- E3/2 E/ | E2 E E | %40
+w: moved|* We're|broth- ers to-|geth- er|we shall not be moved|* * we're|broth- ers to-|
+w: |||||||
+"Fm" F2"A7" E2 |"D" E D D E/F/- | F D D C |"G" B,3 C | D E D E |"D" F2"F7" E2 |"Bm" D4 | %47
+w: geth- er|we shall not be moved|* jut like a|tree that's|stand- ing by the|wa- ter-|side|
+w: |||||||
+ z"D""D" F2 D | F2 F"A7" E |"D" D4- | D3 z | z"Fm" F3 |"G" G2"D" F2 |"A7" F E E ^D/E/- | E4 | %55
+w: we shall|not be *|moved||We|shall not|we shall not be moved||
+w: ||||||||
+ E3 z |"Fm" F2"A7" E2 |"D" E D D E/F/- | F/D/ D C2 |"G" B,3 C | D E D E |"D" F2"F7" E2 |"Bm" D4 | %63
+w: we|shall not|we shall not be moved|* just like a|tree thats|stand- ing by the|wa- ter-|side|
+w: ||||||||
+"G" z d2 d |"A7" c B A2 |"D" z"G" d3- |"D" d4- |"Em7" d4- |"D" d z z2 |] %69
+w: we shall|not * be|moved||||
+w: ||||||
+

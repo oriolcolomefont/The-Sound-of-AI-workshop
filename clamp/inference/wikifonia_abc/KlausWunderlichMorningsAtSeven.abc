@@ -1,0 +1,18 @@
+X:1
+T:Mornings At Seven
+T:Mornings At Seven
+T:Morgens um Sieben
+C:Klaus Wunderlich
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"F" A6"C7" (3GFG |"F" A6"C7" (3GFG |"F" A4"Am" c4 |"Gm" c3 B/A/"C7" G4 |"Gm" B6"D7" (3cBA | %5
+"Gm" B6"D7" (3cBA |"Gm" B4"C7" d4 |"F" d3 c/B/ A4 |"F" A6"C7" (3GFG |"F" A6"C7" (3GFG | %10
+"F" A4 c2 cg |"Bb" g3 f/_e/ d4 |"Bbm" _d4 _e3 d |"F" c3 A/c/"Bb" d4 |"Gm7" B4"C7" c4 |1 %15
+"F" G3 A/G/ F z"C7" c2 :|2"F" G3 A/G/ F4 ||"Bbm" _d4 _e2 =ed |"F" c3 A/c/"Bb" d4 |"Gm7" B4"C7" c4 | %20
+"F" G3 A/G/ F4- | F6 z2 |] %22
+

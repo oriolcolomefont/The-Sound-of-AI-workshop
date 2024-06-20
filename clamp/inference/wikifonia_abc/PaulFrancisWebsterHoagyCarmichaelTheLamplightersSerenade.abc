@@ -1,0 +1,27 @@
+X:1
+T:The Lamplighter's Serenade
+T:The Lamplighter's Serenade
+T:Paul Francis Webster & Hoagy Carmichael
+C:Paul Francis Webster & Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z F |"Bb" =E>FE>F d3 A |"Eb" c3 G B3 c |"F7" A2 AA A2 GA |"Bb" G F3- F4 | =E>FE>F d3 A | %6
+w: A|mo- ment af- ter dark a-|round the park an|old fash- ioned gent comes par-|ad- ing *|dressed in fun- ny clothes, but|
+"Eb" c>BA>B"Cm7" G3 B |"F7" A2 AB G2 A2 |"Bb" B4- B3 B |"Eb7" A>A (3GGA- A3 G | %10
+w: sing- ing as he goes, The|Lamp- light- er's Ser- e-|nade. * The|old boy loves to talk * with|
+"Bb6" G>G (3FFG-"G7" G2 z F |"Cm7" F3 E"F7" F2 EF |"Bb" ED- D4 z B |"Eb7" A>A (3GGA- A3 G | %14
+w: coup- les on the walk,- * but|when it's half af- ter|love- time, * he|reach- es for his sticks * and|
+"Bb6" G>G (3FFG-"G7" G2 z F |"C7" G2 GG (3G2 A2 B2 |"Cm7" c4-"F7" cBAG |"Bb" =E>FE>F d3 A | %18
+w: from his bag of tricks * he|lights ev- 'ry star in the|sky. * And if a|la- dy or a beau should|
+"Eb" c3 G B3 c |"F7" A2 AA A2 GA |"Bb" G F3- F4 | =E>FE>F d3 A |"Eb6" c>BA>B"Cm7b5" e3 B | %23
+w: ans- wer no! he|sprink- les their hearts witg his|mag- ic *|then he steal;s a- way to|sing an- oth- er day The|
+"F7" A2 AB G2 A2 |"Bb" B6 z2 |] %25
+w: Lamp- light- er's Ser- e-|nade.|
+

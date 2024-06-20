@@ -1,0 +1,30 @@
+X:1
+T:Once In A While
+T:Once In A While
+C:Michael Edwards
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" (3E E E"Eb6" F2- |"Ebmaj7" (3F E F"Eb6" (3G B c |"Gm7" (3d d d"D+7" c B |"Gm7""C9" d4 | %4
+w: Once in a while|* will you try to give|one lit- tle thought to|me?|
+"Fm7" (3c c c"C7" B A |"Fm7" c2"Bb7" (3D E F |"Gm7""C7" B4- |"Fm7""Bb7" B4 |"Eb" (3E E E"Eb6" F2- | %9
+w: Though some- one else may|be near- er your|heart||Once in a while|
+"Ebmaj7" (3F E F"Eb6" (3G B c |"Gm7" (3d d d"D+7" c B |"Gm7""C9" d4 |"Fm7" (3c c c"C7" B A | %13
+w: * will you dream of the|mo- ments I shared with|you?|Mo- ments be- fore we|
+"Fm7" c2"Bb7" (3D E F |"Eb6""Abm7" E4- |"Eb6" E2"Am7" z"D7" D |"Gmaj7" d2"Em7" (3G =A =B | %17
+w: two drift- ed a|part.|* In|love's smil- der- ing|
+"Am7" c"D7" c3 |"Bm7" =B2"Bbdim7" (3=E ^F G |"Am7" =A3"D7" D |"Gmaj7" d2"Em7" (3G =A =B | %21
+w: em,- ber|One Spark may re-|main if|love still can re-|
+"Am7" c"D7" c2 =B |"G6" G G"C7b9" B B |"Fm7""Bb7" F4 |"Eb" (3E E E"Eb6" F2- | %25
+w: mem- ber, The|spark may burn a-|gain.|I know that I'll|
+"Ebmaj7" (3F E F"Eb6" (3G B c |"Gm7" (3d d d"D+7" c B |"Gm7""C9" d4 |"Fm7" (3c c c"C7" B A | %29
+w: * be con- ten- ted with|yes- ter- day's mem- o-|ry,|Know- ing you think of|
+"Fm7" c2"Bb7" (3D E F |1"Cm7""Fm7""Bb7" E4 :|2"Eb6" E4 |] %32
+w: me once in a|while.|while.|
+

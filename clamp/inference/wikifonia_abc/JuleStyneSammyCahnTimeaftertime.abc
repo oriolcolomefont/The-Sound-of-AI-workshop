@@ -1,0 +1,33 @@
+X:1
+T:Time after time
+T:Time after time 
+T:Jule Styne/Chaplin
+T: 
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F" z B A d |"G9" B2 A2 |"Em7" G3/2 G/ G2- |"Am7" G c"Eb9" G3/2 _G/ |"Dm7" F3/2 F/ F2- | %5
+w: What good are|words I|say to you?|_ They can't con-|vey to you|
+"G7b9" F B F3/2 E/ |"C" E4 |"C6" z C E G |"Am" c2"C/G" z2 |"F#m7b5" z2"Fm6" d2 |"Em7" G4- | %11
+w: _ what's in my|heart|If you could|hear|in-|stead|
+"C/E" G C E G |"Am7" c4- |"D9" c2 e2 |"G9sus4" G4- |"G9" G4 ||S"C" E2"Am7" C3/2 D/ | %17
+w: _ The things I've|left|_ un-|said|_|Time af- ter|
+"Dm7" C3"G7" D |"C" E A"Am7" G E |"Dm7" C3"G7" D |"C" E B A E |"Am7" D3 C |"Bm7b5" D4- | %23
+w: time I|tell my- self that|I'm So|luck- y to be|lov- ing|you|
+"E7b9" D3 E ||"Am7" c2"C/G" A3/2 B/ |"F#m7b5" A3"B7b9" B |"Em7" A G ^F G |"Gm6/Bb" E2"A7b9" _B A | %28
+w: _ So|luck- y to|be The|one you run to|see In the|
+"Dm7" G F E F |"Em7b5" G3"A7#5b9" F |"D9" D4- |"G9sus4" D B, C"G7b9" D ||"C" E2"Am7" C3/2 D/ | %33
+w: eve- ning, when the|day is|through|_ I on- ly|know what I|
+"Dm7" C3"G7" D |"C" E A"Am7" G E |"Dm7" C3"G7" D |"C" E B A E |"Gm7" D2"C7" z C |"F" c4- | %39
+w: know The|pas- sing years will|show You've|kept my love so|young, so|new|
+"Fm7" c3"Fm6" c ||"C6/G" e2 c3/2 d/ |"F#m7b5" c3"Fm6" d |"Em7" d e"Am7" c3/2 d/ | %43
+w: _ &|time af- ter|time You'll|hear me say that|
+"D9sus4" c3"D7" d |"C6/G" d e"Am7" c d |"Dm7" c3"G7b9" B |"C6" c4- |"Dm7" c B, C DS |] %48
+w: I'm So|luck- y to be|lo- ving|you|_ _ _ _|
+

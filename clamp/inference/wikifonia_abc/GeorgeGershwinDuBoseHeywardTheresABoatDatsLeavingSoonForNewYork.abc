@@ -1,0 +1,38 @@
+X:1
+T:There's A Boat Dat's Leaving Soon For New York
+T:There's A Boat Dat's Leaving Soon For New York
+T:George Gershwin
+C:George Gershwin
+Z:Public Domain
+L:1/8
+Q:1/4=150
+M:4/4
+K:F
+V:1 treble nm="Staff 1"
+%%MIDI program 65
+V:1
+ z4 z F2 G ||"Fmaj7" A2 A2"Db7" GF z c- |"Bbmaj7" c4"C7" A2 FD- |"F6" D C3- C4 |"F7" z4 _E2 DC- | %5
+w: There's a|boat dat's lea- ving soon|_ for New York.|_ _ _|Come with me,|
+"Bb6" CB,- B,6 |"Fmaj7" A,2 C2 F2 A_A- |"G7b9" A6 z2 |"C7" A G3 z F2 G || %9
+w: _ _ _|dat' where we be- long,|_|sis- ter. You and|
+"Fmaj7" A2 A2"Db7" GF z c- |"Bbmaj7" c2 c2"C7" A2 FD- |"F6" D C3- C4 |"F7" z4 _E2 DC- | %13
+w: me can live that high|_ life in New York.|_ _ _|Come with me,|
+"Bb6" C B,3- B,3 A, |"Fmaj7" z C z F- F2 A_A- |"Bb7" A6 z2 |"A7" A G3 z2 z F || %17
+w: _ _ _ there|you can't _ go wrong|_|sis ter. I'll|
+"Dm7" (3D2 A,2 C2 DF z _E- |"A7b5" E _E3- E2 A,C |"Dm7" DD D2 D2 AG- |"A7b9" G4 z2 FG | %21
+w: buy you the swell- est man|_ sion, _ up on|up- per Fifth A- ven- ue,|_ and through|
+"Dm7" ^GAGA"Bbmaj7" =GF z A |"Dm7" ^GA=GF z A^GA |"Bb7" _AF z A G2 FE- |"A7" E6 z F || %25
+w: Har- lem we'll go strut- ting we'll|go a- strut- ting and there'll be|no- thing too good for you.|_ I'll|
+"Dm7" (3D2 A,2 C2 DF z _E- |"A7b5" E _E3- E2 A,C |"Dm7" D2 D2 Dc z B- |"Eb7" B6 _AB | %29
+w: dress you in silk and sa-|tin _ _ in the|la- test Pa- ris styles.|_ All the|
+"Ab7" =BcBc"C7" _B_A z B |"Fm7" _ABAG"Abmaj7" z AGA |"Db7" GF z G F_E_DC- |"C7" C4 z C2 B, | %33
+w: blues you'll be for- get- ting, you'll|be for- get- ting there'll be no|fret- ting yes no- thing but smiles.|_ Come a-|
+ C2 CB,- B,2 z2 | C2 CB,- B,2 z2 |"C7" (3C2 G,2 B,2 (3C2 G,2 B,2 | C4 z C2 C | c8- | c4 z F2 G || %39
+w: long with me, _|that's the place, _|don't be a fool come a-|long, come a-|long.|_ There's a|
+"Fmaj7" A2 A2"Db7" GF z c- |"Bbmaj7" c4"C7" A2 FD- |"F6" D C3- C4 |"F7" z4 _E2 DC- | %43
+w: boat dat's lea- ving soon|_ for New York.|_ _ _|Come with me,|
+"Bb6" C B,3- B,3 A, |"Fmaj7" z C z F- F2 GA- |"G7b9" A8- | A6 z B- |"C7" B B3- B4 | d2 B2 GA z G- | %49
+w: _ _ _ dat's|where we _ be- long,|_|* sis|_ ter, _|dat's where we be- long.|
+"F6" G F3- F4 | z8 |] %51
+w: _ _ _||
+

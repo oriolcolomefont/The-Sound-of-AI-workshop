@@ -1,0 +1,21 @@
+X:1
+T:Naima
+T:Naima
+T:John  Coltrane
+C:John Coltrane
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"Bbm7/Eb" c14 Be |"Ebm7" F12 z4 |"Amaj7/Eb" A8"Gmaj7/Eb" _G6 EG |"Abmaj7/Eb" E12 z4 | %4
+"Bbm7/Eb" c14 Be |"Ebm7" F12 z4 |"Amaj7/Eb" A8"Gmaj7/Eb" _G6 EG |"Abmaj7/Eb" E12 z4 | %8
+"Bmaj7/Bb" B14 B2 |"Bb13b9" G12 z2 E2 |"Bmaj7/Eb" z14 B2 |"Bb13b9" G12 z2 FE |"Dmaj7#5/Eb" d14 Bd | %13
+"Bmaj7/Bb" B12 z z _GB |"Abmaj7/Bb" G14 EG |"Gb13/Eb" E12 z4 |"Bbm7/Eb" c14 Be |"Ebm7" F12 z4 | %18
+"Amaj7/Eb" A8"Gmaj7#5/Eb" _G6 EG!dacoda! |O"Abmaj7/Eb" E12 z4 ||O"Abmaj7/Eb" E12 z4 | %21
+"Amaj7/Eb" A8"Gmaj7/Eb" _G6 EG |"Abmaj7/Eb" E12 z4 |"Amaj7/Eb" A8"Gmaj7#5/Eb" _G6 EG | %24
+"Abmaj7/Eb" E12 z4 |"Amaj7/Eb" A8"Gmaj7#5/Eb" _G6 EG |"Abmaj7" E8"Dbmaj7" F8 | %27
+"Abmaj7" G8"Dbmaj7" A8 |"Abmaj7" B8"Dbmaj7" c8 |"Abmaj7" e16 |] %30
+

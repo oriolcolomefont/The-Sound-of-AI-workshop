@@ -1,0 +1,30 @@
+X:1
+T:Time Waits For No One
+T:Time Waits For No One 
+T:Cliff Friend
+T:Charles Tobias 
+C:Cliff Friend
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ (3:3:3G F E |:"Dm7" D2 c2- |"Fm6" c D"G7" (3D C D |"C" E4- | E G"Em" (3G E G |"Am" c2 C2- | %6
+w: TIME WAITS FOR|NO ONE|* It pass- es you|by,|* it rolls on for-|ev- er|
+"D7" (3C C E"G7" (3D C D |"C" E4- | E2 (3G F E |"Dm7" D2 c2- |"Fm6" c D"G7" (3D C D |"C" E4- | %12
+w: * like the clouds in the|sky.|* TIME WAITS FOR|NO ONE|* goes on end- less-|ly|
+ E G"Em" (3G E G |"Am" c2 C2- |"D7" (3C C E"G7" (3D C D |"C""F" C4- |"C" C z2 z |"Am" z c B A | %18
+w: * it's just like a|ri- ver|* flow- ing out to the|sea.||You'll find that|
+"F7" (3c A B c2 |"Am6" z c B A |"F7" (3c A B c2 |"Am" z c B A |"Adim" c/ A c/"B7" B ^F | %23
+w: love is like this|each pre- cious|mo- ment we miss|will ne- ver|ev- er re- turn a-|
+"E""Adim" B4- |"G7" B G (3G F E |"Dm7" D2 c2- |"Fm6" c D"G7" (3D C D |"C" E4- | E2"Em" (3G E G | %29
+w: gain.|* So don't let us|throw one|* sweet mo- ment a-|way|* TIME WAITS FOR|
+"Am" c2 c2- |"D7" (3c c e"G7" (3d c d |1"C""C#dim" c4 ||"Dm" z2"G7" (3G F E :|2"C" c4- || %34
+w: NO ONE|* let's take love while we|may|TIME WAITS FOR|may.|
+ c2- c z |] %35
+w: |
+

@@ -1,0 +1,24 @@
+X:1
+T:Time After Time
+T:Time After Time
+C:Jules Styne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cmaj7" E2"Am7" C3/2 D/ |"Dm7" C3"G7" D |"Cmaj7" E A"Am7" G E |"Dm7" C3"G7" D |"Cmaj7" E B A E | %5
+w: Time af- ter|time I|tell my- self that|I'm so|luck- y to be|
+"Am7" D3 C |"Bm7b5" D4- |"E7b5" D3 E |"Am" c2 A3/2 B/ |"F#m7b5" A3"B7b9" B |"Em7" A G ^F G | %11
+w: lov- ing|you.|* So|luck- y to|be the|one you run to|
+"A7b9" E2 ^A =A |"Dm7" G F E F |"Em7b5" G3"A7b9" F |"D9" D4- | D"G9" B, C"G7b9" D | %16
+w: see, In the|eve- 'ning when the|day is|through|* I on- ly|
+"Cmaj7" E2"Am7" C3/2 D/ |"Dm7" C3"G7" D |"Cmaj7" E A"Am7" G E |"Dm7" C3"G7" D |"Cmaj7" E B A E | %21
+w: know what i|know the|pass- ing year will|show. You've|kept my love so|
+"Gm7" D3"C7" C |"Fmaj7" c4- |"Fm7" c3"Fm6" c |"C6/G" e2 c3/2 d/ |"F#m7b5" c3"Fm6" d | %26
+w: young s|new|* And|time af- ter|time You'll|
+"Em7" d e"Am7" c3/2 d/ |"D9" c3"D7" d |"C6/G" d e"Am7" c d |"Dm7" c2"G7b5" d2 |"C6" c4 |] %31
+w: hear me say that|I'm so|luck- y to be|lov- ing|you.|
+

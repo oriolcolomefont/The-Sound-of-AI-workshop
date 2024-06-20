@@ -1,0 +1,29 @@
+X:1
+T:Christmas Alphabet
+T:Christmas Alphabet
+T:Buddy Kaye & Jules Loman
+C:Buddy Kaye & Jules Loman
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G>GG>E"Am" A>BA>E |"C" G>GG>E"Am" A4 |"C" G>GG>G"D#dim" A>AB>B |"G9" A>GF>E D4 | %4
+w: "C" is for the Can- dy trimmed a-|round the Christ- mas tree.|"H" is for the Hap- pi- ness with|all the fam- i- ly.|
+"Dm" A>AA>F"G7" B>cB>F |"Dm" A>AA>F"G7" B4 |"Dm7" A>AA>A"G7" B>dB>A |"C" G>A"C#dim"G>A"G7" G>A G2 | %8
+w: "R" is for the Rein- deer pranc- ing|by the win- dow pane.|"I" is for the Ic- ing on the|cake as sweet as su- gar cane.|
+"C" c>cc>c"C7" _B B3 |"F" A>c"Bb"F>G"F" A4 |"D" d>dd>d"D7" c3 c |"G7" B>B"F"c>^c"G7" d4 | %12
+w: "S" is for the Stock- ing|on the chim- ney wall.|"T" is for the Toys be-|neath the tree so tall.|
+"C" G>GG>E"Am" A>BA>E |"C" G>GG>E"A9" B4 |"F6" A>AA>F"E7" B>BE>E |"Am" c>c"E7"B>B"C7" c4 | %16
+w: "M" is for the Mis- tle- toe where|ev- 'ry- one is kissed.|"AQ" is for the An- gels who make|up the Christ- mas list.|
+"F" d>dd>c"Fm" e>dc>B |"C" d>cd>c"A9" B3 E |"Dm" (3DDD"A7" E>E"Dm" (3FFF"A7" G>G |1 %19
+w: "S" is for old San- ta who makes|ev- 'ry kid his pet. Be|good and he'll bring you ev- 'ry- thing in your|
+"Dm7" A>F"G7"B>G"C" c4 ||"Am7" c2 c>e"Cmaj7" B2 B>e |"Fmaj7" A2 D2"G7sus4" G2"G7" B,2 :|2 %22
+w: CHRIS- MAS AL- PHA- BET.|||
+"Dm7" A>F"G7"B>G"C" c4 |] %23
+w: CHRIST- MAS AL- PHA- BET.|
+

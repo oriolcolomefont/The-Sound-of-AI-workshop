@@ -1,0 +1,26 @@
+X:1
+T:Goodbye, Hawaii
+T:goodbye,hawaii
+T:leon towers robons
+T:dave apollon
+C:Dave Apollan
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"Ab" c2"Db" A d |"Ab" c2"Db" A d |"Eb7" c2 E B |"Ab" c4 | c2"Db" A d |"Ab" c2"Db" A d | %6
+w: Is land of|dream's there's a|tear in my|heart,|is land of|dreams, it is|
+"Eb7" c2 E B |"Ab" A4 |"Db" A2 A A | A A A F |"Ab" E4- | E4 |"Bb7" A2 A A | A A c A |"Eb7" B4- | %15
+w: time to de-|part,|tho' hon- o-|lu- la I am|blue||my hon- a-|lu- lu i'll be|true|
+ B4 |"Ab""^chorus" c4 |"Ddim" B3 B |"Ab" c2 A2- | A2"Ab7" A2 |"Db" A3 G | B B A F |"A" E4- | E3 E | %24
+w: |good-|bye, ha-|wa- ii,|* good-|bye, my|isle of par- a-|dise|* I'll|
+"Eb7" B3 B | d3 c |"Ab" c B A2- | A3 A |"Eb7" B3 B | d2 G2 |"Ab" A4- | A3 E | c4 |"E" B3 B | %34
+w: keep a|lo ha's|mem- o- ry,|* to|guide me|on my|way|* re-|mem-|ber, ha-|
+"Eb" c2 A2- | A2"Ab7" A2 |"Db" A3 G | B B A F |"Ab" E4- | E3 E |"Eb7" B3 B | d3 c |"Ab" c2 A2- | %43
+w: wa- ii|* my|love is|love that nev- er|dies,|||||
+ A3 E |"Eb7" B3 B | d2 G2 |"Ab" A4 |] %47
+w: ||||
+

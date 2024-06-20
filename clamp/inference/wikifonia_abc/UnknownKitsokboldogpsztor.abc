@@ -1,0 +1,17 @@
+X:1
+T:Kit sok boldog pásztor
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=80
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"F" f>f"C" ed c"F"c | AB"C" c4 |"C" C>E G>E"F" F-G | A"G"G<D"C"E- FG |"F" F-E D"Am"C>A,"G"B,/G,/ | %5
+w: ||Kit sok bol- dog pász- *|tor di- csér, hall- * ván|an- * gyal é- gi hír- ét.|
+"C" E>F G>A"G" G>D |"C" E<C"F" F>F"C" E-D | C"F"C- A,B,"C" C2 |] %8
+w: Fél- ni töb- bé nin- csen|mi- ért, itt a Meg- *|vál- tó- * Ki- rály.|
+

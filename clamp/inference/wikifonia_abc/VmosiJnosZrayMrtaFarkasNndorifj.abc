@@ -1,0 +1,19 @@
+X:1
+T:Homokóra
+T: 
+C:Vámosi János, Záray Márta
+Z:All Rights Reserved
+L:1/8
+Q:1/4=100
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" GGCC E2 G2 |"Fm" F2 AG F4 |"Cm" E2 DC"G" E2 DC | =B,3 D"Cm" C4!fine! :|"Cm" cBAG cBAG | %5
+w: Ü- lök a szo- bá- ban|búsan, e- gye- dül,|és a fá- jó múlt- ra|gon- do- lok.|Sze- ret- ném a ho- mok- ó- rát|
+"Fm" FFFG A4 | FFFG BcGF |"Cm" EEEF G4!D.C.! ||"Cm" cBAG cBAG |"Fm" A8 | FFFG BcGF |"Cm" G8 | %12
+w: meg- ál- lí- ta- ni,|sze- ret- ném az em- lé- ke- im|el- fe- lej- te- ni,|Nem tud- om, hogy el- hi- szed- e|még,|hogy fá- jó- szí- vem ö- rök- ké|tiéd,|
+"Fm" FFFG ABGF |"Cm" EDEF GEDC |"Fm" FEDC FEDC |"G" D8 |] %16
+w: Ál- ma- im- ban té- ged lát- lak,|két ka- rom- ba té- ged zár- lak,|nem tu- dom, hogy el- hi- szed- e|még.|
+

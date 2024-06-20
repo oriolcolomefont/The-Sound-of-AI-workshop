@@ -1,0 +1,31 @@
+X:1
+T:You Call it Madness (But I Call it Love)
+T:You Call it Madness
+T:Con Conrad, Glladys DuBois, Russ Columbo & Paul Gregory, 1931
+T:(But I Call It Love)
+C:Con Conrad, Glladys DuBois, Russ Columbo & Paul Gregory 1931
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Moderately" z2 D2 E2 G2 |:"C" B3 A B3 A |"Cm" c2 c4"D7" B2 |"G" A3 G"D7" A3 G |"D7" F6 z E | %5
+w: I can't for|get the night I|met you that's|all I'm think ing|of and|
+"Am" E3 F"Bdim" E3 D |"D7" A2 A4 B2 |"G" G2 G4"C6" G2 |"G" G z D2 E2 G2 |"C" B3 A B3 A | %10
+w: now you call it|mad ness but|I call it|love you made a|pro mise to be|
+"Cm" c2 c4"D7" B2 |"G" A3 G"D7" A3 G |"D7" F6 z D |"Am" E3 F"Bdim" E3 D |"D7" A2 A4 B2 | %15
+w: faith ful to|all the stars a|bove and|now you call it|mad ness but|
+"G" G2 G4"C6" G2 |"G" G z z2 z2 z2 |"Fm6" z3/2 d<dd/"G7" d G3 | z3/2"Fm6" d<dd/"G7" d G3 | %19
+w: i call it|love|my heart is beat ing|it keeps re peat ing|
+"C" d2 c2"E7" e2 B2 |"Am" A8 |"Fm6" z3/2 B<BB/"G7" B E3 | z3/2"Dm6" B<BB/"E7" B E3 | %23
+w: for you con stant|ly|you're all I'm need ing|and so I'm pead ing|
+"Dm6" B2 A2"E7" c2 G2 |"Am" A z D2 E2 G2 |"C" B3 A B3 A |"Cm" c2 c4"D7" B2 |"G" A3 G"D7" A3 G | %28
+w: please come back to|me you made a|play thing out of|ro mance what|do you know of|
+"D7" F6 z D |"Am" E3 F"Bdim" E3 D |"D7" A2 A4 B2 |"G" G2 G4"C6" G2 |1,2"G" G z D2 E2 G2 :|3 %33
+w: love that's|why you call ot|mad ness but|I call it|love I can't for|
+ G4- G z z2 |] %34
+w: love _|
+

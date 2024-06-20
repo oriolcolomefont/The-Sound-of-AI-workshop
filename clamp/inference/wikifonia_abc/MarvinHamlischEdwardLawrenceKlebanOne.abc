@@ -1,0 +1,28 @@
+X:1
+T:One
+T:One
+C:Marvin Hamlisch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Eb" D2 z2 z4 | D>^CD>C D G3 |"A7" ^C=B,CB, C2 GC- | C8 |"Eb" D2 z2 z4 |"Eb" D>^CD>C D G3 | %6
+w: One|sin- gu- lar sen- sa- tion|ev- 'ry lit- tle step she takes.|_|One|thril- ling com- bi- na- tion|
+"Bbm/G" B2 B2 (3B2 =A2 _A2 |"C7" G8 |"Cm6/Eb" z2 =A2 A2 A2 |"D7" =A>^F=E>D- D>F A2 | %10
+w: ev- 'ry move that she|makes.|One smile and|sud- den- ly no- * bo- dy|
+"Gm" B4"D7" =A4 |"Gm" G6 z2 |"Bm/G#" z2 =B2 B2 B2 |"C#7" =B>^G^F>=E- E>F G2 |"F#m" =A4"C#7/E" =B4 | %15
+w: else will|do.|You know you'll|nev- er be lone- * ly with|you know|
+"A7/E""E7" ^c8 |"^EbMASJ" d6 z2 | D>^CD>C D G3 |"A7" ^C=B,CB, C2 GC- |"A7" C8 | %20
+w: who.|One|mo- ment in her pre- sence|and you can for- get the rest.|_|
+"Ab" G>^FG>F G c2 G- |"Am7b5" G4"D7" =A4 |"Gm" B6 z2 |"G7" =B6 z2 |"C9" d2 z2 d2 z2 | %25
+w: for the girl is se- cond best|_ to|none.|son.|Oooh! sigh!|
+"F7" d>^cd>c"Bb7" d =c3 |"Gm7" d2 z2 d2 z2 |"C7" d>^cd>c d =c3 |"F7" e8 |"Bb7" d8 |"Eb" e8 |: %31
+w: give her your at- ten- tion.|Do I|real- ly have to men- tion|she's|the|one!|
+"Ebmaj7" d2 d>^c d2 d>c | d2 d>^c d>cd>=c |"Fm7" e2 e>d e2 e>d | %34
+w: |||
+ e2 e>^c d>"^Repeat and fade"cd>=c :| %35
+w: |
+

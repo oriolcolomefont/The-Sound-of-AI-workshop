@@ -1,0 +1,48 @@
+X:1
+T:SUMMER OF LOVE
+C:B52's
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Fm7" FAec z4 | FAfe c2 z2 |"Cm6" e8 | z2 z2 z2 z2 |"Fm7" FAec z4 | FAfe c2 z2 |"Cm7" c8 | z8 | %8
+w: ||||||||
+w: ||||||||
+"Fsus4""_VERSE1" [FB]2 [FB][FB] [FB]"Fm7"[EA] z2 |"Fm" z2 FE FEFE- |"Cm11" F8- | F4 z4 | %12
+w: |I've been wait in' for the|man|_|
+w: ||||
+"Bbm7" z2 F>F- (3:2:2F2 E- EF | FF F2 z4 |"Fsus4" [FB]2 [FB][FB] [FB]"Fm7"[EA] z2 | %15
+w: Just buzz _ in' _ ar|ound _ _|_ _ _ _ _|
+w: |||
+ z2 z/ F/F F2 F2 | z4 z2 FE | F2 EF- FEFE- |"Cm7" E4 z4 | z2 F2 F2 E2 |"Bbm7" FFEF- Fc- B2- | %21
+w: Down _ town _|Wait in'|for that ve _ ry SPE CIAL|_|Comes in to|see what I've got _ _ _|
+w: ||||||
+ B4 z4 |:"Fsus4""_CHORUS" [FB]2 [FB][FB] [FB]"Fm7"[EA] z2 | ccBA BAAB |"Cm7" B8 | %25
+w: _||Or ange pop sic les and lem on|ade|
+w: ||||
+[K:F]"Cm6" z2 AA AA B2 |"F" A2 G2 F4 | z2 AA A2 AB |"Cm7" A2 G2 F3 F | cc B2 z B3 |"F" A2 A6 | %31
+w: Its the SUM MER OF|LOVE, LOVE, LOVE|I'm in love with the|LOVE, LOVE, LOVE for|ev' ry one tran|scends YOU|
+w: ||||||
+ z2 (3:2:2z2 A AAAA- |"Cm7" A-B/-A/ G2- G3 d- |"Cm9" d4 z2 z c |"F" cc c2 z2 z B | %35
+w: I'm think ing of you|_ _ _ _ _ "BOY!"|_ Love|en er gy IS|
+w: ||||
+"Ab" z2 _AB cc c2 |"Cm7" z4 z2 _AB | c2 z c cB _c2- | c2- B4- _e2- | d2- B4- _A-G- |"Cm7" G_E- E6 | %41
+w: giv ing us a shove|mak in'|this the SUM MER OF|L O V|E _ _ _|_ _ _|
+w: ||||||
+ z4 z2 _A2 |"Gb7" _A4 z4 | z2 _A2 A2 A2 |"Ab" _A2 A2 A2 z2 | %45
+w: I|see|I see no|clouds a head!|
+w: ||||
+[K:Ab]"Fsus4" [FB]2 [FB][FB] [FB]"Fm7"[EA] z2 |"_VERSE2\n" z2 F2 FEFE |"Cm7" F8- | F4 z4 | %49
+w: ||||
+w: |I'm stand in' in the|rain|_|
+"Bbm7" z2 FF- FEFF- | F2 EF- F>E- E/F/E |"Fsus4" [FB]2 [FB][FB] [FB]"Fm7"[EA] z2 | %52
+w: |||
+w: Just feel _ in' the nit|_ ty grit _ ty _ of the|_ _ _ _ _|
+"Fm" z2 F2 F2 z2 | z4 z2 FE | F2 EF FEFE- |"Cm7" E4 z4 | z2 F2 F2 E2 |"Bbm7" FFEF- F-c- B2- | B8 :| %59
+w: |||||||
+w: whole thang|Ev' ry|thing is ve _ ry SPEC IAL|_|Look in and|see waht I've got _ _ _|_|
+

@@ -1,0 +1,51 @@
+X:1
+T:Beyond the Sea
+T:Charles Trenet
+T:Jack Lawrence
+C:Charles Trenet
+Z:Creative Commons BY-NC-SA
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F69" C |:"F""^A" F2-"Dm7" F2 |"Gm7" F2"C7" (3E F G |"F69" A3"Dm7" F |"Gm7" G2"C7" (3E D C | %5
+w: Some-|where *|* be- yond the|sea some-|where wait- ing for|
+w: |||||
+"F69" A2-"A7" A2- |"Dm" A2"Gdim7/Db" (3G A B |"F69/C" c3/2 F/"F7" F3/2 F/ |"Bb" d2-"D7/A" d2- | %9
+w: me *|* my lov- er|stands on gold- en|sands *|
+w: ||||
+"Gm6" d"^/" d"C7" (3c"Dbdim7" A G |"Dm6" F2"G7" D F |"Gm7" G4 |"C7" C2 z"Gm7" C |"F" F2-"Dm7" F2- | %14
+w: * and watch- es the|ships that go|sail-|ing Some-|where *|
+w: |||||
+"Gm7" F2"C7" (3E F G |"F69" A3"Dm7" F |"Gm7" G2"C7" (3E D C |"F69" A2-"A7" A2- | %18
+w: * be- yond the|sea {He's}|there watch- ing for|me *|
+w: |* {She's}|||
+"Dm" A2"Gdim7/Db" (3G A B |"F69/C" c3/2 F/"F7" F3/2 F/ |"Bb" d2-"D7/A" d2- | %21
+w: * if I could|fly like birds on|high *|
+w: |||
+"Gm6" d d"C7" (3c"Dbdim7" A G |"Dm6" F2"G7" D F |"Gm7" G2-"C7" G2 |"F69" F2"E7" z E | %25
+w: * then straight to {his}|arms I'd go|sail- *|ing It's|
+w: * * * * {her}||||
+"A69""^B" A2-"F#m7" A2- |"Bm7" A2"E7" (3^G A =B |"A69" ^c3"F#m7" A |"Dm7" =B2"E7" (3^G ^F E | %29
+w: far *|* be- yond a|star it's|near be- yond the|
+w: ||||
+"A69" E4- | E2"G7" z G |"C69" c2-"Am" c2- |"Dm7" c2"G7" (3=B c d |"C69""Am7" e3 c | %34
+w: moon|* I|know *|* be- yond a|doubt, my|
+w: |||||
+"Dm7" d3/2 =B/"G7" (3B A G |"C69" c2- c2- |"Gm7" c z"C7" z C |"F69""^C" F2-"Dm7" F2- | %38
+w: heart will lead me there|soon *|* we'll|meet *|
+w: ||||
+"Gm7" F2"C7" (3E F G |"F69""Dm7" A3 F |"Gm7" G2"C7" (3E D C |"F69" A2-"A7" A2- | %42
+w: * be- yond the|shore we'll|kiss just as be-|fore *|
+w: ||||
+"Gm7" A2"Gdim7/Db" (3G A B |"F69/C" c3/2 F/"F7" F3/2 F/ |"Bb69" d2-"D7/A" d2- | %45
+w: * hap- py we'll|be be- yond the|sea *|
+w: |||
+"Gm6" d"^/" d"C7" (3c"Dbdim7" A G |"Dm6" F2"G7" D F |"Gm7" G2-"C7" G2 |"F" F2"Gm7" z"C7" z :| %49
+w: * and nev- er a-|gain I'll go|sail- *|ing|
+w: ||||
+

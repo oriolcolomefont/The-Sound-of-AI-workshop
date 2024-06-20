@@ -1,0 +1,42 @@
+X:1
+T:Good Night
+T:Good Night
+C:Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Gmaj7""^Intro" F3 G"Am/G" F3 G |"Gmaj7" F6"Am/G" z2 |"G" G3 A"Am/G" G3 A |"G""Am/G" G4 z4 | %4
+w: ||||
+w: ||||
+"G" G3 D"Bm7" A3 D |"Am7" G3 d"C/D" G2"D7" A2 ||"G" G3 D"Bm7" A3 F |"Am7" G3 C"Cmaj7" E4 | %8
+w: ||Now it's time to|say good night;|
+w: ||||
+"Bm7" F4"Am7" E4 |"C/G" E4"D7/F#" D4 |"G" G3 D"Bm7" A3 F |"Am7" G3 C"Cmaj7" E4 |"Bm7" F4"Am7" E4 | %13
+w: good night|sleep tight.|Now the sun turns|out his light;|good night|
+w: |||||
+"C/G" E4"D7/F#" D4 |"Gmaj7" F3 G"Am/G" F3 G |"Gmaj7""Am/G" F8 |"G" G3 G"C/G" G3 G |"G" G4"C/G" z4 | %18
+w: sleep tight.|Dream sweet dreams for|me.|Dream sweet dreams for|you.|
+w: |||||
+S"G" G3 D"Bm7" A3 F |"Am7" G3 C"Cmaj7" E4 |"Bm7" F4"Am7" E4 |"C/G" E4"D/F#" D4 | %22
+w: Close your eyes and|I'll close mine.|Good night,|sleep tight.|
+w: ||||
+"G" G3 D"Bm7" A3 F |"Am7" G3 C"Cmaj7" E4 |"Bm7" F4"Am7" E4 |"C/G" E4"D/F#" D4 | %26
+w: Now the moon be-|gins to shine,|good night|sleep tight.|
+w: Now the sun turns|out his light,|||
+"Gmaj7" F3 G"Am/G" F3 G |"Gmaj7" F4"Am/G" z4 |"G" G3 G"C/G" G3 G |"G""C/G" G8!dacoda! | %30
+w: Dream sweet dreams for|me.|Dream sweet dreams for|you.|
+w: ||||
+"G" G3 D"Am" A4 |"A" A3 E"Dm" A4 |"G7" G3 G"C" A G2 E/G/ |"D7/F#" D4"D7" z4!D.S.! |] %34
+w: Mm * *|mm * *|mm * * * * *|mm|
+w: ||||
+O"G" G3 D"Bm7" A3 D |"Am7" G3 d"C/D" G2"D7" A2 |"G""_(Whispered)" z FFF/F/"Bm7" F/F/ z z2 | %37
+w: ||Good night ev- 'ry- bod- y|
+w: |||
+"Am/G" F/F/F/F/ F/F/F/ z/ z2"D7" z F |"G" F4 z4 |] %39
+w: ev- 'ry bod- y ev- 'ry- where good|night.|
+w: ||
+

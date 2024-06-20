@@ -1,0 +1,31 @@
+X:1
+T:Pass Me By
+T:Pass Me By
+T:From movie "Father Goose"
+T:Cy Coleman
+T:Carolyn Leigh
+C:Cy Coleman
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" B,3 EFG |"A7" B2 G E2 C |"D" D3"Ebdim" F2 B |"A7" A z C B,2 _B, |"D" A,3 D3 | F3 A3 | %6
+w: |||* I've got me|ten fine|toes to|
+ B2 c B2 A | F6 | B2 c B2 A | F3"D#dim" A3 |"A7" B2 c B2 A | G2 E CB,_B, | A,3 C3 | E3 G3 | %14
+w: wig- gle in the|sand.|Lots of i- dle|fin- gers|snap to my com-|mand. A liv- e- ly|pair of|heels that|
+ B2 c B2 A | G6 |"E7" B3 c3 | B3 ^A3 |"A7" B2"^tacit" c B2 F | A2 G E2 C |"D" A,3 D3 | F3 A3 | %22
+w: kick to beat the|band.|Con- tem|plat- in'|na- ture can be|fas- ci- nat- in'.|Add to|these a|
+ B2 c B2 A | F6 | B2 c B2 A | F3"D7" A3 |"G" d6- | d2 D D2 E |"C#7" =F3 ^G3 | c3 B2 _B | %30
+w: nose that I can|thumb,|And a mouth by|gum have|I|* To tell the|whole darn|world if you|
+"D7" A3"C#7" ^GA^A |"Cmaj7" B2 F"B+7" G2 B |"Em" B,3 E2 G |"A7" B2 G E2 C |"D" D6- | %35
+w: don't hap- pen to|like it deal me|out thank you|kind- ly Pass Me|By.|
+ D2 z"D11" G2 A |"G" B6 |"A/G" e3 c2 B |"D/F#" A3"F#7" ^A3 |"B7" B3 G2 B |"Em" B,3 EFG | %41
+w: * Pass Me|By|* Pass Me|By- y-|y. If you|don't hap- pen to|
+"A7" B2 G E2 C |"D""G" D6- |"D" D2 z d z z |] %44
+w: like it Pass Me|By>-||
+

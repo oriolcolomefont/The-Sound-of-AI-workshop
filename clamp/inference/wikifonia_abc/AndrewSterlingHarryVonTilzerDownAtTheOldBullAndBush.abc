@@ -1,0 +1,23 @@
+X:1
+T:Down At The Old Bull And Bush
+T:Down At The Old bull And Bush
+T:Andrew Sterling & Harry Von Tilzer
+C:Andrew Sterling & Harry Von Tilzer
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c3 | c3 | c B A | G A c |"G7" B B B | B B B | B D E | F E D |"G7" B3 | B3 | B A G | F G B | %12
+w: Come,|come,|come and make|eyes at me,|Down At The|Old Bull And|Bush. * *||Come,|come,|drink some port|wine with me|
+"C" A A A | c c c | G3- |"G7" G2 z |"C" c3/2 c/ d/e/ |"F" d c A |"G7" G3/2 A/ G/F/ |"C" E C C | %20
+w: Down At The|Old Bull And|Bush.||Hear the lit- tle|Ger- man band,|||
+ c d e |"F" d c A |"C" c3- | c2 z | E3 | E3 | G3/2 A/ G/F/ | E G c |"Dm" D E F |"G7" G A B | %30
+w: Just let me|hold your hand|dear.||Do,|do,|come and have a|drink or two,|Down At The|Old Bull And|
+"C" c z"G7" G |"C" c z z |] %32
+w: Bush. *||
+

@@ -1,0 +1,19 @@
+X:1
+T:Washington Square
+C:Bobb Goldsteinn, David Shire
+Z:Creative Commons BY-NC-SA
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ EE |"Em" _B =B3"B7" AGEE |"Em" _B =B3"B7" AGEB, |"Em" E2 B2 B3 A |"Em" B A2 G4- G | %5
+"Em" E2 E2 GEGB- |"G" B6 z B, |"Em" E2 B2 B3 A |"Em" B A2 G4- G |"C7" E2 E2"D7" FEDE- |"Em" E6 B2 | %11
+"G" d3 d B2 d2 |"Em" e d2 B4- B |"C7" E2 E2 GEGB- |"B7" B6 B2 |"G" d3 d B2 d2 |"Em" e d2 B4- B | %17
+"C7" E2 E2"D7" FEDE- |"Em" E8 |:[K:Ab]"^Move up a half step each repeat""Fm" z4"C7" z4 | %20
+"Fm" F2 c2 c3 ^A |"Fm" c ^A2 ^G4- G |"Fm" F2 F2 ^GFGc- |"Ab" c6 z C |"Fm" F2 c2 c3 ^A | %25
+"Fm" c ^A2 ^G4- G |"Db7" F2 F2"Eb7" GF^DF- |"Fm" F6 c2 |"Ab" ^d3 d c2 d2 |"Fm" f ^d2 c4- c | %30
+"Db7" F2 F2 ^GFGc- |"C7" c6 c2 |"Ab" ^d3 d c2 d2 |"Fm" f ^d2 c4- c |"Db7" F2 F2"Eb7" GF^DF- | %35
+"Fm" F8 :| %36
+

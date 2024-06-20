@@ -1,0 +1,32 @@
+X:1
+T:The Night Has A Thousand Eyes
+T:The Night Has A Thousand Eyes
+C:Jerry Brainin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |"Gmaj7" A A A3/2 A/ | A2 F3/2 D/ |"Am7" E4- |"D7" E3 D |"Gmaj7" A A A A | B3 F/D/ | %7
+w: Don't|whis- per things to|me you don't|mean,|_ for|words deep down in-|side can be|
+"Am7" E C/A,/ D2- |"D7" D3 D |"Dm7" d4- |"G7b9" d c/B/ c d |"Cmaj7" B4- |"F7" B3 A/G/ | %13
+w: seen my the night.|_ The|night|_ has a thou- sand|eyes|_ and it|
+"Gmaj7" F F F F |"D7" F D C D |"G" G4- |"Am7""D7" G3 D |"Gmaj7" A A A3/2 A/ | A2 F3/2 D/ | %19
+w: knows a truth- ful|heart from one that|lies.|_ Tho'|ro- mance may have|called in the|
+"Am7" E4- |"D7" E3 D |"Gmaj7" A A A A | B3 F/D/ |"Am7" E C/A,/ D2- |"D7" D3 D |"Dm7" d4- | %26
+w: past,|_ my|love for you will|be ev- er-|last- ing and bright.|_ As|bright|
+"G7b9" d c/B/ c d |"Cmaj7" B4- |"F7" B3 A/G/ |"Gmaj7" F F F F |"D7" F D C D |"G" G4- | G3 G || %33
+w: _ as the star- lit|skies|_ and this|wond- 'rous night that|has a thous- and|eyes.|_ I've|
+"Cm7" _B3/2 B/ B2- | B _B/B/"F+7" _d3/2 c/ |"Bbmaj7" A4- | A2 =F =F |"Bbm7" _A A A A | %38
+w: lived my life|_ walk- ing thru a|dream.|_ For I|knew that I would|
+ _A A"Eb+7" _c/ _c _B/ |"Abmaj7" G4- | G3 _E |"Am7" G G G2- |"D7sus4" G G A3/2 G/ |"Gmaj7" d4- | %44
+w: find this mo- ment su-|preme.|_ A|night of bliss|_ and ten- der|sighs|
+"Em7" d3 D/D/ |"Am7" D D D2- |"D7" D F/D/ C D |"Gmaj7" G4- | G3 D |"Am7" D4- |"D7" D F/D/ C D | %51
+w: _ and the|smil- ing down|_ of a thous- and|eyes.|_ The|night|_ has a thous- and|
+"G" G4- | G z z2 |] %53
+w: eyes.|_|
+

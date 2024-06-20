@@ -1,0 +1,33 @@
+X:1
+T:Marcheta
+T:Marcheta
+T:Victor L. Schertzinger
+C:Victor Schertzinger
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ e2 |"C" g2 g3 e |"Am" a2 a2 e2 |"G7/D" g2 g3 d |"G9" f2 f3 B |"G7" e2 e3 G |"G9" d2"G7" d3 G | %7
+w: |||||||
+w: |||||||
+"C" c2 e2 g2 | c'2 z2 E2 || G2 G3 E |"Am" A2 A2 E2 |"G7/D" G2 G3 D |"G9" F2 F3 B, |"C" E2 E3 G, | %14
+w: |* Mar-|che- ta, Mar-|che- ta, I|still hear you|call- ing me|back to your|
+w: |* Mar-|che- ta, Mar-|che- ta, in|dreams I can|see you, your|sweet face with|
+"G7" D2 D3 B, |"C" A,6 |"G7" G,4 z E |"C" G2 G3 E |"Am" A2 A2 E2 |"G7/D" G2 G3 D |"G9" F2 F3 B, | %21
+w: arms once a-|gain.|* I|still feel the|spell of your|last kiss up-|on me, Since|
+w: love all a-|glow.|* Youe|voice, like soft|mus- ic, still|ech- oes a-|round me As|
+"G7" E2 E3 G, |"G9" D2"G7" D3 G, |"C" C6- | C2 z2 z2 |"Am" c2 c3 E |"Em" B2 B3 E | %27
+w: then, life, has|all been in|vain.||All has been|sad- ness with-|
+w: in the old|days long a-|go.||Come back, come|back, dear, with|
+"Gbm7b5" A2 A3 A | c2 c3 c |"B7" B2 B2 B2 | ^F2 F3 F |"Em" B6- |"G7" B4 E2 |"C" G2 G3 E | %34
+w: out you Mar-|che- ta, Each|day finds me|lone- ly and|blue.|* My|poor heart is|
+w: you here, Mar-|che- ta, Then|life once more|joy- ful will|be,|* The|world's drear and|
+"Am" A2 A3 E |"G7/D" G2 G3 D |"G9" F2 F3 B, |"C" E2 E3 G, |"G7" D2 D3 G, |"C" C6- | C2 z2 z2 |] %41
+w: brok- en, I|want you, "Mar-|che- ta," I|need you, "Mar-|che- ta," I|do.-||
+w: lone- ly and|sun- less, Mar-|che- ta Your|love was life's|sun- shine to|me.-||
+

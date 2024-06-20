@@ -1,0 +1,18 @@
+X:1
+T:Kis kút, kerekes kút
+T:Kis kút, kerekes kút 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" c2 c2"G" dcBA |"C" G E3"G" F2 D2 |"C" C4 C2 z2 |"C" e e3 dcBc |"F" A F3 A2 c2 |"C" G4 G2 z2 | %6
+w: Kis kút, ke- re- kes kút|van az ud- va-|runk- ba,|De szép bar- na kis- lány|van a szom- szé-|dunk- ban,|
+"C" e2 e2 dcBc |"F" A2 F2 A c3 |"C" G4"G" E2 z2 |"C" ccBc"G" dcBA |"C" G2 E2"G" F2 D2 | %11
+w: Csal- fa sze- me- i- met|rá sem me- rem|vet- ni,|Fi- a- tal az é- des- any- ja,|azt is kell sze-|
+"C" C4 C2 z2 |] %12
+w: ret- ni!|
+

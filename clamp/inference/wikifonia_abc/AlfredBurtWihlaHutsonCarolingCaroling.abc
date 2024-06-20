@@ -1,0 +1,33 @@
+X:1
+T:Caroling, Caroling
+T:Caroling, Caroling
+C:Alfred Burt
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"G" DDD"Bm" DDD |"G" D2 D"Bm" D3 |"Am" E2"Bm" F"Am7" G2"D7" A |"Gmaj7" D3"Em7" E3 | %4
+w: 1.~Car o- ling, car- o- ling,|now we go,|Christ- mas bells are|ring- ing!|
+w: 2.~Car- o- ling, car- o- ling,|thru the town,|Christ- mas bells are|ring- ing!|
+"Bm" FFF"E6" FFF |"Bm7" F2 F"E6" F3 |"A7sus4" E2 E"A7" F2 E |"D" D3 D3 |"Am7" c2 B A2 G | %9
+w: Car- o- ling, car- o- ling,|thru the snow,|Christ- mas bells are|ring- ing!|Joy- ous voic- es|
+w: Car- o- ling, car- o- ling|up and down,|Christ- mas bells are|ring- ing!|Mark ye well the|
+"D7" F2 E D3 |"Bm7" d2 c B2 A |"Em7" G2 F E3 |"C" e3"G" d3 |"D7" c3"G" B3 | %14
+w: sweet and clear,|sing the sad of|heart to cheer.|Ding, dong,|ding, dong,|
+w: song we sing,|glad- some tid- ings|now we bring.|||
+"C6" A2"G" B"Am7" c2"D" F |"Gsus4" A3"G" G3 :|"G" DDD"Bm" DDD |"G" D2 D"Bm" D3 | %18
+w: Christ- mas bells are|ring- ing!|3.~Car o- ling, car- o- ling,|near and far,|
+w: ||||
+"Am" E2"Bm" F"Am7" G2"D7" A |"Gmaj7" D3"Em" E3 |"Bm" FFF"E6" FFF |"Bm7" F2 F"E6" F3 | %22
+w: Christ- mas bells are|ring- ing.|Fol- low- ing, fol- low- ing|yon- der star,|
+w: ||||
+"A7sus4" E2 E"A7" F2 E |"D" D3 D3 |"Am7" c2 B A2 G |"D7" F2 E D3 |"Bm7" d2 c B2 A |"Em7" G2 F E3 | %28
+w: Christ- mas bells are|ring- ing.|Sing we all this|hap- py morn.|"Lo the King of|heav'n is born!"|
+w: ||||||
+"C" e3"G" d3 |"D7" c3"G" B3 |"C6" A2"G" B"Am7" c2"D" F |"Gsus4" A3"G" G3 |] %32
+w: Ding, dong,|ding, dong,|Christ- mas bells are|ring- ing!|
+w: ||||
+

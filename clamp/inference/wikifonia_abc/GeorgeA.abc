@@ -1,0 +1,23 @@
+X:1
+T:The Yellow Ribbon
+T:The Yellow Ribbon
+T:George A. Norton
+C:George A. Norton
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A3 F | A3 F | A>B AG | F A2 A | DD DE | FF FA |"A7" AE"E7" EF |"A7" E3 z |"D" A3 F | A3 F | %10
+w: 'Round her|neck She|Wore A Yel- low|Rib- bon. She|wore it in the|win- ter and the|mer- ry month of|May.|When I|asked her|
+ A>B AG | F A2 A | DD DE | FA AG |"A7" F>E DE |"D" D z d>c |"G" B4- | B2 d>B |"D" A4- | A3 F/E/ | %20
+w: why the yel- low|rib- bon She|said "It's for my|lov- er who is|far, * far a-|way. Far a-|way|* Far a-|way"-|* She *|
+ DD DE | FF FD |"A7" E2 DC |"D" D z dc |"G" (B4 | B2) d>B |"D" A4- | A3 F/E/ | DD DE | FA AG | %30
+w: said "It's for my|lov- er who is|far, far a-|way. Far a-|way|* far a-|way"-|* She *|said "It's for my|lov- er who is|
+"A7" F>E DE |"D" D2 z2 |] %32
+w: far, * far a-|way."|
+

@@ -1,0 +1,22 @@
+X:1
+T:Just You, Just Me
+T:Just You, Just Me
+C:Jesse Greer
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z2"Em7b5" G2 |"A7" A4 |"Dm" z2"Dm7b5" F2 |"G" G4 |"C" z E E E |"F" E G"Fm" F2 | %6
+w: Just|you,|just|me,|Let's find a|co- zy spot,|
+"C" z E"D7" D/C/"G7" D |"C" C4 | z2"Em7b5" G2 |"A7" A4 |"Dm" z2"Dm7b5" F2 |"G" G4 |"C" z E E E | %13
+w: to cud- dle and|coo.|Just|us,|Just|we,|I've missed an|
+"F" E G"Fm" F2 |"C" z E"D7" D/C/"G7" D |"C" C4- | C z"Cdim" c2 |"Dm""G7" d4 |"F" z c A F | %19
+w: aw- ful lot,|my trou- ble is|you.|_ Oh,|Gee!|What are your|
+"Fm" E2 D2 |"C" z c G E |"G#dim" D2"Am" C2 |"D7" z B A B |"G" d B A"G7b9" _A |"C" z2"Gm6" G2 | %25
+w: charms for?|What are your|arms for?|Use your im-|ag- in- a- tion!|Just|
+"A7" A4 |"Dm" z2"Dm7b5" F2 |"G" G4 |"C" z E E E |"F" E G"Fm" F2 |"C" z E"D7" D/C/"G7" D | C4 |] %32
+w: You,|Just|me,|I'll tie a|lov- er's knot|'round won- der- ful|you!|
+

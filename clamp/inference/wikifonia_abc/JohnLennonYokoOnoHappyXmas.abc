@@ -1,0 +1,34 @@
+X:1
+T:Happy Xmas
+T:Happy Xmas
+C:John Lennon, Yoko Ono
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:A
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 z3 ABc |"A" c E2 z3 z2 E ABc |"Bm" B3 z3 z2 F Bcd |"E" d B2 z3 z2 E cec/B/ | %4
+w: So this is|Christ- mas and what have we|done? An- oth- er year|ov- er, a new one just *|
+"A" AFE z3 z2 A fff |"D" e d2 z3 z2 A def |"Em" e3 z3 z2 B ef=g |"A" f e2 z3 z2 A faf | %8
+w: be- * gun; And so this is|Christ- mas, I hope you have|fun the near and the|dear ones, the old and the|
+"D" (dB)A z3 z2 D BBB/B/ |"G" A =G2- G3 z2 G/G/ GAB |"A" A6 z2 A A=GF |"Em" E E2- E3"G" z2 E EDD | %12
+w: yo- u- ng. A mer- ry, mer- ry|Christ- mas * and a hap- py New|Year, Let's hope it's a|good one _ with- out an- y|
+"D" D6"E" z2 E ABc |"A" A E2 z3 z2 E ABc |"Bm" B3 z3 z2 F Bcd |"E" c B2 z3 z2 E cec/B/ | %16
+w: fear. And so this is|Christ- mas for weak and for|strong, the rich and the|poor ones, the road is so _|
+"A" A6 z2 A fff |"D" e d2 z3 z2 A def |"Em" e3 z3 z2 B/B/ ef=g |"A" f e2 z3 z2 A faf | %20
+w: long. And so, hap- py|Christ- mas for black and for|white, for the yel- low and|red ones, let's stop all the|
+"D" (dB)A z3 z2 D BBB/B/ |"G" A =G2- G3 z2 G/G/ GAB |"A" A6 z2 A A=GF |"Em" E E2- E3"G" z2 E EDD | %24
+w: fights. * * A mer- ry, mer- ry|Christ- mas * and a hap- py New|Year, let's hope it's a|good one _ with- out an- y|
+"D" D6"E" z2 E ccc |"A" c E2 z3 z2 E ABc |"Bm" B3 z3 z2 F Bcd |"E" d B2 z3 z2 E cec/B/ | %28
+w: fear. Amd so this is|Christ- mas and what have we|done? An- oth- er year|ov- er, a new one just *|
+"A" AFE z3 z2 A fff |"D" e d2 z3 z2 A def |"Em" e3 z3 z2 B ef=g |"A" f e2 z3 z2 A faf | %32
+w: be- * gun; And so this is|Christ- mas, I hope you have|fun the near and the|dear ones, the old and the|
+"D" dBA z3 z2 D BBB/B/ |"G" A =G2- G3 z2 G/G/ GAB |"A" A6 z2 A A=GF |"Em" E E2- E3"G" z2 E EDA, | %36
+w: yo- u- ng. A mer- ry, mer- ry|Christ- mas * and a hap- py New|Year, Let's hope it's a|good one _ with- out an- *|
+"D" D6 z6 |:"A" A3 G3 B3 A3 |"Bm" B3 ^A3 c3 B3 |"E" A3 G3 F3 G3 |"A" A3 G3 B3 A3 :| %41
+w: fear.|War is ov- er|if you want it,|war is ov- er|now. _ _ _|
+"A" A3 G3 B3 A3 |] %42
+w: now. _ _ _|
+

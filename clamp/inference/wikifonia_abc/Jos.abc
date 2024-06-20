@@ -1,0 +1,24 @@
+X:1
+T:There's Yes! Yes! In Your Eyes
+T:There's Yes! Yes! In Your Eyes
+T:Joseph A. Santly
+T:Cliff Friend
+C:Jos. H. Santly
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+ z2"^Bb7+5" B2 |"Eb" c2 B2- | B2 G2 |"Bb7" F2"Eb" E2- | E z"Gbdim" E F |"Fm7" E2"Bb7" D2 | F2 A2 | %7
+w: Your|lips tell|* me|no! no!|* but there's|yes! yes!|in your|
+ c4- | c z c"F+" ^c |"Bb7" d2 c2- | c2 A2 | G2 F2- | F z F G |"Eb" F2 E2 |"Bb7" G2 B2 | %15
+w: eyes.|* I've been|miss- in'|* your|kis- sin'|* just be-|cause I|was- n't|
+"^Ebma7" d4- | d B"Gbdim" c"Bb7" d |"Eb" e2"Eb7" E2- | E2 _d2 |"Ab" c2 E2- | E2 c2 | %21
+w: wise.|* I'll stop my|schem- ing|* and|dream- ing,|* 'cause|
+"Abm6" _c2 E2- | E2 _c2 |"Eb" B4- |"^Fmi7(b5)" B2 z"Bb7" B |"Eb" c2 B2- | B2"G7" G2 |"C7" d2 c2- | %28
+w: I rea|* a|lize:|* your|lips tell|* me|no! no!|
+ c z"Abdim" =B"C7/G" c |"F7" e2 c2 |"^Fmi7" c"Bb7" B3 |"Eb" e4- | e z z2 |] %33
+w: * but there's|yes! yes!|in your|eyes!||
+

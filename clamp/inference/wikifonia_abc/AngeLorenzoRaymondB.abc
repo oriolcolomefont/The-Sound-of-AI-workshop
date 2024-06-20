@@ -1,0 +1,26 @@
+X:1
+T:Sleepy Time Gal
+T:Sleepy Time Gal
+C:Ange Lorenzo, Raymond B. Egan
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" BAGE- E4 | z2 D2 E2"Eb7" _E2 |"D7" DFAc- c4- | c4- c2 z2 |"D7" cBdB- B4 | z2 F2 B2 F2 | %6
+w: Sleep- y time gal, *|you're turn- ing|night in- to day, _|_ _|Sleep- y time gal, *|You've danced the|
+"Gmaj7" AFAF- F4 |"G" z2 D2"F#7" E2"F7" _E2 |"E7" =E^GBd- d4 | z2"C#m" ^c2"Adim" =c2"E7" ^G2 | %10
+w: ev- 'ning a- way, *|Be- fore each|sil- ver- y star *|Fades out of|
+"A9" B8- | B2"A7" E2"F#m" F2"A7" G2 |"F#m" AFAF- F4 |"F#m" AFAF- FE F2 |"D7" A4- A z/ d<^cd/ | %15
+w: sight,|* Please give me|one lit- tle kiss, *|Then let us whis- * per "Good-|night." * It's get- tin'|
+"D7" c>AF>D E>D"D+"E>D |"G" BAGE- E4 | z2 D2 E2"Eb7" _E2 |"D7" DFAc- c4- | c8 |"D7" cBdB- B4 | %21
+w: late, and dear, your pil- low's wait- in';|Sleep- y time gal, *|When all your|dan- cin' is thru, *||Sleep- y time gal, *|
+"D7" z2 A2"B7" B2 F2 | AFA"Em"G- G4 | z2 G2"Cm6" A2"Gm" ^A2 |"A7" B=ABA- A4 | z2 G2 A2 B2 | %26
+w: I'll find a|cot- tage for you, *|You'll learn to|cook and to sew, *|What's more you'll|
+"G" eded-"Dm6" d4 |"E7" z2 E2"Dm" =F2"E7" E2 |"Am" cB A2"Cm6" cB A2 |"D7" cBAd- dA B2 |1 %30
+w: love it, I know, *|Whe you're a|stay- at- home play at home,|eight- o- clock, sleep- * y time|
+"G7" G4- G2"Gdim" z2 ||"D7""C""D7" z8 :|2"G" G8- || G4- G2 z2 |] %34
+w: gal. *||gal.||
+

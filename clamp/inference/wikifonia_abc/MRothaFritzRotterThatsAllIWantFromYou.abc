@@ -1,0 +1,25 @@
+X:1
+T:That's All I Want From You
+T:That's All I Want from You
+T:M Rotha (Fritz Rotter)
+C:M Rotha (Fritz Rotter)
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="A Little Love"
+%%MIDI program 0
+V:1
+"D""A7" z"A7" z4 A,DE |"D" F2- F"G"A"G" GFED |"D" F2- F"G"A"G" GFED |"A7" E2- EF EDCE | %4
+w: A~ lit tle~|love~ * that~ slow- ly grows~ and~|grows,~ * Not~ one~ that~ comes~ and~|goes,~ * That's all~ I~ want~ from~|
+"D""A7" D4-"A7" DAFE |"D" F2- F"G"A"G" GFED |"D" F2- F"G"A"G" GFED |"A7" E2- EF EDCE | %8
+w: you.~ * A sun- ny|day * with~ hopes~ up~ to~ the~|sky,~ * A kiss~ and~ no good-|bye,~ * That's~ all~ I~ want from~|
+"D""D7" D4-"D7" DBBA |"G" B2- B"Em7"G"Em7" FEFG |"D" A2- A"Bm7"F"Bm7" EDEF | %11
+w: you.~ * Don't let me~|down, * ~oh show me that you|care, * re- mem- ~ber when ~you|
+"G" G2- G"A7"E"A7" DCDE |"D""D7" F4-"D7" FBBA |"G" B2- B"A7"G"A7" FEFG | %14
+w: give * you al- so get~ your~|share.~ * Don't~ let me|down,~ * I have no~ time~ to~|
+"D" A2- A"Bm7"F"Bm7" EDB,D |"B7" F2- F"E7"E"E7" DB,CD |"A7" E4- EA,DE |"D" F2- F"G"A"G" GFED | %18
+w: waste.~ * To- mor- row~ might not~|come~ * so dream- ers~ dream to~|late.~ * A lit- tle~|love * that slow- ly~ grows~ and~|
+"D" F2- FA GFED |"A7" E- E2 F EDCE |"D" D8 | x8 | %22
+w: grows,~ * Not one that~ comes~ and|goes,~ * That's~ all~ I~ want from~|you.||
+

@@ -1,0 +1,18 @@
+X:1
+T:Alouette
+T:ALOUETTE
+C:Anonymous
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" F3 G A2 A2 |"C7" GFGA"F" F2 C2 | F3 G A2 A2 |"Gm7" GFGA"F" F4 | FGAB cc c2 | %5
+w: A- lou- et- te|gen- tille A- lou- et- te,|A- lou- et- te,|je te plu- me- rai.|Je te plu- me- rai la tête,|
+"C7" cdcB"F" AG F z |"C7" cc c2 CC C2 | cc c2 CC C2 | !fermata!c8 |"F" F3 G A2 A2 | %10
+w: Je te plu- me- rai la tête,|Et la tête, et la tête,|Et la tête, et la tête,|O!|A- lou- et- te,|
+"C7" GFGA"F" F2 C2 | F3 G A2 A2 |"C7" GFGA"F" F4 |] %13
+w: gen- tille A- lou- et- te,|A- lou- et- te,|je te plu- me- rai.|
+

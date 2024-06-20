@@ -1,0 +1,79 @@
+X:1
+T:You should get out more
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=160
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"_Intro" z d"^You should get out more""E7" c B |"D" A2 F2 | %2
+w: ||
+w: ||
+w: ||
+w: ||
+w: ||
+w: ||
+w: ||
+"G" B/G/ z"A7" c/"^Lyric and Music by Les Kettley"A/ z |"D" d4 |"_Verses" z C D E |"D" F4 | %6
+w: ||You sit a-|lone|
+w: ||||
+w: ||You can't watch|TV|
+w: ||||
+w: ||If you get|out|
+w: ||||
+w: ||We've found each|other|
+ z2 G F |"G" E4 | z2 C D |"A7" E4 | z G F E |"D" D4 | z2 F G |"D7" A2 F2- | F2 B A |"G" B4 | %16
+w: in your|room,|dream- ing|of|what might have|been,|you must|go out,|_ go out|soon,|
+w: ||||||||||
+w: night and|day,|what you|need-|is com- pan-|y|if you|stay in,|_ there's no|way,|
+w: ||||||||||
+w: you will|see,|there is|someone|look- ing for|you,|when you|meet him(her)|_ if it's|me,|
+w: ||||||||||
+w: at long|last,|two new|lives-|can now be-|gin,|lone- le-|ness is|_ in the|past,|
+ z d"E7" c B |"D" A2 F2- | F2"A7" c e |"D" d4-"_©  Les Kettley\n" |[K:G] d2"G9" e d | B A"G7" G2 | %22
+w: you must get|out more,|_ live your|dream.|_ _ _||
+w: ||||||
+w: you'll find that|com- pany,|_ or find|me.|_ _ _||
+w: ||||||
+w: then you have|found me,|_ I've found|you.|_ _ _||
+w: ||||||
+w: we won't get|out more,|_ we'll stay|in.|_ _ _||
+"^Chorus\n" E F"Am7" G/E/ z | E3 G |"^You should get out more""D7" F E"G" D2- | D4 | %26
+w: ||||
+w: ||||
+w: You should get out|more, there's|lots to see,|_|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+ E F"Am7" G/E/ z | E2 z F |"D7" G A"G" B2- |"G7" B4 | d c"C" B/G/ z | G2"Cm" B/G/ z | %32
+w: ||||||
+w: ||||||
+w: you should get out|more, you|might see me,|_|you should get out|more, get out|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ G2"G" B/G/ z | G2"A7" B/G/ z | G2"Am7" B/G/ z |1,2,3 G2"D7" B A | G A"G" G2- | G2 F G |"A7" A4- | %39
+w: |||||||
+w: |||||||
+w: more, get out|more, get out|more, get out|more, get out|more with me.|_ _ _||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+[K:D] A4"_©  Les Kettley\n" ||4"D7" A B =c2- || c4 | f2"G" g2- | g4 |] %44
+w: |||||
+w: |||||
+w: |or stay in|_|with me.|_|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+

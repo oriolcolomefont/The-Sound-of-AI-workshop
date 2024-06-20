@@ -1,0 +1,25 @@
+X:1
+T:Blessed Assurance
+T:Blessed Assurance
+T:unknown
+C:Fanny J Crosby
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^N.C." E D C |"C" G3 | G3 |"F" F G A |"C" G3- | G3 |1 G E G || c3 |1"G" B2 B ||"D7" A G ^F | %10
+w: Bles- sed as-|sur-|ance|Je- sus is|mine||O what a|fore-|taste of|glo- ry di-|
+w: Heir of sal-|va-|tion|pur- chase of|God||||||
+"G7" G3- | G3 :|2 C D E ||"Dm" F3 | D3 |"G7" C D B, |"C" C3- | C3 |"G7" G G G ||"C" c3 | G3 | %21
+w: vine||born of his|spir-|it|washed in his|blood.||This is my|sto-|ry|
+w: |||||||||||
+"F" A A A |"C" G3- | G3 |"^toCoda" G G G |"F" A3 |"C" c3 |"D7" B B A |"G" B3- |"G7" B z2 | %30
+w: this is my|song||prais- ing my|sav-|iour|all the day|long||
+w: |||||||||
+"^D.S.alCoda" B c d || C"^Coda" D E |"Dm" F3 | D3 |"G7" C D B, |"C" C3- | C3 |] %37
+w: this is my|prais- ing my|sav-|iour|all the day|long.||
+w: |||||||
+

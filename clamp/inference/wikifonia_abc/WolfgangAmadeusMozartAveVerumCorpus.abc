@@ -1,0 +1,32 @@
+X:1
+T:Ave Verum Corpus
+T:Ave Verum Corpus
+C:Wolfgang Amadeus Mozart
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D A, D E | F D F G | A2 (d F) |"Em/D" (A ^G) =G2 |"A7/C#" (G B) (A G) |"D" (G F) F2 |"A" E3 E | %7
+w: ||A- ve, _|A- * ve|ve- * rum _|Cor- * pus|na- tum|
+"D" F F"A7/C#" G G |"A7/D" (G2"D" F) F |"A" E4 | E3 A | (A"E7/B" ^G) G2 |"E/G#" (E"E" ^G2) B | %13
+w: de Ma- ri- a|Vir- * gi-|ne:|Ve- re|pa- * sum,|im- * mo-|
+"Fdim7" (B"F#m" A) A A |"E7/B" (d4- |"A7/C#" d c)"D" B A |"Esus4" (A2"E7" ^G) G |"A" A4 | %18
+w: la- * tum in|cru-|* * ce pro|ho- * mi-|ne;|
+"F#m" e d"A/E" e"B/D#" f |"A/E" A"E7" B3/2 E A/ | A E C E | A3 A | (A"Gdim7" _B) B2 | %23
+w: |||Cu- jus|la- * tus|
+"C7" (_B d) (=c B) | (_B"F" A) A2 |"G/F" G3 G |"C#dim/E" (G"Bb/D" _B)"A/C#" A"A7" G | %27
+w: per- * fo- *|ra- * tum|flu- xit|a _ qua et|
+"Bbdim7" (G2"A" =F/)E/"G#dim7" F |"A" E2 z2 |"D" ^F3 F |"G" (F E) (D G) | G3"A7" G | (G F) (E A) | %33
+w: san- * * gui-|ne;|E- sto|no- * bis _|prae- gu-|sta- * tum _|
+"F#m""Bm7" A4- | A G A"E/G#" B |"D/A" (F2"A" E3/2) F/ |"G/B" G2"^N.C" (G2 |"D7/A" d4- | %38
+w: mor-|* tis in ex-|a- * mi-|ne, mor-||
+"Gm/Bb" d2"Adim7" ^d2 |"E/G#" e B c =d |"A/G" c B/A/)"D/F#" d"G/B" G |"D/A" F2"A7" E3/2 E/ | %42
+w: ||* * * tis in|ex- a- mi-|
+"D" D2 F A- |"Bm7" A D"G" G2 |"A" E D"A7" E C |"D" D4 |] %46
+w: ne. * *||||
+

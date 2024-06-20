@@ -1,0 +1,22 @@
+X:1
+T:Doodle Doo Doo
+T:Doodle Doo Doo
+C:Art Kassel
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" GDGc- c2 B2 | BDGc- c2 B2 |"Em7" B^AB=A-"A7" A4 |"Em7" B^AB=A-"A7" A4 |"D7" ADFB- B2 A2 | %5
+w: Please play for me, _ that|sweet mel- o- dy _ called|doo- dle doo doo, _|doo- dle doo doo. _|I like the rest _ but|
+ ADFB- B2 A2 |"G6" AGAG-"G" G4 |"G6" AGAG-"G" G4 |"C" cBcE- E3 G | cBcd- d2 c2 |"G" B^ABD- D3 G | %11
+w: what I like best, _ is|doo- dle- doo doo _|doo- dle doo doo _|Sim- pl- est thing, _ There's|noth- ing much to _ it,|Don't have to sing, _ Just|
+ B^AB"E7"c- c2 B2 |"Em7" B^AB=A-"A7" A3 A |"Em7" B^AB=A-"A7" A3 B |"Am7" cdcB-"D7" B>_B A2 | %15
+w: doo- dle doo doo _ it.|I love it so _ Wher-|ev- er I go, _ I|doo- dle doo doo- * dle doo|
+"G" G6 z2 |] %16
+w: doo.|
+

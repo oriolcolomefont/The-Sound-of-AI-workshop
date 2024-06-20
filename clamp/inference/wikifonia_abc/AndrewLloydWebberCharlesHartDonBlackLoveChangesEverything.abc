@@ -1,0 +1,33 @@
+X:1
+T:Love Changes Everything
+T:Love Changes Everything
+T:From Aspects of Love
+T:Andrew Lloyd Webber
+T:Don Black and Charles Hart
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"A" A4 z A"E7"Bd |"A" c>B A4"E7" GB |"A" A2 E4"D" DF |"A" E4 z4 |"A" A4 z A"E7"Bd | %5
+w: Love, love- chang- es|ev- ery- thing :hands and|fac- es, earth and|sky.|Love, love chang- es|
+"A" c>B A4"E7" GB |"A" A2 E4"D" DF |"A" E4 z4 |"E7" B4 z Bcd |"A" c>B A4 cd |"A/C#" e3 e"D" f3 d | %11
+w: ev- ery- thing how you|live and how you|die.|Love can make the|sum- mer fly or a|night seem like a|
+"^A/E" c2"E7" B4 E2 |"A" A4 z A"E7"Bd |"A" c>B A4"E7" GB |"A" A2 E4"E" cB |"A" e6"A7" z2 | %16
+w: life time. Yes|love, love chang- es|ev- ery- thing now I|tremb- le at your|name|
+"D" feed dccB |"D/E" F4"E7" G4 |1"A" A6"^D/A" z2 ||"A" z8 :|2"A" A8- ||"A/G" A4 z4 | %22
+w: noth- ing in the world will ev- er|be the|same.||same.||
+[K:Bb]"Bb" B4- BB"F"ce |"Bb" d>c B4"F" Ac |"Bb" B2 F4"^Eb" EG |"Bb" F6"^E/Bb" z2 | %26
+w: Off * in- to the|world we go; plan- ning|fu- tues, shap- ing|years.|
+"Bb" B4- BB"F"ce |"Bb" d>c B4"F" Ac |"Bb" B2 F4"Eb" EG |"Bb" F6 z2 |"F" c4- cc"F7"de | %31
+w: Love * bursts in and|sud- den- ly all our|wis- dom dis- ap-|pears.|Love * makes fools of|
+"Bb" d>c B4 de |"Bb" f3 f"Eb" g3 e |"Bb/F" d2"F" c4"F7" F2 |"Bb" B4- BBc"F"e |"Bb" d>c B4 A"F"c | %36
+w: ev- ery- one, all the|rules we make are|bro- ken. Yes|love, * love chang- es|ev- ery- one; live or|
+"Bb" B2 F4"F" dc |"Bb" f8 |"Eb" gffe eddc | G4"Eb/F" A4 |"F7" B8- |"Bb" B4"^Bb/Ab" z4 | %42
+w: per- ish in its|flame.|Love will nev- er nev- er let you|be the|same.||
+"Eb/G" gffe eddc |"Eb/F" g4"F7" a4 |"Bb" b8- | b4 z4 |] %46
+w: Love will nev- er nev- er let you|be the|same.||
+

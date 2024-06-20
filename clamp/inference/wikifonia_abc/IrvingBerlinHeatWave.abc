@@ -1,0 +1,26 @@
+X:1
+T:Heat Wave
+T:Heat Wave
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 z D |"G" BBBc- c d3- |"Bm7" d6"E7b5" z c |"Am9" BBB"D7"A- A D3- |"Am11" D6"D7" z D | %5
+w: We're|hav- ing a heat * wave,|* a|trop- i- cal heat * wave.|* The|
+"G" BBBc-"G7" c d2 d |"C" eeed-"Cm" d c2 c |"G/D" BBB"A7/E"G- G4 |"D7" A2"G" G4 z D | BBBc- c d3- | %10
+w: temp'- ra- tures ris- * ing it|is- n't sur- pris- * ing. She|cer- tain- ly can *|can- can. She|star- ted the heat * wave,|
+"Bm" d6"E7b5" z c |"Am9" BBBA-"D7" A D3- |"Am11" D6"D7" z D |"G" BBB"G7"c- c d2 d | %14
+w: * by|let- ting her seat * wave,|* and|in such a way * that the|
+"C" eeed-"Cm" d c2 c |"G/D" BBB"A7/E"G- G4 |"D7" A2"G" G6 |"C" e8- | e3 e- ee"G7"dd |"C" c8- | %20
+w: cus- tom- ers say * that she|cer- tain- ly can *|can- can.|Gee|* her * a- na- to|my|
+ c3 e- ee"G7"dd |"C" c8- | c3"D6" B- BB"D7"AA |"G" G8 |"D7sus4" A3 d-"D+7" d3 D |"G" BBBc- c d3- | %26
+w: * made * the mer- cur-|y|* jump * to nine- ty|three.|Yes sir! * We're|hav- ing a heat * wave,|
+"Bm7" d6"E7b5" z c |"G" BBBA-"D7" A D3- | D6 z D |"G" BBBc-"G7" c d2 d |"C" eee"Cm"d- d c2 c | %31
+w: * a|trop- i- cal heat * wave,|* the|way that she moves * that ther-|mo- me- ter proves * that she|
+"G/D" BBB"A7/E"G- G4 |"D7" A2"G" G6 |] %33
+w: cer- tain- ly can *|can can.-|
+

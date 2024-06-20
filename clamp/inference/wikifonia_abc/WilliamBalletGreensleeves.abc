@@ -1,0 +1,32 @@
+X:1
+T:Greensleeves
+T:Greensleeves
+T:Attributed to Henry VIII
+C:William Ballet
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:6/8
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 64
+%%MIDI control 10 0
+V:1
+ E |[K:tab]"Em" G2 A (B>^c)B |"D" A2 F (D>E)F |"Em" G2 E (E>^D)E |"B7" F2 D B,2 E | %5
+w: A-|las my love _ ye|do me wrong _ to|cast me off * dis-|cour- teous- ly, And|
+w: I|have been rea _ dy|at your hand, _ to|grant what ev _ er|you would crave; I|
+w: Well|I will pray _ to|God on high that *|thou my con- stan- *|cy may'st see, And|
+"Em" G2 A (B>^c)B |"D" A2 F (D>E)F |"Em" (G>F)E"B7" (^D>^C)D |"E" E2- E E2 x |"G" d2- d (d>^c)B | %10
+w: I have lov- * ed|you so long _ de-|light- * ing in your *|com- pa- ny.|Green- * sleeves _ was|
+w: have both wa _ ged|life and land, your *|love _ and good _ will|for to have.||
+w: that yet once _ be|fore I die thou *|wilt vouch _ safe _ to|love * me.||
+"D" A2 F (D>EF) |"Em" (G2 E) (E>D)E |"B7" F2 D B,2- B, |"G" d2- d d>^cB |"D" A2 F (D>E)F | %15
+w: all my joy. _ _|Green- * sleeves _ was|my de- light. *|Green- * sleeves was my|heart of gold _ and|
+w: |||||
+w: |||||
+"Em" G-G/F/E"B7" (^D>^C)D |"E" E2- E E2 x :| %17
+w: who * but my la- * dy|Green- * sleeves.|
+w: ||
+w: ||
+

@@ -1,0 +1,13 @@
+X:1
+T:Vörös bor nem drága
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ GG A2 AG ^F2 | GG A2 AG ^F2 | GDDC FDDC | FDDC FDDC | GG A2 D2 DD |] %5
+w: Vö- rös bor, nem drá- ga,|Hat- kraj- cár az á- ra,|Hozz kocs- má- ros még egy mé- szölyt,|Hadd mu- las- sak öt- ven vesz- szőt,|Az- u- után el- me- gyek.|
+

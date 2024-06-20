@@ -1,0 +1,18 @@
+X:1
+T:Soldiers Joy
+T:Soldier's Joy
+T:Traditional
+C:Unknown
+Z:Public Domain
+L:1/16
+M:2/4
+K:D
+V:1 treble nm="Violin" snm="Vln."
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+!mf! FG | AFDF AFDF | A2d2 d2cB | AFDF AFDF | G2E2 E2FG | AFDF AFDF | A2d2 d2de | fafd egec | %8
+ d2d2d2 :|!ff! de | fdfd fagf | ecec egfe | fdfd fagf | edcB A2ce | fdfd fagf | ecec egfd | %16
+ fafd egec | d2d2d2 :| %18
+

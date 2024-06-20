@@ -1,0 +1,30 @@
+X:1
+T:MONDAY
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Eb" GGGF G E3 |"Ab" z Eed"Bb9" c2 B2 |"Eb" B4"Db" z2 z2 |"Cm7" z2 GG GGAB |"Fm7" eA- A6 | %5
+w: Mon day was the last day|that I saw you get|dressed|and I drove you to the|air port _|
+"Ab/Bb" z2 AG AGAB |"Eb" G6 z2 |"Db/Eb" z2 z2 z EEF |"Cm" G2 FG z Bzc |"Ab" c2 z2 B2 A2 | %10
+w: with your bags and new ad|dress|and as I|watched the plane take off|_ I be|
+"Eb/G" G3 A G2 G2 |"Ab/Bb" E2 F2 EFEG- |"Cm" G4"Gm" z2 z2 |"Fm7" z2 z2 z2 z2 | %14
+w: lieved that I would|get you off of my mind|_||
+"C/D" z2 z2"D" z2 d2 |"Gmaj7" d=BB^F F=E E z |"C/D" ^F=EEE =e2 dc |"G" d4 z4 |"C/D" z2 z2 z2 dd | %19
+w: Its|Fri day now you're on the phone|tell ling me I'm still on your|mind|it still|
+"Ebmaj7" dB B2 z2 =AB |"Dm7" =AF F2 z2 DD |"Cm7" E2 B4 E2 |"Fsus4" F2 c2"F" c4 |"Cm7" z2 z2 z2 z2 | %24
+w: _ feels new need some|talk ing to how did|we fall so|far be hind||
+"Gmaj7" z2 ^FF FFFG |"C9" ^FD D2 z4 |"Gmaj7" z2 =BB =Acdc- |"C9" c =B3 z2 G=A | %28
+w: You be lieved in go ing|sep' rate ways|when some things can't be worked|_ out Oth er|
+"Gmaj9" =B3 z2 B BB |"Cmaj7" c2 =B2 GG-G=A- |"Eb/F" A G3 z2 z2 | z2 z2 z2 F2 | %32
+w: times when is there|no more grow ing _ to|_ do.|but|
+"Cm" GGGF GE-!fermata!EE |"Ab" cc c2 z2 B2 |"F" G=A A4 z2 |"Eb/F" z2 z2 z2 G2 |"F9" G2 =A4 z2 | %37
+w: some times we did man age _ to|pull it all to|geth er _|To|geth er|
+"Ab/Bb" z2 z2 z2 z2 |"Eb" GGGF G E3 |"Ab" z Eed"Bb9" c2 F2 |"Cm" G8- |"Bb/C" G8 |"C" z2 z2 z2 z2 |] %43
+w: |Mon day was the last day|that I saw you get|_|||
+

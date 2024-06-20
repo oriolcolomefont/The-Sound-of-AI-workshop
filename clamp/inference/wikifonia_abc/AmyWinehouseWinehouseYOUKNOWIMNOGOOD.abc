@@ -1,0 +1,42 @@
+X:1
+T:YOU KNOW I'M NO GOOD
+C:Amy Winehouse
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ A2 z A EEG_A | A2 z A EEG_A | A2 z A EEG_A | A2 z A EEG_A | %4
+w: ||||
+"Am""^Verse 1:" A/z/B/ z/ c/z/c- c2 AA/B/- |"Dm" BA-AF- F2 z F |"E7" E>^G z B- B2 Bc | %7
+w: 1.Meet you down stairs _ at the bar|and _ _ hurt _ your|rolled up sleeves _ and your|
+"Am" B>A- Ac- c2 AA |"Am9" ABcc- c-B A/-_A-A/ |"Dm" B2 AF- F2 z F |"E7" E2 ^GB- BABc- | %11
+w: skull T _ shirt _ You say|"What did you do _ _ with _ _|him to day?" _ You|sniff me out _ like I was|
+"Am" cBAc- c4 |"Dm" z4 z AAA | AG- G/FA/- A4 |"B7" z4 z BBB | BA^GB- B4 |"C" c2 c2 c3 A | %17
+w: _ Tan que ray _|cuz you're my|fel low _ my guy _|hand me your|Stel la and fly _|By the time I'm|
+ c>A z d- c2 z d |"B" B2 B2 B2 B2 |"E7" B-A-^GB- B2 z2 |:"Am""^CHORUS:" z2 z G A/BG/ A2 | %21
+w: out the door _ You|tear men down like|Rog _ er Moore _|I cheat ed my self|
+"Em" z4 z2 GA |"B7" _B2 z2 z A-AG- |"Em" G2 z2 z2 z E |"Am" cc- c2- cBAc |"Em" BG E2 z2 z G | %26
+w: like I|knew I _ would|_ I|told you _ _ that I was|trou _ ble YOU|
+"B7" A2 z ^F AAzG |"Em" E2 z2 z4 |"Am""_verse 2:" A4 z _BAG |"Em" E4 z E G/z/E |"B7" B4 z _BAG | %31
+w: KNOW THAT I'M NO GOOD|_||||
+"Em" E4 z E G/z/E |"Am" z ccc c3 A |"Dm6" BAzF- F2 z2 |"E7" EE^GB- B2 Bc |"Am" B>A z c- c4 | %36
+w: |Up stairs in bed with|my ex boy _|He's in a place _ where I|can't get joy _|
+"Am6" ABcc- c2 BA |"Dm" B>A z F- F4 |"E7" E^GB-B c- c2 z |"Am9""^You Know I'm No Good 2" BAzc- c4 | %40
+w: Think ing of you _ in the|fin al throes _|this is when _ my _|buzz er goes _|
+"Dm" z AAA- A^G A2 | A-GFA z A- A2 |"B7" cBBc BBzB | BA-Bc- cB- B2 |"C" c2 c2 cc-cc- | %45
+w: Run out to _ meet you,|chips _ and pit ta _|you say "When we marr ied" cuz|you're not _ bit _ ter _|"There'll be none of _ him|
+ cGzd- c2 z c |"B" B2 B2 B2 B^G |"E7" AG-G^F- F-G-F-E :|"Am" a4 z _bag |"Em" e4 z e g/z/e | %50
+w: _ no more" _ I|cried for you on the|kit chen _ floor _ _ _ _|_||
+"B7" b4 z _bag |"Em" e4 z e g/z/e |"Am""^Verse 3:" z2 cc c>c z/ A3/2 |"Dm" BB z/ A3/2 F4 | %54
+w: ||Sweet re un ion Ja|mai ca and Spain,|
+"E7" E^GzB z c- c2 |"Am9" BAzc- c4 |"Am" ABcc- c2 z ^G/-A/ |"Dm9" B>A- AF- F4 | %58
+w: We're like how we _|were a gain: _|I'm in the tub _ you _|on the _ seat _|
+"E7" E^G B- B2 B c z |"Am9" B2 Ac- c4 |"Dm" z2 AA AAAA | AAzA- A4 |"B7" z ABA B2 c-B | %63
+w: lick my lips _ as I|soap my feet _|Then you no tice lik kle|car pet burns _|My stom ach drops and _|
+ B>B- BB- B4 |"C" z2 c2 c3 A | c2 Ad- c2 z d |"B" B2 B2 B2 A2 |"E7" BGz^F- F-G-F-E |] %68
+w: my guts _ turn _|You shrug and|its the worst _ Who|tru ly stuck the|knife in first? _ _ _ _|
+

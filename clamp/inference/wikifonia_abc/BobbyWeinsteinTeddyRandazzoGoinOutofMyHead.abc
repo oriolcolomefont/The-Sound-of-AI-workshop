@@ -1,0 +1,38 @@
+X:1
+T:Goin' Out of My Head
+T:Goin' Out of My Head
+T:Teddy Randazzo and Bobby Weinstein
+T:Teddy Randazzo and Bobby Weinstein
+C:Bobby Weinstein, Teddy Randazzo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 G2 A2 |:"Cm7" _BABA BcAG- |"Cmaj7" G6 GA |"Cm7" _BABA BcAG- |"Cmaj7" G4 C2 c2 | (d2"F6" A6-) | %6
+w: Well I|think I'm go- in' out of my head.|* yes, I|think I'm go- in' out of my head|* o- ver|you *|
+w: |think I'm go- in' out of my head.|* 'Cause I|can't ex- plain the tears that I shed|* o- ver|you. *|
+ A4 C2 c2 |"Fm7" d2 _A6- |"Bb7" A6 _B,2 |"Eb" _A2 G4 _B,2 |"Gm7" d2 _B4 _B,2 | %11
+w: * o- ver|you. *|* I|want you to|want me I|
+w: * o- ver|you. *|* I|see you each|morn- ing, But|
+"Eb" _A G2 _B,"Gm" c _B2 B, |"Ab" _A G2 _E"Bb7" c_B"Fm7"EF |1"Cmaj7" G8- | G4 G2 A2 :|2 %15
+w: need you so bad- ly I|can't think of an- y- thing but|you.|* And I|
+w: you just walk past me, you|don't e- ven know that I ex-|||
+"Cmaj7" G8- | G2 GG"Dm7" cc"G7" d2 ||"Cmaj7" e4- (3e2 e2 e2 |"Dm7" d c3 cc d2 | %19
+w: ist|* Go- in' out of my|head * o- ver|you. * out of my|
+w: ||||
+"Cmaj7" e4- (3e2 e2 e2 |"Dm7" (d c3) cc d2 |"C" e2 z"F6" d- dd"C" e2 | z"F6" d2 d"C" e2"F6" d2 | %23
+w: head * o- ver|you * Out of my|head day * and night|Night and day and|
+w: ||||
+"C" e2 z"F6" d- dd"C" e2 | (3z2 c2 d2 (3e2 d2 c2 |"D" d8- |"Fm6" d4 (3B2 c2 d2 |"C" c8- | %28
+w: night, wrong * or right|I must think of a|way|* in- to your|heart.|
+w: |||||
+ c2"Cdim" c2 (3c2 B2 A2 |"G" B4"G7" (3B2 A2 G2 |"F#dim" A3 A (3A2 G2 ^F2 |"G" G8- | G4 G2 A2 |: %33
+w: * There's no rea- son|why my be- ing|shy should keep us a-|part.|* And I|
+w: |||||
+"Cm7""^Repeat and fade out" _BABA BcAG- |"Cmaj7" G6 GA |"Cm7" _BABA BcAG- |"Cmaj7" G6 GA :| %37
+w: think I'm go- in' out of my head.|* yes, I|think I'm go- in' out of my head.|* yes, I|
+w: ||||
+

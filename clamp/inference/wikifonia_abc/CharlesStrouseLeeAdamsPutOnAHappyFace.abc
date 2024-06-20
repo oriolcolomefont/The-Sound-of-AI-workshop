@@ -1,0 +1,29 @@
+X:1
+T:Put On A Happy Face
+T:Put on a happy face
+T:Charles Strouse
+T:Lee Adams
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" C/ D F/ A c |"Am" d/ d3/2-"D7" d2 |"Gm7" d/ c B/"C" G E |"Gm7" D3 z |"F" C/ D F/ A c | %5
+w: Gray skies are gon- na|clear up *|put on a hap- py|face|brush off the clouds and|
+w: Pick out a pleas- ant|out- look *|stick out that no- ble|chin|wipe off that full of|
+"Am" d/ d3/2-"D7" d2 |"Gm7" d/ c B/"C" G E |"Cm7" _E3 z |"Bb" D/ F B/"E7" d d | %9
+w: cheer up *|put on a hap- py|face|take off the gloom- y|
+w: doubt look *|slap on a hap- py|||
+"A7" ^c A/=c/-"D7" c/d/ c |"G7" z B"C7" B c |"Fm" A3 z |"Bb" D/ F B/"E7" d d | %13
+w: mask of trag * e- dy|its not your|style|you'll look so good that|
+w: ||||
+"A7" ^c A/=c/"D7" c/d/ c |"G7" =B G _B"C7" c- | c3 z | z4!D.C.! ||O"Cm" _E3"F7" F |"Bb" d4 | %19
+w: you'll be glad * ya' de-|cid- ed to smile|||grin and|spread|
+w: ||||||
+"F" d c2 f |"Gm7" c B2"C7" c |"A7" A2"D7" d2 |"G" e d2 A |"C7" c2 d2 |"F" f4- | f2 z2 |] %26
+w: sun- shine all|o- ver the|place, just|put on a|hap- py|face||
+w: |||||||
+

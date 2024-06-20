@@ -1,0 +1,75 @@
+X:1
+T:I Can't Explain It
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=135
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Bb" B2 c B"^I can't explain it" |"Bb+" B2 c B |"Gm" B2 c B | %3
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+"Bb7" d4-"^Lyric and Music by Les Kettley" | d c B A |"G7" G4- | G4 |[K:C]"C" c4- |"Dm" c2 B A | %9
+w: ||||I|_ can't ex-|
+w: ||||||
+w: ||||I|_ can't ex-|
+w: ||||||
+w: ||||I|_ can't ex-|
+"C" G2 E2 |"Am" A3 G |"Dm" F2 D2 |"G7" G3 F |"C9""Em" E4- |"C7" E2 F E |"F" E4- | E2"Fm" F E | %17
+w: plain it|but I'm|so in|love with|you,|_ wish I'd|known|_ when we|
+w: ||||||||
+w: plain it|when two|peop- le|so in|love,|_ stayed a-|part|_ un- a-|
+w: ||||||||
+w: plain it|but we|are now|back to-|gether,|_ it is|heaven|_ in each|
+"C" E4 |"Am" C2 E D |"F" C2- C2- |"Fm" C2 E D |"C" C4- | C3"Bm" D |"E7" E2 F E | E B,2 E | %25
+w: first|met, you were-|so in|love with me|too,|_ oh|why did we|waste all those|
+w: ||||||||
+w: ware|our love was|made in|heav- en a-|bove,|_ if|on- ly we'd|known then how-|
+w: ||||||||
+w: others|arms, oh so|close _|_ to each|other,|_ so|let us for-|get our mis-|
+"Am" E2 F E | E4 |"G" G2 A G"_© Les Kettley\n" |"G7" G D2 E |"""^1""Gm7""^2" F2 G _A || %30
+w: years far a-|part|when we loved|each oth- er|right from the|
+w: |||||
+w: both of us|felt,|our love for|each oth- er|locked in our|
+w: |||||
+w: takes of the|past,|live for the|pres- ent and|_ _ _|
+[K:Eb]"F7" =A4 |"""^3""Dm" F4 ||"G7" G2 =B2 |"C" c4- | c3"^FINE" z | %35
+w: start,|||||
+w: |||||
+w: heart,|||||
+w: |||||
+w: |make|love at|last.|_|
+"^I can't explain it""Bb" B2 c B |"Bb+" B2 c B |"Gm" B2 c B |"Bb7" B3 A |"Eb" G2 A G | %40
+w: I can't ex-|plain, can't ex-|plain what- you|do, but|please don't stop,|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"Eb+" G2 A G |"Cm" G2 A G |"Eb7" G2 A B |"Ab" c2 B A |"Ab7" c2 B A |"G7" G4- | G4 |"Fm" F2 A2 | %48
+w: please don't stop|do- ing what-|ev- er you|do, you don't|need to ex-|plain,|_||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+ c2 e2 |"Ab" g2 f e |"G7" d =B G"_© Les Kettley\n" D |"Dm" =E F =A c |"F" =e2 d c |"G7" =B4- | %54
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ B4 |] %55
+w: |
+w: |
+w: |
+w: |
+w: |
+

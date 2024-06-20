@@ -1,0 +1,24 @@
+X:1
+T:Ida (Sweet As Apple Cider)
+T:Ida!  sweet as apple cider
+T:Eddie Munson
+T:Eddie Leonard
+C:Eddie Munson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G2 A2- | A G/G/ A ^A |"G" B/=A/G/F/- F2- | F z z2 |"D" A2"G7" B2- | B B d B |"C" G4 |"E7" ^G4 | %8
+w: I- da|* sweet as ap- ple|ci * * der *||sweet- er|* than all I|know||
+"A7" A2 =G2- | =G"B7" ^G/G/"A7" A E |"D7" E2 D2- | D D ^C D | E2 D2- | D D ^C D |"G7" G4 |"C" z4 | %16
+w: come out|* in the sil- vry|moon- light|* of love we'll|whis- er|* so soft and|low||
+ G2 A2- | A/ z/ G A ^A |"G7" B/=A/G/F/- F2- | F z z2 |"D" A2"G7" B2- | B B d B |"C" G4 |"E7" ^G4 | %24
+w: seems I|* cant live with-|out * * you *||lis- ten|* oh hon- ey|do||
+"A7" A2 =G2- | G"E7" ^G"A7" A E |"D7" E2 D2- | D z z A |"C" c A"D7" c A | c2"G7" d2 |"C" c4- | %31
+w: I- da|* I i- do-|lize yer|* I|love you I- da|deed I|do.|
+ c z z2 |] %32
+w: |
+

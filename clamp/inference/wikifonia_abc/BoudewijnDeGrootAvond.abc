@@ -1,0 +1,66 @@
+X:1
+T:Avond
+C:Boudewijn De Groot
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"^Intro""C9" z8"G7" |"C" z8 |"C" z8 |"C" z4 z2"G/B" z E ||"Am" EE/E/- EE EDCD | E<E EE/E/- EDCD | %6
+w: |||Nu|hoef je nooit _ je jas meer aan te|trek- ken en te ho- _ pen dat je|
+"C" EF/E/ z2 z4 | z4 z2"G/B" z E |"Am" E E2 E ED C<D | EE E/EE/- EE z D |"F" C<C C/A,C/- CA,CE- | %11
+w: licht het doet.|Laat|bui- ten de storm- wind nu maar|ra- zen in het don- _ ker want|bin- nen is het warm _ en licht en|
+"G" ED- D2 z4 |"Cmaj7" EE/E/- EE ED/C/- CD | EE/F/- FE E z CD/E/ |"F" FFFF F>G F/EE/- | %15
+w: _ goed. _|Hand in hand _ naar bui- ten kij- _ ken|waar de re- _ gen valt. Ik zie het|vuur van hoop en twij- fel in je o-|
+"G" ED- D3 D/D/ CD |"E" EF/E/- E2 z4 |"D/E" z4"E" z2 E>E |"Am" AA AA/A/- AA z E | %19
+w: _ gen _ en ik ken je|diep- ste angst. _|Want je|kunt niets ze- ker we- _ ten en|
+"F" AA AA/A/- AA"G/D" GF/G/- |"C/E" G2 GG/G/- G2 FE/(E/ |"G" D2) GG/G/- G2 FE/(D/- | %22
+w: al- les gaat voor- bij. _ Maar ik ge- loof,|_ ik ge- loof, _ ik ge- loof,|_ ik ge- loof, _ ik ge- loof|
+"F" D<C) z2 z C"G/D" DC- |"C" CC- C2 z4 |"C" z4 z2"G/B" z E ||"Am" EEEE ED C/DE/- | %26
+w: _ _ in jou en|_ mij. _|En|als je 's~mor gens op- staat ben ik bij|
+ EE z E/E/ EDCD |"C" EF/E/- E z z4 | z4 z2 z E |"Am" EE/E/- EE E D2 C/D/ | EE E>E EE z/ E/E/D/ | %31
+w: _ je en mis- schien heb ik al|thee ge- zet. _|En|als de zon _ schijnt bui- ten gaan we|lo- pen door de dui- nen en als het|
+"F" CC z2 CA,CE- |"G" ED- D2 z4 |"Cmaj9" GGGG G/FE/- EF | GG GA/G/- G2 EF/G/ | %35
+w: re- gent gaan we t'rug in|_ bed. _|U- ren lang- zaam wak- ker wor- _ den,|zwe- vend door de tijd, _ ik zie het|
+"F" AA AA/A/- AG F/A/G- |"G" G2 z D/G/- GFED |"E" EF/E/- E2 z4 |"D/E" z4"E" z2 E>E | %39
+w: licht door de gor- dij- _ nen en ik weet:|_ 't~Ver le- _ den geeft geen|ze- ker- heid. _|Want je|
+"Am" cc cc/c/- c B2 A |"F" cc cc/c/- cc"G/D" cA/c/- |"C/E" c2 cc/c/- c2 BA/(A/ | %42
+w: kunt niets ze- ker we- _ ten en|al- les gaat voor- bij. _ Maar ik ge- loof,|_ ik ge- loof, _ ik ge- loof,|
+"G" G2) BB/B/- B2 AG/(G/- |"F" G<F) z2 z A"G/D" AG- |"C" GG- G2 z2 cA/c/- | %45
+w: _ ik ge- loof, _ ik ge- loof|_ _ in jou en|_ mij. _ Ik ge- loof,|
+"C" c2 cc/c/- c2 BA/(A/ |"G" G2) BB/B/- B2 AG/(G/- |"F" G<F) z2 z A"G/D" AG- |"Cmaj7" GG- G2 z4 | %49
+w: _ ik ge- loof, _ ik ge- loof,|_ ik ge- loof, _ ik ge- loof|_ _ in jou en|_ mij. _|
+ z8 |"^Solo""Fmaj7" z8 |"Em7" z8 |"Dm7" z8 |"Cmaj9" z8 |"Fmaj7" z8 |"Em7" z8 |"Dm7" z8 | %57
+w: ||||||||
+"Cmaj9" z8 |"Bm7b5" z4"F/A" z4 |"E" z8 |"Bm7b5" z4"F/A" z4 |"E" z8 |"Bm7b5" z4"F/A" z4 |"E" z8 | %64
+w: |||||||
+"Bm7b5" z4"F/A" z4 |"E" z8 |"E" z8 |"Am" z8 | z4 z2 z E ||"Am" E/EE/- EE/E/- E z CD/E/- | %70
+w: ||||Ik|doe de lich- _ ten uit _ en de ka-|
+ EEEC B,A, z E |"Am" EEEE EDCD |"G" D2 z2 z2 z C/D/ |"Am" E<E EE/E/- EECD | EEEC B,A, z z3/4 E/4 | %75
+w: _ mer wordt nu don- ker, een|straat- lan- ta- ren bui- ten geeft wat|licht. En de|din- gen in de ka- _ mer wor- den|vrien- den die gaan sla- pen, de|
+"Am" E<E E>E EDCB, |"G" D2 z2 z2 z G |"Am" EE E/E/E/E/- E z CD/E/- | EEEC B,A, z z/ C/ | %79
+w: stoe- len staan te wach- ten op't ont-|bijt. En|mor- gen word ik wak- ker _ met de geur|_ van brood en hon- ing, de|
+"G" DD DD/E/- EDCD |"E" E2 z2 z E2- E/D/ |"Am" D<C CB,/C/-"Am7/G" CC z C | %82
+w: glans van't gou- den zon- _ licht in jouw|haar. En _ de|din- gen in de ka- _ mer, ik|
+"D/F#" DC/C/- CB,/C/-"F" CC z z/ C/ |"C" DC CA,/C/- C C2 C |"G" DD GF/E/-"E7" E z E>E || %85
+w: zeg ze wel- _ te- rus- _ ten, va-|na- vond gaan we sla- _ pen en|mor- gen zien we wel. _ Maar de|
+"A" A<A AA/A/- AAEA |"E" ^GGGA G/^F/E- E2 |"D" z4 z ^F2 E |"A" E2 z2 z2 E>E | %89
+w: din- gen in de ka- _ mer zou- den|le- ven- lo- ze din- gen zijn _|zon- der|jou. En je|
+"Am" cc cc/c/- c B2 A |"F" cc cc/c/- cc"G/D" cA/c/- |"C/E" c2 cc/c/- c2 BA/(A/ | %92
+w: kunt niets ze- ker we- _ ten, want|a- lles gaat voor- bij. _ Maar ik ge- loof,|_ ik ge- loof, _ ik ge- loof,|
+"G" G2) BB/B/- B2 AG/(G/- |"F" G<F) z2 z A"G/D" AG- |"C" GG- G2 z2 AB/c/- | %95
+w: _ ik ge- loof, _ ik ge- loof|_ _ in jou en|_ mij. _ Ik ge- loof,|
+"C" c2 cc/c/- c2 BA/(A/ |"G" G2) BB/B/- B2 AG/(G/- |"F" G<F) z2 z A"G/D" AG- | %98
+w: _ ik ge- loof, _ ik ge- loof,|_ ik ge- loof, _ ik ge- loof|_ _ in jou en|
+"Cmaj7" GG- G2 z2 AB/c/- |"Am" cc cc/c/- c B2 A |"F" cc cc/c/- cc"G/D" cA/c/- | %101
+w: _ mij. _ En je kunt|_ niets ze- ker we- _ ten en|al- les gaat voor- bij. _ Maar ik ge- loof,|
+"C/E" c2 cc/c/- c2 BA/(A/ |"G" G2) BB/B/- B2 AG/(G/- |"F" G<F) z2 z A"G/D" AG- | %104
+w: _ ik ge- loof, _ ik ge- loof,|_ ik ge- loof, _ ik ge- loof|_ _ in jou en|
+"C" GG- G2 z2 z A/c/- |"C" c2 cc/c/- c2 BA/(A/ |"G" G2) BB/B/- B2 AG/(G/- |"F" G<F) z2 z A AG | %108
+w: _ mij. _ ge- loof,|_ ik ge- loof, _ ik ge- loof,|_ ik ge- loof, _ ik ge- loof|_ _ in jou en|
+"Cmaj7" (G/E/C- !fermata!C2) z4 |] %109
+w: mij. _ _ _|
+

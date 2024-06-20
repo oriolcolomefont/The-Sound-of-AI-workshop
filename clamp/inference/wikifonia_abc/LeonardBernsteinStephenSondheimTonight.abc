@@ -1,0 +1,24 @@
+X:1
+T:Tonight
+T:Tonight
+T:Leonard Bernstein
+T:Stephen Sondheim
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z z2 D |:"G" G3 B, |"A9" A,3 E |"G" D B, G B, |"A9" A,3 E |"G" D B, G A |"Em7" B2 G B |"F#m" A4- | %8
+w: To-|night, to-|night won't|be just an- y|night. To-|night there will be|no morn- ing|star.|
+"F9" A2 z A |"Bb" _B3 D |"C9" C3 G |"Bb" =F D _B d |"Cm" c2 _B c |"Cm7" d2 _B c |"Cm6" d2 _B c | %15
+w: _ To-|night, to-|night I'll|see my love to-|night, and for|us, stars will|stop where they|
+"D" d4- | d2 d2 |"Eb" _e3 d | c A _B c |"Cm6" (d c)"Cm" z _B | A F G A |"Bbm" c _B z A | G E =F G | %23
+w: are!|_ To-|day the|min- utes seem like|hours, _ The|hours _ go so|slow- ly and|still the sky is|
+"A" A4- |"A7b5" A2 z A |"G" G3 B, |"A9" A,3 E |"G" D B, G A |"Em7" B2 G B |"Bm" d4- |"Am7" d2 d2 |1 %31
+w: light.|_ Oh|moon grow|bright, and|make this end- less|day, end- less|night,|_ to-|
+ d4- || d2"D7" z D :|2"G" d4- ||"Em7" d4- |"Cmaj7" d4- |"G" !fermata!d4 |] %37
+w: night.|_ To-|night.|_|||
+

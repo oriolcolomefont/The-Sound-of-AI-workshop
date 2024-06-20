@@ -1,0 +1,15 @@
+X:1
+T:Wiegenlied
+T:Wiegenlied
+T:Johannes Brahms
+C:Johannes Brahms
+Z:Public Domain
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="C Alto Ocarina" snm="C A. Oc."
+%%MIDI program 79
+V:1
+ z4 EE | G3 E E2 | G4 EG | c2 B3 A | A2 G2 DE | F2 D2 DE | F4 DF | BA G2 B2 | c4 CC | c4 AF | %10
+ G4 EC | FG/F/ E2 D2 | C4 z2 |] %13
+

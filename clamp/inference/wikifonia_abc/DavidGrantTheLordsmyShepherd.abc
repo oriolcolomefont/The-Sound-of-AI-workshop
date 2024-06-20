@@ -1,0 +1,20 @@
+X:1
+T:The Lord's my Shepherd
+T:The Lord's my shepherd    
+T:Crimond
+T:David Grant
+C:David Grant
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z C2 |"F" A B G | c B G |"C" F z E |"F" F z A | A G G |"G" =B z B |"C" c3 | A3 |"F" A B A | %10
+w: The|Lords my *|shep- herd *|I'll not|want He|mak- es me|down to|lie|In|pa- as- tures|
+w: My|soul he *|doth re- *|store a-|gain and|me * to|walk doth|make|with-|in * the|
+"C" G2 A |"Bb" c c B |"F" A2 A |"Bb" G B d |"C" F3 | E3 |"F" F3 |] %17
+w: green He|le- ed- eth|me the|qui- i- et|wat-|ers|by.|
+w: paths of|ri- ght- eous|ness Ev'n|for * his|own|names|sake.|
+

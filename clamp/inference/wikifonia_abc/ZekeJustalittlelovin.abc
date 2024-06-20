@@ -1,0 +1,29 @@
+X:1
+T:Just a little lovin'
+T:Just a little loving
+T:(will go a long way)
+T:Zeke Clements, Eddy Arnold
+C:Zeke
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" A ^G A F |"C7" G A G2 |"F" F F G ^G | A4 |"C7" E ^D E F | G A G C |"F" F F G ^G | A4 | %8
+w: Ev- er since that|time be gan|love has ruled the|world|Ev- en A- dam|set the pace and|star- ted it a-|whirl|
+w: Dont be lieve you|real- ly know|how much I love|you|If you did you'd|come on back and|make my dreams come|true|
+ A ^G A F |"C7" G A G E |"F" F F G ^G |"D7" A4 |"C" G G G A |"G7" B B A B |"C7" c4- | %15
+w: I met you and|now I know that|you're the one for|me|come on back and|you will plain- ly|see|
+w: Your,eyes your lips your|lov- ing kiss- es|seem to lin- ger|yet|I'll for- give but|please dont you for-|get|
+ c2 A/_B/c/^c/ |"D7" d d3- | d A A/^G/ A |"G7" D4- | D D D/D/E/G/ |"C7" c c3- | c e d/d/ c | %22
+w: * just a lit- tle|lov- in|* will go a long|way|* and you will make me|hap- py|* the rest of my|
+w: |||||||
+"F" A4- | A2 c/B/c/^c/ |"D7" d d3- | d A A/^G/ A |"G7" D4- | D d d/^c/d/d/ |"F" c c3- | %29
+w: days|* put your arms a-|round me|* then I'll be your|slave|* cause just a lit- tle|lov- in|
+w: |||||||
+"C7" c F A/F/ A |"F" F4 |"C7" z4 :| z4 |] %33
+w: * will go a long|way.|||
+w: ||||
+

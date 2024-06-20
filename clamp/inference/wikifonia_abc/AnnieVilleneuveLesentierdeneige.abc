@@ -1,0 +1,38 @@
+X:1
+T:Le sentier de neige
+T:Le sentier de neige
+T:Annie Villeneuve
+T:Bouche fermée
+C:Annie Villeneuve
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z2 z"_Bouche fermée" C | F2 G3 F | ED C3 E | D2 A,2 B,2 | C4 z G, |"C" C2 E3 C | %6
+w: ||||* 1.~Le|sen- tier de|
+w: ||||* 2.~Ce|sen- tier de|
+"Em" B,2 E3 B, |"F" A,2 C2 F2 |"C" E4 z A, |"F" A,2 C3 F |"C" ED C3 E | D2 D2 E2 | D4 z C | %13
+w: nei- ge cou-|rant la val-|lée Où|dansent en cor-|tè- * ge des|sa- pins ge-|lés Est|
+w: nei- ge si|pur et si|doux *|De- puis pro-|tè- è- ge notre|a- mour ja-|loux Je|
+"C" C2 E3 C |"Em" B,2 E3 B, |"F" A,2 C2 F2 |"C" E4 z A, |"F" A,2 C3 F |"C" ED C3 E | %19
+w: res- té bien|sa- ge té-|moin d'un bai-|ser Que|sur ton vi-|sa- * ge je|
+w: t'ai dit je|t'ai- me dans|la paix des|bois La|neige en po-|è- è- me fon-|
+"G7" D2 A,2 B,2 |"C" C4 z C |"F" F2 G3 F |"C" ED C3 E |"G" D2 D2 C2 |"C" E4 z E |"F" F2 G3 F | %26
+w: t'a- vais vo-|lé Les|flo- cons de|nei- * ge cou-|vrant tes che-|veux Et|la lu- ne|
+w: dait sous nos|pas Ce|sen- tier de|nei- ei- ge si|pur et si|doux *|De- puis pro-|
+"C" ED C3 E |"Dm" D2 D2 E2 |"G7" D4 z C |"C" C2 E3 C |"Em" B,2 E3 B, |"F" A,2 C2 F2 |"C" E4 z A, | %33
+w: clai- * re nous|ren- daient heu-|reux Je|t'ai dit je|t'ai- me dans|la paix des|bois La|
+w: tè- è- ge notre|a- mour ja-|loux Je|t'ai dit je|t'ai- me dans|la paix des|bois La|
+"F" A,2 C3 F |"C" ED C3 E |"G7" D2 A,2 B,2 |"C" C4 z C :|"_Bouche fermée" F2 G3 F | ED C3 E | %39
+w: neige en po-|è- * me fon-|dait sous nos|pas *|||
+w: neige en po-|è- è- me fon-|dait sous nos|pas *|||
+ D2 D2 C2 | E4 z E | F2 G3 A | ED C3 E | D2 A,2 B,2 | C4 !fermata!z2 |] %45
+w: |* Je|t'ai dit je|t'ai- * me *|||
+w: ||||||
+

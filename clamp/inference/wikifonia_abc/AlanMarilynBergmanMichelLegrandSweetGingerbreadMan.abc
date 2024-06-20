@@ -1,0 +1,36 @@
+X:1
+T:Sweet Gingerbread Man
+T:Sweet Gingerbread Man
+T:Alan & Marilyn Bergman, & Michel Legrand
+C:Alan & Marilyn Bergman, & Michel Legrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B2 d>B"G/F#" d>ed>B- |"Em" B>A G2"Em/D" z2 z G |"C" E4"A7/C#" z2 z G |"Dsus4" D4"D" z4 | %4
+w: Feel like I'm made out o' gin-|* ger- bread, uh,|huh, uh,|huh,|
+w: Twirl- in' a cane made o' pep-|* per mint, uh,|huh, uh,|huh,|
+"G" B2 d>B"G/F#" d2 e>d |"Em" B>A G2"Em/D" z2 z G |"C" E4"A7/C#" z2 z G |"Dsus4" A4"D" z4 | %8
+w: crumd pick- in' lip lick- in'|gin- ger bread, uh,|huh, uh,|huh.|
+w: nice ick- y, hand stick- y|pep- per- mint, uh,|huh, uh,|huh,|
+"Bm7" z2 d2 d>Bd>e |"Em7" e2 d2 (3dBd z2 |"Bm7" z2 d2 d>Bd>e- |"Em7" e>de>d"Em7/D" (3B2 A2 G2 | %12
+w: Can't think a- bout rain-|* y weath- er now,|I've fi- nal- ly got|* my- self to- geth- er now,|
+w: Spun su- gar- y cloud|* I'm float- in' on,|sun's spread- in' my suit-|* o' su- gar coat- in' on,|
+"C" z2 G2"G/B" G>EG>d |"Am7" d2 G2"Am7/D" G>EG>B- |"Bsus4""B" B8- |"Bsus4""B" B8 | %16
+w: fresh out o' the pan,|* Sweet Gin- ger- bread Man|||
+w: all tast- y and tan,|* Sweet Gin- ger- bread Man|||
+"C" z2 G2"G/B" G>EG>d- |"Am7" d2 G2"Am7/D" G>EG>G- |"G""Am7/D" G8- |"G" G6 z2!fine! :| %20
+w: fresh out o' the pan|* sweet gin- ger- bread man.|||
+w: fresh out o' the pan|* sweet gin- ger- bread man.-|||
+"Bm7" B2 B>A B>dB>A |"Em7" B2 E2 (3EDE z2 |"C" z2 C2"F" =FE z D- |"Bb" D8- | D2 D2 AG z =F- | F8 | %26
+w: I got a feel- in' would- n't|trade for an- y- thing,|for all the beans,||* for all the greens,||
+w: ||||||
+ z2 =F2"F" c_B z A- |"D""Am7/D" A8- |"D""Am7/D" A8 |"D""Am7/D" d8-!D.C.! |"D" d8 |] %31
+w: for all the world|||Oh!-||
+w: |||||
+

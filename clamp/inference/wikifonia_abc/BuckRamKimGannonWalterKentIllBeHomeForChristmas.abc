@@ -1,0 +1,22 @@
+X:1
+T:I'll Be Home For Christmas
+T:I'll Be Home For Christmas
+C:Buck Ram, Kim Gannon, Walter Kent
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" c3 B |"Cdim" d3 c |"Dm7" G2"G7" G2- |"Dm7""G7" G4 |"C" A3 G |"Gm6" _B3"A7" A |"Dm""Gm6" D4- | %7
+w: I'll be|home for|Christ- mas||You can|plan on|me|
+"Dm" D3"Gm6" z |"Dm" D3 E |"Fm6" G3"Fdim" F |"C" E3"G" G |"Am" c3 B |"Em7" d2 d2 | %13
+w: |Please have|snow and|mis- tle-|toe and|pres- ents|
+"Cmaj7" B2"Cdim" B2 |"Bdim7" A3 z |"C" c3 B |"Cdim" d3 c |"Dm7" G2"G7" G2- |"Dm7""G7" G4 | %19
+w: on the|tree.|Christ- mas|Eve will|find me||
+"C" A3 G |"Gm6" _B3"A7" A |"Dm" D4- | D2 z2 |"F6" d3 c |"Fm6" d3 c |"C""^Gaug""Gm7" G4 |"A7" A3 A | %27
+w: Where the|love- light|gleams||I'll be|home for|Christ-|mas if|
+"Dm" d2 e2 |"Dm7" c2-"Fm6" c2 |"G7" d2"C" c2- | c4 |] %31
+w: on- ly|in *|my dreams.||
+

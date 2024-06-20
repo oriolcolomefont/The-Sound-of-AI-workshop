@@ -1,0 +1,21 @@
+X:1
+T:Wait for the Wagon
+T:Wait for the wagon,
+T:American 
+C:George P. Knauff
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." G G |"C" c c C C | E G G G |"G7" G A F G |"C" E2 G G | c c C C | E G2 G | %7
+w: Will you|come with me my|Phyl- lis dear to|my blue moun- tain|free where the|blos- soms smell the|sweet- est come|
+"F" A c"G7" B d |"C" c3 G | c c C C | E G z G |"G7" G A F G |"C" E3 G | c c C C | E G z G | %15
+w: rove a- long with|me its|ev- ry Sun- day|morn- ing when|I am at you|side we'll|all jump in the|wa- gon and|
+"F" A c"G7" B d |"C" c3/2 z/ z z | c2 C3/2 C/ | E G3 | e2 e3/2 d/ |"F" c A3 |"C" c2 C3/2 C/ | %22
+w: all * take a|ride|wait for the|wa- gon|wait for the|wa- gon|wait for the|
+ E G G G |"F" A c"G7" B d |"C" c4 | c2 C3/2 C/ | E G G G |"F" A c"G7" B g |"C" c2 z2 |] %29
+w: wa- gon and we'll|all * take a|ride|wait for the|wa- gon and we'll|all * take a|ride.|
+

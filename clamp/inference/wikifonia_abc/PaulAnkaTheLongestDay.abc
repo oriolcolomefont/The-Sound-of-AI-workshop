@@ -1,0 +1,38 @@
+X:1
+T:The Longest Day
+T:The Longest Day
+C:Paul Anka
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"C" E"G7" F |:S"C" G4- | G c B A |"G7" G2 D2- | D2 D E | F4- | F B A G |"C" E4- | E z E"G7" F | %9
+w: Man- y|men|_ came here as|sol- diers,|_ Man- y|men|_ will pass this|way;|_ Man- y|
+w: |men|_ are tired and|wea- ry,|_ Man- y|men|_ are here to|stay;|_ Man- y|
+"C" G4- | G c"G7" B"C7" c |"F" d2 A2- |"F#dim" A2 c"Ab7" c |"G7" B4- | B G B d |1 c4 | z2 E F :|2 %17
+w: men|_ will count the|ho- urs,|_ As they|live|_ the long- est|day.|Man- y|
+w: men|_ won't see the|sun- set,|_ When it|ends,|_ the long- est|.||
+ c4- || c2 z E |"Am" A2"Am7" A2 |"Am6""F7" c3 c |"Em" B2"Em7" G2 |"C""Em" G4 |"Am" A2"Am7" A2 | %24
+w: |* The|long- est|day, the|long- est|day,|This will|
+w: day.|_||||||
+"Am6" (A B"F7" c) A |"Em" B2"Em7" G2 |"C""Em" G4 |"Am" A2"Am7" A2 |"Am6""F7" c3 c | %29
+w: be _ _ the|long- est|day.|Filled with|hopes and|
+w: |||||
+"Em" B2"Em7" G2 |"C""Em" G4 |"Am7" A2"A7b5" A2 |"D6" (A B)"D7" (c A) |"G7" B2"Dm7" G2 | %34
+w: filled with|fears.|Filled with|blo- od and _|sweat and|
+w: |||||
+"G7" G2 E F |"C" G4- | G c B A |"G7" G2 D2- | D2 D E | F4- | F B A G |"C" E4- | E z E"G7" F | %43
+w: tears. Man- y|men|_ the might- y|thou- sands|_ Man- y|men,|_ to vic- to-|ry;|_ March- ing|
+w: |||||||||
+"C" G4- | G c"G7" B"C7" c |"F" d2 A2- |"F#dim" A2 c"Ab7" c |"G7" B2 B2 | B G B d |1"C" c4 | %50
+w: on,|_ right in- to|bat- tle,|_ in the|long- est|day in his- to-|ry.|
+w: |||||||
+ z2 E"G7" F!D.S.! :|2"C" c4- | c z z2 |] %53
+w: Man- y|ry.|_|
+w: |||
+

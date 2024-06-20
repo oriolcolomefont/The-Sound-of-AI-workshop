@@ -1,0 +1,28 @@
+X:1
+T:Pretty Paper
+T:Pretty Paper
+C:Willie Nelson
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z4 Bc |]S d B3 Bd |"G#dim7" e2 d3 B |"Am7" d6- |"D7" d4 AB |"Am7" d2 A2 AB |"D7" d2 c3 d | %7
+w: Pret- ty|pa- per, pret- ty|rib- bons of|blue,|_ wrap your|pres- ents to your|dar- ling from|
+"G" B6- | B4 Bc | d2 B3 A |"G7" G2 B2 dB |"C" c6- |"Cm" c4 BA |"G" G D3 BA |"D7" D B3 A2!dacoda! | %15
+w: you.|_ Pret ty|pen- cils to|write, "I love _|you."|_ Pret ty|pa- per, pret- ty|rib- bons of|
+"G" G6 |"D6" z2"Edim7" z2"D9/F#" B,C |"G" D4 DE |"D7" D4 ED |"G" B,2 D4- | D4 GA |"G" B2 G4 | %22
+w: blue.|Crowd- ed|streets bus- y|feet hus- tle|by him.|* Down- town|shop- pers,|
+"Am7" c2 B3"D7" A |"G" G6- | G4 GA | B4 Bc |"G7" B4 AG |"C" E2 G4- | G6 |"A7" A E3- EF | %30
+w: Christ- mas is|nigh.|_ There he|sits all a-|lone on the|side- walk,|_|hop ing _ that|
+ G2 F2 ^CE |"D" D6- |"D7" D2 z2 B,C |"G" D2 z2 DE |"D7" D2 z2 ED |"G" B,2 D4- | D3 D GA | %37
+w: you won't pass him|by.|* Should you|stop; bet- ter|not, much too|bus- y|* you're in a|
+"G" B2 G3 D |"Am7" c2 B3"D7" A |"G" G6 | z2 z2 GA | B2 G3 B |"G7" c2 B3 G |"C" E2 G4- | G3 D GA | %45
+w: hur- ry my,|how time does|fly.|In the|dis- tance the|ring- ing of|laugh- ter|_ and in the|
+"G" B2 z2 GE |"Am7" D2"D7" B3 A |"G" G6- |"D6" G2"Edim7" z2"D7/F#" Bc!D.S.! |]O"C""G""Am7" G6- | %50
+w: midst of the|laugh- ter he|cries.|_ Pret ty|blue.|
+"G" !fermata!G2 z4 |] %51
+w: _|
+

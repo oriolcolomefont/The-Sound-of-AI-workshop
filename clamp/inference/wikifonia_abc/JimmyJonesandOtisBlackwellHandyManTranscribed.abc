@@ -1,0 +1,46 @@
+X:1
+T:Handy Man (Transcribed)
+C:Jimmy Jones and Otis Blackwell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="J.T." snm="J.T."
+%%MIDI channel 4
+%%MIDI program 70
+V:1
+ z4 z2 z A,/B,/ |"D " D z A, F2 z z2 |"A " C2 z"Bmin" D2 z2 A,/B,/ |"D " D z A, F2 z z2 | %4
+w: ||||
+"A " C2"Bmin" z D2 z2 A,/B,/ |"D " D z A2 A4 | AB z F- F/E/ D3 |"Bmin" z B, DB, D F3 | FF z E2 D3 | %9
+w: |* Hey girls,|gath- er rou- * n\- d.|Lis- ten to what I'm|put- tin' do- wn.|
+"G " z2 G,2 B, D3 |"A " A, C2 E-"A7" E2 FF- |"D " (3FED- D4 z2 |"Gmaj7" GG z E"A7" E2 z D | %13
+w: Hey ba- by,|I'm your han- * dy m\-|* a\- n. *||
+"D " DF AF AF AF |"A " AA BF-"Bmin" F/E/ D3 |"Emin7" z B, DE"F#min7" FF z E | %16
+w: * I'm not the kind to use a|pen- cil or ru- * l\- e.|I'm han- dy with love and|
+"Bmin" F2 F2"A " ED z A, |"G " G,2 B,B, D2 B,A, |"A " z2 C<E"A7" E2 FF- |"D " F/E/D- D4- D z | %20
+w: I'm no fo- ol. I|fix bro- ken hearts. I know|that I tru- ly c\-|* a\- n. * *|
+"Gmaj7" GG z E"A7" E2 CD |"G " z G GG- G2 z D | G2 GG- G2 dc- |"A " c2 BA"A7" B2 BA | %24
+w: * * * * If your|bro- ken heart * should|need re- pair, * then I|* am the man to s\-|
+"D " F3 D2 z2 D |"G " GG z G G3 D | GG GG- G2 z2 |"E " E2 E2 BB z A | %28
+w: e\- e. I|whis- per sweet things, you|tell all your friends. *|They'll come run- nin' to|
+"A " A f2"Emin" e2"D " d3 x115/24 |"G " dd z c"A " c2 BA |"D " AA FF- F/E/ D3 | %31
+w: me- e\- e\- e.|Here is the main thing that|I want to s\- * a\- y.|
+"Bmin" z B, DE FE FE | FE F E2 D z A, |"G " G,2 B,D D2 B,A,- |"A " A,2 C<E"A7" E2 FF- | %35
+w: I'm bu- sy twen- ty fo- ur|ho- urs a da- y. I|fix bro- ken hearts; I know|* that I tru- ly c\-|
+"D " F/E/ D3 z4 |"Gmaj7" GG z E"A7" E2 z A,/B,/ |"D " D z dd dd dd |"A " cc cB-"Bmin" B2 FE/D/ | %39
+w: * a\- n.||* Come a come a come a|come a come come * come o\- n.|
+"D " z2 d6 |"A " c3"Bmin" B- B3 z |"D " z2 dd dd dd |"A " cc"Bmin" c B2 F E<D |"E " E2 E2 B B2 A | %44
+w: Yeah|yeah yeah *|Come a come a come a|come a come come Oh ye- ah.|They'll come run- nin' to|
+"A " A f2"Emin" e2"D " d3 x83/24 |"G " d d2 c"A " c2 BA- |"D " AA FF- F/E/ D3 | %47
+w: me- e\- e\- e.|Here is the main thing I|* want to s\- * a\- y.|
+"Bmin" z B, DE FE FF- | FE F E2 D z A, |"G " G,2 B,D D2 B,A, |"A " A,2 C<E-"A7" E2 FF- | %51
+w: I'm bu- sy twen- ty four ho-|* urs a da- y. I|fix bro- ken hearts. Ba- by,|I'm your han- * dy m\-|
+"D " F/E/D- D4 z2 |"Gmaj7" GG z E"A7" E2 z A,/B,/ |"D " D z dd dd dd |"A " cc"Bmin" cB- B2 FE/D/ | %55
+w: * a\- n. *||* Come a come a come a|come a come come * come o\- n.|
+"D " z2 d6 |"A " c3 B-"Bmin" B3 z |"D " z2 dd dd dd |"A " cc"Bmin" c B2 F E<D |"D " z2 d6 | %60
+w: Yeah|yeah yeah *|Come a come a come a|come a come come come o\- n.|Yeah|
+"A ""Bmin" c3 B2 z FA/F/- |"D " F2 z2 z4 |"A ""Bmin" z4 FA FE |"D " F/E/D- D4- D z | %64
+w: yeah yeah That's m\- e!||I'm your han- dy|m\- a\- n. * *|
+"A ""Bmin" z4 z2 FA/F/- |"D " F2 z2 z4 |"A ""Bmin" z4 FA FE |"D " D8 |"A ""Bmin" z8 x149/48 |] %69
+w: That's m\- e!||I'm your han- dy|man.||
+

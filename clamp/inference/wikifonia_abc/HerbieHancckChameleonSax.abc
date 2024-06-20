@@ -1,0 +1,19 @@
+X:1
+T:Chameleon_Sax
+T:Chameleon_Sax
+T:Herbie Hancck
+C:Herbie Hancck
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:none
+V:1 treble transpose=-9 nm="Alto Sax" snm="A. Sx."
+%%MIDI program 65
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:Gmin] z8 | z8 | z8 | z8 | z8 |: G/G/ z F/F/ z G/G/ z B2 | G z z2 z2 G/F/D/F/- | FG z2 z2 z F- | %8
+ FG z2 z4 :: fdzd c z z c/d/ | c/B/G/F/- FG z2 G/F/D/F/- | FG z2 z2 z F- | FG z2 z4 :: %13
+ z d c2 c B2 B/c/ | BB/G/ FG- G2 G/F/D/F/- | FG z2 z2 z F- | FG z2 z4 :| %17
+

@@ -1,0 +1,36 @@
+X:1
+T:LOVE IS THE DRUG
+C:Bryan Ferry
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Dm" z2 z2 z2 z2 | z2 z2 z2 z2 |"Am" [EAc]2 [DGB][DGB] [EAc]2 z2 | z8 :| z2 z2 z2 c2 | %5
+w: ||(Love Is The Drug)||Ain't|
+"Dm" d2 d2 d2 z2 | z2 z A c2 cG |"Am" c2 A2 A2 z2 | z4 z2 e2 |"Dm7" e2 d2 d2 z2 | z2 z d c2 G2 | %11
+w: no big thing|to wait for the|bell to ring|ain't|no big thing|the toll of|
+"Am" A2 z2 z4 | z8 |"Dm" A2 A2 GA- A2 | A2 Ac- c2 z G |"Am" A2 A2 c2 dc | eAzA- A2 z2 | %17
+w: bell||ag grav at ed _|spare for days _ I|troll down town to the|red light place _|
+"Dm" A2 B2 AA B2 | AAzc- c4 |"Am" A2 AA c2 dc | e2 AA- A4 |"Dm7" GA A2 GA A2 | AAzc- c4 | %23
+w: jump up bub ble up|what's in store _|Love Is The Drug and I|need to score _|Show ing out Show ing out|hit and run _|
+"Am" A2 A2 c2 dc | e2 AA- A2 z2 |"Em" B2 B2 B2 z2 | BczB- B4 |"Am" A2 AA c2 dc | eAzA- A4 |: %29
+w: Boy meets girl where the|beat goes on _|stitched up tight|can't break free _|Love Is The Drug gotta _|hook in me _|
+"Dm7" [FAe]4 [FAd]2 z2 | cczd- d4 |"Am" A2 AA c3 d | eAzA- A4 |"Em" [GBe]4 d4 | c2 cd- d4 | %35
+w: Ohh _|catch that buzz _|Love is the Drug I'm|think ing of _|Oh _|can't you see _|
+"Am" A2 AA c2 G2 | A2 z2 z4 |"C" [EGc]4- [EGc][FAc] [EG-c-]2 |"G" [DGB]4 z2 z2 | %39
+w: Love Is The Drug for|me|Ohh _ _ _|_|
+"F" F3"C/E" E- E2"Dm7" D2 |"C9" C6 z2 |"C" [EGc]4- [EGc][FAc] [EG-c-]2 |"G" [DGB]4 z2 z2 | %43
+w: ||Ohh _ _ _|_|
+"F" F3"C/E" E- E2"Dm7" D2 |"C6" A,6 z2 |"Dm" A2 A2 c2 z G | A2 Ac- c4 |"Am" A2 A2 d2 cd | %48
+w: ||Late that night I|park my car _|Stake my place in the|
+ eAzA- A4 |"Dm" A2 A2 c4 | A2 ed- d4 |"Am" A2 A2 c2 dc | e2 AA- A2 z2 |"Dm7" A2 B2 A4 | %54
+w: sin gles bar _|face to face|toe to toe _|Heart to heart as we|hit the floor _|Lum ber up|
+ A>c- cF F2 z A |"Am" A2 A2 c2 z c | ddzc- c4 |"Em" B2 c2 B4 | BczB- B4 |"Am" A2 A2 c3 d | %60
+w: Lim bo _ down _ the|locked em brace the|stum ble 'round _|I say "GO"|She say "YES" _|dim the lights you|
+ dccA A4 :| %61
+w: can guess the rest _|
+

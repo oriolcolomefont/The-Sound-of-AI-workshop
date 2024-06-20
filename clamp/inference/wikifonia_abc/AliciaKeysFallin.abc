@@ -1,0 +1,52 @@
+X:1
+T:Fallin'
+C:Alicia Keys
+L:1/8
+M:12/8
+K:G
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Freely" z3 dBG AGzz2(B | !fermata!B6) z3 D3 ||"^Moderate Blues tempo""Em" D/D/ E2z3"Bm7"z2>z2GE | %3
+w: I keep on fall- in' in|_ and|out of love with- a|
+"Em" G3z2>"Bm7"z2zG (AG)G |"Em" B2B2<z2"Bm7"zDD DDD |"Em" E6"Bm7"zzE GEE |"Em" G3z2>"Bm7"z2zD DDD | %7
+w: you. Some- times _ I|love you some- times you make me|blue. Some- times I feel|good. At times I feel|
+"Em" E6"Bm7" z3 BBB |"Em" (B/A/G)(G G2>)"Bm7"z2zE GE(E/D/) |"Em" E3 z3"Bm7" (B,DE) (EG)G | %10
+w: used. Lov- ing you|dar _ _ ling _ makes me so con- _|fused. I _ _ keep _ on|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)zzD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %12
+w: fall- _ _ in' in and out _ _ of|love with- a you. I _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)z/D/DD |"Em" E2>z2GE"Bm7" Gzdze z | %14
+w: nev- _ _ er loved some- one _ _ the way that|I love a- you. Oh, oh,|
+"Em" (e>dB (3A/B/A/ G2)"Bm7"zzE GEE/D/ |"Em" (4:6:4(E/D/E/(G/ G2>))"Bm7"z2z/G/A/G/ (4:6:4A/G/A/G/ | %16
+w: I _ _ _ _ _ _ nev- er felt this- a|way. _ _ _ _ How do you give me so much|
+"Em" (B3 B2)B"Bm7"zz/D/D DDD |"Em" (E2B,) (E2B,)"Bm7" (D E2) BBB | %18
+w: pleas _ ure and cause me so much|pain? _ Yeah, _ yeah. _ Just when I|
+"Em" (B/A/G(G G2>))"Bm7"z2z/E/E/E/ GEE/D/ |"Em" (4:6:4(E/D/E/(G/ G3))"Bm7" z3 (de)e | %20
+w: think _ _ _ _ I'm tak- ing more than would a|fool. _ _ _ _ I _ start|
+"Em" (e/d/Bd B/A/G)(B"Bm7" A2)D DDD |"Em" (B (G2 G3))"Bm7" (B,DE) (EF)G | %22
+w: fall- _ _ _ _ _ _ in' _ back in love with|you _ _ I _ _ keep _ on|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)zzD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %24
+w: fall- _ _ in' in and out _ _ of|love with- a you. I _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)z/D/DD |"Em" E2>z2GE"Em/B" G z z"B7#9" DDD | %26
+w: nev- _ _ er loved some- one _ _ the way that|I love a- you. Oh ba- by.|
+"Em" B,2 z E2 z"Bm7" D2 z F2 z |"Em" (G3 E3"Bm7" B,3) (D E2) |"Em" B,2 z E2 z"Bm7" D2 z F2 z | %29
+w: I, I, I, I'm|fall- _ _ in'. _|I, I, I, I'm|
+"Em" (B3 G3"Bm7" E3) B,3 |"Em" (B2A/4B/4A/4G/4 A2G/F/"Bm7" G2F/E/ F2E/D/) | %31
+w: fall- _ _ in'.|Fall _ _ _ _ _ _ _ _ _ _ _ _ _|
+"Em" (B2A/4B/4A/4G/4 A2G/F/"Bm7" G2F/E/ F2E/D/) |"Em" (B2A/4B/4A/4G/4 A2G/F/"Bm7" G2F/E/ F2E/D/ | %33
+w: fall _ _ _ _ _ _ _ _ _ _ _ _ _|fall. _ _ _ _ _ _ _ _ _ _ _ _ _|
+"Em" E6)"Bm7" (B,DE) (EF)G |"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)zzD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %36
+w: _ I _ _ keep _ on|fall- _ _ in' in and out _ _ of|love with- a you. I _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)z/D/DD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %38
+w: nev- _ _ er loved som- one _ _ the way that|I love a- you. I'm _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)zzD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %40
+w: fall- _ _ in' in and out _ _ of|love with a- you. I _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)z/D/DD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %42
+w: nev- _ _ er loved som- one _ _ the way that|I love a- you. I'm _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)zzD |"Em" E2>z2GE"Bm7" Gz(B, DEF) | %44
+w: fall- _ _ in' in and out _ _ of|love with a- you. I _ _ _|
+"Em" (G/F/E)EzBA"Bm7" (B/A/ G2)z/D/DD |"Em" E2>z2GE"Em/B" G2 z z3 |"Em" z6"Bm7" z6 | %47
+w: nev- _ _ er loved some- one _ _ the way that|I love a- you.||
+"Em" z6"Bm7" z6 |"Em" z6"Bm7" z6 |"Em" z6"Bm7" z6 |"Em" z12 |] %51
+w: ||||
+

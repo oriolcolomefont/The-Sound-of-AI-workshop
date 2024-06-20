@@ -1,0 +1,30 @@
+X:1
+T:If I Could Be With You (One Hour Tonight)
+T:If I Could Be With You
+C:Jimmy Johnson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" E2 G2"Cdim" G3 E |"Dm7" F>GF>E"G7" D4 |"C" E2 G2"Cdim" G3 E |"Dm7" F>GF>E"G7" D4 | %4
+w: I'm so blue I|don't know what to do;|All day thru I'm|pin- ing just for you.|
+"C" C2"Dm7" D2"Cmaj7" E2"Gm" G>^G |"A7" A>BA>G"A9" E3 _E |"D7" D>E^F>G"Am7" A>B"D7"A>D | %7
+w: I did wrong when I|let you go a- way, For|now I grieve a- bout you night and|
+"G7" G6"A7b5" G>A |"G" B>^AB>G"Am7" =A"D7" D2"G7" G- | G4- G>E"C#dim"E>_E | %10
+w: day. I'm un-|hap- py and dis- sat- is fied,|_ _ But I'd be|
+"D7" D>E^F>G"Am7" A>B"D7"A>D |"G7""Gdim" G4- G"G7" z/ B<c^c/ |: d3 B"Dm7" =c3 A | %13
+w: hap- py if I had you by my|side. _ If I could|be with you I'd|
+"G7" B ^G2 A-"G9" A>GA>B |"C" c3 A"E7" B3 ^G |"A7" A E2"A+7" F- F2"A9" E2 |"D9" AE^DE-"D9b5" E4 | %17
+w: love you strong, _ If I could|be with you I'd|love you long _ I|want you to know _|
+"G7" GE^DE-"G9" E3 =D |"C" C>DE>F"Gm" G>A"A9"B>A |"D7" E _E2 D-"G7" D>Bc>^c | d3 B"Dm7" c3 A | %21
+w: I would- 'nt go _ Un-|til I told you hon- ey why I|love you so. _ If I could|be with you one|
+"G7" B ^G2 A-"G9" A>GA>B |"C" c3 A"E7" B3 ^G |"A7" A E2"A+7" F- F2"A9" E2 |"F" D^CDB-"B7" B2 A>B | %25
+w: hour ton- night, _ If I was|free to do the|things I might _ I|tell- ing you true _ I'd be|
+"C" c>^D"E7"E>B"A7" A3 G |"D9" A3 E"G7" G3 E |1"C""Ebdim" C4"G7" z3/2 B<c^c/ :|2"C""Fm""C" C6 z2 |] %29
+w: an- y- thing but blue If|I could be with|you. If I could|you.|
+

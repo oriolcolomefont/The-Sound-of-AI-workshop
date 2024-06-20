@@ -1,0 +1,20 @@
+X:1
+T:Swingin' on Nothin'
+T:Swingin' on Nothin'
+C:Tommy Dorsey
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Fm" (3^G F =G"Eb" ^G2 |"Db7" (3^G F =G"C7" ^G =G |"Fm""Fm" (3^G F =G"Eb""Eb" ^G2 | %3
+"Db7""Db7" (3^G F =G"C7""C7" ^G =G |"Fm""Fm" (3^G F =G"Eb""Eb" ^G2 | %5
+"Db7""Db7" (3^G F =G"C7""C7" ^G =G |"Bb" ^G4 |"Fm" F4 :|"A7" _B =B c F | _B =B c F | %10
+"D7" _B =B c f | (3^g =g f c2 |"G7" _B =B c F | _B =B c F |"C7" _B =B c f | (3^g =g ^f =f2 | %16
+"Fm""Fm" (3^G F =G"Eb""Eb" ^G2 |"Db7""Db7" (3^G F =G"C7""C7" ^G =G | %18
+"Fm""Fm""Fm" (3^G F =G"Eb""Eb""Eb" ^G2 |"Db7""Db7""Db7" (3^G F =G"C7""C7""C7" ^G =G | %20
+"Fm""Fm""Fm" (3^G F =G"Eb""Eb""Eb" ^G2 |"Db7""Db7""Db7" (3^G F =G"C7""C7""C7" ^G =G |"Bb""Bb" ^G4 | %23
+"Fm""Fm" F4 |] %24
+

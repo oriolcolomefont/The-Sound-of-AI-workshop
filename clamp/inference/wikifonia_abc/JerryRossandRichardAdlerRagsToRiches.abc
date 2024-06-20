@@ -1,0 +1,24 @@
+X:1
+T:Rags To Riches
+T:Rags To Riches
+C:Jerry Ross and Richard Adler
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" z CEG cB"E7"dc |"Dm7" c A3- A4 |"G7" z B,DF B"B7"AcB |"C""Bb6" G8 |"A7" z A,^CE AG_BA | %5
+w: I know I go from rags to|rich- es *|if you would on- ly say you|care.|And though my pock- ets may be|
+"Dm7" A F3- F4 |"G7" z2 F2 EDCD |"C""Dm7" E4"G7" z4 |"C" z CEG cB"E7"dc |"Dm7" c A3- A4 | %10
+w: emp- ty, *|I'd be a mil- lion-|aire.|My clothes may still be torn and|tat- tered, *|
+"G7" z B,DF BA"B7"cB |"C""B6" G8 |"A7" z A,^CE AG_BA |"Dm7" A F3- F4 |"G7" z2 F2 G2 A2 | %15
+w: but in my heart I'd be a|king.|Your love is all that ev- er|mat- tered; *|it's ev- 'ry-|
+"Em""B/D#" B8- |"G7" B4 B4 |"C" c2 GE c2 GE |"G" B2 Bc d4 |"G" B2 Bc d2 cB |"C" c2 cA G4 | %21
+w: thing.|* So|o- pen your arms and you'll|o- pen the door,|to ev- 'ry trea- sure that|I'm hop- ing for.|
+"C" c2 GE c2 GE |"Dm7" c2 AG"G7" F2 ED |"C6" C4"Dm7" z4 |"C" z CEG cB"E7"dc |"Dm7" c A3- A4 | %26
+w: Hold me and kiss me and|tell me your'e mine ev- er-|more.|Must I for- ev- er be a|beg- gar, *|
+"G7" z B,DF BA"B7"cB |"C""B6" G8 |"A7" z A,^CE AG_BA |"Dm7" A F3- F4 |"G7" z G^FG d2 d2 |"C" c8 |] %32
+w: whose gold- en dreams will not come|true?|Or will I go from rags to|rich- es? *|My fate is up to|you.|
+

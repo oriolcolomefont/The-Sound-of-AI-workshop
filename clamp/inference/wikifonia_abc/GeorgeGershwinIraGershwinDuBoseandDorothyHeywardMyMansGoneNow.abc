@@ -1,0 +1,46 @@
+X:1
+T:My Man's Gone Now
+T:My Man's Gone Now
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Dm7" d2 e4 |"Dm6" f2 d4 |"D7#9" dc d3 c |"A13" A A3 z2 |"Dm7" AG A2 G2 |"Bb" F2"Ab" D4 | %6
+w: My man's|gone now,|ain't no use a-|lis- tenin'|for his tired _|foot- steps|
+"A7" AG"F" (AG)"Eb9" FD- |"Dm" D6- |"D6" D4 z2 |"D7" (^G2 A2 =B2 |"Dm9" c6) | %11
+w: climb- ing up _ de stairs.|_||Ah, _ _|_|
+"B" z (=B cB"E7b5" _B2 |"A9" A6) |"Dm7" d2 e4 |"Dm6" f2 d4 |"D7b9" dc d3 c |"A7" A A3 z2 | %17
+w: Ah _ _ _|_|Ole Man|Sor- row's|come to keep me|com- p'ny,|
+"D7#9" AG A2 G2 |"Gm7" F2 D4 |"A7" AG"F" (AG)"Eb9" FD- |"Dm" D6- |"Dm6" D4 z2 |"D7" (^G2 A2 =B2 | %23
+w: Whis- per- in' be-|side me|when I say _ my prayers.|_||Ah, _ _|
+"Dm9" c6) |"B" z (=B cB"E7b5" _B2 | A6) |"Dm7" z ^C DF Ac |"A7#9" _ec A_A G_G | %28
+w: _|Ah, _ _ _|_|||
+"Ab7" _AA A2"Ab+7" A2 |"Dbmaj7" BB-"Db6" B4 |"A7sus4" =BB B2"A+7" B2 |"Dm7" c>c c4 | %32
+w: Ain' dat I min'|work- in" _|Work an' me is|trav- el- ers|
+"B7sus4" ^cc c2"B+7" c2 |"Em7" d2 d4 |"F6" AG"Gm" (AG)"G#dim7" FD- |"Am11" D6 | %36
+w: Jour- ney- in' to|ged- der|to de prom _ ise land.|_|
+"Ebmaj7" z2 z2 z _A |"Ab7sus4" _A2 A4 |"Db7sus4" B2 B4 |"G7sus4" =B>B B>B B2 |"Dm9" c2 c4 | %41
+w: But|Ole Man|Sor- row's|march- in' all de way|wid me,|
+"F#m9" ^cc"B+9" c2 c2 |"Em7" e2 e4 |"F" f_e"Gm" (fe)"G#dim" _d2 |"Am11" B6 |"G7" cB (cB) _A2 | F6 | %47
+w: Tell- in' me I'm|ole now.|Since I lose _ my|man.|Since she lose _ her|man.|
+ =AG (AG)"A7" F2 |"Abmaj7" D6 |"D7" (^G2 A2 =B2 |"Dm9" c6) |"B7" z (=B cB"E7b5" _B2 | %52
+w: Since I lose _ my|man.|Ah, _ _|_|Ah, _ _ _|
+"Am7""A7" A6) |"Dm7" d2 e4 |"Dm6" f2 d4 |"D7#9" dc d3 c |"A7" A2 A4 |"Dm11" AG A2 G2 | %58
+w: _|Ole Man|Sow- row's|sit- tin' by de|fire- place,|Ly- in all night|
+"Bb" (F2 _A/F/"Ab" D3) |"G" (AF)"F" AG"Eb9" FD- |"Dm" D6 |"A9/D" =BA B3 A |"D13" =B2 B4 | %63
+w: long. _ _ _|By _ me in de bed.|_|Tel- lin' me de|same thing|
+"A9/D" =B3 A BA |"D7" (c=B) A4 |"A9/D" =BA B3 A |"D13" =B2 (B2 ^A2) |"G7" AG"F" (AG)"Eb9" FD- | %68
+w: morn- in', noon an'|eb'- * nin',|That I'm all a-|lone now _|Since my man _ is dead.|
+"Dm" D6- | D4 z2 |"Dm" (!~(!D6 |"Em7" !~(!A6 |"Cm6" !~)!_e6) |"A7" a2 g2"Bdim" (a2 | %74
+w: ||Ah,|_||Since my man|
+ g2)"F+9" !fermata!f4 |"Dm" d6- | d6- | d4 z2 |"Dmaj7" aa- a4 |"Dm7" ag a3 g | f2 d4 | %81
+w: * is|dead.|_|||||
+"Dm6" ag ag"Cm" f2 |"Dm" (!~(!D6 |"Em7" !~(!A6 |"Cm6" !~)!_e6) |"G/D" (a2 ^g/a/g fe | g2 f2 _e2 | %87
+w: |Ah,|_||Ah, _ _ _ _ _|_ _ _|
+"Dm" dc =B2"Dm#5" _B2 |"Dm" A4-) A z |] %89
+w: ||
+

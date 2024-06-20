@@ -1,0 +1,19 @@
+X:1
+T:Could It Be You
+T:Could It Be You
+T:Cole Porter
+C:Cole Porter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Bbmaj7" z2 D2 F2 D2 |"Cm7""F7" G8 |"Bbmaj7" z2 D2 F2 D2 |"Gm7" G2"Gbm7" _GF-"Fm7""F7" F4 | %4
+"Ebmaj7" z2 G2 B2 G2 |"Fm7""Bb7" c8 |"Ebmaj7" z2 G2 B2 G2 |"Gm7" c2 _cB-"C7" B4 ||1 %8
+ z2"Fmaj7" A2 c3 A ||"A7b9" G^FGB- B3 G |"Dm7" =F=EFA-"G7" AF E2 |"Am7b5" _E6"D7b9" z2 | %12
+"Gm" z2 DD- D"Gm7"^C D2 |"C7" A4 G4 |"F7" z2 FF- F=E F2 |"C9" d4"Cm7""F7" c4 :|2 %16
+ z2"Bbmaj7" B2 d3 B ||"D7" A^GAc- c3 A |"Ebmaj7" G^FGB-"C7" B=F"G7" G2 |"Ebm7""Ab7" E8 | %20
+ z2"Bbmaj7" F2 G2 d2 |"C9" d4"Cm7" cB"F7" c2 |"Bb6" B8 | z8 |] %24
+

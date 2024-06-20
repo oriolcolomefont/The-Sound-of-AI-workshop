@@ -1,0 +1,26 @@
+X:1
+T:Pigalle
+T:Pigalle
+T:Georges Ulmer
+T:French words: Georges Ulmer and Geo.Koger English: Charles Newman
+C:Georges Ulmer
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G G G | G G G | G G G | G G G | G G G | c z G |"G7" F D2- | D3 |"Dm" G G G |"G7" G G G | %10
+w: What makes Par-|ee like Par-|ee ought to|be all the|na- tives a-|gree Pi-|gal- le||won- der- ful|street where the|
+"Dm7" G G G |"G7" G G G |"Dm7" G G G |"G7" B z G |"C" E C2- | C3 |"C7" c G A |"Gm" _B A G | %18
+w: sim- ple folks|meet with the|so- cial e-|lite Pig-|al- le||Side- walk ca-|fes wait- ers|
+"C7" c G A | _B A G |"F" A3 | E3 | D3- | D3 |"Am7" d A B |"D7" c B A |"Am7" d A B |"D7" c d e | %28
+w: bal- anc- ing|trays, morn- ing|night|and|noon||Tax- i cabs|toot, while a|guy on a|flute fin- gers|
+"Dm7" d3 | A3 |"G7" B3- | B2 z |"C" G G G | G G G | G G G | G G G | G G G | c z G |"G7" F D2- | %39
+w: Claire|de|Lune||mad- e- moi-|selles wink their|eyes at the|swells where the|cor- ner sign|spells Pi-|gal- le|
+ D3 |"Dm7" G G G |"G7" G G G |"Dm7" G G G |"G7" G G G |"Dm7" G G G |"G7" d z e |1"C" d c2- || %47
+w: |take it from|me when you|vi- sit Par-|ee yes you|bet- ter had|see Pi-|gal- le.|
+ c2 z :|2"C" d c2- || c z2 |] %50
+w: |||
+

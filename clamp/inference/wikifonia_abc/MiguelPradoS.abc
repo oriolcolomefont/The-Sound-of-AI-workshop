@@ -1,0 +1,30 @@
+X:1
+T:Time Was
+T:Time Was
+C:Miguel Prado
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"G" d2"Bm" d2 |"Am7" (3d c d"D7" (3c d c |"Gmaj7" B B"G7" B2 |"Cmaj7" (3B A B"Cm6" (3A B A | %4
+w: Time was|when we had fun on the|school- yard swings;|when we ex- changed grad- u-|
+"G/B" G G"Gdim/Bb" G2 |"Am7" (3G E G B"D7" B |"G6""E7" E4- |"Am7" E z"D7" z2 |"G" d2"Bm" d2 | %9
+w: a- tion rings|one love- ly yes- ter-|day.|_|Time was|
+"Am7" (3d c d"D7" (3c d c |"Gmaj7" B B"G7" B2 |"Cmaj7" (3B A B"Cm6" (3A B A | %12
+w: when we wrote love let- ters|in the sand,|or lin- gered ov- er our|
+"G/B" G G"Gdim/Bb" G2 |"Am7" (3G E G"D7" B"D7b9" B |"G6""Cmaj7" G4- |"G6" G3"F#7" z | %16
+w: cof- fee and,|dream- ing the time a-|way.|_|
+"B" (3F F F"Bdim" (3^G G G |"C#m7" (3B ^A ^G"F#7" (3A G F |"B6" ^G2"Cdim" ^D E |"C#m7" F3"F#7" z | %20
+w: Pic- nics and hay- rides and|mid- win- ter sleigh- rides and|nev- er a-|part.|
+"D" (3F F F"Cm6/Eb" (3=G G G |"Em11" (3A A A"A7" (3^c B A |"Am7" B A/B/ =c/ d B/ |"D7" A3"D7b9" z | %24
+w: Hikes in the coun- try and|there's more than one tree on|which I've a place in your|heart.|
+"G" d2"Bm" d2 |"Am7" (3d c d"D7" (3c d c |"Gmaj7" B B"G7" B2 |"Cmaj7" (3B A B"Cm6" (3A B A | %28
+w: Dar- ling,|ev- 'ry to- mor- row will|be com- plete,|If all our mo- ments are|
+"G/B" G G"Gdim/Bb" G2 |"Am7" (3G E G"D7" B"D7b9" B |1"G6""Em7" G4- |"A7" G3"D9" z :|2"G6" G4- | %33
+w: half as sweet|as all our time was|then.|_|then.|
+ G3 z |] %34
+w: _|
+

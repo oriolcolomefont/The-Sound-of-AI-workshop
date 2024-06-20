@@ -1,0 +1,34 @@
+X:1
+T:The Whiffenpoof Song (1909)
+T:The Whiffenpoof Song (1909)
+T:Tod B. Galloway
+T:Meade Minnigerode,George S. Pomeroy
+C:Tod B. Galloway
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"Bb7" B>B |"Eb" BG GG | G<G B>B |"Bb7" BA"Fm7" A<A |"Bb7" F2 B>B | BF"Fm7" FF |"Bb7" FF EF | %7
+w: To the|ta- bles down at|Mo- ry's, To the|place where Lou- ie|dwells, To the|dear old Tem- ple|Bar we love so|
+"Eb" G4- | G2"Bb7" B>B |"Eb" B<G G>G | GG BB |"Bb7/F" B<A"Fm7" AA |"Bb7" F2 B>B | BF FG | %14
+w: well.|* Sing the|Whif- fen- poofs as-|sem- bled with their|glass- es raised on|high. And the|mag- ic of their|
+"Fm7" A<A"Bb7" G>F |"Eb""Ab" E4- |"Eb" E z B>B | BG GG | G<G B>B |"Bb7" BA A<A | F2 F>G | %21
+w: sing- ing casts its|spell|* And the|mag- ic of their|sing- ing, of the|songs we love so|well, "Shall I|
+ BF"Fm7" FG |"Bb7" AA GF |"Eb" G4- | G z"Bb7" B>B |"Eb" ee ee |"Abm6" e e2 e |"Ab" ec cc | %28
+w: Was- ting" and "Ma-|vour- neen" and the|rest.|* We will|se- re- nade our|Lou ie while|life and voice shall|
+"F7" c2 G>A |"Bb7" BB Bc | BA GF |"Eb""Ab" (E4 ||[M:3/4]"Eb" E2) z2 B2 | B4 GG | G4"Edim" BB | %35
+w: last, then we'll|pass and be for-|got- ten with the|rest.|* We're|poor lit- tle|lambs who have|
+"Bb7/F" B4 A2 | F6 |"Fm7" c6 |"Bb7" d6 |"Eb" B6- | B4 B2 |"Eb" B4 GG | G4"Edim" BB |"Bb7/F" B4 A2 | %44
+w: lost our|way,|baa,|baa,|baa.|* We're|lit- tle black|sheep who have|gone a-|
+ F6 |"Fm7" F6 |"Bb7" G6 |"Eb" E6- | E4 z2 |"Cm" e3 e e2 | e4 e2 |"Fm7" e4 cc | c6 |"Bb7" d4 d2 | %54
+w: stray,|baa,|baa,|baa.||Gent- le- men|song- sters|off on a|spree,|doomed from|
+"Bb+" d3 d d2 |"Ebmaj7" d4 B2 |"Eb6" B6 |"Gm7b5" G4 G2 |"C7" G3 A B2 |"Fm7" B2 A4 |"Ab6" F6 | %61
+w: here to e-|ter- ni-|ty,|Lord, have|mer- cy on|such as|we,|
+"Fm7" F6 |"Bb7" G6 |"Eb" E6- | E2 z2 z2 |] %65
+w: baa,|baa,|baa.-||
+

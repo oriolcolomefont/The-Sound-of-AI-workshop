@@ -1,0 +1,35 @@
+X:1
+T:Once I Loved
+T:Once I Loved
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gm7""^Medium Bossa Nova" d4- |"C+7" d2- d/ c A/- |"Fmaj7" A4- |"F#dim7" A2 (3z B c | %4
+w: Once|_ _ I loved,|_|* and I|
+w: Then|_ _ one day,|_|* from my|
+"Gm7" (3d d d (3d d d |"G#dim7" d2 (3f e d |"Am7" (3e c A- A2- |"Am7/G" A3 z |"Fm7" c4- | %9
+w: gave so much love to this|love, you were the|world to me. _|_|Once|
+w: in- fin- ite sad- ness you|came and brought me|love a- gain. _|_|Now|
+"Bb+7" c2- c/ B G/- |"Ebmaj7" G4- | G2 (3z G A |"Em7b5" (3B B A (3c c B |"A7b9" A2 (3G B A |1 %14
+w: _ _ I cried,|_|* at the|thought I was fool- ish and|proud and let you|
+w: _ _ I know,|_|* that no|mat- ter what ev- er be-|falls I'll nev- er|
+"Dmaj7" G/ ^F A/- A2- |"D7b9" A2 z2 :|2"Dmaj7" G/ ^F A/- A2 |"G7" G/ =F A/- A/ G E/- ||"Cmaj7" E4 | %19
+w: say good- bye. *||let you go, _|I will hold _ you close,|_|
+w: |||||
+"F7" G2- G/ F D/- |"Bbmaj7" D4- | D2 (3z D E |"Bdim7" (3F F E- (3E G _G |"Bbm6" F2- F/ F _D/ | %24
+w: make _ you stay.|_|* Be- cause|love is the _ sad- est|thing _ when it|
+w: |||||
+"Am6" E =D/D/- D2- |"Ab7b5" D2 (3z D E |"G7" (3F F E (3E G _G |"Gm7" F2-"A7b9" F/ F ^C/ | %28
+w: goes a- way _|_ Be- cause|love is the _ sad- est|thing _ when it|
+w: ||||
+"Dm6" E3/2 D/ D2- | D4 |] %30
+w: goes a- way.|_|
+w: ||
+

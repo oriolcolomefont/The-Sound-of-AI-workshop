@@ -1,0 +1,44 @@
+X:1
+T:Laudate Dominum
+T:Laudate Dominum
+C:Wolfgang Amadeus Mozart
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" F3- FGA |"Bb/D" B3- B"Gm7"cd |"Csus4" c3- c"C7"dB |"C/F" c2 (3B/c/B/"F" A3 | f3- f2 e | %5
+w: |||||
+"Bb" e2 (3d/e/d/"F" c2 z |"Ddim7" =B3- B2 _B/g/ |"C/E" g2- g/f/8e/8d/8c/8 B z2 | %8
+w: |||
+"F" A3-"Bb6" AB/c/d/B/ |"F/C" A3"C7" BG/A/B/G/ |"F" (F3- FGA) |"Bb/D" (B3- B"Gm7"cd | %12
+w: ||Lau- * * *|da- * * *|
+"Csus4" c3- c"C7"d)B |"C/F" c2 (3(B/c/B/)"F" A3 | f3- f2 e |"Bb" (e2 (3d/e/d/)"F" c2 z |"G/F" =B6 | %17
+w: * * * te|Do- mi- * * num|om- * nes|gen- * * * tes,|lau-|
+"C/E" c3-"Am/C" c2 (=B/A/) |"Dm7" (G2 F)"G7" F2 z |"C""Am" ((E6 |"F6" (D3) d3-) | d^cd fe)d | %22
+w: da- * te *|e- * um|om-||* * * * * nes|
+"C" =c3-"G7" c2 ((((((d/c/)))))) | BgG AfA |"C" c>GG G2 A |"F#dim/C" AcB"C7""C7" B3 | %26
+w: po- * pu- *||Quo- ni- am con- fir-|ma- * ta est|
+"C/Bb""C/Bb" e3- e2 e/d/4c/4 |"F/A""F/A" f6 |"Bb" (ff)(e d)(dc |"Gm" B2-)"Bdim" B>B A2 | %30
+w: su- * per * *|nos|* mi- * se- ri- *|cor- * di- a|
+"F/C" (c3- cB/A/G/A/) |"C" (G2 A BAG) |"F/A" F3- (FcA) |"C/Bb" G2- G/F/"F/A" F3 | f3- f>(ed/)c/ | %35
+w: e- * * * * *|jus, * * * *|et * * *|ve- * ri- tas,|ve- * * ri- tas|
+"C/E" c2- c/B/"F" A2 z |"F/A" E6 |"Bb" D3 (f3- |"G7/B" f^cd fe)d |"F/C" c3- c2 F | %40
+w: Do- * mi- ni|Ma-|net, ma-|* * * * * net|in * ae-|
+"Csus4" (F3-"C7" F2 G/)F/ |"F" (F3-"F/E" FGA |"Bb/D" B3-"Gm" B)cd |"C" c3 (cd)B | %44
+w: ter- * * num.|Glo- * * *|* * ri- a|Pa- tri * et|
+"C/F" c2 (3B/c/B/"F" A3 | f2 f f2 e/f/ |"Bb/F" e2 (3d/e/d/"F/C" c2 z |"Ddim7" =B6 |"C7/E" B6 | %49
+w: fi- * * li- o|et spi- ri- tu- i|san- * * * cto|si-|cut|
+"F" A6 |"Bdim7" _A3 =A2 A |"Fm/C" (c3- cB/_A/)G/A/ |"C" G3 z z2 |"F" F3 (Fc)A |"Gdim" G3"Am" F3 | %55
+w: e-|rat in prin-|ci- * * * pi- *|o|et nunc * et|sem- per|
+"F" f3 f>ed/c/ |"C7/E" B2- B/B/"F" A3 |"Adim" _e6 |"Gm" d6 |"G7" (f3- fed |"C" c3- cB/A/)G/F/ | %61
+w: et * * in *|sae- * cu la|sae-|cu-|lor- * * *|* * * * rum. *|
+"A" F3- F2 F |"Dm" (f6 |"Bb" (f)^cd fcd) |"G7" (G/A/=B/c/d/e/ f/e/g/f/e/d/ | %65
+w: A- * men|A-|* * * * * men|A- * * * * * * * * * * *|
+"C" c3- c3/2d/4c/4B/4A/4G/4F/4) |"Csus4""C" G6 |"F" F2 z4 |] %68
+w: ||men|
+

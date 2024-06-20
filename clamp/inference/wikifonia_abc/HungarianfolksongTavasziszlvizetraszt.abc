@@ -1,0 +1,15 @@
+X:1
+T:Tavaszi szél vizet áraszt
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C D E E | D (D/E/) C D | E/ E3/2 D (D/E/) | C2 G, z | C D E/ E3/2 | D (D/E/) (C/B,/) A, | %6
+w: Ta- va- szi szél|vi- zet * á raszt,|vi- rá- gom, vi- *|rá- gom,|Min- den ma- dár|tár- sat * vá- * laszt,|
+ D/ (D E/) C B, | A,2 A, z |] %8
+w: vi- rá- * gom, vi-|rá- gom.|
+

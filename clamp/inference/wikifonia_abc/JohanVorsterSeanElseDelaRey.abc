@@ -1,0 +1,38 @@
+X:1
+T:De La Rey
+C:J. Vorster / S. Else / B. van Blerk
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Grand Piano"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z6 |"Gsus4" z2 z z G,A, |"G" B,B,B, B,2 z |"Gsus4" DDD DCB, |"G" z B,2 z2 z | z2 z z G,A, | %6
+w: |Op 'n|berg in die nag|lê ons in don- ker en|wag.|In die|
+"Em" B,<A,G, G,B,A, |"C2" G,2 z"D" G,A,G, |"G" B,A,G, B,2 z |"Gsus4" z2 z z G,A, | %10
+w: mod- der en bloed lê ek|koud streep- sak en|reën kleef teen my.|En my|
+"G" B,B,B, B,2- B,/G,/ |"Gsus4" DDD D>CB, |"G" B,<CB, B,2 z | z2 z z G,A, |"Em" B,<A,G, G,B,A, | %15
+w: huis en my plaas tot *|ko- le ver- brand so- dat|hul ons kan vang,|maar daai|vlam- me en vuur brand nou|
+"C2" G,2 z"D" A,2 G,/F,/ |"G" G,2 z z2 z | z2 z z GA || BBB B2 z |"Gsus4" ddd dcB |"G" BcB BcB | %21
+w: diep, diep bin- ne|my.|De- la|Rey, de la Rey|sal jy die boe- re kom|lei? De la Rey, De la|
+ B2 z z cB |"D" AAA A2 z/ D/ |"C2" ccc"D" cBG |"G" GGG GAG | G2 z z GA | BBB B2 z/ D/ | %27
+w: Rey? Ge- ne|raal Ge- ne raal soos|een man sal ons om jou|val, Ge- ne- raal De la|Rey. Hoor die|ka- kies wat lag, 'n|
+"Gsus4" ddd d<cB/B/ |"G" B<cB B2 z | z2 z z GA |"Em" BAG EB<A |"C2" G2 G/G/"D" AGA |"G" B2 z z2 z | %33
+w: hand- jie van ons * teen 'n|he- le groot mag|en die|kran- se lê hier teen ons|rug, hul- le dink dis ver-|by.|
+ z2 z"D" z GA |"G" BB/B(B/ B2) z/ D/ |"Gsus4" d<dd d<cB/B/ |"G" B<cB B2 z | z2 z z GA | %38
+w: Maar die|hart van 'n boer * lê|die- per en wy- er, hul- le|gaan dit nog sien.|Op 'n|
+"Em" BA<G E2 G | G2 B/B/"D" A2 G |"G" G2 z z2 z | z2 z z GA |: BBB B2 z |"Gsus4" ddd dcB | %44
+w: perd kom hy aan, die|Leeu van die Wes- Trans-|vaal.|De la|Rey De la Rey|sal jy die boe- re kom|
+"G" BcB BcB | B2 z z cB |"D" AAA A2 z/ D/ | ccc"D" cBG |"G" GGG GAG |1 G2 z z GA :|2 %50
+w: lei, De la Rey, De la|Rey? Ge- ne-|raal Gen- e raal soos|een man sal ons om jou|val, Ge- ne- raal De- la|Rey. De la|
+"C2" G2 z z GG || G<ED E2 z | ccc cBA |"G" B2 z z2 z | z2 D/D/ BcB |"Em" G2 z G2 G/G/ | %56
+w: Rey. Want my|vrou en my kind,|lê in 'n kamp en ver-|gaan.|En die ka- kies se|murg loop oor 'n|
+ GGB"D" AGF |"G" G2 z z2 z | G3 A3 |: BBB B2 z |"Gsus4" ddd dcB |"G" BcB BcB | B2 z z cB | %63
+w: na- sie wat weer op sal|staan.|De- la|Rey, De la Rey|sal jy die boe- re lom|lei, De la Rey, De la|Rey? Ge- ne-|
+"D" AAA A2 z/ D/ | ccc"D" cBG |"G" GGG GAG |1 G2 z z GA :|2 G2 z z cB |"D" AAA A2 z | %69
+w: raal, ge- ne- raal, soos|een man sal ons om jou|val, Ge- ne- raal De la|Rey De- la|Rey, Ge- ne-|raal, ge- ne- raal,|
+"C2" ccc"D" cBA |"G" G2 z z2 z |] %71
+w: sal jy die boe- re kom|haal?|
+

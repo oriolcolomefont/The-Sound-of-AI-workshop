@@ -1,0 +1,22 @@
+X:1
+T:I'm Alone Because I Love You
+T:I'm Alone Because I Love You
+C:Joe Young
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 D/G/ |"G" B2 D |"E+" c2"E7" B |"A7" A E2- | E3 |"D7" F"Ddim" =F"D7" ^F | B2 A |"G" D3- | %8
+w: I'm a-|lone be-|cause I|love you,|_|Love you with|all my|heart;|
+ D z D/G/ | B2 D |"E+" c2"E7" B |"A7" B A G | E3 | B A G | ^C E G |"D7" B A"Ddim" ^G |"D7" A3 | %17
+w: _ I'm a-|lone be-|cause I|had to be|true,|Sor- ry I|can't say the|same a- bout|you.|
+"G" G"Am7" G"Gdim" G |"G7" G A =F |"C" E"G9" =F"Abm7" ^F |"C" G3 |"A" A"Bm7" A"Adim" A | %22
+w: Yes- ter- days|kiss- es are|bring- ing me|pain;|Yes- ter- days|
+"A7" A B G |"D7" F"Em7" G"Fdim" ^G |"D7" A2 D/G/ |"G" B2 D |"E+" c2"E7" B |"A7" A E2- | E3 | %29
+w: sun- shine has|turned in- to|rain. I'm a-|lone bec-|cause I|love you,|_|
+"D7" F"Ddim" =F"D7" ^F | d2 B |"G""C" G3- |"G" G3 |] %33
+w: love you with|all my|heart.|_|
+

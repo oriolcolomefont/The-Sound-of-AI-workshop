@@ -1,0 +1,41 @@
+X:1
+T:How Old Am I?
+T:How Old Am I?
+T:Gordon Jenkins
+T:Gordon Jenkins
+C:Gordon Jenkins
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ z6 ^A2 |:"G" B6 D2 |"B7" ^D6 A2 |"E" ^G2 B2"Dm6" =F3 B, |"F" D6 z"E7" _D |"Am7" C2 EG BAGE |1 %6
+w: How|old am|I? I'm|old e- nough to|know the|diff- rence be- tween in- fat- u|
+w: |old am|I? I'm|not too old to|hear the|sweet ring of truth and un- der|
+"D7" FF- F4 F=F |"G" E3 ^E"Bbdim" FFF=F |"Am7" =E6"D+9" ^A2 :|"D7" FF- F4 G^F | %10
+w: a- tion * and a|love that has a chance to|grow. How|stan- ding * when the|
+w: ||||
+"Dm" =F3 ^F"Em" GGGF |"Dm7" =F4 z2"G7" E2 ||"C" G2 B,2 B,3 C |"G7" ^C2 D2 D3 A | %14
+w: words "I love you" reach my|ear. Don't|mind those lines be-|neath my eyes, they're|
+w: ||||
+"C" G2 B,2 B,2 =C2 |"A7" ^C6 =C^C |"Dm" D2 E2 =F2 A2 |"B" B2 B4 B_B |"C" (3A2 G2 ^F2 G4- | %19
+w: well earned sou- voi-|niers of a|thou- sand nights of|laugh- ter and oc-|ca- sion- al tears.|
+w: |||||
+ G4 z2 GG |"Fm" G2 C2 C3 D |"Bb9" D2 _E2 _E2 =F2 |"Eb" =F2 _B,2 B,3 C |"Am7" D6"D7" D^D | %24
+w: * And I|hope you won't be|jea- lous of the|sil- ver in my|hair. It took|
+w: |||||
+"G" EE F2"B7" ^D2"Em" E2 |"A7" G2 A2 F2 G2 |"Am7" A8- |"D7" A4 z2 ^A2 ||"G" B6 D2 |"B7" ^D6 A2 | %30
+w: ma- ny a lo- vers|quarrel to put it|there.|* How|old am|I? You|
+w: ||||||
+"E" ^G2 B2"Dm6" =F3 B, |"F" D4 z2"E7" D_D |"Am7" C2 EG BAGE |"D7" F2 F2 F2 A2 |"Dm7" =F8- | %35
+w: kiss me and I'm|young. Love's a|road ne- ver trav- elled life's a|song I've ne- ver|sung.|
+w: |||||
+"G7" F4 z2 ^DE |"C" G2 G2 (3A2 F2 G2 |"Cm" A2 FG A2 G2 |"^G   B7" B8- |"E7" B4 z B^AB | %40
+w: * If I|make you hap- py to-|day I'm the per- fect|age.|* As for to-|
+w: |||||
+"Am7" cc-"^Am7-" c6- |"D7" c4 B3 F |"G" G8 |] %43
+w: mor- row *|* turn the|page.|
+w: |||
+

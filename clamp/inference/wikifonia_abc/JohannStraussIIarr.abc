@@ -1,0 +1,34 @@
+X:1
+T:The Nuns' Chorus (from Casanova)
+T:Nun's Chorus (from Casanova)
+T:Johann Strauss II, arr. Ralph Benatzky
+T:Harry Graham
+C:Johann Strauss II arr.Ralph Benatzky
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A3 |"Dm" A3 |"Am" c3 |"Bb" F3 |"F/C" A3 |"G9/D" A3 |"C" G3- | G3 |"Bb" d3 |"Gm""Gm7" d3 | %10
+w: Ho-|ly|Ma-|ry|day|by|day||Watch|be-|
+"C/E" c2"C7" B |"F""F/E" A3 |"Dm""Dm/C" d3 |"E7/B" e3 |"Am" A3 |"Am/C""C7" c3 |"F" A3 |"Dm" A3 | %18
+w: side *|us,|Guard|and|guide|us,|Lest|we|
+"Am" c3 |"Bb" F3 |"F/C" A3 |"G9/D" A3 |"C" G3- | G3 |"Bb" d3 |"Gm""Gm/F" d3 |"C/E" c2"C7" B | %27
+w: stray|on|life's|high-|way.||On|our|knees to|
+"F" A3 |"Gm7/Bb" G3 |"C7" G2- G/F/ |"F" F3- | F z e |"Bb" d2 G/F/ |"C7" c/B/"Dm" A"Gm" B | %34
+w: thee|Hum-|bly * we|pray.||||
+"C7sus4" G2"C7" E/D/ | E2 F |"F" F2 A | F3 | F2 c | A3- | A f"Fmaj7" e |"F6" d2"F" A |"C7" c3 | %43
+w: ||Hear my|plea,|Pi- ty|me,|* Bless- ed|Ma- ry|send|
+"C7b9" ^c3 |"C9" d3 |"C7" c3 |"F" F2 A | F3 | F2 c | A3- | A f"Fmaj7/E" e |"F6/D" d2"F" A | %52
+w: and|save|me.|Ho- ly|Maid,|lend your|aid,|* Ere the|con- vent|
+"Am/E" c3 |"E7" =B3 | d3 |"C7/G" c3 |"F7" c2 d |"F7/Eb" f2 d |"Bb/D" c3 |"Bb" B3 |"D+7" B2"D7" A | %61
+w: vows|en-|slave|me.|Fair- est|flow'rs I'll|bring|you,|Sweet- est|
+ d2 A |"G9" A3 |"C7" G3 |"F" F2 A |"F/E" F3 |"F7/Eb" F A c |"G7/D" g3 |"F/C" z f"Fmaj7" e | %69
+w: songs I'll|sing|you.|Pray'r and|Praise|shall * not|cease|If you|
+"C9/G" d2"C7" c |"F" f3- | f3 |] %72
+w: grant re-|lease.-||
+

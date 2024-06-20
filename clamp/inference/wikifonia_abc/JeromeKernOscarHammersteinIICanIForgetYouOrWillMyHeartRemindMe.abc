@@ -1,0 +1,26 @@
+X:1
+T:Can I Forget You, Or Will My Heart Remind Me?
+T:Can I forget you
+T:Jerome Kern
+T:Oscar Hammerstein II
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"F" C |: A3"C7" G |"F" F C2"C7" C |"F" C F"C7" G B |"F" A c"C7" B2 |"F" A3"C7" G | %6
+w: Can|I for-|get you/ or|will my heart re-|mind me that|once we|
+"F" F G/F/"G7" E F |"Gm7" G4- |"C7" G3 C |"F" A3"C7" G |"F" F C2"C7" C |"F" C F"C7" G B | %12
+w: walked in a moon- lit|dream/|* can|I for-|get you or|will my heart re-|
+"F7" A c2"Bb" B |"C" A3"C7" G |"F" c A"Gm7" F"C7" G |"F" F4- | F3 z |"Bb" d3"C7" e |"F" d2 c2 | %19
+w: mind me how|sweet you|make the moon- light|seem||will the|glo- ry|
+"Gm7" d3"C7" e |"F" d2"C7" c2 |"Bb" c3 B |"F" B2 A2 |"G7" A G/F/ G A |"Gm7" C3"C7" C | %25
+w: of your|near- ness|fade, as|moon- light|fades in a veil of|rain/ can|
+"F" A3"C7" G |"F" F C2"C7" C |"F" C F"C7" G B |"F7" A c2"Bb" B |"F" A3"C7" G |"F" c A"Gm7" F G |1 %31
+w: I for-|get you when|ev'- ry night re-|minds me how|much I|want you back a-|
+"F" F4- |"Gm7" F z"C7" z C :|2"F" F4- | F2- F z |] %35
+w: gain.|* Can|gain||
+

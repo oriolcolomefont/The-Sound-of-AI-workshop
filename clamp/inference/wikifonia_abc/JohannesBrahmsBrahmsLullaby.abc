@@ -1,0 +1,30 @@
+X:1
+T:Brahms' Lullaby
+T:Brahms' Lullaby
+T:Wiegenlied
+C:Johannes Brahms
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ GG |"Eb" B3 G G2 | B2 z2 (GB) | e2 d3 c |"Bb7/Eb" (c2 B2) (FG) | A2 F2 (FG) | A2 z2 (FG) | %7
+w: Lul- la-|by, and good-|night, With _|ro- ses be-|dight, _ With _|lil- lies oe'r _|spread, Is _|
+w: Lul- la-|by and good-|night, Thy _|moth- er's de-|light, _ Bright _|an- gels be _|side, My _|
+w: Gut- en|a- bend, gut'|Nacht, mit _|Ro- sen be-|dacht, _ Mit _|Näg'- lein be- *|stect schlupf' _|
+w: Gut- en|a- bend, gut'|Nacht, von _|Eng- lein be-|wacht, _ die _|zeig- en im _|Traum, dir _|
+ dc B2 d2 |"Eb" e2 z2"Eb7" EE |"Ab/Eb" e4 cA |"Eb" B4 GE |"Bb7/Eb" A2 B2 c2 |"Eb" (G B3)"Eb7" EE | %13
+w: bab- * bies wee|bed. Lay thee|down now and|rest, May thy|slum- ber be|blessed _ Lay thee|
+w: dar- * ling a-|bide. They will|guard thee from|harm, Till you|wake in my|arms, _ They will|
+w: un- * ter die|Deck'. Mor- gen|früh, wenn Gott|will, wirst du|wie- der ge-|wect, _ Mor- gen|
+w: Christ- * kind- leins|baum. Schlaf nun|se- lig und|süß, schau im|Traum's Par- a-|dies, _ Schlaf nun|
+"Ab/Eb" e4 cA |"Eb" B4 GE |"Bb7/Eb" (3(ABA G2) F2 |"Eb" E4 z2 |] %17
+w: down now and|rest, May thy|slum- * * ber be|blessed.|
+w: guard thee from|harm, Till you|wake _ _ in my|arms|
+w: früh, wenn Gott|will, wirst du|wie- * * der ge-|wect.|
+w: se- lig und|süß, scjau im|Traum's _ _ Par- a-|dies.|
+

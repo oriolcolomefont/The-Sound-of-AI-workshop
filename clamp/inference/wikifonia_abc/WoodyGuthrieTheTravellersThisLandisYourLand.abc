@@ -1,0 +1,33 @@
+X:1
+T:This Land is Your Land
+T:This Land is Your Land
+T:(Canadian bilingual version)
+T:Woody Guthrie
+T:The Travellers
+C:Woody Guthrie
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: GAB |"C" c2 c3 cGA |"G" B2 B3 DGB |"D" A2 A3 (A/A/)GA |"G" B2 B3 (G/G/)AB |"C" c2 c3 (c/c/)GA | %6
+w: This land is|your land, this land is|my land, From Bo- na|Vis- ta to Van- cou- ver|Is- land, From the Arc- tic|Cir- cle to the Great Lake|
+w: French:~~Le plus cher|pa- ys, de tout' la|ter- re, C'est no- tre|pa- ys, nous * sommes tous|frè- res. De * l'Île Van-|cou- ver, jusqu' * à Terr'|
+w: ||||||
+"G" B2 B6 |"Am" A A2 A"D" FDEF |"G" (G4"^Fine" G) || (G/G/)AB |"C" c2 c3 c (G/G/)A | %11
+w: wa- ters,|This land was made for you and|me. _|1.~As _ I went|walk- ing That rib- bon of|
+w: Neu- ve,|C'est l'Ca- na- da, c'est not' pa-|ys. _|2.~I _ roamed and|ram- bled, and fol- lowed my|
+w: |||3.~When the sun came|shi- ning, and I * was|
+"G" B2 B3 (D/D/)GB |"D" A2 A3 (A/A/)GA |"G" B2 B3 (G/G/)AB |"C" c2 c3 cGA |"G" B2 B6 | %16
+w: high- way, I * saw a-|bove me, That * end- less|sky- way. I * saw be-|low me, that gol- den|val- ley,|
+w: foot- steps to the fir- clad|for- ests of our might- y|moun- tains, and * all a-|round me, a voice was|call- ing:|
+w: stroll- ing, and the wheat- fields|wav- ing, and the dust clouds|roll- ing, as the fog was|lift- ing, a voice came|chan- ting:|
+"Am" A A2 A"D" FDEF |1,2"G" (G4 G) :|3"G" (G4"^DC al Fine" G) |] %19
+w: This land was made for you and|me. _|me. _|
+w: This land was made for you and|me. _|_ _|
+w: This land was made for you and|me.~ _|_ _|
+

@@ -1,0 +1,34 @@
+X:1
+T:Close to you
+T:Close To You
+T:Burt Bacharach, Hal DAvid
+T:Medium Slow
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 32
+V:1
+ x4 !fermata!C2 !fermata!E2 |:"^A""Ab" B4 BABc |"G7sus4" G6 GB |"Gm7" d6 GB |"Cm7" e6 z2 | %5
+w: Why do|birds sud den ly ap|pear ev' ry|time you are|near?|
+"Abmaj9" C E2 B- B4 |"Fm7" C E2 c"Bb9sus4" B4 |"Ebmaj9" C E2 B- B4 |"Bbm7" z4"Eb7" C2 E2 | %9
+w: Just like me _|they long to be|close to you _|Why do|
+"Abmaj9" B4 BABc |"G7sus4" G6 GB |"Gm7" d6 GB |"Cm7" e6 z2 |"Abmaj9" C E2 B- B4 | %14
+w: stars fall down from the|sky ev' ry|time you walk|by?|Just like me _|
+"Fm7" C E2 c"Bb9sus4" B4 |"Ebmaj9" C E2 B- B4 |"Bbm7" z4"Eb7" z4 ||"^B""Abmaj7" EEFF GGFF | %18
+w: they long to be|close to you. _||On the day that you were born the|
+"Abmaj7" EEFF GGFE |"Gm7" BBcc ddcB |"C9sus4" d6 cd |"Abmaj7" eeee eeee |"Ab6" eeee eede | %23
+w: an gels got to geth er and de|ci ded to cre ate a dream come|true So they|sprin kled moon dust in youe hair of|gold and star light in your eyes of|
+"Bb9sus4" f4 z4 |"Bb9sus4" z4 C2 E2 |"^C""Abmaj7" B4 BABc |"G7sus4" G6 GB |"Gm7" d6 GB | %28
+w: blue|That is|why all the girls in|town fol low|you all a|
+"Cm7""_Solo on ABC, then Tag." e6 z2 |"Abmaj9" C E2 B- B4 |"Fm7" C E2 c"Bb9sus4" B4 | %31
+w: round|Just like me _|They long to be|
+"Ebmaj9" C E2 B- B4 |"Bbm7" z4"Eb7" z4 |:"^TAG""Abmaj9" C E2 B- B4 |"Fm7" C E2 c"Bb9sus4" B4 | %35
+w: close to you _||Just like me _|they long to be|
+"Ebmaj9" C E2 B- B4 |"Bbm7" z4"Eb7" z4 |] %37
+w: close to you _||
+

@@ -1,0 +1,16 @@
+X:1
+T:Birk's Works
+T:BIRK'S WORKS
+T:Dizzy Gillespie
+C:Dizzy Gillespie
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 z FAB |:"Fm" =BcB_B AFA_B |"Gm7b5" B2 Ac z"C7" FAB |"Fm" =BcB_B AFA_B |"Cm7b5" z4 z F"F7"AB | %5
+"Bbm7" =BcB_B AFA_B |"Bbm7" B2 A=B z FAB |"Fm" =BcB_B AFA_B |"Fm" z4 z FAB- | %9
+"Abm7" B B3"Db9" z FAB- |"Gm7b5" B B3 (3A/B/"C7"A/ FEF- |"Fm" F2 z2 z4 | z4 z FAB :| %13
+

@@ -1,0 +1,16 @@
+X:1
+T:Love Theme From The Godfather
+T:Love Theme From The Godfather
+T:Nino Rota
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z2 z EAc |: BAcA BAFG | E4 EEAc | BAcA BAE_E | D4 DDF^G | B4 BDF^G | A4 AA,CG | FEGF FDD^G, | %8
+ A,4 z AA_A | G4 B2 AF | E4 EEGE | D4 DDG^D | E4 z EAc :| BAcA BAFG | E4 EEAc | BAcA BAE_E | %16
+ D4 DDF^G | B4 BDF^G | A4 AA,CG | FEGF FEE^G | A8 |] %21
+

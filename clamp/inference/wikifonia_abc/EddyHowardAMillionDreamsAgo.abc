@@ -1,0 +1,33 @@
+X:1
+T:A Million Dreams Ago
+T:A Million Dreams Ago
+C:Eddy Howard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 2
+%%MIDI program 53
+V:1
+"Amin7" z2 ga ge dc |"G " B2 dB- B2 D2 |"A " AA- A4 A^G |"G " G6 z D |"A " AA- A2 A2- A^G | %5
+w: |* * * * You|told me * it was|so a|mil- lion * dreams * a\-|
+"G " G6 z E |"Bmin" BB- B4 Bc |"G " d6 z c |"Bmin" cB- B2 B2- B^A |"G " B6 D2 | %10
+w: go. You|held me * in your|arms a|mil- lion * dreams * a\-|go. So|
+"A " AA- A2 A2- A^G |"G " G6 D2 |"A " AA- A2 A2- A^G |"G " G6 z E |"Bmin" B2- BB- B2 Bc | %15
+w: ma- ny * dreams * have|flown. So|ma- ny * nights * a\-|lone. I|guess * I * should have|
+"D " d4 z d- (3ddc |"E9" B8- | B6 z E |"C " c2- cc"D " cd- d2 |"Amin" e2- (3ede"G " d2 z c | %20
+w: known it * cou- dn't|be.|* I|locked * my me- mories *|here * in my heart and|
+"Amin" e2- (3ede"D7" d2 z c |"G " B6 z E |"Emin" GG G4 z A |"A9" BA BA- A2 z G | %24
+w: here * in my heart they'll|stay and|through the years they'll|al- ways be part * a|
+"Emin" B2- (3BAB A2 G2 |"D " A6 z D |"A " A4 (3A2 A2 ^G2 |"G " G6 z D |"A " A4 (3A2 A2 ^G2 | %29
+w: part * of a love- ly|day. Good-|bye, good luck old|friend. I'll|smile and just pre-|
+"G " G6 z E |"Emin" B2- BB B2- Bc |"D " dd- d2"Emin" B2- BB |"G " G8- |"Cmin" G4"G " z2 B2 | %34
+w: tend, ther|was * no end * a|mil- lion * dreams * a\-|go.||
+"A " AA- AA- A2 ^G=G- |"G " GG- G4 F2 |"A " A4 A2 ^G=G- |"G " G4 z E FG |"Emin" BB- BB- B2 c2 | %39
+w: |||||
+"D " d4"Emin" B2 BG- |"G " GG AB- BG ED |"D " D2- Dd-"E " de- e2 |"Fmaj7" =fe dc"D7" (3B2 d2 e2 | %43
+w: ||||
+"G " d8 |] %44
+w: |
+

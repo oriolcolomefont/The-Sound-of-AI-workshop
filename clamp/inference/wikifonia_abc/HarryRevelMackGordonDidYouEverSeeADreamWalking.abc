@@ -1,0 +1,28 @@
+X:1
+T:Did You Ever See A Dream Walking?
+T:Did You Ever See A Dream Waking?
+C:Harry Revel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z3 B,/>C/ |"G" D/>D/D/>D/ D2 | B G z"Ddim" B, |"Am7" E"D7" D3 |"C" D"D7" z z B,/>C/ | %5
+w: Did you|ev- er see a dream|walk- ing? Well|I did!|_ Did you|
+"Am7" D/>D/D/>D/"D7" D2 | c A z C |"Edim" E"G" D3- | D z z G/>A/ | B/>B/B/>B/"Gmaj7" B2 | %10
+w: ev- er hear a dream|talk- ing? Well|I did!|_ Did you|ev- er have a dream|
+"G7" d B2 G |"C" B G G G- |"G+""Gm" G4 |"A7" B G G G- | G2 F G |"D7" A D"Ddim" D"D7" D- | %16
+w: thrill you with|"Will you be mine?"|_|Oh, it's so grand|_ and it's|too, too di- vine.|
+ D3 B,/>C/ |"G" D/>D/D/>D/ D2 | B G z"Ddim" B, |"Am7" E"D7" D3 |"Am7" D"D7" z z G/>A/ | %21
+w: _ Did you|ev- er see a dream|danc- ing? Well|I did!|_ Did you|
+"G" B/>B/B/>B/"^GMA7" B B |"G7" d B2 G |"C" B A3- | A z z B/>c/ |"Cm" d/d/ d d/ d3/2 | %26
+w: ev- er see a dream ro-|manc- ing? Well|I did!|_ Did you|ev- er find Heav- en|
+ (3d ^c =c"G+" B2 |"G" (3B d B"A7" (3G B"G" G |"A7" E3 B,/>C/ |"Am7" D D/>D/"D7" D/>D/D/>D/ | %30
+w: rignt in your arms,|Say- ing I love you, I|do. Well the|dream that was walk- in' and the|
+"Am7" D D/>D/"D7" D/>D/D/>D/ |1"Am7" D/>D/"D7"D/>D/"Am7" E"D7" F ||"G" G"Ddim" z"D7" z B,/>C/ :|2 %33
+w: dream that was talk- in' And the|Heav- en in my arms was|you. Did you|
+"C" D/>D/"D7"D/>D/"C" E"D7" B ||"G" G2- G z |] %35
+w: Heav- en in my arms was|you. _|
+

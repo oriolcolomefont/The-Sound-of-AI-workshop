@@ -1,0 +1,28 @@
+X:1
+T:How Can I Keep from Singing
+T:How Can I Keep from Singing?
+T:Robert Lowry
+T:Attributed to "Pauline T."
+C:Robert Lowry
+Z:Public Domain
+L:1/4
+M:3/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z D |"G" G A B3 G |"C" A G E3 D |"G" G B d3 B |"D" B A3 | z D |"G" G A B3 G |"C" A G E3 E | %8
+w: My|life flows on in|end- less song; A-|bove earth's lam- en-|ta- tion,|I|hear the sweet, though|far off hymn That|
+w: What|though my joys and|com- forts die? The|Lord my Sav- ior|liv- eth.|What|though the dark- ness|ga- ther round? Songs|
+w: I|lift mine eyes; the|cloud grows thin; I|see the blue a-|bove it;|And|day by day this|path- way smoothes, Since|
+"G" D G B3"D7" A | A"G" G3 | z B |"G" d"D7/G" d"G" d3 B |"D" A B"Em" G3"D" A |"G" B B B3"D" A | %14
+w: hails a new cre-|a- tion.|Through|all the tu- mult|and the strife, I|hear the mu- sic|
+w: in the night He|giv- eth.|No|storm can shake my|in- most calm While|to that re- fuge|
+w: first I learned to|love it:|The|peace of Christ makes|fresh my heart, A|fount- ain ev- er|
+"G" B d3 | z B |"G" d d d3 B/A/ |"C" G E"G" D3 D |"Em" G"D" A"G" B3"D7" A | A"G" G4 x |] %20
+w: ring- ing;|It|finds an ech- o *|in my soul. How|can I keep from|sing- ing?|
+w: cling- ing;|Since|Christ is Lord of *|Heav'n and earth, How|can I keep from|sing- ing?|
+w: spring- ing!|All|things are mine since *|I am His! How|can I keep from|sing- ing?|
+

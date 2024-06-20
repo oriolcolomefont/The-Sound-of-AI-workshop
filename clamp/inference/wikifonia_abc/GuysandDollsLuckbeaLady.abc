@@ -1,0 +1,45 @@
+X:1
+T:Luck be a Lady
+C:Guys and Dolls
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:1
+"G+7" _b/g/ =b"Fmaj7#5" g/e/ a |"Dm6" e/^c/ (3f/d/A/"G+7" !fermata!_B>G | %2
+w: |* * * * * * They|
+"G+7" _B/G/=B/G/"C" Ez/G/ |"G+7" _B/G/=B/G/"C9" Ez/C/ | %4
+w: call you lad- y luck But|there is room for doubt At|
+"F6" D/C/"F#dim"_E/C/"C" (3=E/F/G/ (3A/B/c/ |"F9" d/c/ (3A/G/A/- Az/G/ |"G+7" _B/G/=B/G/"C" Ez/G/ | %7
+w: times you have a very * un- lady * like|way Of run- ning out * You're|on this date with me The|
+"G+7" _B/G/=B/G/"C9" Ez/C/ |"F6" D/C/"F#dim7"_E/C/"C" (3=E/F/G/ (3A/B/c/ | %9
+w: pick- ings have been lush And|yet be- fore the even- ing is o- ver You|
+"F9" d/c/ (3A/G/"B9"A/- Az/^G/ |"E" B/^G/^F/E/"C7" F/ AG/ |"E" B/^G/^F/E/"Ab" c>c | %12
+w: might give me the brush _ You|might for get your man- ners You|might re- fuse to stay And|
+"C" c/G/E/F/"Dm7" G/G/"G7"G/G/ |"C" C4- |"Db7" C4 |"C" z E z E |"Db7" z F z F |"C" G2 F E | %18
+w: so the best that I can do is|pray|_|||Luck be a|
+"Db7" F G _B G- |"C" G4- |"Db7" G3 z |"C" G2 F E |"Db7" F G _B G- |"C" G4- |"Db7" G3 z | %25
+w: lad- y to- night|_||Luck be a|lad- y to- night|_||
+"C" G2 F E |"Db7" F G F E |"C" F G F E |"Db7" F G3 |"C" c2 G F |"Db7" G C C C- |"C" C4- | %32
+w: Luck if you've|e- ver been a|lad- y to begin|* with|Luck be a|lad- y to- night|_|
+"Db7" C3 z |"C" z4 |"Ab7" z4 ||[K:Db]"Db" A2 G F |"D7" G A _c A- |"Db" A4- |"D7" A3 z | %39
+w: |||Luck let a|gen- tle- man see|_||
+"Db" A2 G F |"D7" G A _c A- |"Db" A4- |"D7" A3 z |"Db" A2 G F |"D7" G A G F |"Db" G A G F | %46
+w: how nice a|dame you can be|||I know the|way you've treat- ed|o- ther guys you've|
+"D7" G A3 |"Db" d2 A G |"D7" A D D D- |"Db" D4- |"D7" D3 z |"Db" z4 |"A7" z2 z ^C || %53
+w: been with|Luck be a|lad- y with me|_|||A|
+[K:D]"D" D E F G |"A7b9" F3 E |"D" D D3- | D D D D |"Am6" A4- | A"Bm7" D D D |"E7" ^G4- | %60
+w: lad- y ne- ver|leaves her|es- cort|_ It is- n't|fair,|_ it is- n't|nice|
+ ^G2 z"E7b9" =F |"Am" E A B A | =c2 A A | d2 A A |"Bb7b9" =c3 A |"Fm" B2 G G |"B7" B B F2 | %67
+w: _ A|lad- y does- n't|wan- der all|o- ver the|room And|blow on some|oth- er guy's|
+"G9" A4- |"Dm7" A z"G7" z G ||[K:C]"C" G2 F E |"Db7" F G _B G- |"C" G4- |"Db7" G3 z |"C" G2 F E | %74
+w: dice|_ So|Let's keep this|part- y po- lite|_||Ne- ver get|
+"Db7" F G _B G- |"C" G4- |"Db7" G3 z |"C" G2 F E |"Db7" F G F E |"C" F G F E |"Db7" F G3 | %81
+w: out of my sight|_||Stick with me|bab- y, I'm the|guy that you came|in with|
+"C" c2 G F |"Db7" G C3 |"C" c2 G F |"Db7" G C3 |"C" c2 G F |"Db7" G C C C- |"C" C4- |"Db7" C4- | %89
+w: Luck be a|lad- y|Luck be a|lad- y|Luck be a|lad- y to- night|_||
+"C" C4- |"Db7" C4- |"C" C4- |"Db7" C4- |"C" C z z2 |] %94
+w: |||||
+

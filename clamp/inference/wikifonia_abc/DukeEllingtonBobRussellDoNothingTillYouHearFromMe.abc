@@ -1,0 +1,31 @@
+X:1
+T:Do Nothing Till You Hear From Me
+T:Do Nothing Till You Hear From me
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"G" B c2 B"B7" B c2 B |"Dm6" BcBe-"E7sus4" e4 |"Am7" z2 AB"D7" A B2 G- |"G" G D3"Eb9" =F"D9" E3 | %4
+w: Some- one told some- one and|some- one told you, _|But they would- n't hurt|_ you, not much,|
+"G" B c2 B"B7" B c2 B |"Dm6" B2 e4"E7" EF |"A7" G2 AF"A7b5" GABA |"D" z cA^A"D7" BdcA |: %8
+w: Since ev- 'ry one spreads the|sto- ry with his|own lit- tle per- son- al touch,|Do noth- ing 'till you hear from|
+"G""Gmaj7" B8 |"G7" z cA^A BdcA |"Cmaj7" B8 |"F9" z cA^A BdcA |"G" BGD"Am7"C- C4- | %13
+w: me.|Pay no at- ten- tion to what's|said,|why peo- ple tear the seam of|an- y- ones dream _|
+"D9" C z ^A2 BDEG- |"G""G#dim7" G8 | z cA^A BdcA |"G""Gmaj7" B8 |"G7" z cA^A BdcA |"Cmaj7" B8 | %19
+w: _ is ov- er my head.|_|Do noth- ing 'til you hear from|me,|at least con- sid er our ro-|mance;|
+"F9" z cA^A BdcA |"G" BGD"Am7"C- C4- |"D9" C z ^A2 BDEG- |"G" G6"C7" z2 |"Fm7" z4"Bb7" z GGG | %24
+w: If you should take the word of|oth- ers you've heard _|_ I have- 'nt a chance.|_|True I've been|
+"Eb""Ebmaj7" _B8 |"Eb" G_BGG-"Ebmaj7" GGGG | _B8 |"Eb" G_BGG-"Eb9" GGGG |"Am7" d4-"D7" d3 D | %29
+w: seen|with some- one new, _ but does that|mean|that I'm un- true? _ When we're a-|part _ the|
+"G" EGB"E9"F- F3"Gm" G |"D" A=F^F"A7"A- A^AB"D7"d- | dcA^A BdcA |"G""Gmaj7" B8 |"G7" z cA^A BdcA | %34
+w: words in my heart _ re-|veal how I feel _ a- bout you.|_ Some kiss may cloud my mem- o-|ry,|and oth- er arms may hold a|
+"Cmaj7" B8 |"F9" z cA^A BdcA |"G" BGD"Am7"C- C4- |"D9" C z ^A2 BDEG- |1 %38
+w: thrill.|But please do noth- ing 'till you|hear it from me _|_ and you nev- er will.|
+"G" G4"Bb7""Eb9" z2"D9" z2 ||"^N.C." z cA^A BdcA :|2"G" G8- || G z z2 z4 |] %42
+w: _|Do noth- ing till you hear from|||
+

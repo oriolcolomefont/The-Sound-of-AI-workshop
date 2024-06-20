@@ -1,0 +1,17 @@
+X:1
+T:Jive Samba
+T:Jive Samba
+T:Nat Adderley
+C:Nat Adderley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F7#9" _A2 z F F2 z2 | _A2 z F F2 z2 | _A2 z F F2 z2 | _A2 z F F2 z F |:S"F7#9" _A_e- e6- | e6 cF | %6
+ _A3 F- F4- | F8 |"F7#9" z2 z F _A _e2 e- | e4- ecBF | _A2 F_E- E4- |1 E6 z F :|2 _E8 |: %13
+"Bb7#9" ff z f z ^c d2 | B2 z2 d2 d2 |"F7#9" dc z c- c4- | c6 z F |"F7#9" _A_e- e6- | e6 cF | %19
+ _A3 F- F4- |O F8!D.S.! :|O F4 z C_E=E |:"F7#9" F2 z2"^Vamp til Cue" z4 | z4 z C_E=E :| F2 z2 z4 |] %25
+

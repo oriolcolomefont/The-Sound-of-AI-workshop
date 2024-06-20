@@ -1,0 +1,26 @@
+X:1
+T:Stranger On The Shore
+T:Stranger On The Shore
+C:Acker Bilk
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" c3 c |"Gm7""C7" B4 |"F" c A/B/"F7" A F |"Bb""Bbm" B,3 F |"F" A B"Dm7" A d |"G7""G+" G3"G" D | %6
+w: Here I|stand|watch- ing the tide go|out, So|all a- lone and|blue just|
+"Gm7" G A B d |"C7" E3 C |"F" c3 c |"Gm7" B2"C7" B2 |"F" A B"F7" A F |"Bb""Bbm" B,4 | %12
+w: dream- ing deams of|you. I|watched your|ship as|it sailed out to|sea,|
+"F" A B"Dm7" A d |"Am""F7" c3 A |"Bb" G A"C7" B E |"F" F4 |"Bb" z/ B/c/d/- d f |"F" c3 A | %18
+w: Tak- ing all my|dreams and|tak- ing all of|me.|The sigh- ing of the|waves, the|
+"Gm" G A"C7" B c |"F" A3 F |"Bb" B c d f |"Am" e3 z/ c/ |"G7" =B c d e |"Gm7""C7" c4 |"F" c3 c | %25
+w: wail- ing of the|wind, the|tears in my eyes|burn plead-|ing, "My love, re-|turn."|Why, oh,|
+"Gm7" B2"C7" B2 |"F" A B"F7" A F |"Bb""Bbm" B,3 F |"F" A B"Dm7" A d |"Am7""F7" c3 A | %30
+w: why must|I go on like|this? Shall|I just be a|lone- ly|
+"Bb" G A"C7" B E |1"F""Gm7""C7" F4 :|2"F""Gm7""C9" F4- |"F" F4 || %34
+w: stran- ger on the|shore?|shore?||
+

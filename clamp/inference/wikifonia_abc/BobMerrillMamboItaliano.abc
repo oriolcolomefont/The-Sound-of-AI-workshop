@@ -1,0 +1,27 @@
+X:1
+T:Mambo Italiano
+T:Mambo Italiano
+T:Bob Merrill
+C:Bob Merrill
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Cm" c2 G2 G2 EF- |"Fm" F F2 =E FGAF |"Cm" c2"^\n" G2 G2 z2 |"Fm" F F2 =E FGAF |"Cm" c2 G2 G2 z2 | %5
+w: Hey mam- bo hey mam|* bo i- tal- i- an- o|hey mam- bo|mam- bo i- tal- i- a- no|go go go|
+ F F2 =E FGAF | CCCC CCCC | CCCC CCCC |"Cm" c2 G2 G2 EF- | F"Fm" F2 =E FGAF |"Cm" c2 G2 G2 z2 | %11
+w: mixed up Si- cil- i- an- o|all you Cal- a- braise a do the|mam- bo like a cra- zy with a|hey mam- bo hey dont|* wan- na tar- an- tel- la|hey mam- bo|
+"Fm" F F2 =E FGAF |"Cm" c2 G2 G2 z2 |"Fm" F F2 E FGAF |"Cm" CCCC CCCC | CCCC CCCC |"C7" B2 B2 B4- | %17
+w: no more a moz- za rel- la|hey mam- bo|mam- bo I- tal- i- a- no|try and en- cha- la- da with da|fish- a- bac- a- lah and then a|hey goom- bah|
+ B3 B cBAG |"Fm" A2 A2 A4- | A3 A BAGF |"Cm" G2 G2 G2 C2 | GGGG G2 C2 |"Ab" cccc cccc | %23
+w: * I love- a how you|dance rhum- bah|* but take a- some ad-|vice pai- san- o|learn- a how to mam- bo|if you gon na be a square you|
+ ccBB"Ab7" AA"G7" G2 |"Cm" c2 G2 G2 EF- |"Fm" F2 F2 FGAF |"Cm" c2 G2 G2 z2 |"Fm" F F2 =E FGAF | %28
+w: aint a gon- na go no where|hey mam- bo mam bo|* it- ~al- i- a- no|hey mam- bo-|mam- bo it- al- ia- a- no|
+"Cm" c2 G2 G2 z2 |"Fm" F F2 =E FGAF |"Cm" CCCC CCCC | CCCC CCCC |"Dm7" =A3 A- A4 |"G7" A4- AG=A=B | %34
+w: go go Joe|shake like a Gi- o- vian- no|hel- lo kess- e- deetch you ~get- ta|hap- py in the feets a- when you|mam- bo *|* * I- tal- i-|
+"Cm" d3 d c4- | c4 z4 |] %36
+w: a- no. *||
+

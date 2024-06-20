@@ -1,0 +1,47 @@
+X:1
+T:Copacabana (At The Copa)
+T:Copacabana
+T:Barry Manilow,Bruce Sussman & Jack Feldman
+C:Barry Manilow,Bruce Sussman,& Jack Feldman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm9" =a2 gd- d4 |"Fm9" g2 fc- c4 |"Gm9" =a2 gd- d4 |"^no chord" f/gf/gf/g/ z GBc | %4
+w: |||* * * * * * Her name was|
+w: |||* * * * * * His name was|
+w: |||* * * * * * Her name is|
+"Fm7" e>A- (A2"Fm7/Bb" A)edc |"Ebmaj7" d>G- G2- GGBc |"Am7b5" dede"D7" d2 BG | %7
+w: Lo- la, * * she was a|show girl * * with yel- low|feath- ers in her hair and a|
+w: Ri- co * * he wore a|dia mond * * He was es-|cor- ted to his chair, he saw|
+w: Lo- la, * * she was a|show- girl * * But that was|thir- ty years a- go, when they|
+"Gm9" =AAAG/A/- AGBc |"Fm7" e>A- A2-"Fm7/Bb" Aedc |"Ebmaj7" d>G- G2- GGBc | %10
+w: dress cut down to there * She would me-|ren- gue * * and do the|cha- cha * * and while she|
+w: Lo- la danc- ing there * and when she|fin- ished, * * he called her|o- ver * * But Ri- co|
+w: used to have a show * Now it's a|dis- co,- * * but not for|Lo la- * * Still in the|
+"Am7b5" dede"D7" d2 B^F |"Gm9" G=ABc dBGD |"D7b9" ^F>=A-A(G"Gm" G)BGD | %13
+w: tried to be a star To- ny|al- ways tend- ed bar a- cross the|crow- ded * floor, * they worked from|
+w: went a bit too far To- ny|sailed a- cross the bar and then the|pun- ches * flew * and chairs were|
+w: dress she used to wear, Fad- ed|feath- ers in her hair she sits there|so re- * fined, and drinks her- self|
+"D7b9" ^F>=A-AB-"Gm" B z GD |"Cm7" E/F(G/G)=A/B/"D7" cABc |"Gm" d2"D7/F#" d2"Bb7/F" d z cd | %16
+w: eight to * four- * They were|young and had * each o- ther who * could|ask for more? At the|
+w: smashed in * two- * There was|blood and a * sin- gle shot but * just|who shot who? * *|
+w: half- blind * She * lost her|youth and she * lost her To- ny, Now she's|lost her mind. * *|
+"Fm7" e>A- A2-"Fm7/Bb" Aedc |"Ebmaj7" d3 c- c4 |"Fm7" A>B-Bc"Fm7/Bb" e>ddc |"Ebmaj7" d>G z2 d3 c | %20
+w: Co- pa * * Co- pa- ca-|ban- a *|The hot- * test spot north of Ha-|van- a At the|
+w: ||||
+w: ||||
+"Fm7" e>A- A2-"Fm7/Bb" Aedc |"Gm7" d3 c-"C" c4 |"Fm7" (3e2 d2 e2"Bb7" (3d2 c2 d2 | %23
+w: Co- pa * * Co- pa- ca-|ban- a *|Mus- ic and pas- sion were|
+w: |||
+w: |||
+"Gm7" (3c2 B2 c2"C7" dBcd |"Fm7" e3 c- c4 |"D7" e2 d4 c2 | d4 z4 :| %27
+w: al- ways in fash- ion At the|Co- pa *|they fell in|love.|
+w: ||she lost her|love.|
+w: ||don't fall in|love.|
+

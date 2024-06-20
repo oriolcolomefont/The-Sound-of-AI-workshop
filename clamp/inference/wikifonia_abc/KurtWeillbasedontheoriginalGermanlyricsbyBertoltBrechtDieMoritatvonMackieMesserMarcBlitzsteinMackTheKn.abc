@@ -1,0 +1,39 @@
+X:1
+T:Mack The Knife
+T:MACK THE KNIFE
+C:Kurt Weill
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ E3 G |"C6" A4 A4- | A4 E3 G |"Dm7" A4 A4- | A4 D3 F |"G9" A4 A4- | A4 D3 F |"C6" A8- | %8
+w: Oh, the|shark has|_ pret- ty|teeth, dear|_ and he|shows them|_ pearl- y|white.|
+w: ||||||||
+ A4"C" G3 B |"Am" d4 c4- | c4"Am7" B3 A |"Dm7" c4 D4- | D4 E3 F |"F6/G" c4 D4- | D4 c2"G7" B2 | %15
+w: _ Just a|jack- knife|_ has Mac-|heath, dear|_ and he|keeps it|_ out of|
+w: |||||||
+"C6" A8- | A4"G9" E3 G |"C6" A4 A4- | A4 E3 G |"Dm7" A4 A4- | A4 D3 F |"G9" A4 A4- | A4 D3 F | %23
+w: sight.|_ When the|shark bites|_ with his|teeth, dear|_ scar- let|bil- lows|_ start to|
+w: ||||||||
+"C6" A8- | A4"C" G3 B |"Am" d4 c4- | c4"Am7" B3 A |"Dm7" c4 D4- | D4 E3 F |"F6/G" c4 D4- | %30
+w: spread.|_ Fan- cy|gloves, though|_ wears Mac-|heath, dear|_ so there's|not a|
+w: |||||||
+ D4 c2"G7" B2 |"C6" A8- | A4"G9" E3 G |:"C6" A4 A4- | A4 E3 G |"Dm7" A4 A4- | A4 D3 F | %37
+w: _ trace of|red.|_ On the|side- walk|_ Sun- day|morn- ing|_ lies a|
+w: |||Mil- ler|_ dis- ap-|peared, dear|_ af- ter|
+"G9" A4 A4- | A4 D3 F |"C6" A8- | A4 G3 B |"Am" d4 c4- | c4"Am7" B3 A |"Dm7" c4 D4- | D4 E3 F | %45
+w: bod- y|_ ooz- ing|life;|_ some- one's|sneak- ing|_ 'round the|cor- ner.|_ Is the|
+w: draw- ing|_ out his|cash;|_ and Mac-|heath spends|_ like a|sail- or.|_ Did our|
+"F6/G" c4 D4- | D4 c2"G7" B2 |"C6" A8- | A4"G9" E3 G |"C6" A4 A4- | A4 E3 G |"Dm7" A4 A4- | %52
+w: some- one|_ Mack The|Knife?|_ From a|tug- boat|_ by the|riv- er|
+w: boy do|_ some- thing|rash?|_ Su- key|Taw- dry,|_ Jen- ny|Div- er,|
+ A4 D3 F |"G9" A4 A4- | A4 D3 F |"C6" A8- | A4 G3 B |"Am" d4 c4- | c4"Am7" B3 A |"Dm7" c4 D4- | %60
+w: _ a- ce-|ment bag's|_ drop- ping|down;|_ the ce-|ment's just|_ for the|weight, dear.|
+w: _ Pol- ly|Peach- um,|_ Lu- cy|Brown,|_ oh, the|line forms|_ on the|right, dear|
+ D4 E3 F |"F6/G" c4 D4- | D4 c2"G7" B2 |1"C6" A8- | A4"G9" E3 G :|2"C6" A8- | A6 z2 |] %67
+w: _ Bet you|Mack- ie's|_ back in|town.|_ Lou- ie|town.|_|
+w: _ now that|Mack- ie's|_ back in|||||
+

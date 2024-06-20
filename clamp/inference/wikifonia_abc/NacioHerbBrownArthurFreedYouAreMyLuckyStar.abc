@@ -1,0 +1,24 @@
+X:1
+T:You Are My Lucky Star
+T:You Are My Lucky Star 
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" c4 | C3 c |"C7" =B c3 | C4 | c4 | C2 c2 |"F" =B c3 | C4 | z C D F | C D/F/- F/D/ F |"G7" A4 | %11
+w: You|are my|luck- y|star|I|saw you|from a-|far.|Two love- ly|eyes at me _ they were|gleam-|
+w: You|are my|luck- y|star.|I|saw you|from a-|far.|If God was|a glam- * * o- rous|creat-|
+ D4 |"C7" A4 | D4 |"F" A2"Bb" B2 |"B7" =B2"C7" c2 |"F" c4 | C3 c |"C7" =B c3 | C4 | c4 | C2 c2 | %22
+w: ing,|beam-|ing,|I was|star struck.|You're|all my|luck- y|charms,|I'm|luck- y|
+w: ure,|you're|a|four star|feat- ure.|Though|you are|nev- er|seen,|Up|on some|
+"F" =B c3 | C4 |"F7" z F G A |"F9" c c"F7b9" c c |"Bb6" c c c c |"Bbm6" c c c B |"F" c4 | C2 c2 | %30
+w: in your|arms.|You've op- ened|heav- en's por- tal|here on earth for|this poor mor- tal.|You|are my|
+w: mov- ie|screen,|You are my|Scher,- ar, Craw- ford,|Hep- burn, Har- low,|and my Gar- bo.|You|ae my|
+"C7" C c3 |1"F" F2 z"Bb6" z :|2"F" F3 z |] %33
+w: luck- y|star.|star.|
+w: luck- y|||
+

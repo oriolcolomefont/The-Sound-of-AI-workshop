@@ -1,0 +1,25 @@
+X:1
+T:The Barrow Boy Song
+T:The Barrow Boy Song
+T:Art Noel,Frank Walsh,Joe Burley & Harry Bull
+C:Art Noel,Frank Walsh,Joe Burley & Harry Bull
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z z2 E |"Eb" B3 c2 G | B2 B"C7" cBG |"F7" F3- F2 E | C3- C z C |"Bb7" D2 B B2 B | B2 B AF^F | %7
+w: They|say I'm no|good be- cause I'm a|bar- * row|boy, * a|bar- row boy, I've|al- ways wan- ted to|
+"Eb" G6- | G2 z z2 z |"C7" G3 ^F2 G | c B2- B2 G |"Fm" G2 F F2 G | F2 z F2 ^F |"F7" G F2- F2 =E | %14
+w: be.||I gets me|liv- in' * I|stick to it with|pride, I'm a|cost- er, * a|
+ G F2- F2 F |"Cdim" ccc c2 =B |"Bb7" B3- B2 z |"Eb" B3 c2 G | B2 B"C7" c2 G |"F7" F3- F2 E | %20
+w: cost- er * from|ov- er the Lam- beth|side. *|I turn my|back up- on so|ci- * et-|
+ C3- C z2 |"Bb7" D2 B B2 B | B2 B AF^F |"G" G6- | G3- G z G |"C7" GGG ^FFG | c B2- B2 G | %27
+w: y, *|take me where the|ripe * ba- na- nas|grow.|* * They're|on- ly a do- zen a|shill- ing, * that's|
+"Fm" F2 F =E2 F | d c2- c z c |"F7" FFF d2 c |"Bb7" BcB G2 F |"Eb" E6- | E2 z z2 z |] %33
+w: how I get my|liv- ing. * I|ought to have been a|Bar- row Boy years a-|go.-||
+

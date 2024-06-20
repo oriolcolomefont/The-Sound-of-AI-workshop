@@ -1,0 +1,28 @@
+X:1
+T:ROLLING IN THE DEEP
+T:
+T:ROLLING IN THE DEEP
+T:Adele
+C:Adele
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cpower""^VERSE" G2 G2 F/E/ C3 |"Gpower" GGFE C4 | G>"Bbpower"B- B_G FE CC/C/ | %3
+w: There's a fire * *|start ing in my heart|reach ing * a fev er pitch and its|
+ E/E"Gpower"E/ DC/C/"Bbpower" z2 z2 |"Cpower" G2 G2 F/E/C CC |"Gpower" GGFE C4 | %6
+w: bring in' me out the dark|Fin al ly * * i can|see you cry stal clear|
+ GG/"Bbpower"B/- B_G FE CC/-C/ | E"Gpower"EDC"Bbpower" C2 z2 ::"Ab""^BRIDGE:" z2 z C G2 G2 | %9
+w: Go ah ead * and sell me out and *|I'll lay your stuff down|The scars of|
+"Bb" F/E/C EE G2 G2 |"Gm7" F/E/C EE G2 G2 |"Ab" FEFE FEGE |"Ab" E3 E G2 G2 |"Bb" F/E/C EE G2 G2 | %14
+w: your * * love re mind me|of * * us. They keep me|think ing that we al most had it|all. The scars of|your * * love they leave me|
+"Gm" F/E/C EE G2 G2 |"Fm" FEzG BGBG ||"Cm""^CHORUS:" c6 dB- |"Bb" B4 BGBG |"Ab" c6 dB | %19
+w: breath * * less I can't help|think ing: We could 've had it|all * *|* Roll ing in the|deep * *|
+ z2 z G"Bb" BGBG |"Cm" c4 cccB- |"Bb" B4 z GGA- |"Ab" AG z2 z GGA | GF"Bb"E- E2 z2 z |] %24
+w: You had my heart and|Soul 'side of your hand|* and you played|* it to the beat||
+

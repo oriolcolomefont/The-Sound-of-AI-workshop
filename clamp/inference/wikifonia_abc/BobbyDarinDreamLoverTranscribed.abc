@@ -1,0 +1,48 @@
+X:1
+T:Dream Lover (Transcribed)
+C:Bobby Darin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Acoustic Guitar (nylon)" snm="Gtr"
+%%MIDI channel 5
+%%MIDI program 24
+V:1
+"C " c4"Emin" cB cB |"Amin" A4"G7" AG AG |"C " c4"Emin" cB cB |"Amin" A4"G7" AG AG | %4
+w: ||||
+"C " c2 cG c3 G | c d2 e d c3- |"Amin" cA A2 A c2 G | A G2 A- A2 z2 |"C " z G cG c2 z2 | %9
+w: * Ev- 'ry night I|hope and pr- a\- y|* a Dream Lo- ver will|come my way, *|a girl to hold|
+ c d2 e d c3 |"Amin" z A AG A c2 z | A G2 A G2 AG |"C " c2 z2 z2 z c |"G7" d2 z2 z2 z d | %14
+w: in my a\- r\- ms|and know the ma- gic|of her cha- rms. Cause I|want a|girl to|
+"C " ed/c/- c z z2 z e |"F " (3fdc- c2 z c dc |"C " z e2 d"Amin" c d2 G |"Dmin7" Ac c"G7" A2 c dd | %18
+w: c\- a\- ll * my|o\- w\- n. * I want a|Dre- am Lo- ver so|I don't have to dream a\- lo-|
+"C " c8 |"G7" gg ff ee dd |"C " c2 c2 c c3 | c d2 e d c3 |"Amin" z2 AG A2 z2 | A c2 A G2 z2 | %24
+w: ne.||* Dream Lo- ver|where are y\- o\- u,|with a love|oh so tr- ue,|
+"C " z2 cG c3 G | c d2 e d c3 |"Amin" z G AG A3 G | A c2 A2 G AG |"C " c2 z2 z2 z c | %29
+w: and a hand that|I can ho- l\- d,|to feel you near as|I grow o\- ld? Cause I|want a|
+"G7" d2 z2 z2 z d |"C " ed c2 z2 z e |"F " fd/c/- c2 z c dc |"C " z e2 d"Amin" cd z G | %33
+w: girl to|c\- a\- ll my|o\- w\- n. * I want a|Dre- am Lo- ver so|
+"Dmin7" Ac c"G7" A2 c dd |"C " c8 | c"C7"c _BB AA GG |"F " F2 A2 c2 z A | c d2 e (3:2:2d c2- c2 | %38
+w: I don't have to dream a\- lo-|ne.||* Some day, I|don't know h\- o\- w, *|
+"C " z2 G2 G2 G2 | A c2 A G2 z2 |"D7" z2 A2 c3 A | e e2 d c2 z2 |"G7" z2 d2 d2 e2 | f2 e2 d3 z | %44
+w: I hope she'll|hear my ple- a.|Some way, I|don't know ho- w,|she'll bring her|love to me.|
+"C " z2 c2 cc z2 | c d2 e d c3 |"Amin" z A AG A3 G | A2 cA G2 z2 |"C " z c2 c c3 G | c2 de d c3 | %50
+w: Dream Lo- ver|un- til th- e n|I'll go to sleep and|dream a\- ga- in.|That's the on- ly|thing to d\- \- o|
+"Amin" z A AG A G3 | A c2 A2 G AG |"C " c2 z2 z2 z c |"G7" d2 z2 z2 z d |"C " ed/c/- c2 z2 z e | %55
+w: till all my lo- ver's|dreams come tru- e. Cause I|want a|girl to|c\- a\- ll * my|
+"F " (3fdc- c2 z c dc |"C " z e3"Amin" c d2 G |"Dmin7" Ac c"G7" A2 c dd |"C " c8 |"G ""A7" z8 | %60
+w: o\- w\- n. * I want a|dream lo- ver so|I don't have to dream a\- lo-|ne.||
+"D " z2 d2 d d2 z | d e2 ^f e d3 |"Cbmin" z B BA B2 z A | B d2 B A2 z2 |"D " z d2 d d3 A | %65
+w: Dream Lo- ver|un- til th- e\- n|I'll go to sleep and|dream a\- ga- in.|That's the on- ly|
+ d2 e^f e d3 |"Cbmin" z B BA B A3 | B2 d B2 A BA |"D " d2 z2 z2 z d |"A7" e2 z2 z2 z e | %70
+w: thing to d\- \- o|till all my lo- ver's|dreams come tr- ue. Cause I|want a|girl to|
+"D " ^f3/2e/4d/4- d2 z2 z f |"G " ge/d/- d2 z d ed |"D " z ^f2 e"Bmin" d e2 A | %73
+w: c\- a\- ll * my|o\- w\- n. * I want a|Dre- am Lo- ver so|
+"Emin7" Bd dB"A7" z d ee |"D " d8 |"G " z4 z d ed |"D " z ^f2 e"Cbmin" d e2 A | %77
+w: I don't have to dream a\- lo-|ne.|I want a|Dre- am Lo- ver so|
+"Emin7" Bd dB"A7" z d ee |"D " d8 |"G " z4 z d ed |"D " z ^f2 e"Cbmin" d e2 A | %81
+w: I don't have to dream a\- lo-|ne.|I want a|Dre- am Lo- ver so|
+"Emin7" Bd dB"A7" z d ee |"D " d8- | d8 |] %84
+w: I don't have to dream a\- lo-|ne.||
+

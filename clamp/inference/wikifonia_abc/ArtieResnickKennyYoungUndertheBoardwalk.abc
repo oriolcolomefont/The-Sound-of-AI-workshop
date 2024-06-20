@@ -1,0 +1,34 @@
+X:1
+T:Under the Boardwalk
+T:Under the boardwalk
+T:Artie Resnick, Kenny Young
+C:Artie Resnick, Kenny Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z B,B,C |:"Bb" D2 DB,- B,B,B,C | D2 D2 D B,2 D- |"F" DC- C4 z2 | z4 z2 CD |"F7" EEEE z CCD | %6
+w: Oh when the|sun beats down * and melts the|tar up- on the roof||and your|shoes get so hot you wish your|
+w: * From a|park near- by * * hap- py|sounds.from a ca- rou- sel||you can|al- most * taste the hot- dogs|
+ EE-(EF-) FE(DC) |"Bb" (F2 D4) z2 |"^(Chorus)" z2 B2 B2 BG- |"Eb" GF E4 z2 | z2 B2 B2 Bd- | %11
+w: tir- ed * feet * were fire *|proof *|Un- der the board|* * walk|down by the sea|
+w: and french * fries * they sell *|||||
+"Bb" dB- B2- BG-GF | DCB,-B, z2 B,C | DDDD- DF-FF |"F" z2 z D D2 DC- |"Bb" CB,-B, z"^(Group" z4 | %16
+w: |yeah * * * on a|blan- ket with my * ba * by|is where I"ll be||
+w: |||||
+"^,,1)" z4"^un-der" z FG"^the"F |"^board-walk""Gm" G2 G2 z2 G2 | G2 AA-"^un-der" AGG"^the"G | %19
+w: * * (Group..2)|* * out|of the sun * * * *|
+w: |||
+"^board-walk""F" F2 F2 z2 FF | FGFG-"^un-der" GF"^the"F^F |"^board-walk""Gm" G2 G2 z2 GG | %22
+w: * * we'll be|hav- ing some fun * * * *|* * peo- ple|
+w: |||
+ GAG(A G)"^un-der"GG"^the"_G |"^board""F" F2"^-" F2"^walk" z2 FF | FGF(G"^un-der" F)FF"^the"^F | %25
+w: walk- ing a- bove * * * *|* * we'll be|fall- ing in love * * * *|
+w: |||
+"^board-walk""Gm" (GF) G2 z2 (DC) |1 D2 z4 CD :|2 D2 B2"^D,S,al.fine" B2 BG |] %28
+w: * (All) * board- walk|* from a|walk un- the the board|
+w: |||
+

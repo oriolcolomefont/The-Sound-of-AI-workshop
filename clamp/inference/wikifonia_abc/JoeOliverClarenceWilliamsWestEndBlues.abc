@@ -1,0 +1,30 @@
+X:1
+T:West End Blues
+T:West End Blues
+C:Joe Oliver
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z cGG |S"Eb" cB- B6- | B2 ^F>G B/c/F- F2 | (G2 B,2-) B, B,2 E/D/ |"Eb7" E<_D- D2- DB (c/B)c/ | %5
+w: I got the|blues _ _|_ from my head to my _|shoes. _ _ I'm blue to-|day. _ _ _ I've got _ a|
+"Ab7" (B<E)B>E B E2 z | z F (3_GEF- F3 E |"Eb" (GB,-) B,4 z2 | z4 z B (B/G/)(B/G/)!dacoda! | %9
+w: mean _ e- vil feel- in'|my bel- ly's full _ of|gin. _ _|I'm on _ my _|
+"Bb7" B2 A/G/A (A<F-F)B, | G>EG>E F3 B, |"Eb" E6 z2 | z4"Bb7" z2 z B, |"Eb" G6 z G | %14
+w: way to the West End, _ _ and|that's where troub- les will be-|gin.|My|gal, my|
+"Ab7" _G6 z B, |"Eb" =G6 z B |"Eb7" BE- E4 EE |"Ab7" (B A3) z E E/E/E | (B/A/)_G- G3 =G-GF/E/ | %19
+w: pal, low|down mean|houn' _ _ they're in|town, _ they're cut- tin' it|up. _ Yes, _ they're _ run- nin'|
+"Eb" (C<B,-) B,2 z4 | z4 z BBB/G/ |"Bb7" B3 G A F2 B, | _G3 E (G<F-F)B, |"Eb" (F<E-) E4 z2 | %24
+w: 'round. _ _|Soon I'm gon- na|take a walk * and|knock up- on _ _ her|door _ _|
+ z4 z"Bb7" B(BG) |"Eb" B6- Bc |"Eb7" G E3 z (c/B/) (c/B/)c |"Ab7" (B E2) B (B/E)B/-B z | %28
+w: Now those _|folks _ in|West End, They're _ gon- * na|see _ some shoot- in' like _|
+ z _G-GF/E/ F3 E |"Eb" (C B,3) z4 | z4 z c3 |"Bb7" _dB (c/B/)(c/B/) (c<B-B)B, | G>BB>c G>BB>c | %33
+w: they _ nev- er saw be-|fore, _|My|gal and my _ best _ pal _ _ will|nev- er cheat in West End an- y|
+"Eb" (G<E-) E4 z2 | z4"Bb7" z c_G>G!D.S.! ||O _d2 (3cBc (c<B-B)B | e2 (BA) (GB,) G2 | (G<E- E6- | %38
+w: more. _ _|I got the|way to the West End _ _ to|lose those * West * End|Blues. _ _|
+ E2) z2 z4 |] %39
+w: _|
+

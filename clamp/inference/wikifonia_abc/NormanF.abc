@@ -1,0 +1,30 @@
+X:1
+T:Mademoiselle from Armentieres
+T:Mademoiselle from Armentières
+T:(Armentières March - World War I song)
+T:Norman F. Nicholson
+T:(various)
+T:Norman F. Nicholson
+C:Norman F. Nicholson
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" GGG G2 G | G2 G G3 | (D3 D2) G |"D7" (A3 A2) z |"D7" AAA A2 A | A2 A A3 |"G" (G3 G2) A | %7
+w: 1.~Ma- de- moi- selle from|Ar- men- tières,|"Par- * ley|voo," _|Ma- de- moi- selle from|Ar- men- tières,|"Par- * ley|
+w: 2.~Fa- * ther have you|any good wine?|"Par- * ley|voo," _|Fa- * ther have you|any good wind?|"Par- * ley|
+w: 3.~Daugh- * ter I have|very good wine,|"Par- * ley|voo," _|Daugh- * ter I have|very good wine,|"Par- * ley|
+ (B3 B2) z |"G" ddd d2 B |"D7" c2 c (c2 A) |"G" BBB"A7" B2 G |"D" A2 F D z B/c/ | %12
+w: voo." _|Ma- de- moi- selle from|Ar- men- tières, she|has- n't been kissed for|twen- ty years, * *|
+w: voo," _|Fa- * ther have you|any good wine, _|fit for a sol- dier|of the line? * *|
+w: voo." _|Daugh- * ter I have|very good wine, _|fit for a sol- dier|of the line, * *|
+"G" d2 B"E7" d2 B |"A7" E3"D7" F3 |"G" (G6 | G) z z4 :| %16
+w: In- ky, Pin- ky,|"Par- ley|voo."|_|
+w: In- ky Pin- ky|"Par- ley|voo."|_|
+w: In- ky, Pin- ky,|"Par- ley|voo."|_|
+

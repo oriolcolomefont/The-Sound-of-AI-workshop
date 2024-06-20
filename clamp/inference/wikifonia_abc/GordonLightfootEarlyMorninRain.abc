@@ -1,0 +1,66 @@
+X:1
+T:Early Mornin' Rain
+T:Early Mornin' Rain
+T:(composed for Lightfoot's debut album)
+T:Gordon Lightfoot
+T:Early Morning Music, a division of the EMP, Ltd.
+C:Gordon Lightfoot
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:2/2
+K:D
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 52
+L:1/8
+V:1
+"^Bright" A A A/G/ F | G G G/F/ E | F F F/E/ D | D2 A2 |:"D" z2 A A | A A (A/G/) F |"A" (A4 | A4) | %8
+w: ||||1.~In the|ear- ly morn- * in'|rain~\_\_|\_\_\_|
+w: ||||2.~Out on|run- way num- * ber|nine~\_\_|\_\_\_|
+w: ||||3.~Hear the|might- y en- * gines|roar~\_\_|\_\_\_|
+w: ||||4.~This old|air- port's got * me|down~\_\_|\_\_\_|
+"A" z2 E E"A" |"G6" G G/(G/ G) F |"D" (D4 |"G6" D4) |"D" z2 F F |"G6" F F{/F} E D | %14
+w: With a|dol- lar in * my|hand,~\_\_\_||With an|ach- in' in my|
+w: Big *|sev- en set * to|go,~\_\_\_||But I'm|stuck here on the|
+w: See the|sil- ver bird * on|high,~\_\_\_||She's a-|way and west- ward|
+w: It's no|earth- ly good * to|me,~\_\_\_||'Cause I'm|stuck here on the|
+ (E3/2 D/) (B,2 | B,4) |"G6" z2 E F | E D (D/ D3/2) |"D" (B, (A,3) |"G6" A,2)"G6" z2 | %20
+w: heart \_\_\_\_\_ *||And my|pock- ets full of|sand, \_\_\_\_\_||
+w: grass \_\_\_\_\_ *||Where the|cold- * wind- *|blows, \_\_\_\_\_||
+w: bound \_\_\_\_\_\_ *||Far a-|bove the clouds she'll|fly,~ \_\_\_\_\_||
+w: ground \_\_\_\_\_\_ *||* and|drunk as I can|be, \_\_\_\_\_~||
+"D" z2 A,3/2 A,/ | B,2 D D |"G6" (E3/2 D/) B,2 | z4 | z2 D D |"A" (G G) G A |"D" F3/2 (E/ (D2) | %27
+w: I'm a|long way from|home, \_\_\_ *||And I|miss my loved ones|so. \_\_\_~ *|
+w: Now the|liquor tast- ed|good, \_\_\_ *||And the|wom- men all were|fast, \_\_\_\_ *|
+w: Where the|mornin' rain don't|fall, \_\_\_ *||And the|sun~\_\_\_ * al- ways|shines. \_\_\_\_\_ *|
+w: You can't|jump a jet|plane \_\_\_ *||Like you|can~\_\_\_ * a freight|train, \_\_\_\_\_ *|
+"G6" D4) |"D" z2 (A A) | A A (A/G/) F |"A" (A4 | A4) | z2 z E |"G6" G2 (G3/2 F/)"G6" |"D" (D4 | %35
+w: |In the|ear- ly morn- * in'|rain,~\_\_|\_\_\_\_~|With|no place to|go.~\_\_|
+w: |Well- *|there she goes * my|friend,~\_\_|\_\_\_|She's|* now at|last.~\_\_|
+w: |She'll be|fly- in' o'er * my|home,~\_\_|\_\_\_||* hours- *|time.~\_\_|
+w: |So I'd|best be on * my|way,~\_\_|\_\_\_||* morn- in'|rain.~\_\_|
+"G6" D4) |2"A" z4 ||"G6" z4 |"D" z4 |"G6" z4 :|3"D" z4 |] %41
+w: \_\_\_\_||||||
+w: \_\_\_\_~||||||
+w: \_\_\_\_||||||
+w: \_\_\_\_||||||
+V:2
+ x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | z4 EE EE | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %16
+w: ||||||||||||||||
+w: ||||||||* sev- en oh||||||||
+w: ||||||||||||||||
+w: ||||||||||||||||
+ x4 E E x x | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z4 z2 EE | %33
+w: |||||||||||||||||
+w: |||||||||||||||||
+w: ||||||||||||||||In a-|
+w: As cold||||||||||||||||In the|
+ G2 G2 x4 | x8 | x8 |2 x8 || x8 | x8 | x8 :|3 x8 |] %41
+w: ||||||||
+w: rol- in'||||||||
+w: bout three||||||||
+w: ear- ly||||||||
+

@@ -1,0 +1,24 @@
+X:1
+T:An Affair To Remember
+T:An Affair To Remember
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z C |"F" A3 C |"Fdim7" D2 E F |"C/E" G3 C |"Cm/Eb" C3 C |"Gm" B3 D |"C7/Bb" E2 F G | %7
+w: Our|love af-|fair is a|won- drous|thng that|we re-|joice in re-|
+"F/A" c3 F |"F" F3 F |"Dm7" c3 A |"G" =B2 c d |"Em7" d3 G |"Am7" G2 A =B |"Dm7" c3 F | %14
+w: mem- ber-|ing Our|love was|born with our|first em-|brace And a|page was|
+"Bm7/A" F2 E F |"Gm" G3 D |"Edim7" D3"C7/E" C |"F" A3 C |"Fdim7" D2 E F |"C/E" G3 C |"Cm/Eb" C3 C | %21
+w: torn out of|time and|space. Our|love af-|fair, may it|al- ways|be, a|
+"Gm" B3 D |"C7/Bb" E2 F G |"Cm7" c3 F |"F7" F3 F |"Bbm9" c3 B |"Bbdim" A2 G E |"Am7" G3 F | %28
+w: flame to|burn through e-|ter- it-|y So|take my|hand with a|fer- vent|
+"F#dim7" E3 _E |"Gm7" D2 B2 | D3 _E |"Am7" E2 c2 |"F#dim7" E3 _E |"Gm" D2"Gm7" B2 |"Gm" D2 E F | %35
+w: prayer that|we may|live and|we may|share a|love af-|fair to re-|
+"C7" G4 |"F" F4- | F3 z |] %38
+w: mem-|ber-||
+

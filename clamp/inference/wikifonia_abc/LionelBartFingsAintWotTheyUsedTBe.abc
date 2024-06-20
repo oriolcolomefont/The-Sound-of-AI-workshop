@@ -1,0 +1,47 @@
+X:1
+T:Fings Ain't Wot They Used T' Be
+T:Fings Ain't Wot They Used t' Be 
+C:Lionel Bart
+Z:All Rights Reserved
+L:1/4
+Q:1/4=160
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x3 B, |:"Eb" E2"Cm7" E2 |"Fm7" E B,/"Bb7" D E/ F |"Eb" G2"Cm7" G2 |"Fm7" G E/"Bb7" F G/ A | %5
+w: 1.They've|changed our|lo- cal pal- ais in-|to a|bowl- ing al- ley, and|
+w: 2.They've|mon- keys|fly- ing round the moon|we'll be|up there wiv 'em soon|
+w: |||||
+"Eb" B2"Cm7" B2 |"Fm7" c A"Bb7" F D |"Eb""Cm7" E4- |"Fm7" E2"Bb7" z B, |"Eb" E2"Cm7" E2 | %10
+w: fings ain't|wot they used t'|be|_ There's|teds wiv|
+w: fings ain't|wot they used t'|be|_|once our|
+w: |||||
+"Fm7" E B,/"Bb7" D E/ F |"Eb" G2"Cm7" G2 |"Fm7" G E/"Bb7" F G/ A |"Eb" B2"Edim" B2 | %14
+w: drain- pipe trou- sers and|debs in|cof- fee hou- ses and|fings ain't|
+w: beer was frof- fy but|now it's|frof- fy cof- fee! No!|Fings ain't|
+w: ||||
+"Fm7" c A"Bb7" F D |"Bbm7" B4- |"Eb7" B E/ F E/ F |"Ab" c4 | c/=B/c/E/- E2 | c/=B/ c/ E3/2 e | %20
+w: wot they used t'|be|_ It used t' be|fun,|Dad and old Mum _|pad- di- ling down South-|
+w: wot they used t'|be|_ There used t' be|trams,|not ve- ry quick _|got you from place to|
+w: ||* We used to have|stars,|sing- ers who sung _|"A Dix- ie mel- o-|
+ c E/ F E/ F |"Abm" _c4 | _c/B/c/E/- E2 |"Eb" B/=A/ B/"Cm7" e3/2 G |"Fm7" F c"Bb7" B c | %25
+w: end but now it ain't|done,|nev- er mind chum, _|Par- is is where we|spend our out- ings!|
+w: place, but now there's just|jams,|half a mile thick, _|stay in the hu- man|race, I'm walk- ing!|
+w: dy," They're buy- ing gui-|tars,|plink- e- ty plunk _|back- ing them- selves with|three chords on- ly!|
+"Eb" E2"Cm7" E2 |"Fm7" E C/"Bb7" E E/ F |"Eb" G2"Cm7" G2 |"Fm7" G E/"Bb7" F G/ A | %29
+w: Grand- ma|tries to shock us all,|do- ing|knees up rock 'n' roll|
+w: They've stuck|park- ing me- ters out-|side our|doors to greet us, No!|
+w: Once we|danced from twelve to three,|I've got|news from El- vis P,|
+"Eb" B2"Edim" B2 |"Fm7" c A"Bb7" F D |"Eb""Cm7" E4- |1"Fm7" E2"Bb7" z2 :|2"Eb" B2"Edim" B2 || %34
+w: |||||
+w: Fings ain't|wot they used t'|be.|_|did the|
+w: _ _|||||
+"Fm7" c A"Bb7" F D |"Eb" B2"Edim" B2 |"Fm7" c A"Bb7" d B |"Eb6" e4- | e4 |] %39
+w: |||||
+w: lot, we used t'|fings ain't|wot they used t'|be.|_|
+w: |||||
+

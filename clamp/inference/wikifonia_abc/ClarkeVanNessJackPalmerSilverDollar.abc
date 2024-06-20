@@ -1,0 +1,33 @@
+X:1
+T:Silver Dollar
+T:Silver Dollar
+C:Clarke Van Ness, Jack Palmer
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 24
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+ z4 D2 G2 |:"G" B>^AB>A BB z2 |"E7" B>B^A>B c>cB>_B |"A7" A4-"Em" A>AB>_B |"A7" A6 z ^G | %5
+w: You can|throw a sil- ver dol- lar|down up- on the ground and it will|roll _ be- cause it's|round, a|
+"D7" A>^GA>G A2 A>G |"Am" A ^G2 A"D7" B3 A |"G" G2 G2"Bb" F E2 D- |"D7" D6 z ^A | %9
+w: wo- man ne- ver knows what a|good man she's got un-|til she turns him down|_ So|
+"G" B B2 ^A BB z2 |"E7" B>^ABc- c3 B |"A7" A2 A>B"Em" A G2 E- |"A7" E6 z G | %13
+w: lis- ten my hon- ey|lis- ten to me _ I|want you to un- der- stand|_ that,|
+"C" A>GA>G"C#" _B>GA>G |"G" z =B2 B"E7" c3 B |"A9" B>A G>E"Am" G2"D7" AG- |"G" G4"E7" z2 z ^A | %17
+w: as a sil- ver doll- ar goes from|hand to hand, a|wo- man wants to hold her man|_ A|
+"A9" B>AG>E"Am" G2"D7" AG- |1"G" G4 z2 D2 ||2"G" G4- G z"^Fine" z2 ||"G" D4- D>GB>c | %21
+w: wo- man wants to hold her man|_ A|_ _|man _ with- out a|
+"D7" B A3- A>F E>_E |"A" !tenuto!D4- D>FA>B |"G7" !fermata!G6 D2 |"C" E4- E>FG>E | %25
+w: wo- man _ is like a|ship _ with- out a|sail, a|boat _ with- out a|
+"G" D G3-"Em" G2 B>^A |"A" B2 A2 A2 BA- |"D7" A6"G7" D2 |"G" D4- D>GB>c |"D7" B A3- A>FE>_E | %30
+w: rud- der _ or a|fish with- out a tail|_ A|man _ wth- out a|wo- man _ is like a|
+ D4- D>FA>B |"G" G4 z GF>=F |"C" E2 ^F2"C#dim" G2 E>_E |"G" D G2 B-"E7" B2 B>^A | %34
+w: wreck _ up- on the|sand. There's on- ly|one thing worse in the|un- i- verse _ that's a|
+"A" B A2 ^G"Am" A2"D7" B=G- |"G" G4 z2 z ^A |"A" B A2 ^G A2"D7" B=G- |"G" G2 z2 D2 G2 :| %38
+w: wo- man with- out a man|_ A|wo- man with- out a man|_ You can|
+

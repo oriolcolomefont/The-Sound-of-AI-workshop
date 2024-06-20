@@ -1,0 +1,58 @@
+X:1
+T:Blue Danube by  Jon Anderson
+C:Johann Strauss
+Z:Public Domain
+L:1/4
+M:3/4
+K:A
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"A" e3 | A, C E | E3 | e' z z | c' z z | E, A, C |"E7" B,3 | g z z | f z z | B, D F | F3 | f z z | %12
+ B z z | G, D F |"A13" F3 | f z z | e z z | A, C E |"D" A3 | a3 | f3 | A, D F |"Dm" A3 | a3 | =f3 | %25
+ A, D A |"A7" A3 | a z z | e z z | A, C F | F3 | f' z z | c' z z | A, C E | E3 | e' z z | d' z z | %37
+ E, G, D | C3 | c'3 | b3 | C a/g/ a | D b/a/ b | E c'/b/ c' | d' e' f' | C e/^d/ e | D f/e/ f | %47
+ ^D f/^e/ f | =g a b | z =g/a/ b/B/ | =g A, A, | A, =g/a/ b/A/ | f D D | D f/=g/ f/c/ | e =g A | %55
+ d =g A | [cc] [=gg] [AA] | [BB] [ee] [=GG] | [AA] [dd] [FF] | [=GG] [cc] [EE] | %60
+[K:C][K:bass] [A,,A,,] z z | [G,,G,,] z z | [E,,E,,] z z | %63
+[K:D][K:treble] !fermata!D !fermata!F !fermata!A |"D" A2 a | a z f | f z D | D F A |"A7" A2 a | %69
+ a z g | g z C | C E B | B2 b | b z g | g z C | C E B |"D" B2 b | b z f | f z D | D F A | %80
+"D" d2 d' | d' z a | a z D | D F A |"G6" d2 d' | d' z b | b z E | E G B |"A7" B3- | B ^G A | %90
+"D" f3- | f d F |"G6" F2 E |"A7" B2 A |"D" D z/ D/ D |[K:A] z d c |"E7" c B B | z B ^A | ^A B B | %99
+ z E E |"A" F2 E | z E E | B2 A | z d c |"E7" c B B | z B c | e d d | z G B |"F#m" B2 A | %109
+"Bm" G3/2 F/ D/B,/ |"E7" F/F/ F E | A z A |[K:G]"A7" G z A | G z A | f3- | f e A |"D" F z A | %117
+ F z A | e3- | e d A |"A7" G z A | G z A | f3- | f e A | d e f | a2 g | f/f/ f e | d |[K:Bb] d3- | %129
+ d e d | c B A | G3 | c z c- | c/>F/ G3/2 F/- | F3 | F2 F | d3- | d e d | c B A | G3 | ^F2 F | %141
+ ^F G3/2 B/ | A3 | A2 A |[K:G] G z A | G z A | f3- | f e A | F z A | F z A | e3- | e d A | G z A | %153
+ G z A | f3- | f e A | d e f | a2 g | f/f/ f e | d z D | B z B- | B d3/2 c/ | B D D | D z D | %164
+ B z B- | B f3/2 e/ | d F F | F2 z | c z c- | c f3/2 e/ | g B B | B2 B | A z A | ^A z A | B3- | %175
+ B B/B/ c/B/ | B/A/ ^G/A/ B/A/ | A/G/ F/G/ d- | d/>c/ c c | c B B | B/A/ ^G/A/ B/A/ | A/G/ F/G/ g | %182
+ g/>f/ f f | e d d | B/A/ ^G/A/ B/A/ | A/G/ F/G/ d- | d/>c/ c c | c B B | B/A/ ^G/A/ B/A/ | %189
+ F/G/ b z/ g/ | f3/2 e/ B/A/ | G z z | G3 | G3 | G C/C/ C |[K:F] z z C | C/F/ A/c/ f- | f e d | %198
+ ^c d e | e2 z | ^c d e | e2 z | =B c d | c3 | C/F/ A/c/ a- | a g f | e f g | g3 | f c d | c G A | %210
+ F3 | C/F/ A/c/ f- | f e d | ^c d e | e2 z | ^c d e | e2 z | =B c d | c2 C | C/F/ A/c/ a- | a g f | %221
+ e f g | g z z | f e d | d3 | ^c z z | c/>d/ c3/2 =B/ | c3- | c/>d/ c3/2 =B/ | c3- | c f A | %231
+ B3/2 d/ G | z G A | B3/2 d/ G- | G G/A/ B/=B/ | c3- | c/>d/ c3/2 =B/ | c3- | c a c | =B3/2 f/ f- | %240
+ f/e/ e d | d/d/ d c | F z z | c3 | d2 ^d | e ^C/E/ A/^c/ | e d ^c | ^c c/=B/ c/d/ | ^c =B A | %249
+ ^G/G/ G A | ^F z z | ^f z z | ^f z z | A3 | =B3 | ^c3 |[K:A] d F3/2 A/ | d F3/2 A/ | d3- | d c B | %260
+ c E3/2 A/ | c E3/2 A/ | c3- | c B A | G B g- | g f d | c3- | c B A | G B f- | f e G | A3 | A2 B- | %272
+ B c2 | d F3/2 A/ | d F3/2 A/ | d3- | d c B | c E3/2 A/ | c E3/2 A/ | c3- | c B A | G B g- | %282
+ g f d | c3- | c B A | A B =c- | c d ^d | e e/e/ e | c z z | c z z | c3 | z E/G/ A/B/ | c z z | %293
+ c z z | d3 | z F/A/ B/c/ | d z z | d z z | f3- | f e c | f3- | f e d | c E F | G A B | c z z | %305
+ c z z | c3 | c E/G/ A/B/ | c z z | c z z | d3 | z F/A/ B/c/ | d z z | f z z | a3 | a g f | %316
+ f e ^d | d c B | A3 | z z E | c z c- | c e3/2 f/ | =g c c | c3 | f z f | f f3/2 =g/ | a d d | d3 | %328
+ =g z g- | g =g3/2 a/ | b e z | =g c z | e A B | A z A | a z =G | E z A | a z =G | E z z | z z A | %339
+[K:G] G z A | G z A | f3- | f e A | F z A | F z A | e3- | e d A | G z A | G z A | f3- | f e A | %351
+ d e f | a2 g | f/f/ f e | d z e |[K:Bb] d z c | B z c | A z B | G z b | a z g | f z g | e z f | %362
+ d2 B/c/ | d/f/ b/c'/ d' | d/f/ b/c'/ d' | ^g3- | g3 | a z z | a3 | g3 | c3 |[K:F] z z C | %372
+ C/F/ A/c/ f- | f e d | ^c d e | e2 z | ^c d e | e2 z | =B c d | c3 | C/F/ A/c/ a- | a g f | %382
+ e f g | g2 z | f e d | d3 |[K:D] A/f/ f/f/ f | B/f/ f/f/ f | c/f/ f/f/ f | d/f/ f/f/ f | A z A | %391
+ B z B | c z c | B z B | A z z | b z z | c' z z | D F A |"D" A2 a | a z f | f z D | D F A | %402
+"A7" A2 a | a z g | g z C | C E B | B2 b | b z g | g z C | C E B |"D" B2 b | b z f | f z D | %413
+ D F A |"D" d2 d' | d' z a | a z D | D F A |"G6" d2 d' | d' z b | b z E | E G B |"A7" B3- | %423
+ B ^G A |"D" f3- | f d F |"G6" F2 E |"A7" B2 A | z3 x3 | D F A | A3 | d d' a | a2 D | D F A | G3 | %435
+ G3 | G2 B, | B, D G | G3 | G3 | G3 | B, D G | F3 | F3 | F3 | D F A | d3- | d3- | d3 | D F A | d3 | %451
+ d3 | d3 | D G B | B3 | B3 | A3 | G3 | F3 | F3 | D E/D/ F/E/ | G/F/ B/A/ ^G/A/ | d/c/ e/d/ f/e/ | %463
+ g/f/ b/a/ ^g/a/ | e'/d'/ c'/d'/ a/f/ | b/a/ ^g/a/ f/d/ | g/f/ ^e/f/ d/A/ | e/d/ c/d/ A/F/ | %468
+ D z z | D z z | D3- | D3- | D3- | D3 |] %474
+

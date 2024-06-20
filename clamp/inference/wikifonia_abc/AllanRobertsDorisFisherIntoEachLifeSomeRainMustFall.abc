@@ -1,0 +1,24 @@
+X:1
+T:Into Each Life Some Rain Must Fall
+T:Into Each Life Some Rain Must Fall
+C:Allan Roberts
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" C2 F A | d3"F+" _d |"F" c3 C | A3"C+" C |"F" C2 F A |"Bb6" B B2"F" A |"Gm" G4- | %7
+w: In- to each|life some|rain must|fall, but|too much is|fall- ing in|mine.|
+"C7" G3"Cm""D7" z |"Gm" D2 G B |"C7" e3"F#dim7" _e |"Gm7" d3 G | B3 C |"C7" C2 E G | %13
+w: _|In- to each|heart some|tears must|fall, but|some day the|
+"Gm7" d3"C7b9" _d |"F""F7" c4- |"Gm7" c2"C7""C+7" z2 |"A7" A2"G#7" ^G"A7" A |"Em" e3"A7""A7b5" A | %18
+w: sun will|shine.|_|Some folks can|lose the|
+"D9" e2 c A |"D7" ^F3 F |"G7" G A"F#7" ^F"G7" G |"Dm7" d3"G7" G |"C7" d c"Cdim7" c =B |"C7" c4 | %24
+w: blues in their|hearts, but|when I think of|you an-|oth- er show- er|starts.|
+"F" C2 F A | d3"F+" _d |"Am7" c3 A |"D7" e3 d |"Gm7" D2 G B |"C7" d B2 E |1"F" F4- || %31
+w: In- to each|life some|rain must|fall, but|too much is|fall- ing in|mine.|
+"Gm7" F2"Edim" z2 :|2"F""Gb9" F4- ||"F" F2 z2 |] %34
+w: _|mine.|_|
+

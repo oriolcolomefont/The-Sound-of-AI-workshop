@@ -1,0 +1,25 @@
+X:1
+T:I've Told Ev'ry Little Star
+T:I've told every little star
+T:(from Music in the Air)
+T:Jerome Kern
+T:Oscar Hammerstein II
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F4 C4 |"Gm" AAAA"C7" G4 | B3 B"F" A3 A |"Gm" c2 c2"C7" B4 |"F" A4 G2 F2 |"Gm" C4"C" G4 | %6
+w: I've told|ev- ry lit- tle star|just how sweet I|think you are|why have- n't|I told|
+"F" F8- | F4 z4 | F4 C4 |"Gm" AAAA"C7" G4 | B3 B"F" A3 A |"Gm" c2 c2"C7" B4 |"F" A4 G2 F2 | %13
+w: you||I've told|rip- ples in a brook|made my heart an|o- pen book|why have- n't|
+"Gm" C4"C7" G4 |"F" F8- | F6 z2 |"C" G2 ^F2 G3 G |"G7" G2 ^F2 G3 G |"C" G2 ^F2 G2 e2 |"D7" _e8 | %20
+w: I told|you||Friends ask me am|I in love I|al- ways an- swer|yes,|
+"G7" F2 E2 F2 d2 |"Am" c8 |"Dm" D2 ^C2"G7" D2 A2 |"Gm" G8 |"F" F4 C4 |"Gm" AAAA"C7" G4 | %26
+w: might as well con-|fess|if I dont they|guess|May- be|you may know it too|
+ B3 B"F" A3 A |"Gm" c2 c2"C7" B4 |"F" A4 G2 F2 |"Gm" C4"C7" G4 |"F" F8- | F6 z2 |] %32
+w: oh my dar- ling|if you do|why have- n't|you told|me,||
+

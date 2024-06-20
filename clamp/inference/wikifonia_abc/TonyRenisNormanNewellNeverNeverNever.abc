@@ -1,0 +1,56 @@
+X:1
+T:Never, Never, Never
+T:Never, Never, Never
+T:Tony Renis
+T:Norman Newell
+C:Tony Renis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+"Dmaj7" z4 z2 z A, |:"D" GFFE"Dmaj7" GFF>A, |"D6" GFFE"Dmaj7" G F2 E/F/ |"Em7""A7" G8 | %4
+w: I'd|like to run a- way from you, but|if you nev- er found me I would|die.|
+w: |stay a- way and all I do is|won- der why the hell I wait for|you.|
+"Em7" z4 z2"A7" z A, |"Em7" FEE^D FEED |"A7" F E2 E/^D/ FECB, |"Dmaj7" C4- C"D6" z z2 |1 %8
+w: I'd|like to break the chains you put an-|round me, but I know I nev- er|will. *|
+w: But|when did com- mon sense pre- vail for|lo- vers when you know it nev- er|will. *|
+"Em7" z4 z2"A7" z G, :|2"Dmaj7" z4 z2"D6" z A ||"Am7" BABA"D7" BABA |"^am" B A2 B/A/"D7" BABA | %12
+w: You'd|Im-|poss- i- ble to live with you but|I know I could ne- ver live with-|
+w: ||||
+"Gmaj7" A D3- D2 z2 |"Gm7" z4 z2 z A,/A,/ |"D" GFF"Dmaj7"F- F4 |"D6" z4 z2"Dmaj7" z A, | %16
+w: out you. *|For what|ev- er you do, *|I|
+w: ||||
+"A7sus4" A,B,B,C"A7" CDDE |"Em7" EDDC"A7" CDB,C |"D" D8- |"Bb7" D2 z2 z2 z A, | %20
+w: nev- er nev- er nev- er want to|be in love with an- y- one but|you.|* You|
+w: ||||
+[K:Eb]"Eb" AGGF"Ebmaj7" AGGF |"Eb" A G2 G/F/"Ebmaj7" AGFG |"Fm7""Bb7" A8 | z4 z2 z B, | %24
+w: nev- er treat me like you should so|what's the good of lov- ing as I|do?|Al-|
+w: ||||
+"Fm" GFF=E"Fm7" GF F2 |"Bb7" GFFF/=E/"Bb9" GFDC |"Ebmaj7" D8- | D2 z2 z2"Eb6" z B | %28
+w: though you al- ways laugh at love,|no- thing else would be good e- nough for|you.|* Im-|
+w: ||||
+"Bbm7" cBcB"Eb7" cBcB |"Bbm7" c B2 c/B/"Eb7" cBcB |"Ab6" B E3- E4- |"Abm6" E2 z2 z2 z B,/B,/ | %32
+w: poass- i- ble to live with you, but|I know I could nev- er live with-|out you. *|* For what-|
+w: ||||
+"Eb" AGA"Ebmaj7"G- G4- |"Eb6" G2 z2"Ebmaj7" z2 z B, |"Fm7" B,CCD"Bb7" DEEF |"Fm7" FEED"Bb7" DEFD | %36
+w: ev- er you do, *|* I|ne- ver, ne- ver, nev- er want to|be in love with an- y- one but|
+w: ||||
+"Eb" E4-"Eb6" E z"Ebmaj7" z2 |"B7" z4 z2 z =B, |"E" =B,^CC^D"Emaj7" D=EE^F | %39
+w: you. *|You|make me laugh, you make me cry, you|
+w: |||
+"E6" ^F^GG=B"Emaj7" B^ccG |"F#m7" =A8 |"B7" z4 z2 z =B, |"F#m7" =B,^CC^D"B7" D=EE^F | %43
+w: make me live, you make me die, for|you.|You|make me sing, you make me sad, you|
+w: ||||
+"F#m7" ^F^GG=A"B7" A=BBF |"Emaj7" ^G8 |"E6" z4 z2 z =B |"Bm7" ^c=BcB"E7" cBcB | %47
+w: make me glad, you make me mad, for|you.|I|love you, hate you, love you, hate you,|
+w: ||||
+"Bm7" ^c=BcB"E7" cBc>B |"Amaj7" =B2"A" =E6- |"Am6" E2 z2"Am7" z2 =B,B, |"E" =A^GAG-"Emaj7" G4- | %51
+w: but I'll want you till the world stops|turn- ing.|* For what-|ev- er you do. *|
+w: ||||
+"E6" G2 z2"Emaj7" z2 z =B, |"B7sus4" =B,^CC^D"B7" D=EE^F |"B7sus4" ^F=EE^D"B7" DEFD |"E" =E8 |] %55
+w: * I|nev- er, nev- er, nev- er want to|be in love with an- y- one but|you.|
+w: ||||
+

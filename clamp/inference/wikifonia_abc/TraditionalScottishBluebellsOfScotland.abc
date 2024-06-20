@@ -1,0 +1,25 @@
+X:1
+T:Bluebells Of Scotland
+T:Bluebells of Scotland
+T:(Scottish)
+C:Traditional Scottish
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^N.C." c |"F" f2"Bb" e d |"F" c2"Bb" d e/f/ |"F" A A"C7" _B G |"F" F3 c | f2"Bb" e d | %6
+w: O|where, and O|where is your *|high- land lad- die|gone? O|where and O|
+"F" c2"Bb" d e/f/ |"F" A A"C7" _B G |"F" F3 c | A F A c |"Dm" f2 d e/f/ |"C" e c"G7" d B | %12
+w: where is your *|high- land lad- die|gone? He's|gone to fight the|foe for King *|George up- on the|
+"C" c2 d e |"F" f2"Bb" e d |"F" c2"Bb" d e/f/ |"F" A A"C7" _B G |"F" F3 c | f2"Bb" e d | %18
+w: throne and it's|oh in my|heart how I *|wish him safe at|home O|where and O|
+"F" c2"Bb" d e/f/ |"F" A A"C7" _B G |"F" F3 c | f2"Bb" e d |"F" c2"Bb" d e/f/ |"F" A A"C7" _B G | %24
+w: where does your *|high- land lad- die|dwell? O|where and O|where does your *|high- land lad- die|
+"F" F3 c | A F A c |"Dm" f2 d e/f/ |"C" e c"G7" d B |"C" c2 d e |"F" f2"Bb" e d | %30
+w: dwell? he|dwelt in mer- ry|Scot- land at the|sign of the blue|bell and its|oh in my|
+"F" c2"Bb" d e/f/ |"F" A A"C7" _B G |"F" F3 z |] %33
+w: heart that I *|love my lad- die|well.|
+

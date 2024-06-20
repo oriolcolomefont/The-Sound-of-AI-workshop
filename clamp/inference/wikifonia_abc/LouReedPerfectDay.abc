@@ -1,0 +1,30 @@
+X:1
+T:Perfect Day
+C:Lou Reed
+Z:All Rights Reserved
+L:1/8
+Q:1/4=130
+M:6/8
+K:C
+V:1 treble nm="Part_1"
+%%MIDI program 0
+V:1
+"E" z6 |"Am" z6 |"E" z6 |"Am" z6 |:"Am" z3 z EC |"D" D/E/ D2- D3 |"G" z2 G, G,B,D | %7
+w: ||||Just a|per- fect day, _|drink sang- ri- a|
+w: ||||Just a|per- fect day, _|_ pro- blems all|
+"C" E/D/ C2- C3 |"F" z3/2 C/C CC>C |"Dm" C/D/ C2- CCD |"E" B,3 z3 |"E" z6 |"Am" z3 z EC | %13
+w: in the park, _|and then la- ter, when|it gets dark, _ we go|home.||Just a|
+w: left a- lone. _|_ _ Week- en- ders|on our own, _ it's such|fun.||Just a|
+"D" D/E/ D2- D3 |"G" z2 G, G,B,D |"C" E/D/ C2- C3 |"F" z2 C CC>C |"Dm" C/D/ C2- CCD |"E" B,3 z3 | %19
+w: per- fect day, _|feed a- ni- mals|in the zoo _|Then la- ter, a|mo- vie too, _ and then|home.|
+w: per- fect day, _|you made me for-|get my- ­self. _|I thought I was|some- one else, _ some- one|good.|
+"E" z4 z :|[K:A] E |"A" E3 A2 G |"D" G/F/ F2- F2 z |"C#m" EEE EFG |"D" F3"D/D" z3 |"A" z3 AGA | %26
+w: |Oh|it's such a|per- fect day, _|I'm glad I spent it with|you.|Oh such a|
+w: |||||||
+"E" B/G/ E2 z FG |"F#m" A2 A"E" G2 G |"D" F3 z FG |"F#m" A2 A"E" (BA)G |"D" F3 z3 |:"C#m" z3 EEE | %32
+w: per- fect day, You just|keep me hang- ing|on, You just|keep me hang- * ing|on.|You're going to|
+w: ||||||
+"G" E3- E2 E |"D" F>DA,-"D/D" A,2"D/B" z :| %34
+w: reap _ just|what you sow, _|
+w: ||
+

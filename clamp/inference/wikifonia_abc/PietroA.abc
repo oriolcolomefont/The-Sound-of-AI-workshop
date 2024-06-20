@@ -1,0 +1,46 @@
+X:1
+T:Gesu Bambino (Infant Jesus)
+T:Gesu Bambino (Infant Jesus)
+T:The Christmas Rose
+C:Pietro A. Yon
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z6 z4 z c |:"F" (c>B)A"Bb" (B>A)G"F" (A>G)F"C7" G2 C |"F" F2 F"C7" (GA)B"F" c3-"C7" c2 c | %3
+w: When|blos- * soms flow- * ered mid * the snows Up-|on a win- * ter night _ Was|
+w: |gain _ the heart _ with rap- * ture glows To|greet the Ho- * ly Night. _ That|
+"F" (c>B)A"Bb" (B>A)G"F" (A>G)F"C7" G2 C |"F" (F>G)A"C7" (B>A)G"F" F3- F2 F | %5
+w: born _ the Child _ the Christ- * mas Rose, The|King _ of Love _ and Light. _ The|
+w: gave _ the world _ it's Christ- * mas Rose, the|King _ of Love _ and Light. _ Let|
+"Bb" (d>e)f"Gm7" (f>e)d"F" c2 A c2 F |"Bb" (d>e)f"Gm7" (f>e)d"F" c6- | %7
+w: an- * gels sang _ the shep- herds sang, the|grate- * ful earth _ re- joiced,|
+w: ev- * 'ry voice _ ac- claim His Name, the|grate- * ful chor- * us swell.|
+ c3- c2 c"Bbm7" (_d>c)B"Fm7" (_A>G)F |"C7" G2 _A"Db" F2 F"C" GAB"Ab" c2 c |"Eb" _e6- e4- e_E || %10
+w: _ _ and at _ His bles- * sed|birth the stars, their ex- * hul- ta- tion|voiced. _ _ Oh|
+w: _ _ From Par- * ra- dise _ to|earth He came, That we _ with Him might|dwell. _ _ Oh|
+[K:Ab]"Ab6" A3"Bbm6" G3"Cm7" A3"Db6" B3 |"Ab" A6"Bbm7" E3-"Eb7" E2 c | %12
+w: come let us a-|dore Him, _ Oh|
+w: ||
+"Ab" c3"Eb" B3"Ab" c3"Bbm7" d3 |"Ab" c6"Eb" B3- B2"Ab" c |"Db" d3"Eb" c3"Bbm7" B3"Ab" A3 | %15
+w: come let us a-|dore Him, _ Oh|come let us a-|
+w: |||
+"Eb" G6"Ab" (A3"Db" d3) |"Ab" (c6"Eb7" B3-) B2 A |1"Ab" A12- | A3 z4 z4 c :|2"Ab" A12- | %20
+w: dore Him, _|Christ _ _ the|Lord.|_ A|Lord|
+w: |||||
+ A3 z4 z4 c |[K:F]"F" (c>BA"Bb" B>AG"F" A>GF"C7" G2) C ||"F" F2 F"C7" (GA)B"F" c3"C7" c2 (c | %23
+w: _ Ah!|_ _ _ _ _ _ _ _ _ _ Oh|come let us _ a- dore Him, Ah!|
+w: |||
+"F" c>BA"Bb" B>AG"F" A>GF"C7" G2) C |"F" (F>G)A"C7" (B>A)G"F" F3- F2 F |"Bb" (f6"F" c3- c2) F | %26
+w: _ _ _ _ _ _ _ _ _ _ A|dore _ Him Christ _ the Lord. _ Oh|come _ _ Oh|
+w: |||
+"Bb" ((f6"F" c6-) | c3- c2) c"Bbm" (_d>c)B"Ab" (_A>G)F |"C7" (G2 _A)"Db/Ab" F3 z2 z z2 z | %29
+w: come _|_ _ Oh come _ let us _ a-|dore _ Him|
+w: |||
+ z2"Db" z _A3 _d3 f3 | (_a6 f3) !fermata!_d3 |"F" (c>BA"C7" B>A)G"F" F6- | F3 z z8 |] %33
+w: Let us a-|dore _ Him|Christ _ _ _ _ the Lord.|_|
+w: ||||
+

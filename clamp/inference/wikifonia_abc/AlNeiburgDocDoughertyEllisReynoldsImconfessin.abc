@@ -1,0 +1,24 @@
+X:1
+T:I'm confessin'
+T:I'm Confessin" 
+T:Al Neiburg, Doc Dougherty and Ellis Reynolds
+T:Foxtrot or Swing
+C:Al Neiburg, Doc Dougherty, Ellis Reynolds
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"G" DEFG F2 D2 | F2 F6 | DEFG F2 D2 |"E7" F8 |"A7" EFGB A2 G2 |"D7" A2 A2 AG F2 |"G" G8 | %7
+w: I'm con- fess- in' that I|love you,|Tell me do you love me|too?|I'm con- fess- in' that I|need you hon- est I|do|
+"Em" EGEG"D7" BB-B z |"G" DEFG F2 D2 | F2 F6 | DEFG F2 D2 |"E7" F8 |"A7" EFGB A2 G2 | %13
+w: Need you ev- 'ry mo- ment *|in your eyes I read such|strange things,|But your lips de- ny they're|true|Will your an- swer real- ly|
+"D7" A2 A2 AG F2 |"G" G8- | G4 z4 | =FGAc B2 F2 |"Dm" A2 A6 |"C" GABc B2 G2 | A8 | %20
+w: change things mak- ing me|blue?||I'm a- fraid some- day you'll|leave me,|say- ing can't we still be|friends|
+"A7" AB^cd c2 G2 | B2 B6 |"D7" ABde c2 B2 | A8 |"G" DEFG F2 D2 | F2 F4 z2 | DEFG F2 D2 |"E7" F8 | %28
+w: If you go, you know you'll|grieve me,|All in life on you de-|pends|Am I guess- ing that you|love me|dream- ing dreams of you in|vain|
+"A7" EFGB A2 G2 |"D7" A2 A2 AG F2 |"G" G8- | G2 z2 z4 |] %32
+w: I'm con- fess- ing that I|love you o- ver a-|gain.-||
+

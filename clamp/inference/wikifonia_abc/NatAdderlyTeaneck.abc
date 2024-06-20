@@ -1,0 +1,21 @@
+X:1
+T:Teaneck
+T:Teaneck
+C:Nat Adderly
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F B2 |"Am7" c4- c3 d |"D7" z2 z A z d z c |"Gm7" B2 B2"Gb7" BcB_A |"Fm7" z4"Bb7" z B f2 | %5
+"Em7" g4- g3 a |"Bb7" z2 z =e"A7" z a z g |"Dm7" f3 =e fgf_a- |"G7b9" a6 g2 ||"Cm7" e3 e z4 | %10
+"F7" z2 de g2 f2 |"Bbmaj7" d8 |"Am7b5" z2 ^cd"D7" f2 e2 |"Am7b5" z2 de"D7" =b2 _a2 | %14
+"Gm7" g2 dc BG z2 |"C7" z ^fa_a gec=F |"Cm7" z4"F7" z F B2 ||"Am7" c4- c3 d |"D7" z2 z A z d z c | %19
+"Gm7" B2 B2"Gb7" BcB_A |"Fm7" z4"Bb7" z B f2 |"Em7" g4- g3 a |"Bb7" z2 z =e"A7" z a z g | %23
+"Dm7" f3 =e fgf_a- |"G7b9" a6 g2 ||"Cm7" e3 e z4 |"F7" z2 de g2 f2 |"Dm7b5" d8 | %28
+"G+7" z2 ^cd f2 e2 |"Cm7" z2 =cd e2 f2 |"F7" _a2 (3_g_dA _A _G2 z |"Bbmaj7" z8 |] %32
+

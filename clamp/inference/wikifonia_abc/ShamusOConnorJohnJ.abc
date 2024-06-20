@@ -1,0 +1,45 @@
+X:1
+T:MacNamara's Band
+T:Macnamara's Band
+T:Shamus O'Connor
+T:John J. Stamford
+T:Jerry Vogel Music Co. Inc, 1940; Latham, Carlson & Bonham 1935
+C:Shamus O'Connor
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Verse" c2 c |"F" A2 A A2 A | A2 A A2 A | A2 A G2 F | (C3 C2) | A |"Bb" B2 B B2 B |"F" c2 c F2 G | %8
+w: 1.Oh! me|name is Mac- na-|mar- a, I'm the|lead- er of the|band, *|Al-|though we're few in|num- bers we're the|
+w: 2.Right *|now we are re-|hears- in', for a|ver- y swell af-|fair, *|The|an- nual cel- e-|bra- tion, all the|
+w: 3.Oh! my|name is Un- cle|Yul- lus and from|Swe- den I have|come, *|To|play with Mac- na-|mar- a's band and|
+w: 4.Oh! I|wear a bunch of|sham- rocks and a|un- i- form of|green, *|And|I'm the fun- niest|look- ing Swede that|
+ A2 A G2 F |"C""C" G3 | c3 |"F" A2 A A2 A | A2 A A2 A |"F" A2 A G2 F | (C3 C2) | A | %16
+w: fin- est in the|land.|We|play at wakes and|wed- dings and at|ev'- ry fan- cy|ball, *|And|
+w: gen- try will be|there.|When|Gen'- ral Grant to|Ire- land came he|took me by the|hand, *|Says|
+w: beat the big bass|drum,|And|when I march a-|long the street the|la- dies think I'm|grand, *|They|
+w: you have e- ver|seen.|There's|O'Briens and Ryans and|Sheehans and Meehans, they|come from Ire- *|land, *|But,by|
+"Bb" B2 B B2 B |"F" c2 c F2 G | A2"C" A"C" G2 G |"F" F3 ||"^Refrain" c2 c |"F" A2 A AAA | %22
+w: when we play to|fu- ner- als we|play the march from|Saul.|Oh! the|drums go bang and the|
+w: he, "I nev- er|saw the likes of|Mac- na- mar- a's|band."|||
+w: shout, "There's Un- cle|Yul- ius play- ing|with an I- rish|band."|||
+w: Yimmi- ny I'm the|on- ly Swede in|Mac- na- mar- a's|band.|||
+ A2 A AAA | A2 A G2 F |"F" (C3 C2) | A |"Bb" B2 B B2 B |"F" c2"F" c F2 G | A2 A G2 F | %29
+w: cym- bals clang, and the|horns they blaze a-|way; *|Mc-|Car- thy pumps the|old ba- zoon while|I the pipes do|
+w: |||||||
+w: |||||||
+w: |||||||
+"C""C" G3"C" c3 |"F" AAA AAA | AAA AAA | AAA G2 F |"F" (C3 C2) | A |"Bb" B2 B B2 B |"F" c3 F2 G | %37
+w: play; and|Hen- nes- sy Ten- nes- see|toot- les the flute, and the|mu- sic is some- thin'|grand; *|A|cred- it to old|Ire- land is|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+ A2"C" A"C" G2 G |"F" F3 |] %39
+w: Mac- na- mar- a's|band.|
+w: ||
+w: ||
+w: ||
+

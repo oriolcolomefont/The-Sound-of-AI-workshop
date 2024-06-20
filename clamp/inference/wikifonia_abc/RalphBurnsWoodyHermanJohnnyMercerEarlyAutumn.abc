@@ -1,0 +1,30 @@
+X:1
+T:Early Autumn
+T:Early Autumn
+C:Ralph Burns, Woody Herman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"C7" c^cd^d |"Fmaj7" ecAF e4- |"Bdim7" efgf"E7" e3 _e |"Ebmaj7" dBG_E d4- | %4
+w: When an ear- ly|Au- tumn walks the land|* and chills the breeze, and|touch- es with her hand|
+"Adim7" d_efe"D7" d3 _d |"Dbmaj7" c_AF_D c4- |"Gdim7" c_d_ed"C7" c3 A |"Fmaj7""Dm7" c8- | %8
+w: * the sum- mer trees, per-|haps you'll un- der- stand|* what mem- o- ries I|own.|
+"Gm7" c2 z2"C7" c^cd^d |"Fmaj7" ecAF e4- |"Bdim7" efgf"E7" e3 _e |"Ebmaj7" dBG_E d4- | %12
+w: * There's a dance pa-|vil- lion in the rain|* all shut- tered down, a|wind- ing coun- try lane,|
+"Adim7" d_efe"D7" d3 _d |"Dbmaj7" c_AF_D c4- |"Gdim7" c_d_ed"C7" c3 A |"Fmaj7" G2"Bb7" F6- | %16
+w: * all rus- set brown, a|frost- y win- dow pane|* shows me a town grown|lone- ly.|
+"Fmaj7" F4 z CDE |"Gm7" F3 D"C7" A A3 |"Fmaj7" z EGF"Abdim7" e e3 |"Gm7" d2 cB"C7" AGAc | %20
+w: * The spring fof|ours that start- ed|so ap- ril heart- ed,|seemed made for just a boy and|
+"Fmaj7" G4- GCDE |"Fm7" F3 _E"Bb7" G2 =EF |"Ebmaj7" ^FGBd"Ab7" f2 _e2 | %23
+w: girl. * I nev- er|dreamed, did you, an- y|fall would come in view so|
+"Gmaj7""F#7" ^f4"F7""E7#9" g4 |"Eb7""Dmaj7" ^c4"Db7b9""C7" d4 |"Fmaj7" ecAF e4- | %26
+w: ear- ly,|ear- ly?|Dar- ling if you care|
+"Bdim7" efgf"E7" e3 _e |"Ebmaj7" dBG_E d4- |"Adim7" d_efe"D7" d3 _d |"Dbmaj7" c_AF_D c4- | %30
+w: * please let me know, I'll|meet you an- y- where,|* I miss you so, let's|nev- er have to share|
+"Gdim7" c_d_ed"C7" c3 A |"Fmaj7" G2"F6""Dm7" F6- |"Gm7""C7" F4"Fmaj7" z4 |] %33
+w: * an- oth- er ear- ly|au- tumn.||
+

@@ -1,0 +1,27 @@
+X:1
+T:When The Red Red Robin
+T:When The Red Red Robin
+T:Harry Woods
+C:Harry Woods
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z G/>A/ |"G" B B"Em" B/>A/ G |"Am7" A A"D7" A/>G/ F |"G" G3 D | B3 G/>A/ | B B"Em" B/>A/ G | %6
+w: When The|Red, Red, Rob- in comes|bob, bob, bob- bin a-|long, a-|long, there'll be|no more sob- bin' when|
+"Am7" A A"D7" A/>G/ F |"G" G3 D |"G7" d4 |"C" e c2 e | c e/c/-"D7" c/B/ A |"G6" d B2 d | %12
+w: he starts throb- bin' his|old sweet|song.|Wake up, wake|up you sleep- * y head,|get up, get|
+ B d/B/- B/A/ G |"Em7" B G2 B | G B/G/-"A7" G/F/ E |"D7" A z"G#dim" B2 |"Am7" c/d/ e"D7" B A | %17
+w: up, get out * of bed,|cheer up, cheer|up, the sun * is red,|live, love,|laugh and be hap- py.|
+"G" B B"Em" B/>A/ G |"Am7" A A"D7" A/>G/ F |"G" G3 D | B4 | d d d/>c/ B |"D7/A" c c c/>B/ A | %23
+w: What if I've been blue,|now I'm walk- in' through|fields of|flow'rs,|rain may glis- ten but|still I lis- ten for|
+"G" d3 G |"G+" ^d4 |"C" e e/>^d/ e/>=d/ c |"Cm" _e/>e/e/>f/ e/>d/ c |"G" d2 B G |"C#dim" E3 G/>A/ | %29
+w: hours and|hours.|I'm just a kid a- gain,|do- in' what I did a- gain,|sing- ing a|song, When the|
+"G/D" B B B/>A/ G |"D7" A A A/>G/ F |"G""C" G4- |"G" G3 z |] %33
+w: Red, Red, Rob- in comes|bob, bob, bob- bin' a|long.-||
+

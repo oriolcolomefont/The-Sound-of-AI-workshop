@@ -1,0 +1,41 @@
+X:1
+T:Skye Boat Song
+T:Skye Boat Song
+T:Traditional
+T:Harold Boulton
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G""^Chorus" D3 E D2 |"Em/B" G4 GG |"Am/C" A3 B A2 |"D7" d6 |"G" B3 A B2 |"C" E4 E2 |"D7" D6- | %7
+w: Speed, bon- nie|boat, like a|bird on the|wing,|"On- ward," the|sai- lors|cry.|
+w: |||||||
+w: |||||||
+w: |||||||
+ D6 |"G" D3 E D2 |"Em/B" G4 GG |"Am/C" A3 B A2 |"D7" d6 |"G" B3 A B2 |"Em" E4 E2 |"G" D6 | %15
+w: |Car- ry the|lad that's *|born to be|King,|O- ver the|sea to|Skye.|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+ G6!fine! ||"Em""^Verses" B3 G B2 |"Em" B4 B2 |"Am" A3 E A2 |"Gbm7b5" A4 A2 |"Em" G3 E G2 | %21
+w: |1........Loud the winds|howl, *|loud the waves|roar, *|Thun- der claps|
+w: |2....Though the waves|leap, *|soft shall ye|sleep, *|O- cean's a|
+w: |3........Man- y's the|lad *|fought on that|day, *|Well the Clay-|
+w: |4....Burned are their|homes, *|ex- ile and|death *|Scat- ter the|
+ G4"B" F2 |"Em" E6- | E6 | B3 G B2 |"Em" B4 B2 |"Am" A3 E A2 |"Gbm7b5" A4 A2 |"Em" G3 E G2 | %29
+w: rend the|air:||Baf- fled our|foes *|stand on the|shore, *|Fol- low they|
+w: roy- al|bed.||Rocked in the|deep, *|Flor- a will|keep *|watch by your|
+w: more could|wield.||When the night|came, *|si- lent- ly|lay *|dead in Cull-|
+w: loy- al|men:||yet ere the|sword *|cool in the|sheath *|Char- lie will|
+ G4"B" F2 |"Em" E6 |"D7""^3 repeats then D.C.al fine" D6 :| %32
+w: will not|dare.||
+w: wea- ry|head.||
+w: o- den's|field.||
+w: come a-|gain.||
+

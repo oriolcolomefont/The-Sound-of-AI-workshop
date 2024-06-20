@@ -1,0 +1,26 @@
+X:1
+T:Love Is All We Need
+T:Love Is All We Need
+C:Don Wolf
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" e>ee>d"Am" c>cc>B |"Dm7" A>AA>A"G7" F2 (3z GF |"C" E4"Em" G4 |"Dm7" c4"G7" d4 | %4
+w: Love is all we need, so won't you|take me in your arms and _|love me,|love me!|
+"C" e>ee>d"Am" c>cc>B |"Dm7" A>AA>A"G7" F2 (3z GF |"C" E4"Em" G4 |"Dm7" c4"G7" d4 | %8
+w: Love is all we need, so dar- ling,|press me to your heart and _|love me,|love me!|
+"Gm7" c2 c>c"C7" c>cc>c |"F" c A3- A3 A |"Gm7" c2 c>c"C7" c>cc>c |"F" A8 |"Am7" d2 d>d"D7" d>dd>d | %13
+w: Tell me we'll al- ways have each|oth- er, _ "Cause|that's all I ev- er want to|know.|Tell me you'll al- ways be my|
+"G" d B3- B3 B |"Am7" d3 d"D7" d>AB>c |"Dm7""G7" d8 |"C" e>ee>d"Am" c>cc>B | %17
+w: lov- er. _ 'Cause|I will al- ways want you|so!|Love is all we need, so dar- ling,|
+"Dm7" A>AA>A"G7" F2 (3z GF |"C" E4"Em" G4 |"Dm7" c4"G7" d4 |"C" e>ee>d"Am" c>cc>B | %21
+w: hold me close to you and *|love me,|love me!|Love is all we need, to make our|
+"Dm7" A>AA>A"G7" F2 (3z GF |"C" E4"Em" G4 |"Dm7" c4"G7" d4 |"C" e3 d"Am" c3 d | %25
+w: ev- 'ry dream come true, So _|love me,|love me!|All we ev- er,|
+"Dm7" e3 d c2"G7" d2 |"C""F" c8- |"C" !fermata!c6 z2 |] %28
+w: ev- er need is|love.|_|
+

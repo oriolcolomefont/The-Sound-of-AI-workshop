@@ -1,0 +1,24 @@
+X:1
+T:subconscious lee
+T:subconscious lee
+T:lee konitz
+C:lee konitz
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble transpose=-12 nm="Guitar"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z ^fga |"Gm7b5" _b z2 ^f3 g2 |"C7" z _g=g_a _g=gc'_b |"Fm" _afef z4 | %4
+ z"Fm" c (3d_e=e fg (3_a=a_b |"Dm7b5" (3b_b_a f2 z4 |"G75b9#9#11b13" z d (3efg _b_agf | %7
+"Cmaj7" efef ^f z z2 | z4 z"D7" d e2 |"Gm7b5" _g=g z a2 _b _g2 |"C7" z2 c2 _d c2 _a | %11
+"Fm" e2 z2 efg_a |"Fm" d2 z4 de |"Dm7b5" f2 e2 fedc | %14
+"G75b9#9#11b13" (3B_eg !~(!c'!~)!d' a/f/_d- d2 |"Cmaj7" ce _g2 z4 | z4 z Bcd |"Cm7" _edBc de_gf | %18
+"F7" _gfd_e _agfe |"Bbmaj7" dc F6 | z Gzc (3f2 _b2 _e'2 |"Ab7" _a2 z2 f_gb=a |"Ab7" _a_gf_e fede | %23
+"Dm7" efz_b z4 |"G7" z4 Bc_d=d |"Gm7b5" _e2"C" _d2 cde=e |"C7" a_g_e=e g=gc'a |"Fm" _a2 z f efga | %28
+"Fm" b_bg_a e' z z2 |"Db7" ef_b_a ga _d'2 |"G75b9#9#11b13" z4 _b_agf |"C" efef _g=g_g=g | _a2 a6 |] %33
+

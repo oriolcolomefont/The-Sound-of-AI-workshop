@@ -1,0 +1,34 @@
+X:1
+T:Things
+T:Things
+T:unknown
+T:Shuffle or Swing
+C:Bobby Darin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c B A G | c B A G | E E- E2- | E4 | c B A G | c G A B |"G7" G4- | G4 |"C" E E E E | %9
+w: Ev- ry night I|sit here by my|win- dow _|_|Star- ing at the|lone- ly av- en-|ue|_|Watch- ing lov- ers|
+w: Mem- or- ies are|all I have to|cling to _|_|Heart- aches are the|friends I'm talk- ing|to|_|when I'm not thinking|
+w: I still can hear|the juke- box soft-|ly play- ing|_|the face I see|each day belongs to|you|_|there's not a sing-|
+"C7" E E A _B |"F" A2 F2- | F4 |"C" E E E E |"F" F D"G7" B, D |"C" C4- | C2 G/G/ G | %16
+w: hold- ing hands and|laugh- ing||think ing of the|things we used to|do|_ think- ing of|
+w: of just how much|I love|you|I'm think- ing bout|the things we used|to|do. * * *|
+w: le sound and there's|nobody a-|round|just me thinking of|the things we used|to|do * * *|
+"G7" B2 z G,/G,/ | B,/B,/ D F2 |"C" c2 z G,/G,/ | C/C/ E G2 |"G7" d2 z G,/G,/ | B, D F2- | %22
+w: things like a|walk in the park|things like a|kiss in the dark|things like a|sail- boat ride|
+w: ||||||
+w: ||||||
+"C" F c/c/ A G | E G C2 |"F" F3 F/C/ | F G A2 |"C" E3 E/C/ | E F G2 |"G7" D D D E | F D B, D | %30
+w: _ what a- bout the|night we cried|Things like a|lov- ers vow|things that we|don't do now|think- ing bout the|things we used to|
+w: ||||||||
+w: ||||||||
+"C" C4- | C4 |] %32
+w: do.|_|
+w: ||
+w: ||
+

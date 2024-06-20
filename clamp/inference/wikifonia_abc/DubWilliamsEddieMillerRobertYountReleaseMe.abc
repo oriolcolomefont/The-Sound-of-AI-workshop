@@ -1,0 +1,21 @@
+X:1
+T:Release Me
+T:Release me
+T:Robert Yount, Eddie Miller, Dub Williams,
+C:Dub Williams, Eddie Miller, Robert Yount
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" g3 ^f |"C7" f e g f |"F" A4- | A3 A |"G7" B3 A | G f f g |"C" e4- | e2 z g | g3 ^f | %9
+w: Please re|lease me let me|go|* for|I dont|love you an- y|more|* to|waste our|
+"C7" f e g f |"F" A4- | A2 z a |"C" g e2 f | e G"G7" B d |"C" c4- |"F" c3 z |"C" g3 ^f | %17
+w: lives would be a|sin|* Re-|lease me and|let me love a-|gain||I have|
+"C7" f e g f |"F" A4- | A3 A |"G7" B3 A | G f f g |"C" e4- | e2 z g | g2 z ^f |"C7" f e g f | %26
+w: found a new love,|dear|* and|I will|al- ways want her|near|* her|lips are|warm while yours are|
+"F" A4- | A2 z a |"C" g e2 f | e G"G7" B d |"C" c4- |"F" c3"C" z |] %32
+w: cold|* re-|lease me. my|dar- ling let me|go||
+

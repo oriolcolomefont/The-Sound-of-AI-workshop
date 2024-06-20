@@ -1,0 +1,24 @@
+X:1
+T:Que reste-t-il de nos amours?
+T:Que Reste-t-il de nos Amours ?
+C:Charles Trenet
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Gb
+V:1 treble 
+%%MIDI program 40
+V:1
+ z z z B, |"Ebm" B2-"Ebm/D" B2- |"Ebm/Db" B c/B/"Cb/Bb" A/G/F/G/ |"Fdim" A4- | %4
+"Bb7" A B/A/ G/F/E/F/ |"Ebm" G2-"Ebm/D" G2- |"Cdim" G A/G/"Cb7" F/E/=D/E/ |"Abm6/Bb" F2 E/F/A/c/ | %8
+"Bb7" B3 B, |"Ebm" B2-"Ebm/D" B2- |"Ebm/Db" B2"Ab/C" A/G/F/G/ |"Db" A4- |"Abm7" A c/A/ G/F/E/F/ | %13
+"Eb" =G2-"Eb/D" G2- |"Cdim" G B/_G/"Cb7" F/E/=D/E/ |"Abm/F" B4 |"Bb7" B, z (3=G A B |: %17
+"Fm7" =G2 (3F G F |"Bb7" =G2 (3F F B |"Eb" F2"Fm7" (3E F E |"Gm7" F2"F#dim" (3E E A | %21
+"Fm7" E2 (3=C E C |"Bb7" =D2 (3=G F E |"Eb" =C2-"Fm7" C2- |"Gdim" C z"C7b9""C7" (3=G A B | %25
+"Fm7" =G2 (3F G F |"Bb7" =G2 (3F F B |"Ebmaj7" F2"Fm7" (3E F E |"Gm7" F2"F#dim" (3E E A | %29
+"Fm7" E2 (3=C E C |"Bb7" =D2 (3=G F G |"Eb7" F4- | F z (3E F A |"Abmaj7" =c2 (3c c c | %34
+"Abm7" =B2"Db7" (3E F =G |"Ebmaj7" B2"Db7" (3B B B |"C7b9" B2 (3=C _D C |"Fm7" A2 (3A A A | %38
+"Cm7" =G2"F7" (3=c c _c |"Fm7" B4- |"Bb7" B z"C7" (3=G A B |"Fm7" =G2 (3F G F |"Bb7" =G2 (3F F B | %43
+"Ebmaj7" F2"Fm7" (3E F E |"Gm7" F2"F#dim" (3E E A |"Fm7" E2 (3=C E C |"Bb7" =D2 (3=G G G | %47
+"Eb" E z"Fm7" z2 |"Gdim" z2"C7b9""C7" (3=G A B :| %49
+

@@ -1,0 +1,35 @@
+X:1
+T:Beyond the Reef
+T:Beyond the Reef
+C:Jack Pitman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="GP2" snm="GP2"
+%%MIDI channel 2
+%%MIDI program 0
+V:1
+ z"Amin" C2 A- A3 G |"Gmin" B8 |"C7" z2 (3:2:2A2 B A3 G |"F " F3 A"Fmaj7" A4- | %4
+w: Be- yond * the|reef|where the sea is|dark and cold,|
+ A2"Amin" (3c=Bc e3"Ab " ^d |"Gmin" d8 |"C7" z2 (3:2:2c2"Gmin" d"C7" cC- CB |"F ""Csus47" A8- | %8
+w: * my * * love has|gone,|and our dr- eams * grow|old.|
+ A"Amin" C2 A- A3 G |"Gmin" B8 |"C7" z2 (3:2:2A2 B A3 G |"F " FA A6- | A2"Amin" c2 e3"Ab " ^d | %13
+w: * There'll be * no|tears,|there'll be no re-|gret- * ting|* Will she re-|
+"Gmin" d3 c"C7" c4- | c2 B2"Amin" A2 C"C7"G |"F ""Bb7" F8- |"F7" F2 F2"Cmin" _e3"Bb " d | %17
+w: mem- ber me?|* Will she f\- or|get?|* I'll send a|
+"F7" c3 B"Bb " B4- | B2 (3:2:2_D2 =D c3 B |"F " A8- | A2"D7" A2 d3 c | c3 B"Gmin" B4- | %22
+w: thou- sand flowers|* when the trade winds|blow.|* I'll send my|lone- ly heart,|
+"Dbdim7" B2 (3:2:2_D2 =D"Dmin" c3 B |"Gmin" G8 |"C7" z2 C2 A2 G2 |"Gmin" B8 | %26
+w: * for I love her|so.|Some day I|know|
+"C7" z2 (3:2:2A2 B A3 G |"F " F3 A A4- | A2"Amin" c2 e3"Ab " ^d |"Gmin" d4- dc"C7" c2- | %30
+w: she'll come back a\-|gain to me.|* Till then my|heart * will be|
+ c2 B2"Amin" A3"C7" G |"Bb ""F " F8 |"F7" z2 F2"Bb " d3 c |"C7" c3 B"Bb " B4 | z2 _D=D c3 B | %35
+w: * be- yond the|reef.||||
+"F " A8 |"Dbdim7" z2 A2"Dmin" d3 B |"Gmin" A3 G G4 |"C7" z2 GA B3 A |"F " F8 |"C7" z2 C2 A2 G2 | %41
+w: |||||Some day I|
+"Gmin" B8 |"C7" z2 (3:2:2A2 B A3 G |"F " F3 A A4- | A2"Amin" c2 e3"Ab " ^d |"Gmin" d4- dc"C7" c2- | %46
+w: know|she'll come back a\-|gain to me.|* Till then my|heart * will be|
+ c2 B2"Amin" AC- C"C7"G |"Bb ""F " F8 |"Bb " F4"Gmin" G4 |"Gb7" B4 _d4 |"F " c8 |] %51
+w: * be- yond * * the|reef.||||
+

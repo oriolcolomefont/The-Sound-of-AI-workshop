@@ -1,0 +1,23 @@
+X:1
+T:Brush Those Tears From Your Eyes
+T:Brush those tears from your eyes
+T:Oakley Haldeman: Al Trace: Jimmy Lee
+C:Oakley Haldeman, Al Trace, Jimmy Lee
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E F |"C" G2 e d | c3 B |"F" c B c A |"G7" G2 z2 ||"^N.C." z2 E F |"C" G2 e d |"F" c3 B | %8
+w: |||||Brush those|tears from your|eyes and|
+ c B c B | A2 c A |"C" G2 c d |"D7" e2 d c |"G7" B d3- | d2"^N.C." E F |"C" G2 e d | c3 B | %16
+w: try to re- al-|ise that the|ache in my|heart is for|you *|* brush those|tears from your|eyes and|
+"F" c B c B | A2 c A |"C" G2 c e |"G7" d f2 B |"C" c4- | c d e f | g2 e c | e2 d c |"F" d c c A | %25
+w: try to re- al-|ise that from|now on I'll|al- ways be|true||I went a-|way but I|did- nt mean to|
+"C" c3 G | c2 c d |"D7" e2 d c |"G7" B B c ^c | d2 E F |"C" G2 e d | c3 B |"F" c B c B | A2 c A | %34
+w: stay and|I will re-|gret it un-|til my dy- ing|day Brush those|tears from your|eyes and|try to re- al-|ize that the|
+"C" G2 c e |"G7" d2 f B |"C" c4- | c2 z2 |] %38
+w: ache in my|heart is for|you.||
+

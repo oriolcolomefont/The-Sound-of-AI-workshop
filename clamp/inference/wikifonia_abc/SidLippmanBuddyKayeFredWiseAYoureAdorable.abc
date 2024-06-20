@@ -1,0 +1,33 @@
+X:1
+T:"A" You're Adorable
+T:"A" You're Adorable
+T:Sid Lippman
+T:The Alphabet Song
+T:Buddy Kaye,Fred Wise
+C:Sid Lippman
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" B,2 B,>C D>F A2 |"G7" G2 G>A G>F D2 |"C7" C2 C>=B, C>D=E>A |"Gm7""C7" G8 | %4
+w: "A" you're a- dor- a ble,|"B" you're so beau- ti- ful|"C" you're a cu- tie full of|charms.|
+"Cm7" B2 G>E C>E G2 |"Dm" A2 F>D"G7" =B,>D F2 |"Cm7" G2 E>C"F7" A,>CE>G |"Bb""Cm7""F7" F8 | %8
+w: "D" you're a dar- ling and|"E" you're ex- cit- ing and|"F" you're a feath- er in my|arms.|
+"Bb" B,2 B,>C D>F A2 |"G7" G2 G>A G>F D2 |"C7" C2 C>=B, C>D=E>A |"Gm7""C7" G8 | %12
+w: "G" you look good to me,|"H" you're so heav- en- ly,|"I" you're the one I i- do-|lise|
+"Cm7" B2 G>E C>E G2 |"Dm" A2 F>D"G7" =B,>D F2 |"Cm7" G2 E>C"F7" A,>B,D>C |"Bb""Bb7" B,8 | %16
+w: "J" you're like Jack and Jill|"K" you're so kiss- a- ble,|"L" is the love- light in your|eyes.|
+"Eb" C4"F9" G4 |"Bb" F4"Gm" B,4 |"Cm7" C>DE>F-"F7" F2"F+" G2 |"Bb""Bb7" D8 |"Eb" C4"F9" G4 | %21
+w: "M" "N"|"O" "P"|I could go on * all|day.|"Q" "R"|
+"Bb" F4"Bbm" B2 G>B |"F" A>A A2"C7" C2 C2 |"F7" F2 GD- D4 |"Bb" B,2 B,>C D>F A2 | %25
+w: "S" "T" al- pha|bet- i- cally speak- ing|you're o- kay- .|"U" made my life com- plete|
+"G7" G2 G>A G>F D2 |"C7" C>D =B,2 C2 A2 |"Gm7" G4-"C7" G B3 |"Cm7" B>GE>C"Dbdim" A3 G | %29
+w: "V" means you're ve- ry sweet|doub le "U" "X" "Y"|"Z" * It's|fun to wan- der thro' the|
+"Bb" F>GF>=E"G+7" _E3 D |"Cm7" C>DE>F G2"F7" A2 |"Bb" B6 z2 |] %32
+w: al- pha- bet with you to|tell you what you mean to|me.|
+

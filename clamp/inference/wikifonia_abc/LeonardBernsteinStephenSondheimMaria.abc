@@ -1,0 +1,28 @@
+X:1
+T:Maria
+T:Maria
+T:Leonard Bernstein
+T:Stephen Sondheim
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cm" z2"Cm7" (3z CC"Ab" (3CCC"Cm" CC |"Db" DA, B,4 z B, |"G6" E D2 B,"Eb7" (3EDB, (3EDB, | %3
+w: The most beau- ti- ful sound I|ev- er heard: Ma-|ri- a, Ma- ri- a, Ma- ri- a, Ma-|
+"Ab" E C3- C4 |"Cm" (3z CC"Cm7" (3CCC"Ab" (3CCC"Cm" (3CCC |"Bb" DA, B,4 z B, | %6
+w: ri- a, _|All the beau- ti- ful sounds of the world in a|sin- gle word: Ma-|
+"Ebm" F E2 B,"Eb" (3FEB, (3FEB, |"Ab" F E2 C (3FEC (3FEC |[K:C]"C" ^F G3- G3 C | %9
+w: ri- a, Ma- ri- a, Ma- ri- a, Ma-|ri a, Ma- ri- a, Ma- ri- a. Ma-|ri- a, _ I've|
+ (3^F2 G2 A2 (3F2 G2 A2 |"G" ^F G3- G3 G |"C" ^FEDC"G" D3 G |"Dm7" =FEDC D2 C2 |"Cmaj7" E6 z C | %14
+w: just met a girl named Ma-|ri- a, _ And|sud- den- ly that name will|nev- er be the same to|me. Ma-|
+"C" ^F G3- G3 C | (3^F2 G2 A2 (3F2 G2 A2 |"G" B G3- G3 B |"Am" cBAG"Em" B3 B |"Am" cBAG"Em" B2 c2 | %19
+w: ri- a! _ I've|just kissed a girl named Ma-|ri- a, _ And|sun- den- ly I've found how|won- der- ful a sound can|
+"Bm" d6 d2 |"F" c B3- B2 dc | (3B2 A2 B2 c2 B2 |"Em" B G3 (3z2 G2 A2 |"Gm" (3_B2 A2 G2 (3B2 A2 G2 | %24
+w: be! Ma-|ri- a! _ Say it|loud and there's mus- ic|play- ing. Say it|soft and it's al- most like|
+"C" A D3- D2 D2 |"Bb9" =F C3- C3 D | (3F2 C2 D2 (3F2 C2 D2 |"C6" E c3- c4- | !fermata!c8 |] %29
+w: pray- ing. _ Ma-|ri- a, * I'll|nev- er stop say- ing "Ma-|ri- a." _|_|
+

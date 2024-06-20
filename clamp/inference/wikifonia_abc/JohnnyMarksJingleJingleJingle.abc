@@ -1,0 +1,22 @@
+X:1
+T:Jingle, Jingle, Jingle
+T:Jingle, Jingle, Jingle
+C:Johnny Marks
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" C E G B | A A2 G/E/ | C E G B |"G7" A4 | B, D F B |"G7" A A2 D/E/ | F G A B |"C""G7" G4 | %8
+w: Jin- gle, jin- gle,|jin- gle, you will|hear his sleigh bells|ring,|jol- ly old Kris|Krin- gle, is the|king of jin- gl-|ing.|
+"C" C E G B |"C" A A2 G/E/ | C E G B |"G7" A4 | B, D F B |"G7" A A2 D/E/ | F G A B |"C" c3 c | %16
+w: Jin- gle, jin- gle,|rein- deer, through the|frost- y air they'll|go,|they are not just|plain deer, they're the|fast- est deer I|know. You|
+"F6" d A A"G7" B/d/ |"C" c G G2 |"G7" B A G F |"C" E3"E7" E |"Am" A E E"D7" ^F/A/ |"G" G D D2 | %22
+w: must be- lieve that on|Christ- mas Eve|Kris won't pass you|by, He'll|dash a- way in his|mag- ic sleigh,|
+"D7" ^F E D C |"G7" B,4 |"C" C E G B | A A2 G/E/ |"C" C E G B |"G7" A4 | B, D F B | A A2 D/E/ |1 %30
+w: fly- ing through the|sky.|Jin- gle, jin- gle,|jin- gle, you will|hear his sleigh bells|ring,|jol- ly old Kris|Krin- gle, is the|
+"G7" F G A B ||"C" c3 z :|2"Dm" F2"A7" G2 ||"Dm" A2"G7" B2 |"C" c4- | c G c z |] %36
+w: king of jin- gl-|ing.|king of|jin- gl-|ing.|_ Ho! Ho!|
+

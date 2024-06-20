@@ -1,0 +1,26 @@
+X:1
+T:Christ The Lord Is Risen Today
+T:Christ The Lord Is Risen Today
+T:©
+T:Words: Charles Wesley, 1739 Music: Composer Unknown 
+C:Composter Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" C E G C |"F" F A"C" A G | E/F/G/C/"Dm" F E/F/ |"G" E D"C" C2 |"F" F G A G |"Dm" F E E D | %6
+w: Christ, the Lord is|ris'n to- day, _|Al- * * * * le- *|lu- * ia!|Sons of men and|an- gels say: _|
+w: Lives a- gain our|glo- rious King, _|Al- * * * * le- *|lu- * ia!|Where O death is|now thy sting? _|
+"C" E/F/G/C/"Dm" F E/F/ |"G" E D"C" C2 |"G" B c d G |"C" c d e2 |"G" B/c/d/G/"D7" c B/c/ | %11
+w: Al- * * * * le- *|lu- * ia!|Raise your joys and|tri- umphs high,|Al- * * * * le- *|
+w: Al- * * * * le- *|lu- * ia!|Dy- ing once, He|all doth save,|Al- * * * * le- *|
+ B A"G" G2 | G/A/B/G/"C" c E |"F" F A"C" A G | c/B/c/G/"F" A/B/c/d/ |"G" c B"C" c2 |] %16
+w: lu- * ia.|Sing, _ ye _ heav'ns and|earth re- ply, _|Al- * * * * * le- *|lu- * ia.|
+w: lu- * ia.|Where _ thy _ vic- to-|ry, O grave? _|Al- * * * * * le- *|lu- * ia.|
+

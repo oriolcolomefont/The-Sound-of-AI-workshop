@@ -1,0 +1,25 @@
+X:1
+T:Good King Wenceslas
+T:Good King Wencelas
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F F F"C7" G |"F" F F C2 |"Bb" D C"C7" D E |"F" F2 F2 | F F F"C7" G |"F" F F C2 | %6
+w: Good King Wen- ces-|las looked out|on the feast of|Ste- phen|when the snow lay|round a- bout|
+"Bb" D C"C7" D E |"F" F2 F2 | c _B A G | A G F2 |"Bb" D C"C7" D E |"F" F2 F2 | C C"C7" D E | %13
+w: deep and crisp and|e- ven|bright- ly shone the|moon that night|though the frost was|cru- el|when a poor man|
+"F" F F"C7" G2 |"F" c _B"C7" A G |"F" F2"Bb" _B2 |"F" F4 | F F F"C7" G |"F" F F C2 | %19
+w: came in sight|gath- ring win- ter|fu- *|el|hith- er page and|stand by me|
+"Bb" D C"C7" D E |"F" F2 F2 | F F F"C7" G |"F" F F C2 |"Bb" D C"C7" D E |"F" F2 F2 | c _B A G | %26
+w: if thou know'st it,|tell- ing|yon- der peas- ant|who is he?|where and what his|dwell- ing?|Sire he lives a|
+ A G F2 |"Bb" D C"C7" D E |"F" F2 F2 | C C"C7" D E |"F" F F"C7" G2 |"F" c _B"C7" A G | %32
+w: good league hence,|un- der- neath the|moun- tain|right a- gainst the|for- est fence|by Saint Ag nes|
+"F" F2"Bb" _B2 |"F" F4 |] %34
+w: foun *|tain.-|
+

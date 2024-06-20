@@ -1,0 +1,43 @@
+X:1
+T:Walk like a man
+C:Four Seasons
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 65
+V:1
+"G" z B"C" z c |"G" z B"C" z c ::"G" z D"C" d B |"G" A G"C" A B |"G" z B"C" z c |"G" z B"C" z c | %6
+w: ||Ooh _ _|_ _ _ _|walk walk|walk walk|
+w: ||||||
+"G" z D"C" d B |"G" A G"C" A B |"G" G4 |"C/G" G2 G2 |"G" G4 |"D7" F4 |"G" B B/G/"Am" A/ GA/ | %13
+w: Ooh _ _|_ _ _ _|walk|like a|man|_|Oh how you tried _ to|
+w: ||||||Bye- yi, _ ba- by, I|
+"G" B/e/d/B/"Am" A/ G3/2 |"G" B/e/d/B/"Am" A/G/A/G/ |"G" B3"Am"z/d/ |"G" B B/G/"Am" A/ GA/4A/4 | %17
+w: cut me down to size, _|tell- in' dirt- y lies _ to your|friends. But,|my own _ fa- ther said *|
+w: don't _ mean _ may- be;|gon- na get a- long _ some- _|how _|Soon you'll be cry- ing, on ac-|
+"G" B/e/d/B/"Am" A/ GA/ |"G" B B/G/"Am" A/G/E/G/ |"G" G"^N.C." G A B ||[K:C]"C" c"C/E" c/G/"F" A2 | %21
+w: "Give her up, don't both- er, the|world is- n't com- ing to an|end." He said it,|"Walk like a man,|
+w: count of all your ly- ing, Oh|yeah, just _ look who's laugh- ing|now. I'm gon- na|walk like a man|
+"C" G G/E/"F" F2 |"C" E E/E/"Em" G G |"F" (3A F A"G" B2 |"C" c"C/E" c/G/"F" A>E | %25
+w: talk like a man,|walk like a man, my|son. _ _ _|No wom- an's worth _|
+w: fast as I can,|walk like a man, from|you. _ _ _|I'll tell the world for-|
+"C" G/A/G/E/"F" D/ CD/ |"C" E E/E/"Em" G G |1"F" C2"D" D2 :|2[K:G]"F" C2"D" D2 |:"G" z D"C" d B | %30
+w: crawl- in' on the earth, _ so|walk like a man, my|son" _|you. _|Ooh _ _|
+w: get a- bout it, girl, _ and|walk like a man, from|_ _|||
+"G" A G"C" A B |"G" z B"C" z c |"G" z B"C" z c |"G" z D"C" d B |"G" A G"C" A B |"G" z B"C" z c | %36
+w: _ _ _ _|Walk Walk|Walk Walk|Ooh _ _|_ _ _ _|Walk Walk|
+w: ||||||
+"G" z B"C" z c :|"""G" z B"C" z c |"G" z B"C" z c |"G" !fermata!B4 |] %40
+w: Walk Walk|Walk walk|walk walk|ooh.|
+w: ||||
+V:2
+ x4 | x4 :: x4 | x4 | d4- | d4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 ||[K:C] x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 :|2[K:G] x4 |: x4 | x4 | d4- | d4 | x4 | x4 | %35
+ G4- | G4 :|"" x4 | x4 | x4 |] %40
+

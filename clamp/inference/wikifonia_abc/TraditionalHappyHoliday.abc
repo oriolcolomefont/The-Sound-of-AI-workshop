@@ -1,0 +1,24 @@
+X:1
+T:Happy Holiday
+T: Laukens Music Productions  
+T:HAPPY HOLIDAY
+T:arr.: H. Laukens
+T:Polka
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=165
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:S"C" g>e cA | G4 | G/G/G/G/"Cdim" Ac |"G7" BB B2 | g>f dB | G4 | G/G/G/G/ AB |"C" cc c z |: %8
+"C" GG/G/ AA | G/G/G/G/ A2 | G/G/G/G/"Cdim" Ac |"G7" BB B z | GG/G/ AA | G/G/G/G/ A2 | %14
+ G/G/G/G/ AB |"C" cc c zS ::[K:F]"^TRIO""F" c3 B | A3 c | cc d>c |"C7" cB B z |"Gm" d3 c | B3 d | %22
+"C7" dd e>d |"F" dc c z | c3 B | A3 A |"F7" AA Bc |"Bb" d4 | d/d/d/d/ ed |"F" c/c/c/c/ dc | %30
+"C7" B/B/B/B/ cB |"F" AB c"F7" z |"Bb" d/d/d/d/ ed |"F" c/c/c/c/ dc |"C7" B/B/B/B/ AG | %35
+"F" FF F zS :| %36
+

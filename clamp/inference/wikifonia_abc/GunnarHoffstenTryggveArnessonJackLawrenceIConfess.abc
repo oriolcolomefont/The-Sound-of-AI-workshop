@@ -1,0 +1,26 @@
+X:1
+T:I Confess
+T:I Confess
+T:Gunnar Hoffsten & Tryggve Arnesson
+T:Jack Lawrence
+C:Gunnar Hoffsten & Tryggve Arnesson
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" AG"Bbm" B3 A |"A7" G3 F GA |"Bb" D6- |"D7" D6 |"Gm" G^F A3 G |"Bbm6" F3 E FG |"F" C6- | %7
+w: I con- fess it's|you that I a-|dore,||I con- fess each|day I love you|more.|
+ C2 D2 E2 | G2 F3 E |"Fdim" G2 F2 D2 |"C7" E6- | E4 DE |"G9" F2 E2 F2 |"G7" D2 E2 F2 |"C7" G6 | %15
+w: * Is it|sin- ful to|kiss you and|thrill|* If it's|sin- ful then|dar- ling I'm|guilt-|
+"C+7" ^G6 |"F" AG"Bbm" B3 A |"A7" G3 F GA |"Bb" D6- |"D7" D6 |"Gm" G^F A3 G |"Bbm6" F3 E FG | %22
+w: y.|I con- fess the|dreams I can't con-|trol,||You pos- sess my|dreams, my ve- ry|
+"Cm6/Eb" c6- |"D7" c4 c2 |"Gm" c2 B2 D2 |"Bbm6" c2 B2 B2 |"F" B2 A2 c2 |"D7" E4 D2 |"Gm" G^F A3 D | %29
+w: soul.|* I'm|yours for the|tak- ing, I'll|nev- er give|less. So|an- swer "Yes," Con-|
+"Gm7" ^CD"C9" A3 A |1"F""Db7" F6- ||"Gm7" F4"C+" z2 :|2"F""Db7" F6- ||"F6" F4 z2 |] %34
+w: fess what I con-|fess.||fess.-||
+

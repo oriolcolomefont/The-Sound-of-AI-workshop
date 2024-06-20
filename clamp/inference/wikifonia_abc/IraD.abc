@@ -1,0 +1,29 @@
+X:1
+T:Under His Wings
+T:Under His Wings
+T:Ira D. Sankey
+T:William O. Cushing
+T:All Rights Reserved
+C:Ira D. Sankey
+Z:All Rights Reserved
+L:1/4
+M:6/4
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F G =G A2 A/A/ | A B F A G2 | E F G B A A | A E =E F3 | F G =G A A d | e d B B A2 | B c d d A F | %7
+w: 1.~Un- der His wings I am|safe- ly a- bid- ing,|Though the night deep- ens and|tem- pests are wild.|Still I can trust Him; I|know He will keep me.|He has re- deemed me and|
+w: 2.~Un- der His wings, what a|ref- uge in sor- row!|How the heart yearn- ing- ly|turns to His rest!|Of- ten when earth has no|balm for my heal- ing,|There I find com- fort, and|
+w: 3.~Un- der His wings, O what|pre- cious en- joy- ment!|There will I hide till life's|tri- als are o'er.|Shel- tered, pro- tec- ed, no|e- vil can harm me;|Rest- ing in Je- sus I'm|
+ A G E D3 |"^REFRAIN" A F A d3 | c B c d3 | d A F (B A) F | F E4 z | D F A d2 c | e d B A3 | %14
+w: I am His child.|Un- der His wings,|un- der His wings,|Who from his love * can|sev- er?|Un- der His wings my|soul shall a- bide;|
+w: there I am blest.|||||||
+w: safe ev- er- more.|||||||
+ B c d (A F) D | E3 D2 z |] %16
+w: Safe- ly a- bid * for-|ev- er.|
+w: ||
+w: ||
+

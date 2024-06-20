@@ -1,0 +1,37 @@
+X:1
+T:Danke Schoen
+T:Danke Schoen
+T:Bert Kaempfert & Kurt Schwabach
+T:Milt Gabler (English)
+C:Bert Kaempfert & Kurt Schwabach
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C+" ^G3 A"C" A4- | A4 B2 A2 |"Ddim" ^G3 A"G7" A4- | A8 |"Ddim" ^G3 A"G7" A4- | A4 c2 B2 | %6
+w: Dank- e Schoen|* Dar- ling|dank- e schoen||Thank you for|* all the|
+w: Dank- e Schoen|* Dar- ling|dank- e schoen||Thank- you for|* fun- ny|
+"C+" ^G3 A"C" A4- | A8 |"C7b9" c3 d"C7" d4- | d4 e2 d2 |"F+" ^c3 d"F" d4- | d4 e2 d2 |"C" B3 c c4 | %13
+w: joy and pain||Pic- ture shows|* se- cond|bal- co- ny|* was the|place we'd meet|
+w: cards from Spain||I re- call|* Cen- tral|Park in fall|* How you|tore your dress,|
+"G7" ^A3 B B4 |"C+" ^G3 A"C" A4 |"Ddim" ^G3 A"G7" A4 ::"Db+" =A3 _B"Db" B4- | B4 c2 _B2 | %18
+w: se- cond seat|go Dutch treat,|you were sweet.|Dank- e Schoen|* Dar- ling|
+w: What a mess,|I con- fess|that's not all|Dank- e Schoen|* Dar- ling|
+"Ebdim" =A3 _B"Ab7" B4- | B8 |"Ebdim" =A3 _B"Ab7" B4- | B4 _d2 c2 |"Db+" =A3 _B"Db" B4- | B8 | %24
+w: dank- e schoen||Thank you for|* walks down|Lov ers Lane||
+w: dank e schoen||Thank you for|* see- ing|me a- gain.||
+"Db7b9" =d3 _e"Db7" e4- | e4 f2 _e2 |"Gb+" =d3 _e"Gb" e4- | e4 f2 _e2 |"Db" c3 _d d4 | %29
+w: I can see|* hearts carved|on a tree|* Let- ters|in- ter- twined|
+w: Tho' we go|* on our|sep- 'rate ways|* Still the|mem- 'ry stays|
+"Ab7" =B3 c c4 |1"Db+" =A3 _B"Db" B4 ||"Ebdim" =A3 _B"Ab" B4 :|2"Db+" =A3 _B"Db" B4 || %33
+w: for all time|yours and mine|that was fine|My heart says|
+w: for al- ways||||
+"Ebdim" =A3 _B"Ab" B4 |"Db+" =A3 _B"Db" B4 |"Ebdim" =A3 _B"Ab7" B4- |"Db" B8- | B2 z2 z4 |] %38
+w: dank- e schoen|weid- er- sehn,|dank- e schoen.-|||
+w: |||||
+

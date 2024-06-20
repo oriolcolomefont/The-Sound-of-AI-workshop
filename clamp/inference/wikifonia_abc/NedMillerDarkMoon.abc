@@ -1,0 +1,23 @@
+X:1
+T:Dark Moon
+T:Dark Moon
+T:Ned Miller
+C:Ned Miller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" E4 G4- | G4 z cc>c | c>BB>B B>AA>A | A>GG>G G>FF>E |"Bb7" D2 F6- |"Fm""Bb7" F8 | D4 F4- | %7
+w: Dark Moon,|* a- way up|high up in the sky, oh tell me|why, oh tell me why you've lost your|slen- dour,||Dark Moon,|
+ F4 z cc>c | c>BB>B B>AA>A | A>GG>G G>FE>D |"Eb" E8- | E6 z2!fine! |"Ab" A4 A2 G2 |"Bb7" A6 B2 | %14
+w: * what is the|cause your light with- draws is it be-|cause, is it be- cause I've lost my|love.||Mor- tals have|dreams of|
+"Eb" B4 B =A2 B- | B6"E7" =B2 |"F7" c3 =B c B2 c- | c6 ^c2 |"Bb7" d2 c2"Edim" B2 =A2 | %19
+w: love's per- fect schemes,|* but|they don't re- a- lise|* that|love will some- times|
+"Fm7""Bb7" A6 D2!D.C.! |] %20
+w: bring a|
+

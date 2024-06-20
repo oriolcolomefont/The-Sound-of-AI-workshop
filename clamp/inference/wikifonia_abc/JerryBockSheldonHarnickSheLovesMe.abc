@@ -1,0 +1,39 @@
+X:1
+T:She Loves Me
+T:She loves me
+T:(from She loves me)
+T:Jerry Bock
+T:Sheldon Hamick
+C:Jerry Bock
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^N.C." C |:"F" G3/2 F/ z2 | C C C C |"Gm7" D3/2 C/ z2 |"C" z2 z C |"Gm" A3/2 G/ z2 | %6
+w: She|loves me|and to my a-|maze- ment|I|love it|
+w: |love her|is- nt that a|won- der|I|won- der|
+"C7" C C C C |"F" D3/2 C/ z2 | z2 z C |"F7" _B3/2 A/ z2 | F F F F |"Bb" G3/2 F/ z2 | z2 z F | %13
+w: know- ing that she|loves me|she|loves me|true she does- nt|show it|how|
+w: why I did- nt|want her|I|want her|thats thething that mat-|ters *|and|
+"Dm7" c3/2 B/"G7" z2 | G G G G |"Gm7" d3/2 c/"C7" z2 | c _B A G |"D7" ^F d"Gm" z _B | _B A G F | %19
+w: could she|when she does- nt|know it|yes- ter- day she|loathed me Bah!|now to- day she|
+w: mat- ters|are im- pov- ing|dai- ly|yes- ter- day I|loathed her Bah!|now to- day I|
+"C7" E c"F7" z A | A G F _E |"Bb" z2 z D |"G7" A2 G2 | z2 z2 |"C" c4- | c4- | c z2 C | %27
+w: likes me Hah!|and to- mor- row|to-|mor- row||ah||* my|
+w: love her Hah!|and to- mor- row|to-|mor- row||ah||* I'm|
+"F" G3/2 F/ z2 | C C C C |"Gm7" D3/2 C/ z2 |"C7" z2 z C |"Gm7" A3/2 G/ z2 |"C7" C C C C | %33
+w: teeth- ache|from the urge to|touch her|I'm|speech- less|for I must- nt|
+w: ting ling|such de- li- cious|ting- les|I'm|tremb- ling|what the heck does|
+"F" D3/2 C/ z2 | z2 z C |"F7" _B3/2 A/ z2 | F F F F |"Bb" c2 _B2 |"Bbm" z2 z _B |"F" C C C C | %40
+w: tell her|its|wrong now|but it wont be|long now|be-|fore my love dis-|
+w: that mean?|I'm|freez- ing|thats be- cause its|cold out|but|still I'm in- can-|
+"Bbm" C G2 F |"F" C C C C | C G2 F |"F" C C C C |"Eb" C G C G |"Ab" c4- | c3 c |"Gm7" c2 c2- | c4 | %49
+w: cov- ers that|she and I are|lov- ers I-|mag- ine how sur-|prised she's bound to|be|* she|loves me||
+w: des- cent and|like some ad- o-|les- cent I'd|like to scrawl on|ev- ry wall I|see|* she|loves me||
+ C2 z2 | F2 z2 |"F" d4- |"D7" d4- |"Gm7" d4- |1"C7" d3 C :|2"C" d3 z |"F" z4 |] %57
+w: she|loves|me|||* I|||
+w: she|loves|me||||||
+

@@ -1,0 +1,37 @@
+X:1
+T:Coucou
+T:Coucou
+T:Django Reinhardt
+T:Intro
+T:Coucou
+T:2
+C:Django Reinhardt, Stephane Grappelli
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble transpose=-12 nm="MusicXML Part"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble transpose=-12 
+%%MIDI channel 1
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/8
+V:1
+"C" C2"Am" A,2 |"C" D/E/F/^F/"G7" G (3G,/A,/B,/ |"C" C3/2 ^A,/"Am" =A,2 |"C" D/E/F/^F/"G7" G z |: %4
+"C" g e2 c | d/c/d/e/ d c |"Am" z a e e | d/c/ e d c |"F" z c' a z |"F#dim" z e"G7" d/c/d/c/ | %10
+"C" (3G,/A,/B,/ C"Am" B,/D/C/E/ |"Dm" D C/B,/"G7" G,/ z/ z ||"C" g e2 c | d/c/d/e/ d c | %14
+"Am" z a e e | d/c/ e d c |"F" z c' a z |"F#dim" z ^d"G7" =d/c/ d |"C" c2 z2 | x4 || %20
+"C7" d d/d/ d/ z/ ^A/d/ | e e/ a z/ e |"F" g g f e | d2 z d |"D7" e e/f/ z c/f/ | ^f f/b/ b/ z/ a | %26
+"G7" g g ^a a | g2 z2 ||"C" g e2 c | d/c/d/e/ d c |"Am" z a e e | d/c/ e d c |"F" z c' a z | %33
+"F#dim" z ^d"G7" =d/c/ d |"C" c2"Am" z2 | x4 :| %36
+V:2
+ x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | %18
+ CDEG cAGE | C2 EG c2 C2 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | %34
+ CDEG cAGE |"Dm" C2 EG"G7" c2 C2 :| %36
+

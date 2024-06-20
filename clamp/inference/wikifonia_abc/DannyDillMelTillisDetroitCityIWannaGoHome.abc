@@ -1,0 +1,31 @@
+X:1
+T:Detroit City (I Wanna Go Home)
+T:Detroit City
+T:Danny Dill, Mel Tills
+C:Danny Dill, Mel Tillis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Country Blues" z2 z"^N.C." D |"C" E E E E |"G7" G3/2 G/ G E |"C" D C3 | z2 z E/F/ |"G7" G G G G | %6
+w: Last|night I went to|sleep in De- troit|cit- y|and I|dreamed a- bout the|
+w: |Home folks think I'm|big in De- troit|cit- y|from the|let- ters that I|
+ A G G F |"C" E4- | E3 G |"F" A3/2 A/ A G | G F2 E/F/ |"C" G G G/A/ G | E C2 C/C/ | %13
+w: cot- ton fields and|home|* I|dreamed a- bout my|moth- er dear old|pa- pa sis- ter and|broth- er and I|
+w: write they think I'm|fine|but by|day I make the|cars, * by *|night I make * the|bars * if *|
+"D7" D3/2 E/ ^F G!dacoda! | A3 ^F/F/ |"G7" G E F C | D E E/_E/ D |"C" C4- | C3/2 A/ A/_A/ G | %19
+w: dreamed a- bout the|girl whos been|wait- ing for so|long, I wan- na go|home|* I wan- na go|
+w: on- ly they could||||||
+"F" F4- | F2 z2 |"C" G2 G A |"G7" E2 E D |"C" C4- | C2 z2!D.S.! ||O A3/2 ^F/ E D |"G7" G4- | %27
+w: home||Oh how I|wan- na go|home||read be- tween the|lines|
+w: ||||||||
+ G3/2 E/ E/_E/ D |"C" C4- |"C7" C3/2 A/ A/_A/ G |"F" F4- | F2 z2 |"C" G2 G A |"G7" E2 E D | %34
+w: * I wan- na go|home|* I wan- na go|home||Oh how I|wan- na go|
+w: |||||||
+"C" C4- | C2 z2 |] %36
+w: home.||
+w: ||
+

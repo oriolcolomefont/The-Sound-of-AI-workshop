@@ -1,0 +1,33 @@
+X:1
+T:The Christmas Song
+C:Mel Torme, Robert Wells
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb6" E2 e2"Bb7" dcBA |"Cm7" G2 c2"Ab" BA"Abm"GF |"Eb/Bb" G4"Bdim7" F2"Cm" E2 | %3
+w: |||
+"Fm9" G4-"Bb7b9" G2 G2 |:"Eb6" E2 e2"Bb7" dcBA |"Eb6" G2 G2"Bb9" G4 |"Eb6" E2 c2"Eb9" BAGF | %7
+w: |Chest- nuts roast- ing on an|o- pen fire,|Jack Frost nip- ping at your|
+"Ab" E4-"Ab7" E2-"G+7" E2 |"Cm" E2"Cm/Bb" E2"Abm6" FFEF |"Eb/Bb" (3G2 B2 c2"Am7" d3"D7" c | %10
+w: nose, * *|yule- tide car- ols be- ing|sung by a choir and|
+"G" =B2 B2"Abm7" _d_c"Db9"_BA |"Gbmaj7" B4"Bb7" BAGF |"Eb6" E2 e2"Bb7" dcBA |"Eb6" GG G2-"Bb9" G4 | %14
+w: folks dressed up like Es- ki-|nos. Ev- 'ry- bod- y|knows a tur- key and some|mis- tle toe *|
+"Eb6" E2 c2"Eb9" BAGF |"Ab" E4-"Ab7" E2-"G+7" E2 |"Cm" E2"Cm/Bb" E2"Abm6" F2 EF | %17
+w: help to make the sea- son|bright. * *|Ti- ny tots with their|
+"Eb/Bb" (3G2 B2 c2"Am7" d3"D7" c |"Gm7" BG"C7"cB"Fm7" A3"Bb7" D |"Eb6" E4 z E DE | %20
+w: eyes all a- glow will|find it hard to sleep to-|night. They know that|
+"Bbm7" _d4-"Eb9" dcB=A |"Bbm7" B4"Eb9" z EDE |"Bbm7" _dcdc"Eb9" dcBA |"Abmaj7" B4 z EDE | %24
+w: San- * ta's on his|way; he's load- ed|lots of toys and good- ies on his|sleigh, and ev- 'ry|
+"Abm7" _cB c2-"Db9" cBA_G |"Gbmaj7" A4- A_GAG |"Cm7" FF- (3FFF"F7" (3F2 F2 F2 | %27
+w: moth er's child * is gon- na|spy * to see if|rein- deer * real- ly know how to|
+"Bb7sus4" F2-"Bb7" F4 z G |"Eb6" E2 e2"Bb7" dcBA |"Eb6" G2 G2"Bb9" G3 G |"Eb6" E2 c2"Eb9" BAGF | %31
+w: fly. * And|so I'm of- fer- ing this|sim- ple phrase to|kids from one to nine- ty|
+"Ab" E4-"Ab7" E2"G+7" z D |"Cm" E2"Cm/Bb" DE"Abm6" F2 EF |"Eb/Bb" G2 Bc"Am7" !fermata!d2"Ab9" ec | %34
+w: two * Al|though it's been said man- y|times, man- y ways, "Mer- ry|
+"Eb/Bb" B2"Cm7" E2-"Fm7" E2"Bb7b9" F2 |1"Eb6" E4"Fm7/Bb" z2"Bb13b9" z2 :|2"Eb6" E8 |] %37
+w: Christ- mas * to|you."|you."|
+

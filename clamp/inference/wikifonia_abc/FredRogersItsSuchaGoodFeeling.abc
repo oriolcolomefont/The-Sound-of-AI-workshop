@@ -1,0 +1,30 @@
+X:1
+T:It's Such a Good Feeling
+T:It's Such a Good Feeling
+T:Fred M. Rogers 1970
+C:Fred Rogers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Fox-trot, lively" D E G |:"G""D#dim" B4 |"Em" A G2 A |"G" B A B A- |"Bm7" A G"Em" A B | %5
+w: It's such a|good|feel- ing to|know you're a- live|_ It's such a|
+w: |good|feel- ng to|know you're in tune.|_ It's such a|
+"Am" c2 c2 |"D7" B A2 B |"Am7" c B c"D13" B- | B A"D7/C" B c |"Bm7" d2 d2 | d ^c"G" d"Cm7" =c- | %11
+w: hap- py|feel- ing: You're|grow- ing in- side.|_ And when you|wake up|read- y to say,|
+w: hap- py|feel- ing to|know you're in bloom.|_ And when you|wake up|read- y to say|
+ c4 |"Bm7" z B"E7b5" ^A B |"Am7" D2 G2 |"D7" B d2"D+7" f |"Bm7" d4- | d B"Bdim" c B |"Am9" d4 | %18
+w: _|"I think I'll|make a|snap- py new|day."|_ It's such a|good|
+w: _|"I think I'll|make a|snap- py new|day."|_ It's such a|good|
+"Bm7" B D2 B |"Cmaj7" d B d"Bm7" B- | B D2"E7" B |"Am7" d B d"D13" B- | B A2"D7b9" B |1"G" G4- | %24
+w: feel- ing, A|ver- y good feel-|* ing, The|feel- ing you know|_ You're a-|live.|
+w: feel- ing, A|ver- y good feel-|* ing, The|feel- ing you know|_ that we're||
+"D7" G D E G :|2"G""C""C/D" G4- |"G" G z z2 |] %27
+w: _ It's such a|||
+w: |friends.|_|
+

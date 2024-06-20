@@ -1,0 +1,56 @@
+X:1
+T:Top Of The World
+T:Top Of The World
+C:Richard Carpenter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bb" F, D/C/- C B, |"F" A, B,/G,/-"Eb" G, A,/F,/- |"Bb" F,4- | F, z D E |"Dm" F F/F/- F/ D3/2 | %5
+w: |||||
+w: 1.Such a feel- * in's|com- in' ov- * er me.|_|* There is|won- der in _ most|
+w: 2~Some- thing in _ the|wind has learned _ my nname.|_|* And it's|tell- in' me _ that|
+"Cm" C/ D E/-"F7" E z/ C/- |"Bb" C/ D3/2- D2- | D z"Cm7" E"Bb/D" F |"Eb" G2 G/ E C/- |"F7" C2 C G | %10
+w: |||||
+w: ev- 'ry- thing _ I|_ see. _|_ Not a|cloud in the sky|_ got the|
+w: things are not _ the|_ same. _|_ In the|leaves on the trees|_ and the|
+"Dm" F2 E/ F3/2 |"G7" D2 C D |"Cm7" E E E D/E/- |"Cm7b5" E D C B, |"Fsus4" F,4- | %15
+w: |||||
+w: sun in my|eyes and I|_ won't be sur- prised|_ if it's a|dream.|
+w: touch of the|breeze, there's a|pleas- in' sense of hap-|* pi- ness for|me.|
+"F" F,3"Eb/G""F/A" z |"Bb" F, D C/ B,3/2 |"F" A, B,/G,/-"Eb" G, A, |"Bb" F,4- | F,2 D E | %20
+w: |||||
+w: _|Ev- 'ry- thing I|want the world _ to|be|_ is now|
+w: _|There is on- ly|one wish on _ my|mind.|_ When this|
+"Dm" F/ F F/- F D |"Cm" C D/E/-"F7" E G- |"Bb" G F3- | F z"Cm7" E"Bb/D" F |"Eb" G2 G/ E3/2 | %25
+w: |||||
+w: com- ing true, _ es-|pe- cial- ly _ for|_ me.|_ And the|rea- son is|
+w: day is through _ I|hope that I _ will|_ find|_ that to-|mor- row will|
+"F7" C2 C G |"Dm" F3/2 F/ E/ F3/2 |"G7" D2 C D |"Cm7" E E E D |"Cm7b5" E/ D C/- C/ B,3/2- | %30
+w: |||||
+w: clear, it's be-|cause * you are|here. You're the|near- est thing to|hea- ven that _ I've|
+w: be just the|same for you and|me. Al I|need * will be|mine if you _ are|
+"F" B, F,3- | F, F,"Eb/G" B,"F/A" C ||S"Bb" z D D D/(E/- |"Eb/B" E"Bb" D) C/ B,3/2 | %34
+w: ||||
+w: _ seen.|_ I'm on the|top of the world|_ _ look- in|
+w: _ here.|_ _ _ _|||
+"Eb" z G G G/_A/- |"Ab/Eb" A"Eb" G F E |"Bb" D F F D/C/- |"Cm" C D/E/-"Cm/F" E G- |"Bb" G F3- | %39
+w: |||||
+w: down on cre- a-|* tion and the|on- ly ex- pla- na-|* tion I _ can|_ find|
+w: |||||
+ F z"Cm7" E"Bb/D" F |"Eb" G2 F/ G3/2 |"F" A2 G A |"Bb" B B B/ F G/- |"Eb" G z F E |"Bb" D F E D | %45
+w: ||||||
+w: _ is the|love that I've|found, ev- er|since you've been a- round.|_ Your love's|put me at the|
+w: ||||||
+"Cm" C2"F" B, A,/B,/- |1"Bb" B,4- || B, z z2 |"Bb" z2"Eb" z2 |"Bb" z2"Eb" z2 |"Bb" z2"Eb" z2 | %51
+w: ||||||
+w: top of the world.|_|||||
+w: ||||||
+"Bb" z"F" z"Eb/G" z"F/A" z :|2 B,4- || B, F, B, C!D.S.! ||3 B,4- || B, z z2 |] %56
+w: |||||
+w: ||* I'm on the|||
+w: |||||
+

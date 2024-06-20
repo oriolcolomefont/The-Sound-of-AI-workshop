@@ -1,0 +1,21 @@
+X:1
+T:Softly as in a Morning Sunrise
+T:Softly as in a Morning Sunrise
+T:Sigmund Romberg and Oscar Hammerstein II
+C:Sigmund Romberg and Oscar Hammerstein II
+Z:All Rights Reserved
+L:1/8
+Q:1/4=200
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Cm7" c4 G4 |"Ddim7" z FGF"G7" G2 F2 |"Cm7" c4 E4 |"Fm7" z DED E2 D2 |"Cm7" G4 C4 | %5
+"Ddim7" z GAG"G7b9" E2 D2 |"Cm7" C8 |1"Ddim7""G7" z8 :|2"Fm7" (3C2 D2 E2"Bb7" (3F2 G2 A2 || %9
+"Ebmaj7" B4 E4 | z BcB"Fm7" c2 B2 |"C7b9" B4 =E4- |"C7b9" (3E2 =E2 F2 (3G2 A2 B2 |"Fm7" c4 F4 | %14
+ z cdc d2 c2 | d8 |"G7b9" z8 |"Cm7" c4 G4 |"Ddim7" z FGF"G7" G2 F2 |"Cm7" c4 E4 | %20
+"Fm7" z DED E2 D2 |"Cm7" G4 C4 |"D7b5" z GAG"G7b9" E2 D2 |"Cm7" C8- | C8 |] %25
+

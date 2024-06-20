@@ -1,0 +1,28 @@
+X:1
+T:Les Bicyclettes De Belsize
+T:Les Reed and Barry Mason
+T:Les bicyclettes de Belsize
+C:Les Reed, Barry Mason
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Gm" d d3/2 d/ | d d3/2 d/ |"Cm" f2 e | G3 |"D7" e2 d | ^F2 A/e/ |"Gm" d3- | d3 | d d3/2 d/ | %9
+w: Turn- ing and|turn- ing the|world goes|on|We cant|change it my|friend,||Let us go|
+w: Spin- ing and|spin- ing the|dreams I|know|roll- ing|on through my|head||Let us en-|
+ d d3/2 d/ |"Cm" g2 f | e2 d | c2 B | A2 G |"D7" ^F3- | ^F =E ^F |"G" G3- | G3- | G3 || %19
+w: rid- ing all|through the|days To|geth- er|to the|end|* to the|end|||
+w: joy them before|they go|Come the|dawn the|all are|dead|* yes, they're|dead|||
+[K:G]"^chorus;" B c d |"C" e3 | c2 B |"D7" A3 | A B c |"G" d3- | d2 c |"Em" B3 | G A B |"C" c3 | %29
+w: les bi- cy-|clettes|de Bel-|size|car- ry us|side|* by|side|and hand in|hand|
+w: ||||||||||
+ A2 G |"D7" F3 | F G A |"G" B3 | g2 g | f d B | B c d |"C" e3 | c2 B |"D7" A3 | A B c |"G" d3- | %41
+w: we will|ride|o- ver Bel-|size|Turn you|mag- i- cal|ey- * es|round|and a-|round|look- ing at|all|
+w: ||||||||||||
+ d2 c |"Em" B3 | G A B |"C" c3 | A2 G |"D7" F3 | F G A |"C" G3- | G G G |"G" G3 | z3 |] %52
+w: * we|found|Car- ry us|thro-|ugh- the|skies|Les bi- cyc-|clettes|* de Bel-|size-||
+w: |||||||||||
+

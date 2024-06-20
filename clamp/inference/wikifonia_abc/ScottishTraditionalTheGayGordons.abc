@@ -1,0 +1,18 @@
+X:1
+T:The Gay Gordons
+T:The Gay Gordons
+T:Scottish Traditional
+C:Scottish Traditional
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z"^N.C." c |:"F" A2 AA GF | AB c d2 c | A2 AA GF |"C7" G2 z c2 B |"F" A2 A G2 F | AB c d2 c | %7
+ A2 A"C7"G AG |"F" F3 z2 c | f2 c d2 c | f2 c d2 c | A2 AA GF |"Eb" G3 z2 c |"F" f2 c d2 c | %14
+ f2 c d2 c | A2 A"C7"G AG |"F" F3 z2 c :|"F" F z2 f2 z!fine! ||[K:Bb]"Bb" d6 | %19
+"^interlude" F3 B cd |"Eb" c6 | G6 |"F7" A3 A B=B | c3 f3 | c3 ^c3 |"Bb" dF GA Bc |"Eb" c6 | %27
+"C7" G3 z2 B |"F7" A2 B =B2 c | g2 f e2 A | c6 |1"Bb" B z2"F7" f2 z :|2"Bb" B z2"C7" c3 |] %33
+

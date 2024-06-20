@@ -1,0 +1,23 @@
+X:1
+T:Shenandoah
+T:Shenandoah
+T:Riverboat Chantey
+T:Slowly and Freely
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ C |"F" F F F2- | F G A B |"Bb" d4 |"F" c2 f e |"Bb" d4- |"C7" d c d c |"F" A c3- | c3 c | %9
+w: Oh,|Shen- an- doah|* I long to|hear|you A- *|way|* you rol- ling|riv- er	|Oh *|
+w: |||||||||
+"Bb" d d d2- | d"F" A"F" c A |"Bb" G4 |"F" F3 G | A4- |"Dm" A F A d |"Am" c4- |"F" c z F3/2 G/ | %17
+w: Shen- an doah|I long to hear|you|A- way|way|* I'm bound a-|way|* cross the|
+w: ||||||||
+"Dm" A4- |"Gm7" A3 F |"C7""F" G2"F" F2- | F4 |] %21
+w: wide||||
+w: |* Mis|sour i||
+

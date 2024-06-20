@@ -1,0 +1,28 @@
+X:1
+T:You Can't Roller Skate In A Buffalo Herd
+T:You cant roller skate in a buffalo herd
+T:Roger Miller
+C:Roger Miller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." GG |:"G" B2 BB G2 GG | DD D2 B,3 D |"D7" D2 DD ^F2 ^F^F | AA A2 c2 z c | %5
+w: Well you|can't roll- er- skate in a|buf- fa lo herd you|cant rol- ler skate in a|buf- fal- lo herd you|
+w: |cant take a shower in a|par- a- keet cage you|cant take a shower in a|par- a- keet cage you|
+"G" B2 BB G2 GG | DD D2 B,2 z D |"D7" D2 DD ^F E2 E |1 DD _D2 C2 z A :|2"G" GG ^F2 =F4 || %10
+w: cant rol- ler skate in a|buf- fal- lo herd but|you can be hap- py if|youve a mind to. You|you've a mind to|
+w: cant take a shower in a|par- a- keet cage *||||
+"C" E^DEE G3 E |"G" G^F G2 G G3 |"A7" E^D E2 A^G A2 |"D7" DDDD DD z A |"G" B2 B2 GGGG | %15
+w: All you got- ta do is|put your mind to it|Knuck- le down buck- le down|do it do it do it you|cant go swim- ming in a|
+w: |||||
+ D2 D2 B,2 z D |"D7" D2 D2 ^F^F^F^F | A2 A2 c2 z c |"G" B2 B2 GGGG | D2 D2 B,3 D | %20
+w: bas- ball pool you|cant go swim- ming in a|base- ball pool you|cant go swim- ming in a|base- ball pool but|
+w: |||||
+"D7" D2 DD ^F E2 ^F |"G" GG G2 G2 z2 |] %22
+w: you can be hap- py if|you've a mind to.|
+w: ||
+

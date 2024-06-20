@@ -1,0 +1,29 @@
+X:1
+T:Born free
+T:Born Free
+T:John Barry
+T:Don Black
+C:John Barry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" c4 G4- |"F" G3 z GAGF |"C" E4 C4- |"F" C4 z G (3AGF |"Em" B4 G3 E |"Dm" F3 z FFED | %6
+w: Born free|* as free as the|wind blows|* as free as the|grass grows born|free to fol- low your|
+w: ||||||
+"C" C6- C2 |"G7" z8 |"C" c4 G4- |"F" G3 z GAGF |"C" E4 C4- |"F" C2 z2 GAGF |"Em" B4 G3 E | %13
+w: heart *||Live free|* and beau- ty sur-|rounds you|* the world still as-|tounds you each|
+w: |||||||
+"Dm" G3 z GGAG |"G" B8- |"G7" B6- B2 |"Dm" d4 A4- |"G7" A3 z ABAG |"Am" E4 c4- | c3 z cdAc | %20
+w: time you look at a|star||Stay free|* where no walls div-|ide you|* you're free as a|
+w: |||||||
+"Cm" d3 c d3 c |"Ab" d3 c d3 c |"G" d8- | d6-"Dm" d2 |"C" c4 G4- |"F" G3 z GAGF |"C" E4 C4- | %27
+w: roar- ing tide so|theres no need to|hide||Born free|* and life is worth|liv- ing|
+w: |||||||
+"F" C2 z2 GAGF |"Em" B4 G3 E |"Dm" c6 c2 |"C" c6-"G" c2 |"Dm" z8 :|"C" c8- |"Dm" c8 |] %34
+w: * but on- ly worth|liv- ing cos|youre born|free. *||free.||
+w: |* * C||||||
+

@@ -1,0 +1,47 @@
+X:1
+T:Devil May Care
+T:Devil May Care
+T:DEVIL MAY CARE
+T:MUSIC and LYRIC by T.P. KIRK and BOB DOROUGH
+T:© 1953 Sincere Music
+C:Bob Dorough, Terrell P. Kirk
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+"Gm""Em7b5""^Ballad/Easy Swing" D2"Em7b5" d D |"A7b9""D7b9" =E2"D7b9" (3^F G A | %2
+w: No cares for|me I'm hap- py|
+"Gm" D3/2"Em7b5" d/-"Em7b5" d D |"A7b9""D7b9" =E2"D7b9" (3^F G A |"Gm" (3B B B B2- | %5
+w: as I can be|I learn to love|and to live *|
+"Em7b5" B2 c/B/G/A/- |"Eb9#11" A4- |"D7b9" A2 z2 |"Gm" D3/2"Em7b5" d/-"Em7b5" d D | %9
+w: * Dev- il may care|||No cares * and|
+"A7b9""D7b9" =E2"D7b9" (3^F G A |"Gm""Em7b5" D2"Em7b5" d/ D =E/- |"A7b9" E ^F G B | %12
+w: woes What- ev- er|comes lat- er goes|* That's how I'll|
+"Am7b5" (3d d d d2- |"D7#5b9" d2 (3c B D |"Gm" G4- |"Db9" G2"Db9" z/ G F/ ||"Cm7" G G G2- | %17
+w: take and I'll give|* Dev- il may|care|* When the|day is through|
+"F9" G2 (3G A B |"Bb6" G G G2 |"Dbdim7" z/ G3/2 A B |"Cm7" G G G2 |"F9" z z/ A/- (3A B c | %22
+w: * I suf- fer|no re- grets|I know that|he who frets|los- es the the|
+"Bb""Bb+" d4-"Bb""Bb+" |"Bb6""Bbmaj7" d2"Bbmaj7" z/ d3/2 |"Bbm11" e/e/e/e/- e2- | %25
+w: night|* For|on- ly a fool *|
+"Eb9" e3/2 f/- f e/_d/ |"Abmaj7" (3c c c c2- | c2 (3G _A B |"Am7b5" (3c c c (3c c c | %29
+w: * thinks he can hold|back the dawn *|* He who is|wise nev- er tries to rev-|
+"D7b9" c e d c |"Gmaj7" =B4 |"Eb7""D7" z4"Eb7""D7" |"Gm" D z/"Em7b5" d/-"Em7b5" d D/=E/- | %33
+w: ise what's past and|gone||Live love * to- day|
+"A7b9""D7b9" E2"D7b9" (3^F G3/2 A/ |"Gm" D"Em7b5" d2 D"Gm""Em7b5" | %35
+w: * love come to-|morr- ow what|
+"A7b9""D7b9" =E2"D7b9" (3^F G A |"Gm" (3B B"Gm/F" B"Gm/F" B2- |"Em7b5" B G A B | %38
+w: may Don't ev- en|stop for a sigh|* it doesn'- t|
+"Eb13#11" (3c c c c2- | c A B c |"Am7b5" (3d d d d2- |"D7#5b9" d2 (3c B D |"Gm6" G4- | G2 z2 |] %44
+w: help if you cry|* That's how I'll|live and I'll die|* De- vil may|care||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x2"Bb+" x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2"D7" x2 | x4 | x4 | %34
+ x2"Em7b5" x2 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %44
+

@@ -1,0 +1,33 @@
+X:1
+T:Lollipops And Roses
+T:Lollipops And Roses
+T:Tony Velona
+C:Tony Velona
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm7" D F3/2 D/ |"C7" E2 z |"Am7" E G3/2 E/ |"Dm7" F2 z |"F#dim" ^F A3/2 F/ |"Gm7" G A B | %6
+w: Tell her you|care,|each time you|speak.|Make it her|birth- day each|
+w: Car- ry her|books,|that's how it|starts.|Four- teen or|for- ty, they're|
+"Am7" c e3/2 c/ |"D7" d2 z |"Gm7" D A2 |"Gdim" G B2 |"F" A/A/ c2 |"Bbm" B _d z |"F" c F3/2 F/ | %13
+w: day of the|week.|Bring her|nice things,|sug- ar and|spice things,|Ros- es and|
+w: kida in their|hearts.|Keep them|han- dy,|flow- ers and|can- dy.|Ros- es and|
+"Gm7" F/C/ C3/2 C/ |"F" C/F/ F3/2 F/!dacoda! |O"Dm7" C F z/ G/ ||"Em7" A3- |"A7" A E3/2 D/ | %18
+w: lol- li- pops, and|lol- li- pops and|ros- es. We|try|* act- ing|
+w: lol- li- pops, and|lol- li- pops and||||
+"D" E ^F =B, | ^C D ^F |"Ebm7" _A3- |"Ab7" A _E3/2 _D/ |"Db" F _A, B, | C _D F |"Fm" B3- | %25
+w: grown up, *||but|* as a|rule, * *|* * we're|all|
+w: |||||||
+"Bb" B F3/2 _E/ |"Eb" F G C | D _E F |"Dm7" G3 |"G7" D3 |"Gm7" G3 |"C7" C2 z!D.C.! || %32
+w: * lit- tle|child- ren, *||fresh|from|school,|so|
+w: |||||||
+O"Dm7" C"^Coda" F z |"Gm7" c/f/ f f | c f z |"F" a3- | a2 z |] %37
+w: ros- es|Lol- li- pops and|ro- *|ses-||
+w: |||||
+

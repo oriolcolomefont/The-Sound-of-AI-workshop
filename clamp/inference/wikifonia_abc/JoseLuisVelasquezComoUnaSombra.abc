@@ -1,0 +1,39 @@
+X:1
+T:Como Una Sombra
+T:Como Una Sombra
+T:José Luis Velásquez
+T:Transcripción: Alberto Betancourt
+C:Jose Luis Velasquez
+Z:All Rights Reserved
+L:1/8
+Q:1/4=100
+M:4/4
+K:Dmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Bolero" cd"D7" c2 B^F ||"_Ritmo""Gm" AGG^F G4 |"C7" z2 GA B2 Ac |"Fmaj7" GFFE F4 | %4
+w: ||||
+"Bbmaj7" z A2 A A2 GF |"Em7b5" FEED E4 |"A7" z2 EF- F^CCC |"Dm" D4"Bb7" (3!>!F2 !>!F2 !>!F2 | %8
+w: ||||
+"^A7+5" !>!z2 !>!A2 z A,AG ||S"Dm" G2 F2"Em7b5" z FFE |"Dm/F" E2 D2"D7/F#" z DDC |"Gm" C2 B,4 z2 | %12
+w: * Co- mo'u- na|som- bra ha de se-|guir- te mi pen- sa-|mien- to|
+ z4 z GGF |"Em7b5" F2 E2 z EED |"A7" D ^C2 z (3E2 F2 G2 |"Dm" B3 A- A4 |"Em7b5" z4"A7b9" z A,AG | %17
+w: Si'al guien te|nom- bra ha- brá de'o-|ir- me con cla- ro'a-|cen- to *|Co- mo'un re-|
+"D7" G2 ^F2 z FF_E | _E D2 z (3^F2 G2 A2 |"Gm" c3 B-"^Gm#7" B4 |"Gm7" z4"C7" z BAG | %21
+w: cuer- do que nos se'es-|ca- pa de tu me-|mo- ria *|To- da la'his-|
+"F" A F3"Bbmaj7" z ABA |"E7" ^G E3"A7" (3E2 D2 ^C2 |"Dm" D8 | !>!z2"^N.C." CE GB d2 | %25
+w: to- ria de di- cha'y|glo- ria de mi que-|rer.|Don- de quie- ra'ha- brás|
+"Gm7" c2 d4 z2 |"C7" z2 de f2 ed |"F" c4 z4 |"D7b9" z2 cd _e2 dc |"Gm" B4 z4 |"Bb9" z2 Bc d2 cB | %31
+w: de'o- ir|mis pa- la- bras de'a-|mor|y no'ha- brás de sen-|tir|u- na nue- va'i- lu-|
+"A7" A4 z4 |"D7" z c2 d c2 B^F |"Gm" AGG^F G4 |"C7" z2 GA B2 Ac |"Fmaj7" GFFE F4 | %36
+w: sión|Por- que'a- llí don- de|mir- res me ve- rás|Don- de'es- tés mi pre-|sen- cia sen- ti- rás|
+"Bbmaj7" z A2 A A2 GF ||O"Em7b5" FEED E4 |"A7" z2 EF- F^CCC |"Dm" D4 (3F2 F2 F2 | %40
+w: Y si'un dí- a un|be- so quie- res dar|a Mi _ me be- sa-|rás. _ _ _|
+"^A7+5" !>!z2 !>!A2 z A,AG"^D.S. al Coda" ||O"Em7b5" FEED E2 z E |"A7" A4 (3A2 A2 A2 |"Dm6" d8 | %44
+w: |be- so quie- res dar a|Mi me be- sa-||
+ !>!d2 z2 z4 |] %45
+w: |
+

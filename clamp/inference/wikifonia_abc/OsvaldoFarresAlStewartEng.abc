@@ -1,0 +1,43 @@
+X:1
+T:Come Closer To Me
+T:Come Closer To Me
+T:Acercate Mas
+T:Osvaldo Farres
+T:Al Stewart(Eng.)
+C:Osvaldo Farres
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fmaj7""^Slowly and tenderly" e4"F6" d3 c |"Dm7" AGEF A,C"A7" (3^CED |"G6" G4"G7" G3 A | %3
+w: |||
+"C9" c4"C7" G4 ||"Fmaj7""^Verse(poco rubato)" E4"F6" D4 |"F" z2 C2 E F2 E |"Abdim" E4 D4- | %7
+w: |Moon- light|was made for a|June night,|
+"Gm7" D6"C7" C2 |"F" (3c2 c2 c2"Abdim" (3=B2 B2 B2 |"Gm7" (3B2 B2 B2"C9" E3 C | %10
+w: * And|June nights were made, dear, for|love and ro- mance, For|
+"F" (3c2 c2 c2"A7" (3^c2 c2 c2 |"D9" (3d2 d2 d2 A A3- |"Dm7" A4 DEFD |"G9" A2 A2 E_EDC | %14
+w: heav- en- ly kiss- es, for|lips sweet and ten- der,|* On this night of|splen- dor, * * * *|
+ =B,4"G7" GA=BG |"Gm7" cG,B,D FAGF |"C7" E3"^Refrain" C D2 =B,C |:"Fmaj7" E4- E3 D | %18
+w: * You're so far a-|way; * * * * * * *|* Come Clos- er To|Me * so|
+"Abdim" F4- F3 E |"Gm" G4"C7" ^FGBA |"F" c2 AF E F2 E | D2 z C"C7" D2 =B,C |"Fmaj7" E4- E3 D | %23
+w: I * can|see heav- en in your|eyes, * * * * *|* Come clos- er to|me, * so|
+"Abdim" F4- F3 E |"Gm" G4"^C&" ^FGBA |"F" c2 AF E F2 E | D2 z2 EFGA |"Bb" c4 B4- | %28
+w: I * can|be close to Par- a-|dise; * * * * *|* Thrill me with your|kiss- es|
+ B4"Gm" DE"C7"FG |"F7sus4" B4"F" A4- | A4"Dm" AG"Dm"AG |"Dm7" d3 =B"G9" AGAG | %32
+w: * Let me learn what|bliss is,|* Kiss me once and|then We'll kiss and kiss a-|
+"Dm7" d3 =B"G7" AGAG |"Gm7" cGBd fagf |"C7" e2 z C D2 =B,C |"Fmaj7" E4- E3 D |"Abdim" F4- F3 E | %37
+w: gain, And life will be di-|vine; * * * * * * *|* Come clos- er, my|dear, * so|I * can|
+"Gm" G4"C7" ^FGBA |"F" c2 AF E F2 E | D2 z C"C7" D2 =B,C |"Fmaj7" E4- E3 D |"Abdim" F4- F3 E | %42
+w: hear mu- sic in my|heart; * * * * *|* I've wait- ed so|long * to|hear * the|
+"Gm" G4"C7" ^FGBA |"F" c2 AF E F2 E | D2 =Bc"F7" d3 c |"Bbmaj7/F" c4"Bb6" B4- |"Bbm6" B A2 B c3 B | %47
+w: song that your love will|start; * * * * *|* Dar- ling, I'll a-|dore you,|* Live my life just|
+"Fsus4" B4"F" A4- | A2 ^GA"D+7" d3 B |"G9" A3 G AGAG |"C7" AG^FG c3 A |1 %51
+w: for you|* All I ask is|this, please give me one more|kiss, and whis- per you'll be|
+"F" F2 Ac"Fdim" (3e2 f2 d2 ||"C7" c3 C D2 =B,C :|2"F" F3 c"Fdim" d2 =Bc ||"F6" f8 |] %55
+w: mine. * * * * *|* Come Clos- er To|mine. * * * *||
+

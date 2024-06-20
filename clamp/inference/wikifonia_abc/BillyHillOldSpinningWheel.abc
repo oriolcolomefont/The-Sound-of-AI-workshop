@@ -1,0 +1,22 @@
+X:1
+T:Old Spinning Wheel
+T:OLD SPINNING WHEEL
+T:Words and music by Billy Hill in 1933. 
+C:Billy Hill
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:none
+U:s=!stemless!
+V:1 treble stafflines=5 
+%%MIDI program 0
+V:1
+ E F || G2 e c | G2 E G | F D3- | D2 D E | F2 d B | G2 F G | sE4- | E2 E F | G2 e c | G2 E G | %11
+w: There's an|old spin- ning|wheel in the|par- lor,|_ spin- ning|dreams of the|long, long a-|go.|_ Spin- ning|dreams of an|old fash- ioned|
+ F D3- | D2 D E | F2 d B | G2 B d | sc4- | c c c c | c c B c | d c B A | A2 G2- | G2 E F | %21
+w: gar- den,|_ and a|maid with her|old fash- ioned|beau.|_ Some- times it|seems that I can|hear her in the|twi- light|_ at the|
+ G G G G | A G F E | sD4- | D2 E F | G2 e c | G2 E G | F D3- | D2 D E | F2 d B | G2 B d | sc4- | %32
+w: or- gan soft- ly|sing- ing "Old Black|Joe."|_ There's an|old spin- ning|wheel in the|par- lor,|_ spin- ning|dreams of the|long, long a-|go|
+ c2 z2 |] %33
+w: _|
+

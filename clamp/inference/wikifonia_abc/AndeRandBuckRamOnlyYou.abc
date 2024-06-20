@@ -1,0 +1,29 @@
+X:1
+T:Only You
+T:Only You
+T:The Platters
+T:Buck Ram and Ande Rand
+T:All Rights Reserved
+C:Ande Rand, Buck Ram
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" (3GGG (3GGG"Gbdim" (3^FFF (3FFF |"G7" G2 G2 ^F G2 z |"C" e8- | e2 G2 c3 f |"E7" d3 B ^G4- | %5
+w: |* * On- ly|You|* can make this|world seem right|
+ G4 e2 d2 |"Am" (ed c6-) | c2 E2 A3 c |"C7" _B3 G E4- | E4 F2 G2 |"F" A3 E A2 c2 |"G" B6 (eg) | %12
+w: * On- ly|You * *|* can make the|dark- ness bright.|* On- ly|You, and you a-|lone Can *|
+"C" e2 e2"E7" d3 e |"Am" c6 c2 |"D7" e3 d d3 c | c3 A c2 e2 |"G" (ed-)"Gbdim" d6 |: %17
+w: thrill me like you|do And|fill my heart with|love for On- ly|You. * *|
+"G7" z4 (g e2) d |"C""C" e8- | e2 G2 c3 f |"E7" d3 B ^G4- | G4 e2 d2 |"Am" (ed c6-) | c2 E2 A2 c2 | %24
+w: On- * ly|You|* can make this|change in me|* For it's|true, * *|* You are my|
+"C7" _B3 G E4- | E4 F2 G2 |"F" A3 E A3 c | e3 d edcA | G2 A2 B2 c2 | e4 ^G2 A2 | d3 e A3 ^A | %31
+w: dest- i- ny|* When you|hold my hand I|un- der- stand * * the|ma- gic that you|do. You're my|dream come true, My|
+ B3 ^A B2 e2 |1 (3(edc-) c6 :|2 g8 || %34
+w: one and On- ly|You. * * *|You.|
+

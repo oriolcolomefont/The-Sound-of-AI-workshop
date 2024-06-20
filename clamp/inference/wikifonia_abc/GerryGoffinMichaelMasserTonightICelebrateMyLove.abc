@@ -1,0 +1,32 @@
+X:1
+T:Tonight I Celebrate My Love
+T:Tonight I celebrate my love
+T:Micheal Masser and Gerry Goffin
+C:Gerry Goffin, Michael Masser
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^8 beat" z4 z2"^N.C." C2 |:S"F" A3 A GAcF |"Bb" F2 GA"C" G3 C |"F" A3 A GA c2 | %4
+w: To-|night I cel- e- brate my|love * for you it|seems the nat- u- ral|
+w: |night I cel- e- brate my|love * for you and|hope that deep in- side|
+"Bb" F2 GA"C" G2 C2 |"F" c4 cdef |"Gm7" f_BBA GABe |"Dm7" dc c2 z2 (3ABc |1 %8
+w: thing * to do To-|night no- ones gon- na|find * us we'll leave the world be-|hind * us when I make|
+w: you feel it too To-|night~our spir- its will be|climb- ing to a sky lit up with|dia- monds * when I make|
+"Gm7" cF F2"C7" z2 C2 :|2"Bb" cF F2 z2 C2 ||"F" F8 |"C" z4 z2 F2 |"Bb" A3 A AGFA | %13
+w: love to you To|love to you to|night.|To-|night I cel- e- brate my|
+w: |||||
+"Am7" GE E2 z2 FG |"Bb" AA A2 A2 (3AGF |"Am7" GC C2 z2 D2 |"Gm7" F3 F FF (3FED | %17
+w: love for you and the|mid- night sun is gon- na come|shin- ing through To-|night there'll be no dis- tance be-|
+w: ||||
+"Dm7" C2 A,2 z2 (3ABc |"Bb" AF F4 (3ABc |"Bbm" AF F4 C2!dacoda! |"F" A4 z4 | z4 z2 C2!D.S.! || %22
+w: tween us What I want|most to do is to get|close to you to-|night|To|
+w: |||||
+O"F" A3 A GAcF |"Bb" F2 GA"C" G3 C |"F" A6 z2 || %25
+w: night I cel- e- brate my|love * for you to-|night.-|
+w: |||
+

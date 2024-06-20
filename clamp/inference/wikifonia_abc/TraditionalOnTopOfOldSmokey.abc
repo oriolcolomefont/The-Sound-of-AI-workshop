@@ -1,0 +1,23 @@
+X:1
+T:On Top Of Old Smokey
+T:On Top Of Old Smokey
+T:Traditional
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 C |:"C7" C E G |"F" c3 | A3- | A2 A | F G A |"C" G3- | G3- | G2 C/C/ | C E G |"G7" G3 | D3- | %12
+w: On|top of Old|Smok-|ey|* All|cov- er'd with|snow.||* I *|lost my true|lov-|er,|
+ D2 E/E/ | F E D |"C" C3- | C3- | C2 C |"C7" C E G |"F" c3 | A3- | A2 A | F G A |"C" G3- | G3- | %24
+w: * For *|court- in' too|slow.-||* For|court- in's great|pleas-|ure|* And|flirt- in' is|grief||
+ G2 C | C E G/G/ |"G7" G3 | D3- | D2 E | F E D |1"C" C3- || C3- | C2 C :|2"C" C3- ||"F" C3- | %35
+w: * A|false heart- ed- *|lov-|er|* is|worse than a|thief||* On|thief.-||
+"Fm6" C3- |"C" C2 z |] %37
+w: ||
+

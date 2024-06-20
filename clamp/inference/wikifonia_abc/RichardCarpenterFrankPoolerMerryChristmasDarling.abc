@@ -1,0 +1,34 @@
+X:1
+T:Merry Christmas Darling
+T:Merry Christmas Darling
+C:Richard Carpenter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Cm7" z2 G^F G3 B |"Dm7" A2 F2"Gm7" D4 |"Cm7" z B,B,G"F7" F2 G2 |"Bbmaj7" D8 | %4
+w: Greet- ing cards have|all been sent,|the Christ- mas rush is|through,|
+"Gm" z B,B,B,"Gm" B,3 C |"Gm7" DC"C9" B,6 |"Cm7" z B,GE C2 B,2 |"F" A,8 ||"Bbmaj7" z2 FD C2 B,2 | %9
+w: but I still have one|wish to make,|a spec- ial one for|you:|Mer- ry Christ- mas,|
+"Cm7/Bb" C2 C6 |"Bbmaj7" z2 DE F3 B, |"Fm7" C6"Bb7" z B, |"Ebmaj7" B3 B"F/Eb" A3 F | %13
+w: dar- ling,|we're a part that's|true; but|I can dream and|
+"Dm7" DC B,4"Gm7" B,2 |"Cm7" E3 E"Dm7" D2 F2 |"Eb6""Eb/F""F7" C8 |"Bbmaj7" z2 FD C3 B, | %17
+w: in my dreams, I'm|Christ- mas- ing with|you.|Hol- i- days are|
+"Cm7/Bb" C2 C6 |"Bbmaj7" z DFD C2 B,2 |"Fm7" C6"Bb7" z B, |"Ebmaj7" B3 B"F/Eb" A3 F | %21
+w: joy- ful|there's al- ways some- thing|new. But|ev- 'ry day's a|
+"Dm7" DC"Gm/F" B,6 |"C/E" z2 GC C3 C |"Ebm6" C6"Ab7" (_DE) |S"Dbmaj7" F2 F_A"Eb/Db" G3 E | %25
+w: hol- i- day|when I'm near to|you. The _|lights on my tree I|
+"Cm7" E2 EG"Fm7" F4 |"Bbm7" z _DDF"Eb7" E3 F |"Abmaj7" C6 z _A |"Fm" _A2 AB"Fm" A4 | %29
+w: wish you could see,|I wish it ev- 'ry|day. The|logs on the fire|
+"Fm7" cB_AE"Fm6" D4 |"Bb" z DDD"Cm7" C2 (DE) |"Dm7" F6"Cm7" F"F7"G |"Bbmaj7" A3 F (DC) B,2 | %33
+w: fill me with de- sire|to see you and to _|say that I|wish you Mer- * ry|
+"Cm7/Bb" C2 C6 |"Bbmaj7" z2 DE F2 B,2 |"Fm7" G6"Bb7" B2 |"Ebmaj7" B2 B2"F/Eb" A2 cA | %37
+w: Christ- mas,|Hap- py New Year|too. I've|just one wish on this|
+"D7" FF"Gm7" F6!dacoda! |"Cm7" z EEE"F7" D3 C |"Bb" B,4"Ab7" z2 (_DE)!D.S.! || %40
+w: Christ- mas Eve:|I wish I were with|you. The *|
+O"Cm7" z EEE"F7" D3"F7/Eb" E |"Dm7b5""G7" F8 |"Cm7" z B,GE"F7" D2 C2 |"Bb" B,8- | B,8 |] %45
+w: I wish I were with|you,|I wish I were with|you.||
+

@@ -1,0 +1,36 @@
+X:1
+T:Until It's Time For You To Go
+T:Until It's Time For You To Go
+T:Buffy Sainte-Marie
+C:Buffy Sainte Marie
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z E EF |"C" G3 E EF |"Em" G2 G2 EF |"Gm" G6- |"A7" G2 z ^C DE |"Dm" F3 D DE | F2 FD DE | %7
+w: You're not a|dream, you're not an|an- gel you're a|man;|* I'm not a|queen, * I'm a|wo- man * take my|
+w: This love of|mine had no be-|gin- ning, has no|end|* I was an|oak now I'm a|wil- low now I can|
+"Dm7" F6- |"G7" F2 z B, CD |"C" E4 CD |"Em" E3 C CD |"Gm" E6- |"A7" E2 z ^C D=C |"Dm7" C3 C DC | %14
+w: hand.|* We'll make a|space in the|lives * that we|planned,|* And here we'll|stay un- til it's|
+w: bend|* And tho' I'll|never in my|life see you a-|gain|* * Still I'll|Stay un- til it's|
+"G7" B,3 B, DD |"C" C6-!fine! | C3 z EF |"C" G2 G2 EF |"Em" G3 E EF |"Gm" G6- |"A7" G2 z ^C DE | %21
+w: time for you to|go.|* Yes we're|diff- rent, worlds a-|part, we're not the|same|* We laughed and|
+w: time for you to|go.-||||||
+"Dm" F4 DE | F3 D DE |"Dm7" F6- |"G7" F2 z B, CD |"C" E3 C CD |"Em" E3 C CD |"Gm" E6- | %28
+w: played at the|start like in a|game.|* You could have|stayed out- side my|heart but in you|came.|
+w: |||||||
+"A7" E2 z ^C D=C |"Dm7" C3 C DC |"G7" B,3 B, DD |"C" C6- | C6 |"Bb7" z6 | _A2 F4 |"C" E6- | E6 | %37
+w: * And here you'll|stay un- til it's|time for you to|go.|||Don't ask|why.||
+w: |||||||||
+"Bb7" z6 | _A2 F4 |"C" E6- | E6 |"E7" z6 | E2 B2 z B |"Am" B2 A4- | A6 |"D7" z6 | D2 C4 | %47
+w: |Don't ask|how.|||Don't ask for-|ev- er|||love me|
+w: ||||||||||
+"G7" B,6- | B,2 z4!D.C.! |] %49
+w: now.-||
+w: ||
+

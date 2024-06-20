@@ -1,0 +1,22 @@
+X:1
+T:Hello My Baby
+T:Hello my Baby
+T:Ida Emerson & Joseph E. Howard
+C:Ida Emerson, Joseph. E. Howard
+Z:Public Domain
+L:1/4
+Q:1/4=150
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C6""^150" g/ a g/ a g | z/ e/f/e/ f e |"D7" d/ e d/ e d | A2- A/ z/ z |"G7" e/ d ^c/ e d | %5
+w: Hel- lo, my ba- by,|Hel- lo, my dar- ling,|Hel- lo, my rag- time|gal. _|Send me a kiss by|
+ G2- G/ z/ z |"C6" c/ e"B7" g/"B7" b a |"C""^C#dim" g2- g/"G7/D" z/"G7/D" z |"C6" g/ a g/ a g | %9
+w: wire. _|Ba- by my heart's on|fire! _|If you re- fuse me,|
+ z/ e/f/e/ f e |"D7" d/ e d/ e d | A A B c |"G7" e/e/ d z z/ ^c/ | e d e d | %14
+w: hon- ey you'll loose me,|then you'll be left a-|lone. So, ba- by,|te- le- phone and|tell me I'm your|
+"C" c z/"C6" g/"C6" a3/2 g/ | a3/2 g/ a g | %16
+w: own. * * *||
+

@@ -1,0 +1,32 @@
+X:1
+T:Slow Hot Wind
+T:Slow Hot Wind
+T:(Lujon)
+T:Henry Mancini
+T:Norman Gimbel
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am" E2 B2- | B3 A | (3^D E =d B2- | B2 A2 |"Dm7" E4- | E2 C2 |"Am" B,4- |1 B,4 :|2 %8
+w: Her gaze|* swept|o- ver me like|* a|slow|* hot|wind||
+w: Some days|* it's|too warm to fight|* a|||||
+ B,2 B,/C/E/G/ ||"Fmaj7" (3e d c B2- | B c/d/"Emaj7" ^d ^G |"Ebmaj7" ^G2 =d2- | d G _B c | %13
+w: |There in the shade|* like a cool drink|wait- ting|* she sat with|
+w: |||||
+"Ebm7" _d"Ebm7/Ab" f- (3f _e _d |"Dmaj7" c3 F |"Cmaj7" E2 B2- |"^Bmi7" B2-"^E7-9" B2 |"Am" E2 B2- | %18
+w: slow fire * in her|eyes just|wait- in||Some days|
+w: |||||
+ B3 A | (3^D E =d B2- | B2 A2 |"Dm7" E4- | E2 C2 |"Am" B,4- | B,2 z B |"^Dmi9" e4- | e2 c2 | %27
+w: * it's|too hot to fight|* a|slow|* hot|wind|* a|slow|* hot|
+w: |||||||||
+"Am" B4- | B4 |] %29
+w: wind.||
+w: ||
+

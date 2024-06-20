@@ -1,0 +1,53 @@
+X:1
+T:A Big Hunk O'Love
+T:A Big Hunk O'Love
+C:Aaron Schroeder and Sid Wyche
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Guitar (jazz)" snm="Gtr"
+%%MIDI channel 4
+%%MIDI program 26
+V:1
+ z4 z g2 g- |"C " gg z2 z4 | z g g g2 g f_e | c2 z2 z4 | aa gg _ee ee |"F " d3 c z4 | %6
+w: Hey, ba-|* by,|I ain't ask- in' much o'|you.|No, no, no, no, no, no, no, no,|ba- by,|
+ z g g g2 g f_e |"C " c2 z2 z4 | z4 z2 Ac |"G7" dd BB GG ^FF |"F " F2 z2 z c c2 |"C " c2 z2 z4 | %12
+w: I ain't ask- in' much o'|you.|Just a|big~ a, big~ a, big~ a hunk o'|love a\-- will|do.|
+ z4 z _e ec | _ee ec e/e/C _EF | ^FG =F_E Cc cc | gc d_e cC _EF | ^FG =F_E C2 z c | _ec ec ec ec | %18
+w: Don't be a|stin- gy lit- tle ma- ma * * *|* * * * * you 'bout to|starve me half to death. * * *|* * * * * Now|you could spare a kiss or two and|
+"C7" aa gg _ee ee |"F7" _e4 c2 z2 | z g g g2 g _ed |"C " c2 z2 z4 | z4 z2 Ac |"G7" dd BB GG ^FF | %24
+w: still have plen- ty left. Oh, no, no,|ba- by,|I ain't ask- in' much o'|you.|Just a|big~ a, big~ a, big~ a hunk o'|
+"F " F2 z2 z c c2 |"C " c2 z4 g2 | c2 cc c>B _B/4A/4_A/4D/4 z | cG z c- c/>B/_B/4A/4^G/ z2 | %28
+w: love a\-- will|do. That's|right. * * * * * * * *||
+ c2 z c- c/B/4_B/4A/<^D/ z2 | c(3:2:2B/_B z c- c/=B/4_B/4A/<^G/ z2 | c_B z c- c/=B/_B/4A/4^G/ z2 | %31
+w: |||
+"F " c-c/4B/4_B/4A/4 z c2 B z2 | c-(3c/B/G/ z c2 B/ z/ z2 | %33
+w: ||
+"C " c-c/4B/4_B/4E/4 z c- (3c/=B/_B/(3A/_A/G/ z2 | c-c/4B/4_B/ z3/2 c/- c/=B/4_B/4A/<^G/ z2 | %35
+w: ||
+"G7" d-d/4_d/4c/4<B/4 z3/2 =d/- d_d/4c/4B/4^A/4 z2 |"F " c-(3c/B/_B/ z c- c/>=B/_B/4A/4F/4E/4 z2 | %37
+w: ||
+"C " c(3B/_B/A/ z c- c/>=B/_B/4A/4^G/ z2 | c(3B/_B/A/ z c z _e ec | _ee ec e/e/C _EF | %40
+w: |* * * * * You're just a|nat- ural bor- n bee- hive * * *|
+ ^FG =F_E C2 cc | gc d_e cC _EF | ^FG =F_E C2 z c | _ec ec ec ec |"C7" aa gg _ee ee | %45
+w: * * * * * filled with|hon- ey to the top. * * *|* * * * * But|I ain't greed- y, ba- by: all I|want is all you got. Oh, no, no,|
+"F " c4 c2 z2 | z g g g2 g _ed |"C " c2 z2 z4 | z4 z2 Ac |"G7" dd BB GG ^FF |"F " F2 z2 z c c2 | %51
+w: ba- by.|I ain't ask- in' much o'|you.|Just a|big~ a, big~ a, big~ a hunk o'|love a\-- will|
+"C " c2 z4 g2 | c2 z2 z4 | c2 (3:2:2G2 c- cG c2 | G c2 G cc cc | _ec e2 c2 d z | %56
+w: do. That's|right.||||
+"C7" z _e ee ee ee |"F7" _ee ed c2 d z | _ee ed c2 d z |"C " _ec ec ec ec | _ee cd c2 d z | %61
+w: |||||
+"G7" dd dd dG dc |"F7" _e2 c A2 ^D z2 |"C " c2 c c2 c cc | Bc cc z _e ec | _e2 e2 e2 ce- | %66
+w: |||* * * * I got a|wish- bone in my pock-|
+ e_e z2 z c cc | gc (3:2:2_e e2 e2 ce | z4 z c cc | _e2 c e2 c cc | _e2 c e2 c cc | aa gg _e2 e2 | %72
+w: * et. I got a|rab- bit's foot a\- round my wrist.|And I'd have|ev- 'ry- thing my luck- y|charms could bring a\-- if you|gim- me just~ a one sweet|
+"C7" _ee ee ee ee |"F " c4 c2 z2 | z g g g2 g f_e |"C " c2 z2 z4 | z4 z2 Ac |"G7" dd BB GG ^FF | %78
+w: kiss. Oh, no, no, no, no, no, no,|ba- by.|I ain't ask- in' much o'|you.|Just a|big~ a hunk o', hunk o', hunk o'|
+"F " F2 z2 z c c2 |"C " c2 z2 z4 | z4 z2 Ac |"G7" dd BB GG ^FF |"F " F2 z2 z c c2 |"C " c2 z2 z4 | %84
+w: love a\-- will|do.|Just a|big~ a, big~ a, big~ a hunk o'|love a\-- will|do.|
+ z4 z2 Ac |"G7" dd BB GG ^FF |"F " F2 z2 z c c2 |"C " c2 d<_e c2 A z | z2 _e2 c2 A z |"G7" z8 | %90
+w: Just a|big~ a, big~ a, big~ a hunk o'|love a\-- will|do.- * * * *|||
+"F7" z2 _e2 c2 A2 |"C " z2 _e2 c2 A z | _ed _dc- c2 c2- | c8 |] %94
+w: ||||
+

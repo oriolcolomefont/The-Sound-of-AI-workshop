@@ -1,0 +1,42 @@
+X:1
+T:Hot Diggity
+T:Hot Diggity
+C:Dick Manning
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" B B/B/ B | G G/G/ G | F F G | A G F |"F7" z F"Cm7" G |"F7" A"Cm7" G"F7" F |"Bb" z B"F7" c | %7
+w: Hot dig- gi- ty|dog zig- gi- ty|boom! What you|do to me!|It's so|new to me|what you|
+w: |||||||
+w: |||||||
+"Bb" d"F7" c"Bb" B | B B/B/ B | G G/G/ G | F F G | A G F!dacoda! |"F7" z F"Cm7" G | %13
+w: do to me,|hot dig- gi- ty,|dog aig- gi- ty|boom! What you|do to me!|When you're|
+w: ||||||
+w: ||||||
+"F7" A"Cm7" B"F7" c |"Bb" B z"F7" z |"Bb" z d c |"Bb" B F D | B, D F |"F7" A"Cm7" G/A/"F7" F | %19
+w: hold- ing me|tight!|Nev- er|dreamed an- y-|bod- y could|kiss that- a- way,|
+w: ||Nev- er|knew that my|heart could go|"Zing!" that- a- way,|
+w: ||There's a|cute lit- tle|cot- tage for|two, that- a- way,|
+"Cm7" z A B |"F7" A"Cm7" G/A/"F7" F |"Cm7" z G"F7" A |"Bb" B B/c/ d- | d"F7" d c |"Bb" B F D | %25
+w: Bring me|bliss that- a- way,|With a|kiss that- a- way.|_ What a|won- der- ful|
+w: Ting- a-|ling that- a- way,|Make me|sing that- a- way.|_ Said "good-|bye" to my|
+w: Skies are|blue that- a- way,|Dreams come|true that- a- way.|_ If you|say I can|
+ B, D F |"F7" A"Cm7" G/A/"F7" F |"Cm7" z A B |"F7" A G C | F G A | B z z | d3 :|O"F7" z F"Cm7" G | %33
+w: feel- ing to|feel that- a- way!|Tell me|where have you|been all amy|life?|Oh!|How my|
+w: trou- bles, they|went that- a- way!|Ev- er|since you came|in- to my|life!|Oh!||
+w: share it with|you, that- a- way!|I'll be|hap- py the|rest of my|life!|Oh!||
+"Cm6" A"Cm7" B"Cm6" c |"D+""D7" d3- |"G7b9""G7" d3 |"C7" z c B |"F7" A"Cm7" B"F7" c | %38
+w: fut- ure will|shine|_|from the|mo- ment you're|
+w: |||||
+w: |||||
+"Bb" B z"F7" z |"Bb" z z z |] %40
+w: mine!||
+w: ||
+w: ||
+

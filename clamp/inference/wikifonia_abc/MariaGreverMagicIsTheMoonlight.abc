@@ -1,0 +1,26 @@
+X:1
+T:Magic Is The Moonlight
+T:Magic Is The Moonlight
+C:Maria Grever
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 CDFG |:"F" A4"F6" A4- |"F" A4"F6" cAGF |"F" A4"F6" A4- |"F" A4"F6" cAGF |"C7" G4"C9" G4- | %6
+w: Mag- ic is the|moon- light,|_ On this lov- er's|June night|_ As I see the|moon- light|
+"C7" G4"C9" GFEG |"F""F6" F8- |"F" F4"F6" CDFG |"F" A4"F6" A4- |"F" A4"F6" cAGF |"F""F6" A8- | %12
+w: _ Shin- ing in your|eyes.|_ Can't re- sist the|pow- er|_ In this moon- lit|hour|
+"F" A4"F6" cAGF |"C7" G4"C9" G4- |"C7" G4"C9" GFEG |"F" F8- |"F9" F4 FGBc |"Bb" d4 d4- | %18
+w: _ Love be- gan to|flow- er|_ This is Par- a-|dise.|_ Liv- ing in the|splen- dor|
+ d4"Gm" edf"C+"e |"Fmaj7" e4"F" c4- | c4 dc"Bdim"ed |"C9" d4"C7" B4- | B4"G7" AGFA | %23
+w: _ Of your kiss so|ten- der,|_ make my heart sur-|ren- der|_ To your love di-|
+"C7""Gm""Gm7" G8- |"C7" G4"^N.C." CDFG |"F" A4"F6" A4- |"F" A4"F6" cAGF |"F" A4"F6" A4- | %28
+w: vine;|_ Mag- ic is the|moon- light,|_ More than an- y|June night,|
+"F" A4"F6" cAGF |"C7" G4"C9" G4- |"C7" G4"C7" GF"C7"EG |1"F""Bdim" F8- |"C9" F2 z2"^N.C." CDFG :|2 %33
+w: _ Mag- ic is the|moon- light,|_ For it made you|mine.|_ Ma- gic is the|
+"F""Eb9" F8- |"F" F6 z2 |] %35
+w: mine.|_|
+

@@ -1,0 +1,35 @@
+X:1
+T:10,000 Reasons (Bless the Lord)
+T:10,000 Reasons
+T:Matt Redman
+C:Jonas Myrin, Matt Redman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ Bd |"C" e2 ed"G" B4 |"D/F#" AB AG"Em" E4 |"C" EG d"G"B- B2 GA- |"Dsus4""D" A6 Bd | %5
+w: Bless the|Lord, O my soul,|O * * my soul.|Wor- ship His ho- * ly name.|* Sing like|
+w: |||||
+w: |||||
+"C" e2 ed"Em" B4 |"C" e2"D" f2"Em" B2 z3/2 G/ |"C" GA B"D"A- A2 GG- |"C/G""G" G8!fine! |] %9
+w: nev- er be- fore,|O my soul, I'll|wor- ship Your ho- * ly name.||
+w: ||||
+w: ||||
+"C/G" z4"G" z2 z D |"C" G2 G2"G" G2 ED |"D" F2"C" G2"Em" G2 D>D |"C" G-G G-G"G" G2 G-G | %13
+w: The|sun comes up it's a|new day dawn- ing *|* It's time to sing Your *|
+w: Your|rich in love and You're|slow to an- ger, Your|name * is * great and Your|
+w: And|on that day when my|strength is fail- ing the|end * draws * near and my|
+"D" A2 B"Em" B3- BG |"C" c-c c2"G" BA GA |[M:2/4]"D/F#" AG AB |[M:4/4]"Em" AG E6 | %17
+w: song a- gain * What-|ev- er may pass, * and what-|ev- er lies be-|fore * me,|
+w: heart is kind; * For|all * Your good- ness I will|keep * on *|sing- * ing,|
+w: time has come; * *|Still * my soul * sings Your|praise * un- *|end- * ing,|
+"C2" z GGG"G" GG GA |[M:2/4]"G/D" B2"D" A2 |[M:4/4]"G" G8!D.C.! || %20
+w: Let me be sing- ing when the|eve- ning|comes.|
+w: ten thou- sand rea- sons for my|heart to|find.|
+w: ten thou- sand years and then for-|ev- er-|more.|
+

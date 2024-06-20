@@ -1,0 +1,15 @@
+X:1
+T:Zúg az erdő, zúg a mező
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E3 F E2 D2 | E3 F E2 D2 | F G3 A4 | A2 E2 A2 z2 | G F3 E D3 |"^?" E2 F2 E2 D2 | C4 D4 | E D3 A,4 | %8
+w: Zúg az er- dő,|zúg a me- ző,|va- jon ki|zú- gat- ja?|Ta- lán bi- zony|An- gyal Ban- di|sej- haj,|a lo- vát|
+ A, B,3 A,2 z2 |] %9
+w: ug- rat- ja.|
+

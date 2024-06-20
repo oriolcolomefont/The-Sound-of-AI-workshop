@@ -1,0 +1,25 @@
+X:1
+T:Kicsiny falum
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" GG^FG"Fm" ccBA |"Cm" G4 z4 |"Fm" FEDC =B,CFE |"G" D4 z4 |"Fm" FFFF FEDF |"Cm" E4 z4 | %6
+w: Ki- csiny fa- lum, ott szület- tem én,|_|Nincs ott gyer- tya, nincs ott lám- pa-|fény,|Há- zunk e- lõtt vén ep- er- fa|áll,|
+w: ||||||
+"Fm" Fccc ccdc |"G" =B4 z4 |"Cm" GGGG"Fm" ccBA |"Cm" G4 z4 |"Fm" FEDC =B,CFE |"G" D4 z4 | %12
+w: En- gem a- nyám min- dig ha- za|vár.|Meg- í- rom madj jó any- ám ne-|ked,|Ne várj ha- za, töb- bé nem me-|gyek,|
+w: ||Hogy mi lesz a vé- ge, nem tu-|dom,|Meg- ha- lok egy zül- lött haj- na-|lon,|
+"Cm" GGGG"Fm" ccBA |"Cm" GGCE"Fm" G F3 |"Cm" EDCE"G" DC=B,D |"Cm" C4 z4 |"Cm" cccc"Fm" dcBA | %17
+w: A- mi- kor a kis fa- lum- ban|nyu- go- vó- ra tér- nek,|a- nyám mondj el ér- tem egy im-|át.|Ren- des em- ber én már nem le-|
+w: |||||
+"G" G4 z4 |"Cm" GGAB"Fm" cEFE |"G" D4 z4 |"Fm" FFFF FEDF |"Cm" E4 z4 |"Fm" Gccc defe |"G" d4 z4 |] %24
+w: szek,|Min- den es- te zül- le- * me-|gyek|Vár- nak rám a zül- lött cim- bo-|rák,|Fes- tett nõk, a pezs- gõs vacs- o-|rák,|
+w: |||||||
+

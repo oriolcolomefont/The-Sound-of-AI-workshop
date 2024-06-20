@@ -1,0 +1,59 @@
+X:1
+T:Love Me
+T:Love Me
+T:Lyric and Music by Les Kettley
+T:© Les Kettley 
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 53
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Intro" C"C" E3 | G"F" A3 | c"Dm" e d c | A"G7" G3 |"^Verses" A"F" F3 | A"G7" B3/2 c/ d | %6
+w: ||||Love me,|and I will want|
+w: ||||||
+w: ||||Love me,|and dry the tears|
+w: ||||||
+w: ||||At last|Im hold- ing you|
+ B"Em" G3 | E"Am" C3 | A"Dm" F3 | A"G7" B3/2 c/ d | ^d"C9" e3- |"C7" e4 | g"F" f3 | %13
+w: no oth-|er love.|love me,|and I will stay|by you,|_|love me,|
+w: |||||||
+w: I've cried|for you,|love me,|and mend my break-|ing heart,|_|love me,|
+w: |||||||
+w: so close|to me,|we kiss|each oth- er ten-|der- ly,|_|that kiss|
+ e"E7" f3/2 e/ d | c"Am" e3 | c"D7" A3 | c"Dm" A3 |"^*" c"G9" e3/2 d/"G7" c | d"C" c3 | %19
+w: and- Ill not look|else- where|for love,|love me,|as much as I|love you.|
+w: ||||||
+w: and we'll be- gin|a life|for two,|love me,|and happ- i- ness|will start.|
+w: ||||||
+w: was ev- ery- thing|a kiss|should be,|and now|you real- ly do|love me.|
+[K:F] z E G c |"Dm" e3/2 d/ c d |"C" c !fermata!G E C |"F" E3/2 D/"Fm" C D |"C7" C4 | %24
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"Dm""^Last verse from" e2 d2 |"G9""^*" f2"G7" e2 |1"C" g4 ||"F""^Chorus" G A2 c |"Bb" d2 f"C7" g- | %29
+w: real- ly|do love|me.|Love me, love|me, as I|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+ g e"F" c2 | c"Bb" d2 f |"A7" g2 b"D7" a- | a3 c' |"Bb" b2 a"Bbm" g- | g f"F" a2 | f"Dm" d2 f | %36
+w: _ love you,|you were made|just for me,|_ love|me- no- bod-|* y else|will do, I|
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+"Bb" d2 B"C9" G- | G"C7" g"F" f2- | f3 a |"Dm" b3/2 a/ f/e/ d | c A/_A/-"G7" G2- | G3 G- | G3 z |] %43
+w: need you so,|_ love me.|_ _|||||
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+

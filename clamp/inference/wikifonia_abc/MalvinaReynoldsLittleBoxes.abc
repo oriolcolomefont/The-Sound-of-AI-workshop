@@ -1,0 +1,33 @@
+X:1
+T:Little Boxes
+T:Little Boxes
+T:M.Reynolds
+C:Malvina Reynolds
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 GA |:"C" E2 D2 GA | E2 C2 GG | c2 c2 cd | ed cc cA | G2 G2 GA |"G7" F2 F2 FG |"C" E2 E2 EF | %8
+w: Lit- tle-|box- es on the|hill- side lit- tle|box- es made of|tic- ky tac- ky lit- tle|box- es lit- tle|box- es lit- tle|box- es all the|
+w: (1) (2)|peo- ple in the|hou- ses all go|to the u- ni-|ver- sit- y * and they|all get put in|box- es lit- tle|box- es all the|
+w: ||||||||
+"G7" D4 GA |"C" E2 C2 GA | E2 C2 GG | c2 c2 cd | ed c2 cA | G2 G2 GA |"G7" FF FF FG | %15
+w: same theres a|green one and a|pink one and a|blue one and a|yel- low one and they're|all made out of|tic- ky tac- ky and they|
+w: same and there|doc- tors ad thers|law- yers and bus'-|ness ex- * *|ec- u- tives and theyre|all made out of|tick- ky tack- ky and they|
+w: |||||||
+"C" E2 E2"^G7.." DE |1"C" C6 || z6 | z6 | z2 G3 A :|2"C" C6 || z2 G3 A |:"C" E2 C2 GA | E2 C2 G2 | %24
+w: all look just the|same,|||and the||and they|all play on the|golf course and|
+w: all look just the|||||same.|(3) *|boys go in- to|bus'- ness and|
+w: |||||||* (4) * *||
+ c2 c2 d2 | ed c2 cA | G3 G AA |"G7" F2 F2 FG |"C" EE E2 F2 |"G7" D4 GA |"C" E2 C2 GA | EE C2 G2 | %32
+w: drink their mar|tin- i- dry and they|all have pret- ty|child- ren and their|child- ren go to|school and the|child- ren go to|sum- mer camp and|
+w: marry and raise,a|fam- i- ly and they|all get put in|box- es lit- tle|box- es all the|same theres a|green one and a|pink one and a|
+w: ||||||||
+ c2 cB cd | ed c2 cA | G2 G2 GA |"G7" FF FF FG |"C" E2 E2"G7" DE |1"C" C6 || z2 z2 GA :|2"C" C6 |] %40
+w: then to the un- i-|ver si- ty and they|all get put in|box * es * and they|all come out the|same|and the|same|
+w: blue one * and a|yel- low one and theyre|all made out of|tic- ky tac- ky and they|all look just the|||same.|
+w: ||||||||
+

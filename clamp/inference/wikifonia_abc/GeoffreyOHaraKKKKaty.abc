@@ -1,0 +1,24 @@
+X:1
+T:K-K-K-Katy
+T:K-K-K-Katy
+C:Geoffrey O'Hara
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb" G2 G4 F>E |"Bb7" A>GA>G F4 |"Eb" G2 G4 F>E |"Bb7" A>GA>G F4 |"Ab" c>cc>c"Eb" B2 B>B | %5
+w: Jim- my was a|sol- dier brave and bold.|Kat- y was a|maid with hair of gold.|Like an act of fate, Kate was|
+"Bb7" A>GA>B"Eb" G4 |"F7" F>G=A>G F2 d2 |"Bb7" c2 B2 B3 z |"Eb" G2 G4 F>E |"Bb7" A>GA>G F4 | %10
+w: stand- ing at the gate,|Watch- ing all the boys on|dress par- ade.|Jim- my with the|girls was just a gawk.|
+"Eb" G2 G4 F>E |"Bb7" A>GA>G F4 |"Ab" c>cc>c"Eb" B2 B>B |"Bb7" A>GA>B"Eb" G4 |"F7" F>G=A>G F2 d2 | %15
+w: Stut- tered ev- 'ry|time he trid to talk.|Still that night at eight, He was|there at Ka- ty's gate.|Stut- ter- ing to her this|
+"Bb7" c2 B2 !fermata!B2 (3Bcd |"Eb" e2"Cm7" B4"C7" (3BAG |"F7" F2 c4"Fm" d>c | %18
+w: love sick cry, K- K- K-|Ka- ty, beau- ti- ful|Ka- ty You're the|
+"Bb7" B>c (3ddd B>AG>F |"Eb""Edim" B4-"Bb7" (3BBB (3Bcd |"Eb" e2"Cm7" B4"C7" (3BAG | %21
+w: on ly g- g- g- gril that I a-|dore; _ When the m- m- m-|moon shines, o- ver the|
+"F7" F2"Fm" c4 d>c |"Bb7" B>cd>c (3BBA G>F |"Eb""Bb7" E4-"Eb" E z z2 |] %24
+w: cow- shed, I'll be|wait- ing at the k- k- k- kit- chen|door. _|
+

@@ -1,0 +1,41 @@
+X:1
+T:Bienvenue dans ma Vie
+T:Bienvenu dan ma vie
+T:Jesse Harris, Ron Sexsmith and Nikki Ynovsky
+C:Jesse Harris, Nikki Yanofsky, Ron Sexsmith
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Db
+V:1 treble 
+%%MIDI program 73
+V:1
+"Bbm" !fermata!B z"F/Ab" B d | f2 e d |"Bbm" B4- | B3 z |:"F7" z2 f g | a/ g3/2 z f | %6
+w: * Bien~- ve-|nu dans ma~~|vie.|_|Tout~ est~|bri~- llant i-|
+w: ||||Ev- ery|thing's full of|
+w: ||||Instr... *||
+"Bbm" f b f z | z4 |"Gbmaj7" z2 a2 |"F" g2 g2 |"Bbm" f4- | f3 z |"Gbmaj7" z2 a2 |"F" g2 a g | %14
+w: ci~- i~- i~||It's|warm in-|side,||my|door's op- \-en|
+w: li- i- ight||Il~fait|gris de-|hors,||ne|t'in- qui- ete|
+w: ||||||||
+"Bbm" f a f2- | f2- f z |"Abm" z2 e2 |"Gbm" d e"F" A A |"F" c/e/ f2- f |"F7" z4 |S"Gm7" f e =d B | %21
+w: wi- i- ide||Don't|stand~ out~ \-si~ \-i~|\-i~ \-i~ \-ide~- *||You~ can~ see~ from~|
+w: pas mon amour|_ _|Fait~de|cou- leur dans mon|coeur. _ _ _|||
+w: |||||||
+"Dm7" f e/ =d- d/ z |"Gm7" f =g =a b |"Ebmaj7" c' z/ b/ =a/ z/ =g |"Cm7" f2 e/=d/ c | %25
+w: far~ a- way~ *|It's~ the~ kind~ of~|place~ you'ld~ like~ to~|stay kick off your|
+w: ||||
+w: ||||
+ B z"Eb" =A/B/ B |"F" c2 =d2 |"F7" e2"Dm7" z2 |"Gm7" f e =d B |"Dm7" f e/ =d- d/ z | %30
+w: shoes for- get your|str- i-|ife.|There's a light on|in the hall, _|
+w: |||||
+w: |||||
+"Gm" f =g =a b |"Gm7" c'3/2 b/ =a =g |"Cm7" f2 e/=d/ c | B2 =A/B/ B |"F7" c z B d | f2 e d | %36
+w: lead- ing to~ a|place where you can|fall and rest your~|head and close your|eyes. Wel- come|to my- y|
+w: ||||* Bien- ve-|nu dans ma|
+w: ||||||
+"Bbm" B4- |"^Repeat x 3, last time D.S. al fin." B3 z :| %38
+w: life.||
+w: vie.||
+w: ||
+

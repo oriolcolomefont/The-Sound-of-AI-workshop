@@ -1,0 +1,25 @@
+X:1
+T:La fille aux cheveux de lin
+T:Debussy
+T:Arranged and transposed for solo clarinet by Erik Breum Petersen
+T:Prelude 8: La Fille aux cheveux de lin
+C:Claude Debussy
+Z:All Rights Reserved
+L:1/16
+M:3/4
+K:none
+V:1 treble transpose=-2 
+%%MIDI program 71
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:Bb]!p! F4- F2DB, G,2B,D | F2DB, G,2!>(!B,D B,2!tenuto!B,G,!>)! | B,2A,G, F,8- |1 %3
+!pp! F,6 z2 G,2B,2 | C4- C2F2 D2B,D | C2F2 D4!<(! G4-!<)! | G4!p! !tenuto!D4- D2E2 :| F,8 z2 D,F, | %8
+ G,2B,C E2F2!<(! G2B2-!<)! | B2AG!p! F4- F!>(!EDC!>)! |!pp! B,CD2- DCB,2- B,A,G,2- | %11
+ G,F,E,2- E,!<(!F,_A,C EF_Ac!<)! |!>(!!p! e2dc B8!>)! |!pp! d2cB G4- G2!>(!FE!>)! | %14
+ D2CB, G,4- G,2G,=E, | G,8 =E,2G,E, | G,8!<(! =E2GE!<)! | G2D=E GA=Bd !tenuto!g4- | %18
+ (g2(3.f)gf .d2.!tenuto!c2- cBA!>(!G!>)! | (G2(3F)GF D2 (C4 B,)C |!pp! D2-DB, G,2B,2 D2F2 | %21
+ D2B,2 G,4!<(! B,4!<)! | D2-DB, D2F2G2!p!B2 | (d2!>(!B2) (!tenuto!D4 !tenuto!F,4)!>)! | %24
+!pp! B,4 z4 f4- | f4- f2dB G2Bd | f2dB G2Bd B2BG | B4 A4 G4 | F4- F2E2 D2C2 | %29
+ B,CD2- DCB,2- B,A,G,2- | G,F,G,2- G,F,G,2- G,F,G,2- | G,(.B,.C).E .F.G.B.c (3(.e2.f2).g2 | b12 | %33
+

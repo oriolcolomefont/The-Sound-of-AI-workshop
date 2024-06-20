@@ -1,0 +1,18 @@
+X:1
+T:Mi Piso Eb
+T:Mi Piso
+T:Vinnie Dewan
+C:Vinnie Dewan
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" g c z g |"C" ^f c z ^f |"Cm" =f c c3/2 _B/ |"C7#9" c2 z2 |"Fm" c' f z c' |"Fm" _b ^f z g | %6
+"Cm" f c c3/2 _B/ |"Cm" c2 z c |"Dm7b5" g ^f z ^f |"G7#9" ^f =f z _e |"Cm" _e z c3/2 _B/ | %11
+"G7#9" c2 z2 :| %12
+

@@ -1,0 +1,29 @@
+X:1
+T:This Heart of Mine
+T:This Heart of Mine
+T:Harry Warren
+T:Arthur Freed
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ z C D E |:"F" E4- | E C D"E" E |"Gm7" F G"C7" E2- | E F G A |"Am7" A4- |"F" A F"Am7" G"Cdim" A | %7
+w: This heart of|mine|* was do- ing|ve- ry well.|* The world was|fine|* as far as|
+w: |mine|* is gai- ly|dan- cing now.|* I taste the|wine|* of real ro-|
+"Gm7" B2 c"C7" G- | G A"Gm" B"Db7" =B |"F" c c c c |1"Ab7" c c c c |"Db" c _d _A B | %12
+w: I could tell.|* and then quite|sud- den- ly I|met you and I|dreamed of gay a-|
+w: man- cing now.|* Some how this|cra- zy world has|||
+"Gm7" c3"C7" B |"F" A A A A |"Em7" A A- A"A7" A/A/ |"Dm" A"Gm" B"Dm" D"G7" F |"C9" G C D E :|2 %17
+w: mours At|dawn I woke up|sing- ing * sen- ti-|men- tal o- ver|tures. This heart of|
+w: |||||
+"Am7b5" _e _e"D7b9" e3/2 d/ ||"Cdim" c c"Gm" c B |"Bbm" A3/2 G/ F E |"F" c F"Dm7" F F | %21
+w: ta- ken on a|won- der- ful de-|sign. As long as|life en- dures, it's|
+w: ||||
+"G9" A G"Bbm6" F"C7" E |"F" F4- | F4 |] %24
+w: yours, this heart of|mine.||
+w: |||
+

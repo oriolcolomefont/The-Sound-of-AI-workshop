@@ -1,0 +1,32 @@
+X:1
+T:Sea Of Love
+T:Sea of love
+T:George Khoury and Philip Bastiste
+T:Slow Rock or Ballad
+C:George Khoury, Phil Phillips
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"G" BB B2 B2 B2 |"B7" ^dB B2 B2 z2 |"C" z2 AG A3 A |"A7" BAGA G2 z2 |"G" eddB de z2 | %5
+w: Do you re- mem- ber|when * we met|that's the day I|knew you were my pet|I * want to tell you|
+w: Come * with me *|my * love *|to the sea the|sea * of * love||
+"A7" z2 AB AG D2 |"C" E2 G2 z4!dacoda! |1"G" z8 :|2"G" z8 ||"D" d6 e2 |"C" ed c4 z2 |"D" d6 e2 | %12
+w: how * much * I|love you|||Come with|me * *|to the|
+w: |||||||
+"C" ed c4 z2 |"B7" B8 |"D" d6 c2!D.C.! |O"G" z4 z4 |"D" d6 e2 |"C" ed c4 z2 |"D" d6 e2 | %19
+w: sea * *|of|love *||Come with|me * *|to the|
+w: |||||||
+"C" ed c4 z2 |"B7" B8 |"D" d6 c2 |"G" B2 B2 B2 z2 |"B7" ^d2 B2 BA z2 |"C" z2 AG AG A2 | %25
+w: sea * *|of|love *|Come with me|my * love *|to the sea * the|
+w: ||||||
+"A7" BG A2 AG z2 |"G" eddB de z2 |"A7" B2 AB A3 D |"G" E2 G4 z2 | z8 | eddB de z2 | %31
+w: sea * of love *|I * want to tell you|just how * much I|love you||I * want to tell you|
+w: ||||||
+"A7" BAB A3 D z |"G" E2 G6 | z8 |] %34
+w: oh, * how much I|love you||
+w: |||
+

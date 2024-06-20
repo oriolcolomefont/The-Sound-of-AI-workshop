@@ -1,0 +1,17 @@
+X:1
+T:Eger városa
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" G G2 A G2 F2 | G G2 A G2 F2 | c c2 d e2 c2 |"G" BB A2 G2 z2 |:"Cm" cccd e2 c2 | %5
+w: E- ger vá- ro- sa,|pa- pok vá- ro- sa,|csu- há- sok jár- nak|fa- pa- pucs- ba',|Ki- pi- ki- pi- kip- kopp,|
+"G" BeBA G2 F2 |"Cm" GGcc G2 F2 |"G" EE D2"Cm" C2 :| %8
+w: in no- mi- ne Pat- ris,|re- ve- ren- da a- latt|pá- lin- kát visz.|
+

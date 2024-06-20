@@ -1,0 +1,21 @@
+X:1
+T:Bemsha Swing
+T:Bemsha Swing
+T:Thelonious Monk
+C:Thelonious Monk
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G2 |:"C6" c6"Am7" z ^F |"Abmaj7" Gc_B_A"Db9b5" GG F2 |"C6" EE B,2"Eb13" C4 |"D9" z4"Db9" z2 G2 | %5
+"C6" c6"Am7" z ^F |"Abmaj7" Gc_B_A"Db9b5" GG F2 |"C6" EE B,2"B7b9" C4 |"Ab9" z4"G9" z2"C9" c2 | %9
+"F6" f6"Dm7" z B |"Dbmaj7" cf_e_d"Gb9b5" cc _B2 |"F6" AA E2"Ab9" F4 |"G9" z4"Db9b5" z2 G2 | %13
+"C6" c6"Am7" z ^F |"Abmaj7" Gc_B_A"Db9b5" GG F2 |"C6" EE B,2"Dbmaj7" C4 |1"Ab9" z4"Db9b5" z2 G2 :|2 %17
+ z8 |] %18
+

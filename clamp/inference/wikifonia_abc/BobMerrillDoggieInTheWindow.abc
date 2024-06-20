@@ -1,0 +1,41 @@
+X:1
+T:Doggie In The Window
+T:Doggie in the window
+T:(How much is that)
+T:Bob Merrill
+C:Bob Merrill
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G |:"C" c G E | C- C/A/ G/E/ |"G7" G D2- | D2 G | B A G | F B"G7" A |"C" G3- |"G7" G z G | %9
+w: How|much is that|dog- * gie in the|win- dow|* the|one with the|wag- gle- y|tail|* how|
+w: |||||||||
+"C" c G E | C- C/A/ G/E/ |"G7" G D2- | D2 G | B A G | F E D |"C" C3- |"Dm7" C"G7" z G |"C" c G E | %18
+w: much is that|dog * gie in the|win- dow-|* I|do hope that|dog- gies for|sale|* I|must take a|
+w: |||||||* I|read in the|
+ C- C/A/ G/E/ |"G7" G D2- | D2 G | B A G | F B"G7" A |"C" G3- |"G7" G2 G |"C" c G E | %26
+w: trip * to Cal- i-|for- nia|* and|leave my poor|sweet- heart a-|lone|* If|he has a|
+w: pa * pers there are|rob- bers|* with|flash- lights that|shine in the|dark|* my|love needs a|
+ C- C/A/ G/E/ |"G7" G D2- | D2 G/G/ | B A G | F E D |"C" C3- |"Dm7" C z"G7" G :|"C" C2 z | %34
+w: dog * he wont be|lone- some|* and the|dog- gie will|have a good|home|* how|bark|
+w: dog * gie to pro-|tect him|* and *|scare them a-|way with one||||
+"Eb" C"F7" z2 |"Bb7" z3 || z2 B ||"Eb" e B G | E- E/c/ B/G/ | B"Bb7" F2- | F2 B | d c B | %42
+w: ||I|dont want a|bun * ny or a|kit- ty|* I|dont want a|
+w: ||||||||
+ A d"Bb7" c |"Eb" B3- |"Bb7" B z B |"Eb" e B G | E- E/c/ B/G/ |"Bb7" B F2- | F2 B | d c B | A G F | %51
+w: par- rot that|talks|* I|dont want a|bowl * of lit- tle|fish- es|* He|cant take a|gold- fish for|
+w: |||||||||
+"Eb" E3- |"Fm7" E z"Bb7" B ||"Eb" e B G | E- E/c/ B/G/ |"Bb7" B F2- | F2 B | d c B | A d c | %59
+w: walks|* How|much is that|dog * gie in the|win- dow|* the|one with the|wag- gle- y|
+w: ||||||||
+"Eb" B3- |"Bb7" B z B |"Eb" e B G | E- E/c/ B/G/ |"Bb7" B F2- | F2 B | d c B | A G F |"Eb" E3- | %68
+w: tail|* how|much is that|dog * gie in the|win- dow|* I|do hope that|dog- gies for|sale.|
+w: |||||||||
+"Bb7" E"Eb" z2 |] %69
+w: |
+w: |
+

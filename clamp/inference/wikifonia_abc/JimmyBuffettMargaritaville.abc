@@ -1,0 +1,45 @@
+X:1
+T:Margaritaville
+T:Margaritaville
+T:Jimmy Buffett
+T:Jimmy Buffett
+T:All Rights Reserved
+C:Jimmy Buffett
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" GGG F2 G2 z | GGG F2 G2 z |"F" A A2 A2 G F2 |"C" E8- | E8 |:"C" z2 z G GGGF- | FG z2 z4 | %7
+w: |||||* 1.~Liv~~~- in' on sponge|* cake,|
+w: |||||* 2.~Don't know the rea-|* son.|
+w: |||||3.~I blew out my flip|* flop,|
+ z2 z z GGGF- | FE z2 z4 | z4 GGGA- | AGG-G F E2 G- |"G7" G8- | G8 | z FFF FFFE- | EF z2 z4 | %15
+w: Watch- in' the sun|* bake;|All of the tour-|* ists co- * vered with oil.|||* * * Strum- min' my six|* string|
+w: Stayed here all sea-|* son.|No- thin' to show|* but this brand new ta- too.|||* * But it's a real beau-|* ty,|
+w: Stepped on a pop|* top,|Cut my * heal,|* had to cruise on back home.|||But there's booze * in the blend|* er,|
+ z2 z F FFFE- | EF z2 z4 | z2 GG GGGA- | AGG G2 F E2 |"C" (F C6) z | z8 |"F" z4 A A2 A | %22
+w: * On my front porch|* swing,|* * Smell- in' those shrimp,|* they're be- gin- nin' to|boil. *||Wast- in' a-|
+w: A Mex- i- can cu-|* tie;|* * How it got there|* I * have- n't a|clue. *|||
+w: And soon it will ren-|* der|That fro- * zen con- coc-|* tion that helps me hang|on. *|||
+"G7" G2 E G2 GFE |"C" FC C6- | C8 |"F" z2 AA A2 (A2 |"G7" G2) G2 GAGE- |"C" E8- | E8 | %29
+w: way a- gain in Mar- ga-|ri- ta- ville.||Search- in' for my|* lost shak- er of salt.|||
+w: |||||||
+w: |||||||
+"F" z4 AAAB- |"G7" B2 G A2 B2 c- |"C" c4 G2 EF- |"F" F6 FE |"G7" D8 | z FFF F2 EC- |1"C" CC- C6- || %36
+w: Some peo- ple claim|* that there's a wo-|* man to blame,|* 1.~But~~ I|know|* * it's no- bo- dy's|* fault. *|
+w: |||* 2.~Now I|think|Hell, it could * be my|* fault. *|
+w: |||* 3.~And~ I|know|it's my own * * damn||
+ C8 :|3"C" CC- C6- || C8 |"F" z4 AAAB- |"G7" B2 G A2 B2 c- |"C" c3 G2 E2 F- |"F" F6 FE |"G7" D8 | %44
+w: |* fault. *||Some peo- ple claim|* that there's a wo-|* * * blame,|* And I|know|
+w: ||||||||
+w: ||||||||
+ z FF (F2 C) C2 |"C" CGG F2 G2 z | GGG F2 G2 z |"F" A A2 A2 G F2 |"C" E8- | E8 | %50
+w: it's my own * damn|fault. * * * *|||||
+w: ||||||
+w: ||||||
+

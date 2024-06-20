@@ -1,0 +1,40 @@
+X:1
+T:Oh Babe
+T:Oh Babe
+C:Hurricane Smith
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z4 z3 c |"C" B2 c2 B2 c2 | B2 cB z z2 c | B2 c2 B2 c2 | B2 c"Cdim"B- B2 A"Dm"F- | F8- | F6 GF- | %7
+w: 1.~Have|I a hope for|half a chance, To|ev- en ask if|I could dance _ with you,|_|* you oo|
+ F8- | F4 z D2 E | F2 G2 A2 c2 |"Fm" e2 de- e2 d"C"G- | G8- | G4 z D2 E |"Dm7" F2 G2 A2 c2 | %14
+w: _|* Would you|greet me or po-|lite- ly turn _ a- way,|_|* Would there|sud- den- ly be|
+"Fm" e2 d2 z e2 f |"C" g3 e d c2"B7" B- | B6 A2 |"Dm" f8 | z f3 e2 fd- |"G7" d8- | d6 z c | %21
+w: sun- shine on a|cold and rain- y day?|_ Oh|Babe,|what would you say?|_|* 2.~For|
+"C" B2 c2 B2 c2 | B2 cB z z2 c | B2 c2 B2 c2 | B2 cB-"Cdim" B2 A"Dm"F- | F8- | F6 GF- | F8- | %28
+w: there are you sweet|lol- li- pop For|here am I with|such a lot _ to say|_|* Hey Hey!|_|
+ F4 z D2 E | F2 G2 A2 c2 |"Fm" e2 de- e2 d"C"G- | G8- | G4 z D2 E |"Dm7" F2 G2 A2 c2 | %34
+w: * Just to|walk with you a-|long the Mik- * y Way,|_|* To ca-|ress you thru' the|
+"Fm" e2 d2 z e2 f |"C" g3 e d c2"B7" B- | B6 A2 |"Dm" f8 | z f3 e2 fd- |"G7" d8- | d6"B" z2 |: %41
+w: night- time Bring you|flow- ers ev- 'ry day|_ Oh|Babe,|what would you say?|_||
+S"C" z2 G2 A4 | GAce- e2"B" z2 |"C" z2 G2 A4 | GAc g2 ^f2"Dm" (=f- | f4 e2) (ef) | d8- | %47
+w: Yes oh|ba- by I know _|I know|I could be so in love|_ _ with *|you,|
+ d4 z d2 e |"Dm" f2 e2 f2 e2 | d2 c2 _A2 c2 | G8- | G4 z d2 e |"Dm" f2 e2 f2 e2 | d2 c2 _A2 c2 | %54
+w: _ And I|know that I could|make you love me|too.|_ And if|I could on- ly|hear you say you|
+ G4 g4 |"Cdim" ^f4 A4 |"Dm" =f8- | f3 A ed(c"G7"d-) | d8!dacoda! ||1 z"G+7" _e3 e2 c"C"c- || c8- | %61
+w: do oo|oo oo|oo|_ But an- y way *||what would you say.||
+ c6 z c |]"C" B2 c2 B2 c2 |"^Sax solo, ad lib." B2 cB z z2 c | B2 c2 B2 c2 | %65
+w: ||||
+ B2 cB-"Cdim" B2 A"Dm"F- | F8- | F6 GF- | F8- | F4 z D2 E | F2 G2 A2 c2 |"Fm" e2 de- e2 d"C"G- | %72
+w: |||||||
+ G8- | G4 z D2 E |"Dm7" F2 G2 A2 c2 |"Fm" e2 d2 z e2 f |"C" g3 e d c2"B7" B- | B6 A2 |"Dm" f8 | %79
+w: |||||||
+ z f3 e2 fd- |"G7" d8- | d6"B" z2!D.S.! :|2O z"G+7" _e3 e2 c"C"c- || c8 || %84
+w: |||what would you say|_|
+"^Sax solo, ad lib\n" z8 | z8 | z8 |"G7" GAB"C"c z2 !fermata!C2 |] %88
+w: ||||
+

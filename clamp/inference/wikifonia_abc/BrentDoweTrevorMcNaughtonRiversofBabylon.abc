@@ -1,0 +1,31 @@
+X:1
+T:Rivers of Babylon
+T:RIVERS OF BABYLON
+T:Brent Dowe and Trevor McNaughton ARR. KEVIN COLLINS
+C:Brent Dowe, Trevor McNaughton
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 3
+%%MIDI program 26
+V:1
+ z2 GG cc d2 | e2 ee- e4- | e2 G2 c2 d2 | e8 | z2 e2 f2 e2 |"G" d8 | z d dd d2 e2 | %7
+w: By the ri- vers of|Ba- by- lon, *|* there we sat|down|ye- ah we|wept,|when we re- mem- bered|
+"C" d2 c c4- c- |"C" c2 GG cc d2 | e2 ee- e4- | e2 G2 c2 d2 | e8 | z2 e2 f2 e2 |"G" d8 | %14
+w: Zi- * on. *|* By the ri- vers of|Ba- by- lon, *|* there we sat|down|ye- ah we|wept,|
+ z d dd d2 e2 |"C" d2 cc- c4 | z g2 c' a2 g2 |"C" ee ed ee d2 | eede- e3 d |"F" c c2 d c2 A c- | %20
+w: when we re- mem- bered|Zi- * on. *|When the wick- ed|Car- ried us a- way in cap-|ti- vi- * ty _ Re-|quir- ed from us a song|
+"C" c6 Gc |"C" c3 c c2 de | e4 z f e2 |"G" d4 c2 z2 |"C" c8 |"C" g3 c' a2 g2 |"C" ee ed ee d2 | %27
+w: _ Now how|shall we sing the lord's|song in a|strange _|land|When the wick- ed|Car- ried us a- way in cap-|
+ eede- e3 d |"F" c c2 d c2 A c- |"C" c6 Gc |"C" c3 c c2 de | e4 z f e2 |"G" d4 c2 z2 |"C" c8 | %34
+w: ti- vi- * ty _ Re-|quir- ed from us a song|_ Now how|shall we sing the lord's|song in a|strange _|land|
+ z4 G2 G2 | c4 c2 cF |"G" G4 GG GG |"C" c2 c2 c2 cF |"G" G4 G2 G2 |"C" c2 cc c2 cF |"G" G4 G2 F2 | %41
+w: Let the|words of o- ur|mouths and the me- di-|ta- tions of o- ur|hearts be ac-|cep- ta- ble in thy _|sight here to-|
+"C" E8 | z4 G2 G2 | c4 c2 cF |"G" G4 GG GG |"C" c2 c2 c2 cF |"G" G4 G2 G2 |"C" c2 cc c2 cF | %48
+w: night|Let the|words of o- ur|mouths and the me- di-|ta- tions of o- ur|hearts be ac-|cep- ta- ble in thy _|
+"G" G4 G2 F2 |"C" E8 |] %50
+w: sight here to-|night|
+

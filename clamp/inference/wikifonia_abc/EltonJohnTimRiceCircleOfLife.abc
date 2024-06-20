@@ -1,0 +1,44 @@
+X:1
+T:Circle Of Life
+T:Circle of Life
+T:Elton John
+T:Tim Rice
+C:Elton John
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"F" z2 DE |:"Bb" F3 D/E/ F2 F/G/F |"Cm" E2 z4 z C |"F7" EEEF- F z F/G/D- |"Bb" D2 z4"F" z F | %5
+w: From the|day we ar- rive on the plan-|et and|blink- ing step in * to the sun|* there's|
+w: |Some of us fall by the way|side and|some of us soar * to the stars|* and|
+"Gm" BBBB- B z2 G/A/ |"Cm" Bccc- c z cc/c/- |"Ab" c2 z c/d/ e2 d/B/c- |"F" c2 z4"F7" z C | %9
+w: more to be seen * than can|ev- er be seen * more to do|* than can ev- er be done||
+w: some of us sail * through our|trou- bles * * * * and some|* have to live with the scars|* there's|
+"Bb" DEDE F2 F/G/F |"Cm" E2 z4 DE- |"F7" E2 z E/E/ FFGD- |"Bb" D2 z4"F" FF |"Gm7" BBBB- B z FF | %14
+w: * * some say eat or be eat-|en some say|* * * live and let live|* but *|all are a- greed * as they|
+w: far too * much * to take in|here more to|find than can ev- er be found|* but the|sun roll- ing high * through the|
+"Cm" Bccc- c2 c/c/c/c/ |"Ab" ccde e2 d/B/c- |"F" c2 z F/F/ f2 d/c/B- |"Bb" B2 z2"Eb" z4 | %18
+w: join the stam- pede * * * you should|nev- er take more * than you give|* in the cir- cle of life||
+w: sap- phi- re sky * keeps great and *|small on the end * less * round|* in the cir- cle of life||
+"Bb" z2 dd e2 fe- |"Ab" e c3 z4 | z2 ee f2 dB- |"Eb" B2 z2"Ab" z4 |"Eb" z2 z e/e/ edcc- | %23
+w: its the wheel of for-|* tune|its the leap of faith||it's the band of * hope|
+w: |||||
+"F" c2 z2 z4 | z2 FF f2- f/d/c/d/- |"Bb" d/c/B- B2 z4 |"G7" z2 dd e2 ff- |"Cm" f e3 z4 | %28
+w: |till we find * our * place||on the path un- wind-|* ing|
+w: |||||
+"Gb" z4 z2 B/B/f- |"Bb" f3 d/c/ B4!dacoda! |1 z2"F" z F/edc/BB- |"Eb" B4 z4 :|2 %32
+w: in the cir-|* cle * *|the cir * cle of life||
+w: ||||
+"Bb" z2"F" z F/edc/ B<f- ||"Bb" f8 ||O"F" z2 z3/2 F/ ed c/B/B- |"Eb" B2 z4 z2 |"Bb" z8 |"Cm" z8 | %38
+w: the cir * cle of life||the cir * cle of life||||
+w: ||||||
+"G" z2 dd e2 ff- |"Cm" f e3 z4 |"Gb" z4 z2 B/B/f |"Bb" f3 d/c/ B2 z2 |"F" z2 z F/"F"edc/BB- | %43
+w: on the path un- wind-|ing *|in the cir|* cle * *|the cir * cle of life|
+w: |||||
+"Eb" B4 z4 |"Gb" z8 |"Bb" z8 |] %46
+w: |||
+w: |||
+

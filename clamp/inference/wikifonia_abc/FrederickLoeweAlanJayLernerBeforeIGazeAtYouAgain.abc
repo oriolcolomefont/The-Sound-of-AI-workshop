@@ -1,0 +1,37 @@
+X:1
+T:Before I Gaze At You Again
+T:Before I Gaze At You Again
+T:from Camelot
+T:Frederick Loewe
+T:Alan Jay Lerner
+C:Frederick Loewe
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am6" EA =Bc BA |"E" =BA B4 |"Am6" A^G A2"B7" ^F2 |"E" ^G6 |"Gm" DG AB AG |"Dm" AG A4 | %6
+w: ||||||
+"Gm" GF G2 E2 |"A" A3 z C2 |"F" AB A2 z C | AB A2 z C | AB A2"Bb" B2 |"F" c4 z A | %12
+w: |* Be-|fore I gaze at|you a- gain I'll|need a time for|tears Be-|
+"Csus4" GA G2"C7" z C |"Csus4" GA G2"C7" z C | GA"Bb" B2"C7" c2 |"F" A4- A z | %16
+w: fore I gaze at|you a- gain Let|hours * turn to|years *|
+"Bb" d2"Eb""Bb" _e3 d |"F" c4 z F |"Bb" d2"Eb""Bb" _e3 d |"F" c4"Bb" z B |"F" AB A2 z C | %21
+w: I have so|much for-|get- ting to|do Be|fore I try to|
+"C7sus4" GA"C7" B2 E2 |"F""Bb" F6- |"F" F2 z2 z2 |"Am" EA =Bc BA |"E7" =BA B4 | %26
+w: gaze a- gain at|you||Stay a- way un- til you|cross my mind|
+"Am6" A^G A2"B7" ^F2 |"E" ^G6 |"Gm" DG AB AG |"Dm" AG A4 |"Gm" GF G2 E2 |"A" A4 z"C7" C | %32
+w: Bare- ly once a|day|Till the mo- ment I a-|wake and find|I can smile and|say That|
+"F" AB A2 z C | AB A2 z C | AB A2"Bb" B2 |"F" c4 z A |"Csus4" GA"C7" G3 C |"Csus4" GA"C7" G3 C | %38
+w: I can gaze at|you a- gain With-|out a blush or|qualm, My|eyes a- shine like|new a- gain My|
+ GA"Bb" B2"C" c2 |"F" A4 z2 |"Bb" d2"Eb""Bb" _e3 d |"F" c4 z F |"Bb" d2"Eb""Bb" _e3 d | %43
+w: man- ner poised and|calm.|Stay far a-|way, My|love, far a-|
+"F" c4"Bb" z B |"F" AB A2 z C |"Csus4" GA"C7" B2 E2 |"F" F6- | F4"C7" z G |"F" A6 |"C7" B4 G2 | %50
+w: way. And|so 'till when we|gaze a- gain, Good-|bye|* Good-|bye-|* Good-|
+"F" c6- | c6 |] %52
+w: bye-|.|
+

@@ -1,0 +1,26 @@
+X:1
+T:Goody goody
+T:Goody goody
+T:Matty Malneck
+T:Johnny Mercer
+C:Matt Malneck
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ G/G/ |"C" c B A G/c/- | c/c/ B A G | E3 e/e/ | ^d/ e3/2 z G/G/ |"C" c B A G/c/- | c/c/ B A G | %7
+w: So you|met some- one who set|* you back on your|heels, good- y|good- y So you|met some- one and now|* you know how it|
+"A7" E3 e/e/ | ^d/ e3/2 z A/A/ |"Dm" d d"A7" ^c/ e"Dm" d/- | d z z A/A/ |"Dm" d d"A7" ^c/ _B A/- | %12
+w: feels, good- y|good- y So you|gave him/her your heart too|* just as|I gave mine to you|
+ A z z A/G/ |"D7" ^F/F/ A c A | e c3 | e c B c |"G7" d3 G/G/ |"C" c B A G/c/- | c/c/ B A G | %19
+w: * and he/she|broke it in lit- tle|piec- es|Now how do you|do? So you|lie a- wake just sing-|* in' the blues all|
+ E3 e/e/ | ^d/ e3/2 z e/e/ |"C7" e ^d =d c/e/- | e/e/ ^d =d c |"F" A4- | A2 c2 |"F" e c e c | %26
+w: night, good- y|good- y And you|think that love's a barr-|* el of dyn- a-|mite|* Hoo-|ray and hall- e-|
+"Fm" e d2 c |"C" B G A G |"G7" B A2 G/G/ |"C" c/c/ B A2- | A z z G/G/ |"A7" e/e/ B A2 | %32
+w: lu- jah You|had it com- in'|to ya Good- y|good- y for him/her	|* Good- y|good- y for me|
+ z z z e/^d/ |"D7" e c d c |"G7" e c e d |"C" c4 |] %36
+w: And I|hope you're sat- is-|fied you ras- cal|you.|
+

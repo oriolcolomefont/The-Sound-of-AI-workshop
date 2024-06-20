@@ -1,0 +1,32 @@
+X:1
+T:Sophisticated Lady
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+ _G2 |:"Bbm" F4- FAce |"Gb7" _g2"F7" f2"E7" _f2"Eb7" ec |"Ab" G4- GFAc | %4
+w: They|say _ in- to your|ear- ly life ro- mance|came, _ and in this|
+w: |Then, _ with dis- il-|lu- sion deep in your|eyes, _ you learned that|
+"Ab7" e2"G7" =d2"Gb7" _d2"F7" cf |"Bb7" F4- FGAc |"Bbm" (3ece c2-"Eb7" c2 e2 |1"Ab" G6 e2 | %8
+w: heart of yours burned a|flame, _ A flame that|flick- ered one day * and|died a-|
+w: fools in love soon grow|wis, _ The years have|changed you, some- how; * I||
+"Adim" _G8 :|2"Ab" FE A6 |"Am" z4"D7" z4 ||"G" z =D2=B,"Em" =E2 B,G- |"Am" G=E =B2"D7" ^F =e2_B | %13
+w: way.|see you now...||Smok- ing, drink- ing, nev-|* er think- ing of to-|
+w: |||||
+"Bm7b5" =B2 F2-"E7" F4 |"Am" =Ec _E2-"^D7(b9)" E4 |"G" z =D2=B,"Em" =E2 B,G- | %16
+w: mor- row, *|non- cha- lant, *|Dia- monds shin- ing danc-|
+w: |||
+"Am" G=E =B2"D7" ^F =e2_B |"G7" =B2"Bdim" FA"Cm" GE C2 |"Eb7" FGBd"^F7(b9)" ce ^F2 || %19
+w: * ing, din- ing with some|man in a res- tau- rant,|Is that all you real- ly want?|
+w: |||
+"Bbm" F4- FAce |"Gb7" _g2"F7" f2"E7" _f2"Eb7" ec |"Ab" G4- GFAc |"Ab7" e2"G7" =d2"Gb7" _d2"F7" cf | %23
+w: No _ soph- is- ti-|cat- ed la- dy, I|know * you miss the|Love you lost long a-|
+w: ||||
+"Bb7" F4- FGAc |"Bbm" (3ece c2-"Eb7" c2 e2 |"Ab6" A8 | z8 |] %27
+w: go, _ and when no-|bo- dy is nigh * you|||
+w: ||||
+

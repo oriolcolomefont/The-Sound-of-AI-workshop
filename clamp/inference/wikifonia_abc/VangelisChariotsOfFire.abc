@@ -1,0 +1,27 @@
+X:1
+T:Chariots Of Fire
+T:Chariots Of Fire
+T:From the movie "Chariots Of Fire"
+T:Vangelis
+C:Vangelis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^bass next 7 bars.no chords" C,/C,/C,/C,/ C,/C,/C,/C,/ C,/C,/C,/C,/ C,/C,/C,/C,/ | z4 z2 C2 | %2
+ G8- | G4 z2 C2 | G8- | G4 z2 C2 | G8- | G6 z2 ||"C" E8- | E4"F/C" F2 z/ C3/2 |"C" G8- | %11
+ G4"F/C" z C (3FGA |:"C" G2 E2"F/C" z C (3FGA |"C" G4"F/C" z C (3FGA |"C" G2 E2"F/C" z E (3FEC | %15
+"C" C4"F/C" z C (3FGA |"C" G2 E2"F/C" z C (3FGA |"C" G4"F/C" z C (3FGA |"C" G2 E2"F/G" z E (3FEC | %19
+"C" C4 z c (3BAG |"Em" B>G"F"A>F"C" G>c (3BAG |"Em" B2"G7" F2"C" Ec (3BAG | %22
+"Em" B>G"F"A>F"C" G>E"F/G" (3FEC |"C" C4 z c (3BAG |"Em" B>G"F"A>F"C" Gc (3BAG | %25
+"Em" B2"G7" F2"C" Ec (3BAG |1"Em" B2"F" A>c"C" G>E"F/G" (3FEC ||"C" C4"F/C" z C (3FGA :|2 %28
+"Em" B>G"F"A>F"C" G>E"G7" (3FEC ||"C" C4"F/C" z C (3FGA |"C" G2 E2"F/C" z C (3FGA | %31
+"C" G4"F/C" z C (3FGA |"C" G2 E2"F/C" z E (3FEC |"C" C4"F/C" z C (3FGA |"C" G2 E2"F/C" z C (3cBA | %35
+"C" G2 z2"F/C" z C (3cBA |"C" G2 E2"F/C" z EFG |"C" c4"F/C" z C (3FEC |"C" E4"F/C" z C (3FEC | %39
+"C" C4"F/C" z C (3FEC |"C" C4"F/C" z C (3FEC |"C" C8- | C8 | C8 |] %44
+

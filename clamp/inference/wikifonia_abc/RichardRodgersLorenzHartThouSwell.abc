@@ -1,0 +1,21 @@
+X:1
+T:Thou Swell
+T:Thou Swell
+T:Richard Rodgers / Lorenz Hart
+T:Copyright 1927 by Chappell & Co.
+C:Richard Rodgers / Lorenz Hart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+ g2 ||"Fm7" f6 g2 |"Bb7" f B3- B2 g2 |"Fm7" f6 g2 |"Bb7" b6 c'2 |"Ebmaj7" b6 c'2 | %6
+"Ab13" b e3- e2 c'2 |"Ebmaj7" b6 c'2 |"Am7b5" e'4 c'"D7b9" d'2 b- |"Gm7" b3 =b"C7" c' g3 | %10
+"Fm7" a3 =a"Bb7" b f3 |"Ebmaj7" g8- |"Eb6" g4 b2 e2 |"Dm7" f f2 ^f"G7" g g2 d | %14
+"Dm7" e e2"F7" =e f f2 c |"Bb7" d8- |"Gm7" d6"C7" g2 ||"Fm7" f6 g2 |"Bb7" f B3- B2 g2 | %19
+"Fm7" f6 g2 |"Bb7" b6 c'2 |"Ebmaj7" b6 c'2 |"Ab13" b e3- e2 c'2 |"Ebmaj7" b6 c'2 | %24
+"Am7b5" e'4 c'"D7b9" d'2 b- |"Gm7" b3 =b"C7" c' g3 |"Fm7" a3 =a"Bb7" b f3 |"Gm7b5" g8 | %28
+"C7" c'6 g2 |"Fm7" f6 g2 |"Bb7" f B3- B2 g2 |"Eb6" e8- | e6 z2 |] %33
+

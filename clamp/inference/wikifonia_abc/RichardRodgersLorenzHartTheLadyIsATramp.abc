@@ -1,0 +1,36 @@
+X:1
+T:The Lady Is A Tramp
+T:The Lady Is A Tramp
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C6" z c B d |"Cm7" _B B2 B |"Dm7" A F A"G7" B- |"G7b9" B4 |"C6" z c B d |"Cm7" _B B2 B | %6
+w: She gets too|hun- gry for|din- ner at eight,||She likes the|thea- tre but|
+w: ||||||
+w: She's not for|crap games with|bar- ons and earls,||Won't go to|Har- lem in|
+"Dm7" A F A"G7" B- |"G7b9" B4 |"C9" z c"Cmaj7" G E |"C9" D D2 D |"F" C D E"Fm6" F- | F4 | %12
+w: nev- er comes late,||She nev- er|both- ers with|peo- ple she hates,||
+w: ||||||
+w: er- mine and pearls,||Won't dish the|dirt with the|rest of the girls,||
+"C" z E"C+" E E |"F6" D D"G7" D D |"C6" C4- | C2"G7" z2 :|"C" C4 |"^N.C." z C E G |"Fmaj7" A4 | %19
+w: Thats why the|la- dy is a|tramp.|||She likes the|free|
+w: ||||tramp.|||
+w: That's why the|la- dy is a||||||
+"G7" B4 |"Em7" B3/2 G/ E A- |"Am7" A4 |"Dm7" A3/2 F/ D G- |"G7" G4 |"C" z/ G A/-"A7" A2 | %25
+w: fresh|wind in her hair,||Life with- out care,||She's broke, *|
+w: ||||||
+w: ||||||
+"D7" z/ A"G7" B/- B2 |"C6" z c B d |"Cm7" _B B2 B |"Dm7" A F A"E7" =B- | B4 | %30
+w: It's oke! *|Hates Cal- i-|for- nia, It's|cold, and it's damp||
+w: |||||
+w: |||||
+"Am" z c"Am" c3/2"Am7" c/ |"D7" d d3 |"D7b5" d4 |"G7" d4 |"C""Cm7" c4- |"Fm" c2"C" z2 |] %36
+w: That's why the|la- dy|is|a|tramp.||
+w: ||||||
+w: ||||||
+

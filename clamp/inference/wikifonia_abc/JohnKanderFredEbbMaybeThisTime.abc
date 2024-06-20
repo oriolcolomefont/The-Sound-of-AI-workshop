@@ -1,0 +1,48 @@
+X:1
+T:Maybe This Time
+T:Maybe This Time
+C:John Kander
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z (3z/ G,/A,/ (3:2:2B, G,/- G, |"G#" z (3:2:2G, A,/ (3:2:2B, G,/- G, | %2
+w: May- be this time _|I'll be luck- y. *|
+"G6" z/ (3z/ G,/A,/ (3:2:2B, G,/- G,/ A, |"G9" B,4 |"C" z (3:2:2C D/ (3:2:2E C/- C | %5
+w: May- be this time _ he'll|stay.|May- be this time, _|
+"C+" z (3:2:2C D/ (3:2:2E C/- C |"Am/C" z (3:2:2C D/ (3E C D |"C#dim" E4 |"D7" z (3:2:2F ^E/ F D | %9
+w: For the first time, _|Love won't hur- ry a-|way.|He will hold me|
+"E+" E4 |"A9" z (3:2:2E ^D/ E A, |"D7" B,4 |"G9" z (3:2:2D ^C/ (3:2:2D G,/- G, | %13
+w: fast.|I'll be home at|last.|Not a los- er _|
+"C" z (3D/^C/D/-"Cm" D (3:2:2G, A,/ |"G" (3:2:2B, C/- C"E9" D (3:2:2z E/ | %15
+w: an- y- more, _ like the|last time _ and the|
+"A7" B, (3:2:2G, A,/-"D9" A,2 |"G" z (3:2:2G, A,/ (3:2:2B, G,/- G, | %17
+w: time be- fore. _|Ev- 'ry- bod- y _|
+"G+" z (3:2:2G, A,/ (3:2:2B, G,/- G, |"G6" z (3:2:2G, B,/ (3:2:2B,/ G,- (3:2:2G,/ A, |"G9" B,4 | %20
+w: loves a win- ner _|so no- bod- y _ loved|me.|
+"C" z (3:2:2C D/ (3:2:2E C/- C |"C+" z (3:2:2C D/ (3:2:2E C/- C |"Am7" z (3:2:2C D/ (3E C D | %23
+w: Lad- y Peace- ful. _|La- dy Hap- py. _|That's what I long to|
+"C#dim" E4 |"D7" z (3:2:2F ^E/ (3:2:2F D/- D | z (3:2:2F ^E/ (3:2:2F D/- D | %26
+w: be.|All the odds are _|in my fav- or _|
+"Em" z (3:2:2G F/ G- (3G/F/G/ |"A9" A4 |"G/D" (3:2:2z B/- (3B/B/^A/ (3:2:2B/ G- G | %29
+w: Some- thing's bound _ to be-|gin.|It's _ got to hap- pen, _|
+"G+" z (3z/ B/^A/ (3:2:2B G/- G |"Am9" z (3z/ B/^A/ (3B G E |"G""Eb7" G4 || %32
+w: hap- pen some- time _|May- be this time I'll|win.|
+[K:Ab]"Ab" z (3:2:2A, B,/ (3:2:2C A,/- A, |"Ab+" z (3:2:2A, B,/ (3:2:2C A,/- A, | %34
+w: Ev- 'ry- bod- y _|loves a win- ner _|
+"Ab13" z (3:2:2A, B,/ (3C A, B, |"Ab9""Ab7" C4 |"Db" z (3:2:2D E/ (3:2:2F D/- D | %37
+w: so no- bod- y loved|me.|La- dy Peace- ful. _|
+"Db+" z (3:2:2D E/ (3:2:2F D/- D |"Db6" z (3:2:2D E/ (3F D E |"Ddim" F4 | %40
+w: La- dy Hap- py. _|That's what I long to|be.|
+"Eb7" z (3:2:2G ^F/ (3:2:2G E/- E | z (3:2:2G ^F/ (3:2:2G E/- E | %42
+w: All the odds are _|in my fa- vor. _|
+"Fm" z (3:2:2A G/"Fm/Eb" A- (3A/G/A/ |"Bb9" B4 |"Ab/Eb" (3:2:2z c/- (3c/c/=B/ (3:2:2c/ A- A | %45
+w: Some- thing's bound _ to be-|gin.|It's _ got to hap- pen, _|
+"Ab+" z (3z/ c/=B/ (3:2:2c A/- A |"Fm" z (3z/ c/=B/"Ab6/Eb" (3:2:2c A/- A | %47
+w: hap- pen some- time, *|May- be this time. _|
+"Bbm9" z (3z/ c/=B/"Eb13" (3c A F |"Ab""E/G#" A4- |"Ab6" A4 |] %50
+w: May- be this time I'll|win.||
+

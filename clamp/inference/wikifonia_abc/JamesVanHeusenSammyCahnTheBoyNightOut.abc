@@ -1,0 +1,36 @@
+X:1
+T:The Boy' Night Out
+T:The Boy's Night Out
+T:James Van Heusen
+T:Sammy Kahn
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" C2 A2 ^G>AG>A |"A7" ^C>A^G>A G>AG>A |"Dm" a2 a2 A2 AG- |"Cm7""F7" G8 |"Bb" F2 d2 ^c>dc>d | %5
+w: Hey there, Mis- ter, build a|fence a- round your sis- ter, It's The|* * Boy's Night Out||Hey there, Bus- ter, it's the|
+"D7" ^F>d^c>d c>dc>d |"Gm" d'2 d'2 d2 dc- |"Fm7""Bb7" c8 |"Eb" d d2 c d2 c_e- | %9
+w: In- juns aft- er Cus- ter, It's The|* * Boy's Night Out!||They're out to do the town|
+"Cm6" edcB-"D7#5b9" B2"D7b9" A2 |"Gm" B8- |"Gm7" B2 BB-"Bb" Bc B2 |"Em7" A A2 A- A4- | %13
+w: * and be- fore * they're|through,|* It's bound * to be|lik- ened to *|
+"A7" A2 G2 F2 E2 |"Dm" FEFF-"G9" F>GF>G |"Gm" D2 DD-"C7" D E3 |"F" C2 A2 ^G>AG>A | %17
+w: * The night they|lost the Ti- tan- * ic and the|Wall Street pan- * ic.|Wkat they're seek- ing is a|
+"A7" ^C>A^G>A G>AG>A |"Dm" a2 a2 A2 AG- |"Cm7""F7" G8 |"Bb" F2 d2 ^c>dc>d | %21
+w: lit- tle cheek to cheek- ing, It's The|* * Boy's Night Out!||And that moon's a- bout as|
+"Cm6" _edcB-"D7#5b9" B2"D7" AB- |"Gm" B8- | B4- B G2 A |"Bbm6" B B2 B- B2 A>B |"C7" c2 B2 A G2 G | %26
+w: big as a hon- * ey dew!||* * It's The|Boy's Night Out * and they're|so ro- man- tic, But|
+"F" d2 c2 A2 F2 |"Am7""D7" E6 E>_E |1"Gm" D>BAB- B D2 ^D ||"C7" E>c=Bc- c E2 F- | %30
+w: I'll give you a|clue, What the|boys are out aft- * er, the|girls are out aft- * er too!|
+"F" F2 ed"Abdim" ^c2 d2 |"Gm7" G2 A2 D2"C7" E2 :|2"Gm" D>BAB- B D2 e || d>bab- b d2 ^D | %34
+w: ||boys are out aft- * er, *|* * * * * * The|
+"C7" E>c=Bc- c E2 f | e>c'=bc'- c'2 E>_E |"Gm" D>BAB- B D2 ^D |"C7" E>c=Bc- c E2 F- | %38
+w: girls are out aft- * er, *|* * * * * What the|boys are out aft- * er, the|girls are out aft- * er too!-|
+"F" F>GA>c"Eb6" f2"E6" ff |"F6" f4 a2 a2 |] %40
+w: ||
+

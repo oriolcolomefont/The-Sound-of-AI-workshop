@@ -1,0 +1,32 @@
+X:1
+T:So Many Stars
+T:So Many Stars
+C:Sergio Mendes
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 G,2 |"F/G" E4- EFEG, |"G7b9" E4- EFEG, |"Gm7" E4- EFEG, |"C7b9" E4 (3A2 G2 E2 | %5
+w: The|dawn _ is filled with|dreams, _ so ma- ny|dreams, _ which one is|mine? One must be|
+"Fmaj7" E3 C C4- |"Bb13" C6 G,2 |"Em" G4- G"C/E"A^FE |"Em6" G4- GA"Em7"^FE | %9
+w: right for me.|_ Which|dream, _ of all the|dreams, _ when there's a|
+"Em" G2 A^F-"Em7" FE G2- |"A7#9" G4 (3A2 G2 G,2 |"Dm7" E4- EFEG, |"G7b9" E4- EFEG, |"C6/D" E8- | %14
+w: dream for ev- * 'ry star?|_ and there are|oh _ so ma- ny|stars, _ so ma- ny|stars.|
+"A7sus4" E4 z2"A7#9" G,2 |"F/G" E4- EFEG, |"G7b9" E4- EFEG, |"Gm7" E4- EFEG, | %18
+w: _ The|wind _ is filled with|songs, _ so ma ny|songs, _ which one is|
+"C7b9" E4 (3A2 G2 E2 |"Fmaj7" E3 C C4- |"Bb13" C6 G,2 |"Em" G4- G"C/E"A^FE |"Em6" G4- GA"Em7"^FE | %23
+w: mine? One must be|right for me.|_ Which|song _ of all the|songs, _ when there's a|
+"Em" G2 A^F-"Em7" FE G2- |"A7#9" G4 (3A2 G2 G,2 |"Dm7" E4- EFEG, |"G7b9" E4- EFEG, |"C69" E8- | %28
+w: song for ev- * 'ry star?|_ and there are|oh _ so ma- ny|stars, _ so ma- ny|stars.|
+"C6" E4 z2"Fmaj7" G,2 |"F#m9" B4- BcBB, |"F7#11" B4- BcBB, |"Em9" A4- A_BAA, |"A7b9" A4- A_BAA, | %33
+w: _ A-|lone _ the count- less|days, _ the end less|nights, _ that I have|searched _ so ma- ny|
+"Dm9" G4- GAGG, |"G7b9" G4- GAGG, |"E13""E+7" E8- |"A7sus4" E4- E"A7b9"FEG, |"F/G" E4- EFEG, | %38
+w: eyes, _ so ma- ny|hearts, _ so ma ny|smiles|_ _ Which one to|choose? _ Which way to|
+"G7b9" E4- EFEF |"Em9" ^F4- FGFA, |"A" A4- (3A2 G2 F2 |"Dm9" E4- EFEG, |"G7b9" E4- EFEG, | %43
+w: go? _ How can I|tell? _ How can I|know? _ Out of|oh, _ so ma- ny|stars, _ so ma- ny|
+"C69" E8- | E8 |] %45
+w: stars.|_|
+

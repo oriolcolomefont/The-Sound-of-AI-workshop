@@ -1,0 +1,32 @@
+X:1
+T:Don't Smoke in Bed
+T:Don't Smoke In Bed
+C:Willard Robison
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z/ C/C/C/ |"Fm7" G3 F/G/ | C C2"Fm6" C/C/ |"Fm7" G3"Fm6" F/G/ | D3"Bb7" B, |"Ebm7" F2 E F | %6
+w: She left a|note on her|dres- ser and her|old wed- ding|ring. With|these few good-|
+ B, B,3 |"Cm" E3"Ab7" B,/B,/ |"G7" D"Fm7" E"G+7" E"G7b9" =B, |"Cm" =B,/ C C/- C"Bdim" D | %10
+w: bye words,|sad- ly she|sings: Good- bye old|sleep- y head _ I'm|
+"Cm" (3E F G"G+7" =B2- | B G/=B/"Cm7" c2- |"Fm7" c c A F |"Dm7b5" C/ D D/- D"G7" E | %14
+w: pack- ing you in.|_ Like I said,|_ take care of|ev- 'ry- thing. _ I'm|
+"Fm6" (3F G A"G+7" =B/ G3/2 |"Cm""Fm6" c4- |"Cm" c"Fm7" e"F#dim" e"G7b9" =B |"Cm""Fm7" c4- | %18
+w: leav- ing my wed- ding|ring.|_ Don't look for|me,|
+"Cm" c"Gm7" c"C7" B G |"Fm""Bbm/F" A4- |"Fm" A G"G7" F"Cm" E |"Fm6" D2"G7" D2- | %22
+w: _ I'll get a-|head.|_ Re- mem- ber,|dar- ling,|
+"Ab7" D E"G7" =B, D |"Cm""Fm6" C4- |"Cm" C"Fm7" E"G+7" E"G7b9" =B, |"Cm" =B,/ C C/- C"Bdim" D | %26
+w: _ Don't smoke in|bed.|_ Good- bye old|sleep- y head _ I'm|
+"Cm" (3E F G"G+7" =B2- | B G/=B/"Cm7" c2- |"Fm7" c c A F |"Dm7b5" C/ D D/- D"G+7" E | %30
+w: pack- ing you in.|_ Like I said,|_ take care of|ev- 'ry- thing. _ I'm|
+"Fm6" (3F G A"G+7" =B/ G3/2 |"Cm""Fm6" c4- |"Cm" c"Fm7" e"F#dim" e"G7b9" =B |"Cm""Fm6" c4- | %34
+w: leav- ing my wed- ding|ring.|_ Don't look for|me,|
+"Cm" c"Gm7" c"C7" B G |"Fm""Bbm/F" A4- |"Fm" A G"G7" F"Cm" E |"Fm6" D2"G7" D2- | %38
+w: _ I'll get a-|head.|_ Re- mem- ber,|dar- ling,|
+"Ab7" D E"G7" =B, D |"Cm""Fm6" C4- |"Cm" C4 |] %41
+w: _ Don't smoke in|bed.|_|
+

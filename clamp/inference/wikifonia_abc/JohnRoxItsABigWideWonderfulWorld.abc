@@ -1,0 +1,30 @@
+X:1
+T:It's A Big Wide Wonderful World
+T:It's A Big Wide Wonderful World
+C:John Rox
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z A A |:"Dbmaj7" A3 | F3 | A F G |"G7b9" A2 F |"Cm7" G3 | E3 |"F7" E F G | G F E |"Bbm7" F3 | %10
+w: It's a|big|wide|won- der- ful|world you|live|in.|When you're in|love, your're a|mast-|
+w: |brave|new|star- spang- led|sky a-|bove|you.|When your'e in|love, you're a|he-|
+ D2 E |"Eb7" F D3/2 E/ | F E3/2 D/ |"Abmaj7" C E3/2 E/ | E3- |"Ebm7" E3- |1"Ab7" E A A :|2 %17
+w: er of|all you sur-|vey; you're a|gay San- ta|Clause.||* There's a|
+w: ro, a|Ne- ro, Ap-|pol- lo, the|Wiz- ard of|Oz.|||
+"Ab7" (E E) E ||"Dbmaj7" F3 | F3 |"Bbm7" F G A |"Eb7" B c3/2 d/ |"Cm7" e3 | e3 |"Fm7" e c B | %25
+w: |||pow- er and|glor- y, the|old,|old,|old- est of|
+w: * You've a|king-|dom,||||||
+ A B3/2 c/ |"Bbm7" d3 | d3 |"Eb7" d B A | G A B |"Abmaj7" c3- | c3 |"Ebm7" B3- |"Ab7" B A A | %34
+w: stor- ies is|new|true.|You've built your|Rome in just|one||day.|* Life is|
+w: |||||||||
+"Dbmaj7" A3 | F2 G |"Dbmaj7" A F G |"G7b9" A2 F |"Cm7" G3 | E2 G |"F7" G E F | G F E |"Bbm7" F3 | %43
+w: mys-|tic a|mid sum- mer's|night you|live|in a|Turk- ish de-|delight you're in|heav-|
+w: |||||||||
+"Bbm7" D2 E |"Eb7" F E F | G A B |"Ab6" A3- | A3 |] %48
+w: heaven. It's|swell when you're|real- ly in|love.||
+w: |||||
+

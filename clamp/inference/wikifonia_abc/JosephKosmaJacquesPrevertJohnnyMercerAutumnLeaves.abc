@@ -1,0 +1,24 @@
+X:1
+T:Autumn Leaves
+T:Autumn Leaves
+T:Joseph Kosma
+T:Jacques Prevert
+C:Joseph Kosma
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+ G A B ||"Cm7""^A" e4- |"F7" e F G A |"Bbmaj7" d2 d2- |"Ebmaj7" d E F G |"Am7b5" c4- | %6
+w: The fal- ling|leaves|* drift by my|win- dow,|* the au- tumn|leaves|
+"D7" c D =E ^F |"Gm6" B4 | z G A B |"Cm7" e4- |"F7" e F G A |"Bbmaj7" d2 d2- |"Ebmaj7" d E F G | %13
+w: * of red and|gold;|I see your|lips,|* the sum- mer|kis- ses,|* the sun- burned|
+"Am7b5" c4- |"D7" c A c B |"Gm6" G4 | z2 ^F G ||"Am7b5""^B" A D A2- |"D7" A A G A |"Gm7" B4- | %20
+w: hands|* I used to|hold.|Since you|went a- way|* the days grow|long,|
+ B B A B |"Cm7" c4- |"F7" c F f e |"Bbmaj7" d4- |"Ebmaj7" d2 ^c d |"Am7b5" e e c c |"D7" A3 e | %27
+w: * and soon I'll|hear|* old win- ter's|song,|* but I|miss you most of|all, my|
+"Gm7" d2"C7" d2- |"Fm7" d2"Bb7" G2 |"Ebmaj7" c3 B |"D7" A2 B D |"Gm6" G4 | z4 |] %33
+w: dar- ling,|* when|au- tumn|leaves start to|fall.||
+

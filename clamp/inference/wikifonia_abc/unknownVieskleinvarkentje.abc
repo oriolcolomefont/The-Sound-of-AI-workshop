@@ -1,0 +1,16 @@
+X:1
+T:Vies klein varkentje
+T:Vies klein varkentje
+C:unknown
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="stem"
+%%MIDI program 52
+V:1
+"F" F2 F2"Am" EEEE |"Bb" D2 D2"C" C2 z2 |"F" FFGF"Am" E2 EE |"Bb" DDEF"C" G2 z A | %4
+w: Vies klein var- ken- tje, je|moet in bad,|mod- der op je staart- je en|mod- der op je gat. Ik|
+"Gm" BBBA"C7" G2 AB |"F" ABAG"Dm" F2 z2 |"C" G2 c2"F" AGFF |"C7" G2 E2"F" F2 z2 |] %8
+w: zal je e- ven was- sen, ik|maak je lek- ker nat.|Vies klein var- ken- tje, je|moet in bad.|
+

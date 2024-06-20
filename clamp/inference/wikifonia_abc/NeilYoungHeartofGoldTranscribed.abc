@@ -1,0 +1,48 @@
+X:1
+T:Heart of Gold (Transcribed)
+T:Heart of Gold
+C:Neil Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Guitar" snm="Guit."
+%%MIDI program 24
+V:1
+"Emin" z2 EE EE EE |"D " D2 A,B,-"Emin" B,4 | z2 EE EE EE |"D " D2 A,B,-"Emin" B,4 | %4
+w: ||||
+ z2 E/G/B d2 c<B |"D " A2 GE-"Emin" E2 z2 | z2 d2 g>d e/dd/ |"D " e2 dB-"Emin" B2 z2 | %8
+w: ||||
+"Emin" z2 G/GG/"D7" d/dd/ d/dd/ | c2 dG-"Emin" G3 z | z2 EE EE EE |"D " D2 A,B,-"Emin" B,4 | %12
+w: ||||
+ z G GG"C " e4 |"D " z d dA"G " B4 |"Emin" z G GG"C " ee ee |"D " d2 AB-"G " B2 z2 | %16
+w: I want to live,|I want to give|I've been a mi- ner for a|heart of gold. *|
+"Emin" z G GG"C " e2 ed |"D " z d dA"G " B4 |"Emin" z E BA BA GE |"G " B2 ed- d2 B2 | %20
+w: It's these ex- pres- si- ons|I ne- ver give|that keep me search- ing for a|heart of go- * ld|
+"C " z2 EE GG/G/- G2 |"Amin""G " z8 |"Emin" z2 BB BA GE |"G " B2 ed- d/_B/=B- B2 | %24
+w: and I'm get- ting old. *||Keep me search- ing for a|heart of go- * l\- d *|
+"C " z2 EE GG/G/- G2 |"Amin" z4"G " z2 Gd |"Emin7" d4 z2 c<B |"D7" c2 dG-"G " G2 z2 | %28
+w: and I'm get- ting old. *||||
+"Emin" z2 b>a b2 f<g | eg ed/B/-"G " B2 cB |"Emin" b/b/ z/ d/ dd/B/ z/ B/ G FG | %31
+w: |||
+ A"D "G/B/ cd/B/-"Emin" B2 G2 | z e ee ee ee |"D " d2 de-"Emin" e4 | z G GG"C " ee e2 | %35
+w: |||I've been to Hol- ly- wood.|
+"D " z d dA"G " B2 B2 |"Emin" z G GG"C " ee ee |"D " d2 AB-"G " B2 z2 |"Emin" z G GG"C " e2 ed | %39
+w: I've been to Red- wood|I crossed the o\- cean for a|heart of gold. *|I've been in my mi- nd,|
+"D " z d dA"G " B2 B2 |"Emin" z B BB BA GE |"G " B2 ed- d/_B/=B- B2 |"C " z2 EE GG/G/- G2 | %43
+w: it's such a fine line|that keeps me sear- ching for a|heart of gold- * * * *|and I'm get- ting old. *|
+"Amin""G " z8 |"Emin" z2 BB BA GE |"G " B2 ed- d/_B/=B- B<G |"C " z2 EE GG/G/- G2 | %47
+w: |Keep me sear- ching for a|heart of gold * * * * *|and I'm get- ting old. *|
+"Amin" z4"G " z2 g/gd/ |"Emin" g2 e/dd/"C " g2 e/dd/ |"D " e>d ed-"G " d2 B2 | %50
+w: |||
+"Emin" z d gd/g/-"C " g/d/G d/GA/ |"D " cB cd/B/-"G " B2 c<B | %52
+w: ||
+"Emin" z/ d/4f/4 g- g/d/4d/4g"C " gd e/dd/ |"D " e2 dB-"G " B2 G2 |"Emin" z2 BB BB BB | %55
+w: ||Keep me sear- ching for a|
+"D " A2 DE-"Emin" E2 z2 | z E BB BB BB |"D " A2 GG-"Emin" G3 z | z2 BB BB BB | %59
+w: heart of gold. *|You keep me sear- ching and I'm|grow- ing old. *|Been a mi- ner for a|
+"D " A2 DE-"Emin" E2 z2 | z2 BB BB AG |"D " B2 ed- d/A/B-"G " B/A/G- |"C " G2 z A/B/- B2- B/A/G | %63
+w: heart of gold. *|Keep me sear- ing for a|heart of gold- * * * * * *||
+"Amin" A/BA/"C " EG- G4- |"G " G8 |] %65
+w: ||
+

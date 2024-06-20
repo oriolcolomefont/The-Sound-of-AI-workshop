@@ -1,0 +1,41 @@
+X:1
+T:SNOW FLAKE
+T:SNOW FLAKE
+T:NED MILLER
+T:NED MILLER
+C:Ned Miller
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:2/2
+K:none
+V:1 treble 
+%%MIDI program 40
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 40
+L:1/4
+V:1
+"C" G4 E4 | G4 E4 | G4 E4- | E2 z2 z4 |:"C" G G2 G- GGG_B- |"Bb" B _B2 B- BcBA |"C" z G2 E G2 GF- | %7
+w: ||||Snow was fal- * ling when love|* came cal- * ling on this|lone- ly haert of mine|
+w: ||||Ice was brea- * ing and love|* was wak- * ing in a|win- ter won- der- land|
+"F" F6 FF |"C" E2 EE- E2 ED- |"G7" DD D4 DB, |"C" C8- | C2 z2 z4 | G G2 G- GGGG | %13
+w: _ You were|stand- ing there * with snow-|* flakes * in your|hair||You kept stal- * ling while my|
+w: * When I|felt you slip * your _|_ fin- gers in my|hand||snow is glea _ ming and I'm|
+"Bb" _B2 BB- Bc B2 |"C" z2 GF G2 GF- |"F" F6 F2 |"C" E E2 E- E3 C |"G7" D D2 D- DC B,2 |"C" C8- | %19
+w: thoughts were cal- * ing on|ev- 'ry way I know|* for|one ex- cuse * to|get ac- quan * ted with|you|
+w: not- * drea _ ing I|know this is for real|* The|love I have _ is|to _ much _ to con-|ceal|
+ C2"^Tacet" A2 _B2 =B2 ||"F" c4 A4- | A2 c2 cdcA |"C" G4 E4- | E2 E2 F2 ^F2 |"G7" G2 GG GA G2 | %25
+w: * then I said|Snow flake|* my pret- ty lit- tle|snow- flake|* ooh ooh the|change in the weath- er has|
+w: _ Hey- ey ey||||||
+ F2 F2 FG A2 |"C" G8- | G2"^Tacet" A2 _B2 =B2 |"F" c4 A4- | A2 c2 cdcA |"C" G4 E4- | E2 E2 F2 ^F2 | %32
+w: made it bet- ter for|me|* Hey- ey- ey|snow flake|* my pret- ty lit- tle|snow flake|* you've got me|
+w: |||||||
+"G7" G2 GG GAGG | FF F2 FE D2 |1"C" C8- | C2 z2 z2 E2 :|2"C" C8- | C6 z2 |] %38
+w: warm as a fire * with the|burn- ing de- sire * for|you|* (2)The|You||
+w: ||||||
+V:2
+ x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | z3 G | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 | x4 :|2 x4 | %37
+ x4 |] %38
+

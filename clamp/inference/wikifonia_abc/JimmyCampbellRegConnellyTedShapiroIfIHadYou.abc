@@ -1,0 +1,30 @@
+X:1
+T:If I Had You
+T:If I Had You
+C:Jimmy Campbell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Bb" DE=EF dd_dc- |"Bb9" c2 z2"Bb7" dd_dc- |"Eb6" c4"Ebmaj7" dd_dc- |"Ebm6" c6 z2 | %4
+w: I could show the world how to smile,|_ I could be glad|_ all of the while;|_|
+"Bb" DE=EF"Dbdim" AA_AG- |"Cm7" G2 z2"F+7" AA_AG- |"Bb""Dbdim" G8- |"Cm7""F9" G6"F7" z2 | %8
+w: I could change the grey skies to blue|_ if I had you.|_||
+"Bb" DE=EF dd_dc- |"Bb9" c2 z2"Bb7" dd_dc- |"Eb6" c4"Ebmaj7" dd_dc- |"Ebm6" c6 z2 | %12
+w: I could leave the old days be- hind;|_ Leave all my pals,|_ I'd nev- er mind.|_|
+"Bb" DE=EF"Dbdim" AA_AG- |"Cm7" G2 z2"F+7" GFGB- |"Bb" B8- |"Em7b5""A7" B6 z2 |"Dm" d=ede d2 AB- | %17
+w: I could start my life all a- new|_ if I had you.|_||I could climb the snow- capped moun-|
+"Gm6" BB- B4"A7b9" z2 |"Dm" ABAB A2 F=E- |"Em7b5" E6"A7" z2 |"Dm" d=ede"Bm7b5" d2 AB- | %21
+w: * tains, _|sail the might- y o- cean wide;|_|I could cross the burn- ing de-|
+"Em7b5" BB-"A7" B4 z2 |"Dm" ABAB"Dm7" A2"G7" F=E- |"Cm7""Ebm6" E6"F7" z2 |"Bb" DE=EF dd_dc- | %25
+w: * sert *|if I had you by my side.|_|I could be a king, dear, un- crowned;|
+"Bb9" c2 z2"Bb7" dd_dc- |"Eb6" c4"Ebmaj7" dd_dc- |"Ebm6" c6 z2 |"Bb" DE=EF"Dbdim" AA_AG- | %29
+w: _ hum- ble or poor,|_ rich or re- nowned.|_|There is noth- ing I could- n't do|
+"Cm7" G2 z2"F+9" (3G2 F2 G2 |1"Bb""Dbdim" B8- ||"C7" B2"Cm7" z4"F+" z2 :|2"Bb""Ddim7" B8- || %33
+w: _ if I had|you.|_|you.|
+"C9" B2"F+" z2"Bb" z4 |] %34
+w: _|
+

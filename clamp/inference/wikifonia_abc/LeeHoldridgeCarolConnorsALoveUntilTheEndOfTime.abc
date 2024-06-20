@@ -1,0 +1,32 @@
+X:1
+T:A Love Until The End Of Time
+T:A Love Until The End Of Time
+C:Lee Holdridge
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F9" acac bcc'c |"F9" acac bcc'C |:"F9" A3 A BAGF |"Gm7/C" FEFG"C7" C3 C |"Gm7" B3 d"C7" cGAB | %5
+w: |* * * * * * * I|love you with a heart that|knows no one but you, ~A|love I nev- er thought I'd|
+"F9" A6 z C | A3 A BAGF |"Gm7/C" FEFG"C7" C3 C |"Gm7/C" B3 B"C7" AGFE |"F" F4 z2 z C | %10
+w: find. A|love that comes just once and|nev- er comes a- gain, a|love un- til the end of|time. I|
+"F9" A3 A BAGF |"Gm7/C" FEFG"C7" C3 C |"Gm7" B3 d"C7" cGAB |"F9" A6 z C | A3 A BAGF | %15
+w: give you all the love I|have in me to give, if|I could on- ly make you|mine, I'd|love you with a love I've|
+"Gm7/C" FEFG"C7" C3 C |"Gm7/C" B3 B"C7" AGFE |"F" F4"Cm7" z2"F7" z F ||"Bb" d3 F"C/Bb" EFGd | %19
+w: nev- er known be- fore, a|love un- til the end of|time. I|can't be- lieve that you are|
+"Am7" c3 G"Dm7" F3 F |"Gm7" BAGF"Gm7/C" BcdB |"F9" c6 z F |"Bb" d3 F"C/Bb" EFGd | %23
+w: not a dream You.re|ev- 'ry- thing I want- ed you to|be, I|al- ways knew some- day that|
+"Am7" c2 e2"Dm7" f3 F |"Bb" BAGF"Eb" BAGF |"Gm7/C" G6 c2 ||"F9" A3 A BAGF |"Gm7/C" FEFG"C7" C3 C | %28
+w: I would find A|love like ours un- til the end of|time. I|love you with a heart that|knows no oth- er love, a|
+"Gm7" B3 d"C7" cGAB |"F9" A6 z C | A3 A BAGF |"Gm7/C" FEFG"C7" C3 C |"Gm7/C" B3 B"C7" AGFE | %33
+w: love I can't be- lieve is|mine. Now|that I've found you, I will|nev- er let you go, From|now un- til the end of|
+"F" F4 z2 z F ||"Bb" d3 F"C/Bb" EFGd |"Am7" c3 G"Dm7" F3 F |"Gm7" BAGF"Gm7/C" BcdB |"F9" c6 z F | %38
+w: time. I|can't be- lieve that you are|not a dream You.re|ev- 'ry- thing I want- ed you to|be, I|
+"Bb" d3 F"C/Bb" EFGd |"Am7" c2 e2"Dm7" f3 F |"Gm7" BAGF"C7" G3 F |"F" F8 |] %42
+w: al- ways knew some- day that|I would find A|love un- til the end of|time;|
+

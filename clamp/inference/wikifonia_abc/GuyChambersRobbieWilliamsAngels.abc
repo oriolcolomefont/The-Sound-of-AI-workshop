@@ -1,0 +1,44 @@
+X:1
+T:Angels
+C:Guy Chambers, Robbie Williams
+Z:All Rights Reserved
+L:1/8
+Q:1/4=76
+M:4/4
+K:E
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"E" z8 |z4zB, G/F/(E | E2)z2zG B(c | c)Bz2zG B(c |"Asus2" c) B2(B"A" B2)"C#m/A" z2 | %5
+w: |I sit and wait,|_ does an an-|_ gel con- tem- plate|_ my fate, _|
+"B"z4z>B, G/F/E |"E"z2z>B, GF/(G/ G/)F/G |z2zG/F/ G B2(B |"Asus2" B6)"A""C#m/A" z2 | %9
+w: and do they know|the pla- ces where _ we go|when we're grey and old|_|
+"B"z2zB, GF(FE) |"F#m7" E2z2zG B(c |"A" c)Bz2zA B(c |"C#m7" c) B2(B B2) z2 |"A"z4z>G GA | %14
+w: 'cos I have been _|told that sal- va|_ tion lets their wings|_ un- fold. _|So when I'm|
+"D" A/G/A/G/ Azz2zB, |"A/C#" A/G/A/G/ Az"A"z2zG/G/ |"E" G/F/G/F/z(G G2) z2 |"D"zA AA"A/C#" GFEE | %18
+w: ly- ing in my bed thoughts|run- ning through my head and I|feel that love is dead, _|I'm lov- ing an- gels in- stead.|
+"E"z2zE GBz(fS ||"B" (f2) f>)e fe/(f/ f/)e/g |"C#m" f2z>c e/c/e ec/(f/ | %21
+w: And through it all|_ _ sh of- fers me _ pro- tec-|tion, a lot of love and af- fec-|
+"A" f)e z2"Asus2" c/c/c cB |"E" B2z>E GG/(B/ B/)B/(f |"B" (f2) f>)e f/e(f/ f/)e(g/ | %24
+w: _ tion whe- ther I'm right or|wrong. And down the wa- _ ter- fall|_ _ wher- ev- er it _ may take|
+"C#m" g<)fz>c ec/(e/ e/)c(f/ |"A" f)(e e) z"Asus2" cc/(c/ c/)B/B |"E/G#"z4zG FE/(G/ | %27
+w: _ me, I know that life _ won't break|_ me, _ when I come _ to call|she won't for- sake|
+"F#m" G)(F F) z z4 |"D9"zA AA"A/C#" GFEOE |"E" z8 ||zG/F/ G/F/(E E) z GB/(c/ | c) B2(B B2)zE/(F/ | %32
+w: _ me, _|I'm lov- ing an- gels in- stead||When I'm feel- ing weak _ and my pain|_ walks down _ a one|
+"Asus2" F) G2E"A" z4"C#m/A" |"B"z4z>B, G/F/E |"E"z4zG B(c | c) B2(B B)BB(F | %36
+w: _ way street,|I look a- bove|and I know|_ I'll al- _ ways be blessed|
+"Asus2" F) G2(E"A" E2)"C#m/A" z2 |"B"z4z2z>B, |"D" A/G/A/G/ (A2 A)zz/A/A | %39
+w: _ with love, _|and|as the feel- ing grows _ she brings|
+"A/C#" AA/G/ A2"A"z2z>B, |"E" G/G/G G2 z4 |"D9"zA AA"A/C#" GFEE |"E"z2zE G B2(fSO ||"E" z8) |: %44
+w: flesh to my bones and|when love is dead,|I'm lov- ing an- gels in- stead.|And throug is all||
+"Bm" z8 |"F#m/A" z8 |"E" z8 | z8 |"Bm" z8 |"F#m/A" z8 |1"E" z8 | z8 |2z2"E/G#"zE GBz(f | %53
+w: ||||||||And through it all|
+"B" (f2) f>)e fe/(f/ f/)e/g ||"C#m" f2z>c e/c/e ec/(f/ |"A" f)e z2"Asus2" e/e/e ee | %56
+w: _ _ she of- fers me _ pro- tec-|tion, a lot of love and af- fec-|_ tion whe- ther I'm right or|
+"E" B2z>E GG/(B/ B/)B/(f |"B" (f2) f>)e f/ef/z/b(g/ |"C#m" g)fz>c ec/(e/ e/)c(f/ | %59
+w: wrong. And down the wa- ter- fall _|_ _ wher- ev- er * may take|_ me, I know that life won't break _|
+"A" f)(e e) z"Asus2" cc/c/z/B/B |"E/G#"z4zG FE/(G/ |"F#m" G) F2 z z4 |"D9"zA AA"A/C#" GFEE | %63
+w: _ me, _ when I come to call|she won't for- sake|_ me,|I'm lov- ing an- gels in- stead.|
+"E" !fermata!z8 |] %64
+w: |
+

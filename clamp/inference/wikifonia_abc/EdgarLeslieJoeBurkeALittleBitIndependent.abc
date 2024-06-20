@@ -1,0 +1,33 @@
+X:1
+T:A Little Bit Independent
+T:A Little Bit Independent
+T:Edgar Leslie & Joe Burke
+C:Edgar Leslie & Joe Burke
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z C |:"F" (3c=Bc B>c B c3 | C2 ^CD- D3 =C | (3c=Bc B>c B c3 |"D7" E2 _ED- D3 D | %5
+w: A|Lit- tle Bit In- de- pen- dent|in your walk, * A|lit- tle bit in- dep- en- dent|in your talk, * there's|
+w: |Lit- tle Bit In- de- pen- dent|when we dance, * A|lit- tle bit in- de- pen- dent|t'wards ro- mance, * a|
+"Gm" (3d^cd c>d c d3 | D2 ^DE-"C7" E4 |"F" z3/2 C<FG/"Db7" _A>B"C7"A>G |1"F" F4"C7" z2 z C :|2 %9
+w: no- thing like you in Pa- ris|or New York- *|you're aw- f'ly ea- sy on the|eyes. A|
+w: bit of so- phis- ti- ca- tion|in your glance,- *|and yet you're ea- sy on the||
+"F" F6 z2 ||"F7" z3/2 F<GA/ c3 A |"Cm7" (3GAG-"F7" G6 |"Bb" z3/2 F<GA/ d2 A2 | G8 | %14
+w: |||||
+w: eyes.|When- ev- er I'm with|you a- lone, *|you weave a masg- ic|spell,|
+"G7" z3/2 G<A=B/ d3 B | (3A=BA- A6 |"Gm7" (3G2 A2 B2 d>B G2 |"C7" E4- E3 C |"F" (3c=Bc B>c B c3 | %19
+w: |||||
+w: and tho' it be a|dan- ger zone, *|I on- ly know that you're|swell. * A|lit- tle bit in- dep- en- dent|
+ C2 ^CD- D3 =C | (3c=Bc B>c B c3 |"D7" E2 _ED- D3 D |"Gm" (3d^cd c>d c d3 | D2 ^DE-"C7" E4 | %24
+w: |||||
+w: with your smile * a|lit- tle bit in- dep- en- dent|in your style * but|how can I help but love you|all the while,- *|
+"F" z3/2 C<FG/"Db7" _A>B"C7"A>G |"F" F6 z2 |] %26
+w: ||
+w: when you're so ea- sy on the|eyes.|
+

@@ -1,0 +1,28 @@
+X:1
+T:Corcovado
+T:Corcovado
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"D9" z E2 D E D2 E- | ED E6 |"Abdim7" z E2 D E D2 E- | ED E6 |"Gm7" z D2 C D C2 D- | %5
+w: Qui- et nights of Qui-|* et stars,|qui- et chords from my|* gui- tar|float- ing on the si-|
+"C7" D C2 F- F"Gb7" E2 E- |"Fdim7" E3 D-"Fmaj7" D4- | D6 z2 |"Fm7" z G2 F G F2 G- | %9
+w: * lence tha * sur- rounds|* us, *||Qui- et thoughts and qui-|
+"Bb13" G F2 G- G4 |"Em7" z F2 E F E2 F- |"A+7" FE F6 |"D9" z E2 D E D2 E- | E D2 E- ED"Dm7" F2- | %14
+w: * et dreams, *|qui- et walks by qui-|* et streams,|and a win- dow look-|* ing on * the moun-|
+ F E2 F E2"Abdim7" F2- | F E2 D- D C3 |"D9" z E2 D E D2 E- | E D2 E- E4 |"Abdim7" z E2 D E D2 E- | %19
+w: * tains and the sea.|* How love- * ly!|This is where I want|* to be. *|Here, with you so close|
+ ED E2- E G2 D- |"Gm7" D4 (3C2 D2 C2 |"C7" D C2 F- F"Gb7" E2 E- |"Fdim7" E3 D-"Fmaj7" D4- | D6 z2 | %24
+w: * to me, * un- til|* the fin- al|flick- er of * life's em-|* ber. *||
+"Fm7" z c2 _B- B_AGF |"Bb7b5" E3 D- D4 |"Em7" z2 z B AGFE |"Am7" D3 C- C4 |"Dm7" z2 z A GFED | %29
+w: I, who * was lost and|lone- ly, *|be- liev- ing life was|on- ly *|a bit- ter tra- gic|
+"G7b9" C B,2 C- C D2 G- |"Em7" G8- |"A+7" G4 z4 |"Dm7" z2 z A GFED |"G9" C B,2 C- C D2 C- | %34
+w: joke, have found * with you|||the mean- ing of ex-|is- tence, oh, * my love.|
+"C6" C8- | C6 z2 |] %36
+w: ||
+

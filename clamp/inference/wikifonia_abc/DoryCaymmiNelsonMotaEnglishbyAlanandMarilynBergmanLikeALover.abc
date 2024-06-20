@@ -1,0 +1,47 @@
+X:1
+T:Like A Lover
+T:Like A Lover
+C:Dory Caymmi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cmaj7" z2 CD E E2 G |"G7sus4" F2 ED- D4 |"Cmaj7" z2 CD E E2 G |"D/C" ^F2 FE- E E2 D- | %4
+w: Like a lov- er the|morn- ing sun _|slow- ly ris- es and|kiss- es you _ a- wake.|
+w: Like a lov- er the|riv- er wind _|sighs and rip- ples it's|fin- gers thru _ your hair.|
+"Bm7" D4"Em7" z2 G2 |"A13sus4" ^F2 FE-"A9" E E2 F- |"Dmaj7" FDA,D ^FA G2- | %7
+w: _ Your|smile is soft _ and drow-|* sy as you let it play|
+w: _ Up-|on your cheek _ it ling-|* ers, nev- er hav- ing known|
+"G13" G2 GG-"G+7" G G2 c- |"Fmaj7" c8 |"G/F" B4 A G2 E- |"Cmaj7" E2 CD E E2 G | %11
+w: _ up- on _ your face.|_|Oh, how I dream|_ I might be like the|
+w: _ a sweet- * er place.|_|Oh, how I dream|_ I might be like the|
+"G7sus4" F2 ED- D2 CC- |"Cmaj7" C8 |"G7sus4" z8 :|"Cmaj7" z2 ED"Fm6/C" F F2 E | %15
+w: morn- ing sun _ to you.|_||How I en- vy a|
+w: riv- er wind _ to you.|_|||
+"Cmaj7" D2 DC- C B,2 A,- |"D/C" A,2 ^FE G2 F2- | F4- F D2 B,- |"Bm7" B,2 AG"B7b9" B B2 A | %19
+w: cup that knows _ your lips,|_ let it be me|_ _ my love,|_ And a tab- le that|
+w: ||||
+"Em7" G2 GA- AG A2- |"F#m7b5" A2 BA c2 B2- |"B13" (3B2 B2 A2"B+7" c B2 G- | %22
+w: feels your fig- * ger- tips,|_ Let it be me,|_ Let me be your love,|
+w: |||
+"Em7" G2 G^F (3A2 A2 G2 |"Am7" C2 C"Gm7"D- DC"D/F#" D2- | D3 C E2 D2- |"G7sus4" D8- | D8 | %27
+w: _ Bring and end to the|end- less days _ and nights|_ with- out you.|_||
+w: |||||
+"Cmaj7" z2 CD E E2 G |"G7sus4" F2 ED- D4 |"Cmaj7" z2 CD E E2 G |"D/C" ^F2 FE- E E2 D- | %31
+w: Like a lov- er the|vel- vet moon, _|~shares your pil- low and|watch- es while _ you sleep.|
+w: ||||
+"Bm7" D4"Em7" z2 G2 |"A13sus4" ^F2 FE-"A9" E E2 F- |"Dmaj7" FDA,D ^FA G2- | %34
+w: _ It's|light ar- rives _ on tip-|* toe, gent- ly tak- ing you|
+w: |||
+"G13" G2 GG-"G+7" G G2 c- |"Fmaj7" c8 |"G/F" B4 A G2 E- |"Cmaj7" E2 CD E E2 G | %38
+w: _ in it's _ em- brace.|_|Oh, how I dream|_ I might be like the|
+w: ||||
+"G7sus4" F2 ED- D2 CC- |"Cmaj7" C8 |"G7sus4" z8 |] %41
+w: vel- vet moon _ to you.|_||
+w: |||
+

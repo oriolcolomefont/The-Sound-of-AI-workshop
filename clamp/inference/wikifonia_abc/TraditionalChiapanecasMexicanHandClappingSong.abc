@@ -1,0 +1,39 @@
+X:1
+T:Chiapanecas (Mexican Hand Clapping Song)
+T:Chiapanecas (Mexican Hand Clapping Song)
+T:Traditional
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z G F |"C" E3/2 ^D/ E- | E"G7" G F |"C" E3/2 ^D/ E- | E C D | E3/2 D/ C- | C"G9" D2 | %7
+w: Un cla-|vel cor- te|* por la|sierre a- zul|* cam- in|it- o de|* mi|
+w: |||||||
+"G7" C3/2 B,/ B, | B, F E | D3/2 ^C/ D- | D F E | D3/2 ^C/ D- | D B, C | D3/2 C/ B,- | B, E2 | %15
+w: * ran- cho|co- mo el|vien- to fue|* mi cab-|allo fi- el|* a li-|ev- arm- e|* hasta|
+w: ||||||||
+"C" D3/2 C/ C | C"G7" G F |"C" E3/2 ^D/ E- | E"G7" G F |"C" E3/2 ^D/ E- | E C D | E3/2 D/ C- | %22
+w: su la- do|* Lin- da|flor- de a-|bril to- ma|este cla- vel|* que te-|brin- do con|
+w: |||||||
+"C7" C _B2 |"F" A3- | A c B | A3/2 ^G/ A- | A B A |"C" G3/2 ^F/ G- | G A G |"Dm" F F E- | %30
+w: * pas-|ion|* no me|dig- as no|* que'en tu|boca est- a|* el sec-|re- to de|
+w: ||||||||
+"G7" E D2 |"C" C z"G7" G |"C" c z z |:"C" C C E | G E C |"G7" B, z A | G z z | B, B, D | F D B, |1 %39
+w: mi a-|mor *||Cua- do la|no- che lie-|go *||y con su|man tode ~~a-|
+w: |||el blan- co|ran- cho cu-|brio *||a- legre el|baile em- pe-|
+"C" C z"G9" A ||"C" G z z :|2"C" C z"G7" G ||"C" c z z |:"F" A3 |"A7" A3 |"Dm" A A F | A c2 | %47
+w: zul *||zo *||Bai-|la|mi Chia- pa-|ne- ca|
+w: ||||||||
+"C" G3 |"G7" G3 |"C" G G E | G c2 |"Dm" F3 |"Dm7" F3 |"G7" F F D | D G F |1"C" E3- || E3 | %57
+w: Bai-|la|bai- la con|gar- bo|Bai-|la|sua- ve ra-|* yo de|luz||
+w: ||||que'en|el|bai- le Rei-|* na'er es|||
+"C7" z C D | E F G :|2"C" E E F ||"G7" G A B |"C" c z"G7" G |"C" c z2 |] %63
+w: ||tu Chia- pa-|ne- ca gen-|til. *||
+w: ||||||
+

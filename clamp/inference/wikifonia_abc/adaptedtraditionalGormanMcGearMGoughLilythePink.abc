@@ -1,0 +1,35 @@
+X:1
+T:Lily the Pink
+T:Lily the Pink
+C:adapted traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"A7""^Refrain" A6 |"D" F2 F F2 F | F2 A AGF |"A7" E2 E E2 E | E2 E E2 F | G6- | G2 B A2 G | %7
+w: We'll|drink a drink a|drink to Li- ly the|pink, the pink, the|pink, the sav- iour|of|_ the hu- man|
+w: |||||||
+w: |||||||
+"D" (F2 d A3-) | A z A A2 G | F3 F3- | F2 A AGF |"A7" E3 E3- | E2 E E2 F | G3 G3- | G2 G F2 E | %15
+w: race. _ _|_ For she in-|vent- ed|_ med- i- cin- al|com- pound|_ most ef- fi-|ca- cious|_ in ev- ery|
+w: ||||||||
+w: ||||||||
+"D" D6- | D z"^Fine" |]"^Verse" A2 G |"D" F3 F3- | F2 A AGF |"A7" E3 E3- | E3 E2 F | G3 B3 | %23
+w: case.|_|1.Mis- ter|Fle- ars|_ had stick- ing out|e- ars|_ and it|made him|
+w: ||2.Bro- ther|To- ny|_ was known to be|bo- ny|_ he would|ne- ver|
+w: ||3.John- ny|Ham- mer|_ hada t,t,ter- rib- le|s,s,stam- mer|_ He could|hard- ly|
+ A3 G3 |"D" (F2 d A3-) | A z A A2 G | F3 F3- | F2 A AGF |"A7" E3 E3- | E3 E2 F | G3 G3- | G3 F2 E | %32
+w: aw- ful|shy _ _|_ and so they|gave him|_ med- i- cin- al|com- pound|_ Now he's|learn- ing|_ how to|
+w: eat his|meals. _ _|_ And so they|gave him-|_ med- i- cin- al|com- pound|_ Now they|move him|_ round on|
+w: say a|w,w,word _ _|_ And so they|gave him|_ med- i- cin- al|com- pound|_ Now he's|seen, but|_ nev- er|
+"D" D6 |] %33
+w: fly.|
+w: wheels.|
+w: heard.|
+

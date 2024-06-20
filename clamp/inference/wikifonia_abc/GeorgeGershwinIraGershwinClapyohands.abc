@@ -1,0 +1,24 @@
+X:1
+T:Clap yo' hands
+T:Clap yo' hands
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"F" CD F2 F4 |"Gm7" GA c2"C7" c4 |"F" CD F2 F2 GA |"C7" c2 c2 cdcA |"Bb" G2 F2 B2 _A2 | %5
+w: Clap- pa yo' hands|slap- pa yo' thighs|Hall- e- lu- jah Hall- e-|lu- jah ev'- y- bod- y|come a- long and|
+"C7" G2 F2 _A G3 |"F" F8- | F8 |"F" CD F2 F4 |"Gm7" GA c2"C7" c4 |"F" CD F2 F2 GA | %11
+w: join the Ju- bil-|ee||Clap- pa yo' hands|slap- pa yo' thighs|Don't you lose time don't you|
+"C7" c2 c2 cdcA |"Bb" G2 F2 B2 _A2 |"C7" G2 F2 _A G3 |"F" F8- |"G7" F8 |"Cm" c2 d2"Fm7" _e2 d2 | %17
+w: lose time come- a- long and|shake your shoes, time|now for you and|me||On the sands of|
+"Cm/G" d2 cd"G7" _ed e2 |"Cm" cc- c6- | c2 d2"F7" c2 A2 |"Bb" F2 G2 _A2 G2 | %21
+w: time you are on- ly a|peb- ble *|* but then the|troub- le must be|
+"Bbm" F2 G2"C7" _AG A2 |"Fm" FF- F6 |"C+" cccc cd z2 |"F" CD F2 F4 |"Gm7" GA c2"C7" c4 | %26
+w: treat- ed just like a|reb- el *|Send it to the dev- il|Clap- pa yo' hands|slap- pa yo' thighs|
+"F" CD F2 F2 GA |"C7" c2 c2 cdcA |"Bb" G2 F2 B2 _A2 |"C7" G2 F2 _A G3 |"F" F8- | F8 |] %32
+w: Hall- e- lu- jah hall- e-|lu- jah Ev'- ry- bod- y|come a- long and|join the Ju- bil-|ee||
+

@@ -1,0 +1,32 @@
+X:1
+T:Fairest Lord Jesus
+T:Fairest Lord Jesus
+T:German 17th Century
+T:Public Domain
+C:from Schlesische Volkslieder
+Z:Public Domain
+L:1/4
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^100" F2 F F |"Bb" (G"C" E)"F" F2 |"F" A3/2 A/"Dm" A A |"Bb" (B"C" G)"F" A2 | c2"Bb" f"Dm" d | %5
+w: 1.~Fair- est Lord|Je- * sus!|Rul- er of all|na- * ture!|O Thou of|
+w: 2.~Fair are the|mead- * ows;|Fair- er still the|wood- * lands,|Robed int the|
+w: 3.~Fair is the|sun- * shine;|Fair- er stil the|moon- * light,|And all the|
+w: 4.~Beau- ti- ful|Sav- * iour!|Lord of all the|na- * tions!|Son * of|
+"F" c2"C7" (B"F" A) |"C7" B2"F" A2 |"C" G4 |"F" c2"Bb" d"F" c |"D7" (c A)"G" B2 | %10
+w: God and *|man, the|Son!|Thee will I|cher- * ish;|
+w: bloom- ing *|garb of|spring.|Je- sus is|fair- * er,|
+w: twin- kling *|star- ry|host.|Je- sus shines|bright- * er,|
+w: God and *|Son of|Man!|Glo- ry and|hon- * or,|
+"G" B2"Bb" c"F" B |"C7" (B G)"F" A A | A"Dm" A c"Bb" B |"F" A2"C""C7" G2 |"F" F4 |] %15
+w: Thee will I|hon- * or, Thou,|my soul's glo- ry,|joy, and|crown.|
+w: Je- sus is|pur- * er Who|makes the woe- ful|heart to|sing.|
+w: Je- sus shines|pur- * er Than|all the an- gels|heav'n can|boast.|
+w: Praise, ad- o-|ra- * tion, Now|and for- ev- er-|more be|Thine!|
+

@@ -1,0 +1,34 @@
+X:1
+T:Ain't Misbehavin'
+T:Aint Misbehavin'
+C:Thomas Fats Waller, Harry Brooks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z B |"Eb" ef g2 geB=A- |"Adim7" Ace^f- f=A z2 |"Ab6" (3CFA c=B _B=A_AC |"Bb13" ECBG- G4 || %5
+w: |||||
+"Eb" z EFE"Edim7" B B3 |"Fm7" z FGF"F#dim7" c4 |"Eb" z BcB"G+7" e e2 d |"Ab6" fecG- G"Db9b5"_G F2 | %9
+w: No one to talk with,|all by my- self.|No one to walk with, but|I'm hap- py on _ the shelf.|
+"Eb/G" z EFE"Gb7" B B3 |"Fm7" z F GF"Bb9" c c2 B |"Eb""C7" G8- |"Fm9" G4"Bb13" z4 | %13
+w: Ain't mis- be- hav- in',|Just sav- ing my love for|you.||
+"Eb" z EFE"Cm7" B B3 |"Fm7" z FGF"F#dim7" c4 |"Eb" z BcB"Eb7" e e2 d | %16
+w: I know for cer- tain,|the one I love.|I'm through with flirt- in', it's|
+"Ab6""Ab6" fecG- G"Db9b5"_G F2 |"Eb/G" z EFE"Gb7" B B3 |"Fm7" z FGF"Bb9" c c2 B | %19
+w: just you I'm think- * in' of.|Ain't mis- be- hav- in',|I'm sav- ing my love for|
+"Eb" E4-"Ab9" E4- |"Eb" E4"G+7" z4 |"Cm" z2 ec e c3 |"Ab7" z2 ec e c3 |"F7" z2 ec e c3 | %24
+w: you. *||Like Jack Horn- er,|in a corn- er.|Don't go no- where,|
+"C7" z2 =ec e c3 |"Ab" z2 f2"G7b9" f2 f2 |"Cm7" f2 e2"F7" d2 c2 |"Bb7" B4"Bb9" c4 | %28
+w: what do I care?|Your kiss- es,|they're worth wait- ing|for, be-|
+"Bb13" G4"Bb7" F4 |"Eb" z EFE"Cm7" B B3 |"Fm7" z FGF"F#dim7" c4 |"Eb" z BcB"Eb7" e e2 d | %32
+w: lieve me.|I don't stay out late,|don't care to go.|I'm home a- bout eight, just|
+"Ab6""Ab6""Ab6" fecG- G"Db9b5"_G F2 |"Eb/G" z EFE"Gb7" B B3 |"Fm7" z FGF"Bb9" c c2 B |"Eb" e8 | %36
+w: me and my ra- * di- o.|Ain't mis- be- hav- in',|still sav- ing my love for|you.|
+"Eb13" z4 z4 |] %37
+w: |
+

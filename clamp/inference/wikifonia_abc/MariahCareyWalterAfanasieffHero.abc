@@ -1,0 +1,58 @@
+X:1
+T:Hero
+C:Mariah Carey, Walter Afanasieff
+L:1/16
+M:4/4
+K:E
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Moderate Ballad""^E(add9)" z16"^E/D#" |"^C#7" z16"E/B" |"A" z16"^E/G#" | %3
+w: |||
+w: |||
+"^F#m7" z8"B7sus4" z4 B,2E2 |:"^E(add9)" F2 E6z4z2B,E |"Bm/D" F2F(F F)G2(E E4)z2B,E | %6
+w: There's a|he- ro if you|look in- side _ your heart. _ You don't|
+w: |long road when you|face the world _ a- lone. _ No one|
+"^C#m7" F2F(F F)E(E2 E2)D2 EF2((C |"B7sus4" C2) B,6)"B7" z4 B,2E((F | %8
+w: have to be _ a- fraid _ of what you are.|_ _ There's an an-|
+w: reach- es out _ a hand _ for you to hold.|_ _ You can find|
+"^E(add9)" F2)G2) (F2<E2)z4z2B,E |"^D/F#" F2F(F F)G(A2 A4)z2B,E | %10
+w: _ _ swer _ if you|reach in- to _ your soul _ and the|
+w: _ _ love _ if you|search with- in _ your- self _ and the|
+"^C(addD)" A2=G(G G)F(G(E E2>))=D2 EF2(F |"B7sus4" F12)"B7" z4S || %12
+w: sor- row that _ you know _ _ will melt a- way.|_|
+w: emp- ti- ness _ you felt _ _ will dis- ap- pear.|_|
+"^E(add9)"z4zB,ED F2E(E"^E/D#" E2)D(E |"^C#m7" E4)z2ED G2F(E E2)"E/B"F(E | %14
+w: And then a he- ro comes _ a- long|_ with the strength to car- _ ry on|
+w: ||
+"^A(addB)" E4)z2ED F2E(E"^G#m7" E2)D(C |"^F#m7" C4)z2ED"A/B" C2D(E E)B2(G | %16
+w: _ and you cast your fears _ a- side|_ and you know you can _ sur- vive.|
+w: ||
+"^E(add9)" G4)zB,GF A2G(G"^E/D#" G2)F(E |"^C#m7" E4)z2GF"E/B" c2G(G G2)B(E | %18
+w: _ So when you feel like hope _ is gone,|_ look in- side you and _ be strong.|
+w: ||
+"^A(addB)" E4)z2ED F2E(E"^E/G#" E2)F(E"^To Coda"O |"^F#m7" E4)z2ED"B7sus4" G2F(E E2)F((G |1 %20
+w: _ And you'll fin- ally see _ the truth,|_ that a he- ro lies _ in you.|
+w: ||
+"^E(add9)" G)F E6) z8"^E/D#" |"^C#m7"z8"A/B"z4zB2G :|2"^E(add9)" (GF E6) z8 || %23
+w: _ _ _|It's a||
+w: |||
+"C" z4 (e2=dB)"G/B" (dB(=G2 G)AB2) |"G" z4 =D=G2(A"D" A)F2(E E2<)D2 |"C"z2>=D2 =G2<G2"G/B" =FE D6 | %26
+w: Lord _ _ knows _ _ _ _ _|dreams are hard _ to fol- _ low|but don't let an- y- one|
+w: |||
+"G" B2"^D/F#"A2"Em7"=G2"D"(A2 A8) |"C" z4 (e2=dB)"G/B" (dB(=G2 G)AB2) | %28
+w: tear them a- way. _|Hold _ _ on, _ _ _ _ _|
+w: ||
+"G" z4 =D=G2(A"D" A)F2(E E2<)D2 |"C" z4 E4"G/B" =D4 (3D2=G2A2 |"^D.s."S"B7sus4" B16"^al Coda"O || %31
+w: there will be _ to- mor- _ row.|In time you'll find the|way.|
+w: |||
+O"^F#m7" E4z2ED"B7sus4" G2F(E E2)F((G |"A" G)F E6)"^E/G#" z8 | %33
+w: * that a he- ro lies _ in you,|_ _ _|
+w: ||
+"^F#m7"z4z2ED"B7sus4" G2F2E2"B7"!fermata!D2 |"^E(add9)" (F2 (E6 E8))"^E/D#" |"^C#m7" z16"E/B" | %36
+w: that a he- ro lies in|you, _ _||
+w: |||
+"A"z4z2ED"A/B" G2F2E2"B7"!fermata!D2 |"^E(add9)" !fermata!E16 |] %38
+w: that a he- ro lies in|you.|
+w: ||
+

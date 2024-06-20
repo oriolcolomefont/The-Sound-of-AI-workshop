@@ -1,0 +1,38 @@
+X:1
+T:Tu Mi Delirio
+T:TU MI DELIRIO
+T:Cesar Portillo de La Luz
+T:Trasncription:  ALBETAN
+T:- 2 -
+C:Cesar Portillo de La Luz
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Bolero Lento""G" agag"Bbdim" fefe |"Am7" dcEG"D7" B2 A2 |"G" AGAG"Bbdim" FEFE | %3
+w: |||
+"Am7" DCEG"D7" B4 ||"G" D2 DD- D D2 D |"Bb7" D2 D2 z DG=F |"Ebmaj7" D2 D6- |"Ab9" D2 z2 z _B,CD- | %8
+w: |SI PU- DIE- * RA``EX PRE|SAR TE CO MO´ES DE´IN|MEN- SO|* DES DE´EL FON|
+"A7sus4" DDDD- D=F_ED- |"D7" D4 z D2 A- |"Gmaj7" A F2 D- D4- |"G" D2"G/F#" z2"G/E" z2"Eb7" z2 | %12
+w: * DO DE MI * CO RA ZON|* MI´A MOR|* POR TI *||
+"D7sus4" G2 GG- G G2 G |"Db7b5" G2 G2 z GBA |"Cmaj7" G G2 G- G4- |"F9" G2 z2 z2 z2 | %16
+w: ES TE´A MOR * DE LI|RAN TE QUE`A BRA ZA|MI AL MA *||
+"Em7" z G2 G G2 GG |"A7" G2 A2 z B2 A- |"Am7/D" A G2 A- A4- |"D7" A2 z2"Ab9" z4 |"G" D2 D2 z DDD | %21
+w: ES PA SION QUE`A TOR|MEN TA MI CO|* RA ZON. *||SIEM- PRE TU`ES TAS CON|
+"Bb7" D2 D2 z DG=F |"Eb" D2 D6- |"Ab9" D2 z2 z _B,CD- |"A7sus4" D =F2 _E D3 D- | %25
+w: MI GO EN MI TRIS|TE ZA|* ES TAS EN|* MI`A LE GRI A|
+"D7" D4"D/C" z DAG |"Bm7b5" B8- |"E7" B2 z2 z cBd- |"Am7" d6 d2 |"Cm" c2 B2"F7" z AGD | %30
+w: * Y`EN MI SU|FRIR|* POR QUE'EN TI|* SE'EN|CIE RRA TO DA MI|
+"Gmaj7" F2 F6 |"Bm7" z3 A-"Bbdim" AGFE |"Am7" DDDD- D4 |"D7" z4"D/C" z DEF |"Bm7b5" d8- | %35
+w: VI DA|SI * NO'ES TAS CON|MI GO MI BIEN *|NO SOY FE|LIZ|
+"E7" d2 z2 z c2 B |"Am7" d6 d2 |"Cm" c2 B2"F7" z AGB |"Gmaj7" F2 F6 |"Bm7" z2 AG"Bbdim" z F2 E | %40
+w: * ES PA|SION DE|LI RIO DE'ES TAR CON|TI GO|PE RO SOY DI|
+"Am7" D2 D2 z3 D- |"D7" DDDD A3 G |"G" G8"^D.C." |] %43
+w: CHO SO POR|* QUE ME QUIE RES TAM|BIEN.-|
+

@@ -1,0 +1,27 @@
+X:1
+T:For All We Know
+T:For All We Know
+T:Words & Music by J. Fred Coots, Sam M. Lewis
+C:Fred Coots, Sam M Lewis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z C |"F6" F3 C |"G9" A3 G/F/ |"C7" E/>F/ (3G/A/G/- G2- |"Gm7" G z"C7" z C |"F6" A3 F | %6
+w: For|all we|know we may|nev- er meet a- gain. *|* Be|fore you|
+"D7" c3 B/A/ |"Gm" G/>A/ (3B/c/B/- B2- |"Bbm" B z"C7" z"E7/D" =B |"F" c2 c c |"D9" e3"D" d | %11
+w: go make this|mo- ment sweet a- gain. *|* We|wont say good-|night un-|
+"Gm7" c2 B c |"C7" A G2 C |"F6" F2 F F |"^Fdim6" D2 E F |"Gm7" B2 D F |"C7" A G z C |"F6" F3 C | %18
+w: til the last|min- ute, I'll|hold out my|hand and my|heart will be|in it. For|all we|
+"G9" A3 G/F/ |"C7" E/>F/ (3G/A/G/- G2- |"Gm7" G z"C7" z C |"F6" A3 F |"D7" c3 B/A/ | %23
+w: know this may|on- ly be a dream. *|* We|come and|go like a|
+"Gm" G/>A/ (3B/c/B/- B2- |"Gm7" B z"C7" z"E7/D" =B |"^Fma7" c2 c c |"E7" e3 d |"A7" (3^c d e A A | %28
+w: rip ple on a stream. *|* So|love me to-|night to-|mor- row was mande for|
+"D7" A3"D7b9" A |"Gm7" (3B c d G G |"C7" G G"Bb" F"C7" E |"F6" c4- |"D7" c3"D7b9" A | %33
+w: some, to-|mor- row may nev- er|come for all we|know,|* to-|
+"Gm7" (3B c d G G |"C7" G G"Bb" F"C7" E |"Db/Ab" F4- |"Fmaj9/A" F3 z |] %37
+w: mor- row may nev- er|come for all we|know.||
+

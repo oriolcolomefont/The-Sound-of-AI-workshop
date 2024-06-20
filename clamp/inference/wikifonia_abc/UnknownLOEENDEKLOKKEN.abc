@@ -1,0 +1,28 @@
+X:1
+T:LOEENDE KLOKKEN
+T: Laukens Music Productions  
+T:Wals
+T:LOEENDE KLOKKEN
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" c3 | B3 | A3 |"Cdim" B2 c |"D7" d2 c | B2 A |"G7" G3- | G2 G |:"C" e2 e |"F" c2"Fm" d | %10
+"C" e3- | e2 c |"F" A2 A |"Fm" c2 f |"C" e3- | e2 G | e2 e |"F" c2"Fm" d |"C" e3 | c2 e | %20
+"D7" d2 A | c2 B |"G7" d3- | d2 G | d2 ^c | d2 e |"C" d3 | c2 c |"F" f2 f |"Fm" c2 d |"C" e3- | %31
+ e2 e |"D7" d2 d | e2 ^f |"G7" g3 | d2 e |"D7" d2 A | c2 B |"G7" d3 ||"C" G c d | e3 | c3- | c2 e | %43
+"F" f e ^d |"C" e3- | e3- | e3 | e f e |"G7" e3 | d3- | d2 G | f e ^d |"C" e3- | e3- | e3 | %55
+"C7" c d e |"F" f3 | c3- | c2 f | f3/2 g/ f |"C" e3 | c3- | c3 | c B c |"G7" d3 | G3- | G2 G | %67
+ f e d |"C" c3- | c3- | c3- | c3 ||"G7" g3 | d3 |"C" g3 | e3 |"G7" g d d | d c d |"C" e3- | e3 | %80
+"G7" g3 | d3 |"C" g3 | e3 |"G7" g d e | f3/2 e/ d ||1"C" c3- | c2 G :|1"C" c3 ||"F" f3 |"C" e3 | %91
+"G7" d3 |"C" c3- | c z z |] %94
+

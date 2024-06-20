@@ -1,0 +1,51 @@
+X:1
+T:Chan Chan
+C:Francisco Repilado
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Dmin
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+|:"^play 3 times""^intro""Dm" z6"F" z2 | z8 |"Gm" z6"A7" z2 | z6 z d- ::"Dm" d d2 f- fd"F" c2 | %5
+w: |||De~Al|_ to Ce- _ dro voy|
+w: |||||
+ cccA c2 z2 |"Gm" G G2 e- ed"A7" A2 | AAAG A2 z2 |"Dm" z6"F" z2 | z8 |"Gm" z6"A7" z2 |1,2 %11
+w: pa- ra Mar- ca- né|Lue- go~a Cue- * to voy|pa- ra Ma- ya- rí.||||
+w: ||||||
+ z6 z d- :|2 z8 ||"Dm" z6"F" z2 | z8 |"Gm" z6"A7" z2 | z6 z d- |S"Dm" d d2 f- f"F" d2 c- | %18
+w: De~Al|||||El|_ ca- ri- _ ño que|
+w: ||||||* pia~el ca- _ mi- no|
+ c2 z A cc z2 |"Gm" G B2 e- e"A7" d2 ^c- | c3 A A2 z d- |"Dm" d d2 f- f"F" d2 =c- | c2 z c cc z2 | %23
+w: _ te ten- go|Yo no lo _ pue- do|_ ne- gar Se|_ me sa- * le la|_ ba- bi- ta|
+w: _ de pa- ja|Que yo me _ quie- ro|_ sen- tar En|_ a- quel _ tron- co|_ que ve- o|
+"Gm" G B2 e- e"A7" d2 ^c- | c3 A A2 z2 |:"Dm" z6"F" z2 | z8 |"Gm" z6"A7" z2 | z6 z d- :| %29
+w: Yo no lo _ pue- do~e|_ vi- tar.||||Cuan-|
+w: Y~a sí no _ pue- do|_ lle- gar.|||||
+"Dm" d d2 f- f"F" d2 c- | c3 c c2 z2 |"Gm" G B2 e- e"A7" d2 ^c- | c3 A AA z2 | %33
+w: * do Jua- _ ni- ca~y|_ Chan Chan|En el mar _ cer- nian|_ a- re- na|
+w: ||||
+"Dm" d d2 f- f"F" d2 =c- | c3 c Ac z2 |"Gm" G B2 e- e"A7" d2 ^c- | c3 A AA z2 |:"Dm" z6"F" z2 | %38
+w: Co- mo sa- _ cu- di-|_ a~el 'ji- be'|A Chan Chan _ le da-|_ ba pe- na||
+w: |||||
+ z8 |"Gm" z6"A7" z2 | z6 z d-"^D.S. al Coda" ::O"^play 3 times""Dm" d"^Coda" d2 f- f"F" d2 c | %42
+w: ||Lim-|* to Ce- _ dro voy|
+w: ||||
+ cccA c2 z2 |"Gm" G G2 e- ed"A7" A2 | AAAG A2 z2 |"Dm" z6"F" z2 | z8 |"Gm" z6"A7" z2 | z6 z d :: %49
+w: pa- ra Mar- ca- né|Lue- go~a Cue- _ to voy|pa- ra Ma- ya- rí||||De~Al|
+w: |||||||
+"^Instrumental solos""Dm" z6"F" z2 | z8 |"Gm" z6"A7" z2 |"1-8" z8 :|9 z6 z d- |: %54
+w: ||||De~Al|
+w: |||||
+"Dm" d d2 f- fd"F" c2 | cccA c2 z2 |"Gm" G G2 e- ed"A7" A2 | AAAG A2 z2 |"Dm" z6"F" z2 | z8 | %60
+w: * to Ce- _ dro voy|pa- ra Mar- ca- né|Lue- go~a Cue- _ to voy|pa- ra Ma- ya- rí|||
+w: ||||||
+"Gm" z6"A7" z2 | z6 z d- :|"Dm" d d2 f- fd"F" c2 | cccA c2 z2 |"Gm" G G2 e- ed"A7" A2 | %65
+w: |De~Al|* to Ce- _ dro voy|pa- ra Mar- ca- né|Lue- go~a Cue- _ to vo|
+w: |||||
+ AAAG A2 z2 |"Dm6" z8 |] %67
+w: pa- ra Ma- ya- rí.||
+w: ||
+

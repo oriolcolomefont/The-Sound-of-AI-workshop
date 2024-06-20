@@ -1,0 +1,27 @@
+X:1
+T:Oh! Susanna
+T:Oh! Susanna
+T:Stephen Foster
+C:Stephen Foster
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z G/A/ |"G" B d d e | d B G A | B B A G |"D7" A3 G/A/ |"G" B d d e | d B G A | B B"D7" A A | %8
+w: I *|come from Al- a-|bam- a wid a|ban- jo on my|knee, I'm *|gwan to Lou- si-|an- a, My *|true love for to|
+w: I *|had a dream the|oth- er night when|ev- 'ry thing was|still. I *|dreamed I saw Su-|san- na dear A-|com- ing down the|
+"G" G3 G/A/ | B d d e | d B G A | B B A G |"D7" A3 G/A/ |"G" B d d e | d B G A | B B"D7" A A | %16
+w: see. It *|rained all night the|day I left, De|weath- er it was|dry, De *|sun so hot I|froze to death, Su-|san- na, don't you|
+w: hill. The *|buck- wheat cake was|in her mouth, The|tear was in her|eye. says *|I "I'm com- ing|from the south Su-|san- na, don't you|
+"G" G3 z |"C" c2 c2 | e e2 e |"G" d d B G |"D7" A3 G/A/ |"G" B d d e | d B G A | B B"D7" A A | %24
+w: cry.|Oh! Su-|san- na, Oh!|don't you cry for|me. I've *|come from Al- a-|bam- a, wid my|ban- jo on my|
+w: cry."|Oh! Su-|san- na Oh!|don't you cry for|me. I've- *|come from Al- a-|bam- a wid my|ban- jo on my|
+"G" G3 z |] %25
+w: knee.|
+w: knee.|
+

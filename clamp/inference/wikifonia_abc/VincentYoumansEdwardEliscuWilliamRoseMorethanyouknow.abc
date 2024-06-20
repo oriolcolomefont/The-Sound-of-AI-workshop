@@ -1,0 +1,29 @@
+X:1
+T:More than you know
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piccolo"
+%%MIDI program 72
+V:1
+ (3B =B c |:"Eb6" c2"Bb+7" (3B =B c |"Bbm7" c2"Eb7" (3B =B c |"Ab6" e c"Gm7b5" B"C7" G | %4
+w: More Than You|Know, More Than You|Know, man o' my|heart, I love you|
+"Fm7" F2"Fm7b5" (3F ^F G |"Bb7" G2"F7" (3F ^F G |"Fm9" G2"Bb7" (3F ^F G |"Gm7""C7" B4- | %8
+w: so. Late- ly I|find you're on my|mind, More Than You|Know.|
+"Fm7" B z"Bb+7" (3B =B c |"Eb6" c2"Bb+7" (3B =B c |"Bbm7" c2"Eb7" (3B =B c | %11
+w: * Wheth- er you're|right wheth- er you're|wrong, man o' my|
+"Ab6" e c"Gm7b5" B"C7" G |"Fm7" F2"Db9" (3F ^F G |"Gm7" B2"C7" (3B =B c |"F7" e2"Bb7" f2 | %15
+w: heart, I'll string a-|long. You need me|so more than you'll|e- ver|
+"Eb" e4- |"Am7b5" e z"D7" d/c/B/=A/ |"Gm7" c B/=A/ G B |"Am7b5" =A/G/F/E/ G"Ab7b5" F |"Gm" E D3- | %20
+w: know.|* Lov- ing you the|way that I do there's|noth- ing I can do a-|bout it;|
+ D z"Cm7b5" f/e/"F7"d/c/ |"Bb" e d/c/"Gm7" B d |"C7" c/B/=A/G/"Cm7/F" B"F7" A | %23
+w: * lov- ing may be|all you can give but|hon- ey I can't live with-|
+"Bb7" G F2"Bbdim7" z |"Bb7" z2"Bb+7" (3B =B c |"Eb6" c2"Bb+7" (3B =B c |"Bbm7" c2"Eb7" (3B =B c | %27
+w: out it|Oh, how I'd|cry, oh, how I'd|cry, if you got|
+"Ab6" e c"Gm7b5" B"C7" G |"Fm7" F2"Db9" (3F _G =G |"Gm7" B2"C7" (3B =B c |"F7" f2"Bb7" g2 |1 %31
+w: tired and said "good-|bye", more than I'd|show more than I'd|ev- er|
+"Eb""Gbdim7" e4- |"Fm7" e z"Bb+7" (3B =B c :|2"Eb""Cb" e4- |"Eb" e3 z |] %35
+w: know.|* More Than You|Know.||
+

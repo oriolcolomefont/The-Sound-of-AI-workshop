@@ -1,0 +1,26 @@
+X:1
+T:So Nice (Summer Samba)
+T:So Nice (Summer Samba)
+C:Marcos Valle, Paulo Sergio Valle
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"F""^Medium Bossa Nova" A,C D2 E_E D2 | A,CDE- E_E D2 |"Bm7" A,C D2 E_E D2 |"E7" ^G,CDE- E_E D2 | %4
+w: Some- one to hold me tight,|that would be ver- * y nice:|Some- one to love me right,|that would be ver- * y nice;|
+"Bbmaj7" DF G2 A_A G2 |"Bb6" DFGA- A_A G2 |"Eb9" _DF G2 A_A G2 | _DFGA- A_A G2 |"Am7" z2 c2 C4- | %9
+w: Some- one to un- der- stand|each lit- tle dream _ in me;|Some- one to take my hand,|to be a team * with me;|So nice,|
+"D7b9" C4 _edcB |"Gm9" A8- |"Em7b5" A4"A+7" c=B_BA |"Dm11" G8- |"G7" G4 A_AG_G |"Gm7" FDFD FDF_A- | %15
+w: * life would be so|nice.|* If one day I'd|find|_ Some- one who would|take my hand and sam- ba thru' life|
+"D9" _AF"C9" G2 z4 |"F" A,C D2 E_E D2 | A,CDE- E_E D2 |"Bm7" A,C D2 E_E D2 |"E7" ^G,CDE- E_E D2 | %20
+w: _ with me.|Some- one to cling to me.|stay with me right * or wrong;|Some- one to sing to me|some lit- tle sam- * ba song.|
+"Bbmaj7" DF G2 A_A G2 |"Bb6" DFGA- A_A G2 |"Eb9" _DF G2 A_A G2 |"Eb9" _DFGA- A_A G2 | %24
+w: Some- one to take my heart,|then give his heart * to me.|Some- one who's read- y to|give love a start * with me.|
+"Am7" z2 c2 C4- |"D7b9" C4 _edcB |"Gm7" A8- |"C7b9" A8 |"F6" G_G F2 FG =G2 | %29
+w: Oh yes|_ That would be so|nice.|_|Should it be you and me,|
+"Bb9" G_G F2"C11" F_G =G2 |1"F6" F8- ||"Gm7" F2 z2"C7b9" z4 :|2"F6" F8- || F6 z2 |] %34
+w: I could see that would be|nice.|_|nice.|_|
+

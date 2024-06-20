@@ -1,0 +1,33 @@
+X:1
+T:Love Is My Reason
+T:Love Is My Reason
+T:Ivor Novello
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^Refrain" F E F |"Dm7" E F z/ D/ |"Gm7" F3 |"C7" A3 |"F" A G A |"Dm7" G A z/ F/ |"Gm7" B3 | %7
+w: Love is my|rea- son for|liv-|ing|Love is my|rea- son for|giv-|
+"C7" d3 |"F/A" c d c |"Abdim" e2 d |"Gm7" c d c |"Am7b5" _e2"D7" d |"Gm7" A B"Gm9" A | %13
+w: ing,|Life would be|on- ly|emp- ty and|lone- ly|if it were|
+"Gm7" c2"Gm7b5" B |"C7" G3- | G2 z |"F" F E F |"Dm7" E F z/ D/ |"Gm7" F3 |"C7" A3 |"F" A G A | %21
+w: not for|love.||Do you re-|mem- ber our|meet-|ing?|Sure- ly you|
+"Dm7" G A z/ F/ |"Gm7" B3 |"C7" d3 |"F/A" c d c |"A7b5/F" g2 f |"Bb" F G F |"Gm7b5" c2 B | %28
+w: heard my heart|beat-|ing,|Now in your|ten- der|arms I sur-|ren- der|
+"F" C D C |1"C7" A2 G ||"F""^Go to verse" F3- | F z z ||2"C7" A2 c ||"F" f3-!fine! | f2 z || %35
+w: find- ing my|own true|love.|||||
+"F""^Verse" c3 |"C+" ^G2"F" A |"Gb" B3- | B2 z |"F" A3 |"C+" E2"F" F |"Eb7" G3- | G2 z |"F/A" F3 | %44
+w: Here|is my|heart,||Beat-|ing for|you,||Take|
+"Abdim" E2 D |"Gm" B2 D- |"Gm/F" D E F |"Gm/Eb" A2 G- |"Gm7b5" G A B |"F" c"Abdim" d e | %50
+w: this re-|mind- er|* of these|mo- ments|* when our|fates have been|
+"Gm7" d2"C+" c |"F" c3 |"C+" ^G2"F" A |"Gb" B3- | B2 z |"F" A3 |"C+" E2"F" F |"Edim""A7" G3- | %58
+w: kind- er.|Here|is my|heart,||Pray|use it|well,|
+"Dm" G2 z | F3 | F"A7" G"Dm" A |"G9" e3 | d f"Em" e |"F" c3 |"D7" d3 |"C9" G3-!D.C.! |"C7" G2 z |] %67
+w: |If|I could not|give|I should not|choose|to|live.-||
+

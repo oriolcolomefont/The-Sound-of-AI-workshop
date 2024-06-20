@@ -1,0 +1,32 @@
+X:1
+T:I Almost Lost My Mind
+T:I Almost Lost My Mind
+C:Ivory Joe Hunter'
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" A4 z AB=B | (c>=B c4) z C | (c>C)"Bb"(d>C)"F" (c>C)"C7"B>"F"A- | A6"F7" z F | %4
+w: 1.~When I lost my|ba- * by, I|al- * most _ lost _ my mind.||
+w: 2.~went to see a|gyp _ sy, and|had _ my _ for- * tune read.|_ I|
+"Bb" d4 z d_e=e | (f>e f4) z F | (f>F)(f>F) (e>F)(d>F) |"F" (d>c-) c2- c3 _e | %8
+w: When I lost my|ba- * by, I|al- * most _ lost _ my _|mind. _ _ _ My|
+w: went to see a|gyp- * sy, and|had _ my _ for- * tune _|read. _ _ _ zi|
+"C+7" _ee (3ecc- c- c3 |"Bb/C" z f2 _e"C7" c c2 d |"F" (A>G F2-) F4- | F4 z2 z C |"F" A4 z AB=B | %13
+w: head is in a spin _ _|since she left me be-|hind. _ _ _|_ I|pass a mil- lion|
+w: hang mymy head in sor- * row|when she said what she|said. _ _ _|_ Well,|I can tell you|
+ (c>=B c4) z C | (c>C)"Bb"(d>C)"F" (c>C)"C7"B>"F"A- | A6"F7" z F |"Bb" d4 z d_e=e | (f>e) f4 z F | %18
+w: peo- * ple, I|can't _ tell _ who _ I meet|_ I|pass a mil- lion|per- * ple, I|
+w: peo- * ple, the|news _ was _ _ not so good.|_ Well,|I can tell you|peo- * ple, the|
+ (f>F)(f>F) (e>F)(d>F) |"F" (d>c-) c2- c3 _e |"C+7" _ee (3ecc- c c3 |"Bb/C" z f2 _e"C7" c c2 d |1 %22
+w: can't _ tell _ who _ I _|meet. _ _ _ 'Cause|my eyes are full of _ tears,|where can my ba- by|
+w: new _ was _ not _ so _|good. _ _ _ She|said your ba- by has quit you,|this time she's gone for|
+"F" (A>F-) F2- F4- | F4 z2 z C :|2"F" (A>F-) F2- F4- | F2"C+7" z2"F9" z4 |] %26
+w: be? _ _ _|_ 2.~I|||
+w: good. _ _ _|_|good. _ _ _|_|
+

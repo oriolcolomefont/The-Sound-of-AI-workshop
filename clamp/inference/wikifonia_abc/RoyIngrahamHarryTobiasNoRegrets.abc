@@ -1,0 +1,26 @@
+X:1
+T:No Regrets
+T:No Regrets
+T:Roy Ingraham
+T:Harry Tobias
+C:Roy Ingraham
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4"D7" B3 B |"G" d8 | z2 B2 AGFE |"B7" ^D3 B B3 ^A | A4 G3 G |"Em" B8 | z2 G2 FEDC | %7
+w: No re-|grets|al- tho' our love af-|fair has gone a-|stray no re-|grets|I know I'll al- ways|
+"E7" B,3 F"D6" F3 =F |"E7" E6 B,2 |"Am" C2 D2 ^D2 E2 |"D7" B2 B2"Cdim" B2 F2 |"Em" A3 ^G =G4 | %12
+w: care tho' you're a-|way; Some-|how our hap- py|ro- mance end- ed|sud- den- ly,|
+ z2 G2 B2"Em7" G2 |"A7" F3 =F E4 | z2 E2 G2 B2 |"Am7""Cm6" A8- |"D7" A4 B3 B |"G" d8 | z2 B2 AGFE | %19
+w: still in my|heart you'll be|for- ev- er|mine.|_ No- re-|grets|be- cause some- bod- y|
+"B7" ^D3 B B3 ^A | =A4 G3 G |"Em" B8 | z2 G2 FEDC |"E7" B,3 F"D6" F3 =F |"E7" E6 B,2 | %25
+w: new looks good to|you, no re-|grets|Sweet- heart no mat- ter|what you say or|do I|
+"Am" C2 D2 ^D2 E2 |"Am" B2"Cm6" B4"D7" AA |"G" F2 G2"Dm6" A2 B2 |"E7" d6 ^c2 |"Am7" =c4 ^D2 E2 | %30
+w: know our love will|lin- ger When the|oth- er love for-|gets. So|I say "good-|
+"A7" B3 B"D7" B3 B |"G" G- !fermata!G4 z z2 |] %32
+w: bye" with no re-|grets. _|
+

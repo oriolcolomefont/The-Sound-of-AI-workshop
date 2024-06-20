@@ -1,0 +1,32 @@
+X:1
+T:A Sunday Kind Of Love
+T:A Sunday Kind Of Love
+C:Anita Leonard, Barbara Belle, Louis Prima, Stan Rhodes
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 c2 ^G2 A2 |"F6" C>D (3CDC-"F#dim7" C4 |"Gm7" z B,D>F"C7b9" A2 B2 |"F6" c>cdc- c4 | %4
+w: I want a|Sun- day kind of love, *|a love to last past|Sat- ur- day night *|
+"Gm7" z cB>c"Bbm6" B>A"Eb7"G>F |"F6" C>CDC-"F#dim7" C4 |"Gm7" z B,D>F"C7" _A>G (3FDF- | %7
+w: I'd like to know it's more than|love at first sight. *|I want a Sun- day kind of love|
+"F""D7" F8- |"Gm7" F2 c2"Gb7" ^G2 A2 |"F6" C>D (3CDC-"F#dim7" C4 |"Gm7" z B,D>F"C7b9" A2 B2 | %11
+w: |* I want a|love that's on the square, *|can't seem to find some-|
+"F6" c>cdc- c4 |"Gm7" z cB>c"Bbm6" B>A"Eb7"G>F |"F6" C>CDC-"F#dim7" C4 | %14
+w: bod- y to care. *|I'm on a lone- ly road that|leads me no- where. *|
+"Gm7" z B,D>F"C7" _A>G (3FDF- |"F""Gbmaj7" F8- |"Fmaj7" F6 F2 |"Cm7" G>GG>F"F9" G G2 F | %18
+w: I need a Sun- day kind of love.||* I|do my Sun- day dream- ing and|
+"Cm7" G>AB>c"F7b9" d>cB>A |"Bb" G>GG>A"Cm7" G>G"F9"dA |"Bb6" G6"Ab9" d2 |"G9" d>=BA>G"Dm7" A A2 G | %22
+w: all my Sun- day schem- ing ev- 'ry|min- ute ev- 'ry hour of ev- 'ry|day. I|hop- ing to dis- cov- er a|
+"G9" A>Bc>d"Db9" e e3 |"C9" z d2 d"F#dim" d>dAc- |"C9/G" c2 c2"Gb7" ^G2 A2 | %25
+w: cer- tain kind of lov- er.|Who will show me the way?|* My arms need|
+"F6" C>D (3CDC-"F#dim7" C4 |"Gm7" z B,D>F"C7b9" A2 B2 |"F6" c>cdc c4 | %28
+w: some- one to en- fold *|to keep me warm when|Mon- days are cold. *|
+"Gm7" z cB>c"Bbm6" B>A"Eb7"G>F |"F6" C>CDC-"F#dim7" C4 |"Gm7" z B,D>F"C7" _A>G (3FDF- | %31
+w: A love for all my live to|have and hold * *|I want a Sun- day kind of love.|
+"F""Gbmaj7" F8- |"Fmaj7" F6 z2 |] %33
+w: ||
+

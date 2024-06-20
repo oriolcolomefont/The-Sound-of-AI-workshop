@@ -1,0 +1,31 @@
+X:1
+T:A Precious Little Thing Called Love
+T:A Precious Little Thing Called Love
+T:Lou Davis & J. Fred Coots
+C:Lou Davis & J. Fred Coots
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z c/>=B/ |:"F" c"Bdim" ^G"F" A/ c e/- |"Abdim" e3 d/>_d/ |"C7" c B G/ E C/- | %4
+w: Why does|my heart miss a beat|* At some|foot- steps on the street|
+ C2 z"Abdim" D/>_D/ |"C7" C D E/ G c/- | c2"C+" d2 |"F" A4- | A2 z c/>=B/ | %9
+w: * It's a|pre- cious lit- tle thing|* called|love|* Why am|
+ c"Bdim" ^G"F" A/ c e/- |"Abdim" e3 d/>_d/ |"C7" c B G/ E C/- | C2 z"Abdim" D/>_D/ | %13
+w: I con- tent a- lone|* When I|know some- one will phone|* It's a|
+"C7" C D E/ G"G7" d/- | d2"C7" E2 |"F""Bb" F4- |"F" F F G ^G |"A7" A/ ^A =B/- B z/ =A/ | %18
+w: pre- cious lit- tle thing|* called|love|* I see a|day in June * a|
+ =B/ c ^c/- c z/ A/ |"D7" e c A ^F- | F3 z |"G7" G/ ^G A/- A2 | A/ ^A =B/- B z/ G/ | %23
+w: wed- ding tune * A|hon- ey- moon cruise||Friends I know *|who will throw * Some|
+"Bb" d B G"C7" E- | E2 z c/>=B/ |"F" c"Bdim" ^G"F" A/ c e/- |"Abdim" e3 d/>_d/ |"C7" c B G/ E C/- | %28
+w: rice and old shoes|* What's the|one thing makes me say|* Heav- en's|just a- cross the way|
+ C2 z"Abdim" D/>_D/ |"C7" C D E/ G"G7" d/- | d2"C7" E2 |1"F" F2"G7" z2 ||"C7" z2 z c/>=B/ :|2 %33
+w: * It's a|pre- cious lit- tle thing|* called|love.|Why does|
+"F""Abdim""F""C7" F4- ||"F" F z z2 |] %35
+w: love.-||
+

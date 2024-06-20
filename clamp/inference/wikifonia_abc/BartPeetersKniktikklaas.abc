@@ -1,0 +1,42 @@
+X:1
+T:Kniktikklaas
+C:Bart Peeters
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Intro""D" z8 | z8 | z8 |: z4 z2 z D ||"^Strofe""D" FAAB FE D2- | D4 z2 z D | DDDD DD(B,A,- | %7
+w: |||Ik|lig te woe- len in mijn bed.|_ Ik|lig te woe- len in mijn bed _|
+w: |||Al|ben ik echt ver- schrikke- lijk moe.|_ Al|ben ik echt ver- schrikke- lijk moe. _|
+ A,4) z2 z D | FAAB FE D2- | D4 z2 z D | DDDD DD(B,A,- | A,4) z2 z D | FA/A/ AA/B/ FE D2- | %13
+w: _ Ik|heb mijn schoen al klaar- ge- zet.|_ Ik|heb mijn schoen al klaar- ge- zet _|_ Ik|denk dat ik hem al een beet- je hoor.|
+w: _ Ik|krijg m'n o- gen echt niet toe.|_ Ik|krijg mijn o- gen echt niet toe. _|_ Ik|kijk veel _ lie- ver _ naar de maan.|
+ D4 z2 z D | DD/D/ DD/D/ DD(B,A,- | A,4) z2 z D | FAAB FE D2- | D4 z2 z D | DDDD DD(B,A, | %19
+w: _ Ik|denk dat ik hem al een beet- je hoor _|_ Straks|glijdt hij on- ze schoor- steen door.|_ Straks|glijdt hij on- ze schoor- steen door. _|
+w: _ Ik|kijk veel _ lie- ver _ naar de maan. _|_ Want|straks dan komt de Sint er- aan.|_ Want|straks dan komt de Sint er- aan. _|
+ B,D- D2) z4 ||"^Refrein""Bm" d z d z"Gmaj7" ABdB |"D" A2 B2"A" F2"F#m" E2 | %22
+w: _ _ _|Knik, knik, 'k~heb de bib- ber|in m'n knie- en,|
+w: _ _ _|||
+"Bm" DEFD"Gmaj7" B,2 D2 |"D" (F/A/F- F4)"F#m" z2 |"Bm" d z d z"Gmaj7" ABdB | %25
+w: want van- nacht komt Sint- Nik-|laas _ _ _|Tik, tik, 'k~hoor ze stap- pen|
+w: |||
+"D" A2 B2"A" F2"F#m" EE |"Bm" DEFD"Gmaj7" B,2 D2 |"D" D4 z4 :|"^Refrein""Bm" d z d z"Gmaj7" ABdB | %29
+w: met z'n drie- en. De|Sint, z'n paard en pie- ter-|baas.|Knik, knik, 'k~heb de bib- ber|
+w: ||||
+"D" A2 B2"A" F2"F#m" E2 |"Bm" DEFD"Gmaj7" B,2 D2 |"D" (F/A/F- F4)"F#m" z2 | %32
+w: in m'n knie- en,|want van- nacht komt Sint- Nik-|laas. _ _ _|
+w: |||
+"Bm" d z d z"Gmaj7" ABdB |"D" A2 B2"A" F2"F#m" EE |"Bm" DEFD"Gmaj7" B,2 D2 |"D" D4 z2 z D | %36
+w: Tik, tik, 'k~hoor ze stap- pen|met z'n drie- en. De|Sint, z'n paard en pie- ter-|baas. De|
+w: ||||
+"F" =FFFF"G" G2 G2 |"D" A4 z2 z D |"F" =FFFF"C" E2 =C2 |"D" D4 z2 z D |"F" =FFFF"G" G2 G2 | %41
+w: Sint z'n paard en pie- ter-|baas. De|Sint zijn paard en pie- ter-|baas. De|Sint z'n paard en pie- ter-|
+w: |||||
+"D" A4 z2 z D |"F" =FFFF"C" E2 =C2 |"D" D4 z2 z A | F z z2 z2 z A | F z z2 z4 | z8 | z8 |] %48
+w: baas. De|Sint zijn paard en pie- ter-|baas. Na-|na, na-|na.|||
+w: |||||||
+

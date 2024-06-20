@@ -1,0 +1,25 @@
+X:1
+T:Alouette, Alouette
+C:Ariel Ramirez
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piccolo"
+%%MIDI program 72
+V:1
+"Em" z B AG AB |"Am" B2 c2 z G |"D7" G2 F !>!F2"G" !>!B- | B6 |"Em" z G FE FG |"Am" G2 A2 z E | %6
+w: A- lou- ette, A- lou-|et- te l'é-|té est fi- ni|_|Pau- vre pe- ti- te|bê- te je|
+"Em" E2 ^D"B7" !>!D2"Em" !>!E- | E6 |"Em" z B AG AB |"Am" B2 c2 c2 |"D7" d2 d !>!A3 |"G" B6 | %12
+w: suis ton a- mi|_|A- lou- ette, A- lou-|et- te, je|te com- prends|bien|
+"Em" z G FE FG |"Am" G2 A2 A2 |"B7" B2 B2 ^D2 |"Em" E4 z2 |"Em" z B AG AB |"Am" B2 c2 z G | %18
+w: Moi aus- si, j'ai en|tê- te beau-|coup de cha-|grins-|Dans les blés de la|plai- ne, lors-|
+"D7" G2 F !>!F2"G" !>!B- | B6 |"Em" z G FE FG |"Am" G2 A2 z E |"Em" E2 ^D"B7" D2"Em" E- | E6 | %24
+w: que tu chan- tais|_|Au- près de Ma- de-|lei- ne, Moi,|je m'en- dor- mais|_|
+"Em" z B AG AB |"Am" B2 c2 c2 |"D7" d2 d !>!A3 |"G" B6 |"Em" z G FE FG |"Am" G2 A2 z A | %30
+w: Dans l'eau de cet- te|sour- ce, nous|bu- vions tout|trois|La vie é- tait si|dou- ce, si|
+"B7" B2 B2 ^D2 |"Em" E4 z2 |"Em" z B AG AB |"Am" B2 c2 z G |"D7" G3 F F2 |"G" B6 |"Em" z G FE FG | %37
+w: plei- ne de|joie|A- lou- ette, A- lou-|et- te, chan-|tons tous les|deux|Un au- tre jour peut|
+"Am" G2 A2 A2 |"B7" B2 B2 ^D2 |"Em" E4 z2 |] %40
+w: ê- tre on|se- ra heu-|reux.-|
+

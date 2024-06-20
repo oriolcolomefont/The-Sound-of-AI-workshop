@@ -1,0 +1,23 @@
+X:1
+T:Onward, Christian Soldiers
+T:Onward, Christian Soldiers
+T:Sir Arthur Sullivan
+C:Sir Arthur Sullivan
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c c c c |"C7" c3/2 d/ c2 | G G"Gm7" F"C7" G |"F" A4 | F A c f |"G7" f2"C7" e2 |"G7" d d A =B | %7
+w: On- ward Chris- tian|sol- * diers!|March- ing as to|war,|With the cross of|Je- sus|go- ing on be-|
+"C7" c4 | G G c G |"F" A3/2 B/ A2 | c c f c |"Bb" d4 | d"F" c"Bb" B"F" c |"Bb" d"F" c"Bb" B"F" c | %14
+w: fore:|Christ, the roy- al|Mas- * ter,|Leads a- gainst the|foe;|For- ward in- to|bat- * tle *|
+"Bb" d"F" c"Bb" B"F" A |"C7" G4 |"F" F F F F |"Gm7" F"C7" E/D/ E"Gm7" F |"C7" G G G F/G/ |"F" A4 | %20
+w: See, His ban- ners|go.|On- ward, Christ- ian|sol- * * diers *|March- ing as to *|war,|
+ c c f"C7" e |"F" f2 c2 |"Bb" B"F" A"C7" G3/2 F/ |"F" F4 |] %24
+w: With the cross of|Je- sus|go- ing on be-|fore.|
+

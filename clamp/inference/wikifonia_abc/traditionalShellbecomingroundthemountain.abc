@@ -1,0 +1,21 @@
+X:1
+T:She'll be coming round the mountain
+T:She'll be coming round the mountain
+T:traditional
+C:traditional
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G A |"C" c c c c | A G G A | c4- | c2 c d | e e e e | g e d c |"G7" d4- | d2 g f |"C" e e e e | %10
+w: She'll be|com- ing round the|moun- tain when she|comes|* she'll be|com- ing round the|moun- tain when she|comes|* she'll be|com- ing round the|
+ d c c c |"F" A A A A |"D7" d c B A |"C" G G c d |"D7" e d"G7" A B |"C" c4- | c2 z2 | z2 G A | %18
+w: moun- tain, she'll be|com- ing round the|moun- tain she'll be|com- ing round the|moun- tain when she|comes||Sing- ing|
+"C" c c A G | E G c2 | z2 c d | e e g e | d c"G7" d2 | z2 g f |"C" e e d c |"F" A A d c | z2 B A | %27
+w: aye- yi- yip- pee|yip- pee- aye|sing- ing|aye- yi- yip- pee|yip- pee aye|sing- ing|aye- yi- yip- pee|aye- yi- yip- pee|sing- ing|
+"C" G c"D7" e d |"G7" A B"C" c2- | c2 z2 |] %30
+w: aye- yi- yip- pee|yip- pee aye.||
+

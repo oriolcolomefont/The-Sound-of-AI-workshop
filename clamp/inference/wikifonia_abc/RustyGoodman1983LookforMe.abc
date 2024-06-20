@@ -1,0 +1,40 @@
+X:1
+T:Look for Me
+T:Look for Me
+T:Rusty Goodman, 1983
+C:Rusty Goodman 1983
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^Moderately""G" z4 G2"Am/G" A2 | B3 A B3 d |"C/G" c"G" B3 z2"F/G" A"Em/G"G |"Dm/C" =F"C" E3- E4 | %4
+w: When you|fin aly make your|en trance to the|Ci ty _|
+ z4 z G G>E |"D7" E- D3 F3 E | C3 D E3"G7sus4/D" G |"G" G/E/D- D6 | z4 z DGA | B4 B3 d | %10
+w: of jas per|wall _ and bright|gol den av e|nue _ _ _|as you be|hold all its|
+"C/G" c"G" B3 z2"F/G" A"Em/G"G |"Dm/C" =F"C" E3- E4 | z4 z GFG |"A" A3 A"A7" B3 A | %14
+w: beau ty and its|splen dor _|re mem ber|there's just one re|
+ G2 z B B- A2 G |"D7" A8- | A2 z2 B2 d2 ||"G" d4- d3 d |"G7/B" d3 d"Dm7" c2"G7" B2 |"C" c8 | %20
+w: quest I make _ of|you|_ look for|me _ for|I will be there|too|
+"Am" z6 z A/-B/ |"D7" c3 B c3 B | B3 A F/-E/- D3 |"D7/F#" z DDD"D7/A" d3 e | %24
+w: I _|re a lize when|you ar rive _ _|there'll be so much to|
+"G" d/c/ B3 B2"C/G" c2 |"G" d3 d d3 d | e- d2 d B3 d |"C" d c3 z2 cc |"Am7b5" A4 A2 c2 | %29
+w: view _ _ Af ter|you're been there ten|thou _ sand years a|mil lion may be|two look for|
+"G/D" B6 z B |"D7" c3 A"C/D" G2"D7" F2 |"G" G4-"D7" G4- |"G" G4 z DGA | B3 A B3 d | %34
+w: me for|I will be there|too _|_ as you go|down your list of|
+"C/G" c"G" B3 z2"F/G" A"Em/G"G |"Dm/C" =F"C" E3- E4 | z4 z G G>E |"D7" E- D3 F3 E | %38
+w: firsts _ there's no|ques tions _|you'dd went to|see _ loved ones|
+ C3 D E3"G7sus4/D" G |"G" G/E/D- D6 | z4 z DGA | B2 B2 B3 d |"C/G" c"G" B3 z2"F/G" A"Em/G"G | %43
+w: wait ing there for|you _ _ _|and when you|feel you've shared your|sto ry with the|
+"Dm/C" =F"C" E3- E4 | z4 z GFG |"A" A3 A"A7" B3 A | G2 z B B- A2 G |"D7" A8- | A2 z2 B2 d2 || %49
+w: last one _|that wants to|hear you toll just|how you made _ it|through|_ look for|
+"G" d4- d3 d |"G7/B" d3 d"Dm7" c2"G7" B2 |"C" c8 |"Am" z6 z A/-B/ |"D7" c3 B c3 B | %54
+w: me _ I'd|like to hear it|too|I _|re a lize when|
+ B3 A F/-E/- D3 |"D7/F#" z DDD"D7/A" d3 e |"G" d/c/ B3 B2"C/G" c2 |"G" d3 d d3 d | e- d2 d B3 d | %59
+w: you ar rive _ _|there'll be so much to|view _ _ Af ter|you've been there ten|thou _ sand years a|
+"C" d c3 z2 cc |"Am7b5" A4 A2 c2 |"G/D" B6 z B |"D7" c3 A"C/D" G2"D7" F2 |"G" G8- | G8 |] %65
+w: mil lion may be|two look for|me for|I will be there|_||
+

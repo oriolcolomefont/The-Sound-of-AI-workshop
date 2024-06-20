@@ -1,0 +1,30 @@
+X:1
+T:Lovely Hula Hands
+T:Lovely Hula Hands
+T:R.Alex Anderson
+C:Robert Alexander Anderson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^A" AGFD F4 | AGFD F2 d_d |"Gm7" c4"C7" G4- |"Gm7" G8 |"C7" CCDC E2 d_d | c2 G2 CDBA | %6
+w: Love- ly Hu- la Hands|grace- ful as the birds in *|mo- tion||Glid- ing like the gulls o'er the|o- cean, Love- ly Hu- la|
+w: Love- ly Hu- la Hands|tell- ing of the rains in the|val- ley||And the swir- ling winds over the|Pa- li, Love- ly Hu- la|
+"F" F2 C2"C7" B,CEG |1"F" F4"C7" z4 :|2"F" F8 ||"F7""^B" FFGF d2 c2 | f2 f2 dcBG | %11
+w: Hands, kou li- ma na- ni|ë||||
+w: Hands, kou li- ma na- ni||ë|I can feel the soft ca-|ress- es of your hu- la|
+"Bb" B2 F2"F7" _EFAc |"Bb" B8 |"D7" DD_ED B2 A2 | d2 d2 BA^FD |"Gm" G8 |"C7" cc^cd A2 G2 || %17
+w: ||||||
+w: hands, your Love- ly Hu- la|Hands|Ev- 'ry lit- tle move ex-|press- es so I'll un- der-|stand|All the ten- der mean- ing|
+"F""^C" AGFD F4 | AGFD F2 d2 |"Gm7" c4"C7" G4- |"Gm7" G8 |"C7" CCDC E2 d2 | c2 G2 CCBA | %23
+w: ||||||
+w: of your hu- la hands|Fin- ger- tips that say A-|lo- ha||Say to me a- gain, I|love you! Love- ly Hu- la|
+"F" F2 C2"C7" B,CEG |"F" F8 |] %25
+w: ||
+w: Hands, kou- li- ma- na- ni|e|
+

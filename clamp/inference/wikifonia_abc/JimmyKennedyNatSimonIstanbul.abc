@@ -1,0 +1,31 @@
+X:1
+T:Istanbul
+T:Istanbul
+T:(Not Constantinople)
+T: Jimmy Kennedy, Nat Simon
+T:Chappell & Co. Inc. 1953
+C:Jimmy Kennedy, Nat Simon
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Moderately, with a bounce" (d3 d) | c3 e | d4 | d D =E ^F |:"Gm" G B d D | G B/>e/ d/>B/G/>D/ | %6
+w: ||||Is- tan- bul was|Con- stan- ti- no- ple; now it's|
+ G B d D | G B/>e/ d/>B/G/>D/ |"D7" ^F A c D | ^F A/>e/ d/>c/B/>A/ |"Gm" G/G/ G"Cm" G G/G/ | %11
+w: Is- tan- bul, not|Con- stan- ti- no- ple.~~ Been a|long time gone, old|Con- stan- ti- no- ple, still it's|Turk- ish de- light on a|
+ G G"Gm" G z | G B d D | G B/>e/ d/>B/G/>D/ | ^F A c D | ^F A/>e/ d/>c/B/>A/ |"D7" ^F A c D | %17
+w: moon- lit night!|Ev'- ry gal in|Con- stan- ti- no- ple lives in|Is- tan- bul, not|Con- stan- ti- no- ple, So if|you've a date in|
+ ^F A/>e/ d/>c/B/>A/ |"Gm" G/G/ G"D7" D ^F |"Gm" G2"^(tacet)" B c |"Gm" d2 c2 | B3 c | d e c d | %23
+w: Con- stan- ti- no- ple, she'll be|wait- in' in Is- tan-|bul! E- ven|old New|York was|once new Am- ster-|
+ B4 |"^A7 (b5)" A A A A |"D7" B A A2 |"Gm" G/G/ A B c |"D7" d/d/ d d2 |"Gm" G B d D | %29
+w: dam.|Why they changed it|I can't say,|peo- ple just liked it|bet- ter that way!|Take me back to|
+ G B/>e/ d/>B/G/>D/ | G B d D | G B/>e/ d/>B/G/>D/ |"D7" ^F A c D | ^F A/>e/ d/>c/B/>A/ | %34
+w: Con- stan- ti- no- ple!~~ No!~~ You|can't go back to|Con- stan- ti- no- ple!~~ Now it's|Is- tan- bul, not|Con- stan- ti- no- ple!~~ Why did|
+"Gm" G G/>G/ G/>A/B/>c/ | d2 z d |"D7" D D/>D/ D/>E/=E/>^F/ |1"Gm" G3"D7" z :|2"Gm" G2 z2 |] %39
+w: Con- stan- ti- no- ple get the|works? That's|no- bo- dy's bus'- ness but *|Turks!|Turks!|
+

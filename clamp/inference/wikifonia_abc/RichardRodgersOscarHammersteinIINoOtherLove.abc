@@ -1,0 +1,26 @@
+X:1
+T:No Other Love
+T:No other love
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" C"^TANGO" A2 G"Bb" B2"F" AC- | C8 | C A2 G"Bb" B2"F" A^G- |"E" ^G8 |"Gm" =G B2 A c2 BD- | %5
+w: No oth- er love have I||on- ly my love for you||on- ly the dream we knew|
+"G" D8 |"C7" E E2 E E4- |"Fmaj7" E8 |"F" C A2 G"Bb" B2"F" AC- | C8 | C A2 G"Bb" B2"F" A^G- | %11
+w: |No oth- er love||watch- ing the night go by||wish- ing that you could be|
+"E" ^G8 |"Gm" =G B2 A c2 BD- |"G" D8 |"C7" E E2 E c2 c2 |"F" c3 c =B d2 c |"Eb" _e4 _B4 |"Bb" B8 | %18
+w: |Watch- ing the night with me||in- to the night I|cry hur- ry home come|home to|me|
+"C" c4 G4 |"G7" G8 |"A" A4 E4 |"D" ^F6 D2 |"G" G8- |"Cm7" G3 D D2 E2 |"F" C A2 G"Bb" B2"F" AC- | %25
+w: set me|free|free from|doubt and|free|* from long- ing|in- to your arms I'll fly|
+ C8 | C A2 G"Bb" B2"F" A"E"^G- |"Gm" =G B2 A c2 B"G"D- | D8 |"C7" E E2 E c2 c2 |"F" c8 | %31
+w: |locked in your arms I'll stay|wait- ing to hear you say||No oth- er love have|I|
+"Bb" F F2 F"Gm7" f4- |1"F" f6 z2 :|2"F" f4 dd f2 |] %34
+w: No oth- er love|||
+

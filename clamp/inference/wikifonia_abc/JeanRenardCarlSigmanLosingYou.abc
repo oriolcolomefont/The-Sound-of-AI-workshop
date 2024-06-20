@@ -1,0 +1,30 @@
+X:1
+T:Losing You
+T:Losing You
+C:Jean Renard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G2"C" c3 E |"Dm" G3 F F4 |"G7" z2 G2 d3 F |"C6" A3 G"C" G4 | z2 G2"Am7/C" c2 e2 | %5
+w: Don't sigh a|sigh for me|Don't ev- er|cry for me.|This is good-|
+"Dm7" e3 d d3 A | c3 B"G7" B3 F |"C6" A3 G"C" G4 | z2 G2 c3 E |"Dm7" G3 F F4 |"G7" z2 G2 d3 F | %11
+w: bye for me, I|know we're through I'm|los- ing you.|Love sang it's|song for me.|Then things went|
+"C6" A3 G"C" G4 | z2 G2"Am7/C" c2 e2 |"Dm7" e3 d d3 A | c3 B"G7" A2 B2 |"C" c6 z c | %16
+w: wrong for me.|Nights are too|long for me, Be-|cause I'm los- ing|you. Our|
+"Ab" c3 c _e2 f2 |"Eb" _e4 _B2 z _A |"Fm" _A3 A c2 _d2 |"Cm" c4 G2 _AG |"Fm7" F2 _AG F2 GF | %21
+w: love and * de-|vo- tion go|deep as an- y|oc- ean. then one|day, like the tide you be-|
+"C" E2 G2"Am7" c2 z e |"Fmaj7" e3 d c2 z c |"Dm7" c2 B2"G9" A2 G2 |"C" z2 G2 c3 E |"Dm" G3 F F4 | %26
+w: gan to change and|you be- came a|per- fect stran- ger.|Some- one is|hold- ing you,|
+"G7" z2 G2 d3 F |"C" A3 G G4 | z2 G2"Am7/C" c3 e |"Dm7" e3 d d3 A |"F" c2 B2"G7" A2 B2 |"C" c8 | %32
+w: shar- ing the|lips I knew.|I can't be-|lieve it's true, that|I am los- ing|you.|
+ z2 G2 c3 E |"Dm7" G3 F F4 |"G7" z2 G2 d3 F |"C" A3 G G4 | z2 G2"Am7/C" c3 e |"Dm7" e3 d d3 A | %38
+w: Some- one is|hold- ing you,|shar- ing the|lips I knew.|I can't be-|lieve it's true, that|
+"F" c2"G7" B3 A B2 |"C" c8 |] %40
+w: I am los- ing|you.|
+

@@ -1,0 +1,25 @@
+X:1
+T:Tápláló szent kenyér
+T: 
+C:Unknown
+Z:Public Domain
+L:1/4
+Q:1/4=240
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z A, D E |"D" E D/D/- D2 | z A, D E |"Bm" E D/D/- D2 | z z/ B,/ D F |"Em" F E/E/- E2 | %6
+w: Táp- lá- ló|szent ke- nyér, _|táp- lá- ló|drá- ga vér, _|Be- töl- ti|szí- ve- met, _|
+ z E E3/2 D/ |"A" E4 | z A, D E |"D" E D/D/- D2 | z A, D E |"Bm" E D/D/- D2 | z B, D F | %13
+w: a Vég- te-|len.|Bé- kém- nek|zá- lo- ga, _|lel- kem- nek|ott- ho- na, _|For- máld át|
+"Em" F E/E/- E2 | z2 E3/2 D/ |"A" E4 :|"A7""^Legvégén" z2 E3/2 D/ |"D" D4 |] %18
+w: é- le- tem, *|légy ve-|lem!|Légy ve-|lem!|
+"^Felsõ szólam" z A, D E |"D" E F/F/- F2 | z A, D E |"Bm" E F/F/- F2 | z B,/ D F z/ | %23
+w: |||||
+"Em" F G/G/- G2 | z G G3/2 G/ |"A" A4 | z A, D E |"D" E F/F/- F2 | z A, D E |"Bm" E F/F/- F2 | %30
+w: |||||||
+ z B, D F |"Em" F G/G/- G2 | z2 G3/2 G/ |"A" A4 :|"A7""^Legvégén" z2 E3/2 D/ |"D" D4 |] %36
+w: ||||||
+

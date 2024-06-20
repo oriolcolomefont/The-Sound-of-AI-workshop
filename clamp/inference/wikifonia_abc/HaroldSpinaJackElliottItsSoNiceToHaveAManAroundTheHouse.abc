@@ -1,0 +1,40 @@
+X:1
+T:It's So Nice To Have A Man Around The House
+T:It's So Nice To Have A Man Around The House
+T:Harold Spina
+T:Jack Elliott
+C:Harold Spina
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Verse (rubato)" z4 D2 |"G" E2 F2 D2 |"Gdim" E2 F2 D2 |"Am7" E2 F2 D2 |"D7" E2 F2 D2 | %5
+w: No|quest- ion a-|bout it, A|man is a|prob- lem; He'll|
+w: |||||
+"Am7" A4 A2 |"D7" A2"C" G2"D7" F2 |"G" E6- |"D7" E4 D2 |"G" E2 F2 D2 |"Gdim" E2 F2 G2 | %11
+w: drive you|out of your|mind.|* He'll|cheat and de-|ceive you, that|
+w: ||||||
+"D" A2 B2 F2 |"Dmaj7" A2 B2 F2 |"Em7" A4 A2 |"A7" A4 A2 |"Cm6" A6 |"D7" A2 z2 D^D |: %17
+w: is if you|let him; And|yet; and|yet, you'll|find.|* It's so|
+w: ||||||
+[M:2/2]"G""^Chorus" EGED EGED |"Am7""D7" E6 D^D |"Am" EAED"D7" EAED |"G" E6 B_B | %21
+w: nice to have a man a- round the|house. Oh, so|nice to have a man a- round the|house, Some- one|
+w: nice to have a man a- round the|house. Oh, so|nice to have a man a- round the|house, Just a|
+"G7" ABAG AB-BA/G/ |"C" AcAG Ac-cA/^A/ |"A7" BAGF EFGE |"Am7""D7" c6 D^D |"G" EGED EGED | %26
+w: sweet who's glad he found you, * Who will|put his arms a- round you, * And his|kiss- es just a- stound you, It's so|nice. Oh, a|house is just a house with- out a|
+w: guy in pipe and slip- pers, * Who will|share your break- fast kip- pers, * And will|help you zip your zip- pers, It's so|nice, Oh, a|house is just a house with- out a|
+"Am7""D7" E6 D^D |"Am" EAED"D7" EAED |"G" E6 B_B |"G7" ABAG ABAG |"C" AcAG"Cm6" AcBA | %31
+w: man. He's the|nec- ess- ar- y e- vil in your|plan. There are|man- y things a- bout him, you just|can- not do with- out him, Tho' it's|
+w: man, He's the|nec- ess- ay- y e- vil in your|plan. Some- one|kind who knows you treas- ure an- y|sim- ple lit- tle pleas- ure, Like a|
+"G" dDDD"D9" cAGF |"G""Dm6" B4"E+7""E7" c3 B |"A7" EFGB"D7" CDFA |1"G" G2"Gdim" z2"D7" z2 D^D :|2 %35
+w: just a con- stant game of cat and|mouse. It's so|nice to have a man a- round the|house. It's so|
+w: full length mink to cov- er last year's|blouse, It's so|nice to have a man a- round the||
+"G" G2 d2 g2 z2 |] %36
+w: house. * *|
+w: |
+

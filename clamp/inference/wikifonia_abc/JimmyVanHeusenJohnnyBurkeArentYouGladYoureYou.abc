@@ -1,0 +1,30 @@
+X:1
+T:Aren't You Glad You're You?
+T:Aren't You Glad You're You?
+T:Jimmy Van Heusen
+T:Johnny Burke
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" C D"F/A" F A |"Bb6" G d"Bdim" d2 |"C" e3/2 d/"C7" c B |"F" A"Gm7" F"G#dim" F2 | %4
+w: Ev- ry time you're|near a rose,|aren't you glad you|have a nose?|
+"C7/Bb" e/ e d/"C7" c B |"F" A F"Abdim" F2 |"C/G" E G"G7sus4" D"G7" G |"C7" c4 |"F" C D"F/A" F A | %9
+w: And if the dawn is|fresh with dew,|aren't you glad you're|you?|When a mead- ow-|
+"Bb6" G d"Bdim" d2 |"A/C#" e3/2 d/"Dmaj7" ^c"E7" =B |"A" A"E/B" E"A/C#" E2 | %12
+w: lark ap- pears,|aren't you glad you've|got two ears?|
+"Bm7" e/ e d/"E7" ^c =B |"A" A"E7/D" E"A/C#" E-"Cdim" E |"Bm7" A ^c"E7" ^G =B | %15
+w: And if your heart is|sing- ing too, *|aren't you glad you're|
+"A" A3/2 z/"C7" c3/2 ^c/ |"Cm7" d c"F7" d c |"Cm7" _e3"F7" d |"Bb" c B c B |"Bbm7" _d3"Eb7" c | %20
+w: you? you can|see a sum- mer|sky, or|touch a friend- ly|hand, or|
+"Ab" B _A B _A |"Gm7""C7" c4 |"F" A/c/d/c/- c/A/ F |"Bb6" D G/"C7"C/- C2 |"F" C D F A | %25
+w: taste an ap- ple|pie.|Par- don the gram- * mar but|ain't life grand? *|And when you wake|
+"Bb6" G d"Bdim" d2 |"C" e3/2 d/"C7" c B |"F" A"Gm7" F"C#dim" F2 |"C7" e/ e d/ c B |"F" A d"D7" d2 | %30
+w: up each morn,|aren't you glad that|you were born?|Think what you've got the|whole day through.|
+"Gm7" B d"C9" E G |"F" F3 z |] %32
+w: Aren't you glad you're|you?|
+

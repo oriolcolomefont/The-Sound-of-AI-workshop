@@ -1,0 +1,29 @@
+X:1
+T:Durham Town
+T:Durham  Town
+T:Roger Whittaker
+C:Roger Whittaker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" A2 BA"C" G2 c2 |"Bb" BA z2"C7" C4 |"F" A2 cc"Bb" d2 d2 |"C" c G2 z"F" F4 | A2 cc z"A" ^c2 c | %5
+w: I've got- ta leave old|Dur- ham- town,|I've got- ta leave old|Dur- ham Town,|I've got- ta leave old|
+w: |||||
+w: |||||
+"Dm" dA z2"Bb" G2 FG |"A" AcAc"C7" BA C2 |"F" F8 |"F" A2"^Verse" A2"C" G2 G2 |"Bb" BF z2"C" C4 | %10
+w: Dur- ham Town and that|leavin's * gon- na get * me|down|Back in nine- teen|four- ty four|
+w: |||I was a boy|spent my time|
+w: |||* * * I||
+"Dm" AAAA"A7" AAAA |"Dm" AA"A7" A4 z2 |"F" FF F2"Gm" G2 GG |"Bb" BB F2"C" C2 cB |"Dm" AA z2 z4 | %15
+w: I re- mem- ber Da- ddy- walk- in'|out the door|Mom- ma told me he was|go- in' to war, he was|leav- in'|
+w: sit- ting on the banks of the Ri-|ver Ty- ne|Wat- chin the ships go- in'|down the line, they were *|leav- in'|
+w: |||||
+"^Dd" BABA BABA |"A" e4"C7" z2 c2 |"^RepeatChorus" z8 |] %18
+w: leav- in' leav- in' leav- in' leav in'|me Now||
+w: leav- in' leav- in' leav- in' leav- in'|me. *||
+w: |||
+

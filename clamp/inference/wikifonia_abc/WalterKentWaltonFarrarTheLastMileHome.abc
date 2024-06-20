@@ -1,0 +1,35 @@
+X:1
+T:The Last Mile Home
+T:The Last Mile Home
+T:Walter Kent & Walton Farrar
+C:Walter Kent & Walton Farrar
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z E E |"Ab6" F2 F |"Bb7" c2 c |"Gm7b5" B"C+9" A"F+7" G |"Bb9""^Verse(ad lib)" F"Eb6" E E | %5
+w: ||||* You can|
+"Ab6" F2 F |"Bb7" c2 c |"Eb" B3 | B2 E |"Ab6" F2 F |"Bb7" c2 c |"Eb" B3- | B2 B |"Am7b5" c2 c | %14
+w: trav- el|'round the|globe,|* And|see a|lot of|things,|* From|Man- da-|
+"Ab7" d2 c |"Gm7b5" B2 B |"C+7" c2"C7" B |"Fm7" A2 A- |"E7" A A D |"Ebmaj7" G3- |"Eb6" G2 G/G/ | %21
+w: lay to|old Pom-|peii, To|Par- is|* in the|Spring.|* But you'll|
+"Ab6" F2 F |"G7" F2 G |"Cm" E3 |"Am7b5" c3 |"Bb7sus4" F3 |"Bb7b9" G3 |"Eb6" E3- | E2 G |: %29
+w: on- ly|learn one|thing,|Yes!|Just|one|thing|* The|
+"Eb""^Chorus" B2 G |"Ebmaj7" B2 B/c/ |"Eb6" B2 G |"Eb" E3 |"Eb/G" E2 E |"Gbdim" E2 F | %35
+w: long- est|mile is the|last mile|home!|When you've|been a-|
+"Fm" D"Gm" B,"D" =A, |"Bb7" A, z A |"Fm" c2 A |"C+" c2 c/d/ |"Fm7" c2 A |"Bb7sus4""Bb7" F3 | %41
+w: way. * *|* The|dear- est|dreams are the|dreams of|home,|
+"Bb7sus4" F2 F |"Bb+7" ^F2 c |"Eb" G3- | G2 B |"Cm" e2 c | e2 d/c/ |"Gm" d2 B | d3 |"Fm7" c2 c | %50
+w: When you've|been a-|way.|* You|trav- el|far o- ver|land and|sea,|Then one|
+"Bb7" c2 B/A/ |"Eb" B2 A/G/ |"C7sus4""C7" B2 G |"Fm" A2 A |"Abm" G2 F |"Eb" B2 G | %56
+w: day it's as|clear as can|be. The|sweet- est|mile you'll|ev- er|
+"C+7""C7" !fermata!c2 B/A/ |"F7" G3 |"Bb7" F3 |1"Eb""Adim" E3- ||"Bb7" E z G :|2 %61
+w: roam, is THE|LAST|MILE|HOME!|* The|
+"Eb""Fm7""E9" E3- ||"Eb" E2 z |] %63
+w: HOME!-||
+

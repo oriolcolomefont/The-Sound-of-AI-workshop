@@ -1,0 +1,26 @@
+X:1
+T:Blue on blue
+T:Blue on Blue
+T:Burt Bacharach
+T:Hal David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" d"^Swing""^Foxtrot" f"^or" d2 |"C" c c/e/ B e |"F" d f d2 |"C" c/B/e/B/ A2 |"F" d f d2 | %5
+w: Blue on blue|heart- ache on heart- ache|Blue on blue|now that we are through|Blue on blue|
+"C" c c/e/ B e |"F" z A/B/ c f |"G" d2 B B/d/ |"C" d/c/ c3- | c B A G |"C" E G C E | %11
+w: heart- ache on heart- ache|and I find I|cant get o- ver|los- ing you|* * walk a-|long the street we|
+"Dm" E/D/ F2 D/E/ | F F/G/ A2 |"G7" z B d c |"C" A/G/ G2 z |"Am" d/c/ c2 E | d/c/ c2 E |"D7" D4 | %18
+w: used to walk Two by|two lov- ers pass|and as they're|pass- ing by|I could die 'cause|you're not here wth|me|
+"F" A/A/B/A/ A G | A/A/B/A/ A G |"Dm" z F/G/ A F |"C" E D C2 |"F" d f d2 |"C" c c/e/ B e | %24
+w: Now the trees are bare, there's|sad- ness in the air and|I'm as blue as|I can be|Blue on blue|heart- ache on heart- ache|
+"F" d f d2 |"C" c/B/e/B/ A2 |"F" d f d2 |"C" c c/e/ B e |"F" z A/B/ c f |"G" d2 B B/d/ | %30
+w: blue on blue|now that we are through|blue on blue|heart- ache on heart- ache|and I find I|cant get o- ver|
+"C" d/d/ c3 |] %31
+w: los- ing you.|
+

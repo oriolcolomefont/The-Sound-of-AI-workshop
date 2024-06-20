@@ -1,0 +1,23 @@
+X:1
+T:Edelweiss
+T:Eidelweiss
+T:(from the Soundof Music)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E2 G |"G7" d3 |"C" c2 G |"F" F3 |"C" E2 E |"Am7" E F G |"Dm7" A3 |"G7" G3 |"C" E2 G |"G7" d3 | %10
+w: Ei del|weiss|Ei- del-|weiss|ev ry|morn ing you|greet|me|small and|white|
+"C" c2 G |"F" F3 |"C" E2 G |"G7" G A B |"C" c3 | c3 |"G7" d/ z/ z/ G/ G | B A G |"C" E2 G | c3 | %20
+w: clean and|bright|you look|hap py to|meet|me|Blos som of|snow may you|bloom and|grow|
+"F" A2 c |"D7" d2 c |"G7" B3 | G3 |"C" E2 G |"Gm" d3 |"F" c2 G |"Fm" F3 |"C" E2 G |"G7" G A B | %30
+w: bloom and|grow for|ev|er|Ei del|weiss|Ei del-|weiss|bless my|home- land for|
+"C" c3 | c2 z |] %32
+w: ev-|er.-|
+

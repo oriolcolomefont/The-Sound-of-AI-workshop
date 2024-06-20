@@ -1,0 +1,23 @@
+X:1
+T:Tennessee Waltz
+T:Tennessee Waltz
+T:Redd Stewart and Pee Wee King
+C:Pee Wee King  © 1946
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 C2 D2 |:"C" EG- G2 CD | EG- G2 cd |"C7" eg- g2 ed |"F" c2 A2 cd |"C" c2 G3 c | A2 G2 E2 | %7
+w: I was|waltz- ing * with my|dar- lin * to the|Ten- * * see *|waltz * when and|old friend I|hap- pened to|
+"G7" D6- | D z z2 CD |"C" EG- G2 CD | EG- G2 cd |"C7" eg- g2 ed |"F" c2 A2 c2 |"C" c2 G3 A | %14
+w: see|* In- tro|duced him * to my|loved one * and *|while they * were *|waltz- ing my|friend stole my|
+ E2"G7" B,2 D2 |"C" C6- | C4 cd | e2 g3 e |"E7" d4 ee |"F" d2 c2 A2 |"C" G4 GB | c2 A2 G2 | %22
+w: sweet- heart from|me|* I re-|mem- ber the|night and the|Ten- nes- see|Waltz Now I|know just how|
+ E2 A2 G2 |"G7" D6- | D4 CD |"C" EG- G2 CD | EG- G2 cd |"C7" eg- g2 ed |"F" c2 A3 B |"C" c2 G2 A2 | %30
+w: much I have|lost|* Yes I|lost my * lit- tle|dar- lin * the *|night they * were *|play- ing the|beau- ti- ful|
+ E2"G7" B,2 D2 |1"C" C6- || C4 CD :|2"C" C6- || C4 z2 |] %35
+w: Ten- nes- seem|Waltz.|* I was|Waltz.||
+

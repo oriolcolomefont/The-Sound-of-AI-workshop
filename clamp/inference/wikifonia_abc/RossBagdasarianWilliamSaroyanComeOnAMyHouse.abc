@@ -1,0 +1,50 @@
+X:1
+T:Come On-A My House
+T:Come On-A My House
+C:Ross Bagdasarian
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Dm" z3/2 D<AG/ A A2 F |"Gm" (G A2)"Dm" F- F2"Gm" G2 |"Dm" A (A2 G) A>A F2 | %3
+w: Come on- a my house- a,|my _ house, _ I'm|gon- na _ give- a you|
+w: |||
+w: |||
+"Gm" (G E2)"Dm" F- F4 |"A7" z3/2 E<GF/ G G2 E |"Dm" (A"A7" G2) E- E2 D2 |"Dm" F (F2 E)"Gm" F>E G2 | %7
+w: can- * dy. _|Come on- a my house- a,|my _ house _ I'm|gon- na _ give- a you|
+w: Christ- mas tree. _|Come on- a my house- a,|my _ house _ I'm|gon- na _ give- a you|
+w: my _ house! *|Come on- a my house a,|my _ house _ I'm|gon- na _ give- a you|
+"Dm" D>DDD- D D2 D | F>DD>D- D2"A7" A2 |"Dm" z3/2 D<AG/ A A2 F |"Gm" G>FGA-"Dm" A2"A7" z2 | %11
+w: ap- ple- a, plum _ and a|ap- pri- cot- a too, eh!|Come on- a my house, my|house- a come on _|
+w: a mar- rige ring _ and a|pom- e- gran- ate too, eh!|Come on- a my house, my|house- a come on _|
+w: poem and a dance, _ and a|pho- no- graph too, _ eh!|Come on- a my house, my|house- a come on _|
+"Dm" z3/2 F<FE/ F F2 E |"A+7" F>E"A7"G"Dm"D- D4 | z3/2 D<AG/ A A2 F |"Gm" (G A2)"Dm" F- F2"Gm" G2 | %15
+w: come on- a my house, my|house- a come on. _|Come on- a my house- a|my _ house _ I'm|
+w: come on- a my house my|house- a come on. _|Come on- a my house- a|my _ house _ I'm|
+w: come on- a my house, my|house- a come on. _|Come on- a my house- a|my _ house _ I'm|
+"Dm" A (A2 G) A>A F2 |"F" F F2 F F- F2 F | (A>G)F>F- F2"C7" c2 |"F" z3/2 c<AG/"Dm" A G2 F | %19
+w: gon- na _ give- a you|figs and a dates and a|grapes _ and a cake, eh!|Come on- a my house, my|
+w: gon- na _ give- a you|peach and a pear _ I|love- a your hair, _ eh!|Come on- a my house, my|
+w: gon- na _ give- a you|all- a my wage and a|bird in a cage, _ eh!|Come on- a my house, my|
+"Bb" G>FG"A7"A- A4 |"Dm" z3/2 F<FE/ F F2 E |"A+7" F>E"A7"G"Dm"D- D4 | z3/2 D<AG/ A A2 F | %23
+w: house- a come on, _|come on- a my house, my|house- a come on _|Come on- a my house- a,|
+w: house- a come on, _|come on- a my house, my|house- a come on _|Come on- a my house- a|
+w: house- a come on, _|come on- a my house, my|house- a come on _|Come on- a my house- a|
+"Gm" G A2"Dm" F- F2"Gm6" G2 |"Dm" A (A2 G) A>A F2 |"Gm6" (G E2)"Dm" F- F4 |"A7" z3/2 E<GF/ G G2 E | %27
+w: my _ house, _ I'm|gon- na _ give- a you|can- * dy, _|come on- a my house- a|
+w: my _ ~house, _ I'm|gon- na _ give- a you|Eas ter egg, _|come on- a my hous- a|
+w: my _ house, _ I'm|gon- na _ give- a you|can- * dy, _|come on- a my house- a|
+"Dm" (F G2)"A7" E- E2 D2 |"Dm" F (F2 E)"Gm" F>E G2 |1"A7" D ^C2"Dm" D- D2 z2 :|2 %30
+w: my _ house _ I'm|gon- na * give- a you|ev- 'ry- thing _|
+w: my _ house _ I'm|gon- na * give- a you|ev- 'ry- thing. _|
+w: all _ your _ life|come on, come on, and a||
+"A7" D ^C2"Dm" D- D2 z2 |] %31
+w: |
+w: |
+w: be my wife. *|
+

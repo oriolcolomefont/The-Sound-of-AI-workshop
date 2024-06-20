@@ -1,0 +1,25 @@
+X:1
+T:It Looks Like Rain In Cherry Blossom Lane
+T:It Looks Like Rain In Cherry Blossom Lane
+T:Edgar Leslie & Joe Burke
+C:Edgar Leslie & Joe Burke
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z F |"Bb" =E3 F |"Bbdim" A3 G |"Bb" =E F E F |"G+7" e3"G7" d |"C7" d G G d |"F7" d c c A | %7
+w: It|Looks Like|Rain In|Cher- ry Blos- som|Lane, the|sun- shine of your|smile no lon- ger|
+"Bb""Bdim" G4 |"Cm" F2"F7" z F |"Bb" =E3 F |"Bbdim" A3 G |"Bb" =E F E F |"G+7" e3"G7" d | %13
+w: there.|* It|looks like|rain in|Cher- ry Blos- som|Lane, your|
+"C7" d G G d |"F7" d A A d |"Bb""Eb" B4- |"Bb" B3 d |"D7" e d ^c d | e d ^c d |"G7" A4 | A2 z d | %21
+w: gol- den voice no|lon- ger fills the|air.|* The|rip- pling notes have|left the old mill|stream,|* there's|
+"C7" d c =B c | d c G c |"Cm7" c4- |"F7" c2 z F |"Bb" =E3 F |"Bbdim" A3 G |"Bb" =E F E F | %28
+w: no- thing left for|me but just a|dream.|* There'd|be no|rain in|Cher- ry Blos- som|
+"G+7" e3"G7" d |"C7" d G G d |"F7" d A A d |"Bb""Eb" B4- |"Bb" B3 z |] %33
+w: Lane, if|you were there to|tell me that you|care.-||
+

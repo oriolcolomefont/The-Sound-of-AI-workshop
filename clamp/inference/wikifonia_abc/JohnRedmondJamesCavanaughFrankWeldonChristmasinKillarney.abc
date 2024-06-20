@@ -1,0 +1,33 @@
+X:1
+T:Christmas in Killarney
+T:Christmas iin Killarney
+T:(introduced in 1951 by tenor Dennis Day)
+T:John Redmond, James Cavanaugh, Frank Welcon
+T:Warner Bros. Inc, 1950
+C:John Redmond, James Cavanaugh, Frank Weldon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Irish jig tempo" G>CC>C G>CC>C | (3AAA (3AAA G2 z A |:"C" G>CC>C G>CC>C | %3
+w: |* * * * * * * The|hol- ly green, the i- vy green, the|
+"F/C" (3AGF (3AGF"C" G>CC>C |"F" A>Bc>B A"C" G2 C |"D7" (3DED"G7" C>B,"C" C2 z A | G>CC>C G>CC>C | %7
+w: pret- ti- est pic- ture you've e- ver seen, Is|Christ- mas in Kil- lar- ney, With|all of the folks at home. It's|nice, you know, to kiss your beau, While|
+"F/C" (3AGF (3AGF"C" G>CC>C |"F" A>Bc>B"C" A>G"Am"E>C |"D7" (3DED"G7" C>B,"C" C2 z E | %10
+w: cud- dl- ing un- der the mis- tle toe, And|San- ta Claus of course you know, is|one of the boys from home. The|
+"Am"{/^D}"Am" E>AA>B c A2 B |"F/A" c>BA>B"Am"{/^D}"Am" E3 E |"G" D>GG>A B>DD>D | %13
+w: door is al- ways o- pen; the|neigh- bours pay a call; And|Fa- ther John, be- fore he's gone, will|
+"Am7" c>c"D7"B>A"G" G2 z"C" A | G>CC>C G>CC>C |"F/C" (3AGF (3AGF"C" G>CC>C |"F" A>Bc>B A"C" G2 C | %17
+w: bless the house and all. How|grand it feels to click your heels, and|join in the fun of the jigs and reels; I'm|han- ding you no blar- ney, The|
+"^slowing down" E>E"G7/D"F>"C7/E"G"F""Dm""^very slow" !fermata!A3 B | %18
+w: likes you've ne- ver known, Is|
+"F""^a tempo" c>B"F#dim"c>A"C/G" G"Am" c2 C |1"D7" (3DED"G7" C>B,"C" C2 z A :|2 %20
+w: Christ- mas in Kil- lar- ney, With|all of the folks at home. The|
+"D7" (3DED"G7" C>B,"C" C2 !^!c'2 |] %21
+w: all of the folks at home. *|
+

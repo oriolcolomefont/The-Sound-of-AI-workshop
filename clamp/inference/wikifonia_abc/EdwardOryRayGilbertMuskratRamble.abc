@@ -1,0 +1,36 @@
+X:1
+T:Muskrat Ramble
+T:Muskrat Ramble
+C:Edward Ory
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Ab" ACEA- ACEA |"Eb7" GDEG- G2 z2 | GDEG- GDEG |"Ab" ACEA- A2 z2 | ACEA- ACEA | %5
+w: Look at them shuf- * fl- in, a|shuf- fl- in down; _|Ram- bl- in', scram- * bl- in', a-|head- in' for town. _|Hus- tl- in', bus- * tl- in', and|
+w: Look at them shuf- * fl- in', a|shuf- fl- in' down; _|Look at the band _ par- a- din'|all ov- er town. _|Look at the hap- * pi- ness a-|
+"Cm" GDEG- G2 z2 |"G7" G^FGA G=FED |"Cm" C2"Eb7" E6 |"Ab" ACEA- ACEA |"Eb7" GDEG- G2 z2 | %10
+w: buz- zin' a- roun', _|Hap- pi- ly a- wait- in' at the|sta- tion.|Look at the train, _ the num- ber|sev- en- o- nine. _|
+w: go- in' a- roun', _|Ev- 'ry- bod- y's up and cel- e-|brat- in'.|Look at the drum- * mer en- ter-|tain- in' the gang. _|
+ GDEG- GDEG |"Ab" ACEA- A2 z2 |"F7" F =A2 F A3 F |"Bbm7" B2 _A"Fdim"F- F2"A9" =B"Bb9"c- | %14
+w: Huff- in' and puff- * in' and a-|riv- in' on time. _|Who do you think's a-|bout to 'rive? _ The band|
+w: cling- in' and clang- * in' with a|bing and a bang. _|Chang- in' the town from|dead to 'live! _ The band|
+ c=Bc_B"Bbm7" AA"Eb7" G2 |"Ab" A2 z2 z EE"A7"=E |"Bb7" F2 z2"D" ^F2 z2 |"Eb7" G2 z2 c2 z2 | %18
+w: _ they call "The Dix- ie- land|Five." They're gon- na'|play that|Musk- rat|
+w: _ they call "The Dix- ie- land|Five." You're gon- na|hear them|play the|
+"Ab" B2 A2 A4 | z AGA"Fdim" BAGF |"Bbm7" A2"Eb7" GG- G4 | z2"D7" =B"Eb7"c- c_BAE |"Ab" F2 EE- E4 | %23
+w: Ram- ble tune.|the way you nev- er ev- er|heard it playe. _|Get read- * y for the|big pa- rade, _|
+w: Dis- ie- land,|you bet- ter get your res- er-|va- tion planned. _|In per- * son on a|one night stand, _|
+ z c2 B AA G2 |"Bb7" F2 z2"D" ^F2 z2 |"Eb7" G3 G cBec |"Ab" B2 A2 A4 | %27
+w: All to- geth- er now,|one and|two, Come on and join the|hap- py throng,|
+w: All to- geth- er now,|come on|folks! Come on and join the|hap- py throng,|
+"Ab7" z A2 A"G7" =GG"Gb7" _G2 |"F7" F F2 F =AF A2 |"Bbm7" B2 _AF- F4 | %30
+w: Feel the beat of that|ram- bl- in' scram- bl- in',|musk- rat song _|
+w: Feel the beat of that|shuf- fl- in', scuf- fl- in',|muskl- rat song _|
+"Bb7" c c2 =B"Eb9" cA"Eb7" _B2 |1"Ab" A6 z2 :|2"Ab" A6 z2 |] %33
+w: Come on and ram- ble a-|long.||
+w: Come- on and ram- ble a-||long.|
+

@@ -1,0 +1,24 @@
+X:1
+T:One Hand One Heart
+T:One Hand One Heart
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Eb""^Tenderly" G G G |"Ab/C" A3 |"Bb/D" F3 |"Eb" G3 |"Cm" G G G |"Gm" B3 |"Db" F3 |"Ab/C" A3 | %8
+w: Make of our|hands|One|hand,|Make of our|hearts|One|heart.|
+"Eb" G G G |"Ab" c3 |"Bb/D" B2 c |"Ab/C" A3 |"Db/F" A2 B |"Gb/Bb" _G2 A |"Fm/Ab" F3- |"Bb7" F2 _G | %16
+w: Make of our|vows|one last|vow:|On- ly|death will|part|_ us|
+"Eb""Ebmaj7" E3- |"Ab" E2"Bb7" z |"Eb" G G G |"Ab/C" A3 |"Bb/D" F3 |"Eb" G3 |"Cm" G G G |"Gm" B3 | %24
+w: now.|_|Make of our|lives|one|life.|Day af- ter|day|
+"Db" F3 |"Ab/C" A3 |"Eb" G G G |"Ab" c3 |"Bb/D" B2 c |"Db/F" _d3 |"Eb/G" e3 |"Fm" A3 |"Cm" e3 | %33
+w: one|life.|Now it be-|gins,|Now we|start;|One|hand,|one|
+"Fm" A3 |"Db" A2 B |"Gb/Bb" _G2 A |"Fm/Ab" F3- |"Bb7" F2 _G |1"Eb" E3- |"Ab/C" E3- |"Fm7/Bb" E2 z | %41
+w: heart.|Ev- en|death won't|part|_ us|now.|_||
+"Bb7" z3 :|2"Eb" E3- |"Ab/Eb" E3- |"Ab6/Eb" E3- |"Eb" E3- | !fermata!E3 |] %47
+w: |now.|_||||
+

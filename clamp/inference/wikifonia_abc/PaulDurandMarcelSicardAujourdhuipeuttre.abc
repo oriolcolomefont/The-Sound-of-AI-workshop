@@ -1,0 +1,44 @@
+X:1
+T:Aujourd'hui peut-être
+T:Aujourd'hui peut-être
+C:Paul Durand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 z2 E/E/E/E/ ||"C" E2 E/E/"C#dim"E/E/"Dm" FF F/F/"Dm7"F/F/ |"G7" FF F/F/F/F/"C" G2 G/G/G/G/ | %3
+w: De- vant ma mai-|son, y'a un pin ter- ri- ble Dont la gros- se|bran- che pour- rait bien tom- ber Sur mon pau- vre|
+w: |pins, des la- pins su- per- bes, Mais ils ont tou-|jours _ en- vie de man- ger... Il faut sans ar-|
+w: |no- ces "avec que" Thé- rè- se, Quand on a é-|té _ tout dé- sha- bil- lés, En sen- tant fré-|
+"C7" G2 G/G/G/G/"F" AA A/A/A/A/ |"D7" A2 A/A/B/c/"G7" !fermata!d4 || %5
+w: toit, quel- le bel- le ci- ble~! Cet- te bran- che|là je vais la cou- per...|
+w: rêt leur cou- per de l'her- be... Et je de- vrais|bien leur en ra- mas- \-ser...|
+w: mir son beau corps de brai- se Je me suis pen-|sé~: "Je vais l'em- bras- ser..."|
+[M:4/4]"C" G>A"Em"B>c"Dm" F F3 |"G7" F>GA>B"C" E4 |"Gm6/Bb" E>F"A7"G>A"Dm" A3 D | %8
+w: Au- jour- d'hui peut ê- tre...|Ou plu- tôt de- main...|Ce sa- cré so- leil me|
+w: Au- jour- d'hui peut ê- tre...|Ou plu- tôt de- main...|Ce sa- cré so- leil me|
+w: Au- jour- d'hui peut ê- tre...|Ou plu- tôt de- main|Moi les é- mo- tions ça|
+"G7" (3G2 G2"Gpower" G2 G A3 |"C" G>A"Em"B>c"Dm" F3 !>!F- |"G7" F>GA>B"C" E4 | %11
+w: don- ne la flem- me...|Je la cou- pe- rai, té~!|_ a- près de- main...|
+w: don- ne la flem- me...|J'en ra- mas- se- rai, té~!|_ a- près de- main...|
+w: me rend tout blê- me...|Ce soir, je suis pas, té~!|_ vrai- ment en train...|
+"Gm6/Bb" E>F"A7"G>^G"Dm7""A" A4 |"F6" A>A"D7"B>c"G7" d"G" d3 |"C9" d>c_B>G"C7" E4 | %14
+w: Et si je peux pas|la cou- per moi mê- me,|Je de- man- de- rai|
+w: Et si je peux pas|la cou- per moi mê- me,|Ben, je lâ- che- rai|
+w: Il se- ra pas long,|mon jo- li po- è- me|Sou- dain, ça m'a pris|
+"F" C>CD>E"F6" D4 |"Dm7" D>DD>D"Am6/D" c4 |"D7" c>cB>A"Dm7/G" (A2"G7" G2) | %17
+w: à l'a- mi To- nin,|Qui la cou- pe- ra|aus- si bien lui mê- me...|
+w: tous mes beaux la- pins|Qui la cou- pe- ront|aus- si bien eux mê- mes...|
+w: au pe- tit ma- tin|On est dé- chaî- né,|i- ci, quand on ai- me...|
+"C7" z G (3GGG (3cEE (3EE_E |"F6" D3 A"F#dim" (3A2 B2 c2 |1"C" G2 (^G,A,)"G7" (A2 G2) | %20
+w: C'est pas que l'on soit fai- né- ant par i-|ci... Mais c'est qu'il fait|chaud dans no- tre Mi-|
+w: C'est pas que l'on soit fai- né- ant par i-|ci Mais la terre est|basse dans no- tre Mi-|
+w: Et trois mois a- près, j'a- vais _ trois pe-|tits nous sommes les rois||
+"C" G4- G2 (E/E/E/E/) :|2"C" G2 ^G,A,"G7" A2 d2 |"C" !fermata!c8 |] %23
+w: di~! _ J'ai de beaux la-|rois dans no- tre Mi-|di~!-|
+w: di~! _ Le soir de mes|||
+w: |||
+

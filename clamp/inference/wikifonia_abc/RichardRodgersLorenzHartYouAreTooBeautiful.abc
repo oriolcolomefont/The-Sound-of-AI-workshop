@@ -1,0 +1,30 @@
+X:1
+T:You Are Too Beautiful
+T:You Are Too Beautiful 
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Dm7" A2 Bc"G7" dcBA |"Em7" G2 GA"A+7" _B3 G |"Dm7" F2 FG"G7b9" _A3 G |"Cmaj7" E2"Gm7""C7" G6 | %4
+w: You are too beau- ti- ful, my|dear, to be true, and|I am a fool for|beau- ty.|
+"Fm7" C2 DE"Bb7" GFED |"Cmaj7" (3C2 E2 G2"Ebdim7" B2 c2 |"Dm7" (3C2 E2 G2"G7" B2 d2 | %7
+w: fooled by a feel- ing that be-|cause I had found you,|I could have bound you,|
+"Cmaj7""Em7b5" G8 |"Dm7" A2 Bc"G7" dcBA |"Em7b5" G2 GA"A7b9" _B3 G |"Dm7" F2 FG"G7b9" _A3 G | %11
+w: too.|You are too beau- ti- ful for|one man a- lone, for|one luck- y fool to|
+"Cmaj7" E2"Gm7""C7" G6 |"Fmaj7" C2 DE"Bb7" GFED |"Cmaj7" (3C2 E2 G2"Ebdim7" B2 c2 | %14
+w: be with.|When there are oth- er men with|eyes of their own to|
+"D7""Dm7""G7" d8 |"C""Gm7""C7" c8 |"Fmaj7" B2 A2"F#dim7" c2 B2 |"C/G" A2"A7" G6 | %18
+w: see|with.|Love does not stand|shar- ing,|
+"Dm7" G2 F4"G7" G2 |"Cmaj7" E8 |"Bm7b5" E2 D2"E7" F2 E2 |"Am7" D2 C6 |"D7" (3C2 E2 G2 B2 c2 | %23
+w: not if one|cares.|Have you been com-|par- ing|my ev- 'ry kiss with|
+"Dm7""G7" d8 |"Dm7" A2 Bc"G7" dcBA |"Em7" G2 GA"A7b9" _B3 G |"Dm7" F2 FG"G7b9" _A3 G | %27
+w: theirs?|If on the oth- er hand, I'm|faith- ful to you, it's|not through a sense of|
+"Cmaj7" E2"Gm7""C7" G6 |"Fmaj7" C2 DE"Bb7" GFED |"Cmaj7" (3C2 E2 G2"Ebdim" B2 c2 | %30
+w: du- ty;|you are too beau- ti- ful and|I am a fool for|
+"D7""Dm7""G7" d8 |1"C""Em7""A7" c8 :|2"Cmaj7" c6 z2 |] %33
+w: beau-|ty.|ty.|
+

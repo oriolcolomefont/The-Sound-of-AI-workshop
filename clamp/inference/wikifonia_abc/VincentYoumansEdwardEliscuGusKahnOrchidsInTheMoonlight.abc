@@ -1,0 +1,26 @@
+X:1
+T:Orchids In The Moonlight
+T:Orchids In The Moonlight
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+S"Fm" z FFG A2 GF |"Db" d4"Fm" c4- | cccd e2 dc |"C7" =e8 | z BBc d2 cB |"Gm7b5" f4"C7" =e4- | %6
+w: When or- chids booom in the|moon- light|_ and lov- ers vow to be|true;|I still can dream in the|moon- light,|
+ eccd _e2 dc |"Fm" f8 | z FFG A2 GF |"Db" d4"Fm" c4- |"F7" cccd e2 dc |"Bbm" f8 | z def- fedB | %13
+w: _ of one dear night that we|knew.|When or- chids fade in the|dawn- ing,|_ they speak of tears and "Good-|bye!"|Tho' my dreams _ are shat- tered,|
+"Fm" z cde- edcA |"C7" z Bcd- dBG=E |"Fm" F2"C7" z2"Fm" z4!fine! |] %16
+w: like the pet- * als scat- tered,|still my love _ can nev- er|die.|
+[K:F]"F" z2 CA"Fdim" _A2"C7" B,G |"F" F4 C4- | C2 FA"F6" c3 c |"C7" c8 | z2 BA B c2 B | %21
+w: There is peace in the|twi- light|_ when the day is|thru,|but the sha- dows that|
+ A2 ^G=G ^G A2 G | =G2 ^F=F ^F G2 E |"F" C6"F#dim" z2 |"C7" z2 CA"Fdim" _A2"C7" B,G |"F" F4 C4- | %26
+w: fall on- ly seem to re-|call all my long- ing for|you.|There's a dream in the|moon- beams,|
+ CFAc"F7" f3 f |"Bb" f8 | z2 d^c d e2 d |"Db" _d2 dc d _e2 d |"F" c2 CA"Fdim" _A2"C7" B,G | %31
+w: _ up on the sea of|blue;|but the moon- beams that|fall, on- ly seem to re-|call, love is all, love is|
+"F" F6 z2!D.S.! |] %32
+w: you.|
+

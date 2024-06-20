@@ -1,0 +1,29 @@
+X:1
+T:Don't Sit Under The Apple Tree
+T:Dont sit under the apple tree
+T:Lew Brown ; Charlie Tobias : and Sam H Stept.
+C:Charlie Tobias, Lew Brown, Sam H Stept
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F F F/F/"C7" G |"F" A A A3/2 B/ | c/c/ z/ c d c/ | z/ A3/2"D7" z2 |"Gm" B/B/ B"C7" c"Gm" G | %5
+w: Don't sit un- der the|ap- ple tree with|an- y- one else but|me|An- y- one else but|
+ G4 |"F" A/A/ A B"C7" A |"F" F"C7" c c c |"F" F F F/F/ z/"C7" G/ |"F" A A A3/2 B/ | %10
+w: me|an- y- one else but|me, No! No! No!|Don't sit un- der the|ap- ple tree with|
+ c/c/ c"Cm" d c |"D7" A2 D"G7" z | G2 G2 |"Gm7" F2"C7" E2 |"F" F3/2- F3/2 z | F F F/F/"C7" G | %16
+w: an- y- one else but|me 'til|I come|march- ing|home. _|Don't go walk- in' down|
+"F" A A A3/2 B/ | c/c/ c d c | A3"D7" z |"Gm7" B/B/ B"C7" c B |"C7" G2 z2 |"F" A/A/ A"Gm" B"C7" A | %22
+w: lov- er's lane with|an- y- one else but|me|An- y- one else but|me|An- y- one else but|
+"F" F"C7" c c c |"F" F F F/F/"C7" G |"F" A A A B/ z/ | c/c/ c"Cm" d c |"D7" A2 D z |"G7" G2 G2 | %28
+w: me, No! No! No!|Don't go walk- in down|lov- ers lane with|an- y- one else but|me 'til|I come|
+"Gm" F2"C7" E2 |"F" F4 | F z z2 |"B" B B B B/c/ |"Gm" d d"C7" d B/=B/ |"F" c d"C7" B c | %34
+w: march- ing|home.|I|just got word from a|guy who heard from the|guy next door to|
+"F" A2"A7" G z |"Dm" F F F G | A A"G7" A G/F/ |"C7" E E F"C" ^F | G2 c2 |"F" F F F/F/"C7" G | %40
+w: me, The|girl he met just|loves to pet and it|fits him to a|'T' So|Dont sit un- der the|
+"F" A A A B/ z/ | c/c/ c"Cm" d c |"D7" A2 D z |"G7" G2 G2 |"Gm7" F2"C7" E2 |"F" F4 | z4 | z4 |] %48
+w: ap- ple tree with|an- y- one else but|me til|I come|march- ing|home|||
+

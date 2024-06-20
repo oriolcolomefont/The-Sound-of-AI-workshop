@@ -1,0 +1,29 @@
+X:1
+T:Thank You For The Music
+T:Thank You for the music
+T:Benny Anderson, Bjorn Ulvaes
+T:Benny Anderson, Bjorn Ulvaes
+C:Benny Andersson and Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" cc/c/ c2 g4 |"D7" ee/e/ e2 a4 |"Fm" ee/e/ e2 _a4 |"C""Dm" g4"Dm""G7" g4 | %4
+"C""Dm" g4"Dm""G7" g4 |:"C" ccc"Cdim"c-"Cdim" c B2 A |"Dm" GGG"G7" G2 AGE- |"C" E8 | %8
+"Gm""C7" z4"C7" z2 z ^G |"F" Ac^GA- A2 z G |"A7" A_BGA A=BAF- |"Dm" F8 |"G7" z4 z2 z G | %13
+"C" GA^FG- G A2 F |"G7" GA^FG- G2 z G |"C7" eeee- e e2 e | ede"Fm"f-"Fm" f2 ed |"Am" cEEE- E4 | %18
+ z4 z2 AB |"Dm" cFFF- FE F2 |"G7""^N.C." G2"^N.C." G2 A2 B2 ||"C" ggg"Dm"g"Dm" f e2 A | %22
+"G7" c2 B2 d c3 |"Am" B3 A B3 c |"D7" e2"G7" d2"G7" c B3 |"C" ggg"Dm"g"Dm" f e2 A | %26
+"E7" c2"Am" B2"Am" dcde- |"F" e2 z2 dcde- |"Fm" e2 z2 z def |"C" g2 g"C7"g-"C7" gd f2 | %30
+"A7" g2 z e f2 g2 |"Dm" aaa"F"a"F" gf z A |"G7" c2 B2 e!<(! d2!<)! c- ||1"C""Cdim" c4"Cdim" ^f4 | %34
+"Dm""G7" e4"G7" g4 |"Cdim" e4 ^f4 |"Dm""G7" f4"G7" g4 :|2"C" c8- || c8 ||"Fm" d6 cB | %40
+"C" c G3 z EGc |"Fm" e2 d2 c2 B2 |"C" c4 z EGc |"Fm" e2"E7" d"E7" f3 e2 |"Am" d2 c2 B2 A2 | %45
+"Dm" A/B/ c3 c/d/ e3 |"G7" e"^N.C."f"^N.C." g6- |"B""G7" g2"G7" g2 g2 g2 || %48
+"C" ggg"Dm"g"Dm" f e2 A |"G7" c2"C" B2"C" d c3 |"Am" B3 A B3 c |"D7" e2"G7" d2"G7" c B3 | %52
+"C" ggg"Dm"g"Dm" f e2 A |"E7" c2"Am" B2"Am" dcde- |"F" e2 z2 dcde- |"Fm" e2 z2 z def | %56
+"C" g2 g"C7"g-"C7" gd f2 |"A7" g2 z e f2 g2 |"Dm" aaa"F"a"F" gf z A |"G7" c2 B2 e d2 c- |"C" c8 | %61
+"A7" z2 e2 f2 g2 |"Dm" aaaa gf z A |"G7" c2 B2 e d3 |"C""Fm" c8 |"^C" g4 a4 |] %66
+

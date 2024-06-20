@@ -1,0 +1,30 @@
+X:1
+T:Stupid Cupid
+T:Stupid Cupid
+T:Neil Sedaka
+T:Howard Greenfield
+C:Neil Sedaka
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+|: z2"F" A^G AF=GF | A2 GF- F4 | z AA^G AF=GF |"F7" A2 GF- F4 |"Bb7" z2 BB BFGF | B2 GF- F4 | %6
+w: Stu- pid Cu- pid you're a|real mean guy _|I'd like to clip your wings so|you can't fly _|I'm in love and its a|cry- in shame _|
+"F" z2 A^G AF=GF | A2 GF- F4 |"C" z2 B2 G4 |"Bb" _A G2 F- F4 |"F" z2 A^G A F2 =G | AC D2 F2 z C | %12
+w: and I know that you're the|one to blame _|Hey, hey|set me free _|Stu- pid Cu- pid stop|pick- in on me I|
+"F" A2 A^G AF=GF | A G2 F- F2 z C | A^GAG AF=GF |"F7" A2 GF- F4 |"Bb7" z2 B2 BFGF | B2 B2 GF F2 | %18
+w: can't do my home work and I|can't think straight _ I|meet him ev- ry morn- in bout a|half past eight _|I'm act- in like a|love- sick fool * you|
+"F" A^GAG AF=GF | A2 GF- F4 |"C7" z2 B2 G4 |"Bb" _A G2 F- F4 |"F" z2 A^G A F2 =G | AC D2 F4 | %24
+w: ev- en got me car- ry in his|books to school _|Hey hey|set me free _|Stu- pid Cu- pid stop|pick- in on me|
+"Bb7" z2 B2 B2 F2 | B2 cB- B2 F2 |"F" A2 A2 A2 G2 |"F7" F8 |"Bb7" z2 B2 B2 F2 | B2 cB- B2 F2 | %30
+w: you mixed me|up but good _ right|from the ve- ry|start|Hey go play|Rob- in Hood * with|
+"G7" G2"Dm7" GG"Bb" G2"G7" G2 |"C7" c8 |"F" z ^GAG AF=GF | G2 GF- F4 |"F" z A A2 AFGF | %35
+w: some- bo- dy els- e's|heart|You got me jump- in like a|cra- zy clown _|I don't fea- ture what you're|
+"F7" A2 G z F4 |"Bb7" z2 BB BFGF | B2 B2 G F2 F |"F" A^GAG AF=GF | A2 GF- F4 |"C7" z2 B2 G4 | %41
+w: put- tin down|since I kissed his lov- in|lips of wine * the|thing that bothers me is that I like|it fine _ _|Hey Hey|
+"Bb7" _A G2 F- F4 |"F" z2 A^G A F2 =G |1"F" AC D2 F4 :|2"F" cC"Bb" D2"F" F2 z2 |] %45
+w: set me free _|Stu- pid Cu- pid stop|pick- in on me|pick- in on me|
+

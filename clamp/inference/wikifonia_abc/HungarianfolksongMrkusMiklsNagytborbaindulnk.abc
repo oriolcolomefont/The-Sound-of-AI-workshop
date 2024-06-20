@@ -1,0 +1,18 @@
+X:1
+T:Nagytáborba indulnék
+T:Nagytáborba indulnék 
+T:Hungarian folk song
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=60
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" CC EE | GG"G" F2 |"C" EE"G" DD |"C" C2 C z |"G" GG BB | dd"D" c2 |"G" BB"D" AA |"G" G2 G z |: %8
+w: Nagy- tá- bor- ba|in- dul- nék,|nem bír- ja a|há- tam.|Min- dent ösz- sze|pa- kol- tam,|a- mit csak ta-|lál- tam.|
+"C" c2 z2 |"F" AA AA | AA A2 | cc BA |"C" G2 c z |"C" CC EE | GG"G" F2 |"C" EE"G" DD |"C" C2 C z :| %17
+w: Hej,|é- des- ked- ves|zsá- kocs- kám,|én csak at- tól|fé- lek,|hogy ösz- sze- nyomsz,|és ki- száll|be- lõ- lem a|lé- lek!|
+

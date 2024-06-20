@@ -1,0 +1,93 @@
+X:1
+T:Your Song
+C:Elton John
+%%score ( 1 2 )
+L:1/16
+M:4/4
+K:Bb
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+V:2 treble 
+L:1/8
+V:1
+"^Bb" z8"^Eb/Bb" z8 |"^F/Bb" z8"^Eb/Bb" z8 |:S"^Bb" z2 dc dcd2"^EbMaj7" d2<d2- d4 | %3
+w: ||It's a lit- tle bit fun- ny _|
+w: ||* If I was a sculp- tor _|
+w: ||* I sat on the roof _ _|
+w: ||So ex- cuse me for- get- ting _|
+"F" z2 cc- cfc2"Dm" (d4 c4) |"Gm"z2zG BBAB-"Gm/F" B2>A2- A2<B2 | %5
+w: this feel- _ ing in- side, _|I'm not one of those _ who _ can|
+w: but then * a- gain no *|* * who makes po- _ tions in a|
+w: and kicked _ off the moss, *|* * * of the vers- es, well they've|
+w: but these _ things I do, _|You see I've for- got- ten if * they're|
+"Gm/E" z2 Bd- d2<B2"^Eb" (_dcB2 FGB2) |"^Bb/F" z2 GB- BBB2"F" d(c2B- B2<)c2 | %7
+w: eas- i- _ ly, hide, _ _ _ _ _|I'm don't _ have much mon- ey, _ _ but|
+w: trav- el- _ in' show, _ _ _ _ I|* know _ it's not much but it's _ the|
+w: got me _ quite cross, _ _ _ _ _|But the sun's been quite kind _ _ _ _|
+w: green or _ they're blue, _ _ _ _ _|An- y- way _ the thing _ _ _ is|
+"D"z2d2 f2<g2"Gm" (3(_dcB G6) |"^Bb" z2 BB- Bdf2"Cm7" g4 (3([dc]c63/64B c2) |1 %9
+w: boy, if I did _ _ _|I'd buy _ a big house where _ _ _|
+w: best I can do, _ _ _|My gift _ is my song and _ _ _|
+w: while I wrote~this song, _ _ _|It's for peo- ple like you, that _ _ _|
+w: what I really mean, _ _ _|Yours are _ the * * eyes _ _ _|
+"^Eb" z2 GB- B2<B2"F" c8 |[M:2/4]"Fsus4" z4"F" z4 :|2[M:4/4]"^Eb" z2 GB- BBB2-"^Bb" B8 | %12
+w: we both _ could live.|||
+w: ||this one's _ for you. _|
+w: keep it _ turned on.|||
+w: ||I've ev- _ er seen. _|
+[M:2/4]"^Eb/Bb" z4"^Bb" z4 ||[M:4/4]"F/A" z2 df- fdf2"Gm" g2fd- dcB2 | %14
+w: ||
+w: |And you _ can tell ev- 'ry- bod- _ _ y|
+w: ||
+w: ||
+"Cm7"z2zG- GBG(d-"^Eb" (3dcB- B6) |"F/A" z2 df- f2f2"Gm" (g2<f2) dcB2- | %16
+w: ||
+w: This _ is your song. _ _ _ _|It may * be quite _ sim- ple but,|
+w: ||
+w: ||
+"Cm7"B2 z2 GBG(d-"^Eb" (3dcB-O B6)"^Last time to Coda" |"Gm" z dgf g2<b2-"Gm/F" bfgf g2<b2- | %18
+w: ||
+w: * now that it's done _ _ _ _|I hope you don't mind, _ I hope you don't mind|
+w: ||
+w: ||
+"Gm/E" bg^fg- gb2(g/=f/)"Eb6" !fermata!g4z2g2 |"^Bb/D" f2>d2- d2<B2"^Eb6" c2>G2- G2>G2 | %20
+w: ||
+w: _ that I put _ down in _ words How|won- der- _ ful life is _ while|
+w: ||
+w: ||
+"^Eb" (_dc2)B- BBc2-"F" c8 |[M:2/4]"Fsus4" z4"F" z4"^D.S. al Coda with repeat" |: %22
+w: ||
+w: you're * in _ the world. _||
+w: ||
+w: ||
+[M:4/4]"Gm"z"^Coda"dgf g2<b2-"Gm/F" bfgf g2<b2- |"Gm/E" bg^fg- gb2(g/=f/)"^Eb6" !fermata!g4z2g2 | %24
+w: I hope you don't mind _ I hope you don't mind|_ that I put _ down in _ words How|
+w: ||
+w: ||
+w: ||
+"^Bb/D" f2>d2- d2<B2"^Eb" c2>G2- G2>G2 |1"^Eb" (_dc2)B- BBc2-"F" c8 |[M:2/4]"Fsus4" z4"F" z4 :|2 %27
+w: won- der- * ful life is _ while|you're _ in _ the world _||
+w: |||
+w: |||
+w: |||
+"^Eb" (_dc2)B- BBB2- |[M:4/4]"^Bb" B8-"^Eb/Bb" B8 ||"^F/Bb" z8"^Eb/Bb" z8 |"^Bb" z16 |] %31
+w: you're _ in _ the world.|_ _|||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ x8 | x8 |: x8 |x4x2zA/A/ | B x x2 z4 | x8 | x8 | x8 | x4 gg x2 |1 x8 |[M:2/4] x4 :|2[M:4/4] x8 | %12
+w: ||||||||||||
+w: |||or a|man||||||||
+w: |||well a|few||||||||
+w: ||||||||sweet- est||||
+[M:2/4] x4 ||[M:4/4] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |[M:2/4] x4 |:[M:4/4] x8 | x8 | x8 |1 %25
+w: |||||||||||||
+w: |||||||||||||
+w: |||||||||||||
+w: |||||||||||||
+ x8 |[M:2/4] x4 :|2 x4 |[M:4/4] x8 || x8 | x8 |] %31
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+

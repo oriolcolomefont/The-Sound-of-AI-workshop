@@ -1,0 +1,52 @@
+X:1
+T:Una nube Blanca
+T:Una nube blanca
+T:Lluis Lach
+T:2
+T:3
+C:Lluis Lach
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" z D G/A/B c2 (3z BG |"Am7" E A3 z2 z D |"G" D B3 z4 | z D G/A/B c2 (3z BG |"Am7" E A3 z2 z E | %5
+w: Sen- ci- lla- men- te, nues- tra|vi- da se~a|le- ja|Co- mo~u ne rue- ca se de-|shi- la, ter-|
+"B" ^D B3 z4 |"Em" z/ Bd/ cB/G/- G/A/B z2 |"D" (3z Bc (3BAF G<A z2 |"G" z D G/A/B/d/-"F#" d c2 B | %9
+w: mi- na|Ac- to- res u- nas _ ve- ces,|es- pec- ta- do- res siem- pre|Sen- ci- lla- men- te~y _ sin sab-|
+"C" G4 z4 |"G/D" z2 D/E/D"D7" G<F B>A |"G" G4 z4 | z D G/A/B ccBG |"Am7" E A3 z2 z D |"G" D B3 z4 | %15
+w: er,|La vi- da qui- ta~y da pa-|pel.|Sen- ci- lla- men- te hay u- na|ho- la que~a|ca- ba|
+ z D G/A/B c B2 G/F/ |"Am7" E A3 z2 z E |"B" ^D B3 z4 |"Em" z B d<c BG A<B |"D" (3z Bc B2 A<F G<A | %20
+w: Qui- zà en de- jar- te que te|ven- za, co-|mien- za|La pla- ya~e na- mo- ra- da|No gus- ta~es pe- ras lar- gas|
+"G" z DGA"F#" B<d- (3dcB |"C" G4 z4 |"G/D" z2 D/E/D"D7" G/FF/ B>A |"G" G4 z4 | z6 z A | G4 z2 z A | %26
+w: Y~a bre los bra- zos _ ha- cia|ti|Por- que se pue- de ar- re- pen-|tir.|A-|si, sin|
+"Em" G4 z2 z3/2 A/ |"Am" B4 A2 dc |"G/D" B3 A-"D" A2 z A |"G" G4 z2 z A |"Em" G4 z2 z3/2 A/ | %31
+w: màs, te|de- jo que me|de- jes _ Sin|màs, a-|si, me|
+"Am" B3 A- A d2 c |"G/D" B3 A-"D" A3 c |"G" B6- Bc |"Em" B4 z2 z B |"Am" d3 c e2 ^d2 | %36
+w: de- jo _ que me|de- jes _ Hi-|ce _ por|ti un|ni- do~a qui en|
+"D7" f2 e2 dcBA |"Em" G G3 z4 |"C" A G3 z2 z3/2 A/ |"Am" B3 A- AAdc |"G/D" B3 A-"D" A2 z A | %41
+w: mi àr- bol Y u- na|nu- be|blan- ca Col-|ga- da _ de u- na|ra- ma. _ Muy|
+"G" G2 G2 z2 z A | G2 G2 z4 | z8 | z8 | z D G/A/B/c/ B2 z G |"Am7" E A3 z2 z D |"G" D B3 z4 | %48
+w: blan- ca, muy|blan- ca…|||A ve- ces cuan- do~el sol de-|cli- na, lo|mi- ras|
+ z D G/A/B/c/ B2 z G/G/ |"Am7" E A3 z2 z E |"B" ^D B3 z4 |"Em" z/ Bd/ cB/G/- G/A/B z2 | %52
+w: Sa- be~y le pe- sa que si men-|gua, lo es-|ti- mas|Lle- ga- mos tar- de~a _ ve- ces|
+"D" z/ A/c/B/ AF G<A z2 |"G" z D G/A/B/d/-"F#" ddcB |"C" G4 z4 |"G/D" z2 D/E/D"D7" G<F B>A | %56
+w: Sin co- no- cer que~a ve- ces,|Con un sen- ci- llo _ ges- to, al|fin,|Po- dri- a di- cer- te que…|
+"G" G4 G3 A |"Em" G4 z2 z3/2 A/ |"Am" B4 A2 dc |"G/D" B3 A-"D" A2 z A |"G" G4 z2 z A | %61
+w: Sin màs, a-|si, me|de- jo que me|de- jes, _ A-|si, sin|
+"Em" G4 z2 z3/2 A/ |"Am" B3 A- A d2 c |"G/D" B3 A-"D" A3 c |"G" B6- Bc |"Em" B4 z2 z B | %66
+w: màs, te|de- jo _ que me|de- jes _ Hi-|ce _ por|ti un|
+"Am" d3 c e2 ^d2 |"D7" f2 e2 dcBA |"Em" G G3 z4 |"C" A G3 z2 z3/2 A/ |"Am" B3 A- AAdc | %71
+w: ni- do~a qui en|mi àr- bol Y u- na|nu- be|blan- ca Col-|ga- da _ de u- na|
+"G/D" B3 A-"D" A2 A2 |"G" G>G- G2 z4 | z4 z2 A2 | G>G- G2 z4 | z4 z2 z c |"G" B6- Bc | %77
+w: ra- ma _ Muy|blan- ca, _|muy|blan- ca. _|Hi-|ce _ por|
+"Em" B4 z2 z B |"Am" d3 c e2 ^d2 |"D7" f2 e2 dcBA |"Em" G G3 z4 |"C" A G3 z2 z3/2 A/ | %82
+w: ti un|ni- do~a qui en|mi àr- bol Y u- na|nu- be|blan- ca Col-|
+"Am" B3 A- AAdc |"G/D" B3 A-"D" A2 z A |"G" G2 G2 z2 z A | G2 G2 z4 | z8 |] %87
+w: ga- da _ de u- na|ra- ma _ Muy|blan- ca, muy|blan- ca.||
+

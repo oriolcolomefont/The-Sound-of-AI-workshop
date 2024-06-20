@@ -1,0 +1,32 @@
+X:1
+T:Alle Jahre Wieder
+T:Alle Jahre wieder
+T:Volksweise
+T:Wilhelm Hey
+C:Volksweise
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G3/2 A/ G"G7" F |"C" E2"G" D2 |"C" C D/E/"G7" F"C" E |"G" D3 z |"C" E G"F" A"C" G | %5
+w: Al- le Jah- re|wie- der|kommt das\_\_ * Chris- tus|Kind|Auf die Er- de|
+w: Kehrt mit sei- nem~|Se- gen|ein in\_\_ * je des|Haus,|geht auf al- len|
+w: Ist auch mir zur|Sei- te|still und\_\_ * un- er-|kannt,|daß es treu mich|
+"F" c2"G7" B A |"C" G F/E/"G7" F G |"C" E3 z | %8
+w: nie- der\_\_\_ *|wo wir\_\_\_ * Men- schen|sind.|
+w: We- gen\_\_\_ *|mit uns\_\_\_ * ein und|aus.|
+w: lei- te\_\_\_ *|an der\_\_\_ * lie- ben|Hand.|
+V:2
+ E3/2 F/ E D | C2 B,2 | G, G,/C/ D C | B,3 z | C E C E | A2 G F | E D/C/ B, D | C3 z | %8
+

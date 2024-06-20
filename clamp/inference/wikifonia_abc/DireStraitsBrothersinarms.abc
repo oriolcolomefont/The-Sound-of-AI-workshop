@@ -1,0 +1,53 @@
+X:1
+T:Brothers in arms
+T:Brothers in Arms
+T:Mark Knopfler
+C:Dire Straits
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"Em" [EB]8- | [EB]8- | [EB]8- | [EB]8- |:"Em""C" [EGB]4"C" [CEG]4 |"Am""C" [CEA]4"C" [CEG]4 | %6
+w: ||||||
+w: ||||||
+w: ||||||
+"Em""C" [EGB]4"C" [CEG]4 |"Em" [B,EG]8 |"Em""C" [EGB]4"C" [CEG]4 |"Am""C" [CEA]4"C" [CEG]2 [DEG]2 | %10
+w: ||||
+w: ||||
+w: ||||
+"Em""C" [EGB]4"C" [CEG]4 |"Em" [A,EG]8 |"Em9" [CEFG]8 |"Em" z z2 G G B2 d |"C""D" e4"D" d4- | %15
+w: |||These mist cov- ed|Mount- ains|
+w: |||Though fields of dis-|truct- ion|
+w: |||Now the suns gone|to hell|
+ d2- dA A B2 d |"G""C" B4"C" c4 |"G" d2"Bm" d2"Bm" d e2 f |"Em""Bm" g4"Bm" f4- | f2- fB B c2 d | %20
+w: * * Are home to me|now *|But my home is the|low lands|* * And al- ways wil|
+w: * * Bap- tis- ims of|fire *|I've watched all your suf-|fer- ings|* * As thel battle raged|
+w: * * And the moons riding|high *|Let me bid you *|fare- well|* * Every man has to|
+"C""Dsus4""D" e8 | d4 d e2 f |"Em" g2"Em""Bm" g2"Bm" f4- | f2- fB Bccd |"C""Am7""D" e8 | %25
+w: be|Some day you will|re- turn to|* * Your val- leys and your|farms|
+w: higher.|Although they did hurt|me so bad|* * In the fear and al-|arm|
+w: die|But its written in|the star light|* * And every line on your|palm|
+ d2- dA A B2 d |"Em" B A2"C" G"C" c2- cB |"D" A8 :|2"Em""C" [EGB]4"C" [CEG]4 || %29
+w: And * You'll no long- er|burn to be brothers * in|arms||
+w: And * you'll no long- er|burn to be brothers * in|arms||
+w: And * we're fools to make|war on our brothers * in|arms||
+"Am""C" [CEA]4"C" [CEG]4 |"Em""C" [EGB]4"C" [CEG]4 |"Em" [B,EG]8 |"Em9" [CEFG]8 |"Em" E4 D4 | %34
+w: |||||
+w: |||||
+w: |||||
+"C""D" [CEG]4"D" [DFA]4 | [DFA]8 |"G" [DGB]8- | [DGB]8- | [DGB]8- | [DGB]8 |"Em" [EGc]8 | %41
+w: |||||||
+w: |||||||
+w: |||||||
+"Em" [FA-c-e-] [FAce]2"D" d"D" d e2 f |"Em""D" g4"D" f4- | f2- f"G"B"G" B c2 d |"C" e8 | %45
+w: ||||
+w: ||||
+w: * * Ther's so many different|worlds *|* * So many dif- ferent|suns|
+"D" d2- d"Em"A"Em" A"D" B2 d | B"G" A2 G"C" c2-"C" cB |"^C" A8 :| %48
+w: |||
+w: |||
+w: And we have just one world|but we live on differ- ent|ones|
+

@@ -1,0 +1,33 @@
+X:1
+T:Love, You Didn't Do Right By Me
+T:Love You Didn't Do Right By Me
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Gmaj7" B4- | B D"D+7" (3D D D |"Gmaj7" E D D2- |"Am7" D3"D7" D |"Gmaj7" (3B B B (3B A G | %5
+w: Love|* you did- n't do|right by me.|* You|planned a ro- ~mance that just|
+w: |||||
+"Bm7" (3F F F"Bbdim7" (3F E D |"Am7" E4- |"Bm7" E2"E7" z2 |"Am7" c4- | c E (3E E E |"D7" G F F2- | %11
+w: had- n't a chance and I'm|through.||Love,|* you did- n't do|right by me|
+w: ||||||
+ F3 D |"Am7" (3A A A (3A G F |"D7" (3E E E (3E D ^C |"Bm7""E7" D4- |"Am7" D2"D7" z D | %16
+w: * I'm|back on the shelf and I'm|blam- ing my- self but it's|you.|* My|
+w: |||||
+"Dm7" (3d d d"G7" (3d c B |"Bdim7" (3A A A"E7b9" (3A ^G =F |"Am7" E4- | E2 z E | %20
+w: one love af- fair did- n't|get an- y- where from the|start|* To|
+w: |||* To|
+"Am" (3c c c"Am7" (3c B A |"Em7" (3G G G"A7" (3G F G |"Am7" A2- (3A E F |"D+7" ^A4 |"Gmaj7" B4- | %25
+w: send me a Joe who had|win- ter and snow in his|heart * was- n't|smart.|Love,|
+w: send me a Jane who had|thun- er and rain in her|heart * * *|||
+ B D (3D D D |"Bdim7" =F E"E7" E2- | (3E E E (3E A B |"Am""Am7" c4- |"D7" c F F F |"Gmaj7" G4- | %31
+w: * you did- n't do|right by me|* as they say in the|song,|* "You done me|wrong!"|
+w: ||||||
+ G2 z2 |] %32
+w: |
+w: |
+

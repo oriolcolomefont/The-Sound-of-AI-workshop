@@ -1,0 +1,30 @@
+X:1
+T:For The Beauty Of The Earth
+T:For The Beauty Of The Earth
+C:Gregorian Chant
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^Slowly" e2 e'2"Bb" d'2 b2 |"Ab" a2 c'2"Bb7" f2 b2 |"Eb" ee'"Bb"d'b"Ab" ac'"Bb7"f!fermata!b | %3
+w: |||
+w: |||
+w: |||
+"Eb" EGBB Bc"Bb" B2 |"Ab" AG"Bb7"FE"Eb" E4 | EG"Bb"BB"Eb" Bc"Bb" B2 |"Ab" AG"Ab6"FE"Eb" E4 | %7
+w: For the beau- ty of the earth,|for the bound- less skies.|For the love which from our birth,|all a- round us lies.|
+w: For the beau- ty of each hour,|for the day and night.|Hill and val- ley, tree and flow'r,|moon and stars of light.|
+w: For the joy of ev- 'ry love,|giv- en on our way.|Friends on earth and friends a- bove,|all who light our way.|
+[M:12/8]"Eb" BB"Ab"cd"Eb"eed"Bb7" B4 |[M:4/4]"Ab" cBAG"Ab6" F4 |"Eb" GB"Ab"AG"Ab6" FE F2 | %10
+w: For the bless- ings of Thy boun- ty|For Thy gra- cious ways,|Lord of all to Thee we sing,|
+w: For the bless- ings of Thy boun- ty|For Thy gra- cious ways,|Lord of all to Thee we sing,|
+w: For the bless- ings of Thy boun- ty|For Thy gra- cious ways,|Lord of all to Thee we sing.|
+"Eb" GE"Bb7"FE"Eb" E4 |] %11
+w: thank- ful hymns of praise.|
+w: thank- ful hymns of praise.|
+w: thank- ful hymns of praise.|
+

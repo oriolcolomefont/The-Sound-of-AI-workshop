@@ -1,0 +1,41 @@
+X:1
+T:Security joan
+C:Donald Fagen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 0
+V:1
+|:"^NC" z8 |"Bbm11" z4"Bm11" z3"^F(note)" z | z8 |"Bbm11" z4"Bm11" z3"^F(note)" z | z8 | %5
+w: |||||
+w: |||||
+"Bbm11" z4"Bm11" z3"^F(note)" z | z8 |"^NC" z{DE} F3{E} _FEDE |"^Bb7(No3)" z8 | z4"Fm7/Bb" z4 | %10
+w: |||||
+w: |||||
+"^Bb7(No3)" z8"^3rd time instramental" |z6"^Fade out 5th repeat"cB | f2 =d2 ccGB | BGz2zG AG | %14
+w: |Well I|guess I need- ed a mi-|ri- cle if I was|
+w: |I *|hung out at the star- bucks|_ _ _ til _|
+ z2 BB B B2=d | =d2<z2"Eb/F"z2>B2 |"^Bb7(No3)" f2 dczG B2 | B B2B- BGAG | z2 BG B2 BB | G z z2 z4 | %20
+w: gon- na make my flight|_ I|had to get to gate|C 13 _ _ and it was|still way out of sight|_|
+w: just a- round board- ing|time then|i strolled on back to|the check- point _ just one thing|on my mind _ _|_|
+"Ebm/Ab" f2 e2 c B2c- | cB B2 B2 Bd- | dd e2 c2 dB- | BA/F/z2zB cB |"Bb7" g2 f2 dcB=d | %25
+w: some- thing in my car-|_ ry on bag tipped off|_ the x- ray ma- chine|_ _ _ 'cause then an|an- gel straight _ from hea-|
+w: she flashed that crook- ed|* smi- le and said 'Well|* be- lieve you missed your|_ flight' _ i said 'There's|been a min- or change of|
+ =d2z2zG BG | z2 BG B2 cG/F/ | GBz2zB BG |"C7" B2 Bd- de_fe | dzz2zG BG |"Eb7" B B2d- d e2d | %31
+w: ven asked me to|'step be- hind the screen' _|_ _ And when i|felt the wand _ sweep o- ver|me you know thing|ne- ver felt _ so clean|
+w: plan and i'll be|stayin' for one more night' _|_ _ i could _|tell from the way she looked at|me e- very- i|was gon- na be al- right|
+"^3rd time vocals back" z4 GB B2 |"^Bb7(No3)" g2"^4th time vocals back" f2 dcB=d | %33
+w: girl you won't|find my name on your list|
+w: well you won't||
+"Bm7/E" z4"^A7(b9)" =dfdf- |"Bb6/Ab" f2 =dg- g f2d |"Gm9" cB- Bc/=d/"C7" z2 BG | %36
+w: ho- ney you know|_ I ain't _ no ter-|ror- ist _ _ _ con- fis-|
+w: |||
+"Abmaj13" c =d2c- c2 Gd- |"D9" =dc- c2zG BG |"Ebmaj9" B4"D/F#" d2>c2- |"C7" c c2"F9"F GF G2 | %40
+w: cate my shoes, _ my cell-|_ phone _ you know i|love love love|_ you sec- u- ri- ty|
+w: ||||
+"Db6" g f3 dBc"Bb7"B :| z8 | z8 | z8 |] %44
+w: joan _ _ _ _ _||||
+w: ||||
+

@@ -1,0 +1,32 @@
+X:1
+T:You'd Be So Nice To Come Home To
+T:You'd Be So Nice To Come Home To
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C6" c |"G7" B2 F G |"C6" A A2 E/F/ |"G/B" G/A/ G"C9" D E |"F" F C2"Fm" C/D/ |"C" E F G ^F/G/ | %6
+w: It's|not that you're|fair- er than a|lot of girls just as|pleas- in', That I|doff my hat as a|
+"D7" A/B/ c d e/d/- |"G""D7/A" d4 |"G/B" z2 z"Eb6" _e |"Bb7" d2 _A _B |"Eb6" c c2 G/_A/ | %11
+w: wor- ship- per at your shrine,|_|It's|not that you're|rar- er than as-|
+"Bb/D" _B/c/ B"Eb9" F G |"Ab" _A _E2 E/F/ |"B" ^F"Eb/Bb" G"Am7b5" _e d/c/ | %14
+w: par- a- gus out of|sea- son, no, my|dar- ling, this is the|
+"Ebdim7/Bb" A"Eb/Bb" _B2"Bdim7" _A/"Cm7"G/ |"D7" ^F D/F/- F2 |"G" G2 || A B z2 |:"Am6""^A" c4 | %19
+w: reas- on Why you've|got to be _|mine:|You'd be|so|
+"Bm7b5" B2-"E7b9" B/ A ^G/ |"Am6" A2"E7b9" E2- |"Am6" E2 ^D E |"Gm9" A4 |"C7" G2- G/ E D/ | %24
+w: nice _ to come|home to,|_ You'd be|so|nice _ by the|
+"Fmaj7" C4- | C2 D E ||"Bm7b5""^B" F3 ^D |"E7" E2- E/ ^G B/ |"Bm7b5""E7b9" d3 B | %29
+w: fire,|_ While the|breeze on|high _ sang a|lull- a-|
+"Am6" c2- c/ d ^d/ |"F#m7b5" e3 c |"B7b9" ^d2 c3/2 B/ |"Bm7b5" B4- |"E7b9" B2 A B ||"Am6""^C" c4 | %35
+w: by, _ You'd be|all that|I could de-|sire.|_ Un- der|stars,|
+"Bm7b5" B2-"E7b9" B/ A ^G/ |"Am6" A2"E7b9" E2- |"Am6" E2 (3E F ^G |"Gm9" A c A2 | %39
+w: chilled _ by the|win- ter,|_ Un- der an|Aug- ust moon,|
+"C7" ^G2- G/ E C/ |"Fmaj7" D4- | D2 E F ||"F#dim7""^D" A4 |"C6/G" G2 z/ A B/ |"G#dim7" d3 c | %45
+w: bum- * ing a-|bove,|_ You'd be|so|nice, You'd be|par- a-|
+"Am6" A2 c d |"D9" e2"Ab7" _e2- |"G7#5b9" _e2"G7b9" d2 |"C6" c4!fine! |"Bm7b5" z2"E7b9" A B :| %50
+w: dise to come|home to|_ and|love|You'd be|
+

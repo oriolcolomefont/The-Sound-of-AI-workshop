@@ -1,0 +1,22 @@
+X:1
+T:Warm Valley
+T:Warm Valley
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bbmaj7" A3 B |"E7" ^G4 |"Eb7" =G A/B/"Em7b5" A"A7" G |"D7" ^F4 |"Dm7b5""G7" =F3 G |"Cm7b5" E4 | %6
+"Bbmaj7" z/ D/F/A/"Cm7" B"F9sus4" B |"Bb6" G3 z |"Bbmaj7" A3 B |"E7" ^G4 | %10
+"Eb7" =G A/B/"Em7b5" A"A7" G |"D7" ^F4 |"Dm7b5""G7" =F3 G |"Cm7b5" E4 | %14
+"Bbmaj7" z/ D/F/A/"Cm7" B"F9sus4" B |"Bb6" B2"F#maj7" z"B7" z |"Emaj7" ^d2- d/^c/=B/^G/ | %17
+"G#m7""Gdim7" ^F3 =E |"F#m7" =B2"B7" B ^c |"Bm7""E7" =B4 |"Amaj7" ^c2- c/=B/A/^G/ | %21
+"Bb13""A7" =G3 A |"Dmaj7" ^F2"C#m7" F2 |"Cm7b5" _G2"F7" F =G |"Bbmaj7" A3 B |"E7" ^G4 | %26
+"Eb7" =G A/B/"Em7b5" A"A7" G |"D7" ^F4 |"Dm7b5""G7" =F3 G |"Cm7b5" E4 | %30
+"Bbmaj7" z/ D/F/G/"Cm7" B"F9sus4" B |1"Bb6""Cm7" B3"F7" z :|2"Bb6" B3 z |] %33
+

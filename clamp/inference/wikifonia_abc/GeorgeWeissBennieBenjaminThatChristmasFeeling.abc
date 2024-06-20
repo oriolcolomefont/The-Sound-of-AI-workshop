@@ -1,0 +1,24 @@
+X:1
+T:That Christmas Feeling
+T:That Christmas Feeling
+C:George Weiss
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"Bb" F3"Bbdim/F" =E |"Bb" F B"Bb/D" A G |"Eb6" G2"Cm7" F2- |"Fsus4""F" F4 |"Cm7" E3 D | %5
+w: How I|love that Christ- mas|feel- ing,|_|how I|
+"F7" (3E A G F E |"Bbmaj7" D4- |"Dm7""G7" D4 |"Eb" C3"Cm7" B | A G"F" F E |"F#dim7" E2"Gm7" D2- | %11
+w: trea- sure it's friend- ly|glow.|_|See the|way a strang- er|greets you,|
+ D3 D/E/ |"C7" =E B A G | ^F G A B |"F7sus4" c4- |"F7" c4 |"Fm7" c c B c |"Bb7" B3 _A | %18
+w: _ just as|though you'd met him|Christ- mas- es a-|go.|_|Christ- mas helps you|to re-|
+"Bdim/Eb" _A2"Ebmaj7" G2- | G3 G |"Gm7" d d c d |"C7" c3 B |"F7" A4- |"F+7" A4 | %24
+w: mem- ber|_ to|do what oth- er|folks hold|dear.|_|
+"Bb" F3"Bbdim/F" =E |"Dm7" F B"A7" A G |"Dm7" G2 F2 |"G7" d3 F/^F/ |"C7" G d G ^G |"F7" A =G2 F |1 %30
+w: What a|bless- ed place the|world would|be if we|had that Christ- mas|feel- ing all|
+"Bb" B4- ||"Cm7" B2"F7" z2 :|2"Bb" B4- ||"Bbmaj7" B2 z2 |] %34
+w: year.|_|||
+

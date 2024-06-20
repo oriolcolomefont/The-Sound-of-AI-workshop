@@ -1,0 +1,32 @@
+X:1
+T:Sunday, Monday or Always
+T:Sunday, Monday or Always
+T:
+T:
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z3"C#dim" ^C |"Dm7" DA^GA"G7" D2 ^CD |"C" EB^AB"C#dim" E2 ^DE |"Dm7" FcBc"G7" Fd^cd | %4
+w: I|just can't help but say, What a|per- fect Sa- tur- day, Ev- 'ry|mo- ment went the way it ought to|
+"C" G4-"Gm" G2"A7" z e |"D7" dA^GA"Dm7" c"G7" B2 d |"C" cG"Cdim"^FG"B7" B F2 A | %7
+w: go. _ I'm|jeal- ous, dear al- read- y of|Phil and Frank and Fred- dy, I|
+"E" ^GE^DE"B7" G2 D2 |"E" E4"G7" G4 ||"Dm7" A>cA>F"G7" D4 |"Cmaj7" G>BG>E"Am" C4 | %11
+w: want to be your stead- y|beau,, So,|Won't you tell me when|we will meet a- gain|
+"Dm7" D A3"G7" D B2 G |"Cdim" ^F"C" G3- G4 |"Dm7" A>cA>F"G7" D4 |"Cmaj7" G>BG>E"Am" C4 | %15
+w: Sun- day Mon- day or|al- ways? _|If you're sa- tis- fied|I'll be at your side|
+"Dm" D A3 D"G" B2"G7" ^F |"C7" G d3- d4 |"Fmaj7" e2 d>c"G7" B>cd>^d |"C" e>GA>G"C6" A4 | %19
+w: Sun- day Mon- day or|al- ways. _|No need to tell me now What|makes the world go 'round.|
+"Dm7" e2 d>c"G7" B>cd>^d |"C" e>GA>G"A7" A>G"C#dim"A>G |"Dm7" A>cA>F"G7" D4 | %22
+w: When at the sight of you my|heart be- gins to pound and pound. And|what am I to do|
+"Cmaj7" G>B"Gm6"G>E"A7" ^C4 |"Dm" D A3"G" D"G7" B2 G |1"C6" A c3-"Cmaj7" c z"A9" z2 :|2 %25
+w: Can't I be with you?|Sun- day Mon- day or|al- ways? _|
+"C6" A2 c6 |] %26
+w: al- ways?-|
+

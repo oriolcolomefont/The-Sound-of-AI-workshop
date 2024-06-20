@@ -1,0 +1,27 @@
+X:1
+T:Don't Ask Me Why
+T:Don't Ask Me Why
+T:Das Lied Ist Aus
+T:Robert Stolz
+T:Joe Young(Eng.)
+C:Robert Stolz
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c c/c/ c/c/ |"Em" e B2 |"F" d c B |"Dm7" A3 |"G7" B B/B/ B/B/ | d A2 |"C" c B G | E3 | %8
+w: Don't ask me why I'm|leav- ing,|Don't Ask Me|Why,|don't ask me why I'm|griev- ing,|don't ask me|why.|
+"A7" E E/E/ E/E/ | A F2 |"D7" E D E | D2 C |"G7" B, C ^C | D B3/2 A/ |"C" A G2 |"D7" e"G7" d2 | %16
+w: I on- ly want to|tell you|I'll miss you|so, and|love you for-|ev- er, for-|get you,|nev- er.|
+"C" c c/c/ c/c/ |"Em" e B2 |"F" d c B |"Dm7" A3 |"E7" B B/B/ B/B/ | f e2 | d B d |"Am" c3 | %24
+w: Tho' you may hear me|sigh- ing,|don't ask me|why,|just keep the mo- ments|fly- ing,|till bye and|bye.|
+"F" z/ D/ E/F/ A/f/ |"Fm" e d2 |"C" z/ C/ D/E/ G/c/ |"A7" B A2 |"Dm7" c c/c/ c/c/ |"G7" e B e | %30
+w: Then we will start a|new love,|you'll whis- per you're a|true love|and no more you'll be|ask- ing me|
+"C" c3- | c2 z |] %32
+w: why.-||
+

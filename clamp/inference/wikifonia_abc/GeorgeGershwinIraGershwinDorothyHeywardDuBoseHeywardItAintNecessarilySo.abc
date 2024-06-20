@@ -1,0 +1,72 @@
+X:1
+T:It Ain't Necessarily So
+T:It Ain't Necessarily So
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z z/ G/ |:"Gm" (3d _d G"C" (3c _c G |"Gm" B2-"C7" B z/ G/ |"Gm" (3d _d G"C" (3c _c G | %4
+w: It|ain't ne- ces- sa- ri- ly|so, _ It|ain't ne- ces- sa- ri- ly|
+w: |2.~Dav- id was small, but oh|my! _ Li'l|~dav- id was small, but oh|
+"Gm" B2- B z/ G/ |"C7" (3d _d G"Db7" (3B G B |"C7" (3G B G"Db7" (3B G B | %7
+w: so, _ De|t'ings dat yo' li- ble to|read in de Bi- ble, it|
+w: my! _ He|fought big Go- li- ath Wo|lay down and di- eth! Li'l|
+"A7" (3G B G"D7" (3F D F |1"Gm""C7" G4- ||"Eb7" G- G/"C" z/ z z/ G/ :|2"Gm" G3 z || %11
+w: ain't ne- ces- sa- ri- ly|so.|_ _ 2.~Li'l|my!|
+w: Dav- id was small, but oh||||
+[M:2/4]"Eb7" _g/>e/-"Db" e |"Gbm" _g/>e/-"Eb7" e |"Ab" e/e/"Eb7" e/4f/4e/ | %14
+w: Wa- doo _|Wa- doo, _|Zim bam bod- dle- doo,|
+w: |||
+"Bdim" e/e/"Ab" e/4f/4e/ |"D7" d/4d/4d/4d/4"Em7" d/d/ |"Dm7b5" d/4d/4d/4d/4"D7" d/d/ | %17
+w: Zim bam bod- dle- doo|Hoo- dle ah da wa da,|Hoo- dle ah da wa da,|
+w: |||
+"Gm" _d/4B/G/4- G | _d/4B/G/4- G |"D" !fermata!B z/ =D/ |:[M:4/4]"Gm" (3d _d G"C" (3c _c G | %21
+w: Scat- ty wah. _|Scat- ty wah. _|Yeah! 3.~Oh,|Jon- ah he lived in de|
+w: |||4.~Mo- ses was found in a|
+"Gm" B2-"C7" B z/ G/ |"Gm" (3d _d G"C" (3c _c G |"Gm" B2- B z/ G/ |"C7" (3d _d G"Db7" (3B G B | %25
+w: whale, _ Oh,|Jon- ah he lived in de|whale, _ Fo'|he made his home in dat|
+w: stream, _ Li'l|Mo- ses was found in a|stream, _ He|float- ed on wat- er till|
+"C7" (3G B G"Db7" (3B G B |"A7" (3G B G"D7" (3F D F |1"Gm""C7" G4- ||2"Eb7" G- G/ z/"C" z z/ G/ :| %29
+w: fish- 's ab- do- men. Oh,|Jon- ah he lived in de|whale.|_ _ 4.~Li'l|
+w: Ole Phar- aoh's daugh- ter She|fished him she said from dat|||
+"Gm" G3 z |][M:2/4]"Eb7" _g/>e/-"Db" e |"Gbm" _g/>e/-"Eb7" e |"Ab" e/e/"Eb7" e/4f/4e/ | %33
+w: |Wa- doo, _|Wa- doo, _|Zim bam bod- dle- oo,|
+w: stream.||||
+"Bdim" e/e/"Ab" e/4f/4e/ |"D7" d/4d/4d/4d/4"Em7" d/d/ |"Dm7b5" d/4d/4d/4d/4"D7" d/d/ | %36
+w: Zim bam bod- dle- oo,|Hoo- dle ah da wa da,|Hoo- dle ah da wa da,|
+w: |||
+"Gm" _d/4B/G/4- G | _d/4B/G/4- G |"D" !fermata!B z/ =D/ |][M:4/4]"Gm" (3d _d G"C" (3c _c G | %40
+w: Scat- ty wah, _|Scat- ty wah, _|Yeah! It|ain't ne- ces- sa- ri- ly|
+w: ||||
+"Gm" B2-"C7" B z/ G/ |"Gm" (3d _d G"C" (3c _c G |"Gm" B2- B z/ G/ |"C7" (3d _d G"Db7" (3B G B | %44
+w: so, _ It|ain't ne- ces- sa- ri- ly|so, _ Dey|tell all you chil- lun de|
+w: ||||
+"C7" (3G B G"Db7" (3B G B |"A7" (3G B G"D7" (3F D F |"Gm" G2- G/ z/ g |"Eb" (3f e _d"Ab" (3c B _A | %48
+w: deb- ble's a vil- lun, But|'tain't ne- ces- sa- ri- ly|so. * To|get in- to Heb- en don|
+w: ||||
+ (3G F G (3_A B c |"D7sus4" d3/2 d/"D7" d3/2 d/ |"G" d3 d |"C7" (3c B =A (3G F =E | %52
+w: snap fo a seb- ben! Live|clean! Don't have no|fault! Oh,|it takes dat gos- pel when|
+w: ||||
+"F" (3D C D (3=E F G |"A7sus4" A3/2 A/"A7" A3/2 A/ |"Bb+" _B3 D |"Gm" (3d _d G"C" (3c _c G | %56
+w: ev- er it's pos- 'ble, but,|wid a grain of|salt. Me|thus'- lah love nine hun- dred|
+w: ||||
+"Gm" B3"C7" z/ G/ |"Gm" (3d _d G"C" (3c _c G |"Gm" B2- B z/ G/ |"C7" (3d _d G"Db7" (3B G B | %60
+w: years, Me-|thus'- lah lived nine hun- dred|years, _ but,|who call dat liv- in' when|
+w: ||||
+"C7" (3G B G"Db7" (3B G B |"A7" (3G B G"D7" (3B G B |"Gm""C" G4- |"F#7" G2"Eb7" z G | %64
+w: no gal- 'll give in to|no man what's nine hun- dred|years?|* I'm|
+w: ||||
+"Am7" (3A B c (3A B c |"G" d2- (3d z D |"C" (3=E ^F G"B7" (3^G =B A | %67
+w: preach- in' dis ser- mon to|show, _ it|ain't ne- ces- sa, ain't ne-|
+w: |||
+"Em" (3=G A ^A"Am7b5" (3=B d c |"G" (3=B c d"C+" (3=e e e |"G""Em7" =e4- |"G""Em7" e4- |"G" e4- | %72
+w: ces- sa, ain't ne- ces- sa,|ain't ne- ces- sa- ri- ly|so.|_||
+w: |||||
+"Em7" e z"G" z2 |] %73
+w: |
+w: |
+

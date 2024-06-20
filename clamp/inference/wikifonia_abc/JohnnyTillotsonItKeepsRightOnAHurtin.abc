@@ -1,0 +1,33 @@
+X:1
+T:It Keeps Right On A-Hurtin'
+T:It Keeps Right On A-Hurtin'
+T:Johnny Tillotson
+C:Johnny Tillotson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 AB |"D7" c3 B c3 A | F2 D4 FA |"G" G2 D2 (3E2 D2 C2 | B,2 D4"^Verse" D2 |:"G" D2 D2 G3 A | %6
+w: ||||* * 1)....I|cry my- self to|
+w: ||||* * 2)....They|say a man should|
+"G7" B2 c2 B A2 G |"C" G2 G2 F2 G2 | A2 G2 E z G2 |"G" G3 D G2 A2 | B3 G F2 G2 |"D7" A8- | A6 D2 | %13
+w: sleep each night; * *|Wish- ing I could|hold you tight. Life|seems so emp- ty|since you went a-|way.|* The|
+w: nev- er cry, * But|when I see you|pass- ing by, My|heart breaks down and|cries a mil- lion|tears.|* You|
+"G" D2 D2 G3 A |"G7" B3 c B2 A2 |"C" G3 G F2 G2 | A2 G2 E2 AB |"D7" c3 B c3 A | F2 D4 FA | %19
+w: pil- low where you|lay your head, Now|holds my lone ly|tears in- stead; And it|keeps right on a-|hurt- in' since you're|
+w: broke my heart and|set me free, But|you for- got your|mem- o- ry. * *|||
+"G""C" G8- |"G" G4 z2 B2 ||"D7""^Chorus" c3 B c3 A | F2 D4 EF |"C" G G3 G2 E2 | C6 GG | %25
+w: gone|* It|keeps right on a|hurt in' Ev- 'ry|min- ute of the|day, Ev- 'ry|
+w: ||||||
+"D7" A3 B A2 G2 | F3 C B,2 C2 |"C" E8 |"G" D2 z D D2 G2 | B2 B2 z2 BB |"G7" B2 z B A2 B2 |"C" c8- | %32
+w: hour * you're a-|way I feel so|lone-|ly, And I can't|help it, I don't|think I can go|on.|
+w: |||||||
+ c4 A2 B2 |"D7" c3 B c3 A | F2 D4 FA |1"G""C" G8- ||"G" G4 z2 D2 :|2"G""C" G8- ||"G" G4 z4 |] %39
+w: * and it|keeps right on a-|hurt- in' since you're|gone|* 2)...They|gone.-||
+w: |||||||
+

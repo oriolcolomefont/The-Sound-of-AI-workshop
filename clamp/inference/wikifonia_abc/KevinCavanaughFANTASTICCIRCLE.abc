@@ -1,0 +1,28 @@
+X:1
+T:FANTASTIC CIRCLE
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z D-EG |"G" B4- BBAG |"F/A" A2 G2 z2 FG |"Bm7" d4- ddcB |"C" G8 | %5
+w: What _ you|give _ re turns twice|ov er, what you|share _ joy mul tip|lies|
+"C6/D" A2 (3:2:2G2"G" B- BG- (3:2:2G2 G |"Am7/D" AAAG"G" B G3 | %7
+w: Let's move clo _ ser _ to|this FAN TAST IC CIR CLE|
+"F" (3:2:2z2 =F z/ F/F"C/E" E/ED/- DC/D/- |"D7" D4 z2 D/-E/G |:"G" B2 BB- B3 G | %10
+w: We won't dis cov er till _ we try|_ As _ your|eyes meet mine _ and|
+"F/A" AB/G/- G4 FG |"Bm7" d2 z/ dd/ z/ dc/- cB |"C" G8 |"C6/D" A2 (3:2:2G2"G" B- BG- (3:2:2G2 G | %14
+w: we be gin, _ I'm re|turned to a child by _ your|muse|Let's move clo _ ser _ to|
+"Am7/D" AAAG"G" B G3 |"F" cBGG"C/E" c/BA/- AG |"D" A8 |"Am7""^CHORUS:" z2 G/G/G/G/- GGBG- | %18
+w: this FAN TAST IC CIR CLE|Ven us left some heav en we _ can|use.|This is the way _ I love _|
+"G/B" G4 z4 |"C9" z2 G/GG/ d4 |"C/D" c B2"G" G- G4 |"Am7" z2 G/GG/ GcBG- |"G/B" G4 z4 | %23
+w: you|This is the way|You love me _|This is the way you love you|_|
+"C9" z2 GG/G/ d4 |"F" cc (3:2:2z2"Cmaj9" d- d4- |"D""_2nd time instrum\ntill CHORUS" d8 :| %26
+w: This is the way|I love me _|_|
+"C" z GGG"Am7" c/BG/-"C/D" G>G |"G" G8 |] %28
+w: We won't dis cov er till _ we|try|
+

@@ -1,0 +1,53 @@
+X:1
+T:chasing CARS
+C:sNOWPATROL
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm=" " snm=" "
+%%MIDI program 0
+V:1
+"^Intro""A" z8 | z8 |:"A"z4z2zE | (B c2)G- G2 (GA) |"E/G#" z8 | (B c2)G- G2 (GF) |"D" z8 | %7
+w: ||We'll|do _ it _ all, _||ev'- _ ry- _ thing _||
+w: ||I|don't _ quite _ know _||how _ to _ say _||
+ c2- cG- G2 (GA) |"A" z8 | z8 |"A" z8 | c2- cG- G2 A2 |"E/G#"z4z2zE | (B c2)G- G2 (GF) |"D"z4z2zE | %15
+w: on _ our _ own. _||||We _ don't _ need,||a- _ ny- _ thing _|or|
+w: how _ I _ feel _||||Those _ three _ words,|I|said _ too _ much, _|but|
+ (B c2)G- G2 (GA) |"A" z8 | z4 cc c2 ||"^Chorus""A" c4 z4 | z4 cc c2 |"E/G#" c2- cB- B2 z2 | %21
+w: a- _ ny- _ one. _||If I lay|here,|if I just|lay _ here _|
+w: not _ e- _ nough _||||||
+ z4 cc c2 |"D" c2- c B2A- A2 | d c2B AA- A2 |1"A" z8 | z8 :|2"A" z8 |z2zE dc c2 ||"A" c4 z4 | %29
+w: Would you lie|with _ me, and *|just for- get the world. _||||For- get what we're|told,|
+w: ||||||||
+z2zE dc c2 |"E/G#" c2- cB- B2 z2 | z4 dc c2 |"D" c2- c B2A- A2 | d c2B AA- A2 |"A" z8 | z8 || %36
+w: be- fore we get|too _ old _|Show me a|gar- _ den that's _|burst- ing in- to life _|||
+w: |||||||
+"A" z8 | c2- cG- G2 A2 |"E/G#" z8 | c2- cG- G2 (GF) |"D"z4z2zE | (B c2)G- G2 (GA) |"A" z8 | z8 | %44
+w: |Let's _ waste _ time,||cha- _ sing _ cars _|A-|round _ our _ heads _|||
+w: ||||||||
+"A"z4z2zE | (B c2)G- G2 (GA) |"E/G#"z4z2zE | c2- cG- G2 (GF) |"D"z4z2zE | (B c2)G- G2 (GA) | %50
+w: I|need _ your _ grace _|to|re- _ mind _ me, _|To|find _ my _ own _|
+w: ||||||
+"A" z8 | z4 cc c2 ||"^Chorus""A" c4 z4 | z4 cc c2 |"E/G#" c2- cB- B2 z2 | z4 cc c2 | %56
+w: |If I lay|here,|if I just|lay _ here _|Would you lie|
+w: ||||||
+"D" c2- c B2A- A2 | d c2B AA- A2 |"A" z8 |z2zE dc c2 |"A" c4 z4 |z2zE dc c2 |"E/G#" c2- cB- B2 z2 | %63
+w: with _ me, and *|just for- get the world. _||For- get what we're|told,|be- fore we get|too _ old _|
+w: |||||||
+ z4 dc c2 |"D" c2- c B2A- A2 | d c2B AA- A2 |"A" z8 | z4 dc c2 ||"A" c4 z4 | z4 dc c2 | %70
+w: Show me a|gar- _ den that's _|burst- ing in- to life _||All that I|am,|All that I|
+w: |||||||
+"E/G#" c2 BB- B2 z2 |z2zE dc c2 |"D" c2- c B2A- A2 | d c2B AA- A2 |"A" z8 | z4 dc c2 |"A" c4 z4 | %77
+w: e- ver was _|Is here in your|per- _ fect eyes _|they're all I can see _||I don't know|where,|
+w: |||||||
+z2zE dc c2 |"E/G#" c2 BB- B2 z2 |z2zE dc c2 |"D" c2 c B2 A2d- | d c2B AA- A2 |"A" z8 | z4 cc c2 || %84
+w: con- fused a- bout|how as well _|just know that these|things will ne- ver change|_ for us at all. _||If I lay|
+w: |||||||
+"^Outro""A" c4 z4 | z4 cc c2 |"E/G#" c2- cB- B2 z2 | z4 cc c2 |"D" c2- c B2A- A2 | d c2B AA- A2 | %90
+w: here,|if I just|lay _ here _|Would you lie|with _ me, and *|just for- get the world. _|
+w: ||||||
+"A" z8 | z8 |] %92
+w: ||
+w: ||
+

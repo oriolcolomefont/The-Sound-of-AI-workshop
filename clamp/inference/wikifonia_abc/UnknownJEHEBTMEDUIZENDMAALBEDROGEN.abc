@@ -1,0 +1,34 @@
+X:1
+T:JE HEBT ME DUIZENDMAAL BEDROGEN
+T: Laukens Music Productions  
+T:Jazz Rock
+T:JE HEBT ME DUIZENDMAAL BEDROGEN
+T:Arr. H. Laukens
+T:2
+T:JE HEBT ME DUIZENDMAAL BEDROGEN blad 2 van 
+T: Laukens Music Productions  
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" E8- | E6 E2 |"F" F3 A3 c2- | c4 A2 F2 |"C" E2 z2 z4 | z8 ||"C" z2 EE E2 EE- | E3 E F2 EE- | %8
+ E2 z2 z4 | z8 |"F" z2 AA AA- A2- | A4 G3 F |"C" E2 z2 z4 | z8 |"G7" G4 B2 B2 | d4- dc B2 |"C" c8 | %17
+ z8 |"F" A4 A2 AA |"C" G4 E2 G2 |"G7" D8- | D4 z G GG ||S"C" G2 AA- AG- GF- | FE- E3 G GG | %24
+ G2 AA- AG- GD- |"G7" D4- DA AA | A2 B2 B2 AG- | G F3- FF EF |"F" A2 AA- A- G2 E- |"C" E4- EG GG | %30
+"F" A2 A2 A2 AG- | GF- F2- FA AA | A2 G G3 CE- |"C" E4- EG GG |"G7" G2 A2 A2 G2 | D2 z2 F3 E | %36
+"C" E2 z2 z4 | z8!dacoda! ||"C" z2 z E E2 EE- | E3 E E2 EE- | E2 z2 z4 | z8 |"F" z2 AA- AA- AA | %43
+ A4 z G2 F |"C" E2 z2 z4 | z8 |"G7" z G2 G B2 B2 | d4- dc B2 |"C" c3 G- G4 | z8 | %50
+"F" z A2 A A2 AG- |"C" G4 z E G2 |"G7" D8- | D4 z GS GG ||"^Trio""G7" z G2 G B2 B2 | d4- dc B2 | %56
+"C" c8 | z8 |"F" z A2 A AA AG- |"C" G6 G2 |"G7" D8- | D4 z G GG |:"C" G2 AA- AG- GF- | %63
+ FE- E3 G GG | G2 AA- AG- GD- |"G7" D4- DA AA | A2 B2 B2 AG- | G F3- FF EF |"F" A2 AA- A- G2 E- | %69
+"C" E4- EG GG |"F" A2 A2 A2 AG- | GF- F2- FA AA | A2 G G3 CE- |"C" E4- EG GG | G2 A2 A2 G2 | %75
+"G7" D2 z2 F3 E |"C" E2 z2 z4 |1 z4 z G GG :|2 z4 z G GG ||"C" G2 A2 A2 G2 |"G7" D2 z2 F3 E | %81
+"C" E2 z2 z4 | z8 | z8 | z4 z2 z G/G/"G7" |"C" c2 z2 z4 |] %86
+

@@ -1,0 +1,54 @@
+X:1
+T:The Power Of Love
+C:Candy Derouge & Gunther Mende
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C/ EE- ED/C/ ||"^[A]""Ab" E E3- E4 | z2 z3/2 E/ E<E AG |"Fm" F4 z4 | z2 z3/2 F/ FF/G/- G>A | %5
+w: the whis- pers _ in the|morn- ing _|of lov- ers sleep- ing|tight|are roll- ing by _ like|
+w: |||||
+"Ab" (E/C)C/ E6 | z2 z3/2 C/ E<E- ED/C/ |"Eb" B,8 | z2 z3/2 C/ EE- E/C/(C/F/- |: %9
+w: thun- _ der now,|as I look _ in your|eyes.|I hold on _ to your _|
+w: ||||
+"Ab" F/)F/(F/E/- E6) | z2 z3/2 E/ E>E AG |"Fm" F8 | z2 z3/2 F/ F>F G>A |"Db" A<F- F2 z3/2 F/ G>A | %14
+w: _ bod- y _ _|and feel each move you|make.|Your voice is warm and|ten- der, _ a love that|
+w: * times _ _ _|it seems I'm far a-|way,|* nev- er won- der|where I am 'cause I am|
+"Ab/C" A E3 z2 AB |"Eb" B8 | z2 z E A B2 d- ||"^[B]""Ab" dc- c6 | z2 z A ABc(A- |"Db" AG F6) | %20
+w: I could not for-|sake.|'Cause I'm your la-|_ dy _|and you are my man.|_ _ _|
+w: al- ways by your|side.|||||
+ z2 z A ABcd- |"Bbm" dF F6 | z2 z A/A/ ABcc- |"Eb" cB- B6 |1 z2 z C/D/ E>D C>F :|2 %25
+w: When- e- ver you reach|_ for me,|I'll do all that I can.|_ _ _|E- ven though there may be|
+w: |||||
+ z2 z E e>c- cB ||"Ab" (cB) (c/4B/4A3/2- A4) | z2 AA ABc(A- |"Db" AG F6) | z2 z A ABcd- | %30
+w: We're head- ing _ for|some- _ thing, _ _ _|some- where I've nev- er been.|_ _ _|Some- times I am fright-|
+w: |||||
+"Bbm" dddd dccB- |"Eb" B2 z E/E/"Db" AAAA- |"Ab" A8 | z8 ||"^[C]""Db" z2 z A"Eb" GGAB | %35
+w: _ ened but I'm read- y to learn|_ 'bout The Pow- er Of Love|_||The sound of your heart|
+w: |||||
+"Ab" (c>B) (c/4B/4A3/2- A2) z2 |"Db" z2 z/ A/A"Eb" G2 z/ F/(F/E/) |"Fm" F4 z4 | %38
+w: beat- _ ing _ _ _|made it clear sud- den- _|ly.|
+w: |||
+"Db" z2 z A"Eb" GGAB |"Ab" e2 (cB) (c/4B/4AB/4c/4 B2) |"Db" z2 z A ABcB- |"Eb""Db" B8-"Eb" | %42
+w: The feel- ing that I|can't go _ on _ _ _ _ _|is light years a- way.|_|
+w: ||||
+ B3"Db" E"Eb" A B2 d- ||"^[D]""Ab" dc- c6 | z2 z A ABc(A- |"Db" AG F6) | z2 z A ABcd- | %47
+w: * 'Cause I'm your la-|* dy _|and you are my man.|_ _ _|When- e- ver you reach|
+w: |||||
+"Bbm" dF F6 | z A A/A/A ABc(c- |"Eb" cB- B6) | z2 z E e>c- cB |"Ab" (cB) (c/4B/4A3/2- A4) | %52
+w: _ for me,|I'm gon- na do all that I can.|_ _ _|We're head- ing _ for|some- _ thing, _ _ _|
+w: |||||
+ z2 AA ABc(A- |"Db" AG F6) | z2 z A ABcd- |"Bbm" dddd eccB- |"Eb" B2 z E/E/"Db" AAA(e- |"Ab" e8- | %58
+w: some- where I've nev- er been.|_ _ _|Some- times I am fright-|_ ened but I'm read- y to learn|_ 'bout the Pow- er Of Love.|_|
+w: ||||||
+ e6- ec/B/ | A2) z2 z4 | z2 z3/2 E/ AB (c/4B/4A)(B/4c/4 | B2- B<A- A4) | z8 |: ABBc c>G- GC | %64
+w: ||The pow- er Of _ _ Love. _|_ _ _ _|||
+w: ||||||
+ ABBc"^Repeat and Fade" c2 z2 :| %65
+w: |
+w: |
+

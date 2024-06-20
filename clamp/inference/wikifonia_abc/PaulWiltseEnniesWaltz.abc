@@ -1,0 +1,15 @@
+X:1
+T:Ennie's Waltz
+T:Ennie's Waltz
+T:Paul Wiltse
+C:Paul Wiltse
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Violin" snm="Vln."
+%%MIDI program 40
+V:1
+ z3 | z3 | z2 E | B,2 D | z3 | z3 | z3 | c A E | z3 | z3 | z3 | z3 | z2 f | A2 d | z3 | z3 | z3 | %17
+ z2 c | d2 z | z3 | z3 | z3 | z3 |"D" D3 :| %24
+

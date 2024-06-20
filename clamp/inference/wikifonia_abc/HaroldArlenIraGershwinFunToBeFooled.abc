@@ -1,0 +1,32 @@
+X:1
+T:Fun To Be Fooled
+T:Fun To Be Fooled
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gmaj7" B3/2 D/ D D- | D3 z |"D7" c3/2 D/ D D- | D3 z |"G7" d3/2 G/ G G- | G2 (3F G e |"Cmaj7" d4 | %7
+w: Fun to be fooled,|_|fun to pre- tend,|_|Fun to be- lieve|_ love is un-|end-|
+w: Nice when you tell,|_|all that you feel;|_|Nice to be told|_ this is the|real|
+"Cm6""F7" c3 z ||"Gmaj7" B3/2 D/ D D- | D3 z |"D7" A3/2 D/ D D- |"D7#9" D D/D/ F E |"Gmaj7" D4- |1 %13
+w: ing.|Thought I was done,|_|Still it is fun,|_ be- ing fooled a-|gain.|
+w: thing;|Fun to be kissed,|_|Fun to ex- ist,|_ to be fooled a-|gain..|
+"Am7""D7" D3 z :|2"Dm7" D z"G7" G G ||"Cmaj7" d2 G G ||"Cm6" d2"F7" G/G/G/e/- |"Gmaj7" e2 E E- | %18
+w: _|* It's that|old de- vil|moon hav- ing his fling|_ once more;|
+w: |||||
+ E z/ G/ G/G/G/e/- |"A7" e2 E E | (3E G G (3G G G |"Am7" e2 E E- |"D7" E3 z || %23
+w: _ Tell- ing me it's spring|_ once more;|I'm a- fraid that love is|king once more!|_|
+w: |||||
+"Gmaj7" d3/2 D/ D D- | D3 z |"D7" c3/2 D/ D D- | D3 z |"A7" e3/2 E/ E E- | E2"D7" A2 |"G6" G4- | %30
+w: Fun to be fooled,|_|fun to pre- tend|_|this lit- tle dream|_ wont|end.|
+w: |||||||
+ G3 z |] %31
+w: _|
+w: |
+

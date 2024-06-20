@@ -1,0 +1,57 @@
+X:1
+T:This is the life
+T:This is the life
+T:By Amy MacDonald
+T:SSa
+C:Amy MacDonald
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ c2cc c2cc c2cc- cccc |"Dm" D8 F4 D2C2 |"B" D8 F4 D2C2 |"F" C8 C4 D2C2 |"Am" C8 E4 z D2D || %5
+w: ||||* * Oh the|
+"Dm" D4 D2<E2 F6 D2 |"B" D2D2 D2EF- F4 z CC2 |"F" C2A,2 A,B,2C- C2C2 z4 | %8
+w: wind whis- tles down the|cold, dark street to- night, _ and the|peo- ple, they were danc- * ing|
+"Am" z2 EE E2<F2 E4 z2 FE |"Dm" D2DC D2DC DDED- DD2C |"B" DCDC D2DC DDEF- F[FA][FA][FA]- | %11
+w: to the mu- sic vibe. And the|boys chase the girls with the curls in their hair, _ and the|shy, tor- ment- ed youth sit a- way ov- er there, _ and the songs|
+"F" [FA][FA][FA][FA]- [FA][FA][FA]2 [FA]2[FA][FA] [FA]2[FA]2 |"Am" [EA]8 z E2E EFED- || %13
+w: _ they get loud- * er, each one bet- ter than be-|fore. And you're sing- ing the songs,|
+S"Dm" D2DD EFED- D2DD DFED |"B" DDDD DFED D2DC DCC2 |"F" CCCC C4 CCCC F2F(E- | %16
+w: _ thing- king this is the life, _ and you wake up in the|morn- ing and you head feels twice the size, where you gon- na go,|where you gon- na go? Where you gon- na sleep to- night?|
+"Am" E2<F2) z4 z [EA]2[EA] [EA][FA][EA][DA]- | %17
+w: _ _ And you're sing- ing the songs,|
+"Dm" [DA]2[DA][DA] [EA][FA][EA][DA-] [DA]2[DA][DA] [DA][FA][EA][DA] | %18
+w: _ thin- king this is the life, _ and you wake up in the|
+"B" [DB][DB][DB][DB] [DB][FB][EB][DB] [DB]2[DB][CA] [DB][CA][CA]2 | %19
+w: mor- ning and you head feels twice the size, where you gon- na go,|
+"F" [CA][CA][CA][CA] [CA]4 [CA][CA][CA][CA] [FA]2[FA]([EA]- |"Am" [EA]2<[FB]2) z4 EEEE F2E(E- || %21
+w: where you gon- na go? Where you gon- na sleep to- night?|_ _ Where you gon- na sleep to night?|
+"Dm" E2<D2) z4 z8 |"B" D2E2F2D2 DE-EF- FD-DF |"F" F2G2A2F2 FG-GA- AG-GF-"^Zur Coda" | %24
+w: _ _|||
+"Am" F8 z4 z F2F ||"Dm" FDDD D2A,A, A,A,CA,- A,F2E |"B" FDD2 D4 B,B,C2 B,2F2 | %27
+w: * So you're|head- ing down the road in you ta- xi for four, _ and you're|wait- ing out- side Jim- my's front door but|
+"F" FCC2 C2 z C FCC2 F2F2- |"Am" F2 E6 z4 z F2E |"Dm" F2D2 D2A,2 A,A,CA,- A,FFE | %30
+w: no- bo- dy's in and no- bo- dy's home 'til|_ four. So you're|sit- ting there with no- thing to do, _ talk- ing a-|
+"B" F2DD DDB,B, B,C2B,- B,2<F2 |"F" FFFF F2>F2 FFFF F2E(E- | %32
+w: bout Ro- bert Ri- ger and his mot- ley crew _ and|where you gon- na go and where you gon- na sleep to- night?|
+"Am" E2<F2) z4 z E2E EFED-"^D.S. al Coda" ||O"Am" EAEA EAEA EAEA EAEA |"Dm" D2E2 F2DD DE2F- FDDD | %35
+w: _ _ And you're sing- ing the songs,|_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _||
+"B" D2E2 F2DD DE2F- FDDD |"F" F2G2 A2FF FG2A- AG2F |"Am" E8 z E2E EFED- || %38
+w: ||* And you're sing- ing the songs,|
+"Dm" D2DD EFED- D2DD DFED |"B" DDDD DFED D2DC DCC2 |"F" CCCC C4 CCCC F2F(E- | %41
+w: _ thin- king this is the life, _ and you wake up in the|mor- ning and you head feels twice the size, where you gon- na go,|where you gon- na go? Where you gon- na sleep to- night?|
+"Am" E2<)F2 z4 z E2E EFED- |:"Dm" [DA]2[DA][DA] [EA][FA][EA][DA]- [DA]2[DA][DA] [DA][FA][EA][DA] | %43
+w: _ _ And you're sing- ing the songs,|_ thin- king this is the life, _ and you wake up in the|
+"B" [DB][DB][DB][DB] [DB][FB][EB][DB] [DB]2[DB][CA] [DB][CA][CA]2 | %44
+w: mor- ning and you head feels twice the size, where you gon- na go,|
+"F" [CA][CA][CA][CA] [CA]4 [CA][CA][CA][CA] [FA]2[FA]([EA]- |1,2 %45
+w: where you gon- na go? Where you gon- na sleep to- night?|
+"Am" [EA]2<)[FB]2 z4 z [EA]2[EA] [EA][FA][EA][DA]- :|3"Am" [EA]4 z4 EEEE F2F2 ||"Dm" D16 | %48
+w: _ _ And you're sing- ing the songs,|_ Where you gon- na sleep to|night?|
+"B" D2E2 F2DD DE2F- FDDD |"F" F2G2 A2FF FG2A- AG2F |"Am" E8 EEEE F2E2 |"Dm" D8 z8 |] %52
+w: _ _ _ _ _ _ _ _ _ _ _ _||||
+

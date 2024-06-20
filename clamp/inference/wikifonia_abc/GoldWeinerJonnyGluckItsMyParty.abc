@@ -1,0 +1,39 @@
+X:1
+T:It's My Party
+C:Gold, Weiner
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+|:"Ab" A2 BB- BAAA |"Ab+" AABB- B A2 z |"Db" AABB- B A2 z |"Dbm" AABB- B A2"Eb7" z | %4
+w: ITS MY PAR _ TY, and I'll|cry if I want _ to|cry if I want _ to|cry if I want _ to|
+w: ||||
+w: ||||
+"Ab" z2 A2"Fm" E2 C2 |"Db" F2 EE"Eb7" GG B2 |"Ab" A4"Db" z2 z"Ab" z | %7
+w: You would cry|too if it hap pened to|you.|
+w: |||
+w: |||
+ z"Eb7" [G,E][G,E][G,E] [G,E][G,E][G,E][G,E] |"Ab" EEEE- EC E2 | %9
+w: |1.No bod y knows _ where my|
+w: |2.Play all my rec _ ords, keep|
+w: |3.Ju dy and John _ ey just|
+"Cb" (3_G2 E2 _C2- C_G, (3:2:2z2 E |"Ab" E2 EE (3E2 C2 E2 |"Db" EF- F6 |"Fb" z2 _F2 F2 _G2 | %13
+w: John ey has _ gone cuz|Ju dy _ left the same|time. _ _|Why was he|
+w: danc ing all _ night, but|leave me a lone for a|while. _ _|'Til John ey's|
+w: walked thru the _ door *|Like a king _ with her|queen. _ _|Oh, what a|
+"Ab" (3A2 E2 C2 A,3 A, |"Bb7" B,>B,- B,F- (3:2:2F E2 F2 |"Eb7" E3- F z4 :| %16
+w: hold ing her hand when|he's sup _ posed _ to be|mine? _|
+w: danc ing with me I've|got no _ rea _ son to|smile. _|
+w: birth day sur prise: _|Ju dy's _ wear _ in' his|ring! _|
+V:2
+|: x8 | x8 | x8 | x8 | x8 | x8 | z2 [A,CE][A,CE] [A,DF] [DFA]2 [CEA] | x8 | x8 | x8 | x8 | x8 | %12
+ x8 | x8 | x8 | x8 :| %16
+

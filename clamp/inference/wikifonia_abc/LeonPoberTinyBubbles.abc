@@ -1,0 +1,25 @@
+X:1
+T:Tiny Bubbles
+T:Tiny Bubbles
+T:Leon Pober
+C:Leon Pober
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." e d |"C" c G3- | G2 f e |"Dm" d4- | d2 d c |"G7" B G3- | G2 e/e/ d |"C" c4- | %8
+w: Ti- ny|bub- bles|* in the|wine|* make me|hap- py|* make me feel|fine|
+ c z"^N.C." e d |"C" c G3- |"C7" G c/c/ d e |"F" f2 A2- | A z"Fm" c d |"C" e/e/g/g/ e c | %14
+w: * ti- ny|bub- bles|* make me warm all|o- ver|* with a|feel- in that I'm gon- na|
+"G7" B/B/G/G/ e d |"C" c4- |"C7" c3 c |"F" A A/A/ c c | f3 A |"C" G G/G/ c c | e3"^N.C." f | %21
+w: love you till the end of|time|* so|here's to the gold- en|moon and|here's to the sil- ver|sea and|
+"D7" ^f e d3/2 ^c/ | =c A e _e |"Dm" d4- |"G7" d z"^N.C." e d |"C" c G3- | G2 f e |"Dm" d4- | %28
+w: most- ly here's a|toast to you and|me|* ti- ny|bub- bles|* in the|wine|
+ d2 d c |"G7" B G3- | G2 e/e/ d |"C" c4- | c z"^N.C." e d |"C" c G3- |"C7" G c/c/ d e |"F" f2 A2- | %36
+w: * make me|hap- py|* make me feel|fine|* ti- ny|bub- bles|* make me warm all|o- ver|
+ A z"Fm" c d |"C" e/e/g/g/ e c |"G7" B/B/G/G/ e d |"C" c4- |"F" c2"C" z2 |] %41
+w: * with a|feel- in- that I'm gon- na|love you till the end of|time.||
+

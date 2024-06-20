@@ -1,0 +1,32 @@
+X:1
+T:Melancholy Serenade
+T:Melancholy Serenade
+C:Jackie Gleason
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 ^FG"G+7" (3:2:4B2 _B2 A_A |:"Cm""G7" G8- |"Cm" G z ^FG"Cm7" (3:2:4_B2 A2 _AG |"Ab7""Ebm" _G8- | %4
+w: Me- lan- cho- ly ser- e-|nade,|_ Ev- 'ry time I hear it|played.|
+"Ab9" G2 z2"Cm" (3_G2 =G2 C2 |"Cm6" _E4 (3^F2 G2 C2 |"G+7" _E6"G7b9" =E2 |"C""Am7" G8- | %8
+w: _ Right out of|space, your haunt- ing|face ap-|pears.|
+"Dm7" G z ^FG"G+7" (3:2:4B2 _B2 A_A |"Cm""G7" G8- |"Cm" G z ^FG"Cm7" (3:2:4_B2 A2 _AG | %11
+w: _ There were oth- er ser- e-|nades,|_ Brok- en prom- is- es you|
+"Ab7""Ebm""^N" _G8- |"Ab9" G2 z2"Cm" (3_G2 =G2 C2 |"Cm6" _E4 (3^F2 G2 C2 |"G+7" _E6"G7b9" =E2 | %15
+w: made,|_ why must I|pay, day af- ter|day with|
+"C""Dm7""G7b9" C8- |"C6" C6 C2 |"Bbm6" (3_B2 G2 _A2 B4 |"C7" z _Bc_d"C+7" _e3 d |"Fm""C7" c8- | %20
+w: tears.|_ A-|lone in my room,|I watch the ghost of|you.|
+"Fm""Fm6" c6 c2 |"Cm" (3c2 A2 _B2 c4 |"D7" z cd_e"D+7" =f3 e |"G""D+7" d8- | %24
+w: _ a-|lone in the gloom,|once more I'm close to|you.|
+"G7" d z ^FG"G+7" (3:2:4B2 _B2 A_A |"Cm""G7" G8- |"Cm" G z ^FG"Cm7" (3:2:4_B2 A2 _AG | %27
+w: _ Me- lan- cho- ly ser- e-|nade,|_ As the mu- sic starts to|
+"Ab7""Ebm" _G8- |"Cm" G2 z2 (3_G2 =G2 C2 |"Cm6" _E4 (3^F2 G2 C2 |"G+7""G7b9" _E6 =E2 |1 %31
+w: fade,|_ I feel your|kiss and then you|dis- ap-|
+"C""Ebdim7" C8- |"Dm7" C z ^FG"G+7" (3:2:4B2 _B2 A_A :|2"C""Ab9""G7b9" C8- |"C""G7b5" C6"C" z2 |] %35
+w: pear.|_ Mel- an- cho- ly ser- e-|pear.||
+

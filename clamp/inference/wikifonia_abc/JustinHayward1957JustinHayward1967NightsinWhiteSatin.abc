@@ -1,0 +1,37 @@
+X:1
+T:Nights in White Satin
+T:Nights in White Satin 
+T:Justin Hayward
+C:Justin Hayward 1957
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z3 |"Em" B A G |"D" A A2- | A2 z |"Em" z z B/B/ | B A G |"D" A3- | A2 z |"C" z3 | e d c | %10
+w: |Nights in white|sat- in||Ne- ver|reach- ing the|end|||Let- ters I've|
+w: |Gaz- ing at|peo- ple|||Some hand in|hand||||
+w: |||||||||Just what I'm|
+"G" d B2 | G3- |"F" G z A/A/ | A G G |"Em" G E2- | E z2 | z3 | B A G |"D" A A2 | A3 | %20
+w: writ- ten||* Nev- er|mean- ing to|send *|||Beau- ty I'd|al- ways|missed|
+w: ||||||||||
+w: going through||* They *|can't un- der-|stand *|||Some try to|tell me||
+"Em" z z B/B/ | B A3/2 G/ |"D" A3- | A2"C" z | z3 | e d3/2 c/ |"G" d2 A- | B z z |"F" z z A/A/ | %29
+w: with these|eyes * be-|fore|||Just what the|truth is||I can"t|
+w: ||||||* to|||
+w: Thought they|can- not de-|fend|||Just what you|want be||You'll *|
+ A G A |"Em" G E2- | E E G |"A" A A2- | A3- | A2 z | z e e/d/ |"C" e e2- | e2 z | g z ^f | ^f e e | %40
+w: say an- y|more *|* "Cause I|love you|||Yes I *|love you||Oh *|how * I|
+w: |||||||||||
+w: be in the|end *|* And I|love you||||||||
+"E" ^f/e/ e2- | e3- |"D" e2 d- | d2 z |"Em" B3- | B2 z |"D" z3 |1 z3 :|"D" z3 |2"Em" z3 || z3 | %51
+w: love * you|||||||||||
+w: |||||||||||
+w: |||||||||||
+ z3 | %52
+w: |
+w: |
+w: |
+

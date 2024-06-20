@@ -1,0 +1,33 @@
+X:1
+T:I Don't Wanna Be A Loser
+C:Barkan
+Z:Creative Commons BY
+L:1/4
+Q:1/4=120
+M:3/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Bb" D/D/ D/D/ D- | D3- | D z z | z z D |"B" ^D D2- | D3- | D z z | z z z |"Db" F/F/ F/F/ F- | %9
+w: I Don't Wan na Be|_||A|Los er|_|||I don't wan na have|
+w: third time In stru mental|_|||||||I don't wan na hear|
+ F3- | F z z | z z z | z z ^C |"Ebm" ^F3 | ^F3 | F/- E3/2- E- | E2 z |"Bb" D/D/ D/D/ D- | D3- | %19
+w: _|||a|brok|en|heart _ _|_|I Don't Wan na Be|_|
+w: _|||you|say|good|bye _ _|_|I Don't Wan na Be|_|
+ D z z | z z D |"B" ^D D2- | D3- | D z z | z z z |"Db" F/F/ F/F/ F/F/ | F3- | F z F | B _A _G | %29
+w: |A|Los er|_|||I don't want an oth er|girl|_ to|tear us a|
+w: |A|Los er|_|||End up with a mill ion|tears|_ that|I'll have to|
+"Ebm" _A/- _G3/2- G- | G3- | G z z | z z z |"Bb" F F F | F/E/ D2 |"Eb" G G G | G/F/ E z | z3 | %38
+w: part _ _|_|||Tell me what|can I do|To keep from|los ing you||
+w: cry _ _|_|||I'll fight with|all my might,|kiss you and|hold you tight||
+"F" A A A | A/G/ F z |"Eb" G F E |"F" F3- | F3- | F z z :| F z D |"F7" E D C |"Gm" D3- | D3- | %48
+w: cuz I could|never live _|with out your|love.|||* a|Los er in|love.|_|
+w: un til you|say I'm right|I don't want|to|be|_|||||
+ D3- |"F7" C3/2 z/ z/ z/ :|"^CODA" F z D |"F7" E D C |"Gm" D3- | D3- | D3- |"F7" C3/2 z/ z/ z/ | %56
+w: ||* a|Los er in|love.|_|||
+w: ||||||||
+ z z C | D3- | D3- | C3 |"Gm" G/G/ G/G/ G/G/ | G G G |"D" !fermata!A3 |] %63
+w: |||||||
+w: in|Love.|_||I DON'T WAN NA BE A|LOS ER IN|LOVE!|
+

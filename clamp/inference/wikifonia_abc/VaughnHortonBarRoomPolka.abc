@@ -1,0 +1,32 @@
+X:1
+T:Bar Room Polka
+T:BAR ROOM POLKA
+T:vaughn horton
+T:vaughn horton
+C:Vaughn Horton
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ D |"G" G F G F | G F E D | E G3- | G4 | G F G F | G F E D |"D7" F4- | F3 D | F ^E F E | F3 D | %11
+w: I|know a lot of|plac- es for re-|fresh- ments,|_|tav- erns and sa-|loons and cab- a-|rets,|_ but|as you paint the|town, don't|
+w: |||||||||||
+"G" G F G F | G3"E7" ^G |"A7" A A A A | A3 d |"D7" d d d d | d d z2 | d2 z2 |"^CHORUS" D ^C D z | %19
+w: run a good place|down, re-|mem- ber one good|point, don't|call it a dive|or a|joint!|It's called a|
+w: |||||||It's called a|
+"G" c2 B2- | B D ^C D | A2 G2- | G2 F G | A G A G | D2"Gdim" E2 |"D7" F4- | F D ^C D | c2 B2- | %28
+w: "tap room"|_ in Penn- syl-|van- ia|_ in Man-|hat- tan it's a|"plush lined|club"|* it's just a|"gin mill"|
+w: "bar- room"|_ in ol' Mil-|wau- kee,|_ it's a|meet- in hall in|wilkes- bar-|re,|* it's just a|'beer hall|
+ B D ^C D | B2 A2- | A2 E F |"A7" G F G B | z2 E2 |"D7" [E,A-]4 | A D ^C D |"G" c2 B2- | B D ^C D | %37
+w: _ in old Chi-|ca- go,|_ and in|Lon don it's a|in'|"pub"|* they serve you|cock- tails,|_ in Ritz- y|
+w: _ in good ol'|Cleve- land|_ or a|"cid- er mill in|Ness-|see.|* they serve a|"schoon- er"|_ in ol' Al-|
+ A2 G2- | G2 F G |"G7" A G A G | A2 G2 |"C" E4- | E2 E F |"C" G F G F |"Cm" G2 G A |"G" B B ^A B | %46
+w: new port|_ and it's|"boil- er mak- ers"|in Squee|dunk|* but no|mat- ter where you|are, when you|stag- ger from a|
+w: too- na,|_ like the|honk- y- tonks in|ol' Bridge-|port,|* but the|thing I'm look- in'|for is a|good ol' swing in'|
+"E7" c2 B A |"Am" c2 c2 |"D7" B2 B2 |"G" G4 |] %50
+w: bar, you're just|plain old|fash- ioned|drunk.|
+w: door where a|pint is|still a|quart.|
+

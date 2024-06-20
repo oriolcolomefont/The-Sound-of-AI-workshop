@@ -1,0 +1,37 @@
+X:1
+T:Follow me
+T:Follow me
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." E E |"Am" E3/2 E/ E E |"G" G G G A |"C" G4- | G3 G/G/ |"F" A3/2 A/"Em7" G3/2 G/ | %6
+w: It's by|far the hard- est|thing I've ev- er|done|* to be|so in love with|
+w: ||||||
+"Dm7" F3/2 F/ F E |"G7" D4- | D2 E F |:"C" G2 d c |"Dm7" F2 G A |"C" G3/2 G/ G E |"F" C2 C D | %13
+w: you and so a-|lone|* fol- low|me where I|go what I|do and who I|know make it|
+w: |||||||
+ E G G3/2 G/ |"Dm7" A3/2 G/ F3/2 E/ |"G7" D4- | D2 E D |"C" C2 E G |"Dm7" F2"^toCoda" A/B/ d | %19
+w: part of you to|be a part of|me|* fol- low|me up and|down all * the|
+w: ||||||
+"C" c3/2 c/ c G |"F" F4 |"C" E G G3/2 G/ |"F" F3/2 E/"G7" D D |"C" C4- | C3 G | G3/2 G/ G A | %26
+w: way and all a-|round|take my hand and|say you'll fol- low|me|* Its|long been on my|
+w: |||||* Yousee|I'llike to share my|
+"G" G2 G G/G/ |"F" F3/2 F/ F F |"C" E3 E |"Am" E3/2 E/ E3/2 E/ |"G" G3/2 G/ G G |"F" A A A/G/ F | %32
+w: mind you know its|been a long long|time I'll|try to find the|way that I can|make you un * der-|
+w: lifewith you and *|show you things I've|seen *|pla- ces that I'm|go- ing to *|pla- ces where * I've|
+"G" G3 G |"F" A3/2 A/ c c |"C" c G2 G |"F" A A A A |"C" G E F G |"F" A3/2 A/"Em" G3/2 G/ | %38
+w: stand the|way I feel a-|bout you and|just how much I|need you to be|there where I can|
+w: been to|have you there be-|side me and|nev- er be a-|lone * and *|all the time that|
+"Dm7" F3/2 F/ E E |"F" F F/F/ E D |"G7" G4- |1 G2 E F :|2 G2"^D.S.alCoda" E F ||"^Coda""C" c4- | %44
+w: talk to you when|there's no one else a-|round|* fol- low|* fol- low-|way|
+w: you're with me then|we will * be at|home.|||C|
+"F" c4 |"C" E G G G |"F" F E"G7" D D |"C" C4- | C2 z2 |] %49
+w: |take my hand and|say you'll fol- low|me.||
+w: |||||
+

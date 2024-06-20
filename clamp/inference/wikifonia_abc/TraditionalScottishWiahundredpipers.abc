@@ -1,0 +1,25 @@
+X:1
+T:Wi' a hundred pipers
+T:Wi' a hundred pipers
+T:unknown
+C:Traditional Scottish
+Z:Public Domain
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4"^n.c." FG |"F" A2 C"C7" CDC |"F" D2 F Fdd |"Am" c2 A"Bb" AGF |"G7" A2 G"Bb" GFG | %5
+w: Wi' a|hun- dred pip- ers an'|a' an' a' wi' a|hun- dred pip- ers an'|a' an' a' well *|
+"G7" A2 C"C7" CDC |"F" D2 F Fdd |"Am" c2 A"C7" GAG |"Bb" F2 F"F" FA_B | c2 c"F7" cAc | %10
+w: up an' gie them a|blaw a blaw wi' a|hun- dred pip- ers an'|a' an' a' O its|owre the bor- der a|
+"Bb" d2 f fed |"F" c2 A"Dm7" AGF |"G7" A2 G"C7" GA_B |"F" ccc"Am" cde |"Dm" f2 f"Bb" fed | %15
+w: wa' a- wa' it's *|owre the bor- der a|wa' a wa' we'll *|on an' we'll march * to|Car- lisle ha' wi' its|
+"F" c2 A"C7" GAG |"Bb" F2 F"F" F"^Chorus:"FG |:"F" A2 C"C7" CDC |"F" D2 F Fdd |"Am" c2 A"Bb" AGF | %20
+w: yetts its cas- tle an'|a' an' a' Wi' a|hun- dred pip- ers an'|a' an' a' Wi' a|hun- dred pip- ers an'|
+"G7" A2 G"C7" GFG |"F" A2 C"F7" CDC |"Bb" D2 F"G7" Fdd |"F" c2 A"C7" GAG |1"Bb" F2 F"F" FFG :|2 %25
+w: a' an' a' we'll *|up an' gie them a|blaw a blaw wi' a|hun- dred pip- ers an'|a' an' a' wi' a|
+"Bb" F2 F"F" F z2 |] %26
+w: a' an' a'|
+

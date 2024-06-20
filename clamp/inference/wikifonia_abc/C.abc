@@ -1,0 +1,28 @@
+X:1
+T:The Rose Of Tralee
+T:The Rose Of Tralee
+T:C. W. Glover
+T:C. Mordaunt Spencer
+C:C.W.Glover
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z2 F2 |"Bb" F2 G2 F2 |"Bb7" d3 c B2 |"Eb" B3 E G2 |"Bb" G2 F2 z F |"F7" F2 G3 F |"Bb" F2 B3 B | %7
+w: The|pale moon was|ris- ing a-|bove the green|moun- tain. The|sun was de-|clin- ing be-|
+"C7" B3 A B2 |"F7" c4 FF |"Bb" F2 G2 F2 |"Bb7" d3 c B2 |"Eb" B2 E2 G2 |"Bb" G2 F2 z F | %13
+w: neath the blue|sea, When I|strayed with my|love to the|pure crys- tal|foun- tain that|
+"F7" F2 e3 e |"Bb" d3 B G2 |"F7" F2 G3 B |"Bb" B4 Bc |"Gm6" d2 d3 c |"D+7" B4 BA |"Gm6" G2 G^F GA | %20
+w: stands in the|beau- ti- ful|vale of Tra-|lee. She was|love- ly and|fair as the|Rose of * the *|
+"D7" ^F2 D3 d |"Gm6" d2 G2 e2 |"D+7" d2 d3 c |"Gm" B3 c"D7" A2 |"Gm" G4"F7" F2 |"Bb" F2 G3 F | %26
+w: sum- mer, Yet|was not her|beau- ty a-|lone that won|me. Oh!|no 'twas the|
+"Bb7" d3 c B2 |"Eb" B2 E2 G2 |"Bb" G2 F2 z F |"F7" F2 e2 e2 |"Bb" d2 B3 G |"F7/A" F2"F7" d3 c | %32
+w: truth in her|eye ev- er|dawn- ing, that|made me love|Ma- ry the|Rose Of Tra-|
+"Bb" B4 z2 |] %33
+w: lee.|
+

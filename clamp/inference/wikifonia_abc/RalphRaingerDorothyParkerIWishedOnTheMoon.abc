@@ -1,0 +1,26 @@
+X:1
+T:I Wished On The Moon
+T:I Wished On the Moon
+C:Ralph Rainger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z =E |"Cm7b5" (3F _G C F2- |"F7" F =G (3A B c |"Bbmaj7" B3/2 A/ G2- |"Dm7""G7" G4 | %5
+w: I|wished on the moon|* for some- thing I|nev- er knew,||
+"Cm7b5" (3F _G C F2- |"F7" F =G (3A B c |"Bbmaj7" ^c3/2 e/ d2- |"Am7b5" d2"D7" c2 | %9
+w: wished on the moon|* for more than I|ev- er knew:|* a|
+"G7" =B3/2 d/"C7" c3/2 _B/ |"F7" A3/2 c/"Bb7" B3/2 _A/ |"Ebmaj7" G2 B C- |"Ab7" C3 D | %13
+w: sweet- er rose, a|soft- er sky, an|Ap- ril day|* that|
+"Cm7" F3/2 F/ F2- |"F7" F2 A2 |"Bbmaj7" F4- |"Dm7" F3"G7" D |"Cm7b5" (3F _G C F2- | %18
+w: would not dance|* a-|way,|* I|begged of a star|
+"F7" F =G (3A B c |"Bbmaj7" B3/2 A/ G2- |"Dm7""G7" G4 |"Cm7b5" (3F _G C F2- |"F7" F =G (3A B c | %23
+w: * to throw me a|beam or two,||wished on a star|* and asked for a|
+"Bbm7" ^c3/2 e/ d2- |"Am7b5" d2"D7" =c2 |"G7" =B3/2 d/"C7" c3/2 _B/ |"F7" A3/2 c/"Bb7" B3/2 _A/ | %27
+w: dream or two.|* I|looked for ev- 'ry|love- li- ness, it|
+"Ebmaj7" G2 e _G- |"Ab7" G3 C |"Cm7b5" (3F _G C F2- |"F7" F2 _d2 |"Bbmaj7" B4- | B2 z2 |] %33
+w: all came true;|* I|wished on the moon|* for|you.||
+

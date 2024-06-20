@@ -1,0 +1,13 @@
+X:1
+T:Huszárnak soroznak
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ C B,3 A,3 B, | C B,3 A,4 | C2 D2 E3 D | E D3 C4 |: E2 E2 A3 G | A G3 E4 | C D3 C2 B,2 | A,4 A,4 :| %8
+w: Hu- szár- nak _|so roz nak,|rossz ba- kan _|csot ad- tak,|ver- je meg _|az Is- ten,|de meg- bú- sí-|tot- tak!|
+

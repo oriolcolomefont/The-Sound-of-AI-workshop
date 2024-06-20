@@ -1,0 +1,44 @@
+X:1
+T:Keep The Home -Fires Burning
+T:Keep The Home-Fires Burning
+T:Till The Boys Come Home
+T:Ivor Novello
+T:Lena Guilbert Ford
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" E3/2 F/"Em" G"C6" E |"G/D" D G B"Am7b5" d/>c/ |"G/D" B2"D7" A2 |"G" G D G, B/>c/ || %4
+w: |||* * * They were|
+w: |||* * * O- ver|
+"G" d B"D9" e c |"G" d B2 G/>A/ | B G"Cm6" c G |"G" B3 A/>G/ |"D7" F A c e | %9
+w: sum- moned from the|hill- side, They were|called in from the|glen, And the|Count- ry found them|
+w: seas there came a|plead- ing, "Help a|Na- tion in dis-|tress!" And we|gave our glo- rious|
+"G" d B"E7sus4" A"Em/B" G |"D/A" F A F"A7" E |"D7" D"G6" (3E/E/E/"D" F"G6" (3E/E/E/ | %12
+w: read- y At the|stir- ring call for|men. * * * * * * *|
+w: lad- dies, Hon- or|made us do no|less. * * * * * * *|
+"D" F d d"G" B/>c/ | d B"D9" e c |"G" d B2 G/A/ | B G"Cm6" c G |"G" B3"A7" A/>G/ | %17
+w: * * * Let no|tears add to their|hard- ship, As the|Sold- iers pass a-|long And al-|
+w: * * * For no|gal- lant Son of|Free- dom To a|ty- rant's yoke should|bend, And a|
+"D" F"Bm7" B"Dmaj7" ^c"D+" d |"Gmaj7" f"A7" e"G" d B |"D/A" F2"Gbm" A2 |"Em7" A2"A7" A2 | %21
+w: though your heart is|break- ing, Make it|sing this|chee- ry|
+w: no- ble heart must|an- swer To the|sa- cred|call to|
+"D" d (3D/D/D/"D9" d (3d/d/d/ |"Bm" d (3d/d/d/"D7" d D ||"G""^Refrain" B3/2 c/ d B |"D7" B2 A2 | %25
+w: song. * * * * * * *||Keep the Home- fires|burn- ing,|
+w: "Friend". * * * * * * *||||
+"Em" G3/2 A/ B G |"B7" G2 F2 |"C" E3/2 F/"Em" G"C6" E |"G" D G B d |"A7" B2 A2 |"D" A D F D | %31
+w: While your hearts are|yearn- ing,|Though your lads are|far a- way They|dream of|Home, * * *|
+w: ||||||
+"G" B3/2 c/ d"Em" B |"D7" B2 A2 |"Em" G3/2 A/ B G |"B7" G2 F2 |"C" E3/2 F/ G"C6" E | %36
+w: There's a sil- ver|li- ning|Through the dark cloud|shi- ning,|Turn the dark cloud|
+w: |||||
+"G/B" D G B"Am7b5" d/>c/ |"G/D" B2"D7" A2 |"G" G4 :| %39
+w: in- side out, Till the|boys come|home|
+w: |||
+

@@ -1,0 +1,27 @@
+X:1
+T:Unless
+T:Unless
+T:Robert Hargreaves,Stanley J Damerell & Tolchard Evans
+C:Robert Hargreaves,Stanley J Damerell & Tolchard Evans
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 B2 |"Eb" e6 |"Eb/G" e6 |"F#dim" e2 d^c de |"Fdim" d4 d2 |"C/E" c6 |"Ebdim" c6 | %7
+w: Un-|less|you|give me your sun- ny|smile, Un-|less|you|
+"Bb/D" c2 B=A Bc |"Dbdim" B4 B2 |"Ab/C" A2 e2 z A |"Gm/Bb" G4 G2 |"Fm6/Ab" F2 c2 z F | %12
+w: make liv- ing worth the|while, Un-|less you will|be so|ten- der to|
+"Eb/G" E3 F GB |"F#dim" d6 |"F7" c2 f2 z c |"Fm7/Bb" f6- |"Bb7" f4 B2 |"Eb" e6 |"Eb/G" e6 | %19
+w: me, then life will|be|just emp- ty|time.|* Un-|less|my|
+"F#dim" e2 d^c de |"Fdim" d4 d2 |"C/E" c6 |"Ebdim" c6 |"Bb/D" c2 B=A Bc |"Dbdim" B4 B2 | %25
+w: pre- sence can make you|glad, Un-|less|my|ab- sence can make you|sad, then|
+"Ab/C" A2 e2 z A |"Gm/Bb" G4 G2 |"Fm6/Ab" F2 c2 z F |"Eb/G" E3 F GB |"F7" e6 |"Bb7" f6 | %31
+w: nought in the|whole wide|world could con-|sole, Un- less your|heart|is|
+"Eb" e2 z4 |] %32
+w: mine.|
+

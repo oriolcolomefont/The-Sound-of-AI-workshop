@@ -1,0 +1,17 @@
+X:1
+T:Five Long Years
+C:Eddie Boyd
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:C
+V:1 treble nm="Flute"
+%%MIDI program 73
+V:1
+ G_B ||"C7" c2 _B c2 B c2 e z3 |"F7" z2 c _e2 f f2 e dcA |"C7" c3 z3 z6 | z6 z3 z cc | %5
+w: If you've|ev- er been mis- treat- ed,|you know just what I'm talk- in' a-|bout|If you've|
+"F7" _e2 c G2 F _E2 C z3 | z2 c _e2 f f2 e dcA |"C7" c3 z3 z6 | z6 z3 z cc | %9
+w: ev- er been mis- treat- ed,|you know just what I'm talk- in' a-|bout|I work|
+"G7" c2 c c_Bc c(_BG- G3) |"F7" z2 c _eec z (ge f/e/ c2) |"C7" z6 z3 z3/2 E/F/E/ | (F/E/- E2) z6 |] %13
+w: five long years for one wo- man * *|and she had the nerve * * * *|to kick me|out. * *|
+

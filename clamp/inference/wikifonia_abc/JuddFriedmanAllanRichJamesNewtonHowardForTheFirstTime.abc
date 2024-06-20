@@ -1,0 +1,65 @@
+X:1
+T:For The First Time
+T:For The First Time
+C:Judd Friedman, Allan Rich
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab" c2e2a2c2"Bbm7/Ab" B2d2a2B2 |"Ab" c2e2a2c2"Gb" B2c2 d4 |"Ab" c2e2a2c2"Bbm7/Ab" B2d2a2B2 | %3
+w: |||
+w: |||
+"Ab" c2e2a2c2"Ebsus4" B2>E2A2E2 |:"Ab" E4 z4"Bbm7" z3 E- EBE2 |"Eb/G" E4 z4"Db/F" z4 z EAB | %6
+w: * * * * * Are those your|eyes? Is _ that your|smile? * I've been|
+w: |real? Can _ this be|true? Am I the|
+"Ab" (3c2d2c2 (BA)F(A-"Fm7" AB) z2 z2 FG |"Bbm7" (3A2A2A2 A2cB-"Ebsus4" B2 z E"Eb"B2E2 | %8
+w: look- ing at you _ for- ev- * er, yet I|nev- er saw you be- fore. * Are those your|
+w: per- son I was _ this morn- * ing, and are|you * the same _ you? _ It's all so|
+"Ab" E4 z4"Db/F" z3 c2-<c2B |"Ab/C" E4 z4"Db" z4 z2 FG |"Fm" A2FA-A2F2"Db" AF2A- A2<c2 | %11
+w: hands hold- * ing|mine? Now I|won- der how _ I could have been _ so|
+w: strange. How can it|be? All a-|long this love _ was right in front _ of|
+"Ebsus4" B4 z4 z4 z EAB |"Ab" c2 e6-"Dbmaj7" e4 z2 AB |"Fm" cf2e- ec2(c"Eb/G" B4) z2 AB | %14
+w: blind. And for the|first time _ I am|look- ing in _ your ~~eyes. _ For the|
+w: me. * * *|||
+"Ab" c2 e4 a2-"Db" a2fee2c(c- |"Ebsus4" c2<B2) z4"Eb" z3 Af2ga- | %16
+w: first time, I'm _ see- ing who you are.|_ _ I can't be- lieve|
+w: ||
+"Db/F" a2dd- dd2d-"Dbm/Fb" d4 z2 cd |"Ab/Eb" eA2A- A2<c2"Db" (BAF2)"Dbm" z2 AB | %18
+w: _ how much _ I see _ when you're|look- ing back _ at me. _ _ Now I|
+w: ||
+"Ab/Eb" c2ee-e2f2"Fm" (cB)A2 z3 F- |"Bbm7" F2E2 z4"Ebsus4" z4"Eb" F2AB- |1"Ab" B2<A2-A2 z2"Fm" z8 | %21
+w: un- der- stand * what love _ is, love|_ is for the first|_ time. _|
+w: |||
+"Db9" z8"Ebsus4" z3 E2<A2E :|2"Ab" B2<A2-A2 z2"Fm" z8 |"Db" z8"Db/Eb" z4 z2 fg || %24
+w: Can this be|* time. _|Such a|
+w: |||
+"Bbm7" a2>f2- fef2 z4"Fm7" z2 fg |"Bbm7" af2f z2 e2"Ebsus4" f2e2"Eb"e2Ac- | %26
+w: long time _ a- go, I had|giv- en up on find- ing this e- mo-|
+w: ||
+"Ab" c2<e2-e2 z2"Eb/G" z4 cef2 |"Fm7" (cBA2) z4"Eb/G" z4 z2 fg |"Dm7/B" a4 fef2- f6 fg | %29
+w: * tion _ ev- er a-|gain. _ _ But you're|here with me now. _ Yes, I|
+w: |||
+"G+7" a2>f2e2(f2 e8) |"Cm7" z efg- gg2f- f4 =d2c2- |"Fsus4""F" c8 z8 |[K:Bb]"Bb""Cm7/Bb" z8 z8 | %33
+w: found you some- how, _|and I've nev- * er been _ so sure.|_||
+w: ||||
+"Bb" z8"Ab" z4 z FBc |"Bb" d2 f6-"Ebmaj7" f4 z2 Bc |"Gm" dg2f- fd2(d"F/A" c4) z2 Bc | %36
+w: And for the|first time, _ I am|look- ing in _ your eyes. _ For the|
+w: |||
+"Bb" d2 f4 b2-"Eb" b2gff2d(d- |"Fsus4" d2<)c2 z4"F" z3 Bg2ab- |"Eb/G" b2ee- ee2e-"Ebm/G" e4 z2 de | %39
+w: first time, I'm _ see- ing who you are.|_ _ I can't be- lieve|_ how much _ I see _ when you're|
+w: |||
+"Bb/F" fB2B- B2<d2"Eb" (cBG2) z4 |[M:2/4]"Ebm" z4 z2 Bc |[M:4/4]"Bb/F" d2ff-f2g2"Gm" dcB2 z4 | %42
+w: look- ing back _ at me. _ _|Now I|un- der- stand _ what love is, _|
+w: |||
+"Cm7" z4 z2 d2"Fsus4" !fermata!c4 GBc2 |"Bb" B8"Gm" g2>B2"F" cFdF | %44
+w: love is for the first|time. * * * * * *|
+w: ||
+"Ebmaj7" f2>B2 cFdF"Ebmaj7/F" d2c2 BFEB |"Bb" B8 z8 |] %46
+w: ||
+w: ||
+

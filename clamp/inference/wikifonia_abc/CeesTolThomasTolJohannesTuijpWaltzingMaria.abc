@@ -1,0 +1,40 @@
+X:1
+T:Waltzing Maria
+C:T Tol / J Tuijp
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G/G/ |:"C" G G A | G E C | C C"G7" D |"C" E3- | E2 G/G/ | G G3/2 A/ | G E C |"F" F F G | %9
+w: When that|old Cu- pid's|ar- row comes|straight to your|heart|_ And you|can't sleep at|night 'cause we're|li- vin' a-|
+w: |don't have much|mo- ney it|makes you feel|blue|_ Then you|are a poor|gam- bler with|noth- ing to|
+w: |bought me a|gui- tar, and|wrote me a|song|_ When I|played a few|chords, the crowd|did- n't stay|
+"G" D3- | D2 G |"C" G G3/2 A/ | G E C |"Am" c c3/2 A/ |"C" G3- | G2 G |"F" A G3/2 F/ |"C" G E C | %18
+w: part|_ You|ain't sure a-|bout her, don't|know what to|do|* Well|don't be a-|fraid, 'cause there'll|
+w: do|_ That|big wheel of|for- tune has|no plans for|you|* Well|don't be a-|fraid 'cause we|
+w: long|_ They|say I'm no|big star and|I~know that it's|true|* Well|don't be a-|fraid 'cause we|
+"G7" E E D |"C" C3- |1 C2 G/G/ :|23 C3 ||"C" E E3/2 F/ | G G E | E F G |"G" B3 |"F" A A3/2 B/ | %27
+w: be some- one|new|_ If you||Let's come to-|ge- ther, to-|ge- ther a-|gain|Just like the|
+w: all do love|you|_ _ _|||||||
+w: all sing with|you|_ _ _|||||||
+ c c c/c/ | c F A |"C" G3- | G2 G/G/ | A G3/2 G/ |"G" G D2- | D2 D/D/ | D C D |"C" F E2- | E3 | %37
+w: old folks as they|sing with the|band|_ like that|walt- zing Ma-|ri- a,|_ with that|fire in her|dark eyes|_|
+w: ||||||||||
+w: ||||||||||
+ E E3/2 F/ | G G3/2 E/ | E F G |"G" B3 |"F" A A3/2 B/ | c c c/c/ | c F A |"C" G3- | G2 G/G/ | %46
+w: One more te-|qui- la and|cling to the|band|just like the|old folks, eve- ry|neigh- bour's a|friend|_ like that|
+w: |||||||||
+w: |||||||||
+ A G3/2 G/ |"G" G D2- | D3- |"F" D z [FA]/[FA]/ |"G7" [FA] [EG]3/2 [DF]/ |"C" [CE]3- | [CE]3- |1 %53
+w: walt- zing Ma-|ri- a,|_|* with those|beau- ti- ful|eyes|_|
+w: |||||||
+w: |||||||
+ [CE] z G/G/ :|"End" [CE]3 |] %55
+w: * Well I||
+w: ||
+w: ||
+

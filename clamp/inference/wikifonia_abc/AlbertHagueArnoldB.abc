@@ -1,0 +1,26 @@
+X:1
+T:Young And Foolish
+T:Young And Foolish
+C:Albert Hague
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Cmaj7" G3"Am7" C |"Dm7" C"G7" D3 |"Cmaj7" z E E F |"Gm7" F G"C7" G2 |"Fmaj7" A3 D | %5
+w: Young and|fool- sish,|why is it|wrong to be|young and|
+"Bb7" D"A7" E3 |"Dm7" z F F G |"G7" G A A2 |"Cmaj7" B c c3/2 B/ |"Bdim7" B c"E+7" c3/2 B/ | %10
+w: fool- ish?|We have- n't|long to be.|Soon e- nough the|care- free days, the|
+"Am7" c G"Bdim7" E"E7" D |"Am7" C4 |"Am7" B c c3/2 c/ |"D7" c d B c |"Dm7" d4- |"G7" d2 z2 | %16
+w: sun- lit days go|by.|Soon e- nough the|blue- bird has to|fly.||
+"Cmaj7" G3"Am7" C |"Dm7" C"G7" D3 |"Cmaj7" z E E F |"Gm7" F G"C7" G2 |"Fmaj7" A3 D | %21
+w: We were|fool- ish,|one day we|fell in love.|Now we|
+"Bb7" D"A7" E3 |"Dm7" z F F G |"G7" G A A2 |"Cmaj7" B c c B |"Bdim7" B"E+7" c3 |"Am7" c d d c | %27
+w: won- der|what we were|dream- ing of?|Smil- ing in the|sun- light,|laugh- ing in the|
+"D7" e3"Bb7" e |"Cmaj7/E" e c"A+7" A F |"Dm7" D3/2 d/"G7" (3d c B |1"Cmaj7""Dm7" c2"G7" z2 :|2 %31
+w: rain, I|wish that we were|young and fool- ish a-|gain!|
+"Cmaj7" c4- || c2 z2 |] %33
+w: gain!||
+

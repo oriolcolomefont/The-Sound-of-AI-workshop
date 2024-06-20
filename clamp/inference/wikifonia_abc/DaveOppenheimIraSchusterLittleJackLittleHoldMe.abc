@@ -1,0 +1,22 @@
+X:1
+T:Hold Me
+T:Hold Me
+T:Little Jack Little: Dave Oppenheim:  and Ira Schuster
+T:Big band ballad
+C:Dave Oppenheim, Ira Schuster, Little Jack Little
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F4 F4- | F4 FG^GA |"A7" E4 E4- | E8 |"Bb" D4 D4- | D4 D^DEF |"D7" C8- | C8 |"Gm" B,4 D4- | %9
+w: Hold me|* hon- ey won't you|hold me?||hold me|* nev- er let me|go||take me|
+"E7" D4 E_ED_D |"F" C4 F4- | F4 DEF^F |"Dm" G4 D4- |"G7" D4 DEF^F |"C7" G8- | G8 |"F" F4 F4- | %17
+w: * hon- ey won't you|take me|* nev- er to for-|sake me|* cause I love you|so||thrill me|
+ F4 FG^GA |"A7" E4 E4- | E8 |"Bb" D4 D4- | D4 D^DEF |"D7" C8- | C8 |"Gm" B,4 G4- |"Bbm" G4 G^GAB | %26
+w: * let your kiss- es|thrill me||just like|* you a- lone can|do||hold me|* ten- der- ly en-|
+"F" A4 E4- | E4 DEF^F |"G7" G4 A4- |"C7" A4 C4 |"F" F8- | F6 z2 |] %32
+w: fold me|* nev- er try to|hold me|* from|you||
+

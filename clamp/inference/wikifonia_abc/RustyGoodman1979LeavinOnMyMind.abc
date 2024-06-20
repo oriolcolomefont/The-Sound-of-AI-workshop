@@ -1,0 +1,43 @@
+X:1
+T:Leavin' On My Mind
+T:Leavin' on My Mind
+T:Rusty Goodman, 1979
+C:Rusty Goodman 1979
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z8 | z8 |"Bb" F/ F/ | F F4 F GB | G- F3- F2 z F/F/ |"Eb" G4 G3 G |"Cm" G6 z B |"F7" A A3 A3 A | %8
+w: ||The _|old house I'm liv ing|in _ _ is _|need ing re|pair The|win dows and the|
+ A G3- G2 z/ F/F/F/ | F/F/ F2"Eb" e4 e |"Bb" d4 z3 F | F2- F/F/F F2 z/ F/G/A/ | GF- F4 z B/B/ | %13
+w: shut ters _ _ are let|ting in the cold cold|air I|say _ to my self I'm gon na|fix 'em _ when _|
+ d3 d"Eb/Bb" e-"Bb" d2"Bb7" c |"Eb" G6 z G | e3 e/e/ d3 c |"Bb" dG F6 |"Cm" z ccB"F7" A/G/ F2 A | %18
+w: I get my self the|time but|all I've been get ting|late _ ly|is leav in on _ _ my|
+"Bb" B8- | B4 z2 FF ||"Bb" F3 B d3 d |"Bbsus4" e"Bb" d2"Bb7" d>c B2 c |"Eb" G8- | G4 z4 | %24
+w: mind|_ Late ly|all I get is|leav in on _ _ my|mind|_|
+"F7" E3 F A3 c | c A3 E4 |"Eb" z4 G B2 c |"Bb" d6 z F | F3 B d3 d | %29
+w: seems that's all I'm|think in' 'bout|most of the|time but|soon and ve ry|
+"Bbsus4" e-"Bb" d2 c"Bb7" d/c/ B2 B |"Eb" c G3- G2 GG |"Cm" G6 z2 |"Eb" e3 e d3 c |"Bb" BG F6 | %34
+w: soon _ I'll leave _ _ my|trou ble _ far be|hind|Late ly I've got|leav _ in|
+"Cm" z3 c/c/"F7" c/B/ A2 A |"Bb" B6- BF/F/ | F F4 F GB | G- F3- F2 z F/F/ |"Eb" G4 G3 G | %39
+w: leav in' on _ _ my|mind. _ So I|guess I _ should be|look ing _ for a|better place to|
+"Cm" G6 z B |"F7" A A3 A3 A | A G3- G2 z/ F/F/F/ | F/F/ F2"Eb" e4 e |"Bb" d4 z3 F | %44
+w: live but|I can't seem to|get excited _ a bout the|world _ and what it|can I|
+ F2- F/F/F F2 z/ F/G/A/ | GF- F4 z B/B/ | d3 d"Eb/Bb" e-"Bb" d2"Bb7" c |"Eb" G6 z G | %48
+w: coult not _ care less if I could|buy it all with a|sol i _ ta ry|dime for|
+ e3 e/e/ d3 c |"Bb" dG F6 |"Cm" z ccB"F7" A/G/ F2 A |"Bb" B8- | B4 z2 FF ||"Bb" F3 B d3 d | %54
+w: what good _ would a|world do me|with leav in _ _ on my|mind?|_ late ly|all I get is|
+"Bbsus4" e"Bb" d2"Bb7" d>c B2 c |"Eb" G8- | G4 z4 |"F7" E3 F A3 c | c A3 E4 |"Eb" z4 G B2 c | %60
+w: leav in on _ _ my|mind|_|seems that's all I'm|think in' 'bout|most of the|
+"Bb" d6 z F | F3 B d3 d |"Bbsus4" e-"Bb" d2 c"Bb7" d/c/ B2 B |"Eb" c G3- G2 GG |"Cm" G6 z2 | %65
+w: time but|soon and ve ry|soon _ I'll leave _ _ my|trou ble _ far be|hind|
+"Eb" e3 e d3 c |"Bb" BG F6 |"Cm" z3 c/c/"F7" c/B/ A2 A |"Bb" B8- |[M:4/4] B6 z |[M:4/4] z8 | z8 | %72
+w: Late ly I've got|leav _ in|leav in' on _ _ my|mind.|_|||
+ z8 | z8 | z8 |] %75
+w: |||
+

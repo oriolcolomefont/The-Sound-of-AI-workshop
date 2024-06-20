@@ -1,0 +1,23 @@
+X:1
+T:Wonderful Copenhagen
+T:Wonderful Copenhagen
+T:Frank Loesser
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" c3/2 =B/ c | c3/2 =B/ c |"Bb" e2 d |"C7" c2 B |"F" A3/2 ^G/ A | A3/2 ^G/ A |"Cm" c3- | %7
+w: Won- der- ful|won- deer- ful|Co- pen-|ha- gen|friend- ly old|girl of a|town|
+"D7" c B A |"Gm" G3/2 B/ d |"C7" z B G |"F" F3/2 A/ c | z d e |"Dm" f z d |"Am" c2 A |"Gm" G3- | %15
+w: * neath her|ta- vern light,|on this|mer- ry night|let us|clink and|drink one|down|
+"C7" G z c |"F" c3/2 =B/ c | c3/2 =B/ c |"Bb" e2 d |"C7" c2 B |"F" A3/2 ^G/ A | A3/2 ^G/ A | %22
+w: * to|won- der ful|won- der- ful|Co- pen-|ha- gen|sal- ty old|queen of the|
+"Cm" c3- |"D7" c B A |"Gm" G3/2 B/ d |"C7" z B G |"F" F3/2 A/ c | z d e |"Dm" f2 d |"Am" c2 A | %30
+w: sea|* once I|sailed a- way|but I'm|home to- day|sing- ing|Co- pen-|hag- en|
+"Dm" f3/2 d/ c | A3/2 G/ F |"G7" f2 d |"C7" g3/2 f/ e |"F" f3 |1"C7" e d _d :|2"F" f3- || f z2 |] %38
+w: won- der- ful|won- der- ful|Co- pen-|ha- gen for|me||me.||
+

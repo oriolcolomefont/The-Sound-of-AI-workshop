@@ -1,0 +1,19 @@
+X:1
+T:Bouree, Suite for Lute in E-minor. 5th movement.
+T:Bouree
+T:Lute suite in E minor, (#)
+T:Bach
+C:J.S. Bach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="C"
+%%MIDI program 71
+V:1
+ EF | G2 FE ^D2 EF | B,2 ^C^D E2 =D=C | B,2 A,G, F,2 G,A, | B,A,G,F, E,2 EF | G2 FE ^D2 EF | %6
+ B,2 ^C^D E2 =D=C | B,2 A,G, F,3 G, | G,6 B,G, | D2 A,C B,2 GD | E2 B,D C2 B,A, | %11
+ ^G,2 A,B, C2 B,A, | A,6 DA, | B,2 FD E2 B,D | C2 AE F2 ^CE | D2 ^CB, _B,3 =B, | B,6 BF | %17
+ ^G2 FE A2 E=G | F2 ED G2 D=F | E2 AE F2 ^CE | ^D2 B,4 EB, | C2 DA, B,2 CG, | A,2 B,F, G,2 F,E, | %23
+ ^D,2 E,F, G,2 F,E, | E,6 z2 |] %25
+

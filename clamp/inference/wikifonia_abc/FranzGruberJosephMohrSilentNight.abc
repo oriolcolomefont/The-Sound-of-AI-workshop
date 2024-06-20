@@ -1,0 +1,27 @@
+X:1
+T:Silent Night
+T:Silent Night
+C:Franz Gruber
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" (F>G)F D3 | (F>G)F D3 |"F7" c2 c A3 |"Bb" B2 B F3 |"Eb" G2 G (B>A)G |"Bb" F>GF D2 z | %6
+w: Si- * lent night!|Ho- * ly night!|All is calm,|all is bright.|Round yon Vir- * gin|Moth er and Child!|
+w: Si- * lent night!|Ho- * ly night!|Shep- herds quake|at the sight!|Glo- ries stream _ from|heav- en a- far,|
+w: Si- * lent night!|Ho- * ly night!|Son of God,|love's pure light!|Ra- diant beams from Thy|ho- * ly face|
+w: ||||||
+"Eb" G2 G B>AG |"Bb" F>GF D3 |"F7" c2 c e>cA |"Gm" B3"Em7b5" d2 z |"Bb" (B>F)D"F7" (F>E)C | %11
+w: Ho- ly In- fant so|ten- der and mile,|Sleep in heav- en- ly|peace! _|Sleep _ in heav- en- ly|
+w: Heav'n- ly hosts _ sing,|"Al- le- lu- ia!"|Christ the Sa- vior is|born! _|Christ, _ the Sa- vior is|
+w: With the dawn of re-|deem- * ing grace,|Je- sus Lord at Thy|birth! _|Je- * sus Lord at Thy|
+w: |||||
+"Bb" B,3- B,2 z |] %12
+w: peace. _|
+w: born! _|
+w: birth! _|
+w: |
+

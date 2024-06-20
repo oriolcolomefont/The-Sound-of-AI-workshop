@@ -1,0 +1,24 @@
+X:1
+T:The Last Word In Lonesome Is Me
+T:The last word in lonesome is me
+T:Roger Miller
+T:Waltz
+C:Roger Miller
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 E2 |"C" G6 | A4 E2 |"G7" G2 G2 G2 | F4 G2 | G6 | f2 e2 d2 |"F" c2 AF G2 |"C" G4 G2 | a2 g2 e2 | %10
+w: The|last|word in|lone- some is|me the|last|word * in|lone- some * is|me my|heart is as|
+ ed c2 AB |"F" c4 AG |"Dm" D2 E2 F2 |"G7" G2 B3 A |1 G2 A3 G ||"C" GF"^to" E4- | %16
+w: lone * ly as a|heart can be|lone- ly the|last word in|lone- some is|me * *|
+"^next" E2 z2"^strain" C2 ||2 G2 A3 B ||2"C" c6- ||"^fine" c2 z4 |] C4 E2 | G G3- GE |"G7" G4 D2 | %23
+w: * Too|lone- some is|me||bad whats|hap- pened * to|our good|
+ D4- DE | F4 G2 | B B3- BA |"F" A4 E2 |"C" E6 | G2 c2 e2 | e4 ed |"F" c4 AF |"Dm" D4 EF | %32
+w: love * too|bad whats|hap- pened * to|our good|love|some- times our|best is- nt|quite good e-|nough and the|
+"G7" G2 B3 A | G2 A3 G |"C" GF E4- |"^D.C.alfine" E2 z4 |] %36
+w: last word in|lone- some is|me. * *||
+

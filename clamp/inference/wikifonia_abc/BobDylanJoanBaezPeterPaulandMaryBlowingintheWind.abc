@@ -1,0 +1,36 @@
+X:1
+T:Blowing in the Wind
+T:Blowin' In The Wind
+T:Bob Dylan
+C:Bob Dylan, Joan Baez, Peter Paul and Mary
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" G2 G G |"F" A2 G F |"C" G2 E D | C3 E |"C" G2 G G |"F" A2 G F |"C" G4- | G2 E F |"C" G2 G G | %9
+w: How man- y|roads must a|man walk- *|down be-|fore- * you|call him a|man?|* Yes, 'n'|How man- y|
+w: How man- y|times must a|man look- *|up be-|fore he can|* * the|sky?|* Yes, 'n'|How man- y|
+w: How man- y|years can a|moun- tain ex-|ist be-|fore- * it's|washed to the|sea?|* Yes, 'n'|How man- y|
+"F" A2 G F |"C" G2 E D | C3 E |"C" G2 G E |"F" F2 F E |"G7" D4- | E2 E F |"C" G2 G G |"F" A2 G F | %18
+w: seas must a|white dove _|sail be-|fore _ she|sleeps in the|sand?|_ Yes, 'n'|How man- y|times must the|
+w: ears must _|one man _|have be-|fore he can|hear peo- ple|cry?-|* Yes 'n'|How man- y|deaths will it|
+w: years can some|peo- ple ex-|ist be-|fore they're a-|lowed to be|free?-|* Yes, 'n|How man- y|times can a|
+"G7" G2 E D |"C" C3 E |"C" G2 G G |"F" A2 G F |"C" G4- | G3 E |"F" F2 F E |"G7" D3 D | %26
+w: can- non balls|fly be-|fore they're *|for- ev- er|banned?-|* The|an- swer my|friend is|
+w: take 'till he|knows that|too man- y|peo- ple have|died?||||
+w: man turn *|his head|pre- tend- he|just does- n't|see?||||
+"C" E/ E3/2 E D |"Am" C3 E |"F" F2 F E |"G7" D/ D3/2 C B, |1,2"C" C4- | C4 :|3"C" C4- || C3 E | %34
+w: Blow– in' In The|Wind. The|an- swer is|Blow- in' In The|Wind.|_|Wind.|_ The|
+w: ||||||||
+w: ||||||||
+"F" F2 F E |"G7" D D3- | D2 C B, |"C" C4- | C4 |] %39
+w: an- swer is|Blow- in'|_ In The|Wind.|_|
+w: |||||
+w: |||||
+

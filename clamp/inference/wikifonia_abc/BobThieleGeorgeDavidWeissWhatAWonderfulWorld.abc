@@ -1,0 +1,48 @@
+X:1
+T:What A Wonderful World
+T:What A Wonderful World
+T:Bob Thiele, George David Weiss
+T:mariehelene.julien@gmail.com
+C:Bob Thiele, George David Weiss
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D""Dpower/C#" z8 |"G" z4"Em/A" z2 A,A, |:"D""^A" D3 F"Dpower/C#" A4 |"G" z B"G/B" BB"D" A4 | %4
+w: |I see|trees of green,|red ros\- es too,|
+w: ||||
+"Em7" z G GG"D" F4 |"F#7" z E EE"Bm" D2-"D/A" (3DDD |"Bb" D2- (3DDD D4 | %7
+w: I see them bloom|for me and you, * and I|think * to my\- self|
+w: |||
+"Em7" z2 DD"A7" (3C2 D2 E2 |"D" F4-"Bm" F4- |"Em" F4"A7" z2 A,C ||"D""^A" D3 F"D/C#" A3 A | %11
+w: What A Won\- der\- ful|World. *|* I see|skies of blue and|
+w: ||||
+"G""G/B" B3 B"D" A3 A |"Em7" G2- (3GGG"D" F3 F |"F#7" E2- (3EEE"Bm" D2- (3DDD |"Bb" D2- (3DDD D4 | %15
+w: clouds of white, the|bright * bless\- \-ed day, the|dark * sac\- red night, * and I|think * to my\- self|
+w: ||||
+"Em7" z2 DD"A7" (3C2 D2 E2 |"D" D4-"G" D4- |"D" D4 z2 D2 ||"Em""^B" EEEE"Em/A" E A,2 A, | %19
+w: What A Won\- der\- ful|World. *|* The|col\- ors of the rain\- bow, so|
+w: ||||
+"D" GFF^E"Bm" F3 D |"Em" EEEE"Em/A" E A,2 E |"D" GFF^E F2 FA |"Bm" B2 BB"F#m" A2- (3AFA | %23
+w: pret\- ty in the sky are|al\- so on the fac\- es of|peo\- ple go\- in' by, I see|friends shak\- in' hands, * say\- in',|
+w: ||||
+"Bm" B2 BB"F#m" A4 |"Bm" z B BB"F#m" A A3 |"Em7" G2 F2"A7" E2 A,C ||"D""^A" D3 F"D/C#" A3 A | %27
+w: "How do you do!"|They're real\- ly say\- in'|"I Iove you," I hear|ba\- bies cry I|
+w: |||* * * watch|
+"G""G/B" B3 B"D" A4 |"Em7" z G GG"D" F3 F |"F#7" E2- (3EEE"Bm" D2-"D/A" (3DDD |"Bb" D2- (3DDD D4 |1 %31
+w: * them grow.|* learn much more than|I'll * ev\- er know, * and I|think * to my\- self|
+w: ||||
+"Em7" z2 DD"A7" (3C2 D2 E2 ||"D" D4"G" z4 |"D7""G/A""A7" z8 :|2"Em7" z2 DD"A7" (3C2 D2 E2 || %35
+w: What A Won \-der ful|World.||What A Won \-der ful|
+w: ||||
+"D""Am/C" F8- |"B" F4 z2 A2 |"Em7" A2 DD D4 |"^N.C.""_what a wonderful" d8 | %39
+w: world|* I|think to my- self|"oh"|
+w: ||||
+"D""Dsus2/F#""G""G/B" D8 |"D" z8 |] %41
+w: world||
+w: ||
+

@@ -1,0 +1,28 @@
+X:1
+T:The Air That I Breathe
+T:The air that I breathe
+T:Albert Hammond and Mike Hazelwood
+C:Albert Hammond, Mike Hazelwood
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c4 z2 Bc | d2 cB- B2 z ^F |"E7" ^G4 z2 ed- | d2 z2 z4 |"F" A6 FG |"Fm" _A _B2 c- c c2 c- | %6
+w: If I could|make a wish * I|think I'd pass||can't think of|an- y- thing * I need|
+w: No cig- ar-|ettes, no sleep, * no|light, no sound,||noth- ing to|eat, no books * to read|
+"C" c4 z4 |"G7" z8 :|"C" z8 |"G" B4- Bcde | B4- Bcde |"Fm" f3 f g2 fe- |"C" e4 z4 |"G" B4- Bcde | %14
+w: |||Mak * ing love with|you * has left me|peace- ful warm and tired,||what * more could I|
+w: ||||||||
+ B4- Bcde |"Fm" f3 _A A2 AG- |"C" G4 z4 | c4 z2 Bc | d2 c2 B2 z ^F |"E7" ^G4 z2 ed- | %20
+w: ask * there's noth- ing|left to be de- sired||Peace came up-|on me and it|leaves me weak|
+w: ||||||
+ (3d2 c2 B2 A^G z2 |"F" A4 z2 FG |"Fm" _A_B z c- c2 z c |"C" c8- | c4 z4 |: c3 c- c4 | %26
+w: |sleep, si- lent|an- gel go * to|sleep.||Some- times *|
+w: ||||||
+ z2 gg gggg- |"G7" gfed- dc B2 |"C" c3"_Repeat and fade" c- c4 :| %29
+w: all I need is the air|* that I breathe * and to|love you. *|
+w: |||
+

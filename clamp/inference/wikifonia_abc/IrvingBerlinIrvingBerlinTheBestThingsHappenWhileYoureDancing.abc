@@ -1,0 +1,28 @@
+X:1
+T:The Best Things Happen While You're Dancing
+T:The Best Things Happen While You're Dancing
+C:Irving  Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 F2 |:"Bb6" B3 D- D4- | D4 B,CDF | B3 D- D4- | D4 B,CDF | B B2 A G2 F2 | %6
+w: The|best things _|_ hap- pen while you're|dan- cing. _|_ things that you would|not do at home come|
+ G G2 F"Bdim7" E2 D2 |"Cm7" E8- |"F7" E6 G2 |"Cm7" c3 G- G4- | G4 CDEG | c3 G- G4- | G4 CDEG | %13
+w: nat- ur- 'lly on the|floor.|_ For|dan- cing _|_ soon be- comes ro-|man- cing _|_ when you hold a|
+"F7" c c2 B A2 G2 |"Cm7/F" B B2 A"F7" G2"F+7" F2 |"Bbmaj7" D8- |"Bb6" D6 z2 | %17
+w: girl in your arms that|you've nev- er held be-|.fore.|_|
+"Bb7" D2 E2 F2"Bbdim7" G2 |"Fm7/Bb" _A G2 F-"Bb7" F3 G |"Fm7/Bb" _A2 G2"Bb7" F B2 F | %20
+w: E- ven guys with|two left feet _ come|out al- right if the|
+"Fm7/Bb" _A G2 F-"Bb7" F4 | D2 E2 F2"Bbdim7" G2 |"Fm7/Bb" _A G2 F-"Bb7" F2 B2 | %23
+w: girl is sweet, _|if by chance their|cheeks should meet _ while|
+"D7/A" d2"Ab7b5" d6- |"G7" d4"Cm9" dcBG |"Bb/F" B2 F6 |"Cm7" G E2 C-"F7" C2 A2 |1"Bb""Dbdim7" B8- | %28
+w: dan- cing|* prov- ing that the|best things|hap- pen while _ you|dance.|
+"Cm7" B4"Eb/F" z2"F7" F2 :|2"Bb""B7#9""Bb6" B8- | B4 z4 |] %31
+w: _ The|dance.||
+

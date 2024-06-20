@@ -1,0 +1,35 @@
+X:1
+T:Een Bloemetjesgordijn
+T: Laukens Music Productions  
+T:6/8 mars
+T:EEN BLOEMETJESGORDIJN
+T:Arr. H. Laukens
+T:2
+T:EEN BLOEMETJESGORDIJN blad 2 van 
+T: Laukens Music Productions  
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=150
+M:6/8
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C7" c=Bc dcB | c2 G G2 a | b2 a g2 f | e3 c'3S ||"F" f2 f f2 f | e2 e e2 e | d6- | d3"F+" ^c3 | %8
+"F" d2 A A2 A | A3"F+" ^c3 |"Gm" d2 B B2 B | B6 |"C7" e2 e e2 e | d2 d d2 d | c6- | c3 ^c3 | %16
+ d2 B B2 B | B3 ^c3 |"F" d2 A A2 A | A3 z2 c |"Bb" d2 d d2 d |"E7" e2 e e2 d |"Am" c2 c c2 c | %23
+"D7" d3- d2 A |"G7" G2 G G2 G | G2 G G2 G | A2 G A2 =B |"C7" c2 B A2 G |"F" f2 f f2 f | %29
+"A7" e2 e e2 e |"D7" d6- | d3 d3 |"G7" f3 d3 |"C7" e3 c3O ||"F" f2 f f2 f | fff f2 e | f2 f f2 f | %37
+ fff f2 c ||"F" f2 f f2 f | f2 f e2 d |"Gm7" f3"C7" e3- | e3- e2 c | e2 e e2 e | e2 e d2 _d | %44
+"F" c6- | c3- c2 c |"Bb" d2 d d2 d |"E7" e2 e e2 d |"Am" d3 c3- |"D7" c3- c2 c |"G7" d2 d d2 d | %51
+ d2 d d2 ^d |"C7" e6- | e z z z2 c |"Bb" d2 d d2 d |"E7" e2 e e2 d |"Am" c2 c c2 ^c |"D7" d3 A3 | %58
+"G7" G3 ^G3 | A3 e3 |"C7" c3 B3 | A3 G3S ||O"F" f2 e d2 _d |"C7" c2 z c2 z ||"F" f2 f f2 f | %65
+ e2 e e2 e | d6- | d3"F+" ^c3 |"F" d2 A A2 A | A3"F+" ^c3 |"Gm" d2 B B2 B | B6 |"C7" e2 e e2 e | %73
+ d2 d d2 d | c6- | c3 ^c3 | d2 B B2 B | B3 ^c3 |"F" d2 A A2 A | A3 z2 c |"Bb" d2 d d2 d | %81
+"E7" e2 e e2 d |"Am" c2 c c2 c |"D7" d3- d2 A |"G7" G2 G G2 G | G2 G G2 G | A2 G A2 =B | %87
+"C7" c2 B A2 G |"F" f2 f f2 f |"A7" e2 e e2 e |"D7" d6- | d3 d3 |"G7" f3 d3 |"C7" e3 c3 | %94
+"F" f3 [df][eg][fa] |"Bb" [gb]2 z"Cdim" [c_e_g_a]3 |"F6" [cdfa]6 | [ac'd'f']2 z z3 |] %98
+

@@ -1,0 +1,25 @@
+X:1
+T:Hasta Manana
+T:Hasta Manana
+T:Benny Anderson,Stig Anderson,Bjorn Ulvaeus
+C:Benny Anderson, Stig Anderson, Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" A2 G F/E/- | E D C D |"Am" E2 A, A,- | A,2 A, C |"Dm" D4 |"D7" z2 A, C |"Gm" D4- | D2 z2 | %8
+w: Has- ta Ma- na|* na til we|meet a- gain|* dont know|where|dont know|when||
+ G2 A _B | A G F D |"C7" F2 E E- | E2 z2 |"Gm" z G A _B/A/- | A G F D |"C7" F2 E2 | F2 G2 | %16
+w: Dar- ling our|love was much too|strong to die||we'll find a way|* to face a|new to-|mor- row|
+"F" A2 G F/E/- | E D C D |"Am" E2 A, A,- | A, z A,/C/- C |"Dm" D4 | z2 G/A/- A |"Gm" _B4 | z4 | %24
+w: Has- ta Ma- na|* na say we'll|meet a- gain|* I cant *|do|with- out *|you||
+"Bb" _B/_B/_B/ _B- _B z/ | _B/_B/_B/c/- c/_B/- _B |"Bb" _B/_B/_B/_B/- _B z/ _B/ | %27
+w: time to for- get *|send me a let * ter *|say you for- give * the|
+ _B/_B/_B/F/- F/G/- G |"F" A2 G F/E/- |"D7" E D ^C/D/- D |"Gm" _B2 A G/F/- |"C7" F E D/ E3/2 | %32
+w: soon- er the bet * ter *|Has- ta Ma- na|* na ba- by *|Has- ta Ma- na|* na un- til|
+"F" F4- | F3 z |] %34
+w: then||
+

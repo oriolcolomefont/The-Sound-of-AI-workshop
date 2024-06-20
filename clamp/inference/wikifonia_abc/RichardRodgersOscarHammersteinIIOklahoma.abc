@@ -1,0 +1,28 @@
+X:1
+T:Oklahoma
+T:Oklahoma
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" c4- | c4- |"F" c z z"C" G | FE DC |"G7" D2 G2 |"Gdim" G^F GA |"G7sus4" G4- |"G7" G2 GF | %8
+w: O|_|k- la-|hom- a where the|wind comes|sweep- in' down the|plain,|_ and the|
+"C9" E2 G2 | G3 E |"F6" D2 F2 |"Dm7b5" F2 ED |"C" E2"Csus4" F2 |"A7" GA B^c |"D7" d4- |"G7" d2 z2 | %16
+w: wav- in'|wheat can|sure smell|sweet when the|wind comes|right be- hind the|rain.|_|
+"C" c4- | c4 |"F" c z z G | FE DC |"G7" D2 G2 |"Gdim" G^F GA |"G7sus4" G4- |"G7" G2 GF | %24
+w: O|_|k- la|hom- a ev- 'ry|night my|hon- ey lamb and|I,|_ sit a-|
+"C9" E2 G2 | G3 E |"F6" D2 F2 |"Dm7b5" F2 EF |"C" G2 A2 |"G7" BG AB |"C" c4- | c3 c |"F" A c2 c | %33
+w: lone and|talk and|watch a|hawke mak- ing|la- zy|cir- cles in the|sky.|_ We|know we be-|
+ c2 AF |"C" G4- | G2 GA |"G" B d2 d |"D7" d2 cA |"G9""Em" B4- |"G7" BG AB |"C" c4- | c4 | %42
+w: long to the|land|_ and the|land we be-|long to is|grand!|_ And when we|say|_|
+"F""^(yell)" d z z"C" G | FE DC |"D7" d4- | d4- |"G""D7" d3 A | G^F ED |"C" e2 dc |"E7" B2 ^AB | %50
+w: yeeow! A-|yip- i- o- ee-|ay!|_|* We're|on- ly say- in'|you're do- in'|fine Ok- la-|
+"Am""Am/G" c4 |"D7/F#" d z"D7" cd |"C" e2"G7" B2- | B2 B2 |1"C" c4 ||"Adim7/G""G7" z4 :|2"C" c4- || %57
+w: ho-|ma! Ok- la|ho- ma|_ O.|K.||K.|
+ c z z2 |] %58
+w: _|
+

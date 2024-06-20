@@ -1,0 +1,25 @@
+X:1
+T:Song Sung Blue
+T:Song Sung Blue
+T:Neil Diamond
+C:Neil Diamond
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A4 F4 | c4 _BAGF |"C" G2 c6- | c8 |"C7" G4 C4 | c4 _BAGA |"F" F2 c6- | c8 |"F7" z4 _e2 A2 | %9
+w: Song sung|blue ev- ry- bod- y-|knows one||song sung|blue ev- ry gar- den|grows one||me and|
+w: Song sung|blue wee- in like a|wil- low||song sung|blue sleep- in on my|pil- low||fun- ny|
+ f3 A _e2 A2!dacoda! | f6 F2 |"Bb" dd d2 d4- | d6 C2 |"C" CCEE GG_BB | c4 C2 c_B |"F" _BA A6- | %16
+w: you are sub- ject|to the|blues now and then|* but|when you take the blues and make a|song you sing them|out a- gain|
+w: thing but you can|||||||
+ A6 AA |"Gm" AG G6- | G4 z4 |"C" C4 G4!D.C.! ||O f2 _e2 d2 e2 |"Bb" dd d2 d4- | d8 | %23
+w: * sing them|out a- gain.|||sing it with a|cry in your voice||
+w: |||||||
+"C" CCEG GG_BB | _BB c2 C2 cB |"F" _BA A6 |"C7" z8 |:"F" A4 F4 | c8 |"C7" G4 C4 | c8 :| %31
+w: and be- fore you know it start to|feel- in good you sim- ply|got no choice||song sung|blue|song sung|blue|
+w: ||||||||
+

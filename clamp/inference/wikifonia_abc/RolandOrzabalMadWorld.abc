@@ -1,0 +1,32 @@
+X:1
+T:Mad World
+C:Roland Orzabal
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Fm" z8 |"Bb" z8 |"Fm" z8 |"Bb" z8 |:"Fm" z2 FF AAFF |"Ab" c c2 c- cA z2 |"Eb" B B2 B- BG z2 | %7
+w: ||||All a- round me are fa-|mi- liar fa- * ces,|worn out pla- * ces,|
+w: ||||Chil- dren wait- ing for the|day they feel- * good,|hap- py birth- * day,|
+"Bb" B B2 B- B(AGF) |"Fm" z2 FF AAFF |"Ab" c c2 c- cA z2 |"Eb" B B2 B- BG z2 |"Bb" B B2 B- B(AGF) | %12
+w: worn out fa- * ces _ _|Bright and ear- ly for their|dai- ly ra- * ces,|go- ing no- * where,|go- ing no- * where _ _|
+w: hap- py birth- * day. _ _|And I feel the way that|ev- 'ry child _ should|sit and lis- * ten,|sit and lis- * ten _ _|
+"Fm" z2 z F AAFF |"Ab" c c2 c- cA z2 |"Eb" B B2 B- BG z2 |"Bb" B B2 B- B(AGF) |"Fm" z2 FF AAFF | %17
+w: Their tears are fill- ing|up their glass- * es,|no ex- pres- * sion,|no ex- pres- * sion. _ _|Hide my head, I wan- na|
+w: Went~to school and I was|ve- ry ner- * vous,|no- one knew _ me,|no- one knew _ me. _ _|Hel- lo teach- er, tell me|
+"Ab" c c2 c- cA z2 |"Eb" B B2 B- BG z2 |"Bb" B B2 B- B(AGF) ||"Fm" z2 FF AAcc |"Bb" dB z B ddBB | %22
+w: drown my sor- * row,|no to- mor- * row,|no to- mo- * row. _ _|And I find it kin- da|fun- ny, I find it kin- da|
+w: what's my les- * son,|look right through _ me,|look right through _ me. _ _|||
+"Fm" F z z F AAcc |"Bb" dBBB ddBB |"Fm" F z z F AAcc |"Bb" dB z B ddBB |"Fm" F z z F AAcc | %27
+w: sad that dreams in which I'm|dy- ing are the best I've ev- er|had. I find it hard to|tell you, I find it hard to|take when peo- ple run in|
+w: |||||
+"Bb" dBBB ddBB |"Fm" z4 A3 F- |"Bb" F4 z4 |"Fm" z4 A3 F- |"Bb" F4 z4 :|"Fm" z2 z C A2 AA- | %33
+w: cir- cles, it's a ve- ry, ve- ry|mad world.|_|Mad world.|_|En- larg- en your|
+w: ||||||
+"Bb" A F3 z4 |"Fm" z4 A3 F- |"Bb" F2 z2 z4 |] %36
+w: _ world.|Mad world.|_|
+w: |||
+

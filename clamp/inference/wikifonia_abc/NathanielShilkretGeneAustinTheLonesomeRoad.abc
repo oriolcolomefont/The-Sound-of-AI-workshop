@@ -1,0 +1,22 @@
+X:1
+T:The Lonesome Road
+T:The Lonesome Road
+T:Nathaniel Shilkret
+T:Gene Austin
+C:Nathaniel Shilkret
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+|: z4 z2 z E |:"C" G3 C E3 C |"Fm6" F2 F2 F _A2 F |"C" G3 E"Dm7" D3"G7" E |"C" C6 z E | G3 C E3 C | %6
+w: Look|down, look down that|lone- some road * be-|fore you tra- vel|on. Look|up, look up and|
+"Fm6" F2 F2 F _A2 F |"C" G3 E"Dm7" D3"G7" E |"C" C6 z2 |"Am" A2 A2 A c3 |"Em" B G3 G4 | %11
+w: see yo' ma- ker 'fore|Ga- briel blows his|horn.|Wear- y tot- in'|such a load|
+"Am" A2 A2 A c3 |"Em" B2 G2"G7" G3 E |"C" G3 C E3 C |"Fm6" F2 F2 F _A2 F |"C" G3 E"Dm7" D3"G7" E | %16
+w: tredg- in down that|lone- some road. Look|down, look down that|lone- some road * be-|fore you tra- vel|
+"^C" C6 z z |] %17
+w: on.|
+

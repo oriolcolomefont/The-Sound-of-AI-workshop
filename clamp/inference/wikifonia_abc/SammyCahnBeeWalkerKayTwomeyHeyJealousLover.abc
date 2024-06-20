@@ -1,0 +1,26 @@
+X:1
+T:Hey, Jealous Lover
+T:Hey Jealous Lover
+C:Sammy Cahn
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"F7" z F3 (FG) D2 |"Bb" F F3- F4 | z B3 A>F"Bbdim" A2 |"F9" G8 |"Cm7" z c3 B>G B2 | A A3- A4 | %6
+w: Hey! Jeal- * ous|lov- er, *|You're act- ing so|strange,|Hey! Jea- * lous|lov- er, *|
+ z2 FG AF"F+"AG- |"Bb6""Bdim" G8 |"F7" z F3 FG D2 |"Bb" F F3- F4 |"Bb7" z2 d2"Bb+7" d>c B2 | %11
+w: What is mak- ing you change?||Hey! Jeal- * ous|lov- er, *|How wrong can you|
+"Eb6" G8 | z2 c2 c2 BG |"F7" A A3- A4 | z2 FG AB c2 |"Bb""Eb6" B8- |"Bb" B6 z2 |"Eb" G2 B2 c2 B2 | %18
+w: be?|I'm yours, ev- er|faith- ful, *|Just be faith- ful to|me.||I am just as|
+ G2 B2 c2 B2 | F4 B2 D2 | F6 z2 |"Bb7" G2 B2 c2 B2 | G2 A2 B2 c2 |"C9" d2 d2 dB d2 | %24
+w: stead- y as a|clock on the|shelf,|May- be you're ac-|cus- ing me of|what your'e do- in' your-|
+"F7" c F3 FG D2 |"Bb" F F3- F4 | z B3 A>F"Bbdim" A2 |"F9" G8 |"Cm7" z c3 B>G B2 |"F7" A A3- A4 | %30
+w: self! Hey! Jeal- * ous|lov- er, *|I'm tel- ling you|true,|I know that you're|jeal- ous, *|
+ z2 FG AB c2 |"Ab7b5" d8- |"G9" d4 z2"G7" G2 |"C9" d2 B2 d2 B2 |"Cm7" d2 B2 dB"F13b9" d2 |1 %35
+w: But there's no- one but|you!|* There's|no- one for me,|jeal- ous lov- er, but|
+"Bb""Eb9""F7" B8 :|2"Bb" B8- || B6 z2 |] %38
+w: you!|you!|_|
+

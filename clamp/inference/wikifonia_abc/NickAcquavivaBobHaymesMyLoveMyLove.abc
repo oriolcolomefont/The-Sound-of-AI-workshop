@@ -1,0 +1,35 @@
+X:1
+T:My Love, My Love
+T:My Love, My Love
+C:Nick Acquaviva
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 C |:"F" F2"Gm" G |"Am" A2"Bb" B |"Am" c3- |"Dm7" c2 d |"Gm7" B3- |"C7" B2 c | A3- |"F" A2 C | %9
+w: Who|makes the|rob- ins|sing?|_ My|love,|_ my|love.|_ Who|
+w: |makes my|poor heart|cry?|_ My|love,|_ my|love.|_ Who's|
+ F2"Gm" G |"Am" A2"Bb" B |"Gm7" G3- |"C7" G2 C |"Gm7" G2 A | F2"C7b9" G |1"F" A3- | %16
+w: brings the|joy to|spring?|_ Who|else but|you my|love.|
+w: eyes are|stars on|high?|_ None|else but|yours, my||
+"Gm7" A2"C7" C :|2"F" F3- ||"F7" F2 F |"Bb" d2 d |"Bbm6" _d2"Bb6" =d |"C7" e3- | e2 e/e/ | %23
+w: _ Who|love.|_ As|sweet as|morn- ing|mist,|_ Are the|
+w: |||||||
+"Fmaj7" c2 c |"F6" A2"Bb" B |"Am" c3- |"Dm7" c2 d |"Gm7" B2 B |"C7" G2 A |"Gm7" B3- |"C7" B2 c/B/ | %31
+w: lips that|Heav- en|kissed;|_ As|end- less|as the|sea|_ Is the|
+w: ||||||||
+"Dm7" A2 A/G/ |"G7" F2 A |"Gm7" G3- |"C7" G2 C |"F" F2"Gm" G |"Am" A2"Bb" B |"Am" c3- |"Dm7" c2 d | %39
+w: love that he|gave to|me.|_ And|what have|I to|give?|_ My|
+w: ||||||||
+"Gm7" B3- |"C7" B2 c |"F" A3- | A2 C | F2"Gm" G |"Am" A2"Bb" B |"Gm7" G3- |"C7" G2 C |"Gm7" G2 A | %48
+w: love,|_ my|love.|_ As|long as|I shall|live.|_ You'll|al- ways|
+w: |||||||||
+ F2"C9" G |"Eb9" A3- |"D9" A2"D7b9" B |"Gm7" G2 A | F2"C7b9" G |"F6""Bb7""Db7" F3- |"F" F2 z | %55
+w: be my|love;|_ you'll|al- ways|be my|love.|_|
+w: |||||||
+

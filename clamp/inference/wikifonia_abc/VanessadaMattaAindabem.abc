@@ -1,0 +1,20 @@
+X:1
+T:Ainda bem
+T:Ainda bem
+T:Vanessa da Matta
+T:Copyright © Murilo 2012
+C:Vanessa da Matta
+Z:Creative Commons BY-NC-SA
+L:1/16
+M:4/4
+K:G
+V:1 treble nm="Violin"
+V:1
+"G" G4 d8 GAB2 |"Bm7" A4 d8 GAB2 |"C" A4 B4 G8 |1"Cm6" A4 B4 G8 :|2"Cm6" A4 B4"G" G4- Gdg2 || %5
+"Gmaj7" f4 d4- dBed BAG2 | A4 d8- ddg2 | f4 d4- dBBB BAG2 |"Bm7" A4 f4- f6 g2 |"C" e12- e2g2 | %10
+"Cm6" _e12-"G" edg2 |"Gmaj7" f2d2- d4- dB=ed BAG2 | A4 d8- ddg2 | f4 d4- dBBB BAG2 | %14
+"Bm7" A4 f4- f6 g2 |"C" e12- e2g2 |"Cm6" _e12- e2>d2 |"G" aa2a ag=e2 a2 a4 e2 | %18
+"Bm7" aa2a abag e4- e2e2 |"C" aa2a age2 ag2e aba2 |"Cm6" g2 _e4 d2 c4- c2>e2 | %21
+"G" aa2a ag=e2 a2 a4 e2 |"Bm7" aa2a abag e4- e2e2 | %23
+"C6" aa2a age2 ag2e ab"_Termina com introdução."a2 |"Cm6" g2 _e4 d2!D.C.! c8 |] %25
+

@@ -1,0 +1,37 @@
+X:1
+T:Happy Together
+C:Garry Bonner and Alan Gordon (The Turtles)
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:G
+U:s=!stemless!
+V:1 treble 
+%%MIDI program 40
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 40
+V:1
+ B, EF |:"Em" GF G2- GFG z | z2 B2 AGFE |"D" FE F2- FEDE | F3 A GFED |"C" ED E2- EDCD | %6
+w: I- mag- ine|me and you * I do|I think a- bout you|day and night * it's on- ly|right to think a- bout the|girl you love * and hold her|
+w: |call you up * in- vest|and you say you be-|long to me * and ease my|mind I- mag- ine how the|world would be * so ver- y|
+ E3 E E F2 E |1"B" ^D2 B6- | B4 z B, EF :|2"B" ^D2 B6- || B6 z2 |:"E" e2 B2 ^G2 E2 | %12
+w: tight so hap- py to-|geth- er|* If I should|geth- er-||I can see me|
+w: fine so hap- py to-||	 * * *||||
+"Bm7" DFA^c- cd =c2 |"E" B3 ^G B ^c2 d- |"G" d8 |"E" e2 B2 ^G2 E2 |"Bm7" DFA^c- cd =c2 | %17
+w: lov- in' no- bod- * y but|you for all my life||When you're with me|ba- by the skies- * will be|
+w: |||||
+"E" B3 ^G B ^c2 d- |"G" d6 z2 |"E" GF G2- GFEF | G3 B AGFE |"D" FE F2- FEDE | F3 A GFED | %23
+w: blue for all my life||Me and you * and you and|me no mat- ter how they|toss the dice * it has to|be The on- ly one for|
+w: ||||||
+"C" ED E2- EDC_E | E3 E E F2 E |"B" ^D2 B6- |1,2 B4 z4 ::3"B" ^D2 B6- ||"Em" B2 z E E F2 E | %29
+w: me is you * and you for|me so hap- py to-|geth- er||geth- er|* So hap- py to-|
+w: ||||weath- er?-|* So hap- py to-|
+"B" ^D2 B6- |"Em" B2"^(end on EMajor)" z2 E F2 E :| %31
+w: geth- er|* How is the|
+w: geth- er|* So happy to|
+V:2
+ x3 |: x7 sF | sF x7 | x8 | x8 | x8 | x8 |1 x8 | x8 :|2 x8 || x8 |: x8 | x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |1,2 x8 ::3 x8 || x8 | x8 | x8 :| %31
+

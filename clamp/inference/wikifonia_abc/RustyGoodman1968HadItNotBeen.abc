@@ -1,0 +1,40 @@
+X:1
+T:Had It Not Been
+T:Had It Not Been
+T:Rusty Goodman, 1968
+C:Rusty Goodman 1968
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:3/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+"^With Feeling" z3"Ab" E CD | E4"Ab7" AB |"Db" A- A2- A GF |"Db/Ab" FE"Ab" E4- | E2 z E AB | %5
+w: * just su|pose God _|searched _ _ through _|Hea _ ven|_ and could n't|
+ c4"Bb/Ab" Bc |"Db/Ab" d"Ab" c3 (3cBA |"Eb" B6- | B3"Eb7" E EE |"Ab" E3 A"Ab7" AB | %10
+w: find one _|wil ling to _ _|be|_ _ the su|preme _ sac ri|
+"Db" A4"Dbdim" GF |"Db/Ab" FE"Ab" E4- | E3 A AB | c4"Bbm/Ab" Bc |"Eb7" d3 B"Eb7sus4" A"Eb7"G | %15
+w: fice that was|need _ ed|_ to buy e|ter nal _|life for you and|
+"Ab" A6 ||"^Bridge""Ab7" B4 AA |"Db" A2 F3 F/G/ | A4"Eb/Db" G"Db"F |"Db/Ab" F-E"Ab" E4- | %20
+w: me|Oh had it|not been for a|place called Mt.|Cal _ vary|
+ E4 A"Eb7"B |"Ab" c2 c3 c/c/ |"Db/Ab" d2-"Ab" c2 (3cBA |"Eb" B6- | B4"Ab7" cB |"Db" A2 F3 F/G/ | %26
+w: _ had it|not been for the|old _ rug _ get|cross|_ had it|not been for a|
+ A4"Db/Ab" G-F | F-E"Ab" E4- | E4 AB | c-=B c2 z c |"Eb7" d2"Cm/Eb" c2"Eb7" B2 |"Db/Ab" A6- | %32
+w: man called _|Je _ sus|_ then for|ev _ er my|soul would be|lost|
+"Ab" A6 ||"^Verse 2" z3"Ab" E CD | E4"Ab7" AB |"Db" A- A2- A GF |"Db/Ab" FE"Ab" E4- | E2 z E AB | %38
+w: _|But I'm so|glad He was|will ing to drink His|bit ter cup|_ al though He|
+ c4"Bb/Ab" Bc |"Db/Ab" d"Ab" c3 (3cBA |"Eb" B6- | B3"Eb7" E EE |"Ab" E3 A"Ab7" AB | %43
+w: prayed Fa ther|let it pass _ from|me|_ Oh I'm so|glad He did n't|
+"Db" A4"Dbdim" GF |"Db/Ab" FE"Ab" E4- | E3 A AB | c4"Bbm/Ab" Bc |"Eb7" d3 B"Eb7sus4" A"Eb7"G | %48
+w: call Heav en's|an _ gels|_ _ from my|hands pull the|nails that tor ment|
+"Ab" A6 ||"^Bridge""Ab7" B4 AA |"Db" A2 F3 F/G/ | A4"Eb/Db" G"Db"F |"Db/Ab" F-E"Ab" E4- | %53
+w: me|Oh had it|not been for a|place called Mt.|Cal _ vary|
+ E4 A"Eb7"B |"Ab" c2 c3 c/c/ |"Db/Ab" d2-"Ab" c2 (3cBA |"Eb" B6- | B4"Ab7" cB |"Db" A2 F3 F/G/ | %59
+w: _ had it|not been for the|old _ rug _ get|cross|_ had it|not been for a|
+ A4"Db/Ab" G-F | F-E"Ab" E4- | E4 AB | c-=B c2 z c |"Eb7" d2"Cm/Eb" c2"Eb7" B2 |"Db/Ab" A6- | %65
+w: man called _|Je _ sus|_ then for|ev _ er my|soul would be|lost|
+"Ab" A6 |] %66
+w: _|
+

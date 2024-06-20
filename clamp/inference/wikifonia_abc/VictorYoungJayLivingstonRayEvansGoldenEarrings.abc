@@ -1,0 +1,27 @@
+X:1
+T:Golden Earrings
+T: Golden Earrings
+T:(from the film Golden Earrings)
+T:Victor Young 
+T:Jay Livingston and Ray Evans
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+|:"Cm" G6"G7" G2 |"Ab" A2"Cm" G4 G2 |"A" F3 E"D7" D2 C2 |"G7" D6 G2 |"Cm" e3 e"D7" d2 c2 | %5
+w: There's a|sto- ry the|gyp- sys know is|true that|when your love wears|
+"G7" =B2 G2"Fm" c2 F2 |"Cm" E3 F"G7" D2 D2 |"Cm" C6"Ab7" ^F2 |"Cm" G6"G7" G2 |"Ab" A2"Cm" G4 G2 | %10
+w: gold- en ear- rings|he be- longs to|you an|old love|sto- ry that's|
+"A" F3 E D2 C2 |"G7" D4 z2 G2 |"Cm" e3 e"D7" d2 c2 |"G7" =B2 G2"Fm" c2 F2 |"Cm" E3 F"G7" D2 D2 | %15
+w: known to ve- ry|few but|if you wear these|gold- en ear- rings|love will come to|
+"Cm" C8 |"Fm" c8- |"Bb" cc=Bc dc_BA |"Eb" G4- GFEF | G8 |"Ab" B8- | B2 =AB cB_A_G |"F7" F4- FFDF | %23
+w: you|By|_ the burn- ing fire * they will|glow _ with ev- 'ry|coal|You|_ will hear de- sire whis- pered|low _ in- side your|
+"G7" G6 ^F2 |"Cm" G6 G2 |"Ab" A2"Cm" G4 G2 |"A" F3 E"D7" D2 C2 |"G7" D6 G2 |"Cm7" e3 e"D7" d2 c2 | %29
+w: soul so|be my|gyp- sy make|love your guid- ing|light and|let this pair of|
+"G7" =B2 G2"Fm" c2 F2 |"Cm" E3 F"G7" D2 D2 |1"Cm" C8 :|2"Cm" C8 |] %33
+w: gold- en ear- rings|cast their spell to-|night|night.|
+

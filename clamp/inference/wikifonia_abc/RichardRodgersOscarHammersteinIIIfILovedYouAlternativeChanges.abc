@@ -1,0 +1,30 @@
+X:1
+T:If I Loved You (Alternative Changes)
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Ab" A,2 C2 |"Abdim" F F3 |"Ab/C" A- (3A/G/F/ E- (3E/D/C/ |"C7#5" B, A, C2 |"Bbm" B,2 D2 | %5
+w: If I|loved you|time _ and a- gain _ I would|try to say|all I'd|
+w: If I|loved you|words _ would- n't come _ in an|eas- y way|round in|
+"G7/D" G G2 A |1"Ab/Eb" E4- |"Eb7" E4 :|2"Ab" A4- ||"C7#5" A3 z |"Fm" A2 G F |"Bbm7" E D E F | %12
+w: want you to|know.|_|||Long- ing to|tell you but a-|
+w: cir- cles I'd|_||go.|_|||
+"A7" G2 G2 | G4 |"Ab/C" A2 G F |"Bbm" E D E F |"Gb" B2"Bb7/F" B2 |"Eb7" B4 |"Ab" A2 C2 | %19
+w: fraid and|shy,|I'd let my|gold- en chanc- es|pass me|by!|Soon you'd|
+w: |||||||
+"Abdim" F F3 |"Ab/C" A- (3A/G/F/ E- (3E/_D/C/ |"C7#5" B, A, C2 |"Db6" B,2 D2 |"G7" G G2 A | %24
+w: leave me,|Off _ you would go _ in the|mist of day,|Nev- er,|nev- er, to|
+w: |||||
+"Ab/Eb" c4- |"Cm/Eb" c4 |"Db6" B2"Abmaj7/C" c2 |"Bbm" d d3 |"Bbsus4" F2"Eb7" G2 |"A7" A2"Ab" A2- | %30
+w: know;|_|How I|loved you,|if I|loved you.|
+w: ||||||
+ A3 z |] %31
+w: _|
+w: |
+

@@ -1,0 +1,25 @@
+X:1
+T:The Wayward Wind
+T:The Wayward wind
+T:Herb Newman and Stan Lebowsky
+C:Stanley Lebowsky
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z D/D/ D D |:"D" F4- |"D7" F D/D/ D D |"G" B,4 | z D D D |"D" F4- | F A B A |"A7" c A3 | z A B A | %9
+w: Oh the way- ward|wind|* is a rest- less|wind|a rest- less|wind|* that yearns to|wan- der|and he was|
+w: |||||||||
+"D" d4- | d B A F |"G" E D3 |"Gm" z D D D |"D" F4- |"A7" F A,/A,/"G" B, D |"D" D4- | D3 z |] %17
+w: born|* the next of|kin *|the next of|kin|* to the way- ward|wind||
+w: ||||||||
+ z2 z D/F/ | A A A A/A/ | B A F3/2 A/ | B A F D | F A2 D/F/ | A A A B/A/ | B A F2 | %24
+w: In a|lone- ly shack by a|rail- road track he|spent his young- er|days * and I|guess the sound of the|out- ward bound|
+w: Oh I|met hime there in a|bor- der town he|vowed we'd nev- er|part * tho he|tried his best to *|set- tle down|
+ z/"A7" A/B/A/ c2- | c/B/A/ G E z/ |"D" D4- | D D/D/ D D :| %28
+w: made him a slave|* to his wand- ring|ways|* oh the way- ward-|
+w: I'm now a- lone|* with a bro- ken|heart.||
+

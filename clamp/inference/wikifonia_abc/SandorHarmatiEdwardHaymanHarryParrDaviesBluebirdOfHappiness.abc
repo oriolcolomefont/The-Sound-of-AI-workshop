@@ -1,0 +1,34 @@
+X:1
+T:Bluebird Of Happiness
+T:Bluebird Of Happiness
+T:Sandor Harmati
+T:Edward Heyman & Harry Parr-Davies
+C:Sandor Harmati
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z B ||"Eb""^Verse" E E"Bb7" F F/F/ |"Eb" G G"Bb7" A A |"Eb" B B"Ab" (3c B A |"Eb" B3"Bb7" B | %5
+w: The|beg- gar man and the|might- y king are|on- ly diff- 'rent in|name For|
+"Eb" (3:2:2c2 B"G7" (3:2:2G2 F |"Cm" (3:2:2E2 C"Cm7" (3:2:2E2 G |"Gm" B4- |"Fm7""Bb7" B3 B | %9
+w: they are treat- ed|just the same by|fate|* To-|
+"Eb" E E"Bb7" F F/F/ |"Eb" G G"Bb7" A A |"Eb" B B"Ab" (3c c c |"G" d3"G7" d |"Cm" f3 e | %14
+w: day a smile and to-|mor- row tears, we're|nev- er sure what's in|store, So|learn your|
+"Ab" F F2 G |"F7" F2"F9b5" G2 |"Fm7" A2"Ebdim" =A2 ||"Eb""^Chorus" B3 B, |"Fm7""Bb7" A4 | %19
+w: les- son be-|fore too|late, so|Be like|I,|
+"Eb" G A B B, |"Fm7""Bb7" A4 |"Eb" G A B d |"Fm7" c2"Bb7" F A |"Eb" G F E2- |"Eb9" E B"D7b9" B =A | %25
+w: hold your head up|high|'Till you find a|blue bird of|hap- pin- ess||
+"Gm" B3 D |"D7/F#" =A4 |"Gm" G =A B D |"D7/F#" =A4 |"Gm" G =A"C7" B G |"F7" F2 c e |"Bb" d c B2- | %32
+w: You will|find|great- er peace of|mind|Know- ing there's a|blue- bird of|hap- pin- ess|
+"Bb7" B B c d |"Eb/G" e3 B |"G7" d4 |"Ab" c d c E |"Gm" B2-"C7" B- B |"Fm" A"C7/G" B"Fm/Ab" c A | %38
+w: * And when he|sings to|you|Tho' you're deep in|blue * *|You will see a|
+"Gm/Bb" G2"Fdim" F- F |"Eb/G" E2"Gbdim" c2 |"Fm7" B A"Bb7" G A |"Eb" B3 B, |"Fm7" A2-"Bb7" A2 | %43
+w: ray of *|light creep|thro' And so re-|mem- ber|this *|
+"Eb" G A B B, |"Fm7" A2-"Bb7" A2 |"Eb" G A B d |"Fm7" c2"Bb7" F A |"Eb" G F"Fm7" E2- |"Eb" E3 z |] %49
+w: life is no a-|byss *|Some- where there's a|blue- bird of|hap- pin- ess-|.|
+

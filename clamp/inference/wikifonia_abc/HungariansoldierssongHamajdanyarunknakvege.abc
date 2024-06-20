@@ -1,0 +1,15 @@
+X:1
+T:Ha majd a nyarunknak vége
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" G G2 G"G" G F2 D |"Cm" E4 C2 z2 |"Fm" c c2 c c B2 A |"G" G4 z4 |"Cm" G c2 d e d2 c | %5
+w: Ha majd a nya- runk- nak|vé- ge,|csen- de- sen szi- tál a|hó,|Len- nék még te- né- ked|
+"Fm" A4 F2 z2 |"Cm" G D2 E"G" F E2 D |"Cm" C4 z4 |] %8
+w: é- des,|len- nék még te- né- ked|jó.|
+

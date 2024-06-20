@@ -1,0 +1,30 @@
+X:1
+T:Let the Good Times Roll
+T:Let The Good Times Roll
+C:Leonard Lee
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" z c A2 A^GAG | A =G2 F- FDC z | z c A2 A^GAG | A =G2 F- F2 G z |"Bb" z GGF GFDC | %5
+w: Come on ba- by, let the|good times roll, _ _ _|come on ba- by let me|thrill your soul; _ _|come on ba- by let the good|
+"F" F F2 F- FDC z |"G7" z2 G4 FF |"C7" E2 C2 B,2 A,2 |"F" z c A2 A^GAG | A =G2 F- FDC z | %10
+w: times roll _ _ _ _|roll on and|on. _ _ _|Come on ba- by let me|hold you tight' _ _ _|
+ z c A2 A^GAG | A =G2 F- F2 G z |"Bb" z GGF GFDC |"F" F F2 F- FDC z |"C7" z2 Bc A2 G2 | %15
+w: tell me ev- ry'- thing is|right to- night, * *|come on, _ ba by, let the|good times roll, _ _ _|roll _ on and|
+"F" AG F4 z2 |"F" z c A2 A^GAG | A =G2 F- FDC z | z c A2 A^GAG | A =G2 F- F2 G z |"Bb" z GGF GFDC | %21
+w: on. _ _|Come on ba- by gon- na|have a ball, _ _ _|put pour trou- bles up a-|gainst the wall, _ _|Come on _ ba- by let the|
+"F" F F2 F- FDC z |"G7" z2 G4 FF |"C7" E2 C2 B,2 A,2 |"F" z c A2 A^GAG | A =G2 F- FDC z | %26
+w: good times roll, _ _ _|roll on and|on. _ _ _|Come on ba- by let us|paint the town, _ _ _|
+ z c A2 A^GAG | A =G2 F- F2 G z |"Bb" z GGF GFDC |"F" F F2 F- FDC z |"C7" z2 Bc A2 G2 | %31
+w: don't let noth- in' ev- er|bring us down, _ _|come on _ ba- by let the|good times roll, _ _ _|roll _ on and|
+"F" AG F4 z2 |"Bb" B6 F2 |"F" A2 F6 |"C7" G6 A2 |"F" F8 |"Bb" B2 B6 |"F" A2 F6 |"G7" G2 G2 A2 A2 | %39
+w: roll on. _|Feel so|good _|in my|arms,|su- gar|ba- by,|you're my good luck|
+"C7" c8 |"F" z c A2 A^GAG | A =G2 F- FDC z | z c A2 A^GAG | A =G2 F- F2 G z |"Bb" z GGF GFDC | %45
+w: charm.|Come on ba- by, let the|good time roll, _ _ _|come on ba- by, let me|thrill your soul; _ _|come on, _ ba- by let the|
+"F" F F2 F- FDC z |"C7" z2 Bc A2 G2 |1"F" AG F4 z2 :|2"F" AG F4 z2 |] %49
+w: good times roll, _ _ _|roll _ on, and|roll on. _|roll on. _|
+

@@ -1,0 +1,24 @@
+X:1
+T:When A Child Is Born
+T:When a child is born
+T:Music by Ciro Dammicco
+C:Ciro Dammico
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Lyrics by Fred Jay" z G, C D |"C" E4 |"G7" D E/ F3/2 B, |"C/F" C4- |"C" C G, C E |"Em" G4 | %6
+w: A ray of|hope|flickers- * in the|sky|* a tiny- *|star|
+"Am" A B/ A3/2 E |"Dm" D4- |"G7" D2 z A/G/ |"F" A G/ F3/2 z |"G7" B c/ d3/2 B |"C" G4- | %12
+w: lights up way up|high|* All across-|* the land|dawns a brand new|morn|
+ G E D C"_A silent wish sails the seven seas,\nThe winds of change whisper in the trees\nAnd the walls of doubt crumble tossed and torn\nThis comes to pass, when a child is born.\n\nA rosy hue settles all around,\nYou get the feel you're on solid ground,\nFor a spell or two no one seems forlorn\nThis comes to pass when a child is born.\n\nAnd all of this happens because the world is waiting,\nWaiting for one child\nBlack, white, yellow, no-one knows\nBut a child that will grow up and turn tears to laughter,\nHate to love, war to peace and everyone to everyone's neighbour\nAnd misery and suffering will be words to be forgotten, forever\n\nIt's all a dream, an illusion now.\nIt must come true sometime soon somehow.\nAll across the land dawns a brand new morn -\nThis comes to pass when a child is born" | %13
+w: * this comes to|
+"G7" G4 | D E/ F3/2 B, |"C" C4- |"F" C2"C" z2 | z4 |] %18
+w: pass|when a child is||||
+

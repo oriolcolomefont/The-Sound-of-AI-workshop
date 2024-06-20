@@ -1,0 +1,20 @@
+X:1
+T:Home On The Range
+T:Home On The Range
+C:Tradition Folk Song
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z z B, |"Eb" B, E F | G2 E/D/ |"Ab" C A A |"Abm" A2 A/A/ |"Eb" B2 E/E/ |"F7" E D E |"Bb" F3 | %8
+w: Oh,|give me a|home, where the|buf- fa- lo|roam, where the|deer and the|an- te- lope|play.|
+ z z B, |"Eb" B, E F | G2 E/D/ |"Ab" C A A |"Abm" A2 A/A/ |"Eb" G- G/F/ E |"Bb7" D E F |"Eb" E3- | %16
+w: Where|sel- com is|heard a dis-|cour- ag- ing|word, and the|skies _ are not|cloud- y all|day.|
+ E3 ||"Eb" B3 |"Bb7" A G3/2 F/ |"Eb" G3- |"G7" G2 F/F/ |"Cm" E E E |"F7" E D E |"Bb7" F3- | F2 B, | %25
+w: _|Home,|home on the|range,|_ where the|deer and the|an- te- lope|play;|_ Where|
+"Eb" B, E F | G2 E/D/ |"Ab" C A A- |"Abm6" A2 B/A/ |"Eb" G3/2 F/ E |"Bb7" D E F |"Eb" E3- | E2 z |] %33
+w: sel- dom is|heard a dis-|cour- aging word,|_ and the|skies are not|cloud- y all|day.|_|
+

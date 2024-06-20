@@ -1,0 +1,33 @@
+X:1
+T:I Want A Little Girl
+T:I Want A Little Girl
+T:Murry Mencher and Billy Moll
+T:1930
+C:Murry Mencher (1930)
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4 z E F^F |:"C6" G2 G2 E3 E |"Gm7" G2 G2"C7" E4 |"F6" G2 G2 GF C2 |"Fm6" G F2 C- C2 CD | %5
+w: I want a|lit tle girl to|love a lot,|I'd give an y thing|that I got _ for a|
+"C6" E2 F2"A7" G A3 |"D7" A,2 ^A,2"G7" B,2 GE- |"E7""A7" E8- |"Dm7" E4"G7" z E F^F || %9
+w: lit tle girl who'll|fall in love with me|_|* i want a|
+"C6" G2 G2 E3 E |"Gm7" G2 G2"C7" E4 |"F6" G2 G2 GF C2 |"Fm6" G F2 C- C2 CD |"C6" E2 F2"A7" G A3 | %14
+w: lit- tle girl, she|may not look|like the kind in a|pic- ture book, _ but if|she can cook she'll|
+"D7" A,2 ^A,2"G7" B,2 E2 |"C6""C7""F6" C8-"F#dim" |"C6" C6"G7" z2 ||"C7" C3 D E3 F | %18
+w: suit me to a|"T."|_|She don't have to|
+"Gm7" G ^F2 G-"C7" G2 G2 |"F6" G2 F2"C7" _A G2 F- |"F6" F8 |"A7" A,3 B, ^C3 D | %22
+w: wave her hair _ or|dress in fan- cy clothes,|_|and I would- nt|
+"Em7b5" E ^D2"A7" E- E4 |"D7" z E2 E ED E2 |"G7" G G2 G- GEF^F ||"C6" G2 G2 E3 E | %26
+w: ev- en care _|if she did n't wear|silk en hose. _ i want a|lit- tle girl to|
+"Gm7" G2 G2"C7" E3 E |"F6" G2 G2 GFCC |"Fm6" G F2 C/- C2 CD z/ |"C6" E2 F2"A7" G A3 | %30
+w: call my own. There|must be some one who is|all a lone _ just a|lit- tle girl who'll|
+"D7" A,2 ^A,2"G7" B,2 E2 |"C6" C8- | C4 z4 :| %33
+w: fall in love with|me.|_|
+

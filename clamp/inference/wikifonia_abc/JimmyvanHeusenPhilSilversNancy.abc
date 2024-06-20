@@ -1,0 +1,32 @@
+X:1
+T:Nancy
+T:Nancy
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z B"Gdim"BB |"Fm7" A>AA>A- A2 B2 |"Bb7" G2 G6 |"Eb" F>EF>E- E3 D | F2 E2"D" D2"F#m" _D2 | %5
+w: If I don't|see her each day _ I|miss her.|Gee! what a thrill _ each|time I kiss her.|
+"Fm" z3/2 C<=B,C/ B>BAF- |"Fm6" F4"G7" G4 |"Cm" F>E"Gm7"F>E"F7" F G2 B,- | %8
+w: Be- lieve me I've got a case|_ on|Nan- cy with the laugh- ing face.|
+"Fm7""Bb7" B,4"Gdim" z BB=A |"Fm7" A>AA>A- A2 B2 |"Bb7" G2 G6 |"Eb" F>EF>E- E3 D | %12
+w: _ She takes the|win- ter and makes _ it|sum- mer,|Sum- mer could take _ some|
+ F2 E2"D" D2"F#m" _D2 |"Fm" z3/2 C<=B,C/ B>BAF- |"Fm6" F4"G7" G4 |"Cm" F>EF>G"Abm" E E2 E- | %16
+w: les- sons from her.|Pic- ture a tom- boy in lace,|_ That's|Nan- cy with tthe laugh- ing face.|
+"Eb" E4- E2"G7" EF |"Cm" G>dc>G- G>EFG- |"Eb+" G2 G4 EF |"Cm7" G>dc>G- G>EFG- | %20
+w: _ _ Do you|ev- er hear mis- * sion bells ring-|* ing? Well she'll|give you the ver- * y same glow.|
+"F9" G2"Fm9b5" G4"Abm" GA |"Eb" B>feB- B>GAB- |"Fm7" B2"Bb7" B4"G+7" G2 | %23
+w: _ _ When she|speaks you would think _ it was sing-|* ing, Just|
+"Cm" F2"Cm7" E2"F7" F2 G2 |"Fm7""Bb7" B,4"Gdim" z BB=A |"Fm7" A>AA>A- A2 B2 |"Bb7" G2 G6 | %27
+w: hear her say "Hel-|lo." I swear to|good- ness you can't _ re-|sist her,|
+"Eb" F>EF>E- E3 D | F2 E2"D" D2"F#m" _D2 |"Fm" z3/2 C<=B,C/ B>BAF- |"Fm6" F4"G7" G4 |1 %31
+w: Sor- ry for you _ she|has no sis- ter.|No one could ev- er re- place|_ my|
+"Cm" F>EF>G"Abm" E E2 E- |"Eb" E4"Gdim" z BB=A :|2"Cm" F>EF>G"Abm" E E2 E- |"Eb" E8 |] %35
+w: Nan- cy with the laugh- ing face.|_ If I don't|Nan- cy with the laugh- ing face.|_|
+

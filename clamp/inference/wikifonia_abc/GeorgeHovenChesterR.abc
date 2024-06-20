@@ -1,0 +1,24 @@
+X:1
+T:It's No Sin
+T:It's No Sin
+C:George Hoven
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z2 D>E F>GA>B |"Am" c4 c4 |"D7" z2 D>E F>GA>^A |"G""Em" B8 |"Bm" z2 D>E F>GA>B |"Am" c4 c4- | %6
+w: Take a- way the breath of|flow- ers,|It would sure- ly be a|sin|Take the rain from Ap- ril|show- ers|
+"D7" c4 d2 A2 |"G""Em" B8 |"G" z2 D>E F>GA>B |"Am" c4 c4 |"D7" z2 D>E F>GA>_B |"G""Em" B8 | %12
+w: _ It's a|sin.|Take a- way the vi- o-|lins, dear,|From a love- ly sym- pho-|ny,|
+"Bm" z2 D>E F>GA>B |"Am" c6 B2 |"D7" d4 F4 |"G""C""G" G8 |:"C" z2 G2 A2 ^A2 |"B7" B8- | %18
+w: And the mu- sic deep with-|in, would|cease to|be.|Is it a|sin|
+ B2 F2 F2 A2 |"G" G8- | G2 F2 G2 ^G2 |"A" A8 | E6"D" F2 | E2 D2"D6" B4 |"D7" A8 | %25
+w: _ to love you|so,|_ To hold you|close|and know|you are leav-|ing.|
+"G""G" z2 d>^c d>cd>^d |"Am" e4 e4 |"D7""D7" z2 c>B c>Bc>^c |"G" d8 |"Bm7" z2 D>E F>GA>B | %30
+w: Though you take a- way my|heart dear,|Still the beat- ing there with-|in,|I'll keep lov- ing you for-|
+"Am" c2 c4 B2 |"D" d4"D7" F4 |1"G" G8 :|2"G" G8 || %34
+w: ev- er, For|it's no|sin.|sin.|
+

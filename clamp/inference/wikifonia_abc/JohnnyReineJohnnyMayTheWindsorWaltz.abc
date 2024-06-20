@@ -1,0 +1,27 @@
+X:1
+T:The Windsor Waltz
+T:The Windsor Waltz
+T:Johnny Reine,  Johnny May,
+C:Johnny Reine, Johnny May,
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^Chorus:" z z"C" E |: E B, C |"G7" F ^C D |"C" G B, C |"F" A3 |"C" c G3/2 E/ |"G7" F E D | %7
+w: Re-|mem- ber my|dar- ling the|night that we|met|danc- ing the|old Wind- sor|
+"C" G3- |"G7" G2 G |"C" E B, C |"G7" F ^C D |"C" G B, C |"F" A3 |"C" c G3/2 E/ |"G7" F E D | %15
+w: Waltz|* I|saw you I|loved you I'll|nev- er re-|gret|danc- ing the|old Wind- sor|
+"C" C3- | C z B, |"F" A F A | c B3/2 A/ |"C" ^F G A | G2 A |"G" B G E | D G B |"Am" c"D7" B A | %24
+w: Waltz|you you|gave me your|pro- mise I|gave you my|heart like|two oth- er|lov- ers we|nev- er will|
+ G2"G7" G |"C" E B, C |"G7" F ^C D |"C" G B, C |"F" A3 |"C" c G3/2 E/ |"G7" F E D |"C" C3 | %32
+w: part tho|time pass- es|by we will|nev- er for-|get|danc- ing the|old Wind- sor|Waltz|
+"G7" z z G :| c3- |"C" c3 | z3 |"C" E G C |"F" D3 |"C" E G C |"F" D3 |"C" E2 G |"Am" c2"D7" d | %42
+w: Re|Waltz|||High on a|hill|peace- ful and|still|Wind- sor|Cas- tle|
+"G" G3- | G3 |"Em" G B G |"Am" A3 |"Em" G B G |"Cm" c3 |"G" d"Em" B G |"Am" c"D7" B A |"G" G3- | %51
+w: stands||home of our|Queen|Proud and se-|rene|watch- ing o'er|Eng- lands fair|land|
+"^(to" G2"^Chorus:" G |] %52
+w: * Re|
+

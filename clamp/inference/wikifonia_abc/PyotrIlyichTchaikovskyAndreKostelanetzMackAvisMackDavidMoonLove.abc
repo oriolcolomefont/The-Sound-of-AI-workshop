@@ -1,0 +1,26 @@
+X:1
+T:Moon Love
+T:Moon Love
+C:Pyotr Ilyich Tchaikovsky
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 (3F E D |"Gm7" F2"C7" E2- | E2 (3C D E |"Fmaj7" G2 F2- |"Dm7" F2 (3F G A |"Gm7" B2 B3/2 B/ | %6
+w: Will this be|moon love,|* noth- ing but|moon love?|* Will you be|gone when the|
+"C7sus4" B3"C7" B |"Fsus4" B3/2 A/"F" A2- |"F/A" A2"Abdim" (3F E D |"Gm7" F2"C7" E2- | %10
+w: dawn comes|steal- ing through?|* Are these just|moon dreams,|
+"C7" E2 (3C D E |"Fmaj7" G2 F2- |"Dm7" F2 (3F G A |"Bm7b5" =B2 B3/2 B/ |"E7b9" =B3 B | %15
+w: * grand while the|moon beams?|* But, when the|moon fades a-|way will|
+"Am" (3=B d c c2- | c2"Am7b5" (3A B c |"D7" c2 D2- |"Gm7" D2 (3G A B |"C7" B2 C2- | %20
+w: my dreams come true?|* Much as I|love you,|* don't let me|love you|
+"Fmaj7" C2 (3F G A |"Dm7" A2"G9" A3/2 A/ |"Gm7" A3"C7" G |"Fmaj7" d3/2 c/ c2- | %24
+w: * if I must|pay for your|kiss with|lone- ly tears.|
+"^F /A" c2"Abdim7" (3F E D |"Gm7" F2"C7" E2- |"C7" E2 (3C D E |"Fmaj7" G2 F2- |"Dm7" F2 (3A B c | %29
+w: * Say it's not|moon love|* tell me it's|true love,|* say you'll be|
+"G9" d2 D3/2 D/ |"Gm9" A2"C7" E E |"F""Bbmaj7" F4- |"F6" F3 z |] %33
+w: mine when the|moon dis- ap-|pears.||
+

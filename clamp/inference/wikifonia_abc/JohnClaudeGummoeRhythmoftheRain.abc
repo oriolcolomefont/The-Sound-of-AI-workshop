@@ -1,0 +1,40 @@
+X:1
+T:Rhythm of the Rain
+T:Rhythm of the Rain
+T:
+T:
+T:Words & Music by: John Claude Gummoe
+C:John Claude Gummoe
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 57
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 57
+L:1/4
+V:1
+"F" dccA"F7" AGGF |"Bb" G2 FF- F2 z2 |"F" dccA AGAc |"C7" c6 z F |"F" dccA"F7" AGGF | %5
+w: List- en to the rhy- thm of the|fall- ing rain. _|Tell ing me just what a fool I've|been. I|wish that it would go and let me|
+"Bb" G2 FF- F2 z D |"F" FGFG"C7" D2 EF- |"F" F6 z F"F" ||"F" dccA"F7" AGGF |"Bb" G2 FF- F2 z2 | %10
+w: cry in vain, _ And|let me be a- lone a- gain.|_ The|on- ly girl I care a- bout has|gone a- way, _|
+"F" dccA Aczc- |"C7" c6 z F |"F" dccA"F7" AGGF |"Bb" G2 FF- F2 z D |"F" FGFG"C7" D2 EF- | %15
+w: Look ing for a brand new start|_ But|lit- tle does she know that when she|left that day _ A|long with her she took my heart.|
+"F" F6 z2"F" ||1"Bb" d2 d2 d_d=df |"Am7" eczc- c2 z A |"Gm7" BABA BABd |"F" cAzA- A2 z C | %20
+w: _|Rain please tell me now does|that seem fair? _ For|her to steal my heart a- way when|she don't care. _ I|
+"Dm7" F2 FE FEFA |"Gm7" G2 FD"C7" z CzD |"F" F8 |"C7" z4 z2 z F :|2"Bb" d2 dd d_d=df || %25
+w: can't love an- oth- er when my|heart's some- where far a-|way.|The|Rain won't you tell her that I|
+"Am7" eczc- c2 z2 |"Gm7" B2 BA BABd |"F" cAzA- A2 z2 |"Dm7" F2 FE FEFA |"Gm7" G2 FD"C7" z CzD | %30
+w: love her so _|Please ask the sun to set her|heart a- glow _|Rain in her heart and let the|love we knew start to|
+"F" F8 |"C7" z8"C7" ||"F" dccA"F7" AGGF |"Bb" G2 FF- F2 z2 |"F" dccA AGAc |"C7" c6 z F | %36
+w: grow.||List- en to the rhy- thm of the|fall- ing rain _|Tell ing me just what a fool I've|been I|
+"F" dccA"F7" AGGF |"Bb" G2 FF- F2 z D |"F" FGFG"C7" D2 EF- |"F" F6 z2 |] %40
+w: wish that it would go and let me|cry in vain _ And|let me be a- lone a- gain.||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2"C7" x2 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x2"F7" x2 ||1 %16
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 :|2 x4 || x4 | x4 | x4 | x4 | x4 | x4 | x2 x2 || x4 | x4 | %34
+ x4 | x4 | x4 | x4 | x4 | x4 |] %40
+

@@ -1,0 +1,25 @@
+X:1
+T:My Wild Irish Rose
+T:My Wild Irish Rose
+T:Chauncey Olcott
+T:Chauncey Olcott
+T:M. Witmark & Sons, 1898
+C:Chauncey Olcott
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Moderately" G | A B c | c d3/2 c/ | (c3 | c) z G ||"C" e3 |"Fm6" e2 d |"C" (c3 |"C7" c2) c | %9
+w: ||||* My|Wild|I- rish|Rose,|* The|
+"F" c c2 | B2 A |"C" (G3 | G) z E/E/ |"G7" F G A |"C" G2 E |"G7" F G A |"C" G2 B/c/ |"D7" A3 | %18
+w: sweet- est|flow'r that|grows|* You may|search ev'- ry|where, But|none can com-|pare With my|Wild|
+ e2 d |"G7" (d3 | d) z G |"C" e3 |"Fm6" e2 d |"C" (c3 |"C7" c2) c |"F" c c2 | B2 A |"C" (G3 | %28
+w: I- rish|Rose,|* My|Wild|I- rish|Rose,-|* The|dear- est|flow'r that|grows,|
+ G) z E/E/ |"G7" F G A |"C" G2 E |"G7" F G A |"C" G2 E |"F" F G A |"D7""G7" c"G7" d3/2 c/ | %35
+w: * And some|day for my|sake, She|may let me|take The|bloom from My|Wild I- rish|
+"C" (c3 | c) z z |] %37
+w: Rose.-||
+

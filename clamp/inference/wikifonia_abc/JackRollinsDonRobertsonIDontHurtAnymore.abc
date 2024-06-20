@@ -1,0 +1,24 @@
+X:1
+T:I Don't Hurt Anymore
+T:I dont hurt anymore
+T:Don Robertson
+T:Jack Rollins
+C:Jack Rollins, Don Robertson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 cA cdAc- |"F" c8- | c2 cA FGAG- |"C" G8- | G2 AG cGED- |"G7" D8- | D2 DD DCDE- |"C" E8- | %8
+w: I dont hurt an- y- more||* all my tear- drops are dried||* no more walk- in the floor||* with that burn- ing in- side-||
+ E2 cA"C7" cdAc- |"F" c8- | c2 cA FGAG- |"C" G8- | G2 AG cGED- |"G7" D8- | D2 EF EB,DC- |"C" C8- | %16
+w: * just to think it could be||* time has o- pened the door||* and at last I am free||* I dont hurt an- y more||
+"C7" C4 z2 z C |"F" FG^GA- A3 C | FG^GA- A4 |"C" z GGG"G7" GEFG- |"C" G6"C" z D | %21
+w: * No|use to de- ny * I|want- ed to die *|the day you said we were through|* but|
+"D7" ^FG^GA- A3 D | ^FG^GA- A4 |"G7" z GGG Bcd"C"c- | c2 cA"C7" cdAc- |"F" cccA FGAG- |"C" G8- | %27
+w: now that I find * you're|out of my mind *|I cant be- lieve that its true|* I've for- got- ten some- *|* * that I cares so be- fore||
+ G2 AG cGED- |"G7" D8- | D2 EF EB,DC- |"C" C8- |"F7" C4"C" z4 | z8 | z8 |] %34
+w: * and its won- der- ful now||* I dont hurt an- y- more|||||
+

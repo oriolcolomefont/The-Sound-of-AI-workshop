@@ -1,0 +1,23 @@
+X:1
+T:You Can't Be True Dear
+T:You cant be true dear
+T:(Du Kannst Nicht Treu Sein)
+T:Hans Otten,Ken Griffin
+T:German:Gerhard Eneler, English: Hal Cotton,
+C:Hans Otten, Ken Griffin
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." D | ^C2 D |"G" B3 | G3- | G2 B |"C" c2 B |"D7" B2 _B | A3- | A2 D | A2 B |"Am" c3 | A3 | %12
+w: You|cant be|true|dear|* theres|noth- ing|more to|say|* I|trust- ed|you|dear|
+"D7" E3 | ^F3 |"G" A G3/2 E/ | D3- | D2"^N.C." D | ^C2 D |"G" B3 | G3- |"G7" G2 G |"Dm" A2 B | %22
+w: hop-|ing|we'd find a|way|* your|kiss- es|tell|me|* that|you and|
+"Am" c2 B | A3- | A2 G |"D7" ^F2 E |"G" D2 B | B2 D |"D7" C2 A | A2 B |"G" G3- |"C" G3- | %32
+w: I are|through|* but|I'll keep|lov- ing|you Al-|though you|cant be|true.||
+"G" G2 z |] %33
+w: |
+

@@ -1,0 +1,21 @@
+X:1
+T:Hands Across The Table
+T:Hands Across The Table
+T:Mitchell Parish & John Delettre
+C:Mitchell Parish & John Delettre
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G3 B"Gm" G3 B |"Eb7" G2 G6 |"Ab" F3 A F3 A |"Abm" F6 EF |"Eb" G2 G2"Gm" B3 G |"Cm" E2 E2 G4 | %6
+w: Hands A- cross The|Ta- ble|while the lights are|low, tho' you|hush your lips, your|fing- er tips|
+"F7" G>cd>e d2 c2 |"Bb+7" ^F8 |"Eb" G3 B"Gm" G3 B |"Eb7" G2 G6 |"Ab" F3 A F3 A |"Abm" F6 EF | %12
+w: tell me all I want to|know.|Hands a- cross the|ta- ble,|meet so ten- der-|ly, and they|
+"Eb" G4"Gm" B>B"Cm"e>e |"F7" f6 d2 |"Fm7" c3 d"Bb7" B3 c |"Eb" e6 z2 |] %16
+w: say, in their lit- tle|way, that|you be- long to|me.|
+

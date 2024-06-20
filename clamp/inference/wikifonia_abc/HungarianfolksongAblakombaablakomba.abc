@@ -1,0 +1,15 @@
+X:1
+T:Ablakomba, ablakomba
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A,C B,A, | E2 A2 | G2 E2 | DE DC | B, A,3 | A,4!fine! :| c2 B2 | A2 B2 | A3 G | E G3 | A2 c2 | %11
+w: Ab- la- kom- ba,|ab- la-|kom- ba|be- sü- tött a|hold- vi-|lág,|Lám én|csak e-|gyet sze-|re- tek,|még- is|
+ B A3 | G3 E | C A,3!D.C.! |] %14
+w: de so-|kat- szen-|ve- dek,|
+

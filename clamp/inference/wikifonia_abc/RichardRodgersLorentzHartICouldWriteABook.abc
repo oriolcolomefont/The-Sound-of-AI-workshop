@@ -1,0 +1,40 @@
+X:1
+T:I Could Write A Book
+T:I Could Write A Book
+T:From Pal Joey
+T:Words by: Lorenz Hart Music by: Richard Rodgers
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G G"G/F#" G G |"G/F" G G"C/E" G G |"Cm/Eb" G G"G/D" G G |"C#dim7" G _B"D/C" A"D" D | %4
+w: A B C D|E F G I|nev- er learned to|spell, at least not|
+"Gmaj7""Am7" D4- |"Bm7" D2"Am7" z2 |"G" G G"G/F#" G G |"G/F" G G"C/E" G/G/ G | %8
+w: well.||One, two, three, four,|five, six, sev- en, I|
+"Cm/Eb" G G"G/D" G G |"C#dim7" G _B"D/C" A"D" D |"Gmaj7""Am7" D4 |"Bm7""Am7" z4 |"Gm7" D D D D | %13
+w: nev- er learned to|count a great a-|mount.||But my bus- y|
+"^C9sus4" D D"C9" D/^D/ E |"Fmaj7" E E E/F/ G |"Em7" A z"A7" z2 |"D7" A A A G/^F/ |"Gmaj7" D3 D | %18
+w: mind is burn- ing to|use what learn- ing I've|got.|I won't waste an- y|time, I'll|
+"Dm7" G D/E/ F E/F/ |"G7" G2 E F |:"Cmaj7" G2"Am7" B2 |"Dm7" A G"G13" E D |"Cmaj7""Am7" E4- | %23
+w: strike while the i- ron is|hot. If they|asked me|I could write a|book,|
+"Dm" E G"G7" E D |"Cmaj7" E G E D |"Am7" E c2 E |"Dm11" G4 |"G7" z2"F#m7b5" A"G7/F" B | %28
+w: * a- bout the|way you walk and|whis- per and|look.|I could|
+"C/E" c2"Ebdim7" c2 |"Dm7" c"G7" d2 B |"F#m7b5" A2"B7b9" A2 |"Em7" G2 E ^F |"G/B" G2"Bbdim7" G2 | %33
+w: write a|pre- face on|how we|met, so the|world would|
+"Am7" G"D7" A2 ^F |"Dm11" G4 |"G7" z2 E F |"Cmaj7" G2"Am7" B2 |"Dm" A G"G13" E D | %38
+w: nev- er for-|get.|And the|sim- ple|se- cret of the|
+"Cmaj7""Am7" E4- |"Dm" E G"G7" E D |"Cmaj7" E G E D |"Am7" E c2 E |"Dm11" G4- | %43
+w: plot|* is just to|tell them that I|love you a|lot.|
+"G7" G2"F#m7b5" A"G7/F" B |"C/E" c2"Ebdim7" c2 |"Dm7" c"G7" d2 B |"Gm7" _B2"C7b9" B2 | %47
+w: * Then the|world dis-|cov- ers as|my book|
+"Fmaj7" A2"Bb13" G F |"Em7" E2"A7b9" E2 |"Dm7" D"G7b9" c2 B |1"C69" c4 ||"Dm7" z2"G7" E F :|2 %52
+w: ends, how to|make two|lov- ers of|friends.|If they|
+"C69" c4- || c2 z2 |] %54
+w: friends.||
+

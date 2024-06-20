@@ -1,0 +1,29 @@
+X:1
+T:The White Cliffs of Dover
+T:The White Cliffs of Dover
+T:Walter Kent
+T:Nat Burton
+C:Walter Kent
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." G B |:"Eb" e2 e2 |"Gm7" d B2"Eb" E |"Ab" c2"A" c c |"Eb" B G2"Cm7" E |"Fm7" A2 A2 | %6
+w: There'll be|blue birds|ov- er the|white cliffs of|Do- ver to-|mor- row|
+w: |love and|laugh- ter and|peace e- ver|af- ter to-|mor- row|
+"Bb7" G F E F |1"Gm7" G4- ||"Fm7" G z"Bb" G B :|2"Eb" E4- ||"Eb" E2 z E |"Ab" c/A/ B c c | %12
+w: just you wait and|see|* there'll be||* The|shep- herd will tend his|
+w: when the world is|||free.|||
+"A" c3 d |"Eb" B/G/ A B B | G2 z E |"Ab" c/A/ B c c |"Cm7" e3 c/d/ |"F7" e d/e/ d c | %18
+w: sheep the|val- ley will bloom a-|gain and|Jim- my will go to|sleep in his|own lit- tle room a-|
+w: ||||||
+"Bb7" F z G B |"Eb" e2 e2 |"Gm7" d B2"Eb" E |"Ab" c2 c c |"Eb" B G2"Cm7" E |"Fm7" A2 A2 | %24
+w: gain there'll be|blue birds|o- ver the|white cliffs of|Do- ver to-|mor- row|
+w: ||||||
+"Bb7" G F E F |"Db" E z B A/G/ |"Eb" B2 z2 |] %27
+w: just you wait and|see. * * *||
+w: |||
+

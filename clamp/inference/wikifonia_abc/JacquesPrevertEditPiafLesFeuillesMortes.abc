@@ -1,0 +1,28 @@
+X:1
+T:Les Feuilles Mortes
+T:Les Feuilles Mortes
+T:Music by : Jacques Prévert Arr Wim Alderding
+C:Jacques Prévert
+Z:All Rights Reserved
+L:1/8
+Q:1/4=81
+M:6/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 11
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Am" ABc ABc |"Am" AcA"E7" [^GB]3 |"E7" Bcd Bcd |"E7" BdB"Am" [ce]3 |"A7" ([^ce]f)g [ce]fg | %5
+"A7" [^ce]ge"Dm" [Fd]3 |"Dm" ([FB]dc Bdc) |"D7" [^FB]cA"E7" [^GB]3 |"Am" ABc ABc | %9
+"Am" AcA"E7" [^GB]3 |"E7" Bcd Bcd |"Am" [ce]6 |"A7" ([^ce]g)f egf |"A" egf"Dm" [Fd]3 | %14
+"Dm" Bdc Bdc |"D7" [^FB]cA"E7" [^GB]2 [GB] |"E7" ABc ecB |"B7" [^FA]3"E7" [^GB]3 | %18
+"Am" ABc"G7" agf |"C" ([Ge]3 [Ge]2) [Ge] |"Dm" fdc"G7" Bcd |"C" [ce]3 [ce]2 [ce] | %22
+"Eb" [A_e]2 c [_Ec][EB][EA] |[M:4/4]"E7" [^GB]8 |"Am" z ABc"Dm" [DFAdf]4 | %25
+"G7" z GAB"C" [EGAce]2 [EGAce]2 |"F" z FGA"Dm" [DFAd]4 |"E7" z E^F^G"Am" [EAc]4 | %28
+"Am" z ABc"Dm" [DFAdf]4 |"G7" z GAB"C" [EGAce]2 [EGAce]2 |"F" z FGA"Dm" [DFAd]4 | %31
+"E7" z [^GB][Gd][Gc]"Am" [CEA]4 |"A" [^CA]2 ^GA"E7" BE [DB]2 |"E7" [DB]2 AB"C" [Ec]2 [Ec]2 | %34
+"C" z cBc"Dm" [DFd]4 |"G7" z Ggf"C" [Ge]4 |[M:2/4]"E" [Ge]2 _e=e | %37
+[M:4/4]"E7" [^Gf]f[Gd]d [GB]2 [Gf]2 |"Am" [Ace]4 [Ace]2 A2 |"Dm" [Fd]2 dc B2"E7" cE | %40
+"Am" ABce [ca]2 z2 |] z8 | z8 | z8 | z8 | z8 |] %46
+

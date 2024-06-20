@@ -1,0 +1,27 @@
+X:1
+T:Little Green Apples
+T:Little Green Apples
+T:Bobby Russell
+C:Bobby Russell
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"^N.C." z A/B/ |"Am" c c c c | c c A B | c c c d |"D7" B A G A |"G" D/C/ D z2 | z4 | z4 | %8
+w: And I|wake up in the|morn- ing with her|hair down in my|eyes and she says|Hi * *|||
+ z2 z A/B/ |"Am" c c c c | c c c/A/A/B/ | c c c d |"D7" B A c B |"G" D/C/D/ z/ z2 | z4 | %15
+w: and I|stum- ble to the|break- fast ta- ble while the|kids are go- ing|off to school good-|bye * *||
+ z2 z B/c/ | d d d B |"Dm" c B A2 |"G7" d d d B | c B A B |"C" A4- | A4- | A4 | z2 z A/B/ | %24
+w: and she|reach- es out and|takes my hand|squeez- es it says|how you feel- in|Hon?|||and I|
+"Am" c c c d |"D7" B A A A |"Am" c c c d |"D7" B A c B |"G" G4- | G4- | G4 | z D/D/ E D | %32
+w: lood a- cross at|smil- ing lips that|warm the heart and|see my morn- ing|sun|||and if thats not|
+"Am" A d d2- |"D7" d4 | z4 | z D E D |"Am" A d d2- |"D7" d4 | z4 | z4 |:"G" B B/B/ B2 | %41
+w: lov- ing me|||then all I've|go to say||||God did- nt make|
+ B B/B/ c B/D/ | B B B B | B B c/B/A/G/ |"Am" A/E/ E3- | E4 | z4 | z2 z A | A A A A | B A A2 | %50
+w: lit- tle green ap- ples and|it dont rain in|In- dian- ap- lis in the|sum- mer- time|||theres|no such thing as|Doc- tor Seuss|
+ A A A A |"D7" B A A ^F/F/ |"G" G D D2- | D4- |"^Repeat and fade" D4 | z4 :| %56
+w: Dis- ney- land and|Moth- er Goose is no|nurs- ery thyme||||
+

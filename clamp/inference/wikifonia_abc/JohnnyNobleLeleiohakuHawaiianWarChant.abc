@@ -1,0 +1,26 @@
+X:1
+T:Hawaiian War Chant
+T:Hawiian War Chant
+T:Johnny Noble
+T:Leleiohaku
+C:Johnny Noble
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Bb" B8 |"F" A8 |"C7" G8 |"F" F F2 F- F2"F7" z2 |"Bb" B8 |"F" A8 |"C7" G8 |"F" F F2 F- F2 z2 | %8
+w: Au|we,|ta|hu a la, *|Au|we|ta|hu a la *|
+"F" A3 G F>FF>C | F>EF>G A>A A2 | z A2 G F>FF>C | F>EF>G A>A A2 |"Bb" z B2 A B>AB>A- | %13
+w: Ta hu wa i la a|ta hu wa i wa i la|e hu he ne la a|pi li ko o lu a la|pu tu tu i lu a|
+"F" A A2 G F>F F2 |"C7" C>CC3/2CC3/2 C/EG/ |"F" F2 z2 z4 |"F" A3 G F>FF>C | F>EF>G A>A A2 | %18
+w: * i te to e la|ha nu li po i ta pa a|lai|Ta hu wa i la a|ta hu wa i wa i la|
+ z A2 G F>FF>C | F>EF>G A>A A2 |"Bb" z B2 A B>AB>A- |"F" A A2 G F>F F2 |"C7" C>CC3/2CC3/2 C/EG/ | %23
+w: e hu he ne la a|pi li ko o lu a la|pu tu tu i lu a|* i te to e la|ha nu li po i ta pa a|
+"F" F2 z2 z4 :|S"Bb" B8 |"F" A8 |"C7" G8 |"F" F F2 F- F2"F7" z2 |"Bb" B8 |"F" A8 |"C7" G4 A4 | %31
+w: lai|Au|we,|ta|hu a la, *|Au|we|ta hu|
+"Bb" B4 =B4 |"F" c8 |] %33
+w: a i|ai|
+

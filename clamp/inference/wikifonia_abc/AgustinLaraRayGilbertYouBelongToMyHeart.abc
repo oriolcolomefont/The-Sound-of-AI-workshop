@@ -1,0 +1,26 @@
+X:1
+T:You Belong To My Heart
+T:You belong to my heart
+T:Augustin Lara
+T:English: Ray Gilbert
+C:Agustin Lara
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 cd"^BEGUINE" c2 FG |"Fmaj7" A8- | A3 A"F" c3 d |"Gm7" c4 E4- |"C7" E2 de d2 ^FG |"Gm7" d8- | %6
+w: You be- long to my|heart|* now and for-|ev- er|* and our love had its|start|
+"C7" d3 f e3 c |"Fmaj7" A8- | A4 z2 ff | f2 ee e2 dd | d2 cc"F" d2 AB |"Gm7" c4 E4- | %12
+w: * not long a-|go|* we were|gath- er- ing stars while a|mil- lion- gui- tars played our|love song|
+"C7" E4 z2 cc | c2 BB B2 AA | A2 GG G2 FG |"Fmaj7" A4 z4 |"F7" z2 cd c2 FG |"Fmaj7" A8- | %18
+w: * when I|said I love you ev- ry|beat of my heart said it|too|'twas a mo- ment like|this|
+ A3 A c3 d |"Gm7" c4 E4- |"C7" E2 de d2 ^FG |"Gm7" d8- |"C7" d3 f e3 c |"Fmaj7" A8- | A4 z2 ff | %25
+w: * do you re-|mem- ber?|* and your eyes threw a|kiss|* when they met|mine|* now we|
+ f2 ee e2 dd | d2 cc d2 AB |"Gm7" c4 E4- |"C7" E4 z2 cc | c2 BB B2 AA | A2 GG d2 cd |"F" f8 | %32
+w: own all the stars and a|mil- lion gui- tars are still|play- ing|* Dar- ling|you are the song and you'll|al- ways be- long to my|heart.|
+ c'8 |] %33
+w: |
+

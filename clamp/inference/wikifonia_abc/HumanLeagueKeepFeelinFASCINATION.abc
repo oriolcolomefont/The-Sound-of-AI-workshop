@@ -1,0 +1,32 @@
+X:1
+T:(Keep Feelin') FASCINATION
+C:Human League
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+ z8 |"G7" z2 z d/e/ =fedc | d2 B2 AG- G2 | z2 z d =fe de/d/- | d4 z4 | z2 z E =F/ED/- DC | %6
+w: |If it seems a lit- tle|time is need- ed _|De- cis- ions to be made|_|The good ad- vice _ of|
+ D2 B,2 A,B,- B,2 | z2 z E =FEDE- | ED- D2 z4 | z2 z d =fede | d2 B2 AB- B2 | %11
+w: friends un heed- ed _|The best of plans mis-|* laid _|Just look ing for a|new dir ec tion _|
+ z2 z D/E/ =FE/D/- DE | D4 z4 | z2 z D =FEDC | D2 B,2 A,B,- B,2 | z2 z d =f/ed/ z e | d8 | %17
+w: In an old fam- il- * iar|way|The form ing of a|new con- nec tion _|To stud y or to|play|
+"C" z2 z2"F" z2"C" z2 |:"G7" z ddd [GBd][=FBe][EA=f][DGd] |"C" [EGc]8 | %20
+w: |and so the con ver sa tion|turned|
+"G7" z [DB=f][DBf][DBf] [DGe]2 [DBf]2 |"C" [Gce]8 |"G7" z [GBd][GBd][GBd] [GBd][=FBe][EA=f][DGd] | %23
+w: Un til the sun went|down|and man y fan- tas ies were|
+"C" [EGc]8 |"D7" z2 z A B2 A2 |"G7" z2 [Gd]2 [=Fd]2 [Ed]2 | [=Fc][Gd]-[Gd][Bf]- [Bf][Ae]- [Gd]2 | %27
+w: learned|ON THAT DAY|Keep Feel ing|FAS CI _ NA _ TION _|
+ [Gd][Gd]-[Gd][=Fc] [Ec]- [Ec]2 z | [Bd]2 [Ac]2 [GB]2- [Ac]2 | z2 [Gd]2 [=Fd]2 [Ed]2 | %30
+w: Pas sion _ burn ing _|Love so strong _|Keep Feel ing|
+ [=Fc][Gd]-[Gd][Bf]- [Bf][Ae]- [Gd]2 | [Gd][G-d][Gd][=F-c] [Fc][E-c] [Ec]2 | %32
+w: FAS CI _ NA _ TION _|Look ing, _ learn _ ing _|
+ [Bd]2 [Ac]2 [GB]2- [Ac]2 |"G7" z2 z d/e/ =fedc | d2 B2 AG- G2 | z4 =fe de/d/- | d4 z4 | %37
+w: Mov ing on _|Well, the truth may need some|re- arr- ang- ing _|Stor ies to be told|_|
+ z2 z D =F>E DC | D2 B,2 A,B,- B,2 | z2 z D =F/ED/ z E | D8 |] %41
+w: And plain to see the|facts are chang- ing _|No mean- ing left to|hold|
+

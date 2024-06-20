@@ -1,0 +1,19 @@
+X:1
+T:Blue Bossa
+T:Blue Bossa
+C:any
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G2 |:"Cm7" g3 f edzc- | c4 z B2 A- |"Fm7" A4 z g2 f- |"Bb7" f8 |"Dm7" f3 e dczB- | %6
+"G7" B4 z A2 G- |"Cm7" G4 z f2 e- | e8 |"Ebm7" e3 _d cBzA- |"Ab7" A4 z _G2 G- |"Dbmaj7" G3 F B3 A | %12
+ A8 |"Dm7" [FA]2 [EG][FB]- [FB]3 [FA] |"G7" [FA]2 [EG][FB]- [FB]3 [EA] |"Cm7" [DG]8- | %16
+"G7" [DG]6 G2 :|[K:C] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %31
+

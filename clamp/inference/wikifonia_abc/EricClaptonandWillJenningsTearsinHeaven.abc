@@ -1,0 +1,37 @@
+X:1
+T:Tears in Heaven
+T:Tears in Heaven
+T:Eric Clapton and Will Jennings
+C:Eric Clapton and Will Jennings
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"G" BG"D" d2 d2 |"Em" BA G2"Em7" z4 | z2"C" cc"G" BAGB |"D" A4"D7" z4 |"G" z2 BG"D" d2 A2 | %5
+w: Would you know my|name * *|If I saw you in heav-|en?|would it be the|
+w: Would you hold my|hand * *|if I saw you in heav-|en?|would you help me|
+w: Instrumental * * *|||||
+"Em" BA G2"Em7" z4 | z2"C" cc"G" BAGB |"D" A4"D7" z4 |"Em" z2 G2 G2 A2 |"B" ^F4 z4 | %10
+w: same * *|if I saw you in heav-|en?|I must be|strong|
+w: stand * *|if I saw you in heav-|en?|I'll find my|way|
+w: |||be- yond the|door|
+"Dm" z2 F2 F2 G2 |"E" E4 A2 B2 |"Am" c3 A A2 (3GFE |"D7" D2 z2 B2 AA |"G" G4"D" z4 |"Em" z8 | %16
+w: and car- ry|on 'cause I|know I don'tbe- long * *|* here in heav-|en||
+w: through night and|day 'cause I|know I just can't stay *|* here in heav-|en-||
+w: there's peace, I'm|sure, and I|know there'll be no more *|* tears in heav-|en.-||
+"G" z8 | z8 :|"G" z8 |"^To" z8 |]"^next" z2"^strain""Bb" dd"Am" c2 (3c^BA |"Gm" G2 _BG"C" c2 G2 | %22
+w: ||||time can bring you down *|* time can bend your|
+w: ||||||
+w: ||||||
+"F" A4"C" z4 |"Bb" z2 dd"Am" c2 (3c_BA |"Gm" G2 _BG"C" c2 c2 |"F" A4"C" z2"^beginning" A"^to"c | %26
+w: knees|time can break the heart *|* have you beg- gin|please beg- gin|
+w: ||||
+w: ||||
+"D" d8 |"D7" z8 |"^Return" z8 |] %29
+w: please|||
+w: |||
+w: |||
+

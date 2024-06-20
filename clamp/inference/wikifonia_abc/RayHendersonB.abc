@@ -1,0 +1,21 @@
+X:1
+T:Together
+T:Together
+T:B.G.DeSylva;  Lew Brown and Ray Henderson
+C:Ray Henderson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Bb" F B d | f2 d |"F7" c f2- | f3 | F A c |"F7" f2 ^c |"Bb" d f2- | f3 |"G7" G =B d | g2 d | %10
+w: We strolled the|lane to-|geth- er||laughed at the|rain to-|geth- er||sang love's re-|frain to-|
+"C" e g2- | g2 d/_d/ |"C7" c2 =d | G2 d/_d/ | c2 =d |"Eb" _G3 |"Bb" F B d | f2 d |"F7" c f2- | f3 | %20
+w: geth- er|* and we'd|both re-|tend it would|nev- er|end|One day we|cried to-|geth- er||
+"G7" G =B d | g2 d |"C" e g2- | g3 |"A7" A ^c =e | a2 g/a/ |"D" g f =e |"G7" _e2 d | G c e | %29
+w: cast love a-|side to-|geth- er||You've gone from|me but in|my mem- o-|ry we|al- ways will|
+"F7" g2 A |"Bb" c B2- | B2 z |] %32
+w: be to-|geth- er.||
+

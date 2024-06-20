@@ -1,0 +1,26 @@
+X:1
+T:Pal Of My Cradle Days
+T:Pal Of My Cradle Days
+C:Al Piantadosi
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb" G2 F/G/ | F2"Eb+" E |"Fm""Db" A3 |"Bb7""Ab+""Fm" A3 |"Fm7" A2"Abm" G/A/ |"Bb6" G2"Bb7" F | %6
+w: Pal of my|cra- dle|days,|_|I've need- ed|you al-|
+"Eb""Bb7" B3- |"Eb""Ab" B2"Bb+" B |"Gm" d d d |"Cdim" d e z/ c/ |"Fm" A2"Db7" A | %11
+w: ways,|_ Since|I was a|ba- by up-|on your|
+"Bb7""Fm7""Bb7" A3 |"Fm" c c c |"Bb7" c3/2 d/"Bb+" B |"Eb" G2"Eb+" G |"Eb6""Gm""Eb6" G3 | %16
+w: knee,|You sac- ri-|ficed ev- 'ry-|thing for|me.|
+"Eb" G2 F/G/ |"Gm7" F D"Eb+" E |"Fm""Db" A3- |"Bb7""Ab+""Fm" A3 |"Fm7" A"Cm" B"Ab" c |"G7" d =B G | %22
+w: I stole the|gold from your|hair.|_|I put the|sil- ver threads|
+"Cm""Cdim""Cm" e3- | e2 c/d/ |"Fm7" e2 d/e/ |"D7" d2 c/d/ |"Eb" f e"Bbm" B |"C7""Gm""C7" G3 | %28
+w: there,|_ I don't|know an- y|way I could|ev- er re-|pay,|
+"Fm" A"C7" B"Fm" c |"Abm""Bb7" f2"Eb" e |1"Eb""Gm""Ebdim" e3 ||"Bb7""Bbdim""Bb7" z3 :|2 %32
+w: Pal of my|crad- dle|days.||
+"Eb""Edim""Bb7" e3- ||"Eb" e2 z |] %34
+w: days.|_|
+

@@ -1,0 +1,24 @@
+X:1
+T:A föld és az ég
+T:A föld és az ég
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 52
+V:1
+ z4 z2 z B, |"Bm" B,2 CD"E" B,2 z2 |"A" C>DEC"D" D>E F2 |"G" z GGF"A" FE z A/E/ | %4
+w: A|Föld és az ég|asz- ta- lunk- nál ösz- sze- ér,|ér- tünk lett é- let ez a|
+"D" F2 F>F"Bm" E D3 |"G" z GG>F"A" E2 A>E |"D" F2 FE"Bm" D2 D/EF/ |"A" E4 z2 E/DC/ | %8
+w: bor és a ke- nyér,|Ő- ál- ta- la, Ő- ve-|le, Ő- ben- ne ti- ed va-|gyunk, ti- ed va-|
+"Bm" B,4 z2 D/EF/ |"A" E4 z2 E/DC/ |"Bm" B,4 z4 ||"Bm" F2 FF F2 z2 |"F#" F2 FF F2 z2 | %13
+w: gyunk, ti- ed va-|gyunk, ti- ed va-|gyunk.|Ments meg min- ket,|táp- lálj min- ket,|
+"Bm" F2 FF"Em" E2 z2 |"F#" F2 FF F2 z2 |"Bm" F2 FF F2 z2 |"G" G2 GG"D" F2 z2 |"A" E2 EE"D" F4 | %18
+w: ments meg min- ket,|táp- lálj min- ket,|ments meg min- ket,|táp- lálj min- ket,|ments meg min- ket!|
+ BFFD/D/ DB, z d | ec c/^A/A/A/ AF F2 | fddB/B/ BG z G | ec (3c^AA z AB>c | d4 z4 | B2 BB A2 z2 | %24
+w: Jé- zus vé- re és tes- te az|é- let i- ta- la és é- te- le,|Jé- zus vé- re és tes- te az|é- let i- ta- la és é- le-|te,|ments meg min- ket,|
+ A2 Bc d4 |] %25
+w: táp- lálj min- ket!|
+

@@ -1,0 +1,28 @@
+X:1
+T:Walking The Floor Over You
+T:Walking the floor over you
+T:Ernest Tubb
+C:Ernest Tubb
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z B |"Eb" c2 c c | c- c B G |"Ab" C4- | C2 z C |"Bb7" B,- B, D F | B B c c |"Eb" B4- | %8
+w: You|left me and|you * went a-|way|* You|said that you'd be|back in just a|day|
+w: (Now)|dar- ling you|know I love you|well|* I|love you more than|I can ev- er|tell|
+"Bb7" B2 z B |"Eb" c- c c c | c c B G | G G"Eb7" F E |"Ab" C3 C |"Bb7" B, B, D F | B B- B B/-B/ | %15
+w: * You've|bro- * ken your|pro- mise and you|left me here a-|lone I|dont know why you|did dear * but I|
+w: * I|thought * that you|want- ed me and|al- ways would be|mine *|But you went and|left me here with trou-|
+ c c B D |"Eb" E3 z || z2"^Chorus:" z B |"Eb" c e2 c | B2 G E |"Ab" C4- | C2 z C |"Bb7" B,2 D F | %23
+w: do know that you're|gone|I'm|walk- ing the|floor o- ver|you|* I|can't sleep a|
+w: bles on my mind.||||||||
+ B2 c c |"Eb" B4- |"Bb7" B2 z B |"Eb" c c c c | c c B G | G G"Eb7" F E |"Ab" C4 |"Bb7" B, D2 F | %31
+w: wink that is|true|* I'm|hop- ing and I'm|pray- ing as my|heart breaks right in|two|Walk- ing the|
+w: ||||||||
+ d d2 D |1"Eb" E4- |"Bb7" E2 z B ||2"Eb" E4- | E3 z |] %36
+w: floor o ver|you||||
+w: |||||
+

@@ -1,0 +1,27 @@
+X:1
+T:Crying Time
+T:Crying Time
+C:Buck Owens
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ z2 F G |:"F" A ^G A G | A2- A/^G/A/B/ |"C7" A2 =G2 | z2 G A | B A B A | B d c B |"F" A4- | %8
+w: Oh, it's|cry- ing time a-|gain, _ you're gon- na|leave me;|I can|see that far- a-|way look in your|eyes.|
+w: * (2)|say that ab- sence|makes _ the heart grow|fon- der,|And that|tears are on- ly|rain to make love|grow.|
+ A2 z A/B/ | c3 A/B/ |"F7" c _e d c |"Bb" c B3- | B2 z F/G/ |"F" A ^G A B |"C7" A G (F E) | %15
+w: _ I can|tell by the|way you hold me|dar- ling,|_ that it|won't be long be-|fore it's cry- ing|
+w: _ Well my|love~for you could|nev- er grow no|strong- er,|_ if I|live to be a|hun- dred years _|
+"F" F4- |1 F z F G :|2 F z F G ||"F" A ^G A G | A ^G A B |"C7" A2 =G2 | z2 G A | B A B A | %23
+w: time.|_ 2.~~Oh, they||say that you found|some- one you loved|bet- ter|that;s the|way it's hap- pened|
+w: old.||* Oh, you||||||
+ B d c B |"F" A4- | A2 z A/B/ | c3 A/B/ |"F7" c _e d c |"Bb" c B3- | B3 z |"F" A/^G/A/G/ A3/2 B/ | %31
+w: ev- 'ry time be-|fore.|_ And as|sure as the|sun comes up to-|mor- row.|_|Cry- ing time will start when|
+w: ||||||||
+"C7" A G F E |"F" F4- | F2- F z |] %34
+w: you walk out the|door.|_ _|
+w: |||
+

@@ -1,0 +1,25 @@
+X:1
+T:Nobody's Child
+T:Nobody's child
+T:unknown
+C:Cy Coben, Mel Foree
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"G" z D | G A B d | c B2 A |"C" G C C G | E3 E |"G" D G B d | c B A G |"A7" A E F G |"D7" A3 D | %9
+w: As|I was slow- ly|pass- ing an|or- phans home one|day And|stopped there for a|mo- ment just to|watch the chil- dren|play a-|
+w: |Peo- ple come for|chil- dren and|take them for their|own but|they all seem to|pass me by and|I am left a-|lone I|
+"G" G A B d | c B2 A |"C" G C C G | E3 E |"G" D G B d |"C" d c E G |"D7" F D B A |"G" G3 D | %17
+w: lone a boy was|stand- ing and|when I asked him|why he|turned with eyes that|could not see and|he be- gan to|cry I"m|
+w: know they'd like to|take me but|when they see I"m|blind they|al- ways take some|oth- er child and|I am left be-|hind.- *|
+ D2 B, C | D3 G | B d B G |"C" C4 |"D7" D2 F G | A A3 | A2 G A |"G" B4 | B2 G A | B d2 d | %27
+w: no- bod- ys|child I'm|no * bod- ys|child|just like a|flow- er|just grow- ing|wild|no mam- mys|kiss- es and|
+w: ||||||||||
+"C" c2 G E | C4 |"D7" D2 F G | A A2 B | c2 F A |"G" G4 |] %33
+w: no dad- dys|smile|no- bod- y|loves me I'm|no- bod- ys|child.|
+w: ||||||
+

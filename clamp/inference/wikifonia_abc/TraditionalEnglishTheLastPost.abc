@@ -1,0 +1,18 @@
+X:1
+T:The Last Post
+T:The Last Post (Tattoo)
+T:Traditional
+C:Traditional English
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ C2 | (!fermata!G4 | G2) z C | (!fermata!G4 | G2) z C | G2 G>G | c2 e2 | G2 G>G | G2 z2 | e2 g2 | %10
+ e2 c2 | g2 ec | g2 ec | G2 G>G | G2 z2 | g2 e2 | c2 Ge | c2 Ge | c2 Ge | cc Ge | c2 GG | cc ee | %22
+ c2 z G | e2 g2 | e2 c2 | G2 G>G | G2 G>G | cc/c/ ce | c2 GG | cc/c/ ce | c2 GG | ce ce | c2 z G | %33
+ e2 g2 | e2 c2 | G2 G>G | G2 z2 | g2 ec | g2 ec | G2 G>G | G2 z C | (!fermata!G4 | G2) z C | %43
+ (!fermata!G4 | G2) z C | G2 G>G | !fermata!c4 | (!fermata!e4 | e2) z2 |] %49
+

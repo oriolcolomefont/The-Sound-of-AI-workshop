@@ -1,0 +1,26 @@
+X:1
+T:There's No Tomorrow
+T:There's No Tomorrow
+C:Leon Carr
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z"^N.C." !fermata!e !fermata!e3/2 d/ ||S"Eb" B2 B2- | B d d3/2 c/ |"Fm""Fm7" A4- | %4
+w: There's no to-|mor- row|_ when love is|new,|
+"Bb7" A d d3/2 c/ |"Fm" A2"Fm7" A2- |"Bb7" A F G3/2 A/ |"Eb/G""Bb7/F" B4- |"Eb" B2 z B | %9
+w: _ Now is for-|ev- er,|_ when love is|true.|_ So|
+"Abm" _c2 c2- | c A e3/2 _c/ |"Eb/G""Bb7/F" B4- |"Eb" B G F3/2 E/ |"Bb7" B2 B2- | B G F3/2 E/ | %15
+w: kiss me|_ and hold me|tight|_ there's no to-|mor- row,|* there's just to-|
+"Eb" E4- | E4!fine! ||"Bb7" z"^N.C." B A3/2 G/ |"Eb" F2 E2- | E F G3/2 E/ |"Fm" D2 C2- | C D E F | %22
+w: night.|_|Love is a|flow- er|_ that blooms so|ten- der,|_ Each kiss a|
+"Bb7" D2 C2- | C D"Fm7/Bb" E"Bb7" F |"Ab/Eb" C2 B,2- | B,"^N.C." B A3/2 G/ |"Eb" F2 E2- | %27
+w: dew- drop|_ of sweet sur-|ren- der.|_ Love is a|mo- ment|
+ E F G3/2 E/ |"Fm" D2 C2- | C A"C/G" G3/2"Fm/Ab" F/ |"Eb/Bb" B G"Bdim7" F"Cm7" E |"Fm7" F3 G | %32
+w: _ of life en-|chan- ting|_ Let's take that|mo- ment that to-|night is|
+"Bb7" (3(F G F)"Eb" E2- || E"^N.C." !fermata!e !fermata!e3/2 d/!D.S.! || %34
+w: grant- * * ing.|* There's no to-|
+

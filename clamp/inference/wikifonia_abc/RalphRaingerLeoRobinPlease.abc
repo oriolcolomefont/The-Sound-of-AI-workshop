@@ -1,0 +1,30 @@
+X:1
+T:Please
+T:Please
+C:Ralph Rainger
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" e8 | d>cG>E"B7" ^D B2 A |"E7" c8 | B>^GE>D"A7" ^C A2 E |"Dm" G8 |"Bb9" F>Fc>F"G7" E2 ^DE- | %6
+w: Please|lend your lit- tle ear to my|pleas,|Lend a ray of cheer to my|pleas,|Tell me that youy love me too.|
+w: ||||||
+"Cmaj7""A7b9" E8 |"Dm7" z4"G7" z4 |"C" e8 | d>cG>E"B7" ^D B2 A |"E7" c8 | B>^GE>D"A7" ^C A2 E | %12
+w: ||Please,|let me hold you tight in my|arms,|I could find de- light in your|
+w: ||||||
+"Dm" G8 |"Bb9" F>Fc>F"G7" E2 EC- |"Cmaj7""F9" C8 |"C6" z2 E2"C#dim" A2 E2 |"Dm7" G2 FE"G7" D2 E2 | %17
+w: charms,|Ev- 'ry nightt my whole live through.||Your eyes re-|veal that you have the|
+w: |||||
+"C" G2 G4"C#dim" A2 |"Dm7" G2 G2"G7" d2 d2 |"C" G4"C#dim" A2 E2 |"Dm7" G2 FE"G7" D2 E2 | %21
+w: soul of an|an- gel, white as|snow; But how|long must I play the|
+w: * * (the|nic- est man I've|met;) * *||
+"C" G2 G4"Cm" A2 |"G" B2 B2"D7" c2 A2 |"G7" d4"G+7" ^d4 |"C" e8 | d>cG>E"B7" ^D B2 A |"E7" c8 | %27
+w: role of a|gloom- y Ro- me-|o? Oh!|Please|say you're not in- tend- ing to|tease,|
+w: |(tear- ful Ju- li-|et?) *||||
+ B>^GE>D"A7" ^C A2 E |"Dm" G8 |"Bb9" F>Fc>F"G9" E2 G2 |"Ab6" c8- |"C6" c8 |] %32
+w: Speed the hap- py end- ing and|please,|Tell me that you love me|too.||
+w: |||||
+

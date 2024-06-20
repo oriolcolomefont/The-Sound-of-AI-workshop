@@ -1,0 +1,22 @@
+X:1
+T:Laputa Main Theme
+T:Laputa
+T:Laputa
+T:Unknown
+T:2
+C:Joe Hisaishi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Melody"
+%%MIDI program 0
+V:1
+ z4 z2 cd | e3 d e2 g2 | d6 G2 | c3 B c2 e2 | B6 G2 | A3 G A2 e2 | G6 e2 | d3 =A A2 d2 | d6 cd | %9
+ e3 d e2 g2 | d6 G2 | c3 B c2 e2 | B6 G2 | A2 ed- d2 e2 | f2 ge- e4 | ed c2 d2 _c2 | c6 ef | %17
+ g2- gf g2 b2 | f6 B2 | e2- ed e2 g2 | g8 | cd e2 de f2 | e3 B B4 | c<a g2 f2 e2 | g8 | f6 g2 | %26
+ c'4 b4 | g2 fe e4 | f2 ef- f2 b2 | g4 z g2 z | c'4 b4 | g2 fe- e4 | f2 e f3 d2 | c6 cd | %34
+ e3 d e2 g2 | d6- dG | c3 B c2 e2 | B6 G2 | A3 G A2 e2 | G6 e2 | d3 =A A2 d2 | d6 cd | e3 d e2 g2 | %43
+ d6- dG | c3 B c2 e2 | B6 G2 | A2 e d2 e3 | f2 ge- e4 | ed c2 d2 _c2 | c6 CD | E3 D E2 G2 | D8 | %52
+ C8- | c8 |] %54
+

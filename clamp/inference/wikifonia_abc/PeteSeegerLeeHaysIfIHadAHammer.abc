@@ -1,0 +1,35 @@
+X:1
+T:If I Had A Hammer
+T:If I had a hammer 
+T:(The hammer song)
+T:Pete Seeger. Lee
+C:Pete Seeger, Lee Hays
+Z:All Rights Reserved
+L:1/8
+Q:1/4=72
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 4
+V:1
+"A""^Shuffle feel" z4"C#m" z4 |"D" z2 z"E" z Acec |:"A" e4"C#m" e4 |"D" z2 f2"E" fecA | %4
+w: |If I had a|ham- mer|I'd ham- mer in the|
+w: |If I had a|bell *|I'd ring it in the|
+w: |If I had a|song *|I'd sing it in the|
+w: |Well I have a|ham- mer|* and I have a|
+"A" c4"C#m" A4 |"D" z2 A2"E" ceec |"A" e2 e2"C#m" e4 |"D" z2 f2 fe f2 |"E" f3 e3 fe | %9
+w: morn- ing|I'd ham- mer in the|eve- * ning|all o- ver this|land!- * * *|
+w: morn- ing|I'd ring it in the|eve- * ning|all o- ver this|land!- * * *|
+w: morn- ing|I'd sing it in th|eve- * ning|all o- ver this|land!- * * *|
+w: bell *|* and I have a|song to sing|all o- ver this|land!- * * *|
+"E" z2 e2 fe f2 |"A" a3 f a4 | z2 f2 fecA |"F#m" c4 c4 | z2 f2 ff e2 |"D" f3 f"A" e3 e | %15
+w: I'd ham- mer out|dan * ger|I'd ham- mer out a|warn- ing|I'd ham- mer out|love be- tween my|
+w: I'd ring * out|dan * ger|I'd ring * out a|warn ing|I'd ring * out||
+w: I'd sing * out|dan * ger|I'd sing * out a|warn- ing|I'd sing * out||
+w: It'sthe ham mer of|just * ice!|It'sthe bell * of *|free- dom!|It's song * of||
+"D" ffff"A" e2 e2 |"D" z2 f2"A" e4- |"E" e4 ee e2 |"A" A4"C#m" A4 |"D" z2 z2"E" ceec :| %20
+w: broth- ers and my sis- ters|all *|* o- ver this|land *|If I had a|
+w: |||||
+w: |||||
+w: |||||
+

@@ -1,0 +1,41 @@
+X:1
+T:Nina, pretty ballerina
+T:NINA, PRETTY BALLERINA
+T:Benny Andersson, Björn Ulvaeus
+T:Benny Andersson, Bjôrn Ulvaeus
+C:Benny Andersson and Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ C2 cG AGED | C2 G,2 A,2 GG |:"C" A2 GG FFEE | F2 EE DDCC |"F" A,A,CC FFA,G,- |"C" G,4 z2 G,G, | %6
+w: |* * * Eve- ry|day in the mor- ning on her|way to the of- fice you can|see her as she catch- es a train|_ Just a|
+w: ||back ev- ry mor- ning to her|work at the of- fice and an-|oth- er week to live in a dream|_ and an|
+"F" A,A,CC F A2 G- |"C" G^D E4 EF | GGGG F E2 D- |"G7" D4 z2 GG |"C" A2 GG FFEE | F2 EE DDCC | %12
+w: face a- mong a * mil- lion|face _ _ Just an-|oth- er wo- man with no name,|_ not the|girl you'd rem- em- ber but she's|still some- thing spe- cial if you|
+w: oth- er row of ear- ly mor|_ _ nings in an|al- most ne- ver- end- ing stream|_ she don't|talk ve- ry of- ten kind of|shy and un- cer- tain ev- ery|
+"F" A,A,CC FFA,G,- |"C" G,4 z2 G,G, |"F" A,A,CC F A2 G- |"C" G^D E4 GA |"C" cccc"C#dim" AEEG- | %17
+w: knew her I am sure you'd a- gree|_ Cause I|know she's got a lit tle sec|ret * * Fri day|eve ning she turns out to _ be|
+w: bo- dy seems to think she's a bore|_ but they|woul- dn't know her lit- tle sec-|ret _ _ what her|fri- day night will have in _ store|
+"G" G6 z2 | z8 ||"C" c2 c2 AGAB | c2 c2 AGA^A |"G7" B2 B^A B A2 =A- |"G9" A4 z GA^A | %23
+w: _||Ni- na, pret- ty bal- le-|ri- na now she is the|queen of the dan- cing floor|_ This is the|
+w: _||||||
+"G7" B2 B^A B A2 =A- |"G9" A4 GAcA |"C" c2 AG GAcA | e2 c6 | c2 c2 AGAB | c2 c2 AGA^A | %29
+w: mo- ment she's wai- ted for|_ just like Cin- de-|rel- la _ (just like Cin de|rel la)|Ni- na pret- ty bal- le-|ri- na who would ev er|
+w: ||||||
+"G7" B2 B^A B A2 =A- |"G9" A4 z GA^A |"G7" B2 B^A B A2 =A- |"G9" A4 GAcA |1"C" c2 c2 AGEG- | %34
+w: think she could be this way|_ but she knows|the fun would go a- way|_ if she would _|play it e- ve- ry day,|
+w: |||||
+"G7" G4 z GAB |"C" c2 c2"C#dim" A E2 A |"G7" G6 z2 | z4 z2 GG :|2"C" c2 c2"C#dim" A E2 A | %39
+w: _ if she would|play it e- ve- ry|day|So she's|Play it e- ve- ry|
+w: |||||
+"G7" G6 z2 |:"C" c2 c2 AGAB | c2 c2 AGA^A |"G7" B2 B^A B A2 =A- |"G9" A4 z GA^A | %44
+w: day|Ni- na pret- ty bal- le-|ri- na now she is the|queen of the dan- cing floor|_ This is the|
+w: |Ni- na pret- ty bal- le-|ri- na who would ev- er|thionk she could be this way|_ This is the|
+"G7" B2 B^A B A2 =A- |"G9" A4 GAcA |"C" c2 AG GAcA | e2 c6 :| %48
+w: mo- ment she's wai- ted for|_ just like Cin- de-|rel- la _ (just like Cin- de-|rel- la)|
+w: part that she likes to play|_ just like Cin- de-|rel- la _ (just like Cin- de-|rel- la)|
+

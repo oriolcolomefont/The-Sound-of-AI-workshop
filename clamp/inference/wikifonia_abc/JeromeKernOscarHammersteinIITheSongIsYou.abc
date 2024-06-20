@@ -1,0 +1,31 @@
+X:1
+T:The Song Is You
+T:The Song Is You
+T:Music by JEROME KERN
+T:Lyrics by OSCAR HAMMERSTEIN II
+T:(c) 1932 Polygram International Publishing
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" BccB"Ebdim7" BccB |"Dm7" F4-"G7" FA (3A_AG |"Em7" GAAG"A7" GAAG |"Dm7" D4-"G7" DF (3F^DE | %4
+w: I hear mu- sic when I look at|you; _ a beau- ti- ful|theme of ev- 'ry dream i ev- er|knew. _ Down deep in my|
+"Em7" G4-"Am7" GEF>E |"Dm7" G4-"G7" GDED |"Dm7b5" F4-"G7" FCDC |"E7""A7""D7""G7" E8 | %8
+w: heart _ I hear it|play, _ I feel it|start, _ then melt a-|way.|
+"C" BccB"Ebdim7" BccB |"Dm7" F4-"G7" FA (3A_AG |"Em7" GAAG"Eb9" GAAG |"Ab9b5" D4-"G7" DF (3F^DE | %12
+w: I hear mu- sic when I touch your|hand; _ a beau- ti- ful|mel- o- dy from some en- chan- ted|land. _ Down deep in my|
+"Cmaj7" G4-"Am7" GE"A7"FE |"Dm7" A4-"G+7" AGAG |"C" c8 |"F#m7b5""B7b9" z8 |"Emaj7" EB B2- BBBB | %17
+w: heart, _ I hear it|say, _ is this the|day?||I a- lone _ have heard this|
+"F#m7" BA"B7" A6 |"Emaj7" E^d d2- dddd |"A#m7" ^d^c"D#7" c6 |"G#m7" ^DB ^G2- GD (3^F=FE | %21
+w: love- ly strain,|I a- lone _ have heard this|glad re- frain;|Must it be _ for- ev- er in-|
+"C#9" ^DB ^G2- GDDD |"F#7" ^D^F F2-"C9b5" FFFF |"B7" ^GB B2-"G7" BBBB |"C" BccB"Ebdim7" BccB | %25
+w: side of me, _ why can't I|let it go, _ why can't I|let you know? _ Why can't I|let you know the song my heart would|
+"Dm7" f4-"G9" fA (3A_AG |"Cmaj7" GAAG"C9" GAAG |"F" c4-"Bb9" cF (3F^DE |"Em7" G4-"A7" GEFE | %29
+w: sing? _ That beau- ti- ful|rhap- so- dy of love and youth and|spring? _ the mu- sic is|sweet, _ the words are|
+"Dm" A4-"G7" AGAG |"C""F7" c8- |"C6" c6 z2 |] %32
+w: true. _ The Song Is|You.|_|
+

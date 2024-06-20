@@ -1,0 +1,25 @@
+X:1
+T:Bone Vamp
+C:Mark Zanter
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=208
+M:4/4
+K:Ab
+V:1 treble-8 nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble-8 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+ x4"^Med Fast Swing" ecfe- |: e4 x4 | x4 ecge- | e4 x4 | x4 ecf"Abmaj7"e- |1 e6 e2 || %6
+"Gm7b5" e2 e2"C7b9" d d2"Fm7" c- | c8 | z4 ecfe- :|2 e6 e2 ||"Gm7b5" e2 e2"C7b9" d d2"Fmaj7" c- | %11
+ c8 | z4 afb"Dbmaj7"a- | a4 z .[eg]2 !>![fa]- | [fa] !>![fa]2 !>![fa] !tenuto![eg]2 !tenuto![df]2 | %15
+"Abmaj7" [ce]8 | z4 afb"Dbmaj7"a- | a8 |"Bb7" z4 gfb"Gm7b5"g- | g8 |"C7b9" z4 ecfe- | e4 x4 | %22
+ x4 ecge- | e4 x4 | x4 ecf"Abmaj7"e- | e6 e2 |"Gm7b5" e2 e2"C7b9" d d2"Fmaj7" c- | c8 | z4 ecfe- |] %29
+V:2
+ x8 |: x4"Cm7" B3"Dbmaj7" B- | B4 x4 | x4"Cm7" B3"Fm7" B- | B4 x4 |1 x8 || x8 | x8 | x8 :|2 x8 || %10
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x4"Cm7" B3"Dbmaj7" B- | B4 x4 | %23
+ x4"Cm7" B3"Fm7" B- | B4 x4 | x8 | x8 | x8 | x8 |] %29
+

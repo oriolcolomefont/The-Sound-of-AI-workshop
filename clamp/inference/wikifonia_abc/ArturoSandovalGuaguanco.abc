@@ -1,0 +1,22 @@
+X:1
+T:Guaguanco
+T:Guaguanco
+T:Arturo Sandoval
+T:© BenJBmC
+C:Arturo Sandoval
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Db
+V:1 treble nm="Trumpet in C"
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F4 Bd (f2 | f8) | ef a4 ge | gf (d6 | d4) z2 cd | f4 eced | B8 | z2 =AB d(c c2) | =AG (F6 | %9
+ F2) F2 Bd (f2 | f8) | ef a4 ge | gf (d6 | d4) z2 cd | f4 eced | B8 | z2 =AB d(c c2) | =AF B6 | %18
+ z4 z2 ef | a4 gfe(c | c2) de g(f (f2) | f2) dd dcd(f | f)(e e6) | de f4 ef | a4 gfe(c | %25
+ c2) de g(f (f2) | f2) dd dcd(f | f)(e e6) | de (f6 | f2) z2 F2 Bd | f6 ef | a4 gegf | d8 | %33
+ z4 z2 cd | f4 eced | B8 | z2 =AB dcAF | B6 z2 |] %38
+

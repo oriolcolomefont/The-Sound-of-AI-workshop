@@ -1,0 +1,19 @@
+X:1
+T:Áldalak, jó Uram
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 52
+V:1
+"C" E4"G" DEF>G |"Am" C4 z4 |"F" A2 A2"G" G2 F2 |"C" E4"C7" z4 |"F" A2 AA"G" G4 | %5
+w: Ál- da- lak, jó U-|ram,|tel- jes szí- vem-|ből,|Hir- de- tem majd|
+"E" EFED"Am" C3 C |"Dm" F2 E2"D" D2 C2 |"G4" C4"G7" B,4 |"C" E4"G" DEF>G |"Am" C4 z4 | %10
+w: cso- dás tet- te- id, és|é- ne- ke- lek|Ró- lad,|Ál- da- lak, jó U-|ram,|
+"F" A2 A2"G" G2 F2 |"C" E4"C7" z4 |"F" A2 AA"G" G3 F |"E" EFE>D"Am" C4 |"Dm" F2 E2"G" (D3 C) | %15
+w: tel- jes szí- vem-|ből,|Bol- dog- gá tesz, hogy|Hoz- zád tar- to- zom,|al- le- lu- *|
+"C" C8 |] %16
+w: ja.|
+

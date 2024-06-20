@@ -1,0 +1,41 @@
+X:1
+T:That Old Black Magic
+T:That Old Black Magic
+T:(from Star Spangled Rhythm)
+T:Harold Arlen
+T:Johnny Mercer
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2 z B, |:"Eb" G3/2 G/- G G- | G G G B, | G3/2 G/- G G- | G3 B, | G3/2 G/- G G- | G A B B, | %7
+w: That|old black * mag-|* ic has me|in its * spell|* That|old black * mag-|* ic that you|
+"Fm/Eb" F3/2 F/- F F- | F3 B, | F3/2 F/- F F- | F F F B, | F3/2 F/- F F- | F3 B | %13
+w: weave so * well|* Those|i- cy * fin-|* gers up and|down my * spine|* the|
+"Fm7/Eb" c3/2 c/- c"Bb9#5/Eb" c- | c B c B |"Eb6" c3/2 c/- c"Bb9#5" c- | c3 B, | %17
+w: same old * witch-|* craft when your|eyes meet * mine|* the|
+"Eb" G3/2 G/- G G- | G A B _d | G3/2 G/- G G- | G3 B, | G3/2 G/- G G- | G A B e | %23
+w: same old * ting-|* le that I|feel in * side|* and|then that * el-|* e- va- tor|
+"Db" F3/2 F/- F"Db7" F- | F3 E |"Ab6" B3/2 B/- B B- | B A"Abm6" F2 |"Ebmaj9" F3/2 F/- F F- | %28
+w: starts its * ride|* and|down and * down|* I go|round and * round|
+ F E"C+" C2 |"Fm7" E3/2 E/- E E- | E E"Emaj7" (3E E E |"Eb" E4- | E2 G B |"Cm" e2 e E- | %34
+w: * I go|like a * leaf|* that's caught in the|tide|* I should|stay a way|
+ E E (3E G B |"Ab9#11" d4- | d3/2 c/ d3/2 c/ |"G9" d4- | d3/2 G/ =A3/2 G/ |"C9" =A4- | =A2"C7" C2 | %41
+w: * but what can I|do?|* I hear your|name|* and I'm a-|flame|* A-|
+"Fm" c2 c C- | C C (3C F A |"Db9" _c4- | _c F (3F F F |"Abm6" A4- | A _C (3C C C |"Bb13" G4- | %48
+w: flame with such|* a burn- ing de-|sire|* that on- ly your|kiss|* can put out the|fire|
+ G2"Bb7" B,2 |"Eb" G3/2 G/- G G- | G G G B, | G3/2 G/- G G- | G3 B |"Bbm7/Eb" _d3/2 d/- d d- | %54
+w: * For|you're the * lov-|* er I have|wait- ed * for|* the|mate that * fate|
+ _d _d d B | _d3/2 d/- d"Eb9" d- | _d3 c |"Ab" e3/2 e/- e e- | e e e E |"Abm6" F4- | F2 G A | %61
+w: * had me cre-|at- ed * for|* and|ev- 'ry- * time|* your lips meet|mine|* Dar- ling|
+"Ab6" B3/2 B/- B B- | B A"Abm6" F2 |"Ebmaj7" F3/2 F/- F F- | F E"C+" C2 |"Fm7/Eb" E3/2 E/- E E- | %66
+w: down and * down|* I go|round and * round|* I go|in a * spin|
+ E2 (3E E E |"Fm7b5/Eb" E3/2 E/- E E- | E2 (3E E E |"Bb7/Eb" E3/2 E/- E E- | E E E2 |1"Eb6" E4- | %72
+w: * lov- ing the|spin I'm * in|* und- er that|old black * mag-|* ic called|love!|
+ E3 B, :|2"Eb6" E4- |"Fm7b5" E4- |"Eb6" E2 z2 |] %76
+w: * That|love!|||
+

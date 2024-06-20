@@ -1,0 +1,19 @@
+X:1
+T:Isten szeret bennünket
+T: 
+C:Traditional
+Z:Public Domain
+L:1/8
+Q:1/4=100
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z4 z2 DE |"D" F<F FG F2 E<F |"G" EDDB,"D" D2 DE | FFFF FEEF |"A" E<E EF E2 DE |"D" FFFG F2 EF | %6
+w: Is- ten|sze- ret ben- nün- ket, Ö- vé|le- gyen é- le- ted, mint a|csil- lag- fény az éj- sza- ká- ban,|ve- zet ben- nün- ket, Hogy- ha|esz- szük ke- nye- rét, né- künk|
+"G" EDDB,"D" D2 DE | F<F FF"A" EEFE |"D" D4 z4 |"D" A3 B F-E D2 |"G" EDDB, D4 |"D" A3 B F-E D2 | %12
+w: ad- ja szent lel- két, Is- ten|ba- rát- sá- gát, Is- ten é- le-|tét.|Ez a tes- * tem,|eb- bõl e- gye- tek,|ez a vé- * rem,|
+"A" EEEF E2 DE |"D" A3 B F-E D2 |"G" EDDB, D2 DE |"D" FFFF"A" EEFE |"D" D8 |] %17
+w: eb- bõl i- gya- tok, Ben- nem|él az é- * let,s|min- den sze- re- tet, gyer- tek|hoz- zám, fel- ü- dít- lek ti- te-|ket.|
+

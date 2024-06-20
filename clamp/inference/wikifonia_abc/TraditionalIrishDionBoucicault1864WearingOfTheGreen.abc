@@ -1,0 +1,23 @@
+X:1
+T:Wearing Of The Green
+T:Wearing of the green
+T:(Irish)
+C:Traditional Irish
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." G/A/ |"G" B B B B | B d d B |"D" B A A A | A3 d |"C" e c g f |"G" e d B G | %7
+w: Oh *|Pad- dy dear and|did you hear the|news thats go- ing|round? the|sham- rock is for-|bid by law to|
+"C" A G G G |"G" G2 G A | B B B B | B d d B |"D" B A A A | A3 d |"C" e c g f |"G" e d B G | %15
+w: grow on I- rish|ground! Saint *|Pat- rick's Day no|more to keep, his|col- or can't be|seen for|ther'es a blood- y|law a- gin the|
+"C" A G G G |"G" G2 g f |"C" e e"G" d B | d B G A | B A B c | B2 g f |"C" e e"G" d B | d2 G B | %23
+w: wear- ing of the|green I *|met with Nap- per|Tan- dy and he|tuk me by the|hand and he|said "Hows poor old|Ire- land and|
+"A7" A G F E |"D" D2"^N.C." G A |"G" B B B B | B d2 B |"D" B A A A | A3 d |"C" e c g f | %30
+w: how * does she|stand?" she's the|most dis- tress- ful|coun- try that|ev- er you have|seen they're|hang- in men and|
+"G" e d B G |"C" A G G G |"G" G3 z |] %33
+w: wom- en there for|wear- in of the|green.|
+

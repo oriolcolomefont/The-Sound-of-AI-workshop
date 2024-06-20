@@ -1,0 +1,25 @@
+X:1
+T:Deep In My Heart
+T:Deep In My Heart
+T:from " The Student Prince"
+T:Sigmund Romberg
+T:Dorothy Donnelly
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A3 |"A7/E" A2 A |"Dm" d3 |"G7" D3 |"F" F G A |"Gm7" c2"C+" c |"F" c3- | c3 |"Am" c3 | %9
+w: Deep|in my|heart,|dear.|I have a|dream of|you.||Fash-|
+"Am7/G" c2 c |"D7/Gb" e3 | ^F3 |"C" G"Dm7" A c |"G9" d"C7" f3/2 e/ |"Gm7" g3- |"C7" g3 |"Dm" f3 | %17
+w: ioned of|star-|light,|Per- fume of|ros- es and|dew-||Our|
+"Bb" e2 d |"F/A" f3 |"D7" c3 |"Gm" d d d | d"D7" c"Gm" B |"G9" A3 |"C+" ^G3 |"F" A3 |"A7/E" A2 A | %26
+w: paths may|sev-|er,|But I'll re-|mem- ber for|ev-|er,|Deep|In Mt|
+"Dm" d3 |"G9" a3 |"F" f"Am/E" g"G9/D" a |"C7" c'2 a |"F" f3- | f z z |] %32
+w: Heart,|dear,|Al- ways I|dream of|you.-||
+

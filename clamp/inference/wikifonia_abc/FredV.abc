@@ -1,0 +1,31 @@
+X:1
+T:Rock A Billy
+T:Rock a billy
+T:Woody Harris, Eddie V. Deane
+C:Fred V.Deane, Woody Harris
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"F" AAFF FFFF | FFFF A2 z2 | AAFF FFFF |"C7" G E2 C- C2 z2 |"F" AAFF FFFF | FFFF A2 z2 | %6
+w: Rock a bill- y rock- a- bill- y|rock- a- bill- y rock|rock- a- bill- y rock- a- bill- y|rock rock rock *|rock- a- bill- y rock- a- bill- y|rock- a- bill- y rock|
+w: ||||||
+ AAFF FFDC | z2"C7" E2"F" F2 z2 | z4 z2 z ^G |"F" AAFD F2 D2 | F2 FA- A"C7" ^G2 G | %11
+w: rock- a- bill- y rock- a- bill- y|rock rock|some|peo- ple think it cam from|Ten- nes- see * then it|
+w: ||hey|grab your- self a part- ner|lose the blues * wear your|
+"F" A F2 F- F2 FF |"C7" G2 EC- C2 ^G=G |"F" A2 FF"F7" F2 FF |"Bb" BBBB-"Db7" B4 | %15
+w: spread on out * to the|lone prai- rie * its a|hill- bill- y rock and a|fid- dle dee dee *|
+w: stor- bought clothes * and your|stomp- in- shoes * Bet- ter|head for the hills gon- na|blow * my fuse *|
+"C7" c2 B2 A2 FF- | F2"C7" AA- A2 A2- | A2 z2 z4 :| z4 z2 z F |"Bb" G2 GF GFGF | z A2 A F2 z F | %21
+w: turns me in- side out|* gim me * some||Ya|know what the rock- a- bill- ys|all a- bout ya|
+w: Ooh I'm gon- na shout|* gim- me * some|||||
+"Bb" GFGF GF- F2 |"F" z A2 A F2 z F |"Bb" GFGF G2 GF |"F" A"Eb" B2"D7" c- c2 z2 | %25
+w: know its got- ta make ya *|sing and shout ya|know ya gon- na act like a|cra- zy fool *|
+w: ||||
+"G" z2 d2 A2"C7" z2 | z2 E2"F" F2 z2 || AAFF FFDC | z2"C7" E2"F" E2 z2 |] %29
+w: who cares|it's cool|Rock- a- bill- y rock- a- bill- y|rock rock|
+w: ||||
+

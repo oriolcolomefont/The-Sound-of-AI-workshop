@@ -1,0 +1,24 @@
+X:1
+T:Arrivederci,  Roma (Goodbye To Rome)
+T:Arrivederci Roma
+T:R.Rascel
+T:Carl Sigman
+C:R.Rascel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^BEGUINE" C |"F" A3 c |"Bb" B3 A |"F" G2 F2- | F2 z C | A3 E |"A7" G3 F |"Bb" D4- | %8
+w: Ar-|ri- ve-|der- ci|Ro- ma|_ good|bye good-|bye to|Rome|
+"Gm7" D2 E/E/E/E/ |"C7" E3/2 G/ E D | D C E/E/E/E/ | E3/2 G/ E D | D C E/E/E/E/ | E3/2 G/ E D | %14
+w: _ ci ty of a|mil- lion moon- lit|pla- ces ci- ty of a|mil- lion warm em-|brac- es where I found the|one of all the|
+ D C B A |"F" c4- |"C7" c3 C |"F" A3 c |"Bb" B3 A |"F" G2 F2- | F2 z C | A3 E |"A7" G3 F | %23
+w: fa- ces far from|home|_ Ar-|ri- ve-|der- ci|Ro- ma|_ its|time for|us to|
+"Bb" D4- |"Gm7" D2 E/E/E/E/ |"C7" E3/2 G/ E D | D C E/E/E/E/ | E3/2 G/ E D | D C E/E/E/E/ | %29
+w: part|_ save the wed- ding|bells for my re-|turn- ing keep my lov- ers|arms out- stretched and|yearn- ing please be sure the|
+ E3/2 G/ E D | D C B E |"F" F4 |] %32
+w: flame of love keeps|burn- ing in her|heart.|
+

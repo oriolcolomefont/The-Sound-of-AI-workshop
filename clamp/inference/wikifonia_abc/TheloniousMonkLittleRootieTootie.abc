@@ -1,0 +1,24 @@
+X:1
+T:Little Rootie Tootie
+T:Little Rootie Tootie
+T:Thelonious Monk
+C:Thelonious Monk
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Ab7" z A, (3CE_G"Db7" FD (3FA_c |"Bbm7" B2 AF z2"Eb7#9" z2 |"Ab7" z A, (3CE_G"Db7" FD (3FA_c | %3
+"Bbm7" B2 AF"Eb7#9" z4 |"Ab7" z A, (3CE_G"Db7" FD (3FA_c |"Bbm7" B2 AF"Eb7#9" z4 | %6
+"Ab7" z A, (3CE_G"A7#5" FE=A,_A,- |"Ab" A,8 :|"A7" z A, (3=A,D=A"Ab7" _A2 FD- | %9
+"Db6" D3"Ebm7" ^F,- F,"Em7"G,"Fm7" A,2 |"A7" z A, (3=A,D=A"Ab7" _A2 Bd- |"G7b5" d2 F_G-"C7b5" G4 | %12
+"F7b5" z A, (3=A,F=B"F11" _B2 GF- |"Bb9""Bb7b9" F8 |"Dbm7" z E (3=E=B=e"Gb13" _e4 | %15
+"B7" z B, (3=B,^F=B"Bb7""A7" _B4 ||"Ab7" z A, (3CE_G"Db7" FD (3FA_c |"Bbm7" B2 AF"E7#9" z4 | %18
+"Ab7" z A, (3CE_G"Db7" FD (3FA_c |"Bbm7" B2 AF"Eb7#9" z4 |"Ab7" z A, (3CE_G"Db7" FD (3FA_c | %21
+"Bbm7" B2 AF"Eb7#9" z4 |"Ab7" z A, (3CE_G"A7#5" FE=A,_A,- |"Ab13" A,8 |] %24
+

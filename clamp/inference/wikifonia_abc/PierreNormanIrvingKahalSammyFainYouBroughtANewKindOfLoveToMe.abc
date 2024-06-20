@@ -1,0 +1,30 @@
+X:1
+T:You Brought A New Kind Of Love To Me
+T:You Brought A New Kind Of Love To Me
+C:Pierre Norman, Irving Kahal, Sammy Fain
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"Eb7" z2 E=E |:"Bbm7" F d2 F- F3 _G |"Eb7" =G e2 G- G3 B |"Ab" A2 c2"Ab7" e2"G7" =d2 | %4
+w: If the|night- in- gales * could|sing like you, * They'd|sing much swee- ter|
+"Gb7" _d c2 =A- A3 F |"Bb7" (3_A2 F2 A2 (3F2 A2 F2 |"Eb7sus4" c4"Eb7" G4 |"Ab" F8 | %8
+w: than they do, * For|you've brought a new kind of|love to|me.|
+"Eb7sus4" z4"Eb7" z2 E=E |"Bbm7" F d2 F- F3 _G |"Eb7" =G e2 G- G3 B |"Ab" A2 c2"Ab7" e2"G7" =d2 | %12
+w: If the|sand- man brought * me|dreams of you, * I'd|want to sleep my|
+"Gb7" _d"F7" c2 =A- A3 F |"Bb7" (3_A2 F2 A2 (3F2 A2 F2 |"Eb7sus4" c4"Eb7" c4 |"Ab""Dbm" A8- | %16
+w: whole life thru, * For|you've brought a new kind of|love to|me.|
+"Ab" A2"^NO CHORD" A2 B2 =B2 |"Fm" c c3"C/E" c4 |"Ab7/Eb" c2 c2"Bb7/D" c3 B | %19
+w: * I know that|I'm the slave,|you're my queen, But|
+"Db7" AFAc-"C7" c2 c2 |"Fm" F4- FGA=A |"Eb" B B3"Bb+" B4 | B2 B2"Fdim" B4 |"Bb7" BFGA- AB c2 | %24
+w: still you can un- * der-|stand, * That un- der-|neath it all|you're a maid|and I am on- * ly a|
+"Eb7" B6 E=E |"Bbm7" F d2 F- F3 _G |"Eb7" =G e2 G- G3 B |"Ab" A2 c2"Ab7" e2"G7" =d2 | %28
+w: man. I would|work and slave, * The|whole day thru, * If|I could hur- ry|
+"Gb7" _d"F7" c2 =A- A3 F |"Bb7" (3_A2 F2 A2 (3F2 A2 F2 |"Eb7sus4" c4"Eb7" c4 |1"Ab" A4"Adim" z4 || %32
+w: home to you, * For|you've brought a new kind of|love to|me|
+"Eb7" z4 z2 E=E :|2"Ab""Dbm" A8- ||"Ab" A2 z2 z4 |] %35
+w: If I|me.||
+

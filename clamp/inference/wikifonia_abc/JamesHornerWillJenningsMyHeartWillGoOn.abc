@@ -1,0 +1,38 @@
+X:1
+T:My Heart Will Go On
+T:My Heart Will Go On
+C:James Horner
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:E
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"E" E3/2 E/ E E |"B/F#" D E2- E/E/ |"A/E" D E2 F |"E" G2"B" F2 |"E" E3/2 E/ E E |"B/F#" D E2 E | %6
+w: Ev- 'ry- night in|my dreams _ I|see you I|feel you,|that is how I|know you go|
+"A" B,4 | z4 |"E" E3/2 E/ E E |"B/F#" D E2 E |"A/E" D E2 F |"E" G2"B" F2 |"E" E3/2 E/ E E | %13
+w: on.||Far a- cross the|dis- tance and|spa- ces be-|tween us|you have come to|
+"B/F#" D E2 E |"A" B,4 |"G#m" z4 |"C#m" E4 |"B" F3 B, |"A" B2 A G |"A" F2 G A |"C#m" G2 F E | %21
+w: show you go|on.||Near,|far, wher-|ev- er you|are, I be-|lieve that the|
+"B" D E2 D |"A" (C3- C/D/4C/4 |"G#m" B,2"F#m" A,2) |"C#m" E4 |"B" F3 B, |"A" B2 A G/F/- | %27
+w: heart does go|on. _ _ _|_ _|Once|more, you|o- pen the door|
+"B" F2 G A |"C#m" G2 F E |"B" D E2 D | D E2 F |"B" G2 F2 |"E" E3 z | E3/2 E/ E E |"B/F#" D E2 E | %35
+w: _ and you're|here in my|heart and my|heart will go|on and|on.|Love can touch us|one time and|
+"A/E" D E2 F |"E" G2"B" F2 |"E" E E2 E |"B/F#" D E E3/2 E/ |"A" B,4 | z4 |"E" E3/2 E/ E E | %42
+w: last for a|life- time|and nev- er|let go till we're|gone.||Love was when I|
+"B/F#" D E2 E |"A/E" D E2 F |"E" G2"B" F2 |"E" E3/2 E/ E E |"B/F#" D E2 E |"A" B,4 |"G#m" z4 | %49
+w: loved you, one|true time I|hold to,|in my life we'll|al- ways go|on.||
+"C#m" E4 |"B" F3 B,/B/- |"A" B2 A G |"B" F2 G A |"C#m" G2 F E |"B" D E2 (D/E/4D/4) |"A" (C4 | %56
+w: Near,|far, wher- ev-|* er you|are, I be-|lieve that the|heart does go _ _|on|
+"G#m" B,2"F#m" A,2) |"C#m" E4 |"B" F3 B, | B2 A G/F/- |"B" F2 G A |"C#m" G2 F E |"B" D E2 D | %63
+w: _ _|Once|more, you|o- pen the door|_ and you're|here in my|heart and my|
+"A" D E2 F |"B" G2 F2 |"C#m" E4- |"B" E4 |"A" z4 |"B" z4 |"C#m" z4 |"B" z4 |"A" z4 | %72
+w: heart will go|on and|on.|_||||||
+"G#power""F#power" z4 ||[K:Ab]"Fm" A4 |"Eb" B3 E |"Db" e2 d c |"Eb" B2 c d |"Fm" c2 B A | %78
+w: |You're|here, there's|no- thing I|fear, and I|know that my|
+"Eb" G A2 G |"Db" (F3- F/G/4F/4 |"Cm" E2"Bbm" D2) |"Fm" A4 |"Eb" B3 E/e/- | e2 d c |"Eb" B2 c d | %85
+w: heart will go|on. _ _ _|_ _|We'll|stay for- ev-|* er this|way. You are|
+"Fm" c2 B A |"Eb" G A2 G |"Db" G A2 B |"Eb" c2 B2 |"Fm" A4 |"Eb" z4 |"Db" z4 |] %92
+w: safe in my|heart, and my|heart will go|on and|on|||
+

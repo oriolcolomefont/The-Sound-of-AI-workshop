@@ -1,0 +1,28 @@
+X:1
+T:Green Eyes
+T:Green Eyes
+C:Nilo Mendez
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^N.C." z2 z B, EFGB |"Ebmaj7" d3 e-"Eb" e4- | e2 z d edcB |"Eb6" c3"Ebmaj7" d- d4- | %4
+w: Your green eyes with their|soft lights, _|_ Your eyes that pro- mise|sweet nights, _|
+ d2 z B, EFGA |"Eb" B3"Eb6" c- c4- |"Edim7" c2 z B cBAG |"Bb7" B8- | B2 z B, FGAB | %9
+w: _ Bring to my soul a|long- ing, _|_ a thirst for love di-|vine.|_ In dreams I seem to|
+"Bb7" d3 e-"Ab/Bb" e4- | e2 z d edcB |"Bb7" c3 d- d4- | d2 z c dcB=A |"C+" _A3"C7" G- G4- | %14
+w: hold you _|_ To find you and en-|fold you _|_ Our lips meet, and our|hearts too, _|
+"F7" G F2 G =A2 Bc |"Bb7" d8- | d2 z B, EFGB |"Ebmaj7" d3 e-"Eb" e4- | e2 z d edcB | %19
+w: _ with a thrill so sub-|lime.|_ Those cool and lim- pid|green eyes, _|_ A pool where- in my|
+"Eb6" c3 d-"Ebmaj7" d4- | d2 z B, EFGA |"Edim7" B3 c-"C7/E" c4- |"C7" c2 z B cBAG |"Fm""C7" c8- | %24
+w: love lies, _|_ so deep that in my|search- ing _|_ For hap- pi- ness I|fear|
+"Fm" c2 z C FGAc |"Ab6" f3"Abmaj7" g- g4- | g3 f gf"Adim7"ec |"Eb/Bb" e3 B-"Bbm6/Db" B4 | %28
+w: _ that they will ev- er|haunt me. _|_ All thru my life they'll|taunt me, _|
+"C7" z2 z B cBAG |"F7" c3 d- d2 e2 |"Bb7" f4 edcd |1"Eb""Eb6""Edim7" e8 |"Bb7" z2 z B, EFGB :|2 %33
+w: But will they ev- er|want me, _ green|eyes, make my dreams come|true.|Your green eyes with their|
+"Eb" e8- | e4- e2 z2 |] %35
+w: true.|_ _|
+

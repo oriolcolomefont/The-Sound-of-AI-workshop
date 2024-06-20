@@ -1,0 +1,38 @@
+X:1
+T:Sympathy Waltz
+T:Sympathy Waltz
+T:from the operetta and movie "The Firefly"
+T:Rudoplf Friml
+T:Otto Harbach,Gus Kahn
+C:Rudolf  Friml
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb7" B3 |"E7" =B3 |"Ab" c"Db" f"Ab" e |"F+7" d2"F7" c |"Bb7" F3 |"Eb7" G3 |"Ab" A E"Fm" F | %7
+w: |||||||
+w: |||||||
+"Fm9" G"Fm" F"E7" =E |:"Ab" E3 |"Fm7/Eb" F3 |"Bbm7" F A z3/4 F/4 |"Eb7" G3 |"Bbm7" F A z3/4 F/4 | %13
+w: |You|need|sym- * pa-|thy,|sym- * pa-|
+w: |I|need|sym- * pa-|thy,|sym- * pa|
+"Eb7" G2 c |"Ab" B2 A | E3 | e3 |"E7/B" =d3 |"Bbm" d c3/2 B/ | F3 |"Eb7" e"Bbm7""Gbdim" d3/2 =A/ | %21
+w: thy, just|sym- pa-|thy!|I'm|just|try- ing to|be|Friend- ly and|
+w: thy, just|sym- pa-|thy!|Tho'|I'm|try- ing to|be,|Pro- per and|
+"Eb7" c2 B |"Bbm7" d"Eb7" c G |"Ab" B A"Ddim" F |"Ab" E3 |"Fm7/Eb" F3 |"Bbm7" F A z3/4 F/4 | %27
+w: gen- tle,|not sen- ti-|men- tal., so|if|I|touch your hand,|
+w: nice, I'm|not made of|ice and if|my|poor|heart skips a|
+"Eb7" G3 |"Bbm7" F A z3/4 F/4 |"Eb7" G2 c |"Edim" B3 |"Fm" A3 |"Bb7/F" B3 |"E7" =B3 | %34
+w: Don't|mis- un- der|stand it's|mean-|ing,|You|must|
+w: beat,|Each time we|meet, don't|blame|me,|Tho'|I|
+"Ab" c"Db" f"Ab" e |"F+7" d2"F7" c |"Bb7" F3 |"Eb7" G3 |1"Ab" A E"Fm" F ||"Fm9" G"Fm" F"E7" =E :|2 %40
+w: know I'm not|show- ins|sym-|pa-|thy. * *||
+w: know you're but|show- ing|sym-|pa|||
+"Ab" A c e || a z z |] %42
+w: ||
+w: thy. * *||
+

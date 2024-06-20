@@ -1,0 +1,48 @@
+X:1
+T:Stormy
+T:Stormy
+C:Buddy Buie , James B. Cobb Jr. ,﻿ Jessyca Wilson , John Stevens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Guitar" snm="Guit."
+%%MIDI program 24
+V:1
+"C " G8 |"Gmaj7" F4 z4 |"C " G8 |"Gmaj7" F4 z4 |"Cmaj7" z4 BA GF- |"Gmaj7" F D2 E2 G3 | %6
+w: ||||You ~were ~the ~sun-|* shine ~ba- by|
+"Cmaj7" z2 z D BA GF- |"Gmaj7" F4 z2 z3/2 A/ |"Cmaj7" B3 A- A2 G2 |"Gmaj7" F3 E- E2 z3/2 D/ | %10
+w: When e\- ver ~you ~smiled|* but|~I ~call * ~you|~Stor- my * ~to-|
+"Cmaj7" E4 E G2 A |"Gmaj7" B/A/G- G2 z4 |"Cmaj7" B4 AG- GF- |"Gmaj7" F D3 E2 G2 |"Cmaj7" B4 A G3 | %15
+w: day. * * *||All of a * ~sud-|* den that old|rain's fal- lin'|
+"Gmaj7" F4 z2 z A |"Cmaj7" B4 A2 G2 |"Gmaj7" F3 E- E3 D |"Emin" E4 z4 |"Cmaj7" z4 B3 B/A/ | %20
+w: down and|~my world is|~clou- dy * ~and|~gray.|You've ~go- ne~a-|
+"Bmin" B6- B^c |"B " ^d2 z4"B7" A2 |"Bmin" F8 |"Gb7" E4 z2"B7" A2 |"Bmin" F8 |"Gb7" E4 z4 | %26
+w: w\- * a|y! Oh|~Stor-|my! Oh|~Stor-|my!|
+"C " z2 e2 e2 e2 |"Amin" e e3- e2 d2 |"A " e e3- e2 z2 |"A7" z8 |"Cmaj7" z4 BA GF- | %31
+w: Bring ~back ~that|~su- n\- * ny|da- y! *||Yes- ter day's ~love|
+"Gmaj7" F3 D E G3 |"Cmaj7" B4 A G3 |"Gmaj7" F4 z4 |"Cmaj7" z4 B<A G2 |"Gmaj7" F3 E- E2 z D | %36
+w: * was ~like ~a|~warm ~sum- mer|breeze|But like ~the|~wea- ther * ~ya|
+"C " E4 E G2 A |"Gmaj7" B/A/G- G2 z4 |"Cmaj7" z4 B<A G2 |"Gmaj7" F D2 E2 G2 A/G/- | %40
+w: ~changed. * * *||Now things ~are|drea- ry ~ba- by and it's|
+"Cmaj7" G2 z2 BA G2 |"Gmaj7" F2 z2 z4 |"Cmaj7" z2 z A B2 AG |"Gmaj7" F4 z2 ED |"C " E8 | %45
+w: * ~win- dy and|cold|and I stand a\-|lone in ~the|~rain|
+"Emin" z4 B B2 A |"Bmin" B6- B^c |"B " ^d2 z4"B7" A2 |"Bmin" F8 |"F#7" E4 z2"B7" A2 |"Bmin" F8 | %51
+w: cal- lin' your|~na- * m\-|e. Oh|~Stor-|my! Oh|~Stor-|
+"F#7" E4 z4 |"C " z2 e2 e2 e2 |"Amin" e e3- e2 d2 |"A " e e3- e2 z2 |"A7" z4"_Alto Sax" z2 z E/B/ | %56
+w: my!|Bring ~back ~that|~su- n\- * ny|d\- ay! *||
+"Cmaj7" ed B/_B/A G2 ED |"Gmaj7" B2 d4 z E/B/ |"Cmaj7" ed B/_B/A G2 ED/E/ | %59
+w: |||
+"Gmaj7" D4- D z2 (3E/G/A/ |"Cmaj7" ed B/_B/A G2 ED |"Gmaj7" B2 d2- d z GA | %62
+w: |||
+"Cmaj7" (3A2 B2 B2 (3B2 B2 B2 |"Emin" B3 z GA Bc |"Bmin" B8 |"B " z4 g g2 e |"Bmin" F8 | %67
+w: ||||~Stor-|
+"Gb7" E4 z2"B7" A2 |"Bmin" F8 |"Gb7" E4 z4 |"C " z2 e2 e2 e2 |"Amin" e e3- e2 d2 | %72
+w: my! Oh|~Stor-|my!|Bring ~back ~that|~su- n\- * ny|
+"A " e e3- e2 z2 |"A7" z8 |"C " z2 e2 e2 e2 |"Amin" e e3- e2 d2 |"Cmaj7" e(3E/G/A/ ed B/_B/A GE | %77
+w: da- y! *||Bring ~back ~that|~su- n\- * ny|day! * * * * * * * * * *|
+"Gmaj7" G G2 G- G4 |"Cmaj7" z (3E/G/A/ ed B/_B/A GE |"Gmaj7" G G2 G- G4 | %80
+w: |||
+"Cmaj7" z (3E/G/A/ ed B/_B/A GE |"Cmaj7" G G2 G- G4- |"G " G8 |] %83
+w: |||
+

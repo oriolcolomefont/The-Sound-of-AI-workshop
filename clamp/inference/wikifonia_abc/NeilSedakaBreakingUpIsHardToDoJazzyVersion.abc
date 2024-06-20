@@ -1,0 +1,54 @@
+X:1
+T:Breaking Up Is Hard To Do (Jazzy Version)
+T:Breaking Up Is Hard To Do
+T:Neil Sedaka
+C:Neil Sedaka
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+"^rubato" z4 z2 d2 |"Gmaj7" dddd"Bb7" ddzd- | d"Ebmaj7" =f2 ^d =d^d"Dm7" =d2- | %3
+w: You|tell me you are leav- ing, I|_ can't be- lieve it's true.|
+w: |||
+ d"Bm7" B2 B BB"Em7"BE- | E G2 B2"Am9" (B3- | B"D7" A6) z ||"^a tempo""^N.C" z2 d2 d2 (dB) |: %7
+w: _ Girl, there's just no liv- ing|* with- out you.|_ _|Don't take your _|
+w: ||||
+"Gmaj7""Bm7" d6- dB |"Am7" d2 ec-"Dsus4""D7" c4 |"Gmaj7" z2 dB"Bm7" ddd(B | %10
+w: love _ a|way from me, _|Don't you leave my heart in|
+w: when * you|held me tight, *|And you kissed me all through|
+"Am7" d2) ec-"D9""D9/C" c4 |"B7" B3 B"F#m7b5" B3 B |"B7b9" B2 AG-"Em7" G3 z |1"Am9" BBAA G2 ed- | %14
+w: mis- er- y. _|If you go then|I'll be blue, _|Break ing up is hard to do.|
+w: _ the night. _|Think of all that|we've been through, _|_ _ _ _ _ _ _|
+"D7" d4-"Am7" dd"D7"dB :|2"Am9" BBAA"D7b9" G2"D7" AG- ||"Gmaj7""^N.C" G3 D GA_Bc |"Gm7" d4"C7" c4 | %18
+w: _ _ Re- mem- ber|Break- ing up is hard to do.|_ They say that break- ing|up is|
+w: ||||
+"Gm7" (dc)dc-"C7" c4 |"Fmaj7" Ac"F6" A4- AC |"Fmaj7" Acdc-"F6" c4 |"Fm7" c4"Bb7" _B3 B | %22
+w: hard * to do. _|Now I know, _ I|know that it's true. _|Don't say that|
+w: ||||
+"Fm7" c_Bc"Bb7"B- B2 z _A |"Ebmaj7" GG_AA _BBcc |"Am7" ddcc"D7" BB A2 ||[K:Ab]"Eb7" z2 e2 e2 (ec) | %26
+w: this is the end, _ In-|stead of break- ing up I wish that|we were mak- ing up a- gain.|I beg of _|
+w: ||||
+"Abmaj7""Cm7" e6- ec |"Bbm7" e2 fd-"Ebsus4""Eb7" d4 |"Abmaj7" z2 ec"Cm7" eeec | %29
+w: you, _ don't|say good- bye. _|Can't we give our love an-|
+w: |||
+"Bbm7" ef d-"Eb9" d4 z |"C7" c2 c2"Gm7b5" cc c2 |"C7" f2 c(B"Fm" A-) A3 |"Bbm9" ccBB A2 f(e- | %33
+w: oth- er try? _|Come on ba- by let's|start- a- new _ _|Break ing up is hard to do,|
+w: ||||
+"Ebm7" e2"Gb7" ^f2"F7" =f2) z2 |"Bbm7b5""^N.C" z2"^rit." af e3 z | E"Bbm7" F2 E"Ebsus4" (FA) B2 | %36
+w: _ _ _|Break ing up|is hard, so hard, _ to|
+w: |||
+"Abmaj7" A8"Abmaj7" |] %37
+w: do.|
+w: |
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 || x8 |: x8 | x8 | x8 | x8 | x8 | x8 |1 x8 | x8 :|2 x8 || x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 ||[K:Ab] x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ A,/C/E/G/ A/c/e/g/ a !fermata!c'3 |] %37
+

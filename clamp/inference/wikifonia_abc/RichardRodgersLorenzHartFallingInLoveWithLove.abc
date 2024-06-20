@@ -1,0 +1,27 @@
+X:1
+T:Falling In Love With Love
+T:Falling in love with love
+T:(from The boys from Syracuse)
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" D E E | E2 E | E2 E | E F G |"G7" G2 A | D3- |"Dm" D3- |"G7" D z2 | F G G | G2 G | G2 G | %11
+w: Fall- ing in|love with|love is|fall- ing for|make be-|lieve|||fall- ing in|love with|love is|
+w: I fell in|love with|you one|night when the|moon was|full|||I was un-|wide with|eyes un|
+ G A B |"C" e3- | e3- | e3- | e z2 | d e e | e2 e | e2 e | e d c |"E7" E3 |"^ToCoda" E3- | E3- | %23
+w: play- ing the|fool||||Car- ing too|much is|such a|ju- ve- nile|fan-|cy||
+w: a- ble to|see||||I fell in|love with|love with|love ev- er|last-|ing||
+ E z2 |"Am" c d d | d2 d |"Dm" d2 d |"D7" d c B |"Dm7" D3- |"^D.C.alCoda" D3- |"G7" D3- | D2 z || %32
+w: |Learn- ing to|trust is|just for|child- ren in|school||||
+w: |||||||||
+"^Coda""A7" E2 z | e3 |"Dm" d3 |"A7" e3 |"Dm7" f3 |"G7" g3 |"C" g3- | g3- | g3- | g z2 |] %42
+w: |but|love|fell|out|with|me.||||
+w: ||||||||||
+

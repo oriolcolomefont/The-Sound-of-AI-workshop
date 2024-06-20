@@ -1,0 +1,28 @@
+X:1
+T:I'll Be Seeing You
+T:I'll Be Seeing You
+C:Irving Kahal
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" G6 F2 |"G7" F E2 D- D2 E2 |"Fm" A3 G"C7" G3 F |"Fm" F3 =E"C7" E2 F2 |"Fm" A3 G"C7" G3 F | %5
+w: I'll be|see- ing you _ in|all the old fam-|il- iar pla- ces,|that this heart of|
+"Fm" F3 =E"Bb7" E2 F2 |"Eb" ^F G2"Fm7" c- c4- |"F#dim7""Eb/G" c6 z2 |"Cm7" e6 d2 | d c2 =B- B2 c2 | %10
+w: mine em- bra- ces,|all day thru' _|_|In that|small ca- fe _ the|
+"Fm7" e6 d2 | d c2 =B- B2 c2 |"Bb7" c6 B2 |"Bb+7" B ^F2 F- F2 d2 |"Eb6" c G2 G- G2 c2 | %15
+w: park ac-|ross tthe way, _ the|child- rens|car- o- sel, _ the|chest- nut tree, _ the|
+"Bb+9" ^F C2 C- C4 ||"Eb" G6 F2 |"G7" F E2 D- D2 E2 |"Fm" A3 G"C7" G3 F |"Fm" F3 =E"C7" E2 F2 | %20
+w: wish- ing well. _|I'll be|see- ing you _ in|ev- 'ry love- ly|sum- mer's day, in|
+"Fm" A3 G"C7" G3 F |"Fm" F3 =E"Bb7" E2 F2 |"Gm7b5" B3 A A3 G |"C7" G3 ^F F2 G2 | %24
+w: ev- ry- thing that's|bright and gay, I'll|al- ways think of|you that way I'll|
+"Fm" c3 c"Dm7b5" B2 A2 |"G7" d3 d c2 =B2 |"Cm7" e2 e2 d2 c2 |"F9" G6 FG |"Fm7" AAAA A4- | %29
+w: see you in the|morn- ing sun an|when the night is|new. I'll be|look- ing at the moon,|
+"Abm6" AAB_c B2 A2 |1"Eb" e6 z2 |"Fm7" z4"Bb7" z2"Bb+7" z2 :|2"Eb""Fm7""Em7" e8- |"Eb6" e6 z2 |] %34
+w: _ but I'll be see- ing|you.||||
+

@@ -1,0 +1,26 @@
+X:1
+T:If You Are But A Dream
+T:If You Are But A Dream
+C:Nat Bonx
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" z C B, C |"Gdim" ^C"G9" D D3/2 D/ |"Dm7" F"Dm7b5" F"G6" E"B" ^D | ^D2"C" E2 | z E ^D"C#dim" E | %5
+w: If you are|but a dream, I|hope I nev- er|wak- en,|It's more than|
+"Dm9" E"Dm" F"Dm" F3/2"Dm7" F/ |"G9" A A"G7" G ^F |"C6" A2"C" G2 | z c"Ebdim" c c | %9
+w: I could bear to|find that I'm for-|sak- en,|If you're a|
+"Dm7" c3/2 B/"G7" B2 |"C6" z c"Em7" d c |"D#dim" c3/2 B/"B7" B2 |"Dm" z B A ^G |"A" B3/2 A/ A2 | %14
+w: fan- tas- y|then I'm con-|tent to be|in love with|love- ly you,|
+"Cm" z A G"Cdim" ^F |"G9" A3/2"G7" G/ G G |"C6" e3"G6" B |"G" d"C6" c"Cmaj7" G"C#dim" E | %18
+w: And pray my|dream comes true. I|long to|kiss you but I|
+"Dm7" E F"Fm" _A2- | _A/ z/"Dm7" G"G6" G"G7" G |"C6" e3"G6" B |"Em7" d"C6" c"Cmaj7" G"C#dim" E | %22
+w: would not dare,|* I'm so a-|fraid that|you may van- ish|
+"Dm7" E F"Fm" _A2- | ^G/ z/"Dm7" =G"Em/G" G"G7" G |"C" z G c3/2 ^G/ |"F" ^G A _B A | %26
+w: in the air.|* So dar- ling|if our ro-|mance would break up,|
+"B7" z =B"E7" e3/2 B/ |"Am" B c d c |"Dm7b5" z c f2- |"G7b9" f/ z/"G13" B B B |"C" c4- | c4 |] %32
+w: I hope I|nev- er wake up|if you|* are but a|dream.||
+

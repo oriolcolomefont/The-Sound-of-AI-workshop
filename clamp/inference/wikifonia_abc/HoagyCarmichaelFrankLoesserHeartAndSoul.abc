@@ -1,0 +1,30 @@
+X:1
+T:Heart And Soul
+T:Heart And Soul
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" F2 F2"Dm7" F4- |"Gm7" FFED"C7" EF G2 |"F" A2 A2"Dm7" A4- |"Gm7" AAGF"C7" GA B2 | %4
+w: Heart and soul,|_ I fell in love with you.|Heart and soul,|_ the way a fool would do,|
+"F" c4"Dm" F4- |"Gm" FdcB"C7" A2 G2 |"F" F4"Dm7" z GAB |"Gm7" c2 BA"C7" G4 |"F" F2 F2"Dm7" F4- | %9
+w: mad- ly|_ be- cause you held me|tight and stole a|kiss in the night.|Heart and soul,|
+"Gm7" FFED"C7" EF G2 |"F" A2 A2"Dm7" A4- |"Gm7" AAGF"C7" GA B2 |"F" c4"Dm" F4- | %13
+w: _ I begged to be a- dored.|Lost con- trol|_ and tum- bled ov- er- board|glad- ly|
+"Gm" FdcB"C7" A2 G2 |"F" F4"Dm7" z GAB |"F" c2"F7" F6 |"Bb" z dcB"A7" A3 G |"D7" ^F4"G7" G4 | %18
+w: _ that ma- gic night we|kissed there in the|moon- mist.|Oh! but your lips were|thrill- ing,|
+"C7" E4"F7" F4 |"E7" D4"A7" E4 |"Bb" z dcB"A7" A3 G |"D7" ^F4"G7" G4 |"C7" E4"F7" F4 | %23
+w: much too|thrill- ing.|Nev- er be- fore were|mine so|strange- ly|
+"E7" D4"C7" E3 C |"F" F2 F2"Dm7" F4- |"Gm7" FFED"C7" EF G2 |"F" A2 A2"Dm7" A4- | %27
+w: will- ing. But|now I see|_ what one em- brace can do.|Look at me,|
+"Gm7" AAGF"C7" GA B2 |"F" c4"Dm" F4- |"Gm7" FdcB"C7" A2 G2 |"A7""D7" A8 | %31
+w: _ it's got me lov- ing you|mad- ly;|_ that lit- tle kiss you|stole|
+"Gm" z BAG"G9" F2"C7" E2 |1"F""Dm7" F8- ||2"Gm9" F2 z2"C7""C7b9" z4 :|"F""Dm7" F8- | %35
+w: held all my heart and|soul.|_|soul.|
+"Gm9""C7b9""F" !fermata!F8 |] %36
+w: _|
+

@@ -1,0 +1,26 @@
+X:1
+T:Speak To Me Of Love
+T:Speak To Me Of Love
+T:Parlez Moi D'amour
+T:Jean Lenoir
+T:Bruce Sievier(Eng)
+C:Jean Lenoir
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B2 B |"D7" A2 A |"G" G2 G |"D" A"G" G"D" A |"G" B"D" A"Em" G |"Am" E3- |"E7" E2 z |"Am" c2 c | %8
+w: Speak to|me of|love and|say what I'm|long- ing to|hear.||Ten- der|
+w: Par- lez|moi d'am-|our Re-|dites- moi des|cho- ses ten-|dres||Vo- tre|
+"E7" B2 B |"Am" A2 A |"E" B"Am" A"E" B |"Am" c"E" B"Am" A | E3 |"D7" F3 |"G" B2 B |"D7" A2 A | %16
+w: words of|love re-|peat them a-|gain I im-|plore|you.|Speak to|me of|
+w: beau dis-|cours Mon|coeur n'est pas|las de l'en|ten-|dre|Pour- vu|que tou-|
+"G" G2 G |"D" A"G" G"D" A |"G" B"D" A"Em" G |"Am" E3- |"D7" E F"G" G |"D7" A3 |"G" G3- | G2 z |] %24
+w: love and|whis- per those|words to me,|Dear|* I a-|dore|You!.-||
+w: jours vous|re- pet iez|ces mots su-|premes|* Je vous|aim-|e-||
+

@@ -1,0 +1,27 @@
+X:1
+T:Azabache
+T:Azabache
+T:Enrique Francini
+C:Enrique Francini
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C7""^INTRO" c G/G/ c G |"Fm" c A/A/ c A |"C7" c G/G/ c A |"Fm" F2 z2 | z2 z C ||"Fm" F/ F F/ A A | %6
+ F F z C | F/ F G/ A B | c c z c/=B/ |"C7" c =B c B |"Fm" c c e d |"Eb7" e d e d | %12
+"Ab" e c z c/=B/ |"C7" c =B c B |"Fm" c =B c B |"C7" c =B c B |"Fm" c A z2 ||"C7" c G/G/ c G | %18
+"Fm" c A/A/ c A |"C7" c G/G/ c A |"Fm" F2 z2 | z2 z C ||"Fm" F/ F F/ A A | F F z C | F/ F G/ A B | %25
+ c c z c/c/ |"Eb7" e e e e |"Ab" e e e e |"Eb7" e d e d |"Ab" e c z c/=B/ |"C7" c =B c B | %31
+"Fm" c =B c B |"C7" c =B c B |"Fm" c A z2 ||"C7" c2 =B2 |"Fm" c4 |"C7" e2 d2 |"Fm" c2 z/ f/a/b/ || %38
+"^NC" c'/ d' c'/ b/c'/d'/b/ | a/ c' a/ g/a/b/g/ | f/ a f/ =e/f/g/e/ |[K:F]"F" f4 |"C" z4 || %43
+"F" A G/A/"C7" B A/G/ |"F" A F z2 | A G/A/"C7" B A/G/ |"F" A F z c |"Bb" c/ B c/ d B |"F" c A z c | %49
+"Bb" c/ B c/ d B |"F" c A z |"F" A G/A/"C7" B A/G/ |"F" A F z2 | A G/A/"C7" B A/G/ |"F" A F z c | %55
+[K:Ab]"Fm" c B/c/"C7" d B |"Fm" c A z c | c/ A c/"C7" d B |"Fm" c A z |:"C7" c2 B2 |"Fm" c4 | %61
+"C7" e2 d2 |"Fm" c4 :| %63
+

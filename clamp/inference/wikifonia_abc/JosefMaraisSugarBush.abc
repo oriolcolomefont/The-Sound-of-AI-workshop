@@ -1,0 +1,36 @@
+X:1
+T:Sugar Bush
+T:Sugarbush
+C:Josef Marais
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Allegro" z2 z/ z z/ | z z z z | z2 z/ z z/ | z z z z |:"G" G3 G | F F"G7" =F F |"C" E2 z/ z z/ | %7
+w: ||||1.Sug- ar-|bush, come dance with|me,|
+w: ||||2.Coc- o-|late, you are so|sweet:|
+ z z z z | G3 G |"D7" F F"D9" E E |"G" D2 z/ z z/ | z z z z | D3 D | E E"Gdim" D D | %14
+w: |Let the|oth- er fel- lows|be.||Dance the|pol- ka mer- ri-|
+w: |You, yes|you, I'd like to|eat:||If I|do, oh, what a|
+"D7" F2 z/ z z/ | z z z z | D3 D | E E F F |"G" G2 z/ z z/ | z z z D/D/ | D/ D/ G G/ G/ G | G3 D | %22
+w: ly,||Sug- ar-|bush,, come dance with|me.|Oh, we|nev- er not gon- na go|home! We|
+w: treat!||Choc- o-|late you are so|sweet:||||
+"C" E2"G" D/ z/ D |"C" E2"G" D/ z/ D/ D/ |"D" D/ D/ A A/ A/ A |"A7" A3 G | F F E E |"D7" D2 D2 | %28
+w: won't go, we|won't go! Oh, we|nev- er not gon- na go|phone, 'Cause|moth- er is- n't|home! Oh,|
+w: |||||* Oh,|
+"G" G3 G | F F"G7" =F F |"C" E2 z/ z z/ | z z z z | G3 G |"D7" F F"D9" E E |"G" D2 z/ z z/ | %35
+w: Sug- ar-|bush I love you|so,||I will|nev- er let you|go.|
+w: Sug- ar-|bush, what shall I|do?||Moth- er's|not so pleased with|you.|
+ z z z z | D3 D | E E"Ddim" D D |"D7" F2 z/ z z/ | z z z z | D3 D | E E F F |1 %42
+w: |Don't you|let your moth- er|know,||Sug- ar-|bush I love you|
+w: |Prom- ise|me you will be|true,||And I'll|come a- long with|
+"G" G2"Gdim" z/ z z/ |"Am7" z z z"D7" z :|2"G" G4- ||"Gdim" G4- |"Am7" G4- |"G" G3 z |] %48
+w: so.||||||
+w: _||You.|_|||
+

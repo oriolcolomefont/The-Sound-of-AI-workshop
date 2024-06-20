@@ -1,0 +1,77 @@
+X:1
+T:God Put a Smile Upon Your Face
+C:Coldplay
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Db
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 0
+V:1
+"Db" z4 z d =BA |"E6" =B3 B ^G=E =G2- |"Eb7" G8- | G4- G"Dmaj7" ^F3 |"Db" D4 z d =BA | %5
+w: |||||
+w: |||||
+"E6" =B3 B ^G=E =G2- |"Eb7" G8 |"Dmaj7" ^F8 |"Db" D4- z =B BA |"E6" =B3 B ^G=E =G2- |"Eb7" G4 z4 | %11
+w: |||* Where do we|go no- bo- dy knows||
+w: |||* Where do we|go to draw the line?||
+ z8 x8 |"Db" z4 z =B BA |"E6" =B3 B ^G=E =G2- |"Eb7" G6- G_G- |"Dmaj7" G4 z4 |"Db" z4 z =B BA | %17
+w: |I've got to|say I'm on my way|* * down||God give me|
+w: |I've got to|say I wasted all your|time honey honey||Where do I|
+"E6" =B3 B ^G=E =G2- |"Eb7" G4 z4 | z8 x8 |"Db" z4 z =B BA |"E6" =B3 B ^G=E =G2- |"Eb7" G6- G_G- | %23
+w: style and give me grace|||God put a|smile up- on my face||
+w: go to fall from grace?|||God put a|smile up- on your race,|* * yeah|
+"Dmaj7" G4 z4 ||[K:E]"Amaj7" c8 | c4- cdee- |"E6" e B2 B- B B2"F#2" B- | B ^A2 A- A4 | %28
+w: ||* * when you work|* it out * I'm worse|* than you *|
+w: |||||
+"Amaj7" A4 z2 z c- | c4- cdee- |"E6" e B2 B- BB^A"F#2"B- | B ^A2 F- F4 |"Amaj7" E4 z2 z c- | %33
+w: |* * when you work|* it out * I * want-|* ed to. *|* And|
+w: |||||
+ c4- cdee- |"E6" e B2 B- B B2"F#2" B- | B ^A2 A- AGF=A- |"Amaj7" A4 z2 B2 | c4- cBAB- | %38
+w: ah * when you work|* out where * to draw|* the line * * * *|* your|guess * is as good|
+w: |||||
+"E6" B4 G3"F#2" E | F6- FE ||[K:Db]"Db" D4 z d =BA |"E6" =B3 B ^G=E =G2- |"Eb7" G8- | %43
+w: * as *|mine. * *|* GUITAR * *|||
+w: |||||
+ G4- G"Dmaj7" ^F3 |"Db" D4 z d =BA |"E6" =B3 B ^G=E =G2- |"Eb7" G8 |"Dmaj7" ^F8 |"Db" z4 z d =BA | %49
+w: |||||Where * we|
+w: |||||* * do|
+"E6" =B3 B ^G=E =G2- |"Eb7" G8- | G4- G"Dmaj7" ^F3 |"Db" D4 z d =BA |"E6" =B3 B ^G=E =G2- | %54
+w: go no- bo- dy knows|||* * e- ver|say you're * on way|
+w: ||||* * * * your|
+"Eb7" G8 |"Dmaj7" ^F8 |"Db" z4 z =B BA |"E6" =B3 B ^G=E =G2- |"Eb7" G4 z4 | z8 x8 | %60
+w: |when|gave * you|style and * gave grace|||
+w: |down||* * * * you|||
+"Db" z4 z =B BA |"E6" =B3 B ^G=E =G2- |"Eb7" G6- G_G- |"Dmaj7" G4 z4 ||[K:E]"Amaj7" c8 | %65
+w: * put a|smile u- pon your face||||
+w: |||||
+ c4- cdee- |"E6" e B2 B- B B2"F#2" B- | B ^A2 A- A4 |"Amaj7" A4 z2 z c- | c4- cdee- | %70
+w: * * when you work|* it out * I'm worse|* than you *|* Yeah,|* when * you work|
+w: |||||
+"E6" e B2 B- BB^A"F#2"B- | B ^A2 F- F4 |"Amaj7" E4 z2 z c- | c4- cdee- |"E6" e B2 B- B B2"F#2" B- | %75
+w: * it out * I * want-|* ed to. *|* And|ah when * you work|* out where * to draw|
+w: |||||
+ B ^A2 A- AGF=A- |"Amaj7" A4 z2 B2 | c4- cBAB- |"E6" B4 G3"F#2" E | F6- FE ||[K:Db]"Db" D6 z2 | %81
+w: * the line * * * *|* your|guess * is as good|* as *|mine. * *||
+w: ||||||
+"E6" z8 |"Eb7" z4 z2 DD |"Dmaj7" _c4 G3 G- |"Db" GF D6- |"E6" D4 z4 |"Eb7" z4 z2 DD | %87
+w: |It's as|good as mine|||It's as|
+w: ||||||
+"Dmaj7" _c4 G3 G- |"Db" GF D6 |"E6" z4 z2 DD |"Eb7" _c4 G3 G- |"Dmaj7" GF D2- D3 D- | %92
+w: good as mine||It's as|good as mine|* * * * Na|
+w: |||||
+"Db" DD D2 D D2 D- |"E6" DD D2 D D2 D |"Eb7" z8 x8 |"Dmaj7" _c4 c4 |:[K:E]"Amaj7" c8- | c8- | %98
+w: * na na na na na|* na na na na It's||good as|mine||
+w: ||||||
+"E6" c4 z2 z"F#2" C | B4 B4 :|3"E6" c4 z4 || z8 |[K:Db]"Db" z4 z =B BA |"E6" =B3 B ^G=E =G2- | %104
+w: * As|good as|||Where do we|go, no- bo- dy knows|
+w: ||||||
+"Eb7" G4 z4 | z8 x8 |"Db" z4 z =B BA"Db" |"E6" =B3 B ^G=E =G2- |"Eb7" G6- G_G- |"Dmaj7" G6 _FD | %110
+w: ||Don't ev- er|say you're on your way|* * down|* when *|
+w: ||||||
+"Db" z4 z =B BA"Db" |"E6" =B3 B ^G=E =G2- |"Eb7" G4 z4 | z8 x8 |"Db" z4 z =B BA"Db" | %115
+w: God gave you|style and gave you grace.|||And put a|
+w: |||||
+"E6" =B3 B ^G=E ^C2- |"Eb7" C4 z4 |"Dmaj7" z8 | z8 |] %119
+w: smile up- on your face||||
+w: ||||
+

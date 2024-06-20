@@ -1,0 +1,30 @@
+X:1
+T:I Didn't Know What Time It Was
+T:I Didn't Know What Time It Was
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F#m7" B4- B"B7" F2 G |"Em7" A2 A2"A7" AB G2 |"F#m7" B4- B"B7" F2 G |"Em7""A7" A8 | %4
+w: I _ did- n't|know what time it was,|then _ I met|you.|
+"Am7" A4- A E2 F |"Em7" G2 G2"Em7/D" GA F2 |"C" E2 E2"Bm7" EF D2 |"F6""D7" c8 | %8
+w: Oh _ what a|love- ly time it was,|how sub- lime it was|too.|
+"F#m7" B4- B"B7" F2 G |"Em7" A2 A2"A7" AB G2 |"F#m7" B4- B"B7" F2 G |"Em7""A7" A8 | %12
+w: I _ did- n't|know wat day it was,|you _ held my|hand,|
+"Am7" A4- A E2 F |"Em7" G2 G2"Em7/D" GA F2 |"C" E2 E2"Bm7" EF D2 |"Am7""D7" d8 |"G" e4- edcB | %17
+w: warm _ like the|month of May it was,|and I'll say it was|grand.|Grand _ to be a-|
+"Am" A2 AF"B7" A2 AF |"Am" A2 AF"B7" A2 _A2 |"Em7""G7" G8 |"C" e4- e"D7"dcB |"G" A2 AF A2 AF | %22
+w: live, to be young, to be|mad to be yours a-|lone.|Grand _ to see your|face, feel your touch, hear your|
+"G" A2 AF"A7" A2 G2 |"C6""F6""D7" d8 |"F#m7" B4- B"B7" F2 G |"Em7" A2 A2"A7" AB G2 | %26
+w: voice say I'm all your|own.|I _ did- n't|know what year it was,|
+"F#m7" B4- B"B7" F2 G |"A7" A8 |"Am7" A4- A E2 F |"Em7" G2 G2 GA"Bm" F2 |"C" E2 E2"Bm7" EF D2 | %31
+w: life _ was no|prize.|I _ want- ed|love and here it was|shin- ing out of your|
+"Am7" d6"Cm6" c2 |"G/D" B4- B"B7" F2 G |"C6" A2 A2"D7sus4" AB G2 |1"G" G8 ||"Em7""D7" z8 :|2 %36
+w: eyes. I'm|wise _ and I|know what time it is|now.||
+"G" G8- || G8 |] %38
+w: now.||
+

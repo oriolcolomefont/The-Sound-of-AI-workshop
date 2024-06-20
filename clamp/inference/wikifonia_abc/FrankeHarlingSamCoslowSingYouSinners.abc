@@ -1,0 +1,28 @@
+X:1
+T:Sing You Sinners
+T:Sing You Sinners
+C:Franke Harling
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C D F |:"Fmaj7" A/ A F/ D2 | z A2 F |"Bb7" _A/ A F/ D2 | z _A2 F |"Fmaj7" =A/ A F/"D7" C2 | %6
+w: You sin- ners|drop ev- 'ry- thing,|let dat|har- mo- ny ring|up to|heav- en and sing,|
+"Gm7" z"C7" c2 d |"Fmaj7" F3/2 F/- F2 |"Gm7" z C"C7" D F ||"Fmaj7" A/ A F/ D2 | z A2 F | %11
+w: sing you|sin- ners. _|Just wave your|arms all a- bout,|let the|
+"Bb7" _A/ A F/ D2 | z _A2 F |"Fmaj7" =A/ A F/"D7" C2 |"Gm7" z"C7" c2 d |"Fmaj7" F3/2 F/- F2 | %16
+w: Lord hear you shout.|Pour dat|mu- sic right out,|sing you|sin- ners. _|
+"Em7b5""A7" z4 ||"Dm7" z d d/^c/ d |"Gm7" d2 B2 |"Em7b5" z A"A7" A/ A D/- |"Dm7" D4 | z d d/^c/ d | %22
+w: |When- ev- er there's|mu- sic|the de- bil kicks,|_|he don't al- low|
+"Gm7" d2 B2 |"G7" A A A/ F3/2 |"Gm7" c/ z/ C"C7" D E ||"Fmaj7" A/ A F/ D2 | z A2 F | %27
+w: mu- sic|by dat riv- er|Styx. You're wick- ed|and you're de- praved,|and you've|
+"Bb7" _A/ A F/ D2 | z _A2 F |"Fmaj7" =A/ A F/"D7" C2 |"Gm7" z"C7" c2 d |1"Fmaj7" F3/2 F/- F2 | %32
+w: all mis- be- haved,|if you|wa- na be saved,|sing you|sin- ners. _|
+"Gm7" z C"C7" D F :|2"Fmaj7" F3/2 F/- F2 |] %34
+w: You sin- ners|sin- ners. _|
+

@@ -1,0 +1,37 @@
+X:1
+T:Pasadena
+T:Pasadena
+T:It's such a long, long way
+T:Harry Vanda, George Young & David Hemmings
+C:Harry Vanda,George Young & David Hemmings
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 A/>G/F/>C/ ||S"F" F2"Dm" f2 |"Am" e d c A |"Bbmaj7" A G3- |"C7" G z A/>G/F/>C/ |"F" F2"Dm" f2 | %6
+w: Ooh, it's such a|long, long|way to Pas- a-|de- na.|* Ooh, it's such a|long, long|
+w: |long, long|way to Pas- a-|de- na.|* mm. * just to|find some|
+"Am" e d c A |O"Bbmaj7" A G3-!dacoda! ||"C7" G2 z A/>B/ |"Am7" c A c A |"Dm7" F F2 A/>B/ | %11
+w: way to Pas- a-|de- na.|* Where the|dirt track meets the|high- way and there|
+w: air that's kind of|clean- er,-||||
+"Am7" c3/2 A/ c A |"Dm7" F z z G/A/ |"Gm7" B2 c A |"C7" A G2 G/A/ |"Gm7" B B c A |"C7" G2 z A/B/ | %17
+w: ain't no time at|all, just the|world mov- in'|for- ward on its|big black mot- ored|crawl, And the|
+w: ||||||
+"Am7" c3/2 A/ c A |"Dm7" F F F A |"Am7" c3/2 A/ c A |"Dm7" F2 z z/ F/ |"Gm7" F2 f2 |"Am7" e d c A | %23
+w: dri- vers in their|chev- ro- lets ain't|got no time at|all to|find a|lone- ly hik- er's|
+w: ||||||
+"Bbmaj7" A G3- |"C7" G z3/4 G/4 A/>G/F/>C/ |"F" G"Bb" F3- |"F" F z A/>G/F/>C/!D.S.! || %27
+w: way *|* that's when I want to|say *|* Ooh, its such a|
+w: ||||
+O"C7""^CODA" G4 |"Gm7" B B A B | G3/2 D/ F F |"C7" G G3- | G2 z z/ A/ |"Gm7" B B A B | %33
+w: |Pas- a- de- na|town is where I'm|go- in'|* there|ain't no oth- er|
+w: ||||||
+"C7" G3/2 C/ D F |"F" G F3- | F3 z |] %36
+w: town that I'd call|home.- *||
+w: |||
+

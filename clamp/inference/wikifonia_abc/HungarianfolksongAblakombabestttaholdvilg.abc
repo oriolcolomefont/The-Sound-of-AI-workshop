@@ -1,0 +1,17 @@
+X:1
+T:Ablakomba besütött a holdvilág
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Gmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" GGGG"Gm" cBBB |"Cm" c2 B2"D7" A2 z2 |"Gm" GBdd"Cm" =ed^cB |"D7" d A3"D7" A2 z2 | %4
+w: Ab- la- kom- ba be- sü- tött a|hold- vi- lág,|Az én ró- zsám ab- ban fé- sü-|li ma- gát,|
+"Gm" GBdd"Gm" =ed^cB |"Cm" c2 B2"D7" A2 z2 |"Gm" BGGG"D7" ABcB |"Gm" A G3"Gm" G2 z2 |] %8
+w: Gön- dör ha- ját száz- fe- le fúj-|ja a szél,|Kö- szö- nöm ba- bám, hogy ed- dig|sze- ret- tél.|
+

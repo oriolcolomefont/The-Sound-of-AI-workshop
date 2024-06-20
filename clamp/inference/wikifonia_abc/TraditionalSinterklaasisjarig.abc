@@ -1,0 +1,18 @@
+X:1
+T:Sinterklaas is jarig
+C:Traditional
+Z:Public Domain
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"C" G2 G G2 G | c3 G3 |"F" A2 A cBA |"C" G6 |"G7" D2 E F2 A |"C" G3 E3 |"D7" D2 D cBA |"G" G6 | %8
+w: Sint- er- klaas is|ja- rig!|Zet je schoen- tje maar|klaar.|Wellicht dat hij hem|vol doet|met, ja wist ik het|maar.|
+"C" E2 F G2 A |"Dm" F3 D3 |"F" F2 G A2 B |"C" G6 |"C" E2 G c2 B |"F6" B3 A3 |"G7" D2 E (GF)D | %15
+w: Hier zet ik wat|wa- ter|en wat hooi voor't|paard.|Want dat trou- we|beest- je|is dat heus _ wel|
+"C" C6 |] %16
+w: waard.|
+

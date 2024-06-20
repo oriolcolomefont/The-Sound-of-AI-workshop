@@ -1,0 +1,25 @@
+X:1
+T:Till The End Of Time
+T:Till the end of time
+T:(based on Chopin"s Polonaise)
+T:Buddy Kaye and Ted Mossman
+T:Foxtrot
+C:Buddy Kaye, Ted Mossman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2 z2 E2 F2 |"C" A3 G G4- | G4 E2 F2 | AGG^F G4- | G4 E2 F2 | AGG^F AGG^F |"Gm" G2 _B2"A7" A2 G2 | %7
+w: Till the|end of time,|* Long as|stars are in the blue|* Long as|there's a spring, a bird to sing I'll|go on lov- ing|
+"Dm" F8- | F4 F2 G2 | _B3 A A4- | A4 F2 G2 | _BAA^G A4- | A4 ABc z | e4"G7" e2 _e2 | %14
+w: you|* Till the|end of time,|* Long as|ros- es bloom in May|* My love for|you will grow|
+"C" d2 d4"Cm" c2 |"D7" B2 B2 B2 A2 |"G7" G4 E2 F2 |"C" A3 G G4- | G4 E2 F2 | AGG^F G4- | G4 E2 F2 | %21
+w: deep- er with|ev- ry pass- ing|day. Till the|wells run dry|* and each|moun- tain dis- ap- pears,|* I'll be|
+ AGG^F AGG^F |"Gm" G2 _B2"A7" A2 G2 |"Dm" F8- | F4 ABc z | e2 e2 e2 _e2 |"Fm" d2 d4 c2 | %27
+w: there for you to care for you through|laugh- ter, and through|tears.|* So take my|heart in sweet sur-|ren- der And|
+"C" BBB B2 d2 z |"A7" B6 A2 |"Dm" A2 G2 G2 ^F2 |"G7" A2 G2- GGB z |"C" d3 c c4- | c4 z4 | z8 |] %34
+w: ten- der- ly say that|I'm the|one you'll love and|live for * Till the|end of time|||
+

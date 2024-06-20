@@ -1,0 +1,31 @@
+X:1
+T:MAMMA
+T: Laukens Music Productions  
+T:Jazz Rock
+T:MAMMA
+T:C. A. Bixio
+T:2
+T:MAMMA blad 2 van 
+T: Laukens Music Productions  
+C:Bixio
+Z:All Rights Reserved
+L:1/8
+Q:1/4=155
+M:2/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Gm7" d4 | B2 d2 |"F" cB A2- | AF GA |"Gm7" Bc BA |"C7" c B2 G |"F" F4- | F4 ||"Fm" z4 | z4 |: %10
+[K:Fmin]"Fm" c2 cc | c2 BA |"Bbm6" B G3- | G4 |"C7" B2 BB |"C+" c A2"C7" G |"Fm" F4- | F4 | c2 cc | %19
+ c2 BA |"Bbm6" B G3- | G4 |"C7" B2 BB | c A2 G |"Fm" F4- | F3 z |"Bbm6" G2 GG | G2 AB | %28
+"Fm" AG F2- | F4 |"Bbm6" G2 AB | A G2 B |"C7" c4- | c4 ||[K:F]S"F" A4 | F4- | FC DE | FG AB | %38
+ c3"F#dim" A |"C7" B G3- | G4 | G4 | E4- | EC DE | FG AB | d3 c |"F" B A3- | A3 z | c2 cc | %49
+"Bb" d3"C" c |"F" A/c/A/G/ F2- | F4 | c2 cc | d c2 B |"C7" A G3- | G4 | B2 BB | B2 c_d | %58
+"Fm" c_A c2- | c4 |"Bbm6" B2 BB | B2 _df |"C7" e4- | e4 |"Bb" f4 | d4- | dB cd | ef ed | f e2 d | %69
+"F" c4- | c4 |"Gm7" d4 | B2 d2 |"F" cB A2- | AF GA |"Gm7" Bc BA |"C7" c B2 G ||1"F" F4- | F4 | %79
+"Fm" z4 | z4 :|2"F" FF/_G/ =G_A || AB =BcS ||3"F" F4- || F4 |"Bb6" _d4 | B3 _d |"F" f4- | f4- | %89
+ f z z"C" C |"F" F2 z2 |] %91
+

@@ -1,0 +1,35 @@
+X:1
+T:What a Wonderful World
+T:(What a ) wonderful world
+T:Sam Cooke, Herb Alpert and Lou Adler
+T:Foxtrot or Rock
+C:Sam Cooke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|: z2"C" eg aedc |"Am" c2 d2 c4 |"Dm" z2 Ac c2 cA |"G7" d2 d2 e2 d2 |"C" z2 eg ae d2 | %5
+w: Dont know much a- bout *|his- to- ry|dont know much bi *|ol- o- gy *|dont know much a- bout|
+w: Dont know much a- bout ge-|og- ra- phy|dont know much trig- o-|nom- e- try *|dont know much a- bout|
+"Am" c2 d2 c4 |"Dm" z2 Ac cdcc |"G7" d2 d2 e4 |"C" z2 eg aeed |"F" cc d2 c4 |"C" z2 eg aged | %11
+w: sci- ence book|dont know much a- bout the|French I took|but I do know * that|I love * you|And I know that if you|
+w: al- ge- bra|dont know what a slide *|rule is for|but I do know one and|one is * two|And if this one * could|
+"F" c2 d2 c2 B2 | A4 A2 A2 |"Am" AG G2 GF E2 |"Dm" D2 E2 F4 |1"C" G8- ||"G7" G8 :|2"C" G4 E2 G2 || %18
+w: love me too (Chorus)|* what a|won- der- ful won- der- ful|world this would|be||be what a|
+w: be with you *|||||||
+"Am" AE G2 GF E2 |"G7" D2 E2 F4 |"C" G8- | G4 z2 ec |"G7" d2 d2 de G2 |"C" ccde d2 c2 | %24
+w: * der- ful won- der- ful|won- der- ful|world|* Now *|I dont claim * to|be an "A" * stu- dent|
+w: ||||||
+"G7" z2 dd g2 d2 |"C" e4 z cdc |"Am" edcd dc B2 | c2 ed d2 ec |"Dm" A2 dd d2 e2 | d4 c4 | %30
+w: but I'm try'n to|be I think that|may- be by * be- in an|"A" stu- dent ba- by ba-|by I could win your|love for|
+w: ||||||
+"^D.C.alCoda""C" e4 d2 c2 |"C" G4"^Coda" E2 G2 |"Am" AE G2 GF E2 |"G7" D2 E2 F2 A2- |: %34
+w: me * *|be what a|won- der- ful won- der- ful|world this would be|
+w: ||||
+"C" z A G2 E2 G2 |"F" AE G2 GF F2 |"Dm" FG A2 cBAA :| %37
+w: * * What a|won- der- ful won- der- ful|won- der- ful won- der- ful world.|
+w: |||
+

@@ -1,0 +1,30 @@
+X:1
+T:Graduation Day
+T:Graduation Day
+C:Joe Sherman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z E/F/ |:"C" G C"Dm7" D3/2 A/ |"C" G C"F" D3/2 A/ |"C" G C"Dm7" D A |"C" G C"Ebdim" c2 | %5
+w: It'a a|time for joy, a|time for tears, a|time we'll trea- sure|thru the years.|
+"Dm7" z c/B/"G7" A B |"C" G"A7b9" G3 |"Dm7" z F/G/"G9" A B, |"C""Dm7" G3"Gm7" E/F/ | %9
+w: We'll re- mem- ber|al- ways|grad- u a- tion|day. at thw|
+"C" G C"Dm7" D3/2 A/ |"C" G C"F" D3/2 A/ |"C" G C"Dm7" D A |"C" G C"Ebdim" c2 | %13
+w: sen- ior prom, we|danced till three, and|then you gave your|heart to me.|
+"Dm7" z c/B/"G7" A B |"C" G"A7b9" G3 |"Dm7" z F/G/"C9" A B, |"C" C4 |"Gm7" z D/E/"C7" F3/2 G/ | %18
+w: We'll re- mem- ber|al- ways,|grad- u- a- tion|day.|Tho' we leave in|
+"Fmaj7" G"F""F#dim" A3 |"Gm7" z _B/G/ F"C7" E |"Fmaj7""F6" A4 |"Am7" z E/^F/"D7" G3/2 A/ | %22
+w: sor- row|all the joys we've|known,|We can face to-|
+"Gmaj7" A"G""G#dim" B3 |"Am7" c B/A/"D7" G/A/E/^F/ |"Dm7""G7" G3 E/=F/ |"C" G C"Dm7" D3/2 A/ | %26
+w: mor- row|know- ing we'll nev- er walk a-|lone. When the|I- vy walls are|
+"C" G C"F" D3/2 A/ |"C" G C"Dm7" D A |"C" G C"Ebdim" c2 |"Dm7" z c/B/"G7" A B |"C" G"A7b9" G3 | %31
+w: far be- hind, no|mat- ter where our|path may wind,|we'll re- mem- ber|al- ways|
+"Dm7" z F/G/"G9" A B, |1"C""Ab7" C3"G7" E/F/ :|2"C" C4 |] %34
+w: grad- u- a- tion|day. it's a|day.|
+

@@ -1,0 +1,30 @@
+X:1
+T:Whole Lot-ta Shakin' Goin' On
+T:Whole Lot-ta Shakin' Goin' On
+T:Dave Williams,Sunny David
+C:Dave Williams,Sunny David
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Solid rock tempo" D>E |:"G7" G3 z G3 z | G2 G"Gm"_B- B2 D>E |"G7" G3 z G3 z | G2 G"G6"E- E2 z2 | %5
+w: |||||
+w: |||||
+"C7" _B2 A2 G2 E>G- | GA- A2 z4 |"G" _B2 A>G A>AGE- | E2 z2 z4 |"C7" _B2 A2 G2 E>G- | %10
+w: Come on o- ver ba-|* by *|WHOLE LOT- TA SHAK'- IN GOIN' ON||Come on o- ver, ba-|
+w: Come on o- ver, ba-|* by *|Whole lot- ta kick- in' in the|barn.|Come on o- ver, ba-|
+ GA- A2 z2 z E |"G" _B2 A>G A2 GE- | E2 z2 z4 |"D7" _B>BA>G AA- A2 | _B2 A>G A>AGE- |1 %15
+w: * by * an'|ba- by you can't go wrong.||Ain't no- bod- y fak- in' *|whole lot- ta shak- in goin' on.|
+w: * by * *|We got the bull by the|horn,|Ev- 'ry- thing is tak- in' *|whole lot- ta skak- in' goin' on|
+"G" E2 z2 z4 || z4 z2 D>E :|2"G" E2 z2 z4 ||"D7" _B2 A>G A>AGE- |"G" E2 z2 z4 | %20
+w: |||whole lot- ta shak- in' goin' on,||
+w: |||||
+"D7" _B2 A>G A>AGE- |"G" E2 z2 z4 |"D7" d"Em7"e"D7"f"G"g- g2 z2 |] %23
+w: Whole lot- ta shak- in' goin' on.-|||
+w: |||
+

@@ -1,0 +1,36 @@
+X:1
+T:I'm Gonna Live Till I Die
+T:I'm Gonna Live Till I Die
+C:Walter Kent and Mann Curtis
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z"^N.C." B B ^A |"Em" B4- | B G2 E |"B7" (F"A/C#" B,3-) |"Dm6" B, B"B7" B ^A |"Em" B4- | %6
+w: I'm gon- na|live|* till I|die. *|* I'm gon- na|laugh|
+"Em" B G2 E |"B7" (F"A/C#" B,3-) |"Dm6" B, B"B7" B B |"Em" e2 B"Em" ^d- |"Em" ^d B"Em7" =d B | %11
+w: * 'stead of|cry, *|* I'm gon- na|take the town|* and turn it|
+"F#m7" ^c2 A"F#m7b5" =c- | c F G A |"B" B2 B,2 |"B7" (G F) E ^D |"Em" E4- |"F#m7" E B"B7" B ^A | %17
+w: up- side down,|* I'm gon- na|live, live,|live * till I|die.|* They're gon- na|
+"Em" B4- | B G2 E |"B7" (F"A/C#" B,3-) |"Dm6" B, B"B7" B ^A |"Em" B4- |"Em" B G2 E | %23
+w: say,|* "What a|guy!" *|* I'm gon- na|play|* for the|
+"B7" (F"A/C#" B,3-) |"Dm6" B, B"B7" B B |"Em" e2 B"Em" ^d- | ^d B"Em7" =d B | %27
+w: sky, *|* Ain't gon- na|miss a thing,|* I'm gon- na|
+"F#m7" ^c2 A"F#m7b5" =c- | c F G A |"B" B2 B,2 |"B7" (G F) E ^D |"Em" E4- | E E"Bbdim" E E | %33
+w: have my fling,|* I'm gon- na|live, live,|live * till I|die.|* The blues- 'll|
+"Am7" E3"D7" D- | D E E E |"G6" E3"G" D- | D"G6" E E E |"Am7" E3"D7" D- | D F2 D |"G6" E4- | %40
+w: lay low,|* I'll make 'em|stay low,|* They'll nev- er|trail ov-|* er my|head.|
+ E"G" G G G |"C#m7b5" G3"F#7" F- | F"F#7b9" G G G |"G" G3"Bm" F- | F F"F#7" F F |"B7" B4- | B4 | %47
+w: * I'll be a|dev- il|* till I'm an|an- gel,|* But un- til|then,||
+ z f2 ^d |"B7" B ^A B A |"Em" B4- |"Em" B G2 E |"B7" F"A/C#" B,3- |"Dm6" B, B"B7" B ^A |"Em" B4- | %54
+w: Hal- le-|lu- jah! Gon- na|dance,|* Gon- na|fly, *|* I'll take a|chance,|
+ B G2 E |"B7" F"A/C#" B,3- |"Dm6" B, B"B7" B B |"Em" e2 B"Em" ^d- | ^d B"Em7" =d B | %59
+w: * rid- in'|high, *|* Be- fore my|num- ber's up|* I'm gon- na|
+"F#m7" ^c2 A"F#m7b5" =c- |"F#7b5" c F G A |"B7" B2"D7" c2 |"F#m" ^c2"D7" d2 |"B7" ^d4- | %64
+w: fill my cup,|* I'm gon- na|live, live,|live, live,|live|
+ ^d"B7b9" ^d d d |"Em" e4- |"Am" e4- |"Em" e4- | e z z2 |] %69
+w: * un- til I|die!||||
+

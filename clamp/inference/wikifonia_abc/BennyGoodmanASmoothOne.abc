@@ -1,0 +1,25 @@
+X:1
+T:A Smooth One
+T:A Smooth One
+T:Benny Goodman
+T:© Dan Parshall
+C:Benny Goodman
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Bdim" d _A3"Bb6" FGFD |"F6/A" F A3"F6" z4 |"Bdim" d _A3"Bb6" FGFD |"F6/A" F D3"F6" z4 | %4
+"Bdim" d _A3"Bb6" FGFD |"F6/A" F A3"F6" z2 (3D_DC |"G9" =B,DFA"C9" D D2"C+9" D- |"F6" D4 z2 z2 | %8
+"Bdim" d _A3"Bb6" FGFD |"F6/A" F A3"F6" z4 |"Bdim" d _A3"Bb6" FGFD |"F6/A" F D3"F6" z4 | %12
+"Bdim" d _A3"Bb6" FGFD |"F6/A" F A3"F6" z2 (3D_DC |"G9" =B,DFA"C9" D D2"C+9" D- | %15
+"F6" D2 z2"F7" z2 FG- |"Bb6" G2 FD- D2 FG- |"Bdim" G2 F _A2 z Bc- |"F6" c2 BA- A2 FG- | %19
+"Cm7" G4"F9" z2 FG- |"Bb6" G2 FD- D2 FG- |"Bdim" G2 F _A2 z z2 |"F6" Acdc"D7b9" _ecdc | %23
+"Gm7b5" _e2 d2"C7" c d2 z |"Bdim" d _A3"Bb6" FGFD |"F6/A" F A3"F6" z4 |"Bdim" d _A3"Bb6" FGFD | %27
+"F6/A" F D3"F6" z4 |"Bdim" d _A3"Bb6" FGFD |"F6/A" F A3"F6" z2 (3D_DC | %30
+"G9" =B,DFA"C9" D D2"C+9" D- |O"F6" D4 z2 z2 :|O"F6" D4 z2 (3D_DC |"G9" =B,DFA"C9" D D2"C+9" D- | %34
+"F6" D4 z2 (3D_DC |"G9" =B,DFA"C9" D D2"C+9" F- |"F6" F8 |] %37
+

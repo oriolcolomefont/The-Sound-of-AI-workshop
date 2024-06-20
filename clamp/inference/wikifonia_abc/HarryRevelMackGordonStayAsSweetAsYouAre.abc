@@ -1,0 +1,26 @@
+X:1
+T:Stay As Sweet As You Are
+T:Stay As Sweet As You Are
+C:Harry Revel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" c3/2 c/"G7b9" (3B c d |"C" c2"G7b9" (3B c d |"C" c2 ^D E |"Dm7" A"G7" G3 | %4
+w: Stay as sweet as you|are, don't let a|thing ev- er|change you.|
+"C" G3/2 G/"Ebdim7" (3^F G A |"Dm7" G2"G7" (3^F G A |"C" G2 B, C |"E7b9" F E3 |"Fmaj7" E2 B, C | %9
+w: Stay as sweet as you|are, don't let a|soul re- a-|range you.|Don't ev- er|
+"Dm7" G2"G7" E G |"Am" c c c c- |"Am7/G" c3 z |"D7/F#" d d d d- |"D7" d2 (3d c A | %14
+w: lose all the|charm you pos- sess,||your lov- li- ness,|* dar- ling, the|
+"Dm7b5" D D D G- |"G7b9" G4 |"C" c3/2 c/"G7b9" (3B c d |"C" c3/2 c/"G7b9" (3B c d |"C" c2 ^D E | %19
+w: way you say "yes"||Stay as sweet as you|are, dis- creet as you|are you're di-|
+"Dm7" A"G7" G3 |"C" G3/2 G/"Ebdim7" (3^F G A |"Dm7" G2"G7" (3^F G A |"C" G2 B,/C/B,/C/ | %23
+w: vine, Dear.|Stay as grand as you|are, and as you|are, tell me that you're|
+"Bm7b5" F"E7" E3 |"Fmaj7" E3/2 C/ C E |"Em7" G3/2 E/ E2 |"Am7" c3/2 c/ (3c A c |"D9" e4 | %28
+w: mine, Dear.|Young and gay or|old and gray,|near to me or a-|far;|
+"F" e/c/c/A/ A2 |"Bb7" e/c/c/_A/ A2 |"C/E" z"Ebdim7" c"G7/D" B/c/"G7" d |"C" c3 z |] %32
+w: night and day I pray,|that you'll al- ways stay|as sweet as you|are.|
+

@@ -1,0 +1,25 @@
+X:1
+T:Always look on the bright side of life
+T:Always look on the bright side of live
+T:Swing
+C:Monty Python
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G2[Q:1/4=120] G2"Em" G G2 G |"Am7" G4"D7" ED E2 |"G" G2 z g"Em" e2 z B |"Am7" ABce"D7" d2 z2 | %4
+"G" G2 G2"Em" G G2 G |"Am7" G4"D7" ED E2 |"G" G2 z g"Em" e2 z B |"Am7" ABce"D7" d2 z D | %8
+"Am7" AAAA"D7" B B2 B |"G" GGGG"Em" E E2 B, |"Am7" CDEG"D7" BABA |"G" D6 BB |"Am7" AGAB"D7" A4 | %13
+"G" BEFG"Em" E3 B |"Am7" AAAA AEFG |"D7" A6 B2 |"G" G2 G2"Em" G G2 G |"Am7" G4"D7" ED E2 | %18
+"G" G2 z g"Em" e2 z B |"Am7" ABce"D7" d2 z2 |"G" G2 G2"Em" G2 G2 |"Am7" G2 G2"D7" ED E2 | %22
+"G" G2 z g"Em" e2 z B |"Am7" ABce"D7" d2 z2 |"Am7" AAAA"D7" B2 z2 |"G" GGGG"Em" E2 z2 | %26
+"Am7" BABE"D7" BABA |"G" D6 z B |"Am7" AGAB"D7" A2 BB |"G" GEGG"Em" E2 EE |"Am7" AAAA AEFG | %31
+"D7" A6 B2 |"G" G2 G2"Em" G G2 G |"Am7" G4"D7" ED E2 |"G" G2 z g"Em" e2 z B |"Am7" ABce"D7" d2 z2 | %36
+"G" G2 G2"Em" G G2 G |"Am7" G4"D7" ED E2 |"G" G2 z g"Em" e2 z B |"Am7" ABce"D7" dcBA | %40
+"G" G2 z2 z4 |] %41
+

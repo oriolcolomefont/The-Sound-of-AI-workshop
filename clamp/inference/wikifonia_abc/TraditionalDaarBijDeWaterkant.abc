@@ -1,0 +1,44 @@
+X:1
+T:Daar Bij De Waterkant
+T: Laukens Music Productions  
+T:Foxtrot
+T:DAAR BIJ DE WATERKANT
+T:Arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=190
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ A |"F" A C D F | F G A B |"C7" c B A G |"F" F3 A |:"F" A C D F | F F A2- | A [FA] [FA]3/2 [E^G]/ | %8
+ [FA] G F2 |"C7" z [EG] [EG]3/2 [^D^F]/ | [EG] [DF] [CE]2 |"F" z [FA] [FA]3/2 [E^G]/ | [FA] G F A | %13
+ A C D F | F F A2 | z [FA] [FA]3/2 [E^G]/ | [FA] G F2 |"C7" [EA] [EG]2 [EB] | [EA]2 [EG]2 |1 %19
+"F" F4- | F2 z A :|2"F" F4- ||"F7" F F [EG] [_EA] |:"Bb" [DB] [DB] [DB] [DB] | [DB]3 [DB] | %25
+"F" [FA] [FA] [FA] [FA] | F4 |"C7" [EA] [EG]2 [EG] |"Gm7" [DF]2"C7" [EG]2 |"F" [FA]4- | %30
+"F7" [FA] F [EG] [_EA] |"Bb" [DB] [DB] [DB] [DB] | [DB]4 |"F" [FA] [FA] [FA] [FA] | F4 | %35
+"G7" [FG] [FG]2 [FA] | [F=B] [FG] [FA] [FB] |"C7" c4- | c3 A |"F" A C D F | F F A2 | %41
+ z [FA] [FA]3/2 [E^G]/ | [FA] G/F/- F2 |"C7" z [EG] [EG]3/2 [^D^F]/ | [EG] [DF]/[CE]/- [CE]2 | %45
+"F" z [FA] [FA]3/2 [E^G]/ | [FA] G/F/- F A |"F" A C D F | F F/A/- A2 | z [FA] [FA]3/2 [E^G]/ | %50
+ [FA] G F2 |"C7" [EA] [EG]2 [EB] | [EA]2 [EG]2 |1"F" F4- |"F7" F F G A :|2"F" F4- ||"F7" F3 d || %57
+[K:Bb]"Bb" d F G B | B B/d/- d2 | z [Bd] [Bd]3/2 [A^c]/ | [Bd] c/B/- B2 | %61
+"F7" z [Ac] [Ac]3/2 [_A=B]/ | [Ac] [GB]/[FA]/- [FA]2 |"Bb" z [Bd] [Bd]3/2 [A^c]/ | [Bd] c/B/- B d | %65
+ d F G B | B B/d/- d2 | z [Bd] [Bd]3/2 [A^c]/ | [Bd] c B2 |"F7" [Ad] [Ac]2 [Ae] | [Ad]2 [Ac]2 | %71
+"Bb" B4- | B"F7" F"Bb" B z |] %73
+V:2
+ x | x4 | x4 | x4 | x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 %19
+ x4 | x4 :|2 x4 || x4 |: x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %37
+ E2 B A | G F E x | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 |1 x4 | %54
+ x4 :|2 x4 || x4 ||[K:Bb] x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %71
+ x4 | x4 |] %73
+

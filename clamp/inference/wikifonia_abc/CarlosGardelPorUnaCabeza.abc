@@ -1,0 +1,17 @@
+X:1
+T:Por Una Cabeza
+C:Carlos Gardel
+Z:All Rights Reserved
+L:1/16
+Q:1/4=120
+M:2/4
+K:A
+V:1 treble nm="Track 0"
+%%MIDI program 0
+V:1
+ CD^DE z4 | F2E2 ^DEFG | B2A2 cdBc | AB2G AG2E | D4 dced | B4 B^AcB | G4 GA^AB | cBGF EGED | %8
+ C4 CD^DE | F2E2 ^DEFG | B2A2 ABcA | BABc B2A2 | F4 BAFD | CB,CD =FA=GF | A2E2 ABcA | B2F2 GABG | %16
+ A4 z4 | c2c2 d2<e2 | e4 [GB]2>[FG]2 | A2A2 B2<c2 | c4 [EG]2>[DE]2 | F2F2 G2<A2 | A2E2 ABcA | %23
+ B2F2 ABcA | c4 B4 | c2c2 d2<e2 | e2>G2 [GB]2>F2 | A2A2 B2<c2 | c4 [EG]2>[DE]2 | F2F2 G2<A2 | %30
+ A2E2 ABcA | B2F2 GABG | A4 CD^DE | A8 |] %34
+

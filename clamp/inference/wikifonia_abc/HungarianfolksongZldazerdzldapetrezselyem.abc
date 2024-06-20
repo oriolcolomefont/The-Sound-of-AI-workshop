@@ -1,0 +1,15 @@
+X:1
+T:Zöld az erdő, zöld a petrezselyem
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 CD |"C" E2 E2 | DC EG |"G" D2 D2 | z2 GG |"F" A2 A2 |"G" GE GG |"C" C2 C2 |] %8
+w: Zöld az|er- dõ,|zöld a pet- re-|zse- lyem,|Ben- ned|ró- zsám,|ki- hûlt a sze-|re- lem.|
+

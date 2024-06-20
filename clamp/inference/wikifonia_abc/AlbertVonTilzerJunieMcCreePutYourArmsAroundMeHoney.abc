@@ -1,0 +1,23 @@
+X:1
+T:Put Your Arms Around Me, Honey
+T:Put your arms around me, honey
+T:(from Madame Sherry) 
+T:Albert von Tilzer
+T:Junie McCree
+C:Albert Von Tilzer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" c A _B =B | c A _B =B | z c B2 | c3 z |"C7" ^B ^F G A | _B ^F G A | z _B A2 | _B3 z | E4 | d4 | %10
+w: Put your arms a-|round me hon- ey|hold me|tight|hud- dle up and|cud- dle up with|all your|might|Oh|Oh|
+ d ^c d e | d4 |"F" A4 | c4 | c B c d |"C7" c4 |"F" c A _B =B | c A _B =B | z c B2 | c3 z | %20
+w: wont you roll those|eyes|eyes|that|I just i- dol-|ise|when they look at|me my heart be-|gins to|float|
+"C7" _B ^F G A | _B ^F G A | z _B A2 | _B3 z | E4 | d4 |"F" d c A F- |"Dm" F2 G A |"G7" G4 | %29
+w: then it starts a|rock- in like a|mo- tor|boat|oh|oh|I nev- er knew|* an y|one|
+"C7" A4 |"F" F4- | F3 z |] %32
+w: like|you.||
+

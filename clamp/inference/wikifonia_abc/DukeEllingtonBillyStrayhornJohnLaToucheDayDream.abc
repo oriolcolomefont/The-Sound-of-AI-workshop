@@ -1,0 +1,34 @@
+X:1
+T:Day Dream
+T:Day Dream
+C:Duke Ellington & Billy Strayhorn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Fm6" (3d d c _A B/c/ |"Ebmaj7" d d3 |"Dbmaj7" (3c c B F _A/B/ |"Gm7""C7" c4 |"Fm7" (3B B _A _E F | %5
+w: Fun- ny the way that I|feel now|can't keep my feet on the|ground,|ev- 'ry- thing seems un-|
+"G7" G"Gdim""F9" G3 |"E7" G3/2 G/"Ebm6" B"Db7" B |"C7" G4 |:"F" C3/2 c/-"F7" c2 | %9
+w: real now|when you're not a-|round.|Day Dream _|
+"Bb+7" (3B c B"A+7" ^c A/F/- |"Dm""F7" F4 |"Bbm6" (3F G F"C7" _A3/2 A/ |"Fm""Fm7" F3 C | %13
+w: why do you haunt me so?|_|Deep in the ros- y|glow, the|
+"Db9" (3F G F G3/2 F/ |"Gm7""C7" c4 |"Db7""C9" z4 |"F" C3/2 c/-"F7" c2 | %17
+w: face of my love you|show.||Day Dream _|
+"Bb+7" (3B c B"A+7" ^c A/F/- |"Dm""F7" F4 |"Bbm6" (3F G F"C7" _A3/2 A/ |"Fm""Fm7" F3 C | %21
+w: I walk a- long on air|_|build- ing a cas- tle|there, for|
+"Db9" (3F G F"C7" c3/2 c/ |"F" A4- |"Eb6""Ebm6" A2"F7""F+7" z2 ||"Bb" d2"B7sus4" e3/2"E" d/ | %25
+w: me and my love to|Share.|_|Don't know the|
+"A" ^c2"Bb7sus4""Eb" _e3/2 e/ |"Ab" =c2"A7sus4" d3/2"D" d/ |"Gmaj7" =B4 |"Gm7" B2"C7" c3/2 c/ | %29
+w: time Lord- y,|I'm in a|daze.|Sun in the|
+"Fmaj7" A2"Ab7" d2 |"G9" (3e e e (3e _e d |"Gm7""Bbm6" G2"C7" ^G2 ||"F" C3/2 c/-"F7" c2 | %33
+w: sky while|I moon a- round feel- ing|haz- y.|Day Dream _|
+"Bb+7" (3B c B"A+7" ^c A/F/- |"Dm""F7" F4 |"Bbm6" (3F G F"C7" _A3/2 A/ |"Fm""Fm7" F3 C | %37
+w: don't break my rev- er- ie|_|un- til I find that|she is|
+"Db9" (3F G F"C7" c3/2 c/ |1"F6" c4 |"Ab7""A7" z2"Db7""C9" z2 :|2"F6" c4- | c2 z2 |] %42
+w: day dream- ing just like|me.||me.|_|
+

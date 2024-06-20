@@ -1,0 +1,36 @@
+X:1
+T:The Olive Tree
+T:The Olive Tree
+T:Tom Springfield & Diane Lampert
+C:Tom Springfield & Diane Lampert
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z E E G ||"Em" B2-"Em7" B3/2 c/ |"Am" A G"B7" A3/2 B/ |"Em" G/ E3/2 E2- | E2 (3E G B |"G" d3 d | %6
+w: Tell me, white|dove, * where|will I find the|ol- ive tree?|* For just one|branch I'd|
+w: ||||||
+"A" ^c A E c |"E" B4 | z B"E7" B3/2 d/ |"Am""Am7" c3 B |"D7" A B c3/2 d/ |"G" c/ B3/2 G2- | %12
+w: search my whole life|through.-|I've heard them|say a|green- er land is|wait- ing there,|
+w: ||||||
+"Em" G2 (3E G B |"Am" B A c2- | c B A3/2 G/ |"B""Am" F4- |"B" F E E G |:"Em" B2-"Em7" B3/2 c/ | %18
+w: * Where peo- ple|wake and find|* their dream come|true.|* High fly- ing|dove, * Please|
+w: |||||fly.- * *|
+"Am" A G"B7" A B |"Em" G/ E3/2 E2- | E2 (3E G B |"G" d3 d |"A" ^c A E c |"E" B4- | %24
+w: lead me and I'll|fol- low you,|* A- bove the|clouds, be-|yond the storm- y|sea.|
+w: ||||||
+ B B"E7" B3/2 d/ |"Am""Am7" c3 B |"D7" A3/2 B/ c d |"G" c B G2- |"Em" G E G3/2 B/ |"Am" A3 B | %30
+w: * I long to|share a|world of sweet con-|tent- ment there,|* In that bright|land where|
+w: ||||||
+"Bm7" A F D3/2 E/ |1"Em""A" E4- ||"Em" E E E G :|2"Em" E4- || E B e B |"Am" A3 B | %36
+w: grows the ol- ive|tree.|* So let me|tree.|* In that bright|land where|
+w: ||||||
+"Bm7" A/ F F/ D E |"E" E ^G"A" A ^c |"Em" e2 z2 |] %39
+w: grows * the ol- ive|tree. * * *||
+w: |||
+

@@ -1,0 +1,36 @@
+X:1
+T:Poppa Piccolino (Papaveri e Papere)
+T:Poppa Piccolino
+C:Mascheroni
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ G |"C" c2 c"Em" B2 B |"Am" A A A"C" G2 G |"Am" A2 A"C" G2 G |"F" F F F"C" E2 E |"G" G2 G"F" F2 F | %6
+w: 1.Oh|list- en to the|mus- ic I hear Old|Pop- pa Pi- co-|li- no is near To|win a smile or|
+w: 2.No|mat- ter what the|ca- len- dars show It|can't be spring and|I ought- ta know Un-|til I hear him|
+"C" E E E"G7" D2 D |"C" C3"G7" D C D |"C" E3- E2 G |"C" c2 c"Em" B2 B |"Am" A A A"C" G2 G | %11
+w: may- be a tear Be-|fore tra- vel- ling|on _ A|vag- a- bond who|wan- der a- long A|
+w: sing- ing "Hel- lo Hel-|lo I'm here a-|gain". _ A|flow- er in his|bat- ter'd old hat A|
+"Am" A2 A"C" G2 G |"F" F F F"C" E2 E |"G" G2 G"F" F2 F |"C" E E E"G7" D2 D |"C""G7" C6- | %16
+w: mil- lion- aire but|on- ly in song As|though the world might|real- ly be- long to|him|
+w: smile for ev- 'ry|dog- gie and cat And|chil- dren get the|friend- li- est pat of|all|
+"C" C3- C z C |"B" B,2 B B2 B | B2 B B2 A |"Em" G3 E3- |"Em" E3- E2 E |"D7" D2 d d2 d | d2 d d2 c | %23
+w: _ _ This|fel- low plays a|mel- o- dy so|mel- low|_ _ That|ev- 'ry one keeps|shout- ing "Bel- lo|
+w: _ _ I'll|give his name so|if you ev- er|meet him|_ _ Then|you will know ex-|act- ly how to|
+"G7" B3 G3- | G3- G z z ||"C""^Refrain" G3 G2 c |"Dm7" c2 B"G7" B2 A | B2 A B2 A |"C" G3 E3 | %29
+w: Bel- lo"|_ _|All ov- er|It- a- ly they|know his con- cert-|in- a|
+w: greet him.|_ _|||||
+ E2 E E2 G |"Em7" G3"G7" F3 | F2 F F2 A |"F" A3"C" G3 | G3 G2 c |"Dm7" c2 B"G7" B2 A | %35
+w: Pop- pa Pic- co-|li- no|Pop- pa Pic- co-|li- no|He plays so|pret- ti- ly to|
+w: ||||||
+"G7" B2 A B2 A |"C" G3 E3 | E2 E E2 G |"Em7" G3"G7" F2 B |"G" B2 B"G7" A2 B |"C" c3- c2 z |] %41
+w: ev- 'ry sig- nor-|i- na|Pop- pa Pic- co-|li- no from|sun- ny It- a-|ly _|
+w: ||||||
+

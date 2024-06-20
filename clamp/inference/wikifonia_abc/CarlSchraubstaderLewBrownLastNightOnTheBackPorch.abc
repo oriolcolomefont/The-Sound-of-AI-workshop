@@ -1,0 +1,19 @@
+X:1
+T:Last Night On The Back Porch
+T:Last night on the back porch
+T:Lew Brown,Carl Schraubstader
+C:Carl Schraubstader
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G |"C" A A2 G/^G/ | A A2 =G/^G/ |"G7" A A2 =G | D3 G | A A2 G/^G/ | A A2 G/^G/ | %7
+w: I|love her in the|morn- ing and I|love her at|night I|love her yes I|love her when the|
+"C" A A A =G | E3"C7" c | d d2 c/^c/ | d d2 =c/d/ |"D7" e e d c | D3 G |"G7" A A2 G/^G/ | A A2 =G | %15
+w: stars are shin- ing|bright I|love her in the|spring- time and I|love her in the|fall but|last night on the|back porch I|
+"D7" A A"G7" B B |"C" c3 z |] %17
+w: loved her best of|all.|
+

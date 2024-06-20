@@ -1,0 +1,102 @@
+X:1
+T:How to Save a Life
+C:The Fray
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 65
+V:1
+"Bb" B8 |"F6/A" c8 |"Bb" d8 |"F6/A" A4 c2- CD- |"Bb" D2 DF- F2 FF- |"F6/A" FEED- D2 DD- | %6
+w: |||* * Step one|_ you say _ we need|_ _ to talk _ he walks|
+w: ||||||
+w: ||||||
+"Bb" D2 DF- F F2F |"F6/A" E E2E D2 CB, |"Bb"z2>D2 F2 FE |"F6/A" E2 ED D2 z2 |"Bb" z2 D2 D2 DD- | %11
+w: _ you say _ sit down|* it's just * a talk|He Smiles po- lite-|ly back at you|you stare po- lite|
+w: |||||
+w: |||||
+"F6/A" D C3 C D2B, |"Bb" z2 B2 B B2B- |"F6/A" B c2c- cBBB |"Bb" z2 BB- B c2c- | %15
+w: _ ly right on _|Some sort of win-|* dow to _ _ your though|as he _ goes left|
+w: ||* * * * * * right||
+w: ||||
+"F6/A" c2 dc- cABB- |"Bb" B2 Bc- c2 Bc- |"F6/A" c2zB c2 dB |"Bb" z2 dc d2 fd- | %19
+w: _ and you _ stay * right|_ bet- ween _ the lines|_ of fear and blame|you be- gin to won-|
+w: ||||
+w: ||||
+"F6/A" d c2A- Ac B2 |:"Eb" B2 fc- c B2c- |"F" c2 cd- dAAB |"Gm" z2 fc- c2 Bc- | %23
+w: _ der why _ you came|Where did I _ _ go|wrong, I lost _ _ a friend|some- where _ a- long|
+w: ||||
+w: ||||
+"Bb" ccc_d"F/A" c c2B |"Eb" B2 fc- cBcc- |"F" c2 Bd- d A2B |"Gm" z2 fc- cB z2 | %27
+w: * in the bit- ter- ness and|_ I would _ have stayed _|up with you * all night|had i _ known|
+w: ||||
+w: ||||
+"Bb" B2 cc-"F/A" cAAB- |"Bb" B8 |"F6/A" z8 |"Bb" z8 |"F6/A" A4 c2zC |"Bb" D F2F- F2 FF- | %33
+w: how to save _ _ a life.|_|||||
+w: ||||* * As|Let be- gins _ that you|
+w: |||||he him know * to raise|
+"F6/A" F E2E D2>C2 |"Gm7" D F2F- F F2F- |"F6/A" F E2E D C3 |"Bb" z2 DC D D2D- | %37
+w: * * * * 'cause||||
+w: * his best * You|af- er yours * and grant|* know best * last|Try to til past lose|
+w: _ know voice _ _|low- ter all * you do|* him one _ _|Drive un- slip you his|
+"F6/A" D2 CC- C2 z2 |"Gm7" D D2D- D F2D |"F6/A" CC- C4 z2 |"Bb" z2 BB- B2 BB- | %41
+w: |* * * * ing in|||
+w: _ de- fense *|break out grant- ones you've *|no- cence *|He will * a list|
+w: _ the road _|With- with the * * *|* lowed *|Lay down _ do one|
+"F6/A" B c2c- c B2B |"Gm7" B c2B c2 Bc- |"F6/A" c2 dc- cBBB |"Bb" c2 Bc- cBBc |"F6/A" B B3 z2 B2 | %46
+w: |* * the things you've told|_ him all _ a- long And|pray to God _ _ just not|the you and|
+w: * of what * things wrong|He will ad- mit to ever-|* y- thing * * * *|Or he’ll say * he’s he hears|_ same And|
+w: * of two * is *|||||
+"Gm7" d2 cd- d2 fd |"F6/A" c c3- c B3 ::"Eb" B2 fc- c B2c- |"F" c2 cd- dAAB |"Gm" z2 fc- c2 Bc- | %51
+w: pray to god _ he hears|_ you _ _|Where did I _ _ go|wrong, I lost _ _ a friend|some- where _ a- long|
+w: you’ll be- gin * to won-|* der why you|came * * * * *|||
+w: |||||
+"Bb" ccc_d"F/A" c c2B |"Eb" B2 fc- cBcc- |"F" c2 Bd- d A2B |1"Gm" z2 fc- cB z2 | %55
+w: * in the bit- ter- ness and|_ I would _ have stayed _|up with you * all night|had i _ known|
+w: ||||
+w: ||||
+"Bb" B2 Bc-"F/A" cA B2 :|2"Bb" B2 Bc-"F/A" cAAB- ||"Bb" B8 |"F6/A" c8 |"Bb" d8 | %60
+w: how to save _ _ a|how to save _ _ a life.|_|||
+w: |life. _ _ _ _ _ _|_|||
+w: |||||
+"F6/A" B2 Bc- cAAB- |"Bb" B2- f2 f2 f2 |"F6/A" f2 c2 e2 d2 |"Bb" B2 f2 f2 f2 | %64
+w: how to save _ _ a life.|_ _ _ _|||
+w: ||||
+w: ||||
+"F6/A" B2 Bc- cA B2 |:"Eb" z B2f c>B- Bc- |"F" c2 cd- dAAB |"Gm" z2 fc- c2 Bc- | %68
+w: how to save _ _ a|Where did I _ go wrong,|* I lost _ _ a friend|some- where _ a- long|
+w: ||||
+w: ||||
+"Bb" ccc_d"F/A" c c2B |"Eb" B2 fc- cBcc- |"F" c2 Bd- d A2B |1"Gm" z2 fc- cB z2 | %72
+w: * in the bit- ter- ness and|_ I would _ have stayed _|up with you * all night|had i _ known|
+w: ||||
+w: ||||
+"Bb" B2 Bc-"F/A" cA B2 :|2 B2"Bb" Bc-"F/A" cAAB- ||"Bb" B8 |"F6/A" c8 |"Bb" d8 | %77
+w: how to save _ _ a|how to save _ _ a life.|_|||
+w: |life. _ _ _ _ _ _|_|||
+w: |||||
+"F6/A" B2 Bc- cAAB- |"Bb" B2- f2 f2 f2 |"F6/A" f2 c2 e2 d2 |"Bb" B2 f2 f2 f2 |"F6/A" B2 Bc- cAAB- | %82
+w: how to save _ _ a life.|_ _ _ _|||how to save _ _ a life.|
+w: |||||
+w: |||||
+"Bb" B8 |"F6/A" c8 |"Bb" d8 |"F6/A" A4 c4 |"Bb" !fermata!B8 | %87
+w: _|||||
+w: |||||
+w: |||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | z8 | z8 | z8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+w: |||||||||||||||||||
+ x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x6 z2 | x8 | z8 | z8 | z4 z C2A, | %36
+w: |||||||||||||||||
+ B,2 x6 |x6zC | x8 | x8 | x8 | x8 | x7 z | x8 | x8 | x8 | x8 | c c2A- Ac B2 :: x8 | x8 | x8 | x8 | %52
+w: |or||||||||||* * * * and *|||||
+ x8 | x8 |1 x8 | x8 :|2 x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | %70
+w: ||||||||||||||||||
+ x8 |1 x8 | x8 :|2 x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | z8 | x8 | x8 | x8 | x8 | %87
+w: |||||||||||||||||
+

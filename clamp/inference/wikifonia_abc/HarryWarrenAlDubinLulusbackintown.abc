@@ -1,0 +1,32 @@
+X:1
+T:Lulu's back in town
+T:Lulu's Back In Town
+T:Harry Warren
+T:Al Dubin Med.Swing
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 16
+V:1
+|:"C7" BcBG"F7" =A2 F2 |"Bb7" A2 B"Eb"(G G4) |"C7" BcBG"F7" =A2 F2 |"Bb7" A B2"Eb" G- G"Eb7" G2 E | %4
+w: Got- ta get my old tux-|e- do pressed. *|Got- ta sew a but- ton|on my vest. * 'Cause to-|
+w: Got- ta get a half a|buck some- where. *|Got- ta shine my shoes and|slick my hair. * Got- ta|
+"Ab" F2 E2"Adim7" _G2 E2 |"Eb" F E2"C7" G- G4 |"F7" G E3"Bb7" E F2 E- |1"Eb6" E6 z2 :|2 %8
+w: night i"ve got to|look my best. *|Lu- lu's back in town.||
+w: get my- self a|bou- ton- aire. *|Lu- lu's back in town.||
+"Eb6" E4 z e2 c ||"Ab" e4"Adim7" d2 c2 |"Eb" B4- B"Eb7" e2 c |"Ab" e4"Adim7" d2 c2 | %12
+w: * You can|tell all my|pets. * All my|blondes and bru-|
+w: ||||
+"Eb" B4- B"Eb7" e2 c |"Ab" e4"D7b9" d2 c2 |"Eb" B6"C7" A2 |"F7" G2 G2 F E2 F- |"Bb7sus4""Bb7" F8 | %17
+w: nettes * Mis- ter|O- tis re-|grets that|he won't be a- round.||
+w: |||||
+"C7" BcBG"F7" =A2 F2 | A"Bb7" B2"Eb" G- G4 |"C7" BcBG"F7" =A2 F2 | A"Bb7" B2 G- G"G+7" G2 E | %21
+w: Bet- ter tell the mail man|not to call. *|I ain't com- ing back un-|til the fall. * And I|
+w: ||||
+"Ab" F2 E2"Adim7" _G2 E2 |"Eb" F E2 G-"C7" G4 |"F7" G E3"Bb7" E F2 E- |"Eb6""^/9" E8 |] %25
+w: may not come back|home at all. *|Lu- lu's back in town.||
+w: ||||
+

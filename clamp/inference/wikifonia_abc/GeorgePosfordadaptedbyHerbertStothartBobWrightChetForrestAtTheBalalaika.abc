@@ -1,0 +1,36 @@
+X:1
+T:At The Balalaika
+T:At The Balalaika
+T:George Posford(adapted by Herbert Stothart)
+T:Bob Wright & Chet Forrest
+C:George Posford(adapted by Herbert Stothart
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb7" z ddc cBBA | B3 A C4 |"F7" z CDE"Abm6" F2"Bb6" G2 |"Eb" E4"Ab" GFAc |"Eb" !fermata!e8 || %5
+w: |||||
+"Cm" G3 c dc"Cdim"^FG |"Fm7" B3 A"Dm7b5" C3 A |"G7" G3 D FGAB |"Cm""G7" G8 |"Cm" G3 c dc"Cdim"^FG | %10
+w: When the mel- an cho- ly|shad- ows fall, My|heart is mel- an- cho- ly|too.|Then I hear the Ba- la-|
+"Fm7" B3 A"Dm7b5" C3 A |"G7" G3 D FEDE |"Cm" !fermata!C4"Eb" B,CEG |:"^Chorus" c4"Bb6" B4 | %14
+w: lai- kas call, and|life is gay and brigjht and|new! At the ba- la-|lai- ka|
+"Eb6" z eed dccB |"Bb7" c3 B D4 | z ddc cBBA | B3 A C4- | CC"F7"DE"Bb7" F2"Bb6" G2 | %19
+w: Where there is mag- ic in the|spark- ling wine,|and mel- low mu- sic in the|can- dles shine|* I have a ren- dez-|
+"Eb" B2 GB f2 ed |"Cm" c4"Eb" B,CEG | c4"Bb6" B4 |"Eb6" z eed"Ebmaj7" dc"Eb"cB |"Bb7" c3 B D4 | %24
+w: vous! * * * * *|* At the ba- la-|lai- ka|Who knows what ec- sta- sy to-|night may bring.|
+ z ddc cBBA | B3 A C4- | CC"F7"DE"Abm6" F2"Bb6" G2 |"Eb" E2 G,B,"Ab" CF,A,C | %28
+w: What love- ly mel- o- dy my|heart may sing,|* Be- fore the night is|through. * * * * * *|
+"Eb" E2 e2"Eb+" e2 e2 |"Ab6" e3 F F4- | FGAB c2"Bb+7" d2 |"Eb" d3 E E4- | EFGA B2 c2 | %33
+w: * I hear a|vi- o- lin,|* A haunt- ing gyp- sy|vi- o- lin,|* And when it sighs its|
+"F9" c3 C C2 c2 |"Abm6" =B6 A2 | =B3 B e2 c2 |"Bb6""Bb7" B4"Eb" B,CEG | c4"Bb6" B4 | %38
+w: strange- ly ten- der|song I|know that I be-|long. At the Ba- la-|lai- ka!|
+"Eb6" z eed"Ebmaj7" dc"Eb"cB |"Bb7" c3 B D4 | z ddc cBBA | B3 A C4- | CC"F7"DE"Abm6" F2"Bb6" G2 |1 %43
+w: Oh let me lin- ger there till|break of day,|Where hearts are young and Ba- la-|lai- kas play|* I have a ren- dez-|
+"Eb" E4"Bbdim" cBGA ||"Fm7" B2"Bb7" D2"Eb" B,CEG :|2"Eb" E4"Ab" GFAc ||"Eb" !fermata!e8 |] %47
+w: vous * * * *|* * At the Ba- la|vous.- * * * *||
+

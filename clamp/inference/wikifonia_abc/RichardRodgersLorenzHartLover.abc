@@ -1,0 +1,26 @@
+X:1
+T:Lover
+T: LOVER
+T:HART &  RODGERS
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Waltz-Jazz""C" c z c- | c B3/2 c/ |"F#m7" B z B- |"B7" B ^A3/2 B/ |"Fm7" _B z B- | %5
+"Bb7" B A3/2 _B/ |"Em7" A3- |"A7" A3 |"Ebm7" _A z A- |"Ab7" A G3/2 _A/ |"Dm7" G z G- |"G7" G A B | %12
+"Em7" G3- |"Eb7" G3- |"Dm7" G3- |"Db7" G3 |"C" c z c- | c B3/2 c/ |"F#m7" B z B- |"B7" B ^A3/2 B/ | %20
+"Fm7" _B z B- |"Bb7" B A3/2 _B/ |"Em7" A3- |"A7" A3 |"Ebm7" _A z A- |"Ab7" A G3/2 _A/ | %26
+"Dm7" G z G- |"Db7" G F G |"Cmaj7" E3- |"C6" E3 |"F#m7" z3 |"B7" z3 |"Emaj7" z/ ^G/ A G | %33
+"Fdim" A ^G A |"F#m7" B2 B |"B7" z/ ^D/ ^F A |"Emaj7" ^G A G |"Fdim" A ^G A |"F#m7" B2 ^G | %39
+"B7" F ^F2 |"Gmaj7" B c B |"G#dim" c B c |"Am7" d2 d- |"D7" d ^d e |"Dm7" G3- |"G7" G3- | %46
+"Dm7" G3- |"Db7" G2 z |"C" c z c- | c B3/2 c/ |"F#m7" B z B- |"B7" B ^A3/2 B/ |"Fm7" _B z B- | %53
+"Bb7" B A3/2 _B/ |"Em7" A3- |"A7" A3 |"Ebm7" _A z A- |"Ab7" A G3/2 _A/ |"Dm7" G z G- |"G7" G d e | %60
+"C" c3- |"Dbmaj7" c3- |"C" c3- | c z2 |] %64
+

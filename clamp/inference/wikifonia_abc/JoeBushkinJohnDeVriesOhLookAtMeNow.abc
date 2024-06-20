@@ -1,0 +1,32 @@
+X:1
+T:Oh! Look At Me Now
+T:Oh! Look At Me Now
+C:Joe Bushkin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z3 c |"F9" dcdc"Abm" BABA |"F9" G4"Bdim" B"Bb13" G3 |"Gm7" F"Cm7" E3"F9" c"Bb7" B3- | %4
+w: I|nev- er fell for sim- ple things like|love, June, and|old lace, my face|
+ B2 G2"G7" FG F2 |"Cm" E2"E6" =E2 ^F2 ^G2 | ^cccc- c4 |"F7" z EFG ABcc |"Bb7" c6 z B || %9
+w: * was ter- rib- ly|blank to things con-|cern- ing L'a- mour *|I'm real- ly read- y now for|sure. For|
+"Eb6" edB"Gm"G- G3 G |"Bbm7" BcBc- c"Eb7" B3 |"Ab" cBGE- E3 E |"Abm" FEFG- GABG- | %13
+w: I'm not the guy * who|cared a- bout love, * And|I'm not the guy * who|cared a- bout for- * tunes and such,|
+"Gm" G4"Db7" GABG- |"C7" G e3"Am7b5" cE"B7" ^F2 |"Bb7""Bb7b5" F8- |"Bb7" F2 z2 z4 | %17
+w: * Nev- er cared much|* But look at me|now.||
+"Eb6" edB"Gm"G- G3 G |"Eb7" BcBc- c B3 |"Ab" cBGE- E3 E |"Abm" FEFG- GABG- |"Gm" G4"Db7" GABG- | %22
+w: I nev- er knew * the|tech- nique of kiss- * in',|I nev- er knew * the|thrill I could get * from your touch,|* Nev- er knew much|
+"C7" G e3"F9" cE"Bb13" G2 |"Eb" E8- |"Eb7" E2 z2"D7" z4 |"Gm" D2 =E2 ^F2 ^G2 | %26
+w: * Oh! look at me|now.||I'm a new man,|
+"Eb9" B G2"D7" =A- A4 |"Gm" G=ABc"D+" d2 B"C7"G- |"Gm""C7" G8 |"Fm" C2 D2 =E2 F2 | %30
+w: bet- ter than *|Cas- a- nov- a at his best,||With a new heart,|
+"Db7" A F2"C7" G- G4 |"Fm" FGAB cAcd- |"Bb7" d6 z"Bb+" B |"Eb" edB"Gm"G- G3 G | %34
+w: brand new start, *|I'm so proud I'm bust- in' my vest!|* So|I am the guy * who|
+"Bbm7" BcB"Eb13"c- c"Eb7" B3 |"Ab" cBGE- E3 E |"Abm" FEFG- GABG- |"Gm" G4"Db7" GAB"C7"G- | %38
+w: turned out a lov- * er|So I'm the guy * who|laughed at those blue * dia- mond rings,|* One of those things,|
+ G e3"F9" cE"Bb13" G2 |"Eb""Abm" E8- |"Eb" E6 z2 |] %41
+w: * Oh! look at me|now.||
+

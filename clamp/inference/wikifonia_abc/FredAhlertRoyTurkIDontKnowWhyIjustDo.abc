@@ -1,0 +1,22 @@
+X:1
+T:I Don't Know Why (I just Do)
+T:I Don't Know Why (I just Do)
+C:Fred Ahlert
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Bbmaj7" FFFF- F3 F |"Bb6" GG (3GGG- G4 |"Dm7" AAAA-"Db+7" AG A2 |"Cm7""F7" G8 | AAAA- A3 A | %5
+w: I don't know why * I|love you like I do, *|I don't know why * I just|do.|I don't know why * you|
+"Cm7" BB (3BBB- B4 | cccc-"F7" cB"F7b9" A2 |"Bb6" G6 z ^c |"Bb" d^c"Bb7/Ab"dc"G7" d e2 B | %9
+w: thrill me like you do, *|I don't know why * you just|do. You|nev- er seem to want my ro-|
+"C9" d4"F9" c3 F |"Bb" BABA"C9" B d2 c |"Cm7" B2 A2"F9" G2"F7b9" _G2 |"Bbmaj7" FFFF-"Ebmaj9" F3 F | %13
+w: manc- ing, the|on- ly time you hold me is|when we're dan- cing.|I don't know why * I|
+"Dm7" GG (3GGG-"G7" G4 |"Cm7" eeee-"F7b9" ec d2 |"Bb" B2 z2"Cm7b5""F7b9" z4 | %16
+w: love you like I do, *|I dont know why, * I just|do.|
+"Bb""Ab7""A7""Bb6" B8 |] %17
+w: |
+

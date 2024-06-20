@@ -1,0 +1,43 @@
+X:1
+T:Waltz for Debby
+T:Waltz For Debby
+T:Bill Evans
+C:Bill Evans
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Gm7" B3 |"Cm7" E3 |"Fm7" A3 |"Bb7" E3 |"G7" G3- |"C7" G3 |"F7" z F E |"Bb7" D E F |"Eb7" G2 F | %9
+w: In|her|own|sweet|world||Pop- u-|lat- ed by|dolls and|
+w: Lives|my|fav-|v'rite|girl.||Un- a-|ware of the|wor- ried|
+"Ab" E F G |1"Fm7b5" A A G |"Bb7" F G A |"Gm7" B3- |"Cm7" B3- |"Fm7" B3- |"Bb7" B3 :| %16
+w: clowns and a|prince and a|big pur- ple|bear.||||
+w: frowns that we|||||||
+"Eb7""A7" =A2 G |"D7" ^F G =A |"Bm7" =B3- |"Am7" B3- |"^Gma7" B3- |"F#m7" B3 |"Fm7" c3- | %23
+w: wea- ry|grown- ups all|wear.||||In|
+w: |||||||
+"Bb7" c2 B |"Gm7" c3- |"C7b5" c2 B |"Fm7" c B A |"G7" G2 D |"Cm7" F2 E |"Bbm7" c B A | %30
+w: * the|sun|* she|dan- ces to|si- *|mu- sic.|Songs that are|
+w: |||||||
+"^Abma7" G2 A |"G7" G2 D |"Cm7" E G B |"F9" d e c |"^Gbma7" B3- |"^Cbma7" B3- |"Fm7" B3- | %37
+w: spun of|gold some-|where in her|own lit- tle|head.|||
+w: |||||||
+"Bb7" B3 ||"Gm7" B3 |"Cm7" E3 |"Fm7" A3 |"Bb7" E3 |"G7" G3- |"C7" G3 |"F7" z F E |"Bb7" D E F | %46
+w: |||||||||
+w: |One|day|all|too|soon.||She'll grow|up and she'll|
+"Eb7" G2 F |"Ab" E F G |"Fm7b5" A A G |"Bb7" F G A |"Gm7" B3- |"C7b5" B3 | z"Am7" d c | %53
+w: ||prince and her|sil- ly old|bear||When she|
+w: leave her|dolls and her||||||
+"^D7+5" d c d |"Gm7" B3- |"Eb11" B3 |"^Abma7" z B A |"G+7" B A B |"Cm" G3- |"Cm7" G3- |"F7" G3 | %61
+w: goes they will|cry||as they|whi- sper good-|bye.|||
+w: ||||||||
+"Adim" z F E |"Eb6" F E F |"Ebdim" E F E |"Fm7/Bb" c3 |"Bb9" B,3 |"Eb" G3- |"Eb+" G3- |"Eb6" G3- | %69
+w: They will|miss her, I|fear, but then|so|will|I.|||
+w: ||||||||
+ G2 z |] %70
+w: |
+w: |
+

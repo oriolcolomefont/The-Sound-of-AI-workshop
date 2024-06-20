@@ -1,0 +1,23 @@
+X:1
+T:Say Something Sweet To Your Sweetheart
+T:Say Something Sweet To Your Sweetheart
+T:Roy C. Bennet & Sid Tepper
+C:Roy C Bennet & Sid Tepper
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B2 A G | D2 E D |"A7" ^C2 A2- | A4 |"D7" c2 B A | E2 F2 |"G" D4- |"D7" D4 |"G" A2 G F | %9
+w: Say some- thing|sweet to your|sweet- heart,||Tell her how|much you|care.||Say some- thing|
+"Gdim" A G F E |"Am7" G G G E |"D7" F4 |"A7" B2 A ^G | B A G E |"D7" F G A F | E3 D |"G" B2 A G | %17
+w: sen- ti- ment- al|it won't cost a|thing.|You'll find what|hap- pi- ness a|gen- tle word can|bring. You|can't hide those|
+ D2 E D |"A7" ^C2 A2- | A3 B |"D7" c2 B A |"Am7" d2 A ^A |"B7" B4- | B3 _B |"Am" A2 ^G A | %25
+w: love words in-|side you.|* And|still keep the|one you a-|dore.|* So|say some thing|
+"Gdim" e2 e _e |"G" d2 B2- |"E7" B B c B |"A7" A E2 G |"D7" A2 B2 |"G" G4- | G2 z2 |] %32
+w: sweet to your|sweet- heart|* and you'll be|sweet- hearts for|ev- er|more.-||
+

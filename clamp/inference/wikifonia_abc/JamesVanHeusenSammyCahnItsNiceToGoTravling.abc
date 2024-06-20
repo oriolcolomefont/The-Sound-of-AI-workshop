@@ -1,0 +1,48 @@
+X:1
+T:It's Nice To Go Trav'ling
+T:It's Nice To Go Trav'ling
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"G9b5" z A3"G9" A2"G9#5" A2 |"C6" A4- A>G c2 |"Cmaj7" B2"C6" A4"Cmaj7" G2 | %3
+w: It's ver- y|nice * to go|trav- 'ling to|
+"F7" A2 G"F9"c- cc"F9b5" B2 |"F9" A2 A2"F6" A2"F7" A2 |"Dm7" A4- A>G c2 | %6
+w: Par- is, Lon- * don and|Rome, It's oh so|nice * to go|
+"G7" B2"Dm7" A2"G6" G2 E2 |"Ab7" _E2 DF- FEDC |"G7" D2 C=E- EDCB, |"C6" C8 | %10
+w: trav- 'ling, But it's|so much nic- * er, yes, it's|so much nic- * er to come|home.|
+"Dm7" z"G9b5" A3"G9" A2"G9#5" A2 |"C6" A4- A>G c2 |"Cmaj7" B2"C6" A4"Cmaj7" G2 | %13
+w: It's ver- y|nice * to just|wan- der the|
+"F7" A2 Gc-"F9" cc"F9b5" B2 |"F9" A2 A2"F6" A2"F7" A2 |"Dm7" A4- A>G c2 | %16
+w: cam- el route * to I-|raq, it's oh so|nice * to just|
+"G7" B2"Dm7" A2"G6" G2 E2 |"Ab7" _E2 DF- FEDC |"G7" D2 C=E->EDCB, |"C6" C8 | %20
+w: wan- der, But it's|so much nic- * er, yes, it's|oh so nice * to wan- der|back.|
+ z3/2 C/"G" D2"C7" E2 G2 |"E" ^G3"F" A- A"E" G2"F" A |"Gb" _B2 B=B-"G7" BB"G9" A2 |"C""G7b9" G8 | %24
+w: The mam- 'selles and|frau- lein, * and the|se- no- ri- * tas are|sweet,|
+"C" z A2 G"B+" B2"B7" A2 |"Em" G ^F2 G"A+7" A2"A7" G2 |"Dm" =F4"Bb13" G3 F |"C" E2 G2"Am" c4- | %28
+w: But they can't com-|pete 'cause they just don't|have what the|mod- els have|
+"D9" c2 c"D13"d- dc"D7" A2 |"G7sus4" G8 |"G7" z"G9b5" A3"G9" A2"G9#5" A2 |"C6" A4- A>G c2 | %32
+w: * on Mad- * i- son|Ave.|It's ver- y|nice * to be|
+"Cmaj7" c2"C6" A4"Cmaj7" G2 |"F7" A2 Gc-"F9" cc"F9b5" B2 |"F9" A2 A2"F6" A2"F7" A2 | %35
+w: foot- loose with|just a tooth- * brush and|comb, It's oh so|
+"Dm7" A4- A>G c2 |"G7" B2"Dm7" A2"G6" G2 E2 |"Ab7" _E2 DF- FEDC |"G7" D2 C=E- EDCB, |"Em7b5" G8 | %40
+w: nice * to be|foot- loose, But your|heart starts sing- * ing when you're|home- ward wing- * ing 'cross the|foam.|
+"A7" z"A7b9" G2 G"A+7" F2"A7" E2 |"Dm" F D3 z4 |"D#dim" z A2 A G2 ^F2 |"C" G E3 z4 | %44
+w: And you know your|fate is|where the Em- pire|State is,|
+"F#m7b5" z B2 B A2 ^G2 |"B7" A ^F3 z2 F2 |"E7b9" (3d2 d2 d2 (3d2"E+" c2 B2 |"Am""Abdim" c8 | %48
+w: All con- tem- plate|is * the|view from Miss Li- ber- ty's|dome.|
+"C7" z2"C9" d2"C9b5" d2 d2 |"F6" d4- d>c"F9" _e2 |"F6" d2"Fmaj7" c2"F6" A2 F2 | %51
+w: It's ver- y|nice * to go|trav- 'ling, but it's|
+"Em7b5" E3 E-"A7" E3 E- |"D9b5" E4-"G13" E>G"G9#5" A2 |"C6" c8 |"G" z2 ^D>E"Dm7" C"G7" =D3 | %55
+w: oh so * nice|* * to come|home.|No more cust- oms!|
+"C6" z8 |"G" z2 ^D>E"Dm7" C"G7" =D3 |"C6" z8 |"G" z2 ^D>E"Dm7" C"G7" =D3 |"C6" z8 | %60
+w: |Burn the pass- port||no more pack- ing||
+"G" z2 ^D>E"Dm7" C"G7" =D3 |"C6" z8 |"G" z2 ^D>E"Dm7" C"G7" =D3 |"C6" z8 | %64
+w: And un- packing! *||Light the bon- fires!||
+"G" z2 ^D>E"Dm7" C"G7" =D3 |"C6" z8 |"G" z2 ^D>E"Dm7" C"G7" =D3 |"C6" z8 |] %68
+w: Get my slip- pers!||Star a piz- za!-||
+

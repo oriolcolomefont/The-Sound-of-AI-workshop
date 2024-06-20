@@ -1,0 +1,41 @@
+X:1
+T:As The Deer
+T:As the Deer
+T:Martin Nystrom, 1984, Arrangement, Larry Johnson, 2011
+C:Martin Nystrom 1984
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bmin
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z8 | z8 |[Q:1/4=66]"^Worshipfully""Bm" z4"A" z4 |"G" z4"Asus4" z2"A" z2 |"D" F2 A2"A/C#" A2 FE | %5
+w: ||||As the deer pant eth|
+"Bm" D3 E"D/A" GFED |"G" B2 BB"Asus4" A3"A" G |"D" A4"G/A" z2"A" z2 |"D" F2 A2"A/C#" A2 FE | %9
+w: for the wa ter so my|soul long eth af ter|Thee|You a lone are my|
+"Bm" D3 E"D/A" G-FED |"G" D3 F"Asus4" E3"A" D |"D" D6 z2 |"Bm" d2 d2"D/A" d2 dc | %13
+w: heart's de sire _ and I|long to wor ship|Thee.|You a lone are my|
+"G" B2 B2"D/F#" A2 z D |"G" B2 B2"Bm/F#" B2 BA |"Em" G2 G2"F#sus4" F4- | F2"F#" z2"D" F2 A2 | %17
+w: strength my shield to|You a lone may my|spir it yield.|_ You a|
+"A/C#" A2 FE"Bm" D3 E |"D/A" G-FED"G" D3 F |"Asus4" E3 D"D" D4- | D2 z2"D" F2 A2 | %21
+w: lone are my heart's de|si re and I long to|wor ship thee.|_ You're my|
+"A/C#" A2 FE"Bm" D3 E |"D/A" GFED"G" B2 BB |"Asus4" A3"A" G"D" A4 |"G/A" z2"A" z2"D" F2 A2 | %25
+w: friend and you are my|bro ther ev en though you _|are a King|I love|
+"A/C#" A2 FE"Bm" D3 E |"D/A" G-FED"G" D3 F |"Asus4" E3"A" D"D" D4- | D2 z2"Bm" d2 d2 | %29
+w: you more than an y|o ther so much more than|an y thing|_ You a|
+"D/A" d2 dc"G" B2 B2 |"D/F#" A2 z D"G" B2 B2 |"Bm/F#" B2 BA"Em" G2 G2 |"F#sus4" F6"F#" z2 | %33
+w: lone are my strength my|shield to You a|lone may my spir it|yield.|
+"D" F2 A2"A/C#" A2 FE |"Bm" D3 E"D/A" G-FED |"G" D3 F"Asus4" E3 D |"D" D6 z2 | %37
+w: You a lone are my|heart's de si re and I|long to wor ship|thee.|
+"D" F2 A2"A/C#" A2 FE |"Bm" D3 E"D/A" GFED |"G" B2 BB"Asus4" A3"A" G |"D" A4"G/A" z2"A" z2 | %41
+w: I want you more than|gold or sil ver on ly|You can _ sat is|fy|
+"D" F2 A2"A/C#" A2 FE |"Bm" D3 E"D/A" G-FED |"G" D3 F"Asus4" E3"A" D |"D" D6 z2 | %45
+w: You a lone are the|real joy giv er and the|ap ple of my|eye|
+"Bm" d2 d2"D/A" d2 dc |"G" B2 B2"D/F#" A2 z D |"G" B2 B2"Bm/F#" B2 BA |"Em" G2 G2"F#sus4" F4- | %49
+w: You a lone are my|strength my shield to|You a lone may my|spir it yield.|
+ F2"F#" z2"D" F2 A2 |"A/C#" A2 FE"Bm" D3 E |"D/A" G-FED"G" D3 F |"Asus4" E3 D"D" D4- | D4 z4 | z8 | %55
+w: _ You a|lone are my heart's de|si re and I long to|wor ship Thee.|_||
+ z8 | z8 | z8 |] %58
+w: |||
+

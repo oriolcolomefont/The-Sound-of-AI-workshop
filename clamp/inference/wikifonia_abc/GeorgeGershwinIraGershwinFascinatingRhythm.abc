@@ -1,0 +1,28 @@
+X:1
+T:Fascinating Rhythm
+T:Fascinating Rhythym
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Gm7" GBAG"C7" cc z G |"Gm7" BAGc"C7" c z GB |"Gm7" AGcc"C7" z GBA |"Gm7" G2"C7" C6 | %4
+w: Fas- ci- nat- ing rhy- thm You've|got me on the go! fas- ci-|nat- ing rhy- thm I'm all a|qui- ver|
+"Cm7" c_edc"F7" ff z c |"Cm7" _edcf"F7" f z ce |"Cm7" dcff"F7" z c_ed |"Cm7""F7" c2"Bb9" F6 | %8
+w: what a mess you're mak- ing! the|neigh- bors want to know why I'm|al- ways shak- ing just like a|fliv- ver|
+"Bb" z2 F2 B2"Adim" c2 |"Gm7" d2 ce-"C7" ec d2 |"F" A8 |"Em7" cAAA"A7" cAAA |"Dm" z2 F2 A2 c2 | %13
+w: each morn- ing|I get up * with the|sun|(Start a hop- ping nev- er stop- ping)|to find at|
+"Dm7" f2 eg-"G7" gd e2 |"C7" c8 |"Am7b5" z2 d2"D+7" B2"D7" A2 |"Gm7" GBAG"C7" cc z G | %17
+w: night no work * has been|done|I know that|once it did- n't mat- ter but|
+"Gm7" BAGc"C7" c z GB |"Gm7" AGcc"C7" z GBA |"Gm7" G2"C7" C6 |"Cm7" c_edc"F7" ff z c | %21
+w: now you're do- ing wrong when you|start to pat- ter I'm so un-|hap- py|Won't you take a day off? de-|
+"Cm7" _edcf"F7" f z ce |"Cm7" dcff"F7" z c_ed |"Cm7" c2"F7""B9" F6 |"Bb" z2 F2 B2"Adim" c2 | %25
+w: cide to run a- long some- where|far a- way off and make it|snap- py|Oh how I|
+"Gm7" d2 de-"Bb7b5" ed"A7" e2 |"Dm7" z2 f2 g e3 |"G9" d8 |"Gm7" GBAG"C7" cc z G | %29
+w: long to be * the man|I used to|be!|Fas- ci- na- ting rhy- thm Oh|
+"Gm7" BAGd-"G9" df"C13" A2 |"F" F8- | F6 z2 |] %32
+w: wont you stop pick- * ing on|me!||
+

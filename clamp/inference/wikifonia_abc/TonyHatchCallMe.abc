@@ -1,0 +1,41 @@
+X:1
+T:Call Me
+T:Call Me
+T:Tony Hatch
+T:Tony Hatch
+C:Tony Hatch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"C" G2 A2 B2 c2 | d2 cB- B A3 |"Cm7" z2 GA _B c2 d- | d2 c"F7"_B- B A3 |"Bb" z2 FG A _B2 c- | %5
+w: If you're feel- ing|sad and lone * ly,|there's a ser- vice I|* can ren- * der.|Tell the one who loves|
+w: When it seems your|friend's de- sert * you,|there's some- bo- dy think-|* ing of * you,|I'm the one who'll ne-|
+ c2 _BA- A G3 |"Bbm7" z2 FG _A _B2 c- | c2 _B2 _A2"Eb7" B2 |"Abmaj7" _B3"Ab6" _E- E4 | %9
+w: * you on * ly,|I can be so warm|* and ten- der.|Call me! *|
+w: * ver hurt * you.|May- be that's be- cause|* I love you.||
+"Fm7" _BcB_A- AG A2 |"Abmaj7" _B3"Ab6" _E- E4 |"Fm" _BcB_A- AG A2 |"Abmaj7" _B3"Ab6" _E- E4 | %13
+w: Don't be a- fraid * you can|Call me! *|May- be it's late, * but just|Call me! *|
+w: ||||
+"Fm" _BcB_A- AB A2 |1"C" G8- | G6 z2 :|2 G8- || G4 z GGG |"Dm7" d3"G7" e- eGGG | %19
+w: Tell me and I'll * be a-|round.||round.|* Now don't for-|get me, * 'cause if you|
+w: ||||||
+"Dm7" d3"G7" e- e4 |"C" z2 cc BBAA | G4 z GGG |"Dm7" d3"G7" e eGGG |"Dm7" d3"G7" e- e4 | %24
+w: let me *|I will al- ways stay by|you. You got- ta|trust me, * that's how it|must be. *|
+w: |||||
+"C" z2 cc BBAA |"Dm7" d8- |"G7" d4 z4 |"C" G2 A2 B2 c2 | d2 cB- B A3 |"Cm7" z2 GA _B c2 d- | %30
+w: There's so much that I can|do.||If you call, I'll|be right with * you.|You and I should be|
+w: ||||||
+ d2 c"F7"_B- B A3 |"Bb" z2 FG A _B2 c- | c2 _BA- A G3 |"Bbm7" z2 FG _A _B2 c- | %34
+w: * to- geth * er|Take this love I long|* to give * you.|I'll be at your side|
+w: ||||
+ c2 _B2 _A2"Eb7" B2 |"Ab" _B3 _E- E4 |"Fm" _BcB_A- AG A2 |"Ab" _B3 _E- E4 |"Fm" _BcB_A- AG A2 | %39
+w: * for- e- ver.|Call me! *|Don't be a- fraid * you can|Call me! *|May- be it's late, * but just|
+w: |||||
+"Ab" _B3 _E- E4 |"Fm" _BcB_A- AB A2 |"C" A8- | A6 z2 |] %43
+w: Call me! *|Tell me and I'll * be a-|round.||
+w: ||||
+

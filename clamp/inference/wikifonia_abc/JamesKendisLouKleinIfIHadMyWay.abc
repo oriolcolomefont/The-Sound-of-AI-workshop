@@ -1,0 +1,36 @@
+X:1
+T:If I Had My Way
+T:If I Had My Way
+T:James Kendis
+T:Lou Klein
+C:James Kendis
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 G |"C" G2 ^F/G/ |"A7" E2 F/G/ |"D7" A3/2 ^G/ A |"G7" B2 G |"C" G ^F G | E F"A7" G | %7
+w: If|I Had My|Way, dear, for|ev- er there'd|be a|gar- den of|ros- es for|
+"D7" A ^G A |"G7" B2 G |"C" c d c |"E7" B ^G E |"F" A2"Ab7" _A |"C" G2 E/C/ |"D7" D2 E/C/ | %14
+w: you and for|me. A|thou- sand and|one things, dear,|I would|do, just for|you, Just for|
+"Fm6" D2"D7" E/C/ |"G7" G3- | G2 G |"C" G2 ^F/G/ |"A7" E2 F/G/ |"D7" A3/2 ^G/ A |"G7" B2 G | %21
+w: you, on- ly|you.|* If|I had my|way, we would|nev- er grow|old, And|
+"C" c d c |"E7" B ^G E |"F""A7" A3- |"Dm" A2 A/B/ |"Fm6" c2 B/c/ |"F#dim" B2 A/B/ |"C" c2 B/c/ | %28
+w: sun- shine I'd|bring ev- ry|day.|* You would|reign all a-|lone like a|queen on a|
+"A7" e2 f/e/ |"D7" A3 |"G7" B3 |"C" c3- ||[M:2/2] c E"G7" F G |"C" G2 ^F G |"A7" E2 F G | %35
+w: throne, if I|had|my|way.-||||
+"D7" A2 ^G A |"G7" B3 G |"C" G2 ^F G | E2"A7" F G |"D7" A2 ^G A |"G7" B3 G |"C" c2 d c | %42
+w: |||||||
+"E7" B ^G2 E |"F" A2"Ab7" _A2 |"C" G2 E C |"D7" D2 E C |"Fm6" D2"D7" E C |"G7" G4- | G E F G | %49
+w: |||||||
+"C" G2 ^F G |"A7" E2 F G |"D7" A2 ^G A |"G7" B3 G |"C" c2 d c |"E7" B G2 E |"F" A2"A7" G2 | %56
+w: |||||||
+"Dm" F2 A B |"Fm6" c2 B c |"F#dim" B2 A B |"C" c2 B c |"A7" e2 f e |"D7" A4 |"G7" e4 |"C" c4- | %64
+w: ||||||||
+ c2 z2 |] %65
+w: |
+

@@ -1,0 +1,31 @@
+X:1
+T:Feed the Birds
+T:Richard M. Sherman, Robert B. Sherman
+T:Feed the Birds
+T:from Walt Disney's Mary Poppins
+T:Wonderland Music Company Inc. (1963)
+C:Richard M Sherman, Robert B. Sherman
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^Moderato" (C4 C)E | G6 |"F" A (c3 c)A |"C" G6 |"F" A (c3 c2) |"C" e (c3 c2) |"D7" c (B3 B)c | %7
+w: Feed _ the|birds,|tup- pence _ a|bag,|tup- pence, _|tup- pence, _|tup- pence _ a|
+"G7" d6 |"C" (C4 C)E | G4 z2 |"F" A2 c3 A |"C" G6 |"F" A2 c3 A |"C" G4 c2 |"G7" B4 cd |"C" c4 cB | %16
+w: bag.|"Feed _ the|birds,"|That's what she|cries,|while o- ver-|head her|birds fill the|skies. All a-|
+"Am" A4 ^GA |"E7" e2 d3 B |"Am" A4 ^GA |"E7" B2 E3 E |"Am" A4 ^GA |"E7" e4 B2 |"Am" (c6 | %23
+w: round the ca-|the- dral, the|saints and a-|pos- tles look|down as she|sells her|wares.|
+ c2) z2 c2 |"C" c2 B2 c2 |"G7" g2 f3 d |"C" c4 Bc |"G7" d2 G3 d |"C" e4 fe |"E7" d4 cB |"Am" (A6 | %31
+w: _ Al-|though you can't|see it, you|know they are|smi- ling each|time some- one|shows that they|care.|
+"G7" G4) z2 |"C" (C4 C)E | G4 G2 |"F" A (c3 c)A |"C" G4 z2 |"F" A (c3 c2) |"C" e (c3 c)c | %38
+w: _|Though _ her|words are|sim- ple _ and|few,|Lis- ten, _|lis- * * she's|
+"D7" c2 B2 c2 |"G7" d4 z2 |"C" (C4 C)E | G6 |"F" A (c3 c)d |"E7" e4 z2 |"F" e (c3 c2) | %45
+w: cal- ling to|you.|Feed _ the|birds,|tu- pence _ a|bag,|tup- pence, _|
+"D7" e (c3 c2) |"G7" e c3 d2 |"C" c6 |] %48
+w: tup- pence, _|tup- pence a|bag.|
+

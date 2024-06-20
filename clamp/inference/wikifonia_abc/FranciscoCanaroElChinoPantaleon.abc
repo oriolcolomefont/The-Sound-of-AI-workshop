@@ -1,0 +1,24 @@
+X:1
+T:El Chino Pantaleôn
+T:El Chino Pantaleôn
+T:Francisco Canaro
+C:Francisco Canaro
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4 z2 z A, |"A7" GFEF GFEF | G4 z2 z A, |"D" AGFG AGFG | A4 z2 z F |"G" dc B2- Bcde | %6
+"F#m" cB A2 A2 A2 |"Em" BAGF EFGE |"A7" A4 z2 E=F |[K:F]"Gm" GFEF GFEF | G4 z2 z A, | %11
+"Dm" AGFG AGFG | A4 z2 z B, |"Gm" GFEF G3 E |"Dm" FEDE F3 D |"Bb" FDFG"E" E=B,"A7"^CA, | %16
+"Dm" D4 z2 AG ||"Dm" F4 | z2 FF FED^C | E2 D2- D2 z D |"Dm" d_dc=B"D7" _BAG^F |"Gm" G4 z2 d^c | %22
+ dBd^c"C7" dBdc |"F" dAd_d"Bb" c=B_BA |"A7" BAA^G A=GG^F |"Dm" G2 =F2- F2 AG | F4 z2 z2 | %27
+ z2 FA FED^C | E2 D2- D2 z D | d_dc=B"D7" _BAG^F |"Gm" G4 z2 d^c | dBd^c"C7" dBdc | %32
+"F" dAd_d"Bb" c=B_BA |"A7" B2 A2 z GEF |"Dm" D4"_Fine" z4 ||"Gm""^OPTIONAL FILL" g4 f2 e2 | %36
+"Dm" d4 c2 B2 |"A7" A4 ^C4 |"Dm" D4 z4 |] %39
+

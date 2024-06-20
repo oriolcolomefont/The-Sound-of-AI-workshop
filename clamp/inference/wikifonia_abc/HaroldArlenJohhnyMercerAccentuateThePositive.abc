@@ -1,0 +1,30 @@
+X:1
+T:Accentuate The Positive
+T:Accentuate The Positive
+C:Harold Arlen, Johhny Mercer
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Gm7" z4"Gm7/C" z CDF |:"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 |"Bb6" G2 z2"Bbm6" G2 z2 | %4
+w: You've got to|ac- cen-|tu- ate the pos- i- tive,|e- lim-|
+"Db9" z GGF"G+7" _AF"C9"(DC) |"F6" A2 z2"F+" A2 z2 |"F6" z FAF"F7" AG F2 | %7
+w: i- nate the neg- a- tive, _|latch on|to the af- fir- ma- tive,|
+"Gm7" G G2 F"Gm7/C" GAFD |"F" F4- FCDF |"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 | %11
+w: don't mess with mis- ter in be-|tween. _ You've got to|spread joy|up to the max- i- mum,|
+"Bb6" G2 z2"Bbm6" G2 z2 |"Db9" z FGF"G+7" _AF"C9"DC |"F6" A2 z2"F+" A2 z2 |"F6" z FAF"F7" AG F2 | %15
+w: bring gloom|down to the min- i- mum *|have faith|or pan- de- mon- iums *|
+"Gm7" GFGF"Gm7/C" GAFD |"F" F4- Fddc | A2 z2 z ddc |"F9" A2 z2 dc"F+7"_AG |"Bb" F4"Gm7" =AF"C9"DF | %20
+w: li- a- ble to walk up- on the|scene. _ To Il- lus-|trate my last re-|mark, Jon- ah in the|whale, No- ah in the|
+"F" F4- Fddc | A4"F9" z d2 c |"D7b9" _ee"G9" d2"C+7" c2"F9" A2 |"Db11" G8- | %24
+w: ark. * What did they|do, just when|ev- 'ry- thing got so|dark?|
+"C9" G d2 c dc"C9#5"dc |"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 |"Bb6" G2 z2"Bbm6" G2 z2 | %28
+w: _ "Man," they said, "We'd bet- ter|ac- cen-|tu- ate the pos- i- tive,|e- lim-|
+"Db9" z GGF"G+7" _AF"C9"(DC) |"F6" A2 z2"F+" A2 z2 |"F6" z AAF"F7" AG F2 | %31
+w: i- nate the neg- a- tive, _|latch on|to the af- fir- ma- tive,|
+"Gm7" d d2 c"C9sus4" AF"C9"DF |1"F" F4- FCDF :|2"F" F4 z4 |] %34
+w: don't mess with mis- ter in be-|tween." _ You've got to|tween."|
+

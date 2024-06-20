@@ -1,0 +1,13 @@
+X:1
+T:A földvári utca térdig sáros
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ GCB,C E2 C2 | B,C D2 C4 | EG^FG A2 G2 | DE F2 E4 | EG^FG A G2 E | GFED G E2 C | B,C D2 C4 |] %7
+w: A föld- vá- ri ut- ca|tér- dig sá- ros,|A Du- ná- ról men- ni|nem ta- ná- csos,|At- tól fé- lek, meg- ver- nek,|be- tö- rik a fe- je- met|a zsan- dá- rok.|
+

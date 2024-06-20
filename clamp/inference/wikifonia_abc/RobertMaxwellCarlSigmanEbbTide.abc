@@ -1,0 +1,24 @@
+X:1
+T:Ebb Tide
+T:Ebb Tide
+C:Robert Maxwell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"G7" G3 E |"Cmaj7" B,6 CD |"Am7" B,6 CD |"Dm7" E6 FG |"G7" E6 D2 |"C" G6 GF |"Bb" G6 A_B | %7
+w: First the|tide rush- es|in plants a|kiss on the|shore, then|rolls out to|sea and the|
+"A7" G3- G2 FEG |"Fm6" F4 E"G7" D3- | D4 G3 E |"Cmaj7" B,6 CD |"Am7" B,6 CD |"Dm7" E6 FG | %13
+w: sea * is ver- y|still once more.|* So I|rush to your|side like the|on com- ing|
+"G7" E6 D2 |"C" G6 GF |"Bb" G6 A_B |"A7" G6 FE |"A" A6 A2 |"Dm" A6 (3A_BA |"E7" B6 (3EEE | %20
+w: tide, with|one burn- ing|thought will your|arms op- en|wide? At|last we're face to|face, and as we|
+"Am" c6 (3cdc |"Fm6" d6 cd |"C" e6 dc |"^Caug" e6 cd |"Am" e6 dc |"Dm7" e4 e3"G7" e |"C" c6 BA | %27
+w: kiss through an em-|brace, I can|tell, I can|feel, you are|love you are|real. Real- ly|mine in the|
+"Am" c6 BA |"Fm" c6 _BA |"Dm7" G4"G7" G3 E |"Cmaj7" B,6 CD |"Am7" B,6 CD |"Dm7" E6 FG |"G7" E6 DC | %34
+w: rain in the|dark, in the|sun. Like the|tide at it's|ebb I'm at|peace in the|web of your|
+"C" G8- | G4 z4 |] %36
+w: arms||
+

@@ -1,0 +1,30 @@
+X:1
+T:Where Love Has Gone
+T:Where Love Has Gone
+T:Jimmy Van Heusen
+T:Sammy Cahn
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z F ||"Bb" B A/^G/ A2- | A d c B |"Bm7b5" A3/2 _A/"Bdim" _A2 | z2 z D |"Cm" _A G/^F/ G2- | %6
+w: There|must be a place,|* a place where|love has gone.|A|bright shi- ny world|
+ G c B =A |"Edim" G3/2 _G/"Gb7" _G2- | G2 z B, |"Bb" _G F/=E/ F2 | z F"Bb7" F F |"Eb" F _E/D/ E2- | %12
+w: * some- where where|love has gone.|* Where|dreams and de- sires|as cold as|yes- ter- days fires|
+"Cm" E F/E/"Cm6" G E |"D7" D4- | D3 D |"Gm" c B/A/ B2 |"C9" B d2 A |"F" c4- | c2"D7" c2 | %19
+w: * start to blaze a-|new.|* There|must be a star|shin- ing in|space|* that|
+"Gm" c B/A/ B2 | d c"C9" B G |"F9" F4- | F"F9b5" F"F9" F"F9#5" F |"Bb" B A/^G/ A2 | z B c B | %25
+w: does- n't grow dim|with each last em-|brace.|* They say love's|gone when it goes,|but I'm nai-|
+"D+7" e d/^c/ d2- | d d"G7b9" e d |"Cm" f G/A/ G2 | z c d c |"Ab7" e _G/_A/ _G2 |"Cm7b5" z B c B | %31
+w: ve I sup- pose|* There may not|be such a place,|there may not|be such a star.|But still my|
+"Bb" d F/G/ F2 | z"D7" G"Gm7" A B |"C7" c4- | c2"Cm7b5" c2 |"Bb" c B/A/"Edim" B A/G/ |"Cm" e4- | %37
+w: fool of a heart|still leads me|on.|* It|wants to be there, there with|you|
+"Cm7b5" e A"F7#5b9" A A |"Bb" B4 | z B/c/ d d |"Edim" _d/c/ B3- | B c _d B |"Bb" F4 | z B/c/ d d | %44
+w: * where love has||To that bright and|shi- ny world|* where love has|gone.|To that gone for-|
+"Ab9" e/d/ c3 | z d e c |"Bb" B4 |] %47
+w: ev- er world|where love has|gone.|
+

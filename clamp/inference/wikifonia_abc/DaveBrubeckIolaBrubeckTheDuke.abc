@@ -1,0 +1,38 @@
+X:1
+T:The Duke
+T:The Duke
+T:Dave Brubeck
+T:Iola Brubeck
+C:Dave Brubeck
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+|: z3/2"Cmaj7" b/ a2"Fmaj7" ge-e>d |"Em7" c2 G"F#m7"A-"B7" A4 |"Em7" z3/2 D<GB/"Am7" d>dd>d | %3
+w: We dig you, Duke. * We|miss you so. *|We miss your smile that set our|
+"Dm7" e2 c"Fm7"_A-"Bb7" A4 | z3/2"Ebmaj7" G<_AG/"Dbmaj7" F2 c2 |"Cm7" _E2 F"Bm7"D- D4 | %6
+w: hearts a- glow. *|We miss your suave and|grac- ious ways. *|
+"Bbm7" z3/2 _D<"Eb9"_E_D/"Abmaj7" C_A- A2 |1"D7" C2 =D"Db7"B,- B,4 :|2"D7" C2 =D"C"B,- B,4 || %9
+w: We loved you mad- ly *|all your days. *|men seem square. *|
+"F" (3z2 B,2 C2"E7" D2 E2 |"D7" ^F2 G"C"E- E4 |"Bbm7" (3z2 C2 _D2"Ab" _E2 F2 | %12
+w: You had such a|lyr- ic line. *|and a style words|
+"G7" G2 ^G"Fm"F- F2 z3/2 C/ |"Dm7b5" F2"Db11" G"C7b5"_E- E7/2 _B,/ | %14
+w: can't de- fine * Your|soul- ful phrase * as|
+"Cm7b5" E2"F7" F"Bbm"_D- D2- D>D |"Ab6" C2"Bbm7" _D2"Ab" _E2"G7#9" F2 | %16
+w: did a- maze * * us|more than Wil- liam|
+"Fm9" G2"Eb11" _A"Db13"_B- B4 ||"Cmaj7" z3/2 b/ a2"Fmaj7" ge-e>d |"Em7" c2 G"F#m7"A-"B7" A4 | %19
+w: Shake- speare's plays. *|We dig ba- by * we|dig you so. *|
+ z3/2"Em7" D<GB/"Am7" d>dd>d |"Dm7" e2 c"Fm7"_A-"Bb7" A4 |"Ebmaj7" z3/2 G<_AG/"Dbmaj7" F c2 c | %22
+w: We're gonn- na mis you more than|you could know. *|Your love and mus- ic a|
+"Cm7" _E2 F"Bm7"D- D4 |"Bbm7" z3/2 _D<"Eb7"_E_D/"Abmaj7" C_A- A2 |"D7" C2"Db7" =D"Cmaj7"C- C4 | %25
+w: mel- low mix. *|It's all we need- ed *|for some kicks. *|
+"Em" B B3"C6" G G2 G |"Ab+" E2 E"Fm6"C- C2 z e |"C6" g>e"G9"f>d"C6" e>c"G9"d>B | %28
+w: Sing- in' swing- in' no|life's com- plete * un-|til he's known the rhy- thm of that|
+"C6" c>A"G7"B"Cmaj7"G- G4 |"Em7" d d3"Cmaj7" B B2 B |"Am7" G2 G"Fm6"F- F2 z ^D | %31
+w: Ell- ing- ton beat. *|Liv- in', lov- n' the|hu- man race * he|
+"C6" E>G"G9"F>^D"C6" E>CA,>G, |"G9" B,2 B,"C6"C- C4 |] %33
+w: made this cra- zy mixed up world a|swing- in' place. *|
+

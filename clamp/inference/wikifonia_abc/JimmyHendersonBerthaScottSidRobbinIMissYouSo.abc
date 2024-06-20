@@ -1,0 +1,33 @@
+X:1
+T:I Miss You So
+T:I Miss You So 
+T:Jimmy Henderson, Bertha Scott, Sid Robin 
+C:Jimmy Henderson, Bertha Scott, Sid Robbin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: z"G" GAB A G3 |"B7" z BBG A4 |"C" z BBB A2 G2 |"Cm" _E4"Am7b5" A3 A |"D7" F8 | z2 c2 c2 B2 | %6
+w: Those hap- py hou- rs|I spent with you,|that love- ly af- ter|glow, most of|all|I MISS YOU|
+w: ||||||
+"G" B8- |"Am" B2 z2"D7" z4 |"G" z GAB A G3 |"B7" z BBG A4 |"C" z BBB A2 G2 |"Cm" _E4"Am7b5" A3 A | %12
+w: SO.||Your sweet ca- ress- es,|each ren- dez- vous,|your voice so soft and|low, most of|
+w: ||||||
+"D7" F8- | F2 c2 c2 B2 |"G""Am" G8- |"G" G4"F#7" z4 |"Bm" F2 B2"D+" _B2"D" F2 | %17
+w: all|* I MISS YOU|SO.||You once filled mu|
+w: ||||Once you pro- mised|
+"G9" A4"F#7" (3_A2 G2 F2 |"Bm" F6 B2 |"E9" F8 |"Am" E2 A2"C+" _A2"C" E2 |"F9" G4"E9" (3F2 =F2 E2 | %22
+w: heart with no re-|grets, no|fears,|now you'll find my|heart fill'd to the|
+w: me we'd nev- er|part my|dear,|now I long to|see the day I'll|
+"C6""^A9-5" A6 B2 |"D9" A8 |"G" z GAB A G3 |"B7" z BBG A4 |"C" z BBB A2 G2 |"Cm" _E4"Am7b5" A3 A | %28
+w: top with|tears.|||||
+w: find you|near.|I'll al- ways love you|and want you too,|how much you'll ne- ver|know, most of|
+"D7" F8 | z2 c2 c2 B2 |1"G""G#dim" G8 ||"Am""D7" z8 :|2"G""G7""C""Cm" G8- || G6 z2 |] %34
+w: ||||SO.||
+w: all|I MISS YOU|SO.||||
+

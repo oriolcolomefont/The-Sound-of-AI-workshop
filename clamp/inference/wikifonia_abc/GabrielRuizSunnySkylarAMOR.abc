@@ -1,0 +1,28 @@
+X:1
+T:AMOR
+T:AMOR
+T:Gabriel Ruiz
+T:Spanish lyrics: Ricardo Lopez Mendez  English lyrics: Sunny Skylar 
+C:Gabriel Ruiz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" G4 A3 A | z B2 A4- A | G2 A4- A2 | B3 A- A z c2 |"C" c4 G4 | G6 E z | E8- | E z/ C2 D2 z/ E2 | %8
+w: |||* * * A-|mor, A-|mor- A|mor-|* This word so|
+ G4 z CDE | A4 z CDE |"Dm7" F4"G7" G4- | G4 z z d2- |"Dm" d2 d4 z A | A2 z4 z F | z4 F4- | %15
+w: sweet that I re|peat Means I a|dore you||* more, A|mor my||
+ F4 DEF z |"G7" G4 z ABA | G4 z EGE |"D" D4"C" C4- | C4 B,2 z2 |"Em" B2 GA BBcB | %21
+w: * Would you de-|ny- this heart that|I have placed be-|fore you|* I|can't find an- oth- er word with|
+"B7" A2 AG ^F2 z B, | A2 ^F/G/A/A/ BA z z/ z/ |"Em" G2 G^F E z D z |"G7" d2 Bc"D" ddcB | %25
+w: mean- ing so clear My|* try to whis- per sweet- er|things in your ear But|some- how or oth- er noth- ing|
+"Am" c2 cB"D7" A2 z D | c2 AB cABc |"G7" d6 z c |"C" c6 z G | G6 z E | E8- | E4 z CDE | G4 z CDE | %33
+w: sounds quite so dear, As|this soft ca- ress- ing word I|know A-|mor A-|mor A-|mor|* When you're a-|way there is no|
+ A4 z CDE |"G7" F4 G4- | G4 z z d z |"Dm" d6 A3/2 z/ | A6 F z | F8 | z4 z DEF |"G7" G4 z ABA | %41
+w: day and nights are|lonely *|* A-|mor A-|mor my|love|make life di-|vine, Say you'll be|
+ G4 z GAB |"C" d3 c4- c- |"Ab7" c4 c4- |"C" c2 z6 |"Ab7" c8 |"C" z2 z6 | z2 z2 z4 |] %48
+w: mine, and love me|on- ly. A-||||||
+

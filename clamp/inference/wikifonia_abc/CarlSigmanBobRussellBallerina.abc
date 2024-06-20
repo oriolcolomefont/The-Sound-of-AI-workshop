@@ -1,0 +1,30 @@
+X:1
+T:Ballerina
+T:Ballerina
+C:Carl Sigman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" C2 EG c2 c2 |"C6" A8 |"C" z CEG c2 d2 | B3 G"F/C" AF"C#dim7"GE |"Dm7" F G2 D-"G7" D4- | %5
+w: Dance Bal- le- ri- na|dance|And do your pir- ou-|ette in rhy- thm with your|ach- ing heart. _|
+"Dm7" D6"G7" z2 |"Dm" D2 FA d2 d2 |"Dm6" B8 |"Dm" z DFA d2 e2 |"Dm" ^c3 A"Dm7" =cA"G+7"BG | %10
+w: _|Dance Bal- le- ri- na|dance|You must'- n't once for-|get a dan- cer has to|
+"C" A B2 E- E4- | E8 |"C" C2 EG c2 c2 |"C6" A8 |"C" z CEG c2 d2 | B3 G"F/C" AF"C#dim7"GE | %16
+w: dance the part. _|_|Whirl Bal- le- ri- na|whirl|And just ig- nore the|chair that's emp- ty in the|
+"Dm7" F G2 D-"G7" D4- |"Dm7" D6"G7" z2 |"Dm" D2 FA d2 d2 |"Dm6" B8 |"Dm" z DFA d2 e2 | %21
+w: sec- ond row. _|_|This is your mo- ment|girl|Al- tho' he's not out|
+"Dm" ^c3 A"Dm7" =cA"G+7"BG |"C" A B2 E- E4- | E4 ^D2 E2 |"E7" d8- | ddcB"B7b5" A2"E7" ^G2 | %26
+w: there ap- palud- ing as you|steal the show. _|_ Once you|said|_ his love must wait it's|
+"Am""Dm6" B8- |"Am" BcBA"A7" G2"A+" F2 |"Dm" A8- |"Dm" AFGA"D7" c2 B2 |"Dm7/G" d4- dAcA | %31
+w: turn.|_ You want- ed fame in-|stead|_ I guess that's your con-|cern, _ we live and|
+"G7" B4- BGFD |"C" C2 EG c2 c2 |"C6" A8 |"C" z CEG c2 d2 | B3 G"F/C" AF"C#dim7"GE | %36
+w: learn _ And love is|gone, Bal- le- ri- na|gone.|So on with your ca-|reer, you can't af- ford a|
+"Dm7" F G2 D-"G7" D4- |"Dm7""G7" D8 |"Dm" D2 FA d2 d2 |"Dm6" B8 |"Dm" z DFA d2 ^c2 | e3 ^c dBcA | %42
+w: back- ward glance. _|_|Dance on and on and|on.|A thou- sand peo- ple|here have come to see the|
+"G7" B3 A BGAF | G3 F GEFD |"C" C8 |"Db9" c8 |"C" c8 |] %47
+w: show as 'round and 'round you|go, So Ba- le- ri- na|dance,|dance,|dance.|
+

@@ -1,0 +1,32 @@
+X:1
+T:The Story of My Life
+T:The Story of My Life
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/4
+Q:1/4=115
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" G A G"C" e- | e2 z"C" c |"C" e d B"E" ^G- | G2 z"F" A |"F" d2 c"F" c- | c3/2"F" A2- A/ | %6
+w: Lone ly to night|_ lone|ly yes ter _|day Lone|ly to mor|_ row _|
+ z"Fdim" ^G A"Dm" d- | d3/2 d3/2"G" B- | B2 A"C" G- | G3 z |:"C" G A E"F" F- | F E D E | F"G" B3 | %13
+w: Thats the stor|_ y of|_ my _|life|I used to sit|_ a round just|wait ing|
+"F" A"C" G2 F | E F"C" G2- | G z"C" c"C" c- | c B A B | c"C" e3 | z"C" d c B |"Dm" d3 F |"F" A3 z | %21
+w: for love to|come to me|_ But that|_ gets a gra|vat ing|And lone some|as can|be|
+"C" G A G"C" e- | e3/2 z/"C" G A | G"C" e3- | e/ z/"C" c e d |"D" B3 z |"C" E F E"F" c- | %27
+w: In all my dreams|_ It al|ways seems|_ Some one loves|me|Then I a wake|
+ c z"C" E A | c"G" B3 | A"G" B3 | z"F" c B _B |"F" A3 z |"Ddim" _A =A"F" g f |"F" g3 z | %34
+w: _ and find|that it's|not right|Lone ly to|night|Lone ly yes ter|day|
+"F" f"F" g2 z |"F" f"C" e2"Gdim" ((((^c-)))) | c3 z |"Gdim" f e"Dm" d2- | d A"G7" B2- | %39
+w: lone ly|to mor row|_|Thats the stor|_ y of|
+ B"G7" G2"C" c- | c2- c z :| %41
+w: _ my life|_ _|
+

@@ -1,0 +1,34 @@
+X:1
+T:Nearer My God To Thee
+T:Nearer My God To Thee
+T:Lowell Mason
+T:Sarah F. Adams
+C:Lowell Mason
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" A2 G"F7" F |"Bb" F3/2 D/ D2 |"F" C2 F A |"C7" G4 |"F7" A2 G F |"Bb" F3/2 D/"G#dim" D2 | %6
+w: Near- er my|God to Thee,|Near- er to|Thee!|E'en though it|be a cross|
+w: Though like the|wan- der- er,|the sun gone|down,|Dark- ness be|ov- er me,|
+w: There let the|way ap- pear,|steps un- to|Heav'n,|All that thou|send- est me,|
+w: Then with my|wak- ing thoughts|bright with Thy|praise,|Out of my|ston- y griefs|
+w: Or if on|joy- full wing,|cleav- ing the|sky,|Sun, moon, and|stars for- got,|
+"F" C F"C7" E G |"F" F4 |"F" c2"Bb" d c |"F" c3/2 A/ c2 |"F" c2"Bb" d c |"F/C" c3/2 A/"C7" G2 | %12
+w: that _ rais- eth|me.|Still all my|dreams shall be|Near- er, my|God to Thee.|
+w: my _ rest a|stone;|Yet in my|dreams I'd be|||
+w: in _ mer- cy|giv'n;|An- gels to|beck- on me,|||
+w: Beth- * el I'll|raise;|So by my|woes to be|||
+w: up- * wards I'll|fly;|Still all my|song shall be,|||
+"F7/C" A2 G F |"Bb" F3/2 D/"G#dim" D2 |"F" C F"C7" E G |"F" F4 |] %16
+w: Near- er, my|god to Thee,|Near- * er to|Thee!|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

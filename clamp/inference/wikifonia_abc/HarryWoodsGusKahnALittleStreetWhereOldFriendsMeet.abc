@@ -1,0 +1,30 @@
+X:1
+T:A Little Street Where Old Friends Meet
+T:A Little Street Where Old Friends Meet
+C:Harry Woods
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G2 G4 |"Cdim" G2 G4 |"Fm" A2 C2"Abm" A2 |"Bb7" G6 |"Fm" A2 C2"Abm" A2 |"Bb7" G4"Bb+" ^F2 | %6
+w: Home- sick,|heart- sick,|noth- ing seems|real;|That's how I|feel to-|
+"Eb" G6- | G4 z2 | G2 G4 |"Cdim" G2 G4 |"Bb" B2 D2 G2 |"Cdim" F6 |"Cm" F2 F2 F2 |"F7" G4 E2 | %14
+w: day,|_|Home- town,|my town,|I hear you|call,|Call- ing me|far a-|
+"Bb7""Dm" B6- |"Cdim" B4"Bb7" B,2 |:"Ebmaj7" B3 =A cB |"G7" D4 E2 |"Cm7" G4 _G2 |"F7" F4 F2 | %20
+w: way.|_ It's|just a lit- tle|street where|old friends|meet, I'd|
+"Fm7" c3 _c B=A |"Bb7" _A4 ^F2 |"Ebmaj7" G6- | G4 E2 | D3 E DC |"F#dim7" D3 E DC |"Fm7" A4 C2 | %27
+w: love to wand- er|back some-|day.|_ To|you it may be|old and sort of|tum- ble|
+"Bb7" D6 |"Fm7" D3 E DC |"Bb7" D3 E =EF |"Fm7""Bb7" c4 ^F2 |"Ebmaj7" G4 B,2 | B3 =A cB | %33
+w: down,|but it seems a|lot to folks in|my home|town. Al-|though I'm rich or|
+"G7" D4 E2 |"Cm7" G4 _G2 |"F7" F4 F2 |"Fm7" c3 _c B=A |"Bb7" _A4"Ab7" ^F2 |"G" G6- | G4 G2 | %40
+w: poor, I|still feel|sure I'm|wel- come as the|flow'rs in|May;|_ It's|
+"Abmaj7" F3 F =EF |"Adim7" d4 c2 |"Ebmaj7" e4 d2 |"C7" c4 G2 |"Fm7" B3 A cA |"Bb7" G4 G2 |1 %46
+w: just a lit- tle|street where|old friends|meet and|treat you in the|same old|
+"Ebmaj7" E6- |"Fm7" E4"Bb7" B,2 :|2"Ebmaj7" E6- | E4 z2 |] %50
+w: way.|_ It's|way.||
+

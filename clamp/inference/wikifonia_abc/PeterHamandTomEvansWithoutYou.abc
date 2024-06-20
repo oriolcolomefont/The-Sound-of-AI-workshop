@@ -1,0 +1,27 @@
+X:1
+T:Without You
+C:Peter Ham and Tom Evans
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble transpose=-12 nm="Guitar"
+%%MIDI program 25
+V:1
+ z4 z2 Ac |:"F" dddc c/G/A Ac |"Dm" dddc c/G/A cc |"Gm" cBBA AGGF |"A+7" A4-"A7" AAAG | %5
+w: Well I|can't for- get this eve- ning- * And your|face when you were leav- ing * But I|guess that's just the way the sto- ry|goes- * You al- ways|
+w: |can't for- get to- mor- row * When I|think a- bout my sor- row * * I|had you there and then I let you|go * And now it's|
+"Dm" FAAd"Dm/C" dffd |"Bb" d2-"Bb/A" d2-"Bb/G" d2 dd |"F" cG A6 |"C9" D2 E2 D2"C7" Ac :|2 %9
+w: smile but in your eyes your sor- row|shows * * Yes it|shows * *|* * * Well I|
+w: on- ly fair that I should let you|know * what you should|know * *||
+"C9" D2 E2 D2"C7" E/F/F ||S"F" A4- A3 F |"Dm" G/F/F/D/ FG- G/F/D AA |"Gm" B6 AA | %13
+w: * * * * I can't|live * if|liv- ing is with- out you * * * I can't|live I can't|
+w: ||||
+"C7" BAGB- B2 z/ F/F |"F" A4- A3 F |"Dm" G/F/F/D/ FG- G/F/D AA |"Gm" B6 AA | %17
+w: live an- y more * I can't|live * if|liv- ing is with- out you * * * I can't|live- I can't|
+w: ||||
+"C7" BAGB- B2 z/ F/F"^D.S. and fade" |] %18
+w: live an- y more * I can't|
+w: |
+

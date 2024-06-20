@@ -1,0 +1,27 @@
+X:1
+T:I Went To Your Wedding
+T:I went to your wedding
+T:Jessie Mae Robinson
+C:Jessie Mae Robinson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 C |:"F" F E F |"C7" G C3/2 C/ |"F" A G A |"C7" B C3/2 C/ |"F" c2 c |"D7" c2 A | G3- | %8
+w: I|went to your|wed- ding al-|tho I was|dread- ing the|thought of|los- ing|you|
+"G7" G2 C |"F" F E F |"C7" G C3/2 C/ |"F" A G A |"C7" B C3/2 C/ |"F" A2 A |"C7" B2 E |"F" F3- | %16
+w: * the|or- gan was|play- ing my|poor heart kept|say- ing your|dreams your|dreams are|thru|
+ F2 F |"Bb" d d d |"C" d3 |"F" c c c |"D7" c2 c |"Gm" B A B |"C7" d2 c |"F" c3- |"F7" c2 F | %25
+w: * you|came down the|aisle|wear- ing a|smile a|vis- ion of|love- li-|ness|* I|
+"Bb" d d d |"C" d2 d/d/ |"F" c c c |"D7" A2 A |"G7" A2 G/F/ | A2 G- |"C7" G3- | G2 C |"F" F E F | %34
+w: ut- tered a|sigh whis- pered|good- bye good-|bye to|my hap- pi|ness *||* your|moth- er was|
+"C7" G C3/2 C/ |"F" A G A |"C7" B C3/2 C/ |"F" c2 c |"D7" c2 A |"Gm7" G3- |"C7" G2 C |"F" F E F | %42
+w: cry- ing your|fa- ther was|cry- in and|I was|cry- in|too|* the|tear- drops were|
+"C7" G C3/2 C/ |"F" A G A |"C7" B2 E |1"F" F3- ||"Dm" F2 z |1"Gm" z2"C7" C :|2"F" F3- ||"Dm" F3- | %50
+w: fall- ing be-|cause we were|los- ing|you|||you||
+"Gm7" F3- |"F" F z2 |] %52
+w: ||
+

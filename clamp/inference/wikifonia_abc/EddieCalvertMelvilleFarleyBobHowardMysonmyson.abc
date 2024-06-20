@@ -1,0 +1,30 @@
+X:1
+T:My son, my son
+T:My son My son
+T:Eddie Calvert, Melville Farley,
+T:Bob Howard,
+C:Eddie Calvert, Melville Farley,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z3"F" c || c3 A | A3 c | c A G A |"C7" B3 d |"Gm" d3 B |"Gm7" B3 d | d B"Am" A"C7" B |"F" c3 c | %9
+w: My|son my|son you're|ev- ry- thing to|me my|son my|son you're|all I hoped you'd|be my|
+ c3 A | A3 c |"D7" c A B c |"Gm" d3 d |"Gm7" d d"C7" c B |"F" A3 A |"Gm" B B"C7" A G |"F" F C F G | %17
+w: son my|son my|on ly pride and|joy God|bless and keep you|safe My|own my prec- ious|boy For all the|
+[K:Ab]"Fm" c3 A | A A B A |"C7" G F =E2- | =E C =E F |"C7" G3 G | G G A B |"Fm" c4- | %24
+w: care and|heart- che life has|brought to me|* one prec- ious|gift has|made it all worth|while|
+"C7" c"Fm" F B c |"Bbm" d3 d | d d e d |"Fm" c B A2- | A c d c |"C7" B A G B |"Db7" A G"C7" F =E | %31
+w: * for heav- en|blessed and|with great joy re-|ward- ed me|* for I can|look and see my|own be- lov- ed|
+"Fm" F4- | F3 c |:[K:F]"F" c3 A | A3 c | c A G A |"C7" B3 d |"Gm" d3"Gm7" B | B3 d | d B"C7" A B | %40
+w: son|* my|son my|son your|sor- rows let me|bear my|son my|son your|laugh- ter let me|
+"F" c3 c | c3 A | A3 c |"D7" c A B c |"Gm" d3 d | d d"C7" c B |"F" A3 A |"Gm" B B"C7" A G | %48
+w: share my|son my|son each|night for you I|pray that|life for you will|be a|bless- ing ev- ry|
+"F" F3 c :|"F" F4- | F c c c ||"F" c4- | c F A c |"Gm" B4 | B d d d- |"Cm7" d4- | d G B d | %57
+w: day my|man|* my son my|son|* my pride and|joy|my son my son||* my life my|
+"F" f4- | f4 |] %59
+w: boy||
+

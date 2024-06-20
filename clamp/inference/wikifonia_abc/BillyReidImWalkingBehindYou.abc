@@ -1,0 +1,26 @@
+X:1
+T:I'm Walking Behind You
+T:I'm walking behind you
+T:unknown
+T:Big band
+C:Billy Reid
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ D D/G/ B |"C" e2"G" d2- | d"F" B B/c/ B |"Am" A4- | A"D7" D D/F/ A |"Am" e2 d2 |"D7" d A A/B/ A | %7
+w: I'm walk- in' be-|hind you|_ on your wed- ding|day|_ and I'll hear you|prom- ise|to love and _ o-|
+"G" G4- | G G G/B/ d | a2 g2- | g"G7" g g/a/ g |"C" A4- | A"G" g g/f/ e |"G7" B2 d2- | %14
+w: bey|_ though you may for-|get me|_ your still on my|mind|_ Look ov- er your|shoul- der|
+ d"D7" c c/B/ A |"C" G4- | G"G" G A B |"Am" c3/2 c/ c2- | c"D7" d/c/ B c |"G" d4- | d B d e | %21
+w: _ I'm walk- ing be-|hind.|_ May- be I'll|kiss a- gain|_ with a love that's|new|_ But I shall|
+"Em" g3/2 g/ g2- | g"A7" f/g/ f e |"Am" A4- |"D7" A D D/G/ B |"C" e2"G" d2- | d"F" B B/c/ B | %27
+w: wish a- gain|_ I was kiss- ing|you|_ Cause I'll al- ways|love you|_ wher- ev- er you|
+"Am" A4- |"D7" A D D/F/ A |"Am" e2 d2- | d"D7" A A/B/ A |"G" G4- |"C" G"G" G G/B/ d | a2 g2- | %34
+w: go|_ and though we are|par- ted|_ I want you to|know|_ that if things go|wrong dear|
+ g"G7" g g/a/ g |"C" A4- | A g"G" g/f/ e | B2 d2- | d"D7" c c/B/ A |"C" G4- |"G" G z z2 |] %41
+w: _ and fate is un-|kind|_ Look ov- er your|shoul- der|_ I'm walk- ing be-|hind.|_|
+

@@ -1,0 +1,32 @@
+X:1
+T:Estate
+T:ESTATE
+T:BRUNO MARTINO
+C:Bruno Martino
+Z:All Rights Reserved
+L:1/8
+Q:1/4=108
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Slow" B, |:"Dm" A,A,- A,4- A,A, |"Gm7" B,B,DD"A7" FFEE |"Dm" A,A,- A,4- A,A, | %4
+w: E-|sta- te, _ _ sei|cal- da co- me~un ba- cio che~ho per-|du- to, _ _ sei|
+"Gm7" B,B,DD"C7" AAGG |"Cm7" CC- C4-"F7" CC |"Bb" DDFF"Gm7" cBFD |"Em7" A8- |"Am7" A4 (3c2 A2 G2 | %9
+w: pie- na di~un a- mo- re che~e pas-|sa- to, _ _ Che~il|cuo- re mio vor- reb- be can- cel-|lare.|_ O- dio l'e-|
+"Dm" AA- A4- AA, |"Gm7" B,B,DD"A7" FFEE |"Dm" A,A,- A,4- A,A, |"Gm7" B,B,DD"C7" AAGG | %13
+w: sta- te, _ _ il|so- le che~og ni gior- no ci scal-|da- va, _ _ Che|splen- di- di tra- mon- ti di- pin-|
+"Cm7" CC- C4-"F7" CC |"Bb" DDFF"Gm7" cBFD |"Em7" A8- |"A7" A2 A=B ^c2 Bc |"D" AA- A4- AA | %18
+w: ge- va. _ _ A-|des- so bru- cia so- lo con fu-|ror.|_ Tor- ne- ra~un alt- ro~in|ver- no, _ _ Ca-|
+"G#m7b5" =BBdd"C#7" ^ccBc |"F#m7" AA- A4-"B7" AA |"Gm7" GGBB"C7" AAGA |"Cm7" CC- C4-"F7" CC | %22
+w: dran- no mil- le pe- ta- li di|ro- se, _ _ la|ne- ve co- pri- ra tut- te le|co- se, _ _ E-|
+"Bb" DDFF"Gm7" cBFD |"Em7" A8- |"Am7" A4 (3c2 A2 G2 |"Dm" AA- A4- AA, |"Gm7" B,B,DD"A7" FFEE | %27
+w: for- se~un po' di pa- ce tor- ne-|ra.|_ O- dio l'e-|sta- te, _ _ che~ha|da- to~il suo pro fu- mo~ad og- ni|
+"Dm" A,A,- A,4- A,A, |"Gm7" B,B,DD"C7" AAGG |"Cm7" CC- C4-"F7" CC |"Bb" DDFF"Gm7" cBFD |"Em7" A8- | %32
+w: fio- re, _ _ l'e-|sta- te che~ha cre- a- to nos- tro~a|mo- re, _ _ per|far- mi poi mo- ri- re di do-|lor.|
+"A7" A8 |] %33
+w: _|
+

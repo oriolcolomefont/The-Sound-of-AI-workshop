@@ -1,0 +1,19 @@
+X:1
+T:Szomorú vasárnap
+T:Szomorú vasárnap
+T:Seress Rezső
+C:Seress Rezső
+Z:Public Domain
+L:1/16
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Cm" CCC2 EEE2 GGG2 cc!fermata!c2 | e2dce2dc e2dc"G" GG!fermata!G2 | %2
+w: Szo- mo- rú va- sár- nap száz fe- hér vi- rág- gal|vár- ta- lak, ked- ve- sem, temp- lom- i i- má- val,|
+"Fm" cBA2 cBA2 cBA2"G" GG!fermata!G2 |"Cm" GFE2 GFE2 GFE2"G" DD!fermata!D2 | %4
+w: Ál- mo- kat ker- ge- tő va- sár- nap dél- e- lőtt|bá- na- tom hin- ta- ja nél- kü- led visz- sza- jött.|
+"Cm" CCC2 EEE2 GGG2 cc!fermata!c2 | e2dce2dc e2dc"G" dd!fermata!d2 | z8 GGG2"Cm" CCC2 |] %7
+w: Az- ó- ta szo- mo- rú min- dig a vas- ár- nap,|könny csak az i- ta- lom, ke- nye- rem a bá- nat,|szo- mo- rú vas- ár- nap.|
+

@@ -1,0 +1,48 @@
+X:1
+T:You Don't Own Me
+C:Madera
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+ C/B,/ |"Am" A,3 | E3 | A3- | A2 C/B,/ |"Am" A,3 | C3 | A3 | A3- | A2 C/B,/ |:"Am" A, E C | %11
+w: ||||||||||1. You Don't|
+w: ||||||||||2. You Don't|
+"Dm" F D2- | D z z |"E7" E D B, |"Dm9" D E D- |"E7" D C B, |"Am" A,3 | z E C |"Dm" F D2- | D z z | %20
+w: Own Me|_|I'm not just|one of your|_ man ly|toys|You Don't|Own Me|_|
+w: Own Me|_|Don't try to|change me in|_ an y|ways|You Don't|Own Me|_|
+"E7" E D B, |"Dm9" D E D- |"E7" D C B, |"A" A,3 |"A" z z z | z z z | z z A |[K:A]"A" A3 | A A B | %29
+w: Don't say I|can't go with|_ oth er|boys!||||Don't|_ tell me|
+w: Don't tie me|down 'cuz I'd|_ nev er|stay!|||I|don't|_ tell you|
+ c B A- | A2 z/ A/ |"F#m" A3 | A A B | c B A- | A3 |"D" A3 | A A B | c B A- | A3 |"E7" B3 | B B c | %41
+w: what to do||Don't|_ tell me|what to say|_|Please,|when I go|out with you|_|Don't|_ put me|
+w: what to say|_ I|don't|_ tell you|whom to do|_|Just|_ let me|be my self|_|That's|_ all I|
+ d/c/ B2 | B2 E | E3 :|[K:Bb]"Bb" B3 | B B c | d c B- | B2 z/ B/ |"Gm" B3 | B B c | d c B- | B3 | %52
+w: on dis play|* Be|cause:|Young|_ and I|love to be|young I'm|free|_ and I|love to be|free|
+w: ask of you!|_ _|I'm|||||||||
+ z z B |"Eb" B B/B/ c | d c B- | B3 |"F7" c3 | c c d | e/d/ c2 | c2- F |"Gm" z D B, |"Cm" E C2- | %62
+w: To|live my life the|way I want|!|Say|and do what|ev er I|please _|STRUM EM|TAL _|
+w: ||||||||||
+ C z z |"D7" D C A, |"Cm9" C D C- |"D7" C B, A, |"Gm" G,3 | z D B, |"Cm" E C2- | C z z | %70
+w: _||||||||
+w: ||||||||
+"D7" D C A, |"Cm9" C D C- |"D7" C B, A, |"G" G,3 | z z z |"G7" z z z | z z G |:[K:B]"B" B3 | %78
+w: ||||||I|Don't|
+w: |||||||don't|
+ B B c | d c B- | B2 z/ B/ |"G#m" B3 | B B c | d c B- | B3 |"E" B3 | B B c | d c B- | B3 | %89
+w: _ tell me|what to do||Don't|_ tell me|what to say|_|Please,|when I go|out with you|_|
+w: _ tell you|what to say|_ I|don't|_ tell you|whom to do|_|Just|_ let me|be my self|_|
+"F#7" c3 | c c d | e/d/ c2 | c2 F | F3 :|[K:C]"C" c3 | c c d | e d c- | c2 z/ c/ |"Am" c3 | c c d | %100
+w: Don't|_ put me|on dis play|_ Be|cause:|Young|_ and I|love to be|young I'm|free|_ and I|
+w: That's|_ all I|ask of you!|_ _|I'm|||||||
+ e d c- | c3 | z z c |"F" c c/c/ d | e d c- | c3 |"G7" d3 | d d e | f/e/ d2 | d2- G |"Am" e3 | %111
+w: love to be|free|To|live my life the|way I want|!|Say|and do what|ev er I|please _|YOU|
+w: |||||||||||
+"D9" e3 |"E7" e3 |"A" !fermata!e3 |] %114
+w: DON'T|OWN|ME!|
+w: |||
+

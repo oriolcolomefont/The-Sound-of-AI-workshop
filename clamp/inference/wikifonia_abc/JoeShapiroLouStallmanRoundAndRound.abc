@@ -1,0 +1,30 @@
+X:1
+T:Round And Round
+T:Round And Round
+C:Joe Shapiro
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 E B, |"Eb" E4- | E F G A | B2 G2 | E2 F G |"Bb7" A2 F D- | D2 B, B, |"Eb" E2 F G- | G2 E B, | %9
+w: Find a|wheel|_ and it goes|'round 'round|'round as it|skims a- long|_ with a|hap- py sound|_ As it|
+ E4- | E F G A | B2 G2 | E2 F G |"Bb7" A3 F | E D C D |"Eb" E4- | E z E B, |"Eb" E4- | E F G A | %19
+w: goes|_ a- long tthe|ground ground|ground Till it|leads you|to the one you|love.|_ Then your|love|_ will hold you|
+ B2 G2 | E2 F G |"Bb7" A2 F D- | D2 B, B, |"Eb" E2 F G- | G2 E B, | E4- | E F G A | B2 G2 | %28
+w: 'round 'round|'round in your|heart's a song|_ with a|brand new sound|_ And your|head|_ goes spin- ning|round round|
+ E2 F G |"Bb7" A3 F | E D C D |"Eb" E4- | E z E E |"Ab" A3 E | A E A c |"Eb" B4- | B G2 B | %37
+w: round 'cause you've|found what|you've been dream- ing|of.|_ In the|night you|see the o- val|moon|_ go- ing|
+"Bb7" A3 F | D2 A2 |"Eb" G4- |"Eb7" G z E E |"Ab" A3 E | (A E) A c |"Eb""Eb7" B4- | %44
+w: round and|'round in|tune.|_ And trhe|ball of|sun * in the|day|
+"Eb" B2 G"Bb7" A |"Eb" B3 B |"F7" c2 d e |"Bb7" d4- | d z E B, |"Eb" E4- | E F G A | B2 G2 | %52
+w: _ makes a|boy and|girsl wan- na|say.|_ Find a|ring|_ and put it|round round|
+ E2 F G |"Bb7" A2 F D- | D2 B, B, |"Eb" E2 F G- | G2 E B, | E4- | E F G A | B2 G2 | E2 F G | %61
+w: round and with|ties so strong|_ that two|hearts are bound.|_ Put it|on|_ the one you've|found found|found For you|
+"Bb7" A3 F | E D C D |1"Eb""Adim7" E4 |"Bb7" z2 E B, :|2"Eb""Ab7" E4- |"Eb" E3 z |] %67
+w: know that|this is real- ly|love||||
+

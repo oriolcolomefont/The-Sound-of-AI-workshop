@@ -1,0 +1,24 @@
+X:1
+T:On A Slow Boat To China
+T:Slow Boat To China
+T:Frank Loesser
+T:Swing
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Bb" D2 F A |"G7" G D2 G/D/ |"Cm7" E2 G/B/ z |"C" A =E2 z |"Bb" F2 B d |"D7" A3 c |"Eb" G4- | %7
+w: I'd like to|get you on a|slow boat to|Chi- na|all to my-|self a-|lone|
+ G3"G7" z |"Cm7" E2 G B |"A7" A =E2 A/E/ |"Bb" F2 d d |"G7" d3 z |"Gm" c2 c c |"C7" A A z z | %14
+w: _|get you and|keep you in my|arms ev- er-|more.|Leave all your|lov- ers|
+"Cm7" G/>F/G/>F/ G/>F/_A/>G/- |"F7" G F =E z |"Bb" D2 F A |"G7" G D2 G/D/ |"Cm7" E2 G B | %19
+w: weep- ing on the far- a- way shore|_ _ _|Out on the|bri- ny with a|moon big and|
+"C" A =E2 z |"Bb" F2 B d |"D7" A3 c |"Eb" G4- |"G7" G2 z2 |"Cm7" c2 d c |"Eb" d c2 A/B/ | %26
+w: shin- y-|melt- ing your|heart of|stone|_|I'd love to|get you on a|
+"Bb" d2 e d |"G7" e d2 z |"C7" c2 ^F G |"F7" d2 d2 |"Bb" B"Ab7" D/E/ _G/B/ z |"Bb" d2 z2 |] %32
+w: slow boat to|Chi- na|all to my-|self a-|lone,- * * * *||
+

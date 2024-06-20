@@ -1,0 +1,29 @@
+X:1
+T:You're A Grand Old Flag
+T:You're a Grand Old Flag
+T:George M. Cohan
+T:George M. Cohan
+T:1978 Robbins Music
+C:George M. Cohen
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+"D7" z2"D7""^Brightly" d>B |:"G""C" G2"C" G2 |"G""D7" G2"D7" ED |"G" G"Bm" A2 F | %4
+w: You're a|grand old|flag, you're a|high fly- ing|
+"G""D7" G2"D7" ED |"G""D7" G2"D7" ED |"G""Ddim" G2"Ddim" ED |"D7" F4- | F z"Am" D"Am"E | %9
+w: flag; And for-|ev- er in|peace may you|wave;|* You're the|
+"D7""Am7" F2"Am7" G2 |"D7" A3 D |"G""B7" G2"B7" A2 |"Em""Em7" B3"Em7" G |"A7" A B2 G | A B2 G | %15
+w: em- blem|of the|land I|love, The|home of the|free and the|
+"D7""Am" A4- |"D7" A z d>B |"G""C" G2"C" G2 |"G""D7" G2"D7" ED |"G" G"Bm" A2 F | %20
+w: brave.|* Ev- 'ry|heart beats|true un- der|Red, White and|
+"G""Bm" G2"Bm""G7" F"G7"=F |"E7" E2 ^GB | E2 B2 |"Am" A4- | A"D7" z"D7" DD |"G""D7" G3"D7" F | %26
+w: Blue, Where there's|nev- er a|boast or|brag;|* But, should|auld ac-|
+"G" G2 B2 |"D7""Ddim" A3"Ddim" ^G |"D7" A2 FD |"A7" E G2 E |"D7" G2 F2 |1"G" G2 z2 || %32
+w: quain- tance|be for-|got, Keep your|eye on the|grand old|flag.|
+"D7" z2"D7" d>B :|2"G" G4- || G z z2 |] %35
+w: You're a|flag.||
+

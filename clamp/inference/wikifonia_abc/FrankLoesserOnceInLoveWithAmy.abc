@@ -1,0 +1,32 @@
+X:1
+T:Once In Love With Amy
+T:Once In Love With Amy
+T:Frank Loesser
+C:Frank Loesser
+Z:Creative Commons BY
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+V:1
+"Gmaj7" B3 ^A"G#dim7" B3 ^G |"Am7" A D3-"D7" D4 |"Gmaj7" d d2 ^c"G#dim7" d3 B |"Am7" c A3-"D7" A4 | %4
+w: Once in love with|A- my *|al- ways in love with|A- my *|
+"Gmaj7" B B2 ^A"G7" B d3 |"Cmaj7" GAG^F"G/B" G D3 |"Am7" GAG^F"G" G D2 G |"A7""Am7" A8"D7" | %8
+w: ev- er and ev- er|fas- cin- at- ed by 'er|sets your heart a- fire * to|stay|
+"Gmaj7" B3 ^A"G#dim7" B3 ^G |"Am7" A2"D7" D6 |"Gmaj7" d2 d^c"G#dim7" d2 B2 |"Am7" c2"D7" A6 | %12
+w: once you're kissed by|A- my|tear up your list its|A- my|
+"Gmaj7" B2 B^A"G7" B2 d2 |"Cmaj7" GAG^F"G/B" G2 D2 |"Am7" GAG^F"G" G2 DG |"B7" B6"Bm7b5""E7" z E | %16
+w: ply her with bo- bons|po- et- ry and flow- ers|moon a mil- lion hours a *|way you|
+"Am7" ABc^c"D7" dcBA |"G" ^F4"C7" E2 z A |"Gmaj7" F4"C7" E2 z A |"G" ^F6"Bm7""E7" z E | %20
+w: might be quite the fick- le- heart ed|ro- ver so|care- free and|bold who|
+"Am7" ABc^c"D7" dcBA |"Gmaj7" ^F4"C7" E3 F |"Dmaj7" ^F2 z2"A7" A2 z2 |"Am7/D" d6"Ab7#11" z c | %24
+w: loves a girl and la- ter thinks it|o- ver and|just quite|cold but|
+"G" B3 ^A"G#dim7" B3 ^G |"Am7" A2"D7" D6 |"Gmaj7" d2 d^c"G#dim7" d2 B2 |"Am7" c2"D7" A6 | %28
+w: once in love with|A- my|al- ways in love with|A- my|
+"G" B2 B^A"G7" B2 d2 |"Cmaj7" GAG^F"G/B" G2 D2 |"Am7" GAG^F"G" G2 DG |"B7" B6"Bm7b5""E7" z E | %32
+w: ev- er and ev- er|sweet- ly you'll ro- mance 'er|trou- ble is the an- swer will|be that|
+"Am7" ABc^c"Bm7" d2"E7#5" c2 |"A7" B6"D7" D2 |"G6" G8-"^(" |"Am7" G2 z2"D7""^)" z4 |] %36
+w: A- my'd rath- er stay in|love with|me.||
+

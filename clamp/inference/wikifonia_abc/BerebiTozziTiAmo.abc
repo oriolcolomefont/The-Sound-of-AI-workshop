@@ -1,0 +1,61 @@
+X:1
+T:Ti Amo
+T:Ti Amo
+T:composer Tozzi, Berebi 
+T:Ti Amo
+T:2
+T:Ti Amo
+T:3
+C:Berebi, Tozzi
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z8 | z8 |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3AAA | %6
+w: ||||||
+"G" G2 A2 G2 (3BcB |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB | %10
+w: |Ti a- mo, Du sag- test|Ti a- mo. Dass heist ich|lieb' Dich so. Was ist ge-|
+"D" (3AGA (3BcB (3AGA (3BcB |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB | %14
+w: blie- ben von _ Dei- nem mich lie- ben von hundert- mal|Ti a- mo sag- test Du|das nur so weil es da|zu ge- hoert Wor- te sind|
+"D" (3AGA (3BcB (3AGA (3BcB |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB | %18
+w: bil- lig sind manch- mal so bil- lig Man re- det sich|sel- ber ein Al- les das|muss so sein. Hast das auch|Du ge- tan sinn- li- che|
+"D" (3AGA (3BcB (3AGA (3BcB |"G" (3GGG (3GGG (3:2:2d B2- B2 |"Em" (3GGG (3GGA (3:2:2G E2- E2 | %21
+w: Spie- le und fal- sche Ge- fueh- le. Und nun willst Du|wie- der ein neu- es Ziel fin- den _|Willst Dich nicht mehr an mich bin- den _|
+"Am" (3AAA (3AAB (3A/G/E/-E- E2 |"D" (3z GA (3Bc z (3z GA (3Bcd |"G" g2 g2 (3g/e/d/-d (3ggg | %24
+w: Stehst da ge- packt is Dein Kof _ fer _ _|Was _ gewesen _ ist _ gewesen _ Dein|Ti a mo _ _ _ Dein schoe- nes|
+"Em" g2 g2 (3g/d/e/-e (3ggg |"Am" g2 g2 (3g/d/e/-e (3BcB |"D" (3z GA (3Bc z (3z GA (3Bcd | %27
+w: Ti a- mo _ _ _ War nur Be-|gleit- musik _ _ _ _ Fuer Som- mer|* * Frage _ Und Ich hab _ ge|
+"G" g2 g2 (3g/e/d/-d (3ggg |"Em" (3GGG (3GGA (3:2:2G E2- E2 |"Am" (3AAA (3AAB (3A/G/E/-E- E2 | %30
+w: glaubt das mit uns geht _ so wei- ter|Jetzt bin ich lei der ge schei ter _|A ber ich kann nicht be strei ten _ _ _|
+"D" (3z GA (3:2:2B c2 (3z GA (3BcB |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB | %34
+w: das es schoen war das es schoen war _|So geh'den Weg Du hast ihn|selbst ge waehlt Wenn Dich hier|nichts mehr haelt Ich wer de|
+"D" (3AGA (3BcB (3AGA (3BcB |"G" (3GGG (3GGG (3dB- B2- B2 |"Em" (3GGG (3GGA (3:2:2G E2- E2 | %37
+w: le ben auch oh ne Dich leb en Und wer de die|Ta ge fuer mich noch so schwer sein _ _|Wer den die Naech te auch lehr sein _|
+"Am" (3AAA (3AAB (3A/G/E/-E- E2 |"D" (3z GA (3:2:2B c2- (3cGA (3Bcd |"G" g2 g2 (3g/e/d/-d (3ggg | %40
+w: Irg end wann werd ich ver ges sen _ _ _|Es wird Schluss sein denn _ _ es muss sein|Du willst es so _ _ Ich weiss Du|
+"Em" g2 g2 (3g/d/e/-e (3ggg |"Am" g2 g2 (3g/d/e/-e (3BcB |"D" (3AGA (3BcB (3AGA (3BcB | %43
+w: willst es so _ _ _ Bald sagst du|an ders wo _ _ _ Ti a mo|ti a mo ti a mo ti a mo ti a mo|
+"G" (3GGG (3GGG (3:2:2d B2- B2 |"Em" (3GGG (3GGA (3:2:2G E2- E2 |"Am" (3AAA (3AAB (3A/G/E/-E- E2 | %46
+w: Du willst ein neu es Ziel fin den _|Dich nicht mehr an mich bin den _ _|Stehst da e pckt ist dein Kof fer _ _ _|
+"D" (3z GA (3:2:2B c2 (3z GA (3BcB |"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB | %50
+w: was ge we sen ist ge we sen Dein|Ti a mo Dein schoe nes|ti a mo war nur Be|gleit mu sik fuer som mer|
+"D" (3AGA (3BcB (3AGA (3BcB |"G" (3GGG (3GGG (3:2:2d B2- B2 |"Em" (3GGG (3GGA (3:2:2G E2- E2 | %53
+w: ta ge kam nicht mehr im Fra ge Und ich hab' ge|glaubt das mit uns geht so wei ter _|Jetzt bin ich lei der ge schei ter _|
+"Am" (3AAA (3AAB (3A/G/E/-E- E2 |"D" (3z GA (3:2:2B c2- (3cGA (3Bcd |"G" g2 g2 (3g/e/d/-d (3ggg | %56
+w: Aber ich kann nicht be strei ten _ _ _ _|Das es schoen war _ Das es schoen war Dein|Ti a mo ti a mo ti a mo|
+"Em" g2 g2 (3g/d/e/-e (3ggg |"Am" g2 g2 (3g/d/e/-e (3BcB |"D" (3AGA (3BcB (3AGA (3BcB | %59
+w: ti a mo ti a mo ti a mo|ti a mo ti a o ti a mo|ti a mo ti a mo _ ti a mo _ _|
+"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB |"D" (3AGA (3BcB (3AGA (3BcB | %63
+w: ti a mo ti a mo|ti a mo ti a mo|ti a mo ti a mo|ti a mo ti a mo ti a mo ti a mo|
+"G" G2 A2 G2 (3BcB |"Em" G2 A2 G2 (3BcB |"Am" A2 B2 A2 (3BcB |"D" (3AGA (3BcB (3AGA (3BcB | %67
+w: ti a mo ti a mo|ti a mo ti a mo|ti a mo ti a mo|ti a mo ti a mo ti a mo ti a mo|
+"G" G2 A2 G2 AA |"G" A G6 z |] %69
+w: _ _ _ _ _||
+

@@ -1,0 +1,29 @@
+X:1
+T:S'posin'
+T:S'posin'
+T:Andy Razaf & Paul Denniker
+C:Andy Razaf and Paul Denniker
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B, C"Eb6" E F |"Ebmaj7" G G"Eb6" B B |"Fm7" F4- |"Bb9" F3 z |"Eb" B, C"Eb6" E F | %5
+w: S'pos- in I should|fall in love with|you,||do you think that|
+"Ebmaj7" G G"Cm7" c c |"Fm7""Bb9" F4- |"Fm7""Bb7" F4 |"Eb" B, C E F | G G"Gm" B B | %10
+w: you could love me|too.||S'pos- in' I should|hold you and ca-|
+"Cm" c2"Cm" G2- |"Cm7" G C"Cm6" E G |"F9" c2 G2- | G2 G c |"Fm7" G2"Bb7" F2- |"Fm7""Bb7" F4 | %16
+w: ress you|* would it im-|press you|* or dis-|tress you,||
+"Eb" B, C"Eb6" E F |"Ebmaj7" G G"Eb6" B B |"Fm7" F4- |"Bb9" F3 z |"Eb" B, C"Eb6" E F | %21
+w: s'pos- in' I should|say for you I|yearn,||would you think I'm|
+"Ebmaj7" G G"Cm7" c c |"Fm7""Bb9" F4- |"G7" F3 F |"Cm" E E"Eb7" B B |"Ebdim" =A A"Abm6/Eb" _A A | %26
+w: speak- ing out of|turn.|* and|s'pos- in' I'd de-|clare it, would you|
+"Eb" G G"G7/D" d d |"Cm7" e"F7" c3 |"Eb/Bb" B, C"Cm" E F |"Fm7" G A"Bb7" F G |"Eb""Ab7" E4- | %31
+w: take my love and|share it,|I'm not s'pos- in',|I'm in love with|you-|
+"Eb" E3 z |] %32
+w: |
+

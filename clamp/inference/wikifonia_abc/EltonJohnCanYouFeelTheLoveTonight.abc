@@ -1,0 +1,50 @@
+X:1
+T:Can You Feel The Love Tonight
+C:Elton John
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Pop Ballad""Bb" z8"F/A" |"Eb/G" z8"Bb/F" |"Eb" z8"Bb/D" |"F/A""Bb" z8"Cm7""Bb/D" |: %4
+w: ||||
+w: ||||
+"Eb" GA/(B/ B)c/(B/"Bb/D" B<)F z2 |"Eb" GA/(B/ B/)c(B/"Bb/D" B2) z2 | %6
+w: There's a calm _ sur- ren- der _|to the rush _ of day, _|
+w: There's a time _ for ev- 'ry- one,|if they on- _ ly learn _|
+"Eb" GA/(B/ B)B/c/"Bb/D" B/F(d/ d2) |"Cm7" ed/(c/ c)d/(B/"F/A" c2) z2 | %8
+w: when the heat _ of the roll- ing world _|can be turned _ a- way. _|
+w: that the twist- _ ing ka- lei- do- scope _|moves us all _ in turn. _|
+"Eb" GA/(B/ B<)c"Bb/D" B<F z2 |"Eb" GA/(B/ B/)c(B/"Bb/D" B2) z2 |"Eb" GA/(B/ B/)F/F"Gm" fe B<G | %11
+w: An en- chant- _ ed mo- ment,|and it sees _ me through. _|It's e- nough _ for this rest- less war- rior|
+w: There's a rhyme _ and rea- son|to the wild _ out- doors _|when the heart _ of this star- crossed voy- ager|
+"Ab" ed/(c/ c)d/(c/"F" c2)z>F |"Bb" f3d/(c/"F/A" c2) f(d |"Gm" d2) B<(G"Eb" G2) z2 | %14
+w: just to be _ with you. _ And|can you feel _ the love|_ to- night? _|
+w: beats in time _ with yours. _ _|_ _ _ _ _ _||
+"Bb" z2 F/B/(e"Eb" e2)"C/E" d(c |"F" c4) z4 |"Eb" z2 G/A/(B"Bb/D" (B2) B/)F/F | %17
+w: It is where _ we are.|_|It's e- nough _ _ for this|
+w: |||
+"Gm" (fc)"Gm/F"(dB)"Eb" B/B/G z2 |"Cm" e2"Bb/D" d2"Eb" c2"C/E" d(c |"F" c4)z2z>F | %20
+w: wide _ eyed _ wan- der- er|that we got this far.|_ And|
+w: |||
+"Bb" f3d/(c/"F/A" c2) f(d |"Gm" d2) B/(GF/"Eb" E2) z2 |"Bb" z2 F/B/(e"Eb" e2)"C/E" d(c | %23
+w: can you feel _ the love|_ to- hight, _ _|how it's laid _ to rest?|
+w: |||
+"F" c4) z4 |"Eb" z2 G/A/(B"Bb/D" (B2) B/)F/F |"Gm" (fc)"Gm/F"(dB)"Eb" B/B/(G G>)F | %26
+w: _|It's e- nough _ _ to make|kings _ and _ vag- a- bonds _ be-|
+w: |||
+"Cm" e2"Bb/D" d2"Eb" c2"F7sus4" B<(B |"Eb/Bb" B4)"Bb" z4 |1 z8"F/A" |"Eb/G" z8"Bb/F" | %30
+w: lieve the ver- y best.|_|||
+w: ||||
+"Eb" z8"Bb/D" |"F/A""Bb" z8"Cm7""Bb/D" :|2"Eb" z2 G/A/(B"Bb/D" (B2) B/)F/F || %33
+w: ||It's e- nough _ _ to make|
+w: |||
+"Gm" (fc)"Gm/F"(dB)"Eb" B/B/(G G>)F |"Em" e2"Bb/D" d2"Eb" c2"F7sus4" B<(B | %35
+w: kings _ and _ vag- a- bonds _ be-|lieve the ver- y best.|
+w: ||
+"Eb/Bb" B4)"Bb" !fermata!z4 |] %36
+w: _|
+w: |
+

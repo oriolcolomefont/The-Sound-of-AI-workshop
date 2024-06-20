@@ -1,0 +1,17 @@
+X:1
+T:Az bajom van véled
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ A B"Am" c2 | d c A2 | c B/A/"E" B2 | B3/2 B/ B2 | A B"Am" c2 | d c A2 | c B"E" A2 | %7
+w: Az ba- jom|van vé- led,|fáj a _ szí-|vem ér- ted,|Fáj a szí-|vem ér- ted,|majd' meg ha-|
+ c/ B3/2"Am" A2 |] %8
+w: lok ér- ted.|
+

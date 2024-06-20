@@ -1,0 +1,42 @@
+X:1
+T:The Loco-Motion
+T:The Loco-Motion
+T:Gerry Goffin & Carole King
+C:Gerry Goffin and Carole King
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z2 B,B,- B,B,B,B, |"Cm" C2 CB, C E3 |"Eb" z2 B,B,- B,B,B,B, |"Cm" C2 CB, C E3 || %4
+w: ||||
+w: ||||
+"Eb" EFEF GFEB, |"Cm" C2 B,C- C E3 |"Eb" z B B2 B B2 c- |"Cm" cccc c2 cB, |"Eb" EFEF GFEB, | %9
+w: Ev- 'ry bod- y's do- * in a|brand new dance * now|(C'm on ba- by do|* The Lo- co- Mo- tion) I|know you'll get to like it if you|
+w: |||||
+"Cm" CCB,C- C E3 |"Eb" z B B2 B B2 c- |"Cm" cccc c2 cE |"Ab" ABAB cBAE |"Fm" FFEF- F2 z E | %14
+w: give it a chance * now|(C'm on ba- by do|* The Lo- co- Mo- tion) my|lit- tle ba- by sis * ter can|do it with ease * It's|
+w: |||||
+"Ab" ABAB cBAE |"F7" G F2 E- E2 z E |"Eb" c B2 G E2"Bb9" F2- | FFGF GF G2 |"Eb" E2 z2 z EGB | %19
+w: eas- i- er than learn- * in your|A B Cs * So|come on come on do|* The Lo- co- M0- tion with|me You got- ta|
+w: |||||
+ c2 B2 G2 E2 |"Ab" z4 z _G F2 | EF z2 z2 cB- |"Eb" B2 z2 z2 GE- | E2 z2 z EGB |"Bb7" c2 B2 B2 c2 | %25
+w: swing your hips now|Come on|ba- by jump up|* jump back|* Oh well, I|think you got the|
+w: ||||||
+ B2 z2 z4 |:"Eb" EFEF GFEB, |"Cm" CCB,C- C E3 |"Eb" z B B2 B B2 c- |"Cm" cccc c2 cB, | %30
+w: knack|Now that you can do * it *|let's make a chain * now|(C'm on ba- by do|* The Lo- co Mo tion) A|
+w: |Move a- round the floor * in a|Lo- * co- Mo- * tion|||
+"Eb" EFEF GFEB, |"Cm" CCB,C- C E3 |"Eb" z B B2 B B2 c- |"Cm" cccc c2 cE |"Ab" ABAB cBAE | %35
+w: chug- a- chug a mo- tion like a|rail- * road train * now|(C'm on ba- by d0|* The Lo- co- Mo- tion) *|Do it nice and ea- sy now *|
+w: Do it hold- in' hands * if *|you get the no- * tion||* * * * * * There's|nev- er been a dance * that's so|
+"Fm" FFEF- F2 z E |"Ab" ABAB cBAE |"F7" G F2 E- E2 z E |"Eb" c B2 G E2"Bb9" F2- | FFGF GF G2 | %40
+w: don't lose con- trol * A|lit- tle bit of rhy- thm and a|lot of soul * *|Come on come on do|* The lo- co- mo- tion with|
+w: eas- y to do * It|ev- en makes you hap- py when you're|feel- in' blue * So|Come on come on do|* The lo- co- mo- tion with|
+"Eb" EB B2 B B2 c- |"Cm" cccc c2 c z ::"Eb" z B B2 B B2 c- |"Cm" cccc c2 c z :| %44
+w: me (C'm on ba- by do|* The Lo- co- Mo- tion)|C'm on ba- by do|* The Lo- co- Mo- tion|
+w: me (C'm on ba- by do|* The Lo- co Mo- tion)|||
+

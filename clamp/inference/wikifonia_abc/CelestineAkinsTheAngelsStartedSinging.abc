@@ -1,0 +1,30 @@
+X:1
+T:The Angels Started Singing
+T:The Angels Started Singing
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/8
+Q:1/4=100
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" A,C F2 A G2 F |"Bb" D6 z2 |"Bb" DE G2 F2 ED |"Bb" F2"F" C4 z2 |"F" A,C F2 E D2 C |"Bb" B,6 z2 | %6
+w: As you held me in your|arms|All the an gels start ed|sing ing|As you kissed and held me|tight|
+"Bb" G,A, B,2 D F2 E |"Bb" D2"F" C4 z2 |"F" A,2 C A2 G FE |"Bb" D4 z2 B,2 |"Bb" DF G2 FE D2 | %11
+w: I could hear the church bells|ring ing|It was such a love ly|night Filled|with the mys ter y of|
+"F" C6 z2 |"F" A,C F2 E"Bb"D C2 |"Bb" B,6 z2 | G,"Bb"A, B,2 C D2 E |"F" F6 z2 |:"F" A,C F2 A G2 F | %17
+w: love|and the stars all seemed to|say|you have found your own true|love|As the night came to an|
+"Bb" D6 z2 |"Bb" DE G F2 E2 D |"Bb" F2"F" C4 z2 |"F" A,C F2 ED C2 |"Bb" B,6 z2 | %22
+w: end|I knew this was our be|gin ning|As we held each oth er|tight|
+"Bb" A, B,2 C2 D ED- | D"F" C4 z z2 |"F" A,2 C A2 G FE |"Bb" D6 z2 |"Bb" B,2 DF G2 FE | %27
+w: Our kiss was ne ver end|_ ing|It was such a love ly|night|Filled with the mys ter y|
+"Bb" D2"F" C4 z2 |"F" A,C F2 ED C2 |"Bb" B,4 z2 G,A, |"Bb" B,2 C D2 E"F" F2- |"F" F6 z2 :| %32
+w: of love|And the stars all seemed to|say You have|found your own true love|_|
+

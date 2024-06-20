@@ -1,0 +1,23 @@
+X:1
+T:Szél viszi messze
+T:Szél viszi messze 
+T:Katonanóta
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" G,2 CE | G2 FE |"G" D2 G,=B, | D2 z2 |"Fm" G,2 =B,D |"G" F2 ED |"Cm" C4 | z4!fine! | %8
+w: Szél vi- szi|mesz- sze a|fel- le- ge-|ket,|fe- let- te|lán- gol az|ég.||
+w: Ki tud- ja,|mely na- pon,|mely haj- na-|lon,|ind- ul a|szá- zad to-|vább.||
+"Cm" G,2 CE | G2 FE |"G" D2 G,=B, | D2 z2 |"Fm" F2 FF |"Bb" B2 F^F |"Eb" G4 | z4 |"Cm" G2 GG | %17
+w: Nyújtsd i- de|é- des a|kis ke- ze-|det,|Ki tud- ja,|lát- lak- e|még,||Ki tud- ja,|
+w: |||||||||
+ B2 AG |"F" F=E FG | A2 z2 |"Bb" F2 FF | B2 FA |"Eb" G3"F" F |"Gb" E2"G" D2!D.C.! |] %24
+w: ö- lel- e|a _ két ka-|rom,|ki tud- ja,|csó- kol- e|szád, ga-|lam- bom,|
+w: |||||||
+

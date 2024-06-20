@@ -1,0 +1,21 @@
+X:1
+T:Botany Bay
+T:unknown
+T:Botany Bay
+C:Florian Pascal
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G/G/ |"C" E G G |"G7" D F F |"C" E/D/ C2- | C2 G/G/ | E G c |"F" F A c |"C" G3- | G2 G/G/ | %9
+w: Fare *|well to old|Eng- land for|ev- * er|* fare- *|well to my|rum culls as|well|* fare *|
+ c B c |"F" d c A |"C" G/E/ C2- | C C D | E G G |"G7" D F E |"C" C3- |"^Chorus:" C2 G/G/ | %17
+w: well to the|well- known old|Bail * ee|* where I|used for to|cut such a|swell|* Sing- ing|
+"C" E G G |"G7" D F F | E/D/ C2- | C2 G/G/ | E G c |"F" F A c |"C" G3- | G2 G/G/ | c B c | %26
+w: too- ra- li|oor- al li-|ad- di- ty|* sing ing|too ral li|oor al li|ay|* sing- ing|too- ral li-|
+"F" d c A |"C" G/E/ C2- | C C D | E G G |"G7" D F E |"C" C3- | C2 z |] %33
+w: oor- al- li|add- i- ty|* for we're|bound * for|Bo- tan- y|Bay||
+

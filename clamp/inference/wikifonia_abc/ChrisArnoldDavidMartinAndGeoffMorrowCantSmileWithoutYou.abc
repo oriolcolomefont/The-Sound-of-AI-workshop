@@ -1,0 +1,51 @@
+X:1
+T:Can't Smile Without You
+T:Can't Smile Without You
+C:Chris Arnold, David Martin And Geoff Morrow
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 F2 G2 A2 ||"G" A4 G3 F | F4 G4 |"Em" z D A2 G3 F | F4 G3 D |"Am" B4 A2 (3z EG | B4 A3 E | %7
+w: You know I|can't smile with-|out you,|I can't smile with-|out you, I|can't laugh and I|can't sing, I'm|
+w: |||||||
+"C/D" BABA- A3 E |"D7" BABd- dB A<G |"G" A4 G3 F | F4 G4 |"Em" z D A2 G3 F | F4 G3 D | %13
+w: find- ing it hard _ to|do an- y- thing. _ You see I|feel sad when|you're sad,|I feel glad when|you're glad, if|
+w: ||||||
+"Am" B2- (3BcB A3 E | B2- (3BcB A4 |"C/D" z2 z B A2 B2 | d4- dB B2 |"G" G8 |"C/D" z8 || %19
+w: you _ on- ly knew what|I'm _ go- ing through;|I just can't|smile _ with- out|you.||
+w: ||||||
+"G9" B,DAG-"G" G4 |"Em7" B,DAG- G3 B, |"Am7" CEBA- A4 |"C/D" z2 (3BAB"D7" BAGD |"G9" B,DAG-"G" G4 | %24
+w: You came a- long _|just like a song _ and|bright- ened my day. _|Who'd- a be- lieved that you were|part of a dream. _|
+w: |||||
+"Em7" B,D A2 G4 |"Am7" (3C2 E2 B2 A4 |"D7" z FFF"C/E" G"D7/F#" A3 ||"G" A4 G3 F | F4 G4 | %29
+w: Now it all seems|light- years a- way.|And now you know I|can't smile with-|out you,|
+w: |||||
+"Em" z D A2 G3 F | F4 G3 D |"Am" B4 A2 (3z EG | B4 A3 E |"C/D" BABB- B3 A | %34
+w: I can't smile with-|out you, I|can't laugh and I|can't sing, I'm|find- ing it hard _ to|
+w: |||||
+ BAB"Db/Eb"_e- e_E =F<_A ||[K:Ab]"Ab" B4 A3 G | G4 A4 |"Fm" z E B2 A3 G | G4 A3 E | %39
+w: do an- y- thing _ You see I|feel sad when|you're sad,|I feel glad when|you're glad, if|
+w: |||||
+"Bbm" c2- (3cdc B3 F | c2- (3cdc B4 |"Db/Eb" z2 z c B c3 | e4- e3 e |"Ebm7" eded- d4 | %44
+w: you _ on- ly knew what|I'm _ go- ing through;|I just can't|smile. _ Now,|some peo- ple say _|
+w: |||||
+ eded- d2 z2 |"Ab7" d2- (3dcd c2 B(E |"Dbmaj7" F<A- A4) (3z dd |"Dbm" dcdc- c4 | dc d2 c2 Be- | %49
+w: hap- pi- ness takes _|so _ ver- y long to find.|_ _ _ Well, I'm|find- ing it hard _|leav- ing your love be- hind|
+w: |||||
+"Eb7sus4" e8 |"E7sus4" =e4 (3z ee (3:2:2e e2 |[K:A]"A" B4 A3 G | G4 A4 |"F#m" z B B2 A3 G | %54
+w: _|me. And you see, I|can't smile with-|out you,|I can't smile with-|
+w: |||||
+ G4 A3 A |"Bm" c4 B2 (3z FA | c4 B3 B |"D/E" cB c2 c2 z B | cBc"Eb/F"=f- f=F G<_B |: %59
+w: out you, I|can't laugh, and I|can't sing, I'm|find- ing it hard to|do an- y- thing. _ You see I|
+w: |||||
+[K:Bb]"Bb" c4 B3 A | A4 B4 |"Gm" z G c2 B3 A | A4 B3 G |"Cm" d2- (3ded c3 G | d2- (3ded c2 z2 | %65
+w: feel glad when|you're glad,|I feel sad when|you're sad, if|you _ on- ly knew what|I'm _ go- ing through;|
+w: you _ _|_ _|||||
+"Eb/F" z2 z d c d3 | f4"^Repeat and fade" f f3 :| %67
+w: I just can't|smile with- out|
+w: ||
+

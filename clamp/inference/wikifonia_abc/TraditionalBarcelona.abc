@@ -1,0 +1,28 @@
+X:1
+T:Barcelona
+T: Laukens Music Productions  
+T:Foxtrot
+T:BARCELONA
+T:Arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:2/2
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F F F |"C7" E2 G2- | G A A G |"F" F4- | F F F F |"C7" E2 G2- | G z A3/2 A/ |"F" G F z"C7" C | %8
+"F" F z"C7" C2 ||S"F" A4- | A A G A |"C7" B2 G2- | G z C2 | G4- | G G F G |"F" A4- | A z"C7" C2 | %17
+"F" A4- | A A G A |"C7" B2 G2- | G z C2 | G4- | G B A G |"F" F4- |"F7" F4 |"Bb" D4- | D2 F2 | %27
+ G2 F D |"F" D2 C2- | C z B A |"C7" c2 G G | G2 F G |"F" A2 F F |"F7" F4 |"Bb" D4- | D2 F2 | %36
+ G2 F D |"F" D2 C2- | C z B A |"C7" c2 G A | B2 A G |"F" F4- | F F F F |"C7" E2 G2- | G A A G | %45
+"F" F4- | F F F F |"C7" E2 G2- | G z A3/2 A/ |"F" G F z"C7" CO ||"F" F z z"C7" C || %51
+[K:Fmin]"Fm" F2 F G | A2 G F |"C7" =E2 E F | G c/c/ c c | =E2 E F | G2 A G |"Fm" F c/c/ c c | %58
+"C7" c c c C |"Fm" F2 F G | A2 G F |"C7" =E2 E F | G c/c/ c c | =E2 E F | G2 A G |"Fm" F c/c/ c c | %66
+"C7" c zS C2 ||O"F" F F/F/ F z |] %68
+

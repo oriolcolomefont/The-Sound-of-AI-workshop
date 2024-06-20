@@ -1,0 +1,30 @@
+X:1
+T:Saturday Night
+T:Saturday Night Is THe Loneliest Night Of The Week
+C:Jule Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb" B>GAB-"Bb7" B>GAB- |"Eb" B>GAB-"Bb7" B>GAB- |"Eb""Bbm/Db" B8- | %3
+w: Sat- ur- day night * is the lone-|* li- est night * of the week,||
+"C7" B"C7b9" _d3"C+" c2"C7" B2 |"Fm" A>FGA-"Db7/F" A>FGA- |"Fm6" A>FGA-"Db7" A>FGA- | %6
+w: * 'Cause that's the|night that my sweet- * ie and I|* used to dance * cheek to cheek.|
+"Fm""Abm/B" A8- |"Bb7" A2 c2 B2 A2 |"Eb" G2 G2"G7" G F2 E- |"Cm" E4-"Cm/Bb" E>CE>G | %10
+w: |* I don't mind|Sun- day night at all|* * 'cause that's the|
+"Am7b5" c2 c2"D7b9" c =A2 B- |"Gm" B6"Gbdim7" c2 |"^Bb.F" d>Bcd-"Gm7" d>Bcd- | %13
+w: night friends come to call,|* And|Mon- day to Fri- * day go fast|
+"Cm9" d4-"F9" d F2 G |"Bb7" B2 B2"Fm7" A"Gm" G2 F- |"Fm7" F6"Bb7" G2 |"Eb" B>GAB-"Bb7" B>GAB- | %17
+w: * * and an-|oth- er week is past,|* But|Sat- ur- day night * is the lone-|
+"Eb" B>GAB-"Bb7" B>GAB- |"Eb""Bbm/Db" B8- |"C7" B"C7b9" _d3"C+" c2"C7" B2 | %20
+w: * li- est night * in the week||* I sing the|
+"Fm" A>FGA-"Db7" A>FGA- |"Fm" A>FGA-"Db7" A>FGA- |"Fm""Abm" A8- |"Bb7" A2 c2 B2 A2 | %24
+w: song that I sang * for the mem-|* 'ries I u- * sual- ly seek,||* Un- til I|
+"Eb" G2 G2"G7" G F2 E- |"Cm" E4- E>CE>G |"Am7b5" c2 c2"A6" c"G7" d2 e- |"Cm""Abm" e8 | %28
+w: hear you at the door,|* * Un- til you're|in my arms once more||
+"Eb" B>GAB-"C7" B>GAB- |"Fm9" B>GEG-"B13" G>ECE- |"Eb" E8- | E2 z2 z4 |] %32
+w: Sat- ur- day night * is the lone-|* li- est night * of the week.|||
+

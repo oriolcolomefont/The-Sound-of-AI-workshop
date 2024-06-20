@@ -1,0 +1,26 @@
+X:1
+T:Almost In Your Arms
+T:Almost In Your Arms
+C:Ray Evans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G |:"Cmaj7" A4- ACEG |"Am7" A4- ACEG |"Dm7" A6 B,2 |"G7" B,6 z G |"Dm7" A4- AB,DG | %6
+w: You're|near, _ that mo- ments|here, _ I'm al- most|in your|arms! T-|night _ the mood is|
+"G7" A4- AB,DG |"Cmaj7" A6 C2 | C6 c2 ||"Gm7" d4- dEGc |"C7" d4- dEGc |"Fmaj7" d6 A2 |"F#dim7" c8 | %13
+w: right, _ I'm al- most|in your|arms! One|sigh, _ one word and|I, _ will rush to|your em-|brace.|
+"Cmaj7" A_AGA =A4 |"C#dim7" A_AGA =A4 |"Dm7" A_AGA =A4 |"G7" A_AGA =A3 G ||"Cmaj7" A4- ACEG | %18
+w: Say that der- tain word!|Sigh that cer- tain sigh!|And with all my heart,|to your arms I'll fly! It's|strange, _ how we are|
+"Am7" A4- ACEG |"Dm7" A6 B,2 |"G7" B,6 z G |"Dm7" A4- AB,DG |"G7" A4- AB,DG |"Cmaj7" A6 C2 | %24
+w: changed _ by things that|seem so|small. One|look _ can write a|book, _ one touch can|say it|
+ C6 c2 ||"Gm7" d4- dEGc |"C7" d4- dEGc |"Fmaj7" d6 A2 |"F#dim7" c6 z B |"Cmaj7" A_AGA =A4 | %30
+w: all! We've|know _ those nights a-|lone, _ and now we've|found our|way. I'm|al- most inyour arms, _|
+"Dm7" A_AGA"G7" =A2 BG |"Cmaj7" c8- |"Dm7" c6"G7" z G :|"Cmaj7" c8- | c4 z4 |] %35
+w: al- most in your arms to _|stay!|_ You're|stay!|_|
+

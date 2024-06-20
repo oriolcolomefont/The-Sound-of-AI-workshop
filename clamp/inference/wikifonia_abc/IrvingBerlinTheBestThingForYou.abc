@@ -1,0 +1,26 @@
+X:1
+T:The Best Thing For You
+T:The Best Thing For You
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"B7" B,2 ^D ^F | A2 G ^F |"Em7" G2"A7" F E |"Dm7" F2"G7" E D |"Cmaj7" E2"Am7" D C | %5
+w: I on- ly|want what's the|best thing for|you and the|best thing for|
+"Dm7" F2"G7" D B, |"Cmaj7""A7" G4- |"Dm7" G2"G7" z2 |"B7" B,2 ^D ^F | A2 G ^F |"Em7" G2"A7" F E | %11
+w: you would be|me.||I've been con-|vinced af- ter|think- ing it|
+"Dm7" F2"G7" E D |"Cmaj7" E2"Am7" D C |"Dm7" F2 D B, |"Cmaj7" C4- |"Bm7" C2"Eb7" z2 || %16
+w: through, that the|best thing for|you would be|me.||
+"Abmaj7" c3/2 _A/ _E2- | E2 _d c |"Bbm7" c3/2 _B/ _E2- |"Eb7" E2 z2 |"Fm7" B3/2 _A/ C2- | %21
+w: Ev- 'ry day|* to my-|self I say,||point the way,|
+"Fm7/Eb" C2 (3_A _B A |"Dm7" G4- |"G7" G2 z2 ||"B7" B,2 ^D ^F |"B7" A2 G ^F |"Em7" G2"A7" F E | %27
+w: * what will it|be?||I ask my-|self what's the|best thing for|
+"Dm7" F2"G7" E D |"Cmaj7" E2 F G- |"Am7" G A- A/B/ c |"D7" d4- |"Fm7" d2"Bb7" c B | %32
+w: you, and my-|self and I|* seem * to a-|gree|* that the|
+"Cmaj7" c2"A7" G E |"Dm7" G2"G7" D E |1"Cmaj7""Am7" C4- |"Dm7" C2"G7" z2 :|2"Cmaj7" C4 |] %37
+w: best thing for|you would be|me.||me.|
+

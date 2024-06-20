@@ -1,0 +1,26 @@
+X:1
+T:I Got A Right To Sing the Blues
+T:I Gotta Right To Sing The Blues
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z dcB |:"Gm7" ddcB"C9" d4- | d4 z ddd |"F7" fffd"F+" ^c4- | c4 z ^ccc |"Fm7" =cccc"Bb9" c4- | %6
+w: I got- ta|right to sing the blues,|_ I got- ta|right to feel low down,|_ I got- ta|right to hand a- round,|
+"Fm7" c4"Bb9" fdB=A |"Dm7b5" _A8 |"G7" G4 z dc_B |"Gm7" ddcB"C9" d4- |"Gm7" d4 z"C9" ddd | %11
+w: _ down a- round the|riv-|er. A cer- tain|man in this old town|_ keeps drag- gin'|
+"Cm9" dddd"F9" d4- |"Cm9" d4"F9" z F G2 |"Bb6" B4"F7" c4 |"F+" ^c4"Bb" d4 |"Cm7" e4"Edim" =e4 | %16
+w: my poor heart a- round.|_ All I|see for|me is|mis- er-|
+"F7" f4"Bb" z dc_B |"Gm7" ddcB"C9" d4- | d4 z ddd |"F7" fffd"F+" ^c4- | c4 z ^ccc | %21
+w: y. I got- ta|right to sing the blues,|_ I got- ta|right to moan and sigh,|_ I got- ta|
+"Fm7" =cccc"Bb9" c4- | c4 fdB=A |"Dm7b5" _A8 |"G7/B" G4"G7" z dc_B |"Gm7" d2 Bd-"C9" d4 | %26
+w: right to sit and cry|_ down a- round the|riv-|er. I know the|deep blue sea _|
+"Gm7" z4"C9" z dcB |"Ebm" d2 Bd- d4 | z4 z dcB |"Gm7" ddcB"C9" d3 ^F |"Cm7" GBcd"F7b9" e2 dB- |1 %31
+w: will soon be|call- ing me. _|It must be|love, say what you choose, I|got- ta right to sing the blues.|
+"Bb" B8 ||"Dm7" z4"G13" z dcB :|2"Bb" B8 |] %34
+w: _|I got- ta||
+

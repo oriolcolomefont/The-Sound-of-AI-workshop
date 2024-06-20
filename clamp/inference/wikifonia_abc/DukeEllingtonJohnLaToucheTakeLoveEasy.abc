@@ -1,0 +1,30 @@
+X:1
+T:Take Love Easy
+T:Take Love Easy
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"A7" z AAA-"D7" A D3 |"G7" A2 AA-"C7" A C3 |"Fmaj7" EFAc"A7" e2 Ad- |"Am7""D7" d8 | %4
+w: Take love eas- * y,|eas- y, eas- * y,|nev- er let your feel- ings show.||
+"G7" z e_ed-"C7" d _d3 |"F7" c2"E7" _cB-"Eb7" BA"D7"^GA |"G7" F2 D2"C7" z2 ^GA |"Fmaj7" F8 | %8
+w: Make it breez- * y,|breez- y, breez- * y, eas- y|come and eas- y|go.|
+"A7" A2 A2"D7" A2 D2 |"G7" (3z2 A2 A2"C7" A2 C2 |"Fmaj7" EFAc"A7" e2 Ad- |"Am7""D7" d8 | %12
+w: Nev- er smile too|bright- ly, bright- ly,|when your heart is rid- ing high,||
+"G7" z e_ed-"C7" d _d3 |"F7" c2"E7" _cB-"Eb7" BA"D7"^GA |"G7" F2 D2"C7" z2 ^GA |"Fmaj7" F6 F2 | %16
+w: let your heart * break|oh so slight- * ly when your|bab- y says good-|bye. That|
+"Cm7" G2 G2"F7" G2 F2 |"Cm7" z GGG-"F7" G4 |"Bbmaj7" FG B2"Cm7" A2"F7" cG- | %19
+w: well know flame is|might- y hot *|as all of us have learned,|
+"Bbmaj7" G6"Bbdim7" ^G2 |"Dm7" A2 A2"G7" A2 G2 |"Dm7" z AAA-"G7" A2 G2 |"Gm7" d2 D2 E2 F2 | %23
+w: * so|hand- le it with|vel- vet gloves * and|your won't get your|
+"C+7" A2 c^G- G4 |"A7" z AAA-"D7" A D3 |"G7" A2 AA-"C7" A C3 |"Fmaj7" EFAc"A7" e2 Ad- | %27
+w: fing- ers burned. *|Take love eas- * y,|eas- y, eas- * y|on the free and eas- y plan,|
+"Am7""D7" d8 |"G7" z e_ed-"C7" d _d3 |"F7" c2"E7" _cB-"Eb7" BA"D7"^GA |"G7" F2 D2"C7" z2 ^GA | %31
+w: |and if you * can't|take it eas- * y, take it|eas- y as you|
+"Fmaj7" F8 |] %32
+w: can!|
+

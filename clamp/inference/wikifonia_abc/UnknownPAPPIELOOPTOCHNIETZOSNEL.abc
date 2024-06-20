@@ -1,0 +1,28 @@
+X:1
+T:PAPPIE LOOP TOCH NIET ZO SNEL
+T: Laukens Music Productions  
+T:Jazz Rock
+T:PAPPIE LOOP TOCH NIET ZO SNEL
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ E2 F2 |"Eb" GA GF-"G7" F2 GF |"Cm" ED EF-"F7" F4 |"Eb" G_G =GE"Bb7" F F2 E- |"Ab" E8- | %5
+"Eb" E6 z B,S |:"Eb" EE EE EE DE |"Gm7" FF- F2- FF EF |"Eb" GG GG BG FE |"Bb7" F6- FB | %10
+"Eb" BB Bc"Eb7" B2 AB |"Ab" AB AG"Abm" F2 EF |"Eb" GG GG"Bb7" AF ED |"Eb" E3 E"Bb7" E F3 || %14
+"Eb" GB BG B c2 B- |"Eb7" B8 |"Ab" ce ec e f2 e- | e6 ef |"Eb" g g3"G7" f2 gf |"Cm" ec ef-"F7" f4 | %20
+"Eb" gg ge"Bb7" f f2 e- |"Eb" e4 e2 f2 | g_g =ge"Bb7" f f2 e- |"Ab" e8- |1"Eb" e6 z B, :|2 %25
+"Eb" (e6) z =B, ||[K:E]"E" EE EE EE DE |"G#m7" FF- F2- FF EF |"E" GG GG BG FE |"B7" F6- FB | %30
+"E" BB Bc"E7" B2 AB |"A" AB AG"Am" F2 EF |"E" GG GG"B7" AF ED |"E" E3 E"B7" E F3 || %34
+"E" GB BG B c2 B- |"E7" B8 |"A" ce ec e f2 e- | e6 ef |"E" g g3"G#7" f2 gf |"C#m" ec ef-"F#7" f4 | %40
+"E" gg ge"B7" f f2 e- |"E" e4 e2 f2 | g=g ^ge"B7" f f2 e- |"A" e8- |"E" e4 x4 |] %45
+

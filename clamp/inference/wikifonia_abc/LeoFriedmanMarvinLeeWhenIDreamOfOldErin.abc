@@ -1,0 +1,24 @@
+X:1
+T:When I Dream Of Old Erin
+T:When I Dream Of Old Erin
+C:Leo Friedman
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z G/F/ |"C" EGc"C+" edc |"Dm" cAc"C" G2 E/F/ | GAE Gcc |"D7" cAd"G7" d2 G/F/ |"C" EGc"C+" edc | %6
+w: When the|night- in- gale's sing- ing it's|sweet mel- o dies, And the|scent of the flow- ers per-|fumes the night breeze, Then I|dream of my old home far|
+"Dm" cAc"C" G2 E/F/ | GAE Gce |"D7" dA"G7"B"C" !fermata!c2 c/c/ |"F" cFA cBA |"C" GEF G2 A/B/ | %11
+w: o- ver the sea, By the|Lake of Kil- ar- ney, Where|I long to be. And I|see you, it seems, wit- ing|there on the shore, Where to-|
+"Am" cAA"D7" Adc |"G" B"A7"G"D7"A"G7" G2 G/F/ |"C" EGc edc |"Dm" cAc"C" G2 E/F/ | GAE Gce | %16
+w: geth- er we stay'd in the|sweet days of yore, I am|think- ing, to- night, of my|Col- leen so true: When I|dream of old E- rin I'm|
+"D7" dA"G7"B"C" !fermata!c2 B/c/ |"G" dG"D7"^F"G7" =F!fermata!ed |"C" cE"Cdim"A"C" G2 B/c/ | %19
+w: dream- ing of you. When I|dream of old E- rin I'm|dream- ing of you, With your|
+"G" dG"D7"^F"G7" =F!fermata!ed |"C" cE"Cdim"A"C" G2 A/B/ |"Am" cAc"E" B"E7"^G>G | %22
+w: sweet ro- gish smile and your|true eyes of blue; For my|love, like a Sham- rock, each|
+"F" AFc"C" G2 E/F/ | G"Cdim"A"G7"B"C" c"E"e>"Am"c |"D7" dA"G7"B"C" !fermata!c3 |] %25
+w: day strong- er grew; When I|dream of old E- rin, I'm|dream- ing of you.|
+

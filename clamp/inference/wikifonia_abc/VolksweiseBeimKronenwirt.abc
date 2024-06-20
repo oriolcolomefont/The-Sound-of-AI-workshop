@@ -1,0 +1,33 @@
+X:1
+T:Beim Kronenwirt
+T:Beim Kronenwirt
+T:Volksweise
+T:Der Krischan, der hat ja beim Pfarrer sein´n Platz, und rot wie der Mohn blüht die Kathrein, sein Schatz. Er sieht nach der Uhr, und es ist erst halb vier, bis sieben Uhr bleiben die Brautleute hier. Der Küster, der hält eine feurige Red´, er weiß, dass es ohne die Red´ gar net geht. und weil er beim Meß´tun und Läuten dabei, so schafft er für zwei, doch er frisst auch für drei. Auf einmal wird´s still, denn der Hans bläst ´nen Tusch, das Brautpaar ist plötzlich verschwunden, husch, husch, die Mädel, die blicken verlegen und stumm, mit ´nem Jauchzer da schwenken die Burschen sie rum. Die Nacht ist so lau und der Mond scheint so klar, noch einaml schreiten zum Tanzen die Paar. Vom Tanze erdröhnet das uralte Haus, beim Kronenwirt geht nun das Lämpeli aus. 
+C:Volksweise
+Z:All Rights Reserved
+L:1/4
+Q:1/4=180
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 G, |:"C" C E E | E D C |"G" B, G G | G3 | B2 A/G/ | F2 E/D/ |"C" C3- | C z C :|"F" F A A | %10
+w: ||||||||||
+w: Beim|Kro- nen- wirt,|da ist heut´|Ju- bel und|Tanz,|hei- di- del|die di- del-|dö.|* Die|Mu- sik, die|
+w: |Kath- rein trägt|heut ih- ren|Hei- li- gen|Kranz,|hei- di- del|die di- del-|dö.|||
+ A G F |"C" E G G | G2 E |"G7" D F F | F E D |"C" C E A |"G7" G A B |"C" c3- | c B A |"G7" B B B | %20
+w: ||||||||||
+w: spielt, und es|ju- belt und|lacht, die|Knö- del, die|damp- fen, der|Kro- nen- wirt|lacht, ha, ha,|hei-|* di- del|ha ha ha|
+w: ||||||||||
+ A3 |"G" B3- | B A G |"C" A A A |"G7" G A B |"C" c3- | c B c |"F" d d d | A3 |"G7" B3- | B A B | %31
+w: |||||||||||
+w: ha,|hei-|* di del|ha ha ha|ha, * *|hei-|* di- del|ha ha ha|ha,|hei-|* di- del|
+w: |||||||||||
+"C" c3- | c z2 |] %33
+w: ||
+w: dö.||
+w: ||
+

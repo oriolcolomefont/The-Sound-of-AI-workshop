@@ -1,0 +1,39 @@
+X:1
+T:Catch My Breath
+T:Catch My Breath
+T:Kelly Clarkson
+C:Kelly Clarkson,Jason Halbert,Eric Olson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E" z2 cc cBAB- |"D" Bc A4- A2 |"E" z2 cc"F#m" cBAB- |"D" Bc A4- A2 |"E" z2 cc"F#m" cBAB- | %5
+w: I don't wan- na be left|_ be- hind *|Dis- tance was _ a friend|_ of mine. *|Catch- ing breath in a web|
+"D" Bc A4- A2 |"E" B4"F#m" A4 |"D" d3 c- c c3 |"E" B2 cc cBAB- |"D" Bc A4- A2 | %10
+w: _ of lies. *|I've spent|most of * my|life. Rid- ing waves play- ing a|_ cro bat *|
+"E" z2 cc"F#m" cBAB- |"D" Bc A4- A2 |"E" z2 cc"F#m" cBAB- |"D" Bc A4- A2 |"E" B4"F#m" A4 | %15
+w: Sha- dow box- ing the o|_ ther half. *|Learn- ing how _ _ to|_ re- act. *|I've spent|
+"D" d3 c- c c3 |"E" B2 z2 AB c2 |"D" cB- B2 AB c2 |"E" G3 z AB c2 |"F#m" c2 AA ce e2 | %20
+w: most of * my|time Catch- ing my|breath * * let- ting it|go. Turn- ing my|cheek for the sake of this|
+"E" B3 z AB c2 |"D" c3 z AA e2 |"E" e c3 AB c2 |"F#m" c2 AA ce e2 |"E" B3 z z4 |"D" B3 B c2 AF | %26
+w: show. Now that you|know this is my|life * I won't be|told what's sup- posed to be|right.|Catch my _ breath _|
+"E" z eee BAAF |"F#m" z eee BAAB |"E" z8 |"D" B3 B c2 AF |"E" z eee BAAF |"F#m" z eee BAAF | %32
+w: no- one can hold me back _|I a'int got time for that _||Catch my _ breath _|won't let them get me down _|it's all so sim- ple now. _|
+"E" z8 |"D" e8 | d4 c4 |"E" B c4- c3 | z2 z2 z2 z A |"F#m" B c4- c3 | z4 z2 A2 | %39
+w: |You|made me|see _ _|the|beauty _ _|in|
+"E""F#m" G3 A3"E/G" e2 | z2 z2 AB c2 |"D" c B3 AB c2 |"E" G3 z AB c2 |"F#m" c2 AA ce e2 | %44
+w: ever- y thing.|Catch- ing my|breath _ lett- ing it|go, Turn- ing my|cheek for the sake of this|
+"E" B3 z AB c2 |"D" c3 z AA e2 |"E" e c3 AB c2 |"F#m" c2 AA ce e2 |"E" B3 z AB c2 |"D" c B3 AB c2 | %50
+w: show. Now that you|know this is my|life _ I won't be|told what's sup- posed to be|right. Catch- ing my|breath _ lett- ing it|
+"E" G3 z AB c2 |"F#m" c2 AA ce e2 |"E" B3 z AB c2 |"D" c3 z AA e2 |"E" e c3 AB c2 | %55
+w: go. Turn- ing my|cheek for the sake of this|show. Now that you|know this is my|life _ I won't be|
+"F#m" c2 AA ce e2 |"E" B3 z z4 |"D" B3 B c2 AF |"E" z eee BAAF |"F#m" z eee BAAB |"E" z8 | %61
+w: told what's sup- posed to be|right.|Catch my _ breath _|No- one can hold me back _|I ain't got time for that _||
+"D" B3 B c2 AF |"E" z eee BAAF |"F#m" z eee BAAB |"E" z eee fee z |] %65
+w: Catch my _ breath _|won't let them get me down _|It's all so sim- ple now _|It's all so sim- ple now.|
+

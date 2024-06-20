@@ -1,0 +1,26 @@
+X:1
+T:O Mio Babbino Caro
+T:O Mio Babbino Caro
+C:Giacomo Puccini
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ab" AAA c2 G |"Ab/C" F3 E3 |"Ab" ABc A2 a |"Ab/C" e3"Ab" e2 c |"Eb" e2 B"Bbm7" d2 c |"Fm" A3 A3 | %6
+w: O mio bab- bi- no|ca- ro,|mi pia- ce,͜~è bel- lo,|bel- lo; vo͜'~an~-|da- re͜~in Po- ta'|Ro- sa|
+"Bb9" ABc A2 G |"Eb" B3 B2"Eb7" E |"Ab" A3"Ab/Eb" cAG |"Ab/C" F3 E3 |"Ab" ABc"Ab/Eb" A2 a | %11
+w: a com- pe rar l'a|nel- lo! Si.|si, ci vog- lio͜~an-|da- re!|e se l'a- mas- si͜~in-|
+"Ab/C" e3"Ab" e2 f |"Db" a2 f"Eb7/Bb" e2 d |"Cm" e3"Fm" c3 |"Db" ABc"Bbm7" A2 F |"Fm" A3 A z f | %16
+w: dar- no, an-|drei sul Pon- te|Vec- chio,|ma per bu- tar- mi͜~in|Ar- no! Mi|
+"Bbm7" a2 f"Eb" e2 d |"Ab/C" a2 e"Db/F" d2 c |"Bbm9" f6 | f2 d"Eb" c2 B |"Ab" A3 c'2 g | %21
+w: strug- go͜~e mi lor-|men- * to! O|Di-|o, vor- rei mo-|rir! * *|
+"Ab/C" f3 e3 |"Ab" ABc"Ab/Eb" A2 a |"Ab/C" e3- !fermata!e3 |"Db" ABc"Bbm7" A2 F | %25
+w: |Bab- bo pie- tà, pie-|tà! _|Bab- bo pie- tà, pie-|
+"Ab" A2 z z/ C/E/A/c/e/ | a3- a z2 |] %27
+w: tà!.... * * * * *||
+

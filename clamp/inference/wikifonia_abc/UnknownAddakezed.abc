@@ -1,0 +1,20 @@
+X:1
+T:Add a kezed
+T:Add a kezed
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 52
+V:1
+"E" E2 EF G2 E2 |"A" A2 GF"E" (GF) E2 |"A" A2 GF"E" (GF) E2 |"B7" D2 DE F4 |"E" E2 EF G2 E2 | %5
+w: 1.~Add a ke- zed, hogy|zeng- jünk az Úr- * nak,|zeng- jünk az Úr- * nak|al- le- lu- ját,|Add a ke- zed, hogy|
+"A" A2 GF"E" (GF) E2 |"A" A2 GF"E" (GF) E2 |"B7" F2 ED"E" E4 |"A""^Refrén" z A2 A (AG)(FA) | %9
+w: zeng- jünk az Úr- * nak,|zeng- jünk az Úr- * nak|al- le- lu- ját.|Al- le- lu- * ja, *|
+"E" z G2 G (GF)(EG) |"B7" z F2 F (FE)(DF) |"E" E2 EF"E7" G4 |"A" z A2 A (AG)(FA) | %13
+w: al- le- lu * ja, *|al- le- lu- * ja, *|al- le- lu- ja,|Al- le- lu- * ja, *|
+"E" z G2 G (GF)(EG) |"B7" z F2 F (FE)(DF) |"E" E2 ED E4 |] %16
+w: al- le- lu * ja, *|al- le- lu- * ja, *|al- le- lu- ja.|
+

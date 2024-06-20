@@ -1,0 +1,30 @@
+X:1
+T:You Are My Destiny
+T:You Are My Destiny
+C:Paul Anka
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A7" z2 A2 A2 A2 |:"Dm" A3 B A4- | A2 A2 A2 A2 |"Gm" A3 G G4 | z2 G2 G2 G2 | G3 A G4 | %6
+w: You are my|des- ti- ny,|* You share my|re- ver- ie,|You are my|hap- pi- ness,|
+"A7" z2 A2 E3 F |"Dm""Gm" D8- |"Dm" D2"A7" A2 A2 A2 |"Dm" A3 B A4- | A2 A2 A2 A2 |"Gm" A3 G G4 | %12
+w: That's what you|are.|_ You are my|sweet ca- ress|_ You share my|lon- li- ness,|
+ z2 G2 G2 G2 | G3 A G4 |"A7" z2 A2 E2 F2 |"Dm""Gm" D8- |"Dm" D8 |"A7" E E3 EF (F2 | %18
+w: You are my|dream come true,|That's what you|are.|_|Heav en and heav- en|
+"Dm" F3) _E D3 B, |"A7" E3 E E3 E |"Dm" A6 A2 |"Gm" B2 BB dddd |"Dm" d3 A A2 AA |"E7" ^G3 G G3 G | %24
+w: _ a lone can|take your love from|me. 'Cause|I'd be a fool to ev- er|leave you dear, and a|fool I'd nev- er|
+"A7" A8 | z2 A2 A2 A2 |"Dm" A3 B A4- | A2 A2 A2 A2 |"Gm" A3 G G4 | z2 G2 G2 G2 | G3 A G4 | %31
+w: be.|You are my|des- tin- y,|_ you share my|rev- er- ie.|You're more than|life to me.|
+"A7" z2 A2 E2 F2 |"Dm" D8- | D2"A7" A2 A2 A2 |"Dm" A3 B A4- | A2 A2 d2 A2 |"Gm" A3 G G4 | %37
+w: That's what you|are.|_ You are my|des- tin- y,|_ you share my|re- ver- ie.|
+ z2 G2 G2 G2 | G3 A G4- |1"A7" G2 A2 E2 F2 |"Dm""Gm" D8- | D2"A7" A2 A2 A2 :|2"A7" d4 f4- | %43
+w: You are my|hap- pi- ness,|_ That's what you|are.|_ You are my|That's what|
+ f2 a2"Gm" g4- | g8 |] %45
+w: _ you are.|_|
+

@@ -1,0 +1,37 @@
+X:1
+T:He Hideth My Soul
+T:He Hideth My Soul
+T:William J. Kirkpatrick
+T:Fanny J. Crosby
+T:Public Domain
+C:William J. Kirkpatrick
+Z:Public Domain
+L:1/8
+M:6/8
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G | G>FE EDC |"F" A>AA"C" G2 G | G>FE EFE |"G" D3- D2 G |"C" G>FE EDC |"F" A>AA c2 A | %7
+w: 1.~A~~~~~~|won- der- ful Sav- iour is|Je- sus my Lord, A|won- der- ful Sav- ior to|me. * He|hid- eth my soul in the|cleft of the rock, Where|
+w: 2.~A~~~~~~|won- der- ful Sav- ior is|Je- sus my Lord. He|tak- eth my bur- den a-|way. * He|hold- eth me up, and I|shall not be moved. He|
+w: 3.~With~|num- ber- less bless- ings each|mo- ment He crowns; And,|filled with His full- ness di-|vine, * I|sing in my rap- ture, "Oh,|glo- ry to God For|
+w: 4.~When|clothed in His bright- ness, trans-|port- ed I rise To|meet Him in clouds of the|sky, * His|per- fect sal- va- tion, His|won- der- ful love, I'll|
+"C" G>GG"G" GFD |"C" C3- C2"^REFRAIN" G |"G7" B>BB B2 A/B/ |"C" c>BA G2 G |"G7" FEF DAG | %12
+w: ri- vers of pleas- ure I|see. * He|hid- eth my soul in the|cleft of the rock That|sha- dows a dry, thir- sty|
+w: giv- eth me strength as my|day. * *||||
+w: such a Re- deem- er as|mine!" * *||||
+w: shout with the mil- lions on|high! * *||||
+"C" E3- E2 G | c>cc c2 c/c/ |"F" d>cA c2 A |"C" G>GG"G" GGG |"C" G3- G2"F" A |"C" G>EC"G7" F>B,B, | %18
+w: land. * He|hid- eth my life in the|depths of His love, And|cov- ers me there with His|hand, * And|cov- ers me there with His|
+w: ||||||
+w: ||||||
+w: ||||||
+"C" C3- C2 |] %19
+w: hand. *|
+w: |
+w: |
+w: |
+

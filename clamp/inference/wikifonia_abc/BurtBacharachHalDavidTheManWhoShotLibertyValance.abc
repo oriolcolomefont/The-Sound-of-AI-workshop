@@ -1,0 +1,49 @@
+X:1
+T:The Man Who Shot Liberty Valance
+T:The Man Who Shot Liberty Valance
+T:Burt F. Bacharach
+T:Hal David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z E/E/ z E | z"Bb" D"Eb" E/E/"Bb" F |:"Eb" G G F E |"Ab" C3/2 C/ E/ F3/2 |"Eb" G B"Cm" c2- | %5
+w: |When Lib- er- ty|Val- ance rode to|town the wom- en|folk would hide,|
+w: ||girl can make a|man stay on when|he should go,|
+ c3 G |"Ab6" F4- | F"Bb" D"Ab" E/E/"Bb" F |"Eb" G G F E |"Ab" C3/2 C/ E F |"Eb" G/ B c/-"Cm" c2- | %11
+w: * they'd|hide,|* When Lib- er- ty|Val- ance walked a-|round the men would|step a- side; *|
+w: * stay|on|* Just try- in' to|build a peace- ful|life where love is|free to grow, *|
+ c3 B/c/ |"Gm" d/c/B/c/- c B/G/ |"Dm" =A/ G F/- F z/ F/ |"Gm" G/=A/ B B d |"Ab" c2"Bb" d d/d/ | %16
+w: * 'Cause the|point of a gun * was the|on- ly law * that|Lib- er- ty un- der-|stood. * When it|
+w: * But the|point of a gun * was the|on- ly law * that|Lib- er- ty un- der-|stood * When the|
+"Eb" e e/d/-"Gm" d/c/ B |"Cm" c c/G/- G/F/ E- |"Ab" E3/2 E/ G/ F3/2 | E2 C2 |"Eb" E3 z | %21
+w: came to shoot- * * in'|straight and fast * * *|* * he was|might- y|good.|
+w: fi- nal show- * * down|came at last * * *|* a law book|was no|good.|
+ z"Bb" D"Ab" E"Bb" F/F/ |"Eb" G G F E |"Ab" C3/2 C/ E/ F3/2 |"Eb" G B"Cm" c2- | c3 G |"Ab6" F4- | %27
+w: From out of the|east a stran- ger|came, a law book|in his hand|* a|man.|
+w: A- lone and a-|fraid she prayed that|he'd re- turn that|fate- ful night,|* that|night|
+ F"Bb" D"Ab" E/E/"Bb" F |"Eb" G G F E |"Ab" C3/2 C/ E F |"Eb" G/ B c/-"Cm" c2- | c3 B/c/ | %32
+w: * The kind of a|man the west would|need to tame a|trou- bled land; *|* 'Cause the|
+w: * When noth- ing she|said could keep her|man from go- in'|out to fight, *|* From the|
+"Gm" d/c/B/c/- c B/G/ |"Dm" =A/ G F/- F z/ F/ |"Gm" G/=A/ B B d |"Ab" c2-"Bb" c d/d/ | %36
+w: point of a gun * was the|on- ly law * that|Lib- er- ty un- der-|stood * When it|
+w: mo- ment a girl * gets to|be full grown * the|ver- y first thing she|learns * When two|
+"Eb" e e/d/-"Gm" d/c/ B |"Cm" c c/G/- G/F/ E- |"Ab" E2 G/ F3/2 | E2 C2 |"Cm" C4 | c/c/ c"Gm" d d | %42
+w: came to shoot- * * in|straight and fast * * *|* he was|might- y|good.|Man- y a man would|
+w: men go out * * to|face each oth- * * er|* on- ly|one re-|turns.|Ev- 'ry- one heard two|
+ d"Cm" e c G |"Cm7" B/B/ B"Cm" c/c/"Gm" d |"Ab" c2"Bb" B z/ B/ |"Eb" e e"Gm" B z | %46
+w: face his gun and|man- y a man * would|fall, * The|man who shot|
+w: shots ring out, one|shot * made Lib- er- ty|fall, * The|man who shot|
+"Cm" e/d/ c"Gm" B c |"Cm" z e"Gm" B z |"Cm" e/d/ c"Gm" B c |"Ab" z c B G |1"Ab" c B E"Bb" F || %51
+w: Lib- er- ty Val- ance,|he shot|Lib- er- ty Val- ance,|he was the|brav- est of them|
+w: Lib- er- ty Val- ance,|he shot|Lib- er- ty Val- ance,|he was the||
+"Eb" G4- | G3 z | z4 | z"Bb" D"Ab" E"Bb" F/F/ :|2"Ab" c4 || B4 | C4- | C2 E2 |"Eb" G4- | G3 z |] %61
+w: all|||The love of a|brav-|est|of|* them|all.-||
+w: ||||||||||
+

@@ -1,0 +1,21 @@
+X:1
+T:Little Annie Rooney
+T:Little Annie Rooney
+T:Michael Nolan
+C:Michael Nolan
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c3 | F3 | c3 | F3 |"Bb" f3 | d3 |"F" c3- | c3 |"Bb" d3 | B3 |"F" c A2- | A3 |"G7" A3 | F3 | %14
+w: She's|my|sweet-|heart|I'm|her|beau.||She's|my|An- nie||I'm|her|
+"C7" G3- | G3 |"F" c3 | A3 | G F2- | F3 | c f2- | f2 e |"Bb" d3- | d3 |"F" c c2 |"C7" d2 e | %26
+w: Joe||Soon|we'll|mar- ry||Nev- er|* to|part||Lit- tle|An- nie|
+"F" f c2- | c2 d | A3 |"C7" G3 |"F" F3- | F2 z |] %32
+w: Roon- ey|* is|my|sweet-|heart.-||
+

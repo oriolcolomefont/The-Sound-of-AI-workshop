@@ -1,0 +1,28 @@
+X:1
+T:Our Magic Night
+T:Our Magic Night 
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/4
+Q:1/4=110
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ D2"G" B2- |"G" B ^F E"D" F- |"D" F2 z D | E ^F"C" c2 | G"D7" ^F3 | z D"C" c2 | G ^F"C" G2 | %7
+w: Are you|_ an an gel|_ You|with the gold|en hair|I seem|to see you|
+ z D"D7" A2 | D"C" _B2 D |"G" B3 z |: D"G" B2 A | ^F"Em" E2 z | D d"G" d2 |"G" d"G" d2 c | %14
+w: In my|dreams ev ry|where|Are you real|ly real|or are you|a dream I'm|
+ B"Em" A3 | z A"Am" ^G2 | A"C" c2 B |"D7" ^F2 G"G" B- |"G" B2 A"D7" ^F- |"D7" F G B A- | %20
+w: dream ing|Did I|just touch your|fing er tips|_ and did|_ you whis per|
+ A"Em" E2 F |"D7" ^F3 z | D"G" B2"G" A- |"G" A ^F E"D" F- |"D" F2 z D |"G" d3 d- | d d c B | %27
+w: _ kiss my|lips|Are we real|_ ly danc ing|_ And|are you|_ hold ing me|
+"Em" E3 z |"Em" A2"G" B2 | c B"D7" ^F2- | F z E ^F | B"D7" A2 D |"G" G4 :| %33
+w: tight|You're so|en tranc ing|_ This is|our mag ic|night|
+

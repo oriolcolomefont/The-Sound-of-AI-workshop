@@ -1,0 +1,21 @@
+X:1
+T:How You Gonna Keep Em Down On The Farm?
+T:How you gonna keep em down on the farm?
+T:unknown
+C:Walter Donaldson, Sam Lewis, Joe Young.
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" c G A E | G2 A2- | A"G7" B A B | G4- | G B A B | G2 B2 |"C" A4- | A4 | c G A E | G2 A A | %10
+w: How you gon- na|keep em|* down on the|farm|* aft- er they've|seen Par-|ree?||How you gon- na|keep em a-|
+"G" B2 c2 | ^c2 d2- | d"D7" e d e | d4- | d"G7" e d e | d4 | G4 |"C" c G A E | G2 A2- | %19
+w: way from|Broad- way|* gad- ding a-|round|* a- paint- ing|the|town|How you gon- na|keep em|
+ A z"G7" B A | G4 | B2 A2 | G2 f2 |"E7" e4- | e2 c2 |"C7" d B e c | d c e c | A c2 c |"F" d c e c | %29
+w: * 'way from|harm?|thats the|mys- ter-|y|* they'll|nev- er want to|use a rake or|a plough and|who the heck can|
+ d c e c | c4 |"C" c G A E | G2 A2- | A"G7" B A B | G4- | G f e f | d2 e2 |"^C" c4 |] %38
+w: Par- lez vous a|cow?|How you gon- na|keep em|* down on the|farm|* aft- er they've|seen Par-|ree?-|
+

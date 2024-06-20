@@ -1,0 +1,19 @@
+X:1
+T:Pikapolonica
+T:Pikapolonica
+T:Lenċka Kupper
+C:Lencka Kupper
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" .E .G .E .G | c B/G/"G" F D | .D .F .D .F | A B/A/"C" G E | .E .G .E .G | c/c/d/c/"F" c A | %6
+w: Pi- ka, po- ka,|pi- ka- po- loni- ca,|pi- ka, po- ka,|pi- ka- po- loni- ca,|pi- ka, po- ka,|pi ka po- lo- ni- ca,-|
+w: Gor in dol po|lis- tu ko- ba- ca,|iš- če za- te,|sre- čo po- vso- od.|Zdaj se že v|e- no smer od- prav- lja,|
+ .A .c"C" .e .G |"G" d/d/c/B/"C" c2 |] %8
+w: pi- ka, po ka,|se- dem pik i- ma.-|
+w: bo za te- be,|to res pra- va pot?|
+

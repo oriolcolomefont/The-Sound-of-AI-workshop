@@ -1,0 +1,27 @@
+X:1
+T:Kiss the Boys Goodbye
+T:Kiss the boys goodbye
+T:Frank Loesser, Victor Schertzinger
+C:Frank Loesser, Victor Schertzinger
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" C2 E2 G2 c2 |"Fm" B2 GB- B4 |"F" z2 AG FGAF |"C" G2 EG-"A7" G4 |"Dm" z2 FE"Fm" DEFD | %5
+w: Dad- dy let me|stay out late *|for to- morr- ow is our|wed- ding date *|cant your ba by kind a|
+"C" E2 CE-"Am" E4 |"Dm7" z D2 C B,2 D2 |"C" C6 z2 | C2 E2 G2 c2 |"Fm" B2 GB- B4 |"F" z2 AG FGAF | %11
+w: cel e brate *|kiss the boys good|bye|Da- dy let me|wear the mink *|whats the diff- rence what the|
+"C" G2 EG-"A7" G4 |"Dm" z2 FE"Fm" DEFD |"C" E2 CE-"Am" E4 |"Dm7" z D2 C"G7" B,2 D2 |"C" C4- CCDE | %16
+w: neigh- bors think *|let the ba- by lin- ger|on the brink *|kiss the boys good-|bye * and while I'm|
+"Dm" FF F2 G2 G2 |"C" E2 E4 DE |"Dm" D2 FF G2 G2 |"C" E4- EE^FG |"Am" A2 AA"B7" B2 B2 | %21
+w: kiss- ing them sen- ti-|ment'- ly keep the|lib- er- al point of|view * be- cause I'm|break- ing it to them|
+"Em" G2 G4"Cm" A^A |"G" B2 D2"D7" C2 =A2 |"G7" G6 G2 |"C" C2 E2 G2 c2 |"Em" B2 GB- B4 | %26
+w: gent- ly that my|heart be- longs to|you so|dad- dy please re-|mem- ber this *|
+"F" z2 AG FGAF |"C" G2 EG-"A7" G4 |"Dm" z2 FE"Fm" DEFD |"C" E G2"Em" c-"Am" c4 | %30
+w: that to- mor- row starts a|life of bliss, *|let me show them what they're|gon- na miss *|
+"D7" d2 c2"G7" B2 d2 |"C" c8 |] %32
+w: kiss the boys good-|bye.-|
+

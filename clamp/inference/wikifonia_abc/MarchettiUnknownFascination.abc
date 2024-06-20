@@ -1,0 +1,36 @@
+X:1
+T:Fascination
+T:FASCINATION
+T:Fidenco Dante Marchetti / Manning 1904
+C:Marchetti
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"^A" G,A,CE |:"Ab" A6 |"Eb7#5" G4 z A |"Abmaj7" G6- | G2 G,A,CE |"Ab/C" A2 G2 A2 |"G7/B" G2 F3 G | %7
+w: It was Fas- ci-|na-|tion I|know,|_ & it might have|end- ed right|then at the|
+"Bbm""F" F6-"F7" |"Bbm" F2 =A,B,DF |"Bbm" B6- | B2 =A,B,DF |"Bbm7" A6- | A2 =A,B,DF | %13
+w: start,|_ Just a pas- sing|glance,|_ just a brief ro-|mance,|_ & I might have|
+"Bbm" B2 A2 G2 | F2 D3 B, |"Db/Eb" A,4"Eb7" G,2- | G, z G,A,CE ||"Ab" A6 |"Eb7#5" G4 A2 | %19
+w: gone on my|way emp- ty|heart- ed.|* It was fas- ci-|na-|tion I|
+"Abmaj7" G6- | G2 G,A,CE |"Ab/C" A2 G2 A2 |"G7/B" G2 F3 G |"Bbm""F" F6-"F7" |"Bbm" F2 =A,B,DF | %25
+w: know|* see- ing you a-|lone with the|moon- light a-|bove,|* then I touched your|
+ d2 c2 B2 | A2 F3 D |"Bbm7b5" C4 B,2-O"^Al Coda" ||"Eb7" B, z =E,F,B,D |"Bbm" F6 |"Eb7" G6 | %31
+w: hand & next|mo- ment I|kissed you,|* Fas- ci- na- tion|turned|to|
+"Ab" A6- | A2 A,2 B,2 |]:[K:Db]"Db""^B" D2 F2 A2 |"Ab7#5" B2 c3 A |"Db" F4 A2 |"Ab7#5" B2 c3 A | %37
+w: love||||||
+"Db" F4 E2 ||1 C2 D3 A |"Ab7" A6- | A z A,2 B,2 | C2 E2 G2 | B2 c3 A | G4 A2 | B2 c3 A | G4 F2 | %46
+w: |||||||||
+ =D2 E3 A |"Db" A6- | A z A,2 B,2 :|2 C2 D3 d ||"Gb" d6- | d z d2 e2 |"Ebm7" d2 c2 d2 | %53
+w: |||||||
+"Edim" c2 B2 c2 |"Db" B2 A3 F |"Bb7" !fermata!A z F2 G2 |"Eb7" F2 E2 B,2 |"Ab7" C2 A,2 A2 | %58
+w: |||||
+"Db" D6- ||"Eb7" D z =G,A, C"^D.S. al Coda"E |][K:Ab]O"Eb7" B, z =E,F,B,D |"Bbm" F6 |"Eb7b9" c6 | %63
+w: ||* Fas- ci- na- tion|turned|to|
+"Ab" A6- | A2 z2 z2 |] %65
+w: love||
+

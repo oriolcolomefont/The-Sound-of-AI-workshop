@@ -1,0 +1,26 @@
+X:1
+T:When The Sun Says Goodnight To The Mountain
+T:when the sun says good night to the mountain
+T:larry vincent
+T:harry pearse
+C:Larry Vincent
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" B4 |"D" A2 D A |"G" G2 G2- | G4 | B2 D B |"D" A2 D A |"G" G4- | G4 |"C" E2 E F | G2 G E | %10
+w: DAY|FADES IN TO|TWI- LIGHT-||STARS WILL BE|SOON PEE PING|THRU,||WATCH- ING AND|HO PING AND|
+"G" D4 |"G" B4 |"D" A2 B A |"C" G2 ^D E |"D" A4 |"G" G A z z | B2 D ^D |"C" E2 G c |"G" B z G2- | %19
+w: WAIT|ING,|OH! HOW I'M|LONG ING FOR|YOU|WHEN THE|SUN SAYS 'GOOD|NIGHT' TO THE|MOUN TAIN|
+ G2 B c |"Bm" B2"D" A F | D2 F A |"G" G4- | G z G A | B2 D ^D |"C" E2 G c |"G" B z G2- | G2 B c | %28
+w: * AND THE|GOLD OF THE|DAY MEETS THE|BLUE|* IN MY|DREAMS I'M A|LONE ON THE|MOUN TAIN|* WITH A|
+"Bm" B2"D" A F | D2 F A |"G" G4- | G3"G" G |"C" c2 E G |"Cm" c3 c |"G" B2 D G | B3 B |"D" A2 A B | %37
+w: HEART THAT KEEPS|CALL ING FOR|YOU|* THE|VOICE IN THE|TREES, THE|SONG IN THE|BREEZE, THEY|BRING MEM O|
+"A7" ^c ^c B A |"G" d4- | d2 G A | B2 D ^D |"C" E2 G c |"G" B G3- | G2 B c |"G" B"D" A2 F | %45
+w: RIES OF LOVE WE|KNEW|* WHEN THE|SUN SAYS 'GOOD|NIGHT' TO THE|MOUN TAIN|* I AM|DREAM ING, MY|
+ D F2 G |"G" G4 |] %47
+w: SWEET HEART, of|you|
+

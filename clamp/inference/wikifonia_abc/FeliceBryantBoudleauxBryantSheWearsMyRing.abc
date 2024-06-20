@@ -1,0 +1,25 @@
+X:1
+T:She Wears My Ring
+T:She wears my ring
+T:Boudleaux Bryant, Felice Bryant,
+C:Felice Bryant, Boudleaux Bryant
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 A,2 (FA,)(EA,) |:"D" F4- F3 E | F3 G A3 B |"A7" B4- BAGF | E4 A,2 DE |"D" F4- F3 A | %6
+w: She wears _ my _|ring _ to|show the world that|she _ be- longs to|me she wears my|ring _ to|
+ ^G3 A B3 A |"A7" E4- EFGF | E3 A,2 D2 E |"D" F6 E2 |"D7" D3 F A3 d |"G" d8 | B4 z2 (3BGE | %13
+w: show the world she's|mine _ e- ter- nal-|y with lov- ing|care I|placed it on her|fin-|ger to show my|
+"D" F6 A2 |"Am7" ^G3 A"A7" =G3 C |"D" D8- |"F" D2"D" A2 B3 A |"A7" A6 GE | (3CAB z4 (3cde |"D" f8 | %20
+w: love for|all the world to|see|_ this ti- ny|ring is a|to- ken of ten- der e-|mo-|
+ d3 f e2 d2 |"A7" c3 c d4 | c2 Bc d2 cB |"D" A8 | F4 A A2 B | A4 F4- |"D7" F2 F2 G2 (3AB=c | %27
+w: tion an end- less|pool of love|* that's as deep as the|o-|cean she swears to|wear it|_ with e- ter- nal de-|
+"G" d8 | B4 B G2 E |"D" F6 A2 |"Am7" ^G3 A"A7" =G3 C |1"D" D8- |"G" D2"D" A,2 DA,EA, :|2"D" D8- | %34
+w: vo-|tion that's why I|sing be-|cause she wears my|ring|_ be- cause she wears my|ring|
+"G" D6"D" z2 |] %35
+w: _|
+

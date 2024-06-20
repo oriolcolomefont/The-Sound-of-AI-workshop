@@ -1,0 +1,45 @@
+X:1
+T:I Won't Give Up
+T:I Won't Give Up
+T:Jason Mraz
+C:Jason Mraz
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:E
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"E" E/E/ EFG |"A/E" A3"E" G3 | z z E/E/ EFG |"A/E" A3"E" G3 | z z E/E/ EFG |"A/E" A3"E" G3 | %6
+w: When I look in- to|your eyes|It's like watch- ing the|night sky|Or a beau- ti- ful|sun- rise|
+ z z G GFE |"B" F3 E2 E | D2 E"E" EFG |"A/E" A3"E" G3 | z z E EFG |"A/E" A2 B"E" G3 | z z E EFG | %13
+w: There's so much they|hold * *|* And just like them|old stars|I see that you've|come so far|To be right where|
+"A/E" A3"E" G3 | z z G GFE |"Bsus4" F3 E2 E |"B" D3 GFE |"A" E3 E3 |"E" E2 z G/G/FE |"C#m" E3 E3 | %20
+w: you are.|How old is your|soul * *|* I won't give|up on|us Ev- en if the|skies get|
+"B" F2 z/ E/"E" GFE |"A" E3 E3 |"E" E2 z/ E/ EEF |"Bsus4" F3 E2 E |"B" D2 E/E/"E" EFG | %25
+w: rough I'm giv- ing you|all my|love I'm still look- ing|up * *|* And when you're need- ing|
+"A/E" A3"E" G3 | z z z EFG |"A/E" A2 B"E" G G2 | z z z EFG |"A/E" AAB"E" G G2 | z z G GFE | %31
+w: your space|to do some|na- vi- ga- ting|I'll be here|pa- tient- ly wait- ing|to see what you|
+"Bsus4" F3 E2 E |"B" D2 B"E" gfe |"A" e3 e3 |"E" e3 gfe |"C#m" e3 e2 f |"B" f3 gfe |"A" e3 e3 | %38
+w: find * *|* Cause e- ven the|stars they|burn Some e- ven|fall down the|earth We've got a|lot to|
+"E" e3 eef |"Bsus4" f B2 E2 E |"B" D2 g gfe |"C#m" e3 G3 | G3 F2 F/G/ | %43
+w: learn God knows we're|worth it * *|* No I won't give|up *|* * I don't|
+"F#m" A/G/A/G/A/G/ A/G/A/G/A/G/ | A/G/A/G/A/G/ A/G/A/G/A/G/ |"B" A/>B/-B/B/-B z z z | z z z z FG | %47
+w: wan- na be some- one who walks a- way so ea- si|ly I.m here to stay and make the dif- fe- rence that|I can * be *|Our dif-|
+"F#m" A/G/A/G/A/G/ A/G/A/G/A/G/ | A/G/A/G/A/G/ A/G/A/G/A/G/ |"B" A/>B/-B/B/-B z z z | %50
+w: fer- en- ces they do a lot to teach us how to|use the tools and gifts we got * yeah we got a|lot at * stake *|
+ z z z z z/ B/B/c/ |"D" =d/c/d/c/d/c/ d/c/d/c/d/c/ | =d/c/d/c/d/c/ d/c/d/c/d/c/- | %53
+w: And in the|end you're still my friend at least we did in- tend for|us to work we didn't break we did- n't burn * *|
+"B" c/d/d/d/B z d/d/B- | B/d/d/d/B z d/d/B- |"D" B/=d/d/d/A z d/d/A- | A/=d/d/d/A z z/ ^d/d/d/ | %57
+w: * We had to learn how to bend|* with- out the world cav- ing in|* I had to learn what I've got|* and what I'm not and who I|
+"E" e6 | z z z gfe |"A" e3 e3 |"E" e3 g/g/fe |"C#m" e3 e3 |"B" f2 z/ B/ gfe |"A" e3 e3 | %64
+w: am|I won't give|up on|us E- ven if the|skies get|rough I.m giv- ing you|all my|
+"E" e2 z/ e/ eef |"B" f2 z eef | f2 z gfe |"A" e3 e3 |"E" e3 gfe |"C#m" e3 e3 | f3 gfe |"A" e3 e3 | %72
+w: love I'm still look- ing|up Still look- ing|up I won't give|up on|us God knows I'm|tough e-|nough We've got a|lot to|
+"E" e3 eef |"B" f B2 z z z | z z z GFE |"A" E3 E3 |"E" E2 z G/G/FE |"C#m" E3 E3 |"B" F2 z/ E/ GFE | %79
+w: learn God knows we're|worth it|I won't give|up on|us E- ven if the|skies get|rough I'm giv- ing you|
+"A" E3 E3 |"E" E2 z/ E/ EEF |"B" F6 |] %82
+w: all my|love I'm still look- ing|up.|
+

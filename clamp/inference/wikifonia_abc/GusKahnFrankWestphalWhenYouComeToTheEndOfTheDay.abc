@@ -1,0 +1,25 @@
+X:1
+T:When You Come To The End Of The Day
+T:When You Come To The End Of The Day
+T:Gus Kahn & Frank Westphal
+C:Gus Kahn & Frank Westphal
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 =EF |"Bb" d4 AB |"D7" c4 B^F |"Eb" G6- |"G7/D" G4 ^FG |"Cm" e4 =Bc |"Cm7/Eb" d4 c^G |"F7" A6- | %8
+w: When you|come to the|end of the|day,|* and the|night calls your|wor- ries a-|way,|
+"F7/Eb" A4 =EF |"Bb/D" f4 f2 |"Dbdim" =e4 e2 |"F7/C" e4 e2 |"Bb" d4 d2 |"Gm7" d4 d2 |"C7" c4 ^FG | %15
+w: * do you|ev- er|watch the|set- ting|sun and|dream of|things that you|
+"Cm7b5" B4 B2 |"F7" A4 =EF |"Bb" d4 AB |"D7" c4 B^F |"Eb" G6 |"G7/D" G4 ^FG |"Cm" e4 =Bc | %22
+w: might have|done. Do you|turn from your|work with a|smile,|* do you|feel that it's|
+"Cm7/Eb" d4 c^G |"F7" A6- |"F7/Eb" A4 =EF |"Bb/D" f4 f2 |"Dbdim" =e4 e2 |"F7/C" e4 e2 | %28
+w: all worth the|while,|* as you|dream the|twi- light|hours a-|
+"Bdim" d4"G7" ^FG |"C7" d4 ^FG |"F7" d4 dF |"Bb" B6- | B2 z2 z2 |] %33
+w: way, When You|Come To The|End Of The|Day.-||
+

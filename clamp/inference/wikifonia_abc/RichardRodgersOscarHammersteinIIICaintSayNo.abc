@@ -1,0 +1,71 @@
+X:1
+T:I Cain't Say No
+T:I Cain't Say No
+T:from "Oklahoma"
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 A2 |"F" c2 A2 F2 G2 | A2 F2 C2 E2 |"F" F2"C7" E2"F" F2"C7" E2 |"F" F2 z2 z2 z F || %5
+w: It|ain't so much a|ques- tion of not|know- in' whut to|do, I|
+w: |||||
+[M:2/4]"Gm7" GG BB |"F/C" AA"C7" GG ||[M:4/4]"F" F2 z2 z2 A2 | c2 A2 F2 G2 | A2 F2 C2 E2 | %10
+w: knowed whut's right and|wrong since I been|ten. I|heared a lot of|sto- ries and I|
+w: |||||
+"F" F2"C7" E2"F" F2"C7" E2 |"F" F2 z2 z2 z F ||[M:2/4]"Gm7" GG BB |"F/C" AA"C7" GG || %14
+w: reck- on they are|true- A|'bout how girls 're|put up- on by|
+w: ||||
+[M:4/4]"F" F2 z2 z2 z F |"C" GGGG"G7" FFFF |"C" E6- ED |"Am" CCCC"E7" DD"C7"EE || %18
+w: men I|know I mus n't fall in- to the|pit, * But|when I'm with a fel- ler, I fer-|
+w: ||||
+[M:2/4]"F" Fc"F/A" z c |"Bb" c z"Am/C" c z |"F" z c"F/A" z c |"Bb" z c"Am/C" z c || %22
+w: git! * *||||
+w: ||||
+S"F""^Refrain" c"F/A" c2 F |"Bb" G2"Am/C" A2 |"F" C2"F/A" C2 ||[M:2/4]"Bb""Am/C" C4 | %26
+w: I.m jist a|girl who|cain't say|no,|
+w: I'm jist a|girl who|cain't say|no,|
+"F" C"F/A" F2 C |"Bb" DF"Am/C" A2 |"F""F/A" c4- |"Bb""Am/C" c4 |"F" c"F/A" c2 F |"Bb" G2"Am/C" A2 | %32
+w: I'm in a|tur- ri- ble|fix.||I al- ways|say "come|
+w: Cain't seem to|say it at|all||I hate to|dis- ser-|
+"F" C2"F/A" C2 |"Bb""Am/C" C4 |"F" C"F/A" F2 C |"Bb" DF"Am/C" A2 |"F""F/A" F4- |"F/C" F2 EF | %38
+w: on le's|go,"|Jist when I|or- ta say|nix!"|* When a|
+w: point a|beau|When He is|pay- in' a|call.|* For a|
+"C7/G" G2"C7" c2 |"F#dim" B2 A2 |"Gm" B3 A |"C7" G3 C | DC DC | DC DC |"F6" A4- | A2 EF | %46
+w: per- son|tries to|kiss a|girl, I|know she or- ta|give his face a|smack,|* But as|
+w: while I|ack re-|fined and|cool, A|set- tin' on the|vel- ve- teen set-|tee|* "nen I|
+"C7" G2 c2 |"F#dim" B2 A2 |"Gm" B3 A |"C7" G3 C | DC DC | DC DC |"F" c4- | c2 z2 |"F" c"F/A" c2 F | %55
+w: soon as|some- one|kiss- es|me, I|some- how sort- a|want- a kiss him|back!||I'm jist a|
+w: think of|thet ol'|gold- en|rule, And|do fer him whut|he would do fer|me!||I cain't re-|
+"Bb" G2"Am/C" A2 |"F" C2"F/A" C2 |"Bb6""A/C" C4 |"F" C"F/A" F2 C |"Bb" D"Am/C" F2 A |"Eb" B4- | %61
+w: fool when|lights are|low,|I cain't be|pris- sy and|quaint|
+w: sist a|Ro- me-|o,|In a som-|bre- ro and|shaps|
+ B4 |"Bb6" B B2 B | BA B2 |"Db7" =B4- | B4 |"F/C" c c2 c | c=B c2 |"Db7" _d4- | d2 _d2 |"C7" d4- | %71
+w: |I ain't the|type that c'n|faint||How c'n I|be whut I|ain't?|* I|cain't|
+w: |Soon as I|sit on their|laps||Sump- 'n in-|side o' me|snaps!|* I|cain't|
+ d4 | E4- | E4 |"F""F/A" F4- |"Bb""Am/C" F4- |1"F" F4 ||"^To Trio" F z z2 ||2"F" F4-!fine! || %79
+w: |say||no!|||||
+w: |say||no!-|||||
+ F z z2 ||[M:4/4]"C""^Trio" G>GF>F E2 G>G |"Dm7" F>F E2"G7" D G2 D |"C" E>E D2 C G3 | %83
+w: |Whut you goin' to do when a|fel- ler gits flir- ty and|starts to talk purt- y,|
+w: ||||
+"Dm7" F>FE>E"G7" D4 |"C" G>GF>F E2 G>G |"Dm7" F>F E2"G7" D G2 D |"C" E>E D2 C G3 | %87
+w: Whut you goin' to do?|S'pos- in' 'at he says 'at yer|lips 're like cher- ries, er|ros- es er ber- ries,|
+w: ||||
+"G" =B>B"D7"A>A"G" G4 ||"C7" G>GC>C D2 C>C |"F" A>A F2 A2 F>F |"C7" B>B G2 B2 G2 |"F" c8 | %92
+w: Whut you goin' to do?|S'pos- in' 'at he says 'at yer|sweet- er 'n cream and he's|got- ta have cream or|die?|
+w: |||||
+"C" G>GE>E"G7" F2 D>D |"C" G2 E2"G7" F4 | g z G2 g2 (3GA=B ||[M:2/4]"C7" cc"F/C" z c | %96
+w: Whut you goin' to do when he|talks thet way?|* * * Spit in his|eye? * *|
+w: ||||
+"Fm/C" z c"C7" z c!D.S.! || %97
+w: |
+w: |
+

@@ -1,0 +1,54 @@
+X:1
+T:I BROKE MY ARM TO MEET YOU
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"A7" A,2 A, z =CB,zA, | z8 | A,2 A, z =CB,zA, |"A7""^VERSE" z AAA =cc B2 | A2 z2 z4 | %5
+w: |||I was a cur i ous|man|
+w: |||It was in the _ tenth|frame|
+ z2 A2 B2 =cB | A z z2 z2 z2 | z4 z2 z A | e2 e2 =c2 BA | z2 A2 B2 EA | z2 z2 z2 z2 | z4 z AAA | %12
+w: and had to meet|you|so|I got up the nerve|and said "Hel lo"||you told me|
+w: of the sec ond|game|I|rolled the ball and hit|an oil patch _||and as it|
+"D7" d2 =c2 d4 | z2 d=c de- e2 | =c-B-BA- A2 z2 | z4 z2 A2 |"A7" e2 z2 =cBzA | z2 A2 B2 FA | %18
+w: Mon day night|was the bowl ing _|sign _ _ up _|and|that you'd be there|and I should go|
+w: pulledme downthe lane|in crept a ter ror|in my _ brain _|I|hear hor ren crack|landed on my back|
+ z2 z2 z2 z2 | z4 =c2 A2 |"E7" B2 A2 B=czB- | B2 z B B2 =c2 |"D7" B2 A2 =cczA- | A2 z2 z AAA | %24
+w: |I've be|come a bowl ing fan|_ but is there|a nurse in the house?|_ be cuz I|
+w: ||||||
+"A6/F#""^CHORUS" e2 e2"F7" ^d2 d"E7"d- | dd-"A7" c2 z4 |"A6/F#" e2 e2"F7" ^dddd | %27
+w: BROKE MY ARM TO MEET|_ YOU _|GLAD I DID HOW DO YOU|
+w: |||
+"E7" ddz"A7"c- c2 z2 |"A6/F#" e2 e2"F7" ^d2 d"E7"d- | dd-"A7" c2 z4 |"A6/F#" e2 e2"F7" ^dddd | %31
+w: LIKE ME * *|BROKE MY ARM TO MEET|_ YOU _|GLAD I DID HOW DO YOU|
+w: ||||
+"E7" ddz"A7"c- c2 z2 :|"D7""^BRIDGE:" F2 AB- B2 A2 | B2 c2 A2 A2 |"E7" B4 BB =c2 | %35
+w: LIKE ME * *||||
+w: |There's a way _ to|make new friends and|I wan na be|
+"E7" B=c-c"A"A- A3 z |"D7" F2 A2 B2 A2 | =ccBA- A4 |"E7" BBBB BBBB |[M:2/4]"F7" =cc- cc- | %40
+w: |||||
+w: friends with _ you. _|taught me how to|pick up a spare _|Can you teach me how to do a|"split" on _ you?|
+[M:4/4]"E7" B-B- B2- B4- | B4 z4 |"A7""^INSTRUMENTAL" A,2 A, z =CB,zA, | z8 | %44
+w: ||||
+w: _ _ _ _||||
+"A7" A,2 A, z =CB,zA, | z8 |"A7" A,2 A, z =CB,zA, | z8 |"A7" A,2 A, z =CB,zA, | z2 cc dd c2 | %50
+w: ||||||
+w: |||||and the am bu lance|
+"E7" B2 z2 BzzA | BB-Bc B2 B=c |"D7" [FB]2 [FA]2 [FA]2 [DF][FA-] | [FA] z z4 A2 |: %54
+w: ||||
+w: came and I|suf fered _ the shame but my|heart was scream in' "ow"|_ I|
+"A6/F#" e2 e2"F7" ^d2 d"E7"d- | dd-"A7" c2 z4 |"A6/F#" e2 e2"F7" ^dddd |"E7" ddz"A7"c- c2 z2 | %58
+w: BROKE MY ARM TO MEET|_ YOU _|GLAD I DID HOW DO YOU|LIKE ME * *|
+w: _ _ _ _ _||||
+"A6/F#" e2 e2"F7" ^d2 d"E7"d- | dd-"A7" c2 z4 |"A6/F#" e2 e2"F7" ^dddd |"E7" ddz"A7"c- c2 z2 :| %62
+w: BROKE MY ARM TO MEET|_ YOU _|GLAD I DID HOW DO YOU|LIKE ME * *|
+w: ||||
+"A7" A,2 A,2 =CB,-B,A, | z AAA =c2 BA |] %64
+w: ||
+w: |how do you like me now?|
+

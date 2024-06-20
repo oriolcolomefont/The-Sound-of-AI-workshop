@@ -1,0 +1,32 @@
+X:1
+T:Moonlight Savings Time
+T:Moonlight Savings Time
+C:Harry Richman
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z6 z ^G |:"F" A>dc>A"Fmaj7" E2 E2 |"F6" D D2 E-"C+" E2 z C |"F6" D2 D2"C+" E2 E2 | %4
+w: There|ought to be a moon- lihgt|sav- ing time, _ So|I could love that|
+"Am7" D D2 E-"Adim7" E2 z C |"Gm7" D2 D2"C7" G2 G2 |"Gm" D ^D2 E-"C7" E2"C+" C2 |"F6" =D2"Dm7" A6 | %8
+w: girl of mine, _ Un-|til the bird- ies|wake and chime, _ "Good|morn- ing."|
+"G9" z4"C7" z2 z ^G |"F" A>dc>A"Fmaj7" E2 E2 |"F6" D D2 E-"C+" E2 z C |"F6" D2 D2"C+" E2 E2 | %12
+w: There|ought to be a law in|clo- ver time, _ To|keep that moon out|
+"Am7" D D2 E-"Adim7" E2 z C |"Gm7" D2 D2"C7" G2 G2 |"Gm" D ^D2 E-"C7" E2"C+" C2 |"F6" =D2"Db9" F6 | %16
+w: ovv- er- time, _ To|keep each lov- er's|lane in rhyme, _ till|dawn- ing.|
+"F" z2 F2 G2 ^G2 |"F7" A>c A2"Cm7" =G>c G2 |"F7" F>^FG>^G A>c A2 |"Bb6""Cm7""C#dim" =G8 | %20
+w: You'd bet- ter|hur- ry up, hur- ry up,|hur- ry up, get bus- y to-|day.|
+"Bb6/D" z2 G2"Bbmaj7" A2"Bb7" B2 |"G7" =B>d B2"Dm7" A>d A2 |"G7" G>^GA>^A =B>=A =G2 | %23
+w: You'd bet- ter|croon a tune, croon a tune|to the man up in the moon|
+"C7" z2 dc- c_B G2 |"G7" D4"C7" E2 z ^G |"F" A>dc>A"Fmaj7" E2 E2 |"F6" D D2 E-"C+" E2 z C | %27
+w: And here's _ what I'd|say; _ "There|ought to be a moon- light|sav- ings time _ So|
+"F6" D2 D2"C+" E2 E2 |"Am7" D D2 E-"Adim7" E2 z C |"Gm7" D2 D2 ^D2 D2 |"Gm" E E2 c-"C7" c2"C+" A2 | %31
+w: I could love that|girl of mine, _ Un-|til the bird- ies|wake and chime, _ "Good|
+"G7""C7" G8 |1"F" F4"C7" z2 z ^G :|2"F""Gb6" F6"F6" z2 |] %34
+w: morn-|ing." There|ing.|
+

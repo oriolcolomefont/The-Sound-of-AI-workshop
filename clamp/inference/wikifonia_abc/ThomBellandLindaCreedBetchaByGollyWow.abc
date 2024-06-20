@@ -1,0 +1,68 @@
+X:1
+T:Betcha By Golly Wow
+T:BBGW
+C:Thom Bell and Linda Creed
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"Bbsus47" z2 z3/2 F/"Fmin" G/A/G/F/- F2 |"Bb7" z2 z3/2"Gmin" G/"Bb7" A/B/A/G/- G2 | %2
+w: ||
+"Ebmaj7" z2 z3/2 A/"Abmaj7" B/c/B/A/- AB | %3
+w: |
+"Ebmaj7" cd-"Bb " d2-"Eb " d/f/4e/4"Bb "d/4c/4B/-"Fmin" B2 | %4
+w: |
+"Gbmaj7" z2"Db7" z3/2 e/ f/_g/f/e/- e2 |[M:3/4]"Gbmaj7" z3 z/ _d/"Bbmin" e/f/e/d/ | %6
+w: ||
+[M:6/4]"Bmaj7" z4"Dbsus47" z3/2 e/"B " f/_g/f/e/-ea-"Gbmaj7"a/f/_f/4e/4_d/ | %7
+w: |
+"F " z6"Bb7" z4 z3/2 C/ |"Ebmaj7" DE-E>F-F>D"Eb " B,B,"Bb "G,B,-"Eb " B,2 | %9
+w: There's|a spark * ~of * ~ma- gic in your eyes. *|
+[M:4/4]"Bb7" z2 z A GF- F>A- |"Ebmaj7" A<G B,B,"Bb " G,"Fmin" B,3 | %11
+w: Can- dy- land * ap-|* prears each time you smile.|
+"Gbmaj7" z2 z3/2 E/"B " F_G-"Abmin" G>A- |"Db7" A>F"Gbmaj7" _DD B, D3 | %13
+w: Ne- ver thought * ~that-|* ~fai- ry tales came true;|
+"Db7" z2 z3/2 _D/"Ab " E_F- F>A | z2 z3/2 C/"Bbsus47" DE- E>F- | %15
+w: But- they come * ~true,|~when I'm near * ~you-|
+"Ab ""Fmin" F>G-"Gsus47" G>F- F<B"Gmin" AG- |"Abmaj7" G/A/G-"Ab ""Abmaj7" G4"Gmin" z2 | %17
+w: * You're * ~a * ~ge- nie in|* ~dis- guise, *|
+[M:2/4] z3/2"Fmin" G/- G>F |[M:4/4] z/"Gmin" B3/2 AG"Abmaj7" A G3- | %19
+w: Full * ~of|~won- der and sur- prise|
+ G>"Ab "G- G2-"Eb " G z/ G/ G/G/G- |"Bbmaj7" G/A/=A/F/-"Dmin""G7" F4 z3/2 F/ | %21
+w: * ~and * * Bet- cha- ~by- gol-|* ly ~w- ow! * You're|
+[M:5/4]"Cmin" GFEE"Bb "DF"Ebmaj7" EEDD |[M:4/4]"Ab " CC-"Ebmaj7" C4"Bb7" EA | %23
+w: the one that I've been wait- ing for for- e\-|v\- er * and e\-|
+"Eb " GG"Bb " FF"Eb " E E3 |"Bb7" DD"Ab " CC- C4 |"Ebmaj7" CC B,B,- B,4 | %26
+w: ver will my love for you|keep grow- ing strong, *|keep grow- ing strong. *|
+"Bb7" z2 z3/2 C/"Ebmaj7" DE- E>F- | F>D"Eb " B,B,"Bb " G,"Eb " B,3 |"Bb7" z2 B,A GF- F>A- | %29
+w: If- I could * I'd|* catch a fal- ling star|to shine on you * ~so|
+"Ebmaj7" A<G B,B,"Bb " G,"Fmin" B,3 |"Gbmaj7" z2 z3/2 E/"B " F_G-"Abmin" G>A- | %31
+w: * ~I'd know where you are,|or- der rain- * bows|
+"Db7" A>F"Gbmaj7" _DD B, D3 |"Amaj7" z2"B " z3/2 _D/ E_F- F>"Bb7"A | z2 z3/2 C/ DE- E>F- | %34
+w: * ~in your fa- vorite shade,|Show- I love * ~you,|~think- ing of * ~you.|
+"Fmin" F>G-"Gsus47" G>F- F<B"Gmin" AG- |"Abmaj7" G/A/G- G4"Ebmaj7" z2 |[M:2/4]"Fmin" z3/2 G/- G>F | %37
+w: * Write * ~your * ~name a\- cross|* ~the ~sky, *|a\- * ny|
+[M:4/4] z/"Bb7" B3/2 A"Gmin"G"Abmaj7" A"Cmin" G3- |"Abmaj7" G>G- G2-"Eb " G z/ G/ G/G/G- | %39
+w: thing you ask I'll try,|* ~cause * * Bet- cha- ~by- gol-|
+"Bbmaj7" G/A/=A/F/-"Dmin""G7" F4 z3/2 F/ |[M:5/4]"Cmin" GFEE"Bb "DF"Ebmaj7" EEDD | %41
+w: * ly- ~w- ow * You're|the one that I've been wait- ing for for- e\-|
+[M:4/4]"Ab " CC-"Ebmaj7" C4"Bb7" EA |"Eb " GG"Bb " FF"Eb " E E3 |[M:2/4]"Bb7" DD CC- | %44
+w: v\- er * and e\-|ver will my love for you|keep grow- ing strong,|
+[M:4/4] C4"Ebmaj7" CC B,B, |"Bb7" z4"Ebmaj7" z3/2 G/ G/G/G- | %46
+w: * keep grow- ing strong.|Bet- cha- ~by- gol-|
+"Bbmaj7" G/A/=A/F/-"Dmin""G7" F4 z3/2 F/ |[M:5/4]"Cmin" GFEE"Bb "DF"Ebmaj7" EEDD | %48
+w: * ly- ~w- ow! * You're|the one that I've been wait- ing for for- e\-|
+[M:4/4]"Ab " CC-"Ebmaj7" C4"Bb7" EA |"Eb " GG"Bb " FF"Eb " E E3 |[M:2/4]"Bb7" DD CC- | %51
+w: v\- er * and e\-|ver will my love for you|keep grow- ing strong,|
+[M:4/4] C4"Ebmaj7" CC B,B, |"Bb7" z4"Ebmaj7" z3/2 G/ G/G/G- | %53
+w: * keep grow- ing strong.|Bet- cha- ~by- gol-|
+"Bbmaj7" G/A/=A/F/-"Dmin""G7" F4 z3/2 G/ |[M:5/4]"Cmin" G<F-F>E"Bb "DF-"Ebmaj7" F>EDD | %55
+w: * ly- ~w- ow! * You're|the one * I've been waiting * for for- e\-|
+[M:4/4]"Ab " CC-"Ebmaj7" C4"Bb7" B,A |"Eb " GG"Bb " FF-"Eb " (3F2 G2 E2 |"Bb7" DD"Ab " CC- C4 | %58
+w: v\- er * and e\-|ver will my love * ~for ~you|keep grow- ing strong, *|
+ EC"Ebmaj7" B,B,-"Bb7" B,4 |"Ebmaj7" z2 z3/2 C/- CD E>F- | F>G-"Eb " G6- |"Ebmaj7" G8 |] %62
+w: keep grow- ing strong. *|There's * a spark ~of|* ~magic... *||
+

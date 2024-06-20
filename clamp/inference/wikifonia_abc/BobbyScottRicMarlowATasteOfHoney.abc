@@ -1,0 +1,26 @@
+X:1
+T:A Taste Of Honey
+T:A Taste of Honey
+T:Bobby Scott
+T:Ric Marlow
+C:Bobby Scott
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Dm" D2 A | A2 A/B/ |"F" c2 d |"G" B G A |"Dm" D2 A | A2 A/B/ |"F" c2 d |"G" B3/2 G/ A/c/ | %8
+w: Winds may|blow o'er the|ic- y|sea * I'll|take with|me the *|warmth of|thee a taste of|
+w: ne'er came|back to his|love so|fair * and|so she|died dream- ing|of his|kiss his kiss was|
+"Dm" d d2- | d2 c |"Bb" A2 F |"Am" G E C |"Dm" D3- | D2 z |[M:4/4]"F" c3 d/c/ |"G" B G3 | %16
+w: hon- ey|_ A|taste much|sweet- er than|wine|_|I will re-|turn *|
+w: hon- ey|_ A|taste more|bit- ter than|wine|_|||
+"F" z A2 A |"G" G3 G/G/ |"Bb" F3 G/F/ |"Am" E C2 C |1"Dm" D4- | D z A z :|2[M:3/4]"Dm" D3- || %23
+w: I'll re-|turn I'll come|back for the|hon- ey and|you.|_ he|you|
+w: |||||||
+"G" D G G |"Bb" F2 G/F/ |"Am" E C"A7" A |"Dm" d3- |"Gm" d"Dm" z2 |] %28
+w: _ I'll come|back for the|hon- ey and|you.|_|
+w: |||||
+

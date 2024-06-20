@@ -1,0 +1,25 @@
+X:1
+T:I'd Like To Teach The World To Sing
+T:I'd like to teach the world to sing
+T:B. Backer:  B.Davis: R.Cook: and R. Greenaway
+C:Bill Backer, Billy Davis, Roger Cook, Roger Greenaway
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z z/"^N.C." D/ ||S"F" C D/F/- F D/C/- | C D/F/- F3/2 F/ |"G7" G A G A/G/- | G3 A | %5
+w: I'd|like to build * the world|* a home * and|fur- nish it with love|* Grow|
+"C7" G/ A c/- c A | G/ A c/- c A |"Bb" F G F/ D C/- |"F" C3 D | C D/F/- F D/C/- | C D/F/- F3/2 F/ | %11
+w: ap- ple trees * and|hon- ey bees * and|snow- white tur- tle doves|* I'd|like to teach * the world|* to sing * in|
+"G7" G A G A/G/- | G3 z/ A/ |"C7" G A c A | G/ A c/- c A |"Bb" F G F D/F/- |"F" F2 z z/ D/ | %17
+w: per- fect har- mo- ny|* I'd|like to hold it|in my arms * and|keep it com- na- ny|* I'd|
+ C D F D/C/- | C D/F/- F3/2 F/ |"G7" G A G A/G/ | G3 A |"C7" G A c/ A G/- | G A/c/- c A | %23
+w: like to see the world|* for once * all|stand- ing hand in hand|* and|hear them ech- o through|* the hills * for|
+"Bb" F G F D/F/- |"F" F z z2!fine! |]"^N.C." A/A/ _B A F- |"F" F4 | z F/F/ F/ E F/ |"G7" G4- | %29
+w: peace through- out the land||That's the song I hear||let the world sing to-|day|
+ G3 z/ A/ |"C7" G A c A | G/ A c/- c A |"Bb" F G F D/F/- |"F" F2 z z/ D/!D.S.! |] %34
+w: * A|song of peace that|ech- oes on * and|nev- er goes a- way.|* I'd|
+

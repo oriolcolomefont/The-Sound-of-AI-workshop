@@ -1,0 +1,51 @@
+X:1
+T:Alley Oop
+T:Alley Oop
+T:Dallas Frazier
+T:Dallas Frazier
+T:All Rights Reserved
+C:Dallas Frazier
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^120" D>D | E2 E2"G7" G,2 D2 |"C" G,2 C C3 D>D | E2 E2"G7" G,2 D2 |"C" G,2 C C3 C>B, |: %5
+w: Al- ley|Oop Oop * Oop|* Oop Oop. Al- ley|Oop Oop * Oop|* Oop Oop. 1.~There's a|
+w: |* * Oop *|Oop * * * *|* * Oop *|Oop * * * *|
+ C-CC>B, CB,CB, | C C3 E2 D>D | E2 E2"G7" G,2 D2 |"C" G,2 C C2 B,CB, | CB, C2 C>B,C-C | %10
+w: guy * in the fun- ny pa- pers|we all know; Al- ley|Oop Oop * Oop|* Oop Oop. * * He|lived * way back a long *|
+w: 2.~chauf- feur that's a gen- u- wine *|di- na- sawr * *|* * Oop *|Oop * * And he can|knuck- le your head be- fore you|
+ C2 C2 (A,G,)D>D | E2 E2"G7" G,2 D2 |"C" G,2 C C2 CCB, | C2 CC CB,CB, | C C2- C E2 D>D | %15
+w: time a- go; * Al- ley|Oop Oop * Oop|* Oop Oop. * * He|don't eat * no- thin' but a|bear cat * stew; Al- ley|
+w: count to four. * * *|* * Oop *|Oop * * He got a|big ug- ly club * and a|head full of hair * *|
+ E2 E2"G7" G,2 D2 |"C" G,2 C C3 B,2 | C2 C2 C2 CB,- | B,B,CC A,G,D>D | E2 E2"G7" G,2 D2 |1 %20
+w: Oop Oop * Oop|* Oop Oop. Well,|this cat's name is, uh,|* * Al- ley Oop * Al- ley|Oop Oop * Oop|
+w: * * Oop *|Oop * * Like|great big lions and *|* griz- * zly bear. * * *|* * Oop *|
+"C" G,2 C C2 CC>B, :|2 G,2 C C3 D>D || E2 C>B, C>B,C>B, |"C7" C C3 E2 E>E |"F" F2 F2 F2 DC | %25
+w: * Oop Oop. He got a|* Oop Oop. * *|* He's the tough- est man there|is a- live. * *|* Wears clothes from a|
+w: Oop * * * * *|Oop * * Al- ley|Oop * * * * * *|* * * Al- ley|Oop * * * *|
+ E E3 (DC)F>F |"D7" ^F2 F>F F2 E>D | ^F F3 (=F D3) |"G7" G>G G2 ^F2 F2 | G4 c3 B, | %30
+w: wild cat hide. * * *|* He's the king of the|jun- gle jive. *|Look at that cave- man|go! scream He|
+w: * * * * Al- ley|Oop * * * * *||||
+"C" C2 C>B, CB,CB, | C2 CC EED>D | E2 E2"G7" G,2 D2 |"C" G,2 C C2 B,CB, | C-CC-C C>B,CC | %35
+w: 3.~rides through the jun- gle tear- in'|limbs off of trees; * Al- ley|Oop Oop * Oop|* Oop Oop. And knock- in'|great * big * mon- * sters *|
+w: 4.~cats don't * bug him 'cause *|they know * bet- ter; * *|* * Oop *|Oop * * * He's a|mean * mo- tor scoot- ter and a|
+ C-C C2 (A,G,)D>D | E2 E2"G7" G,2 D2 |"C" G,2 C C3 D>D | E2 C>B, C>B,C>B, |"C7" C C3 E2 E>E | %40
+w: dead on their knees. * Al- ley|Oop Oop * Oop|* Oop Oop. * *|* He's the tough- est man there|is a- live. * *|
+w: bad * go- get- ter * *|* * Oop *|Oop * * Al- ley|Oop * * * * * *|* * * Al- ley|
+"F" F2 F2 F2 DC | E E3 (DC)F>F |"D7" ^F2 F>F F2 E>D | ^F F3 (=F D3) |"G7" G>G G2 ^F2 F2 | G6 c2- | %46
+w: * Wears clothes from a|wild cat hide. * * *|* He's the king of the|jun- gle jive. *|Look at that cave- man|go! scream|
+w: Oop * * * *|* * * * Al- ley|Oop * * * * *||||
+"C" c4"^spoken" EE E2 | E2 E2 E2 z2 | z2 GG GGGG | z8 | E2 EE E4 | z8 | G2 G2 GG G2 | z6 E2 | %54
+w: * Look at that|cave- man go|He sure is hep, ain't he?||Ride, dad- dy ride.||Ride your din- a- sawer.|Like|
+w: ||||||||
+ G4 G4 |] %55
+w: hips- ville.|
+w: |
+

@@ -1,0 +1,16 @@
+X:1
+T:The Marines' Hymn
+T:Marines' Hymn
+T:Jacques Offenbach
+C:Jacques Offenbach
+Z:Public Domain
+L:1/4
+M:2/4
+K:C
+V:1 treble nm="C Alto Ocarina" snm="C A. Oc."
+%%MIDI program 79
+V:1
+ z A/c/ | e e | e e | e3/2 a/ | e c/d/ | e e | d B | A2- | A A/c/ | e e | e e | e3/2 a/ | e c/d/ | %13
+ e e | d B | A2- | A a/g/ | f d | f d | e3/2 f/ | e a/g/ | f d | f/ a3/2 | e2- | e A/c/ | e e | %26
+ e e | e3/2 a/ | e c/d/ | e e | c B | A2 |] %32
+

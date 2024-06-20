@@ -1,0 +1,36 @@
+X:1
+T:The Prisoner's Song
+T:The Prisoner's Song
+C:Traditional adapted by Vernon Dalhart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4"D" A2 A2 | d4 D3 D |"D7" F4 E3 D |"G" G2 G6- | G2 z2"G7" B2 B2 |"A7" A4 c3 B | A4 E3"A+7" =F | %7
+w: Oh I|wish I had|some- one to|love me,|_ Some- *|one to _|call me their|
+w: Oh, please|meet me to-|night in the|moon- light,|_ Please meet|me to- night|all a- *|
+w: I'll be|carried to the|new jail to-|mor- row,|_ Leav- ing|my poor _|dar- ling a-|
+w: Now I|have a brand|ship on the|o- cean,|_ All _|moun- ted with|sil- ver and|
+w: Now if|I had the|wings o9f an|an- gel,|_ Ov- er|these pris- on|walls I would|
+w: ||||* ~~~~ *|||
+w: ~~~~ *||||* ~~~~~ *|||
+"D" F8- | F4 A3 A |"D" d4 D3 D |"D7" F4 E3 D |"G" G2 G6- | G2 z2"G7" B2 B2 |"A7" A4 c2 B2 | %14
+w: own,|_ Oh I|wish I had|some- one to|live with,|_ For I'm|tir- ed of|
+w: lone,|_ For I|have a sad|sto- ry to|tell you,|_ It's a|sto- ry that's|
+w: lone,|_ With the|cold pri- son|bars all a-|round me,|_ And my|head on a|
+w: gold,|_ And be-|fore my poor|dar- ling would|suf- fer,|_ Oh that|shop would be|
+w: fly,|_ And I'd|fly to the|arms~of my poor|dar- ling,|_ And _|there I'd be|
+w: |* ~~~~~ *||||||
+w: |* ~~~~~ *||||||
+ A4 G2 E2 |"D" D8- | D4 z4 |] %17
+w: liv- ing a-|lone.|_|
+w: nev- er been|told.|_|
+w: pil- low of|stone.|_|
+w: an- chored and|sold.|_|
+w: wil- ling to|die.|_|
+w: |||
+w: |||
+

@@ -1,0 +1,35 @@
+X:1
+T:I Don't Wanna Play House
+T:I Don't Wanna Play House
+T:Billy Sherrill & Glenn Sutton
+C:Billy Sherrill & Glenn Sutton
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 DF ||"F7" D2 C2 C3 D | E2 E2 D3 C |"Bb" F<G- G2"Eb" F2 E2 |"Bb" D6- DC ||"Bb" D4- DDCD | %6
+w: ||||* * To-|day * I sat a-|
+"F7" E6 DE |"Bb" G2 F6- | F4 z2 DE | F4- FFFG | F4- FDED |"F" C8 | C2 z2 z2 F^F | %13
+w: lone at the|win- dow|* and I|watched * our lit- tle|girl * out side at|play|* with the|
+"Eb" G G2 G- G F2 F | E6 FG |"Bb" F F2 F- F E2 E | D6 z B, |"C7" C D3- D2 =EF | G3 =E D3 B, | %19
+w: lit- tle boy * * next|door. Like so|man- y times * * be-|fore, But|some- thin' * did- n't|seem quite right to-|
+"F7" A,8- | A,2 z2 z A,B,C ||"Bb" D D3- D3 D |"F7" E4- EEDE |"Bb" G F3- F4- | F4 z2 B2 | %25
+w: day.|* So I went|out- side * to|see * what they were|do- in' *|* And|
+ d2 dd- d2 d2 |"D7" d4 (3A2 B2 c2 |"Gm" B8- |"Bb7" B4 z2 F^F |"Eb" G2 G2 F3 F | E6 DE | %31
+w: then the tear- * drops|made my eyes grow|dim|* 'Cause I|heard him name a|game and I|
+"Bb" F2 F2 F E2 E | D6 B,C | D3 (D (3D2) C2 D2 |"F7" (E4 (3E2) D2 C2 |"Bb" B,8- | %36
+w: hung my head * in|shame When I|heard our * lit- tler|girl * say to|him.|
+ B, z"^Tacet" BA BA_AG- |:"Eb" G2 z2 z2 z G | B3 B B A2 G |"Bb" F8 | z4 z D2 F |"F" C C3- C3 E | %42
+w: * "I don't wan- na play house|* I|know it can't * be|fun;|I've watched|Mom- my * and|
+"Eb" B, B,3- B,2 EE |"Bb" D3 D"F7" E2 G2 |"Bb7" F2"^Tacet" BA BA_AG- |"Eb" G2 z2 z2 z G | %46
+w: Dad- dy * and if|that's the way it's|done, I don't wan- na play house|* It|
+ B3 B A G2 G |"Bb" F4 z4 | z4 z D2 F |"F7" D C2 C- C3 D | E E2 D- D3 C |1"Bb" B,8 || %52
+w: makes my Mom- * my|cry,|'Cause when|she played house * my|Dad- dy said * Good-|bye"|
+ z2"^Tacet" BA BA_AG :|2"Eb" B,4"Bb" B,4 |] %54
+w: "I don't wan- na play house||
+

@@ -1,0 +1,39 @@
+X:1
+T:Waltz Dream (Love's Roundelay)
+T:Waltz Dream (Love's Roundelay)
+T:From the operetta "A Waltz Dream"
+T:Oscar Straus
+T:Joseph Herbert
+C:Oscar Straus
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 D |"G""^Verse" D E F | G B3/2 d/ |"D7" B3 | A2 B | d c B | A G A |"G" B3 | B z d/d/ | e d c | %10
+w: The|soft sum- mer|twi- light was|fad-|ing, I|sat in the|gar- den a-|lone;|* The *|zeph- yrs of|
+ B ^A B |"D7" d3/2 ^c/ =c/A/ | F z D/D/ | e ^d =d | c ^G A |"G" d3 |"D7" d z D |"G" D E F | G B d | %19
+w: night ser- en-|a- * * *|ding The *|trees with their|mys- ti- cal|tone.|* The|leaves seemed to|thrill to each|
+"D7" B3 | A2 B | d c B | A G A |"G" B3- | B z d | d"Gdim" ^c"G" d |"E7" d e"Bb7" =f |"D" f3 | %28
+w: meas-|ure, The|boughs beat- ing|time to each|strain.|* The|flow'r- ets all|nod- ding their|pleas-|
+ A2"D+" ^A | ^A"G6" B g |"A7" c ^c a |"D" d3 | d z d |"Bb" =f _e d | d c _B |"Cm" _e3 | G2 G | %37
+w: ure On|hear- ing the|sweet * re-|frain.|* The|tune set the|shad- ows a-|danc-|ing, No|
+"F7" c _B A | A c"F+7" ^c |"Bb" d3 | d z d |"Gm6" d ^c d | d ^c d |"D7" _e3 | d2 d | d ^c d | %46
+w: note in the|ca- dence was|false,|* A|mel- o- dy|sim- ply en-|tranc-|ing, A|beau- ti- ful|
+ d ^c d | a f e | d c A | F3 ||"G""^Chorus" d d c | c2 B | B F3/2"G+" G/ |"Am" c3 | c A G | %55
+w: Vi- en- ese|waltz! * *|||Soft- ly each|meas- ure,|gent- ly each|strain,|Thrilled me with|
+"D7" G2 F | A E3/2 D/ |"G" d3 | d"Gdim" e"D7" f | f2"G" g | f d f |"D7" e3 | e3/2 d/ c/B/ | %63
+w: plea sure,|Filled me with|pain;|Tones that were|tear- ful|tones of de-|light,|Sor- row- ful or|
+ B3/2 A/ A |"D+" f ^A f |"G" d3 |"G" d d c | c2 B | B"G+" F3/2 G/ |"Am" c3 | c A G |"D7" G2 F | %72
+w: cheer- * ful,|hang thro' the|night.|Soft- ly each|mea- sure,|Gent- ly each|strain|Thrilled me with|plea- sure,|
+ A E3/2 D/ |"E7" d3 | d c B |"Am" B2 A |"A7" f"Edim" f e |"G" B3 | f f e |"D7" c2 c | f"D+" f e | %81
+w: Filled me with|pain.|Song of the|Spring- time,|Love's month of|May.|Song of the|ring- time|Love's Round- e-|
+"G" d3 | d c B |"Am" B2 A |"A7" f f"Edim" e |"G" g3 |"E7" B ^A B |"A7" f3/2 e/ e |"D7" f f f | %89
+w: lay!|Song of the|Spring- time,|Love's month of|May,|Song of the|ring- * time,|Love's Round- e-|
+"G" g2 z |] %90
+w: lay.|
+

@@ -1,0 +1,33 @@
+X:1
+T:The Mistletoe Kiss
+T:Mistletoe Kiss
+T:Music: Jimmy Kennedy
+T:
+T:Lyrics: Constance Carpenter
+C:Jimmy Kennedy
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z d/>^c/ |:"Bb" d B F D/D/ |"Cm" C E G2 |"F" F A c F/F/ |"Bb" E/E/"F7" F"Bb" B d/>^c/ | %5
+w: When the|part- y starts and the|night is young,|Go and find where the|mis- tle- toes hung. And if|
+ d B F D/D/ |"Cm" C E G2 |"F7" F3/2 F/ A c |"Bb" c/B/"Eb" B"Bb" B d/>^c/ | d B F D/D/ | %10
+w: stand- ing there is a|pret- ty miss|Get your- self a|mis- tle- toe kiss. If she|looks at you with her|
+"Cm" C E G2 |"F7" F A c F/E/ |"Bb" D"F7" F"Bb" B d/>^c/ | d B F D/D/ |"Cm" C E G2 | %15
+w: won- d'ring eye|Just pre- temd it's a|big sur- prise. You can|find ro- mance and a|lot of bliss|
+"F7" F3/2 F/ A c |"Bb" c/B/"Eb" B"Bb" B z |"F7" A3/2 G/ F3/2 E/ |"Bb" G F2 D |"F7" F E2 C | %20
+w: through a sim- ple|mis- tle- toe kiss.|While your arms are|'round her your|heart says "You've|
+"Bb" G F2 z |"F7" A3/2 G/ F3/2 E/ |"Bb" G F2 z |"C7" G3/2 G/ A B |"F7""Cm""F7" c3 d/>^c/ | %25
+w: found her."|And you wont as-|tound her|with your "I love|you." When the|
+"Bb" d B F D/D/ |"Cm" C E G2 |"F7" F A/A/ c F/F/ |"Bb" D"F7" F"Bb" B d/>^c/ | d B F D/D/ | %30
+w: par- ty's ov- er and|there you are.|What do you say to her|ma and pa? They will|un- der- stand when you|
+"Cm" C E G2 |"F7" F3/2 F/ A c |1"Bb" c/B/"Eb" B"Bb" B d/>^c/ :|2"Bb" c/B/"Eb" B"Bb" B z || %34
+w: tell them this,|"Blame it on the|mis- tle- toe kiss." When the|mis- tle- toe kiss.|
+"F7" F3/2 F/ A c |"Bb" c/B/"Eb" B"Bb" B2 |] %36
+w: Blame it on the|mis- tle- toe kiss.|
+

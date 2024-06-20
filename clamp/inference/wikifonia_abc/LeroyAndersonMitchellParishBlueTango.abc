@@ -1,0 +1,26 @@
+X:1
+T:Blue Tango
+T:Blue Tango
+T:Leroy Anderson
+T:TANGO
+C:Leroy Anderson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"A7" A,A, |:"D" A,2"G" B2"D" A4- | A6 A,A, |"Fm" A,2 A2"A7" G4- | G6 A,A, |"D" A,2"G" G2"D" F3 A, | %6
+w: Here am|I with you|* in a|world of blue|* and we're|danc- ing to the|
+ G F2 A, A2"A7" G2 | F2 GE- E4- | E6 A,A, |"D" A,2"G" B2"D" A4- | A6 A,A, |"Fm" A,2 A2"A7" G4- | %12
+w: tan- go we loved when|first we met *|* while the|mu- sic plays|* we re-|call the days|
+ G6 A,A, |"D" A, G2 F A3 G |"A7" F E2 F G2 E2 |"D" D8- |"D7" D6 DD |"G" D2 e2 d4- | d6 DD/D/ | %19
+w: * when our|love was a tune that|we could- n't soon for-|get|* as I|kiss your cheek|* we did- nt|
+"D" D2 d2 c4- | c4- cAFD |"A7" C c2 A"G" B3 G |"A" ABA"A7"G- GEAG |"D" F4- FEFG | A6"D7" DD | %25
+w: have to speak|* * the vi- o-|lins like a choir ex|press the de sire * we used to|know * not long a-|go so just|
+"G" D2 e2 d4- | d6 DD |"D" D2 d2 c4- | c4- cAFD |"A7" C2 c2 A"G" B2 G |"A" ABAF"A7" G2 E2 |1 %31
+w: hold me tight|* in your|arms to- night|* * and this blue|tan- go will be our|thrill- ing mem- o- ry of|
+"D" D8- |"Em7" D4 z4 |"A7" z8 |"D" z4 z2"A7" A,A, :|2"D" D8- | D8 |] %37
+w: love|||here am|love||
+

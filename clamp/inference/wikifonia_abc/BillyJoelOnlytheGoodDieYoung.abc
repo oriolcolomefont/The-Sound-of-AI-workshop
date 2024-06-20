@@ -1,0 +1,24 @@
+X:1
+T:Only the Good Die Young
+T:Only The Good Die Young
+C:Billy Joel
+Z:Creative Commons BY-NC-SA
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"F" [Ac] z cc c c3 |"C/G" edcc-"Am" c3 G- |"F" Gccc c2 d2 |"G" B A2 G-"C" G2 cG |"F" Accc- cA G2 | %5
+"C/G" edcc"Am" c3 G |"F" Ac c2 c2 dc |1"G" B6 cc ||2 B6 z G || efge- e2 B2 |"C" c8- |"F" c4 ed c2 | %12
+"G" d8 |"C" z2 z2 dfge- | e2 e4 c2 |"F" c4 ed c2 |"G" d B2 G- G4 |"C" z2 z2 cc c2 | %18
+"F" A c2 c c2 AG |"C/G" edcc-"Am" c3 G |"F" A2 c2 cc G2 |"G" d B2 G-"C" G2 z G |"F" A2 c2 cA G2 | %23
+"G" e2 dc"Am" c z2 G |"F" A2 cc c2 dB- |"G" B4 z2 ee |"F" g2 ee- e e3 |"C/G" edcc- c2 z2 | %28
+"F" Accc cc c2 |"G" dBAG"C" G3 E |"F" A2 c2 cc G2 |"C/G" edcc"Am" c3 z |"F" Ac c2 c2 dc | %33
+"G" B6 AG | efge- e2 c2 |"C" c8 |"F" c4 ed c2 |"G" d8- |"C" d2 z2 efge | e2 e4 c2- |"F" c4 ed c2 | %41
+"G" d B2 G G4- |"C" G2 z3 ggg |"G" g2 g2 f2 ff |"F" gfff f2 df |"C" fe e6 | e4 z eee | %47
+"D" e d2 d- d4 | d4 z2 dd |"F" d c2 A- A4- | A z z4 gg |"G" gggg- ggff |"F" gf f2 a2 df- | %53
+"C" fe e6 | e4 z eee- |"D" e d2 d d4 | deee- eeee |"F" e2 dd d2 z2 |"C" e2"Dm" d2"C" c2"G" cc | %59
+"G" B4 z GGG | efge e2 c2- |"C" c8 |"F" c4 z edc |"G" d2 z2 z4 |"C" z2 z2 efge- | e2 e4 c2 | %66
+"F" c4 ed c2 |"G" d c2 G G4- |"C" G2 z2 z4 |] %69
+

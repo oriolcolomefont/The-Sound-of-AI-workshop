@@ -1,0 +1,29 @@
+X:1
+T:Up, Up And Away
+T:Up, up and away
+T:Jimmy Webb
+C:Jimmy Webb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"G" D2 D2 G A3 | B4 z B B2 |"F" Bc A2- A2 G2 | A6 z2 ||[K:Bb]"Bb" F2 F2 B c3 | d4 z d d2 | %6
+w: Would you like to|ride in my|beau- ti- ful * bal-|loon|Would you like to|glide in my|
+"Ab" de c2- c2 B2 | c4 _A2 _d2 |"Db" F2 F2 F3 F |"Db7" F2 F_G- G z F2 |"Ebm7" F _G3 _D4 | %11
+w: beau- ti- ful * bal-|loon we could|float a- mong the|stars to- geth- * er|you and I|
+ z2 z E"Ab7" F _G3 |"Db" _A8- |"Ebm7" A4 _A =A3 |"Db" _d8- |"E7" d4 z4 ||[K:A]"A" E2 z2 AA B2 | %17
+w: for we can|fly|* we can|fly||Up up and a-|
+ e^B c4 c2 |"D" cd B2- B2 A2 |"G" B2 cA- A2 E2 |"A" e8- |"G" e8- |"A" e8- |"G" e z z4 z D :| %24
+w: way * * my|beau- ti- ful * my|beau- ti- ful * bal-|loon-|||* the|
+[K:G]"A" e8- |"G" e6 z2 ||"A" e8- | e8 ||"C" z2 G2 c2 d2 |"Em" e2 fe d2 c2 |"Dm7" d3 G G4- | %31
+w: ||||sus- pend- ed|un- der a twi- light|can- o- py|
+"G7" G8 |"C" z2 G2 c2 d2 |"Em" e2 =fe d2 c2 |"Dm7" g3 d d4- |"G7" d8 |"Eb" z2 _B,2 _E2 =F2 | %37
+w: |we'll search the|clouds for a star to|guide * us||If by some|
+"Gm" G2 _A2 G=F _E2 |"Fm7" _B3 =F ^F4- |"Bb7" F6 _A2 |"Gb" _d2 d2 d3 d |"Ab" _e2 =f2 z4 | %42
+w: chance you find your- self|lov- ing me|* we'll|find a cloud to|hide us|
+"G" G2 G2 G3 G |"F" A2 B2 z4!D.C.! |] %44
+w: keep the moon be-|side us.|
+

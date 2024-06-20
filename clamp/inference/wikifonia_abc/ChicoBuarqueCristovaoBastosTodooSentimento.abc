@@ -1,0 +1,32 @@
+X:1
+T:Todo o Sentimento
+T:Todo o Sentimento
+T:Cristovão Bastos & Chico Buarque
+T:1
+T:2
+C:Chico Buarque & Cristovão Bastos
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F || A B A C | G3 C | F G F B, | E3 A, | E2 D2- | D2 z A, | C2 B,2- | B,2 z D | B c B D | A3 D | %11
+w: Pre-|ci- so não dor-|mir A-|té se con- su-|mir O|tem- po|* Da|gen- te|* Pre-|ci- so con- du-|zir Um|
+ A B A B | G3 C | F G F B, | E F E B, | D4 | C3 C | c d c C | c3 C | c d c d | B A2 D | B c B D | %22
+w: tem- po de te\_a-|mar Te\_a-|man- do de- va-|gar E\_ur- gen- te-|men-|te Pre-|ten- do des- co-|brir No|úl- ti- mo mo-|men- to Um|tem- po que re-|
+ B c B A | G4- | G2 z2 | F G E F | ^C D E F | G4 | A4 | F G E F | ^C D E F | G4- | G2 z C | %33
+w: faz o que des-|fez||Que re- co- lhe|to- do\_o sen- ti-|men-|to|E bo- ta no|cor- po\_u- ma\_ou- tra|vez|* Pro-|
+ A B A C | G3 C | F G F B, | E3 A, | E2 D2- | D2 z A, | C2 B,2- | B,2 z D | B c B D | A3 D | %43
+w: me- to te que-|rer A-|té o\_a- mor ca-|ir Do-|en- te|* Do-|en- te|* Pre-|fi- ro\_en- tão par-|tir A|
+ A B A B | G3 C | F G F B, | E F E B, | D4 | C3 C | c d c C | c3 c | c d c d | B2 A F | d _e d D | %54
+w: tem- po de po-|der A|gen- te se des-|ven- ci- lhar da|gen-|te De-|pois de te per-|der Te\_en-|con- tro com cer-|te- za Tal-|vez num tem- po|
+ c d c D | c4 | B4 | A B A B | A B A B | A B A B | A3 G | F/G/E/F/ ^C2- | C D E F | G3 A | B2 E2 | %65
+w: da de- li- ca-|de-|za|On- de não di-|re- mos na- da|Na- da\_a- con- te-|ceu A-|pe- nas se- gui- rei|* co- mo\_en- can-|ta- do\_Ao|la- do-|
+ F4 | z4 |] %67
+w: teu||
+

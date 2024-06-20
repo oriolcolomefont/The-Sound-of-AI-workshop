@@ -1,0 +1,23 @@
+X:1
+T:The Marine's Hymn
+T:The Marine's Hymn
+C:Jacques Offenbach
+Z:All Rights Reserved
+L:1/4
+Q:1/4=240
+M:2/2
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ F G |"D" A2 A2 | A2 A2 | (A3 d) | A2 F G |"A7" A2 A2 | G E3 |"D" D4- | D z F G | A2 A2 | A2 A2 | %11
+w: From the|halls of|Mon- te-|zu- *|ma to the|shores of|Tri- po-|li|_ we will|fight our|coun- try's|
+ (A3 d) | A2 F G |"A7" A2 A2 | G E3 |"D" D4- | D z d3/2 c/ |"G" B2 G2 | B2 d2 |"D" A3 F | %20
+w: ba- *|tles on the|land as|on the|sea.|_ First to|fight for|right and|free- *|
+ A2 d3/2 c/ |"G" B2 G2 | B d3 |"D" A4- |"A7" A z D F |"D" A2 A2 | A2 A2 | (A3 d) | A2 F G | %29
+w: dom and to|keep our|hon- or|clean.-|_ we are|proud to|claim the|ti- *|tle of U-|
+"A7" A2 A2 | G2 E2 |"D" D4- | D z z2 |] %33
+w: nit- ed|States Ma-|rine.|_|
+

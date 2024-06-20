@@ -1,0 +1,25 @@
+X:1
+T:Scarborough Fair
+T:Scarborough Fair
+T:Adaptation by Albert Gamse
+C:Albert Gamse
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Dm" D2 D | A G A |"Gm" E3/2 F/ E | D3 |"F" A2 c |"Dm" d2 c |"G" A =B G |"A" A2 A |"Bb" d2 D | %9
+w: Are you|go- ing to|Scar- bo- rough|fair?|pars- ley|sage rose-|ma- ry and|thyme; re-|mem- ber|
+w: Have her|make me a|cam- * bric|shirt,|pars- ley|sage rose-|ma- ry and|thyme, with-|out a|
+"Dm" F2 G | A G F |"Bb" D2 D |"Dm" A2 A |"G7" G2 F |"C" E D C |"Dm" D3 :|"Dm" D2 D | A G A | %18
+w: me to|one who lives|there, for|once she|was a|true love of|mine|Have her|wash it in|
+w: seam or|fine need- le|work and|then she'll|be a|true love of|mine|If she|tells me she|
+"Gm" E3/2 F/ E |"Dm" D3 |"F" A2 c |"F""Dm" d2 c |"G" A =B G |"A" A2 A |"Bb" d2 D |"Dm" F2 G | %26
+w: yon- der dry|well,|pars- ley|sage, rose-|ma- ry and|thyme where|ne'er a|drop of|
+w: can't I'll re-|ply|pars- ley|sage, rose-|ma- ry and|thyme *|Le me|know that|
+ A G G |"Bb" D2 D |"Dm" A2 A |"G7" G2 F |"C" E D C |1"Dm" D3 ||2"Dm" D3 |] %33
+w: wa- ter e'er|fell and|then she'll|be a|true love of|mine||
+w: least she will|try and|then she'll|be a|true love of||mine.|
+

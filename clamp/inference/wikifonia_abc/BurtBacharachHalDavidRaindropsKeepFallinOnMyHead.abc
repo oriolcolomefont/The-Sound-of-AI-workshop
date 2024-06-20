@@ -1,0 +1,33 @@
+X:1
+T:Raindrops Keep Fallin On My Head
+T:Raindrops keep fallin on my head
+T:(from Butch Cassidy and the Sundance Kid)
+T:Burt Bacharach
+T:Hal  David
+C:Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A2 AA BAGF |"Fmaj7" A3 z z2 z C |"F7" c2 cc dcBA |"Bb" A2 B2 G2 F2 |"Am7" e2 z2"D7" dcAE | %5
+w: Rain- drops keep fall- in on my|head and|just like the guy whose feel are|too big for his|bed noth- in seems to|
+"Am7" e3 z"D7" d3 z |"Gm7" c2 cA BcBA | c2 BA B c3 | z2"C7" x F2 F2"C" G |"F" A2 AA BAGF | %10
+w: fit those|rain drops are fall in on my|head they keep fall- in|so I just|did me some talk- in to the|
+"Fmaj7" A2 z2 C2 z2 |"F7" c2 cc dcBA |"Bb" A2 B2 G2 F2 |"Am7" e2 z2"D7" dc"D"AE | %14
+w: sun and|I said I did- n't like the|way he got things|done sleep in on the|
+"Am7" e3 z"D7" d3 z |"Gm7" c2 cA BcBA | c2 cA B c3 |"C7" z2 F2 F2"C" G2 |"F" A4 z2 cG- | %19
+w: job those|rain- drops are fall- in on my|head they keep fall- in|but there's one|thing I know|
+"Fmaj7" G3 z z2"B7" AB- |"Bb" B A2 G- G2 FA |"C" A G3 A2"C7" Bd |"Am7" d c3 z2 z A | %23
+w: * the blues|* they send * to meet|me * won't de- feat|me * It|
+ d c2 c- c2 z A |"D" e d2 c- c2 AG- |"Gm7" G2 FA A G3- |"Gm7" G2 z2"C" z4 |"C7" z4"C" z4 | %28
+w: won't be long * till|hap- pi- ness * steps up|* to great * me|||
+"F" A2 AA BAGF |"Fmaj7" A3 z4 C |"F7" c2 cc dcBA |"Bb" A2 B2 G2 F2 |"Am7" e2 z2"D7" d"D"cAE | %33
+w: Rain- drops keep fall- in on my|head but|that does- n't mean my eyes will|soon be turn- ing|red cry- in's not for|
+"Am7" e3"D7" z d3 z |"Gm7" c2 cc dcBA | c2 cA B c3 |"C7" z2 x F2 F2"C" G |"F" A"Fmaj7" z z4 z2 | %38
+w: me cause|I'm nev- er gon- na stop the|rain by com- plain- in|be- cause I'm|free|
+"Gm7" z2 FF"C7" dc F2 |"F" A/G/F- F6 |] %40
+w: noth- in's wor- ry- in|me * * *|
+

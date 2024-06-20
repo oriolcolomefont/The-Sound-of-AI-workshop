@@ -1,0 +1,28 @@
+X:1
+T:MEXICAN HAT DANCE
+T: Laukens Music Productions  
+T:Samba-Mars 
+T:MEXICAN HAT DANCE
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:6/8
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ fe |"F" fd^c dBA |"C7" B3- Be^d | ec=B cA^G |"F" A3- Ad^c |"Gm7" dBA BG^F |"C7" GE^D EFG | %7
+"F" F6- | F3- Fc=B ||S"F" cA^G AFE | FC z z [FA][GB] | [Ac][Bd][ce] [df][eg][fa] | %12
+"C7" [gb][eg] z z BA | BG^F GE^D | EC z z [Ec][Ec] | [Ec][Fd][Ec] [DB][CA][B,G] | %16
+"F" [CA]3- [CA]c'=b | c'a^g afe | fc z z AB | cde fga |"C7" bg z z ba | bg^f ge^d | ec z z c'c'O || %23
+ c'd'c' bag |"F" f3- f[=Bg][Bg] ||"G7" [=Bg][Fd][Fd] [Fd][Af][Af] |"C" [Af] [Ge]2- [Ge][=Bg][Bg] | %27
+"G7" [=Bg][Fd][Fd] [Fd][Af][Af] |"C" [Ge]3- [Ge][=Bg][Bg] |"G7" [=Bg][Fd][Fd] [Fd][Af][Af] | %30
+"C" [Af] [Ge]2- [Ge][=Bg][Bg] |"G7" [=Bg][ca][Bg] [Af][Ge][Fd] |"C" [Ec]3- [Ec]c=BS || %33
+O"C7" c'd'c' bag | cdc BAG | CDC ^CDE |"F" F3- F z z |{cde} !>![Af] z z{cde} !>![Af] z z | %38
+{cde} !>![Af] z z z2 z |] %39
+

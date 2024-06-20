@@ -1,0 +1,38 @@
+X:1
+T:Harmonica Tijd
+T:Laukens Music Productions
+T:HARMONICA TIJD
+T:2
+T:HARMONICA TIJD
+T:Laukens Music Productions
+C:Traditional
+Z:All Rights Reserved
+L:1/16
+Q:1/4=124
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ GG |"G7" G2GG BGBd | [Bg][Bg][Af][Ge] [Fd]2[Bg][Bg] | [Bg]2[Af]2 [Ge]2[Fd]2 | %4
+ [Ec]2[Ec][Ec] [Ec]2[eg][eg]S |:"C" [eg][eg][ce][ce] [Gc][Gc][Ec][Ec] | [Ac]2[Gc]2 [Ec]2>[Gc]2 | %7
+ [Ac]2[Gc]2 [Ec][Gc]de |"G7" [Bg][Bg][Af][Ge] [Fd]2GG | G2GG BGBd | [Bg][Bg][Af][Ge] [Fd]2GG | %11
+ G2GG BGBd |"C" [Af][Af][Ge][Fd] [Ec]2[eg][eg] | [eg][eg][ce][ce] [Gc][Gc][EG][EG] | %14
+ [Ac]2[Gc]2 [Ec]2>[Gc]2 | [Ac]2[Gc]2 [Ec][Gc]cd |"G7" [Bg][Bg][Af][Ge] [Fd]2GG | GGGG BGBd | %18
+ [Bg][Bg][Af][Ge] [Fd]2[Bg][Bg] | [Bg]2[Af]2 [Ge]2[Fd]2"^TRIO" ||1 %20
+"C" [Ec]2[Ec][Ec] [Ec]2[eg][eg] :|2"C" [Ec]2[Ec][Ec] [Ec]2DD ||[K:G]"D7" DDDD ED^CD | %23
+"G" [GB]D[Ac]D"G" [Bd]4 |"D7" [Ge]2[Fd]2 [Ec]2>[DF]2 |"G" [DG]2[DB]2 [B,D]2DD |"D7" DDDD ED^CD | %27
+"G" [GB]D[Ac]D [Bd]2>[Ge]2 |"D7" [Ge]2[Fd]2 [Ec]2[DF]2 |"G" [B,G]2[DB]2 [B,G]4 |"D7" DDDD ED^CD | %31
+"G" [GB]D[Ac]D [Bd]2>[Ge]2 |"D7" [Ge]2[Fd]2 [Ec]2[CF]2 |"G" [B,G]2[DB]2 [B,D]2DD |"D7" DDDD ED^CD | %35
+"G" [GB]D[Ac]D [Bd]2>[Ge]2 |"D7" [Ge]2[Fd]2 [Ec]2[DF]2 | %37
+"G" [B,G]2[eg][eg]"C" [eg][eg][ce][ce]S"_D.S. al TRIO" ||[K:F] x8 | %39
+[K:C]"^TRIO" [Bg]2[Af]2 [Ge]2[Fd]2 |"C" [Ec]2[Ec][Ec] [Ec]2[cf][cf] |: %41
+[K:F]"F" [cf]F[df]F [cf]F[df]F | [Acf]2[Acf]2 [FAf]2[cf][cf] | [cf]F[df]F [cf]F[df]F | %44
+"C7" [ce]2[ce]2 [Bd]2>[ce]2 | [ce]2>[Bd]2 [ce]2[Bd][ce] | [ce]2[Bd][ce] [Bd]2[ce][ce] | %47
+ [ce]2[Bd]2 [Ac]2[GB]2 |"F" [fa][fa][Ae][Ad] [Fc]2[cf][cf] | [cf]F[df]F [cf]F[df]F | %50
+ [Acf]2[Acf]2 [FAf]2[cf][cf] | [cf]F[df]F [cf]F[df]F |"C7" [ce]2[ce]2 [Bd]2>[ce]2 | %53
+ [ce]2>[Bd]2 [ce]2[Bd][ce] | [ce]2[Bd][ce] [Bd]2[ce][ce] | [ce]F[Bd]F [Ac]F[GB]F |1 %56
+"F" [Ac]2Ac F2[cf][cf] :|2"F" [Ac]2Ac F2[eg][eg]"_D.S. al Fine" || x8 | %59
+

@@ -1,0 +1,39 @@
+X:1
+T:Broken Hearted Melody
+C:Sherman Edwards
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI program 16
+V:1
+"Emin""G7" z8 | B8- |"Emin" B A3"D " B2 A2 |"G " B2 AG- G4- |"D7" G8 |"Fmaj7" A8- | %6
+w: |Bro-|* ken ~heart- ed|~mel- o\- dy *||Once|
+"Amin" A G3"D7" A2 G2 |"G " B2 AG- G4- |"Bmin" G8 | B8- |"Emin" B A3"D " B2 A2 |"G " B2 AG- G4- | %12
+w: * ~you ~were ~our|~song ~of ~love. *||Now|* ~you ~just ~keep|~taunt- ing ~me *|
+"D7" G8 |"Amin""D7" A8- | A2 G2"G " BG G2 | G4 z2 z D |"Gmaj7" G2 F2 E2 ^D2 | z D2 B,"G " D2 B,2 | %18
+w: |with|* ~the ~mem- o\- ry-|~of his|~ten- der ~love. ~Oh,|Bro- ken ~heart- ed|
+"Emin" E2 FE- E4 |"G " z D2 B, D2 B,2 |"Emin" E2 FE- E4 |"C " z G2 E G2 E2 |"D7" A2 BA-"Amin" A4 | %23
+w: ~mel- o\- dy *|must ~you ~keep ~re-|mind- ing ~me *|of ~the ~lips ~I|~long ~to ~kiss *|
+ z G2 E G2 E2 |"D7" A4 BA BA |"G " G8 | z4"D7" BA BA |"G ""Dsus47" G8 |"G " z4 z D3 | %29
+w: and ~the ~love ~I|~miss ~since ~he ~went ~a-|way.|Night ~and ~day ~they|~play.|That|
+ z D2 B, D2 B,2 |"Emin" E2 FE- E4 |"G " z D2 B, D2 B,2 |"Emin" E2 FE- E4 |"C " z G2 E G2 E2 | %34
+w: ~bro- ken ~heart- ed|~mel- o\- dy *|that ~he ~used ~to|~sing ~to ~me *|when ~our ~love ~was|
+"D7" A2 BA-"Amin" A4 | z G2 E G2 E2 |"D7" A4 BA BA |"G " G8 | z4"D7" BA BA |"G ""Dsus47" G8 | %40
+w: ~young ~and ~bright *|as ~he ~held ~me|~tight; Sud- den- ly ~I|~found:|~I ~was ~out ~of|~bounds.|
+"G " z4 z D3 | B8- |"Emin" B A3"D " B2 A2 |"G " B2 AG- G4- |"D7" G8 |"Fmaj7" A8- | %46
+w: Oh,|Brok-|* ~en heart- ed|mel- o\- dy *||Once|
+"Amin" A G3"D7" A2 G2 |"G " B2 AG- G4- |"Bmin" G8 | B8- |"Emin" B A3"D " B2 A2 |"G " B2 AG- G4- | %52
+w: * ~you ~were ~my|~song ~of ~love. *||Now|* ~you ~just ~keep|~taunt- ing ~me *|
+"D7" G8 |"Amin""D7" A8- | A2 G2"G " BG G2 | G4 z D2 D |"Gmaj7" G2 F2 E2 ^D2 | z D2 B,"G " D2 B,2 | %58
+w: |with|* ~the ~mem- o\- ry|~of * his|~ten- der ~love. ~Oh,|Bro- ken ~heart- ed|
+"Emin" E2 FE- E4 |"G " z D2 B, D2 B,2 |"Emin" E2 FE- E4 |"C " z G2 E G2 E2 |"D7" A2 BA-"Amin" A4 | %63
+w: ~mel- o\- dy *|Won't ~you ~bring ~him|~back ~to ~me? *|Sing ~to ~him ~un-|til ~he ~hears, *|
+ z G2 E G2 E2 |"D7" A4 BA BA |"G " G8- | GD"D7" BA B2 A2 |"G " B2 AG-"Dsus47" G4 |"G " z8 | B8- | %70
+w: for ~when ~he ~re-|turns ~no ~more ~will ~he|~be,|* a ~bro- ken ~heart- ed|~mel- o\- dy. *||Oooo,|
+"Emin" Bd Bd"G7" Bd Bd | B2 AG-"Gmaj7" G4 |"Emin" z8 |"G " B8- | Bd Bd"Bmin" Bd Bd | %75
+w: * ~oo- oo,- ~oo- oo,- ~oo- oo,- ~oo-|oo- oo,- oo *||Oooo,|* ~oo- oo,- ~oo- oo,- ~oo- oo,- ~oo-|
+"G " B2 AG- G4 |"Gmaj7" z8 |] %77
+w: oo- oo- oo. *||
+

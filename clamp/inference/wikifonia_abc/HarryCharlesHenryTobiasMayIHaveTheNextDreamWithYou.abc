@@ -1,0 +1,29 @@
+X:1
+T:May I Have The Next Dream With You
+T:May I Have The Next Dream With You
+T:Harry Charles & Henry Tobias
+C:Harry Charles & Henry Tobias
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" e c c e |"D" d2 A B |"G" G d/>d/ d B |"D7" A F/>F/"Am7" G"D7" A |:"G" d c c B | B2 A G | %6
+w: May I have the|next dream with|you. * * * *||May I have the|next dream with|
+"B7" ^D2 B2- | B4 |"Em" B A A _A | G2 B2 |"E9" F4- | F4 |"C" z E ^D E |"Cm" d2 c2 |"G" z D ^C D | %15
+w: you dear||Just a dream be-|tween us|two||Who'd think that|some- day|Some- where in|
+"E7" c2 B2 |"A7" z G F G/>F/- |"Em7" F2"A7" E2 |"D7" A4 |"D+7" ^A4 |"G" d c c B | B A A G/>^D/- | %22
+w: some way|I'd meet a dream|* like|you||Close your eyes and|put your arms a- round|
+"B7" D2 B2- | B3 B |"Em" B A/>A/- A _A | G2 B2 |"E9" F4- | F4 |"C" z E ^D E |"Cm" d3 c/>B/- | %30
+w: * me|* You'd|be sur- pris- ed what|love can|do||So may I|have the next|
+"G" B d2 F |"A7" A3 G |"Am7" e c c A/>E/- |"D9" E2"D7" F2 |1"G" G d B G || %35
+w: * dream with|you And|may it last a whole|* life|through. * * *|
+"D7" A F/>G/ A/>B/c/>^c/ :|2"Bm" f d d B || F A"E7" ^G2 |"Am" e c c A | e4 |"D7" F4 |"G" G c c B | %42
+w: |May it last a|whole * life|May it last a|whole|life|through- * * *|
+"Cm" B A A G |"G" d4 |] %44
+w: ||
+

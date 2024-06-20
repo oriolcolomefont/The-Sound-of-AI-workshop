@@ -1,0 +1,17 @@
+X:1
+T:Alumíniumedény
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E3 D CB,CD | CB,CD EE E2 :| F3 F FE D2 | E3 E ED C2 | CG,G,G, G,G,G,A, | B,2 C4 z2!fine! | %6
+w: Főz- hetsz, me- le- gít- hetsz|ben- nem ép- pen e- le- get,|És ha nem tud- nád|még a ne- ve- met,|a ne- vem al- u- mí- ni- um|e- dény.|
+w: Mert a fe- ne- kem át-|en- ge- di a me- le- get,|||||
+ FFFF FE D2 | EEED C2 z C | DDDD DC B,2 | B,CB,C D E3!D.C.! |] %10
+w: A- el- ket- tő- ó- há- rom-|iksz- há- ket- tő- ó, Ezt|tud- ja min- den jól- ne- velt|ba- ux- it- ku- ta- tó!|
+w: ||||
+

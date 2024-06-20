@@ -1,0 +1,26 @@
+X:1
+T:Thank Heaven For Little Girls
+T:Thank Heaven For Little Girls
+C:Frederick Lowe
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z3 D |"F#" ^C"G" D3- | D"F#" F"D" G"D" A |"G" B4- | B2 z A | A G G A |"Bbdim" A G G F |"D7" F4- | %8
+w: Thank|heav- en|_ for lit- tle|girls!|_ For|lit- tle girls get|big- ger ev- 'ry|day.|
+ F z z E |"Am" ^D"E7" E3- |"Am" E"Ddim" ^G"Am" A"E7" B |"Ddim" d4- |"Am7" d2 z c |"C" c B"D7" B A | %14
+w: _ Thank|heav- en|_ for lit- tle|girls!|_ They|grow up in the|
+ A F F"D+" E |"G""Ddim" D4- |"D7" D2"Adim" z G |"G7" G A A B | B A A"G+" G |"Cmaj7" B2"C6" A2- | %20
+w: most de- light- ful|way.|_ Those|lit- tle eyes so|help- less and ap-|peal- ing|
+ A G A G |"Em7" B G A G |"A7" B A A G |"Am7" B2"D7" A2- | A z D2 |"F#" ^C"G" D3- | %26
+w: _ One day will|flash and send you|crash- ing thru the|ceil- ing.|_ Thank|heav- en|
+ D"F#" F"G" G"D" A |"G""G7" B4- |"Em" B2"Cm" z c |"G" d B"B" B B |"Em7" B G G B |"Am7" c B c ^c | %32
+w: _ for lit- tle|girls|_ Thank|heav- en for them|all no mat- ter|where. No mat- ter|
+"G" d3"Cm6" =c |"G" B G G"D7" A |"G" B G"D7" A2 |"G" G4- | G3 D |"C#" ^C"D7" D3- | D3 D | %39
+w: who, With-|out them what would|lit- tle boys|do?|_ Thank|heav- en|_ Thank|
+"F#" ^C"G" D3- |"D+" D3"G" D |"C#" ^C"D7" D2 D |"Am7" A2"D7" B2 |"G" G4- | G2 z2 |] %45
+w: heav- en|_ Thank|heav- en for|lit- tle|girls.|_|
+

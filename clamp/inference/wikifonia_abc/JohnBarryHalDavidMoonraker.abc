@@ -1,0 +1,22 @@
+X:1
+T:Moonraker
+T:Moonraker
+C:John Barry
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ z2 D2 |"G" A2 B2- |"Cm" B2 (3A B C | A4 |"G" z2 (3G A B | d3/2 e/ d D |"Cm" d- (3d/c/B/ c2 | %7
+w: Where|are you|* why do you|hide?|Where is that|moon- light trail that|leads * to your side?|
+"D7" z A B c |"Bm" d2- (3d D D |"Em7" d3 d |"Bm" d2- (3d D D |"Em7" d3/2 e/ d2 |"Am" c2- (3c D E | %13
+w: Just like the|Moon- * rak- er|goes in|search * of his|dream of gold|I- * search for|
+"D7" c3 c |"Am" c2- (3c D E |"D7" c3/2 d/ c A |"G" B3 d |"Cm" G2 (3z A c |"G" B3 d |"Cm" G4 | %20
+w: love for|some- * one to|have and hold I've|seen your|smile in a|thou- sand|dreams|
+"G" B3 d |"Cm" G2 (3z A c |"G" B3 d |"Em7" f3 g |"Am7" g4 | A4 |"Bm/D" f4 |"Am/D" e4 |"G" g4- | %29
+w: Felt your|touch and it|al- ways|seems you|love|me|You|love|me|
+ g4 | z4 |] %31
+w: ||
+

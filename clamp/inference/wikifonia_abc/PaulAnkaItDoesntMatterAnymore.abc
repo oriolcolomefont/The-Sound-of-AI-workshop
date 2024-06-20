@@ -1,0 +1,25 @@
+X:1
+T:It Doesn't Matter Anymore
+T:It doesn't matter anymore
+T:Paul Anka
+C:Paul Anka
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"^Rock Beat" z"F" A2 G FCDF | z A2 G F2 GA |"C7" z B2 A GGGG | z B2 A G2 G2 |"F" z A2 G FCDF | %5
+w: There you go and ba- by|here am I well you|left me here so I could|sit and cry well|gol- ly gee what have you|
+ z A2 G F2 FF |"C7" GGGG GEEE |"F" F8 |"F" z AAG FCDF | z A2 G FFGA |"C7" z B2 A G2 GA | %11
+w: done to me Well I|guess it does- nt mat- ter an- y|more|Do you re- mem- ber ba- by|last Sep- tem- ber how you|held me tight each and|
+ z B2 A G2 G2 |"F" z A2 G FCDF | z A2 G FFEF |"C7" GGGG GEEE |"F" F8 |"D" z D2 D DEFG | %17
+w: ev- ry night well|whoops- a- dai- sy how you|drove me cra- zy but I|guess it does- nt mat- ter an y|more|Theres no use in me a-|
+ z A2 G AG F2 |"F" z AAA AGFG | z A2 G AG F2 |"G7" GGGA G3 G | GGGA G2 AG |"C7" c4"Gm7" B4 | %23
+w: cry- * * * in'|Done ev- ry thing and now I'm|sick of try- * in|Roll a- way my nights and|wast- ed all my days o- ver|you _|
+"C7" A4 G4 |"F" z A2 G (FC)DF | z A2 G F2 F2 |"C7" z BBA GGGG | z B2 A G2 GG |"F" z AAG FCDF | %29
+w: _ _|you go your _ way and|I'll go mine well|now and for- ev- er till the|end of time I'll find|some- bod- y new and ba- by|
+ z AAG F2 F2 |"C7" G2 G2 GEEE |1"F" F8 :|2"F" F6 z2 |] %33
+w: you say we're through and|you wont mat- ter an- y-|more.|more.|
+

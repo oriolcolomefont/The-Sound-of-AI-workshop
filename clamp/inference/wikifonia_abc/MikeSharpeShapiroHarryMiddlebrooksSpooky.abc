@@ -1,0 +1,53 @@
+X:1
+T:Spooky
+T:Spooky
+T:Mike Sharpe (Shapiro) & Harry Middlebrooks, Jr.
+C:Mike Sharpe (Shapiro), Harry Middlebrooks
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 56
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 56
+L:1/4
+V:1
+"Fm7" z2 A2 A4 |"Bb7" G G2 G- G4 |"Fm7" z2 A2 A4 |"Bb7" G G2 G- G4 |"Fm7" z2 A2 A4 | %5
+w: |||||
+w: |||||
+w: |||||
+"Bb7" G G2 G- G4 |"Fm7" x8"Fm7" |:"Bb7" z4 z2 fe"Bb7" |"Fm7" f2 fe fecB- |"Bb7" BAB_c BAFE | %10
+w: ||In the~|cool of the ev'n- ing when ev-|er- y thing is get- ting kind- of|
+w: ||You al-|ways keep me gues- sing and I|ne- ver seem to know what you are|
+w: ||* If|you de- cide some day to stop|this lit- tle game that you are a-|
+"Fm7" F2 A2 z4"Fm7" |"Bb7" z4 z f2 e"Bb7" |"Fm7" f2 fe fecB- |"Bb7" BAB_c BAFE | %14
+w: groo- vy,|You~call~ me|up and ask me if I would|_ like to go with you and see~|
+w: think- ing.|And~if a|girl looks a you, it's for sure|_ your lit- tle eye will be a-|
+w: play- ing,|* I'm|gon- na tell you all the things|my heart's been a- dy- ing to be|
+"Fm7" F2 A2 z4"Fm7" |"Bb7" x8"Bb7" |"Fm7" ffef- f2 fe |"Fm7" ffef- f a2 c | %18
+w: mo- vie.||First I say no _ I've got|some plans for to- * night and|
+w: wink- ing.||I get con- fused _ I nev-|er know where I _ stand and|
+w: say- ing.||Just like a ghost _ you've been|a- haunt- ing my _ dream but|
+"Bb7" B2 z2"^No" z"^chord" B A2 |"Abpower""Abpower" =B2 B2 _BA z f- |"Fm7" feff- fecB- | %21
+w: then I say|All right! * * Love~|_ is kind of cra- zy with a|
+w: then~you smile and~hold|my hand! * * *||
+w: now~I~know you're not~what|you seem! * * *||
+"Bb7" BAB_c BAFE |"Fm7" F4 z4"Fm7" :|"Bb7" g g2 g- g4 |: %24
+w: _ spoo- oo- ky lit- tle boy like|you.||
+w: |||
+w: |||
+"Fm7" z2"_Spooky Ahh, ahh, spooky, mmm, spooky, ahh, ahh, ahh, spooky, ooh, spooky Ahh, aah, aah, spooky." A2 A4 | %25
+w: |
+w: |
+w: |
+"Bb7" G G2 G- G4 |"Fm7" z2 A2 A4 |"Bb7" G G2 G- G4 :| %28
+w: |||
+w: |||
+w: |||
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | z A A2 |: g/ g g/- g2 | x4 | x4 | z a a2 | g/ g g/- g2 | x4 | x4 | %14
+ z a a2 | g/ g g/- g2 | x4 | x4 | x4 | x4 | x4 | x4 | z a a2 :| x4 |: x4 | x4 | x4 | x4 :| %28
+

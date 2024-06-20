@@ -1,0 +1,35 @@
+X:1
+T:The Midnight Sun WIll Never Set
+T:The Midnight Sun Will Never Set
+T:Quincy Jones, Henri Salvador
+T:Dorcas Cochran
+C:Quincy Jones, Henri Salvador
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+|: z"C9" CFG BAGF |"Fmaj7""Gm7" D8 |"Am7" z CFA"D7" dcAB |"Gm7""Am7" G8 |"Bbmaj7" z ffd"C9" dcBA | %5
+w: The mid- night sun will ne- ver|set.|It shines for- ev- er in my|heart.|For it was un- der- neath that|
+w: The nid- night sun will ne- ver|set.|So how could our ro- mance be|through?|For in the ev- er shi- ning|
+"Cm7" G3 d"F7b9" A3 c |"Bbmaj7" F3 B"Em7b5" E3"A7" A |1"Dm7" ed"G7" G6 :|2 %8
+w: am- ber glow, you|whis- pered- low: "We'll|ne- ver part."|
+w: day light of our|sum- mer love, the||
+"Dm7" ed"G7" A2-"C9" AB"Gb9"_de ||"F6" f4 z fff ||"Fm7" f3 _e _e3 d |"Bb9" d3 c c3 B | %12
+w: mid- night sun * was shi- ning|too. No more is|night a wild de-|light with all the|
+w: ||||
+"Eb" d3 G G4- | G z"Gm7" c2"Ab7" c2"Am7" c2 |"Bbm" _d3 c"Gb" c3 B |"Bbm" B3 _A"Db7" =A2 G2 | %16
+w: world on fire.|* And yet I|can't es- cape the|lips I still de-|
+w: ||||
+"Gm7" c8- |"C9sus4" cCFG BAGF |"Fmaj7""Gm7" C8 |"Am7" z CFA"D7" dcAB |"Gm7""Am7" G8 | %21
+w: sire.|* I see two si- lent sil- hou-|ettes.|A- gainst a fla- ming sky and|sea.|
+w: |||||
+"Bbmaj7" z ffd"C9" dcBA |"Cm7" G3 d"F7b9" A3 c |"Bbmaj7" F3 B"Em7b5" E3 A | %24
+w: And then I know 'tho I'm a|fool to care, a-|gain, some- where the|
+w: |||
+"Dm7" ed"G9" A2-"Gm7" AB"C7b9"_de |"F" f8 |] %26
+w: mid- night sun * will shine for|me.|
+w: ` * * * * * *||
+

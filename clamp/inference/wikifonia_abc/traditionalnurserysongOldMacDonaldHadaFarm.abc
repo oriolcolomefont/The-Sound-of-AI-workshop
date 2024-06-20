@@ -1,0 +1,36 @@
+X:1
+T:Old MacDonald Had a Farm
+T:Old MacDonald Had a Farm
+T:traditional nursery rhyme
+C:traditional nursery song
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" [GG]G GD |"C" EE"G" D2 |"A7" BB"D7" AA |"G" G3 |: D |"G" GG GD |"C" EE"G" D2 |"A7" BB"D7" AA | %8
+w: Old Mac- Don- ald|had a farm,|E- I- E- I-|O!|1.~~And|on his farm he|had some chicks,|E- I- E- I-|
+w: ||||2.~~~And|on his farm he|had some ducks,|E- I- E- I-|
+w: ||||3.~~~And|on his farm he|had some cows,|E- I- E- I-|
+w: ||||4.~~~And|on his farm he|had some turkeys,|E- I- E- I-|
+w: ||||5.~~~And|on his farm he|had some pigs,|E- I- E- I-|
+w: ||||6.~~~And|on his farm he|had a horse,|E- I- E- I-|
+"G" G3 | D/D/ |"G" G"C"G"G" GD/D/ |"G" G"C"G"G" G2 |"G" G/G/"C"G"G" G/G/G |"G" G/G/"C"G/G/"G" GG | %14
+w: O!|With a|chick, chick here, and a|chick, chick there,|Here a chick, there a chick,|ev- 'ry- where a chick, chick,|
+w: O!|With a|quack, quack here, and a|quack, quack there,|Here a quack, there a quack,|ev- 'ry- where a quack, quack,|
+w: O!|With a|moo, moo here, and a|moo, moo there,|Here a moo, there a moo,|ev- 'ry- where a moo, moo,|
+w: O!|With a|gobble, gobble here, and a|gobble, gobble there,|Here a gobble, there a gobble,|ev- 'ry- where a gobble, gobble,|
+w: O!|With an|oink, oink here, and an|oink, oink there,|Here an oink, there an oink,|ev- 'ry- where an oink, oink,|
+w: O!|With a|neigh, neigh here, and a|neigh, neigh there,|Here a neigh, there a neigh,|ev- 'ry- where a neigh, neigh,|
+"G" GG GD |"C" EE"G" D2 |"A7" BB"D7" AA |"G" G4 :| %18
+w: Old Mac- Don- ald|had a farm,|E- I- E- I-|O!|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+

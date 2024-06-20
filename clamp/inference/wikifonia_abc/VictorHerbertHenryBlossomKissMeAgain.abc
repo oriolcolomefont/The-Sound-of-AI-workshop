@@ -1,0 +1,27 @@
+X:1
+T:Kiss Me Again
+T:Kiss Me Again
+T:from the operetta Mlle. Modiste 1905
+T:Victor Herbert
+T:Henry Blossom
+C:Victor Herbert
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B, C D |"Gmaj7" F3 |"G6" E D E |"G" B,3 | D E G |"G7" B2 A/B/ |"C" E3- |"E7" E3 |"Am" C D E | %9
+w: Sweet sum- mer|breeze|whis- per- ing|trees|Stars shin- ing|soft- ly a-|bove||Ros- es in|
+ B3 | A ^G A | E3 |"D7" F G A |"D+" f2 e/f/ |"G" B3 |"D7" d c A |"G" B, C D |"Gmaj7" F3 | %18
+w: bloom|Waft- ed per-|fume|Sleep- y birds|dream- ing of|love||Safe in your|arms|
+"G6" E D E |"G" B,3 |"Em7" D E G |"G7" B2 A/B/ |"C" e3- |"E7" e3 |"Gdim7" g F G |"F#7" f3 | %26
+w: far from a-|larms|day- light shall|come but in|vain||Ten- der- ly|pressed|
+"G" e ^C D |"E7" c3 |"A7" B E2 |"D7" B F B |"G" G3- | G3 | B B3/2 B/ | B3 |"A7" ^c c2 | %35
+w: close to your|breast|Kiss me|Kiss me a-|gain||Kiss me a-|gain|Kiss me|
+"D7" d d3/2 d/ |"^G" g3- | g3 |] %38
+w: Kiss me a-|gain-|.|
+

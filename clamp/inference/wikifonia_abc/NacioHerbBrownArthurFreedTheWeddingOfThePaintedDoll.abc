@@ -1,0 +1,54 @@
+X:1
+T:The Wedding Of The Painted Doll
+T:The Wedding Of The Painted Doll
+T:Nacio Herb Brown
+T:Arthur Freed
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^2 bars 8va" e'2 e'2"Gm/D" d'2 d'>b |"Cm" c'2 b2"F7" g2"Bb7" f2 |"Eb" e'2 e'2"Gm/D" d'2 d'>b | %3
+w: |||
+"Cm" c'2 b2"F7" g2"Bb7" f2 ||S"Eb" E>GB>e d2 z3/2 B/ | c2 z3/2 G/ B2 z3/2 G/ | %6
+w: |It's a hol- i- day, to-|day's the wed- ding|
+"Ebm" E>F_G>_c"Bb7" B2 z2 |"Ebm" e>f_g>_c'"Bb7" b2 z2 |"Eb" E>GB>e d2 z3/2 B/ | %9
+w: of the paint- ed Doll.||It's A jol- ly day, the|
+ c2 z3/2 G/ B2 z3/2 G/ |"Ebm" E>F_G>_c"Bb7" B2 z2 | d>fa>_c' b2 z3/2 B/ | %12
+w: news is spread- ing|all a- round the hall.|* * * * * Red|
+"Dm/F" =A2"Bb7" B2 B2 z3/2 B/ |"G7/F" =B2"Bb7" c2 c2 z3/2 _B/ |"Ebdim" =A2"Eb" B2 B2 z3/2 B/ | %15
+w: Rid- ing Hood and|Bus- ter Brown, The|Jump- ing Jack jumped|
+"Eb+" =B2"Eb" c2 c2 z3/2"Eb7" ^c/ |"G" d2 =e2 e2 z3/2 =B/ |"D7/A" d2 =e2 e2 z2 | %18
+w: in- to town. From|far an' near, they're|com- in' here,|
+"Am/E" =A2"G/D" G4"Am/E" A2 |"G/D" G4"Am/E" =A2"G/D" G2 |"Eb" E>GB>e d2 z3/2 B/ | %21
+w: Church bells ring-|ing, bring- ing|All the lit- tle doll- ies|
+ c2 z3/2 G/ B2 z3/2 G/ |"Ebm" E>F_G>_c"Bb7" B2 z2 |"Ebm" e>f_g>_c'"Bb7" b2 z2 | %24
+w: from the Foll- ies|with their paint- ed cheeks||
+"Eb7" e>_dB>G F2 z3/2 G/ | B2 z3/2 G/ F2 z3/2 E/ |"Ab" F>E c2 z3/2 e<fe/ | c'2 z2 z4 | %28
+w: Lit- tle ma- ma doll has|fussed a- round for|weeks and weeks * * *||
+"Eb" B2 B2 e2- e>B |"B7" =A2 A2 e4 |"Fm" A2 A2 c2- c>A |"F7" G2 F2"Bb7" G2 F2 | %32
+w: Shoo the blues, * no|time to lose,|Rice and shoes * will|spread the news, that|
+"Eb" E>GB>e d2 z3/2 B/ | c2 z3/2 G/ B2 z3/2 G/ |"Ebm" E>F_G>_c"Bb7" B2 =c2!fine! | %35
+w: It's a hol- i day, To-|day's the wed- ding|of the lit- tle paint- ed|
+"Eb" e2 z2"D7" d4 ||[K:G]"G" D6 G>B | d4 B4 |"G" (3EFE D>^C D2 D2 | (3EFE D>^C D2 D2 | %40
+w: Doll. *|Here come the|brides- maids|Look at them in their plac- es,|Look at the fan- cy lac- es,|
+"D7/A" (3EFE D>^C D4- | D4 B4 |"Am/E" A2"G/D" G4"Am/E" A2 |"G/D" G4"Am/E" a2"G/D" g2 |"G" D6 G>B | %45
+w: Look at them as they smile|* all|sor- row a-|way. * *|Here comes the|
+ d4 B4 | (3EFE D>^C D2 D2 | (3EFE D>^C D2 D2 |"D7/A" (3EFE D>^C D4- | D4 B4 | %50
+w: bride now,|Look at the lit- tle cut- ie,|Look at the lit- tle beau- ty,|Look at the lit- tle doll|* It's|
+"Am/E" A2"G/D" G4"Am/E" A2 |"G/D" G4 g2 z2 |"B" F2 z3/2 ^D/ B,2 z3/2 D/ | F2 F2"Abm7" ^G2 z2 | %54
+w: her wed- ding|day. *|Here's the preach- er|man, oh look|
+"Gb7" F2 z3/2 E/ ^C2 z3/2 E/ |"B" ^DD B,2 B,2 z2 | F2 z3/2 ^D/ B,2 z3/2 D/ | F2 F2"Abm7" ^G2 z2 | %58
+w: As he takes his|lit- tle black book.|He is sure he|knows his stuff,|
+"Gb7" F2 z3/2 E/ ^C2 z3/2 E/ |"B" ^DD B,2"D7" =D4 |"G" D6 G>B | d4 B4 | (3EFE D>^C D2 D2 | %63
+w: 'Cause he's done it|of- ten e- nough.|Here comes the|bride- groom|Read- * y for the ser- vice,|
+ (3EFE D>^C D2 D2 |"D7" (3EFE D>^C D4- | D4 B4 |"Am/E" A2"G/D" G4"Am/E" A2 | %67
+w: just- * a lit- tle ner- vous.|Now * the preach- er say|* You're|mar- ried to|
+"G/D" G2 z2"Bb7" ^A4!D.S.! |] %68
+w: stay. *|
+

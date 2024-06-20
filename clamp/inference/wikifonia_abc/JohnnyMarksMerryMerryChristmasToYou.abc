@@ -1,0 +1,26 @@
+X:1
+T:Merry, Merry Christmas To You
+T:Merry, Merry Christmas To You
+C:Johnny Marks
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+S"Bb" F2 D |"Bbmaj7" F2 D |"Bb6" F2 D |"Bb" F2 D | d2 d | d c B |"F7" A3- | A3 |"Cm" E2 C | %9
+w: Mer- ry,|mer- ry,|mer- ry,|mer- ry,|mer- ry|Christ- mas to|you.|_|May each|
+"Cm7" E2 C |"Cm6" E2 C |"Cm" E2 C |"F7" c/ z/ z c | c B A |"Bb6" G3- | G2 D |"Bb" F2 D | %17
+w: day be|ver- y,|ver- y|hap- py|all the year|through.|_ a-|round the|
+"Bbmaj7" F2 D |"Bb6" F2 D |"Bb7" F2 D | d/ z/ z d | d c B |"Eb" G3- |"G7" G3 |"Cm" G ^F G | %25
+w: world you'll|see the|things the|Christ- mas|spir- it can|do.|_|Bells will be|
+"C#dim7" G ^F G |"Dm7" B A G |"G7" F E D!dacoda! ||"C7" G2 d |"F7" c B c |"Bb6" B3- | B2"A7" A | %32
+w: ring- ing with|ev- 'ry- one|sing- ing a|mer- ry|Christ- mas to|you!|_ Joy-|
+[K:F]"Dm7" d2 A | (d2 A) |"Gm6" G A B |"Dm" A2 F |"Gm6" G A B |"A+" A2 F |"Dm" D3- | D2 D | %40
+w: eaux No-|el, _|Buon- ne Na-|tal- e,|Fe- liz- e|Nav- i-|dad.|_ In|
+"A7" E2 F | G F E |"Dm" A3- | A2 F |"C7" G A B | G A B |"Cm7/F" c3 |"F7" d3!D.S.! || %48
+w: ev- 'ry|land there's a|way|_ of|say- ing what|we want to|say.|Oh!|
+[K:Bb]O"C7" G2 d |"F7" c A F |"C7" G2 d |"F7" c A F |"C7" G2 d |"F7" c B c |"Bb6" B3- | B z2 |] %56
+w: mer- ry|Christ- mas, a|mer- ry|Christ- mas, a|mer- ry|Christ- mas to|you!|_|
+

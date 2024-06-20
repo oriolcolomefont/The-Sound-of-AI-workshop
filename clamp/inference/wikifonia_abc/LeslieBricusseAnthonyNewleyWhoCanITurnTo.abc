@@ -1,0 +1,29 @@
+X:1
+T:Who Can I Turn To
+C:Leslie Bricusse, Anthony Newley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Ebmaj7" F F/E/ F G- |"Gm7" G2"C7" z B, |"Fm7" F F/E/"Bb7" F B,- |"Fm7/Bb" B,2"Bb7" z B, | %4
+w: Who Can I Turn To|_ when|no- bod- y needs me?|_ My|
+"Ebmaj7" G G/^F/"Fm7" G A |"Gm7" B B/=A/"Abmaj7" B c |"Bbm7" _d d/c/ d F- |"Eb9" F2 z E | %8
+w: heart wants to know and|so I must go where|des- tin- y leads me.|_ With|
+"Abmaj7" c c/=B/ c e- |"Am7b5" e2"D7" z f |"Gm7" d d/^c/"Cm7" d E- |"Bbm7" E2"Eb7" z E | %12
+w: no star to guide me,|_ and|no- one be- side me,|_ I'll|
+"Abmaj7" c c/=B/"Dm7b5" c A |"Gm7" B B/=A/"C7b9" B G |"Fm7" F F/=E/"B9" F A- | %15
+w: go on my way and|af- ter the day, the|dark- ness will hide me.|
+"Bb7sus4" A2"Bb7" z B, |"Ebmaj7" F F/E/ F G- |"Gm7" G2"C7" z B, |"Fm7" F F/E/"Bb7" F B,- | %19
+w: _ And|may- be to- mor- row|_ I'll|find what I'm af- ter,|
+"Fm7/Bb" B,2"Bb7" z B, |"Ebmaj7" G G/^F/"Fm7" G A |"Gm7" B B/=A/"Abmaj7" B c |"Bbm7" _d d/c/ d F- | %23
+w: _ I'll|throw off my sor- row,|beg steal or bor- rown|my share of laugh- ter.|
+"Eb9" F2 z E |"Abmaj7" c c/=B/ c d- |"Dm7b5" d2"G7b9" z G |"Cm7" d d/c/"Cm/Bb" d e- | %27
+w: _ With|you I could learn to,|_ with|you on a new day,|
+"Am7b5" e2"Abmaj7" z c |"Eb69/G" e e/d/"Gbdim7" e e/f/ |"Fm9" g2"Bb7#5b9" d d |"Eb69" e4- | %31
+w: _ but|Who Can I Turn To if|you turn a-|way?|
+ e z z2 |] %32
+w: _|
+

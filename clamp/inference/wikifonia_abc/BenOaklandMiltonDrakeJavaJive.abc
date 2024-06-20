@@ -1,0 +1,32 @@
+X:1
+T:Java Jive
+T:Java Jive
+T:Ben Oakland
+T:Milton Drake
+C:Ben Oakland
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"F" C2 F2 D2 F2 |"C7" C2 E2 E2- E2 |"Gm7" c2 c=B"C7" _BAG^G |"F" A F2 F2- F3 | ccc"Eb"c- cc c2 | %5
+w: I love cof- fee|I love tea *|I love the Ja- va Jive and|it loves me *|Cof- fee and tea * and the|
+w: I love ja- va|sweet and hot *|Whoops, Mis- ter Mo- to I'm a|cof- fee pot *|shoot me the pot * and I'll|
+"Bb" cccc- c3 c |"^N.C." cABG AFGE |1 F2"C7" z2 c2- c2 :|2 F2"F" z2 FF F2 ||"Bb7" _AFGA- AFGA | %10
+w: jiv- in' and me * A|cup, a cup, a cup, a cup, a|cup! * *|cup! * * so|slip me a slug * from the won|
+w: pour me a shot * A|cup, a cup, a cup, a cup, a||||
+"Fm" AFG_A-"Bb" AFG=A- |"Bb7" AFGA _AGFd- |"F" dFFF- F3"^N.C." F | c2 B2 AG_EC | %14
+w: * der- ful mug * and I'll cut|* cut a rug * till I'm snug|* in the jug * a|slice of on- ion on a|
+w: ||||
+"Db" _E2"C7" _C2- C2 z2 |"Db" B3"C7" c- c2 z2 | cccc cccc |"F" C2 F2"Ab" D2 F2 |"C7" C2 E2 E2- E2 | %19
+w: raw one *|draw one *|wait- er wait- er per- co- la- tor!|I love cof- fee|I love tea *|
+w: |||||
+"Gm7" c2 c=B"C7" _BAG^G |"F" AFF- F4 z | ccc"Eb"c- c3 =B |"Bb" ccc-"Db" c3 z B |"^N.C." cABG AFGE | %24
+w: I love the Ja- va Jive and|it loves me *|Cof- fee and tea and the|jiv- in and me a|cup, a cup, a cup, a cup, a|
+w: |||||
+"F" F2 z2 f2 f2 |] %25
+w: cup! * *|
+w: |
+

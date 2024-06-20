@@ -1,0 +1,30 @@
+X:1
+T:Love's Old Sweet Song
+T:Love's Old Sweet Song
+C:James L. Malloy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" F2 FF F2 F2 |"C7" F>EED E4 | G2 GG G3 G |"F" G>FFG A4 | A2 GA"C7" B2 G2 | BBAB"F" c4 | %6
+w: Once in the dear, dead|days be- yond re- call,|When on the world the|mists be- gan to fall,|Out of the dreams that|rose in hap- py throng,|
+w: E- ven to- day we|hear love's song of yore|Deep in our hearts it|dwells for- ev- er more,|Foot- steps may fal- ter,|wear- y grow the way,|
+"Dm7" c2 DE FA=B>A |"G7" G2 =B,2"C" C4 |"Gm" _B2 A>G D3 E |"Dm" FEFG A4 |"G7" A2 GF"C" Ec"Dm"DF | %11
+w: How to our hearts love sang an|old sweet song,|And in the dusk where|fell the fire- lights gleam,|Soft- ly it wove it- self in-|
+w: Still we can hear it at the|close of day,|So till the end when|life's dim shad- ows fall,|Love will be found the sweet- est|
+"C" E4"G7" D4 |"C""G7" C8 ||[M:3/4]"F" C>D F2 D2 |"C7" E2 c4 | C>D E2 B2 |"F" A6 |"A7" A>B A2 G2 | %18
+w: to our|dream.|Just a song at|twi- light,|When the light are|low,|and the flick- 'ring|
+w: song of|all.||||||
+"Dm" F2 A4 |"G7" G>A G2 D2 |"C7" G6 |"F" C>D F2 D2 |"C7" E2 c4 | C>D E2 B2 |"F" A6 | %25
+w: shad- ows,|Soft- ly come and|go.|Tho' the heart be|wear- y,|sad the day and|long,|
+w: |||||||
+"F7" A>G F2 c2 |"Bb" d4"Gm7" B2 |"C7" A2 G2 C2 |"F" c4 F2 |"Bb" AG"F" F2"C7" (E/!fermata!GF/) | %30
+w: Still to me at|twi- light,|Comes love's old|sweet song,|Comes love's old sweet * *|
+w: |||||
+"F" F4 z2 |] %31
+w: song.|
+w: |
+

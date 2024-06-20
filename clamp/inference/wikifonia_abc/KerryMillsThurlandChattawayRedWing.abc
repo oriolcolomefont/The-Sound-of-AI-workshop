@@ -1,0 +1,29 @@
+X:1
+T:Red Wing
+T:Red Wing
+C:Kerry Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z6 z D |"G" GD/G/GB d2- dG |"C" ce/g/fe"G" d3 B |"Am" c(c/B/)"D7"Ac"G" B(B/A/)"Em"GB | %4
+w: There|once lived and in- dian maid, _ a|shy lit- tle prai- rie maid, Who|sang a- * lay, a love song _ gay, As|
+w: She|watched for him day and night, _ She|kept all the camp- fire bright, And|un- der the sky, each night she would lie, And|
+"A7" AEFG"D7" A/B/A/F/ED |"G" G(G/F/)GB d2- dG |"C" c(c/e/)fe"G" d3 B | %7
+w: on the plain she'd While a- way the day, She|loved a _ war- rior bold, _ this|shy lit- tle maid of old, But|
+w: dream a- bout his com- ing by and by, But|when all the braves re- turned, _ the|heart of _ Red Wing yearned, For|
+"Am" c(c/B/)"D7"Ac"G" B(B/A/)"Em"GB |"A7" AE"D7" (F/E/)D"G" G2 gf ||"C""^CHORUS" e2 e>e egfe | %10
+w: brave and _ gay he rode one _ day to|bat- tle far * a- way. Now the|moon shines to- night on pret- ty|
+w: far, far a- way her war- rior _ gay, fell|brave- ly in _ the fray. * *||
+"G" d2 B2- Bded |"D7" d2 A2- Aded |"G" d2 B2- B2 gf |"C" e2 e>e egfe |"G" d2 B2- Bded | %15
+w: Red Wing, _ the breeze is|sigh- ing, _ the night birds|cry- ing, _ For a-|far 'neath his star her brave is|sleep- ing, _ While Red Wing's|
+w: |||||
+"D7" d2 A2- AcBA |"G" G4- G3 z |] %17
+w: weep- ing _ her heart a-|way. _|
+w: ||
+

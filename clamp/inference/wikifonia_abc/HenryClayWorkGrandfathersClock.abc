@@ -1,0 +1,25 @@
+X:1
+T:Grandfather's Clock
+T:Grandfathers Clock
+T:Henry Clay Work
+C:Henry Clay Work
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 G2 |"C" c2 Bc"G7" d2 cd |"C" e2 fe"F" A2 dd |"C" c2 cc"G7" B2 AB |"C" c4 z2 GG | %5
+w: My|grand- fath- ers clock was too|large for the shelf, so it|stood nine- ty years on the|floor. It was|
+ c2 Bc"G" d2 cd |"C" e2 fe"F" A2 dd |"C" c2 cc"G7" B2 AB |"C" c4 z2 ce | g2 ed"Am" c2 Bc | %10
+w: tal- ler by half than the|old man him- self tho' it|weighed not a pen- ny weight|more. It was|bought on the morn of the|
+"F" dcBA"C" G2 ce | g2 ed"Am" c2 Bc |"G7" d4 z2 GG |"C" c2 z2"G7" d2 z2 |"C" (3eee fe"F" A2 dd | %15
+w: day- * he was born. It was|al- ways his treas- ure and|pride. And it|stopped short|ne- ver to go a- gain when the|
+"C" c2 z2"G7" B2 z2 |"C" c4 z2 GG | c2 GG"Em" AG G2 |"Am" E2 G2"C" E2 GG | c2 GG"Em" AA G2 | %20
+w: old man|died Nine- ty|years with- out slum ber- ing|tick tock tick tock His|life sec- onds num- ber- ing|
+"Am" E2 G2"C" E2 GG | c2 z2"G7" d2 z2 |"C" (3eee fe"F" A2 dd |"C" c2 z2"G7" B2 z2 |"C" c6 z2 |] %25
+w: tick tock tick But it|stopped short|nev- er to go a- gain when the|old man|died.|
+

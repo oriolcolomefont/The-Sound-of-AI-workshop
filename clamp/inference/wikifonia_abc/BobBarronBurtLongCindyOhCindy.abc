@@ -1,0 +1,34 @@
+X:1
+T:Cindy, Oh Cindy
+T:Cindy, oh Cindy
+T:Bob Barron and Burt Long
+T:Calypso beat
+C:Bob Barron, Burt Long
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"G""^Refrain:" d2 B e | d2 B2 | z d d B |"D7" c/ B A/- A2 | z A A B |1 c/ d e/- e3/2 B/ | d d B A | %7
+w: Cin- dy oh|Cin- dy|Cin- dy don't|let me down _|Write me a|let- ter soon _ and|I'll be home- ward|
+w: |||||||
+w: |||||||
+"G" G4 ||2 c/ d e/- e2 || z d d d | B2 A2 |"G" G4- |"Em" G4- |"C" G4 |] z2"^Verse:" z D | %15
+w: bound.|let- ter soon _|and I'll be|home- ward|bound.|_||I|
+w: |||||||I|
+w: |||||||I|
+"G" G/ G G/- G/A/ B |"Em" E/ E D/- D z/ D/ |"C" E G2 G/G/ |"G" D3 z/ D/ | G G G/A/ B | %20
+w: joined the na- * vy to|see the world * but|no- where could I|find A|girl as sweet * as|
+w: see her face * * in|ev- 'ry wave * her|lips kiss ev'ry *|breeze her|lov- in arms * reach|
+w: know my Cin- * * dy's|wait- * ing As I|walk the deck a-|lone her|lov- in arms * reach|
+"Em" E/D/- D2 z/ D/ |"C" E G G G/G/- |"G" G3 B | d d d/B/A/G/- |"Em" G/E/- E3/2 z/ F | %25
+w: Cin- dy _ the|girl I left be- hind|* I've|sailed the wide * world o-|* ver _ Cant|
+w: out * forme through|calm and storm my seas|* At|night I pace * the lone-|ly deck _ Car|
+w: out * forme soon|I'll be head- in home|* Thenmy|sail- ing days will be o-|* ver _ and|
+"C" G G G/E/ G |"G" E4- | E2 z2!D.C.! |] %28
+w: get her out of my|mind.|_|
+w: ressed by mem * o-|ries.|_|
+w: no more will * I|roam.|_|
+

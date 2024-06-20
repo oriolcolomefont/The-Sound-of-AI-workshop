@@ -1,0 +1,26 @@
+X:1
+T:It's Gotta Be You
+C:CLAUS OGERMAN
+Z:Creative Commons BY
+L:1/4
+Q:1/4=120
+M:2/2
+K:E
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"E" z G (3G F E | G4 | z G (3G F E |"E+" G4 | z G (3G F G |"A" A4 | z F"B7" (3F E F |"E" G4 | %8
+w: ITS GOT TA BE|YOU|and no bod y|else|Don't tell me that|I'm|just fool ing my|self|
+"E" z G (3G F E | G4 | z G (3G F E |"E+" G4 | z G (3G F G |"A" A4 | z F"B7" (3F E F |"E" G4 | %16
+w: You MUST be my|love|you MUST be the|one|Don't say its a|game|you're play in' for|fun|
+ z E"E7" (3E E E |"A" E2 E E |"Am" E A E F |"E" G3/2 F/ E2 | z E"E7" (3E E E |"A" E2 E E | %22
+w: I've giv en my|heart and my|"lips" to you so|will ling ly!|You prom ised your|"love" would be|
+"Am" E A E F |"E" G4 |"E" z G (3G F E | G4 | z G (3G F E |"E+" G4 | z G (3G F G |"A" A4 | %30
+w: mine et ern al|ly!|Don't say its a|lie|Don't say its un|true!|'Cuz with out your|love|
+ z F"B7" (3F E F |"E" G4 |[K:F]"F" z A (3A G F | A4 | z A (3A G F |"F+" A4 | z A (3A G A |"Bb" B4 | %38
+w: Oh, what would I|do?|So Don't break My|Heart!|Don't break it in|two|It's Got Ta Be|You|
+ z G"C7" (3G F G |"F" A4 |"F" z A (3A G A |"Bb" B4 |"C" z G"C7" (3G F G |"F" A4 | z A (3A G A | %45
+w: It's Got Ta Be|You|So don't break my|heart|Don't break it in|two|It's Got Ta Be|
+"Bb" B4 | z c"C7" (3c A B |"F" c4- | c4- | c4- | c z z z |] %51
+w: You|IT'S GOT TA BE|YOU!|_|||
+

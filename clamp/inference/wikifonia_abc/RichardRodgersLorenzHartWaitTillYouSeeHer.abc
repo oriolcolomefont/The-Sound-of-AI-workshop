@@ -1,0 +1,29 @@
+X:1
+T:Wait Till You See Her
+T:Wait Till You See Her
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Fm7" c2 c3 A |"Bb7" G4 F2 |"Ebmaj7" E2 E3 F |"Cm7" C6 |"Fm7" C2 E3 A |1"Bb7" c4 c2 |"Gm7" B6- | %7
+w: Wait Till You|See Her,|see how she|looks,|Wait till you|hear her|laugh.|
+w: Paint- ers of|paint- ings,|writ- ers of|books,|Nev- er could|||
+"C7" B6 :|2"D7" c4 c2 |"Gm7" B6- | B6 ||"Cm" e2 e3 c |"F7" B4 =A2 |"Bbmaj7" G2 G3 =A |"Gm7" D6 | %15
+w: ||||Wait till you|feel the|warmth of her|glance,|
+w: |tell the|half||||||
+"Cm7" E2 G3 B |"G+7" e4 e2 |"Gm7" d6- |"C9" d6 ||"Fm7" c2 c3 A |"Bb7" G4 F2 |"Eb6" E2 E3 F | %22
+w: Pen- sive and|sweet and|wise.||All of it|love- ly,|All of it|
+w: |||||||
+"Gm7/D" G2 G3 A |"Cm7" B2 B3 c |"Cm7/Bb" d2 d3 e |"Am7b5" f6 |"Abdim7" d6 |"Eb/G" e6 |"Gbdim7" c6 | %29
+w: thrill- ing; I'd|nev- er be|will- ing to|free|her,|When|you|
+w: |||||||
+"Bb7/F" d6 |"Edim7" B6 |"Fm7" c2 c3 A |"Bb7" G4 F2 |"Eb6" E6- | E4 z2 |] %35
+w: see|her,|You won't be-|lieve your|eyes.||
+w: ||||||
+

@@ -1,0 +1,35 @@
+X:1
+T:All in Love is Fair (Transcribed)
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano Treble:Piano Bass" snm="Piano Treble"
+%%MIDI program 0
+V:1
+"Amin" E4 C4- |"C " C2 C2 D2 E2 |"Emin" B4- BA EC |"G7" G4 F4 |"C " E8- |"E7" E4 (3DEC- CD | %6
+w: |||||* All is fair * in|
+"Amin" E8- |"C " E2 z2 DE D<C |"F#min7" A8- |"Fmaj7" A2 z A A/F/G- G>A |"Edim" G8- | %11
+w: love;|* love's a cra- zy|game;|* two peo- ple vow * to|stay|
+ G2 z E"E7" EE FG |"D9" E8- | E2 z C"Dmin7" D>E C>D |"Amin" E8- | E2 z C D<E CC |"F#min7" A8- | %17
+w: * in love as one they|say.|* But all is changed with|time;|* the fu- ture none can|see.|
+ A2 z G"F " A>A G>A |"Edim" _B/G/A/F/ G6- | G2 z G"A7" A<G A>c |"Dmin7" d/A/ c3-"D7" c4- | %21
+w: * The road you leave be-|hi- * * n\- d;|* a\- head lies mys- te-|r\- * y. *|
+ c2 z c"E7" de cd |"Amin" e8- | e2 z c e>e d/c/c- |"F " c8- | c2 z c"Fmin" c>_B GF | %26
+w: * But all is far in|love;|* I had to go a\- way.||* A wri- ter takes his|
+"C " G3 G"E7" E/E/F- FG |"D9" E4"Dmin" D<E C>C |"C " C8- | C2 z2"E7" (3DEC- CD |"Amin" E8- | %31
+w: pen to write the words * a\-|gain all in love is|fair.|* All of fate's * a|chance;|
+ E2 z3/2 D/ D/E/D- D<C |"F#min7" (3AGF G<A- A4- | A3 z/ A/"F " c/c/d- d>A |"Emin7" AG- G6- | %35
+w: * it's ei- ther good * or|ba- * * * d. *|* I tossed my coin * to|sa- y *|
+ G2 z E"Emin7" EE FG |"D9" E8 | z2 z D"D7" D/E/C- C>A |"Amin" E/D/C/D/ E6- | E2 z C D<E- ED/C/ | %40
+w: * in love with me you'd|stay.|But all in war's * so|co- * * * ld;|* you ei- ther * win or|
+"F#min7" A>G A6- | A2 z G"F " AA GA |"Eb " _B/G/A G6- | G2 z c"D7" d/c/d- de |"Dmin7" d/B/c- c6 | %45
+w: lo- s\- e.|* When all is put a\-|wa- * * y|* the los- ing side * I'll|pl- a\- y. *|
+ z2 z3/2 d/"E7" d/e/c- cd |"Amin" e8- | e2 z e d/e/a/g/ e>d |"F " c8- | c2 z A"Fmin" c<_B G>F | %50
+w: But all is fair * in|love;|* I should have ne- ver left your|side.|* A wri- ter takes his|
+"C " G2 z E"E7" E/E/F- FG |"D9" E4"Dmin7" D/E/C- CC |"C " C8 | z2 z A"Fmin" c<_B G>F | %54
+w: pen to write the words * a\-|gain. All in love * is|fair.|A wri- ter takes his|
+"C " G2 z E"E7" E/C/D- DE |"D9" D/C/B,/C/- C2"Dmin7" D/E/C- CC |"F " c8- |"Fmin" c8- |"C " c8 |] %59
+w: pen to write the words * a\-|ga- * * in. * All in love * is|fair.|||
+

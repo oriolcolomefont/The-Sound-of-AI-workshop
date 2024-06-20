@@ -1,0 +1,25 @@
+X:1
+T:The Hukilau Song
+T:The Hukilau Song
+T:Jack Owens
+C:Jack Owens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ z4 z2 G>^G |:"C" A2 e4 G>^G | A>A A4 G>^G | A>AG>G A>AG>G |"G7" A>A A4 A>B | B2 f4 A>^A | %6
+w: Oh we're|go in' to the|Hu ki lau Hu ki|Hu ki Hu ki Hu ki Hu ki|Hu ki lau Ev 'ry|bod y loves the|
+ B>B B4 G>^G | A>AG>G A>AG>G |"C" A>A A4 ^d>e |"A7" g3 ^f =f3 e | g>g^f=f- f3 A | %11
+w: Hu ki lau where the|lau lau is the kau kau at the|Hu ki lau Oh, we|throw all our nets|in to the sea * and|
+"D7" e>ed>d c>cA>A | e>^d=dc- c2"G7" G>^G |"C" A2 e4 G>^G |"A7" A>A A4 e>e | g>gf>f e>ed>d | %16
+w: all the a ma a ma come a|swim min' to me * Oh, we're|go in' to the|Hu ki lau Hu ki|Hu ki Hu ki Hu ki Hu ki|
+"C" c4 z2 E>F |"C" G>G e2 c3 E | A G3- G3 E | G3 e c2 A2 |"G7" B6 D>E | F>F d2 c3 A | %22
+w: lau What a|beau ti ful day for|fish in' * the|old Ha wai ian|way and the|Hu ki lau net we're|
+ c B3- B2 A>B |"D7" c3 A c2 e2 |"G7" d6 G>A :|"C" A2 e4 G>^G |"A7" A>A A4 e>e |"G7" g>gf>f e>ed>d | %28
+w: swish in' * down in|old la i e|Bay Oh, we're|go in' to the|Hu ki lau Hu ki|Hu ki Hu ki Hu ki Hu ki|
+ g>gf>f e>ed>d | g>gf>f e>ed>d |"C" c8 | z8 |] %32
+w: Hu ki Hu ki Hu ki Hu ki|Hu ki Hu ki Hu ki Hu ki|lau||
+

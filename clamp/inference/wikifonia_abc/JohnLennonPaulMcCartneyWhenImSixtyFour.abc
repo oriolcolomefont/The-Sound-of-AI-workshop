@@ -1,0 +1,57 @@
+X:1
+T:When I'm Sixty Four
+T:When I'm Sixty Four
+T:John Lennon Paul McCartney
+T:When I'm Sixty Four
+T:2
+C:John Lennon & Paul McCartney
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=150
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 122
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 122
+%%MIDI control 10 64
+V:1
+"C" E>^DEG- G2 E2 | G>AGc- c4 | c e2 c- c2 A2 |"G7" d2 G>A B>A G2 | B>c^c>d B>=c^c>d | %5
+w: When I get old- * er|los- ing my hair _|man- y years _ from|now, _ _ _ _ _|will you still be send- ing me a|
+w: I could be hand- * y|mend- ing a fuse _|when your lights _ have|gone. _ _ _ _ _|You can knit a sweat- er by the|
+ B _B2 A- A2 z2 | =B2 c2 ^c2 d2 |"C" e_edc- c2 z2 | E>^DEG- G2 E2 | G>AGc- c4 |"C7" e e2 d- d2 A2 | %11
+w: val- en- tine, _|birth- day greet- ings,|bot- tle of wine? _|If I'd been out _ till|quar- ter to three, _|would you lock _ the|
+w: fire- * side, _|Sun- day morn- ings,|go for a ride. _|Do- ing the gar- * den,|dig- ging the weeds; _|Who could ask _ for|
+"F" c8 | c>Ac_e-"Ab7" e d3 |"C" c>=AcB-"A7" _B A3 |"D7" e e3"G7" e e3 |"C" c6 z2 | %16
+w: door?|Will you still need _ me,|will you still feed _ me,|when I'm six- ty|four?|
+w: more?|_ _ _ _ _ _||||
+"Am" c>Ac>A c>Ac>A | c>Ac>A c2"F" F2 |"G" G2 G>G G2 A2 |"Am" E6 z2 | A4 B4 | c4 g4 | %22
+w: Tacet- _ _ _ _ _ _ _||||You'll- be-|old- er|
+w: Ev- 'ry sum- mer we can rent a|cot- tage on the Isle of|Wight if it's not too|dear.|We shall|scrimp and|
+"E""Am""E" e8- |"E7" e6"Am""E""E7" z2 |"Am" a4 g4 | e4 d2- c2 |"Dm" d4 d2 A2- | A8 |"F" c4 A4 | %29
+w: too.|_||And if you|say the word,|_|I could|
+w: save.|_||Grand- chil- dren|on your knee,|_|Ve- ra,|
+"G" G4"G9" A4 |"C" c8- | c2 z2 z4 :|"C" E>^DEG- G2 E2 | G>AGc- c4 | c e2 c- c2 A2 | %35
+w: stay with|you.|_|Send me a post- * card|drop me a line _|stat- ing point _ of|
+w: Chuck and|Dave.|_||||
+"G7" d2 G>A B>A G2 | B>c^c>d B>=c^c>d | B _B2 A- A2 z2 | =B2 c2 ^c2 d2 |"C" e_edc- c2 z2 | %40
+w: view. _ _ _ _ _|In- di- cate pre- cise- ly what you|mean to say, _|Yours sin- cere- ly|wast- ing a- way. _|
+w: |||||
+ E>^DEG- G2 E2 | G>AGc- c4 |"C7" e e2 d- d2 A2 |"F" c8 | c>Ac_e-"Ab7" e d3 |"C" c>=AcB-"A7" _B A3 | %46
+w: Give me your an- * swer,|fill in a form, _|mine for ev- * er|more.|Will you still need _ me,|will you still feed _ me,|
+w: ||||||
+"D7" e e3"G7" e e3 |"C" c6 z2 |] %48
+w: When I'm Six- ty|Four?|
+w: ||
+V:2
+ x8 | x3 E- E4 | E8 | F8 | F3/2 x5/2 F3/2 x5/2 | F3 F- F2 x2 | F2 x6 | G _G F =E- E2 x2 | x8 | %9
+ x3 E- E4 | E6 E2 | z2 C2 D2 E2 | F3 _A- A4 | G3 G- G4 | ^F4 =F4 | E6 x2 | E8 | E6 x2 | D8 | x8 | %20
+ E8- | E8 | E8- | E6 x2 | c8 | c4 E2- E2 | F8- | F8 | C4 C4 | D4 F4 | E8- | E2 x6 :| x8 | %33
+ x3 E- E4 | E8 | F8 | F3/2 x5/2 F3/2 x5/2 | F3 F- F2 x2 | F2 x6 | G _G F =E- E2 x2 | x8 | %41
+ x3 E- E4 | E6 E2 | z2 C2 D2 E2 | F3 _A- A4 | G3 G- G4 | ^F4 =F4 | E6 x2 |] %48
+

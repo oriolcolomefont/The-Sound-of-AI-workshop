@@ -1,0 +1,30 @@
+X:1
+T:Moscow Nights
+T:Podmoskovnye Vyechera
+T:("Moscow Nights" popularized as Midnight in Moscow in the 1960's)
+T:melody:  traditional Russian
+T:lyrics:  M. Matusovskii and V. Solovyov-Sedoi
+C:traditional Russian
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:none
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"Am" A,C EC |"Em" D2 CB, |"Dm" E2 D2 |"Am" A,4 |"C" CE GG |"F""G7" A2"G7" GF |"C" E4 |: %7
+w: 1.~~Still- ness in the|grove, not a|rust- ling|sound.|Soft- ly shines the|moon clear and|bright,|
+w: 2.~~Laz- i- ly the|brook, like a|sil- v'ry|stream,|Rip- ples in the|light of the|moon,|
+w: 3.~~Dear- est, why so|sad? Why the|down- cast|eyes?|And your love- ly|head bent so|low?|
+w: 4.~~Prom- ise me my|love, as the|dawn ap-|pears,|And the dark- ness|turns in- to|light,|
+"B7""E7" ^F2"E7" ^G2 |"Am" BA (E2 | E) C2 A, |"Dm" (E>D) (F2 | F2) GF |"Am" E2 DC |"E7" E2 D2 | %14
+w: Dear, if|you could know|_ how I|trea- sure so,\_\_\_|* This most|beau- ti- ful|Mos- cow|
+w: And a|song a- far~\_\_\_|* fades as|in a dream,|* In this|night that will|end too|
+w: Oh, it's|hard to speak,~\_\_\_\_|* and yet|not to speak~\_\_\_|* Of the|long- ing my|heart does|
+w: That you'll|cher- ish dear,~\_\_\_\_|* through the|pas- sing years,|* This most|beau- ti- ful|Mos- cow|
+"Am" A,4 :| %15
+w: night.|
+w: soon.|
+w: know.|
+w: night.|
+

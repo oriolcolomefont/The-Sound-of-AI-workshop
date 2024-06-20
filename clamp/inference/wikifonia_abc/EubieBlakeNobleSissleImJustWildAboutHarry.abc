@@ -1,0 +1,23 @@
+X:1
+T:I'm Just Wild About Harry
+T:I'm Just Wild About Harry
+T:Eubie Blake, Noble Sissle
+C:Eubie Blake, Noble Sissle
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" D z E D- | D E C2 |"Dm7" G2 G2- |"G7" G3 A | G2 A G- | G A F2 |"^Cma7" B4- | B2"C" c2 | %8
+w: I'm just wild|* a- bout|Har- ry|* And|Har- ry's wild|* a- bout|me.|* The|
+ B2 c B- | B2 A2 |"Dm7" G2 F G- | G2"^Dm7-5" F2 |"C/G" E G E"G+" ^D- | D2 B2 |"C" G4- | %15
+w: heav'n- ly bliss-|* es|of his kiss-|* es|fill me with ec-|* sta-|sy.|
+ G z"G7" E2 |"C" D z E D- | D E C2 |"Dm7" G4 |"G7" G2 z A | G2 A G- | G A G A |"Am" c4- | %23
+w: * He's|sweet just like|* choc- 'late|can-|dy, And|just like ho-|* ney from the|bee.|
+ c z"F6" d2 |"D7" e2 d c- | c A A2 |"Em" B4 |"A7" A2"G7" B2 |"C" c z C"F6" D- | D C"G" D2 | %30
+w: * Oh,|I'm just wild|* a- bout|Har-|ry And|he's just wild|* a- bout,|
+"C/E" c z C"Fm6" D- | D C"G7/F" D2 |"F/E" c z C"F6" D- | D C"G7" D2 |"C" C4- | C z z2 |] %36
+w: can- not do|* with- out,|He's just wild|* a- bout|me.||
+

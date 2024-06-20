@@ -1,0 +1,41 @@
+X:1
+T:He Lives
+T:He Lives
+T:Alfred H. Ackley
+T:Alfred H. Ackley
+T:All Rights Reserved
+C:Alfred H. Ackley
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F |"Bb" F2 G G2 B | B3 G2 D | F2 F G2 G | D4- DF | d2 d"D" d2 c |"Gm" B3 G2 A |"C7" B2 B c2 d | %8
+w: 1.~I|serve a ris- en|Sav- iour, He's|in the world to|day. * I|know that He is|liv- ing, what-|ev- er men may|
+w: 2.~In|all the world a-|round me I|see His lov- ing|care, * And|though my heart grows|wea- ry, I|ne- ver will de-|
+w: 3.~Re-|joice, re- joice, O|Christ- ian, Lift|up your voice and|sing * E-|ter- nal hal- le-|lu- ias to|Je- sus Christ, the|
+"F" c4- cF |"Bb" F2 G G2 B | B3 G2 D | F2 F G2 G | D4- DD |"C7" C2 D =E2 F | G c4 B | A3 G3 | %16
+w: say. * I|see His hand of|mer- cy, I|hear his voice of|cheer, * And|just the time I|need Him, He's|al- ways|
+w: spair. * I|know that He is|lead- ing Through|all the stor- my|blast. * The|day of His ap-|pear- ing Will|come at|
+w: King! * The|Hope of all who|seek Him, The|Help of all who|find. * None|oth- er is so|lov- ing, So|good and|
+"F7" F4- F"^REFRAIN"F |"Bb" d2 B, B,2 F |"Bb" d2 B, B,2 c |"Eb" B2 B cBG |"Bb" F4- FF | %21
+w: near. * He|Lives! * * He|Lives! * * Christ|Je- sus lives * to-|day. * He|
+w: last. * *|* (He lives!) *|* (He lives!) *|||
+w: kind. * *|||||
+"F7" F2 E E2 G |"Bb" G2 F F2 B |"C7" B2 B (GA)B |"F" c4- cF |"Bb""Bb" d2 B, B,2 F | %26
+w: walks with me, And|talks with me a-|long life's nar- * row|way. * He|Lives! * * He|
+w: ||||* (He lives!) *|
+w: |||||
+"Bb" d2 B, B,2 c |"Eb" B2 B"Cm7" c2"Eb7" ^c |"D" d4- dd |"G7" d2 d e2 d | %30
+w: Lives! * * Sal-|va- tion to im-|part. * You|ask me how I|
+w: * (He lives!) *||||
+w: ||||
+"C7" d2 c !fermata!G2"Edim" B |"Bb" !fermata!f2 d"F7" c2 B |"Bb" B4- B |] %33
+w: know He lives? He|lives with- in my|heart. *|
+w: |||
+w: |||
+

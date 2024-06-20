@@ -1,0 +1,32 @@
+X:1
+T:Hoki Mai
+T:HOKI  MAI
+T:HENARE  WAITOA
+T:English lyrics  SAM  FREEDMAN
+C:Henare Waitoa
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ C2 F2 |:"F" A ^G A c | A2"F7" G/ z/ F |"Bb" D2 G/ F3/2 | D2"Bdim" E/ F3/2 |"F" C/ C3/2"Dm" F G | %6
+w: Sons of|A- o- te- a-|roa Now the|day has been|won, And each|foe- man has been|
+w: Ho- ki|Mai, e ta- ma|ma, Ki ro|* ki to,ro-|to, 'nga *|ri- nga e tu-|
+"G7" A/ z/ A3/2 G F/ |"C7" G4- | G C2 F |"F" A ^G A/ c3/2 | A2"F7" G/ F3/2 |"Bb" D2 G/ F3/2 | %12
+w: driv- en from the|field,|* Bring your|ban- ner to the|fore, Let it|wave, proud- ly|
+w: wher- a a tu|nei|* Kei te|ka- pa- ka- pa|mai te ha-|ki, te ha-|
+ D2 E F |"F" C C3/2 E/ F |"C7" G B A G |"F" F4- | F"F7" F F2 |"Bb" B2"C7" B c | B2 A ^G | %19
+w: wave, let this|sym- bol of your|cour- age stand re-|vealed|* Then re-|turn, then re-|turn,- to your|
+w: ki, I nga|ra- ngi ru- nga|Ti- a- ma- na|e|* Ho- ki|mai, Ho- ki-|ki te wa|
+"F" A2 A F | C4 | c c"F7" c/ c3/2 |"Bb" d d"F" c A |"G7" G4- |"C7" G2 C F |"F" A ^G A c | %26
+w: home o'er the|sea.|With a prayer for|peace and u- ni-|ty,|* Let your|stand- ard be un-|
+w: mai ki te|nga|Kia tu- tu- ki|te tu- ma- na-|ko|* Kei te|ke pa- ka- pa|
+ A2"F7" G/ z/ F |"Bb" D2 G/ F z/ | D2 E F |"F" C C E F |"C7" G B A"F" G |"F" F2- F2 | %32
+w: furled, To the|fore, to the|fore~as an em-|blem of e- ter-|nal lib- er- *|ty. *|
+w: mai te ha-|ki, te ha-|ki, I nga|ra- ngi ru- nga|Ti- a- ma- na-|e. *|
+"^(Tacit)" C z"F""^----------------" F z :|"^2------------------" F4- | F2 z2 | z4 |] %36
+w: Sons of|ty.|||
+w: Ho- ki|e.|||
+

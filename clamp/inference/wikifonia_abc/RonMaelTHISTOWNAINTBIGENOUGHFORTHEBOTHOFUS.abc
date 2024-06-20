@@ -1,0 +1,89 @@
+X:1
+T:THIS TOWN AIN'T BIG ENOUGH FOR THE BOTH OF US
+C:Ron Mael
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"A" AdcA cAcA |"_repeat till Russell is ready .." AdcA cAcA ::[M:3/4]"A" ed z e ed | ed z e de | %4
+w: ||1.Zoo time is she and|you time the mam mals|
+w: ||2.Fly ing dom es tic|fly ing and when the|
+w: ||3.Dai ly ex cept for|Sun day you daw dle|
+w: ||4.Show er an oth er|show er you've got to|
+w: ||5.Cen sus the lat est|cen sus there'll be more|
+w: ||6.Choos ing the girl is|choos ing be tween the|
+[M:4/4]"Am" A=cea =c'2 bc' |"Gm" _b=gzd _B2 z2 |[M:3/4]"Dm" a=g z a a=g | %7
+w: are your fav 'rite type and you|want he to nite.||
+w: stew ard ess is near do not|show an y fear||
+w: in to the ca fe' where you|meet her each day|HEART BEAT IN CREA SING|
+w: look your best for her and be|clean ev' ry where||
+w: girls who live in town not en|ough to go 'round||
+w: man thats well to do . .|. . its YOU!||
+"Dm""^at 5th verse go to CODA" a=g z a ga |[M:4/4]"Dm" d=fad' Adfa |"Gm" =G_Bd=f"C" =cce=g | %10
+w: * * you hear the|thun der of stamp ed ing rhin os|el e phants and tack y tig ers.|
+w: * * you are a|kha ki col oured bom ba dier, its|Hir o shim a that you're near ing.|
+w: HEART BEAT as twen ty|can nib als have hold of you they|need their pro tein just like you do.|
+w: * * the rain is|pour ing on the for eign town the|bul lets can not cut you down _|
+w: * * YOU KNOW THAT|_ _ _ _ _ _ _ _||
+w: |||
+ z"Gdim" =fff"G#dim" ff ff/f/ |"Dm/A" =fe"A" e2 A_Bfe | z"Dm" aaa"C#dim" _bbbb |"A" adcA cAcA | %14
+w: ||||
+w: ||||
+w: THIS TOWN AIN'T BIG EN OUGH FOR THE|BOTH OF US (ro ck gui tar)|AND IT AIN'T ME WHO'S GON NA|LEAVE (more rock gui tar . . .|
+w: ||||
+w: ||||
+w: ||||
+ z dcA fec-c | AdcA cAcA | z dcA fec-c ::"D""^after 3rd verse instrumental" dd d2 d/dd/ d2 | %18
+w: ||||
+w: ||||
+w: . . . _ _ _ _|_ _ _ _ _ _ _ _|* * * * * * )||
+w: ||||
+w: ||||
+w: ||||
+"C" =c/c/c c2 c/cc/ B2 |"Bm" B/B/B B2 B/BB/ B2 |"Asus4" A/AA/ A/A/A A/AA/ A<A :| AdcA cAcA | %22
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+ z dcA fec-c | AdcA cAcA |"_go to 4th verse""_repeat 4x rocker" z dcA fec-c :: %25
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+"A""^after 4th verse instrumental" AdcA cAcA | z d (3:1:3c/d/c/Afe c2- c/ :|"A" AdcA cAcA | %28
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+ z c2 c c/B/A/F/ A2 |"A" AdcA cAcA |"^now to 5th verse then CODA" z =c^ce =c/B/A/F/ A z :| %31
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+"Dm""^CODA here:" d=fad' dfaA | d=fad' df a2 |"Dm" d=fad' dfaA | d=fad' df a2 | d2 =f2 a2 d'2 | %36
+w: This town is n't big en ough, not|big en ough for both of us|This town is n't big en ough, not|big en ough for both of us|I AIN'T GON NA|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"D" !fermata!f'8 |] %37
+w: LEAVE!|
+w: |
+w: |
+w: |
+w: |
+w: |
+

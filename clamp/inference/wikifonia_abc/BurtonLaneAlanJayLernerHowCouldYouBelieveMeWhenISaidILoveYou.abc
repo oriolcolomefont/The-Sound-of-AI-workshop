@@ -1,0 +1,68 @@
+X:1
+T:How Could You Believe Me When I Said I Love You
+T:How Could You Believe Me When I Said I love You
+T:When You Know I've Been A Liar All My Life
+T:Burton Lane
+T:Alan Jay Lerner
+C:Burton Lane
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C9" d2 B2 |"F7" d c3 |"Bb" B z F2 |"Dbdim" G2"F7" A2 ||S"Bb""^Chorus" B F G F | B F G F || %6
+w: ||||How could you be-|lieve me when I|
+w: ||||How a- bout the|time you went to|
+ z B2 F | G F G B |"Gm7" c G"C7" A G |"Gm7" c G"C7" A G | z c3- | c3 ^G |"F7" A c"Bdim" _A F | %13
+w: said I|love you when you|know I've been a|li- ar all my|life|* I've|had that re- pu-|
+w: In- di-|an- a (boy)....I was|ly- in', I was|down in Al- a-|bam!|* (girl)....You|said you had some|
+"F7" G F2 ^G | A c"Bdim" _A"F9" G- | G3 F |"Bb" d ^c d F |"D7b5" d ^c"G7" d G | %18
+w: ta- tion Since|I was a youth,|* You|must have been in-|sane to think I'd|
+w: busi- ness you|had to com- plete.|* (boy)...What|I was do- in'|I would be a|
+"C7" d ^c d"F9" (=c | c4) |"Bb" B F G F | B F G F | z B2 F | G F G B |"Gm7" c G"C7" A G | %25
+w: tell you the truth.||How could you be-|lieve me when I|said we'd|mar- ry when you|know I'd ra- ther|
+w: cad to re- peat.||(girl)...What a- bout the|eve- nings you were|with your|mo- ther. (boy)....I was|romp- ing with an-|
+"Gm7" c G"C7" A G | z c3- | c3 ^c |"Bb" d d2 d- | d3 B |"Am7" c c2"D7" c- | c3 A |"Gm" B A B G | %33
+w: hang than have a|wife.|* I|know I said|* I'd|make you mine,|* But|who would know that|
+w: o- ther hon- ey|lamb.|* (girl)...To|think you swore|* our|love was real.|* (boy)...But|ba- by let us|
+ z B/A/ B G |"Dm" A"A7" A2"F7" A- | A4 |"Bb" B F G F | B F G F | z"Gm7" c2 G |"C7" A G A c | %40
+w: you would go for|that old line.||How could you be-|lieve me when I|said I|love you when you|
+w: not for- get that|I'm a heel.-||||||
+"Bb" d B c B |"Bb" d B z/ B,/ C | D B, C B, | D B, z/ B/ c |"Gb9" _d B c B | _d B z/ B,/ C | %46
+w: know I've been a|li- ar, * *|||No- thing but a|li- ar, * *|
+w: ||||||
+ _D B, C B, | _D B, c B |"C9" d2 B2 |1"F7" d c3 ||"Bb" B4- | %51
+w: |* * all my|dog- gone|cheat- in'|life.|
+w: |||||
+"Bb+7""^To Patter(slowly)" B z z z/ ^F/ ||2"F7" d c3 ||"C9" d4 | B4 |"Cm7" d4 |"F9" d4 | %57
+w: * (girl)....You|no good|good|for|no-|thing|
+w: ||||||
+"Bb" B3/2 d/"Bb7" e =e |"Eb" f d"Ebm" e =e |"Bb" f z"F7" f z |"Bb" b z z2!fine! || %61
+w: life * * *||||
+w: ||||
+"Eb""^Patter(blues tempo)" G/>B/ c"Bb7" B ^F/G/- |"Eb" G3 z/ ^F/ | G/>B/ c"Bb7" _d ^F/G/- | %64
+w: Said you would love me long,|* and|ne- ver would do me wrong,|
+w: |||
+"Eb7" G3 z/ =E/ |"Ab" F/>_A/ B A =E/F/- |"Abm" F3 z/ ^F/ |"Eb" G/4B/4^F/G/B/"C7" =F/4G/4B/^F/G/ | %68
+w: * And|faith- ful you'd al- ways be,|* (boy).....Oh,|ba- by you must be loon- y to trust a|
+w: ||||
+"Fm7" B/4^F/4G/B/F/ B/E/C/E/- |"Eb" E/C/B,/A,/ B,/G,/"Fm7"_A,/^F,/ | %70
+w: low- er than low- er two ti- mer like|me. * * * * * * *|
+w: ||
+"Eb" G,/B,/"Fm7"C/"Eb"E/ z"Bb+7" z/ ^F/ |"Eb" G/>B/ B"Bb7" B ^F/G/- |"Eb" G3 z/ ^F/ | %73
+w: * * * * (girl)...You|said I'd have ev- 'ry thing,|* a|
+w: |||
+ G/>B/"Bb7" c _d ^F/G/- |"Eb7" G3 z/ =E/ |"Ab" F/>_A/ B A =E/F/- |"Abm" F3 z/ ^F/ | %77
+w: beau- ti- ful dia- mond ring,|* A|bun- ga- low by the sea.|* (boy)...You're|
+w: ||||
+"Eb" G/4B/4^F/G/B/"C7" F/4G/4B/F/G/ |"Fm7" B/4^F/4G/B/F/ G/E/C/E/- |"Eb" E/c/B/A/ B/E/"Fm7"_A/^F/ | %80
+w: real- ly na- ive to ev- er be- lieve a|full of ba- lo- ney pho- ney like me.||
+w: |||
+"Eb" G/B/"Fm7"C/"Eb"E/ z/"F7" F3/2!D.S.! || %81
+w: * * * * (girl),,,,Say|
+w: |
+

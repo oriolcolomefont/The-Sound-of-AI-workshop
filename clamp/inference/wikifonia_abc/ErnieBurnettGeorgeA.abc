@@ -1,0 +1,38 @@
+X:1
+T:My Melancholy Baby
+T:My Melancholy Baby
+C:Ernie Burnett
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" GBG^F-"Bb+" F4 |"Eb" GBG^F-"Bb+" F4 |"Eb" GBcd fdBG |"Eb/G" B2"Cb7/Gb" =A2"Fm7/Bb" _A4 | %4
+w: Come sweet- heart mine *|don't sit and pine *|tell me of the cares that make you|feel so blue|
+w: Birds in the trees *|whis- per- ing breeze, *|should not fail to lull you in- to|peace- ful dreams|
+"Fm" AcAG-"Edim/C" G4 |"Fm" AcAG-"Edim/C" G4 |"F7" FG=AB c=Bcd |"Fm7/Bb" c2 _c2"Bb7" B4 | %8
+w: what have I done? *|An- swer me hon *|have I ev- er said an un- kind|word to you?|
+w: so tell me why *|sad- ly you sigh *|sit ting at the win- dow where the|pale moon beams|
+"Eb" GBG^F-"Bb+" F4 |"Eb" GBG^F-"Bb+" F4 |"Eb" GBcd feBG |"Eb/G" B2"Cb7/Gb" =A2"Fm7/Bb" _A4 | %12
+w: my love is true *|and just for you *|I'd do al- most an- y- thing at|an- y time|
+w: you should- nt grieve *|try and be- lieve *|life is al- ways sun- shine when the|heart beats true|
+"F7" =AB=Bc- c4 |"Bb" Bc^cd-"G7" d4 |"C7" cdcd"F7" c=AGF |"Fm7" c2"Fm7b5" _c2"Bb7" B4 |: %16
+w: dear when you sigh *|or when you cry, *|some thing seems to grip this ver- y|heart of mine|
+w: Be of good cheer, *|smile thru your tears, *|when you're sad it makes me feel the|same as you|
+"Eb" GA=AB feBA |"C+" A4"C7" G4 |"Fm" GF=EF"C+7" A2 d2 |"Fm7" c6"C7" z2 |"Fm7/Bb" FGAB ce"Bb7"dc | %21
+w: Come to me my mel- an- chol- y|ba- by|cud- dle up and don't be|blue|all your fears are fool- ish fan- cy|
+w: |||||
+"F9/C" G4"Bb7" F4 |"Eb" FEDE"F7" FEFG |"Bb""Cm""C#dim7" B6"Bb7/D" z2 |"Eb" GA=AB fe"Gm7b5"BA | %25
+w: may- be|you know dear that I'm in love with|you|Ev- ry cloud must have a sil- ver|
+w: ||||
+"Db7" A4"C7" G4 |"Fm7" GF=EF"C+7" A2 d2 |"Fm7" c6"C7" z2 |"Fm7" c=Bcd"F#dim7" e2 dc | %29
+w: lin- ing|wait un- til the sun shines|through|Smile my hon- ey dear while I|
+w: ||||
+"Gm7" B=AB=B"C7" c3 G |"Fm" AB=Bc"Bb7" GBGF |1"Eb" E2 B2"Bb+7" c2 B2 :|2"Eb""Ab7""Eb" E6 z2 |] %33
+w: kiss a- way each tear or|else I shall be mel- an- chol- y|too. Now won't you|too|
+w: ||||
+

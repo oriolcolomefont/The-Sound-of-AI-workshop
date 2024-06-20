@@ -1,0 +1,28 @@
+X:1
+T:Tender Is The Night
+T:Tender Is The Night
+T:Sammy Fain
+T:Paul Francis Webster
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cm" _E G c3/2 d/ |"Cm/Bb" c3 _E |"Fm6/Ab" D F B3/2 c/ |"G7" B3 D |"C" C E A B |"Am7" A G F E | %6
+w: Tend- der is the|night. So|ten- der is the|night. There's|no- one in the|world ex- cept the|
+"Dm7" G/A/ G3- |"G7" G3 z |"Dm7" E G e d |"E7" c B A B |"Am" c"Am" c3- |"Am7" c3"A6" z | %12
+w: two of us.||Should to- mor- row|find us dis- en-|chan- ted,||
+"D7" D ^F d c |"D7" B A B c |"Dm7b5" F4- |"G7" F3 z |"Cm" _E G c3/2 d/ |"Cm/Bb" c3 _E | %18
+w: we have shared a|love that few have|known.||Sum- mers by the|sea, a|
+"Fm6/Ab" D F B3/2 c/ |"G7" B3 D |"C" C E A3/2 B/ |"Gm7" A G"C7" c c |"F""F+" A4- |"F6""A7" A3 z | %24
+w: sail- boat in Ca-|pri. These|me- mo- ries shall|be our ve- ry|own.||
+"Dm" F A e3/2 d/ |"E7" c B ^A B |"Am7" E G d c |"Dm7b5" f3 c |"C/G" c B/c/"D7/G" d/ c B/ | %29
+w: E- ven tho our|dreams may va- nish|in the mor- ning|light, we|loved once in splen- dor. How|
+"Dm7/G" c B/c/"G7" d/ c B/ |"C" c4- | c4 |] %32
+w: ten- der, how ten- der the|night.||
+

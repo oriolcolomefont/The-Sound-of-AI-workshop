@@ -1,0 +1,13 @@
+X:1
+T:Érik a szőlő
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ d2 dA d2 e2 | c2 cd e2 d2 | cB A2 AdA z | G2 GD G2 A2 | F2 FG A2 G2 | FE D2 DGD z |] %6
+w: É- rik a sző- lő,|haj- lik a vesz- sző,|bo- dor a le- ve- le,|Két sze- gény le- gény|szán- ta- ni men- ne,|de nin- csen ke- nye- re.|
+

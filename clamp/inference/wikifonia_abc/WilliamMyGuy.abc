@@ -1,0 +1,47 @@
+X:1
+T:My Guy
+T:My Guy
+T:William "Smokey" Robinson
+C:William Smokey Robinson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" F>FF>F G2 FA- | A2 AA G2 DF- | FD- D6 | F>FF>F D2 F2 | F>FF>F G-GFG | A2 A-A G2 DF- | %6
+w: Noth- ing you could say can tear|* me a- way from My|* Guy. *||Noth- ing you could do * 'cause I'm|stuck like * glue to My|
+w: Noth- ing you could do could make|* me un- true to My|* Guy. *||Noth- ing you could buy * could make|me tell a lie to My|
+w: mus- cle bound * man could *|take my * hand from My|* Guy. *|* * * * * No|hand- * some * face could ev- er|take the * place of My|
+"Dm" FD- D6 | z4 z D3 |"Cm" C>CC>C"Dm" D2 F>D!dacoda!!dacoda! ||O"Cm" G2 F>F"Dm" D>D C2 | %10
+w: * Guy. *|I'm|stick- ing to My Guy like a|stamp to a let- ter, Like|
+w: * Guy. *|I|gave * My * Guy my *|word of * hon- our, *|
+w: * Guy. *|He|may * not * be a- *||
+"Cm" C2 C>C"Dm" D>D F2 |"Cm" z2 G>F G>GG>F |"Bb" B>BB>B"Dm" A2 F>G- |"Cm" G>FD>C"F7" C2 B,C- |1 %14
+w: birds of a feath- er, we|stick to- geth- er. I can|tell you from the start I can't|* be torn a- part from My|
+w: To be * faith- * ful|and I'm gon- na. You *|best be be- liev- ing, I won't|* be de- * ceiv- ing My|
+w: ||||
+"Bb" CB,-"Gm" B,6 ||"Cm""Dm" z8 :|2"Bb" CB,-"Gm" B,6 ||"Cm" z4"Bb" z2 B,>B, | %18
+w: * Guy. *||* Guy. *|As a|
+w: ||* Guy.- *||
+w: ||||
+"Cm" G>GG>G"Cm6" A>A A2 |"Cm" G G2 G"Cm6" z4 |"Cm" A>GG>G"Cm6" A2 A>A |"Bb" B>FGF z2 D>D | %22
+w: mat- ter of o- pin- ion I|think he's tops.|My o- pin- ion is he's the|cream of the crop. As a|
+w: ||||
+w: ||||
+"Gm" D>DDF"Dm" D2 D2 |"Gm" D D2 D-"Dm" D2 z2 |"Cm" G2 GG G2 GG!D.C.! |"F7" AFGF- F2 G2 || %26
+w: mat- ter of taste * to|be ex- act, *|he's my i- deal as a|mat- ter of fact. * No|
+w: ||||
+w: ||||
+O"Cm" G"^Coda" F2 D-"F7" DDDD |"Cm" C>CC>C"F7" D2 F2 |"Cm" z2 GG- GFGF |:"Bb" B2 FG"Gm" DD D2 | %30
+w: mov- ie star, * but when it|comes to be- ing hap- py,|we are. * There's not a|man to- day * who could|
+w: ||||
+w: ||||
+"Cm" C2 C>B,"F7" C2 B,C- |"Bb" CB,-"Gm" B,6 |"Cm" z4"F7" z FGF :| %33
+w: take me a- way from My|* Guy. *|There's not a|
+w: |||
+w: |||
+

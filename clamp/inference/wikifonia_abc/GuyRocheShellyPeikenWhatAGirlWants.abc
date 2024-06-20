@@ -1,0 +1,74 @@
+X:1
+T:What A Girl Wants
+C:Guy Roche, Shelly Peiken
+L:1/8
+Q:1/2=72
+M:2/2
+K:A
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Slow, funky groove" CC E2 || E4 CC E2 | E4 CCE(F | F) E2(C C) B,2(B, | B,) C2C CC E2 | E4 CC E2 | %6
+w: What a girl|wants, what a girl|needs, what- ev- er makes|_ me hap- * py sets|_ you free. What a girl|wants, what a girl|
+w: ||||||
+ E4 CCE(F | F) A3z2z(A, | A,) C2(C B,2) z2 |"F#m7" z8"A9" | z8 |"Dmaj9" z8"G7" |z4zC EE |: %13
+w: needs, what- ev- er keeps|_ me in|_ your arms. _||||I wan- na|
+w: |||||||
+"F#m7" F2 C2zA, B,A, | B,2>(B,2 B,)A, (=C2 | B,2) B,A, (CB,)A,(B, | B,)A,(CB,) B,A,(CB,) | %17
+w: thank you for giv- ing|me time _ to breathe.|_ Like a rock, _ you wait|_ ed so _ pa- tient- ly _|
+w: s * * * *||||
+ z2 B,B, B,B,F,A, | F,4 z2 B,2 | z2 B,B, B,B,F,(B, | A,4) z4 |zE EE F2 B,A, | B,A, (C2 B,2) z2 | %23
+w: while I got it to- geht-|er, hmm,|while I fig- ured it out.|_|I on- ly looked, but I|nev- er touched _|
+w: ||||||
+zA, B,A, (CB,)B,A, | D2 C2 B,2 A,2 |"Bm9"zC D(C C2>)C2 | D C3 z2 A,A, |"D/E" CCD(C C)A, C2 | %28
+w: 'cause in my heart _ was a|pic- ture of us|hold- in' hands, _ mak-|in' plans and it's|luck- y for me _ you un-|
+w: |||||
+ D C3 CC E2 ||"A" E4 CC E2 |"E6" E4 CCE(F |"A13" F) E2(C C) B,2(B, |"Dmaj7" B,) C2(C C)A, C2 | %33
+w: der- stand. What a girl|wants, what a girl|needs, what- ev- er makes|_ me hap- _ py sets|_ you free, _ and I'm|
+w: |||||
+"Dm7" D2 DD z2 D2 |"G7" =CB, A,2 B,2 A,2 |"A" CC E2 E4 |"E6" CC E2 E4 |"A13" CCE(F F) E2(A, | %38
+w: thank- ing you for|know- ing ex- act- ly.|What a girl wants,|what a girl needs,|what- ev- er keeps _ me in|
+w: |||||
+"Dmaj7" A,) C2(C C)A, C2 |"Dm7" D2 DD z2 D2 |"G7" =CB, A,2 B,2 A,2 |1"F#m7" z8"A9" | z8 | %43
+w: _ your arms, _ and I'm|thank- ing you for|be- ing there for me.|||
+w: |||||
+"Dmaj9" z8"G7" |z4zA, AA :|2"F#m7" z2 A(A F) E3 |"A9" z2 A(A F) E3 ||"Dmaj9"z2z(A E) =G2(E | %48
+w: ||Oh, ba- * by.|Oh, dar- _ lin',|thank _ tou, thank|
+w: |A weak- er||||
+"G13" =C) D3z2zA ||"F#m7" c2 c2 cc"C#m7" c2 | B2 A(B B)A(B=c |"A9" B2) z2 AB"Dmaj7"B(B | %52
+w: _ you. A|girl needs some- bod- y|sen- si- tive _ but tough, _|_ some- bod- y there|
+w: ||||
+ A2) AF AA B2 |"F#m7" B4 cc"C#m7"c(B | B2) BA BAc(B |"A9" B2>)A2 B2"D7" =c2 | (BA) c2 (BA) c2 | %57
+w: _ when the go- in' gets|rough. Ev- er- y night|_ he'll be giv- ing his love|_ to just one|girl, _ one girl, _ one.|
+w: |||||
+"F#m7" c4 cc"C#m7"c(B | B) B2A (BA) c2 |"A9" B4 BB"Dmaj7"B(B | A) A2(e e) c2(B | %61
+w: _ Some- bod- y cool|_ but real ten- _ der|too. Some- bod- y, ba-|_ by, just _ like you|
+w: ||||
+"Bm7" c B2)A c2 c2 | cBB(B A2) BA |"C#m" c2 c(c c) c3 | (c2 dc) CC E2 ||"A" E4 CC E2 | %66
+w: _ _ can keep me|hang- in' a- round _ with the|one who al- _ ways|knew... _ _ What a girl|wants, what a girl|
+w: |||||
+"E6" E4 CCE(F |"A13" F) E2(C C) B,2(B, |"Dmaj7" B,) C2(C C2) z2 |"Dm7" z8 |"G9" z8 |"A" CC E2 E4 | %72
+w: needs, what- ev- er makes|_ me hap- _ py sets|_ you free. _|||What a girl wants,|
+w: ||||||
+"E6" CC E2 E4 |"A13" CCE(F F) E2(A, |"Dmaj7" A,) C2(C C2) z2 |"Dm7" z8 |"G7" z4 CC E2 || %77
+w: what a girl needs,|what- ev- er keeps _ me in|_ your arms. _||What a girl|
+w: |||||
+"A" E4 CC E2 |"E6" E4 CCE(F |"A13" F) E2(C C) B,2(B, |"Dmaj7" B,) C2(C C)A, C2 |"Dm7" D2 DD z2 D2 | %82
+w: wants, what a girl|needs, what- ev- er makes|_ me hap- _ py sets|_ you free, _ and I'm|thank- ing you for|
+w: |||||
+"G7" =CB, A,2 B,2 A,2 |"A" CC E2 E4 |"E6" CC E2 E4 |"A13" CCE(F F) E2(A, | %86
+w: giv- ing it to me.|What a girl wants,|what a girl needs,|what- ev- er keeps _ me in|
+w: ||||
+"Dmaj7" A,) C2(C C)A, C2 |"Dm7" D2 DD z2 D2 |"G7" =CB, A,2 ^CC E2 |"F#m7" E4 CC E2 | %90
+w: _ your arms, _ and I'm|thank- ing you for|be- ing there. What a girl|wants, what a girl|
+w: ||||
+"C#m7" E4 CCE(F |"A13" F) E2(C C) B,2(B, |"Dmaj7" B,) C2(C C)A, C2 |"Dm7" D2 DD z2 D2 | %94
+w: needs, what- ev- er makes|_ me hap- _ py sets|_ you free, _ and I'm|thank- ing you for|
+w: ||||
+"G7" =CB, A,2 B,2 A,2 |:"F#m7" z8"A9" | z8 |"Dmaj9" z8"G7" | z8 |"F#m7" z8"A9" | z8 | %101
+w: know- ing ex- act- ly.|||||||
+w: |||||||
+"Dmaj9" z8"G7" | z8"^Repeat ad lib. and fade" :| %103
+w: ||
+w: ||
+

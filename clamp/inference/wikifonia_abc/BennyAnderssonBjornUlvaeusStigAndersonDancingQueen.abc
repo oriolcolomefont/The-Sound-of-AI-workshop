@@ -1,0 +1,85 @@
+X:1
+T:Dancing Queen
+C:Benny Andersson, Bjorn Ulvaeus, Stig Anderson
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Strong Rock" c6 B2 | d6 c/BA/ | B>(c c2) c>a a>g | g>f f6 | c6 B2 | d6 c/BA/ | B>(c c4) B2 | %7
+w: |||||||
+w: |||||||
+w: |||||||
+w: |||||||
+ A2>(A2 A4) ||"E" c2 B(B B2) z2 |"C#7" c2 B((B B2) c2) |"F#m" A>(B B)G A>(B B)G | %11
+w: ||||
+w: |You can dance, *|you can jive, _ _|hav- ing _ the time of _ your|
+w: ||||
+w: ||||
+"B7/D#" (A/G/ F3) (c>(B B)A) |"D" G>(A A)(A A4) |"Bm7" G>(A A)(A A2)"E7/B" B/AG/ | %14
+w: |||
+w: life. _ _ Oh, _ _ _|see that _ girl, _|watch that _ scene, _ dig in the|
+w: |||
+w: |||
+"A" G>(A A)(A A4) |"D/A" z8 |"A" z8"D/A" |"A" z8"D/A" |"A" CE/(E/ E/)EE/ EE"D/A" (F2 | %19
+w: |||||
+w: danc- ing _ queen. _||||Fri- day night _ and the lights are low,|
+w: |||||
+w: |||||
+ F/) z3/2 z2 z4 |"A" CE/(E/ E/)EE/ EE (C2 |"F#m" C4) z2 (C/B,A,/) | %22
+w: |||
+w: _|look- ing out _ for a place to go,|_ Oh, _ _|
+w: |||
+w: |||
+"E" B,B,/(B,/ B,/)B,/B,"A/E" CC z2 |"E" B,B,/(B,/ B,/)B,/"A/E"(C C) z"E" B/AG/ | E>F"F#m" F(F F4) | %25
+w: |||
+w: where they play _ the right mu- sic,|get- ting in _ the swing, _ you come to|look for a king. _|
+w: |||
+w: |||
+"E" z8"F#m" |:"A" CE/(E/ E/)E/E E A2(F |"D/A" F/) z3/2 z2 z4 |"A" CE/(E/ E/)EC/ EE z2 | %29
+w: ||||
+w: |* ny- bo- _ dy could be that guy,|_|night is young _ and the mu- sic's|
+w: |You're a tea- _ ser, you turn 'em on,|_|leave 'em burn- _ ing and then you're|
+w: |A- * * * * * * * *|||
+"F#m" C6 z2 |"E" B,B,/(B,/ B,/)B,/B,"A/E" CC z2 |"E" B,B,/(B,/ B,/)B,/"A/E"C z2"E" B/AG/ | %32
+w: |||
+w: high,|with a bit _ of rock mu- sic|ev- 'ry- thing _ is fine. You're in the|
+w: gone,|look- ing out _ for an- oth- er,|a- ny- one _ will do. s * *|
+w: |||
+ E>F"F#m" F(F F4) |"E" z4"F#m" A>(B B)c |"Fm7" c>(d d)((d (d3)d/)c/ |"E7" B2) z2 E>(F F)G || %36
+w: ||||
+w: mood for a dance, _|and when _ you|get the _ chance, _ _ _|_ you are _ the|
+w: ||||
+w: ||||
+"A" G>(A A)(A A4) |"D/A" G>(A A)(A A) B2A |"A" G>(A A)(A A4) |"D/A" z8 |"A" G>(A A)(A A4) | %41
+w: |||||
+w: dan- cing _ queen, _|young and _ sweet, _ on- ly|se- ven- _ teen. _||Dan- cing _ queen, _|
+w: |||||
+w: |||||
+"D/A" G>(A A)(A A) B2A |"A" B>(c c)((c c2)"E/G#" B2 |"D/F#" A8)"A/E" ||"E" c2 B(B B2) z2 | %45
+w: ||||
+w: feel the _ beat _ from the|tam- bou- _ rine. _ _|_|You can dance, _|
+w: ||||
+w: ||||
+"C#7" c2 B((B B2) c2) |"F#m" A>(B B)G A>(B B)G |"B7/D#" (A/G/ F3) (c>(B B)A) |"D" G>(A A)(A A4) | %49
+w: ||||
+w: you can jive, _ _|hav- ing _ the time of _ your|life. _ _ Oh, _ _ _|see that _ girl, _|
+w: ||||
+w: ||||
+"Bm7" G>(A A)(A A2)"E7/B" B/AG/ |"A" G>(A A)(A A4) |"D/A" z8 |"A" z8 |1"D/A" g>f f2 z2 c/BA/ | %54
+w: |||||
+w: watch that _ scene, _ dig in the|dan- cing _ queen. _||||
+w: |||||
+w: |||||
+"A" B>(c (c2)"D/A" c)!>!F !>!F2 |"A" E>E E(E E)"D/A"!>!F !>!F2 ::2"D/A" z4 z2 B/AG/ | %57
+w: |||
+w: ||Dig in the|
+w: |||
+w: |||
+"A" G>(A A)(A A4) ||"D/A" z8 |"A""^repeat and fade" z8 :| %60
+w: |||
+w: dan- cing _ queen. _|||
+w: |||
+w: |||
+

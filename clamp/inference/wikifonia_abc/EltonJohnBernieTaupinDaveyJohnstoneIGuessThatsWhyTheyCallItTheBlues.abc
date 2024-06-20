@@ -1,0 +1,51 @@
+X:1
+T:I Guess That's Why They Call It The Blues
+T:I Guess That's Why They Call It The Blues
+T:Elton John,Bernie Taupin & Davey Johnstone
+C:Elton John, Bernie Taupin & Davey Johnstone
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^slow beat" e3- edc"Em" B2 c- c d2 |"F" A3 F,3 F,CF AGF |"C" E3- EEe"Em" d2 c- c B2 | %3
+w: |||
+w: |||
+"F" A3 F,A,E AFC FAF |:"G" z2 D GAB B3 z2 B |"Em" B/A/A z z2 G"F" A3 z GF | %6
+w: |Don't wish it a- way, don't|look at it like it's for *|
+w: |Just stare in- to space; *|pic- * ture my face in your|
+"C" G E2"F" F3"C" E3"F" F3 |"C" E3"F" F2 G B2"C" c- c d2 |"G" d- d2 z3 z GG Bcd | %9
+w: ev- er. * * *|* * Be- tween you * and|me * I could hon- est- ly|
+w: hands, * * * *|* * * live for * each|sec- ond * with- out hes- i-|
+"Bm" ed z z2 G"F" _BAG AGE |"C" GE z"F" F3"C" E3"F" F3 |"C" E3"F" F2 D"C" B2 c- c d2 | %12
+w: say * that things * can on- ly get|bet- ter. * * *|* * And while I'm * a-|
+w: ta- tion, and nev- er for- get I'm your|man. * * * *|* * * Wait on * me|
+"G" d3 B3 z3 B3 |"B7" B2 A- A2 G/A/- A2 G- G A2 |"Em" G3 E3"G7/D" FGA BGA |"C" G3 z GG B2 c- cdc | %16
+w: way * *|dust out * the de- * mons * in|side, * * and it won't * be|long be- fore you- and * me *|
+w: girl, * *|cry in * the night * if * it|helps, * * * but more than ev-|er * I simp- ly * love *|
+"G" dB z z DD B2 c- c B2 |"Am" A3 E3"F" A3 G2 G |"G" G3 DEG G3 D E2 | D6"Am7" G3"G7/B" FGG || %20
+w: run * to the place in * our|hearts * where * we|hide.). * * * * * *|* * * And I|
+w: you, * * * more than * I|love * life * it-|self). * * * * * *||
+"C" e2 d- dd"G/B"c d2 c- c d2 |"F" A3 A,CF A2 c- c f2 |"C" e3 z dc"G" d2 c- c d2 | %23
+w: guess that's * why they call it * thye|blues. * * * Time on * my|hands could be time spent * with|
+w: |||
+"F" A3 CFA"C" e2 c- c G2 |"G" d2 B- B3 d2 B- B G2 |"Am" c2 A- A3"C/E" c2 G- G E2 | %26
+w: you, * * * laugh- ing * like|chil- dren * liv- ing * like|lov- ers, * roll- ing * like|
+w: |||
+"F" A2 F- F3 A2 B- B c2 |"D/F#" e2 d- d3 z3"G7/B" z GG |"F" f2 f- ffe e/d/"F/G" c2- cBc |1 %29
+w: thun- der * un- der * the|cov- ers, * and I|guess that's * why they call * it * * the|
+w: |||
+"C" c3 ecG"Em" d2 B- B3 ||"F" A3 F,F,/A,/C F,A,C CCC ::2"C" c3 ecG"G" d2 B- B3 || %32
+w: blues. * * * * * *||blues, laugh- ing like chil- dren, *|
+w: |||
+"Am" z3 cAE"Em" B2 G- GGG |"F" f2 f- ffe"F/G" e/d/cc- cBc |"C" c3 ecG"G" d2 B- B3 | %35
+w: liv- ing like lov- ers, * and I|guess that's * why they call * * it * the *|blues. * * * * * *|
+w: |||
+"Am" E3 cAE"Em" B2 G- GGG |"F" f2 f- ffe"F/G" e/d/cc- cBc |"C" c6 z6 :| %38
+w: * * * * * * * And I|guess that's * why they call * * it * the *|blues.|
+w: |||
+

@@ -1,0 +1,28 @@
+X:1
+T:Pretend You Don't See her
+T:Pretend You Don't See Her My Heart
+T:Steve Allen
+C:Steve Allen
+Z:All Rights Reserved
+L:1/4
+Q:1/4=155
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 A |"Dm" d e f |"Ddim" e d- d/d/ |"Em" e f g |"A7" f e- e/e/ |"Dm" f d c |"G7" B c e/-d/ | %7
+w: Look|some- where a-|bove her, pre- tend|you don't love|her, _ _ pre-|tend you don't|see her at _|
+"C" c2- c- | c2 G |"C" c d e |"Cdim" d c/ z E/ |"C" A2- A- | A2 G |"C" c d e |"C" d c/ z E/ | %15
+w: all. _|_ Pre-|tend you don't|see her, my|heart, _|_ Al-|though she is|com- ing our|
+"A7" A2- A- | A2 A |"Dm" d e f |"G7" e d/ z F/ |"Dm" A2- A- |"G7" A2 A |"Dm" c2 A/c/ | %22
+w: way. _|_ Pre-|tend you don't|need her, my|heart, _|_ But|smile and pre-|
+"G+7" B2 A/B/ |"C" E2- E- |"G7" E2 G |"C" c d e |"Cdim" d c/ z E/ |"C" A2- A- | A2 G | %29
+w: tend to be|gay. _|_ It's|too late for|run- ning my|heart, _|_ Chin|
+"Gm" _B2 B/B/ |"A7" A2 E/F/ |"Dm" A2- A- | A2 A |"Dm" d e f |"Ddim" e d- d/d/ |"Em" e f g | %36
+w: up if the|tears start to|fall. _|_ Look|some- where a-|bove her, pre- tend|you don't love|
+"A7" f e- e/e/ |"Dm" f d c |"G7" B c e/-d/ |"C" c2- c- |"C" c2- c |] %41
+w: her, _ _ pre-|tend you don't|see her at _|all. _|_ _|
+

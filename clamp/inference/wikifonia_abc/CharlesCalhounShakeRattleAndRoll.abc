@@ -1,0 +1,28 @@
+X:1
+T:Shake, Rattle And Roll
+T:Shake rattle and roll
+T:Charles Calhoun
+C:Charles Calhoun
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^N.C." c |"C" c/c/ c c/c/ A | c/c/ A A G | E4- |"C7" E2 z c |"F" c/c/ c c/c/ A | c/c/ A A G | %7
+w: Get|out from that kit- chen and|rat- tle those pots and|pans||||
+w: ||||* get|out from the kit- chen and|rat- tle those pots and|
+"C" E4- | E2 z c |"Dm" c c c/c/A/G/ |"G7" A G A G |"C" C4- | C3 z || c z c/c/ c | c4 | c z c/c/ c | %16
+w: |||||||||
+w: pans|* well|roll my break- fast cause *|I'm a hun- gry|man||Shake rat- tle and|roll|Shake rat- tle and|
+"C7" c4 |"F" c z c/c/ c | _e4 |"C" c z c/c/ c | c3 c |"Dm" c/c/ c c/c/ G |"G7" _B A A G |"C" C4- | %24
+w: ||||||||
+w: roll|Shake rat- tle and|roll|shake rat- tle and|roll you|nev- er do noth- ing to|save your dog- gone|soul|
+ C2 z2!fine! || c/c/ c c/c/ c | c A A G | E4- |"C7" E2 z2 |"F7" c/c/ c c/c/ c | c A A G |"C" E4- | %32
+w: ||||||||
+w: |Wear ing those dress- es your|hair done up so|right||Wear- ing those dress- es your|hair done up so|right|
+ E2 z c |"Dm" c c A A/G/ |"G7" _B A A G |"C" C4- | C2 z2!D.C.! |] %37
+w: |||||
+w: * you|look so warm but your|heart is cold as|ice.||
+

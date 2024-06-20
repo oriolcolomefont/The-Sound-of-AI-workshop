@@ -1,0 +1,30 @@
+X:1
+T:Unless It's You
+T:Unless It's You
+C:Johnny Mandel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ E F G |"C69" c4- |"F/G" c B, C"G13" A |"C69" G4- |"F/G" G E"G7b9" F d |"Bbmaj7/C""C7" c4- | %6
+w: I won- der|why|_ I've loved so|few;|_ I guess I'm|shy,|
+"Bb/C" c C"C7b9" _D _B |"Fmaj7""C13b9" A4 |"Fmaj7" z A"Dm7" c g |"Fm""Dbmaj7/F" f4- | %10
+w: _ I'm just like|you.|And so I|try|
+"Fm6" f G _A f |"E13""Bb13b5" e4- |"A13" e ^F"Bbdim" G e |"Bm7" d3/2 e/"E7b5b9" d3/2 e/ | %14
+w: _ to turn a-|way,|_ though you're the|sky to me, the|
+"Am9" d3/2 e/"D+7" d3/2 e/ |"F6/G""G13" d4 |"F/G" z E"G7b9" F"G13b9" d |"C69" c4- | %18
+w: joy to me, the|day|at times I|stray|
+"F/G" c B, C"G13" A |"C69" G4- |"F/G" G E"G7b9" F d |"Bbmaj7/C""C7" c4- |"Bb/C" c C"C7b9" _D _B | %23
+w: _ and think I'm|free,|_ then in your|way|_ you reach for|
+"Fmaj7""C13b9" A4 |"Fmaj7" z A"Dm7" c g |"Fm""Dbmaj7/F" f4- |"Fm6" f G"Fm7" _A f | %27
+w: me.|You know I'll|stay,|_ I al- ways|
+"E13""Bb13b5" e4- |"A13" e ^F"Bbdim" G e |"Bm7" d3/2 e/"E7b5b9" d2- |"F/G" d E"G7b9" F d |1 %31
+w: do,|_ for what is|love to me|_ Un- less it's|
+"C69" c4 |"F/G" z E"G7b9" F"G13b9" d :|2"C69" c4- | c4 |] %35
+w: you.|I won- der|you.|_|
+

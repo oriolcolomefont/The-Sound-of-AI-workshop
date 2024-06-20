@@ -1,0 +1,31 @@
+X:1
+T:Starting With You
+T:Starting With You
+T:Johnny Hodges, Duke Ellington, Pat Stewart
+C:Johnny Hodges, Duke Ellington, Pat Stewart
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"Cm7" cdc"F7b5"d- d2 c2 |"Am7b5" E4"D7" z4 |"Bbm7" BcB"Eb7b5"c- c2 B2 |"Gm7b5" _D4"C7b9" z4 | %4
+w: I gave it all * I|had.|But it just turn- ed out|bad.|
+w: Love did me up * real|good.|Showed me just where * I|stood.|
+"Fm7" z2 EG"Db7" FDBA |"Cm7" GBce"F13" d4 |"Fm7" ABA_c-"Bb7b9" c2 _d2 |1"Eb" B6"Gm7" z2 :|2 %8
+w: Af- ter all this trou- ble|I know what to do,|Start- ing with you * I'm|through.|
+w: So I'm turn- ing from a|one way a- ve- nue|Start- ing with you * I'm||
+"Eb" B6"Eb7" z2 ||"Ab" z2 E2 F4 |"Abm7" z2 E2 _G4 |"Eb" z2 E2 cB G2 |"Eb7" B6 z2 |"Ab" z2 E2 F4 | %14
+w: through.|We talked,|we kissed,|that cor- nered my|mind.|You hit,|
+w: ||||||
+"Abm7" z2 E2 _G4 |"G7b9" ABAB-"C7" B2 z2 |"Fm7" FGF"Bb13"G- G2 z2 |"Cm7" cdc"F7b9"d- d2 c2 | %18
+w: I missed,|you took the lead, *|I tagged be- hind. *|Now that I'm wide * a-|
+w: ||||
+"Am7b5" E4"D7" z4 |"Bbm7" BcB"Eb7b9"c- c2 B2 |"Gm7b5" _D4"C7b9" z4 |"Fm7" z2 EG"Db7" FDBA | %22
+w: wake,|you took the last * you'll|take.|Let's be sure you un- der-|
+w: ||||
+"Cm7" GBce"F13" d4 |"Fm7" ABA"Bb7b9"_c- c2 _d2 |"Ebmaj7" B8 |] %25
+w: stand my point of view.|Start- ing With You, * I'm|through.|
+w: |||
+

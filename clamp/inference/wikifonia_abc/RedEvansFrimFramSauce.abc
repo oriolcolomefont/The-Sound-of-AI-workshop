@@ -1,0 +1,29 @@
+X:1
+T:Frim Fram Sauce
+T:Frim Fram Sauce
+T:Red Evans
+T:Diane Krall
+C:Red Evans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"Eb9" E2 e2 G2 e2 |"Ab13" E2"Adim7" e2"Adim7" G2 e2 |"Eb13/G" E2"C7b9" e2"C7b9" G2 e2 | %3
+"F7b9" E2"B7" e2"B7" G2 e2 |"Adim7" E2"Ab13" e2"Ab13" G2 e2 |"Eb13/G" E2"C7" e2"C7" G2 e _G | %6
+"Fm9" F=GA"Bb7b9"=A"Bb7b9" B"Eb6" B,"Eb6" DE |"^N.C." z E3 E2 E2 |:"Eb6" E2 C^F, G,B, z E | %9
+ E2 C^F,"C7" G,"C7"(B,B,) z |"F9" z (=A,=A,)C EGFC |"Bm7""Bbm7" z4"Bbm7""A7" z"A7" _G_GF | %12
+"Ab7" E2"Adim7" E2"Adim7" E2 EE |"Eb6" E2 E"C7"C"C7" (3z2 C2 E2 | %14
+"Fm9" GC"Bb13b9" z2"Bb13b9" (GE)FE |"Eb69""C7" z2"C7" z"Fm9" E"Fm9""Bb7" E2"Bb7" E2 | %16
+"Eb6" E2 (3:2:2C2 (^F, (3:2:2^F,) G,2 (3:2:2B,2 E | E2 C"C7"F,"C7" G,B, z2 | %18
+"F9" z2 (3=A,CE G F2 C |"Bm7""Bbm7" z4"Bbm7""A7" z"A7" _G_GF |"Ab7" E2"Adim7" E2"Adim7" E2 EE | %21
+"Eb6" (3E2"C7#9" E2"C7#9" C2 C2 CE |"Fm9" GC"Bb13b9" z2"Bb13b9" (3z GE F2 |"Eb6" E2 E2 E2 EC | %24
+"Bbm7" _D2"Eb7" E2"Eb7" _DE_DE |"Abmaj7" E2"F7b13" z2"F7b13" z EC_D | %26
+"Bbm7" _D2"Eb7" E2"Eb7" F2 E(E |"Abmaj7" C2) z2 z2 z F |"Cm7" F"F9" F3"F9" (3z2 F2 F2 | %29
+"Bbmaj7" D2 z"G7" (D"G7" D2) E=E |"Cm7" F_EF"F7"D"F7" D2 DB, |"Bb9" z2 z"Bb7b9" C"Bb7b9" E2 G2 || %32
+"Eb6" E2 C^F, G,B, z2 | z E C"C7"^F,"C7" G,B, z2 |"F9" A,C E2 z2 z G | %35
+ G2"Eb7#9" F2"Eb7#9" C"A13"E"A13"FE |"Ab7" _G2 _G"Adim7"C"Adim7" E2 (3z EC | %37
+"Eb6" EE"C7" C2"C7" z2 CE |"F9" GE"Bb13b9" z2"Bb13b9" GEFE |"Eb6" z2 B,2 CE (F(3G/)F/C/ :| %40
+

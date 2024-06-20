@@ -1,0 +1,41 @@
+X:1
+T:The Most Beautiful Girl in the World
+T:The Most Beautiful Girl in the World
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ z !fermata!C !fermata!D |:"Fmaj7" E C D | E C D |"E/F" E3- | E G3/2 F/ |"Fmaj7" E z"E/F" E- | %6
+w: The most|beau- ti- ful|girl in the|world|* picks my|ties out,|
+w: |beau- ti- ful|girl in the|world|* is- n't|Gar- bo,|
+ E G3/2 F/ |"Fmaj7" E z E- |"E/F" E F3/2 D/ |"Gm7" C z C- |"C7" C C D | E F G |1 G A G |"Am7" c3- | %14
+w: * eats my|can- dy|* drinks my|bran- dy|* The most|beau- ti- ful|girl in the|world.|
+w: * is- n't|Diet- rich,|* but the|sweet trick|* who can|make me be-|||
+"Abmaj7" c3- |"Gm7" c3- |"C11" c C D :|2"C7" G A B | c d c |"Am7b5" _e3- | e3- |"D7" e3 || %22
+w: ||* The most|lieve it's a|won- der- ful|world.|||
+w: ||||||||
+"Dm9" =e2 e- |"G13b9" e e3/2 e/ |"C6" c3- |"Cmaj7" c3 |"Dm9" =e2 e- |"G13b9" e e3/2 e/ |"C6" c3- | %29
+w: so- cial,|* not a|bit.||Nat- 'ral|* kind of|wit.|
+w: |||||||
+"Cmaj7" c3 |"Am7" d2 d- |"D7" d d3/2 d/ |"Dm7" G3- |"G7" G G A |"Eb9" B c B |"D9" c B c |"Db9" G3 | %37
+w: |She'd shine|* an- y|where|* and she|has- n't got|plat- i- num|hair.|
+w: ||||||||
+"C9" G C D |"Fmaj7" E C D | E C D |"E/F" E3- | E G3/2 F/ |"Fmaj7" E z E- |"E/F" E G3/2 F/ | %44
+w: * The most|beau- ti- ful|house in the|world.|* has a|mort- gage.|* What do|
+w: |||||||
+"Fmaj7" E z E- |"E/F" E F3/2 D/ |"Gm7" C z C- |"C7" C C D | E F G | G A G |"Am7b5" c d c | _e3- | %52
+w: I care?|* It's good-|bye care|* when my|slip- pers are|next to the|ones that be-|long|
+w: ||||||||
+"D7sus4" e3- |"D9" e d =e |"Gm7" f2 d |"G#dim" f2 d |"F6/A" f d e |"Bb9" f d e |"F6" f3- | %59
+w: |* to the|one and|on- ly|beau- ti- ful|girl in the|world.|
+w: |||||||
+"Db9" f3- |"F6" f z2 |] %61
+w: ||
+w: ||
+

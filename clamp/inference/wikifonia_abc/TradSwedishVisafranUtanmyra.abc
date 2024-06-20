@@ -1,0 +1,16 @@
+X:1
+T:Visa fran Utanmyra
+T:Vise fra Utanmyra
+T:svensk folkemelodi (Jan Johanson)
+C:Trad Swedish
+Z:Public Domain
+L:1/8
+M:4/4
+K:none
+V:1 treble nm="B"
+%%MIDI program 71
+V:1
+[K:C] E>D | C2 A,2 ^G,2 G,>E, | A,6 B,>^D | E2 E2 E2 D>B, | C4 B,2 E>D | C2 A,2 ^G,2 G,>E, | %6
+ A,6 B,>D | E2 E2 E2 D>B, | C4 B,2 z B, | C2 A,2 B,2 C>D | E6 E2 | G2 E2 E2 C2 | D6 E>D | %13
+ C2 C>A, ^G,2 =G,2 | A,4 G3 E | C2 E>D B,2 G,2 | A,8- | A,6 |] %18
+

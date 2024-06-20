@@ -1,0 +1,28 @@
+X:1
+T:You Belong To My Heart
+T:You Belong To My Heart
+C:Agustin Lara
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 Bc"Bb7" B2 EF |"Eb""Ebmaj7" G8- |"Eb6" G3 G"Edim" B3 c |"Bb7" B4 D4- | D2 cd c2 =EF | %5
+w: You be- long to my|heart|_ now and for-|ev- er|_ and our love had its|
+"Fm""C+" c8- |"Fm7" c3 e"Bb+" d3 B |"Eb" G8- | G4 z2 ee |"Eb6" e2"Ebmaj7" dd d2"Eb6" cc | %10
+w: start|_ not long a-|go.|* we were|gath- er- ing stars while a|
+"Ebmaj7" c2 BB"Edim" c2 GA |"Bb7" B4 D4- |"Bb7" D4"Fm7" z2"Bb7" BB | B2 AA A2 GG | G2 FF F2 EF | %15
+w: mil- lion- gui- tars played our|love song.|_ When I|said I love you ev- ry|beat of my heart said it|
+"Eb""Am7b5" G8- |"Eb7" G z Bc"Bb7" B2 EF |"Eb""Ebmaj7" G8- |"Eb6" G3 G"Edim" B3 c |"Bb7" B4 D4- | %20
+w: too.|_ 'Twas a mo- ment like|this|_ do you re-|mem- ber?|
+ D2 cd c2 =EF |"Fm""C+" c8- |"Fm7" c3 e"Bb+" d3 B |"Eb""Ebmaj7" G8- |"Eb" G4 z2 ee | %25
+w: _ and your eyes threw a|kiss,|_ when they met|mine.|_ Now we|
+"Eb6" e2"Ebmaj7" dd d2"Eb6" cc | c2"Ebmaj7" BB c2 GA |"Bb7" B4 D4- |"Bb7" D4"Fm7" z2"Bb7" BB | %29
+w: own all the stars and a|mil- lion gui- tars are still|play- ing.|_ Dar ling|
+ B2 AA A2 GG | G2 FF c2 Bc |"Eb" e8 |] %32
+w: you are the song and you'll|al- ways be- long to my|heart.|
+

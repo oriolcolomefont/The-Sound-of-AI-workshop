@@ -1,0 +1,54 @@
+X:1
+T:Holy Ground
+T:Holy Ground
+T:Geron Davis, 1983
+C:Geron Davis, 1983
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:2 treble 
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 | z4 E2 FE |"Eb" G2- G2 !>!G3 G |"Bb/D" !>!F4"Cm" z E EE |"Bb" F2 !>!D6 | %9
+w: |||||as I _|walked _ through the|door I felt His|pres ence|
+ D3 D"Bbm/Db" F2"C7" G2 |"Fm" A3 A"Fm" A3 A |"Ab/Bb" GF E2 EE EB |"Eb" G8- | G4"Cm" G2"Cb+" A2 | %14
+w: _ _ and I|knew this was a|place _ _ wh ere love a|bounds|_ for this|
+"Bbm" B3 B BB BB |"Db/Eb" B3 A"Eb6" c3 c |"Ab" B2 A6 | z2 B2 B2 A2 |"Eb" G2 G2"Ebmaj7" B2 B | %19
+w: is the tem ple _ Je|ho vah God a|bides here|and we are|stand ing in His|
+"Ab/Bb" AF- FE"Bb7" G(F F)E |"Eb" E8 | z4"Ab/Bb" E2 GB |"Eb" B4"Bb7/F" B4- | B2 B2"Ab" c3 c | %24
+w: pre sence _ on ho _ _ ly|ground|We are _|stand ing|_ on hol y|
+"Eb/Bb" (B4"Bb7" B4- |"Eb/G" B4)"Ab/Bb" EF"Bb/Ab" GA |"Gm7b5" B3 B B2 B2 |"C7" B2 G4 BG | %28
+w: grou nd|_ and _ I _|know that there are|an gels all a|
+"Eb/F" G2 F6 | z4 EF"Bb/Ab"GA |"Eb/G" B4-"Bb7/F" B4- |"Eb/G" B4"Ab" c3 c | %32
+w: ro und|let _ us _|praise _|_ Je sus|
+"Eb/G" ((c2 B2-"Bb/Ab" B4 |"Eb/G" B4))"Ab" EF GA |"Eb/G" B3 B"Ab" c3 c | %35
+w: no w _|_ we _ are _|stand ing in His|
+"Eb/Bb" B G2 E"Ab/Bb" G F2- E |"Eb" E8- | E4 E2 FE |"Eb" G2- G2 !>!G3 G |"Bb/D" !>!F4"Cm" z E EE | %40
+w: pres ence on ho ly _|ground|_ in His _|pre ence there is|joy be _ yond|
+"Bb" F2 !>!D6 | D3 D"Bbm/Db" F2"C7" G2 |"Fm" A3 A"Fm" A3 A |"Ab/Bb" GF E2 EE EB |"Eb" G8- | %45
+w: mea sure|and at His feet|peace of mind _|can _ still _ _ be _|found|
+ G4"Cm" G2"Cb+" A2 |"Bbm" B3 B BB BB |"Db/Eb" B3 A"Eb6" c3 c |"Ab" B2 A6 | z2 B2 B2 A2 | %50
+w: _ If you|have a _ _ need I|know he has the|an swer|reach out and|
+"Eb" G2 G2"Ebmaj7" B2 B |"Ab/Bb" AF- FE"Bb7" G(F F)E |"Eb" E8- | E4"Ab/Bb" E2 GB | %54
+w: claim it you are|stand ing _ on ho _ ly _|ground|_ We are _|
+"Eb" B4"Bb7/F" B4- | B2 B2"Ab" c3 c |"Eb/Bb" (B4"Bb7" B4- |"Eb/G" B4)"Ab/Bb" EF"Bb/Ab" GA | %58
+w: stand ing|_ on hol y|grou nd|_ and _ I _|
+"Gm7b5" B3 B B2 B2 |"C7" B2 G4 BG |"Eb/F" G2 F6 | z4 EF"Bb/Ab"GA |"Eb/G" B4-"Bb7/F" B4- | %63
+w: know that there are|an gels all a|ro und|let _ us _|praise _|
+"Eb/G" B4"Ab" c3 c |"Eb/G" ((c2 B2-"Bb/Ab" B4 |"Eb/G" B4))"Ab" EF GA |"Eb/G" B3 B"Ab" c3 c | %67
+w: _ Je sus|no w _|_ we _ are _|stand ing in His|
+"Eb/Bb" B G2 E"Ab/Bb" G F2- E |"Eb" E8 | z8 | z8 | z8 | z8 |] %73
+w: pres ence on ho ly _|ground|||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x7 | %19
+ x8 | E8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x7 | x8 | E8 | x8 | x8 | x8 | x8 | %57
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %73
+

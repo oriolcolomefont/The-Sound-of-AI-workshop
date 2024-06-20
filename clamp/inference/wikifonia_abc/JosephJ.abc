@@ -1,0 +1,28 @@
+X:1
+T:Jingle Jangle Jingle
+T:JINGLE JANGLE JINGLE
+C:Joseph J. Lilley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"_Moderately" C D |:"F" F3 A |"Gm7" G F"C7" D C |"F" D F3- |"Gm7" F2"C7" F G |"F" A2 c A | %6
+w: I got|spurs that|Jin- gle Jan- gle|Jin- gle,|_ as I|go rid- in'|
+w: |sing, "Oh,|ain't you glad you're|sin- gle!"|_ and that|song ain't so|
+"Bb" B A F"C7" C |"F" F4- |1"Gm7" F2"C7" C D :|2 F"F7" F B c ||"Bb" d4- | d F A B |"F" c4- | %13
+w: mer- ri- ly a-|long.|_ And they|* Oh, Lil- lie|Belle,|_ Oh, Lil- lie|Belle|
+w: ver- y far from|wrong.||||||
+ c2 A"C7" B |"F" c c c c | d c B A |"G7" G F E D |"C7" C2 C D |:"F" F3 A |"Gm7" G F"C7" D C | %20
+w: _ though I|may have done some|fool- in' this is|why I nev- er|fell: I got|spurs that|Jin- gle Jan- gle|
+w: |||||sing, "Oh,|ain't you glad you're|
+"F" D F3- |"Gm7" F2 F"C7" G |"F" A2 c A |"Bb" B A F"C7" C |1"F" F4- | F2"C7" C D :|2"F" F2 G A | %27
+w: Jin- gle|_ as I|go rid- in'|mer- ri- ly a-|long.|_ And they|wrong, so I'll|
+w: sin- gle!"|_ and that|song ain't so|ver- y far from||||
+"Gm7" B c"C7" d e |"F" f4- | f2 || %30
+w: jin- gle on a-|long.|_|
+w: |||
+

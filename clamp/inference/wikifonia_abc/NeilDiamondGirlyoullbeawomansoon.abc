@@ -1,0 +1,31 @@
+X:1
+T:Girl, you'll be a woman soon
+T:Girl, you'll be a woman soon
+T:Neil Diamond
+C:Neil Diamond
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Am" e/e/ e e e | e/e/ d e d | e/e/ d e d | e/e/ d e c |"G" z2 z d | d c B2- | B4 | z2 z e | %8
+w: Love you so much cant|count all the ways I'd|die for you girl, and|all they can say is|he's|not your kind||they|
+"Am" e/d/ e e d | e/d/ e e d | e e/d/ e d | e e/d/ e c |"G" z2 z d | d2 c B | B G3 | d2 c B | %16
+w: nev- er get tired of|put- tin me down and|I nev- er know when|I come a- round *|what|I'm gon- na|find *|dont let them|
+"F" c2 A A | A4- | A4- | A A G F ||"Am" E4 | c2 B2 |"D7" A4- | A ^F G A |"G" B4- | B2 D2 | %26
+w: make up your|mind||* dont you know|girl|||* you'll be a|wo|* man|
+"Am" E4- | E4 | E4 | c2 B2 |"D7" A4- | A ^F G A |"G" D4- | D4- | D4- | D4 |"Am" E4 | c2 B2 | %38
+w: soon||please|||* come take my|hand||||Girl||
+"D7" A4- | A ^F G A |"G" B2 D2- | D4 |"Am" E4- | E4 | E4 | c2 B2 |"D7" A4- | A ^F"^ToCoda" G A | %48
+w: |* you'll be a|wo- man||soon||soon|||* you'll need a|
+"G" G4- | G4- | G4 | z2 z e/d/ |"Am" e e/d/ e d | e/d/ e e e/d/ | e e/d/ e e | e e/d/ e c | %56
+w: man|||I've been|mis- un- der- stood for|all of my life but what|they're say- in girl just|cuts like a knife *|
+"G" z2 z d | d c B2- | B4 | z2 z e/d/ |"Am" e d/e/ e/d/e/d/ | e/d/ e2 e/d/ | e e/d/ e e | %63
+w: the|boys no good||well I|fin- al- ly found what I've been|look- ing for but if|they get the chance they'll|
+ e/d/ e e c |"G" z4 | d c B2- | B4- | B d c B |"F" c2 A A | A4- | A3"^play""^to" A | %71
+w: end it for sure, *||sure they would||* ba- by I've|done all I|could|* its|
+"^D.S.alCoda.to" A2 G F ||"^skip""G" G4- |"^to""^Coda""^Coda" G4- | G4- | G4 |] %76
+w: up to you|man||||
+

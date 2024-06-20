@@ -1,0 +1,47 @@
+X:1
+T:Sweet Dreams
+T:Sweet Dreams
+T:Don Gibson
+T:G
+T:A7
+T:D
+T:D7
+T:G
+C:Don Gibson
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble transpose=-12 nm="Guitar" snm="Gtr."
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ g4 | e2 e/d/ d | d z z2 | z2 f a | g z z2 | %5
+w: Sweet|* dreams * of|you|ev ry|night|
+"^A7                     D                      D7                     G                      C                        G" z2 e c | %6
+w: I go|
+ d z z2 | z2 z d | g2 g g | e c2 G | e d B G | %11
+w: through|Why|can't I for|get you and|start my life a|
+"^Em                  G                          C               D7          G            C          G                D7" E2 z B | %12
+w: new in|
+ d d g3/2 e/ | c G B B | A/- G3/2 z2 | z4 | %16
+w: stead of hav ing|sweet dreams a bout|you *||
+"^G                      A7                     D                     D7                       G                     A7" g2 g g | %17
+w: You * don't|
+ f e2 ^c | d z z2 | z2 f a | g2 z g | f f ^c e | %22
+w: love me it's|plain|I should|know I'll|nev er wear your|
+"^D                        D7                                           G                      C                         G" d z z2 | %23
+w: ring|
+ z4 | g3 g | e c2 G | e d B G | %27
+w: |I should|hate you the|whole * night *|
+"^Em                      G                             C                D7             G" E2 z B | %28
+w: through in|
+ d d g3/2 e/ | c G B B | A/- G3/2 z2 | z4 | %32
+w: stead of hav ing|sweet dreams a bout|you *||
+"^G                                   C                   D7                    G" d d g3/2 e/ | %33
+w: stead of hav ing|
+ c G B D | E/ G3/2 z2 | z4 |] %36
+w: sweet dreams a bout|you *||
+

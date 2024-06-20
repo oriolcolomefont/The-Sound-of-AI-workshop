@@ -1,0 +1,54 @@
+X:1
+T:SOMEBODY TOLD ME
+C:The Killers
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"F#m" [FA][FA][FA][FA] [FA][FA][FA][FA] | [FB][FB][FB][FB] [FB][FB][FB][FB] | %2
+w: ||
+w: ||
+ [F^c][Fc][Fc][Fc] [Fc][Fc][Fc][Fc] | [Fd][Fd][Fd][Fd] [Fd][Fd][Fd][Fd] :| %4
+w: ||
+w: ||
+ [F^c][Fc][Fc][Fc] [Fd][Fd][Fd][Fd] | [Fe][Fe][Fe][Fe] [Fd][Fd][Fd][Fd] | %6
+w: ||
+w: ||
+ [F^c][Fc][Fc][Fc] [Fd][Fd][Fd][Fd] | [F^c][Fc][Fc][Fc] [Fc][Fc][Fc][Fc] |"F#dim" FF B2 ^c2 FE | %9
+w: ||Break in my back just to|
+w: |||
+ FAzF- F2 z F |:"F#dim" FF B2 ^c2 FE | F e2 ^c- c2 z2 | FF B2 ^c2 FF | F e2 ^c z ezd- | %14
+w: know your name _ But|heav en ain't closed in a|place like this _|An y thing goes but don't|_ blink you might miss|
+w: |Rea dy lets roll on to|some thing knew _|Tak in its toll then I'm|leav ing with out you|
+"Bm" d^cBA- A4- | A4 z2 z F |"F#dim" FF B2 ^c2 FE | F A2 F- FFFF | FF B2 ^c2 FE | FAzF- F4- | %20
+w: _ _ _ _ _||||||
+w: _ _ _ _ _|* cuz|heav en ain't close in a|place like this _ I said a|heav en ain't close in a|place like this _|
+"D" F2 ^cA c2 c2 |"Esus4" ^cA c2 c2 cA- |"F#m" A6 F2 | F8 |"D" FF B2 ^c2 FE | F e2 ^c- c c2 d- | %26
+w: ||||||
+w: _ bring it back down|bring it back down to night|_ WHO|HOO|Nev er thought I'd let a|ru mor ru _ in my|
+"Esus4" d^cBB- B4 | z2 z F AAAA- |"F#m" A F3 AAAA- |"D" A F2 F AAAA- |"E" A ^G3 GGGG- | %31
+w: |||||
+w: _ moon _ light _|Well, some bo dy told|_ me you had a boy|_ friend who looks like a girl|_ friend I had in Feb|
+"C#" G ^G2 F- FF=GA- |"F#m" A F2 F ^GGGA- |"D" A F3 AAAA |"E" z ^G- G4 z2 | FffF ee B2 :| %36
+w: |||||
+w: _ ru ar _ y of last|_ year. Its not con fid dent|_ ial I've got po tent|ial _|_ _ _ _ _ _ _|
+"D" d4 ^c4- |"E" B4 A2 ^c2- |"F#m" c8- | c4 d2 d2 |"D/A" d3"A" ^c- c4 |"Bm" B3 A- A4 |"D" A8- | %43
+w: |||||||
+w: PACE Your|self for me|_|* I said|may be _|ba by _|please|
+ z d d2 d2 d2 |"F#m" d3 ^c- c4- |"E6" c8 |"D" d3 ^c- c4 |"D6" B3 A- A3 B | %48
+w: |||||
+w: But I just don't|know now _|_|May be _|Ba by _ when|
+"C#" BA (3:2:2B A2 ^cBzB- |"E" B8 | z2 z F ^GGGA- |:"F#m" A F3 AAAA- |"D" A F2 F AAAA- | %53
+w: |||||
+w: all I wan na do is try|_|Well, Some bo dy told|_ me you had a boy|_ friend who looks like a girl|
+"E" A ^G3 GGGG- |"C#" G ^G2 F- FF=GA- |"F#m" A F2 F ^GGGA- |"D" A F3 AAAA |"E" A ^G2 G GGGG | %58
+w: |||||
+w: _ friend I had in Feb|_ ru ar _ y of last|_ year. Its not con fid dent|_ ial I've got po tent|_ ial a rush ing, a rush|
+"C#" ^GGGG GGGA :|"C#" ^GG G4 z2 |"F#m" [F^c][Fc] z2 z4 |] %61
+w: |||
+w: ing a round. Now Some bo dy told|ing a round||
+

@@ -1,0 +1,30 @@
+X:1
+T:I'm Yours
+T:I'm Yours
+T:Robert Mellin
+C:Robert Mellin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 G2 |:"C""Am7" c8- |"Dm7" c2 AB"G7" c d2 B |"C" G8- |"Em7b5" G2 EF"A7" G^F=FE | %5
+w: I'm|Yours,|* heart and soul I am|yours,|* can't you see it in my|
+w: |Yours,|* ev- 'ry kiss says I'm|Yours,|* take my lips and take my|
+"Dm7" A2 DE FGFE |"G7" G6 G2 |1"C""Am7" G8- ||"Dm7""G7" G6 G2 :|2"Gm7" G8- ||"C7" G6 z2 | %11
+w: eyes, can't you hear it in my|sighs, I'm|yours|* I'm|Yours.||
+w: arms, I'm a vic- tim of your|charms, I'm|||||
+"F" z2 A2 A^G A2 |"E7" ^A2 B6 |"Am" z2 c2 cA c2 |"D9" E8 |"Am7" z2 A2 AE A2 |"D9" E2 E6 | %17
+w: My life and my|love, dear,|are yours to com-|mand.|I stand here be-|fore you|
+w: ||||||
+"D7" z2 A2 AE A2 |"G+7" ^D6 G2 |"C""Am7" c8- |"Dm7" c2 AB"G7" c d2 B |"C" G8- | %22
+w: my heart in my|hand. I'm|Yours,|* all the world knows I'm|Yours,|
+w: |||||
+"Em7b5" G2 EF"A7" G^F=FE |"Dm7" A2 DE FGFE |"G7" G6 G2 |"C""F" c8- |"C" c6 z2 |] %27
+w: * and I on- ly hope and|pray that some- day I'll hear you|say, I'm|Yours.-||
+w: |||||
+

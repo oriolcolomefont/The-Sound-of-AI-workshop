@@ -1,0 +1,28 @@
+X:1
+T:That's My Desire
+T:That's My Desire
+T:Helmy Kresa
+T:Carroll Loveday
+C:Helmy Kresa
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G7" z C D E |:"Cmaj7" G3/2 E/ G2- |"C6" G A"C/E" c"Ebdim" A |"G7" G3/2 E/ D2- | %4
+w: To spend one|night with you|* in our old|ren- dez- vous|
+"G7" D A"Ebdim" c A |"G7" G3/2 E/ D2- |"G7" D D C D |"C" E4- | E"Am7" C D"G" E | %9
+w: * and rem- i-|nisce with you|_ that's my de-|sire|_ to meet where|
+"C" G3/2 E/"Cmaj7" G2- |"C6" G A"C/E" c"Ebdim" A |"G7" G3/2 E/ D2- |"G7" D A"Ebdim" c A | %13
+w: gyp- sies play|_ down in that|dim ca- fe|_ and dance till|
+"G7" G3/2 E/ D2- |"G7" D D C D |"C" C4- | C"Dm7" c c"Cmaj7" B |"F" d/c/A/F/ D2- | %18
+w: break of day|_ that's my de-|sire|_ we'll sip a|lit- tle glass of wine|
+"G7" D B"Ebdim" B A |"C" c/A/G/E/ C2- | C E"Am7" G c |"D7" B/_B/ A A2- | A B B D |"Dm7" A4- | %24
+w: _ I'll gaze in-|to your eyes di- vine|_ I'll feel the|touch of your lips|_ press ing on|mine.|
+"G7" A C D E |"Cmaj7" G3/2 E/ G2- |"C6" G A"C/E" c"Ebdim" A |"G7" G3/2 E/ D2- | D A"Ebdim" c A | %29
+w: * to hear you|whis- per low|_ just when it's|time to go|_ Che rie I|
+"G7" G3/2 E/ D2- |"G7" D D C D |1"C""Ebdim" C4 ||"G7" z"^N.C." C D E :|2"C" C4- ||"C" C4 |] %35
+w: love you so|_ that's my de-|sire.|To spend one|sire.|_|
+

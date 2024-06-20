@@ -1,0 +1,18 @@
+X:1
+T:Hatikvah (The Hope) (הַתִּקְוָה)
+T:Hatikvah (The Hope)
+C:adapted from  La Mantovana by Giuseppino del Biado ca. 1600
+Z:Public Domain
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"Em" (EF)GA B2 B2 |"Am" (cB)ce"Em" B4 |"Am" A2 AA"Em" G2 G2 |"^H7" (FE)FG"Em" E2 z2 | %4
+"Em" (EF)GA B2"E" B2 |"Am" (cB)ce"Em" B4 |"^F#o" A2 AA"Em" G2 G2 | (FE)"^H"FG"Em" E4 | %8
+"C" z2 e2 e2 e2 |"D" (de)dc"G" B4 |"C" z2 e2 e2 e2 |"D" dedc"G" B4 | d2 dd"Em" G2 G2 | %13
+"Am" (AB)"D7"cd"G" B2 (AG) |"^F#o" A2 A2"Em" G2 GG |"^H" (FE)FG"C" E4 |"Am" A2 AA"Em" G2 G2 | %17
+"Am" (AB)"D7"cd"G" B2 (AG) |"A" A2"^H" A2"E" G2"A7" GG |"Am" (FE)"^H"FG"Em" E4 |] z8 | z8 | z8 | %23
+ z8 |] %24
+

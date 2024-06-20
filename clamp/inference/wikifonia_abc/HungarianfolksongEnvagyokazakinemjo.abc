@@ -1,0 +1,19 @@
+X:1
+T:Én vagyok az, aki nem jó
+T:Én vagyok az, aki nem jó
+T:Hungarian folk song
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Em" B3 G | A B3 | B3 G | F2 E2 |"Am" A3 A | A2 A2 |"D" A3 G | B A3 |"G" G4 |"D" F2 A2 |"G" G G3 | %11
+w: Én va-|gyok az,|a- ki|nem jó,|Fel- leg|aj- tó|nyi- to-|ga- tó,|aj|na- na-|na- na-|
+ G2 z2 |"Am" A3 A | A2 A2 |"B7" A3 G | A B3 |"Em" E E3 |"C" F G3 |"Am" A3 G |"B7" F F3 |"Em" E4 | %21
+w: na,|Nyi- to-|ga- tom|a fel-|le- get,|Sí- rok|a- lat-|ta e-|le- get,|aj-|
+"B7" _E2 F2 |"Em" E E3 | E2 z2 |] %24
+w: na- na-|na- na-|na.-|
+

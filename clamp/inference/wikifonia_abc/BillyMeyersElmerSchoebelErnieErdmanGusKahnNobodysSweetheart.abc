@@ -1,0 +1,28 @@
+X:1
+T:Nobody's Sweetheart
+T:Nobodys Sweetheart
+T:Gus Kahn, Ernie Erdman,Billy Meyers,Elmer Schoebel,
+C:Billy Meyers, Elmer Schoebel, Ernie Erdman, Gus Kahn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z D |:"G" B2 c d | B2 d2 |"E7" B4- | B z z E |"A7" G2 A B | G2 B2 | G4- | G2 z2 |1 %9
+w: Youre|no- bod- ys|sweet- heart|now|* they|dont ba- by|you some-|how||
+w: |walk down the|av- e-|nue|* I|just can't be-|lieve that~it's|you||
+"D7" ^F2 F F- | F3 z |"Em" G2 ^F G- | G2"^N.C." G ^G |"A7" A2 ^G A- | A2 ^D E | B2 _B2 | %16
+w: fan- cy hose||silk- en gown|* you'd be|out of place|* in your|own home-|
+w: |||||||
+"D7" A2"^N.C." ^C D :|2"C" e2 c e- || e z z2 |"Cm" _e2 c e- | e z z2 |"G" B2 c d | B2"E7" d2 | %23
+w: town when you|paint- ed lips||paint- ed eyes||wear- ing a|bird of|
+w: |||||||
+"A7" B2 G A- |"D7" A2 z D |"G" B2 d2 | B2 d2 |"E7" B4- | B z ^D E |"Am" c2 d c | B2"D7" A2 | %31
+w: par- a- dise|* it|all seems|wrong some-|how|* that you're|no- bod- y's|sweet- heart|
+w: ||||||||
+"G" G4- | G3 z |] %33
+w: now||
+w: ||
+

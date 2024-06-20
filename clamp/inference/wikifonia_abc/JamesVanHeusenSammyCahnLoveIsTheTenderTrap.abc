@@ -1,0 +1,38 @@
+X:1
+T:Love Is The Tender Trap
+T:Love Is The Tender Trap
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2"C7" C2 |"F" D>CD>C D C2 _E- |"F#dim" _E6 z C |"Cm7" _E>CE>C E C2 =E- |"C7" E4- E z C2 | %5
+w: You|see a pair of laugh- ing eyes,|* And|sud- den- ly you're sigh- ing sighs,|* * You're|
+"Cm7" G>FG>F"F13" d2 Fc- |"Bbmaj9" c>F c2"Bb" F2 B2 |"A+7" A z z3/2 A,/ =B,2 ^C2 | %8
+w: think- ing noth- ing's wrong, you string|* a- long, boy, then|snap! * * *|
+"D7" D2"Am7" E2"Dm" F2"D7" A"G9"F- | F2 AF- F2 AF- |"Gm7" F2 ^G>A F"C7b9" =G2 F- | %11
+w: * * * Those eyes,|* those sighs, * they're part|* of the ten- der trap!|
+"F" F2 c"G7b5"_d- d>dd"C7"=d- | d2"C7b5" ^F2"C7" G2 z C |"F" D>CD>C D C2 _E- |"F#dim" _E6 z C | %15
+w: |* * * You're|hand in hand be- neath the trees,|* And|
+"Cm7" _E>CE>C E C2 =E- |"C7" E4- E z C2 |"Cm7" G>FG>F"F13" d2 Fc- |"Bbmaj9" c>F c2"Bb" F2 B2 | %19
+w: soon there's mu- sic in the breeze,|* * You're|act- ing kind of smart un- til|* your heart just goes|
+"A+7" A z z3/2 A,/ =B,2 ^C2 |"D7" D2"Am7" E2"Dm" F2"D7" A"G9"F- | F2 AF- F2 AF- | %22
+w: whap! * * *|* * * Those trees,|* that breeze, * they're part|
+"Gm7" F2 ^G>A F"C7" =G2 F- |"F""Bb9" F8 |"F" z2 F2 c2"Fdim" _c2 |"Em7b5" B6 A>B |"A7" A2 G2 F2 E2 | %27
+w: * of the ten- der trap!||Some star- ry|night when her|kis- ses make you|
+"Dm" A4"Gm" D4- |"Dm" D2 A2 c2"Fdim" =B2 |"Em7b5" B6 A>B |"A7" A2 G2 F2 E2 |"Dm" F3"F7" G- G4 | %32
+w: tin- gle,|* She'll hold you|tight and you'll|hate your- self for|be- ing *|
+"Gm7" D3"Gb7" E- E3"C7" C |"F" D>CD>C D C2 _E- |"F#dim" _E6 z C |"Cm7" _E>CE>C E C2 =E- | %36
+w: sin- gle. * And|all at once it seems so nice,|* The|folks are throw- ing shoes and rice,|
+"C7" E4- E z C2 |"Cm7" G>FG>F"F13" d2 Fc- |"Bbmaj7" c>F c2"Bb" F2 B2 |"A+7" A z z3/2 A,/ =B,2 ^C2 | %40
+w: * * You|hur- ry to a spot that's just|* a dot on the|map! * * *|
+"D7" D2"Am7" E2"Dm" F2"D7" A"G9"F- | F2 AF- F2 AF- |"Gm7" F2 ^G>A F2"C7" cA- | %43
+w: * * * You won-|* der how * it all|* came a- bout, It's too|
+"Cm6" A2 cA-"F7" A2"Am7b5" cA- |"D7" A2"Cmaj7" =B>c"D7" A2 d_B- |"Gm" B2 dB-"Gm" B2 dB- | %46
+w: * late now, * There's no|* get- ting out. You fell|* in love, * and love|
+"Gm7" B2 ^c>d"C7" =c"Gb7" E2"F" F- | F4"Gb" (3fe_e _d>c' |"Fmaj7" a2 z"Gb6" _E"F6" D4 |] %49
+w: * is the ten- der trap!|||
+

@@ -1,0 +1,34 @@
+X:1
+T:One Day At A Time
+T:One day at a time
+T:Marijohn Williams and Kris Kristofferson
+C:Marijohn Williams, Kris Kristofferson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E G3/2 E/ | D C2 | z3 | z3 |"C" E D3/2 C/ |"G" E D z | z3 |"G7" G A3/2 G/ | B2 B/B/ | %9
+w: I'm on- ly|hu- man|||I'm just a|wo- man||help me be-|lieve in *|
+w: Do you re-|mem- ber|||when you~walked a-|mong men||well Jesus you|know if your|
+"G7" B B A | G2 G | A G F |"C" E3 | z3 | z3 | E G3/2 E/ | D C2 | G/C/ G3/2 A/ |"C7" _B3 | %19
+w: what I could|be and|all that I|am|||Show me the|stair- way|||
+w: look- ing be-|low its|worse now than|then|||push in and|shov- in|||
+ c d3/2 c/ |"F" c2 z | z3 | z3 |"F" A B c |"C" G3 | G F3/2 E/ |"G7" D2 D | F E3/2 D/ |"C" C2 G | %29
+w: I have to|climb|||Lord for my|sake|teach me to|take one|day at a|time *|
+w: crow- in my|mind|||So for my|sake|teach me to|take one|day at a|time. *|
+"F" A G F |"C" E3 || z2 c |"C7" c d c |"F" c3 | z2 A |"F" F A2 | z2 A | c2 A | F G A |"C" G3 | %40
+w: ||One|day at a|time|sweet|Je- sus|that's|all I'm|ask- ing from|you|
+w: |||||||||||
+ z2 G | G A3/2 G/ |"G" B2 B |"G7" B B A | G2 G | A G3/2 F/ |"C" E2 C/D/ | E G3/2 A/ | G2 c | %49
+w: Just|give me the|strength to|do ev- ry|day what|I have to|do * *||* For|
+w: |||||||||
+"C7" c d c |"F" c3 | z2 A | F A2 | z2 A/A/ | c c A |"Dm" F G A |"C" G3 | z3 | z2 G | G A3/2 G/ | %60
+w: yes- ter- day's|gone|sweet|Je- sus|and to-|mor- row may|nev- er be|mine||Lord|help me to-|
+w: |||||||||||
+"G7" B3 | B B3/2 A/ | G2 G | F E3/2 D/ |"C" C G G |"F" A c d |"C" c3 |] %67
+w: day,|show me the|way one|day at a|time. * *|||
+w: |||||||
+

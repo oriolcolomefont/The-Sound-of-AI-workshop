@@ -1,0 +1,67 @@
+X:1
+T:Counting stars
+C:Ryan Tedder
+Z:All Rights Reserved
+L:1/8
+Q:1/4=105
+M:4/4
+K:E
+V:1 treble nm="Piano"
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG/A/- AGFE |"A" G2 C2 E3 C |"C#m" F2 G2 B2 G2 | %5
+w: Late- ly, I've been,|I've been los- ing sleep, *|dream- ing a- bout * the things that|we could be. But|ba- by, I've been,|
+"E" FG F/EG/- G4 |"B" z F FG AG F<E |"A" GFFE EC z2 | z2 z A, GFFE- | E2 z z/ E/- E<C- C2 || %10
+w: I've been pray- in' hard, *|said no more count- ing dol- lars,|we'll be count- ing stars. *|Yeah, we'll be count- ing|* stars. * * *|
+[Q:1/4=120]"C#m" CECE CECE |"E" B,EB,E B,EB,E |"B" B,DB,D B,DB,D |"A" A,CA,C A,CA,C || %14
+w: ||||
+"C#m" G6 B>G |"E" F6 B>G |"B" F6 B>G |"A" F4 GGGG ||"C#m" G3 G/F/ G/G/ z/ G/- G2 | %19
+w: |||* * I see this|life like a swing- ing vine, *|
+"E" GG G>G BB/F/- F2 |"B" GFEC GF F2 |"A" z G/F/ EC GF F2 |"C#m" G3 G/F/ G/G/ z/ G/- G2 | %23
+w: swing my heart a- cross the line, *|in my face is flash- ing signs,|seek it out and you shall find.|Oh, but I'm not that old, *|
+"E" G2 G>G BB/F/- F2 |"B" GFEC GF F2 |"A" z G/F/ EC GF F2 ||"C#m" z C3 CE c2 |"E" B2 F2 EF G2 | %28
+w: young, but I'm not that bold, *|I don't think the world is sold,|I'm just do- ing what we're told.|I * * *|* feel some- thing so|
+"B" F2 z2 DCDE- |"A" E C3 z4 |"C#m" z C3 CE c2 |"E" B2 F2 EF G2 |"B" F2 z2 DCDE- |"A" E C2 z z4 | %34
+w: right do- ing the wrong|* things.|I * * *|* feel some- thing so|wrong do- ing the right|* things.|
+ z A, C2 CB, C2 | CB, C2 CB, A,2 | z4 c2 B2 | F2 E2 F2 G2 | FE CB,/C/- C4 ||"C#m" F2 G2 B2 G2 | %40
+w: I could lie, * could|lie, * could lie. * *|Ev- 'ry-|thing that kills me|makes me feel a- live. *|Late- ly, I've been,|
+"E" FG F/EG/- G4 |"B" z F FG/A/- AGFE |"A" G2 C2 E3 C |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 | %45
+w: I've been lo- sing sleep, *|dream- ing a- bout * the things that|we could be. But|ba- by, I've been,|I've been pray- in' hard, *|
+"B" z F FG AG F<E |"A" GFFC E4 |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG/A/- AGFE | %50
+w: said no more count- ing dol- lars,|we'll be count- ing stars.|Late- ly, I've been,|I've been los- ing sleep, *|dream- ing a- bout * the things that|
+"A" G2 C2 E3 C |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG AG F<E |"A" GF E z GFFE | E4 z4 || %56
+w: we could be. But|ba- by, I've been,|I've been pray- in' hard, *|said no more count- ing dol- lars,|we'll be (ooh)- we'll be count- ing|stars.|
+"C#m" G6 B>G |"E" F6 B>G |"B" F6 B>G |"A" F4 GGGG |"C#m" G3 G/F/ G/G/ z/ G/- G2 | %61
+w: |||* * I feel the|Love and I feel it burn. *|
+"E" GG G>G BB/F/- F2 |"B" GFEC GF F2 |"A" z G/F/ EC GF F2 |"C#m" G3 G/F/ G/G/ z/ G/- G2 | %65
+w: Down the ri- ver, ev- 'ry turn, *|hope is a four- let- ter word|make that mo- ney, watch it burn.|Oh, but I'm not that old, *|
+"E" G2 G>G BB/F/- F2 |"B" GFEC GF F2 |"A" z G/G/ EC GF F2 |"C#m" z C3 CE c2 |"E" B2 F2 EF G2 | %70
+w: young, but I'm not that bold, *|I don't think the world is sold,|I'm just do- ing what we're told.|I * * *|* feel some- thing so|
+"B" F2 z2 DCDE- |"A" E C3 z4 |"C#m" z C3 CE c2 |"E" B2 F2 EF G2 |"B" F2 z2 DCDE- |"A" E C2 z z4 | %76
+w: right do- ing the wrong|* things.|I * * *|* feel some- thing so|wrong do- ing the right|* things.~things.|
+ z A, CB, CB, C2 | CB, C2 CB, z2 | z4 c2 B2 | F2 E2 F2 G2 | FE CB,/C/- C4 ||"C#m" F2 G2 B2 G2 | %82
+w: I could * lie, * could|lie, * could lie. *|Ev- 'ry-|thing that kills me|makes me feel a- live. *|Late- ly, I've been,|
+"E" FG F/EG/- G4 |"B" z F FG/A/- AGFE |"A" G2 C2 E3 C |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 | %87
+w: I've been lo- sing sleep, *|dream- ing a- bout * the things that|we could be. But|ba- by, I've been,|I've been pray- in' hard, *|
+"B" z F FG AG F<E |"A" GFFC E4 |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG/A/- AGFE | %92
+w: said no more count- ing dol- lars,|we'll be count- ing stars.|Late- ly, I've been,|I've been los- ing sleep, *|dream- ing a- bout * the things that|
+"A" G2 C2 E3 C |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG AG F<E |"A" GF E z GFFE | E4 z4 | %98
+w: we could be. But|ba- by, I've been,|I've been pray- in' hard, *|said no more count- ing dol- lars,|we'll be (ooh)- we'll be count- ing|stars.|
+ z8 ||"C#/E" ED C/B,/ z ED C2 |"E" ED/D/ C/B,/ z/ B,/ E/D/D C z |"C#/E" ED C/B,/ z ED C2 | %102
+w: |Take that mo- ney! Watch it burn!|Sink in the ri- ver the les- sons are learnt.|Take that mo- ney! Watch it burn!|
+"E" ED/D/ C/B,/ z/ B,/ E/D/D C z |"C#/E" ED C/B,/ z ED C2 |"E" ED/D/ C/B,/ z/ B,/ E/D/D C z | %105
+w: Sink in the ri- ver the les- sons are learnt.|Take that mo- ney! Watch it burn!|Sink in the ri- ver the les- sons are learnt.|
+"A" c2 B2 F2 E2 |"F#m" F2 G2 z4 | GF CB,/C/- C4 ||"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 | %110
+w: Ev- 'ry- thing that|kills me|makes me feel a- live. *|Late- ly, I've been,|I've been lo- sing sleep, *|
+"B" z F FG/A/- AGFE |"A" G2 C2 E3 C |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG AG F<E | %115
+w: dream- ing a- bout * the things that|we could be. But|ba- by, I've been,|I've been pray- in' hard, *|said no more count- ing dol- lars,|
+"A" GFFC E4 |"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG/A/- AGFE |"A" G2 C2 E3 C | %120
+w: we'll be count- ing stars.|Late- ly, I've been,|I've been lo- sing sleep, *|dream- ing a- bout * the things that|we could be. But|
+"C#m" F2 G2 B2 G2 |"E" FG F/EG/- G4 |"B" z F FG AG F<E |"A" GF E z GFFE |"C#/E" ED C/B,/ z ED C2 | %125
+w: ba- by, I've been,|I've been pray- in' hard, *|said no more count- ing dol- lars,|we'll be (ooh)- we'll be count- ing|Take that mo- ney! Watch it burn!|
+"E" ED/D/ C/B,/ z/ B,/ E/D/D C z |"C#/E" ED C/B,/ z ED C2 |"E" ED/D/ C/B,/ z/ B,/ E/D/D C z | %128
+w: Sink in the ri- ver the les- sons are learnt.|Take that mo- ney! Watch it burn!|Sink in the ri- ver the les- sons are learnt.|
+"C#/E" ED C/B,/ z ED C2 |"E" ED/D/ C/B,/ z/ B,/ E/D/D C z |] %130
+w: Take that mo- ney! Watch it burn!|Sink in the ri- ver the les- sons are learnt.|
+

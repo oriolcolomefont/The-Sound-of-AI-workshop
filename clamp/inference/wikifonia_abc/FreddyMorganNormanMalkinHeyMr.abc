@@ -1,0 +1,27 @@
+X:1
+T:Hey, Mr. Banjo
+T:Hey, Mr. Banjo
+T:Freddy Morgan & Norman Malkin
+C:Freddy Morgan & Norman Malkin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" C4 E2 G2 |"F" F3 A- A4 |"C" G2 c2"G7" B2 d2 |"C" c8 | C4 E2 G2 |"F" F3 A- A3 A | %6
+w: 1....Hey Mis- ter|Ban- jo *|play a tune for|me.|Play Mis- ter|Ban- jo, * A|
+w: 2....Hey Mis- ter|Ban- jo *|plunk a- noth- er|tune.|Hurry Mis- ter|Ban- jo, * the|
+w: 3....Hey Mis- ter|Ban- jo *|play us just one|more.|Play Mis- ter|Ban- jo * just|
+"C" G2 c2"G7" B2 d2 |"C" c6 cd | e2 c2 c2 Bc |"E7" d B2 B- B4 |"Am" c2 A2 A>A^G>A |"G" B G2 G- G4 | %12
+w: hap- py mel- o-|dy. We'll all|clap our hands and we'll|stamp our feet, *|You keep strum- min' while we|keep the beat. *|
+w: night ends all too|soon. Make your|ban- jo talk while we|dance and sing, *|Do a fancy walk while you|pluck the strings. *|
+w: like you did be-|fore. When the|stars are high and the|moon is low, *|Keep on strum- min' on your|old ban- jo *|
+"C" C4 E2 G2 |"F" F3 A- A3 A |"C" G2 c2"G7" B2 d2 |"C" c8 :| %16
+w: Play, Mis- ter|Ban- jo, * a|pret- ty mel- o-|dy.|
+w: Hey, Mis- ter|Ban- jo * *|plunk a tune for|me.|
+w: Hey, Mis- ter|Ban- jo, * *|play a tune for|me.|
+

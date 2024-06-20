@@ -1,0 +1,15 @@
+X:1
+T:Hobo's Lullaby
+C:George Frederick Root
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+"D" A,3 A, FF ED |"G" DB,- B,4 z2 |"D" A,2 A,2 GG FE | F6 z2 | z A, A,2 FF GF |"G" EB,- B,4 z B, | %6
+w: Go to sleep you wea- ry|ho- bo, _|Let the town drift slow- ly|by,|Lis- ten to the steel rails|hum- ming, _ Well,|
+"A7" C2 B,2 A,G FE |"D" D6 z2 |] %8
+w: that's the ho- bo's lul- la-|by|
+

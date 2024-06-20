@@ -1,0 +1,37 @@
+X:1
+T:What Child is This?
+T:What Child Is This?
+T:traditional
+T:William Chatterton Dix
+T:Ardee Music Publishing Inc, 1981
+C:traditional
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Very gently, but not dragging" F | (G>F)E (^D>^C)D | E2 E E2"^Verses:" E |:"Em" G2 A (B>^c)B | %4
+w: ||* * * 1.~What|Child is this, _ who|
+w: ||* * * (2.~Why)|lies He in _ such|
+w: ||* * * (3.~So)|bring Him in _ cense,|
+"D" A2 F (D>E)F |"Em" G2 E (E>D)E |"Bm" (F2 D) B,2 E |"Em" G2 A (B>^c)B |"D" A2 F (D>E)F | %9
+w: laid to rest, _ On|Ma- ry's lap _ is|sleep- * ing? Whom|an- gels greet _ with|an- thems sweet _ While|
+w: mean es- tate, _ Where|ox and ass _ are|feed- * ing? Good|Christ- ian, fear _ for|sin- ners here, _ The|
+w: gold and myrrh; _ Come,|peas- ant king _ to|own _ him. The|King of Kings _ sal-|va- tion brings, _ Let|
+"Em" (G>F)E"B" (^D>^C)D |"Em" E3 E2 z ||"G""^Refrain:" d3 (d>^c)B |"D" A2 F"Bm" (D>E)F | %13
+w: shep- * herds watch _ are|keep- ing?|This, this _ is|Christ the King, _ Whom|
+w: si- * lent Word _ is|plead- ing.|||
+w: lo- * ving hearts _ en-|throne Him.|||
+"Em" G2 E (E>D)E |"Bm" F2 D B,2 z |"G" d3 (d>^c)B |"D" A2 F"Bm" (D>E)F | %17
+w: shep- herds guard _ and|an- gels sing.|Haste, haste _ to|bring Him laud, _ the|
+w: ||||
+w: ||||
+"Em" (G>F)E"B7" (^D>^C)D |1,2"Em" E3 E2 E :|3"Em" E3 E2 z |] %20
+w: Babe, _ the Son _ of|Ma- ry. 2.~Why|Ma- ry.|
+w: |* * 3.~So||
+w: |||
+

@@ -1,0 +1,33 @@
+X:1
+T:Back Home In Tennessee (1915)
+T:Back Home In Tennessee (1915)
+T:Just Try To Picture Me
+T:Walter Donaldson
+T:William Jerome
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B/>=A/ |"Bb7" A F2 B/>=A/ | A F2 B/>=A/ | A B c d |"Eb" e2- e/ z/ z | z"^tacet" G B G |: %6
+w: |||||Back Home In|
+"Eb" F/ z/ E E2- |"Eb6" E G"C7" B A |"Fm" G/ z/ F F2- |"F7" F c d e |"Bb7" d A A2- | %11
+w: Ten- nes- see|* Just try to|pic- ture me|* Right on my|mo- ther's knee,|
+ A B"Bb+7" c d |"Eb" c G G2- | G G"Bb7" A"Gbdim" =A |"Eb" B B2"Gbdim" =A |"Eb7" B2- B G/G/ | %16
+w: * She thinks the|world of me,|* All I can|think of to-|night * Is a|
+"Ab" F E"Abm" E F |"Eb" G2-"C7" G G |"F7" =A A G/ F3/2 | =A A G/ F3/2 | c"E7" =B"F7" c d | %21
+w: field of snow- y|white; * *|Ban- jos ring- ing,|dark- ies sing- ing,|All this world seems|
+"Bb7" B"^tacet" G B G |"Eb" F/ z/ E E2- | E G"C7" B A |"Fm" G/ z/ F F2- |"F7" F c d e | %26
+w: bright. The ros- es|round the door|* Makes me love|Moth- er more|* I'll see my|
+"Bb7" d A A2- | A B c"Bb+7" d |"Eb" c G G2- | G G"Bb7" A"Gbdim" =A |"Eb7" c B2"Gbdim" =A | %31
+w: sweet- heart, Flo|* and friends I|used to know,|* Why, they'll be|right there to|
+"Eb7" c B2 =A/B/ |"Ab" d c"Abdim" =B"Ab" c |"F7" d c2"Gdim" B/>=A/ |"Bb7" A F2 B/>=A/ | %35
+w: meet me, Just im-|ag- ine how they'll|greet me, When I|get back, When I|
+ A F2 B/>=A/ |1 A B c d ||"Eb" e"^tacet" G B G :|2"Eb" e2 e/ z/ z |] %39
+w: get back to my|home in Ten- nes-|see. Back home in|see.- *|
+

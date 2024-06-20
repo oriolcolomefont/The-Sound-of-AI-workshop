@@ -1,0 +1,26 @@
+X:1
+T:All of Me Intro
+T:All of Me Intro
+T:©
+C:Seymour Simons
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Eb6" z8"Gbdim7" |"Fm7""Bb7" z8 |"Eb6""Gbdim7" z8 |"Fm7""Bb7" z8 | z"Eb" BBB"Edim7" B _d2 c | %5
+w: ||||You took my kiss es and|
+"Bb7/F" BfdB- B4 |"Eb/G" z eee"Gbdim7" f2 e2 |"Fm7""Bb7" B8 |"Eb/G" BBB"Ebm/Gb"B- B c2 B | %9
+w: you took my love _|You taught me how to|care|Am I to be _ just the|
+"Bb/F" f2 dB-"Gm7" B3 G |"Cm7" eGBd-"F7" d2 d2 |"Bb7sus4""Bb7" B8 | %12
+w: rem nant of _ a|one sid ed love _ af|fair?|
+"F9/A" g2 f2"Abm6" e2"Abdim7" d2 |"Eb/G" f2 e2"Gbdim7" d3 c |"Fm" e2 d2"C/E" c2"Edim7" B2 | %15
+w: All you took, I|glad ly gave, There's|noth ing left for|
+"Cb7" _d2 _c2"Bb7""Bb+7" B4 | z8 |] %17
+w: me to save.||
+

@@ -1,0 +1,45 @@
+X:1
+T:Everything's Coming Up Roses
+T:EVERYTHING'S COMING UP ROSES
+C:Jule Styne
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"^Fast Tempo" B3 c |:"Dm7" A4- |"G+7" A B2 c |"C6" A4- | A B2 c |"Dm7" A A A c- | c A2"G7" E | %7
+w: Things look|swell,|_ Things look|great,|_ Gon- na|have the whole world|_ on a|
+w: |decks,|_ Clear the|tracks,|_ We got|noth- ing to do|_ but re-|
+"C" A4- | A"B+7" G2"B7" ^F |"Em" G4- |"C7" G E2 C |"Fmaj7" E4- | E C2 E |"C" (3:2:2A4 G2- | %14
+w: plate.|_ Start- ing|here,|_ Start- ing|now,|_ Hon- ey,|Ev- 'ry-|
+w: lax.|_ Blow a|kiss,|_ Take a|bow,|_ Hon- ey,|Ev- 'ry-|
+ (3:2:2G2 A4 |"Em" (3:2:2G4 A2- | (3:2:2A2 G4 |"Dm7" A2"G7" G2- |1 G4 | z4 | z"Ebdim7" B2 c :|2 %21
+w: * thing's|Com- ing|_ Up|Ros- es!|_||Clear the|
+w: * thing's|Com- ing|_ Up|Ros- es!|_|||
+ G4 || z4 | z4 |"Dm7" C3"G7" D- | D4 |"Cmaj7" D3"C6" E- | E4 |"Dm7" z F2 E |"G9" F E F G- | %30
+w: _|||Now's our|_|inn- ing,|_|Stand the|world on its ear!|
+w: |||||||||
+"C" G4- | G3 z |"F#m7b5" E3"B7" ^F- | ^F4 |"Em" ^F3 G- | G4 |"Am7" (3E2 D2 E2 |"D7" (3^F2 G2 A2 | %38
+w: _||Set it|_|spin- ning,|_|That 'll be|just the be-|
+w: ||||||||
+"F#" ^A3"G7" B- | B"Ebdim7" B2 c |"Dm7" A4- | A"G+7" B2 c |"C6" A4- | A B2 c |"Dm7" A A A c- | %45
+w: gin- ning!|_ Cur- tain|up,|_ Light the|lights,|_ We got|noth- ing to hit|
+w: |||||||
+ c A2"G7" E |"C6" A4- |"B+7" A G2"B7" ^F |"Em" G4- |"C7" G E2 C |"Fmaj7" E4- | E"Fm6" G2 F | %52
+w: _ but the|heights!|_ We'll be|swell,|_ We'll be|great!|_ I can|
+w: |||||||
+"Em7" G4- |"Am7" G E2 C |"D9" E4- | E3"G7" D |"C" C2"G7" D2 |"Am7" E2"Fm" F2 |"C" G2 A2 | B2 c2 | %60
+w: tell,|_ Just you|wait!|_ That|luck- y|star I|talk a-|bout is|
+w: ||||||||
+"D7""C#7b5" d4- | d2-"D9" d2- |"C#7b5" d3"D9" z | z c2 B |"C" (3:2:2A4 (G2 | (3:2:2G2) A4 | %66
+w: due!|_ _||Hon- ey,|Ev- 'ry-|* thing's|
+w: ||||||
+"Em" (3:2:2G4 A2- | (3:2:2A2 G4 |"Dm7" (3:2:2A4 G2- | (3:2:2G2 A4 |"G7" (3:2:2G4"Dm7" A2- | %71
+w: Com- ing|_ Up|Ros- es|_ for|me and|
+w: |||||
+ (3:2:2A2"G7" G4 |"C" c4- | c z z2 |] %74
+w: _ for|you.|_|
+w: |||
+

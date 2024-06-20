@@ -1,0 +1,32 @@
+X:1
+T:All My Loving - VERSION 2
+T:All My Loving
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ e d |"Cm" c G3 |"G+" G F E E |"Eb" E4- | z2 A G |:"Fm" F2 G A |"B7" B c2 d |"Eb" e2 e d | %8
+w: ||||||||
+w: ||||Close your|eyes and I'll|kiss you, To-|mor- row I'll|
+w: |||||tend that I'm|kiss- ing the|lips I am|
+"Cm" c G2 c |"Ab" c2 c B |"Fm" A2 F E |"Db" F4- | F2 A G |"Fm" F2 G A |"B7" B2 c d |"Eb" e2 e d | %16
+w: ||||||||
+w: miss you, re-|mem- ber I'll|al- ways be|true.|* And then|while I'm a-|way I'll write|home ev- ry|
+w: miss- ing and|hope that my|dreams will come||||||
+"Cm" (c G2) c/ c/ |"Ab" c2 c B |"B7" A G2 F |"Eb" E4- |1 E2 A G :|2 E z e d ||"Cm" c G3 | %23
+w: |||||||
+w: day * and I'll|send ALL MY|LOV- ING to|you.|* I'll pre-|* ALL MY|LOV- ING|
+w: |||||||
+"G+" G F E F |"Eb" G4- | G z e d |"Cm" c G3 |"G+" G F E E |"Eb" E4- | E2 | %30
+w: |||||||
+w: I will send to|you.|* ALL MY|LOV- ING,|dar- ling, I'll be|true.||
+w: |||||||
+

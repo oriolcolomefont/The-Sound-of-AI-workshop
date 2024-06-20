@@ -1,0 +1,48 @@
+X:1
+T:Woman In Love
+T:Woman In Love
+C:Robin Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Gb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|: z"Ebm" BBB"Abm" AGFE- |"Ebm" E2 z G/G/"Abm" F2 DB,- |"Cbmaj7" B,2 z E/E/"Db7" DEDB,- | %3
+w: Life is a mo- ment in space.|_ When the dream is gone|_ it's a lone- li- er place.|
+w: With you e- ter- nal- ly mine,|_ in _ love there is|_ no _ mea- sure of time.|
+"Gb" B,6 z2 |"Dbm" z _FFF FAGE- |"Cb" E2 z3/2 E/ E"Ebm7"F z"Abm7" G- | GGGG GBAF- |"Bb7" F6 z2 | %8
+w: _|I kiss the morn- ing good- bye,|_ but, down in- side|_ you know we nev- er know why.|_|
+w: _|We planned it all at the start,|_ that you and I|_ _ live in each oth- ers heart.|_|
+"Ebm" z BBB"Abm" AGFE- |"Ebm" E2 z G"Abm" F2 DB,- |"Cbmaj7" B,2 z E/E/"Db7" DEDB,- |"Gb" B,6 z2 | %12
+w: The road is nar- row and long|_ when eyes meet eyes|_ and the feel- ing is strong.|_|
+w: We may be oc- eans a- way|_ you feel my love|_ I _ hear what you say.|_|
+"Dbm" z AAA ABcB- |"Gb" B/A/G z G"Cb" ABcB- |"Gb" B/A/G z G/G/"Cb" ABcB- |"Bb7" B8 | %16
+w: I turn a- way from the wall,|_ _ _ I stum- ble and fall|_ _ _ but I give you it all|_|
+w: The truth is ev- er a lie|_ _ _ I stum- ble and fall|_ _ _ but I give you it all|_|
+"Ebm" z EEE"Bb" =DEFG- |"Ebm" G z z G/G/"Bb" FGFE- |"Ebm" EGGG"Bb" FGAB- |"Ebm" B2 z B"Bb" ABcB- || %20
+w: I am a wo- man in love|_ and I'd do an- y- thing|_ to get you in- to my world|_ and hold you with- in.|
+w: ||||
+[M:2/4]"Ebm" B2 (3z AB ||[M:4/4]"Db" d6- (3dcB |"Abm" c8 | (3c2 B2 c2 (3c2 B2 A2 |"Gb" B8 |1 %25
+w: _ It's a|right _ I de-|fend|ov- er and o- ver a-|gain.|
+w: |||||
+"Ebm" A/B/c B6 || z8 |"Cbmaj7" z8 |"Cbmaj7" z8 :|2"Ebm" A/B/c B6 || z8 |"B9" z8 |[M:2/4] z4 || %33
+w: What do I do?||||What do I do?||||
+w: ||||||||
+[K:G][M:4/4]"Em" z BBB"B" AGAB- |"Em" B2 z B/B/"B" ABAB- |"Em" B G2 G"B" AGAB- | %36
+w: I am a wo- man in love|_ and I'm talk- in' to you.|_ _ I know how you feel,|
+w: |||
+"Em" B2 z B/B/"B" ABcB- ||[M:2/4]"Em" B3 A/B/ ||[M:4/4]"D" d6- (3dcB |"Am" c8 | %40
+w: _ what a wo- man can do.|_ It's a|right * I de-|fend|
+w: ||||
+"Am" (3c2 B2 A2 (3c2 B2 A2 |"B7" B8 |:"Em" z GGG"B" FGAG- |"Em" G2 z B/B/"B" ABAG- | %44
+w: ov- er and o- er a-|gain.|I am a wo- man in love|_ and I'd do a- ny- thing|
+w: ||||
+"Em" GGGG"B" FGAB- |"Em" B3 B"B" ABcB- ||[M:2/4]"Em" B2 (3z AB ||[M:4/4]"D" d6- (3dcB |"Am" c8 | %49
+w: _ to get you in- to my world,|_ and hold you with- in.|_ It's a|right * I de-|fend|
+w: |||||
+ (3c2 B2 A2 (3c2 B2 A2 |"B""^Repeat and Fade" B8 :| %51
+w: o- ver and o- ver a-|gain.|
+w: ||
+

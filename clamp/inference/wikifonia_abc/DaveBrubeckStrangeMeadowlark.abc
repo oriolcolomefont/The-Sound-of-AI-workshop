@@ -1,0 +1,24 @@
+X:1
+T:Strange Meadowlark
+T:Strange Meadowlark
+T:Dave Brubeck
+C:Dave Brubeck
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 z2"Bb9" GA |:"Eb" B2 dB"Ab7#11" f2 ef |"G7" ge"Cm7"fd"F7" ec"Bb7#9"dB |"Eb7#11" c6 e2 | %4
+"Abmaj7" E6"Db7" EF |"G13" G2 BG"C7#11" d2 cd |"Fm7" ec"Bb13"dB"Eb7" c=A"Abmaj7"BG |"Db9" _A8 | %8
+"Cm7" z2 GF"F7" E2 G2 |1"Bb13" B3 B B3 B |"Bb+7" B3 B B2 GA :|2"Gmaj7" =B3 B"Cmaj7" B3 B | %12
+"D7b9" =B3 B"G6" B3 B ||"C" c2 g2 g2 g2 |"G" ^f2 =e2"G7" d4 |"G7b9" =f2 =e2 d2 c2 |"C" d8 | %17
+"D7b9" =A2 e2 e2 e2 |"G" d2 c2"G7" =B4 |"C" d2 c2"D7b9" =B2 A2 |"G13" G6"D7#11" G2 | %21
+"C" =A2 g2"C#dim" g2 g2 |"G" ^f2 =e2"E7b9" d4 |"F" =f2 =e2"G" d2 c2 |"Am7" d6 G2 | %25
+"Am7b5" =A2 e2"F7#11" e2 e2 |"Bm7" d2 c2"E7" =B4 |"Am7" d2 c2"D7#11" =B2 A2 |"G" G4"Bb9" G2 A2 | %29
+"Eb" B2 dB"Ab7#11" f2 ef |"G7" ge"Cm7"fd"F7" ec"Bb9"dB |"Eb7#11" c6 e2 |"Abmaj7" E6"Db7" EF | %33
+"G13" G2 BG"C7#11" d2 cd |"Fm7" ec"Bb13"dB"Eb7" c=A"Abmaj7"BG |"Db9" _A8 |"Cm7" z2 GF"F7" E2 G2 | %37
+"Bb13" B3 B"Bb+7" B3 B |"Eb9" B2 cB A2 G2 |"Ab" F8- | F2 EC GBBe |"Emaj9" ^d6 =dB |"Ab11" f6 dB | %43
+"Eb" ba ^f6 | bb"Db" =a6 | _a2"C" g6- |"Eb" g4 z4 |] %47
+

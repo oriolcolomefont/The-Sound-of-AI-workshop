@@ -1,0 +1,32 @@
+X:1
+T:Blues Stay Away From Me (Transcribed)
+C:Alton Delmore and Rabon Delmore
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Acoustic Grand Piano" snm="Pno"
+%%MIDI channel 4
+%%MIDI program 0
+V:1
+ z2"^SAX" B2 c2 ^c2 |"Bb " d4 z4 | z B cB d2- (3dBG | B4 z4 | z2 BB cc dd |"Eb " e4 z4 | %6
+w: |Blues,|stay * a\- way * fr- om|me.||Blues,|
+ z B cB d2- (3dBG |"Bb " B4 z4 | z2 d z d z d z |"F7" d c3 z4 | z B cB d2- (3dBG |"Bb " B4 z4 | %12
+w: why don't you let * m\- e|be.|* I don't|kn- ow|why you keep haunt- * in- g|me.|
+ z2 B z c2 ^c2 | d4 z4 | z B cB d2- (3dBG | B4 z4 | z2 BB cc dd |"Eb " e4 z4 | z B cB d2- (3dBG | %19
+w: * * True|love|was ne- ver me- * ant for|me.|* * * * Tr- ue|love|was ne- ver me- * ant for|
+"Bb " B4 z4 | z2 d z d z d z |"F7" d c3 z4 | z B cB d2- (3dBG |"Bb " B B3 z4 | z4"^GUITAR" z2 z d | %25
+w: me.|It seems some-|ho- w|we ne- ver ca- * n a\-|gre- e.||
+ B6 (3ddd | B2 cB dc- (3cBG | B2 B2 d2 f2 | b4 z g (3fff |"Eb " e2(3zff (3fed (3dBc | B4 d4 | %31
+w: ||||||
+"Bb " B4 B2 B2 | f4 d2 d2 |"F7" (3fcf af- f4 | (3ece (3fBc d2 c2 |"Bb " B2 B2 c2 ^c2 | %36
+w: |||||
+ d2"^SAX" B2 c2 ^c2 | d4 z4 | z B cB d2- (3dcG | B4 z4 | z2 BB cc dd |"Eb " e4 z4 | %42
+w: * * * My|life|is full of mi- * se- \-|ry.|* * * * An- d|dreams|
+ z B cB d2- (3dcG |"Bb " B4 z4 | z2 d z d z dd |"F7" d c3 z4 | z B cB dc (3Bcc |"Bb " B4 z4 | %48
+w: are like a me- * m\- o\-|ry.|They're bring- ing \-|ba- ck|your love that us- ed to- \- \-|be.|
+ z2 B2 c2 ^c2 | d4 z4 | z B cB d2- (3dBG | B B3 z4 | z2 BB cc dd |"Eb " e4 z4 | z B cB d2- (3dBG | %55
+w: * * Tear-|drops,|so ma- ny I * ca- n't|se- e.|* * * * An- d|years|don't mean a thi- * ng to|
+"Bb " B B3 z4 | z2 d z d z d z |"F7" d c3 z4 | z B cB dc B/c/(3B/F/G/ |"Bb " B2 FF =EE _EE | D8 |] %61
+w: m\- e.|But time goes|b\- y|and still I can't be * * * * *|free. * * * * * *||
+

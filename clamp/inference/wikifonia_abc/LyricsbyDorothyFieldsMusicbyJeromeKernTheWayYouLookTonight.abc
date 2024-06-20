@@ -1,0 +1,41 @@
+X:1
+T:The Way You Look Tonight
+C:Lyrics by Dorothy Fields, Music by Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Eb6" B4 |"Cm7" E4 |"Fm7" F G A G |"Bb7" F4 |"Gm7" G A B A |"C7b9" G4 |"Fm7" A B c B | %7
+w: Some|day|when I'm aw- f'ly|low,|when the world is|cold,|I will feel a|
+w: love-|ly|with your smile so|warm|and your cheek so|soft;|there is noth- ing|
+"Bb7" A B c d |"Eb7" e4 | E4 |"Ab" F G"Fm7" B A |"Bb" G2"Bb7" F2 |"Eb""Cm7" E4- | %13
+w: glow just think- ing|of|you|and The Way You|Look To-|night.|
+w: for me but to|love|you,|just The Way You|Look To-|night.|
+"Fm7" E z"Bb7" z2 |1"Eb""Gbdim7" z4 |"Fm7" z C"Bb7" D F :|2"Eb""Gbdim7" z4 ||"Fm7""Bb7" z4 | %18
+w: ||Oh, but you're|||
+w: |||||
+"Gbmaj7" B2 B2 |"Gdim7" B2 B2 |"Abm7" B _d _c A- |"Db7" A4 |"Gbmaj7" A B _G F- | %23
+w: With each|word your|ten- der- ness grows,||tear- ing my fear|
+w: |||||
+"Bbm7" F2"Adim7" _G2 |"Abm7" e4- |"Db7" e3 z |"Gbmaj9" _d2 d2 |"Gdim7" _d2 d2 |"Abm7" _d e _c B- | %29
+w: * a-|part,||and that|langh that|wrink- les your nose|
+w: ||||||
+"Db9" B4 |"Gbmaj7" A B2 _G |"Ebm7" F2"Cm7b5" _G2 |"Fm7" B4- |"Bb7" B3 z |"Eb6" B4 |"Cm7" E4 | %36
+w: |touch- es my|fool- ish|heart.||Love-|ly,|
+w: |||||||
+"Fm7" F G A G |"Bb9" F4 |"Gm7" G A B A |"C7b9" G4 |"Fm7" A B c B |"Bb7" A B c d |"Eb7" e4 | E4 | %44
+w: nev- er, nev- er|change,|keep that breath- less|charm,|won't you please ar-|range it. 'Cause I|love|you,|
+w: ||||||||
+"Ab" F G"Fm7" B A |"Bb" G2"Bb7" F2 |"Eb" E (B"Cm7" c2) |"Fm9" z (g"Bb9" f2) | %48
+w: just The Way You|Look To-|night. Mm *|mm *|
+w: ||||
+"Ebmaj7" z (d"Cm7" c2) |"Fm7" z (G"Bb7" F2) |"Ab6" F"G" G"Edim7" B"Fm" A |"Bb" G2"Bb7" F2 | %52
+w: mm, *|mm, *|just The way You|look To-|
+w: ||||
+"Eb6" E4- | E2 z2 |] %54
+w: night.||
+w: ||
+

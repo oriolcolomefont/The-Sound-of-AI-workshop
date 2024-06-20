@@ -1,0 +1,31 @@
+X:1
+T:I GET IDEAS (When I Dance With You)
+T:I GET IDEAS (When I Dance With You)
+T:Adios Muchachos
+T:Julius Cesar Sanders
+T:Dorcas Cochran
+C:Julius Cesar Sanders
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" e d2 c"Fm" _A2 F2 |"C" d c2 G"Ebdim" ^FGBA |"Dm7" G F2 A"G7" E2 G2 |"C" c4 z GGG || %4
+w: |||* When we are|
+"C" eccc"E7" dBBB |"F" c2 A2 z ddc |"G7" c2 B2 z ccB |"C" A2 G2 z G^FG | cG^FG BGFG | %9
+w: danc- ing and you're dan- ger- ous- ly|near me, I GET I-|DE- AS I get i|de as I wan- na|hold you so much clo- er than I|
+"G7" A2 F2 z G^FG | BG^FG A=FEF |"C" G2 E2 z GGG | eccc"E7" dBBB |"F" c2 A2 z ddc | %14
+w: dare to, I wan- youna|scold you 'cause I care more than I|care to. And when you|touch me and there's fire in ev 'ry|fin- ger, I get i-|
+"G7" c2 B2 z ccB |"C" A2 G2 z G^FG |"C7" cGGF"Dm7b5" FEDC |"Fm" G2 F2 z _AFD | %18
+w: de- as I get i|de- as, And af- ter|we have kissed good- night and still you|lin- ger, I kind- a|
+"C" DCB,C"D7" E2"G7" D2 |"C" C2 z"^Tacet" E FE^DE |"E7" c B2 E FE^DE | %21
+w: think you get i- de- as|too. Your eyes are al- ways|say- ing the things you're nev- er|
+"Am" B A2 G"F7b5" AG"Ebdim"^FG |"G7" c B2 G ABcd |"C" e2 z c"C7" dcBc |"F" e d2 c"Fm" _A2 F2 | %25
+w: say- ing, I on- ly hope they're|say- ing that you could love me,|too. For that's the whole i-|de- a it's true, the|
+"C" d c2 G"Ebdim" ^FGBA |"Dm7" G F2 A"G7" E2 G2 |"C""G7" c4"C" z4 |] %28
+w: love- ly i- de- a that I've|fall- en in love with|you.|
+

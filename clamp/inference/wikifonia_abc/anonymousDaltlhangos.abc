@@ -1,0 +1,22 @@
+X:1
+T:Daltól hangos
+T: 
+C:anonymous
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" G G c G |"Fm" A/G/F/A/"Cm" G F |"G" E/D/E/F/ G G |"Cm" C2 C z ::"Cm" c d c B | %5
+w: Dal- tól han- gos|er- dõ, me- zõ, be- rek,|mer- re já- runk mi, cser-|ké- szek.|A- ki da- lol,|
+w: Dal- ol a szív,|mu- zsi- kál a lé- lek,|ve- le da- lol a ter-|mé- szet.||
+"Fm" A/G/F/A/"Cm" G z |"Cm" c d c B |"Fm" A/G/F/A/"Cm" G z |"Cm" G/G/=A/=B/ c G | %9
+w: so- se fá- rad el,|a- ki fel- néz,|so- se csüg- ged el,|Mert a dalt aj- kunk- ra|
+w: ||||
+"Fm" A/G/F/A/"Cm" G F |"G" E/D/E/F/ G G |"Cm" C2 C z :| %12
+w: a Jó- is- ten ad- ja,|õ ad er- õt a nagy|harc- ra.|
+w: |||
+

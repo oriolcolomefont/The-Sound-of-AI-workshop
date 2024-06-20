@@ -1,0 +1,26 @@
+X:1
+T:A MOTHER AS LOVELY AS YOU
+T:A MOTHER AS LOVELY AS YOU
+T:Maori folk melody "Hoea Ra"
+T:David Smith & Harry Connelly
+C:David Smith & Harry Connelly
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" D2 G | G2 D |"C" F2 E |"E7""Am" E3 |"D7" F2"Am7" E |"D9""Am7" E2"D7" F |"G6" E2 D | %7
+w: Since I|left your|ten- der|care,|Though I've|tra- vell'd|ev- 'ry-|
+"Ddim""D7" D3 |"G" D2 G | G2 D |"C" F2 E |"E7""Am" E2 E |"D7" F F"Am7" E |"D7" F"Am7" G"D7" A | %14
+w: where;|In this|world I|ne- ver|knew, A|mo- ther as|love- ly as|
+"G""Gsus4" G3- |"G" G z"Gsus4" z |"G" B2"Gsus4" A |"G" G2 D |"C" F2 E |"E7" E3 |"Am" c2 B | A2 E | %22
+w: you||You are|still as|sweet to|see,|As you|al- ways|
+"Am7" G2"D7" F |"D9""D7" F3 |"G" B2"Gsus4" A |"G" G2 D |"C" F2 E |"E7""Am" E2 E |"D7" F F"Am7" E | %29
+w: used to|be;|God was|kind in|giv- ing|me, A|mo- ther as|
+"D7" F"Am7" G"D7" A |"G""Am7""D7" G3- |"G" G2 z |] %32
+w: love- ly as|you.-||
+

@@ -1,0 +1,24 @@
+X:1
+T:Full Moon And Empty Arms
+T:Full Moon And Empty Arms
+C:Buddy Kaye, Ted Mossman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" z G c2- |"Gm7b5" c _B G F |"C""G7" G4- |"C" G E F"C" E |"Ab" _A G"C" F E |"Dm7" G F"G7" E D | %6
+w: Full moon|* and emp- ty|arms|* The moon is|there for us to|share but where are|
+"C""G7" G4- |"C" G C D ^D |"E7" E4- |"Am" E C"Fm" E F |"G7" G F"C" E2- | E E"Em" ^F G | %12
+w: you?|* A night like|this|* could weave a|mem- o- ry|* And ev- 'ry|
+"Am""Am7" A4- |"D7" A A B c |"^D m7/G" d3 F |"G9" A4 |"C" z G c2- |"Gm7b5" c _B G F |"C""G7" G4- | %19
+w: kiss|* could start a|dream for|two.|Full moon|* and emp- ty|arms|
+"C" G E F E |"^CAb" _A G"C" F E |"Dm7" G F"G7" E D |"C""Dm""G7" G4- |"C" G C D ^D |"E7" E4- | %25
+w: * To- night I'll|use the ma- gic|moon to wish up-|on.|* And next full|moon,|
+"Am" E C"Fm" E F |"G7" G F"C" E2- |"Cmaj7" E G c"Dm" d |"E7" e f3- |"F" f e"Dm7" c"G7" d |1 %30
+w: * if my one|wish comes true|* my emp- ty|arms will|* be filled with|
+"C""Dm9""Dm7""G7" c4 :|2"C" c4 |] %32
+w: you.|you.|
+

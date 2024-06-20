@@ -1,0 +1,26 @@
+X:1
+T:Ain't  Misbehavin'
+T:AIN'T MISBEHAVIN'
+T:Thomas  Waller and Harry Brooks
+T:Andy Razaf
+C:Thomas Waller, Harry  Brooks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" FGFc c3 z |"Gm7" z GAG"C7" d4 |"F" z cdc f f2 e |"Bb" gfdA-"Bbm" A_A G2 |"F" z FGF"Dm" c c3 | %5
+w: No one to talk with,|all by my- self,|No one to walk with, but|I'm hap- py on * the shelf,|Ain't mis- be- hav- in'|
+"Gm7" z GAG"C7" d d2 c |"^1-------""F" A8- |"^----------------""Gm7" A4"C7" z4 :| %8
+w: I'm sav- in' my love for|you||
+"^F 2------------------------" F8- |"Gm7""F" F4 z4 | z"Dm" fdf d3 z |"Bb7" z fdf d3 z | %12
+w: you||Like Jack Hor- ner|in the cor- ner|
+"G7" z fdf d3 z |"D7" z ^fd^f d2 z2 |"C" z2 g2 g2 g2 |"Dm7" g2 f2"G7" e2 d2 |"C7" c4"D7" d4 | %17
+w: don't go no- where,|what do I care,|Your kiss- es|are worth wait- in'|for, be-|
+"G7" A4"C7" G4 |"F" z FGF cc z2 |"Gm7" z GAG"C7" d4 |"F" z cdc f f2 e |"Bbm" gfdA- A_A G2 | %22
+w: lieve me|I don't stay out late,|don't care to go,|I'm home a- bout eight, just|me and my ra- * di- o|
+"F" z FGF"Dm" c c3 |"Gm7" z GAG"C" d d2 c |"F" f8- | f6 z2 |] %26
+w: Ain't mis- be- hav- in'|I'm sav- in' my love for|you.||
+

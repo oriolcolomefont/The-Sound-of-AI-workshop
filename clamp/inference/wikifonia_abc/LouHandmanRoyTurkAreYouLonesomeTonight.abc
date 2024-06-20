@@ -1,0 +1,30 @@
+X:1
+T:Are You Lonesome Tonight?
+T:Are You Lonesome Tonight
+C:Lou Handman
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z G |"B7b5/F" A2 B2 A2 |"C" G2 E3 G |"B7b5/F" A2 B2 A2 |"C" G2 E3 G |"Dm7" F2 G2"Ddim" F2 | %6
+w: To-|night I'm down-|heart- ed, for|though we are|part- ed, I|love you and|
+"G7" E2 D2 E2 |"C" G6- |"G7" G2 z2 G2 |"Am" A2 B2 c2 |"Cm" B2 A3 A |"G/D" B2 c2"G7/F" d2 | %12
+w: I al- ways|will.|_ And|while I'm so|lone- ly, I'm|writ- ing you|
+"E7" c2 B3 B |"Am" c2 d2"Cm" c2 |"C#dim7" B2 B2"D7" B2 |"G" G6- |"G7" G4 EG |:"C" c2 B3 c | B4 EG | %19
+w: on- ly, To|see if you|care for me|still.|_ Are you|lone- some to-|night, Do you|
+ B2 A3 B | A4 EG | A2 G2 A2 |"A7" G2 F3 E |"Dm" A6- | A4 FA |"G7" c2 B3 c | B4 FG | B2 A3 B | %28
+w: miss me to-|night, Are you|sor- ry we|drift- ed a-|part?|_ Does your|mem- o- ry|stray, to a|bright sum- mer|
+ A4 DE | F2 G2 A2 |"G+" c2 B3 A |"C""F""Fm" E6- |"C" E4 GA |"C7" _B2 A2 G2 | c2 A3 c |"F" G2 F3 E | %36
+w: day, when I|kissed you and|called you "sweet-|heart?"|_ Do the|chairs in your|par- lor seem|emp- ty and|
+ F4"Cm" AB |"D7" c2 B2 A2 | d2 B3 d |"G7" A2 G2"F#7" ^F2 |"G7" G4 EG |"C" c2 B3 c | %42
+w: bare? Do you|gaze at your|door- step and|pic- ture me|there? Is your|heart filled with|
+ B4"C7" c"Bbdim"^c |"D7" e2 d3 e | d4 AB |"G7" c2 B3 A | B2 c2 d2 |1"C" c3"D7b9" B A_A | %48
+w: pain, Shall I|come back a-|gain? Tell me,|dear, are you|lone- some to-|night? * * *|
+"G7" G4 EG :|2"C""F""Fm" c6- |"C" !fermata!c4 z2 |] %51
+w: * Are you|night?|_|
+

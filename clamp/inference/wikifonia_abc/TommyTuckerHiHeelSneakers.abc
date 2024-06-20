@@ -1,0 +1,29 @@
+X:1
+T:Hi-Heel Sneakers
+T:Hi-Heal Sneakers
+T:Tommy Tucker
+T:All Rights Reserved
+C:Tommy Tucker
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^80   12 Bar Blues" z c cc |:"C7" _e2 c2 _Bc z2 | z2 _Bc _ecGF | E2 z6 | z4 z ccc | %5
+w: Put on your|red dress, ba- by,|'Cause we're go- in out to-|night.|Put on your|
+w: |hi- heel sneek- ers|Wear your wig- hat on your|head.|Put on your|
+w: |Old Crow li- quor|And my pay- check in my|hand.|I've got my|
+"F7" _e2 c2 _Bc z2 | z2 _Bc _ecGF |"C7" E2 z6 | z4 z2 (GG) |"G7" dddc (B G2) z | %10
+w: red dress, ba- by,|'Cause, we're go- in out to-|night.|And *|bring some box- ing gloves *|
+w: hi- heel sneek- ers.|And your wig- hat on your|head.|Well, I'm|pret ty sure now ba by,|
+w: Old Crow li- quor|And my pay- check in my|hand.|Be- cause|Big John's boot- leg whis- key|
+"F7" z Ac_e cG/G/FD |"C7" E2 z2 z4 | z4 z ccc :| %13
+w: In case some fool might * wan'- na|fight.|Put on your|
+w: 'Cause you know you're gon- na knock 'em|dead.|I've got my|
+w: Costs much much more than * I can|stand.||
+

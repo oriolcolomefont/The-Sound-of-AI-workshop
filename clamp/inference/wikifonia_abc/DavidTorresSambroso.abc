@@ -1,0 +1,24 @@
+X:1
+T:Sambroso
+T:Sambroso
+T:David Torres
+C:David Torres
+Z:All Rights Reserved
+L:1/8
+Q:1/4=160
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"Ebmaj9" d2 ed z GzB- |"Ab13" B8 |"Ebmaj9" d2 ed z GzB- |"C7b9" B8 |"Fm9" G2 AG z CzE- | %5
+"Db13#11" E8 |"Fm9" G2 BG z CzE- |"Ab/Bb" E3 F-"Bb7b9" F4 |1"Ebmaj9" E8- |"B9b5" E8 |"Ebmaj9" z8 | %11
+"B9b5" z8 :|2"Ebmaj9" E8- ||"B9b5" E8 |"Ebmaj9" z8 |"Eb6" z2 z C z DEF ||"Dm7b5" G4- GFzB- | %17
+"G7#5#9" B3 A z BzA |"Cm9" G3 F EFzG- |"Cm6" G8 |"Cm9" G6 z d- |"F13#11" d4- dczG | %22
+"F#m11" =B4-"B7" B3 _B- |"Fm11" B4-"Bb7" B4 ||"Ebmaj9" d2 ed z GzB- |"Ab13" B8 | %26
+"Ebmaj9" d2 ed z GzB- |"C7b9" B8 |"Fm9" G2 AG z CzE- |"Db9#11" E8 |"Fm9" G2 BG z CzE- | %31
+"Ab/Bb" E3 F-"Bb7b9" F4 |"Gm7b5" B8- |"C7b9" B8 |"Fm11" B2 AC z"Ab/Bb" Ezc- | %35
+ c3"E7#9" d- d2"Eb69" ee!fine! |] z8 |"Fm9" z4"Bb7b9" z4!D.C.! |] %38
+

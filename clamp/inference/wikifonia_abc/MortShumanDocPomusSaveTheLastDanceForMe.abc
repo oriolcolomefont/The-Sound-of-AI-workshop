@@ -1,0 +1,36 @@
+X:1
+T:Save The Last Dance For Me
+T:Save The ast Dance For Me
+C:Mort Shuman
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 EF |:"Eb" G2 z2 z2 GG | G2 GG G2 G2 | G2 GG- G2 AG |"Bb7" G2 FF- F4 | z4 z2 FG | %6
+w: You can|dance ev- 'ry|dance with the guy who|gave you the eye let him|hold you tight. _|You can|
+w: |know that the|mus- ic is fine, like|spark- ling wine _ go and|have your fun. _|Laught and|
+"B7" A2 z2 z2 AA | A2 AA- A2 A2 | A2 AA- A2 BA |"Eb" A2 GG- G4 | z2 G2"Bb7" A2"Eb7" B2 | %11
+w: smile ev- 'ry|smile for the man who|held your hand _ 'neath the|pale moon- light. _|But don't for-|
+w: sing but while|we're a- part _ don't|give your heart _ to *|an- y- one. _||
+"Ab" c2 c2 c c2 d | e2 e2 fedc |"Eb" c2 BB- B4 | z4 z2 B2 |"Bb7" B F3- F2 FG | A4 G2 F2 |1 %17
+w: get who's tak- ing you|home and in whose arms you're|gon- na be. _|So|dar- lin', _ save the|last dance for|
+w: ||||||
+"Eb" E8 || z4 z2 EF :|2"Eb" E8 || z2"^(Tacet)" B,B, EECB, |"Bb7" F2 FF- F4 | z2 DD FFDD | %23
+w: me.|Oh I|me.|Ba- by don't you know I|love you so? _|Can't you feel it when we|
+w: ||||||
+"Eb" E2 z2 z4 | z2 B,B, EECB, |"Bb7" F2 FF- F4 | (3z2 B2 B2 (3A2 G2 F2 |"Eb" E2 z2 z4 | %28
+w: touch?|I can nev- er nev- er|let you go. _|I love you, oh, so|much|
+w: |||||
+"Eb" z4 z2 EF |"Eb" G2 z2 z2 GG | G2 GG- G2 GG | G2 GG- G2 AG |"Bb7" G2 FF- F4 | z4 z2 FG | %34
+w: You can|dance, go and|car- ry on _ til the|night is gone _ and it's|time to go. _|If he|
+w: ||||||
+ A2 z2 z2 AA | A2 AA- A2 AA | A2 AA- A2 BA |"Eb" A2 GG- G4 | z2 G2"Bb7" A2"Eb" B2 | %39
+w: asks if you're|all a- lone, _ can he|take you home _ you must|tell him no. _|'Cause don't for-|
+w: |||||
+"Ab" c2 c2 c c2 d | e2 e2 fedc |"Eb" c2 BB- B4 | z4 z2 B2 |"Bb7" B F3- F2 FG | A4 G2 F2 |"Eb" E8 |] %46
+w: get who's tak- ing you|home and in whose arms you're|gon- na be. _|So|dar- lin', _ save the|last dance for|me.|
+w: |||||||
+

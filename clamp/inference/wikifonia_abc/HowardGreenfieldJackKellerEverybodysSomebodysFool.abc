@@ -1,0 +1,34 @@
+X:1
+T:Everybody's Somebody's Fool
+T:Ev-rybody's somebody's fool
+T:Howard Greenfield, JackKeller,
+C:Howard Greenfield, Jack Keller
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z e |:"C" e c c G | G E F G |"F" G F3- | F2"Dm7" z d |"G7" d B B G | G E G F |"C" E4- | %8
+w: The|tears I cried for|you could fill an|o- ean|* but|dont you know how|ma- ny tears I|cry|
+w: I|told my- self its|best that I for-|get you|* though|I'm a fool at|least you know the|score|
+ E2 z e | e c c G | E E F G |"F" B A3- | A2 z c |"C" c G"G" E G |"Dm" F F"G7" E D |"C" C4- | %16
+w: * and|tho you on- ly|lead me on and|hurt me|* I|could nt bring my-|self to say good-|bye|
+w: * but|dar- ling Ild be|tweice as blue with-|out you|* It|hurts but I'd come|run- ning back for|more|
+ C z z2 | z2 z e |"C" e c c G | c3 B/_B/ |"F" A4- |"A7" A3"Dm" z |"G7" d B B G | B3 A/B/ | %24
+w: |Cause|ev- ry- bod- y's|some- bod- y's|fool||Ev- ry bo- dy's|some- bo- dy's|
+w: ||||||||
+"C" A"G" G3- |"C" G2 z e | e c c G | c c"G7" B"C7" _B |"G" A d"C" c2- |"F" c2 z c |"C" c G"G" E G | %31
+w: play- thing|* and|thee are no ex-|cep- tions to the|rule * *|* Yes|ev- ry- bo- dy's|
+w: |||||||
+"Dm" F3"C7" E/D/ |"C" C4- | C2 z e :|"C" C4- | C2 z2 |"C" e c c G | G E F G |"F" G F3- | %39
+w: some- bod- y's|fool|* I|food||day you'll find some-|one to real- ly|care for|
+w: ||||||||
+ F2"Dm7" z d |"G7" d B B G | G E G F |"C" E4- | E2 z e | e c c G | c c"G7" B"C7" _B | %46
+w: * and|if her love to|prove to be un-|true|* You'll|know how much this|hearr of mine is|
+w: |||||||
+"F" A d"C" c2- |"F" c2 z c |"C" c G"G" E G |"Dm" F F"G7" E D |"C" C4- | C z e z!D.S.! |] %52
+w: break- ing *|* you"ll|cry for her the|way I cried for|you|* yes|
+w: ||||||
+

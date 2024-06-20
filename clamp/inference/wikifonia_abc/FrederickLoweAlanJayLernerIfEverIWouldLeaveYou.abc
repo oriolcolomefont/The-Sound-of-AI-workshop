@@ -1,0 +1,38 @@
+X:1
+T:If Ever I Would Leave You
+T:If Ever I Would Leave You
+C:Frederick Lowe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z B, C/D/A,/B,/ |"F9" C D3- |"F7" D z/ =B,/ C/D/E/F/ |"Bbmaj9" D"Bb" F3- |"Bb" F2 C/D/"Fdim"E/F/ | %5
+w: If ev- er I would|leave you,|_ it would- n't be in|sum- mer.|* See- ing you in|
+"F7" E F2"Gdim" G |"F7" A B2 c |"Bbmaj9" d4- | d"Dm" d"Bb7" (3d B G |"Eb" B2 B2- | %10
+w: sum- mer I|nev- er would|go.|_ Your hair streaked with|sun- light,|
+ B"Cm" c"F7" (3c A F |"Bbmaj9" A4- |"Bb6" A B (3B G E |"Cm7" G2"G7/D" G2- | %14
+w: _ your lips red as|flame,|_ your face with a|lus- tre|
+"Cm" G"Cm7" C/D/"Cm7" E"Dm7" F |"Cm7" C4- |"F7" C/ z/ B, C/D/A,/B,/ |"F9" C D3- | %18
+w: _ that puts gold to|shame.|_ But if I'd ev- er|leave you,|
+"F7" D z/ =B,/ C/D/E/F/ |"Bbmaj7" D"Bb6" F3- | F2 C/D/"Fdim"E/F/ |"F7" E F2"Gdim" G |"F7" A B2 c | %23
+w: _ it could- n't be in|au- tumn.~|_ How I'd leave in|au- tumn I|nev- er will|
+"Bbmaj7""Bb6" d4- | d"Dm" d"Bb7" (3d B G |"Eb" B2 B2- | B"Cm" c"F7" (3c A F |"Bbmaj9" A4- | %28
+w: know.|_ I've seen how you|spar- kle|_ when fall nips the|air.|
+"Bb6" A B (3B G E |"Cm7" G2"G7/D" G2- |"Cm" G"Cm7" C/D/"F7b9" E D |"Bb" B,4 |: z2 z/ A,/B,/C/ | %33
+w: _ I know you in|au- tumn|_ and I must be|there.|And could I|
+"D" D D"D+" D D |"D6" D/D/ D"G" D"A7" =E |"D""Dmaj7" ^F4- |"D6" F2 z/ ^C/D/=E/ |"F#" ^F F"B" F F | %38
+w: leave you run- ning|mer- ri- ly through the|snow?|_ Or on a|win- try eve- ning|
+"F#" ^F F"Em7" G/A/"A7"F/G/ |"D" A4- |"F7" A z/ B,/"^N.C." C/D/A,/B,/ |"F9" C D3- | %42
+w: when you catch the fi- re's|glow?|_ If ev- er I would|leave you,|
+"F7" D/ z/ =B, C/D/E/F/ |"Bbmaj9" D F3- |"Bbmaj9" F2 C/D/"Fdim"E/F/ |"Cm7" E"F" F2"Gdim" G | %46
+w: _ how could it be in|spring- time,|_ know- ing how in|spring I'm be-|
+"F7" A"Ebmaj7" B2"Cm6" c |"D7sus4""D7" d4- |"Gm7" d d"Bb7" (3d B G |"Ebmaj7" B2 B2- | %50
+w: witched by you|so?|_ Oh, no! not in|spring- time,|
+"Cm7" (3B B c"Ebm" (3d B _G |"Bb6" B4- |"C9" B B c/d/A/B/ |"F9" c d3- |"Cm7" d2"F7b9" A2 |1 %55
+w: * sum- mer win- ter or|fall!|_ No, nev- er could I|leave you|_ at|
+"Bb6" B4- || B2 z/ A,/B,/C/ :|2"Bb6" B4- ||"Bb""Cb6" B4- |"Bb" B2 z2 |] %60
+w: all!|_ And could I|all!|_||
+

@@ -1,0 +1,20 @@
+X:1
+T:Nagy Úr
+T: 
+T:Refrén
+C:Traditional
+Z:Public Domain
+L:1/4
+Q:1/4=140
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" f A2 B | d2"A7" e2 |"D" f f2 f | f3 z | f A2 B |"G" d2 e2 |"D" B A3- |"A7" A3 z |"D" f A2 B | %9
+w: Nagy Úr, ha|aj- kunk|Fe- léd ki-|ált,|Te védj meg,|gyön- gék|va- gyunk,|_|Ne rejtsd el|
+ d2"A7" e2 |"D" f f2 f | f3 z | A3 F |"A7" E2"D" F2 |"G" D2 B, D- |"D""^Szóló" D3 f |"D" a a a f | %17
+w: ar- cod,|te- kints le|ránk,|Nyújtsd ki|job- bod,|jöjj U- runk!|_ Hol|bá- na- tos, hol|
+ a a/f/- f2 | a3 f |"A7" e3 f |"D" a a a f | a a f/-e/ d | f3"A7" e |"D" d3 z |] %24
+w: víg va- gyok, _|jöjj el|már, És|né- ha por- ba|ros- ka- dok, _ _|jöjj el|már!|
+

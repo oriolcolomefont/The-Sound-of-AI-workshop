@@ -1,0 +1,39 @@
+X:1
+T:Wanted Dead or Alive
+T:Wanted Dead or Alive
+T:Bon Jovi
+C:Bon Jovi
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+ z6 z3/2 d/ | fc/d/- d2 z4 | g/g/g/ge/(a g/)e/ d3 | ec/d/- d2 z Bcd | ffc d3 z3/2 d/ | %5
+w: It's|all the same,- *|on- ly the names will change,- * * *|ev- 'ry day,- * it seems we're|wast- ing a- way. An-|
+ fc/d/- d4 z d/d/ | ag/gg3/2 f2 z3/2 f/ | g g2 (a/g)f/d z d/d/ | f(cd) d3 z d/d/ | f d3 z3 d/d/ | %10
+w: oth- er place, * where the|fac- es are so cold. I'd|drive all night,- * * * just to|get back- * home. I'm a|cow- boy, on a|
+ (a/g)fg3/2 ^f2 z d | f d2 z4 z | cdf d3 z2 | f d2 z4 z | cdfd- d4 | z8 | z8 | z8 | z6 z3/2 f/ | %19
+w: steel- * horse. I ride. I'm|want- ed,|dead or a- live.|Want- ed,|dead or a- live.- *||||Some|
+ fc/d/- d2 z4 | g/g/g/ge/(a g/)e/ d2 d | e/e/e e2 z2 z c/d/ | ffcd d2 z3/2 d/ | %23
+w: times I sleep,- *|some- times it's not for days.- * * * The|peo- ple I meet al- ways|go their sep- 'rate ways. Some-|
+ fc<df/(ed3/2) z d/d/ | ag/gg3/2 f2 z3/2 f/ | gg/gg/(a/g)f/d z2 | fcdc/ d2 z/ z d/d/ | %27
+w: times you tell the day- * by the|bot- tle that you drink. And|times when you're a- lone,- * * *|all you do is think. I'm a|
+ f d3 z3 d/d/ | a/gfg3/2 ^f2 z d | f d2 f2 (d/c/) A2 | cdf d3 z2 | f d2 a2 (g>e)d | cdfd- d4 | z8 | %34
+w: cow- boy, on a|steel- * horse. I ride. I'm|want- ed, (want- ed,)- * *|dead or a- live.|Want- ed, (want- ed,)- * *|dead or a- live.- *||
+ z8 | z6 z d/d/ | f d3 z3 d/d/ | a/gfg3/2 ^f2 z d | a a2 a2 (a/g/) e2 | cdfd- d4- | %40
+w: |I'm a|cow- boy, on a|steel- * horse. I ride. I'm|want- ed, (want- ed,)- * *|dead or a- live- *|
+[M:2/4] d2- d/d/d |[M:4/4] ^ff f2 z2 z/ d/d/d/ | ag f<g f2 z3/2 d/ | ff<f z z2 z/ c/d | %44
+w: * * and I|walk these streets, a load- ed|six- string on my back. I|play for keeps, 'cause I|
+ fd/dc/(d/c/) A2 z/ d/d | ff/(ed3/2) z2 dd | a g2 (a/g)f/dd>d | gf/gf/a<a z z/ d/d | %48
+w: might not make it back.- * * I been|ev- 'ry- where,- * still I'm|stand- ing tall.- * * * * I've|seen a mil- lion fac- es and I've|
+ ad(f d3) z/ d/d/d/ | f d3 z2 z d/d/ | a/gfg3/2 f2 z d | f d2 f2 (d/c/) A2 | cdf d3 z/ d/d/d/ | %53
+w: rocked them all,- * 'cause I'm a|cow- boy, on a|steel- * horse I ride. I'm|want- ed, (want- ed,)- * *|dead or a live. 'Cause I'm a|
+ f d3 z2 z/ d/d/d/ | agf(g/f)d3/2dd | a a2 a- a3/2(gf/)d | cdf d3 (3aaa | %57
+w: cow- boy. I got the|night on my side.- * * * I'm|want- ed, (want- * ed,)- * *|dead or a- live, (dead or a-|
+ (3(gf)d- d2 (3aaa (gf/)e/ | cdf d3 ag | ga a/a(gf/) d3 | cdfd- d4 | cdf(d>c) A3 | cdf d3 z2 | %63
+w: live,)- * * * dead or a- live,- * *|dead or a- live. I still|ride,- * (I still ride,)- * *|dead or a- live, *|dead or a- live,- * *|dead or a- live,|
+ cdf(g>f) d3 | cdfd- d4- | d4 c4 | A8 | z8 | z8 |] %69
+w: dead or a- live,- * *|dead or a- live.- *|||||
+

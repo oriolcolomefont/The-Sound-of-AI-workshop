@@ -1,0 +1,38 @@
+X:1
+T:I Wanna Play Catch Up
+T:I Wanna Play Catch Up
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/8
+Q:1/4=130
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 5
+%%MIDI program 55
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"_Verses""^Intro""C" CD C2"Am" EF E2 |"Em" GA G2"Am" cd c2 |"Dm" d2 c2 A2 F2 | %3
+w: |||
+w: |||
+"^Lyric and Music by Les Kettley\n""G7" G8 |"F" E3 F E2 B,C |"G7" D2 E6 |"Em" D3 E D2 A,B, | %7
+w: |Ba- by can we play|catch up,|can I catch up with|
+w: |We were made for each|oth- er,|we must catch up a-|
+"Am" C8 |"F" C3 D C2 F,A, | C2"G7" D4 ^D2 |"C9" E8- |"C7" E8 |"F" A3 F C2 FA |"E7" e2 d6 | %14
+w: you,|ba- by our love is|too good to|lose,|_|when we both were to-|geth- er|
+w: gain,|lov- ing you is all|I want to|do,|_|we will make it the|next time,|
+"Am" c3 B A2 EC |"D7" D8 |"Dm" D3 E D2 B,C |"G9" D2"G7" E4 B,2 |"C" C8- |"C7" C8 |: %20
+w: my love was just for|you,|ba- by you are the|one I still|choose.|_|
+w: ba- by end all my|pain,|there can not be one|more catch like|you.|_|
+"C7" E E2 F G2"F" A2 | F4 c2"G7" B2- | BG G2 A B2"Em" B- | B G4 d2"Am" c- |"^Chorus" c2 c c2 B A2 | %25
+w: |||||
+w: I wan- na play catch|up with you,|_ I wan- na play catch|_ up with you|_ I wan- na play|
+"F" A2 F4 c2 |1"Gm" B2 F4 A2 |"C""C7" G8 :|2"G7" B2 G4 d2 ||"C" c8 |3 g g2 f e2"F" e2 || %31
+w: ||||||
+w: catch up, play|catch up, with|you,|catch up with|you.|_ _ _ _ _|
+ c4 A2"G9" A2 |"_© Les Kettley" G4 d2"C" c2- |"^FINE" c8 | B A3 ^G"G7" =G3- | G8- |] %36
+w: |||||
+w: |||||
+

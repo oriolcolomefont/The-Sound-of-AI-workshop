@@ -1,0 +1,14 @@
+X:1
+T:Sárga a csikó
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ c B/d/ c/ G3/2 | F E/E/ G/ D3/2 | C2 C z!fine! |: G c d e | f e d c |1 G2 G z :|2 A2 d z!D.C.! |] %7
+w: Sár- ga a csi- kó,|sár- ga a nye- reg|raj- ta,|Most a- kar- tam|ho- zád men- ni|raj- ta,-||
+w: Itt van az i- dő,|el kell * ma- sí-|roz- ni.|Most a- kar- tam|vé- led be- szél||get- ni,-|
+

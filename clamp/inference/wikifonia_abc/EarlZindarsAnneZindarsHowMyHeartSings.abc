@@ -1,0 +1,22 @@
+X:1
+T:How My Heart Sings
+T:How My Heart Sings
+T:John Lewis
+T:1955 by MJQ Music
+C:Earl Zindars
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+ ^fa ||S"Em7" g4- gB |"Am7" c4 de |"Dm7" f4- fA |"G7" B4 cd |"Cmaj7" e4- ec | %6
+"Fmaj7" (4:3:4A2 B2 c2 e2 |"Bm7b5" d4 B2 |"E7b9" ^G4 E2!dacoda! |"Am7" A2 B2 c2 | %10
+"Abdim7" d2 B3 ^G |"Am7/G" A3 B cA |"F#m7b5" e4 c2 |"Emaj7" B3 ^c e2 |"Gdim7" ^f3 ^d c2 | %15
+"F#m7" ^c3 e =c2 |"B7" ^g4 ^fg |][M:4/4]"Dmaj7/E" a4- a ^f3 |"Amaj7/B" e4- e ^c3 | %19
+"Dmaj7" a4- a ^f3 |"Amaj7" e8 |"Cmaj7/D" g4- g e3 |"Gmaj7/A" d4- d B3 |"Cmaj7" G4- GEGB | %24
+"B7#9" d4- d^f (3g^ga!D.S.! |][M:3/4]O"Am7" A2 B2 c2 |"Abdim7" d2 B3 ^G |"Am7" A3 B cA | %28
+"D7" e4"D#dim7" BA |"Em7" g6 |"Am7" c4 de |"Ab7" f6 |"G+7" B6 |"C6""_(Solo Begins)" c2 z2 z2 | %34
+"Gm7" z6 |"F#m7b5" z6 |"B7b9" z6 |] %37
+

@@ -1,0 +1,15 @@
+X:1
+T:Én elmentem a kocsmába magamat mulatni
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ DDGG GFED | EF G2 DDD z | AAdd dcBA | Bc d2 AAA z | AAdd dcBA | dGGA GFED | EF G2 DDD z | %7
+w: Én el- men- tem a kocs- má- ba|ma- ga- mat mu- lat- ni,|U- tá- nam jött kis- an- gy- alom|ha- za- pi- ron- gat- ni,|Mu- zsi- ká- nak szép a hang- ja,|kis- na- gya- lom, gye- re- ha- za,|de csak úgy, ha le- het,|
+ EF G2 DDD z |] %8
+w: de csak úgy, ha le- het.-|
+

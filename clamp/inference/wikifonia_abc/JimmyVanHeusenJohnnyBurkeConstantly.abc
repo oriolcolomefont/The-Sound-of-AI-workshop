@@ -1,0 +1,26 @@
+X:1
+T:Constantly
+T:Constantly
+T:Jimmy Van Heusen
+T:Johnny Burke
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G3 E |"Gm" B3 d |"Cm7" B G E2- |"F7" E2 z c |"Abm" _c A F2- | F E"Bb9" D A |"Eb""Cm7" G4- | %7
+w: Con- stant-|ly I|looked for you,|_ No|day or two|_ but con- stant-|ly.|
+"Fm7""Bb7" G3 z |"Eb" G3 E |"Gm" B3 d |"Cm7" B G E2- |"F7" E2 z c |"Abm" _c A F2- | F E"Bb9" D F | %14
+w: |Con- stant-|ly I|wished you near|_ And|now you're here|_ so close to|
+"Eb""Abm" E4- |"Eb" E E/F/"G7" G G |"Cm9" d c3- |"Ab7" c B/A/"G7" G F |"Cm""G+" E4- | %19
+w: me.|_ And it is- n't|ma- gic,|* and you do ex-|ist,|
+"Cm7" E F"F9" G d |"Fm7" c3 G |"Db9" B A"C9" G c |"F7" F4- |"Bb7" F F ^F c |"Eb" G3 E |"Gm" B3 d | %26
+w: * For af- ter|all, I|know when I've been|kissed;|_ And you were|meant to|be my|
+"Cm7" B G E2- |"F7" E2 z c |"Abm" _c A F2- | F E"Bb9" D F |"Eb" E4- | E3 z |] %32
+w: heart's de- light,|* Not|just to- night|* but con- stant-|ly.||
+

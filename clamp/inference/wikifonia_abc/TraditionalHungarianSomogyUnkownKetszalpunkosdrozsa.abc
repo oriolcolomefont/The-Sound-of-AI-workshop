@@ -1,0 +1,24 @@
+X:1
+T:Két szál pünkösdrózsa
+T:Két szál pünkösdrózsa
+T:Hungarian folk song
+C:Traditional Hungarian - Somogy
+Z:Public Domain
+L:1/8
+Q:1/4=112
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 52
+V:1
+"Dm""^Moderato" d2 A2 |"Am" AB c!breath!A |"Dm" d2 A2 |"Am" AB c!breath!A |"G" G2 A2 | %5
+w: Két szál|pün- kösd- ró- zsa|ki- haj-|lott az út- ra|El- a-|
+w: Nem ám|az a ró- zsa,|ki a|kert- ben nyí- lik,|Ha- nem|
+w: Nem sze-|ret- lek má- sért,|két pi-|ros or- cád- ért,|Sze- med|
+w: Mi va-|gyunk a ró- zsák,|mi sze-|ret- jük egy- mást,|Szép pi-|
+"F" FF E!breath!D |"C" GG FE |"Dm" D2 D2 |] %8
+w: kart her- vad- ni,|nincs ki le- sza-|kít- sa.|
+w: az a ró- zsa,|ki egy- mást sze-|re- ti.|
+w: já- rá- sá- ért,|szád mo- soly- gá-|sá- ért.|
+w: ros haj- nal- ban|meg- ö- lel- jük|egy- mást.|
+

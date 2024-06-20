@@ -1,0 +1,31 @@
+X:1
+T:Mamma Mia
+T:Mamma Mia
+T:Benny Anderson, Stig Anderson, Bjorn Ulvaeus
+C:Benny Anderson, Bjorn Ulvaeus, Stig Anderson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" c2 f2 efga- | a2 ff efed- |"G" d2 z2 z4 | z8 :|"F" cdfa- a4 | z2 ag ag f2 | cdfa- a4 | %7
+w: I've been cheat- ed by you|* since I dont * know when|||Look at me now *|will I ev- er learn|I dont know how *|
+w: So I made up my mind|* it must come to an end||||||
+ z2 ag _bafg- |"Bb" g a2 a/g/ f2 z2 | z2 aa agfg- |"C" g a2 c- c2 z2 | z4 _b2 a2 | gccc cccc- | %13
+w: but I sud- den- ly lose|* con- trol * *|there's a fi- re with- in-|* my soul *|just a|look and I can hear a bell ring|
+w: ||||||
+ c2 z2 _b2 a2 | gccc cccc- | c2 z2"^N..C." afgf |:"F" z2 gf gf z2 | z2 ff gagf | %18
+w: * one more|look and I for- get- ev- ery- thing|* Oh * * *|Ma- ma mi- a|here I go a- gain *|
+w: |||Ma- ma mi- a|does it show a- gain *|
+"Bb" z2 g2 f2 z _b- | _b_b_b_b a2 f2 :|"F" z2 c'2- c'c'c'c'- |"C" c' g2 a- a _b2 z | %22
+w: my my how|* can I re- sist you|Yes * I've been bro|* ken heart * ed|
+w: my my just|* how much I've missed you|||
+"Dm" z2 a2- aaaa- |"Am" a e2 f- f g2 z |"Bb" z2 g2 f2 z _b- |"Gm" _b_baf"C" gfgf |: %26
+w: blue * since the day|* we part * ed|why why did|* I ev- er let you go *|
+w: ||||
+"F" z2 gf gf z2 |"Dm" z2 ff gagf |"Bb" z2 g2 f2 z _b- |"Gm" _b_baf"C" gfgf :| %30
+w: Ma- ma Mi- a|now I real- ly know *|my my I|* could nev- er let you go. *|
+w: ||||
+

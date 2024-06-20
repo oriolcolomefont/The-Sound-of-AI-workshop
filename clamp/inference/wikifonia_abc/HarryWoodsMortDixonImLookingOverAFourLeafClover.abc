@@ -1,0 +1,22 @@
+X:1
+T:I'm Looking Over A Four Leaf Clover
+T:I'm Looking Over a Four Leaf Clover
+T:Harry Woods
+T:Mort Dixon 
+C:Harry Woods
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" c2 G E | D C2 D | E2 G c- | c B2 c |"D7" d2 D E | ^F2 A2 | d4- | d4 |"G7" B2 A G | B A2 G | %10
+w: I'm look- ing|ov- er a|four leaf clo-|* ver that|I o- ver-|looked be-|fore||One leaf is|sun- shine, the|
+"C6" A A A A- |"A7" A2 z2 |"D7" d2 B A | d B2 A |"G7" G G G G- | G z z2 |"C" c2 G E | D C2 D | %18
+w: sec- ond is rain,||third is the|ros- es that|grow in the lane.||No need ex-|plain- ing the|
+ E2 G c- | c B2 c |"D7" d2 D E | ^F2 A2 | d4- | d4 |"F" d2 c B |"Cdim" d c2 A |"Cmaj7" B2 B2 | %27
+w: one re- main-|* ing is|some- bod- y|I a-|dore.||I'm look- ing|o- ver a|four leaf|
+"A7" B A2 G |"D7" A2 B c |"G7" d2 G2 |"C" c4- | c2 z2 |] %32
+w: clo- ver that|I o- ver-|looked be-|fore.-||
+

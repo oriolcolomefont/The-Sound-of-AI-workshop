@@ -1,0 +1,28 @@
+X:1
+T:I Don't Stand A Ghost Of A Chance
+T:I Don't Stand A Ghost Of  Chance
+T:Victor Young
+T:Bing Crosby, Ned Washington
+C:Victor Young
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ x8 z2 z"G+" G |:"C" G G G G |"G+" G G2 G |"Gm#5" G G"A7" _B A |"Fm" _A A2 A |"C" G G"Am" d3/2 c/ | %6
+w: I|need your love so|bad- ly, I|love you, oh, so|mad- ly, But|I don't stand a|
+"D7" (3e c A"G+7" G A |"C" E4- |"Gdim" E z"G7" z G |"C" G G G G |"G+" G G2 G |"Gm#5" G G"A7" _B A | %12
+w: ghost of a chance with|you!.|_ I|thought at last I'd|found you, But|oth- er loves sur-|
+"Fm6" _A A2 A |"C" G G"Am" d3/2 c/ |"D7" (3e c A"G+7" G A |"C" c4- | c4 |"G7" (3D E F A/ A3/2 | %18
+w: round you, And|I don't stand a|ghost of a chance with|you!|_|If you'd sur- ren- der|
+"G+7" (3_E F G B/"Eb" _B3/2 |"Am" A3/2 E/"C" E2- |"Am" E3 z |"Am6" (3^F G A c/ c3/2 | %22
+w: just for a ten- der|kiss of two,|_|You mioght dis- cov- er|
+"B7" (3^F G A c/ c3/2 |"E7" B3/2 ^F/ F F |"G7" A3/2 _E/"G+" E G |"C" G G G G |"G+" G G2 G | %27
+w: that I'm the lov- er|meant for you, and|I'd be true, But|what's the good of|schem- ing, I|
+"Gm#5" G G"A7" _B A |"Fm6" _A A2 A |"C" G G"Am" d3/2 c/ |"D" (3e c A"G+7" G A |1"C""Ab7" c4- || %32
+w: know I must be|dream- ing, Gor|I don't stand a|ghost of a chance with|you.|
+"D7" c z"G+7" z G :|2"C""F9" c4- ||"C6" c4 |] %35
+w: _ I|you.||
+

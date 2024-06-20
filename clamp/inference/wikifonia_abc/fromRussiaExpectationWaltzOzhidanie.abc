@@ -1,0 +1,25 @@
+X:1
+T:Expectation Waltz (Ozhidanie)
+T:Expectation Waltz (Ozhidanie)
+T:Russia
+C:from Russia
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 21
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+ x2 u!1!B, |"Em" !2!C2 B, | !2!E2 !3!F | !4!G3- | G vE F | G E F | G E G |"B7" F3- | F z u!1!B, | %9
+ !2!C2 B, | !2!F2 !3!G | !4!A3- | A vF G | A F G | A B c |"Em" B3- | B z u!1!B, | !2!C2 B, | %18
+ !2!E2 !3!F | !4!G3- | G z v!2!E/!3!F/ | !4!G z !2!F/!3!G/ |"D7" !4!A z !3!G/!4!A/ |"G" !5!B3- | %24
+ !4!B u!5!c B |"B7" A3- | A B A |"Em" G3- | G vA G |"B7" F2 c | B2 ^D |"Em" E3-"^Fine" | E :: %33
+ x uB G |"Em" B3- | B B G | B3- | B vc A |"Am" c3- | c c A | c3- | c !tenuto!u!2!F !3!G | %42
+"B7" !4!A3- | A !3!G A |"Em" !5!B3- | B v!4!A !3!G |"B7" !1!F3/2 !4!B/ !5!c/!4!B/ | %47
+ !1!^D3/2 B/ c/B/ |"Em" !1!E3- | E :: u!5!e !4!d |"D7" d3- | d !3!c !1!A |"G" !2!B3/2 B/ B | %54
+ z v!5!=f !4!e |"E7" e3- | e !3!d !1!B |"Am" c3/2 c/ c | z u!1!A !2!B |"D7" c3- | c !1!A !5!e | %61
+"G" !4!d3- | !5!d v!4!B !3!G |"D7" !1!D3/2 !2!F/ !3!A/!4!c/ | !5!e2 d |"G" G3- |"^D.C." G :| %67
+

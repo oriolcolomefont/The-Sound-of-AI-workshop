@@ -1,0 +1,39 @@
+X:1
+T:Don't Stop Believin'
+T:Don't Stop Believin'
+C:Riley Mau
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 40
+V:1
+"E" E4- EFGB- |"B" B4- Bcdc- |"C#m" c4- cdeA- |"A" A4- AdeE- |"E" E4- EFGB- |"B" B4- BcdG- | %6
+w: ||||||
+w: ||||||
+"G#m" G8 |"A" A6- AG |]:"E" z4 z2 ge |"B" f f2 g- g2 z2 |"C#m" z4 eeee |"A" b2 bg- g f3 | %12
+w: ||Just a|small town girl *|liv- in in a|lone- ly world _ _|
+w: ||Just *|Ci- ty boy *|born and raised in|south de- troit _ _|
+"E" z4 z Bge |"B" f f2 g- (3g2 f2 e2 |"G#m" f3 g- g2 e2- |"A" e4 z4 :|"B/E" f3"A/E" e- e2 z2 | %17
+w: She took a|mid- night train _ go- in'|an- y- * where|_|stang- ers _|
+w: He took a|mid- night train _ go- in'|an- y- * wehre|_||
+"B/E" f3"E" g- g2 z2 |"B/E" z4"E" eeee |"B/E" b2 a"E"g- g2 g2 |"B/E" f3"A/E" e- e2 z2 | %21
+w: wai- ting _|up and down the|boul- e- vard * their|sha- dows _|
+w: ||||
+"B/E" f3"E" g- gfef- |"E" f2 ge- e2 z2 | z8 ::"E" (a g2) g- g2 z f |"B" a g2 g- g2 z2 | %26
+w: sear- ching * in the ni-|* * ght *||Don't _ Stop _ Be-|lie- * ving _|
+w: |||||
+"C#m" z4 agab |"A" c'2 b/c'/g- gf e2 |"E" (a g2) g- g2 z2 | %29
+w: Hold on to that|fee- * * * * lin _|Street- * light _|
+w: |||
+"B" (a g2) g- g2"_Verse 5:\nWorking hard to get my fill\nEverybody wants a thrill\npayin' anything to roll the dice\njust one more time." z2 | %30
+w: peo- * ple- *|
+w: |
+"G#m""_Verse 4:\nA singer in a smoky room\nThe smell of wine and cheap perfume\nFor a smile they can share the night\nit goes on and on and on and on" z8 | %31
+w: |
+w: |
+"A""_Verse 6:\nsome will win, some will lose\nsome were born to sing the blues\nOh, the movie never ends,\nit goes on and on and on and on" z8 :| %32
+w: |
+w: |
+

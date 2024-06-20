@@ -1,0 +1,48 @@
+X:1
+T:World in our hands
+T:World In Our Hands
+T:Taio Cruz
+C:Taio Cruz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A" z8 |"D" z2 z"A" z z4 |:"A" z8 |"E" z2 z"A" z z4 |"A" z2 c2 cA A2 |"D" d3"A" c- c4 | %6
+w: ||||No wor- ds can|hurt us _|
+w: ||||These ha- nds can|bbuild up _|
+"A" z2 c2 c2 A2 |"E" B2 A"A"c- c4 |"A" z2 c2 c2 A2 |"D" ded"A"c- c2 BA- |"F#m" A2 c2 c2 A2 | %11
+w: No fire can|burn * us _|No walls can|ho- * ld us _ 'cau se|* no one con-|
+w: All that we|drea- med of _|Our love will|ta- * ke us _ whe- re|_ no one can|
+"E" B3"A" A- A4 |"F#m" z C A2 A2 z2 |"E" z2 B2 B4 |"A" z2 c2 c2 e2 |"D" d2 c2 B2 A2 | %16
+w: trols us _|'Cause we're strong,|we're fast|Our time has|come at la- st|
+w: break us _|||||
+"F#m" z2 A2 A2 A2 |"E" B2 B2 BAGA- |"D" A8- | A6 ce | f>f- f"E"e- e<e f2 |"F#m" c2 z2 z2 AB | %22
+w: Just hold on|don't go a- * ny- where|_|* 'Cause we've|wai- ted * all of * our|lives Now we're|
+w: ||||||
+"A" c>c- c"E"e- e<e G2 |"D" F4 z2 fe |"D" f>f- f"E"g- g<g"F#m" a2 | a2 z2 z eee | %26
+w: see- ing * here * in our|rise Ba- by|no more * wai- * ting to-|night We got the|
+w: ||||
+"A" aae"E"a- a2 a2 |"D" a2 a2 a2 ce | f>f- f"E"e- e<e f2 |"F#m" c2 z2 z2 AB | %30
+w: world in our hands _ yeah|yeah yeah yeah oh oh|oh oh _ oh _ oh oh|oh oh oh|
+w: ||||
+"A" c>c- c"E"e- e<e G2 |"D" F4 z2 fe | f>f- f"E"g- g<g"F#m" a2 | a2 z2 z eee |"A" aae"E"a- a2 a2 | %35
+w: oh oh _ oh _ oh oh|oh Ba- by|no mo- re wai- * ting to-|night We got the|world in our hands _ yeah|
+w: |||||
+"D" a2 a2 a2 f2 :|"F#m" z2 c'2 bafe- |"E" e2- e>A cdee- | e3 G- GA A2- |"D" A8 |"F#m" z2 c2 BAFE- | %41
+w: yeah yeah yeah yeah|I _ _ _ _|_ _ I'm not gon- na lo-|se you _ _ now|_|I _ _ _ _|
+w: ||||||
+"E" E3 E cdee- |"C#m" e3 g- ga a2- |"D" a8- | a4 z2 ce |: f>f- f"E"e- e<e f2 |"F#m" c2 z2 z2 AB | %47
+w: _ I'm not gon- na lo-|se you _ _ now|_|* oh oh|oh oh _ oh _ oh oh|oh oh oh|
+w: ||||||
+"A" c>c- c"E"e- e<e G2 |"D" F4 z2 fe | f>f- f"E"g- g<g"F#m" a2 | a2 z2 z eee |"A" aae"E"a- a2 a2 |1 %52
+w: oh oh _ oh _ oh oh|oh Ba- by|no mo- re wai- * ting to-|night We got the|world in our hands _ yeah|
+w: |||||
+"D" a2 a2 a2 ce :|2"D" a2 a2 a2 f2 |] %54
+w: yeah yeah yeah oh oh|yeah yeah yeah yeah|
+w: ||
+

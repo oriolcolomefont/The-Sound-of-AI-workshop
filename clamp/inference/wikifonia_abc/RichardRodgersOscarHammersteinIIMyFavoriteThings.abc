@@ -1,0 +1,42 @@
+X:1
+T:My Favorite Things
+T:MY FAVORITE THINGS
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em7""_Lively, with spirit" E B B |"F#m7" F E E |"Em7" B, E E |"F#m7" F E z |"Cmaj7" E B B | %5
+w: Rain- drops on|ros- es and|whis- kers on|kit- tens.|Bright cop- per|
+w: Cream col- ored|po- nies and|crisp ap- ple|stru- dels,|Door- bells and|
+"D7" F E E |"Cmaj7" B, E E |"D7" F E z |"Am7" E B A |"D9" E F D |"Gmaj7" D A G |"Cmaj7" C3 | %12
+w: ket- tles and|warm wool- en|mit- tens,|Brown pa- per|pack- ag- es|tied up with|string,|
+w: sleigh- bells and|schnitz- el with|noo- dles,|Wild geese that|fly with the|moon on their|wings,|
+"Gmaj7" B, C D |"C""Cmaj7" E F G |"F#m7b5" A B A |"B7" ^D3 :|"Em7" z3 |"F#m7" z3 |"Em7" E B B | %19
+w: These are a|few of My|Fa- vor- ite|Things.|||Girls in white|
+w: |||||||
+"F#m7" F E E |"Em7" B, E E |"F#m7" F E z |"Cmaj7" E B B |"D7" F E E |"Cmaj7" B, E E |"D7" F E z | %26
+w: dress- es with|blue sat- in|sash- es,|Snow- flakes that|stay on my|nose and eye-|lash- es,|
+w: |||||||
+"Am" E B A |"D9" E F D |"Gmaj7" D A G |"Cmaj7" C3 |"Gmaj7" B, C D |"Cmaj7" E F G |"F#m7b5" A ^A B | %33
+w: Sil- ver white|win- ters that|melt in- to|springs,|These are a|few of My|Fa- vor- ite|
+w: |||||||
+"B7" c3 |"Em7" z B B | B2 E |"F#m7b5" z A A | A2"B7" ^D |"Em" z G G |"G/D" G2 B, |"Cmaj7" E3- | %41
+w: Things.|When the|dog bites,|When the|bee stings,|When I'm|feel- ing|sad,|
+w: ||||||||
+ E2 E | E F E |"D7" F E F |"A7" G A G |"Cmaj7" A2 G |"Gmaj7" B c B |"Cmaj7" c z z |"D7b9" z3 | %49
+w: * I|sim- ply re-|mem- ber My|Fa- vor- ite|Things and|then I don't|feel||
+w: ||||||||
+"D7" B3 |"G6" G3- |"Cmaj7" G3- |"G6" G3- |"Cmaj7" G z z |"Gmaj7" z3 |"Cmaj7" z3 |"B7" z3 | %57
+w: so|bad.|||||||
+w: ||||||||
+"Em7" z3 | z3 |] %59
+w: ||
+w: ||
+

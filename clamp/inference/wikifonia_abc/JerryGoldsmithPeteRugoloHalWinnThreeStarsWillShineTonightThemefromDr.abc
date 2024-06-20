@@ -1,0 +1,26 @@
+X:1
+T:Theme From "Doctor Kildare"
+T:Theme From Doctor Kildare
+T:Three Stars Will Shine Tonight
+T:Hal Winn,Jerrald Goldsmith & Pete Rugolo
+C:Hal Winn,Jerry Goldsmith,Pete Rugolo
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C2 F2 A2 |"C" Bc G4 |"Dm7" F2"G7" c3 B |"C" A2 G4 |"F" C2 A2 B2 |"C" dc G3 G |"Dm7" cB F3 E | %7
+w: Three Stars Will|Shine To night,|one for the|lone- ly,|that star will|shine it's light each|time that some- one|
+"G7" D6 |"F" C2 F2 A2 |"C" Bc G4 |"Dm7" F2"G7" c3 B |"C" A2 G4 |"F" C2 A2 B2 |"C" dc G3 G | %14
+w: sighs.|Three stars for|all to see,|one for young|lov- ers,|that star was|made to be the|
+"Dm7" cB"G7" F3 D |"C" C6 ||"Dm7" A2 G3 F |"G7" E2 D4 |"C" B2 A3 G | F2 E3 E |"Am7" c3 B A2 | %21
+w: spar- kle in their|eyes.|And for the|third star|on- ly one|reas- on, a|star you can|
+"D7" G2 ^F3 G | ^F2"Am7" E2"D7" F2 |"G7" G6 |"F" C2 F2 A2 |"C" Bc G4 |"Dm7" F2"G7" c3 B | %27
+w: wish on to|make dreams come|true.|High in the|sky a- bove,|three stars are|
+"C" A2 G4 |"F" C2 A2 B2 |"C" dc G3 G |"Dm7" F2"G7" E3 D |"C" C4 z2 |] %32
+w: shin- ing.|I hope that|star of love will|shine down on|you.|
+

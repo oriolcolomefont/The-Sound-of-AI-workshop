@@ -1,0 +1,22 @@
+X:1
+T:Aloha Oe
+T:Aloha Oe
+T:unknown
+T:Hawaiian Tempo
+C:Queen Liliʻuokalani
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z D |"C" E2 G2 | c3 E |"G" D2 G2 | B3 G |"D7" ^F E ^F G | A A c c |"G" B4 | G3 D |"C" E2 G2 | %10
+w: Fare-|well dear|love I'll|dream of|you no|pass- ing grief is|this my heart is|feel-|ing I|love you|
+ c3 E |"G" D2 G2 | B3 G |"D7" ^F3 G | B A2 ^F |"G" G4- | G3 G |"F" A2 c2 | f3 A |"C" G2 c2 | e3 c | %21
+w: so be-|fore you|go I'll|say dear|lov'd one fare-|well|* fare-|well dear|love I'll|dream of|you no|
+"G7" B A B c | d d f f |"C" e4 | c3 G |"F" A2 c2 | f3 A |"C" G2 c2 | e3 c |"G7" B3 c | e d2 B | %31
+w: pass- ing grief is|this my heart is|feel-|ing I|love you|so be-|fore you|go I'll|say dear|lov'd one fare-|
+"C" c4- | c3 z |] %33
+w: well.-||
+

@@ -1,0 +1,29 @@
+X:1
+T:I'm so Lonesome I Could Cry
+T:I'm So Lonesome I Could Cry
+T:Hank Williams, 1949
+C:Hank Williams
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+"^Sadly" z6 | z6 |"F" A4- AF | A4- AF | A4- AF | C4 F2 | A4- A2 | A4- AE | C6- |"F7" C4 A2 | %10
+w: ||Here _ that|lone _ some|whip _ er|will He|sounds to|blue _ to|fly|_ the|
+"Bb" B4 B2 | B4 B2 |"F" c4 A2 | C4 AB | c4 A2 |"C7" G4 AG |"F" F6- | F4 F2 | A4- AF | A4- AF | %20
+w: mid night|train is|whin ing|low I'm so|lone some|I cou ld|cry|_ I've|nev _ er|seen _ a|
+ A4- AF | C4 F2 | A4- AF | A4- AF |"F7" C6- | C4 A2 |"Bb" B4 B2 | B4 B2 |"F" c4 A2 | C4 AB | %30
+w: light _ so|long when|time _ goes|crawl _ ing|by|_ the|moon just|went be|hind a|cloud I'm so|
+"C7" c4 A2 | G4 AG |"F" F6- | F4 FF |[Q:1/4=85]"F" A4- AF | A4- AF | A4- AF | C4 F2 | A4- A2 | %39
+w: lone some|I cou ld|cry|_ did you|ev _ er|see _ a|rop _ in|weep when|leaves be|
+ A4- AE | C6- |"F7" C4 A2 |"Bb" B4 B2 | B4 B2 |"F" c4 A2 | C4 AB | c4 A2 |"C7" G4 AG |"F" F6- | %49
+w: gin _ to|die|_ that|means he|lost the|will to|live I'm so|lone some|I cou ld|cry|
+ F4 F2 | A4- AF | A4- AF | A4- AF | C4 F2 | A4- AF | A4- AF |"F7" C6- | C4 A2 |"Bb" B4 B2 | B4 B2 | %60
+w: _ the|si _ lence|of _ a|fal _ ling|star lights|up _ a|pur _ ple|sky|_ and|as I|won der|
+"F" c4 A2 | C4 AB |"C7" c4 A2 | G4 AG |"F" F6- | F6 | z6 | z6 | z6 | z6 |] %70
+w: where you|are I'm so|lone some|I cou ld|cry|_|||||
+

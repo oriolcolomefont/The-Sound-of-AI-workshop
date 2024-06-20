@@ -1,0 +1,36 @@
+X:1
+T:Friendship
+T:Friendship
+C:Cole Porter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 E^D |:"C" EG- G4 E^D | E4"D9" E"G7" D2"C" C- | C2 C2 D2 _E2 | E_EDC- C2 A^G | %5
+w: If you're|ev- er _ in a|jam, here I am.||* * * * * if you're|
+w: |ev er _ up a|tree, phone to me.||* * * * * If you're|
+w: |ev- er _ black your|eyes, put me wise.||* * * * * If they|
+"F" Ac- c4 A^G | A4"Dm7" c2"G7" B"C"G- | G2 E2 F2 ^F2 | G^F=FE- E2 GA |"G" Bd- d4 BG | %10
+w: ev- er _ in a|mess S- O- .S||* * * * * If you|ev- er _ feel so|
+w: ev- er _ down a|well ring my bell||* * * * * If you|ev- er _ lose your|
+w: ev- er _ cook your|goose, turn me loose||* * * * * If they|ev- er _ put a|
+"D/F#" AB c2"Dm/F#" d2 Bd- |"E7" d4"Dm7" c2 A"C"c- | c6"G" d2 |"C" e3 c- c2 z2 | e3 c- c2 z2 | %15
+w: hap- py, you land in jail;|_ I'm your bail.|_ It's|friend- ship, _|friend- ship, _|
+w: teeth and your'e out to dine;|_ bor- row mine.|_ It's|friend- ship, _|friend- ship, _|
+w: bul- let thru your brr- ain;|_ I'll com- plain.|_ It's|friend- ship, _|friend- ship, _|
+ z e2 c e2 c2 | e3"G7" d- d2 G2 |"C" c2 B2"C/Bb" c e2 c |"F/A" d2 cd-"Fm/Ab" d2 z2 | %19
+w: Just a per- fect|blend- ship. _ When|oth- er friend- ships have|been for- got, _|
+w: Just a per- fect|blend- ship. _ When|oth- er friend- ships have|been for- gate, _|
+w: Just a per- fect|blend- ship. _ when|oth- er friend- ships have|been for- git, _|
+"C" z2"Fm" f4"C" e2 |"Ab7" _e2"G7" d"C"c- c2"^N.C." AG |1 AcAG"D7" C"Dbmaj7" C2"C" C | %22
+w: Ours will|still be hot. _ Lah- dle-|ah- dle- ah- dl, dig, dig dig,|
+w: Ours will|still be great. _ Lah- dle-|ah- dle- ah- cle chuck, chuck, chuck.|
+w: Ours will|still be it. _ Lah- dle-||
+ C2"G+7" z2 z2 E^D :|3 AcAG"D7" C"Db7" C2"C" C- | !~(!C4 !~)!c'2 z2 |] %25
+w: _ 2.~If you're|ah- dle- ah- dle, hep, hep, hep.|_ _|
+w: _ 3.~If they|||
+w: |||
+

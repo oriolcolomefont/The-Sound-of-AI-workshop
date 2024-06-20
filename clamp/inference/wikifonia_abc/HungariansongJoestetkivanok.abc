@@ -1,0 +1,16 @@
+X:1
+T:Jó estét kívánok
+T:Jó estét kívánok 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" ccBA"G" G2 E z |"F" A/A/D/D/"G" F/F/B,/B,/"C" C<CC z!fine! :|"G" G,B,DF"C" E2 G2 | %3
+w: Jó es- tét kí- vá- nok,|Meg- jö- tek a fe- hér- vá- ri hu- szá- rok,|Jöt- tek, lát- tak, győz- tek,|
+"D" D^FAc"G" B2 d2!D.C.! |] %4
+w: Sok kis- lányt meg- főz- tek,|
+

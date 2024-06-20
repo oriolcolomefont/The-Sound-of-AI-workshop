@@ -1,0 +1,27 @@
+X:1
+T:For Dancers Only
+T:For Dancers Only
+T:Sy Oliver
+T:© Dan Parshall
+C:Sy Oliver
+Z:Creative Commons BY-NC-SA
+L:1/8
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"^Intro" z B,3 D2 F2 | EDE=E- E_E=EF- | FE D2 B,2 F,2 | A,2 A,B, z B2 G |: %4
+"Bbmaj7" B3 G"Bb7" B B2 G |"Ebmaj7" B3 B"Edim7" z4 |"Bbmaj7" z B2 G"Gm7" BAB=B | %7
+"C7" c2 _AF-"F7" F B2 G |"Bbmaj7" B3 G"Bb7" B B2 G |"Ebmaj7" B2 BB-"Edim7" B z z2 | %10
+"Bbmaj7" z d2 B"F7" d2 d2 |"Bbmaj7" B4"Cm7" z B-"F7"BG |"Bbmaj7" B3 G"Bb7" B B2 G | %13
+"Ebmaj7" B3 B"Edim7" z4 |"Bbmaj7" z B2 G"Gm7" BAB=B |"C7" c2 _AF-"F7" F B2 G | %16
+"Bbmaj7" B3 G"Bb7" B B2 G |"Ebmaj7" B2 BB-"Edim7" B z z2 |"Bbmaj7" z d2 B"F7" d2 d2 | %19
+"Bbmaj7" B4 z B2 G |"Bbmaj7" B4"Bb7" d f3 |"Ebmaj7" E2 D2"Edim7" E2 ^DF- | %22
+"Bbmaj7" F2 Bd-"Gm7" dABA |"C7" B2 AB"F7" z B2 G |"Bbmaj7" B4"Bb7" d f3 | %25
+"Ebmaj7" E2 D2"Edim7" E2 ^EF- |"Bbmaj7" F2 Bd-"F7" dABA |"Bbmaj7" A2 AA z B2 G | %28
+"Bbmaj7" B4"Bb7" d f3 |"Ebmaj7" E2 D2"Edim7" E2 ^DF- |"Bbmaj7" F2 Bd-"Gm7" dABA | %31
+"C7" B2 AB"F7" z B2 G |"Bbmaj7" B4"Bb7" d f3 |"Ebmaj7" E2 D2"Edim7" E2 ^DF- | %34
+"Bbmaj7" F2 Bd-"F7" dABA |"Bbmaj7" A2 AA z B2 G |] %36
+

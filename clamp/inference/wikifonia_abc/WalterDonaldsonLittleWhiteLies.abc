@@ -1,0 +1,26 @@
+X:1
+T:Little White Lies
+T:Little White Lies
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2"D7" z D |:"G" B,2 D2 G2 B2 |"C/G" c6"G" B2 |"C/G" cc"G" B2 A2 G2 |"Cm" _E8 | %5
+w: The|moon was all a-|glow and|heav- en was in your|eyes,|
+"G" z2 dB-"E7" Bd B2 |"D7" d4 E4 | z2 dB- Bd B2 |"G" E4-"D7" E3 D |"G" B,2 D2 G2 B2 | %10
+w: The night * that you|told me|those lit- * tle white|lies. * The|stars all seemed to|
+"C/G" c6"G" BB |"C/G" cc"G" B2 A2 G2 |"Cm" _E8 |"G" z2 dB-"E7" Bd B2 |"D7" d4 E4 | z2 dB- Bd E2 | %16
+w: know that you|did- n't mean all those|sighs,|The night * that you|told me|those lit- * tle white|
+"G" G6"Em" G2 |"B" F4- F^G F2 |"F#7" F2 FF- F^G F2 |"B" z2 F2- F^G F2 |"F#7" F6"A7" =G2 | %21
+w: lies. I|try * but there's|no for- get * ting when|ev- * 'ning ap|pears I|
+"D" A4- AB A2 |"A7" A2 AA- AB A2 |"D" z2 A2-"A7/E" AB"A7b5" A2 |"D7" A6 D2 |"G" B,B, D2 G2 B2 | %26
+w: sigh * but there's|no re- gret- * ting in|spite * of my|tears. The|Dev- il was in your|
+"C/G" c6"G" B2 |"C/G" cc"G" B2 A2 G2 |"Cm" _E8 |"G" z2 dB-"E7" Bd B2 |"D7" d4 E4 | %31
+w: heart, But|heav- en was in your|eyes.,|The night * that you|told me|
+"D7" z2 d2 d^d e2 |1"G""Am7b5" G6"D7" z D :|2"G" G6 z2 |] %34
+w: Those lit- tle white|lies. The|lies!|
+

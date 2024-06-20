@@ -1,0 +1,30 @@
+X:1
+T:Love Is Just Around The Corner
+T:Love Is Just Around The Corner
+C:Leo Robin, Lewis E. Gensler
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G7" G2 G2"C7" G>^FG>A |"Fmaj7" =F2 c6 |"G7" z2 G>^F"C7" G>FG>A |"Fmaj7" =F2 C6 | %4
+w: Love is just a- round the|cor- ner,|an- y- coz- zy lit- tle|cor- ner,|
+"G7" z2 G>^F"C7" G>FG>A |"Fmaj7" =F2 c4"Am7b5""D7" d2 |"G7" A4"C7" z3/2 F/ G2 |"Fmaj7" F8 | %8
+w: love is just a- round the|cor- ner, when|I'm a- round|you.|
+"G7" G2 G2"C7" G>^FG>A |"Fmaj7" =F2 c6 |"G7" z2 G>^F"C7" G>FG>A |"Fmaj7" =F2 C6 | %12
+w: I'm a sen- ti men- al|mour- ner,|and I could- n't- be for-|lor- ner|
+"G7" z2 G>^F"C7" G>FG>A |"Fmaj7" =F2 c4"Am7b5""D7" d2 |"G7" A4 z3/2"C7" F/ G2 |"Fmaj7" F6 z2 | %16
+w: when you keep me on the|cor- ner just|wait- ing for|you.|
+"A7" A4 A3 G |"Dm7" F2 D4 A2 |"A7" ^G2 A2 G2 A2 |"Dm7" D6 z3/2 ^F/ |"G7" G G2 G"C#dim7" G G2 G | %21
+w: Ven- us de|Mi- lo was|not- ed for her|charms, but|strict- ly be- tween us you're|
+"G7" G G2 G"C#dim7" G G2 G |"G7" G2"Ddim7" ^G2"G9" A2"G7" =B2 |"C7" c6 C2 |"G7" G2 G2"C7" G>^FG>A | %25
+w: cut- er than Ven- us and|whar's more you've got|arms. So|let's go cud- dle in a|
+"Fmaj7" =F2 c6 |"G7" z2 G>^F"C7" G>FG>A |"Fmaj7" =F2 C6 |"G7" z2 G>^F"C7" G>FG>A | %29
+w: cor- ner|an- y coz- zy lit- tle|cor- ner|Love is just a- round the|
+"F" =F2"Am7b5" c4"D7" d2 |"G9" A4"C7" z3/2 F/ G2 |1"F" F4"G9""C7" z4 :|2"Fmaj7" F6 z2 || %33
+w: cor- ner and|I'm a- round|you.|you.|
+"F" c2"E" =B2"Eb" _B2"D" A2 |"C#" ^G2"D" A2"Eb" B2"E" =B2 |"F" c8- | c8 |] %37
+w: Oo _ _ _|_ _ _ _|||
+

@@ -1,0 +1,47 @@
+X:1
+T:Nervous Little Thing
+C:Frederik Sioen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 53
+V:1
+"^Intro""Em" z4"Am7" z4 |"Dm7" z4"Bbmaj9" z4 |"Em" z4"Am7" z4 |"Dm7" z4"Bbmaj9" z4 | %4
+w: ||||
+"Em" z4"Am7" z4 |"Dm7" z4"Bbmaj9" z2"Bbmaj9/A" z2 | z4"D7b9/F#" z3"G9" z | z8 | %8
+w: ||||
+"^Verse 1""Em" de-e"Am7"A- A2 z2 |"Dm7" dA d2"Bbmaj9" _B2 BA |"Em" A3"Am7" A- A2 z2 | %11
+w: hey * * you *|step a\- side * I can't|stand you, *|
+"Dm7" z A d2"Bbmaj9" _BBBA |"Em" AA-A"Am7"A- A2 z2 |"Dm7" GA A2"Bbmaj9" _B3"Bbmaj9/A" A- | %14
+w: to\- night * I want to|ba\- nish * you, *|move a\- si\- de *|
+ A2 z2"D7b9/F#" z3"G9" z | z8 |"Em""^Verse 2" de-e"Am7"A- A2 z2 |"Dm7" dA d2"Bbmaj9" _B2 BA | %18
+w: ||tell * * me *|what's the pro\- blem? I can|
+"Em" A2 A"Am7"A A2 z2 |"Dm7" z A d2"Bbmaj9" _BBBA |"Em" A2 A"Am7"A- A2 z2 | %21
+w: bare\- ly speak, *|be\- si\- des I can't *|talk to you, *|
+"Dm7" GA A2"Bbmaj9" _B3"Bbmaj9/A" A- | A2 z2"D7b9/F#" z3"G9" z | z8 |"^Chorus""Am" z4 z3"Am/G" z | %25
+w: su\- i\- cidc * *||||
+ z8 |"Am" z4 z3"Am/G" z | z8 |"Am" z4 z3"G" z | z3"Gm/B" z z3"A7sus4" z | z8 | %31
+w: ||||||
+"Em""^Verse 3" de-e"Am7"A- A2 z2 |"Dm7" z A dd"Bbmaj9" _BBBA |"Em" AAA"Am7"A A2 z2 | %34
+w: hey * * you *|* some\- thing that I would *|rea\- lly love to do|
+"Dm7" z A/A/ dd"Bbmaj9" _BBBA |"Em" A3"Am7" A- A2 z2 |"Dm7" z E AA"Bbmaj9" _BBB"Bbmaj9/A"A | %37
+w: turn me in\- side out, I'm going to|find you *|so we can se\- ttle this for|
+ A2 z2"D7b9/F#" z3"G9" z | z8 |"^Verse 4""Em" z A/A/ d"Am7"e eAAA |"Dm7" GAAA"Bbmaj9" _BcB"Em"A- | %41
+w: good||there's a ner\- vous little one * *|stuck in me, he's hi\- ding some\- where|
+ AAd"Am7"e eA AA/A/ |"Dm7" GAAA"Bbmaj9" _BcB"Em"A- | AA d"Am7"e/e/ eAAA | %44
+w: * don't know him * too well, but i|fi\- gure if I do he'll a\- gree|* to leave * a\- lone and give me|
+"Dm7" GAAA-"Bbmaj9" AAA"Bbmaj9/A"A- | A4"D7b9/F#" z3"G9" z | z3 c cAcA | %47
+w: time to find out * who I am|||
+"Am""^Bridge" cd d2 dcA"Am/G"c- | c G2 c cAcA |"Am" cd d2 dcA"Am/G"c- | c G2 c cAcA | %51
+w: ||||
+"Am" cd d2 dcA"G"B- | B2 B"Gm/B"_B- B2 B"A7sus4"A- | A2 A2"Fm/Ab" z3"G9" z | %54
+w: |||
+ z4"Gm/Bb" _B2 B"A7sus4"A- | A2 A2"Fm/Ab" z3"G9" z | z4"Gm/Bb" _B2 B"A7sus4"A- | A2 A2"Fm/Ab" z4 | %58
+w: ||||
+ z8 |"F#dim" z4 z3"G9" z | z8 |"^Outro""Em" de-e"Am7"A- A2 z2 |"Dm7" z4"Bbmaj9" z4 | %63
+w: |||hey * * you *||
+"Em" de-e"Am7"A- A2 z2 |"Dm7" z4"Bbmaj9" z4 |"Em" de-e"Am7"A- A2 z2 |"Dm7" z4"Bb#11" z4 |"Am" z8 |] %68
+w: hey * * you *||hey * * you *|||
+

@@ -1,0 +1,25 @@
+X:1
+T:We Kiss In A Shadow
+T:We kiss in a shadow
+T:(from the King and I)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"F" c c B/A/ | G A3 |"C7" z B B A/G/ | C4 | z B B A/G/ | C C C D/E/ |"F" F4- | F3 z | %8
+w: We kiss in a|sha- dow|we hide from the|moon|our meet- ings are|few and ov- er too|soon||
+ z c c B/A/ | G A3 |"C7" z B B A/G/ | C4 | z B B A/G/ | C C C D/E/ |"F" F4- | F3 z | %16
+w: we speak in a|whis- per|a- fraid to be|heard|when peo- ple are|near we speak not a|word||
+"Am" z A A =B/A/ |"B7" ^F F3 |"Em" z G G A/G/ |"C" E3 E |"F" F2 G A |"E" =B2"D7" c"E7" d | %22
+w: A- lone in our|se- cret|to- geth- er we|sigh for|one smil- ing|day to be|
+"Am" c4- | c4 |"F" z c c B/A/ | G A3 |"C7" z B B A/G/ | C4- | C c c E/F/ | G c2 B |"F7" A4- | %31
+w: free||to kiss in the|sun- light|and say to the|sky|* be- hold and be-|lieve what you|see|
+ A3 A |"Bb" A2 F3/2"Dm" G/ |"Gm" A c2"C" E |"F" F4- | F z d2 |] %36
+w: * be-|hold how my|lov- er loves|me.||
+

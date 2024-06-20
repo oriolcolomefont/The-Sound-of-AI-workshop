@@ -1,0 +1,24 @@
+X:1
+T:Don't Be Cruel
+T:Don't be cruel
+T:(To a heart that's true)
+T:Otis Blackwell and Elvis Presley
+C:Otis Blackwood
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^N.C." A |"C" G G G A | c3 A | G/G/ G G A |"C7" c3 z/ C/ |"F" A A A A | A3 A |"C" G G G A | %8
+w: You|know I can be|found *|sit- ting home all a-|lone If|you can't come a-|round at|least, please tel- e-|
+ c2 E G |"Dm" D4- |"G7" D D/E/ C D |"C" E C3- | C3 C/C/ |"F" A A A A |"G7" B4 |"F" A A A A | %16
+w: phone dont be|cruel|* to a heart that's|true *|* I don't|want no oth- er|love|ba- by its just|
+"G7" B B2 A,/B,/ |"C" C4- | C3 z |: G G G A | c c2 A | G G G A |"C7" c3 c |"F" A A/A/ A A | %24
+w: you I'm think- ing|of||Don't stop think- ing|of me dont|make me feel this|way come|on o- ver here and|
+ A A2 A |"C" G G/E/ G G/A/ | c2 E G |"Dm" D4- |"G7" D D/E/ C D |"C" E C3- |"C7" C3 C |"F" A A A A | %32
+w: love me you|know what I want you to|say dont be|cruel|* to a heart that's|true *|* why|should we be a-|
+"G7" B3 B |"F" A A A A |"G7" B B A, B, |"C" C4- | C3 z :| %37
+w: part? I|real- ly love you|ba- by cross my|heart.||
+

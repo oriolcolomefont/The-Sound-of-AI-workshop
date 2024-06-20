@@ -1,0 +1,35 @@
+X:1
+T:Linda
+T:Linda
+T:Jack Lawrence
+T:trans. Mitcham Tuell
+T:Linda
+T:2
+C:Jack Lawrence
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 52
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Moderate" ^C |:"G" D>G AB- B3 ^C |"G" D>G AB- B3 ^C |"G" D>G AB-"G#dim" B>c BB- | %4
+w: When|I go to sleep, _ I|ne- ver count sheep,- * I|count all the charms _ a- bout Lin-|
+"Am7" B A3- A3 ^C |"D7" D>A Bc- c3 ^C |"D7" D>A Bc- c3 ^C |"D7" D>A Bc- c>d cB/- |"G" B G3- G2 G2 | %9
+w: * da. _ And|late- ly it seems, _ in|all of my dreams, _ I|walk with my arms _ a- bout Lin-|* da. _ But|
+"C" e d2 c2 e3 |"G" d B3- B3 D |"D7" d>D c>D B>D AG- |"Em" G8 |"B7" c B2 A2 c3 |"Em" B G3- G4 | %15
+w: what good does it|do me- * for|Lin- da Does- n't know I ex- ist|_|I can't help feeling|gloo- my, _|
+"A7" A>G ^C>E A>C EA- |"D7" A6 z ^C |"G" D>G AB- B3 ^C |"G" D>G AB- B3 ^C | %19
+w: think of all the lovin' I have missed.|_ We|pass on the street, _ My|heart skips a beat, _ I|
+"G" D>G AB-"G#dim" B>c BB- |"Am7" B A3- A3 ^C |"D7" D>A Bc- c3 ^C |"D7" D>A Bc- c3 ^C | %23
+w: say to my- self, _ "Hel- lo Lin-|* da" _ If|on- ly she'd smile,- * I'd|stop her a while,- * and|
+"D7" D>A Bc- c>d cB/- |"G" B G3- G2 G2 |"C" e d2 c2 e3 |"G" d B3- B3 D |"G" d>D c>D B>D"Dm" A_A- | %28
+w: then I would get _ to know Lin-|* da.- * But|Mir- a- cles still|hap- pen- * and|when my luck- y- star be- gins to|
+"E7" A4- A3 ^C |"Am7" E>A ce- e>c AE- |"Am7" E4"D7" F3 G- |1"G" G4-"G#dim" G4- | %32
+w: shine, _ with|one luck- y break- * I'll make Lin-|* da- mine.|_ _|
+"Am" G6"D7" z ^C :|2"G" G4-"Adim7" G4- ||"G" G6 z2 |] %35
+w: * When|mine.- *||
+

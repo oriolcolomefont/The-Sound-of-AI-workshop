@@ -1,0 +1,24 @@
+X:1
+T:Lovely Lady
+T:Lovely Lady
+T:Jimmy McHugh
+T:ted Koehler
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" E2 D |"Cm" C D E |"Fm7" A2 G |"Bb7" F G A |"Eb" B3 |"Ebdim" e3 |"Fm7" B3- |"Bb7" B2 z | %8
+w: Love- ly|Lad- y I'm|fal- ling|mad- ly in|love|with|you|_|
+"Eb" E2 D |"Ebdim" C D E |"Fm7" A2 G |"Bb7" F G A |"Bb" B3 |"Bbm6" _d3 |"C7" B3- | B2 z |"Fm" c3 | %17
+w: It's a|feel- ing be-|yond con-|ceal- ing, What|can|I|do?|_|Take|
+"Bb7" d3 |"Eb" e3 |"C7" G A B |"Fm" c3 |"F7" C D E |"Fm7" G3 |"Bb+9" ^F3 |"Eb" E2 D |"Cm" C D E | %26
+w: my|heart|it's yours a-|lone,|to keep for-|ev-|er|Love- ly|Lad- y I'm|
+"Fm7" A2 G |"Bb7" F G A |"Eb" B3 |"Fm7" e3 |1"Eb" e2 z |"Fm7" z2"Bb7" z :|2"Eb" e3- | e2 z |] %34
+w: fall- ing|mad- ly in|love|with|you.||you..|_|
+

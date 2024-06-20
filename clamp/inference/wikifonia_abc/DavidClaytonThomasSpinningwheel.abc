@@ -1,0 +1,31 @@
+X:1
+T:Spinning wheel
+T:Spinning Wheel
+T:David Clayton Thomas
+C:David Clayton Thomas
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"E7" d2 de"A7" ^c2 z2 |"D7" c2 cd"G" B2 z2 |"E7" z2 de"A7" c2 z2 |"D7" ccdB-"G" B z z2 | %4
+w: What go- es- up|must come down *|spin- ning wheel|got to go round *|
+"E7" ddde"A7" ^cc=ce |"D7" c d2 B-"G" B2 z2 |!8va(! cBcB cBcB |!8va)! cBcB c2 z2 | %8
+w: talk- in bout your trou- bles its a|cry- ing sin *|ride a paint- ed po- ny let your|spin ning wheel * spin|
+"E7" z Bdd"A7" ^cc z2 |"D7" z Acc"G" B2 z2 |"E7" z2 de"A7" ^c z z2 |"D7" c d2 B-"G" B2 z2 | %12
+w: you got no mon- ey|you got no home|spin- ning wheel|all a- lone *|
+"E7" ddde"A7" ^ccce |"D7" z Acd"G" B2 z2 | cBc!8va(!B cBcB |!8va)! cBcB c2 z2 |:"C" z2 ee e3 e | %17
+w: talk- in bout your trou- bles and you|you nev- er learn|ride a paint- ed po- ny let the|spin- ning wheel * turn|give your fine di-|
+"Bb" d2 d2 d2 dd |"Ab" c2 c2 d2 c2 |"G7" BA G2 GGBd |"C" z2 ee e2 ee |"Bb" d2 d2 d2 d2 | %22
+w: rect- ing sign on the|straight and nar- row|high way * * * * *|would you mind a re-|flect- ing sign just|
+"Ab" c2 c2 c2 c2 |"G7" B2 B2 B2 B2 |"Ab7" c4 c2 c2 |"Bb7" dd d2 d2 d2 |"C" e8- |"D7" e8- | e8- | %29
+w: let it shine with-|in your mind and|show you the|co- ol- ours that are|real|||
+ e8 |"E7" d2 de"A7" ^cc z2 |"D7" c d2 G-"G" G2 z2 |"E7" z2 de"A7" ^c2 z2 |"D7" c d2 G-"G" G2 z2 | %34
+w: |some- one is wait- ing|just for you *|spin- ning wheel|spin- ning true *|
+"E7" d2 de"A7" ^ccce |"D7" c d2 G-"G" G2 z2 | cB!8va(!cB cBcB |!8va)! cBcB c2 z2 :| %38
+w: drop all your troub- le on the|riv- er side *|catch a pain- ted po- ny let the|spin- ning whe el fly|
+"D7" c!8va(!BcB c4!8va)! |] %39
+w: spin- ning whe- el fly|
+

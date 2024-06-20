@@ -1,0 +1,32 @@
+X:1
+T:I Used To Be Color  Blind
+T:I Used To Be Color Blind
+T:From Movie: Carefree
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" z C2 D- DF G2 |"G9" A A2 A- A3 G |"Gm7b5" B B2 B- B3 A |"F" c c2 c- c3 d | %4
+w: I used _ to be|col- or blind, _ but|I met you _ and|now I find _ there's|
+"E+7" (3e2 e2 e2"D9" e3 d |"G9" (3A2 A2 A2"C9" A3 G |"F6" (3D2 D2 D2 D4- | D2 D2 ^C2 D2 | %8
+w: green in the grass, there's|gold in the moon, there|blue in the skies.|_ That sem- i-|
+"Gm7" c2 B2 A2 G2 |"Gm7b5" B2 A2 (3G2 F2 G2 |"F" A8- | A2 D2 E2 F2 |"G9" A2 G2 F2 D2 | %13
+w: cir- cle that was|al- ways hang- ing a-|bout|_ is not a|storm- cloud, it's a|
+"Bb/C" F4"C7" E4 |"Ab" _E _A2 c _e f3 |"C7/G" c8 |"F" z C2 D- DF G2 |"G9" A A2 A- A3 G | %18
+w: rain- bow.|You brought the col- ors|out.|Be- lieve _ me it's|real- ly true, _ 'til|
+"Gm7b5" B B2 B- B3 A |"F" c c2 c- c3 d |"Am7b5" _e e2 e- e3 d |"D7" c c2 c- cB A2 |"Gm7""Gm" B8- | %23
+w: I met you _ I|nev- er knew _ a|set- ting sun _ could|paint such beau- * ti- ful|skies.|
+ B2 D2 ^C2 D2 | c2 B2 A2 G2 |"Gm7b5" B A2 G- G F3 |"F/C" z A2 A d2 df- |"Bbmaj7" f6 d^d | %28
+w: _ I nev- er|knew there were such|love- ly col- * ors.|And the big sur- prise|_ is the|
+"E+7" (3e2 e2 e2"D7" e3 d |"G9" (3A2 A2 A2"C9" A3 G |1"F" (3G2 F2 E2 F4- |"G7" F2 z2"C9" z4 :|2 %32
+w: red in your cheeks, the|gold in your hair, the|blue in your eyes|_|
+"F" (3G2 F2 E2 F4- | F2 z2 z4 |] %34
+w: blue in your eyes.|_|
+

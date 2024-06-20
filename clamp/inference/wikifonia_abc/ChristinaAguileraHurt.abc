@@ -1,0 +1,39 @@
+X:1
+T:Hurt
+C:Christina Aguilera
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Emin
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"Em""^Intro" z4 z4 |"B7" z4 z4 |"Em" z4 z4 |"Am" z4 z4 |"C" z4 z4 |"B7" z4 z4 |"Em"z2zB, EFGF- |: %7
+w: ||||||Seems like it was yes-|
+"^Verse""B7" F/E/B,- B,A,/G,/ A,/G,/B,- B,2 |"Em"z2zB, EFGF- |"Am" F/E/C- CA,/G,/ A,/G,/B,- B,A, | %10
+w: _ ter- day _ when I saw your face _|You told me how proud|_ you were _ but I walked a- way _ _|
+"C"z2zB, EFGF- |"B7" FzzA,/G,/ A,/G,/B,- B,2 |"Em" z2 (BA- A/G/E AG- | GA)z4zE/E/ || %14
+w: If on- ly I knew|_ what i know to- day _|Ha _ _ _ _ _ _|_ _ I would|
+"C" AA/A/- AG/G/- G2zE/E/ |"A7" AA/A/- AE/A/- A2 z2 |"D" AA/A/ AG/(A/- A/G/F)zG | %17
+w: hold you in _ my arms _ I would|take the pain * a- way _|Thank you for all you've done _ _ _ For-|
+"B7" AG/A/- AB/(c/- cB)zB |"C" B/AG/ GF/F/- F2z>E |"A7" AA/A/- AE/A/- A2zz/E/ | %20
+w: give all your _ mis- takes * * There's|no- thing I Would- n't do * To|hear your voice _ a- gain _ Some-|
+"D" AA/A/- AG/A/- AAzE/E/ |"B7" AG/A/- AB/(c/- c<B) z2"^Chorus" ||"Em" (G3/2A/4B/4 B)B c2 BB- | %23
+w: times I wan- * na call _ you But I|know you won't _ be there _ _|Ooo _ _ _ I'm sor- ry for|
+"B7" B2- B(c B2) AB- |"Em" B2- BB c2 BB- |"Am" B2(3zEG B/AA/- A2 |"C" z2 GG c2 B(F- |1 %27
+w: _ _ bla- _ ming you|_ _ For eve- ry- thing|_ I just could- n't do _|And I've hurt my self|
+"B7" F/E/^D- D)B, c2 BB- |"Em" B2zB, EFGF- :|2"B7" (F/E/^D- D)zzz/(G/ FG/E/-"^Bridge" || %30
+w: * * * * by hur- ting you|* Some days I feel broke|* * * * Ha _ _ _|
+"Em" E)zz2z2zE/E/ |"D" BA/A/- A/G/B- B4- |"C" B4z2(3zGB |"Em" (3edd (3dcc (3cBA (3BAG |"C" B4 z4 | %35
+w: _ If I|had just one _ more day _|_ I would|tell you how much that I missed you since you've beena- *|way|
+"Am" (3(ABc c)A B2 c(^G- |"E" ^G/F/E/F/ E2)(3zzE (3ABc |"C" (d3/2c/4B/4 c-c/4d/4c/4B/4 c/B/A- A2) | %38
+w: Oo * * * It's dan- ge- rous|_ _ _ _ _ It's so out of|time * * * * * * * * * * *|
+"D"zA dc BA- A2 |"B7" (B-B/4c/4B/4A/4 B2 ^d/=d/^d- !fermata!d2) ||"Em"z2zB c2 BB- | %41
+w: To try and turn back _|time * * * * * * * * *|I'm sor- ry for|
+"B7" B2- B(c B2) AB- |"Em" B2- BB c2 BB- |"Am" B2(3zEG B/AA/- A2 |"C" z2 GG c2 B(F- | %45
+w: _ _ bla- _ ming you|_ _ For eve- ry- thing|_ I just could- n't do _|And I've hurt my self|
+"B7" F/E/^D- D/^C/B,) z4 |"C"zC EG B2 c2- |"Am" c3d/c/ B2 GA |"B7" B2zB, (c B2)A | %49
+w: |||* By hurt- _ ing|
+"Em" !fermata!B4 z4 |] %50
+w: you.|
+

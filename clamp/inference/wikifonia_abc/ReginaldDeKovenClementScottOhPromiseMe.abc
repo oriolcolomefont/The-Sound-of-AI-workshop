@@ -1,0 +1,31 @@
+X:1
+T:Oh Promise Me
+T:Oh Promise Me
+T:Clement Scott
+T:Reginald De Koven
+C:Reginald De Koven
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 C2 |:"F" AAAA"Bb" B"F"AF"C7"G |"F" A6 z A |"C7" cGGA"Bb" BF"Bbm"F_D |"F" C6 z C | %5
+w: Oh,|prom- ise me that some day you and|I will|take our love to- geth- er to some|sky. Where|
+w: |prom- ise me that you will take my|hand, The|most un- worth- y- in this lone- ly|land. And|
+"Gm" BBBB dGG"D7"A |"Gm" B6 z B |"Bb" FFFF GGFG |"A7" A4"C7" B2 z c |"F" c2 c2"Dm" dAAA | %10
+w: we can be a- lone, and faith re-|new, And|find the hol- lows where those flow- ers|grew. * Those|first sweet vi- o- lets of|
+w: let me sit be- side you in your|eyes, See-|ing the vis- ion of our pa- ra-|dise. * Hear-|ing God's mes- sage while the|
+"C7" c3 G G2 z G |"Dm" F3 F"Bb" BB"Dm"A"Fdim"^G |"A7" A3 E E3 E |"Dm" D3 D"A7" EEDE | %14
+w: ear- ly spring, Which|come in whis- pers, thrill us|both, and sing of|love un- speak- a- ble that|
+w: voi- ces roll, They're|might- y mus- ic to our|ve- ry sopuls. No|love less per- fect than a|
+"Dm" F3 F"Bb" G2"Fdim" ^G2 |1"F" AA"Bb"B"F"A F2"C7" G2 ||"F" F6 C2 :|2 %17
+w: is to be; Oh|prom- ise me, Oh prom- ise|me! Oh|
+w: life with thee, Oh|||
+"F" AA"Bb"B"F"A"G7" d2"C7" c2 ||"F" c6 z2 |] %19
+w: prom- ise me, Oh prom- ise|me!|
+w: ||
+

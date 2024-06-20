@@ -1,0 +1,31 @@
+X:1
+T:Invisible Tears
+T:Invisible Tears
+T:Ned & Sue Miller
+C:Ned & Sue Miller
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"F7" A/A/- A/B/ c ||S"Bb" d2"Gm" B G/E/- |"C7" E E/E/- E/F/ G |"F/A" c2 A F/D/- | %4
+w: IN- VIS- * I- BLE|TEARS in my eyes,|* in- cred- * i- ble|pain in my heart,|
+"Dm" D F/F/ F/G/ A |"Gm" B B B B |"C7" A/ G3/2"Gm7" F"C7" G/A/- |"F" A4 |"F7" z A/A/- A/B/ c | %9
+w: * In- de- struc- ta- blr|mem- o- ries are|pass- ing in re- view;||Im- pos- * si ble,|
+"Bb" d2"Gm" B G/E/- |"C7" E E/E/- E/F/ G |"F/A" c2 A F/D/- |"Dm" D F/F/- F/G/ A |"Gm" B B B B | %14
+w: though things may get|* Im- prob- * a- ble,|I will for- get,|* In- del- * i- ble|mem- o- ries of|
+"C7" A z G/E/ G |1"F""Bb" F4- ||"F" F z (3A G"^GO TO" F ||2O"F" F4 ||"F7" z F/F/- F/G/ A | %19
+w: sweet, lov- a- ble|you.|* you're back a-|you|In- del- * i- ble|
+"Bb" B B"Gm" B B |"C7" A z G/E/ G |"F" F4- | F z z2!fine! |]O"C7" A"Gm""Gm7" G3 |"C7" z G (3G F E | %25
+w: mem- o- ries of|sweet, lov- a- ble|you.||gain. *|So, I'll let you|
+"F" G F3 |"F7" z F"Cm7" G"F7" A |"Bb" B B"Gm7" B/ B3/2 |"C7" A G"Gm7" F3/2"C7" G/ |"F" A4 | %30
+w: in; *|Al- tho' I'm|on- ly see- ing|pic- tures from the|past.|
+ z A (3A G F |"C7" A"Gm""Gm7" G3 |"C7" z G (3G F E |"F" G F3 |"F7" z F"Cm7" G"F7" A | %35
+w: Those arms are not|real, *|but some- times I|feel, *|If I'd just|
+"Bb" B B"Gm7" B B |"C7" A/ A3/2 G/ G3/2 |"F" F4 |"F7" z A/A/- A/B/ c!D.S.! |] %39
+w: close my eyes, then|may- be it would|last.|IN- VIS- * I- BLE|
+

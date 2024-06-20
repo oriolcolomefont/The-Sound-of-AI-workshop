@@ -1,0 +1,33 @@
+X:1
+T:A Summer Place
+T:A Summer Place
+T:(Theme from)
+T:Max Steiner
+T:Mack Discant
+C:Max Steiner
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" G6- |"Dm7" G2 A"G7" c2 B |"C" G6- |"Dm7" G2 A"G7" c2 B |"C" e3- e2 B |"Dm7" A3-"G7" ABd | %6
+w: There's|* a sum- mer|place|* where it may|rain * or|storm * yet I'm|
+w: in|* that sum- mer|place|* your arms reach|out * to|me * and my|
+"C" e3- e2 B |"Dm7" A3-"G7" ABd :|"C" c6- |"Dm7" c3-"G7" cBd |"C" c6- |"Dm7" c3-"G7" cBd | %12
+w: safe * and|warm * for with||||* * there are|
+w: heart * is|free * from all|care|* * for it|knows||
+"C" c3 cBe |"F" B3"Dm7" A3 |"C" G3-"Am7" GAc |"Dm7" G3"Fm" F3 |"C" E3-"Dm" EFB |"D7" B3 e3 | %18
+w: no * gloom- y|skies when|seen * through the|eyes of|those * who are|blessed with|
+w: ||||||
+"G7" d6- | d"^N.C."G,A, B,DA |"C" G6- |"Dm7" G2 A"G7" c2 B |"C" G6- |"Dm7" G2 A"C" c2 B | %24
+w: love|* and the sweet se- cret|of|* a sum- mer|place|* is that it's|
+w: ||||||
+"G" e3- e2 B |"Dm7" A3-"G7" ABd |"C" e3- e2 B |"Dm7" A3-"G7" ABd |"C" c6- |"Dm7" c3- c"G7"Bd | %30
+w: an- * y-|where * when two|peop- * ple|share * all their|hopes|* * all their|
+w: ||||||
+"C" c6- |"Dm7" c3- c"G7"Bd |"C" c6- |"Dm7" c6- |"C" c6- |"C" c3- c2 z |] %36
+w: dreams|* * all their|love||||
+w: ||||||
+

@@ -1,0 +1,28 @@
+X:1
+T:Fit As A Fiddle
+T:Fit As A Fiddle
+C:Al Goodhart, Al Hoffman
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Fm" F2 F>F"Bb7" B B2 B |"Fm" FFFB-"Bb7" B4 |"Cm" EEEB-"Gm" B B2 B |"Cm" EEEB-"Gm" B4 | %4
+w: Fit as a fid- dle and|read- y for love, _|I could jump ov- * er the|moon up a- bove, _|
+"Fm" C E2 C"Bb7" DF A2 | c2 c4 D2 |"Eb" B8- |"Bb7" B6"Bb+" z2 |"Fm" F2 F>F"Bb7" B B2 B | %9
+w: Fit as a fid- dle and|read- y for|love.|_|Have- n't a wor- ry, I|
+"Fm" FFFB-"Bb7" B4 |"Cm" EEEB-"Gm" B B2 B |"Cm" EEEB-"Gm" B4 |"Fm" C E2 C"Bb7" DF A2 | c2 c4 D2 | %14
+w: have- n't a care, _|feel like a feath- * er that's|float- ing on air, _|Fit as a fid- dle and|read- y for|
+"Eb""Ab" E8- |"Eb" E2"Ab7" z2"Eb6" z _d2"Eb7" c | _d2 E2 G2 B2 | _d2 d4"Cm" c>=B | %18
+w: love.|_ Soon the|church bells will be|ring- ing And I'll|
+"Ab" c2 E2 F2 A2 | c4- c2"F7" e>=d | e2 F2 =A2 c2 | e2 e4 d>c |"Bb7" B2 B>B B>BB>B | %23
+w: march with Ma and|Pa, _ How those|church bells will be|ring- ing, With a|hey, nonn- y, nonn- y and a|
+"Fm" f2"Bb" _B2"Gm""Bb+" B4 |"Fm" F2 F>F"Bb7" B B2 B |"Fm" FFFB-"Bb7" B4 |"Cm" EEEB-"Gm" B B2 B | %27
+w: hot- cha- cha!|Hi did- dle did- dle, My|ba- by's o- kay, _|Ask me a rid- * dle, oh|
+ EEEB- B4 |"Fm" C E2 C"Bb7" DF A2 | c2 c4 D2 |1"Eb" E6"Gdim" z2 ||"Fm""Bm""Bb+" z8 :|2 %32
+w: what did she say? _|Fit as a fid- dle and|read- y for|love.||
+"Eb""Am" E8- ||"Eb" E2"Ab7" z2"Eb" z4 | %34
+w: love.|_|
+

@@ -1,0 +1,43 @@
+X:1
+T:Pieces
+T:Pieces
+T:Sum 41 - Chuck
+T:Words and Music: Deryck Whilbey / Greig Nori 
+C:Deryck Whilbey, Greig Nori
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Amin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" [A,EA]8 |:"Fsus2" [F,CG]8 |"Cpower" [G,CG]8 |"G/B" [B,DG]8 |"Am" z2 z C GEE(E | %5
+w: ||||I tried to be per-|
+w: ||||This place is so emp-|
+w: ||||I tried to be per-|
+"Fsus2" F) E2 D DCD(E |"C" F) E2 z EEED- |"G/B" D E2 D- D(DE)C |"Am" C2 z C GEE(E | %9
+w: * fect, but noth- ing was worth|_ it. I don't be- lieve|_ it makes _ me _ _|real I thought it'd be eas-|
+w: * ty, my thoughts are so tempt-|* ing. I don't know how|_ it got _ so _ _|bad. Some- times it's so cra-|
+w: * fect, it just was- n't worth|_ it. Noth- ing could ev-|* er be _ so _ _|wrong. It's hard to be- lieve|
+"Fsus2" F) E2 D DCD(E |"C" F) E3 z EE(E |"G/B" F2) ED- D(DE)C |"Fsus2" C2 z G A B2 (B | %13
+w: * y, but no one be- lieves|_ me. I meant all|_ the things _ I _ _|said. If you be- lieve|
+w: * zy that noth- ing can save|_ me, but it's the|on- ly thing _ that I have.||
+w: _ me, it ne- ver gets eas-|* y. I guess I|knew that all _ a- * *|long. * * * *|
+ c2) [Bd]2 [Ac]([Gc-][Ac])[G-c] |"C" [Gc]4 z [Cc][Cc][FB]- | %15
+w: _ it's in my _ soul,|_ I'd say all|
+w: ||
+w: ||
+"G/B" [GB]2 [FB][EB]- [EB][EB][FB][Ec]- |"Fsus2" [Ec]2 z2 A B2 (B | c2) [Bd]2 [Ac][Gc]-[Ac][G-c] | %18
+w: _ the words _ that I know|_ just to see|_ if it would _ show|
+w: |||
+w: |||
+"C" [Gc]4 z [Cc][Cc]([FB-] |"G/B" [GB]2) [FB][EB]- [EB][EB][FB][Ec]- |"Fpower" [Ec]4 z CC(E | %21
+w: _ that I'm try-|* ing to _ let you know|_ that I'm bet-|
+w: |||
+w: |||
+ F2) ED- DD(EC) |"Am" C4 z4 :| %23
+w: * ter off _ on my _|own.|
+w: ||
+w: ||
+

@@ -1,0 +1,30 @@
+X:1
+T:I Found A Million Dollar Baby
+T:I Found A Million Dollar Baby
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" z3/2 C<DC/ F>E"C"G>F |"F" A2"F6""F+" A6 |"F" z3/2 C<DC/"Dm7" F>EG>F |"G9""Db9" A8 | %4
+w: It was a luck- y Ap- ril|show- er,|it was the most con- ven- ient|door.|
+"C7" z3/2 G<AG/"Cdim" A>GA>G |"Gm7" c2"C7" c4 G>A |"Gm7" c2 c2"C7" C2 D2 |"Eb9""D9""Db9""C9" A8 || %8
+w: I found a mil- lion dol- war|ba- by, In a|five and ten cent|store.|
+"F" z3/2 C<DC/ F>E"C"G>F |"F" A2"F6""F+" A6 |"F" z3/2 C<DC/"Dm7" F>EG>F |"G9""Db9" A8 | %12
+w: The rain con- tin- ued for an|ho- ur,|I hung a- round for three or|four,|
+"C7" z3/2 G<AG/"Cdim" A>GA>G |"Gm7" c2"C7" c4 G>A |"Gm7" c2 c2"C7" B2 E2 |"F" F4 E>FG>^G | %16
+w: a- round a mil- lion dol- lar|ba- by In a|five and ten cent|store. She was sel- ling|
+"E" A4"A" B4- |"E" B>A^G>A"A7" e2 ^c2 |"Dm""E""F" A8- |"Dm" A4 D>E"Ab9"F>^F |"G7" G4"Dm7" A4- | %21
+w: chi- na|_ amd when se made those|eyes,|_ I kept buy- ing|chi- na|
+"G7" A>G^F>G"Dm7" d2"G9" A2 |"C" G8- |"C7" G2 c>c"D" A2"Edim" G2 ||"F" z3/2 C<DC/ F>E"C"G>F | %25
+w: _ un- til the crowd got|wise.|_ In- ci- dent- 'ly,|if you should run in- to a|
+"F" A2"F6""F+" A6 |"F" z3/2 C<DC/"Dm7" F>EG>F |"G9""Db9" A8 |"C7" z3/2 G<AG/"Cdim" A>GA>G | %29
+w: show- er,|just setp in- side my cot- tage|door|and meet the mil- lion dol- lar|
+"Gm7" c2"C7" c4 G>A |"Gm7" c2 c2"C7b9" B2 E2 |"F""G7" F6"C7" z2 :|"F" F6 z2 |] %33
+w: ba- by from the|five and ten cent|store.|store.|
+

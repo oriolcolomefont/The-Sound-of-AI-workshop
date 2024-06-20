@@ -1,0 +1,28 @@
+X:1
+T:The Rock and Roll Waltz
+T:The Rock and Roll Waltz
+T:Shorty Allen
+T:Dick Ware
+C:Shorty Allen
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" C E/G/ A | G3 |"F" F A/c/ d | c3 |"C" C E/G/ A | G2 E/G/ |"G7" D3- | D2 z |"C" C E/G/ A | G3 | %10
+w: One night I was|late,|came home from a|date|Slipped out of my|shoes at the|door|_|Then from my front|room|
+"F" F A/c/ d | c2 c |"C" G G G |"G7" B c d |"C" c3- | c3 |"F" c2 A/B/ | c2 A/c/ |"C" A G E | %19
+w: I heard a jump|tune I|looked in and|here's what I|saw|_|There in the|night was a|won- der- ful|
+ G2 G/A/ |"G7" G F F | F2 A/B/ |"C" A G3/2 E/ |"G7""C7" G3 |"F" c2 A/B/ | c2 A/c/ |"C" A G3/2 E/ | %27
+w: scene Mom was|danc- ing with|Dad to my|re- cord ma-|chine|and while they|danced on- ly|one thing was|
+ G2 G/A/ |"G" B B B |"D7" d2 c/A/ |"G7" B d d | d3 |"C" C E/G/ A | G3 |"F" F A/c/ d | c3 | %36
+w: wrong they were|try- ing to|waltz to a|rock and roll|song|One two and then|rock|One two and then|roll|
+"C" C E A | G E G |"G7" D3- | D3 |"C" C E G | C E G |"F" F A c | F A c |"C" G c3/2 A/ |"G7" B c d | %46
+w: they did the|rock and roll|waltz|_|Rock two three|roll two three|It looked so|cute to me|I love the|rock and roll|
+"C" c3- | c3 ||"C" c c/A/ c | c3 |"C" c c/A/ c |"C7" c3 |"F7" c c/A/ c | c3 |"C" c c/A/ c | c3 | %56
+w: waltz,|_|one two and then|rock,|one two and then|roll|one two and then|jump|it's good for your|soul|
+"G7" d d/B/ d | d3 |"Ab7" _e e c |"G7" d c A/c/ |1"C" c3- | c c2 :|2"C" c3- || c3- | c3- | c z2 |] %66
+w: It's old but its|new|lets do the|rock and roll *|waltz|_ _|waltz||||
+

@@ -1,0 +1,45 @@
+X:1
+T:Skip To My Lou
+T:Skip To My Lou
+T:Hugh Martin & Ralph Blane
+C:Hugh Martin and Ralph Blane
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"^N.B.Many alt. lyrics available." G4 |:"Cmaj7" E3 E"C6" C2 C2 |"Cmaj7" E2 EE"C6" G4 | %3
+w: So,|choose your part- ner,|Skip To My Lou,|
+w: |Lost my part- ner,|Skip To My Lou,|
+"Dm7" D3 D"G7" B,2 B,2 |"Dm7" D2 DD"G7" F4 |"Cmaj7" E3 E"C6" C2 C2 |"Cmaj7" E2 EE"C6" G2 z2 | %7
+w: choose your part- ner,|Skip To My Lou|choose your part- ner,|Skip To My Lou,|
+w: Lost my part- ner,|Skip To My Lou,|Lost my part- ner,|Skip To My Lou,|
+"Dm7" D2 EF"G7" E2 D2 |"C" C3 C- C4- |"Ab7" C4 z4 |"Dbmaj7" F2 FF"Db6" _DD D2 | %11
+w: Skip To My Lou my|dar- lin'. *||Flies in the but- ter- milk,|
+w: Skip To My Lou my|dar- lin.' *||I'll find an- oth- er one|
+"Dbmaj7" (FF)(FF)"Db6" _A4 |"Ebm7" _E2 EE"Ab7" CC C2 |"Ebm7" (_EE)(EE)"Ab7" _G4 | %14
+w: shoo, * shoo, * shoo,|flies in the but- ter- milk,|shoo, * shoo, * shoo,|
+w: pret- ti- er than you,|I'll find an- oth- er one|pret- ti- er than you,|
+"Dbmaj7" F2 FF"Db6" _DD D2 |"Dbmaj7" (FF)(FF)"Db6" _A3 A |"Ebm7" _E2 F_G"Ab7" F2 E2 | %17
+w: flies in the but- ter milk,|shoo, * shoo, * shoo, *|Skip To My Lou my|
+w: I'll find an- oth- er one|pre- ti- er than you and|go to an- oth- er|
+"Db" _D3 D- D4- |"A7" D4 z4 |"D6" D2 D2"A7" E2 ^F2 |"D6" D2 ^F2"A7" E2 z A, | %21
+w: dar- lin'. *||Girl:....I'll be glad to|go with you, so|
+w: par- ty. *||Boy:....I'll be glad to|go with you, so|
+"D6" D2 D2"A7" E2 ^F2 |"D" D3 ^C-"A7" C2 z A, |"D" D2 D2"D7" E2 ^F2 |"G" G2 ^F2"Em" E2 z D | %25
+w: pri- thee do not|tar- ry, * but|if I do it's|up to you, to|
+w: pri- thee do not|dal- ly, * but|if I do it's|up to you to|
+"A7" ^C2 A,2 B,2 C2 |"D6" D3 D- D4 | ^F2 FF A4 |"Em7" E3 E- E4 |"A7" E2 EE G4 |"D6" ^F3 F- F4 | %31
+w: let me dance with|Har- ry *|(Skip To My Lou,)|Char- lie, *|(Skip To My Lou)|John- ny, *|
+w: let me dance with|Sal- ly, *|(Skip To My Lou)|Dai- sy, *|(Skip Top My Lou),|Ma- ry, *|
+ ^F2 FF A4 |1"Em7" E2 ^FG"A7" F2 E2 ||"D6" D3 D- D4- |"G7" D4 z4 :|2"Em7" E2 ^FG"A7" F2 A2 || %36
+w: (Skip To My Lou)|Skip To My Lou, my|dar- lin.' *||Skip To My Lou, my|
+w: Skip To My Lou)|||||
+"D6" d3 d- d4- | d6 z2 |] %38
+w: dar- lin.'- *||
+w: ||
+

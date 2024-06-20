@@ -1,0 +1,26 @@
+X:1
+T:Es Gibt Kein Bier Auf Hawaii
+T: Laukens Music Productions  
+T:Wals
+T:ES GIBT KEIN BIER AUF HAWAII
+T:Arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" e d c |"G7" d c B |"C" c z G |"G7" c2 d |:"C" e3 | e2 c | G2 G | c2 e |"G7" d3- | d3- | d2 G | %11
+ B2 c | d3 | d2 c | B2 G | B2 d |"C" c3- | c3- | c2 G | c2 d | e3 | e2 d |"C7" c2 c | f2 g | %24
+"F" a3- |"A7" a3- |"Dm" a2 a |"G7" g2 f |"C" e2 c | e2 c | e2 c |"G7" G2 d |"C" c3- |"F" c3- | %34
+"C" c3- |!fine! c e d || c2 G | A2 G | e c2- | c2 G | c c c |"Cdim" c B c |"G7" d3- | d f e | %44
+ d2 G | A2 G | f d2- | d2 G | d d d | d c d |"C" e3- |"C7" e2 e |"F" f f f |"Fm" f c d |"C" e3 | %55
+"C7" c d e |"F" f2 f |"Fm" f c d |"C" e3- |"Am" e e d | c c c | c d e |"F" f f f |"Fm" f e d | %64
+"C" e d c |"G7" d c B |"C" c z G |"G7" c2 d :| %68
+

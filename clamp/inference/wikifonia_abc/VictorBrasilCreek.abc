@@ -1,0 +1,29 @@
+X:1
+T:Creek
+T:Creek
+T:Victor Brasil
+T:1971 Good Morning Music
+C:Victor Brasil
+Z:All Rights Reserved
+L:1/8
+Q:1/4=272
+M:4/4
+K:Bb
+V:1 bass 
+%%MIDI program 40
+V:1
+"^Bright Samba =272""^(bass)" C,4 ||"F13" F,2 z F,- F,4 |"F13sus4" F,2 z F,- F,4 | %3
+"F13" F,2 z F,- F,4 | %4
+"F13sus4""_(bass rhythm continues through letter A)" F,2 z F,- F,4[K:treble] |: %5
+[K:treble]S"F7""^A""_(sop, fl., & elec. pn)" FAea eAFE |"Bb" DFBc dfba | %7
+"F7" f6"_(pn. plays lower line)" [eg-]2 | [eg][df][ce][Bd] [Ac][GB][FA][EG] |"F7" FAea eAFE | %10
+"Bb" DFBc dfba |"F7""_Piano Fill" f8- | f8 |"Bb7""_Piano plays chords" z Bdf _agfe | dcBA _ABce | %15
+"Eb7" =dB E6- | E8 |"C7""_(pn. plays upper line)" [C=E][DF][=EG][FA] [GB][Ac][Bd][c=e] | %18
+ [df][fa][=eg][df] [c=e][_eg][gb][bd'] |"F7" [ac'][gb]"^Piano Fill" [f-a]6 | [fa]8 | %21
+"F7""_(pn. tacet)" efge dc=Bc | f=e_ed cBAG |"F13""_2nd x: solo starts" F8- |"F13sus4" F8!dacoda! | %25
+"F13" z8 |"F13sus4" z8 ::"F7""^B""^Solos" B2 B2 B2 B2 | B2 B2 B2 B2 | B2 B2 B2 B2 | B2 B2 B2 B2 | %31
+ B2 B2 B2 B2 | B2 B2 B2 B2 | B2 B2 B2 B2 |"^(8 bars)" B2 B2 B2 B2 |"Bb7" B2 B2 B2 B2 | x8 | %37
+"Eb7" B2 B2 B2 B2 | x8 |"C7" B2 B2 B2 B2 | x8 |"F7" B2 B2 B2 B2 | x8!D.S.! :: %43
+[K:bass]O"F13""_(bass. Vamp, Solo and fade)" F,2 z F,- F,4 |"F13sus4" F,2 z F,- F,4 :| %45
+"F7""_bass during solos:" F,3 F,- F,2 E,2 | x8 |"F7""_or...this" F,6 E,2 | x8 | %49
+

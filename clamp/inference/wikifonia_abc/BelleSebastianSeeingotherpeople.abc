@@ -1,0 +1,56 @@
+X:1
+T:Seeing other people
+C:Belle & Sebastian
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C#
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"C#" C2 D E2 DC__D |"B" =B,2 C D2 CB,=E- |"E" E2 F G2 F=ED |"C#" C2 D E2 DC__D | %4
+w: ||||
+w: ||||
+"B" =B,2 C D2 CB,=E- |"E" E2 F G2 F=EG- |"G#" G2 A __d2 AG=c- | c2 ^c d2 c=c^c- | %8
+w: ||||
+w: ||||
+"F#" c2 A A2 G F2 | c2 A A2 G F2 |"E" =B2 G G2 F =E2 | =B2 G G2 F=ED |"C#" C2 D E2 DC__D | %13
+w: |||||
+w: |||||
+"B" =B,2 C D2 CB,C- |"C#" C8- | C8 || z2 z CGF=FD- |"B" D C2 z2 z2 z |"C#" z2 z z GF=FG | %19
+w: |||We lay on a bed|* there|kis- sing just for|
+w: |||You're kis- sing your el-|* bow,|kis- sing your re-|
+"A#m" A2 E2 z GA=B- |"B" B=BB B2 AGF |"F#" AAAA AGFA |"C#" G2 =FC G^F=FD- |"B" D C2 z2 z2 z | %24
+w: prac- tice. could we please|* be ob jec- tive cause the|o- ther boys are queu- ing up be-|hind us, a hand o- ver my|* mouth,|
+w: flec- tion, and you can't|* un- der- stand why all the|o- ther boys are go- ing for the|new, tall, * e- le- gant rich|* kids.|
+"C#" z2 z CGF=FG |"A#m" A2 E2 z GA=B- |"B" B=BB B2 AGF- |"F#" FFFF F=FDC |"C#" Ccc c2 =cAG- | %29
+w: a hand o- ver the|win- dow. Well, if I|* re- main pas- sive and you|* just want to cud- dle then we|should be o- kay, and we won't|
+w: you bet it is a|bitch, kid. But if they|* don't see thequa- li- ty then|* it is ap- pa- rent that you're|gon- na have tochange or you're gon|
+"G#" GGG=F GGA=B- |"B" B=BBB BAGF- |"F#" FFFF F=F D2 |"G#" =FD- D4 z2 ||1"C#" z2 z CGF=FD- || %34
+w: * get in a mud- dle, we're see-|* ing o- ther peo- ple, at least|* that's what we say we are|do- ing- .|So how are you fee-|
+w: * na have to go * with girls|* you'll * * be bet- ter off,|* at least they know what they're|do- ing.- *||
+"B" D C2 z2 z2 z |"C#" z2 GG GF=FG |"A#m" z2 A2 EGA=B- |"B" B__ddd A G2 F- |"F#" FFFF F=FDC | %39
+w: * ling?|I don't think you could be|dea- ling with the si-|* tu- a- tion ve- ry well,|* you take a lo- ver for a|
+w: |||||
+"C#" Ccc c2 =cAG- |"G#" G2 G=F GGGA |"B" =BBBB A G2 F- |"F#" FFF F2 =F D2 |"G#" =FD D4 z z | z8 :|2 %45
+w: dir- ty week- end, that's o- kay,|* when it's o- ver you are|look- ing at the wor- king week|* through the eyes of a|gi- go- lo.||
+w: ||||||
+"C#" z2 z CGF=FD- ||"B" D C2 z2 z2 z |"C#" z2 z z GF=FG |"A#m" A2 E2 z GA=B- |"B" B=BB B2 AGF | %50
+w: We lay on a bed|* there,|kis- sing just for|prac- tice, could we please|* be ob- ject- ive cause the|
+w: |||||
+"F#" AAAA AGFA |"C#" G2 =FC G^F=FD- |"B" D C2 z2 z2 z |"C#" z2 z CGF=FG |"A#m" A2 E2 z GA=B- | %55
+w: o- ther boys are queu- ing up be-|hind us, a hand o- ver my|* mouth,|a hand o- ver the|win- dow, well, if I|
+w: |||||
+"B" B=BB B2 AGF- |"F#" FFFF F=FDC |"C#" Ccc c2 =cAG- |"G#" GGGE GGA=B- |"B" B=BBB BAGF- | %60
+w: * re- main pas- sive and you|* just want to cud- dle then we|should be o- kay and we won't|* get in a mud- dle, we're see-|* ing o- ther peo- ple, at least|
+w: |||||
+"F#" FFFF F=F D2 |"G#" ED- D4 z2 | z4 z2 z F |"B" =BBBB BAGF- |"F#" FFFF F=F D2 x24 | %65
+w: * that's what we say we are|do- ing, *|we're|see- ing o- ther peo- ple, at least|* that's what we say we are|
+w: |||||
+"G#" ED- D4 z2 x24 | z8 |"B" =BBBB BAGc- x24 |"F#" cccc c=c A2 x24 |"G#" =cA- A4 z z x24 | z8 x24 | %71
+w: do- ing *||see- ing o- ther peo- ple at least|* that's what we say we are|do- ing. *||
+w: ||||||
+"B" z8 x24 |"F#" z8 x24 |"G#sus4" z8 x24 |"G#" z8 x24 |] %75
+w: ||||
+w: ||||
+

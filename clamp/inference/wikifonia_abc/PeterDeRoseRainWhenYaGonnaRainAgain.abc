@@ -1,0 +1,26 @@
+X:1
+T:Rain ( When Ya Gonna Rain Again)
+T:Rain (When Ya Gonna Rain Again)
+C:Peter De Rose
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" G8 |"F" cBcB dc A2 |"C""C7""B7""Bb7" G8 |"A7" G^FGF AG E2 |"D7" D4 A4 | %5
+w: Rain,|When ya gon- na rain a- gain?|Rain|grow the gol- den grain a- gain.|Show- er|
+"G7" z2 GG- G^G"G+7" A2 |"C" E4"Am7" z4 |"Dm7" z4"G7" z4 |"C" G8 |"F" cBcB dc A2 | %10
+w: your bless- * ings on|me.||Rain,|make the riv- ers deep a- gain.|
+"C""C7""B7""Bb7" G8 |"A7" G^FGF AG E2 |"D7" D4 A4 |"G7" z2 GG- G^G"G+7" A2 |"C""F6" c8- | %15
+w: Rain,|please don't let me weep a- gain.|Show- er|your bless- * ings on|me.|
+"C" c2 z2"C7" z2 z A |"F" c2 c>A c>dc>A |"Em7" B2 B>G B3 B |"F" A3 A"F#dim7" cB A2 | %19
+w: _ The|cows in the mead- ow and the|sheep in the corn, they|know that some- thing is|
+"C/G""Bb7""A7" G8 |"Dm7" F2 F>F"G7" A3 A |"C7" G"B7"^F"Bb7"=F"A7"E- E4 |"D7" z EEE B2 A2 | %23
+w: worng.|Old Moth- er earth can|nev- er give birth _|When you're a- way so|
+"Dm7" D4"G+7" G4 |"C" G8 |"F" cBcB dc A2 |"C""C7""B7""Bb7" G8 |"A7" G^FGF AG E2 |"D7" D4 A4 | %29
+w: long, _|Rain,|make it green in lov- er's lane.|Rain,|for my gal and me a- gain.|Show- er|
+"G7" z2 GG- G^G"G+7" A2 |1"C" c8- || c2 z2 z4 :|2"C" c8- || c6 z2 |] %34
+w: your bless- * ings on|me.|_|me.|_|
+

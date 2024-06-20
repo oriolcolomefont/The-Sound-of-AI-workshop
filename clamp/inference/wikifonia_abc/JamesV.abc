@@ -1,0 +1,28 @@
+X:1
+T:I'm Making Believe
+T:I'm Making Believe
+C:James V. Monaco
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z"Cdim" d3 |:"Bb" c>BFD- D7/2 c/ | B>FD"G7"=B,- B,7/2"Fdim" _A/ |"Cm" G>ECG-"Cm6" G>EC"G+"G- | %4
+w: I'm|mak- ing be- lieve _ that|your in my arms _ Tho'|I know you're so _ far a- way,|
+"G7""Cm" G8 |"F7" A>FE>A- A7/2 A/ |"Bb" B>FD>B-"Gm" B4 |"Gm7" c>AG>"C7"c- c>AG>"Cm"c- | %8
+w: _|Mak- ing be lieve _ I'm|talk- ing to you, _|Wish you could hear _ what I say|
+"Ebm" c4"F7" z"Cdim" d3 |"Bb" c>BFD- D7/2 c/ | B>FD"G7"=B,- B,7/2"Fdim" _A/ | %11
+w: _ And|here in the goom _ of|my lone- ly room _ We're-|
+"Cm" G>EC"Cm6"G- G>EC"G+"G- |"G7""Cm" G8 |"Eb" c>dc>"Ebm"d-"Cdim" d3 c | %14
+w: danc- ing like we _ used to do.|_|Mak- ing be- lieve _ is|
+"Bbmaj7" A>d (3AdA- A>B"Bbdim"AF |"Cm7" G>AF>G-"F9" G2"A" =E2 |"Bb" F4-"Bb7" F3 d | %17
+w: just an- oth- er way _ of dream- ing,|So till my dreams _ come|true, _ I'll|
+"Eb" c>dc>"Ebm"d- d3 c |"Bbmaj7" A>dA>d A>B"G9"AF |"C7" G>AB>"Cm7"d- d2"Cdim" d2 |1 %20
+w: whis- per good- night, _ Turn|out the light, and kiss my pil- low|Mak- ing be- lieve _ it's|
+"Bb" B4- B"Cdim" d3 :|2"Bb" B8- | B8 |] %23
+w: you. _ I'm|you.|_|
+

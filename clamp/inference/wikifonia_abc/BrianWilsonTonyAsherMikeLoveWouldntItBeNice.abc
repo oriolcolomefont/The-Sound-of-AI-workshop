@@ -1,0 +1,35 @@
+X:1
+T:Wouldn't It Be Nice
+T:Wouldn't it be nice
+T:Brian Wilson,  Tony Asher  and Mike Love
+T:Rock
+C:Brian Wilson, Tony Asher, Mike Love
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ edce |:"C" G2 c2 c2 G2 | d2 c2 edcd |"F" A2 d2 d2 e2 |"Dm" AGFd"G7" edcd |"C" G2 c2 c2 G2 | %6
+w: Would- n't it be|nice if we were|old- er then we would- nt|have to wait so|long * * and would- n't it be|nice to live to-|
+w: |nice if we could|wake up in the morn- ing|when the day is|new * * and aft- er that to|spend the day to-|
+ d2 c2 edcd |"F" A2 d2 d2 e2 |"Dm" AG F2"G7" z4 |"Am7" z2 EF GABc |"Bb" d2 F2 A2 G2 | %11
+w: geth- er in the kind of|world where we'd be-|long * *|though its gon- na make it|that much bet- ter|
+w: geth- er hold each oth- er|close the whole night|through * *|hap- py times to- geth- er|we'd been spend- ing|
+"Am" C2 EF GABc |"Em" g6 c2 |"Dm7" e2 d6 |"G7" z4 edcd :|"G7" z2 c2 dc A2 |"C" c2 c2 A2 G2 | z8 | %18
+w: when we can say good- night and|stay to|geth- er|would- n't it be|oh would- n't it|be nice * *||
+w: I wish that ev- ry kiss was|nev- er|end- ing.-|||||
+ z8 |:"A" C2 ^CE B3 A |"D" ^GG^FF EEDD |"C" ^CE ^F2 ED C2 |"Fm" z8 :|"Fm" z4 AE A2 |"Cm7" B2 e6- | %25
+w: |Well may- be if we|think and wish and hope and pray it|might come * true * *||we could be|mar- ried|
+w: |||||||
+"Fm" e2 E2 AE A2 |"Cm" B2 e6- |"G7" e2 c2 dc A2 |"C" c4 cA G2 | z4 edcd |:"C" G2 c2 c2 G2 | %31
+w: * and then we'd be|hap- py|* oh would- nt it|be nice * *|would- n't it be|nice if we were|
+w: ||||||
+ d2 c2 edcd |"F" A2 d2 d2 e2 |"Dm" AGFd"G7" edcd |"C" G2 c2 c2 G2 | d2 c2 edcd |"F" A2 d2 d2 e2 | %37
+w: old- er then we would- n't|have to wait so|long * * and would- n't it be|nice to live to-|geth- er in the kind of|world where we'd be-|
+w: ||||||
+"Dm" AG F2"G7" edcd :| %38
+w: long * * would- n't it be|
+w: |
+

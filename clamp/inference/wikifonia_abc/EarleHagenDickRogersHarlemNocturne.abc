@@ -1,0 +1,38 @@
+X:1
+T:Harlem Nocturne
+T:Harlem Nocturne
+C:Earle Hagen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z G,DG A2 B^F- |"Gm6" F8- | FGDB, G,2 B,D- |"Cm6" DC- C6- | CCGc d2 e=B- | B8- | %6
+w: Deep mu- sic fills the night,||* deep in the heart of Har-|* lem. *|* And tho' the stars are bright,||
+w: ||||||
+ Bc"Eb7" (3_BGE ^C2"D7b9" AG- |"Gm6" G8- |"^N.C." GG,DG A2 B^F- |"Gm6" F8- | FGDB, G,2 B,D- | %11
+w: * the dark- ness is taunt- ing me.||* Oh what a sad re- frain,||* a noc- turne born in Har-|
+w: |||||
+"Cm6" DC- C6- | CCGc d2 e=B- | B8- | Bc"Eb7" (3_BGE ^C2"D7b9" AG- |"Gm6" G8- | G2 z2 z2 z c |: %17
+w: * lem. *|* That mel- an- chol- y strain||* for- ev- er is haunt- in me.||* The|
+w: ||||||
+"Bb13" BFG_A-"Fm7" A3 c |"Bb13" BFG_A-"Fm7" A3 c |"Bb13" BFG_A-"Fm7" A2 GF | %20
+w: mel- o- dy clings * a-|round my heart strings. * It|won't let me go * when I'm|
+w: in- di- go tune * it|sings to the moon * the|lone- some re- frain * of a|
+"Bb13" DF- F4"B13" z"Bb13" f |"Eb9" eBc_d-"Bbm7" d3 f |"Eb9" eBc_d-"Bbm7" d3 e | %23
+w: lone- ly, * I|hear it in dreams, * and|some- how it seems * it|
+w: lov- er. * The|mel- o- dy sighs, * it|laughs and it cries, * a|
+"Eb9" fB"Db9"e_A"B9" _d_G"A9"=B=E |1"G9" AD"C9"GC"F7" F3 c :|2"G9" AD"F9"GC"Eb9" FB,"Db9"E_A, || %26
+w: makes * me * weep * and *|I * can't * sleep. An||
+w: moan * in * blue * that *||wails * the * long * night *|
+"Gm9""D+7" D8- |"Gm6" D"^N.C."G,DG A2 B^F- |"Gm6" F8- | FGDB, G,2 B,D- |"Cm6" DC- C6- | %31
+w: thru.|* Tho' with the dawn it's gone,||* the mel- o- dy lives ev-|* er *|
+w: |||||
+ CCGc d2 e=B- | B8- | Bc"Eb7" (3_BGE ^CB"D7b9"AG- |"Gm6" G8- | G2 z2 z4 |] %36
+w: * for lone- ly hearts to learn||* of love in a Har- lem noc- turne.|||
+w: |||||
+

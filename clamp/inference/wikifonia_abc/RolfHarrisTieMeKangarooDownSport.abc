@@ -1,0 +1,32 @@
+X:1
+T:Tie Me Kangaroo Down,Sport
+T:Tie Me Kangaroo Down,Sport
+T:There's an old Australian stockman,lying,dying And he gets himself up on one elbow And he turns to his mates who are gathered around him and he says 
+T:Rolf Harris
+C:Rolf Harris
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Guitar"
+%%MIDI program 25
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C2 FA- AG F2 |"Bb" D2 z2"Gm" G2 z2 |"C" C2 EG- GB d2 |"F" c8 | A2 ^GA- A=G F2 | %5
+w: Watch me wal- * la- bies|feed, mate,|Watch me wal- * la- bies|feed|They're a dan- * ger- ous|
+w: Keep me cock- * a- too|cool Curl|Keep me cock- * a- too|cool|Don't go act- * ing the|
+w: Take me ko- * a- la|back, Jack|Take me ko- * a- la|back|He lives out * on the|
+"Bb" D2 z2"Gm" G3 G |"C7" C2 EG- GF E2 |"F" F2 cc cc c2 ||"F""^Chorus" A2 ^GA- A=G F2 | %9
+w: breed mate. so|watch me wal- * a- bies|feed. Al- to- geth- er now!|Tie me kan- * ga- roo|
+w: fool, Curl Just|keep me cock- * a- too|cool * * * * *||
+w: track, Jack So|take me ko- * a- la|back * * * * *||
+"Bb" D2 z2"Gm" G2 z2 |"C7" C2 EG- GB d2 |"F" c8 | A2 ^GA- A=G F2 |"Bb" D2 z2"Gm" G2 z2 | %14
+w: down sport,|Tie me kang- * a roo|down|Tie me kan- * ga- roo|down sport|
+w: |||||
+w: |||||
+"C7" C2 EG- GF E2 |"F" F2 z2 z4 |] %16
+w: Tie me kan- * ga- roo|down|
+w: ||
+w: ||
+

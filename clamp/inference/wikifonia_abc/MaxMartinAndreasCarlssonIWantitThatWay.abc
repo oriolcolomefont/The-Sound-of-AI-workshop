@@ -1,0 +1,66 @@
+X:1
+T:I Want it That Way
+T:I Want It That Way
+C:Max Martin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F#m" z8 |"D" z3"A" z z4 |"F#m" z8 |"D" z3"A" z z2 FA- |:"F#m" A4 z2 c2 |"D" F3"A" E- E2 FA- | %6
+w: |||You are|_ my|fi- re, _ the one|
+w: ||||* are|two worlds * a- part.|
+w: ||||* your|fi- re _ your one|
+"F#m" A4 z2 c2 |"D" F3 (B"A" A2) FA- |"F#m" A6 c2 |"D" F3"A" E- E2 z F |"F#m" F3 A- A2 c2 |1 %11
+w: _ de-|si- re. * Be- lieve|_ when|I say _ _|I want _ it|
+w: _ Can't|reach to _ your heart|_ when|you say _ _|I want _ it|
+w: _ de-|si- re? _ Yes. I|know it's|too late, _ but|I want _ it|
+"E" (B2 A)"A"A A2 FA :|2"E" (B2 A)"A"A- A2 ce ||"D" (ef) e2 dcBA |"E" G3"F#m" A- A2 ce | %15
+w: that _ way. _ 2.But we|that _ way _ Tell me|why _ Ain't noth- in' but a|heart- ache _ Tell me|
+w: |that _ way _ _ _|_ _ _ _ _ _ _||
+w: ||||
+"D" (ef) e2 dcBA |"E" G3"F#m" A- A2 GF |"D" (FE) e2 dcBA |"E" B2 B"A"(c- c/B/A) z2 | %19
+w: why. _ Ain't noth- in' but a|mis- take _ Tell me|why _ I nev- er wan- na|hear you say _ _ _|
+w: ||||
+w: ||||
+"F#m" F3 A- A2 c2 |1"E" (B2 A)"A"A A2 FA :|"C#sus4" c3"C#" c- c4 |"F#m" AAGA- AAGA- | %23
+w: I want _ it|that _ way _ 3.Am I|that way _|Now I can see _ that we've fall-|
+w: ||||
+w: ||||
+"A/E" AAGA- A2 z F/G/ |"D" AAGA- A(cF)F- |"Bm" F2 AG-"E" G3 G |"F#m" AAGA- A A2 G | %27
+w: en a- part _ _ from the|way that it used _ to _ be|_ yeah _ _ No|mat- ter the dis- * tance, I|
+w: ||||
+w: ||||
+"A/E" AAGA- A3 G |"D" AAGA- A2 ee- |"Esus4" e6"E" FA- |"^D(9)" A6 c2 |"E" B3"F#m" A- A2 FA- | %32
+w: want you to know _ that|deep down in- side _ of me|_ you are|_ my|fi- re, _ the one|
+w: |||||
+w: |||||
+"^D(9)" A6 c2 |"E" B3"F#m" A- A2 FA- |"^D(9)" A2 FA- A2 ee- |"E" e2 a"A"(g- g e3) |"F#m" z8 | %37
+w: _ de-|si- re _ You are,|_ you are. _ you are|_ you are _ _||
+w: |||||
+w: |||||
+"Bm" z aaf (ba) a2 |[K:B]"^E(9)" b3 f- fBBB |"F#" c3"G#m" d- d4 |"^E(9)" f3 f- fBBB | %41
+w: Don't wan- na hear _ you|Ain't noth- * in' but a|heart- ache. _|Ain't noth- * in but a|
+w: ||||
+w: ||||
+"F#" c3"F#m" B- B4 |"^E(9)" f3 f- fBBB |"F#" c2 d"B"(d- d/c/B) z2 |"G#m" z2 d4 ed | %45
+w: mis- take _|I nev- * er wan- na|hear you say _ _ _|I want it|
+w: ||||
+w: ||||
+"F#" (c2 B)"B"B- B2 df |:"^E(9)" (fg) f2 edcB |"F#" A3"G#m" B- B2 df |"^E(9)" (fg) f2 edcB | %49
+w: that _ way _ tell me|why _ Ain't noth- in' but a|heart- * ache Tell me|why _ Ain't noth- in' but a|
+w: ||||
+w: ||||
+"F#" A3"G#m" B- B2 AG |"^E(9)" (GF) f2 edcB |"F#" c2 c"B"(d- d/c/ B3) |"G#m" G3 B- B2 d2 |1 %53
+w: mis- take _ Tell me|why _ I nev- er wan- na|hear you say _ _ _|I want _ it|
+w: ||||
+w: ||||
+"F#" (c2 B)"B"B- B2 df :|2"F#" (c2 B)"B"B- B2 z A ||"G#m" G3 B- B2 d2 |"F#" (c2 B)"B"B- B4 |] %57
+w: that _ way * Tell me|that- * way * 'Cause|I want _ it|that _ way _|
+w: ||||
+w: ||||
+

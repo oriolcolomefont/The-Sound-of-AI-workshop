@@ -1,0 +1,42 @@
+X:1
+T:Dark Cafe
+T:Dark Café
+T:Phil Myers
+T:Phil Myers 2012
+C:Phil Myers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"^1. Slowly\n2. Latin" z2 z"^A" G, |"Cm7" C D _E F |"Cm6" G c B G |"Fm7" _B B3- |"Fm6" B3 _B | %5
+w: There|is a dark ca-|fé down in the|ci ty|* I|
+"Fm7" _B _A G A |"Fm7b5" G F _E F |"Dm7b5" D4- |"G7b9" D3 _E |"Cm7" C D _E F |"Cm6" G c B G | %11
+w: went there on a|Sun- day af- ter-|noon|* I|drank a cup of|black and bit- ter|
+"Fm7" _A A3- |"Fm6" A3 _A |"Fm7" _A G F _E |"Fdim7" D C B, D |"Cm6" C2-"Cm" C2- |"Cm6" C3"^B" G, | %17
+w: cof- fee|* and|lis- ten'd to a|strange en- chan- ting|tune *|* The|
+"Cm7" C D _E F |"Cm6" G c B G |"Fm7" _B B3- |"Fm6" B3 _B |"Fm7" _B _A G A |"Fm7b5" G F _E F | %23
+w: mel- o- dy was|sweet as wine and|ho- ney|* like|or- chids when they|o- pen up to|
+"Dm7b5" D4- |"G7b9" D3 _E |"Cm7" C D _E F |"Cm6" G c B G |"Fm7" _A A3- |"Fm6" A3 _A | %29
+w: bloom|* The|rhy- thm had a|sub- tle hes- i-|ta- tion|* as|
+"Fm7" _A G F _E |"Fdim7" D C B, D |"Cm6" C2-"Cm" C2- |"Cm6" C3"^C" C |"Fm6" D _E F G | %34
+w: if there were a|se- cret in the|room *|* I|saw her at a|
+"Fm7" _A G F A |"Cm69" G G3- |"Cm6" G3 C |"Fm6" D _E F G |"Fm7" _A G F A |"Cm69" G4- |"Cm6" G3 C | %41
+w: ta- ble in the|cor- ner|* Our|eyes met in a|mo- men- tar- y|glance|* I|
+"Fm6" D _E F G |"Fm7" _A G F A |"Cm69" G G3- |"Cm6" G3 _G |"Fm7" G G G _G |"Fm6" G G G _G | %47
+w: sud- den- ly was|drown- ing in de-|si- re|* and|reck- less- ly I|ask'd her for a|
+"Fm7b5" G4- |"Fdim7" G3"^D" G |"Cm9" c _B G _G |"Cm7" F _E C E |"Fm7" G F3- |"Fm6" F3 _G | %53
+w: dance.|* We|danced a slow and|beau- ti ful bo-|le- ro|* We|
+"Fm7" G F _E F |"Fm7b5" G F _E F |"Dm7b5" D4- |"G7b9" D3 G |"Cm9" c _B G _G |"Cm7" F _E C E | %59
+w: moved as one, so|ea- sy and so|free|* She|closed her eyes and|sang the tune so|
+"Fm7" G F3- |"Fm6" F3 _G |"Fm7" G G G F |"Fm6" G G G _G |"Fm7b5" G4- |"Fdim7" G3"^E" G, | %65
+w: sweet- ly|* She|o- pen'd them and|sang it just to|me|* These|
+"Cm7" C D _E F |"Cm6" G c B G |"Fm7" _B B3- |"Fm6" B3 _B |"Fm7" _B _A G A |"Fm7b5" G F _E F | %71
+w: days the dark ca-|fé is near- ly|emp- ty|* It's|qui- et and the|doors are clo- sing|
+"Dm7b5" D4- |"G7b9" D3 _E |"Cm7" C D _E F |"Cm6" G c B G |"Fm7" _A A3- |"Fm6" A3 _A | %77
+w: soon.|* I|still go there and|drink the bit- ter|cof- fee|* and|
+"Fm7" _A G F _E |"Fdim7" D C B, D |"Cm6" C4- |"^(Dm7b5" C3"^G7b9)" z |] %81
+w: lis- ten for a|strange en- chan- ting|tune||
+

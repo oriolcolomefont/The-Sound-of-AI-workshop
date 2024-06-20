@@ -1,0 +1,38 @@
+X:1
+T:Look Around (And You'll Find Me There)
+T:Look Around (And You'll Find Me There)
+C:Francis Lai
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B,2 |"Eb" E3 F | G2 e d | d2 c B |"Fm" c4 | A4- | A2 F G | A2 f e |"Fm7" e4 |"Bb7" d4- | %10
+w: I|know that|some- where, there's|some- one who|needs|you;|_ Some- one|meant for you|on-|ly.|
+w: |long as|I live, there's|some- one who'll|want|you;|* You won't|ev- er be|lone-|ly.|
+ d2 f e | d2 c B |"Eb" E F G2- |"Ebmaj7" G4- |1"Eb6" G4- |"Ebmaj7" G2 C2 :|2"Eb" G4- || %17
+w: _ Look a-|round and you'll|find me there.|_||* As|_|
+w: _ _ _|||||||
+"Ebmaj7" G2 G F |S"Ab6" A4 |"Eb" G2 F G |"Csus4" F4 |"Cm" E2 D E |"C7b9" B2"C7" G2 |"Fm" A4- | %24
+w: * Let me|know|you, let me|show|you just how|much I|care|
+w: |||||||
+ A4- | A2 A G |"Bb7" B4 | A2 G A |"Gm" G4 |"Bb7" F2 =E F |"Ab""Ebdim" c3 =A |"Eb" B4- |"Fm11" B4- | %33
+w: _|* Here in-|side|me there's e-|nough|love for us|both to|share.|_|
+w: |||||||||
+"Bb7" B3 B, |"Eb" E3 F | G2 e d | d2 c B |"Fm" c4 | A4- | A2 F G | A2 f e |"Fm7" e4 |"Bb7" d4- | %43
+w: * Some|day you'll|look for that|some- one who|loves|you.|_ Un- til|then I'll be|wait-|ing|
+w: ||||||||||
+ d2 f e | d2 c B |"Eb" E F G2- |"Ebmaj7" G4-!dacoda! |"Eb" G4- |"Ebmaj7" G2 G F!D.S.! || %49
+w: _ Look a-|round and you'll|find me there.|_||* Let me|
+w: ||||||
+O"Fm7" G2 f e |"Bb7" d2 c B |"Eb" E F G2- |"Ebmaj7" G4- |"Fm9" G2"^N.C." f e |"Bb7" d2 c B | %55
+w: _ Look a-|round and you'll|find me there|_|* Look a-|round and you'll|
+w: ||||||
+"Eb" E F G2- | G4- | G4 |] %58
+w: find me there.|_||
+w: |||
+

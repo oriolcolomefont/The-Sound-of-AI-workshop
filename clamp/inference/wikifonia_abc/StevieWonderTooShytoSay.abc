@@ -1,0 +1,38 @@
+X:1
+T:Too Shy to Say
+T:Too Shy to Say
+T:Stevie Wonder
+T:©1974
+C:Stevie Wonder
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Bsus4" z E/F/- FG/B/- |:"E" B4- BE/F/- FG/=c/- |"E+" c4- cE/F/- FG/^c/- |"A" c2 B2"E/G#" G2 FF- | %4
+w: You make _ me smile|_ _ you make _ me sing|_ _ you make _ me feel|_ good's ev- 'ry- thing|
+w: |fly _ a- way _ with you|_ _ un- til _ there's no-|thing more for us to|
+"F#m7" F4-"B" FE/F/- FG/B/- |"E" B4- BE/F/- FG/=c/- |"E+" c4- cE/F/- FG/^c/- | %7
+w: _ _ You bring _ me up|_ _ when I've _ been down|_ _ this on- * ly hap-|
+w: do _ I wan- * na be|_ _ more than _ a friend|_ _ un- til _ the end|
+"A" c2 B2"E/G#" GFEF- |"F#m7" F4"B" z2 B<c |"D" c2- c/c/B- B2 c=d |"C#" cB- B2 z2 A<B | %11
+w: * pens when you're a- round.|_ And I|can't _ go on _ this way|_ _ _ with it|
+w: _ of an end- less end.||||
+"C" B2- B/B/A- A2 B=c |"B" BA- A4 AA- |"Bb" A2 A=G- G2 A^A |"A" A=G- G2 z/ A,/A G/EF/- | %15
+w: strong- * er ev- * 'ry- day|_ _ _ but be-|ing too shy _ to say|_ _ _ that I real- ly love|
+w: ||||
+"D" F=d- d6 |1"F#m7" z4"B" z E/F/- FG/B/ :| z4 z2 B<c |"D" c2- c/c/B- B2 c=d | %19
+w: _ you. _|I wan- * na _|And I|can't _ go on _ this way|
+w: ||||
+"C#" cB- B2 z2 A/BB/- |"C" B2- B/B/A- A2 B=c |"B" BA- A4 AA- |"Bb" A2 A=G- G2 A^A | %23
+w: _ _ _ feel it strong-|* * er ev- * 'ry- day|_ _ _ but be-|ing too shy _ to say|
+w: ||||
+"A" A=G- G2 z/ A,/A G/EF/- |"D" F=d- d6 |"F#m7" f6 fe |"G" =d6- dB- |"D" BA- A6 |] %28
+w: _ _ _ that I real- ly love|_ you. _|_ ooh _|_ _ I|_ do. _|
+w: |||||
+

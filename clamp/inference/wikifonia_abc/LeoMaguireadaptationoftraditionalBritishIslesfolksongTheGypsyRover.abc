@@ -1,0 +1,25 @@
+X:1
+T:The Gypsy Rover
+T:The Gypsy Rover
+T:unknown- traditional
+C:Leo Maguire, adaptation of traditional British Isles folk song
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ C2 |"F" C2 F2"C7" G2 AG |"F" F2 CC"C7" C4 |"F" C2 FF"C7" G2 AB |"F" A4"C7" G3 C | %5
+w: The|gyp- sy ro- ver came|o- ver the hill|down thro the vall- ey so|sha- dy he|
+w: She|left her fa- ther s|cast- le gate *|she left her own fine *|lov- er she|
+"F" CC F2"C7" G2 AB |"F" c2 A2"Bb" F3 G |"F" A2 AA"Bb" G2 FD |"F" C2"Bb" F4 D2 |"F" C8 | %10
+w: whist- led and sang till the|green- woods rang and|he won the heart of a|la- * *|dy|
+w: left her ser- vants * and|her state to foll-|ow her gyp- * sy *|ro- * *|ver-|
+"F" C2 F2"C7" G2 AG |"F" F2 C2"C7" C4 |"F" C2 F2"C7" G2 AB |"F" A4"C7" G3 C |"F" CC F2"C7" G2 AB | %15
+w: ah di do ah di|do- da- day|a- di- do- ah- di-|day- dee he|whist- ed and sang till the|
+w: |||||
+"F7" c2 A2"Bb" F3 G |"F" A2 AA"Bb" G2 FD |"F" C2"Bb" F4 D2 |"F" C6 z2 |] %19
+w: green- woods rang and|he won the heart of a|la- * *|dy.|
+w: ||||
+

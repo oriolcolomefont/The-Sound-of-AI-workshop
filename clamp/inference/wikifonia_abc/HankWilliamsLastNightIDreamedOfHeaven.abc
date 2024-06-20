@@ -1,0 +1,29 @@
+X:1
+T:Last Night I Dreamed Of Heaven
+T:Last night i dreamed of heaven
+T:hank williams
+T:hank williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+ d |"D" d d d B | A (F D) D/F/ |"G" E D D B, |"D" D4 | d d d B | A (F D2) |"E7" E3/2 G/ ^G G | %8
+w: Last|night I dreamed of|heav- en _ and I|saw my moth- er|there|stand- ing with the|an- gels _|on the gold- en|
+w: ||||||||
+"A7" A3"D" d | d d d B | A (F D2) |"G" E D E B, |"D" D3 d |"G" d d d B |"D" A F D/ z/ D/ z/ | %15
+w: stair I|thought I heard her|whis- per, _|wel- come, home, my|boy last|night I dreamed of|heav- en and it|
+w: |||||||
+"A7" F E C E |"D" D3 z |"^CHORUS" d z z z |"D" d d d B | A (F D2) |"G" E D D B, |"D" D3 d | %22
+w: filled my heart with|joy,|I|heard the an- gels|sing- ing _|songs of peace and|rest, and|
+w: ||last|night i dreamed of|heav en *|that land so pure|and sweet|
+ d d d B | A F2 D |"E7" E E ^G =G |"A7" A4 |"D" d2 d B | A (F D2) |"G" D D E B, |"D" D3 d | %30
+w: then there was a|si- lence, each|eye looked toward the|west|there sat my|Sav- iour _|on His gol- en|throne last|
+w: and the joy with|in me made|my glad heart *|weep|I was there|with my _|Sav- iour free from|grief and|
+"G" d d d B |"D" A (F D) D/D/ |"A7" F E C E |"D" D2"D" D2 |] %34
+w: night I dreamed of|heav- en _ my e-|ter- nal home sweet|home *|
+w: strife last night I|dream- ed _ of he-|aven the land of|eternal life|
+

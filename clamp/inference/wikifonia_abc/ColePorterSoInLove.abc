@@ -1,0 +1,32 @@
+X:1
+T:So In Love
+T:So In Love
+C:Cole  Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Fm" C2 D2- | D3 C |"C7" C2 D2- | D3 C |"Fm" C2 G2- | G3 F |"Bbm" F2 c2- | c3 B |"Eb" B4 | %9
+w: Strange dear,|* but|true, dear,|* When|I'm close|* to|you dear,|* The|stars|
+"Eb7b9" d3 c |"Ab" c4- |"Ab7" c2 B3/2 A/ |"Db" B3 A |"G7" A3 G |"C" G4- | G3"C7b9" z |"Fm" C2 D2- | %17
+w: fill the|sky,|* So in|love with|you am|I,||Ev- en|
+ D3 C |"C7" C2 D2- | D3 C |"Fm" C2 G2- | G3 F |"Bbm" F2 c2- | c3 B |"Eb" B4 |"Db/F" e3 d | %26
+w: * with-|out you,|* My|arms fold|* a-|bout you,|* You|know|dar- ling|
+"Dbm/E" d4- | d2 c3/2 =B/ |"Ab/Eb" c4- |"Eb7" c B A G |"Ab" A4- | A3 A |"Db/Ab" B2 c d | %33
+w: why,|* So in|love|* with you am|I,|* In|love with the|
+"Eb7/Ab" e3 e |"Ab" e3/2 d/ c2- | c3 A |"Db/Ab" B2 A G |"Eb7/Ab" E3 E |"Ab" F4- | F3 A | %40
+w: night mys-|ter- i- ous,|* The|night when you|first were|there.|* In|
+"Db/Ab" B2 c d |"Eb7/Ab" =e3 _e |"Ab" e3/2 d/ c2- | c2"C7/E" c3/2 B/ |"Fm" A3"Fm7/Eb" G | %45
+w: love with my|joy de-|lir i ous|* When I|knew that|
+"Dm7b5" F3"G7" G |"C" G4- | G3"C7b9" C |"Fm" C2 D2- | D3 C |"C7" C2 D2- | D3 C |"Fm" C2 G2- | %53
+w: you could|care.|* So|taunt me|* and|hurt me,|* de-|ceive me,|
+ G3 F |"Bbm" F2 c2- | c3 B |"Eb" B4 |"Eb7/Db" f3 e |"Cm7b5" e4- |"F7" e2 d3/2 c/ |"Bbm" d4- | %61
+w: * de-|sert me,|* I'm|yours|till I|die.|* So in|love,|
+"Bbm7b5" d2 c3/2 =B/ |"Ab/Eb" c4- | c2"Abm/Eb" =B3/2 _B/ |"Abdim/Eb" =B3 B | =B3 _B | %66
+w: * So in|love,|* So in|love, with|you my|
+"Bbm7/Eb" B4- |"Eb7" B3 A |"Ab" A4- | A4- | A4- | A z"C7/G" z2 :|"Ab" A4- | A4- | A4- | A z z2 |] %76
+w: love|* am|I.|_|||I.|_|||
+

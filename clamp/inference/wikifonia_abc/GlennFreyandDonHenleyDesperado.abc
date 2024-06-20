@@ -1,0 +1,39 @@
+X:1
+T:Desperado
+T:Desperado
+T:Glenn Frey and Don Henley
+C:Glenn Frey and Don Henley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 BA |:"G" A G3"G7" z BAG |"C" EGEA-"Cm" AGGG |"G" BdBe-"Em7" e d2 D |"A7" B A2 A-"D7" ABAG | %5
+w: Des- per-|a- do, why don't you|come to your sens- * es? You been|out rid- in' fenc- * es for|so long now, * Oh, you're a|
+w: |a- do, oh, you ain't|get- tin' no young- * er, * your|pain and your hun- * ger, they're|driv- in' you home. * * And|
+"G" B d3"G7" z _BAG |"C" EGEA-"Cm" A G2 G |"G" Bd"B7"Be-"Em7" edBG ||[M:2/4]"A7" AB"D7" AG || %9
+w: hard one, I know that|you got your rea- * sons, these|things that are pleas- * in' you can|hurt you some- how.|
+w: free- dom, well that's just|some peo- ple talk- * in', your|pris- on is walk- * in' through this|world all a- lone.|
+[M:4/4]"G" z4"D/F#" z2"Em" GG | gggg/-g/"Bm" fedd |"C" eded/-d/"G" BGDD/D/ |"Em7" GGBG"C" AGEG | %13
+w: Don't you|draw the queen of- * dia- monds, boy, she'll|beat you if she's * a- ble, you know the|queen of hearts is al- ways your best|
+w: Don't your|feet get cold in the win- ter time? The|sky won't snow and the sun won't shine, it's *|hard to tell the night- time from thev|
+"G" G4"D/F#" z2"Em" GG | gggg"Bm" fdBd/-d/ |"C" eefg"G" dBBA |1"Em" BBeB"A7" GEBA || %17
+w: bet. Now it|seems to me some fine things have been *|laid up- on your ta- ble, but you|on- ly want the ones that you can't|
+w: day. * You're|los- in' all your highs and lows. Ain't it|fun- ny how the feel- in' goes a||
+"Am7" A4"D""D7" B3 A :|2"Am7" A8- || A2 z2"D" B2"D7" A2 |"G" A G3"G7" z BAG |"C" EGEA-"Cm" A G2 G | %22
+w: get. Des- per|way?|* Des per|a- do why don't you|come to your sens- * es? Come|
+w: |||||
+"G" Bd"D"dd-"Em" d B3 |"A7" z BAG"D7" ABAG |"G" B d3"G7" z BAG |"C" EGEA-"Cm" AG_BA/G/ | %26
+w: down from your fenc- * es,|o- pen the gate. It may- be|rain- in', but there's a|rain- bow a- bove * you. You bet- ter|
+w: ||||
+"G" Bd"B7"dB"Em" e d3 |"C""G" z4"Am7" z edG |"G" Bd"B7"dB"Em" e d2 G |"Am7" A2 B2"D7" AGED | %30
+w: let some- bod- y love you,|you bet- ter|let some- bod- y love you be-|fore it's too * * *|
+w: ||||
+"G" G8 |] %31
+w: late.|
+w: |
+

@@ -1,0 +1,37 @@
+X:1
+T:When You Wore a Tulip
+T:When You Wore a Tulip
+T:and I Wore a Big Red Rose
+T:Percy Weinrich
+T:Jack Mahoney 
+T:1914, 1942 (Leo Feist Inc., NY)
+C:Percy Weinrich
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Tempo di marcia (Not too fast)" F | d^c dc | dF GF | =Ec d<c | G3 B | BA cA | G3 A | Bd A<G | %8
+w: I|met you in a|gar- den in an|old Ken- tuck- y|town, The|sun was shin- ing|down, you|wore a ging- ham|
+w: The|love you vowed to|cher- ish has not|fal- tered thro' the|years, You|ban- ish all my|fears, your|voice like mus- ic|
+ F3 F | d^c dc | dF GF | =Ec d<c | G3 B | BA cA | GF cd | (B4 | B2) z A | Ge ed | dc AG | Fd d^c | %20
+w: gown; I|kissed you as I|placed a yel- low|tul- ip in your|hair, Up-|on my coat you|pinned a rose so|rare.|* Time|has not changed your|lov- li- ness, you're|just as sweet to|
+w: cheers, You|are the same sweet|firl I knew in|hap- py days of|old, Your|hair is sil- ver,|but your heart is|gold.|* red|ros- es blush no|long- er in your|cheeks so sweet and|
+ d3 d |"^poco rall." =ed c=B | BG !breath!^F G | cc =Bc | e3 ||"^CHORUS - Slowly" F |: F F2 G | %27
+w: me, I|love you yet, I|can't for- get the|days that used to|be.|When|you wore a|
+w: fair, It|seems to me, dear,|I can see white|ros- es bloom- ing|there.|||
+ B B2 c | d d2 c | B d2 c | B B2 A | B2 G2 | (F4 | F4) | G e2 d | e G2 _G | F d2 ^c | dF GF | %38
+w: tu- lip, a|sweet yel- low|tu- lip, and|I wore a|big red|rose,||When you ca-|ressed me, 'twas|then Hea- ven|blessed me, what a|
+w: |||||||||||
+ =E c3 | c d3 | (c4 | c4) | F F2 G | B B2 c | d d2 c | B d2 c | B B2 A | B2 c2 | (A4 | %49
+w: bles- sing|no one|knows.||You made life|cheer- ie, when|you called me|dear- ie, 'twas|down where the|blue grass|grows,|
+w: |||||||||||
+ A)"^poco rall."A BA | G d2 ^c | d e2 d | B c2 =B | c d2 G |"^rit." B A2 G | AB c2 |1 (B4 || %57
+w: * Your lips were|sweet- er than|ju- lep, when|you wore that|tu- lip and|I wore a|big- * red|rose.|
+w: ||||||||
+ B2) z F :|2 (B4 || B3) |] %60
+w: * When|rose.||
+w: |||
+

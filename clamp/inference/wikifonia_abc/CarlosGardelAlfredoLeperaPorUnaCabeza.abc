@@ -1,0 +1,22 @@
+X:1
+T:Por Una Cabeza
+T:Por Una Cabeza
+T:Carlos Gardel
+T:Alfredo Lepera
+C:Carlos Gardel
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:A
+V:1 treble 
+%%MIDI program 40
+V:1
+ C2D2 ^D2E2 |:"A" F2E2 ^DEFG | B2A2 cdBc |"A/C#" AB2"A/C"G"A/C" AG2E |"E/B" D4 dced | %5
+"Bm/D" B4 B^AcB |"E7" G4 GA^AB | cBGF EGED |"A" C4 CD^DE |"A" F2E2 ^DEFG | B2A2 ABcA | %11
+"A7" BABc B2A2 |"D" F4 BAFD |"Dm" CB,C"Dm6"D"Dm6" =FA=G=F |"A/C#" A2"F#m7"E2"F#m7" ABcA | %15
+"B7" B2"E7"F2"E7" GABG |"A""E7" A4"E7" z4 |"Am" z2 =c2 c2de |"Em/G" e4 B4 |"Dm/F" z2 A2 A2B=c | %20
+"C/E" =c4 =G4 |"Dm" z2 =F2 F2=GA |"Am/C" A2E2 AB=cA |"B7" B2"^F#m7(b5)"^F2"^F#m7(b5)" AB=cA | %24
+"F#dim7""E" =c4"E" B4 |"Am" z2 =c2 c2de |"Em/G" e4 B4 |"Dm/F" z2 A2 A2B=c |"C/E" =c4 =G4 | %29
+"Dm" z2 =F2 F2=GA |"Am/C" A2E2 AB=cA |1"B7" B2"E7"^F2"E7" ^GABG ||"Am" A4 ^CD^DE :|2 %33
+"Am" A4- A2 z2 |] %34
+

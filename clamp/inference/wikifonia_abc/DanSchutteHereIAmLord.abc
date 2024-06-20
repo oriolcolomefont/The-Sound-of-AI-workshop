@@ -1,0 +1,46 @@
+X:1
+T:Here I Am Lord
+T:Here I Am Lord
+C:Dan Schutte
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z G/F/ G3/2 D/ |"C/G" C D"G" D2 | z G/F/"C/G" G3/2 E/ |"G" D G"D" A2 |"G" z B/A/"Em" G3/2 F/ | %5
+w: 1.~I, the ~~Lord of|sea and sky,|I have heard my|peo- ple cry.|All who dwell in|
+w: 2.~I, the Lord of|snow and reain,|I have borne my|pe- ple's pain.|I have wept for|
+w: 3.~I, the Lord of|wind and flame,|I will tend the|poor and lame.|I will set a|
+"Am7""G/B" G3/2 F/"C" E2 |"Am" z E"Am/G" F G |"D/F#""D/C" A4 |"G/B""D/A" z4 |"G" z G/F/ G3/2 D/ | %10
+w: dark and sin|My hand will|save.||I, who made the|
+w: love of them.|They turn a-|way.||I will break their|
+w: feast for them.|My hand will|save.||Fin- est bread I|
+"C/G" C D"G" D2 | z G/F/"C/G" G3/2 E/ |"G" D G"D" A2 |"G" z B/A/"Em" G3/2 F/ | %14
+w: stars of night,|I will make their|dark- ness bright.|Who will bear My|
+w: hearts of stone,|give them hearts for|love a- lone.|I will speak My|
+w: will pro- vide|till their hearts be|sat- is- fied.|I will give My|
+"Am7""G/B" G3/2 F/"C" E2 |"Am" z E"G/B" F G |"C""D/C" A4- | A z"D/F#""^REFRAIN" D A |: %18
+w: Light to them?|Whom shall I|send?|* Here I|
+w: Word to them.|Whom shall I|send?||
+w: Life to them.|Whom shall I|send?||
+"G" G2"Gsus4" D2- |"G" D z G"Gsus4" A |"Gmaj7/F#" B2"C/E""C/D" G2- |"G" G z G"Gsus4" A |"G" B2 B2 | %23
+w: am Lord.|_ Is it|I Lord?|_ I have|heard you|
+w: |||||
+w: |||||
+"Am7" c B"G/B" A G |"C" A4- |"D" A z"D/F#" D A |"G" G2"Gsus4" D2- |"G" D z G"Gsus4" A | %28
+w: call- ing in the|night.|_ I will|go, Lord,|_ if you|
+w: |||||
+w: |||||
+"Gmaj7/F#" B2"C/E""C/D" G2- |"G" G z G"Gsus4" A |"G" B2 B2 |"Am7" c B"G/B" A G |1"C" A4- | %33
+w: lead me.|_ I will|hold your|peo- ple in my|heart.|
+w: |||||
+w: |||||
+"D" A z z2!D.C.! :|2"C" A4- |3"D" A z z2!D.C.! :|"C" A4-!fine! ||"D" A z z2 |] %38
+w: _|heart.|_|heart.|_|
+w: |||||
+w: |||||
+

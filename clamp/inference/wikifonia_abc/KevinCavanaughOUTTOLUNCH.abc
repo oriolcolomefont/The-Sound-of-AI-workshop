@@ -1,0 +1,30 @@
+X:1
+T:OUT TO LUNCH
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" FAd"Em/A"A- AG A2 |"D" FAd"Em/A"A- AG A2 |"D" FAd"Em/A"A- AG A2 | z"D" dd"A7"e e2 (3:2:2z2 A, | %4
+w: |||* * * * While|
+"D" DEDC D2 CA,- |"Em/A" A,2 z A, D2 C2 |"D" A,8- |"Em/A" A,8 |"D" F>F- FE F>E- DD | %9
+w: ev- ry- one is out to lunch|_ to- day at|twelve|_|I've got _ a date to _ go|
+"Em/A" z z2 A, B,2 G2 |"D" A8- |"D7" A4 z2 z F |"G9" A>A- AG F2 DD- |"Gm" D6 (3:2:2z2 D | %14
+w: and help my-|self|* For|some- thing _ pre- pared at home|_ I|
+"F#m" F2 z F- F/FE/- EF |"B7" ^D4 z2 z F |"Em7" G>G- GF (3:2:2G2 A- AA |"Gm9" d2 AA A G2 A- | %18
+w: need one _ ho- ur * a-|lone, to|be with _ my ba- by _ whose|plans are the same as mine|
+"Asus4" A4 z4 |"A7" z2 z2 z4 |"D" D>D- DC D>A,- A,A, |"Em/A" E>E- ED B,2 C2 | %22
+w: _||Ju- dy _ I'm sor- ry _ I|can't join _ you for buf-|
+"D""^Out To Lunch  2" A,8- |"Em/A" A,6 z2 |"Dmaj7" F>F- FE F>E D2 | %25
+w: fet|_|I've got _ a smor- gas- bord|
+"Em/A" B,>D- DA,- A,/B,/-B,/D/- DG |"D" A8- |"D7" A4 z2 FG |"G9" AAAF A2 (3:2:2B2 G- | %29
+w: wait- ing _ so _ out _ of _ my|way|_ I don't|need a cof- fee break to- day|
+"Gm" G6 (3:2:2z2 G |"F#m" A2 AA- AA^GA |"B7" c4 z2 Bc |"Em9" d2 Bd z2 z B |"Em/A" ddBd- ddec | %34
+w: _ the|break at noon _ will be e-|nough while your|out to lunch my|ba- by and I _ will be in|
+"D" d8- | d4 z2 =c2- | c"Dmaj7" ^c6- =c- | czdd d z z2 |] %38
+w: love|_ in|_ LOVE _|! * * *|
+

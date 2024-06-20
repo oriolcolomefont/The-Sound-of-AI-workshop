@@ -1,0 +1,24 @@
+X:1
+T:Estaté
+T:Estaté
+T:Un été
+T:Bruno Martino et Bruno Brighetti
+T:Chanté par Claude Nougaro
+C:Bruno Brighetti, Bruno Martino
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ z F |:"Am7" EE- E6- | E6 z E |"Dm7" F3 F A A2 c- |"E7#5#9#11" c c2 B B- B2 E- |"Am7" EE- E6- | %6
+ E6 z E |"Dm7" F F2 A- A A2 e- |"G7" e e2 d- d d2 G- |"Gm7/C" GG- G6- |"C7" G6 z G | %11
+"F" A2 Ac- c c2 g- |"Bb7b5" g3 f c d2 e- |"Bm7/E" e8- |1"E7#5#9#11" e6 z E :|2 %15
+"E7" (3e2 e2 ^f2 (3^g2 f2 g2 ||"A" e8- | e6 z e |"Ebm7b5" ^f2 g2 a2 a2 |"Ab7" ^g2 g2 ^f2 g2 | %20
+"Db7" e2- e6 |"F#7" z4 z2 z e |"Dm7" d3 d f2 f2 |"G7" e2 e2 d2 e2 |"Gm7" G4 G4- |"C7" G2 z2 z2 G2 | %26
+"F" A2 A2 c2 c2 |"Bb7b5" g2 f2 c2 d2 |"Bm7/E" e8- | e6 z E ||"E7" EE- E6- |"Am7" E6 z E | %32
+"Dm7" F3 F A A2 c- |"E7#5#9#11" c c2 B- B B2 E- |"Am7" EE- E6- | E6 z E |"Dm7" F F2 A- A A2 e- | %37
+"G7" e e2 d- d d2 G- |"Gm7/C" GG- G6- |"C7" G6 z G |"F" A2 Ac- c c2 g- |"Bb7sus4" g3 f c d2 e- | %42
+"Bm7/E" e8- |"E7b9" e6 z2 |] %44
+

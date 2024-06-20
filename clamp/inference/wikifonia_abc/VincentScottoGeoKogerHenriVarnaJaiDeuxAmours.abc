@@ -1,0 +1,32 @@
+X:1
+T:J'ai Deux Amours
+T:Musique : Vincent Scotto Transcripion P. Tranchant - août 2011
+T:Paroles : Géo Koger et Henri Varna
+T:J'ai Deux Amours
+C:Vincent Scotto
+Z:Public Domain
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ A>GF>A d>cA>c | d>cA>F A4 | A>GF>A D>CD>A | D>CD>A F4 | c>=BA>G A>G A2 | A3 G A4 | %6
+w: On dit qu'au de- là des mers là|bas sous le ciel clair|il e- xiste u- ne ci- té au|sé- jour en- chan- té|Et sous les grands ar- bres noirs,|cha- que soir,|
+w: Quand sur la ri- ve par- fois, au|loin- tain j'a- per- çois|un pa- que- bot qui s'en va vers|lui je tends les bras!|Et le coeur bat- tant d'é- moi|à mi voix|
+ =B>AG>F G>FG>A | (B8 | B2)"^Refrain" C2 D2 C2 ||"F" (c8 | c2) B"Dm"d"Dm" c2 FG |"F" (A8 | %12
+w: vers el- le s'en va tout mon es-|poir-|* J'ai deux a-|mours|* mon pa- ys et Pa-|ris|
+w: dou- ce- ment je dis: "Em- por- te|moi"|||||
+ A2) C2 D2 C2 |"G7" (G8 |"C7" G2) GA G2 D2 |"F" (F8 | F2) FF G2 B2 |"Bb" d4 (B4 | B2) B2 c2 d2 | %19
+w: * Par eux tou-|jours|* mon coeur est ra-|vi|* Ma sa- van' est|bel- le|* mais à quoi|
+w: |||||||
+"F" c"F" c2 A (c4 | c2) AA A3 F | A3 F G3 F |"Dm" A3"Db7" F"Db7" _A2 FA |"C7" (G8 | G2) C2 D2 C2 | %25
+w: bon le ni- er|* ce qui m'en- sor-|cel- le c'est Pa-|ris Pa- ris tout en-|tier|* Le voir un|
+w: ||||||
+"F" (c8 | c2) Bd c2"Dm" F"Dm"G |"F" (A8 | A2) C2 D2 C2 |"G7" (G8 |"C7" G2) GA G2 DC |"F" (F8 | %32
+w: jour|c'est mon * rê- \-ve jo-|li|* J'ai deux A-|mours|* mon pa- ys et Pa-|ris|
+w: |||||||
+ F2) z2 z4 :|"G7" (G8 |"C7" G2) GA G2 DC |"F" (F8 | F2) z2 z4 |] %37
+w: |||||
+w: |||||
+

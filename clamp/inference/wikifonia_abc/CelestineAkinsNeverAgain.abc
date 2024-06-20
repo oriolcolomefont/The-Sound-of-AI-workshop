@@ -1,0 +1,32 @@
+X:1
+T:Never Again
+T:Never Again
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/8
+Q:1/4=100
+M:3/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ D2"G" =B4 | B"G"=B- B3 z | ^C2"A" A2- A2 | _A"A"=A- A3 z |"A" AG"Am" ^F2 Ac- | c"Am"e- e4 | %6
+w: Nev er|a gain _|Nev er _|a gain _|Will I give up my|_ heart _|
+ d2"G" =B2- B2- | B2 z2 D2 |"G" =B4 _B"G"=B- | B2- B z ^C2 |"A" A4 _A"A"=A- | A3 z AG | %12
+w: for you _|_ Nev|er a gain|_ _ Nev|er a gain|_ Will I|
+ ^F2 A c2"Am" e- | e2- e ^F2"G" G- | G3- G z2 |: G2"C" e4 | cd"C" e4 | ^f2 e2"G" d2- | d2 z2 =B2 | %19
+w: cry for the things|_ _ you do|_ _|You left|and my heart|was brok en|_ And|
+"Am" c4 =B2 |"Am" c4 d2 | c2"G" =B4 | z2 G2"C" e2- | e2 cd"C" e2- | e2 e2"G" d2- | d2 c2"G" =B2- | %26
+w: fool ish|words were|spok en|But down|_ deep in side|_ I tried|_ to hide|
+ B2 z E2"G" =B- | B3 A =B"A"A- | A3 G2"Am" A- | A2- A4 | z2 D2"G" =B2- | B2 _B"G" =B3- | %32
+w: _ the love|_ that I had|_ for you|_ _|Nev er|_ a gain|
+ B z ^C2"A" A2- | A2 _A"A" =A3- | A z AG ^F2 | A2 c2"Am" e2- | e2 d2"G" =B2- | B4 z2 | D2"G" =B4 | %39
+w: _ Nev er|_ a gain|_ Will my heart|break from lone|_ li ness|_|Nev er|
+ B"G"=B- B3 z | ^C2"A" A4 | _A"A"=A- A3 z | AG ^F2 A2 | c2"Am" e4 |"Am" ^F2"G" G4- | G4 z2 :| %46
+w: a gain _|Nev er|a gain _|Will I cry for|your sweet|car ress|_|
+

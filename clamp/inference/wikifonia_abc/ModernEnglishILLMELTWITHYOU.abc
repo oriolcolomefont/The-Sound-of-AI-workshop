@@ -1,0 +1,26 @@
+X:1
+T:I'LL MELT WITH YOU
+C:Modern English
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"C" z2 G G | G G z/4 G3/4 G |"F9" G/A/-A/G/- G2 | z4 |"C" z2 G G | G C/C/- C C | %6
+w: Mov ing|for ward us- ing|all my _ breath _||Mak- ing|love to you _ was|
+"F9" C/C/-C/C/ z/ D/z/C/ | z4 |"C" z G G G/G/ | z2 G E |"F9" G E G/A/-A/G/ | z4 |"C" z G/G/ G G | %13
+w: nev _ er sec- ond *||I saw the world|thrash- ing|all a- round your _ face||Nev- er real ly|
+ G/>C/- C z/ C/ D |"F9" F/E/- E z2 | F/E/z/C/- C z | z4 |"C" z c c c | c G G G/A/ |"F9" z z z z | %20
+w: know- ing * it was|al ways _|mesh and lace _||I'll stop the|world and melt with you||
+ z4 |"C" z c c c | c/>G/- G G E |"F9" G/A/-A/G/- G/E/- E | E/F/-F/E/- E2 |"C" z c c c | %26
+w: |You've seen the|dif' rence _ and its|get ting _ bet _ ter _|all the _ time _|There's noth ing|
+ c/G/4- G/G/- G/G/z/4z/4A/ z/4 |"F9" z z z z |"C" z c c c/c/ | z c e/-c/c/c/- |"F9" c4 | z4 :| %32
+w: you and _ I _ won't do||I'll stop the world|and melt _ with you|_||
+"Bm" z z z z |"G" z z z z |"Am" z z z z |"Am7" z z z z |"Bm" z2 z ^F |"G" G E3 |"Am" ^F E2 c | %39
+w: ||||The|fut ure's|o- pen wide|
+"C" G,- G,/>E/- E- C- | C2 z2 |"F" G,3/2 F/- F- E- | C3 z |] %43
+w: HMM _ _ _ _|_|HMM _ _ _|_|
+

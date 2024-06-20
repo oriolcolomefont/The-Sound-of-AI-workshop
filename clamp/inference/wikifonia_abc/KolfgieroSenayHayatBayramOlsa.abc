@@ -1,0 +1,41 @@
+X:1
+T:Hayat Bayram Olsa
+T:Hayat Bayram Olsa
+T:Kolfgiero
+T:Senay
+C:Kolfgiero
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:F] z2 z2 z dde |:S f2 ff f e2 d | z2 f2 f e2 d | z fef g f2 e | e4 z ^ccd | e2 ee e d2 ^c | %6
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+ z2 e2 e d2 ^c | z ede f2 ed |1 d4 z dde :|2 d4 d/e/d/^c/ d/e/f/g/ |: a2 b a2 g f2 | a2 b a2 g f2 | %12
+w: ||||Şu dün ya da ki|en mut lu ki şi|
+w: ||||Şu dün ya da ki|en güç lü ki şi|
+w: ||||Şu dün ya da ki|en ol gun ki şi|
+w: ||||Şu dün ya da ki|en zen gin ki şi|
+ a2 ba g(f e2) | e4 z eef | g2 a g2 f e2 | g2 a g2 f e2 | g2 a g2 f (ef) |1 d4 defg :|2 d4 z dde |: %19
+w: mut lu luk ve ren *|dir * * *|Şu dün ya da ki|se vi len ki şi|sev me yi bi len *|dir _ _ _ _|dir Bü tün dün|
+w: güç lük ten ge len *|dir * * *|Şu dün ya da ki|en bil gin ki şi|ken di ni bi len *|dir _ _ _ _|dir * * *|
+w: a cı ya gü len *|dir * * *|Şu dün ya da ki|en soy mu ki şi|in sa fa ge len *|dir _ _ _ _|dir * * *|
+w: gö nül feth e den *|dir * * *|Şu dün ya da ki|en üs tün ki şi|in sa nı se ven *|dir _ _ _ _|dir * * *|
+ f2 ff f e2 d | z2 f2 f e2 d | z fef g f2 (e |1 e4) z ^ccd || e2 ee e d2 ^c | z2 e2 e d2 ^c | %25
+w: ya bu na i nan sa|bir i nan sa|ha yat bay ram ol sa|* in san lar|el e le tu tuş sa|bir lik ol sa|
+w: ||||||
+w: ||||||
+w: ||||||
+ z ede f2 e(d | d4) z dde :|2S d4 z dde |] %28
+w: u zan sak son su za|||
+w: |||
+w: |||
+w: |||
+

@@ -1,0 +1,28 @@
+X:1
+T:Where Or When
+T:Where Or When
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z B, B, B, |"Eb6" C C C C |"Ebmaj7" D3 B, | D3 B, |"Fm7" E E/E/ E/E/E/E/ | E A C2 | %6
+w: It seems we|stood and talked like|this be-|fore. We|looked at each oth- er in the|same way then,|
+ E/E/E/E/ E A | C3"Fm7/Bb" E |"Ebmaj7""Cm7" G4- |"Fm7" G3"Bb7" z |"Eb" z B, B, B, |"Eb6" C C C C | %12
+w: but I can't re- mem- ber|Where Or|When.|_|The clothes you're|wear- ing are the|
+"Ebmaj7" D3 B, | D3 B, |"Fm7" E E/E/ E/E/E/E/ | E A C2 | E/E/E/E/ E A | C3"Fm7/Bb" E | %18
+w: clothes you|wore. The|smile you are smil- ing you were|smil- ing then,|but I can't re- mem- ber|Where Or|
+"Ebmaj7" G4- |"Dm7b5" G3"G7" z |"Cm" G2 ^F G |"Fm7" B A C3/2 E/ |"Dm7" G z"G7" G2- | %23
+w: When|_|Some things that|hap- pen for the|first time,|
+"Dm7" G3"G7" z |"Cm" G2 ^F G |"Fm7" c A C3/2 E/ |"Cm7""F7" F4- |"Fm7""Bb7" F4 |"Eb" z B, B, B, | %29
+w: |seem to be|hap- pen- ing a-|gain.||And so it|
+"Eb6" C C C C |"Ebmaj7" D3 D |"Eb+7" E3 E |"Ab6" F3 F |"Gm7" G3 G |"Fm7" A3 A |"Gm7" B3"C7" B | %36
+w: seems that we have|met be-|fore, and|laughed be-|fore, and|loved be-|fore, but|
+"Fm7" c2 c2 |"Bb7" d2"Bb7b9" d2 |"Eb6""Abm" e4- |"Eb" e3 z |] %40
+w: who knows|Where Or|When!|_|
+

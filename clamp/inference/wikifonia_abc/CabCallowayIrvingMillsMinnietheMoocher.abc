@@ -1,0 +1,26 @@
+X:1
+T:Minnie the Moocher
+C:Cab Calloway, Irving Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ z2 z2 z2 B2 |:"Em" E2 G2 B B2 B |"Am" e e2 c"Em" B G3 |"B7" B B2 c B2 A2 |"Em" G2 c2"B7" B F3 | %5
+w: 1.Now|here's a sto- ry 'bout|Min- nie the Mooch- er|She was a low- down|hooch- y chooch- er|
+w: |messed a- * round wid|a bloke named Smoke- y|She loved him tho' he|was a "coke- y"|
+"Em" E E2 G B B3 |"Am" e c2"Em" B4"B7/F#" B |"Em/G" ee"Am6/F#"cc"B7" B2"^Ddim" A2 | %8
+w: She was the rough- est|tough- est frail But|Min- nie had a heart as|
+w: He took her down to|Chi- na- town And|showed her how to kick the|
+"Em" GE"B7"F"Em"E- E e2 B |"Em" e B2 e- e4- | e4- e B2 G |"Em" B G2 B- B4- | B4- B e2 B | %13
+w: big as a whale _ Ho de|ho de ho (ho..de|ho..de..ho) * Rah de|dah de dah (Rah..de|dah..de..dah) * Tee- dle|
+w: gong _ a- rond _ Hi de|hi de hi (Hi..de|hi..de..hi) * Ree de|dah de doo (Ree..de|dah..de..doo) * Bo- de|
+"Em" e B2 e- e4- | e4- e G2 E |1"Em" GE"B7"FE-"Em" E4- | E2-"Am6/F#" E2-"Em" E2"B7" B2 :|2 %17
+w: dee de dee (Tee..dle|dee..de..dee) * Ho de|ho _ de ho (Ho..de|ho..de..ho) * * 2.She|
+w: dah do dah (Bo..de|dah..do.dah) * Ho de|||
+ GE"B7"F"Em"E- E4- | E6"B7" G2 |"Em" E2"Am6/F#" c2"B7" B2"B7" B2 |"Em" e8 |] %21
+w: ho _ de ho *|ho..de..ho) Poor|Min, Poor Min, Poor|Min|
+w: ||||
+

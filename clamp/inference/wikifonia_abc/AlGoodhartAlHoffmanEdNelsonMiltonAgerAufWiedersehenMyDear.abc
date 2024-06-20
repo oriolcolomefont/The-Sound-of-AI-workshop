@@ -1,0 +1,23 @@
+X:1
+T:Auf Wiedersehen My Dear
+T:Auf Wiedersehen My dear
+T:Al Hoffman,Ed Nelson,Milton Ager , Al Goodhart
+C:Al Goodhart, Al Hoffman, Ed Nelson, Milton Ager
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" C F/A/ c c | c d c2 | C F/A/ d d | d e d2 |"Gm" F _B/d/ f f | f G G d |"C" d E E E |"F" c4 | %8
+w: Come let us stroll down|lov- ers lane|once more to sing love's|old re- frain|soon we must say Auf|Wie- der- sehn auf|wie- der- sehn my|dear|
+ C F/A/ c c | c d c2 | C F/A/ d d | d e d2 |"Gm" F _B/d/ f f | f G G d |"C" d E E E |"F" F c c c | %16
+w: here in your arms I|can't re- main|so let me kiss you|once a- gain|soon we must say Auf|wie- der- sehn auf|wie- der- sehn my|dear your love will|
+"Gm" c _B B2- | B A/G/ F G |"F" A2 c2- | c c c c |"E7" c B B2- | B ^G A B |"Am7" d c c c | %23
+w: cling to me|_ through the lone- ly|day time|_ each night will|bring to me|_ the mag- ic|mem- o- ry of|
+"C" d2 c2 |"F" C F/A/ c c | c d c2 | C F/A/ d d | d e d2 |"Gm" F _B/d/ f f | f G G d |"C" d E E E | %31
+w: May time|I know my heart won't|beat a- gain|un- til the day we|meet a- gain|sweet- heart good- bye auf|wie- der- sehn auf|wie- der- sehn my|
+"F" F4 |] %32
+w: dear.|
+

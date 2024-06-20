@@ -1,0 +1,42 @@
+X:1
+T:All Creatures of Our God and King
+T:All Creatures of Our God and King
+T:Geistliche Kirchengesang
+T:St. Francis of Assisi
+T:All Rights Reserved
+C:Geistliche Kirchengesang
+Z:Public Domain
+L:1/8
+Q:1/4=100
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^100" C2 |"C" CD EC EF | G4 C2 | CD EC EF | G4 cB |"D" A2"G" G2"C" cB | %6
+w: 1.~All|crea- tures of our God and|King, Lift|up your voice and with us|sing, Al- le-|lu- ia! Al- le-|
+w: 2.~Thou|rush- ing wind that art so|strong, Ye|clouds that sail in heav'n a-|long, O *|praise Him! Al- le-|
+w: 3.~Thou|flow- ing wa- ter pure and|clear, Make|mu- sic for thy Lord to|hear. Al- le-|lu- ia! Al- le-|
+w: 4.~And|all ye men of ten- der|heart, For-|giv- ing oth- ers, take your|part. O *|sing ye! Al- le-|
+w: 5.~Let|all things their Cre- at- or|bless, And|wor- ship Him in hum- ble-|ness. O *|praise Him! Al- le-|
+"D" A2"G" !fermata!G2"C" c2 | cG GF EF | G4 c2 | cG GF EF | G4"Am""^REFRAIN" (FE) | %11
+w: lu- ia! Thou|burn- ing sun with gold- en|beam, thou|sil- ver moon with soft- er|gleam, O *|
+w: lu- ia! Thou|ris- ing morn, in praise re-|joice; Ye|lights of eve- ning, find a|voice! * *|
+w: lu- ia! Thou|fire so mas- ter- ful and|bright, Thou|giv- est man both warmth and|light! * *|
+w: lu- ia! Ye|who long pain and sor- row|bear, Praise|God and on Him cast your|care! * *|
+w: lu- ia! Praise,|praise the Fath,- er praise the|Son, And|praise the Spir- it, Three in|One! * *|
+"Dm" D2"C" C2"Am" (FE) |"Dm" D2"C" C2 cB |"D" A2"G" G2"C" cB |"D" A2"G" G2"Em" FE |"Dm""G" D6 | %16
+w: praise Him, O *|praise Him Al- le-|lu- ia! Al- le-|lu- ia! Al- le-|lu-|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+"C" C4 |] %17
+w: ia!|
+w: |
+w: |
+w: |
+w: |
+

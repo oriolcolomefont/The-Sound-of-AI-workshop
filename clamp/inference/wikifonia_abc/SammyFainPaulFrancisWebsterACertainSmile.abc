@@ -1,0 +1,24 @@
+X:1
+T:A Certain Smile
+T:A Certain Smile
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^N.C." z C F A |:"Gm7" G4- | G C"C7" E G |"F" F4- | F C F c |"Gm" B B B B |"C9" B A/B/"C7" c G | %7
+w: A cer- tain|smile,|* a cer- tain|face,|_ Can lead and|un- sus- pect- ing|heart on a mer- ry|
+"F""Fmaj7" A4- |"F6" A A A A |"Em7" A4- |"A7" A A"Em7" =B"A7" ^c |"Dm" ^c d A F |"G9" A4 | %13
+w: chase;|_ A fleet- ing|glance|_ can say so|man- y love- ly|things,|
+"C" =B c G E |"Dm7" F D"G7" F =B |"Gm7""C9""F" c4- |"C7" c C F A |"Gm7" G4- | G C"C7" E G | %19
+w: Sud- den- ly you|know why my heart|sings.|_ You love a|while,|_ and when love|
+"F" F4- | F C F c |"Gm" B B B B |"C9" B A/B/"C7" c G |"F""Fmaj7" A4- |"F7" A A"Cm7" B"F7" c | %25
+w: goes,|_ You try to|hide the tears in-|side with a cheef- ful|pose;|_ But in the|
+"A" ^c"Bb" d d d |"D7" d"D7b9" _e e"D7" d |"Gm7" f d d B |"Bbm6" B2"A+" A"Bbm6" G | %29
+w: hush of night ex-|act- ly like a|bit- ter- sweet re-|frain, Comes that|
+"F" c A"Dm" F D |"Gm7" d B"C9" G E |1"F" F4- ||"F" F C F A :|2"F" F4- ||"C7" F4- |"F" F4 |] %36
+w: cer- tain smile to|haunt your heart a-|gain.|_ A cer- tain|gain.|_||
+

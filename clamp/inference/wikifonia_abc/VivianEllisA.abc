@@ -1,0 +1,35 @@
+X:1
+T:This Is My Lovely Day
+T:This Is My Lovely Day
+T:from "Bless The Bride"
+T:Vivian Ellis
+T:A.P.Herbert
+C:Vivian Ellis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C4 |"F6" D D D D |"Fmaj7" A4- |"F6" A C D F |"Fmaj7" A A A A |"F6" A B/A/"Fmaj9" G"F" F | %6
+w: This|is my love- ly|day-|* This is the|day I shall re-|mem- ber the day I'm|
+"Gm7b5" F4 |"Am""C7" E4 | C4 |"Cdim" D D D C |"C7" B4- | B C"Gm" D"G7b5" F |"Gm7" G G"Eb7" G G | %13
+w: dy-|ing|They|can't take this a-||* It will be|al- ways mine, the|
+"C7""C7" G A/G/"Bbm6" F"C7" E |"Am7" d2"Adim" c2 |"Bbmaj7" A2"C7b9" G2 |"F" C4 |"F6" D D D D | %18
+w: sun and the wine, The|sea- birds|cry- ing.|All|hap- pi- ness must|
+"Fmaj7" A4- |"F6" A C D F |"F7" c c"Cm" c c |"F7b9" c d/c/"F7sus4" B"F7" A |"Bbmaj7" A4 |"Gm" G4 | %24
+w: pay,|* And who can|tell if fate means|well, Or the sky is|ly-|ing?|
+"G7" F4 |"G6" E E"E7" E F |"F" d4- | d c A F |"C7" C C"Cdim" C C |"C7" C D/C/"Gm7" G"C7" A | %30
+w: But|look at me and|say|* you will re-|mem- ber too that|this was our love- ly|
+"F" F4- | F z"F+" f3/2 e/ |"Bb" e2 d2- |"Gm7" d2"C7" e3/2 d/ |"F" d2 c2- |"D7" c2"D+7" d3/2 c/ | %36
+w: day.|* I'll re-|mem- ber,|* I'll re-|mem- ber|* When the|
+"Gm" c B A G |"Gm7b5" F F"Gm7" F G |"Fmaj7" A4- |"F" A2"F+" f3/2 e/ |"Bb" e2 d2 |"E7" d2 e3/2 d/ | %42
+w: time has come for|hap- pi- ness to|pay.|* Sad and|sigh- ing,|* Old and|
+"Am" d2 c2- |"D7" c2"D+" d3/2 c/ |"Gm" c B A G |"Bbm" F F"Gm7" F"C7" G |"F" F4- | %47
+w: dy- ing,|* I'll re-|mem- ber how we|loved our love- ly|day,|
+ F"Bb" G"Gm7" B"C7b9" A |"Fmaj7" c4- | c"Bb" B d"Bbm6" f |"F" f4- | f2- f z |] %52
+w: * our love- ly|day,|* our love- ly|day.-||
+

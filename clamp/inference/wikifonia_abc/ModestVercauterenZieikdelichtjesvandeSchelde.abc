@@ -1,0 +1,51 @@
+X:1
+T:Zie ik de lichtjes van de Schelde
+T:(naar ModestVercauteren)
+T:Bron: www.tablatures.fr.st Tabulatuurdoor Bernard Loffet Genoteerd met TablEditvoor CF door Hans Elst
+T:8
+T:6
+T:8
+T:T
+T:9
+T:9
+C:Modest Vercauteren
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble stafflines=5 
+%%MIDI program 52
+V:1
+ c !1!f"_8" !3!!2!g | !2!a2 !1!f | !3!c'2 b | a2 f | c"_6" !1!f !1!!3!g"_8" | !2!a2 !1!f | %6
+w: D _ _|7'- 6'|8'- *|7'- 6'|* 6' *|7'- 6'|
+w: T~5' * 7'||* 8'||||
+w: C c c|F f~f|C c~c|F f~f|F f f|F f~f|
+ !3!b2"_9" !4!a | !2!g3 |"_D""_T""_5'" c"_6'" !1!e !1!!3!f"_8" |"_7'" g2"_6'" e |"_8'" b2"_9" a | %11
+w: |||||
+w: 8'- *|7'-||||
+w: Bb~bb bb|C~c~c||||
+"_7'" g2"_6'" !1!e |"_5'" c"_6'" !1!e f"_8" |"_7'" g2"_8'" c' |"_8'" c'"_8'" b |"_7'" a3 | %16
+w: |||||
+w: |||||
+w: |||||
+"_T""^C" c"_6" f"^c" g"_8""^c" |"^C" a2"^c" f"^c" |"^Bb" c'2"^bb""^bb""_8'" b | %19
+w: D 6' *|7'- 6'|8'- *|
+w: |||
+w: |||
+"^C" a2"^c" !1!f"^c" |"^C" c"_6" !1!f"^c" !2!!3!g"_8""^c" |"^C" a2"^c" a"^c" | %22
+w: 7'- 6'|* 6' *|7'- 7'|
+w: |||
+w: |||
+"_8'""^C" b2"^c" c'"^c" |"_9'" d'3"^F"!f!!f! | d'2"^F"!f! b!f! | a2"^F"!f! g!f! | %26
+w: * 8'||D _||
+w: ||9'- 8'-|* 7'|
+w: ||Bb~bb bb|Bb~bb bb|
+"^C" c'2"^c" a"^c" | g2"^F"!f! f!f! | c"^F" f!f! g!f! | a2"^F"!f! b!f! |"^C" g2"^c" a"^c" | %31
+w: 8'- 7'-|* 6'|* 6' *|7'- *||
+w: |||* 8'|7'- *|
+w: F f~f|F f~f|F f f|F f~c|C~c c|
+"^Bb" f3"^bb""^bb" | %32
+w: 6'-|
+w: |
+w: F~f~f|
+

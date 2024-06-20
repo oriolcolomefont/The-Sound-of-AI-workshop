@@ -1,0 +1,42 @@
+X:1
+T:The Music Goes 'Round and Around
+T:The Music Goes 'Round and Around
+T:first became a hit in 1936 - Edythe Wright & the Tommy Dorsey Orchestra
+T:Edward Farley & Michael Riley
+T:Red Hodgson
+T:Chappell & Co., Inc / Alfred Music Publishing Co., Inc
+C:Edward Farley & Michael Riley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ c2 A4 E2 | G2 GG F2 E2 | C G2 E F>GA>B | c2 d(e e2) z || G |"C" c2"G+" G2"G+" B2 A2 | %6
+w: ||||One|night, while play- ing|
+"Am""C+" A"C+""C" _A2"C" (G G3) E |"G9" F2 D2 E2 F2 |"C" E"G7" G2"G7" (G G3) G | %9
+w: in the band,- * A|girl came up; she|said, "You're grand."- * So|
+"C" c2"G+" G2"G+" B2 A2 |"Gm6" A"A7" _A2"A7" (G G3) E |"D7" D2 ^F2 A2 c2 | %12
+w: I re- plied in|words low- down,- * "Now,|this is how the|
+"G" B>"D7"G"D7""G7" A"G7" (G G2) z || G |:"C" c2 c2 (c4 |"F6""C" c6) z G | cc c2 c2 BB | %17
+w: mu- sic goes 'round:- *|I|blow through here;-|* THE|MU- SIC GOES 'ROUND AND A-|
+"Em7""Ebdim7" d4"Ebdim7" B2 A2 |"F""C#dim7" c2"C#dim7" A4 E2 |"G7" G2 G"G9"G"G9" F2 E2 |"C" (C8 | %21
+w: ROUND, Whoa- ho-|ho- ho- ho-|ho, And it comes up|here.-|
+"Csus4""G7" C6)"G7" z G |"C""G7sus4" c2"G7sus4" c2"Cdim" c2"Cdim" c2 |"C" c4 z2 z G | cc c2 c2 BB | %25
+w: * I|push the first valve|down. The|mu- sic goes down and a-|
+"Em7""Ebdim7" d4"Ebdim7" B2 A2 |"Dm7""C#dim7" c2"C#dim7" A4 E2 |"G7" G2 G"G9"G"G9" F2 E2 |"C" (C8 | %29
+w: round, Whoa- ho-|ho- ho- ho-|ho, And it comes up|here.-|
+"Dm""G7""C" C6)"C" E2 |"E7""Am" c2"Am""E7" c2"E7" BB B2 |"Am""E7" (A2"E7" E4) z E | %32
+w: * I|push the mid- dle valve|down,- * The|
+"Am" cc"E7" c2"E7" B2"Am" A"Am"(A | A2)"E7" E"E7"(E E2) E(E |"Am""E7" E2)"E7" E(E E2) (3cdc | %35
+w: mu- sic goes down a- round-|* be- low,- * be- low,|* be- low,- * Dee- dle- dee,|
+"G" B2"D7" d2"D7" B4 |"G9" AA A"Gdim7"A"Gdim7" (AG) z G |"G7" G2 z2 z2 G2 | %38
+w: ho- ho- ho,|List- en to the ja- azz come|out. I|
+"C" c2"G7sus4" c2"G7sus4" c"Cdim"c"Cdim" c2 |"C" c4 z2 z G | cc c2 c2 BB | %41
+w: push the oth- er valve|down. THE|MU- SIC GOES 'ROUND AND A-|
+"Em7""Ebdim7" d4"Ebdim7" B2 A2 |"Dm7""C#dim7" c2"C#dim7" A4 E2 |"G7" G2 G"G9"G"G9" F2 E2 |1 %44
+w: ROUND. Whoa- ho-|ho- ho- ho-|ho, And it comes out|
+"C" C6 z2 ||"D7""^D7(b5)""G7" z4"G7" z2 z G :|2"C""G7" C4"G7" z4 ||"C" z8 |] %48
+w: here||here.||
+

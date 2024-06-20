@@ -1,0 +1,24 @@
+X:1
+T:If Ever I Cease To Love
+T:If Ever I Cease To Love
+C:Re' Kel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F2 |"Bb" D2 F2 F3 G | F6 F2 |"Eb" G2 B2 B3 c | B6 G2 |"Bb" B2 A2 G3 F | E2 D2 C2 B,2 | %7
+w: |||||||
+"F7" C2 F2 F3 G | F6 F2 ||"Bb" D2 F2 F3 G | F6 F2 |"Eb" G2 B2 B3 c | B6 G2 |"Bb" B2 A2 G3 F | %14
+w: |||||||
+ E2 D2 C2 B,2 |"F7" C2 F2 E3 C | B,6 F2 |:"Bb" D2 F2 F G2 F- | F4 z F=EF |"Eb" G2 B2 B c2 B- | %20
+w: ||* If|ev'r I cease to love,|_ _ _ If|ev'r I cease to love,|
+ B6 FF |"Bb" BBAA GGFF | EEDD CCB,B, |"F7" C2 F2 F G2 F- | F4 z F=E_E |"Bb" D2 F2 F G2 F- | F6 FF | %27
+w: _ May the|moon _ be _ turned _ to _|green _ cream _ cheese, _ If _|ev'r I cease to love,|_ _ _ If|ev're I cease to love,|_ _ If|
+"Eb" G2 B2 B c2 B- | B6 GG |"Bb" B2 AA GG F2 | EE D2 C2 B,2 |"F7" C F2 F E2 CB,- |"Bb" B,6 z2 :| %33
+w: ev'r I cease to love,|_ May we|all turn _ in- * to|cats _ and dogs, If|ev- er we cease to love.|_|
+

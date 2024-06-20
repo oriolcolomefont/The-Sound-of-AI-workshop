@@ -1,0 +1,22 @@
+X:1
+T:The Volga Boat Song
+T:The Volga Boat Song
+T:Traditional
+C:Traditional
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am" C/A,/"Dm" D"Am" A, z | C/A,/"Dm" D"Am" A, z | C"Dm" F"Am" E3/4F/8E/8"Dm" D | %3
+"Am" C/A,/"Dm" D"Am" A, z |:"Am" c/A/"Dm" d"Am" A z | c/A/"Dm" d"Am" A z | %6
+"F" c"Dm" f"C" e3/4f/8e/8"Dm" d |"Am" c/A/"Dm" d"Am" A z |"C" c3/2 c/"Gm" c/_B/A/G/ | %9
+"F" F"C" c"F" A3/2 z/ |"Am" c3/2 c/"Gm" c/_B/A/G/ |"Dm" F"C7" c"F" A3/2 z/ |"Dm" d d/d/"Am" A A | %13
+"Dm" f e/d/"Am" c A |"Dm" d f"Am" e3/4f/8e/8"Dm" d |"Am" c/A/"D" d"Am" A3/2 z/ :| %16
+"Am" c/A/"Dm" d"Am" A z | c/A/"Dm" d"Am" A z | c"Dm" f"Am" e3/4f/8e/8"Dm" d | %19
+"Am" c/A/"Dm" d"Am" A z | C"Dm" F"Am" E3/4F/8E/8"Dm" D |"Am" C/A,/"Dm" D"Am" A,2 |] %22
+

@@ -1,0 +1,25 @@
+X:1
+T:That'll Be The Day
+T:That'll be the day
+T:Buddy Holly,Norman Petty
+C:Buddy Holly, Norman Petty
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z"Bb7" B2 B |"Eb" cBBG BBcB |"Bb" z B2 G B B2 B |"Eb" cBBG BBcB |"Bb" z _d"F7"cB-"Bb" B2 B2 | %5
+w: Well, you|give me all your lov- in and your|tur- tle dov- in all|* your hugs an kis- ses and your|mon ey too * well|
+ z"Eb" cBG BBcB |"Bb" z BBG BBcB |"C7" c2 c2 c2 c2 | z"F7" F3 F3 F |] z4 z"F7" ^c2 d |] %10
+w: you know you love me ba- by|un- til you tell me may- be|that some day, well|I'll be through|we- ll|
+"Eb" cBBG B3 B | B B2 B c c2 _d |"Bb" cBBG B3 B | B B2 B"Bb7" c c2 _d |"Eb" cBBG B3 B | %15
+w: that- 'll be the day when|you say good- bye yes *|that- 'll be the day when|you make me cry ah, you|say you're gon- na leave you|
+ BBBc- c B3 |"Bb" ^cdcd B G2 F- | F"F7"AA"Bb"B- B"Bb7" B3 || F"F7"AA"Bb"B- B2 z2 || %19
+w: know it's a lie * cause|that- 'll be the day * *|* when I die * well|* when I die *|
+"Eb" z cBG BB B2 |"Bb" z cBG BB"Bb7" B2 |"Eb" z cBG BBcB | _d2"F7" c2"Bb" B4 |"Eb" z cBG BBcB | %24
+w: when Cu- pid shot his dart|he shot it at your heart|so I'd we ev- er part- and|I leave you|you say you told me an you|
+"Bb" z2 BG B B3 |"C7" c2 c2 c2 c2 |"F" d2"C" d2"F7" d2"Bb7" d2 |] %27
+w: told me bold- ly|that some day well,|I'll be through well.|
+

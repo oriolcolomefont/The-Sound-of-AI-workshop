@@ -1,0 +1,57 @@
+X:1
+T:Blessed be the Name of the Lord
+T:Blessed be the Name of the Lord
+T:Clinton Utterbach, 1989
+C:Clinton Utterbach 1989
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+"F" z4!f!"F/A" z4 |"Bb9" z4"Db7" z2"Eb7" z2 |"F" z4"F/A" z4 |"Bb9" z4"Db7" z2"Eb7" z2 | %4
+w: ||||
+"F" z4"F/A" z4 |"Bb9" z4"Db7" z2"Eb7" z2 |"F" z4"F/A" z2"Bb9" z2 | z4"Db7" z2"Eb7" z2 | %8
+w: ||||
+"F" AAAA AGFA- | A6 z2 |"Bb/F" BBBB BAGB | (B3"C/F" c-)!f! c2 z2 |"F/A" cccc"F/A" cBGF- | %13
+w: bles sed be the name of the Lord|_|bles sed be the name of _ the|Lord _ _|bles sed be the name of the Lord|
+"Bb7" F2 z2"Gm7" B A2 G- |"C7" G8- | G4 z4 |"F" AAAA AGFA- | A6 z2 |"Bb/F" BBBB BAGB- | %19
+w: _ mo st high|_||bles sed be the name of the Lord|_|bles sed be the name of the Lord|
+ B3-"C/F" c3 z2 |"F" cccc"F7/A" cBGF- |"Bb7" F2 z2"C7sus4" _A G2 F- |"F" F8 | z3 C"C7sus4" FGAA- | %24
+w: _ _|bles sed be the name of the Lord|_ mo st high|_|the name of the Lord|
+"F" A3 F"F/A" z4 |"Bb7" z4"C7sus4" B B2 A- |"F" A3 A | z3 C FGAG- |"C7" G3 E3 EC | z3 C BAGA- | %30
+w: _ is|a strong tow|_ er|the righ eous run in|_ to it _|and th ey are saved|
+"F" A8 | z3 C"C7sus4" FGAA- |"F" A3 F"F/A" z4 |"Bb7" z4"C7sus4" B B2 A- |"F" A3 F z4 | z3 C FGAG- | %36
+w: _|the name of the Lord|_ is|a srong tow|_ er|the right eous run _|
+"C7" G3 E3 EC | z3 C BAGF- |"F" F4-"C7sus4" F4 |"F" z8 |"F" AAAA AGFA- | A6 z2 |"Bb/F" BBBB BAGB | %43
+w: _ in to it|and th ey are saved|_ _||bles sed be the name of the Lord|_|bles sed be the name of _ the|
+ (B3"C/F" c-)!f! c2 z2 |"F/A" cccc"F/A" cBGF- |"Bb7" F2 z2"Gm7" B A2 G- |"C7" G8- | G4 z4 | %48
+w: Lord _ _|bles sed be the name of the Lord|_ mo st high|_||
+"F" AAAA AGFA- | A6 z2 |"Bb/F" BBBB BAGB- | B3-"C/F" c3 z2 |"F" cccc"F7/A" cBGF- | %53
+w: bles sed be the name of the Lord|_|bles sed be the name of the Lord|_ _|bles sed be the name of the Lord|
+"Bb7" F2 z2"C7sus4" _A G2 F- |"F" F8 | z3 C"C7sus4" FGAA- |"F" A3 F"F/A" z4 | %57
+w: _ mo st high|_|the name of the Lord|_ is|
+"Bb7" z4"C7sus4" B B2 A- |"F" A3 A | z3 C FGAG- |"C7" G3 E3 EC | z3 C BAGA- |"F" A8 | %63
+w: a strong tow|_ er|the righ eous run in|_ to it _|and th ey are saved|_|
+ z3 C"C7sus4" FGAA- |"F" A3 F"F/A" z4 |"Bb7" z4"C7sus4" B B2 A- |"F" A3 F z4 | z3 C FGAG- | %68
+w: the name of the Lord|_ is|a srong tow|_ er|the right eous run _|
+"C7" G3 E3 EC | z3 C BAGF- |"F" F4-"C7sus4" F4 |"F" z8 | z8 ||"F" AAAA AGFA- | A6 z2 | %75
+w: _ in to it|and th ey are saved|_ _|||bles sed be the name of the Lord|_|
+"Bb/F" BBBB BAGB | (B3"C/F" c-)!f! c2 z2 |"F/A" cccc"F/A" cBGF- |"Bb7" F2 z2"Gm7" B A2 G- | %79
+w: bles sed be the name of _ the|Lord _ _|bles sed be the name of the Lord|_ mo st high|
+"C7" G8- | G4 z4 |"F" AAAA AGFA- | A6 z2 |"Bb/F" BBBB BAGB- | B3-"C/F" c3 z2 | %85
+w: _||bles sed be the name of the Lord|_|bles sed be the name of the Lord|_ _|
+"F" cccc"F/A" cBA"Bb7"F- | F6 z2 |"Db7" _A"C7"G- G6- | G6 z2 |"F" F4-"F/A" F4- | %90
+w: bles sed be the name of the Lord|_|mo st _|_|high _|
+"Bb7" F6"Db7" z"Eb7" z |"F13" z4"F/A" z4 |"Bb7" z4"Db7" z2"Eb9" z2 |"F13" z4"F/A" z4 | %94
+w: _||||
+"Bb7" z4"Db7" z2"Eb7sus4" z2 |"F13" z4"F/A" z4 |"Bb7" z4"Db7" z2"Eb9" z2 |"F13" cccc"F/A" cBGF- | %98
+w: |||bles sed be the name of the Lord|
+"Bb7" F6"Db7" z"Eb7sus4" z |"F13" cccc"F/A" cBAB- |"Bb7" B6"Db7" z"Eb9" z | %101
+w: _|bles sed be the name of the Lord|_|
+"F13" cccc"F/A" cBA"Bb"d- | d2 z2"F/C" A"C9" B2"F7" c- | c8- | c4 z4 |] %105
+w: bles sed be the name of the _|Lord mo st _|high|_|
+

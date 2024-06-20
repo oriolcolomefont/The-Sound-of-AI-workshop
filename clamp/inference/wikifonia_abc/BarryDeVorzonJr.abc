@@ -1,0 +1,28 @@
+X:1
+T:Bless the Beasts and Children
+T:Bless the beasts and children
+T:Barry  DeVorzon, Perry Botkin,Jr.
+C:Barry DeVorzon, Jr., Perry Botkin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"G" Ad B2 dg | ^f2 d6 |"G7" B2 Bd"Am7" c3 E |"D7" B3 c A4- | A6 A2 |"G" A3 d B4- | B8 | %7
+w: Bless the beasts and the|child- ren|for in this world they|have no voice|* they|have no choice||
+w: |||||||
+ z2 Ad B2 dg | ^f2 d6 |"G7" z2 Bd"Am7" c3 E |"D7" Bc"^ToCoda" A6- | A6 A2 |"G" A3 d B4- |"E7" B8 | %14
+w: bless the beasts and the|child- ren|for the world can|nev- er be|* the|world they see||
+w: bless the beasts and the|child- ren|give them shel- ter|from a storm||||
+"C" z4 e2 g2 | g6 fe |"Bb" d2 f4 e2 |"F" d2"C" c6 |"Ab" z4 c2 _e2 |"Eb" _e6 dc |"Bb" _B6 c_B | %21
+w: light their|way when the|dark- ness sur-|rounds them|give them|love, let it|shine all a-|
+w: |||||||
+"C" G3 A"D7" A4- | A8 |"G" a2 a2 g2 g2 | a2"^to" a2"^return" g2 g2 ||"^Coda" A8 |"G" A3 d B4- | %27
+w: round * them|||||keep them safe|
+w: ||||||
+"E7" B8 |"A" B3 e ^c4- | ^c8 |] %30
+w: |keep them warm||
+w: |||
+

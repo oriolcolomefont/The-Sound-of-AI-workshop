@@ -1,0 +1,24 @@
+X:1
+T:All That I Ask Of You Is Love
+T:All That I Ask Of You Is Love
+C:Herbert Ingraham
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" d2 c/B/ |"D7" A2 ^F |"Eb" G3- |"G7/D" G z z |"Cm" e2 d/c/ |"Eb" B2 G |"F7" A3- | A z z | %8
+w: All that I|ask is|love,|_|All that I|want is|you;|_|
+"Bb/D" F2"Bb6" G |"Bbm" A2 B |"Am#5/C" A2 c |"E/B" !fermata!=e2"E7/B" d |"C7" c2 B | %13
+w: And I|swear by|all the|stars, I'll|be for-|
+"Cdim/D#" ^F2"Em" G |"F7""Eb" c3- |"F7" c z z |"^BB" d2 c/B/ |"D7" A2 ^F |"Eb" G3- |"G7/D" G z z | %20
+w: ev- er|true.|_|All that I|seek to|know,|_|
+"Cm" e2 d/c/ |"Eb" B2 G |"F7" A3- | A z z |"Bb7" f2 d/c/ | B2 c/d/ |"Gm7/D" f2"Gm6" =e | %27
+w: All that I|want a-|bove,|_|All that I|crave in this|wide, wide|
+"Cm" !fermata!_e2"Cdim" ^F/G/ |"C7/G" d2 c/B/ |"Eb" G2"F7" !fermata!A |"Bb" B3- | B3 |] %32
+w: world, All that|I ask of|you is|love.|_|
+

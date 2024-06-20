@@ -1,0 +1,37 @@
+X:1
+T:That's The Way Of The World
+C:Charles Stepney, Maurice White, Verdine White
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+"Dmaj7" B2FA- A2<B2- B4 F2<A2 |"Am6/D" B2FA- A2<B2- B4 F2<A2 |"G6/D" B2FA- A2<B2- B4 F2<A2 | %3
+w: Hearts of fire _ _ _ cre- ate|love de- sire _ _ _ take you|hlgh and high- * er _ to the|
+"Gm/D" F2<D2- D=FDE- E4"Bdim" D4 |"Dmaj7" B2^FA- A2<B2- B4 FAB2 |"A7/D" d4- d2BA- AFED- D4 | %6
+w: world _ _ you be- long.. _ _|Hearts of fire _ _ _ cre- ate _|love _ de- sire _ _ _ _ _|
+"G6/D" B2FA- A2<B2- B4 F2<A2 |"Gm/D" F2<D2- D=FDE- E4 D4 |"Dmaj7" z3 A, D2BA- AG2^F- FDFD | %9
+w: high and hlgh- * er _ to your|place _ _ on the throne. _ _|We come to- geth- * er on _ this\- spe- cial|
+"Am/D" =F2<E2 E12 |"G6/D" z4 DA2G- G^F2E- ED2D- |"Gm/D" D12"Bdim" z4 | %12
+w: day, _ _|sing our mes- * age loud _ and clear.|_|
+"Dmaj7" z4 DB2A- AG2F- FD2=F- |"Am/D" =F/=F/DE2- E12 |"G6/D" z4 DA2G- G^F2E- ED2D- | %15
+w: Look- ing back, _ we've touched _ on sor-|* row- ful days, _|fu- ture pass, _ they dis- * ap- pear.|
+"Gm/D" D8 z4 D_B2A- |"Dmaj7" A12 Fe2d- |"D7b5/Ab" d12 de2f- |"Gmaj7" fd2d- d8 dd2e- | %19
+w: _ You will find|_ peace of mind,|_ if you look|_ wat down _ in your heart|
+"F#m7" ec2c- c8 z2 f2 |"Gmaj7" fd2d- def2- f4 dd2e- |"F#m7" ec2c- c8 fedf- | %22
+w: _ and soul. _ Don't|hes- i- tate _ _ _ _ 'cause the world|_ seems cold, _ Stay _ _ yound|
+"Gmaj7" fd2d- d8 ef2a- |"F#m7" a2<f2- f2fa"Bm7" fed2- d2B2 |"Em7" e2f2- f8 z4 | %25
+w: _ at heart, _ 'cause you're nev-|er, _ _ nev- er old. _ _ _ _|_ _ _|
+"A7sus4""Em7/A" z16 |"Dmaj7" B2FA- A2<B2- B4 z4 |"D7b5/Ab" B2F=A- A8 z4 | %28
+w: |That's The Way _ _ _|Of The World, _|
+"Gmaj7" B2FA- A2<B2- B4 z ABd- |"C9" d4- d2AF- FED2 z4 |"D/A" B2FA- A8 F2<A2 | %31
+w: plant your flow- * er _ and you grow|_ _ a pearl, _ _ _|Child is born _ with a|
+"D9" B2FA- A2<B2-"D7b5/Ab" B4 F2<=A2 |"Gmaj7" G2FA- A8 FA2d- |"C9" d4 _BF2A- A4 z4 |: %34
+w: heart of gold; _ _ _ way _|of the world, _ makes his heart|_ so _ cold. _|
+"D/A" B2FA- A2<=B2- B4 F2<A2 |"D9" B2FA- A2<B2-"D7b5/Ab" B4 F2<A2 |"Gmaj7" B2FA- A2<B2- B4 F2<A2 | %37
+w: Hearts of fire _ _ _ cre- ate|love de- sire _ _ _ take you|high and high- * er _ to the|
+"C9" F2<D2- D=FDE- E4"^repeat and fade" D4 :| %38
+w: world _ _ you be- long. _ _|
+

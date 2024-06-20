@@ -1,0 +1,24 @@
+X:1
+T:Wonderful Peace
+T:Wonderful Peace
+T:Warren D. Cornell & W. George Cooper, 1889
+C:Warren D. Cor­nell & W. George Coo­per 1889
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:3/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z4 F-G |"F" A3 A A2 | A3"C/G" G"F/A" F2 |"Bb" G2 F2 D2 |"F" C4 FG | A3 A A2 |"G7" A2 G2 F2 | %7
+w: far a|way in the|depths of my|spir it to|night rolls a|mel o dy|sweet er than|
+"C7sus4" G6- |"C7" G4 FG |"F" A3 A A2 | A3"C/G" G"F/A" F2 |"Bb" G2 F2 D2 | F4"G7/A" FG | %13
+w: psalms|_ in ce|les tial like|strains it un|ceas ing ly|falls O're my|
+"F/C" A3 A A2 |"C7" G2 G2 G2 |"F" F6- | F6 || A6 |"F/A" F6 |"Bb" G3 F D2 |"F" C4 CC |"Dm" F3 F F2 | %22
+w: soul like an|in fin ite|calm|_|Peace|Peace|won der ful|peace com ing|down from the|
+"G7" A2 G3 A |"C" G6- | G4 AB |"F" c3 c c2 | A2"C/G" G2"F/A" F2 |"Bb" G F3 D2 | !fermata!F4 FG | %29
+w: Fa ther a|bove|_ sw eep|o ver my|spir it for|ev er I|pray In _|
+"F/C" A3 A A2 |"C7" G G3 G2 |"F" F6- | F6 |] %33
+w: fath om less|bil lows of|love.|_|
+

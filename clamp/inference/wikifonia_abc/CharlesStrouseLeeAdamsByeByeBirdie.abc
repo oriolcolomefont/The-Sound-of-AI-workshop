@@ -1,0 +1,29 @@
+X:1
+T:Bye Bye, Birdie
+T:Bye bye birdie
+T:Charles Strouse
+T:lee Adams
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" f4 |"Am" e4 |"Bb" g4 | d4 | z2"C7" e2 | e2 d2 |"F" f2 d2 | c4 |"D7" c4 | A4 |"Gm" a4 | f4 | %12
+w: Bye|bye|bir|die|I'm|gon- na|miss you|so|bye|bye|bir-|die|
+w: No|more|sun-|shine|its|fol- lowed|you a-|way|I'll|cry|bir-|die|
+"C7" z g2 f | e2 g2 |"F" f4 | z4 :|"F" f4- |"F7" f3 f |"Bb" f3/2 e/ d e | f3 f |"Am" e3/2 d/ c d | %21
+w: why d'ya|have to|go?||stay|* I'll|miss the way you|smile as|though its just for|
+w: till youre|home to||||||||
+ e3 e |"Bb" d3/2 c/ _B c | d3 d |"G7" d2 d2 | e2 f2 |"C7" g4- | g4 |"F" f4 |"Am" e4 |"Bb" g4 | %31
+w: me and|each and ev- ry|night I'll|write you|faith- ful-|ly||Bye|bye|bir-|
+w: ||||||||||
+ d2 z2 |"C7" z2 e2 | e2 d2 |"F" f2 d2 | c4 |"D7" c4 | A4 |"Gm" a4 | f4 |"C7" z g2 f | e2 g2 | %42
+w: die|its|aw- ful|hard to|bear|Bye|bye|bir-|die|guess I'll|al- ways|
+w: |||||||||||
+"F" f4- |"F7" f4 |"Bb" z g2 f |"C7" e2 g2 |"F" f4- | f2 z2 |] %48
+w: care||guess I'll|al- ways|care.||
+w: ||||||
+

@@ -1,0 +1,24 @@
+X:1
+T:Puanani
+T:Puanani 
+T:Hal Aloma,Eddie White,Mack Wolfson,
+T:Hawaiian Beat
+C:Hal Aloma,Eddie White,Mack Wolfson,
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 B,C |:"F" A2 A4 E2 | G2 _GF =G2 _GF |"D7" E8- | E6 ^CD |"Gm7" _B2 _B4 ^F2 | A2 _AG =A2 _AG | %7
+w: Pu- a-|na- ni my|bear- ti- ful flow- er of|love|* Pu- a-|na- ni youre|all that my hearts dream- ing|
+"C7" E8- | E6 A_B |"F" c2 c4 c2 | c6 B2 |"Gm7" _B8- | _B6 ^CD |"G7" A6 A2 | _A2 _A4 _A2 |"C7" G8- | %16
+w: of|* in the|gar- den of|ec- sta-|sy|* youre the|rose of|ros- es to|me|
+ G6 B,C |"F" A2 A4 E2 | G2 _GF =G2 _GF |"D7" E8- | E6 ^CD |"Gm7" _B2 _B4 ^F2 | A2 _AG =A2 _AG | %23
+w: * Pu- a-|na- ni your|fra- grance is more than di-|vine|* I found|hea- ven the|night that you said you were|
+"C7" E8- | E6 A_B |"F" c6 c2 |"Am" e6 _e2 |"D7" d8- | d6 ^GA |"Gm7" c2 _B4 D2 |"C" A2 A4 A2 | %31
+w: mine|* blessed by|all the|stars a-|bove|* Pu- a-|na- ni my|flow- er of|
+"F" F6 ^F2 |"C7" G6 B,C :|"F" F8- |"Bb" F6"F" z2 |] %35
+w: love *|* Pu- a|love||
+

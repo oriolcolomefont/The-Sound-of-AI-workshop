@@ -1,0 +1,17 @@
+X:1
+T:Ha felmegyek a budai nagy hegyre
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A,A,A,A, DDED | C2 B,2 A,2 z2!fine! |: EECE GG^FG |1 A2 F2 E2 z2 :|2 AABA E2 D2 | %5
+w: Ha fel- me- gyek a bu- da- i|nagy hegy- re,|Le- re- kin- tek, le- te- kin- tek|a völgy- be,||
+w: É- des- a- nyám sze- di a vi-|rá- go- kat.|Ott lá- tom a, ott lá- tom a||ki- csi ker- tes há- zun-|
+ E2 z2 z4!D.C.! |] %6
+w: |
+w: kat,|
+

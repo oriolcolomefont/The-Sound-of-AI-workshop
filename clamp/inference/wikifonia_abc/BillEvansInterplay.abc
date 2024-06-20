@@ -1,0 +1,19 @@
+X:1
+T:Interplay
+C:Bill Evans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Fmin
+U:s=!stemless!
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+|:"^Medium swing" F3 c z .A2 F | Bc- (3cGE F2 z A | GFBA dcAF | DF (3GEF z2 !>!f2- | f3 c B2 df | %5
+ cB- (3Bef .B2 z d | efcd Be (3cAf- | (3fdB (3cAF z2 !>!c2- | c2 B2- BG c2- | cd- (3dBG .c2 z2 | %10
+ dc (3AFC (3DFA (3cGF | (3BAF (3GAF z4"^Fine" ::"^Solos (F minor blues)""Fm6" sB2 sB2 sB2 sB2 | %13
+"Bbm6" sB2 sB2 sB2 sB2 |"Fm6" sB2 sB2 sB2 sB2 |"F+7b9" sB2 sB2 sB2 sB2 |"Bbm7" sB2 sB2 sB2 sB2 | %17
+"Bbm7" sB2 sB2 sB2 sB2 |"Fm6" sB2 sB2 sB2 sB2 |"Ab7" sB2 sB2 sB2 sB2 |"Gm7b5" sB2 sB2 sB2 sB2 | %21
+"C+7" sB2 sB2 sB2 sB2 |"Fm6" sB2 sB2"Dm7b5" sB2 sB2 |"Dbmaj7" sB2 sB2"Gbmaj7" sB2 sB2 :| %24
+

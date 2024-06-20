@@ -1,0 +1,32 @@
+X:1
+T:The Blue Room
+T:THE BLUE ROOM
+C:Richard Rogers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F6""^A" C"Dm7" F2 D |"Gm7" C"C7""C7" G2 D |"Fmaj7" C"Dm7""Dm7" A2 D |"Gm7" C"C7""C7" B2 D | %4
+w: We'll have a|blue room, a|new room, for|two room, where|
+w: ||||
+"Cm7" C c"F7" c c |"Bbmaj7" c/d/"Eb9" B2 G |1"Dm7" F F"G7" F/G/ A ||"Gm7" C3"C7" z :|2 %8
+w: ev- 'ry- day's a|hol- i- day be-|cause you're mar- ried to|me.|
+w: ||||
+"F6" F F"Gm7" F/G/"C7"A/G/ ||"F6" F3 z ||"Gm7""^B" E F G A |"C7" B c d e |"F6" z f"Bb7" f/e/ d | %13
+w: your wee head up- on my|knee.|We will thrive on,|keep a- live on|just noth- ing but|
+w: |||||
+"Am7" c2"D7" d2 |"Gm7" z e"C7" e/d/ c |"Gm7" B2"C7" c2 |"Dm7" z A"G7" A/G/ F |"Gm7" C3"C7" z || %18
+w: kiss- es,|with Mis- ter and|Mis- sus|on lit- tle blue|chairs.|
+w: |||||
+"F6""^A" C"Dm7" F2 D |"Gm7" C"C7" G2 D |"Fmaj7" C"Dm7" A2 D |"G7" C"C7" B2 D |"Cm7" C c"F7" c c | %23
+w: You sew your|trous- seau, and|Rob- in- son|Cru- soe is|not so far from|
+w: I'll wear my|||||
+"Bbmaj7" c/f/ B2"Eb9" A/G/ |"F6" F F"Gm7" F/G/"C7"A/G/ |"F6" F2"Gm7" z"C7" z |] %26
+w: word- ly cares as our|blue room far a- way up-|stairs|
+w: |||
+

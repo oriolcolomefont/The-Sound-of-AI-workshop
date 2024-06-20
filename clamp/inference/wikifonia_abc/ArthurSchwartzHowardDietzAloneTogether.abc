@@ -1,0 +1,36 @@
+X:1
+T:Alone Together
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+ x D |:"Dm6" F4- F3 D | E"Em7b5" E3-"A7b9" E4- |"Dm6" E2 z D E3 F |"Em7b5""A7b9" A8- | %5
+w: A-|lone _ to-|geth- er, _|_ Be- yond the|crowd,|
+w: |lone _ to-|geth- er, _|_ The blind- ing|rain,|
+"Dm6" A2 z D E3 F |"Am7b5" A8-"D7b9" |"Gm7" A2 z G A3 B | d4- d3 d |"Bm7" e4-"E7" e3 d | %10
+w: _ A- bove the|world,|_ We're not too|proud _ to|cling _ to-|
+w: _ The star- less|night,|_ Were not in|vain; _ For|we're _ to-|
+"Gm7" c c3-"C7" c3 B |"F" A3 G A3 G |"Em7b5" A4-"A7b9" A3 G |1"Dmaj7" ^F F3- F4- | %14
+w: geth- er _ We're|strong as long as|we're _ to-|geth- er. _|
+w: geth- er _ And|what is there to|fear _ to||
+"Em7b5" F4"A7b9" z2 z D :|2"Dmaj7" ^F F3- F4- |"Em7b5" F4"A7b9" z2 D2 ||"Am7b5" c8- | %18
+w: _ The|geth- er. _|_ Our|love|
+w: ||||
+"D7b9" (3c2 A2 B2 (3c2 _e2 d2 |"Gm7" B8- | B6 D2 |"Gm7b5" B8- |"C7b9" (3B2 G2 A2 (3B2 _d2 c2 | %23
+w: _ is as deep as the|sea.|_ Our|love|_ is as great as a|
+w: |||||
+"Fmaj7" A4- A3 F |"Em7b5" G4-"A7b9" G3 D ||"Dm6" F4- F3 D | E"Em7b5" E3-"A7b9" E4- | %27
+w: love _ can|be. _ And|we _ can|weath- er _|
+w: ||||
+"Dm6" E2 z D E3 F |"Em7b5""A7b9" A8- |"Dm6" A2 z A =B3 d |"Bb7" f4-"A7b9" f3 ^c |"Dm6" d d3- d4- | %32
+w: _ The great un-|known,|_ if we"re a-|lone _ to-|geth- er. _|
+w: |||||
+"Bb9" d2 z2"A7b9" z4 |] %33
+w: _|
+w: |
+

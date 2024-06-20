@@ -1,0 +1,36 @@
+X:1
+T:Forget Domani
+T:Forget Domani
+C:Riz Ortolani
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"G" B/>B/B/>B/"E7" B d |"Am" c c"D7" z2 |"Am" c/>c/c/>c/"D7" c e |"G" d d z2 | %4
+w: Let's for- get a- bout to-|mor- row,|let's for- get a- bout to-|mor- row,|
+ B/>B/B/>B/"E7" B d |"Am" c e A3/2 c/ |"Am7" B G"D7" A F |1"G" G z"D7" z2 :|2"G" G z z2 || %9
+w: let's for- get a- bout to-|mor- row for to-|mor- row nev- er|comes.|comes.|
+[K:Bb] z2"D+7" B2 |"Gm" A G/ z/ z2 |"Cm7" z B"D+7" B3/2 A/ |"Gm" A G/ z/ z2 | %13
+w: Do-|ma- ni,|for- get do-|ma- ni,|
+"Cm7" z B"D+7" B3/2 A/ |"Gm" A G A G | A G A G |"Cm" F E/ z/ z2 | z2 z A |"D7" G ^F/ z/ z2 | %19
+w: let's live for|now and an- y-|how, who needs do-|ma- ni.|The|moon- light,|
+ z A A3/2 G/ | G ^F/ z/ z2 | z A A G |"D7" G ^F E D | E D =F3/2 E/ |"Gm""D7" D4- | %25
+w: let's share the|moon- ight,|Per- haps to-|geth- er we will|nev- er be a-|gain.|
+"Gm" D/ z/ D"D+7" B3/2 ^F/ |"Gm" (A G/) z/ z2 |"Cm7" z B"D+7" B3/2 A/ |"Gm" (A G/) z/ z2 | %29
+w: _ Oh what a|moon, _|Oh what a|sea, _|
+"Cm7" z B"D+7" B3/2 A/ |"Gm" A G A G | A G A B |"Cm" c4- | c/ z/"Gm" d d d |"Cm" d c d c | %35
+w: With such a|moon and such a|sea, and you with|me.|_ I get so|diz- zy when you're|
+ d c/e/- e3/2 d/ |"Gm" c B c B | c B/d/- d3/2 c/ |"D7" B A B A | B A B c |"Gm""D7" d4- | %41
+w: stand- ing near, _ It's|not the mu- sic|that you hear, _ My|heart is beat- ing|like a jun- gle|drum.|
+"Gm" d/ z/ d d d |"Cm" d c d c | d c/e/- e3/2 d/ |"Gm" c B c B | c B/d/- d3/2 c/ |"D7" B A B A | %47
+w: _ Let's take the|min- utes as they|speed a- way, _ and|hope it's true what|peo- ple say, _ when|you're in love to-|
+ B A"Am7" G"D7" ^F |"G" G4- | G2 z2 |:[K:G] B/>B/B/>B/"E7" B d |"Am" c c"D7" z2 | %52
+w: mor- row nev- er|comes.|_|Let's for- get a- bout to-|mor- row,|
+"Am" c/>c/c/>c/"D7" c e |"G" d d z2 | B/>B/B/>B/"E7" B d |"Am" c e A3/2 c/ |"Am7" B G"D7" A F |1 %57
+w: let's for- get a- bout to-|mor- row,|let's for- get a- bout to-|mor- row for to-|mor- row nev- er|
+"G" G z"D7" z2 :|2"G" G z z2 |] %59
+w: comes.|comes.|
+

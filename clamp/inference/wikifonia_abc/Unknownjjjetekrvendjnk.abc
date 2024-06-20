@@ -1,0 +1,19 @@
+X:1
+T:Ó, jöjjetek, örvendjünk
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Dmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z4 z2 A,2 |"Dm" DD D D2 E2 F |"F" FF F F2 G2 A |"C" GG G F3 EF |"Dm" D6 z2 ::"F" A4 F4 | %6
+w: Ó,|jöj- je- tek, ör- vend- jünk,|lel- ke- sen tap- sol- junk,|é- ne- kel- jünk az Úr-|nak!|Is- ten|
+"C" c c2 d c4 |"Dm" F2 F2 G2 F2 |"A" A2 B2"A7" A3 A, |"Dm" D2 DE D4 |"Gm" G3 G A2 GG | %11
+w: kül- döt- te el|né- künk sza- ba-|dí- tó- ját, A|né- pek e- lõtt|meg- je- len- tet- te|
+"Dm" F2 F2"A" ED ^C2 |"Dm" D6 z2 :| %13
+w: az Õ i- gaz- sá-|gát.|
+

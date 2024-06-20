@@ -1,0 +1,30 @@
+X:1
+T:Mr. Lucky
+T:Mr. Lucky
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z G A c |:"D13" ^d e3- | e2 B"D9" A |"Dm9" E4- |"G+9" E2 G _E |"Cm9" D4- |"F13" D2"F+7" =F _D | %7
+w: They call us|luck- y,|* you and|I,|* Luck- y|girl,|* luck y|
+w: |||||||
+"Bbmaj7" C4- | C2 _B, C |"Am11" D C E G |"D9b5" ^G3"D9" A |"Bm7" A4- | A"Em7" G D E | %13
+w: guy.|* When you|take my hand or|touch my|cheek|* I now I'm|
+w: ||||||
+"Cm11" =F D _B, C |"Am11" D3"D7" C |"Dm7" D4- |"G7" D G"^N.C." A c |"D13" ^d e3- | e2 B"D9" A | %19
+w: on a life- time|luck- y|streak.|* A luck- y|rain- bow|* lights the|
+w: ||||||
+"Dm9" E4- |"G+9" E2 G _E |"Cm9" D4- |"F13" D2"F+7" =F _D |"Bbmaj7" C4- |"E+7" C3"Bb7/D" _B, | %25
+w: sky|* When we|kiss,|* when we|sigh.|* They|
+w: |||||* They|
+"Eb" D C"Cm7/G" _E G |"D9" ^G A B c |"Bm7" d4- |"Bb9" d3 c |"Am9" B3 A |"Am7/D" E2 E2 |1"G6" G4 || %32
+w: say I'm luck- y,|mis- ter- luck- y|guy|* and|you're the|rea- son|why.|
+w: say you're luck- y|mis- ter luck- y|guy|* but|dar- ling,|so am||
+ z G A c :|2"G6" G4 |] %34
+w: They call us||
+w: |I.|
+

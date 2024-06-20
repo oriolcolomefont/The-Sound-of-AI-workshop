@@ -1,0 +1,19 @@
+X:1
+T:Beautiful Isle Of Somewhere
+T:Beautiful Isle of Somewhere
+T:J.B. Pounds and J.S. Fearis.
+C:John S. Fear­is
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" e d c | G2 c | c3 |"G" B3 | f e d | A2 B |"A" (A3 |"C" G3) | e d c | G2 c |"G" B3 | d3 | %12
+w: Some- where the|sun is|shin-|ing|some- where the|song- birds|dwell|_|Hush then thy|sad re-|pin-|ing|
+"D" d e d | c B A |"G" G3- | G3 | d3 | G3 |"C" c3 | G3 | c c c | c B c |"G" (d2 e) | f z2 | %24
+w: God lives and|all is _|well.|_|Some-|where|some-|where|beau- ti- ful|isle * of|some- *|where|
+"C" e f e |"G" d2 d/d/ |"C" g2 c |"F" f3 |"C" e d c | G c e |"G" d3 |"C" c3 |] %32
+w: land of the|true where we|live a|new|beau- ti- ful|isle * of|some-|where.-|
+

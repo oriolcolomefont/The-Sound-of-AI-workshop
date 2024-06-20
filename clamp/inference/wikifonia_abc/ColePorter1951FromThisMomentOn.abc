@@ -1,0 +1,31 @@
+X:1
+T:From This Moment On
+T:From This Moment On
+C:Cole Porter © 1951
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:Ab
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Fm" z C2 =D |"Dm7b5" F2 A c- |"Gm7" c4- |"C7" c3 z |"Bbm6" d4 |"Fm" c4 |"Ebm7" d4 |"Ab7" c3 z | %8
+w: From this|mo- ment on,|||you|for|me|dear,|
+"Dbmaj7" c3 B- | B c2 B |"Gb9" c4 | B3 z |"Ab" z B2 A |"Abdim7" F2 E C- |"Gm7" C4- |"C7" C3 z | %16
+w: on- ly|* two for|tea|dear,|from this|mo- ment on.|||
+"Fm" z C2 =D |"Dm7b5" F2 A c- |"Gm7" c4- |"C7" c3 z |"Bbm6" d4 |"Fm" c4 |"Ebm7" d4 |"Ab7" c3 z | %24
+w: From this|hap- py day|||no|more|blue|songs,|
+"Dbmaj7" c3 B- | B c2 B |"Gb9" c4 | B3 z |"Ab" z B2 A |"Bbm7" F2"Eb7" E F- |"Ab7" F4- | F z E F | %32
+w: on- ly|* whoop- dee-|doo|songs|from this|mo- ment on.||* For you've|
+"Db" A2 A A- | A3 F |"Gm7" A2 A A- | A z z2 |"Ab" F2 F F- | F3"Ebm7/G" E |"F7" F2 F F- | F z z2 | %40
+w: got the love|* I|need so much,||got the skin|* I|love to touch.||
+"Eb7/Bb" B2 B B- | B3 G |"Bb7" B2 B B- | B z z2 |"Eb" z E2 E |"Ebdim7" E3/2 E/- E E | %46
+w: Got the arms|* to|hold me tight,||got the|sweet lips * to|
+"Eb7" E E E E- |"C7#9" E z z2 |"Fm" z C2 =D |"Dm7b5" F2 A c- |"Gm7" c4- |"C7" c3 z |"Bbm6" d4 | %53
+w: kiss me good- night-||From this|mo- ment on,|||you|
+"Fm" c4 |"Ebm7" d4 |"Ab7" c3 z |"Db" c3 B- | B c2 B |"Dbm7" e4 |"Gb9" d3 z |"Ab" z c2 B | %61
+w: and|I|babe,|we'll be|* rid- in'|high|babe.|Ev- 'ry|
+"Bbdim7" A2 F E- |"Cm7" E4- | E z"F7" F2 |"Bb7" A3"Bbm7/Eb" c- | c3"Eb7" B |"Ab" A4- | A3 z |] %68
+w: care is gone||* From|This Mo-|* ment|on.||
+

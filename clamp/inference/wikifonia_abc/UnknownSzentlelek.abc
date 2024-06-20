@@ -1,0 +1,19 @@
+X:1
+T:Szentlélek
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 52
+V:1
+"^Refrén" z4 z2 z D |"G4" (A3 B)"G" B2 z D |"G4" AGAB/B/-"G" B2 Bc/d/ |"C" d>c c2"Am" z2 c>B | %4
+w: Szent-|lé- * lek, úgy|ké- rünk, szállj le ránk, * töltsd el a|szí- * vünk, é- le-|
+"D" A4 z2 z D |"G4" (A3 B)"G" B2 z D |"G4" AGAB"G" B2 Bc/d/ |"C" d c2 B"D" BAAG/G/- |"G" G4 z4 || %9
+w: tünk, hogy|bé- * ke és|ál- dás száll jon ránk, küldd el a|Lel- ked, úgy ké- rünk, Is- te- nünk.||
+"G""^Versszak" B<AGB"D" AGFD/E/- |"Em" E4 z2 AB |"Am" c<ccc cBAG |"D" (G3 A) A2 z2 | %13
+w: 1.~Ke- gyel- med- del táp- lálsz, Is- te- nünk,|* Hoz- zád|e- mel- jük most mind- nyá- jan a|szí- * vünk,|
+"G" B<AGB"D" A<GFD/E/- |"Em" E4"C" z2 AB |"Am" cccB"C" ABGA/F/- |"D" F4 z4 |] %17
+w: Re- mény- sé- günk Be- lő- led fa- kad,|* hogy- ha|szí- vünk, lel- künk min- den- től sza- bad.-||
+

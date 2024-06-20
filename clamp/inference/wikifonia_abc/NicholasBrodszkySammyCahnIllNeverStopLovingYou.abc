@@ -1,0 +1,28 @@
+X:1
+T:I'll Never Stop Loving You
+T:I'll Never Stop Loving You
+C:Nicholas Brodszky
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C" z G"C6" c"Cmaj7" G |"Dm7" G F/E/"G7" F2 |"Cmaj7" z E"Am" G"Cmaj7" E |"Bm7" E D/^C/"E7" D E | %4
+w: I'll nev- er|stop lov- ing you,|What- ev- er|else I may do, My|
+"Am""F""Am" ^C3"E" E |"C7""Gm7" ^C3"C7" C |"Fmaj7" A3/2"F6" G/"Dm7" F/E/D/C/ |"G7" D4 | %8
+w: love for|you will|live 'till time it- self is|through.|
+"C" z G"C6" c"Cmaj7" G |"Dm7" G F/E/"G7" F2 |"Cmaj7" z E"Am" G"Cmaj7" E |"Bm7" E D/^C/"E7" D E | %12
+w: I'll nev- er|stop want- ing you,|And when for-|ev- er is through, my|
+"A" ^C3 E |"F#m" ^C3 C |"Bm" D3/2 E/"E7" ^F/^G/A/B/ |"A" A3 A |"Gm7" c3 G/A/ | %17
+w: heart will|beat the|way it does each time we|meet. The|night does- n't|
+ (3_B c d"F#dim" (3c A B |"Gm7" c3 G/A/ |"Gb7" _B3 E |"Fmaj7" A3"F6" E/F/ | %21
+w: ques- tion the stars that ap-|pear in the|skies, So|why should I|
+"Gm6" (3G A _B"A7" (3A G E |"D7" D3 E/C/ |"Dm7""G7" D4 |"C" z G"C6" c"Cmaj7" G | %25
+w: ques- tion the stars that ap-|pear in my|eyes.|Of this I'm|
+"Dm7" G F/E/"G7" F2 |"Cmaj7" z G"C7" e _B |"Gm6" _B A/^G/"A+7" A"A7" A |"Dm7" c A2 c/d/ | %29
+w: more than just sure,|My love will|last and en- dure, I'll|nev- er, no, I'll|
+ e c/c/"Dbmaj7" c c |1"C" c4- ||"Dm7" c3"G7" z :|2"C" c4- || c3 z |] %34
+w: nev- er stop lov- ing|you.||you.||
+

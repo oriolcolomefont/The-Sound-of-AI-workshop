@@ -1,0 +1,28 @@
+X:1
+T:Jerusalem
+T:Jerusalem
+T:W.Blake and H.H.Parry
+C:Charles Parry
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z F Ac |:"Dm" d3"Bb" f dc/B/ |"F" c4"Bb" dc/B/ |"F" cA"Dm" G2 F2 |"Bb" D3 F"F" Ac | %5
+w: And did those|feet in an- cient *|time walk up- on|Eng- land's moun- tains|green? and was the|
+w: |bow of burn- ing *|gold bring me my|arr- ows of de-|sire! bring me my|
+"Dm" d3 f"Am7" ed/c/ |"Dm" d3 d"Am" eA |"Dm" c=B"Am" A2"G" G2 |"C" c2 z G"Gm" G"F"A | %9
+w: Ho- ly lamb of *|God on Eng- land's|plea- sant pas- tures|seen? And did the|
+w: spear! O clouds un *|fold bring me my|cha- ri- ot of|fire! I will not|
+"Gm" B3 d"Cm" cG |"Gm" B2 z G B"C"c |"Bb" d3 f"F7" _ec |"Bb" d2 z B"F" df |"Gm" g3/2f"C" e2 ed/ | %14
+w: coun- ten- ance di-|vine shine forth up-|on our cloud- ed|hill? and was Je-|ru- sa- lem build- ed-|
+w: cease from men- tal|fight nor shall my|sword sleep in my|hand Till we have|built * Je- ru- sa-|
+"F" c3"C" c"Dm" f"Gm"d |"F" cd"Bb" A2"C7" G2 |1"F" F6- || F2 z F Ac :|2"Bb" F4 dc/B/ || %19
+w: here a- mong those|dark sa- tan- ic|mills?|2) Bring me my|land. * * *|
+w: lem in Eng- lands|green and plea- sant||||
+"F" c2- c2 z2 | z6 | z6 |] %22
+w: |||
+w: |||
+

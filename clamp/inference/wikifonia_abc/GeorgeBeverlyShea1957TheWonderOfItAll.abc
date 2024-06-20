@@ -1,0 +1,45 @@
+X:1
+T:The Wonder Of It All
+T:The Wonder Of It All
+T:George Beverly Shea, 1957 Arrangement: Larry Johnson, 2011
+C:George Beverly Shea 1957
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z6 | z6 | z6 | z6 | z6 | z2 z2 FF |"Bb" F3 F F2 |"F7" F2 E2 C2 |"Bb" D2 F4- | F4"Bb7/D" B2 | %10
+w: |||||there's the|won der of|sun set at|even ing|_ the|
+"Eb" B4 B2 | B2- A2 G2 |"Bb" F6- | F4 FF |"F7" c3 c c2 | c2 B2 c2 |"D/F#" d4 d-c |"Gm" B4"Eb" GG | %18
+w: won der|of sunrise I|see|_ but the|won der of|won ders that|thrill my _|soul is the|
+"Bb/F" F F3 F2 |"F7" F4 F2 |"Bb" F6- | F4 FF ||"Bb" F3 F"F7" FE |"Bb" D4"Bb7" B2 |"Eb" B3 B BA | %25
+w: won der that|God loves|me|_ o the|won der of it|all the|won der of it|
+ G4"Edim7" GG |"Bb/F" F4 F2 |"F7" F2- E2 C2 |"Bb" D2- F4- | F4"F" FF |"Bb" d3 d"F7" dc | %31
+w: all just to|think tnat|God _ loves|me _|_ O the|won der of it|
+"Bb" B4"Bb7" B2 |"Eb" B3 B BA | G4"Edim7" GG |"Bb/F" F4 F2 |"F7" A2- B2 c2 |"Bb" B6- | B4 FF | %38
+w: all the|won der of it|all just to|think that|God _ loves|me|_ there's the|
+"Bb" F3 F F2 |"F7" F2 E2 C2 |"Bb" D2 F4- | F4"Bb7/D" B2 |"Eb" B4 B2 | B2- A2 G2 |"Bb" F6- | F4 FF | %46
+w: won der of|spring time and|har vest|_ the|sky the|stars _ the|sun|_ won der|
+"F7" c3 c c2 | c2 B2 c2 |"D/F#" d4 d-c |"Gm" B4"Eb" GG |"Bb/F" F F3 F2 |"F7" F2- F2 F2 |"Bb" F6- | %53
+w: of won ders|that _ _|thrills my _|soul is a|won der that's|on ly be|gun|
+ F4"F" FF |"Bb" F3 F"F7" FE |"Bb" D4"Bb7" B2 |"Eb" B3 B BA | G4"Edim7" GG |"Bb/F" F4 F2 | %59
+w: _ oh the|won der of it|all the|won der of it|all just to|think tnat|
+"F7" F2- E2 C2 |"Bb" D2- F4- | F4"F" FF |"Bb" d3 d"F7" dc |"Bb" B4"Bb7" B2 |"Eb" B3 B BA | %65
+w: God _ loves|me _|_ O the|won der of it|all the|won der of it|
+ G4"Edim7" GG |"Bb/F" F4 F2 |"F7" A2- B2 c2 |"Bb" B6- | B4 FF |"Bb" F3 F F2 |"F7" F2 E2 C2 | %72
+w: all just to|think that|God _ loves|me|_ there's the|won der of|sun set at|
+"Bb" D2 F4- | F4"Bb7/D" B2 |"Eb" B4 B2 | B2- A2 G2 |"Bb" F6- | F4 FF |"F7" c3 c c2 | c2 B2 c2 | %80
+w: even ing|_ the|won der|of sunrise I|see|_ but the|won der of|won ders that|
+"D/F#" d4 d-c |"Gm" B4"Eb" GG |"Bb/F" F F3 F2 |"F7" F4 F2 |"Bb" F6- | F4 FF ||"Bb" F3 F"F7" FE | %87
+w: thrill my _|soul is the|won der that|God loves|me|_ o the|won der of it|
+"Bb" D4"Bb7" B2 |"Eb" B3 B BA | G4"Edim7" GG |"Bb/F" F4 F2 |"F7" F2- E2 C2 |"Bb" D2- F4- | %93
+w: all the|won der of it|all just to|think tnat|God _ loves|me _|
+ F4"F" FF |"Bb" d3 d"F7" dc |"Bb" B4"Bb7" B2 |"Eb" B3 B BA | G4"Edim7" GG |"Bb/F" F4 F2 | %99
+w: _ O the|won der of it|all the|won der of it|all just to|think that|
+"F7" A2- B2 c2 |"Bb" B6- | B6 | z6 | z6 |] %104
+w: God _ loves|me|_|||
+

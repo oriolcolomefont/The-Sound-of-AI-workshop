@@ -1,0 +1,26 @@
+X:1
+T:MAKE ME YOUR BABY
+C:Helen Miller
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z8 |"C" z2 C2 C2 C2 |"Dm7/G" DDDD G3 D |"Cmaj7" E8 |"F/G" (3:2:2F2 G z F"G7" E-D D2 | %5
+w: |I'm gon na|kiss you in a spec ial|way|MAKE ME YOUR BA _ BY|
+"C" z CCC C2 C2 |"Dm7/G" D2 D2 G2 D-E |"Cmaj7" E8 |"F/G" (3:2:2F2 G z F"G7" E-D D2 |:"C" z2 c2 c4 | %10
+w: I'll find a way to|please you ev' ry _|day|MAKE ME YOUR BA _ BY|MAKE ME|
+ (3:2:2c2 d z e d-c c2 |"Am" z2 c2 c4 | (3:2:2c2 d z e d2 c2 |"Em7" B2 GE- E4 | z4 BcBG | %15
+w: Make my your ba _ by|Kiss me|Kiss me and may be|you will see _|Par a dise is|
+"F" A A2 G F3 E |"F/G" D2 z D/D/ D>E- EF |"C6" A-G"C" G6 |"Dm7" z2 z G/G/ (3:2:2G2 A c2 | %19
+w: wait ing for you and|me if you'll make me _ your|ba _ by|If you make me your|
+"Em7" d-c c6 |"F/G" z2 z2"G" z2 z2 |"C" z z/ CC/C C2 CC |"Dm7/G" D4 G2 D-E |"Cmaj7" E6 z2 | %24
+w: ba _ by||You'll know a love no one|has known be _|fore|
+"F/G" (3:2:2F2 G z F"G7" E-D D2 |"C" z2 C2 C2 C2 |"Dm7/G" DDDD G2 D-E |"Cmaj7" E6 z2 | %28
+w: MAKE ME YOUR BA _ BY|A love that|we would share for ev er _|more|
+"F/G" (3:2:2F2 G z F"G7" E-D D2 :| %29
+w: When I'm your ba _ by|
+

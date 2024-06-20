@@ -1,0 +1,24 @@
+X:1
+T:Sukiyaki
+T:Sukiyaki
+T:Hachidai Nakamura & Rokusuke Ei
+C:Hachidai Nakamura & Rokosuke Ei
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z G"Am7" G3/2 e/ |"Bm" d/d/ B"C" G"Am7" E |"G6" G2"C" z e/e/ |"Bm7" z d"Am7" z"D9" B |: %4
+"G" z G G3/2 A/ |"Em" B G E"D7" D |"G" z G G3/2 A/ |"Em" B G E"D7" D |"G" z G G A |"Bm" B F B d | %10
+"Em" e2 e3/2 d/ |"D9" e/e/ d B A |"G6" z G G E |"Am7" A4 |"C6" A3/2 B/ A"Am6" F |"B7" B4 | %16
+"G6" G"Em" G2 e |"Bm" d B"Am7" G E |1"G6" G z"C" z e/e/ ||"Bm7" z d"Am7" z"D9" B :|2 %20
+"G" G D/D/ E/E/ D ||"G7" G2 z/ G/A/B/ |"C" c c c d/e/- | e2 z/ c e/ |"G6" d2 B G/B/- | %25
+"G7" B2 z/ G/A/B/ |"Cm" c c c d/_e/- | e2 d c |"G6" B2"A7" A G/A/- |"D7" A2 z/ D/ z | %30
+"G" G G3/2 A/ B |"Em" B G E"D7" D |"G" z G G3/2 A/ |"Em" B G E"D7" D |"G" z G G A |"Bm" B2 B d | %36
+"Em" e2 e3/2 d/ |"D9" e/e/ d B A |"G6" z G G E |"Am7" A4 |"C6" A3/2 B/ A"Am6" F |"B7" B4 | %42
+"G6" G"Em" G2 e |"Bm" d B"Am7" G E |"G6" G z"D9" e2 |"G" g3 z |] %46
+

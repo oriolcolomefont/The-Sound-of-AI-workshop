@@ -1,0 +1,34 @@
+X:1
+T:Polkadots & Moonbeams
+T:Polkadots & Moonbeams
+T:Jimmy Van Heusen &Johnny Burke
+C:Johnny Burke
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno"
+%%MIDI program 0
+V:1
+"Cmaj7" z G,A,B,"Am7" CDEG |"Dm7" E2 DC"G7" B,2 A,2 |"Cmaj7" z G,A,B,"Am7" CDEG | %3
+w: A coun- try dance was be- ing|held in a gar- den|I felt a bump and heard an|
+"Dm7" A2 GF"Bm7" E2"E7" D2 |"Am" CDCD"Am" C4 |"C/G" EEDC"Em7" B,2"D#m7" _B,2 | %6
+w: "Oh, beg your par- don,"|Sud- den- ly I saw|pol- ka- dots- and- moon- beams|
+"Dm7" A,FDC"G7" B,2 A2 |"Em7" G8 |"Cmaj7" z G,A,B,"Am7" CDEG |"Dm7" E2 DC"G7" B,2 A,2 | %10
+w: all a- round a pug- nosed|dream.|The mu- sic start- ed and was|I the per- plexed one.|
+"Cmaj7" z G,A,B,"Am7" CDEG |"Dm7" A2 GF"Bm7" E2"E7" D2 |"Am" CDCD"Am" C4 | %13
+w: I held my breath and said, "May|I have the next one?"|In my fright- ened arms|
+"C/G" EEDC"Em7" B,2"D#m7" _B,2 |"Dm7" A,FDC"G7" B,2 E2 |"C6" C6"F#m7b5" B,^C |"Emaj7" B,2 ^G4 B_B | %17
+w: pol- ka- dots and moon- beams|spark- led on a pug- nosed|dream. There were|quest- tions in the|
+"F#m7" A^G^FE"B7" ^D2 B,2 |"Emaj7" B,^CC^D"C#m7" (3D2 E2 ^G2 |"F#m7" B6 B,^C |"Emaj7" B,2 ^G4 B_B | %21
+w: eyes of oth- er danc- ers|as we float- ed o- ver the|floor; There were|ques- tions but my|
+"F#m7" A^GAE"B7" ^D2 B,2 |"E7" z E2 ^F"A7" E2 =F2 |"Dm7" G2 F2"G7" D2 z2 | %24
+w: heart knew all the an- swers,|And per- haps a|few things more.|
+"Cmaj7" z G,A,B,"Am7" CDEG |"Dm7" E2 DC"G7" B,2 A,2 |"Cmaj7" z G,A,B,"Am7" CDEG | %27
+w: Now in a cot- tage built of|li- lacs and laugh- ter,|I know the mean- ing of the|
+"Dm7" A2 GF"Bm7" E2"E7" D2 |"Am" CDCD"Am" C4 |"C/G" EEDC"Em7" B,2"D#m7" _B,2 | %30
+w: words "ev- er af- ter"|And I'll al- ways see|pol- ka- dots and moon- beams|
+"Dm7" A,FDC"G7" B,2 E2 |"Cmaj7" C4 z4 |] %32
+w: when I kiss the pug- nosed|dream.|
+

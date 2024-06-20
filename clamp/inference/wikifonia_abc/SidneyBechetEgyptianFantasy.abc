@@ -1,0 +1,19 @@
+X:1
+T:Egyptian Fantasy
+T:Egyptian Fantasy
+C:Sidney Bechet
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+ FA cF Ac ||"Fm" f3 c- c4 | z2 AB cBAB | c3 A c4 | z2 AB cABc |"C7" B3 G B4 | z2 GA BAGB | %7
+"Fm" A3 F A4 | z2 AB cABc |"Fm" f3 c- c4 | z2 AB cBAB | c3 A c4 | z2 AB cABc |"C7" B2"C+" d4 c2 | %14
+"C7" G2"C+" B4"C+" A2 |"Fm" F2"_(" GA GF=EG |"_)" F z"E7" z2"E7" e4 ||"Ab" c2"Db7" c2"Db7" =B2 B2 | %18
+"Ab" c2 z2 z4 |"Ab" F2"E" F2"E" =E2 E2 |"Ab" _E2"D7" z2"D7" z4 |"Eb7" z GBG F E2 A | %22
+"Db" =BcE"Eb7"=D"Eb7" _DEDB, |"Ab" C3 E A4- |"Bbm7" A2"Eb+" z2"Eb+" z2 =B2 | %25
+"Ab" c2"Db7" c2"Db7" =B2 B2 |"Ab" c2 z2 z4 |"Ab" F2"E" F2"E" =E2 E2 |"Ab" _E2"D7" z2"D7" z4 | %29
+"Eb7" EE z E- E4 |"Bbm7" z c3 AEDB, |"Ab""Abdim" E2"Abdim""Bbm7" A,6- |"Ab" A,2 FA cF Ac |] %33
+

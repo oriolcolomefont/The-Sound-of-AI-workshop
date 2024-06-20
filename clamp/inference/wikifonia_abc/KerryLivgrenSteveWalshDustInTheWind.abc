@@ -1,0 +1,24 @@
+X:1
+T:Dust In The Wind
+T:Dust in the Wind
+T:Kerry Livgren
+T:Rock
+C:Kerry Livgren, Steve Walsh
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"^N.C." B,2 |:"C" C4"G" D4 |"Am" E4 z4 |"G" GGGG"Dm7" GFED |"Am" DE E2 z4 |"C" C4"G" D4 | %6
+w: I|close my|eyes|on- ly for a mo- ment and the|mo- ments gone|All my|
+"Am" E4 z4 |"G" GGGG"Dm7" GFED |"Am" DE E2 z4 |"D" z4 [DCB,]4"G" |"Am" A,4 z4 |"D" DDDD"G" D2 CB, | %12
+w: dreams|pass be- fore my eyes a cu- ri-|os- i- ty|dust in the|wind|All they are is dust in the|
+"Am" A,4"G" z4 :|"D" DDDD"G" D2 CD |"Am" E6 E2 |"G" E2 D2 z4 |"F" F6 G2 | A8 ||"D" z2"G" C4 B,A, | %19
+w: wind|all we are is dust in the|wind *||Oh *||Dust in the|
+"Am" E4 z4 |"D" DDDD"G" D2 EF |"Am" E4 z4 |"D" z2 C4"G" B,A, |"Am" E4 z4 |"D" DDDD"G" D2 EG | %25
+w: wind|all we are is dust in the|wind|Dust in the|wind|Ev- ry- thing is dust in the|
+"Am" A8 |] %26
+w: wind.|
+

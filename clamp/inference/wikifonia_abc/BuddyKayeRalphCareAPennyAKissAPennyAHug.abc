@@ -1,0 +1,35 @@
+X:1
+T:A Penny A Kiss, A Penny A Hug
+T:A Penny A Kiss, A Penny A Hug
+T:Buddy Kaye & Ralph Care
+C:Buddy Kaye & Ralph Care
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z C ||"F" c>=Bc>d"C7/G" c>AF>G |"F/A" A>^GA>B A4 |"F" c>=Bc>d"Am" c>A"Dm"F>A | %4
+w: I'm|gon- na save a pen- ny ev- 'ry|time I hold you tight,|and we're gon- na watch the pen- nies|
+w: I'm|gon- na save a pen- ny ev- 'ry|time we take a walk,|and an- oth- er on a rain- y|
+w: I'm|gon- na save a pen- * ev- 'ry|time I think of you,|right from mor- ning till I say my|
+"Gm7""C7" G6 z G |"Gm" d>^cd>e"Gm" d>BG>A |"Gm7" B>AB>c"Gm6" B3 B |"C7/G" e>cd>B c>AB>G | %8
+w: grow. I'm|gon- na save a pen- ny ev- 'ry|time we kiss good- night and|dar- ling, when we're mar- ried we can|
+w: day I'm|gon- na save a pen- ny ev- ry|time we ba- by talk and|dar- ling when we're mar- ried We can|
+w: prayers I'm|gon- na save a pen- ny for the|dream- in' that we do and|dar- ling by the time we're mar- ried|
+"F" A>F"C7"G>E"F" F3 C ||"F" F>FFA-"C13" A3 C |"F" F>FFA-"C13" A3 C |"F" F>FF>F"Am" A>Ac>c | %12
+w: own a bun- ga- low. A|Pen- ny A Kiss, * A|Pen- ny A Hug, * we're|gon- na save our pen- nies in a|
+w: fur- nish right a- way. A|tab- le a chair, * A|lamp and a rug * *||
+w: we'll be mill- ion- aires. A|Pen- ny A Kiss, * A|Pen- ny A Hug * *||
+"Gm7" B2 GE-"C7" E3 C |"Gm7" G>GGB-"C7" B3 C |"Gm7" G>GGB-"C7" B4 |"Gm7" c3 d"C7" c>BA>G | %16
+w: big brown jug, * A|Pen- ny A Kiss, * A|Pen- ny A Hug, *|Oh, how rich we're gon- na|
+w: ||||
+w: ||||
+"F6" F6 z2 |] %17
+w: be.|
+w: |
+w: |
+

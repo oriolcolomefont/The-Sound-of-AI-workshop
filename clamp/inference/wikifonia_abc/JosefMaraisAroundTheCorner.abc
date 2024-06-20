@@ -1,0 +1,29 @@
+X:1
+T:Around The Corner
+T:A-round the Corner
+T:(Be-neath the berry tree)
+T:Josef Marais
+C:Josef Marais
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Bb" B/ B B/ B B- | B g f2 | B/ B B/ c B |"F7" A4 |"Bb" B/ B B/ B A |"Eb" G G/G/ G2 | %6
+w: A- round- the cor- ner|* Oo Oo|Be- neath the ber- ry|tree|a- long the foot- path|be- hind the bush|
+w: ||||||
+"F7" F/ F F/ G A |1"Bb" B2"C7" z"F" c ||2"Bb" B3 z ||[K:F]"F" F2"^Verses:" F3/2 F/ | %10
+w: look- ing for Hen- ry|Lee to|Lee|night all the|
+w: |* I've||told Hen- ry|
+ F C"Gm7" z/ F/"C7" G |"F" A2 A3/2 A/ | A2 z A |"C7" G2 G3/2 G/ | G B A G |"F" F2"Bb" D3/2 D/ | %16
+w: folks will cut the|corn (cut the|corn) To-|night I'll be|glad that I was|born (I was|
+w: Lee to go a|way (far a-|way) But|now I am|sad he didn- nt|stay (Did nt|
+"F" C2"F7" G A |"Bb" B D D D | D2 F G |"F" A C C C | C2"Gm7" F"C7" G |"F" A3/2 A/ A A | %22
+w: born) For my|Hen- ry Lee I'll|see he'll be|cut- ting corn with|me and we'll|meet be- neath the|
+w: stay) and to|mor- row night if|he comes a-|look- ing round for|me I'll be|sit- ting neath the|
+"C7" G B A G |"F" F4- |"Bb" F4 :| %25
+w: bit- ter ber- ry|tree||
+w: bit- ter ber- ry|tree.||
+

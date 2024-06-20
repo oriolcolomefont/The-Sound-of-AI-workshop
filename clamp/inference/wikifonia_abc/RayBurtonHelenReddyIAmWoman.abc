@@ -1,0 +1,36 @@
+X:1
+T:I Am Woman
+T:I Am Woman
+T:Ray Burton
+T:Helen Reddy
+C:Ray Burton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 EF |:"C/E" GGGA"F" GFEF |"Em7" GGGA"Am" cAcd |"F" edcA edcc |"G7sus4" A2"G7" G2 z2 EF | %5
+w: I am|wo- man hear me roar in num- bers|too big to ig- nore * and I|know too much to go back and pre-|tend * 'cause I've|
+w: (you can)|bend but nev- er break me 'cause it|on- ly serves to make me more de-|ter- mined to a- chieve my fi- nal|goal. * And I|
+w: (I am)|wo- man watch me grow * see me|stand- ing toe to toe * as I|spreqad my lov- in' arms a- cross the|land. * But I'm|
+"C/E" GGGA"F/E" GFEF |"Em" GGGA"F/A" cAcd |"D7/F#" edcc eccd |"G7/F" d4"F7" z2 dc || %9
+w: heard it all be- fore and I've been|down there on the floor, * No- one's|ev- er gon- na keep me down a-|gain. Oh *|
+w: come back ev- en strong- er not a|nov- ice a- ny long- er 'cause you've|deep- ened the con- vic- tion in my|soul. * *|
+w: still an em- bry- o * with a|long long way to go * * un-|til I make my broth- er un- der-|stand. * *|
+[K:Bb]"Bb" B2 BB B2 cd |"Eb/C" efcB"Bb" dc B2 |"Gm7" BBBB B2 B2 |"Eb" BAGG"Dm" F2 FG | %13
+w: yes I am wise but it's|wis- dom born of pain. * *|Yes, I've paid the price but|look how much I gained. If I|
+w: ||||
+w: ||||
+"Cm/Eb" B2 G2 G2"Eb" Bc |"Gm7" dB B4 FG |"Eb6" B4 z FFG |"Bb/D" BG G2 z2 FG |1 %17
+w: have to I can do|an- y- thing. I am|strong, I am in-|vin- ci- ble. I am|
+w: ||||
+w: ||||
+"Eb" d2 c4"C" E"G7"F :|2"Gm/D" f4 B2 FG || f4 B2 FG |"Bb/D" f4 B4 :| %21
+w: wo- man. You can|wo- man. I am|wo- man. I am|wo- man.|
+w: * * I am||||
+w: ||||
+

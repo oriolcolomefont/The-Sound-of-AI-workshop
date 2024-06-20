@@ -1,0 +1,20 @@
+X:1
+T:Bridal Chorus (from "Lohengrin")
+T:Bridal Chorus (from "Lohengrin")
+T:Here Comes The Bride
+T:Richard Wagner
+C:Richard Wagner
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+S"Bb" F2 B>B | B3 z |"F7" F2 c>A |"Bb" B3 z | F2 B>d |"Eb" e2"Bb" d>c |"C7" B2"F7" A>"C7"B | %7
+"F7" c3 z |"Bb" F2 B>B | B3 z |"F7" F2 c>A |"Bb" B3 z | F2 B>d | f2 d>B |"Cm" G2"F7" c>d |1 %15
+"Bb" B3 z ||2"Bb" B3 z!fine! ||"Cm" e2"G7" d"Cm"c | G2 G2 |"F7" A2"Bb" B>c |"F7" c3 z | %21
+"Cm" e2"G7" d"Cm"c | G2 G2 |"F7" A2"Bb" B>c |"^F7" c3 z!D.S.! |] %25
+

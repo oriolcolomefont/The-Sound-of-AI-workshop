@@ -1,0 +1,28 @@
+X:1
+T:IRISH BLOOD, ENGLISH HEART
+C:Whyte
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 A, B, |"A" C2 A, B, | C2 A, C |"F" G2 F2 | z2 A, B, |"Am" C2 A, B, | C2 A, B, |"F" G2 F2 | %8
+w: I rish|Blood En glish|Heart this I'm|made of|Ther is|no one on|earth I'm a|fraid of|
+ z2 z F |"Am" E3/2 E/ E z/ E/ |"F" G F C G/E/- |"Am" E z z z | z2 c c | c B A B |"F" c2 A2 | %15
+w: and|no reg ime can|buy or sell me now|_|I've been|dream ing of a|time when|
+ z2 A B | c2 A2 | c B A B |"Am" c2 A2 | z2 A B | c B A B/c/ | z B A/B/- B |"F" c2 A2 | z A A B | %24
+w: to be|En glish|is not to be|bane ful|to _|stand ing by the flag|not feel ing _|shame ful|rac ist or|
+ c2 A2 | z2 A, B, |"A" C2 A, B, | C2 A, C |"F" G2 F2 | z2 A, B, |"Am" C2 A, B, | C2 A, B, | %32
+w: part ial|I rish|Blood En glish|Heart this I'm|made of|Ther is|no one on|earth I'm a|
+"F" G2 F2 | z2 z F | E2 z F | E3 E | G F C G | E4 | z z z z | z2 c c | c B A B |"F" c2 A2 | %42
+w: fraid of|and|I will|die with|both my hands un|tied||I've been|dream ing of a|time when|
+ z2 z B | c A z B | c B/A/- A B |"Am" c A2 A | c A2 A | c B/A/- A B/>c/ | z B A/>B/- B | %49
+w: the|En glish are|sick to death _ of|La bour and|Tor ies and|spit up on _ the name|Ol i ver _|
+"F" c/d/ c A2 | z2 A B | c B c/B/ B | z E F E |"Am" E c3 | z A A c | d d- d3/2 c/ | %56
+w: Crom _ _ well|and de|nounce this Roy al line|that still sal|ute him|and will sal|ute him _ FOR|
+"E7" [Be]/[Be]/ z z2 |] %57
+w: EV ER|
+

@@ -1,0 +1,34 @@
+X:1
+T:The Green Door
+T:The Green Door
+T:Bob Davie
+T:Marvin Moore
+C:Bob Davie
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:A
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"A" E3 C- C2 z2 |"D" F2 F2 F>G F2 |"A" E3 C- C2 z2 | z8 |"D" F3 D- D2 z2 | F2 F2 F>G F2 | %6
+w: 1,3....Mid- night *|one more night with- out|sleep- in' *||Watch- in' *|'till the morn- ing comes|
+w: 2.....Knocked once *|tried to tell them I'd|been there *||Door slammed *|hos- pit al- i- ty's|
+"A" E3 C- C2 z2 | z8 |"E" G3 E- E2 z2 |"D" D2 D2"^Last time to coda" D>E D2 ||O"A" C3 A- A4- | %11
+w: creep- in' *||Green door *|what's that se- cret you're|keep- in' *|
+w: thin there *||Won- der *|just what's go- in' on|in there *|
+ A2 z2 z A2 F |"D" A2 A2 A>BAF | A2 AA- A>BAF |"A" A3 c- c2 z2 | z4 z A2 F |"D" A2 A2 A>BAF | %17
+w: * There's an|old pi- an- o and they|play it hot * be- hind the|Green Door *|Don't know|what they're do- in' but they|
+w: * Saw an|eye- ball peep- in' thro' a|smok- y cloud * be- hind the|Green Door *|When I|said "Joe sent me" some- one|
+ A2 AA- A>BAF |"A" A3 F E2 z2 | z4 z A2 A |"E" B2 BB- B>cBG |"D" A2 A2 A>BAF |1"A" A3 c- c2 z2 | %23
+w: laugh a lot * be- hind the|Green Door *|Wish they'd|let me in * so I could|find out what's be- hind the|Green Door *|
+w: laughed out loud * be- hind the|Green Door *|All I|want to do * is join the|hap- py crowd be- hind the||
+ z8 :|2"A" A3 c- c2 z2!D.S.! | z8!D.S.! ||O"A""^coda" C3 A- A4- | A2 z2 z4 |"E" G3 E- E4 | %29
+w: |Green Door *||keep in' *||Green Door *|
+w: ||||||
+"D" D2 D2 D>E D2 |"A" C3 A- A4 | z2 AA z4 |] %32
+w: what's that se- cret you're|keep- in' *|Green Door!|
+w: |||
+

@@ -1,0 +1,26 @@
+X:1
+T:The Seventh Dawn
+T:The Seventh Dawn
+C:Riz Ortolani
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 G F |:"Cmaj7" G2"Am7" G,2 |"Dm7" z A,"G11" C E |"Cmaj7" G2"Am7" G,2 |"Dm7" z A,"G11" C E | %5
+w: I'll re-|mem- ber|whien I feel|lone- ly,|the way you|
+"C" B3 A |"Ebdim" B3 A |"Dm7" G2 z F |"G7b9" E D ^C D |"Dm" A2 A,2 |"Em7" z B,"A7" ^C E | %11
+w: kissed me|in the|rain. And,|dar- ling, I'll re-|mem- ber|your gold- en|
+"Dm" A2 A,2 |"Em7" z B,"A7" ^C E |"Dm" A3 G |"G11" A3"G9#5" B |"Em7""Eb7" G4 |"Dm7" z2"G7" G F | %17
+w: laugh- ter,|when- ev- er|spring breaks|through a-|gain;|I'll be|
+"Cmaj7" G2"Am7" G,2 |"Dm7" z A,"G11" C E |"Cmaj7" G2"Am7" G,2 |"Dm7" z A,"G11" C E |"Gm7" G2 D2 | %22
+w: near you,|when nights are|mist- y,|or when the|dawn star|
+"C7" z E F G |"F""A7" A4- |"Dm" A2 B c |"F" d2 c2- |"F#dim" c B/c/ d/c/B/c/ |"C" d2 c2- | %28
+w: comes shin- ing|through;|_ And I'll|find you|_ I'll be just a dream be-|hind you,|
+"D7" c B/c/ d/c/B/c/ |"G11" A2- A/F/A/c/ |"G9" d3"G7b9" e |1"C""Am" c4 ||"Dm7" z2"G7" G F :|2 %33
+w: _ For my love will lead me|to _ the sev- enth|dawn and|you!|I'll re-|
+"C""F9" c4 ||"C6" c3 z |] %35
+w: you!|_|
+

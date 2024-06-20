@@ -1,0 +1,28 @@
+X:1
+T:Let's Get Lost
+T:Let's Get Lost
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2"Bb7" z B |"Eb" d/d/d/d/ d2 |"Adim7" d/_d/ c2 c |"Bb9" c/c/c/c/ c2 |"Gm7b5" c/=B/ _B2 B | %5
+w: The|part- y's rath- er dull,|is- n't it? We'd|love to steal a- way,|would- n't we? So|
+"Fm7" A/A/A/A/ A2 |"Abm" =B A2"Bb7" A |"Eb7" G/F/ E3- |"Fm7" E z z2 |:"Eb" d2 c e- |"Ebdim7" e4 | %11
+w: let's not ev- en ask|should we, or|should- n't we?|_|Lets get lost,|_|
+"Eb" (3d d d d c |"Gbdim7" e4 |"Gm7b5" B2 A c- |"C+7" c4 |"Gm7b5" (3B B B B A |"C+7" c4 | %17
+w: lost in each oth- er's|arms.|Let's get lost,|_|let them send out a-|larms.|
+"Fm7" z A c A |"Bb7" G F E D |"Eb" B4- |"Cm7" B2 z2 |"Gm7" z B d B |"C7" =A G A B |"F7" d2 d2 | %24
+w: And though they'll|think us rath- er|rude,|_|let's tell the|world we're in that|cra- zy|
+"Fm7""Bb7" c4 |"Eb" d2 c e- |"Ebdim7" e4 |"Eb" (3d d d d c |"Ebdim7" e4 |"Gm7b5" B2 A c- | %30
+w: mood.|Let's de- frost,|_|in a ro- man- tic|mist,|let's get crossed|
+"C+7" c4 |"Gm7b5" (3B B B B A |"C+7" c4 |"Fm7" z A c A |"Bb7" G F E D |"Ebmaj7" B2"Ab7" c2 | %36
+w: _|off ev- 'ry- bod- y's|list.|To cel- e-|brate this night we|found each|
+"G7" d2"Cm7" e2 |"F7" (e2 E) G- |"Fm7" G2"Bb7" G2 |"Eb" E4- |"Fm7" E z"Bb9" z2 :|"Eb""Ab" E4- | %42
+w: oth- er,|mm, _ let's|_ get|lost.|_|lost.|
+"Eb" E4 |] %43
+w: _|
+

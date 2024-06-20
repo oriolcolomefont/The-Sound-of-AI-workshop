@@ -1,0 +1,26 @@
+X:1
+T:You Must Have Been A Beautiful Baby
+T:You Must Have Been A Beautiful Baby
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2"G7" =B2 |:"C" c>=B"Dm7"c>B"Cdim" c>B"C"cA- |"C+" A"Cmaj7#5" A3-"C7" A3 ^F | %3
+w: You|must have been a beau- ti- ful ba-|* by, _ You|
+"F9" G>^FG>F"Cm7" G>cCG- |"F9" G4- G3 F |"Abmaj7" G>GG>F"Bb9" G G2 F |"Abmaj7" G>GG>F"Bb9" G G2 F | %7
+w: must have been a won- der- ful child,|_ _ When|you were on- ly start- in' to|go to kin- der- gar- ten, I|
+"Ebmaj7" F>EF>E (3FEc-"Cdim" c2 |"Fm7" B4-"Bb7" B2"G7" =B2 |"C" c>=B"Dm7"c>B"Cdim" c>B"C"cA- | %10
+w: bet you drove the lit- tle boys _|wild, _ And|when it came to win- ning blue rib-|
+"C+" A"Cmaj7#5" A3-"C7" A3 ^F |"F9" G>^FG>F"Cm7" G>cCG- |"F9""Cm7" G4-"F9" G2 E>F | %13
+w: * bons, _ You|must have shown the oth- er kids how,|_ _ I can|
+"Eb" G>G (3EFG-"^Eb#5" G2 E>F |"Cm" G>GE>F"^Eb#5" G3 F |"Eb" E>FG>B"Cm7" c e2 d- | %16
+w: see the judg- es eyes _ as they|hand- ed you the prize, I|bet you made the cut- est bow,|
+"F9" d4- d2"Cdim" c>d |"Eb" e>de>c"G7" d>^cd=c- |"C7" c3 A- A2 G2 |"F9" G c3"Abmaj7" G>EGE- |1 %20
+w: _ _ Oh, you|must have been a beau- ti- ful ba-|* by, _ 'Cause|ba- by look at you now|
+"Eb" E4- E2"G7" =B2 :|2"Eb" E4- E2 z2 |] %22
+w: _ _ You||
+

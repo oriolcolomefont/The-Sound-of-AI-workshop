@@ -1,0 +1,27 @@
+X:1
+T:Paris Loves Lovers
+T:Paris Loves Lovers
+T:Cole Porter
+T:arr: Jon Burr
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Eb" G G3 | z2"Ddim" D2 |"Eb" F E3 | z2"Ddim" D2 |"Eb" F E3 | z B, (3C E G |"^G¿7" B4- | %7
+w: Pa- ris|loves|lo- vers|for|lov- ers|it's heav- en a-|bove|
+"C7b9" B z z2 |"Fm" A A3 | z2"Edim" =E2 |"Fm" G F3 | z2 (3C F A |"Fm" c2 (3F A c | %13
+w: _|Pa- ris|tells|lov- ers|love is su-|preme wake up your|
+"F#dim" e2- e/c/ B |"Gm""C7" G4- |"Fm" G z"Bb7" C/C/ B, |"Eb" G G3 | z2"Ddim" D E |"Eb" F E3 | %19
+w: dream _ and make|love|_ On- ly in|Pa- ris|one dis-|co- vers|
+ z B, C E |"Bbm7" F2 G B |"Eb7" _d2 c3/2 _c/ |"Ab" c4- | c z z2 |"^A¿7" d d3 |"D7b9" z2 =A2 | %26
+w: the urge to|merge with the|splurge of the|spring|_|Pa- ris|loves|
+"Gm7" c B2 G |"C7b9b13" B A E F |"Fm7" G3 E |"Bb7" F3 D |"Eb""Gb7" E4- |"F7" E z"E7" z2 |] %32
+w: lov- ers for|lov- ers know that|love is|ev- 'ry|thing|_|
+

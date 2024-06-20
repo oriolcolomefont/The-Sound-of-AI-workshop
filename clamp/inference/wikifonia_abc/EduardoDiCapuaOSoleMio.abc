@@ -1,0 +1,29 @@
+X:1
+T:O Sole Mio
+T:O Sole Mio
+C:Eduardo Di Capua
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" z f fe | c4- | ce ed |"C7" B4- | Be ed | dc cB | A2 G2 |"F" F2 z2 || z c BA | G2 F2- | FG AF | %11
+w: ||||||||Che bel- la|co- sa|'na iur na- ta~e|
+w: ||||||||Be- hold the|sun- light|_ in all it's|
+"Gm" E2 D2- | DE FG |"C7" ED D2- | DE FG |"F" D2 C2- | Cc BA | G2 F2 | FG AF |"Gm" E2 D2- | %20
+w: so- le,|_ N'u- ria se-|re- na- dop-|* po 'na tem-|ped- sta!|_ Pe' ll'a- ria|fre- sca|pa- re giá- 'na|fe- sta|
+w: splen- dor,|_ For- got- ten|is the storm,|_ the clouds now|van- ish,|_ The fres- 'ning|breez- es|heav- y airs will|ban- ish|
+ DB"Bbm" AG |"F" cA GF |"C7" G3 A |"F" (3G/A/G/ F3- |: F!fermata!f !fermata!fe |"F" c2 c2- | %26
+w: _ Che bel- la|co- sa 'na iur-|na ta~e|so- * * le!|_ Ma n'a- tu|so- le|
+w: _ Be- hold the|bril- liant sun in|all it's|splen- * * dor!|_ A sun I|know of|
+ ce ed |"C7" B4- | Be ed | B2 B2- | BG AB |"F" c4- | c2 z c |"Bbm" _d4- | dB f_d |"F" c2 c2- | %36
+w: _ cchiú bel- lo,~ohi-|ne',|_ 'o so- le|mi- o|_ sta 'nfron te~a|te!|_ 'O|so-|* le'o so- le|me- o|
+w: _ that's bright- er|still.|_ This sun my|dear one|_ is naught but|thee,|_ The|face|_ so fair to|see, That|
+ cA GF |"C7" c4- | cA !fermata!GF |"F" F4- | F!fermata!f !fermata!fe :|"F" F4- | F z z2 |] %43
+w: _ sta 'nfro te~'a|te,|_ sta 'nfron te'a|te!|* Ma m'a tu|te!|_|
+w: _ shall now my|sun|_ for- ev- er|be!|_ A sun I|||
+

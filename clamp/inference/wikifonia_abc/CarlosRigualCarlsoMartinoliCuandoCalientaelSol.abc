@@ -1,0 +1,23 @@
+X:1
+T:Cuando Calienta el Sol
+T:Cuando Calienta el Sol
+T:Carlos Rigual & Carlos Martinloli
+C:Carlos Rigual
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 12
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" (3ccc (3ccc-"Am" c2 (3ABc |"Em" (3BB-B- B6 |"F6" (3AAA (3AAA"G7" A2 (3FGA |"C" G4"A7" A4 | %4
+w: Cuan- do ca- lien- ta~el sol * a- qui~en la|pla- ya; * *|sien- to tu cuer- po vi- brar, cer- ca de|mi *|
+"Dm" F z"Dm7" (3EFE"G7" D2- (3DEF |"C" (3:2:2.G G2- (3GEG"C""C" (3:2:2.A A2-"Am" (3AEA | %6
+w: Es tu palp- i- tar * es tu|ca- ra * es tu pe- lo * son tus|
+"Em""C""C" (3:2:2.B B2- (3BGB"F""C""C" (3:2:2.c c2- (3cGc |"G""G7" d4"Em7""C" (3BBc"G7""C" (3dcB |1 %8
+w: be- sos * me~es- tre- mez- co- * o- o-|o. * * * * * *|
+"Cm""Am" c8- ||"Dm7""G7" c8 :|2"Cm""Am" c8- ||"Dm7" c8 | %12
+w: ||||
+

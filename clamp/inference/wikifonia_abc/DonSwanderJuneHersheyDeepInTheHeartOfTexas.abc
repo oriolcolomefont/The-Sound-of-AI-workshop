@@ -1,0 +1,26 @@
+X:1
+T:Deep In The Heart Of Texas
+T:Deep in the heart of Texas
+T:Don Swander
+T:June Hershey
+C:Don Swander
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z d d d | d z z2 | z d d d | d z z D |:"G" G2 G2 | B2 z D | G2 G2 | B"^clap" e e e | e d d d | %9
+w: |||* The|stars at|night are|big and|bright * * *|* deep in the|
+w: ||||coy- otes|wail a-|long the|trail * * *||
+ d2 z e |"D7" B A3- | A3 D | F2 F2 | A2 z D | F2 F2 | A e e e | e d d d | d3 e |"G" B G3- | G3 D | %20
+w: heart of|Tex- as|* the|prair- ie|sky is|wide and|high * * *|* deep in the|heart of|Tex- as|* the|
+w: ||* the|rab- bits|rush a-|round the|brush * * *||||* the|
+ G2 G2 | B2 z D | G2 G2 | B e e e | e d d d | d3 e |"D7" B A3- | A3 D | F2 F2 | A2 z D | F2 F2 | %31
+w: sage in|bloom is|like per-|fume * * *|* deep in the|heart of|Tex- as|* re-|minds me|of the|one I|
+w: cow- boys|cry "Ki-|yip- pee-|yi" * * *||||* the|dog- gies|bawl and|bawl and|
+ A e e e | e d d d | d3 e |1"G" B G3- | G3 D :|2"G" B G3- | G3 z |] %38
+w: love * * *|* deep in the|heart of|Tex- as|* the|Tex- as-||
+w: ~~bawl * * *|||||||
+

@@ -1,0 +1,41 @@
+X:1
+T:You Send Me
+T:You Send Me
+T:Sam Cooke
+T:©
+C:Sam Cooke
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ EG |:"C" A3- G/-A/"Am7" G4 |"Fmaj7" E D3-"G7" D2 EG |"C" A3- G/-A/"Am7" G4 | %4
+w: Dar- ling|you.... _ _ _|send me _ I know|you.... _ _ _|
+w: |You.... _ _ _|thrill me _ I know|you.... _ _ _|
+"Fmaj7" E D3-"G7" D2 EG |"C" A3- G/-A/-"Am7" G4 |"Fmaj7" E D3-"G7" D2 (3DCB, |1 %7
+w: send me _ Dar- ling|you.... _ _ _|send me _ hon- est you|
+w: thrill me _ Dar- ling,|you.... _ _ _|thrill me _ hon- est you|
+"C" C2 (3CDE"Am7" C2 (3CDE |"Dm7" D2 cB"G7" (3A-c-B- A-G :|2"C" C4"F" z4 ||"C" z4 z2 C2 | %11
+w: do, hon- est you do, hon- est you|do, whoa 'n' oh.... _ _ _ _|do.|At|
+w: _ _ _ _ _ _ _ _||||
+"F" DD (3DEC"Fm" D3 C/D/ |"C" E C3-"Am7" C3 C |"F" D3 D"G7" DD (3A-G-A |"C" E8 | %15
+w: first I thought it was in- fat- u-|a- tion, _ but|ooh, it's las- ted so.... _ _|long.|
+w: ||||
+"F" z2 DD"Fm" (3D2 C2 D2 |"C" E C3"A7" z2 z A, |"D7" E/D/ C3 (3C2 D2 E2 | %18
+w: Now I find- my- self|wan- ting to|mar- ry you and take you|
+w: |||
+"Dm7" D2 cB"G7" (3A-c-B- A-G |"C" (3A2 G2 A2"Am7" G4 |"Fmaj7" E D3- D"G7"c (3BAG | %21
+w: home, whoa 'n' oh.... _ _ _ _|You, you, you, you|send me _ I know, I know|
+w: |||
+"C" A3-"Am7" G/-A/- G4 |"Fmaj7" E D3"G7" (3A-c-B- A-G |"C" (3A2 G2 A2"Am7" (3G2 A2 G2 | %24
+w: you.... _ _ _|send me, oh...... _ _ _ _|You, you, you, you, you, you|
+w: |||
+"Fmaj7" E D3-"G7" D2 (3DCB, |"C""Fmaj7" C8- |"C6" C2 z2 z4 |] %27
+w: send me _ hon- est you|do.|_|
+w: |||
+

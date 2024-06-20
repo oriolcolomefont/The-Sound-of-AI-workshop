@@ -1,0 +1,30 @@
+X:1
+T:Believe in Me
+T:Believe in Me
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/4
+Q:1/4=100
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 48
+%%MIDI control 7 127
+%%MIDI control 10 64
+V:1
+"Em" d"A+" c B"D" F- | F2 z"Adim" F |"Em" G/F/ G"A7" A2 |"Em" E3 z |"Adim" ^D"Em" E F"A" G- | %5
+w: Be lieve in me|_ and|I can move moun|tains|Be lieve in me|
+ G2 z E/F/ |"Em" G d2"A+7" c |"D" F3 z |"Em" d"A+" c B"D" F- | F2 z"Adim" F |"Em" G/F/ G"A7" A2 | %11
+w: _ and I'll|bring you the|stars|Be lieve in me|_ And|I'll be here wait|
+"Em" E2 z"Adim" ^D |"Em" E F"A" G2- | G z"Em" d"A" c/d/ | e"D" d3 |: z D G A | %16
+w: ing Be|lieve in me|_ Where ev er|you are|Be lieve in|
+"G" B G/A/ B/G/A/"Bm"B/- | B/ d2 z/ B |"F#m" A F/G/ A/F/ G |"B7" A2 z B |"Em" G E/F/"A7" G/E/ F | %21
+w: me and I'll bring you the sun|_ shine Be|lieve and I'll al ways be|true Be|lieve and I'll bring you the|
+"Em" G"A7" c2 z/ z/ |"E" F F/E/ D F |"A" E3 z |"Em" d"A+" c B"D" F- | F2 z"Adim" F | %26
+w: moon beams|That's all I ask of|you|Be lieve in me|_ I'll|
+"Em" G/F/ G"A7" A2 |"Em" E2 z"Adim" ^D |"Em" E F"A" G2- | G z"Em" d"A" c/d/ | e"D" d3 :| %31
+w: love you for ev|er Be|lieve in me|_ Where ev er|you are|
+

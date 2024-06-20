@@ -1,0 +1,23 @@
+X:1
+T:A Night In Tunisia
+T:Who Wants to Spend
+T:Diz
+T:A Night in Tunisia?
+T:bass:
+C:Dizzy Gillespie
+Z:All Rights Reserved
+L:1/8
+Q:1/4=180
+M:4/4
+K:F
+V:1 bass nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ _E,B,_D_E- E D2 B, | D,F,A,=B,- B, A,2 F, |[I:repeat 2 1] _E,B,_D_E- E D2 B, | %3
+ D,F,A,=B,- B, A,2 F, |[K:treble]"^Melody" A, |: (3B,_DF c4 BF | ^G A3- A3 A, | (3B,_DF c4 BF | %8
+ A4 z2 z A, | (3B,_DF c4 BF | ^G A3- A4 | ABAG _E2 ^CD- |1 D4 z2 z A, :|2 D6 A2 || c4 A3 G | %15
+ ^F2 _ed- d2 cA | B G2 ^F- FGAG- | G4 z4 | B4 G3 F | E2 _dc- c2 B^G | A3 F G2 FE- | E4 z2 z A, :| %22
+ D3 A z A2 A- | A2 GE A2 GE | AGEA z2 z A- | A2 F_D A2 F_D | AF_DA z2 z A- | A2 FD A2 FD | %28
+ AFDA z2 z A- | A2 F_D A2 F_D | AF_DA z2 z A- | A2 ^FD A2 FD | AFDA z2 z A- | A2 _F_D A2 F_D | %34
+ A_F_DA z2 Ac |"Fmaj7" f2 f2 f2 f2 | f2 f2 f2 f2 |"Em7b5" e2 e2 e2 e2 |"A7b9" A2 A2 A2 A2 |] %39
+

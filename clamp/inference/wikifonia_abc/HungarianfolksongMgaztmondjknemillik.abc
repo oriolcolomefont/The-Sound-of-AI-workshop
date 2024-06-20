@@ -1,0 +1,14 @@
+X:1
+T:Még azt mondják, nem illik
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ AB cB | cB A2 | AB cB | A2 A z :: AG FE | FE D2 |1 DE FG | A2 A z :|2 DE FE | D2 D z |] %10
+w: Még azt mond- ják,|nem il- lik|a tánc a ma-|gyar- nak,|De sar- kan- tyús|csiz- má- nak,|kó- csag- tol- las|fő- nek,-|||
+w: Nem, ha né- ki|ci- pel- lőt,|bő nad- rá- got|varr- nak,|Il- lik gyön- gyös|pár- tá- nak,|||ma- gyar fő- kö-|tő- nek.-|
+

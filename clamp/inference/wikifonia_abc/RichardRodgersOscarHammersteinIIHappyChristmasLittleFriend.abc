@@ -1,0 +1,24 @@
+X:1
+T:Happy Christmas, Little Friend
+T:Happy Christmas, Little Friend
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Am7" A4 D2 |"D7" E4 D2 |"G6" G4 D2 |"Em7" E4 DE |"Am7" A4 D2 |"D7" E2 D2- DE |"G6" G6- | G4 DE | %8
+w: Hap- py|Christ- mas|lit- tle|friend, may your|heart be|laugh- ing _ all|day.|_ May your|
+"Am7" A4 DE |"D7" A4 DE |"G6" d4 G2- |"Em7" G4 DE |"Am7" A4 DE |"D7" A4 DE |"G6" G6- | G2 z2 Bc |] %16
+w: joy be a|dream you'll re-|mem- ber,|_ as the|years roll a-|long on their|way.|_ As the|
+"Am7" A4 Bc |"D7" A4 FD |"Gmaj7" B6- |"Em7" B4 Bc |"Am7" A2 B2 c2 |"D7" A2 F2- FD |"Bm7b5" d6- | %23
+w: years roll a-|long on their|way,|_ you'll be|show- ing your|own kid _ a|tree.|
+"E7" d6 |"Am7" A4 D2 |"D7" E4 D2 |"G6" G4 D2 |"Em7" E4 (DE) |"Am7" A4 DE |"D7" A4 DE |"G7" B6- | %31
+w: _|Then at|last, my|friend, you'll|know how _|hap- py a|Christ- mas can|be,|
+ B4 G2 |"Am7/C" A6 |"Cmaj7/B" B4 c2 |"Am7" d6 |"D7b9" A4 B2 |1"G6" G6- ||"Em7" G6 |"Am7" z6 | %39
+w: _ how|hap-|py a|Christ-|mas can|be.|_||
+"D7" z6 :|2"G6" G6- ||"C9" G6- |"G6" G6 |] %43
+w: |be.|||
+

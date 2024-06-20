@@ -1,0 +1,28 @@
+X:1
+T:I Thought About You
+T:I Thought About You
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|: z"Fmaj7" FAc e_edA- |"A7" A4"D7" B2 A2 |"G7" AFFF- F4- | F4 z4 |"Gm7" z DFA"C7" c=B_BA- | %5
+w: I took a trip on a train|* and I|thought a- bout you, *||I passed a shad- ow- y lane|
+"Edim7" A4"A7" G2 A2 |"Dm7" G_GFF-"G7" F4- |"Cm7""F7" F4 z4 |"Bbmaj7" dcdc- c2 B2 | %9
+w: * and I|thought a- bout you. *||Two or three cars * parked|
+"Bbm7" _dcdc-"Eb7" c3 B |"Fmaj7" A2 c2 c4- | c8 |"Bdim7" efec-"E7" c2 =B2 | %13
+w: un- der the stars, * a|wind- ing stream.||Moon shin- ing down * on|
+"Bdim7" efec-"E7" c2 =B2 |"Am7" A2 cc-"D7" c4 |"Gm7" G2 AA-"C7" A4 |"Fmaj7" z FAc e_edA- | %17
+w: some lit- tle town, * and|with each beam, *|same old dream. *|At ev- 'ry stop that we made,|
+"A7" A4"D7" B2 A2 |"G7" AFFF F4- | F4 z4 |"Gm7" z DFA"C7" c=B_BA- |"Edim7" A4"A7" G2 A2 | %22
+w: * oh, I|thought a- bout you, *||but when I pulleed down the shades,|* then I|
+"Dm7" G_GFF-"G7" F4- |"Cm7" F4"F7" z2 z E |"Bbmaj7" dcdc- c2 B2 |"Bbm7" _dcdc-"Eb7" c3 B | %26
+w: real- ly felt blue. *|* I|peeked thru' the crack * and|looked at the track, * the|
+"Fmaj7" Acdf- f2 g2 |"Bdim7" e6"E7" d2 |"Am7" cccc-"D7" c4 |"Gm7" z2 F2"C7" AAAF- |"Fmaj7" F8- |1 %31
+w: one go- ing back * to|you, and|what did I do? *|I thought a- bout you!||
+"Gm7" F4"C7" z4 :|2"Fmaj7" F8- || F4 z4 |] %34
+w: |||
+

@@ -1,0 +1,29 @@
+X:1
+T:Amapola
+T:Amapola    (Pretty little poppy)
+T:Joseph M 
+T:Albert
+C:Joseph M Lacalle 1924
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ E2 G2 |"C" c2 d2- | d/ z/ c/c/ B/c/ d | B2 c2- | c/ z/ B B/A/B/c/ | B2 A2 | c3 B |"G7" B G F2- | %8
+w: A- ma-|po- la|* my pret- ty lit- tle|pop- py,|* You're like that love- ly|flow'r so|sweet and|heav- en- *|
+w: A- ma-|po- la|* lin- di si ma Ama|po- la|* Se- ra siem- pre mi|al- ma|tu- ya|so- la *|
+ F z F G | B2 c2- | c z/ B/ B/A/B/c/ | A2 B2- | B/ A A/ G/A/ B | A2 G2 | B3 A |"C" G/F/ E3- | %16
+w: * Since I|found you,|* My heart is wrapped a-|round you|* And lov- ing you, it|seems to|beat a|rhap- so- dy|
+w: * Yo te|quie- ro|* a- ma- da ni- na|mi- a|* I- gual quea- ma la|flor la|luz del|di- a *|
+ E z E G | c2 d2- | d c c/B/c/d/ | B2 c2- | c B B/A/B/c/ |"A7" B2 A2 |"Em" d3"A7" e |"Dm" f4- | %24
+w: * A- ma-|po- la|* the pret- ty lit- tle|pop- py|* must cop- y its en-|dear- ing|charm from|you|
+w: * A- ma-|po- la|* lin- di- si- A- ma|po- la|* No se- a tan in-|gra- tay|a- ma-|me|
+ f z f e | A2 d2- |"Fm" d z e d |"C" G2 c2- |"D7" c z d c |"G7" c B ^A B | d2 z e |"C" e/d/ c3- | %32
+w: * A- ma-|po- la|* A- ma-|po- la|* How I|long to hear you|say I|lo- ve you",|
+w: * A- ma-|po- la|* A- ma-|po- la|* Co- mo|pue- des tu vi-|vir tan|so- * la.-|
+ c z z2 |] %33
+w: |
+w: |
+

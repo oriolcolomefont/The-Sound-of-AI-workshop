@@ -1,0 +1,23 @@
+X:1
+T:I Saw Mommy Kissing Santa Claus
+T:Im saw Mommy kissing Santa Claus
+T:Tommie Connor
+C:Tommie Connor
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" C3 D | E G"Am" A c |"Em" B3 G |"Am" E3 z |"C" A G E C | A G E C |"G7" B,4- | B,2 z F | %8
+w: I saw|Mom- my kiss- ing|San- ta|Claus|un- der- neath the|is- tle- toe last|night|* She|
+ E D D ^C | D3 A/B/ |"C" A G ^F A | G2 z E |"D7" D E ^F G | A ^G A ^A |"G7" B A F E | D2 z G | %16
+w: did- nt see me|creep down the|stairs to have a|peep she|thought that I was|tucked up in my|bed- room fas a-|sleep then|
+"C" C3 D | E G"Am" A c |"Em" B3 G |"Am" E3 z |"C" A G E3/2 C/ |"C7" A G E C |"F" A4- | A2 ^G A/B/ | %24
+w: I saw|Mom- my tick- le|San- ta|Claus|un- der- neath his|beard so snow- y|white|* Oh, what a|
+ c c c d |"B7" B3 ^F |"C" A/A/ G"A7" F E |"Dm" D2"G7" E F |"C" G A"F" c A |"Fm" c2"G7" d2 | %30
+w: laugh it would have|been if|Dad- dy had on- ly|seen Mom- my|kiss- ing San- ta|Claus last|
+"C" c4- | c4 |] %32
+w: night.||
+

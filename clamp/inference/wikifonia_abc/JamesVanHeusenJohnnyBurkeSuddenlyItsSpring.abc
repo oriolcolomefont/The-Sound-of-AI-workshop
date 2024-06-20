@@ -1,0 +1,26 @@
+X:1
+T:Suddenly It's Spring
+T:Sudenly It's Sping
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Cm7" C D E F |"Adim7" ^F d2"D7" A |"Gm7" c2 B2 |"C7" C A2 G |"Cm7" E G B3/2 G/ |"F7" E G c A | %6
+w: Why is my heart|danc- ing? Im-|ag- ine|danc- ing! You|look at me and|sud- den- ly it's|
+"Bbmaj7" F4- |"Ddim7" F2"G7" z2 |"Cm7" C D E F |"Adim7" ^F d2"D7" A |"Gm7" c2 B2 | %11
+w: spring.||Why do I keep|sigh- ing? Not|sad, just|
+"C7" C"C#dim7" A2 G |"Dmaj7" ^F A =B3/2 A/ |"Em7" G =B"A7" ^c A |"Dmaj7" d4- | d2 z2 | %16
+w: sigh- ing. I'm|young and free and|sud- den- ly it's|spring.||
+"Fm7" c2"Bb7" F3/2 c/ |"Ebmaj7" _c"C7" B3 |"Fm7" A"Bb7" _A3 |"Ebmaj7" _A G3 |"Dm7" G2"G7" D3/2 G/ | %21
+w: High on a|hill- top|love is|call- ing,|some- one should|
+"Cm7" F E3 |"Ddim7" =E F3 |"G7" E D3 |"Cm7" C D E F |"Adim7" ^F d2"D7" A |"Gm7" c2 B2 | %27
+w: wish me|hap- py|fall- ing.|No more be- ing|lone- ly, can|I be|
+"C7" C A2 G |"Cm7" E G B3/2 G/ |"F7" E G c G |1"Bbmaj7" B4- ||"Ddim7" B2"G7" z2 :|2"Bbmaj7" B4- || %33
+w: lone- ly? You|look at me and|sud- den- ly ti's|spring.||spring.|
+ B2 z2 |] %34
+w: |
+

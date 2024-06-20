@@ -1,0 +1,17 @@
+X:1
+T:Moose the mooche
+C:Charlie Parker
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+V:1
+"Bb6" F2zf- fd e2 |"Cm7"zB (3GEC"F7" BG^cd |"Bb6" F2zd- dB c2 |"Cm7"zF FF"F7" c F2G | %4
+"Fm" _AAG_G"Bb7" F2zc |"Eb"zBzG ^cdcd |"Bb6" F2zB dedA- |"Cm7" AB (3GFD"F7" FD_AF || %8
+"Bb6"z2zf- fd e2 |"Cm7"zB (3GEC"F7" BGEC |"Bb6" F2zd- dB c2 |"Cm7"zC EG"F7" cBd_A- | %12
+"Bb7" _A2 EC B,GzD |"Eb" FD (3B,/C/B,/ G,"Ab7" _G, _D2B, |"Bb6" C2zEzG F2 |zAzc BDE=E || %16
+"Am7"z2zAzGz^F |"D7" =EC^CD- D2zE |"Dm7" AFGA =ed=BA |"G7"z2zGzAzG |"Gm7" B2zD AG =E2 | %21
+"C7" DCDA- A2>G2 |"Cm7" F2zD ED^CD |"F7" E2z_Az_Gz=E ||"Bb6" F2zf- fd e2 |"Cm7"zB (3GEC"F7" BG^cd | %26
+"Bb6" F2zd- dB c2 |"Cm7"zF FF"F7" c F2G |"Bb6" _AAG_G F2zc |"Eb7"zBzG ^cdcd | %30
+"Bb6" F2z_d- (3d/e/d/ B c2 |"Cm7"zB- (3B/c/B/ G"F7" B2 z2 |] %32
+

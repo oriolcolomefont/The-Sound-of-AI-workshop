@@ -1,0 +1,29 @@
+X:1
+T:Can't Stop The Music
+T:Can't Stop The Music
+T:Jacques Morali
+C:Jacques Morali
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cm7" ccdd e2 Gc- | ccdd e2 ef |"Fm" ffee ddcf | ffee dc z2 |"Bb" BBcc d3 B | BBcc d2 z B | %6
+w: Ev- ry- one you meet, The chil-|* dren in the street, Are sway-|* ing to the rhyth- m, There's some-|* thing mov- ing in them.|There's no place to hide, So|* why ev- en try, Can't|
+"Ab" eeee- edc=B- |"G" B=Bcc d2 z2 |"Cm7" ccdd e2 z c- | ccdd e2 z c |"Fm" ffee dccf- | %11
+w: you hear it com- * ing your way,|* It's here to stay.|Mus- ic in our walk, Mu-|* sic when we talk, It's|real- ly some- thing mag- ic, To lose|
+ ffee dc z2 |"Bb" BBcc d3 B- | BBcc d2 z2 |"Ab" eeee e>d-dc |"G" g6 z2 || %16
+w: * it would be trag- ic|Fil- ling up the air, Mov-|* ing through the ground,|Mus- ic makes the world go * a-|round|
+[K:C]"C" a2 g2"Dm" f2"C" e"Dm"f- | f"Am"e z2 z2 c"F"d- | dd c2 B2 Ad- | dc z2 z2 AA | %20
+w: You can't stop the mu-|* sic, No- bod-|y * can stop the mu-|* sic Take the|
+"Dm7" AGGG- G2 cc | c2 B"G7"B- B2 ee |"Dm7" e2 dd- d2 ^cd |"G7sus4" a2 g2 d2 a2 | %24
+w: cold from the snow, * Tell the|trees "Don't grow" * Tell the|wind "Don't blow" * Cause it's|ea- si- er, No|
+"C" a2 g2"Dm" f2"C" e"Dm"f- | f"Am"e z2 z2 g"Em"g- | gg g2"E7" ^g2 g"Am"b- | b a3 z2 ag | %28
+w: you can't stop the mu-|* sic, No- bod-|* y can stop the mu-|* sic. Take the|
+"Dm" a2 gd- d/c/ z cc |"C" a2 g a3 gg |"Dm7" a2 g2 e2 dc |"C" dc- c6- | c8 |] %33
+w: spark from love * * Make the|rain fall up, 'Cause that's|ea- si- er to *|do.- * *||
+

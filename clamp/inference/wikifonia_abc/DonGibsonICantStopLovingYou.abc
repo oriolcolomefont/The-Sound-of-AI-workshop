@@ -1,0 +1,31 @@
+X:1
+T:I Can't Stop Loving You
+T:I Can't Stop Loving You
+T:Don Gibson
+C:Don Gibson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G2 (ED) C2 |:"C" E8- |"C7" E2 c2 c2 G2 |"F" A8- |"F7" A2 z2 c2 cA |"C" (3(cA)G- G6- | %6
+w: Those hap- * py|hours|* that we once|knew,|* Though long a-|go, * * *|
+w: ||||||
+ G2 E2 A G2 E |"D7" D8- |"G7" D2 G2 (ED) C2 |"C" E8- |"C7" E2 cd c2 FA- |"F" A8- | %12
+w: * they still make me|blue.|* They say * that|time|* heals a bro- ken heart.||
+w: ||||||
+"F7" A2 z c (3c2 d2 c2 |"C" (3(ed)c- cA G4- | G2 G2"G7" G B2 d |"C" c8- |"F" c2"C" e2 e2 d2 | %17
+w: * But time has stood|still _ _ _ _ _|_ since we've been a-|part.|_ I cant stop|
+w: ||||* I cant stop|
+"F" c3 A A4- | A2 z F FGAG- |"C" G8- | G2 z C E2 A2 |"G7" G3 F D4- | D2 DE C2 DE- |"C" E8- | %24
+w: lov- ing you,|* I've made up my mind||* to live in|mem- o- ries|* of the lone- some kind.||
+w: lov- ing you,|* There's no use to try||* pre- tend there's|some- one new|* I can't live a lie.||
+ E z e2 e2 d2 |"F" c3 A A4- | A2 z F FGAG- |"C" G8- | G2 z C E2 A2 |"G7" G2- GF D3 E | %30
+w: * I cant stop|want- ing you,|* It's use- less to say;||* So I'll just|live * my life in|
+w: * I cant stop|want- ing you|* The way that I do||* There's on- ly|one love for me, and|
+ F2 F2 E2 DC- |1"C" C8- ||"C" C2 G4 EC :|2 C8- ||"C" C6 z2 |] %35
+w: dreams of yes- ter- day.||* Those hap- py|||
+w: that one love is you.|||||
+

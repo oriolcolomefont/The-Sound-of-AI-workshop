@@ -1,0 +1,51 @@
+X:1
+T:The Statue of Liberty
+T:The Statue of Liberty
+T:Neil Enlow, 1974 Arrangement:  Larry Johnson, 2012
+C:Neil Enlow 1974
+Z:All Rights Reserved
+L:1/4
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+"^With Majesty & Power" z4 | z4 | z2"B/F#" z"F#dim7" z |"C/G" z2"G/F" z"C/E" z | %4
+w: ||||
+"Dm7" z2"G7" z"G9sus4" z |"Csus4" z4 |"C" z2 z G, | E2- E G |"G/B" G D3 |"Am" z2 C3/2 D/ | %10
+w: ||In|New _ York|har bor|stands a|
+"C/G" E C2 z |"F" A,2"C/E" C2 |"Dm" F E D C |"Gsus4" G4- |"G" G2 z G |"C" G3 c |"G/B" d/-c/ B3 | %17
+w: la dy|with a|torch raise to the|sky|_ and|all who|see _ her|
+"F/A" c3 F |"Fm/Ab" G F2- F |"C/G" E2"Em" G2 |"Dm7" F"C/D" E"G7" D3/2 C/ |"Csus4" C4- | %22
+w: know she|stands for _|lib er|ty for you and|me|
+"C" C z c"C/E" c |"F" c2 A"Em7" B |"Dm7" c2"G" B3/2 A/ |"F/C" A3/2 G/"C" G2- | G z c"C/B" c | %27
+w: _ I'm so|proud to be|called an Am|er i can|_ to be|
+"Am" c2 A B |"D7" c2"Bm/D" d"D9" e |"G9sus4" d4- |"G7" d z"F/A" c"G/B" d |"C" e2"C/G" e3/2 d/ | %32
+w: named with the|brave and the|free|_ I will|hon or the|
+"C7sus4" c3/2- c/"C9" d3/2 c/ |"F" c3/2 A/ A-"Am7/E" A- |"Dm7" A z"B/F#" B"F#dim7" c | %35
+w: flag _ and our|trust in God _|_ and the|
+"C/G" G2"G/F" B"C/E" c |"Dm7" d2-"G7" d"G9sus4" c |"Csus4" c4- |"C" c2 z G, | E2- E G |"G/B" G D3 | %41
+w: Sta tue of|Lib _ er|ty|_ on|lone ly Gol|goth a|
+"Am" z2 C3/2 D/ |"C/G" E C2 z |"F" A,2"C/E" C2 |"Dm" F E D C |"Gsus4" G4- |"G" G2 z G |"C" G3 c | %48
+w: stood a|cross _|with my|Lord raised to the|sky|_ and|all who|
+"G/B" d/-c/ B3 |"F/A" c3 F |"Fm/Ab" G F2- F |"C/G" E2"Em" G2 |"Dm7" F"C/D" E"G7" D3/2 C/ | %53
+w: kneel _ there|live for|ev er _|all the|saints can tes ti|
+"Csus4" C4- |"C" C z c"C/E" c |"F" c2 A"Em7" B |"Dm7" c2"G" B3/2 A/ |"F/C" A3/2 G/"C" G2- | %58
+w: fy|_ I'm so|glad to be|called _ a|Christ _ ian|
+ G z c"C/B" c |"Am" c2 A B |"D7" c2"Bm/D" d"D9" e |"G9sus4" d4- |"G7" d z"F/A" c"G/B" d | %63
+w: _ to be|named with the|ran somed and|whole|_ As the|
+"C" e2"C/G" e3/2 d/ |"C7sus4" c3/2- c/"C9" d3/2 c/ |"F" c3/2 A/ A-"Am7/E" A- | %66
+w: sta tue _|lib er ated the|cit i zen _|
+"Dm7" A z"B/F#" B"F#dim7" c |"C/G" G2"G/F" B"C/E" c |"Dm7" d2-"G7" d"G9sus4" c |"Csus4" c4- | %70
+w: _ so the|cross lib er|ates _ the|soul|
+ c z c c |"F" c2 A"Em7" B |"Dm7" c2"G" B3/2 A/ |"F/C" A3/2 G/"C" G2- | G z c"C/B" c |"Am" c2 A B | %76
+w: _ oh the|cross is my|Sta tue of|Lib er ty|_ it was|there that my|
+"D7" c2"Bm/D" d"D9" e |"G9sus4" d4- |"G7" d z"F/A" c"G/B" d |"C" e2"C/G" e3/2 d/ | %80
+w: soul was set|free|_ un a|shamed I'll pro|
+"C7sus4" c3/2- c/"C9" d3/2 c/ |"F" c3/2 A/ A-"Am7/E" A- |"Dm7" A z"B/F#" B"F#dim7" c | %83
+w: claim that _ a|rug ged cross _|_ is my|
+"C/G" G2"G/F" B"C/E" c |"Dm7" d2-"G7" d"G9sus4" c |"Csus4" c4- |"C" c4 | z4 | z4 | z4 | z4 |] %91
+w: Sta tue of|Lib _ er|ty|_|||||
+

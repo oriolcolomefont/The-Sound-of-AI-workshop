@@ -1,0 +1,30 @@
+X:1
+T:Memories
+T:Memories
+C:Egbert Van Alstyne
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" A>G F"Bbdim"E>F"C7"G |"F" A c2- c3 | A>G F"Bbdim"E>F"C7"G |"F""F7" A6 | %4
+w: 1.~'Round me at twi- light come|steal- ing, _|Shad- ows of days that are|gone;|
+w: 2.~Sun- light may teach me for-|get- ting, _|Noon- light brings thoughts that are|new;|
+"Gm" B>A G"Ebm"^F>G"Dm7"A |"Gm" B d2- d3 |"G9" A>G =F"G7"D>EF |"C" c3-"C7" c2 z |"F" d2 ^c =c3 | %9
+w: Dreams of the old days re-|veal- ing _|Mem'- ries of love's gold- en|dawn. _|Mem- o- ries,|
+w: Twi- light brings sighs and re-|gret- ting _|Moon- light means sweet dreams of|you. _|_ _ _|
+"G7" A2 D G3 |"C7" A2 G C2 G |"F" F3- F2"F7" z |"Bb" F2 D F2 G |"F" A2 B c2"Fdim" A | %14
+w: mem- o- ries,|dreams of love so|true. _|O'er the sea of|mem- o- ry I'm|
+w: |||||
+"C" G2 c"D7" d2"G7" e |"C" c3-"C7" c2 z |"F" d2 ^c =c3 |"G7" A2 D G2 G |"C7" A2 G C2"Cdim" G | %19
+w: drift- ing back to|you. _|Child- hood days,|wold- wood days, a-|mong the birds and|
+w: |||||
+"Dm" F3- F2"D7" ^F |"Gm" G>^F G"E" e2 d |"Am" c>=B"Cm6" c"D7"d cA |"G7" GD A"C7" G2 C | %23
+w: bees. _ You|left me a- lone, but|still you're my own! In my|beau- ti- ful mem- o-|
+w: ||||
+"F" F3- F2 z |] %24
+w: ries. _|
+w: |
+

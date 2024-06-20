@@ -1,0 +1,45 @@
+X:1
+T:On My Own
+T:On My Own
+C:Claude-Michel Schönberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"D" z4"Em" z4 |"D" z4"G" z2"Em7" A,D |:"D" D3 D"Em/D" EDE>A |"D" F/E/D- D2"D/C#" z2 A,>D | %4
+w: |On my|own, pre- tend- ing he's be-|side * me. * All a-|
+w: ||rain, the pave- ment shines like|sil- * ver. * All the|
+"Bm" D3 D"E" EDE>D |"A" B, A,3"A/G#" z2 A,>B, |"G" B, D2 D"F#7" CDEF |[M:2/4]"Bm" D F2 D | %8
+w: lone I walk with him 'till|morn- ing. With- out|him _ I feel his arms a-|round me. And|
+w: lights are mist- y in the|riv- er. In the|dark- ness the trees are full of|star- light. And|
+[M:3/4]"Em" G/F/E/D/ G/F/E/D/"Em/D" G/F/E/D/ |1[M:4/4]"A" B, A,3 z2 A,>D :|2"A" B, A,3 z2 A,>D || %11
+w: when I lose my way I close my eyes and he has|found me In the||
+w: all I see in him and me for- ev- er and for-||e- ver And I|
+[K:F]"Bb" D3 D"Ebm/Bb" _EDE>F |"Bb" F4"Bb/A" z2 D>B |"Gm" BFFD"Gm/F" DB,B,C |"Eb" B,4 z2 B,>G | %15
+w: |mind, that I'm|talk- ing to my- self and not to|him. And al-|
+w: know it's on- ly in my||||
+"Em" G3 G G>^FG>A |"B" =B4"B7" z2 BA |"Am7" G4 z2 ^FE |"C7" G3 ^F E2 z C |"F" F<F-FF"Gm/F" G>FGc | %20
+w: though I know that he is|blind, Still I|say there's a|way for us. I|love him _ but when the night is|
+w: |||||
+"F" A/G/F- F2"F/E" z2 C>F |"Dm" F3 F"G7" GFG>F |"C" D C3"C/B" z2 z C |"Bb" D F2 F"A" E>FGA | %24
+w: o- * ver, _ he is|gone, the riv- er's just a|riv- er. With-|out him the world a- round me|
+w: ||||
+[M:2/4]"Dm" F A2 F |[M:3/4]"Gm" B/A/G/F/ B/A/G/F/"Gm/F" B/A/G/F/ |[M:4/4]"C" D C3 z2 z C | %27
+w: chang- es. The|trees are bare and ev- 'ry- where the streets are full of|strang- ers. I|
+w: |||
+"F" F<F-FF"Gm/F" GFGc |"F" A/G/F- F2"F/E" z2 AA |"Dm" A3 A"G7" =BBB>B- |"C" B/c/c- c2"C/B" z2 z C | %31
+w: love him _ but ev- 'ry day I'm|learn- * ing _ all my|life I've on- ly been pre-|* tend- ing _ With-|
+w: ||||
+"Bb" D D2 F"A" E>FGA |[M:2/4]"Dm" FA- AF |[M:3/4]"Gm" B/A/G/F/ B/A/G/F/ B/A/G/F/ | %34
+w: out me his world will go on|turn- ing. _ The|word is full of hap pi- ness that I have nev- er|
+w: |||
+[M:4/4]"C" !fermata!c4 z2 z C |"F" F<F- F2 z2 z C |"F7/Eb" F<F- F2 z2 z G | %37
+w: known. I|love him, _ I|love him, _ I|
+w: |||
+"Dm7" G<F-FF"Bbm/Db" GFGA |"F" !fermata!A8 |] %39
+w: love him _ but on- ly on my|own.|
+w: ||
+

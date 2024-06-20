@@ -1,0 +1,26 @@
+X:1
+T:A Second Chance
+T:A Second Chance
+C:Andre Previn
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"^Slowly" z2"^Tacet" A,=B, E^CDF |"Gm6" A8- |"Am7" A2 GA"A+7" =cA- (3AGA |"Dm" E8- | %4
+w: Can't I have a sec- ond|chance?|_ I won't ask for _ an- y-|more.|
+ E2 A,=B, E^CDF |"Gm6" A8- |"A7" (3A2 =c2 A2 (3c2 A2 C2 |"Dmaj9" E8- | E2 D2 E^FA^c | %9
+w: _ Can't you give a sec- ond|chance?|_ When you've had three or|four|_ Per- haps you could- n't|
+"Am7" e2- (3ed=B"D9" A4 |"Abm7" _e2- (3e_d_B"Db9" _A3 F |"Gb" _D8- | D3 _E F_GB_d | %13
+w: tell * it was love,|Well, * it was love with|me,|_ But now it's turn- a-|
+"Fm7" B6-"Bb9" B_d |"Fm7" B6"Bb7" _dB |"Ebmaj7" =dB G6- |"A7" G2 A,=B,"Dm" =E^CDF |"Gm6" A8- | %18
+w: bout, _ I'm|out, Does it|have to be?|_ Can't I have a sec- ond|chance?|
+"Am7" A2 GA"A+7" =cAGA |"Dm" E8- | E2 A,=B, E^CDF |"Gm6" A8- |"A7" (3A2 ^c2 A2 (3c2 A2 =F2 | %23
+w: _ It's so lit- tle to de-|mand,|_ Won't you take a sec- ond|glance,|_ then you might un- der-|
+"Am7" E8- |"D9" E2"D7" D2"D9" E^FA=B |"G" d2- (3d=BA E4 |"Gm7" e2- (3ed_B A3 =F |"D" A,8- | %28
+w: stand,|_ You're more than just an|end _ of the road,|Friend _ of the road with|me.|
+ A,2 A,=B,"Dm" E^CDF |"Gm6" A4- (3A2 =c2 A2 |"A7" c A3- (3A2 F2 A,2 |"D6" D8- | D2 z2 z4 |] %33
+w: _ You're my first, my one ro|mance, _ Can't I|have a _ sec- ond|chance?|_|
+

@@ -1,0 +1,35 @@
+X:1
+T:Trumpet Voluntary
+T:Trumpet Voluntary
+C:Jeremiah Clarke (Attributed to Henry Purcell)
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 |"Bb" B4"F" c4"Bb" d4"C7" c2B2 | %3
+"F7" c4 F4 F4 F4 |"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 | %6
+"Bb" B2c2"Eb6"B2c2"F7" d/c/d/c/ d/c/d/c/ d/c/d/c/B2 |"Bb" B12 z4 | %8
+"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 |"Bb" B4"F" c4"Bb" d4"C7" c2B2 | %11
+"F7" c4 F4 F4 F4 |"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 | %14
+"Bb" B2c2"Eb6"B2c2"F7" d/c/d/c/ d/c/d/c/ d/c/d/c/B2 |"Bb" B12 z4!fine! || %16
+"Bb" d8"C7/G" =e/f/e/f/ e/f/e/f/ e/f/e/f/de |"F" f6 g2 f4"F7/A" _e4 |"Bb" d4 B4 B4 F4 | %19
+ B4 F4 D4 B,4 |"Bb" d8"C7/G" =e/f/e/f/ e/f/e/f/ e/f/e/f/de |"F" f6 g2 f4"F7/A" _e4 | %22
+"Bb" d4 c2B2 B2c2d2e2 |"F7" c12 z4 |"Bb" d8"C7/G" =e/f/e/f/ e/f/e/f/ e/f/e/f/de | %25
+"F" f6 g2 f4"F7/A" _e4 |"Bb" d4 B4 B4 F4 | B4 F4 D4 B,4 | %28
+"Bb" d8"C7/G" =e/f/e/f/ e/f/e/f/ e/f/e/f/de |"F" f6 g2 f4"F7/A" _e4 |"Bb" d4 c2B2 B2c2d2e2 | %31
+"F7" c12 z4 ||"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 | %34
+"Bb" B4"F7" c4"Bb" d4"C7" c2B2 |"F7" c4 F4 F4 F4 |"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc | %37
+"Bb" d6 e2 d4"F7" c4 |"Bb" B2c2"Eb6"B2c2"F7" d/c/d/c/ d/c/d/c/ d/c/d/c/B2 |"Bb" B12 z4 | %40
+"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 |"Bb" B4"F" c4"Bb" d4"C7" c2B2 | %43
+"F7" c4 F4 F4 F4 |"Bb" B8"F7" c/d/c/d/ c/d/c/d/ c/d/c/d/Bc |"Bb" d6 e2 d4"F7" c4 | %46
+"Bb" B2c2"Eb6"B2c2"F7" d/c/d/c/ d/c/d/c/ d/c/d/c/B2 |"Bb" B12 z4 ||"Bb" F4 D2E2 F4 B4 | %49
+ F4 D2E2 F4 B4 | F4 B2c2 d4 B4 |"F7" A6 G2 F8 | c4 A2B2 c4"Bb/F" d4 |"F/A" c4 A2B2 c4"Bb/F" d4 | %54
+"F/A" c4 B2A2"C7" G6 F2 |"F7" F12 z4 |"Bb" F4 D2E2 F4 B4 | F4 D2E2 F4 B4 | F4 B2c2 d4 B4 | %59
+"F7" A6 G2 F8 | c4 A2B2 c4"Bb/F" d4 |"F/A" c4 A2B2 c4"Bb/F" d4 |"F/A" c4 B2A2"C7" G6 F2 | %63
+"F7" F12 z4!D.C.! :| %64
+

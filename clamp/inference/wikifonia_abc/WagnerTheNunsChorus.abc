@@ -1,0 +1,21 @@
+X:1
+T:The Nuns' Chorus
+T:The Nuns' Chorus
+T:Wagner
+C:Wagner
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" E3 |"Am" E3 |"Em" G3 |"Am" C3 |"C" E3 |"D7" E3 |"G" D3- | D3 |"F" A3 | A3 |"G" G2 F |"C" E3 | %12
+"Am" A3 |"B" B3 |"Em" E3 |"G7" G3 |"C" E3 |"Am" E3 |"Em" G3 |"Am" C3 |"C" E3 |"D7" E3 |"G" D3- | %23
+ D3 |"F" A3 | A3 |"G" G2 F |"C" E3 | %28
+"^\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n""Dm" D3 | %29
+"G7" D2 C |"C" C3- | C z2 |: C2 E | C3 | C2 G | E3- | E c B | A2 E |"G" G3 |"Abdim" _A3 | %40
+"Dm/A" A3 |"G7" G3 |"C" C2 E | C3 | C2 G | E3 | E c B | A2 E |"G" G3 |"D7" ^F3 | A3 |"G7" G3 | %52
+"C7" G2 A | c2 A |"F" G3 | F3 |"A7" F2 E | A2 E |"D7" E3 |"G7" D3 |"C" C2 E | C3 | C E G |"D7" d3 | %64
+ z c B |"Dm7" A2"G7" G |1"C" c3- || c2 z :|2"C" c3- ||"Fm" c3- |"C" c2 z |] %71
+

@@ -1,0 +1,27 @@
+X:1
+T:Soft Shoe Song
+T:Soft shoe song
+T:Roy Jordan and Sid Bass
+C:Roy Jordan, Sid Bass
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4"^N.C." z2 (3A^AB |S"F" c2 d2"D7" edcA |"G7" B2 a2 g3 d | f3 d"C7" e3 d | %4
+w: Give me that|old soft shoe I said that|old soft shoe, ah-|one ah- two ah-|
+"G7" (3fff (3ffd"C7" e2 (3A^AB |"F" c2 d2"E7" ed^cd |"F" a2 _b2"D7" c'2 c^c | %7
+w: doo- dle- dee doo- dle- dee doo play me that|old soft shoe and noth- in|else will do that's the|
+"G7" d^cd^d"C" e2 =c2 |"F" f8 |"F7" a3 ^g a3 g | a2 (3fg^g (3agf _e2 |"Bb" g3 ^f g3 f | %12
+w: dance Bo- jan- gles used to|do|We'll sing loves re-|frain (Just like a vau- de- ville team)|dance the whole night|
+ g2 (3fga (3_bag f2 |"G7" b3 ^a b3 a | b2 (3ga^a (3bag f>f |"C" c'2"^N.C." b2 _b2 ^f2 | %16
+w: through (Do- ing the cu- test rou- tine)|strol- ling lov- ers|lane (just like we're play- ing a scene) we'll|har- mon- ize and|
+"C7" (3aga"^N.C." (3ged"C7" c2"^N.C." (3A^AB!D.S.! ||O c2 d2"E7" ed^cd |"F" a2 _b2"D7" c'2 c^c | %19
+w: doo- dle- dee doo- dle- dee doo give me that|old soft shoe and noth- in|else will do, Mis- ter|
+"G7" d^cd^d"C7" (3ede- ec |"F" f2 g2"D7" a3 a |"G7" db (3bb^a ba b2 |"C7" e_b (3bba ba b2 | %23
+w: Lead- er play the song and dance * I|love to do, the|old (I"m talk- in a- bout the old)|soft (I'm talk- in a- bout the soft)|
+"F" f2"^N.C." (3cfc Bf_Bf |"F" A2"^N.C." e2"^F" f2 z2 |] %25
+w: shoe * * * * * * *|* soft shoe.|
+

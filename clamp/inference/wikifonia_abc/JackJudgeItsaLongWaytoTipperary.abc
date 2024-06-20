@@ -1,0 +1,18 @@
+X:1
+T:It's a Long Way to Tipperary
+T:It's a Long Way to Tipperary
+C:Jack Judge
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 B,C |"G" D2 D3"D7" DEF |"G" G2 B4"G7" BA |"C" G2 E4 G2 |"G" D6 B,C | D2 D3"D7" DEF | %6
+w: It's a|long way to Tip- per-|a- ry it's a|long way to|go It's a|long way to Tip- per-|
+"G" G2 B4 G^G |"A7" A2 E2 F2 G2 |"D" A6 z2 |"G" D2"D7" D4 EF |"G" G2"G7" B6 |"C" c2 E2 G2 A2 | %12
+w: ar- y to the|sweet- est girl I|know|Good- bye Pic- ca-|dil- ly|fare- well Leices- ter|
+"B" B6 GA |"G" B2 B2 BGAG |"C" E4"G" D2 G2 | B2 G4"D7" A2 |"G" G6 z2 |] %17
+w: Square, it's a|long long way to Tip- per-|ar- y but|my heart's right|there.|
+

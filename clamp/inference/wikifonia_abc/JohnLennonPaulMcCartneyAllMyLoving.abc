@@ -1,0 +1,34 @@
+X:1
+T:All My Loving
+T:All my loving
+T:John Lennon and Paul McCartney
+T:Foxtrot
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ F E |:"Dm" D2 E F |"G7" G A2 B |"C" c2 c B |"Am" A E2 A |"F" A2 A G |"Dm" F3/2 E/- E C |"B" D4- | %8
+w: Close your|eyes and I'll|kiss you to-|morr- ow I'll|miss you Re-|mem- ber I'll|al- ways * be|true.|
+w: |tend I am|kiss- ing the|lips I am|miss- ing and|hope that my|dreams will * come|true.|
+w: |eyes and I'll|kiss you to-|mor- row I'll|miss you Re-|mem- ber I'll|al- ways * be|true.|
+ D z F E |"Dm" D2 E F/G/- |"G7" G2 A B |"C" c2 c B/A/- |"Am" A/E/E/E/ A/ A3/2 |"Dm7" A2 A G | %14
+w: _ and then|while I'm a- way|_ I'll write|home ev- 'ry- day|_ _ _ _ and I'll|send all my|
+w: _||||||
+w: _||||||
+"G7" F/ E3/2- E D/"C"C/- |1 C2 z2 | C F E z :|2 C z c B ||"Am" A/E/- E3 |"C" E D C D/E/ |"C" E4- | %21
+w: lov- ing _ to you|_|* I'll pre|* All my|lov- ing *|I will send to you||
+w: |||||||
+w: |||||||
+ E z c B |"Am" A/E/- E3 |"C" E D D C/C/ |"C" C4-!dacoda! | C z F E ||O z4 | C z c B | %28
+w: * all my|lov- ing *|dar- ling I'll be true||* close your||* All my|
+w: |||||||
+w: |||||||
+"Am" A/E/- E3 | e d c d/c/- |"C" c4- | c3 z |] %32
+w: lov- ing *|I will send to you.|||
+w: ||||
+w: ||||
+

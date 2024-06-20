@@ -1,0 +1,59 @@
+X:1
+T:Speak Now
+T:Speak Now
+T:Words & Music by Taylor Swift
+C:Taylor Swift
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"G" z8 |"G" z8 |"G" G2 z D GFGA |"D" F3 z2 DDD |"Am" (E/G/)GGA (BD)DD |"C" E3/2G3/2E A3/2G3/2A | %6
+w: ||I am not the kind of|girl who should be|rude- * ly barg- ing in * on a|white veil oc- ca- sion, but|
+"G" G2 z D GFGA |"D" F3 z2 DDD |"Am" GGGA (BD) E2- |"C" E2 z2 z4 |"G" G2 z F GFGA |"D" F4 z2 DD | %12
+w: you are not the kind of|boy who should be|mar- ry- ing the wrong * girl.||I sneak in and see your|friends and her|
+"Am" GFGA (3BDD- D<D |"C" E3/2G>(GA/) G2 (GA) |"G" G2 z D GFGA |"D" F2 D2- D z DD | %16
+w: snot- ty lit- tle fa- mi- ly * all|dressed in pas- * tel, and *|she is yell- ing at a|brides- maid * some- where|
+"Am" GFGA BDDD/E/- |"C" EGGE/(G/ A) G2 z |"Am" (E2 GE) (G<A) (A<B) |"C" (E2 GE) (G<A-)A z | %20
+w: back in- side a room wear- ing a gown|* shaped like a pas- * try.|Thi- * * i- * is *|i- * * is * *|
+"G" AAAA ABGG |"D" D4 z4 |"Am" (E2 GE) (G<A)(AB- |"C" B) z EG G2 ED |"D" B2 A3 z z2 | %25
+w: sure- ly not what you thought it would|be,|I- * * I- * I *|* lose my- self in a|day- dream|
+ z EEG- G(GA)G- |"G" G z G2 (AG) G2 |"D" AB(AG) (G E2) G |"Am" ABAG E2 GG |"C" D2 GG A2 G2 | %30
+w: where I stand * and * say:|* Don't say * yes,|run a- way * now, * I'll|meet you when you're out of the|church at the back door.|
+"G" z2 G2 (G A2) G |"D" ABAG (G E2) G |"Am" ABAG E2 GG |"C" C2 C2 C2 B,2 |"G" z8 |"D" z8 |"Am" z8 | %37
+w: Don't wait * or|say a sing- le vow, * you|need to hear me out and they|said speak now- ow.||||
+"C" z8 |"G" G2 z2 GFGA |"D" F3 z z2 DD |"Am" GFGA BDDD |"C" E3/2GE/(G/A/- A) G2 A | %42
+w: |Fond ges- tures are ex-|changed, and the|or- gan starts to play a song that|sounds like a death * * march. And|
+"G" G2 z D GFGA |"D" (FE) D2 z DDD |"Am" GFGA BDDD |"C" EG (3:2:2G2 A G3 z | %46
+w: I am hi- ding in the|cur- * tains, it seems that|I was un- in- vi- ted by your|love- ly bride- to- be.|
+"Am" (E2 GE) (G<A) (A<B) |"C" E2 GG A2 BB |"G" B G2 G- G4 |"D" z4 z2 z D | %50
+w: She- * * e- * e *|floats down the aisle like a|pa- geant queen, *|but|
+"Am" (E2 GE) (G<A) (A<B) |"C" (E2 GE) A2 z G |"D" BAGA- A2 z G | BGGG- GDG, z |"G" z2 G2 (AG) G2 | %55
+w: I- * * I- * I *|know- * * oh you|wish it was me, * you|wish it was me, * (don't you?)|Don't say * yes,|
+"D" AB(AG) (G E2) G |"Am" ABAG E2 GG |"C" D2 GG A2 G2 |"G" z2 G2 (G A2) G |"D" ABAG (G E2) G | %60
+w: run a- way * now, * I'll|meet you when you're out of the|church at the back door.|Don't wait * or|say a sing- le vow, * you|
+"Am" ABAG E2 GG |"C" c2 c2 c2 B2 |"G" z2 G2 (AG) G2 |"D" AB(AG) (G E2) G |"Am" ABAG E2 GG | %65
+w: need to hear me out and they|said speak now- ow.|Don't say * yes,|run a- way * now, * I'll|meet you when you're out of the|
+"C" D2 GG A2 G2 |"G" z2 G2 (G A2) G |"D" ABAG (G E2) G |"Am" ABAG E2 GG |"C" C2 C2 C2 B,2 |"G" z8 | %71
+w: church at the back door.|Don't wait * or|say a sing- le vow, * your|time is run- ning out and they|said speak now- ow.||
+"D" (ABAG- G2) z2 |"Am" (ABAG- G2) B,2 |"C" C6 z2 |"G" z8 |"D" (ABAG- G2) z2 |"Am" (ABAG- G2) z2 | %77
+w: Oh... * * * *|la... * * * * oh|oh.||Oo... * * * *|oo... * * * *|
+"C" z8 |"Em" E2 EE GA B2 |"C" E2 G2 DDAG |"G" (F2 G2) (F2 G2) |"D" d2 B2 (3:2:2A2 G- G z | %82
+w: |I hear the prea- cher say|speak now or for- ev- er|hold * your *|pe- e- e- eace. *|
+"Am" FG (G/A/)G FG (G/A/)G |"C" FGAG (3FG(G A)(G/F/) |"D" F3 z D3 z | B,4 z4 |"Am" EE G2 A2 B2 | %87
+w: There's the si- * lence, there's my last * chance,|I stand up with sha- ky hands , all *|eyes on|me.|Hor- rif- ied looks from|
+"C" E/E/EGG A2 (BG) |"D" F2 FF GG(BA) | A4 z4 |"G" G2 z D GFGA |"D" F3 z2 DDD |"Am" GGGA (BD)DD | %93
+w: ev- ery- one in the room, but *|I'm on- ly look- ing at *|you.|I am not the kind of|girl who should be|rude- ly barg- ing in * on a|
+"C" E3/2G3/2E A3/2G3/2A |"G" G2 z G ccBG |"D" A4 z DDD |"Am" EGGA (BD) G2- |"C" G4 z4 | %98
+w: white veil oc- ca- sion, but|you are not the kind of|boy who should be|mar- ry- ing the wrong * girl.||
+"G" z3/2 D/ G2 (AG) G2 |"D" AB(AG) (G E2) G |"Am" ABAG E2 GG |"C" D2 GG A2 G2 |"G" z2 G2 (G A2) G | %103
+w: So don't say * yes|run a- way * now, * I'll|meet you when you're out of the|church at the back door.|Don't wait * or|
+"D" ABAG (G E2) G |"Am" ABAG E2 z3/2 E/ |"C" c2 c2 c2 B2 |"G" z3/2 D/ G2 A3 G | %107
+w: say a sing- le vow, * you|need to hear me out (they)|said speak now- ow.|And you say let's|
+"D" AB(AG) (G E2) G |"Am" ABAG E2 GG |"C" D2 GG A2 G2 |"G" z2 G2 (G A2) G |"D" ABAG (G E2) G | %112
+w: run a- way * now, * I'll|meet you when I'm out of my|tux at the back door.|Ba- by, * I|did- n't say my vows, * so|
+"Am" ABAG E2 GG |"C" C2 C2 C2 B,2 |"G" z8 |] %115
+w: glad you were a- round when they|said speak now- ow.||
+

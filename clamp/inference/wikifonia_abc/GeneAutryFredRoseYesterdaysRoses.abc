@@ -1,0 +1,28 @@
+X:1
+T:Yesterday's Roses
+T:Yesterday's Roses
+T:Gene Autry and Fred Rose
+C:Gene Autry, Fred Rose
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" G4 E4- |"C7" E4 z2 (3EFG |"F" A4 F4- | F6 z2 |"G7" B4 A2 G2 | F4 G2 A2 |"C" G8- | G6 z2 | %8
+w: Ros es|* pressed in a|bi- ble||brings me sweet|mem' ries of|you||
+w: Mem' ries|* live through the|a- ges||still they bring|on- ly re-|gret||
+ G4 E4- | E4 z2 (3EFG |"F" A4 F4- | F6 c2 |"G7" B4 A2 G2 | D4 F2 E2 |"C" C8- |"F" C4"C" z4 | %16
+w: Ros- es|* with- ered and|fad- ed|* The|same as a|love I once|knew||
+w: ros- es|* pressed in a|bi- ble|* they|tell me to|nev- er for-|get||
+"^Chorus:" z4 z2 (3CFA | z"F" c3 A4- | A4 z2 (3CFA |"C" A4 G4- | G4 z2 (3CEG |"G7" G4 D4- | %22
+w: Yes- ter- days|Ros- es|* cov- ered with|tear drops|* Yes- ter- days|tear drops|
+w: ||||||
+ D4 z2 (3FGA |"C" G8- |"C7" G4 z2 (3CFA |"F" c4 A4- | A4 z2 (3CFA |"C" A4 G4- | G4 z2 (3CEG | %29
+w: * cov- ered with|dew|* I'll al- ways|trea- sure|* Yes- ter- days|ros- es|* Tell- ing a|
+w: |||||||
+"G7" G4 D4- | D2 E2 z2 (3FED |1"C" C8- ||"F" C8 :|"C" C8- |2"F" C4-"C" C2 z2 |] %35
+w: sto- ry|* that nev- er came|true.||||
+w: ||||||
+

@@ -1,0 +1,36 @@
+X:1
+T:I'm Always Chasing Rainbows
+T:作曲：
+T:I'm Always Chasing Rainbows
+T:- 2 -
+T:I'm Always Chasing Rainbows
+C:Harry Carroll
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Vocals"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ D G |"G" B2 A G |"D" A2 B c |"G" B/A/ G3- | G z G B |"G" d2 B d |"Am" c2 B A |"G" G4- | %8
+w: At the|end of the|rain- bow there's|hap- pi- ness|_ And to|find it how|of- ten I've|tried.|
+"G" G z D G |"G" B2 A G |"D" A2 B c |"G" B2 G2 |"G" D2 D E |"D" F3 F |"A" G2 F E |"Am" A4- | %16
+w: _ But my|life is a|race just a|wild goose|chase And my|dreams have|all been de-|nied.|
+"D" A4 |"Dm" d ^c/d/ c/d/e/d/ |"C" G c3 |"B" B ^A/B/"E" c B |"A" E3 E |"Am" A/B/A/B/ A D | %22
+w: _|Why have I al ways been a|fail- ure|What can the rea- son|be? I|won- der if the world's to|
+"G" B3 G |"A" G/F/G/F/ G ^G |"D" A3 z ||"G" D4 |"G" E D"Cm/Eb" G A |"G/D" B4 |"G" d4 | %29
+w: blame. I|won- der if it could be|me?|I'm|al- ways chas- ing|rain-|bows,|
+"F#dim" c2"G" B2 |"Cm6" A2"G" B G |"Am" D4- |"D7" D4 |"E7" E4 |"Dm6" =F"E7" E"Bm7" A"E7" B | %35
+w: Watch- ing|clouds drift- ing|by.|_|My|schemes are just like|
+"Am" c2"E7" B2 |"Am" A4 |"A7" B2 E2 |"Am7" G2 B2 |"D7""Ddim" d4- |"D7" d4 |"G7" d ^c/d/ c/d/c/d/ | %42
+w: all my|dreams,|End- ing|in the|sky|_|Some fel- lows look and find the|
+"G7" e d2 G |"C" c c c/B/c/d/ |"C" c4 |"E7" B ^A/B/ A/B/A/B/ | c B2 E |"A7" A A A/^G/A/B/ | %48
+w: sun- shine I|al- ways look and find the|rain.|Some fel- lows make a win- ning|some time I|nev- er ev- en make a|
+"D7" A F"Am7" E"D7" _E |"G" D4 | E D"Cm" G A |"G" B4 |"E7" e4 |"Am" c B/c/ B/c/B/c/ | %54
+w: gain. Be- lieve me|I'm|al- ways chas- ing|rain-|bows,|Wait- ing to find a lit- tle|
+"Am7" B G2"D7" A |"G" G4- |"Eb7" G2"G" z2 |] %57
+w: blue birds in|vain|_|
+

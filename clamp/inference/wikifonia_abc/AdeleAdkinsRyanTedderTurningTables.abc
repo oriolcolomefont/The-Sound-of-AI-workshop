@@ -1,0 +1,56 @@
+X:1
+T:Turning Tables
+T:Turning Tables
+T:2
+C:Adele Adkins,  Ryan Tedder
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:2/2
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 0
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+"Cm7" CECE BEBE | CECE BEBE |"Abmaj9" CECE BEBE | CECE BEBE |"Fm9" CECE GEGE | CECE GEGE | %6
+w: ||||||
+w: ||||||
+"Abmaj9" CECE AEAE | CECA GC E2 |:"Cm7" z4 E2 DE- | E2 DE- E2 DC- |"Abmaj9" C8 | z4 E2 EE- | %12
+w: ||1.Close e- nough|_ to start _ a war,||all that I|
+w: ||2.Un- der haunted|_ _ skies _ I see|you,|ooh where love|
+"Fm9" E2 C6 | z2 z C E2 EC- |"Ab" C8- | C4 z4 |"Cm7" z4 EEDE- | EEFG- G2 E2 |"Abmaj9" C8 | %19
+w: _ have|is on the floor.|_||God on- ly knows|_ what we're fight- * ing|for.|
+w: is lost|your ghost is found.|_||I braved a hun-|* * dred storms to leave|you.|
+ z4 D2 EE- |"Fm9" E2 C6 | z2 z EE E2 E- |"Ab" EE FC- C4- | C8 ||"Ab" C3 D- D2 E2- | E F3 E2 D2 | %26
+w: All that I|_ say,|you al- ways say|_ more. _ _ _|_|I can't _ keep|_ up with your|
+w: As hard as|you try|will nev- er be|_ knocked down. _ _|_|||
+"Fm9" C3 D- D2 E2- | E F3 E2 D2 |"Ab" C3 D- D2 E2 | z2 B,4 D2- |"Bb" D8- | D4 z2 z G || %32
+w: turn- ing _ ta-|* bles, un- der|your thumb _ I|can't breathe.|_|* So|
+w: ||||||
+"Cm7"S B3 G- G2 z2 |"Abmaj9" B3 G- G2 z2 |"Eb" G2 GG- G2 F"Fm7"A- | A2 G2 E2"Cm7" B2- | %36
+w: I won't _|let you _|close e- nough _ to hurt|_ me, no, I|
+w: ||||
+ B2 G2 z2"Abmaj9" B2- | B2 G2 z4 |"Eb" G2 GG- G2 F"Fm7"A- | A2 G2 E F2"Cm7" G2- | G B3- B4- | %41
+w: _ won't res-|* cue|you to just _ de- sert|_ me. I can't give|you _ _|
+w: |||||
+"Abmaj9" B4 z2 z B |"Ab" c2 B"Eb/G"B- B2 G"Bbsus4"A | GF E2- EEFG |"Fm7" A3"Eb" G- G2"Abmaj9" E2- | %45
+w: _ the|heart you think _ you gave|_ me, _ _ it's time to|say good- * bye|
+w: ||||
+ E8 | z2 z D E2 DD- ||"Cm7" D E3- E4- | E8 |"Abmaj9" z8 | z2 z D E2 DE- |"Fm9" E2 B3- B4- | %52
+w: _|to turn- ing ta-|* bles, _|_||to turn- ing ta-|* bles. _|
+w: |||||||
+ B4- BAGF- |"Ab" F6 E2- | E8 ::"Cm7" G3 F- F2 G2- | G F3 F2 G2 |"Abmaj9" G3 F- F2 G2- | %58
+w: _ _ _ _ _|||1.2.Next time _ I'll|_ be brav- er,|I'll be _ my|
+w: ||||||
+ G F3 F2 G2 |"Eb" E2 C2 z2 z C | E2 EE- EEEF |1"Fm" F4- FG/F/EF- | F G3 z4 :|2 %63
+w: _ own sav- ior|when _ the|thun- der calls _ to me _|_ _ _ _ _ _||
+w: |||||
+"Bb" F3 D/C/ B, D2 C || D8 | [B,DF]8"^D.S. al Coda" || z8O ||"Fm9" E B3- B4 z | c8 | %69
+w: ||||* bles, _|_|
+w: ||||||
+"Ab" c2 B2- Bc z2 | z4 G2 GB | B3 B- B4 | CECE AEAE | CECA GC E2 | [CEA]8- | [CEA]8 |] %76
+w: |to turn- ing|ta- bles. _|_ _ _ _ _ _ _ _||||
+w: |||||||
+

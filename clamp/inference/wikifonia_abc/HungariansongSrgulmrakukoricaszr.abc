@@ -1,0 +1,21 @@
+X:1
+T:Sárgul már a kukoricaszár
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" C2 E2 G3 G |"Fm" cdcA"Cm" G4 |"Fm" FGAF"Cm" EFGE |"G" C D3"Cm" C4!fine! :|"Cm" cccc cedc | %5
+w: Sár- gul már a|ku- ko- ri- ca- szár,|vad- vi- rá- gos, ma- dár- da- los|a ha- tár.|Csip- kés szé- lû jegy- ken- dõ- vel,|
+w: Szép ga- lam- bom,|tu- bi- tu- bi- cám,|csip- kés szé- lû jegy- ken- dõ- vel|várj én- rám.||
+w: Sár- gul már a|ku- ko- ri- ca- szár,|az én szí- vem kis ga- lam- bom|té- ged vár.||
+"G" BBBB dcBA |"Fm" A3 F c2 A2 |"Cm" G3 E"G" D4!D.C.! |] %8
+w: ki- csi szí- ved sze- rel- mé- vel|légy az e- nyém,|kis- ba- bám,|
+w: |||
+w: |||
+

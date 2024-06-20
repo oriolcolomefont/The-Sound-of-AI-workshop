@@ -1,0 +1,30 @@
+X:1
+T:Vinegar & Salt
+C:Hooverphonic
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"Gm" z6 |"Eb" z6 |"Cm" z6 |"D" z6 |"Gm" z6 |"Eb" z6 |"Cm" z6 |"D" z6 ||"Gm" d3 z3 | %9
+w: ||||||||I|
+"F" z2 c/B/ cBc |"Bb" d2 z z3 |"D7" z3 z2 D |"Gm" d3 z3 |"F" z2 c/B/ cBc |"Bb" (d6 | %15
+w: like the things that you|hate.|And|you,|hate the things that I|like|
+"D7" ^f3- f)df |"Cm" g3 z3 |"D" z3 a/>b/^ff |"Cm" (g6 |"D" a3- a)=e^f ||"Gm" g3 z3 |"Eb" z3 bbg | %22
+w: _ _ but it|hurts,|ho- nes- ty's your|church|_ _ But some-|times,|It's~bet ter to|
+"Cm" (b6 |"D" a3) z =e^f |"Gm" g3 z3 |"Eb" z3 bbg |"Cm" (b6 |"D" a3) z3 ||"Gm" d3 z3 | %29
+w: lie|_ But some-|times,|It's~bet ter to|lie|_|I|
+"F" z2 c/B/ cBc |"Bb" d2 z z3 |"D7" z3 z2 D |"Gm" d3 z3 |"F" z2 c/B/ cBc |"Bb" (d6 | %35
+w: am the vine- gar and|salt|and|you|are the oil that dis-|solves|
+"D7" ^f3- f)df |"Cm" g g2 z3 |"D" z3 a/>b/^ff/>f/ |"Cm" g (g2- g3 |"D" a6) |"D7" z6 | z6 | %42
+w: _ _ my frus-|tra- tion|Ho- nes- ty's li- mi-|ta- tion _|_|||
+ z3 z =e^f ||"Gm" g3 z3 |"Eb" z3 bbg |"Cm" (b6 |"D" a3) z =e^f |"Gm" g3 z3 |"Eb" z3 bbg |"Cm" (b6 | %50
+w: But some-|times|It's~bet ter to|lie|_ But some-|times|It's~bet ter to|lie|
+"D" a3) z =e^f |:"Gm" g3 z3 |"Eb" z3 bbg |"Cm" (b6 |"D" a3) z =e^f ::"Gm" g3 z3 |"Eb" z3 z ef | %57
+w: _ But some-|times|It's~bet ter to|lie|_ But some-|times|but some-|
+"Gm" g3 z3 |1"Eb" z3 z =e^f :|2 z3/2 f/f fdf |"Gm" !fermata!g3 z3 |] %61
+w: times|But some-|I don't dare to ask|why.|
+

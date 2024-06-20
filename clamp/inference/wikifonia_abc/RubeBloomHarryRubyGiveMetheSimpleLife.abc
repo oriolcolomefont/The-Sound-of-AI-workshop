@@ -1,0 +1,32 @@
+X:1
+T:Give Me the Simple Life
+T:Give Me The Simple Life
+T:Rube Bloom
+T:Harry Ruby
+C:Rube Bloom
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Fm7" e/ e c/"B7" B A |"Eb7" d/ d"C7" B/ A"Ddim7" G |"Dm7b5" c/ c A/"G7" G F |"Cm" E2"Eb7" E2 | %4
+w: I dont be- lieve in|fret- tin and griev- in|Why mess ar- round with|strife? I|
+"Ab" F/ F E/"Abm" F E |"Eb" B/ B B/"Cm7" A G |"F7" e/ e c/"Gm7" B G |"Bb7" F4 | %8
+w: nev- er was cut out|to step and stru out|Give me the sim- ple|life.|
+"Fm7" e/ e c/"Bb7" B A |"Eb" d/ d B/"Cm7" A G |"Dm7b5" c/ c A/"G7" G F |"Cm" E2"Eb7" E2 | %12
+w: Some find it plea- sant|din- ing on pheas- ant|Those things roll off my|knife. Just|
+"Ab" F/ F E/"Abm" F E |"Eb" B/ B B/"Cm7" A G |"F7" e/ e c/"Bb7" B G |"Eb" E4 | %16
+w: serve me to- ma- toes|and mashed po- ta- toes.|Give me the sim- ple|life.|
+ E/"Fm7" c c/"Bb7" c/B/A/c/ |"Eb" B B3 |"Fm7" A/ A A/"Bb7" (3A G F |"Eb" G4 | %20
+w: A cot- tage small is all I'm|af- ter,|Not one thats spac- ious and|wide.|
+"Dm7b5" F/ F"G7" F/ F/E/D/F/ |"Cm" E E3 |"F7" F F"Fm7" F/G/F/E/ |"Bb7" F4 |"Fm7" e/ e c/"Bb7" B A | %25
+w: A house that rings with joy and|laugh- ter|And the ones you love in-|side|Some like the high road,|
+"Eb7" d/ d B/"C7" A G |"Dm7b5" c/ c A/"G7" G F |"Cm" E2"Eb7" E2 |"Ab" F/ F E/"Abm" F E | %29
+w: I like the low road,|Free from the care and|strife. Sounds|corn- y and seed- y,|
+"Eb" B/ B B/"C7" A G |"F7" e/ e c/ e c |"F#dim7" e/ e c/ e c |"Fm7" e/ e c/ e"Bb7" f | %33
+w: but yes in- deed y;|Give me the simp- le|Give me the sim- ple|Give me the sim- ple|
+"Ab" e2-"Abm" e2- |"Eb" e4 |] %35
+w: life *||
+

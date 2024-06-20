@@ -1,0 +1,25 @@
+X:1
+T:Park Your Troubles Here
+T:Park Your Troubles Here
+T:Ray Allen Overton
+C:Ray Overton
+Z:Creative Commons BY
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Concert"
+%%MIDI program 0
+V:1
+"Gm""^Intro""_slowly & Freely" z2 ^fB eAdG | ^c^F"D+7" (3c=cB (3:2:2c"D+9" !fermata!B2 (3z c^c | %2
+"C9" d a3"Ebdim" g ^c3 |"D+7" (3^c=cB c"D+9"B- B4 ||"Gm9" z8 |"C9" z8 |"Gm9" z8 |"D+7" z8 | %8
+"Gm9" z8 |"C9" z8 |"Gm9" z8 |"Eb7b5" z4"D7" z2 (3z ^cd |:S"Gm7""^A" (3cBG- G6 |"C9" z4 z2 (3z ^cd | %14
+"Gm7" (3cBG- G6 |"C9" z4 z2 (3z ^cd |"Gm7" aagg"^D7+(#9)" ff"^D7+(b9)"ee |"C9" d8!dacoda! | %18
+"F+7" ^c=cBG"Eb7b5" cB"D+7"GB |1"Gm9" z8 |"C9" z8 |"Gm9" z8 |"D+7" z4 z2 (3z ^cd :|2"Gm9" z8 || %24
+"C9" z8 |"F7sus4" z4"F7" z4 |"Bb" z4"F7" z2 (3z Bc ||"Bb""^B" d6 (3z _dc |"Gm7" B4 z2 (3z Bc | %29
+"Bb" fd- d4 (3z _dc |"Gm7" BG- G4 (3z Bc |"Eb7" _d6- (3dgd |"F7" F6- (3FBc |"Eb7" _d6- (3dgd | %34
+"D+7" ^F6 (3=F^cd ||"Gm7""^C" (3cBG- G6 |"C9" z4 z2 (3z ^cd |"Gm7" (3cBG- G6 |"C9" z4 z2 (3z ^cd | %39
+"Gm7" aagg"^D7+(#9)" ff"^D7+(b9)"ee |"C9" d8 |"F+7" ^c=cBG"Eb7b5" cB"D+7"GB |"Gm9" z8 |"C9" z8 | %44
+"Gm9" z8 |"D+7" z4 z2 (3z ^cd!D.S.! ||O"Gm""^Slowly & Freely" z2 ^fB eAdG | %47
+ ^c^F"D+7" (3c=cB (3:2:2c"D+9" !fermata!B2 (3z c^c |"C9" d a3"Ebdim" g ^c3 | %49
+"^D7+(#9)" (3^c=cB c"D+9"B- B4 |"Gm9" z8 |] %51
+

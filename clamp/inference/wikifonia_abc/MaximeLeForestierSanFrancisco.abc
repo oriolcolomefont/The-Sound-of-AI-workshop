@@ -1,0 +1,27 @@
+X:1
+T:San Francisco
+T:SAN  FRANSISCO
+T:Maxime Le Forestier
+C:Maxime Le Forestier
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:G
+V:1 treble 
+V:1
+"^Mim" z3"^COUPLET" E EBBB |"^SOL" B4 z4 |"^Sim" z"^Sim" A2B AGFD |"^DO" EEE"^SOL"E"^SOL" GAB2 | %4
+w: C'est u- ne mai- son|bleue|a- dos- sée à la col-|li- ne, On y vient ci pied,|
+w: On se re- trouve en-|semble|a- près des an- nées de|rou- te et on vient as- seoir|
+"^RÉ" DEFG A2DE | FGA2 DEFD |"^DO" E4 z4 :|"^Mim" z3"^REFRAIN" E EGEB |"^SOL" B2AG- G2A2 | %9
+w: on ne frap- pe pas, ceux qui|vi- vent là, ont je- té la|clé|Quand San Fran- cis- co|* s'em- bru- * me,|
+w: au- tour du re- pas, tout le|monde est là, à cinq heures du|soir.|||
+"^LA" z3 E EGEG- |"^DO" G2FD- D2E2 | z4 (3D2E2D2 |"^Sim" B,8 | z4 B,DEE- | %14
+w: quand San Fran- cis- co|* s'al lu- * me.|San Fran- cis-|co,|ou ê- tes- vous~?|
+w: |||||
+"^Mim" E2"^SOL" z2"^SOL" BAGA |"^LA" A2"^DO" z2"^DO" G2>E2- |"^\n" !fermata!E4 GEDE- | %17
+w: * Liz- zard et Luc,|* Psyl- via,|* at- ten- dez- moi.|
+w: |||
+"^Mim" E4 z4 | z8 || %19
+w: ||
+w: ||
+

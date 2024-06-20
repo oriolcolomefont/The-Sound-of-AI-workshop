@@ -1,0 +1,34 @@
+X:1
+T:Holy Spirit Thou Art Welcome
+T:Holy Spirit Thou Art Welcome
+T:Dottie Rambo & David Hundzinger, 1977
+C:Dottie Rambo & David Hundzinger 1977
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:3/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z4 DF |"Bb" B B3 DF |"Bb/D" B4 A2 |"F/Eb" A4"Eb" B2 |"Cm7" G4 CE |"F7" A A3 CE | A4 G2 | %7
+w: Ho ly|Spir it Thou art|wel come|in this|place Ho ly|Spir it Thou art|wel come|
+"A7/E" G4"A7" A2 |"Bb" F4 F2 | B3 B B2 |"Bb7" c2 B3 B |"Eb" B2 G3"Dm7" A |"Cm7" G4 CE |"F7" A4 A2 | %14
+w: in this|place Om|nip o thent|Fa ther of|mer cy and|grace Thou art|wel come|
+"F7" A2-"Eb/F" B2"F7" c2 |"Bb" B6- | B4 z2 |"F" A2 A2 B2 |"F7" c2 A3 A |"Eb" B2 A2 G2 | %20
+w: in _ this|place|_|Lord in Thy|pres ence there's|heal ing di|
+"Bb" F4 z F |"Eb" G2 G2 B2 |"Bb" B2 F3 F |"C7" G2 A2 B2 |"F7" c4 DF |"Bb" B B3 DF |"Bb/D" B4 A2 | %27
+w: vine *|No o ther|pow er can|save, Lord but|Thine Ho ly|spir it Thou art|wel come|
+"F/Eb" A4"Eb" B2 |"Cm7" G4 CE |"F7" A4 A2 | A2-"Eb/F" B2"F7" c2 |"Bb" B6- | B4 DF |"Bb" B B3 DF | %34
+w: in this|place Thou art|wel come|in _ this|place|_ Ho ly|Spir it Thou art|
+"Bb/D" B4 A2 |"F/Eb" A4"Eb" B2 |"Cm7" G4 CE |"F7" A A3 CE | A4 G2 |"A7/E" G4"A7" A2 |"Bb" F4 F2 | %41
+w: wel come|in this|place Ho ly|Spir it Thou art|wel come|in this|place Om|
+ B3 B B2 |"Bb7" c2 B3 B |"Eb" B2 G3"Dm7" A |"Cm7" G4 CE |"F7" A4 A2 |"F7" A2-"Eb/F" B2"F7" c2 | %47
+w: nip o thent|Fa ther of|mer cy and|grace Thou art|wel come|in _ this|
+"Bb" B6- | B4 z2 |"F" A2 A2 B2 |"F7" c2 A3 A |"Eb" B2 A2 G2 |"Bb" F4 z F |"Eb" G2 G2 B2 | %54
+w: place|_|Fill all the|hun gry and|emp ty with|in Re|store us oh|
+"Bb" B2 F3 F |"C7" G2 A2 B2 |"F7" c4 DF |"Bb" B B3 DF |"Bb/D" B4 A2 |"F/Eb" A4"Eb" B2 | %60
+w: Fa ther re|vive us a|gain Ho ly|Spir it Thout art|wel come|in this|
+"Cm7" G4 CE |"F7" A4 A2 | A2-"Eb/F" B2"F7" c2 |"Bb" B6- | B4 z2 |] %65
+w: place Thou art|wel come|in _ this|place.|_|
+

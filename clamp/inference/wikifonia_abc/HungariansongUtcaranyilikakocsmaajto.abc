@@ -1,0 +1,18 @@
+X:1
+T:Utcára nyílik a kocsmaajtó
+T:Utcára nyílik a kocsmaajtó
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A2 BA E2"E" FE | D2 CB,"Am" A,4!fine! |"Am" ccdc"E" BBcB |"Dm" AAGF"Am" E4 | %4
+w: Ut- cá- ra nyí- lik a|kocs- ma- aj- tó,|Ki- hal- lat- szik be- lő- le a|szép mu- zsi- ka szó,|
+w: Hadd mu- la- tom ki ma-|gam i- ga- zán!|||
+"Am" c2 dc"E" B2 cB |"Dm" AAGF"E" E3 (3^F/^G/A/!D.C.! |] %6
+w: Sört i- de, bort i- de,|de szép bar- na lány az a- nyád,-|
+w: ||
+

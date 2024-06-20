@@ -1,0 +1,40 @@
+X:1
+T:My Cherie Amour
+C:Stevie Wonder, Sylvia Moy, Henry Cosby
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"^Moderately" D2 ED |:S"Gmaj7" F2 EF- F3 z |"C11" =FFFF G A2 E- |"Fmaj7" E8 | %4
+w: My Che- *|rie A- mour, _|love- ly as a sum- mer day,|_|
+w: |ca- fe _ _|or~some- times on a crowd- ed street,|_|
+w: |some- * day _|you'll~see my face a- mong the crowd,|_|
+"D7sus4" z4"D7" D2 ED |"Gmaj7" F2 EF- F2 z2 |"C11" =FFFF G A2 E- |"Fmaj7" E8 | %8
+w: My Che- *|rie A- mour, _|dis- tant as the Milk- y Way.|_|
+w: I've been _|near _ you _|but~you~nev- * er _ no- ticed me.|_|
+w: may- be _|some- * day _|I'll~share your lit- tle dis- tant cloud.|_|
+"D7sus4" z4"D7" G2 AG |"Cmaj7" B2 AB- B4 |"D7sus4" BBBB"D7" c d2 B |"F9" A2 BB- B4 | %12
+w: My Che- *|rie A- mour, _|pret- ty lit- tle one that I|_ a- dore, _|
+w: My Che- *|rie A- mour, _|won't you tell me how could you|_ ig- nore, _|
+w: My Che- *|rie A- mour, _|pret- ty lit- tle one that I|_ a- dore, _|
+"E7" BBBB c2 dB- |"A7" B2 AG- G4 |"D7" BBBB c d2 B |1"G6" G8- | G4"D+7" D2 E2 :|2"Gmaj7" G8- || %18
+w: You're the on- ly girl my heart|_ beats for, _|hiw I wish that you were mine.|_|* In a||
+w: that be- hind that lit- tle smile|_ I wore, _|_ _ _ _ _ _ _||||
+w: You're the on- ly girl my heart|_ beats for, _|_ _ _ _ _ _ _||||
+ G4 D2"^N.C." E2!dacoda! |:"Cmaj7" B3"C6" A- A2"C" G2 |"Fmaj7" E4"F6" D2"Fmaj7" E2 | B3 A- A2 E2 |1 %22
+w: * La la|la la _ la|la, la la|la la _ la|
+w: ||||
+w: ||||
+"Gmaj7" B4"^N.C." D2 E2 :|2"Gmaj7" B4"D7" D2 E2!D.S.! |:O"Cmaj7" B3"C6" A- A2"C" G2 | %25
+w: la. La la|la * *|la la _ la|
+w: |||
+w: |||
+"Fmaj7" E4"F6" D2"Fmaj7" E2 | B3 A- A2 G2 |"Gmaj7" B4 D2"^Repeat and fade" E2 :| %28
+w: la, la la|la la _ la|la. La la|
+w: |||
+w: |||
+

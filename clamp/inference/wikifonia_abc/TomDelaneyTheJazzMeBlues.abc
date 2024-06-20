@@ -1,0 +1,30 @@
+X:1
+T:The Jazz-Me Blues
+T:The Jazz-Me Bles
+C:Tom Delaney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb""^Ragtime" G^FGB cBGE | G"Bb7" A2"Eb" B- B2 B,2 | G^FGA B=AB=B |"F7" c F2 F-"Bb7" F2 B,B, | %4
+w: Down in Lou- si- ian- a in that|sun- ny clime, * They|play a class of mus- ic that is|sup- er fine * And it|
+"Eb" G^FGB cB(GE) | G"Bb7" A2"Eb" B- B2 cd |"Eb+" e=B"Ab"c_c"Eb" _BGFE | %7
+w: makes no dif- fer- ence if it's *|rain or shine, * you can|hear that jazz band mu- sic play- ing|
+"F7" F"Bb7" G2 E-"Eb" E2"Bb7" B,2 |"Eb" G^FGB (cB)GE | G"Bb7" A2"Eb" B- B2 z2 | G^FGA B=AB=B | %11
+w: all the time. * It|sounds so pe- cul- iar * 'cause the|mus- ic's queer. *|IHow it's sweet vi- bra- tion seems to|
+"F7" c F2 F-"Bb7" F2 z2 |"Eb" G^FGB cBGE | G"Bb7" A2"Eb" B- B2 cd |"Eb+" e=B"Ab"c_c"Eb" _BGFE | %15
+w: fill the air *|then to you the whole world seems to|be in rhyme, * you want|noth- ing else but jazz- band mu- sic|
+"F7" F"Bb7" G2 E-"Eb" E2 z2 |"Bb7" B B2 B- BF B2 |"Bbdim7" B B2 B- BG B2 |"Bb7" d2 _d2"F7" c2 F2 | %19
+w: all the time. *|Ev- 'ry one * that's nigh|nev- er seems * to sigh,|hear them loud- ly|
+"Bb" B4"G7" =B4 |"C" c3 G- G4 | z =BcB cB(cB) |"F7" c3 F- F4 | c3 F- F2 F2 |"Bb7" BBcF BB(cF) | %25
+w: cry Oh!|Jazz- man *|don't stop that mu- sic, it's *|jazz- man, *|jazz- man * you|know I want to hear it both *|
+"Bb7" B c2 B- BBcd |"Eb" e2 cB cB G2 |"F7" F G2 B-"Bb7" B=AB=B |"C" c3 G- G4 | z =BcB cBcB | %30
+w: day and night, * and if you|don't blow it hot then I|don't feel right. * Now if it's|rag- time *|please sir will you play it in|
+"F7" c3 F- F4 | c3 F- F4 |"Eb" z GGG G4 |"G" z GGG G4 |"F7" GFGF GFGF |"C7" B B2 B- B=AB=B | %36
+w: jazz- time, *|jazz- time. *|Don't want it fast,|don't want it slow,|take your time don't rush it play it|sweet and low. * I've got those|
+"F7" c2 c2 c2 c2 |"Bb9" c d2 c c2 B2 |"Eb" e8- | e6 z2 |] %40
+w: dog- gone real jazz-|band jazz- band "jazz me"|blues.||
+

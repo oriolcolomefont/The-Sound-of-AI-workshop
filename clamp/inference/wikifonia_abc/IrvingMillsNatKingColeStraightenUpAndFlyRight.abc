@@ -1,0 +1,34 @@
+X:1
+T:Straighten Up And Fly Right
+T:Straighten Up And Fly Right
+C:Irving Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 z E |"Ab" AAAA"Ab7" AAAA |"Db" A2 AA"E7" A3 E |"Ab" ABGA"Fm" FG"Fm7"AB | %4
+w: A|buz- zard took a mon- key for a|ride in the air, The|mon- key thought that ev- 'ry- thing was|
+"E7" =B A2"Eb7" _B- B2 z E |"Ab" AAAA"Ab7" AAAA |"Db" AAAA-"E7" A A2 A |"Ab" ABGA"Fm" FG"Fm7"AB | %8
+w: on the square. _ The|buz- zard tried to throw the mon- key|off of his back, _ But the|mon- key grabbed his neck and said, "Now|
+"Bbm7" c A2 c-"Eb9" c4 |:"Ab6" z2 FA B F2 A- |"Db6" AB- B6 |"Ab6" z2 FA B F2 A- | %12
+w: list- en, Jack;" _|Straoght- en up and fly|_ right! _|straight- en up and fly|
+"Bbm7" AF-"Eb9" F6 |"Ab6" z2 FA B F2 A- |"Db6" AB- B4 z A- |"Ab6" A A3 F>GA>B | %16
+w: _ right! _|straight- en up and fly|_ right! _ Cool|_ down Pa- pa, don't you|
+"E9" =B A2 _B-"Eb9" B4 |"Ab6" z2 FA B F2 A- |"Db9" AB- B6 |"Ab6" z2 FA B F2 A- | %20
+w: blow your top. _|Ain't no use in div-|* in'' _|What's the use of div-|
+"Bbm7" AF-"Eb9" F6 |"Ab6" z2 FA B F2 A- |"Db6" AB- B4 z A- | A"Ab6" A3"Fm" F>GA>B | %24
+w: * in? _|Straight- en up and fly|_ right, _ Cool|* down Pa- pa don't you|
+"Eb9" c"Eb7" E2"Ab6" A- A2 z A |"C7" cccc cccc | c E2 c- c3 c |"F7" c2 c2 cF=AB | %28
+w: blow your top. _ The|buz- zard tod the mon- key, "You are|chok- in' me, _ Re-|lease your hold and I wil|
+"F9" c A2 G- G3 F |"Bb9" cccc cc c2 |"Bb9" c2 cc cF"Bb7"FF |"Eb9" cc c2 c c2 E | %32
+w: set you free." * The|mon- key looked the buz- zard right|dead in the eye, and said, "Your|stor- y's so touch- ing, it|
+"^Bbn7" FA"E9"=BA"Eb9" _B4 |"Ab6" z2 FA B F2 A- |"Db6" AB- B6 |"Ab6" z2 FA B F2 A- | %36
+w: sounds just like a lie."|Straight- en up and fly-|* right, _|straight- en up and fly|
+"Bbm7" AF-"Eb9" F6 |"Ab6" z2 FA B F2 A- |"Db6" AB- B4 z A- |"Ab6" A A3"Fm" F>GA>B |1 %40
+w: _ right, _|straight- en up and fly|~~ right! _ Cool|_ down Pa- pa don't you|
+"Eb9" c"Eb7" E2"Ab6" A- A2"Eb+" z2 :|2"Eb9" c E2"Eb7" A- A2"Ab6" z2 |] %42
+w: blow your top. *|blow your top. _|
+

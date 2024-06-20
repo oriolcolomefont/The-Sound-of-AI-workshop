@@ -1,0 +1,26 @@
+X:1
+T:De Tiroler Ramba Samba
+T: Laukens Music Productions  
+T:Mars
+T:DE TIROLER RAMBA SAMBA
+T:arr. H. Laukens
+C:Traditional
+Z:All Rights Reserved
+L:1/8
+Q:1/4=160
+M:2/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 21
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ a aa |"D" af z d | A>d fg |"A7" f e3- | ea aa | a2 ge | Ac fe |"D" d z"A7" c2 |"D" d z z A, || %9
+"D" DD DC | B, A,2 A, | DC"Ddim" B,D |"A7" C3 C | EE ED | C C2 C | CB, DC |"D" B,3 A, | DD DC | %18
+ B, A,2 D |"D7" DD EF |"G" G3 G | GG AG |"D" F F2 A |"A7" AG FE |"D" DA AA |:"D" A2 FD | A,D F>G | %27
+"A7" F E3- | EA AA | A2 EC | A,C E>F |"D" E D3- | DA AA | A F2 D |"D7" DD EF |"G" G4- | GF G^G | %37
+"A7" AA AA | AG FE |"D" D4-O ||1 DA AA :|2 Da aa!D.S.! ||O DF G^G |"A7" AA AA | AG FE |"D" D4- | %46
+ DF G^G |"A7" AA AA | AG FE |"D" D4- | DF G^G |"A7" AA AA | AG FE |"D" D z"A7" A,2 |"D" D4- | %55
+ Dx xx |] %56
+

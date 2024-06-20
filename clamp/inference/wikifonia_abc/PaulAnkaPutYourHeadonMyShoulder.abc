@@ -1,0 +1,30 @@
+X:1
+T:Put Your Head on My Shoulder
+T:Put Your Head On My Shoulder
+C:Paul Anka
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb7" z2 GA B G2 B |:"Cm" d4 c4 |"Fm7" z2 AB AG"Bb7" F2 |"Eb" z2 G2"Cm" C4 | %4
+w: Put your head on my|shoul- der,|hold me in your arms|ba- by.|
+"Fm7" z2 AB AG"Bb7" F2 |"Eb" z2 G2"Cm" C4 |"Fm" z2 FG"Bb7" F3 E |"Eb" G8- | G2 GA B G2 B | %9
+w: Squeeze me oh so tight,|show me|that you love me|too.|_ Put your lips close to|
+"Cm" d4 c4 |"Fm7" z2 AB AG"Bb7" F2 |"Eb" z2 G2"Cm" C4 |"Fm7" z2 AB AG"Bb7" F2 |"Eb" z2 G2"Cm" C4 | %14
+w: mine dear.|Won't you kiss me once|ba- by?|Just a kiss good- night|may- be|
+"Fm" z2 FG FE"Bb7"DF |"Eb""Ab" E8- |"Eb" E6 z2 |"Bb7" F F3 F3 E |"Eb" G3 G G3 E |"Bb7" F3 F F3 E | %20
+w: you and I will fall in|love.|_|Peo- ple say that|love's a game, a|game you just can't|
+"Eb" G6 z G |"D7" =A3 A A3 A |"Gm" B2 BB B3 B |"Fm7" c2 c2 (3c2 B2 c2 |"Bb7" d8- | %25
+w: win. If|there's a way I'll|find it some- day, and|then this fool will rush|in.|
+ d2 GA (3B2 G2 B2 |"Cm" d4 c4 |"Fm7" z2 AB AG"Bb7" F2 |"Eb" z2 G2"Cm" C4 |"Fm7" z2 AB AG"Bb7" F2 | %30
+w: _ Put your head on my|shoul- der,|whis- per in my ear,|ba- by,|words I want to hear|
+"Eb" z2 G2"Cm" C4 |"Fm" z2 FG FE"Bb7"DF |1"Eb" E8- || E2"^N.C." GA B G2 B :|2"Eb" E8- || %35
+w: tell me.|Tell me that you love me|too.|_ Put your head on my|too.|
+ E2 GA B G2 B |"Cm" d4 c4 |"Fm7" z2 AB AG"Bb7" F2 |"Eb" z2 G2"Cm" C4 |"Fm7" z2 AB AG"Bb7" F2 | %40
+w: _ Put your head on my|shoul- der,|whis- per in my ear|ba- by,|words I want to hear|
+"Eb" z2 G2"Cm" C4 |"Fm" z2 FG (3F2 E2 D2 |"Eb" F2"Ab" E6- |"Eb" E6 z2 |] %44
+w: ba- by.|Put your head on my|shoul- der.|_|
+

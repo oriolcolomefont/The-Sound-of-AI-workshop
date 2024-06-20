@@ -1,0 +1,30 @@
+X:1
+T:Let Me Call You Sweetheart
+T:Let Me Call You Sweetheart
+C:Leo Friedman
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" d2 A | c2 B |"Dbdim7" A2 G | F2 z | B3 |"Dbdim7" G3 |"F7" A3- | A2 z |"Cm" e2 =B | d2 c | %10
+w: I am|dream- ing|dear, of|you,|day|by|day.|_|Dream- ing|when the|
+"F7" A2 G | F2 z | c3 |"F+7" ^c3 |"Bb" d3- | d2 z |"D7" d2 c | d2 c |"Gm" B2 c | d2 z |"C7" c2 d | %21
+w: skies are|blue,|When|they're|gray;|_|When thc|sil- v'ry|moon- light|gleams.|Still I|
+ c2 B |"F7" A2 B | c2 z |"Bb6" G2 A |"Bbm6" B2 G |"F" A2 B |"D7" c2 z |"G7" G3 |"C7" c3 |"F7" c3- | %31
+w: wan- der|on in|dreams|In a|land of|love it|seems|Just|with|you.|
+ c2 z |:"Bb" D2 F |"Eb9" B2 c |"Bb" d F2 |"Bbdim" =E2"Bb" F |"Eb/Bb" G3 |"G7/B" G3 |"C7/Bb" G3- | %39
+w: _|Let me|call you|swet- heart|I'm in|love|with|you|
+ G2 z |"F7/C" A2 ^G | A2 B | c A2 |"Eb/Bb" G2 A |"Bb" F3 |"Bdim7" F3 |"F7/A" F3- | F2 z | %48
+w: _|Let me|hear you|whis- per|that you|love|me|too||
+"Bb" D2 F | B2 c | d F2 |"Bbdim" =E2"Bb" F |"Eb/Bb" G3 |"G7/B" G3 |"C7" c3- | c3 |"Eb6" c2 B | %57
+w: Keep the|love- light|glow- ing|in your|eyes|so|true|_|Let me|
+"Ebdim" A2 B |"Bb/F" d F2 |"G+" e2"G" d |"Eb/Bb" G3 |"F7/C" A3 |1"Bb" B3- |"Adim""Cm" B2"F7" z :|2 %64
+w: call you|sweet- heart|I'm in|love|with|you.|_|
+"Bb" B3- | B2 z |] %66
+w: you.|_|
+

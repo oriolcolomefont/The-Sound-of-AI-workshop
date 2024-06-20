@@ -1,0 +1,15 @@
+X:1
+T:Lakodalom van a mi utcánkba
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" EEDC EEDC | E4"G" D4 |"Fm" FEFG AFDB, | A4"G" G4 |"Cm" GG=A=B"G" cBcd |"Cm" e4"G" d4 | %6
+w: La- ko- da- lom van a mi ut-|cánk- ba,|Férj- hez megy a fa- lu- leg- szebb|lá- nya,|For- gat- ja a ka- ri- ka gyű-|rű- jét,|
+"Cm" e2 d2"G" c2 =B2 |"Cm" c3 G"G" E D3 |"Cm" C4 C4 |] %9
+w: Saj- nál- ja a|ré- gi sze- re-|tő- jét.-|
+

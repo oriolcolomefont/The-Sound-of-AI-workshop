@@ -1,0 +1,16 @@
+X:1
+T:Sárga csikó, sárga csikó, selyem nyereg
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"C" EDCG, CDEF |"G" G G3 A G3 :|"F" F2 A2 FEFD |"C" E G3 EDEC |"G" D3 C B,G,A,B, |"C" C4 C2 z2 |] %6
+w: Sár- ga csi- kó, sár- ga csi- kó,|se- lyem nye- reg,|Sej- haj, a- ki fel- ül|csu- haj, a nye- reg- be,|szá- zas le- gyen a zse-|bé- be!|
+w: Nem ül ab- ba, nem ül ab- ba|min- den gye- rek,|||||
+

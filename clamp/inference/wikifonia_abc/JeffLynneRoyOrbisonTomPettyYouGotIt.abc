@@ -1,0 +1,51 @@
+X:1
+T:You Got It
+T:You Got It
+T:By: Jeff Lynne, Roy Orbison, Tom Petty
+C:Jeff Lynne, Roy Orbison, Tom Petty
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 5
+%%MIDI program 16
+V:1
+"^Intro.""A" z8 |"C" z4"D" z4 |"A" z8 |"C" z4"D" z4 |:"^Verse""A" AAAA A2 E2 | %5
+w: ||||Ev- ry time I look in-|
+w: ||||Ev- ry time I hold you|
+"C" (=GG)(GG)"D" F2 F2 |"A" E8 |"C" z4"D" z4 |"A" (AA)AA A2 E2 |"C" =G2 G2"D" F2 F2 |"E" (FE-) E6 | %11
+w: to _ your _ lov- ing|eyes,||I _ see a love that|mon- ey just can't|buy. _ _|
+w: I be- gin to un- der-|stand||Ev- ry thing a- bout you|tells me I'm your|man. _ _|
+"G" z4 z2 A2 |"A" A6 B2 |"F#m" A6 B2 |"C#m" c6 f2 |"E" e6 A2 |"A" A6 B2 |"F#m" A6 B2 |"C#m" c6 f2 | %19
+w: One|look from|you; I|drift a-|way. I|pray that|you are|here to|
+w: I|live my|life to|be with|you. No|one can|do the|things you|
+"E" e8 |"^CHORUS""A" z2 cA"C#7" B>c- c2 |"F#m" A2 z c"D" BA z2 |"A" z2 cA"C#7" c>B- B2 | %23
+w: stay.|An- y thing you _|want, You got it!|An- y thing you _|
+w: do.||||
+"F#m" A2 z c"D" BA z2 |"A" z2 ee"C#7" =f f3 |"F#m" f2 z c"D" BA z2 |"A" e8 |"E" (ec B6) | z8 :| %29
+w: need, you got it!|An- y thing at|all, you got it,|ba-|by. _ _||
+w: ||||||
+"E" z2 ed d c3 | B8 |"E" z2 ed d c3 | B8 |"E" z2 ed d2 c2 | (e4 g4) |"A" z2 z A"C#7" GGGA | %36
+w: An- y thing you|want,|an- y thing you|need,|an- y thing at|all, *||
+w: ||||||di- di- di- di- dih|
+"F#m" z2 (a A"D" BBBA |"A" a2) z A"C#7" GGGA |"F#m" z4"D" a4 |"A" (f e3)"C#7" c B2 A | %40
+w: Oh, \_\_\_ \_\_\_ \_\_\_ \_\_\_ \_\_\_|\_\_ * * * * *|Oh,|yea, * yea, yea, yea.|
+w: * di- di- di- di- dih|* di- di- di- di- dih|(~Meas#37)|* * (~Meas#36) * *|
+"F#m" z2 z"D" c BA A/B/c/d/ |"A" e8- |"E" e8- | e2 z2 d/c/B (Bc) |"A" (B<A-) A4 c2 | %45
+w: * * * (ins- tru- men- tal)|...|...|... . . . I'm *|gla- d _ to|
+w: You got it * * * *|||||
+"F#m" (B<A-) A4 B2 |"C#m" c6 f2 |"E" e6 (Bc) |"A" (B<A-) A4 c2 |"F#m" (B<A-) A4 B2 |"C#m" c6 e2 | %51
+w: gi- ve _ my|love to|you. I *|kno- w _ you|fe- el _ the|way I|
+w: ||||||
+"E" (3(g2 f2 e2 g4) |:"^CHORUS""A" z2 cA"C#7" B>c- c2 |"F#m" A2 z c"D" BA z2 | %54
+w: do. _ _ _|An- y thing you _|want, You got it!|
+w: |||
+"A" z2 cA"C#7" c>B- B2 |"F#m" A2 z c"D" BA z2 |"A" z2 ee"C#7" =f f3 |"F#m" f2 z c"D" BA z2 | %58
+w: An- y thing you _|need, you got it!|An- y thing at|all, you got it,|
+w: ||||
+"A" e8 |"E" (ec B6) | z8 :| z2 ed d c3 | e8 | e8 | g6 z c |"A" BA z2 z4 |] %66
+w: Ba|by. _ _||an- y thing at|all,|ba-|by you|got it!|
+w: ||||||||
+

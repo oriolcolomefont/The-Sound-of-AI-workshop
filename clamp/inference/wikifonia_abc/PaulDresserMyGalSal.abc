@@ -1,0 +1,20 @@
+X:1
+T:My Gal Sal
+T:My Gal Sal
+C:Paul Dresser
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z/ F/ |"Bb" F2 F |"Eb" G B3/2"Cdim" c/ |"Bb" d3- | d2 F/F/ | F2 F |"Eb" G B3/2"Cdim" c/ | %7
+w: They|call her|friv- o- lous|Sal,|_ A pe-|cu- liar|sort of a|
+"Bb" d3- | d2 d/d/ |"D7" d ^c d | A B c |"Gm" c B A | B c d |"C7" c3 | G3 |"F7" c3- | c2 F | %17
+w: gal,|_ With a|heart that was|mel- low, an|all 'round good|fel- low was|my|old|pal.|_ Your|
+"Bb" F F2 |"Eb" G B3/2"Cdim" c/ |"Bb" d3- | d2 B/c/ |"D7" d2 d | c d c |"Gm" B3- |"Bb7" B2 B | %25
+w: trou- bles|sor- rows and|care,|_ She was|al- ways|will- ing to|share.|_ A|
+"Eb" B G B |"Bb" G F3/2 ^F/ |"G7" G F G |"Cm" E G3/2 B/ |"C7""C+" d3 |"F7" c3 |"Bb" B3- | B2 z |] %33
+w: wild sort of|dev- il, but|dead on the|lev- el, was|my|gal|||
+

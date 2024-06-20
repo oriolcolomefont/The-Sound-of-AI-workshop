@@ -1,0 +1,37 @@
+X:1
+T:Amazing Grace
+T:Amazing Grace
+T:Words and Music by John Newton, John P. Rees and Edwin Othello Excell
+C:Edwin Othello Excell
+Z:Public Domain
+L:1/8
+Q:1/4=80
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" D2 | G4 (B"G/B"G) |"G/D" B4"D7" A2 |"Em" G4"C" E2 |"G" D4 D2 | G4 (B"G/B"G) |"G/D" B4"D/C" A2 | %7
+w: 1.~~~A|maz- ing _|grace! How|sweet the|sound, that|saved a _|wretch like|
+w: 2.~’Twas|grace that _|taught my|heart to|fear, and|grace my _|fears re-|
+w: 3.~The|Lord has _|prom- ised|good to|me, His|Word my _|hope se-|
+w: 4.~Through|man- y _|dan- gers,|toils and|snares, I|have al- *|read- y|
+w: 5.~Yea|when this _|flesh and|heart shall|fail, and|mor- tal _|life shall|
+w: 6.~When|we’ve been _|there ten|thou- sand|years, bright|shin- ing _|as the|
+"G/B" d6- | d4"G" B2 | (d3 B) (dB) |"G/B" G4 D2 |"C" (E3"G/B" G)"C" (GE) |"G" D4"G/B" D2 | %13
+w: me!|_ I|once * was *|lost, but|now * am *|found, was|
+w: lieved;|_ How|pre- * cious *|did that|grace * ap- *|pear, the|
+w: cures;|_ He|will _ my _|shield and|por- * tion _|be, as|
+w: come;|_ ’Tis|grace * hath *|brought me|safe * thus *|far, and|
+w: cease;|_ I|shall _ pos- *|sess with-|in _ the _|veil, a|
+w: sun;|_ We’ve|no _ less _|days to|sing _ God’s _|praise, than|
+"Em" G4"G/D" (BG) | B4"D7" A2 |"G" G6- | G4 x2 |] %17
+w: blind, but *|now I|see.|_|
+w: hour I *|first be-|lieved!|_|
+w: long as _|life en-|dures.|_|
+w: grace will *|lead me|home.|_|
+w: life of _|joy and|peace.|_|
+w: when we _|first be-|gun.|_|
+

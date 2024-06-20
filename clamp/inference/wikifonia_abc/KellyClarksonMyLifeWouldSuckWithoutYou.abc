@@ -1,0 +1,29 @@
+X:1
+T:My Life Would Suck Without You
+T: 
+C:Kelly Clarkson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="Track 0-11"
+%%MIDI channel 2
+%%MIDI program 0
+V:1
+|:"A" C2 CC- C B,2 B,- | B,C- C6 |"D" EFFF- F E2 C- |"A" C6 z2 |"Dbm" E2 EF- F _A3 | A2 AF- F4 | %6
+w: Guess this means _ you're sor-|* ry, _|You're stan- ding at _ my door,|_|Guess this means _ you|take _ back _|
+w: Like how much _ you wan-|ted _ _|A- ny- one _ _ but me|_|Said you'd ne- * ver|come _ back, _|
+"D" F2 FF- F E2 E- |"E" E8 :|"^Refrain" z4 edcc- |"A" c6 Bc- |"F#" c6 Bc- |"D" c6 z _A- | %12
+w: all you said _ be- fore.|_|'Cause we be- long|_ to- ge-|* ther now,|_ yeah|
+w: but here you are a- gain.|_|||||
+"E" A2 z _A edcc- |"A" c6 Bc- |"F#" c6 dB- |"C#m" B6 z _A- |"E" A2 z2 edcc- |"A" c6 de- | %18
+w: _ For- ev- er un- ni-|* ted here|_ some- how,|_ yeah|_ You got a piece|_ of me,|
+w: ||||||
+"F#" e2 z2 z4 |"Bm" d4 d2 ef- |"D" f2 z2 z fee- |"A" edcc- cfee- |"F#" edcc- c2 fe- |"D" e6- ed- | %24
+w: _|and ho- nest- ly|_ my li- fe|_ my li- fe _ would suck- *|* would suck _ _ with- out|_ _ you.|
+w: ||||||
+"E" d8 |] %25
+w: _|
+w: |
+

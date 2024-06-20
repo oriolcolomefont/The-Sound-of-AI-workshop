@@ -1,0 +1,21 @@
+X:1
+T:Anytime
+T:Any time
+T:Herbert Happy Lawson
+C:Herbert Happy Lawson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z g ^g |"A7" a4- | a e f e |"D7" e2 d2- | d2 ^c d |"G7" g4- | g g g f |"C" e4- | e2 ^G A | %9
+w: An- y|time|* you're feel- ing|lone- ly|* an- y|time|* you're feel- ing|blue|* an- y|
+"F" c4- | c c d c |"C" e g3- |"A7" g2 e f |"D7" ^f3 e | d c B A |"G7" d4- | d2 g ^g |"A7" a4- | %18
+w: time|* you feel down-|heart- ted|* that will|prove your|love for me is|true|* an- y|time|
+ a e f e |"D7" e2 d2- | d2 ^c d |"G7" g4- | g g/e/ g/^f/ f |"E7" e4- | e e ^d e |"A7" a3 b | a3 e | %27
+w: * you're think- ing|'bout me|* that's the|time|* I'll be think- ing of|you|* so an- y|time you|say you|
+"D7" e e d c | A2 a _a |"G7" g3 g | f f e d |"C" c4- |"F""C" c4 |] %33
+w: want me back a-|gain that's the|time I'll|come back home to|you||
+

@@ -1,0 +1,26 @@
+X:1
+T:Whispering
+T:Whispering
+C:John Schonberger, Richard Coburn, Vincent Rose
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" E F G E |"Dm7" F"G7" E2 D |"C" C4 |"G7" G4 |"C" E F G E |"Dm" F"G7" E2 D |"C" G4- | G2 z2 | %8
+w: Hon- ey I have|some- thing to|tell|you,|And it's worth- while|list- en- ing|to.|_|
+"Em" G A B G |"Am6" A G2"B7" ^F |"Em" E4 |"Cm6" B4 |"G" B c d"G#dim7" B |"Am7" c"D7" B2 A | %14
+w: Put your lit- tle|head on my|should-|er,|So that I can|whisp- er to|
+"Dm7" d4- |"G7" d2 z2 |:"C" c2 B c | d c B c |"Cdim" B4 | A4 |"C" G2 ^F G | A G ^F G |"A+7" F4 | %23
+w: you.|_|Whis per- ing|while you cud- dle|near|me|whis- per- ing|so no one can|hear|
+"A7" E4 |"D7" E2 D E | A E D E |"G7" E4 | D4 |"C" C2 D E | G2"Cdim" A B |"Dm7" A2"G7" G B | %31
+w: me|Each lit- tle|whis- per seems to|cheer|me|I know it's|true there's no|one dear but|
+"Dm7" A2"G+7" G2 |"C" c2 B c | d c B c |"Cdim" B4 | A4 |"C" G2 ^F G | A G ^F G |"A+7" F4 |"A7" E4 | %40
+w: you You're|whis- pe- ring|why you'll nev- er|leave|me|whis- per- ing|why you'll nev- er|grieve|me|
+"D7" E2 D E | A E D E |"G7" E4 | D4 |"Dm" D"A7" E"Dm" F"A7" G |"Dm" A2"Fm6" c2 |1"C" c4- || %47
+w: whis- per and|say that you be-|lieve|me,|Whis- per- ing that|I love|you.|
+"G7" c z"G+7" z2 :|2"C""Ab7" c4- ||"C" c2 z2 |] %50
+w: |you.||
+

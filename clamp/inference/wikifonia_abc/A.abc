@@ -1,0 +1,26 @@
+X:1
+T:De Vlieger
+T:De Vlieger
+T:A.W LeRoy
+C:A.W. LeRoy
+Z:All Rights Reserved
+L:1/8
+Q:1/4=71
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z2 z2 z D |"G" d>c c>B"Em" A G2 G/F/ |"C" F>E F>E E3 E |"Am" e>d c>B B A2 A/G/ | %4
+"D7" G>F F>F F3 D/D/ |"G" D>E E>F F E2 E/D/ |"Am" E>F F>E E3 E/D/ |"A7" E>F F>G E E2 G/E/ | %8
+"D7" F>F"Em" G>^G"D7" A3 D |"G" d>c c>B A"Em" G2 G/F/ |"C" F>E F>E E3 E |"Am" e>d c>B B A2 A/G/ | %12
+"D7" G>F F>F F3 D/D/ |"G" D>E E>F E2 E/D/ z |"Am" E>F F>E E3 E/D/ |"A7" E>F F>G E E2 G/E/ | %16
+"D7" F>F"Em" G>^G"D7" A2 z D ||"G" B2 AG"Em" F3 A/G/ |"Am" A (B3"D7" B3) B | %19
+"Am" c3 B/A/"E7" (3^G2 A2 B2 |"Am" c4"D7" z2 (3z BB |"G" B2 z A/G/"Em" F3 A/G/ | %22
+"Am" A (B3"D7" B3) B |"Am" (3A2 B2 c2"D7" F A2 A/G/ |"G" G4"D7" z2 z B | %25
+"G" B3 A/G/"Em" (F2 F/)A/A/G/ |"Am" (3AB(B (B2)"D7" B3) B |"Am" c3 B/A/"E7" ^G A2 A/B/ | %28
+"Am" (3A2 B2 (c2"D7" c2) z D |"G" d3 d/d/ ^d3 =d/^d/ |"C" f e3"Am" c2 c2 | %31
+"G" B3 B/B/"D7" (3cdc B>AO |"G" G4"D7" z2S z D ||O"G"O (G8 |"G" G2) z2 z4 |] z8 | z8 |] %37
+

@@ -1,0 +1,26 @@
+X:1
+T:I Love A Rainy Night
+T:I love a rainy night
+C:Eddie Rabbit, Even Stevens, David Malloy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z GAB- |:"C" BAAG G2 z A | _BAAG G2 z A | _BAAG GCBB | _BA z F F (3AAA z |"F" AGF z z4 | %6
+w: Well I love|* a rain- y- night I|love a rain- y night I|love to hear the thun- der, watch the|light- ning when it lights up the|sky * *|
+ z C (3ccc- c2 CA |"C" AG- G2 z4 | z4 z GA_B- ||"C" _BAAG GCAA | _BBAG- GABC | _B2 CB- =BGGB- | %12
+w: You know it makes * me feel|good * *|well I love|* a rain- y- night its such a|beau- ti ful sight * I love to|feel the rain * on my face|
+ B2 F2 F2 (3AAA |"F" AGF F2 z z2 | z ccc- c2 C2 |"C" EG- G2 z4 | z8 |"G" z ddd- dd d2 | %18
+w: * taste the rain on my|lips * * *|in the moon * light|shad- ows *||Show- ers washed * all my|
+"Am" z ecc- c2 z2 |"F" z ccc- cA G2 |"G" z eed- dcce- ||"C" eddc c2"F" z2 |"G" z4 z cce- | %23
+w: cares a- way *|I wake up * to a|sun- ny day * cos I love|* a rain- y night|Yeah I love|
+"C" eddc c2 z c |1"F" z2"G" z d z2 A_B :|2"F" z2 z d"G" z"^D.S.alCoda" GA_B || e"^Coda"ddc c2 z2 | %27
+w: * a rain- y night Ooh|Ooh I love|Ooh well I love|* a rain- y night|
+ z4 z cce- |:"C" eddc c2 cA |"C" cccd- dccc/e/ | z/ e/ddc cAcg- | %31
+w: well I love|* a rain- y night you can|see it in my * eyes yeah I love|* a rain- y night cos it makes|
+"F" g e2"G" d- d"^Repeat"cc"^andfade"e :| %32
+w: * me high * well I love|
+

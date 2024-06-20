@@ -1,0 +1,22 @@
+X:1
+T:Tarantella
+T:Tarantella
+C:Italian Traditional
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z3 g2 g |"Gm" d2 d g2 g | d3 c2 d |"Cm" e2 e efe |"Gm" d3 d2 e |"D7" d2 c c2 d |"Gm" c2 B B2 c | %7
+"D7" B2 A B2 A |"Gm" G2 z g2 g | d2 d g2 g | d3 c2 d |"Cm" e2 e efe |"Gm" d3 d2 e |"D7" d2 c c2 d | %14
+"Gm" c2 B B2 c |"D7" B2 A B2 A |"Gm" G2 z d2 e |"Bb" f2 f g2 f |"F7" e2 d c2 d | e2 e f2 e | %20
+"Bb" d2 c B2 d |"G7" f2 f g2 f |"Cm" e2 d c2 d |"F7" efe d2 c |"Bb" B2 z d2 e | f2 f g2 f | %26
+"F7" e2 d c2 d | e2 e f2 e |"Bb" d2 c B2 d |"G7" f2 f g2 f |"Cm" e2 d c2 d |"F7" efe d2 c | %32
+"Bb" B2 z"Gm" G2 A | BAB"Cm" cBA |"Gm" BAB"Cm" cBA |"Gm" BAG"D7" ^FGA |"Gm" G2 z G2 A | %37
+"Gm" BAB"Cm" cBc |"Gm" dcd"Cm" edc |"Gm" BAG"D7" ^FGA | G2 z G2 A | BAB"Cm" cBA |"Gm" BAB"Cm" cBA | %43
+"Gm" BAG"D7" ^FGA |"Gm" G2 z G2 A |"Gm" BAB"Cm" cBc |"Gm" dcd"Cm" edc |"Gm" BAG"D7" ^FGA | %48
+"Gm" G2 z"F7" =FGA |"Bb" BAB d^cd | f2 f fgf |"F7" f2 e efe |"Bb" e2 d FGA | BAB d^cd | f2 f f=ef | %55
+"F7" agf _edc |"Bb" B3 B2 z |] %57
+

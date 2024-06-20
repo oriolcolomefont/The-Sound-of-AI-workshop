@@ -1,0 +1,32 @@
+X:1
+T:The Twelfth Of Never
+T:The Twelfth Of Never
+T:Jerry Livingston
+T:Paul Francis Webster
+C:Jerry Livingston
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z D |"G" D D D D |"Em" E G2 A |"C" G2 E2 |"G" D3 G |"D7" A A A A |"Gmaj7" B d2 e | %7
+w: You|ask how much I|need you, must|I ex-|plain? I|need you, oh, my|dar- ling, like|
+"Am7" d2 d B |"D7" A3"Am7" G |"D7" A A A A |"Gmaj7" B d2 e |"G6" d2"Gmaj7" B2 |"Am7""D7" A3 B | %13
+w: ros- es need|rain. You|ask how long I'll|love you, I'll|tell you|true, Un-|
+"Em" A G E D |"C" E G2 A |"Am7" G G"D7" E E |"G" G4 |"Am7""D7" d3 c |"Gmaj7" B4 | %19
+w: til The Twelfth Of|Nev- er, I'll|still be lov- ing|you.|Hold me|close,|
+"Am7" e d"D7" d3/2 c/ |"G" B4 |"B+7" B3"B7b9" A |"Em" G4 |"A7" B A A3/2 G/ | %24
+w: nev- er let me|go;|Hold me|close,|melt my heart like|
+"D7" F"Am7" e"D7" d3/2 D/ |"G" D D D D |"Em" E G2 A |"C" G2 E2 |"G" D3 G |"D7" A A A A | %30
+w: A- pril snow. I'll|love you 'till the|blue- bells for-|get to|bloom, I'll|love 'tillyou 'till the|
+"Gmaj7" B d2 e |"Am7" d2 d B |"D7" A3"Am7" G |"D7" A A A A |"Gmaj7" B d2 e | d2"G6" B2 | %36
+w: clo- ver has|lost it's per-|fume. I'll|love you 'till the|po- ets run|out of|
+"Am7""D7" A3"B7" B |"Em" A G E D |"C" E G2 A |"Am7" G G"D7" E E |"G" G3 B |"Em" A G E D | %42
+w: rhyme, Un-|til The Twelfth Of|Nev- er, And|that's a long, long|time; Un-|till The Twelfth Of|
+"C" E G2 G |"Am7" A2 A2 |"D7b9" c2"D7" B2 |"^Gmaj7" (d4 |"G" d3) z |] %47
+w: Nev- er, And|that's a|long, long|time-|.|
+

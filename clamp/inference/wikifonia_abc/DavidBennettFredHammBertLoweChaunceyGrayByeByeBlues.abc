@@ -1,0 +1,20 @@
+X:1
+T:Bye Bye Blues
+T:Bye Bye Blues
+C:David Bennett, Fred Hamm
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" e4 | G4 |"Ab" _A4- | A4 |"C" e4 |"B7""Bb7" G4 |"A7" A4- | A4 |"D9" e4 |"D7" A4 |"G7" e4 | %11
+w: Bye|bye|blues,|_|bye|bye|blues.|_|Bells|ring,|birds|
+"G7b9" B4 |"Cmaj9" d2 c2 |"Ebdim7" B2 A2 |"Dm7" c2"G7" B2 |"Dm7" A2"G+7" G2 |"C" e4 | G4 | %18
+w: sing,|sun is|shin- ing.|No more|pin- ing,|just|we|
+"Ab7" _A4- | A4 |"C" e4 |"B7""Bb7" G4 |"A7" A4- | A4 |"D9" e4 |"D7" A4 |"G7" e4 |"G7b9" B4 | %28
+w: two|_|smil-|ing|thru.|_|Don't|sigh,|don't|cry,|
+"C" c4 |"Ab7" _A4 |1"C" c4- || c z"G7" z2 :|2"C""F7" c4- ||"C" c z z2 |] %34
+w: bye|bye|blues.|_|blues.|_|
+

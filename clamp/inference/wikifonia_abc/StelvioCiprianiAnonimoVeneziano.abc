@@ -1,0 +1,22 @@
+X:1
+T:Anonimo Veneziano
+T:Anonimo Veneziano
+T:Stelvio Cipriani
+C:Stelvio Cipriani
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F+7""^Lento" E/F/E/D/ E/F/E/D/ E/F/E/D/ E/F/E/D/ |"Bb+7" E/F/A/F/ E/F/A/F/ E/F/A/F/ E/F/A/F/ | %2
+"F+7" E/F/E/D/ E/F/E/D/ E/F/E/D/ E/F/E/D/ |"Bb+7" E/F/A/F/ E/F/A/F/ E/F/A/F/ E/F/A/F/ | %4
+"F+7" [A,CE][A,CE][A,CE][A,CE] [A,CE][A,CE][A,CE][A,CE] | %5
+ [A,CE][A,CE][A,CE][A,CE] [A,CE][A,CE][A,CEe][A,CE] |"Gm7" fBBf f4- |"C7" f2 e2 d2 c2 | %8
+"F+7" eAAe e4- | e2 A2 c2 d2 |"Cm7" _eGG_e _e4- |"F+7" _e2 d2 c2 B2 |"Bb+7" d8- | d2 A2 B2 c2 | %14
+"Ebm7" _d_G_Gd d4- |"Ab7" _d2 c2 B2 _A2 |"Db+7" cFFc c4- | c2 F2 _A2 B2 |"C#m7" =B=EEB B4- | %19
+"F#7" =B2 ^A2 ^G2 ^A^F |"B+7" ^D6- ^D^C | ^D6 z2 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %31
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 |] %41
+

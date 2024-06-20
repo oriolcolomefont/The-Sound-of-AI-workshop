@@ -1,0 +1,40 @@
+X:1
+T:Colors Of The Wind
+T:Colors Of The Wind
+C:Alan Menken
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z3 A, |"D" FAAF FEED |"Bm" E2 B,4 z A, |"D" FAAF FEED |"F#m" F6 z A |"Bm" BAAF FEED | %6
+w: You|think you own what- ev- er land you|land on: the|earth is just a dead thing you can|claim; but|I know ev 'ry rock and tree and|
+"G" E2 D4 DF |"Em" E2 DE"A9sus4" FAEF |"Bm" B,6 z A, |"D" FAAF FEED |"Bm" E2 B,4 A,A, | %11
+w: crea- ture has a|life, has a spir- it, has a|name. You|think the on- ly peo- ple who are|peo- ple are the|
+"D" F A2 F FEED |"F#m" A6 z A |"Bm" BAAF FEED |"G" E2 B,4 DF |"Em7" EDEF"A9sus4" EDB,D | %16
+w: peo- ple who look and think like|you, ~but|if you walk the foot- steps of a|strang- er you'll learn|things you nev- er knew you nev- er|
+"D" D4- D z FA |"Bm" dccB BAFE |"F#m" F2 A2"G" B3 A |"Bm" dccB BAAF |"F#m" A6 FA | %21
+w: knew. _ Have you|ev- er heard the wolf cry to the|blue corn moon, or|asked the grin- ning bob- cat why he|grinned? Can you|
+"G" dccB"A" BAAB |"D/F#" A2"Bm7" D4 B,D |"G6" EFFE EDDB, |"Bm7" E4- E z B,D |"Em7" EFFE"A9" EDDB, | %26
+w: sing with all the voi- ces of the|moun- tain? Can you|paint with all the col- ors of the|wind? _ Can you|paint with all the col- ors of the|
+"D" D8 |"Bm" z4 z2 z A, |"D" FAAF FEED |"Bm" E2 B,4 z A, |"D" FAAF FEED |"F#m" F6 z A | %32
+w: wind?|Come|run the hid- den pine trails of the|for- est, come|taste the sun- sweet ber- ries of the|earth: come|
+"Bm" BAAF"Bm/A" FEED |"G" E2 D4 DF |"Em7" E2 DE"A9sus4" FAEF |"Bm" B,6"A" z A, |"D" FAAF FEED | %37
+w: roll in all the rich- es all a-|round you, and for|once nev- er won- der what they're|worth. The|rain- storms and the riv- ers are my|
+"Bm" E2 B,4 z A, |"D" FAAF FEED |"F#m" A6 z A |"Bm" BAAF FEED |"G" E2 B,4 DF | %42
+w: broth- ers; the|her- ron and the ot- ter are my|friends; and|we are all con- nect- ed to each|oth- er in a|
+"Em7" E D2 D/F/"A9sus4" EDB,D |"D" D6 z2 |"F#m" A4"G" c3 B/A/ |"D/F#" A/B/ A3"Bm" D2 B,D | %46
+w: cir- cle, in a hoop that nev- er|ends.|How high does the|syc- a- more grow? If you|
+"C" E2 FE- E2 B,D |"G/A" F3 E"A" E4- |"G/A" E4"A""G/A" F2"A" A2 |"Bm" dccB B A2 F/E/ | %50
+w: cut it down, _ then you'll|nev- er khnow.|_ And you'll|nev- er hear the wolf cry to the|
+"F#m" F2 A2"G" B3 A |"Bm" dccB BAAF |"F#m" A4 z FFA |"G" dccB"A" BAAB |"D/F#" A2 D2"Bm" z2 B,D | %55
+w: blue corn moon, for|wheth- er we are white or cop- per|skinned, we need to|sing with all the voi- ces of the|moun- tain, need to|
+"G6" EFFE EDDB, |"Bm7" E4 z2 B,D |"Em" EFFE"A" E2 DE |"F#m" FAFA"G" B2 AB | %59
+w: paint with all the col- ors of the|wind. You can|own the earth and still all you'll|own is earth un- til you can|
+"Bm" !fermata!dcBA"Gmaj7" FE"G/A"!fermata!D!fermata!B, |"D" D8- |"Bm" D8 |"G" z4"Em7/A" z4 | %63
+w: paint with all the col- ors of the|wind.|_||
+"D" z8 |] %64
+w: |
+

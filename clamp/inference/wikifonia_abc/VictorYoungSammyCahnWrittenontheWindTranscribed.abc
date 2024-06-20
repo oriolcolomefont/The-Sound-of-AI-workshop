@@ -1,0 +1,32 @@
+X:1
+T:Written on the Wind (Transcribed)
+T:Written on the Wind
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"G7" z2 GG GG GG |"C " g4 e4 | z2 G2 GG GG |"Emin" G8- |"G7" G2 D2 E2 F2 |"Ebdim" ^F3 A"C " G4- | %6
+w: ||A faith- less lo- ver's|kiss|* is writ- ten|on the wind|
+ G2 G2 GG GG |"Emin" G8- |"G7" G2 D2 E2 F2 |"Ebdim" ^F3 A"C " G4- | G2 G2 A2 B2 |"Amin" c3 c c4- | %12
+w: * a night of sto- len|bliss|* is writ- ten|on the wind|* Just like the|dy- ing leaves|
+ c2 c2"G7" d2 c2 |"F " A3 A"Dmin" A3 B |"Emin" G8 |"F " A3 A"Dmin" A3 B |"Emin" G8 | %17
+w: * our dreams we've|calm- ly thrown a\-|way|Now they've blown a\-|way|
+"F " F3 F"Dmin" F3 G |"G7" D2 G2 GG GG |"Emin" G8- |"G7" G2 D2 E2 F2 |"Ebdim" ^F3 A"C " G4- | %22
+w: soft- ly flown a\-|way. The pro- mi- ses we've|made|* are wis- pers|in the breeze.|
+ G2 G2 GG GG |"Emin" G8- |"G7" G2 D2 E2 F2 |"Ebdim" ^F3 A"C " G4- | G2 G2 A2 B2 |"Amin" c3 c c4- | %28
+w: * They e\- cho and they|fade|* just like our|me- mo- ries.|* Though you are|gone from me|
+ c2 c2"G7" dc- cd |"Fmaj7" f2 e2"Dmin7" d2 c2 |"Emin" B6 A2 |"C " GG GG G4- |"G7" G2 G2 GG GG | %33
+w: * we ne- ver * can|real- ly be a\-|part. What's|writ- ten on the wind|* is writ- ten in my|
+"C " G8- | G2 G2 GG GG |"Emin" G8- |"G7" G2 D2 E2 F2 |"Ebdim" ^F3 A"C " G4- | G2 G2 GG GG | %39
+w: heart.||||||
+"Emin" G8- |"G7" G2 D2 E2 F2 |"Ebdim" ^F3 A"C " G4- | G2 G2 A2 B2 |"Amin" c3 c c4- | %44
+w: |||* Though you are|gone from me|
+ c2 c2"G7" dc- cd |"Fmaj7" f2 e2"Dmin7" d2 c2 |"Emin" B6 A2 |"C " GG GG G4- |"G7" G2 G2 GG GG | %49
+w: * we ne- ver * can|real- ly be a\-|part What's|writ- ten on the wind|* is writ- ten in my|
+"C " G8- |"G7" G2 G2 GG GG |"C " G8- |"G7" G2 GG GG GG |"C " g8- | g8 |] %55
+w: heart\_|* is writ- ten in my|heart.||||
+

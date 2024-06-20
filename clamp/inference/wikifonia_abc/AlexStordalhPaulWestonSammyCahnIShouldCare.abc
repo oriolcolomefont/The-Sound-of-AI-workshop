@@ -1,0 +1,35 @@
+X:1
+T:I Should Care
+T:I Should Care
+T:Alex Stordalh, Paul Weston, Sammy Cahn
+T:All Rights Reserved
+C:Alex Stordalh, Paul Weston, Sammy Cahn
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C9" G/G/"G/B"G/G/"Am7" c/c/ c |"Dm7" D/D/D/D/"G13" G/G/ G |"Am7" C/C/C/C/"Dm7" E"G7b9" D | %3
+w: I know I should pi- ty me,|but I don't be- cause you see,|I have loved and I have|
+"Cmaj9" G4 |"D9#11" ^G/G/G/G/"D9" A"F#13" ^A |"G13" B4 |:"Dm7" c3"G7" B |"Cmaj7" B4 | %8
+w: learned|and as far as I'm con-|cerned:|I should|care,|
+"Dm7" z A/B/"F/G" (3c B A |"Cmaj7" B B3 |"Em7b5" _B3 A |"A7sus4" A-"A7" A3 |"Dm7" z E/F/ (3G D E | %13
+w: I should go a- round|weep- ing.|I should|care *|I should go with- out|
+"Dm7b5" F F3 |"Am" (3E F E F E |"E7sus4" E"E7" E3 |"C7" (3E F E G F |"Fmaj7" E4 | %18
+w: sleep- ing.|Strange- ly e- nough I|sleep well|'cept for a dream or|two,|
+"Bm7b5" (3D E D"E7b9" F E |"Am" C C3 |"D7" (3D E C D E |"F/G" (3A B G"Dm7" A"G6" B | %22
+w: but, then, I count my|sheep well.|Fun- ny how sheep can|lull you to sleep. So,|
+"Dm7" c2-"G7" c B |"Cmaj7" B4 |"Dm7" z A/B/"F/G" (3c B A |"Cmaj7" B B3 |"Em7b5" _B3 A | %27
+w: I * should|care.|I should let it up-|set me.|I should|
+"A7sus4" A-"A7" A3 |"Dm7" z E/F/ (3G D E |"Dm7b5" F F3 |"Am" (3E F E"A7#5" F"A7" E | %31
+w: care *|but it just does- n't|get me.|May- be I won't find|
+"Dm7" G F-"E7" F E |"Amaj" B ^G-"Am/G" G A |"D7" d3"Ebm7" _d |"Dm7" c3 A |"G7" B3 A/B/ |1 %36
+w: some- one * as|love- ly * as|you, but,|I should|care and I|
+"C" c3-"Am7" c- |"Dm7" c z"Fm7" (3z"F" z"Em7" z :|2"C" c4- ||"Fmaj7" c2-"Db" c2- |"Cmaj7" c4- | %41
+w: do. *||do.|||
+ c3 z |] %42
+w: |
+

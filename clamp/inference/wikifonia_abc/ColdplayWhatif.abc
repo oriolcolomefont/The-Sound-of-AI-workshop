@@ -1,0 +1,67 @@
+X:1
+T:What if
+C:Coldplay
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:1
+"F#m" z2 c/cc/-"A" c c2c |"Bm74" BA/F/- F2 z4 |"E7" z2 G/AB/- B2 B<c |"D" AG/F/- F2 z4 | %4
+w: What if there _ was no|light _ _ _|No- thing wrong _ no- thing|right _ _ _|
+w: ||||
+w: ||||
+"F#m" z2 c/cc/-"A" c c2c |"Bm74" BA/F/- F2 z4 |"E7" z2 G/AB/- B B2c |"D" AG/F/- F2 z4 | %8
+w: What if there _ was no|time _ _ _|and no rea- * on or|rhyme? _ _ _|
+w: ||||
+w: ||||
+"Bm7" z2 d/dd/- d d2d/B/- |"E7" B/A/G- G2 z2 Ed/c/- |"F#m" c>B- BA/F/-"D" F>E- ED/B,/- | %11
+w: What if you _ should de- cdie|_ _ _ _ that you don't|_ want _ me there _ by _ your side|
+w: |||
+w: |||
+"E7" B,2 z2 z2 Ed/c/- |"F#m" c>B- BA/F/-"D" F>E- ED/B,/- |!8vb(!"E7" D6 D<D | %14
+w: _ that you don't|_ want _ me there _ in _ you life|_ _ _|
+w: |||
+w: |||
+ E,4 E,2 E,>F,!8vb)! |:"F#m" z2 c/cc/-"A" c2 c<c |"Bm74" BA/F/- F2 z4 |"E7" z2 G/AB/- BB- B<c | %18
+w: |What if I _ got it|wrong _ _ _|and no po- _ em * or|
+w: |Ev- 'ry step _ that you|take _ _ _|could be your _ big- _ gest|
+w: ||||
+"D" AG/F/- F2 z4 |"F#m" z2 c/cc/-"A" c>E c<c |"Bm74" BA/F/- F2 z4 |"E7"z>E G/AB/- B B2c/A/- | %22
+w: song _ _ _|could put right _ what I got|wrong _ _ _|or make you feel _ I be- long|
+w: mis- take _ _|It could bend _ or it could|break _ _ _|_ that's the risk _ that you take|
+w: ||||
+"D" A/G/F z2 z4 |"Bm7"z>F d/dd/- d2 dd/B/- |"E7" B/A/G- G2 z2 Ed/c/- | %25
+w: _ _ _|and what if you _ should de- cide|_ _ _ _ that you don't|
+w: _ _ _||* * * * that you don't|
+w: |||
+"F#m" c>B- BA/F/-"D" F>E- ED/B,/- |"E7" B,2 z2 z2 Ed/c/- |"F#m" c>B- BA/F/-"D" F>E- ED/B,/- | %28
+w: _ want me there _ _ by your _ side|_ that you don't|_ want * me there * in * your life?|
+w: _ want me there _ _ in your _ life|_ that you don't|_ want _ me there _ by _ your side|
+w: |||
+!8vb(!"E7" DE,DE, DE,DE, | D2 D2 D2 G/A/G!8vb)! ||"D" a3b/f/- f2zf |"Bm7" a3b/f/- f2 z2 | %32
+w: _ _ _ _ _ _ _ _||Ooh _ _ _ that's|right _ _ _|
+w: _ _ _ _ _ _ _ _||||
+w: ||||
+"F#m7"zf ff f2 f2 |"Esus4" fece-"E" e f2 z |"D" a3b/f/- f2zf |"Bm7" a3b/f/- f2 z2 | %36
+w: let's take a breath jump|ov- er the side _ _|Ooh _ _ _ that's|right _ _ _|
+w: ||||
+w: ||||
+"F#m7"za aa aa"_when"aa |"Esus4" gec"E"e-"^3rd" e"^time" f2O"^to" z |1"D" a3b/f/- f2zf | %39
+w: how can you know it if you|don't e- ven try? _ _|Ooh _ _ _ that's|
+w: how can you know it * you|don't e- ven try? _ _|_ _ _ _|
+w: you know that dark- ness al- ways|turns in- to light. _ _|_ _ _ _|
+"Bm7" a3b/f/- f2 z2 :|2"G" a3b/f/- f2zf ||"D" a3b/f/- f4 |"E" e4"Esus4" z4 | %43
+w: right _ _ _|Ooh _ _ _ that's|right _ _ _|_|
+w: ||||
+w: ||||
+"E" z4"^Go""^to" e2 f2 |O"G" a3b/f/- f2zf |"D" a3b/f/- f4 |"E" g4 E2 E2 | G2 G2 G2 G2 | %48
+w: ooh _|ooh _ _ _ that's|right _ _ _|_ _ _||
+w: |||||
+w: |||||
+ G2 G2 G2 G2 | G2 G2 G2 G2 | !fermata!B8 |] %51
+w: |||
+w: |||
+w: |||
+

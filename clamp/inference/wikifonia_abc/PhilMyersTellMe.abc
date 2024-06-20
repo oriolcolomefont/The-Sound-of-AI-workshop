@@ -1,0 +1,36 @@
+X:1
+T:Tell Me
+T:Tell Me
+T:Phil Myers
+T:© Phil Myers 2011
+C:Phil Myers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Cmaj7""^A(slow)" E G-"Db7b5" G E/G/ |"Dm7" A G"Dbmaj7" G2 |"Cmaj7" E G-"A7b5" G3/2 E/ | %3
+w: Tell me * you feel|good to- day,|tell me * that|
+"Dm7" A G"Bb7" G2 |"Cmaj7" E G-"Db7b5" G3/2 (E/ |"Dm7" A) G"Dbmaj7" _E2 |"Cmaj7" D D"Am7" D C | %7
+w: I should stay,|tell me * you|want to say|some- thing from your|
+"^C7sus4" E/F/_G/=G/-"C7" G _A |"Fmaj7""^B(slow)" A c-"Gb7b5" c3/2 (A/ |"Gm7" d) c"Gbmaj7" c2 | %10
+w: heart _ _ _ _ _|Show me * your|spark- ling- eyes,|
+"Fmaj7" A c-"D7b5" c A/c/ |"Gm7" d c"Eb7" c2 |"Fmaj7" A c-"Gb7b5" c A/c/ |"Gm7" d c"Gb9" _A2 | %14
+w: tease me, * make my|spi- rits rise,|Hold me * 'til I|re- a- lize|
+"Fmaj7" G3/4G3/4G3/4G3/4F/>G/- | G/"F7"A3/4_B3/4 =B3/4"Cm7"c3/4-c/ | %16
+w: I can- not bear to be|* so far a- part, *|
+"Fmaj7""^C(swing)"{d}"Fmaj7" e d"F6" c A |"D9" e d"D7" c2 |"C6" e d"Cmaj7" c A | %19
+w: take a lit- tle|walk with me,|sing a Gersh- win|
+"Dm13" e d"C7b5" c2 |"Fmaj7" e d"F6" c A |"D9" e d"D7" c3/2"^rit." A/ | %22
+w: mel- o- dy,|Rain may fall e-|ven- tual- ly, but|
+"C6" e"^." e/A/"Cmaj7" e"^." A |"Dm69" e2 G2 |"Cmaj7""^D(swing)" E G-"Db7b5" G E/G/ | %25
+w: we'll make a sun- ny|start, so|tell me * you feel|
+"Dm7" A G"Dbmaj7" G2 |"Cmaj7" E G-"A7b5" G3/2 E/ |"Dm7" A G"Bb7" G2 |"Cmaj7" E G-"Db7b5" G3/2 E/ | %29
+w: good to- day,|tell me * that|I should stay,|tell me * you|
+"Dm7" A G"Dbmaj7" _E2 |"Cmaj7" D D"Am7" D C |"Dbmaj7" E E"Db7" E D |"Bb7" G G"G7b9" G A | %33
+w: want to say|some- thing from your,|some- thing from your,|some- thing from your|
+"Cmaj7" B4 |"^(Db7b5)" z4 | z4 |] %36
+w: heart.|||
+

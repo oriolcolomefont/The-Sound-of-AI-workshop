@@ -1,0 +1,33 @@
+X:1
+T:Teardrops
+C:Roy Calhoun
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Acoustic Grand Piano" snm="Pno"
+%%MIDI program 0
+V:1
+"C7" z4 z2 A2 |"F " FF- (3FFG"Dmin7" F3 (3:2:2D/D |"Gmin7" A A2 A/c/"C7" A2 z A | %3
+w: I|sit in * my * room look- ing|out at the * rain. My|
+"F " FF- (3FGA"Dmin7" G/F/ D2 D |"Gmin" A/A/A- AA/G/"C7" A2 AB |"F " cA cA"Dmin7" GF FF | %6
+w: tears are * like * crys- * tals they|cover * my win- dow * pane. I'm *|think- ing of our lost ro- mance and|
+"Gmin" dd- dd/B/"C7" G4 |"G7" z F- (3FDD (3:2:2F2 F DD |"Gmin7" A A2 G"C7" A2 A/B/=B | %9
+w: how it * should have been.|Oh * if we on- ly could start|ov- er a\- gain. I * *|
+"F " cA c/c/A"Dmin" GF (3:2:2F2 F |"Gmin" DD- DB/G/"C7" E2 z A/B/ |"F " cA cA"Dmin7" G F2 F | %12
+w: know you'll ne- ver for- give me dear for|run- ning * out on you. I was|wrong to take a ch- ance with|
+"Gmin" dd- dB"C7" G2- GA |"F " FF- (3FFG"Dmin7" F3 (3:2:2D/D |"Gmin" AA- Ac"C7" A2 z A | %15
+w: some- bo- * dy new. * I|sit in * my * room look- ing|out at * the rain. My|
+"F " FF- (3FGA"Dmin7" G/F/ D2 F/D/ |"Gmin" (3GG"C7"G A"F "A F2 z F |"Amin" EE (3EEE (3EEE- EE | %18
+w: tears are * like * crys- * tals they *|co- ver my win- dow pane. I|know you'll ne- ver for- give me dear * for|
+"Gmin" (3DDD-"C7" DD E3 z |"F " z c cB"Dmin" AG FF |"Gmin" dd- d"C7"d/B/ G2 z A | %21
+w: run- ning out * on you.|Oh how I long to do the|things we * used to do. I'm|
+"F " FF- FF/G/"Dmin7" F2- FD/D/ |"Gmin" AA (3AcA-"C7" A2- (3ACD |"F " F4"Dmin7" z G A/G/F | %24
+w: lone- ly * and I'm blue * and I'll|try to get a\- long * * with- out|you. Oo oo oo oo|
+"Gmin" G2"C7" A2"F " F2 z2 |"F " A4"Bb " B4 |"F " A4"Bb " B4 |"F6" AA- A6 |"Gb " BB- B6 | %29
+w: oo oo oo|Ah Ah|Ah Ah|Tear- * drops!|Tear- * drops!|
+"F " z A- Ac/d/"Dmin" ee- e2 |"Gmin" (3:2:2d2 D- DF/G/"C7" A4 |"F " z A- Ac/d/"D7" e2- ed | %32
+w: I'll have * gain * faith *|hope and * cha- ri- ty.|God on- ly * knows * the|
+"Gmin" cD FG"C7" A/c/ A3 |"Gmin7" F2 DD FF DD |"C7" AA- A4 z B |"F " c4"Bb " d2 B2 |"F " c4 z4 |] %37
+w: girl who will love me. * *|Oh if we on- ly could start|o\- ver * a\-|g\- a\- i\-|n|
+

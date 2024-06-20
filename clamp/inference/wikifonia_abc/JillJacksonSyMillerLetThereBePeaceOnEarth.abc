@@ -1,0 +1,30 @@
+X:1
+T:Let There Be Peace On Earth
+T:Let There Be Peace On Earth
+C:Jill Jackson
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C3 |"Am" C2 B, |"Dm7" C2 D |"G7" E2 F |"C" G C"F" A |"C" G2 C |"Dm" D3- |"G7" D3 |"C" E3 | %9
+w: Let|there be|peace on|earth, and|let it be-|gin with|me.|_|Let|
+ E2 E |"B7" ^F2 G | A2 c |"Em" B G A |"B7" B2 c |"G9" B3- | B2 G |"Am" c3 | A2 c |"Em" B G2- | %19
+w: there be|peace on|earth, the|peace that was|meant tot|be.|_ With|God|as our|Fath- er,|
+"C7" G3 |"F" A2 A |"G7" G2 F |"C" G3- | G3 |"Am7" G2 E | ^F G A |"G" B D2- | D2 D |"Am7" c2 c | %29
+w: _|broth- ers|all are|we;|_|Let me|walk with my|broth- er|_ in|per- fect|
+"D7" B2 A |"G7" G3- | G3 ||"C" C3 |"Am" C2 B, |"Dm7" C2 D |"G7" E2 F |"C" G C"F" A |"C" G2 C | %38
+w: har- mo-|ny.|_|Let|peace be-|gin with|me, let|this be the|mo- ment|
+"Dm" D3- |"G7" D3 |"C" E3 | E2 E |"B7" ^F2 G | A2 c |"Em" B G A |"B7" B2 c |"G9" B3- | B2 G | %48
+w: now.|_|With|ev- 'ry|step I|take, let|this be my|sol- emn|vow:|_ To|
+"C" c2 c | c B c |"C+" c2 c | c B3/2 c/ |"F" c2 c |"Bdim" B2"Am" c |"D7" d3- | !fermata!d3 | %56
+w: take each|mo- ment and|live each|mo- ment in|peace e-|ter- nal-|ly.|_|
+"C" c3 |"E7" B2 d |"F" c2 A |"C" G2"C7" G |"F" A"E7" B"Am" c |"Dm7" d-"G7" d"Dm7" c |"Csus4" c3- | %63
+w: Let|there be|peace on|earth and|let it be-|gin _ with|me.|
+"C" !fermata!c3 |] %64
+w: _|
+

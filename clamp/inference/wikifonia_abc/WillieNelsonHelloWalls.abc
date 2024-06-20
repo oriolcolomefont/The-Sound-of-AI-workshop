@@ -1,0 +1,34 @@
+X:1
+T:Hello, Walls
+T:Hello Walls
+T:Willie Nelson
+C:Willie Nelson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"^Country Beat" G/ C3/2 |:"C" E4- | E2"C7" E G |"F" G3/2 F/ C3/2 A,/ |"C" G,2 G C | E E3- | %6
+w: Hel- lo|walls,|* how'd things|go for you to-|day? don't you|miss her|
+w: |window|* well, I|see that you're still|here aren't you|lone- ly|
+ E2 E E |"D7" D ^F A F |"G7" G2 A"Dm7" c |"F" c c A c | d c B A |"C" A G E C | E3 G |"F" A c F A | %14
+w: * since she|up and walked a-|way? and I'll|bet you dread to|spend an- oth er|lone- ly night with|me but,|lone- ly walls, I'll|
+w: * since our|dar- ling dis- ap-|peared well, look|here is that a|tear- drop in the|corn- er of your|pane? now|don't you try to|
+"C" G E"G7" F D |1"C" C4- | C z G/ C3/2 :|2"C" C4- || C2 C/E/F/E/ ||"G7" D3/2 ^C/ D E | F A G2 | %21
+w: keep you com- pan-|y|* Hel- lo|rain|* she went a- way|and left us all|a- lone *|
+w: tell me that it's|||||||
+"C" z G, C D | E3 E/E/ |"D7" D E ^F3/2 G/ | A ^F E3/2 D/ |"G7" A G F B, | D2 G/ C3/2 | %27
+w: the way she|planned, guess we'll|have to learn to|get a- long- with-|out her if we|can Hel- lo|
+w: ||||||
+"C" D/ E3/2- E2- | E z/ E/"C7" E G |"F" G3/2 F/ C3/2 A,/ |"C" G, z/ G/ G C | E E3- | E z/ E/ E E | %33
+w: cei- ling *|* I'm gon- na|stare at you a-|while, you know I|can't sleep|* so won't you|
+w: ||||||
+"D7" D ^F A F |"G7" G2 A"Dm7" c |"F" c2 A c | d c B A |"C" A G E C | E2 E/E/G/G/ |"F" A c F A | %40
+w: bear with me a-|while? we must|all pull to-|geth- * er or|else I'll lose my|mind cause I've got a|feel- ing she'll be|
+w: |||||||
+"C" G E"G7" F D |"C" C4- | C4 |] %43
+w: gone a long long|time.||
+w: |||
+

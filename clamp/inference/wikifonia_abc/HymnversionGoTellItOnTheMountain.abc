@@ -1,0 +1,29 @@
+X:1
+T:Go Tell It On The Mountain
+T:Go, Tell It On The Mountain
+T:African-American Spiritual Verses by John W. Work, Jr.
+T:©
+C:Hymn version
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" e2"F" e/d/c/A/ |"C" G2 c2 |"G" d/ d d/"F" c d |"C" e/d/e/d/ c2 | e2"F" e/d/c/A/ | %5
+w: Go, tell it on the|moun- tain,|O- ver the hills and|ev- * 'ry _ where;|Go, tell it on the|
+w: |||||
+w: |||||
+"C" G2"Am" c c |"Dm" d d e/c/"G7" d |"C" c3 c | e g g3/2 a/ | g e2 c |"F" d d c d |"C" e3 c | %12
+w: moun- tain That|Je- sus Christ * is|born. While|shep- herds kept their|watch- ing O'er|si- lent flocks by|night, Be-|
+w: ||* The|shep- herds feared and|trem- bled When,|lo! a- bove the|earth Rang|
+w: ||* Down|in a low- ly|man- ger The|hum- ble Christ was|born, And|
+ e g g a | g e2 c |"D7" d d c A |"G" G2"G7" f2 :| %16
+w: hold, through- out the|heav- ens There|shone a ho- ly|light. _|
+w: out the an- gel|cho- rus That|hailed our Sav- ior's|birth. _|
+w: God sent us sal-|va- tion That|bless- ed Christ- mas|morn. _|
+

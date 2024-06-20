@@ -1,0 +1,26 @@
+X:1
+T:Morningtown Ride
+T:Morningtown ride
+T:Malvina Reynolds 
+T:Arr. Van Dyke music
+C:Mavina Reynolds
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"Bb" D2 F G |"Bb7" D F2 z |"Eb" G B B c |"Bb" B3 z |"Eb" B B A G |"Bb" B F2 F |"Cm" G3/2 F/ E D | %7
+w: Train whis- tle|blow- ing-|makes a sleep- y|noise|un- der- neath the|blan- kets for|all the girls and|
+"F7" C3 z |"Bb" D F F G |"Bb7" D F2 z |"Eb" G B B3/2 c/ |"Bb" B3 z |"Eb" B2 A G |"Bb" B F"Gm" D2 | %14
+w: boys|Rock- in roll- in|rid- in|out a- long the|bay|all bound for|Morn- ing- town|
+"F7" F/ F3/2 E3/2 C/ |"Bb" B,2"F7" C2 ||"Bb" D F F G |"Bb7" D F2 z |"Eb" G B B3/2 c/ |"Bb" B3 z | %20
+w: man- y miles a-|way *|Dri- ver at the|en- gine-|fire- man rings the|bell|
+"Eb" B B A3/2 G/ |"Bb" B F2 F |"Cm" G3/2 F/ E D |"F7" C3 z |"Bb" D F F G |"Bb7" D F2 z | %26
+w: sand- man swings the|lan- tern to|show that all is|well|rock- in roll- in|rid- in|
+"Eb" G B B3/2 c/ |"Bb" B2 z z |"Eb" B2 A G |"Bb" B F"Gm" D2 |1"F7" F/ F3/2 E3/2 C/ || %31
+w: out a- long the|bay|all bound for|morn- ing- town|man- y miles a-|
+"Bb" B,2"F7" C2 :|2"F7" F/ F G3/2 A/ z/ ||"Bb" B4- | B2 z2 |] %35
+w: way *|man- y miles a|way.||
+

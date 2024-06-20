@@ -1,0 +1,50 @@
+X:1
+T:Be Not Afraid
+T:Be Not Afraid
+C:Bob Dufford, S.J.
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2"G" z B,/C/ | D7/2 D/"Gsus4" D/ D7/2 |"G" D<D-"Gsus4" D4 z B,/C/ |"G" D2 D2"Gsus4" D3 E | %4
+w: 1.You shall|cross the bar- ren|des- ert _ but you|shall not die of|
+"G" D4-"D/F#" D2 z E/F/ |"C" G G3"Csus2" G3 G |"C" G G3- G2"C/B" z E/F/ | %7
+w: thirst. _ You shall|wan- der far in|safe- ty _ though you|
+"Am" G/ G7/2"Am/G" G7/2 G/ |"D/F#" F6 z G/A/ |"G" B3 B"B7" B3 B |"Em" B B3"Am" c3 B | %11
+w: do not know the|way. You shall|speak your words in|for- eign lands, and|
+"C" A3 B"F" A2 G2 |"D" F6 z2 |"G" D3 G"Em" G3 A |"A" B2 B2"A7" A3 G |"D" A8- |"D7" A6 z2 || %17
+w: all will un- der-|stan.|You shall see the|face of God and|live.|_|
+"G""^REFRAIN" B,2"Gsus4" D4- D>E |"G" D4-"D" D4 |"Am7" z2 G2"D" A3 c |"G6" c2 B2 A2 G2 | %21
+w: Be not _ a-|fraid, _|I go be-|fore you al- ways.|
+"C" z2"C/B" G4 CE |"Bm" D4-"Em" D3 G |"Am" A3 G"D" G2 F2 |"G" G4-"Gsus4" G4- |"G" G4"Gsus4" z4 | %26
+w: Come, fol- low|Me, _ and|I will give you|rest. _|_|
+"G""C/G" z8 |"G" z8 ||"G" z4 z2 z B,/C/ | D7/2 D/"Gsus4" D/ D7/2 |"G" D/ D7/2"Gsus4" D7/2 C/ | %31
+w: ||2.If you|pass through rag- ing|wa- ters in the|
+"G" D4-"Gsus4" DDDE |"G""D/F#" D6 z E/F/ |"C" G G3"Csus2" G3 G |"C" G G3"C/B" G4 | %35
+w: sea, _ you shall not|drown. If you|walk a- mid the|burn- ing flames,|
+"Am" G2 G2"Am/G" G2 G2 |"D/F#" F6 z G/A/ |"G" B3 B"B7" B3 B |"Em" B2 B2"Am" c3 B | %39
+w: you shall not be|harmed. If you|stand be- fore the|pow'r of hell and|
+"C" A3 B"F" A2 G2 |"D" F6 z2 |"G" D3 G"Em" G3 A |"Am" c B3-"Am/G" B2- BA/G/ |"D" A8- |"D7" A6 z2 || %45
+w: death is at your|side,|know that I am|with you _ _ thru it|all.|_|
+"G""^REFRAIN" B,2"Gsus4" D4- D>E |"G" D4-"D" D4 |"Am7" z2 G2"D" A3 c |"G6" c2 B2 A2 G2 | %49
+w: Be not _ a-|fraid, _|I go be-|fore you al- ways.|
+"C" z2"G/B" G4 CE |"Bm" D4-"Em" D3 G |"Am" A3 G"D" G2 F2 |"G" G4-"Gsus4" G4- |"G" G4"Gsus4" z4 | %54
+w: Come, fol- low|Me, _ and|I will give you|rest. _|_|
+"G""C/G" z8 |"G" z8 || D D3"Gsus4" D3 E |"G""Gsus4" D6 z B,/C/ |"G" D2 D2"Gsus4" D3 E | %59
+w: ||3.Bles- sed are the|poor for the|King- dom shall be|
+"G""D/F#" D8 |"C" G3 G"Csus2" G3 G |"C" G G3"C/B" G3 E |"Am" G2 G2"Am/G" G2 G2 |"D/F#" F6 z G/A/ | %64
+w: theirs.|Blest are you that|weep and mourn for|one day you shall|laugh. And if|
+"G" B/ B7/2"B7" B3 B |"Em" B3 B"Am" c2 B2 |"C" A3 B"F" A3 G |"D" F8 |"G" D G3-"Em" G4 | %69
+w: wick- ed tongues in-|sult and hate you|all be- cause of|Me,|bless- ed _|
+"Am" B A3-"Am/G" A2 G2 |"D" A8- |"D7" A6 z2 ||"G""^REFRAIN" B,2"Gsus4" D4- D>E |"G" D4-"D" D4 | %74
+w: bless- ed _ are|you!|_|Be not _ a-|fraid, _|
+"Am7" z2 G2"D" A3 c |"G6" c2 B2 A2 G2 |"C" z2"G/B" G4 CE |"Bm" D4-"Em" D3 G |"Am" A3 G"D" G2 F2 | %79
+w: I go be-|fore you al- ways.|Come, fol- low|Me, _ and|I will give you|
+"G""Gsus4" G8- |"G""C/G" G8- |"G" G8 |] %82
+w: rest.|_||
+

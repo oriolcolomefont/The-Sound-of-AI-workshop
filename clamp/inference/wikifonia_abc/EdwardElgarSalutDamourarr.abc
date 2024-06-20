@@ -1,0 +1,32 @@
+X:1
+T:Salut D'amour (arr. key C)
+T:Salut D'amour
+T:Love's Greeting
+T:Edward Elgar
+C:Edward Elgar
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"C" E2 E | z E2 E | e2 Ge |"C/E" dc Bc |"Dm7" f2 f2 |"G7" f2 G z |"C" e2"E/B" _Ae |"Am" dc Bc | %8
+"Dsus4" d2"D7" d2 |"G" d3"G+7" _e |"C" e2 Ge | dc Bc |"F" a2"A7" a2 |"Dm" a2"C" g"Dm"f | %14
+"C/G" e2"Dm" dc |"Dm7" A2"G7" B2 |"C" c2"F" F2 |"Cdim" ^F2"G7" G2 |"C" e2 Ge |"C/E" dc Bc | %20
+"Dm7" f2 f2 |"G7" f2 G z |"C" e2"E/B" _Ae |"Am" dc Bc |"Dsus4" d2"D7" d2 |"G7" d3"G+7" _e | %26
+"C" e2 Ge |"C/E" dc Bc |"F" a2"A7" a2 |"Dm" a2"G7" gf |"C" e2"Dm7" dc | A2"G7" B2 |"C" c2 E2 | %33
+"G7" F2"Cdim" ^F2 |"Eb/Bb" _e2 dc |"Fm/Bb" _A2 _Bc |"Bb7" d2 c_B |"Ebmaj7" G2 _A_B |"Bb9" c2 d_e | %39
+ f2 g_a |"Eb/Bb" _b2"Ebdim" d'c' |"Bb7" _b3 _a |"Eb" g2 f_e | c2"Cm" d_e |"Dm7b5" gf _ed | %45
+"G7" B2 cd |"Cm/G" _e2 fg | _a2"G+7" _e'>"G7"d' ||"C/G" cB A2 |"G7" G2 ^FG |"F" A2 FE | %51
+"G7" D2 _D=D |"Dm7b5" F2 _D=D |"G7" F2 _D=D |"Dm7" F2 _D=D |"G7" CA GF |"C" e2 Ge |"C/E" dc Bc | %58
+"Dm7" fA"Dm7b5" f_A |"G7" fG GF |"C" e2"E/B" _Ae |"Am" dc Bc |"Dsus4" d2 dc |"G" dA G"G+7"_e | %64
+"C" e2 Ge |"C/E" dc Bc |"F" af"A7" ag |"Dm" a2 bc' |"Dm7b5" f' d'2 c' | _b_a"G7" d>=a |"C" a g2 e | %71
+ dc G>_A |"Dm7b5" f d2 c |"Fm" _B_A"G7" D>=A |"Am/E" A2 GE |"Asus4" DC"C" G,>_A, |"F" A,E"A+7" FG | %77
+"Dm7" Af ed |"Dm7b5" c_A"G7" =AB |"Gbdim" cc' ba |"G7" gB"Em7" dc |"G7/D" Bg"Dbdim" g>e | %82
+"Dm7" e2 d2 |"G7" A2 B2 |"C" c2 Ge |"C/E" dc Bc |"Dm7b5" f_A"Dm7" f=A |"G7" fB ed |"C" c2 G,E | %89
+ DC B,C |"Dm7b5" F_A"Dm7" F=A |"Gm7b5" F_B"G7" ED |"C" C C2 C | E E2 G | c2 z2 | e2 z2 | C4 | C4 | %98
+ C4- | C2 z2 |] %100
+

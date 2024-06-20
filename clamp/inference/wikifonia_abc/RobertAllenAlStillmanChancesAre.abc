@@ -1,0 +1,32 @@
+X:1
+T:Chances Are
+T:Chances Are
+C:Robert Allen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"G+7" z2 A>G |"C6" A6"G+7" A>G |"C" B>AG>E"Am7b5" D3 C |"^G /D" B,>DF>A"Bm7" F2 D2 | %4
+w: Chanc- es|are 'cause you|wear a sil- ly grin The|mo- ent you come in- to|
+"E9" F6"E7" z2 |"Am7" C>EG>B"A7" A2 G2 |"D7" F2"Am7" E2"D7" D2 C2 |"G" B,8- | %8
+w: view|chan- ces are you think that|I'm in love with|you.|
+"Eb7/G""G" B,4"G+7" z2 A>G |"C6" A6"G+7" A>G |"C" B>AG>E"Am7b5" D3 C |"G" B,>DF>A"Bm" F2 D2 | %12
+w: * Just be-|cause my com-|po- sure sort of slips, the|mo- ment that your lips meet|
+"E9" F6"E7" z2 |"Am7" C>EG>B"A7" A2 G2 |"D7" F2"Am7" E2"D7" D2"D7b9" A2 |"G" G8 | %16
+w: mine|chan- ces are you think my|hearts your Val- en-|tine|
+"Eb7" z2 GF"G" A2"Gmaj7" AF |"Cm" G4 G4- | G2 GF"Cm6" A2 AF |"Gm" G4 G4- | %20
+w: In the mag- ic of|moon- light|* when I sigh Hold me|close dear|
+"Eb7" G2 GF"G" A2"Gmaj7" AF |"Em7" G2 G2 G3 G |"A7" A2 A2 A3 A |"Eb9" _B3 c"D9" A4 | %24
+w: * chan- ces are you be-|lieve the stars that|fill the skies are|in my eyes|
+"G+7" z A2 G>AG>AG |"C6" A4-"G+7" A>GA>G |"C" B>AG>E"Am7b5" D3 C |"G" B,>DF>A"Bm7" F4- | %28
+w: Guess youl feel you'll al- ways|be * the one and|on- ly one for me and|if you think you could,|
+"E9" F4"E+" z2 E2 |"Am" c>c"Bdim7"B>B"Am" A2"C#dim7" G2 |"Am7" D4"D7" F2"D7b9" e2 |"G" d8- | %32
+w: * well|chanc- es are your chanc- es|are aw- f'ly|good|
+"Am" d2 d2 c2 B2 |"Am7" d3 c"Cdim" B2 c2 |"Am7" A4"D7" D2"D7b9" B2 |"G""Eb" G8- | %36
+w: * the chanc- es|are your chanc- es|are aw- f'ly|good.|
+"Ebdim" G6"G" z2 |] %37
+w: |
+

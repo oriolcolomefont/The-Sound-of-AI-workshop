@@ -1,0 +1,32 @@
+X:1
+T:The Music Of The Night
+T:The Music Of The Night
+T:from Phantom of the Opera)
+T:Unknown
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A2 C2"C/F" G2 C2 |"F" FGA^A"C" G2 c2 |"F" A2 C2"C/F" G2 C2 |"F" FGA^A"C" G2 c z | %4
+w: Night time sharp- ens|height- ens each sen- sa- tion|Dark- ness stirs and|wakes im- ag- in- a- tion|
+"Bb/F" dfff"F" g2 fe |"Bb" dfff"F" g2 f2 |"Bb" dfff"Eb" gf"Bb"dA |"F" c8 |"Gm" G4"A" A2 z2 | %9
+w: si- lent- ly the sen- ses a|ban- dom their de- fen- ces||||
+"F" A2 C2"C/F" G2 C2 |"F" FGA^A"C" G2 c2 |"F" A2 C2"C/F" G2 C2 |"F" FGA^A"C" G2 c2 | %13
+w: slow- ly gent- ly|night un- furls its spen- dour|grasp it sense it|trem- u- lous and ten- der|
+"Bb" dfff"F" g2 fe |"Bb" dfff"F" g2 fe |"Bb" dfff"Eb" gf"Bb"dA |"F/C" c6 A2 | %17
+w: turn your face a- way from the|gar- ish light of day, turn your|thoughts a- way from cold un- feel- ing|light and|
+"Bb/C" AGGA"C7" ^Ac=AG |"F" F4 z2 Ac |"Eb" g2 f^d =dc^Ac |"Ab" c2 ^A2 ^G z c^d | %21
+w: lis- ten to the mu- sic of the|night close your|eyes and sur- end- er to your|dark- est dreams purge your|
+"Db" ^g2 =gf f^dd=d |"G" d4"G7" z2 gg |"C" g2 fe"C7" dcdc |"F" c'4 z2 ee |"Am" e2 e"E7"e edef | %26
+w: thoughts of the life you knew be-|fore close your|eyes let your spi- rit start to|soar and you'll|live as you've nev- er lived be|
+"A" e6 z2 ||"F" A2 C2"C/F" G2 C2 |"F" FGA^A"C" G2 c2 |"F" A2 C2"C/F" G2 C2 |"F" FGA^A"C" G2 c z | %31
+w: fore|soft- ly deft- ly|mu- sic shall ca- ress you|hear it feel it|se- cret- ly po- sess you|
+"Bb" dfff"F" g2 fe |"Bb" dfff"F" g2 fe |"Bb" dfff"Eb" gf"Bb"dA |"F/C" c6 z A | %35
+w: o- pen up your mind let your|fan- ta- sies un- wind in this|dark- ness which you know you can- not|fight the|
+"G/A" AGGA"C7" ^Ac=AG |"Bb" [F^Adf]4"Gm" [GAdg]4 |"F#m" [A^ca]4"E" [=B^g=b]4 |"F" [cac']8 |] %39
+w: dark- ness of the mu- sic of the|night. *|||
+

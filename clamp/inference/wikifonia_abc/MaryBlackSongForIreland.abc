@@ -1,0 +1,55 @@
+X:1
+T:Song For Ireland
+T:Song For Ireland
+C:Mary Black
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="Vocals"
+%%MIDI program 66
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"D""A7sus4/E" z8 |"D""A7sus4/E" z8 |"D""A7sus4/E" z8 |"D" z8 |:"D" F F2 F- F2 ED |"A" E6 z A, | %6
+w: ||||Walk- ing all _ _ the|day near|
+w: ||||Talk- ing all _ _ the|day with|
+w: ||||Drink- ing all _ _ the|day in|
+w: ||||Dream- ing in _ _ the|night I|
+"G" G4"D/F#" F E2 D |"G" B, A,3"A7sus4" B, D2 D- |"D" D4 z4 |"D" F F2 F- FEDE- |"A" E6 z A, | %11
+w: tall tow- ers Where|fal- cons build their nests|_|Sil- ver wing- * ed they fly|_ They|
+w: true friends _ Who|try to make you stay|_|Tel- ling jok- * es and news,|_ Sing-|
+w: old pubs _ Where|fidd- lers love to play|_|Some- one touch- * ed the bow,|_ He|
+w: saw a land Where|no man had to fight|_|Wak- ing in _ _ your dawn|_ I|
+"Em" G3 G"D/F#" F- E2 D |"G" B, A,3"A7sus4" B, D2"D" D- |"D" D4"A7sus4/E" z4 | %14
+w: know the call _ of|free- dom in their breasts|_|
+w: ing songs _ _ to|pass the night a- way|_|
+w: played a reel _ It|seemed so fine and gay|_|
+w: saw you cry- ing in|the morn- ing _ light|_|
+[M:3/2]"G" G2 FG- G2 DB- A3 A |[M:4/4]"A7sus4" A6- AG |"D" F2 DD-"Bm7" D3 D |"D/A" D D3"G" E2 FE- | %18
+w: Saw Black Head _ a- gainst _ the|sky _ With|twist- ed rocks _ that|run down to the sea|
+w: Stood on Ding- * le beach _ and|cast _ In|wild _ foam _ we|found At- lan- tic bass-|
+w: Watched the Gal- * way salm- * on|run _ Like|silv- er dancing _ dart-|ing in _ the sun|
+w: Ly- ing where _ the falc- ons fly,|_ _ They|twist and turn _ all|in your e'er blue sky|
+"Asus4" E4"A" z4 |"G" G A2 B-"Asus4" A3 A |"D" A2 DD- D2 z F- | %21
+w: _|Liv- ing on _ your|west- ern shore _ Saw|
+w: _|||
+w: _|||
+w: _|||
+[M:3/2]"Bm" F/E/DD/D/A- A"D/A"D- D2"E9" D/E/F-FE |[M:4/4]"Asus4" E6"A" z D |"G" G A2 B-"A" A3 A | %24
+w: _ _ _ sum- mer sun- * sets _ asked _ _ _ for|more I|stood by your _ At-|
+w: |||
+w: |||
+w: |||
+"D" A2 F/E/D"A" E4- | E2 z D"Em" G3 G |"Bm7" F- E2 D"G" B,2- D"A7sus4"D- |1,2,3"D""A7sus4/E" D8 | %28
+w: lan- tic _ _ sea|_ And sang a|song _ for Ire- * land|_|
+w: ||||
+w: ||||
+w: ||||
+"D""A7sus4/E" z8 :|4"Bm" D4"G#dim" z4 ||"Asus4""A7" z8"D" |] %31
+w: |||
+w: |||
+w: |||
+w: |||
+

@@ -1,0 +1,35 @@
+X:1
+T:In Love in Vain
+T:In Love In Vain
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|: C E C |"Eb" E"Cm7" E2 F |"Fm7" E D"Bb7" C B, |"Eb" C D"Cm7" E G |"Fm7""Bb7" F3 F | %5
+w: It's on- .y|hu- man for|an- y- one to|want to be in|love, But|
+w: |||||
+"Ebmaj7" G G2 A |"Abmaj7" G F"Bb7" E D |"Gm7" B4- |"C7b9" B G B G |"Fm7" A A"Bb7" A B | %10
+w: who wants to|be in love in|vain?|_ At night you|hang a- round the|
+w: |||||
+"Eb" A G F E |"Dm7" F z F2- |"G7" F G"Cm" c G |"Cm7" F z F2- |"F7" F G c G |"Fm7" F4- | %16
+w: house and eat you|heart out,|_ and cry your|eyes out,|_ and wrack you|brain.|
+w: ||||||
+"Bb7" F C E C |"Eb" E"Cm7" E2 F |"Fm7" E D"Bb7" C B, |"Eb" C D"Cm7" E G |"Fm7""Bb7" F3 F | %21
+w: _ You sit and|won- der why|an- y- one as|won- der- ful as|she~(he) should|
+w: |||||
+"Ebmaj7" G G2 A |"Abmaj7" G F"Bb7" E D |"Gm7" B4- |"C7b9" B B A G |"Ab6" F e e e | %26
+w: cause you such|mis- er- y and|pain.|_ I thought that|I would be in|
+w: |||* I thought that|I'd have eas- y|
+"Abdim7" e e d c |"Eb/Bb" E B B B |"Bbm7" B2"Eb7" A G |"Fm7" c A A A |"Bb7" d B A F |1 %31
+w: heav- en, but I'm|on- ly up a|tree, cause it's|just my luck to|be in love in|
+w: sail- ing but in-|stead, I'm all at|sea, * *|||
+"Eb6" E2"Bm" z2 |"Fm7" z C E C :|2"Eb6" E4- | E3 z |] %35
+w: vain.|It's on- ly|vain.|_|
+w: ||||
+

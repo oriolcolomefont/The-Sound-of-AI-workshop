@@ -1,0 +1,24 @@
+X:1
+T:Bobby's Girl
+T:Bobby"s Girl
+T:unknown
+T:Rock and Roll
+C:Gary Klein, Hank Hoffman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z"C" C E G | A G C2 | z"Am" A, C E | F E C2 | z"F" C F A | G"Em" E E/C/ E |"Dm" D4- |"G7" D4 | %8
+w: When peo- ple|ask of me|What would you|like to be|now that you're|not a kid an- y-|more||
+ z"C" C E G | A G C2 |"Am" z A, C E | F E C2 |"F" z C F A |"Em" G E E/C/ E |"Dm" D4- | %15
+w: Then in my|heart I pray|there soon will|come a day|That I will|find what I'm look- ing|for|
+"G7" D G G/A/ B |"C" d c G z | E E/D/ C z |"Am" B A E2- | E2 z2 |"F" F3/2 F/ F F | F F G A | %22
+w: * I wan- na be|Bob- bys girl,|I wan- na be|Bob- bys girl||thats the most im-|por- tant thing to|
+"G7" G4- | G G G/A/ B |"C" d c G2- | G E E/D/ C |"F" F G A2- | A2 z2 |"G7" G G G G | B B A G | %30
+w: me|* amd if I was|Bob bys girl|* and if I was|Bob bys girl||What a faith- ful|thank- ful girl I'd|
+"C" C4- | C4 |"G" G G G G | B B c d |"F" c4- |"C" c4 |] %36
+w: be.||What a faith- ful|thank- ful girl I'd|be.||
+

@@ -1,0 +1,35 @@
+X:1
+T:Meeting of the Waters, The
+T:The Meeting of the Waters
+T:Irish folk tune
+T:Thomas Moore
+C:Irish folk tune
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+|:!p!"^Allegretto   = 112" (d/c/) || B>AG GED | DEG !breath!G2 (A/B/) | ccB/A/ ABG | %4
+w: 1.There is|not in the wide world a|val- ley so sweet As that|vale in whose * bos- om the|
+w: 2.Yet it|was not that Na- ture had|shed o'er the scene Her- *|pur- est of * crys- tal and|
+w: 3."Twas that|friends, the be- lov'd of my|bos- om, were near, Who made|ev'- ry dear- * scene of en-|
+w: 4.Sweet- *|vale of A- vo- ca! How|calm could I rest In the|bos- om of- * shade, with the|
+ dBG !breath!!fermata!A2 (A/B/) | ccB/A/ ABG | dBG !breath!A2 (G/A/) | B>AG G<ED | %8
+w: bright wa- ters meet; Oh, the|last rays of * feel- ing and|life must de- part, Ere the|bloom of that val- ley shall|
+w: bright- est of green; "Twas- *|not her soft * mag- ic of|stream- let or rill, Oh,- *|no, it was some- thing more|
+w: chant- ment more dear; And who|felt how the- * best charms of|Na- ture im- rove, When we|see them re- flect- ed from|
+w: friends I love best; Where the|storms that we- * feel in this|cold world should cease, And our|hearts, like thy wa- ters, be|
+[Q:1/4=72]"^rit." DEG !breath!!fermata!c2[Q:1/4=120]"^Allegretto" (c/>B/) | B>AG G<ED | %10
+w: fade from my heart, Ere the|bloom of that val- ley shall|
+w: ex- quis- ite still, Oh,- *|no, it was some- thing more|
+w: looks that we love, When we|see them re- flect- ed from|
+w: min- gled in peace, And our|hearts, like thy wa- ters, be|
+[Q:1/4=132]"^rallentando" DEG !breath!!fermata!G2 :| %11
+w: fade from my heart!|
+w: ex- quis- ite still.|
+w: looks that we love|
+w: min- gled in peace!|
+

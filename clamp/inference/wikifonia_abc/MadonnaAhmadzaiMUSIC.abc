@@ -1,0 +1,24 @@
+X:1
+T:MUSIC
+C:Madonna
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gm" G,G,zG, z4 | G,G,zG, z4 | G,G,zG, z G, z2 | G,G, z/ G,3/2 G, z z2 | D2 C_B, C2 B,2 | %5
+w: ||||Hey Mist er D J|
+ C>C C_B, G,G,B,C | D2 C_B, C2 B,2 | z4 z G,_B,C | D2 _B,C- C2 z B, | CDC_B, G,G,B,C | %10
+w: put a rec ord on I wan na|dance with my ba by|And when the|mus ic starts _ I|nev er wan na stop its gon na|
+ D2 _B,2 C2 B,2 | z8 | _B2 A2 z2 GA | _B2 A2 z2 GA | _B2 A2 z2 z2 | G,G,G,G, G,2 z2 | %16
+w: drive me cra zy||MUS IC makes the|peo ple come to|geth er|(nev er gon na stop)|
+ _B2 A2 z2 GA | _B2 A2 G2 GA | _B2 A2 z2 z2 | G,G,G,G, G,2 z2 | z4 z2 z C | DDC_B, C2 CB, | %22
+w: MUS IC makes the|bour geoi sie and the|reb el|(nev er gon na stop)|Don't|think of yest er day and I|
+ CDC_B, G,G,B,C | D2 _B,C- CB, z2 | z4 z2 _B,C | DDC_B, C2 CB, | CDC_B, G,2 B,B, | CCCD C_B,B,B, | %28
+w: don't look at the clock, I like to|boog ie woo _ gie|Its like|rid ing on the wind and it|nev er goes a way, Tou ches|ev 'ry thing I'm in, I've got to|
+ CCC_B, G,2 z2 :| %29
+w: have it ev' ry day!|
+

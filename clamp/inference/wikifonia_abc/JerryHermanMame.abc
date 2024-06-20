@@ -1,0 +1,39 @@
+X:1
+T:Mame
+T:MAME
+C:Jerry Herman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"C" z E"C6" E E |"Cmaj7" E E/E/-"C#dim" E/^D/ E |"Dm7" F4 |"G7" (G D3) |"Dm" z F"A+" F F | %5
+w: You coax the|blues right out _ of the|horn,|Mame, _|You charm the|
+w: You've brought the|cake- walk back _ in to|style,|Mame _|You make the|
+"Dm7" F F/F/-"G7" F/E/ F |"Cmaj7""C6" G4 |"Cmaj7" (B E3) |"Am" z c"G#+" c c | %9
+w: husk right off _ of the|corn|Mame, _|You've got the|
+w: weep- in' wil- * low tree|smile,|Mame, _|Your skin is|
+"Am7" c c/c/-"Am6" c/B/ c |"Em" B/>G/A/>A/ B/>G/A/>^A/ |"A9" B4 |"Dm" z A"A+" A A | %13
+w: ban- joes strum- * min' and|plunk- in' out a tune to beat the|band.|The whole plan-|
+w: Dix- ie sat- * in, there's|reb- el in your man- ner and your|speech,|You may be|
+"Dm7" A A/A/-"G7" A/^G/"G+7" A |"C" G/>E/F/>^F/"C#dim" G/>E/=F/>^F/ |"Dm7""G7" G4 | %16
+w: ta- tion's hum- * min' since|you brought Dix- ie back to Dix- ie-|land|
+w: from Man- * * tan. but|Geor- gia nev- er had a sweet- er|peach.|
+"C" z E"C6" E E |"Cmaj7" E E/E/-"C#dim" E/^D/ E |"Dm7" ^F4 |"G7" (G D3) |"Dm" z F"A+" F F | %21
+w: You make the|cot- ton eas- * y to|pick,|Mame, _|You give my|
+w: You make our|black eyed peas _ and our|grits,|Mame, _|Seem like the|
+"Dm7" F F/F/-"G7" ^F/E/ =F |"E7" ^G4 |"Dm6" (B"E7" E3) |"Am" z c"G#+" c c | %25
+w: old mint ju- * lep a|kick,|Mame, _|You make the|
+w: bill of fare _ at the|Ritz,|Mame, _|You came, you|
+"Am7" c c/c/-"Ebdim" c/B/ c |"Em" B/>G/A/>^A/ B/>G/=A/>^A/ |"A9" B4 |"Dm" z A"A+" A A | %29
+w: old mag- no- * lia tree|blos- som at the men- tion of your|name.|You've made us|
+w: saw, you con- * quered and|ab- so- lute- ly noth- ing is the|same.|Your spe- cial|
+"Dm7" A A/A/-"G7" A/^G/ A |"Em" z B"B+" B"Em7" B |"A9" B B/B/- B/^A/ B |"D7" z d d d | %33
+w: feel a- live _ a- gain,|You've giv- en-|us the drive _ a- gain|To make the|
+w: fas- ci- na- * tion 'll|Prove to be|in- spi- ra- * tion- al,|We think you're|
+"Dm7" d d/d/-"G7" d/c/"G7b9" d |1"C""Cdim" c4 |"Dm7""G7" z4 :|2"C" c4- | c3 z |] %38
+w: South re- vive _ a- gain|Mame.||Mame.|_|
+w: just sen- sa- * tion- al,-|||||
+

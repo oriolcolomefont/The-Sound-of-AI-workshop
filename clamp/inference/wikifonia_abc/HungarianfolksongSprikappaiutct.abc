@@ -1,0 +1,20 @@
+X:1
+T:Söprik a pápai utcát
+C:Hungarian folk song
+Z:Public Domain
+L:1/4
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Em" D"B7" E |"Em" F A |"Am" G/F/"B7" E |"Em" D z!fine! |"Bm" A"F#7" B |"Bm" c e | %6
+w: Söp- rik|a pá-|pa- i ut-|cát,|ma- sí-|roz- nak|
+w: Sé- tál|a re-|gi- ment u-|tán.|||
+"Em" d/c/"F#7" B |"Bm" A"B7" z |"Db" d/^c/"D7" d/e/ | d"G" A |"D7" ^A/=A/ G |"G" A"B7" z | d/A/ F | %13
+w: a ka- to-|nák,|Jaj, de sok szép|sző- ke,|bar- na kis-|lány,|bar- na kis-|
+w: |||||||
+ E z!D.C.! |] %14
+w: lány-|
+w: |
+

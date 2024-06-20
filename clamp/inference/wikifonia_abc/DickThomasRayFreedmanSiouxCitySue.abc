@@ -1,0 +1,48 @@
+X:1
+T:Sioux City Sue
+T:Sioux City Sue
+T:Dick Thomas
+T:Ray Freedman
+C:Dick Thomas
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C7" B"Cdim" A"C7" B"Ddim" =B |"C7" c G2 A | c"C9" B"C7" A G |"F" F3 C |:"F""^Verse" A ^G A G | %5
+w: |||* I|drove a herd of|
+w: ||||asked her if she|
+w: ||||I'm ad- mit- ting,|
+"D7" A/c/ A2"D7b5" _A |"G7" G A G F | D3 D |"C7" B"Cdim" A"C7" B"Ddim" =B |"C7" c G2 A | %10
+w: cat- tle down from|old Ne- bras- ka|way. That's|how I come to|be in the|
+w: had a beau; She|said "Yes, quite a|few," But|still I start- ed|cour- tin' my|
+w: I o- wa, I|owe a lot to|you, 'Cause|I come from Ne-|bras- ka to|
+ c"C9" B D B |"F" A3 C | A ^G A G |"D7" A/c/ A2"D7b5" _A |"G7" G A G F | D3 D | %16
+w: state of- I o|way I|met a girl in|I- o- way; Her|eyes were big and|blue, I|
+w: sweet SIOUX CIT- Y|SUE. The|first time that I|stole a kiss I|caught her steal- ing|two, I|
+w: find SIOUX CIT- Y|SUE, I'm|gon- na rope and|tie her up; I'll|use my old las-|so, I'm|
+"C7" B"Cdim" A"C7" B"Ddim" =B |"C7" c G2 A | c"C9" B"C7" A G |"F" F2"C7" z2 || %20
+w: asked her what her|name was; She|said "SIOUX- CIT- Y|SUE'.|
+w: asked her did she|love me; She|said "In- deed I|do."|
+w: gon- na put my|brand on My|sweet SIOUX CIT- Y|SUE.-|
+"F""^Chorus" C2 D/ F A/- | A4 |"G7" G2 A/ G D/- | D3 z/ ^D/ |"C7" E E E3/2 F/ | G G G3/2 C/ | %26
+w: SIOUX CIT- Y SUE||SIOUX CIT- Y SUE,|* Your|hair is red, your|eyes are blue, I'd|
+w: ||||||
+w: ||||||
+"F" F F"Bb" F G |"F" A F"C7" D _D |"F" C2 D/ F A/- | A4 |"G7" G2 A/ G D/- | D3 z/ A/ | %32
+w: swap my horse and|dog for you. *|SIOUX CIT- Y SUE,||SIOUX CIT- Y SUE,|* There|
+w: ||||||
+w: ||||||
+"C7" B"Cdim" A"C7" B"Ddim" =B |"C7" c2 G A | c"C9" B"C7" A G |1"F""^Repeat from verse" F3 C :|2 %36
+w: ain't no gal as|true as my|sweet SIOUX CIT- Y|SUE. I|
+w: |||* Now|
+w: ||||
+"F" F3 z!fine! |] %37
+w: SUE.|
+w: |
+w: |
+

@@ -1,0 +1,31 @@
+X:1
+T:There'll Always Be an England
+T:There'll always be an England
+T:Ross Parker, Hughie Charles.
+C:Hughie Charles, Ross Parker
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"^chorus" z2 z"^N.C." C |"F" F G"A7" F E |"Bb" D D"D7" z D |"G7" G A G F |"C7" E2 z C | %5
+w: There'll|al- ways be an|Eng- land while|there's a coun- try|lane where|
+w: |||||
+"F" A B"A7" A G |"Dm7" F G A F |"G7" E D E F |"Gm7" G2"C7" z C |"F" F G"A7" F E |"Bb" D D"D7" z D | %11
+w: ev- er there;s a|cot- tage small be-|side a field of|grain there'll|al- ways be an|Eng- land while|
+w: |||* there'll|al- ways be an|Eng- land and|
+"G7" G A G F |"C7" E2 z C |"F" A B"A7" A G |"Dm7" F G"Bb" A B |"F" A"Gm7" F F"C7" G | %16
+w: there's a bu- sy|street where|ev- er theres a|turn- ing wheel a|mill- ion march- ing|
+w: Eng- land shall be|free it|Eng- land means as|much to you as|eng- land means to|
+"F" F2 z E!fine! ||"A" A/"^Interlude"E/ E"E7" z (3=B/A/B/ |"A" ^c/A/ A"E7" z (3=B/A/B/ | %19
+w: feet Red|white and blue what does it|mean to you sure- ly your'e|
+w: me *|||
+"A" ^c"E7" =B/A/ B/"A" c"E7" (3B/4A/4B/4 |"A" ^c2 z"G7" G |"C" c/G/ G"G7" z (3d/c/d/ | %22
+w: proud shout it a- loud Bri- tons a|wake the|Em- pire too we can de|
+w: |||
+"C" e/c/ c"G7" z (3d/c/d/ |"C" e"G7" (3d/c/d/"C" e"G7" (3d/c/d/ |"C7" e2 z C!D.S.! |] %25
+w: pend on you free- dom re-|mains these are the chains noth- ing can|break there'll|
+w: |||
+

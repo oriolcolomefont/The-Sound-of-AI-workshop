@@ -1,0 +1,18 @@
+X:1
+T:Martha Polka
+T:Martha Polka
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" d d G/B/d/e/ | d d G/B/d/g/ |"D7" ^f ^f e e |"G" d c B z | d d G/B/d/e/ | d d G/B/d/g/ | %6
+"D7" ^f ^f e ^f |"G" g g g z :| d/d/ d e d |"D7" c c A z | c c A c |"G" e d d2 | d/d/ d e d | %13
+"D7" c c A z | c c B A |"G" G z G z |"C" E G G G | G4 | G G A3/2 G/ |"G7" G F F z | D F F F | F4 | %22
+ F F G3/2 F/ |"C" F E E z | E G G G | G4 | G G A3/2 G/ |"G7" G F F z |"Dm" f f d z |"C" e e c z | %30
+"G7" d d A B |"C" c c c z |] %32
+

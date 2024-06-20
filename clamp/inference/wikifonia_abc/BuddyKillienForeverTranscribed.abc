@@ -1,0 +1,32 @@
+X:1
+T:Forever (Transcribed)
+T:Forever
+C:Buddy Killien
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"C6" C2 E/ z A/"C " G2 E/ z G/ |"Fmaj7" C2 E/ z A/"F6" G2 E/ z G/ |"C6" AG-"C " G4 z2 | %3
+w: |||
+"Fmaj7" ED-"F6" D4 z2 |"C6" AG-"C " G4 z2 |"Fmaj7" ED-"F6" D4 z2 |"C6" AG-"C " G4 z2 | %7
+w: ||||
+"Fmaj7" ED-"F6" D4 z C |"C " EC- C4 z c | ec- c4 z2 |"C6" AG-"C " G6 |"Fmaj7" ED-"F6" D6 | %12
+w: |||Hold me, *|kiss me, *|
+"C6" AG-"C " G6 |"Fmaj7" ED-"F6" D6 |"C6" AG-"C " G6 |"Fmaj7" ED-"F6" D4 z C |"C " EC- C4 z c | %17
+w: wis- per *|sweet- ly *|that you *|love me * for-|e\- ver. * *|
+"C7" ec- c4 z2 |"F " dc- c4 cd |"F7" _ec-"Cmin" c6 |"Emin" AG- G4 A2 |"C7" _B2 C2 E2 G2 | %22
+w: |||||
+"F " dc- c4 (3c^cd |"F7" _ec- c4 z2 |"D7" ed- d4 z2 |"G " ed- d4 z2 |"C6" AG-"C " G4 z2 | %27
+w: |||||
+"Fmaj7" ED-"F6" D4 z2 |"C6" AG-"C " G4 z2 |"Fmaj7" ED-"F6" D4 z2 |"C6" AG-"C " G4 z2 | %31
+w: ||||
+"Fmaj7" ED-"F6" D4 z C |"C " EC-"Amin" C4 z2 |[K:D]"D " A4"G9" c4 |"D6" BA-"D " A6 | %35
+w: * * * For-|e\- ver *||Hold me, *|
+"Gmaj7" FE-"G6" E6 |"D6" BA-"D " A6 |"Gmaj7" FE-"G6" E6 |"D6" BA-"D " A6 |"Gmaj7" FE-"G6" E4 z D | %40
+w: kiss me, *|wis- per *|sweet- ly *|that you *|love me * for-|
+"D " FD- D4 z D | F2 D6 |] %42
+w: e\- ver. * *||
+

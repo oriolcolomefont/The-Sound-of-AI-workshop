@@ -1,0 +1,39 @@
+X:1
+T:Be Still My Soul
+T:Be Still My Soul
+T:Finlandia
+T:Jean Sibelius
+T:Katharina von Schlegel
+T:Public Domain
+C:Jean Sibelius
+Z:Public Domain
+L:1/4
+Q:1/4=90
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^90" z"F" A"C7" G"F" A |"Bb" B3"F" A |"C7" G"F" A"Bb" F3/2"C7" G/ | (G"F" A3) | %4
+w: 1.~Be still, my|soul; the|Lord is on thy|side. *|
+w: 2.~Be still, my|soul; thy|God doth un- der-|take *|
+w: 3.~Be still, my|soul; the|hour is has- t'ning|on *|
+ z"F" A"C7" G"F" A |"Bb" B3"F" A |"C7" G"F" A"Bb" F3/2"C7" G/ |"F" A4 | z"F" c c"Am/E" c | %9
+w: Bear pa- tient-|ly the|cross of grief or|pain.|Leave to thy|
+w: To guide the|fu- ture|as He has the|past.|Thy hope, thy|
+w: When we shall|be for-|ev- er with the|Lord.|When dis- ap-|
+"Dm" d3 A |"F" A c"C" c3/2 G/ |"G" (G B3) | z B"Am6" A"G" G |"F" A3 F |"B" F"B6" G G3/2"A" A/ | %15
+w: God to|or- der and pro-|vide. *|In ev- 'ry|change He|faith- ful will re-|
+w: con- fi-|dence let noth- ing|shake. *|All now mys-|te- rious|shall be bright at|
+w: point- ment,|grief, and fear are|gone, *|Sor- row for-|got, love's|pur- est joys re-|
+ A4 |"F" z c c"Am/E" c |"Dm" d3 A | A c"F" c3/2"C" G/ |"G" (G B3) | z B"A" A"Bb" G |"F/C" A3"F" F | %22
+w: main.|Be still, my|soul; thy|best, thy heav'n- ly|Friend *|Thru' thorn- y|ways leads|
+w: last.|Be still, my|soul; the|waves and winds still|know *|His voice who|ruled them|
+w: stored.|Be still my|soul; when|change and tears are|past, *|All safe and|bless- ed|
+ F G"C7" G3/2"F" F/ | F4 |] %24
+w: to a joy- ful|end.|
+w: while He dwelt be-|low.|
+w: we shall meet at|last.|
+

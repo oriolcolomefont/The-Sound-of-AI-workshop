@@ -1,0 +1,23 @@
+X:1
+T:(Give Me That) Old-Time Religion
+T:Give me that old time religion
+T:English traditional
+C:English traditional
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4"^N.C." GG A2 |"C" c4 c3 c | AG- G2 AA c2 |"G7" d4 d3 e |"C" dc- c2 cc d2 |"C7" e4 e3 e | %6
+w: Give me that|old time re-|li- gion * give me that|old time re-|li- gion * give me that|old time re-|
+"F" dc- c4 A2 |"C" G c2 d-"G7" d2 d2 |"C" c4"^N.C." G2 A2 |"C" c4 c3 c | A2 G2 A2 c2 | %11
+w: li- gion * its|good e- nough * for|me it was|good for our|moth- ers it was|
+"G7" d4 d3 e |"C" d2 c2 c2 d2 |"C7" e4 e3 e |"F" dc- c4 AA |"C" G c2 d-"G7" d2 d2 | %16
+w: good for our|moth- ers it was|good for our|moth- ers * and its|good e- nough * for|
+"C" c4"^N.C." GG A2 |"C" c4 c3 c | AG- G2 AA c2 |"G7" d4 d3 e |"C" dc- c2 cc d2 |"C7" e4 e3 e | %22
+w: me give me that|old time re-|li- gion * give me that|old time re-|li- gion * give me that|old time re|
+"F" dc- c4 A2 |"C" G c2 d-"G7" d2 d2 |"C" c4 z4 |] %25
+w: li- gion * its|good e nough * for|me|
+

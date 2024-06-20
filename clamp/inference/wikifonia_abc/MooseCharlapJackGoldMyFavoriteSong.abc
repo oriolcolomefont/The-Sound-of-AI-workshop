@@ -1,0 +1,38 @@
+X:1
+T:My Favorite Song
+T:My Favorite Song
+T:Moose Charlap
+T:Jack Gold
+C:Moose Charlap
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Slowly and Tenderly" d ||"G" B/d/g/b/- b g/d/ |"B7" B A/B/"Em" G A |"A7" E F/G/ (3A G F | %4
+w: ||||
+"D9" E G,/A,/ ^A,"D7" D |:"G" B,/D/G/B/- B G/D/ |"B7" B,/^D/F/A/- A G/F/ |"E7" E2 B2- | %8
+w: * * * * My|Fa- vor- ite Song * is the|song that they play * when we're|danc- ing,|
+ B E/F/"Bbdim" (3G F =F |"Am" E2"Am7" A2 |"D7" A F/G/ A/G/ F |"G" D G/F/"E7b9" =F"E7" E | %12
+w: * An- y time that we're|danc- ing|* that's my fa vor ite|song. * * * *|
+"Am7" A B/A/"D9" E"D7" D |"G" B,/D/G/B/- B G/D/ |"B7" B,/^D/F/A/- A G/F/ |"E7" E2 B2- | %16
+w: * * * * Just|an- y old tune * is my|fa- vor- ite tune * when we're|danc- ing|
+ B E/F/"Bbdim" (3G F =F |"Am" E2"Am7" A2- |"D7" A F/G/ A/G/ F |"G" G B/c/"C" d/c/ B | %20
+w: * and as long as we're|danc- ing,|* that's my fa- vor- ite|song. * * * * *|
+"G" G"Am7" C"A#dim" ^C"G" G |"C" A B c B |"D9" A2"D7" (3A B c |"G" d d G2- |"Em" G2"Em7" (3G A B | %25
+w: * * * You|breathe a mag- ic|charm in- to the|mel- o- dy,|* Weav- ing a|
+"Am6" c c F2- |"B7" F2 (3F G A |"Em""A7" B3 A/G/ |"Am7""D7" A3 D |"G" B,/D/G/B/- B G/D/ | %30
+w: mys- tic spell|* in ev- 'ry|word just for|me. My|fa- vor- ite song * is the|
+"B7" B,/^D/F/A/- A G/F/ |"E7" E2 B2- | B E/F/"Bbdim" (3G F =F |"Am" E2"Am7" A2- | %34
+w: song that they play * when I'm|danc- ing,|* an- y- time that I'm|danc- ing|
+"D9" A A"D7" (3A B c |"G" d G F G |"E+" c"E7" B"E7b5" ^A"E7" B |"Am7" e d c B/A/ | %38
+w: * but that's on- ly|true * * *||an- y- time that I'm|
+ G"D9" A2"D7b9" F |1"G" G d d B ||"A7" A B/A/"D9" E"D7" D :|2"G" G d d B || %42
+w: danc- ing with|you. * * *|* * * * My|you. * * *|
+"C" A"D7b9" B/A/"G" G2 |] %43
+w: |
+

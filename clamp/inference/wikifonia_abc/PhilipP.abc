@@ -1,0 +1,37 @@
+X:1
+T:It Is Well with My Soul
+T:It Is Well with My Soul
+T:Philip P. Bliss
+T:Horation G. Spafford
+T:Public Domain
+C:Philip P. Bliss
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G | G2"F" F"C" E |"G7" E2 D E | (F A) G F |"C" E3 G |"Am" c2 B A |"D7" A2 G ^F |"G" G3"G7" G | %8
+w: 1.~When|peace like a|riv- er at-|tend- * eth my|way, When|sor- rows like|sea bil- lows|roll, What-|
+w: 2.~Though|Sa- tan should|buf- fet, tho'|tri- * als should|come, Let|this blest as-|sur- ance con-|trol, That|
+w: 3.~My|sin~~\-\-\- oh the|bliss of this|glo- * * rious|thought~~\-\-\- My|sin, not in|part but the|whole, Is|
+w: 4.~And,|Lord, haste the|day when the|faith * shall be|sight, The|clouds be rolled|back as a|scroll. The|
+"C" c2 c B |"F" A2 A A |"D7" d2 d c |"G" B2"G7" A G |"C" c2 c c |"Dm7" c2"G" B3/2"C" c/ | %14
+w: ev- er my|lot, Thou has|taught me to|say, "It is|well, it is|well with my|
+w: Chris hath re-|gard- ed my|help- less es-|tate And hath|shed His own|blood for my|
+w: nailed to the|cross and I|bear it no|more. Praise the|Lord, praise the|Lord, O my|
+w: trump shall re-|sound and the|Lord shall de-|scend. E- ven|so, it is|well with my|
+"C" !fermata!c2"^REFRAIN" G G | G2 G c |"G" c2 G G | G2 B d |"C" c2 E G |"F" A2 A c | %20
+w: soul." It is|well (It is|well) with my|soul (With my|soul) It is|well, it is|
+w: soul. * *||||||
+w: soul. * *||||||
+w: soul. * *||||||
+"G" c2 B3/2"C" c/ |"C" c3 |] %22
+w: well with my|soul.|
+w: ||
+w: ||
+w: ||
+

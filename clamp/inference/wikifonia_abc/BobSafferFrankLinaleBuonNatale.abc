@@ -1,0 +1,32 @@
+X:1
+T:Buon Natale
+T:Buon Natale
+C:Bob Saffer
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+S"C" E3 |"Cdim" G2 A |"G7" G3 | B,2 B, | B,2 D | F A B |"C" G3- | G2 z |"C/E" c c3/2 c/ | %9
+w: Bu-|on Na-|ta-|le means|"Mer- ry|Christ- mas to|you.'|_|Bu- on Na-|
+"Ebdim" c B A |"G7" B z B | F3 | B z B | B A G |"C" A z A | E3 | E3 |"C#dim" G2 A |"G7" G3 | %19
+w: ta- le to|ev- 'ry|one,|Hap- py|New year and|lots of|fun,|Bu-|on Na-|ta-|
+ B,2 B, | B,2 D | F A B |"C" G3- | G2 z |"C/E" c c3/2 c/ |"Ebdim" c B A |"G7" B z B | %27
+w: le, May|all your|wish- es come|true.|_|Bu- on Na-|ta- le in|It- a|
+ F E F!dacoda! | G2 G | F E D |"C" C3- | C"^N.C." E F ||"C" G2 G |"G7" F2 E |"G" G3- | G2 E | %36
+w: ly means a|"Mer- ry|Christ- mas to|you."|_ Far a-|way a-|cross the|sea|_ In|
+ G A2 |"C#dim" G2 ^F |"G7" F3- | F D E |"Dm7" F F F |"G7" F2 D/E/ |"Dm7" F F F |"G7" F2 D | %44
+w: sun- ny|It- a-|ly,|_ there' a|quaint lit- tle|town, Not a|clock has been|wound for|
+"Dm7" F G3/2 F/ |"G7" E2 ^D |"C" E3- | E"^N.C." E F |"C" G2 G |"G7" F2 E |"C" G3- | G2 E | G A2 | %53
+w: ov- er a|cen- tu-|ry.|_ The don't|know the|time or|year,|_ And|no one|
+"C#dim" G2 ^F |"G7" =F3- | F2 D |"Dm7" F F F |"G7" F D z/ D/ |"Dm7" F z F |"G7" F D z/ D/ | %60
+w: seems to|care,|_ and|this is the|rea- son the|Christ- mas|sea- son is|
+"Dm7" F2 F |"G7" F E D |"C" C3 |"G+" !fermata!G3!D.S.! ||O"G7sus4" G2 G |"G7" G A B |"C" c3- | %67
+w: cel- e-|bra- ted all|year.|O,|"Mer- ry|Christ- mas to|you."|
+ c3- | c z2 |] %69
+w: _||
+

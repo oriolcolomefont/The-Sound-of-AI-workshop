@@ -1,0 +1,20 @@
+X:1
+T:The Irish Washerwoman
+T:The Irish Washerwoman
+T:Jerimiah Dugan,
+T:Charles Hansen
+C:Jerimiah Dugan
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 dc |:"G" BGG DGG | BGB dcB |"D7" cAA DAA | cAc edc |"G" BGG DGG | BGB dcB |"D7" cBc Adc | %8
+w: Oh an|I- rish er wash- wo- man|has- nt an e- qual she|rubs bet- ter scrubs bet- ter|than oth- er peo- ple she|jigs a bit sings a bit|all the day long and her|hearts like a sham- rock it|
+"G" BGG G2 G/A/ | BGG DGG | BGB BAG |"D7" AFF DFF | AFA AGF |"C" EGG"G" DGG |"C" CGG"G" B,GG | %15
+w: sings a gay song oh the|neigh- bours all lis- ten to|Mis sus Mc Clear- y and|vow that a wash wo- mans|life is not drear y she|jig- gles and wig- gles an|eye- ful of Ire- land the|
+"D7" ABc Adc |1"G" BGG Gdc :|2"G" BGG G z2 |] %18
+w: pride of the I- rish the|wash- wo- man queen oh an|wash- wo- man queen|
+

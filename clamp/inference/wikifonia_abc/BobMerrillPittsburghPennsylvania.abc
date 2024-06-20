@@ -1,0 +1,36 @@
+X:1
+T:Pittsburgh,Pennsylvania
+T:Pittsburgh, Pennsylvania
+T:There's A Pawnshop On the Corner
+T:Bob Merrill
+C:Bob Merrill
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z D/>E/ |:S"G" D B, D/>E/ |"Gmaj7" D B, D |"G6" G G G/>A/ |"G" B G G/>G/ |"D7" A A F | D F A | %7
+w: There's a|pawn- shop on a|corn- er in|Pitts burgh, Penn- syl-|va- nia, and I|walk up and|down 'neath the|
+w: |peach- es, she was|hon- ey and|cost me all my|mon- ey 'cause a|whirl 'round the|town was her|
+w: |pawn- shop on a|corn- er in|Pitts- burgh, Penn- syl-|va- nia and I've|just got to|get five or|
+"G""Am7" B3- |"D7" B2 D/>E/ |"G" D B, D/>E/ |"Gmaj7" D B, D/D/ |"G6" G G G/>A/ |"G" B G G/>G/ | %13
+w: clock,|* by the|pawn- shop on a|cor- ner in *|Pitts- burgh, Penn- syl-|va- nia, but I|
+w: dream.|* Took her|danc- in', took her|din- in' till her|blue eyes were *|shin- in' with the|
+w: ten|* from the|pawn- shop on a|cor- ner in *|Pitts- burgh, Penn- syl-|va- nia, got- ta|
+"Am7" A A B |"D7" c B A |1"G" G3- || G z D/>E/!fine! :|2"G" G z G ||"C" c3/2 d/ c | E G c | %20
+w: ain't got a|thing left to|hock.|* She was|* If|you should run|in- to a|
+w: sights that they|nev- er had|seen.-|||||
+w: be with my|an- gel a-|gain.-|||||
+"G" B3/2 c/ B | G D B |"Am7" A3/2 B/ A |"D7" D A c |"G""Gmaj7" B3- |"G7" B2 G |"C" c3/2 d/ c | %27
+w: gold- en haired|an- gel and|ask her to-|night for a|date,|* she'll|tell you some-|
+w: |||||||
+w: |||||||
+ E G c |"G" B3/2 c/ B | D2 B/_B/ |"A7" A3/2 B/ A | G F E |"D""Ddim" D3- |"D7" D z D/>E/!D.S.! |] %34
+w: where there's a|rich mil- lion-|aire who is|call- ing a-|gain a- bout|eight.|* There's a|
+w: |||||||
+w: |||||||
+

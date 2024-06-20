@@ -1,0 +1,23 @@
+X:1
+T:Just Walking In The Rain
+T:Just walking in the rain
+T:Johnny Bragg, Robert S. Riley,
+C:Johnny Bragg, Robert S.Riley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 B2 cB=AB |:"Eb" G8- | G4 G^FAG | E8- | E2 z2 F=EGF |"Bb7" D8- | D2 c2 cB=Ac |"Eb" B8- | %8
+w: Just walk- ing in the|rain|* get- ting soak- ing|wet|* tor- tur- ing my|heart|* by try- ing to for-|get|
+"Bb7" B B2 c B=A B2 |"Eb" G8- | G4 G^FAG | E8- | E2 z F =EG F2 |"Bb7" D8- | D2 B,2 DF G2 | %15
+w: * just walk- ing in the|rain|* so a- lone and|blue|* all be- cause my|heart|* still re- mem- bers|
+"Eb" E8- | E8 |"^aB" c2 c2 A2 B2 | c2 c6 |"^eB" z2 (3BBB"Bb7" B2 B2 |"Eb" G8 |"F" G2 G2 F2 E2 | %22
+w: you||Peo- ple come to|win- dows|they al- ways stare at|me|shake their heads in|
+"Cm7" G2 F4 cc |"Bb7" c2 B2 =A2 c2 | B B2 c B=A B2 |"Eb" G8- | G4 G^FAG | E8- | %28
+w: sor- row say- ing|who can that fool|be just walk- ing in the|rain|* think- ing how we|met|
+"Eb" E2 z2"Fm" F=EGF |"Bb7" D8- | D z2 B, DEFG |"Eb" E8 | z2"Bb7" B2 cB=AB :|"Eb" E8- | E6 z2 |] %35
+w: * know- ing things have|changed|* some- how I cant for-|get|just walk- ing in the|get.||
+

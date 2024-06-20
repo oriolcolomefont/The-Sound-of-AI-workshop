@@ -1,0 +1,27 @@
+X:1
+T:Peel me a Grape
+T:Peel me a Grape
+T:David Frischberg
+C:David Frischberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Am7""^Tempo = 90" .A2 z"Bb13" (B B4) |"Am7" .A2 z"Bb13" (B B4) |"Am7" .A2 z"Bb13" (B B4) | %3
+"Am7" .A2 z"Bb13" (B B4) |:S"Am7" z E (3EC_E"Bb13" D z z2 |"Am7" z E (3CA,(D"Bb13" D) z z2 | %6
+ z"Am9" E"G#m9"EE"Gm9" E2"C7" CA, |"F7" _E2 (3z CA,"E7" (3:2:2C D2 z2 | %8
+"Am7" z E (3CA,(D"Bb13" D) z z2 | z"Am9" E"G#m9" EC"Gm9" DA,"C7" CA, |"F7" C2 (DA,) C2 D z | %11
+"C9" z2 (_EA,) C A,2 z |"F9" z C DA, CD z2 |"C7" z2 (_EA,) C2 A,2 |"F9" z C DA, C2 D2 | %15
+"C9" z2 _E2 C A,2 z |1"Bm7b5" z (EE)E/D/ EE z2 ||"E7#5#9""^Break" z4 (3C2 C2 C2 | %18
+"Am7" A,4"Bb13" z4 |"Am7""Bb13" z8 |1"Am7""Bb13" z8 ||"Am7""Bb13" z8 :|2 %22
+"Bm7b5" z2 z G, G,G,/E,/G,(^G, ||"E7#5#9" ^G,4) z4 |"Am7""Bb13" B,8 |"Am7""Bb13" C8 | %26
+"Am7""Bb13" A,8 |"Am7""^Gitarre" z _E,_E,_E, (3_E,D,C, (3F,C,_E, || %28
+"A7sus4" z A, _B,^G, A,2 _B,^G, |"A7" _B,_B,^G,A, z2 z A, |"Dm9" z2 _B,^G, A,_B, z2 | %31
+ z A, (3_B,_B,^G, A,2 z2 |"D13/F#" B,B,^A,B,"B13" B,2 z2 |"D13/F#" z B, (3z CA,"B13" B,2 z B, | %34
+"Am7b5" C2 A,2 (3:2:2C A,2 z2 |"E7#5#9" z2 E,2 G,(A, A,2)!D.S.! |] %36
+

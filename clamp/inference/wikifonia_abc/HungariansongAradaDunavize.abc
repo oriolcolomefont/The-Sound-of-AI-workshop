@@ -1,0 +1,17 @@
+X:1
+T:Árad a Duna vize
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Cm" C2 =B,C DEDC |"G" F2 =EF GAGF | E2 D2"Cm" C2 z2 |"G" G2 ^FG =ABAG |"D" c2 =Bc dedc | %5
+w: Á- rad a Du- na vi- ze,|el- fo- lyik a Fe- ke- te|ten- ger- be,|Fur- csa egy nya- va- lya, ha|zaj- lik a sze- re- lem az|
+ B2 =A2"G" G2 z2 |"Cm" c2 =Bc"Fm" F2 GA |"Cm" G2 ^FG cGEC | F2 E2"G" D2 z2 |"Cm" C2 =B,C DEDC | %10
+w: em- ber- be',|Á- rad is, zaj- lik is,|fá- zik is, me- le- ge is|van tő- le,|Ott benn, a szí- ve kö- rül|
+"G" F2 =EF GAGF | E2 D2"Cm" C2 z2 | %12
+w: száz fo- kot mu- tat a hő-|mé- rő- je.|
+

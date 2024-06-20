@@ -1,0 +1,23 @@
+X:1
+T:Oh My Darling, Clementine
+T:Clementine
+T:unknown
+C:Traditional adapted by Vernon Dalhart
+Z:Public Domain
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 FF |"F" F2 C2 AA | A2 F2 FA | c3 c _BA |"C7" G4 GA | _B2 _B2 AG |"F" A2 F2 FA |"C7" G3 C EG | %8
+w: In a|cav- ern in a|can- yon ex- ca-|va- ting for a|mine dwelt a|min- er for- ty|nin- er and his|daugh- ter Cle- men-|
+"F" F4"^N.C." FF |"F" F2 C2 AA | A2 F2 FA | c3 c _BA |"C7" G4 GA | _B2 _B2 AG |"F" A2 F2 FA | %15
+w: tine Oh my|dar- ling oh my|dar- ling oh my|dar- ling Clem- en-|tine you are|lost and gone for|ev- er dread- ful|
+"C7" G3 C EG |"F" F4"^N.C." FF |"F" F2 C2 AA | A2 F2 FA | c3 c _BA |"C7" G4 GA | _B2 _B2 AG | %22
+w: sor- ry Clem- en-|tine Light she|was and like a|fai- ry and her|shoes were num- ber|nine Her- ring|box- es with out|
+"F" A2 F2 FA |"C7" G3 C EG |"F" F4 FF |"F" F2 C2 AA | A2 F2 FA | c3 c _BA |"C7" G4 GA | %29
+w: top- ses san- dals|were for Clem- en-|tine oh my|dar- ling oh my|dar- ling oh my|dar- ling Cle- men-|tine you are|
+ _B2 _B2 AG |"F" A2 F2 FA |"C7" G3 C EG |"F" F4 z2 |] %33
+w: lost and gone for|ev- er dread- ful|sor- ry Cle- men-|tine.|
+

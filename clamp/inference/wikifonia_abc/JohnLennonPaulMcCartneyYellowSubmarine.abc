@@ -1,0 +1,41 @@
+X:1
+T:Yellow Submarine
+T:Yellow Submarine
+T:John Lennon, Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+"G" Bc |"D" d- d3 B"C"A3/2B3/2 |"G" G6"Em" BB |"Am" AG E2- EE"C"BB |"D" A6"G" Bc |"D" d4- dB"C"AB | %6
+w: In the|town * where I was|born lived a|man * * * who sailed to|sea and he|told * us of his|
+w: ||||||
+w: ||||||
+"G" G6"Em" BB |"Am" AG E2- EE"C"BB |"D" A6"G" Bc |"D" d4- dB"C"AB |"G" G6"Em" BB | %11
+w: life in the|land * * * of sub- mar-|ines so we|sailed * up to the|sun till we|
+w: |||||
+w: |||||
+"Am" AG E2- EE"C"BB |"D" A6"G" Bc |"D" d2- d3 B"C"AB |"G" G6"Em" BB |"Am" AG E4"C" BB |"D7" A8 |: %17
+w: found the sea * the sea of|green and we|lived * be- neath the|waves in our|yel- * low sub- ma-|rine|
+w: ||||||
+w: ||||||
+"^CHORUS""G" d2 d2 d2 de |"D" AAAA A4 | AAAA A4 |"G" GGGG G4 | d2 d2 d2 de |"D" AAAA A4 | AAAA A4 | %24
+w: We all live in a|yel- low sub- mar- ine|yel- low sub- ma- rine|yel- low sub- ma- rine|we all live in a|yel- low sub- ma- rine|yel- low sub- ma- rine|
+w: |||||||
+w: |||||||
+"G" GGGG G2 Bc |"D" d4- dB"C"AB |"G" G6"Em" BB |"Am" AG E4"C" BB |"D" A6"G" Bc |1 %29
+w: yel- low sub- ma- rine and our|friends * are all on|board man- y|more of them live next|door and the|
+w: * * * * * and we|live * a life of|ease ev- ry|one of us has all|need sky of|
+w: |||* * * * we||
+ z"D" d3- dB"C"AB ||"G" G6"Em" z2 |"Am" z6 z2 |"D7" z8 |"G" z8 :|2"G" G6"Em" BB || %35
+w: band * be- gins to|play||||green in our|
+w: blue * and sea of||||||
+w: ||||||
+"Am" AG E4"C" BB |"D7" A8 |] %37
+w: yel * low sub- ma-|rine.|
+w: ||
+w: ||
+

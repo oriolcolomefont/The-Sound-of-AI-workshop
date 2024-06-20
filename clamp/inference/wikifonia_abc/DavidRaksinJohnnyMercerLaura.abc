@@ -1,0 +1,22 @@
+X:1
+T:Laura
+T:Laura
+T:D.Raksin
+T:J.Mercer
+C:David Raksin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"^E7(b9)" z e c d |:"^Am7" B2 B2- |"D7b9" B ^A/B/ (3A3/2 ^F/ G |"G6" A3/2 A/ E2- | E4 | %5
+"^Gm7" A2 A2- |"C7b9" A ^G/A/ (3G E F |"^Fj7" G4- |"F6" G4 |"^Fm7" z _E F2- | %10
+"^Fm7/Bb" F"Bb7b9" _E"Bb7b9" (3F E F |"^Ebj7" G3/2 G/ D2- |"Eb" D _E G ^A | %13
+"^Cm6" ^d3/2"D7b9" d/"D7b9" ^G2- |"D7b5""D7" G2"D7" A2 |"^Bm""G" d4- |"E7" d"E7b9" e"E7b9" c d | %17
+"^Am7" B2 B2- |"D7b9" B ^A/B/ (3A ^F G |"G6" A3/2 A/ E2- | E4 |"^Gm7" A2 A2- | %22
+"C7b9" A ^G/A/ (3G E F |"^Fj7" G4- |"F6" G4 |"^Fm7" z F G2- | %26
+"Fdim" G"Fdim/Ab" E"Fdim/Ab" (3F ^G B |"^Cj7/G" d3/2 c/ d2- |"D7" d2 B c |"D7b9" ^d2 d2- |1 %30
+"G9" d e/"G7b9"^d/"G7b9" (3=d A B ||"C" c4 |"E7" z"E7b9" e"E7b9" c d :|2"C""^Fm7" c4- ||"C" c3 z |] %35
+

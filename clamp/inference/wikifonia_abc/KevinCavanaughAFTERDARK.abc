@@ -1,0 +1,33 @@
+X:1
+T:AFTERDARK
+C:Kevin Cavanaugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+|:"Am7" z2 E2 A,B,-B,"Bm9"C- | C2 B,C B,-A,- A,2 |"Dm7" z2 z z/ E/- EE-E"Em7"D- | %3
+w: My ba- by _ loves|_ go- ing out _ _|AF _ TER _ DARK|
+w: My ba by _ feels|_ like _ swing ing _||
+ D2 z B/c/ d/-d/G/A/ B/-B/D/E/ |"Dm7" F2 E/-E/D E3 D |"G" GF-FE- ED- DE/-F/- |"Amaj7" E8- | %7
+w: _|* That's _ the time when|we let _ our _ hair _ down _|_|
+w: |* I _ can hear Julie|Lon don _ and _ gui _ tar _|_|
+ E4 z2 A,B, |"Dm7" CC-CC- CA,- A,A,/A,/ |"Em7" DD- D>D- DG,zG, |"Fmaj7" G>G- GF E>C- CC | %11
+w: * In a|qui- et _ corn _ er _ where the|dark is _ warm _ er and|real life's _ a- way from _ the|
+w: * in a|way off _ place _ where _ no one|knows our _ _ _ Face *||
+"Ab/Bb" C8- | C4 z4 |"Em7" B,B,-B,B,- B,B,-B,"Ebm7"_B,- | B,2- B,2 z _B, B,"Dm7"A,/-G,/ | A,8- | %16
+w: light|_|That's when _ love _ is _ right|_ _ AFT- ER DARK _|_|
+w: |||||
+ A,4"E7" z4 :|"Am7" z2 e2 AB-B"Bm9"c- | c2 Bc B-A- A2 |"Dm7" z2 z z/ E/- EE-E"Em7"D- | %20
+w: |||AF _ TER _ DARK|
+w: ||||
+ D2 z B/c/ d/-d/G/A/ B/-B/D/E/- |"Dm7" [Ff]2 e/-e/d e3 d |"G" gf-fe- ed- de/-f/- |"Amaj7" e8- | %24
+w: _||||
+w: ||||
+ !fermata!e8 |] %25
+w: |
+w: |
+

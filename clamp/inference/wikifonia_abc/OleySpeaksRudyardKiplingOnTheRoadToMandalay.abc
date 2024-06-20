@@ -1,0 +1,72 @@
+X:1
+T:On The Road To Mandalay
+T:On The Road To Mandalay
+T:Oley Speaks
+T:Rudyard Kipling
+C:Oley Speaks
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2"G7" !fermata!e>d |"C" c2 (3ccc"Em" B2 B2 |"Dm" d2 A4"Ddim" _A2 | %3
+w: |||
+w: |||
+w: |||
+"C" GABc"D7sus4" d2-"G7" !fermata!d>c |"C" !fermata!c8 |:[K:Eb]"Cm" G2 (3GGG G2 G2 | %6
+w: |||
+w: |||
+w: |||
+ G2 (3GGG G2 E>F | G3 G"G7" G2 G2 |"Cm" G2 c4"F7sus4" B>A |"Cm" G2 EF G2"G7" G-G | %10
+w: * * * * * By the|old Moul- mein Pa-|go- da look- in'|east- ward * to * the|
+w: * * * * * 'Er *|pet- ti- coat was|yal- ler, an' 'er|lit- tle * cao was *|
+w: * * * * * Ship me|some- wheres east of|Su- ez where the|best is * like the *|
+"Cm" G2 (3GGG"G7/D" G2"Cm" E>F | G3 G"G7" G2 G2 |"Cm" G2 c4"Fm" BA |"Cm" G2 E2 E2"G7" D2 | %14
+w: sea, * * * * There's a|Bur- ma girl a-|set- tin'; an' I|know she thinks o'|
+w: green, * * * * An' 'er|name was Su- pi-|yaw- lat jes' the|same as Thee- baw's|
+w: worst, * * * * Where there|aren't no Ten Com-|mand- ments, an' a|man can raise a|
+"Cm" C6 C>C |"Bb7" B,3 B, D2 F2 |"Gbdim" _G2 E4 EF | _G3 G F2 E2 |"Bb7" B6 BB |"Eb7" B3 E E2 E2 | %20
+w: me; For the|wind is in the|palm- trees, an' the|tem- ple bells they|say; "Come you|back, you Brit- ish|
+w: Queen, An' I|seed her first a-|smok- in' of a|whack- in' white che-|root, An' a-|wast- in' Chris- tian|
+w: thirst; For the|tem- ple bells are|call- in' an' it's|there that I would|be- By the|old Moul- mein Pa-|
+ E2"Ab" A4 AA | A3 A A2 A2 |"G" G2 (3GGG G2 GG |"G7" G2 G2"Em" G2 G2 | %24
+w: sol- dier; come you|back to Man- da-|lay, * * * * come you|back to Man- da-|
+w: kiss- es on an|'eath- en i- dol's|foot, * * * * on an|'eath- en i- dol's|
+w: go- da, look- in'|la- zy at the|sea, * * * * look- in'|la- zy at the|
+"G7" !fermata!G6"C" !fermata!c!fermata!=B || =A3 =E"Cmaj7" E2"C6" E2 |"C" =E2 (3EEE E2 c>=B | %27
+w: lay!" Come you|back to Man- da-|lay, * * * * Where the|
+w: foot; Bloom- in'|i- dol made o'|mud * * * * What they|
+w: sea; Come you|back to Man- da-|lay, * * * * Where the|
+ =A2 =E2 E2 E2 |"G7" F2"F" (3FFF"G7" F2"C" =E>"G7"D |"C""G7" C3 D"C" =E2"G7" F2 | %30
+w: old Flo- til- la|lay; * * * * Can't you|'ear their pad- dles|
+w: called the great Gawd|Budd * * * * Pluck- y|lot she cares for|
+w: old Flo- til- la|lay, * * * * Can't you|'ear their pad- dles|
+"C" G2"Cdim" =A2"B" =B2"Adim" c2 |"D7" c2 =e2 d2 c2 |"Dm7" !fermata!d2 (3ddd"G7" d2 !fermata!=e>d | %33
+w: chunk- in' from Ran-|goon to Man- da-|lay? * * * * On the|
+w: i- dols when I|kissed her where she|stood! * * * * On the|
+w: chunk- in' from Ran-|goon to Man- da-|lay? * * * * On the|
+"C" c2 c2"Em" =B2 B2 |"Dm" d2 =A4"Abdim" ^G>A |"Dm7" c2"G7" =B2"Dm7" =A2"G7" B2 | %36
+w: road to Man- da-|lay, * Where the|fly- in' fish- es|
+w: road to Man- da-|lay, * Where the|fly- in' fish- es|
+w: road to Man- da-|lay, * Where the|fly- in' fish- es|
+"C/E" G2"Ebdim" =A2"G7/D" =B2 =E>D |"C" C3"G7" D"C" =E2"G7" F2 |"C" G2"Cdim" =A2"B" =B2"Dm7" c2 |1 %39
+w: play, * * An' the|dawn comes up like|thun- der out of|
+w: play, * * An' the|dawn comes up like|thun- der out of|
+w: play, * * An' the|dawn comes up like|thun- der out of|
+ c2 =A2"D7sus4""G7" !fermata!d3 c ||"C" c2 (3ccc"Em" =B2 (3BBB |"Dm" d2"Ddim" =A4 _A2 | %42
+w: Chi- na 'crost the|bay.- * * * * * * *||
+w: Chi- na 'crost the|bay,- * * * * * * *||
+w: |||
+"C" G=A=Bc"Gsus4" d2- !fermata!d>c |"C" c2 (3GGG C4 :|2"F/D" f2 =e2"G9""G7" d3 c || %45
+w: ||Chi- na 'crost the|
+w: |||
+w: |||
+"C" c2 (3ccc"F" c/c/d/=e/ f/g/=a/=b/ |"C" !fermata!c'8 |] %47
+w: bay.- * * * * * * * * * * *||
+w: ||
+w: ||
+

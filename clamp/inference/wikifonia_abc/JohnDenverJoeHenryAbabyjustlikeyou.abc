@@ -1,0 +1,29 @@
+X:1
+T:A baby just like you
+T:A baby just like you
+T:John Denver, Joe Henry
+T:Ballad
+C:John Denver,Joe Henry
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G2 Bd"D" d3 d |"C" e2 d2"G" d3 B | c2 B2"D7" A3 G |"G" A2 B6 | G2 Bd"D" d2 d2 | %5
+w: The sea- son is up-|on us now a|time for gifts and|giv- ing|and as the year draws|
+w: A sav- ior King was|born that day, a|ba- by just like|you *|and as the ma- gi-|
+"C" e2 ^f2"G" d3 d | c2 B2"D7" A2 G2 |"G" A2 B6 | G2 Bd"D" d3 d |"C" e3 d"G" d3 B | %10
+w: to its close I|think a- bout my|liv- ing|The Christ- mas time when|I was young, the|
+w: came with gifts I've|come with my gift|too *|that peace on earth fills|up your time that|
+ c2 B2"D7" A3 G |"G" A2 B6 | G2 Bd"D" d3 d |"C" e2 ^f2"G" d3 B | c3 B"D7" A2 A2 | %15
+w: mag- ic and the|won- der|but col- ors dull and|can- dles dim and|dark my stand- ing|
+w: broth er hood sur|rounds you|that you may know the|warmth of love and|wrap it all a-|
+"G" A2 G4"^ToCoda" z2 ||"Em" B2 BB"A" ^c2 ^c2 |"D" d3 d"C" e3 e |"G" d2 d2"D" d3 c |"G" B2 B6 | %20
+w: un- der|Oh lit- tle an- gel|shin- ing light you've|set my soul to|dream ing|
+w: round you|||||
+"Em" B2 BB"A" ^c3 ^c |"D" d2 d2"C" e3 d |"G" d2 cB"D" A3 A |"^D.C.alCoda""G" G6 z2 |] %24
+w: you've giv- en back my|joy in live and|filled me with new mean-|ing-|
+w: ||||
+

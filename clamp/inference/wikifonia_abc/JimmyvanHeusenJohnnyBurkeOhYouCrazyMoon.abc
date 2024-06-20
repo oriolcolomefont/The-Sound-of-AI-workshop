@@ -1,0 +1,28 @@
+X:1
+T:Oh, You Crazy Moon
+T:Oh You Crazy Moon
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Am7" B3 A"D7" B3 A |"Am7" d2 c2"D7b9" B2 F2 |"Gmaj7" A3 G"C9" A2 G2 |"Bm7""E7b9" D8 | %4
+w: When they met, the|way they smiled, I|saw that I was|thru,|
+"A7" F3 E"Bb7" F2 EC- |"Am7" C4 (3B2"D7b9" F2 A2 |"G6" D8- |"E7" D6 z2 |"Am7" B3 A"D7" B3 A | %9
+w: oh, you cra- zy moon|_ what did you|do?|_|When they kissed they|
+"Am7" d2 c2"D7b9" B2 F2 |"Gmaj7" A3 G"C9" A2 G2 |"Bm7""E7b9" D8 |"A7" F3 E F2 EC- | %13
+w: tried to say that|it was just in|fun,|oh, you cra- zy moon|
+"Am7" C4 (3B2"D7" F2 A2 |"G6" G8- |"C#dim7" G2 z2"F#7" z4 |"Bm" F2 ^G2 ^A2 B2 | %17
+w: _ look what you've|done.|_|Once you pro- mised|
+"C#dim7" ^c2 ed-"F#7b9" d3 c |"Bm7" B^c B4 F^G- |"E7" G8 |"Am7" E2 F2 ^G3 A | %21
+w: me, you know, _ that|it would nev- er end,|_|You should be a-|
+"Bm7" B2 dc-"E+7" c3 B |"A7" AB A4 E2 |"Am7" A6"D7" z2 |"Am7" B3 A"D7" B3 A | %25
+w: shamed to show _ your|fun- ny face my|friend.|There they are, they|
+"Am7" d2 c2"D7b9" B2 F2 |"Gmaj7" A3 G"C9" A2 G2 |"Bm7""E7b9" D8 |"A7" F3 E"Bb7" F2 EC- | %29
+w: fell in love, I|guess you think you're|smart,|oh, you cra- zy moon|
+"Am7" C4 (3B2"D7b9" F2 A2 |1"G" G8 ||"E7" z8 :|2"G" G8- || G2 z2 z4 |] %34
+w: _ you broke my|heart.||heart.|_|
+

@@ -1,0 +1,22 @@
+X:1
+T:Blue Christmas
+C:Billy Hayes, Jay Johnson
+Z:All Rights Reserved
+L:1/4
+Q:1/4=1
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"^Moderately" C F G |:"F" A4 | A G2 F |"C7" E G3- | G C E G | B4 | B A2 G |"F" F A3- | A2 A B | %9
+w: I'll have a|blue|Christ- mas, with-|out you.|* I'll be so|blue|think- ing a-|bout you.|* Dec- o-|
+"Am7b5" c2"D7" B A |"Am7b5" c2"D7" B A |"Gm" G2 G A | B4 |"G7" A2 G F | A3 F |"C7" E E F ^F | %16
+w: ra- tions of|red on a|green Christ- mas|tree|won't mean a|thing if|you're not hear with|
+ G C F G |"F" A4 | A G2 F |"C7" E G3- | G C E G | B4 | B A2 G |"F" F A3- | A2 A B | %25
+w: me. I'll have a|blue|Christ- mas, that's|cert- ain,|* And when that|blue|heart- ache starts|hurt- in',|* you'll be|
+"Am7b5" c2"D7" B A |"Am7b5" c2"D7" B A |"Gm" G2 G A |"Bdim7" d3 D |"C7" C2 E F | G2 A2 |1 %31
+w: do- in' all|right, with your|Christ- mas of|white, but|I'll have a|blue, Blue|
+"F" G F3- | F"C7" C F G :|2"F" G F3- | F3 z |] %35
+w: Christ- mas.|* I'll have a|Christ- mas.||
+

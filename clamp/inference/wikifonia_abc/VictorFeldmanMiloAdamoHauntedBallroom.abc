@@ -1,0 +1,43 @@
+X:1
+T:Haunted Ballroom
+T:Haunted Ballroom
+T:Victor Feldman
+T:Milo Adamo
+T:
+C:Victor Feldman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Fmaj7""^A" ^GA z c-"D7b9" c4 |"Gm7" ^GA z D-"C9" D4 |"Am7" ^GA z"D7b9" d z d3 | %3
+w: Hear 'em swing *|see 'em sway *|to the songs of|
+w: Long a- go *|so they say *|all the big bands|
+w: One more song *|Maes- tro please. *|One more waltz be-|
+"Gm7" ^GA z"C9" D- D4 |"Bbm7" C_D z c-"Eb13#11" c4 |"Abm7" B,=B, z"Db13#11" B- B4 | %6
+w: yes- ter- day, *|"string of Pearls" *|"El- mer's Tune" *|
+w: used to play *|"my ro- mance" *|"Love in Bloom" *|
+w: fore we leave. *|"car- a van" *|"Pa- per Moon" *|
+"F#m7" ^G,A,- (3A,^CE"B13" ^G2"C13sus4" A2- |"Gm7" AcB"Db9"G"C7" z"C13#11" A3!fine! :| %8
+w: mid- night * at the Star- light|Haunt- ed * Ball- room|
+w: ||
+w: ||
+"Bbm7""^B" z4"Cm7" z FB_e |"Dbmaj7" c2 _AF"Eb7b9" z B3 |"Abmaj7" _E4-"Dbm7" E4 |"Cm7" z4"F7b9" z4 | %12
+w: Gene Kru- pa|beat- ing on the|drums. *||
+w: ||||
+w: ||||
+"Bbm7" z4"Cm7" (3F2 B2 _e2 |"Dbmaj7" c2 _AF"Eb7b9" z G2 _E |"Ab" B,2 _EC-"Eb/G" C4- | %15
+w: And Tom- my|Dor sey play- ing the|slide trom- bone *|
+w: |||
+w: |||
+"Fm7" C4"Fm7/Eb" z4 |"Dm7" z4"Em7" z DGc |"Fmaj7" A2 FD z"G7b9" G3 |"Em7" E4- EFGA- | %19
+w: |Glenn Mil- ler|put you in the|mood * with a song|
+w: ||||
+w: ||||
+"A7b9" A4 z G3 |"Dm7" F4- FGA=B- |"G13" =B4 z G3 |"G9sus4" d4- dBGc- |"C13b9" c8!D.C.! || %24
+w: * and|Satch * mo got up|* and|blew * on his horn||
+w: |||||
+w: |||||
+

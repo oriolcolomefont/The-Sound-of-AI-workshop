@@ -1,0 +1,20 @@
+X:1
+T:Halljátok, cigányok
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" C C2 D ED C2 |"Fm" FFGA"Cm" G2 F2 |"G" E2 D2"Cm" C2 z2!fine! |"Gm" G G2 =A BA G2 | %4
+w: Hall- já- tok, ci- gá- nyok,|va- la- hogy ma oly jó|ked- vem van.|Hó- tá- mat ját- szá- tok,|
+w: A jó- kedv sok- at ér,~s|te- téz- ni ti oly jól|tud- já- tok.||
+"Cm" ccde"Gm" d2 c2 |"D" B2 =A2"Gm" G2 z2 |"Cm" e e2 =B"G" dc G2 |"Fm" FGAB"G" dc=Bc | %8
+w: mert ab- ban a szí- vem,|lel- kem van.|Ö- röm, vagy bá- nat ér,|i- de jön az em- ber min- dig|
+w: ||||
+"Cm" G2 E2"G" D2 z2!D.C.! |] %9
+w: hoz- zá- tok,|
+w: |
+

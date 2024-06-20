@@ -1,0 +1,28 @@
+X:1
+T:MAMMA EL BAJON
+T: Laukens Music Productions  
+T:Samba
+T:MAMMA WOAR IS MIEN PILS
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=190
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:S"D" (4:2:4d3"^3" B- B2 A2 (4:2:4d3"^3" f- f2 a2 | %1
+"A7" (4:2:4A3 B-"^3" B2 c2"D" (4:2:4d3"^3" f- f2 a2 | (4:2:4d3"^3" B- B2 A2 (4:2:4d3"^3" f- f2 a2 | %3
+"A7" (4:2:4A3"^3" B- B2 c2"D" d2!fine! z2 ::"D" AA BF AA Ad | dd ed"A7" c2 z2 | GG AE GG Gc | %7
+ cc B/B/B"D" A2 z2 | AA BF AA/A/- Ad |"D7" dd ed"G" =cB z d | dd cB"D" dA/A/- Ad | %11
+"A7" cd ec"D" ed z2 ||"D" A/AA/ BF A2 z d | dd ed"A7" c2 z2 | G/GG/ AE G2 z c | cc BB"D" A2 z A | %16
+"G" BB cB"D" dA/A/- A z/ A/ |"A7" GG cB"D" BA/A/- A z |"G" B/BB/ cB"D" dA AOd ||1 %19
+"A7" cd ec"D" d2 z A :|2"A7" cd ec"D" d2 z2S ||O"A7" cd ec"D" d2 z2 ||"D" A/AA/ BF A2 z d | %23
+ dd ed"A7" c2 z2 | G/GG/ AE G2 z c | cc BB"D" A2 z A |"G" BB cB"D" dA/A/- A z/ A/ | %27
+"A7" GG cB"D" BA/A/- A z |"G" B/BB/ cB"D" dA Ad |"A7" cd ec"D" d2 z2S |] %30
+

@@ -1,0 +1,28 @@
+X:1
+T:The Wind Beneath My Wings
+T:The Wind Beneath My Wings
+T:unknown
+C:Larry Henley, Jeff Silbar
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"G" z D Bcdc- | c2 B2 A2 G2 |"C" G4 E4- | E8 | z2"G" z D Bcdc- | c2 B2 A2 G2 |"C" G8- | G8 | %8
+w: It must have been cold|* there in my|sha- dow||to nev- er have sun-|* light in your|face||
+w: So I was the one|* with all the|glo- ry||while you were the one|* with all the|strength||
+"Am" z4 ABcB- | B2 A2 G2 A2 |"D7" A8- | A8 |"Am" z4 ABcB- | B2 A2 G2 A2 |"D7" A8- | A8 :| %16
+w: you were con- tent|* to let me|shine||you al- ways walked|* a step be-|hind||
+w: beau- ti- ful face|* with out a|name||beau- ti- ful smile|* to hide the|pain||
+ z2"Em" z B efgf- |"C" f2 e2 d2 c2 |"G" d4 d4- |"D7" d8 |"Em" z4 efgf |"C" f2 e2 (d2 c2) | %22
+w: Did you ev- er know|* that you're my|he- ro||and ev- ry thing|I'd like to *|
+w: ||||||
+"G" d6 z2 |"D7" z2 A2 G F3 |"Em" G2 z2 efgf- |"C" f2 e2 d2 c2 |"G" d6 e2 |"Em" (BAG- G3) z2 | %28
+w: be|li- ke to|be I can fly high-|* er than an|ea- e-|gle * * *|
+w: ||||||
+"Am" z2 z D ABcB- |"D7" B2 A2 G2 F2 |"C" G8- |"Eb" G8 |"G" g8 |] %33
+w: cause you are the wind|* be- neath my|wings|||
+w: |||||
+

@@ -1,0 +1,32 @@
+X:1
+T:Something To Live For
+T:Something To Live For
+T:Billy Strayhorn
+T:2
+T:Something To Live For
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Fmaj7" A F"F6" C A |"Cm9" G4 |"Fmaj7" A F"F6" C A |"Cm9" G4 |"Ebmaj7" G E"Eb6" B, G |"Bbm9" F4 | %6
+"Ebmaj7" G E"Eb6" B, G |"Bbm7" F3"Eb7b9" =E |"Abmaj7" E F G _A |"G7#9" B"Abm9""C7" B3 | %10
+"Fm7" C D"Fm6" F"C+7" _A |"Fm9" G3"Fm6" z/ F/ |"C" =E"Dm7" F"F#dim7" ^F"C/E" G | %13
+"Ab13" B B2"Ab+7" A |"Fm7b5" _A A"G7b9" A G |"C9b5" ^F2"F9" G2 |:"Bbmaj7" A2 A2- | %17
+ A3/2 A/ (3c A c |"Bbm7" _A3/2 A/- A2- | A2"E7#5#9" (3c _A =B |"Eb69" B3/2 B,/ C2- | %21
+"Eb6" (3C B, C"Ebm6" (3E F _G |"Bbmaj7" F2 F2 |"Cm9" (3d c d"C9b5" ^F"A7" G ||"Bbmaj7" A2 A2- | %25
+ A3/2 A/ (3c A c |"Bbm7" _A3/2 A/- A2- | A2"E7b9" (3c _A =B |"Eb69" B3/2 B,/ C2- | %29
+ C2"Ebmaj7" (3E G B |"D7b5""D7" d4 |"D+7" (3d d d"D7b9" e3/2 d/ |"Dm6" A3/2 A/-"Em7" A3/2 A/- | %33
+"G+7" A3/2 A/-"G9b5" A2 |"Fmaj7" c2"F6" c2 |"C7b5" (3c c c"C13b9" (3_d d c |"B9" _G3/2 G/- G2 | %37
+"C9b5" _G2"Eb9b5" =G2 ||"Bbmaj7" A4- | A3/2 A/ (3c A c |"Bbm7" _A3/2 A/- A2- | %41
+ A2"E7#5#9" (3c _A =B |"Eb69" B3/2 B,/ C2- | C2"Cm9" (3D E G |"A13b9""A7#5b9" B4- | %45
+"A7b9" B2"A7b5" A3/2 B/ |"D7b5" d2"D7" d2 |"Gm7" d2"C91113sus4" c3/2 B/ |"C9b5" _G2"C13" A2 | %49
+"C13b9" A2"C7b9" G2 |"Bb6""Bdim7" F4 |"Cm7" G2"F7" A3/2 B/ |1"Bbmaj7" c2 c2- |"Cm7" c2"F7" A c :|2 %54
+"Bbmaj7" c2 c2- || c3 z |] %56
+

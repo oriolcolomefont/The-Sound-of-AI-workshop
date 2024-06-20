@@ -1,0 +1,32 @@
+X:1
+T:Love, Here Is My Heart
+T:Love Here Is My Heart
+T:Mon Coeur Est Pour Toi
+T:Lao Silesu
+T:Adrian Ross
+C:Lao Silesu
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Verse" z2 z z AB |"F" cfd"C7" edc |"F" A3- ABc |"Dm7" AGF"G7" FEF |"F/C" A3"C7" GAB | %5
+w: 1.....I have|gath- er'd my heart as a|rose, * As a|rose from the mid- sum- mer|gar- den; And my|
+w: 2.....I have|spo- ken my heart in a|song, * In a|song of the night- in- gale's|trill- ing, For she|
+"F" cfd"D7" ed"Gbdim"c |"Em" G3- GFE |"G7sus4" AGF"G7" =BAG |"C7" c3"Gbdim" c2 z || %9
+w: love at the heart of it|glows, * And its|breath is a pray'r for your|par- don!|
+w: sang to me all the night|long, * Till my|heart with her pas- sion was|thrill- ing!|
+"F""^Chorus" f3"Dm7" de>c |"Gm7" B6 |"F" A3"C7" GA>E |"F" D6 |"Am" EFG"Fdim" F!fermata!E>D | %14
+w: Love here is my|heart,|One rose that I|bear;|Yours if you keep it to-|
+w: Love, here is my|heart,|One ten- der re-|frain;|Yours if you e- cho the|
+"Gm7" B6 |"C7" EFA"C7sus4" GF>E |"F" c3"Abdim" ^cd"C7"e |"F" f3"Dm7" de>c |"Gm7" B6 |"A7" A3 GA>E | %20
+w: day,|Yours if you throw it a-|way! Wheth- er you|now tear it a-|part|Or choose it to|
+w: tune,|Yours if you tire of it|soon Wheth- er you|laugh, as you de-|part,|Or hear it a-|
+"Bb" D6 |"Abdim" DEF"G9" f!fermata!e>d |"F" A3- ABc | A3"C7" GFG |"F" F3- F z z :| %25
+w: wear|Some- thing to kiss or to|kill, * As you|will, Here is my|heart.- *|
+w: gain|Some- thing to lis- ten to|yet, * Or for-|get, Here is my|heart.- *|
+

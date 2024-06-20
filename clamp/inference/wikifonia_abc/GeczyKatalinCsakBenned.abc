@@ -1,0 +1,17 @@
+X:1
+T:Csak Benned
+C:Géczy Katalin
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 A,2 |"Dm" D3 D- D2 (AG) |"C" G3 G- G4 |"G" z2 G2 G2 E2 |"Dm" (F2 E)D- D2 A,2 | %5
+w: Csak|Ben- ned, * csak *|Ben- ned *|nyug- szik meg|szí- * vem, * Csak|
+"Dm" D3 D- D2 (AG) |"C" G3 G- G4 |"G" z2 F2"B" G2 D2 |"A" A6 d2 |"F" c3 c- c2 (AG) |"C" G3 G- G4 | %11
+w: Ben- ned, * csak *|Ben- ned *|nem fé- lek|már. Csak|Ben- ned, * csak *|Ben- ned *|
+"G" z2 G2 G2 E2 |"Dm" F2 ED- D2 A,2 |"G" D4 D2 (AG) |"C" G2 z2 (ED) C2 |"Dm" D8- | D6 z2 |] %17
+w: rej- tő- zöm|szün- te- len, * mert|Jé- zus, Te *|vagy kő- * szik-|lám.||
+

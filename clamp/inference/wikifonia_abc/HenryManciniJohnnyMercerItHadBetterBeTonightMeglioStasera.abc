@@ -1,0 +1,43 @@
+X:1
+T:It Had Better Be Tonight (Meglio Stasera)
+T:It Had Better Be Tonight
+T:Meglio Stasera
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ !>!D !>!F !>!A !>!D | !>!E G/B/ z/ d/ e | !>!a !>!a/!>!a/ z/ !>!a/ !>!a | !>!a/ z/ A A A | %4
+w: |||* Meg- lia sta-|
+w: ||||
+"C#dim" B3/2"Dm" A/- A z |"Edim" G3/2"Dm" F/- F z |"Eb" _E2"A" ^C3/2"Dm" D/- | D z z A | %8
+w: se- ra, _|ba- by, _|Go! go! go!|_ Or|
+w: ||||
+"C#dim" B3/2"Dm" A/- A z |"Edim" G3/2"Dm" F/- F z |"Eb" _E4- | E B G _E |"Dm" D4- | D4- | D4- | %15
+w: as we _|na- tives _|say,|_ "Fa- su- bi-|to"|_||
+w: |||||||
+ D4 |:"Dm" z2 D E | F A G F |"Gm" F E3- | E4 |"A7" z2 E F | G E A G |"Dm" F4- | F4 |"D7" z2 ^F G | %25
+w: |1~.If you're|ev- er gon- na|kiss me.|_|IT HAD|BET- TER BE TO-|NIGHT,|_|While the|
+w: |2.~For this|poor A- mer- i-|ca- no,|_|Who knows|lit- tle of your|speech,|_|Be a|
+ A D ^F A |"Gm" c2 B2- | B2"F" A2 |"E7" ^G4- | G2 E2 |"A7" G4- | G4 |"Dm" z2 D E | G A G F | %34
+w: man- do- lins are|play- ing|_ and|stars|_ are|bright.|_|If you've|an- y- thing to|
+w: nice I- tal- i-|an- o,|_ and|start|_ to|teach.|_|Show me|how, in old Mil-|
+"Gm" F E3- | E4 |"A7" z2 E F | G E A G |"Dm" F4- | F4 |"D7" z2 ^F G | A D ^F A |"Gm" c2 B2- | %43
+w: tell me,|_|IT HAD|BET- TER BE TO-|NIGHT;|_|Or some-|bod- y else may|tell me,|
+w: an- o,|_|Lov- ers|hold each oth- er|tight;|_|But I|warn you, sweet pai-|san- o,|
+ B2 B2 |"Dm" A2 F D |"Gm7" F2"A+" F2 |"Dm" D4- | D A A A |"C#dim" B3/2"Dm" A/- A z | %49
+w: _ And|whis- per the|words just|right.|_ Meg- lio sta-|se- ra, _|
+w: _ IT|HAD BET- TER|BE TO-|NIGHT.|_ Meg- lio sta-|se- ra, _|
+"Edim" G3/2"Dm" F/- F z |"Eb" _E2"A" ^C3/2"Dm" D/- | D z z A |"C#dim" B3/2"Dm" A/- A z | %53
+w: ba- by, _|Go! go! go!|_ Or|as we _|
+w: ba- by, _|Go! go! go!|_ Or|as we _|
+"Edim" G3/2"Dm" F/- F z |1"Eb" _E4- || E B G _E |"Dm" D4- | D4- | D4- | D4 :|2"Eb" _E4- || E2 G2 | %62
+w: na- tives _|say,|_ "Fa su- bi-|to"|_|||say|_ "Fa|
+w: na- tives _|_||||||||
+ B4 | _e4 |"Dm" d4- |"Gm" d4- |"Dm" d4- | d4 |] %68
+w: su-|bi-|to."|_|||
+w: ||||||
+

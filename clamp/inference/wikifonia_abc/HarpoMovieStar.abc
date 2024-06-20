@@ -1,0 +1,55 @@
+X:1
+T:Movie Star
+T:Movie Star
+T:Harpo
+C:Harpo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A2 G2 FGAA- |"F#m" A c2 A- A F3 |"G" F2 E2 DEFF- |"A" F2 E2 D E3 |"D" A2 G2 FGAA- | %5
+w: |||||
+"F#m" A c2 A- A F3 |"G" F2 E2 DEFF- |"A" F2 E2 D E3 ||"D" z2 z A A A2 A- |"F#m" AA A2 z2 FA | %10
+w: |||You feel like Steve|* Mc- Queen when you're|
+"G" B2 B2 B B2 A- |"A" A2 z2 z4 |"D" z AAA- A A2 A- |"F#m" AA A2 A2 FA |"G" B2 B2 B2 AA- | %15
+w: driv- ing in your car||And you think- * you look|* like James Bond when you're|smok- ing your ci- gar,|
+"A" A2 z A A2 GA- |"D" A2 z A A A2 A- |"F#m" A2 z A A A2 G- |"G" G2 z2 B4 |"A" A2 (3AAA- AAAG | %20
+w: * It's so bi- zarre,|* You think you are|* a new kind of|* James|Dean, but the on- * ly thing I've|
+"D" AA A2 z2 FA- |"F#m" A2 z2 AAAA- |"G" A G2 G- GGFE- |"A" E4 z4 ||"D" A2 AA- A2 Ac- | %25
+w: ev- er seen of you|* was the com- mer-|* cial spot * on the screen.||Mov- ie star * oh mov-|
+"F#m" c2 AA- A2 z2 |"G" z2 z d d2 Bc- |"A" c d2 e- e c3 |"D" A2 AA- A2 Ac- |"F#m" c2 AA- A2 z2 | %30
+w: * ie star *|you think you are|* a mov- * ie,|Movie star * oh mov- *|ie star * *|
+"G" z2 z d d2 Bc- |"A" c d2 e- e c3 |"D" A2 z2 z FGA- |"F#m" A c2 A- A F3 |"G" F2 E2 DEFF- | %35
+w: you think you are|* a mov- * ie|star Ah- a- a|||
+"A" F2 E2 D E3 |"D" A2 G2 FGAA- |"F#m" A c2 A- A F3 |"G" F2 E2 DEFF- |"A" F2 E2"Bb" G2 =F2 || %40
+w: |||||
+"Eb" z _BBB BG_AB- |"Gm" B _B3 z4 |"Ab" z =ccc- cc c2 |"Bb" =c _B2 B- B2 z2 |"Eb" z _BBB- BG_AB- | %45
+w: You should be- long to the jet-|* set,|Fly your own * pri- vate|Lear * Jet *|But you worked * in a gro-|
+"Gm" B_BBB- BGB=c- |"Ab" c=ccc c c2 c- |"Bb" c_B B/B/B- B2 z2 |"Eb" z _BBB- B B2 B- | %49
+w: * er- y store * ev- 'ry day|* un- til you could af- ford|* to get a- way *|So you went * to Swe-|
+"Gm" B_BBB- BGB=c- |"Ab" c=c z c c c2 _B- |"Bb" BG_A_B- BGAB- |"Eb" B_BBB B2 BB- |"Gm" B_B B2 z4 | %54
+w: * den to meet * Ing- mar Berg-|* man, he was- n't there,|* or he just * did- n't care,|* I think it's time for you|* my friend|
+"Ab" z =ccc c2 cc- |"Bb" c _B2 B- B _A2 B- |"Eb" B2 _BB- B2 Bd- |"Gm" d2 _BB- BGB_A- | %58
+w: to stop pre- tend- ing that|* you are * a mov-|* ie star * a mov-|* ie star * * * *|
+"Ab" A2 z _e e2 =cd- |"Bb" d _e2 =f- f d3 |"Eb" _A2 _BB- B2 Bd- |"Gm" d2 _BB- BGB_A- | %62
+w: * you think you are|* a mov- * ie,|Mov- ie star * a mov-|* ie star * * * *|
+"Ab" A2 z _e e2 =cd- |"Bb" d _e2 =f- f d3 |"Eb" _B2 z2 z G_AB- |"Gm" B d2 _B- B G3 | %66
+w: * you think you are|* a mov- * ie|star Ah- a- a||
+"Ab" G2 =F2 _EFGG- |"Bb" G2 =F2"B" ^G2 ^F2 ||"E" E4 B2 BB- |"G#m" B B3 z4 |"A" z2 z c c2 c2 | %71
+w: ||* Fro- zen he-|* ro|your words are|
+"B" c B2 B- B^GAB- |"E" B2 z B B B2 B- |"G#m" B B2 B- B2 z2 |"A" z2 z c c2 cB- |"B" B^GGA B2 AB- || %76
+w: ze- * ro, * and your dreams|* have van- ished- in-|* to dark *|and long a- go|* but you will want to know|
+"E" B2 BB- B2 B^d- |"G#m" d2 BB- B^GBA- |"A" A2 z e e2 c^d- |"B" d e2 f- f ^d3 | %80
+w: (Mov- ie star) * Oh mov-|* ie star * * * *|* You think you are|* a mov- * ie|
+"E" B2 BB- B2 B^d- |"G#m" d2 BB- B^GBA- |"A" A2 z e e2 c^d- |"B" d e2 f- f ^d3 | %84
+w: Mov- ie star, * a mov-|* ie star * * * *|* You think you are|* a mov- * ie|
+"E" B2 BB- B2 B^d- |"G#m" d2 BB- B^GBA- |"A" A2 z e e2 c^d- |"B" d e2 f- f ^d3 |: %88
+w: Mov- ie star * a mov-|* ie star * * * *|* You think you are|* a mov- * ie|
+"E" B2 BB- B^GAB- |"G#m" B2 BB- B^GBA- |"A" A2 F2 EF^GG- |"B" G2 F2 E F3 :| %92
+w: Mov- ie- star * * a mov-|* ie star * * * *|||
+

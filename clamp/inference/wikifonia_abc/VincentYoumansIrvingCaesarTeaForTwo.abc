@@ -1,0 +1,38 @@
+X:1
+T:Tea For Two
+T:Tea For Two
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c2 BA"C7" G F2 G |"F" A2 GF"C7" G A2 B |"F" c2 BA"C7" G F2 G |"F""A+7" A6"A7" z2 | %4
+w: I'm dis- con- ten- ted with|homes that are rent- ed so|I have in- ven- ted my|own.|
+"Dm" A2 GF E"E7"D z E |"Gm" F2 ED"A7" EF z G |"Dm" A2 GF E"E7"D z E | F6 z2 | D2 EF GA B2 | %9
+w: Dar- ling, this place is a|lov- er's o- a- sis, where|life's wear- y chase is un-|known.|Far from the cry of the|
+ c z c2- cBAG | B z B2- BAGF | A8 |"F" c2 BA"C9" G F2 G |"F" A2 GF"C9" GA z B | %14
+w: cit- y _ where flow- ers|pret- ty _ car- ess the|streams,|Co- zy to hide in, to|live side by side in, don't|
+"F" c2 BA"C9" GF z G |"F" F2"C7""C#7" z4"D7" z2 |:"Gm7" F3 D"C7" E3 D |"Gm7" F3 D"C7" E3 C | %18
+w: let it a- bide in my|dreams.|Pic- ture me up-|on your knee, Just|
+"Fmaj7" E3 C"Bb7" D3 C |"Am7" E3 C"G#dim7" D3 C |"Gm7" F3 D"C7" E3 D |"Gm7" F3 D"C7" E3 C | %22
+w: tea for two and|two for tea, Just|me for you and|you for me a-|
+"Fmaj7" A8- |"F6" A4 z4 |"Bm7" A2 A^F"E7" ^G2 GF |"Bm7" A2 A^F"E7" ^G2 GF | %26
+w: lone.|_|No- bod- y near us to|see us or hear us, no|
+"Amaj7" ^G2 GE"D7" ^F2 FE |"C#m7" ^G2 GE"Cdim7" ^F2 FE |"Bm7" A2 A^F"E7" ^G2 GF | %29
+w: friends or re- la- tions on|week- end va- ca- tions, We|won't have it known, dear, that|
+"Bm7" A2 A^F"E7" ^G2 E2 |"Amaj7" ^c8 |"Gm7" =c4"C7" z4 |"Gm7" F3 D"C7" E3 D |"Gm7" F3 D"C7" E3 C | %34
+w: we have a te- le|phone|dear.|Day will break and|you'll a wake and|
+"Fmaj7" E3 C"Bb7" D3 C |"Am7" E3 C"G#dim7" D3 C |"Gm7" F3 D"C7" E3 D |"Gm7" F3 D"C7" E3 C | %38
+w: star to bake a|su- gar cake for|me to take for|all the boys to|
+"Am7b5" c8- |"D7b9" c4 z4 |"Gm" d3 d"Am7b5" c3 c |"Eb7" B3 B"D7" A3 A |"F#dim7" c3 c"Gm" B3 B | %43
+w: see.|_|We will raise a|fam- i- ly, a|boy for you, a|
+"Eb" A3 A G3- G |"F6/A" F3 D"G#dim7" E3 D |"Gm7" F3 D"C7" E3 A |"F" F2 e2"Dm6" d2 A2 | %47
+w: girl for me. _|Can't you see how|hap- py we would|be. * * *|
+"C7" G2 C2"C#7" ^C2"D7" D2 :|"F""Dm6""C+7" F8- |"F" F6 z2 |] %50
+w: |be.|_|
+

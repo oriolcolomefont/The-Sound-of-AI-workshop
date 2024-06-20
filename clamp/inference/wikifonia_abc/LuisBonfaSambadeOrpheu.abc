@@ -1,0 +1,25 @@
+X:1
+T:Samba de Orpheu
+T:Samba de Orpheu
+T:Luis Bonfa
+C:Luis Bonfa
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble transpose=-9 
+%%MIDI program 65
+V:1
+[K:C] z2 CE z G2 B- |:"Cmaj7" B8 | A3 G z E2 B,- | B,8 | z2 CE z G2 B- | %5
+w: |||||
+"Cmaj7" B B2 B"F#7#11" B B2 B- |"Em7" B2 BG"A7" z E2 A- |"Dm7" A4 D4 |"G7" z2 DF z A2 c- | %9
+w: ||||
+"Dm7" c8 |"G7" A4 F E2 D- |"Dm7" D8 |"G7" z2 z F A c2 B- |1"Dm7" B B2 G B B2 G || %14
+w: |||||
+"G7" B3 G B G2 E- |"Bb7#11" E4"A7" z4 |"Dm7" z2 CE"G7" z G2 B :|2"Dm7" B B2 G B B2 G || %18
+w: ||||
+"G7" B3 G e d2 c- |"Cmaj7" c8!fine! | z4 c B2 _B- ||"Gm7" B8 |"C7" z E2 (F F) G2 A- |"Fmaj7" A8 | %24
+w: ||||||
+ z4 A A2 _A- |"Fm7" A8 |"Bb7" z2 _Ac z B2 G- |"Ebmaj7" G8 |"Dm7" z2 CE"G7" z G2 B :| %29
+w: ||||D.S. al 2nd/Fine (AABA)|
+

@@ -1,0 +1,18 @@
+X:1
+T:The Black Velvet Band
+T:The Black Velvet Band
+T:with traditional lyric
+T:traditional Irish
+C:Traditional Irish Folk Song
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"^Refrain" z2 d |"D" d2 d |"G" B c3/2 d/ |"C" c (B2 | B2) A |"G" G A B |"C" G F E |"D" (D3 | %8
+w: Her|eyes, they|shone like the|dia- monds,|* I|thought her the|queen of the|land.|
+"D7" D) d c |"G" B2 B |"D" D E F |"G" (G2 A) | B2 G |"D7" A B c | F G A |"G" (G3 | G2) z |] %17
+w: * And her|hair hung|o- ver her|shoul- *|der, Tied|up with a|black vel- vet|band.||
+

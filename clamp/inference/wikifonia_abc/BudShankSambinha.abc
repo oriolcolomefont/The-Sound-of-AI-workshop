@@ -1,0 +1,23 @@
+X:1
+T:Sambinha
+T:Sambinha
+T:(Bud shank) 
+C:Bud Shank
+Z:All Rights Reserved
+L:1/8
+Q:1/2=60
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 1
+%%MIDI control 7 117
+%%MIDI control 10 64
+V:1
+ z4 z2 c2 |:"G7b9b13" a6 g2 | f e2 =B2 A2 G- |"Cm" G8- | G3 =A =Bcde |"G7b9b13" fg a4 g2 | %6
+ f e2 A2 e2 =B- |"Cm" B8- | B6 c2 :|"Fm7" f e2 d2 c2 g- |"Bb7" g f3 f2 d2 |"Em7" ^f4- f =e2 f- | %12
+"A7" f8 |"Ebm7" a _g2 f2 g2 a- |"Ab7" a b2 c'2 _g2 f- |"Dm7" f8- |"G7" f4 g4 ||"G7b9b13" a6 g2 | %18
+ f e2 A2 e2 =B- |"Cm" B8- | B4 =ef (3ga=a |"Fm7" b3 c' a b2 g- |"Bb7" g a2 d2 a2 g- |"Eb" g8- | %24
+"Eb7b5" g2 ^f2 z g3 |"Dm7" d'6 e'2 |"G7b9" d'6 c'2 |"Cm" =b d'2 c'2 a2 g- |"F7" g4 ^f2 g2 | %29
+"Dm7b5" a3 g f e2 d- |"G7b9" d c2 =B2 d2 g- |"Em7" g8- |"A7b9" g2 b4 g2 |"Dm7b5" a g2 f2 e2 d- | %34
+"G7b9" d A2 G2 =B2 c- |"Cm" c8- | c8 |] %37
+

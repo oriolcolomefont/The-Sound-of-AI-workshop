@@ -1,0 +1,39 @@
+X:1
+T:Shoes With Wings On
+T:Shoes With Wings On
+T:Ira Gershwin & Harry Warren
+C:Ira Gershwin & Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z D |:"G" E2 G2 A2 GA- |"C" A B3-"D9" B3 D |"G" E2 G2 A2 GA- |"C" A E3-"D9" E3 D | %5
+w: When|I've got shoes with wings|* on, * the|win- ter's gone the spring's|* on * When|
+w: |Ne- on Cit- y glow's|* up, * my|pret- ty, pret- ty shows|* up * will|
+"G" E2 G2 A2 GA- |"C" A B3-"D9" B3 D |"G" EG (3AAA AGEG |1"A9" B E2 E-"D9#5" E3 D :|2 %9
+w: I've got shoes bwith wings|* on,- * the|town is full * of Rhy- thm and the|world's in rhyme. * The|
+w: dance un- til they close|* up,- * *|got my guard- i- an an- gel work- ing||
+"D7" B D2 G-"G" G>GA>^A ||"B7" B>FA"E7"^G- G4 |"A7" A>EG"D7"F- F4 |"G7" G>DF"Am7"E- E>_E"D7"D>C | %13
+w: o- ver time. * I give A-|lad- din the lamp, *|Mi- das the gold, *|who needs a wiz- * ard or ma-|
+w: ||||
+"G" B, D2"F#7" F- F>=FE>^D |"Bm" D F2"A7" A- A>^G=G>E |"D" F A3-"D#dim" A>FG>^G |"A7" A2 G2 F2 E2 | %17
+w: gi- cian in * the old tra-|di- tion, that's * not com- pe-|ti- tion, * I've got 'em|beat a thou- sand-|
+w: ||||
+"D" D2 z2"Ebm6" _e2 z D |"G" E2 G2 A2 GA- |"C" A B3-"D9" B3 D |"G" E2 G2 A2 GA- | %21
+w: fold, why, "Cause|I've got shoes with wings|* on, * and|liv- ing has no strings|
+w: ||||
+"C" A E3-"D9" E3 D |"G" E2 G2 A2 GA- |"C" A B3-"D9" B3 D |"G" EGAB AGED |"Em7" EGAB AGEG | %26
+w: * on, * I|put those mag- ic things|* on, * and|I go fly- ing with 'em and the|town is full of rhy- thm and the|
+w: |||||
+"A9" B4"D9" B3 G- |"G" G4 z d2 ^c | d2 Gd-"G7" d4 |"C" dcdc"Cm" d c3 |"C7" _BAGE"D7" D E2 G- | %31
+w: world's in rhyme,|* hap- pens|ev- 'ry time, *|put my shoes with wings on,|yes, Sir- ee, the world's in rhyme.-|
+w: |||||
+"G" G6 z2 |] %32
+w: |
+w: |
+

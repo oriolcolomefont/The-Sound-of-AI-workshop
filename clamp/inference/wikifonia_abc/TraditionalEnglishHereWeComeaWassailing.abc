@@ -1,0 +1,34 @@
+X:1
+T:Here We Come a - Wassailing
+T:Here We Come a-Wassailing
+T:melody:  traditional English
+T:lyrics:  traditional English
+C:Traditional English
+Z:All Rights Reserved
+L:1/4
+M:6/8
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+ z D/ |"D" D E/ F E/ | (D E/) F E/ | D A/"A/E" A A/ |"D/F#" (A3/2 A) A/ |"G" B B/"D" A F/ | %6
+w: 1.|Here we come a-|was- sail- ing, A-|mong the leaves so|green,- _ _|Here we come a-|
+w: 2.We|are not dai- ly|beg- * gars That|beg from door to|door,- * But|we are neigh- bours'|
+w: 3.Good|mas- ter and good|mis- tress, As you|sit be- side the|fire,- * Pray|think of us poor|
+w: 4.We|have a lit- tle|purse,- * Made of|ratch- ing leath- er|skin;- * We|want some of your|
+"B7" A3/2"Em" G F/ |"A" (E D/) E F/ |[M:2/2]"A7" G2"D" F G | A2"G" d B |"D" A2 F G | A A"G" d B | %12
+w: wan- d'ring So|fair- * to be|seen. Love and|joy come to|you, and to|you your was- sail|
+w: chil- dren Whom|you have seen be-|fore * *||||
+w: chil- dren Who|wan- der in the|mire. * *||||
+w: small change To|line it well with-|in. * *||||
+"D" A2 F G | A2"B7" B F |"Em" (G E)"D/A" D"A" C |"D" (D3/2 E/) F D |"G" G2"D" F G | A2"B7" B F | %18
+w: too, And God|bless you, and|send- * you a|Hap- py New- *|Year, And God|send you a|
+w: ||||||
+w: ||||||
+w: ||||||
+"Em" (G E)"D/A" D"A" C |"D" !fermata!D4 |] %20
+w: Ha- a- py New|Year|
+w: ||
+w: ||
+w: ||
+

@@ -1,0 +1,26 @@
+X:1
+T:California Here I Come
+T:California Here I Come
+T:Joseph Meyers
+T:Al Jolson, Bud DeSylva
+C:Joseph Meyers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" c2 c2 |"C+/E" c2 c2 |"F6" d c2"Dm/F" A- |"C#m""Cm" A4 |"G7/D" G2"F" G2 |"Bbdim" G2"G7" G2 | %6
+w: Cal- i-|for- nia|here I come,||right back|where I|
+"F/C" A"C" G2 E- | E4 |"C/E" z G A G |"Ebdim" z A B A |"G7" B c d G- | G4 |"C/E" z G A G | %13
+w: start- ed from.||Where bow- ers|of flow- ers|bloom in the sun,||Each morn- ing|
+"Ebdim" z A B A |"G7" B c"Gdim" ^c"G7" d | G ^G A"G+" B |"C" c2 c2 |"C+/E" c2 c2 | %18
+w: at dawn- ing,|bird- ies sing and|ev- 'ry- thing. A|sun- kist|miss said,|
+"F6" d"F" c2"Dm/F" A- |"C#m""Cm" A4 |"G7/D" G2"F" G2 |"Bbdim" G2"G7" G2 |"Em7" A G2"A7" E- | %23
+w: "Don't be late,"||that's why|I can|hard- ly wait.|
+"Gm6""A7" E4 |"Dm" F2"A7" G2 |"Dm7" A2 c2 |"E7" e d2"Am" c- | c2 A B |"D7" c2 A2 | c"G7" d3 | %30
+w: |Op- en|up that|Gol- den Gate,|* Cal- i-|for- nia|here I|
+"C" c"Am7" z z2 |"Bbdim7""G7" z4 :|"C" c4 |] %33
+w: come.||come.|
+

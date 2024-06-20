@@ -1,0 +1,23 @@
+X:1
+T:The Whiffenpoof Song
+T:The Whiffenpoof song
+T:(Baa, baa, baa)
+T:Meade Minnigerode, George S Pomeroy and Tod B  Galloway
+T:Revised by Rudy Vallee
+C:Meade Minniegerode, Tod Galloway
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 B2 |"Eb" B4 GG | G4 BB |"Bb7" B4 A2 | F6 |"Fm7" c6 |"Bb7" d6 |"Eb" B6- | B2 z2 B2 | B3 G G2 | %10
+w: We're|poor lit- tle|lambs who have|lost our|way|Baa!|baa!|baa!|* We're|lit- tle black|
+ G4 BB |"Bb7" B4 A2 | F6 | F6 | G6 |"Eb" E6- | E2 z4 |"Cm" e3 e e2 |"Fm7" e4 e2 | e4 cc | c6 | %21
+w: sheep who have|gone a-|stray|baa!|baa!|baa!||Gen- tle- men|song- sters|off on a|spree|
+"Bb7" d4 d2 |"Bb" d3 d d2 |"Eb" d4 B2 | B6 |"C7" G4 G2 | G3 A B2 |"Fm" B2 A4 | F6 |"Bb" F6 | G6 | %31
+w: Doom'd from|here to e-|ter- ni-|ty|Lord have|mer- cy on|such as|we|baa!|baa!|
+"Eb" E6- | E6 |] %33
+w: baa!||
+

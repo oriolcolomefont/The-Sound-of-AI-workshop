@@ -1,0 +1,26 @@
+X:1
+T:M-O-T-H-E-R
+T:M-O-T-H-E-R
+C:Theodore F.Morse
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb" B G"Bb7" A"Cdim" =A |"Eb" B E"Gbdim" F C |"Fm7" E4 |"Bb7" D3 z | B A"Bbdim" =E"Bb7" F | %5
+w: "M" is for the|mil- lion things she|gave|me,|"O" means on- ly|
+ B A C A |"Eb" G4- | G3 z | E E D"Eb7" E |"Ab6" F E F"B7" ^F |"Eb""G+7" G4 |"C7" B3 z | %12
+w: that she's grow- ing|old,|_|"T" is for the|tears she shed to|save|me,|
+"F7" F G =A B | c =A"Eb" G"Adim" _G |"Bb7""Abm6" F4- |"Bb7" F3 z |"Eb" B G"Bb7" A"Cdim" =A | %17
+w: "H" is for her|heart as pure as|gold,|_|"E" is for her|
+"Eb" B E"Gbdim" F C |"Fm7" E4 |"Bb7" D3 z | F F"Bbdim" =E"Bb7" F | B F"Gm" G"Fm6" A | %22
+w: eyes, with love- light|shin-|ing,|"R" means right and|right she'll al- ways|
+"G7""G+7" G4- |"C7" G3 z |"Cdim" _G G F E |"B7" _G G F E |"Eb""Bbm" B4 |"C7" G3 G | %28
+w: be,|_|Put them all to-|geth- er they spell|"MOTH-|ER," A|
+"Fm" F"C7" G"Fm" A"C7" B |"Fm7" c2"Bb7" B2 |1"Eb" e4- ||"Fm7" e2"Bb7" z2 :|2 %32
+w: word that means the|world to|me.|_|
+"Eb" !fermata!e B"Ebdim" =A"Abm6" _A ||"Eb" !fermata!G4 |] %34
+w: me. The world to|me.|
+

@@ -1,0 +1,20 @@
+X:1
+T:Ízleld és lásd, hogy jó az Úr
+T:Ízleld és lásd
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+V:1
+ z4 z2 z C |"F" A>^G A4 (=GF) |"Am" E3 C A,2 B,C |"Bb" D>^C D4 D/E/F |"C" G4- G4 | %5
+w: Íz-|leld és lásd, hogy *|jó az Úr, ó, íz-|leld és lásd, hogy az Úr|jó! *|
+"Dm" F(F/E/)FE/F/- F>FFF |"Am" (E3 C) A,4 |"Dm" F(F/E/)FE/F/- F>FFF |"C" (c3 B/A/"C7" G2) z2 :| %9
+w: Bol- dog * em- ber az, * ki Ben- ne|bí- * zik,|bol- dog * em- ber az, * ki Ben- ne|bí- * * zik!|
+ z4 z2 z C |"F" A>^G A4 =GF |"Am" E3 C A,2 B,C |"Bb" D>^C D4 D/E/F |"C" G6 (FE) |"Bb" F6 (FE) | %15
+w: Íz-|leld és lásd, hogy *|jó az Úr, ó, íz-|leld és lásd, hogy az Úr|jó! Ő *|jó, Ő *|
+"F" F6 (FE) |"Bb" F6 (FE) |"F" F6 z2 |] %18
+w: jó, Ő *|jó, Ő *|jó!|
+

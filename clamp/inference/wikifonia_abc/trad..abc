@@ -1,0 +1,24 @@
+X:1
+T:The Town I Loved So Well 2
+T:The Town I Loved So Well
+T:Trad;
+T:slow
+C:trad.
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2 z2 z2 B,C |"G" [G,B,D]6 D2 |"D7" [DFA]6 GF |"C" [CEG]6 GE |"G" [G,B,D]6 D2 |"C" [CEG]6 FG | %6
+"G" [G,B,]6 G,A, |"G" [G,B,]6 CB, |"D7" [A,C]4 z2 B,C |"G" [G,B,D]6 D2 |"D7" [DFA]6 GF | %11
+"C" [CEG]6 GE |"G" [G,B,D]6 DD |"C" [CEG]4 F2 G2 |"G" [G,B,D]4 B, A,2 G, |"G" (([G,B,]8 | %16
+"G" [G,B,]4)) z2 DD |:"C" [CEG]4 G2 G2 |"D7" [DFA]6 Bc |"G" c B2 B B2 A2 |"G" [GB]4 z2"C" AB | %21
+"C" [Gce]6 c2 |"C" c3 B A3 G |"C" FE"G" ([G,B,D]6 |"G" [G,B,D]4) z2 B,C |"G" [G,B,D]6 D2 | %26
+"D7" [FAc]6 GF |"C" G3 G G3 G |"G" [G,B,D]6 DD |"C" [CEG]6 FG |"G" [G,B,D]6"D7" A,G, | %31
+"G" ([G,B,DG]8 |"G" [A,B,DG]4) z4 :| %33
+

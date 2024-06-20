@@ -1,0 +1,25 @@
+X:1
+T:The Wonder Of You
+T:The wonder of you
+T:Baker Knight
+C:Baker Knight
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" z FFF FEDE |"Dm6" F2 F6 |"Gm7" z GGG GFEF |"C7" G8 |"Fmaj7" z AAA AAAc |"Dm7" A2 A6 | %6
+w: When no one else can un- der-|stand me|when ev- ry- thing I do is|wrong|you give me love and con- so-|la- tion|
+"Gm7" z BBB BAGA |"C7" B4 z2 AB |"Fmaj7" c3 F F2 F2 |"F7" c3 F F2 F2 |"Bb" d3 d"C7" c2 B2 | %11
+w: you give me hope to car- ry|on and you|try to show your|love for me in|ev- ry- thing you|
+"Fmaj7" A4 z2 Bc |"Gm7" d4 B4- | B4 z C"C7" (3BGA |"F" F8 |"Gm7" c8 |"C7" z"F" FFF FEDE | %17
+w: do that's the|won- der|* the won- der of|you||and when you smile the world is|
+"Dm7" F2 F6 | z"Gm7" GGG GFEF |"C7" G8 |"Fmaj7" z AAA AAAc |"Dm7" A2 A6 |"Gm7" z BBB BAGA | %23
+w: bright- er|you touch my hand and I'm a|king|your kiss to me is worth a|for- tune|your love to me is ev- ry-|
+"C7" B4 z2 AB |"Fmaj7" c3 F F2 F2 |"F7" c3 F F2 F2 |"Bb" d3 d"C7" c2 B2 |"Fmaj7" A4 z2 Bc | %28
+w: thing and you're|al- ways there to|lend a hand in|all I try to|do that's the|
+"Gm7" d4 B4- | B4 z C"C7" (3BGA |"F" F4 z2"Bbm" (3GB_d |"F" c8 |] %32
+w: won- der|* the won- der of|you * * *||
+

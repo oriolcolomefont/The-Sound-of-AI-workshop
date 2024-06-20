@@ -1,0 +1,50 @@
+X:1
+T:The Lost Chord
+T:The Lost Chord
+T:Arthur Sullivan
+T:Adelaide A. Proctor
+C:Arthur Sullivan
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B,, E, E, A, | z C F F | B A G B |"Cm" e d c B |"Gm" B G c2- |"Fm7" c F G B |"Bb7" A G F2 | %7
+w: |||||||
+"Eb" E4 |"Eb"!p! E E/E/ E E/E/ |"Cm" E E z E/E/ |"Ab" E E/E/"Bb7" F3/2 F/ |"Eb" G2 z"Eb7" E/E/ | %12
+w: |Seat- ed one day at the|or- gan, I was|wea- ry and ill at|ease, and my|
+"Ab" A3/2 A/ A A |"Eb" G2"Fm" F2 |"F7" E F/G/ F E |"Bb7" D2 z B, |"C7" C"Gdim" ^C"Gm" D"Cm7" E/E/ | %17
+w: fin- gers wan- der'd|I- dly|O- ver the noi- sy|keys; I|know not what I was|
+"F7" G F z"^cresc" D |"C7" =E"D7" ^F/^F/ G =A |"Bb7" B2 z B,/B,/ |"Eb" G"Ab" A"Gm" B"Cm" G | %21
+w: play- ing, Or|what I was Dream- ing|then, But I|struck one chord of|
+"Ab" E"Fm" F"Eb" G"Ab" A |"Eb" G"Ab""^cresc" F/E/"Bb7" F D |"Eb" E2"Fm7"!f! F F | A2"Bb7" G E | %25
+w: mu- sic, Like the|sound of a great A-|men Like the|sound of a|
+"F7" E/D/E/C/"Bb7" F2 |"Eb" E3 z | z z z"Eb"!p! B, |"Eb" E E/E/ E E |"Cm" E E z E/E/ | %30
+w: Gr- e- a- t A-|men.|It|flood- ed the crim- son|twi- light, Like the|
+"Ab" E E/E/"Bb7" F3/2 F/ |"Eb" G2 z"Eb7""^cresc." E/E/ |"Ab" A A/A/ A A |"Eb""^dim" G2"Ab" F F/F/ | %34
+w: close of an An- gel's|Psalm, And it|lay on my fe- ver'd|spi- rit, With a|
+"F7" E F/G/ F/>F/ E |"Bb7" D2 z B, |"C7" C/C/"Gdim" ^C"Gm" D"Cm7" E |"F7" G F z"^cresc..." D | %38
+w: touch of..... * in- fi- nite|calm, It|qui- et- ed pain and|sor- row, Like|
+"Gdim" =E"D7" ^F/^F/ G =A |"Bb7" B3"^dim." B, |"Eb" G G/A/"Gm" B"Cm" G |"Ab" E"Fm" F"Eb" G"Ab" A | %42
+w: love o- ver- com- ing|strife, It|seem'd the har- mo- nious|e- * cho from|
+"Eb" G"Ab" F/E/"Bb7" F D |"Eb" E2 z E |"Cm" E"Gm" D/D/ D E |"Fm" D C z"Bb7" B,/B,/ | %46
+w: our dis... ... cord- ant|life, It|link'd all per- plex- ed|mean- ings In- to|
+"Bb7" A2 A3/2 A/ |"Eb" G2 z"Cm" E | E"Gm" D/D/ D"Cm" E/E/ |"Fm" D C z C |"D7" C =B,/C/ D3/2 C/ | %51
+w: one per- fect|peace, And|trem- bled a- way in- to|si- lence, As|if it were loth to|
+"G" =B,2 z/ z/!f! G/G/ |"Fm" A A/A/ A3/2 A/ |"Cm" A G z G |"D7" ^F ^F ^F3/2 ^F/ |"G7" =F2 z F | %56
+w: cease: I have|sought, but I seek it|vain- ly, That|one lost chord di-|vine, Which|
+"C7" =E G/G/ c"Fm7" G/_E/ |"Cm" E"Gm" D z D |"Fm" C3/2 C/ C C |"Bb7"!<(! D3 E!<)! | F z z"Bb7" B, | %61
+w: came from the soul of the|or- gan And|en- ter'd in- to|mine. *|* It|
+"Eb" E E/E/"Cm" E E |"Cm" E E2 E |"Ab" E E/E/"Bb7" F3/2 F/ |"Eb" G2 z"Eb7" E |"Ab" A A/A/ A A/A/ | %66
+w: may be that Death's bright|An- gel Will|speak in that chord a-|gain: It|may be that on- ly in|
+"Eb" G2"Fm" F F |"Cm" E F/G/"Fm" F E |"Bb7" D2 z!f!"^Grandioso" B, |"Eb" B B/B/"Gm" G G | %70
+w: Heav'n I shall|hear that.. * grand A-|men It|may be that Death's bright|
+"Cm" E2"Fm" C C |"Fm7" A A/A/ F F |"Bb7" B,3"Eb7"!ff! E |"Ab" E"Abm" F/F/"Gm" G"Bb7" B/B/ | %74
+w: An- gel will|speak in that chord a-|gain, It|may be that on- ly in|
+"Cm" e2"Ab" E"Abm" A |"Eb" G3 G |"Fm7" E2"Bb7" !fermata!F2 |"Eb" E4- | E3 z |] %79
+w: Heav'n I shall|hear that|grand A-|men||
+

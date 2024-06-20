@@ -1,0 +1,25 @@
+X:1
+T:Could It Be Magic
+T:Could It Be Magic
+T:Based On Chopin Prelude In C Minor
+C:Barry Manilow
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z2 E/ G ^F/- |"D" F D2 z |"Eb" _B A/G/- G B |"Dm" A F2 z |"Eb" _B/ A G/- G B | %5
+w: Spir- its move|_ me,|ev- 'ry- time * I'm|near you,|whirl- ing like _ a|
+"D" c/ _B A/- A c |"G" d4- | d4 |"C" z2 E/ G ^F/- |"D" F D2 z |"Eb" _B A/G/- G B |"Dm" A F2 z | %12
+w: cy- clone in _ my|mind.|_|Sweer Mel- is-|* a,|an- gel of _ my|life- time,|
+"Eb" _B/ A G/- G B |"D" c/ _B A/- A c |"G" d2- d z | B/B/B/c/- c d ||[K:Eb]S"Cm" e3 z |"Ab" e3 z | %18
+w: an- swer to _ all|an- swers I _ can|find. *|Ba- by I love _ you!|Come,|come,|
+"Bm" d c/=B/- B/(c/ d) |"Bb" d2- d z |"Am" c c c c |"Ab" c d2 c |"G" (=B/A/)G/G/- G z | %23
+w: come in- to _ my _|arms, _|let me know the|won- der of|all _ of you. _|
+ =B/B/B/c/- c d |"Cm" e3 z |"Ab" e3 z |"Bm" d c/=B/- B/c/ d |"Bb" d2- d z |"Am" c c c c | %29
+w: _ _ _ _ _ _|Now,|now,|now, and hold _ on _|fast, _|could this be the|
+"Ab" c d2 c |"G" =B/A/G/G/- G z | =B/B/B/c/- c"^D.S. and fade" d |] %32
+w: mag- ic at|last? _ _ _ _|_ _ _ _ _ _|
+

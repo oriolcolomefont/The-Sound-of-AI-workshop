@@ -1,0 +1,31 @@
+X:1
+T:Sweet Home Alabama
+T:SWEET HOME ALABAMA
+C:Ronnie Van Zant, Ed King, Garry Rossington
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+"D""_Moderately" z2 f2"C" e2 dd |"G" de z2 z4 |"D" z2 (3ffe"C" e>d dd |"G" d4 z4 | %4
+w: Big wheels keep on|turn- ing|Car- ry me home to see my|kin.|
+"D" z2 fe"C" eddd |"G" dG z2 z4 |"D" z d f<e"C" ed dd/d/- |"G" d2 z2 z4 |:"D""C" z8 |"G" z8 :| %10
+w: Sing- ing songs a- bout the|south- land|I miss ole 'bam- y once a- gain|_|||
+"D" z d/d/ fe/e/"C" e2 ed |"G" dG z2 z4 |"D" z d/d/ fe"C" (ed)de |"G" d4 z4 | %14
+w: Well, I heard Mis- ter Young sing a-|bout her.|Well, I heard ole Neil _ put her|down,|
+"D" z d/d/ fe"C" e2 ed |"G" dG z2 z4 |"D" z d fe"C" ed dd/d/ |"G" d2 d/d/G- G2 z2 || %18
+w: Well, I hope Neil Young will re-|mem- ber|A south- ern man don't need him a-|round an- y- how _|
+"D" z2 f2"C" e2 d>c |"G" dG z2 z4 |"D" z2 fe"C" e2 d>c |"G" d6 z2 |"D" z2 f2"C" e2 d>c | %23
+w: Sweet Home Al- a-|bam- a,|Where the skies are so|blue,|Sweet Home Al- a-|
+"G" dG z2 z4 |"D" z2 fe"C" edde |"G" d6 z2 ||S z d fe"C" eddc |"G" dG z2"F" =f2"C" e2 | %28
+w: bam- a,|Lord, I'm com- ing home to|you.|In Bir- ming- ham they love the|Gov'- nor. Boo! boo!|
+"D" ddfe"C" ed de/G/- |"G" G6 z2 |"D" z d fe"C" e2 dc |"G" d>d G4 z2 |"D" z2 fe"C" edde | %33
+w: boo! Now we all did what we could do.|_|Now Wa- ter- gate does not|both- er me.|Does your con- science both- er|
+"G" d6 z2 ||"D" z2 f2"C" e2 d>c |"G" dG z2 z4 |"D" z2 fe"C" e2 d>c |"G" d6 z2 | %38
+w: you?|Sweet Home Al- a-|bam- a,|Where the skies are so|blue,|
+"D" z2 f2"C" e2 d>c |"G" dG z2 z4 |"D" z2 fe"C" edde |"G" d6"^andfade" z2!D.S.! || %42
+w: Sweet Home Al- a-|bam- a|Lord, I'm com- ing home to|you.|
+

@@ -1,0 +1,23 @@
+X:1
+T:Show Me The Way To Go Home
+T:Show Me The Way To go Home
+T:Irving King & Hal Swain
+C:Irving King & Hal Swain
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C6" E E/>^D/ E/>D/ E |"C7" C3 E |"F6" F F/>E/ F/>E/F/>F/ |"C6" E3 C | %4
+w: Show me the way to go|home. I.m|tired and I want to go to|bed. I|
+"Cmaj7" E/>^D/E/>D/ E/>D/E/>D/ |"Am7" E E C E/>C/ |"D7" E D D E |"G7" D3 G |"Cmaj7" E E E E | %9
+w: had a lit- tle drink a- bout an|hour a- go, and it's|gone right to my|head. Where-|ev- er I may|
+"C7" C3 E |"F6" F F F F |"E7" E3 C/>D/ |"C6" E E E E |"Am7" E/>^D/ E C2 | %14
+w: roam, on|land or sea or|foam, You can|al- ways hear me|sing- ing this song.|
+"D7" D D/>C/"G7" E/>C/ D |1"C6" C G ^F =F :|2"C6" C2 c z || %17
+w: Show me the way to go|home. * * *|home. *|
+

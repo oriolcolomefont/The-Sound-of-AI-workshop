@@ -1,0 +1,33 @@
+X:1
+T:Weary Blues
+T:Weary Blues
+C:Artie Matthews
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z G G G |"C7" G4- | G A G F | (F/E/-) E3- | E G G G |"F" A4- | A c c A |"C7" G4- | G G G G | %9
+w: Wish I could|lose|_ these wear- y|blues. _ _|_ My tir- ed|heart|_ can't love no|more,|_ can't love the|
+w: |big|_ yoyr love was|small, _ _|_ and now I've|got|_ no love at|all.|_ Wish I could|
+"G7" G4- | G F E D |"C" C4- | C G G G :|"C" C4- | C"G7" z"C7" z2 ||[K:F]"F7" F/F/C/D/ F/F/C/D/ | %16
+w: way|_ it did be-|fore.|_ My love was||||
+w: lose|_ those wea- ry|||blues.|_|Want- cha in the morn- in and I|
+"C7" E/E/C/D/ E/E/C/D/ |"F7" F/F/C/D/ F/F/C/D/ |"C7" A/_A/G/"F"F/- F2 | F/F/C/D/ F/F/C/D/ | %20
+w: want- cha in the eve- nin', yes I|want- cha, yes I want- cha but it|didn't do no good. _|Miss ya when it's rain- in' and I|
+w: ||||
+"C7" E/E/C/D/ E/E/C/D/ |"F7" F/F/C/D/ F/F/C/D/ |"C7" A/_A/G/"F"F/- F G/>G/ ||[K:C]"G7" G2 z/ G G/ | %24
+w: miss ya when it's shin- in', and I|wish that I could kiss ya and I|would if I could. _ But my|heart can't for-|
+w: ||||
+"Gdim7" G2 z z/ G/ |"G7" (3G G G"Gdim7" (3G G G |"G7" G G G G |"C7" G4- | G A G F | E4- | E G G G | %31
+w: get the|run- a- round it used to|get! oh, can't you|see|_ I'm ti- red|of|_ this old un-|
+w: |||||||
+"F7" A4- | A c c A |"C7" G4- | G G G G |"G7" G4- | G F E D |"C" C4- | C G G G |"G7" G4- | G G B d | %41
+w: fair|_ one sid- ed|love,|_ Come back to|me,|_ please don't re-|fuse,|_ and help me|lose|_ these wear- y|
+w: ||||||||||
+"C" d/c/- c3- | c z z2 |] %43
+w: blues. _ _|_|
+w: ||
+

@@ -1,0 +1,34 @@
+X:1
+T:Symphony
+T:Symphony
+T:Al Stone
+T:Jack Lawrence
+C:Al Stone
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" E G E2- |"Cmaj7""C6" E4 |"G7" F G B G |"Dm7""G7" F4 | F G B G |"Dm7" F2"G7" (3F G A |1 %6
+w: Syn- pho- ny,||Sym- pho- ny of|love|Mu- sic from a-|bove, How does it|
+w: You walk in||And the song be-|gins,|Sing- ing vi- o-|lins start in my|
+"C" c4- || c4 :|2"C" c4- || c2 D/E/ F/4G/4A/4B/4 |"Ab7" c c c2- | c3/2 c/"Ab+" (3c _B A | %12
+w: start?||Heart.||Then you speak|* The mel- o- dy|
+w: ||||||
+"Db" _B _d B2- | B/ z/ z z/ _D/_E/F/ |"Gb7" _B B B2- | B3/2 _B/"Gb+" (3B _A _G |"B" _A B A2- | %17
+w: seems to rise||Then you sigh|* It sighs and it|soft- ly dies,|
+w: |||||
+ A/ z/ B _A z |"G7" G G d2 | g g d'2 |"G+" G G ^d2 | g g ^d'2 |"C" E G E2- | E4 |"G7" F G B G | %25
+w: |Sym- pho- ny||sing to me||Then we kiss||And it's clear to|
+w: ||||||||
+"Dm7" F4 |"G7" F G B G |"Dm7" F2"G7" (3F G A |"C" c3/2 c/ c2- | c2"Ab7" c2 |"Ab9" d2"Ab7" c2 | %31
+w: me|When you're near to|me, you are my|Sym- pho- ny||Sym pho-|
+w: ||||||
+"C" e4- | e3 z |] %33
+w: ny.-||
+w: ||
+

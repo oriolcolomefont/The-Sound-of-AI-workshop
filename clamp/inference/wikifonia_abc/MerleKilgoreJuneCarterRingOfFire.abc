@@ -1,0 +1,31 @@
+X:1
+T:Ring Of Fire
+T:Ring of Fire
+T:Merle Kilgore and June Carter
+C:Merle Kilgore, June Carter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Bb" z4 |: F F/F/"Eb" G E |"Bb" F4- |"Eb" F4- |"Bb" F2 z D/D/ | D4- | D D"F7" E C |"Bb" D4- | %8
+w: |Love is a burn- ing|thing|_|* and it|makes|_ a fie- ry|ring|
+w: |taste of * love is|sweet|_|* when *|hearts|_ like ours _|beat|
+"F7" D4- |"Bb" D4 | F4- | F F"Eb" G E |"Bb" F4- |"Eb" F4- |"Bb" F4 | D D/D/- D D/D/ | %16
+w: _||bound|_ by wild de-|sires|_||I fell in _ to a|
+w: _||I|fell for you like~a|child|_||Oh * * * but the|
+[M:2/4]"F7" E C |[M:4/4]"Bb" B,4- | B,4 ||"F7" F2 A2 | c3 c/c/ |"Eb" B B B B | G"Bb" F2 F/F/ | %23
+w: ring of|fire|_|I fell|in- to a|burn- ing ring of|fi- re I went|
+w: fire went|wild|_|||||
+"F7" F2 A2 | c3 c/c/ |"Eb" B2 B2 | G"Bb" F2"F" D/D/ |"Bb" B,2 D2 | F4- | F D"F7" E C |"Bb" D4- | %31
+w: down down|down and the|flames went|high _ and it|burns burns|burns|_ the ring of|fire|
+w: ||||||||
+ D B,"F7" C A, |"Bb" B,4- | B,2"F7" z F :|"Bb" B,4- | z/ B,3/2 z"F" D/D/ ||"Bb" B,2 D2 || F4- |1 %38
+w: _ the ring of|fire|_ the|fire|* and it|burns burns|burns|
+w: |||||||
+ F D"F7" E C ||2"Bb" D4- || D B,"F7" C A, |:"Bb" B,4- | B,"F7" B, C A, :| %43
+w: * the ring of|fire|* the ring of|fire|* the ring of|
+w: |||||
+

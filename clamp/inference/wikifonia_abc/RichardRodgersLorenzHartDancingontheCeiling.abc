@@ -1,0 +1,26 @@
+X:1
+T:Dancing on the Ceiling
+T:Dancing on the Ceiling
+T:Richard Rodgers
+T:Lorenz Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ z"F" C"Gm7" D E |"Dm7" F G"A+7" A2 |"Bb" G F"E7" E D |"Am7" c c"Abm7" =B2 |"Gm7" _B3"Gdim" c | %5
+w: He dan- ces|o- ver- head,|on the cei- ling|near my bed,|in my|
+"Am7""Ab7" A4 |"Gm7" G3"Gb7" A |"F""Gbmaj7" F4 | z"F" C"Gm7" D E |"Dm7" F G"A+7" A2 | %10
+w: sight|through the|night.|I try to|hide in vain|
+"Bb" G F"E7" E D |"Am7" c c"Abm7" =B2 |"Gm7" B3"Gdim" c |"Am7""Ab7" A4 |"Gm7" G3"Gb7" A |"F" F4 | %16
+w: un- der neath my|coun- ter- pane|there's my|love,|up a-|bove.|
+ z"Gm7" G G/G/"Am7"G/G/ |"Bb" G A"Eb7" F G |"F" A2"Gm7" c2 |"Am7""Dm7" c4 | z"Bm7b5" G G G | %21
+w: I whis- per "Go a-|way my lo- ver,|it's not|fair."|But I'm so|
+"Bb" G/G/G/A/"Bbm7" F G |"Am7" A2"Ab7" d2 |"Gm""Gb9" c4 | z"F" C D"Gm7" E |"Dm7" F G"A+7" A2 | %26
+w: grate- ful to dis- co- ver|he's still|there.|I love my|ceil- ling more|
+"Bb" G F"E7" E D |"Am7" c c"Abm7" =B2 |"Gm7" B2 d2- | d2"Gb7" E2 |"F" F4- | F4 |] %32
+w: since it is a|dan- cing floor|just for|* my|love.||
+

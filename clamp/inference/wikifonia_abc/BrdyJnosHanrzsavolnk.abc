@@ -1,0 +1,22 @@
+X:1
+T:Ha én rózsa volnék
+T: 
+C:Bródy János
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Ha En Rozsa Volnek-4"
+%%MIDI channel 2
+%%MIDI program 0
+V:1
+ z c B c | d e/d/ c B- | B c B c | d e/d/ c B | A4- | A4 |"Am" A/ B3/2 c c/c/- | c/c/- c2 z | %8
+w: ||||||Ha én ró- zsa vol-|* nék, _|
+"E" B A/ _A B3/2 |"Am" A A2 z |"C" c d/ e3/2 e/e/- | e e3 |"G" d/ c3/2 B d/"C"c/- | c/c/- c2 z | %14
+w: nem csak egy- szer|nyíl- nék,|Min- den év- ben négy-|* szer|vi- rág- ba bo- rul-|* nék, _|
+"Am" e d2 c/"Dm"e/ | d d2 z |"G" d c B3/2 d/ |"C" c c2 z | z"Am" c c3/4B/>A/c/4 |"E" B B2 z | %20
+w: Nyíl- nék a fi-|ú- nak,|nyíl- nék én a|lány- nak,|Az i- gaz sze- re-|lem- nek,|
+ B3/2 A/ _A B |"Am" A A2 z |] %22
+w: és az el- mú-|lás- nak.|
+

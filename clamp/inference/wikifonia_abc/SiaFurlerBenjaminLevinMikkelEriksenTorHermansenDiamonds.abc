@@ -1,0 +1,22 @@
+X:1
+T:Diamonds
+T:Diamonds
+T:Rihanna
+C:Sia Furler,Benjamin Levin,Mikkel Eriksen,Tor Hermansen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z"G" B fd/B/ff |"Bm" z8 |"A" z2 z B fd/B/ff |"F#m" z8 |"G" z2 z F FB,/B,/ D/E/F | %5
+"Bm" F2 FF FFFE |"A" z2 DE/E/ z2 DE/-E/- |"A" E2 DD"F#m" EEEF |"G" B,2 z F FB,/B,/ D/E/F- | %9
+"Bm" FF F/F/F FEE z |"A" z C/D/EE z4 |"A" E2 DD"F#m" EEEF |"G" B,2 F2 E2 G2 |"Bm" F2 B,2 B,2 F2 | %14
+"A" FE/E/ z4 z G |"A" GF/F/"F#m" z2 z4 |"G" z2 F2 E2 G2 |"Bm" F2 B,2 B,2 F2 |"A" FE/E/ z4 z G | %19
+"F#m" FF<FF FF G2 |"G" F6 G2 |"Bm" F6 G2 |"A" C6 D2 |"F#m/A" FF<FF"F#m" FFFE |"G" D6 G2 | %25
+"Bm" F6 G2 |"A" C6 D2 |"F#m/A" FF<FF"F#m" FFFE |"G" D2 z B fd/B/ff |"Bm" z8 |"A" z2 z B fd/B/ff | %31
+"F#m" z8 |"G" z8 |] %33
+

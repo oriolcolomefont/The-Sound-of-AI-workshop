@@ -1,0 +1,17 @@
+X:1
+T:Pent Up House
+T:Pent Up House
+T:Sonny Rollins
+C:Sonny Rollins
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Alto Saxophone"
+%%MIDI program 5
+V:1
+ z D EF GABc |:"Am7" dB z d ._B2 d=B |"D7" z d ._B2 d .B2 d |"G" A4 _B3 A | z D EF GABc | %5
+"Am7" dB z d ._B2 d=B |"D7" z d ._B2 d .B2 d |"G" A4 _B3 A | z D AF GABd ||"Dm7" ge z g ._e2 g=e | %10
+"G7" z g ._e2 g .e2 g |"Cm7" d6 z2 |"F7" =fd z f _d4 |"Am7" dB z d ._B2 d=B | %14
+"D7" z d ._B2 d .B2 d |"G" A6 z2 |1 z D EF GABc :|2 z8 |] %18
+

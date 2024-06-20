@@ -1,0 +1,26 @@
+X:1
+T:Dancing In The Dark
+T:Dancing In The Dark
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ebmaj7" D3 D D3 D |"Ebdim" D8- | D4 C3 D | E4 D3 C |"Fm7" A3 A A3 A | A8- |"Fm7b5" A4 F3 G | %7
+w: Danc- in in the|dark|* till the|tune ends, we're|danc- ing in the|dark|* and it|
+"Bb7b9" A4 G3 F |"Eb" B3 B B3 B |"Ebm" B2 c4 B2 |"Gm7b5" _d3 c B4- |"C7b9" B8 |"Fm7b5" A2 B4 A2 | %13
+w: soon ends; we're|waltz- ing in the|won- der of|why we're here.||Time hur- ries|
+"E7" _c3 B A4- | A4"B9" _G4 |"Bb9" F8 |"Ebmaj7" D3 D D3 D | D8- |"Ebdim" D4 C3 D | E4 D3 C | %20
+w: by, we're here|* and|gone.|Look- ing for the|light|* of a|new love to|
+"Fm7" A3 A A3 A | A8- |"Fm7b5" A4 F3 G |"Bb7b9" A4 G3 F |"Eb" B3 B B3 B |"Ebm" B2 c4 B2 | %26
+w: bright- en up the|night,|* I have|you, love, and|we can face the|mu- sic to-|
+"Bbm7b5" _d8 |"Bb7b9" d8 |"Eb" e6"Gb" e2 |"F7" e6"Emaj7" e2 |"F7""Ebdim" e8- |"Eb" e8- | %32
+w: geth-|er,|Danc- ing|in the|dark.||
+ e2 z2 z4 |] %33
+w: |
+

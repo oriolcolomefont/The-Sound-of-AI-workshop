@@ -1,0 +1,27 @@
+X:1
+T:Fickle Fingers
+T:Fickle Fingers
+T:Ken Taylor & Vera Kersten
+C:Ken Taylor & Vera Kersten
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D _E |"D9" E F"G#dim" E D |"D9" E F"G#dim" E D |"D9""G#dim" E4- |"D9" E2"D7" D _E | %5
+w: Fick- le|Fin- gers pick- ing|pet- als from a|rose,|* Fick- le|
+"G" E F"D+" E D |"G" E F"D+" E D |"G" B4- | B2"G7" G ^G |"C" A A A G |"Cm" A2 G _E |"Bm" F F F D | %12
+w: fin- gers, why you|do it no- one|knows,|* for the|pet- als fall a-|part to re-|veal a brok- en|
+"E7" E2"Eb7" _E"E7" =E |"A7" B B B A | B2 A E |"D7" G F F =F | F2"G" D"Eb7" ^D | %17
+w: heart, and those|dew- drops as they|fall are but|tear- drops af- ter|all. Fick- le|
+"D9" E F"G#dim" E D |"D9" E F"G#dim" E D |"D9""G#dim" E4- |"D9" E2"D7" D _E |"G" E F"D+" E D | %22
+w: fin- gers, love is|like a love- ly|rose,|* first it|blos- soms in your|
+"G" E F"D+" E D |"G" B4- | B2"G7" G ^G |"C" A A A G |"Cm" B2 A B |"G" d d B G |"E9" F2 D _E | %29
+w: heart and then it|grows,|* But you|break a rose in|two, like the|rose I gave to|you, Fick- le|
+"Am7" E F E D |"D7" E F E D |"G""Cm" G4- |"G" G3 z |] %33
+w: Fin- gers pick- ing|pet- als from a|rose.-||
+

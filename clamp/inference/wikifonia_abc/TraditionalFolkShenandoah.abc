@@ -1,0 +1,26 @@
+X:1
+T:Shenandoah
+T: Shenandoah
+C:Traditional Folk
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 A,-A, |"D" DD D2- DEFG | B2 A4 dc |"G" B4- BABA |"D" FA- A4 A2 |"Bm" BB B2- BFAF | %6
+w: Oh, *|Shen- an- doh _ I long to|hear you, A- *|way _ you rol- ling|ri- ver. _ Oh|Shen- an- doah _ I long to|
+w: Now the|Mis- sou- ri's _ a might- y|riv- er, Look a-|way, _ you rol- ling|riv- er. _ In-|di- ans camp _ a- long her|
+w: Well a|white man loved _ and In- dian|maid- en, Look a-|way, _ you rol- ling|ri- ver. _ With|no- tions his _ can- oe was|
+w: Oh _|Shen- an- doah _ I love your|daugh- ter, Look a-|way, _ you rol- ling|ri- ver. _ It|was for her _ I'd cross the|
+w: For sev-|en long years _ I court- ed|Sal- ly, Look a-|way, _ you rol- ling|ri- ver _ sev-|en more years _ I longed to|
+w: Well it's|farethee- well my dear, I'm bound to|leave you, Look a-|way, _ you rol- ling|ri- ver. _ Oh|Shen- an- doah _ I'll not de-|
+"D" E2 D4 DE | F4- FDFB | A6 DE |"Bm" F6 D2 |"A7" E2"^D" D6 |] %11
+w: hear you, A- *|way _ we're bound a-|way, 'cross the|wide Mis-|sou- ri|
+w: bor- der, Look a-|way _ we're bound a-|way, 'cross the|wide Mis-|sou- ri.|
+w: lad- en, Look a-|way _ we're bound a-|way, 'cross the|wide Mis-|sou- ri.|
+w: wat- er, Look a-|way _ we're bound a-|way, 'cross the|wide Mis-|sou- ri.|
+w: have her, Look a-|way _ we're bound a-|way, 'cross the|wide Mis-|sou- ri.|
+w: ceive you, Look a-|way _ we're bound a-|way, 'cross the|wide Mis-|sou- ri.|
+

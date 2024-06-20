@@ -1,0 +1,36 @@
+X:1
+T:Waltz of Love
+T:Waltz of Love
+T:Celestine Akins
+T:© 2011
+C:Celestine Akins
+Z:All Rights Reserved
+L:1/4
+Q:1/4=105
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 8
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"E" e2 c |"A" ^c3 |"D" ^c'2 b |"A" a2 ^c |"E" e3 |"A" ^c- c d |"E" e3 |"E" ^g3 | ^f"D" d2- | %9
+w: Cling to|me|Dar ling|cling to|me|Hold _ me|close|while|we dance|
+w: Tell me|words|That I|Won't for|get|As _ the|mus|ic|plays on|
+ d z"D" d- | d ^A"E" B- | B2"E" b- | b a"E" ^g- | g B"D" d- | d3/2 z/ B- | B ^c d- | d2 a- | a2 z | %18
+w: _ whisp|_ per words|_ that|_ I long|_ to Hear|_ Fill|_ this _|night with|_|
+w: on hold|_ me close|_ while|while you dance|_ with me|_ and|_ we'll _|dance on|_|
+ ^g"A" ^c2- | c z"E" e- | e c"A" ^c- | c3/2 z/"D" ^c'- | c' b"A" a- | a ^c"E" e- | e- e"A" e- | %25
+w: Ro mance|_ Let|_ them Play|_ all|_ the songs|_ we love|_ _ Let|
+w: till dawn|_ Fill|_ this night|_ with|_ sweet mem|_ or ies|_ _ While|
+ e ^f"A" g- | g- g"A" b- | b3/2 a"D" ^f/- | f2- f/ z/ |"D" f2 ^f |"D" ^c'- c' c' |"D" b2 a | %32
+w: _ this night|_ _ Ne|_ ver end|_ _|See the|stars _ they|shine a|
+w: _ we dance|_ _ cheek|_ to cheek|_ _|Love me|now _ for|ev er|
+"F" f3 | z a"D" b- | b a"A" ^g- | g ^f"A" ^d- | d z"Am" e- | e2"A" ^g |"D" ^f- f d |"E" ^c2 z | %40
+w: bove|is this|_ a dream|_ we're in|_ Or|_ is|this _ our|Waltz|
+w: dear|and whis|_ per in|_ my ear|_ That|_ this|is _ our|Waltz|
+ e"A" a2- | a2 z :| %42
+w: of love|_|
+w: of love|_|
+

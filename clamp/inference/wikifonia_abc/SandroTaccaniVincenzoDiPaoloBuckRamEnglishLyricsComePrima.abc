@@ -1,0 +1,31 @@
+X:1
+T:Come Prima
+T:Come Prima
+T:(For The First Time)
+C:Sandro Taccani, Vincenzo Di Paolo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z D |"Cm7" GFED"F7" EF (3GAc |"Bb6" B2 G4 (3BAG |"F7" A2 F4"F+7" (3AGF |"Bb6" G6- GF | %5
+w: La|not- te, com- e͜͜~al- lo- ra, mag- i- ca|scen- de la lu- na|splen- de, e tu sei|qui. _ Mi|
+"Cm7" GFED"F7" EF (3GAc |"Gm" B2"Gm" d4 (3dcB |"C7" d2 G4 (3GAB |"Cm7""Ebm6" c4-"F7" c2 (3z Bc |: %9
+w: sen- to͜~un pó con- fu- so, non so ca-|pi- re e ti so|di- re so- lo co-|si. _ Co me|
+"Bb" dB- (3BGA"Gm" BG- (3GEF |"Cm7" G6- (3GAB |"F7" cA- (3AFG"F+7" AF- (3FAG |"Bb" D6 FG | %13
+w: pri- ma _ co- me pri- ma, _ I'm in|love. _ Co- me|pri- ma, _ co- me pri- ma _ I found|love. From the|
+"Dm7b5" _AG- (3GFE"G7" D2 (3DEF |"Cm" _A2 G4 G=A |"Gm7" BA- (3AGF"C7" =EE (3GAB | %16
+w: mo- ment _ I saw you I was in|rap- ture, Ev- 'ry|mo- ment _ af- ter that I've lived in the|
+"Cm7" c6-"F7" (3cBc |"Bb" dB- (3BGA"Gm" BG- (3GEF |"Cm7" G6- (3GAB |"F7" cA- (3AFG"F+7" AF- (3FAG | %20
+w: clouds. _ Co- me|pri ma, _ co- me pri- ma, _ I can|thrill, _ Co- me|pri- ma _ I love you and _ al- ways|
+"Bb" D6 EF |"Eb" GE- (3EFG"D7" A^F- (3FGA |"Gm/D" BG- (3GAB"C7" c2 (3cBc ||1 %23
+w: will. You're the|first one _ yes the first one, _ You're my|one and _ on- ly one. _ Co- me|
+"Bb" dB- (3BGA"Cm7" BG- (3GB"F7"A ||"Bb" B2-"Gm7" B z"Cm7" z2"F7" (3z Bc :|2 %25
+w: pri- ma, _ co- me pri- ma _ I'm in|love. _ Co- me|
+"Bb" dB- (3BBc"Cm7" d2 B2 || B4"F7" A4 |"Bb" B4- B2 z2 |] %28
+w: pri- ma, _ co- me pri- ma,|I love|you. _|
+

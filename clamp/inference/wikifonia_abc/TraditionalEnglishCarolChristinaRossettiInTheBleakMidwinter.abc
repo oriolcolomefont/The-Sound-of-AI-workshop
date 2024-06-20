@@ -1,0 +1,34 @@
+X:1
+T:In The Bleak Midwinter
+T:In The Bleak Midwinter
+C:Traditional English Carol
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z A |"F" A3/2 B/ c A |"Dsus4" G2"Dm" F2 |"Gm" (G3/2 A/) G"Dm7" D |"Gm7" G4 |"F" A3/2 B/ (c A) | %6
+w: |In the bleak mid-|win- ter,|fros- ty wind made|moan,|earth stood hard as|
+w: God,|hea- ven can- not|hold him,|nor the earth sus-|tain;|heav'n and earth shall|
+w: |An- gels and arch-|an- gels|may have ga- thered|there,|che- rub- bim adh|
+w: |What * can I|give him,|poor * as I|am?|If I were _|
+"Dsus4" (G3/2 G/)"Dm" F2 |"Gm7" G A"C7" G3/2 F/ |"F" F3 z |"Bb" B3/2 A/ B"F7" c | %10
+w: i- * ron,|wa- ter like a|stone.|Snow had fal- len,|
+w: flee a- way|when He comes to|reign.|In the bleak mid-|
+w: se- ra- phim|throng- * ed the|air.|But His moth- er|
+w: shep * herd,|I would bring a|lamb.|If I were a|
+"Bb" (d d)"Dm" A- A |"F" (c A)"Bb6" (G"Bbmaj7" F) |"C" (E3 C) |"F" (A3/2 B/) c A | %14
+w: snow on snow, _|snow _ on _|snow, _|in the bleak mid-|
+w: win- * ter a|sta- ble place suf-|ficed: the|Lord _ God a-|
+w: on- * ly, _|in her mai- den|bliss, _|wor- shipped the be-|
+w: wise * man, _|I would do my|part. Yet|what _ can I|
+"Dsus4" G2"Dm" F2 |"Gm7" (G A)"C7" (G3/2 F/) |"F" F4 |] %17
+w: win- ter,|long, _ long a-|go.|
+w: migh- ty,|Je- * sus _|Christ.|
+w: lov- ec|with _ a _|kiss.|
+w: give Him:|give _ my _|heart.|
+

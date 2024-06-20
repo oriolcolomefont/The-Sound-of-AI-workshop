@@ -1,0 +1,28 @@
+X:1
+T:April In Portugal
+T:April In Portugal
+T:Raul Ferrao
+T:Jimmy Kennedy
+C:Raul Ferrao
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z A |"C" G C E G | A3 _A |"G7" G B, D F | A3 _A | G F G B | e2 d2 |"C" d c e c | G3 A | %9
+w: I|found my A- pril|dream in|Port- u- gal with|you When|we dis- cov- ered|ro mance,|like we nev- er|knew. My|
+ G C E G | A3 _A |"G7" G B, D F | A3 _A | G F G B | e3 d |"C" c4- | c z z G ||[K:Eb]"Cm" c c c c | %18
+w: head was in the|clouds My|heart went cra- zy|too, And|mad\- ly I said|"I love|you."|* This|sad re- al- i-|
+"Eb+" =B3 B |"Eb" B B B B |"Cm6" =A3 _A |"Ab" A/A/ A2 A |"Cm" G2 E2 |"G7" D F2 z | z3 G | %25
+w: ty To|know it could- n't|be, That's|Port- u- gal and|love in|A- pril!|The|
+ =B B B B |"Ddim" A3 A |"G7" G G G G |"Ddim" F3 F |"G7" G =A =B c |"Cdim" e2"G7" d e |"C" c3 z | %32
+w: mu- sic and the|wine con-|vinced me you were|mine, But|it was just the|spring fool- ing|me.|
+ z2 z =A ||[K:C]"C" G C E G | A3 _A |"G7" G B, D F | A3 _A | G F G B | e2 d2 |"C" d c e c | G3 A | %41
+w: I|found my A- pril|dream in|Port- u- gal with|you When|we dis- cov- ered|ro- mance|like I nev- er|knew. Then|
+ G C E G | A3 _A |"G7" G B, D F | A3 _A | G F G B | e3 d |"C" c4- | c3 z |] %49
+w: Mor- ning brought the|rain, And|now my dream is|through, But|still my heart says|I love|you.||
+

@@ -1,0 +1,48 @@
+X:1
+T:Galloping Major
+T:The Galloping Major
+T:George Bastow
+C:George Bastow
+Z:All Rights Reserved
+L:1/8
+Q:1/4=145
+M:6/8
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ d ^c =c B _B A | ^G =G F =F E _E |:"G" [B,D] z [B,D] [B,D] z [B,D] :|"G" D D D D2 D | %4
+w: |||1.When I was in the|
+w: |||2.Last year I thought I'd|
+w: |||3.I al- ways was a|
+"G" D2 D D D D |"G" D E F G2 B |"G" d4 z d/ d/ |"D7" e A A A A A |"D7" A4 B c |"G" d G G G G G | %10
+w: ar- my I was a|cav- al- ry man, you|know, And when-|ev- er I went on par-|ade A mag-|nif- i- cent pic- ture I|
+w: treat my- self to a|hol- i- day by the|sea, So I|went, and my quart- ers I|fixed; Then I|found that the bath- ing was|
+w: la- dies' man, and a|fa- vou- ite with the|sex; Well, I|called up- on one yes- ter-|day, Though I|wo't give the la- dy a-|
+"G" G4 F E |"G" D D D D2 D/ D/ |"G" D D D D2 D/ D/ |"G" D E F G A B |"G" d4 z d/d/ | %15
+w: made. Through my|gal- lop- ing here, and my|gal- lop- ing there, This re-|dic- u- lous hab- it I|got, And I'm|
+w: mixed; So I|gal- lop'd a- way to a|bath- ing mach- ine in the|bus- i- est part of the|day, And I|
+w: way. _ She|star- ted to talk of my|ar- my ca- reer, And was|quite int- er- est- ed you|see, But I|
+"A7" ^c c c c d e |"D7" A A A A ^G A |"E7" B B B"A7" ^c c c |"D" d4 d ^d |"Am" e A A"Dm" A A A | %20
+w: Hanged if I don't think I'm|Gal- lop- ing now Whet- her|up in the sad- dle or|not! And the|peo- ple they stare at me|
+w: soon felt at home with the|girls in the wat- er, And|join'd in their friv- o- lous|play. They were|beau- ti- ful crea- tures, but|
+w: got rath- er tired, so we|talk'd a- bout her, Which was|more int- ter- est- ing to|me. And she|said I'd been tak- ing some|
+"Am" A4 B c |"Am" e A A"Adim" A A A |"D7" A4 z z |:"G" D D D D D D |"G" D D D D z D | %25
+w: so, For it|mat- ters not where I may|go,|Bump- i- ty! bump- i- ty|bump- i- ty bump As|
+w: lor! How they|gig- gled as soon as they|saw|||
+w: wine, For as|soon as we sat down to|dine|||
+"G" D E F G A B |"Gdim" E3"G" D2 z |"G" D D D D D D |"G" D D D D z D |"G" D E F G A B | %30
+w: if I was rid- ing my|charg- er|Bump- i- ty! bump- i- ty!|bump- i- ty! bump! As|proud as an In- di- an|
+w: |||||
+w: |||||
+"Gdim" E3"G" D2 z |"G" d2 B G2"G+" F |"C" E4"E7" z E |"Am" c2 E"A7" A2 G |"D7" F3 E2 z |"G" D3 d3 | %36
+w: Ra- jah.|All the girls de-|clare That|I'm a gay old|sta- ger|Hey! hey!|
+w: ||||||
+w: ||||||
+"G" D2 d D2 D |"G" G2 A B c d |1"D7" A3"G" G z z :|2"D7" A3"G" G2 z |] %40
+w: clear the way Here|comes the gal- lop- ing|ma- jor!|ma- jor!|
+w: ||||
+w: ||||
+

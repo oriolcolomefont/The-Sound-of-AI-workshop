@@ -1,0 +1,39 @@
+X:1
+T:We Need A Little Christmas
+T:We Need A Little Christmas
+C:Jerry Herman
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"G" B,4 | D3 G | B2 B2- | B B, D G | B2 B2 | B2 B2 |"Dm6" z B c d- |"E7" d c B2 |"Am7" C4 | %9
+w: Haul|out the|hol- ly;|_ Put up the|tree be-|fore my|spir- it falls|_ a- gain.|Fill|
+w: climb|down the|chim- ney;|_ Turn on the|bright- est|string of|lights I've ev-|* er seen.|Slice|
+"D7" D3 F |"Am7" A2 A2- |"D7" A C D F |"Am" A2 A2 | A2"Am7b5" A2 |"D7" z A B c- | c B A2 | %16
+w: up the|stock- ings,|_ I may be|rush- ing|things, but|deck the halls|_ a- gain|
+w: up the|fruit- cake|_ It's time ~we|hang some|tin- sel|on that ev-|* er- green|
+"Bm7b5" B4- | B4- |"E7" B2 z2 |"Am/F#" c2"E7/G#" d2 |"Am" e3/2 e/ e e |"D7" e A3 |"G" d3/2 d/ d d | %23
+w: now.|_||For we|need a lit- tle|hrist- mas|Right this ver- y|
+w: bough.|_||For I've|grown a lit- tle|lean- er,|Grown a lit- tle|
+"C" d G3 |"Am" c c c c |"D7" c F3 |"G" G F G A | B c d ^d |"C" e3/2 e/ e e |"Am7" e"D7" A3 | %30
+w: min- ute,|Cand- les in the|win- dow,|Car- ols at the|spin- et. Yes, we|need a lit- tle|Christ- mas|
+w: cold- er,And|Grown a lit- tle|sad- der,|Grown a lit- tle|old- er, And I|need a litt- tle|an- gel|
+"G" d3/2 d/ d d |"Em7" d G2 G |1"A7" A"^N.C." B ^c B || A G F/F/ E |"D7" F"^N.C." G A G | %35
+w: Right this ver- y|min- ute. It|has- n't snowed a|sin- gle flur- ry, but|San- ta, dear, we're|
+w: Sit- ting on my|should- er _|_ _ _ _|||
+ F E D/D/ C :|2"Am" A"^N.C." B c d ||"Am7" e2"D7" F2 |"G" G2"E7" z2 |"Am/F#" c2"E7/G#" d2 | %40
+w: in a hur- ry; so|need a lit- tle|Christ- mas|now.|For we|
+w: |||||
+"Am" e3/2 e/ e e |"D7" e A3 |"G" d3/2 d/ d d |"C" d G3 |"Am" c c c c |"D7" c F3 | %46
+w: need a lit- tle|mus- ic,|Need a lit- tle|laugh- ter,|Need a lit- tle|sing- ing|
+w: ||||||
+"G" G"^N.C." F G A | B c d ^d |"C" e3/2 e/ e e |"Am7" e"D7" A3 |"G" d3/2 d/ d d |"Em7" d G3 | %52
+w: Ring- ing thru the|raf- ter, And we|need a lit- tle|snap- py|"Hap- py ev- er|af- ter,"|
+w: ||||||
+"Am" A"^N.C." B c d |"Am7" e2"D7" F2 |"G" G4- | G z z2 |] %56
+w: Need a lit- tle|Christ- mas|now.|_|
+w: ||||
+

@@ -1,0 +1,32 @@
+X:1
+T:Mind If I Make Love To You
+T:Mind If I Make Love To You
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D7" z2 E3/2 D/ |"G" E2 G2- | G2 E3/2 D/ |"Am7" E2 G2- | G2 E3/2 D/ |"Am/D" E2 A2- | %6
+w: In the|heav- en|_ stars are|dan- cing,|* And the|moun- tain|
+ A2"D9" E3/2 D/ |"G" B,4- | B, z B, D | E2"G7" ^E2- |"Gmaj7" E2 F3/2 D/ |"Am7" C2"D7" A,2- | %12
+w: _ moon is|new.|_ What a|rare night|_ for ro-|man- cing,|
+ A, z A, B, |"Cm6" C3 D |"D7" _E3 D |"G" D4- |"Gm6" D z"D7" E3/2 D/ |"G" E2 G2- | G2 E3/2 D/ | %19
+w: _ Mind if|I make|love to|you?|_ Since the|dear day|_ of our|
+"Am7" E2 G2- | G E (3A, B, C |"D9" E2 A2- | (3A E A"D+9" E3/2 D/ |"G" B,4- | B, z B,"D#" D | %25
+w: meet- ing,|_ I've wan- ted to|tell you|_ all I long to|do.|_ Dawn is|
+ E2"G7" ^E2- | E2"Gmaj7" F3/2 D/ |"Am7" C2"D7" A,2- | A, z A, B, |"Cm6" C3 D |"D7b9" _E3 D | %31
+w: near- ing,|_ Time is|fleet ing.|_ Mind if|I make|love to|
+"D7""Bm7b5" D4- |"E7" D z"D7" E3/2 D/ |"G" E2 G2- | G2 E3/2 D/ |"Am7" E2 G2- | G2 C D | %37
+w: you?|_ If you|let me,|_ I'll en-|deav- or,|_ To per-|
+"A7" E2 A2- | (3A B A (3F E B, |"Am7/D" A,4- |"D9" A, z"D+9" E3/2 D/ |"G" E2 G2- |"G7" G2 A3/2 G/ | %43
+w: suade you|_ I'm your part- y for|two.|_ And from|then on|_ you will|
+"C6" A2 c2 |"Cm6" d3 c | B3 E |"D9" A3"D9sus4" D |"G" G4- |"G7" G2 A3/2 G/ |"C6" A2 c2 | %50
+w: nev- er|mind if|I make|love to|you?|||
+"Cm6" d3 c |"G" B3 G |"D9" A3 G |"G" G4 |] %54
+w: Mind if|I make|love to|you?|
+

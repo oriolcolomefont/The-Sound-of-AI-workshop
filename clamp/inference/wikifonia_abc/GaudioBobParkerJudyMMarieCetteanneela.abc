@@ -1,0 +1,49 @@
+X:1
+T:Cette année-là
+T:CETTE ANNÉE-LÀ
+T:Claude François
+T:2
+C:Gaudio Bob
+Z:All Rights Reserved
+L:1/8
+Q:1/4=105
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z8 | z8 | z8 | z4 z G EG/C/- |"C" C2 z2"F" z4 | A A2 G-"G" GFEF |"C" G E2 C-"F" C4 | %7
+w: |||Cette an- née- là|_|Je chan- tais _ pour la pre-|miè- re fois _|
+ F G2 E-"G" EDED |"C" E G2 C-"F" C4 | A, C2 E-"G" EG ED/C/- |"C" C2 z2"F" z4 | z4"G" z G EG/C/- | %12
+w: Le pu- blic _ ne me con-|nais- sait pas _|Quelle an- née _ cette an- née- là|_|Cette an- née- là|
+"C" C2 z2 z2"F" z C | A A2 G-"G" GFEF |"C" G E2 C-"F" C4 | F G2 E-"G" EDED |"C" E G2 C-"F" C4 | %17
+w: _ Le|rock- 'n roll _ ve- nait d'ou-|vrir ses ailes _|Dans mon coin _ je chan- tais|belle, belle, belle _|
+ A, C2 E-"G" EG ED/C/- |"C" C2 z2 z2 E2 |"Dm" DC/A,/- A,6 |"F" C/A,/C- CA, C/A,/C- CA, | %21
+w: Et le pu- * blic ai- mait ça|_ Dé-|jà _ _ _|les Bea- tles _ é- taient qua- tre _ gar-|
+"Am" E2- E/G/E/D/ E2 FE |"G" ED- D4 E2 |"Dm" DC/A,/- A,6 |"F" C/A,/C- CA, C/A,/C- CA, |"G" G8- | %26
+w: çons _ _ _ _ _ dans le|vent _ _ Et|moi _ _ _|ma chan- son _ di- sait mar- che _ tout|droit|
+ G4 z G EG/C/- |"C" C2 z2"F" z4 | A A2 G-"G" GFEF |"C" G E2 C-"F" C4 | F G2 E-"G" EDED | %31
+w: _ Cette ann- ée- là|_|Quel- le joie _ d'ê- tre l'i-|dole des jeunes _|Pour des fans _ qui cas- saient|
+"C" E G2 C-"F" C4 | A, C2 E-"G" EG ED/C/- |"C" C2 z2"F" z4 |"G" z8 |"Am" z AAA A2 GE | %36
+w: les fau- teuils _|Plus j'y pense _ et moins j'ou- blie|_||J'ai dé- cou- vert mon pre-|
+"Em" AGGE G A3 |"F" z AAA AGGE |"G" c/BB/ A/AG/ GA cA/c/- |"C" c4"F" z4 | A A2 G-"G" GFEF | %41
+w: mier, mon der- nier a- mour|Le seul le grand l'u- ni- que|et pour tou- jours le pu- blic Cette an- née- là|_|Dans le ciel _ pas- sait u-|
+"C" G E2 C-"F" C4 | F G2 E-"G" EDED |"C" E G2 C-"F" C4 | A, C2 E-"G" EG ED/C/- | %45
+w: ne mu- sique _|Un oi- seau _ qu'on ap- pe-|lait Spout- nik _|Quelle an- née _ cette an- née- là|
+"C" C2 z2 z2"F" E2 |"Dm" DC/A,/- A,6 |"F" C/A,/C- CA, C/A,/C- CA, |"Am" E2- E/G/E/D/ E2 FE | %49
+w: _ C'est|là _ _ _|qu'on a dit _ a- dieu à Ma- * ri-|lyn _ _ _ _ _ au coeur|
+"G" ED- D4 E2 |"Dm" DC/A,/- A,6 |"F" C/A,/C- CA, C/A,/C- CA, |"G" G8- | G4 z A cA/c/- | %54
+w: d'or _ _ Tan-|dis _ _ _|que West Side _ bat- tait tous les _ re-|cords|_ Cette an- née- là|
+"C" c4"F" z4 | A A2 G-"G" GFEF |"C" G E2 C-"F" C4 | F G2 E-"G" EDED |"C" E G2 C-"F" C4 | %59
+w: _|Les gui- tares _ ti- raient sur|les vio- lons _|On cro- yait _ qu'u- ne ré-|vo- lu- tion _|
+ A, C2 E-"G" EG ED/C/- |"C" C2 z2"F" z4 |"Am" z AAA A2 GE |"Em" AGGE G A3 |"F" z AAA AGGE | %64
+w: ar- ri- vait _ Cette an- née- là|_|C'é- tait hi- er, mais au-|jour- d'hui rien n'a chan- gé|C'est le mê- me mé- tier qui|
+"G" c/BB/ A/AG/ GA cA/c/- |"C" c4"F" z4 | z4"G" z e dc/c/- |"C" c4"F" z4 | z4"G" z A cA/c/- | %69
+w: ce soir re- com- mence en- core C'é- tait l'an- née|_|soi- xan- te- deux|_|C'é- tait l'an- née|
+"C" c4"F" z4 | z4"G" z e dc/c/- |"C" c4"F" z4 | z4"G" z A cA/c/- |"C" c4"F" z4 | z4"G" z e dc/c/- | %75
+w: _|soi- xan- te- deux|_|C'é- tait l'an- née|_|soi- xan- te- deux|
+"C" c4 z4 |] %76
+w: _|
+

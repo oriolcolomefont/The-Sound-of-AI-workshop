@@ -1,0 +1,19 @@
+X:1
+T:Deck the halls
+C:Traditional
+Z:Public Domain
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+"D" A3 G F2 E2 |"Bm" D2 E2 F2 D2 |"A7" EFGE"D" F3 E | D2"A7" C2"D" D4 | A3 G F2 E2 | %5
+w: Deck the halls with|boughs of hol- ly,|Fa la la la la, la|la la la.|'Tis the sea- son|
+"Bm" D2 E2 F2 D2 |"A7" EFGE"D" F3 E | D2"A7" C2"D" D4 |"A7" E3 F G2 E2 |"D" F3 G A2 E2 | %10
+w: to be jol- ly,|Fa la la la la la|la la la.|Don we now our|gay ap- par- el,|
+"D" F^G A2"Bm" Bc d2 |"A" c2"E7" B2"A" A4 |"D" A3 G F2 E2 |"Bm" D2 E2 F2 D2 |"G" BBBB"D" A3 G | %15
+w: Fa la la, la la la,|la la la!|Troll the an- cient|Yule- tide car- ol,|Fa la la la la, la|
+ F2"A7" E2"D" D4 |] %16
+w: la la la!|
+

@@ -1,0 +1,39 @@
+X:1
+T:House of Gold
+T:House of Gold
+T:Hank Williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 | z4 | z4 | z4 | z z C/-D/ F |"F" A4- | A A"Bb" G/F/ D |"F" C4- | C F A/G/ F | c4- | %11
+w: |||||Peo _ ple|steal|_ they cheat _ and|lie|_ for wealth _ and|what|
+ c2 A F | A4- | A c c d |"Bb" f4- | f f/f/ d B |"F" c4- | c A C/D/ F |"C7" G G3- | G A/G/ F/C/ D | %20
+w: _ it will|buy|_ but don't they|know|_ on the judge ment|day|_ that gole _ and|sil ver|_ will _ melt _ a|
+"F" F4- | F A C/D/ F | A4- | A A/G/"Bb" F D |"F" C4- | C F A/G/ F | c4- | c2 A F | A4- | %29
+w: way|_ I'd ra _ ther|be|_ ina _ deep dark|grave|_ and know _ that|my|poor soul was|saved|
+ A c/c/ c/c/ d |"Bb" f4- | f f/f/ d B |"F" c4- | c C/C/ D F |"C7" G4- | G A/G/ F/C/ D |"F" F4- | %37
+w: _ that to live in this|world|_ in a house of|gold|_ and de ny my|God|_ and _ doom _ my|soul|
+ F A C/D/ F | A4- | A A/G/"Bb" F D |"F" C4- | C F A/G/ F | c4- | c c A F | A4- | A2 c d |"Bb" f4- | %47
+w: _ what good _ is|gold|_ and _ sil ver|too|_ if _ _ your|heart's|_ not pure and|true|_ sin ner|hear|
+ f f/f/ d B |"F" c4- | c C D F |"C7" G4- | G A/G/ F/C/ D |"F" F4- | F2 C/D/ F |"F" A4- | %55
+w: _ me _ when I|say|_ fall down on|on|_ your _ knees _ and|pray|_ peo _ ple|steal|
+ A A"Bb" G/F/ D |"F" C4- | C F A/G/ F | c4- | c2 A F | A4- | A c c d |"Bb" f4- | f f/f/ d B | %64
+w: _ they cheat _ and|lie|_ for wealth _ and|what|_ it will|buy|_ but don't they|know|_ on the judge ment|
+"F" c4- | c A C/D/ F |"C7" G G3- | G A/G/ F/C/ D |"F" F4- | F A C/D/ F | A4- | A A/G/"Bb" F D | %72
+w: day|_ that gole _ and|sil ver|_ will _ melt _ a|way|_ I'd ra _ ther|be|_ in a deep dark|
+"F" C4- | C F A/G/ F | c4- | c2 A F | A4- | A c/c/ c/c/ d |"Bb" f4- | f f/f/ d B |"F" c4- | %81
+w: grave|_ and know _ that|my|poor soul was|saved|_ that to live in this|world|_ in a house of|gold|
+ c C/C/ D F |"C7" G4- | G A/G/ F/C/ D |"F" F4- | F A C/D/ F | A4- | A A/G/"Bb" F D |"F" C4- | %89
+w: _ and de ny my|God|_ and _ doom _ my|soul|_ what good _ is|gold|_ and _ sil ver|too|
+ C F A/G/ F | c4- | c c A F | A4- | A2 c d |"Bb" f4- | f f/f/ d B |"F" c4- | c C D F |"C7" G4- | %99
+w: _ if _ _ your|heart's|_ not pure and|true|_ sin ner|hear|_ me _ when I|say|_ fall down on|on|
+ G A/G/ F/C/ D |"F" F4- | F4 | z4 | z4 | z4 | z4 |] %106
+w: _ your _ knees _ and|pray|_|||||
+

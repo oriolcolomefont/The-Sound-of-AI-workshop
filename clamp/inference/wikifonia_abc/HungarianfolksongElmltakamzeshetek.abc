@@ -1,0 +1,17 @@
+X:1
+T:Elmúltak a mézeshetek
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" G,G, CC |"G" D2 DC |"C" D E3 ::"C" GG GG |"F" GF FF |"C" EE EE |"G" ED DD |"C" G,G, CC | %8
+w: El- múl- tak a|mé- zes _|he- tek,|Szedd ösz- sze a|sá- tor- fá- dat,|lá- to- gasd meg|az a- nyá- dat,|In- kább i- szom|
+"G" DD EE |"C" D C3 | C2 z2 :| %11
+w: há- rom de- ci|ke- ver-|tet.|
+

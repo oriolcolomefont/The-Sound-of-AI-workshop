@@ -1,0 +1,59 @@
+X:1
+T:Paper Planes
+C:Topper Headon, Mick Jones, Wesley Pentz, Paul Simonon, Joe Strummer
+Z:Creative Commons BY-NC-SA
+%%score ( 1 2 )
+L:1/16
+Q:1/4=85
+M:4/4
+K:D
+V:1 treble nm="Lead sheets"
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:2 treble 
+%%MIDI control 7 100
+%%MIDI control 10 51
+L:1/8
+V:1
+"^www.notonly.ru""D" FDFD FDFD FDFD FDFD | FDFD FDFD FD"A"EC ECEC | %2
+w: ||
+"G" DB,DB, DB,DB, DB,DB, DB,DB, | DB,DB, DB,DB, DB,DB, x2 d2 |:"D" d2d2 ddd2 c2d2 F2dd | %5
+w: |* * * * * * * * * * * * I|fly like pa- per, get high like planes, if you|
+ dddd dddd cc"A"dd G2dd |"G" ddd2 f2d2 ddd2 f2>d2 | d2d2 d2dd ccdd G2d2 |"D" d2d2 ddd2 c2d2 F2dd | %9
+w: catch me at the bord- er I got vi- sas in my name. If you|come a- round here, I make 'em all day, I|get one down in a se- cond if you wait. I|fly like pa- per, get high like planes. If you|
+ dddd dddd cc"A"dd G2dd |"G" ddd2 f2d2 ddd2 f2>d2 | d2d2 d2dd ccdd G4 ||"D" d2d2d2d2 ccd2 A4 | %13
+w: catch me at the bord- er I got vi- sas in my name. If you|come a- round here, I make 'em all day, I|get one down in a se- cond if you wait.|Some- times I think sit- ting on trains,|
+ dddd d2dd cc"A"d2 A4 |"G" dddd ff2d ddd2 f4 | ddd2 ddd2 ddd2 A4 |"D" d2d2d2d2 ccd2 A4 | %17
+w: ev- 'ry stop I get to, I'm clock- ing that game.|Ev- 'ry- one's a win- ner, we're mak- ing our fame.|Bo- na- fide hus- tl- er mak- ing my name.|Some- times I think sit- ting on trains,|
+ dddd d2dd cc"A"d2 A4 |"G" dddd ff2d ddd2 f4 | ddd2 ddd2 ddd2 A4 ||S"D" Acdc ddD2 D2D2 D2dd | %21
+w: ev- 'ry stop I get to, I'm clock- ing that game.|Ev- 'ry- one's a win- ner, we're mak- ing our fame.|Bo- na- fide hus- tl- er mak- ing my name.|All I wan- na do is... * * * * and a|
+ D4 D2d2 c2"A"dd A4 |"G" Acdc ddD2 D2D2 D2dd | D4 D2d2 c2dd A4 |"D" Acdc ddD2 D2D2 D2dd | %25
+w: * * and take your mon- ey.|All I wan- na do is... * * * * and a|* * and take your mon- ey.|All I wan- na do is... * * * * and a|
+ D4 D2d2 c2"A"dd A4 |"G" Acdc ddD2 D2D2 D2dd | D4 D2d2 c2dd"^To Coda" A4 ||"D" d2d2d2d2 c4 z4 | %29
+w: * * and take your mon- ey.|All I wan- na do is... * * * * and a|* * and take your mon- ey.|Pi- rate skull and bones.|
+ d2d2d2d2 c2"A"d2 G4 |"G" ddd2 f2d2 d4 z4 | d2d2d2d2 c2d2G2d2 |"D" d2d2d2d2 c4 z4 | %33
+w: Sticks and stones and weed and bombs.|Run- ning when we hit 'em,|le- thal poi- son through their sys- tem.|Pi- rate skull and bones.|
+ d2d2d2d2 c2"A"d2 G4 |"G" ddd2 f2d2 d4 z4 | d2d2d2d2 c2d2G2d2 |"D" d2dd dd2d ccd2 A2A2 | %37
+w: Sticks and stones and weed and bombs.|Run- ning when we hit 'em,|le- thal poi- son through their sys- tem.|No one on the cor- ner has sawg- ger like us.|
+ dddd d2dd cc"A"d2 A4 |"G" d2dd ff2d ddd2 f2>d2 | ddd2 ddd2 ddd2 A4 |"D" d2dd dd2d ccd2 A2A2 | %41
+w: Hit me on my burn- er pre- paid wire- less. We|pack and de- liv- er like U. P. S. trucks. Al-|read- y go- ing hell just pump- ing that gas.|No one on the cor- ner has swag- ger like us.|
+ dddd d2dd cc"A"d2 A4 |"G" d2dd ff2d ddd2 f2>d2 | ddd2 ddd2 ddd2"^D.S. al Coda" A4 || %44
+w: Hit me on my burn- er pre- paid wire- less. We|pack and de- liv- er like U. P. S. trucks. Al-|read- y go- ing hell just pump- ing that gas.|
+"D" FDFD"^Coda" FDFD FDFD FDFD | FDFD FDFD FD"A"EC ECEC |"G" DB,DB, DB,DB, DB,DB, DB,DB, | %47
+w: |||
+ DB,DB, DB,DB, DB,DB, DB,DB, ||"D" D2D2 FEDC D2A,2 z4 | D2>D2 CB,F,2 (F,2"A"A,2) z4 | %50
+w: |Some, some, some I, some I mur- der.|Some I, some I let go. *|
+"G" D2D2 FEDC D2A,2 z4 | D2>D2 CB,F,2 (F,2A,2) z4 ||"D" Acdc ddD2 D2D2 D2dd | D4 D2d2 c2"A"dd A4 | %54
+w: Some, some, some I, some I mur- der.|Some I, some I let go. *|All I wan- na do is... * * * * and a|* * and take your mon- ey.|
+"G" Acdc ddD2 D2D2 D2dd | D4 D2d2 c2dd A4 |"D" Acdc ddD2 D2D2 D2dd | D4 D2d2 c2"A"dd A4 | %58
+w: All I wan- na do is... * * * * and a|* * and take your mon- ey.|All I wan- na do is... * * * * and a|* * and take your mon- ey.|
+"G" Acdc ddD2 D2D2 D2dd | D4 D2d2 c2dd A4 |"D" [DAd]16- | [DAd]12 [CGc]4 | %62
+w: All I wan- na do is... * * * * and a|* * and take your mon- ey.|||
+ [G,DG]8- [G,DG]2>A2 GAGA | GAGA GAGA GAGA GAGA |] %64
+w: ||
+V:2
+ x8 | x8 | x8 | x6 D/B,/D/B,/ |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | %17
+ x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %36
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 || x8 | x8 | x8 | x8 || x8 | x8 | x8 | %55
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |] %64
+

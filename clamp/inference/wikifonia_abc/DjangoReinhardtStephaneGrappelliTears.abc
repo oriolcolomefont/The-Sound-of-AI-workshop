@@ -1,0 +1,20 @@
+X:1
+T:Tears
+C:Django Reinhardt, Stephane Grappelli
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+V:1
+|:"Cm""^A""_(swing eighths)" c4"Cm/Eb" e4 |"Dm7b5""G7" d8 |"Cm" c4"Cm/Eb" e4 |"Dm7b5""G7" d8 | %4
+"C7b9" gggg g2 a2 |"Fm" f3 f-"Fm7" f2 z2 |"Bb7b9" ffff f2 g2 |"Eb6" e3 e- e2 z2 | %8
+"Am7b5" eeee e2 f2 |"Fm6/Ab" d3 d- d2"Ab9" e"G9"d- | d2"Ab9" e"G9"d- d2"Bm/F#" =B"Cm/G"c- | %11
+ c6"G7" z2 ::"C6""^B""^(Key of C)" =ee^de"C7/E" =b2"Adim7/Eb" _b=a- |"Dm6" a4"G7" z4 | %14
+"C6" =ee^de"C7/E" =b2"Adim7/Eb" _b=a- |"Dm6" a4"G7" z4 |1"C9" =e'd'c'b =ag- g2 |"F6" =ac'- c'4 z2 | %18
+"D9" =aa^ga =e'e'- e'2 |"D7b9" aaga e'2 z2 :|2"C9" =e'd'c'b =a g3 ||"F6" =ac'- c'4 z2 | %22
+"Db/Ab" aaaa"G7" g2 =Bc- |"Cm/G" c4"G7" z4 ||"Cm""^(key of Eb)""^C" z8 |"Db" z4"G9#5/A" ^c'c'c'c' | %26
+ ^c'"Cm6"a- a2"Cm/Eb" z4 |"Db7" z4"G9#5" ^c'c'c'c' |"G9#5" ^c'"Cm6"a- a2"Cm/Eb" z4 | %29
+"Db" z4"G9#5" ^c'c'c'c' | ^c'c' z2"F#9" (3=c'2 d'2 e'2 |"F#9" (3_f'2 =f'2"B9" ^f'2 z4 | %32
+ z2"C6" !fermata!g'6 |] %33
+

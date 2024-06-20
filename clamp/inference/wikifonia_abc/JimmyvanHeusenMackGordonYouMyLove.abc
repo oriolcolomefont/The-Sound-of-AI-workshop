@@ -1,0 +1,24 @@
+X:1
+T:You, My Love
+T:You, My Love
+C:Jimmy van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" d2 G3/2 F/ | G2"Gm" d2 |"Am" c3 F |"Ab9" F3 z |"G" B2 E3/2 ^D/ |"C#m7b5" E2 B2 |"Am7" A3 D | %7
+w: My love is|ev- er|you, my|love,|Now and for-|ev- er|you, my|
+"D7" D3 z |"Bm7b5" z D E F | A2"E7" ^G2 |"Am" B A c2- | c3 z |"C#m7b5" z E F G | B2"F#7" ^A2 | %14
+w: love.|you walked in-|to my|lone- ly world,||What peace of|mind your|
+"Bm" ^c B d2- |"Am7" d3 z |"G" d2 G3/2 F/ | G2"Gm" d2 |"Am" c3 F |"Ab9" F3 z |"G" B2 E3/2 ^D/ | %21
+w: smile un- furled||Yes and be-|cause of|you, my|love,|My wish- ful|
+"C#m7b5" E2 B2 |"Am7" A3 D |"D7" D3 z |"Bm7b5" z D E F | A B"E7" ^G2 |"Am" B A c B |"F9" d c _e2 | %28
+w: dreams came|true, my|love|in my un-|cer- tain heart|I am on- ly|cer- tain of|
+"G6" =e2 G3/2 F/ |"Am7" G c"D9""D7b9" F2 |1"G""Bm7""Bbdim7" G4- ||"Am7" G2"Ab9" z2 :|2"G" G4- || %33
+w: how much I|love you, my|love.||love.|
+ G4 |] %34
+w: |
+

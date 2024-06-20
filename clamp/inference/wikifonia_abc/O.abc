@@ -1,0 +1,23 @@
+X:1
+T:Prière scout
+T:Prière scoute
+T:O. Schlinder
+T:Saint-Ignace
+C:O. Schlinder
+Z:Public Domain
+L:1/8
+Q:1/4=60
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Ballad" z DDD F4 | FEE F3 FG- | G (3GGG B4 z | DDD F2 FFG | GFG B4 z | z (3F-FF B4 A- | %6
+w: Sei- gneur Jé- sus|ap- pre- nez moi à ê|* tre gé- né- reux.|À vous ser- vir com- me vous|le mé- ri- tez,|à * don- ner sans-|
+ A2 A G4 z | z G>Gc cccc- | cBB A2 A2 z | AAA d2 ddG- | GAB c4 z | z FFB B B3- | BBc A2 A2 A | %13
+w: * comp- ter,|à com- bat- tre sans sou- ci|* les bles- su- res,|à tra- vail- ler sans cher- cher|* le re- pos,|à me dé- pen- ser-|* sans at- ten- dre d'au-|
+ AA-AB G4 | G2 A2 e2 e2 | d2 c2 BF-FF | B2 cd B2 B2 | A3 B B4- | !fermata!B4 z4 |] %19
+w: tre ré- * com- pen-|se que cel- le|de sa- voir que- * je|fais vot- re sain- te|vo- lon- té-|.|
+

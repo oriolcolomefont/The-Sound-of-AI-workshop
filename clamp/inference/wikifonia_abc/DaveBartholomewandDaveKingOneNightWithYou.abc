@@ -1,0 +1,44 @@
+X:1
+T:One Night With You
+C:Dave Bartholomew and Dave King
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="sequenced by" snm="sequenced by"
+%%MIDI channel 8
+%%MIDI program 11
+V:1
+"C ""F " z8 |"Cmaj7" z2 B2 B2 A2 |"C " E8 |"Cmaj7" z2 B2 B2"Fmaj7""C " A2 |"G7" (3F2 G2 E2 D4 | %5
+w: |One ~night ~with|~you|is ~what ~I'm|~now ~pray- ing ~for.|
+"G " z2 B2 B2 A2 | (3F2 G2"Emin" E2"G " D4 | z D"Emin" EF"G " A3 G |"C ""F " E8 | %9
+w: The ~things ~that|~we ~two ~could ~plan|would ~make ~my ~dreams ~come|~true.|
+"Cmaj7" z2 B2 B2 A2 |"C " E8 |"Cmaj7" z2 B2 B2"Fmaj7""C " A2 |"G7" (3F2 G2 E2 D4 | %13
+w: Just ~call ~my|~name|and ~I'll ~be|~right ~by ~your ~side.|
+"G " z2 B2 B2 A2 | (3F2 G2"Emin" E2"G " D4 | z D"Emin" EF"G " A3 G |"C ""F " E8 | %17
+w: I ~want ~your|~sweet ~help- ing ~hand,|My ~love's ~too ~strong ~to|~hide.|
+"C7""Amin""C7" z8 |"F7" z2 _ed c3 A |"F " _ec"Dmin" dd"F ""Gbdim""F " c4 | %20
+w: |Al- ways ~lived ~a|~ve- ry ~qui- et ~life,|
+"C " z c c c2 c c"Amin"A |"C ""Dbdim" G8 |"D " D2 ^F2 A3 A | dd"Bmin" BA-"D " A3 A | %24
+w: I ~ain't ~nev- er ~did ~no|~wrong.|Now ~I ~know ~that|~life ~with- out ~you * has|
+"G " ec ec ec"Cmaj7" ec |"G " G2 B2 B2 A2 |"C " E8 |"Cmaj7" z2"C " B2"Cmaj7" B2"Fmaj7""C " A2 | %28
+w: ~be- en ~to- o ~lone ly ~too lo-|ng. One ~night ~with|~you|Is ~what ~I'm|
+"G7" (3F2 G2 E2 D4 |"G " z2 B2 B2 A2 | (3F2 G2"Emin" E2"G " D4 | z D"Emin" EF"G " A2 D2 | %32
+w: ~now ~pray- ing ~for.|The ~things ~that|~we ~two ~could ~plan|would ~make ~my ~dreams ~come|
+"C ""F " C8 |"Cmin" z2"_PIANO SOLO" B2 (3B2 A2 G2 |"Fmaj7" E2- EE"C " G2 (3EFG | %35
+w: ~true.|||
+ C2- CB"Cmaj7" BA-"C " A2 |"G7" F2- (3FGE"Cmaj7" D4 |"G " z2 B2"Dmin" B2"G ""Emin" A2 | %38
+w: |||
+"G7" (3F2 G2"Emin" E2"G " D2 (3G,A,_B, | B,G, B,"Dmin"D F2-"G " (3FB,D | %40
+w: ||
+"C7" C2 (3GcG"F7" (3^FcF (3=FcF |"C7" E4"Amin""C7" z4 |"F7" z2 _ed c3 A | %43
+w: ||Al ways lived a|
+"F " _ec"Dmin" dd"F ""Gbdim""F " c4 |"C " z c c c2 c c"Amin"A |"C ""Dbdim" G8 |"D " D2 ^F2 A3 A | %47
+w: ve- ry qui- et life,|I ain't nev- er did no|wrong.|Now I know that|
+ dd"Bmin" BA-"D " A3 A |"G " ec ec ec"Cmaj7" ec |"G " G2 B2 B2 A2 |"C " E8 | %51
+w: life with- out you * has|be- en to- o lone- ly too lo|ng. One night with|you|
+"Cmaj7" z2"C " B2"Cmaj7" B2"Fmaj7""C " A2 |"G7" (3F2 G2 E2 D4 |"G " z2 B2 B2 A2 | %54
+w: is what I'm|now pray- ing for.|The things that|
+ (3F2 G2"Emin" E2"G ""G7" D4 | z G AB e2 e2 |"C " dc-"F " c6- |"C ""Em7b5" c8 |] %58
+w: we two could plan|would make my dreams come|true. * *||
+

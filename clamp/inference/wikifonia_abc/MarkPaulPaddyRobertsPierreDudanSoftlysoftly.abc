@@ -1,0 +1,26 @@
+X:1
+T:Softly softly
+T:Softly softly
+T:Mark Paul
+T:Paddy Roberts, Pierre Dudan
+C:Mark Paul
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"F" C2 F |"F7" A2 F |"Bb" D2 B, |"G7" G3 |"C7" C2 E | G2 B |"F" A2 F |"Gm7" C3 |"F" C2 F | %9
+w: Soft- ly|soft- ly|come to|me|touch my|lips so|ten- der-|ly|soft- ly|
+"F7" A2 F |"Bb" D2 B, |"G7" G2 F |"C7" E2 C | A2 G |"F" F3- |"F7" F3 |"Bb" B2 B | B2 G |"F" A2 A | %19
+w: soft- ly|turn the|key and|o- pen|up my|heart||hand le|me with|ten- der-|
+ A2 F |"Gm7" G2 G |"C7" G2 D |"F" F3 |"F7" F3 |"Bb" B2 B |"^E b" B2 G |"F" A2 A | A2 A | %28
+w: ness and|say you'll|leave me|nev-|er|in the|warmth of|your ca-|ress my|
+"G7" =B2 B |"Dm7" A2"G7" =B |"C7" c d c | B G c |"F" C2 F |"F7" A2 F |"Bb" D2 B, |"G7" G3 | %36
+w: love will|live for|ev- er and|ev- er so|soft- ly|soft- ly|come to|me|
+"C7" C2 E | G2 B |"F" A2 F |"Gm7" C3 |"F" C2 F |"F7" A2 F |"Bb" D2 B, |"G7" G2 F |"C7" E2 C | %45
+w: touch my|lips so|ten- der-|ly|soft- ly|soft- ly|turn the|key and|o- pen|
+ A2 G |"F" F3- | F3 :|"F" F3- | F3 |] %50
+w: up my|heart.||heart.||
+

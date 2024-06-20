@@ -1,0 +1,29 @@
+X:1
+T:The Old Lamplighter
+T:The Old Lamplighter
+T:Nat Simon
+T:Charles Tobias
+C:Nat Simon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"^Swing" C2 F2 A2 z2 ||"Bb" d4- dc"C7"cB |"F" B3 A4 A |"A7" A3 E A2 G2 |"Dm" F4-"F7" F2 z F | %5
+w: He made the|night * a lit- tle|bright- er- wher-|ev- er he would|go * The|
+w: |||||
+"Bb" D4 F4 |"F" C2 F4"Bb" B2 |"F" A4 A2"G7" F2 |"C7" G4- GCFA |:"Bb" d4- dc"C7"cB |"F" B A4 A2 z | %11
+w: old lamp|light- er of|long long a-|go * His snow- y-|hair * was so much|white- er be-|
+w: ||||night a a lit- tle|bright- er where-|
+"A7" A3 E A2 G2 |"Dm" F4-"F7" F2 z F |"Bb" D4 F4 |"F" C4 F2"Bb" B2 |"F" A4"C7" A2 G2 | %16
+w: neath the can- dle|glow * the|old lamp-|light- er of|long long a-|
+w: ev- er he would|go * the|old lamp|light- er of|long long a-|
+"F" F4- F2 CF/_G/ |"F" AcAG FCFG | AcAG F3 G | AcAG FCFG | A4- z DGA |"Gm" BdBA GDGA | BdBA G3 A | %23
+w: go * You'd hear the|pat- ter of his feet as he came|tod- dling down the street his|smile would hide a lone- ly heart you|see If there were|sweet- hearts in the park he'd pass a|lamp and leave it dark Re-|
+w: go * Now if you|look up at the sky you'll un- der-|stand the rea- son why the|lit- tle stars at night are all a-|glow.- * * *|||
+ BdBA GDGA | B4 BCFG |"F" AcAG FCFG |"F" AcAG F3 G | AcAG"Bb" FC"C7"EG |"F" F4 FCFA :| %29
+w: mem- ber- ing the days that used to|be * for he re-|calls when dreams were new, he loved some-|one who loved him too who|walks with him a- lone in mem- o-|ry. * He made the|
+w: ||||||
+

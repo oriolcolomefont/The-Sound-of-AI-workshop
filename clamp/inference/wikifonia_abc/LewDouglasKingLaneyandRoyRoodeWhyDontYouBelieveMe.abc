@@ -1,0 +1,26 @@
+X:1
+T:Why Don't You Believe Me?
+T:Why Don't You Believe Me?
+C:Lew Douglas
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z B"G#dim" B c/d/ |"Am" B2 A2 |"Cm" z A"D7" A B/A/ |"G" D4 |"G" z G"Gdim" G A/G/ |"Am" C2 C2 | %6
+w: Why don't you be-|lieve me?|It's you I a-|dore.|For- ev- er and|ev- er,|
+"D7" z ^D/E/ G F |"G" E4 | z B"G#dim" B c/d/ |"Am" B2 A2 |"Cm" z A"D7" A B/A/ |"G" D4 | %12
+w: Can I pro- mise|more?|I've told you so|of- ten,|the way that I|care,|
+"G" z G"Gdim" G A/G/ |"Am" C2 C2 |"D7" z F F G/A/ |"G" G4 ||"Dm7" G =F/E/"G7" D E/F/ | %17
+w: Why don't you be-|lieve me?|It just is- n't|fair.|Here is a heart that is|
+"C" A"A7" G3 |"Dm7" G =F/E/"G7" D E/F/ |"C" G4 |"Em7" A G/F/"A" E F/G/ |"D" B"B7" A2 A | %22
+w: lone- ly,|Here is a heart you can|take,|Hee is a heart for you|on- ly that|
+"E7" B ^G"A7" ^c A |"D7" d4 |"G" z B"G#dim" B c/d/ |"Am" B2 A2 |"Cm" z A"D7" A B/A/ |"G" D4 | %28
+w: you can keep or|break.|How else can I|tell you?|what more can I|do?|
+"G" z G"Gdim" G A/G/ |"Am" C2 C2 |"D7" z F F G/A/ |"G" G4 |] %32
+w: Why don't you be-|lieve me?|I love on- ly|you.|
+

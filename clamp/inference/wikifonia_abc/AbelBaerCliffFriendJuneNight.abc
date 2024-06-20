@@ -1,0 +1,27 @@
+X:1
+T:June Night
+T:June Night
+T:Just Give Me A June Night
+C:Abel Baer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am" z e c e |"B7" ^d4 |"E7" z d B d |"Am" c4 |"D7" z A B c |"G7" A2"G+" G A |"C" c4 |"E7" B4 | %8
+w: My skies are|blue,|I'm hap- py|too,|And all be-|cause I met|you,|dear,|
+"Am" z e c e |"B7" ^d4 |"E7" z d B d |"Am" c4 |"D7" z A B c | d2 A2 |"G7" d4- | d z"G+" G2 |: %16
+w: My heart's a-|fire,|"Love" you in-|spire,|I have but|one de-|sire.|* Just|
+"C""^CHORUS" c2 e2- | e2"G+" B2 |"C" A2 c2- | c2"C7" G2 |"A7" F2 E2- | E2 A2 |"D7" A4- | A4 | %24
+w: give me|* a|June night,|* The|moon light|* and|you.||
+"G7" E ^D =D2- | D2 A2 |"C" A ^G =G2- | G2"Am" c2 |"D7" B ^A =A2- | A2 e2 |"G7" e ^d =d2- | d2 G2 | %32
+w: In my arms,|* with|all your charms,|* 'Neath|stars a- bove|* and|we'll make love.|* I'll|
+"C" c2 e2- | e2"G+" B2 |"C" A2 c2- | c2"C7" G2 |"A7" F2 E2- | E2 A2 |"Dm" A4 |"A7" z2 A2 | %40
+w: hold you,|* en-|fold you,|* Then|dreams will|* come|true.|So|
+"Dm" d2"A7" e2- | e2"Fm" f2 |"C" e2"Em7" B2- |"A7" B2"Am7" A2 |"D7" d2"D9" e2- |"G7" e2 G2 |1 %46
+w: give me|* a|June night,|* The|moon- light|* and|
+"C" c4 ||"G7" z2"G+" G2 :|2"C" c4- || c z z2 |] %50
+w: you.|Just|you.||
+

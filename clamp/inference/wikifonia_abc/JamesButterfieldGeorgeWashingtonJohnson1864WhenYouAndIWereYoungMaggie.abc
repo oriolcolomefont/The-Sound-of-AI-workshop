@@ -1,0 +1,28 @@
+X:1
+T:(When You And I Were Young,) Maggie
+T:Maggie
+T:unknown
+C:James Butterfield
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 c2 |"F" c2 z2 A3 G |"F7" F4 G3 F |"Bb" F8 | D2 F2 z2 D2 |"F" C4 F4 | A4 c4 |"C7" G8 | %8
+w: I|wan- der to-|day to the|hills|Mag- gie to|watch the|scene be-|low|
+w: They|say we are|feeb- le with|age|Mag- gie our|steps much|slow- er|thanthen.|
+ z4 z2 c2 |"F" c4 A3 G |"F7" F4 G3 F |"Bb" F8 | D2 F2 z2 D2 |"F" C4 F3 A |"C7" c4 G3 A |"F" F8 | %16
+w: the|creek and the|creak- ing old|mill|Mag- gie as|we used to|long long a-|go|
+w: our|face is a|well- writt- en|page|Mag- gie and|time all a|lone is the|pen|
+ z4"^CHORUS" z2 F2 |"Bb" d4 d3 d |"C7" B4 d3 e |"F" c8 | A2 c2 z2 A2 |"C" G4 c4 | %22
+w: the|green grove is|gone from the|hills|Mag- gie where|first the|
+w: they|say we have|out- lived our|time|Mag- gie as|dat- ed|
+"G7" c2 =B2 e2 d2 |"C" c2 E2 E2 F2 |"C7" E4 c3 c |"F" c4 A3 G |"G7" F4 G3 F |"Bb" F8 | %28
+w: dai- * sies *|sprung * * *|* and the|creak- ing old|mill * is|still|
+w: the songs that we|sung * * *|* and to|me were the|same as we|were|
+ D2"C7" F2 z2 D2 |"F" C2 z2 F3 A |"C7" c4 G3 A |"F" F8 | f8 |] %33
+w: Mag- gie- since|you and *|I were *|young.||
+w: Mag- gie when|you and *|I were *|young.||
+

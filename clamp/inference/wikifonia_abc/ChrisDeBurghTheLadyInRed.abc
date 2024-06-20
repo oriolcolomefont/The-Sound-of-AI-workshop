@@ -1,0 +1,38 @@
+X:1
+T:The Lady In Red
+T:The Lady in red
+T:Chris DeBurgh
+T:8 beat
+C:Chris DeBurgh
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G |"C" e/e/e/e/ e/e/ e |"F" e/e/e/e/ e/d/ c |"G" d2 z E |"E7" d/d/d/d/ e d |"Am" c2 z2 | %6
+w: I've|nev- er seen you look- ing so|love- ly as you did * to|night I've|nev- er seen you shine so|bright|
+w: |nev- er seen you look- ing so|gor- geous as you did * to-|night I've|nev- er seen you shine so|bright|
+ z e"G" d d |"F" c4 | z2 z G |"C" e/e/e/e/ e/e/ e |"F" e/e/e/e/ e/d/ c |"G" d2 z E | %12
+w: Mm mm mm||I've|nev- er seen so man- y men|ask you if you want- ed to|dance They're|
+w: You wer amaz-|ing|I've|mev- er seen so man- y people|want to be there by * your|side And|
+"E7" d/d/d/d/ d/e/ d |"Am" c2 z2 | e e"C7" f3/2 c/ |"F" c4 | z2 z d/e/ |"Dm" f/f/f/f/ f e | %18
+w: look- ing for a lit- tle ro-|mance|giv- en half a|chance|I have|nev- er seen that dress you're|
+w: when you turned to me * and|smiled|took my breath a-|way|I have|nev- er had * such a|
+"^It" e d z d/e/ |"G7" f e f e | g f e d |"Am" e4 | z c f e |"G" d2 z G | d e f2 |"C" g4- | g4 | %27
+w: wear- ing or the|high- lights in your|hair that catch your|eyes.|I have been|blind The|la- dy in|red||
+w: feel- ing such a|feel- ing of com-|plete and ut- ter|love|I do to-|night- *||||
+ z2"F" z a |"G" a g"^As" f e- |"Am" e2 z2 | z2"G" d A |"Am" e2 z A | e f g a- |"Dm7" a4- | a4 | %35
+w: is|danc- ing with me||cheek to|cheek there's|no- bod- y here|||
+w: ||||||||
+"G" z2 z G | d e f g- |"C" g4 | c e/g/ g/g/ g |"C7" z2 z c | g a _b a- |"F" a4- | a4 |"E7" z2 z b | %44
+w: its|just you and me||Its where I wan- na be|but|I hard- ly know|||this|
+w: |||||||||
+ b a b c' |"Am" b2 a2- | a4 |"D7" z2 z A | A c e d- |"Dm7" d4- | d4 |"G" z2 z d | e d c c | %53
+w: beau- ty by my|side *||I'll|nev- er for- get|||the|way you look to|
+w: |||||||||
+"C" c4- |1 c3 G :|2 c3 z |] %56
+w: night|* I've||
+w: |||
+

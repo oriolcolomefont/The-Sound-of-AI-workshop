@@ -1,0 +1,27 @@
+X:1
+T:The House Of The Rising Sun
+T:The house of the rising sun
+T:unknown
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Dm""^(Instrumental to be played between each verse)""^A" FAd geA |"F" FAc fcA |"G" G=Bd gdB | %3
+w: |||
+"Bb" FBd fdB |"Dm" FAd fcA |"A" GA^c ecA |"D" FAc fdA |"A" GA^c ecA |]"^B" z3 z2 d |"Dm" D3 z2 E | %10
+w: |||||There|is a|
+"F" F3 z2 A |"G" G D2 z3 |"Bb" D3 z2 d |"Dm" d3 z2 d |"F" c3 z AG |"A" A6 | z3 z dd |"Dm" d3 z2 d | %18
+w: house in|New Or-|leans They|call the|ris- ing *|sun|And it's|been the|
+"F" c3 z2 F |"G" G D2 z3 |"Bb" D3 z DD |"Dm" D3 z D2 |"A" ^C A,2 z2 C |"Dm" D3 z3 |] %24
+w: ruin of|man- y|poor boys and|God I|know * I'm|one|
+"Dm""^C" d3 z2 d |"F" c3 z2 F |"G" G D2 z3 |"Bb" D3 z2 d |"Dm" d3 z2 d |"F" c3 z AG |"A" A6 | %31
+w: My moth-|er was|a tail-|or She|sewed my|new blue *|jeans|
+ z3 z dd |"Dm" d3 z2 d |"F" c3 z2 F |"G" G D2 z3 |"Bb" D3 z2 D |"Dm" D3 z2 D |"A" ^C A,2 z2 C | %38
+w: and my|fath- er|was a|gam- bl-|ing man|down in|New * Or-|
+"Dm" D3 z z2 |] %39
+w: leans-|
+

@@ -1,0 +1,33 @@
+X:1
+T:Tell Me That You Love Me
+T:Tell Me That You Love Me
+T:Paul Anka
+C:Paul Anka
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" GGGG A A3 |"Dm7" AAAA"G7" G4 |"C" GGGG A A3 ||"Dm7" AAAA"G7" G>GGE |"C" GGGG A A3 | %5
+w: Tell me that you love me,|Tell me that you care,|Tell me when I want you|You'll be wait- ing there, Be- cause I|need you like I want you,|
+w: |||||
+"Dm7" AAAA"G7" G2 E2 |"C" E2 C6- |"Dm7" C4"G7" G>FE>D ||S"C" GGGG A A3 |"Dm7" AAAA"G7" G4 | %10
+w: I want you like I need|Your love.||Tell me you're my ba- by,|Tell me you're my love,|
+w: |||||
+"C" GGGG A A3 |"Dm7" AAAA"G7" G>GGE |"C" GGGG A A3 |"Dm7" AAAA"G7" G2 E2!dacoda! ||"C" G4 A4 | %15
+w: Tell me you will shine dear|Like the stars a- bove, Be- cause I|need you like I want you,|I want you like I need|Love- o-|
+w: |||||
+"Dm7" A4"G7" B2 G2 |"F" cccc c c2 A | c2 c2"G7" B2 A2 |"C" A G3- G4 | A4"C7" G3 G | %20
+w: oh- o- o.|Tell me that you love me and|I will be so|true,- * *|* * Oh|
+w: |||||
+"F" cccc"Am7" c3 c |"D7" d2 d2 d_BAG- |"Dm7" G6"G7" z E!D.S.! || z8 ||"C""^CODA" E2 C6- | %25
+w: tell me that you care and|I'll be true to * you|* Well||your love|
+w: |||||
+"Dm7" C4"G7" z2 G2 |"C" B c3- c4 |"Dm7" c2 A"C"c- c3 z |] %28
+w: * your|love- * *||
+w: |||
+

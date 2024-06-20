@@ -1,0 +1,52 @@
+X:1
+T:Say,Has Anybody Seen My Sweet Gypsy Rose
+T:Irwin Levine & L.Russell Brown
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""^Verse ad lib" c/c/G/G/"Fm" _A/A/-A/F/4F/4 |"G" D/D/E/F/"C" G2 | c/c/G/G/"Fm" _A/A/F/F/ | %3
+w: We were ver- y hap- py, * well at|least I thought we were.|Can some- bod- y tell me what's got|
+w: |||
+w: |||
+"C" E/4F/4G/- G2 z/ G/ |"Fm" _A/A/A/A/"Fm6" c/4c/4c/-c/_B/4A/4 |"C" G/G/G/^F/ G2 | %6
+w: in- to her? * A|house, a home, a fam- i- ly, * and a|man that loves her so;|
+w: |||
+w: |||
+"D7" A/A/A/A/ A/ A A/ |"Dm7" A/G/G/A/"G" G A |:[M:2/2]S"C""^Chorus" G E F ^F | G e c G | %10
+w: Who'd be- lieve she'd leave us to|join the bur- lesque show. Oh|Say has an- y-|bod- y seen my|
+w: ||I got wind my|Jo's been danc- in'|
+w: ||Rose, one night the|lights go dim *|
+"Dm7" G F/F/ F E |"G7" F3 z |"Dm" F ^C D E |"G" F d B A |"C" A G G ^F |"C7" G E F G | %16
+w: * sweet * Gyp- sy|Rose?|Here's her pic- ture|when she was my|* Sweet Ma- ry|Jo. Now she's got|
+w: * here in New Or-|leans,|In this smoke- filled|honk- y tonk they|call the land of|dreams. * * Oh,|
+w: and the * crowd goes|home.|That's the day you|wake up and you|find you're all a-|lone, So let's say|
+"F" A A ^G A/d/- | d c2 A |"C" G A"E" B"Am" c- | c3 z |"D7" A ^G A ^A |"G7" B ^A B G | %22
+w: * rings on her fin-|* gers and|bells on her toes,||Say has an- y-|bod- y seen my|
+w: here she comes * strut-|* tin' in|her birth- day clothes,-||||
+w: * good- bye to Gyp-|* sy hel-|lo Ma- ry Jo.-||||
+ z c"C" c"F" c/"C"c/-!dacoda! |1 c2 z E :|2"C" c2 z c ||"E7" B2 ^G2 | F2 E2 |"Am" B A B A- | %28
+w: Sweet Gyp- sy Rose?|* Oh|* Oh.|ba- by|ba- by,|won- cha come home?|
+w: ||||||
+w: ||||||
+ A2 z/ B3/2 |"D7" B2 A2 | ^F2 D2 |"G7" z/ G/A/G/ A G/d/- | d/ B G/- G/ A3/2 |"G" D2"Em" E2 | %34
+w: * Say|we all|miss you,|And ev- 'ry night we kiss|* your pic- * ture||
+w: ||||||
+w: ||||||
+"F" F2 G"G7" A!D.S.! ||O"C" c"^Coda" c"G7" B"C7" _B |"F" z A ^G A/d/- | d c2 A | %38
+w: * * Say|* So take those|rings off your fin-|* gers and|
+w: ||||
+w: ||||
+"C" G"F" A"E" B"Am" c- | c3 z |"D" A ^G A ^A |"G7" B ^A B G |"D" z A/^G/ A ^A |"G7" B/ ^A B/- B G | %44
+w: bells off your toes.||Say has an- y-|bod- y seen my,|now you know just|what I mean * by,|
+w: ||||||
+w: ||||||
+"D" z/ ^G/A/G/ A/ ^A B/- |"G7" B e e e |"C" e/4d/4c/- c3 | z"G7" G"C" c z |] %48
+w: Has an- y- bod- y seen|* my Gyp- sy|Rose?- * * *||
+w: ||||
+w: ||||
+

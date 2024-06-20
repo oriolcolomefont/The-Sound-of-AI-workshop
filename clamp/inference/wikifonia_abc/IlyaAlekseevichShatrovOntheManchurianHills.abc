@@ -1,0 +1,22 @@
+X:1
+T:On the Manchurian Hills
+T:On the Manchurian Hills
+T:Manchurian Waltz
+T:Ilya Alekseevich Shatrov
+C:Ilya Alekseevich Shatrov
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:6/8
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 21
+V:1
+"Gm""^\n" D4 B,C |"D" D6 |"D7" CD^F B2 A |"Gm" G6 | DGB ^F2 G |"Cm" AGE A2 G |"Gm" DGA"D7" B2 A |1 %7
+"Gm" G6 :|2"Gm" G4 D/^C/D/E/ |:"D" D2 A,2 B,>C |"Gm" D4 F/=E/F/G/ |"F" F2 C2 D>E |"Bb" F4 F^F | %13
+"Gm" G2 D2 ^CD |"Cm" F2 E2 GA |"Gm" Bdc"D7" A2 B |1"Gm" G4 D/^C/D/E/ :|2 G6 |: %18
+"Gm""^\n""^\n""^\n" D4 B,C |"D" D6 |"D7" CD^F B2 A |"Gm" G6 | DGB ^F2 G |"Cm" AGE A2 G | %24
+"Gm" DGA"D7" B2 A |"Gm" G4 G^F |"G" G2 _A G2 F |"Cm" F E3 DC |"F" F2 G F2 E |"Bb" ED^C D3 | %30
+"Gm" G,B,D GBA |"Cm" GFE GG,A, |"Gm" B,DC"D7" A,2 B, |"Gm" G,4 z2 |"^\n""^\n" D4 B,C |"D" D6 | %36
+"D7" CD^F B2 A |"Gm" G6 | DGB ^F2 G |"Cm" AGE A2 G |"Gm" DGA"D7" B2 A |"Gm" G3 z3 |] %42
+

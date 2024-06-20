@@ -1,0 +1,24 @@
+X:1
+T:Strange Music (from Song Of Norway)
+C:Edvarg Grieg,Wright,Forrest.
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:F
+V:1 treble transpose=-12 nm="Guitar"
+%%MIDI program 25
+V:1
+"F" A4 | G F A, C | D4- | D2 E F |"F/A" D2 E F |"Abdim" D2 E F |"Gm7" c4- |"C7" c4 |"Bb" d4 | %9
+w: Stange|mu- sic in my|ears|* on- ly|now as you|spoke did it|start||Strange|
+ c B D F |"Gm7" A4- | A2 D E |"Bb/C" F G"Bb" D E |"Gm7" F G"C7" D E |"F" F4- | F4 | %16
+w: mu- sic of the|spheres|* Could its|love- ly hum be|com- ing from my|heart||
+"Cm6/A" _E3/2 ^C/"D7" D2- |"D7/F#" D D ^F A |"Gm" A3/2 G/ B2- | B4 |"E7" A3/2 ^G/ =B2- | %21
+w: You ap- pear|* and I hear|song sub- lime||Song that I'm-|
+"E7/G#" B ^D (3E ^G =B |"Am" c4- |"Gm7" c3"C7" C |"F" A4 | G F A, C |"D7/F#" D4- | D2 D E | %28
+w: * in- cap- a- ble|of|* So|dear|let me hold you|near|* While we|
+"Bb/G" F G D E |"C7" F G D E |"F" F G"F7/Eb" A c |"Db7" _d3 d |"Gm7" d2 D2 |"C7" B B2 A |"F" c4- | %35
+w: trea- sure ev'- ry|mea- sure so that|time can nev- er|change The|strange new|mu- sic of|love-|
+ c4 |] %36
+w: |
+

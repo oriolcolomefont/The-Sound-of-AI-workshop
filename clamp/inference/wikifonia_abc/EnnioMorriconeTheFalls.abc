@@ -1,0 +1,18 @@
+X:1
+T:The Falls
+T:The Falls
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z2 z B | c d"C/G" e2 | e f g e | f d e c |"G" d3 z3/4 g/8a/8 | g f d f |"C" g f d f3/4g/8a/8 | %7
+"Bm" g f d f |"C" d c G c |"G" c B G c | B G"D" c"Em" B3/4g/8a/8 | g f d f |"C" g f d f3/4g/8a/8 | %13
+"Bm" g f d f |"C" d c G c |"G" c B G c | A2"G7" B2 |"C" c' b g b |"F" c' b g b |"Em" c' b g b | %20
+"C6" e2"D" f2 |"G" g4- | g4- | g z z2 | %24
+

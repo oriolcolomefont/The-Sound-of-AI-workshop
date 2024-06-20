@@ -1,0 +1,26 @@
+X:1
+T:There Will Never Be Another You
+T:There Will Never Be Another You
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B, |"Ebmaj7" C D E F | G B F E |"Dm7b5" F4- |"G7b9" F2 z/ G3/2 |"Cm7" E F G B | c e c3/2 B/ | %7
+w: There|will be man- y|oth- er nights like|this,|_ when|I'll be stand- ing|here with some- one|
+"Bbm7" c4- |"Eb7" c3 B |"Abmaj7" e c B A |"Abm6" G F G A |"Ebmaj7" B G F E |"Cm7" F E/F/- F E | %13
+w: new.|_ There|will be oth- er|songs to sing, an-|oth- er fall an-|oth- er spring _ but|
+"F7" d c B =A |"Cm7" G F"F7" G F |"Fm7" A4- |"Bb7" A3 B, |"Ebmaj7" C D E F | G B F E |"Dm7b5" F4- | %20
+w: there will nev- er|be an- oth- er|you.|_ There|will be oth- er|lips that I may|kiss,|
+"G7b9" F2 z/ G3/2 |"Cm7" E F G B | c e c3/2 B/ |"Bbm7" c4- |"Eb7" c3 B |"Abmaj7" e c B A | %26
+w: _ but|they won't thrill me|like yours used to|do.|_ Yes,|I may dream a|
+"Abm6" G F G A |"Ebmaj7" B G F E |"F13" d3 c |"Ebmaj7" B e"Ab7" d c |"Gm7" B G"C7b9" B A | %31
+w: mil- lion dreams but|how can they come|true. If|there will nev- er|ev- er be an-|
+"Fm7" F2"Bb7b9" G2 |"Eb" E4 | %33
+w: oth- er|you.|
+

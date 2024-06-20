@@ -1,0 +1,36 @@
+X:1
+T:I Wonder Where My Baby Is Tonight
+T:I Wonder Where My Baby Is Tonight
+C:Walter Donaldson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Vamp" z2"^1st Chorus" z C |"F" F F A A |"A7" E E G G |"Bb" D4- |"D7" D3 D |"Gm" G G B B | %6
+w: I|won- der where my|ba- by is to-|night?|_ I|won- der how my|
+"G7" F F G G |"C7" E4- | E3 C |"F" c c"E7" E E |"C7" D3 C |"F" c c"E7" E E |"C7" D3 C | %13
+w: ba- by is to-|night?|_ I|won- er where she's|gone, And|how she's get- ting|on; I|
+"F" F F A A |"G7" G G F F |"C7" c4- | c z z C |"F" F F A A |"A7" E E G G |"Bb" D4- |"D7" D3 D | %21
+w: won- der why my|ba- by does- n't|write,|_ If|she came back I|won- der what I'd|do?|_ I|
+"Gm" G G B B |"G7" F F G G |"C7" E4- | E3 C |"F" c c"E7" E E |"C7" D3 C |"F" c c"Eb/G" _e e | %28
+w: won- der did she|find some- bod- y|new;|_ She|did- n't treat me|fair, And|tho' I should- n't|
+"D7" d3 D |"Gm" c B c D |"C7" A G c A |"F" F4- |"Gm" F3"C7" C |:"F""^Charleston Chorus" F F A A | %34
+w: care; I|won- der where my|ba- by is to-|night?|* I|won- der does my|
+"A7" E E G G |"Bb" D z/ D/- D z |"D7" D z/ D/- D D |"Gm" G G B B |"G7" F F G G |"C7" E z/ E/- E z | %40
+w: ba- by do the|Charles- ton _|Charles- ton _ I|won- der who is|teach- ing her the|Charles- ton _|
+ E z/ E/- E z |"F" c c"E7" E E |"C7" D3 C |"F" c c"E7" E E |"C7/G" D3 C |"F" F F"D7" A A | %46
+w: Charles- ton _|While I sit and|sigh, the|time goes drag- gin'|by; I'd|like to kill the|
+"G7" G G F F |"C7" c z/ c/- c z |"C+" c z/ c/- c C |"F" F F A A |"A7" E E G G |"Bb" D z/ D/- D z | %52
+w: guy that wrote the|Charles- ton _|Charles- ton. _ We|part- ed 'cause I|could- n't do the|Charles- ton _|
+"D7" D z/ D/- D D |"Gm" G G B B |"G7" F F G G |"C7" E z/ E/- E z | E z/ E/- E C |"F" c c"E7" E E | %58
+w: Charles- ton _ She'd|still be here if|I could do the|Charles- ton _|Charles- ton _ I'm|tak- in' les- sons|
+"C7" D3 C |"F" c c"Eb/G" _e e |"D7" d2- d D |"Gm" c B d D |"C7" A G c A |1"F" F4- | %64
+w: now; I'll|win her back some-|how _ I|won- der where my|ba- by is to-|night.|
+"Gm7" F3"C7" C :|2"F""Bb7" F4- |"F" F2 z2 |] %67
+w: _ I|night.|_|
+

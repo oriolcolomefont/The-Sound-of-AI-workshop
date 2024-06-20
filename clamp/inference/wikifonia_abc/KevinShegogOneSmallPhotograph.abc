@@ -1,0 +1,29 @@
+X:1
+T:One Small Photograph
+T:One small photograph 
+T:Kevin Shegog
+T:Bouncey
+C:Kevin Shegog
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+|:"F" A2 c c |"Bb" B2 d2 |"F" z A/A/ c c |"C7" G2 B z |"Bb" z D/D/"Gm7" D F |"C7" E2 C C |"F" C4- | %7
+w: Heart- aches and|sad dreams|take a- way the|moon- beams|mem- o- ries that|made me so|blue|
+w: Take way the|sad dreams|* bring back the|moon- beams|Come back my dar-|ling and *|stay|
+ C2 z2 | A A c c |"Bb" B2 d d |"F" F A c c |"C7" C2 G2 |"Bb" B,2 D2 |"C7" C C E G |"F" F4- | %15
+w: _|all I have to|cheer me I|al- ways keep it|near me|One small|pho- to- graph of|you|
+w: _|If you say you'll|love me by|all the stars a-|bove me|I'll put~my~little|pho- to- graph a-|way|
+"F7" F2 z2 |"Bb" z d2 c | B F B d |"F" z c c c | A F A c |"C7" z C E G | B2 c c |"F" A F F E | F4 | %24
+w: _|I've got|lots of mon- ey|and things you|gave me hon- ey|I've got a|house and a|Cad- il- lac or|two|
+w: _|||||||||
+ F F A c |"Bb" B2 d2 |"F" F F A c |"C7" C3/2 C/ E G |"Bb" B,2"Gm7" D2 |"C7" C C E G |1"F" F4- | %31
+w: If my for- tune|less- ens|I'll be sat- is-|fied pos- ess- ing|one small|pho- to- graph of|you|
+w: |||||||
+ F z z2 :|2"F" F4- || F2 z2 |"Bb" B,2"Gm7" D2 | C C E G |"F" F4- | F4 | %38
+w: _|you|_|One small|pho- to- graph of|you.|_|
+w: |||||||
+

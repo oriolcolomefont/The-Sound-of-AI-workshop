@@ -1,0 +1,40 @@
+X:1
+T:I DON'T DREAM IN BLACK AND WHITE
+C:Kevin Cavanaugh - Chris Caruso
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"Amaj7" c4- cdce- | ed-dc- cA-AE |"Fmaj7" A=G G2- GEG"G9"F- | FE-ED- D4 |: %4
+w: ||||
+w: ||||
+w: ||||
+[K:G]"Eb/F" z2 z2 G,2 C2 |"F/G" A,6 z B, |"Em" B,EE"Bm7/D"F"G" FG-GB, |"C9" B,GGA"Bm7" G>F- FG | %8
+w: I can|see the|mir ror in the o cean _ the|words in side your feel ings _ and|
+w: I can|touch the|cool of your e mo tions _ in|qui et in spir a tions _ and|
+w: I can|see be|hind all the dark ness _ _ _|that some thing is wait ing _ just|
+"Am9" G2 C2- CCD"Dsus4"D- |"D" D4 z2 FG |"G9" FDDB, B,4 |"C9" z4 z2 EE |"G9" EDDB, B,4- | %13
+w: hold them _ in my hand|_ I DON'T|DREAM IN BLACK AND WHITE|I DON'T|DREAM IN BLACK AND WHITE|
+w: put them _ on your soul|_||||
+w: to be _ _ re born|_||||
+ B,4 z2 z2 :|[K:Eb]"D" z"G" z2"G" z2 G GG- |"Eb" G4 z2 F2 |"F/Eb" =AB/A/- AB AGFG- | %17
+w: _|give us strength|_ Lend|me a brush _ of great ness give us|
+w: ||||
+w: ||||
+"Dm7" GD- D2- D3 D |"F/G" FG G"G"F/G/- G=A-AB- |"Eb" BB-BG G3- F- |"F/Eb" F4 z2 CC | %21
+w: _ hope _ _ so|we can bind the can _ vas _ to|_ paint _ the stars _|_ but we'll|
+w: ||||
+w: ||||
+"Dm7" CC/C/-"G" C/C/D- DD- D2 |"Dm7" z2 z2"G" z2 DD |"Dm9" =EE/E/- E/"G"F/E- ED- D2- | %24
+w: have to move _ a moun _ tain _|it takes|love to move _ a moun _ tain _|
+w: |||
+w: |||
+"Dm7" D4-"G" D4- |"A9" ^C8 |] %26
+w: _ _||
+w: ||
+w: ||
+

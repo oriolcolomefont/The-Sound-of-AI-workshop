@@ -1,0 +1,26 @@
+X:1
+T:Everybody Loves Somebody Sometime
+T:Everybody Loves Somebody Sometime
+C:Ken Lane
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F""^Slowly" CAGF"F+" ^CAGF |"Bb" D D3-"D7" D4 |"Gm" DBAG"Eb" ^DBAG |"C7" E8 | %4
+w: Ev- 'ry- bod- y loves some- bod- y|some- time, _|Ev- 'ry- bod- y falls in love some-|how.|
+"F" EFEA"Abdim" c3 =B |"Gm7" _B2 B4 c2 |"C7" A2 A4"C+" ^G2 |"F""Gm""C7" A8 |"F" CAGF"F+" ^CAGF | %9
+w: Some- thing in your kiss just|told me my|some- time is|now.|Ev- 'ry- bod- y finds some- bod- y|
+"Bb" D D3-"D7" D4 |"Gm" DBAG"Eb" ^DBAG |"C7" E8 |"F" EFEA"Abdim" c3 =B |"Gm7" _B2 B4 c2 | %14
+w: some- ~place, _|There's no tell- ing where love may ap-|pear.|some- thing in my heart keeps|say- ing my|
+"C7" A2"C7b9" A4 A2 |"F" F8 |"F7" FFFF"Cm7" G2 G2 |"F7" A A3- A2 Bc |"Bb" BGAB"F+" AFGA | %19
+w: some- place is|here.|If I had it in my|pow- er _ I'd ar-|range for ev- 'ry girl to have you|
+"Bb""Bbdim""Bb" G8 |"Dm" A2- (3AGF"A+" AA"Dm7"GF |"G7" (A E3-) E2 EF |"Gm7" GGGG"Cdim" AAAA | %23
+w: charms.|Then _ ev- 'ry min- ute, ev- ry|hour _ _ Ev- 'ry|boy would find what I found in your|
+"Gm7""C7" B8 |"F" CAGF"F+" ^CAGF |"Bb" D D3-"D7" D4 |"Gm" DBAG"Eb" ^DBAG |"C7" E8 | %28
+w: arms.|Ev- 'ry- bod- y loves som- bod- y|some- time, _|And al- though my dream was o- ver|due,|
+"F" EFEA"Abdim" c3 =B |"Gm7" _B2 B4 c2 |"C7" A2"C7b9" A4 A2 |1"F""Gm7" F4"C7" z4 :|2"F" F8 |] %33
+w: Your love made it well worth|wait- ing for|some- one like|you.|you.|
+

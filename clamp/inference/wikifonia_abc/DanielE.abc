@@ -1,0 +1,53 @@
+X:1
+T:Home on the Range
+T:Home on the Range
+T:(state song of Kansas, USA -earliest version)
+T:Daniel E. Kelly
+T:Dr. Brewster M. Higley (1876)
+T:Amsco Music Sales Co., N.Y.C. 1933
+C:Daniel E. Kelley
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+!mf!"^Moderato" D | D G A | B2 G/F/ | E c c | c2 d/c/ | B3/2 A/ G | F G A | (G3 | G) z |: D | %10
+w: |||||||||1.~Oh|
+w: |||||||||2.~Oh|
+w: |||||||||3.~Oh|
+w: |||||||||4.~How~|
+w: |||||||||5.~I|
+w: |||||||||6.~The|
+"G" D G A | B2 G/F/ |"C" E3/2 c/ c |"Cm" c2 c/c/ |"G" d3/2 G/ G |"^dim" G F G |"D7" (A3 | A2) D | %18
+w: give me a|home where the|buf- fa- lo|roam, Where the|deer and the|an- te- lope|play|_ Where|
+w: give me a|land where the|bright dia- mond|sand, Throws its|light from the|glit- ter- ing|stream,|_ Where|
+w: give me a|gale of the|Sol- o- mon|vale, Where the|life streams with|buoy- an- cy|flow,|_ On~the|
+w: of- ten at|night when the|heav- ens were|bright, With the|light of the|twin- kl- ing|stars,|_ Have~I|
+w: love the bright|flow'rs in this|bright land of|ours, I _|love the wild|cur- lew's shrill|scream;|_ The|
+w: air is so|pure and the|bree- zes so|fine, the _|zeph- yrs so|bal- my and|bright,|_ That~I|
+"G" D G A | B2 G/F/ |"C" E3/2 c/ c |"Cm" c2 c/c/ |"G" B3/2 A/ G |"D7" F3/2 G/ A |"G" (G3 | G2) z || %26
+w: nev- er is|heard a dis-|cour- ag- ing|word, And the|skies are not|cloud- y all|day.|_|
+w: gli- deth a-|long the _|grace- ful white|swan, Like the|maid in her|heav- en- ly|dreams.|_|
+w: banks of~the Bea-|ver, where sel-|dom if e-|ver, A- ny|poi- son- ous|her- bage doth|grow.|_|
+w: stood there a-|mazed, and _|asked as I|gazed, If their|glo- ry ex-|ceeds that of|ours.|_|
+w: bluffs and white|rocks, and _|an- te- lope|flocks, That _|graze on the|moun- tains so|green.|_|
+w: would not ex-|change my _|home here to|range, For\- _|ev- er in|a- zures so|bright.|_|
+"G""^CHORUS:" d3 |"D7" c3/2 B/ A |"G" (B3 | B2) D/D/ | D3/2 G/ G |"^dim" G F G |"D7" (A3 | A2) D | %34
+w: Home,|home on the|range,|_ Where the|deer and the|an- te- lope|play;|_ Where|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"G" D G A | B2 G/F/ |"C" E c c |"Cm" c2 d/c/ |"G" B3/2 A/ G |"D7" F G A |"G" (G3 | G) z :| %42
+w: nev- er is|heard a dis-|cour- ag- ing|word, And the|skies are not|cloud- y all|day.|_|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+

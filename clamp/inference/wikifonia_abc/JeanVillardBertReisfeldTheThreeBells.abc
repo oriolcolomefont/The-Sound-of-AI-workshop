@@ -1,0 +1,38 @@
+X:1
+T:The Three Bells
+C:Jean Villard
+Z:All Rights Reserved
+L:1/8
+Q:1/4=95
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 23
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ x6 A A |"Bbmaj7" A A A A d2 A A | A2 A2 z"F" AB"Bbm"B |"F" AA"Bbm"BB A2 z A |"F" A4 AAAA | %5
+w: 1.There's a|vill- age hid- den deep in the|val- ley, a- mong the|pine trees half for- lorn, And|there on a sun- ny|
+w: 2.There's a|vill- age hid- den deep in the|val- ley, Be- neath the|moun- tains high a- bove, And|there twen- ty years there-|
+w: 3.From the|vil- lage hid- den deep in the|val- ley, One rain- y|morn- ing dark and grey, A|soul winged it's way to|
+[M:3/4] c2 c2 z2 |"Gm7" BB"C7" BB cB |"F" A4 AA |"F7" AA AA GF |"Bb" B2 B2 z B |"G7" =BB BB cd | %11
+w: morn- ing,|lit- tle Jim- my Brown was|born; So his|par- ents brought him to the|chap- el, When|he was on- ly one day|
+w: af- ter,|Jim- my was to meet his|love. Man- y|friends were gath- ered in the|chap- el, And|man- y tears of joy were|
+w: heav- en,|Jim- my Brown had passed a-|way. Si- lent|peo- ple gath- ered in the|chap- el, To|say fare- well to their old|
+"C" c4"C7" AA |"F" A2 AA AA | c2 c2 z2 |"Gm7" BB"C7" BB cB |[M:4/4]"F" A4 z4 || %16
+w: old, And the|priest bles'd the lit- tle|fel- low,|"Wel- come, Jim- my to the|fold"|
+w: shed, _ In|June on a Sun- day|morn- ing,|Jim- my and his bride were|wed:|
+w: friend, Whose _|life had been like a|flow- er,|Bud- ding bloom- ing to the|end.|
+[K:Bb]"Bb" z2 D>D F>F B>B |"Bb" d4 d4 | z2 D>D F>F B>B |"F" c8 |"F7" z2 C>C E>E F>F | c4 c4 | %22
+w: All the chap- pel bells were|ring- ing|In the lit- tle val- ley|town,|And the song that they were|sing- ing,|
+w: All the chap- el bells were|ring- ing,|'Twas a great day in his|life,|'Cause the song that they were|sing- ing|
+w: Just a lone- ly bell was|ring- ing|In the lit- tle val- ley|town,|'Twas fare- well that it was|sing- ing|
+ z2 A>C E>E c>c |"Bb" B6 z2 |"Bb" z2 D>D F>F B>B | d4 d4 |"D7" z2 D>D ^F>F c>c |"Gm" B8 | %28
+w: Was for ba- by Jim- my|Brown.|Then the lit- tle con- gre-|ga- tion|Prayed for guid- ance from a-|bove,|
+w: Was for Jim- my and his|wife.|Then the lit- tle con- gre-|ga- tion|Prayed for guid- ance from a-|bove,|
+w: To our good old Jim- my|Brown.|And the lit- tle con- gre-|ga- tion|Prayed for guid- ance from a-|bove,|
+"Cm" z2 E>E G>G c>c |"Bb" d>d D>D F>F B>B |"F7" c>c C>C EFdc |"Bb" B4 z4 |] %32
+w: "Lead us not in- to temp-|ta- tion, Bless this hour of med- it-|a- tion, Guide him with e- ter- nal|love"|
+w: "Lead us not in- to temp-|ta- tion, Bless Oh Lord this cel- e-|bra- tion, May their lives be filled with|love"|
+w: "Lead us not in- to temp-|ta- tion, May his soul find the Sal-|va- tion, Of Thy great e- ter- nal|love"|
+

@@ -1,0 +1,30 @@
+X:1
+T:Oh Lady Be Good
+T:Oh, Lady Be Good
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" d2"D7" c"G" B |"C7" d2 d2 |"G" (3d B G D2- | D2"G#dim" d2 |"D7" (3d c A D2- | D2 B2 | %6
+w: Oh, sweet and|love- ly|lad- y, be good!|* Oh|lad- y be good|* to|
+w: Oh sweet and|love- ly|lad- y be good!|* Oh|lad- y be good|* to|
+"G" G4- | G3 z | d2"D7" c"G" B |"C7" d2 d2 |"G" (3d B G D2- | D2"G#dim" d2 |"D7" (3d c A D2- | %13
+w: me.||I am so|aw- f'ly|mis- un- der- stood,|* so|lad- y be good|
+w: me.||I am so|aw- f'ly|mis- un- der- stood.|* so|lad- y be good|
+ D2 B2 |"G" G4- | G2"G7" z2 |"C" e4 |"D7" z e e e |"C6" e2"G" d2- | d2"D7" z2 |"Em" z B"B+" B B | %21
+w: * to|me.||Oh,|please have some|pit- y,||I'm all a-|
+w: * to|me.||This|is tu- lip|weath- er||so let's put|
+"Em" B B"A7" B B |"Am7" B2"D7" A2 |"Em" z B"Am7" c"A7b5" ^c |"G" d2"D7" =c"G" B |"C7" d2 d2 | %26
+w: lone in this big|cit- y.|I tell you|I'm just a|lone- some|
+w: two and two to-|geth- er.|I tell you|I'm just a|lone- some|
+"G" (3d B G D2- | D2"G#dim" d2 |"D7" (3d c A D2- | D2 B2 |"G""D7" G4- |1"Am7" G z"D7" z2 :|2 %32
+w: babe in the wood,|* so|lad- y be good|* to|me!||
+w: babe in the wood,|* so|lad- y be good|* to|||
+"G""C7" G4- ||"G" G2 z2 |] %34
+w: me!||
+w: ||
+

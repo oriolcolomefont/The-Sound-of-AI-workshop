@@ -1,0 +1,39 @@
+X:1
+T:Song for a Winter's Night
+T:Song for a Winter's Night
+T:Gordon Lightfoot
+T:
+T:Moose Music Ltd., by permission of Alfred Music Publishing Co. Inc. 
+C:Gordon Lightfoot
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"G" z"G" B, B, D |"D/F#" D D E F |"Em" G A G F |"C" E3 z |"G" z D D D |"D" D3 C |"G" C B,3 | %7
+w: The lamp is|burn- ing low up-|on my ta- ble|top,|the snow is|soft- ly|fal- ing.|
+w: The smoke is|ris- ing in the|shad- ows o- ver|head,|my glass is|al- most|emp- ty.|
+w: The fire is|dy- ing now, my|lamp is grow- ing|dim,|the shades of|night are|lift- ing.|
+"D" z4 |"G" z B, B, D |"D/F#" D2 E F |"Em" G A G F |"C" E3 z |"G" z D D D |"D" D2 D C |"G" C B,3 | %15
+w: |The air is|still in the|si- lence of my|room,|I hear your|voice soft- ly|cal- ling.|
+w: |I read a-|gain between the|lines- * on the|page,|the words of|love- * you|sent me.|
+w: |The morn- ing|light steals a-|cross my win- dow|pane,|where webs of|snow- * are|drift- ing.|
+ c B3 | z G G G |"D/F#" A3 B |"C" c3 B |"D" A4 |"Bm" z F F F |"Em" G3 F |"Am" E3 F/E/ | %23
+w: |If I could|on- ly|have you|near|to breathe a|sigh or|two\_\_ \_ \_|
+w: |If I could|know with-|in my|heart|that you were|lone- ly|too\_\_ \_ \_|
+w: |If I could|on- ly|have you|near|to breathe a|sigh or|two\_\_ \_ \_|
+"D" (D2 D2) |"G" z B, B, D |"D/F#" D D E F |"Dm" G A G F |"C" E3 z |1"G" z2 D B, || %29
+w: \_ \_|I would be|hap- py just to|hold the hand I|love|on this|
+w: \_ \_||||||
+w: \_ \_||||||
+"D" A, A, B, B, |"G" B,4 |"D" z4 :|2"G" z D D B, ||"D" A, A, B, B, |"B7" (B,4 |"B7" B,4) | %36
+w: win- ter's night with|you.||And to be|once a- gain with|you\_\_|\_\_|
+w: |||||||
+w: |||||||
+"G" z D D B, |"D" A, A, B, A, |"G" G,4 | z2 g2 |] %40
+w: And to be|once a- gain with|you\_\_\_.||
+w: ||||
+w: ||||
+

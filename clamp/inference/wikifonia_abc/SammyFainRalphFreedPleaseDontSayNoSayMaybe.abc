@@ -1,0 +1,32 @@
+X:1
+T:Please Don't Say "No"
+T:Please Don't Say "No"
+T:Sammy Fain
+T:Ralph Freed
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" d4 A B2 c- |"D7" c6 B2 |"Eb6" B4 C4- | C2"Ddim" D2"Cm7" E2"Ddim" F2 |"Cm7" GGGG-"F9" G3 F | %5
+w: Please Don't Say "No"|* say|"May- be"|* or say "Come|back in the Spring" * say|
+"F7" AAAA- A3 F |"Bbdim" (3=E2"Bb" F2 F2- F4- |"Cm7""F9" F8 |"Bb" d4 A B2 c- |"D7" c6 B2 | %10
+w: an- y old thing * but|don't say "No" *||Please Don't Say "No"|* 'cause|
+"Eb6" B4 C4- | C2"Ddim" D2"Cm7" E2"Ddim" F2 |"Cm7" GGGG-"F9" G3 F |"Cm7" cccc-"F9" c2 BA | %14
+w: ba- by|* I've so much|love to im- part, * it's|mak- ing my heart * o- ver|
+"Bb""Eb6" B8- |"Bb" B2 B2 B2 B2 |"Gb" B6 _d2 |"B" =B2"Gb" _B2 _A2 _G2 |"Abm7" _A4"Db7" _DDDD | %19
+w: flow|* Be sweet and|kind and|keep this thought in|mind while you think it|
+"Abm7" _D2"Db7" D4 B2 |"Gb" B6 B2 |"Gm7" c2 B2"C9" A2 B2 |"Cm7""F7""Cm7" c8 |"F+7" ^c8 | %24
+w: o- ver Great|loves from|lit- tle frien- ships|grow,|So,|
+"Bb" d4 A B2 c- |"D7" c6 B2 |"Eb6" B4 C4- | C2"Ddim" D2"Cm7" E2"Ddim" F2 |"Cm7" GGGG-"F9" G4- | %29
+w: Please Don't Say "No"|* say|"May- be"|* And though I|wish you'd con- fess, *|
+ G2"F7" A2"Cm7" B2"F7" c2 |"D7" dddd- d4- |"Ddim" d2 d2"G7" e2 d2 |"C7" G4 G d3 | %33
+w: * right now I'd|set- tle for less *|* Be- cause in|time, ba- by,|
+ z"Ebm6" _GBc"F9" d"Gbdim" d3 |"Bb""Gb9" B8- |"Bb6" B2 z2 z4 |] %36
+w: You'll wind up say- ing|:Yes"-||
+

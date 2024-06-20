@@ -1,0 +1,18 @@
+X:1
+T:Rock of Ages
+T:Rock of Ages
+C:Thomas Hastings
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ GA |"C" G2 E2 cA | G4 cd |"G" e2 d2 cB |"C" c4 Bc |"G" d2 d2 BG |"C" c4 Bc |"G" d2 d2 BG | %8
+w: Rock of|Ag- es cleft for|me let me|hide my- self in|thee let the|wa- ter and the|blood from thy|wound- ed side which|
+w: could my|tears for- ev- er|flow could my|zeal no lan- guor|know these for|sin could not a-|tone thou must|save and thou a-|
+"C" c4"^N.C." GA |"C" G2 E2 cA | G4 cd |"G" e2 d2 cB |"C" c4 z2 |] %13
+w: flowed be of|sin the dou- ble|cure, save from|wrath and make me|pure.|
+w: lone in my|hand no price I|bring sim- ply|to thy cross I|cling|
+

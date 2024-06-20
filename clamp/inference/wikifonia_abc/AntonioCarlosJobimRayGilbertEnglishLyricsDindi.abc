@@ -1,0 +1,30 @@
+X:1
+T:Dindi
+T:Dindi
+T:Music by Antonio Carlos Jobim
+C:Music by Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+Q:1/4=90
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno"
+%%MIDI program 0
+V:1
+"Cmaj7" G6 E2 |"Bbmaj7" D6 EF |"Cmaj7" G2 GG"C#other" (3G2 A2 G2 |"Gm7" _B2 AG"C7b9" F>E- ED | %4
+w: Oh, Din-|di, If I|on- ly had words I would|say all the beau- ti- * ful|
+"Fmaj7" E>C- CC C4 |"Fm6" E>C- CC C4 |"Cmaj7" E>C- CC C4 |"Gm7" z8 |"Cmaj7" G6 E2 |"Bbmaj7" D6 EF | %10
+w: things that * I see|when you're * with me,|Oh, my * Din- di.||Oh, Din-|di, Like the|
+"Cmaj7" G2 GG"C#other" (3G2 A2 G2 |"Gm7" _B2 AG"C7b9" F>E- ED |"Fmaj7" E>C- CC C4 | %13
+w: song of the wind in the|trees, that's how my heart * is|sing- ing * Din- di,|
+"Fm6" E>C- CC C4 |"Cmaj7" E>C- CC C4 |"F#7b5" z8 |"Em7" z2 z B AG^FE |"Cm6" _E4- E C2 _E | %18
+w: hap- py * Din- di,|when you're * with me.||I love you more each|day, * Yes, I|
+"Em7" E4- E"Cm6" C2 _E |"Em7" E8 |"Dm7" z2 z A GFED |"Bbm6" ^C4- (3C2 A,2 ^C2 | %22
+w: do; * Yes, I|do;|I'd let you go a-|way * if you|
+"Dm7" D4- (3D2 A,2 ^C2"Bbm7" |"Dm7" D4- (3D2 E2 F2"G7b9" |"Cmaj7" G6 E2 |"Bbmaj7" D6 EF | %26
+w: take * me with|you. * Don't you|know, Din-|di, I'd be|
+"Cmaj7" (3G2 G2 G2"C#other" (3G2 A2 G2 |"Gm7" _B2 AG"C7b9" (3F2 E2 D2 |"Fmaj7" E>C- CC C4 | %29
+w: run- ning and search- ing for|you like a riv- er that|can't find * the sea,|
+"Fm6" E>C- CC C2 DC |"Cmaj7" E>C- CC C4 |] %31
+w: that would * be me with- out|you my * Din- di.|
+

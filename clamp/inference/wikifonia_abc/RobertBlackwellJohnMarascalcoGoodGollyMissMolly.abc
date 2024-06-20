@@ -1,0 +1,31 @@
+X:1
+T:Good Golly Miss Molly
+T:Good Golly Miss Molly
+C:Robert Blackwell & John Marascalco
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 26
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2"C7" _A_A- AA A2 |"F" F2 F2 z4 | z _AAA- AAAF- | F6 z2 | z"F7" _AB=B- BB c2 |"Bb7" F2 F2 z4 | %6
+w: Good Gol- * ly Miss|Mol- ly|Yeah you sure _ like a ball,|_|Well good gol- * ly Miss|Mol- ly|
+ z _AAA- AFDF- |"F" (3FDC- C2 z4 | z _AAA- AAGF | G2 G2 z4 | z FF_A- AGFD | F4 z4 | %12
+w: Yeah you sure _ like a ball.|_ _ _ _|When you're shak- * in' and a|shout- in'|Can't you hear _ your Mom- ma|call?|
+"C+7" z4 z _AAA |"F" _AAAA AA"Bb7"FD |"F" FFFF _A z"Bb7" AA |"F" _AAAA AAAA | _AAAA- A z2 A | %17
+w: Well from the|ear- ly, ear- ly morn- in' To the|ear- ly, ear- ly night, When I|caught Miss Mol- ly rock- in' at the|House of Blue Lights, _ Good|
+[M:2/4] _AA A2 |[M:4/4]"Bb7" F2 F2 z4 | z _AAA- A F2 D |"F" (3FDC- C2 z4 | z _AAA- AAGF | %22
+w: Gol- ly Miss|Mol- ly|Yeah you sure _ like a|ball. _ _ _|When you're rock- * in and a|
+"C7" G2 G2 z4 |"Bb7" z FF_A- AGFD |"F" F4 |"C+7" z4 z _A A2 |"F" _AAAA AA"Bb7"FD | %27
+w: roll- in'|Can't you hear _ your Mom- ma|call?|Well now|Mom- ma, Pop- pa told me "Son you'd|
+"F" FFFF _A z"Bb7" AA | _AAAA AAAA | _AA A/A/A A z AA- |[M:2/4] A_A A2 |[M:4/4]"Bb7" F2 F2 z4 | %32
+w: bet- ter watch your step" What I|knew a- bout Miss Mol- ly, Got- ta|watch my dad- dy my- self. Good Gol-|* ly Miss|Mol- ly|
+ z _AAA- AFDF- |"F" (3(F(D)C-) C2 z4 | z _AAA- AAGF |"C7" G2 G2 z4 |"Bb7" z FF_A- AGFD | %37
+w: Yeah you sure _ like a ball|_ _ _ _|When you're shak- * in' and a|shout- in'|Can't you hear _ your Mom- ma|
+"F" F4 z4 |] %38
+w: call.|
+

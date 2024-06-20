@@ -1,0 +1,23 @@
+X:1
+T:Dixie
+T:Dixie
+T:unknown
+C:Daniel Decatur Emmett
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G/E/ |"C" C C C/D/E/F/ | G G G E |"F" A A A G | A G A/B/c/d/ |"C" e3 c/G/ | c3 G/E/ | %7
+w: I *|wish I was * in the|land of cot- ton|old times there are|not for- got- ten look a|way, look a-|way, look a-|
+"G7" G3 D/E/ |"C" C3 G/E/ | C C C/D/E/F/ | G G G E |"F" A A A G | A G A/B/c/d/ |"C" e3 c/G/ | %14
+w: way Dix- ie|land. in *|Dix- ie- land * where *|I was born in|ear- ly on one|frost- y morn- ing look a-|way. look a-|
+ c3 G/E/ |"G7" G3 D/E/ |"C" C3 G | c e d c |"F" A c2 A |"D7" d3 A |"G7" d3 G |"C" c e d c | %22
+w: way, look a-|way Dix- ie|land I|wish I was in|Dix- ie hoo-|ray, hoo-|ray in|Dix- ie- land I'll|
+"A" A B c A |"C" G E c E |"G7" E D2 E |"C" C3 E |"G7" D3 A |"C" G E e c | d c2 E | C3 E | %30
+w: take my stand, to|live and die in|Dix- ie a-|way, a-|way, a-|way down south in|Dix- ie a-|way a-|
+"G7" D3 A |"C" G E e c |1"G7" d"C" c2"^N.C." G/E/ :|2"G7" d"C" c2 z |] %34
+w: way a-|way down south in|Dix- ie I *|Dix- ie-|
+

@@ -1,0 +1,47 @@
+X:1
+T:To Love Somebody
+T:To Love Somebody
+C:Barry Gibb and Robin Gibb
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="melody" snm="melody"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+"G " DE GE"F " AG ED |"C " E2"G " D6 | B,/D/G/B/ d/B/G/D/ B,4 | B,/D/G/B/ d/B/G/D/ B,2 GA | B4 z4 | %5
+w: |||* * * * * * * * * There's a|light,|
+"Amin" z/ A/ A/B/ A/B/c- c4 |"C " z2 z3/2 G/ e/e/e- e<e |"G " d2 z2 z4 |"Fmaj7" z2 z e ee ec/d/- | %9
+w: a cer- tain kind of light *|that ne- ver shone * on|me.|I want my life to be|
+"G " d4 z B BB |"D " BA- A2 z G AB |"C " G4 z2 z G/A/ |"G " B B3 z4 |"Amin" z2 A/B/A/B/ c4 | %14
+w: * li- ved with|yo- u, * li- ved with|you. There's a|wa- y|e\- v'ry- bo- dy says|
+"C " z2 z3/2 G/ e/ed/ ed/e/- |"G " e/d/d B2 z4 | z2"Fmaj7" z3/2 G/ ee dd |"G " B2 z2 z B/A/ BB | %18
+w: to do each and e\- v'ry lit-|* tle thi- ng.|But what does it me-|an if I ain't got|
+"D " BA- A2 z B AG |"C " G2 z4 B/A/G |"G " B B2 B2 c BB |"D " A2 z4 Bd |"C " e e2 e2 e dd | %23
+w: yo- u, * ain't go- t|you. B\- a\- by|you don't know what it's li-|ke. Ba- by|you don't know what it's li-|
+"G " B2 z2 z3/2 D/ BB |"D7" BA- A2 z3/2 D/ AB |"C7" AG- G2 z3/2 D/ _B/A/G |"G " G4 z4 | %27
+w: ke to love some-|bo- dy, * to love some-|bo- dy, * the way I love|you.|
+ DE GE"F " AG ED |"C " E2"G " D6 | B,/D/G/B/ d/B/G/D/ B,4 | B,/D/G/B/ d/B/G/D/ B,2 GA | B4 z4 | %32
+w: |||* * * * * * * * * In my|brain|
+"Amin" z/ D/ A/B/ AB/c/- c2 z2 |"C " z2 z e ee e>c |"G " d2 z2 z4 |"Fmaj7" z2 z G/e/ ee ed | %36
+w: I'll see your face a\- gain. *|I know my frame of|mind.|You ain't got to be so|
+"G " dB- B2 z2 z/ A/ B/A/ |"D " BA- A2 z B B2 |"C " AG- G2 z2 z G/A/ |"G " B B3 z4 | %40
+w: bli- nd, * and I'- m|bli- nd, * so, so|bli- nd. * I'm a|ma- n.|
+"Amin" z A/G/ A/A/B/c/- c2 z2 |"C " z2 z e e/d/e/e/- ed/d/- |"G " d B2 z z4 | %43
+w: Can't you see what I am? *|I live and I breath * for yo-|* u.|
+"Fmaj7" z2 z3/2 G/ ee- e/e/c/d/ |"G " B2 z2 z B/A/ BB |"D " BA- A2 z B3 |"C " G G3 e2 d2 | %47
+w: But what good * does it d\-|o if I ain't got|yo- u, * ain't|got you? Ba- by|
+"G " B B2 B2 c BB |"D " A2 z4 Bd |"C " e e2 e2 e dd |"G " B2 z2 z3/2 D/ BB | %51
+w: You don't know what it's li-|ke, ba- by|you don't know what it's li-|ke to love some-|
+"D7" BA- A2 z3/2 D/ AB |"C7" AG- G2 z3/2 E/ _BA |"G " GG- G2 z4 |"D " e4- e d3 |"G " B B2 B2 c BB | %56
+w: bo- dy, * to love some-|bo- dy * the way I|love you. *|No * No|You don't know what it's li-|
+"D " A2 z4 Bd |"C " e e2 e2 e dd |"G " B2 z2 z3/2 D/ BB |"D7" BA- A2 z3/2 D/ AB | %60
+w: ke. Ba- by|you don't know what it's li-|ke to love some-|bo- dy, * to love some-|
+"C7" AG- G2 z3/2 E/ _BA |"G " GG- G2 z4 |"D9" dd/d/- d2 e2 z2 |"G " B B2 B2 c BB |"D " A2 z4 Bd | %65
+w: bo- dy * the way I|love you. *|No No No * No|You don't know what it's li-|ke. Ba- by|
+"C " e e2 e2 e dd |"G " B2 z2 z3/2 D/ BB |"D7" BA A2 z3/2 D/ AB |"C7" AG- G2 z3/2 E/ _BG | %69
+w: you don't know what it's li-|ke to love some-|bo- dy, * to love some-|bo- dy * the way I|
+"G " EG- G6 |] %70
+w: love you. *|
+

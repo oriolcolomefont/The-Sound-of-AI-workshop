@@ -1,0 +1,28 @@
+X:1
+T:Something Wonderful
+T:Something Wonderful
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z B"D+" ^C D |"C" G3/2 =C/ C2 |"G" z B"D+" ^C D |"C" G3/2 =C/ C2 |"G" z B, D G | %5
+w: He will not|al- ways say|What you would|have him say.|But, now and|
+"C/E" B3/2 c/ c2 |"Am7" d E3 |"D7" B3/2 A/ D2 |"G" z B"D+" ^C D |"C" G3/2 =C/ C2 | %10
+w: then, he'll say|some- thing|won- der- ful.|The thought- less|things he'll do|
+"G" z B"D+" ^C D |"C" G3/2 =C/ C2 |"G" z B, D G |"C/E" B3/2 c/ c2 |"A7" ^c A3 | %15
+w: will hurt and|wor- ry you.|Then, all at|once he'll do|some- thing|
+"D" (3:2:2d2 A (3:2:2F2 E |"Gm" D E =F E |"Dm/F" =F3 E |"Gm" D2"A7" E2 |"D" ^F3 D |"Gm" G A _B A | %21
+w: won- der- ful. He|has a thous- and|dreams that|won't come|true. You|know that he be-|
+"Gm/F" G A _B A |"A7/E" G A _B c |"D" A4 |"G" z B"D+" ^C D |"C" G3/2 =C/ C2 |"G" z B"D+" ^C D | %27
+w: lieves in them and|that's e- nough for|you.|You'll al- ways|go a- long.|De- fend him|
+"C" G3/2 =C/ C2 |"G" z B, D G |"C/E" B3/2 c/ c2 |"A7" ^c A3 |"D/F#" d3/2 A/ A2 |"B7" z ^d B B | %33
+w: when he's wrong.|And tell him|when he's strong.|He is|won- der- ful.|He'll al- ways|
+"Em" e3/2 B/ B2 |"G7" z B G B |"C/E" c3/2 G/ G2 |"G/D" z B"D+" ^C D |"C/D" G3/2 =C/ C2 | %38
+w: need your love,|and so he'll|get your love.|A man who|needs your love|
+"G/D" B, D3 |"C/D" G3/2 G/ G2- |1"G""F#/G" G4 ||"C/G" z4 :|2"G" G4- || G3 z |] %44
+w: can be|won- der- ful|_||||
+

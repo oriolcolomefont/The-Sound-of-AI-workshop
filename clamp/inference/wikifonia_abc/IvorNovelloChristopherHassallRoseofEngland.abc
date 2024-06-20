@@ -1,0 +1,30 @@
+X:1
+T:Rose of England
+T:Rose of England
+C:Ivor Novello
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+"C" G3"G7/D" G |"C/E" A G"Em" B, C |"Dm7" E2"G7" D2 |"C" C4 |"C" G3"G7/D" G |"C/E" A G"Em" B, C | %6
+w: Rose of|Eng- land thou shall|fade not|here|Proud and|bright from grow- ing|
+w: ||||||
+"Am7/D" B2"D7" A2 |"G" G4 |"F" A2 B c |"Bm7b5" d3/2 c/ B A |"Em" G2 A B |"Am" c4 |"F" F2 G A | %13
+w: year to|year|Red shall they|pet- als be as|rich wine un-|told||
+w: ||||||Shared by the|
+"G7" B3/2 A/ G F |"C" E2"^C##dim" F G |"Dm7""G7" D4 |"C" G3"G7/D" G |"C/E" A G"Em" B, C | %18
+w: |||||
+w: war- ri- ors who|served thee of|old|Rose of|Eng- land breath- ing|
+"Dm7" E2"G7" D2 |"C" C4 |"C" G3"G7/D" G |"C/E" A G"Em" B, C |"Am7/D" B2"D7" A2 |"G" G4 | %24
+w: ||||||
+w: Eng- land's|air|Flower of|chiv- al- ry be-|yond com-|pare|
+"F" A2 B c |"Bm7b5" d3/2 c/ B A |"Em" G2 A B |"Am6""Dm7b5" c4 |"C/G" G3"G7/F" G | %29
+w: |||||
+w: While hand and|heart en- dure to|cher- ish thy|prime|Thou shall|
+"C/E" A G"Am" B c |"Dm7" e2"G7" d2 |"C" c4 |] %32
+w: |||
+w: blos- som to the|end of|time.|
+

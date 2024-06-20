@@ -1,0 +1,26 @@
+X:1
+T:All Of You
+T:All Of You
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z E F G |:"Abm6" A3 G |"Eb" G3 B, |"Fm7b5" =B,3 A |"Bb7b9" A3 F |"Abm6" A3 G |"Ebmaj7" G3 B, | %7
+w: I love the|looks of|you, the|lure of|you, the|sweet of|you the|
+"Fm7b5" =B,3 B |"Bb7" B3 A |"Eb6/G" c3 B |"Gbdim" c3 B |"Fm7" c3 D |"Bb7" D3"Bb7/A" C | %13
+w: pure of|you; the|eyes, the|arms, the|mouth of|you, the|
+"Emaj7" B2"D7" B2 |"Gm7b5/Db" B _d2"C7" c |"Fm7" B2 C C- |"Bb7" C D E F |"Abm6" A3 G | %18
+w: East, West,|North, and the|South of you.|* I'd love to|gain com-|
+"Ebmaj7" G3 B, |"Fm7b5" =B,3 A |"Bb7b9" A3 F |"Abm6" A3 G |"Ebmaj7" G B,/C/ D E |"Gm7" C3 B | %24
+w: plete con-|trol of|you, and|hand- le|ev- en the heart and|soul of|
+"C7" B3 =B |"Absus4" d3/2 c/ d3/2 c/ |"Am7b5" d c/e/-"D7b9" e/d/ c |"Gm7""Db9" G4 |"C7" G3 C | %29
+w: you. So|love, at least a|small per- * cent of me,|do,|* for|
+"Fm" A2"C7/G" B2 |"Fm/Ab" c2"Bb7" D2 |"Eb" E2 z2 |"Fm7""^(" z E F"^)" G :| %33
+w: I love|all of|you.|I love the|
+

@@ -1,0 +1,23 @@
+X:1
+T:The Birds And The Bees
+T:The Birds and the Bees
+T:Herb Newman
+C:Herb Newman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 ed BAGE |:"G" G2 BB G2 DD |"D7" FFAA E2 DD | F2 A2 F2 E2 | z2 dd cG B2 |"G" (GB G6) | %6
+w: Let me tell you bout the|birds and the bees and the|flow- ers and the trees and the|moon up a- bove|and a thing * called|love _ _|
+ z2 ed BAGE |"G" G2 BB G2 DD |"D7" F2 AA E2 DD | F2 AF E4 | z2 dd (cG) A2 |"G" (GA G6) | %12
+w: Let me tell you bout the|stars in the sky and a|girl and a guy and the|way they could kiss|on a night _ like|this _ _|
+ z2 GG"G7" AGAG |"C" e c2 G- G2 z2 | z2 ee edce |"G" (e2 d6) | z4 z2"Em" EE |"A7" B2 BG- GGGE | %18
+w: when I look in- to your|big brown eyes _|it's so ver- y plain to|see _|that it's|time you learned _ a- bout the|
+ B A2 E- E2 z2 |"D7" A A2 G F2"Am" G2 |"D7" A2 ed BAGE |"G" G2 BB G2 DD |"D7" FFAA F2 DD | %23
+w: facts of life _|start- ing from A to|Z let me tell you bout the|birds and the bees and the|flow- ers and the trees and the|
+ F2 AF E4 | z2 dd (cG) B2 |1"G" (GA G6) | z2 ed BAGE :|2"G" (GA G6) |"Am7" G2 z2 z4 |] %29
+w: moon up a- bove|and a thing _ called|love * *|Let me tell you bout the|love * *||
+

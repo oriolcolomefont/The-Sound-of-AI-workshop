@@ -1,0 +1,24 @@
+X:1
+T:A String Of Pearls 1942
+T:A String of Pearls      (From the Glen Miller Story)
+C:Jerry Gray
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" A2 A A- | A A A/B/ c | A2 A A- | A A A/B/ c | A2 A A- | A A"C7" A/F/ G |"F" F2 F z | z4 | %8
+w: Ba- by Here's|_ a five and dime|Ba- by Nows|_ a- bout the time|For a string|_ of pearls a- la|Wool- worth||
+w: Ba- by you|_ made quite a start|found the way|_ right to my heart|with a string|_ of pearls a la|Wool- worth||
+"Bb" d2 d d- | d d d/_e/ f | d2 d d- | d d d/_e/ f | d2 d d- | d d"F7" d/_B/ c |"Bb" _B2 B z | z4 | %16
+w: Ev- ery pearls|_ a star a- bove|wrapped in dreams|_ and filled with love|That old string|_ of pearls a la|Wool- worth.||
+w: Wait til the|_ stars peek- a- boo|I've got some|_ timing just for you|It's a string|_ of kiss- es for|ba- by||
+"F" A2 A A- | A A A/_B/ c | A2 A A- | A A A/_B/ c | A2 A A- | A A"C7" A/F/ G |1"F" F2 F z | %23
+w: "Til that hap-|* py day in Spring|when you buy|_ the wed- ding ring|Please a string|_ of pearls a la|Wool- worth|
+w: I found a|_ love so sub- lime|right in that|_ old five and dime|with a string|_ of pearls a la||
+"C7" z4 :|2"F" F2 F2- | F3 z |] %26
+w: |Wool- worth|_|
+w: |||
+

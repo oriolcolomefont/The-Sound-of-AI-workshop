@@ -1,0 +1,36 @@
+X:1
+T:Nobody's Heart
+T:Nobody's Heart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+S"F" C F/>G/"G9" A A |"C7" A"F" F F"Bb" d- | d"F" c2"F+" F |"Gm7""C7" G4 |"F" C F/>G/"G9" A A | %5
+w: No- bod- y'd heart be-|longs to me, Heigh-|* ho! Who|cares?|No- bod- y writes his|
+"C7" A"F" F F"Bb" d- | d"F" c2"F+" A |"Dm" F D"G9" D2 |"F" C2 D2 |"Gm7" F A"C7" E2 |"F" F4 | %11
+w: song to me, No|_ one be-|longs to me,|That's the|least of my|cares.|
+ z C F G |"Fm" _A/>G/"Db" A3 |"Bb7" z c B _A |"C" c z"G7" G"C" C | z C"Gm7" F"C7" G | %16
+w: I may be|sad at times,|And dis- in-|clined to play,|But it's not|
+"Fm" _A/>G/"D/B" A3 |"Bb7" z c B _A |"C" c2"G7b5" G"C" C- |"Gm7" C3"C7" z |"F" C F/>G/"G7" A A | %21
+w: bad at times,|To go your|own sweet way.|_|No- bod- y's arms be-|
+"C7" A"F" F F"Bb" d- | d"F" c2"F+" A |"Dm" F D"G9" D2 |"F" C2 D2 |"Gm7" F A"C7" E2 | %26
+w: long to me, No|_ arms feel|strong to me,|I ad-|mire the moon,|
+"Am" E G"F6" D2 |"Gm7" D F"C7" C2 |"F" C F/>G/"F+" A A |"Bmaj7" A A"B7" A"C7" A |1"F" A4 |2 %31
+w: As a moon,|Just a moon,|No- bod- y's heart be-|longs to me to|day.|
+"Gm7""C7" z4 ||"F" A4- || A2 z2!fine! ||[K:Bb][M:2/4]"Bb" B2 | A/G/ F |"Eb" E2- | E2 | %38
+w: |day.|_|Ride|Am- a- zon|ride.|_|
+"F7" F"Cm7" F |"Abm7" F"F7" F |"Bbm""Bb" F2- | F2 | B2 | A/ G F/ |"Eb" E2- | E2 |"F7" F F | %47
+w: Hunt your|stags and|bears.|_|Take|life in it's|stride.|_|Heigh- ho!|
+ z"F+7" A |"Bbmaj9""Bb" D2- |"Bbmaj7""Bb6" D2 |"D" D2 | D/=E/ ^F |"G" G2- | G2 |"A9" A"Em7" A | %55
+w: Who|cares?|_|Go|hunt- ing with|pride,|_|Track bears|
+"Cm6" A"A7" A |"Dm""D" A2- | A2 |"Bb" B2 | A/G/ F |"Gm6" B2- | B2 |"A+7" A"A7" A- |"D7b9" A"D7" A | %64
+w: to their|lairs|_|Ride|Am- a- zon|ride.|_|Heigh- ho!|_ Who|
+"G7b5""G7" G2- |"C7b9" G2!D.S.! |] %66
+w: cares?|_|
+

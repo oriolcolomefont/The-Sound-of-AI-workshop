@@ -1,0 +1,28 @@
+X:1
+T:Coquette
+T:Coquette
+T:Johnny Green & Carmen Lombardo
+T:Gus Kahn
+C:Johnny Green & Carmen Lombardo
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" e c3 | (3e c e"Edim" c G |"Fm7" (3B G B"Bb7" G2- | G4 | B G3 | (3B G B G"Bb+" B, |"Eb" C G3- | %7
+w: Tell me|Why you keep fool- ing,|Lit- tle Co- quette?||Ma- king|fun of the ones who|love you.|
+"Fm7" G z"Bb7" z2 |"Eb" e c3 | (3e c e"Edim" c G |"Fm7" (3B G B"Bb7" G2- | G4 | B G3 | %13
+w: |Break- ing|hearts you are rul- ing,|Lit- tle Co- quette?||True hearts|
+ (3B G B G"Bb+" B, |"Eb" C E3- | E4 |"Eb7" E F3 |"Bbm7" (3F G B"Eb7" e c |"Ab" (3B G B G E | F4 | %20
+w: ten- der- ly dream- ing|of you.||Some day|you'll fall in love as|I fell in love with|you.|
+"F7" F"Cm7" G3 |"F9" (3G =A c"F7" f d |"Fm7" c2"Bb7" B2 |"Bb+" c2"Bb7" B2 |"Eb" e c3 | %25
+w: May- be|some- one you love will|just be|fool- ing,|And when|
+ (3e c e"Edim" c G |"Fm7" (3B G B"Bb7" G2- | G4 | B G3 | (3B G B"Bb7" G"Bb+" B, |"Eb" C E3- | %31
+w: you're all a- lone with|on- ly re- gret||You'll know|Lit- tle Co- quette, I|loved you.-|
+"Fm7b5""Eb" E3 z |] %32
+w: |
+

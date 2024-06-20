@@ -1,0 +1,26 @@
+X:1
+T:You Were Only Fooling
+T:You Were Only Fooling
+T:Larry Fontine
+T:Billy Faber & Fred Meadows
+C:Larry Fontine
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" B3 D | F2 B2 |"D7" A ^F3- | F3 D |"Eb" G3 G |"F7" E F2 G |"Bb""F7/C" F4- | %7
+w: You were|on- ly|fool- ing,|* but|I was|fall- ing in|love,|
+"Bb/D" F2"Bdim" G _G |"F7/C" F c2 =B | c3 d |"D7b9" c A2 c |"Gm" B4 |"C7" A A A G | ^F G A B | %14
+w: * It's a|sto- ry as|old as|A- dam and|Eve|I was mak- ing|love but you were|
+"Cm7" d c2 =B |"F7" c3 F |"Bb" B3 D | F2 B2 |"D7" A ^F3- | F3 D |"Eb" G3 G |"F7" E F2 G | %22
+w: mak- ing be-|lieve. You|lied to|me with|kiss- es,|* I've|tried to|stop dream- ing|
+"Bb""Ab7" F4- |"G7" F3 F |"Cm" E3 C |"F7" D2 E2 |"Bb/D" F2"Edim" G2 |"F#dim" A2"Gm7" B2 | %28
+w: of,|* but|You Were|On- ly|Fool- ing|me while|
+"C7" B3 G |"F7" A B2 c |"Bb""B" B4- |"Bb" B3 z |] %32
+w: I was|fall- ing in|love-||
+

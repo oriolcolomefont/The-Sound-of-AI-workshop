@@ -1,0 +1,32 @@
+X:1
+T:I Was Doing All Right
+T:I Was Doing All Right
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G6" d d"G#dim7" (3d B c |"C6""D7" d3 z |"G6" (3d d"G#dim7" d B c |"C6" d c"D7" A2 | %4
+w: I was do- ing all|right,|No- thing but rain- bows|in my sky,|
+"Gmaj7" B B"G7" (3B c d |"G6""C6" G3 B |"G" D2"D7" C2 |"G6" B,3 z | d d"G#dim7" (3d B c | %9
+w: I was do- ing all|right Till|you came|by.|Had no cause to som-|
+"C6""D7" d3 z |"G6" (3d d"G#dim7" d B c |"C6" d c"D7" A2 |"Gmaj7" B B"G7" (3B c d |"G6""C6" G3 B | %14
+w: plain,|life was as sweet as|ap- ple pie,|Nev- er no- tice the|rain Till|
+"G" D2"D7" C2 |"G6" B,2 z"B7" ^D |"E6" E2- E z/ E/ | B/>E/E/>E/"B7" ^G2 |"A7" E E E E | %19
+w: you came|by. But|now _ When-|ev- er you're a- way,|Can't sleep nights and|
+ c/>E/E/>E/ F2 |"E6""Emaj7" E4 |"C#m" (3e ^d ^c"G#m" (3d c B |"A" (3^c B A"E" B B | %23
+w: suf- fer all the day;|I|just sit and won- der if|love is- n't one big|
+"Am" =c2"A#dim7" ^c2 |"G6" d d"G#dim7" (3d B c |"C6""D7" d3 z |"G6" (3d d"G#dim7" d B c | %27
+w: blun- der.|But when you hold me|tight,|ting- ling all thru, I|
+"C6" d c"D7" A2 |"Gmaj7" B B"G7" (3B c d |"C9" G2"C6" z B/c/ |"G" d/ B3/2"G6" (3d B d | %31
+w: feel some- how|I was do- ing all|right But i'm|do- ing bet- ter than|
+"C6" e2"C" G2 |1"G6""Eb7" G4- |"C" G"D7sus4" z"D7" z2 :|2"G6""Eb7" G4- |"Cmaj7" G z"D7" z2 | %36
+w: ev- er|now.|_|now.|_|
+"G" z4 |] %37
+w: |
+

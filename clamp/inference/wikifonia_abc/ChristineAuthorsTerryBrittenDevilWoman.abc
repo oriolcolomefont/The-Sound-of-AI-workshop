@@ -1,0 +1,54 @@
+X:1
+T:Devil Woman
+T:Devil Woman
+T:Christine Authors & Terry Britten
+C:Christine Authors & Terry Britten
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" F2 d2 dFdG- |"G" G2 d2 dGd=F- |"Dm" F2 dE"C" d2 dD- |"G" D2 d2 d2 d2 |"D" F2 d2 dFdG- | %5
+w: |||||
+w: |||||
+"G" G2 d2 dGd=F- |"Dm" F2 dE"C" d2 dD- |"G" D2 d2 d2 d2 |:"D" z dd=c dcd=f- |"G" f d3 z2 G=F | %10
+w: |||* I've had noth- ing but bad|* luck since the|
+w: |||Give me the ring on your fin-|* ger, * *|
+"Dm7" G=FGF"C" GFGF |"D" D4 z4 | z2 d=c dcdg- |"G" g =f2 d- d =c3 |"Dm7" G=FGF"C" GFAG | %15
+w: day I saw the cat at my door.||So I came here to you,|* sweet la- * dy,|An- swer- ing your mys- ti- cal- call,|
+w: Let me see the lines of your hand.||I can see me a tall|* dark strang- * er|Giv- ing you what you had- n't planned|
+"D" =F D3 z4 |"C" z eee edd=f- |"Dm" f d3 d4 |"C" z eee eddd |"Dm" d4 z4 |"C" z2 ee edd=f- | %21
+w: |* Crys- tal ball on the ta-|* ble, *|Show- ing the fu- ture, the past.||Same * cat with them e-|
+w: |I drank the po- tion she of-|* fered me,|I found my- self on the floor,||Then I looked in those big|
+"Dm" f e2 d- d2"C" dd |"Bb" =ffff gfff |"A" !>!e!>!e !>!e2 z4 ||"Dm" z ddA =cA=fd | z ddA =cA=FD | %26
+w: * vil eyes * And I|knew it was a spell * * she'd|cast. * *|She's just a dev- il wom- an|with e- vil on her mind, *|
+w: * green eyes * And I|won- dered what I came- * there *|for. * *|||
+ z ddA =cA=fd |"Bb" z ddd"C" =f d3 |"Dm" z ddA =cA=fd | z ddA =cA=FD | z ddA =cA=fd | %31
+w: Be- ware the dev- il wo- man,|She's gon- na get you!|She's just a dev- il wo- man|With e- vil on her- mind. *|Be- ware the dev- il wo- man,|
+w: |||||
+"Bb" z ddd"C" =fd=cc |1"D" d2 F2 A2 A2 ||"G" B2 B2 B2 B2 |"Dm" A2 A2"C" G2 G2 |"D" F2 F2 F2 F2 :|2 %36
+w: She's gon- na get you from be-|hind! * * *||||
+w: |||||
+"Bbmaj7" d2 A2 A2 A2 ||"C" =c2 G2 G2 G2 |"Bbmaj7" d2 A2 A2 A2 |"C" =c2 G2 G2 G2 |"D" d2 d2 dFdG- | %41
+w: hind! * * *|||||
+w: |||||
+"G" G2 d2 dGd=F- |"Dm" F2 dE"C" d2 dD- |"D" D2 d2 d2 d2 ||"D" z2 d=c dcd=f- |"G" fd d2 z2 z =F | %46
+w: |||If you're out on a moon-|* lit night Be|
+w: |||||
+"Dm7" G=FGF GFGF |"D" D4 z4 | z2 dd d=cdg- |"G" g =f2 d- d=c G/G/=F |"Dm7" G=FGF"C" GFAG | %51
+w: care- ful of the neigh- bour- hood strays,||Of a la- dy with long|* black hair * * Try- in' to|win you with her fem- i- nine ways,|
+w: |||||
+"D" =F D3 z4 |"C" z2 ee edd=f- |"Dm" f d3 z4 |"C" z eee eddd- |"Dm" d4 z4 |"C" z2 e2 edd=f- | %57
+w: |Cryst- al ball on the ta-|* ble,|Show- ing the fu- ture, the past,||Same cat with them e-|
+w: ||||||
+"Dm" f e2 d-"C" d3 d |"Bb" =fffg- gg f2 |"A" !>!e!>!e !>!e2 z4 |:"Dm" z ddA =cA=fd | z ddA =cA=FD | %62
+w: * vil eyes, * You'd|bet- ter get out * of there|fast! * *|She's just a dev- il wo- man|With e- vil on her mind, *|
+w: |||||
+ z ddA =cA=fd |"Bb" z d"^Repeat and fade"dd"C" =f d3 :| %64
+w: Be- ware the dev- il wo- man,|She's gon- na get you!|
+w: ||
+

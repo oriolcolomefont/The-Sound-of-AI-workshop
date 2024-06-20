@@ -1,0 +1,24 @@
+X:1
+T:A Fine Romance
+T:A fine romance
+T:Jerome Kern
+T:Dorothy Fields
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." G |"C" C4 | A G2 A |"G7" B,4 | B A2 B |"C" E4 | d c2 E |"G7" G4 | e d2 G | %9
+w: A|fine|ro- mance with|no|kiss- es a|fine|ro- mance my|friend|this is we|
+"C" c B c d |"D7" (3c/B/_B/ A _A2 |"G7" G2 G2- | G3 G |"C" A ^G A B | (3A/_A/G/ ^F F2 | %15
+w: should be like a|coup- le of hot to-|ma- toes|* but|you're as cold as|yes- ter- days mashed po-|
+"E7" E2"A7" E2- |"D7" E2-"G7" E E |"C" C4 | A G2 A |"G7" B,4 | B A2 B |"C" E4 | d c2 E |"G7" G4 | %24
+w: ta- toes|* * a|fine|ro- mance you|wont|nes- tle a|fine|ro- mance you|wont|
+ e d2 G |"C" c B c d |"C7" (3e/d/c/ B _B2 |"F" A4 | (3c/B/_B/ A _A2 |"C" G4 |"G7" (3B/A/_A/ G d2 | %31
+w: wres- tle I|might as well play|bridge with my old maid|aunts|I have- n't got a|chance|this is a fine ro-|
+"C" c4- | c3 z |] %33
+w: mance!-||
+

@@ -1,0 +1,46 @@
+X:1
+T:Day-O (The Banana Boat Song
+T:Day-O
+T:The Banana Boat Song
+T:Irving Burgie&William Attaway
+C:Irving Burgie & William Attaway
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" d4 A2 z2 | cBAF- F2 z2 | D D2 F- F F2 D |"A7" E2 EA- A2 z2 |"D" d2 z2 z2 (3z Ad | %5
+w: Day- o,|day- ay- ay- o- *|Day- light come * and me|wan'- go home, *|Day, me say|
+ (3cAc"G" (3BGB"D" (3AFA"G" (3GEG |"D" (3FDB, A,2 z4 | D D2 F- F F2 D |"A7" E2 ED- D4!fine! || %9
+w: day, me say day, me say day, me say day, me say|day- * * o,|Day- light come * and me|wan' go home. *|
+"D" F2 A2 F2 AA | F3 A d4 | D D2 F- F F2 D |"A7" E2 EA- A4 |"D" F2 A2 FFAA | F3 A d4 | %15
+w: Work all night on a|drink a' rum.|Day- light come * and me|wan' go home. *|Stack ba- na- na till the|morn- in' come.|
+ D D2 F- F F2 D |"A7" E2 ED-"D" D4 || F2 AA FF A2 |"A7" GGEE C2 A,2 |"D" D D2 F- F F2 D | %20
+w: Day- light come * and me|wan' go home.- *|Come, Mis- ter tall- y man,|tall- y me ba- na- na|Day- light come * and me|
+"A7" E2 EA- A4 |"D" F2 AA FF A2 |"A7" GGEE C2 A,2 |"D" D D2 F- F F2 D |"A7" E2 ED-"D" D2 A2 || %25
+w: wan' go home. *|Come, Mis- ter tall- y man,|tall- y me ba- na- na|Day- light come * and me|wan' go home. * Lift|
+ F2 A2 FF A2 | F2 A2 d4 | D D2 F- F F2 D |"A7" E2 EA- A4 |"D" F2 A2 FF A2 | F2 A2 d4 | %31
+w: six foot, sev- en foot,|eight foot bunch!|Day- light come * and me|wan' go home. *|six foot, sev- en foot,|eight foot bunch!|
+ D D2 F- F F2 D |"A7" E2 ED-"D" D4 ||"D" d4 A2 d2 |"A7" cBAF-"D" F2 z2 | D D2 F- F F2 D | %36
+w: Day- light come * and me|wan' go home- .|Day me say|day- ay- ay- o- *|Day- light come * and me|
+"A7" E2 EA- A2 z2 |"D" d2 z2 z2 Ad |"A7" c2 Ac"G" B2 GB |"D" D D2 F- F F2 D | %40
+w: wan'- go home, *|Day, me say|day, me say day, me say|Day- light come * and me|
+"A7" E2 ED-"D" D2 z A || FF A2 F2 A2 | F2 A2 d2 d2 | D D2 F- F F2 D |"A7" E2 EA- A2 z2 | %45
+w: wan' go home- * A|beau- ti- ful bunch a'|ripe ba- na- na,|Day- light come * and me|wan'- go home, *|
+"D" F2 A2 F2 A2 | F2 A2 dd d2 | D D2 F- F F2 D |"A7" E2 ED-"D" D2 z A || F2 A2 FF A2 | F2 A2 d4 | %51
+w: Hide the dead- ly|black ta- ran- tu- la|Day- light come * and me|wan' go home- * !t's|six foot, sev- en foot,|eight foot bunch!|
+ D D2 F- F F2 D |"A7" E2 EA- A4 |"D" F2 A2 FF A2 | F2 A2 d4 | D D2 F- F F2 D |"A7" E2 ED-"D" D4 || %57
+w: Day- light come * and me|wan' go home. *|six foot, sev- en foot,|eight foot bunch!|Day- light come * and me|wan' go home- .|
+ d4 A2 d2 |"A7" cBAF-"D" F2 z2 | D D2 F- F F2 D |"A7" E2 EA- A2 z2 |"D" d2 z2 z2 Ad | %62
+w: Day me say|day- ay- ay- o- *|Day- light come * and me|wan'- go home, *|Day, me say|
+"A7" c2 Ac"G" B2 GB |"D" D D2 F- F F2 D |"A7" E2 ED-"D" D2 z2 | F2 AA FF A2 |"A7" GGEE C2 A,2 | %67
+w: day, me say day, me say|Day- light come * and me|wan' go home- *|Come, Mis- ter tall- y man,|tall- y me ba- na- na|
+"D" D D2 F- F F2 D |"A7" E2 EA- A4 |"D" F2 AA FF A2 |"A7" GGEE C2 A,2 |"D" D D2 F- F F2 D | %72
+w: Day- light come * and me|wan' go home. *|Come, Mis- ter tall- y man,|tall- y me ba- na- na|Day- light come * and me|
+"A7" E2 ED-"D" D2 z2!D.C.! |] %73
+w: wan' go home. *|
+

@@ -1,0 +1,30 @@
+X:1
+T:Lullaby Of The Leaves
+T:Lullaby  of  the  Leaves
+T:Bernice  Petkere
+T:Joe Young
+C:Bernice Petkere
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Cm" C3 D E3 F |"Gmaj7" ^F2"G7" G2 =e3 d |"C7" c3 d c3 G |"Fm7" B2 A2 E2 F2 | %4
+w: Cra- dle me where|south- ern skies can|watch me with a|mil- lion eyes, Oh|
+"Dm7" (3G2 G2 G2"G7" G4 |"Dm7" (3G2 G2 G2"G7" G2 E2 |"Cm" C8- |"Ab7" C4"G7" z4 |"Cm" C3 D E3 F | %9
+w: sing me to sleep,|Lul- la- by Of The|Leaves.|_|Cov- er me with|
+"Gmaj7" ^F2"G7" G2 e3 d |"C7" c3 d c3 G |"Fm7" B2 A2 E2 F2 |"Dm7" (3G2 G2 G2"G7" G4 | %13
+w: hea- ven's blue and|let me dream a|dream or two, Oh|sing me to sleep,|
+"Dm7" (3G2 G2 G2"G7" G2 E2 |"Cm""Fm" C8- |"Cm" C4 z2 z C |"Fm7" (3C^CD E>E (3ED_D =C>C | %17
+w: Lul- la- by Of The|Leaves.|_ I'm|breez- ing a- long, a- long with the breeze, I'm|
+ (3C^CD E>E (3ED_D =C>C |"C" G3"Cmaj7" =E G3 E |"C6" G6 z C |"Fm7" (3C^CD E>E (3ED_D =C>C | %21
+w: hear- ing a song, a song thru the trees, ooh|ooh ooh ooh ooh|ooh The|pine mel- o- dy car- ess- ing the shore, Fa-|
+ (3C^CD E>E (3ED_D =C>C |"C" G3 =E"C#dim7" G4- |"G7" G z"Ebdim" _E2 E2"G7" D2 |"Cm" C3 D E3 F | %25
+w: mi- lar to me, I've heard it be- fore, ooh|ooh ooh ooh.|_ That's south- land,|don't I feel it|
+"Gmaj7" ^F2"G7" G2 e3 d |"C7" c3 d c3 G |"Fm7" B2 A2 E2 F2 |"Dm7" (3G2 G2 G2"G7" G4 | %29
+w: in my soul, and|don't I know I've|reached my goal, Oh|sing me to sleep,|
+"Dm7" (3G2 G2 G2"G7" e2 e2 |"Cm""Fm" c8- |"Cm" c6 z2 |] %32
+w: Lul- la- by Of The|Leaves.|_|
+

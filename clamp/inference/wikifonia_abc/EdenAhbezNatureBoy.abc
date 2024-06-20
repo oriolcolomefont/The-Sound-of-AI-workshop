@@ -1,0 +1,23 @@
+X:1
+T:Nature Boy
+C:Eden Ahbez
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ B,2 |:"Em" B>G E4- | EB,"Am6" FG Ac |"Em" B>G E4 | z B,"Am6" FG Ac |"Em" Be _e4 | Bd _d4 | %7
+w: There|was a boy.|_ A ver- y strange en-|chant- ed boy;|They say he wan- dered|ver- y far,|ver- y far,|
+"Am6" Ac"Em" B3 E |"Am6" F4 z B, | BA F4- | F4 z B, |"Em" AG E4- | E4 z ^A, |"F#7b9" GF ^C4- | %14
+w: o- ver land and|sea. A|lit- tle shy|_ and|sad of eye,|_ but|ver- y wise|
+ C4 D2 |"B7b9" ^D6- | D4 z B, |"Em" B>G E4- | EB,"Am6" FG Ac |"Em" B>G E4 | z B,"Am6" FG Ac | %21
+w: _ was|he.|_ And|then one day,|_ one mag- ic day, he|passed my way,|and as we spoke of|
+"Em" Be _e4 | Bd _d4 |"Am6" Ac"Em" B3 E |"Am6" F4 z B, | BA F4- | F4 z B, |"Em" AG E4- | %28
+w: man- y things,|fools and kings,|this he said to|me: "The|great- est thing|_ you'll|ev- er learn|
+ E4 z ^A, |1"F#7b9" GF ^C3 =C |"B7b9" E_E- E2 C>B, |"Em" E6 |"F#m7b5" z2"B7" z2 z B, :|2 %33
+w: _ is|just to love and|be loved _ in re-|turn|there|
+"F#7b9" GF ^C4 ||"B7b9" CA G3 ^D/F/ |"Em" E6- | E6 |] %37
+w: just to love|and be loved in re-|turn|_|
+

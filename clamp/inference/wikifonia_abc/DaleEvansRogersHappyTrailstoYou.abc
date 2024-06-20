@@ -1,0 +1,23 @@
+X:1
+T:Happy Trails to You
+T:Happy Trails to You
+T:Dale Evans
+T:(theme from TV series "The Roy Rogers Show")
+T:Paramount Roy Rogers Music Co. Inc (1951, 1952, 1979, 1980)
+C:Dale Evans Rogers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Moderato" B,B, |"Eb" B6 B2 | (G4 G3) B, | C3 B,"Edim7" ^C3 B, |"Bb7" D6 B,B, |"Eb" B6 B2 | %6
+w: 1.~Hap- py|trails to|you, _ un-|til we meet a-|gain. Hap- py|trails to|
+ F6 B,2 | F3 B,"Bb+7" ^F3 B, |"Eb" G6 z B |"Eb7" BGGF FE=DE |"Ab" B4 A3 G |"C7" G=EED DC=B,C | %12
+w: you, Keep|smil- in' un- til|then. Who|cares a- bout the clouds when we're to-|geth- er? Just|sing a song and bring the sun- ny|
+"F9" G4"Bb7" F2 B,B, |"Eb""Bbm/Db" B6 B2 |"C7" G6 AB |"F9" c4"Bb7" D4 |"Eb" E4 z2 :| %17
+w: weath- er. Hap- py|trails to|you, 'til we|meet a-|gain.|
+

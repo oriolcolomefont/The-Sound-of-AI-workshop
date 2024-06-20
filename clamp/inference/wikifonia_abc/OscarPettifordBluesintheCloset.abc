@@ -1,0 +1,26 @@
+X:1
+T:Blues in the Closet
+T:Blues in the Closet
+T:Oscar Pettiford
+C:Oscar Pettiford
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ A- |"Ab" A2 cA d2 cA | d2 cA- A E2 A- | A2 cA d2 cA- | A E3- E2 z A- |"Db7" A2 _cA d2 cA | %6
+ d2 _cA- A E2 A- |"Ab" A2 cA d2 cA- | A E3- E2 z A- |"Bbm7" A2 cA d2 cA |"Eb7" d2 cA- A E2 A- | %11
+"Ab" A2 cA d2 cA- | A E2 D C2 E{/[GB]}[Ac]- |"Ab" [Ac]2 [ce][Ac] [df]2 [ce][Ac] | %14
+ [df]2 [ce][Ac]- [Ac] [EA]2 [Ac]- | [Ac]2 [ce][Ac] [df]2 [cce][Ac]- | [Ac] [EA]3- [EA]2 z [A_c]- | %17
+"Db7" [Ac]2 [_ce][Ac] [df]2 [ce][Ac] | [df]2 [_ce][Ac]- [Ac] [EA]2 [A=c]- | %19
+"Ab" [Ac]2 [ce][Ac] [df]2 [cce][Ac]- | [Ac] [EA]3- [EA]2 z [Ac]- | %21
+"Bbm7" [Ac]2 [ce][Ac] [df]2 [ce][Ac] |"Eb7" [df]2 [ce][Ac]- [Ac] [EA]2 [Ac]- | %23
+"Ab" [Ac]2 [ce][Ac] [df]2 [cce][Ac]- | [Ac] [EA]3- [EA]2 z2 |] z4 z2 cd |:"Ab" cAED C2 E z | %27
+ AFAB z Acd | cAED CEF_G- |"Ab" !~(!G2 !~)!=D z z A_cd |"Db7" _cAED _CEF z | AFAB z A=cd | %32
+"Ab" cAED CEFG- |"Cm7" !~(!G2 !~)!C z"F7" z E F2 |"Bbm7" A2 z2 A2 z c- | c"Eb7" E3 z E F2 | %36
+"Ab" A2 z2 A2 z c- |1"Bbm7" c E3"Eb7" z2 cd :|"Ab7" c E3- E2 z2 |] %39
+

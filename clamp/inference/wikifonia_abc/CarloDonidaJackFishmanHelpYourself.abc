@@ -1,0 +1,49 @@
+X:1
+T:Help Yourself
+T:Help Yourself
+T:Carlo Donida
+T:Jack Fishman
+C:Carlo Donida
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" z G, B, E | D B,/C/ z/ G,/ B, | z G B e | d B/c/ z/ G/ B ||"Eb" z E/F/- F G | B E A G | %6
+w: ||||Love is * like|can- dy on a|
+w: ||||||
+"Bb7" F B, D F | A F/c/ z/ B/ F |"Eb" z E F G/B/- | B E"Eb7" G B |"Ab" c E A B | c e/A/ z/ B/ c | %12
+w: shelf * * *||You want to taste|* and help your-|self * * *||
+w: ||||||
+ z A B/ c3/2 | e A d c/B/- |"Eb" B2 c/ B A/- |"Bb7" A z d/ c B/- |"Eb" B z c B/A/- | %17
+w: The sweet- est|things are there for you|* Help your- self,|* take a few|* That's what I|
+w: |||||
+"Bb7" A B B A/G/- |"Eb" G G B e | d B/c/ z/ G/ B |S"Eb" z E/F/- F G | B E A G |"Bb7" F B, D F | %23
+w: * want you to do.|||We're al- * ways|told re- peat- ed-|ly * * *|
+w: |||My heart * has|love e- nough for|two, * * *|
+ A F/c/ z/ B/ F |"Eb" z E F G/B/- | B E"Eb7" G B |"Ab" c E A B | c e/A/ z/ B/ c | z A B/ c3/2 | %29
+w: |The ve- ry best|* in life is|free * * *||And if you|
+w: |More than e- nough|* for me and|you. * * *||I'm rich with|
+ e A d c/B/- |"Eb" B2 c/ B A/- |"Bb7" A z d/ c B/- |"Eb" B z c B/A/- |"Bb7" A B B A/G/- |"Eb" G4 || %35
+w: want to prove it's true|* Ba- by I'm|* tell- ing you|* This is what|* you should * do||
+w: love, a mill- ion- aire,|* I've so much,|* it's un- fair|* Why don't you|* just take a share||
+"^Chorus" z G B g | g2 e/ e e/- |"Eb6" e z B/ B B/- |"Ebmaj7" B G B/ g g/- |"Eb6" g3/2 e/ e f | %40
+w: Just help your-|self to my lips|* To my arms|* just say the word|* and they are|
+w: |||||
+"Fm7" f4 |"Bb7" z A B f | f2 d/ d d/- | d z B/ B B/- | B A B f | f d d/ e e/- |"Eb" e4 | z G B g | %48
+w: yours.|Just help your-|self to the love,|* In my heart|* your smile has|o- pened up the door-|.|The great- est|
+w: ||||||||
+ g2 e/ e e/- |"Eb6" e z B/ B B/- |"Ebmaj7" B G B/ g g/- |"Eb6" g3/2 e/ e f |"Fm7" f4 | %53
+w: wealth that ex- ists|* in the world,|* Could nev- er buy|* what I can|give.|
+w: |||||
+"Bb7" z A B f | f2 d/ d d/- | d z B/ B B/- | B A B f | f d d g/e/- |"Eb" e G B e | %59
+w: Just help your-|self to my lips|* To my arms,|* and then lets|real- ly start to live-||
+w: ||||||
+ d B/c/ z/ G/ B!D.S.! || E z z2!fine! |] %61
+w: ||
+w: ||
+

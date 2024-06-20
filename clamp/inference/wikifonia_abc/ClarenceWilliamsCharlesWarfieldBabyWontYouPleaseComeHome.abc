@@ -1,0 +1,24 @@
+X:1
+T:Baby, Won't You Please Come Home
+T:Baby, Won't You Please Come Home
+C:Clarence Williams
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"G6" B>^AB>^A"F#m7" B2 F2 |"F9""E9" B8 |"A7" B>^AB>^A"Em7" B2 F2 |"A7" (FE- E6) | %4
+w: Ba- by won't you please come|home,|'cause your mam- ma's all a|lone. _ _|
+"D7" =F ^F2 B- B2 A2 |"Em7" G6"Gm6/Bb" (3EFG |"A7" A2 E2"Eb7" A A2 A- |"D9""D7b9" A8 | %8
+w: I have tried _ in|vain, nev- er no|more to call your name.|_|
+"G" B>^AB>^A"F#m7" B2"B7" F2 |"E7" (F E3- E3) E |"Am7" A>G"Am7/G"A>G"F#m7b5" A2"C7" ^A2 | %11
+w: When you left you broke my|heart _ _ be-|cause I nev- er thought we'd|
+"B7" B6 F>G |"C6" A>^GA"C#dim7"_B- B2 A>=G |"G7" B2"F7" BB-"E7" B4 |"A7" B>^AB>^A"D7" B2 D2 |1 %15
+w: part. Ev- 'ry|hour in the day, _ you will|hea me say, _|Ba- by won't you please come|
+"G""A7" G6"Ab9" z2 :|2"G" G2"B7" (3A^AB"E7" F E3 ||"Am7" A>Bc>^c"D7" d2"Ab7" BG- | %18
+w: home.|home, dad- dy nees mam- ma,|ba- by won't you please come home.|
+"G6" G4- G z z2 |] %19
+w: _ _|
+

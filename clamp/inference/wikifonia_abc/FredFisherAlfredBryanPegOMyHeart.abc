@@ -1,0 +1,24 @@
+X:1
+T:Peg O' My Heart
+T:Peg o' My Heart
+C:Fred Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Bbmaj7" DFGA- A4- | A2 G2 F2 D2 |"C7" =EGBd- d4- | d2 c2 B2 G2 |"Cm7" GFAG-"F7" G4 | %5
+w: Peg o' my heart *|* I love you.|Don't let us part, *|* I love you.|I al- ways knew, *|
+w: Peg o' my heart, *|* I love you.|We'll nev- er part, *|* I love you.|Dear lit- tle girl, *|
+"Cm7" GFAG-"F7" G4 |"Bbmaj7" dAcB"G7" DFAG |"Cm7" F^FAG"F7" =F=E_EC |"Bbmaj7" DFGA- A4- | %9
+w: it would be you, *|since I heard your lilt- ing laugh- ter.|It's your Ir- ish heart I'm af- ter.|Peg o' my heart, *|
+w: sweet lit- tle girl, *|sweet- er than the Rose of Er- in|are your win- ning smiles en- dear- in'.|Peg o' my heart, *|
+ A2 G2 F2 D2 |"C7" =EGBd- d4- | d2 c2 B2 G2 |"Cm7" GFAG-"F7" G4 |"Cm7" GFcG-"F7" GF d2 |"Bb" B8- | %15
+w: * your glan- ces|make my heart say, *|* "How's chan- ces?"|Come, be my own, *|come make your home * in my|heart.|
+w: * your glan- ces|with Ir- ish art, *|* en- tran- ces.	|Come, be my own, *|come make your home * in my||
+"Cm7" B4"F7" z4 :|"Bb" B8 |] %17
+w: |heart.|
+w: ||
+

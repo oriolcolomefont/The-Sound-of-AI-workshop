@@ -1,0 +1,72 @@
+X:1
+T:The Longest Time
+T:The Longest Time
+T:Billy Joel
+T:Billy Joel
+C:Billy Joel
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" e4 |"Bb" d2"Eb/G" e2 |"Ab" c4 |"Bb7" d c d c |"Eb" B4 |"Bb" d2"Eb/G" e2 |"Ab" c4 | %7
+w: Oh|oh oh|oh|For the long- est|time|Oh oh|oh|
+w: |||||||
+w: |||||||
+"Bb7" d c d c |:"Eb" E2"Eb/D" G2 |"Eb/C" B2"Ebmaj7/Bb" d2 |"Ab" d e c B |"Eb" B4 | %12
+w: For the long- est|If you|said good-|bye to me to-|night|
+w: |Once I|thought my|in- no- cence was|gone|
+w: |||||
+"Eb" E2"Eb/D" G2 |"Eb/C" B2"Ebmaj7/Bb" d2 |"F7" d e c B |"Bb" B4 |"G7" z G =B d |"Cm" f2 e2 | %18
+w: There would|still be|mus- ic left to|write|What else could|I do?|
+w: Now I|know that|hap- pi- ness goes|on|That's where you|found me|
+w: ||||||
+"Bb7/D" B B d f |"Eb" a g"Eb7/G" e _d |"Ab" z A c e |"Fm" g a f e |"Bb" f3 e |"Eb" e4 :|"Eb" e4 | %25
+w: * I'm so in-|spired _ by you|That has- n't|hap- pened for the|long- est|time|Oh|
+w: When you put your|arms a- round me|I have- n't|been there for the|long- est|time||
+w: |||||||
+"Bb" d2"Eb/G" e2 |"Ab" c4 |"Bb7" d c d c |"Eb" B4 |"Bb" d2"Eb/G" e2 |"Ab" c4 |"Bb7" d c d c |: %32
+w: oh oh|oh|For the long- est|time|Oh oh|oh|For the long- est|
+w: |||||||
+w: |||||||
+"Eb" E2"Eb/D" G2 |"Eb/C" B2"Ebmaj7/Bb" d2 |"Ab" d e c B |"Eb" B4 |"Eb" E2"Eb/D" G2 | %37
+w: |||||
+w: I'm that|voice you're|hear- ing in the|hall|And the|
+w: Who knows|how much|fur- ther we'll go|on?|May- be|
+"Eb/C" B2"Ebmaj7/Bb" d2 |"F7" d e c B |"Bb" B4 |"G7" z G =B d |"Cm" f2 e2 |"Bb7/D" B B d f | %43
+w: ||||||
+w: great- est|mir- a- cle of|all|Is how I|need you|* And how you|
+w: I'll be|sor- ry when you're|gone|I'll take my|chan- ces|I for- got how|
+"Eb" a g"Eb7/G" e _d |"Ab" z A c e |"Fm" g a f e |"Bb" f3 e |"Eb" e4 ||"Bb" d2 d2 | d2 d2 | %50
+w: |||||May- be|this won't|
+w: need- ed me too|That has- n't|hap- pened for the|long- est|time|I had|sec- ond|
+w: nice ro- mance is|I have- n't|been there for the|long- est|time|||
+"Cm" d2 c B | c3 G |"D7" d2 c B | c3 D |"Eb6" c2 B =A |"Eb" G3 z |"Gm" d2 d2 | d2 d2 | %58
+w: last ver- y|long But|you feel so|right and|I could be|wrong|May- be|I've been|
+w: thoughts at the|start I|said to my-|self "Hold|on to your|heart"|Now I|know the|
+w: ||||||||
+"Cm" d c c B | c3 G |"F" d c c B |"F7" c2 F F |"Bb" c2 B A |"Bb7" G2 F2 :|"Eb" E2"Eb/D" G2 | %65
+w: hop- * ing too|hard *|I've _ gone this|far and it's|more than I|hoped for|I don't|
+w: wom- an that you|are You're|won- der- ful so|far and it's|more than I|hoped for||
+w: |||||||
+"Eb/C" B2"Ebmaj7/Bb" d2 |"Ab" d e c B |"Eb" B4 |"Eb" E2"Eb/D" G2 |"Eb/C" B2"Ebmaj7/Bb" d2 | %70
+w: care what|con- se- quence it|brings|I have|been a|
+w: |||||
+w: |||||
+"F7" d e c B |"Bb" B4 |"G7" z G =B d |"Cm" f2 e2 |"Bb7/D" z B d f |"Eb" a g"Eb7/G" e _d | %76
+w: fool for less er|things|I want you|so bad|I think you|ought to know that|
+w: ||||||
+w: ||||||
+"Ab" c A c e |"Fm" g a f e |"Bb" f3 e |"Eb" e4 |"Eb" e4 |"Bb" d2"Eb/G" e2 |"Ab" c4 | %83
+w: I in- tend to|hold you for the|long- est|time|Oh|oh oh|oh|
+w: |||||||
+w: |||||||
+"Bb7" d c d c |:"Eb" B4 |"Bb" d2"Eb/G" e2 |"Ab" c4 |"Bb7" d c d c :| %88
+w: For the long- est|time|Oh oh|oh|For the long- est|
+w: |||||
+w: |||||
+

@@ -1,0 +1,28 @@
+X:1
+T:I Remember You
+T:I Remember You
+C:Victor  Schertzinger
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Fmaj7" E F C D |"E7" E4 |"Fmaj7" E F C D |"Eb/G" _E F"F7sus4" B,"F7" C |"Bbmaj7" D3"Bb6" F | %5
+w: I re- mem- ber|you.|You're the one who|made my dreams come|true a|
+"Bbm7" _D2"C7b9" (3D _E D |"F" C4- |"C7sus4" C3"C7" z |"Fmaj7" E F C D |"E7" E4 |"F" E F C D | %11
+w: few kis- ses a-|go.||I re- mem- ber|you.|You're the one who|
+"Eb/G" _E F"F7sus4" B,"F7" C |"Bbmaj7" D3 F |"Bbm7" _D2"C7b9" (3D _E D |"F" C4- |"Cm7" C3"F+7" z | %16
+w: said: "I love you,|too." I|do. Did- n't you|know?||
+"Bbmaj7" A B F G |"E11" A3/2 A/"A7" A G |"D" ^F4 |"A7sus4" z A"A7" A G |"Dmaj7" ^F3"D6" D | %21
+w: I re- mem- ber|too a dis- tant|bell|and stars that|fell like|
+"Dm7" F2"G7" (3F G F |"Cmaj7""C" E4- |"C7" E3 z |"Fmaj7" E F C D |"E7" E4 |"Fmaj7" E F E F | %27
+w: rain, out of the|blue.||When my life is|through|and the an- gels|
+"Am7b5" c c"D7b9" c3/2 =B/ |"Gm" B4 |"Bbm" z B"Bbm6" (3B c B |"F" A4 |"G9" z A G F | %32
+w: ask me to re-|call|the thrill of them|all,|then I shall|
+"F" E F C"Abdim7" D |"Gm" F2"C7b9" G2 |1"F""G9" F4- ||"C7" F"C7b9" z"C9""C7b5" z2 :|2 %36
+w: tell them I re-|mem- ber|you.||
+"F""G7b9" F4- || F2"C9""F" z2 |] %38
+w: you.||
+

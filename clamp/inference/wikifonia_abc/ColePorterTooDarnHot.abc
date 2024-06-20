@@ -1,0 +1,64 @@
+X:1
+T:Too Darn Hot
+T:Too Darn Hot
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ z z z/ z/ G, |:"Cm" C2"Gm7" B,2 |"Cm" G, z z"G7" G, |"Cm" C2"Gm7" B,2 |"Cm" G, z z"G7" G, | %5
+w: it's|too darn|hot. It's|too darn|hot I'd|
+w: It's|too darn|hot It's|too darn|hot I'd|
+w: It's|too darn|hot It's|too darn|hot I'd|
+"Cm" C D/E/-"Eb" E2- |"Cm" E/ E C/ E/D/C/D/- |"Dm7" D2"Gm7" z2 |"G7" z z z G, |"Cm" C D/E/- E2- | %10
+w: like to sup *|* with my ba by to night||and|play the pup *|
+w: like to stop *|* for my ba by to night||and|blow my top *|
+w: like to fool *|* with my ba by to night||Break|ev ry rule *|
+ E/ E C/ E/D/C/D/- |"Dm7" D2"Gm7" z2 |"G7" z z z G, |"Cm" C D/=E/-"C7" E/ E C/ | %14
+w: * with my bab y to night||I'd|like to sup * with my|
+w: * with my ba by to night||I'd|like to stop * for my|
+w: * with my ba by to night||I'd|like to fool * with my|
+"G7" =E/D/C/D/- D/ z/ G, |"C" =E F/G/-"C7" G/ G E/ |"G7" G/F/=E/F/- F/ z/ D | %17
+w: ba by to night * and|play the pup * with my|ba by to night * but|
+w: ba by to night * and|blow my top * with my|ba by to night * I'd|
+w: ba by to night * break|ev' ry rule * with my|ba by to night * but,|
+"C" G =A/"C7"B/- B/ B G/ |"G7" B/=A/G/A/- A/ G F/ |"Cm" E2"Gm7" D2 |1"Cm" C z z"G7" G, :|2 %21
+w: I ain't up * to my|ba by to night * cause it's|too darn|hot It's|
+w: be a flop * with my|ba by to night * cause it's|too darn|hot It's|
+w: pil low you'll * be my|ba by to night * cause it's|too darn||
+"Cm" C z z G |:[K:C]"C" A G E A/G/- | G/E/"B+" A"C" G A/G/ | A/A/ G E D | E2- E/ A G/ | %26
+w: |||||
+w: hot ac-|cord- ding to the kin|* sey re- port ev'- ry|av- er- age man you|know _ much pre-|
+w: |||||
+ A G E A/G/- | G/E/"B+" A"C" G A/G/ | A/A/ G E C |"G7" D3 G, |"C" C C/D/ E/D/"C7" C | %31
+w: |||||
+w: fers to play his fav|* our- ite sport when the|tem- per- a- ture is|low but|when the ther- mom- e- ter|
+w: |||||
+"F" F"C" G"F" A"Cdim" A/B/ |"C" c/c/"F" A"C" G"Ab7" A |"Db7" D z"G7" z C/D/ |1"C" E E"F" z C/D/ || %35
+w: ||||
+w: goes 'way up and the|weath- er is siz- zlin'|hot Mis- ter|Ad- am for his|
+w: ||||
+"Ab7" _E E"G7" z D |"C" C z G3/2 _A/ | A2 B2 |"Cm" c2"Gm7" _B2 |"C" G z z G |"Cm" c2"Gm7" _B2 | %41
+w: ||||||
+w: mad- am is-|not 'Cause it's|too too|too darn|hot It's|too darn|
+w: ||||||
+"C" G z z C |"Ab" G4 |"F7" F"G7" _E3 |"C" C z z2 | z z z G :|2"C" E z"F" z C/D/ || %47
+w: ||||||
+w: Hot it's|too|darn _|hot|Ac-|gob for his|
+w: ||||||
+"Ab7" _E/ z/ z"G7" z C/D/ |"C" E z"F" z C/D/ |"Ab7" _E z"G7" z C/D/ |"C" E z"F" z C/D/ | %51
+w: ||||
+w: squab, a ma-|rine for his|queen a G|I for his|
+w: ||||
+"Ab7" _E/ E E/- E"G7" D |"C" C z G3/2 _A/ | A2 B2 |"Cm" c2"Gm7" _B2 |"C" G z z G | %56
+w: |||||
+w: cut- ie pie * is|not cause it's|too too|too darn|hot it's|
+w: |||||
+"Cm" c2"Gm7" _B2 |"C" G z z C |"Abmaj7" G4 |"F" F"G7" _E3 |"C" C2 z2 |"Cm" z2"C" z2 |] %62
+w: ||||||
+w: too darn|hot it's|too|darn *|hot||
+w: ||||||
+

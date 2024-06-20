@@ -1,0 +1,54 @@
+X:1
+T:A Man and a Woman
+T:A Man and a Woman
+T:from the 1966 film of the same name
+T:Francis Lai
+T:Jerry Keller
+C:Francis Lai
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 !fermata!A2 !fermata!B2 !fermata!=c2 |:"Dmaj7" cccc c2 cc |[M:2/4] cc c2- | %3
+w: When hearts are|pass- ing in the night, in the|lone- ly night,|
+w: |si- lence of the mist, of the|morn- ing mist,|
+[M:2/2] c2 B2 c2 d2 |"Db7" cccc c2 cc |[M:2/4] cc c2- |[M:2/2] c2 B2 c2 d2 |"Cmaj7" BBBB B2 BB | %8
+w: * then they must|hold each oth- er tight, Oh so|ve- ry tight.|* And take a|chance that in the light, in to-|
+w: * when lips are|wait- ing to be kissed, long- ing|to be kissed,|* where is the|rea- son to re- sist and de-|
+[M:2/4] BB B2- |[M:2/2] B2 A2 B2 =c2 |"F#m7" B4- B4 |"B7" B2 A2 A2 B2 |"Emaj7" ^G8 |1 %13
+w: mor- rows light|* they'll stay to|get- ther|* so much in|love.|
+w: ny a kiss|* that holds a|pro- mise|* of hap- pi-|ness.|
+ z2 !fermata!A2 !fermata!B2 !fermata!=c2 :|2 z2 A2 B2 =c2 ||"Dm7" e8- |"G7b9" e4 d3 =c | %17
+w: And in the|Tho' yes- ter-|day|* still sur-|
+w: ||||
+"Cmaj7" d4 d4- | d4 =c3 B |"Dm7" =c6 A2 |"G7" D2 E2 =F2 B2 |"C6" A8- | A8 |"F#m7" A4 A4- | %24
+w: rounds you|* with a|warm and|pre- cious mem- o-|ry.||May- be|
+w: |||||||
+"B7" A4 c3 B |"Emaj7" ^G4 ^G4- | G4 B_BA_A |"Em7" G4 G4- |"A7" G2 G2 B3 A |"Dmaj7" F8 | %30
+w: * for to-|mor- row|* we can build a|new dream|* for you and|me.|
+w: ||||||
+ z2 !fermata!A2 !fermata!B2 !fermata!=c2 |:"Dmaj7" cccc c2 cc |[M:2/4] cc c2- | %33
+w: This glow we|feel is some- thing rare, some- thing|real- ly rare.|
+w: |pass- ing in the night, in the|rush- ing night|
+[M:2/2] c2 B2 c2 d2 |"C#7" cccc c2 cc |[M:2/4] cc c2- |[M:2/2] c2 B2 c2 d2 |"Cmaj7" BBBB B2 BB | %38
+w: * So come and|say you want to share, want to|real- ly share.|* the beau- ty|wait- ing for us there, call- ling|
+w: * a man, a|wo- man in the night, in the|lone- ly night|* must take a|chance that in the light, in to-|
+[M:2/4] BB B2- |[M:2/2] B2 A2 B2 =c2 |"F#m7" B4 B4- |"B7" B2 A2 A2 B2 |"Emaj7" ^G8 | %43
+w: for us there,|* that on- ly|lov- ing|* can give the|heart.|
+w: mor- row's light|* they'll be to-|geth- er|* so much in||
+ z2 !fermata!A2 !fermata!B2 !fermata!=c2 :|2"Emaj7" ^G8- | G6 ^G2 ||"F#7" A4 A4- | %47
+w: When life is|love,|* to-|geth- er|
+w: ||||
+"B7" A2 A2 A2 B2 |"Emaj7" ^G8- | G6 ^G2 |"F#m7" A4 A4- | A2 A2 c2 e2 |:[M:3/4]"Emaj7" ^dd dd d2 | %53
+w: * so much in|love.|* So|tell me|* you're not a-|fraid to take the chance,|
+w: |||||mu- sic of a glance|
+ ^dd dd d2 |"Emaj7" ^d3"Ebmaj7" =d3 |"Dmaj7" cc cc c2 | cc cc c2 |1"Dmaj7" c3"Ebmaj7" d3 :|2 %58
+w: real- ly take a chance|Let your|heart be- gin to dance,|let it sing and dance|to the|
+w: of a fleet- ing glance|to the|mu- sic of ro- mance|of a new ro- mance||
+"Dmaj7" c3"Ebmaj7" d3 |"Emaj7" ^d2 z4 |] %60
+w: ||
+w: take a|chance.|
+

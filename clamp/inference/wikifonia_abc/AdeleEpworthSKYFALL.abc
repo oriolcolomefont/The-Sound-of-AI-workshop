@@ -1,0 +1,34 @@
+X:1
+T:SKYFALL
+C:Adele
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Dm/E" D2 D2 D2 D2 |"Asus4" E2 E2"A" E2 z F |"Dm" FD D2-"Bb" B,4 |"Gm7" z4 DEFE | %4
+w: |* * * This|is the end _|hold your breath and|
+"Dm9" EF-FD-"Bb" D4 |"Gm7" z2 ED EDzE- |"Dm9" ED"Bb" F6 |"Gm6" z2 E-D E2 z D | %8
+w: count to _ ten _|feel _ the earth move|_ and then|hear _ my heart|
+"Dm/E" E-D z2 z2 z D |"A" A6 DE |"Dm9" EDDB,-"Bb" B,4 |"G7" z DDE"Gm7" F2 E2 |"Dm9" E3 D-"Bb" D4 | %13
+w: burst _ a|gain for this|is the end _ _|I've drowned and dreamt this|mom ent, _|
+"G7" z DED"Gm6" EEzD |"Dm9" E2 z F-"Bbsus4" E- D3 |"G7" z2 ED"Gm6" E2 z D |"Dm/E" E4- E3"A" A- | %17
+w: so ov er due _ I|owe them _ _|swept aw ay I'm|stol _ en|
+ A4 z2 DD |:"Dm" D2 A4 DD |"Bb" DB- B2 z2 DD |"Gm7" Dd-dB- BGGF |"Dm/E" G2 z F"A7" FGFE | %22
+w: _ Let The|SKY FALL when it|crum bles, _ we will|stand tall _ _ _ _ face it|all to geth er, let the|
+"Dm" D2 A4 DD |"Bb" DB- B2 z2 DD |"G" Dd-dB- BGGF |"E7b9" GFFG"A7" F2 E2 |"Dm" D4"Bb" z4 | %27
+w: SKY FALL when it|crum bles, _ we will|stand tall _ _ _ _ face it|all to geth er at SKY|FALL|
+"G" z4"Gm7" F2 E2 |"D" D4"Bb" z4 |"G" z4"Gm7" z DDF |"Dm9" ED"Bb" D6 |"G" z2 z D"Gm6" EDED | %32
+w: at SKY|FALL|SKY FALL IS|WHERE WE START|A thou sand miles and|
+"Dm9" E2 DF-"Bb" F4 |"G" z DED"Gm6" E2 z D |"Dm9" ED D2"Bb" z2 D/D/E/F/ |"G" G A2 z"Gm7" DFGA | %36
+w: poles ap art _|where worlds col lide and|days are dark you may have my|num ber you can take my|
+"Dm/E" D2 DD AGDA |"A" A2- c-_A- A2 DD :|"G/D" z4 z EEE |"Gm9" E2 D2 z EEF |"Bb6" EF- F2 z AGG | %41
+w: name but you'll nev er have my|heart _ _ _ Let the|Where you go|I go, what you see|I see, _ I know I'd|
+"Dm/C" GF D2"Dm/C#" DDDF |"Dm9" ED F4 DA |"Bbmaj7" GA F2 z2 cG |"Gm9" GA F2 z AAA | %45
+w: nev er be me with out se|cur it y of your|lov ing arms keep ing|me from harm, put your hand|
+"A7/E" z AAA z A d2 |"A7" ^c4 z2 DD :| z8 |] %48
+w: in my hand and we'll|stand Let the||
+

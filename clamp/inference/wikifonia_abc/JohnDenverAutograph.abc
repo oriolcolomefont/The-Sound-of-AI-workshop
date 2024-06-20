@@ -1,0 +1,37 @@
+X:1
+T:Autograph
+T:Autograph
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"G" B,DDD"D" D^F A2 |"Em" GD B,2"G7" z4 |"C" E^F G2"G" DF G2 |"Am7" D^F G2"D" DF A2 | %4
+w: Here I am, and clos- ing my|eyes a- gain|try- ing so hard not to|see all the things that I|
+w: Then I go and o- pen my|eyes a- gain|love in your eyes is the|thing that I'd most like to|
+w: Say a pray'r and o- pen your|heart a- gain|you are the love and the|light that we all need to|
+"G" G2 B,D"D" DF A2 |"Em" GD B,2"G7" z2 G,2 |"C" E^F G2"G" DF G2 |"Am7" D3 D"D" D^F A2 | %8
+w: see al- most wil- ling to|lie a- gain I|swear that it just is- n't|so, it just is- n't|
+w: see I'd be wil- ling to|die a- gain to|know of a place and a|time where it always could|
+w: see al- ways wil- ling to|shine and then *|peace of this earth is the|way that it always can|
+"G" B2 BB"D" Bc d2 |"Em" G4"G7" z2 AB |"C" c2 B2"Am7" A2 GA |1"D7" A6 z2 :|23"D7" A6 z2 || %13
+w: me we are nev- er a-|lone e- ven|tho we'd like to *|be|me|
+w: be to be al- ways with|you * and|you al- ways with *||me|
+w: be to be al- ways with|you * and|you al- ways with *|||
+ AB c2 cA B2- |"G" B4 z4 |"Am" AB c2"D7" cd e2 |"G" d6 z2 |"D7" AB c2 cA c2 |"G" B6 z2 | %19
+w: this is my aut- o- graph||here in the songs that I|sing|here in my cry and my|laugh|
+w: ||||||
+w: ||||||
+"Am" AB c2"D7" cd e2 |"G" d2 BB"D" Bc d2 |"Em" G6"G7" B2!dacoda! |"C" c2 B2"Am7" A2 GA | %23
+w: here in the love that I|bring to be al- ways with|you and|you al- ways with *|
+w: ||||
+w: ||||
+"D" A6 z2!D.S.! ||O"C" c2 B2"Am7" A2 GA |"D" A8 |] %26
+w: me|you al- ways with *|me.|
+w: |||
+w: |||
+

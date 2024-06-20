@@ -1,0 +1,19 @@
+X:1
+T:Valse n°2
+T:Valse N°2
+T:D.Chostakovitch
+C:chostakovitch Dmitry
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:none
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+V:1
+[K:C] e3 | c2 B | A3- | A A B | c A c | e2 f | e3 | d3 | d3 | B2 A | ^G3- | G E ^G | B ^G B | %13
+ d e f | ^d3 | e3 | c'3 | b2 a | g2 f | d3 | b3 | a2 g | g2 e |: z c d | e e/d/ e/f/ | %25
+ d d/c/ d/e/ | c z e :| z c d | e e/d/ e/f/ | d d/c/ d/e/ | c z z | z z g | c'3 | c'3 | c' b a | %35
+ g e g | b3 | b3 | a g e | c d e | a3 | g3 | g f e | d c d | a2 g | d2 g | e2 g | c'2 d' | e'3 | %49
+ e'3 | e' d' c' | b g b | d'3 | d'3 | d' c' b | a e g | c'3 | c'3 | c'3 | d' c' d' | e'2 c' | %61
+ g a b | c' d' c' | ^a =a ^g | a2 c |] %65
+

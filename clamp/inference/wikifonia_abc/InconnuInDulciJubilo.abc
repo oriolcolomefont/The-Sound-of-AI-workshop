@@ -1,0 +1,20 @@
+X:1
+T:In Dulci Jubilo
+T:In dulci Jubilo 
+T:Arr. Mike Oldfield
+T:Traditionnel
+C:Inconnu
+Z:All Rights Reserved
+L:1/8
+M:9/8
+K:none
+V:1 treble transpose=-9 nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+V:1
+ F2 F | A2 _B c2 d c2 c | F2 F A2 _B c2 d | c2 c c2 d c2 _B | A2 G F2 G A2 _B | c2 d c2 _B A2 G | %6
+ F2 G AGF D3 | E3 F3 c2 _B | A2 A G2 G F3 | z z F2 F A2 _B c- | c d c2 c F2 F A- | %11
+ A _B c2 d c2 c c- | c d c2 _B A3 F- | F2 G2 G A2 G F- | F G A2 _B c3 c- | c d c2 _B A3 F- | %16
+ F2 G2 G A2 G F- | F G A G F D3 E- | E2 F3 c2 _B A- | A A G2 G F3 z | z F2 F A2 _B c2 | %21
+ d c2 c F2 F A2 | _B c2 d c2 c e2 | f e2 d c3 A2- | A _B2 B c2 _B A2 | _B c3 e2 f e2 | d c3 A3 G2 | %27
+ G A2 G F2 G A G | F D3 E3 F2- | F c2 _B A2 A G2 | G F8 | x2 z z2 z4 |] %32
+

@@ -1,0 +1,35 @@
+X:1
+T:Deixa
+T:Deixa
+T:Baden Powell
+T:Vinicius de Moraes
+T:1966
+C:Baden Powell
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:Bb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Gm7" B8 | B,8 |"Ebmaj7" z4 z2 GB |"F9" A2GF- FE2D- |"Bbmaj7" DE2F- F4- |"Fm7" F4"Bb9" z4 | %6
+w: Dei-|xa,|fa- le|quem qui- ser * fa- lar|* meu bem. *||
+w: Dei-|xa,|Nin- guém|vi- ve mais * do que͜~u|* ma vez. _|_|
+"Ebmaj7" G8 | G,8 |"Cm7" z4 E z G z |"D7#9" F2ED- DC2B,- |"Gm7" B,C2D- D4- |1 D6 FF | %12
+w: Dei-|xa,|dei- xa͜~o|co- ra- zão * fa- lar|* tam- bem. _|_ por- *|
+w: Dei-|xa,|diz que|sim pra não * di- zer|* tal- vez. _|_ _ _|
+"Ebmaj7" D2G,2 B,2-B,2- |"D7b9" B,2G,B,- B,D2B,- |"Gm7" B,G,2B,- B,D2B,- | B,2G,B,- B,D2F- | %16
+w: que el- e tem|_ ra zão * de- mais|* quan- do * se quei|* xa͜~en tão * a gen|
+w: ||||
+"Dm7" F4 D4 |"Asus4" G4"A7" =E4 |"Dm7" A4 D4 |"D7b13" B4 D4 :|2"Gm7" D6 z2 ||"A7b9" ^C8 | B,8 | %23
+w: * te;|dei- xa,|dei- xa,|dei- xa||Dei-|xa,|
+w: |||||||
+"D7b9" z4 C2D2 | E2DC- CD2C- |"Gm7" C8 | B,8 |"Edim" B8 | =E8 |"D7b9" z4 A2B2 | c2BA- Ad2A- | %31
+w: a pai-|xão tam- bém * ex- is||te,|Dei-|xa,|Não me||
+w: |||||||dei- xes fi * car tris|
+"Gm7" A8 | G8 |] %33
+w: ||
+w: |te.|
+

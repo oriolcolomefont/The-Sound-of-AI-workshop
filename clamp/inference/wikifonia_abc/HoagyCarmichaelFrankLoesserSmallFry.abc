@@ -1,0 +1,32 @@
+X:1
+T:Small Fry
+T:Small Fry
+C:Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c4"D7" A4 |"G7" ^GAF=G"C7" ^G A3 |"F" c4"D7" A4 |"G7" ^GAF=G"C7" ^G A3 |"F" F4 f3 f | %5
+w: Small fry,|strut- tin' by the pool room,|small fry|should be in the school- room.|My, my, put|
+"Bb7" edef"D7" c3 A |"G7" FFFF DFAd |"Gm7""C7" c8 |"F" c4"D7" A4 |"G7" ^GAF=G"C7" ^G A3 | %10
+w: down that cig- ar- ette, you|ain't a grown- up haigh and might- y|yet.|Small fry,|danc- in' for a pen- ny,|
+"F" c4"D7" A4 |"G7" ^GAF=G"C7" ^G A3 |"F" F4"F7" f3 f |"Bb7" edef"D7" c3 A | %14
+w: small fry,|count- in' up how man- y.|My, my, just|lis- ten here to me, you|
+"G7" FEFd"Bb" cA"Gm7"FD |"F" F4-"Cm7" Ff"F7"ff ||"Bb7" edef"F" cAAA |"A7" G^GA"Dm7"F- F2 ed- | %18
+w: ain't the big- gest cat- fish in the|sea, _ You prac- tice|peck- in' all day long to some old|ra- di- o song. _ Oh yes,|
+"Gm7" d2 BA-"C7" A2 =GF- |"F" F4-"Cm7" Ff"F7"ff |"Bb9" edef"F" cAAA |"A7" G^GA"Dm7"F- F=GAc | %22
+w: _ oh yes, _ oh yes.|_ _ You bet- ter|lis- ten to your Maw and some- day|prac- tice the law _ and then you'll|
+"G7" de g4 e2 |"Gm7" c4"C7" d4 |"F" c4"D7" A3 A |"G7" ^GAF=G"C7" ^G A3 |"F" c4"D7" A3 A | %27
+w: be a real suc-|cess. Yes,|small fry you|kissed the neigh- bor's daugh- ter,|small fry you|
+"G7" ^GAF=G"C7" ^G A3 |"F" F4"F7" f3 f |"Bb7" edef"D7" c3 A |"G7" FEFd"C7" cAFD | %31
+w: stay in shal- low wat- er.|Seems I should|take you 'cross my knee, you|ain't the big- gest cat- fish in the|
+"F" F4-"Cm7" Ff"F7"ff |"Bb7" edef"F" cAAA |"A7" G^GA"Dm7"F- F2 ed- |"Gm7" d2 BA-"C7" A2 =G2 | %35
+w: sea. _ You've got your|feet all soak- in' wet, you'll be the|death of me yet. _ Oh me,|_ oh my, _ small|
+"F" F6 z2 |] %36
+w: fry.|
+

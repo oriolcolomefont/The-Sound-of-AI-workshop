@@ -1,0 +1,21 @@
+X:1
+T:A Good Man Is Hard To Find
+C:Eddie Green
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ G^G |"A7" A4- A>E^D>E | A4- A>E^D>E |"D7" A4- A>D^C>D | A6"D+7" ^A2 |"G7" B2 A2 G B2 G | %6
+w: A Good|Man _ Is Hard To|Find; _ you al- ways|get _ the oth- er|kind. Just|when you think that he|
+ A G2 B- B2 G2 |"C" c"^N.C."^GA^F =G^DED |"C" EG"G7"ED"C" C2 G^G |"A7" ^A4- A>E^D>E | A4- A>E^D>E | %11
+w: is your pal, _ you|look for him and find him fool- ing|'round some oth- er gal. Then you|rave; _ you e- ven|crave _ to see him|
+"D7" A4- A>D^C>D | A4- A>^G"G7"A>B |"C" c2 c2"Ebdim7" B2 A2 |"Dm7" G2 ^GA-"G7" A2 =G2 | %15
+w: lay- * ing in his|grave. _ So if your|man is nice, take|my ad- vice _ and|
+"C" c>AG>E D C3 | c>AG>E (D C3) | c>CD>^D E c3 |"Am7" ^D E2 C- C2 G^G |"D7" A2 B2 A B2 A- | %20
+w: hug him in the morn- ing,|Kiss him ev- 'ry night.\- _|Give him plen- ty lov- in',|treat him right. _ For a|good man, now- a- days,|
+"Dm7" A2 B2"G7" A2 G2 |"C""Dm7""G7b9" c8- |"C" c6 z2 |] %23
+w: _ is hard to|find.|_|
+

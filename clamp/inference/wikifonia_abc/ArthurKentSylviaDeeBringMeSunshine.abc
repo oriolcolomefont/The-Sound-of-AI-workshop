@@ -1,0 +1,28 @@
+X:1
+T:Bring Me Sunshine
+T:Bring Me Sunshine
+T:Words by Sylvia Dee Music by Arthur Kent
+C:Arthur Kent
+Z:All Rights Reserved
+L:1/4
+Q:1/4=180
+M:2/2
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z2"Cm7" B"F7" A |:"Bb" G3/2 D/- D2 | z2 B A/"Cm7"G/- | G4 | z2 B A |"F7" G3/2 E/- E2 | %6
+w: Bring Me|Sun- shine _|in your smile,|_|bring me|laugh- ter _|
+ z2 B A/"Bb"G/- | G4 | z2 d ^c |"Bb7" c2 B A | _A2 F ^F |"Eb" G E G d/c/- | c z d _d |"C7" c2 B A | %14
+w: all the while.|_|In this|world where we|live, there should|be more hap- pi- ness.|_ So much|joy you can|
+ G2 A B |"F7" d c d c/d/- | d/ c z/"Cm7" B"F7" A |"Bb" G3/2 D/- D2 | z2 B A/"Cm7"G/- | G4 | %20
+w: give to each|brand new bright to- mor-|row! _ Make me|hap- py _|through the years,|_|
+ z2 B A |"F7" G3/2 E/- E2 | z2 B A/"Bb"G/- | G4 | z2 d ^c |"Bb7" c2 B A | _A2 F ^F | %27
+w: ne- ver|bring me _|an- y tears.|_|Let your|arms be as|warm as the|
+"Eb" G E G d/"C7"c/- | c z B A/"Cm7"G/- | G2 c B/"F7"A/- | A/ F3/2 d c |1"Bb" B4 | %32
+w: sun from up a- bove,|_ bring me fun,|_ Bring Me Sun-|* shine, bring me|love.|
+ z2"Cm7" B"F7" A :|2"Bb" B4- || B2 z2 |] %35
+w: Bring Me|love.|_|
+

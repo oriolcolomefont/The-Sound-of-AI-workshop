@@ -1,0 +1,36 @@
+X:1
+T:Una Furtiva Lagrima
+T:Una Furtiva Lagrima
+C:Gaetano Donizetti
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bbm" fBB B2 B |"F7/C" B/>=A/ c2- c z2 |"Adim7" gcc (3(c/4d/4)(e d)c |"Bbm" B2 z4 | %4
+w: U- na fur- ti- va|la- gri- ma _|ne- gl'oc chi _ _ suoi _ spun-|tò.|
+ f=ef"Ab7" a2 g |"Db" =e>ff z f2 |"Ebm6" (_ef)e"Edim7" (dc)B |"F" F2"Bbm/F" z4 | %8
+w: Quel- le fe- sto- se|gio- va- ni in-|vi- * di- ar _ sem-|brò.|
+"F" fcc"Bbm/F" (d (3e/4d/4c B) |"F" c2"Bbm/F" z4 |"F" fge"Bbm/F" dcB |"F" f6 |"Db" f3 B z f | %13
+w: Che più cer- can- * * * do~͜io|vo'?|Che più cer- can- do io|vo'?|M'a- ma. Sì,|
+"Ebm/G" (agf) efg |"Db/Ab" d2 A/>A/"Ab7" (f2 e) |"Db" d2"F7" z4 |"Bbm" z6 | fBB B2 B | %18
+w: m'a * * ma _ Lo|ve- do, lo ve- *|do.||Un so- lo~i- stan- te~i|
+"F7/C" B/>=A/ c2 z z2 |"Adim7" gcc (3(c/4d/4e d)c |"Bbm" B2 z4 | f=ef"Ab7" a2 g |"Db" =e->ef f2 f | %23
+w: pal- pi- ti|del suo bel * * cor _ sen-|tir!|I miei so- spir con-|fon- * de- re per|
+"Ebm6" f_e>e"Edim7" edd |"F" c2 z"Bbm/F" z2 z/ f/ |"F" f>cc/c/"Bbm/F" e>dc/B/ | %26
+w: po- co a' suoi _ so-|spir! I|pal- pi- ti, i pal- pi- ti sen-|
+"F" c2 z"Bbm/F" z2 f |"F" f>cc/c/"Bbm/F" e>dc/B/ |"F""F7" f6 |[K:Bb]"Bb" gfd"F7" (fe)c | %30
+w: tir, com-|fon- de- re i miei co' suoi so-|spir!|Cie- lo, si può _ mo-|
+"Gm" B3"Cm/Eb" (=B/c/)(d/e/)(f/g/) |"Bb/F" g_BB"F7" (cd>c) |"Bb" B z z"F7" f3 | %33
+w: rir; di _ più _ non _|chie- do, non chie- * *|do. Ah!|
+"Bb" gfd"F7" f/=e/g/f/_e/c/ |"Gm" B3"Eb6" cd/e/f/g/ |"Bb/F" gBB"F" (!fermata!A3 | %36
+w: Cie- lo, si può, si può _ mo- *|rir; di piú _ non _|chie- do, non chie-|
+ (8:8:9G/8F/8G/4A/4B/4c/4B/4A/4B/4 (8:8:8c/4d/4e/4d/4c/4d/4e/4f/4 a/g/e/c/) | !fermata!A3 Ace | %38
+w: |do. Si può mo-|
+ !fermata!g3 Ace | !fermata!g3 !fermata!f3 |"Bb" B z z4 |] %41
+w: rir, si può mo-|rir d'a-|mour.|
+

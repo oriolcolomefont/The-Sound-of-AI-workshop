@@ -1,0 +1,24 @@
+X:1
+T:Santa Claus Is Coming To Town
+T:Santa Claus Is Comin' to Town
+C:Haven Gillespie, J. Fred Coots
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" G/ | E/F/ G"C7" G3/2 G/ |"F" A/B/ c"Fm" c2 |"C" E/F/G/G/"C7" G G |"F" A/G/ F"Fm" F2 | %5
+w: You|bet- ter watch out, you|bet- ter not cry.|You bet- ter not pout, I'm|tell- in' you why.|
+"C" E G"Am" C E |"Dm" D F2"G7" B, |"C" C4- |"G7" C3- C/G/ |"C" E/F/ G"C7" G3/2 G/ | %10
+w: San- ta Claus is|com- in' to|town.|* * He's|mak- in' a list and|
+"F" A/B/ c"Fm" c2 |"C" E/F/ G"C7" G G |"F" A/G/ F"Fm" F2 |"C" E G"Am" C E |"Dm" D F2"G7" B, | %15
+w: check- in' it twice.|He's gon- na find out|who's naughty and nice.|San- ta Claus is|com- in' to|
+"C" C4- | C3 c |"C7" d c B c |"F" A A2 c |"C7" d c B c |"F" A3 d |"D7" e d ^c d |"G" B B B B/c/ | %23
+w: town.|* He|sees you when you're|sleep- in'; he|knows when you're a-|wake. He|knows if you've been|bad or good, so be|
+"Am" d c"D7" B A |"G7" G3- G/G/ |"C" E/F/ G"C7" G3/2 G/ |"F" A/B/ c"Fm" c2 |"C" E/F/G/G/"C7" G G | %28
+w: good for good- ness|sake. * You|bet- ter watch out, you|bet- ter not cry.|You bet- ter not pout, I'm|
+"F" A/G/ F"Fm" F2 |"C" E G"Am" C E |"Dm" D F2"G7" B, |"C" C4- | C4 |] %33
+w: tell- in' you why.|San- ta Claus is|com- in' to|town.||
+

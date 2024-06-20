@@ -1,0 +1,79 @@
+X:1
+T:Blanche en zijn peird
+C:Willem Vermandere
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:A
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"A" z4 | z4 |z2zC/C/ | (3CCC C/C/ z | (3CCC C z | z3/2 C2C/4C/4 |"D" C/C/z/C/ D3/2F/4E/4 | %7
+w: ||Tuss- en|Kort- rijk en Lau- we|Blanch' en zijn peird|Mensch'n gaat gaan|kij- ken Want 't~is 't~kij ken|
+"A" E2z>C |[M:3/4] CC/4C/4C/4C/4"D"z3/2C/4C/4 (3CCC |[M:2/8]"A" C>C | %10
+w: weird Een|peird en een kar- re Al wel hon- derd jaar|lang Doet|
+[M:3/4] (3EDC (3:2:2B,2B,"E" (3:2:2B,2A, |[M:2/4]"A" A,2 z2 |z2zE ||[M:3/4]"A" E>E E>A"D" AG/F/ | %14
+w: da- g'lijks die zelfs- ten eig'n- ste|gang|Oh|blan- che blan- che blan- ch'en zijn|
+[M:2/4]"A" E4 |[M:3/4] C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z |"A" z3"E" z |"A" z4 ||"A"z2z>C | %20
+w: peird|djuk djuk ju- djuk mijn|peird|||Je|
+[M:3/4] CC/C/"D" Cz/C/ (3CCC |[M:2/4]"A" C2z>C |[M:3/4]"D" D/D/D (3DDE FE/D/ |[M:2/4]"A" E2z>C | %24
+w: zegt, je zijt zot, wat is't er~aan te|zien Der|zijn nu toch veel be- ter ding'n om te|rien Een|
+ C/C/C"D" C/C/z/C/ | (3CCC"A" Cz/C/ |[M:3/4] (3CCD"E" (3EDC (3B,B,A, |[M:2/4]"A" A,zzE || %28
+w: kar- re och he- re, 't~is|'t~klap- pen niet weird En|wat voor spe- ciaals is~'t er nu aan een|peird Oh|
+[M:3/4]"A" E>E E>A"D" AG/F/ |[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z | %32
+w: blan- che blan- che blan- ch'en zijn|peird|djuk djuk ju- djuk mijn|peird|
+"A" z3"E" z |"A" z4 ||"A"z2zC |[M:3/4] (3EEE EF/G/"D" (3AGF |[M:2/4]"A" E2 z2 | %37
+w: ||Oh|'k~voe- le heel goed daj mi niet 'n ver-|staat|
+[M:3/4] (3:2:4CCC/C/"D" D/D/z/D/ (3DEE |[M:2/4]"A" E2zA |[M:5/8] (3AAA (3A2B/c/ B/A/ | %40
+w: 't~is niet de vi- tes- se waar dat't hem om|gaat Ook|niet het com- fort van een sjie- ke|
+[M:2/8]"D" A>F |[M:3/4]"E" (3EGF (3EDD (3D(CB,) |[M:2/4]"A" A,zzE ||[M:3/4]"A" E>E E>A"D" AG/F/ | %44
+w: slee *|Maar rijd eerst ne keer met die karre _|mee Oh|blan- che blan- che blan- ch'en zijn|
+[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z |"A" z3"E" z |"A" z4 || %49
+w: peird|djuk djuk ju- djuk mijn|peird|||
+z2zE/E/ |[M:3/4] (3:2:4EE/E/E- (3EEA"D" (3AGF |[M:2/4]"A" EzzA, |[M:3/4] (3EED"Bm" DD/E/ FE/E/ | %53
+w: En je|klapt dan met Blan- _ ch'en je kijkt op dat|peird En|al't geen daj ziet een groot gat en ne|
+[M:2/4]"A" E2 z2 |[M:3/4] (3AAA (3A2B/c/ (3BAA |[M:2/8]"D" A>F | %56
+w: steirt|En ie ver- telt van zijn gro- te vo-|ya- ge|
+[M:3/4]"E" (3EGF (3:2:4E/E/zD (3DCB, |[M:2/4]"A" A,zzE ||[M:3/4]"A" E>E E>A"D" AG/F/ | %59
+w: Met peird en kar- re en heel zijn me-|nage Oh|blan- che blan- che blan- ch'en zijn|
+[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z |"A" z3"E" z |"A" z4 ||z2zE | %65
+w: peird|djuk djuk ju- djuk mijn|peird|||En't|
+[M:3/4] EE (3EFG"D" AG/F/ |[M:2/4]"A" EEzE |[M:3/4] (3EEE"Bm" (3DDE FE/E/ |[M:2/4]"A" EEzE | %69
+w: peird stapt voort ook vol die- pe ge-|dach- ten Wat|daj van zo'n bees- te nog niet zoudt ver-|wach- ten Die|
+[M:3/4] (3A2A/A/ (3ABc (3BA3/2A/ |[M:2/8]"D" AE/E/ |[M:3/4]"E" (3EGF (3:2:4EEB,/C/ (3(DC)B, | %72
+w: sme- ri- ge au- to's da stinkt on- ge-|zond En je|krult jun- der neu- ze voor ne peir- _ de-|
+[M:2/4]"A" A,zzE ||[M:3/4]"A" E>E E>A"D" AG/F/ |[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ | %76
+w: stront Oh|blan- che blan- che blan- ch'en zijn|peird|djuk djuk ju- djuk mijn|
+[M:2/4]"A" A,3"E" z |"A" z3"E" z |"A"z2z>E ||[M:3/4]"A" EE/E/ (3:2:4EEE/E/"D" (3GFE- | %80
+w: peird||Daar-|bij, wie- der peir- den zijn a- zo ge- bo-|
+[M:2/4]"A" EEzE/E/ |[M:3/4] (3EED"Bm" (3DEF (3EDE- |[M:2/4]"A" EEzE |[M:3/4] AA A/>A/B/>c/ BA | %84
+w: _ ren En je|weet heel goed, der gaat niks van ver- lo-|* ren De|muss'n op stra- te gaan der ni van|
+[M:2/8]"D" Az/E/ |[M:3/4]"E" (3E2G/F/ (3EB,C (3DCB, |[M:2/4]"A" A,zzE || %87
+w: dood De|ene zin- ne stank is den an- der zijn|brood Oh|
+[M:3/4]"A" E>E E>A"D" AG/F/ |[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z | %91
+w: blan- che blan- che blan- ch'en zijn|peird|djuk djuk ju- djuk mijn|peird|
+"A" z3"E" z |"A" z2 z2 ||z2zE- |[M:3/4] EE/E/ EG/A/"D" AF |[M:2/4]"A" EzzE/E/ | %96
+w: ||Ja|_ zo is't lev'n en a- zo is't|goed En je|
+[M:3/4] (3EEE"Bm" (3:2:4DDz/E/ (3FEE |[M:2/4]"A" E z z2 |[M:3/4] (3A2A/A/ (3ABc (3B3/2A/A | %99
+w: gaat niet ver- bet'- ren, hoe hard daj ook|wroet|Vlieg naar de ma- ne en schiet't al ka-|
+[M:2/8]"D" A2 |[M:3/4]"E" (3EGF (3:2:4E/E/zB, (3DCB, |[M:2/4]"A" A, (3EE z E || %102
+w: pot|'k~zeg nik maar dad- de, wie is't er~hier de|zot Blan- che Oh|
+[M:3/4]"A" E>E E>A"D" AG/F/ |[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z | %106
+w: blan- che blan- che blan- ch'en zijn|peird|djuk djuk ju- djuk mijn|peird|
+"A" z3"E" z |"A" z2 z2 ||"A"z2zE |[M:3/4] (3:2:4E/E/-EE (3EFG"D" (3AGF |[M:2/4]"A" EE z2 | %111
+w: ||Daar|dok- kert _ die kar- re deur d'o- bb'li- ge|stra- te|
+[M:3/4] z2 (3EEE"Bm" (3:2:4DD/z/E |[M:2/4] (3FEE E2 |z2zE |[M:3/4] (3A2A/A/ (3ABc (3BA3/2A/ | %115
+w: Van 's~nuch- tens tie- lijk tot|'s~a- vonds la- te||is voor die twee toch zo sim- pel 't~ge-|
+[M:2/8]"D" A>E |[M:3/4]"E" (3EGF (3E2B,/C/ (3DCB, |[M:2/4]"A" A,2zE |[M:3/4]"A" E>E E>A"D" AG/F/ | %119
+w: luk ze|ver- staan me- kaar met nen sim- len ju-|djuk *|blan- che blan- che blan- ch'en zijn|
+[M:2/4]"A" E4 |[M:3/4]"A" C z C z"E" D/B,/z/B,/ |[M:2/4]"A" A,3"E" z |"A" z3"E" z |"A" z4 || %124
+w: peird|djuk djuk ju- djuk mijn|peird|||
+"A" z4 |z2zz/C/- |[M:3/4] CC/C/ CC/C/"D" CC/C/ |"A" C/C/zz2z/E/D/C/ |[M:2/4]"D" D>D DF/E/ | %129
+w: |mensch'n|_ aj pas- seert tus- sen Kort- rijk en|Lau- we 't~komt op geen|dag en't steekt nie zo|
+"A" E/E/ z z2 |[M:3/4] (3AAA (3:2:4A/B/-Bc (3B2A/A/ |[M:2/4]"D" A2z>F | %132
+w: nau- we|Maj moet gaan kij- ken, _ want 't~is 't~kij- ken|weird Van't|
+[M:3/4]"E" (3E2G/F/ (3EDC (3DEF |[M:2/4]"A" E2>E2 |[M:3/4]"E" (3E2G/F/ (3EDC (3DCB, | %135
+w: schoon- st'op de we- reld, 't~is Blanch' en zijn|peird van't|schoon- st'op de we- reld 't~is Blanch' en zijn|
+[M:2/4]"A" A,4 | z4 ||"A" E2>E2 | E F2G |"D" A2 GF |"A" E4 | z4 | C z C z |"E" ED B,2 |"A" z4 |] %145
+w: peird||Blan- che|Blan- _ che|Blanch' en zijn|peird||Djuk djuk|ju- djuk, oh||
+

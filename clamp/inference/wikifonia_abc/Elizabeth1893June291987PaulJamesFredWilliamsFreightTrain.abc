@@ -1,0 +1,25 @@
+X:1
+T:Freight Train
+T:Freight Train
+T:Paul James and Fred Williams
+C:Elizabeth Libba Cotten (January 5, 1893 – June 29, 1987)
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" B G/-G/ F E |"Bb7" D/-D/A/F/- F2 | B A G F |"Eb" E B/G/- G2 |"G7" G A G/ G F/ | %5
+w: Freight train * freight train,|run- * so fast. *|Freight Train, freight train,|run so fast. *|Please don't tell what train|
+w: When I am dead and|in * my grave- *|No more good times|here I crave *|Place the stones at my|
+w: When I * die, Lord,|bu- ry me deep, *|Way down on old|Chest- nut Street, *|Then I can hear old|
+w: Freight train, * freight train,|run * so fast, *|Freight Train, freight train,|run so fast. *|Please don't tell what train|
+"Ab" E F/E/- E F |"Eb" G/ E C/"Fm7" E"Bb7" F |"Eb" E2"Fm7" E"Bb7" F :| %8
+w: * I'm on, * They|won't know what route I've|gone.- * *|
+w: head and feet, * Tell|them all I've gone to|sleep.- * *|
+w: num- ber nine, * As|she comes roll- * ing|by.- * *|
+w: * I'm on, * They|won't know what route I've|gone. * *|
+

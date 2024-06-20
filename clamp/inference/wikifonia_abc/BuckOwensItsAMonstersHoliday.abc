@@ -1,0 +1,39 @@
+X:1
+T:(It's A) Monsters Holiday
+T:(It's A) Monster's Holiday
+T:Buck Owens
+C:Buck Owens
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:S"G" d2 dB d2 dB | d2 e2 BAGE |"C7" _B2 G2 G G2 =B- |"G" B2 D2 E2 F2 | d2 dB d2 dB | %5
+w: Frank- en- * stein was the|first in line * and the|wolf- man came up next||Dra- cu- * la was a-|
+w: |||||
+ dd e2 B2 z G |"A7" A A2 ^c- c2 A2 |"D7" d2 D2 E2 F2 |"G" d2 dB d2 d2 | e2 dd B2 G2 | %10
+w: do- in' his stuff a-|breath- in' down * my|neck! * * *|Jump back, * make tracks,|here comes the hunch- back,|
+w: |||||
+"C7" _BA B2 GE G2 |"G" B2 G,2 A,2 B,2 |"C" G2 G2 A2 G2 |"G" B2 d2"Em" eBBB | %14
+w: bet- ter get out of his|way, * * *|Fe- fe- fi- fi-|fo- fo- fum, it was a|
+w: ||||
+"A7" e2 e2"D7" d B2 G- |"G" G2 DD- D>E F2 | G>D"D7"F"G"G- G2 dB!fine! ||"G" d2 dB d2 dB | %18
+w: mon- ster's hol- i- day.||* * * * * Well, I|hopped in- to bed and I|
+w: |||Un- cle * Bill, well *|
+ dBde B2 GE |"C7" _BAGE G G2 =B- |"G" B2 F2 E2 DG | d d2 d- dBdB | d2 Bd- d2 BG | %23
+w: cov- ered up my head, said, "I'm|gon- na get a good night's sleep-|* * * * I|got woke up * a- bout *|twelve o'- clock * and I|
+w: he * took * ill. and they|sent * for * me to come-|* * * * Well|I had to pass * by the|old grave- yard * so *|
+"A7" A2 A2 A A2 d- |"D7" d2 D2 E2 dB |"G" d2 dB d2 dB | e2 dd B2 G2 |"C7" _BABA G G2 =B- | %28
+w: jumped right to my feet.|* * * There was|grem- lins and gob- lins, *|dra- gons and zom- bies,|Lord- y what an aw- ful sight|
+w: I went on the run.|* * * There was|scream- in and moan- in' *|wail- in' and groan- in',|scar- y as a mum- my's curse.|
+"G" B2 z2 z GGE |"C" GEGE"C7" _B G2 G |"G" BddB"Em" eBBB |"A7" e^cee"D7" dABG- |1 %32
+w: * I said, "Good|bud- dy you may get me, but|broth- er let me tell you that it's|gon- na be * af- ter the fight."-|
+w: * I said, "Good|Bud- dy you may get me, but|broth- er let me tell you that you're|gon- na have to catch * me first."-|
+"G" G2 D2 E2 F2 :|2"G" G2 D2 E2 F2!D.S.! |] %34
+w: ||
+w: ||
+

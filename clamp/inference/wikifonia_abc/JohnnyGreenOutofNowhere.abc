@@ -1,0 +1,17 @@
+X:1
+T:Out of Nowhere
+C:Johnny Green
+Z:All Rights Reserved
+L:1/8
+Q:1/4=130
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Gmaj7" (3D2 E2 F2 A4- | A G3 D2 E =F- |"Eb9" F3 =F- F4- | F6 _E2 |"Gmaj7" (3D2 E2 F2 A4- | %5
+ A G3 D2 E F- |"Bm7" F8 |"E7b9" =F8 |1"Am7" E =F E c z4 |"E7b9" E =F E B z2 B2 |"Am7" B7 A- | A8 | %12
+"Eb7" (3_B2 A2 G2 G4 | (3G2 A2 _B2 (3B2 G2 B2 |"D7sus4" d8- |"D7" d8 :|2"Am7" E =F E c z4 || %17
+"E7b9" E =F E B- (3B2 c2 d2 |"Am7" e4 c4 |"Cm6" B3 A- A4 |"Bm7" (3A2 F2 G2"Bbdim" E2 F D- | %21
+"Am7" D4"D7" B3 G- |"G" G8- | G8 |] %24
+

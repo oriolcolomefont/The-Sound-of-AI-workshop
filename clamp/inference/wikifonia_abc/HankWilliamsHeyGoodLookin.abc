@@ -1,0 +1,32 @@
+X:1
+T:Hey Good Lookin'
+T:Hey Good Lookin'
+T:Hank Williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"_Country Swing" z2 z"^N.C." c |:"C" c3 A | G/A/ z z c | c2 G A | G/A/ z z2 |"D7" A/^G/ A A A | %6
+w: Hey|hey good|look- in *|what cha got|cook- in|how's a- bout cook- in'|
+w: |free and|read- y so|we can go|stead- y|how's a- bout sav- in|
+"G7" B B A G |"C" c4- | c2 z2 | c3 A | G/A/ z z c | c2 G A | G/A/ z z2 |"D7" A/^G/ A A A | %14
+w: some- thin' up with|me||hey sweet|ba- by *|dont you think|may- be|we could find us a|
+w: all your time for|me||No more|look- in I|know I've been|took- en|how's a- bout keep- in|
+"G7" B B A G |"C" c4- | c2 c c/c/ |"F" A A c c/c/ |"C" A G/E/ G3/2 G/ |"F" A A/A/ c c | %20
+w: brand new rec- i-|pe|* I got a|hot rod Ford and a|two dol- lar bill and|I know a spot right|
+w: stead- y com- pan-|y|* I'm gon- na|throw my date book *|o- ver the fence and|find me * one for|
+"C" A/G/ E G2 |"F" A c/A/ c c/c/ |"C" A G G/G/B/c/ |"D7" d/d/ d d d/c/ |"G7" B G G2 |"C" c3 A | %26
+w: o- ver the hill|there's so- da pop and the|danc- in's free so if you|wan- na have fun come a-|long with me|hey, good|
+w: five or ten cents|I'll keep it till its *|cov- ered with age cause I'm|writ- in your name down on|ev- ry page|hey good|
+ G/A/ z z2 | c2 G A | G/A/ z z2 |"D7" A/^G/ A A A |"G7" B B A G |1"C" c4- | c3 c :|2"C" c4- | %34
+w: look- in|what cha got|cook- in|how's a- bout cook- in|some- thin up with|me|* I'm||
+w: look- in|what cha got|cook- in|how's a- bout cook- in|some- thin' up with|||me.|
+ c3 z |] %35
+w: |
+w: |
+

@@ -1,0 +1,38 @@
+X:1
+T:Lost in the Stars
+T:Lost In The Stars
+C:Kurt Weill
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z2 ^C2 |"Gmaj7" E2 D2"Bbdim7" G2 ^CC |"Am7" E2 DD"D7" A2 z ^C |"Gmaj7" E2 DD"E+7" c2 Bc | %4
+w: Be-|Fore Lord God made the|sea and the land, He|held all the stars in the|
+"Am7" B2 A^G"D7" A2 Bc |"Gmaj7" d2 BG"Cmaj7" E d2 c |"Gmaj7" c2 B2 B2 z D |"Em7" E2 EE"A7" E2 FG | %8
+w: palm of His Hand., and they|ran thru his fin- gers like|grains of sand. and|one lit- tle star fell a-|
+"Am7" A6"D7" ^CC ||"Gmaj7" E2 D2"Bbdim7" GG^CC |"Am7" E2 D2"D7" A2 z ^C/C/ | %11
+w: lone. Then the|Lord God hunt- ed thru the|wide night air for the|
+"Gmaj7" EE D2"E+7" c2 Bc |"Am7" B2 (A^G)"D7" A2 Bc |"Gmaj7" d2 BG"Cmaj7" E d2 c | %14
+w: lit- tle dark star on the|wind down _ there, and He|stat- ed and prom- ised He'd|
+"Gmaj7" c2 B^A"E7" B2 z D/D/ |"A7" EE E2"D7" A3 G |"G6" G6 GG ||"Cm7" _B2 B2"F7" B2 AG | %18
+w: take spec- ial care so it|would- n't get lost a-|gain. Now a|man don't mind if the|
+"Dm7" =F3 D"Gm7" _B,2 CD |"Cm7b5" _E2 E2"F7" E2 B,C |"Bbmaj7" D3 D"Gm7" D2 z G | %21
+w: stars grow dim and the|clouds blow ov- er and|dark- en him,. so|
+"Cm7" _B2 BB"F7" A2 G2 |"Bbmaj7" =FFFD"Gm7" _B,2 CD |"Cm7b5" _E2 EE"F7" D2 ^C2 | %24
+w: long as the Lord God's|watch- ing o- ver them, keep- ing|track how it all goes|
+"E7" D4"Eb7" z2"D7" z ^C |"Gmaj7" E2 D2"Bbdim7" GG^CC |"Am7" E2 D2"D7" A2 z ^C/C/ | %27
+w: on. But,|I've been walk- ing thru the|night and day till my|
+"Gmaj7" E2 D2"E+7" ccBc |"Am7" B2 (A^G)"D7" A2 z (B/c/) |"Gmaj7" d2 dd"G7sus4" d2 cB | %30
+w: eyes got wear- y and my|head turns _ gray, and _|some- times it seems may- be|
+"C6" A2 AA"F7" A3 A |"Gmaj7" d2 ^cd"G7sus4" ed=cB |"C6" A3 A"F7" A4 |"D7" z2 ^CD =c2 c2 | %34
+w: God's gone a- way, for-|get- ting the pro- mise that we|heard Him say.|And we're lost out|
+"Gmaj7" (3cB^A B6 |"Em7" B/=A/G- G2"Eb7" _B G3 |"Gmaj7" =BBAG"Bbdim7" E4 |"D7" z2 ^CD =c2 c2 | %38
+w: here in the stars,|lit- tle stars, _ big stars,|blow- ing thru the night.|And we're lost out|
+"Gmaj7" (3cB^A B6 |"Em7" B/=A/G- G2"Eb7" _B G3 |"Gmaj7" =BBcd"Bbdim7" e4 |"D7" z2 ^CD A2 A2 | %42
+w: here in the stars,|lit- tle stars, _ big stars,|blow- ing thru the night.|And we're lost out|
+"Gmaj7" (3AGF G6 |] %43
+w: here in the stars.|
+

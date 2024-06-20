@@ -1,0 +1,15 @@
+X:1
+T:Sonnymoon for two
+C:Sonny Rollins
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb7" z B3 _A2 F2 |"Eb7" E2 _D2 B, B,2 B, |"Bb7" z B, _DE- E2 DB,- | B,B,_DE- E2 DB, | %4
+"Eb7" z B3 _A2 F2 | E2 _D2 B, B,2 B, |"Bb7" z B, _DE- E2 DB,- | B,B,_DE- E2 DB, | %8
+"Cm7" z B3 _A2 F2 |"F7" E2 _D2 B, B,2 B, |"Bb7" z B, _DE- E2 DB,- | B,B,_DE- E2 DB, |] %12
+

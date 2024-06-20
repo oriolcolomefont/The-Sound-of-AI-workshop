@@ -1,0 +1,57 @@
+X:1
+T:Surf's Up
+C:Brian Wilson
+Z:Creative Commons BY
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"Gm7/D" z FFD DF/F/- F/G/G | z B/B/ BG GA/B/- B/c/d |"F/G" z d/d/ de f/e/d d2- | d4 G F2 E | %4
+w: A dia mond necl lace played _ the pawn|Hand in hand some drummed a long _ _ _|to a hand some man nered ba ton||
+w: Hung vel vet ov er tak _ ing me|Dim chan ad el iar aw ak _ ing me|to a song dis sol ved in the|dawn _ _ _|
+"Gm7/D" z FFD DF/F/- F/G/G | z BBG GA/B/- B/c/d- |"F/G" dd/d/ de/f/- f/e/d d2- | d2 z2 G F2 E | %8
+w: A blind class ar is toc _ ra cy|Back thru the op' ra glass _ you see|_ the pit and the pen _ dul am drawn|_|
+w: The mus ic hall a cost _ ly bow;|the mus ic all is lost _ for now|_ to a mut ed trump _ et ter swan|_|
+"Bbmaj7" z2 DE"Gm7" F/EF/- FB |"F/C" A2 f2"C7" e4 |"D/C" d8 |[K:G]"G/D" z2 dc/B/ AG FG/B/- | %12
+w: Co lum na ted ru _ ins|do _ mi|no.|Can vas the town and brush the back|
+w: ||||
+"A/G" BE- E4 de |"D/A" f4 d4- | d8 | z4 F2 G2 | A4-"Em7" G2-"Fdim" G2- |"D" F8 :| %18
+w: _ drop _ Are you|sleep ing|_|Broth er|John? _ _|_|
+w: ||||||
+[K:Eb]"Ab6" z4 (3A2 F2 E2 | F3 C E2 z F |"Eb/Bb" c3 G G2 z E | FB B6 |"Ab6" z4 (3A2 F2 E2 | %23
+w: Dove nest ed|towers, the hour was|struck the street, quick|sil ver moon.|Car riage a|
+w: |||||
+ F2 z C E2 z F |"Eb/Bb" c3 G G2 z E | FB B4 z G |[K:F]"Dm7" G2 F2 F3 E |"Csus4" D4"C7" E4 | %28
+w: cross the fog two|step to lamp light|cel lar tune The|laughs come hard in|Auld Lang|
+w: |||||
+"F" F8- | F2 z2 z2 z c |"Dm7" gffe fGAd |"C7sus4" AB=Bc"C7" _d=d_e=e |"Edim7" g2"F" f6 | %33
+w: Syne|_ The|glass was raised, the fired _ roast, the|full ness of the wine, the dim last|toast ing:|
+w: |||||
+"Dm" g3 f f2 z e |"C7sus4" d4"C7" e4 |"F" f8- | f2 z2 z2 z c |"Dm7" g2 z f f2 z e | f ^G2 A2 z d2 | %39
+w: While at port a|dieu or|die|_ A|choke of grief heart|hard ened eyes be|
+w: ||||||
+"C7sus4" A2 B2 =B2 z c |"C7" _d2 =d2 _e2 =e2 |"F9" g2 z"F" f f4- | f4 z4 | %43
+w: yond be lief a|brok en man too|tough to cry|_|
+w: ||||
+[K:Eb]"Ab6" z4 (3A2 F2 E2 | F2 z C E2 z F |"Eb/Bb" c3 G G3 E | FB B6 |"Ab6" z4 (3A2 F2 E2 | %48
+w: SURF'S UP mmm|mmm mmm mm mmm|mmm a board a|tid al wave|Come a bout|
+w: |||||
+ F3 C E2 z F |"Eb/Bb" c3 G G3 E | FB B4 z E |"Ab/Db" Fc c2- c3 A |"Cm7" Ge e4 z B, | %53
+w: hard and join the|young and of ten|spring you gave I|heard the word _ Won|der ful thing, a|
+w: |||||
+"Fm7" CA A2- A3- G/-A/- |"Eb/F" G6- G-F/G/- |"Ab/Bb" F4-"Bb" F4- |"Cm7" E6 z c |"Fm7" e6 c2 | %58
+w: child ren's song _ _ _|_ _ _ _||* A|child ren's|
+w: |||||
+"Cm7/F" B6 Bc |"Bb" d4- dBBc |"Cm" G6 c2 |"Fm7" e6 c2 |"Cm7/F" B6 Bc |"Bb" d4- dBBc |"Cm" G6 c2 | %65
+w: song Have you|list _ ened as they|play? Their|song is|love and the|child _ ren know the|way A|
+w: |||||||
+"Fm7" e6 c2 |"Cm7/F" B6 Bc |"Bb" d4- dBBc |"Cm" G6 c2 |"Fm7" e6 c2 |"Cm7/F" B6 Bc |"Bb" d4- dBBc | %72
+w: child ren's|song Have you|list _ ened as they|play? Their|song is|love and the|child _ ren know the|
+w: |||||||
+"Cm" G4 z2 c2 |"Fm11""_fermata" e8 |] %74
+w: way A|CHILD|
+w: ||
+

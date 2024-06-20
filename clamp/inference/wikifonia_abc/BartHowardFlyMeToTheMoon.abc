@@ -1,0 +1,36 @@
+X:1
+T:Fly Me To The Moon
+T:Fly Me To the Moon
+C:Bart Howard
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" e3 d ce |"A7" _B3 A GB |"Dm" A3 G FA |"G7" E2 ^C2 D2 ||"C" =C4 D2 |"G7" E2 E2 D2 |"C6" C4 D2 | %7
+w: ||||Po- ets|of- tem us|man- y|
+"^G9b9" E4 D2 |"C" C4 D2 |"Am7" E4 C2 |"Dm7" D6- |"G7" D4 z2 |"Dm" D4 E2 |"A7" F4 E2 |"Dm7" D4 E2 | %15
+w: words to|say a|sim- ple|thing.|_|It takes|thought and|time and|
+"Fm" F4 E2 |"Dm7" D4 E2 |"G7" F4 D2 |"C" E6- |"C7" E4 C2 |"F" A2 A2 A2 |"F#dim" A2 B2 A2 | %22
+w: rhyme to|make a|po- em|sing.|_ With|mu- sic and|words I've been|
+"C" A2 G4- | G4 G2 |"F" A2 A2 A2 |"F#dim" A2 c2 B2 |"C" G6- |"Am7" G4 DE |"Dm7" F2 F2 F2 | %29
+w: play- ing,|_ For|you I have|writ- ten a|song.|_ To be|sure that you'll|
+"G7" F2 A2 G2 |"C" F2 E4- | E4"C7" E2 |"F6" D2 D3 D | D2 C2 D2 |"E7" E6- | E6 |:"Am7" c3 B AG | %37
+w: know what I'm|say- ing|_ I'll|trans- late as|I go a-|long.|_|Fly me to the|
+"Dm7" F3 G Ac |"G7" B3 A GF |"Cmaj7""C7" E6 |"F" A3 G FE |"Bm7" D3 E FA |"E7" ^G3 =F ED | %43
+w: moon, and let me|play a- mong the|stars;|Let me see what|spring is like on|Ju- pi- ter and|
+"Am" C4"A7" ^C2 |"Dm7" DA A4- |"G7" A2 c2 B2 |"C" G6- | G4 B,2 |"Dm" CF- F4- |"G7" F2 A2 G2 | %50
+w: Mars. In|oth- er words|_ hold my|hand!|_ In|oth- er words,|_ dar- ling,|
+"C" F2 E4- |"E7" E4 z2 |"Am7" c3 B AG |"Dm7" F3 G Ac |"G7" B3 A GF |"Cmaj7""C7" E6 |"F" A3 G FE | %57
+w: kiss me!|_|Fill my heart with|song, and let me|sing for- ev- er-|more;|You are all I|
+"Bm7" D3 E FA |"E7" ^G3 =F ED |"Am" C4"A7" ^C2 |"Dm7" DA A4- |"G7" A2 c2 B2 |1"Em7" G6- | %63
+w: long for, all I|wor- ship and a-|dore. In|oth- er words|_ please be|true!|
+"A7" G4 ^G2 |"Dm7" AC C4- |"G7" C2 C2 D2 |"C" C2 E2 G2 |"E7" ^G2 =F2 E2 :|2"Cmaj7" e6- | %69
+w: _ In|oth- er words|_ I love|you!. * *||true!|
+"C7" e4 c2 |"F6" fA A4- ||"G7" A2 B2 d2 |"C" c6- |"Am" c6- |"Dm7" c6- |"C" c4 z2 |] %76
+w: _ In|oth- er words|_ I love|you!|_|||
+

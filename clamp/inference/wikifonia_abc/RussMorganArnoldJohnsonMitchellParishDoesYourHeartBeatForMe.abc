@@ -1,0 +1,22 @@
+X:1
+T:Does Your Heart Beat For Me
+T:Does Your Heart Beat For Me
+C:Russ Morgan, Arnold Johnson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 ^G A |"D7" d _d"C" c2- |"D7" c2 ^G A | d _d c2- |"D7" c2"Bm" B"Am" A |"G" G2 G2- | G2"C" c2 | %7
+w: Tho' we|said "good- bye,"|_ when the|moon is high,|_ Does your|heart beat|_ for|
+"G" B4- | B2 D2 |"Am" A2 A2- | A"Bm" B d B |"Am" A2 A2- |"D7" A2 D2 |"G" B2 B2- | B2"F#" ^A2 | %15
+w: me?|_ I|won- der|_ if I still|lin- ger|_ in|your mem-|* o-|
+"G" B4- | B2"C" c"C#" ^c |"D7" d _d c2- |"D7" c2 ^G A | d _d c2- | c2"Bm" B"Am" A |"G" G2 G2- | %22
+w: ry.|_ When you|hear my name|_ is the|thrill the same|_ as it|once used|
+ G2"Am" c2 |"B7" B4- | B2"Bb7" _B"B7" =B |"E" e2 c2- | c2 B2 |"A7" e2 B2- | B2 A B |"D7" d2 B2- | %30
+w: _ to|be?|_ When you're|lone- some|_ my|sweet- heart,|_ Soes your|hear beat|
+ B2 A2 |"G" G4- | G3/2 z/ z2 |] %33
+w: _ for|me.||
+

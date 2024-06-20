@@ -1,0 +1,25 @@
+X:1
+T:Cèst si bon
+T:Cèst Si Bon
+C:Henri Betti
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 24
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Gitarre" z"C#dim" B z B"Cm7" B2 B2 |"G/B" B2 B2"Bb13" BB z"Am7" B | %2
+ z B z B"Ab69" B2"Gb69" B(B |"G69" B2) z2"Bm7""^2.x only""^Henri Betti" D2"Bbdim7" _D(C :: %4
+"Am7" C2) z2 z4 |"D9" z DE(F F)ED(B, |"G" B,2) z2"C9" z4 |"Bm7" z DE(F"Bbdim7" F)EDC- | %8
+"Am7" C2 z2 z4 |1"D9" z DEF B2 F(E ||"G" E4)"C9" z4 |"Bm7" z4 D2"Bbdim7" _DC :|2 %12
+"D9" z DEF B2 D(G ||"G" G4)"C9" z4 |"Fm7" z4"Bb7" G2 _A2 ||"Ebmaj7" _B4 G2 F2 | %16
+"Fm7/Bb" _E4"Bb9" D2 C2 |"Eb6" C4 _B,4 | z4"Ebmaj7" _B2 _B2 |"Em11" A4"Em7" G2 ^F2 |"A7" E4 F2 G2 | %21
+"Am7" B4 A4 |"D9" z4"Bm7" D2"Bbdim7" _D(C ||"Am7" C2) z2 z4 |"D9" z DE(F F)ED(B, | %25
+"G" B,2) z2"C7" z4 |"Bm7" z D"Bbdim7"E(F F)EDC- |"Am7" C2 z2 z4 |"D9" z DEF FGA(d | %29
+"Bdim7" d2) z2 z4 |"E7" z4 d2 _d(c |"Am7" c4) z4 |"F9" z cBA AGF(B |"Gmaj7" B4) z4 | %34
+ z BA(G G)FE(_E |"Bbm7" _E4)"Eb9" z4 |"Am7" z DEF"D9" B2 D(G |"G" G4)"Am7""Bbdim7" z4 | %38
+"Bm7""_Form: AABC" z8 |] %39
+

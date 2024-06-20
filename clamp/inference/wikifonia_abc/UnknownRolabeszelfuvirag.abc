@@ -1,0 +1,24 @@
+X:1
+T:Róla beszél fű, virág
+T:Róla beszél fű, virág
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 52
+V:1
+"Am" z2 A,B, C E3 |"Dm" D3 F A,4 |"G" z2 B,C D2 B,2 |"C" C E3 G,4 |"Am" z2 A,B, C2 E2 | %5
+w: Ró- la be- szél|fű, vi- rág,|ve- re- bek és|pa- csir- ták,|Rü- gye- ző és|
+"Dm" D2 F2 A,4 |"G" z B,B,C D E3 |"C" C4 z4 |"Am" z2 A,B, C2 E2 |"Dm" D3 F A,4 |"G" z2 B,C D B,3 | %11
+w: lom- bos fák,|a si- mo- ga- tó|szél.|É- ne- kel a|tar- ka rét,|pa- tak, fo- lyó,|
+"C" C3 E G,4 |"Am" z2 A,B, C2 E2 |"Dm" D2 F2 A,4 |"G" z2 B,C D2 E2 |"C" C4 z4 |"F" z2 AA G2 F2 | %17
+w: víz- e- sés,|Nap- sü- tés- es|kék- lő ég,|Ő a bé- kes-|ség.|Ér- zem én is|
+"C" G2 G2 E4 |"F" z2 AA G F3 |"C" G3 G E4 |"Am" z2 A,B, C E3 |"Dm" E D2 F A,4 |"G" z2 B,C D E3 | %23
+w: jó- sá- gát,|sze- re- te- te|il- la- tát,|Bé- ke le- gyen|min- den- ki- vel,|ná- la ö- röm|
+"C" C4 z4 |"Am" z2 A,B, C2 E2 |"Dm" D3 F A,4 |"G" z2 B,C D2 B,2 |"C" C E3 G,4 |"Am" z2 A,B, C E3 | %29
+w: vár.|Hm * * *||||Bé- ke le- gyen|
+"Dm" E D2 F A,4 |"G" z2 B,C D3 E |"C" C4 z4 |] %32
+w: min- den- ki- vel,|Jé- zus Úr, Ki-|rály!-|
+

@@ -1,0 +1,39 @@
+X:1
+T:Along The Navajo Trail
+T:Along The Navajo Trail
+T:Larry Markes,Dick Charles,Eddie De Lange
+C:Larry  Markes, Dick Charles,Eddie De Lange
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 B>c |:"Eb" e4- e>B"Bb+7" (3_dcB |"Eb" G>B- B4"Bb+7" B>c |"Eb" e>e- e2- e>B"Bb+7" (3_dcB | %4
+w: Ev- 'ry|day * a- long a- bout|ev- 'ning; * When the|sun- light's * * be- gin- ning to|
+w: |night * and crick- ets are|call- in'; * And co-|yo- tes * * are mak- in' a|
+"Eb" G6 G2 |"Ab7" (_G4 (3G)EF (3=GFE | C>E- E4"Bb7" F2 |"Eb" G4- G>B"Ab" (3GEC |1 %8
+w: fail, I|ride * through the slim- ber- in'|shad- ows * A-|long * the Nav- a- jo|
+w: wail I|dream * by a smold- er in'|fi- re * A|long * the Nav- a jo|
+"Eb" E4 z2"Bb7" B>c :|2"Eb" E6 E2 ||"Ab" c>ce>e"Abm6" =B>Be>e |"Eb" B>B- B4"Eb7" E>E | %12
+w: trail. When it's|trail. I|love to lie and lis ten to the|mus ic * When the|
+w: ||||
+"Ab" c>c (3EAc"Abm" =B>B-B>E |"Eb" B6 z3/2 =A/ |"Gm" B>Bd>d"D7" =A>AB>c |"Gm" B>G G4"Cm7" z E | %16
+w: wind is strum- min' a sage- brush * gui-|tar, When|o- ver yon- der hill the moon is|climb- in' * It|
+w: ||||
+"Cdim" _G>GF>E"B7" G>GF>E |"Bb7" F4 z B (3BcB |"Eb" e4- e>B"Bb+7" (3_dcB |"Eb" G>B- B4"Bb+7" B>c | %20
+w: al- ways finds me wish- in' on a|star. Well what do you|know? * it's morn- ing al-|read- y, * There's the|
+w: ||||
+"Eb" e>e- e2- e>B"Bb+7" (3_dcB |"Eb" G6 E2 |"Ab7" (_G4 (3G)EF (3=GFE | C>E- E4"Bb7" F2 | %24
+w: dawn- in * * so sil- ver and|pale, It's|time * * to climb in my|sad- dle * And|
+w: ||||
+"Eb" G4- G>B"Ab" (3GEC |"Eb" E4 z2 E2 |"Ab7" _G6"Abm" E2 |"Eb" G6 E2 |"Ab7" _G4- G>E (3GFE | %29
+w: ride * the Nav- a- jo|trail. Mn|mn Mn|mn Mn|mn * the Nav- a- jo|
+w: |||||
+"Eb" G8- | G6 f2 | e4 z4 |] %32
+w: trail.-|||
+w: |||
+

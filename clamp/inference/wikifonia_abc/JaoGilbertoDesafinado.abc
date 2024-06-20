@@ -1,0 +1,39 @@
+X:1
+T:Desafinado
+T:I Got You (I Feel Good)
+T:Words And Music by James Brown
+T:kle
+C:Jao Gilberto
+Z:All Rights Reserved
+L:1/8
+Q:1/4=142
+M:4/4
+K:D
+V:1 treble nm="v"
+%%MIDI program 52
+V:1
+ G A2 (F- |:S"D7" FD)[da]c [da]c[da]c | [da]3 B, DB,DF- |"D7" FD[da]c [da]c[da]c | [da]3 z F A3 | %5
+w: I feel good-|* , * * * * * *|* I knew that I would|* now * * * * * *|* I feel|
+w: ||* like su- gar and spice||* I feel|
+"G7" G2 [GB]F [GB]F[GB]F | [GB]3 B, DB,DF- |"D7" FD[da]c [da]c[da]c | [da]3 z z2 [DFA][CGA]- | %9
+w: good. * * * * * *|* I knew that I would|* now; * * * * * *|* so good-|
+w: nice. * * * * * *|* like su- gar and spice||* so nice|
+"A7" [CGA]2 [Acg]2 [Acg]2 [A,CG][B,=FG-] |"G7" [B,FG]2 g2 =F G2 A- |"D7" A2 D2 F2 A2!dacoda! |1 %12
+w: , * * so good-|, * I got you|! * * *|
+w: * * * so nice|||
+ =c2 e2 G A2 F :|2 =c2 e2 z4 |:"^N.C." D2 z d- d =c2 A | =c A2 =F- F4 | D2 z d- d =c2 A | %17
+w: * * I feel nice,|||||
+w: |||||
+ =c A2 =F- F2 AA |"G" AA- A4 dd |"G7" g6 =cd- |"D" d2 d2 =fd=cd- | d4 z2 AA |"G""G" AA- A4 dd | %23
+w: * * * * When I|hold you * in my|arms I know|* that ican do no wrong|* andwhen I|hold you * in my|
+w: ||||||
+"G" g6 ga- |"A" a2 a2 =c'aga- | a2- a2 G A2 F!D.S.! |:O"D" =c2 e2 z2 [DFA][CGA]- | %27
+w: arms my love|* won't do you no harm|* * I feel good-|* * so good-|
+w: ||||
+"D7" [CGA]2 [Acg]2 [Acg]2 [A,CG][B,=FG-] |"G7" [B,FG]2 [GBf]2 =F G2 A- |"D" A2 d2 f2 a2 :| %30
+w: , * * so good-|, * I got you|! * * *|
+w: |||
+"D9" =c'2 e'2 d'2 c'2 | a2 !breath!g2 !breath!!fermata!f4 | !fermata![FAde]8 |] %33
+w: |||
+w: |||
+

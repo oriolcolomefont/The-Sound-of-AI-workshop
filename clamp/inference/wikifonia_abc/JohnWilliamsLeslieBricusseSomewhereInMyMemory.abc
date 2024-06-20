@@ -1,0 +1,24 @@
+X:1
+T:Somewhere In My Memory
+T:Somewhere In My Memory
+C:John Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"D" A F"F#m" A F |"G" d2"F#m" A2 |"Em7" E B"Dmaj7" A D/G/ |"Gmaj7" F2"A" E2 |"D" A F"Dmaj7" A F | %5
+w: Can- dles in the|win- dow,|sha- dows paint- ing the|ceil- ing,|gaz- ing at the|
+"G" d2"F#m" A2 |"G" B/d/"Em" G"Dmaj7" F/A/"Bm7" D |"Gmaj7" F2"A" E2 |]"D" z F/D/"Em/D" G E | %9
+w: fire glow,|feel- ing that "gin- ger- bread"|feel- ing.|Prec- ious mo- ments,|
+"E/D" z ^G/E/"C#7" d"A/C#" A |"F#7" z ^A/F/"Bm7" c B |"Em7" z d/B/"A7" c2 |]"D" A F"F#m" A F | %13
+w: spec- ial peo- ple,|hap- py fac- es|I can see.|Some- where in my|
+"G" d2"F#m" A2 |"Em7" E B"Dmaj7" A D/G/ |"Gmaj7" F2"A" E2 |"D" A F"Dmaj7" A F |"G" d2"F#m" A2 | %18
+w: mem- 'ry,|Christ- mas joys all a-|round me,|liv- ing in my|mem- 'ry,|
+"G" z B/4c/4d/"D/F#" A F |"G" z B/4c/4d/"F#m" A F |"G" z B/4c/4d/"D" A"Bm7" F |"G" D d2"A" c |1 %22
+w: all of the mus- ic,|all of the mag- ic,|all of the fam- 'ly|home here with|
+"D" d4- ||"Em7" d2"A7" z2 :|2"D" d4- || d2 z2 |] %26
+w: me.|_|me.|_|
+

@@ -1,0 +1,37 @@
+X:1
+T:I'm Gonna Be A Country Girl Again
+T:I"m gonna be a country girl again
+T:Buffy Sainte Marie
+C:Buffy Sainte Marie
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z B, |:"G" D D D D | E D D3/2 B,/ | D E D3/2 G,/ | D3 z/ B,/ | D D D3/2 D/ | E D D3/2 D/ | %7
+w: The|rain is fall- in|light- ly on the|build- ings and the|cars I've|said good- bye to|cit- y friends de-|
+w: (I've|spent some time in|stud- y oh I've|tak- en my de-|grees and|mem- o- rized my|for- mu- li my|
+w: (I've)|wan- dered in the|hearts of men *|look- ing for the|sign that|here I might learn|hap- pi- ness I|
+ D E D3/2 G,/ |"G7" D3 z/ D/ |"C" E E E E | =F F E C | E =F E C |"G" D3 B,/C/ |"D7" D D D z/ D/ | %14
+w: part- ment stores and|bars the|lights of town are|at my back my|heart is full of|stars and I'm|gon- na be a|
+w: A's 'n' B's 'n'|C's but|what I know came|long a- go and|not from such as|these * *||
+w: might learn peace of|mind the|one who taught my|les- son was the|south wind through the|pines * *||
+ D C A, F, |"G" G,4 |"^Chorus" z"D7" D E F |"G" G3/2 G/ G G |"C" F E D C |"G" D4- | D2 z B,/C/ | %21
+w: coun- try girl a-|gain.-|ooh yes, I'm|gon- na be a|coun- try girl a-|gain|* With an|
+w: |||||||
+w: |||||||
+ D D D D/D/ | E D D D | E D C B, |"D7" A, D _D C |"G" B,3/2 B,/ B, C |"G7" D E =F ^F | %27
+w: old brown dog and a|big front porch and|rab- bits in the|pen, I tell you|all the lights on|Broad- way dont a-|
+w: ||||||
+w: ||||||
+"C" G G/G/ G/F/ =F | E2 B, C |"G" D D D z/ E/ |"D7" D C A, F, |"G" G,4- |1 G,4- ||"^2" G,2 z2 | %34
+w: mount to an a- cre of|green and I'm|gon- na- be a|||||
+w: |||coun- try girl a-|gain.-|||
+w: |||||||
+ z2 z B, :|3"D7" G,"^D.S.alCoda" D E F ||"G" G,4- |"^Coda" G, z z2 |] %38
+w: 2.I've||||
+w: 3.I've|* Oh yes I'm|gain.||
+w: ||||
+

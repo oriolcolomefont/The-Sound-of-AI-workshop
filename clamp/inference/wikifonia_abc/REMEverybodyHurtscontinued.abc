@@ -1,0 +1,59 @@
+X:1
+T:Everybody Hurts
+C:REM
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+"D" FA,D FDA, F2 D- D2 A, |"G" B,3 D2 B,- B,3 G A2 |"D" F3 A3 F2 E- EDA, | %3
+w: |||
+w: |||
+w: |||
+S"G" B,3 D2 G- G2 D- D A2 |:"D" A3 z2 A/A/ gfd- d3 |"G" B3 z3 z3 z B/d/A- | %6
+w: |* When the day is long *|* and the night|
+w: |long. When your day is night a-|lone, * * *|
+w: |* If you're on your own *|* in this life,|
+"D" A3 z2 A/A/ gfe- edB- |"G" B3 z3 z6 |"D" z3 z2 A/A/ g f2- fed |"G" B3 z3 z3 z B/d/A- | %10
+w: * the * night is yours * a- lone,||when you're sure you've * had e-|nough of this life,|
+w: * if you feel like let- * ting go||when you think you've * had too|much of this life|
+w: * the * days and nights * are long||when you think you've * had too|much of this life|
+"D" A3 z3 z3 z D/F/D- |"G" D3 z3 z6 |"Em" z3 z2 B f2 e- e d2 |"A" e6 z3 z z f | %14
+w: * well hang on||Don't let your- * self|go *|
+w: * well, hang on||'cause eve- ry bod- y|hurts some|
+w: * to hang on||Well, eve- ty- bod- y|hurts some|
+"Em" e3 z z B f2 e- edB |"A" A3 z3 z6 |"Em" z3 z2 G f2 e- edB |1O"A" e6 z3 z d2-!dacoda! | %18
+w: * * eve- ry- * bod- y|cries|and eve- ry- * bod- y|hurts some-|
+w: times, Take com fort * in your|friends|* Eve- ry- * bod- y||
+w: times * eve- ry * bod- y|cries|and eve- ry- * bod- y||
+"D" d2 A- A6 z3 |"G" z6 z BB (4:6:4=c/B/A/G/ | A3 z3 z6 |"G" z6 z D/D/=c- (4:6:4c/B/A/G/ :|2 %22
+w: * times *|Some- times eve- ry- thing- is|wrong|Now it's time * to sing a-|
+w: ||||
+w: ||||
+"A" e6 z3 z3 |"F#7" z3 z f z f2 e- eef- ||"Bm" fed- d3 z3 z d2- |"F#7" d2 c- c6- c2 B- | %26
+w: hurts|Don't throw * * your hand|* * * * Oh|* * * * no|
+w: ||||
+w: ||||
+"Bm" B3 z3 z6 |"F#7" z3 z2 f a f2- fef- |"Bm" fed- d3 z3 z3 |"C" z3 z2 G/G/ e d2- dd/e/B- | %30
+w: |Don't throw * * your hand||If you feel like * you're a- lone|
+w: ||||
+w: ||||
+"G" B/A/G z z3 z3 z3 |"C" =c z z c z z c2 G/"G/B"G/ c/B/ A2- |"Am" A3 z3 z6 | e6"A" z3 z3!D.S.! | %34
+w: |No no no you are not a- lone||hurts|
+w: ||||
+w: ||||
+[M:6/8]O z3 d3- |[M:12/8]"D" d2 A- A3 z6 |"G" z3 z2 G g2 f- fed |"D" A6 z3 z d2- | %38
+w: some|* times *|and eve- ry- * bod- y|hurts some-|
+w: ||||
+w: ||||
+"G" d2 B- B3 z3 z Gd- |:"D7" d A2- A3 z3 z d2- |"G" d B2- B3 z3 z d2- |"D7" d A2- A3 z3 z d2- | %42
+w: * times * So hold|* on * hold|* on * hold|* on * hold|
+w: ||||
+w: ||||
+"G" dB/A/G- G3 z3 z d2- :| %43
+w: * on * * * hold|
+w: |
+w: |
+

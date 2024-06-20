@@ -1,0 +1,26 @@
+X:1
+T:All Of My Life
+T:All Of My Life
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cmaj7" G G G G |"Em7" G G"A7" G G |"Dm7" A2- (3A F D |"G7" B,4 |"Dm" A A A A |"Dm7" A A"G7" A A | %6
+w: I just want the|right to love you|all * of my|life;|just the right to|take care of you|
+"Cmaj7" B2- (3B G E |"Bdim7" C3"E7" z |"Am7" c c"Gm7" c"C7" c |"Fmaj7" d/c/A/E/-"Bb7" E D | %10
+w: all * of my|life.|I just want the|right to be near * you,|
+"Cmaj7" B, C E/ B A/- |"Em7""A7" A4 |"Dm7" ^C D F/ B A/- |"G+7" A2 _E2 |"Cmaj7" =E4- | %15
+w: al- ways to be there,||shar- ing ev- 'ry care|* and|strife.|
+"Dm7" E2"G7" z2 |"Cmaj7" G G G G |"Em7" G G"A7" G G |"Dm7" A2- (3A F D |"G7" B,4 |"Dm" A A A A | %21
+w: |Life can be as|simp- le as a|nurs- * er- y|rhyme,|Sun- day, Mon- day,|
+"Dm7" A A"G7" A A |"Bdim7" B2-"E7" (3B ^G E |"Am7""Gm7""C7" c4 |"Fmaj7" d c"F#dim7" B/ A G/- | %25
+w: Tues- day, Wednes- day,|all * of the|time.|Long as I may live|
+"Em7" G2"A7" ^F G |"Dm7" B A"G7" G/ =F E/- |"Em7""A7""Dm7""G7" E4 |"Cmaj7" G G"F7" G G | %29
+w: * I just|want the right to give||all my love with|
+"Edim7" G G"A7" G G |"Dm7" A2-"G7" (3A F B, |"Cmaj7" C4 |] %32
+w: all my heart for|all * of my|life.|
+

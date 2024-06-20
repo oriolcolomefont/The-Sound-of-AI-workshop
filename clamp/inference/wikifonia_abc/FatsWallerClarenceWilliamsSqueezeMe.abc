@@ -1,0 +1,34 @@
+X:1
+T:Squeeze Me
+T:Squeeze Me Blues
+C:Fats Waller
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 C>C |"G7" D>FG>F"C+7" ^G A2 D- |"F6" D4 z2 C>C |"G7" D>FG>F"C+7" ^G A2 F- | %4
+w: Ba- by|you've been dog- gone sweet to me,|_ Ba- by|you're the on- ly one I see.|
+"F6" F4"Fdim""F7" z3/2 F<"Bb"G^G/ |"A7" A A2"Bm7" A-"Cdim" A2"A7/C#" =G2 | %6
+w: _ You know I|need but you, _ cos'|
+"Dm" F F2 F-"Bdim" F2 F2 |"C" E G2 D-"G7" DE D2 |"Gm7" G4"C7" z2 DE |"Dm7" FF F2"G7" E D2 G- | %10
+w: you're my gal; _ You|love me like _ no one|can. Some- thing|'bout you I can't re- sist,|
+"C""Gm/Bb" G6"A7" AE |"Dm7" GFGF"G7" E D2 C- |"C""Cdim" C4"C7" z3/2"F" c<"Eb7"^c"D7"d/ |: %13
+w: _ when you|kiss me, mom- ma, I stay kissed.|_ Oh. ba- by,|
+"G7" A A2 d"C7" A A2 E |"F6" (F D3)"Ebmaj7""D7" z3/2 c<^cd/ |"G7" A A2 d"C7" A A2 E | %16
+w: squeeze me and squeeze me a-|gain; * Oh, hon- ey,|don't stop, till I tell you|
+"F6" (F"E7" D3)"F6" z3/2 c<"Eb7"^c"D7"d/ |"G9" A A2 d"C13" A A2 =c |"Fm" (c4"Dm7b5" _A4) | %19
+w: when. _ Now, ba- by,|squeeze me and kiss me some|more, _|
+"C/G" G G2 G"G7" G2 G2 |"Gm7/C" G4"C7" z3/2"F" c<"Eb7"^c"D7"d/ |"G7" A A2 d"C7" A A2 E | %22
+w: Just like you did be-|fore. Your ba- by|cu- pid is stand- ing close|
+"F6" (F D3)"Ebmaj7""D7" z3/2 c<^cd/ |"G7" A A2 d"C7" A A2 d |"F9" G6"F7" F2 | %25
+w: by, _ Oh, mom- ma|don't let your sweet ba- by|cry. Just|
+"Bdim" d"Bbdim" _d2"Adim" c- c"Abdim" z"Gdim" z2 |"F#dim" A"Fdim" _A2"Edim" G-"Ebdim" G4 | %27
+w: pick me up _|on your knee, _|
+"G7" A>G"Dm7"A>G"Gm7b5" A>G"G7"(A>G) |1"C7" c"Gb7#9" A2"F6" F- F z/ c<"Eb7"^c"D7"d/ :|2 %29
+w: I just get so, you know, when _|you squeeze me. _ Oh, mom- ma,|
+"C7" c"Gb7#9" A2"F6" F- F2 z2 |] %30
+w: you squeeze me. _|
+

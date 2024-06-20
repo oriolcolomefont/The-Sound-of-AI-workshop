@@ -1,0 +1,39 @@
+X:1
+T:Where Will the Dimple Be?
+T:Where will the Baby's Dimple Be
+C:Bob Merrill & Al Hoffman
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z3 G/G/S |]"C" E G G/G/G/G/ | E G G2 |"F" A A/ A/ c A | A"C" G G2 | c c c G |"F" A c"C" G2 | %7
+w: 1.2.3.On the|ba- by's knuc- kle or the|ba- by's knee,|Where will the ba- by's|dim- ple be.|Ba- by's cheek or|ba- by's chin|
+w: (after3rdverse) _|ba- bies' knuck- les or the|ba- bies' knees,|Where will the ba- bies'|dim- ples be.|Ba- bies cheek or|ba- bies' chins|
+w: |||||||
+ c c c G/ G/ |"F" A c"C" G"E7" E/ D/ |"Am" C C"Fm6" D/ D/ D/ D/ |"C" E"Em7" G"Am" c2 | %11
+w: seems to me it- 'll|be a sin if it's|al- ways cov- ered by the|saf- ty pin.|
+w: seems to me it- 'll|be a sin if there|al- ways cov- ered by the|safe- ty pin.|
+w: ||||
+"Dm7" G F/ E/"G7" D G |1,2,3"C" C z G,2 ||4"C""^Fine" c3 z |]"C" C4- | C2 E2 |"G7" G,4- | G,2 G F | %18
+w: Where will the dim- ple|be Where||will|_ it|be.|_ 1.Ev- ry|
+w: Where will the dim- ples|_|be.||||* 2.Now I|
+w: ||||||* 3.While I|
+"C" E ^D E G |"C6" C3 E |"F" D3/2 C/ D C |"C" E2"G7" G F |"C" E ^D E D | E C E G |"G7" D4- | %25
+w: night we stay at|home, my|love and me a-|lone Mak- ing|wish- es ov- er|dosh- es in the|sink.|
+w: wake up ev- 'ry|night with|such an ap- pe-|tite Eat a|choc- 'late pie topped|off with saur- *|kraut.|
+w: play the cling- in'|vine I|watch that love of|mine Buil- in'|cra- dles while I'm|peck- in' at his|cheek.|
+ D2 G F |"C" E ^D E G | C2"G7" D"C7" E |"F" D C D C |"C" E2"G7" G F |"C" E E G E |"F" D F"G7" E D | %32
+w: _ Will our|bun- dle full of|joy Be a|dar- ling girl or|boy, Will the|boot- ies be a|ba- by ble or|
+w: _ Then I|put some re- cords|on, munch on|crack- ers un- til|dawn And just|sit a- round all|night and try to|
+w: _ Not just|one but two or|three Twins run|in my fa- mi-|ly And my|cou- sin Jane had|trip- lets just last|
+"C" C4 |"G+7" G3 G/G/S"^D.S. al Fine" |] %34
+w: pink|Oh! On the|
+w: guess.|_ _ _|
+w: week.|_ _ _|
+

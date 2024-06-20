@@ -1,0 +1,34 @@
+X:1
+T:Since I Met You Baby
+T:Since I Met You Baby
+C:Ivory Joe Hunter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"D " z d Ae df d z |"G " z d Bf da g z |"D " z d Ae df d z |"A " AA GG"A7" FF EE | %4
+w: ||||
+"D " FG AB A F3- |"G " F B2 B AA, GF- |"D " F z/ A/ db af d z | z3/2 A/ db af d z | %8
+w: Since I met you ba- by|* my whole li- fe has changed.|||
+"G " B=c de d B3- | B d2 d cD BA- |"D " A z/ A/ db af d z | z3/2 A/ db af dA, |"A " FE FG F E3- | %13
+w: Since I met you ba- by|* my whole li- fe has changed.||* * * * * * And|e\- v'ry- bo- dy tells me|
+"A7" E F2 G FA, EE |"D " D z/ A/ db af d z |"A " AA GG"A7" FF EE |"D " FG AB A F3- | %17
+w: * that I'm n\- ot the sa-|me. * * * * * *||I don't need no- bo- dy|
+"G " FB BB AA, GF- |"D " F z/ A/ db af d z | z3/2 A/ db af d z |"G " B=c de d B3- | Bd dd cD BB | %22
+w: * to tell my tro- u\- bles to.|||I don't need no- bo- dy|* to tell my tro- u\- bles t\-|
+"D " A z/ A/ db af d z | z3/2 A/ db af dA, |"A " FE FG F E3- |"A7" E F2 G FA, EE | %26
+w: o. * * * * * *|* * * * * * Cause|since I met you ba- by|* all I ne- ed is yo-|
+"D " D z/ A/ db af d z |"A " AA GG"A7" FF EE |"D " FG AB A F3 |"G " z2 BB A2 G2 |"D " F8 | z8 | %32
+w: u. * * * * * *||||||
+"G " Bc de d B3 | z2 dd c2 B2 |"D " A8 | z8 |"A " FF FG F E3 |"A7" z F FG F2 E2 |"D " D8 | %39
+w: |||||||
+"A " AA GG"A7" FF EE |"D " FG AB A F3- |"G " F B2 B AA, GF- |"D " F z/ A/ db af d z | %43
+w: |Since I met you ba- by|* I'm a ha- p\- py man.||
+ z3/2 A/ db af d z |"G " B=c de d B3- | B d2 d cD BA- |"D " A z/ A/ db af d z | z3/2 A/ db af dA, | %48
+w: |Since I met you ba- by|* I'm a ha- p\- py man.||* * * * * * I'm|
+"A " FE FG F E3- |"A7" EF FG FA, EE |"D " D z/ A/ db"Gmaj7" af dB |"D " d8 |] %52
+w: gon- na try to please you|* in e\- v'ry wa- y I ca-|n. * * * * * * *||
+

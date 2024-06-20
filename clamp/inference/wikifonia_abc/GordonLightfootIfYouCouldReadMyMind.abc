@@ -1,0 +1,31 @@
+X:1
+T:If You Could Read My Mind
+T:If you could read my mind love
+T:Gordon Lightfoot
+C:Gordon Lightfoot
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"C" c B c | d c G c |"Gm7" z _B/B/ B A | A G G2 |"C" z c B c | d c G c |"Gm7" z _B/B/ B A/A/ | %7
+w: If you could|read my mind love|what a take my|thoughts could tell|Just like an|old time mov- ie|bought a ghost from a|
+w: If I could|read your mind love|what a tale you|thoughts could tell|just like a|paper- back nov- el|the * kind the *|
+ B G G2 |"C" z G/G/ G A |"C7" _B3 A/B/ |"F" d c c3/2 d/ |"G" e d c d |"Am" c3 c |"F" B A A G | %14
+w: wish- ing well|In a cas- tle|dark or a|for- tress strong with|chains up- on my|feet you|know that ghost is|
+w: drug stores sell|then you reached to|part where the|heart- aches come the|he- ro would be|me But|he- roes of- ten|
+"C" G3 G |"F" B c c c |"C" B c c3/2 c/ |"Dm7" B c c d |"G7" e3/2 d/ c d |"C" c4- | c3 z :| %21
+w: me and|I will nev- er|be set free as|long as I'm a|ghost that you cant|see||
+w: fail and|you wont read that|book a- gain be-|cause the end- ings|just too hard to|take.||
+"Gm" z g/g/ g/f/f/f/ | f/e/e/e/ e/d/ e |"C" c G G A |"C7" _B3 A/B/ |"F" d c c c/d/ | %26
+w: ||* I'd walk a-|way like a|mov- ie star who gets|
+w: |||||
+"G" e d/d/ c d |"Am" c3 z |"F" B A A G |"C" G3 G |"F" B c c c |"C" B c c c |"Dm" B c c d | %33
+w: burned in a three way|script|en- ter num- ber|two A|mov- ie queen to|play the scene of|bring- ing all the|
+w: |||||||
+"G7" e d c d |"C" c4- | c3 z |] %36
+w: good things out of|me||
+w: |||
+

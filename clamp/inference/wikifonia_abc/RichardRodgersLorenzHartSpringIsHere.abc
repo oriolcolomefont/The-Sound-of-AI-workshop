@@ -1,0 +1,24 @@
+X:1
+T:Spring Is Here
+T:Spring Is Here
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Abdim" G3"Ab" A | F4 |"Abdim" G (3G/G/G/ G A |"Ab6" F F3 |"Ab7b9" E3 F |"Eb9" D4 | %6
+w: Spring is|here!|Why does- n't my heart go|dan- cing?|Spring is|here!|
+"^Ab79" E (3E/E/E/ E F |"Eb9" D D3 |"Ab" C D E F | G A B c |"Db" F4 |"Ab" A4 |"Fm" C =D =E F | %13
+w: Why is- n't the waltz en-|tranc- ing?|No de- sire, _|no am- bi- tion|leads|me,|May- be it's be-|
+ G A B c |"Bb7" =d4 |"Eb7" e4 |"Abdim" G3"Ab" A | F4 |"Abdim" G (3G/G/G/ G A |"Ab6" F F3 | %20
+w: cause no- body- y|needs|me.|Spring is|here!|Why does- n't the breeze de-|light me?|
+"Ab7b9" E3 F |"Eb9" D4 |"Ab7b9" E (3E/E/E/ E F |"Eb9" D D3 |"Ab" C D E F | G A B c |"Bb7" =d4 | %27
+w: Stars ap-|pear|Why does- n't the night in-|vite me?|May- be it's be-|cause no- bod- y|loves|
+"Eb7" e4 |"Cm" e3"Fm" A |"Bbm7" c3"Eb7" B |1"Ab" A4 ||"Eb7" z4 :|2"Ab""Ab7""Db" A4- || %33
+w: me,|Spring is|here I|hear!||hear.|
+"Ab" A2- A z |] %34
+w: |
+

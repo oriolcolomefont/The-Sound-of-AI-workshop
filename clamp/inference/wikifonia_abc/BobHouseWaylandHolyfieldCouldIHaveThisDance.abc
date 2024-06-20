@@ -1,0 +1,31 @@
+X:1
+T:Could I Have This Dance?
+T:Could I have this dance
+T:Wayland Holyfield and Bob House
+C:Bob House, Wayland Holyfield
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z D |:"G" d2 d3 e |"G7" d B3 z B |"C" E2 G2 c2 |"D7" B A3 z D |"C" E G3- GE |"D7" F3 c e2 | %7
+w: I'll|al- ways re-|mem- ber the|song they were|play- ing the|first time * we|danced and I|
+w: |al- ways re-|mem- ber *|that mag- ic|mo- ment when|I held * you|close * to|
+"G" d6 |"Am7" z2 z2 Bc |"G" d2 d3 e |"G7" dc B3 B |"C" E2 G3 c |"D7" B A3- A2 |"C" E2 F2 G2 | %14
+w: knew|as we|swayed to the|mu- sic * and|held to each|oth- er *|I fell in|
+w: me|* as|we moved to-|geth- er * *|I knew for|ev- er *|you're all I'll|
+"D7" B4 AG |"G" G6 |"D" F2"Am7" G2 A"D7"G ||"G" G2 F2 A2 |"G7" G4 EF |"C" G2 E2 E2 | E4 z D | %21
+w: love with *|you|* * * Could|I have this|dance for the|rest of my|life? would|
+w: ev- er *|need||||||
+"D7" F2 F3 F | G F3- F2 |"C" E2 F2 G2 |"D7" A6 |"G" B2 B3 B |"G7" c2 B2 B2 |"C" A G3 B2 | %28
+w: you be my|part- ner *|ev- * ry|night?|When were to-|geth- er it|feels * so|
+w: |||||||
+"Cm" A G3 z A |"G" B2 AG G2 | D4 AB!dacoda! |"D7" c2 B2 AG |1"G" G6 |"Am7" z4 z D :|2"G" G6 | %35
+w: right * could|I have * this|dance for the|rest of my *|life?|I'll|life?|
+w: |||||||
+"D" F2"Am7" G2"D7" AG ||O"D7" c6 | B4 BA |"G" A G3- G2- | G6 |] %40
+w: * * * could|rest|of my *|life * *||
+w: |||||
+

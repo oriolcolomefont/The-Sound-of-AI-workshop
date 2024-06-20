@@ -1,0 +1,25 @@
+X:1
+T:Alexanders Ragtime Band
+T:Alexanders Ragtime Band
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z"^N.C." ^GA^G |:"F" A4 ^G2 A^G | A6 A^G |"C7" A2 G2 E2 C2 |"F" F4 ^c2 d^c |"Bb" d4 ^c2 d^c | %6
+w: Come on and|hear come on and|hear Al- ex-|an- ders Rag- time|band come on and|hear come on and|
+ d6 d^c | d2 _B2 F2 _B2 | d6 A_B |"F" ccdA c2 dA | ccdA c2 z2 | F2 AC F2 AC | FFAC F2 z2 | %13
+w: hear its the|best band in the|land they can|play a bu- gle call like you|nev- er heard be- fore|so nat- ur- al that you|want to go to war|
+"C" G2 G4 A2 |"G7" B2 G2 A2 B2 |"C" c8 |"C7" _BA G2 z ^GA^G |"F" A4 ^G2 A^G | A6 A^G | %19
+w: thats just the|best- est band what|am|hon- ey lamb come on a|long, come on a|long let me|
+"C7" A2 G2 E2 C2 | F4 ^c2 d^c | d4 ^c2 d^c | d6 d^c | d2 _B2 F2 _B2 | d4 A2 _BB |"F" c2 c2 c2 A2 | %26
+w: take you by the|hand, up to the|man, up to the|man whos the|lead- er of the|band and if you|care to hear the|
+"F7" G2 F2 A2 G2 |"Bb" F4 f4 |"F7" d2 f2 B2 cB |"F" c4 B2 cB | c4 d2 ^c2 |"C7" d2 c2 A2 G2 |1 %32
+w: Swa- nee Riv- er|played in|rag- time come on and|hear, come on and|hear, Al- ex-|an- ders Rag- time|
+"F" F4 ^G2 A^G :|2"C" F4 f z z2 |] %34
+w: Band, come on and|band. *|
+

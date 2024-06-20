@@ -1,0 +1,16 @@
+X:1
+T:When lights are low
+C:Benny Carter
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+V:1
+ z4 _B_AGF |:"Cmaj7" EG z2"Dm7" EEzE- |"Em7" E2 .E2"Dm7" .E2 .E2 |"Cmaj7" G4"Dm7" EEzE | %4
+"Em7"z2zE"^A7(b9)" G,CEA |"Dm7" G4 EEzE |"G7"z2zEzFzE |"Dm7" E3C/A,/"G9sus4" CEDC |1 %8
+"C6"z4z"^G7alt"_B/_A/ GF :|2"C6" z4"C7" z2 G2 ||"F6" c4"Gm7" AAzA |"Am7" z A3"Gm7" .A2 .A2 | %12
+"F6" c4"Gm7" AAzA |"Am7" z4"D7" CFAd |"Gm7" c4 AAzA- |"C7" A2>A2 _B A3 |"Gm7" A3F/D/"C9sus4" FAGF | %17
+"F6" z4"^G7alt" _B_AGF ||"Cmaj7" EG z2"Dm7" EEzE- |"Em7" E2 .E2"Dm7" .E2 .E2 | %20
+"Cmaj7" G4"Dm7" EEzE |"Em7"z2zE"Dm7" G,CEA |"Dm7" G4 EEzE |"G7"z2zEzFzE | %24
+"Dm7" E3C/A,/"G9sus4" CEDC |"C6" z2 x2"^G7alt" x4 |] %26
+

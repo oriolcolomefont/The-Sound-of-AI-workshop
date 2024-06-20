@@ -1,0 +1,22 @@
+X:1
+T:Lazy River
+T:Lazy River
+C:Hoagy Carmichael, Sidney Arodin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"D7" D>^FA>_e d>c^C>D |"Am7b5" c2 _c2"D+7" B3 A |"G7" =B,>DF>A G>F_B,>=B, |"Dm7" E2 _E2"G7" D4 | %4
+w: Up a laz- y ri- er by the|old mill- run that|laz- y laz- y riv- er in the|noon day sun.|
+"C7" E>dc>=B _B2 ^C>D |"Gm7" A2 _A2"C7" G4 |"Fmaj7" ^G>AC>=B,"Gm7" _B,>=G"C7"D>E | %7
+w: Lin- ger in the shade of a|kind old tree;|throw a- way your trou- bles dream a|
+"Fmaj7" F2 A,C- C4 |"D7" D>^FA>_e d>c^C>D |"Am7b5" c2 _c2"D+7" B3 A |"G7" =B,>DF>A G>F_B,>=B, | %11
+w: dream of me. *|Up a laz- y riv- er where the|rob- in's song a-|wakes a bright new morn- in we can|
+"Dm7" E2 _E2"G7" D4 |"Bbmaj7" d>cB>A"Bdim7" _A4 |"Fmaj7" f>ed>_d"D7" c4 |"G9" d>fd>A"C7" c A2 C | %15
+w: loaf a- long.|Blue skies up a- bove,-|ev- 'ry- ones in love;|up a laz- y riv- er how|
+"Fmaj7" F>FE>F"D7" ^F4 |"G9" d>fd>A"C7" c A2 C |"Fmaj7" F6 z2 |] %18
+w: hap- py you can be,|up a laz- y riv- er with|me.|
+

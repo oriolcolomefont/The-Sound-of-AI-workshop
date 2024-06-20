@@ -1,0 +1,30 @@
+X:1
+T:Do You Know What It Means To Miss New Orleans
+T:Do You Know What It Means To Miss New Orleans
+C:Louis Alter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z2 CD |"C" EGAB-"G+" B3 c |"C" BAGA-"Am" A3 c |"Em7" BAGA-"Am" A2 c2 |"D9" E6 z _E | %5
+w: Do you|know what it means * to|miss New Or- leans * and|miss it each night * and|day? I|
+"Dm7" D^CD=c-"Ebdim7" c3 B |"Em7" d_dcB"A7b5" _B A2 E |"Dm11" G_GFc- c2"Ab7" _ED- |"G7" D6 CD | %9
+w: know I'm not wrong, * the|feel- in's get- tin' strong- er the|long- er I stay * a- way.|* Miss the|
+"C" EGAB-"G+" B3 c |"C" BAGA-"Am" A3 c |"Em" BAGA-"Am" A2 c2 |"D9" E6 z _E | %13
+w: moss cov- ered vines, * the|tall su- gar pines * where|mock- in' birds used * to|sing. And|
+"Dm7" D^CD=c-"Ebdim7" c3 B |"Em7" d_dcB"A7b9" _B A2 E |"Dm11" G_GFE-"G13" E2"G+" =Gc- | %16
+w: I'd like to see * the|laz- y Mis- sis- sip- y a|hur- ry- in' in- * to spring.|
+"C""Dm""Cdim" c6"C" c2 |"Bbm9" c4-"Eb9" c_B"Eb7"G_E |"Ab" F F3- Fc"Adim"_dc | %19
+w: * The|moon- * light on the|bay- ou * a Cre- ole|
+"Bbm7" c4-"Eb9" c_B"Eb7"G_E |"Ab6" F6 c2 |"Am9" B4-"D13" BA"D7"^FD |"G" E^FDE-"F#7" EF"Em"GB | %23
+w: tune * that fills the|air; I|dream * a- bout mag-|no- lias in June * and soon I'm|
+"Am7" cdBc-"D9" c2 Bd- |"G9""Fm6" d6"G7" CD |"C" EGAB-"G+" B3 c |"C" BAGA-"Am" A3 c | %27
+w: wish- in' that I * was there.|* Do you|know what it means * to|miss New Or- leans * when|
+"Em" BAGA-"Am" A2 c2 |"D9" E6 z _E |"F" D^CD=c-"F#dim" c3 B |"Em7" d_dcB"A7b9" _B A3 | %31
+w: thats where you left * your|heart? And|there's some- thing more: * I|miss the one I care for|
+"D9" ecAe-"G13" eA"G7" e2 |"C" c6 z2 |] %33
+w: more than I miss * New Or-|leans.-|
+

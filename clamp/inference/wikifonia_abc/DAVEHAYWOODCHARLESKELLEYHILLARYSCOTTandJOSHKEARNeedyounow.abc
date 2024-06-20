@@ -1,0 +1,38 @@
+X:1
+T:Need you now
+T: 
+T:Lady antebellum
+T: 
+C:DAVE HAYWOOD, CHARLES KELLEY, HILLARY SCOTT and JOSH KEAR
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"A" [A,CE]8 | d2 e2 A4 |"C#m" G8 | d2 e2 G3 G- |"Amaj9" [B,CEG]8 | d2 e2 A4 |"C#m" G8 | d2 e2 G4 |: %8
+"A" BcBc B2 G2 | BcBc B2 cG- |"C#m" G4 z4 | z4 z3 B- |"A" BcBc B2 GB- | BcBc B2 cG- |"C#m" G4 z4 | %15
+"^Both" z4 [CG] [DB]2 [Ec]- |"Amaj9" [Ec][DB] z [Ec]- [Ec][DB] z [Ec]- | %17
+ [Ec][DB] z [Ec]2 [Fd]2 [Ge]- |"C#m" [Ge]2 z2 z4 | z3 B, C D2 E- |"Amaj9" E D2 E- E2 DE- | %21
+ E4 z2 [B,B][B,B] ||"E" [Fd][Ge][Ge][Fd] [Ge]2 z [Fd]- | [Fd][Ge][Ge][Fd] [Ge][Fd][Ge][Bg]- | %24
+"G#m" [Bg][CA][DB][DB-] [DB]/[CA]/[B,G] z2 | z4 z2 B,[Fd]- |"E" [Fd][Ge][Ge][Fd] [Ge]B,B,[Fd]- | %27
+ [Fd] [Ge]2 [Fd] [Ge][Fd][Ge][Bg]- |"G#m" [Bg][CA][DB][DB-] [DB]/[CA]/[B,G] z2 | z4 z CD[Be]- | %30
+"A" [Be] [CA]2 [CA]- [CA][B,G][B,G][Be]- | [Be]2 [CA][CA]- [CA][B,G] z [Fd]- ||1 %32
+ [Fd] [Ge]2 [Af]2 [Ge]2 [Ge] |"Amaj9" [Ge]4- [Ge]/[Fc]/ [EB]3- | [EB]2 e2 A4 |"C#m7" G8 | %36
+ d2 e2 G4 :|2 [Fd] [Ge]2 [Af]2 [Ge]2 [Ge]- ||"C#m" [Ge]4- [Ge]/[Fc]/"B""E" [EB]3- | %39
+ [EB]2 [B,EG][B,EG] [B,EG] [B,EG]3 |"A" [B,CE]2 [B,CE][B,CE] [B,CE] [B,CE]3 |"B" z4 z (d e)e- | %42
+"C#m" e/d/c [CEG][CEG] [CEG]"B"!>![B,DF] z"E" !>![B,EG] | [EB]2 [B,EG][B,EG] [B,EG] [B,EG]3 | %44
+"A" [B,CE]2 [B,CE][B,CE] [B,CE] [B,CE]3 |"B" z4 [CG] [DB]2 [Ec]- || %46
+"Amaj9" [Ec][DB] z [Ec]2 [DB]2 [Ec]- | [Ec] [DB]2 [Ec]2 z [Fd]([Ge]- | %48
+"C#m" [Ge]4- [Ge]3 [Af]/[Ge]/) |"B" [Fd]4 z2 B,B, ||"E" FGGF G2 z F- | F G2 F GFGB- | %52
+"G#m" BCDD D/C/ B,3 | z4 Bede- |"E" eded e2 z B | eeed edee- |"G#m" efdd- d/c/ B3 | z4 z CD[Be]- | %58
+"A" [Be] [CA]2 [CA]- [CA][B,G][B,G][Be]- | [Be]2 [CA][CA]- [CA][B,G] z [Fd]- | %60
+ [Fd] [Ge]2 [Af]2 [Ge]2 [Ge]- |"E" [Ge]8- | [Ge]4- [Ge]/[Fc]/ [EB]3- | %63
+"G#m" [B,DG]2 [B,DG]2 [B,DG]2 z [Fd]- | [Fd] [Ge]2 [Af]2 [Ge]2 [Ge]- |"E" [Ge]8- | [Ge]4 [Bg]4 | %67
+"G#m" [B,DG]2 [B,DG]2 [B,DG] [B,DG]3 | [B,DG]2 [B,DG]2 z !>![GBd]3 | %69
+"E" [EGB]2 [EGB]2 [EGB] [EGB]3 | [Dd]2 [Ee]2 [A,A]4 |"G#m" G4 z FGG- | GFEE- E G2 G- | %73
+"E" G4- G3 A/G/ | F4- F E2 D- |"G#m" D6 z2 | [B,DG]2 [B,DG]2 [B,DG] [B,DG]3 |"E" [EGBe]8 | %78
+ d2 e2 A4 |"E" [B,DG]8 |] %80
+

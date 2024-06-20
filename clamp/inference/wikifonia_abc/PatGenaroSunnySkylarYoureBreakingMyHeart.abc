@@ -1,0 +1,25 @@
+X:1
+T:You're Breaking My Heart
+T:You're breaking my heart
+T:Pat Genaro,  Sunny Skylar,
+C:Pat Genaro, Sunny Skylar
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 G2 |:"C" c2 de c B2 A |"Dm7" c D3- D3 E | F2 Ac"G7" B2 AE |"C" G4- G3 G | %5
+w: You're|break- ing my heart cause you're|leav- ing * you've|fall- en for some- bod- y|new * it|
+"Gm" E2 FG"A7" E^CF z |"Dm" E D3-"Am" D2 C2 |"B7" B,2 ^DG ^F D2 B, |"Em" B4-"G7" B2 G2 | %9
+w: is- nt too eas- y be-|liev- ing * you'd|leave af- ter all we've been|through * its|
+"C" c2 de c B2 A |"Dm7" c D3- D2 z E |"Dm7" F2 Ac"G7" B2 AE |"C" G4- G3 G |"Gm" E2 FG"A7" E2 ^CF | %14
+w: break- ing my heart to re-|mem ber * the|dreams we de- pend- ed up|on * you're|leav- ing a slow dy- ing|
+"Dm" E D3-"Am" D2 C2 |"B7" B,2 ^DG ^F D2 B, |"Em" B4-"B" B"G7"GEG |"C" A4- AGEG |"B7" A4- AA^FA | %19
+w: em- ber * I'll|miss you my love when you're|gone * I wish you|joy * tho tear- drops|burn * but if some|
+"Em" B2 BB A2 Bc |"G7" d4 f2"E7" eB |"Am7" B2 Bc dcE z |"Dm7" G4 F4 |"C" E4 G2 c2 | %24
+w: day you should want to re|turn please hur- ry|back and we'll make a new|start *|till then youre|
+"Dm7" A2"G7" B4 e2 |"C" c8- |"Dm7" c6"G7" G2 :|"C" c8- |"Dm7" c8 |"C" z8 |] %30
+w: break- ing my|heart.|* you're|heart.|||
+

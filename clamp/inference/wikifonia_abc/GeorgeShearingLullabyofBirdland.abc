@@ -1,0 +1,21 @@
+X:1
+T:Lullaby of Birdland
+T:Lullaby of Birdland 
+T:George Shearing
+C:George Shearing
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+"Am7" eedc"F#m7b5" B A3 |"B7b9" ^F2 A"E7b9"_A- A4 |"Am7" E2 B"Fmaj7"A- A4 |"Dm7" F2 e"G7"d- d4 | %4
+"Em7" ggfe"Am7" d c3 |"Dm7" Aed^G-"G7b9" Ged=G- |1"Cmaj7" G4-"Fmaj7" GdcF- | %7
+"Bm7b5" FcBE-"E7" E4 :|2"Cmaj7" G4-"G7" GGBc- ||"Cmaj7" c8 ||"Em7b5" e2 f^f"A7b9" geg=f- | %11
+"Dm7" f d3- d4 | d2 ^de"G7b9" f=dfe- |"Cmaj7" e8 |"Em7b5" e2 f^f"A7b9" geg=f- |"Dm7" f d3- d4 | %16
+"G7b9" d2 ^de f=dfe- |"Cmaj7" efe"E7"d- d4 |:"Am7" eedc"F#m7b5" B A3 |"B7b9" ^F2 A^G-"E7b9" G4 | %20
+"Am7" E2 BA-"Fmaj7" A4 |"Dm7" F2 ed-"G9" d4 |"Em7" ggfe"Am7" d c3 |"Dm7" Aed^G-"G7b9" Ged=G- |1 %24
+"Cmaj7" G4-"Fmaj7" GdcF- |"Bm7b5" FcBE-"E7" E4 :|2"Cmaj7" G4- G^GAf- ||"Dm7" f4"G9" e2 ec- | %28
+"Cmaj7" c8- | c6 z2 |] %30
+

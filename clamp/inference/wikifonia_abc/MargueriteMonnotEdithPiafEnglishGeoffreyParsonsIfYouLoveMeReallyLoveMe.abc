@@ -1,0 +1,46 @@
+X:1
+T:If You Love Me, Really Love Me
+T:
+T:
+T:Music:Marguerite Monnot Words: Edith Piaf
+T: English: Geoffrey Parsons
+T:(Hymne à  l'amour)
+T:If You Love Me, Really Love Me
+C:Marguerite Monnot
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ DC ||"G" B,3 B,"B7" B,^DFA |"Em" G6"Em7" ED |"Am" C3 C"Am7""^\n" C"^\n"EGB |"D7" A6 Bc | %5
+w: If the|sun should tum- ble from the|sky, If the|sea should sud- den- ly run|dry, If you|
+w: Le ciel|bleu sur nous peut s'ef- fon-|drer, Et la|ter- re peut bien s'é- crou-|ler, Peu m'im-|
+"G" d2 G2"B7" G3 F |"C" E2"^\n" c2-"Cm6" c2 dc |"G" B2"Em" G2"Am" c2"^\n""Am7" B2 | %8
+w: love me, real- ly|love me, _ Let it|hap- pen, I won't|
+w: por- te si tu|m'ai- mes. _ Je me|fous du monde en-|
+"D7""^\n" A6 DC |"G" B,3 B,"B7" B,^DFA |"Em" G6"Em7" ED |"Am" C3 C"Am7" CEGB |"D7" A6 Bc | %13
+w: care. If it|seems that ev- ry- thing is|lost, I will|smile and nev- er count the|cost. If you|
+w: tier. Tant qu'l'a|mour i non d'ra mes ma|tins, Tan'qu' mon|corps fré- mir- ra sous tes|mains, Peu m'im-|
+"G" d2 G2"B7" G3 F |"C" E2 c2-"Cm6" c2 dc |"G" B2 G2 D2 G2 |"C6" A4"D7b9" B4 |"G" G6 B,B, | %18
+w: love me, real- ly|love me, _ Let it|hap pen dar ling,|I won't|care. Shall I|
+w: porte les grands pro-|blè- mes, _ Mon a-|mour puis- que tu|m'ai- _|mes. J'i- rais|
+"Em" EE"B7"FF"Em" G2 B,B, |"Em" EE"B7"FF"Em" G2 EE |"Bbdim7" GG"C7"EE"B7" F2 ee | %21
+w: catch a shoot- ing star? Shall I|bring it where you are? If you|want me to I will. * *|
+w: jus- qu'au bout du monde, Je me|fe- rais teindre en blonde, Si tu|me le de- man dais. * *|
+"Bbdim7" gg"C7"ee"B7" f2 BB |"Am" cc"D7"AA"Gmaj7" B2"Cmaj7" GG |"Am6" AA"B7"FF"Em" G2"Em7" GG | %24
+w: * * * * * You can|set me an- y task, I'll do|an- y- thing you ask, If you'll|
+w: * * * * * J'i- rais|dé- cro- cher la lune, J'i- rais|vo- ler la for- tune, Si tu|
+"Am" A2 A2"Gdim7" G2 A2 |"B7" B6"^N.C." DC |"G" B,3 B,"B7" B,^DFA |"Em" G6"Em7" ED | %28
+w: on- ly love me|still. When at|last our life on earth is|through, I will|
+w: me le de- man-|dais. Nous au-|rons pour nous l'é- ter- ni-|té, Dans le|
+"Am" C3 C"Am7" CEGB |"D7" A4 z2 Bc |"G" d2 G2"B7" G3 F |"C" E2 c2-"Cm6" c2 dc |"G" B2 G2 D2 G2 | %33
+w: share e- ter- ni- ty with|you. If you|love me, real- ly|love me, _ Then what-|ev- er hap- pens|
+w: bleu de toute l'im- men- si-|té, Dans le|ciel plus de pro-|blè mes, _ Dieu ré-|u- nit ceux qui|
+"C6" A4"D7b9" B4 |"G" G6 z2 |] %35
+w: I won't|care.|
+w: s'ai _|ment.|
+

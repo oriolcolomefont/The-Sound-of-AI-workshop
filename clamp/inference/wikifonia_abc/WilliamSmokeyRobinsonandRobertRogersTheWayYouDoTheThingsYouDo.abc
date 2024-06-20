@@ -1,0 +1,33 @@
+X:1
+T:The Way You Do The Things You Do
+T:The Way You Do The Things You Do
+C:William Smokey Robinson and Robert Rogers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z GAG A2 G2 |:"G" B2"C" z2"G" z2"C" z2 |"G" z D"C"ED"G" GE"C"GE |"G" A2"C" E2"G" z2"C" z2 | %4
+w: You got a smile so|bright,|you know you could- 've been a|can- dle.|
+w: |are,|you know you could- 've been a|flow- er.|
+"G" z G"C"AG"G" A2"C" G2 |"G" B-"C"B"G" z2 z2"C" z2 |"G" z D"C"E>D"G" G>D"C"G>E | %7
+w: I'm hold- ing you so|tight _|you know you could- 've been a|
+w: If good looks caused a|min- ute,|you know that you could be an|
+"G" (A2"C" E2)"G""C" z4 |"G" z G"C"B>B"G" B>B"C"B>G | A2"F" z2"C""F" z4 |"C" z D"F"E>D"C" GE"F"GE | %11
+w: han- dle.|The way you swept me off my|feet,|you know you could- 've been a|
+w: hour *|The way you stole * my _|heart,|you know you could- 've been a|
+"G" (A2"C" E2)"G""C" z4 |"G" z E"C"G>E"G" G2"C" B2 |"G""C" B4"G""C" z4 | %14
+w: broom. *|The way you smell so|sweet,|
+w: cool crook.|And ba- by you're so|smart,|
+"G" z D"C"E>D"G" G>D"C"G>E |"G" A2"C" (ED)"G""C" z4 |"D" z2 B2- B>BB>B | B2 A>G B2 A>G | %18
+w: you know you could- 've been some|per- fume. *|Well, _ you could- 've|been an- y- thing that you|
+w: you know you could- 've been a|school book. *|||
+"C" z AGG z GAG |"D" (B2 A4) z2 |"C" z DED BEGG |"G" ED"C" z2"G" z"C" A2 G- |1 %22
+w: want- ed to and I can|tell. _|The way you do the things you|do. _ Ah, ba-|
+w: ||||
+"G" GE"C" z2"G""C" z4 |"G" z2 G2 GGBB :|2"G" GE"C" z2"G" z2"C" z"G" G- | G z z2 z4 || %26
+w: * by.|As pret- ty as you-|* by. Yes!|_|
+w: ||||
+

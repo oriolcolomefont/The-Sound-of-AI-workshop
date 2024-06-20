@@ -1,0 +1,24 @@
+X:1
+T:Jeannine solo
+T:Jeannine Solo
+T:Matz Haugen
+C:D. Pearson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+"Abm7" e6 dB | d2 BA B2 A_G | A3 (_G3 G2) | z8 |"Abm7" e6 dB | d2 BA B2 A_G | A3 (e3 e2) | %7
+ z4 z =d=Bc |"Gbm7" (3d=ea =b_b =ade_a |"Cb7" ^fd=ed _ec'_c'=a |"E" a8 |"A7#11" =ac'b^f a(.g g2) | %12
+"Bbm7" z4 B2 d2 |"Eb7" e^f=ec _edB=B |"Ab" c6 BA | GBde ^f3 =e/f/ |"Abm7" ((e4 e))d _c2 | %17
+ A4 A_ce^f | e2 e2 ed _c2 | A4 A_ce^f | f(b b2) a3 f | e(^f f2) =f2 d2 | f8 | z g_gf dc_cG | %24
+"Gbm7" A3 F ^FA=A=B |"Cb7" c=def ^fa=ag |"E" a2 _c'(.a a)^f =e2 |"A7#11" e^f=ec _ed z2 | %28
+"Bbm7" ced=A c(B B2) |"Eb7" =AcB_G A=GFG |"Ab" A8 |"Ebm7" =D^F=A"Ab7"c"Ab7" _Ace^f |"Db" f8 | %33
+"Gm7" c'_c'b"C7"=a"C7" gf=e=d |"F" cb=a=e gfc=d |"F" (=e4 e)_ec^c |"Fm" =dfde =egef | %37
+"Fm" ^f=afg ^g=b_a=a |"Bbm7" (b4 b)_GE=E |"Eb7" (3FAc e=d _dFAc |"Abm7" B4 AB=Bd | B2 _G(A A4) | %42
+ z8 | z8 | E2 AB _cBA(=E | =E2) AB _cBA(F | F2) AB _cBA(=E | =E2) AB _cB A2 |"Gbm7" (=A8 | %49
+"Cb7" =A4) =B(dd)e |"E" (a8 |"A7#11" a4) f2 e2 |"Bbm7" dFAc BAF^F |"Eb7" GBde =e^f/e/_ed |"Ab" c8 | %55
+ z8 |] %56
+

@@ -1,0 +1,26 @@
+X:1
+T:If I Had A Hammer
+T:If I had a hammer 
+T:(The hammer song)
+T:Pete Seeger. Lee
+C:Lee Hays, Pete Seeger
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2"^N.C." C2 EG E2 |:"C" G4 G4 |"F" z2 A2 AGEC |"C" E4 C4 | z2 C2 EGGE | G4 G4 | z2 A2 AG A2 | %7
+w: If I had a|ham,- mer|I'd ham- mer in the|morn- ing|I'd ham- mer in the|eve- ning|all ov- er this|
+w: |bell *|I'd ring it in the|morn- ing|I'd ring it in the|eve- ning|all o- ver this|
+"G" G8 |"G7" z2 G2 AG A2 |"C" c3 A c4 | z2 A2 AGEC |"Am" E4 E4 | z2 A2 AA G2 |"F" A3 A"C" G3 G | %14
+w: land|I'd ham- mer out|dan * ger|I'd ham- mer out a|warn- ing|I'd ham- mer out|love be- tween my|
+w: land|I'd ring * out|dan * ger|I'd ring * out a|warn ing|I'd ring * out||
+"F" AAAA"C" G2 G2 | z2 A2"F" G4- |"G7" G4 GG G2 | E8 |1"Am" z2"F" C2"G7" EG E2 :|2"C" c8- | %20
+w: broth- ers and my sis- ters|all *|* o- ver this||If I had a||
+w: ||||||
+"F" c2"C" z2 z4 |] %21
+w: |
+w: |
+

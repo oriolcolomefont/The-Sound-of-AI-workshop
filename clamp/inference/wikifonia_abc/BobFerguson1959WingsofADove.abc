@@ -1,0 +1,42 @@
+X:1
+T:Wings of A Dove
+T:Wings of A Dove
+T:Bob Ferguson, 1959
+C:Bob Ferguson 1959
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 |[Q:1/4=180] z2 G | G B c |"Eb" E3 | E3- | E z G | G A B |"Ab" A3- | A3- | %13
+w: |||||when|trou bles sur|round|us|_ when|ev _ vils|come|_|
+ A z A |"Fm7" A G A |"Bb7" F3- | F3- | F z B | c B A |"Eb" G3- | G3- | G z G | G B c |"Eb" E3 | %24
+w: * the|bod y grows|weak|_|* the|spir it grows|numb|_|* when|these things be|set|
+ E3- | E z G | G A B |"Ab" A3 | A3- | A z c | e d c |"Eb" B3- | B3- | B z B,/B,/ |"Bb7" A D F | %35
+w: us|_ He|does not for|get|us|_ He|sends down His|love|_|* on the|wings of a|
+"Eb" E3- |"Ab" E3- |"Eb" E z G/G/ | G F E | G3 | G3 | G3 | G A B |"Ab" A3 | A3 | A2 c | e d c | %47
+w: dove|_|* on the|wings of a|snow|white|dove|He sends His|pure|sweet|love a|sign from a|
+"Eb" B3- | B3- | B z B,/B,/ |"Bb7" A D F |"Eb" E3- |"Ab" E3- |"Eb" E z G | G B c |"Eb" E3 | E3- | %57
+w: bove|_|* on the|wings of a|dove|_|* when|No ah had|drif|ted|
+ E z G | G A B |"Ab" A3- | A3- | A z A |"Fm7" A G A |"Bb7" F3- | F3- | F z B | c B A |"Eb" G3- | %68
+w: _ on|the flood many|days|_|* he|searched _ for|land|_|* in|var i ous|ways|
+ G3- | G z G | G B c |"Eb" E3 | E3- | E z G | G A B |"Ab" A3 | A3- | A z c | e d c |"Eb" B3- | %80
+w: _||trou bles he|had|some|_ but|was n't for|got|ten|_ He|sent him His|love|
+ B3- | B z B,/B,/ |"Bb7" A D F |"Eb" E3- |"Ab" E3 |"Eb" E z G/G/ | G F E | G3 | G3 | G3 | G A B | %91
+w: _|* on the|wings of a|dove|_|* on the|wings of a|snow|white|dove|He sends His|
+"Ab" A3 | A3 | A2 c | e d c |"Eb" B3- | B3- | B z B,/B,/ |"Bb7" A D F |"Eb" E3- |"Ab" E3- | %101
+w: pure|sweet|love a|sign from a|bove|_|* on the|wings of a|dove|_|
+"Eb" E z G | G B c |"Eb" E3 | E3- | E z G | G A B |"Ab" A3- | A3- | A z A |"Fm7" A G A |"Bb7" F3- | %112
+w: * when|Je sus went|down|_|* the|wa ters that|day|_||He was bap|tized|
+ F3- | F z B | c B A |"Eb" G3- | G3- | G z G | G B c |"Eb" E3 | E3- | E z G | G A B |"Ab" A3 | %124
+w: _|* the|u su al|way|_||when it was|done|_||God blessed His|Son|
+ A3- | A z c | e d c |"Eb" B3- | B3- | B z B,/B,/ |"Bb7" A D F |"Eb" E3- |"Ab" E3 |"Eb" E z G/G/ | %134
+w: _|* He|sent down His|love|_|* on the|wings of a|dove|_|* on the|
+ G F E | G3 | G3 | G3 | G A B |"Ab" A3 | A3 | A2 c | e d c |"Eb" B3- | B3- | B z B,/B,/ | %146
+w: wings of a|snow|white|dove|He sends His|pure|sweet|love a|sign from a|bove|_|* on the|
+"Bb7" A D F |"Eb" E3- |"Ab" E3- |"Eb" E3- | E z z | z3 | z3 | z3 | z3 |] %155
+w: wings of a|dove|_|||||||
+

@@ -1,0 +1,23 @@
+X:1
+T:Line for Lions
+T:Line for Lions
+T:Gerry Mulligan
+C:Gerry Mulligan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G6" GBdg"G7b9" =f2 d_e- |"Cm7" e4"F9" z =f_ed |"Bm7" z _edd"E9" z =ed_d |"Am7" cdcc-"D9" c4 | %4
+"Gmaj7" BcBd-"E9" d2 G2 |"Am7" ABAc-"D9" c2 FG- |1"G6" G3 d-"E9" d4- ||"Am7""D9" d6 z2 :|2 %8
+"G6" G8 || z2 GA"G9" Bcd^d |"Cmaj7" e8- |"C#m7b5" (3e2 ^d2 e2"F#7b9" g2 f2 |"Bm7" d8- | %13
+"Bm7" (3d2 ^c2 d2"E7b9" =f2 e2 |"Am7" c8 |"Am7" z Bc_e-"D7b9" e2 d2 |"Bm7" B4"E9" z dcA- | %17
+"Am7""D9" A6 z2 ||"G6" GBdg"G7b9" =f2 d_e- |"Cm7" e4"F9" z =f_ed |"Bm7" z _edd"F9" z =ed_d | %21
+"Am7" cdcc-"D9" c4 |"Gmaj7" BcBd-"E9" d2 G2 |"Am7" ABAc-"D9" c2 FG- |O"G6" G8 | %25
+"Am7""D9" z8!D.C.! ||O"G6" G3"E9" d- d4 |"Am7" z ^GAB"D9" c2 F=G- |"G6" G3"E9" d- d4 | %29
+"Am7" z ^GAB"D9" c2 =GF- |"Gmaj9" !fermata!F8 |] %31
+

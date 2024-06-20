@@ -1,0 +1,30 @@
+X:1
+T:That Silver Haired Daddy Of Mine
+T:That Silver Haired Daddy Of Mine
+C:Jimmy Long
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"D" z2 D E | F2 F F |"A7" F2 E F |"D" E D3- | D z"A" D E |"D" F2 D F | A2 G F |"A""E7" E4- | %8
+w: In a|vine cov- ered|shack in the|moun- tains,|* brave- ly|fight- ing the|bat- tle of|time,|
+w: But I|know it's too|late dear old|dad- dy,|* to re-|pay for the|sor- rows and|cares,|
+"A" E z A G |"D" F2 F F |"D7" D2 E F |"G" A G3- | G z"Gm" D E |"D" F2 E F |"A7" G F2 E |"D" D4- | %16
+w: * Is a|dear one who's|weath- ered life's|sor- row,|* it's that|sil- ver haired|dad- dy of|mine.|
+w: * Though dear|Moth- er is|wait- ing in|Heav- en|* just to|com- fort and|sol- ace you|there.|
+ D2 z D | F2 F F |"A7" A2 F F |"Em/D" E"D" D3- |"D7" D2 D D |"G" B2 B B | B2 D E |"D" F3 F | %24
+w: * If|I could re-|call all the|heart- aches,|* dear old|Dad- dy I've|caused you to|bear. If|
+w: ||||||||
+ E2 E D | E3 A, | D2 D E | F3 G |"E7" ^G2 F E | B2 F ^G |"A7" A4- | A z z A |"D" F2 F F | %33
+w: I could e-|rase, those|lines on your|face, and|bring back the|gold to your|hair.|* If|God would but|
+w: |||||||||
+"A7" F2 E F |"D" E D3 | z2 D"A" E |"D" F2 D F | A2 G F |"A""E7" E4- |"A" E z z F |"D" F2 F E | %41
+w: grant me the|pow- er|just to|turn back the|page- es of|time.|* I'd|give all I|
+w: ||||||||
+"D7" D2 D D |"G" D2 D C | B,2 D E |"D" F =F ^F2 |"A7" G F2 E |"D" D4- |"D6" D2 z2 :| %48
+w: own if I|could but a-|tone To that|sil- ver hared|dad- dy of|mine.||
+w: |||||||
+

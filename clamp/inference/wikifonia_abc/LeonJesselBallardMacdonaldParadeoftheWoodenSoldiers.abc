@@ -1,0 +1,36 @@
+X:1
+T:Parade of the Wooden Soldiers
+T:Parade Of The Wooden Soldiers
+C:Leon Jessel
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z G/-G/ |:"C" E G G G/G/ |"G7" F G G G/G/ |"C" E G"Ebdim" B A |"Dm7" G/^F/=F/E/"G7" D G/G/ | %5
+w: The *|toy shop door is _|locked up tight and _|ev- 'ry- thing is|qui- et for the night. When _|
+w: |dolls are in their _|best ar- rayed, there's _|going to be a|won- der- ful par- ade. Hark _|
+"C" E G"Bbdim" G G/G/ |"G" D B B B/B/ |"C6" A z"D" d z |1"G7" G z z G/G/ :|2 %9
+w: sud- den- ly the _|clock strikes twelve, the _|fun's be-|gun. The _|
+w: to the drum, Oh _|here they come, cries _|ev- 'ry||
+"G7""_(Instrumental)" G3 G/G/ || G3 G/G/ | G3 z |"C" G/c/ E A G | G/c/ E A G | G3/2 G/ G c | %15
+w: |||Hear them all cheer- ing,|now they are near- ing;|there's the cap- tain|
+w: one. * *||||||
+"G7" c B B2 | G/d/ F A G | G/d/ F A G | G3/2 G/ G d |"C" d c c2 | G/c/ E A G | G/c/ E A G | %22
+w: stiff as starch.|Bay- o- nets flash- ing,|mu- sic is crash- ing|as the wood- en|sol- diers march.|Sa- bres a- clink- ing,|sol- diers a- wink- ing|
+w: |||||||
+ G3/2 G/ G c |"Em" c B B2 | B/B/ B B/B/ B | B,/B,/ B, B,/B,/ B, | B B"B7" B/A/G/^F/ | %27
+w: at each pret- ty|lit- tle maid.|Here they come! Here they come!|Here they come! Here they come!|Wood- en sol- diers on par-|
+w: |||||
+"Em" E2"G7" z2 |]"C" G/c/ E A G | G/c/ E A G | G3/2 G/ G c |"G7" c B B2 | G/d/ F A G | G/d/ F A G | %34
+w: ade.|Day- light is creep- ing,|dol- lies are sleep- ing|in the toy- shop|win- dow fast;|sol- diers so jol- ly,|think of each dol- ly,|
+w: |||||||
+ G3/2 G/ G d |"C" d c c2 | G/c/ E A G | G/c/ E A G | G3/2 G/ G e |"F" e d d2 |"F#dim" c3/2 c/ c A | %41
+w: dream- ing of the|night that's past.|When in the morn- ing,|with- out a warn- ing,|toy- man pulls the|win- dow shade,|there's no sign the|
+w: |||||||
+"C/G" A G"A7" F E |"Dm" D/E/F/G/"G7" A B |"C" c3 z |] %44
+w: wood bri- gade was|ev- er out up- on par-|ade.|
+w: |||
+

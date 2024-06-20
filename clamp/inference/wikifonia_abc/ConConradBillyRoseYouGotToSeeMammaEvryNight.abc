@@ -1,0 +1,35 @@
+X:1
+T:You Got To See Mamma Ev'ry Night
+T:You've Gotta See Mamma Ev'ry Night
+C:Con Conrad
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z3/2 G<"G+7"AG/ |:S"C" c4 A"G7" G3 |"C" c c2 A-"A7" A2 E^D |"D7" E2 E2"G7" GEDC- | %4
+w: You got to|see mam- ma|ev- 'ry night, _ or you|can't see mam- ma at all.|
+w: ||||
+"C""Cdim" C4- C>G"G7"A>G |"C" c4"G+7" A G3 |"C" c c2 A- A2"Eb7" GA |"G" B2"G+" B2"D7" dBAG- | %8
+w: _ _ You've got to|kiss mam- ma|treat her right, _ Or she|won't be home when you call.|
+w: ||||
+"G7" G4- G z z2 |"C7" c2 d2 c2 d2 | c d2 c- c4 |"F7" c2 d2 c2 d2 | _e d2 c- c>G"G+7"A>G | %13
+w: _ _|If you want my|com- pan- y, _|You can't "fif- ty|fif- ty" me, _ You've got to|
+w: |||||
+"C" c4"G+7" A G3 |"C" c c2 A-"A7" A2 E^D!dacoda! |1"C7" E2 E2"G7" GEDC- |"C" C4- C>G"G+7"A>G :|2 %17
+w: see mam- ma|ev- 'ry night _ Or you|can't see mam- ma at all.|_ _ You've got to|
+w: ||||
+O"C7" E2 E2"G7" GEDC |"C" C4- C2 z2!fine! |]"C" E2 G2"Am" A2 c2 |"D7" E _E2 D-"G7" D4 | %21
+w: can't see mam- ma at all.|_ _|Mon- day night, I|sat a- lone, _|
+w: ||Fri- day night, you|dodged my path, _|
+"C" EE G2"Am" A2 c2 |"D7" E _E2 D- D4 |"C" E2 G2"Am" A2 c2 |"Dm" d c2 A-"D7" A2 cA | %25
+w: Tues- * day night, you|did- n't phone, _|Wednes- day night you|did- n't call, _ And on|
+w: Sat- ur- day night, You|took you bath, _|Sun- day night, you|called on me, _ But you|
+"C" c2"F" A2"C#" G2"A7" A2 |"D7" E D2"C" C- C2 z2 |"D7" E D2"C" C- C>G"G+7"A>G!D.S.! |] %28
+w: Thurs- day night the|same old stall. _||
+w: brought three girls for||com- pan- y _ You've got to|
+

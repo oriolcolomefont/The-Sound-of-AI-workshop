@@ -1,0 +1,26 @@
+X:1
+T:Yellow Days
+T:Yellow Days
+C:Alvaro Carrillo
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 ^CD |"Gm7" G A3 z2 ^CD |"C7" GA^FG Bc^GA |"F6" c d3 z2 ^GA |"Am7b5" d_ecd"D7b9" BcAB | %5
+w: I re-|mem- ber when the|sun- light had a spe- cial kind of|bright- ness, and the|laugh- ter has a lov- er's kind of|
+"G9" G A3 z2 cA |"C9" E4 z2 AE |"F6" D8- |"Am7b5" D4 z2"D7b9" ^CD |"Gm7" G A3 z2 ^CD | %10
+w: light- ness\, yel- low|days, yel- low|days.|_ She would|hold me, and a|
+"C7" GA^FG Bc^GA |"F6" c d3 z2 ^GA |"Am7b5" d_ecd"D7b9" BcAB |"G9" G A3 z2 cA |"C7" E4 z2 cA | %15
+w: smile would spread a- round us so com-|plete- ly, and the|soft- ness of a kiss would ling- er|sweet- ly, yel- low|days, yel- low|
+"F6" F8- | F4 z FEF |"Cm7" c d3 z2 EF |"F7" cdcd cdcd |"Bb" G A3 z2 EF |"Bbm7" BcBc"Eb7" BcBc | %21
+w: days.|_ But then came|thun- der and I|heard her say good- bye thru tears of|won- der, now I'm|all a- lone and my heart wants to|
+"Ab" G4 z2 B_A |"Dm7b5" F4 z2"G7b9" _AG |"C7" E8- | E4 z2 ^CD |"Gm7" G A3 z2 ^CD | %26
+w: know, yel- low|days, where'd yo|go.|_ Life is|em- pty, and the|
+"C7" GA^FG Bc^GA |"F6" c d3 z2 ^GA |"Am7b5" d_ecd"D7b9" BcAB |"G9" G A3 A2 cA |"C7" E4 z2 cA | %31
+w: sun- light seems so hars in- stead of|ten- der, and the|laugh- ter's just an e- cho I re-|mem- ber, from yel- low|days, yel- low|
+"F6" F8- | F4 z4 |] %33
+w: days.|_|
+

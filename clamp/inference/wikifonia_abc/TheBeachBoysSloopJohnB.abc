@@ -1,0 +1,31 @@
+X:1
+T:Sloop John "B"
+T:Sloop john "B"
+T:Arranged by Brian Wilson
+C:adapted from trad. West Indies song collected by Carl Sandburg and Alan Lomax
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 z C |:"F" A A2 B A2"Bb" B2 |"F" A6 z C | A3 ^G AA"Bb" B2 |"F" A6 z C | A4 A2"Bb" B2 | %6
+w: We|come on the sloop John|B my|grand- * fa- ther and|me a-|round Nas- sau|
+w: |first mate * he got|drunk he|broke in the cap- tains|trunk the|constable had to|
+"F" c4 z2 (3cBA |"C7" G8 | z4 z2 (3CDE |"F" F8 |"F7" z2 FF- FG A2 |"Bb" B8- | B2 z2 z B2 G | %13
+w: town we * did|roam|drink- ing all|night|got in * to a|fight|* well I|
+w: come~and take him a|way|Sher- iff John|Stonewhy|dont you leave me a-|lone|* well I|
+"F" A2 AA- AF- F2 |"C7" z2 GG- GF E2 |"F" F8- | F2 z2 z2 z C ||"F" A A2 ^G A2"Bb" B2 |"F" A8 | %19
+w: feel so broke * up *|I want * to go|home|* so|hoist up the John B|sails|
+w: feel so broke * up *|I want * to go|home||||
+ A A2 ^G A2"Bb" B2 |"F" A8 | A A2 ^G AA"Bb" B2 |"F" c4 c B2 A |"C7" G8 | z4 z2 (3CDE |"F" F8 | %26
+w: see how the main- s'l|sets|call for the cap- tain a-|shore let me go|home|let me go|home|
+w: |||||||
+"F7" z2 FF- FG A2 |"Bb" B6 B2 | F6 BF |"F" A2 AA- AF- F2 |"C7" z2 GG- GF D2 |1"F" F8- | %32
+w: I want * to go|home yeah|yeah well I|feel so broke * up *|I want * to go|home|
+w: ||||||
+ F4 z2 z C :|2"F" F8- | F6 z2 |] %35
+w: * The|home||
+w: |||
+

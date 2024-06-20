@@ -1,0 +1,30 @@
+X:1
+T:Get Happy
+T:Get Happy
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4 z CFA |:"F6" c c2 c"C7" B2 Ac- |"F6" c c3-"C7" cCFA |"F6" c c2 c"C7" B2 AF- | %4
+w: For- get your|trou- bles and just get hap-|* py, _ You bet- ter|chase all your cares a- way.|
+"Bb/C" F4-"F" FCFA |"F6" c c2 c"C7" B2 Ac- |"F6" c"C7" c3- c f2 f- |"F6" fAB=B"C7" c2 AF- | %8
+w: _ _ Sing Hal- le-|lu- jah, come on, get hap-|* py, _ Get read-|* y for the judge- ment day.|
+"Bb" F4-"F" FFBd |"Bb6" f f2 f _e2 df- |"Cm7" f f3-"F7" fFBd |"Bb6" f f2 f"G+7" _e2 dB- | %12
+w: _ _ The sun is|shin- in', come on, get hap-|* py, _ The Lord is|wait- ing to take your hand.|
+"Cm7" B4-"F7" BFBd |"Bb6" f f2 f _e2 df- |"Eb6" f f3-"Edim7" f b2 b- |"Bb6/F" bd_e=e"F7" f2 dB- | %16
+w: _ _ Shout ~Ha- le-|lu- jah, come on, get hap-|* py, _ We're go-|* ing to the prom- ised land.|
+"Bb6" B6"C7" c2 |"Cm7" f3 c-"F7" c c2 c |"Bbm6" _e3 B-"Eb7" B B2 B |"Am7" d3 A-"D7" A A2 A | %20
+w: _ We're|head- in _ 'cross the|Riv- er, _ wash your|sins 'way _ in the|
+"Gm7" c6"C7" c2 |"Cm7" f4"F7" c4 |"Bbm6" _e3 B-"Eb7" B4 |"Am7" d2 d2"D7" A A2 c- | c4 cCFA | %25
+w: tide; It's|all so|peace- ful _|on the oth- er side.|_ _ For- get you|
+"F6" c c2 c"C7" B2 Ac- |"F6" c c3-"C7" cCFA |"F6" c c2 c"C7" B2 AF- |"Bb/C" F4-"F" FCFA | %29
+w: troub- les and just get hap-|* py, _ you bet- ter|chase all you cares a- way.|_ _ Shout Ha- le-|
+"F6" c c2 c"C7" B2 Ac- |"F6" c c3-"C7" c"Fm" f2 f- |"F" fAB=B"C13" c2 cf- |1 %32
+w: lu- jah, come on, get hap-|* py _ Get read-|* y for the judge- ment day.|
+"F""Db7" f4"C7" z CFA :|2"F" f6 z2 |] %34
+w: _ For- get your|day.|
+

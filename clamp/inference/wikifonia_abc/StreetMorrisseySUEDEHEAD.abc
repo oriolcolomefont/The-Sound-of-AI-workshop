@@ -1,0 +1,48 @@
+X:1
+T:SUEDEHEAD
+C:Street
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"A" cc-cB BBze |"Bm" ee-eB BB-BA |"G" =GG-GE GGzA |"D6" AB B4 cc ::"Esus4" G4"E" A2 F2 | %5
+w: |||||
+w: |||||
+ G2 B2 A2 GG- |"D" GA- A6 | z4 z2 A2 |"Esus4" A2 GB-"E" BG- A2 | G-B- B2 A2 G2 |"D" GA F6 | %11
+w: * Why do you come|_ here? _|And|why _ _ _ _ _|_ _ _ do you|hang aro und?|
+w: * * * * tel|e phone? _|||* * * send me|sil ly notes?|
+ z2 z2 z2 z2 |"F#m" c8- |"E" B6 c2 |"D" A2 F6 |"D6" B2- cB =d2- cB |"F#m" c8 |"E" B8 | %18
+w: |I'm|so _|sor ry|Ahh _ _ _ _ _|I'm|so|
+w: |||||||
+"D" A2 A-c- c2 A2- | Ac- c2 A2 c2 |"A" A4 cccB- |"Bm" BB- B4 BB |"G" =cB-BA z Bzc- | %23
+w: sor _ _ _ ry|_ _ _ _ _|* Why do you come|_ here _ when you|know it _ makes things hard|
+w: |||||
+"D" cB A2 AB ^c2 |"A" z2 z2 c4 |"Bm" c2 B2 A2 A2 |"G" z2 z2 z2 z2 |"D" z2 z2 z2 z2 :| %28
+w: _ for me when you know|OH|why do you come?|||
+w: |||||
+"G" z2 z2 z2 z2 |"F#m" z2 z2 z2 z2 |"G" z2 z2 z2 z2 |"D" z2 z2 z2 z2 |"Esus4" G4"E" A2 F2 | %33
+w: |||||
+w: |||||
+ z BBB A2 G2 |"D" GAzA- A4 | A2 A2 A2 G2 | G2 AA- A4 | z4 z c c2- |"E" cc B2 B2 z B- | Bc G4 z G | %40
+w: You had to sneak in|to my room _|just to read my|di a ry _|it was|_ just to see just|_ to see all|
+w: |||||||
+ z A G2 AB- B2 | B2 BB AG A2 |"D" F2 z2 z4 | z2 z2 F2 E2 | z =DzE z F G2 | A2 B2 c2 =d2- | %46
+w: the things you knew _|_ I'd writ ten ab out|you|Oh so|ma ny il lus|tra tions Ah but|
+w: ||||||
+"F#m" dc- c2 z4 |"E" z c- c2 z B c2 |"D" z A F6 | z BcB =dc d2 |"F#m" =d-c- c4 c2- | %51
+w: _ I'm _|so _ ve ry|sick ened|Ah _ _ _ _ I|_ am _ so|
+w: |||||
+"E" c z B A2 z A-F- |"D" F4 z4 | z4 z =dcd |:"A" e z c z2 c2 B- |"Bm" B4 z AAA | %56
+w: _ sick ened now _|_|It was a|good lay good lay|_ it was a|
+w: |||||
+"G" B z B- B2 c2 A |"D" F- F2 c2 c cc |"A" e z c- c2 c2 B- |"Bm" B4 z czA | z2"Dmaj9" c2 z A- A2 | %61
+w: good lay _ good lay|_ _ Ah, it was a|good lay _ good lay|_ ah *|ah * *|
+w: |||||
+ z czA B=dcd :| %62
+w: ah * * it was a|
+w: |
+

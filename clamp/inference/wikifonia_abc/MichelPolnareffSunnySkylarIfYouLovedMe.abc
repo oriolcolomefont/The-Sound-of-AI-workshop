@@ -1,0 +1,35 @@
+X:1
+T:If You Loved Me
+T:If You Loved Me
+T:Soul Coaxing (Ame Caline)
+T:Michel Polnareff
+T:Sunny Skylar
+C:Michel Polnareff
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" EGEc- c4- | c2 BA G2 FE |"F6" D2 A,D- D4- | D4"Fmaj7" E2"F6" DE |"Em" G2 E2 DEDE | %5
+w: I'd give to you *|* ev- 'ry thing that I|now pos- sess, *|* I would sur-|ren- der ev- 'ry- thing I|
+w: All of my dreams, *|* I would give for your|sweet ca- ress, *|* I would be|ten- der, yours and yours a-|
+"F6" D4"G11" A,2 C2 |"Cmaj7" G2 E6 |1"Eb" G_Bf_e/d/"F" cA"G7"=Bd :|2"C" z C/D/EG FEDC || %9
+w: own, If you|loved me.|||
+w: lone, If you|loved me.|||
+"Am" z2 A2 c2 A2 |"Ab" _e8 |"Eb" z2 _EE F2 EG- |"G7" G8 |"Am" z2 A2 c2 A2 |"Ab" _e8 | %15
+w: If you could|care,|Oh, what I would do||My heart and|soul|
+w: ||||||
+"Eb" z2 _EE F2 EG- |"G7" G8 |"C" EGEc- c4- | c2 BA G2 FE |"F6" D2 A,D- D4- | D4"Fmaj7" E2"F6" DE | %21
+w: I would give to you,||Ask for the stars, *|* I will gath- er them|all for you, *|* No, there is|
+w: ||||||
+"Em" G2 E2 DEDE |"F6" D4"G11" A,2 C2 |:"Cmaj7" G2 E6- |"F" E4 (3z2"G7""G11" A,2 C2 :| %25
+w: noth- ing that I could- n't|do, If you|loved me.|* If you|
+w: ||||
+"Cmaj7" G2 E6- | E2 D/E/G/B/ c4 |] %27
+w: loved me.-||
+w: ||
+

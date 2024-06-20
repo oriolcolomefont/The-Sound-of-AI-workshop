@@ -1,0 +1,39 @@
+X:1
+T:Wonderwall
+C:Oasis
+Z:All Rights Reserved
+L:1/16
+Q:1/4=150
+M:4/4
+K:G
+V:1 treble nm="Part_1"
+%%MIDI program 0
+V:1
+"Em7" z8"G" z8 |"Dsus4" z8"A7sus4" z8 |"Em7" z8"G" z8 |"Dsus4" z8"A7sus4" z8 |: %4
+w: ||||
+w: ||||
+"Em7" z2 B2A2>G2"G" AGAG A2AG |"Dsus4" AGAG A2B(G"A7sus4" G4) z4 |"Em7" z2 B2A2>G2"G" AGAG A2AG | %7
+w: To- day is gon- na be the day that they're|gon- na throw it back to you _|By now you should'- ve some- * how re- a-|
+w: Back- beat, the word is on the street that the|fi- re in your heart is out _|I'm sure you've heard it all be- fore but you|
+"Dsus4" AGAG A2B(G"A7sus4" G4) z4 |"Em7" BdBd (d2d)(e"G" e2)d(B B2)G2 | %9
+w: lized _ what you got- ta do _|I don't be- lieve _ that a- * ny- bo- * dy|
+w: ne- ver real- ly had a doubt _|I don't be- lieve _ that a- * ny- bo- * dy|
+"Dsus4" A2>A2 A2B(G"A7sus4" G2) z E E2>E2 |"C9" G2E2- E4"Dsus4" z8 |"A7sus4" z8 z6 :| FG- | %13
+w: feels the way I do _ a- bout you|now _ _||And all|
+w: feels the way I do _ a- bout you|now _ _|||
+"C9" G2AE- E2FG-"Dsus4" G2AE- E2FG- |"Em7" G2E2- E4 z4 z2 FG- | %15
+w: _ the roads _ that lead _ you there _ were win-|* ding _ And all|
+w: ||
+"C9" G2AE- E2FG-"Dsus4" G2AE- E2FG- |"Em7" G2E2- E4 z8 |"C9" G2AE- E2FG-"Dsus4" G2AE- E2D(B | %18
+w: _ the lights _ that light _ the way _ are blin-|* ding _|There are ma- * ny things _ that I _ would like|
+w: |||
+"G" B2)BA-"G/F#" A2A(G"Em7"G2)GG"G" AB2A- |"A7sus4" A2GE- E4 z4 z BB2 |"C9" B2>(G2 G4)"Em7" z8 | %21
+w: _ to say _ to you _ But I don't know how|_ _ _ _ Be- cause|may- be, _|
+w: |||
+"G" z4 z2 E(G"Em7" G)EGE G2G2 |"C9" B2>(G2 G4)"Em7" z8 |"G" z4 z2 B2"Em7" c2 d4 G2- | %24
+w: you're gon- * na be the one that|saves me _|And af- ter all|
+w: |||
+"C9" G8"Em7" z8 |"G" z4 B2B2"Em7" c2 B4 B2 |"C9" BA(G2 G4)"Em7" z8 |"G" z8"Em7" z8 |] %28
+w: _|You're my won- der- wall|_ _ _ _||
+w: ||||
+

@@ -1,0 +1,37 @@
+X:1
+T:Both Sides Now
+T:From Both Sides Now
+T:Joni Mitchell 
+C:Joni Mitchell
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G2 G2 F2 E2 |"F" F G3"C" C3 D | E2 G2"Cmaj7" G2 B2 |"F" B c3"C" c3 c | c2 e2 F2 G2 |"F" FE F6 | %6
+w: Bows and flows of|an- gel hair and|ice- cream cas- tles|in the air, and|feath- er can- yons|ev- 'ry- where|
+w: Moons and Junes and|Fer- ris wheels, the|diz- zy danc- ing|way you feel, as|ev- 'ry fai- ry|tale comes real|
+w: Tears and fears and|feel- ing proud to|say I love you|right out loud *|Dreams and schemes and|cir- cus crowds|
+"Dm7" z GGG F2 G2 |"G" D6 z G |"C" G3 G F2 E2 |"F" F G3"C" C3 D | E2 G2"Cmaj7" G2 B2 | %11
+w: I've looked at clouds that|way but|now they on- ly|block the sun, they|rain and snow on|
+w: I've looked at love that|way but|now its just an-|oth- er show you|leave 'em laugh- ing|
+w: I've looked at life that|way But|now old friends are|ac- ting strange they|shake their heads they|
+"F" B c3"C" c3 c | c2 e2 F2 G2 |"F" FE F6 |"Dm7" z GGG F2 G2 |"G" D8 |"C" z eee d3 e | %17
+w: ev- 'ry- one so|man- y things I|would have done|But clouds got in my|way|I've looked at clouds from|
+w: when you go and|if you care dont|let them know|Dont give your- self a-|way|I've looked at love from|
+w: say I've changed but|some- things lost but|some- things gained|In liv- ing ev- 'ry|day|I've looked at life from|
+"F" f e3"C" G3 c |"F" f e3"C" G3 c |"F" f e3"C" G3 c |"G" B3 c B2"F" A2 |"C" G3 C C2 G2 | %22
+w: both sides now, from|up and down and|still some- how it's|cloud ill- u- sions|I re- call I|
+w: both sides now from|give and take and|still some- how it's|loves ill- u- sions|I re- call I|
+w: both sides now from|win and lose, sn|still some- how it's|life's ill- u- sions|I re- call I|
+"F" GFFE E2 C2 |"C""F" C8- |"C" C6"F" (ED) |1"C""F""^First and Second endings" C8- |"C""F" C8- | %27
+w: real- * ly- * dont know|clouds|* at *|all.||
+w: real * ly * dont know|love|* at *|all.||
+w: real- * ly * dont know|life|* at *|||
+"C""F" C8- |"C""F" C8 :|3"C""F""^Repeat and fade out" C8- |"C""F" C8 |] %31
+w: ||all.||
+w: ||||
+w: ||||
+

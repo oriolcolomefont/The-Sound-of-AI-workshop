@@ -1,0 +1,17 @@
+X:1
+T:Győri kanász a dombon
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ dd ed | dA A2 |1 GG AB | c2 A z :|2 GG AG | A2 A z |: GG AG | GD D2 |1 CC DE | F2 D z :|2 CC DC | %11
+w: Győ- ri ka- nász|a dom- bon|ját- szik a bot-|já- val,|||Nem fog- ja meg|a szok- nyám,|el- sza- la- dok|tő- le,||
+w: Ne menj ar- ra|kis- le- ány,|||meg- fog- ja szok-|nyá- dat,|A- zért a kis-|ma- la- cot|||el- lo- pom mel-|
+ D2 D z |] %12
+w: |
+w: lő- le.|
+

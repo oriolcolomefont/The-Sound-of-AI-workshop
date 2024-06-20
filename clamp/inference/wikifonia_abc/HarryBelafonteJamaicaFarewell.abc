@@ -1,0 +1,37 @@
+X:1
+T:Jamaica Farewell
+T:Jamaica Farewell
+T:Harry Belafonte
+T:2
+C:Harry Belafonte
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C" G2 E(C C)D E2 |"Dm" F2 F(D D)D C2 |"G7" B, G2 (G G) F2 z |"C" E2 EC (C C3) |"C" G2 EC CD E2 | %5
+"Dm" G2 G(F F)F A2 |"G7" G G2 (F F)E D2 |"C" C8 |: z"C" [EG][EG][EG] [EG]2 [EG][EG] | %9
+"F" [FA] [GB]2 ([Ac] [Ac]) [GB]2 [FA] |"G7" [EG]2 [EG]2 [DF][DF][DF][DF] | %11
+"C" [CE]2 [DF]([EG] [EG]2) z2 |"C" z [EG][EG][EG] [EG] [EG]2 [EG] | %13
+"F" [FA]2 [GB]([Ac] [Ac])[Ac][GB][FA] |"G7" [EG]2 [EG][DF] ([DF] [DF]2) [DF] | %15
+"C" [CE]2 D(C C)E G2 || z"C" [Ec]2 [Ec] [Ge]3 [Ge] |"Dm" [Fd] [Fd]2 ([Af] [Af]2) z2 | %18
+"G7" z [DB]2 [DB] [Fd]3 [Fd] |"C" [Ec][Ec][Fd]([Ge] [Ge]2) z [EG] | %20
+"C" [CE] [CE]2 ([EG] [EG])[EG][EG][EG] |"Dm" [DF][DF][FA]([FA] [FA])[FA][FA][FA] | %22
+"G7" [B,G][B,G][B,G][B,G] [DF]2 [DF]2 |"C" [CE]2 D(C C2) z2O ||1"C" CB,CD EDCB, | %25
+"Dm" A, D2 (F F)EDC |"G7" B, D2 (A A)G F2 |"C" E G2 (c c2) z2 |"C" c2 Bc dcBA | %29
+"Dm" G G2 ([DB] [DB])[DB] [CA]2 |"G7" [B,G] [B,G]2 ([A,F] [A,F])[G,E] [B,D]2 |"C" C3 C CG, C2 :|2 %32
+"C" C E2 G z cBc |"Dm" d3 A AA G2 |"G7" B2 d2 c2 B2 |"C" c3 A AA A2 |"C" c2 G2 F2 E2 | %37
+"Dm" [EG]3 [DF] [DF][DF] [DF]2 |"G7" D2 C2 B,2 D2 |"C" C2 G,E EC G,2 :|3"C" E G2 c z B A2 || %41
+"Dm" F3 (D D) D3 |"G7" G2 G2 F2 F2 |"C" E2 C(G, G,)C G,2 |"C" E G2 [Ec] z [DB] [CA]2 | %45
+"Dm" [DF]3 ([FA] [FA]) [FA]3 |"G7" [B,G] [B,G]2 [A,F] [A,F][G,E] [G,D]2 | %47
+"C" [G,C]2 G,E ECG,C"_D.C. al Coda"S || z8 |O"C" z [Ec]2 [Ec] [Ge]3 [Ge] | %50
+"Dm" [Fd]2 [Fd]([Af] [Af]2) z2 |"G7" z [DB]2 [DB] [Fd]3 [Fd] |"C" [Ec][Ec][Fd]([Ge] [Ge]2) z [EG] | %53
+"C" [CE] [CE]2 ([EG] [EG])[EG][EG][EG] |"Dm" [DF][DF][FA][FA] [FA][FA][FA][FA] | %55
+"G7" GGGG [DF]3 [DF] |"C" [CE]2 DC C2 z2 ||"C" CB,CD EDCB, |"Dm" A, D2 F FEDC |"G7" G4 B,4 | %60
+"C" C8 |] %61
+

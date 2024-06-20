@@ -1,0 +1,26 @@
+X:1
+T:Tenderly
+T:Tenderly
+T:Words and Music by Jack Lawrence, Walter Gross
+T:All Rights Reserved
+C:Walter Gross
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 z g ac' |:"Cmaj7" b3 g ac' |"G+7" b4 g_e |"Cmaj7" d6- | d2 z c df |"Fmaj7" e3 c df | %6
+w: The eve- ning|breeze ca- ressed the|trees ten- der-|ly,|* The trem- bling|trees em- braced the|
+"Fmaj9" e4 c_A |"Cmaj7" G6- | G2 z2 G2 |"Fm7" _A4 g2 |"G7" e4 G2 |"Fm7" _A2 c2 g2 | %12
+w: breeze ten- der-|ly.|* Then|you and|I came|wan- der- ing|
+"G7" e4"G#dim" d2 |"Am" c2 e2 d'2 |"D7" b4 d2 |"G" g6- | g2 z g ac' |"Cmaj7" b3 g ac' | %18
+w: by and|lost in a|sigh were|we.|* The shore was|kissed by sea and|
+"G+7" b4 g_e |"Cmaj7" d6- | d2 z c df |"Fmaj7" e3 c df |"Fmaj9" e4 c_A |"Cmaj7" G6- | G2 z2 G2 | %25
+w: mist ten- der-|ly.|* I can't for-|get how two hearts|met breath- less-|ly.|* Your|
+"Fm7" _A2 c2 g2 |"G7" e4"G#dim" d2 |"Am" c2 e2 d'2 |"D" b3 c'"D#dim" ab |"Em7" g3 a"Fm7" fg | %30
+w: arms o- pened|wide and|closed me in-|side, you took my|lips, you took my|
+"C6/G" e3 d"G7" fB |1"C6" c6 | z2 z g ac' :|2"C6" c6- | !fermata!c6 |] %35
+w: love so ten- der-|ly.|The eve- ning|ly.||
+

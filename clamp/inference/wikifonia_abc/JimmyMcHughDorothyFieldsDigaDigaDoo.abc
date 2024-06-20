@@ -1,0 +1,28 @@
+X:1
+T:Diga, Diga, Doo
+T:Diga Diga Doo
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Em" e2 e2"Em" B2 B2 |"Em7" e2 e2"Em6" B4 |"Em" e2 e2"Em" B2 BB |"Em7" ee e2"Em6" B4 | %4
+w: Zu- lu man is|feel- ing blue,|Hear his heart beat a|lit- tle tat- too|
+"Em" GFG^G"B7" A2 =GF |"Em" G2 E6 | GFG^G"B7" A2 =GF |"Em" E8 | e2 e2"Em" B2 B2 | %9
+w: di- ga di- ga doo di- ga|doo doo,|di- ga- di- ga doo di- ga|doo.|You love me and|
+"Em7" e2 e2"Em6" B3 B |"Em" e2 e2"Em" B2 BB |"Em7" ee e2"Em6" B4 |"Em" GFG^G"B7" A2 =GF | %13
+w: I love you And|when you love it is|nat- rur- al to|di- ga di- ga doo di- ga|
+"Em" G2 E6 | GFG^G"B7" A2 =GF |"Em" E8 |"D7" D2 E2 D2 E2 | DEDE D2 d2 |"G" B2 G6- |"C7""B7" G8 | %20
+w: doo doo|di- ga di- ga doo di- ga|doo.|I'm so ver- y|di- ga di- ga doo by|na- ture.|_|
+ E2 =F2 E2 F2 | E=FEF E2 e2 |"Am7" c2 A6 |"B7/F#" BBBB"B7b5/F" B c2 B |"Em" e2 e2"Em" B2 B2 | %25
+w: If you don't say|di- ga di- ga to your|mate, you're|gon- na lose your pa- pa So|let those fun- ny|
+"Em7" e2 e2"Em6" B4 |"Em" e2 e2"Em" B2 BB |"Em7" ee e2"Em6" B4 |"Em" GFG^G"B7" A2 =GF |"Em" G2 E6 | %30
+w: peo- ple smile|How can ther be a|Vir- gin Isle with|di- ga di- ga doo di- ga|doo doo|
+ GFG^G"B7" A2 =GF |1"Em""B7" E6 z2 :|2"Em" E6 z2 |] %33
+w: di- ga di- ga doo di- ga|doo.|doo.|
+

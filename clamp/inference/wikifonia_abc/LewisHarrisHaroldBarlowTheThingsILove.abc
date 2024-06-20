@@ -1,0 +1,30 @@
+X:1
+T:The Things I Love
+T:The Things I Love
+C:Lewis Harris
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" z edc"Am" BABc |"D7" d3 A d4 |"Dm7" z dcB A^GAB |"Fm6" (c3 _A) c4 | %4
+w: The glow of sun- set in the|sum- mer skies,|The gol- den flick- er of the|fire- * flies,|
+"C" z G"Gm7"=AG"A7" FE^DE |"D7" A3 ^C =D4 |"Dm7" z DEF"G+7" G2 G2 |"C" G8 | z edc"Am" BABc | %9
+w: The gleam of love- light in your|love- ly eyes,|These are the things I|love.|A sil- ver moon- beam peek- ing|
+"D7" d3 A d4 |"Dm7" z dcB A^GAB |"Fm6" c3 _A c4 |"C" z G"Gm7"=AG"A7" FE^DE |"D7" A3 ^C =D4 | %14
+w: thru the trees,|A bed of tu- lips nod- ding|in the breeze,|The look you give in ans- wer|to my pleas|
+"Dm7" z DEF"G+7" G2 A2 |"C" c6 c2 |"Ab" c4- c"Fm7"_B_AF |"Bbm7" _A=EFA"Eb7" G3 F | %18
+w: These are the things I|love. Oh!|once _ I thought that|life was just a win- ter|
+"Ab" _E4- E"Fm7"F_Ac |"Bbm7""Eb7" _e6 _d2 |"Ab" c4- c"Fm7"_B_AF |"Bbm7" _A=EFA"Eb7" G3 F | %22
+w: thing _ my heart was|cold; And|then _ you came to|me, and like a breath of|
+"C" =E4-"Am" EF=Ac |"Dm7" dddd"G+7" ^d4 |"C" z edc"Am" BABc |"D7" d3 A d4 |"Dm7" z dcB A^GAB | %27
+w: sping _ You turned the|sil- ver snow to gold.|A rob- bin's ser- e- nade when|day is through,|The bab- bling brook be- side our|
+"Fm6" c3 _A c4 |"C" z G"Gm7"=AG"A7" FE^DE |"D7" A3 ^C =D4 |"Dm7" z DEF"G+7" G2 A2 |1 %31
+w: rend- dez- vous,|Your sweet voice whis- p'ring "Dar- ling,|I love you."|These are the things I|
+"C""Ab7" c6"G+7" z2 :|2"C""Ab7""G+" c6"C" z2 |] %33
+w: love.|love.|
+

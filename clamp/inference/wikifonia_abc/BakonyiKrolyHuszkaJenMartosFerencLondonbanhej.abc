@@ -1,0 +1,23 @@
+X:1
+T:Londonban, hej
+T: 
+T:Huszka Jenõ - Martos Ferenc - Bakonyi Károly
+C:Bakonyi Károly, Huszka Jenő, Martos Ferenc
+Z:Public Domain
+L:1/8
+Q:1/4=90
+M:3/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" CC C G2 G |"Fm" FG A"Cm" G2 E |"G" DE F E2 C | E2 D"Cm" C3 :|"Bb" B,B, B,"Eb" E2 E | %5
+w: Lon- don- ban hej, _|van szá- mos ut- ca,|és min- den ut- cán|van sa- rok|De mind e- gész nagy|
+w: És min- den sar- kon|há- á- zak áll- nak,|és min- den há- zon|ab- la kok,||
+"F" F2 F"G" G2 G |"Cm" CC C F2 F |"Fm" G2 G A2 A |"G" =Bc d"Fm" c2 A | F2 A"Cm" G3 |"G" DE F E2 C | %11
+w: Al- bi- on- ban|nin- csen oly ab- lak,|mint a hon- nan|A leg- szebb ró- zsa-|szál vi- rít,|a leg- szebb ró- zsa-|
+w: ||||||
+ E2 D"Cm" C3 |] %12
+w: szál vi- rít.|
+w: |
+

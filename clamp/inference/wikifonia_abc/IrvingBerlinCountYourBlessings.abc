@@ -1,0 +1,25 @@
+X:1
+T:Count Your Blessings
+T:Count your blessings instead of sheep
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z G |"Am" c2"Em" B G/E/ |"F" A F"C" G3/2 G/ |"F" A F"C" G G/E/ |"Dm" F D"E7" E3/2 D/ | %5
+w: When|I'm wor- ried and|I cant sleep I|count my bless- ings in-|stead of sheep and|
+"Am" C2 E G |"D7" c2 c A/c/ |"G7" d G3- | G3 G |"Am" c2"Em" B G/E/ |"F" A F"C" G3/2 G/ | %11
+w: I fall a-|sleep count- ing my|bless- ings|* when|my bank- roll is|get- ting small I|
+"F" A F"C" G G/E/ |"Dm" F D"E7" E3/2 D/ |"Am" C2 E G |"D7" c2 c A/c/ |"G7" d4 |"C" c3 c | %17
+w: think of when I have|none at all and|I fall a-|sleep count- ing my|bless-|ings I|
+"Ab" c _B _A G | _B _A G F |"Bbm" _A G"Eb" F _E |"Ab" F3 _E | c _B _A G | _B _A"G7" G3/2 F/ | %23
+w: think a- bout a|nurs- 'ry and I|pic- ture curl- y|heads. and|one by one I|count them as they|
+"C" E E"G7" F _A |"C7" G3 C |"Am" c2"Em" B G/E/ |"F" A F"C" G3/2 G/ |"F" A F"C" G G/E/ | %28
+w: slum- ber in their|beds If|you're wor- ried and|you can't sleep just|count your bless- ings in-|
+"Dm" F D"E7" E3/2 D/ |"Am" C2 E G |"D7" c2 c A/c/ |"G7" d4 |"C" c3 z |] %33
+w: stead of sheep and|you'll fall a-|sleep count ing your|bless-|ings.-|
+

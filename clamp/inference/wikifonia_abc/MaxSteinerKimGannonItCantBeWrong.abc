@@ -1,0 +1,26 @@
+X:1
+T:It Can't Be Wrong
+T:It Can't Be Wrong
+C:Max Steiner
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" F4 | (3E F G E3/2 C/ | E4 | (3D E F D3/2 A,/ |"Gm7" C4 | (3B, C D"G7" E3/2 F/ |"Gm7" A4- | %7
+w: Wrong,|would it be wrong to|kiss,|see- ing I feel like|this,|would it be wrong to|try?|
+"Eb7""C7" A4 |"F" F4 | (3E F G E3/2 C/ | E4 | (3D E F D3/2 A,/ |"Gm7" C4 | (3B, C D"G7" E3/2 F/ | %14
+w: _|Wrong,|would it be wrong to|stay|here in your arms this|way,|un- der this star- ry|
+"Gm7" A4 | z A"D7" B c |"Gm7" d4 |"C7" z E (3E F G |"Fmaj7" c3/2 c/ c2 |"Dm7" z D (3D E F | %20
+w: sky?|If it is|wrong,|then why were you|sent to me,|why am I con|
+"Gm7" B3/2 B/ B2 | z D E F | A4 |"Eb7""C7" G4 |"F" F4 | (3E F G E3/2 C/ | E4 | (3D E F D/ D A,/ | %28
+w: tent to be|with you for-|ev-|er?|So|when I need you so|much,|and I have wait- ed so|
+"Gm7" C4 | z A A B | G4- |"C7b9" G G"Db7" _A"C7" =A |1"F" F4- |"Gm7" F3"C7b9" z :|2"F" F4- | %35
+w: long.|It must be|right,|_ it can't be|wrong.||wrong.|
+ F3 z |] %36
+w: |
+

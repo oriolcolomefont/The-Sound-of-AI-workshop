@@ -1,0 +1,23 @@
+X:1
+T:You Are So Beautiful
+T:You are so beautiful
+T:Billy Preston and Bruce Fisher
+C:Billy Preston, Bruce Fisher
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" z2 A2 A2 A2 |"Bb" AG F4 DC |"F" A8 | z2 A2 A2 c2 |"Bb" AG F4 DC |"F" A6 A_B | c2 dc _AG F2 | %7
+w: You are so|beau- ti- ful to *|me|You are so|beau- ti- ful to *|me cant you|see * * * * *|
+"Bb" z Fdd d2 ^cd |"Am" e2 e4 Ae |"Dm" f2 A2 ffef |"G" a2 g2 f4 |"F" z2 A2 A2 A2 | %12
+w: You're ev- ry thing that I|hope for and whats|more youre ev- ry- thing I|need * *|You are so|
+"Bbm" AG F2 G_DG z |"F" F8- | F2 CC F2 G2 | A2 A2 A2 A2 |"Bb" AG F4 DC |"F" A8 | GFCC F2 G2 | %19
+w: beau- ti- ful ba- by to|me||* Such joy and|hap- pi- ness you *|bring||
+ z2 A2 A2 c2 |"Bb" AG F4 DC |"F" A6 A_B | c2 dc _AG F2 |"Bb" F2 dd dd d2 |"A" z2 ee ee e2 | %25
+w: such joy and|hap- pi- ness you *|bring Just like|a dream * * * *|You're like a guid- ing light|shin- in in the night|
+"Dm" A2 ff e2 f2 |"G7" a8 |:"F" z2 A2 A2 A2 |"Bb" AG F6 :| %29
+w: you're heav- en still to|me|you are so|beau- ti- ful.|
+

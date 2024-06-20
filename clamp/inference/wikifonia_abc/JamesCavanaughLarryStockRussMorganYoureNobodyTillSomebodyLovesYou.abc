@@ -1,0 +1,28 @@
+X:1
+T:You're Nobody 'Till Somebody Loves You
+T:You're Nobody 'Till Somebody Loves You
+C:James Cavanaugh, Larry Stock, Russ Morgan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ E2 |"Am" c2 c2"E7/B" B2"Am/C" A2 |"A7" E2 F4"D7" B2 | G4 z2"D9" D2 |:"G" B4 DG B2 |"B7" A4 F A3 | %6
+w: ||* y to|* You're|no- bod- y 'till|some- bod- y|
+"E7b9" ^G4"E7" B4- |"B7/F#" B6"E7/G#" E2 |"Am" c4 EA c2 |"D7" B4 A F2 E- |"G6" E8- | E6"D+7" D2 | %12
+w: loves you,|* you're|no- bod- y 'till|some- bod- y cares.||* You|
+"Bm7" A A2 A- A3 G |"Bbdim" A A2 A- A3 G |"Am7" G4 E G2 E- | E6 E2 | B B2 B- B3 E | %17
+w: may be king, * you|may pos- sess * the|world and it's gold,|* but|gold wont bring * you|
+"A13" B"A9#5" B2"A9" B- B3 E |"Am7" G4"D7" F A2 E- |"Am7" E6"D7""D+7" D2 |"G" B4 DG B2 | %21
+w: hap- pi- ness * when|you're grow- ing old.|* The|world still is the|
+"B7" A4 ^DF A2 |"E7b9" ^G4"E7" B4- |"B7/F#" B6"E7/G#" E2 |"Am" c4 E c2 B- |"E7" B4 ^G E2 e- | %26
+w: same, you'll nev- er|change it,|* as|sure as the stars|* up a- bove.|
+"Am""E7/B" e8- |"Am/C" e4 z E3 |"C" E4 ^DE F2 |"C#dim" A4 F G2 d- |"G" d8 |"E7" B6 E2 | %32
+w: |* You're|no- bod- y 'till|some- bod- y loves||you, so|
+"Am" c2 c2"E7/B" B2"Am/C" A2 |"A7" E2 F4"D7" B2 |1"G""F9" G8- ||"Eb7" G4"D9" z2 D2 :|2 %36
+w: find your- self some-|bod- y to|love.|* You're|
+"G""Cm7" G8- ||"G6" G6 z2 |] %38
+w: love.||
+

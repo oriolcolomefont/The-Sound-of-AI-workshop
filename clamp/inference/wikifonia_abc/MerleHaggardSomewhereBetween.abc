@@ -1,0 +1,21 @@
+X:1
+T:Somewhere Between
+T:Somewhere between
+T:Merle Haggard
+C:Merle Haggard
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" e2 e3 f | e6 |"F" c2 c3"C" A | G6- | G2 G2 G2 | c2 c3 c | c2 d2 e2 |"G" d6- | d4 cd | %9
+w: Some- where- be-|tween|your heart and|mine|* theres a|win- dow that|I cant see|through|* theres a|
+w: I * you|so|much I cant|let|you go and|some- times I|be- lieve you|love|me But some|
+w: some- where be|tween|your heart and|mine|theres a love|I just cant|* un- der-|stand|* Oh ~its|
+"C" e4 f2 |"C7" e4 d2 |"F" c2 c3"C" A | G6 | c2 c3 c |"G" d2 e2 d2 |"C" c6 |"F" z6 |"C" z6 |] %18
+w: wall so|high it|reach- es the|sky|some- where be-|tween me and|you|||
+w: where be-|tween your|heart and mine|theres|a door with-|out an- y|key.|||
+w: there for|awhile then|fades like a|smile|and I'm,left in,the|mid dle a-|gain.-|||
+

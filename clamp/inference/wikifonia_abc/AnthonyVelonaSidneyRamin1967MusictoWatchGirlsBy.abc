@@ -1,0 +1,51 @@
+X:1
+T:Music to Watch Girls By
+T:Music to Watch Girls By
+T:Anthony Velona & Sidney Ramin, 1967 Arrangement:  Larry Johnson, 2012
+T:jazquint.sty  
+C:Anthony Velona & Sidney Ramin 1967
+Z:All Rights Reserved
+L:1/8
+Q:1/4=152
+M:4/4
+K:F#min
+V:1 treble nm="Voice"
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 |"F#m" z4"F#maj" z4 |"F#m7" z4 z"F#m6/C#" E=F^F ||"F#m" G2 GF"F#maj" G2 GF | %7
+w: |||||* * The|boys watch the girls while the|
+"F#m7" G2 GF"F#m6/C" GFCF |"G#7" G2 F^B,- B,4 | z8 |"Bm" c2 BF- F4 | z3 F EDCB, | %12
+w: girls watch the boys who watch the|girls go by _||eye to eye _|they so lemn ly con|
+"G#7" ^B,3 B, B, B,2 C- |"C#7" C4 z ^EF^^F |"F#m" G2 GF"F#maj" G2 GF |"F#m7" G2 GF"F#m6/C#" GFCF | %16
+w: vene to make the scene|_ which is the|name of the game watch a|guy watch a dame on an y|
+"G#7" G2 F^B,- B,4{z^d} | g2 f^B z4 |"Bm" c2 BF- F4 | z3 F EDCB, |"G#7" ^B,3 B, B, B,2 C- | %21
+w: street in town _|ba da da|up and down _|and o ver and a|cross ro mance is boss|
+"C#7" C4 z4 ||"F#" z e3 c2 z2 |"Bm" z d3 B2 z2 |"E" z BBc d d2 c- |"A" c4 z4 |"C#7" z B3 G2 z2 | %27
+w: _|guys talk|girls talk|it hap pens ev ery where|_|eyes watch|
+"F#m7" z A3 F2 z2 |"G#7" z GGG G G2 G- |"C#" G8 | z4 z ^EF^^F |"F#m" G2 GF"F#maj" G2 GF | %32
+w: hips move|with ten der lov ing care|_|it's keep ing|track of the pack watch ing|
+"F#m7" G2 GF"F#m6/C" GFCF |"G#7" G2 F^B,- B,4{z^d} | g2 f^B z4 |"Bm" c2 BF- F4 | z3 F EDCB, | %37
+w: them watch ing back that makes the|world go round _|ba da da|what's that sound _|each time you hear a|
+"G#7" ^B,3 B, B, B,2 C- |"C#7" C4 z C^D^E || F2 FF F F2 F- | F2 z2 z4 | z8 | %42
+w: loud col lec tive sigh|_||||
+[K:Gmin]"Gm" A2 AG"Gmaj" A2 AG |"Gm7" A2 AG"Gm6/Db" AGDG |"A7" A2 G^C- C4 | z8 |"Cm" d2 cG- G4 | %47
+w: boys watch the girls while the|girls watch the boys who watch the|girls go by _||eye to eye _|
+ z3 G FEDC |"A7" ^C3 C C C2 D- |"^Trumpet Solo""D7" D4 z ^FG^G |"Gm" A2 AG"Gmaj" A2 AG | %51
+w: they so lemn ly con|vene to make the scene|_||
+"Gm7" A2 AG"Gm6/D" AGDG |"A7" A2 G^C- C4 | z8 |"Cm" d2 cG- G4 | z3 G FEDC |"A7" ^C3 C C C2 D- | %57
+w: ||||||
+"D7" D4 ||"G" z f3 d2 z2 |"Cm" z e3 c2 z2 |"F" z ccd e e2 d- |"Bb" d4 z4 |"D7" z c3 A2 z2 | %63
+w: |guys talk|girls talk|it hap pens ev ery where|_|eyes watch|
+"Gm7" z B3 G2 z2 |"A7" z AAA A A2 A- |"D" A8 | z4 z ^FG^G |"Gm" A2 AG"Gmaj" A2 AG | %68
+w: hips move|with ten der lov ing care|_|it's keep ing|track of the pack watch ing|
+"Gm7" A2 AG"Gm6/Db" AGDG |"A7" A2 G^C- C4{z=e} | a2 g^c z4 |"Cm" d2 cG- G4 | z3 G FEDC | %73
+w: them watch ing back that makes the|world go round _|ba da da|what's that sound _|each time you hear a|
+"A7" ^C3 C C C2 D- |"D7" D4 z D=E^F |"Gm" G2 GG"Cm" G G2 G- |"Gm" G2 z2 z4 | z8 | z8 | z6 z G | %80
+w: loud col lec tive sigh|_ they're mak ing|mu sic to watch girls by|_|||the|
+"Gm" A2 AG"Gmaj" A2 AG |"Gm7" A2 AG"Gm6/Db" AGDG |"A7" A2 G^C- C4 | z8 |"Cm" d2 cG- G4 | %85
+w: boys watch the girls while the|girls watch the boys who watch the|girls go by _||eye to eye _|
+ z3 G FEDC |"A7" ^C3 C C C2 D- |"D7" D4 z ^F"^repeat and fade"G^G |"Gm" A2 AG"Gmaj" A2 AG | %89
+w: they so lemn ly con|vene to make the scene|_ la la la|la la la la la la|
+"Gm7" A2 AG"Gm6/Db" AGDG |"A7" A2 G^C- C4 |"Cm" d2 cG- G4 | z3 G FEDC |"A7" ^C3 C C C2 C- | C8 |] %95
+w: la la la la la la la|la la la _|la la la _|la la la la la|la la la la la|_|
+

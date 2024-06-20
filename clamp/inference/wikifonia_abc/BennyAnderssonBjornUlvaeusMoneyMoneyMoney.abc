@@ -1,0 +1,72 @@
+X:1
+T:Money Money Money
+T: 
+T:ABBA
+T: 
+C:Benny Andersson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" eeee ee E/A/c/e/ |"F7" _eeee ee F/A/c/e/ |"Dm" d2 cA"E7" [D^Gc] [DGc]2"Am" A- | %3
+w: |||
+w: |||
+ A4 !arpeggio![Acea] z z2 | A,/B,/C/E/ A,/B,/C/E/ A,/B,/C/E/ A,/B,/C/E/ | %5
+w: ||
+w: ||
+ A,/B,/C/E/ A,/B,/C/E/ A,/B,/C/E/ z E |:"Am" EFFE EFFE |"E7/G#" EFFE EA((A^G)) |"E7" z4 d d2 (d | %9
+w: * * * * * * * * * * * * I|work all night, I work all day, to|pay the bills I have to pay _|ain't it sad|
+w: * * * * * * * * * * * * A|man like that is hard to find but|I can't get him off my mind _|ain't it sad|
+"Am" c2) z2 z2 z E |"Am" EFFE EFFE |"E7/G#" EFFE EA((A^G)) |"E7" z4 f f2 (f |"Am" e2) z2 z3 E | %14
+w: _ &|still there ne- ver seems to be a|sin- gle pen- ny left for me _|that's too bad|_ So|
+w: _ &|if he hap- pens to be free I|bet he would- n't fan- cy me _|that's too bad|_ So|
+ d d2 c- c2 z c | B B2 (c/B/ A2)"Am/G" z2 |"Bb/F" z d d2"F" c c2 c | B B2 (c/B/ A2)"C/E" z A | %18
+w: in my dreams _ I|have a plan _ _|If I got me a|weal- thy man _ _ I|
+w: I must leave, _ I'll|have to go _ _|To Las Ve- gas or|Mo- na- co _ _ &|
+"Dm" ABBA ABBA |"B7/D#" ABBA Ac(cB) | !>!EF!>!DE !>!CDB,!>!E | F!>!DE!>!C D!>!B, C2 || %22
+w: would- n't have to work at all, I'd|fool a- round & have a ball *|||
+w: win a for- tune in a game, my|life will ne- ver be the same *|||
+"Am" ABcA Bc [CE]"B7"[B,^D]- | [B,D]2 BA Bc [A,^D]"E7"[^G,=D]- | [G,D]2 BA"E7" c c2 A- | %25
+w: Mo- ney, mo- ney, mo- ney _ _|_ must be fun- ny _ _|_ In the rich man's world|
+w: |||
+"Am" A2 z2 E/D/C/A,/ CA, | ABcA Bc [CE]"B7"[B,^D]- | [B,D]2 BA Bc [A,^D]"E7"[^G,=D]- | %28
+w: _|Mo- ney, mo- ney, mo- ney _ _|_ al- ways sun- ny _ _|
+w: |||
+ [G,D]2 BA"E7" c c2 A- |"Am" A2 z2 E/D/C A(f- |"Dm" f4- fg/f/) de- |"E7" e8 |"A7" z2 fe feA"Dm"d- | %33
+w: _ In the rich man's world|_ _ _ _ A- ha,|_ _ _ _ a- ha.|_|all the things I could do|
+w: |||||
+ d4"F7" !>!c2"E7" !>!B2 |"Am" ABcA Bc[CE][DF]- |"Dm" [DF]2 BA"E7" c c2 A- ||1 %36
+w: _ If I|had a lit- tle mo- ney _ _|_ It's a rich man's world|
+w: |||
+"Am" A2 ee ee E/A/c/e/ |"F7" _eeee ee F/A/c/e/ |"Dm" z2 cA"E7" c c2 A- | %39
+w: |||
+w: |||
+ A2 A,/B,/C/E/ A,/B,/C/E/ A,/B,/C/E/ | A,/B,/C/E/ A,/B,/C/E/ A,/B,/C/E/ z E :|2 %41
+w: ||
+w: ||
+"Am" A2 ee ee E/A/c/e/ ||"F7" _eeee e4 ||[K:Db]"Bbm" BcdB cd[DF]"C7"[C=E]- | %44
+w: ||Mo- ney, mo- ney, mo- ney _ _|
+w: |||
+ [CE]2 cB cd[B,=E]"F7"[=A,_E]- | [A,E]2 cB"F7" d d2 B- |"Bbm" B2 z2 F/E/D/B,/ DB, | %47
+w: _ must be fun- ny _ _|_ In the rich man's world|_|
+w: |||
+ BcdB cd [DF]"C7"[C=E]- | [CE]2 cB cd [B,=E]"F7"[=A,_E]- | [A,E]2 cB"F7" d d2 B- | %50
+w: Mo- ney, mo- ney, mo- ney _ _|_ al- ways sun- ny _ _|_ In the rich man's world|
+w: |||
+"Bbm" B2 z2 F/E/D B(g- |"Ebm" g4- ga/g/) ef- |"F7" f8 |"Bb7" z2 gf gfB"Ebm"e- | %54
+w: _ _ _ _ A- ha,|_ _ _ _ a- ha.|_|all the things I could do|
+w: ||||
+ e4"Gb7" !>!d2"F7" !>!c2 |"Bbm" BcdB cd[DF][EG]- |"Ebm" [EG]2 cB"F7" d d2 B- || %57
+w: _ If I|had a lit- tle mo- ney _ _|_ It's a rich man's world|
+w: |||
+"Bbm" B2 ff ff F/B/d/f/ |"Gb7" _ffff ff G/B/d/f/ |"Ebm" z2 dB"F7" d d2 B- | %60
+w: |||
+w: |||
+"Bbm" B2 F/B/d/f/ b z z2 |] %61
+w: |
+w: |
+

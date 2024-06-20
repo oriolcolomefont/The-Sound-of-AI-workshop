@@ -1,0 +1,31 @@
+X:1
+T:Entre le Boeuf et l'Ane Gris
+T:Entre le Boeuf et l'Âne Gris
+T:"Between the ox and ass so grey"
+T:French traditional carol
+T:early 16th century
+T:
+T:
+T:
+T:
+C:traditional French carol (early 16th century)
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+|:"Em""^mp""^Andante" E2"^dolcissimo" EF |"Em7" G2 E2 |"C/E" B2 B2 |"B/E" B4 |"Em" e4 |"B7" B4 | %6
+w: 1.~En- tre le|boeuf et|l'â- ne|gris|Dort,|dort,|
+w: 2.~En- tre les|deux bras|de Ma-|rie|Dort,|dort,|
+"Em" BA GA |"B" B4 |"Em" E"D"F"D" GA |"D/C" A4 |"B7" BA GF |"C" E4 |1"Am" EF GA ||"G/C" B>G AB | %14
+w: dort le pe- tit|fils,|Mil- le~an- ges di-|vins,|Mil- le sé- ra-|phins,|Vo- lent à l'en-|tour\_\_ * de ce|
+w: le Fruit de la|Vie,|Mil- le~an- ges di-|vins,|Mil- le sé- ra-|phins,|||
+"C""D""^1." G2"D" F2 |"Epower" E4 :|2"Am""^2a volta rallentando e diminuendo" EF GA || %17
+w: Dieu d'a-|mour.||
+w: ||Vo- lent à l'en-|
+"G/C" B>G AB |"C/D" G2"C/D" F2 |"D6""E9" !fermata!E4 |] %20
+w: |||
+w: tour\_\_ * de ce|Dieu d'a-|mour|
+

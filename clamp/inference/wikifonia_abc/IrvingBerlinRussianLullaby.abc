@@ -1,0 +1,28 @@
+X:1
+T:Russian Lullaby
+T:Russian Lullaby
+T:Irving Berlin
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Dm" D4- DE |"F+/Db" F4- FG |"F/C" A4- AF |"Dm/B" A4-"Gm/Bb" AF |"Dm/A" F4- FA |"E7" E4- EA | %6
+w: Ev * ry|night * you'll|hear * her|croon * A|Russ- * ian|lull * a-|
+"Dm" D6- |"Abdim""Gdim" D6 |"F" F4- FG |"Am/E" A4- AB |"F7/Eb" c4- cA |"Dm" c4-"F+/Db" cB | %12
+w: by||Just * a|lit- * tle|plain- * tive|tune * When|
+"F/C" A4- Ac |"Dbm" ^G4- Gc |"Dm" A6- |"Esus4" A6 |"A7" A4- A=B | ^c4- cd |"Fdim" f6 |"A7/E" e6 | %20
+w: ba- * by|starts- * to|cry||Rock- * a|bye- * my|ba-|by|
+"Dm" d6 |"F7" c4- cA |"Gm/Bb" G6 |"Bb" F4"C9" G2 |"Dm/A" A4- A^G | A4- AB |"C9/E" G4- G^F | %27
+w: Some|where * there|may|be a|land * That's|free * for|you * and|
+"Gm/Bb" G4 AG |"Dm/A" F4- FA |"A7" E4- EA |1"Dm" D2 d2"C" c2 ||"Am" A2"Gm" G2"A7" E2 :|2 %32
+w: me And a|Russ- * ian|lull- * a-|by. * *||
+"^Dm" d6- || d6 |] %34
+w: ||
+

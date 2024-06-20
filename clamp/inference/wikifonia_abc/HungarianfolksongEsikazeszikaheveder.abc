@@ -1,0 +1,16 @@
+X:1
+T:Esik az eső, ázik a heveder
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A,2 A,2 A,B, C2 |"Dm" DC B,2"Am" CB, A,2!fine! |:"C" C2 C2 CE G2 |"F" AF D2"C" CD E2!D.C.! :| %4
+w: E- sik az e- sõ,|á- zik a he- ve- der,|Gyen- ge lá- ba- mat,|szo- rít- ja a ken- gyel,|
+w: Gyen- ge lá- ba- mat|vas- ken- gyel szo- rít- ja,|Ne- néz ka- ra- bély|nyom- ja a vál- la- mat.|
+

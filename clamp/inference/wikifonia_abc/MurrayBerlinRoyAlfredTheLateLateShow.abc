@@ -1,0 +1,32 @@
+X:1
+T:The Late Late Show
+T:The Late Late Show
+T:Murray Berlin
+T:Roy Alfred
+C:Murray Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+|: z"B9" _C2 _D E>_GA>G |"Bb9" c2 =G=C- C2 z2 |"B9" z _C2 _D E>_GA>G |"Bb9" c2 =G=C- C2 z2 | %4
+w: Gee! it's co- sy in the|park to- night. *|When you cud- dle up and|hold me tight. *|
+w: Hear the cra- zy mu- sic|in the trees. *|See the flo- wers dan- cing|in the breeze. *|
+"Eb9" B2 c"D9"=A- A2"Db9" _c_A- | A2 _B"C9"G- G4 |"F9" z G3 C>DE>F |1"B9" _G2 _G"Bb9"F- F2 z2 :|2 %8
+w: Stars a- bove * they seem|* to know. *|We're put- ting on the|late late show. *|
+w: Old Man Moon * be- gins|* to glow. *|He's join- ing in the||
+"Bb9" G2 G"Eb6"E- E2 z2 ||"Ab" E2 E2 E2 E2 |"Adim" E _G3 z4 |"Eb6" c2 c2 cBc"Eb7"B- | B4 z4 | %13
+w: late late show. *|Birds that should be|dream- ing|start in chirp- ing a song.||
+w: |||||
+"Ab" E2 EC E2 E2 |"Adim" E _G3- G2 z B |"Eb" c2 z2 c2 z2 |"Edim" _dB"Bb7" _d2 Bc z2 | %17
+w: While fire * flies are|gleam- ing * we|kissed, kissed|all * night long. *|
+w: ||||
+"B9" z _C2 _D E>_GA>G |"Bb9" c2 =G=C- C2 z2 |"B9" z _C2 _D E>_GA>G |"Bb9" c2 =G=C- C2 z2 | %21
+w: Then we am- ble back to|my front door. *|Say good- night and then we|kiss some more. *|
+w: ||||
+"Eb9" B2 c"D9"=A- A2 _c"Db9"_A- | A2 _B"C9"G- G4 |"F9" z G3 C>DE>F |"Bb9" G2 G"Eb"E- E2 z2 |] %25
+w: Guess you know * I love|* you so. *|It start- ed on the|late late show. *|
+w: ||||
+

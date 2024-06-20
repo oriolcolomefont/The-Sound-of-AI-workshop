@@ -1,0 +1,16 @@
+X:1
+T:Pingvin
+T:Pingvin 
+T:Hungarian folk song
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A3 B cB A2 | e3 d cB A2 |"G" G4"E" e4 |"Am" A2 A2 A4 ::"C" c2 c2 c2 e2 | g3 f e2 d2 | %6
+ c3 e g3 f |"G" e2 e2 edcB |"Am" A3 B cB A2 | e3 d cB A2 |"G" G4"E" e4 |"Am" A2 A2 A4 :| %12
+

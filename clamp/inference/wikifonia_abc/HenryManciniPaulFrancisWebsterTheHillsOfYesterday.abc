@@ -1,0 +1,24 @@
+X:1
+T:The Hills Of Yesterday
+T:The Hills Of Yesterday
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2"C" E3/2 D/ | C3 D | F E G"G" d |"Am" c4- | c2 A B |"F" c2 d c |"Em" B2 A G |"F#m7b5" E4- | %8
+w: Once we|strolled the|hills of yes- ter|day.|_ We were|young in those|hills far a-|way.|
+ E2 D C |"C" D E2 A |"Em" G3 E |"Am" E D C D |"Em" E G A B |"F" c B c3/2 A/ |"Em" G E F G | %15
+w: _ Through the|good times and|bad my|heart is ver- y|glad that you and|I once shared a|dream so long a-|
+"Dm" D4- |"G9sus4" D z"G7" E3/2 D/ |"C" C3 D | F E G"G" d |"Am" c4- | c2 A B |"F" c2 d c | %22
+w: go.|_ Aut- umn|ends, the|wil- low bends with|snow;|_ But wher-|ev- er you|
+"Em" B2 A G |"F#m7b5" A4- | A2 A B |"C" c3 E/F/ |"G7sus4" G3"G7" E/F/ |"C" G G"C6" A"Em" B | %28
+w: are I must|go.|_ Take me|back once a-|gain to the|hills of yes- ter-|
+"Am" d3 c/B/ |"F" A3 F/E/ |"G9sus4" D3 C |1"C" C4- ||"Dm7" C z"G9" E3/2 D/ :|2"C" C4- || C4- | %35
+w: day where you|first stole my|heart a-|way.|_ Once we|way.|_|
+ !fermata!C4 |] %36
+w: |
+

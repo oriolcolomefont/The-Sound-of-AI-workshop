@@ -1,0 +1,42 @@
+X:1
+T:Sundown
+T:Sundown
+T:Gordon Lightfoot
+T:Gordon Lightfoot
+C:Gordon Lightfoot
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+ x4 z2 | GA |:"^G" BBBB B2 AG | A G2 B- B2 ^FG |"D7" A2 AG AGAB |"G" A2 GG- G/E/D z2 | z2 d2 d3 B | %7
+w: |I can|see her ly- in' back in her|sa- tin dress, * in a|room where you do * what you|don't con- fess * * *|Sun- down you|
+w: ||look- in' like a queen in a|sail- or's dream, * and she|don't al- ways say * what she|real- ly means * * *|Some- times I|
+w: |||||||
+"C" cBAG- G2 EG |"F" A2 A_B AG=FE |"G" =FGGG G/E/D z2 | z2 d2 d3 B |"C" cBAG- G2 EG | %12
+w: bet- ter take care * if I|find you bin creep- in' round *|my back * stairs * * *|Sun- down, you|bet- ter take care * if I|
+w: think it's a shame * when I|get feel- in' bet- ter when I'm|feel- in' no pain * * *|Some- times I|think it's a shame, * when I|
+w: |||||
+"F" A2 A_B AG=FE |"G" =FGGG- G4 |1 z4 z2 GA :|2 z8 || z8 | z4 z2 GA |:"G" BBBB B2 AG | %19
+w: find you been creep- in' round *|my back * stairs *|She's been|||I can|pic- ture ev'- ry move that a|
+w: get feel- in' bet- ter when I'm|feel- in no pain. *|||||see her look- in' fast in her|
+w: |||||||
+ AGGB- B2 ^FG |"D7" A2 AG AGAG |"G" A G2 G- G4 | z2 d2 d3 B |"C" cBAG- G2 EG |"F" A2 A_B AG=FE | %25
+w: man * could make * get- ting|lost in her lov- in' is your|first mis- take. *|Sun- down, you|bet- ter take care * if I|find you bin creep- in' round *|
+w: fa- ded * jeans, * she's a|hard lov- in' wo- man, got me|feel- in' mean. *|Some- times I|think it's a shame * when I|get feel- in' bet- ter when I'm|
+w: ||||||
+"G" =FGGG- G/E/D z2 | z2 d2 d3 B |"C" cBAG- G2 EG |"F" A2 A_B AG=FE |"G" =FGGG- G4 |1 z4 z2 GA ||2 %31
+w: my back * stairs. * * *|Some- times, I|think it's a sin * when I|feel like I'm win- nin' when I'm|los- in' a- gain. *|I can|
+w: feel- in' no pain * * *|Sun- down, you|bet- ter take care * if I|find you bin creep- in round *|my back * stairs *||
+w: ||||||
+ z2 d2 d3 B ||"C" cBAG- G2 EG |"F" A2 A_B AG=FE |"G" =F G2 G- G/E/D z2 | z8 | z2 d2 d3 B | %37
+w: ||||||
+w: Sun- down, you|bet- ter take care * if I|find you bin creep- in round *|my back stairs _ _ _||Some- times I|
+w: ||||||
+"C" cBAG- G2 EG |"F" A2 A_B AG=FE |"G" =FGGG G/E/D z2 | z8 | z8 | z8 | z8 | z8 |] %45
+w: ||||||||
+w: think it's a sin * when I|Feel like I'm win- nin' when I'm|los- in a gain _ _ _||||||
+w: ||||||||
+

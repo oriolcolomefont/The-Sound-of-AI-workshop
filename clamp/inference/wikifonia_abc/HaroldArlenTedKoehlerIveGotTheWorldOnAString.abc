@@ -1,0 +1,36 @@
+X:1
+T:I've Got The World On A String
+T:I've Got The World On A String
+T:Music by HAROLD ARLEN
+T:Lyrics by TED KOEHLER
+T:(c) 1932 (Renewed) TED KOEHLER MUSIC and S.A. MUSIC CO.
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ C<F A/ |:"F" d>c"Eb7"_e>"D7"d- d4 |"Gm7" c>Bf>B"Bbm6" A G3 |"Am7" G>Fc>F"Bb7#11" E F2 E- | %4
+w: I've got the|world on a string _|sit- tin' on a rain- bow,|got the string a- round my fin-|
+w: |song that I sing, _|I can make the rain go,|an- y- time I move my fin|
+"Am7" E4"D7b9" _E4 |"Gm7" D2 D2"C7" C2 DD- |"Gm7" DC- C2"C9" A2 A2 |1"F""D7b9" F8 | %8
+w: _ ger.|What a world, what a|_ life _ I'm in|love.|
+w: _ ger,|Luck- y me, can't you|_ see, _ I'm in||
+"G7" z4"C7b9" z3/2 C<FA/ :|2"F""Eb7" F8- ||"F" F>AA>A A>AA>=B- |"Em7" =B8 | %12
+w: I've got a|love?|* Life is a beau- ti- ful thing,|_|
+w: ||||
+"A13" z3/2 A<AA/"A+7" A>AA=B- |"D11" =B8 |"D9" z3/2 A<AA/ A>A=B>e |"G13" =B8 | %16
+w: as long as I hold the string,|_|I'd be a sil- ly so and|so,|
+w: ||||
+"G+7" z3/2 G<GG/ G>GGA- |"Gm7" A8- |"C7" A4 z3/2 C<FA/ |"F" d>c"Eb7"_e>"D7"d- d4 | %20
+w: if I should ev- er let it|go.|_ I've got the|world on a string, _|
+w: ||||
+"Gm7" c>Bf>B"Bbm6" A G3 |"Am7" G>Fc>F"Bb7#11" E F2 E- |"Am7" E4"D7b9" _E4 |"Gm7" D2 D2"C7" C2 DD- | %24
+w: sit- tin' on a rain- bow,|got the string a- round my fin|_ ger,|What a world, what a|
+w: ||||
+"Gm7" DC- C2"C9" A2 A2 |"F6" F8- | F2 z2 z4 |] %27
+w: _ life, _ I'm in|love.|_|
+w: |||
+

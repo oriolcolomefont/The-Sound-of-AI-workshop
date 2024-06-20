@@ -1,0 +1,26 @@
+X:1
+T:Broadway Melody
+T:Broadway Melody
+T:Nacio Herb Brown
+T:Arthur Freed
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Quick-Step tempo" z2 z B, ||"Eb" C3 E | G3 d |"Fm7" c2"Bb7" d2 | B3"Bb+7" B, |"Eb" C3 E | %6
+w: Don't|bring a|frown to|old Broad-|way, You've|got to|
+ G2"Bb6" d2 |"Fm7" c4 |"Bb7" B2 z B, |"Eb" C3 E | G3"Ebm" B |"Bb" d2 f2 | f3 f |"F7" f2 e2 | %14
+w: clown on|Broad-|way. Your|trou- bles|there are|out of|style, For|Broad- way|
+ c3"Abm" =B |"Bb7" B2"Fm7""Fm7b5" A2 |"Bb7" F2 z B, |"Eb" C3 E | G3 d |"Fm" c"Bb7" d3 | B3 B | %21
+w: al- ways|wears a|smile. A|mil- lion|lights they|flick- er|there, A|
+"Eb7" e3 c | e3 c |"Ab" e c2 A- | A2 z A |"C7" c3 =B | c2 c =B |"Fm" c A2 F- | F2"F7" c"Bb7" d | %29
+w: mil- lion|hearts beat|quick- er there,|* No|skies of|grey on the|great White Way,|* That's the|
+"F7" e2 c2 |"Bb7" e d3 |"Eb""Ab7" e4- |"Eb" e z z2 |] %33
+w: Broad- way|mel- o-|dy.-||
+

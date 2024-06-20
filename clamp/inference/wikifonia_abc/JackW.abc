@@ -1,0 +1,44 @@
+X:1
+T:Majesty
+T:Majesty
+T:Jack W. Hayford
+C:Jack W. Hayford
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 65
+V:1
+!f!"Bb" z4 | z2"Cm7" (3z z"Bb/D" z |"Eb" z2 z"G7/D" z |"Cm" z2"Edim7" z2 |"Bb6/F" z4 |"C9/E" z4 | %6
+w: ||||||
+"Cm7" z4 |"F7" z4 ||"Bb" B3/2 F/ F2- | F2"Cm7" (3B B"Bb/D" B |"Eb" B3/2 G/ G2- | %11
+w: ||Maj es ty|* wor ship his|mag es ty|
+ G2"Eb/G" B"Ebm6/Gb" c |"Bb/F" d d2 F/F/ |"Gm7" B B"C7" (3B A B |"Cm7" c4- |"F7" c4 | %16
+w: * Un to|Je sus be all|glo ry hon or and|praise||
+"Bb" B3/2 F/ F2- | F2"Cm7" (3B B"Bb/D" B |"Eb" B3/2 G/ G-"G7/D" G- |"Cm" G2"Cm7b5" (3e- d c | %20
+w: Maj es ty|* King dom au|thor it y *|* flows from His|
+"Bb/F" d2"Gm7" (3d c B |"Cm" c2"F7" (3c B A |"Bb7" B2-"Eb/Bb" B-"Ebm6/Bb" B- | %23
+w: throne unto His own|His an the ms|raise * *|
+"Bb" B2"Dm" A"Dbdim7" B |"Cm7" c2 (3E G B |"F7" c3/2 c/"Eb/G" B"F/A" c |"Bb" d2 B2- | %27
+w: * so ex|alt lift up on|high the name of|Je sus|
+"Gm7" B2"Eb" A"Bb/D" B |"Cm" c2"Eb/Bb" (3E G A |"Am7b5" c3/2 c/ (3c B c |"Dsus4" d2-"D" d2 | %31
+w: * mig ni|fy come glo ri|fy Christ Je Sus the|King! *|
+"F7" z4 |"Bb" B3/2 F/ F2- | F2"Cm7" (3B B"Bb/D" B |"Eb" B3/2 G/ G-"G7/D" G- | %35
+w: |Maj es ty|* wor ship His|Maj es ty *|
+"Cm" G2"Cm7b5" (3e d c |"Bb/F" d2"Gm7" (3d c B |"Cm" c2"F7" (3c B A | %38
+w: * Je sus who|died now glo i|fied King of all|
+"Bb7" B2-"Eb/Bb" B-"Ebm6/Bb" B- |"Bb" B2"Dm" A"Dbdim7" B |"Cm7" c2 (3E G B | %41
+w: Kings * *|* so ex|alt lift up on|
+"F7" c3/2 c/"Eb/G" B"F/A" c |"Bb" d2 B2- |"Gm7" B2"Eb" A"Bb/D" B |"Cm" c2"Eb/Bb" (3E G B | %45
+w: high the name of|Je sus|* mag ni|fy come glo ri|
+"Abmaj7" c3/2 c/ (3c B c |"Dsus4/A" d2-"D" d2- |"G7" d3 z ||[K:C]"C" c3/2 G/"C/B" G2- | %49
+w: fy Christ Je sus the|King *||Maj es ty|
+"Am7" G-"C/G" G"F" (3c c"C/E" c |"F" c3/2 A/ A-"A7" A- |"Dm" A2"Dm7b5" (3f e d | %52
+w: * * wor ship His|Maj es ty *|* Je sus who|
+"C/G" e2"Am7" (3e d c |"Dm" d2"G7" (3d c B |"Am" c2-"C/G" c2- |"Fm/Ab" c-"C/G" c"Fm" (3f e d | %56
+w: died now glo i|fied King of all|kings *|* * Je sus who|
+"C/G" e2 (3e d c |"Gm7" d2 (3d c B |"Db69" c4- |"C69" c4- |"C" c2 z2 |] %61
+w: died now glo i|fied King of all|kings.|||
+

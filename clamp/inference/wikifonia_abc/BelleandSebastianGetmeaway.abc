@@ -1,0 +1,26 @@
+X:1
+T:Get me away
+C:Belle and Sebastian
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"C" G3 E2 FGF- |"G" F E2 D2 C2 D- |"Am" D E2 C2 DED- |"Em" D B,2 E2 B,2 C- |1"F" C3 A,2 B,CG,- || %5
+w: Oh, get me a- way|* from here I'm dy|* ing, play me a song|* to set me free|* they ne- ver write|
+w: * here on my own|* now af- ter hou|* rs, here on my own|* now on a bu-||
+"C" G, C2 C2 G,2 A,- |"F" A, C2 C2 D2 D- |"G" D E2 E2 F2 G :|2"F" C3 A,2 B,CG,- || %9
+w: * them like they used|* to so it may|* as well be me|s, think of it this|
+w: ||||
+"C" G, C2 C2 G,2 A,- |"D" A, C2 C2 D2 D- |"F" D E2 E2 F2 G- |"G" G6 GG |"F" G F2 E2 F2 F- | %14
+w: * way: you could ei|* ther be suc- cess-|* ful or be us|* with our|win- ning smiles and us|
+w: |||||
+"G" F G4 G G2 |"F" G F2 E2 F2 G- |"G" G4 z G G2 |"F" G2 F2 E F2 F- |"G" F G6 z | G F2 E2 F2 F- | %20
+w: * * with our|cat- chy tunes and us|* now we're|pho- to- ge- nic you|* know|we don't stand a chance|
+w: ||||||
+"C" F3 E4 C- | C7 z |] %22
+w: * * yeah.||
+w: ||
+

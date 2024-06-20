@@ -1,0 +1,52 @@
+X:1
+T:SPEEDWAY
+C:Boorer
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 A2 cc-cc- |"Dm" c2 z2 z ABc |"F" A2 z2 z2 AA | dc-cA- ABcc- |"Bb" c2- D4 !fermata!z2 | %5
+w: And when you _ slam|_ down the ham|mer can you|see it _ in _ your _ heart|_ _|
+"Dm" z2 z2 z2 z2 |"C" z2 z2 z2 z2 |"Bb" z2 z2 z2 z2 |"F" z2 z2 z2 z2 |"Dm" z2 A2 c2 dc- | %10
+w: ||||All of the rum|
+"C" cc- c2 dcBA- |"Bb" AF F2- FAAc |"F" c3 A Ac c2 |"Dm" z2 Ac c2 c2 |"C" d2 c2- cA-AG- | %15
+w: _ ors _ keep ing me ground|_ ed _ _ I nev er|said I nev er said|That they were com|plete ly _ un _ found|
+"Bb" GF D4 z2 | z2 A2 AB-Bc- |"Dm" c2 z2 z ABc | A2 z2 z2 z2 |"F" z2 z2 A2 A2 | dc-cA- AB-cc- | %21
+w: _ _ ed|So when you _ slam|_ down the ham|mer|can you|see it _ in _ your _ heart|
+"Bb" c2 D4 z2 | F2 F2 FF- F2 |"A" E6 z2 | z2 A2 c2 c2 |"Dm" cA- A4 z2 | z2 z2 A2 B2 | %27
+w: _ _|can you delve so _|low|and when your|stand ing _|on my|
+"F" c A4 A A2 | A A2 B2 A2 F- |"Bb" F8 | F6- G2- |"A" E8 | z2 z A- AA-AB |"Dm" c4 BA-AB | %34
+w: fin gers Can you|see it in your heart|_|Ahhh _|_|and _ when _ you|try to break _ my|
+ c A2 z2 A B-B |"F" c- c4 A A2 | A2 A2 B2 A2 |"Bb" F8- | F6 FG |"A" E8 | z8 |"Dm" z2 A2 c2 dc- | %42
+w: spir it it won't _|work _ cuz there's|noth ing left to|break|_ an y|more||All of the rum|
+"C" cc- c2 dcBA- |"Bb" AF F2- FAAc |"F" c3 A Ac c2 |"Dm" z2 Ac c2 c2 |"C" d2 c2- cA-AG- | %47
+w: _ ors _ keep ing me ground|_ ed _ _ I nev er|said I nev er said|That they were com|plete ly _ un _ found|
+"Bb" GF D4 z2 | z2 z A c c3- |"Dm" c2 z2 A2 c2- | c2 A2 c2 B2 |"F" A2 F2 z4 | z2 c2 c2 B2 | %53
+w: _ _ ed|You won't sleep|_ Un til|_ the earth that|wants me|Fi nal ly|
+"Bb" A2 F2 z4 | z E- E2 EFEE- |"A" E2 z2 z4 | z2 z A c c3- |"Dm" c2 z2 A2 c2- | c2 A2 c2 cB | %59
+w: has me|oh _ you've done it now|_|You won't rest|_ Un til|_ the hearse that be|
+"F" A2 F2 z4 | z2 c2 c2 B2 |"Bb" A2 F2 z4 | z E- E2 EFEE- |"A" E2 z2 z4 | z2 AA c c3- | %65
+w: comes me|Fi nal ly|has me|oh _ you've done it now|_|and you won't smile|
+"Dm" c2 z2 z2 A2 | c2 A2 cd c2- |"F" c2 z2 z2 A2 | c2 z2 c2 B2 |"Bb" AF z2 z2 G2 | %70
+w: _ Un|til my lov ing mouth|_ is|shut good and|prop er for|
+ AF z2 z2 !fermata!z2 |:"Dm" z2 z2 z2 z2 |"C" z2 z2 z2 z2 |"Bb" z2 z2 z2 z2 |"F" z2 z2 z2 z2 :| %75
+w: ev er|||||
+"Dm" z2 A2 c2 dc- |"C" cc- c2 dcBA- |"Bb" AF F2- FAAc |"F" c3 A Ac c2 |"Dm" z2 Ac c2 c2 | %80
+w: All of the rum|_ ors _ keep ing me ground|_ ed _ _ I nev er|said I nev er said|That they were com|
+"C" d2 c2- cA-AG- |"Bb" GF D4 z2 | z2 A2 c2 d2 |"Dm" c2 z2 z4 |"C" dd c2 z4 |"Bb" dd c2 z4 | %86
+w: plete ly _ un _ found|_ _ ed|and all those|lies|writ ten lies|twist ed lies|
+"F" z2 z2 c2 B2 |"Dm" A2 F2 z2 A2 |"C" G2 E2 z2 E2 |"Bb" F2 D2 z AAc |"F" c2 z2 AAcc- | %91
+w: well they|weren't lies they|weren't lies they|weren't lies I nev er|said I nev er said|
+ c2 z2 z AAc |"G" dccc z AAc |"Bb" d2 cc z2 z2 |"C" c2 c2 B2 A2 |"F" B2 A2 z2 AB | %96
+w: _ I could have|men tioned your name I could have|dragged you in|GUILT by im plic|a tion by as|
+"Dm" c2 cB A z2 G |"C" GGGA z2 FF- |"Bb" F8 | z2 z A2 c A2 |"F" c2 c2- c3 F- |"G" FGGG A2 F2 | %102
+w: so ci at ion I've|al ways been true to you|_|in my own|sick way _ I've|_ al ways been true to|
+"Bb" F2 z2 z4 | z2 z A2 c A2 |"Dm" c2 c2- c3 F- |"C" FGGG A2 F2 |"Bb" F2 z2 z4 |"Dm" DDDD CDCD | %108
+w: you|in my own|strange way _ I'LL|_ AL WAYS BE TRUE TO|YOU||
+"Dm" DDDD CDCD |"Dm" DDDD CDCD | D2 z2 z2 z2 |] %111
+w: |||
+

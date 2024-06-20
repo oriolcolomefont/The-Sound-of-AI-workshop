@@ -1,0 +1,36 @@
+X:1
+T:Chain Of Fools
+C:Don Covay
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"CN.C." E F2 G- ||"Cm7" G8 | z4 G G2 (F- |"Cm" FE- E6) | z4 E F2 G- |"Cm7" G8 | z4 G2 G(F- | %7
+w: Chain, chain, chain,|_|chain, chain, chain,|_ _ _|chain, chain, chain,|_|Chain of fools.|
+"Cm" FE- E6) | z2 z G B(cB)c- ||"^[A]""Cm" c8 | z C EG- GGF(F | E4) z4 | z2 z G d2 (cB) | %13
+w: _ _ _|For five long _ years|_|I thought you _ were my man,|_|But I found _|
+"Cm" c3 (_G- G/E/C- C2) | z _G FE FCCC- | C8 | z2 z G BccB |"Cm" (dc) c2 z4 | z _G FF CEF(F | %19
+w: out love, _ _ _ _|I'm just a link in your chain.|_|You got me where you|want _ me,|I ain't noth- in' but your fool,|
+ E4) z4 | z2 z G cccc- |"Cm" c4 z4 | z2 z E FFF(E- | EC- C6) | z4 E F2 G- ||"^[B]""Cm7" G8 | %26
+w: _|You treat- ed me mean,|_|You treat- ed me cruel.|_ _ _|Chain, chain, chain,|_|
+ z4 G2 GF- |"Cm" FE- E6 | z4 Bccc- ||"^[C]""Cm" c4 z4 | z2 z G Bc(cB) | c4 z4 | z (c2 G) B c2 e- | %33
+w: Chain of fools.|_ _ _|Ev- er- y chain|_|has got a weak _|link,|I _ might be weak,|
+"Cm" e3 (c- c/B/G/_G/ F<C) | z =G G2 F2 C(E- | E G3) z4 | z8 | z4 z G2 B- || %38
+w: _ child _ _ _ _ _ _|But I'll give you strength.|_ _||You told|
+"^[D]""^instr. tacet till E" Bccc- cccc- | c2 z2 z G2 B- | Bc(cG) B B2 (G/_G/ | %41
+w: _ me to leave _ you a- lone.|_ My fath-|_ er said _ come on home. _|
+ F/E/C- C2) z G2 B- | Bc c2 B c2 (f- | f/e/c) c2 z _G FE | FE(FE) F G2 (E | C)_GFE (F/E/C) C2 || %46
+w: _ _ _ _ My doc-|* tor said take it ea-|_ _ _ sy, Oh, but your|lov- in' is _ much too strong,|_ I'm add- ed to _ _ your|
+[M:2/4] E F2 G- ||[M:4/4]"^[E]"S"Cm7" G8 | z4 G G2 (F- |"Cm" FE- E6) | z4 E F2 G- |"Cm" G8 | %52
+w: chain, chain, chain,|_|chain, chain, chain,|_ _ _|chain, chain, chain,|_|
+ z4 G2 G(F- |"Cm" FE- E6) | z4 Bc c2 ||"^[F]""Cm" c3 c- c4 | z2 z G cBcB | (d c3) z4 | %58
+w: chain of fools,|_ _ _|One of these|mor- nings _|the chain is gon- na|break, _|
+ z2 z G Bcce- |"Cm" e3 (c- c/B/F) z _G- | G_GGG GG=GE | C4 z4 | %62
+w: But up un- til then,|_ yeah, _ _ _ I'm|_ gon- na take all I can take.|_|
+"_D.S., vamp and fade on E" z4 E F2 G- |] %63
+w: Chain, chain, chain,|
+

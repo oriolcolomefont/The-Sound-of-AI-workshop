@@ -1,0 +1,32 @@
+X:1
+T:Shoe Shine Boy
+T:Shoe Shine Boy
+T:Saul Chaplin
+T:Sammy Cahn
+C:Saul Chaplin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c2 c2"D7" A4 |"Gm" BD^Dc"C7" A4 |"F" c2 c2"D7" A4 |"Gm" BD^Dc"C7" A4 | %4
+w: Shoe Shine Boy,|you work hard all day.|Shoe Shine Boy,|got no time to play,|
+"F" FG^GA"E7" e2"Eb7" _e2 |"D7" d6 A2 |"Gm" B2"G7" =B2"C7" c d2 A- |"F""Gm""C7" A8 | %8
+w: Ev- 'ry nich- el helps a|lot. So,|shine, shine, Shoe Shine Boy.||
+"F" c2 c2"D7" A4 |"Gm" BD^Dc"C7" A4 |"F" c2 c2"D7" A4 |"Gm" BD^Dc"C7" A4 | %12
+w: You find joy|in the things you do.|Shoe Shine Boy,|sel- dom ev- er blue.|
+"F" FG^GA"E7" e2"Eb7" _e2 |"D7" d6 A2 |"Gm" B2"G7" =B2"C7" c A2 F- |"F" F6 z2 | %16
+w: You're con- tent with what you've|got, So|shine, shine, Shoe Shine Boy.||
+"E7sus4" A>AA>_A"A7" G>A =A2 |"E7sus4" A>AA>_A"A7" G>A =A2 |"Dm" (3z2 F2 D2"Bb7" (3_A2 G2"A7" F2 | %19
+w: Peo- ple look at you with scorn|'Cause your clothes are worn and torn,|Still you nev- * er|
+"Dm" D6 E>F |"D7sus4" G>GG>^F"G7" =F>^F G2 |"D7sus4" G>GG>^F"G7" =F>^F G2 |"Gm" GGGG"Bbm" B2 B2 | %23
+w: whine. You keep|walk- ing up and down the street,|Plead- ing with each one you meet,|"Broth- er, can you spare a|
+"Gm""C7" G8 |"F" c2 c2"D7" A4 |"Gm" BD^Dc"C7" A4 |"F" c2 c2"D7" A4 |"Gm" BD^Dc"C7" A4 | %28
+w: shine?"|Shoe Shine Boy,|soon the day will come,|Shoe Shine Boy,|soon a tune you'll hum,|
+"F" FG^GA"E7" e2"Eb7" _e2 |"D7" d6 A2 |"Gm" B2"G7" =B2"C7" c A2 F- |"F" F6 z2 |] %32
+w: Ev- 'ry nick- el helps a|lot, So|shine, shine, Shoe Shine Boy.-||
+

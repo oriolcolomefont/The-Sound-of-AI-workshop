@@ -1,0 +1,30 @@
+X:1
+T:Cry Me A River
+T:Cry Me A River
+C:Arthur Hamilton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" d4-"C+" dcGE |"Cm" D C3-"Cm7" C4 |"Fm7" z CEc"Bb7" B2 B2 |"Ebmaj7" G4-"Dm7" G>G"G7"^F>G | %4
+w: Now * you say you're|lone- ly *|you cry the long night|thru: * Well you can|
+"Gm7" c2- (3c_dc"C+7" d c3 |"F9" z G- (3GFE F G3 |"Fm7" z _GFE"Fm7/Bb" FECE |"Eb6" E4-"G7" E3 z | %8
+w: cry * me a riv- er,|cry * me a riv- er,|I cried a riv- er ov- err|you. *|
+"Cm" d4-"C+" dcGE |"Cm6" D C3-"Cm7" C4 |"Fm7" z CEc"Bb7" B2"Bb+7" B2 | %11
+w: Now * you say you're|sor- ry *|for be- ing so un-|
+"Ebmaj7" G4-"Dm7" G>G"G7"^F>G |"Gm7" c2- (3c_dc"C+7" d c3 |"F9" z G- (3GFE F G3 | %14
+w: true; * well you can|cry * me a riv- er,|cry * me a riv- er,|
+"Fm7" z _GFE"Fm7/Bb" FECE |"Eb7" E4"D7b9" E4 |"Gm" z3/2 G/ =A<B- (3BD=E ^FG | %17
+w: I cried a riv- er ov- er|you.. *|You drove me * near- ly drive me|
+"Cm6" A>GBA-"D7" A3 G |"Gm" B2- (3BGd"Em7b5" c2 Bc- |"Cm6""D7" c8 |"Gm" z3/2 G/ =A<B- (3BD=E ^FG | %21
+w: out of my head, * while|you * nev- er shed a tear.||Re- mem- ber? * I re- mem- ber|
+"Cm6/Eb" A>GBA-"D7" A4 |"G" z =A/G/ A>G A>G=BG |"Dm7" z =A/G/ A>G"G7" A>G=BG |"Cm" d4-"C+" dcG^D | %25
+w: all that you said; *|told me love was to ple- be ien.|told me you were thru with me an'|now * you say you|
+"Cm6" DC-"Cm7" C6 |"Fm7" z CEc"Bb7" B2"Bb+7" B2 |"Ebmaj7" G4-"Dm7" G>G"G7"^F>G | %28
+w: love me, *|well just to prove you|do, * come on, an'|
+"Gm7" c2- (3c_dc"C+7" d c3 |"F9" z G- (3GFE F G3 |"Fm7" z c_GE"Fm7/Bb" FECE |"Eb6" E8 |] %32
+w: cry * me a ri- ver,|cry * me a riv- er,|I cried a riv- er ov- er|you.|
+

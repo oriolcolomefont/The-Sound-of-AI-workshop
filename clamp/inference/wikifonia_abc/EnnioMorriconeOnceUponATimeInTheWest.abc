@@ -1,0 +1,23 @@
+X:1
+T:Once Upon A Time In The West
+T:Once Upon A Time In The West
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 11
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" z3 f2 e | e2 d d2 c | e2 d d2 c |"G" B6 | z3 b2 a |"D" a2 g"A" g2 f |"D" a2 g"A" g2 f |"D" f6 | %8
+ z3 f2 e | e2 d d2 c | e2 d d2 c |"G" B6 | z3 b2 a |"D" a2 g"A" g2 f |"D" a2 g"A" g2 f |"D" d6- | %16
+ d3 A,3 |[M:4/4]"D" F4-"A/C#" FGFE |"Bm""Am7" D6 D2 |"B" B2 g2- (3g2 f2 e2 |"Dmaj7" f6 e2 | %21
+"Bm" e2 d2- dcdB |"F#m" A6 A2 |"G" B2 D4 E2 |"Dmaj7" F8 |"G#m7b5" FBBF F3 D |"G" FccB F3 F | %27
+"Gm" GddG"G#7" ^Gdd=G |"D" A2 dc"G" cBBA |"A7" A2 G2 G2 A,2 |"D" F4- FGFE |"Bm""Am7" D6 D2 | %32
+"B" B2 g2- (3g2 f2 e2 |"Dmaj7" f6 e2 |"Bm" e2 d2- dcdB |"F#m" A6 A2 |"G" B2 D4 E2 |"Dmaj7" F8 | %38
+"G#m7b5" FBBF F3 D |"G" FccB F3 F |"Gm" GddG"G#7" ^Gdd=G |"D" A2 dc"G" cBBA |"A7" A2 G2 G2 A,2 | %43
+"D" F4- FGFE |"Bm""Am7" D6 D2 |"B" B2 g2- (3g2 f2 e2 |"Dmaj7" f6 e2 |"Bm" e2 d2- dcdB | %48
+"F#m" A6 A2 |"G" B2 g2"A7" e3 d |"Dmaj7" f4-"D7" f2 A2 |"G" B2 g2"A7" e3 d |"D" d4- d4- | d4 z4 |] %54
+

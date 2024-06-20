@@ -1,0 +1,18 @@
+X:1
+T:Blue Drag
+C:Joe Myrow
+Z:Creative Commons BY-NC-SA
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+V:1
+"Dm" fa z f"Dm/C" a2 a2 |"Bbm7b5" f4"Bb7" d2 z2 |"Dm" fa z f"Dm/C" a2 a2 |"Bm7b5" f4"Bb7" z2 z2 | %4
+"Dm" fa z f a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gfdd- |"Dm" d4-"A7" d4 | %8
+"Dm" fa z f"Dm/C" a2 a2 |"Bbm7b5" f4"Bb7" d2 z2 |"Dm" fa z f"Dm/C" a2 a2 |"Bm7b5" f4"Bb7" z2 z2 | %12
+"Dm" fa z f a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gfdd- |"Dm" d4 z2 ba |"Gm" g g2 a f f2 g | %17
+ e e2 f defg |"Dm" a3 f a4- | a4 b3 a |"Gm" g g2 a f f2 g | e e2 f defg |"Dm" a3 f"Dm/C" a4 | %23
+"Bb7" z4"A7" z4 |"Dm" fa z f"Dm/C" a2 a2 |"Bbm7b5" f4"Bb7" d2 z2 |"Dm" fa z f"Dm/C" a2 a2 | %27
+"Bm7b5" f4"Bb7" z2 z2 |"Dm" fa z f a2 a2 |"Em7b5" g4 z2 dd |"Bb7" a_a- a2"A7" gfdd- | %31
+"Dm" d4"A7" z4 |] %32
+

@@ -1,0 +1,54 @@
+X:1
+T:Angel
+T:Angel
+C:Sarah McLachlan
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" z3 | z3 |"Bb/F" z3 | z3 |"F" z3 | z3 |"Bb/F" z z C | A (G/F/) F ||S"Gm" F/ G3/2 z | z z/ F/ F | %10
+w: ||||||Spend|all your _ time|wait- ing|for that|
+w: ||||||||straight line,|and ev-|
+"Bb" G/ F C/ B, | z z C/C/ |"F" A A A/A/- |"Bbsus2/D" A G/F/- F/G/- |"C" G z z/ C/ | C D (F/D/) | %16
+w: sec- ond chance, _|For a|break that would make|_ it o- * kay.|_ There's|al- ways some _|
+w: 'ry- where you turn|* there;s|vul- tures and thieves|_ at your _ back|_|Storm keeps on _|
+"Gm7" F G z | z C/A/- A |"Bb" G F F/D/ |"Bbsus2" z z A/B/ |"F" c c c/d/- |"Bbsus2/D" d c A/A/- | %22
+w: rea- son|to feel _|not good e- nough,|and it's|hard at the end|_ of the day.|
+w: twist- ing.|Keep on _|build- ing the lies|that you|make up for all|_ that you lack.|
+"C" A z z/ C/ | A A A |"Gm7" G G z | z A- A/G/ |"Bb" G/D/ F F/D/ | C z z/ C/ |"F" A A A | %29
+w: _ I|need some dis-|trac tion|oh _ _|beau- ti- ful re- lease.||Mem- o- ry|
+w: _ It|don't make no|dif- f'rence|* * es-|cap- ing one last time.|_ It's|eas- i- er|
+"Bbsus2/D" A G/G/- G |"C" G z z | G A c |"Gm" d d z | z d d |"Bb" d/c/ c A | G F z/ D/ |"F" F2 F | %37
+w: seep from my _|veins.|Let me be|emp- ty|oh and|weight- * less and|may- be I'll|find some|
+w: * to * be-|lieve|in this sweet|mad- ness,|oh this|glo * ri- ous|sad- ness that|brings me|
+"Dm7" G2 G/(D/ |"C7" C2) z | z z F/G/ |"F" A3 |"F6" A2 A/(A/ |"F" F) F z | z A c |"Am" c3- | %45
+w: peace to- night|_|In the|arms|of the an-|* gel.|Fly a-|way|
+w: to my knees|_|||||||
+ c2 A/c/- | c2 z | z F F |"Bb" d3 | d2- d/d/ | d/ c3/2 z | z (c/B/) B/A/- |"F" A2 A/A/- | %53
+w: _ from here,|_|from this|dark,|cold _ ho-|tel room|and * the end-|* less- ness|
+w: ||||||||
+"Dm7" A G F/G/- |"C7" G2 z |"C7sus4" z F/G/- G |"F" A3 | A2- A/A/ | A/ F3/2 z | z A c | %60
+w: _ that you fear.|_|You are _|pulled|from _ the|wreck- age|of your|
+w: |||||||
+"Am" (d/ c) c/- c- | c c/A/- A/(A/ | G) z z | z z/ F/ F/F/ |"Bb" d3 | (_e2 d/)d/ | d3/2 B/ c | %67
+w: si- * lent _|_ rev- er- * ie.|_|You're in the|arms|of * the|an- * gel.|
+w: |||||||
+ z F G |"F" (A3- |"Dm7" A B/A/ G- |"C" G) z z | A G F-!dacoda! ||"F" F F2 | z3 |"Bb/F" z3 | z3 | %76
+w: May you|find|_ _ _ _||some com- fort|_ here.||||
+w: |||||||||
+"F" z3 | z3 |"Bb/F" z z A | A G/F/- F/(D/!D.S.! ||O"F" F) F2 | z3 | z3 | z z/ F/ F/F/ |"Bb" d3 | %85
+w: ||You're|so tired of _ the|_ here.|||You're in the|arms|
+w: |||||||||
+"Bbsus4" (_e2 d/)d/ |"Bb" d3/2 B/ c | z F G |"F" (A3 |"Dm" (c B/A/- A/G/-) |"C7" G) z z | %91
+w: of _ the|an- * gel,|May you|find|_ _ _ _ _||
+w: ||||||
+"C7sus4" A (A/G/) F- |"F" F F2- | F2 z |"Bb/F" z3 | z3 |"F" z3 | z3 |"Bb/F" z3 | z3 |"F" z3 | z3 | %102
+w: some com- * fort|_ here.|_|||||||||
+w: |||||||||||
+"Bb/F" z3 | z3 |"F" z3 |] %105
+w: |||
+w: |||
+

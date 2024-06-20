@@ -1,0 +1,17 @@
+X:1
+T:Szép szivárvány
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" cGcd ecde |"G" f e2- d d4 |"C" efgg aggf |"G" e d3 d2 z2 |:"C" efgg agge | g2 e2"G" d4{c} | %6
+w: Szép szi- vár- vány ko- szo- rúz- za|az e- * get,|E- gé- szen ki- mu- tat- tad, hogy|nem sze- retsz,|Ha nem sze- retsz, nem te- he- tek|én ró- la,|
+"C" cddc"G" eeed |"C" d c3 c2 z2 :| %8
+w: Nem le- he- tek sem tu- li- pán,|sem ró- zsa.|
+

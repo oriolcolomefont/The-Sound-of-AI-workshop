@@ -1,0 +1,27 @@
+X:1
+T:Knees Up Mother Brown
+T:Knees Up Mother Brown
+T:Harry Weston & Bert Lee
+C:Harry Weston & Bert Lee
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z G |:"C""^Verse" A G"Cdim" ^F"C" G | c c2 E |"F" F"C" E"Cdim" ^D"C" E | G3"Gdim" E | %5
+w: I've|just been to a|'ding- dong' down|dear old Brix- ton|way. Old|
+"G7" G A G F |"C" E"G7" F"C" G"Cm" c |"D7" d c B A |"G7" G3 G |"C" A G"Cdim" ^F"C" G | c c2 c | %11
+w: Moth- er Brown the|Pear- ly Queen's a|hun- dred years to-|day. Oh!|what a cel- e-|bra- tion! was|
+"B7" B ^F G A |"Em" B3"Cm" G |"G" D E ^F G |"Am" A"E7" B"Am" c A |"D7" d c B A |"G" G z"G7" G2 || %17
+w: prop- er lah- di-|dah! Un-|til they roll'd the|car- pet up, and|shout- ed "Nah then|Ma" (shout)|
+"C""^Chorus" E G G G | G4 |"Dm" F A A A | A4 |"G7" B/B/ B B B | A _A G2 | B B B B | A _A G2 | %25
+w: Knees up Moth- er|Brown!|Knees up Moth- er|Brown!|Un- der the ta- ble|you must go|Ee- i- ee- i-|ee- i- oh!|
+"C" E G G G | G G2"Gdim" ^c |"Dm" d A"A7" A A |"Dm" A3"Gdim" ^A |"G7" B B A G | B B/B/ A G | %31
+w: If I catch you|bend- ing I'll|saw your leg right|off. So,|knees up, knees up!|Don't get the breeze up.|
+ G G A B |1"C" c3 G :|2"C" c2- c/ z/ z |] %34
+w: Knees up Moth- er|Brown. I've|Brown.- *|
+

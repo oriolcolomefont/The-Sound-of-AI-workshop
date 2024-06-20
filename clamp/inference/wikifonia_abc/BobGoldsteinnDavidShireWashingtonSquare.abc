@@ -1,0 +1,69 @@
+X:1
+T:Washington Square
+T:Washington Square
+T:popularized by the Village Stompers
+T:Bobb Goldsteinn and David Shire
+T:WB Music Corp. and Chappell & Co. Inc.
+C:Bob Goldsteinn & David Shire
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 52
+V:1
+ z | B, |:"Em" E2"B" B2"B" B2 BA"Em" |"Em" B A2 (G G3) B,"Em" | E2"C" E2"C" G G2 (B | %5
+w: |1.From|Cape Cod light to the|Mis- sis- sip'- * to|San Fran- cis- co Bay,|
+w: |2.(An')|so I got- * my|ban- jo out,- * jes'|sit- tin' catch- in' dust,-|
+w: |3.(Near)|Ten- nes- see,- * I|met a guy- * who|played twelve string gui- tar,-|
+w: |4.(In)|New Or- Leans we- *|saw a gal- * a-|walk- in' with no shoes,-|
+w: |5.(We)|can- non balled * in-|to New York- * on|good ole' U. S. One,-|
+w: |6.(Say)|how's a- bout- * a|free- dom song,- * *|ole' "Rock Is- land Line!"-|
+"G" B6)"B" z"B" B, |"Em" E2"B" B2"B" B3 A |"Em" B A2 (G G3) B, |"C" E2"Bm7" E2"Bm7" F>E D2 | %9
+w: * They're|talk- in' 'bout this|fa- mous place * down|Green- wich Vil- * age|
+w: * An'|paint- ed right a-|cross the case: * *|"Green- wich Vil- lage or|
+w: * He|al- so had a|might- y voice, * *|not to men- tion a|
+w: * An'|from her throat there|comes a growl, * she|sure was sing- in' the|
+w: * Till|up a- head we|saw the arch * a|gleam- in' bright in the|
+w: * Or|how's a- bout the|dust bowl crop? * Or|men who work in a|
+"Em" E6 B2 |"G" d3 d B2 d2 |"Em" e d2 (B B3) B,"Em" | E2"C" E2"C" G G2 (B |"G""B" B6) B2 | %14
+w: way. They|hoo- ten- an- ny|all the time- * with|folks from ev'- ry where,-|* Come|
+w: Bust!" My|folks were sad to|see me go * *|got no mean- in' there,-|* So|
+w: car. Each|time he hit those|blue grass chords,- * You|sure smelled moun- tain air,-|* I|
+w: blues. She|sang for all hu-|man- i- ty,- * this|gal with ra- ven hair,-|* I|
+w: sun. As|far as all the|eye could see, * ten|thou- sand folks was there,-|* An'|
+w: mine? The|songs and le- gends|of our land,- * is|gold we all can share,-|* So,|
+"G" d3 d B2 d2 |"Em" e d2 ((B B))A G2"Em" |"C" E2"Bm7" E2"Bm7" F>E D2 |1"Em" E6 z B, :|1 %18
+w: Sun- day morn- in'|rain or shine	 * * *|right in WASH- ING- TON|SQUARE.	 2.An'|
+w: I said "Good- bye,|Kan- sas, Mo."	 * * *|hel- lo WASH- ING- TON|SQUARE!"	 3.Near|
+w: said, "Don't waste it|on the wind."	 * * *|'mon to WASH- ING- TON|SQUARE!"	 4.In|
+w: said, "It's for the|world to hear," * * *|'mon to WASH- ING- TON|SQUARE!"	 5.We|
+w: sing- ing in sweet|har- mo- ny- * * *|Right in WASH- ING- TON|SQUARE.	 6.Say|
+w: come and join us|folks who stand * * *|sing in WASH- ING- TON||
+"Em" !fermata!E8 |] %19
+w: |
+w: |
+w: |
+w: |
+w: |
+w: SQUARE.|
+V:2
+ x | x |: x2"B" x2"B" B3 A | x x2 x G2 B,B, | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x x2 x x2 B,B, | %12
+w: ||||||||||||
+w: |||||||||||but I|
+w: ||||||||||||
+w: ||||||||||||
+w: ||||||||||||
+w: |||* or the|||||||||
+ x8 | x8 | x8 | x x2 x x x _GB, | x8 |1 x8 :|1 x8 |] %19
+w: |||||||
+w: |||* "And||||
+w: |||* "C||||
+w: |||* "C||||
+w: |||||||
+w: |||* and||||
+

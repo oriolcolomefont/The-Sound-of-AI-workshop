@@ -1,0 +1,19 @@
+X:1
+T:Gyönyörű vagy, én Uram
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=80
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z4 A,B, |"Am" C2 C"G" D2 D |"C" E3 z AG |"Dm" FF F"G" G2 F |"Am" E3 z FE |"Dm" DD D"G" E2 D | %6
+w: GYö- nyö-|rû vagy, én U-|ram, szí- vem|mé- lyé- bõl ál- da-|lak, szí- vem|mé- lyé- bõl ál- da-|
+"Am" C3 z z2 |"^Refrén" z4 A,B, |"Am" CC C"G" D2 D |"C" E3 z AG |"Dm" FF F"G" G2 F |"Am" E3 z FE | %12
+w: lak,|Al- le-|lu- ja a- le- lu-|ja, al- le-|lu- ja, al- le- lu-|ja, al- le-|
+"Dm" DD D"G" E2 D |"Am" C3 z z2 |] %14
+w: lu- ja, al- le- lu-|ja.|
+

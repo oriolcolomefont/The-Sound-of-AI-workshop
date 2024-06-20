@@ -1,0 +1,28 @@
+X:1
+T:Tell Me Why
+T:Tell me why
+T:Marty Gold 
+T:Al Alberts
+C:Marty Gold
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2"F" d>A |:"Bb" c6 BF | AGF_A-"Fm" A"Bb7" z GD |"Eb" F6 EB, | FEB,F-"Ab7" F3 E | %5
+w: Tell me|why though I|try to for- get _ tell me|why why I|think of you yet _ I|
+"Bb" D3 ^C DFBG- |"G" G8 |"C7" G3 ^F GBdc- |"Cm7" c4- c z dA |"Bb" c6 BF | AGF_A-"Fm7" A2"Bb7" GD | %11
+w: know I'll nev- er be free|_|what has hap- pened to me?|_ _ tell me|why when we|danced un- til three _ tell me|
+"Eb" F6 EB, | FEB,F-"Ab7" F3 E |"Bb" D3 ^C DFBG- |"G" G8 |"C7" B3 G"F7" ABcB- | B6 BA | %17
+w: why why my|heart could- n't see _ I|nev- er dreamed of ro- mance|_|nev- er gave it a chance|_ when I|
+"Fm7" _A3 B"Bb7" G3 F |"Eb" EG D4 BA |"Fm7" _A3 B"Bb7" G3 G |"Eb" B4- B2 cB |"Gm7" B3 c"C7" A3 G | %22
+w: think of how you|looked that day in your|gown of silk and|lace _ should have|known the day you|
+"F" FA =E4 D2 |"Gm7" G2- (3GAB"C7" G2- (3GAB |"Cm7" c4-"F7" c2 dA |"Bb" c6 BF | %26
+w: came my way that|this _ is the time _ and the|place _ tell me|why I keep|
+ AGF _A2-"Fm7" A"Bb"GD |"Eb" F6 EB, | FEB,F-"Ab7" F3 E |"Bb" D3 ^C DFBG- |"G" G8 | %31
+w: fool- ing my heart _ when I|know it was|love from the start _ why|don't we give it a try|_|
+"C7" B3 G"F7" ABcB- |1"Bb" B2 z2 z2 dA :|2"Bb" B6 z2 |] %34
+w: if you know tell me why|_ tell me||
+

@@ -1,0 +1,33 @@
+X:1
+T:Soon
+T:Soon
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Eb" B4- | B G B"Cm7b5" c |"Gm7b5" _d2 B d |"C+7" A2"C7" G2 |"Fm" A4- | A F A"C7" B | %6
+w: Soon,|* the lone- ly|nights will be|end- ed,|soon,|* two hearts as|
+w: Soon,|* my dear, you'll|nev- er be|lone- ly,|soon,|* you'll find I|
+"Fm7b5" _c2 A c |"Bb+7" _G2"Bb7" F2 |"Eb" z G"Bb7" A"Eb" B | e"Eb7" e"Cm" e"Eb7b5" e | %10
+w: one will be|blend- ed.|I've found the|hap- pi- ness I've|
+w: live for you|on- ly.|When I'm with|you who cares what|
+"Ab6" e z/ F/ F2- | F4 |"Fm" z F"C7" G"Fm" A |"Dm7b5" d d"G7" d d |"Cm7" d z/ E/ E2- | %15
+w: wait- ed for;||the on- ly|girl that I was|fat- ed for.|
+w: time it is,||or what the|place or what the|cli- mate is?|
+"Fm7" E2"Bb7" F2 |"Eb" B4- | B G B"Cm7b5" c |"Gm7b5" _d2 B d |"C+7" A2"C7" G2 |"Fm" A4- | %21
+w: * Oh,|soon|* a lit- tle|cot- tage will|find us|safe,|
+w: * Oh!|soon|* our lit- tle|ship will come|sail- ing|home|
+ A F A"C+7" B |"Fm7b5" _c2 A c |"Bb7b5" _G2"Bb7" F2 |"Eb" z G"Bb7" A"Eb" B |"Eb7" f f f"Eb+7" f | %26
+w: * with all our|cares far be-|hind us.|The day you're|mine this world will|
+w: * through ev- 'ry|storm, nev- er|fail- ing|The day you're|mine the world will|
+"Ab" f z/ A/ A2- |"Fm7b5" A4 |"Eb" z G B e |"Ab6" F2"Bb7" G2 |1"Eb" E4- ||"B7" E3"Bb7" z :|2 %32
+w: be in tune.||Let's make that|day come|soon.||
+w: be in tune.||Let's make that|day come|soon||
+"Eb" E4- || E3 z |] %34
+w: soon.||
+w: soon.||
+

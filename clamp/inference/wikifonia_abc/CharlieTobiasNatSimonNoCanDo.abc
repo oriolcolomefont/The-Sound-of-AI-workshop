@@ -1,0 +1,33 @@
+X:1
+T:No Can Do
+T:No can do.
+T:Charlie Tobias,  Nat Simon
+C:Charlie Tobias, Nat Simon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" D G2 E- E4 | B F2 E- E3 D | BBBB BBBB |"Am7" c2 GF-"D7" F4 | D G2 E- E4 | %5
+w: No can do *|No can do * my|ma- ma and my pa- pa say I|no can do *|no can do *|
+w: You like me *|I like you * I|like for you to Ro- me- o your|Ju- lie- oo *|no can do *|
+w: No can do *|no can do * I|like to do it what you call it|"Pitch the Woo" *|no can do *|
+"Am7" c G2"D7" F- F3 D |"Am7" dddd dddd!dacoda! |1"D7" e2 F"G"G- G4 :|2"C" e2 FG-"G" G3 G || %9
+w: no can do * I|want for me to go with you but|no can do *|no can do * the|
+w: no can do * my|ma- ma and my pa- pa say I|||
+w: no can do * my|ma- ma and my pa- pa say I|||
+"C" EEGG"G" DDGG |"Am7" E F2"D7" G- G2"G" z G |"C" EEGG"G" DDGG |"Am7" E F2"D7" G- G2"G" z G | %13
+w: moon she say to me come on come|out to- night * I|want for you to hold my hand and|hold me tight * and|
+w: ||||
+w: ||||
+"C" EEGG"G" DDGG |"Am7" E F2"D7" G- G2"G" z B |"Am7" (d8 |"D7""_alCoda" A8)!D.C.! :|"^Coda" z8 | %18
+w: love it can't be wrong and so it|must be right * but|oh|||
+w: |||||
+w: |||||
+"Am7" (e8 | E6)"D7" F2 |"G" G8- | G6 z2 |] %22
+w: No|* can|do.||
+w: ||||
+w: ||||
+

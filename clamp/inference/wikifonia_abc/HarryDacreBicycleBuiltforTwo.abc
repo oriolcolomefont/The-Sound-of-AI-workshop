@@ -1,0 +1,42 @@
+X:1
+T:Bicycle Built for Two
+T:Bicycle Built for Two
+C:Harry Dacre
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Melody Right"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" d ^c d | B A G |"D7" A2 ^F | D2 z | A3 | D3 |"G" d3 | B2 z |"G" d ^c d | B A G |"D7" A2 ^F | %11
+w: There is a|flo- wer With-|in my|heart,|Dai-|sy,|Dai-|sy!|Plan- ted one|day By a|glan- cing|
+w: We will go|tan- dem as|man and|wife,|Dai-|sy,|Dai-|sy!|Pedd- ling a-|way down the|road of|
+w: I will stand|by you in|wheel or|woe,|Dai-|sy,|Dai-|sy!|You'll be the|bell which I'll|ring you|
+ D2 z |"G" G d G |"D7" (^F D) A |"G" G3 | G2 z |"Em" B c B |"B7" A G ^F |"Em" B2 G | E2 z | %20
+w: dart,|Plan- ted by|Dai- * sy|Bell!|_|Whe- ther she|loves me Or|loves me|not,|
+w: life,|I and my|Dai- * sy|Bell!|_|When the road's|dark we can|both des-|pise|
+w: know!|Sweet lit- tle|Dai- * sysy|Bell!|_|You'll take the|lead in each|trip we|take,|
+"D7" d c B | A2 ^A |"G" B3- | B z2 |"Em" B c B |"B7" A G ^F |"Em" B2 G | E z B |"A7" A e ^c | %29
+w: Some- times it's|hard to|tell;|_|Yet I am|long- ing to|share the|lot Of|beau- ti- ful|
+w: police- men and|'lamps' as|well.|_|There ~are bright|lights in the|dazz- ling|eyes of|beau- ti- ful|
+w: then if I|don't do|well|_|I will per-|mit you to|use the|brake, my|beau- ti- ful|
+ B2 A |"D7" d3- | d2 z ||"G" d3 | B3 | G3 | D2 z |"C" E ^F G | E2 G |"G" D3- | D2 z |"D7" A3 | d3 | %42
+w: Dai- sy|Bell!|_|Dai|sy,|Dai-|sy,|Give me your|ans- wer|do!|_|I'm|half|
+w: Dai- sy|Bell!|_|||||||||||
+w: Dai- sy|Bell!|_|||||||||||
+"G" B3 | G3 |"A7" E ^F G | A2 B |"D7" A3- | A z B |"D7" c B A | d2 B |"G" A G2- | G z A |"G" B2 G | %53
+w: cra-|zy,|all for the|love of|you!|_ It|won't be a|sty- lish|mar- riage,|_ I|can't af-|
+w: |||||||||||
+w: |||||||||||
+"C" E2 G |"G" E D2- | D z D |"G" G2 B |"D7" A2 B |"G" G2 B |"D7" A z B/c/ |"G" d B G |"D7" A2 D | %62
+w: ford a|car- riage,|_ But|you'll look|sweet up-|on the|seat of a|bi- cy- cle|made for|
+w: |||||||||
+w: |||||||||
+"G" G3- | G2 z |] %64
+w: two.|_|
+w: ||
+w: ||
+

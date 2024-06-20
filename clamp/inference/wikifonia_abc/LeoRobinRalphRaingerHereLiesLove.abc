@@ -1,0 +1,30 @@
+X:1
+T:Here Lies Love
+T:Here Lies Love
+C:Leo Robin, Ralph Rainger
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z A^GA |"Dm7" F4 z AGA |"Edim7" E4"A7" z A^GA |"Dm7" d d2 d"Gm7" c2"C7" cA- | %4
+w: The end has|come, my heart is|numb, 'twas like a|bolt from the blue a- bove.|
+"Fmaj7" A4"Edim7" z A"A7"^GA |"Dm7" d d2 d"Gm7" c2"C7" cA- |"Fmaj7" A4"Edim7" G A2"A7" G | %7
+w: * I can't be-|lieve it but you are gone,|* dar- ling, and|
+"Dm7" F4"Bb7" D4 |"Edim7" E4"A7" z A^GA |"Dm7" F4 z AGA |"Edim7" E4"A7" z A^GA | %11
+w: here lies|love. The sky is|dark, I hear a|lark, he sounds as|
+"Dm7" d d2 d"Gm7" c2"C7" cA- |"Fmaj7" A4"Edim7" z A"A7"^GA |"Dm7" d d2 d"Gm7" c2"C7" cA- | %14
+w: sad as a mouun- ful dove.|* The dew ap-|pears like the tears of dawn,|
+"Fmaj7" A4"Edim7" G"A7" A2 G |"Dm7" F4"A7" E4 |"Dmaj7" D4 A2 ^F2 |"F#m7" ^C4"G#dim7" DE"C#7"DE | %18
+w: * dar- ling for|here lies|love. All my|dreams lost be- yond re-|
+"F#m7" ^C4 A2 ^F2 | ^C4"Bdim7" DE"E7"DE |"Amaj7" ^C4"Bdim7" D2"E7" F2 |"Amaj7" E4"G#dim7" ^G2 =B2 | %22
+w: call, dreams of|spring blas- ted in the|fall; you gave|lips, you gave|
+"Amaj7" A4"G#dim7" =B2 d2 |"F#maj7" ^c8- |"A7" ^c4 z A^GA |"Dm7" F4 z AGA |"Edim7" E4"A7" z A^GA | %27
+w: arms, I gave|all!|* I ought to|cry, my eyes are|dry; there's on- ly|
+"Dm7" d d2 d"Gm7" c2"C7" cA- |"Fmaj7" A4"Edim7" z A"A7"^GA |"Dm7" d d2 d"Gm7" c2"C7" cA- | %30
+w: one thing I'm con- scious of,|* I on- ly|know that I can't go on,|
+"Fmaj7" A4"Edim7" G A2"A7" G |"Dm7" F4"A7" E4 |"Dmaj7" D6 z2 |] %33
+w: * dar- ling, for|here lies|love.|
+

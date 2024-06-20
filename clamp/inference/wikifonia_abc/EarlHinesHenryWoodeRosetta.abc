@@ -1,0 +1,25 @@
+X:1
+T:Rosetta
+T:Rosetta
+T:Earl Hines & Henry Woode
+C:Earl Hines & Henry Woode
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z A |"F" c c3- |"C+7" c2 e d |"F" A A3- |"D7" A2 e d |"G9" A A2 D |"C7" A A2"C+" E | %7
+w: Ro-|set- ta,|* My Ro-|set- ta|* In my|heart dear, there's|no- one but|
+"F""Abdim" D4- |"C7" D2 z A |"F" c c3- |"C+7" c2 e d |"F" A A3- |"D7" A2 e d |"G9" A A2 D | %14
+w: you;|* You|told me-|* that you|loved me|* Nev- er|leave me for|
+"C7" A A2"C+" D |"F" F4 |"E7" z4 |"Am" A2 A A |"E7" =B2 B B |"Am" c4- |"Fm" c2 z2 |"C" e2"C+" e e | %22
+w: some- bod- y|new;||You've made my|whole life a|dream-||I pray you'll|
+"G7" d2 G G |"C" c4- |"C7" c z z A |"F" c c3- |"C+7" c2 e d |"F" A A3- |"D7" A2 e d |"G9" A A2 D | %30
+w: make it come|true;|* Ro-|set- ta,|* My Ro-|set- ta,|* Please say,|I'm just the|
+"C7" A A2"C+" D |"F" F4- | F2 z2 |] %33
+w: one dear for|you.-||
+

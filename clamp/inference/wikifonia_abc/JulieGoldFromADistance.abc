@@ -1,0 +1,89 @@
+X:1
+T:From A Distance
+T:From A Distance
+C:Julie Gold
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"D" z3 D/E/ |:"G9" D G,2 G"C9/G" (FE)(ED-) |"D/G" D2 A,(B,/A,/"G9" B,3) D/D/ | %3
+w: |||
+w: From a|dis- tance the world _ looks blue|_ and green _ _ and the|
+w: |dis- tance we _ _ all _|have e- nough _ _ and _|
+w: |dis- tance you _ look _ like|_ my friend. _ _ ev- en|
+"C" (DC)(CB,)"D" A,3 F, |"G""D/G" G,4-"C/G" G,3 D/E/ |"G9" D G,2 G"C9" (F2 E)"C/E"D- | %6
+w: |||
+w: snow _ capped _ moun- tains|white. _ From a|dis- tance the o- cean meets|
+w: no _ one _ is in|need. _ There are|no guns no bombs _ and|
+w: though _ we _ are at|war. _ From a|dis- ance I just can- not|
+"D/F#" D2 E(B,/A,/"G" B,2)"G/B" (3(B,C)D |"C" (D>C)(CB,/A,/)"D" (A,3/2B,/4A,/4F,)(A,/G,/) | %8
+w: ||
+w: _ the stream _ _ and _ the|ea- * gle _ _ takes _ _ _ to _|
+w: no dis eas- * es no _ _|hun- * gry _ _ mouths _ _ _ to _|
+w: com- pre- hend _ _ what _ _|all _ this _ _ fight- * * ing is _|
+"G" G,2"D/G" z2"G" z2 (G/A/)B |"Cmaj7" B E2 (B"D" A)(AG)(B- |"Em" B/)A/G z2 z2 B(A/G/) | %11
+w: |||
+w: flight. From _ a|dis- tance there _ is _ har-|* mo- ny, and it _|
+w: feed. From _ a|dis- tance we _ _ _ are|in- stru- ments march- ing *|
+w: for. From _ a|dis- tance, there _ is _ har-|* mon- ny and it _|
+"C" G C2"G/B" D- D2 G(G- |"G/D" GF/E/"D" D4) DG |"C" G C2"G/B" B,- B,2 DG | %14
+w: |||
+w: ech- oes thru _ the land.|_ _ _ _ It's the|voice of hope, _ it's the|
+w: in a com- * mon band,|_ _ _ _ play- ing|songs of hope _ play- ing|
+w: ech- oes thru _ the land.|_ _ _ _ It;s the|hope of hopes, _ it's the|
+"C" G(CB,)"G/B"B,- B,2 DG!dacoda! |"C" G2 (CB,/A,/)"D" (A,3/2B,/4A,/4F,)(A,/G,/) |1 %16
+w: ||
+w: voice of _ peace. _ It's the|voice of _ _ ev- * * * 'ry _|
+w: songs of _ peace. _ They're the|songs of _ _ ev- * * * 'ry *|
+w: love of _ loves. _ It's the||
+"G" G,2"D/G" z2"C/G" z2"G" z2 |"C" z2"G/B" z2"D" z2 z D/E/ :|2"G" G,2"D/G" z2"G" z2"G/B" (G/A/)B | %19
+w: |||
+w: man.|From a|man. God _ is|
+w: |||
+w: |||
+"G/C" B"C6" A2 A-"D" A2 (F/G/)A ||"D7/G" A"G" G2"D/F#" G-"Em" G2"Em7" (B,/C/)D | %21
+w: watch- ing us _ God _ is|watch- ing us _ God _ is|
+w: ||
+w: ||
+w: ||
+"Am7" DC G2"C/D" z2"D" z C/C/ |"G" CB,- B,4 z2 |"C""G/B" z4 z2"D" z D/E/!D.S.! |] %24
+w: watch- ing us from a|dis- tance *|From a|
+w: |||
+w: |||
+w: |||
+O"C" (GA/B/- B/)A/(c-"D7" c>d B/A/G/)E/ |"D/E" (A3/2B/4A/4"Em" G4)"Bm/D" DG | %26
+w: heart _ _ _ of ev- * * * * 'ry _|man. _ _ _ It's the|
+w: ||
+w: ||
+w: ||
+"C" G>C-C"G/B"B,- B,2 DG |"C" G>C-C"G/B"B,- B,2 (3DEA |"C" G2- G/(G/A/B/)"D7" (cB/A/-A)B | %29
+w: hope of _ hopes _ it's the|love of _ loves _ This is the|song _ of _ _ ev- * * * 'ry|
+w: |||
+w: |||
+w: |||
+"G" (B>A G2- G>)D"G/B" (G/A/)B |:"G/C" B"C6" A2 A-"D" A2 (F/G/)A | %31
+w: man. _ _ _ And God _ is|watch- ing us _ God _ is|
+w: ||
+w: ||
+w: ||
+"D7/G" A"G" G2"D/F#" G"Em" G2"Em7" B,/C/D |1"Am7" DC G2"C/D" z2"D" cB/A/ | %33
+w: watch- ing us _ God _ is|watch- ing us from a _|
+w: ||
+w: ||
+w: ||
+"G" BG- G/A/B- Bd"G/B"dc/B/ :|2"Am7" DC G2-"C/D" G2 C>D || C B,2 z"Em7""G/B" z4 | %36
+w: dis- tance _ _ _ _ Oh, God is _|watch- ing us _ from a|dis- tance.|
+w: |||
+w: |||
+w: |||
+"C""G/B""Am7""D/F#" z8 |"G9" z8 |] %38
+w: ||
+w: ||
+w: ||
+w: ||
+

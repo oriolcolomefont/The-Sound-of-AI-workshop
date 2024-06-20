@@ -1,0 +1,52 @@
+X:1
+T:Everybody's Talking At Me
+C:Fred Neil
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice 1 (Melody)" snm="Voice 1 (Melody)"
+%%MIDI channel 5
+%%MIDI program 26
+V:1
+"C ""Cmaj7""G " z8 |"C ""Cmaj7" z8 |"G " z2 GG G G3 |"Cmaj7""G " A3 G E C3 |"C7" z2 z G G2 GG | %5
+w: ||Ev- e\- ry- body's|~talk- in' ~at ~me,|I ~don't ~hear ~a|
+"C " A2 EG"Amin""C " A4 |"G7" z4 G G2 G | GG- G2- G F2 F |"C ""Amin""C ""Amin" E8 |"C ""Amin" z8 | %10
+w: ~word ~they're ~say- in',|on- ly ~the|~ech- oes * * ~of ~my|~mind.||
+"C " z4"Cmaj7" z"G " G2 G |"C " A G2"Cmaj7" E2 C3 | z4"Amin" z"C " G2 G | %13
+w: Peo- ple|~stop ~and ~star in',|I ~can't|
+"Amin" z A2 E"Cmaj7" G2 A2 | z4"G7" G G2 G | GG- G2- G F2 F |"C ""Amin" E8 |"C ""Amin" z8 | %18
+w: ~see ~their ~fa- ces,|on- ly ~the|~sha- dows * * ~of ~their|~eyes.||
+"Dmin" z G3 AA AG |"G7" A2 E2 G A3 |"C " z2 GG E C3 |"Gmin""C7" _B,6 z2 | %22
+w: I'm ~go- in' ~where ~the|~sun ~keeps ~shin- in'|through ~the ~pour- in'|~rain,|
+"Dmin""F " z2"Dmin" AA AA G2 |"G7" A4"Cmaj7" G2 E2 | G4"C " ED C2- |"C7""C " C4 z4 | %26
+w: go- in' ~where ~the ~wea-|ther ~suits ~my|~clo- o\- o\- thes,||
+"Dmin""F " z2 A"Dmin"G AG A2 |"G7" GG- G2 A4 |"C " GG GG E C3 |"Em7b5""C ""Em7b5" _B,8 | %30
+w: bank- in' ~off ~of ~the|~north- east * ~wind,|sail- in' ~on ~a ~sum- mer|~breeze,|
+"F " z2 AG AG A2 |"G7" G A3"C " E2 D2 |"Cmaj7""G " C8 |"C ""Cmaj7""G " z8 |"C " z2 GG"G " G G3 | %35
+w: skip- pin' ~o- ver ~the|o\- cean ~like ~a|~stone.||Ev- e\- ry- body's|
+"C " z A2 G"Cmaj7" E C3 | z2 z E"Amin" F2 GG |"C7" A2 EG A4 | z4"G7" G G2 G | GG- G2- G F2 F | %40
+w: ~talk- in' ~at ~me,|I ~don't ~hear ~a|~word ~they're ~say- in',|on ly ~the|~ech- oes * * ~of ~my|
+"C ""Amin" E8 |"C ""Amin" z8 |"C " z4"Cmaj7" z G2 G | A G2"C ""Cmaj7" E2 C3 | z4"Amin" z A2 E | %45
+w: ~mind.||Peo- ple|~stop ~and ~sta- rin',|I ~can't|
+"C7" z"Amin" G2 E"Cmaj7" G2 A2 | z4"G7" G G2 G | GG- G2- G F2 F |"C ""Amin" E8 |"C ""Amin" z8 | %50
+w: ~see ~their ~fa- ces,|on- ly ~the|~sha- dows * * ~of ~their|~eyes.||
+"Dmin" z A3 AA AF |"G7" G2 G2 GE A2 |"C " z2 GG E C3 |"Gmin""C7" _B,6 z2 | %54
+w: I'm ~go- in' ~where ~the|~sun ~keeps sh- i\- nin'|through ~the ~pour- in'|~rain,|
+"Dmin""F " z2 A"Dmin"G"Dsus47" AF"Dmin" G2 |"G7" A4 G2 E2 |"C " A6 EG |"Fmaj7" ED C4 z2 | %58
+w: go- in' ~where ~the ~weath-|er ~suits ~my|~cl- o\- o\-|o\- o\- thes,|
+"Dmin" z2 AG AG A2 |"G7" GG z2 AG E2 |"C " GG GG E C3 |"Em7b5""C ""C7" _B,8 |"F " z2 AG AG A2 | %63
+w: bank- in' ~off ~of ~the|~north- east w\- in- d,|sail- in' ~on ~a ~sum- mer|~breeze|Skip- pin' ~ov- er ~the|
+"G7" GG-"Cmaj7" G4 ED |"C ""Cmaj7""G " C8 |"C ""Cmaj7" z8 | z2 G"C "G"Cmaj7" A"C ""G " E3 | %67
+w: o\- cean * like a|~stone.||Ev- e\- ry- body's|
+"Cmaj7" z G2 F G"Emin" A3 |"C7" z4"Amin" G2 GG | A2 EG"C " E4 |"G7" z4 G G2 G | GG- G2- G F2 F | %72
+w: ~talk- in' ~at ~me,|can't ~hear ~a|~word ~they're ~say- in',|on- ly ~the|~ech- oes * * ~of ~my|
+"C ""Cmaj7" E8 | z8 | G G3"G7" G2 G2 | G2 GG- G2 FF |"C " E4-"Cmaj7" E z z2 | z4 z2 G,2 | %78
+w: ~mind.||~I ~won't ~let ~you|~leave ~my ~love * ~be- hi-|nd. *|No,|
+ G G3"G7" G2 G2 | G>g-"G ""G7" g6- |"C ""Cmaj7""Amin" g8- |"C ""Cmaj7" g8 |"G7" G8 | %83
+w: ~I ~won't ~let ~you|~leave ~my *|||WOH!|
+"C ""Cmaj7""Amin" G8 |"C ""Cmaj7" g8 | z8 |"G7" z G3 (3G2 G2 G2 |"G " G2"G7" GF-"Cmaj7" F2 FE- | %88
+w: WOH!|WOH!||I won't let you|~leave ~my ~love * be- hind.|
+"C ""Cmaj7""Amin" E8- |"C ""Cmaj7" E8- |"C " E8 |] %91
+w: |||
+

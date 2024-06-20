@@ -1,0 +1,42 @@
+X:1
+T:Gonna Fly Now
+C:Bill Conti
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G<A |"Dm7/G" c2 A6- | A6 G<A |"Cmaj7/G" B2 G6- |"Fmaj7" G6 E<G |"Dm7" A8 |"Bm7b5" B8 | %7
+w: Gon- na|fly now|* fly- ing|high now|* Gon- na|fly,|fly,|
+w: |||||||
+"Esus4" e8- | e6 E<G ||"Dm7" A>A- A2 z G A<B |"Cmaj7" E>E- E4 E<G |"Dm7" A>A- A2 z G A<B | %12
+w: fly.|* Rock- y's|read- y * to make a|move, yeah * Rock- y's|read- y * he just can't|
+w: |||||
+"Cmaj7" E>E- E6 |"Dm7" z D/C/ D>C"Em7" (D E3) |"Fmaj7" z C/C/ C4 z F |"Esus4" E8- | E6 E<G | %17
+w: lose, yeah *|Ev- 'ry nerve a wire *|sweat- in' blood like|fire|* Bod- y's|
+w: |||||
+"Dm7" A>A- A2 z A/G/ A<B |"Cmaj7" E>E- E4 E<G |"Dm7" A>A- A2 z A/G/ A<B |"Cmaj7" E>E- E6 | %21
+w: ach- in' * from the hurt it's|tak- in' * mus- cles|scream- in' * like a burn- in'|de- mon *|
+w: ||||
+"Dm7" z D/C/ D>C"Em7" (D E3) |"Fmaj7" z C/C/ C4 z F |"Esus4" E8- | E8 |:"Dm7" z2 G<A c2 A2- | %26
+w: Ev- 'ry nerve a wire *|sweat- in' blood like|fire||Try- in' hard now,|
+w: ||||Feel- in' strong now,|
+"Em7" A8 |"Fmaj7" z2 G<A c2 A2- |"Bbmaj7" A8 |"Asus4" z2 G<A c2 A2- | A6 E<G | %31
+w: _|it's so hard now,|_|try- in' hard now,|* Rock- y|
+w: _|won't be long now,|_|get- tin' strong now,|_ Fists like|
+"Dm7" A>A- A2 z A/G/ A<B |"Cmaj7" E>E- E4 E<G |"Dm7" A>A- A2 z A/G/ A<B |"Cmaj7" E>E- E6 | %35
+w: pow- er _ _ _ by the|ho- ur _ Pump- in'|i- ron, _ God ya know he's|try- in', _|
+w: thun- der _ gon- na put you|un- der. _ _ _|_ _ _||
+"Dm7" z D/C/ D>C"Em7" (D E3) |"Fmaj7" z C/C/ C4 z F |"Esus4" E8- | E6 G<A ||"Dm7/G" c2 A6- | %40
+w: Ev- 'ry nerve a wire _|sweat- in' blood like|fire|_ Gon- na|fly now,|
+w: |||||
+ A6 G<A |"Cmaj7/G" B2 G6- |"Fmaj7" G6 E<G |"Dm7" A8 |"Bm7b5" B8 |1"Esus4" e8- | e8 :|2"Esus4" e8- | %48
+w: _ fly- in'|high now,|_ Gon- na|fly,|fly,|fly.|_|fly.|
+w: ||||||||
+ e8 | z8 |"Am" z8 |] %51
+w: _|||
+w: |||
+

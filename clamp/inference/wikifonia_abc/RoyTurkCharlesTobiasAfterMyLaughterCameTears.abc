@@ -1,0 +1,31 @@
+X:1
+T:After My Laughter Came Tears
+T:After My Laughter Came Tears 
+T:Roy Turk 
+T:Roy Turk, Charles Tobias 
+C:Roy Turk
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |:"G" G A B c |"G7" d e d3/2 B/ |"C" A G A B |"Cm" c d c3/2 A/ |"G" B D2 B |1"D7" A D2 d || %7
+w: I|laughed the day I|saw you leave, I|laughed and said I'd|ne- ver grieve, but|AF- TER MY|LAUGH- TER CAME|
+w: I|told my friends I|did- n't care, I|laughed a- bout our|whole af- fair, ||||| || ||||| || |||
+"G""G#dim" B4 |"^Amin" z2"D7" z D :|2"D7" A D2 A ||"G""C" G4- |"G" G2"G7" z G |"C" e c d c | %13
+w: TEARS.||||||
+w: ||||LAUGH- TER CAME|TEARS.|* My|pride kept me from|
+"Cm" _e c d c |"G" B c d2- | d2 z G |"A7" B G A G |"Cm" B G A G |"D7" F G A2- | A2 z D | %20
+w: |||||||
+w: show- ing them that|I was blue.|* But|by my- self you'll|ne- ver know what|I've been through.|* My|
+"G" G A B c |"G7" d e d3/2 B/ |"C" A G A B |"Cm" c d c3/2 A/ |"G" B D2 B |"D7" e A2 B |"G""C" G4- | %27
+w: |||||||
+w: lips con- cealed a|heart in pain I|made be- lieve, but|all in vain for|AF- TER MY|LAUGH- TER CAME|TEARS.|
+"G" G z z2 |] %28
+w: |
+w: |
+

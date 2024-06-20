@@ -1,0 +1,30 @@
+X:1
+T:Busy Doing Nothing
+T:Busy doing nothing
+T:James Van Heusen
+T:Johnny Burke
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 D3 z |"G" Bdc B2 A | G3 B3 |"Am7" AcB A2 G |"D7" F6 |"Em" G3 F2 E |"G" D3 E2 F |"C" G3 F2 E | %8
+w: We're|bu * sy do- ing|no- thing|work- ing the whole day|through|try- ing to|find lots of|things not to|
+"D7" D3 D3 |"G" Bdc B2 A | G3 B3 |"Am7" AcB A2 G |"D7" F3- F2 F |"C" G2 G e2 e |"G" d2 B G2 F | %15
+w: do We're|bus * sy go- ing|no- where|is- nt it just a|crime? * we'd|like to be un-|hap- py but we|
+"D7" EGF E2 F |"G" G3- G3 |"A7" A2 A A2 A |"D" A3 F2 F |"A7" AGF E2 F |"D" D3- D2 F | %21
+w: ne- ver do have the|time *|have to watch the|ri- ver to|see that it does- nt|stop * and|
+"A7" A2 A A2 A |"D" A3 F2 F |"A7" A2 G F2 E |"D" d3- d2 d |"G" d2 d d2 d |"Am7" d3 A2 A | %27
+w: stick a- round the|rose- buds so|they'll know when to|pop * and|keep the cric- kets|cheer- ful they're|
+"D7" dcB A2 B |"G" G6 |"C" G3 e3 |"G" d3 G2 F |"D7" EGF E2 F |"G" G3 D3 | Bdc B2 A | G3 B3 | %35
+w: real- ly a sol- emn|bunch|hus- tle|bus- tle and|on- ly and hour for|lunch we're|bu * sy do- ing|no- thing|
+"Am7" AcB A2 G |"D7" F6 |"Em" G3 F2 E |"G" D3 E2 F |"C" G3 F2 E |"D7" D3 D3 |"G" Bdc B2 A | G3 B3 | %43
+w: work- ing the whole day|through|try- ing to|find lots of|things not to|do we're|bus * sy go- ing|no- where|
+"Am7" AcB A2 G |"D7" F3- F2 F |"C" G2 G e2 e |"G" d2 B G2 F |"D7" E2 E F2 F |"G" G3- G2 G | %49
+w: is- nt it just a|crime? * we'd|bet- ter make it|snap- py there's an-|oth- er hill to|climb * we'd|
+"C" G2 G e2 e |"G" d2 c G2 F |"D7" EGF E2 F |"G" G6 |] %53
+w: like to be un-|hap- py but we|ne- ver do have the|time.|
+

@@ -1,0 +1,20 @@
+X:1
+T:Gentle Rain
+T:Gentle Rain
+T:Luiz Bonfa
+C:Luiz Bonfa
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Am7""^A" E6 DC | C6 DE |"Bm7b5" E6 DC |"E7" B,6 CD |"Am7""D7" (E8 |"Gm7" E4)"C7" EGEC | %6
+"F6" (D8 | D4) z4 ||"F#m7b5""^B" c6 BA |"B7b9" A6 G^F |"Em7b5" _B6 AG |"A7b9" G6 FE | %12
+"Dm7b5" _A6 GF |"Bm7b5" F6"E7" ED |1"Am6" (E8 ||"Bb7#11" E4) z4 :|2"Am7""D7" (E8 || %17
+"Gm7" E4)"C7" EGEC |"F6" (D8 |"C7" D4) EGEC |"F6" (D8 |"Em7" D4) BdBG |"Am7" (A8 | %23
+"E7""^)""^(" A4) z4 |] %24
+

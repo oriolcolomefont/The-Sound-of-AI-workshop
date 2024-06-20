@@ -1,0 +1,31 @@
+X:1
+T:Hey there
+T:Hey there
+T:Richard Adler and Jerry Ross
+C:Jerry Ross, Richard Adler
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" F2 F6 |"Gm7" F2 Ac"C7" E2 FG |"F" F8 |"Gm7" F2 Ac"C7" E3 E |"D7" ^FF F6!dacoda! | %5
+w: Hey there|you with the stars in your|eyes|love nev- er made a|fool of you|
+w: get her|Her with her nose in the|air|she has you danc- ing|on a string|
+"Gm7" G2 A_B"C7" c2 G2 |"F" A8- | A6 z2 |"A" A2 A6 |"Bm7" A2 ^ce"E7" ^G2 AB |"A" A8 | %11
+w: you used to be too|wise!||hey there|you on that high fly- ing|cloud|
+w: ||||||
+ A2 ^ce"E7" ^G3 G |"A7" ^cc c4 A2 |"D7" dd d4 A2 |"Gm7" _BB B6- |"C7" _B4 _BAG z :| %16
+w: tho' she wont throw a|crumb to you you'll|think some day she'll|come to you|* bet- ter for|
+w: |||||
+O"Gm7" G2 A_B"C7" c2 c2 |"F" d8- | d2"F7" z2 _B2 c2 |"Bb" d2 dd d3 d | d2 d2 e3 d |"F" c2 c6- | %22
+w: break it and she wont|care|* wont you|take this ad- vice I|hand you like a|broth- er?|
+w: ||||||
+"Cm" c2 c2"D7" _B2 A2 |"Gm7" G2 GG G3 A |"Bbm" _B6 AG |"F" A2 AA A2 _B2 |"Cm" c6"D7" _BA | %27
+w: * or are you|not see- ing things too|clear are you|too much in love to|hear is it|
+w: |||||
+"Gm7" _B2 BB B2 c2 |"C7" d4 E2 EE |"F" E2 F6- | F6 z2 |] %31
+w: all go- ing in one|ear and out the|oth- er?-||
+w: ||||
+

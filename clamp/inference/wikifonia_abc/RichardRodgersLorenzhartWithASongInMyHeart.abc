@@ -1,0 +1,24 @@
+X:1
+T:With A Song In My Heart
+T:With A Song In My Heart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C" z2 G^F A2 GF |"G7" G8- |"C" G2 G^F A2 GF |"G7" G2 FE F4- |"C" F2 E^D F2 ED |"E7" E8- | %6
+w: With a song in my|heart|* I be- hold your a-|dor- a- ble face,|* Just a song at the|start,|
+"Am" E2 E^D F2 ED |"E7" E2 D^C D4- |"Am" D2 CB,"Am7" D2 C2 |"Am6" A8- |"F" A2 A2"Dm7" (3A2 B2 c2 | %11
+w: * But it soon is a|hymn to your grace.|* When the mus- ic|swells,|* I'm touch- ing your|
+"C6" A8- |"B7" A2 A2 (3A2 B2 c2 |"Dm" A4"B7" B4 |"E7""A7" E8 |"Dm7""G7" F8 |"C" z2 G^F A2 GF | %17
+w: hand|* It tells that you're|stand- ing|near,|and|at the sound of your|
+"G7" G8- |"C" G2 G^F A2 GF |"G7" G2 FE F4- |"C" F2 E^D F2 ED |"E7" E8- |"Am" E2 E^D F2 ED | %23
+w: voice,|* Heav- en op- ens its|por- tals to me.|* Can I help but re-|joice|* That a song such as|
+"E7" E2 D^C D4 |"Am" z2 CB,"Am7" D2 C2 |"Am6""D7" A8- |"C" A2 G^F A2 G2 |"D7" c8- | %28
+w: ours came to be?|But I al- ways|knew|* I would live life|through|
+"C" c2 cB d2 cB |"Dm7" c4"G7" d4 |1"C""Cdim""C" c8- ||"C#7" c2 z2"G7" z4 :|2"C" c8- || c4- c2 z2 |] %34
+w: * With a song in my|heart for|you.||you.||
+

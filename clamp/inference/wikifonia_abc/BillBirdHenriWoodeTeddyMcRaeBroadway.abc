@@ -1,0 +1,29 @@
+X:1
+T:Broadway
+T:Broadway
+T:Henri Woode, Teddy McRae, Bill Bird
+T:Henri Woode, Teddy McRae, Bill Bird
+C:Bill Bird, Henri Woode, Teddy McRae
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+|:"G" A G3- G2 AG- | G4 AGAG |"C9" A G3- G2 AG- | G4 AGAG |"D7" B d3- d2 BD- | %5
+w: Broad- way * Broad- way|* Ev- 'ry- bod- y's|hap- py * and gay,|* where the night is|bright- er * than day,|
+w: Sweet- hearts * and beaus|* on their way to|mov- ies * and shows,|* dressed up in their|Sun- day * best clothes,|
+ D4"Eb7" _B_B"D7"A"Gmaj9"A- | A"G" G3- G4- |"Am7" G4"D7" z4 :|"G7" d e2 G- G2 de- | %9
+w: * all al- ong Broad-|* way. *||Out of town * I'm low|
+w: * up and down Broad-|way. * *|||
+ e G3"Ab9b5" d2"G7" e2 |"C" dcdc d c3- | c8 |"F7" c d2 =F- F2 cd- | d =F3 c2 d2 | %14
+w: down * when I|walk a- long the main street.||An- y- where * I don't|* care, but I|
+w: |||||
+"Bb7" c_Bc_B"Bb+7" c _B3 |"Am7" BABA"D7" B A3 |"G" A G3- G2 AG- | G4 AGAG |"C9" A G3- G2 AG- | %19
+w: al- ways find a main street|just a- noth- er plain street.|Broad- way * Broad- way|* Take a lit- tle|time out * for play|
+w: |||||
+ G4 AGAG |"D7" B d3- d2 BD- | D4"Eb7" _B_B"D7"A"Gmaj9"A- | A"G" G3- G4- |"Am7" G4"D7" z4 |] %24
+w: * where the joy of|liv- ing * holds sway|* all a- long Broad-|way. * *||
+w: |||||
+

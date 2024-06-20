@@ -1,0 +1,45 @@
+X:1
+T:Twenty-Four Hours From Tulsa
+T:Twenty-Four Hours From Tulsa
+T:Hal David and Burt Bacharach
+C:Hal David and Burt Bacharach
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G" A B3- B2 z2 | A B3- B2 z2 | A B2 d c2 BA- | A G2 F E2 D2 |"A" ^C4 D E2 D- |"D" D2 z F G A3 | %6
+w: Dear- est, *|Dar- lin', *|I had to write to say|* that I won't be|home an- y more|* cause some- thing|
+w: When I *|saw her *|As I pulled in out- side|* of that small ho-|tel she was there|* and so I|
+"G" A B3- B2 z2 | A B3- B2 z2 | A B2 d c2 BA- | A G2 F E2 D2 |"A" ^C4 D E2 D- |"D" D2 z F G A3 | %12
+w: happ- ened *|to me. *|While I was dri- vin' home|* and I'm not the|same an- y more,|* Oh I was|
+w: walked up *|to her, *|asked where I could get some-|* thing to eat and|she showed me where,|* Oh I was|
+"C" B c3- c4 | B c2 B (3c2 G2 c2 |"Am" d e3- e4- | e6 z2 |"C" B c3- c4 | B c2 B cGcd |"Am" e8- | %19
+w: on- ly *|Twen- ty Four Hours * From|Tul- sa *||on- ly *|one day a- way * from your|arms|
+w: on- ly *|Twen- ty Four Hours * From|Tul- sa, *||on- ly *|one day a- way * from your|arms|
+ e6 c2 |"F" =f2 ed- dc e2 |"G" d4 z2 G2 |"F" g2 =fe- ed c2 |1"G" d4- dcBA :|2"G" d4 z2 e2 || %25
+w: * I|saw a wel- * come- ing|light and|stopped to rest * for the|night, * and that is|stay she|
+w: * She|took me to * the ca-|fe I|asked her if * she would|||
+ d4 z2 e2 | d2 z2 F2 GA ||S"C" B c3- c4 | B c2 B (3c2 G2 c2 |"Am" d e3- e4- | e6 z2 |"C" B c3- c4 | %32
+w: said O-|kay Oh I was|on- ly *|twen- ty four hours * from|Tul- sa *||on- ly *|
+w: ||on- ly *|twen- ty four hours * from|Tul- sa *||on- ly *|
+ B c2 B cGcd |"Am" e8- | e6 c2 |"F" =f2 ed- dc e2 |"G" d4 z2 G2 |"F" g2 =fe- ed c2!dacoda! || %38
+w: one day a- way * from your|arms.|* The|juke box star- * ted to|play, and|night- time turned * in- to|
+w: one day a- way * from your|arms.|* I|hate to do * this to|you, but|I love some- * bo- dy|
+O"G" d4- dcBA |"G" A B3- B2 z2 | A B3- B2 z2 | A B2 d c2 B2 | A G2 F E2 D2 |"A" ^C4 D E3 | %44
+w: day * as we were|dan- cin' *|close- ly *|all of a sud- den|I lost con- trol as|I held her|
+w: ||||||
+"D" D3 F G A3 |"G" A B3- B2 z2 | A B3- B2 z2 | A B2 d c2 BA- |"A" A G2 F E2 D2 | %49
+w: charms and I car-|ressed her *|kissed her *|told her I'd die be- fore|* I would let her|
+w: |||||
+"A" ^C4 D E2 D-!D.S.! |"D" D3 F G A3 ||O"G""^Coda" d4 z2 e2 | d4 z2 e2 | d4 z cBA | A B3- B4 | %55
+w: out of my arms,|* Oh I was|new, what|can I|do and I can|nev- er *|
+w: ||||||
+ A B3- B4 | A B3- B4- |"G7" B6 A2 |"C" G3 =F E4- | E8- | E6 z2 | z8!fine! |] %62
+w: nev- er *|nev- er *|* go|home a- gain.-||||
+w: |||||||
+

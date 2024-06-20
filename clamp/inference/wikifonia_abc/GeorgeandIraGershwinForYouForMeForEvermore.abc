@@ -1,0 +1,24 @@
+X:1
+T:For You, For Me, For Evermore
+C:George and Ira Gershwin
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"_Slowly" G |:"Eb" B3 E |"F7" D3 E |"Fm7" F3/2 G/"Bb7" F2- |"Fm7" F2 z"Bb7" G |"Eb" B3 E | %6
+w: For|You, For|Me, For|Ev- er- more,|_ It's|bound to|
+"F7" D3 E |"Fm7" G3/2 F/"Bb7" F2- |"Fm7" F2 z"Bb7" G |"Bbm7" c3 B |"Eb7" _D3 E | %11
+w: be for|ev- er- more.|_ It's|plain to|see, we|
+"Bbm7" c c"Eb7" c B/c/ |"Ab" B A2 c |"Cm7" d3 c |"F7" E3 F |"B7" F4- | F3"Bb7" G |"Eb" B3 E | %18
+w: found by find- ing each|oth- er, The|love we|wait- ed|for.|_ I'm|yours, you're|
+"F7" D3 E |"Fm7" F3/2 G/"Bb7" F2- |"Fm7" F3"Bb7" G |"Bbm7" c3 B |"Eb7" _D3 C |"Ab" E4- | %24
+w: mine, and|in our hearts|_ The|hap- py|end- ing|starts.|
+"Abm" E2 z E/F/ |"Eb" G B"Gm" B B |"Fm7" B3/2 c/"Bb7" B E/F/ |"Eb" G B"Cm7" B c |"F9" d3"F7" c | %29
+w: _ What a|love- ly world this|world will be, With a|world of love in|store For|
+"Fm7" e3 c |"Eb" B G"Fm7" E"Bb7" F |1"Eb" E4- | E2 z"Bb7" G :|2"Eb" E4- | E4 |] %35
+w: You, For|Me, For Ev- er-|more!|_ For|more!||
+

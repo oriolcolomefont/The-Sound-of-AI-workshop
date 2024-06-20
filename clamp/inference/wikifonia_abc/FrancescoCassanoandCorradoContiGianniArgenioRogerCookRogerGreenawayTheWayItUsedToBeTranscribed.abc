@@ -1,0 +1,37 @@
+X:1
+T:The Way It Used To Be (Transcribed)
+C:Francesco Cassano and Corrado Conti, Gianni Argenio, Roger Cook, Roger Greenaway
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Melody" snm="Choir"
+%%MIDI program 53
+V:1
+"Gmin" z2 GA BA- (3AGB |"Cmin" E4 G4 |"D7" ^F2 (3DFG A2- (3AGF |"Gmin" G2 z D G2- (3GDB, | %4
+w: ||||
+ G, z GA BA- (3AGD |"Cmin" E4 z4 |"D "z2(3z^FG (3:2:2A2 G- (3GFA |"Gmin" D6 z2 | z2 GA cB- (3BAG | %9
+w: * Lone- ly ta- ble * just for|one|in a bright and * crow- ded|room,|while the mu- sic * has be-|
+"Cmin" E/F/E- E4 z2 |"D " z ^F- (3FFG A/G/F- (3FFA |"Gmin" D6 z2 | z2 GA BA- (3AGD |"Cmin" E4 z4 | %14
+w: g\- u\- n, *|I * drink to me- mo- ries * in the|gloom.|Though the mu- sic's * still the|same,|
+"D " z ^F FG AG- (3GFA |"G " AG- G4 z D | D=E- (3EE^F FG- (3GA=B |"D7" c6 z ^f | %18
+w: it has a bit- ter * sweet re-|fra- in. * So|play the * song the way it * used to|be be-|
+"D " ^f=e- (3eec fe ce |"G " =ed- (3dc=B-"G7" B2 z =E |"C " =E^F- (3FFG GA- (3A=Bc | %21
+w: fore she * left and changed it all to|sad- ne- * s\- s. * and|may- be * if she's pas- sing * by the|
+"G " d=B- (3B_B=B =e2- eB |"D " dc- (3c=Bc ^f2- f=e |"G " =e/^f/e/d/-"G7" d4 z D | %24
+w: win- dow * she will hear * our|love song * and the me- * lo-|d\- \- \- y. * And|
+"C " =E^F- (3FFG GA- (3A=Bc |"G " d=B- (3B_B=B =e2- (3edB |"D7" dc- cA =BA- (3AG^F | %27
+w: ev- en * if the words are * not so|ten- der * she will al- * ways re-|mem- ber * the way it * used to|
+"G " G4"Gmin" z4 | z2 GA BA- (3AGD |"Cmin" E4 z4 |"D "z2(3z^FG (3:2:2A2 G- (3GFA |"Gmin" D6 z2 | %32
+w: be.|Friends stop by and * say "Hel-|lo"|and I laugh and * hide the|pain.|
+ z2 GA cB- (3BAG |"Cmin" E/F/E- E4 z2 |"D "z2(3z^FG A>G F>A |"G " AG- G4 z D | %36
+w: It's quite ea- sy * till they|g\- \- o *|then the song be- gins a\-|ga- in. * So|
+ D=E- (3EE^F FG- (3GA=B |"D7" c6 z ^f |"D " ^f=e- (3eec fe ce |"G " =ed- (3dc=B-"G7" B2 z =E | %40
+w: play the * song the way it * used to|be be-|fore she * left and changed it all to|sad- ne- * s\- s. * And|
+"C " =E^F- (3FFG GA- (3A=Bc |"G " d=B- (3B_B=B =e2- eB |"D " dc- (3c=Bc ^f2- f=e | %43
+w: may- be * if she's pas- sing * by the|win- dow * she will hear * our|love song * and the me- * lo-|
+"G " =e/^f/e/d/-"G7" d4 z D |"C " =E^F- (3FFG GA- (3A=Bc |"G " d=B- (3B_B=B =e2- (3edB | %46
+w: d\- \- \- y. * And|e\- ven * if the words are * not so|ten- der * she will al- * ways re-|
+"D7" dc- cA =B2 A2 |"G " G4"D " A4 |"G " AG- G4 z =B |"D7" d4 ^f4 |"G " g8 |] %51
+w: mem- ber * the way it|used to|b\- e. * *|||
+

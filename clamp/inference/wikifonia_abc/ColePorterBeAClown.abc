@@ -1,0 +1,42 @@
+X:1
+T:Be A Clown
+T:Be A Clown
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 c d |:"C" e4- | e2"G7" d B |"C6" A4- | A2 G A | c4- | c2"G7" B G |"C" E4- | E2 D E | %9
+w: 1~Be a|clown|_ Be a|clown,|_ All the|world|_ loves a|clown|_ Act the|
+w: |2.~clown|_ Be a|clown,|_ All the|world|_ loves a|clown|_ Be a|
+w: |3.~clown|_ Be a|clown,|_ All the|world|_ loves a|clown|_ Be the|
+"Dm711" G4- |"G7" G2"E" F E |"Am" C4- | C2 D E |"G" G2 D"D7" A- | A"G7" B"D9" c2 |"G" d4- | %16
+w: fool,|_ Play the|calf|_ And you'll|al- ways have|_ the last|laugh,|
+w: cra-|* zy buf-|foon|_ And the|'dem- ol- selles-|* 'll all|swoon,|
+w: poor|_ sil- ly|ass|_ And you'll|al- ways trav-|* el first|class,|
+ d2"F" c"G7" d |"C" e4- | e2"G7" d B |"C6" A4- | A2 G A |"C7" c2 A c- | c A c2 |"F6" D4- | %24
+w: _ Wear tthe|cap|_ and the|bells,|_ And you'll|rate with all|_ the great|swells,|
+w: _ Dress in|huge|_ bag- gy|pants|_ And you'll|ride the road|_ to ro-|mance,|
+w: _ Give- 'em|quips|_ give 'em|fun,|_ And they'll|pay to say|_ you're A|1,|
+ D2"G7" G2 |"C" E"B" ^D"C" E C |"G7" F E F =D |"Cdim" ^F ^E F"G9" A- | A3 G |"C" E"B" ^D"C" E C | %30
+w: _ If|you be- come a|doc- tor, folk's will|face you with dread,|_ If|you be- come a|
+w: _ A|butch- er or a|bak- er lad- ies|nev- er em- brace,|_ A|bar- ber for a|
+w: _ If|you be- come a|far- mer you've the|weath- er to buck,|_ If|you be- come a|
+"G7" F E F =D |"F#dim7" ^F ^E F"G7" A- | A3 G |"C" c"B" B"C" c G |"A7" ^c"Adim7" ^B"A7" c A | %35
+w: den- tist they'll be|glad when you're dead,|_ You'll|get a big- ger|hand if you can|
+w: beau would be a|so- cial dis- grace,|_ They|all- 'll come to|call if you can|
+w: gamb- ler, you'll be|stuck with your luck|_ But|jack you'll nev- er|lack if you can|
+"Dm" d ^c d"Fm/D" f- | f2"Fm" c d |"C" e2 d c |"G7" d2"F" c"G7" B |1"C" c4- |"G7" c z c d :|2 %41
+w: stand on your head.|_ Be a|clown, be a|clown, be a|clown.|_ 2.~Be a|
+w: fall on your face..|_ Be a|clown, be a|clown be a|clown.|_ 3.~Be a|
+w: quack like a duck.|_ Be a|clown, be a|clown, be a|||
+"C" c4- | c z z2 |] %43
+w: ||
+w: ||
+w: clown!|_|
+

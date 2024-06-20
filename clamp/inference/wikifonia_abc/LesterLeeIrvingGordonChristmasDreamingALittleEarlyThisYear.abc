@@ -1,0 +1,24 @@
+X:1
+T:Christmas Dreaming (A Little Early This Year)
+T:Christmas Dreaming
+C:Lester Lee
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z E |:"Cmaj7" B,2"C" C2- | C B, C E |"C6" A2"C+" ^G2 | G"C" =G"Adim" ^F"C" G |"Cmaj9" d2 d2- | %6
+w: I'm|do- ing|* my Christ- mas|dream- ing|* a lit- tle|ear- ly|
+ d2"C+" c2 |"F6" D4- | D D ^C D |"Dm7/C" A3/2 A/ A2- |"G7" A B, ^A, B, |"Cmaj7" G3/2 G/ G2- | %12
+w: * this|year.|* No sign of|snow a- round-|* And yet I|go a- round-|
+"C6" G2 A B |"Am7" c c E2 |"D13" B B"D9" A A |"Dm7" D4- |"G7" D3"G13" E |"Cmaj7" B,2"C" C2- | %18
+w: * Hear- ing|jing- le bells|ring- ing in my|ear.|* Your|pro- mise|
+ C B, C E |"C6" A2"C+" ^G2- | ^G"C" =G"Adim" ^F"C" G |"Cmaj9" d2 d2- | d2"C+" c2 |"F6" D4- | %24
+w: * must be the|rea- son|* The hap- py|sea- son|* is|here.|
+ D2 B c | d2"F" c2- |"Fdim" c B d c |"C6" A2"Em7b5" G2- |"A7" G A ^G A |"Dm7" c2 C2- | C2"G13" D2 | %31
+w: * So I'm|do- ing|* my Christ- mas|dream- ing|* a lit- tle|ear- ly|* this|
+"C" C4- |1 C2 z c :|2"C""Fm" C4- ||"C" C3 z |] %35
+w: year|* I'm|year.||
+

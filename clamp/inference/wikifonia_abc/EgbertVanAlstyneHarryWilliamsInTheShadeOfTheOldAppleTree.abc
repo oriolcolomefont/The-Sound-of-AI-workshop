@@ -1,0 +1,23 @@
+X:1
+T:In The Shade Of The Old Apple Tree
+T:In the shade of the old apple tree
+T:Harry W.Williams, Egbert Van Alstyne
+C:Egbert Van Alstyne
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 B/c/ |:"G" d ^c d |"C" e"G" d G | B3- | B2 G/A/ | B ^A"G" B |"D" c"D7" B D |"G" G3- | %8
+w: In the|shade of the|old ap- ple|tree|* where the|love in your|eyes I could|see|
+"C" G2"G" G/G/ |"D7" F"Am7" G"Fm" ^G |"D7" A2 F/D/ |"G" G"C" A"G" ^A | B2 B/c/ |"A7" ^c B A | %14
+w: * when the|voice that I|heard, like the|song of the|bird seemed to|whis- per sweet|
+"E7" e B"A7" ^c |"D" d3- |"D7" d2 B/c/ |"G" d ^c d |"C" e"G" d G | B3- | B2 G/A/ | B ^A B | %22
+w: mu- sic to|me|* I could|hear the dull|buzz of the|bee|* In the|blos- soms as|
+"D" c"D7" B D |"G" G3- |"C" G2"G" G/G/ |"D7" F"Am7" G"Fm" ^G |"D7" A2 B/c/ |"G" d ^c d | %28
+w: you said to|me|* with a|heart that is|true I'll be|wait- ing for|
+"C" e2 G/"Cm"A/ |"G" B"E7" d B |"A" A2"Am7" G/A/ |"G" G3- |"C" G2"G" z |] %33
+w: you in the|shade of the|old ap- ple|tree||
+

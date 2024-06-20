@@ -1,0 +1,20 @@
+X:1
+T:Charmaine
+T:CHARMAINE
+T:Erno Rapae
+T:L. Pollack
+C:Erno Rapee, L. Pollack
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+ C |"F" A2 c |"Cdim" A2 c |"C7" B2 A | G2 c |"F" A2 c |"Fdim" d2 e |"C7" c3- | c2 c |"F" A2 c | %10
+"Cdim" A2 c |"C" e2 =B |"A7" A2 G |"Dm" A2 c |"G7" d2 e |"C7" c3- | c2 c |"Gm" B2 d |"D7" A2 d | %19
+"Gm" G3- | G2 A |"Dm" F2 A |"G7" d2 G |"C" c3- | c z c |"F" f e d | c A F |"Am" E3 |"Dm" D2 C | %29
+"F" A2 c |"Cdim" A2 c |"C7" B3- | B2 c | f e d | c B G | D3 | C2 c | G2 c |"C+" ^G2 c |"F" A3- | %40
+ A2 c | f e d | c A F |"Cm" _E3 |"D7" D2 d |"Gm" B2 d |"D7" A2 d |"Gm" G3- | G2 ^F | G A B | %50
+"Bbm" _d a3/2 g/ |"F" g f c |"D7" B2 d |"G7" A d d |"C7" A c d |"F" f3- | f z |] %57
+

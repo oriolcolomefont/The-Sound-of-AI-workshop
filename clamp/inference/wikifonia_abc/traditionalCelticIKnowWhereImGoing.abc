@@ -1,0 +1,43 @@
+X:1
+T:I Know Where I'm Going
+T:I Know Where I'm Going
+T:from the 1945 film of the same name
+T:traditional  Celtic
+T: 
+T:Ekay Music Inc. (ASCAP)
+C:traditional Celtic
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:2/2
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 52
+L:1/8
+V:1
+|:"Eb""^Simply but with feeling" z"Eb""Fm7" E"Fm7" E F/G/"Eb" |"Eb/G" (E/(E/)"Ab" E2) z/ B,/ | %2
+w: 1.~~~I know where I'm|going, _ _ And|
+w: * * * are|soft _ _ And|
+"Eb/G" G"Fm7" G"Fm7" (G G/)A/ |"Bb7" G F3 |"Eb" z"Eb" B"Eb""Eb7" (B"Eb7" B/)B/"Eb" | %5
+w: I know who's go- ing|with me;|I know who I|
+w: pain- ted rooms _ are|bon- nie,|* trade _ them|
+"Cm7" (B E2) E/E/ |"Fm7" F G A G |"Bb7" G F2 B, |"Eb" (E"Fm" E)"Fm" (F/F/) G |"Eb/G""Ab" E3 B, | %10
+w: love, _ And the|Lord knows who I'll|mar- ry. Well,|I have stock- ings of|silk And|
+w: all _ For my|hand- some, win- some|John- ny. Now,|some _ say _ he's|bad, But|
+"Eb/G" (G"Fm9" G)"Fm9" G A |"Bb7" G F3 |"Eb" B3/2"Eb/D" B/"Eb/D" (B/"Eb7/Db"B/)"Eb7/Db" B | %13
+w: shoes of bright green|leath- er,|Combs to buck- le my|
+w: I _ say he's|bon- nie,|Fair- est of _ them|
+"Cm7" (B E2) E/E/ |"Fm9" F"^2nd time rit." G A G |1"Bb7" G F3 :|2"Bb7" G !fermata!F3 |] %17
+w: hair, _ And a|ring for ev'- ry|fin- ger.||
+w: all _ Is my|hand- some, win- some||John- ny.|
+V:2
+|: z2"Eb" E"Fm7"E"Fm7" (F2 F) x | x8 | x8 | x8 | B,2 B"Eb"B"Eb" x4 | x8 | x8 | x8 | x8 | x8 | x8 | %11
+w: |||||||||||
+w: 2.~~Feath- er beds _||||But I would|||||||
+ x8 | x8 | x8 | x8 |1 x8 :|2 x8 |] %17
+w: ||||||
+w: ||||||
+

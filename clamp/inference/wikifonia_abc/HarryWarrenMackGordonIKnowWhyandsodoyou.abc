@@ -1,0 +1,32 @@
+X:1
+T:I Know Why (and so do you)
+T:I Know Why (and so do you)
+T:Harry Warren
+T:Mack Gordon
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" GB,CD"Cm" E2 FG |"Fm7" A2"Bb7" B6 |"Eb" BDEF"Cm" G2"Ab6" AB |"Fm7""Bb6" c6"Bdim" d2 | %4
+w: Why do rob- ins sing in De-|cem- ber,|Long be- fore the Spring- time is|due? And|
+"Cm" ecde"Gm" d B3 |"Ab" cABc"Eb" B G3 |"Fm7" AF"Bb6"GA"Eb" G2"C7" B2 |"F7""Fm7""Bb7" F8 | %8
+w: e- ven though it's snow- ing|vi- o- lets are grow- ing|I know why and so do|you.|
+"Eb" GB,CD"Cm" E2 FG |"Fm7" A2"Bb7" B6 |"Eb" BDEF"Cm" G2"Ab6" AB |"Fm7""Bb6" c6"Bdim" d2 | %12
+w: Why do breez- es sigh ev- 'ry|ev- 'ning|whis- per- ing your name as they|do? And|
+"Cm" ecde"Gm" d B3 |"Ab" cABc"Eb" B G3 |"F9" GE"F7"FG"Fm" E2"Bb7b9" F2 |"Eb""Eb6" E8 | %16
+w: why have I the feel- ing|srars are on my cei- ling?|I know why and so do|you.|
+"Abdim" D4 =B4 |"Eb" BG E6 |"Abdim" D2 D2 =BB_dB |"Ebm""Bb7""Ebm" B8 |"Cm6" E4"D+7""D7" e4 | %21
+w: When you|smile at me|I hear gyp- sy vi- o-|lins,|When you|
+"Gm" dB"Gm7""C7" G4 GA |"Fm7" BBFG"C7b9" A B2 G |"Fm7""Bb7""Fm7""Bb7" F8 |"Eb" GB,CD"Cm" E2 FG | %25
+w: dance with me, I'm in|heav- en when the mu- sic be-|gins.|I can see the sun when it's|
+"Fm7" A2"Bb7" B6 |"Eb" BDEF"Cm" G2"Ab6" AB |"Fm7""Bb7" c6"Bdim" d2 |"Cm" ecde"Gm" d B3 | %29
+w: rain- ing,|hid- ing ev- 'ry cloud from my|wiew, And|why do I see rain- bows|
+"Cm6" cc"D7"cd"G7""C7b9" G4 |"F9" GE"F7"FG"Fm7" c2"Bb7b9" D2 |"Eb" E4-"Eb6" E z z2 |] %32
+w: when you're in my arms?|I know why and so do|you.- *|
+

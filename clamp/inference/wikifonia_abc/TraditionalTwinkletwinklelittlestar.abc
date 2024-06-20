@@ -1,0 +1,15 @@
+X:1
+T:Twinkle, twinkle, little star
+C:Traditional
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" C C G G |"F" A A"C" G2 |"F" F F"C" E E |"G7" D D"C" C2!fine! |"C" G G"F" F F |"C" E E"G7" D2 | %6
+w: Twink- le, twink- le,|lit- tle star,|how I won- der|what you are!|Up a- bove the|world so high,|
+"C" G G"F" F F |"C" E E"G7" D2!D.C.! |] %8
+w: Like a dia- mond|in the sky.|
+

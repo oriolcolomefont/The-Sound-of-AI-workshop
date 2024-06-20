@@ -1,0 +1,35 @@
+X:1
+T:Hi! Ho! The Rattlin' Bog
+T:Hi! Ho! The Rattlin' Bog
+T:Irish Folk song
+T:none noted 
+C:Irish folk song
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"G""^Refrain" B2 B>A |"C" GE EE/>E/ |"G" DG GA |"D" B"D"A A2 |"G" B2 B>A |"C" GE EE/>E/ | %6
+w: Hi! Ho! The|rat- tlin' bog and the|bog down in the|val- ley- o.|Hi! Ho! The|rat- tlin' bog and the|
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+"D7" Dd dc |"G" B"G"G !fermata!G z |"G""^Verses" G"G"B GA | GB GA | G B2 d- | d/"D"c/"D"B AA- | %12
+w: bog down in the|val- ley- o.|1.Now in this bog|there was a tree,|a rare tree,|* a rat- tlin' tree;|
+w: ||2.Now on this tree|there was a limb,|a rare limb,|* a rat- tlin' limb;|
+w: ||3.Now on this limb|there was a branch,|a rare branch,|* a rat- tlin' branch;|
+w: ||4.Now on this branch|there was a nest,|a rare nest,|* a rat- tlin' nest;|
+w: ||5.Now in this nest|there was an egg,|a rare egg,|* a rat- tlin' egg;|
+w: ||6.Now in this egg|there was a bird,|a rare bird,|* a rat- tlin' bird;|
+ A/"G"A/"G"B G/>G/A | G/>"G"G/"G"B G/>G/A |"C" G/>"D7"E/"D7"D dd |"G" c"G"B GG- | G z z2 |] %17
+w: * The (Skip this measure for|verse 1) ...tree in the bog|and the bog down in|the val- ley- o.||
+w: * The limb on the tree|and the * * * *||||
+w: * The branch on the limb|and the * * * *||||
+w: * The nest on the branch|and the * * * *||||
+w: * The egg in the nest|and the * * * *||||
+w: * The bird in the nest|and the * * * *||||
+

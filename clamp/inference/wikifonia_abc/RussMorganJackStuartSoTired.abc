@@ -1,0 +1,33 @@
+X:1
+T:So Tired
+T:So Tired
+T:Russ Morgan & Jack Stuart
+C:Russ Morgan & Jack Stuart
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z ^c |:"Bb" d2"Bbmaj7" A2 |"Cm7" z/ G/B/G/"F7" D C |"Bb" z d"Dm7" A2 |"Cm7" z/ G/B/G/"F7" D C | %5
+w: I'm|So Tired|of wait- ing for you,|so tired|of long- ing for you,|
+w: |So Tired|of dream- ing day dreams.|so tired|of on- ly play schemes.|
+"Bb" (3B, D F"G9" A/ G3/2 |1"Cm7" (3E G B"F7b9" d ^c ||"Bb""Bdim" d4- |"Cm7" d2"F7" z2 :|2 %9
+w: tir- ed of wai- ting|sav- ing my love for|you.||
+w: Why don't you call me||||
+"Cm7" (3E G d"F7b9" d d ||"Bb6""Eb" B4- |"Bb6" B3"A7" z |"Dm" A A A3/2 F/ |"Dm" A A A3/2 ^G/ | %14
+w: call me to- night, my|Dear.||Tell me that your|thoughts are all of|
+w: |||||
+"Dm7" A2 d A- |"G9" A4 |"Cm" G G G3/2 E/ |"Cm" G G G3/2 ^F/ |"Cm7" G2 c G- |"F9" G4 | %20
+w: me sweet- heart,||all day long I|won- der why we're|far a- part.||
+w: ||||||
+"Bb" d2"Bbmaj7" A2 |"Cm7" z/ G/B/G/"F7" D C |"Bb" z d"Dm7" A2 |"Cm7" z/ G/B/G/"F7" D C | %24
+w: So Tired|of dream- ing of you.|So tired|of wait- ing for you,|
+w: ||||
+"Bb" (3B, D F"G9" A/ G3/2 |"Cm7" (3E G B"F7b9" d d |"Bb6""Eb" B4- |"Bb6" B3 z |] %28
+w: but tho' I'm tir- ed|I'll wait for- e- ver|Dear-||
+w: ||||
+

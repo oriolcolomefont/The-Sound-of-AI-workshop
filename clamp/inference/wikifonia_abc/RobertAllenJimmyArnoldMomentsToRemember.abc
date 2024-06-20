@@ -1,0 +1,23 @@
+X:1
+T:Moments To Remember
+T:(we'll have each)  Moments to remember
+T:unknown
+C:Robert Allen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z z z A |"C" G E E3/2 A/ | G E E3/2 G/ | e e e/ d z/ |"F" c A A2 | z"G7" G _G =G | B A F A | %7
+w: The|New Years Eve we|did the town, the|day we tore the|goal posts down,|we'll have each|mo- ment to re-|
+"C" A4 | G3 A | G E E3/2 A/ | G E E3/2 G/ | e e e3/2 d/ |"F" c A A2 | z"G7" G _G =G | B G B"F" d | %15
+w: mem-|ber. The|qui- et walks the|noi- sy fun the|ball- room prize we|al- most won|we'll have each|mo- ment to re-|
+"C" d3/2 c z/ c |"F" e A c f |"C" e G c e |"G7" d G c d |"C" e3 c |"F" f A c3/2 f/ | %21
+w: mem- ber though|sum- mer turns to|win- ter and the|pres- ent dis- ap-|pears The|laugh- ter we were|
+"C" e G c3/2 e/ |"D7" d ^F A e |"G7" d3 A |"C" G E E3/2 A/ | G E E3/2 G/ | e e e d |"F" c A A2 | %28
+w: glad to share will|ech- o through the|years When|oth- er nights and|oth- er days may|find us gone our|sep- 'rate ways|
+ z"G7" G ^F G | B G B d |"F" d4 |"C" c4 | z4 |] %33
+w: we'll have these|mo- ments to re-|mem-|ber.||
+

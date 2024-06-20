@@ -1,0 +1,18 @@
+X:1
+T:Theme From The Godfather II
+T: Theme From Godfather II
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z BAG |"Em" FEFG"Am6/E" A2 e2 |"Em" B4- BBAG |"Em/G" FEFG"Am6" B3 A |"B" F4- FBAB | %5
+"Am" c3"Am7" B/c/"D7sus4" d3"D7" c |"Gmaj7" B4-"C" BBGE |"F/A" =F2- (3FGA"B7" ^D3 E | %8
+"Em" E4- Eede |"G#dim" =f3 e"E7" d3 c/d/ |"Am" e3 c"Am/C" Aede |"Bm7b5" =fffe"E7" de/d/cd | %12
+"Am" e4- eccB |"F#7" ^A4 F3 A |"B7sus4" B4-"B7" BBAG |"Em" FEFG"Am6/E" A2 e2 |"Em" B4- BBAG | %17
+"Em/G" FEFG"Am6" B3 A |"B" F4- FBAB |"Am" c3"Am7" B/c/"D7" d3 c |"Gmaj7" B4-"C" BBGE | %21
+"F/A" =F2- (3FGA"B7" ^D3 E |"Em" E8 |] %23
+

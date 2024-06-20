@@ -1,0 +1,43 @@
+X:1
+T:The Impossible Dream
+T:The Impossible Dream
+T:(The Quest)  from Man of la Mancha
+T:Mitch Leig
+T:Joe Dario
+C:Mitch Leigh
+Z:All Rights Reserved
+L:1/4
+Q:1/4=179
+M:3/4
+K:Bb
+V:1 treble nm="Piano"
+%%MIDI program 4
+V:1
+ D |:"Bb" F3- | F D E | F E D | F3- | F3- | F2 F |"Eb" G3- | G E F | G F E | G3- | G3- | G2 G | %13
+w: To|dream|_ the im-|pos- si- ble|dream|_|* to|fight|_ the un-|beat- a- ble|foe|_|* to|
+w: To|right|_ the un|right- a- ble|wrong|_|* to|love|_ pure and|chaste from a-|far|_|* to|
+"Dm" A3- | A D E | F G A |"Eb" B E2- | E3- | E2 F |1"Cm" G3- | G C D | E F G |"F7" A3- | A3- | %24
+w: bear|_ with un-|bear- a- ble|sor- row|_|* to|run|_ where the|brave dare not|go|_|
+w: try|_ when your|arms are too|wea- ry|_|* to|reach|||||
+ A2 D :|2"Cm" G3- || G E F | G A B |"F7" c3- | c3 |"Cm" B c B |"Bb" d3- | d2 B | B c B |"Gm" d3- | %35
+w: * to|reach|_ the un-|reach- a- ble|star!||this is my|quest|_ to|fol- low that|star|
+w: |||||||||||
+ d2 B | B c B |"Dm" d A2- | A2 B | c B A |"Eb" c3- | c2 G | B A G |"Gm" B3- | B G A | B A G | %46
+w: _ no|mat- ter how|hope- less|_ no|mat- ter how|far|_ to|fight for the|right|_ with- out|ques- tion or|
+w: |||||||||||
+"Gb" B3- | B B c | d c B |"Bb" d c B | d B c |"Gm" d e d |"Ab" c3- | c3 | z c d |"Cm" e3- | e d c | %57
+w: pause|_ to be|wil- ling to|march- in to|hell for a|heav- en- ly|cause||and I|know|_ if I'll|
+w: |||||||||||
+ e d c |"Ab" e3- | e d e | d c B |"D" A3- | A3- | A A B |"Eb" c3- | c B c | c B A |"A7" c3- | %68
+w: on- ly be|true|_ to this|glo- ri- ous|quest|_|* that my|heart|_ will lie|peace- ful and|calm|
+w: |||||||||||
+ c B c | B A G |"Ebm" _G3- | G3 | z"F7" D E |"Bb" F3- | F D E | F E D | F3- | F3- | F E F | %79
+w: _ when I'm|laid to my|rest||and the|world|_ will be|bet- ter- for|this|_|* that one|
+w: |||||||||||
+"Eb" G3- | G E F | G F E | G3- | G3- | G F G |"Dm" A3- | A D E | F G A |"Eb" B E2- | E3- | E2 B | %91
+w: man|_ scorned and|cov- ered with|scars|_|* still _|strove|_ with his|last ounce of|cour- age|_|* to|
+w: ||||||||||||
+"Bb" d3- | d B c |"F7" d c B |"Bb" B3- | B3- | B2 z |] %97
+w: reach|_ the un-|reach- a- ble|stars.|_||
+w: ||||||
+

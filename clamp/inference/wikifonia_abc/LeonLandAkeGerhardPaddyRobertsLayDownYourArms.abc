@@ -1,0 +1,28 @@
+X:1
+T:Lay Down Your Arms
+T:Lay Down Your Arms
+T: composed by Leon Land and Ake Gerhard Sung by Anne Shelton
+C:Leon Land,  Ake Gerhard, Paddy Roberts
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C""^Chorus" e2 e>d c2 G2"G7" | d2 d>c B4 | f2 f>e d2 G2"C" | e2 e>d c4 | e2 e>d c2 d>c"F" | %5
+w: Come to the sta- tion|Jump from the train|March at the dou- ble|Down lov- ers lane|Then in the glen Where the|
+w: |||||
+ A2 A>A f4"C" | G2 c>e g4 | G2 c>e g4 | G2 c>e g2 f>e"G7" | g2 f>d"C" c4"_Fine" || x6 G2"C" | %11
+w: ros- es en- twine|Lay down your arms|Lay down your arms|Lay down your arms and surr-|end- er to mine|1)My|
+w: |||||2)The|
+ e>e e>d c2 c>e"G7" | d>c B>c d2- d<G | f>f f>e d2 d>f"C" | e>d c>d e2- e<G | g>g g>g g2 f>e"F" | %16
+w: sweet- heart is a sold- ier As|hand- some as can be * But|sudd- en- ly they sent him a-|way a- cross the sea * So|pat- ient- ly I wait- ed Un-|
+w: girl who loves a sol- dier Is|eith- er sad or gay * 'Cause|first of all he's with her And|then he's far a- way * But|sold- iers have their du- ty To|
+ d>_d =d>e f2- f<f"C" | e>e d>d c2 e>c"G7" | d>c B>d"C" c2 z2"_D.C. al Fine" |] %19
+w: til his leave was due * then|wrote and said my dar- ling I'll|tell you what to do|
+w: ans- wer to the call * And|that is why I'm call- ing- The|loud- est of them all|
+

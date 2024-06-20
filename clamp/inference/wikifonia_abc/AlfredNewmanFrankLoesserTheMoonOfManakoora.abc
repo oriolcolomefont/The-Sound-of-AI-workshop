@@ -1,0 +1,24 @@
+X:1
+T:The Moon Of Manakoora
+T:The Moon of Manakoora
+T:Alfred Newman
+T:Frank Loesser
+C:Alfred Newman
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 C2 |:"F" c3 B _BA |"Fm" _A4 c2 |"C" G4 A2 | G4 C2 |"F" c3 B _BA |"Fm" _A4 c2 |"C" G6- | %8
+w: The|moon of Man- a-|koo- ra|filled the|night with|mag- ic Pol- y-|ne- sian|charms|
+ G4 G,2 |"G7" G3 ^F =FE |"Fm" _E4 _A2 |"Dm" D4 E2 |"D7" D4 G,2 |"Dm" G3 ^F =FE |"G7" D4 _E2 | %15
+w: * The|moon of Man- a-|koo- ra|came in|sight and|brought you to my|ea- ger|
+"C" E6- | E4 C2 |"F" c3 B _BA |"Fm" _A4 c2 | G4 A2 | G4 C2 |"F" c3 B _BA |"Fm" _A4 c2 |"C" G6- | %24
+w: arms|* the|moon of Man- a-|koo- ra|soon will|rise a-|gain a- bove the|is- land|shore|
+ G4 G,2 |"G7" G3 ^F =FE |"Fm" _E4 _A2 |"Dm" D4 E2 |"G7" D4 G,2 |"Dm" G3 ^F =FE |"Fm" _E4 D2 |1 %31
+w: * Then|I'll be- hold it|in your|dusk- y|eyes and|you'll be in my|arms once|
+ C6- | C4 C2 :|2 C6- | C4 z2 |] %35
+w: more.|* the|more.||
+

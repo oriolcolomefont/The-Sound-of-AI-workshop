@@ -1,0 +1,42 @@
+X:1
+T:I've Got Peace Like a River
+T:Peace Like a River
+T:(I've got peace like a river)
+T:traditional American spiritual
+T:original copyright not known
+C:Traditional African American Spriritual
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"^Smoothly flowing" !fermata!G2 !fermata!A2 ||"C6" c4"E7b9" c3 d |"C6" e(e e2)"C7/F" e2"E9" d2 | %3
+w: 1.~I've got|Peace like a|riv- er, _ I've got|
+w: 2.~I've got|Love like an|o- cean, _ I've got|
+w: 3.~I've got|Joy like a|foun- tain, _ I've got|
+w: 4.~I've got|Peace like a|riv- er, _ I've got|
+"Am" c4"Am7" c3 c |"Fmaj7" A(G"G7" G2) G2"G+9" A2 |"C" c4"Am" c3 d | e(e"Am7" e2)"D9" d2 c2 | %7
+w: Peace like a|riv- er. _ I've got|Peace like a|riv- er _ in my|
+w: Love like an|o- cean. _ I've got|Love like an|o- cean _ in my|
+w: Joy like a|foun- tain. _ I've got|Joy like a|foun- tain _ in my|
+w: Peace like a|riv- er. _ I've got|Peace like a|riv- er _ in my|
+"G9" d6 z2 | z2 d2"^Fmaj9(b5)" e2"G9" d2 |"C9" c4"C6" c3 d |"C/B" e(e"C/A" e2)"E7b9" e3 d | %11
+w: soul.|Oh, I've got|Peace like a|riv- er, _ I've got|
+w: soul.|Oh, I've got|Love like an|o- cean, _ I've got|
+w: soul|Oh, I've got|Joy like a|foun- tain, _ I've got|
+w: soul.|Oh, I've got|Peace like a|riv- er, _ I've got|
+"Am7" c4"F9" c3 c |"G" A(G G2) G2"G9sus4" A2 |"C" c4"Am" c3 d |"E/D" e2"D13" e2"G13" d2"G7" d2 | %15
+w: Peace like a|riv- er. _ I've got|Peace like a|riv- er in my|
+w: Love like an|o- cean. _ I've got|Love like an|o- cean in my|
+w: Joy like a|foun- tain. _ I've got|Joy like a|foun- tain in my|
+w: Peace like a|riv- er. _ I've got|Peace like a|riv- er in my|
+"C" !fermata!c8 |"Dm9" z2"Ebmaj7" z2 z2"Abmaj7" z2 | z2"G7sus4" z2 :| %18
+w: soul.|||
+w: soul.|||
+w: soul.|||
+w: soul.|||
+

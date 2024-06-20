@@ -1,0 +1,23 @@
+X:1
+T:Cara Mia
+T:Cara Mia
+T:Tulio Trapani and Lee Lange
+C:Tulio Trapani (Mantovani) 1954
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F/G/ A c |"Am" E3 |"Bb" D/E/ F G |"F" C3 |"Bb" B, C _D |"Fmaj7" C2 C |"G7" D E F | %7
+w: Ca- ra- mi- a|why|must we say good-|bye?|each time we|part my|heart wants to|
+"Gm7" G2"C7" A |"F" F/G/ A c |"Am" E3 |"Bb" D/E/ F G |"F" C3 |"Bbm" _D B, _D |"F" C =D F | %14
+w: die My|dar- ling hear my|pray'r|Ca- ra- mi- a|fair|Here are my|arms you a-|
+"Gm7" B2"C7" E |"F" F3 |"Db" F/_E/ _D _E |"Bb" F2 G |"F" A2"C7" B |"Fmaj7" c2 c |"Bb" c2 B | F2 B | %22
+w: lone will|share|All I want is|you for-|ev- er-|more to|have to|hold to|
+"F" A2"Db7" _A |"C7" G2 =A |"F" F/G/ A c |"Am" E3 |"Bb" D/E/ F G |"F" C3 |"Bbm" _D B, _D | %29
+w: love a-|dore *|Ca- ra- mi- a|mine|say those words di-|vine|I'll be your|
+"F" C =D F |"Gm7" B2"C7" E |"F" F2 z |] %32
+w: love till the|end of|time.|
+

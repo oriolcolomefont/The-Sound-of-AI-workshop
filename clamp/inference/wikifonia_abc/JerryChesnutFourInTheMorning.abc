@@ -1,0 +1,28 @@
+X:1
+T:Four In The Morning
+T:Four in the morning
+T:Jerry Chesnut
+C:Jerry Chesnut
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z2 D2 |:"Bb" F2 F3 F | G2 G3 G | A2 B3 A | G2 D2 D2 | F2 F3 F | G2 A3 D |"F7" E6 | z2 z2 cc | %9
+w: Its|four in the|morn- ing and|once more the|dawn- ing just|woke up the|want- ing in|me|wish- ing|
+w: I|nev- er de-|served her God|knows when I|hurt her thats|last thing that|I want to|do|* she|
+ c2 c3"^the" A | B2 A2 GG | A2 A3 A | B2 A3 F | F2 F2 F2 | G2 A3 D |"Bb" F6 | %16
+w: I'd nev- er|met her know- ing|if I'd for-|get her how|much bet- ter|off she would|be|
+w: tries but she|can't tell * how|she feels, but|I know too|well * what|she's go- in'-|through|
+"F7" z2"Gm" z2"F" z D |"Bb" F2 F2 F2 | G2 G2 GG | A2 B2 A2 | G2 D3 F | B2 B3 B |"Bb7" B2 c3 G | %23
+w: The|long- er I|hold on and the|long- er this|goes on the|hard- er that|it's gon- na|
+w: If|I love her|so much I don't|know why I|can't do the|right thing and|just let her|
+"Eb" B6 | z2 z2 GG | B2 B3 B |"F7" c2 B2 c2 |"Bb" d2 d3 B |"Gm" B2 G2 A2 |"Eb" B2 G3 B | %30
+w: be|But its|four in the|morn- ing and|once more the|dawn- ing just|woke up the|
+w: be|||||||
+"F7" e2 d2 c2 |"Bb" B6 |1"F7" z2 z2 D2 :|2"Bb" B6 |] %34
+w: want- ing in|me|I|me|
+w: ||||
+

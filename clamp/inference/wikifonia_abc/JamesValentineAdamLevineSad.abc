@@ -1,0 +1,49 @@
+X:1
+T:Sad
+C:James Valentine
+Z:All Rights Reserved
+L:1/8
+Q:1/4=116
+M:4/4
+K:G
+V:1 treble nm="Tenor Recorder" snm="T. Rec."
+%%MIDI control 7 95
+%%MIDI control 10 95
+V:1
+"G" [B,D]3"Am" [CE]3"Em" [B,EG]2- | [B,EG] [B,EG]3 [B,EG]2 [B,EG]2 | %2
+w: ||
+"G" [B,D]3"Am" [CE]3"Em" [B,EG]2- | [B,EG] [B,EG]3 [B,EG]2 [B,EG]2 |"G" DDE"Am"E G2"Em" G2 | %5
+w: ||Man, it's been a long day,|
+ z2 G2 GEED |"G" DDE"Am"E G2"Em" G2 | z2 GA AAAA |"G" ddA"Am"A A2"Em" B2 | z2{/G} AA AAAA | %10
+w: stuck think- in' 'bout it.|Driv- in' on a free- way,|wond- 'ring if I real- ly|tried ev- 'ry- thing I could,|* know- ing if I should|
+"G" ddA"Am"A A2"Em" B2 | z3 d- de g2 ||"G" g6 fg- |"Am7" g6 dd |"Em" g2 g2 gddd | %15
+w: try a lit- tle har- der?|Oh, * but I'm|scared to death|* that there|may not be an- oth- er|
+"C" (ed) d2 d2 dg- |"G" g6 dg- |"Am7" g4 z2 dd |"Em" gggg (gd)dd |"C" e2 d2 d2 z d || %20
+w: one * like this. And I|* con- fess|* that I'm|on- ly hold- in' on * by a|thin- thin thread. I'm|
+"G" fgfg z d"D"fg | f g3 z2 z d |"C" g2 gd dd(de) | (e2 d2) z d d2 |"G" fgfg z d"D"fg | %25
+w: kick- in' the curb 'cuz you nev-|er heard the|words that you need- ed so *|bad! * Now I'm|kick- in' the dirt, 'cuz I nev-|
+ f g2 d z2 z d |"C" g2 gd ddde | e4 e2 d2 |"G" z2"Am" B6"Em" | z8 |"G" (B3"Am" A- AG"Em" E2) | z8 | %32
+w: er gave you the|things that you need- ed to *|have. I'm so|sad.||Sad. * * * *||
+"G" DDE"Am"E G2"Em" G2 | z2 G2 GE(ED) |"G" DDE"Am"E G2"Em" G2 | z2 G2 AAAA | %36
+w: Man, it's been a long night,|just sit- ting here, *|try- in' not to look back,|still look- in' at the|
+"G" ddA"Am"A A2"Em" B2 | z2 AA AAAA |"G" d2 A"Am"A A2"Em" B2 | z3 d- de g2 ||"G" g6 fg- | %41
+w: road we nev- er drove on,|wond- 'ring if the one I|chose was the right one?|Oh, * but I'm|scared to death|
+"Am7" g6 dd |"Em" g2 g2 gddd |"C" (ed) d2 d2 dg- |"G" g6 dg- |"Am7" g4 z2 dd |"Em" gggg (gd)dd | %47
+w: * that there|may not be an- oth- er|one * like this. And I|* con- fess|* that I'm|on- ly hold- in' on * by a|
+"C" e2 d2 d2 z d |"G" fgfg z d"D"fg | f g3 z2 z d |"C" g2 gd dd(de) | (e2 d2) z d d2 | %52
+w: thin- thin thread. I'm|kick- in' the curb 'cuz you nev-|er heard the|words that you need- ed so *|bad! * Now I'm|
+"G" fgfg z d"D"fg | f g2 d z2 z d |"C" g2 gd ddde | e4 e2 d2 |"G" z2"Am" B6"Em" | z8 | %58
+w: kick- in' the dirt, 'cuz I nev-|er gave you the|things that you need- ed to *|have. I'm so|sad.||
+"G" (B3"Am" A2 G"Em" E2) | z4 z D D2 |"G" (B4"Am""Em" A4) | z4 z2 A2- |"G" A2"Am" G6"Em" | %63
+w: Sad. * * *|I'm so|sad. *|Oh,|* sad.|
+ z3 d z e g2 ||"G" g6 fg- |"Am7" g6 dd |"Em" g2 g2 gddd |"C" (ed) d2 d2 dg- |"G" g6 dg- | %69
+w: Oh, but I'm|scared to death|* that there|may not be an- oth- er|one * like this. And I|* con- fess|
+"Am7" g4 z2 dd |"Em" gggg (gd)dd |"C" e2 d2 d2 z d ||"G" fgfg z d"D"fg | f g3 z2 z d | %74
+w: * that I'm|on- ly hold- in' on * by a|thin- thin thread. I'm|kick- in' the curb 'cuz you nev-|er heard the|
+"C" g2 gd dd(de) | (e2 d2) z d d2 |"G" fgfg z d"D"fg | f g2 d z2 z d |"C" g2 gd dd(de) | %79
+w: words that you need- ed so *|bad! * Now I'm|kick- in' the dirt, 'cuz I nev-|er gave you the|things that you need- ed to *|
+ e4 z d d2 ||"Em" gddd z B"D"gg | d d3 z2 z d |"C" g2 gd dd(de) | e4 e2 d2 |"G" z2"Am7" A6"Em" | %85
+w: have, And I'm|kick- in' the curb 'cuz you nev-|er heard the|word that you need- ed so *|bad. I'm so|sad,|
+ z4 z2 A2- |"G" A2"Am7" (G6"Em" | E4) z4 |] %88
+w: so|* sad.||
+

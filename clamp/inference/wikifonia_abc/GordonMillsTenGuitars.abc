@@ -1,0 +1,29 @@
+X:1
+T:Ten Guitars
+T:Ten  Guitars
+T:1960's Maori Anthem
+T:Gordon  Mills
+C:Gordon Mills
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ G,2 | E3 E E2 D2 | F3 E D2 C2 |"G" B,3 B, B,2 C2 | D6 G,2 | D3 D D2 C2 | E3 D D2 ED | %7
+w: I|have a band of|men and all they|do is play for|me, They|come from miles a-|round to hear them *|
+w: Gui-|tars are made for|love my band of|men will al- ways|say So|give each one a|pret- ty girl an- d|
+"C" C3 C C2 D2 | E6 G,2 | E3 E E2 D2 | F3 E D2 C2 |"G7" B,3 B, B,2 C2 | D6 G,2 | D3 D D2 C2 | %14
+w: play a mel- o-|dy, Be-|neath the stars my|ten gui- tars will|play a song for|you, And|if you're with the|
+w: they will start to|play Be-|neath the stars my|ten gui- tars will|play a song for|you, And|if you're with the|
+ E3 D D2 ED | G,2 E2 E2 D2 |"C" C2 z2"^Chorus" z2 GF | C4 C4 | C2 CC B,2 C2 |"G" D6 G,2 | %20
+w: one you love the- n|this is what you|do; O- oh|dance, dance,|dance to my ten gui-|tars; And|
+w: one you love * *|this is what to|do * *||||
+ D3 D D2 E2 |"C" F2 G2 A2 G2 | F4- FG F2 | E6 EF | G3 G G2 G2 | G2 E2 F2 G2 |"F" A4 GAGF | %27
+w: ve- ry soon you'll|know just where you|a- a- a- a-|re Thru the|eyes of love you|see a thou- sand|st- a- a- a- ars|
+w: |||||||
+ z4 z2 CD |"C" E4 E4 |"G7" E2 DD C2 B,2 |"C" C8 |] %31
+w: When you|dance, dance,|dance, to my ten gui-|tars.-|
+w: ||||
+

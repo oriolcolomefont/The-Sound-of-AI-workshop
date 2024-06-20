@@ -1,0 +1,33 @@
+X:1
+T:Skokiaan
+T:Skokiaan
+T:(South African Song)
+T:August Msarurgwa
+T:Tom Glazer
+C:August Msarurgwa
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2 D2 ||"G" d8- |"D7" d4 d^c=cA |"G" B2 GD- D4- |"D7" D4 d^c=cA |"G" B2 GD- D4- | %6
+w: Ho|ho|* far a- way in|Af- ri- ca *|* hap- py hap- py|Af- ri- ca *|
+"D7" DBcA BGAF |"G" G3 D- D4- |"D7" DBcA BGAF |"G" G8 |"D" d d2 d d2 D2 |"G" d8- |"D7" d4 d^c=cA | %13
+w: * they sing a bing a bang a|bing o *|* they have a ball and real- ly|go|Sko- ki aan * ho|ho|* take a trip to|
+"G" B2 GD- D4- |"D7" D4 d^c=cA |"G" B2 GD- D4- |"D7" DBcA BGAF |"G" G3 D- D4- |"D7" DBcA BGAF | %19
+w: Af- ri- ca *|* a- ny ship to|Af- ri- ca *|* come on a- long and learn the|lin- go *|* be- side a jun- gle bun- ga-|
+"G" G8- | G2"D7" z2 z2 z D |"G" B3 G- G2 z D |"D7" c3 A- A2 z D |"G" B3 G- G2 z D | %24
+w: low|* the|hot drums * are|drum min * the|hot strings * are|
+"D7" A3 F- F2 z D |"G" B3 G- G2 z D |"D7" c3 A- A2 z D |"G" B3 G- G2 D z |"D7" A F2 D- D2 D2 | %29
+w: strum- ming * and|warm lips * are|bliss- ful * they're|kiss- full * of|Sko- ki- aan * ho|
+"G" d8- |"D7" d4 d^c=cA |"G" B2 GD- D4- |"D7" D4 d^c=cA |"G" B2 GD- D4- |"D7" DBcA BGAF | %35
+w: ho|* if you go to|Af- ri- ca *|* hap- py hap- py|Af- ri- ca *|* you'll lin- ger long- er like a|
+"G" G3 D- D4- |"D7" DBcA BGAF | G8- |"G" G8 ||"G" G8- | G2 z2 z4 |"G" B,2 DG- G B2 z | %42
+w: king 0 *|* right in the jun- gle un- gle-|o||o||Sko- k sko * ki|
+"C" CE"Am"GB"D7" A2 z2 |"G" B,DGG B3 z |"C" EG"Am"Bd"D" c2 z2 |"G" B,2 DG- G B2 z | %46
+w: sho- ki sko- ki- aan|o- key do- key *|a- ny- bod- y can|sko- ki sko * ki|
+"C" CE"Am7"GB"D7" A4- | ABcA BGAF |"G" G3 D- D4- |"D7" DBcA BGAF |"G" G2- G z z4 |] %51
+w: man oh man oh man|* you sing a bing a bang a|bing o *|* in ho- key po- key Sk- ki-|aan *|
+

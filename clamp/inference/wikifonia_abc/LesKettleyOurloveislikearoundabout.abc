@@ -1,0 +1,81 @@
+X:1
+T:Our love is like a roundabout
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 49
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"_Intro" B2"C" c3 d eB- |"^Our love is like a roundabout" B"Am" c3 de B2 | %2
+w: ||
+w: ||
+w: ||
+w: ||
+w: ||
+"Dm" c3 A"^Lyric and Music by Les Kettley" F D3 |"G7" G6 z z |"_Verses" z2 c2"C" c4 | %5
+w: ||Our love|
+w: |||
+w: ||We've had|
+w: |||
+w: ||If you|
+ Bcd"Am"e d2 c2- | cA G F2"Dm" D3 | EF G E2"G7" D3- | D3 z z"Dm" DCB,- | B,2 C"G7" D2 E2 F- | %10
+w: is like a round- a- bout,|_ ev- er chang- ing|and get- ting no where,|_ when we think|_ we've worked it out,|
+w: |||||
+w: some hap- py times be- fore,|_ how I wish we|could turn the clock back,|_ it's on- ly|_ you I a- dore,|
+w: |||||
+w: get round to lov- ing me,|_ life would take a|turn for the bet- ter,|_ you and me|_ were meant to be,|
+ F3"Dm" D EFAG- | G2 F F2"C" E3- | E3 G F E3 | F"C7"G A2 _B4 |"F" AGFG A2 B2 |"F#dim" d2 c4 d2 | %16
+w: _ we find we've al- read-|* y been there,|_ round and round|and round we go,|in ev- er de- creas- ing|circ- les, where|
+w: ||||||
+w: _ can we get our lives|_ back on track,|_ if you still|have love for me,|lov- ing you is all I|live for, can|
+w: ||||||
+w: _ for me there can be-|_ no oth- er,|_ they say what|goes round comes round,|will we soon get back to-|geth- er, why|
+"C" e3 d c3 d |"A7" ef"_© Les Kettley\n Les"g_a"D7" =a4- | a4"Dm" f2 d2- | dABc"G7" d2 e2 | %20
+w: will it end, we|real- ly do not know,|_ un- til-|_ at last the round- a-|
+w: ||||
+w: I put my arms|a- round you a- gain,|_ and kiss|_ the way we used to|
+w: ||||
+w: can't we love the|way we did be- fore,|_ but next|_ time it will be for|
+"^Our love is like a roundabout" d4"C" c4- | c2 z2 z4 |:[K:Bb] cd"Eb" e3 d c2- | %23
+w: bout stops.|_|Ou- r love is like-|
+w: |||
+w: kiss before.|_||
+w: |||
+w: ev- er.|_||
+ cd"F9" e d2"F7" c3 | dc"Bb" B3 A B2 | c2"Gm" d6 |1 z2"Eb" B2 G2 E2 | C2"F9" A B3"F7" c2- | %28
+w: _ a round- a- bout,|it goes round and round|and round,|get- ting no|where ver- y fast|
+w: |||||
+w: |||||
+w: |||||
+w: |||||
+ c2"F9" AG AB"F7" c2 | _d2"Bb" =d4 z2 :| z2"Eb" B2 G2 E2 |2 C2"F9" A"F7" B3 c2- ||3 %32
+w: _ cov- er- ing the same|old ground,|get- ting no|where ver- y fast|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+"F9" c2 AG"F7" AB c2 ||"Bb" A2 B6"^to intro" |"G7" =B8 |[K:C] z8 |3 %36
+w: _ can we turn our lives|a- round.|_||
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+[K:Bb]"^final chorus""Eb" B2 G2 E2"_© Les Kettley\n" C2 ||"F9" A B3"F7" c4 |"F9" AGAc"F7" e3 a | %39
+w: get- ting no where|un- til now,|now we've turned our lives a-|
+w: |||
+w: |||
+w: |||
+w: |||
+"Bb" b8 :| %40
+w: round.|
+w: |
+w: |
+w: |
+w: |
+

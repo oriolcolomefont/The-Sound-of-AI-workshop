@@ -1,0 +1,51 @@
+X:1
+T:Isn't It A Pity
+T:Isn't It A Pity
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Am6" c2 B>c B A3 |"Dm7b5" c>c_B>c B _A3 |"C" G2 A2 c2 e2 |"Dm9""G7" F8 |"C" E2 G2 A>A c2 | %5
+w: He.~~Why did I wan- der,|here and there and yon- der,|Wast- ing prec- ious|time,|For no rea- son or|
+w: She.~~While you were flirt- ing|I was bus- y knit- ting,|hop- ing I'd sur-|vive,|Hop- ing you'd * ar-|
+"F""G7" D8 |"C/E" E>FG>E"B7" A A2- A |"Bb7" E>FG>E"A7" A4 |"D9" c2 B>c B A3 | %9
+w: rhyme?|Is- n't it a pit- y? *|Is- n't it a crime?|My journ- ey's end- ed;|
+w: rive.|All my Dres- den boy- friends were|on- ly half a- live.|Sleep- y was Her- mann,|
+"Dm7b5" c>c_B>c B _A3 |"C" G2 A2 c2 e2 |"F#m7b5""B7" ^F8 |"Em" G2 A>G A"Am" B3 | %13
+w: Ev- 'ry- thing is splen- did:|Meet- ing you to-|day|Has giv- en me a|
+w: Fritz was like a ser- mon,|Hans was such a|bore!|How well you planned it!|
+"Em7" G>GA>G (A"A7" B3) |"D7sus4" d4"D7" d4 |"G7" d6"G+7" z2 |:"C" E>FG>A"Em7" B4 | %17
+w: Won- der ful i- dea, _|Here I|stay!|It's a fun- ny thing|
+w: I just could- sn't stand it|An- y|more!||
+"F" z A (3cBA-"B+7" A4 |"Em" z G (3BAG-"A7" G4 |"Dm" z F (3AGF-"G7" F4 |"C" E>FG>B"C9/E" d d3 | %21
+w: I look at you _|I get a thrill _|I nev- er knew, _|Is- n't it a pit- y|
+w: ||||
+"F" z c (3edc-"Dm7" c2"G7" c2 |"C/E" G6"Adim7" z2 |"C" E>FG>A"Em7" B4 |"F" z A (3cBA-"B+7" A4 | %25
+w: we nev- er met _ be-|fore?|Here we are at last!|It's like a dream! _|
+w: ||||
+"Em" z G (3BAG-"A7" G4 |"Dm7" z F (3AGF-"G7" F4 |"C" E>FG>B"C9/E" d d3 | %28
+w: the two of us. _|A per- fect team! _|Is- n't it a pit- y|
+w: |||
+"F" z c"C/E" (3edc-"Dm7" c2"G7" c2 |"C" c6"Dm7""G7" z2 |"C" z3/2 c<"Dm9"dc/ d2"Am6" c2 | %31
+w: we nev- er met _ be-|fore?|Im- ag- ine all the|
+w: |||
+"Em/B" B2 E2"Em" ^F2 G2 |"F#7" B2"B7" B6 |"Em" B2 A>B A G3 |"A7" B>BA>B A G3 | %35
+w: lone- ly years we've|wast- ed:|You, with the neigh- bors,|I, at sil- ly lab- ors;|
+w: ||Fish- ing for sal- mon,|Los- ing at back- gam- mon.|
+"G6/D" z2 D2 E2"G" G2 |"Am6" d2"D7" d6 |"G7" e2 d>e d c3 |"F9" B>BA>B"F7" A G3 | %39
+w: What joys un-|tast- ed!|You, read- ing Hei- ne,|I, some- where in Chi- na.|
+w: What joys un-|tast- ed!|My nights were sour _|Spemt with Scho- pen- hau- er.|
+"C" E>FG>A"Em7" B4 |"F" z A (3cBA-"B+7" A4 |"Em" z G (3BAG-"A7" G4 |"Dm" z F (3AGF-"G7" F4 | %43
+w: Hap- pi- est of men|I'm sure to be, _|If on- ly you _|will say to me, _|
+w: Let's for- get the past|Let's both a- gree _|That I'm for you _|and you're for me, _|
+"C" E>FG>B d"C+9" d2 c |"Fmaj7" e>e"Em7"d>d"Dm7" c2"G9" B2 |1"C" c8 |"Dm7""G7""G+7" z8 :|2 %47
+w: "It's an aw- ful pit- y, We|nev- er, nev- er met be-|fore."||
+w: And it's such a pit- y, We|nev- er, nev- er met be|||
+"C""C+7""G7" c8- |"C" c2 z2 z4 |] %49
+w: fore."|_|
+w: ||
+

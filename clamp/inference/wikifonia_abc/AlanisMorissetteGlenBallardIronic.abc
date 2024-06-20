@@ -1,0 +1,65 @@
+X:1
+T:Ironic
+C:Alanis Morissette, Glen Ballard
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 5
+V:1
+"^Moderate Rock""Fmaj7" z16 |"G6" z16 |"Fmaj7" z16 |z8z4z2>A,2 |:S"G/B" G4>"C2"(E4 E4) z4 | %5
+w: |||An|old man _|
+w: ||||Play it safe|
+"G/B" D4 DC"Am7"(E2 E2)z2zG,G,G, |"G/B" AG"C2" G6z4z2D2 |"G/B" D2A,(C C2)"Am7"C2z4z2CA, | %8
+w: turned nine- ty- eight. _ He won the|lot- ter- y, and|died the next _ day. It's a|
+w: was a- fraid to fly. He packed his|suit- _ case and|kissed his kids good- bye. He waited|
+"G/B" z2 G4"C2"(E2 E4)z2ED |"G/B" D2C(E E4)"Am7"z4z2EC |"G/B" A2(G2A2)"C2"E2 (D2C2)z2OE2 | %11
+w: black fly _ in your|Chardon- nay. _ _ It's a|death row _ par- don _ two|
+w: hiswhole damn life _ to|take that flight, _ as the|plane crashed _ down, he thought, "Well,|
+"^To Coda""G/B" DC2(C C2)"Am7"C2 z4 EED(C |"G/B" C2)D(C C2)"C2"z2z4z2EC | %13
+w: min- utes too _ late. Is- n't it i-|* ron- ic... _ don't you|
+w: is- n't this _ nice..." * * * *||
+"G/B" C4z4"Am7"zGG2 (c2B(G |"G" (G8)"C" G6))GE |"G" G2<(G2 G2)"Am7"A2z2GG (c2B)((A | %16
+w: think? It's like rain _ _|_ _ on your|wed- ding _ day. It's a free _ ride|
+w: |||
+"G" A4>)"C"(G4 G6))GE |"G" G2G2A2"Am7"E2z2GG c2B(G |"G" (G8)"C" G6)GE |"G" G2G2E2"Am7"(A2 A4) z4 | %20
+w: _ _ _ when you're|al- read- y paid. It's the good ad- vice|_ _ that you|just did- n't take. _|
+w: ||||
+"Bb" _B2A2G2"F"(A2 A2) z2 F2A(G |1"G" (G8) G6)G,G, :|2"G" (G8 G4>)E4 | %23
+w: Who would- 've thought... _ it fig- ures.||* * Well,|
+w: |* * Mis- ter||
+"Fmaj7" EEE(A A)E2(G G2)C2 CCC(B, ||"G6" B,)B,B,B, B,2B,C D2E2C2C2 | %25
+w: life has a fun- _ ny way _ of sneak- ing up on|_ you when you think ev- 'ry- thing's O. K. and|
+w: ||
+"Fmaj7" B,B,B,(B, B,)A,((A,2 A,4>)(G,4 |"G6" G,12))z2C2 |"^£Fmaj7" CDE(A A)E(G2 G2)C2 CCC(B, | %28
+w: ev- 'ry- thing's go- _ ing right. _ _|_ And|life has a fun- _ _ ny way of help- ing you out|
+w: |||
+"G6" B,)B,B,(B, B,)DD(D D)E2(C C2)C2 |"Fmaj7" B,B,B,(B, B,)B,2(B, B,)C (A,4(G,2 | %30
+w: _ when you think _ ev- 'ry- thing's _ gone wrong _ and|ev- 'ry- thing blows _ up in _ your face. _|
+w: ||
+ G,8))"C"z4z2>C2 ||"^D.S. al Coda"O"G/B" CCC(G G)E"Am7"C2 C4 z4 |[M:2/4]z2>C2 EEDC | %33
+w: _ A|meet- ing his beau _ ti ful wife.|And is- n't it i-|
+w: |||
+[M:4/4]"G/B" DCz2z4"C2"z4z2CC |"G/B" C4z4"Am7"zGGG c2>B2 |"G/B" cGz2z4z4zCCC | %36
+w: ron- ic... don't you|think? A lit- tle too i-|ron- ic... and yeah, I|
+w: |||
+"G/B" ECC2 C4"Am7"zGG2 (c2B(G |"G" (G8)"C" G6))GE |"G" G2<(G2 G2)"Am7"A2z2GG (c2B)((A | %39
+w: real- ly do think... it's like rain _ _|_ _ on your|wed- ding _ day. It's a free _ ride|
+w: |||
+"G" A4>)"C"(G4 G6))GE |"G" G2G2A2"Am7"E2z2GG c2B(G |"G" (G8)"C" G6)GE |"G" G2G2E2"Am7"(A2 A4)z2G2 | %43
+w: _ _ _ when you're|al- read- y paid. It's the good ad- vice|_ _ that you|just did- n't take. _ And|
+w: ||||
+"Bb" _B2A2G2"F"(A2 A2) z2 F2A(G |"G" (G16) |"Fmaj7" G16) |"G6"z4z2(E2 E2) E4E2 | %47
+w: who would have thougt, _ it fig- ures.|_||And _ you know|
+w: ||||
+"Fmaj7" EEEA E2<G2z2>C2 CCDE |"G6" (D4 E2(C2 C4)) z4 |"Fmaj7" EEE2 AE z2 AE (G6 | %50
+w: life has a fun- ny way of sneak- ing up on|you. _ _ _|Life has a fun- ny, fun- ny way|
+w: |||
+"G6" G2)z2z2>(C2 C)C2(C C)D2(C |"Fmaj7" C4)z4zB,2(C C2<)D2 | A,8 z8 | !fermata!z16 |] z16 | z16 | %56
+w: _ of _ help- ing _ you out,|_ help- ing _ you|out.||||
+w: ||||||
+ z16 |] %57
+w: |
+w: |
+

@@ -1,0 +1,48 @@
+X:1
+T:My love
+T:JBB Nov 2012
+T:Paul Mc Cartney
+C:Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Fmaj7" z/ C/F/G/ AB/c/- c2 z2 | z2 z/ C/F/G/ AB/d/- d/c/B |"Em7" G6 E/GA/ | %3
+w: & when I go a- way _|I know my heart can stay _ with my|love It's un- der-|
+w: & when the cup- board's bare _|I'll still find some- thing there _ with my|love It's un- der-|
+w: Don't ev- er ask me why _|I nev- er say good- bye _ to my|love It's un- der-|
+"A7" E2- E>E B/A/G- G/FE/ |"Dm7" C6- C>C |"Em7" E G3"Fmaj7" A c3 |"F#m7b5" e6 e>d |"C" c2 E4 e>d | %8
+w: stood _ It's in the hands _ of my|love _ &|my love does it|good Wo _|_ _ _ _|
+w: stood _ It's ev'- ry- where _ with my|love. * *||||
+w: stood _ It's ev'- ry- where _ with my|love * *||||
+"Dm7" c2 D6 |"F" F2 F2 A c2 c- ||1"C" c6 z2 :|2"C" c6 z2 ||"Dm7" DF- F4"G7" A/(GF/) | %13
+w: |My love does it good|||I love, _ oh- wo, _|
+w: |||||
+w: |||||
+"C" Gc- c4-"E+" cB/c/ |"F" B A2 E/D/"G7" B,2 AG- |"C" G3 A"E+" EE (E/DC/) |"Dm7" DF- F4"G7" A/GF/ | %17
+w: my love _ _ On- ly|my love holds the oth- er key|_ to me Oh ho, _ _|my love, _ oh _ _|
+w: ||||
+w: ||||
+"C" G2 c4-"C+" cB/c/ |"F" B A2 F/D/"G7" B,2 (e/d/c/d/) |"C" c6 e>d | c2 E4 e>d |"Dm7" c2 D6 | %22
+w: my love _ On- ly|my love does it good to _ _ _|me Wo _|_ _ _ _||
+w: |||||
+w: |||||
+"F" A2 F2 A c2 c- |"C" c6 z2"_D.C. al Coda" ||"C" c6 z2 |"Dm7" DF- F4"G7" A/(GF/) | %26
+w: My love does it good.|_||My love _ oh- wo, _|
+w: ||||
+w: ||||
+"C" G2 c4-"C+" cB/c/ |"Dm7" e d2 c/"G7"A/ !fermata!fe/e/ (d/B/A/G/) |"C" c4"C+" edcB | %29
+w: my love _ On- ly|my love does it good to _ _ _ _ _|me Wo _ _ _|
+w: |||
+w: |||
+"F" A2 F2"G7" B2 G2 |"C" !fermata!c6 z2 |] %31
+w: _ _ _ _||
+w: ||
+w: ||
+

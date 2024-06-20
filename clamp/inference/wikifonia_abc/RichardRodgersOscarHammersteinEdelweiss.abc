@@ -1,0 +1,23 @@
+X:1
+T:Edelweiss
+T:Edelweiss
+T:Richard Rodgers
+T:All Rights Reserved
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" D2 F |"F7/A" c3 |"Bb/D" B2 F |"Eb/G" E3 |"Bb" D2 D |"Gm7" D E F |"Cm7" G3 |"F7" F3 | %8
+w: E- del-|weiss|E- del-|weiss|Ev- 'ry|morn- ing you|greet|me.|
+"Bb" D2 F |"F7/A" c3 |"Bb/D" B2 F |"Eb/G" E3 |"Bb" D2 F |"F7" F G A |"Bb" B3 | B3 | %16
+w: Small and|white|Clean and|bright|you look|hap- py to|meet|me.|
+"F7" c/z/z/F/ F | A G F |"Bb" D2 F | B3 |"Eb" G2"Gm/D" B |"C7" c2 B |"F" A3 |"F7" F3 |"Bb" D2 F | %25
+w: Blos- som of|snow may you|bloom and|grow|Bloom and|grow for-|ev-|er|E- del-|
+"Bb7/Ab" c3 |"Eb/G" B2 F |"Ebm/Gb" E3 |"Bb/F" D2 F |"F7" F G A |"Bb" B3 | B2 z |] %32
+w: weiss|E- del-|weiss|Bless my|home land for-|ev-|er.|
+

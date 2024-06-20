@@ -1,0 +1,44 @@
+X:1
+T:Come In From The Rain
+C:Melissa Manchester and Carole Bayer Sager
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 9
+%%MIDI program 1
+V:1
+"F " c4 AB c2 |"Eb7" _d2 f2 e2 d2 |"F " c4 AB c2 |"Bbmin" B/_d/B/d/ f/d/G/B/"C7" d2 Ac | %4
+w: |||* * * * * * * * * Well hel-|
+"F " dc- c2 z2 Ac |"Amin" =ed d2 z2 Ac |"F " dc Ac"Dmin" dc Ac |"Amin" =ef d2"Dmin" z2 df | %8
+w: lo there * good old|friend of mine. You've been|reach- ing for your- self for such a|long, long time. There's so|
+"Bb " gf f2 z2 df |"Eb7" ab g2"Bbmin" z2 f_d |"F " cd fd"Dmin" cd fd |"Csus47" ag g2"C7" z2 Ac | %12
+w: much to say, no need|to ex- plain, just an|o\- pen door for you to come in|from the rain. It's a|
+"F " dc c4 Ac |"Amin" =ef d2 z2 Ac |"F " dc Ac"Dmin" dc Ac |"Amin" =ef d2"Dmin" z2 df | %16
+w: long, long road when you're|all a\- lone and a|man like you will al- ways choose the|long way home. There's no|
+"Gmin" gf"Bb " f2 z2 df |"Eb7" af g2"Bbmin" z2 f_d |"F " cd fd c"Dmin"d fd | %19
+w: right or wrong, I'm not|here to blame. I just|want to be the one who keeps you|
+"Bbmaj7" ag g2"Bbmin" a g2 f/g/ |"F " f8- | f2 z4"F7" fg |"Bbmaj7" aa-"Bb " a4 fa |"Eb7" g6 z2 | %24
+w: from the rain, fr- om the *|rain.|* And it|looks like * sun- ny|skies|
+"Bbmaj7" ab a f2 z da |"Eb7""Bbmin" g8 |"Amin" z2 =e4 (3cdc |"D7" =ed- d4 z2 | %28
+w: now that I know you're al-|right.|Time has left us|ol- der, *|
+"Gmin7" dc-"F " c4 Ac |"Gmin7" dc-"C7" c2 z4 | z4 z2 Ac |"F " dc cA"Dmin" dc Ac | %32
+w: wi- ser, * I know|I am. *|And it's|good to know my best friend has come|
+"Amin" =ef d2"Dmin" z2 df |"Bb " gf f2 z2 df |"Eb7" ab g2"Bbmin" z2 f_d |"Dmin7" cd fd"F " cd fd | %36
+w: home a\- gain cause I|think of us like an|old cli- che, but it|does- n't mat- ter cause I love you|
+"Bbmaj7" ag g2"Bbmin" ag gf |"F " f8 | z4 z2"F7" fg |"Bbmaj7" aa-"Bb " a4 fa |"Eb7" g6 z2 | %41
+w: a\- ny way. Come in from the|rain.|And it|looks like * sun- ny|skies|
+"Bbmaj7" ab a f2 z da |"Eb7""Bbmin" g8 |"Amin" z2 =e4 (3cdc |"D7" =ed- d4 z2 | %45
+w: now that I know you're al-|right.|Time has left us|ol- der, *|
+"Gmin7" dc-"F " c4 Ac |"Gmin7" d2"C7" c2 z2 Ac |"F " dc c2 z2 Ac |"Amin" =ed"Dmin" d2 z2 Ac | %49
+w: wi- ser, * I know|I am. * *|||
+"F " dc Ac"Dmin" dc Ac |"Amin" =ed"Dmin" d2 z2 df |"Gmin7" gf"Bb " f2 z2 df | %52
+w: |* * * Cause I|think of us like an|
+"Eb7" ab g2"Bbmin" z2 f_d |"Dmin7" cd fd"F " cd fd |"Bbmaj7" ag g2"Bbmin" ag gf |"F " f8 | %56
+w: old cli- che, but it|does- n't mat- ter cause I love you|a\- ny way. Come in from the|rain.|
+"Abmaj7" z4 _ag"Bbmin" g>f |"F " f4 z4 |"Abmaj7" z4 _ag"Bbmin" g>f |"F " f4 AB c2 | %60
+w: Come in from the|rain!|Come in from the|rain! * * *|
+"Bbmin" B/_d/B/d/ f/d/ z e/d/ z/ d/ e/d/ z/ B/ x14/5 |"F " A2 B2"Bbmin" c4- |"F " c8 |] %63
+w: |||
+

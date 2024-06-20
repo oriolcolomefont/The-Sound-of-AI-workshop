@@ -1,0 +1,48 @@
+X:1
+T:Hometown
+T:Hometown
+T:Jimmy Kennedy & Michael Carr
+C:Jimmy Kennedy & Michael Carr
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" B>d"Bb7/Ab"F>G"Eb/G" B>D"Ebm/Gb"E>=E |"Bb/F" F"Bbdim/E" F2"F7/Eb" F- F2 z ^c | %2
+w: ||
+w: ||
+"Bb" d>fB>^c d>BG>D |"F7" F G2 B-"Bb" B2 z2 |"Bb""^VERSE" d>^cd>c d2 F2 |"D7/A" d2 ^c=c-"D7" c4 | %6
+w: ||I can see a bunch of|small town hicks, *|
+w: ||||
+"Eb" c>Bc>B c>Bc>B |"Bb" G F2 F- F2 D>E | F4 d4 |"F7/C" z3/2 F<F=E/ _E2 c2 |"Bb" B4 F4 | %11
+w: sit- tin' round the lo- cal store a-|whitt- lin' sticks * in my|home town.|Why did I ev- er|roam town,|
+w: |||||
+"F7" F2 G>A G2 F2 |"Bb" d>^cd>c d2 F2 |"D7/A" d2 ^c"D7"=c- c4 |"Eb" c>Bc>B c>Bc>B | %15
+w: I must be craz- y.|Though the cit- y girls are|not so slow *|Take me to the corn- fed girls I|
+w: ||||
+"Bb" G F2 F- F2 z2 |"F7" F2 A>A"C7" B2"Bdim" =B2 |"C7" c4"Ebdim" A3 B |"C7" c2 B2"F7" A2"C7" G2 | %19
+w: used to know *|I'm pi- ning night and|day for that|old time new mown|
+w: ||||
+"F7" F4 z4 |:"Bb""^Chorus" B4 B4 |"D+7" z2 B>B B>Ad>B |"G7" A4 G4 |"C7" z2 A>A A>Gc>A | %24
+w: hay.|Home- town,|want to wan- der down your|back streets,|see your tum- ble down old|
+w: |Home- town,|where the doves are soft- ly|coo- in,|where there's al- ways noth- in'|
+"Cm7" G4"F7" F4- |"Cm7" F2 d2"F7" d2 c2 |"Bb" B>dF>G"Gm" B>DE>=E |1"Cm7" F>GAG-"F7" G4 :|2 %28
+w: shack streets,|* I'd love to|walk in on those cor- ny coun- try|cous- ins of mine *|
+w: do- in',|* I'd get a|wel- come from those cor- ny count- try||
+"Cm7" F>G"F7"A>B-"Bb" B2 c>^c ||"D" d4 ^c2 d2 |"D7" c4- c>=Bc>^c |"G" d2 d2 ^c2 d2 |"G7" =B6 ^F>G | %33
+w: cous- ins of mine. * There's an|old school house|door * we used to|tum- ble thro' at|four, and a|
+w: cous- ins of mine. * * *|||||
+"C" c4 =B2 c2 |"C7" B4- B>AB>=B |"F7" c>dc>G"Cm7" B>cB>F |"F7" A A2 G-"Cm7""F7" G4 |"Bb" B4 B4 | %38
+w: small can- dy|store, * where I could|go a doz- en lol- li- pops and|come for more. *|Home- town,|
+w: |||||
+"D+7" z2 B>B B>Ad>B |"G7" A4 G4 |"C7" z2 A>A A>Gc>A |"Cm7" G4"F7" F4- |"Cm7" F2 d2"F7" d2 c2 | %43
+w: where the gard- en trees are|shad- y,|where our Ead- ie was a|la- dy,|* I'm go- in'|
+w: |||||
+"Bb" B>dF>G"Gm" B>DE>=E |"Cm7" F>G"F7"A>B-"Bb" B2 z2 |] %45
+w: back to see those cor- ny coun- try|cous- ins of mine.- *|
+w: ||
+

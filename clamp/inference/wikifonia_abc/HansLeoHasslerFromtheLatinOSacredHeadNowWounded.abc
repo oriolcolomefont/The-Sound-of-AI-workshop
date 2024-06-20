@@ -1,0 +1,33 @@
+X:1
+T:O Sacred Head Now Wounded
+T:O Sacred Head Now Wounded
+T:Hans Leo Hassler
+T:From the Latin
+T:Public Domain
+C:Hans Leo Hassler
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" E |"F" A"C" G"F" F"C" E |"F6" D2"C" !fermata!E"Bdim" B |"Am" c c (B/A/)"E" B |"Am" A3 E | %5
+w: 1.~O|sa- cred head, now|wound- ed, With|grief and shame * weighed|down Now|
+w: 2.~What|Thou, my Lord, has|suf- fered Was|all for sin- * ners'|gain. Mine,|
+w: 3.~What|lan- guage shall I|bor- row To|thank Thee, dear- * est|friend, For|
+"F" A"C/E" G"Dm" F"C" E |"F6" D2"C" !fermata!E"Bdim" B |"Am" c c (B/A/)"E" B |"Am" A3 c | %9
+w: scorn- ful- ly sur-|round- ed With|thorns, Thine on- * ly|crown. O|
+w: mine was the trans-|gres- sion, But|Thine the dead- * ly|pain. Lo,|
+w: this, Thy dy- ing|sor- row, Thy|pit- y with- * out|end? O|
+"Dm" B/A/"Em" G"F" A"Dm" B |"F/C" c2"C" !fermata!c G |"F7" A"A7/C#" G"Dm" F"F" F |"A" E3"D7" c | %13
+w: sa- * cred head, what|glo- ry, What|bliss till now was|Thine! Yet,|
+w: here * I fall, my|Sav- ior; 'Tis|I de- serve thy|place. Look|
+w: make * me Thine for-|ev- er, And,|should I faint- ing|be, Lord|
+"G" (B/c/)"D" d"C/E" c"G/D" B |"C6" A2"G" !fermata!B"C" E |"F/A" F"C/G" E"F6" D"G" G |"C" E3 |] %17
+w: tho' * de- spised and|gor- y, I|joy to call Thee|mine.|
+w: on * me with thy|fa- vor; Vouch-|safe to me Thy|grace.|
+w: let * me ne- ver,|nev- er, Out-|live my love to|Thee.|
+

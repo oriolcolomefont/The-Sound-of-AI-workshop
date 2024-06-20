@@ -1,0 +1,26 @@
+X:1
+T:San Francisco Bay Blues
+T:San Francisco Bay Blues
+C:Jesse Fuller
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^N.C." z4 z EEE |"C" G2 GG GGG^G |"F" A^GAG A A3 |"C" =G8- |"C7" G2 z2 z4 |"F" A2 c2 c c3 | %6
+w: I got the|blues for my ba- by, left me|by the San Fran- cis- co|Bay;|_|O- cean lin- er|
+ AB c2 c2 A2 |"C" G8- |"C7" G2 z2 z4 |"F" Accc ccAc- |"F#dim" c4 z ccd |"C/G" e2 e^d e e3 | %12
+w: took her so far a-|way.|_|Did- n't mean to treat her so bad,|_ she was the|best gal I ev- er|
+"A7" (=cA-) A6 |"D7" e2 d(d c) A3 | e2 d(c- c) A3 |"G7" z BBB dddd- | d4 z2 z G |"C" G G2 G GGG^G | %18
+w: had. _ _|Said good- bye, _ _|made me cry, _ _|I wan- na lay down and die.|_ I|ain't got a nick- el and I|
+"F" A2 A^G A A3 |"C" =G8- |"C7" G2 z2 z2 GG |"F" AA c2 c3 G | Accc c2 cB- |"E7" B8- | %24
+w: aint got a lous- y|dime;|_ If she|ev- er comes back, I|think I'm gon- na lose my mind.|_|
+ B2 z2 z2 ^GG |"F" Ac c2 c2 A2 |"F#dim" c6 cc |"C/G" eeee e2 e2 |"A7" (cA-) A4 z2 | %29
+w: * If she|ev- er comes back to|stay, It- 'll|be an- oth- er brand new|day, _ _|
+"D7" e^ded ed e2 |"G7" gee^d e e3 |"C" (ec-) c6- | c2 z2 z4 |] %33
+w: Walk- in' with my ba- by down|by the San Fran- cis- co|bay. _ _|_|
+

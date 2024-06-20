@@ -1,0 +1,22 @@
+X:1
+T:Blow Me (One Last Kiss)
+T:Blow Me (One Last Kiss)
+T:Pink
+C:Pink
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" B4 A3 B- |"Bm" B6 z2 |"Em" BcB A2 G2 z |"C" BcB A2 G B2 |"G" B4 A3 B- |"Bm" B6 z2 | %6
+"Em" BcB A2 G2 z |"C" BcB A2 G B2 |"G" z BAB z BAB |"Bm" z BB d2 BAE |"Em" z BAB z BAB | %11
+"C" z BA d2 BAB |"G" z BAB z BAB |"Bm" z BB d2 BAE |"Em" z BAB z BAB |"C" z BA e2 dBd | %16
+"G" z ddB BA/A/-AG |"Bm" z ddB BA/A/-AG |"Em" z ddB BA/A/-AG |"C" c2 B A2 G2 D | %20
+"G" z ddB BA/A/-AG |"Bm" z ddB BA/A/-AG |"Em" z ddB BA/A/-AG |"C" c2 B A2 G2 D |"G" g2 ff e d2 d | %25
+"Bm" z ddB<d e2 z |"Em" z ddB<d e2 z |"C" z ddB<d e2 z |"G" z ddB BA/A/-AG |"Bm" z ddB BA/A/-AG | %30
+"Em" z ddB BA/A/-AG |"C" c2 B A2 G2 G- |"G" G3 z z4 |] %33
+

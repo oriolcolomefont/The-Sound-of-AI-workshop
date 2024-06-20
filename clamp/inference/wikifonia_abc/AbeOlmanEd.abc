@@ -1,0 +1,26 @@
+X:1
+T:Oh, Johnny! Oh, Johnny! Oh!
+T:Oh, Johnny! Oh, Johnny! Oh!
+T:Abe Olman
+T:Ed. Rose
+C:Abe Olman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G2 F E | G2 F E |"G7" F E F D- | D3 z | A2 G F | A2 G ^F |"C" G ^F G E- | E G"Cdim" A"G7" B | %8
+w: Oh, John- ny!|Oh, John- ny!|how you can love!||Oh! John- ny!|Oh, John- ny!|Heav- ens a- bove!|* You make my|
+"C" c2 c2 |"Cdim" c3 A |"G7" F4- | F G A ^A | B2 B2 |"G+7" B2 G2 |"C6" z A"Cdim" A B | %15
+w: sad heart|jump with|joy,|* And when you're|near I|just can't|sit still a|
+"G7" A G"Cdim" ^F"G7" =F |"C" G2 F E | G2 F E |"G7" F E F D- | D3 G |"F" A2 A2- | A2"Fm" ^G"F" A | %22
+w: min- ute, I'm so,|Oh, John- ny!|Oh, John- ny!|Please tell me, dear,|* What|makes me|* love you|
+"E7" B4- | B2"F/G" A"G7" B |"C" c B c G- | G2 B"Cm" c |"D7" d ^c d A- | A2 A"D+7" ^A |"G7" B2 A G | %29
+w: so?|* You're not|hand- some, it's true,|* But when|I look at you,|* I just,|Oh, John- ny!|
+ B2 A G |"C""F7" c4- |"C" c3 z |] %32
+w: Oh, John- ny!|Oh!-||
+

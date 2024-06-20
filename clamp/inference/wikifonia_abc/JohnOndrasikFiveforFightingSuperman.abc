@@ -1,0 +1,52 @@
+X:1
+T:Superman
+T:Superman
+C:John Ondrasik
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z8 |"Gpower" z8 |"Am7" z8 |"Fsus2" z8 |"C" z8 |"Gpower" z8 |"Am7" z8 |"Fsus2" z8 || %8
+w: ||||||||
+"C" e e2 c- c2 Gd- |"Gpower" d2 z2 z4 |"Am7" f e2 c- c d2 d- |"Fsus2" d2 z2 z4 | %12
+w: I can't stand _ to fly.|_|I'm not that _ na- ive.|_|
+"C" f e2 c- c2 Gd- |"Gpower" d2 z2 z2 z3/2 c/ |"Am7" f e2 c- c d2 d- |"Fsus2" d2 z c cdeg- | %16
+w: I'm just out _ to find|_ the|bet- ter part _ of me.|_ I'm more than a bird.|
+"C" g2 z c cdeg- |"Gpower" g2 z G A c2 c |"Am7" z fec- c2 Ff |"F" e c2 A c d2 c- | %20
+w: _ I'm more than a plane.|_ I'm more than some|pret- ty face _ be- side|a train. And it's not eas-|
+"C" cE z2 z e2 d- |[M:2/4]"G" d B3 |[M:4/4]"Fsus2" c6 z2 |"C" z4 z2 z G | fecc- c d2 d- | %25
+w: * y to be|_ _|me.|I|wish that _ I _ could cry.|
+"Gpower" d2 z2 z4 |"Am7" z f2 e c d2 d- |"Fsus2" d2 z2 z4 |"C" z f2 e c2 GG- | %29
+w: _|Fall up- on my knees.|_|Find a way to lie.-|
+"Gpower" G z z2 z Gcf- |"Am7" f e2 d/c/- c3 d- |"Fsus2" d3 c cdeg- |"C" g3 c cdeg- | %33
+w: _ 'bout a home|_ I'll nev- er _ see.|_ I may sound ab- surd,|_ but don't be na- ive.|
+"G/B" g2 z2 A c2 f- |"Am7" f e2 c- c2 Af |"F" e c2 c cdeg- |"C" g2 z c cdeg- |"G/B" g2 z2 A c2 f- | %38
+w: _ Ev- en he-|* roes have _ the right|to bleed. I may be dis- turbed,|_ but wont you con- cede|_ ev- en he-|
+"Am7" f e2 c- c2 Af |"F" e c2 A c d2 c- |"C" c E2 z z e2 (d- |[M:2/4]"G" d B3) | %42
+w: * roes have _ the right|to dream? And it's not ea-|* sy to be|_ _|
+[M:4/4]"Fsus2" c6 z2 |"C" z4"G/B" z4 |"Am" A A2 B-"G/B" B B2 c- |"C" c e2 f-"Dm" f e2 e- | %46
+w: me||up, up and _ a- way,|_ a- way _ from me.|
+"Am" e3 a b c'2 d- |"D" d2 z2 z2 c/c/e- |"C" e e2 (e dc)cA- |"D" A2 z2 c c2 c- |"F" c(A G2) z4 | %51
+w: _ Well it's al- right,|_ you can all|_ sleep sound * * to- night.|_ I'm not cra-|* zy _|
+ z4 z A A/G/G- |"G" G2 z2 z4 |"C" f e2 c- c2 GG- |"G" G2 z2 z4 |"Am7" f g2 e- e c2 F- | %56
+w: or an- y- thing.|_|I can't stand _ to fly.|_|I'm not that _ na- ive.|
+"Fsus2" F2 z2 z4 |"C" f e2 c- c2 cd- |"G" d z z2 z (Ac)f- |"Am7" f g2 e- e c2 c- | %60
+w: _|Men were'nt meant _ to ride|_ with _ clouds|_ be- tween _ their knees.|
+"Fsus2" c3 c cdeg- |"C" g3 c/c/ cd e2 |"Gpower" g z z2 A c2 c |"Am7" z fec- cGGf- | %64
+w: _ I'm on- ly a man|_ in a sil- ly red|sheet, dig- ing for|kryp- ton- ite _ on this one-|
+"F" f e2 c cdeg- |"C" g2 z c/c/ cd e2 |"Gpower" g2 z2 A c2 c |"Am7" z fec- c2 Af | %68
+w: * way street. On- ly a man|_ in a fun- ny red|sheet, look- ing for|spe- cial things _ in- side|
+"F" e c2 c (dc)c(c- |"C" c6- cd- |"G/B" d2) z c d2 c(c- |"Am7" cA- A6) |"F" z c2 c dcc(c- | %73
+w: of me, in- side _ of me,|_ _ _|* in- side of me.|_ _ _|Yeah, in- side _ of me,|
+"C" c6- cd- |"G/B" d2) z e- ef- f2- |"Am7" f e2 c- c4- |"F" c2 z c cdeg- |"C" g2 z c/c/ cd e2 | %78
+w: _ _ _|* in- * side _|_ of me. _|_ I'm on- ly a man|_ in a fun- ny red|
+"Gpower" g3 d dddd- |"Am7" d2 dd d c2 c- |"F" c2 z c cdeg- |"C" g2 cc cd e2 | %82
+w: sheet. I'm on- ly a man|_ look- ing for a dream.|_ I'm on- ly a man|_ in a fun- ny red|
+"Gpower" g2 z d d e2 d- |"Am7" dc- c6 |"Fsus2" g3 e- e2 c2- | c8 |"^N.C." z4 c c2"C" d- | %87
+w: sheet and it's not ea-|* sy, _|ooh, ooh, _ ooh.|_|it's not ea-|
+ d c2 A/G/- G4 |"G" ed- d6 |"C" c8 |"Gpower" z8 |"Am7" z8 |"Fsus2" z8 |"C" z8 |] %94
+w: * sy _ _ _|to be _|me.|||||
+

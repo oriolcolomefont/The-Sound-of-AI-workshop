@@ -1,0 +1,31 @@
+X:1
+T:A Place In The Sun
+T:A Place In The Sun
+T:Bryan Wells
+T:Ronald Miller
+C:Bryan Wells
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 D E |:"Dm7" F2 D C |"G7" B,2 C D |"C" E E C B, |"Am7" A,2 A, E |"Dm7" D4- |"G7" D2 D B, | %7
+w: Like a|long lone- ly|stream, I keep|run- nin' towards a|dream, mov- in'|on,|* mov- in'|
+w: |old dust- y|road, I get|wear- y from the|load, mov- in'|on,|* mov- in'|
+"C""F" C4- |"C" C2 D E |"Dm" F2 D C |"G7" B,2 C D |"C" E E C B, |"Am7" A,2 A, E |"Dm7" D4- | %14
+w: on.|* Like a|branch on a|tree, I keep|reach- in' to be|free, mov- in'|on,|
+w: on.|* Like this|tired, trou- bled|earth, I've been|roll- in' since my|birth, mov- in'|on,|
+ D2 D B, |"C""F" C4- |"C" C C D E |"Dm7" F2 G A |"G7" B2 c d |"C" e e e d |"Am7" c2 c e | %21
+w: * mov- in'|on.|* 'cause there's a|place in the|sun where there's|hope for ev- ery-|one, where my|
+w: * mov- in'|on.-||||||
+"Dm" d2 d c |"G7" B2 c d |"C" e4- | e2 D E |"Dm7" F2 G A |"G7" B2 c d |"C" e e e d |"Am7" c2 c d | %29
+w: poor rest- less|heart's got- ta|run.|* There's a|place in the|sun and be-|fore my life is|done, got to|
+w: ||||||||
+"Dm7" d2 d c |"G7" B2 c d |"C""F" c4- |1"C" c2 D E :|2"C" c2 z2 |] %34
+w: find me a|place in the|sun.|* Like an||
+w: |||||
+

@@ -1,0 +1,23 @@
+X:1
+T:I Love You Lord
+T:I Love You Lord
+T:Laurie Klein, 1978
+C:Laurie Klein, 1978
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 | z6 C2 |"F" F3 F F4- | F4 C2 F2 |"Gm/F" G3 A"F" A4- | A6 F2 | %10
+w: |||||I|love you Lord|_ and I|lift my voice|_ to|
+"Bb/D" B4"F/C" A4 |"C/Bb" G4"F/A" A2 F2 |"Gm7" C6 D2 |"C" E6 C2 |"F" F3 F F4- | F4 C2 F2 | %16
+w: wor ship|you oh my|soul re|joice take|joy my King|_ in _|
+"Gm/F" G3 A"F" A4- | A4"F7" AABc |"Bb" B4"F/A" A2 F2 |"Gm7" C4"C7" EF G2 |"F" F8- | F8 | z8 | z8 | %24
+w: what you hear|_ may it be a|sweet sweet _|sound in _ your|ear|_|||
+ z8 |] %25
+w: |
+

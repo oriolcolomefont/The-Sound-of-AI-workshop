@@ -1,0 +1,44 @@
+X:1
+T:Night Life (Guitar Solo Added)
+C:Walt Breeland and Paul Buskirk, Willie Nelson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Guitar" snm="Guitar"
+%%MIDI channel 4
+%%MIDI program 24
+V:1
+"C " ee- ee"F " f3 f |"G " dd- dd"Emin" e4 |"Amin" z e ee"F " f3 f |"Dmin" dd- dd"G7" e2(3zGA | %4
+w: |||* * * * * When the|
+"C " (3G2 E2 C2- C2 z c |"C7" _B6(3zAA |"F " GF- F4(3zCA, |"Fmin" _A,6- A,C | %8
+w: ev'- ning sun * goes|down, you will|find me * hang- in'|round. * The|
+"C " EE- E2"Amin" z2 FE |"G " DG,- G,2z2(3zGE |"C " G E2 e"F " f3 f | %11
+w: night life * ain't no|good life * but it's|my life. * * *|
+"Dmin" d3 d"G7" e2 (3:2:2G2 A |"C " G E3- (3E2 C2 c2 |"C7" _B6(3zGG |"F " G2 F4 CA, | %15
+w: * * * Ma- ny|peo- ple * just like|me drea- min'|of old used to|
+"Fmin" _A,6(3zCD |"C " E E3"Amin" z F2 E |"G " DG,- G,2z2(3zB,D |"C " E C3"F7" (3f_ed (3c_BA | %19
+w: bes and the|night life ain't no|good life * but it's|my life. * * * * * *|
+"C " G E3"G7" z4 |"C " cG AG"Eb " _B2- BG |"C " ^FG- G2 z4 | (3ccc _eg- g2 (3ggg | (3f_ec c4 z2 | %24
+w: |Lis- ten to the blues * they're|play- in' *|||
+"F7" (3FFF (3FFG-"Eb " G2 z _E |"C " CC- C2 z2 c/c/_e/f/ | gg g/a/_e/f/ gg ga- | %27
+w: Lis- ten to what the blues * are|say- in'. * * * * *||
+"Dmin" a4"G7"z2(3zGA |"C " G4 z E Cc |"C7" _B6(3zAA |"F " G2 F4 C<A, |"Fmin" _A,6(3zCD | %32
+w: * Mine is|just a\- no- ther|scene from the|world of bro- ken|dreams and the|
+"C " E E3"Amin" z F2 E |"G " DG,- G,2z2(3zCD |"C " E C2 z"F " z4 |"Dmin"z4"G7"z2(3zcc | %36
+w: night life ain't no|good life * but it's|my life.||
+"C " eg- g4 a2 |"C7" ge- (3ecd (3ecc- (3cAc |"F7" _e2 z2 dc z c |"Fmin7" gf _e2 c2 z2 | %40
+w: ||||
+"C " (3ggf (3eGE-"Amin" E2 z A |"D9" e2 A2"G7" cz(3zgf |"C " (3_ecA"F " c6 |"C ""G7" z8 | %44
+w: ||||
+"C " cG AG"Eb " _B2- BG |"C " ^FG- G2 z2 c/c/_e/f/ | g2 (3c_ef (3ggg (3ggg | (3ggg f_e c2 z2 | %48
+w: Lis- ten to the blues * they're|play- in' * * * * *|||
+"F7" (3FFF (3FFG-"Eb " G2 z _E |"C " EC- C2 z2 c/c/_e/f/ | g2 c/c/_e/f/ g2(3zgg | %51
+w: Lis- ten to what the blues * are|say- in'. * * * * *||
+"G7" (3:2:2b d'2 (3:2:2b d'2 g2(3zGA |"C " G4 z E Cc |"C7" _B6(3zAA |"F " G2 F4 C<A, | %55
+w: * * * * * Mine is|just a\- no- ther|scene from the|world of bro- ken|
+"Fmin" _A,6(3zCD |"C " E E3"Amin" z F2 E |"G " DG,- G,2z2(3zCD |"C " EC (3c_ef"F7" gf ec | %59
+w: dreams and the|night life ain't no|good life * but it's|my life. * * * * * * *|
+"C " _BB =Bc- c4 |] %60
+w: |
+

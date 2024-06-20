@@ -1,0 +1,45 @@
+X:1
+T:Thanks For The Memory
+T:Thanks For The Memory
+C:Leo Robin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"C13" c4 z2 AG |"F6" FD D4 z C | DD D/C/_E-"F#dim" E2 z2 |"C7/G" EE E/D/F-"F/A" F2 z F | %4
+w: Thanks for the|mem- o- ry of|can- dle light and wine *|cas- tles on the Rhine * the|
+w: Thanks for the|mem- o- ry of|sen- ti- men- tal verse, *|noth- ing in my purse, * and|
+"D#dim7" ^FFFF"C7/E" GGGG |"F#dim7" AA A/A/B-"Gm7" B2"Adim7" c2 |"Bb6" d2 D2 z2 F2 | %7
+w: Par- the- non and mo- ments on the|Hud- son Riv- er Line. * How|love- ly it|
+w: chuck- les when the preach- er said "For|bet- ter or for worse. * How|love- ly it|
+"Bbm6/Db" G6"C7" z2 |"C13" c4 z2 AG |"F6" FD D4 z C | DD D/C/_E-"F#dim7" E2 z2 | %11
+w: was!|Thanks for the|mem- o- ry of|rain- y af- ter- noons *|
+w: was!|Thanks for the|mom- o- ry of|lin- ge- rie with lace, *|
+"C7/G" EE E/D/F-"F/A" F2 z F |"D#dim7" ^FFFF"C7/E" GGGG |"F#dim7" AA A/A/B-"Gm7" B2"Adim" c2 | %14
+w: swing- y Har- lem tunes, * and|mo- tor- trips and burn- ing lips and|burn- ing toast and prunes. * How|
+w: Pils ner by the case, * and|how I jumped the day you trumped my|one and on- ly ace. * How|
+"Bb6" d2 D2 z2 F2 |"Bm6/Db""C7" G6"Eb7" z2 |"Ab" (3_A2 A2 A2 (3G2 G2 G2 |"Eb9" F2 F2 z2 c2 | %18
+w: love- ly it|was!|Man- ys the time that we|feast ed. and|
+w: love- ly it|was!|We said good- bye with a|high- ball; then|
+"Ab" (3_A2 A2 A2 (3G2 G2 G2 |"Adim7" ^F2 F2 z2 F2 |"C/G" G2 GG"Am" c2 cc | %21
+w: Man ys the time that we|fast- ed. Oh,|well it was swell while it|
+w: I got as high as a|steep- le. But|we were in- tel- i- gent|
+"Dm" D2 D2"Fm6" z2"G7" E2 |"Gm7" G2"Gm7b5" G2"C7" G2 z C |"C+" ^G2 G2 !fermata!G2"Dbdim7" A2 | %24
+w: last- ed we|did have fun and|no harm done. And|
+w: peo- ple no|tears, no fuss, hur-|ray for us. So|
+"C13" c4 z2 AG |"F6" FD D4 z C | DD D/C/_E-"F#dim7" E2 z2 |"C7/G" EE E/D/F-"F/A" F2 z F | %28
+w: thanks for the|mem- o- ry of|sun- burns at the shore *|nights in Sing- a- pore. * You|
+w: thanks for the|mem- o- ry and|strict- ly en- tre- nous, *|dar- ling how are you? * And|
+"D#dim7" ^FFFF"C7/E" GGGG |1"F#dim7" AA A/A/B-"Gm7" B2"Adim7" c2 |"Bb6" d2 D4"C7" A2 | %31
+w: might have been a head- ache but you|nev- er were a bore, * so|thank you so|
+w: how are all the lit- tle dreams that|||
+"F""C+7" F6"C7" z2 :|2"F#dim7" AA A/A/B-"Gm7" B4 ||"G#dim7" =BBBB"F/A" cc z c/c/ | %34
+w: much.|nev- er did come true? *|Awf'- ly glad I met you, chee- ri|
+w: |||
+"Db7/Ab" _dd d/d/d- d2 d2 |"Gm7" d2 D4"C7" A2 |"Db""F6" F8 |] %37
+w: o and too- dle- oo * and|thank you so|much!|
+w: |||
+

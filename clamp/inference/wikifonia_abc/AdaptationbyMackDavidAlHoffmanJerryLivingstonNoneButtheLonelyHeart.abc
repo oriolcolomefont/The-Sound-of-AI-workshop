@@ -1,0 +1,28 @@
+X:1
+T:None But the Lonely Heart
+T:None But The Lonely Heart
+C:Adaptation by Mack David, Al Hoffman, Jerry Livingston
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Bb9/Ab" c2 D D |"Eb/G" c3/2 E/ E2 |"Fm" z F"Fm7/Eb" G A |"Bb7/D" B2"Bbm/Db" B2 | %4
+w: None but the|lone- ly heart|can know my|sor- row|
+"C7" z _d"C+7" c B |"Fm" A G"Fm7/Ab" F c |"Bb7" B3 A |"C""C7/Bb" G4 |"Bb9/Ab" c2 D D | %9
+w: as I keep|search- ing for my|love in|vain.|Is there a|
+"Eb/G" c3/2 E/ E2 |"Fm" z F"Fm7/Eb" G A |"Bb7/D" B2"Bbm/Db" B2 |"C7" z _d"C+7" c B | %13
+w: lone- ly heart|that I could|bor- row,|a heart to|
+"Fm" A G"Fm7/Ab" F c |"Bb7" B3 A |"C" G4 |"C7" z G"C+7" c B |"Fm" A3/2 _d/ c2 |"Bdim7" z A G F | %19
+w: sing with me love's|sweet re-|frain?|What good are|stars that shine|when they are|
+ =E2 c2 |"C7" z G"C+7" c B |"Fm" A3/2 _d/ c2 |"F#dim7" z =A d c |"Gm" B2"Bb7/F""Bb7" B2 | %24
+w: wast- ed,|what good are|lips like mine|that go un-|tast- ed?|
+"Bb9/G" c2 D D |"Eb/G" c3/2 E/ E2 |"Fm" z F"Fm7/Eb" G A |"Bb7/D" B2"Bm7/Db" B2 | %28
+w: Night af- ter|night I pray|I'll find my|lov- er|
+"C7" z _d"C+7" c B |"Fm" A G"Fm7/Ab" F c |"Bb7" B3 A |"C" G2"C+7" A"C7/Bb" B |"Fm6" c2 D D | %33
+w: and when I|do my heart will|feell that|glow, some- thing|None but the|
+"Bb9" c3/2 D/ D"Bb7b9" D |"Eb""Cm7" E4- |"^F m7/Ab""Bb9""Eb6" E4 |] %36
+w: lone- ly heart could|know.||
+

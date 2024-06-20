@@ -1,0 +1,19 @@
+X:1
+T:What child is this?
+C:Traditional
+Z:Public Domain
+L:1/4
+M:3/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI program 13
+V:1
+ D |"Dm" F2 G |"G7" A>B A |"C" G2 E | C>D E |"Bb" F2 D | D>^C D |"A" E2 ^C | A,2 D |"Dm" F2 G | %10
+w: What|Child is|this\_ * who|laid to|rest, * on|Ma- 's|lap\_ * is|sleep- _|ing? Whom|an\- gels|
+"G7" A>B A |"C" G2 E | C>D E |"Bb" F>E D |"A" ^C>B, C |"Dm" D3 | D3 |"F" c3 | c>B A |"Em" G2 E | %20
+w: greet\_ * with|an- thems|sweet, * while|shep\- * herds|watch * are|keep-|ing,|This,|this\_ * is|Christ the|
+"Am" C>D E |"Dm" F2 D |"Bb" D>^C D |"A" E2 ^C | A,3 |"F" c3 | c>B A |"C" G2 E |"Am" C>D E | %29
+w: King, whom *|shep\- herds|guard * and|an\- gels|sing,|This,|this\_ * is|Christ, the|King, * the|
+"Bb" F>E D |"A" ^C>B, C |"Dm" D3 | D2 x :| %33
+w: Babe, * the|Son\_ * of|Ma-|ry.|
+

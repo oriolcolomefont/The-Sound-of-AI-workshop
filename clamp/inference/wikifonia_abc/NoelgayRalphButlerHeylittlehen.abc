@@ -1,0 +1,22 @@
+X:1
+T:Hey little hen
+T:Hey little hen
+T:(War-time song)
+T:Noel Gay, Ralph Butler,
+C:Noel gay, Ralph Butler,
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" G2 c e | g4 |"F" a2 f2 | d2 A c |"G7" B2 A c | B2 G g |"C" e4- | e2 z2 | G2 c e | g4 | %10
+w: Hey lit- tle|hen|When when|when will you|lay me an|egg for my|tea?||Hey lit- tle|hen|
+"F" a2 f2 | d2 A c |"G7" B2 A c | B2 G d |"C" c4- | c2 z2 | G F E F | G4 |"F" F E D E | F4 | %20
+w: when when|when will you|try to sup-|ply one for|me||get in- to your|nest|do your lit- tle|best|
+"C" E D C D | E4 |"G7" C D G G/G/ | G4 |"C" G2 c e | g4 |"F" a2 f2 | d2 A c |"G7" B2 A c | B2 G d | %30
+w: get it off your|chest|and I will so the|rest|Hey lit- tle|hen|when when|when will you|lay me an|egg for my|
+"C" c4- | c2 z2 |] %32
+w: tea?||
+

@@ -1,0 +1,13 @@
+X:1
+T:Egyszer egy királyfi
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" cc cd | c2 G2 |"G" gg gf |"G7" e2 d2 |"C" cc c2 |"G" dd d2 |"G7" BB AB |"C" c2 c2 |] %8
+w: Egy- szer egy ki-|rály- fi|mit gon- dolt ma-|gá- ba,|Hm- hm- hm,|ha- ha- ha,|mit gon- dolt ma-|gá- ba.|
+

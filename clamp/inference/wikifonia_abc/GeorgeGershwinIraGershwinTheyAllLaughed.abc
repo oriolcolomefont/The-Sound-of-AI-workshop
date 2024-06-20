@@ -1,0 +1,36 @@
+X:1
+T:They All Laughed
+T:They All Laughed
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"G" z D E2"Em" G2 A2 |"Am7" B>BA>G"D7" A B3 |"Am7" B>BA>G"D7b9" A B2 D- |"G""Bb7""A7""D7" D8 | %4
+w: They all laughed at|Chris- to- pher Col- um- bus|when he said the world was round.||
+w: They all laughed at|Rock- er- fel- ler Cen- ter,|now they're fight- in' to get in.||
+"G" z D E2"Em" G2 A2 |"Am7" B>BA>G"D7" A B2 G- |"G6""Em7" G8- |"Am7" G6"D7" z2 | %8
+w: They all laughed when|Ed- i- son re- cord- ed sound.|||
+w: They all laughed at|Whit- ney and his cot- ton gin.|||
+"G" z D E2"Em" G2 A2 |"Am7" B>BA>G"D7" A B3 |"C#7b9" d>d^c>B"F#7b9" =c d2 F- |"Bm7""E7" F8 | %12
+w: They all laughed at|Wil- bur and his broht- er,|when they said that man could fly.||
+w: They all laughed at|Ful- ton and his steam- boat,|Her- shey and his choc'- late bar.||
+"D6" B2 A>^G A B3 |"A7" B>cA>^G A B3 |"D7" A2 B2 c2 B2 | A2 d2 d2 d2 |"G7" d4- d B2 G | %17
+w: They told Mar- con- i|wire- less was a phon- y;|it's the same old|cry. They laughed at|me * want- ing|
+w: Ford and his Liz- zie|kept the laugh- ter bus- y;|that's how peop- le|are. They laughed at|me * want- ing|
+ A4- A>Bc>^c | d2 e2 d2"B7" B2 |"E+7" c6 B2 |"A7" e4- e ^c2 A | B4- B A2 B | c2 e2 E2 G2 | %23
+w: you, * said I was|reach- ing for the|moon. But|oh, * you came|through * now they'll|have to change their|
+w: you. * said it would|be hel- lo, good-|bye. But|oh * you came|through * now they're|eat- ing humb- le|
+"Eb7""D7" A8 |"G" z D E2"Em" G2 A2 |"Am7" B>BA>G"D7" A B3 |"B7" c B2 A"E7" B2 c2 |"A7" B6 A2 | %28
+w: tune.|They all said we|nev- er would be hap- py,|they laughed at us and|how! But|
+w: pie.|They all said we'd|nev- er get to- geth- er;|dar- ling. let's take a|bow. For|
+"G" d2 d2"E7" d4 |"Am7" e e2 e"D7" B2 B2 |"G""E7#9" G8- |"A7b9" G4"D7b9" z4 :|"Eb" G2 G2 G4 | %33
+w: ho, ho, ho,|who's got the last laugh|now?||Hee, hee, hee,|
+w: ho, ho. ho,|who's got the last laugh||||
+"Bb/D" _B B2 B"D7/C" F2 F2 |"G/B" d2 d2"E7" d4 |"Am7" e e2 e"D7" B2 B2 |"G" G8- | G2 z2 z4 |] %38
+w: Let's at the past, laugh,|Ha, ha, ha,|Who's got the last laugh|now?||
+w: |||||
+

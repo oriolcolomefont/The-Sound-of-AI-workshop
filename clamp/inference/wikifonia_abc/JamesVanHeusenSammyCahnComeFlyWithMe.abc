@@ -1,0 +1,42 @@
+X:1
+T:Come Fly With Me
+T:Come Fly With Me
+T:James Van Heusen
+T:Sammy Cahn
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G2 |"Cmaj7" d c2 c-"C6" c2 Gd- |"Em7" d2 cd-"Ebdim7" d2 cF- |"Dm7" F8- |"G7" F6 G2 | %5
+w: Come|fly with me! _ Let's fly|_ Let's fly _ a way!|_|* If|
+"Cmaj7" B A2 A-"C6" A B2 _B |"Gm7" A G2 G-"C7" G A2 _A |"Fmaj7" G2 z F c2 c2 |"Bb7" c6 C2 | %9
+w: you can use _ some ex-|ot- ic booze * there's a|bar in far Bom-|bay. Come|
+"Cmaj7" E2 GC-"C6" C2 D_E- |"F9" E2 GC- C2 D=E- |"E7""A7b9" E8- |"D9""G13" E6 G2 | %13
+w: fly with me! _ Let's fly|_ Let's fly _ a way!|_|* Come|
+"Cmaj7" d c2 c-"C6" c2 Gd- |"Em7" d2 cd-"Ebdim7" d2 cF- |"Dm7" F8- |"G7" F6 G2 | %17
+w: fly with me! _ Let's float|* down to _ Pe ru!|_|* In|
+"Cmaj7" B A2 A-"C6" A B2 ^A |"Gm7" A G2 G-"C7" G A2 _A |"Fmaj7" G2 z F c2 c2 |"Bb7" c6 C2 | %21
+w: Lla- ma Land _ there's a|one- man band _ and he'll|toot his flute for|you. Come|
+"Cmaj7" E2 GC-"C6" C2 D_E- |"F9" E2 GC-"G7sus4" C2 DC- |"C6""G7sus4" C8 |"C6" z2 CD E2 G2 | %25
+w: fly with me! _ Let's take|_ off in _ the blue!|_|Once I get you|
+"Abmaj7" c3 c- c4 |"Ab+" z c2 _B _A2 B2 |"Dbmaj7" c4 c2 _D2- |"Bbm7" D8 |"Eb7sus4" _B4 B2 _D2- | %30
+w: up there, _|where the air is|rar- i- fied,|_|we'll just glide,|
+ D8 |"Ab6" _A4 A2 C2- |"Bbm7" C2 C_D"Eb7sus4" _E2 _A2 |"Abmaj7" c3 c- c4 |"Ab+" z c2 B c2 ^c2 | %35
+w: _|star- ry eyed.|_ Once I get you|up there, _|I'll be hold- ing|
+"Gmaj7" d4 d2 D2- |"Em7" D8 |"Am7" d4 d2 D2- |"D7" D8 |"G" d2 _d2"G7sus4" c2 z B- | %40
+w: you so near,|_|you may hear|_|an- gels cheer 'cause|
+"G7" Bd _B2 A2 =B2 |"Cmaj7" d c2 c-"C6" c2 Gd- |"Em7" d2 cd-"Ebdim7" d2 cF- |"Dm7" F8- | %44
+w: _ we're to- geth- er.|Weath- er- wise, _ It's such|_ a love- * ly- day!|_|
+"G7" F6 G2 |"Cmaj7" B A2 A-"C6" A B2 _B |"Gm7" A G2 G-"C7" G A2 _A |"Fmaj7" G2 z F c2 c2 | %48
+w: * Just|say the words _ and we'll|beat the birds _ down to|A- ca- pul- co|
+"Bb9" c6 C2 |"Cmaj7" E2 GC-"C6" C2 D_E- |"F9" E2 GC- C2 D2 |"Em7b5" E4"Bb9" F4 |"A7b9" G4 A4 | %53
+w: Bay. It's|per- fect for _ a fly-|* ing hon- * ey-|moon, they|say. Come|
+"D9" c2 eA- A2 Bc- |"Dm7" c2 eA-"G9" A2 B2 |"C6" c8- | c4 z4 |] %57
+w: fly with me! _ Let's fly!|_ Let's fly _ a-|way!|_|
+

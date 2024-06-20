@@ -1,0 +1,24 @@
+X:1
+T:I'm Nobody's Baby
+T:I'm Nobody's Baby
+C:Milton Ager, Lester Santly
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z"D7" F"Am7" E"Cdim" _E |:"G" D4 | =E2"Gmaj7" B2 |"A7" B4 | A4 |"Am7""D7" E4 | F2"D+7" e2 | %7
+w: You see I'm|No-|bod- y's|Ba-|by,|I|won- der|
+"G" d4- |"Gmaj7" d B"C" c ^c |"E7" d2 E2 |"Bdim" ^G2"E7" B2 |"Dm6" d"Am" c B c- | c4 | %13
+w: why,|_ Each night and|day i|pray the|Lord up a- bove,|_|
+"Em7" B"A7" A e"Em7" B- | B3 A |"Am7" G"D7" F A E- | E3 _E |"G" D4 | =E2"Gmaj7" B2 |"A7" B4 | A4 | %21
+w: Please send me down|_ some-|bod- y to love.|_ But|no-|bod- y|wants|me,|
+"Am7" E4 |"D7" F2"F#7b5" e2 |"B7" ^d4- | d B"Edim" ^c"B7" ^d |"E" e2"Ddim" =d2 |"E+" =c2"E7" B2 | %27
+w: I'm|blue some-|how,|_ Won't some- one|hear my|plea and|
+"Am" c"E7" d"Am" c"E7" B |"Am" A"Ddim" B"Am" c"E7" d |"Am" e c A"A7" E- | E2"D7" F2 |1"G" G4- || %32
+w: take a chance with|me, Be- cause I'm|No- bod- y's Ba-|* by|now.|
+"Am7" G"D7" F"Am7" E"F#dim" _E :|2"G" G4- || G2 z2 |] %35
+w: _ You see I'm|now|_|
+

@@ -1,0 +1,24 @@
+X:1
+T:Blue Moon Of Kentucky
+T:Blue moon of Kentucky
+T:Bill Monroe
+T:SWING
+C:Bill Monroe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"^N.C." B c ^c |:"G" d2 d B |"G7" G/G/ G G G |"C" E C3- | C2 z G |"G" G3/2 G/ G B | d d d B | %7
+w: I said blue|moon of Ken-|tuck- y to keep on|shin- ing|* shine|on the one that's|gone and left me|
+"D7" A4 | z d e d |"G" d2 d B |"G7" G/G/ G G G |"C7" E C3- | C2 z G |"G" G3/2 G/ G D | %14
+w: blue|I said blue|moon of Ken-|tuck- y to keep on|shin- ing|* shine|on the one that's|
+"D7" ^F _B B A |"G7" G4 | z G A B |"C" c c c c |"C7" e4 |"G" d3 B/B/ |"G7" d3 z |"C" c2 c c | %22
+w: gone and left me|blue|Well it was|on one moon- light|night|stars shin- ing|bright|whis- per on|
+"C7" e4 |"G" d2 B G |"D7" A2 z d |"G" d2 d B |"G7" G G B G |"C7" E C3- | C2 z G |"G" G3/2 G/ D E | %30
+w: high|Love said good-|bye blue|moon of Ken-|tuck- y kkep in|shin- ing|* shine|on the one that's|
+"D7" ^F _B B/A/ G |1"G" G4 |"D7" z B c ^c :|2"G" G4- |"C7""G" G z z2 |] %35
+w: gone and left * me|blue.|I said blue|blue||
+

@@ -1,0 +1,48 @@
+X:1
+T:Do You Hear the People Sing?
+T:Do You Hear the People Sing?
+T:Claude-Michel Schönberg
+C:Claude-Michel Schönberg
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^F(no3rd)" z8 | z6 A>G |"F" F>GA>B c2 (3AGF |"Bb/F" E>DE>F"F" C2 (3DCB, |"Dm" A,>CF>A"G" G>^FG>D | %5
+w: |Do you|hear the peo * ple sing, sing- ing|the song of an- gry men? it is|the music of a peo- ple who will|
+w: |||||
+"C" =F>EE>F G2 A>G |"F" F>GA>B c2 (3AGF |"Bb/F" E>DE>F"F" C2 (3DCB, | %8
+w: not be slaves a- gain! When the|beat- ing of your heart e- choes the|beat- ing of the drums, there is a|
+w: |||
+"Dm" A,>CF>A"Gm" (3G^FG"C7" B>E |"F" =F2 z2 z2"E" E>E |:"Am" A>^GA>=B c>BA>c | %11
+w: life a- bout to start when to- mor- row|comes Will you|join in our cru- sade? Who will be|
+w: ||give all you can give so that our|
+"Em" =B>AG>A B2- (3BBc |"Dm" d>c=B>c d>cB>d |"Am" c>=BA>B c2 z3/2 A/ | %14
+w: strong and stand with me? * * Be-|yond the bar- ri- cade is there a|world you long to see? then|
+w: ban- ner may ad- vance? * Some will|fall and some will live. Will you stand|up and take your chance? The|
+"F" (3c=BA (3cBA"Dm7" (3cBA (3cBc |"G" d4 z2 e>d |"C" c>de>f g2 (3edc |"F/C" =B>AB>c"C" G2 (3AGF | %18
+w: join in the fight that will give you the right to be|free! Do you|hear the peo- ple sing, sing- ing the|song of an- gry men? it is the|
+w: blood of the mar- tyrs wil wa- ter the mea- dows of|France! * *|||
+"Am" E>Gc>e"D" d>^cd>A |"G" c>=BB>c d2 e>d |"C" c>de>f"C/E" g2 (3edc |"F" =B>AB>c"C/E" G2 (3AGF |1 %22
+w: mu- sic of a peo- ple who will|not be slaves a- gain! When the|beat- ing of your heart e- choes the|beat- ing of the drums, there is a|
+w: ||||
+"Am" E>Gc>e"Dm" (3d^cd"G7" f>=B |"C" c2 z2 z2 E>E :|2"Am" E>Gc>e"Dm" (3d^cd"G7" f>=B | %25
+w: life a- bout to start when to- mor- row|comes! Will you|life a- bout to start when to- mor- row|
+w: |||
+"C" c2 z2 z4 |] %26
+w: comes!|
+w: |
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 |1 x8 | x8 :|2 x4 (3fef a>d | x8 |] %26
+

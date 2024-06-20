@@ -1,0 +1,36 @@
+X:1
+T:THE PARTY'S OVER
+C:Jules Styne
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:1
+"Cmaj7" z/ G, E/"Am9" B,2- |"Dm7" B,/A,/B,/C/"G7" D/C/ B,- |"Cmaj7" B,/ G, E/"Am9" B,2 | %3
+w: |||
+"F/G" z G, C D |"Csus4" F"C" E3- | E G, C D |"Csus4" F"C" E/D/ E2- | E G, C D | %8
+w: THE PAR TY'S|O VER|_ Its time to|call it a day|_ They've burst your|
+"Csus4" F"C" E/D/ E F |"Csus4" A G/^F/ G A |"Bbsus4/C" G4 |"C" z G G G |"F9" A D3- |"Fm" D F F F | %14
+w: pret ty bal loon and|tak en the moon a|way.|Its time to|wind up|_ the mas quer|
+"Cmaj7" E4- | E E E E |"Bm7" ^F B,3- |"E7" B, D D D |"A7" _D2"D7" C2 |"G" B, G, C D | %20
+w: ade.|_ Just make your|mind up|_ the pi per|must be|paid. THE PAR TY'S|
+"Csus4" F"C" E3- | E G, C D |"Csus4" F"C" E/D/ E2- | E G, C D |"Csus4" F E/D/"C" E F | %25
+w: O VER|_ The can dles|flick er and dim|_ You danced and|dreamed thru the night, It|
+"Csus4" A G/^F/"C" G A |"Bb6/C" (3:2:2c _B A B2- |"C" B c c c |"F" c F3- |"G7" F B B3/2 A/ | %30
+w: seemed to be right, just|be ing with him.|_ Now you must|wake up:|_ All dreams must|
+"Em7b5" E4- |"A7" E A A A |"Dm" A D3- |"G7" D D C B, |"Cmaj7" E E3- |"Am7" E2 (3E F G- | %36
+w: end|_ Take off your|make up|_ THE PAR TY'S|O VER|_ Yes, its all|
+"Dm7" G F3- |"Eb9" F2"G7" (3:2:2B,- C- D |"C" C4 |] %39
+w: o ver|_ my _ _|friend.|
+V:2
+ x4 | x4 | x4 | C4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x13/3 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %37
+ x13/3 | x4 |] %39
+

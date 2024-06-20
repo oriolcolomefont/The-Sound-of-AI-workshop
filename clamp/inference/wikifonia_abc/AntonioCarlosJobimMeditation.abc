@@ -1,0 +1,23 @@
+X:1
+T:Meditation
+T:Meditation
+T:Antonio Carlos Jobim
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Bb6" G4- | G3 F |"Em7" A _A/G/- G2- |"A7" G2- (3G =E F |"Bb6" (3G G G (3G G G | G z/ F A F/ | %6
+"Dm7" G A/G/- G2- |"G7" G2 z2 |"Cm7" E4- | E3 D |"Ebm6" F =E/_E/- E2- | E2- (3E B, C | %12
+"Dm7" (3D D D (3D ^C D |"G7b9" E2 z/ D E/ |"Cm7" (3F F F (3F =E F |"F7b9" G3 z |"Bb6" G4- | G3 F | %18
+"Em7" A _A/G/- G2- |"A7" G2- (3G =E F |"Bb6" (3G G G (3G G G | G z/ F A F/ |"Dm7" G A/G/- G2- | %23
+"G7" G2 z2 |"Cm7" E4- | E3 D |"Ebm6" F =E/_E/- E2- | E2- (3E B, C |"Dm7" (3D D D (3D ^C D | %29
+"G7b9" E2 z/ D E/ |"Cm7" (3F F F (3F =E F |"F7b9" G3 z |"Eb+7" B4- | B3 A |"Ebm6" c =B/_B/- B2- | %35
+ B3"Ebdim" A |"Dm7" c =B/_B/- B A |"Dbdim" c =B/_B/- B A |"Cm7" G4- |"F7b9" G3 z |"Bb6" G4- | %41
+ G3 F |"Em7" A _A/G/- G2- |"A7" G2- (3G =E F |"Bb6" (3G G G (3G G G | G z/ F A F/ | %46
+"Dm7" G A/G/- G2- |"G7" G2 z2 |"Cm7" E4- | E3 D |"Ebm6" F =E/_E/- E2- | E2- (3E B, C | %52
+"Dm7" (3D D D"G7b9" (3E E E |"C9" (3C C C"F7b9" (3D D D |"Bb6" B,4- | B, z z2 :| %56
+

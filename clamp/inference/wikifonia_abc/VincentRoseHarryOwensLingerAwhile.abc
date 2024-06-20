@@ -1,0 +1,22 @@
+X:1
+T:Linger Awhile
+T:Linger Awhile
+C:Vincent Rose
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z3"C7" C |:"F" D2 F2- | F2"C7" G2 |"F" A2 c2- | c2"C#7" ^c2 |"C7" d2 E2- | E2 ^D2 |"C7" E4- | %8
+w: The|stars shine|_ a-|bove you,|_ Yet|lin- ger|_ a-|while;|
+ E2 C2 |"Gm" D2"C7" E2- | E2 G2 | B2 d2- | d2"G#m" ^d2 |"F7" e2"F" A2- | A2"Bdim" ^G2 |"F" A4- | %16
+w: _ They|whis- per|_ "I|love you,"|_ So|ling- er|_ a-|while.|
+ A2"C7" c2 |"Dm" f2 d2- | d2 f2 |"A7" e ^c A2- | A2 ^c2 |"D7" d2 A2- | A2 d2 |"G7" A G D2- | %24
+w: _ And|when you|_ have|gone a- way,|_ Each|hour _|_ will|seem a day.|
+"Gm" D2"C7" C2 |"F" D2 F2- | F2"C7" G2 |"F" A2 c2- | c2"C#7" ^c2 |"C7" d2 =c2- | c2 d2 |1"F" f4- || %32
+w: _ I've|some- thing|_ to|tell you,|_ So|lin- ger|_ a-|while.|
+"G7" f z"C7" C2 :|2"F""Bb""Bbm" f4- ||"F" f z z2 |] %35
+w: _ The|while.|_|
+

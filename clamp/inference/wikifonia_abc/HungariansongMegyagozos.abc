@@ -1,0 +1,17 @@
+X:1
+T:Megy a gőzös
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" CCEC GGAG |"G" FE D2"C" C2 z2 :|"F" FG A2 A2 z2 | cB A2"C" G2 z2 | cGEC GGAG | %5
+w: Megy a gő- zös, megy a gő- zös|Ka- ni- zsá- ra,|E- löl ül a|ma- si- nisz- ta,|Ki a gő- zöst, ki a gő- zöst|
+w: Ka- ni- zsa- i, ka- ni- zsa- i|ál- lo- más- ra,-||||
+"G" FE D2"C" C2 z2 |] %6
+w: i- ga- zít- ja.-|
+w: |
+

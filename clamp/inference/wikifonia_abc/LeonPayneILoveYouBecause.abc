@@ -1,0 +1,28 @@
+X:1
+T:I Love You Because
+T:I love you because
+T:Leon Payne
+C:Leon Payne
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z z G, |:"C" C2 E G | c e"C7" d c |"F" A2 c2- | c4 |"C" G G ^F G | c A G E |"G7" D4- | D3 B, | %9
+w: I|love you be|cause you un- der-|stand dear||ev- ry sing- le|thing I try to|do|* you're|
+w: |love you be-|cause my heart is|light- er||ev- ry time I'm|walk- ing by your|side|* I|
+ C C E G | c e"C7" d c |"F" A2 c2- | c3 A |"C" G G c A |"G7" B c d d |"C" c4- |"F" c3"C7" c | %17
+w: al- ways- there to|lend a help- ing|hand dear|* I|love you most of|all be- cause you're|you|* No|
+w: love you be cause|the fut ures bright|er *|* The|door to hap- pi-|ness you o- pen|wide|* No|
+"F" c A A B | c B d3/2 c/ |"C" A2 G2- | G3 G |"D7" ^F =F ^F G | A A d c |"G7" B4- | B3 B, | %25
+w: mat- ter what the|world may say a-|bout me|* I|know your love will|al- ways see me|through|* I|
+w: mat- ter what may|be the stye or|sea- son|* I|know your heart will|al- * ways be|true.|* I|
+"C" C C E G | c e"C7" d c |"F" A2 c2- | c3 A |"C" G G c A |"G7" B c d d |1"C" c4- || %32
+w: love your for the|way you nev- er|doubt me|* But|most of all I|love you cause you're|you.|
+w: love you for a|hun- dred thous- and|reas- ons|* but|most of all I|love you cause you're||
+"C" c z z G, :|2"F" c4- ||"C" c2 z2 |] %35
+w: * I|you||
+w: |||
+

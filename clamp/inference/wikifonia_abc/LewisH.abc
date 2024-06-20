@@ -1,0 +1,36 @@
+X:1
+T:O Little Town Of Bethlehem
+T:O Little Town Of Bethlehem
+C:Lewis H. Redner
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 z"F" A | A A"Fdim" ^G"F" A |"Gm" c B D G |"F" F (E/F/)"C7" G C |"F" A3 A | A A"D7" d c | %6
+w: O|lit- tle town of|Beth- le- hem, How|still we * see thee|lie; a-|bove the deep and|
+w: ||||||
+w: For|Christ is born of|Ma- * ry; And|gath- ered * all a-|bove, While|mor- tals sleep the|
+w: ||||||
+w: How|si- len- ly, how|si- lent- ly, The|won- drous * gift is|giv'n So|God im- parts to|
+"Gm" c B D G |"F" F (E/F/)"C7" A G |"F" F3 A | A"F#dim" A"Gm" G"G#dim" F |"Asus4" E2"A7" E E | %11
+w: dream- less sleep the|si- lent * stars go|by: Yet|in thy dark streets|shin- eth The|
+w: |||||
+w: an- gels keep Their|watch of _ won- d'ring|love. O|morn- ing stars to-|geth- er Pro-|
+w: |||||
+w: hu- man hearts The|bless- ing * of His|heav'n. No|ear may hear His|com- ing, But|
+"Dm" D"A" E"F" F"Gm" G |"Asus4" A3"A7" A |"F" A A"F#dim" ^G"F" A |"Gm" c B D d | %15
+w: ev- er- last- ing|Light; The|hopes and fears of|all the years Are|
+w: ||||
+w: claim the ho- ;y|birth; And|prai- ses sing to|God, the King, And|
+w: ||||
+w: in this world of|sin, Where|meek souls will re-|ceive Him still, The|
+"F" c"Bb" F"F" A3/2"C7" G/ |"F" F3 z |] %17
+w: met in Thee to-|night.|
+w: ||
+w: peace to men on|earth.|
+w: ||
+w: dear Christ en- ters|in.|
+

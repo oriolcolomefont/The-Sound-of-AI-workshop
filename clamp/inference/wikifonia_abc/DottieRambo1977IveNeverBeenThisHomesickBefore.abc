@@ -1,0 +1,35 @@
+X:1
+T:I've Never Been This Homesick Before
+T:I've Never Been This Homesick Before
+T:Dottie Rambo Arrangement:  Larry Johnson, 2012
+C:Dottie Rambo 1977
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:4/4
+K:D
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+"^Country" z8 | z8 | z8 | z8 | z8 | z4 D2 F2 |"D" A4 A3 A | B2 A4 A2 | F F3 F3 F | G2 F6 | %10
+w: |||||There's a|light in the|win dow the|ta ble's spread in|splen dor|
+"G" B,2 B,2 D2 D2 | G3 G A2 B2 |"D" A8- | A2 z2 F2 A2 |"G" B3 B A2 B2 | =c B3- B2 GG | %16
+w: Some one's stand ing|by the op en|door|_ I can|see a cry stal|riv er _ so I|
+"D" A2 A2 A3 F |"G" E D3 D2 B,2 |"D" A, D3 F2 A2 |"A7" G4 F3 E |"D" D8- | D2 z2 AB d2 | d4 d4- | %23
+w: must be near for|ev er Lord I've|nev er been this|home sick be|fore|_ see the bright|Light shine|
+ d2 f2"D7" fd e2 |"G" d4 d4- | d2 z2 d2 B2 |"D" A3 A A A3 | B2 A4 FF |"A7" E8- | E2 f2 fedB | %30
+w: _ it's just a bout|home time|_ I can|see my Fa ther|stand ing at the|door|_ This world's been a _|
+"D" d3 d d4- | d2 f2"D7" fedB |"G" d3 d d4- | d2 z2 d2 B2 |"D" A3 A A2 B2 |"A7" F4 F3 E |"D" D8- | %37
+w: wil der ness|_ I'm read y for de|liv er ance|_ Lord I've|nev er been this|home sick be|fore|
+ D4 D2 F2 |"D" A4 A A2 A | B2 A4 A2 | F F3 F3 F | G2 F6 |"G" B,2 B,2 D2 D2 | G3 G A2 B2 |"D" A8- | %45
+w: _ I can|see the fam in|ga ther sweet|fac es all fa|mil iar|no one's old or|fee ble an y|more|
+ A2 z2 F2 A2 |"G" B3 B A2 B2 | =c B3- B2 GG |"D" A2 A2 A3 F |"G" E D3 D2 B,2 |"D" A, D3 F2 A2 | %51
+w: _ _ This|lone some heart is|cry ing _ think I'll|spread my wings for|fly ing Lord I've|nev er been this|
+"A7" G4 F3 E |"D" D8- | D2 z2 AB d2 | d4 d4- | d2 f2"D7" fd e2 |"G" d4 d4- | d2 z2 d2 B2 | %58
+w: home sick be|fore|_ see the bright|Light shine|_ it's just a bout|home time|_ I can|
+"D" A3 A A A3 | B2 A4 FF |"A7" E8- | E2 f2 fedB |"D" d3 d d4- | d2 f2"D7" fedB |"G" d3 d d4- | %65
+w: see my Fa ther|stand ing at the|door|_ This world's been a _|wil der ness|_ I'm read y for de|liv er ance|
+ d2 z2 d2 B2 |"D" A3 A A2 B2 |"A7" F4 F3 E |"D" D8- | D6 z2 | z8 | z8 | z8 | z8 |] %74
+w: _ Lord I've|nev er been this|home sick be|fore|_|||||
+

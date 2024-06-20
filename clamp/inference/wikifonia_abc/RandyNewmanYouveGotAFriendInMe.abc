@@ -1,0 +1,48 @@
+X:1
+T:You've Got A Friend In Me
+T:You've Got A Friend In Me
+C:Randy Newman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb" G B2 G"Bb+7" c2 BG- |"Eb9" G2 z2 z4 |"Ab" z cec"Adim7" e2 cB- |"Eb/Bb" B2"Eb" z2 z4 | %4
+w: You've got a friend in me|_|You've got a friend in me.|_|
+w: You've got a friend in me.|_|You've got a friend in me.|_|
+"Ab" z cAB-"Eb/G" B E3 |"G7" ddde-"Cm" ecBe- |"Ab" ecBc-"Eb/G" cGEG- |"G7" G G2 G- G2"Cm" G2 | %8
+w: When the road _ looks|* rough a- head _ and you're miles|_ _ and miles _ from your nice|_ warm bed, _ _|
+w: You got trou- bles then|I got them too. _ _ _ _|_ There is- n't an- y- thing I|would- n't do for you.|
+"Ab" cc"D/A"df"Eb/Bb" eB"G/B"G"Cm"E |"Ab7" ^F"G" G2"Cm" E- E c2 e- |"F7" e2 cB"Bb7" G E2 G- | %11
+w: _ you just re- mem- ber what your|old pal said. _ Son, You've|_ got a friend in me.|
+w: If we stick to- geth- er we can|see it thru, _ 'cause, You've|_ got a friend in me.|
+"Eb" G2 z2"C7" z2 ee- |"F7" e2 cB"Bb7" e2 cc |1"Eb" z G (3Bef"G7/D" ^f g2 e- | %14
+w: _ Yeah, you've|_ got a friend in me.||
+w: _ Yeah, you've|_ got a friend in me.||
+"Cm" e c2 ^f- f"B7" =f2 e- |"Eb/Bb" e B2"Ebdim/Bb" =A- A"Bb7" _A3 :|2"Eb""Ebmaj7""Eb" z8 || %17
+w: |||
+w: |||
+"Ab" z c (3ccc (3:2:4c2 c2 cc |"D" (3ddd (3ddd d d3 |"Eb6" z2 c/c/c"D7" c2 cc- | %20
+w: Now, some oth- er folks may be a|lit- tle bit smart- er than I am.|big- ger and strong- er too,|
+w: |||
+"Eb6" c2 z2 z c2 c |"D" z ddd"Em7" d2 z d |"Fdim7" d2 dd-"D/F#" dddc- |"Gm" c B2 B-"C7" B2 z G | %24
+w: _ May- be.|But none of them will|ev- er love _ you the way|_ I do, _ just|
+w: ||||
+"Fm" A2 GF-"Bb7" F G3 |"Eb" z GBB"Bb+7" c2 BE- |"Eb7" E2 z2 z2 z E |"Ab" (3c2 e2 c2"Adim7" e2 cB- | %28
+w: me and you, _ boy.|And as the years go by,|_ our|friend- ship will nev- er die.|
+w: ||||
+"Eb/Bb" B2"Eb" z2 z4 |"Ab" z cec"Adim7" e2 ec |"Eb/Bb" e2"G7/B" e2"Cm" !fermata!c2 z2 | %31
+w: _|You're gon- na see it's our|des- ti- ny.|
+w: |||
+"F7" z ecB"Bb7" G G2 G- |"Eb" G2 z2"C7" z4 |"F7" z ecB"Bb7" G G2 G- |"Eb" G2 z2"C7" z4 | %35
+w: You've got a friend in me.|_|You've got a friend in me.|_|
+w: ||||
+"F7" z ecB"Bb7" e2 cc- |"Eb" c2 (3Bef"G7/D" ^f g2 e- |"Cm" e c2 ^f- f"B7" =f2 e- | %38
+w: You've got a friend in me.|||
+w: |||
+"Eb/Bb" e B2"Ebdim/Bb" =A- A"Bb7" _A3 |"Eb" !fermata!G8 |] %40
+w: ||
+w: ||
+

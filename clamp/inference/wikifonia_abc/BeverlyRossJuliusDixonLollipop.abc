@@ -1,0 +1,39 @@
+X:1
+T:Lollipop
+T:Lollipop
+T:Beverly Ross & Julius Dixon
+C:Beverly Ross & Julius Dixon
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+S"C" GG c2"Am" AAEF- |"Dm7" FA z F"G7" GAGF |"C" GG c2"Am" AAEF- |"Dm7" FA z F"G7" GAGF | %4
+w: Lol li pop, Lol- li pop Oh|* lol- li lol- li lol- li,|lol- li- pop, lol- li- pop, Oh|* lol- li, lol- li, lol- li,|
+w: ||||
+"C" GG c2"Am" AAEF- |"Dm7" FA z F"G7" GAGB |"C" cc c2"G7" z4 | G,G, F,2 E,2 D,2 | %8
+w: lol- li- pop, lol- li- pop, oh,|* lol- li, lol- li, lol- li,|lol- li- pop||
+w: ||||
+"C" GGGG"F" AA A2 |"C" z G2 G"F" A4 |"C" z GGG"Am7" GGGE |"Dm7" F E2 D-"G7" D4 |"C" z GGG"F" AAAF | %13
+w: Call my ba- by Lol- li- pop|Tell you why|Her kiss is sweet- er than an|ap- ple pie *|And when she does her sha- ky|
+w: Cra- zy way she thrilla- a me|Tell you why|Just like a light- * ning *|from the sky *|She loves to kiss me 'till I|
+"C" G G2 A-"F" A4 |"G7" GAGF E2 D2 | C2"G7" G2 A2 G2 |"C" GG c2"Am" AAEF- |"Dm7" FA z F"G7" GAGF | %18
+w: rock- in dance *|Man I have- n't got a|chance. I call her|Lol- li- pop Lol- li- pop Oh,|* lol- li, lol- li, lol- li,|
+w: can't see straight *|Gee my Lol- li- pop is|great. * * *|||
+"C" GG c2"Am" AAEF- |"Dm7" FA z F"G7" GAGF |"C" GG c2"Am" AAEF- |"Dm7" FA z F"G7" GAGB | %22
+w: Lol- li- pop lol- li- pop Oh,|* lol- li lol- li lol- li|Lol- li- pop Lol- li- pop, Oh,|* lol- li, lol- li, lol- li|
+w: ||||
+"C" cc c2 z4 |1"^segue to interlude" G,G, F,2 E,2 D,2 ||2 G,G, F,2 E,2 D,2 || %25
+w: Lol- li- pop.|||
+w: |||
+ C,2 z2"Cmaj7""^Fine" d4 |]"F""^Interlude" AA A2 A2 F2 | c B2 A- A4 |"C" GGGG"F" AA A2 |"C" A2 G6 | %30
+w: |Sweet- er than can- dy|on a stick, *|Huck- le- ber- ry, cher- ry, or|lime; *|
+w: |||||
+"F" AAAA A2 F2 | c B2 A- A2 A2 |"D7" BB B2 z2 A2 |"G7" B2 A2 G2 F2!D.S.! |] %34
+w: If you had a choice, she'd|be your pick, * But|Lol- li- pop is|mine.- * * *|
+w: ||||
+

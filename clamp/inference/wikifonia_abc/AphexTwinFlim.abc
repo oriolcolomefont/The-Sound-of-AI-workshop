@@ -1,0 +1,29 @@
+X:1
+T:Flim
+T:Flim
+T:The Bad Plus
+T:arr. Haaheim
+C:Aphex Twin
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+L:1/8
+V:1
+|:"Bbmaj7""^Repeat 4x" d f a b | d f a b |"Cm13" c e g d' | c e g d' :: %4
+"Bb""^Repeat 2x" f' e' d' b | z4 |"Bb/D" a/b/a/b/ a"Ebmaj7" f | z4 |"Cm9" e g d' b | z2 z z/ a/- | %10
+"Ebmaj7" a3"F/C" f- | f4 ::"Gm7""^Repeat 2x" [DG]3 z/"Bmaj7" [B,F]/- | [B,F]3 z/"Ebmaj7" [EB]/- | %14
+ [EB]3 z/"Cm6" [A,DE]/- | [A,DE]3 z/ z/ | z4 |"Gm7" [DG]3 z/"Bmaj7" [B,F]/- | [B,F]3 z/ [EB]/- | %19
+ [EB]3 z/"C9sus4" [Gd]/- | [Gd]4 | z4 :| %22
+V:2
+|: [FB]4 [DF]3 [EG]- | [EG]8 | [FB]4 [FA]3 [Ad]- | [Ad]8 :: [B,F]6 z [E,B,]- | [E,B,]8 | %6
+ [B,D]6 [E,G,]2- | [E,G,]8 | [CE]6 z [F,B,]- | [F,B,]8 | [E,B,]6 [C,F,]2- | [C,F,]8[K:bass] :: %12
+ G,,D, z F, z D,F,D, | B,A, z2 z2 z z | z B, z G, z E, z D, | z D, z E, z D,E,C, | z8 | %17
+ G,,D, z F, z D,F,D, | B,A, z2 z2 z2 | z B, z C z D z C | z G, z F, z C, z2 | z8 :| %22
+

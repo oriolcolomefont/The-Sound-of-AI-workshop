@@ -1,0 +1,21 @@
+X:1
+T:J'attendrai
+T:J'attendrai
+T:Dino Oliveri
+C:Dino Oliveri
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble transpose=-12 nm="MusicXML Part"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"C6" A A"Am7" A A |"F" B B"G" B B |"C6" c B"Am7" c c |"F" [FAc]"F#" [^F^A^c]/"G"[GBd]/ G B |: %4
+"C6" c4- | c2 d2 | e2 d c |"B7" B2 A G |"C6" A/A/ A A2- |"C#dim" A2 G B |"Dm7" A4- |"A7" A2 G A | %12
+"Dm" d4- |"Dmaj" d2 c d |"Dm7" c2 B c |"Dm6" B2 A G |"G7" A/A/ A A2- | A2 G B |"C69" A4- | A2 c d | %20
+"C7" e4- | e2 d c |"F69" e2 d c |"Fm6" e2 d c |"C6" G/G/ G G2- |"C" G2"Ebdim" G B |"Dm7" A2 G B | %27
+"G7" A2 e B |"C" c2-"C#dim" c2- |"Dm7" c2"G7" c2 :| %30
+

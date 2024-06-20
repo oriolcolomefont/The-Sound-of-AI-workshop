@@ -1,0 +1,29 @@
+X:1
+T:Eight Days A Week
+T:Eight days a week
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C""_Rock" e d c d |"D7" d2 A2 |"F" A c f f |"C" e4 | e d c d |"D7" d2 A2 |"F" A c f f |"C" e4 | %8
+w: Ooh I need your|love babe,|guess you know its|true|Hope you need my|love babe|just like I need|you|
+w: Love you ev- ry|day girl|al- ways on my|mind|One thing I can|say girl|love you all the|time|
+"Am" e2 c2 |"F" d2 A2 |"Am" e2 c2 |"D7" d2 A2 |"C" e d c/c/ d |"D7" d2 A2 |"F" z f f f |1 %15
+w: Hold me|love me|hold me|love me|aint got noth- in' but|love babe|Eight days a|
+w: |||||||
+"C" e/d/ c3!dacoda! :|2"C" e/d/ c3 ||"G" d2 d3/2 e/ | d3 c |"Am" d c d c | d/c/ A3 | %21
+w: week * *|week * *|Eight days a|week I|love * * *|* * you|
+w: ||||||
+"D7" d2 d3/2 e/ | d3 c |"F" d c d c |"G7" d d f2!D.S.! |:O"C" e/d/ c3 |"F" z f f f |"C" e/d/ c3 | %28
+w: eight days a|week is|not e- nough to|show I care|week * *|eight days a|week * *|
+w: |||||||
+"F" z"^repeat and fade" f f f :| %29
+w: eight days a|
+w: |
+

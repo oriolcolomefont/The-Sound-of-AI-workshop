@@ -1,0 +1,29 @@
+X:1
+T:All good things
+C:Nelly Furtado
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Alto Saxophone" snm="A. Sax."
+%%MIDI program 65
+V:1
+"Am" z4 z4 |"C" z4 z4 |"G"z4zE GA- |"F" A2 AA A2 AG |"Am" E4 z4 |"C" z8 |"G"z4zE GA- | %7
+w: ||Why do all|_ good things come to an|end||Why do all|
+"F" A2 AA A2 AG ||"Am" C>D- D D2E DC |"C" B,>C- C C2E DC |"G" B,>C- C G2EEE |"F" F2 E2 D2 C2 | %12
+w: _ good things come to an|Ho- nest- * ly what will be-|come of * me don't like re-|a- li- _ ty It's way too|clear to me But|
+"Am" D2>C2- C E2C |"C" B,>C- C C2E DC |"G" B,>C- C G2DDE |"F" F2 E2 D2 E2 |S"Am" z4 (EG)B,C- | %17
+w: real- ly _ life is|dai- * * ly We are what|we don't * see missed ev'- ry|thing day- drea- ming|Flames _ to dust|
+"C" C4 EGCB,- |"G" B,4- B,D GA- |"F" A2 AA A2 AG |"Am" E4 EGB,C- |"C" C4 EGCB,- |"G" B,4- B,DGA- | %23
+w: * Lo- vers to friends|_ _ Why do all|_ good things come to an|end Flames _ to dust|_ lo- vers to friends|_ _ Why do all|
+"F" A2 AA A2 AG |"Am" E4 A2 AG |"C" E4 A2 AG |"G" D4zDGA- |"F" A2 AA A2 AG |"Am" E4 A2 AG | %29
+w: _ good things come to an|end come to an|end come to an|end Why do all|_ good things come to an|end come to an|
+"C" E4 A2 AG |"^To Coda""G" D4zDGA- |1"F" A2 AA A2 AG :|2"F" A2 AA A2 EG ||"Am" A2 A2 AAAG | %34
+w: end come to an|end why do all|_ good things come to an|* good things come Well the|dogs were whist- * ling a|
+"C" E2 E2 GG GC |"G" B,2 B,2 GGGC | B,2 B, z EEEG |"Am" A2 A2 AA AG |"C" E2 E2 GGGC | %39
+w: new tune bar- king at the|new moon ho- ping it would|come soon so that they could|Dogs were whist- * ling a|new tune bar- king at the|
+"G" B,2 B,2 GGGC | B,2 B,2 EEEG |"F" A,4 C4 | F4 A4 |"E" B,4 E4 | ^G4 B4 |"F" A,4 C4 | F4 A4 | %47
+w: new moon Ho- ping it would|come soon so that they could|Die _|_ _|Die _|_ _|Die _|_ _|
+"G" BcBc BcBc | BcBc B4"^Dal Segno alla  Coda" ||O"G" D4zDGA- |"F" A2 AA A2 AG |"Am" !fermata!E8 |] %52
+w: Die _ _ _ _ _ _ _|_ _ _ _ _|end why do all|_ good things come to an|end|
+

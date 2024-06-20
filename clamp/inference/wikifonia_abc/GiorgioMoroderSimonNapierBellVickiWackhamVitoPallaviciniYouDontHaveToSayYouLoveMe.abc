@@ -1,0 +1,48 @@
+X:1
+T:You Don't Have To Say You Love Me
+T:You Don't Have To Say You Love Me
+C:Giorgio Moroder
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z2 FG A3 c |"Bbm" d2- (3:2:2d2 c"Bbm7" B4- |"Eb7" B2 EF G2 B2 |"Ab" c3 B A4- |"Db" ADDE F2 A2 | %5
+w: When I said I|need- * ed you|_ you said you would|al- ways stay|_ it was- n't me who|
+"Bbm" B3 A G3 A |"Gm7b5" B3 A G3"G7b9" A |"C7" G8 |"Fm" z2 FG A2 c2 | %9
+w: changed but you and|now you've gone a-|way.|Don't you see that|
+"Bbm" d2- (3:2:2d2 c"Bbm7" B4- |"Eb7" B2 EF G2 B2 |"Ab" c3 B A4- |"Db" A2 DE F2 A2 | %13
+w: now _ you've gone|_ and I'm left here|on my own|_ now I have to|
+"Bbm" B3 A G3 A |"Gm7b5" B3 A G3 A |"C7" c6 z2 | %16
+w: fol- low you, and|beg you to come|home.|
+[K:F]"F" (3:2:2F2 G (3:2:2A2 F"Dm" (3:2:2B2 A (3:2:2G2 F |"Gm7" (3:2:2G2 A (3:2:2G2 A"C7" C4 | %18
+w: You don't have to say you love me|just be close at hand.|
+"F" (3:2:2A2 B (3:2:2c2 A"Dm" (3:2:2d2 c (3:2:2B2 A |"Gm7" B2 (3cBc"C7" B2- (3:2:2B2 A | %20
+w: You don't have to say for- ev- er|I will un- der- stand. _ Be-|
+"F" (3:2:2c2 A- (3:2:2A2 A"Am/E" (3:2:2c2 A- (3:2:2A2 A |"Dm" d A2 G (3:2:2G2 F- (3FFF | %22
+w: lieve me, _ be- lieve me. _ I|can't help but love you _ but be-|
+"Gm7" F G2 G (3:2:2A2 B- (3Bcd |"C" c8- | c"^N.C." z FF (3:2:2F2 G (3:2:2_A2 c || %25
+w: lieve me I'll nev- er _ let you|down.|_ Left a- lone with just a|
+[K:Ab]"Bbm" d2- (3:2:2d2 c"Bbm7" B4- |"Eb7" B2 EF G2 B2 |"Ab" c3 B A4- |"Db" A2 DE F2 A2 | %29
+w: mem- * mo- ry|_ life seems dead and|quite un- real,|* all thats left is|
+"Bbm" B3 A G3 A |"C7" B3 A"C7b9" G3"C+7" A |"Fm" F8 || %32
+w: lon- li- ness there's|noth- ing left to|feel.|
+[K:F]"F""F" (3:2:2F2 G (3:2:2A2 F"Dm""Dm" (3:2:2B2 A (3:2:2G2 F | %33
+w: You don't have to say you love me|
+"Gm7""Gm7" (3:2:2G2 A (3:2:2G2 A"C7""C7" C4 | %34
+w: just be close at hand.|
+"F""F" (3:2:2A2 B (3:2:2c2 A"Dm""Dm" (3:2:2d2 c (3:2:2B2 A | %35
+w: You don't have to say for- ev- er|
+"Gm7""Gm7" B2 (3cBc"C9""C7" B2- (3:2:2B2 A |"F" c2 c4- (3:2:2c2 A |"D" d2 d6 || %38
+w: I will un- der- stand. _ Be-|lieve me _ be-|lieve me.|
+[K:G]"G" (3:2:2G2 A (3:2:2B2 G"Em" (3:2:2c2 B (3:2:2A2 G |"Am" (3:2:2A2 B (3:2:2A2 B"D7" D4 | %40
+w: You don't have to say you love me|just be close at hand.|
+"G" (3:2:2B2 c (3:2:2d2 B"Em" (3:2:2e2 d (3:2:2c2 B |"Am7" c2 (3dcd"D7" c2- (3:2:2c2 B | %42
+w: You don't have to stay for- ev- er|I will un- der- stand _ Be-|
+"G" (3:2:2d d2-"Dm6" d4- (3:2:2d2 B |"G""G" (3:2:2d d2-"Dm6" d4- (3:2:2d2 B |"G" (3:2:2d2 d- d6- | %45
+w: lieve me _ _ be-|lieve me, _ _ be-|lieve me! _|
+ d4- d z z2 |] %46
+w: _ _|
+

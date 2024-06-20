@@ -1,0 +1,27 @@
+X:1
+T:No Other Love
+T:No Other Love
+T:Adaptation From Chopin Etude (Op. 10 No. 3)
+C:Paul Weston
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" C2"Cmaj7" B, C |"G7" D4- | D"G6" E E3/2"G7" D/ |"Cmaj7" E4- | E"Csus4" F"C9" F E |"G7" A3 G | %6
+w: No oth- er|love,|_ can warm my|heart,|_ now that I've|known the|
+"Csus4" F E"Cmaj7" B, C |"G7" D4- | D"G6" E E3/2"G7" D/ |"C" C4 |"C7" E F D E |"F" F G E F | %12
+w: com fort of your|arms.|_ No oth- er|love.|Oh the sweet con-|tent- ment that I|
+ A3"G" D |"G7" D2 E D |"D7" D2 E D |"G7" G4 |"Cmaj7" E2 B, C |"G7" D4- | D"G6" E E3/2"G7" D/ | %19
+w: find with|you ev- 'ry|time ev- 'ry|time.|No oth- er|lips,|_ would want you|
+"Cmaj7" E4- | E"Csus4" F F E |"F" A3"F9" G |"C" F E3/2 B,/ C |"G7" D4- | D"G6" E E3/2"G7" D/ | %25
+w: more,|_ For I was|born to|glor- y in your|kiss.|_ For- ev- er|
+"C" C4 |"C7" G A A3/2 G/ |"F" F3/2 G/"Fmaj7" E F |"E7" B3/2 c/ c3/2 B/ |"C6/E" A B"C+" ^G A | %30
+w: yours,|I was blessed with|love to love you,|till the stars burn|out a- bove you.|
+"D7" c d B3/2 c/ |"F#m6" d3/2 e/ c d |"C" e4- | e d c A |"G" B4 |"Am" c B A E |"Cmaj7" G4 | %37
+w: Till the moon is|but a sil- ver|shell.|_ No oth- er|love,|let no oth- er|love,|
+"F" A G F C |"Cmaj7" E3"G7" D |"C" C4 |] %40
+w: know the won- der|of your|spell.|
+

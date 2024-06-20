@@ -1,0 +1,14 @@
+X:1
+T:Füles mackó
+C:Unknown
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ DDDE DCB,G, | A,A,A,C B,A, G,2 :: A,2 A,C B,A, D2 | A,2 A,C B,A, G,2 :| %4
+w: Fü- les Mac- kó mond most nek- tek|szép me- sé- ket, gye- re- kek,|Ked- ven- cem a friss méz,|s~más fi- nom fa- la- tok,|
+w: Le- ko- nyu- ló fü- le- im- nek|kö- szön- he- tem ne- ve- met,|De a- zért sze- ret- tek,|hogyna kö- vér is va- gyok?-|
+

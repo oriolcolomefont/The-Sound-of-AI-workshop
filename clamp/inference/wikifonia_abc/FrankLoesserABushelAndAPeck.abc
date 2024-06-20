@@ -1,0 +1,26 @@
+X:1
+T:A Bushel And A Peck
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+"G" B,2 D2"D7" G3 D |"G" B,>B,D>D"D7" G3 D |"G" B,>B,D>D"A7" G2 A>A |"D" F>DD>D D4 | %4
+w: I love you A|Bu- shel And A Peck A|Bu- shel And A Peck and a|hug a- round the neck|
+w: I love you A|Bu- shel And A Peck A|Bu- shel And A Peck tho' you|make my heart aa wreck|
+"D7" F>DD>D D2 D>D |"G" B>GG>G"Em7" G4 |"A7" E>EE>E A2 A>A |"D" F>DD>D DB"G9" A2 |"C" G8- | %9
+w: Hug a- round the neck and a|bar- rel and a heap|Bar- rel and a heap and I'm|talk- in' in my sleep a- bout|you|
+w: Make my heart a wreck and you|make my life a mess|Make my life a mess yes a|mess of hap- pi- ness a- bout-||
+"A7b9" G4"F#7b9" z F E2 |"G""D+" D8- |"Dm" D6"D+" z C |"G" B,2 D2"D7" G3 D | %13
+w: _ a- bout|you|_ 'Cause|I love you A|
+w: ||||
+"G" B,>B,D>D"D7" G3 ^A |"G" B>AB>A"D7" B A2 G- |"G" G8 | B>^AB>A B"D7" =A3 |"G7" d>^cd>c"C" d =c3 | %18
+w: Bu- shel And A Peck y'|bet your pur- ty neck I do|_|Doo- dle oo- dle Doo- dle|doo- dle oo- dle oo- dle|
+w: |||||
+"G" B>^AB>A B"D7" =A2 G- |1"G" G4"D7" z4 :|2"G" G4 z4 |] %21
+w: doo- dle oo- dle oo- dle ooo.|_||
+w: |||
+

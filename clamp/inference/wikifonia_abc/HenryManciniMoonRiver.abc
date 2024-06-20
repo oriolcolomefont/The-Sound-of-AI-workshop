@@ -1,0 +1,31 @@
+X:1
+T:Moon River
+T:Moon River
+T:Henry Mancini
+T:© All Rights Reserved
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+Q:1/4=85
+M:3/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 65
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" G,6 |"Em7" A2 G4 |"C7" F3 E DC |"G" D4 G,2 |"C7" F3 E DC |"G" D4 G,2 |"F#m7b5" A,6- | %7
+w: Moon|river _|wider _ than a|mile, I'm|crossing _ you in|style some|day.|
+"B7" A,4 B,2 |"Em" G,6 |"G7/D" D2 B,3 A, |"C" G,6 |"Cm6" D2 B,3 A, |"Em" G,2 B,2 D2 | %13
+w: * Oh|dream|maker _ you|heart|breaker _ wherever|_ _ you're|
+"Cm7" G2"F#7" F3 E |"Bm7" F2"E7" E3 D |"Am" E4 z2 ||"G" D6 |"Em7" A2 G4 |"C7" F3 E DC | %19
+w: going _ I'm|going _ your|way.|Two|drifters _|off to see the|
+"G/B" D4 G,2 |"C7" F3 E DC |"G/B" D4 G,2 |"F#m7b5" A,6- |"B7" A,4 B,2 |"Em" G,6 |"Em/D" B,4 D2 | %26
+w: world. There's|such a lot of|world to|see.|* We're|after|_ the|
+ G6 |"C7" A4 G2 |"G/B" D6- |"C7" D2 FE DC |"G/B" D6- |"C7" D G, FE DC |"G/B" D6 |1"Em" G,6 | %34
+w: same|rainbow's _|end|* waiting _ 'round the|bend,|* my huckleberry _ _ _|friend,|Moon|
+"Am" C2"D9" A,4- |"D9" A,4 B,2 |"G" G,6- | G,6 :|2"Em" G6 ||"Am" c2 A4- |"D9" A4 B2 |"G" G6- | %42
+w: river _|_ and|me.||Moon|river _|_ and|me.|
+ G6 |] %43
+w: |
+

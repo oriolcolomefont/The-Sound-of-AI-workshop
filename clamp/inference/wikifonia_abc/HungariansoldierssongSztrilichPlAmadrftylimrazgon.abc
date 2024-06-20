@@ -1,0 +1,22 @@
+X:1
+T:A madár fütyüli már az ágon
+T: 
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"C" CE G2 CEG-G |"F" AB c2"C" G2 z2 | ccGG"F" AAFF |"G" EC D2"C" C2 z2 ::"G" DDDE GFED | %5
+w: A ma- dár fü- tyü- li _|már az á- gon,|Ma- gyar cser- kész a leg- el- sõ|a vi- lá- gon.|Ki- pa- kol és fel- ve- ri sá-|
+w: Hogy- ha megy, hogy- na in- dul|tá- bo- rá- ba,|A jó Is- ten mo- so- lyog- va|néz le rá- ja.||
+"C" E2 F2 G2 z2 |"F" AAAB dcBA |"G" B2 c2 d2 z2 |"C" eedd cc B2 |"F" ABcA"C" GF E2 |"G" DEFA GEFD | %11
+w: tor- fá- ját,|Da- los kedv- vel, ví- gan vég- zi|mun- ká- ját,|Ha dol- go- zik, é- ne- kel,|tá- bo- ro- zik lé- lek- kel,|A- ka- dályt õ nem is- mer a|
+w: ||||||
+"C" E C3 C2 z2 :| %12
+w: vi- lá- gon.|
+w: |
+

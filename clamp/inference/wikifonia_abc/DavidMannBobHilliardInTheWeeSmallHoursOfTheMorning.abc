@@ -1,0 +1,21 @@
+X:1
+T:In The Wee Small Hours Of The Morning
+C:David Mann
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+ CD |:"Cmaj7" E2 E2"C+" (CD)EF |"C6" EC- C2-"C+" C2 CD |"C" E2 E2"C+" CDEF |"Dm7" D6 z D | %5
+w: In The|Wee Small Hours _ Of The|Morn- ing, _ _ While the|whole wide world is fast a-|sleep, You|
+ A2 A2"G9" A3 A |"Em7b5" GFEF"A7" G3 G |"F#m7b5" ^FE^DE"B7" FB,BA |"Em""G7" G6 CD | %9
+w: lie a- wake and|think a- bout the girl And|nev- er ev- er think of count- ing|sheep. When you|
+"Cmaj7" E2 E2"C+" CDEF |"C6" EC- C2-"C+" C2 EF |"Cmaj7" G3 G"Em7b5" dGGG |"A+7""A7" A6 AB | %13
+w: lone- ly heart has learned its|les- son _ _ You'd be|hers if on- ly she would|call. In the|
+"Dm7" c2 c2"D#dim7" (AB)cd |"C" cG-"Gm6""A7" G4 FE |1"Dm7" FcAF D2"G7b9" E2 |"C" C6 CD :|2 %17
+w: Wee Small Hours _ Of The|Morn- ing, _ That's the|time you miss her most of|all. In The|
+"Dm7" F2 c2 A2 F2 ||"D7" D4"G7b9" E4 |"C" C8- | C6 z2 |] %21
+w: time you miss her|most of|all.|_|
+

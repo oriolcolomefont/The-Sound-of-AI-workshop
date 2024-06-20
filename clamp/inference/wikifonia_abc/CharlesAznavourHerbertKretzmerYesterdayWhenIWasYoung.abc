@@ -1,0 +1,39 @@
+X:1
+T:Yesterday When I Was Young
+T: 
+T:C.Aznavour/H.Kretzmer
+T: 
+C:Charles Aznavour
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:3/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ GA ||S"Gm7" B3 A Bd |"C7" c=B cB c_B |"F" A^G AG Ac |"Bb" BA BA BA |"Gm7" GG GG GB | %6
+w: Yes- ter-|day when I was|young the taste of life was|sweet as rain up- on my|tongue I teased at life as|if it were a fool- ish|
+w: Yes- ter-|day, the moon was|blue, & e- very cra- zy|day, brought some- thing new to|do, I used my ma- gic|age, as if it were a|
+"A7" AG AG AG |"Dm" FF FF FG | AF FF GA |"Gm7" BA BA Bd |"C7" c=B cB c_B |"F" AA AA Ac | %12
+w: game the way the eve- ning|breeze may tease a can- dle|flame the thou- sand dreams I|dreamed the spen- did things I|planned I al- ways built a-|las on weak & shift- ing|
+w: wand, & ne- ver saw the|worst, & the emp- ti- ness|be- yond The game of love|I played, with ar- ro- gance|& pride, & ev'- ry flame|I lit, too quic- kly, quic-|
+"Bb" BA BA BA |"Gm7" GG GG GB |"A7" AG AG AG |"Dm" FF GF EDO || F4 Bc |"Gm7" d3 ^c df | %18
+w: sand I lived by night &|shunned the nak- ed light of|day & on- ly now I|see how the years ran a-|way yes- ter-|day when I was|
+w: kly died, the friends I made,|all seemed some- how to drift|a- way, & on- ly I'm|left, on stage to end the|||
+"C7" ed ed ed |"F" c=B cB ce |"Bb" d^c dc d=c |"Gm" BB BB Bd |"A7" ^c_B cB cB |"Dm" AA AA BA | %24
+w: young so man- y drink- ing|songs were wait- ing to be|sung so man- y way- ward|plea- sures lay in store for|me & so much pain my|daz- zled eyes re- fused to|
+w: ||||||
+ AA AA Bc |"Gm7" d^c dc df |"C7" ed ed ed |"F" c=B cB ce |"Bb" d^c dc d=c |"Gm" BB BB Bd | %30
+w: see I ran so fast that|time & youth at last ran|out I nev- er stopped to|think what life was all a-|bout & ev- ry con- ver|sa- tion I can now re-|
+w: ||||||
+"A7" ^c_B cB cB |"Dm" AA AA AA | A4 c=B"^D.S. al Coda" |]O"Dm" FD DD EF |"Gm" GG GG GB | %35
+w: call con- cerned it self with|me & noth- ing else at|all Yes- ter-|play there are so man- y|songs in me that won't be|
+w: |||||
+"A7" AA AB AG |"Dm" FF FF FA |"G/B" G^F GF G=F |"Gm/Bb" E3 E EG |"Dm/A" FF F2 F2 |"A7" E4"Gm6" D2 | %41
+w: sung I feel the bit- ter|taste of tears up- on my|tongue the time has come for|me to pay for|yes- ter- day when|I was|
+w: ||||||
+"Dm" D6- |"Gm" D6- |"Dm" D6 |] %44
+w: young.|_||
+w: |||
+

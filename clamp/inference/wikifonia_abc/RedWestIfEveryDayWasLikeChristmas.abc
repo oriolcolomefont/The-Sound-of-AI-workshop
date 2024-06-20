@@ -1,0 +1,40 @@
+X:1
+T:If Every Day Was Like Christmas
+C:Red West
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Melody 1" snm="Melody 1"
+%%MIDI channel 5
+%%MIDI program 58
+V:1
+"G " (3G,B,D (3G D B, (3CEG |"Cmin" (3cG_E (3C E G (3cGE |"A7" (3A,^CE (3A E C (3DFA | %3
+w: |||
+"D7" (3dAF (3D F A (3dAF |"G " D6 | z3 z B,E |"Bmin" D6 | z3 z2 E/F/ |"C " G6 |"D " F3 z2 E | %10
+w: |I|hear the|bells|say- ing|Christ-|mas is|
+"G " D6 | z6 |"C " C3- CCB, |"D " A,3- A, E2 |"G " D3- DDC |"Emin" B,3 z EG- |"A7" G2 z z GG | %17
+w: near.||They * ri- ng|out * to|tell * th- e|world that this|* is the|
+ G E2 z2 G |"D " A6 |"D7" z6 |"G " D6 | z3 z B,E |"Bmin" D6 | z3 z2 E/F/ |"C " G6 |"D " F3 z2 E | %26
+w: sea- son for|cheer.||I|hear the|choir|sing- ing|sweet-|ly some-|
+"G " D6 | z3 z A,B, |"C " C3- CCB, |"D " A,3- A,EE |"G " D3- DDC |"Emin" B,3 z EF |"A7" G3 z GG | %33
+w: where.|And a|glow * fills my|heart; * I'm at|peace * with the|world as the|sound of their|
+ G E2 z FG |"D " A6 |"D7" z3 D3 |"G " B2 B z BB |"Cmin" c3 z3/2 B/ B |"G " A2 G- G3 | z3 z2 D | %40
+w: sing- ing fills the|air.|Oh,|why can't ev- 'ry|day be like|Christ- mas? *|Why|
+ B2 B BBB |"B7" A3 z AA |"E " ^G6 |"E7" z3 z EE |"C " E3- EGF- |"D " F2 z z EE |"G " D3 z2 B | %47
+w: can't that feel- ing go|on end- less-|ly?|For if|ev- * 'vry day|* could be|just like|
+"E7" A ^G2 z3/2 A/ B |"C " c2 E- E c2 |"D7" B A2 z GF |"G " G6 x35/12 |"E7" z6 x71/12 | %52
+w: Christ- mas what a|won- der- * ful|wo- rld this would|be.||
+[K:A]"A " E6 | z3 z CF |"C#min" E6 | z3 z2 F/G/ |"D " A2 z A2 z |"E " G3 z2 F |"A " E6 | %59
+w: I|hear a|child|tel- ling|San- ta|what to|bring.|
+ z3"A7" z B,C |"D " D3- D z C |"E " B,3- B, F2 |"A " E3- E z D |"F#min" C3 z FG |"B7" A3 z AA | %65
+w: And the|smile * u\-|pon * his|ti- * ny|face is worth|more to me|
+ F2 z z GA |"E7" B6 | z3 E3 |"A " c2 c z cc |"Dmin" d3 z3/2 c/ c |"A " B2 A- A3 | z3 z2 E | %72
+w: than a\- ny-|thing.|Oh,|why can't ev- 'ry|day be like|Christ- mas? *|Why|
+ c2 c ccc |"C#7" B3 z AA |"F# " F6 |"F#7" z3 z DE |"D " F3- FAG- |"E " G2 z z FF |"A " E3 z2 c | %79
+w: can't that feel- ing go|on end- less|ly?|For if|ev- * 'ry day|* could be|just like|
+"F# " B ^A2 z3/2 B/ c |"D " d2 F- F d2 |"E7" c/B/-B z z AG x11/12 |"A " A6- |"Gmin" A6- | %84
+w: Christ- mas what a|won- der- * ful|wo- rld * this would|be.||
+"A " A6 x35/6 |] %85
+w: |
+

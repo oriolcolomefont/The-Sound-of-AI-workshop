@@ -1,0 +1,28 @@
+X:1
+T:I Want To Be Happy
+T:I Want To Be Happy
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" E G2 E | G2 E G |"Dm7/G" F"G7" G2"Dm7/G" F |"G7" G2"Dm7/G" F"G7" G | %4
+w: I want to|be hap- py,|but I won't|be hap- py,|
+"Dm7/G" F"G7" G2"Dm7/G" F |"G7" G2"Dm7/G" F"G7" d |"C" c4- | c2"G7" z2 |"C" E G2 E | G2 E G | %10
+w: Till I make|you hap- py|too.|_|Life's real- ly|worth liv- ing,|
+"Dm7/G" F"G7" G2"Dm7/G" F |"G7" G2"Dm7/G" F"G7" G |"Dm7/G" F"G7" G2"Dm7/G" F | %13
+w: When we are|nirth giv- ing;|Why can't I|
+"G7" G2"Dm7/G" F"G7" d |"C" c4- | c"G7" z"C" z"Cdim" z |"Gm7" _B"C" c2"Gm7" B | %17
+w: give some to|you?|_|When skies are|
+"C7" c2"Bb/C" _B"C" c |"Fmaj7" A c2 A |"Fm6" F4 |"C/G" E G2 E |"C6/G" G2 E G |"Dm7""G7" D4- | %23
+w: gray and you|say you are|blue,|I'll send the|sun smil- ing|through.|
+"Dm7""G7" D4 |"C" E G2 E | G2 E G |"Dm7/G" F"G7" G2"Dm7/G" F |"G7" G2"Dm7/G" F"G7" G | %28
+w: _|I want to|be hap- py,|but I won't|be hap- py,|
+"Dm7/G" F"G7" G2"Dm7/G" F |"G7" G2"Dm7/G" F"G7" d |1"C6""Am7" c4 |"Dm7""G7" z4 :|2"C" c4- | %33
+w: Till I make|you hap- py,|too.||too.|
+ c2- c z |] %34
+w: _ _|
+

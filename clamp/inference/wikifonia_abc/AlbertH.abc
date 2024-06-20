@@ -1,0 +1,21 @@
+X:1
+T:Honeysuckle And The Bee
+T:Honeysuckle And The Bee
+T:Albert H. Fitz & William H Penn
+C:Albert H. Fitz & William H. Penn
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c2 c4 =B2 |"D7" B3 A BA^FD |"G7" G2 G4 A2 | D6 z2 |"C7" B2 B4 ^F2 | A3 G AGEC | %6
+w: You are my|hon- ey, hon- ey suck- le,|I am the|bee.|I'd like to|sip the hon- ey sweet from|
+"F" G2 FG- G2 A2 |"C7" c6 z2 |"F" c2 c4 =B2 |"D7" B3 A BA^FD |"G" G2 GA- A2 G2 |"G7" D6 z2 | %12
+w: those red lips, * you|see.|I love you|dear- ly, dear- ly, and I|want you to * love|me.|
+"Bb" F2"Bbm" F4 G2 |"F" A3 c"Dm7" dcAF |"G7" G2"C7" G4 A2 |"F" F6 z2 :| %16
+w: You are my|hon- ey, hon- ey suck- le,|I am the|bee.|
+

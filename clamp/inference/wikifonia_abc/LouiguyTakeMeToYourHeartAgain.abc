@@ -1,0 +1,25 @@
+X:1
+T:Take Me To Your Heart Again
+T:Take Me To Your Heart Again
+T:Louiguy
+C:Louiguy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" c3 B AGEc |"Cmaj7" B3 A"C6" GECB |"C" A3 G EB,CB |"Dm7" (A4"G7" G4) |"Dm7" d3 c BAFc | %5
+w: Take me to your heart a-|gain, Let's make a start a-|gain, For- giv- ing and for-|get- ting.|Take me to your heart a-|
+"G7" B3 A GFDB |"Dm7" A3 G"G7" F^CDB |"C" (A4"G7" G4) |"C" c3 B AGEc |"Cmaj7" B3 A"C6" GECB | %10
+w: gain, And leave be- hind from|then Our life of long re-|gret- ting.|Dear- est, let's turn back the|years, Let smiles come af- ter|
+"C" A3 G"C7" EB,Cc |"F" c8 |"F6" d d2 c"Fm6" d d2 c |"C/E" d d2 c"A7b9" G4 | %14
+w: tears, Like sun- shine af- ter|rain.|I'm yearn- ing for you by|night and by day,|
+"Am7" d d2 c"D9" d d2 c |"Dm7" d d2 c e2"G7b9" !fermata!d2 |"C" c3 B AGEc |"Cmaj7" B3 A"C6" GECB | %18
+w: Pray- ing I'll soon hear you|say- ing "I love you."|Then we'll nev- er part a-|gain, If you will take me|
+"Dm7" A3 G A2"G7" B2 |1"C""Ab9""Dm7" c6"G7" z2 :|2"C""Dm7" c6"C" z2 |] %21
+w: to your heart a-|gain.|gain.|
+

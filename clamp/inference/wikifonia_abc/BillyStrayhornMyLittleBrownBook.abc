@@ -1,0 +1,34 @@
+X:1
+T:My Little Brown Book
+T:My Little Brown Book
+C:Billy Strayhorn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D F/G/ F |"Bbmaj7""F+7" G4- |"Fm7" G B/G/"Bb7" B G |"Ebmaj7" F2 F2- |"C7b5" F E/D/"F7" F3/2 E/ | %5
+w: My lit- tle brown|book|_ with the sil- ver|bind- ing,|_ how it keeps re-|
+"Bb" D D"Bb+" D C/B,/ |"Cm7" D D"F7" D C |"Dm7" F F"G7" F2- |"Cm7" F D"F7" F G/F/ | %9
+w: mind- ing me of a|mem- o- ry that's|haunt- ng me.|_ In some qui- et|
+"Bbmaj7""F+7" G4- |"Fm7" G B/G/"Bb7" B G |"Ebmaj7" F2 F2- |"Cdim7" F E/D/"F7" F3/2 E/ | %13
+w: nook,|_ I go through it's|pa- ges|_ and per- use yhis|
+"Bb" D D"Bb+" D C/B,/ |"Cm7" D D"F7" D C |"Bbmaj7" F F"Ddim7" F F |"Ebm7" F3"Ab7" z/ F/ | %17
+w: age- less tale of a|love hat failed to|ev- er be- come|true. On|
+"Dbmaj7" _A/A/A/A/"Bbm7" _A, A,/A,/ |"Ebmaj7" _A/A/A/A/"Ab7" F _A,/A,/ | %19
+w: this page is the date of that|fate- ful night at eight whien I|
+"Dbmaj7" E/_D/C/B,/"Edim7" (3C D E |"Ebm7""Ab7" _A,3 F/F/ |"Dbmaj7" _A/A/A/A/"Bbm7" _A, A,/A,/ | %22
+w: found you were no long- er in|love. Af- ter|that there's noth- ing more, just a|
+"Ebm7" _A/A/A/A/"Ab7" F3/2 _A,/ |"Dbmaj7" (3E _D C"Gm7b5" D B, |"Cm7" C =D"F7" F G/F/ | %25
+w: dark and fur- tile door that|shuts out the stars a-|bove. In my lit- tle|
+"Bbmaj7""F+7" G4- |"Fm7" G B/G/"Bb7" B G |"Ebmaj7" F2 F2- |"Cm7b5" F E/D/"F7" F3/2 E/ | %29
+w: book|* I in- scribed your|hear vow,|_ but since we're a-|
+"Bb" D D"Bb+" D C/B,/ |"Cm7" D D"F7" D C |"Bbmaj7" F F"C#m7" ^F"F#7" F |"Bmaj7" ^F3 B, | %33
+w: part now this and that|last sweet kiss I|all that's left of|you; Is|
+"Cm7" E E"F7" F F |"Bbmaj7" F3 z |] %35
+w: all that's left of|you.|
+

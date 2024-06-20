@@ -1,0 +1,41 @@
+X:1
+T:Well, Did You Evah?
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" C A A3/2 C/ |"B7" =B, _A A2 |"C7" B, G G F/E/ |"F" F A C2 |"Cm" c2"D7" c3/2 d/ | %5
+w: Have you heard a-|bout this clan|I am called "The for-|got- ten man"?|Well, did you|
+w: |||||
+ c"Gm" B2"G7" F/G/ |"F" A3/2"Dm" A ^G/"B7" A |"C7" G3 z |:"F" C A A3/2 C/ |"B7" =B, _A A2 | %10
+w: ev- ah? What a|swell par- ty this|is!|Have you heard the|sto- ry of|
+w: |||Have you heard that|un- cle Newt|
+"C7" B,/-B,/ G G F/E/ |"F" F/-F/ A C2 |"Cm" c2"D7" c3/2 d/ | c"Gm" B2"G7" F/G/ | %14
+w: A boy, a girl, un- re-|quit- * ed love?|Well, did you|ev- ah? What a|
+w: For- * got to 0p- en|his par- a- chute?|Well, did you|ev- ah? What a|
+"F" A3/2"G7" A F/"C7" G |"F" F3 F |"Db" _A3 _D |"Ab7" C3 B, | B3 C |"Db" _D2 _A | _d3"E7" B | %21
+w: swell par- ty this|is! What|frills, what|frocks! What|furs, what|rocks! What|ga- i-|
+w: swell par- ty this|is! It's|great, It's|grand, It's|won- der-|land What|soup, what|
+"Ab7" _G3 G | _e e2 c |"Db" _A3 F | _A3"E7" _D |"Ab7" _C3 C | B B2 C |"Db" _D3 _A |"Bbm" _d d2 B | %29
+w: ty! It's|all too ex-|quis! That|French cham-|pagne! So|good for the|brain! That|bands, it's the|
+w: fish! That|beef, what a|dish! That|grouse, so|rare! That|aged cam- em-|bert! That|ba- ba au|
+"Fm" c4 |"G7" =B G A B |"C" c C C2 |"F" C A A3/2 C/ |"B7" =B, _A A2 |"C7" B, G G F/E/ |"F" F A C2 | %36
+w: end!|Kind- ly don't fall|down my friend.|Have you heard? The|count- ess Krupp|Crossed the bridge when the|bridge was up.|
+w: rhum!|Will you please move|ov- er chum?|Have you heard that|dear old Blanche|Got run down by an|av- al- anche?|
+"Cm" c2"D7" c3/2 d/ | c"Gm" B2"G7" F/G/ |"F" A3/2"Dm" A ^G/"B7" A |"C7" G3 z |"F" C A A3/2 C/ | %41
+w: Well, did you|ev- ah? What a|swell par- ty this|is!|Have you heard that|
+w: Well, did you|ev- ah? What a|swell par- ty this|is!|Have you heard? It's|
+"B7" =B, _A A2 |"C7" B, G G F/E/ |"F" F A C2 |"Cm" c2"D7" _e3/2 d/ | c"Gm" B2"G7" F/G/ | %46
+w: Mim- sie Starr|Just got pinched in the|Ast- or bar?|Well did you|ev- ah? What a|
+w: in the stars|Next ju- ly we col-|lide with Mars!|Well did you|ev- ah? what a|
+"F" A3/2"G7" G F/"C7" G |"F" F2 :| %48
+w: swell par- ty this|is!|
+w: swell par- ty this|is!|
+

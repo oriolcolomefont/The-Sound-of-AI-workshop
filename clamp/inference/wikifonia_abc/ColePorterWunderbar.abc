@@ -1,0 +1,27 @@
+X:1
+T:Wunderbar
+T:Wunderbar
+T:Cole Porter
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+ z z D/D/ |"G" D3 | z z B/B/ | B3 | z z B,/B,/ | B,2 C |"C" E2 D |"G" D3 | z B B |"D7" B3 | A2 B | %11
+w: Wun- der-|bar!|wun- der-|bar!|what a|per- fect|night for|love!|here am|I,|here you|
+ c3 | z E F |"G" A2 G | G2 G | G3 | z z D/D/ | D3 | z z B/B/ | B3 | z2 B,/B,/ | B,2 C |"C" E2 D | %23
+w: are|why it's|tru- ly|wun- der-|bar|wun- der-|bar|wun- der-|bar|we're a|lone and|hand in|
+"G" D3 | z B B |"D7" B3 | A2 B | c3 | z E F |"G" A2 G | G2 G | G3 | z2 G/G/ |"Fm" _B2 B | %34
+w: glove|not a|cloud|near or|far|why its|more than|wun- der-|bar|oh *|care, dear|
+"Bb7" z _B B |"Cm" C2 C |"Eb" z G G |"Fm7" _B2 B |"Bb7" z _B B |"Cm" C3 |"Eb" z _B B |"Am" d2 d | %42
+w: for you|mad- ly|and I|long dear|for your|kiss|I would|die dear|
+"D7" z d d |"G" E2 E | z d d |"C" f2 f | z F F |"D7" A2 A | z z D/D/ |"G" D3 | z2 B/B/ | B3 | %52
+w: for you|glad- ly|you're di-|vine dear|and you're|mine dear|wun- der-|bar|wun- der-|bar|
+ z2 B,/B,/ | B,2 C |"C" E2 D |"G" D3 | z B B |"D7" B3 | A2 B | d3 | z c F |"G" A2 G | G2 G | %63
+w: there's our|fav'- rite|star a-|bove|what a|bright|shin- ing|star!|like our|love it's|wun- der-|
+"G" G3 | z3 |] %65
+w: bar.||
+

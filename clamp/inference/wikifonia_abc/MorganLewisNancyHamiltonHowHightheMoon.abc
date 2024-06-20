@@ -1,0 +1,24 @@
+X:1
+T:How High the Moon
+T:How High the Moon
+C:Morgan Lewis
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z D G A |:"Gmaj7" A2 B2- | B D G A |"Gm7" _B4- |"C7" B C =F G |"Fmaj7" G2 A2- | A C =F G | %7
+w: Some- where there's|mus- ic,|* how faint the|tune!|* Some- where there's|heav- en,|* how high the|
+"Fm7" _A4- |"Bb7" A D _E =F |"Ebmaj7" G G G G |"Am7b5" G G/A/-"D7" A/G/ A |"Gm7" _B4- | %12
+w: moon!|* There is no|moon a- bove when|love is far- * a- way|too,|
+"Am7b5" B3/2 A/-"D7" A/G/ A |"Gmaj9" B4- |"Am" B A"D7" B c |"Bm7" d d"Bb7" d d |"Am7" d D"D7" G A | %17
+w: * 'till * it comes|true|* that you love|me as I love|you. Some- where there's|
+"Gmaj7" A2 B2- | B D G A |"Gm7" _B4- |"C7" B C =F G |"Fmaj7" G2 A2- | A C =F G |"Fm7" _A4- | %24
+w: mus- ic,|* it's where you|are.|* Some- where there's|hea- ven,|* how near, how|far!|
+"Bb7" A D _E =F |"Ebmaj7" G G G G |"Am7b5" G G/A/-"D7" A/G/ A |"Gmaj7" B4- |"Am7" B A"D7b9" B c | %29
+w: * The dark- est|night would shine if|you would * come to me|soon.|* Un- til you|
+"Bm7" d d"Bb7" d d |"Am7" d D"D7b9" G A |"G6" G4 |"Am7" z D"D7" G A :| %33
+w: will, how still my|heart, how high the|moon!|Some- where there's|
+

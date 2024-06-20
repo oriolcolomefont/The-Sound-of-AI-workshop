@@ -1,0 +1,25 @@
+X:1
+T:ONDER JE BALLUSTRADE
+T: Laukens Music Productions  
+T:Wals
+T:E. Wally
+T:ONDER JE BALLUSTRADE
+C:Unknown
+Z:All Rights Reserved
+L:1/8
+Q:1/4=195
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" G2 GG GG |"D7" G2 F2 A2 |"G" G2 GG GG |"D7" G2 F2 A2 |"G" G2 GG GG |"D7" F2 G2 A2 |"G" G6- | %7
+"D7" GB, CD EF ||S"G" G2 G2 G2 | G4 F2 | A2 G4- | G2 DD DD | E2 DD DD | E2 DD DD |"D7" E2 F4- | %15
+ F6 | F2 F2 F2 | F4 E2 | G2 F4- | F2 DD DD | E2 DD DD | E2 DD DD |"G" C2 B,4- | B,6 | G2 G2 G2 | %25
+ G4 F2 | A2 G4- | G2 GG GG | B2 GG GG | B2 GG GG |"C" B2 A4- | A6 | c2 c2 c2 | c4 B2 |"G" A2 G4- | %35
+ G2 DD DD |"A7" E2 EE EE |"D7" F2 DD DD |"G" A2 G4- | G6!fine! ||[K:Gmin]"Gm" DG BD GB | GB dG Bd | %42
+ Bd gB dg | dg bd gb ||"Gm" B2 B2 B2 | B2 A2 G2 | B2 G4- | G6 | B2 B2 B2 | B2 A2 G2 |"D7" A6- | %51
+ A6 | A2 A2 A2 | A2 G2 ^F2 | A2 ^F4- | F6 | A2 A2 A2 | A2 B2 A2 |"G" G6- | G=B, CD =E^F!D.S.! |] %60
+

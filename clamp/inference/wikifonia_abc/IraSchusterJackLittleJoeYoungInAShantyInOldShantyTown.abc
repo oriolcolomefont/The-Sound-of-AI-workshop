@@ -1,0 +1,24 @@
+X:1
+T:In A Shanty In Old Shanty Town
+T:In a shanty in old shanty town
+T:Little Jack Little and John Siras
+T:Joe Young
+C:Ira Schuster, Jack Little
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z z z G, |"C" G G2 G |"E7" ^G G2 G |"A7" A2 G E | ^C3 A, |"D7" D D2 D |"C#9" ^D D2 D | %7
+w: It's|on- ly a|shan- ty in|old shan- ty|town; the|roof is so|slan- ty it|
+"D9" E2 D C |"D7" A,3 A,/^A,/ |"G" B, G2 ^F |"G7" F3 A,/B,/ |"C" C A2 _A |"A7" G3 E/_E/ | %13
+w: touch- es the|ground. But my|tum- bled down|shack by an|old rail- road|track, like a|
+"D7" D2 E F |"Am6" ^F B2 F |"Dm7" A2 F D |"G7" B,3 G, |"C" G G2 G |"E7" ^G G2 G |"A7" A2 G E | %20
+w: mil- lion- aire's|man- sion, is|call- ing me|back. I'd|give up a|pal- ace if|I were a|
+ ^C3 A, |"D7" D D2 D |"C#9" ^D D2 D |"D9" E2 D C |"D7" A,3 A,/B,/ |"F" C2 B, C |"Fm6" D3 C/D/ | %27
+w: king; it's|more than a|pal- ace it's|my ev- 'ry-|thing. There's a|queen wai- ting|there with a|
+"C" E2 G B |"A7" A3 G,/A,/ |"Dm7" F F2 F |"G7" G2 G E |"C" C4- | C2 z2 | z4 |] %34
+w: sil- ver- y|crown, in a|shan- ty in|old shan- ty|town.|||
+

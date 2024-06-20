@@ -1,0 +1,30 @@
+X:1
+T:Anything Goes
+T:Anything Goes
+C:Cole Porter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G7" G |:"C" G A E G | A G/A/- A/G/ E | G/ A E/ G"Am" A/c/- | c/A/ c"C7" d e |"Dm7""C" d4- | %6
+w: In|old- en days, a|glimpse of stock- * ing was|looked on nas some- thing shock-|* ing, now heav- en|knows,|
+"Dm7" d z"Fm6" c/c/ c |"C""F6" c4- |"C" c"G+" z z G |"C" G A E G | A G/A/- A/G/ E | %11
+w: _ an- y- thing|goes.|_ Good|auth- ors, too, who|once knew bet- * ter words|
+ G/ A E/ G"Am" A/c/- | c/A/ c"C7" d e |"Dm7""C" d4- |"Dm7" d z"Fm6" c/c/ c |"C""Dm" c4 || %16
+w: now on- ly use four let-|* ter words writ- ing|prose,|_ an- y- thing|goes.|
+"C" z"B7" B/B/- B/B/ B |"E" B B/B/- B/B/ B |"B9" ^c"B7" B/B/- B/B/ B |"E7" d B/B/- B/B/ B | %20
+w: The world _ has gone|mad to- day, _ and good's|bad to- day, _ and black's|white to- day, _ and day's|
+"B7" ^d B/B/- B/B/ B |"Em" e B/B/- B/^A/B/A/ |"Em7" B E/E/- E/^D/ E | %23
+w: night to- day, _ when most|guys to- day, _ that wo- men|prize to- day, _ are just|
+"C#dim" E/E/"D#dim" ^D"C#dim" E"G7" G- | G2 z G ||"C" G A E G | A G/A/- A/G/ E | %27
+w: sil- ly gig- o- los.|_ So|though I'm not a|great ro- man- * cer, I|
+ G/ A E/ G"Am" A/c/- | c/A/ c"C7" d e |"Dm7""C7" d4- | d z e/d/ c |1"C""Fm6""C""Fm6" c4 || %32
+w: know that you're bound to ans-|* swer, when I pro-|pose,|_ an- y- thing|goes.|
+"C" z2"F#dim" z"G7" G :|2"C""Fm6""C""Dm7" c4- |"C" c3 z |] %35
+w: In|goes.|_|
+

@@ -1,0 +1,60 @@
+X:1
+T:I Want To Know What Love Is
+C:Mick Jones
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 7
+%%MIDI program 25
+V:1
+"Dmin" A6"C " G2 |"F " A8 |"Bb " B8 |"Dmin" A8- | A4 z2 z/ D/"C " F/G/ |"F " AG/G/ F<F- F4 | %6
+w: ||||* I ~got- ~ta|take a lit- tle time, *|
+"Bb " z2 z/ D/ F/G/ B>A G/F/A- |"Dmin" A<A- A6 | z4 z2"C " GA |"F " A2 z/ D/ F/G/ AG/G/ F<F- | %10
+w: a ~lit- tle time ~to ~think ~things o\-|* ver. *||* I ~bet- ter ~read ~be tween the ~lines,|
+"Bb " F4 z2 z/ C/ F/G/ |"Dmin" BA G/F/A- A/G/ F3- |"F " F8 | z4"C " G4- | G3 f e4 |"Dmin" d8 | %16
+w: * in ~case ~I|~need ~it ~when ~I'm o\- * l\- der.||uh...|* ~OOOh ~OOh|~OOOh...|
+ z4 z2 z/"C " A/ A |"F " AG G<F F4 |"Bb " z2 z D/F/ G<B A/G/F |"Dmin" AA- A6 | %20
+w: Now ~this|~moun- tain I must ~climb,|feels ~like ~the ~world ~u- ~pon my|~shoul- ders. *|
+ z2 z/ A/ A AG"C " G/F/F- |"F " F<F- F4- F/C/F/G/ |"Bb " B>A- A/G/F A>G F2- |"Dmin" F6 df | %24
+w: Through ~the ~clouds ~I ~see ~love shi-|* ne, * * it ~keeps ~me|~warm ~as * ~life ~grows ~co- l\- der.|* In ~my|
+"Bb " g>f d4"Gmin" dd |"Bbmaj7" ag"Gmin" fe d3 z |"Bb " df- f<g"Gmin" f<d z d/d/ | %27
+w: ~l- i\- fe ~there's ~been|~heart- ache ~and ~pa- in;|I ~don't * ~kn- o\- w ~if ~I|
+"Bbmaj7" d a2 g/"Gmin"f/ e d3 |"Bb " a3 g/f/"Gmin" g f2 d |"Bbmaj7" ag fe-"Gmin" e<d- d/ z/ f | %30
+w: ~can ~fa- ce ~it ~a- gain.|Can't st- op ~no- w, ~I've|~tra- velled so f\- * ar, * to|
+"Bbmaj7" a2"Dmin" a2"Bb " b2"F " af/c/ |"C7" d4 z2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %33
+w: change ~this ~lone- ly ~l- i\-|fe * * *|* I ~want ~to ~know ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " ag- g4 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %37
+w: |* I ~want ~you ~to ~show|* ~me. * * * *|* I ~want ~to ~feel ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " ag- g6 |"C7" B2 A2 G2 F2 |"Dmin" D4 z4 | %42
+w: |* I ~know ~you ~can ~show|* ~me. *|||
+ z4 z2 z/ D/"C " F/G/ |"F " AG/G/ F<F- F4 |"Bb " z2 z/ D/ G/A/ B2 B/c/d |"Dmin" A/ A7/2- A4 | %46
+w: I'm ~gon- na|take a lit- tle time, *|a ~lit- tle time ~to ~look a\-|round ~me. *|
+ z2 z/ A/ A AG"C " (3:2:2G2 F |"F " F6- F/D/G/A/ |"Bb " B<B c>d A/G/ A3- |"Dmin" A4 ag gf | %50
+w: I've ~got ~no- where ~left ~to|~hide, * it ~looks ~like|~love has fi- ~nally ~found- ~m- e\-|* I\- n ~m- y|
+"Bb " g>f d2"Gmin" z2 dd |"Bbmaj7" ag fe/"Gmin"d/- d4 |"Bb " df- f<g"Gmin" f<d z d/d/ | %53
+w: ~li- f\- e ~there's ~been|~heart- ache ~and ~pa- in *|I ~don't * ~kn- o\- w ~if ~I|
+"Bbmaj7" d a2 g/f/"Gmin" e d3 |"Bb " a3 g/f/"Gmin" g f2 d |"Bbmaj7" ag fe-"Gmin" e<d- d/ z/ f | %56
+w: ~can ~fa- ce- ~it- ~a- gain;|Can't st- op ~no- w, ~I've|~tra- velled so fa- * r, * to|
+"Bbmaj7" a2"Dmin" a2"Bb " b2"F " af/c/ |"C7" d6 c/d/c- |"F " c z z/ a/ a/a/ af fg- | %59
+w: change ~this ~lone- ly ~li- f\-|e. * * *|* I ~want ~to ~know ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %63
+w: |* I ~want ~you ~to ~show|* ~me. * * * *|* I ~want ~to ~feel ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %67
+w: |* I ~know ~you ~can ~show|* ~me. * * * *|* I ~want ~to ~know ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %71
+w: |* I ~want ~you ~to ~show|* ~me. * * * *|* I ~want ~to ~feel ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %75
+w: |* I ~know ~you ~can ~show|* ~me. * * * *|* I ~want ~to ~know /what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %79
+w: |* I ~want ~you to ~show|* ~me. * * * *|* I ~want ~to ~feel what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %83
+w: |* I ~know ~you ~can ~show|* ~me. * * * *|* I ~want ~to ~know what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %87
+w: |* I ~know ~you ~can ~show|* ~me. * * * *|* I ~want ~to ~feel what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3- g2 c/d/c- |"F " c2 z/ a/ a/a/ af fg- | %91
+w: |* I ~know you ~can ~show|* ~me. * * * *|* I ~want ~to ~know ~what ~love ~is,|
+"C " g4 z c GA |"Gmin" B2 z d ba aa- |"C " a g3"Bb " f2"C7" e2 |"F " f8- | f4 z4 |] %96
+w: |* I ~want ~you ~to ~show|* ~me. * *|||
+

@@ -1,0 +1,36 @@
+X:1
+T:Body and Soul (diatonic middle)
+T:Body and Soul
+T:Johnny Green
+C:Johnny Green
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 255
+V:1
+"^A""Bm7" z BcB"F#7" c2 B2 |"Bm7" f2 f2-"E9" f4 |"Amaj7" z efe"D9" f2 e2 | %3
+w: My heart is sad and|lone- ly, _|For you I sigh, for|
+"C#m7" b2 a2"B#dim7" g2 f2 |"Bm7" z2 a2 f d2 F |"G#m7b5" c4"C#7" B4 | %6
+w: you, dear, on- ly,|Why have- n't you|seen it?|
+"F#m7" z ABc"Bm7" e2"E7" (3ef^B |"A6""C#m7b5""F#7" A8 ||"^A""Bm7" z BcB"F#7" c2 B2 | %9
+w: I'm all for you, bod- y and|soul.|I spend my days in|
+"Bm7" f2 f2-"E9" f4 |"Amaj7" z efe"D9" f2 e2 |"C#m7" b2 a2"B#dim7" g2 f2 |"Bm7" z2 a2 f d2 F | %13
+w: long- ing _|and won- d'ring why it's|me you're wrong- ing,|I tell you I|
+"G#m7b5" c4"C#7" B4 |"F#m7" z ABc"Bm7" e2"E7" (3ef^B |"A6" A4"B#m7""E#7" z2 z2 || %16
+w: mean it,|I'm all for you, bod- y and|soul.|
+[K:Bb]"^B""Bbmaj7" z Bcd"Cm7" f f2 f |"Dm7" b b2 d"Ebm6" f f2 e | %18
+w: I can't be- lieve it, It's|hard to con- ceive it, that|
+"Dm7" d d2"Gm7" B"Cm7" c2"F7" AF- |"Bbmaj7" F8 |"Bbm7" z Bc_d"Eb7" f f2 e | %21
+w: you'd turn a- way ro- mance.|_|Are you pre- tend- ing? It|
+"Cm7" c' c'2 g"Cbdim7" b b2 f |"Bbm7" _a a2 f"Eb7" g g2 e |"Ab7" c2"G7" =B2"F#7" ^A2 ^f2 || %24
+w: looks like the end- ing un-|less I could have one more|chance to prove, dear,|
+[K:A]"^A""Bm7" z BcB"F#7" c2 B2 |"Bm7" f2 f2-"E9" f4 |"Amaj7" z efe"D9" f2 e2 | %27
+w: My life a wreck you're|mak- ing, _|You know I'm yours for|
+"C#m7" b2 a2"B#dim7" g2 f2 |"Bm7" z2 a2 f d2 F |"G#m7b5" c4"C#7" B4 | %30
+w: just the tak- ing,|I'd glad- ly sur-|ren- der|
+"F#m7" z ABc"Bm7" e2"E7" (3ef^B |"A6""C#m7b5""F#7" A8 |] %32
+w: my- self to you, bod- y and|soul.|
+

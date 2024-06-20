@@ -1,0 +1,26 @@
+X:1
+T:Old Toy Trains
+T:Old Toy Trains
+C:Roger Miller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" z4 F2 G2 | A4 A/B/A-AG- |"C7/E" G2 z2 F/A/G-GF- |"Bb/D" F4 DDFF |"C" G2 z2 FFGG | %5
+w: Old toy|trains, lit- tle toy _ tracks,|_ lit- tle boy _ drums|_ com- in' from a|sack car- ried by a|
+"F" A4 Ac"F7"AA |"Bb" B4 F/F/G-GA- |"F" AAAF"C7" GGGE |"F" F2 z2 A2 c2 |]:"C7" c4 B2 AG- | %10
+w: man dressed in white and|red. Lit- tle boy, _ don't|_ you think it's time you were in|bed? Close your|eyes, _ _ _|
+ G2 z2 CEGc |"Bb" B2 AG F2 GA- |"F" A2 z2 z2 FG |"Dm" A4 z2 AF |"G7" D2 DD E2 F2 | GGGG F2 DC | %16
+w: _ lis- ten to the|skies. _ _ _ _ _|_ All is|calm, all is|well, soon you'll hear Kris|Krin- gle and the jin- gle _|
+ C2 CC F2 G2 | A4 A/B/A-AG- |"C/E" G2 z2 G/A/G-GF- |"Bb/D" F4 DDFF |"C" G2 z2 FFGG | %21
+w: bells bring- in' old toy|trains, lit- tle toy _ tracks,|_ lit- tle boy _ drums,|_ com- in' from a|sack car- ried by a|
+"F" A4 Ac"F7"AA |"Bb" B4 F/F/G-GA- |"F" AAAF"C7" GGGE |1"F" F4 F2 A2 ||"Fmaj7" Bc c2"Gm7/F" dcBA | %26
+w: man dressed in white and|red. Lit- tle boy, _ don't|_ you think it's time you were in|bed? * *||
+"Fmaj7" Bc c4"Gm7/F" FA |"Fmaj7" Bc c2"C7" dcBE |"F" F4 A2 c2 :|2"F" F2 z2 F/F/G-GA- || %30
+w: ||* Close your|bed? Lit- tle boy _ don't|
+ AAAF"Gm7" GGGF |"F" F4"C9sus4" z2 FA |"Fmaj7" Bc c2"C7" dcBE |"F" F8 |] %34
+w: _ you think it's time you were in|bed? * *|||
+

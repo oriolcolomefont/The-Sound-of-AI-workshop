@@ -1,0 +1,25 @@
+X:1
+T:Love (Can Make You Happy)
+T:Love (can make you happy)
+T: Jack Sigler Jnr
+C:Jack Sigler Jr.
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" f e d c |"Gm" d c2 F/G/ |"Am" A c2 F/G/ |"Bb" G F2 F/G/ |"F" A c d c |"Gm" A F2 F/G/ | %6
+w: Wake up in the|morn- ing with the|sun- shine in your|eyes * and the|smell of flow- ers|bloom- ing in the|
+"Am" A4- |"C7" A2 z e |"F" f e d c/c/ |"Gm" d c/c/ F G |"Am" A c2 F/G/ |"Bb" F3 F/G/ |"F" A c d c | %13
+w: air|_ your|mind is filled with the|thoughts of a cer- tain|some- one that you|love and your|life is filled with|
+"Gm" A F F G |"F" F4 |"C7" C D E G |"F" F3 C |"Gm" _B A F C |"F" _B A F C |"Bb" F F"C7" G E | %20
+w: joy when she is|there||Love can|make you hap- py|if you find some|one who cares to|
+"F" F3 C |"Gm" _B A F C |"F" _B A F C |"Bb" F F"C7" G E |"F" F4 |"C7" F G A _B |"F" z F A2 | %27
+w: give a|life- time to you|and who has a|lot to share *|||love *|
+"Gm" G4 |"F" z F A2 |"Gm" G4 |:"F" F3 C |"Bb" _B A F C |"F" F3 C | %33
+w: love|love *|love|love can|make you hap- py|love can|
+"Bb" _B"^repeat and fade" A"C7" F C :| %34
+w: make you hap- py.-|
+

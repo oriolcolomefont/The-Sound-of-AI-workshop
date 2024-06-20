@@ -1,0 +1,57 @@
+X:1
+T:There She Goes
+T:There She Goes
+T:Taio Cruz
+C:Taio Cruz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm" D>E-EF- F2 DF |"C" E>D-DC- C2 CD |"Am" E>D-DC- C2 CE |"Bb" F>E-ED- D2 DE |"Dm" F4 z2 DF | %5
+w: There she * goes * Loo- king|like a * star * with her|bo- dy * shaped * Like a|rock gui- tar * * There she|goes Like a|
+w: |||||
+"C" E>D-DC- C2 CD |"Am" E>D-DC- CCCE |"Bb" F>E-ED- D2 z2 |"Dm" z8 |: z4 z2 FG |"Dm" AGAG AGAG | %11
+w: shoo- ting * star * Make you|wan- na * play * makes all the|boys them * say *||Yeah the|way her bo- dy mo- ving like a|
+w: ||||Yeah she'll|grab you by the hair and make you|
+ AG A2 z2 FG | AGAG AGAG |"Dm" Ac A2 z2 FG | z z/ A/-AA"C" z z/ G/-GG |"Am" z z/ e/-ee"Bb" fedc | %16
+w: hur- ri- cane thought I|knew what sex- y was but uh uh|that just changed She's a|pop- * star rock- * star|la- * la e _ _ _|
+w: scream and shout She'd like|to chew you up and then she'll spit|you o- ut * *|||
+"Dm" d>A-AA"C" z z/ G/-GG |"Am" z z/ e/-ee"Bb" fFFF |"Dm" AGAG AGAG |"Dm" AG A2 z2 FG | AGAG AGAG | %21
+w: _ figh- * ter lo- * ver|la- * la e she knows ex-|act- ly what she's do- ing I think|she's a pro when she's|wal- king to the room she make sure|
+w: |* * * * Oh no don't|think that girl a ligh- ter, she won't|give a what Yeah she|likes to play with fire and she burns|
+ Ac A2 z2 FG |"Dm" z z/ A/-AA"C" z z/ G/-GG |"Am" z z/ e/-ee"Bb" fedc |"Dm" d>A-AA"C" z z/ G/-GG | %25
+w: that she know She's a|thril- * ler kil- * ler|la- * la e _ _ _|_ dance * floor fil- * ler|
+w: it up _ _ _||||
+"Am" z z/ e/-ee"Bb" fedc |"Dm" d>e-ef- f2 df |"C" e>d-dc- c2 cd |"Am" e>d-dc- c2 ce | %29
+w: la- * la e _ _ _|There she * goes * loo- king|like a * star * with her|bo- dy * shaped * like a|
+w: ||||
+"Bb" f>e-ed- d2 de |"Dm" f4 z2 df |S"C" e>d-dc- c2 cd |"Am" e>d-dc- ccce |"Bb" f>e-ed- d2 z z | %34
+w: rock- gui- * tar * There she|goes like a|shoo- ting * star * make you|wan- na * play * makes all the|boys them * say *|
+w: |||||
+"Dm" d>e-ef- f2 df |"C" e>d-dc- c2 cd |"Am" e>d-dc- c2 ce |"Bb" f>e-ed f>e-ed |"Dm" d>e-ef- f2 df | %39
+w: Woh- oh- * oh * woh- oh-|oh- oh- * oh * woh- oh-|oh- oh- * oh * woh- oh-|oh- oh- * oh There she * goes|Woh- oh- * oh * woh- oh-|
+w: |||||
+"C" e>d-dc- c2 cd |"Am" e>d-dc- c2 ce |1"Bb" f>e-ed f>e-ed :|2"Dm""Bb" f>e-ed z2!>(! FG!>)! || %43
+w: oh- oh- * oh * woh- oh-|oh- oh- * oh * woh- oh-|oh- oh- * oh There she * goes|oh- oh- * oh She's a|
+w: ||||
+!<(! z z/ A/-AA"C" z z/ G/-GG!<)! |"Am"!<(! z z/ e/-ee"Bb" fedc!<)! | %45
+w: pop- * star rock- * star|la- * la e _ _ _|
+w: ||
+"Dm"!<(! d>A-AA"C" z z/ G/-GG!<)! |"Am"!<(! z z/ e/-ee"Bb" fedc!<)! |"Dm" z4 z2 FG | %48
+w: _ figh- * ter lo- * ver|la- * la e _ _ _|She's a|
+w: |||
+"Dm" z z/ A/-AA"C" z z/ G/-GG |"Am" z z/ e/-ee"Bb" fedc |"Dm" d>A-AA"C" z z/ G/-GG | %51
+w: thril- * ler kil- * ler|la- * la e _ _ _|_ dance * floor fil- * ler|
+w: |||
+"Am" z z/ e/-ee"Bb" fedc |"Dm" D>E-EF- F2 DF |"C" E>D-DC- C2 CD |"Am" E>D-DC- C2 CE | %55
+w: la- * la e _ _ _|There she * goes * Loo- king|like a * star * with her|bo- dy * shaped * Like a|
+w: ||||
+"Bb" F>E-ED- D2 DE |"Dm""Dm" F4 z2 DF!D.S.! | %57
+w: rock gui- tar * * There she|goes Like a|
+w: ||
+

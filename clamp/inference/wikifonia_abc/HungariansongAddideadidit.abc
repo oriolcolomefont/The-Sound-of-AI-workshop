@@ -1,0 +1,15 @@
+X:1
+T:Add ide a didit
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:2/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" EE DC | E E3 | EE DC |"G" D2 z2 | DD =B,G, | DD ED |"Cm" C2 z2!fine! :| z C DE |"Fm" F2 CF- | %9
+w: Add i- de a|di- dit,|a~di- dit add i-|de,|én a di- dit|o- da nem a-|dom.|A di- di|hó- fe- hér,|
+ FF ED |"Cm" E2 CE- | EC DE |"Fm" F2 CF- | FD EF |"G" G2 F2 | E2 D2!D.C.! |] %16
+w: * a di- di|kő- ke- mény,|* a di- di|bom- ba- jó,|* a di- di|jó _|_ .|
+

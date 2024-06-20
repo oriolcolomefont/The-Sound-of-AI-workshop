@@ -1,0 +1,31 @@
+X:1
+T:Frosty The Snowman
+T:Frosty the Snowman
+T:Steve Nelson and Jack Rollins 
+C:Jack Rollins, Steve Nelson
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" G2 E3/2 F/ | G c2"C7" B/c/ |"F" d c B A |"C" G3 B/c/ |"F" d c B A/A/ |"C" G c E G/A/ | %6
+w: Frost- y the|snow- man was a|jol- ly hap- py|soul, with a|corn cob pipe and a|but- ton nose and two|
+w: Frost- y the|snow- man knew the|sun was hot that|day, So he|said, Lets run and we'll|have some fun now be-|
+"G7" G F E F |"C" G3"G7" z |"C" G2 E3/2 F/ | G c2"C7" B/c/ |"F" d c B A |"C" G3 B/c/ | %12
+w: eyes made out of|coal|Frost- y the|snow- man is a|fair- y tale, they|say, He was|
+w: fore I melt a-|way,|Down to the|vil- lage with a|broom- stick in his|hand, Run- ning|
+"F" d c B A/A/ |"C" G c"A7" E G/A/ |"Dm" G F"G7" E D |"C" C3 C |"F" A A c c |"C" B A G E | %18
+w: made of snow but the|child- ren know how he|came to life one|day. There|must have been some|mag- ic in that|
+w: here and there all a-|round the square say- in'|Catch me if you|can. He|led them down the|streets of town right|
+"Dm" F A"G7" G F |"C" E3 E |"G" D D G G | B B d d/B/ |"Am" d c"D7" B A |"G" G2"G7" G2 | %24
+w: old silk hat they|found, For|when they placed it|on his head he be-|gan to dance a-|round Oh!|
+w: to the traf- fic|cop, andhe|on- ly paused a|mo- ment when * he|heard him hol- ler|Stop, For|
+"C" G2 E3/2 F/ | G c2"C7" B/c/ |"F" d c B A |"C" G3 B/c/ |"F" d c B A/A/ |"C" G c"A7" E G/A/ | %30
+w: Frost- y the|snow- man was a-|live as he could|be, And the|chil- dren say he could|laugh and play just the|
+w: Frost- y the|snow- man had to|hur- ry on his|way, But he|waved good- bye say- in'|Dont you cry, I'll be|
+"Dm" G F"G7" E D |"C" C3 z :| %32
+w: same as you and|me.|
+w: back a- gain some|day.|
+

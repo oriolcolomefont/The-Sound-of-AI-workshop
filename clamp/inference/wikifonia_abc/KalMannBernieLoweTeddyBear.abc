@@ -1,0 +1,29 @@
+X:1
+T:Teddy Bear
+T:Teddy Bear
+T:(let me be your)
+T:Kal Mann and Bernie Lowe
+C:Kal Mann, Bernie Lowe
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E F G A | G3 G |"F" A B c A |"C" G4 |"F" A B c A | c d/c/- c3/2 A/ | c d c A | %7
+w: Ba- by let me|be your|lov- in ted- dy|bear|put a chain a-|round my neck _ and|lead me an- y-|
+w: Ba- by let me|be a-|round you ev- 'ry|night|run you fin- gers|through my hair _ and|cud- dle me real|
+"C" G"^N.C." G A G |"G7" B4- | B G2 A/c/ |"C" c4- | c2 z G |"F" A A/A/ A c |"G7" B G2 G | %14
+w: where oh let me|be|_ your ted- dy|bear|_ I|dont want to be your|ti- ger cause|
+w: tight * * *|||||||
+"F" A A A c |"G7" B3 G |"F" A A/A/ A c |"G7" B G2 G |"F" A A A c |"G7" B B2 B/B/ |"C" c4 | %21
+w: ti- gers play too|rough I|dont want to be your|li- on cause|li- ons aint the|kind upi love e-|nough|
+w: |||||||
+ z"^N.C." C E A |"C" G4- | G A c A | G4- | G4 |"F" A B c A | c d/c/- c3/2 A/ | c d c A | %29
+w: Just wan- na|be|_ your ted- dy|bear|_|put a chain a-|round my neck _ and|lead me an- y-|
+w: ||||||||
+"C" G G A G |"G7" B4- | B G2 A/c/ |1"C" c4 :|2"G7""C" c4- |"F7""C" c3 z |] %35
+w: where oh let me|be|_ your ted- dy|bear|bear|_|
+w: ||||||
+

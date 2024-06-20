@@ -1,0 +1,19 @@
+X:1
+T:Nád a házam teteje
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" c2 G2 E2 C2 |"G" D D2 D DDEF | G2 F2 E2 D2 |"Cm" E C2 C CC C2!fine! :|"Fm" c c3 c d3 | %5
+w: Nád a há- zam|te- te- je, te- te- je, de|rá- szál- lott a|ci- ne- ge, ci- ne- ge,|Ha be- sza- kad,|
+w: Hess le ró- la,|ci- ne- ge, ci- ne- ge, mert|be- sza- kad a|te- te- je, te- te- je.||
+"Cm" e B3 B2 B2 |"Fm" d3 c B3 A |"G" G G2 G GG=A=B!D.C.! |] %8
+w: mi lesz vé- lem,|sár- ga lá- bú|ci- ne- ge, ci- ne- ge, de|
+w: |||
+

@@ -1,0 +1,17 @@
+X:1
+T:Minority
+T:Minority
+T:Gigi Gryce
+C:Gigi Gryce
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Fm6" g6- gf | z4 =d=efg |"Gm7" =a4 a3 g |"C7" =ac' z a- a4 |"Fm6" g6- gf | z4 fgbc' | %6
+"Cm7" =d'4 d'3 c' |"F7" =d'f' z d'- d'4 |"Bbm7" c'2 z2 c'3 b |"Eb7" c'e' z c'- c'4 | %10
+"Abm7" z b z2 b3 a |"Db7" bd' z b- b2 z2 |"F#m7" a4 a3 a |"B7" z4 f_g z a |"Gm7" =a4 a3 a | %15
+"D+7" z4 c'a=ec |] %16
+

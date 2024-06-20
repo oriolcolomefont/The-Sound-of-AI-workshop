@@ -1,0 +1,28 @@
+X:1
+T:(Sittin' On) The Dock of the Bay
+T:(sitting on) The Dock of the Bay
+T:Steve Cropper and Otis Reading
+C:Otis Reading, Steve Cropper
+Z:All Rights Reserved
+L:1/8
+Q:1/4=216000
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+"G""_Rock" GGGG A2 GB- |"B" B4 z2 BB |"C" cccc c(B_B)A- |"A" A4 z4 |"G" G G2 G A2 GB- | %5
+w: Sit- tin' in the mor- nin' _|_ I'll be|sit- tin' when the eve- nin' _ come,|_|watch- in the ships roll in|
+"B" B2 z2 z2 BB |"C" cccc d(B^A)=A- |"A" A2 z2 A3 E |"G" GGGG GGGB- |"E" B2 z2 BBB(e- | %10
+w: _ then I|watch 'em roll a- way a- * gain|_ Yeah! I'm|sit- tin' on the dock of the bay|_ watch in' the tide|
+"G" edB/A/G) A2 GB- |"E" B2 z (e- eB) B2 |"G" EGGE GGGA- |"A" A2 z2 AGE(G-!dacoda! |1 %14
+w: _ _ _ _ _ roll a- way|_ (oo _ _ ee)|sit- tin' on the dock of the bay|_ wast- * in- time|
+"G" G4 B G2 E- |"E" E4) z2 z E :|2"G" (G4 BA G2 ||"E" E4) z4 |"G" z2 z g2"D" e3 | %19
+w: _ _ _ _|* I|time _ _ _|_|Looks like|
+"C" geed (B/G/ B3) |"G" z2 z e-"D" ed d2 |"C" BGBA (A G3) |"G" z4"D" geed | %23
+w: noth- in' gon- na change _ _|ev- * 'ry- thing|still re- mains the same _|I can't do what|
+"C" (3ged (3edB (A"G" G3) |"F" z2 =ff ffdf- |"D" =fd=fd- d2 z2!D.C.! ||O"G" G2 (3ABA G3 E- | %27
+w: ten peo- ple tell me to do _|so I guess I'll re- main|_ the same. * *||
+"E" E6 z2 |:"G" g2 e2 d B2 A | B^A B2 =A G2 A | BA B2 AGAB- |"E" Bd"^Repeat and fade" d2 e3 e :| %32
+w: |||||
+

@@ -1,0 +1,27 @@
+X:1
+T:How Soon
+T:How Soon
+T:Theme from the Richard Boone Show (TV)
+T:Henry Mancini
+T:Al Stillman
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C |"F" B3 A | E F G A |"Gm/F" c4- | c3 B |"C7/F" A3 G | F E F3/2 G/ |"F" C4- |"Cm/Eb" C3 C | %9
+w: How|soon the|flame of love can|die.|* How|soon good-|night be- comes good-|bye.|* You're|
+"D7" B2 A2- | A D _E3/2 D/ |"Gm" c2 B2- |"Gm/F" B D _E3/2 D/ |"Cm/Eb" d3 c |"D7" ^G3 A | %15
+w: gone now,|* and life goes|on now,|* and ev- ry|thing seems|out of|
+"Gm7b5" B4- | B3 C |"F" B3 A | E F G A |"Gm/F" c4- | c3 B |"C7/F" A3 G | F E F3/2 G/ | %23
+w: tune,|* But|time can|make a change of|heart.|* And|love can|make a- no- ther|
+"^Am7-5" c4- |"D7" c3 d |"Gm" d3 d |"G#dim" d d e f |"F/A" f3 c |"Bm7b5" A3 F |"Gm7" D3 B | %30
+w: start.|* Some|day you|may come back to|me to|stay, but|who can|
+"C7" E3 C |"F" F4- | F z z2 |] %33
+w: say how|soon.||
+

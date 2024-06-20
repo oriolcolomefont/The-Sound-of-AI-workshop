@@ -1,0 +1,24 @@
+X:1
+T:Mr. Sun
+T:Mr. Sun
+T:Children's Song
+C:Barney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="Flute" snm="Flu"
+%%MIDI program 73
+%%MIDI control 7 99
+%%MIDI control 10 64
+V:1
+ x/ D/ E>F |:"G" G2 z2 B2 z2 |"A7" A>B A>G E2 z2 |"D7" B2 .B2 B A3 | G4 z3/2 D/ E>F | G2 z2 B2 z2 | %6
+w: Oh Mis- ter|Sun, Sun|Mis- ter Gold- en Sun,|please shine down on|me. Oh Mis- ter|Sun, Sun,|
+"A7" A>B A>G E2 z2 | A A2 A A2 B2 | A6 z2 |"G" B2 B>^A B>=A (G>B) | A2 F2 D2 z D | %11
+w: Mis- ter Gold- en Sun,|hid- ing be– hind a|tree.|These lit- tle chil- dren are *|ask- ing you to|
+"G" B2 B2 B>A !^!G>B |"D" A2 F2 D>D"D7" E>F | G2 z2 B2 z2 | A>B A>G E2 z2 |1"D7" B2 .B2 B A3 | %16
+w: please come out so we can|play with you. Oh Mis- ter|Sun, Sun|Mis- ter Gold- en Sun,|please shine down on|
+"G" G4 z3/2 D/ E>F :|2"D7" B2 .B2 !^!B A2 || B2 .B2 B A2 z | B2 .B2 B A3 | G6 |] %21
+w: me. Oh Mis- ter|please shine down on,|please shine down on,|please shine down on|me.|
+

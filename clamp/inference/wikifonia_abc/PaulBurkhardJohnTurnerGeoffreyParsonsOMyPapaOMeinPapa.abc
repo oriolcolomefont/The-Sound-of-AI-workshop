@@ -1,0 +1,29 @@
+X:1
+T:O, My Papa (O Mein Papa)
+T:O Mein Papa
+T:Paul Burkhard
+T:English words by John Turner & Geoffrey Parsons
+C:Paul Burkhard
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" F4 F3 F | F6- FF | A3 G A3 F |"C" E2 G"C7"B- B4- | B4"C" E2 E>D | C6"C7" D2 | E2 F2 G2 A2 | %7
+w: 1.O, my Pa-|pa _ to|me he was so|won- der- ful _|_ O my Pa-|pa to|me he was so|
+w: 2.O, my Pa-|pa, _ so|fun- ny, so a-|dor- a- ble _|_ Al- ways the|clown so|fun- ny in his|
+"F" F8 | F4 F3 F | F6- FF | A3 G A3 F |"C7" E2 GB-"C7" B4 | E4 E2- E/D/C- | C6 D2 | %14
+w: good.|No one could|be, _ so|gen- tle and so|lov- a- ble, _|O my _ Pa- pa,|_ he|
+w: way|O my Pa-|pa _ to|me he was so|won- der- ful _|Deep in _ my heart|_ I|
+ E2 F"C"G- G2 EF- |"F" F8"_Fine" || A4"A7" A3 A |"D" A6 A2 | A3 c2"Dm" B2 A |"Gm" G2 E2"C" C4 | %20
+w: al- ways un- * der- stood|_|Gone are the|days when|he would take me|on his knee,|
+w: miss him so _ to- day.|_|||||
+"D" A4 A2- A>A |"Dm" A6"A7" A2 | _A2"E7" A2 =A2 =B2 |"A7" A4"C" G4"_D.C. al Fine" |] %24
+w: And with _ a|smile he'd|change my tears to|laugh- ter.|
+w: ||||
+

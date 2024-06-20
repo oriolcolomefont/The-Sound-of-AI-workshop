@@ -1,0 +1,31 @@
+X:1
+T:Priscilla
+T:Priscilla
+T:Eddie Cooley
+C:Eddie Cooley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"G7" E F |:"C" G G3 | z c c c |"D" A2 A2- | A2 z A |"G7" B2 B2 | G G A G |"C" E2 E2 | %8
+w: Ooh Pris|cil- la|at last I've|found you|* come|let me|put my arms a-|round you|
+w: ||||||||
+"G7" z E2 F |"C" G G3 | z c c c | A2- A2- | A2 z A |"G7" B3 A | G2 A G |"C" E C3 |"C7" z A c c | %17
+w: Ooh Pris-|cil- la|you sweet thing|ya, *|* please|wear my|ring on your|fin- ger|Ooh * Pris-|
+w: |||||||||
+"F" c4 | d d c z/ A/ |"C" A/G/ z z2 | z4 |"G7" B B/B/ B A | B A A A |"C" z G A c |"C7" A/G/ A c c | %25
+w: cil|la ay- yay Pris-|cil- la||Hey lit- tle girl you|know youve got my|poor hap- py|heart * oh * Pris-|
+w: ||||||||
+"F" c4 | d d c z/ A/ |"C" A/G/ z z2 | z2 z A/G/ |"G7" B B B G | B A A G |"C" E C3- | C z"G7" E F | %33
+w: cil|la ay yay Pris-|cil- la|well I|hope you know *|just what you have|start- ed|* you came|
+w: |||||||* in the|
+"C" G2 G2 | z c c c |"D7" c A3 | z2 z A |"G7" B3 A | G G F D |1"C" C4 ||"F" z2"G7" E F :|2 %41
+w: near me|and rolled those|eyes *|You|knew theyd|get me by and|by|Ooh Pris|
+w: morn- in|and night- time|too *|Icant|seem to|get my mind off|||
+"C" C4- ||"F" C3"C" z |] %43
+w: you||
+w: ||
+

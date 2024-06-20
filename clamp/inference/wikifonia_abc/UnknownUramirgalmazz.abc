@@ -1,0 +1,25 @@
+X:1
+T:Uram, irgalmazz
+T: 
+C:Unknown
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Emin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Em" z G/A/ G F |"Am" E2 z2 |"D7" z F/G/ A F |"G" G2 z2 |"Em" z B/ A G/ F |"Am" E2 z2 | %6
+w: U- ram, ir- gal-|mazz,|U- ram, ir- gal-|mazz,|Krisz- tus, ke- gyel-|mezz,|
+"D7" z F/ G A/ F |"G" G2 z2 |"Em" z G/A/ G F |"Am" E2 z2 |"B" z F/G/ F ^D |"Em" E2 z2 |] %12
+w: Krisz- tus, ke- gyel-|mezz,|U- ram, ir- gal-|mazz,|U- ram, ir- gal-|mazz!|
+"^Felsõ szólam" z"Em" G/A/ G F |"Am" E2 z2 |"D7" z A/B/ c A |"G" B2 z2 |"Em" z B/ c B/ A | %17
+w: |||||
+"Am" A2 z2 |"D7" z A/ B c/ A |"G" B2 z2 |"Em" z B/c/ B A |"Am" A2 z2 |"B" z B/c/ B A | %23
+w: ||||||
+"Em" G2 z2 |]:"Em""^Szóló" B2 G2 |"Am" A4 |"D7" A A/B/ c A |"G" B B/c/ B2 :|"Em" B2 G2 |"Am" A4 | %30
+w: |||||||
+"B" F3/2 F/ B/A/G/F/ |"Em" E4 |] %32
+w: ||
+

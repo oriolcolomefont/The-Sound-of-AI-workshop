@@ -1,0 +1,53 @@
+X:1
+T:I Dreamed A  Dream
+C:Claude-Michel Schönberg
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+V:1
+"F" z4"F/E" z4 |"F/D" z4"F/A" z4 |"Bb" z4"Gm/C" z4 |:"F" z3/2 F/ F>F"F/E" F>E F>G |"Dm""F/C" A8 | %5
+w: |||I dreamed a dream in time gone|by|
+w: |||Then I was young and un- a-|fraid|
+"Bb" z3/2 F/ F>F"Bb/A" F>F GA |"Gm7" D F3-"C11""C7" F4 |"F" z3/2 A/ A>A"F/E" A>G A>B | %8
+w: When hope was high and life worth|li- ving. _|I dreamed that love will ne- ver|
+w: When dreams were made and used and|wa- sted. _|There was no ran- som to be|
+"Dm7""F/C" c8 |"Bbmaj7" z3/2 A/ A>A"Bbmaj7/A" A>A Bc |"Gm7" D F3-"C11""C7" F4 :| %11
+w: die,|I dreamed that God would be for-|gi- ving. _|
+w: paid,|No song un- sung, no wine un-|tas- ted. _|
+"D" z2 ^F>G"D/F#" A>F D>C |"Gm""Gm/Bb" B,8 |"D" z2 ^F>G"D/F#" A>F D>C |"G" =B, G3-"G/B" G4 | %15
+w: But the ti- gers come at|night|With their voi- ces soft as|thun- der _|
+w: ||||
+"C" z2 E>F"C/E" G>E C>B, |"Fm""Fm/Ab" _A,8 |"C" z2 E>F G>F E>G |"F" (F4"Gm/F" G4 |"F" A4"Gm/F" B4 | %20
+w: As they tear your hope a-|part,|As they turn your dream to|shame. _|_ _|
+w: |||||
+"C" c6) z2 |"F" z3/2 F/ F>F"F/E" F<E F>G |"Dm7""F/C" A8 |"Bbmaj7" z3/2 F/ F>F"Bbmaj7/A" F>F GA | %24
+w: |He slept a sum- mer by my|side,|He filled my days with end- less|
+w: ||||
+"Gm7" D F3-"C13" F4 |"F" z3/2 A/ A>A"F/E" A>G A>B |"Dm7""F/C" c8 | %27
+w: won- der. _|He took my child- hood in his|stride|
+w: |||
+"Bbmaj7" z3/2 A/ A>A"C13" A>G GF |"F""C/E" F8 |"Cm6/Eb""D7sus4""D7" z8 || %30
+w: But he was gone when au- tumn|came.||
+w: |||
+[K:G]"G" z3/2 G/ G>G"G/F#" G>F G>A |"Em""G/D" B8 |"C" z3/2 G/ G>G"C/B" G>G A>B | %33
+w: And still I dreamed he'd come to|me,|That we would live the years to-|
+w: |||
+"Am7" E G3-"D13""D7" G4 |"G" z3/2 B/ B>B"G/F#" B>A B>c |"Em7""G/D" d8 | %36
+w: geth- er _|But there are dreams that can- not|be|
+w: |||
+"Cmaj7" z3/2 B/ B>B"C/B" B>B cd |"Am7" E G3-"D13""D7" G4 |"G" z4"G/F#" z4 | %39
+w: And there are storms we can- not|wea- ther. _||
+w: |||
+"Em" z2 (3BBB"G/D" c>B A>B |"C""G/B" G8 |"Am7" z B BB"C11" c>B"D" Ad | %42
+w: I had a dream my life would|be|So diffe- rent from this hell I'm|
+w: |||
+"G" (B/A/)G- G/B/B/B/"G/F#" B>A B>c |"Em7""G/D" d8 |"C" z3/2 G/ G>G"D7" G>F !fermata!F>E | %45
+w: li- * ving, _ so diffe- rent now from what it|seemed|Now life has killed the dream I|
+w: |||
+"G""G/F#" G8 |"Em7""G/B" z8 |"C""D7" z8 |"G" z8 |] %49
+w: dreamed.||||
+w: ||||
+

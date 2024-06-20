@@ -1,0 +1,22 @@
+X:1
+T:I've Got Sixpence
+T:I've Got Sixpence
+T:(war-time song)
+T:unknown
+C:Elton Box, Desmond Cox
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C" e2 c2 G c3 | eecc G c3 | e2 c2 G c2 c |"D" ccBc"G" d2 GG |"C" cc d2 e2"C7" c2 |"F" AA d2 f3 d | %6
+w: I've got six pence|luck- y luck- y six- pence|I've got six- pence to|last me all my life I've got|tup- pence to lend and|tup- pence to spend and|
+"C" cc c2"G" BcdB |"C" c4 z2 c2 |"G" d3 B G2 f2 |"C" e2 d2 c3 G |"D" AAAA d2 cA |"G" B2 c2 d3 G | %12
+w: tup- pence to take home to my|wife. No|cares have I to|grie- ve me no|pret- ty lit- tle girl to de-|cei- ve me I'm|
+"C" cccd e3 c |"F" A2 d2 f3 d |"C" c2 c2"G" BcdB |"C" c4 c2 B2 |"F" A4 B2 A2 |"C" G6 GG | %18
+w: hap- py as a king be-|lie- ve me as|I go ro- o- o- ling|home roll- ing|home, roll- ing|home by the|
+ c2 cc"D7" c2 Bc |"G" d6 GG |"C" cccd"C7" e2"F" cB | AAde f3 d |"C" cc"G"Bc d2 B2 |"C" c8 |] %24
+w: light of the sil- ver- y|moon I'm as|hap- py as the day when the|sol- dier gets his pay as|I go rol- o- li- ng|home.|
+

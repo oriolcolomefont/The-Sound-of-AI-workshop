@@ -1,0 +1,41 @@
+X:1
+T:Little Donkey
+T:Little Donkey
+T:Eric Boswell
+C:Eric Boswell
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"C" EE G4 E2 |"F" FF A4 F2 |"C" EE G4 E2 |"G7" D8 |"C" EE G4 E2 |"F" FF A4 F2 |"G7" GG B4 G2 | %7
+w: 1.Lit- tle Don- key,|lit- tle don- key,|on a dus- ty|road|Got to keep on|plod- ding on- wards|with the prec- ious|
+w: Been a long time|lit- tle don- key,|through the win- ter's|night.|Don't give up now,|lit- tle don- key,|Beth- le- hem's in|
+w: 2.Lit- tle don- key,|lit- tle don- key,|jour- ney's end is|near|There are wise men|wait- ing for a|sign to bring them|
+w: Do not fal- ter|lit- tle don- key,|there's a star a-|head.|It will guide you,|lit- tle don- key,|to a cat- tle|
+"C" c8 :|"Am" c4 c2 c2 |"Em" B2 A2 G4 |"D7" A2 (BA)"G7" G4 |"D7" A2 (BA)"G7" G4 |"Am" c4 c2 c2 | %13
+w: load.|Ring out those|bells to- night,|Beth- le- * hem,|Beth- le- * hem.|Fol- low the|
+w: sight.||||||
+w: here.||||||
+w: shed.||||||
+"Em" B2 A2 G4 |"D7" A2 (BA)"G7" G4 |"D7" A2 (BA)"G7" G4 |"C" EE G4 E2 |"F" FF A4 F2 |"C" EE G4 E2 | %19
+w: star to- night,|Beth- le- * hem,|Beth- le- * hem.|Lit- tle don- key,|lit- tle don- key,|had a heav- y|
+w: ||||||
+w: ||||||
+w: ||||||
+"G7" D8 |"C" EE G4 E2 |"F" FF A4 F2 |"G7" GG B4 G2 |"C" c8 || %24
+w: day.|Lit- tle don- key,|car- ry Ma- ry|safe- ly on her|way.|
+w: |||||
+w: |||||
+w: |||||
+"F" _B"^CODA (after final chorus)"B A4 F2 |"C" AA G4 E2 |"G7" GG F4 d2 |"C" c8 |] %28
+w: Lit- tle don- key,|car- ry Ma- ry|safe- ly on her|way.|
+w: ||||
+w: ||||
+w: ||||
+

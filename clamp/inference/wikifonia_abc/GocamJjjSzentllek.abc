@@ -1,0 +1,23 @@
+X:1
+T:Jöjj, Szentlélek
+T: 
+C:Gocam
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:3/4
+K:Emin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Em" e2 d e2 d | e2 d"Bm" B3 |"Em" e2 ee Be |"D" f6 |"G" g3 a g2 |"D" f3 d3 |"Bm" d d2 d Bd | %7
+w: Jöjj, Szent- lé- lek,|jöjj kö- zénk,|jöjj el fé- nyes- sé-|günk,|Jöjj tü- zes|lé- lek,|lob- bantsd lág- ra szí-|
+"Em" e6 |"Em" B3"Bm" d d2 |"Em" B3 B3 |"Bm" d3 B2 d |"Em" e6 |"D" f3 f2 f |"G" g3 g3 | %14
+w: vünk!|Jöjj, A- tyánk|lel- ke,|hozz fényt ne-|künk,|Küldd el a|menny- bõl|
+"D" f2 f"Em"e e"Bm"d |"Em" e6 |]"Em""^Alsó szólam" B2 B B2 B | B2 B"Bm" B3 |"Em" B2 BB BB |"D" f6 | %20
+w: Lel- ked nagy e- re-|jét!|||||
+"G" d3 d d2 |"D" d3 A3 |"Bm" B B2 B BB |"Em" B6 |"Em" B3"Bm" B B2 |"Em" B3 B3 |"Bm" B3 B2 B | %27
+w: |||||||
+"Em" B6 |"D" d3 d2 d |"G" d3 d3 |"D" d2 d"Em"B B"Bm"B |"Em" B6 |] %32
+w: |||||
+

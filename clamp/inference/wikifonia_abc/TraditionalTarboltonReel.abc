@@ -1,0 +1,19 @@
+X:1
+T:Tarbolton Reel
+T:Tarbolton Reel
+T:Traditional
+T:This work is in the public domain
+C:Traditional
+Z:Public Domain
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 73
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ D |"Em" Eeed e2 BA | GBAF GFEF |"D" Ddd^c d2 AF | GBAF GFEF |"Em" Eeed efge |"D" fedf edBA | %7
+"G" GABG"D" FGAc |"G" BG"B7"AF"Em" GE E2 ::"Em" gfef (3gfe be | gebe gfef |"D" d2 fd adfd | %12
+ ABAG FEDF |"G" G2 BG"D/F#" F2 AF |"Em" Eeef gfed |"G" BcBA GFGA |"B7" BGAF"Em" GE E2 :| %17
+

@@ -1,0 +1,35 @@
+X:1
+T:Hernando's Hideaway
+T:Hernando's Hideaway
+T:Richard Adler and Jerry Ross
+C:Richard Adler, Jerry Ross
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ E2 |:"D7" D z z E D z z E | D^FA z z2 E2 |"Gm" D z z E D z z E | DGB z z2 E2 | %5
+w: I|know a dark se-|clud- ed place a|place where no- one|knows your face a|
+"D7" D z z E D z z E | D^FA z z2 B2 |"Gm" G z z e"D7" dc z B/A/ |"Gm" G"D7" z"Gm" D2 G z z2 | %9
+w: glass of wine a|fast em- brace it's|called Her nan dos Hide a|way O Lay!|
+"D7" D z z E D z z E | D^FA z z2 E2 |"Gm" D z z E D z z E | DGB z z2 E2 |"D7" D z z E D z z E | %14
+w: All you see are|sil- hou- ettes and|all you hear are|cas- ta- nets, and|no one cares how|
+ D^FA z z2 B2 |"Gm" G z z e"D7" dc z B/A/ |"Gm" G z"D7" D2"Gm" G"^N.C."DED |"D7" c3 =B c3 B | %18
+w: late it gets, Not|at Her- nan- do;s Hide- a-|way O- lay! * * *||
+ c3 =B ce z d/c/ |"Gm" B"^N.C."D/D/ED G^FGA |"Gm" BA"^N.C."G^F GDED |"D7" c3 =B c3 B | %22
+w: |* At the gold- en fin- ger- bowl or|an- y place you go * * *||
+ c3 =B ce z d/c/ |"Gm" B"^N.C."D/D/ED G^FGA |"Gm" BA"^N.C."G^F GG_AG |"G7" f3 =e f3 e | %26
+w: |* you will meet your Un- cle Max and|ev- ry one you know * * *||
+ f3 =e f_a z g/f/ |"Cm" e"^N.C."G/G/_AG c=Bcd |"Cm" ed"^N.C."c=B c2"Cm" z2 | %29
+w: |* But if you go to the spot that|I am think- ing of|
+"A7" z A"^N.C."AA A z"A7" z2 | z d"^N.C."^c=c ^c"A7" z z2 |"D7" z2 z"^N.C." e d2 ^c2 | %32
+w: you will be free|to gaze at me|and talk of|
+"D7" d6 z"^N.C." E |"D7" D z z E D z z E | D^FA z z2 E2 |"Gm" D z z E D z z E | DGB z z2 E2 | %37
+w: love just|knock three times amd|whis- per low that|you and I were|sent by Joe then|
+"D7" D z z E D z z E | D^FA z z2 B2 |"Gm" G z z e"D7" dc z d/c/ |1 %40
+w: strike a match and|you will know You're|in Her- nan- do's Hide- a-|
+"Gm" G z"D7" D2"Gm" G z"^N.C." E2 :|2"Gm" G z"D7" D2"Gm" G z z2 |] %42
+w: way O- lay! I|way! O- lay!-|
+

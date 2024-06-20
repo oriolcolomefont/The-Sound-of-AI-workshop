@@ -1,0 +1,25 @@
+X:1
+T:Softly as in a Morning Sunrise
+T:SOFTLY, AS IN A MORNING SUNRISE
+T:OSCAR HAMMERSTEIN SIGMUND ROMBERG
+T:Tempo: 240
+C:Oscar Hammerstein, Sigmund Romberg
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Cm" c3 G- G4 |"Dm7b5" z FGF"^G7-9" G2 F2 |"Cm" c3 E- E4 |"Dm7b5" z DED"^G7-9" E2 D2 | %4
+"Cm" G3 C- C4 |"Dm7b5" z GAG"^G7-9" E2 D2 |"Cm" C8 |"Dm7b5" G4-"^G7-9" G4 |"Cm" c3 G- G4 | %9
+"Dm7b5" z FGF"^G7-9" G2 F2 |"Cm" c3 E- E4 |"Dm7b5" z DED"^G7-9" E2 D2 |"Cm" G3 C- C4 | %13
+"Dm7b5" z GAG"^G7-9" E2 D2 |"Cm" C8 | (3z2"Fm7" D2 E2"Bb7" (3F2 G2 A2 |"Eb" B3 E- E4 | %17
+ z BcB c2 B2 |"C7" B3 =E- _E4- | (3E2 =E2 F2 (3G2 A2 B2 |"Fm" c3 F- F4 |"F#dim" z cdc d2 c2 | %22
+"Dm7b5" d6 d2 |"G7" f2 f2 e2 d2 |"Cm" c3 G- G4 |"Dm7b5" z FGF"G7" G2 F2 |"Cm" c3 E- E4 | %27
+"Dm7b5" z DED"G7" E2 D2 |"Cm" G3 C- C4 |"Dm7b5" z GAG"G7" E2 D2 ||"Cm" C8- | %31
+"^(""^)""Dm7b5" C2 z2"^G7-9" z4 || %32
+

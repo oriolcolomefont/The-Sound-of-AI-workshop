@@ -1,0 +1,38 @@
+X:1
+T:THAT JOKE ISN'T FUNNY ANYMORE
+C:Marr
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"A" A,3 | E3 | G3 | z G A |"D" A A A |"E" F- E C/C/ |"F#m" F/-C/- C2 |"E" z A, A, |"F#m" C3 | %9
+w: |||Park the|car at the|side _ of the|road _ _|you should|know|
+ z z z |"G6" E3 | D2 C |"Gmaj7" D/C/ A,2 | z z z |"A" A3 | A2 A |"Fmaj7" A- E2 |"G6" z z z | %18
+w: |Times|tide will|smoth er you||and|I will|too _||
+"Amaj7" A/A/ G/G/ G | G F2 | z/ G/ G/G/ G/G/ | G G G |"D" A A A |"E" F E C |"F#m" F/C/- C2 | %25
+w: When you laugh a bout|people _|who feel so ve ry|lone ly their|on ly de|sire is to|die _ _|
+ z"E" z/ A,/ A,/A,/ |"F#m" C3 | z z C |"G6" C/E/- E2 | D2 C |"Gmaj7" A,3 | z z z |"A" z z A | %33
+w: Well, I'm a|fraid|it|does n't _|make me|smile||I|
+ A A A- |"Fmaj7" A A/e/- e- |"G6" e3- |"Fmaj9" e3- | e3 |"D" z z z | z =c c |"Fmaj9" =c _B/A/- A | %41
+w: wish I could|_ laugh _ _|_||||but that|Joke is n't _|
+"G" A/=G/ =F/A/ G- |"C" G3 |"D" z z =c |"Fmaj9" =c c c/A/- | =G G3/2 G/ |"D" A =G =F/E/- | E =C C | %48
+w: fun ny an y more|_|its|too close to home|_ and its|to near the bone|_ more than|
+"Fmaj9" E3 | z =C C- | C2 E- | E2 z |"A" A3 | F A F |"Fmaj9" =F2 =C |"G" =G3 |:"A" A,3 | F, A, F, | %58
+w: you'll|ev er|_ know|_|||||||
+"E" E,3 | E, =C B, |"Gmaj7" =G,3 | B,2 D |"Cmaj7" =C2 E |"Dm7" D F D :|"Fmaj7" =F3 | =F E F | %66
+w: ||||||||
+"D" D3 | z =c c |"Fmaj7" =c A A |"G" =G =F/>A/- A |"C" =G3 |"D" z =c c |"Fmaj9" =c c c | %73
+w: |It was|dark as I|drove the point _|home|and on|cold leat her|
+ =c =G3/2 G/ |"D" A/=G/ =F E | =C3 |"Fmaj9" z/ =C/ E E |"G" E2 =C/C/ |"C" E E =F |"D9" E =C C | %80
+w: seats well it|sud den ly struck|me|I just might|die with a|smile on my|face af ter|
+"Fmaj9" =C E2- | E2 z |"A" A3 | F A F |"Fmaj9" =F2 =C |"G" =G3 |"A" A,3 | F, A, F, |"E" E,3 | %89
+w: _ ALL|_||||||||
+ E, =C B, |"Gmaj7" =G,3 | B,2 D |"Cmaj7" =C2 E |:"D" B B B |"A" B A2- | A z B/B/ |"E" A B =c | %97
+w: ||||I've seen this|hap pen|_ in oth|er peo ple's|
+ B2 B |"G" B/-A/- A A | A B/=c/- c/B/- |"Cmaj7" A2 z :| %101
+w: lives and|now _ _ its|hap 'ning in _ mine|_|
+

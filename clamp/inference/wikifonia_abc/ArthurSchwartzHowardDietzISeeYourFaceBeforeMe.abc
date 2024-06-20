@@ -1,0 +1,30 @@
+X:1
+T:I See Your Face Before Me
+T:I See Your Face Before Me
+C:Arthur Schwartz
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Ebmaj7" G2 GG"Fm7" G3 G |"Gm7" G2"Fm7" G6 |"Ebmaj7" G2 GG"Fm7" G3 A |"Gm7""C7" B8 | %4
+w: I see your face be-|fore me|crowd- ing my ev- 'ry|dream.|
+"Fm7" F2 FF"Bb7" F3 F |"Fm7" F2"Bb7" F6 |"Fm7" F2 FF"Bbsus4" E3 F |"Eb" G8 |"Gm7" B2 BB B3 B | %9
+w: There is your face be-|for me;|you are my on- ly|theme.|It does- n't mat- ter|
+"C7" c3 B B4 |"Fm7" c3 B"Bb7" B3 B |"Eb" e3 B B4 |"Am7b5" =A2 AA"D7" A3 A |"Gm7" d3 G"C7" G4 | %14
+w: where you are,|I can see how|fair you are.|I close my eyes and|there you are,|
+"Fm7" c8 |"Bb+7" ^F8 |"Ebmaj7" G2 GG"Fm7" G3 G |"Gm7" G2"Fm7" G6 |"Eb" G2 GG"Fm7" G3 A | %19
+w: al-|ways.|If you could share the|mag- ic,|if you could see me|
+"Gm7""C7" B8 |"Fm7" F2 FF"Bb7" F3 F |"Fm7" F2"Bb7" F6 |"Fm7" F2 FF"Bb7sus4" E3 F |"Eb7" G8 | %24
+w: too.|There would be noth- ing|trag- ic|in all my dreams of|you.|
+"Ab6" A2 AB"Abmaj7" c3 c |"Ebdim7" c3 B"Eb7" B4 |"Bbm7" c3 B"Eb7" B4 |"Ab6" e3 A"Db9" A4 | %28
+w: Would that my love could|haunt you so;|know- ing I|want you so,|
+"Eb" G2 GG"C7b9" G3 A |"Fm7" F2 FF"Bb7b9" F3 !fermata!G |"Eb" E4 E4 |1"Bb7" B2"Eb" B2"Bb7" f4 :|2 %32
+w: I can't e- rase your|beau- ti- ful face be-|fore me.||
+"Eb" ^FG"Bb7"=AB"Eb" e4 |] %33
+w: |
+

@@ -1,0 +1,30 @@
+X:1
+T:Buffalo Gals
+T:Buffalo Gals
+T:(Won't You Come Out Tonight?)
+T:John Hodges (1844)
+T:original copyright not known
+C:John Hodges
+Z:All Rights Reserved
+L:1/8
+Q:1/2=90
+M:2/2
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^Moderately" e2 e2 A2 A2 | z4 A4 |"G7" G G2 G A2 ^A2 | B2 z2 z4 |:"C" CC C2 E2 (GG) | %5
+w: ||||1.~Buf- fa- lo gals, won't ya|
+w: ||||2.~Yes, pret- ty boys, we'll *|
+"F" A"C" G2 G E2 EE |"G7" G F2 F D2 DD |"F" A"C" G2 G E4 | CC C2 E2 GG |"F" A"C" G2 G E2 E2 | %10
+w: come out to- night, won't ya|come out to- night, won't ya|come out to- night?|Buf- fa- lo gals, won't ya|come out to- night, and|
+w: come out to night, we'll *|come out to- night, we'll *|come out to- night.|Yes, pret- ty boys, we'll *|come out to- night, and|
+"G7" G2 FF E2 DD |"C" C4 z2 G2 | c2 BB A2 GG | A2 GG EEEE |"G7" G2 FF DDGG |"F" A2"C" GG EE G2 | %16
+w: dance by the light of the|moon? I|danced with a gal with a|hole in her stock- ing and her|heel kept a- rock- in' and her|toe kept a- knock- in'. I|
+w: dance by the light of the|moon. *|||||
+ c2 BB A2 GG | A2 GG EEEE |"G7" G2 GG F2 DD |"C" C4 z4 :| %20
+w: danced with a gal with a|hole in her stock- in', and we|danced by the light of the|moon.|
+w: ||||
+

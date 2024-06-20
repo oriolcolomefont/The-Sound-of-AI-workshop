@@ -1,0 +1,27 @@
+X:1
+T:That's All Right
+T:That's All Right
+C:Arthur Crudup
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z2 z B |:"Eb" B =A (_A G) | A B z2 | B/B/ =A _A G | B4 | B =A (_A ^F) | G B (c B) | _d c B A | %8
+w: Well|that's all right, _|ma- ma.|That's * all right for|you.|That's all right *|ma- ma, just _|an- y way you|
+w: |ma- ma, she done|told me,|pa- pa done told me|too.|Son, that gal you're|fool- in' with, she|ain't no good for|
+w: |leav in' town to-|mor- row,|leav- * in' town for|sure.|Then you wont be|both- ered with me|hang- in' 'round your|
+w: |ought- ta mind my|pa- pa,|guess * I'm not too|smart.|If I was I'd|leave you, go be-|fore you break my|
+ G G F E |"Ab7" _G4 | z2 C E |"Eb" (G E3) | z2 c B |"Bb7" (d3 c) | (B/ A3/2) B2- | B4 | z d2 c | %17
+w: do. _ That's all|right,|that's all|right. _|That's all|right, _|ma- * ma,|_|an- y|
+w: you. But that's all|right,|that's all|right. _|Thnat's all|right _|ma- * ma,|_|an- y|
+w: door. But, that's all|right,|that's all|right. _|That's all|right _|ma- * ma,|_|an- y|
+w: heart. But that's all|right,|that's all|right. _|that's all|right, _|ma- * ma,|_|an- y|
+ B2 (_G F |"Eb" E4-) |"Ab7" E4- |"Eb""Ab7" E4- |1"Eb" E2 z B :|2 E3 z |] %23
+w: way you _|do.|_||* My||
+w: way you _|do.|_||* I'm||
+w: way you _|do.|_||* I||
+w: way you _|do.|_||||
+

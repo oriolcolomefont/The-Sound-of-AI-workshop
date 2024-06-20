@@ -1,0 +1,22 @@
+X:1
+T:You Raise Me Up
+T:You raised me up
+T:Rolf Lovland and Brendan Graham
+T:Ballad
+C:Rolf Løvland
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"D" A, A,D | F3 D"G" EDDB, |"D" A, D2 z z D DF | A3 D"G" BAAF |"A" E4 z A Bc |"G" d3 c cBAG | %6
+w: When I am|down and oh my soul so|wear- y when trou- bles|come and my heart bur- dened|be then, I am|still and wait here in the|
+"D" A2 F2"G" z D AG |"D" F2 z G"A" FEDC |"D" D4 z A Bc |"Bm" d3 c"G" cBAG |"D" A2 F2"A" z A ed | %11
+w: si- lence un- til you|come and sit a- while with|me You raise me|up so I can stand on|moun- tains You raise me|
+"Bm" d3 c"G" cBAG |"D" A4"A" z2 Ac |"D" d3 c"G" cBAG |"D" A2 d2"G" z D AG |"D" F3 F"A" FEDC | %16
+w: up to walk on stor- my|seas I am|strong when I am on your|shoul- ders you raise me|up to more than I can|
+"D" D6 z2 | z8 |] %18
+w: be.||
+

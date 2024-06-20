@@ -1,0 +1,19 @@
+X:1
+T:Miyako
+T:Miyko
+T:Wayne Shorter
+T:1965 Miyako Music
+C:Wayne Shorter
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Em7/A" ^F G3- GE |"A7" ^FB- B4- |"C#m7/F#" B6- | B4 B,2 |"Em7" D4- (3DE^F |"Ebm7" _A4- A_D | %6
+"Dm7" A6- |"G7b5" A4 z G |"Cmaj7" E4 F_E |"Am7" E G3- GC |"Gm7" D4- DC | %11
+"Fmaj7" A,2 z B,-"E7#9" B,A, |"^amj7" ^C3 E3 |"Am7" ^F3 A3 |"Abm7" B6- |"G7b5" B2 z A (3BA^G | %16
+"F#m7b5" A6- |"B7b9" A6- |"Em7b5" A6- |"A7b9" A2 z G G_G/F/ |"Dm7" E3 G3 |"Cm7" A3 c3 |"Bm7" d6- | %23
+"E7" d2 z _d- dc |"Bbm7" _d6- |"Eb7" d6- |"Bm7" d6- |1"E7b9" (d4 B,2 :|2"E7b9" d6) |] %29
+

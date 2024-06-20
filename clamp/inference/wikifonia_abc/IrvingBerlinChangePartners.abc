@@ -1,0 +1,32 @@
+X:1
+T:Change Partners
+T:Change Partners
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" C3/2 C/ C2- | C4 |"Fdim7" D3/2 D/ D2- | D4 |"C7" E3/2 E/ E2- |"C9" E2 (3D E F |"Gm7" B4- | %7
+w: Must you dance||ev- 'ry dance||with the same|* for- tu- nate|man?|
+"Bbm" B2 A G |"F" c3 F |"E/G#" (3E G F"G#dim7" (3E F D |"C7/G" C4- |"C7" C2"Bb" D F |"Fm7" G4 | %13
+w: * You have|danced with|him since the mus- ic be-|gan.|* Won't you|change|
+"Abm/C" ^G"C6" A2"C7" C |"F" D3/2 D/ D2- |"C9" D4 |"F" C3/2 C/ C2- | C4 |"Fdim7" D3/2 D/ D2- | D4 | %20
+w: part- ners and|dance with me?||Must you dance||quite so close||
+"C7" E3/2 E/ E2- |"C9" E2 (3D E F |"Gm7" B4- |"Bbm" B2 A G |"F" c3 F | %25
+w: with your lips|* touch- ing his|face?|* Can't you|see I'm|
+"E/G#" (3E G F"G#dim7" (3E F D |"C/G" C4- | C2"Bb" D F |"Gm7" G4 |"Abm/C" ^G"C6" A2"C7" C | %30
+w: long- ing to be in his|place?|* Won't you|change|part- ners and|
+"F" F3/2 F/"Gm7" F2- |"G#dim7""F/A" F4 |"Ab" _E2 _A B |"Ab6" (3c _d"Ab7" c (3B _A B | %34
+w: dance with me?||Ask him to|sit this one out, and while|
+"Abmaj7" c3/2 c/"Ab7" c2- |"Ab6""Ab+" c4 |"Ab" _E2"Ab+" _A B |"Ab6" (3c _d c"Ab13" (3B _A B | %38
+w: your a- lone||I'll tell the|wait- er to tell him he's|
+"C7/G" c3/2 c/"Bb/C" B3/2 B/ |"F/G" A3/2 A/"C7" G2 |"F" C3/2 C/ C2- | C4 |"Fdim7" D3/2 D/ D2- | %43
+w: want- ed on the|tel- e- phone.|You've been locked||in his arms|
+ D4 |"C7" E3/2 E/ E2- |"C9" E2 (3D E F |"Gm7" B4- |"Bbm" B2 A G |"F/C" c4 | ^c"C7" e2 d | %50
+w: |ev- er since|* heav- en knows|when.|* Won't you|change|part- ners, and|
+"Cm6/Eb" A4- |"D7" A2 B c |"Gm7b5" ^c/"Gm7" d B/- B/ G F/- |"C9sus4" F2"C7" (3E F G | F3 z |] %55
+w: then|* you may|nev- er want * to change|* part- ners a-|gain.-|
+

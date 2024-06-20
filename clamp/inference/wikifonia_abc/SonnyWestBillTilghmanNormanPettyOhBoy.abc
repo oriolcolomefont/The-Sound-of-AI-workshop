@@ -1,0 +1,31 @@
+X:1
+T:Oh Boy!
+T:Oh Boy!
+C:Sonny West, Bill Tilghman, Norman Petty
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:2/2
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" D/ D/ G B2 | d/ d/ d B/ G3/2 | D G/ G/ B B |"G" B A/"G7" G/- G/ G/ A/ G/- |"C7" G2 z E | %5
+w: All of my love|all of my kiss- in'|You're gon- na see what|you been miss- * in' OH, BOY!|_ When|
+ G A G E/ D/- |"G" D3 D |"G" D"C" E"G" D"Gdim" ^C | D3 E | D3 E |"G""G7" G4- |"Am7" G2"D7" z2 | %12
+w: you're with me OH, BOY!|_ The|world can see that|you were|meant for|me.|_|
+"G" D/ D/ G B2 |"G" d d B/ G D/ | D G B B |"G7" B A/ G G/A/G/- |"C7" G2 z E | G A G E/ D/- | %18
+w: All of my life|I been wait- in' To-|night there'll be no|hes- i- tat- in' OH, BOY!|_ When|you're with me OH, BOY!|
+"G" D3 D | D"C" E"G" D"Gdim" ^C |"D7" D3 E | D3 E |"G""G7" G4- |"C#7" G2"D7" z"G" G |"D7" F G F G | %25
+w: _ The|world can see that|you were|meant for|me.|_ Oh,|can't you hear my|
+ F/ G F3/2 D |"G" G3/2 A/ G3/2 A/ | G/ A G2 G/ |"C" E/E/G/G/ G/G/ G |"C" A/ A/ G G2 | %30
+w: poor heart call- in',|Stars ap- pear and|shad- ows fall, A|lit- tle bit o' lov- in' makes|ev- ry- thing right,|
+"D7" A A/ A/ A A | d d/ d/- d2 |"G" D/ D/ G B2 |"G" d/ d/ d B/ G3/2 | D G/ G/ B B | %35
+w: I'm gon- na have some|fun to- night _|All o' my love,|all o' my kiss- in'|You're gon- na see what|
+ B A/"G7" G G/A/G/- |"C7" G2 z E | G A G E/ D/- |"G" D3 D | D"C" E"G" D"Gdim" ^C |"D7" D3 E | %41
+w: you been miss- in' OH, BOY!|_ When|you're with me OH, BOY!|_ The|world can see that|you were|
+"D7" D3 E |"G""Em7" G4- |"Am7""G" G2 |] %44
+w: meant for|me.|_|
+

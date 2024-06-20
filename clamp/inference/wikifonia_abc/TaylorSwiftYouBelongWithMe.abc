@@ -1,0 +1,58 @@
+X:1
+T:You Belong With Me
+C:Taylor Swift
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Vocal" snm="Vocal"
+%%MIDI channel 4
+%%MIDI program 65
+V:1
+"C " z8 |"G7" z8 |"C " G2 EE D2 CC | G2 E2 D E2 D- |"G " DD GG EE D2 | G E2 D2 E2 D- | %6
+w: ||You're on the phone with your|girl- friend\ She's up- set.\|* She's go- ing off a\- bout|some- thing that you said\|
+"Dmin" DD F2 EC z2 | D E2 E2 D C2 | D4"Fmaj7" E4 |"Dmin""F " z8 |"C " G2 EE D2 CC | GG E2 D E2 D- | %12
+w: * 'Cuz she do- sent|get your hu- mor like|I do...\||I'm in the room\ It's a|typ- i\- cal Tues- day night\|
+ DD GG EE DD | GG E2 D E2 D- |"Dmin" DC F2 E C2 z | D E2 E2 D C2 | D4"Fmaj7" E4 | %17
+w: * I'm lis- tening to the kind of|mu- sic she do- sen't like\|* And she'll nev- er|know your sto- ry like|I do'.|
+"Dmin" z4"C " z2 z G |"Dmin" A2 c2 d2 c2 |"F " A2 c2 d2 c2 |"C " G2 c2 cd c2 |"G " d2 de d2 c2 | %22
+w: But|she wears short skirts\|I wear T\- shirts\|She's cheer cap- tain\ And|I'm in the bleach- ers\|
+"Dmin" Ac/c/ cA d2 GG |"F " Ac A"Dmin" c2 A cA |"G " z e d d2 c ce |"C " dc c2 dc cd | %26
+w: Dream- ing a\- bout the day when you|wake up\ And find what you- 're|look- ing for has been he-|re the whole time. If you could|
+"Cmaj7" e2 de- e2 de- | ed ee d2 c2 |"G " e2 de- e2 de- | ed e2 d2 c2 |"Dmin" f3 e z2 A2- | %31
+w: see that I'm * the one|* who un- der- stands you\|Been here all * a\- long|* so why can't you|see, yo- u\|
+ A2 cc cA G2 |"Fmaj7" f3 e- e2 F2- | F2 FF F2 EE- |"C " E8 |"G7" z8 |"C " G2 EE D2 CG- | %37
+w: * You be- lo- ng with|m\- * * e\|* You be- long with me.|||Walk- in' the streets with you|
+ GG EE D E2 D- |"G " DD GG EE DD | GE z D2 E2 D- |"Dmin" D2 FE FE FE | F2 FG A c2 d | %42
+w: * and yo- ur worn- out jeans\|* I can't help think- ing this is|how it ought to be\|* Laugh- ing on a pa- rk|bench, think- ing to my- self\|
+"Fmaj7" z2 z c cd c2 | f2 ed d c2 B |"C " c2 GG E2 DC |"G7" GE z D2 E2 D- |"Cmaj7" DD GG EE DD | %47
+w: Hey is- n't this|e\- a\- s\- * y. And|you've got a smile that could|light up this whole town\|* I have- n't seen it in a|
+ G2 EE"Dmin" D E2 D- | DD DD DE FG | AA e2 d2 z2 |"Fmaj7" z D DD DE FG | A2 e2 d4 | %52
+w: while since she brought you down\|* You say your fine\ I know you|bet- ter then that\|Hey what- cha do- ing with a|girl like that...|
+"Dmin" A2 c2 d2 c2 |"Fmaj7" A2 c2 d2 c2 |"C " G2 c2 cd c2 |"G " d2 de d2 c2 | %56
+w: She wears high heels\|I wear sneak- ers\|She's cheer cap- tain and|I'm on the bleach- ers\|
+"Dmin" Ac/c/ cA d2 GG | Ac A"G7" c2 A cc | z e d d2 c c_e | dc c2 dc cd |"Cmaj7" e2 de- e2 de- | %61
+w: Dream- ing a\- bout the day when you|wake up and find\ That what you're|look- ing for has been he-|re the whole time. If you could|see that I'm * the one|
+ e"C "d ee d2 c2 |"G " e2 de- e2 de- | ed e2 d2 c2 |"Dmin" f3 e- e2 A2- | A2 cc cA G2 | %66
+w: * who un- der- stands you\|Been here all * a\- long|* so why can't you|s\- e\- * e\|* You be- lo- ng with|
+"Fmaj7" f3 e2 z F2- | FG- G4 z2 |"Cmaj7" e2 de- e2 de- | ed ee d2 c2 |"G " e2 de- e2 de- | %71
+w: m\- * *|* e. *|Stand- ing by * and wait-|* ing at your back door\|All this time * how could|
+ ed e2 d2 c2 |"Dmin" f3 e- e2 A2- | A2 cc cA G2 |"Fmaj7" f3 e- e2 F2- | F2 FF F2 EE- |"Cmaj7" E8 | %77
+w: * you not know\ Ba-|b\- * * y...\|* You be- lo- ng with|m\- * * e\|* you be- long with me.||
+ z8 | z8 |"G " z8 |"Dmin" z8 |"G7""Dmin" z8 |"Fmaj7" z4 z2 z f- | f2 ff fe c2 |"Dmin" dd dc A2 cc | %85
+w: |||||Oh'\|* I re- mem- ber you|dri- vin' to my house in the|
+"Fmaj7" de dc A2 cc |"C " de dc c2 cc |"G " de/e/ dc d2 z d/d/ |"Dmin" de dc A2 cc | %89
+w: mid- dle of the night\ I'm the|one who makes you laugh\ When you|know your a\- bout to cry\ And I|know your fa- vorite songs\ And you|
+"Fmaj7" de/e/ dc A2 cc |"C " de dc c2 cc |"G " dc dc e3 f/e/ |"Cmaj7" d4 z2 AA | %93
+w: tell me a\- bout your dreams\ Think I|know where you be- long\ Think I|know it's wi- th m\- * e...|* Can't you|
+"C " c2 Ac- c2 Ac- | cc cc d2 e2 |"G " d2 c d2 z cd- | dc d2 c2 c2 |"Dmin" f3 e- e2 A2- | %98
+w: see that I'm * the one|* who un- der- stands you\|Been here all a\- long\|* So why can't you|s\- e\- * e\|
+"F " A2 cc cA G2 |"Fmaj7" f3 e- e2 F2- | F G3 z4 |"Cmaj7" e2 de- e2 de- | ed ee d2 c2 | %103
+w: * You be- lo- ng with|m\- * * *|* e.|Stand- ing by * and wait-|* ing at your back door\|
+"G " e2 de- e2 dg- | ge e2 d2 c2 |"Dmin" f3 e- e2 A2- |"Fmaj7" A2 cc cA G2 | f3 e2 z F2 | %108
+w: All this time\ * How could|* you not know\ Ba-|b\- * * y|* you be- lo- ng with|m\- * e\|
+ z2 FF F2 EE- |"Cmaj7" E8 | z2 ee e2 dd- |"G " de z4"Cmaj7" ed |"G " ed e2 dc c2 | %113
+w: You be- long with me.||You be- long with m\-|* e. Have you|ev- er thought ju- st may-|
+"Dmin" f3 e- e2 A2- |"Dmin7" A2 cc cA G2 |"Fmaj7" f3 e2 z F2- | F2 FF F2 EE- |"C " E8 |] %118
+w: b\- * * e\|* You be- lo- ng with|m\- * e.|* You be- long with me...\||
+

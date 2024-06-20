@@ -1,0 +1,30 @@
+X:1
+T:It Started All Over Again
+T:It Started All Over Again
+T:Carl Fischer
+T:Bill Carey
+C:Carl Fischer
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 C2"Dm" DF D2 |"G7" AAAA- A4- |"Gm" A2 d2"C7" c^G A2 |"F" CCCC-"Am" C4- |"F" C2 C2"Dm" DF D2 | %5
+w: It start- ed all|o- ver a- gain, *|* The mo- ment I|looked in your eyes, *|* It start- ed all|
+"G7" AAAA- A4- |"Gm" A2 d2"C7" c^G A2 |"F7" GGGG- G4- | G6 F2 |"Bb" (3c2 c2 c2 c B3 | %10
+w: o- ver a- gain *|* The thrill we can|nev- er dis- guise; *|* The|day that we part- ed,|
+"Bbm" (3c2 c2 B2 c B2 F |"F" (3A2 c2 d2"A7" e2 ed- |"D7" d8 |"Dm" eeee- e4 |"F7" _eeee- e3 d | %15
+w: so brok- en heart- ed, Will|nev- er re- turn a- gain||Dreams I've de- layed *|prom- is- es made, * Are|
+"Gm" fdfd- d2 (3z Ac |"C7" A2 C2"Dm" DF D2 |"G7" AAAA- A4- |"Gm" A2 d2"C7" c^G A2 | %19
+w: start- ing a- new * just for|you. It start- ed all|o- ver a- gain *|* The mo- ment I|
+"F" CCCC-"Am" C4- |"F" C2 C2"Dm" DF D2 |"G7" AAAA- A4- |"Gm" A2 d2"C7" c^G A2 |"F7" c2 cc- c3 F | %24
+w: held you so tight, *|* It start- ed all|o- ver a- gain *|* When we kissed a-|way the night * till|
+"Eb7" ^cccc- c4 |"Bb" d d2 B A G3 |"Bbm" _d d2 B A G3 |"F" AcA"Am"c- c A2 c |"D7" E3 C"Dm" DF D2 | %29
+w: dawn's ear- ly light; *|Now we're to- geth- er,|sweet- hearts for ev- er,|We'll build our ro * mance a-|new; It start- ed all|
+"G7" AAAA- A4- |"Gm" A2 C2"C7" DF D2 |"F" F F2 F- F4- | F8 |] %33
+w: o- ver a- gain *|* The mo- ment I|looked at you.- *||
+

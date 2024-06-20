@@ -1,0 +1,39 @@
+X:1
+T:Beer Barrel Polka
+T:Beer Barrel Polka
+T:(Roll out the barrel) 
+T:Lew Brown: Wladimir A. Tim Jaromir Vejvoda and Vasek Zem
+T:(Based on the European success "Skoda Lasky"
+C:Jaromir Vejvoda, Lew Brown, Vasek Zem, Wladimir A.Tim
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 | z2 z"^N.C." G/^F/ |"C" G E z G/^F/ | G E z G/^F/ | G c d c |"G7" c B z B/c/ | B c d c | %7
+w: |Theres a|gar- den what a|gar- den on- ly|hap- py fac- es|bloom there and there's|nev- er an- y|
+w: |||||||
+ c c z B/c/ | B A z A/B/ |"C" A G z G/^F/ | G E z G/^F/ | G E z G/^F/ | G c d c |"G7" c B2 z | %14
+w: room there for a|wor- ry or a|gloom there oh theres|mu- sic and theres|danc- ing and a|lot of sweet ro-|manc- ing|
+w: |||||||
+ d3/2 ^c/ d3/2 c/ | c B z A | G ^G A B |"C" c2"^N.C." G ^G |:"G7" A2 ^G A- | A F E D | A4- | %21
+w: when they play a|pol- ka they|all get in the|swing ev- ry|time they hear|* that oom- pa-|pa|
+w: ||||hear a rum|* ble on the|floor|
+ A z F ^F |"C" G2 ^F G- | G E D C | G4- | G c d c |"G7" B3 d | A3 G | B4- | B c d c | B3 d |1 %31
+w: * ev- ry|bod- y feels|* so tra- la-|la|* they want to|throw their|cares a-|way|* they all go|lah- de|
+w: * its the|big sur- prise|* they're wait- ing|for|* and all the|cou- ples|form a|ring|* for miles a-|round you'll|
+ A3 _A |"C" G4- | G z"^N.C." G ^G :|2 A3 G ||"C" c4- | c2 z2 |:"F" c4 | c3 B | c d3- | d4 | %41
+w: ah de-|ay|* then they|hear them|sing||roll|out the|bar- rel||
+w: ||||||||||
+ c d2 c | d c2 B |"C7" _B4- | _B4 | d4 | d3 ^c | d e3- | e4 | d e2 d | e d2 _d |"F" c4- | c4 | c4 | %54
+w: we'll have a|bar- rel of|fun||roll|out the|bar- rel||we've got the|blues on the|run||Zing!|
+w: |||||||||||||
+ c3 B | c d3- | d4 | c d2 c | d c2 F |"Bb" d4- | d4 |"Gm" G A _B c |"E7" e3 d |"F" d c3- | c2 B c | %65
+w: Boom! Ta-|rar- rell!||ring out a|song of good|cheer||Now's the time to|roll the|bar- rel|* for the|
+w: |||||||||||
+"G7" d4 |"C7" e4 |1"F" f4- | f4 :|2"F" f4- | f2 z2 |] %71
+w: gangs|all|here.||here.||
+w: ||||||
+

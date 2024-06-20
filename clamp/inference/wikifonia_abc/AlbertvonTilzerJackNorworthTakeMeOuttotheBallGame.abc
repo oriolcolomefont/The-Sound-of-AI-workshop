@@ -1,0 +1,22 @@
+X:1
+T:Take Me Out to the Ball Game
+T:Take me out to the ball game.
+T:Albert vonTilzer
+T:jack Norworth
+C:Albert von Tilzer
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" C z c | A G E |"G7" G3 | D3 |"C" C z c | A G E |"G7" G3- | G2 z |"A7" A ^G A | E F G | %10
+w: Take me|out to the|ball|game|take me|out to the|crowd||buy me some|pea nuts and|
+"Dm" A2 F | D3 |"D7" A2 A | A B c |"G7" d B A | G E D |"C" C z c | A G E |"G7" G3 | D2 D | %20
+w: crack- er-|jack|I dont|care if I|nev- er get|back let me|root, root,|root for the|home|team if|
+"C7" C2 D | E F G |"F" A3- |"Dm" A A B |"F" c3 |"Ab" c3 |"C" c B A | G ^F G |"D7" A3 |"G7" B3 |1 %30
+w: they dont|win its a|shame|* for its|one|two|three strikes youre|out at the|old|ball|
+ c3 ||"C" z3 :|2"C" c3- || c z2 |] %34
+w: game||||
+

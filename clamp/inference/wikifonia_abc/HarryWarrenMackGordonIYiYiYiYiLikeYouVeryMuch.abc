@@ -1,0 +1,38 @@
+X:1
+T:I,Yi,Yi,Yi,Yi, (Like You Very Much)
+T:I,Yi,Yi,Yi,Yi
+T:I Like You Very Much
+T:Harry Warren
+T:Mack Gordon
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" G G G G | G G A G | B3 A | G4 | B B B B |"Edim" B B A G |"Fm7" F4- |"Bb7" F4 |"Fm7" F F F F | %9
+w: I, Yi, Yi, Yi,|Yi, I like you|ver- y|much.-|I, Yi, Yi, Yi,|Yi, I think you're|grand,||why, why, why is|
+w: I, Yi, Yi, Yi,|Yi, like you to|hold me|tight,|you are too, too,|too, too, too di-|vine,||if you want to|
+"Bb7" F F G F |"Fm7" A3 G |"Bb7" F4 | B B B B | B A G F |"Eb" E4- |1 E4 :|2 %16
+w: it that when I|feel your|touch,|my heart starts to|beat, to beat the|band.||
+w: be in some- one's|arms to-|night,|just be sure the|arms you're in are|mine.-||
+"Eb" E/"^tacet" E E/ D C ||"Bb7" B,4 | B,/ A A/ G F |"Eb" E4- | E/"^tacet" E E/ D C |"Bb7" B,4- | %22
+w: * Oh, I like Your|lips|* and I like your|eyes,|* would you like my|hips|
+w: ||||||
+ B, F F E |"G7""C7" G4 |"F7""Bb7" F4 |"Eb" G G G G | G G A G |"Eb" B3 A | G4 |"Gm7b5" _d d d d | %30
+w: * to hips- no-|tise|you.|Si, si, si, si,|si, si, see the|moon a-|bove,|way, way, way, way,|
+w: ||||||||
+"C7" _d d c G |"Fm" A4- | A4 |"Ab6" c c c c |"Adim" c c d c |"Eb" e3 G |"C7" B3 G |"Fm7" B B B B | %38
+w: way up in the|blue.||Si, si, si, sen-|or I think I|fall in|love, and|when I fall, I|
+w: ||||||||
+"Bb7" B A G F |"Eb" E4- |"Bb7" E D C D |"Eb" E4- |"Bb7" E D C D |"Eb" E4- |"Bb7" E D C D | %45
+w: think I fall for|you.|* I, yi, yi,|yi,|* si, si, si,|si,|* I, yi, yi,|
+w: |||||||
+"Eb" E D"Bb7" C D |"Eb" E D"Bb7" C D |"Eb" E z"Bb7" B z |"Eb" e z z2 |] %49
+w: yi can see, see,|see that you're for|me. *||
+w: ||||
+

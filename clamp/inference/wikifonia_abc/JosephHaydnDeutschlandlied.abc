@@ -1,0 +1,19 @@
+X:1
+T:Deutschlandlied
+C:Joseph Haydn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="[treble staff]"
+%%MIDI program 13
+V:1
+ E>F G F | A G (F/D/) E | c B A G | F (G/E/) B2 | E>F G F | A G (F/D/) E | c B A G | F (G/E/) B2 | %8
+w: Ein- ig- keit und|Recht un Frei- _ heit|für das deut- sche|Va- ter- _ land!|Da- nach laßt uns|al- le stre- _ ben|brü- der- lich mit|Herz und _ Hand!|
+ F>G (F/D/) B, | A G (F/D/) B, | B A G>G | =A (A/B/) B2 | e>d (d/c/) B | c>B (B/A/) G | %14
+w: Ein- ig- keit * und|Recht und Frei- _ heit|sind des Glück- es|Un- ter- _ pfand.|Blüh im Glan- _ ze|dies- es Glück- _ es,|
+ F3/2(G/4A/4) (B/c/)(A/F/) | E (F/G/) G2 | e>d (d/c/) B | c>B (B/A/) G | %18
+w: blü- he _ deut- _ sches _|Va- ter- _ land|Blüh im Glan- _ ze|dies- es Glück- * es,|
+ F3/2(G/4A/4) (B/c/)(A/F/) | E (G/F/) E2 |] %20
+w: blü- he _ deut- _ sches _|Va- ter- _ land!|
+

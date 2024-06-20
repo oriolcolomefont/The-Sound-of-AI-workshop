@@ -1,0 +1,26 @@
+X:1
+T:Am I Blue?
+T:Am I Blue?
+T:Harry Akst
+T:Grant Clarke
+C:Harry Akst
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+ z4 C D2"F" A- | A8- | A4 C D2"C9" B- | B8- | B4 C D2 c- |"F" c4"A7b5" ^c"D7" d2 F- | %6
+w: Am I blue?||* Am I blue?||* Ain't these tears|* in these eyes|
+"G7" F4"Db7" _A"C7" G2"F" F- |"F6" F6"F#dim" z2 |"C7" z4 C D2 A- |"F" A8- | A4 C D2"C9" B- | B8- | %12
+w: * tell- in' you?||Am I blue?||* You'd be too||
+ B4 C D2"F" c- | c4"A7b5" ^c"D7" d2"G7" F- | F4"Db7" _A"C7" G2"F" F- |"Bb""Bbm" F8- | %16
+w: * if each plan|* with your man|* done fell through.||
+"F" F4 ^D E2"Am" c- | c8- | c2 e2 d2 c2 |"E7" =B d2 =B-"Dm6" B4- |"E7" B4 ^D E2 =B- | B8- | %22
+w: * Was a time||* I was his|on- ly one. *|* But now I'm||
+ B2 d2 c2 =B2 |"Am" A c2 c-"F#dim" c4 |"Gm7" A2"C7" G z C D2"F" A- | A8- | A4 C D2 B- |"C9" B8- | %28
+w: * the sad and|lone- ly one. *|Law- dy! Was I gay||* 'til to- day||
+ B4 C D2"F" c- | c4"F#dim" _e"D7" d2"G7" F- | F4"Db7" _A"C7" G2"F" F- | F4 z4 |] %32
+w: * now he's gone|* and we're through.|* Am I blue?||
+

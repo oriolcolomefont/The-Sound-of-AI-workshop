@@ -1,0 +1,29 @@
+X:1
+T:Jézussal járok minden nap
+T:Jézussal járok minden nap
+T:Unknown
+C:Unknown
+Z:Public Domain
+L:1/8
+M:2/4
+K:D
+V:1 treble 
+%%MIDI program 52
+V:1
+"D" FF/F/ F/E/D |"G" G/GG/ z2 |"D" F>F F2 |"A" z2 E>E | E2 z2 |"D" F/FF/ F/E/D |"G" G>G G z | %7
+w: 1.~Jé- zus- sal já- * rok|min- den nap,|zengd- di- csérd,|zengd- di-|csérd,|E- rős jobb- já- * val|tá- mo- gat,|
+"D" FF"A" EE |"D" D2 A2 |"D""^Refrén" FF FD |"G" G>G G2 |"D" FF FD |"A" E>E E2 |"D" FF FD | %14
+w: zengd di- csé- re-|tét! Ó,|Zengd, zengd, zengd di-|csé- re- tét,|zengd, zengd, zengd di-|csé- re- tét,|zengd, zengd, zengd di-|
+"G" G>G G2 |"D" FF/F/"A" E/DE/ |"D" D2 z2 |"D" FF/F/ ED |"G" GG G2 |"D" F>F F2 |"A" z2 E>E | %21
+w: csé- re- tét,|Ó, mi- lyen ha- tal- mas|név!|2.~É- le- tét ad- ta|én- ér- tem,|zengd, di- csérd,|zengd, di-|
+ E2 z2 |"D" F/FF/ ED |"G" GG G2 |"D" FF"A" EE |"D" D2 A2 |"D" FF/F/ ED |"G" GG<G z |"D" F>F F2 | %29
+w: csérd,|Hogy a ha- lál- ból,|meg men- tett,|zengd di- csé- re-|tét, Ó,|3.~Vé- re a bűn- től|meg- mo- sott,|zengd- di- csérd,|
+"A" z2 E>E | E2 z2 |"D" F/FF/ F/E/D |"G" G/GG/ G2 |"D" FF"A" EE |"D" D2 A2 |"D" FF/F/ ED | %36
+w: zengd- di-|csérd!|Szent- lel- ke meg- új- ult|e- rőt ad- ott,|zengd di- csé- re-|tét, Ó,|4.~Ál- ta- la lett a|
+"G" G>G G2 |"D" F>F F2 |"A" z2 E>E | E2 z2 |"D" FF/F/ F/E/D/D/ |"G" GG G2 |"D" FF"A" EE | %43
+w: föld s~az ég,|zengd- di- csérd,|zengd- di-|csérd,|Ben- ne és Ér- te van a|min- den- ség,|zengd di- csé- re-|
+"D" D2 A2 |"D" F/F/F/F/ F/E/D/D/ |"G" GG G2 |"D" F>F F2 |"A" z2 E>E | E2 z2 | %49
+w: tét, Ó,|5.~Di- cső- ség és ál- * dás a|Bá- rány- nak,|zengd- di- csérd,|zengd- di-|csérd,|
+"D" F/F/F/F/ F/E/D/D/ |"G" G/GG/ z2 |"D" FF"A" EE |"D" D2 A2 |] %53
+w: Hó- dol- at és tisz- tes- ség a|Ki- rály- nak,|zengd di- csé- re-|tét, Ó,|
+

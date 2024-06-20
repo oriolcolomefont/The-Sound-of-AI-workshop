@@ -1,0 +1,94 @@
+X:1
+T:Close every door
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/4
+M:3/4
+K:Ab
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 65
+V:1
+"Fm" z3 |"E" z3 |"Fm" z3 |"E" z3 |"Fm" C A F |"^C7(b9)" G D C |"Fm" C A F |"^C7(b9)" G D C | %8
+w: ||||Close ev- ery|door to me,|Hide all the|world from me|
+w: ||||||||
+w: ||||||||
+"Fm" C F A |"Dbmaj7" c B>A |"Bbm" G A F |"^C7(b9)" G3 |"Fm" C A F |"^C7(b9)" G D C |"Fm" C A F | %15
+w: Bar all the|win- dows And|shut out the|light|Do what you|want with me,|Hate me and|
+w: |||||||
+w: |||||||
+"^C7(b9)" G D C |"Fm" C F A |"Db" c B>A |"Bbm6" G A"^G7(b5)" F |"C7" c2 c/c/ |"Ab7" c d e | %21
+w: laugh at me|Dark- en my|day- time And|tor- ture my|night If my|life were im-|
+w: ||||||
+w: ||||||
+"Db" f/d/ B>B |"Eb" B c d |"Ab" e/c/ A>A |"Gb7" B A B |"Fm" c A F |"Db" A G F |"C" c2 z | %28
+w: port- ant I Would|ask will I|live or die But|I know the|ans- wers lie|Far from this|world|
+w: |||||||
+w: |||||||
+"Fm" C A F |"^C7(b9)" G D C |"Fm" C A F |"^C7(b9)" G D C |"Fm" C F A |"Db" c B>A |"Gm7b5" G A F | %35
+w: Close eve- ry|door to me,|Keep those I|love from me|Child- ren of|Is- el Are|ne- ver *|
+w: |||||* ra- *||
+w: |||||||
+"C" c2 c/c/ |"Ab" c d e |"Db" f2 d/c/ |"Eb" B c"Eb7" d |"Ab" e2 A |"Gb7" B A B |"Fm" c/A/ F E | %42
+w: * For I|know I shall|find My *|own peace of|mind For|I have been|pro- * mised lone|
+w: ||||||* * * a-|
+w: ||||||* * * A|
+"Bbm" D/A/"G7" F"C7" =E |"Fm""^(Choir)" F3 |"Fm" C A F |"^C7(b9)" G D C |"Fm" C A F | %47
+w: land * of my|own|Close eve- ry|door to me,|Hide all the|
+w: |||||
+w: |||||
+"^C7(b9)" G D C |"Fm" C F A |"Db" c Bz/A/ |"Bbm" G A F |"^C7(b9)" G3 |"Fm" c/c/ c/c/ c/c/ | %53
+w: world from me|Bar all the|win- dows and|shut out the|light|La la la la... _ _|
+w: ||||||
+w: ||||||
+"^C7(b9)" c/c/ c/c/ c/c/ |"Fm" c/c/ c/c/ c/c/ |"^C7(b9)" c/c/ c/c/ c/c/ |"Fm" c/c/ c/c/ c/c/ | %57
+w: _ _ _ _ _ _||||
+w: ||||
+w: ||||
+"Db" d/d/ d/d/ d/d/ |"Bbm" f/f/ f/f/ f/f/ |"C" =e2 c/c/ |"Ab" c d e |"Db" f2 d/c/ | %62
+w: ||* (piano) *|||
+w: |||||
+w: |||||
+"Eb" B/E/ c/E/ d/E/ |"Ab" e2 A |"Gb7" B A B |"Fm" c/C/ A/C/ F |"Db7" A G F |"C" z2 C |"Fm" C A F | %69
+w: |||||Just|give me a|
+w: |||||||
+w: |||||||
+"C" G D C |"Fm" C A F |"C" G2 C |"Fm" C F A |"Db" c B>A |"Bbm" G A F |"^C7(b9)" G2 z |"Fm" C A F | %77
+w: num- ber Inst-|ead of my|name For-|get all a-|bout me And|let me de-|cay|I do not|
+w: ||||||||
+w: ||||||||
+"^C7(b9)" G D C |"Fm" C A F |"^C7(b9)" G D C |"Fm" C F A |"Db" c B>A |"Bbm6" G A"^G7(b5)" F | %83
+w: mat- ter, I'm|only * one|per- son Dest-|roy me com-|plete- ly Then|throw me way|
+w: |||||* * a-|
+w: ||||||
+"C7" c2 c/c/ |"Ab7" c d e |"Db" f/d/ B>B |"Eb" B c d |"Ab" e/c/ A>A |"Gb7" B A B |"Fm" c A F | %90
+w: * If my|life were im-|port- ant I Would|ask will I|live or die But|I know the|ans- wers lie|
+w: |||||||
+w: |||||||
+"Db" A G F |"C" c2 z ||[K:A]"F#m" C A F |"C#7/E#" G D C |"F#m" C A F |"C#7/E#" G D C |"F#m" C F A | %97
+w: Far from this|world|Close eve- ry|door to me,|Keep those I|love from me|Child- ren of|
+w: |||||||
+w: |||||||
+"Dmaj7/F#" c B>A |"Bm6/C#" G A F |"C#7" c2 c/c/ |"A7" c"Em7" d"A7" e |"D" f2 d/c/ | %102
+w: Is el Are|ne- ver a-|lone For we|know we shall|find Our *|
+w: * ra- *|||||
+w: |||||
+"E" B"A" c"E" d |"A" e2 A |"Dm6" B A B |"F#m/C#" c/A/ Fz/C/ |"D" D/A/"Bm" c"C#" c | %107
+w: own peace of|mind For|we have been|pro- * mised A|land * of our|
+w: |||||
+w: |||||
+"F#m" !fermata!f3 |] %108
+w: own|
+w: |
+w: |
+V:2
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %19
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %38
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %57
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | c3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | %76
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 ||[K:A] x3 | x3 | %94
+ x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 | x3 |] %108
+

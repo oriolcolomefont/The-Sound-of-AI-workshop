@@ -1,0 +1,25 @@
+X:1
+T:Gyertyaláng
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=80
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 z2 z2 C>D |"C" E2 E>F G2 GE |"F" FF F>G F2 F>F |"Em" EE E>F E2 EF |"G" E D2 D/E/ D2 C>D | %5
+w: Gyer- tya|láng, tisz- ta fény, cson- kig|é- gõ lán- go- lás, ál- do-|zat- ban pusz- tu- lás, Is- ten|ol- tá- ra- i- nál. Gyer- tya-|
+"C" E2 E>F G2 GE |"F" FF F>G F2 FF |"Em" EE z E/F/ E2 E>F |"G" ED D>E D4 |:"^Refrén" z2 z2 z2 A>G | %10
+w: láng, tisz- ta fény, em- bert|hí- vó lán- go- lás, vég- sõ|per- cig lo- bo- gás, ál- do-|za- tunk asz- ta- lán.|Gyer- tya-|
+"A" A6 A>G |"Dm" A4 z2 AA |"Em" A G2 G/A/ G3 A/G/ |"Dm" F<F F>G F2 z G/F/ |"Em" EE E>F E2 z E/F/ | %15
+w: láng, tisz- ta|fény, ön- pusz-|tí- tó lo- bo- gás, nem is|a- kar len- ni más, nem is|kí- ván sem- mi mást, nem is|
+"Dm" E D2 D/E/"G" D4 :| z2 z2 z2 C<D |"C" EzEF GzGE |"F" FF F>G F z F<F |"Em" EEEF EzEF | %20
+w: le- het so- ha más.|Sze- lí-|den, köny- nye- sen, min- den|új dal gyõ- ze- lem e- zer|gyöt- rõ- dé- se- men min- den|
+"G" EDDE D z C>D |"C" E2 E>F G2 GE |"F" FFFG Fz/C/ FF |"Em" EEEF E z E>F |"G" ED D>E D4 | %25
+w: gyön- ge- sé- ge- men. Gyer- tya-|láng, é- le- tem, köny- nyû|szél- tõl meg- re- meg, de a- mit|le- het, meg- te- szek, ál- do-|zat- tá így le- szek.|
+"^Legvégén" z2 z2 z2 E>D |"C" C4 z4 |] %27
+w: Gyer- tya-|láng.|
+

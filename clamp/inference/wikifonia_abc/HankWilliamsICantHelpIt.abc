@@ -1,0 +1,52 @@
+X:1
+T:I Can't Help It
+T:I Can't Help It
+T:Hank Williams, 1951
+T:(If I'm Still In Love with You)
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+Q:1/4=100
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 4
+%%MIDI program 54
+V:1
+ z4 | z4 | z C"C7" F G |"F" A F C G |"F" F2"F7" c c |"Bb" d d B d |"F" c2 c d |"C7" c c B G | %8
+w: ||To day I|passed you on the|street and my|heart fell at your|feet I can't|help it if I'm|
+w: ||||||||
+w: ||||||||
+ C B A ^G |"F" A4- | A C"C7" F G |"F" A F"C7" C G |"F" F2"F7" c c |"Bb" d d B d |"F" c2 c d | %15
+w: still in love with|you|_ some bo dy|else stood by your|side and you|looked so sat is|fied I can't|
+w: |||||||
+w: |||||||
+"C7" c c B G | C B A G |"F" F4- |"F7" F3 c |"Bb" d d d d | d d d d |"F" d2 c2- | c3 A/A/ | %23
+w: help it if I'm|still in love with|you|_ a|pict ure from the|past came slow ly|steal ing|_ as I|
+w: ||||||||
+w: ||||||||
+"C7" B B B B | B d c B |"F" A4- |"F7" A3 c |"Bb" d d d d | d d d d |"F" d2 c2- | c2 c d | %31
+w: brushed your arm and|walked so close to|you|_ then|sud denly I got|that old ti me|fe eling|_ I can't|
+w: ||||||||
+w: ||||||||
+"C" c c B G | C B A G |"F" F4- | F C"C7" F G |"F" A F C G |"F" F2"F7" c c |"Bb" d d B d | %38
+w: help it if I'm|still in love with|you||passed you on the|street and my|heart fell at your|
+w: |||||||
+w: |||* to day I|_ _ _ _|||
+"F" c2 c d |"C7" c c B G | C B A ^G |"F" A4- | A C"C7" F G |"F" A F"C7" C G |"F" F2"F7" c c | %45
+w: feet I can't|help it if I'm|still in love with|you|_ some bo dy|else stood by your|side and you|
+w: |||||||
+w: |||||||
+"Bb" d d B d |"F" c2 c d |"C7" c c B G | C B A G |"F" F4- |"F7" F3 c |"Bb" d d d d | d d d d | %53
+w: looked so sat is|fied I can't|help it if I'm|still in love with|you|_ a|||
+w: ||||||||
+w: |||||* Its|hard to know a|no ther's lips will|
+"F" d2 c2- | c3 A/A/ |"C7" B B B B | B d c B |"F" A4- |"F7" A3 c |"Bb" d d d d | d d d d | %61
+w: ||||||||
+w: ||||||||
+w: kiss you|_ _ and|hold you just the|way I used to|do|_ Oh|hea ven on ly|knows how muci I|
+"F" d2 c2- | c2 c d |"C" c c B G | C B A G |"F" F4- | F3 z | z4 | z4 | z4 | z4 |] %71
+w: ||||||||||
+w: ||||||||||
+w: miss you|_ I can't|help it if I'm|still in love with|you|_|||||
+

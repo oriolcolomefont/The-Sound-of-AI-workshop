@@ -1,0 +1,25 @@
+X:1
+T:Wenn der weiße Flieder wieder blüht
+T:Wenn der weiße Flieder wieder blüht
+T:Musik: Franz Doelle
+T:Foxtrott 70 Tempo 170
+C:Franz Doelle
+Z:All Rights Reserved
+L:1/8
+Q:1/4=150
+M:4/4
+K:F
+V:1 treble nm="Stimme"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|: z4 AGFA |"^F" c4 d4- | d4"^Arr.: Christine Anderson" e2 c2 | A8- | A4 AGFA | c4 d4- | d4 e2 c2 | %7
+w: Wenn der wei- ße|Flie- der-|_ wie- der|blüht|_ sing ich Dir mein|schöns- tes|_ Lie bes-|
+"^C" B8- | B4 dBAB | A4 G4- | G4 edce |"^F" d4 c4- | c4 ffef |"^G""^7" e4 d4 | g4 e4 |"^C" d4 c4 | %16
+w: lied|_ Im- mer im- mer|wie- der|_ knie ich vor Dir|nie- der|_ brin- ge Dir den|Duft von|wei- ßem|Flie- der|
+ z4 AGFA |"^F" c4 d4- | d4 e2 c2 | A8- | A4 AGFA | c4 f4- | f4 g2 _e2 |"^B" d8- | d4 gfef | %25
+w: Wenn der wei- ße|Flie- der|_ wie- der|blüht|_ küss ich Dei- ne|ro- ten|_ Lip- pen|müd´|_ Wie im Land der|
+"^Bm" g4 f4- |"^7" f4 ed^cd |"^Am""^7" e4 d4- | d4 AGFA |"^F" c4 d4 |"^C" c4 d4 |"^F" f8 :| %32
+w: Mär- chen|_ wer- den wir ein|Pär- chen-|* wenn der- wei- ße|Flie- der|wie- der|blüht.|
+

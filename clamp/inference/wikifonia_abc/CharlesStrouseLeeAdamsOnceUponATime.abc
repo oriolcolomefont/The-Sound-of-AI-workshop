@@ -1,0 +1,36 @@
+X:1
+T:Once Upon A Time
+T:Once Upon A Time
+T:From Show: All American
+T:Charles Strouse
+T:Lee Adams
+C:Charles Strouse
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" cdcd"Cmaj7" e4- |"C6" e2 d2"Cmaj7" c2 B2 |"Am" cBAG E4- | E8 |"Fmaj7" CDCD"C" E4 | %5
+w: Once up- on a time|_ a girl with|moon- light in her eyes|_|put her hand in mine|
+w: Once up- on a hill|_ we sat be-|neath a wil- low tree,|_|count- ing all the stars|
+"Cmaj7" z2 G2"F" FE"C"DC |"F" A8- |"Dm7" A2 G2"G7" A2 B2 |"Am" cBAG E4- |"F" E4"G7" FGED |1 %10
+w: and said she loved me|so.|_ But that was|once up- on a time,|_ ver- y long a-|
+w: and wait- ing for the|dawn.|_ But that was|once up- on a time,|_ now the tree is|
+"C" C8 ||"Dm7""G7" z8 :|2"C""Cmaj7" C8 ||"C6""Cmaj7" z8 |"Dm7" F3 G"G7" E4 |"Dm7" FE"G7"FG"C6" E4 | %16
+w: go.||gone.||How the breeze|ruf- fled through her hair,|
+w: ||||||
+"Bm" D^C"E7"DE"Am" =CDEG |"B7" A^GAB"G7" =G4 | z A2 d"C" c3 G |"G7" A^GAd"C" c4 | %20
+w: how we al- ways laughed as tho' to-|mor- row was- n't there;|We were young and|did- n't have a care.|
+w: ||||
+"Am7" z2"C7" e4 cE |"G7" A8 |"C" cdcd"Cmaj7" e4- |"C" e2 d2"Cmaj7" c2 B2 |"Am" cBAG E4- | E8 | %26
+w: Where did it|go?|Once up- on a time|_ the world was|sweet- er than we knew,|_|
+w: ||||||
+"Fmaj7" CDCD E4- |"Cmaj7" E2 G2"C7" FEDC |"F" A8- |"Bm7" A2 G2"G7" A2 B2 |"Am" cBAG E4- | %31
+w: ev- 'ry- thing was ours,|_ How hap- py we were|then;|_ But some- how|once up- on a time|
+w: |||||
+"Fmaj7" E4"G7" FGED |"C" C8 |] %33
+w: _ nev- er comes a-|gain.|
+w: ||
+

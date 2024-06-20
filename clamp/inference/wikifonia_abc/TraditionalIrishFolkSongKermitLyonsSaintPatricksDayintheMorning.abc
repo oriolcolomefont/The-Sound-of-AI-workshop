@@ -1,0 +1,25 @@
+X:1
+T:Saint Patrick's Day in the Morning
+T:Saint Patrick's Day in the Morning
+T:Irish folk song
+T:Kermit Lyons
+C:Traditional Irish Folk Song
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C |:"F" F>GF FGA | cdc cAF |"C7" GFG"F" AFC |1"C7" DED D2 C :|2"C7" D2 E"F" F2 |:"^DANCE" d | %7
+w: 1.~~Saint|Pat- rick, he chased all the|snakes from the mire- land, chased|all the snakes till there were|none in Ire- land. *|||
+w: 2.~~|That's why we hon- or his|name and we sing of him,|sing of Saint Pat- rick with||I- rish vim.||
+"F" cde"Bb" f2 d |"F" edc dcA | cde"Bb" f2 d |"F" edc d2 c | cde"Bb" f2 d |"F" e2 c def | FGF FGA | %14
+w: |||||||
+w: |||||||
+ cdc cAF |"C7" GFG"F" AFC |"C7" D2 E"F" F2 :| %17
+w: |||
+w: |||
+

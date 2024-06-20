@@ -1,0 +1,24 @@
+X:1
+T:Si tu savais
+T:Si Tu Savais 
+T:HC/DC
+T:Georges Ulmer
+C:George Ulmer
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 25
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Bm" Bcda-"Gm6" a3 g |"Bm" fdB=f-"G7" f4 |"Bm" Bcdc'-"A7" c'3 b |"D" abag-"Gm6" g4 | %4
+"Bm" fgfe-"A7" e2 =fe |"G#m7b5" d2 B2"G7" b4 |"Bm" z B cB"G7" d2 e2 |"F#7" c4"F7" f2-"F#7" f2 || %8
+"Bm" Bcda-"Gm6" a3 g |"Bm" fdB=f-"G7" f4 |"Bm" Bcdc'-"A7" c'3 b |"D" abag-"Gm6" g4 | %12
+"Bm" fgfe-"A7" e2 =fe |"G#m7b5" d2 B2"G7" b4 |"Bm" z B cB"F#7" d2 d2 |"Bm" B6 f2 ||"G7" bbbb- b4- | %17
+ b4 d'4 |"Bm" b b2 b- b4- | b6 d'b |"G7" b b2 b- b4 | z2 c'^a f2 d2 |"F#7" c6"F7" z2 |"F#7" z8 || %24
+"Bm" Bcda-"Gm6" a3 g |"Bm" fdB=f-"G7" f4 |"Bm" Bcdc'-"A7" c'3 b |"D" abag-"Gm6" g4 | %28
+"Bm" fgfe-"A7" e2 =fe |"G#m7b5" d2 B2"G7" b4 |"Bm" z B cB"F#7" d2 d2 |"Bm" B8 |] %32
+

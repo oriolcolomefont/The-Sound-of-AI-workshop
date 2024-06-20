@@ -1,0 +1,28 @@
+X:1
+T:The More I See You
+T:The More I See you
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z B,"Fm7" E3/2 D/ |:"Eb" E2"Bb7/Ab" B,2- |"Eb" B, E"C7" B3/2 =A/ |"Fm7" B2"Bb7" F2- | %4
+w: The more I|see you,|* The more I|want you|
+"Bb7" F B,"Fm7" E3/2"Adim7" D/ |"Eb" E2"Bb7" B,2- |"Eb" B, E"C7" B3/2 =A/ |"Fm7" B4- | %8
+w: * some- how this|feel- ing|* just grows and|grows,|
+"Bb7" B B3/2 B B/ |"Ebm" B2"Bb7" B B |"Dbm" B _d"Gb7" B3/2 A/ |"Cb" _G2 G2- | %12
+w: * with ev'- ry|sigh I be-|come more mad a-|bout you,|
+"Abm7" G B"Bb+7" _G3/2 F/ |"Ebm" E2 E2- |"Cm7" E G"F7" E3/2 C/ |"Bb7" F4 | z"Bb7" B,"Fm7" E3/2 D/ | %17
+w: _ more lost with-|out you,|* and so it|goes.|Can you i-|
+"Eb" E2"Bb7" B,2- |"Eb" B, E"C7" B3/2 =A/ |"Fm7" B2 F2- |"Bb7" F B,"Fm7" E3/2"Adim7" D/ | %21
+w: mag- ine|* how much I'll|love you,|* the more I|
+"Eb" E2"Bb7" B,2- |"Eb" B, E"Bb9#5" c3/2 B/ |"Bbm7" c4- |"Eb" c B A G |"Ab" e c B A | %26
+w: see you|_ as years go|by|_ I know the|on- ly one for|
+"Db9" _c A E F |"Gm7" B2 B,2- |"Cm7" B, B,"F7" E3/2 F/ |"Eb" G2 B,2- |"Bb7" B, G E F |1"Eb" E4 || %32
+w: me can on- ly|be you.|* My arms wont|free you|_ my heart wont|try.|
+"Fm7" z B,"Bb7" E3/2 D/ :|2"Eb" E4 |] %34
+w: The more I|try.|
+

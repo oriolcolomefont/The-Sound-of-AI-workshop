@@ -1,0 +1,41 @@
+X:1
+T:I've Got a Gal In Kalamazoo
+T:I've Got a Gal In Kalamazoo
+T:Harry Warren
+T:Mack Girdon
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+"Eb" E E2"Eb7" E2 E2 E- |"Ab" E E2 E2 E2 E- |:"Eb" E>GB"Eb7"e- e4- |"Ab" e4 c4 | %4
+w: A B C D E|* F G H I|* got a gal *|* in|
+w: ||* have gone by; *|* my,|
+"Eb" B>EE"Fm7"E- E4- |"Eb" E4"Edim" z2 z B- |"Fm7" B>AF"B7"B- B>AF"Fm7"B- | B>AF"Bb7"B- B3 A | %8
+w: Ka- la- ma- zoo *|* Don't|* wan- na boast * but I know|* she's the toast * of|
+w: my how she grew. *|* I|* liked her looks * when I car-|* ried her books * in|
+"Eb" G>EE"Eb7"E- E E2 E- |1"Ab" E E2 E2 E2 E- :|2"Eb""Ab" E E2"Eb7" E- E z/ E<FG/ || %11
+w: Ka- la- ma- zoo * zoo zoo|* zoo zoo zoo Years|* zoo zoo * I'm gon- na|
+w: |||
+"^G-9" A G3 e d3 | A>G^F>G e d3 |"^C-9" _d4"Bbm6" B G2 =E- |"C7" E8 |"^F-9" _G F3 _d c3 | %16
+w: send a wire *|hop- pin on a fly- er|leav- in' to day.||Am I dream- in'?|
+w: |||||
+ _G>F=E>F _d c2"Bb7" B- | B>"Gdim"cB>"Fm7"=A _Ae z G- |"F9" G G2"B7b5" G2"Bb7" G3 || %19
+w: I can hear her screa- min' "Hy-|* a Mis- ter Jack- son" ev-|* ry things O|
+w: |||
+"Eb" E E2"Eb7" E2 E2 E- |"Ab" E E2 E2 E2 E- |"Eb" E>GBe-"Eb7" e4- |"Ab" e4 c4 | %23
+w: K A L A M|* A Z O Oh|* what a gal *|* a|
+w: ||||
+"Eb" B>EE"Fm7"E- E4- |"Eb" E4 z2"Edim" z B- |"Fm7" B>AF"Bb7"B- B>AF"Fm7"B- | B>AF"Bb7"B- B3 A | %27
+w: real pip- per- oo. *|* I'll|* make my bid * for that freck-|* le faced kid * I'm|
+w: ||||
+"^G7+5" G>GG"C7"G- G4 |"^F-9" z3/2 _g<fe/"Bb9" g>fe>c |"Eb" e e2"Eb7" e2 e2"Ab" e | %30
+w: hur- ry- in to. *|I'm goin' to Mi- chi- gan to|see the swee- test gal|
+w: |||
+ e e2"Abm" e e>E"Bb7" G2 |"Eb" E8 |] %32
+w: * in Ka * la- ma|zoo.|
+w: ||
+

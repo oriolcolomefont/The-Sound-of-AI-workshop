@@ -1,0 +1,44 @@
+X:1
+T:The Sounds Of Silence
+T:Sounds of Silence
+T:Paul Simon
+C:Paul Simon
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Dm" z2 DD FFAA |"C" G8 | z CCC EEGG |"Dm" F8 |"F" z FFF AAcc |"Bb" d4"F" c4 | z2 FF AAcc | %7
+w: Hel- lo dark- ness my old|friend|I've come to talk with you a-|gain|Be- cause a vi- sion soft- ly|creep- ing|left its seeds while I was|
+w: |||||||
+"Bb" d4"F" c4 | z2 FF"Bb" d d3- | d2 de f f2 z | e d3"F" c4- | c2 dc A4- |"Dm" A4"F" z FFF | %13
+w: sleep- ing|and the vi- sion|_ that was plant- ed|in my brain|* still re- mains|* with- in the|
+w: ||||||
+"C" c6 z E |"Dm" F D3- D4 |:"Dm" z DDD FFAA |"C" G8 | z CCC EEGG |"Dm" F8 |"F" z FFF AAcc | %20
+w: sound of|si- lence _|In rest- less dreams I walk a|lone|through nar- row streets of cob- ble-|stone|be- neath the ha- lo of a|
+w: ||and in the na- ked light I|saw|ten thou- sand peo- ple may- be|more|* peo- ple talk- ing with- out|
+"Bb" d3"F" c- c4 | z FFF AAcc |"Bb" d2 d"F"c- c4 | z2 FF"Bb" d2 dd- | d2 de f2 ff | e d3"F" c4- | %26
+w: street lamp *|I turned my col- lar to the|cold and damp *|when my eyes were stabbed|_ by the flash on a|ne- on light|
+w: speak- ing *|* peo- ple hear- ing with- out|lis- ten- ing *|peo- ple writ- ing songs|* * that voi- ces *|nev- er shared|
+ c2 dc A4- |"Dm" A4"F" z FFF |"C" c6 z E |"Dm" F D3- D4 :|"Dm" z2 DD FFAA |"C" G8 | z2 CC EEGG | %33
+w: * split the night|_ and touched the|sound of|sil- ence _|Fools said I you do not|know|si- lence like a can- cer-|
+w: * no- one dared|_ dis turb the|sound of|sil- ence _||||
+"Dm" F8 |"F" z2 FF AAcc |"Bb" d3"F" c- c4 | z2 FF AAcc |"Bb" d3"F" c c4 | z2 F2 F2"Bb" d2- | %39
+w: grows|hear my words that I might|teach you _|take my arms that I might|reach you *|but my words|
+w: ||||||
+ d2 e2 f f3 | e d3"F" c4 | z2"Dm" z2 z2 z E |"F" F F3- F2 FF |"C" c6 z E |"Dm" FD- D4 z2 || %45
+w: * like sil- ent|rain- drops fell|and|ech- oed * in the|wells of|si- lence *|
+w: ||||||
+ z2 DD FFAA |"C" G8 | z2 CC EEGG |"Dm" F8 | z2 z F AAcc |"Bb" d3"F" c z4 | z2 FF AAcc | %52
+w: and the peo- ple bowed and|prayed|to the ne- on god they|made,|the sign flashed out its|warn- ing|in the words that it was|
+w: |||||||
+"Bb" d3"F" c- c4 | z2 FF A2 cc |"Bb" d2 dd dd e2 | ffff e d3 |"F" c4- cc d/d/c |"Dm" A6 z E | %58
+w: form- ing _|and the signs said the|words of the proph- ets are|writ- ten on the sub- way|walls _ and ten- e- ment|halls and|
+w: ||||||
+"F" F F3- F2 FF |"C" c6 z E |"Dm" F D3 F4 |] %61
+w: whis- per _ in the|sounds of|si- lence. *|
+w: |||
+

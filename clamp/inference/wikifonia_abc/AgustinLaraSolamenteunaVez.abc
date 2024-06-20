@@ -1,0 +1,23 @@
+X:1
+T:Solamente una Vez
+T:Solamente una Vez
+T:Agustin Lara
+T:Bolero
+C:Agustin Lara
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"Bb7" Bc B2 EF |"Eb" G8- | G3 G"Edim7" B3 c |"Bb7/F" B4 D4 |"Bb7" z2 cd c2 =EF |"Fm7" c8- | %6
+ c2 e2"Bb7" d3 B |"Eb" G8- | G4"Fm7""Bb7sus4" z2 ee |"Eb" e2 dd d2 cc | c2 BB"Edim7" c2 GA | %11
+"Bb7/F" B4 D4- |"Bb7" D4 z2 BB |"Fm7" B2 AA A2 GG |"Bb7" G F2 F F2 EF |"Eb" G8 | %16
+"Bb7" z2 Bc B2 EF ||"Eb" G8- | G3 G"Edim7" B3 c |"Bb7/F" B4 D4 |"Bb7" z2 cd c2 EF |"Fm7" (c8 | %22
+ c2 e2)"Bb7" d3 B |"Eb" G8- |"Fm7" G4"Bb7" ee z2 |"Eb" e2 dd d2 cc | c2 BB"Edim7" c2 GA | %27
+"Bb7/F" B4 D4- |O"Bb7" D4 z2 BB |"Fm7" B2 AA =A2 GG |"Bb7" G2 FF F2 ED |"Eb" E8 | %32
+"Bb7" z2 Bc B2 EF :|O"Fm7" B2 AA A2 GG |"Bb7" G2 FF c2 Bc |"Eb""Bb9sus4" e8- |"Eb" e8 |] %37
+

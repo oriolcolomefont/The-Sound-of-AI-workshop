@@ -1,0 +1,50 @@
+X:1
+T:Lost
+T:Lost
+C:Jann Arden Richard, Michael Bublé, Alan Chang
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" z3 C EGGE G2<A2 z3 G |"Em/B" A2GG- GEG2- G4 z2 EG |"Gm" AG2G2-<G2E AGGEG2G(G/F/ | %3
+w: I can't be- lieve it's ov- er; I|watched the whole _ thing fall, _ and I|nev- er saw _ the writ- ing that was on the wall. _|
+"Am" E4) z4"A7/C#" A_B2A- A(AG)A- |"Dm" A4 z3 D G2>F2 EDF2 | %5
+w: _ If I on- * ly _ knew|_ the days were slip- ping past,|
+"Apower/C#" z4 z2 AE"Apower" G2F2"Apower/G" ED2F- |"Dm" F4 z2 F2"Dm" G2"Dm/C" F4 E2 | %7
+w: that the good things nev- er last,|_ that you were cry-|
+"G/B" D4"G/A" z4"G" z8 |"C" z4 EGGE G2<A2-A2cB |"Em/B" AG2G- GEG2- G4 z2 EG | %10
+w: in'.|Sum- mer turned to win- ter, _ and the|snow, it turned _ to rain; _ then the|
+"Gm" AG2G-G2FA- A2GG- GG2(G/F/ |"Asus4" E4) z3 A,"A7/C#" A2>_B2 A(AG)(A | %12
+w: rain turned in- * to tears _ up- on _ your face. _|_ I hard- ly rec- og- * nize|
+"Dm" G2<F2) z3 A, A,2B,B,-B,2CD- |"G" D2EE-E2FG- GE2E- E(ED)E- |"C" E4 z2 G2- G2>E2 GE2(E | %15
+w: _ _ the girl you are _ to- day;|_ and God, _ I hope _ it's not _ too * late.|_ Mm, ~ it''s not too late.|
+"G" D4) z3 A"Am7" e2d2"C6" dcd2- |S"Dm" d4 z3 A e2d2 dcd2- |"G" d4 z3 G e2g2"G/B"e2dc- | %18
+w: _ "Cause your are not a- lone;|_ I'm al- ways there with you,|_ and we'll get lost to- geth-|
+"C" c2<d2 z2 GG"Em/B" e2>d2- ddcd- |"Am" d4 z AAA"Am/C" c2d2"Am/E"e2d2- |"Dm" d4 z2 AA c2d2e2d2- | %21
+w: * er, till the light comes _ pour- ing thru.|_ "Cause when you feel like your done,|_ and the dark- ness has won,|
+"G7" d4 z4 e2d2c2e2- |"C" e8-"C/B" e2 d4 c2- |"Am" c4 z2 AA"Am/G" c4 ded2-!dacoda! | %24
+w: _ babe, you're not lost.|_ _ _ _|* When your world's crash- ing down|
+"Dm" d4 z2 AA c2>c2-"C" cA(dA |"G" G4) z GG2 GGA2 c4 |"C" z8"G6" z8 |"F" z8"Am7" z4"G" z4 | %28
+w: _ and you can't bear _ the thought .|_ I said babe, you're not lost.|||
+"C" z4 EGGE G2<A2-A2cB |"Em/B" A2GG- GEG2- G4 z2 cA |"Gm" cAc2 cAc2 cc2c- c(cA)(c | %31
+w: Life can show no mer- cy _ it can|tear your soul _ a- part. _ It can|make you feel like you've gone cra- zy, but _ you're * not.|
+"Asus4" G2<A2) z3 A,"A7/C#" A2>_B2A2G(A |"Dm" G2<F2) z DG2 G2F2E2DF- | %33
+w: _ _ Though things have seemed to change,|_ _ there's one thing that's still the same;|
+"A/C#" F2 z2 GG2G-"A7" G2F2E2DF- |"Dm/C" F4 z2 F2 G2 F4 G2- |"G/B" G6 A2"F/A" A6 B2- | %36
+w: _ in my heart _ you have re- mained,|_ and we can fly,|_ fly, _ fly|
+"Em/G" B6 c2-"Fsus2" c6 (d2- |"Em7" d4- d2>e2 dedc- c4) | %38
+w: _ a- * way.|_ _ _ _ _ _ _ _|
+"G" z4"^N.C." z2 g2"Am" e2d2"C"d2cd-!D.S.! |O"Dm" d4 z2 AA c2>c2-"F" cA(cA | %40
+w: 'Cause you are not a- lone;|_ and you can't bear _ to crawl. _|
+"G" G4) z GG2 e2g2e2d2 |[M:2/4] c8 |[M:4/4]"C" z8"G6" z8 | %43
+w: _ I said, ba- by, you're not|lost.||
+"F" z4 (3z2 G2G2"Am7" ed2d-"Gsus4" d2<c2- |"C" c2 (3(cAG- G4)"G6" z8 | %45
+w: I said, ba- by you're _ not|_ lost. _ _ _|
+"F" z4 (3z2 G2G2"Am7" e2ge-"G" e2<d2 |"C" (c2>A2 G4)"G6" z8 |"F" z4 (3z2 G2G2"Am7" e2ge-"G" e2<d2 | %48
+w: I said, ba- by, you're _ not|lost. _ _|I said, ba- by you're _ not|
+"C" !fermata!c16 |] %49
+w: lost.|
+

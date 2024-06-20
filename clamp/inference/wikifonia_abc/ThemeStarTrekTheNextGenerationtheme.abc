@@ -1,0 +1,22 @@
+X:1
+T:Star Trek The Next Generation theme
+C:Theme
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="[Keyboard]" snm="Kbd."
+%%MIDI control 7 100
+%%MIDI control 10 51
+V:1
+"CN.C." F,3 B, E4- | E2 D2 (3B,2 G,2 C2 | F3 F!<(!"Db/F" !>![_DF_A]4- | [DFA]8!<)! |: %4
+[M:6/8]S"Bb" F3- F"CN.C."Bd |"Ab/Bb" c3- c"CN.C."_Ag |"Bb" !>!f3- !>!f3- | %7
+"Fm7" !>!.f"CN.C.".B.e .f.gO.e |"Bb" f3"Cm" e3 |"Bb/D" d3-"Gm" dBd |1"F" c3-"Cm" c3- | %11
+"F" c3-"Cm" c3 :|2"F" c3-"Cm" c3- |"F" (2:3:2.c"CN.C."G (2:3:2cg ||[K:D]"D" a3- a2 A | %15
+"Bm" ^f3- fdb |"D" a3 A3 |"Bm" f3"CN.C." !~(!A3 |"D" a3"Bm" b3 |"Am" =c'3"G/B" b3 | %20
+"D" .a.d.a"C/D" g3- | g3"CN.C." !~(!_B3 ||[K:Bb]"Eb" g3- gBe |"F/Eb" f3- fca |"Eb" gBe"F/Eb" f3- | %25
+ f3"CN.C." !~(!B3 |"Eb" g3"F/A" a3 |"Gb/Bb" b3"Db" _a3 |"Eb" ._a.g.e"F743" !>!f3- | %29
+ (2:3:2.f"_D.S. al Coda -- play repeat""CN.C.".c"F7" !~(!!>!f3 ||O"Bb" f3"Gm" g3 | %31
+"Db/F" _a3"Cb/Gb" _g3 |"Gb" b6 |"Ab7" (3b3 _a3 _g3 |"Bb" !>!.b2 z"CN.C." !>!.B!>!.B!>!.B | %35
+ !>!.B2 z z3 |] %36
+

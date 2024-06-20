@@ -1,0 +1,23 @@
+X:1
+T:Te vagy az út, az igazság
+C:Sillye Jenő
+Z:Public Domain
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 0
+V:1
+"^A" z2"D" (3FFF"A" E>E E/DD/- |"G" D z z2 (3B,B,B,"D" B,A, |"D" z4 z2 (3FFF | %3
+w: Te vagy az Út, az I- gaz- ság,|* Te vagy az É- let,|Hoz- zád me-|
+"A" E z E/EE/"G" D z B, B,/B,/ |"D" B,A, z2 z4 |:"G" G,2 G,G, G,2 B,2 |"Em" B,4 z4 | %7
+w: gyek, ál- dom ne- ved, ál- ta- lad|é- lek!|Meg- sza- ba- dí- tot-|tál,|
+"D" A,A,A, z D2 E2 |"Bm" F4 z4 |"D" F2 FF F2 F2 |"A" F2 E2 C D2 E |"D" E2 D2 z4 | %12
+w: Ke- nye- ret, bort ad-|tál,|tes- ted és vé- red|táp- lál, hû- sé- ged|él- tet!|
+"D" D2 A, B,3 A,2 :|[K:E]"^B" z2"E" (3GGG"B" F>F F/EE/- |"A" E z z2 (3CCC"E" CB, |"E" z4 z2 (3GGG | %16
+w: Al- le- lu- ja!|Te vagy az Út, az I- gaz- ság,|* Te vagy az É- let,|Hoz- zád me-|
+"B" F z F/FF/"A" E z C C/C/ |"E" CB, z2 z4 |:"A" A,2 A,A, A,2 C2 |"F#m" C4 z4 |"E" B,B,B, z E2 F2 | %21
+w: gyek, ál- dom ne- ved, ál- ta- lad|é- lek!|Meg- sza- ba- dí- tot-|tál,|Ke- nye- ret, bort ad-|
+"Dbm" G4 z4 |"E" G2 GG G2 G2 |"B" G2 F2 D E2 F |"E" F2 E2 z4 |"E" E2 B, C3 B,2 :| %26
+w: tál,|tes- ted és vé- red|táp- lál, hû- sé- ged|él- tet!|Al- le- lu- ja!|
+

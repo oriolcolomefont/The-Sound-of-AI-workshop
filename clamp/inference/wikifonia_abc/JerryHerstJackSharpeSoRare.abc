@@ -1,0 +1,28 @@
+X:1
+T:So Rare
+T:So Rare
+C:Jerry Herst
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z6"G7" Gc- |"C6" c4- cG"Ebdim"A^A |"G9" B e2 B"G7b9" e2 BA- |"C6" A8 |"Eb9" G c2 G c2 GF- | %5
+w: So rare,|_ _ you're like the|fra- grance of blos- soms fair,|_|Sweet as the breath of air,|
+"Ab6" F8 |"G9" E G2 E G2 EG- |"Em7""A7b9" G8- |"Dm7" G e3"G7b9" e2"G+7" Gc- | %9
+w: _|Fresh with the morn- in dew.|_|* Oh, you're so rare,|
+"C6" c4- cG"Ebdim"A^A |"G9" B e2 B"G7b9" e2 BA- |"C6" A8 |"Eb9" G c2 G c2 GF- |"Ab6" F8 | %14
+w: _ _ you're like the|spark- le of old cham- pagne,|_|Or- chids in cel- lo- phane|_|
+"G9" E G2 E G2 EC- |"C6" C4"F9" C3 C- |"C6" C4 z GGG |"Dm7" G G3"G7" z GGG | %18
+w: Could- n't com- pare to you,|_ to you,|_ You are per-|fec- tion, you're my i-|
+"Cmaj7" G G3"C6" z GGG |"Dm7" G G2 G"G7" GGGG- |"Cmaj7" G G3"C6" z EEE |"Bm7" E E3"E7" z EEE | %22
+w: de- a of an- gels|sing- ing the A- ve Ma- ri-|* a, For you're an|an- gel, I breathe and|
+"Amaj7" E E3"A6" z EEE |"Am7" E E2 E"D9" EEEA- |"Dm7" A A3- A2"G+7" Gc- |"C6" c4- cG"Ebdim"A^A | %26
+w: live you, With ev- 'ry|beat of the heart that I give|_ you. _ So rare|_ _ this is a|
+"G9" B e2 B"G7b9" e2 BA- |"C6" A8 |"Eb9" G c2 G c2 GF- |"Ab6" F8 |"G9" E G2 E G2"G+9" Ac- | %31
+w: heav- en on earth we share,|_|Car- ing the way we care,|_|Ours is a love so rare,|
+"C6" c8 |"G9" E G2 E G2"G+9" Ac- |"C6" c8 |"G9" E G2 E G2"G+9" AC- |"C6""G7" C8- |"C" C6 z2 |] %37
+w: _|Ours is a love so rare,|_|Ours is a love so rare.|_||
+

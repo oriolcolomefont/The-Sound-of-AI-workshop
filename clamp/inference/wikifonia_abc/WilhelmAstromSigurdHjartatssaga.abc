@@ -1,0 +1,26 @@
+X:1
+T:Hjärtats saga
+T:Hjärtats saga
+T:Wilh. Åström
+T:Sigurd (Alfred Hedenstierna)
+C:Wilhelm Åström
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"F" z4 z A | A2 A (BA)^G | A3 F2 c |"D7" c2 c (cB)A |"Gm" B3- B z B |"C7" B2 B BAG |"F" A3 c2 c | %7
+w: Var|skog har nog * sin|käl- la, var|äng sin blom- * ma|har. * Vart|hjär- ta har * sin|sa- ga från|
+"G7" (=BA)G d2 c |"C" (c3"C7" B2) A |"F" A2 A (BA)"Fdim"^G |"F" A3 F2 c | c2 c (dc)"Ddim"=B | %12
+w: flyd- * da ung- doms-|dar. * Var|skog har nog * sin|käl- la, var|äng sin blom- * ma|
+"F" c3- c2"F+" ^c |"Bb" d2 d"Gm" (dB)G |"F" c3"F#dim" c2"Gm" B |"F/C" A2 A"C7" A2 G | %16
+w: har. * Vart|hjär- ta har * sin|sa- ga från|flyd- da ung- doms-|
+"F" F3- F z C |"F" (CD)C F2 G | A3 C2 D |"Gm" (D_E)D G2 A | B3- B2 A |"A7" A2 G"Bb" (FE)D | %22
+w: dar. * Och|sko- * gens käl- la|si- nar och|äng- * ens blom- ma|dör * men|hjär- tats tys- * ta|
+ D3"F" C2 C |"F/A" C2 C"C7" (CD)B, |"F" A,3- A,2 C |"F" (CD)C F2 G | A3 C2 D |"Gm" (D_E)D G2 A | %28
+w: sa- ga ej|nå- gon tid * för-|stör. * Och|sko- * gens käl- la|si- nar och|äng- * ens blom- ma|
+ B3- B2 e |"C7" e2 e (ed)c |"F" f3 A2"Fdim" d |"C" cGA"C7" B2 E |"F" F3- F2 |] %33
+w: dör * men|hjär- tats tys- * ta|sa- ga ej|nå- * gon tid för-|stör. *|
+

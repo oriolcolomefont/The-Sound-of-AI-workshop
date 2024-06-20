@@ -1,0 +1,36 @@
+X:1
+T:Autumn In New York
+T:Autumn In New York
+C:Vernon Duke
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+V:1
+|:"Gm7" A>GFD"Am7" C4- |"Gm7" CDFB"C7" d d2"C+7" c |"Fmaj7" d4"Gm7" A4 |"Am7" z4"D+7" z4 | %4
+w: Au- tumn in New York,|* why does it seem so in-|vit- ing?||
+w: Au- tumn in New York,|* the gleam- ing roof- tops at|sun- down.||
+"Gm7" A>GFD"Am7" C4- |"Gm7" CDFB"C7" d d2"C+7" c |"Am7b5" d4 A4 |"D7" z4"D+7" z4 | %8
+w: Au- timn in New York,|* it spells the thrill of first|night- ing.||
+w: Au- tumn in New York,|* It lifts you up when your|run- down.||
+"Gm7" c c2 A G3 F |"Bbm7" _A A2 F"Eb7" _E3 _D |"Abmaj7" _E =B,2 C"Db7" E4- |"Cm7" E4"G7b9" F4 | %12
+w: Glit- ter- ing crowds and|shim- mer- ing clouds in|can- yons of steel|* They're|
+w: Jad- ed rou- es and|gay di- vorc- ees who|lunch at the Ritz,|* will|
+"Cm7" G D2 _E"Eb7" G4- |"Abmaj7" G4"G+7" =B4 |"Cmaj7" G8- | G6"Am7" ^G2 |"Gm7" A>GFD"Am7" C4- | %17
+w: mak- ing me feel|* I'm|home.|* It's|Au- tumn in New York,|
+w: tell you that "it's|* di|vine."|* This|Au- tumn in New York,|
+"Gm7" CDFB"C7" d d2"C+7" c |"Fmaj7" d4"Gm7" A4 |"Am7" z4"Db9" z4 |"Cm7" d>cBG"Dm7" F4- | %21
+w: * That brings the pro- mise of|new love;||Au- tumn in New York|
+w: * trans- forms the slums in- to|May- fair;||Au- tumn in New York|
+"Ebm7" F_GBc"F7" _d _e2 c |"Bbm7" _d8- |"Gb/Bb" d6"Bbm6" z2 |"Fm" c _A2 c"C+7" e2"C7" e2 | %25
+w: * it's of- ten ming- led with|pain.||Dream- ers with emp- ty|
+w: * you'll need not cas- tles in|Spain.||Lov- ers that bless the|
+"Fm" c6"Ab7" B2 |"Dbmaj7" _A F2 =A"C+7" c2 c2 |"Fm7" _A6"Abm7" A2 |"Gm7" A>GFD"Am7" C4- | %29
+w: hands may|sigh for ex- ot- ic|lands; it's|Au- tumn in New York.|
+w: dark on|ben- ches in Cen- tral|Park greet|Au- tumn in New York|
+"Bbm6" CB,_DF"C7b9" _A B2 G |"Fm" F8 |1"C7" z8 :|2"Fm" F8- || F2 z2 z4 |] %34
+w: * It's good to live it a-|gain||gain||
+w: * It's good to live it a|||||
+

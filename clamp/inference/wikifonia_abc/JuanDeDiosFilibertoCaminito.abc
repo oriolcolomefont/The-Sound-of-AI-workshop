@@ -1,0 +1,24 @@
+X:1
+T:Caminito
+T:Caminito
+T: Juan De Dios Filiberto
+C:Juan De Dios Filiberto
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"E" B B2 B e2 BG |"Am" A A2 =c e2 cA |"B7" B B2 B d2 BA |"E" E2 GB E=G z2 || %4
+[K:Emin]"Em" B2 BB"B7" B2 BB |"Em" c2 BB d2 cB | B2 AA"E7" A2 A^G |"Am" A4 z2 AA | A2 GG G2 FF | %9
+"F#dim7" F4 z2 FF |"Am" F2 EE"F#7" E2 FE |"B7" ^D4 z2 EG |"Em" B2 BB"B7" B2 BB |"Em" c2 BB d2 cB | %14
+"E7" B2 BB B2 cd |"Am" c4 z2 cc | c2 cc B^A z2 |"Em" B4 z2 AA |"B7" A2 GG G2 FF | %19
+[K:E]"E" E2 z B c2 B^A | B2 e2"B7" B2 A2 |"E" G2 e2"B7" B2 AG | A G2 G"B7" F3 F ||"E" E2 EG B3 B | %24
+"B7" B8 | FG A3 A z2 |"E" G8 | z2 EE"F#" c3 B |"B7" B4 A4 | z2 B,B, G3 F |"E" E4 z4 | %31
+"B7" E2 EG B3 B |"E" B8 | z2 FG A2- AB |"E" G8 | z2 EG"F" c2- cB |"B7" B4 A4 | z2 B,B, G2- GF | %38
+"E" E4 z4 |] %39
+

@@ -1,0 +1,43 @@
+X:1
+T:Rock Around The Clock
+T:Rock Around The Clock
+T:Max Freedman 
+C:Max Freedman
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:A
+V:1 treble 
+%%MIDI program 52
+V:1
+"A" A4"^n.c." A4 | A3 A A4 | A3 A A3 A- | A8 |"A" c4"^n.c." c4 | c3 c c4 | c3 c c3 c- | c8 | %8
+w: One, two,|three o' clock,|four o' clock rock!||Five, six,|seven o' clock,|eight o' clock rock!||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+"A" e4"^n.c." e4 | e3 e e4 | e3 e e3 e- | e3 e c3 d |"E7" e6 e2 | e6 e2 | e4 e3 e- | e4 |]: e2e2 | %17
+w: Nine, ten,|eleven o' clock,|twelve o'- clock rock!|* We're gon- na|rock a-|round the|clock to- night!-||Put your|
+w: ||||||||When the|
+w: ||||||||When the|
+w: ||||||||When it's|
+w: ||||||||When the|
+"A" A4 c4 | e8 | A4 c4 | e4 e2e2 | A4 c4 | e6 ff | =g4 e4 | c2>e2 | A2>=c2 |"D" e6 d2 | =c6 A2 | %28
+w: glad rags|on,|join me,|hon' * We'll|have some|fun when the|clock strikes|"one". We're|gon na|rock a-|round the|
+w: clock strikes|two,|three and|four, If the|band stops|now we'll *|yell for|more. We're||||
+w: chimes ring|five,|six, and|seven, * *|We'll be|right in *|sev- enth|heav'n. We're||||
+w: eight, nine,|ten,|elev- en|too, I'll be|go- in'|strong and *|so will|you. We're||||
+w: clock strikes|twelve,~we'll|cool off|then start *|rock- in'|'round the *|clock a-|gain.- We're||||
+ e4 d2=c2- | =c2>e2 e2>e2 |"A" e4 d4 | c4 A4 | e4 d2>c2- | c2>d2 d2>d2 |"E7" d4 d2>d2 | d6 de- | %36
+w: clock to- night.|* We're gon- na|rock, rock,|rock 'til|broad day- light.|* We're gon- na|rock, gon- na-|rock, a- round|
+w: ||||||||
+w: ||||||||
+w: ||||||||
+w: ||||||||
+ e3 d4 c- | c4 A2A2- |"A" A8- | A8- | A8- | A4 x4 :| %42
+w: * the clock|* to- night.|||||
+w: ||||||
+w: ||||||
+w: ||||||
+w: ||||||
+

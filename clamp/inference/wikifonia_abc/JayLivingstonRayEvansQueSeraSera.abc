@@ -1,0 +1,31 @@
+X:1
+T:Que Sera, Sera
+T:Que Sera, Sera
+T:(Whatever will be, will be)
+C:Jay Livingston, Ray Evans
+Z:All Rights Reserved
+L:1/4
+Q:1/4=180
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 127
+V:1
+|: C D E |"C" G2 E |"Cmaj7" G2 E |"C6" G3 |"Cmaj7" E G E |"C" A G2 |"C#dim7" A G E |"Dm7" F3- | %8
+w: When I was|just a|lit- tle|girl|I asked my|moth- er,|what will I|be?|
+w: When I grew|up and|fell in|love.|I asked my|sweet heart,|what lies a|head?|
+w: Now I have|child- ren|of my|own|they ask their|moth- er,|what will I|be?|
+"G7" F3 | B c d | c B2 |"F" A B c |"G7" B3 |"F" F G A |"G7" G2 B, |"C" C3- | C"C7" c _B |"F" A2 F | %18
+w: _|Will I be|pret ty,|will I be|rich?|Here's what she|said to|me.|_ Que se-|ra, se-|
+w: _|Will we have|rain bows,|day aft er|day?|Here's what my|sweet heart|said.|_ " "|" "|
+w: _|Will I be|hand- some,|will I be|rich?|I tell them|ten- der-|ly.|_ " "|" "|
+ A3- | A2 B | d c A |"C" G2 C | E3- | E2 F | A G E |"G7" G2 D | G3- | G D E | F2 B, |"C" C3- | %30
+w: ra,|_ what-|ev- er will|be, will|be|_ the|fu- ture's not|ours to|see|_ Que se-|ra, se-|ra|
+w: "|_ "|" " "|" "|"|_ "|" " "|" "|"|_ " "|" "|"|
+w: "|_ "|" " "|" "|"|_ "|" " "|" "|"|_ " "|" "|"|
+ C3- | C"G7" D E | F2 B, |"C" C3-"Cmaj7" |"C6" C3- |"Cmaj7" C3 :| %36
+w: _|* what will|be, will|be.|_||
+w: _|* " "|" "|"|_||
+w: _|* " "|" "|"|_||
+

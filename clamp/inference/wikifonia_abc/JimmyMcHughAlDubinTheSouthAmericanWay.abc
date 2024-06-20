@@ -1,0 +1,29 @@
+X:1
+T:The South American Way
+T:The South American Way
+T:Jimmy MdHugh
+T:Al Dubin
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"C" E2 |: G6 G2 | E6 EF | G2 AG- GF E2 |"G7" F2"G" D4 DE | F2 GF- FE D2 |"C" E2 FE- ED C2 | %7
+w: Hi-|yi Hi-|yi have you|ev- er danced * in the|trop- ics in that|ha- zy la * zy like|kind of cra * zy like|
+w: |yi hi-|yi have you|ev- er kissed * in the|moon- light in the|grand and glo * ri- ous|gay no- tor * i- ous|
+"G7" D2 ED- DC B,2 |"C" C4- C z"^N.C." E2 :|"C" C4- C"^N.C."CCC |"Fm" F2 CC- CCCC | %11
+w: South A- mer * i- can|way * Hi-|way * the lat- in|scheme of love * is like a|
+w: South A- mer * i- can|way * *|||
+"C7" G2 CC- CCCC |"Fm" _A2 FF- FFEF |"C" G4 GCCC |"Fm" F2 CC- CCCC |"C7" G2 CC- CCCC | %16
+w: dream of love * a lat- in|stream of love * is in their|veins * they'll buy a|jewel for you * or fight a|duel for you * or drive a|
+w: |||||
+"Fm" _A2 FF- FFEF |"G7" G4- G z E2 |"C" G6 G2 | E6 EG | G2 AG- GF E2 |"G7" F2 D4 DE | %22
+w: mule for you * a- cross the|plains * hi-|yi hi-|yi there is|mel- o- dy * in their|mu- sic while the|
+w: ||||||
+ F2 GF- FE D2 |"C" E2 FE- ED C2 |"G7" D2 ED- DC B,2 |"C" C4 z4 |] %26
+w: gauch- os sing * it come|on and swing * it the|South A- mer * i- can|way.|
+w: ||||
+

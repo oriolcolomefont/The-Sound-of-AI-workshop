@@ -1,0 +1,27 @@
+X:1
+T:The Stars And Stripes For Ever
+T:The Stars And Stripes Forever
+T:John Phillip Sousa
+C:John  Phillip Sousa
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" c2 B3/2 c/ |"F" A c2 d |"Fm" ^d e f ^f |"G7" g z G2 |:"C" e z/ e/"E7" e e | %5
+"Am" e z/ e/"Dm" f f |"G" d/^c/d/e/"D7" d =c |"G" B A"G7" B G |"C" G z/ G/"G7" G G | %9
+"C" G z/ ^G/"E7" G G |"Am" A/^G/A/c/ B A |"E7" ^G3 G |"C" G z/ G/ c A | G ^F G E | %14
+"G7" D G,/^F,/ G,/F,/ G, | D G,/^F,/ G,/F,/ G, |"C" G z/ G/ c z/ A/ | G ^F G"Cm" _E | %18
+"D7" D ^F/E/ F/E/ F |1"G" G z"G7" G2 :|2"G" G z"G7" g3/2 f/ |:"C" e2 a3/2 g/ |"G7" B2 A2 | G2 f2 | %24
+"C" e2"Dm" D3/2 E/ |"F" F A2 c |"D7" d2 c2 |"C" E4 |"G7" D2 g3/2 f/ |"C" e2 a g |"G7" B2 A2 | %31
+ G2 f2 |"C" e2"Dm" D3/2 E/ |"F" F A d3/2 c/ |"C" E G c3/2 E/ |"G7" D4 |1"C" C z"G7" g3/2 f/ :|2 %37
+"C" C z"C+" c2 |:"F" c2 _B A | A2 ^G A | A c/f/ a/f/a/c'/ | f' z ^G A | A2 ^G A | c2 A3/2 c/ | %44
+"C7" _B4 | G2 G2 | G2 ^F G | G2 ^F G | _B4- | B2 A G |"F" A c3 |"Bb" d3 d |"C7" G4- | G2"C+" c2 | %54
+"F" c2 _B A | A2 ^G A | A c/f/ a/f/a/c'/ | d' z ^G A |"A7" A2 ^G A | _B A G E |"Dm" G4 | F2 F2 | %62
+"Bbm" F2 E F |"Fdim" _A2 G F |"F" f4- | f F G A | c F G A | c C"C7" D A |"C7" G4 |1"F" F z F F :|2 %70
+"F" F z f z |] %71
+

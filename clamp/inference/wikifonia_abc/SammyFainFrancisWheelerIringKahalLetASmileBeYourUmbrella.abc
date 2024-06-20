@@ -1,0 +1,21 @@
+X:1
+T:Let A Smile Be Your Umbrella
+T:Let a smile be your umbrella
+T:Sammy Fainirving Kahal,Francie Wheeler
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z C F A |"F" c3 B | d3 c | _B2 A2 |"E" ^G2"F" A2 |"C7" c z G2 | G2 ^F2 | G4- | G C E G | d3 ^c | %10
+w: Just let a|smile be|your um-|brel- la|on a|rain- y|rain- y|day|* and if your|sweet- ie|
+ e3 d | c2 _B2 | A2 _B2 |"F" d z A2 | A2"E" ^G2 |"F" A4- | A A _B B |"D7" c3 d | _e3 d | c A c d- | %20
+w: cries just|tell her|that a|smile will|al- ways|pay|* when- ev- er|skies are|gray dont|wor- ry or fret|
+ d3 ^c |"G7" d B A G | d B A G |"C7" d _B A G- | G C F A |"F" c3 B | d3 c | _B2 A2 |"D7" _B2 c2 | %29
+w: * A|smile will bring the|sun- shine and you'll|nev- er get wet|* so let a|smile be|your um-|brel- la|on a|
+"G7" d2 G2 |"C7" _B2 E2 |"F" F4- | F z z2 |] %33
+w: rain- y|rain- y|day.||
+

@@ -1,0 +1,22 @@
+X:1
+T:Loving You
+T:Loving You
+C:Jerry Leiber
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+|:"F" C D F G | A G F2 |"C7" E F/G/- G2 | G F/E/- E2 |"C7" G A G A | B A G2 |"F" F G/A/- A2 | %7
+w: I will spend my|whole life thru|lov- ing you, _|lov- ing you. _|Win- ter, sum- mer,|spring- time too,|lov- ing you, _|
+"F7" A B/c/- c2 |"Bb" B c B c | d c B A |"F" A2"Cm6" G2 |"D7" ^F4 |"G7" G A G A | d A G2 | %14
+w: lov- ing you. _|Makes no dif- ff'rence|where I go or|what I|do.|You know that I'll|al- ways be|
+"C7" E2"G7" F2 |"C7" G4 |"F" C D F G | A G F2 |"C7" E F/G/- G2 | G F/E/- E2 | G A G A | B A G2 | %22
+w: lov- ing|you.|If I'm seen with|some- one new,|don't be blue, _|don't be blue. _|I'll be faith- ful,|I'll be true;|
+"F" F G/A/- A2 |"F7" A B/c/- c2 |"Bb" B c B c | d c B F |"F" A2"Cm6" G2 |"D7" ^F4 |"G7" G A G A | %29
+w: al- ways true, _|true to you. _|There is on- ly|one for me, and|you know|who.|You know that I'll|
+ d A G2 |"C7" E2 G2 |1"F""Bdim" F2"C7" z2 ||2"F" F4 |] %33
+w: al- ways be|lov- ing|you.|you.|
+

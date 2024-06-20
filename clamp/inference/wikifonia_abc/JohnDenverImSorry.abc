@@ -1,0 +1,37 @@
+X:1
+T:I'm Sorry
+T:I'm sorry
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^N.C." D |:"G" B B A G | A B2 A |"Am" c c B A | c3 c |"D7" c c c/B/ A | B c z A/G/ | %7
+w: It's|cold here in the|cit- ~y it|al- ways seems that|way and|I've been think- in a-|bout you al- most|
+w: |friends all ask a-|bout you I|say you're do- in|fine *|I ex- pect to hear|from you al- most|
+w: |||||||
+"G" A/B/ B3- | B3 z | B/A/ B A/G/ B- | B A G/A/ B |"Am" c/B/ c B/A/ c- | c3 z |"D7" c/c/ c c d | %14
+w: ev- ry day|but|think- in a- bout the good|* times * * *|think- in a- bout the rain||think- in a- bout how|
+w: an- y- time||they all * know I'm cry-|* in * * that|I * can't sleep at night||they all * know I'm|
+w: |||||||
+ c B A3/2 G/ |"G" A/B/ B3- | B3 e |"C" e e e d |"D7" d d d/c/ c |"G" c/B/ z B2- | B3 e | %21
+w: bad it feels a-|lone a- gain|* I'm|sor- ry for the|way things are * in|Chi- na *|* I'm|
+w: dy- in * down|deep in- side||sor- ry * for|all the lies * I|told you *|* I'm|
+w: |||sor- ry if I|took some things * for|grant- ed *|* I'm|
+"C" e e e e |"D7" d d d A |"G" B4- | B3 G |"C" e e e/d/ e |"D7" d3 e |"G" d d"D7" c d | %28
+w: sor- ry things aint|what they used to|be|* but|more than an- y- thing|else I'm|sor- ry for my|
+w: sor- ry for the|things I did- nt|say|||||
+w: sor- ry for the|chains I put on|you|||||
+"Em" B2 A/B/ A |"C" G4- |"Am" G G"D7" A G |"G" A/B/ B3- |1 B3 B :|2 c4 ||"G" B/A/ B A G | A B3 | %36
+w: self * * *||* cause you're not|here with me|* Our|(Instrumental)|||
+w: ||||||||
+w: ||||||||
+"Am" c/B/ c B A | c4 |"D7" c/B/ c B A | G ^F E F |1"G" G4- | G3 e!D.S.! ||2 G3 z |] %43
+w: |||||||
+w: |||||||
+w: |||||||
+

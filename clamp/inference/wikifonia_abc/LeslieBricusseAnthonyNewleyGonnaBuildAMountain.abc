@@ -1,0 +1,26 @@
+X:1
+T:Gonna Build A Mountain
+T:Gonna build a mountain
+T:(from Stop the world - I want to get off)
+T:Leslie Bricusse, Anthony Newley
+C:Leslie Bricusse, Anthony Newley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"^N.C." D/D/ E G |"G" B z B2- | B/ z/ D/D/"C" E G |"G" G4- | G D/D/ E G | B z B2- | %6
+w: Gon- na build a|moun- tain|* from a lit- tle|hill|* gon- na build a|moun- tain|
+"Em" B/ z/ D/D/ E G |"Am" A4- | A G/G/"D7" B c |"Dm7" d z d2 |"G7" z d/d/ d e |"C" c4 | z G B c | %13
+w: * lease I hope I|will|* gon- na build a|moun- tain|gon- na build it|high|I don't know|
+"G" d/d/d/d/"Em" B G |"Am" A/A/A/A/"D7" ^F D |"G" G4- |"G7" G G/G/ A c |"C" e z e2- | %18
+w: how I'm gon- na do it|on- ly know I'm gon- na|try|* gon- na build a|day- dream|
+ e G/G/"F" A c |"C" c4- | c G/G/ A c |"Am" e z e2- | e G/G/ A c |"Dm" d4- | d c/c/"G7" e f | %25
+w: * from a lit- tle|hope|* gon- na push that|day dream|* up the moun- tain|slope|* gon- na build a|
+"Gm7" g z g2 |"C" z g/g/ g a |"F" f4 | z c/c/ e f |"C" g/g/g/g/"Am" e c |"Dm7" d/d/d/d/"G7" B G | %31
+w: day dream|gon- na see it|through|Gon- na build a|moun- tain and a day- dream|gon- na make em both come|
+"C" c4- | c z z2 |] %33
+w: true.||
+

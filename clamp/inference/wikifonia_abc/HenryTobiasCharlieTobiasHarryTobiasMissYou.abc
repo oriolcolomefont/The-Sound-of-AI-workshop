@@ -1,0 +1,26 @@
+X:1
+T:Miss You
+T:Miss You
+C:Henry Tobias
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"F+" F4 |:"Eb" e4"Bb" d4- | d4 DE=EF |"D+" B4"D7" A4- | A8 |"G+" e4"G7" d4- | d4 DE=EF | %7
+w: I|miss you,|_ since you went a-|way, dear,|_|Miss you,|_ more than I can|
+"Am" A4"C7" G4- | G8 |"Dm" d4"F7" c4 |"Dm" d4"F7" f4 |"D7" c2 A2"Cdim" c2"Gm" B2- |"D+" B6"Bb" B2 | %13
+w: say, dear,|_|Day- time,|night- time,|noth- ing I do|_ Can|
+"C7" A2 G2 c2 A2- | A6 G2 |"Eb" e4"F" f4 |"Dm" d4"F7" c4 |"Eb" e4"Bb" d4- | d4 DE=EF | %19
+w: make me for- get|_ that|I still|love you.|Kiss you,|_ in my dreams I|
+"D+" B4"D7" A4 | A8 |"G+" e4"G7" c4- | c4 DE=EF |"Am" A4"C7" G4- | G8 |"Dm" d4"F7" c4- | c4 CDEF | %27
+w: kiss you,|_|Whis- p'ring,|_ "Dar- ling how I|miss you,"|_|Tell me,|_ do you ev- er|
+"Eb" G4"F7" A4- | A4 d4 |"Bb" B8 |"Gb7" B8 |1"Bb""Gdim" B8 |"F7" z4"F+" F4 :|2"Bb""Ebm6" B8- | %34
+w: miss me|_ as|I|miss|you.|I|You.|
+"Bb" B6 z2 |] %35
+w: _|
+

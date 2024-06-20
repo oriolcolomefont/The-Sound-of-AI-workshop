@@ -1,0 +1,45 @@
+X:1
+T:Stars Are The Windows Of Heaven
+T:Stars Are The Windows Of Heaven
+T:Tommy Malie,Jimmy Steiger
+C:Tommy Malie,Jimmy Steiger
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" e G B |"Cm" c3 |"Fm" c A c |"Bb7" d3 |"Fm7" e c"Abm" A |"Bb7" G3 |"Eb" F D E | B2 G | B G B | %9
+w: 1.....Two lit- tle|kids|watch- ing the|sky,|One of them|said,|"I won- der|why *|All of the|
+w: 2......My Moth- er|says,|"they have a|book,|They make a|mark,|Each time they|look, A|tick when you're|
+"C7b5" c2"Gb7" ^c |"Bb" d c B |"G7" F2 =E/F/ |"C7" G =A B |"F7" c- c F |"Bb" B"Ebm6" E"Bbdim" =E | %15
+w: stars are|shin- ing so|bright, When there|was- n't a|star * last|night, * *|
+w: good, an|X when you're|bad, They're the|best friends that|we ev- er|had, * *|
+"Bb7" F c d |"Fm7" e c"Abm6" A |"Bb7" G F2 |"Gm" d B"Gm7" d |"C7" B2 G |"F7" F"Cm7" G"F7" =A | %21
+w: |I've of- ten|won- dered|what is a|star." The|oth- er says,|
+w: |And ev- ry|night when|my pray'rs are|said, They|blink at me|
+ c d F |"Bb7" B"Ebm6" E"Bbdim" =E |"Bb7" F c d |:"Eb""^Chorus" e d e |"Eb/G" B G B |"B7/F#" =B3 | %27
+w: "here's what they|are." * *||Stars are the|win- dows of|heav-|
+w: from o- ver|head." * *|||||
+"F7" c2 ^c |"Bb7" d3 | B2"Bb+7" d |"Eb""Gm" B3- |"Fm7" B G"Bb7" B |"Eb/G" e d c |"Ebm/Gb" e3 | %34
+w: en, Where|an-|gels peep|thru,||Up in the|sky|
+w: |||||||
+"Bb/F" d c B |"G7" F2"F#7" ^F |"C7" G2 d |"F7" f2 d |"Bb" B"Ebm6" E"Bbdim" =E |"Bb7" G _G F | %40
+w: they keep an|eye, on|kids like|me and|you. * *||
+w: ||||||
+"Bbm7" _d f d |"Eb7" B _d B |"Bbm7" F3 |"Eb7" G2 E |"Ab" A2 E |"Eb7" B2 E |"Ab" c3- | c2 z | %48
+w: They cry each|time we are|naught-|y, Their|tear- drops|are the|rain,||
+w: ||||||||
+"Cm7" c e c |"F7" =A c A |"Cm7" G3 |"F7" =A2 F |"Bb" B3 |"F7" c2"F7b5" ^c |"Bb7" d2 g | g2 f | %56
+w: But when we're|good they are|smil-|ing, And|they|shine a-|gain. (my|mum says)|
+w: ||||||||
+"Eb" e d e |"Eb/G" B G B |"B7/F#" =B3 |"F7" c2 e |"Abm6" f3 |"Db9" e2 f |1"Eb" e d c || %63
+w: "stars are the|win- dows of|heav-|en, Where|an-|gels peep|thru." * *|
+w: |||||||
+"Fm7" B2"Bb7" c/d/ :|2"Eb6" e3- || e2 z |] %66
+w: |thru."-||
+w: |||
+

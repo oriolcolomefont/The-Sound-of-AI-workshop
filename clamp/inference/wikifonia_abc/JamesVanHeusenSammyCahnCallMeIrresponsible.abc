@@ -1,0 +1,30 @@
+X:1
+T:Call Me Irresponsible
+T:Call me Irresponsible
+T:James Van Heusen
+T:Sammy Cahn
+C:James Van Heusen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"F" C4"F6" D4 |"F#dim7" =B,2 CD- D_D C2 |"Gm" =D4"Gm6" E4 |"G#dim7" ^C2 DE E_E D2 | %4
+w: Call me|ir- re- spon * si- ble|call me|un- re- li * a- ble|
+"Fmaj7/A" E4"F" F4 |"A7" E2 FG- G_G F2 |"D+7" B8- |"Am7" B6"D+7" z2 |"Gm" c4 d4 | %9
+w: throw in|un- de- pend- * a- ble|too||do my|
+"Cdim7" =B2"C7" cd- d_d c2 |"Am7b5" G8 |"D7b9""D+""D7" ^F8 |"Dm7/G" =F4"G7" G4 | E2 FG- G_G F2 | %14
+w: fool- ish al- * i- bis|bore|you?|well I'm|not too clev * er I|
+"Gm7/C" B,6 C2 |"Gm7" D4"C7" E4 |"F" C4"F6" D4 |"F#dim7" =B,2 CD D_D C2 |"Gm" =D4"Gm6" E4 | %19
+w: just a-|dore you|call me|un- pre- dict * a- ble|tell me|
+"G#dim7" ^C2 DE- E_E D2 |"Fmaj7/A" =E4"F" F4 |"A7" E2 FG- G_G F2 |"D7" d8- | d6 z2 |"Gm" c4 d4 | %25
+w: I'm im- prac * ti- cal|rain- bows|I'm in- clined * to pur-|sue||Call me|
+"Cdim7" =B2"C7" cd- d_d c2 |"Am7b5" c4 d4 |"D9" =B2 cd- d_d c2 |"Gm7" c4 d4 | %29
+w: ir- re- spon * si- ble-|yes I'm|un- re- li * a ble|but its|
+"Cdim7" =B2"C7" cd- _d_d c2 |"A7" A8- |"D7b9" A4 z2"D7" A2 |"Gm7" c2 =B_B- (3B2 A2 _A2 | %33
+w: un- de- ni * a- bly|true|* I'm|ir- re- spon- * si- bly|
+"C7b9" G6 F2 |1"F""Gm7/C" F8- |"Fmaj7" F6"Gm7/C" z2 :|2"F" F8- |"Fmaj7" F8 |] %38
+w: mad for|you||you.||
+

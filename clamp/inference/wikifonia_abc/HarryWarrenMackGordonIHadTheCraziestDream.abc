@@ -1,0 +1,26 @@
+X:1
+T:I Had The Craziest Dream
+T:I Had The Craziest Dream
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"C" EGBd- d_dcE- |"Gm6" E4-"Em7" E"A+7" F3 |"Dm" D4"Gdim" E G2 F- |"Dm" F8 |"Dm7" DFAe- e_edc- | %5
+w: I had the cra- * zi- est dream|_ _ last|night, yes I did.|_|I nev- er dreamt _ it could be,|
+ c4- c"G7b9" B3 |"C" B A2"Cdim" A- A3 B |"Dm7" A G2 G-"G7" G4 |"Gm6" GEFG-"A7" GEFG- | %9
+w: _ _ Yet|there you were _ in|love with me. _|I found your lips _ next to mine,|
+"Gm6" GEFG-"A7" G _B2 A |"Dm" F2 FF"Gm" ED"A7"EF- |"Dm" F8 |"Am6" A^FGA-"B7" AFGA- | %13
+w: _ so I kissed _ you, and|you did- n't mind it at all.|_|When I'm a- wake _ such a break|
+"Am6" A^FGA-"B7" A c2 A |"Em" BBBB-"Ebdim" BBBA- |"Dm7" A3"G+7" ^D- D4 ||"C" EGBd- d_dcE | %17
+w: _ nev- er hap- * pens, How|long can a guy _ go on dream-|* ing? *|If there's a chance _ that you care|
+"Gm6" E4-"Em7" E"A+7" F3 |"Dm" D4"Gdim" E G3 |"Dm" F4"Fm6" E D3 |"C" EGA"E7/G#"B- B c2 d- | %21
+w: _ _ Then,|please say you|do; (ba- by)|Say it and make _ my craz-|
+"D7" dedc-"Dm7/G" c d2"G7b9" c- |1"C" c8- ||"Dm" c4-"G7" c z"G+7" z2 :|2"C""Ab7" c8- || %25
+w: * i- est dream _ come true.|_|||
+"Db" c4-"C" c z z2 |] %26
+w: |
+

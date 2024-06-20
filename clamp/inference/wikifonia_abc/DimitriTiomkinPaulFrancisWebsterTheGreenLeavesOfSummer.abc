@@ -1,0 +1,38 @@
+X:1
+T:The Green Leaves Of Summer
+T:The Green Leaves Of Summer
+C:Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ B, |:"Em" E3- EFE |"B7" ^D B,2- B,2 B, |"Em" E3- EFG |"D7" F D2- D2 D |"G" G3- GFG | %6
+w: A|time _ to be|reap- in', * a|time _ to be|sow- in', _ the|green _ leaves of|
+w: A|time _ to be|reap- in' _ a|time _ to be|sow- in', _ the|green _ leaves of|
+"Am" A E2- E2 A |"F#7" ^A3- AFA |"B7" B3- BBc |"E7" d3- dcB |"Am" A E2- EAB |"D7" c3- cBA | %12
+w: sum- mer _ are|call- * in' me|home. _ It was|good _ to be|young then, _ in the|sea- * son of|
+w: sum- mer _ are|call- * on me|home. _ It was|good _ to be|young then, _ with the|sweet _ smell of|
+"G" G D2- DGA |"Em" B3- BAG |"Am6" F A2- A2 F |"C7" E G2- G2 E |"B7" F3- F2 B, |"Em" E3- EFE | %18
+w: plen- ty, _ when the|cat- * fish were|jump- in', * as|high as _ the|sky. _ A|time _ just for|
+w: ap- ples _ and the|owl _ in the|pine tree _ a|wink- 'in _ his|eye. _ A|time _ just for|
+"B7" ^D B,2- B,2 B, |"Em" E3- EFG |"D7" F D2- D2 D |"G" G3- GFG |"Am" A E2- E2 A |"F#7" ^A3- AFA | %24
+w: plant- in', _ a|time _ just for|plough- in', _ a|time _ to be|court- in' _ a|girl _ of your|
+w: plant- in',' _ a|time _ just or|plough- in', _ a|time _ just for|liv in' _ a|place _ for to|
+"B7" B3- BBc |"E7" d3- dcB |"Am" A E2- EAB |"D7" c3- cBA |"G" G- G2- GGA |"Em" B3- BAG | %30
+w: own. _ 'Twas so|good _ to be|young then, _ to be|close _ to the|earth, _ _ and to|stand _ by your|
+w: die. _ 'Twas so|good _ to be|young then, _ to be|close _ to the|earth, _ _ now the|green _ leaves of|
+"Am6" F A2- A2 F |"Em" E3"Am6" F2"B7" ^D |1"Em" E6 | z6 |"Am6""B7" z6 |"Em" z6 | %36
+w: wife at _ the|mo- ment of|birth||||
+w: sum- mer _ are|call- in' me|||||
+"Am6" z2 z"B7" z2 B, :|2"Em" E3- EBc ||"E7" d3- dcB |"Am" A E2- EAB ||"D7" c3- cBA |"G" G3- GGA | %42
+w: A|home. _ 'Twas so|good _ to be|young then, _ to be|close _ to the|earth, _ now the|
+w: ||||||
+"G+" B3- BAG |"Am6" F A2- A2 F |"Em" E3"Am6" F2"B7" ^D |"Em" E6 |] %46
+w: green _ leaves of|sum- mer _ are|call- in' me|home.|
+w: ||||
+

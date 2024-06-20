@@ -1,0 +1,29 @@
+X:1
+T:My Shining Hour
+T:My Shining Hour
+T:from the 1943 movie "The Sky's the Limit"
+T:Harold Arlen
+T:Johnny Mercer
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z"Eb6" E C G | z E C G | z E C G- | G E C A | z E C B |"Gm6" B B"C#dim" B G |"Fm7""Abm6" A4 | %7
+w: This mo- ment,|this min- ute|and each sec|* ond in it,|will leave a|glow up- on the|sky.|
+"Cm7" G G G E |"Dm7" F4 |"Cm7" E3"Ab" c | C2"Bb9" D2 |"Eb6" E4- | E2 z2 | z4 | z4 |:"Eb" G3 A | %16
+w: And as time goes|by,|it will|ne- ver|die.||||This will|
+"Cm7" B2 E2 |"F9" G3 G |"Bb7" (G2 B,2) |"Eb" G3 A |"Cm7" B E"Ab" A2 |"Bb7" B,4- | B,4 | %23
+w: be my|shi- ning|hour, *|Calm and|hap- py and|bright.||
+"Cm" E3"Eb+9" F |"Cm6" G2 C2 |"Fm6" F2"Db" F2 |"Fm6" F2"G7" D2 |"Cm7" E3 F |"F9" G E =A F | %29
+w: In my|dreams your|face will|flow- er|through the|dark- ness and the|
+"Bb11" B4- |"Bb7" B4 |"Bbm7" B3 c |"Eb9" e2 c2 |"Abmaj7" E2 E2 |"Fm7" E2 B2 |"Abmaj7" E2 E2 | %36
+w: light.||Like the|lights of|home be-|fore me.|or an|
+"Abm6" E2 A2 |"Bb7" E2 E2 | E2 B2 |"Eb" G3 A |"Cm7" B2 E2 |"Eb" G2"Fm7" A2 |"Bbm6" (B2"C7" c2) | %43
+w: an- gel|watch- ing|o'er me.|This will|be my|shi- ning|hour *|
+"Abmaj7" e2"Fm7" E2 |"Abm6" A"G+7" G"Bb7b9" F2 |"Eb6" E4- | E2 z2 |] %47
+w: till I'm|with you a-|gain.||
+

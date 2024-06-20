@@ -1,0 +1,22 @@
+X:1
+T:Das Plublikum war heute wieder wundervoll
+T:Fred Strittmatter & Quirin Amper jr.
+T:Das Plublikum war heute wieder wundervoll
+C:Fred Strittmatter & Quirin Amper jr.
+Z:All Rights Reserved
+L:1/8
+Q:1/4=138
+M:4/4
+K:Bb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" F2 |"Bb" G2 FF- FF=EF | dddd d2 z B | FBAB GFDF |"Dm" A4"G7" z A^FG |"Eb6" cc c2"Eb7" z2 AB | %6
+w: Das|Plu- bli- kum _ war heu- te|wie- der- wun- der- voll, und|trau- rig klingt der Schluss- ak- kord in|Moll. Wir sa- gen|Danke- schön, _ und Auf|
+"Bb" dd d2 z GG^G |"F" AA A2 z AGF |"Bb" d2"Ab7" c2"G7" =BG^FG |"Cm/Eb" cc c2"Eb7" z BAB | %10
+w: Wie- der- sehen, schaun sie mal|wie- der rein, denn et- was|Schau muss sein. Und heißt es|Büh- ne frei, dann sind sie|
+"Bb" dd d2 z BAG |"F7" F2 ^F2 GGA=F |"Bb" B4"Cm7" z4 |"F" z8 |"Bb" z8 |] %15
+w: mit da- bei, die Schau muss|wei- ter- gehn auf Wie- der-|sehen...|||
+

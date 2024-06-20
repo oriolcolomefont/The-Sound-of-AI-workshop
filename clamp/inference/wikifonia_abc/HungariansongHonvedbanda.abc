@@ -1,0 +1,13 @@
+X:1
+T:Honvéd banda
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:2/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" C2 E2 | C2 E2 |"G" G2 G2 | A G2 F |"Cm" E2 E2 |"G" F E2 D |"Cm" C4 | z4 :|"Fm" A4 | c2 z2 | %10
+"G" B2 GB- | BG B2 |"Fm" A2 FA- | AF A2 |"Cm" G2 EF |"G" GF ED |] %16
+

@@ -1,0 +1,22 @@
+X:1
+T:Calcutta
+T:Calcutta
+T:Heino Gaze
+T:Lee Pockriss and Paul J. Vance
+C:Heino Gaze
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z D |"G" E F B F | E E2 D | E F B F |"D7" E3 D | E F c G | F F2 G | E E2 F |"G" D2 z D | %9
+w: I've|kissed the girls of|Nap- les They're|pret- ty as can|be I've|al- so kissed some|French girls who|came from Par-|ee the|
+ E F B F | E E2 D | E F B F |"D7" E3 D/D/ | E F c G | F F2 G | E E2 B |"G" G2 z G |"G7" A B d B | %18
+w: Span- ish girls are|love- ly Oh|yes in- deed they|are but the|la- dies of Cal-|cut- ta are|sweet- er by|far the|lad- ies of Cal-|
+ A A2 G |"C" A B d B |"C" A3 G |"G" A B d B |"A7" A A2 G |"D7" A4 | d3 D |"G" E F B F | E E2 D | %27
+w: cut- ta will|steal your heart a-|way and|af- ter it is|sto- len you'll|say|* I've|kissed the girls of|Nap- les I've|
+ E F B F |"D7" E3 D/D/ | E F c G | F F2 G | E E2 B |"G" G3 z |] %33
+w: kissed them in Par-|ree But the|lad- ies of Cal-|cut- ta do|som- thing to|me.|
+

@@ -1,0 +1,12 @@
+X:1
+T:Scott's Tune
+C:Scott Auble
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm=" " snm=" "
+%%MIDI program 0
+V:1
+ G B D G | d4 |] %2
+

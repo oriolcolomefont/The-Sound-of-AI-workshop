@@ -1,0 +1,25 @@
+X:1
+T:I Have A Dream
+T:I have a dream
+T:Benny Anderson and Bjorn Ulvaeus
+C:Benny Andersson, Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"C" G2 e3 d |"Dm7" f8 |"G7" z2 G2 c3 B |"C" c8 | z2 G2 e3 d |"Dm7" f8 |"G7" z2 G2 c3 B |"C" e8 | %8
+w: I have a|dream|a song to|sing|to help me|cope|with an- y-|thing|
+w: I have a|dream|a fan- ta-|sy|to help me|through|re- al- i-|ty|
+ z4 efga |"Dm7" g2 d6 |"G7" z4 defg |"C" e8 | z4 efga |"Dm7" g2 d6 |"G7" z4 defg |"C" e8 | %16
+w: If you see the|won- der|of a fair- y|tale|you can take the|fu ture|e- ven if you|fail|
+w: and my des- ti-|na- tion|makes it worth the|while|push- ing through the|dark- ness|still an- oth- er|mile|
+ z4 gabc' |"Dm7" b2 f6 |"G7" z4 fgab |"F" a3 g f2 e2 |"C" g4 gabc' |"Dm7" b2 f6 |"G7" z4 fgab | %23
+w: I be- lieve in|an- gels|some- thing good in|ev- ry- thing I|see I be- lieve in|an- gels|when I know the|
+w: |||||||
+"F" a3 g f2 e2 |"C" g2 G2 e3 d |"Dm7" f8 |"G7" z2 G2 c3 B |1"C" c8 :|2"C" c8 |] %29
+w: time is right for|me I'll cross the|stream|I have a|dream|dream|
+w: ||||||
+

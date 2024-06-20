@@ -1,0 +1,23 @@
+X:1
+T:Baby Face
+T:Baby Face
+T:Benny Davis and Harry Akst
+C:Harry Akst
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"C" G2"^Foxtrot or swing" E G- | G4 | z c c B | B A A"Gdim" G |"G7" F2 D F- | F4 | z B B A | %7
+w: Ba- by face|_|you've got the|cut- est lit- tle|ba- by face|_|There's not an-|
+ A G G"Cdim" ^F |"G7" F2 D F- | F4 |"C" G2"Gm6" E"A7" G- | G4 |"D7" A2 B c- | c B c A | %14
+w: oth- er one could|take your place.|_|Ba- by face|_|my poor heart|_ is jump- ing|
+"G7" B"Dm7/A" c"A#dim" ^c"G7" d- | d B A _A |"C" G2 E G- | G4 | z c c B | B A A G |"E7" ^G2 G2 | %21
+w: you sure have start-|* ed some- thing|Ba- by face|_|I'm up in|heav- en when I'm|in your|
+"Bm7/F#" A2"E7/G#" B2 |"Am" c4- | c"C7" B c ^c |"F" d2 c"F#dim" B- | B A ^G A |"C/G" c2 B"A7" A- | %27
+w: fond em-|brace|_ I did- nt|need a shove|_ 'cos I just|fell in love|
+ A2 G"G#7" ^G |"D7" A2"D+7" ^A2 |"G7" B e3 |"C""Ab7" c4- |"C" c z z2 |] %32
+w: _ with your|pret- ty|ba- by|face|_|
+

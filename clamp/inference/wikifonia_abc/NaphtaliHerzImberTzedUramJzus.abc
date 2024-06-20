@@ -1,0 +1,16 @@
+X:1
+T:Tüzed, Uram, Jézus
+T:Tüzed, Uram Jézus 
+C:Naphtali Herz Imber
+Z:Public Domain
+L:1/8
+Q:1/4=100
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A,B,CD E2 E2 |"Dm" FEFA"Am" E4 |"Dm" D2 DE"Am" C2 C2 |"E" B,A,B,C"Am" A,4 :| %4
+"Am" A,2 AA"F" A2 A2 |"G" GAGF"C" E4 |"Am" A,2 AA"F" A2 A2 |"G" GAGF"E" E4 |"Dm" D2 DE"Am" C2 C2 | %9
+"Dm" DEFG"E" E4 |"Dm" D2 DE"Am" C2 C2 |"E" B,A,B,C"Am" A,4 |] %12
+

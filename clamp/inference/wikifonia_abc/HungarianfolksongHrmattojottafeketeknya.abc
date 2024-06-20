@@ -1,0 +1,15 @@
+X:1
+T:Hármat tojott a fekete kánya
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ EE EE | EF ED | E2 C2 | DD DD | EE CB, | A,2 A,2 |: A,A, D2 | D2 EE | C2 C2 | EE B,2 | D2 CB, | %11
+w: Hár- mat to- jott|a fe- ke- te|ká- nya,|en- gem sze- ret|a kend bar- na|lá- nya,|ki- ki- tyem-|be, ku- ku-|tyom- ba,|gye- re ró-|zsám a ko-|
+ A,2 A,2 :| %12
+w: csim- ba!|
+

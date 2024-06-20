@@ -1,0 +1,43 @@
+X:1
+T:As I Have Done For You
+T:As I Have Done For You
+T:Verses
+C:Dan Schutte
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^Verses" z F/G/"Bbmaj7" A3/2 B/ |"C/E" G4 |"A/C#" z E/F/ G A |"Dm" G F z D/E/ |"Bb" F2 E D | %5
+w: 1.All the world will|know|you are my dis-|.ci ples by the|1.~love that you|
+w: 2.~I must leave you|now|on- ly for a|.mo- ment.~~ I must|2.~~go to my|
+w: 3.~I am like a|vine,|you are like the|bran- ches. If you|3.~~cling to my|
+w: 4.~I have called you|friends,|now no lon- ger|ser- vants. What I|4.~~told you in|
+w: 5.You will weep for|now|while the world re-|joic- es. But the|5.~~tears of your|
+w: 6.~I will give you|peace;|this will be my|bles sing. Though the|6.~~world churns a-|
+"F/A" C F2 C |"Gm7" D F2 A |"Csus4" G2-"C" G/ z/ A/B/ | c3/2 c/ d A |"Gm" B- B z G/A/ | %10
+w: of- fer, the|kind- ness you|show. * You have|1.~heard the voice of|God * in the|
+w: Fa- ther to|make you a|home. * On the|2.~day of my re-|turn, * I will|
+w: teach- ing you|sure- ly will|live. * If you|3.~make your home in|me, * I will|
+w: sec- ret, the|world longs to|know. * There can|4.~be no great- er|love * than to|
+w: sor- row will|soon turn to|joy. * As a|5.~mo- ther cries in|child- birth as her|
+w: round you, I|leave you my|peace. * I have|6.~told you all these|thing * that my|
+"C/E" B3/2 B/ c G |"F" G A z F/G/ |"Dm" A2 B A |"Eb" A G2 _E/F/ |"Abmaj7" G3/2 F/"Db" B _A | %15
+w: words that I have|spok- en. You be-|1.~held heav- en's|glor- y and have|seen the face of|
+w: come to take you|with me to the|2.~place I have|prom- ised where your|joy will have no|
+w: come to dwell with-|in you. You can|3.~count on my|mer- cy when you|ask for what you|
+w: give you life for|oth- ers. As the|4.~Fa- ther has|loved me, so I|love you as my|
+w: pain is turned to|glad- ness, you will|5.~know great re-|joic- ing on the|day of my re-|
+w: peace may dwell with-|in you. Let your|6.~faith be un-|shak- en and your|hope be ev- er|
+"Csus4""C" G3 z!D.S.! |] %16
+w: God.|
+w: end.|
+w: need.|
+w: own.|
+w: turn.|
+w: strong.|
+

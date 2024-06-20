@@ -1,0 +1,32 @@
+X:1
+T:Milord
+C:Marguerite Monnot
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"F" A"Fdim" ^G"F" A |:"Fdim" ^G2"F" A F- | F A"Fdim" ^G A |"Bb" G2 F D- | D F G ^G |"F" A2 C2 | %6
+w: Come on get|wise Mi- lord|* her lips tell|lies Mi- lord|* the girl that|you a-|
+w: Al- ler ve-|nez Mi- lord|* vous as- soir|à ma table|* Il fait si|froid de-|
+"Dm7" F2 A2 |"G7" A G G ^F |"C7" G A B =B |"F7" c2 F F- | F A B =B |"Bb" c2 F F- |"Eb7" F A B =B | %13
+w: dored has|found some oth- er|guy she's just got|bored Mi- lord|* now you're ig-|nored Mi- lord|* deep down in-|
+w: hors i-|ci c'est com- for-|table Lais- ser vous|faire Mi- lord|* et pre- nez|bien vos aise|* vos pei- nes|
+"F" c2 F F- |"Dm7" F2 A2 |"G7" A G G ^F |"C7" G A ^G A |"Fdim" ^G2"F" A F- | F A"Fdim" ^G A | %19
+w: side your pride|* won't|let you say good-|bye that South- ern|belle Mi- lord|* has got a|
+w: sur mon coeur|* et|vos pieds sur une|chaise Je vous con-|nais Mi- lord|* vous n'm'a- vais|
+"Bb" G2 F D- | D F G ^G |"F" A2 C2 |"Dm7" F2 A2 |"G7" F E"C7" D E |"F" F2 z F || %25
+w: heart of ice|* love cam be|hell Mi-|lord as|well as par- a-|dise. *|
+w: ja- mais vu|* Je n'suis qu'une|fille du|port une|om- bre de la|rue. *|
+"Fm""^Strophe" F C C E |"C+/F" =E3 F |"Fm" F C C E |"C+/F" E3 F |"Fm" G F G F | G3 _E | %31
+w: ||||||
+w: ||||||
+"Eb" F _E F E | F3 F |"Fm" F C C E |"C+/F" =E3 F |"Fm" F C C _E |"Eb" _E3 _D |"Db" _D _A, A, C | %38
+w: |||||||
+w: |||||||
+"C7" C3 _D |"Db" _D D D E |"C7b9" D4 | z"F" _A"Fdim" G"F" A :| %42
+w: |||Come on get|
+w: |||Al- ler ve-|
+

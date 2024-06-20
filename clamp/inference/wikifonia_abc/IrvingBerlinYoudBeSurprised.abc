@@ -1,0 +1,45 @@
+X:1
+T:You'd Be Surprised
+T:You'd Be Surprised
+T:Irving Berlin
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^Verse" DG"A7"E"D7"F- FE D2 |"G" B4- B2 z2 | DGE"D7"F- FE D2 |"G" B4"Abdim" c2 B2 | %4
+w: John- ny was bash- * ful and|shy *|No- bod- y un- * der- stood|why Mar- y|
+w: ||||
+"D7" d4 A4- | A2 A>B c>B A2 |"G" B4"A7" E4 |"D7" A4- A2 z2 |"G" DG"A7"E"D7"F- FE D2 | %9
+w: loved him|* All the oth- er girls|passed him|by *|Ev- 'ry- one want- * ed to|
+w: |||||
+"G" B4- B2 z2 | DGE"D7"F- FE D2 |"G" B4 z4 | GG"D7"FE- EF G2 | A4- A2 z2 |"G" B2 B2"D7" A2"G" G2 | %15
+w: know *|How she could pick * such a|beau|With a twin- kle * in her|eye *|She made this re-|
+w: ||||||
+"D7" d4"G" z DGB ||"^Chorus" ddcB- BBc^c | ddcB- B4 |"D7/A" z2 c2 c B3 |"D7" A4- ADFA | %20
+w: ply. He's not so|good in a crowd * but when you|get him a- lone, *|You'd be sur-|prised, * he is- n't|
+w: |||* , *||
+"Am7" ccBA-"D7" AABA |"Am7" ccBA-"D7" A4 |"G" z2 d2 d B3 | G4-"G7" GG_G=F |"C" E2 c2 cE G2 | %25
+w: much at a glance * but then when|he takes you home, *|You'd be sur-|prised. * He does- n't|look like much of a|
+w: |||||
+"Cm" d4 c3 d |"G" B2 B^A BD G2 |"E7" c4 B4 |"A7" z2 ^c2 c2 B2 | ABAG- GF E2 |"D7" z2 AE GDFD | %31
+w: lov- er, but|don't judge a book by it's|cov- er,|he's got the|face of an an- * gel but|there's a dev- il in his|
+w: ||||||
+"Am7" E4-"D7" EDGB |"G" ddcB- BBc^c | ddcB- B4 |"D7/A" z2 c2 c B3 |"D7" A4- ADFA | %36
+w: eye, * He's such a|del- i- cate thing * but when he|starts in to squeeze, *|You'd be sur-|prised * he does- n't|
+w: |||||
+"Am7" ccBA-"D7" AABA |"Am7" ccBA-"D7" A4 |"G" z2 d2 d B3 |"G9" A6 z2 |"C" E2 c2 c2 c2 | %41
+w: look ve- ry strong * but when you|sit on his knee, *|You'd be sur-|prised|At a par- ty|
+w: |||||
+ cEGd-"Cm" d2 c2 |"G" B2 B^A B2 B2 | BDGc-"E7" cBcB |"Am7" d d2 d-"Abdim" d4- | %45
+w: or at a ball * I've|got to ad- mit he's|noth- ing at all * but in a|mor- ris chair, *|
+w: ||||
+"Am7" d2 c2"D7" B2 A2 |"G""C" G8- |"G" G6 z2 |] %48
+w: * You'd be sur-|prised.-||
+w: |||
+

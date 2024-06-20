@@ -1,0 +1,25 @@
+X:1
+T:You're the Reason I'm Living
+C:Bobby Darin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Guitar" snm="Guit."
+%%MIDI program 24
+V:1
+"D " z2 DD DF A2 |"G " cd- d6 | z2 GG GA B2 |"D " A8 |z2(3zFD F2- (3FGF |"A " FE- E6 | %6
+w: You're the rea- son I'm|liv- ing. *|You're the breath that I|take.|You're the stars * in my|hea- ven. *|
+ z2 FG FA, E2 |"D " D8 | z2 DD DF A2 |"G " cd- d6 | z2 GG GA B2 |"D " A8 | z2 FD F2- (3FGF | %13
+w: You're the sun when I|wake.|You're the rea- son I'm|liv- ing. *|Oh you car- ry me|through|all of life's * lit- tle|
+"A " FE- E6 | z2 FG FA, E2 |"D " D8 |"D7" z2 D2 F2 G2 |"A " A3 G E4 | z4 =fe _ed- |"D " d3 e f4 | %20
+w: bur- dens. *|I'd be lost with- out|you.|A long, long|time a\- go|when I was do-|* w\- n|
+ z4 dd- dB |"G " d3 B dd- d2 | d d3 dd ec- |"A7" c=c BA- A2 z2 |"D " z2 DD DF A2 |"G " cd- d6 | %26
+w: you picked * me|up and showed me *|true love still could be fo-|* u\- n\- d. *|You're the rea- son I|do things. *|
+ z2 GG GA B2 |"D " A8 | z2 FD FG- GF |"A " FE- E6 | z2 FG FA, E2 |"D " D8 | z2 FD FG- GF | %33
+w: You're the things that I|do.|You're the rea- son * I'm|liv- ing. *|I'd be lost with- out|you.|You're the rea- son * I'm|
+"A " FE- E6 | z2 FG FA, E2 |"D " D8 | z2 FD F2- (3FGF |"A " FE- E6 | z2 FG FA, E2 |"D ""G " D8- | %40
+w: liv- ing. *|I'd be lost with- out|you.|You're the rea- * son- I'm|liv- ing. *|I'd be lost with- out|you.|
+"D " D8 |] %41
+w: |
+

@@ -1,0 +1,51 @@
+X:1
+T:Set Fire To The Rain
+C:Fraser Smith
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z/"CN.C." C/C/C/ ||"Dm" F4 z2 z G |"F" F4 z F FF |"C" E3 E EE E2- |"Gm" EF z2 z2 z C/C/ | %5
+w: I let it|fall, my|heart. And as it|fell you rose to claim|* it. It was|
+w: |||||
+"Dm" F4 z3/2 C/ C/C/G |"F" (F/D/C D2) z F FF |"C" EE E2- ECCC- | CD z2 z2 z C |:"Dm" F4 z2 z G/G/ | %10
+w: dark and I was o-|ver _ _ _ un- til you|kissed my * lips and you saved|* me. My|hands they were|
+w: ||||I~lay with *|
+"F" F4 z F2 E |"C" E3 C CD (D/C/A, |"Gm" D4) z2 z C |"Dm" F4 z G GF- |"F" F2 z2 z F FE- | %15
+w: strong, but my|knees were far too * weak *|* to|stand in your arms.|_ wit- out fall-|
+w: you I could|stay there, just _ _ close _|my you|here for- ev- er|_ You and me|
+"C" E3 E EF (F2- |"Csus4" FD) z2 z D"C" DD ||"Bb6" D3 E D2 DE |"Gm" FEDF EDDD |"Dm" D3 E D2 DE | %20
+w: _ ing to your feet.|* * But there's a|side to you that I|nev- er knew, nev- er knew. All the|things you'd say, they were-|
+w: togeth- er, noth- ing gets|bet- ter. Cause theres a||||
+ FEDF EDDD |"Bb" D3 E D2 DE |"Csus2" FEDF"C" E E3- | E2 z"CN.C." F F2 G2 || %24
+w: nev- er true, nev- er true. And the|games you'd play you would|al- ways win, al- ways win.|_ But I set|
+w: ||* * * \-ways- * *||
+"Dm" (A2 G2 F) z z A/G/ | (A3 G) z c F"C"G- | G2 FF z c cG- | (GA) z2 z A D"Gm"F- | FDDF FDDF- | %29
+w: fire _ _ to the|rain. _ Watched it pour|_ as I * your face.|* * When it burned,|* well I cried _ cause I heard|
+w: |||||
+ F D2 F FDDF |"Dm" D4 z2 F"C"(D/C/ | D<F FG) z2 z (C :|"C" D<(F G)) z A2 A2 | %33
+w: * it scream- * ing out your|name, Your name, *|* * * * When|* * * I set|
+w: ||||
+"Dm" (A2 G2 F) z z A/G/ | (A3 G) z G Gc |"C" (GF/ E2) cccG3/2- | G A2 z z A DF |"Gm" FDDF- FDDF- | %38
+w: fire _ _ to the|rain. * And I threw|us * * in- to the flames.|* * When we fell,|* some- thing died _ cause I knew|
+w: |||||
+ F D2 F- FDD(F |"Bb" D4) z C F(D/C/ |"C" D<F FG) z A GG- ||"Bb" G2 F2 FFG(G |"F/A" GA) z2 z E EE | %43
+w: * that that * was the last|time, the last time. _|_ _ _ _ _ _ I|* wake up by the door|_ _ that heart you|
+w: |||||
+"Am" E2 EE E2 EE- |"C" E (F2 G) z A GG | G2 FD FFGG- |"Fm" (G A3) z E EE- |"Am" EEEE E2 EE- | %48
+w: caught must be wait- ting for|_ ya, * E\-ven- * now|* when we're al- rea- dy o-|* ver. I can't help|_ my- self from look- ing for|
+w: |||||
+"C" E (F2 G) z A A2 |:"Dm" (A2 GF- FD) z A/G/ | (A3 G) z c FG- |"C" G2 FF z c cG- | %52
+w: * you. * I set|fire * * * * to the|rain. _ Watched it pour|_ as I * your face.|
+w: |fire * * * * to the|rain _ and I threw|_ us _ to the flames.|
+ (GA) z2 z A DF- |"Gm" FDDF- FDDF | F D2 F- FDDF |1"Dm" D4 z2 F(D/C/ | D<F G) z A2 A2 :|2 %57
+w: * * When it burned,|* well, I cried _ Cause I heard|* it scream- _ ing out your|name Your name _|_ _ _ I set|
+w: * * When we fell|_ some- thing died _ Cause I knew|* that that * was the last|||
+"Bb" D4 z C F(D/C/ |"C" [Dd]2 F2) z4 :|3"Bb""C" z8 | z8 | !fermata!z8 |] %62
+w: time, the last time _|_ _||||
+w: |||||
+

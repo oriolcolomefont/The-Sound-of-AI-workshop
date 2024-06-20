@@ -1,0 +1,34 @@
+X:1
+T:I Found A Friend
+T:I Found A Friend
+T:Barclay Allen
+T:Roc Hillman
+C:Barclay Allen
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z G E F |"G#dim" E3 D |"C" D C F E |"Dm7" E2"G7" D2 |"Dm" z A"F+/C#" F G |"Gdim" F3 F | %6
+w: I've found a|friend when|life seemed not worth|liv- ing|I found a|friend so|
+w: I've found a|friend and|now He walks be-|side me|His hand to|lend to|
+"Dm" E D"Dm7/A" G F |"Dm7" E2"G7" D2 |"E7" z E E D |"Am7" C3 [EE] |"G7""^\n" G G G"^\n" F |"C" E4 | %12
+w: ten- der and for-|giv- ing|I can't con-|ceive how|such a thing could|be|
+w: com- fort and to|guide me|When clouds ap-|pear I|talk with Him a|while|
+"C#dim" z G ^F E |"G" D3 B |"Am7""D7" B3 A |"G7" G4 |"C" z c c c |"^C+5" c3 c |"F" c c d c | %19
+w: That Je- sus|cares for|ev- en|me.|Each day each|year, my|faith in Him is|
+w: He's taught this|heart of|mine to|smile.|Be cause He|came my|soul will live in|
+"Dm7" c2 A2 |"G7" z B B B |"^G+5" B3 B |"C" B B c B |"C" B2"Gm/Bb" G2 |"A7" z A A A | %25
+w: grow- ing|He's ev- er|near His|love is o- ver-|flow- ing|I have no|
+w: glo- ry|I'll praise His|name I'll|tell my Sav- ior's|sto- ry|What friend so|
+"C#dim7" A3 G |"Dm" G E F A |"F" c4 |"F#dim7" z c B A |"C" A E C F |"G7" E2 D2 |"C" G4 | %32
+w: fear, my|world- ly cares are|few|I can de-|pend on Him to|see me|through|
+w: true would|give his all for|you?|I found a|Friend and life be-|gan a-|new|
+ z c"F#dim7" B A |"C" G E C F |"Dm7" E2"G7" D2 |"C" C4 |] %36
+w: I found a|Friend He can be|your Friend|too.|
+w: I'm sure you'll|find that He is|your Friend|too.|
+

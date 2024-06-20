@@ -1,0 +1,38 @@
+X:1
+T:I'll Walk Beside You
+T:I'll Walk Beside You
+T:Alan Murray
+T:Edward Lockton
+C:Alan Murray
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z c"C7" dc |"F" fe"Bb" d2"C" c2 |"Gm7" fe d2"C7" cc ||[M:4/4]"F" c3"Bb" d"F" cA"Dm"GF || %4
+w: ||* * * * I'll|walk be- side you through the|
+[M:3/4]"Gm7" F"C7"G"F" A3"C7" c ||[M:4/4]"F" c3"Bb" d"F" cA"Dm"GF |"Bb" DF"C" G2"C7" z cdc || %7
+w: world to- day, While|dreams and songs and flow- ers|bless your way, I'll look in-|
+[M:3/4]"F" fe"Bb" d"C"c"Dm" F"Gm"G |"Am" A4"C7" c2 ||[M:4/4]"F" c3"Bb" d"F" cA"Dm"GF || %10
+w: to your eyes and hold your|hand, I'll|walk be- side you through the|
+[M:2/4]"Gm7" F2"C7" G2 ||[M:3/4]"F" F3 c"C7" dc |"F" fe"Bb" d2"C" c2 |"Gm7" fe d2"C7" cc || %14
+w: gol- den|land. * * *||* * * * I'll|
+[M:4/4]"F" c3"Bb" d"F" cA"Dm"GF ||[M:3/4]"Gm7" F"C7"G"F" A3"C7" c || %16
+w: walk be- side you through the|world to- night, Be-|
+[M:4/4]"F" c3"Bb" d"F" cA"Dm"GF |"Bb" DF"C" G2"C7" z cdc ||[M:3/4]"F" fe"Bb" d"C"c"Dm" F"Gm"G | %19
+w: neath the star- ry skies a-|blaze with light, And in your|heart love's ten- der words I'll|
+"Am" A4"C7" c2 ||[M:4/4]"F" c3"Bb" d"F" cA"Dm"GF ||[M:2/4]"Gm7" F2"C7" G2 || %22
+w: hide, I'll|walk be- side you through the|ev- en-|
+[M:3/4]"F" F3 c"C7" dc |"F" fe"Bb" d2"C" c2 |"Gm7" fe d2"C" cc ||[M:4/4]"C7/F" c3 d"F" cA"Dm"GF || %26
+w: tide. * * *||* * * * I'll|walk be- side you through the|
+[M:3/4]"Gm7" F"C7"G"F" A2 z"C7" c ||[M:4/4]"C7/F" c3 d"F" cA"Dm"GF |"Bb" DF"C" G2"C7" z cdc || %29
+w: pass- ing years, Through|days of cloud and sun- shine,|joy and tears; And when the|
+[M:3/4]"Gm7" f"C6"e"Gm7" d"C"c"Dm" F"Gm"G |"Am" A4"C7" c2 ||[M:4/4]"F" c3"C7" d"F7" cA"Bb"G"F"F || %32
+w: great call comes, the sun- set|gleams, I'll|walk be- side you to the|
+[M:2/4]"Gm7" F2"C7" G2 ||[M:4/4]"F" F8 |] %34
+w: land of|dreams.|
+

@@ -1,0 +1,15 @@
+X:1
+T:Erdő, erdő, erdő, marosszéki kerek erdő
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" G,2 C2 B,2 C2 |"G7" D4 G4 | FEDE"D7" D C3 |"G" G,4 G,2 z2!fine! :|"C" G2 G2"F" A2"G7" F2 | %5
+w: Er- dő, er- dő,|er- dő,|ma- ros- szé- ki ke- rek|er- dő,|Cuk- rot ad- nék|
+"C" EDEF"F" A2"C" G2 |"D7" C C3"G7" B, D3 |"C" EDCB,"G7" A,2 G,2!D.C.! |] %8
+w: an- nak a ma- dár- nak,|da- lol- ja ki|ne- vét a ba- bám- nak,|
+

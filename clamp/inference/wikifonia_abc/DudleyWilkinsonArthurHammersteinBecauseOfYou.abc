@@ -1,0 +1,26 @@
+X:1
+T:Because Of You
+T:Because Of You
+C:Dudley Wilkinson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 F2"Adim" G3 F |"A7" A4 C3 =C |"Em7" B,4 G3"A7" A |"D" F8 | z2 F2"Adim7" G3 F |"A7" A4 C3 =C | %6
+w: Be- cause of|you, there's a|song in my|heart.|Be- cause of|you our ro-|
+"Em7" B,4 G3"A7" A |"D" F8 | z2 A2"A+7" B3 A |"F#m7b5" =c3 c A3 G |"B7" F3 F G3 A | %11
+w: mance had it's|start.|Be- cause of|you the sun will|shine, the moon and|
+"Em" B3 B"B7b9" G3 F |"Em" E6 B,2 |"E9" F2 F4 B,2 |"Em9" =F2 F4 B,2 |"Em7/A" E8- | %16
+w: stars will say you're|mine for-|ev- er and|nev- er to|part.|
+"A7" E2 F2"Adim" G3 F |"A7" A4 C3 =C |"Em" B,4 G3"A7" A |"D" F8 | z2 A2"A+7" B3 A | %21
+w: * I on- ly|live for your|love and your|kiss.|It's par- a-|
+"F#m7b5" =c4 A3 G |"B7" F2 E4 ^D2 |"G6""B7/F#" B8- |"Em" B6 B2 |"G" c6 B2 |"Db7" c6 B2 | %27
+w: dise to be|near you like|this.|* Be-|cause of|you my|
+"D/A" c2 d2 A2 F2 |"Bm" E2 D2 E2 F2 |"E9" B6 G2 |"A7" c6 c2 |"D" d8 |] %32
+w: life is now worth-|while and I can|smile be-|cause of|you.|
+

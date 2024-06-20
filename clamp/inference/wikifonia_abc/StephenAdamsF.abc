@@ -1,0 +1,67 @@
+X:1
+T:The Holy City
+T:The Holy City
+T:Stephen Adams
+T:E.E.Weatherly
+C:Stephen Adams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" G2"Am" A2"Bm" B2"C" c2 |"D" d2"Em" e2"D" f2"G" g2 |"A7" g2"D" fe"G" d2"D7" c2 |"G" B4 z2 z D |: %4
+w: |||* Last|
+w: ||||
+"G" G>GGG"D7/A" FF-FF |"C" EE"D"F>E"G" D2 z D |"G/B" DDG>F"C" F>EEE |"A7" E>EFG"D7" F2 z D | %8
+w: night I lay a sleep- ing, * There|came a dream so fair, I|stood in old Je- ru- sa- lem Be-|side the tem- ple there. I|
+w: then me- thought my dream was chang'd, THe|streets no long- er rang, *|Hush'd were the glad Ho- san- nas The|~~~lit- tle chil- dren sang. The|
+"G" G>GGG"D7/A" F->FFF |"C" EEF>E"G" D2 z D/-D/ |"G#dim" D>D^CD"D/A" F->F"A7"ED | %11
+w: heard the chil- dren sing- ing * and|e- ver as they sang, me- *|thought the voice of An- * gels From|
+w: sun grew dark with mys- ter- y, The|morn was cold and chill, As the|Sha- dow of a cross a- rose up-|
+ G>GFE"D/F#" A2 z A/-A/ |"A7" A2 A2 ^c3 B |"D/F#" A2 F2"Bm" D z"G" G2 |"D/A" F3 F"A7" F2 E2 | %15
+w: Heav'n in an- swer rang; Me- *|thought the voice of|An- * gels From|Heav'n in an- swer|
+w: on a lone- ly hill, As the|sha- dow of a|cross a- rose up-|on a lone- ly|
+"D" (3Ddd"Am" (3ddd"D7" d2 D2 |"G" G3 D"D7" D2 D2 |"G" B3 A G2 z2 |"C" G2 (3:2:2G2 F G2 c2 | %19
+w: rang, * * * * * * Je-|ru- sa- lem! Je|ru- sa- lem|Lift up your gates and|
+w: hill * * * * * * Je|ru- sa lem! Je-|ru- sa- lem!|Hark! how the An- gels|
+"G" B2 (3B,DG B2 B2 |"D" A4 D2 (3DFA |"Bm" d4"Em" G z"C" c2 |"G" B2 (3BAG"D7" A2 B2 | %23
+w: sing, * * * * Ho-|san- na in- * the|high- est! Ho-|san- na * * to your|
+w: hill * * * * Ho-|san- na in- * the|high- est, Ho-|san- na * * to your|
+"G" G4 (3z Bc"D7" (3def |"G" g3 d"C" f2 e2 |"G" d2 B2"Em" G z"Am" c2 |"G/D" B2 (3bag"D7" a2 b2 | %27
+w: King! * * * * *||||
+w: King. * * * * *||||
+"G" g4 z2 z D :|"B" B,>B,B,B,"C#m" ^C>CCC |"E" E>EE^D/^C/"B" D2 z D | %30
+w: * And|once a- gain the scene was chang'd, New|earth there seem'd to * be, I|
+w: |||
+"G#m" ^D>D"G#dim"^EE"B" FF z F |"F#7" ^G>GFE"B" ^D2 z D |"G#m" ^D>DDD"D#m" F>FFF | %33
+w: saw the Ho- ly Ci- ty Be-|side the tide- less sea; The|light of God was on its streets, The|
+w: |||
+"D" F>FFF"A" A2 z A |"D/F#" A3 F"D7" D2 c2 |"G" B3 A"C" G z E2 |"D7" D3 E D2 C2 | %37
+w: gates were o- pen wide, And|all who would might|en- * ter, And|no- one was de-|
+w: ||||
+"G" B,4"B7/F#" z2 B,2 |"Em" E2 E2"B7" F2 F2 |"Em" G3 F E2 z E |"C" G3 G"D7/A" A2 A2 |"G" B4 z2 D2 | %42
+w: nied. No|need of moon or|stars by night, or|sun to shine by|day, It|
+w: |||||
+"G#dim" D3 D ^C2 D2 |"D" F3 F E2 D2 |"A7" G3 G F2 E2 |"D/F#" A4"A7" z2 A2 |"D" A2 A2"A7/E" ^c3 B | %47
+w: was the new Je-|ru- sa- lem That|would not pass a-|way, It|was the new Je-|
+w: |||||
+"D/F#" A2"F#m" F2"Bm" D2"G" G2 |"D" F2"E7" F2"A7" F3 E |"D" (3Ddd"Am6" (3ddd"G" d2"D7" D2 | %50
+w: ru- sa- lem That|would not pass a-|way. * * * * * * Je-|
+w: |||
+"G" G3 D"D7" D2 D2 |"G" B3 A G2 z2 |"C" G2 (3:2:2G2 F G2 c2 |"G" d2 (3B,DG B2 B2 | %54
+w: ru- sa lem! Je-|ru- sa- lem!|Sing for the night is|o'er * * * * Ho-|
+w: ||||
+"D/F#" A4 D2 (3DFA |"Bm" d4"Em" G z"Am" c2 |"G" B2 (3BAG"D7" F2 A2 |"G" (3DDD (3DDD"D7" D2 D2 | %58
+w: san- na in * the|high- est, Ho-|san- na * for e- ver-|more!- * * * * * * Ho-|
+w: ||||
+"G" G4"D7" A z (3:2:2D2 D |"G" B2"Am" c2"G" d2"Am" c2 |"G" B2 (3BAG"D7" A2 d2 | %61
+w: san- na in the|high- * est, Ho-|san- na * for e- ver|
+w: |||
+"G" (3GGG (3GGG (3BBB (3ddd | g2 z2 b2 z2 | G8 |] %64
+w: more- * * * * * * * * * * *|||
+w: |||
+

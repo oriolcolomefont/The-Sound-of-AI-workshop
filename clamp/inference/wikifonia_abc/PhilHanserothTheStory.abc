@@ -1,0 +1,32 @@
+X:1
+T:The Story
+C:Phil Hanseroth
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"A" z8 |"D" z8 |"A" z8 |"D" z4 ABcc- |:"A" c2 AE- E D2 C- | C2 z2 cBAB- |"E7" B G2 G E F2 E- | %7
+w: |||All of these lines|_ a- cross _ my face|_ tell you the sto-|_ ry of who I am.|
+w: ||||* the moun- _ tain tops|_ Swam all a- cross|_ the o- cean _ blue.|
+w: ||||* that's on _ my mouth,|_ it's hi- ding the|_ words that don't come out.|
+ E2 z2 ba/g/- ga- |"F#m" a f2 f c B2 A- | A2 z2 fgaa- |"D" a f2 d- d A2 F- | F2 z2 z f g2 | %12
+w: _ So ma- ny _ sto-|_ ries to where I've been|_ and how I got|_ to where _ I am.|_ But these|
+w: _ I crossed all the lines|and I broke all the rules.|_ but Ba- by I|broke them all _ for you.|_ Be- cause|
+w: _ And all of my friends|_ who think I am blessed|_ they don't know my|_ head's in _ a mess,|_ No they|
+"A" a e2 c- c A3 |"E7" G B2 e- e2 z/ A/B |"F#m" c c2 c- c2 z A |"D" d c2 A- A B3 |"A" c6 z2 | %17
+w: sto- ries don't * mean|a- ny- thing _ when you've|got no one _ to|tell them to _ It's|true|
+w: e- ven when _ I|was flat broke, _ you made|me feel like _ a|mil- lion bucks _ you|do.|
+w: don't real- ly _ know|who I am _ and they|don't know what _ I've|been through like _ you|do.|
+"E7" B2 BA- AG-AA- |1,2,3,4"A" A8 | z4 ABcc :|5 A8 | z e2 a- aa b2- | c'6 z e |"E7" b2 ba- a2 g-a | %24
+w: I was made _ for _ you.|_|I climbed a- cross||Oh well _ it's true|_ that|I was made _ for _|
+w: I was made _ for _ you.|_|You see that smile|||||
+w: I was made _ for _ you.|_|All of these lines|||||
+"A" a4"D" z4 |"A" !fermata!z8 |] %26
+w: you.||
+w: ||
+w: ||
+

@@ -1,0 +1,24 @@
+X:1
+T:Amarcord
+T:Amarcord
+T:Nino Rota
+T:Clarinet Bb
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 71
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ C8 | =C8 | C8 | =C8 | C8 | C8 | C8 | B,8 | B,8 | A,8 | G,8 | A,8 | A6 C2 | G6 C2 | F4- F=FE_E | %15
+ D8 | =F6 B2 | A6 C2 | G6 ^B,2 | C6 z2 | z A z A GE z =G | F8 | z A z A GE z =G | %23
+ (3F2 F2 F2 (3=F2 D2 F2 | E8 | (3z2 E2 E2 (3E2 G2 B2 | A8 ||[K:F] A6 E2 | G6 D2 | F4 FE_ED | _D8 | %31
+ B6 F2 | A6 F2 | _A6 c2 | ^c3 c (3=c2 _A2 c2 | =B8 ||[K:C] G8 | z8 | z8 | z8 | z8 | z8 | %42
+ z2 E/F/G/A/ B/c/d/e/ f/g/a/b/ |: c'6 g2 | b6 e2 | a4 a_ag^f | f8 | f6 c2 | e6 c2 | _e6 B2 | %50
+ c6 z2 :| z c z c BG z _B | A8 | z c z c BG z _B | (3A2 A2 A2 (3_A2 F2 A2 | G8 | B,8 | %57
+ C2 C/D/E/F/ G/A/_B/c/ d/e/f/g/ | f6 c2 | e6 A2 | d4 d_dcB | _B8 | _D8 | C8 | _B,8 | F8 | %66
+ F4 z2 _B2 | A2 z2 z4 |] %68
+

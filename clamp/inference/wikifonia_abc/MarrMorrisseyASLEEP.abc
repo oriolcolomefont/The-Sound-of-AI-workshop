@@ -1,0 +1,42 @@
+X:1
+T:ASLEEP
+C:Marr
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Fmaj7" e A A | A3 | e A A | A3 | e A A/>d/ |"G9" e B B/>d/ |"Fmaj7" e A A | A z z | %8
+w: ||||||||
+"C" F E D/>C/- |"Fmaj7" C2 z |"Am" F E"G" D/C/- |"F" C z C |"G" C/>A,/- A,- A,/>D/ | %13
+w: Sing me to sleep|_|Sing Me to sleep|_ I'm|tired _ _ _ and|
+"Am" C/>A,/- A, z | z"G" z A, |"Fmaj7" E/>D/ E/>D/ E | z"G" z z |"C" F E D/>C/- |"Fmaj7" C2 z | %19
+w: I _ _|I|want to go to bed||Sing me to sleep|_|
+"Am" F E"G" D/>C/- |"F" C2 z | z"G" z z |"Am" z z E/>E/ |"Fmaj7" E E/>D/ E- |"G" E3 | %25
+w: Sing me to sleep|_||and then|leave me a lone|_|
+"C" F E F/>G/- |"Fmaj7" G E E/>F/ |"Am7" G/>E/- E-"G" E/>D/ |"F" C A, E |"G" E3 |"Am" z z"G" z | %31
+w: Don't try to wake|_ me in the|morn ing _ _ cuz|I will be|gone||
+"Fmaj7" e A A | A2 G |"G" z G G | G/>A/ G2 | z z G | G F E |"Fmaj7" E2 z | e A A | A2 e | e A A | %41
+w: ||Don't feel|bad for me|I|want you to|know||||
+ e G G |"G" G E F | G E F | G2 E | E E D |"Fmaj7" E/>C/ C z | A A A |:"Fmaj7" e A A | A3 | %50
+w: |Deep in the|cell of my|heart I|will feel so|glad to go||||
+ e A A/>d/ |"G6" e B B/>d/ :|"Fmaj7" e A A | A3 |"Fmaj7" e A3/2 d/ | e B2 |"C" F E D/>C/- | %57
+w: ||||||Sing me to sleep|
+"Fmaj7" C2 z |"Am" F E"G" D/>C/ |"F" z z E/E/ |"G6" E D D/-E/ |"Am" E C D/->E/ | %62
+w: _|Sing me to sleep|I don't|want to wake _|up on my _|
+"Fmaj7" E E/>D/ E- | E2 z |"C" F E/>D/- D/->C/ |"Fmaj7" z z z |"C6" F E D- |"Fmaj7" C2 E/E/ | %68
+w: own an y more|_|Sing to me _ _||Sing to me|_ I don't|
+"G" E D D/-E/ |"Am" E C D/->E/ |"Fmaj7" E E/>D/ E- | E2 z |"G" z G G | G/A/ G2 | z z G | G F E | %76
+w: want to wake _|up on my _|own an y more|_|Don't feel|bad for me|I|want you to|
+"Fmaj7" E A A | A2- A/>A/ | e A A | G2 G |"G" G E F | G E F | G2 E | E/>D/- D2 |"Fmaj7" z E/C/ C- | %85
+w: know _ _|_ _ _|||Deep in the|cell of my|heart I|real ly _|want to go|
+ C2 z | e A A | A3 |"F" z z/ E/ E/>D/ |"G6" E/>G/ E2 |"Fmaj7" e A A |"Dm9" A3 |: %92
+w: _|||There is a|noth er world|_ _ _||
+"Fmaj7" z z/ E/ E/>D/ |"G6" E/G/ E2- |"C" C2 E/E/ |"Fmaj7" E C2 |"C" z z z :| C B, C | E D C | %99
+w: There is a|bet ter world|_ Well, there|must be||||
+ D E/D/ C | C E G | A3 | G E E | C D C | D E/D/ C | A, A, G, | C3 |] %107
+w: ||||||||
+

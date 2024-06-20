@@ -1,0 +1,23 @@
+X:1
+T:Amazing Grace
+T:Amazing Grace
+T:Arr. TWJ
+C:Newton
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:9/8
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z3 z3"G7" G3 |"C" c6 e>dc |"C7" e6 d3 |"F7" c6"F#dim7" A3 |"C/G" G6"G7" G3 |"Am7" c6 e>dc | %6
+"D7" e6 d3 |"G7sus4" g6- g3 |"G7" z6 e3 |"C" g6 e>dc |"C7" e6 d3 |"F6" c6 A3 |"Em7" G6 G3 | %13
+"Am7" c6 e>dc |"D7" e6"G7" d3 |"F" c3-"C/E" c3-"Dm" c3- |"C" c6"G7#5" G3 ||"C69" c6 e>dc | %18
+"E7#5#9" e6 d3 |"F7" c6"F7#11" A3 |"C2/E" G6"E7#5#9" G3 |"Am" c3-"Amaj" c3"Am7" e>dc | %22
+"D9#11" e6 d3 |"Dm11" g6- g3 |"G7#5/Db" z6 e3 |"Bb6/C" g6 e>dc |"C9" e6"C7/F#" d3 | %27
+"F9" c6"F9#11" A3 |"Em7" G6"E7#5#9" G3 |"Am7" c6"Dm7b5" e>dc |"C69/G" e6"G13" d3 | %31
+"Fm7" c3- c3- c3- |"Bb13" c6- c3- ||"C69" c6- c3 |] %34
+

@@ -1,0 +1,24 @@
+X:1
+T:The Simple Life
+T:The simple life
+T:George Gershwin
+T:Ira Gershwin
+C:George Gershwin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." E D C |"Dm7" D E D2- |"G7" D E F A |"C" G4 | z G F E |"Dm7" F G F2- |"G7" F G A d | %7
+w: I love the|sim- ple life|* I'm here to|stay|A- way from|care and strife|* I'm mak- ing|
+"C" c4- | c"^N.C." c c c |"F" c A A A | A c c c |"C" B2 G2- |"A7" G B B B |"Dm" A F F F | %14
+w: hay|* I love the|hum- ming of the|bees, I love the|bird- ies|* I'll say its|great to be a|
+"A7" F A A A |"Dm7" E2 D2 |"G7" z E D C |"Dm7" D E D2- |"G7" D E F A |"C" G4 | z G F E | %21
+w: way from hur- dy|gur- dies|be- side a|bab- bling brook|* I love to|sit|and read my|
+"Dm7" F G F2- |"G7" F G A d |"Am" c4- | c"^N.C." B d B |"D7" d2 B2- | B2 A2 |"C" B B B B- | %28
+w: cook- ing book|* or else I|knit|* the life of|Ril- ey|* was|praised ver- y high|
+"A7" B A ^D E |"F" G E G2 |"G7" z2 d2 |"C" c4- | c2 z2 |] %33
+w: * ly but the|sim- ple life|for|me||
+

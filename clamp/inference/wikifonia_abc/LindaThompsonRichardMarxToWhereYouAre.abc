@@ -1,0 +1,36 @@
+X:1
+T:To Where You Are
+T:To Where You Are
+C:Linda Thompson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"Bb" DC/D/-DE/(D/- D/C/)B, z2 |"Dm" FEDE/F/- F2 z F |"Eb" FE/B/-BE/D/- DC z B, | %3
+w: 1.~Who can say _ for cer- * * tain?|May- be you're still here. _ I|feel you all _ a- round _ me, your|
+"Bb/F" D/E/ F2 D"F7" C4 |"Bb" DC/D/-DE/(D/- D/C/)B, z2 |"Dm" FE/D/- D<A F2 z F | %6
+w: mem- o- y's so clear.|Deep _ in _ the still- * * ness,|I can hear _ you speak. Your're|
+"Ebm" _GE/B/-B=G/F/- FE z B,/F/ |"Fsus4" F4"F" z FGA |"Gm" B4 z3/2 B,/B,G |"Eb" G4 z3/2 G/GB | %10
+w: still an in- * spi- ra- * tion. Can it|be that you are|my for- ev- er|love, and you are|
+"Cm" cc/c/-cd/c/- c>BGc |"Fsus4" c6"F" z2 ||[K:C]S"C""^Chorus" c4-"Dm7" cB/c/-cd/e/- | %13
+w: watch- ing o- * ver me _ from up a-|bove?|Fly _ me up _ to where|
+"C/E" ed/c/-cB/c/-"F9" cB/A/-Ac |"Dm" d4"A/C#" z2 z e |"F/C" fe/d/-dc/d/-"G7" d>cBG |"Em" g6 z g | %17
+w: _ you are _ be- yond _ the dis- * tant|star I|wish up- on _ to- nigjht _ to see you|smile, if|
+"Am7" gf/f/-fe/e/- ed/c/-cA |"Dm7" d6 z e |"Fm6" ed/d/-dc c z/ _A/Ac!dacoda! |"C""F/C" c8- | %21
+w: on- ly for _ a while _ to know _ you're|there. A|breath a- way's _ not far to where you|are.|
+"C" c2 z2"F/C" z4 ||[K:Bb]"Bb" D>CD>E (D/C/)B, z2 |"Dm" FEDE/F/- F2 z F | %24
+w: _|~2.~Are you gent- ly sleep- * ing|here in- side my dream? _ And|
+"Eb" FE/B/-BE/D/- D<C z B, |"Bb/F" DD/F/-FD"F7" C4 |"Bb" DE F2 (D/C/)B, z2 |"Dm" FEDA F2 z F | %28
+w: is- n't faith _ be- liev- * ing all|pow- er can't _ be seen?|As my heart holds _ you|just one beat a- way I|
+"Ebm" _GE/B/-B=G/F/- F<E z B,/F/ |"Fsus4" F4"F" z FGA |"Gm" B4 z3/2 B,/B,G |"Eb" G4 z2 G,D | %32
+w: cher- sish all _ you gave _ me ev- 'ry|day. 'Cause you are|my for- ev- er|love watch- ing|
+"Cm" E4 z3/2 E<"Eb"FD/ |"F" C4 z3/2 F<cd/ |"Gm" B4 z3/2 B,/B,G |"Eb" G6 GB |"Cm" c2 cd/e/- ed B<c | %37
+w: me from up a-|bove. And I be-|lieve that an- gels|breathe and that|love will live on _ and nev- er|
+"Fsus4""F" c8!D.S.! |[K:C]O"C" c8- |"Am" c4 z c/d/- d<e |"Dm" d6 z e |"F9" ed/d/-dc c>AAc | %42
+w: leave.|are.|_ I know _ you're|there. A|breath a- way's _ not far to where you|
+"C""F/C" c8- |"C" c8- |"C" c4 z4 |] %45
+w: are|_||
+

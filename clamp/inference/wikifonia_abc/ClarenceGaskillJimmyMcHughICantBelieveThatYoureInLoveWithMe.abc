@@ -1,0 +1,26 @@
+X:1
+T:I Can't Believe That You're In Love With Me
+T:I Can't Believe That You're In Love With Me
+T:Jimmy McHugh and Clarence Gaskill
+C:Clarence Gaskill, Jimmy McHugh
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"^N.C." c2 ||"F" d3 c A3 c |"Fm" d3 c _A3 c |"C" d3 c G3 e |"D7" d3 c A3 E |"Dm7" G3 E D3 E | %6
+w: Your|eyes of blue, your|kiss- es too, *|nev- er knew what|they could do I|cant be- lieve that|
+"G7" G3 E D3 E |"C" G8- |"C7" G6 c2 |"F" d3 c A3 c |"Fm" d3 c _A3 c |"C" d3 c G3 e | %12
+w: you're in love with|me.|* You're|tell- ing ev- 'ry-|one I know, I'm|on your mind each|
+"D7" d3 c A3 E |"Dm7" G3 E D3 E |"G7" G3 E G3 A |"C" c8- | c6 z2 |"E7" e3 ^c2 B2 ^c | %18
+w: place you go, They|can't be- lieve that|you're in love with|me.||I have al- ways|
+ e2 ^c B3 E z |"A7" B8 | A8 |"D7" d3 B A3 B | d3 B A3 D |"G7" A8 |"Gm7" G6"C7""^N.C." c2 | %25
+w: placed you far a-|bove|me,|I just can't i-|mag- ine that you|love|me; And|
+"F" d3 c A3 c |"Fm" d3 c _A3 c |"C" d3 c G3 e |"D7" d3 c A3 E |"Dm7" G3 E D3 E |"G7" G3 E G3 A | %31
+w: af- ter all is|said and done, To|think that I'm the|luck- y one, I|can't be- lieve that|you're in love with|
+"C" c8- |"F" c6"C" z2 |] %33
+w: me.||
+

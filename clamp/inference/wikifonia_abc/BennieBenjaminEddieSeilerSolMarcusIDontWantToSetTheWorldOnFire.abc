@@ -1,0 +1,28 @@
+X:1
+T:I Don't Want To Set The World On Fire
+T: I dont want to set the world on fire
+T:Bennie Benjamin, Sol Marcus and Eddie Seiler
+T:Foxtrot
+C:Bennie Benjamin, Eddie Seiler, Sol Marcus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" A2 c2 C>DF>A |"F/A" c4"Ab+7" =B4 |"Gm" B2 d6- | d4"Bbm" B4 |"C7" A>cAc- c4 | %5
+w: I don't want * set *|world on|fi- re|* I|just want to star *|
+"Gm9" z2 A2"C7" c>^cdA- |"A7""D7" A8- |"G7""C7" A8 |"F" A2 c2 C>DF>A |"F/A" c4"Ab+7" =B4 | %10
+w: a flame in your heart|||In my heart I have but|one de|
+"Gm" B2 d6- | d4"Bbm" B4 |"C7" A>cAc- c4 |"Gm9" z2 A2"C7" c>^cdF- |"F""Eb6""E6" F8- |"F6" F6 F2 | %16
+w: si re|* and|that one is you *|No oth- er will do||* I've|
+"Cm7" G>GGd-"F7" d d2 F |"Cm7" G>GGd-"F7" d4 |"Bbmaj7" c>cB>B A>Ad>d | A6 G2 | %20
+w: lost my am- bi- * tion for|world ly a- claim *|I just want to be the one you|love and|
+"Dm" A>AAe-"G7" e e2 G |"Dm" A>AAe-"G7" e4 |"Dm" d>^cd>c"G7" d>^c (3d^de- |"C7" e2 dA-"C+7" A _A3 | %24
+w: with your ad- mis- * sion that|you feel the same *|I'll have reached the goal I'm dream- ing of|* be- leive * me!|
+"F" A2 c2 C>DF>A |"F/A" c4"Ab+7" =B4 |"Gm" B2 d6- | d4"Bbm" B4 |"C7" A>cAc- c4 | %29
+w: I don't want to set the|world on|fi re|* I|just want to start *|
+"Gm9" z2 A2"C7" c>^cd>f |"F" f8- | f6 z2 |] %32
+w: a flame in your heart.|||
+

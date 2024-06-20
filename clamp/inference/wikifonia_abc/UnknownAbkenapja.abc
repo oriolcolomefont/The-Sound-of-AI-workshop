@@ -1,0 +1,19 @@
+X:1
+T:A béke napja
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z4 z2 z C |"C" EE"G" DE/D/"Dm" C4 |"C" EE"F" FG/A/"G" G4 |"C" GG"E" ^GE/D/"F" CC/D/"C" E"G"D | %4
+w: A|bé- ke nap- ja kö- zel,|nézd, már fény- lik a jel!|Jé- zus szí- ve a föl- dön, az é- gen|
+"C" EE"G" DE/D/"C" C2 z2 |"^Alsó szólam" z4 z2 z C |"C" CC"G" CC/B,/"Dm" A,4 | %7
+w: min- dent egy- be- ö- lel.|||
+"C" CC"F" A,B,/C/"G" B,4 |"C" CC"E" B,B,/B,/"F" A,A,/B,/"C" C"G"B, |"C" CC"G" B,B,/B,/"C" C2 z2 |] %10
+w: |||
+

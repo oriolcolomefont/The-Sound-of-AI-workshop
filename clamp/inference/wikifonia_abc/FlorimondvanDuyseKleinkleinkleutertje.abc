@@ -1,0 +1,18 @@
+X:1
+T:Klein, klein kleutertje
+C:Florimond van Duyse
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:C
+V:1 treble nm="Alto Saxophone" snm="Alto Sax."
+%%MIDI control 7 95
+%%MIDI control 10 51
+V:1
+"C" G3 c3 | G2 F E2 G |"F" F2 E"G" D2 D |"C" C3 z2 G |"C" G2 G c2 c | G2 F E2 G |"F" F2 E"G" D2 D | %7
+w: Klein, klein|kleu- ter- tje, wat|doe je in mijn|hof? Je|plukt er al de|bloem- pjes af, en|maakt het veel te|
+"C" C3 z2 G |"C" G2 G c2 c | G3 E2 G | G2 G c2 c | G3 z3 |"C" G3 c3 | G2 F E2 G |"F" F2 E"G" D2 D | %15
+w: grof. Ma-|maa- tje die zal|kij- ven, pa-|paa- tje die zal|slaan.|Klein, klein,|kleu- ter- tje, wil|uit mijn hof- je|
+"C" C3 z3 |] %16
+w: gaan.|
+

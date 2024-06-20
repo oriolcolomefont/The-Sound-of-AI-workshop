@@ -1,0 +1,36 @@
+X:1
+T:ALISON
+C:Elvis Costello
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+|:"E" [G,E]2"F#m7" [A,F][A,F]"E" [B,G]2 [EB]2 |"D/G" [A=df][Adf]z"A/D"[Ace]- [Ace]4- | %2
+w: ||
+w: ||
+ [Ace]6 G/F/E |"E" [G,E]2"F#m7" [A,F][A,F]"E" [B,G]2 [EB]2 |"D/G" [A=df][Adf]z"A/D"[Ace]- [Ace]4- | %5
+w: |||
+w: |||
+"^Verses" z4 z GFE |"A" CEEC F/F/E EC |"E" GC-CC- C-B, z/ B,/B,/B,/ |"A" CEEC FEEF | %9
+w: Oh its so|fun ny to be see ing you aft er|so long girl. _ _ _ and with the|way you look I un der stand that|
+w: |* * * Well, I see you have a|hus band _ now. _ _ _ Did he|leave your pret ty fin gers ly ing|
+"G#m" GBBG"C#m" c4 |"B" z"A" Acc cccc |"G#m" B2 B"C#m"G- G4 |"D""^are you on tv?" z FFE GFFD- | %13
+w: you are not im pressed|I heard you let that lit tle|friend of mine _|took off you par ty dress _|
+w: in the wed ding cake?|* You used to hold him right|in your hand _|Did he take all he could take?|
+"B7sus4" D2 z2"B" z4 |"A" z c c2 cB c2 |"G#m7" c2 BG"C#m" GF"B"FE |"A" cBBG BGB-G | %17
+w: _|I'm not gon na get|too sen ti men tal like those|oth er stick y val en tines _|
+w: _|times I wish that Icould|stop you from talk ing when I|hear those sil ly things you say _|
+"G#m7" z2 z2"C#m" z2"B" z2 |"A" z z/ E/ cc cBBB |"B7" cBG"C#m"F- FEzE |"B7" GFF"C#m"E GBB-G- | %21
+w: |cuz I don't know if you were|lov ing some bod _ y I|on ly know it is n't mine _|
+w: |I think some bod y bet ter|put ot the big light cuz I|can't stand to _ see you this way|
+"G#7" G2 z2 z4 |"A""^CHORUS" c6 BB- |"E" B2 z2 z2 z G |"A" A2 c"B"B- B2 F"G#/D#"G- | %25
+w: _|AL IS ON|_ I|know this world _ is kill|
+w: _||||
+ Gd-d"C#m"e- e"B"c-c-B |"A" c6 BB- |"E" B-G/-F/- E4 z2 |"A" z2 c"B"B- BG"E9"F-F- | FE- E2 z4 :| %30
+w: _ ing _ you _ oh _ _|AL IS SON|_ _ _ _|My Aim _ Is True _|_ _ _|
+w: |||||
+

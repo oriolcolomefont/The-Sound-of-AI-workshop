@@ -1,0 +1,33 @@
+X:1
+T:Love Is A Simple Thing
+T:Love Is A Simple Thing
+C:Arthur Siegel
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+|:"Cmaj7" E2 E>F"Am7" E>D C2 |"Dm7" D2 D>E"G7" F>G A2 |"Cmaj7" G>^FG>A"Am7" G>=F E2 | %3
+w: Love is a sim- ple thing,|love is a sil- ver ring,|shin- y as a rib- bon bow,|
+w: Love is a sim- ple thing|love is a ma- gic ring,|much more fun than mis- tle- toe,|
+"Dm7" F2 F>G"G7" A>B"Dm7b5/Ab" c2 |"Cmaj7" d2 d>c"Ebdim7" d>d c2 |"Dm7" G6"G7" z2 | %6
+w: soft as a qui- et snow.|Love is a nur- ser- y|rhyme.,|
+w: gau as a pup- pet show.|Love is the thun- der and|rain,|
+"Cmaj7" B2 B>A"Ebdim7" B2 A2 |"Dm7" D6"G7" z2 |"Cmaj7" E2 E>F"Am7" E>D C2 | %9
+w: old as the tick of|time.|Love is so man- y things,|
+w: swift as a soar- ing|plane.|Love is the sum- mer moon,|
+"Dm7" D2 D>E"G7" F>G A2 |"Cmaj7" G>^FG>A"Am7" G>=F E2 |"Dm7" F2 F>G"G7" A>B"Dm7b5/Ab" c2 | %12
+w: bright as an an- gels wings,|gen- tle- as the mor- ning light,|long as a win- ter night.|
+w: gay as a big bal- loon|wild as a storm at sea, youg|as a cal- i- o- pe.|
+"Cmaj7" d2 d>c"Ebdim7" d2 c2 |"Em7b5" G4"A7b9" _B3 A |"Dm7" F2 F>G"Dm7b5" F>E D2 | %15
+w: Love makes an old heart|sing, and it|fills ev- 'ry emp- ty space,|
+w: Love is a touch of|Spring, it's as|sweet as a first em- brace,|
+"Cmaj7" G2 G>A"Em7b5" G>F"A7" E2 |"Dm7" c2 A>B"Dm7b5" c2"G7b9" d2 |1"C6""Cdim7" c6"G7" z2 :|2 %18
+w: love is a warm- ing place,|love is a sim- ple|thing.|
+w: love is a spec- ial face,|love is a sime- ple||
+"C6" c6 z2 |] %19
+w: thing.|
+w: |
+

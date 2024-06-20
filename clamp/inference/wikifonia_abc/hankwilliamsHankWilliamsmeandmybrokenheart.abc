@@ -1,0 +1,34 @@
+X:1
+T:me and my broken heart
+T:cabin in the pines
+T:shirley thoms
+T:shirley thoms
+C:hank williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ D3/2 z/ z4 G/ z/ z :|"G" (B4 B>)^AB>=A | B2 G4 D>^D |"C" E4- E>GFE/ z/ |"G" D4- D3 B | %5
+w: there's a|lit tle * old log|cab in where i'm|long * ing now to|be * that|
+w: oh i|won * der if there'll|be a log fire|burn * ing there to|night * the|
+w: |||||
+"D7" A2 A4 B2 | c z A2 A F2 D | F4- F>EF>E |"G" D2 D2"C" E2 E2 |"G" D4- D>DG>F |"C" E8 | %11
+w: lit tle old|home * that once more|i wou ld love to|see so i'll go|back * so i'll go|back|
+w: old folk sitting|there to warm * *|in * the soft fire|light oh i'll go|back * i must go|back|
+w: ||||||
+ A>GA>G A>GF>E |"G" D8 | G6 BB |"D7" c>cc>A F>DD>A |"G" G6 z2 | G3/2 z/ G/ z/ z z4 | %17
+w: to my lit tle home out on the|prair|ie my *|lit tle cold log cab in in the|pines|there's a|
+w: to the old folks that i love so|dear|ly in that|lit tle old log cab in in the|pines|old bl|
+w: ||||||
+"C" E>EE>G A>A F/F z/ |"G" E2 D6 |"D7" C>CD>D F>FF>E |"G" D4 D z z2 |"C" E>EE>G A>GF>E | %22
+w: path wind ing down from * the *|moun tains|lead ing to the lit tle cab in|door there'll|be a light burn ing * in the|
+w: uey will come boun ing * thru the|dark ness|greet me as he wags his shag gy|tail and|tho' it's years since i have left the|
+w: |* to||||
+"G" E2 D4 G2 |"D7" F2 F>E D>DF>A |"G" G6 D>G :| %25
+w: win dow to|guide * my foot steps home once|more oh i|
+w: old home to|greet me old blue y will not|fail there's a|
+w: |||
+

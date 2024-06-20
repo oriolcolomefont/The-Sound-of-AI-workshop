@@ -1,0 +1,31 @@
+X:1
+T:Where The Dog Sits On The Tucker Box
+T:Where The Dog Sits On The Tucker Box
+T:Five Miles From Gundagai
+T:Jack O'Hagan
+T:"Alf"
+C:Jack O'Hagan
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" F2 C F | A F F A/B/ | c c A"Fdim" F |"F" C3"F#dim" A/>B/ |"C" c c c"C7" B | %5
+w: My Mab- el|waits for me un- der-|neath the bright blue|sky, Where the|dog sits on the|
+"F" A/>B/ c2"Cdim" A |"C7" c B A G |"F""Fdim""Bb7" F3"C7" z |"F" F2 C F | A F F A/>B/ | %10
+w: tuck- er box five|miles from Gun- da-|gai.|I meet her|ev- 'ry day and I|
+ c c A"Fdim" F |"F" C3"F#dim" A/>B/ |"C" c c c"C7" B |"F" A/>B/ c2"Cdim" A |"C7" c B A G | %15
+w: know she's dink- y|di, Where the|dog sits on the|tuck- er box, five|miles from Gun- da-|
+"F" F3 z |"Bb" B2 F B | d"Bbm" B2 c/>B/ |"F" A A"C7" B"Fdim" =B |"F" c4 |"Dm" F2 D F | %21
+w: gai.|I think she's|bonz- er and she|reck- ons I'm good-|o,|She's such a|
+ A"G7" F2 G/>F/ |"C" E E"G7" F F/>F/ |"C" G"F" A"Bb" B"C" c |"F" F2 C F | A F F A/>B/ | %26
+w: trim- mer that I've|en- tered her for the|lo- cal show. And|my Mab- el|waits for me un- der-|
+ c c A"Fdim" F |"F" C3"F#dim" A/>B/ |"C" c c c"C7" B |"F" A/>B/ c2"Cdim" A |"C7" c B A G |1 %31
+w: neath the bright blue|sky. Where the|dog sits on the|tuck- er- box, five|miles from Gun- da-|
+"F" F3 z :|2"F" F3 z |] %33
+w: gai|gai|
+

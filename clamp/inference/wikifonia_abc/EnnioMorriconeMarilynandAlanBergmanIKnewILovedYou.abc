@@ -1,0 +1,32 @@
+X:1
+T:I Knew I Loved You
+T:I Knew I Loved You
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D/A" z8 |"G/A" z4 z A,DC |"G/D" E2 D2- !fermata!DA,FE |"G/D" G2"D" F2- !fermata!FFED | %4
+w: |I knew I|loved you, _ be- fore I|knew you, _ The hands of|
+"G9" A4- ABAD |"D/A" F2"A" E2- E"D6/A"A,DB |"G9" A4- ADGd |"D/A" A4-"B7b9" AAGF | %8
+w: time _ would lead me|to you. _ An ev- 'ning|star, _ watched from a-|far _ it guid- ed|
+"Gmaj7" B2 B,2-"E/G#" B,B,ED |"D/A" D4"A" C4- |"A7" C4-"D/A" CA,DC |"G/A" E2"D" D2- DA,FE | %12
+w: me here, _ it knew you'd|be here.|_ _ Now wrapped in|moon- light _ at last to-|
+"G/D" G2"D" F2- FFED |"D/A" cBdA"D" A3 E/D/ |"G/A" cBBD"D/A" A3 G/F/ | %15
+w: geth- er, _ Here in the|in- can- des- cent glow, We are|all we need to know, As we|
+"Em7/G" GF"B7/F#"E^D"G" FE"Em7/G"FG |"G#dim" BAA^G"D/F#" A2 Bc |"Bm/F#" d4"Gm/A#" D3 D | %18
+w: soft- ly please each oth- er, 'Til the|stars and sha- dows glow And we|sleep with our|
+"D/A" F2 E2"A7sus4" D2"A7" C2- |"D/A" C8- |"G/A" C4 z A,DC |"G/D" E2"D" D2- DA,FE | %22
+w: dreams a- mong us.|_|* I knew I|loved you, _ be- fore I|
+"G/D" G2"D" F2- FFED |"G9" A4- ABAD |"D/A" F2"A" E2- E"D6/A"A,DB |"G9" A4- ADGd | %26
+w: found you, _ I knew I'd|build _ my world a-|round you. _ Now all my|days _ and all my|
+"D/A" A4-"B7b9" AAGF |"Gmaj7" B2 B,2-"E/G#" B,B,ED |"D/A" D4"A" C4 |"A7" C4"G9/A" D4 |"D/A" D8- | %31
+w: nights _ and my to-|mor- rows _ will all be-|gin and|end with|you.|
+ D8 | %32
+w: _|
+

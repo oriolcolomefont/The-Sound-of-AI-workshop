@@ -1,0 +1,34 @@
+X:1
+T:Souvenir De Paris
+T:Souvenir De Paris
+T:Hugh Wade
+T:Kermit Goell
+C:Hugh Wade
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" z GcA BG"F"AF |"C" G4"Em" G4 |"Dm7" z GAF"G7" GEFD |"E7/B""A7b9" E8 |"Dm7" z GAF"G7" GEFD |1 %5
+w: In Pa- ris winds were soft- ly|sigh- ing|thro' ev- 'ry budd- ing chest- nut|tree,|I strolled a- long with thoughts of|
+w: The air was sweet with blos- soms|fall- ing,|I thought how love- ly life can|be|and want- ed some- thing for re|
+"C" E4"Am" E4 ||"Dm7" z CDE"G7" D2 CB, |"C""Dm7""G7" G8 :|2"E7/B" E4"A7b9" E4 || %9
+w: buy- ing|A Sou- ven- ir De Pa-|ris.|call- ing|
+w: ||||
+"D7" z CDE"G7" D2 CB, |"C" C4 z2"B7" (3B,B,B, |"E" E2 E2"Am6" ^F2"B7" F2 |"E" B2 BA"C#m" ^G3 E | %13
+w: A Sou- ven- ir De Par-|is. Then in a|shop down by the|Rue de la Paix I|
+w: ||||
+"A6" (3^F2 F2 F2"B7" F2 z E |"E" ^G4 z2"D7" (3DDD |"G" G3 G"C6/D" A2"D7" A2 |"G" d3 c"Em7" B3 G | %17
+w: sud- den- ly stopped to|stare. It was a|sight that took my|heart a- way, a|
+w: ||||
+"Cm/Eb" A3 A"D7" AABc |"Dm7""G7" d8 |"C" z GcA BG"F"AF |"C" G4"Em" G4 |"Dm7" z GAF"G7" GEFD | %22
+w: girl with sun- beams in her|hair.|We sailed a- cross the blue to-|geth- er,|and be my side she'll al- ways|
+w: |||||
+"E7/B""A7b9" E8 |"Dm7" z GAF"G7" GEFD |"E7/B" E4"A7b9" E4 |"D7" z CDE"G7" D2 CB, |"C" C4 z4 |] %27
+w: be,|ro- mance and love are mine for-|ev- er,|A Sou- ven- ir De Pa-|ris.|
+w: |||||
+

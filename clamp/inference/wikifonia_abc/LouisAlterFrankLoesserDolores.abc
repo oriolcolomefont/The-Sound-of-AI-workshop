@@ -1,0 +1,41 @@
+X:1
+T:Dolores
+T:Dolores
+T:Louis Alter
+T:Frank Loesser
+C:Louis Alter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2 G2 A2 G2 |"Em" BGAG"G" BGAG | B3/2BB-B z GAG/ |"F" AG =F4 A2 |"E" ^G4- ^GE^FE | %5
+w: It was a|sun- ny lit- tle fun- nu lit- tle|bor- der town * where on a|moon- lit night I|rose * and all the|
+w: |||||
+"Em" =GEFE"Am" GEFE |"D" F3/2F F2- FDED/ |"C" ED C4 E2 |"G" D8 |"Cm" z C_EG"Cm7" _BBBB | %10
+w: lo- cal guys wre vo- cal- iz- ing|up and down * be- fore a|cer- tain girl's a-|bode|And from a hun- dred lips the|
+w: |||||
+"Gm" _BAGG- G4 |"Cm" G2"D7" F4"F" A2 |"Gm" G8 |: %13
+w: mel- o- dy came *|croon- ing her|name|
+w: |||
+"G" D"^Refrain""^Molto"D"^Moderato"DD E"^(lightly)"EEE | B2 G4 z2 | d2 B2"G" d2 B2 |"D7" d2 F4 z2 | %17
+w: How I love the kiss- es- of Do-|lo- res|Ay ay ay Do-|lo- res|
+w: ||||
+ DDDD EEEE |"Am7" c2"D7" A4 z2 | d2 A d2 z ^A2 |"G" d2 B6 |"B7" B>cB>c"E7" d3 B | %22
+w: Not Mar- ie or Em- i- ly or|Dor- is|on- ly my Do-|lo- res|From a bal- co- ny a-|
+w: |||||
+"A7" A A3- A"D"AcB |"Em" G G2- G2 GBG | E8 |"Bm"!<(! F!<)!GFG"Fm" A3 A |"Bm" F F3- F4 | %27
+w: bove me * she whis- pers|love me * and throws rose||ah, but she is twice as|lov- ely *|
+w: |* * * * * a||||
+"Em7" G2 A2"A9" B2 ^c2 |"D7" d8 |"G" DDDD EEEE | B z G6 | d3 B"G" d3 B |"D7" d2 F6 | DDDD EEEE | %34
+w: as the rose she|throws.|I would die to be with my Do-|lor- es|Ay ay ay Do-|lor- es|I was made to ser- e- nade Do-|
+w: |||||||
+"Am7" c2 z2"D7" A4 | d3 A"D" d3 ^A |"G" d2 B6 |"B7" Bc/Bc"E7" d3 z/ B |"A7" A A3-"D" AAcB | %39
+w: lor- es-|Chor- us af- ter|chor- us|just im- ag- ine eyes like|moon- rise * a voice like|
+w: |||||
+"Em" G G2- G3/2A3/2B>G | e8 |"G" DDDD EEEE |"E7" B2 z2 E4 |"A7" e4"D7" F4 |1"G" G8 :|2"G" G4- G4 |] %46
+w: mu- sic * and lips like|wine|what a break if I could make Do-|lor- es-|mine all|mine|mine *|
+w: |||||||
+

@@ -1,0 +1,21 @@
+X:1
+T:How Come You Do Me Like You Do?
+T:How come you do me like you do
+T:Gene Austin, Roy Bergere
+C:Gene Austin, Roy Bergere
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"C" eec"F" dcAc |"C" G2 ^GA-"A7" A4 |"D7" z ccA"G7" AG^de |"C" c8 | z eec"F" dcAc | %5
+w: How come you do me like you|do do do *|how come you do me like you|do|why do you try to make me|
+"C" G2 ^G"A7"A- A4 |"D7" z ccc cd e2 |"G7" d8 |"C" e e2 c- ccdc |"C7" e e2 c c3 c | %10
+w: feel so blue *|I aint done nuth- in to|you|do me right * or else just|let me be * cause|
+"F" dcdc"Fm" dcdc | e3 d c4 |"C" z eec"F" dcAc |"C" G2 ^GA-"A7" A4 |"D7" z ccA"G7" AG^de |"C" c8- | %16
+w: i can beat you do- in what youre|doin to me|How come you do me like you|do do do *|How come you do me like you|do|
+ c4 z4 |] %17
+w: |
+

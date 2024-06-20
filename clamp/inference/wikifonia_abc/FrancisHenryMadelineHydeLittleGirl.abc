@@ -1,0 +1,24 @@
+X:1
+T:Little Girl
+T:Little Girl
+C:Francis Henry
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 d B |:"Eb6" c4- | c2 d B |"Ebm6" c d B c- | c2"Edim7" B G |"Bbmaj7" A4- | A2 B G | A B G A- | %8
+w: Lit- tle|girl,|_ you're the|one girl for me,|_ lit- tle|girl,|_ you're as|sweet as can be.|
+ A2"Bdim7" G D |"Cm7" F2 E2 | G2 B2 |"F7" d d d d- | d3 A |"Bbmaj7" c c c"C7" c- | c3 G | %15
+w: _ Just a|glance at|you meant|love from the start,|_ and|oh what a thrill|_ came|
+"Cm7" B G B"F7" A- | A2"Bb+7" d B |"Eb6" c4- | c2 d B |"Ebm6" c d B c- | c2"Edim7" B G | %21
+w: in- to my heart.|_ Lit- tle|girl,|_ with your|cute lit- tle ways,|_ I am|
+"Bbmaj7" A4- | A2 B G | A B G A- | A2"Bdim7" G D |"Cm7" F2 E2 |"D7" d2 A2 |"Gm" c z B"G7" d- | %28
+w: yours,|_ for the|rest of my days.|_ And this|great big|world will|be di- vine,|
+ d2 ^F G |"C7" c2 ^F G |"F7" d2 d2 |1"Bb" B4- |"F7" B z"Bb+7" d B :|2"Bb" B4- | B2 z2 |] %35
+w: _ lit- tle|girl, when you're|mine, all|mine.|_ Lit- tle|mine.|_|
+

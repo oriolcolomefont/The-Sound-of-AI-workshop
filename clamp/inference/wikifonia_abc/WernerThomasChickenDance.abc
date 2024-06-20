@@ -1,0 +1,27 @@
+X:1
+T:Birdie Song/Birdie Dance
+T:Birdie song/Birdie Dance
+T:Werner Thomas and Terry Rendall
+C:Werner Thomas, Terry Rendall,
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^(no" G2"^chord)" z2 g2 z2 | G2 z2 g2 z2 | G2 g2 G2 g2 | GgGg GgGg | GgGg GgGg | G2 GG AAEE || %6
+w: |||||* with a lit- tle bit of|
+"C" G2 GG AAEE | G2 GG AA"Eb"cc |"G7" B2 B2 A2 G2 | F2 FF GGDD | F2 FF GGDD | F2 FF GGBB | %12
+w: this and a lit- tle bit of|that then a lit- tle wig- gle|down and up a|gain with a lit- tle bit of|this and a lit- tle bit of|that then a lit- tle jig- gle|
+"C" A2 A2 G2 F2 | E2 GG AAEE | G2 GG AAEE | G2 GG AA"Eb"cc |"G7" B2 B2 A2 G2 | F2 FF GGDD | %18
+w: down and up a|gain with a lit- tle peck for|you and a lit- tle peck for|me then a lit- tle gig- gle|too and then a|glance with a lit- tle bit of|
+ F2 FF GGDD | F2 GG AABB |"C" c2 A2 G2"^toCoda" E2 | C2 G2 _G2 F2 |: E6 G2 | e6 d2 | d2 c2 c4 | %25
+w: this and a lit- tle bit of|that its a lot of fun to|do the bird- ie|dance then we all|make a|star and|cir- cle left|
+ z2 G2 _G2 F2 | E6 G2 | d6 c2 |"G7" B8 | z2 A2 G2 _G2 | F6 =G2 | d6 c2 | c2 B2 B4 | z2 d2 d2 c2 | %34
+w: and sing as|we go|round the|floor|then we change|hands and|cir- cle|to the right|we're hav- ing|
+ c2 B2 B4 |1 z2 A2 G2 F2 ||1"C" E4 z4 || z2 G2 _G2 F2 :|2 z2 B2 c2 d2 ||"C" c8 | %40
+w: fun to night|lets dance some|more|then we all|lets dance some|more|
+ z2 GG"^D.S.alCoda" AAEE ||"^Coda" C4 z4 | z8 |] %43
+w: with a lit- tle bit of|dance||
+

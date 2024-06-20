@@ -1,0 +1,29 @@
+X:1
+T:Homeward Bound
+T:Homeward Bound
+T:Paul Simon
+T:Swing
+C:Paul Simon
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z G |:"C" G G G G | A G G/E/E/E/ |"Em" G G G G | A G E E- |"Gm" E4- | E2 z E/D/ |"A7" E4- | %8
+w: I'm|sit- ting in the|rail- way sta- tion got a|tick- et for my|des- ti- na- tion||* Mmm *||
+w: |Ev- ry days an|end- less stream * of *|cig- a- rettes and|mag- a- zines *||||
+ E z z F |"Dm" F F F F | G F F E |"Bb" F F F F | G F F G |"C" G G G G | A G G G/G/ | G c c d | %16
+w: * and|on a tour of|one night stands my|suit- case and gui-|tar in hand and|ev- ry stop is|neat- ly planned for a|po- et and a|
+w: * but|each town looks the|same to me the|mov- ies and the|fac- tor- ies and|ev- ry strang- ers|face I see * re-|minds me that I|
+ d e e/d/ c- | c4 | c2 B c |"F" A4 | z G A G |"C" E/D/ C3 | c2 B c |"F" A4- | A z2 z | %25
+w: one man band * *||Home- ward *|bound|I wish I|was * *|home- ward *|bound||
+w: long to be * *|||||||||
+"C" e2 z e/e/ |"Bb" f e d c |"C" e2 z e/e/ |"Bb" f e d c |"C" e2 z e/e/ |"Bb" f e d c | %31
+w: Home where my|thoughts es- cap- ing|home where my|mu- sics play- ing|home where my|love lies wait- ing|
+w: ||||||
+"G7" d e d2 |"C" c G3- |1 G3 G :|2 G4- | G4 |"G7" d e d c |"C" c3 z |] %38
+w: si- lent- ly|for me.|* To|||si- lent- ly for|me.|
+w: |||||||
+

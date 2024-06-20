@@ -1,0 +1,33 @@
+X:1
+T:Klein bietjie wyn
+C:Anton Goosen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="[Treble]"
+%%MIDI control 7 100
+%%MIDI control 10 16
+V:1
+|:"F" AA/A/ A2"Bb" BB/B/ B2 |"F" AA/A/ AG F4 |"C7" GG/G/ GF E4 |"F" AA/A/ AG F4 | %4
+w: Klein bie- tjie wyn klein bie- tjie wyn,|klein bie- tjie wyn vir my,|klein bie- tjie wyn vir my,|klein bie- tjie wyn vir my,|
+w: ||||
+"F" AA/A/ A2"Bb" BB/B/ B2 |"F" AA/A/ AG F4 |"C7" GG/G/ GG GBAGO"^To coda" |1"F" F4 z2"C7" z C | %8
+w: klein bie- tjie wyn, klein bie- tjie wyn|klein bie- tjie wyn vir my,|klein bie- tjie wyn vir my en ook vir|jou. O|
+w: ||||
+"F" FFGF F2 z A |"Bb" BBcB"F" A2 z A |"Bb" BBcB"F" AAAA |"C7" GG/G/ AG"F" F2 z C |"F" FFGF F2 z A | %13
+w: An- na gee jou hand, O|An \-na gee jou hand, O|An- na gee jou hand dat ek kan|voel jou * hart nog brand. O|An- na jy's my blom, O|
+w: |||* of * * * * *||
+"Bb" BBcB"F" c2 z A |"Bb" BBcB"F" AAAA |"C7" GGAG"F" F2 z2 :|2"F" F4"C7" z4 ||"F" c2 cc"F7" cABc | %18
+w: An- na jy's my blom, O|An- na, jy's my blom wat van die|On- \-der- veld af kom.|jou.|Trol- skui- te ry ja jy moet|
+w: |||||
+"Bb" d2 dd"F" c4 |"Bb" d2 dd"F" cc"Cdim"cc |"Gm7" B2"C7" B2"F" A4 |"F" c2 cc"F7" cABc | %22
+w: trol- skui- te ry|Trol- skui- te ry dat jy kan|see- siek kry.|"Bi- cy- \-cle"- ry, ja jy moet|
+w: ||||
+"Bb" d2 dd"F" c4 |"Bb" d2 dd"F" cccc |"Gm7" B2"C7" BB"F" A2 z2"^D.S. al Coda" || %25
+w: "bi- cy- \-cle"- ry,|"Bi- cy- cle" ry dat jy kan|mooi bou- de kry.|
+w: |||
+"^Ø CODA""F" F4 z4 |"C7" GG/G/ GG GBAG |"F" F8"C7" | z8 |] %29
+w: jou.|Klein bie\-tjie- _ wyn vir my en ook vir|jou.||
+w: ||||
+

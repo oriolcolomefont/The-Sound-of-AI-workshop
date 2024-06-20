@@ -1,0 +1,25 @@
+X:1
+T:When Your Hair Has Turned To Silver
+T:When Your Hair Has Turned To Silver
+T:Charlie Tobias & Peter De Rose
+C:Charlie Tobias & Peter De Rose
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 B/=A/ ||"Eb" B2 G |"Ebmaj7" G2 E |"Eb6" E C2- |"Eb" C2 B/=A/ | B2 B |"Edim" A2 G |"Fm7" F3- | %8
+w: When Your|Hair Has|Turned To|Sil- ver|* I will|love you|just the|same.|
+"Bb7" F2 c/=B/ |"Fm" c2 A |"Fm7" A2 F |"Bb7/F" F D2- | D2 c/d/ |"Eb" c2 B |"Ebdim" =A2 c | %15
+w: * I will|on- ly|call you|sweet- heart,|* that will|al- ways|be your|
+"Eb" B3- | B2 B/c/ |"Bbm7" e2 _d |"Eb7" c2 B |"Ab" E (A2 | A2)"Ab6" A/B/ |"Gm7" c2 B |"C7" A2 G | %23
+w: name.|* Through a|gar- den|filled with|ros- es,|* down the|sun- set|trail we'll|
+"F7" F3- |"Bb7" F2 B/=A/ |"Eb" B2 G | G2 B |"Gm7" d c2- |"C7" c2 =B,/C/ |"Fm7" A2 B |"Bb7" G2 F | %31
+w: stray.|* When your|hair has|turned to|sil- ver,|* I will|love you|as to-|
+"Eb" E3- | E z2 |] %33
+w: day.-||
+

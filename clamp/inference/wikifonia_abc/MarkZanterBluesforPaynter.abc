@@ -1,0 +1,17 @@
+X:1
+T:Blues for Paynter
+C:Mark Zanter
+Z:All Rights Reserved
+L:1/8
+Q:1/4=96
+M:4/4
+K:none
+V:1 treble transpose=-5 nm="MusicXML Part"
+%%MIDI program 0
+V:1
+[K:F]"F11" z[Q:1/4=96] gfc GFCF |"Bb13" G3 F z gfc |"F11" GFCF G_A z2 |"Cm7" z gfc"F9" GFCF | %4
+"Bb11" B_eB_A B2 z A |"Bbm11" B_eB_A"Eb7" B2 z2 |"F9" z gfc GFCF |"B13" ^F=B^c^d z cB^f | %8
+"Bbm11" _d2 z2"A+7b9" FB_ef |"Abm11" z _eB_A"G7#9" B2 z A |"Gbm11" _d_c_G_E"F7#9" B_AFE | %11
+"Em11" DEGA"Eb7b9" z2 DE |"Dm11" Adea"Db7#9" ezEG |"C13" Adea"F#m11" =b^f^cA | %14
+"Gm7" z dAF"C7" c B2 A |] %15
+

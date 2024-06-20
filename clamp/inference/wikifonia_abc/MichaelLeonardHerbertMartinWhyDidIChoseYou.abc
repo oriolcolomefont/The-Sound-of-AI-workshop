@@ -1,0 +1,32 @@
+X:1
+T:Why Did I Chose You?
+T:Why Did I Chose You?
+C:Michael Leonard
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bbmaj7" z D/C/"Bb7" D F |"Ebmaj7" G4 |"Dbm7b5" G _A/G/"G7" F D |"Cm7""F7" E4 |"Bbmaj7" z D F d | %5
+w: Why ~did I chose~|~you?|What did I see in|you?|I see the|
+"C/Bb" d d c B |"Am7" c4- |"D7" c D"D7b9" (3:2:2d2 A |"Gm" A3/2 B/"Gm7" B2- | %9
+w: heart you hide so|well:|_ I saw a|qui- et man|
+"C7" B C"C7b9" (3:2:2c2 G |"Fmaj7" G3/2 A/ A2- |"Dm7" A C"Gm7" B A |"Fmaj7/C" G F"Abdim7/C" F =E | %13
+w: _ who had a|gen- tle way,|_ A way that|caught me in it's|
+"C9sus4" D2"C7" =E2 |"Cm7" F4- |"F7" F4 |"Bbmaj7" z D/C/"Bb7" D F |"Ebmaj7" G4 | %18
+w: glow- ing|spell.|_|Why did I want|you?|
+"Dm7b5" G _A/G/"G7" F D |"Cm7""F7" E4 |"Bbmaj7" z D F d |"C/Bb" d d c B |"Am7" c4- | %23
+w: What could you of- fer|me?|A love to|last a life- time|through.|
+"D7" c D"D7b9" (3:2:2d2 A |"Gm" A3/2 B/"Gm7" B2- |"C7" B G"C7b9" A B |"E/F" =B3/2 c/"Fmaj7" c2- | %27
+w: _ And when I|lost my heart|_ so man- y|years a- go,|
+"Cm7" c F"F7" =E F |"Bbmaj7" f =e"Am7" e d |"Gm7" d c"C9sus4" D F |"A+7""A7" A4- | %31
+w: _ I lost it|lov- ing- ly, and|will- ing- ly to|you.|
+"D9sus4" A D/D/"D7b9" (3:2:2d2 c |"Gm7" A3/2 B/ B2- |"G7b5" B A/G/"C7sus4" F"C7b9" G |"F" F4- | %35
+w: _ If I had to|chose a- gain,|_ I would still chose|you.|
+ F4 |] %36
+w: _|
+

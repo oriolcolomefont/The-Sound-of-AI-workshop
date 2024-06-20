@@ -1,0 +1,45 @@
+X:1
+T:Gentle On My Mind
+T:Gentle On My Mind
+T:John Hartford
+C:John Hartford
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z G, |:"C" G/ G3/2 G G |"Cmaj7" G G G G |"C""C6" G/ G3/2 G G |"C" G E D C |"G9" D4- | D4- | %7
+w: It's|know- ing that your|door is al- ways|o- pen and your|path is free to|walk||
+w: |Cling- ing to the|rocks and i- vy|plan- ted on their|columns now that binds|me||
+w: |Wheat- fields and the|clothes lines and the|junk- yards and the|high- ways come between|us||
+w: |my cup of soup|back from the gurg-|lin', crack- lin' caul-|dron in some train|yard||
+ D4- | D2 z F |"Dm" F F F D |"Dm" F F F D |"Dm7" F F F G |"G7" F D"Dm7" C"G7" B, |"C" E4- | E4- | %15
+w: |* That|makes me tend to|leave my sleep- ing|bag rolled up and|stashed be- hind your|crouch||
+w: |* Or|some- thing that some-|bod- y said be-|cause they thought we|fit to- geth er|walkin'||
+w: |* And|some oth- er woman|cry- ing to her|moth- er 'cause she|turned and I was|gone||
+w: |* My|beard a rough- ning|coal pile and a|dir- ty hat pulled|low a- cross my|face||
+ E4- | E2 E/ G3/2 | G/ G3/2 G G |"Cmaj7" G/ E3/2 z/ G E/ |"C6" G/ G3/2 G G | %20
+w: |* And it's|know- ing I'm not|shack- led by for-|got- ten words and|
+w: |* It's just|know- ing that the|world will not be|curs- ing or for-|
+w: |* I still|might- * run in|si- lence, tears of|joy * might stain|
+w: |* Through cup-|ped hands 'round a|tin can (delete 4th|verse- * * *|
+"Cmaj7" G/ E3/2 z G/G/ |"C" G G2 G/A/ | G E D C |"G9" D4- | D4- | D4- | D2 z F |"Dm" F F2 F/D/ | %28
+w: bonds, * And the|ink stains that have|dried up- on some|line|||* That|keeps you in the|
+w: giv- ing When I|walk a- long some|rail- road track and|find|||* That|you're moving on the|
+w: my face And a|sum- mer sun might|burn me 'till I'm|blind|||* But|not to where I|
+w: * ) I pre-|tend I hold you|to my breast and|find|||* That|you're waving from the|
+"Dm" F F2 F/D/ |"Dm7" F/ F3/2 F F |"Dm6" F/ F3/2 z F |"Dm" F F F/ G3/2 | %32
+w: back- roads by the|riv- ers of my|mem- 'ry, That|keeps you ev- er|
+w: back- roads by the|riv- ers of my|mem- 'ry And|for hours you're just|
+w: can- not see you|walk- in on the|back- roads By|the riv- ers flowing|
+w: back- roads by the|riv- ers of my|mem- 'ry Ever|smil- in' ev- er|
+"Dm7" E/ C3/2"G7" D"Dm7" C |1"C" C4- || C4- | C4- | C2 E F :|2"C" C4- || C4- | C4- | C3 z |] %41
+w: gen- tle on my|mind.|||* It's not|||||
+w: gen- tle on my|Mind.|||* Through the|||||
+w: gen- tle on my|Mind|||* I dip|||||
+w: gen- tle on my|||||mind.-||||
+

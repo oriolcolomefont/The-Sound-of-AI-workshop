@@ -1,0 +1,24 @@
+X:1
+T:My  happiness
+T:My Happiness
+T:Borney Bergantine
+T:Betty Peterson
+C:Borney Bergantine
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" _EF^FG"F" A3 =F | A8 | cBA_A"C" G3 C | E8 | BAG_G"G7" F3 ^C | D8 | F4 E2 ^D2 |"C" E8 | %8
+w: Eve- ning shad ows make me|blue|when each wea- ry day is|through|how I long to be with|you|My hap- pi-|ness|
+ EF^FG"F" A3 =F | A8 | cBA_A"C" G3 C | E8 | BAG_G"G7" F3 ^C | D8 | F4 E2 D2 |"C" C6"C7" C2 | %16
+w: ev- ry day I rem- i-|nisce|dream- ing of your ten- der|kiss|al- ways think- ing how I|miss|My hap- pi-|ness a|
+"F" A2 A4 ^GA | c6 BA |"C" A2 G2 z2 (3G^FA | G6"G" E_E |"G" D2 D4 G2 | B6 ^AB | %22
+w: mil- lion years it|seems have gone|by since we shared our|dreams but I'll|hold you a-|gain there'll be|
+"D7" c2 c2 z2 (3cBA |"G7" G8 |"C" EF^FG"F" A3 =F | A8 | cBA_A"C" G3 C | E8 |"C" BAG_G"G7" F3 ^C | %29
+w: no blue mem- o- ries|then|wheth- er skies are grey or|blue|an- y place on earth will|do|just as long as I'm with|
+ D8 |"G7" F4 E2 D2 |"C" C8 :|"C" C8 | z8 | z8 |] %35
+w: you|my hap- pi-|ness|ness|||
+

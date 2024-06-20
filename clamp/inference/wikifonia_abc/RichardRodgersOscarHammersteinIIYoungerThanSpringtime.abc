@@ -1,0 +1,33 @@
+X:1
+T:Younger Than Springtime
+T:Younger Than Springtime
+T:(from South Pacific)
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z"C" C C"G" D | E"F" F/F/ F"C" E |"G" D4- | D3 z |"C" z C/C/ C"G" D | D"F" F F"C" E |"Bb" D4- | %7
+w: I touch your|hand and my arms grow|strong||like a pair of|birds that burst with|song|
+ D3 z |"Dm" z D D"G+" E |"A7b9" E G/G/ G F |"Dm" F4- |"Fm6" F _A/=A/ G F |"C" E4- |"C#+7" E G F E | %14
+w: |My eyes look|down at your love- ly|face|* and I hold the|world|* in my em-|
+"Dm7" D4- |"G7" D3 z ||"Cmaj7" E/F/ G A C | z D E2 |"Dm7" D/E/ F G B, |"G7" z C D2 | %20
+w: brace||Young- er than Spring- time|are you|soft- er than star- light|are you|
+"Cmaj7" E/F/ G A B |"Am7" c B/A/ G A |"D7sus4" G2"D7" ^F2 |"Gmaj7" ^F2"G7" =F2 | %24
+w: warm- er than winds of|June are the gen- tle|lips you|gave me|
+"Cmaj7" E/F/ G A C | z D E2 |"Dm7" D/E/ F G B, |"G7" z C D2 |"Cmaj7" E/F/ G A B |"Am7" c B/A/ G A | %30
+w: Gay- er than laugh- ter|are you|sweet- er than mus- ic|are you|an- gel and lov- er|heav- en on earth are|
+"D7sus4" G2"D7" ^F2 |"G" G/ z/ D"G#+7" D D |"Am7" E3"D7" ^F |"Gmaj7" ^F3 G |"Am7" G3"D7" A | %35
+w: you to|me and when your|youth and|joy in-|vade my|
+"Gsus4" D/ z/ D"G#+7" D D |"Am7" E3"D7" ^F |"Gmaj7" ^F3 G |"Dm7" G4 |"G7" G4 |"Cmaj7" E/F/ G A C | %41
+w: arms and fill my|heart as|now they|do|then|young- er than spring- time|
+ z D E2 |"Dm7" D/E/ F G B, |"G7" z C D2 |"Cmaj7" E/F/ G A B |"Am7" c B/A/ G A |"D7" d4 |"G7" d4 | %48
+w: am I|gay- er- than laugh- ter|am I|an- gel and lov- er,|heav- en and earth am|I|with|
+"C6" c4- | c3 z |] %50
+w: You!||
+

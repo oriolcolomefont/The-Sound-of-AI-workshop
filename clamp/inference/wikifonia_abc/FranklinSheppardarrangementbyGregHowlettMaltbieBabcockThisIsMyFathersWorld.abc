@@ -1,0 +1,38 @@
+X:1
+T:This Is My Father's World
+T:This Is My Father's World
+T:Arrangement by Greg Howlett
+T:Franklin Sheppard
+T:Maltbie Babcock
+T:Public Domain
+C:Franklin Sheppard arrangement by Greg Howlett
+Z:Public Domain
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ x255/64 C/D/ |"C" E"C#dim7" G"Dm7" E"G7b9" D |"C" C3 D/E/ |"Dm7" F"D#dim7" A"Em7" G"Fmaj7" E | %4
+w: This- *|is my Fa- ther's|world and *|to my list- ening|
+w: This *|is my Fa- ther's|world the *|birds their car- ols|
+w: This *|is my Fa- ther's|world O *|let me ne'er for-|
+"Gsus4" D3"G7/F" A |"Em7" G E"A7b9" E D/C/ |"Dm7" E"G7b9" D"Am7" C G, | %7
+w: ears all|na- ture sings and *|round me rings the|
+w: raise the|morn- ing light the *|lil- y white de-|
+w: get that|tho the wrong seems *|oft so strong God|
+"Dm7" C/D/E/"Gsus4"F/ G"G7b9" D/E/ |"C""Ebdim7""Dm7" C3"G7b9" G |"F#m7b5" c"Fm6" G"Esus4" A B | %10
+w: mu * sic * of the- *|spheres This|is my Fa- ther's|
+w: clare * their * Ma- ker's *|praise This|is my Fa- ther's|
+w: is * the * Ru- ler *|yet This|is my Fa- ther's|
+"Am7""Am7/G" c3 c/B/ |"Fmaj7" A c"Fdim7" B A |"Em7""Dm7" G3"G7" A | %13
+w: world I *|rest me in the|thought of|
+w: world He *|shines in all that's|fair In|
+w: world The *|bat- le is not|done Je-|
+"C" G"C#dim7" E"Dm7" E"G7" D/C/ |"E7" E D"Am7" C G, |"Dm7" C/D/E/F/"G7b9" G D/E/ |"C" C3 |] %17
+w: rocks and trees and *|skies and seas His|hand * the * won- ders *|wrought.|
+w: the rust- ling grass I|hear Him pass He|speaks * to * me ev- ery-|where|
+w: sus who died shall be|sat- is- fied And|earth * and * heaven be *|one.|
+

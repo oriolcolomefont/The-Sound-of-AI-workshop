@@ -1,0 +1,30 @@
+X:1
+T:Will You Still Be Mine
+T:Will You Still Be Mine
+C:Matt Dennis
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" z D E D |"Bdim7" G F E D |"Cm7" F4- |"F7" F4 |"Bb" z D E D |"Bdim7" G F E D |"Cm7" F4- | %7
+w: When lov- ers|make no ren- dez-|vous|_|to stroll a-|long Fifth Av- en|ue.|
+"F7" F4 |"Gm" z B c B |"Gm/F#" d c"Gm7/F" B d |"Gm9/C" A4- |"C9" A4 |"Cm7b5" z _A2 _G | %13
+w: _|When this fam-|il- iar world is|thru,|_|will you|
+"F+7" _A2"F7b9" _G F- |"Bb6""Bdim7" F4- |"Cm7" F3"F7" z |"Bb" z D E D |"Bdim7" G F E D |"Cm7" F4- | %19
+w: still be mine?|_||When cabs don't|drive a- round the|park,|
+"F7" F4 |"D7" z D ^F F |"D9" A A"D7b9" c c |"Gm7" B4- | B4 |"Gm" z B c B |"Gm/F#" d c"Gm7/F" B d | %26
+w: _|no win- dows|light the sum- mer|dark.|_|When love has|lost it's sec- ret|
+"C13" A4- |"Gm7""C13" A4 |"Cm7b5" z _A2 _G |"F+7" _A2 _G"Fm7" F- | F4 |"Bb7" z B"Bb+7" c ^c | %32
+w: spark,|_|will you|still be mine?|_|When moon- light|
+"Ebmaj7" d2 f"Eb6" e- | e d B G |"Ab9" _G2 d2- | d4 |"Bb6" z B B B |"Gm" B B A G |"Gb7" d2 d2 | %39
+w: on the Hud-|* son's not ro-|man- cy|_|and spring no|long- er turns a|young man's|
+"Cm7" B"F7" c3 |"Bb" z D E D |"Bdim7" G F E D |"Cm7" F4- |"F7" F4 |"^Bn" z D E D |"Bdim7" G F E D | %46
+w: fan- cy.|When glam- or|girls have lost their|charm|_|when sir- ens|just mean false a-|
+"Cm7" F4- |"F7" F4 |"Gm" z B c B |"Gm/F#" d c"Gm7/F" B d |"Gm7/C" A4- |"C13" A2 G B |"Cm9" d4 | %53
+w: larms.|_|When lov- ers|heed no call to|arms,|_ will you|still|
+"B7#9" d4 |"Bb6" B4- | B3 z |] %56
+w: be|mine?|_|
+

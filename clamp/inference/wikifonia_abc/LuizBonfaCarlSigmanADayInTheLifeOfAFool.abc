@@ -1,0 +1,28 @@
+X:1
+T:A Day In The Life Of A Fool
+T:A Day In The Life Of A Fool
+C:Luiz Bonfa
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z2 z E |"Am" c2- (3c B A |"Bm7b5" A2- (3A"E7b9" ^G B |"Am" E4- |"Bm7b5" E2"E7b9" z E | %5
+w: A|Day * In The|Life * Of A|Fool.|* A|
+"Am" c2- (3c B A |"Dm7" A2- (3A"G7" G B |"Cmaj7" E4- |"Em7b5" _E2 z/"A7b9" =E/F/G/ | %9
+w: sad * and a|long * lon- ly|day.|* I'll walk the|
+"Dm7" A3/2 D/ D2- |"G7" D2 z/ D/E/F/ |"Cmaj7" G3/2 C/ C2- |"Fmaj7" C2 z/ C/D/E/ | %13
+w: av en ue|* and hope I'll|run in- to|* the wel- come|
+"Bm7b5" F3/2 B,/ B,2- |"E7b9" B,2 (3B, C D |"Am" E4- |"Bm7b5" E2 z"E7b9" E |"Am" c2- (3c B A | %18
+w: sight of you|* com- ing my|way.|* I|stop * just a-|
+"Bm7b5" A2- (3A"E7b5" ^G B |"Am" E4- |"Bm7b5" E2"E7b9" z E |"Em7b5" _B2- (3B A G | %22
+w: cross * from your|door|* but|you're * nev- er|
+"A7b9" G2- (3G F E |"Dm""A7" A4- |"Dm" A4 | z D (3D E F |"Bm7b5" B4 |"Am" z C"Am/G" (3C D E | %28
+w: home * an- y|more.||So back to my|room|and there in the|
+"Fmaj7" A3 G |"Bm7b5" E4- |"E7" E2 (3E ^G B |"Am""Dm7" A4- |"Am" A2 (3z A B | %33
+w: gloom I|cry|* tears of good-|bye|* 'Till you|
+"Dm7" (3c d c"Am7" (3B A B |"Dm7" (3c d c"Am7" (3B A B |"Dm7" (3c d c"Em7" (3B A G |"Am6" A4 |] %37
+w: come back to me, thats the|way it will be ev- ry|day in the life of a|fool.|
+

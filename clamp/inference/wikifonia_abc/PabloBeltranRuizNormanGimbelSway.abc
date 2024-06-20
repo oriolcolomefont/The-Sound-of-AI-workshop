@@ -1,0 +1,40 @@
+X:1
+T:Sway
+T:Sway
+T:Pablo Beltran Ruiz
+T:Norman Gimbel
+C:Pablo Beltran Ruiz
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 52
+V:1
+ z A2 F AFAF ||"Em7b5" B2 A"A7" G4 z |"Em7b5" B2 A"A7" G4 z |"Dm" A2 G F4 z | z F2 D FDFD | %5
+w: When ma- rim- ba rhy- thms|start to play,|dance with me,|make me sway.|Like a la- zy o- cean|
+"Em7b5" G2 F"A7" E4 z |"Em7b5" G2 F"A7" E4 z |"Dm" F2 E D4 z | z A2 A AAAA |"Em7b5" B2 A"A7" G4 z | %10
+w: hugs the shore,|hold me close,|sway me more.|Like a flo- wer ben- ding|in the breeze,|
+"Em7b5" B2 A"A7" G4 z |"Dm" (3z2 A2 G2 F4 | z2 FD FDFD |"Em7b5" G2 F"A7" E4 z | %14
+w: bend with me,|sway with ease;|when we dance you have a|way with me|
+"Em7b5" G2 F"A7" E4 z |"Dm" F2 E D4 z || z2 DE (3F2 E2 D2 ||"C7" (3E2 E2 F2 G4- | %18
+w: stay with me,|sway with me.|All the dan- cers may|be on the floor,|
+ (3G2 E2 F2 (3G2 A2 B2 |"Fmaj7" (3c2 c2 A2 c4 | (3z2 A2 B2 (3c2 B2 A2 |"A7" (3^c2 c2 A2 c4 | %22
+w: * dear, but my eyes will|see on- ly you,|on- ly you have that|ma- gic tech- nique:|
+ (3z2 A2 =B2 (3^c2 B2 A2 |"Em7b5" d8 ||"A7" z A2 A AAAA |"Em7b5" B2 A"A7" G4 z | %26
+w: When we sway I go|week!|I can hear the sound of|vi- o- lins|
+"Em7b5" B2 A"A7" G4 z |"Dm" A2 G F4 z | z F2 D FDFD |"Em7b5" G2 F"A7" E4 z | %30
+w: long be- fore|it be- gins|Make me thrill as on- ly|you know how,|
+"Em7b5" (3z2 G2 F2"A7" E4 |"Dm" F2 E D4 z | z2 DE (3F2 E2 D2 |"C7" (3E2 E2 F2 G4- | %34
+w: sway me smooth,|sway me now.|All the dan- cers may|be on the floor,|
+ (3G2 E2 F2 (3G2 A2 B2 |"Fmaj7" (3c2 c2 A2 c4 | (3z2 f2 f2 (3f2 e2 d2 |"A7" (3^c2 c2 A2 c4 | %38
+w: * dear, but my eyes will|see on- ly you,|on- ly * * *|ma- gic tech- nique:|
+ (3z2 A2 =B2 (3^c2 B2 A2 |"Em7b5" d8 |"A7" z A2 A AAAA |"^N.C." B2 A G4 z | B2 A G4 z | A2 G F4 z | %44
+w: When we sway I go|week!|I can hear the sound of|vi- o- lins|long be- fore|it be- gins|
+ z F2 F FFFA | G F2 E4 z | (3z2 G2 F2 E4 | (3z2 F2 E2 D4 | z A2 A AAAA |"Em7b5" B2 A"A7" G4 z | %50
+w: Make me thrill as on- ly|you know how,|sway me smooth,|sway me now.|When ma- rim- ba rhy- thms|start to play,|
+"Em7b5" B2 A"A7" G4 z |"Dm" A d2 A4 z | z2 AA defd |"Gm" d2 A G4 z |"Em7b5" (3z2 G2 F2"A7" E4 | %55
+w: dance with me,|make me sway,|like a la- zy o- cean|hugs the shore|hold me close,|
+"Dm" F2 E D4 z |] %56
+w: sway me more.|
+

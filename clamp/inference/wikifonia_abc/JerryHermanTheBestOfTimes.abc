@@ -1,0 +1,41 @@
+X:1
+T:The Best Of Times
+T:The best of times
+T:(from la cage aux folles)
+T:Jerry Herman
+C:Jerry Herman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^N.C." z2 A2 |:"F" G2 F2 |"Gm" F2 E G- | G4 | z D E F |"C7" G F E D |"F" B,2 C A- | A4 | %8
+w: |best of|times is now||Whats left of|sum- mer but a|fad- ed rose?||
+w: |hold this|mo- ment- fast||and live and|love as hard as|you know how||
+"D7" z2"Gm" c2 | _B2 A2 | A2 G _B- | _B4 |"Gm7" z G"^ToCoda" A _B |"C7" c _B A G |1"F" A3 G || %15
+w: the|best of|times is now||as for to-|mor- row well, who|knows? who|
+w: and|make this|mo- ment last||be- cause the|bestof times is *||
+ A3 G |1 A z A2 :|2"F" F3 E ||"Bb" F3 E |"F" F4- | F4 |"Bb" d4- | d4- | d2 z d |"C7" ^F G A _B | %25
+w: knows? who|knows? so|now is|now is|now||Now||* not|some for- got- ten|
+w: ||||||||||
+"Am" c3/2 c/ c2- | c4- |"Am7" c4- | c2 z2 |"Dm" A4- | A4- |"Dm7" A2 z A |"G7" ^C D E F | %33
+w: yes- ter- day||||now||* to|mor- row is too|
+w: ||||||||
+"Gm" G3"^D.S.alCoda" G |"Eb" G4- |"C7" G2"F" A2 ||"C7" c _B"^Coda" A E |"F" F3 E |"Bb" F3 E | %39
+w: far a-|way|* so|best of times is|now is|now is|
+w: ||||||
+"F" F z z2 |"Am7" z4 |"Eb" z2"G" B2 |:"D" A2 G2 |"Am7" G2 ^F A- | A4 |"D7" z E ^F G | A G ^F E | %47
+w: now||the|best of|times is now||whats left of|sum- mer but a|
+w: ||||||||
+"F#" ^C2 D B- |"G" B2 z2 | z2 d2 |"E7" c2 B2 |"Am7" B2 A c- | c4 | z A B c |1"D7" d c B3/2 A/ || %55
+w: fad- ed rose||the|best of|times is now||as for to-|mor- row well who|
+w: ||||||||
+"G" B3 A | B3 A | B z B2 :|2"D7" d c B ^F ||"G" G3 ^F |"C" G3 A |"G" B3 G |"C" B3 c |"Bb" d4- | %64
+w: knows? who|knows, who|knows *|best of times is|now is|now is|now is|now is|now.|
+w: |||||||||
+"Ab" d4- |"G" d4- | d z z2 |] %67
+w: |||
+w: |||
+

@@ -1,0 +1,27 @@
+X:1
+T:O SOLE MIO
+T: Laukens Music Productions  
+T:Bolero
+T:O SOLE MIO
+T:Arr. H. Laukens
+C:Giovanni Capurro
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:4/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"E" [df]2 [ce]2 | [df]3/2 [ce]/ [df] [ce] |"A" [Bd]2 [Ac]2 | [Bd]3/2 [Ac]/ [Bd] [Ac] | %4
+"B7" [DB]2 [CA]2 | [DB]3/2 [CA]/ [B,G] [A,F] |"E" [G,E]4 | z [GB] [FA] [EG] |:"E" [DF]2 [CE]2- | %9
+ [CE] [CE]/[DF]/ [EG] [CE] |"A" [B,D]2 [A,C]2- | [A,C] [B,D] [CE] [DF] | [B,D]2 [A,C]2- | %13
+ [A,C] [B,D] [CE] [DF] |"E" [A,C]2 [G,B,]2- | [G,B,] [GB] [FA] [EG] | [DF]2 [CE]2- | %17
+ [CE] [CE]/[DF]/ [EG] [CE] |"A" [B,D]2 [A,C]2- | [A,C] [FA] [EG] [DF] | [GB] [EG] [DF] [CE] | %21
+"B7" [DF]3 [EG] |"E" (3[DF]/[EG]/[DF]/ [B,E]3- | [B,E] e eS d || B2 B2- | B d d c |"B7" A4- | %27
+ A d d c | A2 A2- | A F G A |"E" B4- | B3 B |"Am" =c2 c2- | c A e =c |"E" B4- | B G F E | %36
+"B7" B2O B2- || B3 G |"E" F3 E |"E" E4- |1 E [GB] [FA] [EG] :|2 (E) e e dS ||O (B3) B | g4- | %44
+ g2 f2 |"E" e4- | e3 z |] %47
+

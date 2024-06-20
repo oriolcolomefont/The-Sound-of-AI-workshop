@@ -1,0 +1,40 @@
+X:1
+T:The Greatest Gift of All
+T:The Greatest Gift Of All
+C:John Jarvis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"G" z2 dd"D/F#" d3 c |"G" B/A/G- G2 z4 |"C" z GGG/F/-"D/C" F/E/D-"C"DE |"G" D4 z4 | %4
+w: Dawn is slow- ly|break- * ing, _|our friends have all _ _ _ _ gone|home.|
+ z2 de"D/F#" d3 c |"Em" B/A/G- G2 z4 |"A7" z EGG A3 B |"D" A4 z4 |"G" z2 de"D/F#" d3 c | %9
+w: You and I are|wait- * ing _|for San- ta Clause to|come.|There's a pres- ent|
+"G" B/A/G-GG"G7" B2 z2 |"C" z2 GG"D/C" F3"C" E |"G" D4 z4 |"D" z2 AA"D/C" B3 c | %13
+w: by _ _ _ the tree,|stock- ings on the|wall.|Know- ing you're in|
+"G/B" d3 e"C" G2 z G/E/ |"G/D" D2 G2"D" A3 B/A/ |"G" G4"C/G" z4 |"G" z4"F/A""G/B" z4 | %17
+w: love with me is the|great- est gift of _|all.||
+[K:C]"C" z GGA"G/B" G3 F |"C" E/D/C- C/D/E"C7" z4 |"F" z2 CC"G/F" B,3"F" A, |"C" G,4 z4 | %21
+w: The fire is slow- ly|fad- * ing, _ _ _|chill is in the|air.|
+ z2 GA"G/B" G3 F |"Am" E/D/C- C/D/E z4 |"D7" z CCC D2 E/D/C |"G" D4"F/A""G/B" z4 | %25
+w: All the gifts are|wait- * ing _ _ _|for chil- dren ev 'ry- * *|where.|
+"C" z2 GA"G/B" G3 F |"C" E/D/C-CD"C7" EG z2 |"F" z2 CC"G/F" B,3"F" A, |"C" G,4 z4 | %29
+w: Through the win- dow|I _ _ _ can see _|snow be- gin to|fall.|
+"G" z2 DD"G/F" E2 AG |"C/E" G3 A"F" E/D/C z C/A,/ |"C/G" G,2 C2"G" D2 E/D/C |"C" C4 z4 | %33
+w: Know- ing you're in _|love with me _ _ is the|great- est gift of _ _|all.|
+"A" z4"G/B""A7/C#" z4 |[K:D]"D" z2 AB"A7/C#" A3 G |"D" F3 E D/E/ F3 |"G" z DDD"A/G" C2"G" B,2 | %37
+w: |Just be- fore I|go to sleep _ _|I hear a church bell|
+"D" A,4 z4 | z2 AB"A/C#" A3 G |"Bm" F3 E D/E/ F3 |"E7" z2 DD E2 F/E/D |"A" E4"G/B""A7/C#" z4 | %42
+w: ring.|Mer- ry Christ- mas|ev- 'ry- one _ _|is the song it _ _|sings.|
+"D" z2 AB"A/C#" A3 G |"D" F3 E D/E/ F3 |"G" z DDD"A/G" C2"G" B,2 |"D" A,4 z4 | %46
+w: So I say a|si- lent pray er _|for crea- tures great and|small.|
+"A" z2 EE"A/G" F2 BA |"D/F#" A3 F"G" D2 z D/B,/ |"D/A" A,2 D2"A7" E3 F/D/ |"D" D4 z4 | %50
+w: Peace on earth, good _|will to men is the|great- est gift of _|all.|
+"A" z2 EE"A/G" F2 BA |"D/F#" A3 F"G" D2 z D/B,/ |"D/A" A,2 D2"A" E4 |[M:2/4] z2 F/E/D | %54
+w: Peace on earth, good _|will to men is the|great- est gift|of _ _|
+[M:4/4]"D" E D3- D4- |"G" D4"Em/A" z4 |"D" D8 |] %57
+w: all _ _|_||
+

@@ -1,0 +1,62 @@
+X:1
+T:Waiting For a Girl Like You
+C:Lou Gramm and Mick Jones
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Melody" snm="Melody"
+%%MIDI channel 8
+%%MIDI program 0
+V:1
+"Amin" c'2 b2 a2 g2 |"G " a2 g2 ec d2 |"Amin" c'2 b2 a2 g2 |"G " a2 g2 ec d2 |"Amin" c8 | %5
+w: ||||So|
+"G " (3BAG- G2 z A B2 |"Amin" cB AA- AG A2 |"G " BB- BB AG- G2 |"Amin" cB AA- AG- G2 | %9
+w: lo- n\- g, * I've been|look- ing too hard, * I've been|wait- ing * too lo- ng. *|Some- times I don't * know *|
+"G " BB AA G4 |"Amin" cB AA- AG A2 |"G " BB AA G2- GA/G/ |"Emin7" B2 EE- E2 z2 |"D " z4 z2 z A/G/ | %14
+w: what I will fi- nd,|I on- ly know * it's a|mat- ter of ti- me. * When you|love some- one, *|when you|
+"Emin7" B2 EE- E2 z2 |"D " z4 z2 z A |"Emin7" B2 AA G2 z G |"D " A2 GA- A2 z2 | %18
+w: love some- one. *|It|feels so ri- ght so|warm and true, *|
+"Emin7" BA GG- GE G2 |"D " A2 AB-"E7" B2 z2 |"Fmaj9" z4 ed cd- |"G " d4 z2 cd | %22
+w: I need to know * if you|feel it too. *|May- be I'm wrong.|* Won't you|
+"Fmaj9" ef ed- d2 dc |"G " d2 d2 ed z d |"Fmaj9" e2 dc- c2 cc |"G " d2 cB- B2 z2 | %26
+w: tell me if i'm * com- ing|on too str- ong? This|heart of mine * has been|hurt be- fore; *|
+"Fmaj9" ed- dc cd ed- |"G " d4 z g a2 |"Dmin" c'a- a4 gf |"Gmin" g2 fd- d2 z d | %30
+w: this time * I wan- na be sure.|* I've been|wait- ing * for a|girl like you * to|
+"Bb " ff- fg- g2 d2 |"Dmin" d4"C " z2 ga |"Dmin" c'a- a4 gf |"Gmin" g2 fd- d2 z d | %34
+w: come in- * to * my|life. I've been|wait- ing * for a|girl like you, * a|
+"Bb " ff- fg- g2 dd |"Gmin" c4 z g a2 |"Dmin" c'a- a4 z f |"Gmin" gg- gf d2 z d | %38
+w: love that * will * sur- vi-|ve. I've been|wait- ing * for|some- one * ne- w to|
+"Bb " fa- a2 g2- gd |"Dmin" d4"C " z2 a2 |"Dmin" c'a- a2 z2 gf |"Gmin" g2 fd- d2 z d | %42
+w: make me * feel * a\-|live. Yeah,|wait- ing * for a|girl like you * to|
+"Bb " ff- fg- g2 d2 |"Gmin" dc- c6 |"Amin" c'2 b2 a2 g2 |"G " a2 g2 ec d2 |"Amin" c'2 b2 a2 g2 | %47
+w: come in- * to * my|li- fe. *||||
+"Fmaj9" a2 g2 ec d2 |"Amin" z2 A2 c4 |"G " B/A/G- G2 z2 z G |"Amin" cB- BA- A2 G2 | %51
+w: |You're so|g\- o\- od * when|we make * love * it's|
+"G " B2 B2 AG- GG |"Amin" c2- cB/A/ A2 z G/A/ |"G " B2 BA/G/- G2 z2 |"Amin" cB AA- A2 z G | %55
+w: un- der- sto- od, * it's|more * than a touch or a|word we sa- y. *|On- ly in dreams * could|
+"G " B2 BA/G/- G2 z2 |"Emin7" z G/A/ B2 EE- E2 |"D " z2 z D2 z2 A/G/ |"Emin7" B2 EE- E2 z2 | %59
+w: it be this way. *|When you love some- one, *|yeah, when you|love some- one. *|
+"D ""E7" z8 |"Fmaj9" z2 de- e2 dc |"G " d2 z4 cd |"Fmaj9" ef ee d2 z c |"G " dd ce d2 z c | %64
+w: |Now I * know it's|right from the|mo- ment I wake up till|deep in the ni- ght, there's|
+"Fmaj9" ed cc- cA cd- |"G " d2 ce/d/- d2 z c |"Fmaj9" d/c/e d/e/- e2 z AG |"G " AG- G2 z2 ga | %68
+w: no- where on earth * that I'd ra-|* ther b\- e * than|hold- ing yo- u\- u * ten- der-|l\- y. * I've been|
+"Dmin" c'a- a4 gf |"Gmin" g2 fd- d2 z d |"Bb " ff- fg- g2 d2 |"Dmin" d4"C " z2 ga | %72
+w: wait- ing * for a|girl like you * to|come in- * to * my|life. I've been|
+"Dmin" c'a- a4 gf |"Gmin" g2 fd- d2 z d |"Bb " ff- fg- g2 dd |"Gmin" c4 z g a2 | %76
+w: wait- ing * for a|girl like you, * a|love that * will * sur- vi-|ve. I've been|
+"Dmin" c'a- a4 z f |"Gmin" gg- gf d2 z d |"Bb " fa- a2 g2- gd |"Gmin" d4 z2 a2 | %80
+w: wait- ing * for|some- one * ne- w to|make me * feel * a\-|live. Yeah,|
+"Dmin" c'a- a2 z2 gf |"Gmin" g2 fd- d2 z d |"Bb " ff- fg- g2 d2 |"Gmin" dc- c6 | %84
+w: wait- ing * for a|girl like you * to|come in- * to * my|li- fe. *|
+"Amin" c'2 b2 a2 g2 |"G " a2 g2 ec d2 |"Amin" c'2 b2 a2 g2 |"G " a2 g2 e2 d2 |"Amin" de- e6 | %89
+w: |||* * I've been|wait- ing, *|
+"Fmaj9" a2 g2 eg e2 |"Amin" ag- ga/g/ e4 |"G " a2 g2 ec d2 |"Amin" c'2 b2 a2 g2 |"G " a2 g2 e2 d2 | %94
+w: * * wait- ing for|you. oo- * oo- oo- oo|||* * I've been|
+"Amin" de- e6 |"G " a2 g2 ec d2 |"Amin" c'2 b2 a2 g2 |"G " a2 g2 e2 d2 |"Amin" de- e6 | %99
+w: wait- ing, *|||* * I've been|wait- ing, *|
+"G " a2 g2 ec d2 |"Amin" c'2 b2 a2 g2 |"G " a2 g2 e2 d2 |"Amin" de- e6 |"Fmaj9" a2 g2 eg e2 | %104
+w: ||* * I've been|wait- ing, *|* * wait- ing for|
+"Amin" ag- ga/g/ e4 |"G " a2 g2 ec d2 |"Amin" A8- | A8 |] %108
+w: you. oo- * oo- oo- oo||||
+

@@ -1,0 +1,30 @@
+X:1
+T:Cocktails For Two
+T:Coctails For Two
+C:Sam Coslow
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"G7""^Moderately slow and expressively" z"^N.C." CEG ^GBA>E |"C""B7" A8- | %2
+w: In some se- clud- ed ren- de-|vous,|
+"C6" A"^N.C."CEG ^GBA>E |"G7""G#dim7" G8- |"G7" GDFA ced>c |"Dm7" A3 c"G7" B3 F | %6
+w: _ that o- ver- looks the av- en-|ue,|_ with some- one shar- ing a de-|light- ful chat of|
+"Dm7" A3 c"G7" B3 G |"Cmaj7" BGGG-"Cm6" G4 |"G7" z"^N.C." CEG ^GBA>E |"C6""B7" A8- | %10
+w: this and that and|cock- tails for two. _|As we en- joy a cig- ar-|ette|
+"C6" A"^N.C."CEG ^GBA>E |"G7""G#dim7" G8- |"G7" G"^N.C."DFA ced>c |"Dm7" A3 c"G7" B3 F | %14
+w: _ to some ex- qui- site chan- son-|nette,|_ two hands are sure to sly- ly|meet be- neath a|
+"Dm7" A3 c"G7" B3 G |"Cmaj7" BGGG-"B+7" G4 |"C7" z2 e2 (3e2 e2 e2 |"Fmaj7" e4"F6" d4 | %18
+w: ser- vi- ette with|cock- tails for two. _|My head may go|reel- ing,|
+"Fm6" z2 d^c ed=c>B |"C/E" d3 c c4 |"Ebdim7" z2 cB dcBA |"Dm7" c B3"G7" z2 B>A | %22
+w: but my hear will be o-|be- di- ent,|with in- tox- i- cat- ing|kiss- es for the|
+"G9" A3 G"G7" G3 ^F |"C6" A3 G"C#dim7" G4 |"G7/D" z"^N.C." CEG ^GBA>E |"C6""B7" A8- | %26
+w: prin- ci- pal in-|gre- di- ent.|Most an- y af- ter- noon at|five|
+"C6" A"^N.C."CEG ^GBA>E |"G7""G#dim7" G8- |"G7" G"^N.C."DFA ced>c |"Dm7" A3 c"G7" B3 F | %30
+w: _ we'll be so glad we're both a-|live.|_ Then may- be for- tune will com-|plete her plan that|
+"Dm7" A3 c"G7" B3 G |1"C7" eccc-"F6""Ab7" c4 :|2"C7" eccc-"C" c4 |] %33
+w: all be- gan with|cock- tails for two. _|cock- tails for two. _|
+

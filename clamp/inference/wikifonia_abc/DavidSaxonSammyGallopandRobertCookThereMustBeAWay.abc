@@ -1,0 +1,40 @@
+X:1
+T:There Must Be A Way
+C:David Saxon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="tk4" snm="tk4"
+%%MIDI channel 4
+%%MIDI program 66
+V:1
+"Gmaj7" (3G2 A2 G2 F4 |"A7" (3A2 B2 A2 G4 |"Cmaj7" (3B2 c2 B2 A2 G2 |"D7" d8- | d4 z2 D2 | %5
+w: ||||* There|
+"G " G>A- AG"Gmaj7" F3 E |"G " G>A- AG"Gmaj7" (3F2 E2 G2 |"C " C8- |"Amin" C4 z2 D2 | %9
+w: must be * a way to|help me * for- get that we're|through.|* There|
+"Bmin" (3F2 G2 F2"Amin" E3 D |"Bmin" (3:2:2F2 G- GF"Amin" ED F2 |"E " B,8- |"G " B,4 z2 z D | %13
+w: must be a way to|stop me * from drea- ming of|you.|* There|
+ B>B- BB (3B2 A2 B2 |"Bmin7" A6 z E |"C " G>F- F^E (3F2 G2 A2 |"D " F6 z D | %17
+w: must be * a star in the|skies that|i\- sn't * re- flec- ting your|eyes. I|
+"Amin" A>A- AA (3A2 G2 A2 |"C " G6 F2 |"Bmin7" F6 E2 |"Amin" E4"Bmin" F2 z D | %21
+w: just don't * know how to dis-|guise how|much I|miss you. There|
+"G " (3G2 A2 G2"Gmaj7" F3 E |"G " G>A- AG"Gmaj7" (3F2 E2 G2 |"C " C8- |"Amin" C4 z2 z D | %25
+w: must be a song that|doe- sn't * re- mind me of|you.|* There|
+"Bmin" F2 (3GFE-"Amin" E3 D |"Bmin" (3F2 G2 F2"Amin" E2- (3EDF |"E " B,8 |"E7" z4 z2 B,2 | %29
+w: must be a kiss * to|thrill me like yours * used to|do.|I|
+"Amin" (3D2 E2 D2"F " =F2- (3F_B,=B, |"E " =FE- E4 z2 |"B7" B>B- BB B2- (3BAB |"A " A6(3zEF | %33
+w: look for a way * to be|hap- py, *|hap- py * with some- * bo- dy|new. Oh, there|
+"C " G>G- GG"Amin7" G2- (3GEG |"Emin" BB- BB"D7" B2 D<E |"G " G8- |[K:Ab]"Eb7" G4 z2 z E | %37
+w: must be * a way * but I|can't find * the way with- out|you.|* There|
+"Ab " (3c2 B2 A2"Abmaj7" G3 F |"Ab " A>B- BA"Abmaj7" (3G2 F2 A2 |"Db " D8 |"Bbmin" z4 z2 z E | %41
+w: must be a way to|help me * for- get that we're|through.|There|
+"Cmin7" (3G2 A2 G2"Bbmin" F3 E |"Cmin7" G>A- AG"Bbmin" (3F2 E2 G2 |"F " C8 |"F7" z4 z2 z C | %45
+w: must be a song that|doe- sn't * re- mind me of|you.|I|
+"Ebmin" (3E2 F2 E2"Gb " _G2- (3G_C=C |"F " _GF- F4 z2 |"C " c>c- cc c2- (3cBc |"Bb " B6(3zFG | %49
+w: look for a way * to be|hap- py, *|hap- py * with some- * bo- dy|new. Oh, there|
+"Db " A2 (3AAA-"Bbmin7" A2- (3AFA |"Fmin" cc- cc c4- | c4"Eb7" Ec- c2 |"Ab " A8- | A4"Eb7" z2 z E | %54
+w: must be a way * * but I|can't find * the way|* with- out *|you.||
+"Ab " (3A2 B2 A2 G4- |"Abmaj7" G8 |] %56
+w: ||
+

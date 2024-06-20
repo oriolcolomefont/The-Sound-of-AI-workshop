@@ -1,0 +1,43 @@
+X:1
+T:Midnight Train to Georgia
+T:Midnight Train to Georgia
+T:Jim Weatherly
+T:Jim Weatherly
+T:All Rights Reserved
+C:Jim Weatherly
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb" E E3"Gm7" z4 |"Ab""Bb" z6 E>F |"Eb" G3 E"Gm7" E(C B,2-) |"Ab" B,2"Bb" z4 EF | %4
+w: L. A.|proved to|much for the girl *|* So she's|
+"Eb" G"Ebmaj7" B3 z4 |"Cm" z2 z E"F#dim" G>GGE |"Fm7" F4 z4 |"Bb" z4 z EEF |"Eb" G>B"Gm7" B4 z2 | %9
+w: leav- in'|the life she's come to|know.|She's go in'|back to find|
+"Ab" z4"Bb" G3 G |"Eb" G>EE(C"Gm7" B,4) |"Ab" z4"Bb" z EEF |"Eb" G>B"Ebmaj7" B2 z4 | %13
+w: ooo what's|left in her world. *|The world she|left be- hind|
+"Cm" z4 G>G"F#dim"BB |"Fm7" (G F3) z4 |S"Bb" z4 z z e2 |"Eb" c B2 z"Gm7" z2 z2 | %17
+w: not so long a-|go. *|She's|leav- in'|
+"Ab" z2 A>A"Bb" AGFE |"Eb" G B3"Gm7" z4 |"Ab" z4"Bb" z2 E2 |"Eb" GB B2"Ebmaj7" z4 | %21
+w: On that mid- night train to|Geor- gia|She's|go- in' back|
+"Cm" z2 GA"F#dim" B>BAG |"Fm7" F4 z4 |"Bb" z2 z B e3 e |"Eb" c B3"Gm7" z4 |"Ab" z2 A>A"Bb" AGFE | %26
+w: to a sim- pler place and|time.|And I'll be|with her|On that mid- night train to|
+"Eb" G B3"Gm7" z4 |"Ab" z4"Bb" z2 E/E/F |"Eb" GAB"Cm" E4 z |"Fm7" z E E/F/"Bb7"G E3 E | %30
+w: Geor- gia|I'd ra- ther|live in her world|than be with- out her in|
+"Eb" E8!dacoda! | z4 z2 EF |"Eb" G B3"Gm7" z4 |"Ab" z2 EF"Bb" G2 EE/E/ |"Eb" B,4"Gm7" z4 | %35
+w: mine.|She kept|dream- in'|that some- day she'd be a|star.|
+"Ab" z4"Bb" z EFG/G/ |"Eb" BB B2"Ebmaj7" z4 |"Cm" z4"F#dim" z2 cc |"Fm7" c2 BB"Bb" B2 z2 | %39
+w: But she found out|the hard way.|That some|dreams don't come true.|
+ z4 z2 ee |"Eb" c2 BB"Gm7" B2 z2 |"Ab" z4"Bb" z2 cc |"Eb" c2 BB"Gm7" B2 z2 |"Ab" z4"Bb" z2 EF | %44
+w: So she|pawned all her hopes,|Ev- en|sold her old car;|Bought a|
+"Eb" GB B<G"Eb" B2 z2 |"Cm" z4"F#dim" z2 cc |"Fm7" cBBB B2 z2!D.S.! |O"Bb7" z2 z B e3 e | %48
+w: one- way tic- ket back|To the|life that she once knew.|And I'll be|
+"Eb" c B3"Gm7" z4 |"Ab" z2 A>A"Bb" AGFE |"Eb" G B3"Gm7" z4 |"Ab" z4 z2"Bb" E/E/F | %52
+w: with her|On that mid- night train to|Geor- gia|I'd ra- ther|
+"Eb" GAG"Ebmaj7" E4 z |"Fm7" z E E/F/G"Bb" E3 E |"Eb" E8 |] %55
+w: live in her world|than be with- out her in|mine.|
+

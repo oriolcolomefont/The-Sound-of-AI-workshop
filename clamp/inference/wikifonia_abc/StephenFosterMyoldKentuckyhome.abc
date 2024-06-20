@@ -1,0 +1,25 @@
+X:1
+T:My old Kentucky home
+T:My old Kentucky home
+T:unknown
+C:Stephen Foster
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 z2"D" F2 |: F2 F2 D2 EF |"G" GFGB"D" A3 G | FE z D"D7" DC z D |"A" E6"A7" E2 |"D" F2 F2 D2 EF | %6
+w: The|sun shines bright in the|old Len- tuck- y home tis|sum- mer the dark- ies ~~are|gay. the|corn- tops ripe and the|
+w: |young folks roll on the|little cab- in floor all mer-|ry and hap- py and bright|* By'n|by hard times come a|
+"G" GFGB"D" A2 DE |1 F2 F2"A" EDFE ||"D" D6 F2 :|2 FDGF"A7" E3 C ||"D" D6 z2 | %11
+w: mead- ows in the bloom while the|birds make mu- sic all the|day. the|||
+w: knock- ing at the door then my|||old Ken- tuck- y home good|night|
+"^Chorus" A3 F"G" G3 B |"D" A2 F4"F#m" E2 |"Bm" D3 E"G" D3 B, |"D" D6 DE |"D" F2 F2"D7" D2 EF | %16
+w: |||||
+w: weep no more, my|la- dy o|weep no more to-|day we will|sing one song for the|
+"G" GFGB"D" A2 DE | FDGF"A7" E2 EC |"D" D6 z2 |] %19
+w: |||
+w: old Ken- tuck- y home for the|old Ken- tuck- y home far a-|way.-|
+

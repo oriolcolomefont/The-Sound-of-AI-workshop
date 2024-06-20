@@ -1,0 +1,21 @@
+X:1
+T:(The Gang That Sang) Heart Of My Heart
+T:Heart of my heart
+T:Ben Ryan
+C:Ben Ryan 1926
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" F2 E F | C2 D2 |"C7" F E E ^D | E4 | G2 ^F G | C2 G2 |"F" G F F G | A4 |"D7" D ^F2 A | c B2 A | %10
+w: Heart of my|heart I|love that mel- o-|dy|heart of my|heart brings|back a mem- or-|y|when we were|kids on the|
+"Gm" A D D/ D3/2 | D4 |"G7" G ^F =F E | D E F3/2 A/ |"C7" c =B _B ^F | A G E2 |"F" F2 E F | C2 D2 | %18
+w: cor- ner of the|street|we were rough and|ready guys but oh|how we could har-|mon- ize *|heart of my|heart meant|
+"C7" F E E ^D | E4 | G2 ^F G | C2 B2 |"A7" A4- | A3 A |"D7" A B =B c | B A2 D |"G7" G F E F | %27
+w: friends were dear er|then|Too bad we|had to|part|* I|know a tear would|glis- ten if|once more I could|
+ E D3 |"Gm" G ^F G D |"C7" F E D E |"F" F4- | F3 z :| %32
+w: lis- ten|to that gang that|sang heart of my|heart.||
+

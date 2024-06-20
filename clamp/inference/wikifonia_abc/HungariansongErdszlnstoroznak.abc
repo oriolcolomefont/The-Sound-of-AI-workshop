@@ -1,0 +1,15 @@
+X:1
+T:Erdő szélén sátoroznak
+C:Hungarian song
+Z:Public Domain
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Cm" E3 E D2 C2 | E E3 D2 C2 |"G" G G3 A2 F2 |"Cm" G4 G2 z2 |"Fm" c c3 B2 A2 |"Cm" G G3 F2 EF | %6
+w: Er- dő- szé- len|sá- to- roz- nak|az o- láj ci-|gá- nyok,|Je- ge- nye- fa|te- te- jé- ről a|
+"G" G F3 E D3 |"Cm" C4 C2 z2 |] %8
+w: ri- gó fü- tyül|rá- juk.-|
+

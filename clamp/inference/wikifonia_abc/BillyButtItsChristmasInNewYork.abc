@@ -1,0 +1,51 @@
+X:1
+T:It's Christmas In New York
+T:It's Christmas In New York
+C:Billy Butt
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+|:"F" z4 (3A2 B2 c2 |"C/E" c G3- G4 |"Dm7" z4 (3F2 G2 A2 |"Am/C" A E3- E4 |"Bb" z4 (3D2 E2 F2 | %5
+w: Church- bells are|ring- ing, *|cho- irs are|sing- ing, *|joy they are|
+w: Rest- 'rant signs|sway- ing, *|blue skies are|gray- ing, *|ev- 'ry- ones|
+"F/A" F C3- C4 |"G7" z DAA G3 F |"Gm7""C7" G8 |"F" z4 (3A2 B2 c2 |"C/E" c G3- G4 | %10
+w: bring- ing, *|it's Christ- mas in New|York.|Street- lights are|pleas- ing, *|
+w: say- ing, *|it's Christ- mas in New|York.|Sky- scra- pers|gleam- ing, *|
+"Dm7" z4 (3F2 G2 A2 |"Am7" A E3- E4 |"Bb" z4 (3D2 E2 F2 |"F/C" F C3- C4 |"Gm7" z DDE"C7" A3 G | %15
+w: snow- flakes are|tea- sing, *|Cen- tral Park's|freez- ing, *|it's Christ- mas in New|
+w: Broad- way lights|beam- ing, *|child- ren are|dream- ing, *|it's Christ- mas in New|
+"F" F6 z F |"Bbm""Bbm7" _d8- |"Eb7" d2 B=c _d=d _e2 |"Abmaj7" (Bc) c6- |"Dbmaj7" c6 z c | %20
+w: York. The|stars|* in the heav- ens are|so * bright,|* they|
+w: York. The|lights|* on the Christ- mas tree|are * fine,|* the|
+"G7" =B8- | B2 =Bc ddcB |"Gm7" d4- (3d2 c2 B2 |"C7sus4""C7" c8 :|[K:Ab]"Ab" z4 (3c2 d2 e2 | %25
+w: tell|* of a bab- y that was|born * on this|night.|Stock- ings are|
+w: sights|* of the shop- ping sprees, the|gifts, * yours and|mine.||
+"Eb/G" e B3-"Edim7" B4 |"Fm7" z4 (3A2 B2 c2 |"Cm7" c G3- G4 |"Dbmaj7" z2 z F G3 A | %29
+w: fil- ling, *|cham- paigne is|chil- ling, *|it's all so|
+w: ||||
+"Ab/C" A E3- E4 |"Bb7" z Fcc B3 A |"Bbm7""Eb7" B8 |"Ab" z4 (3c2 d2 e2 |"Eb/G" e B3- B4 | %34
+w: thril- ling *|it's Christ- mas in New|York.|Log fires are|burn- ing *|
+w: |||||
+"Fm" z4 (3A2 B2 c2 |"Cm/Eb" c G3- G4 |"Db" z4 (3F2 G2 A2 |"Ab/E" A E3- E4 |"Bbm7" z FFA"Eb7" c3 B | %39
+w: San- ta's re-|turn- ing, *|fil- ling each|yearn- ing, *|it's Christ- mas in New|
+w: |||||
+"Ab" A8 |"Ab" z4 (3c2 d2 e2 |"Eb/G" e B3-"Edim7" B4 |"Fm7" z4 (3A2 B2 c2 |"Cm7" c G3- G4 | %44
+w: York|Instrumental _ _|_ _ _||Instrumental _ _|
+w: |||||
+"Dbmaj7" z2 z F G3 A |"Ab/C" A E3- E4 |"Bb7" z Fcc B3 A |"Bbm7""Eb7" B8 |"Ab" z4 (3c2 d2 e2 | %49
+w: ||||Church bells are|
+w: |||||
+"Eb/G" e B3- B4 |"Fm7" z4 (3A2 B2 c2 |"Cm7" c G3- G4 |"Dbmaj7" z4 (3F2 G2 A2 |"Ab/C" A E3- E4 | %54
+w: ring- ing, *|cho- irs are|sing- ing *|joy they are|bring- ing, *|
+w: |||||
+"Bbm7" z FFA"Eb7" c3 B |"Ab6" A8 |"Bbm7" z DFA"Eb7" c3 B |"Ab" A8 |"Bbm7" z DFA"Eb7" c2 e2 | %59
+w: it's Christ- mas in New|York.|It's Christ- mas in New|York.|It's Christ- mas in New|
+w: |||||
+"Ab" B A3- A4- | A6 z2 |] %61
+w: York. * *||
+w: ||
+

@@ -1,0 +1,72 @@
+X:1
+T:Summer Nights
+T:Summer Nights
+C:Jim Jacobs
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"D" c2 FD"G" GE z2 |"A" AFA(A-"G" A G3) |"D" z2 FD"G" GE z2 |"A" AFA(A-"G" A G3) | %4
+w: * BOY:~Sum- mer lov- in',|had me a blast. _ _|GIRL:~Sum- mer lov- in',|hap- pened so fast. _ _|
+w: * She swam by me,|she got a cramp. _ _|He ran by me,|got my suit damp. _ _|
+w: * Took her bow- ling|in the ar- cade. _ _|We went strol- ling,|drank lem- on- ade. _ _|
+"D" z2 FD"G" G2 z2 |"A" AFA"B"B- B2 z2 |"E" z2 ^GE"A" A2 z2 |"E" ^GEGA-"A" A2 z2 | %8
+w: BOY:~Met a girl,|cra- zy for me. _|GIRL:~Met a boy|cute as can be. _|
+w: Saved her life,|sher near- ly drowned. _|He showed off,|splash- ing a- round. _|
+w: We made out,|un- der the dock. _|We stayed out,|till ten o- 'clock. _|
+"D" z2 dA"G" B2 z2 |"A" ABA"B"F- F2 (BA) |1"Em7" G z EB"A" (AB)AD- | %11
+w: Sum- mer days|drift- ing a- way _ to, _|uh, oh, those sum- * mer nights.|
+w: Sum- mer sun,|some- thing's be- gun. _ But, _|uh, oh, those sum- * mer nights.|
+w: Sum- mer fling,|don't mean a thing. _ But, _|_|
+"D" D2"^No" A,"^Chord"A, B,B,CC |"D" D2 AA"G" B2 BB |"E" B2 BB"A" ABAF- |"D" F2 AA"G" B2 BB | %15
+w: _ Well- a, well- a, well- a,|uh. Tell me more. Tell me|more. Did you get ver- y far?|_ Tell me more. Tell me|
+w: _ Well- a, well- a, well- a,|uh. Tell me more. Tell me|more. Was it love at first sight?|_ Tell me more. Tell me|
+w: ||||
+"E" B2 BB"A" ABAF- |"D" F2 z2"G" z4 |"A""G" z8 :|3"Em7" G z EB"A" (AB)Ad |"Bb" d6 z2 || %20
+w: more. Like, does he have a car?|_||uh, oh, those sum _ mer nights.|_|
+w: more. Did she put up a fight?|_||||
+w: |||||
+[K:Eb]"Eb" z2 BB"Ab" c2 cc |"F" c2 cc"Bb" BcBG- |"Eb" G2 BB"Ab" c2 cc |"F" c2 cc"Bb" BcBe- || %24
+w: Tell me more, tell me|more. But you don't got to brag.|_ Tell me more, tell me|more. 'Cause he sounds like a drag.|
+w: ||||
+w: ||||
+[M:2/4]"Eb" e2"Ab" z2 ||[M:4/4]"Eb" G/G/G G2"Ab" A/A/A A2 |"Bb" B/B/B B2"Ab" A/A/A A2 || %27
+w: _|Shu- da bop bop. Shu- da bop bop.|Shu- da bop bop. Shu- da bop bop.|
+w: |||
+w: |||
+"Eb" z2 GE"Ab" AF z2 |"Bb" BGB(B-"Ab" B A3) |"Eb" z2 GE"Ab" AF z2 |"Bb" BBB(A-"Ab" AG E2) | %31
+w: GIRL:~He got friend- ly|hold- ing my hand. _ _|BOY:~She got friend- ly|down in the sand _ _ _|
+w: ||||
+w: ||||
+"Eb" z2 GE"Ab" A2 z2 |"Bb" BGBc-"C" c2 z2 |"F" z2 FF"Bb" F2 z F |"F" =AFFF-"Bb" F2 z2 | %35
+w: GIRL:~He was sweet,|just turned eight- een _|BOY:~She was good. You|know what I mean. _|
+w: ||||
+w: ||||
+"Eb" z2 eB"Ab" c2 z2 |"Bb" BdB"C"G- G2 (cB) |"Fm7" A z Fc"Bb" BcBe- | e4 z4 ||[K:E] z2 BB c2 cc | %40
+w: Sum- mer heat|boy and girl meet. _ But _|uh, oh those sum- * mer nights.|_|Tell me more. Tell me|
+w: |||||
+w: |||||
+"F#" c2 cc"B" BcBG |"E" G2 BB"A" c2 cc |"F#" c2 cc"B" Bc B2 |"E" e2 z2"A" z4 || %44
+w: more. How much dough did he spend?|_ Tell me more. Tell me|more. Could she get me a|friend?|
+w: ||||
+w: ||||
+[K:D]"D" z2 FD"G" GE z2 |"A" AFA(A-"G" A G3) |"D" z2 FD"G" GE z2 |"A" (3A2 A2 A2"G" (G E3) | %48
+w: GIRL:~It got cold- er,|that's where it ends. _ _|B0Y:~So I told her|we'd still be friends. _|
+w: ||||
+w: ||||
+"D" z2 FD"G" G2 z2 |"A" AFAB-"B" B2 z2 |"E" z2 ^GE"A" A2 z2 |"E" ^GGGA-"A" A2 z2 | %52
+w: GIRL:~Then we made|our true love vow. _|BOY:~Won- der what|she's do- in' now. _|
+w: ||||
+w: ||||
+"D" z2 dA"G" B2 z2 |"A" ABAF-"B" F2 BA |"Em7" G2 z B"A" (AB) A2 ||[M:2/4]"^N.C." (^G2 A2) || %56
+w: Sum- mer dreams|ripped at the seams. _ But, _|oh those sum- * mer|nights. *|
+w: ||||
+w: ||||
+[M:4/4]"D" z2 AA"G" B2 BB |"D" d6 z2 |] %58
+w: Tell me more. Tell me|more.|
+w: ||
+w: ||
+

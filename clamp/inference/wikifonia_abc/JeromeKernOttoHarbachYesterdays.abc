@@ -1,0 +1,22 @@
+X:1
+T:Yesterdays
+T:Yesterdays
+C:Jerome Kern
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Dm" A3 F |"Em7b5""A7b9" G4 |"Dm" A3 F |"Em7b5""A7b9" G4 |"Dm" D E"Dm/C#" F G |"Dm7/C#" ^G A =B c | %6
+w: Yes- ter-|days,|Yes- ter-|days,|days I knew as|hap- py, sweet se-|
+"Bm7b5" f3 =B |"E7b9" e4 ||"A+7" f3 A |"D9" e4 |"G13" e3 G |"C9" d4 |"F13" d3 A |"Bbmaj9" c B F G | %14
+w: ques- tered|days.|Old- en|days,|gold- en|days,|days of|mad ro- mance and|
+"E7b5" A4 |"A7b9" A2 A2 |"Dm" A3 F |"Em7b5""A7b9" G4 |"Dm" A3 F |"Em7b5""A7b9" G4 | %20
+w: love.|Then gay|youth was|mine,|truth was|mine,|
+"Dm" D E"Dm/C#" F G |"Dm7/C#" ^G A =B c |"Bbm7b5" f3 =B |"E7b9" e4 |"A+7" f3 A |"D9" e4 | %26
+w: joy- ous free and|flam- ing life, for-|sooth was|mine.|Sad am|I,|
+"G13" e3 G |"C9" d4 |"F13" d3 A |"Bbmaj9" c B F G |"Em7b5" A4 |"A7b9" A2 A2 |"Dm" A4 | %33
+w: glad am|I,|for to-|day I'm dream- ing|of|yes- ter-|days.|
+

@@ -1,0 +1,44 @@
+X:1
+T:Licorice
+C:Colbert
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 z2 B,B,CD |"Eb" z B,EB- BE B,2 |"Db9" z B,EB- BE B,2 |"Ab9" z B,EB- BE B,2 | %4
+w: ||||
+"B7" z _CEB- BE C2 |"Eb" z2 cB- B4 |"Db9" z2 FE- E4 |"Ab" z2 EE EF_GF- |"B7" FE- E6 | %9
+w: |How old _|were you _|when you knew you were dif|_ 'frent ?|
+"Eb" z EcB- B4 |"Db" z2 FF F2 _G2 |"Ab9" F2 E2 E4 |"B7" z4 z2 z E |[K:E]"E" GGGG"D/E" A2 GF- | %14
+w: And how long _|did it take to|tell some one?|At|first I did n't like the _|
+"E" FE- E2-"D/E" E3 E |"E" GGGG"D/E" A2 GF- |"Cmaj9" FE- E2- E3 E |"E" GGGG"D/E" A2- A>A | %18
+w: _ lic' _ orice it|was n't sweet and tast ed fun|_ ny _ _ but|when you learn to chew _ and|
+"E" BBBA-"D/E" A2 z A |"Cmaj9" E2 E2 E2 FF- | F=G- G6 |"Gm7/Bb" =G2 G2 G2 AA- | A^A- A6 | %23
+w: swal low it slow _ You'd|swear you'd found new hon|_ ey _|Swear you'd found new hon|_ ey _|
+[K:Eb]"Eb" z B,EB- BE B,2 |"Db9" z B,EB- BE B,2 |"Ab9" z B,EB- BE B,2 |"B7" z _CEB- BE C2 | %27
+w: ||||
+"Eb" z2 cB- B4 |"Db9" z2 FE- E4 |"Ab" z2 EE EF_GF- |"B7" FE- E6 |"Eb" z EcB- B4 | %32
+w: How old _|were you _|when you knew you were dif|_ 'frent ?|And how long _|
+"Db" z2 FF F2 _G2 |"Ab9" F2 E2 E4 |"B7" z4 z2 z E |"Eb" G2 GG AAAA |"Db9" B2 BA- AG- G2 | %37
+w: did it take to|meet some one?|At|strange to dis cov er when its|dark and qui _ et _|
+"Ab" A2 G2 G2 AG- |"B" GE- E4 z E |"Eb" G2 G2 A2 AA |"Db9" BBBB A4- |"Ab" AEEE E3 F- | %42
+w: I can hear my own|_ voice _ Its|strange to see that be|fore I fall as leep|_ I on ly see your|
+"B7" F_G- E4 z E |[K:E]"E" GGGG"D/E" A2 GF- |"E" FE- E2-"D/E" E3 E |"E" GGGG"D/E" A2 GF- | %46
+w: _ face _ At|first I did n't like the _|_ lic' _ orice it|was n't sweet and tast ed fun|
+"Cmaj9" FE- E2- E3 E |"E" GGGG"D/E" A2- A>A |"E" BBBA-"D/E" A2 z A |"Cmaj9" E2 E2 E2 FF- | %50
+w: _ ny _ _ but|when you learn to chew _ and|swal low it slow _ You'd|swear you'd found new hon|
+ F=G- G6 |"Gm7/Bb" =G2 G2 G2 AA- | A^A- A6 |[K:Eb]"Eb" z B,EB- BE B,2 |"Db9" z B,EB- BE B,2 | %55
+w: _ ey _|Swear you'd found new hon|_ ey _|||
+"Ab9" z B,EB- BE B,2 |"B7" z _CEB- BE C2 |"Eb" z2 cB- B4 |"Db" z2 FE- E4 |"Ab" z2 z E EEF_G- | %60
+w: ||How old _|are you _|and why do I feel|
+"B7" GF-FE- E3 E |[K:E]"E" BBBB"D/E" c2 B2 |"E" z4"D/E" z2 z e |"E" =dccd"D/E" c2 B2 | %64
+w: _ dif _ 'frent? _ At|first I did n't like it|No,|no I di n't like it|
+"E" z4"D/E" z2 z A |"E" GGGG"D/E" A2 z A |"E" BBBA-"D/E" A2 z A |:"Cmaj9" E2 E2 E2 FF- | F=G- G6 | %69
+w: but|when you learn to chew and|swal low it slow _ You'd|swear you'd found new hon|_ ey _|
+"Gm7/Bb" =G2 G2 G2 AA- | A^A- A6 :|"Gm7/Bb" ^A8 |] %72
+w: Swear you'd found new hon|_ ey _|_|
+

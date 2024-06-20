@@ -1,0 +1,35 @@
+X:1
+T:Susie Darlin'
+T:Susie Darlin'
+T:Robin Luke
+C:Robin Luke
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G""^Verse" D D D D |"Em" E/ F E/- E2 |"G" D D D D |"Em" E/ F E/- E2 |"G" D/-D/ D D D | %5
+w: I stood watch- in'|all night long *|I stood watch- in'|all night long *|I * stood watch- in'|
+w: I stood cry- in'|all night long *|I stood cry- in'|all night long *|Cry- in' and wish- in'|
+w: I stand cry- in'|all night long *|I stand cry- in'|all night long *|know- in' that life has|
+"Em" E F G B |"D7" B/A/ A3- |"Am7" A2"D7" z2 |"C" c c/c/ c c |"G" B/ G G/- G2 |"D7" A/-A/ A A D | %11
+w: since you went a-|way * *||You were the girl of|ma- ny charms *|How * I loved you|
+w: you'd come back to|me- ee *||Think- ing of all the|dreams we knew *|Now that you're gone they|
+w: noth- in' left for|me- * *||I walk a- round so|pa- tient- ly *|Hop- in' you will re-|
+"G" G/ A B/-"G7" B2 |"C" c/c/c/c/ d c/A/ |"G" B/ G G/- G2 |"D7" D/-D/D/-D/ A"C" G |"G" G4 || %16
+w: in my arms *|* I nev- er thought that you'd|ev- er go *|cos * I * loved you|so.|
+w: won't come true *|* My heart is emp- * ty|with- out you *|No- thin' there but mis- er-|y.|
+w: turn to me *|Till that hap- py day I will|al- ways be *|watch- * in * all night|long.|
+"G" z/"^Chorus" d B/ G B |"D7" c/A/- A3 |"C" z/ c3/2 c/d/ c |"G" B2 G2 | z/ d B/ G B | %21
+w: Oh * Su- sie|dar- lin' *|I thought * you|knew *|You were all the|
+w: |||||
+w: |||||
+"D7" c A/A/- A2 |"C" c A"D7" F A |"G" G4- | G3 z :| %25
+w: world to me *|All my dreams came|true.-||
+w: ||||
+w: ||||
+

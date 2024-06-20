@@ -1,0 +1,33 @@
+X:1
+T:My Truly Truly Fair
+T:My truly truly fair
+T:Bob Merrill
+C:Bob Merrill
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Bb" B, B,"^Verse:" B, z/ D/ | F F F2 |"Eb" G E G"F7" A |"Bb" B3 F | B B"Bb7" d B/B/ | %5
+w: Some men plough the|o- pen plain|some men sail the|brine but|I'm in love with a|
+w: Once I sailed from|Bos- ton bay|bound for Sing- a-|pore but|one day out and I|
+w: Some men work the|live- long day|just for bread and|wine but|I sit out on a|
+"Eb" G G B z/ B/ |"F7" A c"Cm7" B"F7" A |"Bb" B z z2 | z2"F7" F2 |"Bb" z B2"^Chorus" c | d c B2 | %11
+w: pret- ty maid for|work I have no|time|My|tru- ly|tru- ly fair|
+w: missed her so I|swam right back to|shore||||
+w: moon- lit night and|kiss her lips for|mine||||
+"Eb" z G2 E | G A B2 |"Bb" z B2 G | F G F D |"C7" C4- |"F7" C2 F2 |"Bb" B,3 C |"Bb7" D2 B,2 | %19
+w: tru- ly|tru- ly fair|how I|love my tru- ly|fair|* theres|songs to|sing her|
+w: ||||||||
+w: ||||||||
+"Eb" E B2 A |"Bb" G2 F2 |"F7" z A2"Cm7" G |"F7" F E D C |1"^2""Bb" B,2 z2 ||"Cm7" z4 |"F7" z4 | %26
+w: trink- ets to|bring her|flow- ers|for her gol- den|hair.|||
+w: |||||||
+w: |||||||
+"Bb" z4 :|3"Bb" B,2 z2 ||"Cm7" z4 |"F7" z4 |"Bb" z4 |] %31
+w: |hair||||
+w: |||||
+w: |||||
+

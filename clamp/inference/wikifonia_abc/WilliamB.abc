@@ -1,0 +1,28 @@
+X:1
+T:Tis Midnight and on Olive's Brow
+T:Tis Midnight and on Olive's Brow
+T:Maundy Thursday
+T:William B. Bradbury
+T:William B. Tappen
+T:Public Domain
+C:William B. Bradbury
+Z:Public Domain
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" D2 | D D"C" E E |"D" D2 D2 |"G" D2 G2 |"Em" G G"D" A"G" B |"C" A2"D" A2 |"G" G2 B2 | %7
+w: 1.~'Tis|mid- night and on|Ol- ives|brow The|star is dimmed that|late- ly|shone. 'Tis|
+w: 2.~'Tis|mid- night and from|all re-|moved, The|Sav- iour wres- tles|lone with|fears. E'en|
+w: 3.~'Tis|mid- night and for|oth- ers'|guilt The|Man of Sor- rows|weeps in|blood. Yet|
+w: 4.~'Tis|mid- night and from|heav'n- ly|plains Is|borne the song that|an- gels|know. Un-|
+"D" A A A A |"A" A2"A7" G2 |"D" F2 F2 |"G/B" G G"C" G E |"D" D2"D7" D2 |"G" D2 |] %13
+w: mid- night in the|gar- den|now, The|suf- fering Sav- iour|prays a-|lone.|
+w: that dis- ci- ple|whom He|loved Heeds|not his Mas- ter's|grief and|tears.|
+w: He that hath in|an- guish|knelt Is|not for- sak- en|by His|God.|
+w: heard by mor- tals|are the|strains That|sweet- ly soothe the|Sav- iour's|woe.|
+

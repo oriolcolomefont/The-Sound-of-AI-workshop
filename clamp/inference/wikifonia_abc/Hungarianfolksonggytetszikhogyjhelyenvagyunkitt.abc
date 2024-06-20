@@ -1,0 +1,15 @@
+X:1
+T:Úgy tetszik, hogy jó helyen vagyunk itt
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ GD DE | DC B,C | D2 D z | GD DE | DC B,A, | G,2 G, z | B,B, B,B, | DD CB, | A,2 A, z | DD DE | %10
+w: Úgy tet- szik, hogy|jó he- lyen va-|gyunk itt,|Úgy tet- szik, hogy|más- kor is vol-|tunk itt.|Mul- as- sunk hát|egy vagy két ó-|rá- ig,|Vég- bú- csún- kat|
+ DC B,A, | G,2 G, z |] %12
+w: míg ki nem ad-|ják itt.|
+

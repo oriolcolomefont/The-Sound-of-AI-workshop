@@ -1,0 +1,35 @@
+X:1
+T:Wir hatten eine gute Zeit
+T:Wir hatten eine gute Zeit
+T:Wise Guys
+T:Daniel Dickopf
+T:Wise Guys
+C:Edzard Hüneke, Erik Sohn
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ E3/2 G3/2 B | A3/2 G3/2 F- | F3 z | E3/2 F3/2 G | F3 z/ E/ | E3 z | z3 C/C/ | C C C C | %8
+w: ||||||1. Am|Haupt- bahn- hof geht|
+w: ||||||2.Ein- es|Ta- ges komm ich|
+ D/ C2 z/ C/C/ | D E D3/2 B,/ | C3 C | C C D E/F/- | F/ E z/ E D/D/- | D D/ D3/2 E | E3 E | %15
+w: al- les wie *|im- mer sei- nen|Gang. Die|Gleis- durch- sag- en dröh|* nen im ver- traut|* ver- zerr- tem|Klang Auf|
+w: wie- der wenn der|lie- be Gott mich|lässt. Ich|hoffe dass auch * ihr|* uns- re Zeit *|* hier nie ver-|gesst. Viel-|
+ A/ A3/2 B A | G E2 z/ E/ | F E/ G F E/- | E3 A | A A B A/G/- | G/ E2 z/ E | E/ E E C F/- | F3 c | %23
+w: vol- len Kof- fern|sitz ich al-|lein am Zeit- ungs- stand|* mit|ein- er trock- nen Keh|* le, das|Ti- cket in der Hand|* Ich|
+w: leicht ist es ein|Feh- ler mich|so still davon zu- stehl'n,|* doch|ihr fangt ja schon jetzt|* an, mir|ganz ex- trem zu fehl'n.|* Man-|
+ c c c c/B/- | B/ A G F3/2 | G A/ G3/2 F | E4- | E C C C | G F E D- | D D/C/ D E | D B,/ C2 z/ | %31
+w: wol- lte lie- ber oh-|* ne euch al-|ein zum Bahn- hof|gehn|* und ein- fach|in den Zug rein,|* oh- ne mich groß|um- zu- drehn.|
+w: chem schwe- ren Ab- schied|* folgt ein herz-|lich- er * Em-|pfang.|* Am Haupt- bahn-|hof geht al- les|* * wie im- mer|sei- nem Gang.|
+ z2 z E | E E/ G B3/2 | A3/2 G3/2 F- | F3 F | G3/2 A3/2 B | c3 B | B z z B | c c c B | %39
+w: Das|war viel- leicht die|best- e Zeit.|* Die|Zeit mein- es|Le- *|bens doch|jetzt ist es für|
+w: ||||||||
+ G3/2 E3/2 F- | F2 z E | E/ E3/2 F G | F3 E | E4 |] %44
+w: mich so- weit.|* Wir|hat ten ein- e|gu- te|Zeit.|
+w: |||||
+

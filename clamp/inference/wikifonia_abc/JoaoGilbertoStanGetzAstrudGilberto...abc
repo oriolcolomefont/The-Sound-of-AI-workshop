@@ -1,0 +1,20 @@
+X:1
+T:Bim Bom
+T:Bim bom
+T:Joao Gilberto
+C:Joao Gilberto, Stan Getz, Astrud Gilberto,...
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Dm7""G7" z4 |"Dm7""G7" z4 |:"Dm7" d>G-"G7" Gd- |"Dm7" d<d"G7" GG |"Dm7" d>G-"G7" Gd- | %5
+"Dm7" d<d"G7" G>d- |"Cmaj7" d<(c c2) | z4 |"Dm7" d>G-"G7" Gd- |"Dm7" d<d"G7" GG | %10
+"Dm7" d>G-"G7" Gd- |"Dm7" d<d"G7" G>g- |"Bm7" g<e e2- |"E7b9" e4 |"Am7" z/ ab/ c'/ba/- | %15
+"Bm7" a/^f^g/-"E7b9" g2 |"Am7" z/ ab/ c'/ba/- |"Bm7" a/^f^g/-"E7b9" g2 |"Am7" z/ ab/ c'/ba/- | %19
+"A7" ae/g/- g/^f=f/- |1"Dm7" f4 ||"G7" g4 :|2"Dm7" f2 de || fg _a_b |"Cmaj7" b4- | b4 |] %26
+

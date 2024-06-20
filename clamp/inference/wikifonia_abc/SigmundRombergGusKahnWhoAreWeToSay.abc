@@ -1,0 +1,37 @@
+X:1
+T:Who Are We To Say
+T:Who Are We To Say
+T:Sigmund Romberg
+T:Gus Kahn
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" C D F A |"E7" d3 z |"F" e d c d |"D7" c3 z |"Gm7" d c B c |"C7" B B A ^G!dacoda! || %6
+w: Who are we to|say,|just what love will|do,|love may live a|day or all life|
+w: Who are we to|say,|when to say good-|bye,|or to won- der|why we two must|
+O"Fmaj7""F6" A4- |"Em7""A7" A3 z |"D" D E ^F A |"Db7" =B3 z |"D" ^c =B A B |"D7" A3 z | %12
+w: through.||Who are we to|say,|how a rose will|grow,|
+w: ||||||
+"Gm" B A"Gm7" G A |"C7" G G F G |"F""Bb" F4- |"F" F3 z ||[K:Db]"Db" F3 D |"Ab7/Eb" G3 E | %18
+w: it may fade a-|way or bloom and|blow.||You and|I may|
+w: ||||||
+"Db/F" A3 F |"Gb" d3 B |"Db/F" A3 F |"Ab7" E2 G2 |"Dbmaj7" F4- |"Db6" F3 z |"Db" F3 D | %25
+w: plan and|scheme and|ev- ry|things ar-|ranged||Then there|
+w: |||||||
+"Ab7/Eb" G3 E |"Db/F" A3 F |"Bbm6" f3 d |"Fm/C" c3 A |"Fm6/C" c3 A |"C" c4-!D.C.! | %31
+w: comes a|va- grant|dream and|all the|world was|changed|
+w: ||||||
+"Cdim""C7" c3 z ||[K:F]"A+""A7""^Coda" A4- |"D7b9""D7" A3 z |"Gm" ^C D G A |"Gm7b5" B3 z | %36
+w: |part||So I'll take to-|day,|
+w: |||||
+"F/C" ^G A c e |"G7" g2 f2 |"F/C" A G F A |"C7" G G F G |"F""Bbm" F4- |"F" F3 z |] %42
+w: lov- ing while I|may, Dear,|know- ing love would|say, o- bey your|heart.-||
+w: ||||||
+

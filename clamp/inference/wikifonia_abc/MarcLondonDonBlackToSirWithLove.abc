@@ -1,0 +1,27 @@
+X:1
+T:To Sir, with love
+T:To Sir, with love
+T:(From the Movie To Sir with Love)
+T:Marc London
+T:Don Black
+C:Marc London
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" z d c _B | A4 |"G" z G G B |"Bb" d f e d |"F" d/c/ c3- | c4 | z d c _B | A4 |"G" z G G B | %9
+w: Those school girl|days|of tell- ing|tales and bit- ing|nails are gone||but in my|mind|I know they|
+w: Those awk- ward|years|have hur- ried|by why did they|fly a- way?||why is it|sir,|child- ren grow|
+"Bb" d f e d |"F" d c c2- | c4 |"E7" z B B e/e/ |"Am" d c c c/c/ |"E7" B/^G/E/E/ e/f/e/d/ | %15
+w: will * still live|on and on||but how do you|thank some- one who has|tak- en you from cray- ons to per-|
+w: up to be peop-|le some day?||but what takes the|place of climb- ing up|trees * * and dirt- y knees out-|
+"Am" c4 |"G" z d d f |"C" f e d c |"G" d4- |"D" d2"G" B c | d/d/ d d B/G/ |"F" f f d/c/B/c/ | %22
+w: fume?|it is- n't|eas- y but I'll|try|* if you|want- ed the sky I would|write a- cross the sky in|
+w: side?|what is there|for you I could|buy?|* if you|wan- ted the world I'd sur-|round * it * with a|
+"G" d B G G/G/ |"F" f e d/c/ c |"G" d B G e |"C" e d c e |"D7" e d3- | d3 z :|"D7" e"G" d3 |] %29
+w: let * ters that would|soar a thou- sand feet|high * * to|sir * * with|love. *||love. *|
+w: wall * * and these|words I'd scrawl ten feet|tall * * to|sir * * with||||
+

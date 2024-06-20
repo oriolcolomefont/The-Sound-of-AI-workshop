@@ -1,0 +1,29 @@
+X:1
+T:How Near Is Love
+T:Ay Ay Ay/How Near Is Love/Why Not Now
+T:To Be Advised
+C:Ivor Raymonde,Marcel Stellman,Richard Dix
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ G2 |:"G9" A2 AG A4- | A4"G7" d2 e2 |"C" c2 GA G4- | G6 E2 |"Dm7" F2 FG A4- |"G9" A3 F"G7" B,3 B, | %7
+w: They|tell me how far|* that you|fly to the moon|* and|name all the stars|* that shine a-|
+"C""Cmaj7" C8- |"C6" C2 z2"C" z2 G2 |"G9" A2 AG A4 | A4"G7" d2 e2 |"C" c2 GA G4- | G4- G G2 E | %13
+w: bove.-|* On|Ve- nus and Mars|* we will|be ve- ry soon,|* * oh but|
+"Dm7" F2 FG A4- |"G9" A3 F"G7" D2 B,2 |"C" C8- | C2 z2 z2 c2 |"F" d2 dc B4- |"B7" B4 ABcd |"E" B8 | %20
+w: I want to know,|* how near is-|love.-|* When|you're close to me|* I could touch the|sky,|
+ B6"E+" c2 |"F" d2 dc B4- |"B7" B4 ABcd |"E" B8- |"G7" B6 G2 |"G9" A2 AG A4- | A4"G7" d2 e2 | %27
+w: * at|times I can see|* heav- en in your|eyes.-|* You|don't know the pain|* of- *|
+"C" c2 GA G4- | G6 E2 |"Dm7" F2 FG A4- |"G9" A3 F"G7" D3 B, |"C" C2 Gc"Cmaj7" B2 GB |1 %32
+w: lov- ing in vain|* so|please tell me now|* how near is|love. * * * * *|
+"C6" AEGA"C" G2 G2 :|2"C6" AEGA"C" G2 E2 ||"Dm7" F2 FG A4- |"G9" A2"G7" B2"Dm7" c2"G7" d2 | %36
+w: * * * * * They|* * * * * so|please tell me now,|* how near is|
+"C" d2 c2 A2 AG |"G9" A2 AG AGAG |"C" A2 AG AcAG | c2 z2"C6" a4 |] %40
+w: love. * * * *||||
+

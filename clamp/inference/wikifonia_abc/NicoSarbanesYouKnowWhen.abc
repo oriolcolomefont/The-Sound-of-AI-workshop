@@ -1,0 +1,23 @@
+X:1
+T:You Know When
+T:That Lamppost on the Bridge
+T:Nico Sarbanes
+T:2011
+C:Nico Sarbanes
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Db
+V:1 treble 
+%%MIDI program 0
+V:1
+"^Dbmaj7" AF F2- F3 C |"^Bbmaj7" B,4 z4 |"^Bbmin7" AF F2- F3 C |"^Gmin7b5""C7" B,4"C7" z4 | %4
+"^Fmin7" AF c2- c3 B |"Bb7" AF c2- c3 B |"^Fmin" AF c2- c4 |"D7" z4 z4 | %8
+"^Emin7b5" =ef=e=A =d^c- c2- |"A7b9" c3 =d ^c=GB=A- |"^Dmin" A4- A=E=GF | =E6 z2 | %12
+"^Ebmin7" efeA dc- c2- |"Ab7" c3 d cGBA- |"^Dbmaj7" A4- ADFE |"^Ebmin7""Ab7" C6"Ab7" z2 | %16
+"^Dbmaj7" AF F2- F3 C |"^Bbmaj7" B,4 z4 |"^Bbmin7" AF F2- F3 C |"^Gmin7b5""C7" B,4"C7" z4 | %20
+"^Fmin7" AF c2- c3 B |"Bb7" AF c2- c3 B |"^Fmin" AF c6 |"^Cmin7b5""F7b9" z4"F7b9" z2 FE | %24
+"^Bbmin7" DEFA c B3- |"^Bbmin7b5" BD_F"Eb7b9"c"Eb7b9" B A2 _F |"^Abmaj7" EC =G6 | %27
+"^Cmin7""F7b9" z4"F7b9" z2 z =A |"^Gmin7b5" Bd"^F#min7" d2-"^F#min7" d3 =A | %29
+"^Fmin7" _Ac"^Emin7" c2-"^Emin7" c3 =G |"^Ebmin7" _GB"Ab7" B2-"Ab7" B3 G |"^Dbmaj7" F4 z4 |] %32
+

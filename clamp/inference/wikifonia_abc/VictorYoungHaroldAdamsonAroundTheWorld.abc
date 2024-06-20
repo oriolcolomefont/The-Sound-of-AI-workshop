@@ -1,0 +1,21 @@
+X:1
+T:Around The World
+T:Around the World
+T:Victor Young and Harold Adamson
+C:Victor Young, Harold Adamson
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ z2 z2 G2 |"C" c4 G2 | B4 G2 | A4 E2 | E3 G AG | A3 G AG |"A7" A3 G AG |"Dm" A4 B,2 |"G7" B,4 G2 | %9
+w: A-|round the|world I|searched for|you, I trav- eled|on when hope was|gone to keep a|ren- dez-|vous I|
+"Dm7" c4 A2 |"G7" B4 G2 |"Dm7" A4 B,2 |"G7" B,3 G AG |"Dm" A3 G A"G7"G | A3 G AG |"C" A4 E2 | %16
+w: knew some-|where, som-|time, some-|how you'd look at|me and I would|see the smile you're|smi- ling|
+ E4 G2 | c4 G2 | B4 G2 | A4 E2 | E3 G AG | A3 G AG |"A7" _B3 A ^GA |"Dm" e4 d2 | d4 A2 |"F" d4 c2 | %26
+w: now, It|might have|been in|Coun- ty|Down or in New|York in Gay Pa-|ree or ev- en|Lon- don|Town, no|more will|
+ B3 A ^GA |"C" c4 E2 |"A7" G3 ^F G^G |"Dm" A4 F2 |"G7" B4 G2 |"C" c6- | c2 z4 |] %33
+w: I go all a-|round the|world for I have|found my|world in|you.||
+

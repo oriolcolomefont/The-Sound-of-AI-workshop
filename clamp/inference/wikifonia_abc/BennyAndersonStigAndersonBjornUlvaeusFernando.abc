@@ -1,0 +1,29 @@
+X:1
+T:Fernando
+T:Fernando
+T:Benny Anderson, Stig Anderson, Bjorn Ulvaeus
+C:Benny Anderson, Stig Anderson, Bjorn Ulvaeus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"F" z A/A/ A_B_Bc | c c3 z4 | z2 z A/A/ A_B_Bc | c_B_BA AGGF |"Dm" F4 z4 | %5
+w: Can you hear the drums Fer-|nan do?|I re- mem- ber long a-|go an- oth- er star- ry- night like|this|
+"Gm" z2 z _B/_B/ _Bccd | d d3 z4 | z2 _B_B _Bccd | dcc_B _BAAG |"C" G3 c/c/ cdde | eddc c_B_BA | %11
+w: in the fi- re- light Fer-|nan- do|you were hum- ming to your-|self and soft- ly strum- ming your gui-|tar I could hear the dis- tant|drums and sounds of bu- gle calls were|
+[M:2/4] AG z F/G/ |[M:4/4]"F" F4 z4 | z2 z A/A/ A_B_Bc | c c3 z4 | z2 z A/A/ A_B_Bc | c_B_BA AGGF | %17
+w: com- ing from a|far|they were clos- er now Fer-|nan- do|ev- ry ho- ur ev- ry|min- ute seemed to last e- ter- nal-|
+"Dm" F4 z4 |"Gm" z2 z _B/_B/ _Bccd | d d3 z4 | z2 z _B/_B/ _Bccd | dcc_B _BAAG |"C" G3 c/c/ cdde | %23
+w: ly|I was so a- fraid Fer-|nan- do|we were young and full of|live and none of us pre- pared to|die and I'm not a- shamed to|
+ eddc c_B_BA |[M:2/4] AG z F/G/ |[M:4/4]"F" F4 z4 | z2"^N.C." ff ffff |"C7" e2 c_B- _B2 fe- | %28
+w: say the roar of guns and can- nons|al- most made me|cry|there was some- thing in the|air that night * the stars|
+ e2 c_B- _B2 ed- |"F" d c3 z4 | z2 ff ffff |"C7" e2 c_B- _B2 fe- | e2 c_B- _B2 ed- | %33
+w: * were bright * Fer nan|* do|they were shin- ing there for|you and me * for lib|* er ty * Fer nan|
+"F" d c3 z2 AA |"D" AAAA _B c2 d- | d2 z2 A_BAA- |"G7" A G3 z4 |:"^N.C." z2 ff ffff | %38
+w: * do though we|nev- er thought that we could lose|* there's no re- gret-||If I had to do the|
+"C7" e2 c_B _B2 fe- | e2 c_B- _B2 AG- |"F" G F3 z4 :| %41
+w: same a- gain * I would|* my friend * Fer- nan|* do|
+

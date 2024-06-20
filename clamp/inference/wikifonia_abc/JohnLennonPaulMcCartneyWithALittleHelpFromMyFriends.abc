@@ -1,0 +1,45 @@
+X:1
+T:With A Little Help From My Friends
+T:With A Little Help From My Friends
+T:Lennon-McCartney
+T:from Sgt. Pepper's Lonely Hearts Club Band
+C:John Lennon & Paul McCartney
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" B>c d>d-"D" !tenuto!d>c B>A- |"Am" A>B c>c- c>c c>B- |"Am" B>A A>!^!A-"D7" A>G A>B- |"G" B8 | %4
+w: What would you do * if I sang|* out of tune, * would you stand|* up and walk * out on me?||
+w: What do l do- * when my love|* is a- way? * Does it wor-|* ry you to * be a- lone?||
+w: Would you be- lieve- * in a love|* at first sight? * Yes, I'm cer-|* tain that it hap- pens all time.||
+"G" B>c d>d-"D" d>c B>A- |"Am" A>B c>c- c>c c>B- |"Am" B>A A>A-"D7" A>G A3/2B- | %7
+w: Lend me your ears * and I'll sing|* you a song * and l'll try|* not to sing * out of key.|
+w: How do I feel * by the end|* of the day? * Are you sad|* be- cause you're * on your own?|
+w: What do you see * when you turn|* out the light? * l can't tell|* you but I * know it's mine.|
+"G" B2 z !>!d- d>G B>A- |"F" AG/G/ G/G/G-"C" G>G G>G- |"G" G2 z d- d>G B>A- | %10
+w: * oh- * I get by|* with a lit- tle help- * from my friends,|* Mm,- * l get high|
+w: * No, * I get by|* with a lit- tle help * from my friends.|* Mm, * I get high|
+w: * Oh- * ing * *|||
+"F" AG/G/ G/G/G-"C" G>G G>G- |"G" G2 z d- d>G A/B/A- |"F" AG/G/ G/G/G-"C" G>G"^To Coda" G>G ||1 %13
+w: * with a lit- tle help- * from my friends|* mm,- * I'm gon- na try|* vith a ht- tle help- * from my friends.-|
+w: * with a lit- tle help * from my friends.|* Mm, * I'm gon- na try|* with a lit- tle help * from my friends.|
+w: |||
+"^I." G4"G" z4 :|2 G4"G" d e2 [Bg]- ||"Em" [Bg]4 [Bg] [Bg]2 [^cf]- |"A7" [cf][^ce]- [ce]4 z A | %17
+w: |* Do you need|* an- y- bod-|* y?- * l|
+w: ||||
+w: ||||
+"G" B2 B2"F" A>B A>G- |"C" G4 d e2 [Bg]- |"Em" [Bg]4 [Bg] [Bg]2 [^cf]2-"A7" | %20
+w: need some- bod- y to love.|* Could it be|* an- y- bod-|
+w: |||
+w: |||
+ [cf][^ce]- [ce]4 z A |"G" B2 B2"F" A>B A>G- |"C" G8"C""G""^D.C." || %23
+w: * y? * l|want some- bod- y to love.||
+w: |||
+w: |||
+

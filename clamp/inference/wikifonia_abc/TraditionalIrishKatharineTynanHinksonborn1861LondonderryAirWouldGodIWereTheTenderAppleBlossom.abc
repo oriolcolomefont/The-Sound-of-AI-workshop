@@ -1,0 +1,28 @@
+X:1
+T:Londonderry Air (Would God I Were The Tender Apple Blossom)
+T:Londonderry Air
+T:(Traditional)
+C:Traditional Irish
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ DEF |:"Eb" G3 F GcBG |"Ab" (FE) C2- CEGA |"Eb" B3"Ab" c"Eb" BG"Cm"EG |"F7" F4-"Bb7" FDEF | %5
+w: Would God I|were the ten- der ap- ple|blos- * om _ that floats and|falls from off the twist- ed|bough _ To lie and|
+w: |God I were a- mong the|ros- * es _ that lean to|kiss you as you float be-|tween _ while on the|
+"Eb" G3 F"Eb7" GcBG |"Ab" (FE)C=B, CDEF |"Eb" (G3 A)"Bb" GFEF |"Eb" E4- EB"F#dim"c"Bb7"d | %9
+w: faint with- in your silk- en|bos- * om with- in your silk- en|bos- * om as that does|now! _ Or would I|
+w: low- est- branch a bud un-|clos- * es A bud- * un _|clos- * es to touch you|Queen. _ Nay since you|
+"Eb" e3 d"Ab" dc"Eb"BG | (BG) E2- EB"Ab"c"Bb7"d |"Cm" e3 d"Ab" dc"Eb"B"F7"G | %12
+w: were a lit- tle bur- nishd|ap- * ple _ for you to|pluck me glid- ing by so|
+w: will not love, would I were|grow- * ing _ a hap- py|dai- * sy in the gar-|
+"Abm" F4-"Bb7" FB"Gm"B"Bb7"B |"Eb7" g3 f"Ab" fece |"Eb" (BG)"Cm" E2-"F7" ED"Abm"EF | %15
+w: cold, _ while sun and|shade your robe of lawn will|dap- * ple _ your robe of|
+w: den _ path That~so your|sil- ver foot might press me|go- * ing _ might press me|
+"Eb" (G"Ab"c)"Eb"(B"Eb+"G)"Ab" (FE)"Bb7"CD |1"Eb" E4- EDEF :|2 E4- E2 z2 |] %18
+w: lawn _ and _ your _ hair's spun|gold. * Yea, would to|death. *|
+w: go- * ing _ ev- en un- to-|||
+

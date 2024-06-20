@@ -1,0 +1,17 @@
+X:1
+T:Százados úr, sejehaj
+T: 
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" GGFE GG c2 |"G" BdcA GGDF |"C" E C3 C2 z2!fine!!fine! :|"C" c2 d2 e G3 | c2 d2 e2 c2 | %5
+w: Szá- za- dos úr, se- je- haj,|szá- za- dos úr, ha fel- ül a|lo- vá- ra,|U- gye fi- úk,|szép é- let a|
+"F" AAFE"G" D2 z2!D.C.! |] %6
+w: ka- to- na é- let,|
+

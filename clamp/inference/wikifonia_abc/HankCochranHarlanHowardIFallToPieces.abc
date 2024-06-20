@@ -1,0 +1,23 @@
+X:1
+T:I Fall To Pieces
+T:I fall to pieces
+T:Hank Cochran, Harlan Howard,
+C:Hank Cochran, Harlan Howard
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" C2 z2 |"Bb" D3- D/C/ |"C" c2 c2- | c2 z2 | z"Bb" _B c d |"C7" c2 c _B |"F" A4- | A4 | C4 | %9
+w: I|fall * to|piec- es||each time I|see you a-|gain||I|
+"Bb" D3- D/C/ |"C" c2 c2- | c2 z2 |"Bb" z _B c d |"C" c2 A G |"F" F4- | F2 z c | c2 A _B | c2 c d | %18
+w: fall * to|piec- es||how can I|be just your|friend?|* you|want me to|act like we've|
+"Bb" c3/2 _B/ _B2- | _B3 c |"C7" d c d E | E3/2 G/ A _B |"F" d3/2 c/ c2- | c2 _B c | %24
+w: nev- er kissed|* you|want me to for-|get pre- tend we,ve|nev- er met|* and I've|
+"Bb" d2- d/^c/ d |"C7" e3 d/e/ |"F" d c c2- | c2 _B c |"Bb" d3 d |"C7" c2 c3/2 A/ |"F" G F3- | %31
+w: tried * and I've|tried but I|have- nt yet|* You walk|by and|I fall to|piec- es.-|
+ F z z2 |] %32
+w: |
+

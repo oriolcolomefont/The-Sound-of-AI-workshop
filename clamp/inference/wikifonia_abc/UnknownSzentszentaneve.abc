@@ -1,0 +1,21 @@
+X:1
+T:Szent, szent a neve
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" z2 F2 F>E DF | z8 |"G" z2 G2 G2 AF- |"A" F2 E2 z4 |"G" z2 G2 G A3 |"A" F2 E4 F-E | %6
+w: Szent, szent a ne- ve,||én Õt di- csé-|* rem,|Õ e- rõs-|sé- gem, Jé- *|
+"G" D8!fine! ||"D" z4 z2 z A, |"D" F4 F>E DF | z8 |"G" G2 G2 G2 AF- |"A" F E3 z4 |"G" G2 G2 G2 A2 | %13
+w: zus,|Az|én Is- te- nem- ért||min- dent vesz- ni- hagy-|* tam,|Csak hogy szol- gál|
+"A" F2 E4 F-E |"G" D8 |"D" z4"D7" z4 |"G" B2 B B3 c2 | d2 c B3 z2 |"Em" z4 B2 AB- | B4 z4 | %20
+w: has- sam Jé- *|zust.||Bol- do- gan meg-|vall- ha- tom,|Õ a cél,|_|
+"G" B2 B2 B2 c2 | d2- c B3 z2 |"A" c2 c2 c2 dc- |"A7" c2 z2 z4!D.C.! |] %24
+w: Meg- hal- tam, de|é- * lek|Jé- zus Krisz- tus ért.|_|
+

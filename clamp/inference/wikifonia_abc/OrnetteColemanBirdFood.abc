@@ -1,0 +1,25 @@
+X:1
+T:Bird Food
+T:Bird Food
+T:Ornette Coleman
+T:1988 by MJQ Music
+C:Ornette Coleman
+Z:All Rights Reserved
+L:1/8
+Q:1/4=15360
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 40
+V:1
+"^( alto & trumpet )" z4 z2 z c | (3=ef^f ge =fcAF | B2 AF z4 || %3
+"Bb6""^A""^Add bs. & drum" f3 B-"Gm7" B2 gf |"Cm7" f2 G_G z"F7b9" .d2 A |"Bb6" .B2 z _g z g .f2 | %6
+"Fm7" z ._c2 e"Bb7" d_A z c |"Eb6" B2 E_A z4 | e2 eB d2 gB- |"Bb6" B2 =EF z2 z F | %10
+"Dm7" z .c2 A"G7" .f2 eF |"Cm7b5" _G2 dc- c2 DF |1[M:2/4]"F7" AF G=E :|2 %13
+[M:4/4]"F7" AFG=E"Bb6" FB,- B,2 | z8 ||"D7""^( Sample Alto Solo )""^B" z D=B,D =E2 ^FD | %16
+ G3 A- AG =B2- |"G7" B2 dD- D2 =EC- | C4 z4 |"C7" z2 z =E- E2 GE | B_cBE z4 |"F7" z c3 =BGEC | %22
+ _A3 g- g2"^(End Solo)" z2 ||"Bb6""^C" f3 B-"Gm7" B2 gf |"Cm7" e2 G_G"F7b9" z d2 A | %25
+"Bb6" B2 z _g z g f2 |"Fm7" z ._c2 e"Bb7" d_A z =c |"Eb6" B2 E_A z4 | e2 eB d2 fB- | %29
+"Bb6" B2 =EF z2 z F |"Dm7" z .c2 A"G7" .f2 eF |"Cm7b5" _G2 dc- c2 DF!dacoda! | %32
+"F7" AFG=E"Bb6" FB,- B,2 | z8 ||O"F7" AFG=E"Bb6" F B,2 F | (3AB=B cA _B"Bb6"B, z2 |] %36
+

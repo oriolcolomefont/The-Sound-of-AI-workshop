@@ -1,0 +1,32 @@
+X:1
+T:A Mess Of Blues
+C:Doc Pomus & Mort Shuman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+V:1
+!mf!"^Medium tempo" G/<(A/G/4) |:"C7" _B B B A | G/ G3/2 z3/4 G/<(A/G/4) | _B B B A/G/- | %4
+w: I just *|got your let\- ter,|ba\- by; a\- too *|bad you can't come home.|
+w: |slept a wink since|Sun\- day; I can't *|eat a thing all day.|
+ G2 z3/4 (c/<d/)c/4 |"F7" _e e e d | c/ c3/2 z2 | _e/>e/ e e d/c/- | c2 G A |"G7" (B d B) G | %10
+w: * I * *|swear I'm go\- in'|cra\- zy,|sit\- tin' here all a\- lone.|* Since you're|gone * * I|
+w: * Ev\- * 'ry|day is Just blue|Mon\- day|since you've * been a\- way.|||
+"F7" F G _e d/c/- |"C" c4 |1"G7" z2 z3/4 G/<(A/G/4) :|2 z4 ||"F7" A c c A | c2 e2 | %16
+w: got a mess of blues.||I ain't *||Whoops, there goes a|tear\- drop,|
+w: ||||||
+"C7" _B A G"B7" ^D |"C7" E3 z |"F7" A c c d | _e d/c/- c3/2 c/ |"G7" B"^N.C." d B G/G/- | %21
+w: roll\- in' down my|face.|If you cry when|you're in love, * it|sure ain't no dis\- grace.|
+w: |||||
+ G2 z3/4 G/<A/G/4 ||"C7" _B B B A | G/ G3/2 z A | _B B B A | G2 z3/4 c/<d/c/4 |"F7" _e e e d | %27
+w: * I got\- ta|get my\- self to\-|geth\- er, be\-|fore I lose my|mind. I'm gon\- na|catch the next train|
+w: ||||||
+ c/ c3/2 z3/4 (c/<d/c/4) | _e e e d/c/- | c2 G A |"G7" (B d B) G |"F7" F G _e d/c/- | %32
+w: go\- in', and * *|leave my blues be\- hind.|* Since you're|gone * * I|got a mess of blues.|
+w: |||||
+"C7" c2-"F7" (c2 |"C" .c3) z |] %34
+w: ||
+w: ||
+

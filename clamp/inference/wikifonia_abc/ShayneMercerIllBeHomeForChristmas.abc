@@ -1,0 +1,26 @@
+X:1
+T:I'll Be Home For Christmas
+C:Shayne
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+ z2 z B |"Eb" d/>d/- d/c/"Dm7" A _A/=A/ |"Cm7" c B"Gm7" G _G/=G/ | %3
+w: I'm|dream ing _ to- night of a|place I love e- ven|
+"Cm7" B/>B/- B/G/"Cb" A/>A/- A/F/ |"Bbmaj7" D3 B |"Eb" d/>d/- d/c/"Dm7" A _A/=A/ | %6
+w: more than _ I u sual _ ly|do and|al though _ I know it's a|
+"Cm7" c B"Gm7" G2 |"C7" z G B d |"F" c4 |"Bb" B3 A |"Dm7" c3 B |"Cm7" F2"F" F2 | z4 |"Dm7b5" G3 F | %14
+w: long way back|I prom ise|you|I'll be|home for|Christ mas||You can|
+"G7" _A2 z G |"Cm7" C4 | z4 |"Ebm" C3 D |"F7b9" F3 E |"Bbmaj7" D3 F |"Gm7" B3 A |"C7" c2 c2 | %22
+w: count on|me||Please have|snow and|mis tle|toe and|pre sents|
+"Gbdim" A3 A |"Cm7/F" G4 |"F7" G4 |"Bb" B3 A |"Dbdim" c3 B |"Cm7/F" F F3 | z4 |"Dm7b5" G3 F | %30
+w: on the|tree|_|Christ mas|eve will|find me||Where the|
+"G7" _A2 z G |"Cm7" E4 | z4 |"Eb6" c3 B |"Ebm6" c3 B |"Dm7" F4 |"G7" G3 G |"C7" c2 d2 | %38
+w: love light|gleams||I'll be|home for|Christ|mas if|on ly|
+"Cm7" B2"F7b9" c2 |"Bb" B4 |] %40
+w: in my|dreams|
+

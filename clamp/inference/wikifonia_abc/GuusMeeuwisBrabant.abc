@@ -1,0 +1,57 @@
+X:1
+T:Brabant
+T: Laukens Music Productions  
+T:Wals
+T:BRABANT
+T:Guus Meeuwis
+T:BRABANT blad 2 van 
+T: Laukens Music Productions  
+C:Guus Meeuwis
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:3/4
+K:E
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"E" B3 | B A G |"B" F3- | F E D |"A" E3 | C B, A, |"B" B,3- | B,3 |"E" B3 |"G#m" B A G | %10
+w: ||||||||||
+w: ||||||||||
+"C#m" F E2- |"A" E2 C |"B" B,3- | B,2 B, |:"E""^Couplet" B, B, B, | B,2 E |"A" E A, A, | %17
+w: |||* Een|muts op m'n|hoofd M'n|kraag staat om-|
+w: ||||mis hier de|warmte van|dorps _ ca-|
+"B" A,2 B, |"E" B, B, C |"C#m" B,2 E/E/ |"A" E A, B, |"B" A,2 B, |"E" B, B, B, |"B" B, B, E | %24
+w: hoog Het|is hier ijs-|koud maar ge-|luk- kig wel|droog De|da- gen zijn|kort hier De|
+w: fé De|aan- spraak van|mensen met- _|een zach- te|G Ik|mis zelfs het|zei- ken op|
+"A" E3/2 A,/ B, |"B" A,2 B, |"E" B, B, B, |"C#m" B,2 E/E/ |"A" E E G |"B" F2 B/B/ |"D" B A G | %31
+w: nacht be- gint|vroeg De|men- sen zijn|stug En er|is maar één|kroeg Als ik|naar m'n ho-|
+w: al- les, om|niets Was|men maar op|Brabant zo _|trots als een|Fries In het|zui- den vol|
+"A" F E E/E/ |"B" E B, C |"E" B,2 B |"D" B A G |"A" F E E |"B" E B, C | B,2"^Refrein" G/G/ || %38
+w: tel loop- na een|don- ke- re|dag dan|voel ik m;n|huis- sleu- tel|diep in m'n|zak En ik|
+w: zon _ woon ik|sa- men met|jou 't|daar- om dat|ik zo van|Bra- ban- ders|hou Ik _|
+"E" G A G |"B" F2 E/D/ |"A" E E E |"E" E2 E/E/ |"C#m" E F E |"G#m" D C B, |"A" C E G |"B" F2 B/A/ | %46
+w: loop hier al-|leen in een|te stil- le|stad Ik heb|ei- gen- lijk|nooit last van|heim- wee ge-|had Maar de|
+w: _ _ _||||||||
+"E" G G3/2 G/ |"B" G F3/2 B,/ |"A" E E E |"C#m" E2 E/E/ |"G#m" E F E |"A" D C3/2 B,/ |"B" E E E |1 %53
+w: men- sen ze|sla- pen De|we- reld gaat|dicht En dan|denk ik aan|Bra- bant want|daar brandt nog|
+w: |||||||
+"E" E3/2 B,/ E/G/ |"A" A3/2 E/ A/c/ |"F#m" e3 |"B" d z B, :|2"E" E3 || z z B ||"D" B A G | %60
+w: licht _ _ _|_ _ _ _||* Ik|licht|De|Peel en de|
+w: |||||||
+"A" F E E |"B" E B, C |"E" B,2 B/B/ |"D" B A G |"A" F E E |"B" E B, C | B,2 G ||"E" G A G | %68
+w: Kem- pen en|de Mei- e-|rij Maar het|mooi- ste aan|Bra- bant ben|jij, dat ben|jij ik|loop hier al-|
+w: ||||||||
+"B" F2 E/D/ |"A" E E E |"E" E2 E/E/ |"C#m" E F E |"G#m" D C B, |"A" C E G |"B" F2 B/A/ | %75
+w: leen in een|te stil- le|stad Ik heb|ei- gen- lijk|nooit last van|heim- wee ge-|had Maar de|
+w: |||||||
+"E" G G3/2 G/ |"B" G F3/2 B,/ |"A" E E E |"C#m" E2 E/E/ |"G#m" E F E |"A" D C3/2 B,/ |"B" E E E | %82
+w: men- sen ze|sla- pen De|we- reld gaat|dicht En dan|denk ik aan|Bra- bant want|daar brandt nog|
+w: |||||||
+"E" [G,E]3 |] %83
+w: licht|
+w: |
+

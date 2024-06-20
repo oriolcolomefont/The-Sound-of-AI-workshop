@@ -1,0 +1,35 @@
+X:1
+T:Will You Remember (Sweetheart)
+T:Will You Remember (Sweetheart)
+T:from "Maytime"
+T:Sigmund Romberg
+T:Rida Johnson Young
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/8
+M:6/8
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z z2 B |"Eb" BGE BGE | c3 B2 B | BGE GBe |"Bb7" d3- d z c |"Fm7" cAF cAF | e3"Bb7" d2 c | %7
+w: Ah,|love is so sweet in the|spring- time, When|blos- soms are fra- grant in|May * No|years that are com- ing can|bring time, To|
+"Gdim" B=EF"Cdim" c"Bb7"d"D7"d |"Eb" B3 z2"Bb7" B |"Eb" BGE BGE | c3 B2 B |"Eb/Db" ggg"C7" aag | %12
+w: make me for- get dear, this|day. I'll|love you in life's grey De-|cem- ber, The|same as I love you to-|
+"Fm7" f3- f z f/g/ | agf"F7" edc |"Eb/Bb" e3 B z/ B/B/=A/ |"D7" d3- d z/ =A/A/B/ | %16
+w: day, * My *|heart, ev- er young, will re-|mem- ber The thrill it|knew, * that day in|
+"Ebmaj7" d2-"E+7" d2-"Bb7" d2 ||[M:3/4]"Eb" B2 c4 | e2 c4 |"Bb7/F" d2 B4- | B4 z2 |"Fm7/Ab" F2 G4 | %22
+w: |Sweet- heart,|sweet- heart,|sweet- heart,||will you|
+"Bb7" B2 G4 |"Eb" E2 B4- | B4 z2 |"Cm/Eb" C2 D2 E2 |"Gm" D2"Eb" E2"Cm" C2 |"Fm7" E6 |"Bb7" D4 z2 | %29
+w: love me|ev- er?-||Will you re-|mem- ber this|day,||
+"Fm7/Ab" F2 G2 A2 |"Bb7" G2 A2"Bb7/Ab" F2 |"Eb/G" B4"B7/Gb" =B2 |"Fm7" c2 g2"Bb7" f2 |"Eb" B2 c4 | %34
+w: When we were|hap- py in|May, My|dear- est one?|Sweet- heart,|
+ e2 c4 |"Bb7/F" d2 B4- | B4 z2 |"Fm7/Ab" F2 G4 |"Bb7" B2"Gm" G4 |"Eb" E2 B4 |"G7" =B6 | %41
+w: sweet- heart,|sweet- heart,||Though our|paths may|sev- er,||
+"C7" C2 =E2 G2 |"Dbdim" B2"Fm" A2"C7" G2 |"Fm6/Ab" d2 =B2 c2 |"Fm7" !fermata!b4 !fermata!a2 | %45
+w: To life's last|faint em- ber|will you re-|mem- ber|
+ F2 G4 |"Bb7" B2 g4 |"Eb" e6- | e2 z2 z2 |] %49
+w: Spring- time,|Love- time,|May?-||
+

@@ -1,0 +1,22 @@
+X:1
+T:Lazybones
+T:LAZYBONES
+T:Words and music by Johnny Mercer and Hoagy Carmichael in 1933.
+C:Johnny Mercer, Hoagy Carmichael
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+U:s=!stemless!
+V:1 treble stafflines=5 
+%%MIDI program 0
+V:1
+ A3 F D4 | FG^GA D4 | FG^GA =G2 =F2 | D2 d2 A4 | FGFG F2 G2 | sE8 | E=FEF E2 D2 | D4 z4 | A3 F D4 | %9
+w: La- zy bones,|sleep- in' in the sun,|How you 'spec to get your|day's work done?|Nev- er get your day's work|done,|Sleep- in' in the noon- day|sun.|La- zy bones,|
+ FG^GA D4 | FG^GA =G2 =F2 | D2 d2 A4 | FGFG F2 G2 | sE8 | E=FEF E2 D2 | D6 z B | dd z B dd z B | %17
+w: sleep- in' in the shade,|How you 'spec to get your|corn meal made?|Nev- er get your corn meal|made,|sleep- in' in the eve- nin'|shade. When|tat- ers need spray- in' I|
+ dd z B dd z B | A2 A2 AG F2 | A6 z B | A A2 B A A2 B | ^G G2 B =G G2 A | F2 F2 FE D2 | sE8 | %24
+w: bet you keep pray- in' the|slugs fall off of the|vine, and|when you go fish- in' I|bet you keep wish- in' the|fish won't grab at your|line.|
+ A3 F D4 | FG^GA D4 | FG^GA =G2 =F2 | D2 d2 A4 | FGFG F2 G2 | E6 D2 | E=FEF E2 D2 | sD8 |] %32
+w: La- zy bones,|loaf- in' thru the day,|How you 'spec to make a|dime that way?|Nev- er make a dime that|way, He|nev- er heard a word I|say|
+

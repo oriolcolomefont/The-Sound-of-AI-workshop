@@ -1,0 +1,22 @@
+X:1
+T:Somebody Else Is Taking My Place
+T:Somebody else is taking my place
+T:Dick Howard: Bob Ellsworth: and Russ Morgan
+C:Dick Howard, Bob Ellsworth, Russ Morgan
+Z:All Rights Reserved
+L:1/4
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"C""_Foxtrox" e2 e ^d |"A7" e3 G |"D7" ^F2 A e | d4 |"G7" d2 d ^c | d3 F |"C" E2 G d | c4 | %8
+w: Some- bod- y|else is|tak- ing my|place|some- bod- y|else now|shares your em-|brace|
+"F" f2 f e | f A3 |"C" e2 e ^d |"A7" e G3 |"D7" ^F2 A B | c2 ^G A |"G7" e2 d ^c | d4 |"C" e2 e ^d | %17
+w: while I am|try- ing|to keep from|cry- ing|you go a-|round with a|smile on your|face|Lit- tle you|
+"^7" e3 G |"D7" ^F2 A e | d4 |"G7" d2 d ^c | d3 F |"C" E2 G d | c4 |"F" f2 f e | f A3 | %26
+w: care for|vows that you|made|Lit- tle you|care how|much I have|paid|My heart is|ach- ing|
+"C" e2 e ^d |"A7" e G2 e |"D7" d2 A c |"G7" B c2 d |"C" c4- | c z z2 |] %32
+w: my heart is|break- ing for|some- bod- y's|tak- ing my|place.||
+

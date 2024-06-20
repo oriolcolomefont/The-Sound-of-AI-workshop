@@ -1,0 +1,32 @@
+X:1
+T:Jingle Bells
+C:James Lord Pierpont
+Z:All Rights Reserved
+L:1/4
+Q:1/4=2
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+"G""^Lively" D B A G | D2 z D/D/ | D B A G |"C" E2 z E | E c"Am" B A |"D" F2 z F | d d"D7" c A | %7
+w: Dash- ing through the|snow. In a|one- horse o- pen|sleigh. *|O'er the fields we|go. *|Laugh- ing all the|
+w: day or two a-|go I *|though I'd take a|ride, and|soon Miss Fan- nie|Bright was|seat- ed by my|
+w: Now the ground is|white; * *|go it while you're|young *|Take the girls to-|night and|sing this sleigh- ing|
+"G" B2 z D |"G" D B A G | D2 z D | D B A G |"C" E2 z E | E c"Am" B A |"G/D" d d d3/2 d/ | %14
+w: way. *|Bells on bob tail|ring. *|Mak- ing spir- its|bright. What|fun it is to|laugh and sing, a|
+w: side. The|horse was lean and|lank, mis-|for- tune seemed his|lot; he|got in- to a|drift- ed bank and|
+w: song. Just|get a bob- tail|bay, two-|for- ty for his|speed, then|hitch him to an|o- pen sleigh and|
+ e d"D7" c A |"G" G2"D7" d2 |"G" B B B2 | B B B2 | B d G3/2 A/ | B2-"G7" B z |"C" c c c3/2 c/ | %21
+w: sleigh- ing song to-|night. Oh!|Jin- gle bells,|jin- gle bells,|jin- gle all the|way. *|Oh! What fun it|
+w: we, we got up-|sot! Oh!||||||
+w: crack! you'll take the|lead! Oh!||||||
+"G" c B B B/B/ |"A7" B A A B |"D7" A2 d2 |"G" B B B2 | B B B2 | B d G3/2 A/ | B2-"G7" B2 | %28
+w: is to ride in a|one- horse o- pen|sleigh! Hey!|Jing- le bells,|jing- le bells,|jin- gle all the|way. *|
+w: |||||||
+w: |||||||
+"C" c c c3/2 c/ |"G" c B B B/B/ |"D" d d"D7" c A |1,2"G" G3 D :|3 G4 |] %33
+w: Oh, what fun it|is to ride in a|one- horse o- pen|sleigh! *|sleigh!|
+w: |||* A||
+w: |||||
+

@@ -1,0 +1,22 @@
+X:1
+T:Dance, little lady
+T:Dance little lady
+C:Noël Coward
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+"D" F2 F2 |"D/C#" F G/A/ G F |"Bm" d2 F"Gm6/Bb" F- | F E F G |"D/F#" A2 D"Em7" D- | D C"A7" D E | %6
+w: Dance dance|dance lit- tle la- dy|Youth is pleas-|* ing to the|rhy- thm beat-|* ing in your|
+"D" F4- | F4 |"F#m" A2 A2 |"F#m6" A B/c/ B A |"A/C#" e2 A"F#m" B- | B A"Cdim" ^G F | %12
+w: mind||Dance dance|dance lit- tle la- dy|So ob- sessed-|* with sec- ond|
+"Bm" d2 ^G"Bm7/E" A- | A ^G"E7" F E |"A" c4- | c4 |"D7" A3/2 B/ d3/2 B/ | A A3 | A3/2 B/ A3/2 E/ | %19
+w: best no rest-|* you'll ev- er|find||Time and tide and|trou- ble|nev- er nev- er|
+ A4 |"G" E3/2 F/ E3/2 F/ | E E3 |"Em7" E3/2 F/ E3/2 F/ |"A7" E4 |"D" F2 F2 |"D/C#" F G/A/ G F | %26
+w: wait|Let the cauld- ron|bub- ble|Just- i- fy your|fate|Dance dance|dance lit- tle la- dy|
+"Bm6" F2"Bbdim" F2 |"D7/A" F G/A/"C7" G"B7" F |"Em7" d2 ^A"A7" B- | B F A2 |"D" D4- | D4 |] %32
+w: Dance dance|dance lit- tle la- dy|Leave to- mor-|* row be-|hind||
+

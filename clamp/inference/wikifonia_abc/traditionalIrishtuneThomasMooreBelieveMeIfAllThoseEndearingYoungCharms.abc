@@ -1,0 +1,21 @@
+X:1
+T:Believe Me, If All Those Endearing Young Charms
+T:Believe me if all those endearing young charms
+T:(Irish)
+C:traditional Irish tune
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4"^N.C." ED |"C" C3 D C2 | C2 E2 G2 |"F" F2 A2 c2 | c4 BA |"C" G3 F E2 |"G7" D3 C D2 |"C" E6- | %8
+w: Be *|lieve me if|all those en-|dear- ing young|charms which I|gaze on so|fond- ly to-|day|
+ E4 ED | C3 D C2 | C2 E2 G2 |"F" F2 A2 c2 | c4 BA |"C" G2 c2 E2 |"G7" D3 C D2 |"C" C6- | C4 GF | %17
+w: * were to|change by to-|mor- row and|fleet in my|arms like *|fair- y gifts|fad- ing a-|way|* thou wouldst|
+ E2 G2 c2 | c4 GG |"F" A2 F2 c2 | c4 BA |"C" G3 F E2 |"G" D3 C D2 |"C" E6- | E4 ED | C3 D C2 | %26
+w: still be a-|dored as this|mo- ment thou|art let thy|love- li- ness|fade as it|will|* and a-|round the dear|
+ C2 E2 G2 |"F" F2 A2 c2 | c4 BA |"C" G2 c2 E2 |"G7" D3 C D2 |"C" C6- | C4 z2 |] %33
+w: ru- in each|wish of my|heart would en-|twine it- self|ver- dent- ly|still.||
+

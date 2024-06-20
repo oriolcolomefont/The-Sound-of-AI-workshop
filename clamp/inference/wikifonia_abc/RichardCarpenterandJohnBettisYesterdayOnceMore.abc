@@ -1,0 +1,45 @@
+X:1
+T:Yesterday Once More
+T:Yesterday Once More
+T:Richard Carpenter & John Bettis
+C:Richard Carpenter and John Bettis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" z4 z FFG |:"F" A2 c2 cAcA |"Am/E" d c2 A- A2 Ac |"Dm" d2 e2 A c2 c |"Dm/C" d4 z2 Ac | %5
+w: When I was|young I'd lis- ten to the|ra- di- o * wait- in'|for my fav- rite songs|* when they|
+w: * (look- in')|back on how it was in|years gone by * and the|good times that I had|* makes to-|
+"Bbmaj7" d2 a2 g f2 e- |"Am7" e3 c A c2 A |"Gm7" G8 |"C/E""Bb9/D" z4"Bb/C" z FFG | %9
+w: played I'd sing a- long|* it made me smile,||Those were such|
+w: day seem rath- er sad|* so much has changed.||* It was|
+"F" A c2 c- cAcA |"Am/E" d c2 A- A2 Ac |"Dm" d2 e2"Dm/C" A c2 d- |"Bbmaj7" d4"Em7b5" e2"A7" g2 | %13
+w: hap- py times * and not so|long a- go * how I|won- dered where they'd gone|* But they're|
+w: songs of love * that I would|sing to them * and I'd|mem- o- rise each word.|* Those old|
+"Dm" fedd- defe |"Dm/C" f e2 d- d2 de |"Bbmaj7" f2 f2"Gm7" d f2 g- |"Bb/C" g2 z2 f2"C" g2 | %17
+w: back a- * gain * just like a|long lost friend * all the|songs I love so well|* Ev- 'ry|
+w: mel- o- * dies * still sound so|good to me * as they|melt the years a- way.-||
+"F" aaaa- a2 gf |"Dm" efed- d2 Ac- |"F" c8 |"Dm" z4 z2 fg |"F" aaaa a2 gf |"Dm" efed- d2 Ac- | %23
+w: sha- la- la- la * ev- 'ry|wo * wo * * still shines.||Ev- 'ry|shing- a ling- a- ling that they're|start- in' to sing * so fine|
+w: ||||||
+"Gm7" c8 |"C" z4"Bb/C" z2"C" de |"Dm" fefg- g2 fe |"Db+" fefg- g2 fg |"F/C" a2 a2 g f2 d- | %28
+w: |when they|get to the part * where he's|break- ing her heart * it can|real- ly make me cry|
+w: |All my|best mem- o- ries * come back|clear- ly to me * some can|ev- en make me cry|
+"Bm7b5" d2 A2 AdAA |"F/C" c8 |"Bb/C" z2 z A AG/F/-FG |"Fmaj7" A4- A B2 G- |1"Gm/F" G6 z2 || %33
+w: * just like be- * fore||It's yes- ter- day * once|more. * * *||
+w: * just like be- * fore.-|||||
+"Fmaj7" z2 AA A B2 G- |"Gm/F" G6 FG :|2"Gm/F" G2 z2"Bb/C" f2"C" g2 |:"F" aaaa- a2 gf | %37
+w: (Shoo- bie do lang lang.-|) Look- in'|* Ev- 'ry|Sha- la- la- la * ev- 'ry|
+w: ||||
+"Dm" efed- d2 Ac- |"F" c8 |"Dm" z4 z2 fg |"F" aaaa a2 gf |"Dm" efed- d2 Ac- |"Gm7" c8 | %43
+w: wo- * wo * * still shines||ev- 'ry|shing- a- ling- a- ling that they're|start- in' to sing * so fine||
+w: ||||||
+"C" z4"Bb/C" f2"C" g2 |"^repeat and fade" z8 :| %45
+w: Ev- 'ry||
+w: ||
+

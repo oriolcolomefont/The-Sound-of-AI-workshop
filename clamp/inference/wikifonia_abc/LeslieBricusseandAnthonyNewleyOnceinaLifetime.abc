@@ -1,0 +1,27 @@
+X:1
+T:Once in a Lifetime
+T:Once In a Lifetime
+T:Leslie Bricusse, Anthony Newley
+C:Leslie Bricusse and Anthony Newley
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z B, ||"Eb" A G/A/ G E- | E2 z B, |"Bbm7" _D C/_D/ C A,- | A,2 z B, |"Eb" A G/A/ G E- | %6
+w: |once in a life- time|* a|man knows a mo- ment|* one|won- der- ful mo- ment|
+ E G"Ab" (3A G A |"Bbm" B4- |"Eb7" B2 z E |"Abmaj7" c B/c/"Gm7" B E- |"Fm7" E2 z"Eb9" E | %11
+w: * when fate takes his|hand.|* And|this is my mo- ment,|* my|
+"Abmaj7" c B/c/"Bbm6" B _d- |"C7b9" d2 z B |"Fm7" c B/c/"Gm7" B"Eb" E |"Fm7" c B/c/"Gm7" B"Cm7" E | %15
+w: once in a life- time|* when|I can ex- plore a|new and ex- ci- ting|
+"F7" F4- |"Fm7" F z"Bb7" z"E7b5" B, |"Eb" A G/A/ G E- | E2 z B, |"Bbm7" _D C/_D/ C A,- | A,2 z B, | %21
+w: land.|* For|once in my life- time|* I|feel like a gi- ant.|* I|
+"Eb" A G/A/ G E- | E"Ab" G (3A G A |"Bbm" B4- |"Eb7" B2 z E |"Abmaj7" c B/c/"Gm7" B E- | %26
+w: soar like an ea- gle|* as tho' I had|wings.|* For|this is my mo- ment.|
+"Fm7" E2"Ebmaj7" z"Eb7" E |"Abmaj7" c B/c/"Bbm6" B _d- |"C7b9" d2 z B |"Fm7" c B/c/"Gm7" B"Eb" E | %30
+w: * My|des- ti- ny calls me.|* And|tho' it may be just|
+"Fm7" c B/c/"Dm7" B"G7" d |"Cm7" e"F7b5" f/d/"Fm7" e"Bb7" f |"Eb" e4- | e4- | e3 z |] %35
+w: once in a life- time|I'm gon- na do great|things.|||
+

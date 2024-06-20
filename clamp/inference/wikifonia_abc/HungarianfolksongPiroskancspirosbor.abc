@@ -1,0 +1,14 @@
+X:1
+T:Piros kancsó, piros bor
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ A A3 G E3 | D E3 A,4 :: DEFE DEDC |1 B,2 G,2 C4 :|2 B, G,3 G,4 |] %5
+w: Pi- ros kan- csó,|pi- ros bor,|I- szom a bort, ö- lel- em a|ba- bá- mat,||
+w: Mind- járt rám ke-|rül a sor.|Azt a ku- tya min- de- nit a||vi- lág- nak!|
+

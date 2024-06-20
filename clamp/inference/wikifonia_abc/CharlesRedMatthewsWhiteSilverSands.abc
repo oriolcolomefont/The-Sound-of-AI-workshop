@@ -1,0 +1,37 @@
+X:1
+T:White Silver Sands
+T:White Silver Sands
+T:Charles G. (Red) Matthews
+C:Charles 'Red' Matthews
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G B |:"Eb" E4- | E E G B |"Ab" E E3 | z2 c e |"Eb" E4- | E E"Ab" A c |"Bb7" B4 | z B c d | %9
+w: Where the|deep|* blue pear- ly|wa- ters|wash up-|on|* white sil- ver|sands|there on the|
+w: |||||||||
+"Eb" e4 | z E G c | B G3 | z2 G B |"Bb7" B,4 | z B, D F |"Eb" E4 | z2 G B |"Eb" E4- | E E G B | %19
+w: brink|of love I|kissed her|annd o-|beyed|my hearts com-|mand|where the|deep|* blue pearl- y|
+w: ||||||||||
+"Ab" E E3 | z2 c e |"Eb" E4- | E E"Ab" A c |"Bb7" B4 | z B c d |"Eb" e4 | z E G c | B G3 | z2 G B | %29
+w: wa- ters|wash up-|on|* white sil- ver|sands|we watched the|sun-|set in the|eve- ning|in a|
+w: ||||||||||
+"Bb7" B,4 | z B, D D |"Eb" E4 | z E"Eb7" E E |"Ab" c4- | c2 c d |"Fm7" e2"Bb7" d2- | d z"Bb" E E | %37
+w: far|and dis- tant|land|so here be-|neath|* God's blue|heav- en|* theres a|
+w: |||we'll watch the|sun|set in the|eve- ning|* see the|
+"Eb" B4- | B2 B c |"Eb7" G B3- | B2 E E |"Ab" c4- | c c c d |"Fm7" e2"Bb7" d2- | d z"Bb" E E | %45
+w: place|* I must|go *|* see the|sun|* set in the|eve- ning|* with the|
+w: moon|yel- low and|pale *|* watch the|Gaucho|* * ride the|pin- to|* out a-|
+"Eb" B4- | B G B B |"Fm7" B F3- |"Bb7" F z G B |"Eb" E4- | E E G B |"Ab" E E3 | z2 c e |"Eb" E4- | %54
+w: on|* ly love I|know *|* where the|deep|* blue pear- ly|wa- ters|wash up-|on|
+w: cross|* the pam- pas|trail. *|||||||
+ E E"Ab" A c |"Bb7" B4 | z B c d |"Eb" e4 | z E G c | B E3 | z2 G B |"Bb7" B,4 | z B, D F | %63
+w: * white sil- ver|sands|there on the|brink|of love I|kissed her|and o-|beyed|my hearts com-|
+w: |||||||||
+"Eb" E4 |"Bb" z2"Bb7" G B :|"Eb" E4- | E3 z |] %67
+w: mand.|where the|mand.||
+w: ||||
+

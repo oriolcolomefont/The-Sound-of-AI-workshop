@@ -1,0 +1,15 @@
+X:1
+T:Nem loptam én életembe
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"C" G3 e ^d e3 |"G7" f3 d ^c2 d z |"G7" G d3 ^c d3 |"C" e3 c"G7" B2"C" c z | %4
+w: Nem lop- tam én|é- le- tem- be,|Csak egy csi- kót|Deb re cen be,|
+"C" e2 g2"G7" f2"C" e2 |"D7" d3 c B A3 |"G7" G G3 A B3 |"C" c3"G7" B d"C" c3 |] %8
+w: Még- is rám- ver-|ték a vas- at,|Bab- ám szi- ve|majd meg- ha- sadt.|
+

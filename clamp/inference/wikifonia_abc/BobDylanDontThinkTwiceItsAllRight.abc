@@ -1,0 +1,51 @@
+X:1
+T:Don't Think Twice,It's All Right
+T:Don't Think Twice,It's All Right
+T:Bob Dylan
+C:Bob Dylan
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z D/D/ |"G" G3/2 G/ G G |"D7" F3/2 F/- F2 |"G" G3/2 G/ G G |"D7" A3/2 A/- A B |: %5
+w: ||||* * * It|
+w: |||||
+"G" B/ B B/- B3/2 B/ |"D" d/ d3/2 d d |"Em" B3/2 G/- G2 | E3/2 E/- E2 |"C" z C C C | C C B, C | %11
+w: ain't no use * to|sit and won- der|why, Babe *||It * don't|mat- ter an- y-|
+w: ain't no use * in|turn- in' on your|light, Babe *||That light *|* I nev- er|
+"G" D z/ B,/ B, B, |"D7" D3/2 D/- D B/B/ |"G" B/ B B/- B3/2 B/ |"D" d/ d3/2 d d |"Em" B3/2 G/- G2 | %16
+w: how. * * *|* * * An' it|ain't no use * to|sit and won- der|why, Babe *|
+w: knowed. * * *|* * * An' it|ain't no use * in|turn- in' on your|light, Babe *|
+ E3/2 E/- E2 |"A7" z G G G | G G F G |"D" D z/ A,/ A, A, |"D7" D2 G G |"G" G G2 G | G G G A | %23
+w: |If * you|don't * know by|now. * * *|* When the|roos- ter *|crows * at the|
+w: |I'm on the|dark side of the|road. * * *|* Still I|wish there was|some- thin' you would|
+"G7" B3 B | B4 |"C" z G G G |"C7" G G"A7" A A- | A"A9" B2 B | B4 |"G" z G G G | G G/-G/ G G | %31
+w: break of|dawn|Look out your|win- dow and *|* I'll be|gone.|You're * the|rea- son * I'm *|
+w: do or|say|To try and|make me change my|* mind and|stay.|We nev- er|did- * too * much|
+"Em" G G G/ G3/2 |"C" E4 |"G" z G G G |"D7" D2 D D |1"G" G, z/ D/ D D ||"D7" D3/2 D/- D B :|2 %37
+w: trav- 'lin' * *|on'|Don't * think|twice, it's all|right. * * *|* * * 2...It|
+w: talk- in' an- y-|way,|So don't think|twice, it's all|right. * * *||
+"G" G z/ D/ D D ||"D7" G3/2 G/- G B |:"G" B/ B B/- B3/2 B/ |"D" d/- d3/2 d d |"Em" B3/2 G/- G2 | %42
+w: |* * * 3...I'm|walk- in' down * that|long * lone- some|road, Babe *|
+w: |* * * (4...It)|ain't no use * in|call- in' out my|name, Gal *|
+ E3/2 E/- E2 |"C" z C2 C | C C B, C |"G" D z/ B,/ B, B, |"D7" D3/2 D/- D B |"G" B/-B/ B2- B/B/ | %48
+w: |Where I'm|bound I can't *|tell. * * *|* * * But|good- * bye's * *|
+w: |Like you|nev- er did be|fore. * * *|* * * It|ain't no use * in|
+"D" d/- d3/2 d d |"Em" B3/2 G/- G2 | E3/2 E/- E2 |"A7" z G G G |"A7" G G F G |"D" D z/ A,/ A, A, | %54
+w: too * good a|word, Gal *||So I'll just|say * fare thee|well. * * *|
+w: call- in' out my|name, Gal *||I * can't|hear you an- y|more. * * *|
+"D7" D2 G G |"G" G G G G | G G G A |"G7" B2 B B | B3 A |"C" G G G G |"C7" G"A7" G3- | G"A9" B B B | %62
+w: * I ain't|say- in * *|you * treat- ed|me * un-|kind, You|could have done *|bet- ter|* but I don't|
+w: * I'm a|think- in' and a|won- d'rin' all the|way down the|road, I|once * loved a|wom- an,|* a child I'm|
+ B3 B |"G" B B B B | B B B B |"Em" B B2 B |"C" E4 |"G" z G G G |"D7" D2 D D |1"G" G, z/ D/ D D || %70
+w: mind. *|You just kind- a|wast- ed * *|my pre- cious|time,|But don't think|twice, it's all|right. * * *|
+w: told. I|give * her my|heart * but she|want- ed my|soul,|But don't think|twice it's all||
+"D7" D3/2 D/- D B :|2"G" G, z/ D/ D D || G3/2 G/- G z |] %73
+w: * * * 4...It|||
+w: |right. * * *||
+

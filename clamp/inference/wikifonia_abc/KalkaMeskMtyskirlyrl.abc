@@ -1,0 +1,22 @@
+X:1
+T:Mesék Mátyás királyról
+T: 
+C:Kaláka
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" cccc c2 G2 | egfe"G" d2 d2 |"C" cccc c2 G2 | egfe"G" d2 d2 |"F" aaag f2 e2 |"C" egfe"G" d2 d2 | %6
+w: Ma- gyar u- rak jõ- nek|Bu- da vá- ro- sá- ba,|Vi- téz, jó vaj- dá- jok,|Já- nos hí- vá- sá- ra,|Szé- pen ösz- sze gyûl- vén,|ki- ráy- ra sza- vaz- ni,|
+w: Há- rom- szor re- pült az|ko- ro- na az ég- be,|Há- rom- szor is szállt az|Má- tyás szép fe- jé- re,|Így lett az or- szág- nak|jó, vi- téz ve- zé- re,|
+"F" aaag f2 e2 |"C" egfe"G" d2 d2 :|"C" cccc c2 G2 | egfe"G" d2 d2 |"C" cccc c2 G2 | egfe"G" d4 | %12
+w: Há- rom- szor az ég- be|ko- ro- nát fel dob- ni.|Mi- lyen ki- ráy volt õ,|í- me bi- zony- sá- ga,|I- gaz tet- te- i- nek|szép his- tó- ri- á-|
+w: Így lett az ma- gar- nak|di- csõ fe- je- del me,-|||||
+"C" c4 z4 |] %13
+w: ja.|
+w: |
+

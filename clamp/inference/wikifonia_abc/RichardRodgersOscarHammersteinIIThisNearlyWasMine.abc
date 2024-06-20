@@ -1,0 +1,36 @@
+X:1
+T:This Nearly Was Mine
+T:This Nearly Was Mine
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C3 |"Dm7" C B, C |"Ebdim" C3- |"C/E" C2 z |"G/B" G3 |"Bbdim" G ^F G |"F/A" G/c/ F2- | %7
+w: One|dream in my|heart,||one|love to be|liv- ing for,|
+w: One|girl for my|dream,||one|part- ner in|par- a- dise,|
+w: Now|now I'm a-|lone,||still|dream- ing of|par- a- dise,|
+"Fm/Ab" F2 z |"C/G" E3 |"F#m7b5" E ^D E!dacoda! ||"F" E/A/ D2- |"Fm" D2 z |"C" C3 |"G7" C B, C | %14
+w: |one|love to be|liv- ing for,||this|near- ly was|
+w: |this|pro- mise of|par- a- dise,||this|near- ly was|
+w: |still|say- ing that|||||
+"C" C3- | C2 z :|"F/A" F E F |"C/G" c2 _B |"F" A3- | A2 z |"C/E" C B, C |"G/D" G2 F |"C" E3- | %23
+w: mine.||Close to my|heart she|came,||on- ly to|fly a-|way,|
+w: mine.|||||||||
+w: |||||||||
+"C7" E2 z |"F" F E F |"Gm7" c2 _B |"F" A3 |"D7" d2 d |"G" d3- | d3 |"Dm7" G3- |"G7" G2 z!D.C.! || %32
+w: |on- ly to|fly as|day|flies from|moon-||light.||
+w: |||||||||
+w: |||||||||
+O"F" E/A/ c2- |"Fm" c2 z |"C" c3 |"G7" c B c |"C" c3- | c3 |] %38
+w: par- a- dise||once|near- ly was|mine.||
+w: ||||||
+w: ||||||
+

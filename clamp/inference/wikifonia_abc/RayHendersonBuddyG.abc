@@ -1,0 +1,23 @@
+X:1
+T:Life Is Just a Bowl of Cherries
+T:Life is just a bowl of cherries
+T:Lew Brown,   Ray Henderson
+C:Ray Henderson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+|:"C" G3 E GEGE | G2 A,2- A,A,A,A, | ^A,A, A,2- A,A,A,A, |"G7" B,B, B,2- B,3 F | %4
+w: Life is just a bowl of|cher- ries * dont make it|se- ri- ous * lifes too mys-|te- ri- ous * you|
+"Dm7" A3 F"G7" A3 B |"C" c2 G2"A7" G2 AG |"Dm" F2 EF EFGF |"D" E2 C2"G7" D2 G,2 |"C" G3 E GEGE | %9
+w: work you save you|wor- ry so but you|cant * take your dough when you|go go go so|keep re- peat- ing its the|
+ G2 A,4 G2 |"Gm" _B2 =B2"A7" E2 E2 |"Dm" c4- c3 B |"F7" cA^F^D-"B7" ^D3 c |"Em7" BGE^C-"A7" ^C3 B | %14
+w: ber- ries the|strong- est oak must|fall * the|sweet things in life * to|you were just loaned * so|
+"Dm7" AFDB,-"G7" B,3 C |"D" EDC"G"D- D4 |"C" G3 E"Em" GEGE |"A7" A2 E4 A2 | %18
+w: how can you lose * what|you've nev- er owned *|life is just a bowl of|cher- ries so|
+"D" c3 A"Dm7" AG"G7" A2 |1"C" c4- c2- c2 :|2 c4- c2 z2 |] %21
+w: live and laugh at it|all. * *||
+

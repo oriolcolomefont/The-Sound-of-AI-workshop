@@ -1,0 +1,38 @@
+X:1
+T:Blue Skies
+T:Blue Skies (Eb)
+T:Irving Berlin 1926 
+T:mariehelene.julien@gmail.com
+C:Irving  Berlin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb6/Bb""_INTRO" efga b4 |"Abm6/Bb" _c'bab-"Gm/Bb" b4 |"Abm/Bb" (3a2 g2 f2"Gm/Bb" g4 | %3
+w: |||
+"Abm6/Bb" fede-"Eb6" e4 |"Eb6/Bb" efga b4 |"Abm6/Bb" (3_c'2 b2 a2"Gm/Bb" b4 | %6
+w: * * * * .|||
+"Abm/Bb" (3a2 g2 f2"Gm/Bb" g4 |"Abm6/Bb" fede"G+7" z e3 |]:"Cm""_A" C4 G4- |"^Cm(maj7)" G4 FEFG- | %10
+w: ||Blue Skies|* smil- ing * *|
+"Cm7" G8- |"F9" G4 FE F2 |"Fm9" G4 B,4- |"Bb13" B,4 B, C2 E- |"Ebmaj7" E8 | %15
+w: me.|* Noth- ing but|blue skies|* do I see.||
+"Dm7b5" =B,2 _B,2"G+7" =A,2 _A,2 ||"Cm""_A" C4 G4- |"^Cm(maj7)" G4 FE F2 |"Cm7" G8- | %19
+w: |Blue- birds|* sing- ing a|song:|
+"F9" G4 FE F2 |"Fm9" G4 B,4- |"Bb13" B,4 B, C2 E- |"Eb" E8- | E8 |]"Eb6/Bb""_B" EFGA B4 | %25
+w: * noth- ing but|blue- birds|* all day long|||Nev- er saw the sun|
+"Abm6/Bb" _cB A2"Gm/Bb" B4 |"Abm/Bb" AG F2"Gm/Bb" G4 |"Abm6/Bb" FE D2"Eb6" E4 |"Eb6/Bb" EFGA B4 | %29
+w: shin- ing so bright,|Nev- er saw things|go- ing so right.|No- ti- cing the days|
+"Abm6/Bb" _cB A2"Gm/Bb" B4 |"Abm6/Bb" AG F2"Gm/Bb" G4 |"Abm6/Bb" FE D2"G+7" E4 ||"Cm""_A" C4 G4- | %33
+w: hur- ry- ing by;|when you're in love,|my how they fly.|Blue days,|
+"^Cm(maj7)" G4 FE F2 |"Cm7" G8- |"F9" G4 FE F2 |"Fm9" G4 B,4- |1"Bb13" B,4 B, C2 E- ||"Eb" E8- | %39
+w: * all of them|gone.|* Noth- ing but|blue skies|* from now on.||
+"Dm7b5" E4"G+7" z4 :|2"Bb13" z4 (3G2 A2 B2 ||"Gm7" d4 c4 |"Cm" z4 FE F2 |"Fm" G4 B,4 | %44
+w: |No- thing but|blue skies|Noth- ing but|blue skies|
+"Bb" z4 E2 E2 |"^Am7(#5)""Abm6" E8- |"^Gm7(#5)""Gb13" E8 |"F7""Fbmaj7" z8 | z8 |] %49
+w: from now|on||||
+

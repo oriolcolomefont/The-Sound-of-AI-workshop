@@ -1,0 +1,19 @@
+X:1
+T:Allô maman bobo
+C:Alain Souchon, Laurent Voulzy
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 0
+V:1
+"F" A2 A B2 AFC | A,A,A,F- F4 |"Bb" z B,B,B, B,B,B,F- | F4 z4 |"F" A2 A B2 AFC | A,A,A,F- F4 | %6
+w: J'march' tout seul le long d'la|lign' de ch'min d'fer *|Dans ma tête y'a pas d'af- faires||J'donne des coups d'pied dans une|ptit' boîte en fer *|
+"Bb" z B,B,B, B,B,B,F- | F4"Bb/A" z2 z A |"Gm" BBB B2 z2 A |"A7" AG G4 z A |"Dm" AAAA"C" GF A2 | %11
+w: Dans ma tête y'a rien à faire|* J'suis|mal en cam- pagne et|mal en ville Peut~\-|être un p'tit peu trop fra- gile|
+"F" z AAA"D" A2 AB- |"Gm" B4 z4 |"A7" z EEE AGGG |"Dm" GF A2 z4 |"D7" z AAA d2 cB- |"Gm" B4 z4 | %17
+w: Al- lô Ma- man bo- bo||Man- man com- ment tu m'as fait|j'suis pas beau|Al- lô Ma- man bo- bo||
+"A" z EEE F2 ED- |"Dm" D4 z4 |"C" z8 x8 |] %20
+w: Al- lô Ma- man bo- bo|||
+

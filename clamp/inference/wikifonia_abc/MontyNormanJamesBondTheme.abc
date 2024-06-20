@@ -1,0 +1,31 @@
+X:1
+T:James Bond Theme
+T:James Bond Theme
+C:Monty Norman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em" B,2 G,2"Em#5" C2 G,2 |"Em6" ^C2 G,2"Em#5" =C2 G,2 |"Em" B,2 G,2"Em#5" C2 G,2 | %3
+"Em6" ^C2 G,2"Em#5" =C2 G,2 |"Em" EF/F/FF-"Em#5" FEEE |"Em6" EG/G/GG-"Em#5" GFFF | %6
+"Em" EF/F/FF-"Em#5" FEEE |"Em6" EG/G/GG-"Em#5" GFFF |"Em" EF/F/FF-"Em#5" FEEE | %9
+"Em6" EG/G/GG-"Em#5" GFFE |"Em" ^d=d- d4"Em#5" BA |"Em6""Em#5" B8 |"Em" EF/F/FF-"Em#5" FEEE | %13
+"Em6" EG/G/GG-"Em#5" GFFF |"Em" EF/F/FF-"Em#5" FEEE |"Em""Em6" EG/G/GG-"Em#5" GFFF | %16
+"Em" EF/F/FF-"Em#5" FEEE |"Em6" EG/G/GG-"Em#5" GFFE |"Em" ^d=d- d4"Em#5" BA |"Em6""Em#5" B8 | %20
+"Em" B,2 G,2"Em#5" C2 G,2 |"Em6" ^C2 G,2"Em#5" =C2 G,2 |"Em" B,2 G,2"Em#5" C2 G,2 | %23
+"Em6" ^C2 G,2"Em#5" =C2 G,2 ||"Em" E G2 ^d"Em#5" =d3 G |"Em6" ^AB-"Em#5" B6 | %26
+"Em" G2 F2-"Em#5" FB,E^C- |"Em6""Em#5" C8 |"Em" E G2 ^d"Em#5" =d3 G |"Em6" ^AB-"Em#5" B6 | %30
+"Em" G2 F2-"Em#5" FB,^DE- |"Em6""Em#5" E8 |"Em" E G2 ^d"Em#5" =d3 G |"Em6" ^AB-"Em#5" B6 | %34
+"Em" G2 F2-"Em#5" FB,E^C- |"Em6""Em#5" C8 |"Em" E G2 ^d"Em#5" =d3 G |"Em6" ^AB-"Em#5" B6 | %38
+"Em" G2 F2-"Em#5" FB,^DE- |"Em6""Em#5" E8 ||"Em" E E2 E"B7/E" F>E F2 |"Em6" G G2 G"B7/E" F>E F2 | %42
+"Em" E E2 E"B7/E" F>E F2 |"Em6" G G2 G"B7/E" F>E F2 ||"Em6" BB z2 z2 BB | z4 B/BB/BB | %46
+"Em" B,2 E,2"Em#5" C2 E,2 |"Em6" ^C2 E,2"Em#5" =C2 E,2 ||"Em" EF/F/FF-"Em#5" FEEE | %49
+"Em6" EG/G/GG-"Em#5" GFFF |"Em" EF/F/FF-"Em#5" FEEE ||"Em6" EG/G/GG-"Em#5" GFFF | %52
+"Em" EF/F/FF-"Em#5" FEEE |"Em6" EG/G/GG-"Em#5" GFFE |"Em" ^d=d-"Em#5" d4 BA |"Em6""Em#5" B8 | %56
+"Em" E, G,2 ^D =D2 G,B,- | B,F =F2 B, D2 ^A | =A2 =FA- A2 ^d=d- | d2 !fermata!F6 |] %60
+

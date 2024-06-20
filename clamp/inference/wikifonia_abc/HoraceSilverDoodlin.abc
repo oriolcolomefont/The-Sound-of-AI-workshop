@@ -1,0 +1,40 @@
+X:1
+T:Doodlin'
+T:Doodlin'
+C:Horace Silver
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Db
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Db7" z2 (3_C/D/C/ A, =C D3 | (3_C/D/_C/ A,=CD- D2 (3_C/D/C/ A, | =C D3 (3_C/D/C/ A,=CD- | %3
+w: Us- in' _ the phone booth,|Mak- in _ a few calls _ Do- od- * lin'|weird things, Us- in' _ the booth walls.|
+ D2 z2 z4 |"Gb7" z2 (3_F/G/F/ D =F G3 | (3_F/G/F/ D=FG- G2 (3_C/D/C/ A, | %6
+w: _|Got me _ a big date,|Wait- in' _ for my chick, _ Put- tin' _ her|
+"Db7" =C D3 (3_C/D/C/ A,=CD- | D2 F>G"Bb7" F>E=D>B, |"Ebm7" F>=DE>F G>B"Eb9"_d>f | %9
+w: face on, So she _ could look slick|_ I en- joy pro- cras- sti-|nat- ing, 'Cause I'm bus- y while I'm|
+"Ab9" g f3 dAcd- |"Db" d4 (3G/A/G/ E=GA- | A2 z2 z4 ||"Db7" z2 (3_C/D/C/ A, =C D3 | %13
+w: wait- in', dood- lin a- way,|_ do- od- * lin' a- way.|_|Sit- in' _ and din- in',|
+ (3_C/D/_C/ A,=CD- D2 (3_C/D/C/ A, | =C D3 (3_C/D/C/ A,=CD- | D2 z2 z4 | %16
+w: Din- ner _ be- gin- in' _ Star- ted _ de-|sign- in', Us- in' _ the lin- en.|_|
+"Gb7" z2 (3_F/G/F/ D =F G3 | (3_F/G/F/ D=FG- G2 (3_C/D/C/ A, |"Db7" =C D3 (3_C/D/C/ A,=CD- | %19
+w: Talk- in' _ to my date,|Do- od- * lin' my bit, _ Wait- er _ got|salt- y, Told me _ to please quit.|
+ D2 F>G"Bb7" F>E=D>B, |"Ebm7" F>=DE>F G>B_d>f |"Ab9" g f3 dAcd- |"Db6" d4 (3G/A/G/ E=GA-!dacoda! || %23
+w: _ Told the wait- er "Don't be|diz- zy, Can't you see I'm ver- y|bus- y, Dood- lin' a- way,|_ Do- od- * lin' a- way.|
+ A2 z2 z4 | z G F2 DA,"Ab7/C"CD- |"Db" D z"Bdim" =BB"Bbdim7" _BB"Adim7"=AA | %26
+w: |"Do you dood- le all day?"|_ Asked the wait- er in his|
+"Abdim7" _AG F2"Db" DA,"Ab7"CD- |"Db" D z"Abdim7" AA"Gdim7" =GG"Gbdim7"_GG | %28
+w: way. "Do you dood- dle all night?".|_ Told the wait- er he was|
+"Fdim7" F_c B2"Gb" GD"Db7"FG- |"Gb" G z"Edim7" dd"Ebdim7" cc"Ddim7"_cc | %30
+w: right, In your do- od- lin way,|_ Thats the way I'm gon- na|
+"Dbdim7" BG F2"Db" DA,"Ab7"CD- |"Db" D z"Bdim7" AA"Bbdim7" =GG"Adim7"_GG | %32
+w: stay, Are you think- in' things right?|_ Dood- lin sheds a lot of|
+"Abdim7" FB,DF"Bb7" z D z A, |"Ebm7" G,8 |"Ab7" z G F2 DA,CD- | %35
+w: light. Don't know what I can|do.|Ain't noth- in' you can do.|
+"Db7" D z"Bdim" =BB"Bbdim7" _BB"Adim7"=AA |"Db7" A4"Ab+7" z4!D.S.! || %37
+w: _ Dood- lin's all I want to|do|
+O"Db/Ab" z _G F2 DA,C"G9#11"C- | !fermata!C8 |] %39
+w: We sure like it that way.|_|
+

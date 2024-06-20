@@ -1,0 +1,35 @@
+X:1
+T:Anastasia
+T:Anastasia
+T:Alfred Newman
+T:Paul F. Webster
+C:Alfred Newman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 G3/2 B/ |:"C#m7b5" ^c2 B2- | B2 B,/E/G/B/ |"F#7" ^A4- | A2 F3/2 ^A/ |1"B7" B2 =A2- | %6
+w: A- na-|sta- sia|* tell me who you|are.|* Are you|some- one|
+w: |sta- sia|* are you what you|seem?|* Do your||
+ A2 B,/^D/F/A/ |"Em6" G4- | G2 G3/2 B/ :| B2 A2- | A A"B7b9" (3A G F |"Em" E4 || z E E E | %13
+w: * from a- no- ther|star?|* A- na-|sad eyes|* re- mem- ber a|dream?|Why do you|
+w: |||||||
+"Am7" E2"D7" D2- | D c (3c B A |"G" G4- | G C C C |"Am" C2"B7" B,2- | B, A (3A G F |"Em" E4- | %20
+w: trem- ble|* and why do you|sigh?|* Could you be|lone- ly|* as lone- ly as|I?|
+w: |||||||
+ E E ^D E |"Dm6" =F2"E7" E2- | E d (3d c B |"Am" A4- | A A G F |"Em6" E3 E | %26
+w: * Will you re-|mem- ber,|* when sum- mer has|flown|* a- no- ther|world, a|
+w: ||||||
+"C#m7" (3E F E"F#7" ^D E |"B7" F4- | F2 G B ||"C#m7b5""C#m7b5" ^c2 B2- | B2 B,/E/G/B/ |"F#7" ^A4- | %32
+w: world that is yours a-|lone?|* A- na-|sta- sia|* smile a- way the|past.|
+w: ||||||
+ A2 F3/2 ^A/ |"B7""B7" B2 A2- | A2 B,/^D/F/A/ |"Em" G4- | G2 (3E G B |"E7b9" d2 c2- | %38
+w: * A- na-|sta- sia|* spring is here at|last.|* Beau- tiful *|stran- ger|
+w: ||||||
+ c2 B/A/^G/B/ |"Am" A4- | A A B c |"Em" B B, E G |"B7b9" B A (3A G F |"Em" E4 |] %44
+w: * come down from your|star.|* I on- ly|know I love you|so, who- ev- er you|are.|
+w: ||||||
+

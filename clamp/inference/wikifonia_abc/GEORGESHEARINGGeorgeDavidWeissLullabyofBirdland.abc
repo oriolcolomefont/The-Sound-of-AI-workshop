@@ -1,0 +1,38 @@
+X:1
+T:Lullaby of Birdland
+T:Lullaby of Birdland 
+T:George Shearing
+C:George Shearing
+Z:All Rights Reserved
+L:1/8
+Q:1/4=160
+M:4/4
+K:Ab
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Fm7" ccBA"Dm7b5" G F3 |"G7b9" =D2 F"C7b9"=E- E4 |"Fm7" C2 G"Dbmaj7"F- F4 |"Bbm7" D2 c"Eb7"B- B4 | %4
+w: Lul- la- by of bird- land,|that´s what I _|al- ways hear _|when you sigh. _|
+w: Have you ev- er heard two|tur- tle doves _|bill and coo _|when they love? _|
+"Cm7" eedc"Fm7" B A3 |"Bbm7" FcB=E-"Eb7b9" EcB_E- |1"Abmaj7" E4-"Dbmaj7" EBAD- | %7
+w: Nev- er in my word- land|could there be words _ to re- veal|_ _ in a phrase|
+w: That's the kind of ma- gic|mu- sic we make _ with our lips|_ _ _ _ _|
+"Gm7b5" DAGC-"C7" C4 :|2"Abmaj7" E4-"Eb7" EEGA- ||"Abmaj7" A8 ||"Cm7b5" c2 d=d"F7b9" ece_d- | %11
+w: _ how I feel! _|||And there's a wee- py old wil-|
+w: |* * when we kiss!|_||
+"Bbm7" d B3- B4 | B2 =Bc"Eb7b9" d_Bdc- |"Abmaj7" c8 |"Cm7b5" c2 d=d"F7b9" ece_d- |"Bbm7" d B3- B4 | %16
+w: * low _|he real- ly knows how to cry!|_|That´s how I cry in my pil-|* low _|
+w: |||||
+"Eb7b9" B2 =Bc d_Bdc- |"Abmaj7" cdc"C7"B- B4 |:"Fm7" ccBA"Dm7b5" G F3 |"G7b9" =D2 F=E-"C7b9" E4 | %20
+w: if you should tell me fare- well|_ and good- bye! _|Lul- la- by of Bird- land|whis- per low _|
+w: ||||
+"Fm7" C2 GF-"Dbmaj7" F4 |"Bbm7" D2 cB-"Eb9" B4 |"Cm7" eedc"Fm7" B A3 | %23
+w: kiss me sweet _|and we'll go _|fly- in' high in Bird- land|
+w: |||
+"Bbm7" FcB=E-"Eb7b9" EcB_E- |1"Abmaj7" E4-"Dbmaj7" EBAD- |"Gm7b5" DAGC-"C7" C4 :|2 %26
+w: high in the sky _ up a- bove|_ _ all be- cause|_ we´re in love. _|
+w: |||
+"Abmaj7" E4- E=EFd- ||"Bbm7" d4"Eb9" c2 cA- |"Abmaj7" A8- | A6 z2 |] %30
+w: _ _ all be- cause|_ we´re in love.|_||
+w: ||||
+

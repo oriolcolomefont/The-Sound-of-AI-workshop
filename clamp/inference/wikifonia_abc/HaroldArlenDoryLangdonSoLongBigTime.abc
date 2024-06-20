@@ -1,0 +1,58 @@
+X:1
+T:So Long, Big Time
+T:So Long Big Time
+T:Harold Arlen
+T:Dory Langdon
+C:Harold Arlen
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 0
+V:1
+"Eb" E _G2 E"Eb+" G2 A2- |"Eb6""Eb+" A8 |"Eb" E _G2 E"Eb+" G2 E2- |"Eb7""Eb6" E8 | %4
+w: Bright lights are dim- mer,||bank roll is slim- mer,||
+"Eb" E _G2 E"Eb+" G2 A2 |"Bb7" =A2 B2"F7b9" _d4 | z"D9" =A_AG"Eb+7" _G2 E2 |"Eb" e8- | %8
+w: looks like I'm down and|done, bye bye.|I got- ta run, bye|bye.|
+"Bb7" e2 z2 z4 |:"Eb9" _d B3"Ab7" =A _A3 |"Eb7" _G E3- E4 |"F9" e c3"Bb7" =B _B3 |"F7" A F3- F4 | %13
+w: |So long, so long,|Big Time. *|So long, so long|Big Time. *|
+"Bb9" z GGB c2 G2 |"G7b5" z F2 G F4 |"Ebm6" z EEA B2 E2 |"Bb7b9" z _D2 E D4 | %17
+w: I made it fine I|made it fast.|That ain't a sign it|has to last.|
+"Bbm7b5" z _D2 E _F_G A2 |"Eb7sus4""Eb7" B8 | z"Gb7" _D2 E _F_GA_c |"F+7" _d8 | %21
+w: Had it made for a|while.|In a high- fa- lu- tin'|style!|
+"Eb" _d B3"Ab7" =A _A3 |"Eb7" _G E3- E4 |"F9" e c3"Bb7" =B _B3 |"F7" A F3- F4 |"Bb9" z GGB c2 cB | %26
+w: So long, so long|Big Time. *|Big dough, bright lights,|Big Time. *|I won't pre- tend I am|
+"Eb9" z c2 e f2 e2 |"Ab9" z _G2 E e4 |"F7b5" z F2 E e4 |"Eb6" E2 F2"G+7" G2 A2 | %30
+w: glad it's o- ver.|It was fun.|Now it's done.|But I'll ne- ver|
+"C9" =A2 B2"F9" =B2 c2 |"Bb7" _d8 |"Eb9" _d2 B2"Bb+7" _d2 B2 |"D9" z =A_AG"A9" _G2 E2 || %34
+w: sing a lo- sers|song,|So long, Big Time,|I got- ta run, so|
+[M:2/2]"Ebm""Ebm#5" e8- |"Ebm6""Ebm#5" e8- |"Ebm""Ebm#5" e4 z4 |"Ebm6""Ebm#5" z8 || %38
+w: long.||||
+ z"Ebm" A2 _G"Ebm#5" A2 GA- |"Ebm6" A A2 _G"Ebm#5" A2 G2 |"Ebm" z A2 _G"Ebm#5" A2 GA- | %41
+w: Tell the chicks and tell|* all the cro- nies|lost it on the cards|
+"Ebm6" A A2 _G"Ebm#5" A2 G2 |"Cm7b5" z A2 _G A2 G"F7"=A- | A =A2 _G A2 G2 |"Bb13" =A B2 B- B4- | %45
+w: * and the pon- ies.|Tell the friends and fair|* weath- er pho- nies|liv- in' high, *|
+ B8 |"Eb13" =B c2 c- c4- |"Eb7" c4 z2 _B2 |"C13b9" c _d2 d- d4- | d8 |"F9" z _d2 B d2 Bd- | %51
+w: |tell 'em bye. *|* And|tell 'em why. *||La- dy Luck just gave|
+"Bb+7" d _d2 B _d2 B2 |"Bbm7" e4 c4 |"E9" =B4"Eb13" c4 |"A13" z2 e2 =B2 c2 |"Ab13" f4"B" c4 | %56
+w: * me the brush off,|so I'll|rush off|and try a|new rou-|
+"Bbm7" B8- |"C7" B8 |"Fm" z A2 F"Fm#5" A2 FA- |"Fm6" A A2 F"Fm#5" A2 F2 |"Dbmaj9" c4 A4 | %61
+w: tine.||I'm a guy who rolls|* with the punch- es,|and my|
+"^G7+5" G4 A4 |"C7b9" z2 A2 G2 A2 |"Gb7b5" c4"C9#5" A4 |"F7b9" _G8- |"Bb9#5" G8 | %66
+w: hunch is|it's time to|quit the|scene.||
+"Cm7b5" z _G2 E G2 EG- | G _G2 E G2 E2 |"F+7" z A2 _G A2 _GA- | A A2 _G A2 _G2 | %70
+w: Tell the kids and tell|* all the cook- ies,|tell the babes and tell|* all the book- ies|
+ =A"Bb13" B2 B- B4- | B4 z4 |"Eb13" =B c2 c- c4- |"Eb7#9" c4 z2 B2 |"C13b9" c _d2 d- d4- | %75
+w: that I knew, *||that I'm through. *|* And|when you do: *|
+"C7#5b9" d4 z4 ||[M:3/4]"Bbm7b5" c2 _d2 _d2 | c2 _d2 d2 |"F9#5" c2 _d2 d2 |"Bb13" c2 _d2 d2 || %80
+w: |Buy a few|beers for me,|tell 'em no|tears for me.|
+[M:4/4]"Eb9" _d B3"Ab7" =A _A3 |"Eb7" _G E3- E4 |"F9" e c3"Bb7" =B _B3 |"F7" A F3- F4 | %84
+w: So long, so long|Big Time. *|Big dough, bright lights,|Big Time. *|
+"Bb9" z GGB c2 cB |"Eb9" z c2 e f2 e2 |"Ab9" z _G2 E e4 |"F7b5" z F2 E e4 |"Eb6" E2 F2"G+7" G2 A2 | %89
+w: Ain't gon- na grieve 'cause I|must be leav- in'.|It was fun.|Now it's done.|But I'll ne- ver|
+"C9" =A2 B2"F9" =B2 c2 |"Bb7" _d8 |"Eb9" _d2 B2"Bb+7" _d2 B2 |"D9" z =A_AG"A9" _G2 E2 | %93
+w: sing a los- ers|song.|So long, Big Time.|I got- ta run, so|
+"Eb9""Ab13" e8- |"Eb9" e8 |] %95
+w: long.||
+

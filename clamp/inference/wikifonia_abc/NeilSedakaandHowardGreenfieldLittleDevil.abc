@@ -1,0 +1,45 @@
+X:1
+T:Little Devil
+T:Little Devil
+T:Neil Sedaka & Howard Greenfield
+C:Neil Sedaka and Howard Greenfield
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" c2 d2 c2 B2 |"Am" B c2 A- A4 |"F""Dm7" A6 AG |"G7" A G3- G2 z2 ::"C" c2 BB AA G2 | %5
+w: Woe, woe, woe, woa!|Yeah, yeah, yeah! *|Hey! Lit- tle|Dev- il! *|1...Hey! Lit- tle Dev- il, you're|
+w: ||||2....Hey! Lit- tle Dev- il, you|
+ A2 EG- GA c2 |"Am" A8- | A4"Dm7" z2"G7" GG |"C" c2 BB AAGG | A2 EG- GA c2 |"Am" A8- | %11
+w: al- ways run- * ing a-|round,|* It's *|time that * some- * one *|start- ed tam- * in' you|down;|
+w: got me all * in a|whirl,|* You're a|cute Lit- tle Dev- il and I'm|gon- na make * you my|girl;|
+ A4"Dm7" z2"G7" G2 |"C" c2 z2 z2 c2 |"E7" B2 cB- B3 E |"F" A2 F2 c2 A2 |"Cdim" c2 A6 | %16
+w: * There'll|be some|chang- es made, * your|rov- in' days are|through, *|
+w: * You're|out to|break my heart, * but|just be- fore you|do, *|
+"C" G2 G^G"A7" A A2 =G |"D7" A^GA^A"G7" BAB=G |1"C" c8- ||"Dm7" c2 z2 z4 :|2"C" c8- || %21
+w: Hey! Lit- tle Dev- il, I'm|gon- na make an an- gel out of|you.||you.|
+w: Hey! Lit- tle Dev- il I'm|gon- na make an an- gel out of||||
+"Am" c2 z2 z2 c2 |"E7" B2 cB- B3 E | B2 cB- B3 B |"Am" B2 A2 A2 BA- | A4 z2 BA |"D7" D2 ^F2 AABA | %27
+w: * They|say be- ware * but|I don't care * I|love you just the same,|* You're an|old heart break- er and a|
+w: ||||||
+ D2 ^F2 A A2 A |"G7" B2 B2"Dm7" A"G7" A2 G- | G2 G2"Dm7" A2"G7" B2 |"C" c2 BB AAGG | A2 EG- GA c2 | %32
+w: mis- chief mak- er but|I'm wise to your game.|* Woe, woe, woe!|Hey! Lit- tle Dev- il ev- 'ry-|thing is gon- * na be|
+w: |||||
+"Am" A8- | A4"Dm7" z2"G7" G2 |"C" c2 B2 A2 G2 | A2 EG- GA c2 |"Am" A8- | A4"Dm7" z2"G7" G2 | %38
+w: fine.|* 'Cause|some- day soon I'm|gon- na make * you all|mine;|* There'll|
+w: ||||||
+"C" c6 c2 |"E7" BB^AB- B3 E |"F" A2 A2 c2 A2 |"Cdim" c A3- A2 z2 |"C" G2 G^G"A7" A A2 =G | %43
+w: be no|run- nin' a- round, * you|met your "Wa- ter-|loo," * *|Hey Lit- tle Dev- il I'm|
+w: |||||
+"D7" A^GA^A"G7" BAB=G |"C""Dm7""Ab7""C" c8- | c z z2 z4!fine! |: %46
+w: gon- na make an an- gel out of|you!||
+w: |||
+"C""^optional repeat and fade" c2 d2 c2 B2 |"Am" B c2 A- A4 |"F""Dm7" A6 AG |"G7" A G3- G2 z2 :| %50
+w: Woe, woe, woe, woa!|Yeah, yeah, yeah! *|Hey! Lit- tle|Dev- il! *|
+w: ||||
+

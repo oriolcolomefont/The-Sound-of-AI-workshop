@@ -1,0 +1,52 @@
+X:1
+T:Doralice
+T:Doralice
+T:Joao Gilberto
+T:Gilberto
+C:Joao Gilberto
+Z:All Rights Reserved
+L:1/16
+M:2/4
+K:D
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 FG |:"Dmaj9" AAAd-"D69" dddB- |"E13" BB2B"E7b13" eeec- |1"A9sus4" c^Bcf-"A7b9" fec=B- | %4
+w: Do- ra-|li- ce eu bem * que te di|* sse a- mar é to- li-|* ce͜~é bo- ba- * gem ilu- são|
+w: |li- ce eu bem * que te di|* sse- o~- lha͜~e- ssa͜~em- bru- lha-||
+"Dmaj9" B4"D69" z2 FG |"Dmaj9" AAAd-"E9" dBdc- |"Amaj7" cc2e"F#m7" afa^g- | %7
+w: _ eu pre-|fi- ro vi- ver * tão so- zi-|* nho ao som do la- men-|
+w: |||
+"Bm7" ge^gf-"E13" f^dBe- |"A9sus4" e4 z2"A7b9" FG :|2"A9sus4" cccc"A9" BAf2- | %10
+w: * to do meu * vi- o- lão|* Do- ra|* da͜~em que vou me me- ter|
+w: |||
+"D9sus4" f4 z"D7b9" b2a- |"Gmaj7" ag2_B-"C9" B2a_a |"F#m7" gffA-"B7b9" A2ff | %13
+w: * A- go-|* ra͜~a- mor, * Do- ra-|li- ce meu bem, * Co- mo|
+w: |||
+"Em7" aeee-"A9" eddd- |1"Dmaj9" d4 z2"D69" FG :|2"Dmaj9" d4 z"D69" fg^g ||"Em7" agfe"A9" fg2a- | %17
+w: é que nos va- * mos fa- zer?|* Do- ra-|* Um be- lo|di- a vo- cê me sur- giu|
+w: ||||
+"Dmaj9" a4 z"D69" de^e |"C#m7" fedc"F#7" de2f- |"Bm7" f4 z eee |"Em7" edce"A9" dcec | %21
+w: _ eu quis fu-|gir mas vo- cê in- sis- tiu|* Al- gum- ma|coi- sa bem que͜~an- da- va me͜~a- vi-|
+w: ||||
+"Dmaj9" B2>A2-"Fdim" Aeee |"Em7" edce"A9" dcec |"Dmaj9" B2>A2"Fdim" dddd |"Em7" BBAB"A9" cc2B- | %25
+w: san- do, * A- té pa-|re- ce que͜~eu es- ta- va͜~a di- vi-|nhan- do,͜~eu bem que não que-|ri- a me ca- sar con- ti-|
+w: ||||
+"Dmaj9" BA2A"Fdim" dddd |"Em7" BBAB"A9" ccBA |"D9sus4" baaa"D7b9" f2>d2 |"Gmaj7" B^ABc"C9" dcde | %29
+w: * go, * bem que não que-|ri- a en- fren- tar es- se pe-|ri- go, Do- ra- lice, A-|gor- ra vo- cê tem que me di-|
+w: ||||
+"F#m7" f4 z2"B7b9" ff |"Em7" a2ee"A9" edcd- |"D69" d4 z"D7b9" ^abc' | %32
+w: zer Co- mo|é que nos va mos fa- zer?|* (SCAT...) * *|
+w: |||
+"Gmaj7" d'bgf"C#7/G#" ^ec'2c'- |"F#m7" c'afe"B7b9" ^db2b- |"Em7" bged"A9" ca2a- | %35
+w: |||
+w: |||
+"Am7" a4 z"D7b9" ^abc' |"Gmaj7" d'bgf"C#7/G#" ^ec'2c' |"F#m7" c'afe"B7b9" ^db2 z |"E13""A7b9" z8 | %39
+w: ||||
+w: ||||
+"Dmaj7" z8 |] %40
+w: |
+w: |
+

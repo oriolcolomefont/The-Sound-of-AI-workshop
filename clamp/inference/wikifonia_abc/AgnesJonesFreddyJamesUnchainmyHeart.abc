@@ -1,0 +1,67 @@
+X:1
+T:Unchain my Heart
+T:Unchain my Heart
+T:Agnes Jones and Freddy James
+C:Agnes Jones, Freddy James
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 73
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 73
+V:1
+"^Intro: Rubato" z2 AG A2 c2 |"Am" e8- | e2 ec dc A2 | c8 | dcd_e e4 |"E7" G2 E2 G2 ^G2 |"Am" A8 | %7
+w: Un- * chain my|heart|* ba- by let * me|be|* 'cause you don't care|please, please set me|free|
+w: |||||||
+ z8 |: z2 AG A2 c2 |"Am" e8- | e2 ec dc A2 | c8- | c2 AG A2 c2 |"F7" _e2 d6- | dcd_e dc A2 | %15
+w: |Un- * chain my|heart|* ba- by let * me|go|* Un- * chain my|heart *|* 'cause you don't love me no|
+w: |Un- * chain my|heart|* ba- by let * me|be.|* Un- * chain my|heart *|* 'cause you don't car a- bout|
+"Am" c8- | c8 |"Dm" z ddc dcdc |"Am" _e2 dc- c4 |"Dm" z ddc dcdc |"E7" _e2 dc-"Am" c2 Ac | %21
+w: mo'||* Ev'- ry time I call you|on the phone *|some fel low tells me that you're|not at home * so un-|
+w: me||You've got me sewed up like a|pil- low case *|* but you're let- ting my love|go to waste * * *|
+"F9" _e2 d2 c2 A2 |"E7" G2 E2 G2 ^G2 |"Am""^horn riff" A8"Am" :|"^Break" z2 A2 Ac A2 |"Dm" d8- | %26
+w: chain my heart Oh|please, please set me||I'm un- der your|spell|
+w: |||||
+ d2 dc"E7" d2 cd |"Am" e8 | z2 A^G A2 c2 |"Dm" d8- | d2 cd"F9" _e2 dc |"E7" e8 | %32
+w: * Like a man in a|trance|But I know darn|well|* that I don't stand a||
+w: ||||||
+"E7" z2"^(tacet)" AG A2 B2 |"Am" e8- | e2 ec dc A2 | c8- | c2 AG A2 c2 |"F7" _e2 d6- | %38
+w: Un- * chain my|heart|* let me go * my|way|* Un * chain my|heart *|
+w: ||||||
+ dcd_e dc A2 |"Am" c8- | c8 |"Dm" z ddc dcdc |"Am" _e2 dc- c4 |"Dm" z ddc dcdc | %44
+w: * you wor- ry me night and|day.||Why lead me thru a life of|mis- er- y *|when you don't care a bag of|
+w: ||||||
+"E7" _e2 dc-"Am" c2 Ac |"F9" _e2 d2 c2 A2 |"E7" G2 E2 G2 ^G2 |"Am" A8"Am" |"E7" z8 |"Am" z8 | z8 | %51
+w: beans for me * Un- *|chain my hear Oh,|please, please set me|||||
+w: |||||||
+ z8 | z8 |"F7" z8 | z8 |"Am" z8 |"E7" z8 |"F9" z8 |"E7" z8 |"Am" z8 |"^Break" z2 A2 Ac A2 | %61
+w: |||||||||I'm un- der your|
+w: ||||||||||
+"Dm" d8- | d2 dc"E7" d2 cd |"Am" e8 | z2 A^G A2 c2 |"Dm" d8- | d2 cd"F9" _e2 dc |"E7" e8 | %68
+w: spell|* Like a man in a|trance|But I know darn|well|* that I don't stand a||
+w: |||||||
+"E7" z2 AG A2 B2 |"Am" e8- | e2 ec dc A2 | c8- | c2 AG A2 c2 |"F7" _e2 d6- | dcd_e dc A2 | %75
+w: Un- * chain my|heart|* let me go * my|way|* Un * chain my|heart *|* you wor- ry me night and|
+w: |||||||
+"Am" c8- | c8 |"Dm" z ddc dcdc |"Am" _e2 dc- c4 |"Dm" z ddc dcdc |"E7" _e2 dc-"Am" c2 Ac | %81
+w: day.||Why lead me thru a life of|mis- er- y *|when you don't care a bag of|beans for me * Un- *|
+w: ||||||
+"F9" _e2 d2 c2 A2 |"E7" G2 E2 G2 ^G2 |"Am" A8 |[Q:1/4=60]"^Ending: Rubato" z2 AG A2 c2 |"Am" e8- | %86
+w: chain my hear Oh,|please, please set me|free|Un- * chain my|heart|
+w: |||||
+ e2 ec dc A2 | c8 | dcd_e e4 |"E7" G2 E2 G2 ^G2 |"Am" A8 | z8 |] %92
+w: * ba- by let * me|be|* 'cause you don't care|please, please set me|free||
+w: ||||||
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |: x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %19
+ x8 | x8 | x8 | x8 | aag!^!a c'ag!^!a :| x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %35
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | aaga c'aga | x8 | x8 | x8 | x8 | x8 | %53
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %72
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | %91
+ x8 |] %92
+

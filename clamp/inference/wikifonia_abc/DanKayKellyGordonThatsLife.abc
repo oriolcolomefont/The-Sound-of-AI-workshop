@@ -1,0 +1,39 @@
+X:1
+T:That's Life
+T:That's Life
+C:Dan Kay, Kelly Gordon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 z3 B |"G" B2 z2 z4 |"B7" z B (3BBB A4 |"Em7" z E G/E/G/E/ B"Bb7" E3 |"A7" z BB>B G z"Cm6" G>A | %5
+w: That's|life,|That's what peo- ple say|You're rid- 'in high in Ap- ril,|shot down in May. But I|
+w: |||||
+"G" B>dB>d"Cmaj7" B3"B+7" G |"Em7" E6 GA |"A9" B2 e2 B3 B |"Am7" A6"D9" z B |"G" B2 z2 z4 | %10
+w: know I'm gon- 'na change that|tune, when I'm|back on top in|June, That's|Life,|
+w: |||||
+"B7" z2 B/B/B/B/ A4 |"Em7" z E G/A/B/A/"Bb7" G4 |"A7" BB B2 A3 G/A/ |"G" B2 B>d"F#m7" B3"F7" B | %14
+w: fun- ny as it seems|some peo- ple get their kicks|step- 'pin on dreams, But I|don't let it get me|
+w: ||||
+"Em7" E6 GA |"A9" B B2"D9" B- B2 (3BGG |"G" G4 z FG>^G |:"G7" (3AAG (3AAG (3AAG (3AAG | %18
+w: down, 'cause this|ol' world keeps * go- ing a-|round. I've been a|pup- et, a pau- per ,a pir- ate, a po- et, a|
+w: ||||
+ B>GBA- A2 (3z G^G |"C6" (3:2:2A2 G (3:2:2A2 G (3AAG (3:2:2A2 G | B>GBA- A2"Bb7" z2 | %21
+w: pawn, and a king. * I've been|up and down and ov- er and out and|I know one thing: *|
+w: |||
+"A7" ^c2 (3:2:2c2 A (3:2:2B2 A B2 | ^c>AcB- B2- B>A |"D7" (3:2:2d2 B d2 (3:2:2d2 d e2 | %24
+w: each time I find my- self|flat on my face * * I|pick my- self up and get|
+w: |||
+ fdfd- d2"D9" e2 |"G" B2 z2 z4 |"B7" z BB>B B A2 z |"Em7" z EGA BA (3z GE | %28
+w: back in the race * That's|Life|I can't den- y it,|I thought of quit ting but my|
+w: ||||
+"A7" (3B2 B2 B2 A G2"Cm6" G/A/ |"G" BB (3BBB"Fm7b5" B3"B7" A |"Em7" (GE-) E4 EE/E/ | %31
+w: heart just won't buy it. If I|did- n't think it was worth a|try * * I'd * *|
+w: * * * * * But if|there's no- thing shak- in' this Ju-|ly- * * I'm gon- na|
+"A7b9" _B>AGG/E/ BA/G/G"D7"E |1"G" AG- G3 FG>^G :|2"G" (AG-) G6- || G6 z2 |] %35
+w: jump right up on a big bird and then I'd|fly. * * I've been a|||
+w: roll my- self * up in a big ball and||die. * *||
+

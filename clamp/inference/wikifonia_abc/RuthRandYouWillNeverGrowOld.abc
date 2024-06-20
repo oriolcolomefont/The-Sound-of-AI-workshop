@@ -1,0 +1,28 @@
+X:1
+T:You Will Never Grow Old
+T:You will never grow old
+T:Ruth Rand
+T:Bright Waltz Tempo
+C:Ruth Rand
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^Verse:""Eb" B,2 B, | B, E2 |"Fm7" B,2 B, |"Bb7" B, F G |"Ab" A C A |"Eb" G B, G |"Bb7" F3- | %7
+w: Dont be|fret- ful|or re-|gret- ful that|you will grow|old much too|soon|
+"Fm7" F"Abm" A3/2 A/ |"Bb7" A F2- | F A3/2 A/ |"Eb" G E2- | E2"Ab" F |"Eb" G B, G |"Bb7" F B, F | %14
+w: * with a|love dear|* to dream|of dear|* you'll|stay like a|rose bud in|
+"Eb" E3- |"^Chorus:" E3 |:"Eb" G2 G |"Bb7" A G3/2 F/ |"Eb" E3- | E3 |"Ab" c2 c |"Ab" e d c | %22
+w: June||You will|nev- er grow|old||While theres|love in your|
+"Eb" B3- |"Gm" B3 |"Fm7" A2 A |"Bb7" c B A |"Eb" G2"Gm" B |"Cm" E3 |"F7" E2 E | G F E | %30
+w: heart||time may|sil- ver your|gold- en|hair|as you|dream in an|
+"Bb7" D"Fm" E"G" =E |"Bb7" F2 B, |"Eb" G2 G |"Bb7" A G3/2 F/ | E3- |"Eb" E2 E |"Ab" c A c | e d c | %38
+w: old rock- in|chair so|keep my|love in your|heart|* re-|mem- ber the|love tales we|
+ B3- | B2 E |"Ab" c2 A |"C" e d c |"Eb" B2 E |"Abm" B A2 |"Eb" G2 B, |"Bb7" F"Fm7" E"Bb7" F |1 %46
+w: told|* for|with my|love in you|heart my|dar- ling|you will|nev- er grow|
+"Eb" E3 ||"Bb" z3 :|2"Eb" G3- || G3 |] %50
+w: old.||old||
+

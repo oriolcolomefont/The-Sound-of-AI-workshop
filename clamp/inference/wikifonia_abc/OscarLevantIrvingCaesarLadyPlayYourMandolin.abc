@@ -1,0 +1,30 @@
+X:1
+T:Lady, Play Your Mandolin
+T:Lady, Play Your Mandolin
+C:Oscar Levant
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" z/ c A/"D7" d c |"Gm" B A/G/- G z |"F" z/ A F/"Gm7" B"C7" G | E D/C/- C/ z/ z | %4
+w: La- dy play your|man- do- lin, _|la- dy let that|tune be- gin, _|
+"F" z/ c A/"D7" d c |"Gm" B A/G/- G/"C7" c A/ |"Am" c c"F" F2 | C/D/"F#dim7"_E/E/- E/"Dm"D/"C" C | %8
+w: When you sing your|song of sin, _ I'm a|sin- ner too!||
+ z/"F" c A/"D7" d c |"Gm" B A/G/- G z |"F" z/ A F/"Gm7" B"C7" G | E D/C/- C/ z/ z | %12
+w: La- dy when you|play for me, _|Night turns in- to|day for me, _|
+"F" z/ c A/"D7" d c |"Gm" B A/G/- G/"C7" c A/ |"Am" c c"F" F2 | C/D/_E/"F#dim7"E/- E/"Dm"D/"C" C | %16
+w: And though an- gels|pray for me _ I be-|long to you!||
+"Bb" z/ F D/ G F |"Bbm" z/ F _D/ G F |"F" z/ F C/ F A | c4- | c3"Dm" (d |"F" c4- | c3)"Fdim7" (d | %23
+w: Se- ño- ri- ta,|Sweet Chi- qui- ta,|I could eat your|hear-|aah- aah-|aah-|* aah.-|
+"C7" c3) z |"F" z/ c A/"D7" d c |"Gm" B A/G/- G z |"F" z/ A F/"Gm7" B"C7" G | E D/C/- C/ z/ z | %28
+w: rt.|La- dy play your|man- do- lin, _|La- dy sing your|song of sin. _|
+"F" z/ c A/"D7" d c |"Gm" z/ d B/"E7" e d |"Am" c4- | c4 |"Gm""Bb+""Gm7" d4- | %33
+w: Though I fear you|Let me hear you|play,|_|Play|
+"C7" d"C9" E"C7b9" E"C7" E |1"F" F4 |"C7" E D/C/- C2 :|2"F" F4- | F z z2 |] %38
+w: _ your man- do-|lin.||lin.|_|
+

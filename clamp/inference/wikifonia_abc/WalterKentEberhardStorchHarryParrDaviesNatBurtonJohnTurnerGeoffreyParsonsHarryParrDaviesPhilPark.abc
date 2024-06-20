@@ -1,0 +1,41 @@
+X:1
+T:Vera Lynn Medley
+T:Vera Lynn Medley
+T:White Cliffs:Walter Kent & Nat Burton
+T:Auf Wiederseh'n Eberhard Storch 
+T:Wish me luck: Harry Parr Davies & Phil Park.
+C:Walter Kent -  Eberhard Storch - Harry Parr-Davies
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E G |"C" c2 c2 |"Em" B G2 C |"F" A2 A A |"C" G E2 C |"Dm" F2 F2 |"G7" E D C D |"C" E4- | %8
+w: There'll be|blue- birds|o- ver the|white cliffs of|Do ver to|mor row|when the world is|free|
+ E2 E G | c2 c2 |"Em" B G2 C |"F" A2 A A |"C" G E2 C |"Dm" F2 F2 |"G7" E D C D |"C" C4- | C2 z C | %17
+w: * there'll be|love and|laugh ter and|peace ev er|af ter to|mor row|just you wait and|see|* the|
+"F" A/F/ G A A | A2 z c |"C" G/E/ F G G | E2 z C |"F" A/F/ G A A |"Am" c4- | c3 A/B/ | %24
+w: shep herd will tend his|sheep, the|vall eys will bloom a|gain and|Jim my will go to|sleep|* in his|
+"D7" c B/c/ B A |"G7" D2 E G |"C" c2 c2 |"Em" B G2 C |"F" A2 A A |"C" G E2 C |"Dm" F2 F2 | %31
+w: own lit tle room a-|gain- there'll be|blue birds|o ver the|white cliffs of|Do ver to|mor row|
+"G7" E D C D |"C" C4- | C4 | z4 | z4 | z2"C" E2 | E D D2- | D2 F2 |"C" F E E2- | E2 G2 | %41
+w: when the world is|free.||||Auf|Wiederseh'n * *|* auf|wie- der- seh'n|* we"ll|
+"Dm" G F F2- |"G7" F2 A2 |"C" G4- | G2"C7" c2 |"F" c A F2- | F2"G7" A2 |"C" G E C2- | C2"Am" E2 | %49
+w: meet a- gain|* sweet-|heart|* this|love- ly day|* has|flown a- way|* the|
+"D7" E D D2- | D2 E2 |"G7" D4- |"Dm7" D2 E2 |"Dm" E D"G7" D2- | D2 F2 |"C" F E E2- | E2 G2 | %57
+w: time has come|* to|part|* we'll|kiss a- gain|* like|this a- gain|* dont|
+"Dm" G F F2- | F2 A2 |"C" G4- | G2"C7" c2 |"F" c A F2- | F2"G7" A2 |"C" G E C2- | C2 E2 | %65
+w: let the tear|* drops|start|* with|love so true|* I'll|wait for you|* Auf|
+"Dm" F A c2- |"Em" c2"G7" (d2 |"C" c4) | z4 | z4 | z2"C" G G | c2 G c | e2 c a | g4- | g2 G f | %75
+w: wie- der- seh'n|* sweet-|heart.-|||Wish me|luck as you|wave me good-|bye|* chee- ri-|
+ e2 G e |"G7" d2 G d |"C" c4- | c2 G G | c2 G c | e2 c a | g4- | g2 G f | e2 G e |"G7" d2 G d | %85
+w: o here I|go on my|way|* wish me|luck as you|wave me good-|bye|* not a|tear, but a|cheer make it|
+"C" c4- | c4 |"E7" e2 B c | d2 e f |"Am" e2 A B | c2 d e |"G" d2 g2 |"D7" A2 e2 |"G7" d4- | %94
+w: gay||give me a|smile I can|keep all the|while in my|heart while|I'm a-|way|
+ d2 G G |"C" c2 G c | e2 c a | g4- | g2 c f | e2 G e |"G7" d2 a g |"^C" c4- | c2 z2 | z4 | z4 | %105
+w: * till we|meet once a-|gain you and|I|* wish me|luck as you|wave me good-|bye.-||||
+ z4 | z4 | z4 |] %108
+w: |||
+

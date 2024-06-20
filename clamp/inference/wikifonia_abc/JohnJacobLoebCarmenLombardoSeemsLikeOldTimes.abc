@@ -1,0 +1,28 @@
+X:1
+T:Seems Like Old Times
+T:Seems Like Old Times 
+C:John Jacob Loeb
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"F" z2 z C |"G7" D E F A |"C7" G E"Gm7" D"C7" C |"F6" D D3- | D4 |"G7" C D F A | %6
+w: Re-|mem- ber all the|things we did to-|geth- er,|_|all the fun we|
+"C7" G E"Gm7" D"C7" C |"F6" D4- |"Bbdim""F" D4 |"D+7" B A ^F D | B3"D7" A |"G7" A G F D | %12
+w: had on New Years|Eve,|_|how we danced till|dawn, then|dar- ling you were|
+"Gdim" A4 |"G7" A G F E | D E F A |"C7""Gm7""C7" G4- || G2"Gdim" ^C"D7" D |:"D+7" B4 |"D7" A4 | %19
+w: gone,|now it's al- most|too good to be-|lieve.|_ Seems like|old|times,|
+"D+7" B A d B |"D7" B/ A3/2 ^C D |"G9" A4 |"G7" G4 | A G d A | A/ G3/2 ^C D |"Gm7" F3 D | %26
+w: hav- ing you to|walk with. Seems like|old|times,|hav- ing you to|talk with, And it's|still a|
+"C7" A3 ^F/G/ |"F6" d d d c |"D+7" B"D7" A3 |"G9" A3"G7" G | F3 F/G/ |"C7" F E G E | D C ^C D | %33
+w: thrill just to|have my arms a-|round you,|Still the|thrill that it|was the day I|found you. Seems like|
+"D+7" B4 |"D7" A4 |"D+7" B A d B |"D7" B/ A3/2 ^C D |"G9" A4 |"G7" G4 | A G d A | A/ G3/2 ^C D | %41
+w: old|times,|din- ner dates and|flow- ers, just like|old|times,|stay- ing up for|ho- urs, Mak- ing|
+"Gm7" F3 D |"C7" A3 ^F/G/ |"F6" d d d c |"D+7" B2"D7" A d |"G9" A2 A2- |"C7" A A/F/ A A |1 %47
+w: dreams come|true, do- ing|things we used to|do, seems like|old times,|_ be- ing here with|
+"F""Fdim""Gdim" F3 z ||"F" z2 ^C D :|2"F""Bb7" F4- ||"F" F4 |] %51
+w: you.||||
+

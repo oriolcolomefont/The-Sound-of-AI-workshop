@@ -1,0 +1,67 @@
+X:1
+T:If the stars were mine
+T:If the stars were mine
+T:Melody Gardot
+T:Melody Gardot
+T:2009 
+C:Melody Gardot
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gmaj13" z G,/A,/ B, F | F3 E | D B, A, G, |"Em13" B,2 z B, | B, E, G, A, | B, E, G, A, | %6
+w: If the stars were|mine, I'd|give them all to|you. I'd|pluck them down right|from the sky and|
+w: If the stars were|mine, I'd|tell them when to|sing. I'd|make them sing a|son- net when your|
+w: (Scat . . .|. *|||||
+w: If the world was|mine, I'd|paint it gold and|green. I'd|make the o- ceans|or- ang * for~a|
+ B, B,/E/- E/E/ B, | z2 z/ B, A,/ |"D9" E/ E B,/- B,/ A, D/- | D3/2 C/ B, A, | %10
+w: leave it on * ly blue.|I would|nev- er let * the sun|* for- get to|
+w: tel- e- phone * would ring.|I would|put them there * in- side|* the square when-|
+w: ||||
+w: bril- liant col * or scheme.|I would|col- or all _ the moun|* tains, make the|
+ D C/B,/- B,/ A, D/- | D2 z/ D B,/ |"Gmaj13" A,/ G, A,/- A,/ G, A,/- | A,/ B,3/2- B, B,/B,/ | %14
+w: shine up- on * your face.|_ So when|oth- ers would * have rain|* clouds, * you'd have|
+w: ev- er you * went out.|_ so there'd|al- ways be * sweet mu|* sic, * when- ev-|
+w: ||||
+w: sky for- ev * er blue,|_ so the|world would be _ a pain|* ting _ and I'd|
+"D9" D D D/ D D/- | D3 z |"Gmaj13" z G,/A,/ B, F | F3 E | D D D/ D D/- |"Em13" D2 z E | %20
+w: on- ly sun- ny days.||If the stars were|mine I'd|tell you what I'd do.|_ I'd|
+w: er you;d walk a- bout.||If the birds were|mine, I'd|tell you what I'd do.|_ I'd|
+w: ||||||
+w: live~in ~~~~~~~side _ _ with|you.|If the world was|mine, I|tell you what I'd do.|_ I'd|
+"C#dim" G E"Cdim" D3/2 B,/ |"G/B" F/ E"Bbdim" D/- D B, |"D13" A,/ G, B,/- B,3/2 A,/!dacoda! |1 %23
+w: put the stars right|in a jar * and|give 'em all * to|
+w: teach the birds such|love- ly words * and|make 'em sing * for|
+w: |||
+w: wrap the world in|rib- bons and _ then|give it all _ to|
+"Gmaj13" G,4 || z4 | z4 | z4 :|2"Gmaj13" G,2 z F |"C#dim" F E/D/-"Cdim" D B, | %29
+w: you.||||You. I'd|teach the birds * such|
+w: ||||||
+w: ||||||
+w: ||||||
+"G/B" F E"Bbdim" D B, |"D13" A, G, B,3/2 A,/ |"Gmaj13" G,4- | G,4- | G,4 | z4!D.C.! || %35
+w: love- ly words and|make them sing for|you|_|||
+w: ||||||
+w: ||||||
+w: ||||||
+O"Gmaj13" G,2 z F |"C#dim" F E/D/-"Cdim" D B, |"G/B" F E"Bbdim" D B, |"D13" A, G, B,3/2 A,/ | %39
+w: you. I'd|teach the birds * such|love- ly words and|make them sing for|
+w: ||||
+w: ||||
+w: ||||
+"Gmaj13" G,2 z G, |"C#dim" G, G,"Cdim" D C |"G/B" B, D"Bbdim" A G |"D9" F3 E | (D2 C/ B, A,/- | %44
+w: you. I'd|put those stars right|in a jar and|give them|all _ _ _|
+w: |||||
+w: |||||
+w: |||||
+ A,4- | A,3) A, |"Abmaj13" (D2 C2 | =F2 _E2 | D2 C2 | _A,2 D2 |"Gmaj13" B,4- | B,4 | A,4) | z4 |] %54
+w: _|* to|you. _|_ _|||||||
+w: ||||||||||
+w: ||||||||||
+w: ||||||||||
+

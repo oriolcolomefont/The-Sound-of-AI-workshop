@@ -1,0 +1,40 @@
+X:1
+T:Rhymes and Reasons
+T:Rhymes and Reasons
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 c3/2 c/ |:"F" c3/2 c/ c c |"C" c c c c |"Bb" c c c3/2 _B/ |"F" _B A2 z |"Dm" A3/2 A/ A A | %6
+w: So you|speak to me of|sad- ness and the|com- ing of the|win- ter|fear that is with-|
+w: |cit- ies start to|crum- ble and the|tow- ers fall a-|round us,..the|sun is slow- ly|
+"Am" c c c c |"Bb" d3/2 d/ d c |"C" c3 c/c/ |"F" c3/2 c/ c c |"C" c c2 c/c/ |"Bb" c c c _B | %12
+w: in you now that|seems to nev- er|end and the|dreams that have es-|caped you and a|hope that you've for-|
+w: fad- ing and its|cold- er than the|sea it is|writ- ten from the|des- ert to the|moun- tains they shall|
+"F" _B A2 F/G/ |"Dm" A A A d |"F" c _B A A/_B/ |"C" c c c d | c3 d/d/ |"Bb" d d d c | _B _B _B d | %19
+w: got- ten and you|tell me that you|need me now and you|want to be my|friend and you|won- der where were|go- ing wheres the|
+w: lead us by the|hand and by the|heart and they will *|com- fort you and|me in their|in- no- cence and|trust- ing they will|
+"F" c3/2 c/ c c |"C" d c c _B |"Dm" A3/2 A/ d d |"F" c2 z A/_B/ |"C" c3/2 c/ c c | %24
+w: rhyme and wheres the|rea- son and its|you can- not ac-|cept it is|here we must be-|
+w: teach us to be|free * * *||||
+"Gm" c3/2 c/ c c | d3/2 d/ d c | _B _B3- | B4- | B2 d3/2 d/ |"F" c c c c |"Bb" d c c3/2 d/ | %31
+w: gin to seek the|wis- dom of the|chil- dren||* and the|grace- ful way of|flow ers in the|
+w: |||||||
+"C" c4- | c2 c3/2 c/ |"F" c c c3/2 c/ |"C" c c c c |"Bb" c c c d |"F" c/_B/ A2 A | %37
+w: wind|* for the|chil- dren and the|flow- ers are my|sis- ters and my|broth * ers their|
+w: ||||||
+"Dm" A3/2 A/ A _B |"Am" c3/2 c/ c c |"Bb" d3/2 d/ d d |"C" c3 c/c/ |"F" c c c3/2 c/ | %42
+w: laugh- ter and their|love- li- ness would|clear a cloud- y|day like the|mus- ic of the|
+w: |||* and the|song that I am|
+"C" c c2 c/c/ |"Bb" c c c3/2 _B/ |"F" _B A2 F/G/ |"Dm" A A d3/2 d/ |"F" c A2 A/A/ | %47
+w: moun- tains and the|col- ors of the|rain- bow they're a|pro- mise of the|fu- ture and a|
+w: sing- ing is a|prayer to non- be-|liev- ers * *|come and stand be-|side us we can|
+"C7" G G G3/2 G/ |"F" F4 |"Bb" z2 z2 |"C7" z2 c3/2 c/ :|"Bb" F4 |"F" z4 |"C7" z4 |"F" z4 |] %55
+w: bless- ing for to-|day.||though the|way.||||
+w: find a bet- ter||||||||
+

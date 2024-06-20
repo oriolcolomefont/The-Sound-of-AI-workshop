@@ -1,0 +1,26 @@
+X:1
+T:9 Puntos
+T:9 Puntos
+T:Francisco Canaro
+C:Francisco Canaro
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4 z2 ^FG ||"Ab""^A" A3 G"Cm" c3 =B |"Fdim" d3 c"Dm" e3 d | f4- fedc |"G7" c2 =B d4 | %5
+ z2 ^FG AGFG | A2 G d3 c | =B4- BAGF |"Cm" F2 E2 z2 ^FG |"Ab" A3 G"Cm" c3 =B | %10
+"Fdim" d3 c"Cm" e3 d |"Eb7" b4- bge_d |"Ab" f3 c e4 |"Adim" z2 ed fedc |"Eb" e2 B2"Cm" G2 c2 | %15
+"Fm" B2 A2"Bb7" F2 B2 |"Eb" E4 z2 ^FG :|""[K:Eb]"Eb""^B" E2 Bc B2 Bc ||"^i" B2 gg ffee | %19
+"Bb7" d2 Bc B2 Bc | B2 aa ggff |"Eb" e2 Bc B2 Bc | B2 gg ffee |"Bb7" d2 Bc B2 Bc | B2 aa ggff | %25
+"Eb" e2 Bc B2 Bc |"C7" B2 bb aagg |"Fm" f2 c'c' bbaa |"Bb7" g f2 =e f2 ^f2 |"Eb" gB,EG BA GF | %30
+"C7" =E2 aagg f2 |"Fm" gef"Bb7" fdef |"Eb" e2 z2 z4 |] %33
+"Eb""^COUNTERMELODY B SECTION""^i" z2 GF F3 E |"Bb7" A8 | z2 AG G3 F |"Eb" B8 | z2 BA A3 G | %38
+"B7" c4 B4 | F4 A4 |"Eb" G8 |"C7" z2 G2 A2 B2 ||"Fm" c6 A2 |"Bb7" G F2 E F2 ^F2 |"Eb7" G8 | %45
+"C7" z2 G2 A2 B2 |"Fm" e8 |"Bb7" B4 d4 |"Eb" e8 |] %49
+

@@ -1,0 +1,31 @@
+X:1
+T:A Night In Tunisia
+T:A Night In Tunisia
+T:Dizzy Gillespie
+T:All Rights Reserved
+C:Dizzy Gillespie
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ A, |"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, | %5
+w: The|moon is the same moon a-|bove you, _ A-|glow with its cool eve- ning|light. But|
+"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A4 |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z2 z A, || %9
+w: shin- ing at night in Tun-|i- sia, _|Ne- ver does it shine so bright.|_ The|
+"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, | (3B,"Eb7"_DF c4 BF | %14
+w: stars are a- glow in the|hea- vens _ But|on- ly the wise un- der-|stand That|shin- ing at night in Tun-|
+"Dm" ^G A3- A3 A |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D6 A2 ||"Am7b5" c4 A3 G | %18
+w: i- sia _ They|guide you through the des- ert sand.|_ _|Words fail to|
+ ^F2"D7b9" _ed- d2 cA |"Gm" B G2 ^F- FGAG- | G4 z4 |"Gm7b5" B4 G3 F | E2"C7b9" _dc- c2 B^G | %23
+w: tell a tale _ too ex-|o- tic to _ be _ told.|_|Each night's a|deep- er night _ in a|
+"F6" A3 F G2 FE- |"Em7b5" E4"A7b9" z2 z A, ||"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, | %27
+w: world _ a- ges old.|_ The|cares of the day seem to|van- ish. _ The|
+"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, | (3B,"Eb7"_DF c4 BF |"Dm" ^G A3- A4 | %31
+w: end- ing of day brings re-|lease. Each|won- der- ful night in Tun-|i- sia _|
+"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z4 |] %33
+w: where the nights are filled with peace.|_|
+

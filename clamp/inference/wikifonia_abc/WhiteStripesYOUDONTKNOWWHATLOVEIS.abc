@@ -1,0 +1,47 @@
+X:1
+T:YOU DON'T KNOW WHAT LOVE IS
+C:White Stripes
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+L:1/4
+V:1
+|:"A" z2 z2"E" z2 z2 |"D" z2 z2"A" z2 z2 ::"A" [CE]<[CE] [DF][CE]/[DF]/-"E" [DF][EG]- [EG]2 | %3
+w: ||You don't know what love _ is _|
+"D" [FA]>[DF] z [CE]"A" z4 :| z4 z2 z A |"A" cc cB/A/"E" BA/B/ z/ A3/2 |"D" FA B/cA/-"A" A2 A2 | %7
+w: whoo hoo hoo-|In|some re spects I sus pect you've got a|re spect ab le side _ When|
+"A" cccc"E" BB-BF |"D" AA A/A"E6"B/- c2 z/ A/B/A/ |"A" ce ef/"E" z/ =c/B/B- BA/A/ | %10
+w: pushed and pulled and pres sured _ you|seld dom run and hide _ but its for|some one else 's ben e fit _ Not for|
+[M:2/4]"C" =cc/B/-"G" B/BA/- |[M:4/4]"A" A4 z ABA |"A" c/A/c z B/A/"E" B/A/B z/ A/A/F/ | %13
+w: what you wan _ na do.|_ Un til I-|re al ize that you've re al ized: I'm gon na|
+"D" AA =c/-B/A/A/-"A" A2 z2 |"A" [Ec]<[Ec] [Fd][Ec]"E" [Ec][DB] z/ [DB]/[DB] | %15
+w: say these words _ to you. _|YOU DON'T KNOW WHAT LOVE IS YOU JUST|
+"D" [DA][DA][DA][CA]-"A" [CA]2 z2 |"A" c/cc/ dc"E" cB BB/B/ |"D" [DA]>[DA]- [DA][EB]-"E" [EB]2 AB | %18
+w: DO AS YOU'RE TOLD _|Just as a child of ten would act _ You're|far too _ old _ You're not|
+"A" [Ac][Ae] z [Af]/[A=c-]/"E" [GB][GB-] BA/B/ |[M:2/4]"C" [=G=c]>[GB-]"G" [GB]/[GB]/[EA]- | %20
+w: hope less or help _ less _ an I|hate to _ sound cold|
+[M:4/4]"A" [EA]4 z2 B2 |"A" c<c dc/c/-"E" cB- B2- | B2 z2 z4 | z2 z/ d/d ddee- |: %24
+w: _ But|YOU DON'T KNOW WHAT _ LOVE IS: _|_|You just do as you're told|
+"A" [CE]<[CE] [DF][CE]/[DF]/-"E" [DF][EG]- [EG]2 |"D" [FA]>[DF] z [CE]"A" z4 :| %26
+w: You don't know what love _ is _|whoo hoo hoo-|
+"A" cc/d/- dc/c/"E" z/ BB/- BB/c/ |"D" B/AA/ A/B/A-"A" A2 z A | %28
+w: see your man _ can't help but win _ AN Y|prob lems may _ a rise. _ But|
+"A" c/cd/- d/c/c/A/"E" B/BB/- BB/B/ |"D" AA A/F/B-"E" B2 z A/B/ |"A" ce- e/f"E"e>=czAA/ | %31
+w: in his mind _ there can be no _ sin _ if YOU|nev er crit i cize _ You just|keep on _ re peat ing al those|
+[M:2/4]"C" =cc/B/-"G" B/B/A- |[M:4/4]"A" A2 z2 z4 | z4 z2 z/ A/B/A/ |"A" cc dc/c/"E" c<B B/B/B | %35
+w: emp ty "I _ LOVE YOUS"|_|Un til you|say that you de serve bet ter I'm gon na|
+"D" AA A/F/A-"A" A2 z2 :| %36
+w: lay right in to you _|
+V:2
+|: x4 | x4 :: x4 | x4 :| x4 | x4 | x4 | x4 | G2 z2 | x4 |[M:2/4] x2 |[M:4/4] z2 z2 | x4 | x4 | x4 | %15
+ x4 | x4 | x4 | x4 |[M:2/4] x2 |[M:4/4] x4 | x4 | x4 | x4 |: x4 | x4 :| x4 | x4 | x4 | G2 z2 | x4 | %31
+[M:2/4] x2 |[M:4/4] x4 | x4 | x4 | x4 :| %36
+

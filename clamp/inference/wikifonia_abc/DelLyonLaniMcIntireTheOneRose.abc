@@ -1,0 +1,25 @@
+X:1
+T:The One Rose
+T:The One Rose
+T:Del Lyon & Lani McIntire
+C:Del Lyon & Lani McIntire
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 c^c |"Bb7" d2 c3 G | B2 G3 F |"Ebdim" ^F6 |"Eb" G4 B2 |"Bb7" d2 c3 G | B2 G3 ^F |"Eb" G6- | %8
+w: You're as|sweet as the|red rose in|June,|Dear, I|love you, a-|dore you, I|do.|
+ G4 z2 |"G7" G2 ^F3 G | d2 =B3 G |"C7" d2 c2 B2 | G6 |"F7" e2 d3 c | =A2 G3 F |"Bb7" B6- | %16
+w: |Each night thru'|love- land we'd|wan- der, sweet-|heart,|tell- ing love|sto- ries a-|new.|
+ B4 (3Bc^c |"Bb7" d2 c3 G | B2 G3 F |"Ebdim" ^F6 |"Eb" G6 |"Eb7" e2 c3 B | G4 E2 |"Ab""C7" c6- | %24
+w: * Out of a|blue sky a|dark cloud came|roll-|ing|break- ing my|heart in|two,|
+"Fm" c4 =B2 |"Ab" c4 c^c |"D7/A" d4 c2 |"Eb/Bb" e2 d2 c2 |"C7" B4 c^c |"F7" d2 c3 G | %30
+w: * Don't|leave me a-|lone, I|love on- ly|you, You're The|One Rose that's|
+"Bb7" B2 G2 F2 |"Eb" E6- | E4 z2 |] %33
+w: left in my|heart.-||
+

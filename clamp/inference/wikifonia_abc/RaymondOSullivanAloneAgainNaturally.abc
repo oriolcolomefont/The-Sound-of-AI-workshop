@@ -1,0 +1,51 @@
+X:1
+T:Alone Again (Naturally)
+T:Alone Again (Naturally)
+T:Raymond O'Sullivan
+C:Raymond O'Sullivan
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z8 z4 z3 C |:S"F" Acccc2cA- A4 z2 CC |"Am" A2cc ccc2 A2<A2 z2 c_e- | %3
+w: Oh|in a lit- tle while from now, * If I'm|not feel- ing an- y less sour; * I prom-|
+w: |* that on- ly yes- ter- day, * I was|cheer- ful * bright * and gay; * look- ing|
+w: |look- ing back ov- er the years * * And|what- ev- er else that ap- pears; * I re-|
+"Am7b5" e>_ee2d2dc- c2c2B2BA- | A>AA2G2G2"D7" ^F2<F2 z2 DG- |"Gm7" G2B2B2BG- G4 z2 DG- | %6
+w: * ise my- self to treat * my- self and vis-|* it a near- by tow- er And climb-|* ing to the top * will throw|
+w: for- ward to well who would- * n't do the role|* I was abouit to play; * But as|if to knock me down' * re- al-|
+w: mem- ber I cried, when my fa- ther died, nev- er|wish- ing to hide the tears; * And at|six- ty- five years old, * my mo-|
+"Gm7b5" G2B2B2>G2- G2 z2 z2 FG |"F" A2AA- A z FG"F+" A2AA-A2FG |"F6" AAA2c2d2"Bm7b5" d4"E7" e2e2 | %9
+w: * my- self off * in an|ef- fort to * make it clear to who- * ev er|what it's like when you're shat- tered, left|
+w: ity came a- round, * and with-|out so much. * as a mere * touch * cut me|in- * to lit- tle piec- es; *|
+w: ther God rest her soul, could- n't|un- der- stand why * the on- ly man * she had|ev- er loved had been ta- ken; *|
+"Am" c2c2A2=Bc- c2 z2 A2Bc- |"Am7b5" c2_e2e2e2"D7b9" e4"D7" d2cc- |"Gm" c2B2B2A2 A2G(G G) z cc- | %12
+w: stand- ing in the lurch * at a church|* where peo- ple say- ing "My God|* that's tough, she's stood him up," * no point|
+w: leav- ing me to doubt * talk a- bout|* God in his mer- cy, who if|* he real- ly does ex- ist, * why did|
+w: leav- ing her to start * with a heart|* so bad- ly bro- ken, des- pite|* en- cour- age- ment from me * no words|
+"Gm7b5" c2Bc-c2B2 F4 G2 z C |"Fmaj7" A2cc-c2cA-"F6" A4 z2 CA- |"Am" A2cd-d2e2"D9" e4- e z dc- | %15
+w: * in us- * re- main- ing we|may as well * go home! * As I|* did on * my own; * A- lone|
+w: * * he * de- sert me *|in my hour * of need? * I tru|* ly am * in- deed * A- lone|
+w: * were ev- * er spo- ken; and|when she passed * a- way * I cried|* and cried * all day; * A- lone|
+"Gm" c2Bd- d4"C7b9" z4 E2EG!dacoda! |1"F" F4 z4 z4 z2 CA :|2"F" F4 z4 z4 z2 _Ec- || %18
+w: * a- gain * Nat- ur- al-|ly. To think|ly. It seems|
+w: * a- gain * Nat- ur- al||. * *|
+w: * a- gain * Nat- ur- al;|||
+"Ab" c2cc-c2c_d- d2cB- B2<_A2 |"Eb" z2 _eee2fe- e2_d2c2BB- |"Gm7b5" B4 _d4"C7b9" z2 d2c2BB- | %21
+w: * to me * that there * are more * hearts|bro- ken in the world * that can't be mend-|* ed left un- at- tend-|
+w: |||
+w: |||
+"Ab" B4 _A4"Dm7b5" z2 A2c2AG- |"C" G6 z2 z2 E2G2=BG- |"C9sus4" G6 z2"C7" z4 z3 C!D.S.! || %24
+w: * ed; what do we do?|* What do we do?|* Now|
+w: |||
+w: |||
+O"F" F4"Am7""^Coda" z4"D7" z4 z2 dc- |"Gm" c2Bd- d4"C7b9" z4"C7" E2EG |"F" F4 z4 z8 | z16 |] %28
+w: ly A- lone|* a- gain * Nat- ur- al;-|ly.||
+w: ||||
+w: ||||
+

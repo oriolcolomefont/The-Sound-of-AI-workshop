@@ -1,0 +1,42 @@
+X:1
+T:The Last Time I Felt Like This
+T:The Last Time I Felt Like This
+C:Marvin Hamlisch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"D" z4"Gmaj7/A" z2 z B/F/ |"D" A2 z F/A/-"A/C#" A/A/F/A/-Ae |"Bm7" d2 z c/B/"D/A" AF/A/-AB | %3
+w: Hel- *|lo I don't _ ev- en know _ your|name, but I'm hop- in' all _ the|
+"G9" D2"G" z D/B,/"D/F#" DB,DE |"E7" F E2 D"A7" E2 z B |"D" A2 z F/A/"A/C#" AF/A/-Ad | %6
+w: same this is more than just a|sim- ple hel- lo. Hel-|lo, do I smile and walk _ a-|
+"Bm7" d2 z d/e/"D/A" fg<fe |"G" d2 z3/2 e/"D/F#" fed(b/a/) |"E7" a4"A7" z2 d>c | %9
+w: way? No, I think I'll smile and|stay to see where this might _|go. 'Cause the|
+"G" (3B2 c2 d2"A/G" cd e2 |"F#m7" (3z ee (3ecA"Bm" d4 |"G" z2 (3dBG"Gmaj7/A" FE-"A7" E/E/F/G/ | %12
+w: last time I felt like this|I was fall ing in love,|fall- ing and feel- ing _ I'd nev- er|
+"G" B>B"A"B>A"D/F#" A2 d>c |"G" (3B2 c2 d2"A/G" cd e2 |"F#m7" z/ e/e/e/ f/ed/-"Bm" d2"Bm/A" Bc | %15
+w: fall in love a- gain. Yes, the|last time I felt like this|was long be- fore I knew _ what I'm|
+"G" d2 e2"G/A" B2"A7" c2 |"D""Gmaj7" d8- |"D" d4 z2"Gmaj7/A" z F | %18
+w: feel- ing now with|you.|_ Hel-|
+"D" A2 z F/A/-"A/C#" A/A/F/A/-Ae |"Bm7" d2 z c/B/"D/A" AF/A/-AB |"G9" D2"G" z D/B,/"D/F#" DB,DE | %21
+w: lo I can't _ wait till we're _ a-|lone some- where qui- et on _ our|own so that we can fall the|
+"E7" F E2 D"A7" E2 z B |"D" A2 z F/A/"A/C#" AF/A/-Ad |"Bm7" d2 z d/e/"D/A" fg<fe | %24
+w: rest of the way, I|know that be- fore the night _ is|through, I'll be talk- ing love to|
+"G" d2 z d/c/"D/F#" fed(b/a/) |"E7" a4"A7" z2 d>c |"G" (3B2 c2 d2"A/G" cd e2 | %27
+w: you mean- in' ev- 'ry word I _|say. 'Cause the|last time I felt like this|
+"F#m7" (3z ee (3ecA"Bm" d4 |"G" z2 (3dBG"Gmaj7/A" FE-"A7" E/E/F/G/ |"G" B>B"A"B>A"D/F#" A2 d>c | %30
+w: I was fall ing in love,|fall- ing and feel- ing _ I'd nev- er|fall in love a- gain. Yes, the|
+"G" (3B2 c2 d2"A/G" cd e2 |"F#m7" z/ e/e/e/ f/ed/-"Bm" d2"Bm/A" Bc |"G" d2 e2"G/A" B2"A7" c2 | %33
+w: last time I felt like this|was long be- fore I knew _ what I'm|feel- ing now with|
+"D" d6 dc |:"G" (3B2 c2 d2"A/G" cd e2 |"F#m7" (3z ee (3ecA"Bm" d4 | %36
+w: you. Oh, the|last time I felt like this|I was fall- ing in love,|
+"G" z2 (3dBG"Gmaj7/A" FE-"A7" E/E/F/G/ |"G" B>B"A"B>A"D/F#" A2 d>c |"G" (3B2 c2 d2"A/G" cd e2 | %39
+w: fall- ing and feel- ing _ I'd nev- er|fall in love a- gain. Yes, the|last time I felt like this|
+"F#m7" z/ e/e/e/ f/ed/-"Bm" d2"Bm/A" Bc |"G" d2 e2"G/A" B2"A7" c2 | %41
+w: was long be- fore I knew _ what I'm|feel- ing now with|
+"D""G""D/F#""Em7" d6"D""^Repeat and Fade" dc :| %42
+w: you. Oh, the|
+

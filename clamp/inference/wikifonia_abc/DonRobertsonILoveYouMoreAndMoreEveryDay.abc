@@ -1,0 +1,30 @@
+X:1
+T:I Love You More And More Every Day
+T:I Love You More And More Every Day
+T:Don Robertson
+T:Don Robertson
+C:Don Robertson
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z"G" B"D7sus4" c"G" d |"C" e3 e |"D6" d2"D7" c c |"G" B2"C" G/"G"G/"C6" G |"G" G3 D |:"G" D3 D | %6
+w: ||||* They|said our|
+"C" E G C E | E"G" D3- | D3 A |"D" A3"Am7" G |"D7" F D F3/2 E/ |"G" D4- | D"D7" z"D7sus4" z"D7" D | %13
+w: love was just e|mo tion|* that|time would|slow- ly fade a-|way;|* But|
+"G" D3 D |"C" E G C E |"C" E"G" D3- | D"G" G"Am7" A"G/B" B |"C" c3 c |"D6" B2"D7" A A |"G" G4- | %20
+w: time's just|deep- ened my de-|vo- tion,|* I Love You|More And|More Ev- 'ry|Day.|
+ G"G" B,"Am7" C"G/B" D |"C" E3 G | A G C3/2 E/ |"C" E"G" D3- | D"G/D" D"Edim" ^C"G/D" D | %25
+w: * The day you|made those|ten- der vows be-|side me,|* My joy was|
+"A7" E3"D7" F |"A7" G3/2 G/ A"A9" B |"D" A4- |"D7" A"Am7" G"D7" F"D9" E |"G" D3 D |"C" E G C E | %31
+w: more than|words could ev- er|say;|* And dar- ling|still it|grows and grows in-|
+ E"G" D3- | D"G" G"D7sus4" A"G" B |"C" c3 c |"D6" B2"D7" A A |1"G""C" G4- ||"G" G z z"D7" D :|2 %37
+w: side me,|* I love you|more and|more ev- 'ry|day.|* They|
+"G" G4- || G"G" G"D7sus4" A"G" B |"C" c3 c |"D6" B2"D7" A A |"G""C" G4- |"G" G2 z2 |] %43
+w: day.|* I love you|more and|more ev- 'ry|day.-||
+

@@ -1,0 +1,21 @@
+X:1
+T:Anywhere I Wander
+T:Anywhere I wander
+T:Frank Loesser
+C:Frank Loesser
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 z"^N.C." E |"Am" A E"G" G D/E/ |"F" F C"E" B, E |"Am" A E"G" G D |"F" F3"E" E | %5
+w: Her|arms were warm as they|wel- comed me her|eyes were fire *|bright and|
+"Am" A E"G" G D/E/ |"F" F C"E" B, C/D/ |"Am" E E"G" D3/2 G/ |"C" E3"C7" C |"D7" c3/2 c/ B A | %10
+w: then I knew that my|path must be thru the|ev- er haunt- ed|night for|an- y- where I|
+"C" G2 C2 |"F" A3/2 A/"G7" G F |"C" E3"C7" C |"F" D E/F/"G7" G A/B/ |"C" c G/F/"Am" E3/2 C/ | %15
+w: wan- der|an- y- where I|roam till|I'm in the arms of my|dar- ling a- gain my|
+"F" A3/2 G/"Dm" F E |"G" D3 z |"D7" c3/2 c/ B A |"C" G2"C7" C2 |"F" F3/2 F/"G7" E D |"C" C2 z2 |] %21
+w: heart will find no|home|An- y- where I|wan der|An- y- where I|roam.|
+

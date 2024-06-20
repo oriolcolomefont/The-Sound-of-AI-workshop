@@ -1,0 +1,32 @@
+X:1
+T:There's No You
+T:There's No You
+C:Hal Hopper
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Fmaj7" C D3 AGFE |"F6" DE D6 |"Fmaj7" C D3 AGFE |"Cm7""F7" _E8 |"Bbmaj7" D B2 _D-"Eb7" D4 | %5
+w: White frost glis- tens on my|win- dow pane,|Wood fires burn up- on the|hill.|Leaves turn rust, _|
+"Am7" C A2 F-"Dm7" F4 |"G9" DEFG FEDE |"C9" G6"C7b9" A2 |"Fmaj7" c4- cAGF |"Eb9" _D6 F2 | %10
+w: and I must _|sing a love song I re- mem- ber|still: I|feel _ teh au- tumn|breeze, It|
+"Fmaj9" G G2 F G G2 F |"Db9" _EE_DE- E E2 D |"Fmaj7" C4- C=DFA |"Am7" cAc=B-"Abdim7" B_AB_B- | %14
+w: steals 'cross my pil- low as|soft as a will- * o- the-|wisp, _ And in it's|song there is sad- * ness be- cause|
+"Gm7" B4 D2 F2 |"C9sus4" G6"C7b9" A2 ||"Fmaj7" c4- cAGF |"Eb9" _D6 F2 |"Fmaj9" G G2 F G G2 F | %19
+w: _ there's no|you. The|lone- * ly au- tumn|trees, How|soft- ly they're sigh- ing, for|
+"Db9" _EE_DE- E E2 D |"Fmaj7" C4- C=DFA |"Am7" cAc=B-"Abdim7" B_AB_B- |"Gm7" B4"C7b9" E2 E2 | %23
+w: sum- mer is dy _ ing, They|know _ that in my|heart there's no glad- * ness be- cause|_ there's no|
+"F6""Dm7" F6"Db9" z F |"Cm7" _EEEF-"F7" F F2 F |"Cm7" _EEEF-"F7" F F2 F | %26
+w: you. The|park that we walked _ in, the|gar- den we talked _ in, How|
+"Bbmaj7" DDDF-"F+7" FFFD- |"Bbmaj7" D6 z D |"Dm7" FFFG-"G7" G G2 G |"Dm7" FFFG-"G7" G G2 G | %30
+w: lone- some they seem _ in the fall.|_ The|storm- y clouds hov- * er, And|fall- ing leave cov- * er our|
+"C7" EEEG- GGGB- |"Gm7" B6"C7b9" A2 ||"Fmaj7" c4- cAGF |"Eb9" _D6 F2 |"^FMj9" G G2 F G G2 F | %35
+w: fav- o- rite nook _ in the wall.|_ Ibn|Spring _ we'll meet a-|gain. We'll|kiss and re- cap- ture the|
+"Db9" _EE_DE- E E2 D |"Fmaj7" C4- C=DFA |"Am7" cAc=B-"Abdim7" B_AB_B- |"Gm7" B4"C7b9" E2 E2 | %39
+w: sum- mer- time rap- * ture we|knew, _ And from that|day, nev- er more _ will I say|_ there's no|
+"F6" F6 z2 |] %40
+w: you.|
+

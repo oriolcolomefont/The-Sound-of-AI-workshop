@@ -1,0 +1,43 @@
+X:1
+T:Daytime Friends And Night-time Lovers
+T:Daytime Friends and night-time lovers
+T:Ben Peters
+C:Ben Peters
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 E G2 G- |"G" G4 D4 |"C" z4 z2 z G |"G" B B3 BAGG- |"C" G4 z2 GA |"G" B2 BB- B2 Bc- | %6
+w: And he'll tell|* her|he's|work- ing late * a- gain|* but she|knows too well * theres some-|
+w: ||||||
+"C" c2 B2 A3 G |"G" G3 E D2 z2 |"C" z4 EGEG- |"G" G4 D2 z2 | z4"C" E G2 B- |"G" B4 c4 | %12
+w: * thin go- in|on * *|she's been neg lect|* ed|and she needs|* a|
+w: ||||||
+"C" G4 z2 GA |"G" B2 BB- B2 Bc- |"C" c2 BA A2 GG |"G" G3 E D2 z2 |"C" z4 E2 GG- |:"G" G4 D4 | %18
+w: friend so her|trem- bling fin * gers dial|* a tel * e- phone||Lord it hurts|* her|
+w: |||||0- ver|
+"C" z4 E2 G2 |"G" B d3 AGGG- |"C" G4 z2 GA |"G" B2 B2 B2 Bc- |"C" c2 B2 A3 G |"G" G4 z4 | %24
+w: |do- in this * a- gain|* he's the|best friend that her hus-|* band ev- er|knew|
+w: theres no|peace * of * * *|mind just a|long- ing for the way|* things should have|been|
+"C" z4 G d3 |"G" d8 |"C" BAG G2 z2 G |"G" B d3 d2 BG- |"C" G4 z2 GA |"G" B2 BB B2 Bc- | %30
+w: when she's|lone|ly * * * he's|more than just a friend|* he's the|one she longs * to give|
+w: and she|wonders|* * * why some|men * nev- er find|* that a|wo- man needs * a lov|
+"C" c2 BA- A2 GG- |"G" G4 z4 |"C" z4"^Chorus:" B d2 d- |"G" d2 de e d2 d- |"C" dc G4 GA | %35
+w: * her bo * dy to||Day- time friends|* and * night time lov-|* * ers ho- ping|
+w: * er and * a friend|||||
+"G" B B2 B B2 GE |"C" E G3 E G2 D- |"G" D2 z2 E G2 A- |"Em" AG- G2 z EGA- |"Am" A A2 B- BAGA- | %40
+w: no one else * dis- cov|* ers where they go|* what they do|* * * in their se|* cret hide * * a- way-|
+w: |||||
+"D7" A4 B d2 d- |"G" d2 de- e d2 d- |"C" dc G4 GA |"G" B2 BA- A2 GE- |"C" EG- G2 E G2 G | %45
+w: * day- time friends|* and night * time lov|* * ers they dont|wan- n hurt * the oth|* er * so they love|
+w: |||||
+"G" D4 E G2 A- |"C" AG- G2 z EGG- | G2 EE GE"G" G2- |1"C" G4 z4 ||1"G" z8 ||"C" z2 z D E2 G2 :|2 %51
+w: * in the night|* time * and shake hands|* in the light of day.|||and when its|
+w: ||||||
+"G" G4 B"C" d2"^D.S.tofade" d |] %52
+w: * day- time friends|
+w: |
+

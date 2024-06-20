@@ -1,0 +1,25 @@
+X:1
+T:All Dressed Up With A Broken Heart
+T:All Dressed Up With A Broken Heart
+T:Fred Patrick,Claude Reese & Jack Val
+C:Fred Patrick,Claude Reese & Jack Val
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z G |"C""C#dim" E3 E |"Dm7" F3 E/F/ |"Ebdim" ^F2 A2 |"C""G+" G3 G |"C" c2 e2 |"E7" d2 B2 | %7
+w: I'm|all dressed|up with a|bro- ken|heart, pre-|ten- ding|I'm with|
+"F" A4- |"Em7""A7" A3 A/B/ |"Dm7" c2 A F |"G7" D3 G/A/ |"C" B2"Gm6" G E |"A7" ^C3 A/G/ | %13
+w: you.|* Some- one|else in my|arms, on- ly|brings back your|charms, it's a|
+"D7" ^F2 A B |"Am7b5" c2"D7" B c |"Dm7" d4- |"G7""G+" d3 G |"C""C#dim" E3 E |"Dm7" F3 E/F/ | %19
+w: game I just|can't car- ry|thru.'|* When|I'm a-|lone then the|
+"Ebdim" ^F2 A2 |"C""G+" G3 G |"C" c2 e2 |"E7" d2 B2 |"F" A4- |"Em7""A7" A3 A |"F" A3 B | %26
+w: tear- drops|start, I|re- a-|lise it's|true.|* I'm|all dressed|
+"F#dim" d3 B/c/ |"C" e2"Em" B2 |"A7" A3 B |"Dm" c3 A |"G7" d3 c |"C""F9" c4- |"C" c3 z |] %33
+w: up with a|bro- ken|heart, and|still in|love with|you.-||
+

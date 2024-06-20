@@ -1,0 +1,25 @@
+X:1
+T:8, 9 and 10
+T:8, 9 and 10
+T:Jimmy McHugh and Dorothy Fields
+C:Jimmy McHugh
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" z2 z/ D/ E | D E z2 |"A7" z2 G/ G3/2 | G G E z |"D7" z z/ G/ A G | A G E D | %6
+w: A date|at eight|with you|would be great|I'll run down-|town and get some|
+"G" G3/4G3/4"C7" G z3/2 |"G" G2 G2 |"G" z2 _B G | _B4 |"A7" z2 _B2 | _B G A2 |"D7" z2 G _B | %13
+w: rol- ler skates|yeah yeah.|Skate a|round|all|ov er town|un- til|
+ G _B G E |"G" D G3/2 G3/2 | G4 |"C" z2 G/ B3/2 | G ^G A2 |"Cm" z2 B2 | B G A2 |"A7" z2 B B | %21
+w: I hear you say|you're mine all|mine.|If eight|would be great|nine|would be fine|I would|
+ B B2 G/G/ |"D7" z2 B B | G A2 z |"G" z2 z/ D/ E | D E z2 |"A7" z G G3/2 G/ | G E3 |"D7" A G A G | %29
+w: be yours ma- ma|you would|be mine|A kiss|at ten|our love would|be- gin|One two three four|
+ A G A/ G3/2 |"G" _B2"C7" G G |"G" G4 |] %32
+w: five six sev- en|eight nine and|ten.|
+

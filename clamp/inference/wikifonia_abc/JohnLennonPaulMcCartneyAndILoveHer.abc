@@ -1,0 +1,28 @@
+X:1
+T:And I Love Her
+T:And I love her
+T:John Lennon and Paul McCartney
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"Gm" G A B |"Dm" e/ d f/- f2 |"Gm" z G A B |"Dm" e/d/- d3 |"Gm" z G A B |"Dm" e/ d f/- f2 | %6
+w: I give her|all my love, *|that's all I|do * *|and if you|saw my love *|
+w: She gives me|ev- ry thing *|and ten- der-|ly * *|the kiss my|lov- er brings *|
+"Bb" z f d B |"C7" A G2 D/C/ |"F" D A3- |1 A2 z2 :|2 A2 z2 ||"Dm" z z/ A/ A/ A c/- |"C" c4 | %13
+w: you"d love her|* * I *|love her|||A love like ours||
+w: she brings to|too me and I|love her.|||||
+"Dm" z e c/ A c/- |"Am" c4 |"Dm" z e c/ A c/- | c2 A c |"C7" A/G/ G3 | z4 |"Gm" z G A B | %20
+w: Could nev- er die|_|as long as I|* have you|near * me||bright are the|
+w: |||||||
+"Dm" e/ d f/- f2 |"Gm" z G A B |"Dm" e/d/- d3 |"Gm" z G A B |"Dm" e/ d f/- f2 |"Bb" z f d B | %26
+w: stars that shine *|dark is the|sky * *|I know this|love of mine *|will nev- er|
+w: ||||||
+"C7" A G2 D/C/ |"F" D A3- |"D" A4 |] %29
+w: die * and I|love her.||
+w: |||
+

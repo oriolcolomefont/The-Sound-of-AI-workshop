@@ -1,0 +1,71 @@
+X:1
+T:Fields of Gold
+T:Fields of Gold
+T:Sting
+C:Sting
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble 
+%%MIDI program 65
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F#m""F#m7/E""^Intro" A8- |"D" A>(GG)F/E/- E2- E/D/E- |"A" E6 z2 | z4 z2 AG |: %4
+w: Ooh...|||You'll re-|
+w: ||||
+w: ||||
+"F#m" F E2 E- E z"A/E" z A- |"D" A/G/FEF- F4- | FE/E/- E/D/E-"E7" E2- E/D/C- | %7
+w: mem- ber me * when|* the west wind moves *|* a- mong * the fields * * of bar-|
+w: took her love * for|* to gaze a while *|* a- mong * the fields * * of bar-|
+w: stay with me, * will|* you be my love *|* a- mong * the fields * * of bar-|
+"A" C<E z2 z2"E/G#" AG |"F#m" F2 EE- EA"F#m"GF/E/- |"D" E E3-"A/C#" E2 z/ A,/C |1 %10
+w: * ley You can|tell the sun * in his jeal- ous|* sky * when we|
+w: * ley In his|arms she fell * as her hair came|* down * a- *|
+w: * ley We'll for-|get th sun * in his jeal- ous|sky * * as we|
+"Bm7" D2 C/B,/B,-"E7" B,2- B,/G,/A,- ||"A" A,4 z2 AG :|3"Bm7" D2 C/B,/B,-"E7" B,2- B,/G,/A,- || %13
+w: walked in * fields * * of gold.|* So she|lie in * fields * * of gold.|
+w: mong the * fields * * of gold|* Will you||
+w: |||
+"A" A,4 z4 ||"D" z2 z E EE E2 |"E" FE (E/C/)E-"A" E/(C/4B,/4)A,-"A/C#" A,2 | %16
+w: |I nev- er made|prom- is- es * light- * ly, * * *|
+w: |||
+w: |||
+"D" z2 z3/2 C/ EE/E/-EF- |"E" FE/E/-EE-"A" E/C/4B,/4A,-"A/C#" A,2 |"D" z2 z/ A,/E- EE-EE/E/ | %19
+w: and there have been * some|* that I've * bro * ken, * * *|but I * swear * in the|
+w: |||
+w: |||
+"Esus4" E2 E(E/C/)"F#m" z2"A/E" (3z B,C |"D" (DC)B,C-"E" C2- C/G,/A,- |"F#m" A,4"A/E" z F- F<E- | %22
+w: days still left * we will|walk * in fields * * of gold.|* We'll * *|
+w: |||
+w: |||
+"D" E/D/CB,A,-"E" A,C-CG,/A,/- |"A" A,4"E/G#" z4 ||"F#m""F#m7/E" A8- |"D" A>G-GF/E/- E2- E/D/E- | %26
+w: * * * walk in * fields * of gold.||Ooh||
+w: ||||
+w: ||||
+"A" E6 z2 | z4 z"E/G#" A2 G |:"F#m" F2 EE- E2"A/E" (AG-) |"D" G<G F/E/F- F4- | %30
+w: |Man- y|years have passed * since *|* those sum- mer days *|
+w: ||mem- ber me * when the|* west wind * blows *|
+w: ||||
+ F>A,E>E"E7" E2- E/D/C |"A" E4 z"E/G#" (c B2) |"F#m" c A2 G"F#m/E" FGAF- | %33
+w: * a- mong the fields * of bar-|ley. See *|the chil- dren run as the sun|
+w: * up- on the fields * of bar-|ley You can|tell * the sun in his jeal-|
+w: |||
+"D" F (3(F/G/)F/ EE-"A/C#" E4 |1"Bm7" (3z B,C D2"E7" CB,-B,G,/A,/- ||"A" A,4 z2 AG :| %36
+w: * goes * * * down *|as you lie in fields * of gold.|* You'll re~\-|
+w: * ous * * * sky *|||
+w: |||
+"Bm7" (3z B,C D2"E7" CB,-B,G,/A,/- |2"A" A,4 z2"A/C#" z (A,/B,/) || %38
+w: when we walked in fields * of gold.|* When *|
+w: ||
+w: ||
+"D" C(DC)B,-"Esus4" B,C-CG,/A,/- |"F#m" A,4"A/E" z (FE)D- |"D" DC- C/(B,/A,)"E" C2 (B,/A,/)A,- | %41
+w: we walked * in * fields * of gold|* When * we|* walked * in * fields of * gold|
+w: |||
+w: |||
+"A" A,4 z4 |"F#m""F#m7/E" A8- |"D" A>G-GF/E/- E2 E/D/E- |"A" E6 z2 | z8 |] %46
+w: |Ooh...||||
+w: |||||
+w: |||||
+

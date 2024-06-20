@@ -1,0 +1,28 @@
+X:1
+T:Les Valseuses
+T:Les Valseuses
+T:Stephane Grappelli
+T:- 2.11.2012 -
+C:Stephane Grappelli
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^A1" G |:"C6" Ac- (3cAG"G+7" AA- (3:2:2A2 G |"C6" A6"G+7" z G | %3
+"C6" Ac- (3cAG"G+7" AA-"F7#11" (3:2:2A2 G |"Em7" A6"A7" z E |"Dm7" GG- (3GFG"G7" ED- (3D^CD | %6
+"Em7" AA- (3AGA"A7" ^F2 z E |"Dm7" G2 FF"G7" E2 D2 |"Em7" G4"Eb7#11" z z"Dm7" z"G7" G || %9
+"^A2" A"C6"c- (3cAG"G+7" AA- (3:2:2A2 G |"C6" A6"G+7" z G | %11
+"C6" Ac- (3cAG"G+7" AA-"F7#11" (3:2:2A2 G |"Em7" A6"A7" z E |"Dm7" GG- (3GFG"G+7" ED- (3D^CD | %14
+"Em7" AA- (3AGA"A7" ^F2 z E |"Dm7" GGFF"G7" E2 G,A, |"Cmaj7" C6 z C || %17
+"^B" D"Gm7"F- (3FDF"C7" AA- (3:2:2A2 C |"Gm7" DF- (3FDF"C7" dd- (3:2:2d2 c | %19
+"Fmaj7" dd- (3dcd"C7" cA- (3AGF |"Fmaj7" A6 z D |"Am7" E2 (3GEG"D7" BA- (3:2:2A2 D | %22
+"Am7" EG- (3GEG"D7" ed- d2 |"Am7" ed (3cdc"D7" (3B2 D2 A2 |"Gsus4" G6"G7" z G || %25
+"^A3" A"C6"c- (3cAG"G+7" AA- (3:2:2A2 G |"C6" A6"G+7" z G |"C6" Ac- (3cAG"G+7" AA- (3:2:2A2 G | %28
+"Em7b5" A6"A7b13" z E |"Dm7" GG- (3GFG"G7" ED- (3D^CD |"Em7" AA- (3AGA"A7" ^F2 (3Acd | %31
+"D7b9" _eecc"G7" AA G2 |"Cmaj7" c6 z G :| %33
+

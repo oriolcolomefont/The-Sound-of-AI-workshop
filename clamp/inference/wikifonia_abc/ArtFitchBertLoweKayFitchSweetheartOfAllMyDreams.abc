@@ -1,0 +1,24 @@
+X:1
+T:Sweetheart Of All My Dreams
+T:Sweetheart Of All My Dreams
+C:Art Fitch
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ E |:"Ab" F2 E C | B2 A E |"F7" d4 | c4 |"Bb7" F2 G A |"Bbm7" B2"Eb7" c2 |"Ab" A4- | A2"Eb" z E | %9
+w: I|love you, I|love you, I|love|you,|Sweet- heart of|all my|dreams.|_ I|
+"Ab" F2 E C | B2 A E |"F7" d4 | c4 |"Bb7" F2 G A | B2 c A |"Bbm7" B4- |"Eb7" B2 A B |"Ab7" c2 B c | %18
+w: love you, I|can't live with-|out|you,|My life is|em- pty it|seems.|_ You may|do what you|
+ B3"Ab+" A |"Db" c2 B c | B4 |"Bb" z B c B | F2 G A |"Eb7" c2 B"Cdim" =A |"Eb7""Eb+" B3 E | %25
+w: may, What-|ev- er you|say,|You know that|I'll al- ways|love you this|way. I|
+"Ab" F2 E C | B2 A E |"F7" d4 | c4 |"Bb7" F2 G A |"Bbm7" B2"Eb7" c E |"Ab" A2"Ebm" c2 |"F7" c4 | %33
+w: love you, I|love you, I|love|you,|You are my|sweet- heart in|dreams, it|seems,|
+"Bb7" F2 G A | B2"Eb7" c2 |1"Ab" A4 |"Eb" z2 z E :|2"Ab" A4- | A2 z2 |] %39
+w: Sweet- heart of|all my|dreams.|I|dreams.|_|
+

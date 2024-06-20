@@ -1,0 +1,39 @@
+X:1
+T:I Kissed a Girl
+C:Katy Perry
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Unnamed (treble staff)"
+%%MIDI control 7 100
+%%MIDI control 10 16
+V:1
+|:"A" z E E E |"G7" E D/ C G/- G |"Dm" F z F z |"F" F F/ F"E" E/- E ::"Am" z E E E |"G7" z E E F | %6
+w: This was ne-|ver the way I _|planned Not|my in- ten- tion *|It's not what|I'm used to|
+w: I got so|brave * drink in hand|* Lost|my dis- cre- tion *|I'm cu- ri-|ous for you|
+"Dm" z2 F z |"F" c B/ c"E" B E/ ::"Am" z c B A/"C"E/- | E c/ B"Dm" G3/2 | F/>D/ F F"Em""F" F | %11
+w: Just|wan- na try you on|I kissed a girl|* And~I li- ked|it * The taste of|
+w: Caught|my at- ten- tion *|I kissed a girl|_ just to try|it I hope my boy-|
+ F G/ F"E" E/- E :|"Am" z A, C/ D"C" E/- | E A, C/ D"Dm" E/- |"F" E A, C/"Dm" D"F" E/- | %15
+w: her cherry chap stick *|It felt so wrong|_ It felt so right|_ Don't mean I'm in|
+w: friend don't mind it *||||
+ E C"Em" D C |"Am" z c B A/"C"E/- | E c/ B G"Dm" F/- | F2 z2 |"F" z c/ B"Em" G E/- |1 %20
+w: * love to- night|I kissed a girl|_ And~I li- ked it||I li- ked it|
+w: |||||
+[M:2/4] E2"^D.C. al Fine" :|2"F" z d A d |"Em" A d A d/A/- ||"Am" A d A d |"G7" A d A d/e/ | %25
+w: |Us girls we|are so ma- gi- cal|* Soft skin, red|lips, so kis- sa- ble|
+w: |||||
+"F" z d A d |"Em" A d A d/A/- |"F" A c/ B A/- A |"G7/D" z B/ A G/- G |"F" z d A d | A d A d/(e/- | %31
+w: Hard to re-|sist so tou- cha- ble|_ Too good to *|de- ny it *|Ain't no big|deal, it's in- no- cent|
+w: ||||||
+ e3/2 d3/2- d/c/- | c3/2 B/ B2) |:"Am" z c B G/E/- |"C" E c/ B"Dm" G3/2 | F/>D/ F"Dm" F"Em" F | %36
+w: ||I kissed a girl|_ and I liked|it The taste of her|
+w: ||I kissed a girl|_ just to try|it I hope my boy-|
+"F" F G/ F"E" E/- E :|"Am" z A, C/ D"C" E/- | E A, C/ D"Dm" E/- | E A, C/ D"F" E/- | E C"Em" D C | %41
+w: cher- ry chap stick *|It felt so wrong|_ It felt so right|_ Don't mean I'm in|_ love to- night|
+w: friend don't mind it *|||||
+"Am" z c B A/"C"E/- | E c/ B G"Dm" F/- | F2 z2 |"F" z c/ B G A/- |"Am" A2 |] %46
+w: I kissed a girl|_ and I liked it||I lik- ed it||
+w: |||||
+

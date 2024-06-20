@@ -10,3 +10,4 @@ node_modules
 client/public/*.wav
 client/public/assets/*
 weights*
+*.mxl

@@ -1,0 +1,36 @@
+X:1
+T:Me And God
+C:Turner
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z2 z2 C2 G2 |"F" A4- AGFG- |"G" G4 z FGC |"C" DEGA GEDC- |"Am" C2 C2 D2 E2 |"F" F3 F E2 D2- | %6
+w: ||||||
+"G" D4 C2 B,C- |"C" CC- C4 z2 |"C" CCzC z C C2 | E2 DC C2 C2 | FG E2- ED C2 | C8 | %12
+w: ||Ther ain't noth in that|can't be _ done by|Me and God _ _ _|_|
+"F" A,2 CC C2 DC | E2 D-C G,4 |"C" EG E2- E3 D | C4 z2 E-D |"G" D2 D-C D2 CD- | DE- E2 E2 D2 | %18
+w: Ain't no bod y gon na|come be _ tween|Me and God _ _|_ One _|day we'll _ live to geth|_ er _ where the|
+"F" E-D C2- G,2 C2- | C6 A,G, |"C" C4 z2 z2 | z2 z2 z2 z2 | z2 z2 z2 z2 | z2 z2 z2 z2 | %24
+w: an _ gels _ trod|_ Me and|God||||
+"C" CCCC C2 CE | z E E2 D2 C2 | EG E2- ED C2 | z8 |"F" A,CzC- C3 E | z D C2 C2 A,2 | %30
+w: Ear ly in the morn ing Talk|in' it ov er|Me and God _ _ _||Late at night _ Talk|in' it ov er|
+"C" EG E2- ED C2 | z8 |"G" D2 z D- D2 E2 | z2 D2 D2 E2 |"F" DC- C2 CA, C2 | z4 A,G, C2 |"C" C8 | %37
+w: Me and God _ _ _||You could _ say|we're like two|peas _ _ in a pod|Me and God|_|
+ z4 E2 G2 |:"F" A8 |"G" G4 A2 E2 |"C" G-D E6 | z4 E2 G2 |"Am" E3 D C4 |"F" z4 C2 F,2 |"G" G,8 | %45
+w: He's my|Fath|er He's my|friend _ _|The be|gin ing _|and the|end|
+ z4 z2 E2 |"F" F6 FA- |"G" G4 G2 G2 |"C6" A2 G2"G/B" ED-DC |"Am" z4"Am/G" EA, C2- |"F" C8 | %51
+w: He|rules the world|_ with a|staff and the _ _ rod|We're a team|_|
+"G" z4 A,G, C2 |"C" C8 |"F" z2 z2 z2 z2 |"G" z2 z2 z2 z2 |"C" z2 z2 z2 z2 |"C" CCzC z2 C2 | %57
+w: Me and God|_||||I am weak and|
+ E2 G2 E2 C2 | EG E6 | z4 z2 z A, |"F" A,2 C2 C2 D2 | EGzE- ED C2 |"C" EG E6 | z8 | %64
+w: He is strong _|Me and God||He for gives me|when I'm wrong _ _ _|Me and God||
+"G" D2 DD- D2 C2 | D2 E2 z2 G2 |"F" EDzC- C2 C2 | z4 A,G, C2 |"C" C8 | z2 z2 E2 G2 :: %70
+w: he's the One _ I|lean on When|life _ gets _ hard|Me and God|_|He's my|
+"Am""^Ending" z4"Am/G" EA, C2- |"F" C8 |"G" z4 A,G, C2 |"C" C8 :| %74
+w: We're a team|_|Me and God|_|
+

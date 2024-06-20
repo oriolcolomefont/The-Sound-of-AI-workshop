@@ -1,0 +1,32 @@
+X:1
+T:Ring, Telephone, Ring
+T:Ring, Telephone, Ring 
+T:Buck Ram
+T:Peter Tinturin 
+C:Buck Ram
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Ab" E2"Eb+" (3F E F |"Ab" c4 |"Ab" c2"Ebm" (3c d e |"F7sus4" c4 |"Bbm" z B"Dbm6" (3B c d | %5
+w: I'm lone- some to-|night,|RING, TEL- E- PHONE,|RING,|I'm through with pre-|
+"Ab" e2"Fm" A2 |"Bbm7" d3/2 F/"Eb7" (3G A B |"C+""F9""Bb9""Eb7" c4 |"Ab" E2"Eb+" (3F E F |"Ab" c4 | %10
+w: ten- ding,|there's no way to for-|get.|I miss her to-|night,|
+"Ab" c2"Ebm" (3c d e |"F7sus4" c4 |"Bbm" z B"Dbm6" (3B c d |"Ab" e2"Fm" A2 | %14
+w: RING, TEL- E- PHONE,|RING,|this night has no|end- ing,|
+"Bbm7" d3/2 F/"Eb7" (3G A B |"Ab" A4 |"Ebm7" B3/2 B/ (3c d =d |"Ab7" e3/2 e/ f/ f f/ | %18
+w: dreams of her lin- ger|yet.|Like a cou- ple of|fools we part- ed, I|
+"Db" A2"Ab+" (3c c c |"Db" A4 |"Dbm" A2 (3c c c | A3 =A |"Bbm7" (3B B B B e |"Eb+" (3=B =B =B =B2 | %24
+w: vowed I'd ne- ver|call,|now I'd give my|all to|have her with me, but|where can she be?|
+"Ab" E2"Eb+" (3F E F |"Ab" c4 | c2"Ebm" (3c d e |"F7sus4" c4 |"Bbm" z B"Dbm6" (3B c d | %29
+w: I need her to-|night,|RING, TEL- E- PHONE,|RING,|if I could but|
+"Ab" e2"Fm" A2 |"Bbm7" d3/2"Eb7" F/ (3G A B |"C+""C7""F7sus4" c4 |"Bbm" z B"Dbm6" (3B c d | %33
+w: hear her,|oh what joy it would|bring,|I beg of you|
+"Ab" e2"Fb7" _f2 |"Bbm" f2"Eb7" (3G A B |1"Ab6""Bb9" A2"Eb7""Eb+" z2 :|2"Ab6" A4 |] %37
+w: please, please,|RING, TEL- E- PHONE,|RING,|RING!|
+

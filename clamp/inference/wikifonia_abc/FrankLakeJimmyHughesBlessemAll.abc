@@ -1,0 +1,21 @@
+X:1
+T:Bless 'em All
+T:Bless 'em all
+T:Jimmy Hughes, Frank Lake
+C:Frank Lake, Jimmy Hughes
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z"^N.C." D F |"Bb" B3- | B D F | B3- | B z F | B B B |"Bb7" B c B |"Eb" G3- |"Cm7" G2 z | %9
+w: Bless em|all|* bless em|all|* the|long and the|short and the|tall||
+"F7" A A A | A G F | A/A/ A A | A3 |"C7" G G G | G A B |"F7" c A G | F G A |"Bb" B D F | B D F | %19
+w: Bless all the|ser- geants and|dou- ble u o|ones|bless all the|corp- rals- and|their blink- ing|sons cos we're|say- ing good-|bye to them|
+ B3- | B z F | B B B |"Bb7" B c B |"Eb" G3- |"Cm7" G z G |"F7" A c A | G F G | A c A | (G F) F | %29
+w: all|* as|back to their|bil- lets they|crawl|* You'll|get no pro-|mo- tion this|side of the|o- cean so|
+"C7" c c c |"F7" c B A | B3 |"Bb" B/B/ d f | b z2 |] %34
+w: cheer up my|lads bless em|all|||
+

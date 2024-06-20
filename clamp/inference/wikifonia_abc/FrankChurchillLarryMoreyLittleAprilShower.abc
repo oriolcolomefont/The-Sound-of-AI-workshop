@@ -1,0 +1,28 @@
+X:1
+T:Little April Shower
+T:Little April Shower
+C:Frank Churchill
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" C E"G7" G A/B/ |"C" c G"F" B A |"C" G G/F/"F" E E/D/ |"C" C C/B,/ C z | C E"G7" G A/B/ | %5
+w: Drip, drip, drop lit- tle|Ap- ril show- er,|beat- ing a tune as you|fall all a- round.|Drip, drip, drop lit- tle|
+"C" c G"F" B A |"C" G G/F/"F" E E/D/ |"C" C C/B,/ C2 |"E" E ^G"B7" B ^c/^d/ |"E" e B"A" ^d ^c | %10
+w: Ap- ril show- er,|what can com- pare with your|beau- ti- ful sound.|Drip, drip, drop when the|sky is cloud- y,|
+"E" B B/A/"A" ^G G/^F/ |"E" E E/^D/ E z |"E" E ^G"B7" B ^c/^d/ |"E" e B"A" ^d ^c | %14
+w: your pret- ty mu- sic can|bright- en the day.|Drip, drip, drop when the|sun says "How- dy,"|
+"E" B B/^A/"A" B B/A/ |"E" (B2 G2) |"C" C E"G7" G A/B/ |"C" c G"F" B A |"C" G G/F/"F" E E/D/ | %19
+w: you say "Good- bye" right a-|way. _|Drip, drip, drop lit- tle|Ap- ril show- er,|beat- ing a tune ev- 'ry-|
+"C" C C/B,/ C z | C E"G7" G A/B/ |"C" c G"F" B A |"C" G G/F/"F" E E/D/ |"C" C C/B,/ C2 | %24
+w: where that you fall.|Drip, drip, drop lit- tle|Ap- ril show- er,|I'm get- ting wet and I|do't care at all.|
+ C z"F" C z |"C" C z"F" C z |"C" C C/D/"F" E D |"C" C2 z C/B,/ | C E/^D/ E G/^F/ |"G7" G A G A | %30
+w: Drip! Drop!|Drip! Drip!|I'll nev- er be a-|fraid of a|good lit- tle gay lit- tle|Ap- ril se- re-|
+"C" c4- | c3 z |] %32
+w: nade.|_|
+

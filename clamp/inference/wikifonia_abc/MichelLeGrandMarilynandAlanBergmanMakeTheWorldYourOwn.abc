@@ -1,0 +1,31 @@
+X:1
+T:Make The World Your Own
+T:Make The World Your Own
+T:Michel LeGrand, Alan & Marilyn Bergman
+C:Michel LeGrand
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 52
+V:1
+"C7b9" z2 |"Fm7" z z"Bb7b9" z2 || z/"Ebmaj7" B, B/ F2- |"Cm7" F E D E |"Fm7" z/ B, B/ G2- | %5
+w: ||There are stars|* for wish- ing|there are days|
+"Bb7b9" G F =E F |"Ebmaj7" z B, c B |"Gm7b5" A G"C7b9" B A |"Fm7" G F A G |"Fm7b5/Bb" F E D E | %10
+w: * for dream- ing|and nights for|lul- la- by- ing|seas to sail and|kites for fly- ing|
+"Ebmaj7" z/ B, B/ F2- |"Cm7" F E D E |"Fm7" z/ B, B/ G2- |"Bb7b9" G F =E F |"Ebmaj7" z B, c B | %15
+w: Ap- ple trees|* for climb- ing|sum- mer- times|* for smil- ing|the days so|
+"Gm7b5" A G"C7b9" c B |"^Fm(maj7)" G A2"Fm" B/c/ |"Am7b5" d c"D7b9" B =A |"Gm" z/ D d/ =A2- | %19
+w: sweet that you can|taste them. Who would|want to waste them?|There are tunes|
+"Em7b5" A G ^F G |"Am7" z/ D d/ B2- |"D7b9" B =A G =A |"Gm" z D e d |"Gm7b5" c B"C7b9" A G | %24
+w: * for whist- ling|af- ter- noons|* for wan- dering|to may- be|find some- one who'll|
+"Fm7" C/c/ G3 |"Bb7b9" _C/_c/ _G3 |"Ebmaj7" z/ B, B/ F2- |"Cm7" F E D E |"Fm7" z/ B, B/ G2- | %29
+w: turn and say:|"Come and play."|There are hands|* for hold- ing|fire * sides|
+"Bb7b9" G F =E F |"Ebmaj7" z B, c B |"Gm7b5" A G"C7b9" _d c |"Fm7" B A e2- |"Abm7" e4 | %34
+w: * for warm- ing|and smiles that|tell you you won't|be a- lone!||
+"Db9" z/"Eb/Bb" E e/ B2- |"Cbdim" B A G A |"Cm7" z/ E e/ B2- |"Db9" B A G A | %38
+w: Find the seas|* and sail them.|Paint the kites|* and fly them|
+"Eb6/Bb" z/ E e/"C7b9" B2 |"Fm7" B, B"Bb7" G B, |"Db6" E4- |"D6" E2"Eb6" z2 |] %42
+w: take the world|make the world your|own|_|
+

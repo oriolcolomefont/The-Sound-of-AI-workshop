@@ -1,0 +1,24 @@
+X:1
+T:Wanted
+T:Wanted
+C:Jack Fulton
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"F" E2 C2- C>AG>F |"F+" A ^C3- C>AG>F |"Bb" A2 D2- D>AG>^F |"Gm" G8 |"Gm7" B2 D2- D>BA>G | %5
+w: Want- ed _ some- one who|kissed me _ and held me|close- ly. _ then stole my|heart.|Wan ted, _ some- one I|
+"Eb" B _E3- E>BA>G |"C7" B2 =E2- E>EF>G |"Am" c6 c>d |"D7" _e2 ^F4 d>c |"Gm" c>BA>B G2 G>A | %10
+w: trust- ed, _ who gave no|warn- ing _ we'd ev- er|part. She was|last seen hid- ing|out in some- one's arms, She knew|
+"A7" B2 ^C4 A>G |"Dm" G>FE>F"C7" G3"C+" ^G |"F" A2 C2- C>AG>F |"F+" A ^C3- C>AG>F | %14
+w: noth- ing of the|dan- ger in his charms. A|jur- y _ may find her|guilt- y _ but I'd for-|
+"Bb" A2 D2- D>A^F>G |"Gm" d4-"D+" d>dc>=B |"F" c2 A2-"Gm" A>c"D7"B>A |"Gm" B2 D2- DD^CD | %18
+w: give her _ if I could|see _ A signed con-|fes- sion _ that she's re-|pent- ed _ and real- ly|
+ B2 B2-"Bbm" BA"Gm7"F"C7"G |1"F" F2"Am7" z2"Gm7" z2"C7" z2 :|2"F" F6 z2 |] %21
+w: want- ed _ no one but|me.|me.|
+

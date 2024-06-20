@@ -1,0 +1,18 @@
+X:1
+T:If You Never Come To Me
+T:If You Never Come To Me
+T:Inutil Paisagem
+T:Antonio Carlos Jobim
+C:Antonio Carlos Jobim
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Cmaj7" g8 |"Bmaj7" ^g8 |"Bbmaj7b5" a8- |"A7" a4- (3agf (3efg |"Dm7" g8- | g4 (3z fe de | %6
+"Fm" f g2 f-"Fm6" f4- |"Fm" f6"Fm6" (3z cd |"E7" (3e2 e2 e2"E+7" (3e2 e2 e2 | %9
+"A9" e3 ^d/e/"A7b9" (3g2 f2 e2 |"D7" f d3- d4- |"G7" d4 (3f2 e2 d2 |"C7" e c3- c3 d | %13
+"F7" _e c3- c3 c |"Cmaj7" B G3- G4- |"Db7b5" G6 z2 :| %16
+

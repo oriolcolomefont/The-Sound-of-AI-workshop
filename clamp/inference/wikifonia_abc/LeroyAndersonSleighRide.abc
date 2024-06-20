@@ -1,0 +1,36 @@
+X:1
+T:Sleigh Ride
+T:Sleigh Ride
+T:Leroy Anderson
+T:Mitchell Parish
+C:Leroy Anderson
+Z:All Rights Reserved
+L:1/8
+Q:1/4=200
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 40
+V:1
+ z2 c2 c2 c2 |:"Fmaj7" c2 dc-"F6" cA F2 |"Gm7" G2 AG-"C7" GE D2 |"F" C8- |"Gm7" C2 D2"C7" E2 G2 | %5
+w: Just hear those|sleigh bells jin- * gl- *|ring- ting- tin- * gl- ing|too|* Come on it's|
+w: |nice and ros- * y *|com- fy co- * zy are|we|* we're snug- gled|
+"Fmaj7" c2 dc-"F6" cAGF |"Gm7" G2 GA"Gm7/C" GF D2 |"F" F8- |"Ab" F2 c2"C7" c2 c2 | %9
+w: love- ly weath- * er for a|sleigh ride to- get- her with|you|* Out- side the|
+w: up to- get- * her like two|birds of a feat- her would|be|* Let's take that|
+"Fmaj7" c2 dc-"F6" cA F2 |"Gm7" G2 AG-"C7" GE D2 |"F" C8- |"Gm7" C2 D2"C7" E3 G | %13
+w: sleigh bells jin- * gl- *|ring- ting- tin- * gl- ing|too|* Come on *|
+w: nice and ros- * y *|com- fy co- * zy are|we|* we're snug- *|
+"Fmaj7" c2 dc-"F6" cAGF |"Gm7" G2 GA"Gm7/C" GF D2 |"F" F8- |"Bb/F" F4"F" z2 ^CD | %17
+w: love- ly weath- * er for a|sleigh ride to- get- her with|you|* Gid- dy-|
+w: up to- get- * her like two|birds of a feat- her would|be||
+"Bm" A2 ^CD A2 CD | A B2 ^G-"E7" G4 |"A" z2 z A ^GE^C^F- |"A6" F8 |"Bm7" z2 ^G2 ^FDB,D | %22
+w: yup Gid- dy- yup Gid- dy-|yup let's * go|Let's look at the *|snow.|we're rid- ing in a|
+w: |||||
+ ^F A2 z"E7" ^G B2 E- |"A" E8- | E6 B,^C |"Am7" G2 B,C G2 B,C | G A2 ^F-"D7" F4 | %27
+w: won- der- land of *|snow|* Gid- dy-|yap Gid- dy- yap Gid- dy-|yap it's * grand|
+w: |||||
+"G" z2 z G ^FDB,E- |"G6" E8 |"Gm7" z2 G2 DC G,2 | C2 DG D2 CG, |"C11" CD G2 c2 G2 | C c2 c c2 z2 :| %33
+w: * hold- ing your *|hand.|We're glid- ing a-|long with a song of a|win- ter- y fair- y|Land Our cheeks are|
+w: ||||||
+

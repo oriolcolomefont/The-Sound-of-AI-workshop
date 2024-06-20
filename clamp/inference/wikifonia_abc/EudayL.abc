@@ -1,0 +1,50 @@
+X:1
+T:12th Street Rag
+T:12th Street Rag
+T:Euday L. Bowman
+T:Transcripción: Alberto Betancourt
+T:2
+T:12th Street Rag
+C:Euday L. Bowman
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:2/2
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+L:1/4
+V:1
+"^A""Eb" e>dc>e d>ce>d | c>ed>c e>dc>e- |"Bb7" e>dc>e d>ce>d | c8 | e>dc>e d>ce>d | %5
+ c>ed>c e>dc>e- |"Eb" e>dc>e d>ce>d | c8 | e>dc>e d>ce>d | c>ed>c e>dc>e- |"Bb7" e>dc>e d>ce>d | %11
+ c8 |"F7" g4 f4 | d'4 c'4 |"Bb7" b2 C2 D3 E | F D2 C- C B,3 ||"Eb" e>dc>e d>ce>d | c>ed>c e>dc>e- | %18
+"Bb7" e>dc>e d>ce>d | c8 | e>dc>e d>ce>d | c>ed>c e>dc>e- |"Eb" e>dc>e d>ce>d | c8 | e2 Be- eB e2 | %25
+"Eb/Db" e2 Be- eB e2 |"Ab/C" e2 ce- ec e2 |"B7" e6 z2 |"Eb" B2 c2"Cm7" e2 c2 |"F7" g4"Bb7" f4 | %30
+"Eb" e8- | e2 z2 e2 z2 ||"^B" e2 gd- dgcg | Bgeg dgcg |"Bb7" d2 ac- ca =B2 | B8 | d2 ac- caBa | %37
+ d2 ac- caBa |"Eb" e2 gd- dgcg | B8 | e2 gd- dgcg | Bgeg dgcg |"Bb7" d2 ac- ca =B2 | B8 | %44
+"F7" G4 F4 | d4 c4 |"Bb7" B2 c2 d3 e | f2 d2 c B3 ||"Eb" e2 gd- dgcg | Bgeg dgcg | %50
+"Bb7" d2 ac- ca =B2 | B8 | d2 ac- caBa | d2 ac- caBa |"Eb" e2 gd- dgcg | B8 | g6 g2 |"G7" g6 g2 | %58
+"Ab" z ef_g-"Adim" g>f e2 |"Eb/Bb" g8 |"F7" g2 f2 e c3 |"Bb7" g4 f4 |"Eb" e8- | e2 z2 e2 z2 || %64
+"Bb7" b=abc' b2 z2 | B=ABc B2 z2 | B>B=B>B c>c^c>c | d2 z2 b2 z2 ||"^C""Eb" =B>cb>B c>bB>c | %69
+ b>=Bc>b B>c b2 |"Bb7" =B>cb>B c>bB>c | c'8 | =B>cb>B c>bB>c | b>=Bc>b B>c b2 | %74
+"Eb" =B>cb>B c>bB>c | c'8 | =B>cb>B c>bB>c | b>=Bc>b B>c b2 |"Bb7" =B>cb>B c>bB>c | c'8 | %80
+"F7" g4 f4 | =a4 g4 |"Bb7" b B2 A A>aF>f | B>b=B>=b c>c'd>d' ||"Eb" =B>cb>B c>bB>c | %85
+ b>=Bc>b B>c b2 |"Bb7" =B>cb>B c>bB>c | c'8 | =B>cb>B c>bB>c | b>=Bc>b B>c b2 | %90
+"Eb" =B>cb>B c>bB>c | c'8 | e2 Be- eB e2 |"Eb/Db" e2 Be- eB e2 |"Ab/C" e2 ce- ec d2 |"B7" e6 z2 | %96
+"Eb/Bb" b4"Cm7" c'>bg>e |"F7" g4"Bb7" f4 |"Eb" e2 cB- BG F2 | E2 z2 e z z2 |] %100
+V:2
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | %19
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | %38
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %57
+ x4 | x4 | x2"Cm7" x2 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | %74
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %93
+ x4 | x4 | x4 | x4 | x4 | x4 | x4 |] %100
+

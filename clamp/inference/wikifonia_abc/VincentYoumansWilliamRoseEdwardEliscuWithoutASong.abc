@@ -1,0 +1,32 @@
+X:1
+T:Without A Song
+T:Without A Song
+C:Vincent Youmans
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4"Bb7" z B"Bb+7"cd |"Ebmaj7" d4- dBBG |"Ab/Eb" GE E2 z GGB |"Ebmaj7" B4- BGGE | %4
+w: With- out a|song * the day would|nev- er end, With- out a|song * the road would|
+"Ab6" EC C2"Ab" z EEG |"Eb/Bb" G4- GEEC |"Bb7" CB, B,2"Bb11" z CCE |"Eb" E8- | %8
+w: nev- er bend, When things go|wrong * a man ain't|got a friend, With- out a|song.|
+"Fm7" E2"Bb7" z2 z B"Bb+7"Bd |"Ebmaj7" d4- dBBG |"Ab/Eb" GE E2 z GGB |"Ebmaj7" B4- BGGE | %12
+w: * That field of|corn * would nev- er|see a plough, That field of|corn * would be a|
+"Ab6" EC C2"Ab" z EEG | G4- G"Eb/Bb"EEC |"Bb7" CB, B,2 z CCE |"Eb""Eb6" E8- | %16
+w: des- ert now, A dark- y's|born, * But he's no|good no- how with- out a|song.|
+ E z E2"Bbm7" F2"Eb7" G2 |"Ab" A2 GF"Eb7" G2"Ab" A2 |"Eb7" B2 AG"Ab" A2"Eb7" B2 | %19
+w: * I got my|troub- les and woe but|sure as I know the|
+"Ab" c2"Bb7" BA"Eb" B4- |"Bb7""Eb" B6"F9" z2 |"Gm" B2 =AG"D7/F#" A2"Gm7/F" B2 | %22
+w: Jor- dan will roll,||I'll get a- long as|
+"C7/E" c2"Eb" B=A"Gm/D" B2"F9" c2 |"Bb7" d2"Eb" ec"Bb9" f4- |"Ebmaj7" f4"Fm7" z B"Bb+7"Bd | %25
+w: long as a song is|strong in my soul.|* I'll nev- er|
+"Ebmaj7" d4- dBBG |"Ab/Eb" GE E2"Fm7" z GGB |"Ebmaj7" B4- BGGE |"Ab6" EC C2"Ab" z EEG | %29
+w: know * what makes the|rain to fall, I'll nev- er|know * what makes the|grass so tall, I on ly|
+"Ebmaj7" G4- GEEC |"Bb7" CB, B,2"Bb11" z CCE |"Eb" E4-"Ebmaj7" EGGB |"Eb9" B4- BG"Eb+"GE | %33
+w: know * there ain't no|love at all with- out a|song. * * * *|(Instrumental) * * * *|
+"Ab6" EC"F9" C2- CEEG |"Eb/Bb" G4- GEGc |"Bb7" cB B2- B"Adim"c"Bb9"c"B7"e |"Eb6" !fermata!e8 |] %37
+w: * * * * I on- ly|know * there ain't no|love at all * with- out a|song.|
+

@@ -1,0 +1,31 @@
+X:1
+T:Born free
+T:Born Free
+C:John Barry
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 4
+V:1
+|:"C" c4 G4- |"F" G3 G (3A2 G2 F2 |"C" E4 C4- |"F" G3 G (3A2 G2 F2 |"Em" B4 G3 E | %5
+w: Born free|* as free as _|wind blows|* as free as _|grass grows born|
+w: |||||
+"F" F3 F (3F2 E2 D2 |"C" C4- CDEG |"Dm7" FEFG"G7" AGAB |"C" c4 G4- |"F" G3 G (3A2 G2 F2 | %10
+w: to fol low your _|heart * * * *||Live free|* and beau ty su|
+w: |||||
+"C" E4 C4- |"F" C3 G (3A2 G2 F2 |"Em" B4 G3 E |"Dm7" G3 G (3G2 A2 G2 |"G" B8- |"G7" BDEF GABc | %16
+w: rounds you|* the world stil a|stounds you each|time _ you look at|a|star _ _ _ _ _ _ _|
+w: ||||||
+"Dm" d4 A4- | A3 A (3B2 A2 G2 |"Am" E4 c4- | c3 c (3d2 A2 c2 |"^Am7-5" d3 c d3 c |"Fm6" d3 c d3 c | %22
+w: Stay free|* where no walls di|vide you|* you're free as the|roar- ing tide so|theres no need to|
+w: ||||||
+"G" d4- dDEG |"Dm7" FEFG"G7" AGAB |"C" c4 G4- |"F" G3 G (3A2 G2 F2 |"C" E4 C4- | %27
+w: hide * * * *||Born free|* and life is worth|liv- ing|
+w: |||||
+"F" C3 G (3A2 G2 F2 |"Em" B4 G3 E |"Dm7" c6"G7sus4" c2 |"C" c8- | c8 :| %32
+w: * but on ly worth|liv- ing 'cause|you're born|free.||
+w: |* * C||||
+

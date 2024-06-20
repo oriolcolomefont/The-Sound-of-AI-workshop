@@ -1,0 +1,30 @@
+X:1
+T:The Preacher
+T:The Preacher
+T:Horace Silver
+T:© Dan Parshall
+T:Intro/coda (play before verse 1 and 3)
+T:He'd play one hymn for the ladies, one for the men then he would turn right around, and play them both again when they all got to singin', and clappin' hands he had the swinginest congregation in the land
+T:When the sermon was over, he'd leave the town and travel on to the next to lay his gospel down So bow your heads and we'll join in one mighty chord to say a prayer for the preacher gone to his reward
+C:Horace Silver
+Z:Public Domain
+L:1/4
+Q:1/4=180
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z C/C/ D F |"F6" z A2"Fdim" ^G |"F6" A F z2 |"Bb9" z _A2 G | _A F z2 |"F6" z A2"Fdim" ^G | %6
+w: Gath- er 'round and|hear the|preach- er|hear the|preach- er|hear the|
+"F6" A F z2 |"C7" z G2 E |"F6" F C D F |:"F6" A A2"Fdim" ^G |"F6" A2 F2 |"Bb7" B2"Bdim" F G/A/- | %12
+w: preach- er|preach- er|man they used to|call him the|preach- er,|this was so true,|
+"F6" A C D F | A A2"Fdim" ^G |"F6" A2 z F/F/ |"G7" A G G A/G/- |"C7" G C D F |"F6" A A2"Fdim" ^G | %18
+w: _ for he would|preach from his|heart, 'bout the|on- ly way he knew|_ he'd stand up|there in the|
+"F6" A2"F7" F2 |"Bb6" B2 c B/A/- |O"A7" G2 z"F7" A |"Gm7" B2"G#dim" =B2 | %22
+w: pulp- it,|horn in his hand|_ and|let that|
+"Am7" c/^G/A/F/-"Dm7" F D |"Gm7" B A"C7" F E/F/- |"F6" F C D F :|O"Fm""^Ritardo" G2 z A | %26
+w: mel- o- dy take _ you|to the prom- ised land.|_ He'd play one|chord and|
+"Gm7" B2"G#dim" =B2 |"Am7" c/^G/A/F/-"Dm7" F D |"Gm7" B A"C7" F E/F/- |"F6" F z"Bbmaj7" F"F6" F |] %30
+w: say a|prayer for the preach- * er|gone to his re- ward|_ A- men|
+

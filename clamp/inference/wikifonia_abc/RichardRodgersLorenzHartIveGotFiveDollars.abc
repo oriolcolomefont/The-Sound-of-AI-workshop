@@ -1,0 +1,33 @@
+X:1
+T:I've Got Five Dollars
+T:I've Got Five Dollars
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"Eb" z B G A |"Ab" B/B/ z"Bb7" z2 |"Eb" c B G A |"Ab" B/B/ z"Bb7" z2 |"Ebmaj7" d"Cm7" c"Eb" G A | %5
+w: (Boy)~I've got five|dol- lars;|I'm in good con-|di- tion;|And I've got am-|
+w: (Girl)~~I've got five|dol- lars;|Eight- y five re-|la- tions;|Two lace com- bi-|
+"Ab" B/B/ z"Bb7" z2 |"Eb" e d G A |"Ab""Gm""F#m""Fm" B4 |"Eb" z B G A |"Ab" B/B/ z"Bb7" z2 | %10
+w: bi- tion;|That be- longs to|you;|Six shirts and|col- lars;|
+w: na- tions;|They be- long to|you;|Two coats with|col- lars;|
+"Cm7" c B"Eb" G A |"Ab" B/B/ z"Bb7" z2 |"Ebmaj7" d"Cm7" c"Eb" G A |"Ab" B/B/ z"Bb7" z2 | %14
+w: Debts be- yond en-|dur- ance;|On my life in-|sur- ance;|
+w: Ma and grand- ma|wore 'em;|All the moths a-|dore 'em;|
+"Eb" e d G A |"Gb" B4- |"Bb7" B B F G |"Ab" A3"Eb" G | G"Bb7" F3 | F"Eb" G3 |"Ab" E"Bb7" F3 | %21
+w: That be- longs to|you;|_ I've got a|heart that|must be|spur- tin'!|Just be|
+w: They be- long to|you;|_ I've got two|lips that|care for|mat- ing,|There- fore|
+ F"Eb" G3 |"Cm7" e"F7" f3 |"Bb""Fm""Cm""Bb7" B4 |"Eb" z B G A |"Ab" B/B/ z"Bb7" z2 | %26
+w: cer- tain|I'll be|true!|Take my five|dol- lars!|
+w: wait- ing|will not|do!|Take my five|dol- lars!|
+"Cm7" c B"Eb" G A |"Ab" B/B/ z"Bb7" z2 |"Ebmaj7" d"Cm7" c"Eb" G A |"Bbm6" B/B/ z"C7" z2 | %30
+w: Take my shirt and|col- lars!|Take my heart that|hol- lers,|
+w: Take my coats and|col- lars!|Take my heart that|hol- lers,|
+"F7" e d/c/- c d |"Ab7" e d/c/- c d |1"Eb""Cm7" e4 |"Db7""F7b5""Bb7" z4 :|2"Eb" e4- | e z z2 |] %36
+w: "Ev- 'ry- thing _ I've|got be- longs _ to|you!||you!|_|
+w: "Ev- ry- thing _ I've|got be- longs _ to|you!||you!|_|
+

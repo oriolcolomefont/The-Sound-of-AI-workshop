@@ -1,0 +1,32 @@
+X:1
+T:The Godfather Theme
+T:Speak Softly Love
+T:Larry Kusic and Nino Rota
+T:from "The Godfather"
+T:JW
+C:Larry Kusic and Nino Rota
+Z:All Rights Reserved
+L:1/4
+Q:1/4=150
+M:4/4
+K:none
+V:1 treble transpose=-2 nm="Trumpet in Bb"
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:F] z"Am" A"E7" d f |"Am" e d"E7" f d |"Dm7" e"Fdim" d B c |"Am" A4 | z A"E7" d f | %5
+w: Speak softly, _|love, and hold me|warm against _ your|heart;|I hear your|
+"Am" e d"Am7" f d |"F#m" e d"F#m7" A ^G |"Dm" G4 | z G"Dm7" B ^c |"Dm7" e4 |"G7" z G B ^c | %11
+w: words, the tender, _|trembling _ moments _|start.|We're in a|world,|our very _|
+"Am" d4 | z D F c |"Dm" B A c B |"E7sus4" B A"E7" A ^C |"Am" D4 | z d d ^c |"G7/B" c4 | e2 d B | %19
+w: own,|Sharing _ a|love that only _|few have ever _|known.|Winw coloured _|days|warmed by the|
+"C" A4 | z A c A |"Bb" G4 |"Dm" z G B ^G |"E" A4 | z"Am" A"E7" d f |"Am" e d"E7" f d | %26
+w: sun,|Deep, velvet _|nights|when we are|one.|Speak softly, _|love, so no one|
+"Dm7" e d"Fdim" B c |"Am" A4 | z A"E7" d f |"Am" e d"Am7" f d |"F#m" e"F#m7" d A ^G |"Dm" G4 | %32
+w: hears us but the|sky.|The vows of|love we make will|live until _ we|die.|
+ z G"Dm7" B ^c |"Dm7" e4 |"G7" z G B ^c |"Am" d4 | z D"Dm" F c | B A"E7sus4" c B |"E7" B A A ^c | %39
+w: My life is|yours,|and all because|_|You came into|_ my world so|softly _ _ _|
+"Am" d4 |] %40
+w: love|
+

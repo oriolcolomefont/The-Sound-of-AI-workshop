@@ -1,0 +1,25 @@
+X:1
+T:Run For Cover
+T:Run For Cover
+T:Marcus Miller
+C:Marcus Miller
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:none
+V:1 treble transpose=-14 
+%%MIDI program 66
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+[K:G]|:"Em7" z16 |"F#m7/B" z16 |"Em7" z16 |"^B7+4" z16 |"Em7" z16 |"F#m7/B" z16 |"Em7" z16 | %7
+"F7/B" z16 ::"Em7" z16 | z16 | z16 | z16 :|"Em7" z a3 f4 d4 B2>c2- |"Am7/D" c8 e2d2 (3_BAG EE | %14
+"Em7" z16 | z16 | z a3 f4 d4 B2>c2- |"Am7/D" c8 e2d2 (3_BAG EE | z16 | z4 z8 z ded || %20
+"C" g2e2 z ege a2bg z e3- |"Am7" e4 z3 e- egab z agf- |"Em7" f2>f2- f8 fedB | deBed2eB- B4 eBde | %24
+"C" g2a2 (3bag e2 e2>g2 z a z2 |"Am7" b2d'a z g2e- e4 z ega |"F#m7/B" b2>b2- b8 z abc' | %27
+"^B7+9" d'2>d'2-d'2>c'2 d'2 (3bg_e d2c2 |:"Em7" z a3 f4 d4 B2>c2- |"Am7/D" c8 e2d2 (3_BAG EE | %30
+"Em7" z16 | z16 ::"Em7" z16 | z16 | z16 |"^(B7+9)" z16 |"Em7" z16 | z16 | z16 |"^(B7+9)" z16 || %40
+"Em7" z16 | z16 | z16 | z16 | z16 | z16 | z16 | z16 ||"C" z16 |"Am7" z16 |"Em7" z16 | z16 | %52
+"C" z16 |"Am7" z16 |"F#m7/B" z16 |"^B7+9" z16 :|"Em7" z a3 f4 d4 B2>c2- | %57
+"Am7/D" c12- c2>"^B7+9"!fermata!d2- | d16 |"Em7" !fermata!f16 |] %60
+

@@ -1,0 +1,49 @@
+X:1
+T:MEXICO
+T:MEXICO
+T:Francis Lopez
+T:Paso Doble
+T: Laukens Music Productions  
+T:2
+T:MEXICO blad 2 van 
+C:Unknown
+Z:All Rights Reserved
+%%score [ 1 | 2 ]
+L:1/4
+Q:1/4=230
+M:2/2
+K:Eb
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:2 treble nm="MusicXML Part"
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Eb" b4- | b c'/d'/ e' d'/c'/ |"Bb7" b a/g/ f g/a/ | b a/g/ f g/f/ |: e [EGB] z [EB] | %5
+ z [EGB] z [EGB] :|"Eb" z E G B | c e d B | (3c/d/c/- B3- | B4- | B G G G | G A B c |"Fm7" F4- | %13
+ F4- | F F G A |"G7" G =B c d |"Cm" e c2 c |"Eb" e2 d c |"Bb" f d2 B |"F7" c2 B =A |"Bb" B4- | %21
+ B4- |"Eb" B E G B | c e d B | (3c/d/c/- B3- | B4- | B G G G | G A B c |"Fm7" F4- | F4- | F F G A | %31
+"G7" G =B c d |"Cm" e c2 c |"Eb" e2 d c |"Bb" f d2 B |"F7" c2 B =A |"Bb" B z B2 |"Eb" e2 d2 | %38
+"Eb7" _d4- | d4- | d E G B | _d e d e |"Ab" c4- | c4- | c z A2 | c2 _c2 |"C7" B4- | B4- | %48
+ B B c _d | c B A G |"F" F4- | F4 |"Eb" z E G B | c e d B | (3c/d/c/- B3- | B4- | B G G G | %57
+ G A B c |"Fm7" F4- | F4- | F F F G |"Ab" A3/2 A/ G F |"Eb" B E E F |"F7" G3/2 G/ F E | %64
+"Bb7" A D D E | F3/2 F/ E D |"Eb" E4- | E4 |"Ab" z c c c | c4 | e4 | c'4 ||[K:Ab] a4- | a4- | %74
+ a c c c | c2 e2 |"Eb7" d2 e b- | b4- | b4- | b e e e | g2 e f- |"Bbm" f d c d |"Eb7" e2 c d- | %83
+ d B A B |"Ab" c4- | c4- | c c c c | c4 | e4 | c'4 | a4- | a4- | a c c c | c2 e2 |"Eb7" d2 e b- | %95
+ b4- | b4- | b e e e | g2 e f- |"Bbm" f d c d |"Eb7" e2 c d- | d BO A G |"Ab" A4- | A4S || %104
+O"Ab" A4- | A4- | A c c c |"Bbm" B2 d2 | f4- | f4- | f f f f |"Eb7" d2 f2 |"Ab" a4- | a4- | a4- | %115
+ a4- | a4- | a z3 |] %118
+V:2
+ z4 | z4 | z4 | z4 |: z4 | z4 :| z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %38
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %57
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 ||[K:Ab] z4 | z4 | z4 | %75
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %94
+ z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4O | z4 | z4S ||O z4 | z4 | z4 | z4 | z4 | z4 | z4 | z4 | %112
+ z [Ee] [Ff] [Gg] | [Aa] [Bb] [cc'] [dd'] | [ee'] [cc'] [dd'] [=d=d'] | %115
+ [ee'] [_f_f'] [=f=f'] [gg'] | [aa']4- | [aa'] z3 |] %118
+

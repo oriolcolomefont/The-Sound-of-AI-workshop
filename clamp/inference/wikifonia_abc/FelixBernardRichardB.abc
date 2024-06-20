@@ -1,0 +1,23 @@
+X:1
+T:Winter Wonderland
+T:Winter wonderland
+T:Bernard/Smith
+C:Felix Bernard
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ GG |"C" G6 GG | E2 G4 GG |"G7" G6 GG | F2 G4 G2 | BB B2 A2 A2 | GG G2 F4 |"D7" EEEE"G7" DDDD | %8
+w: Sleigh bells|ring are you|list- ning in the|lane snow is|glist ning a|beau- ti ful sight we're|hap- py to- night|walk- ing in a win- ter won- der-|
+"C" C6 GG | G6 GG | E2 G4 GG |"G7" G6 GG | F2 G4 G2 | BB B2 A2 A2 | GG G2 F4 |"D7" EEEE"G7" DDDD | %16
+w: land Gone a-|way is the|blue- bird here to|stay is the|new bird to|sing his love song as|we go a- long|walk- ing in a win- ter won- der-|
+"C" C8 ||"F" CCAA"Gm" DD_BB |"F" A2 F6 | CCAA"Gm" DD_BB |"F" A8 |"G" DDBB"Am" EEcc |"G" B2 G4 A2 | %23
+w: land|In the mead- ow we will build a|snow- man|and pre- tend that he is Par son|Brown|He'll say are you mar- ried? We'll say|no man but|
+ BBDD"D7" AADD |"G" G6 GG |"C" G6 GG | E2 G4 GG |"G7" G6 GG | F2 G4 G2 | BB B2 A2 A2 | GG G2 F4 | %31
+w: you can do the job when you're in|town lat- er|on we'll con-|spi- re as we|sit by the|fi- re to|face un- a- fraid the|plans that we made|
+"D7" EEEE"G7" DDDD |"C" C8- | C8 |] %34
+w: walk- ing in a win- ter won- der-|land,||
+

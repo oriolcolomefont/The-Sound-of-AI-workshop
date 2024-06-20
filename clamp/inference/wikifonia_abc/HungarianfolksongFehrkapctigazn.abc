@@ -1,0 +1,17 @@
+X:1
+T:Fehér kapcát igazán
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" AAcc"E" BB E2 |"Am" ccee"E" dedc |"Am" B A3 A2 z2!fine! :|"Am" e2 c2 e2 g2 |"Dm" f2 e2 d2 A2 | %5
+w: Fe- hér kap- cát i- ga- zán,|fe- hér kap- cát nem húz- nék a|lá- bam- ra,|Verd meg Is- ten|azt a jó é-|
+"Am" c2 d2"E" e2 z2"^D.C. al Fine" |] %6
+w: des- a- nyát,|
+

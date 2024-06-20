@@ -1,0 +1,22 @@
+X:1
+T:Tiger Rag
+T:Tiger Rag
+C:Original Dixieland Jazz Band
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z"G" G2 G | G2 B/ z/ z | z G2 G | G2 B/ z/ z | z G2 G | G2 B/ z/ z |"D7" z G2 G | G2 D/ z/ z | %8
+w: Where's that|ti- ger!|Where's that|ti- ger!|Where's that|ti- ger!|Where's that|ti- ger!|
+ z F2 F | G2 A/ z/ z | z F2 F | G2 A/ z/ z | z F2 F | G2 A/ z/ z |"G" G B, C ^C |"D7" D/D/ ^D E F | %16
+w: Hold that|ti- ger!|Hold that|ti- ger!|Hold that|ti- ger!|Choke him, poke him,|kick him and soak him!|
+"G" z G2 G | G2 B/ z/ z | z G2 G | G2 B/ z/ z |"G7" G4- | G G/A/- A/G/ A |"C" G4- | G z z2 | %24
+w: Where's that|ti- ger?|Where's that|ti- ger?|Where,|_ oh where _ can he|be?|_|
+"C#dim" z _B2 B | _B2 G/ z/ z |"G" z =B2 B |"E7" B2 ^G/ z/ z |"A7" z B A =G | %29
+w: Low or|high- brow,|they all|cry now:|"Please play that|
+"D7" A/ B d/- d"D+7" _B |1"G" G4- || G z z2 :|2"G" G4- || G2 z2 |] %34
+w: ti- ger rag _ for|me.|_|||
+

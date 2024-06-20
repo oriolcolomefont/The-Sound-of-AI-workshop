@@ -1,0 +1,34 @@
+X:1
+T:The Sunshine Of Your Smile
+T:The Sunshine Of Your Smile
+T:Lilian Ray
+T:Leonard Cooke
+C:Lilian Ray
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Eb""^Verse" G G/G/"Eb/G" B3/2 G/ |"Eb/C" F/E/D/E/"Bb7" A2 | A A/A/"Fm" c3/2 A/ | %3
+w: Dear face that holds so|sweet a smile for me,|Were you not mine, how|
+w: Shad- ows may fall up-|on the land and sea,|Sun- shine from all the|
+"F7" G/F/E/C/"Bb7" F2 |"Eb" B e/d/"C7" c3/2 G/ | c/B/A/G/"Fm" A2 |"Abm" A E/F/"Eb" G B | %7
+w: dark the world would be!|I know no light a-|bove that could re- place,|Love's ra- diant sun- shine|
+w: world may hid- den be,|But I shall see no|cloud a- cross the sun|your smile shall light my|
+"F7" G/E/G/E/"Bb7" B2 ||"Eb""^Chorus" e2 d c |"Eb/G" B3 =A |"C7" A G c G |"F7" C4 | %12
+w: in your dera, dear face.|Give me your|smile, the|love- light in your|eyes,|
+w: life 'till life is done.|||||
+"Bb7" D2"Bb7/Ab" G F |"Eb/G""Ebm/Gb" B3 c |"Bb/F" d e"F7" c d |"Bb7" B"Ab/Bb" e"Gm/Bb" d"Bb7" c | %16
+w: life could not|hold a|fair- er pa- ra-|dise. * * *|
+w: ||||
+"Eb" e2 d c |"Eb/G" B3 =A |"C7" A G c G |"F7" C4 |"Abm" E2 F E |"Eb/G" e2 B G | %22
+w: Give me the|right to|love you all the|while,|my world for-|ev- er the|
+w: ||||||
+"F7" C E"Bb7" F3/2 E/ |"Eb" E3 z |] %24
+w: Sun- shine Of Your|Smile.|
+w: ||
+

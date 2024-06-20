@@ -1,0 +1,38 @@
+X:1
+T:Baby I'm A Want You
+C:David Porter
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:D
+V:1 treble nm="MELODY" snm="MELODY"
+%%MIDI channel 9
+%%MIDI program 107
+V:1
+"Amaj7" ^G12- G2GA |"D " F12- F2 z2 |"Amaj7" ^G8 G2A2 B2c2 |"D " F12 z4 |"A " EEEE F2A2- A8 | %5
+w: ||||Ba- by, ~I'm- a ~want ~you. *|
+"Bmin7" BBBB c2B2- B4 z c ef- |"Amaj7" f2ee- e2cf- f2ec- c2c2 |"D " B2cA- A2<F2- F4 z4 | %8
+w: Ba- by, ~I'm- a ~need ~you. * You're ~the ~on-|* ly ~one * ~I ~care * ~e- nough * ~to|~hurt ~a- bo- * ut. *|
+"Bmin9" AAAA B2c2- c4 z B cd- |"D " d2cd- d2cB- B2<A2- A2F2 |"A " EEEE F2A2- A4 z4 | %11
+w: May- be ~I'm- a ~cra- zy * but ~I ~just|* ~can't ~live * ~with- o\- * ut... * your|~lov- in' ~and ~af- fec- tion *|
+"Bmin7" BBBB c2 B4 z2 z c ef- |"Amaj7" f2ee- e2cf e2c2 c2B2- |"D " B2cA- A2<F2- F4 z4 | %14
+w: giv- in' ~me ~di- rec- tion like ~a ~guid-|* ing ~light * to ~help me through my dark-|* est ho- * ur. *|
+"Bmin9" AAAA B2c2- c4 z B cd |"D " c2e2 d2c2 B2 A4 F2 |"A " cABA- A4- A2 z2 z4 | %17
+w: Late- ly ~I'm- ~a pray- in' * that ~you'll ~al-|ways be a\- sta- y\- in' be-|si- d\- e me. * *|
+"C#min7" ^gggg g2fg- gfb2- b2<a2 |"Dmaj7" ^g2>a2- a2f2- f8 |"C#min" ^gggg g2fg z f b2- b2<a2 | %20
+w: Used ~to ~be ~my ~life ~was ~just * ~e- mo- * tions|~pass- ing * ~by, *|feel- ing ~all ~the ~while and ~nev- er ~real- * ly|
+"E " ^g2>a2-"D " a2f2- f6 z2 |"A " EEEE F2A2 z4 z3 B- |"Bmin7" B2BA B2A2 B2 z B cee2- | %23
+w: ~know- ing * ~why. *|||
+"Amaj7" e2>e2- e2 z b a2f2 e2B2- |"Gmaj7" B4 A2FE FAAF CB,CB, |"Bmin9" AAAA B2c2- c4 z B cd- | %26
+w: ||Late- ly I'm- a pra- yin' * that ~you'll ~al-|
+"D " d2ce d2c2 B2 A4 F2 |"A " cABA- A8 z4 |"C#min7" ^gggg g2fg- gfb2- b2<a2 | %29
+w: * ways ~be a\- sta- y\- in' be-|si- d\- e me. *|Used ~to ~be ~my ~life ~was ~just * ~e- mo- * tions|
+"E " ^g2>a2-"D " a2f2- f6 z2 |"C#min" ^gggg g2fg z f b2 z a3 |"E " ^g2>a2-"D " a2f2- f6 z2 | %32
+w: ~pass- ing * ~by, *|then ~you ~came ~a- long and ~made ~me ~laugh ~and|~made ~me * ~cry; *|
+"A " e2e2 z f3 d4- dEF2 | EEEE F2A2- A6 z2 |"Bmin7" BBBB c2B2- B6 z2 |"Amaj7" z8 z4 z e fa | %36
+w: you ~taught ~me ~w- * h\- y.|Ba- by, ~I'm- a ~want ~you. *|Ba- by, ~I'm- a ~need ~you. *|Oh, ~it ~took|
+"Gmaj7" f2 f4 ea- a2ce- ecBA |"A " EEEE F2A2- A6 z2 |"Bmin7" BBBB c2B2- B6 z2 | %39
+w: so long ~to ~fi- * nd yo- * \- \- u.|Ba- by, ~I'm- a want ~you. *|Ba- by, I'm- a need ~you. *|
+"Amaj7" z8 z4 z a ^ge |"Gmaj7" f8 a2b2- b4 |"A " a16 |] %42
+w: |||
+

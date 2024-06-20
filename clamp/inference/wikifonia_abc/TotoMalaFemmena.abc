@@ -1,0 +1,24 @@
+X:1
+T:Mala Femmena
+T:Mala Femmena
+C:Toto
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Bb" B3 B B4- | B2 B2 cdcB |"Bbmaj7" A3 A A4- | A2 A2 GABA |"Bb6" G3 G G4- | G2 A2"G7" GAGA | %6
+w: Fem- me- na|_ tu si na ma- la|fem- me- na|_ Chist 'uo cchie'e fat- to|chia- gne- re|_ la- creme e'n- fa- mi-|
+"Cm" G8- | G6 z2 |"F9" A3 A A4- | A2 A2 BcBA | G3 G G4- | G2 G2 ABAG |"F7" F3 F F4- | %13
+w: tà.|_|Fem- me- na|_ si tu peg- gio'e na|vi- pa- ra,|_ m'e 'ntus- se- ca- ta|l'a- ne- ma,|
+ F2 G2 FG"F+"FG |"Bb""Bdim" F8- |"Cm" F6"F7" z2 |"Bb" B3 B B4- | B2 B2 cdcB |"Bbmaj7" A3 A A4- | %19
+w: _ nuh poz- zo- cchiù cam-|pà.|_|Fem- me- na|_ Si ddo- ce com- me'o|zuc- che- ro|
+ A2 A2 GABA |"Bb6" G3 G G4- | G2 G2"G7" GG_AG |"Cm" c8 | c6 z2 |"Ebm6" e3 e e4- | %25
+w: _ pe- rò sta fac- cia|d'an- ge- lo|_ te ser- ve pe 'ngan-|na.|_|Fem- me- na,|
+ e2 e2 ee!fermata!fe |"Bb" d3 d d4- | d2 F2 GABG |"C7" c4 c4- |"F7" c2 cc c !fermata!B2 c | %30
+w: _ tu si~à cchiu bel- la|fem- me- na,|_ te vo- glio be- ne͜~e|t'o dio,|_ nun te poz- zo scur-|
+"Bb" B8- | !fermata!B8 |] %32
+w: dà.|_|
+

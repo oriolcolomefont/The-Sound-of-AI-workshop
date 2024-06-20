@@ -1,0 +1,20 @@
+X:1
+T:The Lonely Bull
+T:The Lonely Bull
+T:(El Solo Toro)
+T:Sol Lake
+C:Sol Lake
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 4
+V:1
+"G" g2 (3gdd (3dBd (3dBd | g2 gg ddBB | G8 |"G" z2 Bc dcB z |:"F" A2 =FF F2 GA |"G" G2 DD D2 GD | %6
+"F" =F8 |"G" z2 Bc dc B2 |"F" A2 =FF F2 GA |"G" G2 GG"D" FE F2 |"G" G8 |"A" E2 GE"D7" FGAF | %12
+"G" G2 Bc dc B2 :|"A" z2 GA"D7" FE F2 |"G" G8- | G8 |"C" z2 e2 c2 BA |"G" G2 D6 |"Bb" z2 D2 =F3 G | %19
+"G" D8 |"C" z2 e2 c2 BA |"G" G2 D6 |"A7" E3 E EEFG |"D7" A8- | A8 |"G" z2 Bc dc B2 | %26
+"F" A2 =FF F2 GA |"G" G2 DD D2 GD |"F" =F8 |"G" z2 Bc dc B2 |"F" A2 =FF F2 GA |"G" G2 GG"D" FE F2 | %32
+"G" G8- | G6 z2 |] %34
+

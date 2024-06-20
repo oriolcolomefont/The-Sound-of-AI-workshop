@@ -1,0 +1,46 @@
+X:1
+T:Allez viens
+T:ALLEZ VIENS
+T:John Mamann
+T:2
+T:REFRAIN
+C:John Mamann
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" z8 |"D" z8 |"Em7" z8 |"C" z8 |"G""^COUPLET" z DBB B B3 |"D" z2 AB- B2 z2 |"Em7" z DBB B2 dd- | %7
+w: ||||1.~D'ac cord on r'com- mande|deux bières, _|les deux der- nières j'ai ta|
+"C" d c2 G2 E EE |"D" ED D2 z EEE | EF F2 z4 |"G" z DBB B B3 |"D" z2 AB- B2 z2 | %12
+w: _ pa- role. Se no- yer|dans l'al- cool, c'est pas des|choses à faire.|Qu'est qu'on fout i- ci,|dis- moi~? _|
+"Em7" z DBB B2 dd- |"C" d c2 G2 E EE |"D" ED D2 z EEE | EF F2 z4 ||"^REFRAIN" z2 (3AAA AA- A/A/G | %17
+w: Dans l'ar- rière salle d'un bar|_ ta- bac à pleu- rer|sur ton sort parce qu'elle t'a|mis de- hors.|Al- lez viens on prend _ un ba-|
+"G" B2 z2 z4 |"D" z2 (3z AA AA- A/A/G |"Em7" G4 z4 |"C" z2 (3ccc cc (3cBc- | c4 z4 | %22
+w: teau|C'est d'quel cô- té _ Bue- nos|Aires~?|Ar- rête de faire ton nu- mé- ro|_|
+"D" z2 z/ A/A/A/ (3AAA- AG | A4 z4 | z2 z/ A/A/A/ AA A/GB/- |"G" B4 z4 |"D" z2 AA A>A AG | %27
+w: De dire que tu vas t'foutre _ en|l'air!|Si tu crois qu'je vais t'lais- ser faire|_|compte là- d'ssus et bois de|
+"Em7" G4 z4 |"C" z2 z/ c/c/c/ cc/c/- c/Bc/- | c4 z4 |"D" z2 z/ A/A/A/ A/AA/- A/GA/- | A4 z4 | %32
+w: l'eau|Moi qu'ai tou- jours vou- lu _ un frère|_|je vais pas t'quit- ter de _ si- tôt~!|_|
+"Em7" z8 | z8 |"G""^COUPLET" z DBB B4 |"D" z AAB- B4 |"Em7" z DBB BBdd- |"C" d c2 G- GEEE | %38
+w: ||2.~Pleure pas comme ça|d'vant tout l'monde _|ils vont croire que j't'ai fait de|_ la peine, _ c'est pas moi|
+"D" ED D2 z EEE | EF F2 z4 |"G" z DBB B B3 |"D" z2 AB- B2 z2 |"Em7" z DBB B2 dd- | %43
+w: la fausse blonde qui t'a joué|la grande scène.|Qu'est­ce qu'on fout i- ci,|crois- moi _|on s'rait bien mieux à faire|
+"C" d c2 G- GEEE |"D" ED D2 z EEE | EF F2 z4 ||"^REFRAIN" z2 (3AAA AA- A/A/G |"G" B2 z2 z4 | %48
+w: _ la fête, _ Al- lez viens|on s'en va, ar- rête de|faire la tête~!|Al- lez viens on prend _ un ba-|teau|
+"D" z2 (3z AA AA- A/A/G |"Em7" G4 z4 |"C" z2 (3ccc cc (3cBc- | c4 z4 |"D" z2 z/ A/A/A/ (3AAA- AG | %53
+w: C'est d'quel cô- té _ Bue- nos|Aires~?|Ar- rête de faire ton nu- mé- ro|_|De dire que tu vas t'foutre _ en|
+ A4 z4 | z2 z/ A/A/A/ AA A/GB/- |"G" B4 z4 |"D" z2 AA A>A AG |"Em7" G4 z4 | %58
+w: l'air!|Si tu crois qu'je vais t'lais- ser faire|_|compte là- d'ssus et bois de|l'eau|
+"C" z2 z/ c/c/c/ cc/c/- c/Bc/- | c4 z4 |"D" z2 z/ A/A/A/ A/AA/- A/GA/- | A4 z4 |"Em7" z8 | z8 | %64
+w: Moi qu'ai tou- jours vou- lu _ un frère|_|je vais pas t'quit- ter de _ si- tôt~!|_|||
+"G""^COUPLET" z DBB B B3 |"D" z2 AB- B2 z2 |"Em7" z DBB B2 dd- |"C" d c2 G2 E EE |"D" ED D2 z EEE | %69
+w: 3.~Qu'est­ce qu'on fout i- ci|dis- moi, _|y~a plus qu'nous deux et la|_ cais- sière, al- lez vient|on s'en va, elle é- teint|
+ EF F2 z4 || %70
+w: les lu- mières.|
+

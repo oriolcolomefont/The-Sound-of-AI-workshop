@@ -1,0 +1,46 @@
+X:1
+T:Hello Again
+T:Hello Again
+C:Neil Diamond and Alan Lindgren
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 z G |"C9" G3 A"G7sus4" F3 G |"C9" E2 z2"G7sus4" z2 z G |"C9" G3 A"G7sus4" F3 E | %4
+w: Hel-|lo a- gain. hel-|lo. Just|called to say "hel-|
+"C9" E2 z2"Em/B" z2"Am" z c |"F" B3 c"Dm7" B3 A |"Em7" G3 A"Am7" C2 z G,/G,/ | %7
+w: lo." I|could- n't sleep at|all to- night. And I|
+"G7sus4" E/D/D z2 z2 z G,/G,/ |"Fmaj7/G" E/D/D"G7" z2"F/G" z2"G7" z G |"C9" G3 A"G7sus4" F3 G | %10
+w: know it's late, but I|could- n't wait. Hel-|lo, my friend, hel-|
+"C9" E2 z2"G7sus4" z2 z G |"C9" G3 A"G7sus4" F3 E |"C9" E2 z2"Em7/B" z2"Am" z c | %13
+w: lo. Just|called to let you|know I|
+"F" B3 c"Dm7" B3 A |"Em7" G3 A"Am7" C2 z G,/G,/ |"G7sus4" E/D/D z2 z2 z G,/G,/ | %16
+w: think a- bout you|ev- 'ry night when I'm|here a- lone and you're|
+"Fmaj7/G" E/D/D"G7" z2"F/G" z2"G7" z B, |"C9" C4 z4 | z8 |"F" z2 cc"Em7" Bc/d/-dB | %20
+w: there at home. Hel-|lo.||May- be it's been cra- * zy,|
+"F" z/ C/c/A/ c/A/B"G""C" z4 |"F" z c/c/ c<c"Em7" Bc/d/-dB |"Dm7" c2 z2"G7sus4""G/F" z4 | %23
+w: and may- be I'm to blame,|but I put my heart a- bove _ my|head.|
+"Em7" z2 dB"Am" c/B/ c2 c/A/ |"Em7" dB/d/- d/B/(c/A/)"Am" z4 |"Em7" z/ B,/B (3BBA"Am" z2 z3/2 A,/ | %26
+w: We've been through it all, and you|loved me just _ the same.- *|and when you're not there, I|
+"Dm7/G" AA-A>F"G7" G2 z G |"C9" G3 A"G7sus4" F3 G |"C9" E2 z2"G7sus4" z2 z G | %29
+w: just need _ to hear: Hel-|lo, my friend, hel-|lo. It's|
+"C9" G3 A"G7sus4" F3 E |"C9" E2 z2"Em/B" z2"Am" z c |"F" B3 c"Dm7" B3 A | %32
+w: good to need you|so. It's|good to love you|
+"Em7" G3 A"Am7" C2 z G,/G,/ |"G7sus4" E/D/D z2 z2 z G,/G,/ | E/D/D z2"G7" z2"F/G" z B, |"C" C4 z4 | %36
+w: like I do and to|feel this way when I|hear you say hel-|lo.|
+"F""Dm7" z8 |"Em7""Am7" z8 |"G7sus4" z8 |"Gbmaj7/Ab" z4 z2"Ab7" z _A | %40
+w: |||Hel-|
+[K:Db]"Db9" A3 B"Ab7sus4" G3 A |"Db9" F2 z2"Fm7/C" z2"Bbm" z A |"Db9" A3 B"Ab7sus4" G3 F | %43
+w: lo, my friend, hel-|lo, just|called to let you|
+"Db9" F2 z2"Fm7/C" z2"Bbm" z d |"Gb" c3 d"Ebm7" c3 B |"Fm7" A3 B"Bbm7" D2 z A,/A,/ | %46
+w: know I|think a- bout you|ev- 'ry night. And I|
+"Ab9sus4" F/E/E z2 z2 z A,/A,/ | F/E/E"Ab7" z2"Ab9sus4" z2"Ab7" z C |"Db9" D4"Ebm7/Bb" z4 | %49
+w: know it's late, but I|could- n't wait. Hel-|lo|
+"Db/Ab""Ab7sus4""Ab7" z8 |"Db" z8 | %51
+w: ||
+

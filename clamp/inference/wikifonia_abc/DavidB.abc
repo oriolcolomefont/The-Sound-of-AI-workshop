@@ -1,0 +1,35 @@
+X:1
+T:Garden Song
+T:Garden Song
+T:David B Mallett
+T:Country swing
+C:David B.Mallett
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F c c2 |"Bb" _B/c/ d"F" c2 |"Bb" z _B/_B/"C" A G |"F" A F C2 |"Bb" z _B/_B/"C" A G/G/ | %5
+w: Inch by inch|row by * row|gon- na make the|gar- den grow|all it takes is a|
+w: |||||
+"F" A G/G/ F G/A/ |"Bb" G D E F |"C" E3 z |"F" F c c2 |"Bb" _B/c/ d"F" c2 |"Bb" _B _B"C" A G | %11
+w: rake and a hoe and a|piece of fer- tile|ground|inch by inch|row by * row|some- one bless the|
+w: ||||||
+"F" A F C2 |"Bb" z _B/_B/"C" A G |"F" A G F G/A/ |"Bb" G D"C" E/F/"^ToCoda" G |"F" F4 |: %16
+w: seeds I sow|some- one warm them|from be- low til the|rain comes tum- bl- ing|down|
+w: |||||
+"F" F c c A |"Bb" _B d"F" c2 |"Bb" _B _B"C" A G |"F" A F C2 |"Bb" _B _B"C" A G |"F" A G F G/A/ | %22
+w: Pull the weeds and|pick- in stones|man is made of|dreams and bones|feel the need to|grow my own cause the|
+w: Plant your rows *|straight and long|thick- er than with|pray'r and song|moth- er earth will|* you strong if you|
+"Bb" G2 D/E/ F |"C" E3 z |"F" F c c2 |"Bb" _B/c/ d"F" c z |"Bb" _B _B"C" A G |"F" A F C2 | %28
+w: time is close at|hand|Grain for grain,|sun and * rain|find my way in|na- tures chain|
+w: giveher love * and|care|old crow watchin|hun- gri * ly|from his perch in|yon der tree|
+"Bb" _B _B"C" A G |"F" A G F G/A/ |"Bb" G D"C" E"^D.C." G |"F""^alCoda" F4 :|"F" F4 || %33
+w: to my bod- y|and my brain to the|mus- ic from the|land.|there|
+w: in my gar- den|I'm as free as that|feath- ered beak up|||
+"F" e"^Coda" f g a | _b/a/ g a2 | e f g a |"C" g/f/ e"F" f2 |] %37
+w: Instrumental * * *||||
+w: ||||
+

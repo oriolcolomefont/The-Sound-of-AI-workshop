@@ -1,0 +1,36 @@
+X:1
+T:Chattanooga Choo-Choo
+T:Chattanooga Choo-Choo
+C:Harry Warren
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" E>F"Cdim"^F>G-"C6" G4- | G>GA>B c>dc>E | A G3- G4- | G2 z3/2 A/- A>GE>D- |"Dm7" D4-"G7" D4 | %5
+w: Par- don me boy _|_ is that the Chat- ta- noo- ga|Choo choo _|_ Track * twen- ty nine|_ _|
+"Dm" z AAA"G7" AG E2 |"C""Cm6" C8- | C8 |"C" E>F"Cdim"^F3/2 G/-"C6" G4- | G>GA>B c>dc>E | %10
+w: Boy you can gim- me a|shine.|_|I can af- ford _|_ to board a Chat- ta- noo- ga|
+ A G3- G4- | G2 z2 A>GE>D- |"Dm7" D4-"G7" D4 |"Dm" z AAA"G7" AG E2 |"C""Cm6" C8 | %15
+w: Choo- choo _|_ I've got my fare|_ _|and just a tri- fle to||
+ z2"C7" c2"Gm7" c2"C7" c2 |"F" c>AF>C"C7" _B>GE>C |"F" F>GA>c-"C7" c4 |"F" c>AF>C"C7" _B>GE>C | %19
+w: You leave the|Pen- syl- va- nia sta- tion 'bout a|quar- ter to four, _|Read a mag- a- zine and then you're|
+"F" F>GA>c-"F7" c4 |"Bb" f>fe>f"Fdim" e d3 |"F" c>cB>c"D+" _B"D7" A3 |"G7b9" _A>AA>A A>FD>B, | %23
+w: in Bal- ti- more, _|Din- ner in the din- er|noth- ing could be fin- er|than to have your ham 'n eggs in|
+"Db7" _A A2 A-"C9" A G3 |"F" c>AF>C"C7" _B>GE>C |"F" F>GA>c-"C7" c4 |"F" c>AF>C"C7" _B>GE>C | %27
+w: Car- o- li- * na.|When you hear the whis- tle blow- in'|eight to the bar _|Then you know that Ten- nes- see is|
+"F" F>GA>c-"F7" c4 |"Bb" f>fe>f"Fdim" e d3 |"F" c>cB>c"D+" _B"D7" A3 |"G7b9" _A A2 A- A>F D>B, | %31
+w: not ver- y far _|Shov el all the coal in|got- ta keep it roll- in'|Woo, Woo, Chat- * ta- noo- ga|
+ (_A>F)"C7"G>(F-"F" F2"G7" G2) |"C" E>F"Cdim"^F3/2 G/-"C6" G4- | G>GA>B c>dc>E | A G3- G4- | %35
+w: there * you are _ _|There's gon- na be _|_ a cer- tain par- ty at the|sta- tion _|
+ G2 z2 A>GE>D- |"Dm7" D4-"G7" D4 |"Dm7" z AAA"G7" AG E2 |"C""Cm6" C8- | C8 | %40
+w: _ Sat- in and lace|_ _|I used to call fun- ny|face.|_|
+"C" E>F"Cdim"^F>G-"C6" G4- | G>GA>B"C7" c>dc>A |"F6" G F2 c- c4- |"Ab7" c6"D7b5" d2 | %44
+w: She's gon- na cry _|_ un til I tell her that I'll|nev- er roam _|_ so|
+"C" e>_ed>c"Am7" =e c3 |"D7" e2 c2"G7" e>_e d2 |"C" c8- | c6 z2 |] %48
+w: Chat- ta- noo- ga Choo- Choo|won't you choo- choo me|||
+

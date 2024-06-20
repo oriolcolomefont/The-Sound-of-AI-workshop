@@ -1,0 +1,40 @@
+X:1
+T:I Will Wait For You
+T:I Will Wait For you
+C:Michael Legrand
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ z4 ^G2 A2 |:S"Dm" G4 F4 | E2 D2"D7" ^c2 d2 |"Gm7" c4 B4 | B4"D7" ^F2 G2 |"Gm7" F4"C7" E4 | %6
+w: If it|takes for-|ev- er I will|wait for|you, for a|thou- sand|
+w: |where you|wand- er an- y|where you|go, ev- 'ry|day re-|
+w: |takes for-|ev- er I will|wait for|you, for a|thous- and|
+"Gm7" D2 C2"C7" =B2 c2 |"F" B4 A4 |"Em7b5" A4"A7" _A2 =A2 |"Dm" G4 F4 | E2 D2"D7" ^c2 d2 | %11
+w: sum- mers I will|wait for|you, "Till you're|back be-|side me till I'm|
+w: mem- ber how I|love you|so, in your|heart be-|lieve what in my|
+w: sum- mers I will|wait for|you 'till you're|back be-|side me, 'till I'm|
+"Gm7" c4 B4 |"Em7b5" B4"A7" A2 G2 |"Dm" A2 d2"Bbmaj7" D4 |"Em7b5" E2 A2"A7" A,4 |1 %15
+w: hold- ing|you, 'till I|hear you sigh|here in my|
+w: heart I|know, that for-|ev- er more|I'll wait for|
+w: touch- ing|you, and for-|ev- er more|shar- ing your|
+"Dm""Bbmaj7" D8 ||"Em7b5" z4"A7" ^G2 A2 :|2"Dm" D8- || D4"_To Interlude" z2 z B ||3"Dm""Gm6" D8- || %20
+w: arms.|An- y|you.|* The|love|
+w: |||||
+w: |||||
+"Dm" D6 z2!fine! ||"Gm7""_Interlude" ccBB cc B2 ||"C7" d2 cB B3 A | BBAA BBAA | %24
+w: |clock will tick a- way the hours|one by one * and|then the time will come when all the|
+w: ||||
+w: ||||
+"Bbmaj7" c2 BA A3 G |"Em7b5" AAGG AAGG |"A7b9" B2 AG G4 |"Dm""Dm/C" F8 |"Bm7b5" z2 EF"Bb7" G2 D2 | %29
+w: wait- ings done * The|time when you ret- turn and find me|here and run *|straight|to my wait- ing|
+w: |||||
+w: |||||
+"A7""Bb7b5" E8 |"A7" E4 ^G2 A2!D.S.! |] %31
+w: arms.|* If it|
+w: ||
+w: ||
+

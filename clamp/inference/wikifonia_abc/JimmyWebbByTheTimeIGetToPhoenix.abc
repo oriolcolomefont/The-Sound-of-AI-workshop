@@ -1,0 +1,26 @@
+X:1
+T:By The Time I Get To Phoenix
+T:By The Time I Get To Phoenix
+T:Jim Webb
+C:Jimmy Webb
+Z:All Rights Reserved
+L:1/8
+Q:1/4=3600
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"^Bossa Nova" EF |:"Gm7" G4- GGGG | GG- G4 Fc |"Fmaj7" cA- A6- | A4 z2 EF |"Gm" GG"^G m/C" G4- GG | %6
+w: By the|time * I get to|Phoen- ix * she'll be|ris in' *|* she'll find|the note * I left|
+w: |time I make Ok la|hom a * she'll be|sleep in *|* she'll turn|soft ly * * and|
+"Gm" GG-"^G m/C" G3 G Fc |"Fmaj7" A8- | A4 z2 cc |"Bbmaj7" d4 dddd |"C9" d4- dBcd |"Am7" cc- c6 | %12
+w: hang- in" * * on her|door|* * She'll|laugh when she reads the|part * that says I'm|leav in' *|
+w: call * * my name out|low|* And she'll|cry * * just to|think * I'd real ly|leave her. *|
+"Dm7" F6 GA |"Gm7" BB B4- BB |1 AA G4- GF |"Eb" G8- |"C7" G4 z2 EF :|2"C7" B2- BB- BABc || %18
+w: * 'cause I've|left that girl * so|man y times * be|fore|* by the||
+w: * tho' *|time and time * I've||||* * tried * to tell her|
+"Fmaj7" A8- | A3"Bbmaj7" F F2 FF |"Gm" G8- |"A" G4 GFEA |"D" A8- |"C" A8 |"D" z8 |] %25
+w: so|* she just did- n't|know|* I would real- ly|go|||
+w: |||||||
+

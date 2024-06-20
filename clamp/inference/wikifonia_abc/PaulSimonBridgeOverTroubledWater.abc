@@ -1,0 +1,41 @@
+X:1
+T:Bridge Over Troubled Water
+T:Bridge over troubled waters 
+T:Paul Simon
+T:Slow rock or Ballad
+C:Paul Simon
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." F/F/ |:"C" E/D/ C3 |"F" z3 F/G/ |"C" E4 |"F" z A _B A |"C" G3 c |"F" A3 A | %7
+w: When you're|wea * ry|feel- in|small|when tears are|in your|eyes I'll|
+w: |down and out|on the|street|when eve- ning|falls so|hard I'll|
+"C" G E/D/ C2 |"F" c4 |"C" z E D C |"G" D4 | G G E/D/ C |"C" C/D/ E3 | z G"C7" e d |"F" c2"D" d2 | %15
+w: dry them * all||I'm on your|side|oh, when times * get|rough * *|and friends just|cant be|
+w: com- fort * you||I'll take your|part|oh when dar- * ness|comes * *|and pain is|all a-|
+"G" d2"C7" e d |"F" c2 B A |"C" A G"A7" E G |"F" z A/c/"E7" d e |"Am" c2"C" e d |"F" c2 B A |1 %21
+w: found Like a|bridge o- ver|trou- bled wa- ter|I will lay me|down like a|bridge o- ver|
+w: round * *||||||
+"C" A G"A7" E G ||"F" z A/c/"G7" d e |"C" c2 z2 | z2 z F/F/ :|2"C" A G"Am" A c || %26
+w: trou- bled wa- ter|I will lay me|down|when you're|trou- bled wa- ter|
+w: |||||
+"F" z c/d/"G7" c B |"C" c4- | c3 A/A/ | G/F/ E3 |"F" z2 z A/B/ |"C" G4 |"F" z A _B A |"C" G3 c | %34
+w: I will ease your|mind|* sail on|sil- ver girl|sail on|by|your time has|come to|
+w: ||||||||
+"F" A3 A/A/ |"C" G/A/G/E/ C2 |"F" z4 |"C" z E D C |"G" D3 G- |"G7" G3 G/G/ |"C" G3/2 F/ E2 | %41
+w: shine all your|dreams are on their way||see how they|shine oh|* if you|need a friend|
+w: |||||||
+"C7" z G e d |"F" c2"D" d2 |"G" d2"C7" e d |"F" c2 B A |"C" A G"Am" A c |"F" z c/d/"E7" c B | %47
+w: I'm sail- ing|right be-|hind like a|bridge o- ver|trou- bled wa- ter|I will ease your|
+w: ||||||
+"Am" c2"C7" e d |"F" f2"D7" e d |"C" e f/e/"Am" d c |"F" z f/f/"E7" e d |"Am" e4- |"D7" e4 | %53
+w: mind Like a|bridge o- ver|trou- * bled wa- ter|I will ease your|mind.||
+w: ||||||
+"C" d c3- |"F" c3 z |"Fm" z4 |"C" z4 | %57
+w: ||||
+w: ||||
+

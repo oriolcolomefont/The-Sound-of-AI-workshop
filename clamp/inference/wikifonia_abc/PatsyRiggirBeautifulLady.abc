@@ -1,0 +1,21 @@
+X:1
+T:Beautiful Lady
+T:Beautiful Lady
+T:Patsy Riggir
+C:Patsy Riggir
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"C" E/G/G/E/ | G G2 z | z2 E G |"F" F2 E2 |"G" D4 | G, G, F/F/G/G/ | E D C/A,/ C |"C" G,4 | %8
+w: Beau- ti- ful *|la- dy|are you|lone *|ly?|Let me show you what a|night of lov- ing can|do|
+ z2 E/G/G/E/ | G G2 z | z2 E G |"F" F2 E2 |"G" D4 | G, G, F G | E D C D |"C" C2 z G, || G G G G | %17
+w: beau- ti- ful *|la- dy|put your|hand in|mine|and I'll spend my|whole life lo- ving|you. As|far as I could|
+ G2 F"F" E | E F F E | F A, z3/2 G,/ |"G" F F F G | E D C"C" A, | G,2 z G, | G G/G/ G G | %24
+w: see there was|no fu- ture left|for me and|so I found my-|self in- side a|bar with-|out the love I knew|
+ F E/E/"F" F F/E/ | F A, z G, | F F F G |"F" E D C D |"C" C4 |] %29
+w: I did- nt know what I|should do and|so I drowned my|sor rows in the|wine.|
+

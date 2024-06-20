@@ -1,0 +1,30 @@
+X:1
+T:Moonlight Becomes You
+T:Moonlight Becomes You
+C:Jimmy Van Heusen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"F" A C2"F#dim" ^C |"Gm7" D B2"C7" A |"Am7" c2"Dm7" E F/d/- |"Gm7" d3"Bbdim" _d | %4
+w: Moon- light be-|comes you, it|goes with your hair;|* You|
+"Am7" (3c d c"D9" ^G A |"Gm7" B B2"C7b9" E |"Am7b5""D7" A4- |"G9b5" A2"C7""C+7" z2 | %8
+w: cer- tain- ly know the|right thing to|wear.||
+"F" A C2"F#dim" ^C |"Gm7" D B2"C7" A |"Am7" c2"Dm7" E F/d/- |"Gm7" d3"Bbdim" _d | %12
+w: Moon- light be-|comes you, I'm|thrilled at your sight;|* And|
+"Am7" (3c d c"D9" ^G A |"Gm7" B B2"C7b9" E |"F6""Gm7" F4- |"G#dim" F2"F" z"F+7" F | %16
+w: I could get so ro-|man- tic to-|night.|* You're|
+"Bb" d d"Bb+7" (3d c B |"Eb6" d/c/- c2 B |"F9" A2"F7b9" (3A B c |"Bb" F3"Gm7" G | %20
+w: all dressed up to go|dream- ing * now|don't tell me I'm|wrong. And|
+"Em7b5" B B"A7b9" (3B A G |"Dm" B/A/-"Dm7" A3 |"G7" (3G G G"G7b5" F G/D/- |"C9" D2 z"C+7" C | %24
+w: what a night to go|dream- ing! *|Mind if I tag a- long?|* If|
+"F" A C2"F#dim" ^C |"Gm7" D B2"C7" A |"Am7" c2"Dm7" E F/d/- |"Gm7" d3"Bbdim" _d | %28
+w: I say I|love you, I|want you to know|* It's|
+"Am7" (3c d c"F9" ^G A |"Gm7" B"C7b9" B2 E |"Am7b5" A3-"D7" A/ z/ |"G7" (3G A G"Gm7" F"C7b9" E | %32
+w: not just be- cause there's|moon- light al-|though *|Moon- light be- comes you|
+"F6""Gm7" F4- |"F" F3 z |] %34
+w: so.||
+

@@ -1,0 +1,28 @@
+X:1
+T:Too Soon To Know
+T:Too Soon To Know
+C:Don Gibson
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 C2 |"C" C6 | G4- G_G |"Dm7" F6- | F4 F2 |"G7" F6 | d4- dF |"C" F2 E4- | E2 z2 G2 | e4 e2 | %10
+w: It's|too|soon _ to|know|_ if|I|can _ for-|get her.|_ My|heart's been|
+"C7" e d3 c2 |"F6" d2 d3 c |"F" A F3 FF |"G7" G6 | G2 F3 F |"C" E6- |"G13" E4 z2 |"C" C6 | %18
+w: bro- ken in|too man- y|piec- es And it's|too|soon * to|know.|_|Time|
+ G4- G_G |"Dm7" F6- | F4 F2 |"G7" F6 | d4- dF |"C" F2 E4- | E2 z2 G2 | e4 ee |"C7" e d3 d2 | %27
+w: pas- * es|slow,|_ Will|I|ev- * er|know _|_ if|I can for-|get her and|
+"F6" d2 d3 c |"F" A F3 FF |"G7" G6 | G2 F3 F |"C" E6- |"C7" E4 z2 |"F" c4 AF |"G7" d4 BG | %35
+w: not let it|show, _ But it's|too|soon _ to|know.|_|News trav- els|fast when a|
+"C" E3 E F2 | G6 |"D7" c2 c3 c | e2 d3 c |"G7" e2 d3 B | A4 CC |"C" C6 | G4- G_G |"Dm7" F6- | %44
+w: love af- fair|ends.|Peo- ple keep|ask- ing, "What|hap- pened to|them?" But it's|foo|soon _ to|know|
+ F4 F2 |"G7" F6 | d4- dF |"C" F2 E4- | E2 z2 G2 | e4 e2 |"C7" e d3 c2 |"F6" d2 d3 c |"F" A F3 FF | %53
+w: _ if|I|can _ for-|get her,|_ My|heart's been|brok- en in|too man- y|piec- es, And it's|
+"G7" G6 |"G13" e4- ee |"C" c6- | c4 z2 |] %57
+w: too|soon _ to|know|_|
+

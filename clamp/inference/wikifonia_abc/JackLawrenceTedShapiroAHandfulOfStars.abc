@@ -1,0 +1,39 @@
+X:1
+T:A Handful Of Stars
+T:A Handful Of Stars
+T:Jack Lawrence & Ted Shapiro
+C:Jack Lawrence & Ted Shapiro
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" dcGE"B7" ^D B2 _B |"Gm6" AGED"A7" ^C _B2 A |"D7b5" ^GGGG"G7" A"G+7" A2 A |"C" c4 c'2 z G || %4
+w: |||* * A|
+"C6""^Verse" ABcd-"Cdim" !fermata!d3 c |"Dm7" DEFG-"G7" !fermata!G3 F |"Gm6" EFGA-"A7" A2 A2 | %7
+w: star cov- ered sky, * a|rose scent- ed lane, * The|song of a night- * in|
+"D7""D7b5" E4-"D7" E2 E2 |"Dm7" D4"G7" D2"G9" A2 |"Em7" G4"Am" c4 |"Am7" ABcd-"D7" d2 d2 | %11
+w: gale * And|two moon- struck|lov- ers,|Liv- ing a fair- * y|
+"Dm7" G2 A,2"Gm7" ^A,2"G7" B,2 |:"C""^Chorus" GECA,"Gdim" _B, A2 _A |"G7" GFDB,"Cdim" C B2 _B | %14
+w: tale. * * *|I re- call a sto- ry a|night of love and glo- ry, A|
+"C" AGED"C7" Ccc^c |"F" d4-"Fm6" d e3 |"C" dcGE"B7" ^D B2 _B |"Gm6" AGED"A7" ^C _B2 A | %18
+w: night that left my heart ro- man- tic|scars; * We|stood so near to heav- en that|I reached clear to heav- en and|
+"D7b5" ^GGGG"G7" A"G+7" A2 A |"C""Dm7""G7" A8 |"C" GECA,"Gdim" _B, A2 _A | %21
+w: gath- ered you A Hand- ful Of|Stars.|Sweet re- mem- bered hour * when|
+"G7" GFDB,"Cdim" C B2 _B |"C" AGED"C7" Ccc^c |"F" d4-"Fm6" d e3 |"C" dcGE"B7" ^D B2 _B | %25
+w: love be- gan to flow- er, With|moon- light thru' the trees like sil- ver|bars * And|as the moon grew old- er I|
+"Gm6" AGED"A7" ^C _B2 A |"D7b5" ^GGGG"G7" A"G+7" A2 A |"C" c4- cedc |"Em" BBAG BBAG | %29
+w: reached a- cross your shoul- der, And|gath- ered you A Hand- Ful Of|Stars. * I placed my|fin- ger- tips up- on your lips and|
+"F9" B>B (3ABA- A4 |"Em7" BBAG BBAG |"A7" B8 |"G" ddcB"Ddim" ddcB |"Am7" d>d (3cd"D7"c- c4 | %34
+w: srars fell in your eyes, *|Moon- glow made a ha- lo of your|hair;|Sud- den- ly you looked at me and|dreams be- gan to rise, *|
+"G7" B>B"Dm7" (3ABA- A"G7" G3 |"Dm7" F>F"G6" (3EFE-"G9" E3 D |"C" GECA,"Gdim" _B, A2 _A | %37
+w: Oh! what things un- spok- * en|trem- bled in the air, * Our|hearts were mad- ly beat- ing and|
+"G7" GFDB,"Cdim" C B2 _B |"C" AGED"C7" Ccc^c |"F" d4-"Fm6" d e3 |"C" dcGE"B7" ^D B2 _B | %41
+w: then our lips were meet- ing and|Ve- nus seemed to melt right in- to|Mars, * Then|while we stood ca- ress- inr blue|
+"Gm6" AGED"A7" ^C _B2 A |"D7b5" ^GGGG"G7" A"G+7" A2 A |1"C""D7" c4"Dm7""G7b9" z4 :|2"C" c8 |] %45
+w: heav- en sent a bless- ing A|show- er of A Hand- ful Of|Stars.|Stars.|
+

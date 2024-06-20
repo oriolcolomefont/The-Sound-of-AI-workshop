@@ -1,0 +1,49 @@
+X:1
+T:We Shall Behold Him
+T:We Shall Behold Him
+T:Dottie Rambo, 1980
+C:Dottie Rambo
+Z:All Rights Reserved
+L:1/4
+Q:1/4=70
+M:3/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI channel 5
+%%MIDI program 54
+V:1
+ z3 | z3 | z3 | z3 | z3 | z2 z/ E/ |"Fmaj7/G" E C A |"C" G3- | G z3/2 G/ |"F/A" A"G" B"G/F" d | %10
+w: |||||the|sky shall un|fold|_ pre|par ing His|
+"C/E" c G2- |"G7/D" G2 z/ G/ |"C" G E"G/B" G |"Am" A2- A/B/ |"Am7" c2- c/c/ |"D9" c B c | %16
+w: en trance|_ the|stars shall ap|plaud _ _|Him _ with|thun ders of|
+"Dm7" d3- |"G7" d z/ C/ C |"Fmaj7/G" E C A |"C" G3 |"G/B" G2- G/G/ |"F/A" A"G" B3/2"G/F" d/ | %22
+w: praise|_ the sweet|light in His|eyes|shall _ en|hance those a|
+"C/E" c"G7/D" G2- |"C" G2 G |"F#dim7" c c3/2 A/ |"C/G" G3 |"Am" E/4D/4C/- C2 |"F/G" A G3/2 C/ | %28
+w: wait ing|_ and|we shall be|hold|Him _ _ _|then face to|
+"F/C" C3- |"C" C2 z |"Fmaj7/G" E D/C/ A |"C" G3 |"Em7" G3 |"F" A"G/F" B d/c/ |"C/E" c3 | %35
+w: face|_|we shall _ be|hold|Him|we shall be _|hold|
+"G7/D" G3- |"C" G3 |"F" c2 A |"Em7" G2 G |"Fmaj9" G F"Fmaj7b5" E |"Dm7/G" E/F/ D2- |"G" D2 z | %42
+w: Him|_|face to|face in|all of His|glo _ ry|_|
+"Fmaj7/G" D D/C/ A |"C" G3 |"Em7" G3 |"F" A"G/F" B d/c/ |"C/E" c3 |"G7/D" G3- |"C" G3 | %49
+w: we shal _ be|hold|Him|we shall be _|hold|Him|_|
+"F#dim7" c2 A |"C/G" G3- |"Am7" G2 C |"Dm7" F"G" E3/2 D/ |"F/C" C3- |"C" C3 |"Dm7" z2 z/ C/ | %56
+w: face to|face|_ our|Sav ior and|Lord|_|the|
+"Fmaj7/G" E C A |"C" G3- | G z3/2 G/ |"F/A" A"G" B"G/F" d |"C/E" c G2- |"G7/D" G2 z/ G/ | %62
+w: an gel shall|sound|_ the|shout of His|com ming|_ the|
+"C" G E"G/B" G |"Am" A2- A/B/ |"Am7" c2- c/c/ |"D9" c B c |"Dm7" d3- |"G7" d z/ C/ C | %68
+w: saints shall come|down _ with|_ _ their|Sav ior and|King|_ _ and|
+"Fmaj7/G" E C A |"C" G3 |"G/B" G2- G/G/ |"F/A" A"G" B3/2"G/F" d/ |"C/E" c"G7/D" G2- |"C" G2 G | %74
+w: those who re|main|shall _ be|changed in a|mo ment|_ and|
+"F#dim7" c c3/2 A/ |"C/G" G3 |"Am" E/4D/4C/- C2 |"F/G" A G3/2 C/ |"F/C" C3- |"C" C2 z | %80
+w: we shall be|hold|_ _ Him _|then face to|face|_|
+"Fmaj7/G" E D/C/ A |"C" G3 |"Em7" G3 |"F" A"G/F" B d/c/ |"C/E" c3 |"G7/D" G3- |"C" G3 |"F" c2 A | %88
+w: we shall _ be|hold|Him|we shall be _|hold|Him|_|face to|
+"Em7" G2 G |"Fmaj9" G F"Fmaj7b5" E |"Dm7/G" E/F/ D2- |"G" D2 z |"Fmaj7/G" D D/C/ A |"C" G3 | %94
+w: face in|all of His|glo _ ry|_|we shal _ be|hold|
+"Em7" G3 |"F" A"G/F" B d/c/ |"C/E" c3 |"G7/D" G3- |"C" G3 |"F#dim7" c2 A |"C/G" G3 | c3- | c z c | %103
+w: Him|we shall be _|hold|Him|_|face to|face|_|* our|
+ d c B | c3- | c3- | c2 z | c2 A | G3 | c3- | c z c | f e f | g3- | g3- | g3 | !fermata!z3 | z3 | %117
+w: Sav iour and|Lord|_||face to|face|_|* our|Sav iour and|Lord|_||||
+ z3 | z3 |] %119
+w: ||
+

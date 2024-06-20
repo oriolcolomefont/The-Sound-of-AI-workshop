@@ -1,0 +1,17 @@
+X:1
+T:Il pleut, il pleut, Bergère
+C:Victor Simon
+Z:Public Domain
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+ B |"G" d2 B | d2 B | (G3 |"G" D3) | G F G |"D" A2 A |"G" B3- | B3 |"G" B A B |"D" c2 c |"G" (d3 | %12
+w: Il|pleut, il|pleut, ber-|gè-|re,|Ren- tre tes|blancs mou-|tons~!|_|Al- lons sous|ma chau-|miè-|
+ B3) |"G" d e d |"C" c2 B |"G" (B3 |"D" A3) | A B A | c2 c |"G" (B3 | d3) |"C" c d c | B2 G | %23
+w: re,|Ber- gè- re,|vite al-|lons~!|_|J'en- tends sous|le feuil-|la-|ge|L'eau qui tombe|à grand|
+"D" (B3 | A2) B |"G" d2 B | d2 B |"C" (c3 | e3) |"D" d e d | A2 B |"G" G3- | G2 |] %33
+w: bruit.|_ Voi-|ci ve-|nir l'o-|ra-|ge,|Voi- ci l'é-|clair qui|luit.|_|
+

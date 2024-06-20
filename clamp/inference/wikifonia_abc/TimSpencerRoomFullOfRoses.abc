@@ -1,0 +1,24 @@
+X:1
+T:Room full  of Roses
+T:Room full of Roses
+T:Tim Spencer
+T:Foxtrot or Country
+C:Tim Spencer
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"F" A ^G A _B | A F C3/2 C/ | c B c d | c F A2 | C2 F A | d2 c A |"Gm" _B2"C7" c2- | c4 | %8
+w: If I sent a|rose to you for|ev'- ry time you|made me blue|Youd have a|room full of|ros- es||
+ G ^F G A | G E C3/2 C/ | G ^F G A | c _B G2 | C2 E G | d2 c B |"F" c2 A2- | A3 F |"Bb" D D ^C D | %17
+w: If I sent a|rose of white for|ev- 'ry time I|cried all night|You'd have a|room full of|ros- es|* and|if you took the|
+ c _B2 _B/c/ |"F" _B A A ^G | A3 A/^A/ |"G7" B A G _G | F D2 D/D/ |"C7" E E"G7" F ^F |"C7" G4 | %24
+w: pet- als and you|tore them all a-|part you'd be|tear- ing at the|ros- es just the|way you tore my|heart.|
+"F" A ^G A _B | A F C3/2 C/ | c B c d | c F A2 | (3C/E/C/ F A z | d2 c A |"Gm" _B2"C7" c2- | %31
+w: If some- day you're|feel- ing blue and|you could send some|ros- es too|well I dont want a|room full of|ros- es|
+ c2 z2 |"Gm" G A c _B |"F" A2"C7" C G |"F" F4- |"Bb" F3"F" z |] %36
+w: |I just want my|arms full of|you.||
+

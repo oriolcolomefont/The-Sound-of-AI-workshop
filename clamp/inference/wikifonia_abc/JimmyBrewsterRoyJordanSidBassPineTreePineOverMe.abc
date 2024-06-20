@@ -1,0 +1,34 @@
+X:1
+T:Pine Tree, Pine Over Me
+T:Pine tree, pine over me
+T:Roy Jordan, Sid Bass, Jimmy Brewster
+C:Jimmy Brewster, Roy Jordan, Sid Bass
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A3 | F3 | A B A | F3 | A B A |"C7" c2 B |"Gm7" G3- |"C7" G3 | G3 | E3 | G A G | E2"Gm7" D | %12
+w: Pine|tree|pine o- ver|me|now that my|love is|gone||pine|tree|you seem to|be the|
+w: ||||||||||||
+"C7" C E G |"Gm7" B A"C7" G |"F" F3 | C"Gm7" F G |:"F" A3 | A3- | A2 A |"F7" A G F |"Bb" B,2 z | %21
+w: on- ly one|pin- ing for|me|tell black- eyed|Su-|sans|* I've|tears in my|eyes|
+w: |||(call from your)|tree|top|* your|tree top so|high|
+ D3 | G3 |"C7" C E"Gm7" F |"C7" G3- |"Gm7" G3 |"C7" G2 B | B A ^G |"F" A3 |"Gm7" F2 D |"F" C3 | %31
+w: ||tell all the|moun-|tains|* to|ech- o my|sighs|||
+w: ||talk to my|dar-|lin|* tell|her how I|cry|||
+"Gm7" C F"C7" G |"F" A3- | A3- | A2 A |"F7" A G F |"Bb" B,3 | D3 | G2 C |"C7" C E"Gm7" F |"C7" G3 | %41
+w: please tell my|dar-|lin|* how|my poor heart|yearns||* and|that I'll be|lone|
+w: say that I|pray||that she'll|come back some|day||* and|that I still|love|
+ G3- |"C7" G2 B | B A G |"F" F3- |"Bb" F3- |"F" F3- |"Gm7" F2 z |"F" A3 | F3 | A B A | F3 | A B A | %53
+w: ly|* un-|til she re-|turns||||Pine|tree|pine o- ver|me|now that my|
+w: her|* while|she's far a-|way.-|||||||||
+"C7" c2 B |"Gm7" G3- |"C7" G3 | G3 | E3 | G A G | E2 D |"C7" C E G |"Gm7" B A"C7" G |"F" F3 | %63
+w: love is|gone||pine|tree|you seem to|be the|on- ly one|pin- ing for|me|
+w: ||||||||||
+ C F"C7" G :|"F" F3- |"Bb" F3- |"F" F3- | F2 z | z3 |] %69
+w: Call from your|me|||||
+w: ||||||
+

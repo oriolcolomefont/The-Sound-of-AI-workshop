@@ -1,0 +1,28 @@
+X:1
+T:When The Swallows Come Back To Capistrano
+T:When The Swallows Come Back To Capistrano 
+T:Leon Rene
+T:Leon Rene
+C:Leon Rene
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Gb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ Bc |:"Gb" d2 B4 G2 |"Gb7" =e4- e=e_ed |"Cb" d2 c6 |"Cbm" z4 z2 dc |"Gb" B4- BDGB | %6
+w: WHEN THE|SWAL- LOWS COME|BACK * TO CA- PIS|TRAN- O|that's the|day * you prom- ised|
+ d4-"Eb7" d=cde |"Ab" A8 |"Db7" z4 z2 Bc |"Gb" d2 B4 G2 |"Gb7" =e4- e=e_ed |"Cb" d2 c6 | %12
+w: to * come back to|me.|When you|whis- pered fare-|well * in Ca- pis|tran- o|
+"Cbm" z4 z2 dc |"Gb" B4- BDGB |"Ab7" A4-"Db7" ADFA |"Gb""Cb" G8 |"Gb" z4 z2 cd |"Cb" ec G4 e2 | %18
+w: 'twas the|day * the Swal- lows|flew * out to the|sea|All the|mis- sion bells will|
+"Gb" d8 |"Db7" z BcB cc d2 |"Gb" B8 |"Bb7" z GA=G A2 B2 |"Ebm" G6 A2 |"Ab7" B2 BB B2 G2 | %24
+w: ring|the cha- pel cho- ir will|sing,|the hap- pi ness you|bring will|live in my mem- or-|
+"Db7" A6 Bc |"Gb" d2 B4 G2 |"Gb7" =e4- e=e_ed |"Cb" d2 c6 |"Cbm" z4 z2 dc |"Gb" B4- BDGB | %30
+w: y WHEN THE|SWAL- LOWS COME|BACK * TO CA- PIS-|TRAN- O|that's the|day * I pray that|
+"Ab7" A4-"Db7" ADFA |1"Gb""Gdim" G8 ||"Abm" z4"Db7" z2 Bc :|2"Gb" G8 |] %34
+w: you'll * come back to|me|WHEN THE|me|
+

@@ -1,0 +1,33 @@
+X:1
+T:Johnny Guitar (Vocal)
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Solo Guitar" snm="Solo Guitar"
+%%MIDI program 26
+V:1
+"Emin" B2"Amin" e4"G " d2 |"Emin" B2"Amin" e4"G " d2 |"Emin" B8 | z4 z2 EF/G/ | B6 (3ABc | %5
+w: |||Play the gui-|tar; play it a\-|
+"Amin" d6 z c |"Emin" c<B- B6 | z4 z2 EF/G/ | B6 (3ABc |"Amin" e6 z c |"Emin" B8 | z8 | %12
+w: gain, my|John- ny. *|May- be your|cold but you're so|warm in-|side.||
+"Amin7" g4 z g (3gfe | g6"Bmin" fe |"Emin" g2 B6 | z4 z2"Bmin7" gf |"Amin7" g6 fe- | %17
+w: I was al- ways a|fool for my|John- ny;|for the|one they call|
+ e4"B7" f2- fe/^d/ |"Emin" e6 z2 |"D " z4 z2 (3ded |"C " c6 (3cdc |"B7" B8 | z4 z2 EF/G/ | %23
+w: * John- * ny Gu-|tar.|Play it a\-|gain, John- ny Gui-|tar.|What if you|
+"Emin" B6 (3ABc |"Amin" d6 z c |"Emin" c<B- B6 | z4 z2 EF/G/ | B6 (3ABc |"Amin" e6 z c |"Emin" B8 | %30
+w: go; what if you|stay; I|love you. *|What if you're|cruel, you can be|kind I|know.|
+ z8 |"Amin7" g4 z g (3gfe | g6"Bmin" fe |"Emin" g2 B6 | z4 z2"Bmin7" gf |"Amin7" g6 fe- | %36
+w: |There was ne- ver a|man like my|John- ny;|like the|one they call|
+ e4"B7" f2- fe/^d/ |"Emin" e6 z2 |"B7" z4 z E FG |"Emin" B4 z2 (3ABc |"Amin" d4 z2 c2 | %41
+w: * John- * ny Gu-|tar.||||
+"C " c2"Emin" B6 | z4 z E FG |"Cmaj7" B4 z2 (3ABc |"Amin" e4 z2"Esus47" d2 |"Emin" B4 z4 | z8 | %47
+w: ||||||
+"Amin7" g4 z g (3gfe | g6"Bmin" fe |"Emin" g2 B6 | z4 z2"Bmin7" gf |"Amin7" g6 fe- | %52
+w: There was ne- ver a|man like my|John- ny;|like the|one they call|
+ e4"B7" f2- fe/^d/ |"Emin""B " e6 z2 |"Emin" z4 z2"Amin" (3dcA |"Bmin" B8 |"B7" z4 AB- BA | %57
+w: * John- * ny Gu-|tar.|Play it a\-|gain,|John- ny * Gui-|
+"Emin" B8 | EF GA Bg- g2 |"E dim7" e4 z4 |] %60
+w: tar.|||
+

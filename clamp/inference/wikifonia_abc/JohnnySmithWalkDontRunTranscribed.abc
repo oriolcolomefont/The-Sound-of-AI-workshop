@@ -1,0 +1,28 @@
+X:1
+T:Walk Don't Run (Transcribed)
+C:Johnny Smith
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="GUIT LEAD" snm="GUIT LEAD"
+%%MIDI channel 2
+%%MIDI program 27
+V:1
+"Amin" AA A z"G " GG G z |"F " FF"E " FE- E z z2 |"Amin" AA A z"G " GG G z | %3
+"F " FF"E " FE- E z z2 |"Amin" AA, B,"G " C2 D EF- |"F " FG Ac-"E " c2 B2 | %6
+"Amin" AA, B,"G " C2 D EF- |"F " FG AG- G2 F2 |"C " E^D EE- E4- |"G7" ED EF E2 D2 | %10
+"C " C2 (3DED C D2 E | z"E " ^G GG GG B,A, |"Amin" AA, B,"G " C2 D EF- |"F " FG Ac-"E " c2 B2 | %14
+"Amin" AA, B,"G " C2 D EF- |"F " FG AG- G2 F2 |"C " E^D EE- E4- |"G7" ED EF E2 D2 | %18
+"C " C2 (3DED"F " C D2 C- |"C " CG, A,B, CD EF | G3 G- G4 | z G z G GG GG |"Amin" EA z E A4 | %23
+ A3 A- A3 z |"F " cA F c2 A F2 |"E " B^G E B2 G E2 |"Amin" A8 | E2 D2 C2 B,2 | %28
+"Amin" AA, B,"G " C2 D EF- |"F " FG Ac-"F " c2 B2 |"Amin" AA, B,"G " C2 D EF- |"F " FG AG- G2 F2 | %32
+"C " E^D EE- E4- |"G7" ED EF E2 D2 |"C " C2 (3DED C D2 E | z"E " ^G GG GG B,A, | %36
+"Amin" AA, B,"G " C2 D EF- |"F " FG Ac-"E " c2 B2 |"Amin" AA, B,"G " C2 D EF- |"F " FG AG- G2 F2 | %40
+"C " E^D EE- E4- |"G7" ED EF E2 D2 |"C " C2 (3DED"F " C D2 C- |"C " CG, A,B, CD EF | G3 G- G4 | %45
+ z G z G GG GG |"Amin" EA z E A4 | A3 A- A3 z |"F " cA F c2 A F2 |"E " B^G E B2 G E2 |"Amin" c8 | %51
+ E2 D2 C2 B,2 |"Amin" AA, B,"G " C2 D EF- |"F " FG Ac-"E " c2 B2 |"Amin" AA, B,"G " C2 D EF- | %55
+"F " FG AG- G2 F2 |"C " E^D EE- E4- |"G7" ED EF E2 D2 |"C " C2 (3DED C D2 E | z"E " ^G GG GG B,A, | %60
+"Amin" AA, B,"G " C2 D EF- |"F " FG Ac-"E " c2 B2 |"Amin" AA, B,"G " C2 D EF- |"F " FG AG- G2 F2 | %64
+"C " E^D EE- E4 |"G7" z D EF E2 D2 |"C " C2 C2"F " F2 F2 | z"C " c2 B c4 |] %68
+

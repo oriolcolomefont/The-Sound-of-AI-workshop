@@ -1,0 +1,30 @@
+X:1
+T:Mexico En La Piel
+T:Mexico En La Piel
+T:Luis Miguel
+T:Copyright © 1984 - 2012 Spanish Institute of Merida A.C.
+T:Luis Miguel
+C:Luis Miguel
+Z:All Rights Reserved
+L:1/8
+Q:1/4=150
+M:3/4
+K:none
+V:1 treble transpose=-2 nm="Trumpet in Bb" snm="Bb Tpt."
+%%MIDI program 56
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+[K:G] z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 |!f! ge g e2 g | e4- e z | fd f d2 f | d4- d z | %12
+ ee z d d z | cc z d d z | g6- | g6- | g6- | g6 || z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %27
+ z6 | z6 | z6 | z6 | z6 | ff z f f z |[I:repeat 1 1] z6 || z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %42
+ z6 | z6 | z6 | z6 | z6 | z6 | ff z f f z |[I:repeat 1 1] z6 || z6 || z6 || z6 || z6 || z6 || z6 || %56
+ z6 || z6 || z6 || z6 || z6 || z6 || z6 || z6 || z6 | z6 | z6 | z6 | z6 | z6 | z4 ff | f3 d df | %72
+ e6- | e2 z4 | z4 ee | e3 ^c cB | G6- | G2 z4 || z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | %88
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | ff z f f z |[I:repeat 1 1] z6 || z6 | z6 | z6 | %103
+ z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | B2 d2 g2 | ^gg z g g z | %117
+[I:repeat 1 1] z6 ||[K:F] a z z4 || z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 ee | %129
+ e e3 ^cA- | A6 || z6 | z6 | z6 | a z4 z | z6 || z6 || z6 || z6 || z6 || z6 || z6 || z6 || z6 || %144
+ z4 ee | e e3 ^cA- | A6 | z6 || z6 || z6 || z6 || z6 || z6 || z6 ||!p!!<(! A6 | =B6 | e6!<)! | %157
+!mf! f6 | z6 | z6 | z6 | z6 | z6 | z6 |"_cresc." f6 | g6 | a6 |!ff! z a a^g ba- | a4- a!>!a |] %169
+

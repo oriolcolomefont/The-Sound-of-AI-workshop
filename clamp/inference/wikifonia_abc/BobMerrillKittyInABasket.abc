@@ -1,0 +1,34 @@
+X:1
+T:Kitty In A Basket
+T:Kitty in a basket
+T:Bob Merrill
+C:Bob Merrill
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2"^Chorus:" DF |:"F" A_A=AA AAAA | AAAA AAFF |"Bb" BBBB BBBB | B2"F" A2"F7" z4 | %5
+w: If there's|some- one in the ci- ty does- nt|want a lit- tle kit- ty tell them|put the lit- tle kit- ty in a|bas- ket|
+w: |||||
+"Bb" BBBB BB B2 |"F" A2"Cm7" A2"D7" A2 A^A |"G7" =B_BBB BA G2 |"C" c2"F" c2"C7" c2 z2 | %9
+w: leave the lit- tle bas- ket out-|side our door and we'll|love the lit- tle kit- ty for|ev- er more|
+w: ||||
+"F" AAAA AAAA | AAAA AFFF |"Bb" BBBB BBBB | B2"F" A2 z2"F7" F2 |"Bb" BBBB D2 B2 | %14
+w: wrap the kit- ty warm you nev- er|know a- bout a storm and we dont|want a lit- tle kit- ty with the|sneez- es we'll|hug her and we'll squeeze her|
+w: sav- ing up a dol- lar and we're|gon- na buy a col- lar saw it|in the five and ten- ny when we|passed it dont|want a lit- tle tis- ket|
+"F" A^G"Cm"A=G"D7" ^F2 A2 |"G7" G^FG=F"C" G^FGA | G2"F" F2 z2 C2 ||"F" C2 A2 A2 B2 | %18
+w: nev- er nev- er tease her|want a lit- tle kit- ty in a|bas- ket dont|mat ter bout the|
+w: or a lit- tle tas- ket|just a lit- tle kit- ty in a|bas- ket *||
+ A2 F2 E2"F7" _E2 |"Bb" D4 B4- |"Gm" B6 C2 |"C7" C2 G2 G2 F2 | E2 B2 A2 G2 |"F" F8- | F6 C2 | %25
+w: col- or of her|nos- ie|* dont|care if shes a|fel- ler or a|girl|* dont|
+w: |||||||
+"F" C2 A2 A2 B2 | A2 F2 E2"F7" _E2 |"Bb" D4 B4- | B4"C7" C2 E2 | GGGG G2 GF | EEEE F2 G2 |"F" F8- | %32
+w: have to be as|pret- ty as a|po- sie|* and we|pro- mise not to laugh if she|on- ly has a half a|tail|
+w: |||||||
+"^to Chorus" F6 CF |] %33
+w: * if there's|
+w: |
+

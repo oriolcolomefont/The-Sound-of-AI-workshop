@@ -1,0 +1,41 @@
+X:1
+T:Night Train
+T:Night Train
+C:Jimmy Forrest
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Bb" d6- dd- | d6 z B | d>cB>_A F>E_D>C- |"Bb13" C6 z2 |"Eb7" _d6- dd- | d6 z B | %6
+w: Night _ train|_ that|took my ba- by so far a- way,|_|Night _ train|_ that|
+w: Night _ train|_ your|whis- tle tore my poo heart in two,|_|Night _ train|_ your|
+"Bb" d>cB>_A F>E_D>C- |"Bb13" C6 z2 |"F7" _d6- dd- |"Eb7" d6 z B |"Bb" d>cB>_A F>E_D>C- | %11
+w: took my ba- by so far a- way,|_|Tell _ her|_ I|love her more and more ev- ;ry day.|
+w: whis- tle tore my poor heart in two,|_|She's _ gone|_ and|I don't know what I'm gon- na do!|
+"Bb6" C6 z F |"Bb7" B>B_d>d B>BG>F |"Eb7" B>B_d>d B>BG>F |"Bb6" BB z2 B,2 z2 | %15
+w: _ My|moth- er said I'd lose her if I|ev- er did a- buse her, should have|list- ened. *|
+w: _||||
+"Bb13" B,2 z B,- B,3 F |"Eb7" B>B_d>d B>BG>F | B>Bd>d B>BG>F |"Bb6" BB z2 B,2 z2 | %19
+w: * * * My|moth- er said I'd lose her, if I|ev- er did a- buse her, should have|list- ened. *|
+w: ||||
+ B,2 z B,- B,3 F |"Eb7" B>B_d>d B>BG>F | B>B_d>d B>BG>F |"Bb6" BB z2 B,2 z2 | B,2 z B,- B,3 G | %24
+w: * * * Now|I have learned my les- son my sweet|ba- by was a bless- in', should have|list- ened. *|* * * It's|
+w: |||||
+"Bb" F6 GB |"Ebm" fe- e2- edBF |"Bb7" _A4- AGFE | D6 F^F |"Eb" G6 Bd |"Eb7" gf- f2- f_dBF | %30
+w: blue Mon- day|morn- ing _ _ she left me|last _ Sat- ur- day|night Ev- 'ry|time I hear|trains blow _ _ I get the|
+w: ||||||
+"Bb7" B4- B_AFE | D4"F13" z2 z2!D.C.! |"Bb" d6- dd- | d6 z B | d>cB>_A F>E_D>C- |"Bb13" C6 z2 | %36
+w: blues, _ can't sleep at|night.|Night _ train|_ please|bring my ba- by back home to me,|_|
+w: ||||||
+"Eb7" _d6- dd- | d6 z B |"Bb" d>cB>_A F>E_D>C- |"Bb13" C6 z2 |"F7" _d6- dd- |"Eb7" d6 z B | %42
+w: Night _ train|_ Please|bring my ba- by back home to me.|_|She's _ gone|_ the|
+w: ||||||
+"Bb" _d>cB>_A F>E_D>C- |"Bb6" C6 z z!fine! |] %44
+w: blues she's left just won't set me free.|_|
+w: ||
+

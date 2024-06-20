@@ -1,0 +1,67 @@
+X:1
+T:l'horloge tourne
+T:l'horloge tourne
+T:Music & lyrics by Mickael Miro
+T:Arr. : Frederic Arnold
+T:l'horloge tourne
+T:2
+C:Mickael Miro
+Z:All Rights Reserved
+L:1/8
+Q:1/4=116
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 54
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^Pop""^Intro""Cm" C2 [CEG]>[DF]"Ab" [A,CE]2 [A,CE]>A, | %1
+w: |
+w: |
+"Bb" B,2 [B,DF]>[B,DF]"Cm" [CEG]>[CEG] [CEG]>[CEG] | C2 [CEG]>[DF]"Ab" [A,CE]2 [A,CE]>A, | %3
+w: ||
+w: ||
+"Bb" B,2 [B,DF]>[B,DF]"Cm" [CEG]>[CEG] [CEG]>C |:"Cm""^Verse" (3CCC- C>C"Ab" (3EEE- E2 | %5
+w: * * * * * * Un|s m s _ vient d'ar ri ver _|
+w: |S M S _ vient d'ar ri ver, _|
+"Bb" (3D-DB, (3C-CC-"Cm" C2 z3/2 C/ | (3CCC- CC"Ab" (3GGG- G2 |"Bb" B>B (3cBG-"Cm" G2 z2 | %8
+w: j'ai _ dix huit _ ans _ En|vo le ma _ vir gi ni te, _|j'suis plus un en fant _|
+w: j'ai _ _ 20 _ ans _ On|la fait sans _ se pro te ger, _|j'veux pas d'un en fant _|
+ F>G- G>A-"Ab" A2 z3/2 B,/ |"Bb" B<B B>A"Cm" G>C- C>C | F>G- G>A-"Ab" A>E- E>e | %11
+w: L'hor loge _ tourne _ les|mi nut' sont tor ri des _ Et|moi je _ re _ ve _ d'ac|
+w: L'hor loge _ tour ne, les|mi nutes in fan ticides _ _ Et|moi je _ re _ ve _ de|
+"Bb" d/d/d- d>c"Cm" c4 ||"Cm""^Chorus" e2 e2"Ab" dB- B2 |"Bb" F2 BG-"Cm" G4 | e2 e2"Ab" dB- B2 | %15
+w: ce le rer _ le temps|Dam dam de o _|oh oh oh _|Dam dam de o _|
+w: re _ mon ter le temps||||
+"Bb" fedc-"Cm" c2- c>C :|"Cm" (3CCC- C>C"Ab" (3EEE- E2 |"Bb" DGGG"Cm" C2 z2 | %18
+w: oh oh oh oh _ _ Un|s m s _ vient d'ar ri ver _|j'ai vingt et un ans|
+w: |||
+ C>C- CC/C/"Ab" E/E/E- E>B |"Bb" d/d/d- d>c G4 |"_Stoooooooooop" x8 | %21
+w: neuf mois _ se sont e cou les _ et|tou jours pas _ d'en fant||
+w: |||
+"_ffffffffffffffffffffou" x8"_drums" |"Cm" F>G- G>A-"Ab" A2 z3/2 B,/ |"Bb" B<B B>A"Cm" G>C- C>C | %24
+w: |L'hor loge _ tourne _ les|mi nut' se de ri des _ Et|
+w: |||
+ F>G- G>A-"Ab" A>E- E>e |"Bb" d/d/d- d>c"Cm" c4 ||"^Chorus" e2 e2"Ab" dB- B2 |"Bb" F2 BG-"Cm" G4 | %28
+w: moi je _ re _ ve _ tran|quille je prends _ mon temps|Dam dam de o _|oh oh oh _|
+w: ||||
+ e2 e2"Ab" dB- B2 |"Bb" fedc-"Cm" c2- c>C |"^Verse" (3CCC- C>C"Ab" (3EEE- E2 | %31
+w: Dam dam de o _|oh oh oh oh _ _ Un|s m s _ vient d'ar ri ver _|
+w: |||
+"Bb" (3D-DB,"Cm" (3C-CC- C2 z3/2 C/ | (3CCC- CC"Ab" (3GGG- G2 |"Bb" B>B (3cBG-"Cm" G2 z2 | %34
+w: j'ai _ vingt cinq _ ans _ le|tsu na mi _ a tout em por te|meme les jeux d'en fants _|
+w: |||
+ F>G- G>A-"Ab" A2 z3/2 B,/ |"Bb" B<B B>A"Cm" G>C- C>C | F>G- G>A-"Ab" A>E- E>e | %37
+w: L'hor loge _ tourne _ les|mi nut' sont a ci des _ Et|moi je _ re _ ve _ que|
+w: |||
+"Bb" d/d/d- d>c"Cm" c4 || %38
+w: passe le mau _ vais temps|
+w: |
+"Cm""^Chorus" e2 e2"Ab" dB-"_Un SMS vient d'arriver, j'ai 25 ans\nLe tsunami a tout emporte, meme les jeux d'enfants\nL'horloge tourne, les minutes sont acides\nEt moi je reve que passe le mauvais temps\n\nRefrain\n\nUn SMS vient d'arriver, j'ai 28 ans\nMamie est bien fatiguee, j'suis plus un enfant\nL'horloge tourne, mais son coeur se suicide\nEt moi je reve je reve du bon vieux temps\n\nRefrain x2\n\nUn SMS va arriver, j'aurai 30 ans\n30 ans de liberte, et soudain le bilan\nL'horloge tourne, les minutes sont des rides\nEt moi je reve je reve d'arreter le temps\n\nRefrain x4\n" B2 | %39
+w: Dam dam de o _|
+w: |
+"Bb" F2 BG-"Cm" G4 | e2 e2"Ab" dB- B2 |"Bb" fedc-"Cm" c2- c>C |] %42
+w: oh oh oh _|Dam dam de o _|oh oh oh oh _ _ Un|
+w: |||
+

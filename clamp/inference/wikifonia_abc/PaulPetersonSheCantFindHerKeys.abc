@@ -1,0 +1,39 @@
+X:1
+T:She Can't Find Her Keys
+T:She Can't Find Her Keys
+T:Paul Peterson
+C:Paul Peterson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G7" G2 G-G/G/ FE D2 | G2 G-G/G/ FE D2 | G2 G-G/G/ FE D2 |"C" C2 G,2 A,2 B,2 | %4
+w: ||||
+w: ||||
+"C" E2 (ED) C2- CC |"G7" DCDF B,2 z2 | G2 GF D2- DG |"C" AGAG E2 z2 |"F" A2 (AF) C2- CA | %9
+w: When~ I~ * take~ * my~|ba- by home~ at night~|I~ can't~ * wait~ * to~|kiss~ and~ hold~ her~ tight~|But~ 'bout~ * then~ * the~|
+w: I give * up, * go|home and go to sleep,|But next night my * *|date with her I keep.|Walk her * home, * we|
+"C" G-G/G/GA (E C2) C |"D7" D2 D2 DE^FD |"G7" G4 z2 GG |"^spoken" GGGG G2- GG | G2 GG G2- GG | %14
+w: time~ * be- gins~ to~ drag~ * When~|she~ starts~ search- ing~ through~ her~|bag~ She~ says~|just~ a~ mo- ment please~ * I~|can't~ find~ my~ keys~ * And~|
+w: start * to kiss and then * It|all starts hap- pen- ing a-|gain. * *|||
+ G2 G2 FFFF | FEF^F G4 | z2 G,2 A,2 C2 | E2 G2 C2 E2 | G,G,CC EE G2 | z2 EF G2 FE | F D2 A A2 z2 | %21
+w: here's~ what~ hap- pens~ while~ I'm~|wait- ing~ for~ a~ squeeze.~|She~ pulls~ out~|Lip- stick,~ pow- der,~|bub- ble~ gum~ and~ bob- by~ pins~|But~ she~ can't~ find~ her~|keys~ * (her~ keys)~|
+w: |||Gum- drops, glass- es,|mag- a- zines and tan- ga- renes.|||
+ D2 F2 B,2 D2 | G,2 B,B, DD F2 | z2 FG A2 GF | G E2 c c2 z2 | G2 G2 (ED)CC | GGGG EDCC | %27
+w: Cur- lers,~ tweez- ers,~|cold~ creme~ and~ can- dy~ bars~|But~ she~ can't~ find~ her~|keys~ * (her~ keys)~|Nail~ file,~ school~ * books,~ an~|aut- o graph~ of~ Fa- bi- an~ *|
+w: Pres- ley re- cords,|hair- spray and jel- ly beans|||Eye- brow pen- * cil, *|per- fume and po- ta- to chips and|
+ FF E2 F2 ^F2 | G6 GF | EEGG CC_B,B, | A, F2 D3 z F | G2 G2 FE D2 |1 C6 z2 :|2 C2 G,2 A,2 B,2 || %34
+w: She~ * can~ find~ with~|ease, But~ I'm~|stand- ing~ here~ a~ wait- ing~ for~ a~|good- night~ kiss, 'Cause~|she~ can't~ find~ * her~|keys.|keys. She~ pulls~ out~|
+w: por- ta- ble bat- ter-|ies, * *||||||
+ GGGG FE D2 | GGGG FE D2 | GGGG FE D2 | GGGG FE D2 | GGGG F2 FF | GGGG F2 F2 | GGGG F2 FF | %41
+w: Fro- zen~ cus- tard,~ pia- no~ bench,~|pret- zels~ and~ a~ mon- key~ wrench~|Ten- nis~ rack- et,~ ar- my~ cots,~|pump- kin~ seeds~ and~ cof- fee~ pots~|Wa- ter me- lons,~ goal~- post,~ a~|rab- bits~ foot~ and~ French~ toast~|Fi- re~ hy- drant,~ trash~ can,~ a~|
+w: |||||||
+ GGGG FFFF | G2 z2 ^G2 z2 | A2 z2 B2 z2 | c8 | %45
+w: T~ V~ set,~ e- lect- ric~ fan~ BUT~|SHE~ CAN'T~|FIND~ HER~|KEYS|
+w: ||||
+

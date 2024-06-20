@@ -1,0 +1,23 @@
+X:1
+T:Bouquet of Roses
+T:Boquet of Roses
+T:Steve Nelson and Bob Hilliard
+C:Steve Nelson, Bob Hilliard
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 z"^N.C." G |"C" c G ^F G |"G7" B A F D |"C" A G3- | G2 E A |"G7" G3 ^F | F D B, A |"C" G4- | %8
+w: I'm|send- ing you a|big bou- quet of|ros- es|* one for|ev- ry|time you broke my|heart|
+"G7" G3 G |"C" c G ^F G |"G7" B A F D |"C" A G3- | G2 E A |"G7" G3 ^F | F D B, D |"C" C4- | %16
+w: * and|as the door of|love be- tween us|clos- es|* tears will|fall like|pet- als when we|part.|
+ C2 z C |"F" F3/2 C/ F G | A c2 B/A/ |"C" G G2 ^F/A/ | G3 G |"D7" A3/2 ^G/ A ^F | E D2 ^F/^F/ | %23
+w: * I|begged you to be|diff- rent but you'll|al- ways be un-|true I'm|tir- ed of for-|giv- ing now there's|
+"G7" G3/2 ^F/ G A | B2 z B/B/ |"C" c G ^F G |"G7" B A F D |"C" A G3- | G2 G A |"G7" G3 ^F | %30
+w: noth- ing left to|do so I'm|send- ing you a|big bou- quet of|ros- es|* one for|ev- ry|
+ F B, E D |"C" C4- | C3 z |] %33
+w: time you broke my|heart.||
+

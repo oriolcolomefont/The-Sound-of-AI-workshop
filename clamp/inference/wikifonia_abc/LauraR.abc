@@ -1,0 +1,25 @@
+X:1
+T:Little Sir Echo
+T:Little Sir Echo
+T:Original: Laura R.Smith and J.S. Fearis :  Revised: Adele Girrard and Joe Marsala
+C:Laura R.Smith, J.S.Fearis, Adele Girard, Joe Marsala
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+ z z d |"Dm" A3- |"G7" A2 B |"C" G3- | G3 |"Dm" A A A |"G7" A G3/2 ^F/ |"C" A G2- | G2 d | %9
+w: Some-|times|_ I|hear|_|your voice so|ver- y dis-|tinct- ly|_ some-|
+"Dm" A3- |"G7" A2 B |"C" G3- | G2 A |"B7" B B B | ^F F F |"Em" B3- |"B7" B2-"G7" B |:"C" c c c | %18
+w: times|_ so|far|_ it|fades then is|gone like the|dawn,|_ _|Lit- tle sir|
+ c B A | G2 c | E2 A |"G7" G3- | G2 A |"C" G3- |"G7" G3 |"C" c c c | c B A | G2 c | E2"C" A | %29
+w: ech- o how|do you|do Hel-|lo|_ hel-|lo|_|lit- tle sir|ech- o I'm|ver- y|blue Hel-|
+"G7" G3- | G2 G |"C" c3- | c2 d |"F" A3- | A2 c |"C" G3- | G3 |"D7" A A A | A B c |"G7" d3- | %40
+w: lo|_ hel-|lo|_ hel-|lo|_ hel-|lo|_|won't you come|ov- er and|play|
+ d2 G/G/ |"C" c c c | c B A |"C" G c"Gm" E |"A7" G2 ^F/G/ |"D7" A B c |"G7" d2 G |1"C" c3- | %48
+w: _ you"re a|nice lit- tle|fel- low I|know by your|voice, but you're|al- ways so|far a-|way|
+ c2"G7" z :|2"C" c2 G | c2 z |] %51
+w: _|way a-|way.|
+

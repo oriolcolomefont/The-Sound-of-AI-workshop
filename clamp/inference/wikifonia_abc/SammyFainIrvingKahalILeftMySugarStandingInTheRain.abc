@@ -1,0 +1,24 @@
+X:1
+T:I Left My Sugar Standing In The Rain
+T:I Left My Sugar Standing In The Rain
+C:Sammy Fain
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"F7" z2 z F |:"Cm7" G2 e2"D7" ^F2 d2 |"Dm7b5" D=F"G7"Ad"Cm7" c4 |"Dm7b5" DEFA"G7" GDEC- | %4
+w: I|left my Sug- ar|stand- ing in the rain,|and my Sug- ar melt- ed a- way.|
+"Cm7""Dm7b5" C4 z2"G7" EF ||"Cm7" G2 e2"D7" ^F2 d2 |"Dm7b5" D=F"G7"Ad"Cm7" c4 | %7
+w: _ Sweet- er|than the sug- ar|from the sug- ar cane;|
+"Dm7b5" DEFA"G7" GDEC- |"Cm7""Dm7b5" C4 z2 ^G2 ||"F7" =Acdc edcA |"C7" c c2 G- G4 | %11
+w: did- n't mean to treat her that way.|_ I|guess my sweet- ie thought I was a|low down kind. _|
+"Am7b5" =Acdc"D7" edcA |"G7" =B B2 G- G2 EF ||"Cm7" G2 e2"D7" ^F2 d2 |"Dm7b5" D=F"G7"Ad"Cm7" c4 |1 %15
+w: did- n't re- a- lize that she was|so re- fined. _ Oh, I|left my Sug- ar|stand- ing in the rain|
+"Dm7b5" DEFA"G7" Gc=Bc- |"Cm7" c4"F7" z2 z F :|2"Dm7b5" DEFA"G7" Gc=Bc- |"Cm7" c4 z4 |] %19
+w: and my Sug- ar melt- ed a- way.|_ I|and my Sug- ar melt- ed a- way.|_|
+

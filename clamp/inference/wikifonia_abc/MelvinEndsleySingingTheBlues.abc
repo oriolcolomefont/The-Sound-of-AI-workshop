@@ -1,0 +1,25 @@
+X:1
+T:Singing The Blues
+T:Singing the blues
+T:Melvin Endsley
+C:Melvin Endsley
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+ z4 z2 cc |"F" cc c2 c2 c2 |"Bb" dddd- d3 d |"F" cccc- c3 A |"C7" BB=Bc- c2 A2 |"Bb" F4 D4 | %6
+w: Well I|nev- er felt more like|sing- ing the blues _ cause|I nev- er thought _ that|I'd ev- er lose _ your|love dear|
+"C7" z c2 c BE G2 |"F" F8- |"Bb" F6"C7" cc |"F" cc c2 c2 c2 |"Bb" dddd- d3 d |"F" cccc- c3 A | %12
+w: Why'd you do me this|way?|_ Well I|nev- er felt more like|cry- ing all night _ cause|ev- ry- things wrong _ and|
+"C7" BB=Bc- c2 A2 |"Bb" F4 D4 |"C7" z c=Bc _BE G2 |"F" F8- |"F7" F2 z4 c2 |"Bb" d2 d2 e2 d2 | %18
+w: noth- ing is right _ with-|out you|You got me sing- ing the|blues|_ The|moon and stars no|
+"F" c2 c2 A3 c |"Bb" d2 d2 e2 d2 |"F" c2 c2 A3 c |"Bb" d2 d2 e2 d2 |"F" c2 c2 A3 ^G | %23
+w: long- er shine the|dream is gone I|thought was mine there's|noth- ing left for|me to do but|
+ A f2 c cf c2 | A2 FG-"C7" G2 cc |"F" cc c2 c2 c2 |"Bb" dddd- d3 d |"F" cccc- c3 A | %28
+w: cry _ _ _ _ _|o- ver you _ well, I|nev- er felt more like|run- ning a- way _ but|why should I go _ cause|
+"C7" BB=Bc- c2 A2 |"Bb" (F4 D4) |"C7" z c=Bc _BE G2 |1"F" F8- |"Bb" F6 c"C7"c :|2"F" F8- | F6 z2 |] %35
+w: I could- n't stay with- out|you _|You got me sing- ing the|blues.|_ Well I|blues.|_|
+

@@ -1,0 +1,28 @@
+X:1
+T:My Heart Tells Me
+T:My Heart Tells Me
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"C" E2"Em" E2 |"C" E E"Gdim" E E |"Dm" E2 D F- |"Dm7" F4 |"G7" F2"Bbm" F2 |"Dm7" F F"G7" F F | %6
+w: My heart|tells me this is|just a fling,|_|yet you|say our love means|
+"F" F2"C" E G- |"G7" G4 |"C" G2 e2 |"C+" e e d c |"F" d4 |"G7" G4 |"Am" E2 c2 | c c"D9" B ^F | %14
+w: ev- 'ry- thing.|_|Do you|mean what you are|say-|ing,|or is|this a lit- tle|
+"Dm7" A3 D |"Fm" _A2"G7" G2 |"C" E2"Em" E2 |"C" E E"Gdim" E E |"Dm" E2 D F- |"Dm7" F4 | %20
+w: game you're|play- ing?|My heart|tells me I will|cry a- gain,|_|
+"G7" F2"Bbm" F2 |"Dm7" F F"G7" F F |"F" F2"C" E G- |"G7" G4 |"C" G2 e2 |"C+" e e d c | %26
+w: Lips that|kiss like yours could|lie a- gain.|_|If I'm|fool e- nough to|
+"Am" E2"Am7" c2 |"D9""Cdim" B3 A |"C" G2"Cm""Cdim" G2 |"Dm7" G A"G7" E F |"Gm" G4- |"A7" G2 z A | %32
+w: see this|thru, Will|I be|sor- ry if I|do,|_ Should|
+"D9" e2 e2 |"Dm7" e"G7" d"Dm7" c"Ddim" B |1"C" c4- |"Dm7""G7" c4 :|2"C""Cdim" c4- |"Dm7""G7" c4- | %38
+w: I be-|lieve my heart or|you?|_|you?|_|
+"C" c4 |] %39
+w: |
+

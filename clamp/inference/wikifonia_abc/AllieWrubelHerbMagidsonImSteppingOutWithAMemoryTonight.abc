@@ -1,0 +1,28 @@
+X:1
+T:I'm Stepping Out With A Memory Tonight
+T:I'm Stepping Out With A Memory Tonight
+T:Allie Wrubel
+T:Herb Magidson
+C:Allie Wrubel
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" D2 E/ F G/- |"Em" G3 A/B/ |"Am7" c ^D E d |"D7" B3 A |"G" d B d3/2 B/ | A G"G+" B3/2 G/ | %6
+w: I'm Step- ping out|* With a|mem- o- ry to-|night, to|paint the town the|way we used to|
+"C" E4- |"Bm7""E7" E4 |"Am" z ^D (3E G E |"Am7" B B"D7" B3/2 F/ |"Gmaj7" A A"B7" A B |"Em" G4 | %12
+w: do,||I'll dine at the|old ca- fe, where|we had so much|fun,|
+"B" z F F F |"C#m7" (3^G =F ^F"F#7" ^c3/2 F/ |"Bm" (3B B B"E7" (3d B d |"Am7""D7" A4 | %16
+w: and or- der|cock- tails for two in-|stead of the us- u- al|one.|
+"G" D2 E/ F G/- |"Em" G3 A/B/ |"Am7" c ^D E d |"D7" B3 A |"G" d B d3/2 B/ |"Dm7" A G"G+" B/ G3/2 | %22
+w: Then af- ter dark|* in a|han- som thru' the|park, while|rem- i- nis- cing|I'll be kiss- ing|
+"C" A4- | A2 (3^G A B |"Am" c c (3c ^D E |"F7" d c2 A |"Gmaj7" B B2 F |"Em7""A7" A3 E | %28
+w: you.|* A lot of|folks may think that I'm|cra- zy, well,|may- be they're|right, but,|
+"Am7" G G/G/ G ^D/E/ |"D7" B A G A |"G""Eb7" G4- |"G" G3 z |] %32
+w: I'm step- ping out with a|mem- o- ry to-|night.-||
+

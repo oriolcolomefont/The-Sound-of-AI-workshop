@@ -1,0 +1,47 @@
+X:1
+T:Get a Life
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=150
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"_Intro""F" c B A2"^Get a Life" |"Dm" A G F2"^Lyric and Music by Les Kettley" |"Gm7" G F D B, | %3
+w: |||
+w: |||
+w: |||
+"_Verses""C7" C4 | A"F" c c d | c c A A | A/B/ c c d | c"Gm7" B3 | G"C7" B B c | B B G G | %10
+w: |There must be some-|thing more to life|_ than work- ing nine|to five,|or mak- ing widg-|ets by the score,|
+w: |||||||
+w: |The day I saw|you at your job,|was the day I fell|for you,|your eyes told me|you feel the same,|
+ G/A/"Gm" B f"C7" e | d"F" c3 | A c c d |"_Chorus" c"F7" c A A | c f f g | a"Bb" g3 | %16
+w: for a boss who ex-|pects more,|just look a- round|you can you see,|some- one who's real-|ly happy,|
+w: ||||||
+w: it is too good to|be true,|you are as bore|with you- r job,|as I am bored|with mine,|
+ d"Gm7" f f e |"_Chorus" d"F" c A A | c/d/"Gm7" c B"C7" A | G"F" F3 | ^F"A7" G ^G2- | G z z2 |: %22
+w: don't end up like|them do your thing,|get a life and have|a fling.|_ _ _||
+w: ||||||
+w: we must es- cape|from bore- dom now,|get a new life just|in time.|_ _ _||
+[K:D]"D" A/G/ F"D7" A/G/ F |"G" B/A/G/F/"Em" G2 |"A7" G/F/E/F/ G A |"D" F4 |"D" A/G/ F"D7" A/G/ F | %27
+w: Get a life, get a life,|get a bet- ter life,|get a bet- ter life with|me,|get a life, get a life,|
+w: |||||
+w: |||||
+"G" G/A/B/c/"Em" d"^*" B |"A7" A/A/G/G/ F"^1" G |1"D" A4 :|2"^2" E"D" D3 ||"Gm" c _B G A | %32
+w: get a bet- ter life, we'll|get a bet- ter life you'll|see.|you'll see.|_ _ _ _|
+w: |||||
+w: |||||
+ _B d2 =f/g/ |"Gm7" a g =f"_© Les Kettley\n" d |1[K:F]"C7""^to verse" c4 ||2 %35
+w: |||
+w: |||
+w: |||
+"^final chorus from""A7" A/A/"Gdim"B/B/"Em""^*" =B"A7" ^c ||"D" d3 z |] %37
+w: get a bet- ter life you'll|see.|
+w: ||
+w: ||
+

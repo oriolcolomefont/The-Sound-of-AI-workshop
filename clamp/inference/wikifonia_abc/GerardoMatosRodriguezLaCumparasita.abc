@@ -1,0 +1,16 @@
+X:1
+T:La Cumparasita
+T:La Cumparsita
+C:Gerardo Matos Rodríguez
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:none
+V:1 treble 
+%%MIDI program 40
+V:1
+"E" E d B ^G | E/E/F/E/ ^D E |"Am" E e c A | E/E/F/E/ ^D E |"E" E d B ^G | E/E/F/E/ ^D E | %6
+"Am" E e c A | E/E/F/E/ ^D E |"Dm" D A ^G A | A/A/B/A/ B A |"Am" E A ^G A | A/A/B/A/ B A | %12
+"E" E d B ^G | E/E/F/E/ ^D E |"Am" A3/2 f/ e/d/c/B/ |"Am""E" A"E""Am" E"Am" A z | z4 | z4 | z4 | %19
+ z4 | z4 | z4 | z4 | z4 |] %24
+

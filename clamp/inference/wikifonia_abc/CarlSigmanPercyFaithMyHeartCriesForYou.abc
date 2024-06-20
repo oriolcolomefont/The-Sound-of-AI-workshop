@@ -1,0 +1,29 @@
+X:1
+T:My Heart Cries For You
+T:My heart cries for you
+T:unknown
+C:Carl Sigman, Percy Faith
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E |"C" G3/2 A/ G/E/ | C E c |"G7" B2 d | F2 D | F3/2 G/ F/D/ | B, D d |"C" c2 e | G2 E | %9
+w: If|you're in A- ri-|zon- a I'll|fol- low|you if|you're in min- e|so- ta I'll|be there|too You'll|
+w: |||||||||
+w: the|bloom has left the|ro- ses since|you left|me the|birds have left my|win- dow since|you left|me I'm|
+ G3/2 A/ G/E/ | C E e |"F" d2 c | A2 A |"C" c3/2 c/ B/A/ |"G7" G E D |"C" C3- | C3 | e3 | e3 | %19
+w: have a mi- lion|chan- ces to|start a-|new be-|cause my love is|end- less for|you||My|heart|
+w: ||||||||||
+w: lone- ly as a|sail- boat thats|lost at|sea I'm|lone- ly as a|hu- man can|be.||||
+"Dm" e2 d |"G7" d3 |"Dm" e2 d |"G7" d3 |"C" d2 c | c2 G | e3 | e3 |"Dm" e2 d |"G7" d3 |"Dm" e2 d | %30
+w: cries for|you|sighs for|you|dies for|you, and|my|arms|long for|you|please come|
+w: |||||||||||
+w: |||||||||||
+"G7" G2 d |"C" c3- | c3 | z3 |] %34
+w: back to|me.|||
+w: ||||
+w: ||||
+

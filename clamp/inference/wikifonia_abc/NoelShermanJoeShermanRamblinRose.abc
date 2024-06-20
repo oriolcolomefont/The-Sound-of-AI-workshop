@@ -1,0 +1,21 @@
+X:1
+T:Ramblin' Rose
+T:Ramblin' Rose
+T:Noel Sherman and Joe Sherman
+C:Noel Sherman, Joe Sherman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ G2 c2 |"G7" B4- | B2 F A |"C" G4- | G2 G e |"D7" d2 d2- | d2 c A |"G7" d4- | d2"C7" e d | %9
+w: Ramb- lin'|rose|* ramb- lin'|rose|* why you|ram- ble|* no- one|knows|* wild and|
+"F" c2 A2- | A2 A c |"C" G2 E2- | E2 E G |"Dm" F2 D2- |"G7" D D C B, |"C" C4- | C z"^N.C." G c | %17
+w: wind- blown|* thats how|you've grown|* who can|cling to|* a ramb- lin'|rose?|* ram- blin'|
+"G7" B4- | B2 F A |"C" G4- | G2 G e |"D7" d2 d2- | d2 c A |"G7" d4- | d2"C7" e d |"F" c2 A2- | %26
+w: rose|* ramb lin'|rose|* why I|want you|* heav- en|knows|* tho' I|love you|
+ A2 A c |"C" G2 E2- | E2 E G |"Dm" F2 D2- |"G7" D d c B |"C" c4- | c z z2 |] %33
+w: * with a|love true,|* who can|cling to|* a ramb- ling|rose?.||
+

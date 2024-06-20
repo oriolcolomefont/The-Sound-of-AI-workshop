@@ -1,0 +1,33 @@
+X:1
+T:It's A Pity To Say Goodnight
+T:It's A Pity To Say Goodnight
+T:Billy Reid
+C:Billy Reid
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ F>=E |:"Cm7" E>G B2 d2 d2 |"F7" d4- d>cA>F |"Bb" D>F A2 c2 c2 |"C7" c4- c>G^F>G | %5
+w: It's A|Pi- ty To Say Good-|night * be- cause I|nev- er saw stars so|bright, * but if you|
+w: |pi- ty to say fare-|well, * be- cause the|man in the moon won't|tell, * but if you|
+"Cm7" BGBG- G>GB>G |1 B G3 B>G"F+" A2 ||"Bb" G4"F+7" G4 |"Bb""Bdim" G6 F>=E :|2"Cm7" B G3 B>G B2 || %10
+w: got- ta go home, * you got- ta|go home, give me a|good- night|kiss. It's a|go home, give me a|
+w: got- ta go home, * you got- ta|||||
+"Ebmaj7" d4"F7" d4 |"Bb" B6 z2 |"Bb7" z c2 B _A2 F2 |"Fm7" C2 ^CD-"Bb7" D2 c2 |"Eb" B6 G2 | %15
+w: good- night|kiss.|How's a- bout to-|mor- row night, * just|you and|
+w: |||||
+"Eb7""D7""Db7" B8 |"C7" z d2 c B2 G2 |"Gm7" D2 E=E-"C7" E2 d2 |"F" z c2 A"Bb" B2 G2 | %19
+w: me,|I'll be wait- ing|for you, Dar- * ling,|un- der- neath the|
+w: ||||
+"F7" A F2 G- G2"Bdim" F>=E |"Cm7" E>G B2 d2 d2 |"F7" d4- d>cA>F |"Bb" D>F A2 c2 c2 | %23
+w: wil- low tree. * It's a|pi- ty to say good-|night, * be- cause I|want you to hold me|
+w: ||||
+"C7" c4- c>G^F>G |"Cm7" BGBG- G>GB>G | B G3 B>G B2 |"Ebmaj7" d4"F7" d4 |"Bb" B6 z2 |] %28
+w: tight, * but if you|got- ta go home, * you got- ta|go home, give me a|good- night|kiss.|
+w: |||||
+

@@ -1,0 +1,35 @@
+X:1
+T:Bewitched
+T:Bewitched
+T:Richard Rodgers
+T:Lorenz  Hart
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ G2 |:"C" EB c4 E2 |"Dm7" FB c4 F2 |"C/E" GB c2"E+" ^GB c2 |"F6" AB c4 B2 |"C/E" c4"Ebdim7" BAG^F | %6
+w: I'm|wild a- gain be-|guiled a- gain A|sim- per- ing whim- per- ing|child a- gain, Be-|witched, both- ered and be-|
+w: ||||||
+"Dm7" G2"G7" D4"A7b9" E2 |"Dm" F8- |"G7" F8 |"C" EB c4 E2 |"Dm7" FB c4 F2 |"C/E" GB c2"E+" ^GB c2 | %12
+w: wild- ered am|I||Could- n't sleep, and|would- n't sleep when|love came and told me I|
+w: ||||||
+"F6" AB c4"Fdim" B2 |"C/E" c4"Ebdim7" BAG^F |"Dm7" G2"G7" D4"C7" E2 |"Fm7" A8- |"A7" A8 | %17
+w: should- n't sleep Be-|witched both- ered and be-|wild- ered am|I||
+w: |||||
+"Dm" BA F4 BA | F2 F6 |"Am" BA E4 BA | E8 |"Dm7" cB"G13" G4 cB |"Dm7" G2 G2"G13" AB c2 | %23
+w: Lost my heart, but what|of it?|he is cold I a-|gree|He can laugh but I|love it, Al- though the|
+w: ||||||
+"Em7" d4"Ab7/Eb" c4 |"Dm7" F6"G7" G2 |"C" EB c4 E2 |"^Dm 7" FB c4 F2 |"C/E" GB c2"E+" ^GB c2 | %28
+w: laughs on|me. I'll|sing to him, Each|spring to him, And|long for the day when I'll|
+w: |||||
+"F6" AB c4 B2 |"C/E" c4"Ebdim7" BAG^F |"G7" G2 d4 G2 |1"C" c8 |"Dm7""G7" z2 z2 z2 G2 :|2 %33
+w: cling to him, Be-|witched both- ered and be-|wild- ered am|I.|I'm|
+w: * * * dim7|||||
+"C""Dm7" c8- |"C" c6 z2 |] %35
+w: I||
+w: ||
+

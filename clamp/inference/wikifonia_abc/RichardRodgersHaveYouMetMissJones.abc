@@ -1,0 +1,21 @@
+X:1
+T:Have You Met Miss Jones?
+T:Have You Met Miss Jones?
+T:Richard Rodgers
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:4/4
+K:F
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+|:"F" A D"Bb7" C D |"Am7" C2-"D7b9" C2 |"Gm7" D E F G |"C7" A B c2 |"Am7" d G F G |"Dm7" F3 A |1 %6
+"Abm7" B2-"Db7" B2- |"Gm7" B3"C7" z :|2"Cm7" c4 ||"F7" z d d d |"Bb" c B"A7" F G | %11
+"Abm7" _A A"Db7" A A |"Gb" _A _G"F7" _D _E |"Em7" E E"A7" E E |"D" E D ^F A |"Abm7" _d2"Db7" d2 | %16
+"Gb" B4- |"Gm7" B3"C7" z |"F" A D"Bb7" C D |"Am7" C2-"D7b9" C2 |"Gm7" D E F G | %21
+"Bm7b5" A B"Bb7" c d |"Am7" e2-"D7" e2- |"Gm7" e d"C7" A A |"F" F4 |"Gm7" z2"C7" z2 |] %26
+

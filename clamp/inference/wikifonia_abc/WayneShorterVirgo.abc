@@ -1,0 +1,22 @@
+X:1
+T:Virgo
+C:Wayne Shorter
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"^(ballad)""Fmaj7" z c'3 f3 g |"Bbm7" _a ^c3-"Eb7" c2 _e=e- |"Dm7b5" e2- (3e_Ac"Bb7#11" e g3 | %3
+"Amaj7" e8 |"Am7" z e3 A3 B |"Fm7" c F3-"Bb7" F2 GA- |"Em7b5" A2- (3Adf"Eb7#11" a c'3 |"Dmaj7" a8 | %8
+"Dm7" z a3 a2- (3agf |"Cm7" g c'3-"F7" c'2- (3c'_ba |"Eb7" g _e'3-"D7" e'2 ^fd'- | %11
+"Gm7" d'4"Ab7" _b4 |"Dbmaj7" f6 (3f_g_a |"Dm7" a d'3"G7" b2 gc'- |"Gm7" c'6- (3c'd'c' | %15
+"C#m7" b3 ^g"F#7" ^c'3 ^a ||"Fmaj7" z c'3 f3 g |"Bbm7" _a ^c3-"Eb7" c2 _e=e- | %18
+"Dm7b5" e2- (3e_Ac"Bb7#11" e g3 |"Amaj7" e8 |"Am7" z e3 A3 B |"Fm7" c F3-"Bb7" F2 GA- | %22
+"Em7b5" A2- (3Adf"Eb7#11" a c'3 |"Dm7" aA- (3Ade"Db7#5" a c'3 |"Cm7" aA- (3Adf"F7" a c'3 | %25
+"Bbmaj7" a8"^To Coda" |"E7#5" z c'- (3c'af"A7#5" gf^ce- |"Dm7" e8 | %28
+"Gm7" d4"C7" z4"^D.C. al Coda" |]"E7#5" z c' (3c'af"A7#5" !fermata!g4 | %30
+"Am7/D" (3ede- !fermata!e6 |] %31
+

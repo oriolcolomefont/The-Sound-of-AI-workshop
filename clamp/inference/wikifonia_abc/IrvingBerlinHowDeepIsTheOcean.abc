@@ -1,0 +1,26 @@
+X:1
+T:How Deep Is The Ocean
+T:How Deep Is The Ocean
+C:Irving Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Cm" z E (3E D E |"G+/B" G G3 |"Cm7/Bb" z E (3E D E |"Am7b5" G4 |"Gm" z B (3B =A B | %5
+w: How much do I|love you?|I'll tell you no|lie,|how deep is the|
+"D7/A" c"D7" c3 |"Gm" z B (3B =A B |"Bb9" c4 |"Eb" z e e e |"Eb7" e/ B B/- B B |"Ab9" B _G G G- | %11
+w: o- cean|how high is the|sky?|How man- y|times a day * do|I think of you?|
+ G4 |"F7b9" _G E E E- | E D2 E |"Bb+7" _G"Bb7" F F F- | F2"G7/B" z2 |"Cm" z E (3E D E | %17
+w: |How man- y ros-|* es are|sprink- led with dew?||How far would I|
+"^G +/B" G G3 |"Cm7/Bb" z E (3E D E |"Am7b5" G4 |"Gm" z B (3B =A B |"D7" c c3 |"Gm" z B (3B =A B | %23
+w: trav- el-|to be where you|are?|How far is the|jour- ney|from here to a|
+"Bb9" c4 |"Eb" z e e"Eb7" _d |"C7b9" _d c c B |"Fm" z A (3A G F |"Fm7b5" A4 |"Eb/Bb" z G (3G F E | %29
+w: star|And if I|ev- er lost you,|how much would I|cry?|How deep is th|
+"F9" G G3 |"Bb7" z F (3F E D |1"Eb" E2"G+7""G7" z2 :|2"Eb" E3 z |] %33
+w: o- cean?|How high is the|sky?|sky?|
+

@@ -1,0 +1,69 @@
+X:1
+T:A passing glance
+T:2
+C:Les Kettley
+Z:All Rights Reserved
+L:1/4
+Q:1/4=140
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 53
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"_Verses""^Intro""C" c B B A |"Am" A c e g |"^A passing glance""Dm" f d f"G9" a | %3
+w: |||
+w: |||
+w: |||
+w: |||
+w: |||
+"^Lyric and Music by Les Kettley""G7" g4 |"C" c B B A |"Am" A E c B |"Dm" B2 A2- | A c"G+" B A | %8
+w: |When she looked at|you the way I|still do,|_ I knew I'd|
+w: |||||
+w: |She can not love|you as much as|I do,|_ she is just|
+w: |||||
+w: |You're a- lone a-|gain now she has|left you,|_ will you come|
+"C9" A2"C" G2- | G2"Am" A G |"Dm" G F F E |"G7" F G A c |"G+" B A"C9" G2- | G4 | z G"E7" ^G E | %15
+w: lost you,|_ end- ing|years of happ- i-|ness with you it|can't be true,|_|how can a|
+w: |||||||
+w: using you,|_ her love|will not last, and|when it ends Ill|wel- come you,|_|you know I|
+w: |||||||
+w: back to|me, I'll for-|get the past if|you will too, just|let it be,|_|I know where|
+ ^G B e2- | e2"Am" c2 | d2"A7" e2"_© Les Kettley\n" | f e"D7" c2- |1,2 c"F" e"G9" e"G7" B- || %20
+w: pas- ing glance|_ be|the start|of our lives|_ just fall- ing|
+w: |||||
+w: will love you-|for ev-|er more,|on- ly you-|_ I'll ev- er|
+w: |||||
+w: I went wrong|_ can|we try|once a- gain,|_ _ _ _|
+ B d"C" c2- | c4 |"_Chorus""C" E G B"Dm" e | d d c"Bb" c | _B B F"C9" G- | %25
+w: _ a- part.|_||||
+w: |||||
+w: _ a- dore.|_||||
+w: |||||
+w: |||||
+"^A passing glance""C7" G3 z"^to chorus" |[K:F] z4 |"""F" e"G9" f2"G7" a || =b"C" c'3- | %29
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+w: ||don't let our|love die.|
+"^Fine\n" c'4 |: c/"F"c/ A A2 | c/"Am"c/ A A2 | c/"F7"c/ A A A/B/ | c/"Bb" B3/2- B2 | %34
+w: |||||
+w: |||||
+w: |A pass- ing glance|a pass- ing glance|a pass- ing glance was just|the start, _|
+w: |||||
+w: _|||||
+ B/"Bbm"B/ G G2 | B/"F"A/ F"Dm" F3/2 F/ |"Bb" A A"C7" G/"_© Les Kettley\nLes Kettley" G3/2 | %37
+w: |||
+w: |||
+w: a pass- ing glance,|a pass- ing glance, and|our lives fell a-|
+w: |||
+w: |||
+"F" F3 z :|"Bb" A A"Bbm" A _A |"G7" G4 |] %40
+w: |||
+w: |||
+w: part.|||
+w: |||
+w: |||
+

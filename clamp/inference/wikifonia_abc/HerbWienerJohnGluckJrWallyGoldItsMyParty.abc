@@ -1,0 +1,25 @@
+X:1
+T:It's My Party
+T:It's my party
+T:Herb Wiener,Wally Gold,John Gluck,Jnr.,
+C:Herb Wiener, John Gluck Jr, Wally Gold
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+|:"C" GGGG- G2 EG |"Eb" _BG_E_B,- B,3 G |"C" G G2 G- GE G2 |"F" A8 |"Ab" z2 _A2 A2 _B2 | %5
+w: No- bo- dy knows * where my|John- ny has gone * but|Ju- dy left * the same|time|why was he|
+w: Play all my rec- * ords keep|danc ing all night * but|leave me a- lone for a|while|Til John- ny's|
+w: Ju- dy and John- * ny just|walked thru the door * *|like a * queen with her|king|Oh what a|
+"C" cGEC- C3 C |"D7" D2 Dc- cB A2 |"G7" G3 A z4 ||"C" c2 dd- dccc | ccdd- d c3 |"F" ccdd- d c3 | %11
+w: hold- ing her hand * when|he's sup- posed * to be|mine? *|It's my par- * ty and I'll|cry if I want * to|Cry if I want * to|
+w: danc- ing with me * I've|got no rea- * son to|smile. *||||
+w: birth- day sur- prise * *|Ju- dy's wear- * ing his|ring *||||
+"Fm" ccdd- d c3 |"C" z2 c2 G2 E2 |"G7" A2 GG BB d2 |"C" c8 |12"G7" z8 :|3"C" z8 :| %17
+w: Cry if I want * to|You would cry|too if it hap- pened to|you.|||
+w: ||||||
+w: ||||||
+

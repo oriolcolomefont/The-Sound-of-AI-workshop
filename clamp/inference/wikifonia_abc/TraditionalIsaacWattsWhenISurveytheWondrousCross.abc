@@ -1,0 +1,33 @@
+X:1
+T:When I Survey the Wondrous Cross
+T:When I Survey the Wondrous Cross
+T:Traditional
+T:Isaac Watts
+T:Public Domain
+C:Traditional
+Z:Public Domain
+L:1/4
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^80" F2 F"C" G |"F" A2"Bb" (G"Am" A) |"Gm" B2"C" (A G) |"F" A4 | A2 A A |"Bb" B2"F" (A"Em" G) | %6
+w: 1.~When I sur-|vey the *|won- drous *|cross|On which the|Prince of *|
+w: 2.~For- bid it,|Lord, that *|I should *|boast,|Save in the|death of *|
+w: 3.~See, from His|head, His *|hands, His *|feet,|Sor- row and|love flow *|
+w: 4.~Were the whole|realm of *|na- ture *|mine,|that were a|pres- ent *|
+"F" F2"C7" (E"F" F) |"C" G4 |"F" F2 F"C" G |"F" A2"Gm" (G A) | B2"F" (A"C" G) |"F" A4 |"F" A2 A A | %13
+w: Glo- ry *|died,|My rich- est|gain I *|count but *|loss,|And pour con-|
+w: Christ, my *|God.|All the vain|things that *|charm me *|most,|I sac- ri-|
+w: min- gled *|down.|Did e'er such|love and *|sor- row *|meet,|Or thorns com-|
+w: far too *|small.|Love, so a-|maz- ing, *|so di- *|vine,|De- mands my|
+"C" G2"Dm" F2 |"Gm7" G2"C" (A"C7" G) |"F" F4 |] %16
+w: tempt on|all my *|pride.|
+w: fice them|to His *|blood.|
+w: pose so|rich a *|crown?|
+w: soul, my|life, my *|all.|
+

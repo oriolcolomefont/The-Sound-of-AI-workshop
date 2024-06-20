@@ -1,0 +1,28 @@
+X:1
+T:C-H-R-I-S-T-M-A-S
+T:C-H-R-I-S-T-M-A-S
+C:Eddy Arnold
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+ z2 z E |"Cmaj7" G G E G |"Gm7" c"C7" c3 |"Fmaj7" A A c A |"Cmaj7" G3 A |"Em7" B B"A7" B A | %6
+w: When|I was but a|young- ster,|Christ- mas meant one|thing: that|I'd be get- ting|
+"Dm7" F G"G7" B A |"Cmaj7" G4- |"C6" G2"C#dim7" z E |"Dm7" G G D E |"G7" F A2 A |"Cmaj7" G G C D | %12
+w: lots of toys that|day.|_ I|learned a whole lot|dif- f''rent when|moth- er sat me|
+"Am7" E3 E |"D7" D D D D | ^F G2 A |"G7sus4" G4- |"G7" G3 z |"Cmaj7" G G G F |"Gm7" F"C7" E3 | %19
+w: down and|taught me to spell|Christ- mas this|way:|_|"C" is for the|Christ child|
+"Fmaj7" c c c B |"F6" A4 |"Cmaj7" c G G G |"A7" A G G E |"Dm7" D4- |"G7" D4 |"Cmaj7" G G G F | %26
+w: born up- on this|day.|"H" for her- ald|an- gels in the|night.|_|"R" means our Re-|
+"Gm7" F"C7" E3 |"Fmaj7" c c c B |"Dm7" A4 |"G7" B A G _G | F B,"G7b9" E D |"C6""F6/C" C4- | %32
+w: deem- er.|"I" means Is- ra-|el|"S" is for the|star that shone so|bright.|
+"C6" C3 z |"G7" D ^C D E | F A3 |"Cmaj7" G G C D |"Am7" E4 |"D7" D D D D | c c B A |"G7sus4" G4- | %40
+w: |"T" is for three|wise- men,|they who trav- eled|far.|"M" is for the|man- ger where He|lay.|
+"G7" G3 z |"Cmaj7" G G G F |"Gm7" F"C7" E3 |"Fmaj7" c c c B |"Dm7" A3 A |"G7" B A G _G | %46
+w: _|"A"'s for all He|stands for.|"S" means shep- herds|came, and|that's why there's a|
+ F2"G7b9" B,2 |"C6""F6/C" C4- |"C6" C3 z |] %49
+w: Christ- mas|day||
+

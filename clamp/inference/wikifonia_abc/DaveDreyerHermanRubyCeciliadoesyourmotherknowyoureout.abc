@@ -1,0 +1,28 @@
+X:1
+T:Cecilia (does your mother know you're out)
+T:Cecilia (does your mother know you're out)
+T:Dave Dreyer
+T:Herman Ruby
+C:Dave Dreyer
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" G3 E A3 E | G3 E"C#dim" A3 E |"G7" G8 |"G9" A2 z2 z4 |"Dm7" A3 F"G7" B3 F | %5
+w: Does your Moth- er|know you're out Ce-|ci-|lia.|Does she know that|
+"Dm7" A3 F"G+" B3 G |"Em" B8 |"C" c2 z2 z4 |"Em" B4 d4 |"Ebdim" A4 c4 |"G7" G2 A2 ^A2 B2- | B8 | %12
+w: I'm a- bout to|steal|you.|Oh! my|when I|look in your eyes,||
+ B4 d4 | A4"G+" B4 |"C" E2"Dm7" F2"Ebdim" ^F2"Em" G2 |"F" A2"Em" G2"Ebdim" _G2"Dm7" F2 | %16
+w: Some- thing|tells me|you and I should|get to- geth- er.|
+"C" G3 E A3 E | G3 E"C#dim" A3 E |"G7" G8 |"G9" A2 z2 z4 |"Dm7" A3 F"G7" B3 F | %21
+w: How a- bout a|lit- tle kiss Ce-|ci-|lia|Just a kiss you'll|
+"Dm7" A3 F"G+" B3 G |"E7" B8 |"Am" c2 z2 z4 |"D7" e4 c4 |"B7" B4 A4 |"C" ^D2 E2 G2 B2 |"A7" A8 | %28
+w: nev- er miss Ce|ci-|lia.|Why do|we two|keep on wast- ing|time.|
+"G7" G3 D"Dm7" A3 D |"G7" G3 G"Dm7" A3 G |"C" c8- | c2 z2 z4 |] %32
+w: Oh! Ce- ci- lia|say that you'll be|mine.-||
+

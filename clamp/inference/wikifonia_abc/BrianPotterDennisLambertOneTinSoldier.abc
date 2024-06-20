@@ -1,0 +1,44 @@
+X:1
+T:One Tin Soldier
+T:One Tin Soldier
+C:Brian Potter
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"F" A2<c2c2A2"C" G2c2 c2<G2 |"Dm" F2A2 A2<F2 F2AA- A4 |"Bb" D2FF-F2(DC)"F" C2FF-F2C2 | %3
+w: Lis- ten chil- dren to a sto- ry|that was writ- ten long a- go _|bout a king- * dom _ on a moun- * tain|
+w: So the peo- ple of the val- ley|sent a mes- sage up the hill _|ask- ing for _ the _ bur- ried treas- * ure|
+w: Now the val- ley cried with an- ger,|mount your hor- ses, draw your sword, _|and they killed _ the _ moun- tain peo- * ple|
+"Gm7" D2FF- F2<A2 G2(GF) G4 |"F" A2cc-c2A2"C" G2cc- c2<G2 |"Dm" F2A2A2FF- F2AA- A4 | %6
+w: and the val- * ley folk be- * low.|On the moun- * tain was a trea- * sure|bur- ried deep be- neath _ a stone _|
+w: tons of gold _ for which they'd _ kill.|Came the an- * swer from * * * dom,|"With our broth- ers we _ will share _|
+w: so they won _ ther just re- * ward.|Now they stood _ be- side the trea- * sure|on the moun- tain, dark _ and red, _|
+"Bb" D2FF-F2D2"F" CF2F2-<F2C |[M:3/4]"Gm7" DF2F- F2A2 G2F2 |[M:4/4]"F""Bb""F" F16 || %9
+w: and the val- * ley peo- ple swore _ they'd|have it for _ their ver- y|own.|
+w: all the sec- * crets of our moun- * tain,|all the rich- * es bur- ried|there."|
+w: turned the stone _ and looked be- neath _ it,|"Peace on earth" _ was all it|said.|
+ fffgf2f2"Am" (edc2 c4) |"Bb" dcdc (dc)c"F"c- c8 | ffff f2<g2"Am" (edcc-) c4 | %12
+w: Go a- head and hate your neigh _ _ bor,|go a- head and cheat _ a friend. _|Do it in the name of heav- * * en. _|
+w: |||
+w: |||
+"Bb" dcdcd2cc-"F" c4 z3 c |"Bb" ffff f2<g2"Am" (edc2-) c4 |"Bb" d2dc-c2B2"F" c4 z2 FF | %15
+w: Jus- ti- fy it in the end. _ There|won't be an- y trum- pets blow- * in' _|come the judge- * ment day. On the|
+w: |||
+w: |||
+ A2<c2c2c2"Bb" d2 f6- | f8 z4 F2F2 |1[M:2/4]"Bb" (AG)F2 F2FF- ||[M:4/4]"F""Bb" F16 | %19
+w: blood- y morn- ing af- ter|_ one tin|sol- * dier rides a way.|_|
+w: ||||
+w: ||||
+"F" z8"Bb""F" z8 :|2[M:2/4]"Bb" (AG)F2 F2FF- ||[M:4/4]"F""Bb" F16 |"F""Bb" z8"F" z8 :|3 %23
+w: |sol- * dier rides a- way.|||
+w: ||||
+w: ||||
+[M:2/4]"Bb" (AG)F2 F2FF- ||[M:4/4]"F""Bb" F16- |"F""Bb""F" !fermata!F16 |] %26
+w: sol- * dier rides a- way.|||
+w: |||
+w: |||
+

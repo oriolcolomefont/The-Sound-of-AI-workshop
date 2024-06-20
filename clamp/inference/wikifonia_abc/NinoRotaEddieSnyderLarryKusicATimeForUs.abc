@@ -1,0 +1,24 @@
+X:1
+T:A Time For Us
+T: A Time For Us
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"Gm" z2 z G BA |:"Dm/F" D3 D FD |"Eb" G3 G FE |"Bb/D" F3 F ED |"Cm" C3 D/C/ B,C |"Gm" D3 G BA | %6
+w: A time for|us some- day there'll|be when chains are|torn by cour- age|born of the love that's|free. A time when|
+"Dm/F" D3 D FD |"Eb" G4- GG |"Cm" c6 |"Dm" A4- AD |"Gm" B3 A GF | BA G2"Dm" F2 |"Gm" G4- GB | %13
+w: dreams so long de-|nied _ can|flour-|ish _ as|we un- veil the|love we now must|hide. _ A|
+"Bb" d4- dB |"F" c4- cd |"Cm" e4- ec |"Gm" d4- dB |"Ab" c4- c_A |"Eb" B4- BG |"Dm" =A4- AF | %20
+w: time _ for|us _ at|last _ to|see _ a|life _ worth-|while _ for|you _ and|
+"Gm" G3 G BA |"Dm/F" D3 D FD |"Eb" G3 G FE |"Bb/D" F3 F ED |"Cm" C3 D/C/ B,C |"Gm" D3 G BA | %26
+w: me. And with our|love thru tears and|thorns we will en-|dure as we pass|sure- ly thru ev- 'ry|storm. A time for|
+"Dm/F" D3 D FD |"Eb" G4- GG |"Cm" c6 |"Dm" A4- AD |"Gm" B3 A GF | BA G2"Dm" F2 |1"Gm" G3 G BA :|2 %33
+w: us some- day there'll|be _ a|new|world, _ a|world of shin- ing|hope for you and|me. A time for|
+"Gm" G6 |] %34
+w: me.|
+

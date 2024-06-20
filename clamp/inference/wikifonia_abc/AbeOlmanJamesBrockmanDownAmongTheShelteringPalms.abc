@@ -1,0 +1,23 @@
+X:1
+T:Down Among The Sheltering Palms
+T:Down Among The Sheltering Palms
+T:In movie "Some Like It Hot"
+T:Abe Olman
+T:James Brockman
+C:Abe Olman
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"G" D4- DEFG | BFGB-"E7" BBdB |"A7" B2 ^DE- EBdB | B2 ^DE- E4 |"D7" F2 F2- FGAE | FADF- F4 | %6
+w: Down * A- mong The|Shel- ter- ing Palms, * oh, hon- ey,|wait for me, * oh, hon- ey,|wait for me, *|don't be * for- get- tin'|we've got a date *|
+"G" G2 G2- GABd |"A7" BEBA-"D7" A4 |"G7" d2 BG- G3 e |"C" dcdc d c3 |"E7" B2 ^GE- E3 c | %11
+w: out where * the sun goes|down a- bout eight. *|How my love * is|burn- ing, burn- ing, burn- ing,|how my heart * is|
+"Am7" BABA"D7" BAFE |"G" D4- DEFG | BFGB-"E7" BBdB |"A7" B4"D7" A4 |"G" G6 z2 |] %16
+w: yearn ing, yearn- ing, yearn- ing, to be|down * a- mong the|shel- ter- ing palms, * oh, hon- ey,|wait for|me.|
+

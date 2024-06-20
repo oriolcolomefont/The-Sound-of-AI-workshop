@@ -1,0 +1,49 @@
+X:1
+T:THe Roving Kind
+C:Jessie Cavanaugh, Arnold Stanton
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"^REFRAIN" x5 DEF |"G" G2 GE"Am7" G2 (G E) |"G" (G2 d2 B2) G^G |"A7" A2 A2 A3 G | %4
+w: She had a|dark and a ron- ing _|eye, _ _ and her|hair hung down in|
+w: ||||
+w: ||||
+w: ||||
+"D7" FE D2- D DDD |"G" B4"D7" d3 c |"G" B B3"C" d2"Cm" c2 |"D7" A2 ^GA B2 A2 |"G" G6 || %9
+w: ring- a- lets _ She was a|nice girl, a|prop- er girl but|one of the Rov- ing|Kind|
+w: |||||
+w: |||||
+w: |||||
+ x4"^VERSE" x2 D2 |"G" G2 D2 B,2 D2 | G d3 B2"C#dim7" G2 |"D7" A2 D2"Am7" D2 DD- | %13
+w: 1.As|I cruised out one|e- ven- ing up-|on a night's ca- reer,|
+w: 2."Oh.|par- don me, she|says to me, for|be- ing out so late,|
+w: 3.I|took her for some|fish and chips and|treat- ed her so fine,|
+w: 4.So|come all you good|sail- or- men who|sail the win- try sea,|
+"D7""Am7" D6"D7" D2 |"G" G2 D2 B,2 D2 | G d3 B2"C#dim7" G2 |"D7" A2 D2"Am7" D2 DD- | %17
+w: _ I|spied a loft- y|clip- per ship and|to her I did steer.|
+w: _ But|if my par- ents|heard of this, oh,|sad would be my fate.|
+w: _ And|hard- ly did I|re- al- ize she|was the rov- ing kind.|
+w: _ And|come all you ap-|pren- tice lads, a|warn- ing take from me.|
+"D7""Am7" D6"D7" D2 | A3 B c2 A2 |"G" BA G4 D2 |"E7" B3 c d2 B2 |"Am" c6 c-c |"Cm" c A3"D7" d2 c2 | %23
+w: _ I|hist- ed out my|sig- a- nals, which|she so quick- ly|knew, And _|when she saw my|
+w: _ My|fa- ther is in|pol- i- tics, a|good and right- eous|man My _|moth- er is an|
+w: _ I|kissed her lips, I|missed her lips, and|found to my sur-|prise, She was|noth- ing but a|
+w: _ Be-|ware of loft- y|clip- per ships, they'll|be the ruin of|you, For t'was|there she made me|
+"G" B G3"E+7" c2"E7" BB |"A7" A3 B"Adim" A2"A7" G2 | %25
+w: bunt- ing fly she im-|me- diate- ly hove|
+w: ac- ro- bat, and I|do the best I|
+w: pi- rate ship rigged _|up in a dis-|
+w: walk the plank, and _|pushed me un- der|
+"D7" (F2"Am7" G2)"D7" !fermata!A"_D.C. al Coda" |] %26
+w: to. _ _|
+w: can" _ _|
+w: guise. _ _|
+w: too. _ _|
+

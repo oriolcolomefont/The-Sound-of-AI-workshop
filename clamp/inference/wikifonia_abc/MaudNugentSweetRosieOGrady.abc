@@ -1,0 +1,33 @@
+X:1
+T:Sweet Rosie O'Grady
+T:Sweet Rosie O'Grady
+C:Maud Nugent
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C7" z4"F7" z3 d |"Bb" dFBd"F7" cFAc |"Bb" BB"Bbdim7"AG"Bb" F2"Bdim7" z d |"F" dccd"F#dim7" dccd | %4
+w: Just|down a- round the cor- ner of the|street where I re- side, There|lives the cu- test lit- tle girl that|
+w: I'll|nev- er shall for- get the day she|prom- ised to be mine, As|we sat tell- ing love- tales, in the|
+"C7" dccG"F7" A3 d |"^BB" dFBd"F7" cFAc |"Bb" BB"Bbdim7"AG"Bb" F2"Bdim7" z d |"F" dccd"C7" dcG>B | %8
+w: I have ev- er spied; Her|name is Rose O'- Gra- dy and, I|don't mind tell- ing you, That|she's the sweet- est lit- tle Rose the|
+w: gold- en sum- mer time, 'Twas|on her fin- ger that I placed a|small en- gage- ment ring, While|in the trees, the lit- tle birds this|
+"C7" dc=Bc"F7" e4 |:[M:3/4]"Bb" d6 |"F7" c2 d2 c2 |"Bb" B6 |"F7" F6 |"Bb" B6 |"F7" c2 B2 A2 | %15
+w: gar- den ev- er grew.|Sweet|Ro- sie O'-|Gra-|dy,|My|dear lit- tle|
+w: song they seemed to sing!|||||||
+"Bb" B6- | B2 z2 z2 |"Gm" B6 | B2"D7" c2"Gm" d2 |"C7" d6 | G6 | d6 |"C" c2"Bb" B2"C7" G2 | %23
+w: Rose,|_|She's|my stead- y|lad-|y,|Most|ev- 'ry- one|
+w: ||||||||
+"F7" c6- | c2 z2 z2 |"Bb" d6 |"F7" c2 d2 c2 |"Bb" B6 |"F7" F6 |"Bb" B6 |"E/B" c2 B2 c2 |"D7" d6- | %32
+w: knows.|_|And|when we are|mar-|ried,|How|hap- py we'll|be|
+w: |||||||||
+ d2 z2 z2 |"Eb" B2 A2 B2 |"C7" c2 B2"Gdim" G2 |"Bb" F6 | d4 B2 |"C7" c2"B7" =B2"C7" c2 | %38
+w: _|I love sweet|Ro- sie O'-|Grad-|y, And|Ro- sie O'-|
+w: ||||||
+"Cm" G2"F7" A2 F2 |1"Bb" B4 z2 ||"F7" z6 :|2"Bb" B6- || B2 z4 |] %43
+w: Grad- y loves|me.||me.|_|
+w: |||||
+

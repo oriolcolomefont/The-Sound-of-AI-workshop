@@ -1,0 +1,24 @@
+X:1
+T:Mickey
+T:Mickey
+T:Neil Moret
+T:Harry Williams
+C:Neil Moret
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"G6" e2"G" d4 F>G |"A7" B2 A4 ^D>E |"D7" G2 F2 A2"D+" F2 |"G6""Em" E6 D>E |"Bm" F2 A2"G6" G2 E2 | %5
+w: Mick- ey, pret- ty|Mick- ey with your|hair of ra- ven|hue; In your|smil- ing so be-|
+"D7" G2 F4 D>E | (3FAF E>D (3FAF E>D |"G" (B4 (3B)DE (3FGB |"G6" e2"G" d4 F>G |"A7" B2 A4 ^D>E | %10
+w: guil- ing There's a|bit of Kil- lar- ney, bit of the Blar- ney,|too. * * * * * *|Child- hood in the|wild- wood, Like a|
+"D7" G2 F2"C" G2"Am" A2 |"B7""Em""B7" B6 ^A>B |"E" e2"E7" d4 B>^G |"A7" B2 A4 E>=F | %14
+w: moun- tain flow'r you|grew; Pret- ty|Mick- ey, pret- ty|Mick- ey, Can you|
+"D7" (3FAF E>D (3FAF E>D |1"G" G2"Abdim" d2"D7" d2 z2 :|2"G" G>AB>d g2 z2 |] %17
+w: blame an- y- one for fall- ing in love with|you. * *|you. * * * *|
+

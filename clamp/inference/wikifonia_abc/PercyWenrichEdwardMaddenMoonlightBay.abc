@@ -1,0 +1,28 @@
+X:1
+T:Moonlight Bay
+T:Moonlight Bay
+C:Percy Wenrich
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm" d4"D7" d4 |"Gm" d4"Cdim" e>cA>^F |"C#dim" B4"D7" A4 |"Gm" G4- G z2 z |"Gm" d4"D7" d4 | %5
+w: Voic- es|hum, croon- ing o- ver|Moon- light|Bay, _|Ban- jos|
+"Gm" d4"Cdim" e>cA>^F |"C#dim" B4"D7" A4 |"Gm" G4- G z2 z |"Fm" F>^F G2- G>_G =F2- | F2 e2 d2 c2 | %10
+w: strum, tun- ing while the|moon- beams|play. _|All a- lone _ un- know|_ they find me,|
+"Bb" F>^F G2- G>_G =F2- | F2 d2 c2 B2 |"F7" F>^F G2- G>_G =F2- | F2 e2 d2 c2 |"Gm" B>A"C7" B4 G2 || %15
+w: Mem- o- ries _ like these|_ re- mind me|of the girl _ I left|_ be- hind me,|Down on Moon- light|
+"F7" !fermata!c2 B>c d>c d2 |"Bb" F8- | F2"Bb+" ^F2"Eb" G e3 |"Bb" d8- | d2 d>^c d>cd>e | %20
+w: Bay. We were sail- ing a-|long|_ on Moon- light|Bay,|_ We could hear their voic- es|
+"F7" d4 =c4- | c2"Fdim" =B2"F7" c2 d2 |"Bb" F8- | F2 B>c d>c d2 |"Bb" F8- | F2"Bb+" ^F2"Eb" G e3 | %26
+w: ring- ing,|_ They seemed to|say|_ "You have stol- en my|heart,|_ Now don't go|
+"Bb" d8- | d4"Eb" e2"Bb" d2 |"F7" c2 F2 c2 F2 | c2 F2 c d3 |"Bb""Eb""Bb""Bbdim" B8- | %31
+w: way!"|_ As we|sang Love's Old Sweet|Song on Moon- light|Bay.|
+"Bb" B2 Bc dc d2 :|"Bb" B8- | B4 z4 | %34
+w: _ We were sail- ing a-|Bay|_|
+

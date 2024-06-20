@@ -1,0 +1,19 @@
+X:1
+T:Irgalmazz, Uram, irgalmazz
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"D" F2 F2 F4 |"G" F E3 D2 B,2 |"D" A,4 z4 |"D" A A3 B2 A2 | A3 F"A" E4 | A2 B2 A4 | %6
+w: Ir- gal- mazz,|U- ram ir- gal-|mazz,|U- ram, ir- gal-|mazz ne- kem,|_ _ _|
+"D" A2 AA A2 A2 |"G" A3 G G4 |"D" F F2 F G2 F2 |"A" F2 E4 z2 |"D" F2 F2 F4 |"A" E2 E2 F3 E | %12
+w: Ten- ger a bû- nöm,|jöjj, se- gíts,|e- rõs ke- zed- del|ments meg,|Ir- gal- mazz,|ir- gal- mazz ne-|
+"D" D4 z4 | DD/D/ B,B, D2 z2 |] %14
+w: kem!||
+

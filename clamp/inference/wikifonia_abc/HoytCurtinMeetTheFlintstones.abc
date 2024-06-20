@@ -1,0 +1,36 @@
+X:1
+T:Meet The Flintstones
+C:Hoyt Curtin
+Z:All Rights Reserved
+L:1/4
+Q:1/2=164
+M:4/4
+K:Eb
+V:1 treble nm="Voice" snm="Voice"
+%%MIDI program 53
+V:1
+"Ebmaj7" B2"Cm7" E2 |"Fm7" z e2"Bb7" c |"Ebmaj7" B2"Cm7" E2 |"Fm7" z B2"Bb7" A | %4
+w: Flint- stones!|Meet the|Flint- stones!|They're a|
+w: ||||
+"Ebmaj7" G G"Eb7" A B |"Abmaj7" E2"Abm7" F2 |"Ebmaj7" G4 |"^Bb7è""Fm7" z2 z2 || %8
+w: mod- ern stone age|fa- mi-|ly.||
+w: ||||
+"Ebmaj7" B2"Cm7" E2 |"Fm7" z e2"Bb7" c |"Ebmaj7" B2"Cm7" E2 |"Fm7" z B2"Bb7" A | %12
+w: From the|town of|Bed- rock,|they're a|
+w: ||||
+"Ebmaj7" G G"Eb7" A B |"Abmaj7" E2"Abm7" F2 |"Ebmaj7" E4 |"Ebmaj7" z2 z2 ||"G7" d2 G2 | z e2 d | %18
+w: page right out of|his- to-|ry.||1.Let's ride|with the|
+w: ||||2.Some- day,|may- be|
+"C7" d c c d | c4 |"F7" c2 F2 | z d2 c |"Bb7" c B B c | B4 ||"Ebmaj7" B2"Cm7" E2 | %25
+w: fam'- ly down the|street,|through the|cour- te-|sy of Fred's two|feet.|When you're|
+w: Fred will win the|fight,|then that|cat will|stay out for the|night.||
+"Fm7" z e2"Bb7" c |"Ebmaj7" B2"Cm7" E2 |"Fm7" z B2"Bb7" A |"Ebmaj7" G G"C7" A B |"Fm7" E2"Bb7" F2 | %30
+w: with the|Flint- stones,|have a|yab- ba dab- ba|doo time,|
+w: |||||
+"Ebmaj7" z G"C7" A B |"Fm7" E2"Bb7" F2 |"Ebmaj7" z G A"Gbdim7" B |"Fm7" e2"Bb7" f2 | %34
+w: a dab- ba|doo time,|we'll have a|gay, old|
+w: ||||
+"^(Cm7""Ebmaj7" e4 |"^)""Fm7" z2"Bb7" z2 |] %36
+w: time!||
+w: ||
+

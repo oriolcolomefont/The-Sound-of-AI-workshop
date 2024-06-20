@@ -1,0 +1,47 @@
+X:1
+T:Cow-Cow Boogie
+T:Cow-Cow Boogie
+T:From the movie "Ride "Em Cowboy" 1943
+T:Don Raye
+T:Gene De Paul,Benny Carter
+C:Don Raye
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 (3D^DE |"C" A6 ^D>E | A2 ^DE- E2 (3=D^DE | AA- A4 (3D^DE | A2 _ED- D2 (3CDC |"F" G2 CF- F4 | %6
+w: Out on the|plains down near|San- ta Fe * I met a|cow- boy * rid- in' the|range one day * And as he|jogged a- long *|
+w: ||||||
+ z3/2 F<GF/ G G3 |"C" z3/2 ^D<EG/ A A3 | (3_EDC- C C3 (3GAG |"G" B B3 z3/2 G/ (3GFG | %10
+w: I heard him sing- in'|A most pe- cul- iar|cow- * boy * song. It was a|dit- ty, he learned in the|
+w: ||||
+"F" FF- F4 (3D^DE |"C" A A3 C z (3D^DE | A (3A/G/E/ _E C3 (3=ECE | E6- EE | A2 ^D>E C=D (3ECE- | %15
+w: ci- ty * Com- ma ti|yi yi yeah, com- ma ti|yip- pi ti * yi yeah Get a- long,|* * get|hip lit- tle do- gies, get a- long|
+w: |||||
+ E6 (3GAG |"C7" _B G2 E- E2 (3AFA- |"F" A6 z A | d2 ^G>A F>D (3AEA- |"C" A>A _E2 C3 G | %20
+w: * bet- ter be|on your way * get a- long,|* get|hip lit- tle do- gies, and he trucked|* 'em on down that|
+w: |||||
+ A2 _E>C- C2 (3GAG |"G" B B3 G/A/-A (3z AG |"F" (3_BGA- A4 (3D^DE |"C" A A3 C z (3D^DE | %24
+w: old fair- way * Sing- in' his|cow cow boo- gie * in the|strang- est way * Com- ma ti|yi yi yeah, com- ma ti|
+w: ||||
+ A (3A/G/E/ _E C3 (3GAG |"C" c"Gm" _B2"C" G- G3 G | c"Gm" _B3"C" G2 (3GAG | %27
+w: yi- pi- ti * yi yeah Sing- in' his|cow- boy songs * he's|just too much. He's got a|
+w: |||
+"C7" c>_BA>G"Ab7" F _E3- | E3 _E/E/"G7" =E"F7" _E2"G7" D- |"C" D2 C>C G3 C | G C2 G- G2 z2 | %31
+w: knocked out west- ern ac- cent|* with a Har- lem touch.|* He was raised on|Lo- co weed, *|
+w: ||||
+ z2 (3CDC G3 C | G G2 G- G2 (3GAG |"G" B B3 G/A/-A (3z AG |"F" (3_BGA- A4 (3D^DE | %35
+w: He's what you call a|swing half breed' * Sing- in' his|cow cow boo- gie * in the|strang- est way. * Com- ma ti|
+w: ||||
+"C" A A3 C z (3D^DE | A (3A/G/E/ _EC- C4 |"^play 15mb------------" C>CG>A C>CG>A | C>CG>A C>CG>A | %39
+w: yi yi yeah, com- ma ti|yip- pi- ti * yi yeah *|* Tsk * Tsk * * * *|* Tsk * Tsk * * * *|
+w: ||* Tsk * Tsk * * * *|* Tsk * Tsk * * * *|
+ C>CG>A C>CG>A | C2 G2 C2 z2 |] %41
+w: Yip- * * * pee- * * *||
+w: Yip- * * * pee- * * *||
+

@@ -1,0 +1,34 @@
+X:1
+T:So ein Pony - Immenhof
+T:
+T:So ein Pony
+T:Immenhof
+T:Hans-Martin Majewski 
+C:Hans-Martin Majewski
+Z:All Rights Reserved
+%%score { 1 | 2 }
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano"
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 bass 
+%%MIDI channel 1
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z2 F/G/ |"F" A F A G |"Bb" F D2 F/G/ |"F" A c d c |"C" G2- G F/G/ |"F" A c"F7" A F | %6
+w: So ein|Po- ny das kann|al- les, ja das|weiß viel mehr als|ihr * Könn- te|es noch Ei- er|
+"Bb" D B2 c/B/ |"F" A F"C" C E |"F" F2- F f/d/ |"Bb" f3 B/d/ |"F" c2- c F/A/ |"C" G C E G | %12
+w: le- gen, wä- re|es ein Wun- der-|tier * Hol- la|ho Hol- la|ho * wä- re|es ein Wun- der-|
+"F" A c2 f/d/ |"Bb" f2- f B/d/ |"F" c2- c F/A/ |"C" G C E G |"F" F4 | %17
+w: ti- er Ho- la|ho * Ho- la|ho * wä- re|es ein Wun- der-|tier|
+V:2
+ z4 | [F,A,C] z [F,A,C] z | [F,B,D] z [F,B,D] z | [F,A,C] z [F,A,C] z | [E,G,C] z [E,G,C] z | %5
+ [F,A,C] z [F,C_E] z | [F,B,D] z [F,B,D] z | [F,A,C] z [E,G,C] z | [F,A,C] z [F,A,C] z | %9
+ [F,B,D] z [F,B,D] z | [F,A,C] z [F,A,C] z | [E,G,C] z [E,G,C] z | [F,A,C] z [F,A,C] z | %13
+ [F,B,D] z [F,B,D] z | [F,A,C] z [F,A,C] z | [E,G,C] z [E,G,C] z | [F,A,C]4 | %17
+

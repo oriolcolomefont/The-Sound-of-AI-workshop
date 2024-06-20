@@ -1,0 +1,22 @@
+X:1
+T:Ciao, ciao, bambino
+T:Ciao, ciao, bambino
+C:Domenico Modugno
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+ z A B c |"Em7" B2 B2- |"A7" B G F E |"Em7" G2 G2- |"A7" G A B c |"D" A2 A2- |"A7" A F E D | %7
+w: Ciao ciao bam-|bin- o|* the rain is|fall- ing|* once more I|kiss you|* and then good-|
+"D" F4- |"A7" F F E D |"D" F2 F2- | F A G F |"F#m" A2 A2- | A A B d |"C#7" c2 c2- | c ^G A B | %15
+w: bye|* Our love was|just like|* a fair- y|stor- y|* but all its|glor- y|* must pass us|
+"A7" c4- | c/ z/ A B c |"Em7" B2 B2- |"A7" B G F E |"Em7" G2 G2- |"A7" G A B c |"D" A2 A2- | %22
+w: by|* Are rain- drops|trembl- ing|* up- on your|face dear|* or are they|tear- drops|
+"A7" A F E D |"D" F4- |"A7" F F E D |"D" F2 F2- | F A G F |"F#m" A2 A2- | A A"Fdim" B c | %29
+w: * for/the love we|knew|* ciao ciao bam-|bin- o|* my heart is|cal- ling|* while rain is|
+"Em7" B2 B2- |"A7" B c d e |"D" d4 |] %32
+w: fal- ling|* I cry with|you|
+

@@ -1,0 +1,28 @@
+X:1
+T:We Belong Together
+T:We Belong Together
+C:Johnny Mitchell, Robert Carr
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 G2 |"C""Am7" G8- |"Dm7" GFGA"G7" G3 F |"C" G2"Am" E6 |"Dm7" z FGA"G7" G3 F |"C" G2"Am" E6 | %6
+w: You're|mine,|_ and we be- long to-|geth- er,|Yes, we be- long to-|geth- er|
+"Dm7" z (cA)F"G7" E2 E2 |"C""Am7" C8- |"Dm7" C6"G7" G2 |"C""Am7" G8- |"Dm7" GFGA"G7" G3 F | %11
+w: for _ e- ter- ni-|ty.|_ You're|mine,|_ your kiss be- longs to|
+"C" (G2"Am7" E6) |"Dm7" z FGA"G7" G3 F |"C" GE"Am" E6 |"Dm7" z (cA)F"G7" E2 E2 |"C""F" C8- | %16
+w: me, _|Yes, it be- longs to|on- ly me,|for * e- ter- ni-|ty.|
+"C""C7" C6 C2 |"F" A3 A (AG) F2 |"Fm" (3z _AA AG (A F3) |"C" z ccc (B2- (3BGA) |"C7" G6 A2 | %21
+w: _ You're|my, my ba- * by,|as you'll al- ways be, _|I love you so _ _ _|much. I|
+"F" A3 A AG F2 |"Fm" (3z _AA AG F3 =A |"D7" A A3 cA c2 |"G7" B6 G2 |"C""Am7" G8- | %26
+w: swear by ev- 'ry- thing,|ev- 'ry- thing I own, I'll|al- ways, al- ways love|you You're|mine,|
+"Dm7" GFGA"G7" G3 F |"C" G2"Am" E6 |"Dm7" z FGA"G7" G3 F |"C" G2"Am" E6 |"Dm7" z (cA)F"G7" E2 E2 | %31
+w: _ and we be- long to-|geth- er,|Yes, we be- long to|geth er,|for _ e- ter- ni-|
+"C" C4"F" z DFA |"C" c6 z2 | z8 |] %34
+w: ty. * * *|||
+

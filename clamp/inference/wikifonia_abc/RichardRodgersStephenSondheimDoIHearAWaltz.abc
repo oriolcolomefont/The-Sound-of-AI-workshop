@@ -1,0 +1,29 @@
+X:1
+T:Do I Hear A Waltz
+T:Do I hear a waltz 
+T:(from Do I hear a waltz)
+T:Richard Rodgers
+T:Stephen Sondheim
+C:Richard Rodgers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"^N.C." D |:"G" G D ^C | D3- | D ^C D | E ^C D |"D7" E ^C D- | D3- | D3- | D2 E |"Am" c G B | %10
+w: Do|I hear a|waltz|* ver- y|odd but I|hear a waltz|||* there|is- nt a|
+ ^F A E |"G" G E ^F |"D7" C E B, |"G" D3- | D3- |"D7" D3- | D2 D |"G" G D ^C | D3- | D ^C D | %20
+w: band and I|dont un- der-|stand it at|all|||* I|cant hear a|waltz|* oh my|
+ E ^C D |"Eb" F D _E- | _E3- | _E D _E | F D _E |"Am" ^F2 ^F- |"D7" ^F E C |"G" B,3- | B,3 | %29
+w: lord there it|goes a- gain||* why is|no- bod- y|danc- ing|* in the|street?||
+"A7" A2 A- | A ^F E |"^D&" D3- | D3 |"C" A ^G A |"A7" _B A _B |"G" ^A B D- | D ^A B |"D7" D3- | %38
+w: cant they|* hear the|beat||ma- gi- cal|mys- ti- cal|mir- a- cle|* can it|be|
+ D ^A B |"G" D3- | D3 |"C" A ^G A |"A7" _B A _B |"G" ^A B E- | E ^A B |"D7" A3- | A ^A B | %47
+w: * is it|true||things are im-|pos- si- bly|lyr- i- cal|* is it|me|* no its|
+"D7" A3- | A2 D |"G" G D ^C | D3- | D ^C D | E ^C D |"D7" E ^C D- | D3- | D3- | D z D |"Am" c G B | %58
+w: you|* I|do hear a|waltz|* I see|you and I|hear a waltz|||* its|what I've been|
+ ^F A E | E2 z |"G" d3 |"Gm" d3 |"D7" d2 _d | c2 ^F |"D7" G3- | G3- | G3 | z2 D | z z2 |] %69
+w: wait- ing for|all|my|life|* to|hear a|waltz.|||||
+

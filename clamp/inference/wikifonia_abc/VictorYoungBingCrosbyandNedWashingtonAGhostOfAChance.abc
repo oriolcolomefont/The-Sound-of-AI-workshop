@@ -1,0 +1,50 @@
+X:1
+T:A Ghost Of A Chance
+T:A ghost of a chance
+T:Victor Young, arr. Nelson Riddle 
+T:Bing Crosby, Ned Washington
+T:(I don't stand)
+C:Victor Young
+Z:All Rights Reserved
+L:1/8
+Q:1/4=60
+M:4/4
+K:F
+V:1 treble 
+%%MIDI program 4
+V:1
+"Fmaj7""_Intro - sax""^Slow" B2 B2 B2 B2 |"F/Eb" B2 B2 B2 B2 |"Dm7" B2 B2 B2 B2 | %3
+w: |||
+"Dbmaj7" B2 B2 B2 B2 |"Gbmaj7" B2 B2 B2 B2 |"Fm7" B2 B2 B2 B2 |"Bbm9" B2 B2 B2 B2 | %7
+w: ||||
+"Eb7" B2 B2 B2 B2 ||"F" z CCC C2 D2 |"^Caug" D2 C4 z2 |"Am7b5" z CC"D7b9"C"D7b9" _E2 D2 | %11
+w: |I need your love so|bad- ly|I love you oh so|
+"Bbm" _D2"Eb9" D2-"Eb9" D2 D2 |"Am7" C2"Abmaj7" C2"Abmaj7" G3 F |"Gm7" (3AF"C7"D"C7" C4 D2 | %14
+w: mad- ly * but|I don't stand a|ghost of a chance with|
+"A7""D7" A,8- |"Gm7" A,2 z2"^C7aug" z4 |"F" z CDE E2 E2 |"^Caug" E2 C4 z2 | %18
+w: you||I thought at last I'd|found you|
+"Am7b5" z CC"D7b9"C"D7b9" _E3 D |"Bbm" _D2 D4 z2 |"F/C" z2 C"A/C#"C"A/C#""Dm" G3 F | %21
+w: but o- ther loves sur-|round you|I don't stand a|
+"Gm7" (3AF"C7"D"C7" C2 z DCF- |"F6""Bb""Bbm" F8- |"F" F8 |"Gm7" (3G,A,B, F D3 z2 | %25
+w: ghost of a chance with * you.|||if you'd sur- ren- der|
+"C7" z2 EC EC- C2 |"F6" D2 A, z A,4- | A,4 z2 z2 |"Bm7b5" (3=B,C"Dm6"D"Dm6" F2 F3 z | %29
+w: for a ten- der *|kiss or two||you might dis- cov- er|
+"E7" (3=B,CD F2 F3 z |"A7" E3 =B, B,2 z E |"^C7aug" D3 _A, A,4 |"F" z CDE E3 C |"^Caug" EC C4 z2 | %34
+w: that I'm the lov- er|meant for you and|I'd be *|But what's the good of|schem- * ing?|
+"Am7b5" z CC"D7b9"C"D7b9" _E3 D |"Bbm" _D2"Eb9" D6 |"Am" z A,C"A/C#"C"A/C#""Dm7" G3 F | %37
+w: I know I must be|dream- ing|'cause I don't stand a|
+"G7" (3AF"Csus4"D"Csus4" C4 DC |"F" F8- |"F" F6 z2 ||"Bb""_Sax solo (bridge)" B2 B2 B2 B2 | %41
+w: ghost of a chance with- *|you.|||
+"^C7aug" B2 B2 B2 B2 |"F6" B2 B2 B2 B2 | B2 B2 B2 B2 |"Bm7b5" B2"Dm6" B2"Dm6" B2 B2 | %45
+w: ||||
+"E7" B2 B2 B2 B2 |"A7" B2"D9" B2"D9" B2 B2 |"Gm7" B2"C+7" B2"C+7" B2 B2 |"F""F" z CDE E3 C | %49
+w: |||So what's the good of|
+"^Caug""^Caug" EC C4 z2 |"Am7b5""Am7b5" z CC"D7""D7b9"C"D7""D7b9" _E3 D | %51
+w: schem- * ing?|I know I must be|
+"Bbm""Bbm" _D2"Eb9""Eb9" D6 |"F/C""^ritard." C2"A/C#" C2"A/C#""Dm7" G3 F | %53
+w: dream- ing|I don't stand a|
+"G7" (3AF"Bb/C"D"Bb/C" C4 DC |"F" F8- |"F/Eb" F8- |"Dm" F8- |"Dbmaj7" F8- |"Fmaj7" !fermata!F8 |] %59
+w: ghost of a chance with *|you-|||||
+ z8 | z8 | z8 | z8 |] %63
+w: ||||
+

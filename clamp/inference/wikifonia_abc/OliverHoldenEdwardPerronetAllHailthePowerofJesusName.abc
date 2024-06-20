@@ -1,0 +1,34 @@
+X:1
+T:All Hail the Power of Jesus' Name
+T:All Hail the Power of Jesus' Name
+T:Coronation
+T:Oliver Holden
+T:Edward Perronet
+T:Public Domain
+C:Oliver Holden
+Z:All Rights Reserved
+L:1/4
+Q:1/4=100
+M:4/4
+K:G
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D7""^100" D |"G" G G B B |"D7" A G A B | A G B A |"G" G3 A | B A G B | (d/c/)(B/A/) B d | %7
+w: 1.~All|hail the pow'r of|Je- sus' name! Let|an- gels pros- trate|fall. Bring|forth the roy- al|di- * a- * dem And|
+w: 2.~Ye|cho- sen seed of|Is- rael's race, Ye|ran- somed from the|Fall. Hail|Him who saves you|by * His * grace And|
+w: 3.~Let|ev- 'ry kin- dred,|ev- 'ry tribe On|this ter- res- trial|ball, To|Him al maj- es-|ty * as- * cribe And|
+w: 4.~Oh,|that with yon- der|sa- cred throng We|at His feet may|fall. We'll|join the ev- er-|last- * ing * throng And|
+ d2"D" d2 |"A7" (e2 d) ^c |"D" d3 B |"G" d B F B |"D" (A/G/)(A/B/) A G |"G" d2"C" c2 | %13
+w: crown Him|Lord * of|all. Bring|forth the roy- al|di- * a- * dem and|crown Him|
+w: crown Him|Lord * of|all. Hail|Him who saves you|by * His * grace and|crown Him|
+w: crown Him|Lord * of|all. To|Him all maj- es-|ty * as- * cribe and|crown Him|
+w: crown Him|Lord * of|all. We'll|join the ev- er-|last- * ing * throng and|crown Him|
+"G" (B3/2 c/"D" A) A |"G" G3 |] %15
+w: Lord- * * of|all.|
+w: Lord * * of|all.|
+w: Lord * * of|all.|
+w: Lord * * of|all.|
+

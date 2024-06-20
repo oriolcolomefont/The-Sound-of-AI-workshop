@@ -1,0 +1,30 @@
+X:1
+T:Surrender
+T:Surrender
+T:Doc Pomus, Mort Shuman,
+T:Italian:G.B.De Curtis 
+C:Doc Pomus, Mort Shuman
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+|: z2"Cm" C D | _E F G E | G2 G2- | G2 z2 |"Fm" z2 F G | _A F A F |"Cm" c2 c2- | c2 z2 | %8
+w: When we|kiss my heart's on|fi- re|_|burn- ing|with a strange de-|si- re|_|
+"Fm" z2 c d | _e d c d |"Cm" G2 G2- | G4 |"Fm" z2 F G |"G7" F _E D E |"Cm" C2 z2 | z2 c B | %16
+w: and I|know each time I|kis you|_|that your|heart's on fi- re|too|so my|
+ G A B G |"Dm7" A2 A2- | A4 |"G7" z2 B A | G A B G |"C" A2 A2- | A4 | z2 E F | G E D C | %25
+w: dar- ling please sur-|ren- der|_|all your|love so warm and|ten- der|_|let me|hold you in my|
+"Dm7" F2 F2- | F4 |"G7" z2 G A | B A G B |"C" E4- | E2 z2 |"C" z2 c B | G A B G |"Dm7" A2 A2- | %34
+w: arms dear|_|while the|moon shines bright a-|bove|_|all the|stars will tell the|sto- ry|
+ A4 |"G7" z2 d c |"E7" B c d B |"Am" c2 c2- | c4 |"Fm" z2 c d | _e d c d |"Cm" G2 G2- | G4 | %43
+w: _|of our|love and all its|glo- ry|_|let us|take this night of|ma- gic|_|
+"G7" z2 F G |"Ab7" F _E"G7" D E |"Cm" C4 | z2 c d | B3 A |"Dm7" c A/F/ D2- | D4 |"G7" z B c d | %51
+w: and make|it a night of|love|wont you|please sur-|ren- der to me|_|your lips, your|
+ B3 A |"C" G2 G2- | G4 |"Fm" z2 F2 | _A3 c |"Cm" _e3 d | c4 |"G7" z2 d2 | B3"Fm" c |1"Cm" c4 | %61
+w: arms your|heart dear|_|be|mine for|ev- er||be|mine to-|night|
+"Ab7" z4 :|2"Cm" c4- ||"Fm" c4- |"Cm" c4- | c3 z |] %66
+w: |night|_|||
+

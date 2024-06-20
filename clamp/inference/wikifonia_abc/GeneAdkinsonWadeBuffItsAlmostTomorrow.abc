@@ -1,0 +1,38 @@
+X:1
+T:It's Almost Tomorrow
+T:Its Almost Tomorrow
+T:Gene Adkinson
+T:Wade Buff
+C:Gene Adkinson
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:Bb
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ F |:"Bb" BB- B2 z d |"Dm" A A3- AA |"Eb" G2 G2 B2 |"Bb" F4 z F |"Eb" E2 E3 F |"Bb" DF B3 d | %7
+w: My|dear- est * my|dar- ling * to-|mor- row is|near the|sun will bring|show- * ers of|
+w: |heart was * so|warm dear * it|now has turned|cold You|no long- er|love me for your|
+w: |||||||
+"C7" c G3 d2 |"F7" c4 d2 |"Bb" B B3- Bd |"Dm" A A3- AA |"Eb" G2 G2 B2 |"Bb" F4 z F |"Eb" E2 E3 F | %14
+w: sad- ness I|fear *|lips wont be *|smil- ing * your|eyes will not|shine For|I know to|
+w: mem- ries grow|old. It's|al- most to- mor-|ow * * for|here comes the|sun But|still I am|
+w: |* your||||||
+"Bb" DF B3 d |"C7" c2 G2 A2 |"F7" B4"Bb" z2 |"^Chorus:\n" z4 z F |"Bb" B B3- Bd |"Dm" A A3- AA | %20
+w: mor- row that your|love wont be|mine.|It's|al- most * to-|mor- row * but|
+w: hop- ing that to-|mor- row wont|come||||
+w: ||||||
+"Eb" G2 G2 B2 |"Bb" F4 z F |"Eb" E2 E3 F |"Bb" DF B3 d |"C7" c G3 d2 |"F7" c4 z d |"Bb" B B3- Bd | %27
+w: what can I|do? your|kiss- es all|tell me that your|love is un-|true I'll|love you * for|
+w: |||||||
+w: |||||||
+"Dm" A A3- AA |"Eb" G2 G2 B2 |"Bb" F4 z F |"Eb" E2 E3 F |"Bb" DF B2 z d |"C7" c2 G2"F7" A2 |1 %33
+w: ev- er * till|stars cease to|shine and|hope some- day|dar- ling that you'll|al- ways be|
+w: ||||||
+w: ||||||
+"Bb" B4 z F :|2"Bb" B6 |] %35
+w: mine. Your|mine.|
+w: ||
+w: ||
+

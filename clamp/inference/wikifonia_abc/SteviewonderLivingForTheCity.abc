@@ -1,0 +1,16 @@
+X:1
+T:Living For The City
+T:Living For The City
+C:Stevie wonder
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F#
+V:1 treble 
+%%MIDI program 40
+V:1
+ z =E F/^EF/ F2 z D | FDFD G2 F2 | z DFD/F/ F2 z F | AcAG F2 G/F z/ | z =E F/EF/ F2 z D | %5
+ FDFD G2 E/D/C | z =E F/^EF/ D3/2 z3/2 F/F/ | AG/G/-GF/G/ D>D z/ F3/2 | G2 FF- F2 z A- | %9
+ A A2 G/F/- F<D D/CD/- |1 D F3 z4 || z8 :|2 z4 z2 C/D/F :|[M:3/4] A3 G/F/ EF | =A4 z2 | %15
+ =A=d =AF =E>F | =E6 | =E2 =F2 =G2 | =E4 z2 |[M:2/4] =G=A B>c |[M:4/4] c8 | z8 | z8 | z8 | z8 |] %25
+

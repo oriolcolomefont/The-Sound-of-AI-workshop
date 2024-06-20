@@ -1,0 +1,29 @@
+X:1
+T:Be My Little Baby Bumble Bee
+T:Be My Little Baby Bumble Bee
+T:Stanley Murphy & Henry J. Marshall
+C:Stanley Murphy & Henry J. Marshall
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:G
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E7" c B c B | c/ B3/2 e/ B E/- |"A" E E/F/ E E/F/ | E E/F/ G/F/ E |"D7" B A B A | %5
+w: Be My Lit- tle|Ba- by Bum- ble Bee|* (buzz a- round, buzz a-|round, keep a buzz- in round),|bring home all the|
+ B/ A d/- d/B/ A |"G" D D/E/"G#dim" D D/E/ |"Am7" D D/E/"D7" D2 |"E7" c B c B | c/ B c/- c2 | %10
+w: hon- ey love * * to|me (lit- tle bee, lit- tle|bee, lit- tle bee).|Let me spend the|hap- py hours *|
+"A7" B A B A | B/ A B/- B z/ A/ | B A G E | ^D/ E F/- F G |"D7" A E/F/ D E/F/ | D E/F/ D2 | %16
+w: rov- ing with you|'mongst the flow'rs * and|when we get where|no one else * can|see (cud- dle up, cud- dle|up, cud- dle up).|
+"E7" c B c B | c/ B3/2 e/ B E/- |"A" E E/F/ E E/F/ | E E/F/ G/F/ E |"D7" B A B A | %21
+w: Be My Lit- tle|Ba- by Bum- ble Bee|* (buzz a- round, buzz a-|round, keep a buzz- in round),|we'll be just as|
+ B/ A d/- d"C7" c |"B7" B =F/^F/ B =F/^F/ | B =F/^F/ B2 |"E9" c B"F9" c B |"E7" c/ B c/- c2 | %26
+w: hap- py as * can|be (you and me, you and|me, you and me).|Hon- ey keep a|buzz- in' please *|
+"A7" B A/A/ B A | B/ A B/- B G/A/ |"G" B"G+" B- B/B/"Em"B/B/ |"A7" B B"D7" d/ B G/- |"G" G4- | %31
+w: I've got a doz- en|cous- in' bees, * but I|want you * to Be My|Ba- by Bum- ble Bee-||
+ G2- G z |] %32
+w: |
+

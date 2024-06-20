@@ -1,0 +1,42 @@
+X:1
+T:Sugartime
+T:Sugartime
+C:Odis Echols
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" c/c/c/c/ c B | A/^G/A/G/"F7" A =G |"Bb" F/F/ F F/ D3/2 |"F" C4 |"C9" G G G F | %5
+w: Su- gar in the morn- in',|sug- ar in the eve- 'nin',|su- gar at sup- per|time;|Be my lit- tle|
+"C7" G/ A3/2- A G |"F" F F"Bb" F D/C/- |"F" C4 |"F" c/c/c/c/ c B | A/^G/A/G/"F7" A =G | %10
+w: su- gar, _ and|love me all the time.|_|Hon- ey in the morn- in',|Hon- ey in the eve- 'nin',|
+"Bb" F/F/ F F/ D3/2 |"F" C3 F |"C9" G G G F |"C7" G/ A3/2- A G |"F" F F"Bb" F D/F/- |"F" F4 | %16
+w: Hon- ey at sup- per|time; You'll|be my lit- tle|hon- ey _ and|love me all the time.|_|
+"C7" G C C C |"F" (A/G/) F2 F |"C7" G C/C/ C C |"F" A4 |"C7" G C C C |"F" A/G/ F2 F/E/ | %22
+w: Put you arms a-|round * me and|swear by the stars a-|bove,|You'll be mine for|ev- * er in a|
+"G7" D E2 F |"C7" G4 |"F" c/c/c/c/ c B | A/^G/A/G/"F7" A =G |"Bb" F/F/ F F/ D3/2 |"F" C4 | %28
+w: heav- en of|love:|Su- gar in the morn- in',|sug- ar in the eve- 'nin',|su- gar at sup- per|time;|
+"C9" G G G F |"C7" G/ A3/2- A G |"F" F F"Bb" F D/F/- || F F E F |"C7" G4- | G G F G | %34
+w: Be my lit- tle|su- gar, _ and|love me all the time.|_ Now Sug- ar|time|_ is an- y-|
+"F" (A2- A/^G/A/=G/ | F2) E F |"C7" G4- | G G F G |"F" (A2- A/^G/A/=G/ | F3/2) F/ E F |"C7" G4- | %41
+w: time, _ _ _ _|_ That you're|near|_ or just ap-|pear; _ _ _ _|_ So don't you|roam,|
+ G G F G |"F" A/A/ A3- | A3 C |"G7" D2 D D | D E2 F |"C7" G4- | G2 z2 ||"F" c/c/c/c/ c B | %49
+w: _ just be my|ho- ney- comb,|_ We'll|live in a|heav- en of|love.|_|Su- gar in the morn- in',|
+ A/^G/A/G/"F7" A =G |"Bb" F/F/ F F/ D3/2 |"F" C4 |"C9" G G G F |"C7" G/ A3/2- A G | %54
+w: sug- ar in the eve- 'nin',|su- gar at sup- per|time;|Be my lit- tle|su- gar, _ and|
+"F" F F"Bb" F D/C/- |"F" C4 |"F" c/c/c/c/ c B | A/^G/A/G/"F7" A =G |"Bb" F/F/ F F/ D3/2 |"F" C3 F | %60
+w: love me all the time.|_|Hon- ey in the morn- in',|Hon- ey in the eve- 'nin',|Hon- ey at sup- per|time; You'll|
+"C9" G G G F |"C7" G/ A3/2- A G |"F" F F"Bb" F D/F/- |"F" F4 |"C7" G C C C |"F" (A/G/) F2 F | %66
+w: be my lit- tle|hon- ey _ and|love me all the time.|_|Put your arms a-|round * me and|
+"C7" G C/C/ C C |"F" A4 |"C7" G C C C |"F" A/G/ F2 F/E/ |"G7" D E2 F |"C7" G4 |"F" c/c/c/c/ c B | %73
+w: swear by the stars a-|bove,|You'll be mine for|ev- * er in a|heav- en of|love:|Su- gar in the morn- in',|
+ A/^G/A/G/"F7" A =G |"Bb" F/F/ F F/ D3/2 |"F" C4 |"C9" G G G F |"C7" G/ A3/2- A G | %78
+w: sug- ar in the eve- 'nin',|su- gar at sup- per|time;|Be my lit- tle|su- gar, _ and|
+"F" F F"Bb" F D/F/- | F3 z |] %80
+w: love me all the time.|_|
+

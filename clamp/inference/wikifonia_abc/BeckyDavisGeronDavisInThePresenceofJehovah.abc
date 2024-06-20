@@ -1,0 +1,51 @@
+X:1
+T:In The Presence of Jehovah
+T:In The Presence of Jehovah
+T:Geron & Becky Davis, 1985
+C:Becky Davis, Geron Davis
+Z:All Rights Reserved
+L:1/8
+Q:1/4=80
+M:4/4
+K:F
+V:1 treble nm="Voice"
+%%MIDI channel 2
+%%MIDI program 54
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z2 CF B A2 G/F/ |"C/D" G3 A"F" A4- | A2 z F"F/A" AB c>C |"Bb" D8 | %10
+w: ||||||In and out of sit u|a tions _|_ that tug of war at|me|
+"C9sus4" z4 BAGF |"C/F" G3 A"F" A4- | A2 z F"F/A" ABcF |"Bb" d8 | z FBd"D7/A" _e d2 c/B/ | %15
+w: all day long I|stru g gle|_ for an swers that I|need|but then I come in to _|
+"^Gsus4(add2)" c3 B"Gm" B4 |"C7" z GBd"C/Bb" c B2 A/B/ |"F/A" c6"A7/C#" z2 | %18
+w: His pres ence|and all my ques tions be come|clear|
+"Dm" z AAc"C7/E" B2"F" A2 |"G7sus4" G3 d d4- |"G7" d=BBc d3 B |"C7sus4" c8- |[M:2/4]"C7" c2 z2 | %23
+w: and for a sac red|mo _ ment|_ no doubts can in ter|fere|_|
+[M:4/4]"Bbmaj7/C" A4"C7b9" B4 |"F" c4 c4- | c2 z2 f3 e |"Am" c4 c4- |"D7b9" c2 z2 A2 c2 | %28
+w: in the|pres ence|_ of Je|hov ah|_ God al|
+"Gm7" A4 G4- |"C9" G2 z2 d3 c |"F" A8- | A2 z2"Bbmaj7/C" A2"C7b9" B2 |"F" c4 c4- | c2 z2 f3 e | %34
+w: migh ty|_ Prince of|Peace|_ trou bles|van ish|_ hearts are|
+"Am" c4 c4- |"D7b9" c2 z2 A2 c2 |"Gm7" A4 G4- |"C9" G2 z2 B3 A |"F" F8 |"Dm" z8 |"Bm7b5" z8 | %41
+w: men ded|_ in the|pres ence|_ of the|King|||
+"^Esus7" z8 | z2 EA d>^c =BA |"C/F" G3 A"F" A4- | A2 z F"F/A" AB c>C |"Bb" D8 |"Bb/C" z3 C BA G>F | %47
+w: |Through His love the Lord pro|vi _ ded|_ a place for us to|rest|a place to find the|
+"C/F" G3 A"F" A4- | A2 z F"F/A" AB c>F |"Bb" d8 | z FBc"D7/A" _e d2 c/B/ | %51
+w: an swer _|_ in hours of _ dis|tress|now ther is nev er any _|
+"^Gsus4(add2)" c3 B"Gm" B4 |"C7" z GBd"C/Bb" c B2 A/B/ |"Am7" c4"A7/C#" z4 | %54
+w: rea son _|for you to give up in des|pair|
+"Dm" z AAc"C7/E" B2"F" A2 |"G7sus4" G3 d d4- |"G7" dzde fa e>d |"C7sus4" c8 |"Gb/Ab" z8 | %59
+w: just looka _ way and|breath His Name|_ He will come and meet you|there||
+[M:2/4] z4 |[M:4/4]"Gbmaj7/Ab" F4"Ab7b9" _G4 |"F" c4 c4- | c2 z2 f3 e |"Am" c4 c4- | %64
+w: |in the|pres ence|_ of Je|hov ah|
+"D7b9" c2 z2 A2 c2 |"Gm7" A4 G4- |"C9" G2 z2 d3 c |"F" A8- | A2 z2"Bbmaj7/C" A2"C7b9" B2 | %69
+w: _ God al|migh ty|_ Prince of|Peace|_ trou bles|
+"F" c4 c4- | c2 z2 f3 e |"Am" c4 c4- |"D7b9" c2 z2 A2 c2 |"Gm7" A4 G4- |"C9" G2 z2 B3 A | %75
+w: van ish|_ hearts are|men ded|_ in the|pres ence|_ of the|
+ F4 F2 A2 | ^G2 z2 ^A2 =B2 |"F" c4 c4- | c2 z2 f3 e |"Am" c4 c4- |"D7b9" c2 z2 A2 c2 | %81
+w: _ _ _||pres ence|_ of Je|hov ah|_ God al|
+"Gm7" A4 G4- |"C9" G2 z2 d3 c |"F" A8- | B2 z2"Bbmaj7/C" B2"C7b9" _c2 |"F" c4 c4- | c2 z2 f3 e | %87
+w: migh ty|_ Prince of|Peace|_ trou bles|van ish|_ hearts are|
+"Am" c4 c4- |"D7b9" c2 z2 A2 c2 | A3 B G4- | G2 z2 f3 g | a8 | z4 c2 c2 | d4 e4 | f2 z2 g4 | a8- | %96
+w: men ded|_ in the|pres _ ence|_ of the|King|in the|pres ence|of the|King|
+ a4 z4 | z8 | z8 | z8 |] %100
+w: _||||
+

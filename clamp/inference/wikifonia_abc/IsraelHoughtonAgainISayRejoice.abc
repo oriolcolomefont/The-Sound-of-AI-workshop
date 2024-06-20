@@ -1,0 +1,134 @@
+X:1
+T:Again I Say Rejoice
+C:Israel Houghton
+Z:All Rights Reserved
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 0
+V:2 treble 
+%%MIDI channel 1
+%%MIDI program 0
+V:3 bass 
+%%MIDI channel 2
+%%MIDI program 0
+V:4 bass 
+%%MIDI channel 2
+%%MIDI program 0
+V:1
+ z8 |: z G-GA- AB-BB | z G-GA- AB-BB |[K:E] z G-GA- AB-B=d- | d=d-dc- c2 BB |[K:E] z G-GA- AB-BB | %6
+w: |* bless\_ * * the\_ * Lord|* * bless\_ * the\_ * Lord|Draw\_ * near * to * wor\-|* ship * Christ\_ * the Lord|* * * * * name *|
+ z G-GA- AB-BB | z G-GA- AB-B=d- |[K:E] d=d-d(c- c/B/A- A2) :| =G[G-G]>G[G-G]3/2 G<[G-G]G/A- | %10
+w: His\_ * ho\- * * name *|de\- * clar\- * Ing\_ * He\_|* Is\_ good * * * * *|* * * * * * pralse *|
+ A3 A- A2 z2 |[K:E] [=G=c][Gc]-[Gc][Gc]- [Gc][Gc]-[Gc][A=d]- | [Ad]3 [A=d]- [Ad]z[Be][Be]- || %13
+w: |||
+[K:E] [Be]zGA (BA)Gc- | c3 B- BGAB- | BA-A=G- GzGc- |[K:E] cc-cc- c2 BB- | BzGA (BA)Gc- | %18
+w: |||||
+ c3 B- BGAB- |[K:E] BA-A=G- GzGc- | cc-cc- c2 [Be][Be]- | [Be] z z2 z4 | z8 |[K:E] z8 | z8 || %25
+w: ||* * * say\_ * * *|||||
+ z G-GA- AB-BB |[K:E] z G-GA- AB-BB | z G-GA- AB-B=d- |[K:E] d=d-dc- c2 BB | z G-GA- AB-BB | %30
+w: |||||
+[K:E] z G3/2-GA- AB3/2-B | z G3/2-GA- AB3/2-B | d=d-d(c- c/B/)A- A2 |[K:E] =GG-GG- GG-GA- | %34
+w: ||* Is\_ * * * * * *||
+ A3 A- A2 z2 |[K:E] [=G=c][Gc]-[Gc][Gc]- [Gc][Gc]-[Gc][A=d]- | [Ad]3 ([A=d] d4-) | %37
+w: |* * * * would\_ * pralse *||
+ d4 z2 [Be][Be]- |:[K:E] [Be]zGA (BA)Gc- | c3 B- BGAB- | BA-A=G- GzGc- |[K:E] cc-cc- c2 BB- | %42
+w: |||||
+ BzGA (BA)Gc- | c3 B- BGAB- |[K:E] BA-A=G- GzGc- | cc-cc- c2 [Be][Be]- :| [Be] z z2 z4 | z8 || %48
+w: |||* * * say\_ * * *|||
+[K:E] =DEDE z B,zD | z E=DE z2 z D |[K:E] z E=DE z EF=G | FEF=G- GE-E z |[K:E] =DEDE z B, z x | %53
+w: |* * * Pralse||||
+ z E=DE z2 z D |[K:E] z E=DE z EF=G- | GAB[B=d]- [Bd]2 z2 |[K:E] =DEDE z B,zD | z E=DE z2 z D | %58
+w: ||||* * * Pralse|
+[K:E] z E=DE z ([GB][Gc])[F=d]- | [F=c][FB][Fc][Bd]- [Bd]2 z2 |[K:E] =DEDE z B,zD | z E=DE z2 =GA | %62
+w: ||||
+[K:E] BA-A=G- GzGc- | cc-cc- czcB- | BB-BB- BzBc- |[K:E] cc-c(c [Ac]4-) | [Ac]4 z2 [Be][Be]- |: %67
+w: |||* I * * *||
+ [Be]zGA (BA)Gc- |[K:E] c3 B- BGAB- | BA-A=G- GzGc- | cc-cc- c2 BB- |[K:E] BzGA (BA)Gc- | %72
+w: |||||
+ c3 B- BGAB- | BA-A=G- GzGc- |[K:E] cc-cc- c2 [Be][Be]- :| [Be]8- | [Be]4- [Be]z[Be][Be]- | %77
+w: |||||
+[K:E] ([Be]6 [Be])([A=d] | d4) z2 [Be][Be]- | [Be]8- | [Be]4- [Be]z[Be][Be]- | %81
+w: ||||
+[K:E] ([Be]6 [Be])[A=d]- | [Ad]4 z2 ee- | e8- |[K:E] e4- eze(e- | e6 e)=d- | d4"^rit." z2 e(e | %87
+w: ||||||
+ !fermata![GBe]8) |] %88
+w: |
+V:2
+ x8 |: x8 | x8 |[K:E] x8 | x8 |[K:E] x8 | x8 | x8 |[K:E] x8 :| EE-EE- EE-EF- | F3 F- F2 x2 | %11
+w: |||||||||O that\_ * men\_ would\_ * * *|* Him\_ *|
+[K:E] EE-EE- EE-EF- | F3 F- Fx=GG- ||[K:E] GxEF (GF)EA- | A3 G- GEF=G- | GF-FE- ExEA- | %16
+w: O that * men * would\_ * pralse|* Him * Re\- Jolee|* In the Lord * * a|\-|* ways\_ * And a\-galn\- *|* * * say\_ * a\-galn\- *|
+[K:E] AA-AA- A2 GG | GxEF (GF)EA- | A3 G- GEF=G- |[K:E] GF-FE- ExEA- | AA-AA- A2 =GG- | G x7 | x8 | %23
+w: * * * say\_ * Re Jolee|* In the Lord\_ * * a|\-|* ways\_ * And a\-galn\- *|* I * say * agaln *|* * * * * * Jolee|||
+[K:E] x8 | x8 || x G-GA- AB-BB |[K:E] x G-GA- AB-BB | x G-GA- AB-BA- |[K:E] AA-AA- A2 GG | %29
+w: ||Come\_ * bless * the * Lord|come\_ * bless\_ * the * Lord|Draw\_ * near * to * wor\-|* ship * Christ\_ * the Lord|
+ x G-GA- AB-BB |[K:E] x G3/2-GA- AB3/2-B | x G3/2-GA- AB3/2-B | A-A-A(A- A/F/)E- E2 | %33
+w: And\_ * bless\_ * His * name|His\_ * ho\- * * name|de\- * clar\- * Ing\_ *|* * good * * * * *|
+[K:E] EE-EE- EE-EF- | F3 F- F2 x2 |[K:E] EE-EE- EE-EF- | F3 (F [FA]4-) | [FA]4 x2 =GG- |: %38
+w: O that * men * would * pralse|* Him\_ *|O that\_ * men\_ * * * *|* Him *|* Re Jolee|
+[K:E] GxEF (GF)EA- | A3 G- GEF=G- | GF-FE- ExEA- |[K:E] AA-AA- A2 GG- | GxEF (GF)EA- | %43
+w: * in the Lord * * a|\-|* ways\_ * And a\-galn\- *|* * * say\_ * a\-galn\- *|* * * say\_ * Re Jolee|* In the Lord\_ * * a|\-|
+ A3 G- GEF=G- |[K:E] GF-FE- ExEA- | AA-AA- A2 =GG- :| G x7 | x8 ||[K:E] =D(ED)E x B,xD | %49
+w: * ways\_ * And a\-galn\- *|* * * say\_ * agaln *|* I * * * * Jolee|||O that\_ * men would pralse|
+ x (E=D)E x4 |[K:E] x (E=D)E x EF(=G | F)EF(=G- G)E-E x |[K:E] =D(ED)E x B,xD | x (E=D)E x3 D | %54
+w: His * name|His * name to the ends|* of the earth * * *|O that\_ * men would pralse|His * name Pralse|
+[K:E] x (E=D)E x EF=G- | GA=GG- G2 x2 |[K:E] =D(ED)E x B,xD | x (E=D)E x4 |[K:E] x (E=D)E x E_ED- | %59
+w: His * name to the ends|* of the earth\_ *|O that\_ * men would pralse|His * name|His * name to the ends|
+ D=DDG- G2 x2 |[K:E] =D(ED)E x B,xD | x (E=D)E x2 EF |[K:E] =GF-FE- ExEA- | AA-AA- AxA=G- | %64
+w: * of the earth\_ *|O that * men would pralse|His * name And a\-|galn I\_ * say,\_ * agaln *|* * * say,\_ * agaln *|
+ G=G-GG- GxGA- |[K:E] AA-A(A x4 | x6 G)G- |: GxEF (GF)EA- |[K:E] A3 G- GEF=G- | GF-FE- ExEA- | %70
+w: * * * say,\_ * agaln *|* * * say|Re\-joice *|* In the Lord * * al\-|* ways\_ * And a\-gain\- *|* * * say\_ * a\-gain *|
+ AA-AA- A2 =GG- |[K:E] GxEF (GF)EA- | A3 G- GEF=G- | GF-FE- ExEA- |[K:E] AA-AA- A2 G(G- :| %75
+w: * * * say\_ * Re Jolee|* In the Lord * * a|\-|* ways\_ * And a\-gain *|* * * say\_ * a\-gain\- *|* I\- * say * Re\-joice *|
+ G4- GAGG-) | G4- GxG=G- |[K:E] (G4- GA=G)(F | [FA]4) x2 =G(G- | G4- GAGG-) | G4- GxG=G- | %81
+w: |* * Re\-joice *||* Re joice||* * Re joice|
+[K:E] (G4- GA=G)F- | F4 x2 [=GB]([GB]- | [GB]3 [FA]- [FA][Ac]-)[Ac][GB]- | %84
+w: |* Re\- Jolee||
+[K:E] ([GB]4 [GB])x[FA]([=GB]- | [GB]6 [=GB])[FA]- | [FA]4 x2 [GB][GB]- | x8 |] %88
+w: * * Re\-joice *||* Re\-Jo|ce\- *||
+V:3
+ z8 |: z G,-G,A,- A,B,-B,B, | z G,-G,A,- A,B,-B,B, |[K:E] z G,-G,A,- A,B,-B,=D- | D=D-DC- C2 B,B, | %5
+[K:E] z G,-G,A,- A,B,-B,B, | z G,-G,A,- A,B,-B,B, | z G,-G,A,- A,B,-B,=D- | %8
+[K:E] D=D-D(C- C/B,/A,- A,2) :| =C[C-C]>C[C-C]3/2 C<[C-C]C/=D- | D3 =D- D2 z2 | %11
+[K:E] =C[C-C]>C[C-C]3/2 C<[C-C]C/=D- | D3 =D- DzEE- ||[K:E] EzB,C (ECB,)F- | F3 E- EB,CE- | %15
+ E[=D-D]>D[=C-C]3/2 C/zC x |[K:E] FF-FF- F2 EE- | EzB,C (ECB,)F- | F3 E- EB,CE- | %19
+[K:E] E=D-D=C- CzCF- | FF-FF- F2 EE- | E z z2 z4 | z8 |[K:E] z8 | z8 || z G,-G,A,- A,B,-B,B, | %26
+[K:E] z G,-G,A,- A,B,-B,B, | z G,-G,A,3/2- A,B,-B, z/ |[K:E] FF-FE- E2 EE | z G,-G,A,- A,B,-B,B, | %30
+[K:E] z G,-G,A,- A,B,-B,B, | z G,-G,A,- A,B,-B,F- | F[F-F]>F([E-E]>=D)[C-C]3/2 C3/2 | %33
+[K:E] =CC-CC- CC-C=D- | D3 =D- D2 z2 |[K:E] =C[C-C]>C[C-C]3/2 C<[C-C]C/=D- | D3 =D- D4- | %37
+ D4 z2 EE- |:[K:E] EzB,C (ECB,)F- | F3 E- EB,CE- | E=D-D=C- CzCF- | %41
+[K:E] F[F-F]>F[F-F]3/2 F3/2 E x | EzB,C (ECB,)F- | F3 E- EB,CE- |[K:E] E=D-D=C- CzCF- | %45
+ FF-FF- F2 EE- :| E z z2 z4 | z8 ||[K:E] =D(ED)E z B,zD | z (E=D)E z2 z D |[K:E] z (E=D)E z EF(=G | %51
+ F)EF(=G- G)E-E z |[K:E] =D(ED)E z B,zD | z (E=D)E z2 z D |[K:E] z (E=D)E z EF=G- | GFEE- E2 z2 | %56
+[K:E] =D(ED)E z B,zD | z (E=D)E z2 z D |[K:E] z (E=D)E z DC=C- | C=CCE- E2 z2 | %60
+[K:E] =D(ED)E z B,zD | z (E=D)E z2 B,D |[K:E] E[=D-D]>D[=C-C]3/2 C/zC x | F[F-F]>F[F-F]3/2 F/zF x | %64
+ E[E-E]>E[E-E]3/2 E/zE x |[K:E] F[F-F]>FF3/2- x7/2 | F4 z2 EE- |: EzB,C (ECB,)F- | %68
+[K:E] F3 E- EB,CE- | E=D-D=C- CzCF- | FF-FF- F2 EE- |[K:E] EzB,C (ECB,)F- | F3 E- EB,CE- | %73
+ E=D-D=C- CzCF- |[K:E] FF-FF- F2 EE- :| E8- | E4- EzEE- |[K:E] (E6 E)=D- | D4 z2 EE- | E8- | %80
+ E4- EzEE- |[K:E] (E6 E)=D- | D4 z2 E(E- | E3 C-) CE-E(D- |[K:E] x4 D3) E- | E6 E=D- | %86
+ D4"^rit." z2 E(E | [E,E]8) |] %88
+V:4
+ x8 |: x8 | x8 |[K:E] x8 | x8 |[K:E] x8 | x8 | x8 |[K:E] x8 :| A,,A,,-A,,A,,- A,,A,,-A,,B,,- | %10
+ B,,3 B,,- B,,2 x2 |[K:E] =C,C,-C,C,- C,C,-C,=D,- | D,3 =D,- D,xE,E,- ||[K:E] E,xE,E, E,3 C,- | %14
+ C,3 C,- C,C,C,=C,- | C,=C,-C,C,- C,xC,=D,- |[K:E] D,-=D,-D,D,- D,2 E,E,- | E,xE,E, E,3 C,- | %18
+ C,3 C,- C,C,C,=C,- |[K:E] C,=C,-C,C,- C,xC,=D,- | D,=D,-D,D,- D,2 E,E,- | E, x7 | x8 |[K:E] x8 | %24
+ x8 || x G,-G,A,- A,B,-B,B, |[K:E] x G,-G,A,- A,B,-B,B, | x G,-G,A,3/2- A,B,-B, x/ | %28
+[K:E] D=DDC C2 B,B, | x G,-G,A,- A,B,-B,B, |[K:E] x G,-G,A,- A,B,-B,B, | x G,-G,A,- A,B,-B,=D | %32
+ D=DDC (C/B,/)A,- A,2 |[K:E] A,,A,,-A,,A,,- A,,A,,-A,,B,,- | B,,3 B,,- B,,2 x2 | %35
+[K:E] =C,C,-C,C,- C,C,-C,=D,- | D,3 =D,- D,4- | D,4 x2 E,E,- |:[K:E] E,xE,E, E,3 C,- | %39
+ C,3 C,- C,C,C,=C,- | C,=C,-C,C,- C,xC,=D,- |[K:E] D,=D,-D,D,- D,2 E,E,- | E,-xE,E, E,3 C,- | %43
+ C,3 C,- C,C,C,=C,- |[K:E] C,=C,-C,C,- C,xC,=D,- | D,=D,-D,D,- D,2 E,E,- :| E, x7 | x8 || %48
+[K:E] =D,(E,D,)E, x B,,xD, | x (E,=D,)E, x3 D, |[K:E] x (E,=D,)E, x E,F,(=G, | %51
+ F,)E,F,(=G,- G,)E,-E, x |[K:E] =D,(E,D,)E, x B,,xD, | x (E,=D,)E, x3 D, | %54
+[K:E] x (E,=D,)E, x E,F,=G,- | G,A,B,A,- A,2 x2 |[K:E] =D,(E,D,)E, x B,,xD, | x (E,=D,)E, x3 D, | %58
+[K:E] x (E,=D,)E, x E,^D,=D,- | D,=D,D,A,- A,2 x2 |[K:E] =D,(E,D,)E, x B,,xD, | %61
+ x (E,=D,)E, x2 E,E, |[K:E] =C,C,-C,C,- C,xC,=D,- | D,-=D,-D,D,- D,xD,A,- | A,-A,-A,A,- A,xA,B,- | %65
+[K:E] B,-B,-B,B,- B,4- | B,4- x2 E,E,- |: E,xE,E, E,3 C,- |[K:E] C,3 C,- C,C,C,=C,- | %69
+ C,=C,-C,C,- C,xC,=D,- | D,=D,-D,D,- D,2 E,E,- |[K:E] E,xE,E, E,3 C,- | C,3 C,- C,C,C,=C,- | %73
+ C,=C,-C,C,- C,xC,=D,- |[K:E] D,=D,-D,D,- D,2 E,(E,- :| E,6- E,C,-) | C,4- C,xC,=C,- | %77
+[K:E] (C,6- C,)=D,- | D,4 x2 E,(E,- | E,6 E,C,-) | C,4- C,xC,=C,- |[K:E] (C,6- C,)=D,- | %82
+ D,4 x2 E,(E,- | E,C,-C,F,- F,)A,-A,G, |[K:E] (E,4 G,3 C,-) | C,6 =C,=D,- | D,4 x2 E,E,- | x8 |] %88
+

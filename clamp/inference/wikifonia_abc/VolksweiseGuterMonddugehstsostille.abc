@@ -1,0 +1,32 @@
+X:1
+T:Guter Mond, du gehst so stille
+T:Volksweise
+T:Guter Mond, du gehst so stille
+C:Volksweise
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ GF |"C" E2 E2 EF GA | G"G"F D2 z2 GF |"C" E2"Am" E2 D"F"C D"G"E |"C" C4 z2"G" GF | %5
+w: 1.Gu- ter|Mond, du gehst _ so _|stil- * le durch die|A- bend- wol- * ken _|hin. Dei- nes|
+w: 2.Gu- ter|Mond, du wan- * delst _|lei- * se an dem|blau- en Him- * mels- *|zelt. Wo dich|
+w: 3.Gu- ter|Mond, so sanft _ und _|mil- * de glän- zest|du im Ster- * nen- *|meer. Wal- lest|
+"C" E2 E2 EF GA |"G" GF D2 z2 GF |"C" E2"Am" E2"F" DC"G" DE |"C" C4 z2 DE |"G" F2 D4 EF | %10
+w: Schöp- fers wei- * ser _|Wil- * le hieß auf|je- ner Bahn _ dich _|ziehn. Leuch- te|freund- lich je- dem|
+w: Gott zu sei- * nem _|Prei- * se hat als|Leuch- te hin- * ge- *|stellt. Blik- ke|trau- lich zu uns|
+w: in dem Licht- * ge- *|fil- * de hehr und|fei- er- lich _ ein- *|her. Men- schen|trös- ten, Got- tes-|
+"C" G2 E4 Gc |"F" A3 G AG FE |"C/G" (E2"G" D2) z2"G7" GF |"C" E2 E2 EF GA |"G" GF D2 z2 GF | %15
+w: Mü- den in das|stil- le Käm- * mer _|lein _ und dein|Schim- mer gies- * se _|Frie- * den ins be-|
+w: nie- der durch die|Nacht aufs Er- * den- *|rund _ als ein|treu- er Men- * schen- *|hü _ ter tust du|
+w: bo- te, der auf|Frie- dens- wol- * ken _|thront, _ zu dem|schöns- ten Mor- * gen- *|ro- * te führst du|
+"C" E2"Am" E2"F" DC"G" DE |"C" C4 z4 |] %17
+w: dräng- te Herz _ hin- *|ein.|
+w: Got- tes Lie- * be _|kund.|
+w: uns, o gu- * ter _|Mond.|
+

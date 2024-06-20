@@ -1,0 +1,28 @@
+X:1
+T:Is It True What They Say About Dixie
+T:Is It True What They Say About Dixie
+T:Gerald Marks
+T:Irving Caesar, Sammy Lerner
+C:Gerald Marks
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 ^A B2 d- |"G" d4 ^A B2 F- |"F#" F4 E F2 B,- |"G" B, D3- D2 z2 | z4 ^A B2 d- |"G" d4 ^A B2 F- | %6
+w: Is it true|* what they say|* a- bout Dix-|* ie? *|Does the sun|* real- ly shine|
+"F#" F4 E F2 E- |"Am" E8- | E2 z2 z ^D2 E |"Cm" c2 c2 c2 Bd- |"D7" d d3- d3 B |"Em" A2 A2 A G2 B- | %12
+w: * all the time?||* Do the|sweet mag- no- lias blos-|* som * at|ev- 'ry- bod- ies door?|
+ B6 G2 |"A7" F2 F2 F2 EA- | A A3- A3 E |"Cm" A2 A2 A B2 d- |"D7" d4 ^A B2 d- |"G" d4 ^A B2 F- | %18
+w: * Do|folks keep eat- ing pos-|* sum, * 'till|they can't eat no more?|* Is it true|* what they say|
+"F#" F4 E F2 B,- |"G" B, D3- D2 z2 | z4 ^A B2 d- |"G" d4 ^A B2 =A- |"G7" A4 G"G+" B2 A- |"C" A8- | %24
+w: * a- bout Swa-|* nee? *|Is a dream|* by that stream|* so sub- lime?||
+ A2"G7" z2 G G2 c- |"C" c2 z2 c c2 _d- |"Eb7" d2 z2 _d d2 =d- |"G" d2 d2 B2 GF- | %28
+w: * Do they laugh,|* do they love,|* like they say|* in ev- 'ry song?|
+"F7" F4"E7" ^D E2 B- |"A7" B4 ^D E2 d- |"D7" d6 B2 |"G" G4"Bdim" z4 |"D7" z4 ^A"G" B2 d :| G8- | %34
+w: * If it's true|* that's where I|* be-|long.|Is it true|long.|
+ G2 z2 z4 |] %35
+w: |
+

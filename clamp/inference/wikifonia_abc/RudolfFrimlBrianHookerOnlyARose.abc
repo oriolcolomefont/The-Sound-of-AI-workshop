@@ -1,0 +1,22 @@
+X:1
+T:Only A Rose
+T:Only A Rose
+C:Rudolf  Friml
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"F" CDA,C- C4- | C4"C7" A4 |"F" (GAG)F- F4- |"F7" F8 |"Bb" FGDF- F4- | F4"Bbm" (3G2 A2 B2 | %6
+w: On- ly a rose _|_ I|give _ _ you _|_|On- ly a song _|_ dy- ing a-|
+"F" c8- | c8 |"C7" CDCG- G4- | G2 G2 A2 B2 |"F" (3A2 G2 F2- F4- | F8 |"A" E^F^CE- E4- | %13
+w: way,|_|On- ly a smile _|_ To keep in|mem- o- ry _|_|Un- til we meet _|
+"E7" E4 (3^F2 E2 F2 |"A""D7" (A8 |"G7""C7" G8) |"F" CDA,C- C4- | C4"C7" A4 |"F" (GAG)F- F4- | %19
+w: _ An- oth- er|day.|_|On- ly a rose _|_ To|whis- * * per _|
+"F7" F8 |"Bb" FGDF- F4- | F4 d4 |"D7" c8- | c8 |"Gm" B2 AB A2 G2 |"Bb" B2 AB A2 G2 | %26
+w: _|Blush- ing as ro- *|* ses|do.|_|I'll bring a- long a|smile or a song for|
+"F" A2 Bc- c4- | c8 |"C7" CDCG- G4- | G4 A4 |"F" F8- | F6 z2 |] %32
+w: an- y- one _|_|On- ly a rose _|_ for|you.|_|
+

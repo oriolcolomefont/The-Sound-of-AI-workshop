@@ -1,0 +1,53 @@
+X:1
+T:Right Here Waiting
+T:Right Here Waiting
+C:Richard Marx
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C" CGcg gfed |"G" G,DGd defe |"Am" A,Ccc- cd-de- |"F" e d2 c- c"G"BAG |"C" z2 CG GFED | %5
+w: |||||
+w: |||||
+"G" z2 G,D DEFE |"Am" z2 CC- CDEF- |"F" F E2 D-"G" DCB,C- |"Am" C2 A,E- E C2 A, | z2 A,E- E C3 |: %10
+w: |||||
+w: |||||
+"C" z4 Gcd(d- |"F" de- e2) edc(d- |"Dm" dc/A/- A4) AB |"G" c d2 B- B2 GG- |"C" G2 z2 Gcdd- | %15
+w: O- ceans a- part|_ _ _ day af- ter day,|_ _ _ _ and I|slow- ly go _ in- sane.|_ I hear your voice|
+w: I took for gran-|* ted _ all _ the times|_ _ _ _ that I|thought would last _ some- how.|_ I hear the laugh-|
+"F" de- e2 (ed)c(d- |"Dm" dc/A/- A2) z2 AB |"G" c d2 B- B2 cc- |"Am" c2 z z/ c/ cdef- | %19
+w: _ _ _ on _ the line|_ _ _ _ but it|does- n't stop _ the pain.|_ If I see you next|
+w: * ter- * I taste the tears|_ _ _ _ But I|can't get near _ you now|_ _ Oh can't you see|
+"Dm" f2 ec- cd d2 |"Am" z4 cdef- |"Dm" f2 ed-"G" dc- c2 |"C" z2 z g gfed- |"G" d3 d defe- | %24
+w: _ to nev- * er _|How can we say|_ for- ev- * er? _|Where- ev- er you go|_ what ev- er you do,|
+w: _ it ba- * by _|You've got me go-|* ing cra- * zy. _|||
+"Am" e2 cc- c d2 e- |"F" e d2 c- c"G"BAG- |"C" G2 z g gfed- |"G" d3 d defe- |"Am" e2 cd- d e2 f- | %29
+w: _ I will _ be right|_ here wait- * ing for you.|_ What ev- er it takes|_ or how my heart breaks,|_ I will _ be right|
+w: |||||
+"F" f e2 d-"G" dcBc- |1"Am" c2 A,E- E C2 A, :|2"Dm7" c4 z Gcd |"C/E" e2 fe- e2 GA- || %33
+w: _ here wait- * ing for you||* I won- der|how we can _ sur- vive|
+w: ||||
+"F" A4 z cd(c- | cA/G/- G2) z4 |"Dm7" z4 z Gcd |"C/E" e2 fe- e2 GA- |"F" A2 cc- c2 gg- | %38
+w: _ this ro- mance|_ _ _ _|But in the|end if I'm _ with you|_ I'll take _ the chance.|
+w: |||||
+"G" g4"Am" C2"G" D2 |:"C" E2 z g gfed- |"G" d3 d defe- |"Am" e2 cc- c d2 e- |"F" e d2 c- cB"G"AG- | %43
+w: |||||
+w: |||||
+"C" G2 z g gfed- |"G" d3 d defe- |"Am" e2 cd- d e2 a- |"F" a g2 f-"G" fede- |1"Am" e2 z2 cdef- | %48
+w: |||||
+w: |||||
+"Dm" f2 ec- cd- d2 |"Am" z4 cdef- |"Dm" f2 ec- c"G"c-cA/G/ :|2"C" CGcg gfed ||"G" G,DGd defe | %53
+w: |||||
+w: |||||
+"Am" z2 cc- cd-de- |"F" e d2 c- cB"G"AG |"C" z2 cg gfed- |"G" d2 Gd defe- |"Am" e2 cd d e2 f- | %58
+w: |||||
+w: |||||
+"F" f e2 d-"G" dc B2 |"C" c8 |] %60
+w: ||
+w: ||
+

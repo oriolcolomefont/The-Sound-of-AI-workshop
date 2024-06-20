@@ -1,0 +1,34 @@
+X:1
+T:There's A Kind Of Hush
+T:There's a kind of hush
+T:Les Reed and Geoff Stephens
+C:Les Reed, Geoff Stephens
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+ EF |:"C" G3 G G2"E7" z2 | e2 dc B2 A2- |"Am" A z z2 A2 _B2- |"C7" _B z ed c_B A2- | %5
+w: There's a|kind of hush|all o- ver the world|* to- night,-|* all ov- er the world|
+w: |two of us|and no- bod- y else|* in sight|* There's no- bod- y else|
+"F" AAF A2 c2 B- | B"G7" z BB cd z G- | G"C" z z2 z2 z G |"G7" fe f d2- d"^N.C." EF :| %9
+w: * you can hear the sounds|_ of lov- ers in love|* You|know what I mean _ Just the|
+w: * and I'm feel- ing good|_|||
+ B z BB c d2 c- | c z z2 z2 z c |"F" c2 A2 A2 cd- |"Dm" d2 A-A- A z z2 |"F" e2 AA- A z e2 | %14
+w: * Just hold- ing you *|* So|lis- ten ver- y care-|* ful- ly *|Clos- er now * and|
+w: |||||
+"Dm" d2 AA- AGF"C"G- | G z G2 AGFG- | G4 z4 | z4 z2"C7" c z |"F" c2 AA- A2 c2 |"Dm" d A2 A z2 d2 | %20
+w: you will see * what I mean|* It is- nt a dream||The|on- ly sound * that|you will hear is|
+w: ||||||
+"F" e2 A2 A e2 d- |"Dm" d A2 A- AGFG- |"G7" G4 z4 | G2 fe fe z2 | e z d6- | d z z2"^N.C." E2 F2 | %26
+w: when I whis- * in|* your ear * I love you||for- ev- er and ev-|er *|* There's a|
+w: ||||||
+"C" G z2 z G z"E7" G2 | e2 dc B A3- |"Am" A4 A z _B2- |"C7" _B2 e2 dc_BA- |"F" AAFA c2 B2- | %31
+w: kind of hush|all o- ver theworld *|* To- night|* all ov- er the world|* You can hear the sounds|
+w: |||||
+"G7" B2 B2 Bcd z |"C" c8- | c4 z4 |] %34
+w: * of lov- ers in|love.||
+w: |||
+

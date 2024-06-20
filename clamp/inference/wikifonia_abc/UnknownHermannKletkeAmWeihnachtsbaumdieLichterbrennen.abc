@@ -1,0 +1,19 @@
+X:1
+T:Am Weihnachtsbaum die Lichter brennen
+T:
+T:Am Weihnachtsbaum die Lichter brennen
+T:
+T:Hermann Kletke
+C:Unknown
+Z:Public Domain
+L:1/8
+M:3/4
+K:C
+V:1 treble 
+%%MIDI program 1
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z z2 C CE |"C" G2 EG"F" cA |"C" G2 EG AG |"Dm" F2 D2 GG |"G" E2"C" z E EG |"^F\nC" F2 DF"G" FA | %6
+ G2"C" EE EG | F2"F" D2"Fm" G"G4"G |"C" E2 z4 | %9
+

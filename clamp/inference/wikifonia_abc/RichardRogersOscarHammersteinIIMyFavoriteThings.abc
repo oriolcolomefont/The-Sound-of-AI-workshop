@@ -1,0 +1,34 @@
+X:1
+T:My Favorite Things
+T:My Favorite Things
+T:Richard Rodgers
+T:Oscar Hammerstein II
+C:Richard Rogers
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:G
+V:1 treble 
+%%MIDI program 40
+V:1
+"Em7" E B B |"F#m7" F E E |"Em7" B, E E |"F#m7" F E2 |"Cmaj7" E B B | F E E | B, E E | F E2 | %8
+w: Rain- drops on|ro- ses and|whis- kers on|kit- tens|Bright cop- per|ket- tles and|warm wool- en|mit- tens|
+"Am7" E B A |"D7" E F D |"Gmaj7" D A G |"Cmaj7" C3 |"Gmaj7" B, C D |"Cmaj7" E F G |"F#m7b5" A B A | %15
+w: Brown pa- per|pack- a- ges|tied up with|string|These are a|few of my|fa- vor- ite|
+"B7" ^D3 ||"Em7" E B B |"F#m7" F E E |"Em7" B, E E |"F#m7" F E2 |"Cmaj7" E B B | F E E | B, E E | %23
+w: things|Cream col- onored|po- nies and|crisp ap- ple|stru- dels|door- bells and|sleigh bells and|schnit- zel- with|
+ F E2 |"Am7" E B A |"D7" E F D |"Gmaj7" D A G |"Cmaj7" C3 |"Gmaj7" B, C D |"Cmaj7" E F G | %30
+w: nood- les|Wild geese that|fly with the|moon on their|wings|These are a|few of my|
+"F#m7b5" A B A |"B7" ^D3 ||"Emaj7" E B B |"F#m7" F E E |"Emaj7" B, E E |"F#m7" F E2 | %36
+w: fa- vor- ite|things|Girls in white|dres- ses with|blue sat- in|sash- es|
+"Amaj7" E B B | F E E | B, E E | F E2 |"Am7" E B A |"D7" E F D |"Gmaj7" D A G |"Cmaj7" C3 | %44
+w: snow- flakes that|stay on my|nose and eye-|lash- es|Sil- ver white|win- ters that|melt in- to|spring|
+"Gmaj7" B, C D |"Cmaj7" E F G |"F#m7b5" A ^A B |"B7b9" c3 ||"Em7" z B B | B2 E |"F#m7b5" z A A | %51
+w: These are a|few of my|fa- vor- ite|things|When the|dog bites|When the|
+"B7" A2 ^D |"Em7" z G G | G2 B, |"Cmaj7" E3- | E2 E ||"Cmaj7" E F E | F E F |"A7" G A G | A2 G | %60
+w: bee stings|When I'm|feel- ing|sad|* I|sim- ply re-|mem- ber my|fa- vor- ite|things and|
+"Gmaj7" B c B |"Cmaj7" c3- | c3 |"D7" B3 ||"G6" G3- |"Cmaj7" G3- |"G6" G3- |"Cmaj7" G3 | %68
+w: then I don't|feel||so|bad||||
+"Gmaj7" z3 |"Cmaj7" z3 |"F#m7b5" z3 |"B7" z3 |] %72
+w: ||||
+

@@ -1,0 +1,61 @@
+X:1
+T:Essa moça ta diferente
+T: 
+T:Chico Buarque
+T: 
+T:3)	              Bm          G9    /   F#9#  	Bm7                 B9b Eu cultivo rosas e rimas achando   que Ž muito bom Em9  /  A13  Am6/G7M   	G7             F#7 ƒla me olha  de  cima e vai desinventar o som 
+T:     		                     Bm	           G9  / Passo de um concerto de flauta /F#9#	     Bm7    	                 B9b e n‰o me desperto emo?ao Em9   /  A13  Am6 / G7M      G7         F#7 ƒla quer ver astronauta descer na televisa˜ 
+C:Chico  Buarque
+Z:All Rights Reserved
+L:1/16
+Q:1/4=60
+M:2/4
+K:Bmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Bm11" [DFc]4 z4 | [DFB]4 z2"G13" [B,EA]2- | [B,EA]4 z2 G2 |"F#7#9" [CEA]4 G4 |"Bm" F4 z4 | z4 f4 | %6
+w: ||||||
+w: ||||||
+w: ||||||
+"F#m7b5" f8 |"B7" F8 |"Em9" z2 f2 d2B2 |"A13" f2d2 e4- |"Am" e8 |"G13" d2e2 d2B2 |"G9" z2 d2 z4 | %13
+w: |||||||
+w: |||||||
+w: |||||||
+ d4 z4 |"F#7" f4 z4 | z F2E D2C2S |:"Bm7" B,2D2 F2^E2- |"G7" EF2=E"F#7" D2C2 |"Bm7" B,2D2 F2A2- | %19
+w: ||1/5)Es- sa mo- �a|t‡ di- fe- ren-|* te J‡ n‹o me|co- nhe- ce mais|
+w: |||t‡ de- ci- di-|* da'A se su- per-|mo- der- ni- zar|
+w: |||tal da ja- ne-|* la Que'eu me can-|sei de can- tar|
+"B7b9" A2>F2 A2^A2 |"Em9" B2d2"A13" B2=A2- |"Am6" Ad2A"G" G2F2 |"G7" D2=F2 E2C2- |1 %23
+w: * Es- t‡ pra|l‡ de pra fren-|* te'Es- t‡ me pas-|san- do pra tr‡s|
+w: * E- la s—|sam- ba'es- con- di-|* da Que'Ž pra nin-|guŽm re- pa- rar|
+w: _ E'a- go- ra'es-|t‡ s— na de-|* la Bo- tan- do|s— pra que- brar|
+"F#7" CF2E D2C2 :|2"F#7" CF2F edB2S |:"Bm7" z F2F edB2 |"Bm7/A" z F2F edB2 |"G" z G2G fed2 | %28
+w: * Es- sa mo- �a|* Mas o tem- po vai|Mas o tem- po vem|E- la me des- faz|Mas o que'Ž que tem|
+w: * Eu cul- ti- vo|||||
+w: |||||
+"Bm7/F#" z F2F ^G2B2 |"C#dim" ^A2>g2- gf2e- |"Bm7" ed2f b2fd |1"G7" d2e2 d2c2- |"F#7" cF2F edB2 :|2 %33
+w: Que'e- la s— me|guar- da _ des- pei-|* to Que'e- la s— me|guar- da des- dŽm|_ la'ain- da me quer bem|
+w: Se do la- do'es-|quer- do _ do pei-|* to No fun- do e|||
+w: |||||
+"G7" dd2d-"F#7" dc2B ||"Bm7" z F2E D2C2S ||"Bm7""^Solo" BF z2 z3 B |"G9" eedd"F#7" BBcA | %37
+w: la'ain- da me _ quer bem|Es- sa mo- �a|||
+w: ||||
+w: ||||
+"Bm7" BF z2 z3 B |"F#m7b5" AA=cc"B7" BAGF |"Em7" GE z2"A13" z2 DE |"Am7" =CEGA"G" BdBG | %41
+w: ||||
+w: ||||
+w: ||||
+{/c}"G7" d6 z G |"F#" ddcc ^AAGG ||"Bm" F2{/=c}^cB z4 |"G9" G2{/=f}^f"F#7#9"e z4 | %45
+w: ||||
+w: ||||
+w: ||||
+"Bm7" F2{/=c}^cB z2 B_B |"F#m7b5" (3A2B2=c2"B7" F4 |"Em7" E4"A13" A4 |"Am7" A4"G" G4 |"G7" G8 | %50
+w: |||||
+w: |||||
+w: |||||
+"F#" F8 |] %51
+w: |
+w: |
+w: |
+

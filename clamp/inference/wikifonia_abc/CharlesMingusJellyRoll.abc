@@ -1,0 +1,18 @@
+X:1
+T:Jelly Roll
+T:Jelly Roll
+T:Charles Mingus
+T:1959 Columbia Records
+C:Charles Mingus
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Ab
+V:1 treble 
+%%MIDI program 40
+V:1
+|:"Eb7" e=d_dc- c_c B2 | e=d_dc- c4 | e=d_dc- c_c B2 | e=d_dc- c4 |"Ab7" AB=Bc z c3 | AB=Bc- c4 | %6
+"Db7" A=AB_c z c3 | A=AB_c- _c4 | z"Ab7" _g3"^G+7" e2"Gb7" d2 |"F7" c2 B=A- A3 d | %10
+"^Bb-7" cdcd c E2 d |"Eb7" cdcd cEFA- |"Ab7" A8- | A8 :|"Eb7" z8 | z8 | z8 | z8 |"Ab7" z8 | z8 | %20
+"Db7" z8 | z8 | z"Ab7" z"^G+7" z2"Gb7" z4 |"F7" z8 |"^Bb-7" z8 |"Eb7" z8 |"Ab7" z8 | z8 |] %28
+

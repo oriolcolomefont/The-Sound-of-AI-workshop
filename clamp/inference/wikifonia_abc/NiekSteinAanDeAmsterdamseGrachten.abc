@@ -1,0 +1,55 @@
+X:1
+T:Aan De Amsterdamse Grachten
+T: Laukens Music Productions  
+T:AAN DE AMSTERDAMSE GRACHTEN
+T:Wals
+T:Arr. H .Laukens 
+T:2
+T:AAN DE AMSTERDAMSE GRACHTEN blad 2 van 
+T: Laukens Music Productions  
+T:3
+T:AAN DE AMSTERDAMSE GRACHTEN blad 3 van 
+T: Laukens Music Productions  
+C:Niek Stein
+Z:All Rights Reserved
+L:1/8
+Q:1/4=165
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"G" (3GBd (3gdB (3GBd |"Bm" (3FAd (3fdA (3FAd |"C" (3EGc (3ecG (3EGc |"D7" (3DFA (3dAF (3DFA | %4
+"G" (3GBd (3gdB (3GBd |"Bm" (3FAd (3fdA (3FAd |"C" (3EGc (3ecG (3EGc |"D7" (3DFA (3dAF (3DFA || %8
+"G" G3 A BG |"Bm" F3 G AF |"C" E3 F GE |"D7" (3DFA d2 z2 |"G" ga bg dg |"Bm" fg af df | %14
+"C" ef ge ce |"E7" d2 z2 z2 |"Am" A3 B cd |"Dm7" e3 d cB |"Cm7" AB AG FE |"D7" D3 F Ad | %20
+"Em" GA BG EG |"A7" ^CE GB AG |"D7" G,C EG ce | d2 z2 z2 |"G" d2 de fg |"Bm" f6 |"C" B2 Bc de | %27
+"D7" d6 |"G" G2 GA Bc |"Bm" d2 dc d2- |"C" d2 d3 c |"E7" d4 z2 |"Am" A4 Bc |"Am" _e4 dc | %34
+"D7" (3ded ^cd fa | d'2 z2 z2 |"A7" B4 G2 |"D7" F2 G2 A2 |"G" G2 GA Bc |"Bm" d2 d2 d2 | %40
+"C" e2 e2 eg |"D7" d2 z2 d2 ||[K:Gmin]"Gm" g4 g2 |"Cm" a2 g2 f2 |"Gm" d4 d2 |"D7" c2 B2 c2 | %46
+"Gm" d2 gd gd | (3^fff fd fd | (3!courtesy!=fff fd fd | =e2 z2 d2 |"Gm" g4 g2 |"F7" f2 g2 f2 | %52
+"Bb" d4 d2 |"D7" c2 B2 A2 |"Gm" d3 B AG |"Cm" e3 c AG |"Gm" d3 B AG |"D7" ^F2 z2 d2 |"Gm" g4 g2 | %59
+"Cm" a2 g2 f2 |"Gm" d4 d2 |"D7" c2 B2 c2 |"Gm" d2 gd gd | (3^fff fd fd | (3!courtesy!=fff fd fd | %65
+ =e2 z2 d2 |"Cm" c4 d2 | e2 d2 c2 |"Gm" d4 B2 |"D7" c2 B2 A2 |"Gm" G2 B2 d2 | %71
+"D7" (3cdc (3BcB (3ABA |"Gm" G2 z2 z2 | A2 B3 G |"Cm7" B6 |"F7" A6 |"Bbmaj7" A6 |"Gdim" G6 | %78
+"Cm7" B6 |"F7" A2 B2 c2 |"Bb" d6 |"G7" d2 e2 f2 |"Cm9" d6 |"Cdim" c6 |"Gm" c6 | B6 |"A7" A4 B2 | %87
+ c2 d2 e2 |"D7" d2 d=e ^fd | c2 cd =ec | =B2 Bc dB | A2 A=B cA ||[K:G]"G" G3 A BG |"Bm" F3 G AF | %94
+"C" E3 F GE |"D7" (3DFA d2 z2 |"G" ga bg dg |"Bm" fg af df |"C" ef ge ce |"E7" d2 z2 z2 | %100
+"Am" A3 B cd |"Am7" e3 d cB |"Cm7" AB AG FE |"D" D3 F Ad |"Em" GA BG EG |"A7" ^CE GB AG | %106
+"D7" G,C EG ce | d2 z2 z2 |"G" d2 de fg |"Bm" f6 |"C" B2 Bc de |"D7" d6 |"G" G2 GA Bc | %113
+"Bm" d2 dc d2- |"C" d2 d3 c |"E7" d6 |"Am" A4 Bc |"Am7" _e4 dc |"D7" (3ded ^cd fa | d'2 z2 z2 | %120
+"A7" B4 G2 |"D7" F2 G2 A2 |"G" G4 z2 |"E7" z2 [^GBe][GBe] [GBd][GBd] || %124
+[K:A]"A" [EAc][EAc] [EAc][EAc] [EAc][EAc] |"C#m" [Gce][Gce] [Gce][Gce] [Gce][Gce] | %126
+"F#m" =g/=f/e/_e/ d/c/=c/B/ _B/A/G/=G/ |"E7" F z [GBe][GBe] [GBd][GBd] | %128
+"A" [EAc][EAc] [EAc][EAc] [EAc][EAc] |"C#m" [ce][ce] [ce][ce] [ce][ce] | %130
+"D" [dfa][dfa] [dfa][eg] [df][df] |"F#7" [F^Ae][FAe] [FAf][FAf] [FAc][FAc] | %132
+"Bm" (3F=G^G (3A^AB (3^Bcd |"Bm7" (3c=cB (3_BA=G (3F=FE |"E7" [EGd][EGd] [EGd][EGd] [EGd][EGd] | %135
+ [EGd][EGd] [EGc][EGc] [EGB][EGB] |"F#m" [CFA][CFA] [CFA][CFA] [CFA][CFA] | %137
+"B7" [^DFA][DFA] [DFB][DFB] [DFc][DFc] |"Bm" [DFB][DFB] [DFB][DFB] [DFB][DFB] | %139
+"E7" [DGB][DGB] [DGB][DGB] [DGB][DGB] |"A" e2 ef ga |"C#m" g6 |"F#m" c2 cd ef |"E7" e6 | %144
+"A" A2 AB cd |"C#m" e2 ed e2- |"D7" e2 e3 d |"F#7" e6 |"Bm" B4 cd | =f4 ed |"E7" (3efe ^de gb | %151
+ e'2 z2 z2 |"B7" c4 A2 |"E7" G2 A2 B2 |"A" A,B, CD EF | GA Bc de |"D" [Adf]2 z2"E7" [Beg]2 | %157
+"A" [cea]2 z2 z2 |] %158
+

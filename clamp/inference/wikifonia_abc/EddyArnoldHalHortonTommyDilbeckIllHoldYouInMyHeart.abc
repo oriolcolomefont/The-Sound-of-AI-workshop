@@ -1,0 +1,24 @@
+X:1
+T:I'll Hold You In My Heart
+T:I'll Hold You In My Heart
+C:Eddy Arnold
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"C7" z2 C2 |:"F" c4- c=Bc_B |"F7" A4- AGFG |"Bb" F4- FEFE |"Ddim" D6 DD |"F" [CC]4 F2 A2 | %6
+w: I'll|hold _ you in my|heart, _ till I can|hold _ you in my|arms, like you've|nev- er been|
+"Cdim" c6 A2 |"C7" G8- | G6 C2 |"F" c4- c=Bc_B |"F7" A4- AGFG |"Bb" F4- FEFE |"Ddim" D6 D2 | %13
+w: held be-|fore.|_ I'll|think _ of you each|day, _ and that I'll|dream _ the night a-|way. Till|
+"F" C4- CCCF |"C7" E6 G2 |"F" F8- | F6 F2 |"Bb" d4- dBFB | d8 |"F" c4- cAFA | c8 |"G7" A4 A2 G2 | %22
+w: you _ are in my|arms once|more.|_ The|stars _ up in the|sky|know _ the rea- son|why,|I feel so|
+ D4- DDEF | A6 d2 |"C7" G6 C2 |"F" c4- c=Bc_B |"F7" A4- AGFG |"Bb" F4- FEFE |"Ddim" D6 D2 | %29
+w: blue _ when I'm a-|way from|you. I'll|hold _ you in my|heart _ 'til I can|hold _ you in my|arms so,|
+"F" C2 F6 |"C7" E4 F2 G2 |1"F" F8- | F6 C2 :|2"F" F8- | F6 z2 |] %35
+w: dar- ling,|please wait for|me.|_ I'll|me.|_|
+

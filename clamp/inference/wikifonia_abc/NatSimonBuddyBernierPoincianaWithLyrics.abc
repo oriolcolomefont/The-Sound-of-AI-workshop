@@ -1,0 +1,33 @@
+X:1
+T:Poinciana (With Lyrics)
+T:Poinciana
+C:Nat Simon
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:S"D13" d8- | d4"Am7" c2 e2 |"D13" d8- | d4"Am7" c2 e2 |"D13" d8- |"D9" d4 c2 A2 |1"G6" G8- | %7
+w: Blow|_ trop- ic|wind,|_ sing a|song,|_ thru the|trees|
+w: Trees|_ sigh to|me,|_ soon my|love|_ I will||
+ G8 :|2"G6" G8- || G8-!fine! || G2 z2"D9" d3 B |"Gmaj7" A4 A4- | AGAB dBAG |"Dm7" =F8- |"G9" F8 | %15
+w: _|see.|_|* Poin ci-|an- a,|_ your branch- es speak to me of|love.|_|
+w: ||||||||
+"Cm6" _E4 E4- | E_E=FG _BGFE |"Gmaj9" D8- |"Am7" D2 z2"D7" d3 B |"Gmaj9" A4 A4- | AGAB dBAG | %21
+w: Pale moon|_ is cast- ing shad- ows from a-|bove.|_ Poin- ci-|an- a,|_ some- how I feel the jun- gle|
+w: ||||||
+"Dm7" =F8- |"G9" F6 z =F |"Cm6" _E4 E4- | E_E=FG _BGFE |"Gmaj9" D8- | D6"G7" z2 | %27
+w: heat.|_ With-|in me|_ there grows a rhyth- mic sav- age|beat.|_|
+w: ||||||
+"Cm" _E=FGA _B3 A |"Cm6" c3 _B AGFG |"Dmaj7" A8- | A6 z2 |"Cm" _E=FGA _B3 A |"Cm6" c3 _B AGFG | %33
+w: Love is ev- 'ry where, it's|ma- gic per- fume fills the|air.|_|To and fro you sway, my|heart's in time, I've learned to|
+w: ||||||
+"D""Ddim7" d8- |"D7" d2 z2 d3 B |"Gmaj9" A4 A4- | AGAB dBAG |"Dm7" =F8- |"G9" F8 |"Cm6" _E4 E4- | %40
+w: care.|_ Poin- ci-|an- a,|_ though skies may turn from blue to|gray,|_|My love|
+w: |||||||
+ E_E=FG _BGFE |"Gmaj7" D8- | D6 z2!D.S.! :| %43
+w: _ will live for- ev- er and a|day.||
+w: |||
+

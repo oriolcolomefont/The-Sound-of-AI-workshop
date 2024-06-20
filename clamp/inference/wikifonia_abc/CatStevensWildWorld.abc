@@ -1,0 +1,34 @@
+X:1
+T:Wild World
+T:WILD WORLD 
+T:CAT STEVENS
+T: 
+T:Repeat chorus ad lib & fade
+C:Cat Stevens
+Z:All Rights Reserved
+L:1/16
+Q:1/4=60
+M:4/4
+K:D
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ F,2 |:"Bm7" z3 d dddd"E7" dddd e2d2 |"A" c4 z ccc"D" cccd d2c2 |"G" B4 z BBB"Em" BBBc c2B2 | %4
+w: |* Now that I've _ lost _ ev- 'ry- thing to|you You said you wan- na start * some- thing|new * & it's break- in' my heart _ you|
+w: |You know I've seen a lot of what the world can|do & * it's brea- kin' my heart * in|two Be- cause I ne- ver wan- na see you|
+"F#7" ^A4 F4 AAAB- B2c2 ||"Bm7" z3 d dddd"Em7" d4 e2d2 |"A" c4 cccc"D" ccc2 d2c2 | %7
+w: lea- vin' Ba- by, I'm grie- * vin'|But if you wan- na leave, take good|care hope you have a lot of nice things to|
+w: sad girl Don't be a bad _ girl|But if you wan- na leave, take good|care hope you make a lot of nice friends out|
+"G" B4"Em" z BBB BBBB c2B2 |[M:2/4]"F#7" ^A2F2 F2=A2- |[M:4/4]"A" A2A2 G2G2 F2F2 E2E2 || %10
+w: wear But then a lot of nice _ things turn|bad _ out there||
+w: there But just re- mem- ber there's a lot of|bad & be- ware||
+S"D" z4 f4"A" e2dc- cdec |"G" d4 B4 (dcBA GFED) |"A" z3 c cccB-"G" B4 GABG |"D" A8 AABd- ddBA | %14
+w: Oh, ba- by, ba- * by, it's a|wild world _ _ _ _ _ _ _ _|It's hard to get by _ just u- pon a|smile * * * * * * * *|
+w: ||||
+"D" z4 f4"A" e2dc- cdec |"G" d4 B4 (dcBA GFED) |"A" z3 c cccB-"G" B2<B2 GABG |1 %17
+w: Oh, ba- by, ba- * by, it's a|wild world * * * * * * * *|I'll al- ways re- mem- * ber you just like a|
+w: |||
+"D" A8"Em" F4"F#7" z4 :|2"D" A4- A2-A2 AABd- ddBAS |] %19
+w: child, girl||
+w: ||
+

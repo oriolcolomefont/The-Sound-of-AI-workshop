@@ -1,0 +1,54 @@
+X:1
+T:It Ends Tonight
+C:All-American Rejects
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+V:1
+"_Anote""^Am7" A,2 c2 c2 E2 |"^Am7/G" G,2"_Gnote" c2 c2 E2 |"_Fnote""^Fmaj7" F,2 c2 c2 E2 | %3
+w: |||
+"^Am7/G" G,2"_Gnote" c2 c2 E2 |"^Am" E2-zG, GG{D} E2- |"^F" E2zG, GG{D} E2- |"^Dm" EC C2 D2 C2 | %7
+w: |* Your sub- tle- *|* they stran- gle *|* * I can't ex-|
+"^Em"{E} F2 E2 DCB,C- |"^Am" C2zG, GG"^/G"{D} E2- |"^F" E2zG, GG"^F/E"{D} E2- |"^Dm" EC C2 D2 C2 | %11
+w: * my- self at all _|_ And all the *|* and all the *|* * All I don't|
+"^Em" F2 E2 DCB,C- |"^Fsus2" C2zG, E>C- CB,- | B, C2G, E>C- CB,- |"^Csus2" B, C2zzC CG | %15
+w: want to need _ at all|_ The walls start * breath-|* * my minds un- _ weaving|_ _ may- be it's|
+ G>F- FE- EGCC- |"^Fsus2" C2zG, E>C- CB,- |"^C/E" B, C2 z E>C- CB,- |"^Dm7" B, C2 z G2 FF | %19
+w: best you _ leave * me a- lone|_ a weight is * lifting|* * on this _ e-|_ vening I give the|
+ E>G- GC z2 C2 |"^Csus2" G2{E} F2 E2 FE- |"^Fsus2" E2E z D2 CG,- |"^Am7" G,2E z D2 CG,- | %23
+w: final _ _ blow When|dark- * turns to light|_ it ends to- night|_ It ends to- night|
+"^Gsus4" G,2 z2 z2 z2 |"^Am"z2>G,2 GG{D} E2- |"^F" ECCA, CD E2- |"^Dm" EC C2 D2 G2 | %27
+w: _|A fall- ing *|* * at least I fall a-|_ lone I can't ex-|
+"^Em" E2 CC D>G- GE- |"^Am" E2zG, GG{D} E2- |"^F" ECCA, CD{D} E2- |"^Dm" E z C2 D2 G2 | %31
+w: plain what you can't ex- _ plain|_ Your find- ings *|* that you did- n't know _|_ I look at|
+"^Em"{F} GE E2 E>E- EC- |"^Fsus2" C2zG, E>C- CB,- | B, C2G, E>G- GG- |"^Csus2" GE D2zC CG | %35
+w: * * with such dis- * tain|_ The walls start _ breath-|_ ing, my minds un- _ weav-|_ ing _ May- be it's|
+ G>F- FE- EGCC- |"^Fsus2" C2zG, E>C- CB,- |"^C/E" B, C2 z E>G- GG- |"^Dm7" GE D2 G2 FF | %39
+w: best you * leave * me a- lone|_ A weight is _ lift-|_ ing on this * e-|_ ven- ing I give the|
+ E>G- GC z2 C2 |"^Csus2" G2{E} F2 E2 FE- |"^Fsus2" E2E z D2 CG,- |"^Am7" G,2E z D2 CG,- | %43
+w: fin- al * blow When|dark- * turns to light|_ It ends to- night,|_ It ends to- night|
+"^Gsus4" G,2 CC DC C2 |"^Csus2" G2zF E>G- GC- |"^Fsus2" C2 E2 D2 CG,- |"^Am7" G,2 E2 D2 CG,- | %47
+w: _ Just a lit- tle in-|sight won't make this * right|_ it's- late to fight|_ It ends to- night|
+"^Gsus4" G,zzE D>C- CC- |"^Am7" C2 z2 C2 C2 |"^Gsus4" C2 C2 G2 ED- |"^D/F#" DzzD EEDC | %51
+w: _ It ends to- _ night|_ Now I'm|on my own side *|* It's bet- ter than *|
+"^Fsus2" CC C2"_your" D2 CB, |"^Am7" A,2 z2 E2 E2 |"^Gsus4" c2 BG G2 c2 |"^D/F#" A2>E2 EEDC | %55
+w: be- ing on * side _|_ It's my|fault when * you're blind|* It's bet- ter than *|
+"^F5" CC C2{C} D2 CB, |"^Am/E" A,2 z2 E2 E2 |"^Fsus2" B2 G2 G2 B2 |"^Dsus7" c4 G2FF | %59
+w: see- ing though * eyes _|_ All these|thoughts locked in- side|_ Now you're the|
+ E>"^Gsus"G- GC- C2 C2 |"^Cnote" G2{E} F2 E2 F{E}E- |"^Fnote" E2E z D2 CG,- | %62
+w: first _ to know _ When|dark- * turns to *|* it ends to- night|
+"^Anote" G,2E z D2 CG,- |"^Gnote" G,2 CC DC C2 |"^Csus2" G2zF E>G- GC- |"^Fsus2" C2 E2 D2 CG,- | %66
+w: _ it ends to- night|_ Just a lit- tle in-|sight won't make this _ right|_ it's- late to fight|
+"^Am7" G,2>E2 D>C- CF |"^Gsus4" E z E2 FE C2 |"^Csus2" G2 F2 E2 FE- |"^Fsus2" E2 E2 D2 CG,- | %70
+w: _ It ends to- _ night|_ It ends _ when|dark- ness turns to light|_ it ends to- night|
+"^Am7" G,2 E2 D2 CG,- |"^Gsus4" G,2 CC DC C2 |"^Csus2" G2zF E>G- GC- |"^Fsus2" C2 E2 D2 CG,- | %74
+w: _ it ends to- night|_ Just a lit- tle in-|sight won't make this _ right|_ it's- late to fight|
+"^Am7" G,2 E2 D2 CG,- |"^Gsus4" G,2zE D2 CG- |"^Csus2" G2>E2- E4- |"^Fsus2" E4- E z AG | %78
+w: _ it ends to- night|_ It ends to- night|_ _ _|* * to- _|
+"^Am7" G2>E2- E2 FE | D7"^Gsus4"D |"^Csus2" FE- E6 |"^Fsus2"z2z2z2zC |"^Am7" G2 E2 E2 FE- | %83
+w: night _ _ _ _|_ in-|side _ _|when|dark- ness turns to light|
+"^Gsus4" E2 E2 D2 CC- |"^C" C8- | C6 z2 | z8 |] %87
+w: _ it ends to- night|_|||
+

@@ -1,0 +1,31 @@
+X:1
+T:Als De Nacht Verdwijnt
+T: Laukens Music Productions  
+T:Foxtrot
+T:ALS DE NACHT VERDWIJNT
+T:Arr. H. Laukens
+C:Unknown
+Z:All Rights Reserved
+L:1/4
+Q:1/4=190
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"F" f2"C" e2 |"G7" d"C" c2 c |"G7" B/c/ d3- | d4 |"C" x z3 | z4 | z4 | z3 G |:"C" c/ c B/ c d | %9
+ e3 G | c/ c B/ c d | e3 G |"G7" d d d e | f2 e3/2 d/ |"C" c c c d | e3 G | c/ c B/ c d | e3 G | %18
+ c/ c B/ c d | e3 G |"G7" d d d e | f2 e3/2 d/ |"Am" c c"D7" c A |"G7" d4- | d2 E F ||"C" G2 A G- | %26
+ G2 c d | e2 f e- | e2 c d | e2 g g- | g f2 e |"G7" d2 B G- | G2 d e |"F" f3 f | a3 a | %35
+"C" g2 e g- | g2 c d |"Am" e3 e |"F" f2 g a |"G7" d4- | d2 E F |"C" G2 A G- | G2 c d | e2 f e- | %44
+ e2 c d | e2 g g- | g f2 e |"G7" d2 B G- | G2 d e |"F" f3 f | a3 a |"C" g2 e g- | g2 c d | e3 g | %54
+"G7" f2 d B ||1"C" c4- | c3 G :|2"C" c4- ||"C7" c3 c ||"F" f2 f c | f f2 f |"C" e3/2 d/ c/ d e/- | %62
+ e3 e |"Am" e4 | e3/2 c3/2 g |"G7" g4- | g4 |"Bb7" _b4- | b2 G _A ||[K:Eb]"Eb" B2 c B- | B2 e f | %71
+ g2 a g- | g2 e f | g2 b b- | b a2 g |"Bb7" f2 d B- | B2 f g |"Ab" a3 a | c'3 c' |"Eb" b2 g b- | %80
+ b2 e f |"Cm" g3 g |"Ab" a2 b c' |"Bb7" f4- | f2 G A |"Eb" B2 c B- | B2 e f | g2 a g- | g2 e f | %89
+ g2 b b- | b a2 g |"Bb7" f2 d B- | B2 f g |"Ab" a3 a | c'3 c' |"Eb" b2 g b- | b2 e f | g3 b | %98
+"Bb7" a2 f d |"Eb" e4- | e4 |"Ab" c'2"Eb" b2 |"Bb7" a"Eb" g2"Bb7" f |"Eb" g4- | g z3 |] %105
+

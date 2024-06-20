@@ -1,0 +1,25 @@
+X:1
+T:Silver Bells
+T:Silver Bells  (From the Lemon Drop Kid)
+T:Jay Livingstone and Ray 
+C:Jay Livingston, Ray Evans ©1950
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"^N.C." _B/G/ |:"Bb" F D _B/G/ |"Dm" F D d/c/ |"Eb" _B G G |"Cm" G2 c/_B/ |"F" A F E |"Cm" _E F E | %7
+w: Cit- y|side- walks, bus- y|side- walks dressed in|hol- i- day|style, In the|air there's a|feel- ing of|
+"Bb" _E D2- |"F" D/ z/ z _B/G/ |"Bb" F D _B/G/ |"Dm" F D d/c/ |"Eb" _B G G |"Cm" G2 c/_B/ | %13
+w: Christ- mas|* Chil- dren|laugh- ing, peo- ple|pass- ing meet- ing|smile af- ter|smile, And on|
+"F" A F E |"Cm" _E F c |"Bb" _B3- |"Cm" _B3 |"Bb" D/_E/ F2- | F3 |"Eb" G/A/ _B2- | _B z z | %21
+w: ev- 'ry street|cor- ner you|hear;||Sil- ver bells||sil- ver bells||
+"F" A A _B |"F7" c2 _B/A/ |"Bb" _B F2- |"Cm" F2 z |"Bb" D/_E/ F2- | F2 z |"Eb" G/A/ _B2- | _B z z | %29
+w: It's Christ- mas|time in the|cit- y||Ring a ling,||hear them ring,||
+"F" A A _B |"F7" c _B A |"Bb" _B3- |"Cm" _B2 z |"Dm" z3 |1"Cm" z z _B/G/ :|2"Bb" z _B2- | %36
+w: Soon it will|be Christ- mas|Day.|||Strings of||
+"Cm" B z z |] %37
+w: |
+

@@ -1,0 +1,53 @@
+X:1
+T:Back Home Again
+T:Back Home Again
+T:John Denver
+C:John Denver
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble 
+%%MIDI program 53
+V:1
+"^VERSES" G"^(skip refrain after verse 1)"A |"E" B3 B B3 A |"E7" GG- G4- G2 |"A" A3 B A2 E2 | %4
+w: 1.~There's a|storm a- cross the|val- ley _ _|clouds are rol- lin'|
+w: 2.~He's an|hour a- way from|rid- ing _ on~your|prayers up in the|
+w: 3.~ There's|all the news to|tell him: _ _|how'd you spend your|
+w: 4.~It's the|sweet- est thing I|know of, ~~~~~ just|spend- in' time with|
+ C7 B |"B7" BB B4- B_B | AB,- B,3- B,DF |"E" F2 G6- | G4 z2 GA | B B3 c3 B |"E7" (A G3) F3 G | %11
+w: in. The|af- ter- noon _ is|heav- y _ _ on your|shoul- ders.|_ There's a|truck out on the|four * lane a|
+w: sky. _|Ten days on _ the|road * * are bare ly|gone. *|* There's a|fire _ soft- ly|burn- * in' _|
+w: time; And|what's * the lat- est|thing * * the neigh bors|say; *|* And "Your|moth- er called last|Fri- day _ _|
+w: you. It's~the|lit- tle things _ that|make * * a house a|home. *|* Like a|fire _ soft- ly|burn- * ing, _|
+"A" A3 B A2 E2 | C7 B |"B7" B2 B2 B3 A | A3 A G2 F2 |"E" F2 E6- | E6 z2 |] %17
+w: mile or more a-|way, the|whin- in' of his|wheels just makes it|cold- er.-||
+w: sup per's on the|stove, it's~a|light _ in your|eyes that makes him|. warm.||
+w: 'Sun shine' made her|cry," and~you|felt the ba- by|move just yes- ter-|* day.||
+w: sup- per on the|stove, the|light _ in your|eyes that makes me|* warm.||
+"A""^REFRAIN" c3"^(follows verse 2,3,and 4)" c c3 c |"B7" B B2 B4 A |"E" G8- |"E7" G6 z2 | %21
+w: Hey, it's good to|be back home a-|gain.|_|
+w: ||||
+w: ||||
+w: ||||
+"A" z2 c2 c4 |"B7" B B3 B4 |"E" G2 GG G2 F2 |"A" E4 c3 c |"B7" B3 B c3 B | A A2 G4 F |"E" E8- | %28
+w: Some times|this ol' farm|seems like a long lost|friend Yes an'|hey, it's good to|be back home a-|gain.|
+w: |||||||
+w: |||||||
+w: |||||||
+ E6 z2 |]"A""^BRIDGE" e3"^(from refrain to verse 4)" e e3 e |"B7" d d2 d4 c |"E" B3 (B c)B G2 | %32
+w: _|Oh the times that|I can't lay this|tired ol * bo- dy|
+w: ||||
+w: ||||
+w: ||||
+"A" E8 |"F#" F2 A2 c2 e2 |"B7" d e3 d3 E |"E" G2 B6- |"E7" B6 z B |"A" e e4- eef |"B7" e d6 c | %39
+w: down,|feel your fing- ers|feath- er soft up-|on me,|_ the|kiss- es * that I|live for, the|
+w: |||||||
+w: |||||||
+w: |||||||
+"E" B3 c B2 G2 |"A" E6 z E |"F#" AA A4 z c |"A" e e3 e2 e2 |"B7" c2 B6- |"^to verse 4" B4 z2 |] %45
+w: love that lights my|way, the|hap- pi- ness that|liv- ing with you|brings me|_|
+w: ||||||
+w: ||||||
+w: ||||||
+

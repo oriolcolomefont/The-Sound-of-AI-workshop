@@ -1,0 +1,22 @@
+X:1
+T:When I Grow Too Old To Dream
+T:When I grow too old to dream
+T:Sigmund Romberg
+T:Oscar Hammerstein II
+C:Sigmund Romberg
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"F" F3 G | A3 B | c3 A | F4 |"C7" G3 G | G3 G |"F" A F F2- | F4 |"Bb" B3 c | d3 e |"F" f3 c | %11
+w: When I|grow too|old to|dream|I'll have|you to|re- mem- ber||When I|grow to|old to|
+"Dm" A3 F |"F" A3 C |"C7" G F G2 |"F" F4- | F3 C |"Am" c4 |"Gm" B2 c2 |"F" A4- | A4 |"F" A2 A2 | %21
+w: dream your|love will|live in my|heart|* So|kiss|me my|sweet||and so|
+"A7" G2 A2 |"Dm" F4- |"F7" F3 F |"Bb" B3 c |"C7" d3 e |"F" f3 c |"Dm" A3 F |"F" A3 C |"C7" G F G2 | %30
+w: let us|part|* And|when I|grow too|old to|dream that|kiss will|live in my|
+"F" F4- | F4 |] %32
+w: heart||
+

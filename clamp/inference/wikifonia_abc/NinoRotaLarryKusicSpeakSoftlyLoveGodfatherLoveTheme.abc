@@ -1,0 +1,26 @@
+X:1
+T:Speak Softly Love (Godfather Love Theme)
+T:Speak Softly Love (The Godfather Love Theme)
+C:Nino Rota
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Cm" z CGC"Fm6/C" F4 |"Cm" z CGC"Fm6/C" F4 |"Cm" z CGC"Fm6/C" F4 |"Cm" z CGC"Fm6/C" F(Gce) |: %4
+w: |||* * * * Speak soft- ly|
+"Cm" dcec"Fm/C" dcAB |"Cm" G4 z Gce | dcec"Cm/Eb" dcG_G |"Fm" F4 z FA=B | d4- dFA=B | %9
+w: love, and hold me warm a- gainst your|heart. I feel your|words, the ten- der, trem- bling mo- ments|start. We're in a|world _ our ver- y|
+"Cm" c4 z CEG |"Cm/G" AGBA"G7sus4" AG"G7"G=B, |"Cm" C4 z cc_c |"Bb7/D" B4"Bb7" d2 cA | %13
+w: own, Shar- ing a|love that on- ly few have ev- er|known. Wine col- ored|days warmed by the|
+"Eb" G4 z GBG |"Db/F" F4-"Fm6/Ab" FFA^F |"G" G4"^N.C." z Gce |"Cm" dcec"Fm/C" dcAB |"Cm" G4 z Gce | %18
+w: sun, Deep vel- vet|nights _ when we are|one. Speak soft- ly,|love, so no one hears us but the|sky. The vows of|
+ dcec"Fm/C" dc"Cm"G_G |"Fm6""Cm" F4"Fm/C" z FA=B |"Fm" d4- dFA=B |"Cm" c4 z CEG | %22
+w: love we make will live un- til we|die. My life is|yours, _ and all be-|cause, You came in-|
+"Cm/G" AGBA"G7sus4" AG"G7"G=B |"Cm" c4 z Gce :|"Cm" !fermata!c8 |] %25
+w: to my world with love, so soft- ly,|love. Speak soft- ly|love.|
+

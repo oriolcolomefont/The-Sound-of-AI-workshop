@@ -1,0 +1,19 @@
+X:1
+T:Fölém hajló jóságodra
+T: 
+C:Unknown
+Z:Public Domain
+L:1/8
+Q:1/4=60
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" A,<A, A,A,"Dm" DDDD |"C" CC"E" B,>B,"Am" A,2 z2 |"Am" A,<A, A,A,"Dm" DDDD | %3
+w: Fö- lém haj- ló jó- sá- god- ra|em- lé- kezz, U- ram!|Ir- gal- mad- ra, mi ö- rök- ké|
+"C" CC"E" B,>B,"Am" A,2 z2 |:"C" E/E/E EG"G" G>D DE |"Am" C/C/C CE"E" E>B, B,C | %6
+w: i- gaz- ság ma- rad.|Mo- so- gass meg a bû- ne- im- tõl,|tisz- to- gass meg a vét- ke- im- tõl!|
+"Am" A,>A, CE"D" D>A, A,2 |"F" CC"E" B,/B,/C/B,/"Am" A,>A, A,2 :| %8
+w: Vét- ke- met el- is- me- rem,|bû- nöm e- lõt- tem áll szün- te- len.|
+

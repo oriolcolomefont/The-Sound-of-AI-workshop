@@ -1,0 +1,15 @@
+X:1
+T:Által mennék én a Tiszán
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:2/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"G" G,2 G,2 | G2 G2 |"G7" DE FE | DE"C" C2 |"D7" B,C DC |"G" B, G,3 | G,4!fine! :|"G" G3 F | E F3 | %9
+w: Ál- tal|men- nék|én a Ti szán|la- di- kon,|la- di- kon, de|la- di-|kon.|Ott la-|kik a|
+ A2 G2 | D4 | D D3 | G2 G2 | D2 E2 | C4!D.C.! |] %15
+w: vá- ros-|ban,|a har-|ma dik|ut- cá-|ban,|
+

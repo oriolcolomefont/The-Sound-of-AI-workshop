@@ -1,0 +1,31 @@
+X:1
+T:Fais comme l'oiseau
+C:Antonio Carlos
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:G
+V:1 treble nm="Piccolo"
+%%MIDI program 72
+V:1
+"G6" G2>G2 dBAG"Bm" F2>F2 F4 |"Fmaj7" AE2d- dE2B"E7" dE2B- BdE2 |"Am" z3 E AB2d- dc2B- BA2G- | %3
+w: |||
+"Cm6" G2BA Gc2F-"D7" F4 z2 D2 ||S"G6" G8"Bm" B4- Bd2d- |"Fmaj7" d8-"E7" d4 z d2d- | %6
+w: * * * * * * * Fais|com- me _ l'oi- seau|_ _ ça vit|
+"Am" dd2d2c2B A4 Ac2c- |"Cm6" c8-"D" c4 z d2e- |"F6" ee2e2d2"Bm"c B4 Bd2d- | %9
+w: _ d'air pur et d'eau fraîche, un oi- seau|_ _ D'un peu|_ de chasse et de pêche, un oi- seau|
+"Fmaj7" d8-"E7" d4 z d2d- |"Am" dd2d2c2B A4 A2<c2-!dacoda! ||"Cm6" c8"D7" z2 d2 c2A_B- || %12
+w: _ _ Mais ja-|* mais rien ne l'em- pêche, l'oi- seau|_ d'al- ler plus haut|
+[K:Bb]"Gm" B4 z2 A2"Gm7" BABA Bd2c- |"Cm" c4 z2 F2"F7" c=BcB ce2d- | %14
+w: _ Mais je suis seul dans l'u- ni- vers|_ J'ai peur du ciel et de l'hi- ver|
+"Bbmaj7" d2<e2 dc2B-"Ebmaj7" B2>c2 de2c- |"Abmaj7" c2>d2 cB2A-"D7" AB2c- cd2B- | %16
+w: _ J'ai peur des fous _ et de le guerre|_ J'ai peur du temps _ qui pas- * se, dis|
+"Gm" B4 z2 A2"Gm7" BABA Bd2c- |"Cm" c4 z2 F2"F7" c=BcB ce2d- | %18
+w: _ Com- ment peut on vivre au- jour- d'hui|_ Dans la fu- reur et dans le bruit|
+"Bbmaj7" d2>e2 dc2B-"Ebmaj7" B2>c2 df2c- |"Abmaj7" c2>d2 cB2A-"D7" A4 z2 D2!D.S.! || %20
+w: _ Je ne sais pas _ Je ne sais plus|_ Je suis per- du _ Fais|
+[K:G]O"Cm6" c8"D" z2 d2 c2<A2 |"G" (B2>c2 d2g2-"Bbmaj7" g8) |"Ebmaj7" (_B2>c2 d2g2-"Abmaj7" g8) | %23
+w: * d'al- ler plus|haut _ _ _ _|haut _ _ _ _|
+"Gmaj7" !fermata!f16 |] %24
+w: haut.|
+

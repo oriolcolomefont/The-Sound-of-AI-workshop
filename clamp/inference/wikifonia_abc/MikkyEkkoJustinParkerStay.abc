@@ -1,0 +1,53 @@
+X:1
+T:Stay
+T:Stay
+T:Mikky Ekko and Justin Parker
+C:Mikky Ekko & Justin Parker
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"C""Dm" z8 |"Am""Am7" z8 |"Am""Am7" z8 |"Am""Am7" z8 |"C""Dm" z8 |"Am""Am7" z8 |"Am""Am7" z8 | %7
+w: |||||||
+"Am""Am7" z8 |"C" z EG G2 E"Dm"DC |"Am" D2"Am7" A,6 |"Am""Am7" z8 |"Am" z4 z2"Am7" CE- | %12
+w: |All al- long it was a|fev- er||A cold|
+"C" E E2 E2 E"Dm"DC |"Am" D2"Am7" A,6 |"Am""Am7" z8 |"Am" z4 z E"Am7"EG |"C" GGG A2 E"Dm" E2 | %17
+w: * sweat hot- head- ed be-|liev- er||I threw my|hands in the air and said|
+"Am" DC C2 (C>D"Am7" E2) |"Am""Am7" z8 |"Am" z4 z E"Am7" E2 |"C" G G2 G3"Dm" ED | %21
+w: "Show me some- thing" _ _||He said|"If you dare come a|
+"Am" DC D2"Am7" A,4 |"Am""Am7" z8 |"Am" z8 |"F" D2 DC D2 DC |"Dm" D2 DC D2 EC- |"Am" C4 z4 | %27
+w: lit- tle clos- er."|||Round and a- round and a-|round and a- round we go|_|
+"Am" z4 (A,2 C2) |"F" D2 DC D2 DC |"Dm" D2 DC D2 E(F |"G" E4) z4 | z8 |"C" z EEG G2 ED | %33
+w: Oh _|now tell me now tell me|now tell me now you know|_||Not real- ly sure how to|
+"Dm" DC D2 A,2 z C- |"Am" CCA,G, C2 DD- |"F" D4 z2 z G- |"C" GE G2 ED E2 |"Dm" DC D2 A,2 (G,C-) | %38
+w: feel a- bout it Some-|* thing in the way you move|_ Makes|_ me feel like I can't|live with- out you It _|
+"Am" C C2 G, C2 DD- |"F" D3 C EDCE- |"C""Dm" E8- |"Am""Am7" E8 |"Am""Am7" z8 |"Am""Am7" z8 | %44
+w: _ takes me all the way|_ I want you to stay|_||||
+"C" z E G2 G2"Dm" EG |"Am" A2 E2 D"Am7" E3 |"Am""Am7" z8 |"Am" z4 z"Am7" C2 E- | %48
+w: It's not much of a|life you're liv- ing||It's not|
+"C" E E2 E2"Dm" D2 C |"Am" D3 A, C"Am7" A,3 |"Am""Am7" z8 |"Am""Am7" z8 |"F" D2 DC D2 DC | %53
+w: * just some- thing you|take, it's giv- en.|||Round and a- round and a-|
+"Dm" D2 DC D2 EC- |"Am" C4 z4 |"Am" z4 (A,2 C2) |"F" D2 DC D2 DC |"Dm" D2 DC D2 E(E |"G" E4) z4 | %59
+w: round and a- round we go|_|Oh _|now tell me now tell me|now tell me now you know|_|
+ z8 |"C" z EEG G2 ED |"Dm" DC D2 A,2 z C- |"Am" CCA,G, C2 DD- |"F" D4 z2 z G- |"C" GE G2 ED E2 | %65
+w: |Not real- ly sure how to|feel a- bout it Some-|* thing in the way you move|_ Makes|_ me feel like I can't|
+"Dm" DC D2 A,2 (G,C-) |"Am" C C2 G, C2 DD- |"F" D3 C EDCE- |"C""Dm" E8- |"Am""Am7" E8 | %70
+w: live with- out you It _|_ takes me all the way|_ I want you to stay|_||
+"Am""Am7" z8 |"Am""Am7" z8 |"F" (A6 cA |"Am" G3) D EDDD- |"Dm" D(C A,6) |"Em" z8 |"F" (A6 cA | %77
+w: ||Oh _ _|_ the rea- son I hold|_ on _||Oh _ _|
+"Am" G3) D EDDD- |"Dm" D(C A,6) | z8 |"Dm" A,B,A,B, A,B,A,B, |"F" CDCD CDCD |"Am" E3 E- E4 | %83
+w: _ cause I need this hole|_ gone _||Fun- ny you're the brok- en one but|I'm the on- ly one who need- ed|sav- ing _|
+ z4 z2 z A, |"Dm" A,B,A,B, A,B,A,B, |"F" CDCD CDCD |"G" E3 E- E4 | z8 |"C" z EGG G2 ED | %89
+w: Cause|when you nev- er see the light it's|hard to know which one of us is|cav- ing _||Not real- ly sure how to|
+"Dm" DC D2 A,2 z C- |"Am" CCA,G, C2 DD- |"F" D4 z2 z G- |"C" GE G2 AE E2 |"Dm" DC D2 A,2 (G,C-) | %94
+w: feel a- bout it Some-|* thing in the way you move|_ Makes|_ me feel like I can't|live with- out you It _|
+"Am" C D2 E (ED)C(C |"F" A,3) C EDC(E- |"C" E8- |"Dm" E6 GA- |"Am" A6 cG- |"F" G4) z (G E2- | %100
+w: _ takes me all _ the way|_ I want you to stay|_|||* Stay _|
+"C" E8- |"Dm" E4 DC D2- |"Am" D4) z4 |"F" z2 z C EDCC- |"C" C4 z4 |"Dm" z8 |"Am" z8 |"F" z8 |] %108
+w: _|||I want you to stay|_||||
+

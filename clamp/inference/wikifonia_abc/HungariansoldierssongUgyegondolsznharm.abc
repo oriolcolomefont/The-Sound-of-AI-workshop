@@ -1,0 +1,17 @@
+X:1
+T:Ugye gondolsz néha rám
+T: 
+C:Hungarian soldier's song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ CD"Cm" E2 C2"Fm" F2- | FE"Cm" C4 z2 | GG"Ab" c2 c2"Bb" B2- | Bc"Eb" G4 z2 |: GG"Ab" c2 c2"Bb" B2 | %5
+w: U- gye gon- dolsz né-|* ha rám,|csil- lag fé- nyes éj-|* sza- kán?|Mi- kor nyug- szik min-|
+ c2"Cm" GG FG"Fm" A2 | CD"Cm" E2 C2"G" F2- | FE"Cm" C4 z2 :| %8
+w: den szé- pen csen- de- sen,|csak a hon- véd nem|_ pi- hen.|
+

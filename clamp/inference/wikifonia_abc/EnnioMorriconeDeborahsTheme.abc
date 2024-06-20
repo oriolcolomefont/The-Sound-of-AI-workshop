@@ -1,0 +1,22 @@
+X:1
+T:Deborah's Theme
+T:Deborah's Theme 
+C:Ennio Morricone
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:E
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"E/B" z8 |"A/B" z4 z B,ED |"A/E" F2"E" E6- | E4 z B,GF |"A/E" A2"E" G6- | G4 z GFE |"A9" B4- BcBE | %7
+"E/B" G2"B" F6- | F4"E6/B" z B,Ec |"A9" B4- BEAe |"E/B" B4-"C#7b9" BBAG | %11
+"Amaj7" c2 C2"F#/A#" z CFE |"E/B" E4"B" D4- | D8- |"B7" D4"E/B" z B,ED |"A/B" F2"E" E6- | %16
+ E4 z B,GF |"A/E" A2"E" G6- | G4 z G"^?"FE | dceB B3 F/E/ |"D/A" dccE"G#m" B3 A/G/ | %21
+"F#m7" AG"G#9"F^E"A" GF"F#m7"GA |"Gdim7" cBB^A"G#m" B2 cd |"C#m" e8- | e8 |"Am/B#" E8- |"E" E6 E2 | %27
+"E/B" G2 F2"B7sus4" E2"B7" D2- | D4"E/B" z4 |"A/B" z4 z B,ED |"A/E" F2"E" E6- | E4 z B,GF | %32
+"A/E" A2"E" G6- | G4 z GFE |"A9" B4- BcBE |"E/B" G2"B" F6- | F4"E6/B" z B,Ec | B4- BEAe | %38
+"E/B" B4-"C#7b9" BBAG |"Amaj7" c2 C2"F#/A#" z CFE |"E/B" E4"B" D4- |"B7" D8 |"E" E8- | E8- | E8 |] %45
+

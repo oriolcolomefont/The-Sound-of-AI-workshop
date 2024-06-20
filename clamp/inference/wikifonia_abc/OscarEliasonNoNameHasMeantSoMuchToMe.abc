@@ -1,0 +1,50 @@
+X:1
+T:No Name Has Meant So Much To Me
+T:No Name Has Meant So Much To Me
+T:My Heart Is Thrilled When e'er I think of Jesus
+T:Oscar C. Eliason
+T:Oscar C. Eliason
+T:1950 and 1973 by Lillenas Publishing
+C:Oscar Eliason
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="C Trumpet" snm="C Tpt."
+%%MIDI program 88
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F" z"Am7" c e"Abdim" d |"C7/G" c3 A |"Gm7/C" B"C9/D" B"Am/C" A"C7/Bb" G |"F" F4 | z C F G | %5
+w: ||||There is a|
+w: ||||That name brings|
+w: ||||That name still|
+"F2" A3 A |"Fmaj7" A A"F/A" c3/2 F/ |"Gm7" F2"C7" E2 | z C E G |"Gm7" B3 B |"C9" d/ d3/2 c B | %11
+w: name on|earth I high- ly|trea- sure|Oh, how it|thrills my|spir- it thru and|
+w: glad- ness|to a soul in|sor- row|It make life's|shad- ows|and its clouds de-|
+w: lives and|will live on for-|ev- er|While kings and|king- doms|will for- got- ten|
+"F6" A4 |"F6" z c c3/2 B/ |"Fmaj7" A3 A |"F9" A A B/ c3/2 |"Bb" B/ d3/2 d2 |"Bb" z d"E7" e3/2 d/ | %17
+w: thru!|Oh, bles- sed|name be-|yond de- gree or|mea- sure *|Oh, won- drous|
+w: part|Brings strength in|weak- ness|for to- day, to-|mor- row *|That name brings|
+w: be;|Thru mis or|rain, 'twill|be be- cloud- ed|nev- er *|That name shall|
+"F6/C" c3 A |"Gm7""C9/D" B3/2 B/"Am/C" A"C7" G |"F" F4 |"^REFRAIN" z F"F7" f3/2 f/ |"Bb" f3 d | %22
+w: name of|Him so kind and|true!|My heart is|thrilled when-|
+w: heal- ing|to an ach- ing|heart|||
+w: shine and|shine e- ter- nal-|ly|||
+ f f"E7" e3/2 d/ |"Dm" d2"F" c2 |"F" z c"F#dim" d3/2 c/ |"Gm7" G3 c |"C13" c c d c |"Fmaj7" A4 | %28
+w: e'er I think of|Je- sus|That bless- ed|name which|sets the cap- tive|free|
+w: ||||||
+w: ||||||
+"F9" z F"F+" f3/2 f/ |"Bb" f3 d |"Bb" f f"E7" e3/2 d/ |"F6/C" d2 c2 | z"F/A" c"Abdim7" e3/2 d/ | %33
+w: The on- ly|name thru|which I find sal-|va- tion|No name on|
+w: |||||
+w: |||||
+"C7/G" c3 c |"Gm7/C" B"C9/D" B"Am/C""C7/Bb" A3/2 G/ |1"F" F4 :|3"F/A" c4 |"Bb" z f"Bdim7" f3/2 d/ | %38
+w: earth has|meant so much to|me.|me|No name on|
+w: |||||
+w: |||||
+"F/C""F#dim7" c3 c |"Gm7" B B"C9" A G |"F" F4- | F4 |] %42
+w: earth has|meant so much to|me.||
+w: ||||
+w: ||||
+

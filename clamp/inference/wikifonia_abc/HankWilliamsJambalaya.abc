@@ -1,0 +1,30 @@
+X:1
+T:Jambalaya
+T:Jambalaya
+T:(on the Bayou)
+T:Hank Williams
+C:Hank Williams
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E G |:"C" A2 E G/G/ | A A G E |"G7" G D3- | D2 G G/G/ | B2 B B | A G A G |"C" A E3- | E2 c c | %9
+w: Good- bye|Joe, me got- ta|go * me oh|my oh|* me got- ta|go pole the|pi- rogue down the|bay- ou|* my Y-|
+w: |daux fon- tain *|eaux the place is|buzz- ing|* kin- folk *|come to see|Y- vonne by the|doz- en|* dress in|
+w: Set- tle|down far from *|town get me a|pi- rogue|* and I'll *|catch all the|fish * in the|bay- ou|* swap my|
+ c c A G | c2"G7" A G | G D3- | D2 G/G/ G | B B A G | A2 G E |"C" D C3- | C2 e e | e/e/e/e/ c A | %18
+w: vonne the sweet- est|one me oh|my oh|* son of a|gun we'll have big|fun on the|bay- ou|* Jam- ba-|la- y and a craw- fish|
+w: style and go hog|wilk, me oh|my oh|||||||
+w: mon to buy Y-|vonne what she|need oh|||||||
+ c c A G |"G7" G D3- | D2 G G | B B B A | G/G/ G A G |"C" G E3- | E2 c c | c2 A G | c2 A G | %27
+w: pie and fil- let|gum- bo|* cause to-|night I'm gon- na|see my ma- cher- a-|mi- o|* pick guit-|ar fill fruit|jar and be|
+w: |||||||||
+w: |||||||||
+"G7" G D3- | D2 G/G/ G | B B A G | A2 G E |1,2"C" D C3- | C2 E G :|3"C" D C3- | C z z2 |] %35
+w: gay oh|* son of a|gun we'll have big|fun on the|bay- ou.|* thi bo|bay- ou,-||
+w: ||||||||
+w: ||||||||
+

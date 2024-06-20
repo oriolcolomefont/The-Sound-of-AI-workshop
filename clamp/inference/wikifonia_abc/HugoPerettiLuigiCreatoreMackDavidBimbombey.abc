@@ -1,0 +1,37 @@
+X:1
+T:Bimbombey
+T:Bimbombey
+T:Mack David,Hugo Peretti,Luigi Creatore,
+C:Hugo Peretti, Luigi Creatore, Mack David
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 E c |:"Eb" B4- | B E G e | B4- | B z E c | B2 E c | B E G e | B4- | B2 z B/B/ | %9
+w: On the|way|* to Bim- bom-|bey|* theres a|hill on the|way to Bim- bom-|bey|* theres a|
+w: Theres a|store|* in Bim- bom-|bey|* theres a|ring in the|store in Bim- bom-|bey|* thats where|
+w: Once I|get|* to Bim- bom-|bey|* you can|bet I will|stay in Bim- bom-|bey|* thats where|
+"Ab" c e/e/ e c/c/ |"Eb" B e/e/ e B/B/ |"Fm7" A c/c/"Bb7" B A |"Eb" G"Bb7" A"Eb7" B3/2 B/ | %13
+w: house on the hill and a|girl in the house on the|hill on the way to|Bim- bom- bey a|
+w: I'll buy the ring for the|girl in the house on the|hill on the way to|Bim- bom- bey *|
+w: I'll set- tle down with the|girl in the house on the|hill on the way to|Bim- bom- bey *|
+"Ab" c e/e/ e c/c/ |"Eb" B e/e/ e B/B/ |"Fm7" A c/c/"Bb7" B A |"Eb" G E E2 | z E/E/ E/D/ E | %18
+w: house on the hill and a|girl in the house on the|hill on the way to|Bim- bom- bey|jing- a- ling- a- li-|
+w: I'll buy the ring for the|||||
+w: I'll set- tle down with the|||||
+"Fm7" F4- |"Bb7" F F/F/ F/=E/ F |"Eb" G4 | z _E/E/ E/D/ E |"Fm7" z F/F/ F/=E/ F | %23
+w: oh|* jing- a- ling- a li-|au|jing- a- ling- a li|ting- a- ling- a- li|
+w: |||||
+w: |||||
+"Bb7" z A/A/ G/G/ F |"Eb" E2"Ab" c2 |"Eb" B4- |"Bb7" B A/A/ G/G/ F |"Eb" E4- | E z E c :| %29
+w: jing- a- ling- a- li|ay ay|ay|* jing- a- ling- a- li|ay|* (2)theres a|
+w: |||||* (3)once I|
+w: ||||||
+ E z E c |:"Eb" B4- | B z E e :| %32
+w: ay ay ay|ay|* ay ay|
+w: |||
+w: |||
+

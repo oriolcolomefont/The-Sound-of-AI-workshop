@@ -1,0 +1,30 @@
+X:1
+T:Until The Real Thing Comes Along
+T:Until The Real Thing Comes Along
+C:Mann Holinger, Alberta Nichols, Sammy Cahn, Saul Chaplin, L. E. Freeman
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 G2 |"Ebmaj7" B2 B2 B3 G |"Bb+7" B2 B2 B4 |"Ebmaj7" z ddc"D+7" dd- (3dcc | %4
+w: I'd|work for you, I'd|slave for you,|I'd be a beg- gar _ or a|
+"Gm7" d2 B2"C7" G3 c |"Fm7" ecec- c2 ^FG |"Bb13" B2 B2 G4 |"Eb6" z EEC"Cm7" EECE | %8
+w: knave for you, If|that is- 'nt love _ it will|have to do,|Un- til the real thing comes a-|
+"Fm7" F6"Bb7" G2 ||"Ebmaj7" B2 B2 B3 G |"Bb+7" B2 B2 B4 |"Ebmaj7" z ddc"D+7" dd- (3dcc | %12
+w: long. I'd|glad- ly move the|earth for you,|to prove my love, dear, _ and it's|
+"Gm7" d2 B2"C7" G3 c |"Fm7" ecec-"Ab9" c2 ^FG |"Bb13" B2 B2 G4 |"Eb6" z EEE"Fm7" FF"Bb9"CC | %16
+w: worth for you. If|that is- n't love _ it will|have to do,|Un- til the real thing comes a-|
+"Eb6" E4"Am7b5""D7b9" z4 ||"Gmaj7" z dd=B"E7b9" d2 _B=B |"Am7" =e2 e2"D13" =B4 | %19
+w: long.|With all the words, dear, at|my com- mand,|
+"G6/B" z GG=E"Bbdim7" G2 E2 |"Am7" G2 ^F2"D9" =E4 |"Gmaj7" z dd=B"E7b9" dd_B=B | %22
+w: I just can't make you|un- der- stand.|I'll al- ways love you, dar- ling,|
+"Am7" =e2 e2"D13" =B4 |"G6" z GG=E"Em7" G2 ^FG |"Fm7" B2 B2"Bb7" B3 G ||"Ebmaj7" B2 B2 B3 G | %26
+w: come what may.|My heart is yours, what more|can I say? I'd|sigh for you, I'd|
+"Bb+7" B2 B2 B4 |"Ebmaj7" z ddc"D+7" dd- (3dcc ||"Gm7" d2 B2"C7" G3 c |"Fm7" ecec-"Ab9" c2 ^FG | %30
+w: cry for you,|I'd tear the stars down _ from the|sky for you, If|that is- n't love _ it will|
+"Bb13" B2 B2 G4 |"Eb6" z EEE"Fm7" FF"Bb9"CC |1"Eb6""Cm7" E4"Fm7" z2"Bb7" G2 :|2"Eb6" E4 z4 |] %34
+w: have to do,|Un- til thet real thing comes a-|long. I'd|long.|
+

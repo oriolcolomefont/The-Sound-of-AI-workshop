@@ -1,0 +1,34 @@
+X:1
+T:Begin To Love
+T:Begin To Love (Cominciamo Ad Amarci)
+T:Gino Mescoli
+T:Vito Pallavicini (English - Sydney Lee)
+C:Gino Mescoli
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4"Bb7" z2 cB |:"Eb" BE- (3EcB"Gm" BD- (3DcB |"Bbm7" B_D-"Eb7" D4 (3z BA | %3
+w: I will|love you, _ al- ways love you, _ oh so|ten- der, _ I'll a-|
+w: Co- min-|cia- mo, _ ad am- ar- ci _ ques- ta|se- ra, _ Co- min-|
+"Ab" AC- (3CBA"Ab6" AC- (3CBA |"Abm7" A_C-"Db7" C4 (3z _DC |"Eb" B,2 G2-"Ebmaj7" GG"Eb6" G/F/E/F/ | %6
+w: dore you, _ live just for you, _ please sur-|ren- der. _ Don't be|shy, dear, _ if love is what you|
+w: cia- mo _ con un ba- cio _ pia- no,|pia- no. _ Poi di|re- mo _ la co- sa di sem-|
+"Dm7""G7" G6 (3z GF |"Cm7" E2 E2- (3EEF"F7/Eb" (3GFF |"Bb7""Bb+7" F6 cB | %9
+w: feel, Don't de-|ny, dear, _ ev- 'ry mo- ment we|steal. When our|
+w: pre, Ma- sa-|ra- no * co- me nuo- ve per|noi. Co- min-|
+"Eb" BE- (3EcB"Gm" BD- (3DcB |"Bbm7" B_D-"Eb7" D4 (3z BA |"Ab" AC- (3CBA"Ab6" AC- (3CBA | %12
+w: hands touch, _ they be- tray much, _ to each|oth- er, _ When our|lips meet, _ let our hearts greet _ one an-|
+w: cia- mo _ ad a- ~mar- ci _ per la|vi- ta. _ Co- min-|cia- mo _ a te- ner- ci _ per la|
+"Abm7" A_C-"Db7" C4 (3z _DC |"Eb" B,2 G2-"Eb7" GG"Eb7/C" (3GFE |"Ab" E2 c2-"Gbdim" cc (3ccc | %15
+w: oth- er. _ Love's not|wrong, dear, _ Not when you be-|long, dear. _ So let us be-|
+w: ma- no, _ Ed- an-|dre- mo _ pa- dro- ni del|mun- do. _ In- na- mo- ra|
+"Eb" B4"Gm7b5/F" z B (3BBB |"Fm7""Bbm7" A6 G2 |1"Eb" E6"Bb7" cB :|2"Eb""Cb" E8- |"Eb" E6 z2 |] %20
+w: gin, so let us be-|gin to|love. I will|love.|_|
+w: ti, In- na- mo- ra-|ti so-|si. Co- min-|si.|_|
+

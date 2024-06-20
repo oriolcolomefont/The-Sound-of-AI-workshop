@@ -1,0 +1,19 @@
+X:1
+T:Going Home
+T:Mark Knopfler
+L:1/4
+M:4/4
+K:D
+V:1 treble-8 nm="Electric Guitar" snm="El. Guit."
+%%MIDI program 27
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ a |:"D" f/ f f/ a (a | a2) f a |[M:2/4]"G" b/>c'/ b/a/ |[M:4/4]"D" f4 | f3/2 f/4e/4 f a | %6
+"A" e/ e d/ e2 | e2"D/G" (3A d e |"D" (3f d A"G" B2 |"Em" B3/2 c/"G" d"A" e |"D" f/ f f/ a (a | %11
+ a3/2) d/4e/4 f/a/d'/c'/ |[M:2/4]"G" b/>c'/ b/a/ |[M:4/4]"D" (f4 | f3/2) e/ f a |"A" e/ e d/ e2- | %16
+"A/G" e2 (3A d e |"D" (3f d A"G" (3B d f |"A" e3/2 d/"D" d/d/4e/4f/a/ | %19
+"^Hm" (3d' d' d'"^Hm/A" (3d' c' a |"G" b3/2 a/4g/4"D" a3/2 g/4f/4 |"Em" (3g a g"D/F" (3f d A | %22
+"G" (3B d f"A" e2 |"^Hm" (3d' e' d'"^Fism" (3c' a f |"G" b3/2 a/4g/4"D" a3/2 f/ | %25
+"Em" (3g a g"G" (3f d B |"A7" e3 A :| %27
+

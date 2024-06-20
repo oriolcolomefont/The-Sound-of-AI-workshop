@@ -1,0 +1,29 @@
+X:1
+T:A Little Love, A Little Kiss
+T:A Little Love, A Little Kiss
+T:Un Peu D'Amour
+T:Lao Silesu
+T:Adrian Ross
+C:Lao Silesu
+Z:All Rights Reserved
+L:1/8
+M:2/4
+K:D
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" Ad Bc | AF ED |"A7sus4" A3 E |"A7" A4 |"Bm" FE DF |"E7" BB ^GE |"A7sus4" A4- |"A7" A4 | %8
+w: When the scent- ed|night of sum- mer|cov- *|ers|Field and ci- ty|with her veil of|blue,||
+w: ||||||||
+"D" Ad Bc |"B7" AB GA |"Em7" (3F/G/F/ E3 | B3 z |"A7" EF GA | GF AF |"D" (3E/F/E/ D3- | D3 z |: %16
+w: All the lanes are|full of stray- ing|love- * * *|ers,|Mur- mur- ing the|words I say to|you * * *||
+w: ||||||||
+"D" dd dc | ec"D+" ed |"G" B4- | B4 |"A7" cc cB | dB"Ddim" dc |"D" A4- |"D9" A4 |"B7" BB BA | %25
+w: Just a lit- tle|love, a lit- tle|kiss,||Just an hour that|holds a world of|bliss;||Eyes that trem- ble|
+w: ||||I would give you|all my life for|this,||As I hold you|
+ =cA GF |"Em" E4 |"Em6" B3 z |"A7" EF GA | G>F A>F |"D" (3E/F/E/ D3- | D3 z :| %32
+w: like the stars a-|bove|me,|And the lit- tle|word that says "You|love * * Me".-||
+w: fast and bend a-|bove|you,|And I hear you|whis- per- ing, "I|love * * You.".-||
+

@@ -1,0 +1,34 @@
+X:1
+T:(There'll be)  Peace in the Valley
+T:(There'll be) Peace in the Valley
+T:Thomas A Dorsey
+T:WALTZ
+C:Thomas A. Dorsey
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z4 FF |:"F" A4 ^GA | F4 GA |"Bb" ^B4 _B_B | D4 _B_B |"F" c4 GA |"G7" F4 GA |"C7" G6- | G4"F" FG | %9
+w: I am|tir- ed and|wea- ry but|I must toil|on till the|Lord comes to|call me a-|way|* where the|
+w: |flow'rs will be|bloom- ing the|grass will be|green and the|skies will be|clear and se-|rene|* the *|
+w: |head- aches or|heart- aches or|mis- un- der-|stands no con-|fus- ion or|trou- ble wont|be|* No *|
+ A4 ^GA | F4 GA |"Bb" _B4 B_B | D4 _B_B |"F" c4 AF |"C7" G2 A2 G2 |"F" F6- | F4 FF |"Bb" _B4 _B_B | %18
+w: morn ing is|bright and the|Lamb is the|light and the|night is as|fair as the|day|||
+w: sun ev- er|shines giv- ing|one end- less|beam and no|clouds there will|ev- er be|seen|* there'll be|peace in the|
+w: frowns to de-|file just a|big end- less|smile There'll be|peace and con-|tent- ment for|me.|||
+ d2 f2 d2 |"F" c4 A2 | c4 cd | f4 dc |"G7" A2 F2 A2 |"C7" G4 A2 | G2 c2 d2 |"F" f2 d2 c2 | %26
+w: ||||||||
+w: val- ley for|me some-|day there'll be|peace in the|val- ley for|me I|pray no more|sor- row and|
+w: ||||||||
+"F7" A2 G2 F2 |"Bb" G2 F2 D2 |"G7" F4 FG |"F" A2 c2 dc |"C7" A2 F2 G2 |"F" F6- |1 F4"^2." FF :|3 %33
+w: |||||||
+w: sad- ness or|trou- ble will|be there'll be|peace * in the|val- ley for|me|* There the|
+w: |||||||
+ F4 z2 |] %34
+w: |
+w: |
+w: |
+

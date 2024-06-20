@@ -1,0 +1,28 @@
+X:1
+T:I Apologize
+T:I Appologize
+C:Al Goodhart, Al Hoffman, and  Ed Nelson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+"Eb" G>DD>C"C7sus4""C7" C4 |"Bb7" A>EE>D D4 |"Eb" B>FF>=E"C7" E2 C2 |"Fm" c4"G7" d4 | %4
+w: If I told a lie,|If I made you cry,|When I said good- bye i'm|sor- ry|
+"Eb" z2 e>d"Ebdim" f>ed>c |"Eb" B4"C7" c4 |"Fm" A2 A2"Bb7" B2 B2 |"Eb" G8 | %8
+w: From the bot- tom of my|heart, dear,|I ap- pol- o-|gize.|
+"Ebmaj7" G>DD>C"C7sus4""C7" C4 |"Bb7" A>EE>D D4 |"Eb" B>FF>=E"C7" E2 C2 |"Fm" c4"G7" d4 | %12
+w: If I caused you pain,|I know I'm to blame,|Must have been in- sane, Be-|lieve me,|
+"Eb" z2 e>d"Ebdim" f>ed>c |"Eb" B4"C7" c4 |"Fm7" A2 A2"Bb7" F2 G2 |"Eb" E8 | %16
+w: From the bot- tom of my|heart dear,|I ap- pol- o-|gize.|
+"Gm" z3/2 d<cB/ =A>G^F>G |"A7" =A2 =E2 A4 |"Cm" =A2 A2"D7" AB A2 |"Gm" D8 | %20
+w: I re- a- lize I've been un-|fair to you,|Please let me make a-|mends.|
+"Bb" z3/2 f/ed c"Bbm/Db"B=AB |"C7" c2 G2 c4 |"F7" c2 c2 cd e2 |"Bb7" d2 B2 B4 | %24
+w: Don't say that you for- got the|love we knew,|Af- ter all, we were|more than friends.|
+"Eb" G>DD>C"C7sus4""C7" C4 |"Bb7" A>EE>D D4 |"Eb" B>FF>=E"C7" E2 C2 |"Fm" c4"G7" d4 | %28
+w: If I've made you blue,|I've had heart- aches too,|Now I beg of you for-|give me,|
+"Eb" z2 e>d"Ebdim" f>ed>c |"Eb" B4"C7" c4 |"Fm7" A2 A2"Bb7" B2 c2 |"Eb" e2 z2 z4 |] %32
+w: From the bot- tom of my|heart dear,|I ap- pol- o-|gize|
+

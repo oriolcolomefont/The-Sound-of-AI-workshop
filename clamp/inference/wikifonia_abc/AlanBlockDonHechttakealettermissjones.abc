@@ -1,0 +1,40 @@
+X:1
+T:take a letter miss jones
+T:Walking After Midnight
+C:Alan Block
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z CDE |"F7" AF z2 z2 DF | AF z2 z CDF |"Bb7" _AF z2 z2 (GF) | _AGFD"F7" CC"C7sus4"DF | %5
+w: I go out|walk- in' af- ter|mid- night, out in the|star- light, just _|like we used to do, I'm al- ways|
+"F7" AF z2 z2 DF |"Bb7" _AF z2"C7" (3:2:4A2 F2 (GF) |"F7" (_AG F6) | z2"Db7" _CB,-"C7" B,=CDF | %9
+w: walk- in' af- ter|mid- night, search- in' for _|you. * *|* * * I walk for|
+"F7" (AF) z2 z CDF | AF z2 z CDF |"Bb7" _AF z2 z2 G2 | _AGFD"F7" CC"C7sus4"DF |"F7" AF z2 z2 DF | %14
+w: miles, _ a- long the|high- way, well, that's just|my way of|say- in', "I love you." I'm al- ways|walk- in' af- ter|
+"Bb7" _AF z2"C7" (3:2:4A2 F2 (GF) |"Fm7" (_AG)"F7" F6 | z2 F2 G2 B2 |"Bb" dBcB d B2"Db6" _d- | %18
+w: mid- night, search- in' for _|you. * *|I stopped to|see a weep- ing wil- low Cry-|
+ d_dcd c B3 |"F" (3A2 c2 d2 (3A2 c2 d2 | A6 F2 |"Bb7" d^cdc d B2 d- | d^cdc d B2 B | %23
+w: * ing on his pil- low|may- be he's cry- ing for|me. and|as the skies turn gloom- y Night|* winds whis- per to me I'm|
+"F7" (3A2 c2 d2 (3(d2 c2) A2 |"C7""Db7" G4"C7" z ccd |"Bb7" _AF-"F7" F4 DF | AF z2 z CDE | %27
+w: lone- some as I * can|be. I go out|walk- in' _ af- ter|mid- night out in the|
+"Bb7" _AF- F4 (GF) | _AGFD"F7" CC"C7sus4"DF |"F7" AF- F4 CF |"Db7" _A F3"C7" AGFD |"F" F8 | %32
+w: star- light _ just _|like we used to do, I'm al- ways|walk- in' _ af- ter|mid- night search- ing for _|you.|
+ z2"Db7" _CB,-"C7" B,=CDF |"F7" (AF) z2 z CDF | AF z2 z CDF |"Bb7" _AF z2 z2 G2 | %36
+w: * * * I walk for|miles, _ a- long the|high- way, well, that's just|my way of|
+ _AGFD"F7" CC"C7sus4"DF |"F7" AF z2 z2 DF |"Bb7" _AF z2"C7" (3:2:4A2 F2 (GF) |"Fm7" (_AG"F7" F6) | %40
+w: say- in', "I love you." I'm al- ways|walk- in' af- ter|mid- night, search- in' for _|you. _ _|
+ z2 F2 G2 B2 |"Bb" dBcB d B2"Db7" _d- | d_dcd c B3 |"F" (3A2 c2 d2 (3A2 c2 d2 | A6 F2 | %45
+w: I stopped to|see a weep- ing wil- low Cry-|* ing on his pil- low|may- be he's cry- ing for|me. and|
+"Bb7" d^cdc d B2 d- | d^cdc d B2 B |"F7" (3A2 c2 d2 (3(d2 c2) A2 |"C7" G4"D7" z dde || %49
+w: as the skies turn gloom- y Night|* winds whis- per to me I'm|lone- some as I * can|be. I go out|
+[K:G]"G7" BG z2 z2 EG | BG z2 z DEG |"C7" _BG z2 z2 AG | _BAGE"G7" DD"D7sus4"EG |"G7" BG z2 z2 EG | %54
+w: walk- in' af- ter|mid- night, out in the|star- light, just a|hop- in' you may be some- where a-|walk- in' af- ter|
+"Eb7" _BG z2"D7" (3:2:4B2 G2 (AG) |"Eb7" (_BA"G" G6) |] %56
+w: mid- night, search- in' for _|me.. _ _|
+

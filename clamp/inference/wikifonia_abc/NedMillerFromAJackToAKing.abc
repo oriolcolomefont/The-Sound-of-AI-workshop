@@ -1,0 +1,27 @@
+X:1
+T:From A Jack To A King
+T:From a Jack to a King
+T:Ned Miller
+C:Ned Miller
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble 
+%%MIDI program 4
+V:1
+ z2 DE G2 F=E |:"Bb" F8- | FBB3/2B B2"G" AG/ |"F7" A3 G"Cm7" E4 | z"F7" AA3/2A A2 GF/ | %5
+w: From a Jack to a|King|* from lon- li- ness to a|wed- ding ring|I played and ace and I|
+"Cm7" G3 F C4- |"F7" CCD3/2E D2 D^C/ |"Bb" D8- | D z DE G2 F=E |"Bb" F8- | FBB3/2BBB"G"AG/ | %11
+w: won a Queen|* and walked a- way with your|heart|* from a Jack to a|King|* with no re- gret I stacked the|
+"F7" A3 G"Cm7" E4 |"F7" z AAA A2 GF |"Cm7" G3 F C4- |"F7" CCD3/2E D2 A,C/ |"Bb" B,8- | %16
+w: cards last night|and la- dy luck played her|hand just right|* to make me King of your|heart|
+ B,2 z B,2 E2 F |"Eb" G G2 G- G3 G | G2 B2 A2 B2 |"Bb" G3 F F4 | z2 F2"Gm" G2"D7" A2 | %21
+w: * for just a|lit- tle while * I|thought that I might|lose the game|then just in|
+"Gm" B2 B2 B3 B |"C" B2 d2 c2 B2 |"F7" c8- |"F7" c z DE G2 FE |"Bb" F8- | FBB3/2B B2"G" AG/ | %27
+w: time I saw the|twin- kle in your|eye|* from a Jack to a|King|* from lon- li- ness to a|
+"F7" A3 G E4 | z AA3/2A A2 GF/ |"Cm7" G3 F C4 |"F7" CDE D2 A,2 C |1"Bb" B,8 |"F7" z2 DE G2 F=E :|2 %33
+w: wed- ding ring|I played an ace and I|won a Queen|you made me King of your|heart.|from a Jack to a|
+"Bb" B,8- | B,4 z4 |] %35
+w: heart.||
+

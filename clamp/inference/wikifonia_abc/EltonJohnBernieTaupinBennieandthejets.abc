@@ -1,0 +1,53 @@
+X:1
+T:Bennie and the jets
+T:JBB Nov 2012
+T:Elton John/Bernie Taupin
+T:shake it loose =déchaînons nous ensemble We'll kill the fatted calf 	= On va tuer le veau gras stick around=restez ici they're spaced out, = ils sont dans les vaps (le cirage) they're weird = ils sont bizarres she's really keen= elle est très acharnée plug into the faithless= branchez vous sur les infidèles let us take ourselves along = emmenons nous là
+C:Elton John
+Z:All Rights Reserved
+L:1/16
+Q:1/4=60
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Gmaj7" [B,DFB]2 z2 [B,DFB]2 z2 [B,DFB]2 z2 [B,DFB]2 z2 | %1
+w: |
+w: |
+ [B,DFB]2 z2 [B,DFB]2 z2 [Ee]2[Dd]2 [B,B]2<[Cc]2 | %2
+w: |
+w: |
+"Fmaj7" [EGBe]2 z2 [EGBe]2 z2 [EGBe]2 z2 [EGBe]2 z2 | %3
+w: |
+w: |
+ [EGBe]2 z2 [EGBe]2 z2 [EGBe]2 z2 [EGBe]2 z2 ||"Am7" e4 d2>e2-"D7" eBdB de^AB- | %5
+w: |Hey kids, shake _ it loose to- geth- er The spot-|
+w: |Hey kids, plug _ in- to the faith- * less May-|
+"G" B^ABA BABA"G#dim" BABA B2<d2 |"Am7" z Aed ed2e-"D" e2dd- dB(3dBe- |"Em" e2<B2- B2 z2 z6 eB | %8
+w: * light's hit- ting some- thing that's been known to change the wea- ther|We'll kill the fat- ted calf _ to- night _ so stick a- round|_ _ _ _ You're|
+w: * be they're _ blind- ed _ But Ben- nie makes them age- less|* * We shall sur- vive, _ let us _ take our- selves a-|* long _ Where we|
+"Am" eded d2de-"Bm" eddB d2Be- |"C" e8 z4 z g3 ||"G" gggg- geed ed2d- d2g2 |"Am7" A4 eA2(G A4) z4 | %12
+w: gon- na hear e- lec- tric mu- * sic so- lid walls of sound|_ Say,|Can- dy & Ron- * nie, have you seen them yet _ But|they're so spaced out, _|
+w: fight our pa- rents out in the streets To find who's right & who's|wrong *|||
+"C" AAAB E4 z4 z3 g- |"G" geee- e2dd d2(e2 g)g z g- |"Am" geed eBG2- G4 z ded | %15
+w: Ben- nie & the Jets Oh|_ but they're weird _ & they're won- der- * ful Oh|_ Ben- nie she's real- ly keen _ She's got e-|
+w: |||
+"C" ede2- e2>e2"D" fef2 z de^d |"Em" e^ded edeb-"Em7/D" b2>g2 z =d3- | %17
+w: lec- tric boots _ a mo- hair suit You know I|read it in a ma- ga- zi- ne _ _ oh!|
+w: ||
+"C" d4"Bb/C" z4 z ddd"D" ddde |"Gmaj7" B4 [GBd]4 [GBe]2 z [GBd] z2 [GBe]2 | %19
+w: _ Be- Be- Be- Ben- nie & the|Jets * * * *|
+w: ||
+ z2 [GBd] z [GBd]2<[GBe]2 [GBe]4 [GBd]4 |"Fmaj7" [EAc]2>[DGB]2 z2 z [C=FA] z2 z [EAc] z [DGB]3 | %21
+w: ||
+w: ||
+ z2 [=FAc]2 [DGB][CFA]2[FAc] z [DGB]2[CFA] z4"^D.C. al Coda" |:"Gmaj7" d2<B2 z4 d2<B2 z4 | %23
+w: |Ben- nie Ben- nie|
+w: ||
+ d2<B2 z4 dB2A- AGA2- |"Fmaj7" A2>G2- G8 z4 | z2 [=FAc]2 [DGB][CFA]2[FAc] z [DGB]2[CFA] z4 :| %26
+w: Ben- nie Ben- nie & _ the Jets|_ _ _||
+w: |||
+

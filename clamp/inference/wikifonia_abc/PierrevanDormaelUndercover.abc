@@ -1,0 +1,35 @@
+X:1
+T:Undercover
+T:Undercover
+T:
+C:Pierre van Dormael
+Z:All Rights Reserved
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:4/4
+K:A
+V:1 treble nm="Lead Guitar 1" snm="Lead"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:2 treble 
+%%MIDI channel 1
+%%MIDI control 7 100
+%%MIDI control 10 64
+L:1/4
+V:1
+"F#m7""^A""^Allegro" z (AcA fAcA) |"F#m7/E" z (AcA fAcA) |"Dmaj7" z (AcA fAcA) | %3
+"C#sus4" z (GcG fGcG) ||"F#m""^legato comp. repeat" z AcA fAcA |"F#m7/E" z AcA fAcA | %6
+"Dmaj7" z AcA fAcA |"C#sus4" z GcG"^Lead" z (c fg) ||S"F#m""^B" a8 |"F#m7/E" b6- ba | %10
+"Dmaj7" (gf- f6) |"C#sus4" z4 z (c fg |"F#m" a8) |"F#m7/E" z8 |"Dmaj7" c'c'- c'4 (ba | %15
+"C#sus4" f8) |"F#m" z4 d'c'ba |"F#m7/E" c'a b4 z2 | z"B9/D#" c' z (c' b2) (af-) | %19
+"F#7/E" f4 z2 (fg)!dacoda! ||"Bm""^C" a6 (ba!dacoda!!dacoda! |"C#" g6) z (g | %22
+"F#m" a2) gb- b2"F#m7/E" (ag-) |"D#m7b5" g4 z (c fg)!D.S.! ||O"Dmaj7""Dmaj7/C#" a8 |"Bm""Bm/A" z8 | %26
+"G#7""D7" z8 |"C#" z4 z b z a |"Dmaj7" (gf-)"Dmaj7/C#" f6 |"Bm""Bm7/A" z8 |"G#7""D7" z8 | %31
+"C#" (b/c'/b-) b4 z a |"F#m" (gf-) f6 |"F#m7/E" z8 |"Dmaj7" z8 |"C#sus4""_rit." z8 |"F#m" z8 | %37
+"F#m7/E" z8 |"Dmaj7" z8 |"C#sus4" z8 |"F#m" z8 |] %41
+V:2
+ F4 | E4 | D4 | C4 || F4 | E4 | D4 | C2 x2 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %18
+ x4 | x4 || x4 | x4 | x4 | x4 || x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | x4 | %37
+ x4 | x4 | x4 | x4 |] %41
+

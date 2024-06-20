@@ -1,0 +1,18 @@
+X:1
+T:Shindler's List Theme Song
+T:Shindler's List Theme Song
+C:John Williams
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+ z4 z2 F2 |"Gm" dGdG edBD |"Cm" BB,"F7"Bc"Bb""D7" d4 |"Gm" dGdG"Cm7" fedc |"F7" FEAc"Bb" edcB | %5
+"Am7b5" cEcE"D7" dcBc |"Gm" d6 z D |"Am7b5" cEcE"D7" dcBA |"Gm" G4 A4 |"Cm7" BCBC"D7" dcBA | %10
+"Gm" G3 d g4 | z d/c/ed"Cm6" A>B c2- | cB/c/AG/^F/"Gm" A G3 | z d/c/ge"Cm6" A>B c2- | %14
+ cC/D/EE/F/"Gm" GA/B/"Eb7" ^c2 |"Gm" dGdG edBD |"Cm7" BC"F7"Bc"Bb""D7" d4 |"Gm" dGdG"Cm7" fedc | %18
+"F7" FEAc"Bb" edcB |"Am7b5" cEcE"D7" dcBc |"Gm" d4"Gm" ^FE"Gm7"DD |"Am7b5" cEcE"D7" dcBA | %22
+"Gm" G2- G/B,/D/E/ A4 |"Cm7" BCBC"D7" dcBA |"Gm" G4 E2 D2 |"Gm" G3 B dgbd' | g' z z2 z4 |] %27
+

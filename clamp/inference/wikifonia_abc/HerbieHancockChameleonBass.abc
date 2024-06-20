@@ -1,0 +1,19 @@
+X:1
+T:Chameleon_Bass
+T:Chameleon_Bass
+T:Herbie Hancock
+C:Herbie Hancock
+Z:All Rights Reserved
+L:1/8
+Q:1/4=100
+M:4/4
+K:Bb
+V:1 bass transpose=-12 nm="Electric Bass" snm="E.B."
+%%MIDI program 33
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ z4 z G,,_A,,=A,, |: B,,z/_A,/- A,/z/B, z B,,C,_D, | D,z/B,z/_D z G,,_A,,=A,, | %3
+ B,,z/_A,/- A,/z/B, z B,,C,_D, | D,z/B,z/_D z G,,_A,,=A,, | B,,z/_A,/- A,/z/B, z B,,C,_D, | %6
+ D,z/B,z/_D z G,,_A,,=A,, :| %7
+

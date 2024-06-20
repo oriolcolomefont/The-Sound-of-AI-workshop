@@ -1,0 +1,47 @@
+X:1
+T:Ne Me Quitte Pas
+C:Jacques Brel
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:none
+V:1 treble 
+%%MIDI program 0
+V:1
+ z2 z2"Dm6" z2 |"E7" z4"Dm6" z2 |"E7" z2 E E F E |:"Am" E2 E E F E |"Am7" E2 E E F E | %5
+w: ||Ne me quit\- te|pas. il faut ou\- bli\-|er, Tout peut s'ou\- bli\-|
+w: |||pas. Je t'in ven\- te|rai Des mots in\- sen\-|
+w: |||pas, Je n'vais plus pleu|rer Je n'vais plus par\-|
+"Dm" D2 D D E D |"E7" D2 D D E D |"Dm" D2 D D E D |"E7" D2 D D E D |"Am" C2 C C D C | %10
+w: er Qui s'en\- fuit dé\-|jà, Ou\- bli\- er le|temps Des ma\- len\- ten\-|dus Et le temps per\-|du A sa\- voir com\-|
+w: sés Que tu com\- pren\-|dras, je te par\- le\-|rai De ces a\- mants|là Qui ont vu deux|fois Leurs coeurs s'em\- bra\-|
+w: ler, Je me cach'\- rai|là A te re\- gar\-|der Dan\- ser et sou\-|rire Et à t'é\- cou\-|ter Chan\- ter et puis|
+"Am7" C2 C C D C |"Dm" B,2 B, B, C B, |"E7" B,2 B, B, C B, |"Am" A,2 A, A,"Dm" B, A, | %14
+w: ment Ou\- bli\- er ces|heures Qui tu\- aient par\-|fois A coups de pour\-|quoi Le coeur du bon\-|
+w: ser Je te ra\- cont'\-|rai L'his\- toire de ce|roi Mort de n'a\- voir|pas Pu te ren\- con\-|
+w: rire; Laiss' moi de\- ve\-|nir L'om\- bre de ton|ombre L'om\- bre de ta|main L'om\- bre de ton|
+"Am" A,2 A, A, B, A, |"Dm" A,2 A, A, B, A, |"E7" ^G,2 G, G, A, G, |"Am" A,2 A, A,"Dm" B, A, | %18
+w: heur Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|
+w: trer Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|
+w: chien; Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|
+[M:1/4]"^Fin""Am" !fermata!A,2 ||[M:2/4] E E F ^G ||[M:3/4]"Am" A2 A A B A |"F" c2 c c B A | %22
+w: pas.|Moi je t'of\- fri\-|rai Des per\- les de|pluie Ve\- nues de pa\-|
+w: pas.|On a vu sou\-|vent Re\- jail\- lir le|feu De l'an\- cien vol\-|
+w: pas.||||
+"E7" B2 B B ^G E |"Am" A2 E E"E7" ^F ^G |"Am" A2 A A B A |"F" c2 c c B A |"G" =G2 G D"Dm6" G F | %27
+w: ys Où il ne pleut|pas Je creus'\- rai la|terre Jus\- qu'a\- près ma|mort Pour cou\- vrir ton|corps D'or et de lu\-|
+w: can, Qu'on croy\- ait trop|vieux; Il est pa\- rait|il Des ter\- res brû\-|lées Don\- nant plus de|blé Qu'un meil\- leur a\-|
+w: |||||
+"E7" E2 E ^G A B |"Am" c2 c c e c |"Gm" _B2 B B d B |"F" A2 A A"E7" ^G A |"Am" A2 A A B A | %32
+w: mière Je f'rai un do\-|maine Où l'a mour s'ra|roi Où l'a\- mour s'ra|loi Où tu se\- ras|reine Ne me quit\- te|
+w: vril, Et quand vient le|soir Pour qu'un ciel flam\-|boie Le rouge et le|noir Ne s'é\- pous'ent ils|pas, Ne me quit\- te|
+w: |||||
+"C" =G2 G G A G |"Dm" F2 F F"Dm6" G F |"E7" E2 E E"Dm6" F E |"E7" E2 z2"Dm6" z2 |"E7" z6 | %37
+w: pas, Ne me quit\- te|pas, Ne me quit\- te|pas. Ne me quit\- te|pas.||
+w: pas. Ne me quit\- te|pas, Ne me quit\- te|pas, Ne me quit\- te|pas.||
+w: |||||
+"E7" z2 E E F E :| %38
+w: Ne me quit\- te|
+w: Ne me quit\- te|
+w: |
+

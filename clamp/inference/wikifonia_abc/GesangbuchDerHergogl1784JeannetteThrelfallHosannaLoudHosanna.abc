@@ -1,0 +1,35 @@
+X:1
+T:Hosanna, Loud Hosanna
+T:Hosanna, Loud Hosanna
+T:Palm Sunday
+T:Gesangbuch Der Hergogl - 1784
+T:Jeannette Threlfall
+T:Public Domain
+C:Gesangbuch Der Hergogl - 1784
+Z:Public Domain
+L:1/4
+Q:1/4=120
+M:4/4
+K:Bb
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"F""^120" F |"Bb" B (A/G/) F B |"Gm" (D"F" E)"Bb" F F |"Gm" (G/A/)"Bb" B"C7" c c |"Bb" d3"F" F | %5
+w: 1.~Ho~~~-|san- na, * loud ho-|san- * na The|lit- * tle chil- dren|sang. Through|
+w: 2.~From|Ol- i- * vet they|fol- * lowed 'Mid|an * ex- ult- ant|crowd. The|
+w: 3.~"Ho~~~-|san- na * in the|high- * est! That|an- * cient song we|sing. For|
+"Bb" B (A/G/) F B |"Gm" (D"F" E)"Bb" F F |"Gm" (G/A/)"Bb" B"F" B A |"Bb" B3 (B/c/) | %9
+w: pil- lared * court and|tem- * ple The|love- * ly an- them|rang. To *|
+w: vic- tor * palm- branch|wav- * ing, And|chant- * ing clear and|loud. The *|
+w: Christ is * our Re-|deem- * er, The|Lord * of heav'n our|King. O *|
+ d"Em" c"Bb" d"Em" e |"F" (c A/B/) c"Bb" (B/c/) | d"F" c"Bb" d"Em" e |"F" c3 F |"Bb" B (A/G/) F B | %14
+w: Je- sus, who had|blessed * * them Close *|fold- ed to His|breast, The|chil- dren * sang their|
+w: Lord of men and|an- * * gels Rode *|on in low- ly|state, Nor|scorned that * lit- tle|
+w: may we ev- er|praise * * Him With *|heart and life and|voice, And|in His * bliss- ful|
+"Gm" (D E"F" F)"Bb" F |"Em" (G/A/)"Gm" B"F" B A |"Bb" B3 |] %17
+w: prais- * es, The|sim- * plest and the|best.|
+w: child- * ren Should|on * His bid- ding|wait.|
+w: pres- * ence E-|ter- * nal- ly re-|joice!|
+

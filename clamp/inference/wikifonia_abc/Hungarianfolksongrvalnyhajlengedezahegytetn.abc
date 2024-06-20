@@ -1,0 +1,17 @@
+X:1
+T:Árvalányhaj lengedez a hegytetőn
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"C" cc BA |"G" GG AB |"C" c2 A2 |"G" G2 z2 |"C" cc BA |"G" GG AG |"F" A2 F2 |"G" D2 z2 |:"C" E3 D | %9
+w: Ár- va- lány- haj|len- ge- dez a|hegy- te-|tõn,|Ár- va va- gyok,|el- ha- gyott a|sze- re-|tõm,|Ha el-|
+ E2 C2 |"G" GG ^FG |"F" A2 F2 |"G" D2 z2 |"C" GG AB |"G" cG GF |"G7" E2 D2 |"C" C2 z2 :| %17
+w: ha- gyott,|hagy- jon- is el|ö- rök-|re,|Hogy ne le- gyen|min- den lány- nak|hat ök-|re.|
+

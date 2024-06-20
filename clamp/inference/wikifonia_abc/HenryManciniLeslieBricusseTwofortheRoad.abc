@@ -1,0 +1,26 @@
+X:1
+T:Two for the Road
+T:Two For The Road
+C:Henry Mancini
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+ z4"C" EE=FE |:"F#m7b5" E3 C C4- |"B7b5" C3"B7b9" B,"B7" ^DFAG |"Em" F3 E G4- |"C" G3 B, CEBA | %5
+w: If you're feel- ing|fan- cy free,|_ Come wan- der thru the|world with me,|_ And a- ny place we|
+"Am" G3 F A4- |"D" A2 D2 F2 A2 |"Adim" c3 B"G" B4- |"Bm" B2 B2 B2 B2 |"Em" B3 B BABA | %10
+w: chance to be|_ will be our|ren- dez'- vous.|_ Two for the|road, we'll trav- el down the|
+ B3 E"A9" ^DEFG |"Dm" A3 D A4- | A3 D"G9" ^CDE=F |"Gm6" G4-"A7" G_BAG |"Fm6" =F4-"G7" F_AGF | %15
+w: years col- lect- ing prec- ious|mem- o- ries,|_ se- lect- ing sou- ven-|irs, _ and liv- ing|life _ the way we|
+"C" E8- | E3 E EE=FE |"F#m7b5" E3 C C4- |"B7b5" C3"B7b9" B,"B7" ^DFAG |"Em" F3 E G4- | %20
+w: please.|_ In sum- mer- time the|sun will shine;|_ in win- ter we'll drink|sum- mer wine.|
+"C" G3 B, CEBA |"Am" G3 F A4- |"D" A2 D2 F2 A2 |"Adim" c3 B"G" B4- |"G7" B2 B2 c2 B2 | %25
+w: _ And ev- 'ry day that|you are mine|_ will be a|love- ly day.|_ As long as|
+"Em" d4 (3G2 G2 G2 |"C#m7b5" B6"Cm6" A2 |"G" d3 G G2 G2 |"C" G2 AG F2 E2 |"Bm7" D6"Bb7" G2 | %30
+w: love still wears a|smile, I|know that we'll be|two for the road, and|that's a|
+"Am7" D4"Ab7" B4 |1"G" G8- ||"Dm7" G4"G7" EE=FE :|2"G" G8- || G8 |] %35
+w: long, long,|while.|_ If you're feel- ing|while|_|
+

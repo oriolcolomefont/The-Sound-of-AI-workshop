@@ -1,0 +1,19 @@
+X:1
+T:See amid the winters snow
+T:See amid the winter snow
+T:unknown
+C:unknown
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"G" G3 A G2 F2 |"C" E3 D D4 |"G" G2 A2 c2 B2 |"D" B3 A A4 |"G" G3 A G2 F2 |"C" E3 D D4 | %6
+w: See a- mid the|win- ter snow|born for us on|earth be- low|see the ten- der|lamb ap- pears|
+"G" G2 A2 B2 c2 |"D" A3 G"G" G4 |"D" d3 d c2 B2 |"C" A2 G2"G" F4 |"D" d3 d c2 B2 |"C" A2 G2"G" F4 | %12
+w: prom- ised from e-|ter- nal years|Hail, thou ev- er|bless- ed morn!|Hail, re- demp- tions|hap py dawn!|
+ G3 A G2 F2 |"C" E3 D D4 |"D" d3 B G2 c2 |"C" B2 A2"G" G4 |] %16
+w: sing thro" all Je-|ru sa lem|Christ is born in|Beth- le- hem.|
+

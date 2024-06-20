@@ -1,0 +1,35 @@
+X:1
+T:Color My World
+C:Jimmy Pankow
+Z:All Rights Reserved
+L:1/8
+M:12/8
+K:F
+V:1 treble nm="Guitar" snm="Guit."
+%%MIDI program 24
+V:1
+"Fmaj7" F"_PIANO INTRO"Ac ecA FAc ecA |"Fmaj7" FAc ecA FAc ecA |"Amin" EAc ecA EAc ecA | %3
+w: |||
+ F"Bb "Bd fdB FBd fdB |"Ebmaj7" GBd fdB GBd fdB |"Abmaj7" _Ac_e gec Ace gec | %6
+w: |||
+"Gbmaj7" _GB_d fdB GBd fdB |"D7" ^FAc ecA FAc dcA |"Gmaj7" G=Bd ^fdB GBd fdB | %9
+w: |||
+"Eb7" GB_d fdB GBd fdB |"C7" GBc ecB GBc ecB |"C7" GBc ecB GBc ecB | %12
+w: |||
+"Fmaj7" FAc e"Bb "cA FB"C7"d G z C | FGA- A3"Amin""F " F3 AGF |"Amin" A6 z3 ABc | %15
+w: * * * * * * * * * * As|time goes on~ * * I re- al-|ize just what you|
+"Bb " B6- B3 z BF |"Ebmaj7" G6 z3 z2 B, |"Abmaj7" c6- c3 _ec_A |"Gbmaj7" B6 z3 BBB | %19
+w: mean * t\- o|me and|now, * now that you're|near, prom- ise your|
+"D7" A6 z D E ^FGA |"Gmaj7" =B6- B3 z2 B |"Eb7" B6 z _E F G_AB |"C7" cBG- G3- G6 | %23
+w: love that I've wait- ed to|share * and|dreams of our mo- ments to-|ge- the- er * *|
+ edc B3 A3- A2 G |"Fmaj7" F6"Bb " z2 F"C7" G2 E |"Fmaj7" F6-"_FLUTE SOLO" F3 F3 | %26
+w: col- or my wo- rld * with|hopes of lov- ing|you. * *|
+"Amin" AGF A3- A3 ABc |"Bb " d6- d3 z2 c/B/ |"Ebmaj7" G6- G3 z2 d |"Abmaj7" c6- c3 _ec_A | %30
+w: ||||
+"Gbmaj7" B6- B3 B_A_G |"D7" A6- ADE ^FGA |"Gmaj7" =B6 z A G ^FED |"Eb7" _E6 z E F G_AB | %34
+w: ||||
+"C7" c3 G3- G6 | edc gfe edc BAG/E/ |"Fmaj7""Bb " F6"C7" F3 G3 | %37
+w: |||
+"Fmaj7" A/B/(3A/B/A/-"Bbmaj7"A/B/ A/B/ A2-"C7" A6- |"Fmaj7" A6- A2 z z3 |] %39
+w: ||
+

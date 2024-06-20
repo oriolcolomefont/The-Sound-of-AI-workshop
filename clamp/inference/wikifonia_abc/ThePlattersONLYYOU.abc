@@ -1,0 +1,24 @@
+X:1
+T:ONLY YOU
+T: Laukens Music Productions  
+T:Slow Rock 
+T:ONLY YOU
+T:Arr. H. Laukens 
+C:The Platters
+Z:All Rights Reserved
+L:1/4
+Q:1/4=195
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 2
+%%MIDI program 16
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ ^F G |:"C" e4- | e G c e |"E7" d3/2 B/ ^G2- | G2 e d |"Am" c4- | c E A c |"C7" _B3/2 G/ E2- | %8
+ E2 F G |"F" A3/2 F/ A c |"G7" B3 G |"C" e e"E7" d d |"Am" c3 c |"D7" d c c B | A3/2 A/ A e | %15
+"Dm7" d4- |"G7" d2 ^F G |"C" e4- | e G c e |"E7" d3/2 B/ ^G2- | G2 e d |"Am" c4- | c E A c | %23
+"C7" _B3/2 G/ E2- | E2 F G |"F" A3/2 F/ A c |"Fm" e/d/ c2 _A |"C" G A"E7" B"Am" c |"D7" e2 ^G A | %29
+"Dm7" d3/2 e/ A _B |"G7" B3/2 A/ B"Bb" d |"C" c4- |1 c2 ^F G :|2 (c2) x2 |] %34
+

@@ -1,0 +1,24 @@
+X:1
+T:Reverie
+T:Reverie
+C:Claude Debussy
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Gm" g2 d2- | d e/f/ g e/d/ | (3e c e d2- | d2 B d |"F" e f c2- |"C7" c2 G2 |"F" A4- | A4 | %8
+"Dm7" a2"Am" e2- | e d/e/"Gm7" d B/G/ |"Dm7" a2"Am" e2- | e d/e/"Gm7" d B/G/ |"C9" g2 d2- | %13
+ d B/d/"F" c A/G/ |"Am" A E/G/"Dm" F D/F/ |"Gm7" D2"C7" C2 |"F9" c2 G2- | G A/B/ c A/G/ | %18
+ (3A F A G2- | G2 _E G |"Bb" A B F2- | F2 A B | c d A2- | A2 B d |"F+/G" f2 ^c2 | %25
+"Dm" z d/e/ f f/a/ |"F+/G" g2 ^c2 |"Dm" z d/e/ f f/a/ | f D/E/ F F/A/ |"G7" F2 D2- |"C" D C c2 | %31
+"Gm" g2 d2- | d e/f/ g e/d/ | (3e c e d2- | d2 B d |"F" e f c2- |"C7" c2 G2 |"F" A4- | A4 | %39
+"Dm7" a2"Am" e2- | e d/e/"Gm7" d B/G/ |"Dm7" a2"Am" e2- | e d/e/"Gm7" d B/G/ |"Eb" g2 d2- | %44
+ d B/d/ c"F7" A/F/ |"Eb" g2 d2- | d B/d/"Cm6" c"D" d |"Gm" B"A" A A"Gm" B | B"A" A A2 | %49
+"Gm" B"A" A A"Gm" (3B/d/B/ |"A" A G"Dm" F2 |"Gm" B"A" A A"Gm" B | B"A7" A A2 | %53
+"Gm6" B"A7" A A"Gm" (3B/d/B/ |"C7" A2 G2 |"F" F4 | %56
+

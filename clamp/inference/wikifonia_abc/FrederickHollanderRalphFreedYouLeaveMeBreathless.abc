@@ -1,0 +1,28 @@
+X:1
+T:You Leave Me Breathless
+T:You Leave Me Breathless
+C:Frederick Hollander
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ c2 c2 c2 |:"Gm7b5" c2 _D4 B2 |"C7" A2"A7b9" C4 G2 |"Dm7" F8- |"G9" F2 F2 A3 =B, | %5
+w: You leave me|breath- less, you|heav- en- ly|thing.|_ You look so|
+"F" =B,D"F#dim7" C6- |"C7" CCEG d2 d2 |"F6" d8- | d2 c2"F#dim7" c2 c2 ||"Gdim7" c2 _D4 B2 | %10
+w: won- der- ful,|_ you're like a breath of|spring.|_ You have me|speech- less, I'm|
+"C7" A2"A7b9" C4 G2 |"Dm7" F8- |"G9" F2 F2 A3 =B, |"F" =B,D"F#dim7" C6- |"C7" CCEG d2 E2 | %15
+w: just like the|birds,|_ I'm filled with|mel- o- dy,|_ but at a loss for|
+"F6""Eb9" F8- |"F6" F4- FFFF ||"Db9" _AB A2- AFFF |"Gm7b5" Bc"C7" B4 c_d |"F6" =d3 A A2 A2- | %20
+w: words.|_ _ That lit- tle|grin of yours, _ that fun- ny|chin of yours, does so|much to my heart.|
+ A4- AFFF |"Db7" _AB A2- AFFF |"Gm7b5" Bc B2- B_AB=B |"Gm7" c3 G G2 G2- |"C7" G2 c2"F#dim7" c2 c2 | %25
+w: _ _ Oh! Give your|lips to me, _ for dar- ling,|that would be _ the fi- nal|touch to my heart.|_ You leave me|
+"Gm7b5" c2 _D4 B2 |"C7" A2"C#dim7" C4 G2 |"Dm7" F8- |"G9" F2 F2 A3 =B, |"F" =B,D"F#dim7" C6- | %30
+w: breath- less, that's|all I can|say.|_ I can't say|more, be- cause|
+"C7" CCEG d2"C7b9" E2 |1"F6" F8 | z2 c2"F#dim7" c2 c2 :|2"F6""Bm6" F8- |"F6" F8 |] %35
+w: _ you take my breath a-|way.|You leave me|way.|_|
+

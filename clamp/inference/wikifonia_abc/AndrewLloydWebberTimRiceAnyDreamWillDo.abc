@@ -1,0 +1,35 @@
+X:1
+T:Any Dream Will Do
+C:Andrew Lloyd Webber
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="[Alto Saxophone]"
+%%MIDI program 65
+V:1
+"C"z/>.C/ .G/>.c/z/>.c/ .G/>.C/ |"F/C"z/>.C/ .G/>.c/z/>.c/ .G/>.C/ |"C"z/>.C/ .G/>.c/z/>.c/ .G | %3
+w: |||
+"G6" G E E G |"C" G4 |"G6" z e e d |"C" c2 G2 |"F" z c B A |"C" G2 E2 |"G7" z F/>F/ E D |"C" G4 | %11
+w: * I close my|eyes|drew back the|cur- tain|to see for|cer- tain|what I thought I|knew|
+"G6" z E E"G7" F |"C" G4 |"G6" z e e d |"C" c2 G2 |"F" z c/>c/ B A |"C" G2 E2 |"G7" z F/>F/ E D | %18
+w: Far far a-|way|some- one was|weep- ing|but the world was|sleep- ing,|an- y dream will|
+"C" C4 |"G6" z E E"G7" F |"C" G4 |"G6" z e e d |"C" c2 G2 |"F" z c B A |"C" G2 E2 | %25
+w: do|I wore my|coat|with gold- en|line- ing|bright col- ours|shin- ing|
+"G7" z F/>F/ E D |"C" G4 |"G6" z E E"G7" F |"C" G4 |"G6" z e e d |"C" c2 G2 |"F" z c/>c/ B A | %32
+w: won- der- ful and|new.|and in the|east|the dawn was|break- ing|and the world was|
+"C" G2 E2 |"G7" z F/>F/ E D |"C" C4- |"Bb/C" C2"C7"zz/>c/ |"F" c A/"F6"d/- dz/A/ | %37
+w: wak- ing|an- y dream will|do.|_ A|crash of drums, * a|
+"Fmaj7" c A/"F6"d/- dz/>A/ |"D7" c c"D" d A |"D9" c c/d/- dz/>d/ |"C/G" e e"G" d"C" e | %41
+w: flash of light * my|gold- en coat flew|out of sight _ The|col- ours fad- ed|
+"G7" f"C/G" e"G7" d"C/G" c |"G" B"Dm/G" A"G" B"D7/G" c |"G" d4- |"Dm7/G" d2 z z |"G7" z E E G | %46
+w: in- to dark- ness,|I was left a-|lone|_|May I re|
+"C" G4 |"G6" z e e d |"C" c2 G2 |"F" z c B A |"C" G2 E2 |"G7" z F/>F/ E D |"C" G4 | %53
+w: turn|to the be-|gin- ing|the light is|dim- ming|and the dream is|too,|
+"G6" z E E"G7" F |"C" G4 |"G6" z e e d |"C" c2 G2 |"F" z c B A |"C" G2 E2 |"G" z F/>F/ E D | %60
+w: the world and|I,|we are still|wait- ing|still hes- i-|tat- ing|an- y dream will|
+"C" C z3 |"Dm7/C" z4 |"C" z4 |"Dm7/C" z F/>F/ E D |"C" G2 z2 |"Dm7/C" z4 |"C" z4 | %67
+w: do,|||An- y dream will|do|||
+"Dm/G" z F/F/ E D |"C" !fermata!C4 |] %69
+w: An- y dream will|do|
+

@@ -1,0 +1,26 @@
+X:1
+T:It Only Happens When I Dance With You
+T:It Only Happens When I Dance With You
+C:Irving  Berlin
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|: z"Cmaj7" E ^D E |"A7b9" F E ^D E |"Dm7" F2 E G- |"G7" G4 |"Cmaj7" z G ^F G |"A7b9" _A G ^F G | %6
+w: It on- ly|hap- pens when I|dance with you,|_|that trip to|heav- en 'till the|
+"Dm7b5" _A2 G B- |"G7" B4 |"Fmaj7" z A B c |"Fm6" (3d e d (3B d c |"Cmaj7" G3/2 G/ G2- | %11
+w: dance is through.|_|With no- one|else do the heav- ens seem|quite so near.|
+ G2 (3B d c |"Em7" E3/2 E/ E2- |"A7b9" E2 (3F A G |"Dm7" D4- |"G7b9" D2 z2 |"Cmaj7" z E ^D E | %17
+w: _ Why does it|hap- pen dear,|_ on- ly with|you?|_|Two cheeks to-|
+"A7b9" F E ^D E |"Dm7" F2 E G- |"G7" G4 |"Cmaj7" z G ^F G |"A7b9" _A G"C#dim7" ^F G | %22
+w: geth- er can be|so di- vine;|_|but on- ly|when those cheeks are|
+"Dm7b5" _A2 G B- |"G7" B4 |"Fmaj7" z A B c |"Fm6" (3d e d (3B d c |"Em7b5" G2 _B2 |"A+7" A4 | %28
+w: yours and mine.|_|I've danced with|doz- ens of oth- ers the|whole night|through,|
+"Dm7" z G/G/ G G |"G7" G F F _A |"C" _A G"Em7" G B |"A7" B A3 |"Dm7" z d d d |"G11" d c2"G7" B |1 %34
+w: but the thrill that|comes with spring when|an- y- thing could|hap- pen,|that on- ly|hap- pens with|
+"C6""Am9" c4- |"Dm7" c3"G7" z :|2"C6" c4- | c3 z |] %38
+w: you.|_|you.|_|
+

@@ -1,0 +1,26 @@
+X:1
+T:By Strauss
+T:By Strauss
+C:George Gershwin
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2"C7" CD EG |:"Gm7" FE D4 |"C9" z2 DE FA |"F" G6 | z2 FG Ac |"Gm7" BA G4- |"C7" G2 z2"C+9" d2 | %7
+w: When I want a|mel- o- dy|lilt- ing thru the|house,|Then I want a|mel- o- dy|_ by|
+"F6" d6- | d4"Dm6" e2 |"E7" e2 z2"Em7" A2 |"A7" A2 z2"Am7" d2 |"D7" d3 B A2 |"Gm" G6 | %13
+w: Strauss!|_ It|laughs! It|sings! The|world is in|rhyme,|
+"Dm7" G2 A2 G2 |"G7" A2 G2 A2 |"G7b5" G6- |"C7" G2 CD EG |"Gm7" FE D4 |"C9" z2 DE FA |"F" G6 | %20
+w: Swing- ing to|three quar- ~~ter|time.|_ Let the "Dan- ube"|flow a- long|And the "Fle- der-|maus!"|
+ z2 FG Ac |"Gm7" BA G4- |"C7" G2 z2"C+9" d2 |"F6" d6- | d2 z2"F7" f2 |"Bb" f4"Db" F2 | F4"Eb7" G2 | %27
+w: ~Keep the wine and|give me song|_ by|Strauss!|_ By|Jo! By|Jing! "By|
+"F" A2 B2 A2 | c2 CD"Fdim" EG |"Gm7" FE D4- |"C9" D2 z2"C+7" c2 |"F" c6- |"F7" c2 FG"D7" Ac | %33
+w: Strauss" is the|thing! So I say to|ha- cha- cha|_ Her-|aus!|_ Just give me a|
+"Gm" BA G4- |"C7" G4"Bb" f2 |1"F" f6 |"Db7" z2"C7" CD EG :|2"F""C9" f6- |"F" f2 z4 |] %39
+w: oom- pah- pah|_ By|Strauss!|When I want a|Strauss!|_|
+

@@ -1,0 +1,64 @@
+X:1
+T:All I Want For Christmas Is You
+T:All I Want For Christmas Is You
+C:Wally Afanasieff
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:"G" G,2 B,2 D2 FG- |"Gmaj7" G F3 E D3 |"G" A2 G2 G F2 G- |"Gmaj7" G F2 (E D2) DC- | %4
+w: I don't want a lot|_ for Christ- mas,|there is just one thing|_ I need. _ And I|
+w: I won't ask for much|_ this Christ- mas,|I won't e- ven wish|_ for snow. _ And I,|
+w: ||||
+"C" C2 E2 G2 AB- |"C6" B A2 G- G E3 |"C6/Eb" C2 _E G3 AB- | B A2 (=F2 _E3) |S"G" A2 G G3 FG- | %9
+w: _ don't care a- bout|_ the pres- * ents|un- der- neath the Christ-|* mas tree. _|I don't need to hang|
+w: _ I'm just gon- na|_ keep on wait- ing|un- der- neath the mis-|* tle- toe. _|I won't make a list|
+w: ||||I don't want a lot|
+"Gmaj7" G F2 E- E D3 |"G" G,2 B,D- D F2 G- |"Gmaj7" G F2 E- (EF/)E/ D2 |"Cmaj7" z2 BB B2 AB- | %13
+w: _ my stock _ ing|there up- on _ the fi-|* re- place. _ _ _ _|San- ta Claus won't make|
+w: _ and send _ it|to the North- * pole for|_ Saint Nick. _ _ _ _|I won't e- ven stay|
+w: _ for Christ- * mas,|this is all _ I'm ask-|* ing for. _ _ _ _|I don't want a lot|
+ B A2 G2 E3 |"C6/Eb" C2 _EG- G A2 _B- | B A2 (=F _E4) |"G" G2 A2"Gmaj7" ^F2 G=E- | %17
+w: _ me hap- py|with a toy _ on Christ-|* mas day. _|I just want you for|
+w: _ a- wake to|hear those _ ma- gic rein-|* deer click. _|I just want you here|
+w: _ for Christ- mas,|this is all _ I'm ask-|* ing for. _|I just to see my|
+"G6" E F2 ^D-"B7" D4 |"Em7" G2 A2 F2 GE- | E F2 _E-"C6/Eb" E4 |"G/D" D2 =E2 G d2 (c- | %21
+w: _ my own. _|more than you could e-|* ver know. _|Make my wish come true:|
+w: _ to- night. _|hold- ing on to me|_ si tight. _|What more can I do?|
+w: _ ba- by. *|stand- ing right out- side|_ my door. _|Make my wish come true.|
+"E7" cd c2) z4 | c3 c- c2 z2!dacoda! |"Am9" B2 A2 G2 E2 |"D7b9" _E2 A4 B2 |"G6" (A G3-) G4- | %26
+w: _ _ _||all I want for|Christ- mas is|you. _ _|
+w: _ _ _|Ba- by! *||||
+w: _ _ _|||||
+"Em7" G2 z2 z4 |"Am9" (B4- Bd B2) |1"D7" B3 A- A (G2 A) :|2"D7" B3 A- A (G2 A ||"B7" B2) z2 B2 Bc | %31
+w: _|You, _ _ _|ba- by _ Oh, _|ba- by _ Oh, _|_ all the lights|
+w: |||||
+w: |||||
+ c B2 A- A G2 G |"Em7" E2 FG- G A2 A- | A2 G6 |"B7" z4 A B2 e- | e2 dA- A G3 | %36
+w: _ are shin- * ing so|bright- ly ev- * 'ry- where,|_ _|and the sound|_ of child- * ren's|
+w: |||||
+w: |||||
+"Em7" B2 dA- A G2 B- | B8 |"C6/Eb" z2 z D G A2 A- | A A2 G- G G3 |"G/D" z2 z D G A2 e- | %41
+w: laugh- ter fills _ the air.|_|And ev- 'ry- one|_ is sing- * ing.|I hear those sleigh-|
+w: |||||
+w: |||||
+"E7" e d2 A- A G3 |"Am9" BBBB B2 BB | BBBB B2 BB |"D9sus4" e2 dB dBde- | %45
+w: * bells ring- * ing.|San- ta, won't you please bring me|what I real- ly need, won't you|please bring my ba- by to me.|
+w: ||||
+w: ||||
+ (e d2 B (3AGE) (GA)!D.S.! |]O"Am9" B2 A2 G2 E2 |"D7b9" _E2 A6- | A8 | DEGA B A3 |"G6" z2 g6- | %51
+w: _ _ _ _ _ _ Oh, _|all I want for|Christ- mas|_|is _ _ _ _ _|you.|
+w: ||||||
+w: ||||||
+"Em7" g8 |"Am7" (B4- Bd B2) |"D7" B3 A- A4 |:"Gmaj7" B2 A2 G2 A2 |"Em7" B2 G4 A2 | %56
+w: _|Ooh, _ _ _|ba- by. _|All I want for|Christ- mas is|
+w: |||||
+w: |||||
+"Am7" (G4- Gd B2) |"D7""^Repeat and Fade" B3 A- A4 :| %58
+w: you, _ _ _|ba- by _|
+w: ||
+w: ||
+

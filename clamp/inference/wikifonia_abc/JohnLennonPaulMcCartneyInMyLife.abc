@@ -1,0 +1,48 @@
+X:1
+T:In My Life
+T:In My Life
+C:John Lennon, Paul McCartney
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:A
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 0
+V:1
+"A" C2 A2 CDEG- |"E" G8 |"A" C2 A2 CDEG- |"E7" G6 EF |:"A" B2 A2"E" B2 c2 |"F#m" ed z2"A/G" z2 Bc | %6
+w: |||* There are|plac- es I re-|mem- ber all my|
+w: ||||all these friends and|lov- ers there is|
+"D" (B3 c/B/"Dm" A3) =F |"A" E2 cc- c2 EF | B2 A2"E" B2 c2 |"F#m" ed z2"A/G" z2 Bc | %10
+w: life, _ _ _ though|some have changed _ Some for-|ev- er, not for|bet- ter; some have|
+w: no _ _ one com-|pares with you. _ And these|mem- 'ries lose their|mean- ing when I|
+"D" (B3 c/B/"Dm" A3) =F |"A" E2 cc- c2 AB |"F#m" (cB)(BA) (AF)(FA) |"D" cB z2 z2 z c | %14
+w: gone _ _ _ and|some re- main. _ All these|plac- * ces _ have _ their _|mo- ments with|
+w: think * of love as|some- thing new. _ Though I|know _ I'll _ nev- er lose af-|fec- tion for|
+"G" dcBA- A3 =F |"A" Eccc- c2 AB |"F#m" cBBA AFFA |"B7" cB z2 z2 z E |"Dm" (=c B2 A/B/) A3 =F |1 %19
+w: lov- ers and friends _ I|still can re- call. _ Some are|dead _ and _ some _ are _|liv- ing, in|my _ _ _ life I've|
+w: peo- ple and things _ that|went _ be- fore; _ _ I|know I'll of- ten stop and think a-|bout them, in|my _ _ _ life I|
+"A" E2 ^cc- c2 z2 || C2 A2 CDEG- |"E" G6 EF :|2"A" E2 ^cc- c2 z2 || %23
+w: loved them all. *||* But of|love you more. *|
+w: ||||
+"A" A,"^Piano Solo"E/A/cA"E" E (3B,/E/G/ BE |"F#m" FF,/C/F=G-"A/G" GA=gD | %25
+w: ||
+w: ||
+"D" D (3A,/D/A/ dd"Dm" D (3A,/D/A/ =ff |"A" A, (3A,/D/A/ ea- acAA | A,E/A/cA"E" E, (3B,/E/G/ BE | %28
+w: |||
+w: |||
+"F#power" FF,/C/F"A7"=G- GA=gD |"D" D (3D/A/d/ fa"Dm" DD/A/=fA |"A" A,A,/E/cA A,A,FA | %31
+w: ||* * * * * * * Though I|
+w: |||
+"F#power" (cB)(BA) (AF)(FA) |"Dpower" cc z2 z2 z c |"Gpower" dcBA-"G" A3 =F | %34
+w: know _ I'll _ nev- er lose af-|fec- tion for|peo- ple and things _ that|
+w: |||
+"Apower" E2 cc- c2"A" z B |"F#power" cBBA AFFA |"B" cB z2 z2 z E |"Dm" (=c B2 A/B/) A3 =F | %38
+w: went be- fore _ I|know I'll of- ten stop and think a-|bout them, in|my * * * life I|
+w: ||||
+"A" E2 ^cc- c2 z2 | C2 A2 CDE"E"G | G3 z z2 z e |"Dm/F" (=c' b2 a/b/) !fermata!a2 z =F | %42
+w: love you more *||* In|my _ _ _ life I|
+w: ||||
+[M:2/4]"^N.C." E2 c2 |[M:4/4]"A" c2 z2 CDEG |"E" G2"E7" GF G4 |"A" A8 |] %46
+w: love you|more. * * * *|||
+w: ||||
+

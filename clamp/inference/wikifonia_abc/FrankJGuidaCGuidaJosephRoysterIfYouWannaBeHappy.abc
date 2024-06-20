@@ -1,0 +1,30 @@
+X:1
+T:If You Wanna Be Happy
+C:Frank J Guida, C Guida & Joseph Royster
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="[Unnamed (treble staff)]"
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 GG AA B2S |:"Am7" cccc EE G2 |"D7" F2 z2 FGAA |"Bm7" d2 dF- FF A2 |"Em" G2 z2 GABc- | %5
+w: If you wan- na be|hap- py for the rest of your|life, ne- ver make a|pret- ty wo- _ man your|wife. So from my per-|
+w: |||||
+"Am" cc c2 E2 G2 |"D7" F2 z2 FFFF | F2 FA- AF"G" G2- |"" G2 GG"G7" AA B2"^D.S. al CODA" :|2 %9
+w: _ so- nal point of|view, get an ug- ly|girl to mar- _ ry you.|_ If you wan- na be|
+w: ||||
+"G" G2 z d g2 e2 |:"G" dddB ddBe- | e2 z B G2 B2 |"D7" AAAA ddBB |"G" G2 z G GGBB | dd d2 d2 Be- | %15
+w: _ A pret- ty|wo- man makes a man _ look small|_ and ve- ry|of- ten cau- ses his _ down _|fall. As soon as he *|mar- ries her, then she starts|
+w: |make an ug- ly wo- man your wife|_ _ you'll be|hap- py for the rest of your life.|_ An ug- ly wo- man|cooks _ your meals on time|
+ e2 z2 GG B2 |"D7" A2 AA d2 B2 |1"G" G2 z G G2 B2 :|2"G" G2 GG"G7" AA B2 ||O G2 z"^Coda" d g2 e2 | %20
+w: _ do- in the|things that wil break his|heart. But if you|||
+w: _ and _ she'll|al- ways _ treat you||kind. If you wan- na be|_ Don't let your|
+ d2 dB d2 B2 | e2 z2 GBBB |"D7" AAAd- dB"G" G2- | G2 z2 dddB | dddB d2 B2 | e2 z2 GGBA- | %26
+w: ||||||
+w: friends say you have no|time go a- head and|mar- ry her a- _ ny way.|_ Though her face is|ug- ly and her eyes don't|match, take it from me|
+"D7" AAAd- dB G2- |"G" G2 GG"G7" AA"^D.S. and Fade\nafter 1st ending" B2 || %28
+w: ||
+w: _ she's a bet- _ ter catch.|_ If you wan- na be|
+

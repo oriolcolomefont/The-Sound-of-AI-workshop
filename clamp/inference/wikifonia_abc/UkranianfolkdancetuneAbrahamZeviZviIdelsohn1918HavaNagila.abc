@@ -1,0 +1,24 @@
+X:1
+T:Hava Nagila (הבה נגילה)
+T:Hava Nagila 
+T:Hassidic
+C:Ukranian folk dance tune
+Z:All Rights Reserved
+L:1/8
+Q:1/4=120
+M:4/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 40
+V:1
+"E" E2 E2 z ^GFE | ^G2 G2 z BAG |"Am" A2 A2 z cBA |"E" ^G2"Dm" F/E/F"E" G4 | E2 E2 z ^GFE | %5
+w: Ha- va na- gi- la|ha- va na- gi- la|ha- va na- gi- la|v' nis _ m' cha.|Ha- va na- gi- la|
+ ^G2 G2 z BAG |"Am" A2 A2 z cBA |"E" ^G2"Dm" F/E/F"E" E4 | ^G G2 F EEE z |"Dm" F F2 E DDD z | %10
+w: ha- va na- gi- la|ha- va na- gi- la|v' nis _ m' cha.|Ha- va n' ra n' na|ha- va n' ra- n'- na|
+ D2 F>E DD A2 |"E" ^G2"Dm" F/E/F"E" G4 | ^G G2 F EEE z |"Dm" F F2 E DDD z | D2 F>E DD A2 | %15
+w: ha- va n' ra n' na|v' nis _ m' cha.|Ha- va n'- ra- n'- na|ha- va n'- ra- n'- na|ha- va n'- ra- n' na|
+"E" ^G2"Dm" F/E/F"E" E4 |"Am" A4 A4 | A2 A2 A2 A2 | A/A/A c>B AcBA | A/A/A c>B AcBA | %20
+w: v' nis _ m' cha.|U- ru|u- ru a- chim|u- ru a chim b' lév sa- mé- ach|u- ru- a chim b'- lév- sa- mé ach|
+"E7" B/B/B d>c BdcB | B/B/B d>c BdcB | B/B/B e2 B/B/B ez/E/ | EE c/B/A/^G/"Am" A4 |] %24
+w: U- ru a chim b'- lév sa- mé- ach|u- ru- a chim b'- lév sa- mé ach|u- ru a- chim u- ru- a chim b'|lév sa mé _ _ _ ach.|
+

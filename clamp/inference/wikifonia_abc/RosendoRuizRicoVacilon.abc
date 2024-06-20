@@ -1,0 +1,27 @@
+X:1
+T:Rico Vacilon
+T:Transcripción: ALBERTO BETANCOURT
+T:RICO VACILON
+T:ROSENDO RUIZ
+T:CHACHACHA
+C:Rosendo Ruiz
+Z:All Rights Reserved
+L:1/8
+Q:1/4=116
+M:4/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI channel 3
+%%MIDI program 66
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+ GG |"G" G2 z F AADD |"D7" D2 z2 z2 cc | c2 z A BBGG |"G" G2 z2 z2 GG |: G2 z F AADD | %6
+w: Va- ci-|lon que ri- co va- ci-|lon cha- cha-|cha que ri- co cha- cha-|cha Va- ci-|lon que ri- co va- ci-|
+"D7" D2 z2 z2 cc | c2 z A BBGG |"G" G2 z2 z2 GA || B2 BB B2 cd |"D7" (B4 A)zAB | c2 cc c2 Bc | %12
+w: lon cha- cha-|cha que ri- co cha- cha-|cha A la|Prie- tahay que dar- le ca-|ri- ño a la|Chi- na tre- men doa- pre-|
+"G" d4 z2 GA |"Em" B2 BB"Em/D" B2 BA |"A7/C#" G4 EzEE |"Am7" B2 BB- B A2 G |"D7" A2 BA- AzGG :| %17
+w: ton a la|Ru- biahay que dar- leun be-|si- to pe- ro|to- das go- * zan el|va- ci- lon _ Va- ci-|
+"G" G2 z F AADD |"D7" D2 z2 z2 cc | c2 z A BBGG ||"G" G2 z2 z2 z2 || %21
+w: lon que ri- co va- ci-|lon Cha- cha-|cha que ri- co cha- cha-|cha.|
+

@@ -1,0 +1,59 @@
+X:1
+T:Les Lacs du Connemara
+T:LES LACS DU CONNEMARA
+T:J. Revaux
+T:M. Sardou & P. Delanoë
+C:Jacques Revaux
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:Eb
+V:1 treble 
+%%MIDI program 40
+V:1
+ G6 E2 | G6 E2 | G6 E2 |[M:3/4] A2 G2 F2 |[M:4/4] G6 E2 | G6 E2 | G6 E2 |[M:3/4] A2 G2 F2 | %8
+w: Terre brû-|lee au|vent des|lan- des de|pierre au-|tour des|lacs, c'est|pour les vi-|
+w: ||||||||
+[M:4/4] E6 C2 | E6 C2 | E6 C2 |[M:3/4] E2 D2 E2 |[M:4/4] F6- F z | A3 F A3 F | A3 F B>A-AG | %15
+w: vants un|peu d'en-|fer, le|Con- ne- ma-|ra *|Des nu- a- ges|noirs qui vien- nent * du|
+w: |||||||
+ A3 F A3 F | A3 F B>A-AG | A3 F A3 F | A3 F A>G-GA |[M:12/8]"Bb7" B6- B3 z3 | %20
+w: Nord co- lorent la|terre, les lacs, les * ri-|vières, c'est le dé-|cor du Con ne- * ma-|ra *|
+w: |||||
+S"Eb" G2 E G2 E G2"Bb7" E AGF |"Eb" G2 E G2 E G2"Bb7" E AGF |"Cm" E2 C E2 C E2 C EDE | %23
+w: Au prin- temps sui- vant le ciel Ir- lan-|dais é- tait en paix, Mau- reen a plon-|gé nue dans un lac du Con- ne- ma-|
+w: On y vit en- core au temps des Gaels|et de Crom- well Au ryr- hme des pluies|et du so- leil, au pas des che- vaux|
+"Bb" F6- F3"C7" z3 |"Fm" A2 F A2 F A2"C7" F BAG |"Fm" A2 F A2 F A2"C7" F BAG | %26
+w: ra *|Sean Kel- ly s'est dit je suis ca- tho-|lique, Mau- reen aus- si, l'é- glise en gra-|
+w: |On y croit en- core aux mon- stres des|lacs Qu'- on voit na- ger cer- tains soirs|
+"Fm" A2 F A2 F A2 F AGA |"Bb" B6- B3 z3 ||[K:Gb]"Gb" B2 G B2 G B2"Db7" G cBA | %29
+w: nit de Li- me- rick, Mau- reen a dit|oui *|De Tip- per- ra- ry Bal- ly Con- nel-|
+w: d'é- té. Et re- plo- nger pour l'é- ter-|nité *|On y voit, en- core des hom- mes d'ai-|
+"Gb" B2 G B2 G B2"Db7" G cBA |"Ebm" G2 E G2 E G2 E GFG |"Db" A6- A3"Eb7" z3 | %32
+w: ly et de Gal- way, ils sont ar- ri-|vés dans le com- té de Con- ne- ma-|ra *|
+w: leurs. Ve- nus cher- gher le re- pos de|l'âme et pour le coeur un goût de meil-|leur *|
+"Abm" c2 A c2 A c2"Eb7" A dcB |"Abm" c2 A c2 A c2"Eb7" A dcB |"Abm" c2 A c2 A c2 A cBc | %35
+w: Y'a- vait les Con- nor, les O' Con- nal-|ly, les Fla- her- ty, du Ring of Ker-|ry et de quoi boire trois jours et deux|
+w: On y croit en- core que le jour vien-|dra il est tout près, Où les Ir- lan-|dais fer- ont la paix au- tour de la|
+[M:4/4]"Db" d4"A7" ^c3 =A ||[K:D]"D" d4"E#dim" cBcd |"D" A6"B7" z F |"Em" G4 AG (3FED | %39
+w: nuits * Là-|bas au Con- ne- ma-|ra on|sait tout le prix du si-|
+w: croix * La-|bas au Con- ne ma|ra on|sait tout le prix de la|
+"D" F4"A7" z2"F#7" A2 |"Bm" f4 gf/e/-ed |"F#" e4 fece |"G#dim" d4 BcdG |"F#" F4"Bm" DEFG!dacoda! | %44
+w: lence Là-|bas au Con- ne * ma-|ra on dit que la|vie c'est u- ne fo-|lie et que la fo-|
+w: guerre Là-|bas au Con- ne * ma-|ra on n'ac- cepte pas|la paix des Gaul- ois|* ni cel- le des|
+[M:3/4]"Em7" G3 A/G/"A" F2 | E4 z2 ||[K:C]"C" E2 z2 C2 | E2 z2 C2 | E2 z2 C2 |"F" F2 E2 D2 | %50
+w: lie ça se dan-|se|Terre brû-|lée au|vent des|lan- des de|
+w: ||||||
+"C" E2 z2 C2 | E2 z2 C2 | E2 z2 C2 |"G7" F2 E2 D2 |"Am" C2 z2 A,2 | C2 z2 A,2 | C2 z2 A,2 | %57
+w: pierre au-|tour des|lacs, c'est|pour les vi-|vents un|peu d'en-|fer le|
+w: |||||||
+ C2 B,2 C2 |"G" D6- | D2 z2"A" z2 ||[K:F]"Dm" F2 z2 D2 | F2 z2 D2 | F2 z2 D2 |"A7" G2 F2 E2 | %64
+w: Con- ne- ma-|ra||Des nu-|a- ges|noirs qui|vien- nent du|
+w: |||||||
+"Dm" F2 z2 D2 | F2 z2 D2 | F2 z2 D2 | G2 F2 E2 |"Bb" F2 z2 D2 | F2 z2 D2 | F2 z2 D2 | F2 E2 F2 | %72
+w: Nord co-|lorent la|terre les|lacs, les ri-|vières, c'est|le dé-|cor du|Con- ne ma-|
+w: ||||||||
+[M:12/8]"G7" G6- G3 z3!D.S.! ||[K:D][M:4/4]O"Em7" G3 A/G/ F2"A" !fermata!E2 |] %74
+w: ra *|rois d'An- gle- ter- re|
+w: ||
+

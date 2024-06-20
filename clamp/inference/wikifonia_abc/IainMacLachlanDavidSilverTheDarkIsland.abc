@@ -1,0 +1,40 @@
+X:1
+T:The Dark Island
+T:The Dark Island
+T:Iain MacLachlan
+T:David Silver
+C:Iain MacLachlan
+Z:All Rights Reserved
+L:1/8
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 z2 E2 |:"Am" A3 E A2 |"Em" G3 A G2 |"C" E3 D C2 |"G" D4 GA |"G" B3 A G2 |"G" G d3 D2 | %7
+w: A-|way to the|west- ward I'm|long- ing to|be, Where the|beaut- ies of|heav- en un-|
+w: So|gent- le the|sea breeze, That|rip- ples the|bay, Where the|stream joins the|o- cean, And|
+w: True|gem of the|Heb- ri- des,|Bathed in the|light, Of the|mid- sum- mer|dawn- ing, That|
+"G" B3 d B2 |"Am7" A4"D7" DE |"Am" A3 E A2 |"Em" G3 A G2 |"C" E3 D C2 |"G" D4 GA |"G" B3 D dB | %14
+w: fold by the|sea; Where the|sweet purp- le|heath- er blooms|frag- rant and|free, On a|hill- top high a-|
+w: young child- ren|play; On the|strand of pure|sil- ver, I'll|wel- come each|day, And I'll|roam for ev- er|
+w: foll- ows the|night; How I|yearn for the|cries, Of the|sea- gulls in|flight, As they|cir- cle hifgh a-|
+"Am7" A3 D"D7" BA |"G" G6 |"G" G4 Bc |"G" d3 D D2 |"G" B3 A G2 |"C" E C3 E2 |"G" D4 GA | %21
+w: bove the dark *|is|land Oh *|isle of my|child- hood I'm|dream- ing of|thee, As the|
+w: more, The dark *|is|land * *|||||
+w: bove, The dark *|is|land * *|||||
+"G" B3 A G2 |"G" G d3 D2 |"G" B3 d B2 |"Am7" A4"D7" DE |"Am" A3 E A2 |"Em" G3 A G2 |"C" E3 D C2 | %28
+w: steam- er leaves|Ob- an and|pass- es Ti-|ree; Soon I'll|cap- ture the|mag- ic that|ling- ers for|
+w: |||||||
+w: |||||||
+"G" D4 GA |"G" B3 D dB |"Am7" A3 D"D7" BA |2"G""C" G6 ||"G" G4 z2 | z2 z2 E2 :|2"G" G6 || %35
+w: me, When I'm|back once more up-|on the dark *|is-|land|So|is-|
+w: |||||||
+w: |||||||
+"Em" G4"Cm" GA |"G" B3 D dB |"Am7" A3 D"D7" BA |"G""C" G6 |"G""C" G6- |"G" G6- | G2 z2 z2 |] %42
+w: land, When I'm|back once more up-|on the dark *|is-|land|||
+w: |||||||
+w: |||||||
+

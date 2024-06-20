@@ -1,0 +1,26 @@
+X:1
+T:My Rifle, My Pony, And Me
+T:My Rifle Pony And Me
+C:Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z4 z2 dB |"G" G6 BG |"C" E2 G4 dB |"G" G6 Bd |"C" e6 dB |"G" G6 BG |"C" E2 G4 AG | %7
+w: Pur- ple|skies in the|can- yons, That's where|I long to|be, With my|three good com-|pan- ions, Just my|
+"G" B2 B2"D7" A2 GE |"G" G6 dB | G6 BG |"C" E2 G4 dB |"G" G6 Bd |"C" e6 dB |"G" G6 BG | %14
+w: ri- fle, po- ny and|me. Gon- na|hang my som-|bre- ro, On the|limb of a|tree, Com- in'|home sweet- heart|
+"C" E2 G4 AG |"G" B2 B2"D7" A2 GE |"G" G6 dB | G6 BG |"C" E2 G4 dB |"G" G6 Bd |"C" e6 dB | %21
+w: dar- lin', Just my|rif- le po- ny and|me. Whip- poor-|will in the|wil- low, Sings a|sweet mel- o-|dy, Rid- in'|
+"G" G6 BG |"C" E2 G4 AG |"G" B2 B2"D7" A2 GE |"G" G6 dB | G6 BG |"C" E2 G4 dB |"G" G6 Bd | %28
+w: to Am- a-|ril- lo, Just my|ri- fle, po- ny and|me. No more|cows to be|rop- in', No more|strays will I|
+"C" e6 dB |"G" G6 BG |"C" E2 G4 AG |"G" B2 B2"D7" A2 GE |"G""D7" G6 AG |"G" B2 B2"D7" A2 GE | %34
+w: see. 'Round the|bend she'll be|wait- in' For my|ri- fle po- ny and|me. For my|ri- fle po- ny and|
+"G" G6 z z |] %35
+w: me.|
+

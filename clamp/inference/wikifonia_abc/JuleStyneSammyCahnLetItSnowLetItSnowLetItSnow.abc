@@ -1,0 +1,29 @@
+X:1
+T:Let It Snow! Let It Snow! Let It Snow!
+T:Let it snow! let it snow! let it snow!
+T:Jule Styne
+T:Sammy Cahn
+C:Jule Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"^NC" DD |:"G" dd c2"D7" B2 A2 |"G" G2 D4 DD | A3 G A3 G |"D7" F2 D4 E2 |"Am" ee d2"E7" c2 B2 | %6
+w: Oh the|weath- er out- side is|fright- ful But the|fire is so de-|light- ful, And|since we've no place to|
+w: |does- n't show signs of|stop- ping And I|brought some corn for|pop- ping The|lights are turned way down|
+"Am" A6 fe |"D7" d2 dc B2 BA |1"G" G6 D2 :|2"G" G z z4 FG ||"D" AB A2 F2 d2 | A6 FA | %12
+w: go, Let it|snow, let it snow, let it|snow. It|snow. When we|fi- nal- ly kiss good-|night How I'll|
+w: low Let it|snow, let it snow, let it|snow. *||||
+"Em" G2 GF"A7" E2 DE |"D" F6 FG | A2 BA F2 d2 | A8 |"E7" d^c B2"A7" c2 Bc |"D7" d2 z4 D2 | %18
+w: hate go- ing out in the|storm, But if|you"ll rea- ly hold me|tight|All the way home I'll be|warm The|
+w: ||||||
+"G" dd c2"D7" B2 A2 |"G" G2 D4 DD | A3 G A3 G |"D7" F2 D4 EE |"Am" ee d2"E7" c2 B2 |"Am" A6 fe | %24
+w: fire * is slow- ly|dy- ing And my|dear, we're still good-|bye- ing but as|long as you love me|so, Let it|
+w: ||||||
+"D" d2 dc B2 BA |"G" G6 |] %26
+w: snow, let it snow, let it|snow.|
+w: ||
+

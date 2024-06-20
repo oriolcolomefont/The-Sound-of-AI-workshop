@@ -1,0 +1,41 @@
+X:1
+T:If It's You (From the MGM Movie "The Big Store"
+T:If It's You
+T:From the MGM Movie "The Big Store'
+T:Ben Oakland, Artie Shaw
+T:Milton Drake
+C:Ben Oakland, Artie Shaw, Milton Drake
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble 
+%%MIDI program 52
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"Em7" G G"Am7" G C |"Dm7" F F"G7" F B, |"Cmaj7" E E"Fmaj7" E"F" A, |"Dm7""G7" D3"G6" E/F/ | %4
+w: Sit- ting by the|fi- re- side and|dream- ing love- ly|things, While I'm|
+"C" G B"Dm7" A F |"C" E F/E/"Dm7" D"^Bb-9" E |"C6""E""Am" C4- |"C+""F""A7" C3"G7" z | %8
+w: wait- ing for a|knock or a pre- cious|call,||
+"Em7" G G"Am7" G C |"Dm7" F F"G7" z B, |"Cmaj7" E E"Fmaj7" E"F" A, |"Dm7""G7""G6" D3 E/F/ | %12
+w: Sud- den ly I'm|start- led, my|heart leaps up and|sings, As I|
+"C" G"Dm7" c A F |"C" E F/E/"G6" D"C6" C |"Dm7""G7" G4- |"Dm7" G2"G7" E3/2 A/ | %16
+w: hear fa- mil- iar|foot- steps a- long the|hall,|* If It's|
+"Cmaj7""C6""G+7" G4- |"G7" G2 E3/2 F/ |"C" G c"Am7" E"Dm7" F |"G7" G2"Dm7""Gm6" C3/2 F/ | %20
+w: You|* when a|knock comes at my|door, If it's|
+"Cmaj7""C6" E4- |"Bdim""E7" E2 C3/2 D/ |"Am" E A"F7" C"F6" D |"Bm7""E7" E3 ^F/^G/ | %24
+w: You|* then I'll|rush a- cross the|floor. But if|
+"Am7" A A"Cm6" A A |"D7" A A A A |"Gmaj7" A3/2 B/"G" G2- | G3 D |"Gm7" G G"Bbm6" G G | %29
+w: you're not there the|sky falls on my|schemes a- gain|* I|close the door and|
+"C7" G G G"Fmaj7" G | G3/2"F" A/ F2- |"Dm7" F2"Gm6""G7" E3/2 A/ |"Cmaj7""C6""G+7" G4- | %33
+w: rush back to my|dreams a- gain|* When I'm|blue|
+"G7" G2 E3/2 F/ |"C" G c"Am7" E"Dm7" F |"G7""Dm7" G2"Fm6" C3/2 F/ |"C""C6" E4- | %37
+w: * and the|phone rings in the|gloom, If it's|you|
+"Bdim""E7" E2 C3/2 D/ |"Am" E A"F7" C"F6" D |"Bm7""E7" E3 ^F/^G/ |"Am" A A A A |"Am7" A A A A | %42
+w: * there's a|rain- bow in my|room And when|some- one kneels with|some- one mak- ing|
+"Ab7" c3/2 ^G/ G2- |"Fm6" G2 _B ^G |"C" G c"Am7" C D |"Am" E"Dm7" F"G7" D E |"C" C4- | %47
+w: vows for two,|* If it's|me I'll be in|heav- en if it's|You!|
+"F6""C6" C2 z2 |] %48
+w: |
+

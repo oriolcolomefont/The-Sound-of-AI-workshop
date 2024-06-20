@@ -1,0 +1,28 @@
+X:1
+T:Pretty Girl
+T:Pretty  Girl
+T:Dave Luther  (N.Z.)
+T:Bluegrass or Polka (120)
+C:Dave Luther
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"^Verse" G |"C" c c c G/c/ | e e e c/c/ |"G" d d"F" c c |"C" c c c2 | c c c G/c/ | e e e c | %7
+w: The|oth- er day as I|made my way, I heard|the mus- ic start|to- o play|Hap- py sound peo- ple|all a- round I|
+"G" d d"F" c c |"C" c2 z2 | c c z2 |"Am" A A A2- | A2 z z |"F" A A A2- | A2 z2 |"G" B B B2- | %15
+w: knew that I was|here|to stay:|Sudd- en- ly|_|by the tree|_|Good- ness me|
+ B2 z2 |"C""^Chorus" c c c G/c/ | e e e c/c/ |"G" d d"F" c c |"C" c c z c | c c c G/c/ | e e e c | %22
+w: _|Pretty girl, let me take|you home on a bright|and sun- ny mor-|n- ing We|danced all night in the|pale moon light and|
+"G" d d"F" c c |"C" c2 c2 | z4 |"^Verse" G z z2 |"C" c c c G/c/ | e e e c/c/ |"G" d d"F" c c | %29
+w: now the day is|dawn- ing||She|worked all week in the|dis- co- tique, sh- e|looked at me but|
+"C" c c c z | c/c/ c c G/c/ | e e e c |"G" d d"F" c c |"C" c c z2 |"Am" A A A2- | A2 z2 | %36
+w: did- n't speak:|The beat was good and I|knew I should have|brought an extra pair|of feet.|What a day!||
+"F" A A A2- | A2 z2 |"G" d d d2- | d2 z2 |"C""^Chorus" c c c G/c/ | e e e c/c/ |"G" d d"F" c c | %43
+w: So I say!||Yip Hoo- ray!|_|Pretty girl let me take|you home on a bright|and sun- ny mor-|
+"C" c c z c | c c c G/c/ | e e e c |"G" d d"F" c c |"C" c2 c2 | z4 | z4 |] %50
+w: n- ing We|danced all night in the|pale moon light and|now the day is|dawn- ing.-|||
+

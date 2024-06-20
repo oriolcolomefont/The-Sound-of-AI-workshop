@@ -1,0 +1,14 @@
+X:1
+T:Kerek a káposzta
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 52
+V:1
+ dB c2 BG A2 |S GcBA d2 d2 | dB c2 BG A2 |O GcBA G2 G2 | GE F2 EC D2!D.S.! |] %5
+w: Ke- rek a ká- posz- ta,|csip- kés a le- ve- le,|a- ki- nek nincs pár- ja,|jöj- jön tánc- ba vé- lem.|Her- va- dok, bú- su- lok,|
+w: |nin- csen pá- rom né- kem,|le- á- nyok, vi- rá- gok,|ki jön tánc- ba vé- lem?||
+

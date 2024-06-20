@@ -1,0 +1,23 @@
+X:1
+T:The Hawaiian Love call
+T:The Hawaiian love call
+T:Irmgard F Aluli
+C:Irmgard F. Aluli
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2 G/_G/F/E/ |:"C" G4- | G c c c |"F" c2 D2 | z A A A |"G7" A3/2 B,/ B,2- | B,2 A3/2 B/ | %7
+w: Lis- ten to my|call|* my ku- u|i- po|an- swer me|ten- der- ly|* oh so|
+"C" A3/2 E/ E2- | E z"^N.C." G/_G/F/E/ |"C" G4- | G c c c |"F" c2 D2 | z A A A |"C" A G ^F G | %14
+w: ten- er- ly|* lis- ten to my|heart|* my ku- u-|i- po|with an a-|lo- ha that is|
+"G7" F2 B,2 |"C" C4- | C/ z/ C E G |"Gm" d4- | d2 c3/2 B/ | B (3B/c/_B/"F" A2 | z D ^F A | %21
+w: pre cious|sweet|* my dear- est|one|* its you|I * * * want|my pre- cious|
+"D7" e4- | e2 d3/2 c/ | c (3c/d/c/"G" B2- | B z G/_G/F/E/ |"C" G4- | G c c c |"F" c2 D2 | z A A A | %29
+w: one|* sweet voice|of * * * love|* lis- ten- to my|call|* my ku- u-|i- po|then an- swer|
+"C" A G ^F G |"G7" d2 e2 |1"C" c4 ||"^N,C" G/_G/F/E/ z2 :|2"C" c4- || c2 z2 | %35
+w: ten- der- ly that|you'll be|mine|lis- ten to my|mine.||
+

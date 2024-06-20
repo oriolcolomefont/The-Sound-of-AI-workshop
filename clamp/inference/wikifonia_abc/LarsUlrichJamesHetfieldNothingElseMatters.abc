@@ -1,0 +1,29 @@
+X:1
+T:Nothing Else Matters
+T: 
+T:Metallica
+T: 
+C:Lars Ulrich
+Z:All Rights Reserved
+L:1/8
+Q:3/8=50
+M:6/8
+K:Emin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+%%MIDI control 7 102
+%%MIDI control 10 64
+V:1
+"Em" z2 B,/E/ [GB]3 |"D" z A,[DF]"C" z G,[CE] |"Em" z2 B,/E/ [GB]3 |"D" z A,[DF]"C" z G,[CE] | %4
+"Em" z2 B,/E/ [GB]3 |"D" z A/F/D"C" z G/E/C |"G" z G/D/B,"B7" z F/^D/A, |"Em" EG,B, EB,G, | %8
+ EG,B, EB,G, ||"Em" z2 E E>EE/E/ |"D" F E2-"C" E3 |"Em" z2 E/E/ EEE |"D" DDE-"C" E3 | %13
+"Em" z2 G GGF/D/ |"D" DDE-"C" E/D/ C2 |"G" z2 G"B7" FFG |"Em" F/E/- E2- E3 | z6 || %18
+"Em" z2 E/E/ EEE |"D" FGE-"C" E3 |"Em" z2 E/E/ E>EE/E/ |"D" D E2-"C" E3 |"Em" z BA GFE | %23
+"D" F G2-"C" G3 |"G" z2 G"B7" FFG |"Em" F/E/- E2- E3 | z6 |:"Em""^C" z EE E2 E/E/ |"D" FGE-"C" E3 | %29
+"Em" z2 G/G/ GFE |"D" FGG-"C" G3 |"Em" z2 G/G/ GF>E |"D" FGE-"C" E3 |"G" z2 G"B7" FFF | %34
+"Em" F/G/- G2- G3 |"C" [G,CE]3"A" [A,^CE]3 ||"D" z2 F/F/ GFE/F/ |"C" F E2"A" z3 | %38
+"D" z2 F/F/ GFE/F/ |"C" FGE"A" z3"^Al Coda" ||"D" z FF"Em" F/E/- E2 | z6 ::"Em" e3 f3 | g3 a3 | %44
+"Am" cEC cEC | A,CE cEC |"C" ecG z ec |"D" edA z ed |"Em" eBG eBG | EGB eBG"^D.S. al Coda" :| %50
+"D" z2 F/F/ GFE/F/ |"C" F E2"A" z3 |"D" z2 F/F/ GFE/F/ |"C" FGE-"A" E3 |"D" z FF"Em" F/E/- E2 | %55
+ B,A,G, F,G,A, | E6!8vb(!!8vb)! |] %57
+

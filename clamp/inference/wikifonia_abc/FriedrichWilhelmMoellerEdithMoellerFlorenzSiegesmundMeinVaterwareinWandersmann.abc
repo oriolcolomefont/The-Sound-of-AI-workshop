@@ -1,0 +1,52 @@
+X:1
+T:Mein Vater war ein Wandersmann
+T:Mein Vater war ein Wandersmann
+T:(The Happy Wanderer)
+T:Friedrich Wilhelm Möller
+T:Edith Moeller, Florenz Siegesmund
+T:Bosworth & Co. Ltd. (London, UK) 1954
+C:Friedrich Wilhelm Moeller
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:Bb
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+|:"^Brightly" F4 |"Bb" F4 F4 |"F7" F6"F7" E2 |"Bb" E4"Bb" D4 | D6 D2 | D4 D4 | F4 D4 |"F7" (E8 | %8
+w: 1.~Mein|Va- ter|war ein|Wan- ders-|mann, und|mir steckt's|auch im|Blut;|
+w: 2.~Das|Wan- dern|schaf- fet|fri- sche|Lust, er-|hält das|Herz ge-|sund;|
+w: 3.~Wa-|rum singt|Dir das|vö- ge-|lein, so|freu- de-|voll sein|Leid?~|
+w: 4.~Was|mur- melt's|Bäch- lein|dort und|rauscht, so|lust- ig|hin durch's|Rohr.|
+w: 5.~Drum|trag ich|Renz- lein|und den|Stab, weit|in die|Welt hin-|ein,|
+"F7" E4)"F7" F4 | F4 A4 | A6 A2 |"Bb" B4 F4 | F6 F2 |"Eb""Cm" G4"Cm" E4 |"F""F7" D4"F7" C4 | %15
+w: _ Drum|wandr' ich|flott, so|lang ich|kann, und|schwen- ke|mein- en|
+w: _ Frei|at- met|draus- sen|mei- ne|Brust, froh|sing- et|stets mein|
+w: _ Weil's|nim- mer|hockt, land-|aus, land-|ein, durch|an- d're|Flur- ren|
+w: _ Wiel|frei sich|regt, mit|Won- ne|lauscht Ihm|dein emp-|fäng- lich|
+w: _ Und|wer- de|bis an's|küh- le|Grab, ein|Wan- der-|bur- sche|
+"Bb" (B,8 | B,4) ||"^Refrain" F3 F |"F7" (A8 | A4) F3 F |"Bb" (B8 | B4) F3 F |"F7" (c8 | %23
+w: Hut.|_|1.~3.~5.~Fa- le-|ri,|_ fa- le-|ra,|_ fa- le|ri,|
+w: Mund.|_|2.~3.~Fa- le-|ri,|_ fa- le-|ra,~|_ fa- le-|re,|
+w: zieht.~|_|||||||
+w: Ohr|_|||||||
+w: sein!|_|||||||
+"^[for Refrain  2 & 3: omit measures 24-27]" c4) F3 F ||"Bb" d2 c2 B2 A2 | %25
+w: _ Fa- le-|ra ha ha ha|
+w: _ Fa- le-||
+w: ||
+w: ||
+w: ||
+"Bb" B2"Bdim" A2"Bdim" G2 F2 |"F7" (A8 | A4) F3 F ||"Bb" (B8 | B4) F4 |"Eb" G4 E4 | %31
+w: ha ha, fa- le-|ri,|* fa- le-|ra,|_ Und|schwn- ke|
+w: |||ra,|_ Und|schwen- ke|
+w: ||||||
+w: ||||||
+w: ||||||
+"F""F7" D4"F7" C4 |"Bb" (B,8 | !breath!!fermata!B,4) :| %34
+w: mein- en|Hut.|_|
+w: mein- en|Hut!~|_|
+w: |||
+w: |||
+w: |||
+

@@ -1,0 +1,22 @@
+X:1
+T:Du schreibst Geschichte
+T:Du schreibst Geschichte
+C:Madsen
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 -8 nm="part-1"
+%%MIDI program 54
+V:1
+"Em" z e/e/ d d | c d B z | z e/e/ d d | c d B B |"Am" c2 z2 |"Bm" z d d e- |"Em" e B2 z | | %8
+w: 1.&Weil die Welt sich|so schnell dreht,|weil die zeit so|schnell ver- geht kommst|du|nicht hin- ter-|* her.||
+ z e/e/ d d | c d/B/- B z | z/ e/e/e/ d d | c d B B |"Am" c2 z c |"Bm" d d e2 |"Em" B2 z2 || %15
+w: Weil die Hek- tik|sich nicht legt ,|Du in der Mas- se|un- ter- \_gehst bist|du ein|Trop- fen im|Meer|
+ z2 z E |"C" e e e e |"Bm" d B d e- |"Em" e B2 z | z4 |"C" e e e e |"Bm" f e d d |"Am" e4 || %23
+w: Doch|du lebst län- ger|als ein Le- ben|_ lang||Du bist das wo-|mit al- les be-|gann.|
+"D" z B/B/ g f |"Em" f e- e2 | z B g f |"Am" e4 | z B g f |"C" e4 | z c c d |"G" B4 |"B7" z B g f | %32
+w: Refr.:&Denn du schreibst Ge-|schich- te _|Mit je- dem|Schritt,|mit je- dem|Wort|Setzt du sie|fort|Du schreibst Ge-|
+"Em" f e3 | z B g f |"Am" e4 | z B g f |"C" e4 | z4 |"Am" z f f e |"D" f2"B7" g2 |"Em" e4 |] %41
+w: schich- te|An je- dem|Tag,|denn jetzt und|hier||bist du ein|Teil von|Ihr.|
+

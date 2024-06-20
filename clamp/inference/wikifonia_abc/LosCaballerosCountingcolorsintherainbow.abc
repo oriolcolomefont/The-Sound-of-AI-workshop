@@ -1,0 +1,38 @@
+X:1
+T:Counting colors in the rainbow
+C:Los Caballeros
+Z:All Rights Reserved
+L:1/4
+Q:1/4=120
+M:3/4
+K:G
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+ z"G" D G | B2 B |"D" B2 A |"G" A G2 | D/ G3/2 G |"A7" A2 G |"D" F3- | F D F |"Am" c2 c | %9
+w: When it's|Spring- time|in the|Rock- ies|I'm com- ing|back to|you|_ Litt- le|sweet- heart|
+"D7" c2 B |"Am" B A2- | A A G |"D7" F2 A | d2 _B |"G" B3 | z D G | B2 d |"D" B2 A |"G" A G2 | %19
+w: of the|moun- tains|* with your|bonn- ie|eyes of|blue.|Once a-|gain I'll|say I|love you.|
+ z B, D | G2 G |"A7" A2 G |"D" F3- | F D F |"Am" c2 c |"D7" c2 B |"Am" B A2- | A A G/ |"D7" F2 D | %29
+w: While the|birds fly|all the|day.|_ When it's|Sprin- time|in the|Rock- ies.|* In the|Rock- ies|
+ E2 F |"G" G3 | z2 G |"G" B3/2 B/ A/G/ |"Gmaj7" B3/2 B/ A/G/ |"G" B B2 |"^Middle" z2 G | %36
+w: far a-|way|The|twi- light- sha- dows|deep- en in- to|night dear.|The|
+"G" d3/2 B/ A/G/ |"Gmaj7" d3/2 B/ A/G/ |"D" A2 z | z2 A |"Am" c3/2 c/ B/A/ |"D7" c3/2 c/ B/A/ | %42
+w: ci- ty lights are|glea- ming on the|snow.|I|sit a- lone be-|side the cheer- y|
+"Am" c c2 | e"D7" f f | f e/d/ c/A/- | A/_B/"G" =B2 | z2 G |"G" B3/2 B/ A/G/ | %48
+w: fire dear|I'm dream- ing|dreams ab- out the long-|* a- go|I|fanc- y it is|
+"Gmaj7" B3/2 B/ A/G/ |"G" B B2 | z2 d | d3/2 B/ A/G/ |"G" d3/2 B/ A/G/ |"D" A3 |"D7" z2 c | %55
+w: Spring- time in the|Rock- ies,|The|flow- ers with their|col- ors are a-|flame,|And|
+"Am" c3/2 c/ B/A/ |"D7" c3/2 c/ B/A/ |"Am" c c2 | z2 d |"D7" d3/2 A/ A/B/ | c3/2 c/ B/A/ |"G" G3 | %62
+w: though I long to|be back in the|Rock- ies|I'll|wait un- til the|spring- time comes a-|gain.|
+"^CHORUS" z D G |"G" B2 B |"D" B2 A |"G" A G2 | D/ G3/2 G |"A7" A2 G |"D" F3- | F D F |"Am" c2 c | %71
+w: When it's|Spring- time|in the|Rock- ies|I'm com- ing|back to|you|_ Litt- le|sweet- heart|
+"D7" c2 B |"Am" B A2- | A A G |"D7" F2 A | d2 _B |"G" B3 |"G" z D G | B2 d |"D" B2 A |"G" A G2 | %81
+w: of the|moun- tains|* with your|bonn- ie|eyes of|blue.|Once a-|gain I'll|say I|love you.|
+ z B, D | G2 G |"A7" A2 G |"D7" F3- | F D F |"Am" c2 c |"D7" c2 B |"Am" B A2- | A A G |"D7" F2 e | %91
+w: While the|birds fly|all the|day.|_ When it's|Spring- time|in the|Rock- ies.|* In the|Rock- ies|
+ E2 F |"G" G3- | G B, D |"Am" c2 c |"D7" c2 B |"D" B A2- | A A G |"D7" F2 e- | e d f |"G" g3- | %101
+w: far a-|way|* When it's|Spring- time|in the|Rock- ies.|_ In the|Rock- ies|_ far a-|way|
+ g z2 |] %102
+w: _|
+

@@ -1,0 +1,32 @@
+X:1
+T:All I Do Is Dream Of You
+T:All I do is dream of you
+T:Nacio Herb Brown
+T:Arthur Freed
+C:Nacio Herb Brown
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" E G G3/2 G/ | c G G3/2 E/ |"G7" F G G2- | G4 | F G G3/2 G/ | d G G3/2 G/ |"C" E G G2- | G3 G | %8
+w: All I do is|dream of you the|whole day through||Where the dawn I|still go on dream-|ing of you|* You're|
+"C7" c ^c d3/2 d/ | =c ^c d3/2 d/ |"F" d =c A C | D C D2 |"D7" D2 ^F2 | A2 c2 |"D" B d z F | %15
+w: ev- ry thought you're|ev- ry thing You're|ev- ry song I|ev- er sing|Sum- mer|Win- ter|Au- tumn and|
+"G7" A3 G |"C" E G G3/2 G/ | c G G2 |"G7" F G G G- | G3 z | F G G3/2 G/ | d G G2 |"C" E G G G | %23
+w: Spring and|where them all and|twen- ty four|hou- rs a day||let be spent in|sweet con- tent|in dream- ing a-|
+ G3 G |"C7" =c ^c d3/2 d/ | =c ^c d2 |"F" d =c A C | D C D2 |"C" E G G3/2 G/ | c G G3/2 G/ | %30
+w: way When|skies are grey when|skies are blue|Morn- ing noon and|night- time too|all I do the|whole day through is|
+"G7" d2 G2 |"C" c c B _B |[K:F]"F" A c c3/2 c/ | f c c3/2 A/ |"C7" B c c2- | c4 | B c c3/2 c/ | %37
+w: dream of|you * * *|All I so is|dream of you the|whole night through||where the dawn I|
+ g c c3/2 c/ |"F" A c c2- | c3 c |"F7" f ^f g3/2 g/ | =f ^f g3/2 g/ |"Bb" g =f d F | G F G2 | %44
+w: still go on dream-|ing of you|* You're|ev ry thought you're|ev- ry- thing you're|ev- ry song I|ev er sing|
+"G7" G2 =B2 | d2 f2 |"C7" e g z _B | d3 c |[K:G]"G" B d d3/2 d/ | g d d2 |"D7" c d d d- | d4 | %52
+w: Sum mer|win- ter|au- tumn and|spring and|where them all and|twen- ty- four|hou- rs a day||
+ c d d3/2 d/ | a d d2 |"G" B d d d- | d3 d |"G7" g ^g a3/2 a/ | =g ^g a2 |"C" a =g e G | %59
+w: Let be spent in|sweet con- sent|dream- ing a way|* When|skies are grey, when|skies are blue|Morn- ing noon and|
+"Cm" A G A2 |"G" B d d3/2 d/ | g d d3/2 d/ |"D7" a2 d2 |"G" g4 |] %64
+w: night- time too|all I do the|whole day through is|dream of|you.|
+

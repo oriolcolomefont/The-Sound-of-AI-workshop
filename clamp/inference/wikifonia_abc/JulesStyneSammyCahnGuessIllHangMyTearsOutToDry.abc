@@ -1,0 +1,30 @@
+X:1
+T:Guess I'll Hang My Tears Out To Dry
+T:I Guess I'll Hang My Teardrops Out To Dry
+C:Jules Styne
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Voice"
+%%MIDI program 0
+V:1
+|:"Em7" ddd_d-"Ebm7" d4 |"Dm7" cDEF"G+7" G A3 |"Cmaj7" z BBB"Am7" ACDE- |"Dm7""G7" E8 | %4
+w: When I want rain, *|I get sun- ny wea- ther,|I'm just as blue as the sky.||
+"Gm7" AAGA-"C7b9" A3 _B |"F" BcB,C"Fm6" E D3 |"Cmaj7" ECDC"Dm7" EC"Dm7b5"CC- |"C" C6"G7" z2 | %8
+w: Since love is gone, * can't|pull my- self to- geth- er,|guess I'll hang my tears out to dry.||
+"Em7" ddd_d-"Ebm7" d4 |"Dm7" cDEF"G+7" G A3 |"Cmaj7" z BBB"Am7" ACDE- |"Dm7""G7" E8 | %12
+w: Friends ask me out, *|I tell them I'm bus- y,|must get a new al- i- bi.||
+"Gm7" AAGA-"C7b9" A3 _B |"F" BcB,C"Fm6" E D3 |"Cmaj7" ECDC"Dm7" ECCC- |"C" C6 z2 | %16
+w: I stay at home, * and|ask my- self where is she,|guess I'll hang my tears out to dry.||
+"Gm7" _B2 cc"C7" B2 c2 |"Gm7" _B2 cc"C7" B2 c2 |"F" AGFE"C9#5" D2 D2 |"F6" D8 | %20
+w: Dry lit- tle tear- drops,|my lit- tle tear- drops,|hang- ing on a string of|dreams.|
+"Em7" G2 AA"A7" G2 A2 |"Em7b5" G2 AA"A7" G A2 ^G |"Dm7" AGFE"Ab7" D2 D2 |"G7" D8 | %24
+w: Fly lit- tle mem- 'ries,|my lit- tle mem- 'ries re-|mind her of our cra- zy|schemes.|
+"Em7" ddd_d-"Ebm7" d4 |"Dm7" cDEF"G+7" G A3 |"Cmaj7" z BBB"Am7" ACDE- |"Dm7""G7" E8 | %28
+w: Some- bod- y said, *|just for- get a- bout her,|I gave that treat- ment a try.||
+"Gm7" AAGA-"C7b9" A3 _B |"F" BcB,C"Fm6" E D3 |"Cmaj7" EC"Am7"DC EGAB- |"F#m7b5" B6"B7b9" c2 | %32
+w: Strange ly e- nough, * I|got a- long with- out her,|then one day she passed me right by,|* oh|
+"Em7" d6"Ebm7" _d2 |"Dm7" cCCC"G7" ECCC- |"C" C8- | C4 z4 :| %36
+w: well, I|guess I'll hang my tears out to dry.|||
+

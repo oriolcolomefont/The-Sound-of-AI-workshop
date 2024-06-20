@@ -1,0 +1,37 @@
+X:1
+T:Don't Think Twice, It's Alright
+T:Don't Think Twice, It's Alright
+T:Bob Dylan
+T:Bob Dylan
+T:All Rights Reserved
+C:Bob Dylan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z C |:"C" EEEE"G" GGGG |"Am" E2"Em" C4 EE |"F" FF- F4 FF |"G7" G6 z C |"C" EEEE"C/G" GGGG | %6
+w: 1.~It|ain't no use to sit and won- der|why, Babe; It don't|mat- ter * a- ny-|how. It|ain't no use to sit and won- der|
+w: 2.~(It)|ain't no use it turn- in' on your|light, Babe; * That|light I've * ne- ver|knowed. It|ain't no use in turn- in' on your|
+w: 3.~(It)|ain't no use in call- ing out my|name, Gal, Like you|ne- ver * did be-|fore. It|ain't no use in call- ing out my|
+w: 4.~(I'm)|walk- in' down that long, * lone- some|road, Gal; Where I'm|bound, * * I can't|tell, But|good- by * is too * good a|
+"Am" E2"Em" C4 z A, |"F#" CCCC CCCC |"G7" (A,G,-) G,4 A,B, |"C" CCCC CCCD |"C7" EEEE E2 z D | %11
+w: why, Babe, *|* If * you don't know * by|now. * * When that|roo- ster * * crows * at the|break * of * dawn, *|
+w: light, Babe; *|* I'm on the dark sid of the|road. * * Still I|wish there * were some- thing you would|* do * or say *|
+w: name, Gal; *|* I * can't hear you a- ny|more. * * I'm a-|think- ing and- * won- d'ring all the|way down * the road, I|
+w: word, Gal, So|I'll * * just say * "Fare thee|well". * * Now *|I ain't * * say'n you treat- ed|me un- * * kind; You|
+"F" CCCC CCCD |"Em" z EEE E3 E |"C" EEEE"C/B" EEEE |"Am" EEEE"Em" CA,- A,2 | %15
+w: * Look out your win- dow * and|I'll * be gone. *|* You're * the reas- on that I'm|* trav- * lin' on; * *|
+w: * To try and make me change my|mind * and stay. *|* We ne- ver did * too much|talk- ing a- ny- way; * *|
+w: once * loved a wo- man, * *|A child, I'm told. I|gave * her my heart * but she|want- ed * my soul; * *|
+w: could have done * bet- ter * but|I don't * mind. *|You * just * sort of wast- ed|my pre- * cious time; * *|
+"F" z C2 C"G7" A,G,A,C |"C" C6 z C :| %17
+w: Don't think twice, * it's all|right. 2.~It|
+w: Don't think twice, * it's all|right. 3.~It|
+w: Don't think twice, * it's all|right. 4.~I'm|
+w: Don't think twice, * it's all|right. *|
+

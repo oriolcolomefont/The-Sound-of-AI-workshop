@@ -1,0 +1,41 @@
+X:1
+T:Back to black
+C:Amy Winehouse
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Dmin
+V:1 treble nm=" " snm=" "
+%%MIDI program 0
+V:1
+"^intro""Dm" z4 | z4 |"Gm" z4 | z4 |"Bb" z4 | z4 |"A" z4 | z4 ||"^Verse""Dm" z D2 D | %9
+w: ||||||||He left|
+ D D- (3D D D |"Gm" D2 z2 | z D D D- |"Bb" D D2z/A,/ | D A, D A,- |"A" A, ^C2 z | z4 |"Dm" D4- | %17
+w: no time _ to re-|gret|Kept his dick|_ wet With|his same old safe|_ bet||Me|
+ D D D D- |"Gm" D D2 z | z D D D- |"Bb" D D2z/A,/ | D A, D D- |"A" D ^C2 z | z4 ||"Dm" D3 D | %25
+w: _ and my head|_ high|And my tears|_ dry Get|on with- out my|_ guy||You went|
+ Dz/D/ D D- |"Gm" D D2 z | z D D2- |"Bb" D/>D/ D2z/A,/ | D A, D A,- |"A" A, ^C2 z |z2zz/A,/ | %32
+w: back to what you|_ knew|So far|_ re- moved from|all that we went|_ through|And|
+"Dm" D3-D/D/- | Dz/D/ D D- |"Gm" D D2 z | z D D D- |"Bb" D D2 z | D A, (D A,- |"A" A,/)D/ ^C2 z | %39
+w: I _ tread|_ a trou- bled|_ track|My odds are|_ stacked|I go back _|_ to black|
+"A/A" z"A/G" z"A/F" z"A/E" z ||"^Chorus""Dm"z>F F E | G F/ F>EF/- |"Gm" F z/ E F3/2 | %43
+w: |We on- ly|said good- bye with words|_ I died|
+ E/G/F/F/- F z |"Bb" z2 (3F (F E) | G F/F/- Fz/E/ |"A" E2 D2 | ^C2 A,2 |"^NC" z E D2 | ^C2 A,2 || %50
+w: a hun- dred times _|You go _|back to her _ And|I go|back to...|I go|back to|
+"Dm" D4 | z D D D |"Gm" (A,/C/ D2) z | z D D D |"Bb" D z D A, | D>A, (D A,) |"A" D ^C2 z | %57
+w: us|I love you|much _ _|It's not e-|nough You love|blow and I _|love puff|
+z2"A/C"z"A/C#"z/A,/ |"^Dùm" D4- | D D D2- |"Gm" D/D/ D2z/A,/ | D A, D A, |"Bb" D A, D A, | %63
+w: And|life|_ is like|_ a pipe And|I'm a ti- ny|pen- ny roll- ing|
+ D A,/D/- D2- |"A" D/D/ ^C2 z | z4 |:"^Chorus""Dm"z>F F E | G F/ F>EF/- |"Gm" F z/ E F3/2 | %69
+w: up the walls _|_ in- side||We on- ly|said good- bye with words|_ I died|
+ E/G/F/F/- F z |"Bb" z2 (3F (F E) | G F/F/- Fz/E/ |"A" E2 D2 | ^C2 A,2 :|"^NC" z4 | z4 |: %76
+w: a hun- dred times _|You go _|back to her _ And|I go|back to...|||
+"^Interlude""Dm"zz/A,/- A,2- | A,2 z2 |"Bb"zz/A,/- A,2- | A,2 z2 |"F"zz/A,/- A,2- | A,2 z2 |1 %82
+w: Black _|_|Black _|_|Black _|_|
+"A"zz/A,/- A,2- | A,2 z2 :|2"A" z F E2 | D2 ^C2 || z F E2 | D2 ^C2 |:"^Chorus""Dm"z>F F E | %89
+w: Black _|_|I go|back to|I go|back to|We on- ly|
+ G F/ F>EF/- |"Gm" F z/ E F3/2 | E/G/F/F/- F z |"Bb" z2 (3F (F E) | G F/F/- Fz/E/ |"A" E2 D2 | %95
+w: said good- bye with words|_ I died|a hun- dred times _|You go _|back to her _ And|I go|
+ ^C2 A,2 :| (G,/A,/- !fermata!A,3) |] %97
+w: back to...|Black * *|
+

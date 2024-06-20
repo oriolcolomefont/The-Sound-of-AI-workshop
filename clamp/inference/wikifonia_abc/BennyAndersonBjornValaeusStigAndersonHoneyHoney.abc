@@ -1,0 +1,41 @@
+X:1
+T:Honey, Honey
+T:Honey, Honey
+T:Benny Anderson, Stig Anderson and Bjorn Ulvaeus
+C:Benny Anderson, Bjorn Valaeus, Stig Anderson
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"C" cc Bc z e- | e c2 B- Bc z G |"F" A2 cc Bc z2 | z8 |"C" z2 cc Bc z e- | e c2 B- Bc z G | %6
+w: Hon- ey, hon- ey how|* you thrill * me a-|ha Hon- ey, hon- ey||hon- ey hon- ey near-|* ly kill * me a-|
+w: hon- ey hon- ey touch|* me ba- * by a-|ha hon- ey hon- ey||hon- ey hon- ey hold|* me ba * by a|
+w: ||||||
+"F" A2 cc Bc z2 | z4 z2 z G |"C" ggge- ee c2 |"Am" A2 z2 z2 G2 |"C" ggge- ee c2 | %11
+w: ha hon- ey hon- ey|I'd|* a- bout you * be- fore|* I|wan- ted to know * some more|
+w: ha hon- ey hon- ey|You|heard like a mov * ie star|* but|I know just how * you are|
+w: ||look * * * * * *|||
+"Am" A2 z2 z2 z G |"C" ggge- ed c2 |"Am" A2 AA B c2 f- |"F" f6 z2 | fefe"G7" f2 g2 :| %16
+w: * and|now I know what * they mean|* you're a love- ma- chine||(Oh you make me diz- zy)|
+w: * and|hon- ey to say * the least|* you're a dog- gone beast.|||
+w: |||||
+"G7" z4 z2 z G |"Gm7" _B_BA_B- _B A2 _B |"C7" Bc z2 z2 z F |"F" AAAG-"Am" G A2 F | %20
+w: I|dont wan- na hurt * you ba-|by * I|dont wan- na see * you cry|
+w: ||||
+w: ||||
+"Dm" FD z2 z2 z A |"Gm" _B_BA_B- _B c2 A |"C7" _B_BA_B z c2 ^G |"F" A4 z4 | z4 z2 z F | %25
+w: * * so|stay on the ground * girl you|bet- ter not get too high|m|but|
+w: |||||
+w: |||||
+"Cm7" _e_ed_e z d2 _e- |"F7" _ef- f2 z2 z F |"Bb" ddd z c d2 _B- |"Eb" _BG z2 z2 z G | %29
+w: I'm gon- na stick to you|* boy * you'll|nev- er get rid of me|* * there's|
+w: ||||
+w: ||||
+ GGGG- G_A _B2 |"A" _B_AG_A _A_EFG- |"Dm" G8 |"^DCandfade""G7" z8 |] %33
+w: no oth- er place * in this|world where I ra * ther would be.|||
+w: ||||
+w: ||||
+

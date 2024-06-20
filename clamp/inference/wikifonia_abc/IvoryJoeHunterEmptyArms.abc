@@ -1,0 +1,26 @@
+X:1
+T:Empty Arms
+T:Empty Arms
+C:Ivory Joe Hunter
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+ z2 F G |"F" A4- | A A B A |"C7" G4- | G2 G A |"Gm7" B4- |"C7" B d c B |"F" A4- |"F7" A2 B c | %9
+w: Emp- ty|arms|_ that long for|you,|_ And they|wait|_ dear, just for|you.|_ And these|
+"Bb" d4- | d f e d |"F" c4- | c A B A |"C7" G4- | G B A G |"F""Bb" F4- |"F" F F B c |"Bb" d4- | %18
+w: arms|_ will stay this|way,|_ till you re-|turn|_ to them some|day.|_ Each lone- ly|night|
+ d d"C7" e d |"F" c4- |"F7" c _e d c |"Gm" c/ B3/2- B B/c/ |"D7" d/ d3/2 d c/A/ |"G7" G4- | %24
+w: _ I go to|bed,|_ I'll hug the|pil- low _ where you|used to _ rest your|head.|
+"C7" G z F G |"F" A4- | A A B A |"C7" G4- | G2 G A |"Gm7" B4- |"C7" B d c B |"F" A4- |"F7" A2 B c | %33
+w: _ Emp- ty|arms|_ but not for|long,|_ "Cause my|babe|* is com- in'|home.|_ And when|
+"Bb" d4- | d f e d |"F" c4- | c A B A |"C7" G4- | G B A G |"F" (3(A/G/F/-)"Bb" F3- |"F" F A B A | %41
+w: he|_ walks thru that|door,|_ these emp- ty|arms,|_ I'll have no|mo- * re. _|_ These emp- ty|
+"C7" G4- | G B A G |"F" (3(A/G/F/-)"Bb""F" F3- | F3 z |] %45
+w: arms,|_ I'll have no|mo- * re _|_|
+

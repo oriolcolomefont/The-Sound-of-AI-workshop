@@ -1,0 +1,34 @@
+X:1
+T:Jealousy (Jalousie)
+T:Jealousy
+T:Jacob Gade
+T:Winifred May         Rhythm: Tango
+C:Jacob Gade
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:Bb
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"Gm" g3/2 d/ ^f2- | f3/2 =f/ =e/ _e d/ | e3/2 B/ d2- | d3/2 G/ A B |"Cm7" B2 A2- | %5
+w: Jeal- ous- y|* twas on- ly through|Jeal- ous- y|* our hearts were|bro- ken|
+"D7" A3/2 A/ B/c/d/e/ |"Gm" e2 d2- |"D7" d3/2 d/ e/=e/f/^f/ |"Gm" g3/2 d/ ^f2- | %9
+w: * and an- gry words were|spo- ken|* Now all I have is|mem- o- ry|
+ f3/2 =f/ =e/ _e d/ | e3/2 B/ d2- | d3/2 d/ c B |"A7" B2 A2- | A G/A/ g/ f =e/ |"D7" d4- | d3 z | %16
+w: * to che- rish so|ten- der- ly|* with ev- ry|to- ken|* you have giv- en to|me||
+ d2 A B | c2 d A |"Gm" A3/2 G/ B/ A G/ | G3 z |"G7" g2 d e | f2 g d |"Cm" d3/2 c/ e/ d c/ | c4 | %24
+w: I loved too|well for I|doubt- ed you in my|heart|My life was|hell ev- ry|mo- ment we were a-|part|
+ z z/ A/ A B | c4 | z z/ A/ A B | c4 |"Gm" z z/ g/ g d |"Cm" z z/ g/ g e |"D7" d4- | d2 z D | %32
+w: why did I|make|that big mis-|take?|I wrong'd you|right from the|start|* twas|
+[K:G]"G" E2 B F | E2 F D |"Am7" E4- | E2 z =F |"D7" ^F2 d B | A2 B F |"Gmaj7" d4- | d z F z | %40
+w: all o- ver|my Jeal- ous-|y|* my|crime was my|blind jeal- ou-|y|* my|
+ A2 G F |"Bb" A/ G A/ G F |"Am7" D4- |"D7" D3 E |"Am7" G2 F E |"D7" G/ E G/ F E |"G" B,/D/- D2 z | %47
+w: heart was a-|fire with de- sire for|you|* but|I nev- er|thought that your love was|true * *|
+"D7" ^A,/D/- D z D |"G" E2 B F | E2 F D |"Am7" E4- | E2 z =F |"D7" ^F2 d B | A2 B F |"G" d4- | %55
+w: * * * You|gave all your|kiss- es to|me|* but|now all too|late I can|see|
+"D7" d2 z d |"G7" e2 d g | e2 d B |"C" A2 G B |"Cm" A2 G _E |"G" D2 d D |"Am7" E2"D7" e F | %62
+w: * the|heart- aches I|cost you, no|won- der I|lost you twas|all o- ver|my jeal- ous-|
+"G" G z"D7" d/^d/e/f/ |"G" g"D7" d3 |] %64
+w: y. * * * *||
+

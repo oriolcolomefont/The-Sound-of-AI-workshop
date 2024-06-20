@@ -1,0 +1,25 @@
+X:1
+T:Forty Second Street
+T:Forty second street
+T:Swing: Dixie Bounce
+C:Harry Warren
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:G
+V:1 treble nm="Piano"
+%%MIDI program 0
+V:1
+"Em" E E E2- | E G E G |"Em" B4- |"Em""B7" B2 z/"B7" B3/2 |"Em" e d B A | G/^G/A/^A/ A2 | %6
+w: Come and meet|_ those danc- ing|feet|_ On|the av- en- ue|I'm tak- ing you to|
+"B7" B B z/ G/ G |"Em" E3 z | E E E2- | E G E G |"Em""B7" B4- |"Em" B2 z/"B7" B B/ |"Em" e d B A | %13
+w: for- ty sec- ond|street|Hear the beat|_ of danc- ing|feet|_ It's a|song I love the|
+ G/^G/A/^A/- A2 |"B7" B B z/ G/ G |"Em" E2- E3/2 z/ |"C7" E E E/ G3/2 | E E E/ G3/2 | E F G A | %19
+w: mel- o- dy of _|for- ty sec- ond|street _|lit- tle nif- ties|from the fif- ties|inn- o- cent and|
+ E2- E z |"A7" G G G B | G G G/ B3/2 |"Em" E F G A |"Eb7" _B2- B/"B7" B3/2 |"Em" E E E2- | %25
+w: sweet _|sex- y lad- ies|from the eight- ies|who are in dis-|creet _ side|by side they're|
+ E G E G |"Em" B4- |"Em""B7" B2 z/"B7" B B/ |"Em" e d B A | G/^G/A/^A/- A2 |"B7" B B G/ G3/2 | %31
+w: _ glo- or- i-|fied|_ where the|un- der- world can|meet the elite on _|for- ty se- cond|
+"Em" E4 |] %32
+w: street.|
+

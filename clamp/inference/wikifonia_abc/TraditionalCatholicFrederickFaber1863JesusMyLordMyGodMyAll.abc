@@ -1,0 +1,39 @@
+X:1
+T:Jesus, My Lord, My God, My All
+T:Jesus, My Lord, My God, My All
+C:Traditional Catholic
+Z:All Rights Reserved
+L:1/4
+M:3/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+"D" A F D |"D/A" (D C) D |"A" (E A)"A7" G | (G"D" F2) |"Bm" F E"Bm7" D |"G" G2"Em/G" E | %6
+w: Je- sus my|Lord, _ my|God, _ my|All! _|How can I|love the|
+w: Had I but|Mar- * y's|sin- * les|heart _|To love Thee|with, my|
+w: Thy Bod- y,|Soul, _ and|God- * head|all! _|O mys- ter-|y of|
+w: Sound, sound His|prais- * es|high- * er|still, _|And come, ye|an- gels,|
+"Asus4" D2"A7" C |"D" D3 | A F D |"D/A" (D C) D |"A" (E A)"A7" G | (G"D" F2) |"Bm" F E"Bm7" D | %13
+w: as I|ought?|And how re-|vere _ this|won- * drous|gift, _|So far sur-|
+w: dear- est|King!|Oh with what|burst _ of|fer- * vent|praise, _|Thy good- ness,|
+w: love di-|vine!|I can- not|com- * pass|all _ I|have, _|For all Thou|
+w: to our|aid;|'Tis God! 'tis|God! _ The|ver- * y|God, _|Whose pow'r both|
+"G" G2"Em/G" E |"Asus4" D2"A7" C |"D" D3 |"D""^Refrain:" A A A |"G" B2 B |"A7" c2 c |"D" d3 | %20
+w: pass- ing|hope or|thought?|Sweet Sa- cra-|ment we|Thee a-|dore.|
+w: Je- sus!|Would I|sing!|||||
+w: hast and|art are|mine.|||||
+w: man and|an- gels|made!|||||
+"A/C#" A"A7/C#" G"D" F |"G" B2 G |"A" E A"A7" G |"Dsus4" G"D" F2 |"Bm" F E"Bm7" D |"G" G2"Em/G" E | %26
+w: O make us|love Thee|more _ and|more! _|O make us|love Thee|
+w: ||||||
+w: ||||||
+w: ||||||
+"D/A" D2"A7" C |"D" D3 |] %28
+w: more and|more!|
+w: ||
+w: ||
+w: ||
+

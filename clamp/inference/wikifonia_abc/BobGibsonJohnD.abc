@@ -1,0 +1,23 @@
+X:1
+T:Abilene
+T:Abilene
+T:Lester Brown,John D Loudermilk, Bob Gibson
+C:Bob Gibson, John D. Loudermilk
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+"C" z2 ee e4 |"E7" z2 ee d4 |"F" cc c2 c4 |"C" cc c2 G4 |"D7" z2 dd d3 d |"G7" B2 B2 GGAB | %6
+w: Ab- i- lene|Ab- i- lene|prett- i- est town|I;ve ev- er seen|wo- men- there dont|treat you mean in Ab- i-|
+"C" c4"F" c2 cA |"C" c4"G7" z4 |"C" z2 (3eee e4 |"E7" z2 (3ede d4 |"F" z2 cc c4 |"C" z2 (3ccc G4 | %12
+w: lene my Ab- i-|lene|I sit a- lone|most ev- ry night|watch those trains|pull out of sight|
+"D7" z2 dd d2 dd |"G7" BA B2 G2 AB |"C" cA c2"F" c2 cA |"C" c8 ||"C" z2 ee ee z2 | %17
+w: dont I wish they were|car- ry- ing me back to|Ab- i- lene my Ab- i-|lene|crowd- ed ci- ty|
+"E7" e2 (3ede d4 |"F" z2 cc c2 c2 |"C" c2 c2 G4 |"D7" z2 (3ddd d3 d |"G7" B2 B2 GGAB | %22
+w: there aint noth- ing free|noth- ing in this|town for me|wish to the Lord that|I could be in Ab- i-|
+"C" c4"F" c2 cc |"C" c8 |] %24
+w: lene sweet Ab- i-|lene.|
+

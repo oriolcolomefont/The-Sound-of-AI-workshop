@@ -1,0 +1,28 @@
+X:1
+T:My Special Angel
+T:My Special Angel
+T:(You are)
+T:Jimmy Duncan
+C:Jimmy Duncan
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Electric Piano"
+%%MIDI program 4
+V:1
+ z2"C" c2"Am" c2 c2 |"Em" e3 B G2"C7" E2 |"F" z A2 F"G7" D2 A2 |"C" G8 |"Dm7" z2 A2"G7" F3 E | %5
+w: You are my|spe- cial an- gel|sent from up a-|bove|the Lord smiled|
+"C" G2 A2"Am7" B3 c |"D" A3 c z edc |"Dm7" d8 |"G7" z2"C" c2"Am" c2 c2 |"Em" e3 B G2"C7" E2 | %10
+w: down on me and|sent an an- gel to|love|you are my|spe- cial an- gel|
+"F" z A2 F"G7" D2 A2 |"C" G8 |"Dm7" z2 A2"G7" F3 D |"C" G2 A2"Am7" B c3 |"D7" z2 de"Dm7" c3"G7" d | %15
+w: right from Par- a-|dise|I know that|you're an an- gel|heav- ens in your|
+"C" c6 z2 |]"C" z4 z2 z"^Fine" C |"Dm7" D3 D/D/"G7" A3 G/A/ |"Cmaj7" B3 G"Am" E C2 C | %19
+w: eyes|a|smile from your lips brings the|sum- mer sun- shine the|
+"Dm7" D3 D/D/"G7" A3 G/A/ |"C" E6 G2 |"Em" B3 G"A" A3 c |"Em" B3 G"A" A3 c |"Em" B3 B"Am7" z ABc | %24
+w: tears from your eyes bring the|rain I|feel your touch your|warm em- brace and|I'm in heav- en a-|
+"Dm7" d8 |"G7" z2"C" c2"Am" c2 c2 |"Em" e3 B G2"C7" E2 |"F" z A2 F"G7" D2 A2 |"C" G8 | %29
+w: gain|you are my|spe- cial an- gel|through e- ter- ni-|ty|
+"Dm7" z2 A2"G7" F3 D |"C" G2 A2"Am7" B c3 |"D7" d3 c z"G7" Bc"^D.C.alfine"d |"C" c8 |] %33
+w: I'll have my|spe- cial an- gel|here to watch o- ver|me.|
+

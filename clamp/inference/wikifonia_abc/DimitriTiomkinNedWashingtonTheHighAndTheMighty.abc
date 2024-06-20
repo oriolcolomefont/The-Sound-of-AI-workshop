@@ -1,0 +1,34 @@
+X:1
+T:The High And The Mighty
+T:The High And Mighty
+T:Dimitri Tiomkin
+T:Ned Washington
+C:Dimitri Tiomkin
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:Eb
+V:1 treble 
+%%MIDI program 40
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Eb" B G F E |"Gm" D B2"Eb" E/D/ |"Bbm6" _D B"C7b9" D C/B,/ |"Abm6" =B, A"Bb7b9" C2 | %4
+w: I was high and|might- y, How I|laughed at love And the|stars a- bove,|
+"Eb" B, E"Fm7" F E/F/ |"Ebmaj7" G"Fm7" A"Gm7" B"Eb" G |"Cm7" F E/F/"F9" G E |"Fm7""Bb7" F4 | %8
+w: Then you came like a|gen- tle flame And|helped me to find my|way!|
+"Eb" B G F E |"Gm" D B2"Eb" E/D/ |"Bbm6" _D B"C7b9" D C/B,/ |"Abm6" =B, A"Bb7b9" B,2 | %12
+w: I was high and|might- y And I|told my heart Where to|stop and start,|
+"Eb" B, E"Cm6" G =A |"G" =B B"Am6" c"G" B |"A9" =B =A/G/"D9" =E"D7" A |"G""Am7""G" G4 | %16
+w: Now I find that|I was blind, I'm|learn- ing it day by|day!|
+"Fm7""Bb7" F3 F |"Ebmaj7" G3/2 G/-"Eb6" G2 |"Fm7""Bb7" A3 A |"Ebmaj7" B3/2 B/-"Eb6" B2 | %20
+w: Love can|change things, *|Re- ar-|range things, *|
+"Abmaj7""Ab6" c3 c |"Gm" d3/2 d/- d2 |"A" ^c3"Am6" =c |"B7""Bb7" =B4 |"Eb" B G F E | %25
+w: Oh, what|strange things *|love can|do!|I'm not high and|
+"Gm" D B2"Eb" E/D/ |"Bbm6" _D B"C7b9" D C/B,/ |"Abm6" =B, A"Bb7b9" B,2 |"Eb" B, E"Fm7" F E/F/ | %29
+w: might- y But I|have what's worth All the|gold on earth,|I have you and I|
+"Ebmaj7" G"Fm7" A"Gm7" B"Eb" G |"Cm" c2"Cm7" d B |"Ab" d2 e c |"Eb" e4 |"Fm7" f4 |1 %34
+w: give my heart For-|ev- er and|ev- er to|you,|you,|
+"Eb" g2 z"Ebmaj7" f ||"Fm7" e c"Bb9" c"Bdim" =B :|2"Eb" g4- || g3 z |] %38
+w: you! *||||
+

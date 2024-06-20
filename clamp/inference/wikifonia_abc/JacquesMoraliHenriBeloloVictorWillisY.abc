@@ -1,0 +1,22 @@
+X:1
+T:Y.M.C.A
+T:YMCA
+T:J. Morall, H. Belolo, V. Willis
+C:Morali/Belolo/Willis
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble 
+%%MIDI program 40
+V:1
+"Gmaj7/A" F3 E B,4 | z FEA/F/- F/F/E B,2 | f3 e B4 | z fea/f/- f/f/e B2 | %4
+"Gmaj7/A" d3 d/d/ d3 d/d/ | d8 |:"D" AF z2 z2 FE | DEFA- AF A2 |"Bm" BF z2 z2 FE | DEFA- AF A2 | %10
+"G" BG z2 z2 GF | EFGB- Bd B2 |"A/C#" c2 z"G/B" B2 z"A" A2 | z"G" G3"F#m" F2"Em" E2 | %14
+"D" AF z2 z2 FE | DEFA- AF A2 |"Bm" BF z2 z2 FE | DEFA- AF A2 |"G" BG z2 z2 GF | EFGB- Bd B2 | %20
+"A/C#" c2 z"G/B" B2 z"A" A2 | z"G" G3"F#m" F2"Em" E2 |"G/A" A2 A2 A2 A2 | z FAF AF A2 | %24
+"D" [DFB]4 [DFA]2 [DFB][DFA] | z FAF AF E2 |"Bm" [B,DF]4 [B,DF]2 [B,DF][B,DF] | z4 z2 dB | %28
+"Em" dddB-"Em" B2 dB |"Em7" dddB- B2 dB |"G/A" dBAd- d d2 B- | BddB dB d2 | %32
+"D" [DFB]4 [DFA]2 [DFB][DFA] | z FAF AF E2 |"Bm" [B,DF]4 [B,DF]2 [B,DF][B,DF] | z4 z2 dB | %36
+"Em" dddB-"Em" B2 dB |"Em7" dddB- B2 dB |"G/A" dBAd- d d2 (B- | B2 A4) z2 :| %40
+

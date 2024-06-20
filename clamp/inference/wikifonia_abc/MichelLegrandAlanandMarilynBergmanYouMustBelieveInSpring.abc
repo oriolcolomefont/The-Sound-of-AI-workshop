@@ -1,0 +1,30 @@
+X:1
+T:You Must Believe In Spring
+T:You Must Believe In Spring
+C:Michel Legrand
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:D
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C#m7b5" z EFG B,G"F#7b9"^A,F |"F#7b9/B" EDEC"Bm" D4 |"Em7" z GAB DB"A7"CA | %3
+w: When lone- ly feel- ing chnll the|mead- ows of your mind,|just think when win- ter comes, can|
+"A7b9/D" GFGE"Dmaj7" F4 |"G#m7b5" z Bcd F^G"C#7b9" ^E2 |"F#m7b5" z AB=c =EF"B7b9" ^D2 | %6
+w: spring be far be- hind?|Be- neat the deep- est snows,|the se- cret of a rose|
+"Em7" z GAB"A9sus4" =DB"A7"CA |"Dmaj7" GFED"C#m7b5""F#7" E4 ||"C#m7b5" z EFG B,G"F#7b9"^A,F | %9
+w: is mere- ly that it knows you|must be- lieve in spring.|Just as a tree is sure it's|
+"F#7b9/B" EDEC"Bm" D4 |"Em7" z GAB DB"A7"CA |"A7b9/D" GFGE"Dmaj7" F4 | %12
+w: leaves will re- ap- pear;|it knows it's em[p- ti- ness is|just a time of year.|
+"G#m7b5" z Bcd F^G"C#7b9" ^E2 |"Gm7b5" z _B=c_d =F=G"C7b9" =E2 || %14
+w: The fro- zen moun- tain dreams|of Ap- rils's melt- ing streams.|
+[K:Eb]"Fm7" z ABc"Bb9sus4" Ec"Bb7"DB |"Ebmaj7" AGFE"Dm7b5""G7" F4 |"Dm7b5" z FGA CA"G7b9"=B,G | %17
+w: How crys- tal clear it seems, you|must be- lieve in spring.|You must be- lieve in love and|
+"G7b5/C" FEFD"Cm" E4 |"Fm7" z ABc"Bb9sus4" Ec"Bb7"DB |"Bb7b9/Eb" AGAF"Ebmaj7" G4 | %20
+w: trust it's on its way,|just as the sleep- ing rose a-|waits the kiss of May.|
+"Am7b5" z cde G=A"D7b9" ^F2 |"Gm7b5" z Bc_d =FG"C7b9" =E2 |"Fm7" z ABc"Bb9sus4" Ec"Bb7"DB | %23
+w: So in a world of snow,|of things that come and go,|where what you think you know, you|
+"Ebmaj7" AGFE"Abmaj9#11" D2 C2 |"Dm7b5" GFED"Ab7" C2"G7b9" =B,2 |"Cm6" C8 |] %26
+w: can't be cer- tain of, you|must be- lieve in spring and|love.|
+

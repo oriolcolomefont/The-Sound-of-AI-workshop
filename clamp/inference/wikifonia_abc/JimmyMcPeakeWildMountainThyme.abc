@@ -1,0 +1,38 @@
+X:1
+T:Wild Mountain Thyme
+T:Wild Mountain Thyme
+T:Will ye go, lassie go? by Jimmy McPeake
+C:Jimmy McPeake
+Z:All Rights Reserved
+L:1/4
+M:4/4
+K:C
+V:1 treble nm="Voice" snm="Vo."
+%%MIDI program 52
+V:1
+"F""^Verse""^slowly, with feeling" c A |"G" G3/2"Am" G/"Am" A c |"C" c/ c3/2 e g | %3
+w: 1.Oh, the|sum- mer time is|co- ming, And the|
+w: 2.I will|build my love a|bow- er, Near yon|
+w: 3.If my|true love she won't|come- , I would|
+w: 4.Oh, the|sum- mer time is|co- ming, And the|
+"Am" a3/2 g/ a g |"C" e/ g3/2 e g |"Am""C" a2"C" g e |"G7" (d/ c3/2) d e |"F" f3/2"G7" e/"G7" d c | %8
+w: trees are sweet- ly|bloom- ing, And the|wild moun- tain|thyme * Grows a-|round the bloom- ing|
+w: pure and crys- tal|foun- tain, And on|it I will|bring * All the|flow- ers of the|
+w: nev- er find an-|o- ther, To pluck|wild moun- tain|thyme * All a-|round the bloom- ing|
+w: trees are sweet- ly|bloom- ing, And the|wild moun- tain|thyme * Grows a-|round the bloom- ing|
+"Am" A/ c3/2 |"F""^Chorus" c A |"G""Am" G2"Am" A c |"C" c2 e g |"Am" (a3/2 g/) a g | %13
+w: hea- ther.|Will ye|go, las- sie|go? And we'll|all * go to-|
+w: moun- tain.|||||
+w: hea- ther.|||||
+w: hea- ther.|||||
+"C" e/ g3/2 e g |"Am""C" a2"C" g e |"G7" (d/ c3/2) d e |"F" f3/2"G7" e/"G7" d c | %17
+w: ge- ther to pluck|wild moun- tain|thyme, * All a-|round the bloom- ing|
+w: ||||
+w: ||||
+w: ||||
+"Am" A/"F" c3/2"F" c A |"G""Am" G2"Am" A c |"C" c2 |] %20
+w: hea- ther. Will ye|go, las- sie|go?|
+w: |||
+w: |||
+w: |||
+

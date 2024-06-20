@@ -1,0 +1,32 @@
+X:1
+T:Some Other Time
+T:Some Other Time
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/4
+M:2/2
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+"C" (3G ^F =F"Gm7" C/ C _B,/ |"C" C _B,/C/-"Gm7" C3/2 B,/ |"C" C _B,/C/-"Gm7" C3/2 B,/ | %3
+w: Twen- ty- four ho- urs can|go so fast, _ you|look a- round _ the|
+"C" C A/G/-"Gm7" G2 |"C" (3G ^F"Gm7" =F C2 |"Gm7" D E/A/-"C13" A/G/ A | %6
+w: day has passed. _|When you're in love|time is pre- * cious stuff;|
+"F" z (3c/B/_B/"Dm7" F/ F3/2 |"Dm7" (3G ^F =F"G7" D2 |:[M:4/4]"C" E/F/ G"Dm7" G G |"C" A"Dm7" G3 | %10
+w: Ev- en a life- time|in- n't e- nough!|Where has the time all|gone to?|
+"C" (3c _B A"Dm7" G G |"C" F E"F6" D"Fm6" C |"Em7" z e E2 |"F6" F/G/"Dm7" A2 c |"C" C/D/"Am7" E3 | %15
+w: Have- n't done half the|things we want to.|Oh, well|we'll catch up some|oth- er time.|
+"Dm7" z2"G7" z2 |"C" E/F/ G"Dm7" G G |"C" A"Dm7" G3 |"C" (3c _B A"Dm7" G G |"C" F E"F6" D"Fm6" C | %20
+w: |This day was just a|tok- en,|too man- y words are|still un- spok- en.|
+"Em7" z e E2 |"F6" F/G/"Dm7" A2 c |"C" C/D/"Dm7" C3- |"C" C2"Eb7" z2 |"Ab" C/_D/ _E"Bbm" E E | %25
+w: Oh, well,|we'll catch- up some|oth- er time.|_|Just when the fun is|
+"Ab" _A"Bbm" _E3 |"Ab" c3/2 _B/"Bbm" c3/2 B/ |"Ab" _A"Bbm" _E3 |"Ab" C/_D/ _E"Bbm" E E | %29
+w: start- ing|comes the time for|part- ing|But let's be glad for|
+"Am7" =E G"C" A =c |"D7" d3 D |"Dm""G7" F4 |"C" _E/F/ G"Dm7" G G |"C" A"Dm7" G3 | %34
+w: what we had and|what's to|come.|There's so much more em-|brac- ing|
+"C" (3c _B A"Dm7" G G |"C" F E"F6" D C |"Em" z e E2 |"F6" F/G/"Dm7" A2 c |1"C" C/D/"Dm7" C3- || %39
+w: still to be done, but|time is rac- ing.|Oh, well,|we'll catch up some|oth- er time|
+"C" C2"Dm7""G7" z2 :|2"C" C/D/"Dm7" C3- ||"C" C4 |] %42
+w: _|oth- er time.|_|
+

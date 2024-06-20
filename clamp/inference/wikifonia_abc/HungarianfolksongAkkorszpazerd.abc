@@ -1,0 +1,17 @@
+X:1
+T:Akkor szép az erdő
+T: 
+C:Hungarian folk song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:2/4
+K:C
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Am" EE EE | E2 A2 |"G" GE D2 | DD DD | D2 F2 |"C" ED C2 |:"Am" A,A, A,A, | A,2 G,2 |"C" CD E2 | %9
+w: Ak- kor szép az|er- dõ,|mi- kor zöld,|mi- kor a vad-|ga- lamb|ben- ne költ,|o- lyan a vad-|ga- lamb,|mint a lány,|
+"G" EE DD | E2 C2 |"Am" B,G, A,2 :| %12
+w: sír- va sé- tál|a pár-|ja- u- tán.|
+

@@ -1,0 +1,40 @@
+X:1
+T:She
+T:She
+C:Charles Aznavour
+Z:All Rights Reserved
+L:1/16
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+V:1
+|:S"C" c4- cBcB d2c2B2A2 |"Ebdim" c4- cBcB d2c2B2A2 |"F" c4- cBcB d2c2B2A2 | %3
+w: She _ may be the face I can't for-|get * a trace of plea- sure or re-|gret _ may be my trea- sure or the|
+w: She _ may be the beau- ty or the|beast * may be the fam- ine or the|feast _ may turn each day in- to a|
+w: She _ may be the rea- son I sur-|vive * the why and where- for I'm a-|live _ the one I'll care for thru the|
+"C" G2>F2E2F2"A7" G4 z4 |"Dm" z2 F2 FEFE G2F2E2D2 |"Abdim" F4- FEFE G2F2E2D2 | %6
+w: price I have to pay|She may * be the song that sum- mer|sings _ may be the chill that aut- umn|
+w: hea- ven or a hell|She may be the mir- ror of my dream|a _ smile _ re flec- ted in a|
+w: rough and read- y years|Me * I'll take her laugh- ter and her|tears _ and make them all my sou- ven-|
+"C" E4- EG,A,C F2E2D2C2!dacoda! |1"F" D4- DA,B,C"G" E2D2C2B,2 ||"C" C4"F" z4"Gsus4""G" z8 :|2 %9
+w: brings _ may be a hun- dred diff- 'rent|things _ with in the meas- ure of a|day.|
+w: stream _ she may not be what she may|||
+w: irs _ for where she goes I've got to|||
+"D" D6 A,2"G" C4 B,4 ||"C" C8 z8 |"Ab" c4- c_EFG _A2_B2 c_ecc |"Eb" _B6 B2 AB_eB _AGAB | %13
+w: seem in- side her|shell.|She _ who al- ways seems so hap- py in a|crowd, whose eyes can be so pri- vate and so|
+w: ||||
+w: ||||
+"Db" _A4- A_D_E=E F2>G2A2c2 |"C" G2_A2 G4 z8 |"Fm" _A4- AAGA"Bb" _B2A2 GFGA | %16
+w: proud _ no- one's al- lowed to see them|when they cry.|She * may be the love that can- not hope to|
+w: |||
+w: |||
+"Eb" G4- GG^FG"Cm" c2G2 G_E=FG |"D" ^F4- FDE=F"D7" ^F2<A2 z2 BB | c4 B2B2-"G" B4 z4!D.S.! |] %19
+w: last _ may come to me from sha- dows of the|past _ that I re mem- ber till the|day I die. *|
+w: |||
+w: |||
+O"D" D4 A,B,CE"G" D2C2 B,4 |"F" z2 C2- C12 |"C" c16 |"Dm" z8"G" D8 |"C" !fermata!E16 |] %24
+w: be the mean- ing of my life is|she, _|she,|mm|she|
+w: |||||
+w: |||||
+

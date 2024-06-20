@@ -1,0 +1,17 @@
+X:1
+T:Julcsa hogyha kimegy a piacra
+T: 
+C:Hungarian song
+Z:Public Domain
+L:1/8
+Q:1/4=120
+M:4/4
+K:Cmin
+V:1 treble nm="MusicXML Part"
+%%MIDI program 0
+V:1
+"Cm" c2 G2 FEDC |"G" =B,C D2"Cm" C4 |"Cm" EGGG EGGG |"Fm" FG A2"G" G4 |"Cm" EGGG EGGG | %5
+w: Jul- csa, hogy- ha ki- megy|a pi- ac- ra,|Kis- kos- ar- át a kar- já- ra|fel- a- kaszt- ja,|Lesz is ab- ban han- na- man- na,|
+"Fm" FG A2"G" G4 |"Cm" c2 G2 FEDC |"G" =B,C D2"Cm" C4 |] %8
+w: cso- ko- lá- dé,|Jul- csa, so- se le- szek|a ma- gá- é.|
+

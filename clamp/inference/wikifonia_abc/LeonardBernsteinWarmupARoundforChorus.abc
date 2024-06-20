@@ -1,0 +1,18 @@
+X:1
+T:Warm - up (A Round for Chorus)
+T:Warm - up
+T:(A round for Chorus)
+T:Léonard Bernstein
+C:Leonard Bernstein
+Z:All Rights Reserved
+L:1/8
+M:2/2
+K:F
+V:1 treble 
+%%MIDI program 52
+V:1
+ C8- | C8 ::"^Canon" C F2 C F2 EG- | GF A2 G B2 A | c8- | c4 z d2 c | _e3 _A3 c2- | c F3 G3 C- | %8
+w: hm||Du- bing, du- bang, du- bong|* Du- bing, du- bang, du-|bong.-|* Du- bi-|ding, dong, ding,-|* dong, ding, dong.-|
+ C8- | C4 z D2 E | FGAF- F2 GA | B A3 EFGF- | F8- | F8 :| %14
+w: |* Du- bi-|ding- i- di- bing- * ding- i-|ding- bang- ding- i- di- bong.-|||
+

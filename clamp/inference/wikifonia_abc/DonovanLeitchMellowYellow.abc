@@ -1,0 +1,26 @@
+X:1
+T:Mellow Yellow
+T:Mellow Yellow
+T:Donovan Leitch
+T:8 beat or Rock
+C:Donovan Leitch
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:C
+V:1 treble 
+%%MIDI program 4
+V:1
+"F" A2 A2 AG F2 |"Bb" A2 G4 C2 |"F" A2 A2 AG F2 |"C7" A2 G4 F2 |"Bb" _BA B2 BA B2 | _B2 _A6 | %6
+w: I'm just mad a- bout|Saf- fron a-|Saf- fron's mad a- bout|me * a|I'm a just mad a- bout|Saf- fron|
+"C" c2 c2 dc _B2 | c2 C2 ccdc |"F" f2 _e6 |"C7" z2 C2 ccdc |"F" f2 _e6 |"C7" z2 C2 ccdc | %12
+w: She's just mad a- bout|me They call me Mel- low|Yell- ow|The call me Mel- low|Yel- low|They call me Mel- low|
+"F" f _e6 z |"C7" z2 C2 ccdc |"F" f2 e6 |1"C7" z8 | z8 :|2"C" c2 c2 c2 c2 || c2 c2 c2 c2 | %19
+w: Yel- low|They call me Mel- low|Yel- low|||He's so mel- low|he's so mel- low|
+"F" A2 AG AG F2 |"Bb" c2 _B2 z2 C2 |"F" A^GAA AG F2 |"C7" A2 G6 |"Bb" _B_A B2 B2 BA | _B2 _A4 C2 | %25
+w: E- lec- a- tri- cal ba-|na- na is|gon- na be a sud- * den|craze *|E- * lec- tri- cal ba-|na- na is|
+"C" cBcc _ec _B2 | c3 C ccdc |"F" f2 _e6 |"C7" z2 C2 ccdc!dacoda! |"F" f2 _e2 z4 |"C7" z2 C2 ccdc | %31
+w: bound to be the ver- y next|phrase they call me Mel- low|Yel- low|the call me Mel- low|Yel- low|They call me Mel- low|
+"F" f2 _e6 |1"C" z8 | d8!D.S.! |]O"F" f2 e6 |"C7" z2 C2 ccdc |"F" f e6 z | f8 |] %38
+w: Yel- low||Yeah!|Yel- low|They call me Mel- low|Yel- low-||
+

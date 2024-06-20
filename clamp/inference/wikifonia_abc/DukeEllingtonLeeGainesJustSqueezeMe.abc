@@ -1,0 +1,32 @@
+X:1
+T:Just Squeeze Me
+T:Just Squeeze Me
+C:Duke Ellington
+Z:All Rights Reserved
+L:1/8
+M:4/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+%%MIDI program 0
+%%MIDI control 7 100
+%%MIDI control 10 64
+V:1
+|:"Fmaj7" A2 A2"Gm7" A B2 c- |"Am7" c3 c-"C13" c4 |"Fmaj7" A2 A2"Bbmaj7" A B2 c- | %3
+w: Treat me sweet and gen-|* tle _|when you say good- night,|
+"Am7" c3 c-"D7b9" c3 c- |"Gm7" c3 B- B4 |"C9sus4" z c3"C7" c2 c2 |"Fmaj7" c3 A-"D7" A4 | %7
+w: _ Just _ squeeze|_ me, _|but please don't|tease me. _|
+"Gm7" z4"C7" z4 |"Fmaj7" A2 A2"Gm7" A B2 c- |"Am7" c3 c-"C13" c4 |"Fmaj7" A2 A2"Bbmaj7" A B2 c- | %11
+w: |I get sen- ti- men-|* tal _|when you hold me tight,|
+"Am7" c3 c-"D7b9" c3 c- |"Gm7" c3 B- B4 |"C9sus4" z c3"C7" c2 c2 |"Fmaj7" c3 A- A4 | z4"C7#9" z4 || %16
+w: _ Just _ squeeze|_ me. _|but please don't|tease me. _||
+"F7" (3AB=B cc cd c2 | (3AB=B cc cd c2 |"Bbmaj7" (3Bc^c d_e dBGB- | B4-"Ab9" B4 | %20
+w: Miss- ing you since you went a- way,|sing- ing the blues a- way each day,|count- ing the nights and wait- ing for you.|_ _|
+"G7" (3=Bc^c dd de d2 | (3=Bc^c dd de d2 |"Gm7" f4 d3 ^F |"C9sus4" G e2 d-"C9" d4 || %24
+w: I'm in the mood to let you know|I nev- er knew I loved you so,|Please say you|love me too. _|
+"Fmaj7" A2 A2"Gm7" A B2 c- |"Am7" c3 c-"C13" c4 |"Fmaj7" A2 A2"Bbmaj7" A B2 c- | %27
+w: When I get this feel-|* in _|I'm in ec- sta- sy,|
+"Am7" c3 c-"D7b9" c3 c- |"Gm7" c3 B- B4 |"C9sus4" z c3"C7" c2 c2 |1"Fmaj7" c3 A-"D7" A4 | %31
+w: _ So _ squeeze|_ me, _|but please don't|tease me. _|
+"Gm7""C7" z8 :|2"Fmaj7" c3 A- A4 |] %33
+w: |tease me. _|
+
