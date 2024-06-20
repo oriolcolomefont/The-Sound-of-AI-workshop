@@ -5,6 +5,7 @@ from clean_action import clean_action
 from describe_action import describe_action
 from fastapi import APIRouter, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from generate_clamp import generate_clamp_action
 from generate_score import generate_score_action
 from pydantic import BaseModel
 from variate_action import variate_action
@@ -66,7 +67,7 @@ def clean(query: QueryMessage):
     
 @router.post("/api/variate/")
 def variate(query: QueryMessage): 
-    [melody, uuid] = variate_action(query.melody, ASSETS_PATH)
+    [melody, uuid] = generate_clamp_action(query.melody, query.prompt, ASSETS_PATH)
 
     print(f"Variated melody {uuid}: {melody}")
     

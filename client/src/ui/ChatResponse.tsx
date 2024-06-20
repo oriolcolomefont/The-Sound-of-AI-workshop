@@ -14,7 +14,6 @@ export function ChatResponse({ message }: { message: ResponseMessage }) {
               src={`/assets/${message.uuid}.wav`}
               className="mt-2"
             />
-            <img src={`/assets/${message.uuid}.png`} alt="Score" />
           </>
         )}
         {message.error && (
