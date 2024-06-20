@@ -2,10 +2,15 @@ import re
 
 from markov import MarkovChain
 from music21 import converter, metadata, note, stream
+from render import render_audio_and_score
 
+
+def variate_action(melody, assets_path):
+    melody = variate_abc_melody(melody)
+    uuid = render_audio_and_score(melody, assets_path)
+    return [melody, uuid]
 
 def variate_abc_melody(original_melody):
-    print(f">>> {original_melody}")
     score = converter.parse(original_melody, type='abc')
     notes_and_rests = score_to_notes_and_rests(score.flatten())
     events = convert_notes_and_rests_to_events(notes_and_rests)

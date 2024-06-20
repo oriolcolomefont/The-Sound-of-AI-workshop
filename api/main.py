@@ -1,13 +1,15 @@
 import os
 import subprocess
 
-from abc2wav import render_abc_wav
-from abc_clean import clean_abc
-from fastapi import APIRouter, FastAPI, HTTPException
+from clean_action import clean_action
+from describe_action import describe_action
+from fastapi import APIRouter, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from generate_score import generate_score_action
 from pydantic import BaseModel
-from utils import create_uuid, get_absolute_path_from_relative_to_source
-from variate import variate_abc_melody
+from variate_action import variate_action
+
+ASSETS_PATH = f"../client/public/assets"
 
 app = FastAPI()
 app.add_middleware(
@@ -32,58 +34,62 @@ def echo(query: QueryMessage):
     return { 
         "type": "response", 
         "id": query.id + 1,
-        "text": query.prompt
+        "text": query.prompt,
+        "melody": query.melody
     }
+
+@router.post("/api/describe/")
+def describe(query: QueryMessage):
+    [melody, uuid] = describe_action(query.melody, ASSETS_PATH)
+
+    return { 
+        "type": "response", 
+        "id": query.id + 1,
+        "text": "Generated variation:",
+        "melody": melody,
+        "uuid": uuid,
+    }    
 
 @router.post("/api/clean/")
 def clean(query: QueryMessage):
-    input_file_path = "./clean.abc"
-    
-    # Save query.request content to input.abc file
-    with open(input_file_path, 'w') as file:
-        file.write(query.melody)
-    
-    
-    try:
-        result = subprocess.run(["python", "../abc-utils/clean1.py", input_file_path], capture_output=True, text=True)
-        if result.returncode != 0:
-            raise Exception(f"{result.stderr}")
+    [melody, uuid] = clean_action(query.melody, ASSETS_PATH)
 
-        melody = clean_abc(query.melody)
-        random = create_uuid(melody)
-        wav_file = f"../client/public/{random}.wav"
-        wav_output = get_absolute_path_from_relative_to_source(wav_file)
+    print(f"Cleaned melody {uuid}: {melody}")
 
-        # render_abc only if file not exists
-        if not os.path.exists(wav_output):
-            render_abc_wav(query.melody, wav_output)
-
-        return { 
-            "type": "response", 
-            "id": query.id + 1,
-            "text": "Here's your melody:",
-            "melody": melody,
-            "wav": f"/{random}.wav"
-        }
-    except subprocess.CalledProcessError as e:
-        print(e)
-        raise HTTPException(status_code=500, detail=f"Script execution failed: {e.stderr}")
+    return { 
+        "type": "response", 
+        "id": query.id + 1,
+        "text": "Here's your melody:",
+        "melody": melody,
+        "uuid": uuid,
+    }
     
 @router.post("/api/variate/")
 def variate(query: QueryMessage): 
-    melody = variate_abc_melody(query.melody)
-    random = create_uuid(melody)
-    wav_file = f"../client/public/{random}.wav"
-    wav_output = get_absolute_path_from_relative_to_source(wav_file)
-    
-    render_abc_wav(melody, wav_output)    
+    [melody, uuid] = variate_action(query.melody, ASSETS_PATH)
 
+    print(f"Variated melody {uuid}: {melody}")
+    
     return {
         "type": "response",
         "id": query.id + 1,
         "text": "Here's your variated melody:",
-        "melody": query.melody,
-        "wav": f"/{random}.wav"    
+        "melody": melody,
+        "uuid": uuid,
+    }
+
+@router.post("/api/generate/")
+def generate(query: QueryMessage): 
+    [melody, uuid] = generate_score_action(query.prompt, ASSETS_PATH)
+
+    print(f"Variated melody {uuid}: {melody}")
+    
+    return {
+        "type": "response",
+        "id": query.id + 1,
+        "text": "Here's your variated melody:",
+        "melody": melody,
+        "uuid": uuid,
     }
     
 

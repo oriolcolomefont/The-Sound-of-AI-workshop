@@ -2,6 +2,13 @@ import re
 import sys
 
 from music21 import converter, metadata, note, stream
+from render import render_audio_and_score
+
+
+def clean_action(melody, assets_path):
+    melody = remove_chords(melody)
+    uuid = render_audio_and_score(melody, assets_path)
+    return [melody, uuid]
 
 
 def remove_chords(abc_text):
@@ -106,25 +113,3 @@ def convert_melody_to_abc(iter_num, notes_and_durations):
     abc_score = abc_header + " ".join(abc_notes)
     return abc_score
 
-# Used by the API
-def clean_abc(abc_text):
-    return remove_chords(abc_text)
-
-def main(file_name):
-    with open(file_name, "r") as file:
-        text = file.read()
-    # score = converter.parse(text, format="abc")
-    # notes_and_rests = score_to_notes_and_rests(score.flatten())
-    # events = convert_notes_and_rests_to_events(notes_and_rests)
-    # abc = convert_melody_to_abc(0, events)
-    # print(abc)
-    abc = remove_chords(text)
-    print(abc)
-
-
-if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        file_name = sys.argv[1]
-    else:
-        file_name = "input.abc"
-    main(file_name)

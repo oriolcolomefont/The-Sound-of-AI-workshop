@@ -1,14 +1,7 @@
 import { QueryMessage, ResponseMessage } from "./models";
 
 export const API = {
-  clean(message: QueryMessage): Promise<ResponseMessage> {
-    return API.post("clean", message);
-  },
-  variate(message: QueryMessage): Promise<ResponseMessage> {
-    return API.post("variate", message);
-  },
-
-  post(action: string, message: QueryMessage): Promise<ResponseMessage> {
+  sendRequest(action: string, message: QueryMessage): Promise<ResponseMessage> {
     return fetch("/api/" + action, {
       method: "POST",
       headers: {
