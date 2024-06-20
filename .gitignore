@@ -13,3 +13,4 @@ client/public/assets/*
 weights*
 *.mxl
 wikifonia-dataset/temp
+*.h5

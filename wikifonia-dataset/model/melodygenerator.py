@@ -1,4 +1,7 @@
 from melodypreprocessor import MelodyPreprocessor
+from transformer import Transformer
+
+MAX_POSITIONS_IN_POSITIONAL_ENCODING = 537
 
 """
 melody_generator.py
@@ -72,7 +75,11 @@ class MelodyGenerator:
 
         for _ in range(num_notes_to_generate):
             predictions = self.transformer(
-                input_tensor, input_tensor, False, None, None, None
+                input_tensor, input_tensor, 
+                training=False, 
+                enc_padding_mask=None, 
+                look_ahead_mask=None, 
+                dec_padding_mask=None
             )
             predicted_note = self._get_note_with_highest_score(predictions)
             input_tensor = self._append_predicted_note(
@@ -144,9 +151,24 @@ class MelodyGenerator:
 
 if __name__ == "__main__":
     melody_preprocessor = MelodyPreprocessor("dataset.json", batch_size=10)
-    model = keras.models.load_model('model.keras')
+    train_dataset = melody_preprocessor.create_training_dataset()
+    vocab_size = melody_preprocessor.number_of_tokens_with_padding
+    
+    transformer_model = Transformer(
+        num_layers=2,
+        d_model=64,
+        num_heads=2,
+        d_feedforward=128,
+        input_vocab_size=vocab_size,
+        target_vocab_size=vocab_size,
+        max_num_positions_in_pe_encoder=MAX_POSITIONS_IN_POSITIONAL_ENCODING,
+        max_num_positions_in_pe_decoder=MAX_POSITIONS_IN_POSITIONAL_ENCODING,
+        dropout_rate=0.1,
+    )
+    transformer_model.load_weights("model.weights.h5")
+
     melody_generator = MelodyGenerator(
-        model, melody_preprocessor.tokenizer
+        transformer_model, melody_preprocessor.tokenizer
     )
     start_sequence = ["g", "g", "g2", "g", "f_e"]
     new_melody = melody_generator.generate(start_sequence)

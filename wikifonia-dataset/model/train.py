@@ -177,12 +177,5 @@ if __name__ == "__main__":
 
 
     train(train_dataset, transformer_model, EPOCHS)
-    transformer_model.save("model1.keras")
-
-    print("Generating a melody...")
-    melody_generator = MelodyGenerator(
-        transformer_model, melody_preprocessor.tokenizer
-    )
-    start_sequence = ["g", "g", "g2", "g", "f_e"]
-    new_melody = melody_generator.generate(start_sequence)
-    print(f"Generated melody: {new_melody}")
+    transformer_model.save("model.keras")
+    transformer_model.save_weights("model.weights.h5")
