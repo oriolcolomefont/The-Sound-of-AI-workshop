@@ -21,7 +21,7 @@ for part in score.parts:
             
             # Step 6: Create a random note with the same duration and a random pitch
             random_pitch_name = random.choice(['C', 'D', 'E', 'F', 'G', 'A', 'B', 'B-', 'E-', 'A-', 'D-', 'G-', 'C-', 'F-', 'F#', 'C#', 'G#', 'D#', 'A#', 'E#', 'B#'])
-            random_octave = random.randint(3, 5)  # Adjust octave range as needed
+            random_octave = random.randint(4, 5)  # Octave range as needed
             random_pitch = note.Note(random_pitch_name + str(random_octave))
             random_pitch.quarterLength = rest_duration
             
