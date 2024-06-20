@@ -1,4 +1,5 @@
 
+import random
 import re
 import subprocess
 
@@ -11,15 +12,18 @@ from variate_action import (convert_events_to_abc_melody,
                             convert_notes_and_rests_to_events,
                             extract_abc_header, score_to_notes_and_rests)
 
+NUMBER_OF_VARIATIONS = 100
+
 
 def generate_clamp_action(melody, prompt, assets_path):
+    print(">>> GENERATING VARIATIONS")
+    generate_variations(melody, NUMBER_OF_VARIATIONS)
+
     header = extract_abc_header(melody)
     print(">>> GENERATING MELODY DESCRIPTION")
     description = get_melody_description(melody, prompt)
     print("PROMPT: ", description)
 
-    print(">>> GENERATING VARIATIONS")
-    generale_variations(melody, 100)
 
 
     # inference_cache_folder = f"{cwd}/inference/cache"
@@ -53,7 +57,8 @@ def generate_clamp_action(melody, prompt, assets_path):
     uuid = render_audio_and_score(variation_abc, assets_path)
     return [melody, uuid]
 
-def generale_variations(melody, number_of_variations):
+def generate_variations(melody, number_of_variations):
+    header = extract_abc_header(melody)
     clamp_path = '../clamp'
     cwd = get_absolute_path_from_relative_to_source(clamp_path)
     music_keys_folder = f"{cwd}/inference/music_keys"
@@ -62,11 +67,21 @@ def generale_variations(melody, number_of_variations):
     # create the folder back
     command = ['mkdir', music_keys_folder]
     subprocess.run(command)
-    [markov, unique_events, number_of_events] = get_markov(melody)
-    header = extract_abc_header(melody)
+    # Read the score and process events
+    score = converter.parse(abc_melody, type='abc')
+    notes_and_rests = score_to_notes_and_rests(score.flatten())
+    events = convert_notes_and_rests_to_events(notes_and_rests)
+    unique_events = list(set(events))
+    number_of_events = len(events)
+    # Create markov chain
+    markov = MarkovChain(unique_events, 0.1)
+    markov.train(events)
+    markov.normalize_matrix()
+
+    importance_array = get_importance_array(score)
 
     for i in range(number_of_variations):
-        markov_melody = markov.generate_melody(unique_events, number_of_events)
+        markov_melody = generate_melody(events, markov, importance_array)
         markov_abc_melody = convert_events_to_abc_melody(markov_melody)
         markov_abc_score = header + "\n" + " ".join(markov_abc_melody)
         markov_uuid = create_uuid(markov_abc_score)
@@ -76,18 +91,35 @@ def generale_variations(melody, number_of_variations):
         with open(file_path, 'w') as file:
             file.write(markov_abc_score)
 
+def generate_melody(events, markov, importance_array):
+    last_note = random.choice(events)
+    melody = []
+    for i in range(len(events)):
+        current_note = events[i]
+        if importance_array[i] == True:
+            last_note = current_note
+        else:
+            last_note = markov.generate_single_note(last_note)
+        melody.append(last_note)
+    return melody
 
 
-def get_markov(abc_melody):
-    score = converter.parse(abc_melody, type='abc')
-    notes_and_rests = score_to_notes_and_rests(score.flatten())
-    events = convert_notes_and_rests_to_events(notes_and_rests)
-    unique_events = list(set(events))
-    markov = MarkovChain(unique_events, 0.1)
+def get_importance_array(score):
+    flag_array = []  # Initialize an empty list to store boolean values
+    
+    for part in score.parts:
+        for measure in part.getElementsByClass('Measure'):
+            for note_or_rest in measure.notesAndRests:
+                if isinstance(note_or_rest, note.Note):
+                    if note_or_rest.beat % 1.0 == 0 or note_or_rest.tie is not None:
+                        flag_array.append(True)  # Flag as True if note meets condition
+                    else:
+                        flag_array.append(False)  # Flag as False if note does not meet condition
+                elif isinstance(note_or_rest, note.Rest):
+                    flag_array.append(True)  # Flag rests as True (they are kept)
+    
+    return flag_array
 
-    markov.train(events)
-    markov.normalize_matrix()
-    return [markov, unique_events, len(events)]
 
 def find_variation_by_music_query(melody):
     clamp_path = '../clamp'
@@ -145,11 +177,12 @@ def extract_similarity_uuid_pairs(input_string):
 if __name__ == "__main__":
     abc_melody = """
 X:1
-L:1/8
-Q:1/4=120
+L:1/4
 M:4/4
-K:F
-A, |"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, |  "Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A4 |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z2 z A, |     
+K:C
+|:"C" c3/2 G/ E2- | E2 (3c d c |"E7" B3/2 ^G/ E2- | E4 |"A7" A3/2 G/ E2- | E ^D (3E _B A | %6
+w: All of me|* why not take|all of me?|_|Can't you see|_ I'm no good with-|
+"Dm7" G2 F2- | F4 |"E7" E3/2 _E/ D2- | D2 (3E ^G B |"Am" d2 c2- | c4 |"D7" B3/2 _B/ A2- | %13
     """
     assets_path = "../client/public/assets"
     prompt = "make it more folk"

@@ -20,8 +20,8 @@ class MarkovChain:
         ) 
         self.matrix = normalized_matrix
 
-    def generate_melody(self, events, number_of_events):
-        first_element = random.choice(events)
+    def generate_melody(self, number_of_events):
+        first_element = random.choice(self.unique_events)
         available_indexes = list(self.event_to_index.values())
         melody = [first_element]
         for _ in range(1, number_of_events):
@@ -32,20 +32,20 @@ class MarkovChain:
                 available_indexes,
                 p=current_row,
             )
-            next_element = events[next_index]
+            next_element = self.unique_events[next_index]
 
             melody.append(next_element)
 
         return melody
 
-    def generate_single_event(self, last_event):
+    def generate_single_note(self, last_event):
         last_event_index = self.event_to_index[last_event]
         current_row = self.matrix[last_event_index]
         next_index = np.random.choice(
             list(self.event_to_index.values()),
             p=current_row,
         )
-        return self.events[next_index]
+        return self.unique_events[next_index]
     
 
     def train(self, events):
