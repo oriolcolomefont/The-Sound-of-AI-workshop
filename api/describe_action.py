@@ -6,6 +6,13 @@ from utils import get_absolute_path_from_relative_to_source
 
 
 def describe_action(melody, assets_path):
+    result = get_melody_description(melody)
+    melody = generate_from_description_sentence(result)
+    print(f"Generated melody: {melody}")
+    uuid = render_audio_and_score(melody, assets_path)
+    return [melody, uuid]
+
+def get_melody_description(melody, prompt = None):
     working_directory = "../clamp"
     cwd = get_absolute_path_from_relative_to_source(working_directory)
 
@@ -23,12 +30,9 @@ def describe_action(melody, assets_path):
     text = result.stdout
     descriptions = unique_descriptions(text)
     properties = extract_abc_properties(melody)
-    result = convert_to_sentence(descriptions, properties)
+    result = convert_to_sentence(descriptions, prompt, properties)
+    return result
 
-    melody = generate_from_description_sentence(result)
-    print(f"Generated melody: {melody}")
-    uuid = render_audio_and_score(melody, assets_path)
-    return [melody, uuid]
 
 def generate_from_description_sentence(sentence):
     command = [
@@ -87,8 +91,11 @@ def extract_abc_properties(abc_string):
     
     return result
 
-def convert_to_sentence(descriptions, properties):
+def convert_to_sentence(descriptions, prompt, properties):
     # Join the lines with ' and ' and form the final sentence
     sentence = " and ".join(descriptions)
+    if prompt is not None:
+        sentence = f"{sentence} and {prompt}"
+
     props = "\n".join(properties)
     return f"Write a song that is a {sentence}\n{props}"

@@ -55,12 +55,13 @@ def convert_events_to_abc_melody(events):
     return abc_notes
 
 def extract_abc_header(abc_text):
-    print(f">>> {abc_text}")
     header_lines = []
     lines = abc_text.split('\n')
     
     for line in lines:
         # Check if the line matches the pattern of an ABC header line
+        if re.match(r'^\s*$', line):
+            continue
         if re.match(r'^[A-Z]:', line):
             header_lines.append(line)
         else:
