@@ -24,7 +24,7 @@ def process_abc_folder(folder_path, output_file):
     results = {}
 
     # Iterate through files in the folder
-    for filename in os.listdir(folder_path)[0:10]:
+    for idx, filename in enumerate(os.listdir(folder_path)):
         if filename.endswith(".abc"):
             file_path = os.path.join(folder_path, filename)
             try:
@@ -38,7 +38,8 @@ def process_abc_folder(folder_path, output_file):
                 results[filename] = flag_array
             except Exception as e:
                 print(f"Error processing {filename}: {str(e)}")
-    
+        print(f"File {filename}, number {idx + 1} has been processed.")
+
     # Save results to JSON file
     with open(output_file, 'w') as json_file:
         json.dump(results, json_file, indent=4)
