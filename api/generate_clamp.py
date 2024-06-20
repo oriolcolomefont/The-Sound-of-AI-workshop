@@ -68,7 +68,7 @@ def generate_variations(melody, number_of_variations):
     command = ['mkdir', music_keys_folder]
     subprocess.run(command)
     # Read the score and process events
-    score = converter.parse(abc_melody, type='abc')
+    score = converter.parse(melody, type='abc')
     notes_and_rests = score_to_notes_and_rests(score.flatten())
     events = convert_notes_and_rests_to_events(notes_and_rests)
     unique_events = list(set(events))

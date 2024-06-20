@@ -44,13 +44,19 @@ function ChatQueryOpen({
         <>
           <p>Write an abc melody:</p>
           {text === "" ? (
-            <p>
+            <p className="flex gap-2">
               Or choose a sample:{" "}
               <button
                 className="p-1 bg-zinc-600 rounded"
                 onClick={() => setText(SAMPLES.tunisia)}
               >
                 A night in tunisia
+              </button>
+              <button
+                className="p-1 bg-zinc-600 rounded"
+                onClick={() => setText(SAMPLES.allofme)}
+              >
+                All Of Me
               </button>
             </p>
           ) : null}
