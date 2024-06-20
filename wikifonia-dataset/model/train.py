@@ -37,7 +37,7 @@ from transformer import Transformer
 EPOCHS = 10
 BATCH_SIZE = 32
 DATA_PATH = "dataset.json"
-MAX_POSITIONS_IN_POSITIONAL_ENCODING = 1000
+MAX_POSITIONS_IN_POSITIONAL_ENCODING = 100
 
 # Loss function and optimizer
 sparse_categorical_crossentropy = SparseCategoricalCrossentropy(

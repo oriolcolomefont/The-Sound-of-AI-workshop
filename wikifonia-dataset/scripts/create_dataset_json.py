@@ -5,7 +5,7 @@ input_folder = './temp'
 token_list = "token_list.json"
 dataset_json = "dataset.json"
 
-MAX_LEN = 500
+MAX_LEN = 100
 
 all_files = [f for f in os.listdir(input_folder) if os.path.isfile(os.path.join(input_folder, f))]
 files = []
