@@ -64,6 +64,8 @@ python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal music
 
 ### Text-to-music
 
+https://github.com/sander-wood/text-to-music
+
 ```bash
 
 # optional: edit input_text.txt
@@ -86,4 +88,12 @@ python inference/xml2abc.py -m 2 -c 8 -x input.mxl > inference/music_query.abc
 cd generate
 
 python sonifyabc.py {input_folder} {output_folder} {midi_folder} {soundfont_file}
+```
+
+### Tunesformer
+
+https://github.com/sander-wood/tunesformer
+
+```bash
+python generate.py -num_tunes 3 -max_patch 128 -top_p 0.8 -top_k 8 -temperature 1.2 -seed 0 -show_control_code True
 ```

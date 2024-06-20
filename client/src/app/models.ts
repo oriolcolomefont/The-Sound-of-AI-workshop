@@ -14,6 +14,7 @@ export type ResponseMessage = {
   error?: string;
   text?: string;
   wav?: string;
+  uuid?: string;
 };
 
 export type ChatMessage = QueryMessage | ResponseMessage;

@@ -45,7 +45,14 @@ export const useChatStore = create<ChatStore>((set, get) => {
       message.working = true;
       set({ nextId: nextId + 1, messages });
 
-      const sendRequest = message.input === "melody" ? API.clean : API.variate;
+      const action =
+        message.input === "melody"
+          ? "clean"
+          : message.prompt === "describe"
+          ? "describe"
+          : message.prompt === "generate"
+          ? "generate"
+          : "variate";
 
       if (message.input === "melody") {
         message.melody = message.prompt;
@@ -53,7 +60,7 @@ export const useChatStore = create<ChatStore>((set, get) => {
         message.melody = melody;
       }
 
-      sendRequest(message)
+      API.sendRequest(action, message)
         .then((response) => {
           console.log({ response });
           message.working = false;
