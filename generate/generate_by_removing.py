@@ -31,6 +31,6 @@ def substitute_note_with_rest(score_path, output_path=None):
         score.show()
 
 # Example usage
-input_xml = 'modified_musicxml_file.xml'
-output_xml = 'path_to_output_modified_score.xml'
+input_xml = 'modifiedmarkov.mxl'
+output_xml = f'modified_{input_xml}.xml'
 substitute_note_with_rest(input_xml, output_xml)

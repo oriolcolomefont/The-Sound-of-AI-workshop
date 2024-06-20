@@ -2,7 +2,7 @@ from music21 import converter, note, stream
 import random
 
 # Step 1: Parse the XML score
-xml_file = 'modified_musicxml_file.xml'
+xml_file = 'modifiedmarkov.mxl'
 score = converter.parse(xml_file)
 
 # Step 2: Iterate through measures
