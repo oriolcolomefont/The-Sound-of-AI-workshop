@@ -17,7 +17,7 @@ def filter_score(score):
                 elif isinstance(note_or_rest, note.Rest):
                     # Keep rests as they are
                     pass
-
+                
 def main():
     file_path = 'markov.mxl'
     
