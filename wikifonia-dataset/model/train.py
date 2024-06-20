@@ -34,7 +34,7 @@ from melodypreprocessor import MelodyPreprocessor
 from transformer import Transformer
 
 # Global parameters
-EPOCHS = 10
+EPOCHS = 1
 BATCH_SIZE = 32
 DATA_PATH = "dataset.json"
 MAX_POSITIONS_IN_POSITIONAL_ENCODING = 537
@@ -159,7 +159,7 @@ def _right_pad_sequence_once(sequence):
 
 
 if __name__ == "__main__":
-    melody_preprocessor = MelodyPreprocessor(DATA_PATH, batch_size=BATCH_SIZE)
+    melody_preprocessor = MelodyPreprocessor("dataset.json", batch_size=BATCH_SIZE)
     train_dataset = melody_preprocessor.create_training_dataset()
     vocab_size = melody_preprocessor.number_of_tokens_with_padding
 
@@ -175,12 +175,14 @@ if __name__ == "__main__":
         dropout_rate=0.1,
     )
 
+
     train(train_dataset, transformer_model, EPOCHS)
+    transformer_model.save("model1.keras")
 
     print("Generating a melody...")
     melody_generator = MelodyGenerator(
         transformer_model, melody_preprocessor.tokenizer
     )
-    start_sequence = ["C4-1.0", "D4-1.0", "E4-1.0", "C4-1.0"]
+    start_sequence = ["g", "g", "g2", "g", "f_e"]
     new_melody = melody_generator.generate(start_sequence)
     print(f"Generated melody: {new_melody}")

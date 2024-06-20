@@ -1,3 +1,5 @@
+from melodypreprocessor import MelodyPreprocessor
+
 """
 melody_generator.py
 
@@ -29,6 +31,7 @@ This class is intended to be used with a Transformer model that has been
 specifically trained for melody generation tasks.
 """
 
+import keras
 import tensorflow as tf
 
 
@@ -136,3 +139,15 @@ class MelodyGenerator:
             generated_sequence_array
         )[0]
         return generated_melody
+
+    
+
+if __name__ == "__main__":
+    melody_preprocessor = MelodyPreprocessor("dataset.json", batch_size=10)
+    model = keras.models.load_model('model.keras')
+    melody_generator = MelodyGenerator(
+        model, melody_preprocessor.tokenizer
+    )
+    start_sequence = ["g", "g", "g2", "g", "f_e"]
+    new_melody = melody_generator.generate(start_sequence)
+    print(f"Generated melody: {new_melody}")
