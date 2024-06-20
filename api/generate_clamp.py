@@ -31,7 +31,7 @@ def generate_clamp_action(melody, prompt, assets_path):
     print(">>> MUSIC QUERY RESULTS: ", music_query_results)
 
     print(">>> SEARCH VARIATIONS BY TEXT QUERY....")
-    text_query_results = find_variation_by_music_query(melody)
+    text_query_results = find_variations_by_text_query(description)
     print(">>> TEXT QUERY RESULTS: ", music_query_results)
 
     # join both results

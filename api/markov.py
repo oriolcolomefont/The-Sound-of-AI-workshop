@@ -38,6 +38,16 @@ class MarkovChain:
 
         return melody
 
+    def generate_single_event(self, last_event):
+        last_event_index = self.event_to_index[last_event]
+        current_row = self.matrix[last_event_index]
+        next_index = np.random.choice(
+            list(self.event_to_index.values()),
+            p=current_row,
+        )
+        return self.events[next_index]
+    
+
     def train(self, events):
         for i in range(0, len(events) - 1):
             current_event = events[i]
