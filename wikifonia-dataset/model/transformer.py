@@ -99,6 +99,7 @@ class Transformer(tf.keras.Model):
         max_num_positions_in_pe_encoder,
         max_num_positions_in_pe_decoder,
         dropout_rate=0.1,
+        **kwargs 
     ):
         """
         Parameters:
@@ -134,6 +135,16 @@ class Transformer(tf.keras.Model):
         )
 
         self.final_layer = Dense(target_vocab_size)
+        # We save the model configuration to the config attribute
+        self.num_layers = num_layers
+        self.d_model = d_model
+        self.num_heads = num_heads
+        self.d_feedforward = d_feedforward
+        self.input_vocab_size = input_vocab_size
+        self.target_vocab_size = target_vocab_size
+        self.max_num_positions_in_pe_encoder = max_num_positions_in_pe_encoder
+        self.max_num_positions_in_pe_decoder = max_num_positions_in_pe_decoder
+        self.dropout_rate = dropout_rate
 
     def call(
         self,
@@ -179,6 +190,27 @@ class Transformer(tf.keras.Model):
 
         return logits
 
+    def get_config(self):
+        config = super(Transformer, self).get_config()
+        config.update({
+            "num_layers": self.num_layers,
+            "d_model": self.d_model,
+            "num_heads": self.num_heads,
+            "d_feedforward": self.d_feedforward,
+            "input_vocab_size": self.input_vocab_size,
+            "target_vocab_size": self.target_vocab_size,
+            "max_num_positions_in_pe_encoder": self.max_num_positions_in_pe_encoder,
+            "max_num_positions_in_pe_decoder": self.max_num_positions_in_pe_decoder,
+            "dropout_rate": self.dropout_rate
+        })
+        return config
+
+    @classmethod
+    def from_config(cls, config):
+        custom_args = {k: config.pop(k) for k in ('name', 'trainable', 'dtype') if k in config}
+        return cls(**config, **custom_args)
+    
+    
 
 class Encoder(tf.keras.layers.Layer):
     """

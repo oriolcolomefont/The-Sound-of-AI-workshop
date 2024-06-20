@@ -12,4 +12,5 @@ client/public/*.wav
 client/public/assets/*
 weights*
 *.mxl
-wikifonia-dataset/temp
+wikifonia-dataset/temp*
+*.h5

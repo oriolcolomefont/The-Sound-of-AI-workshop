@@ -90,14 +90,13 @@ class MelodyPreprocessor:
         tokenized_melodies = self._tokenize_and_encode_melodies(
             parsed_melodies
         )
-        self._set_max_melody_length(tokenized_melodies)
-        self._set_number_of_tokens()
         input_sequences, target_sequences = self._create_sequence_pairs(
             tokenized_melodies
         )
         tf_training_dataset = self._convert_to_tf_dataset(
             input_sequences, target_sequences
         )
+        print(">>TRAINING DATASET READY")
         return tf_training_dataset
 
     def _load_dataset(self):
@@ -108,13 +107,15 @@ class MelodyPreprocessor:
             list: A list of melodies from the dataset.
         """
         file_names = self.data_set["file_list"]
-        file_names = file_names[0:10] # TODO: remove
         folder = self.data_set["dataset_folder"]
+        file_names = file_names[0:100]
+        print(">>LOADING DATASET", len(file_names))
         dataset = []
         for file_name in file_names:
             with open(f"{folder}/{file_name}", "r") as f:
                 song = f.read()
                 dataset.append(song)
+        print(">>DATASET LOADED")
         return dataset
 
     def _parse_song(self, song_str):
@@ -152,11 +153,6 @@ class MelodyPreprocessor:
         """
         self.max_melody_length = max([len(melody) for melody in melodies])
 
-    def _set_number_of_tokens(self):
-        """
-        Sets the number of tokens based on the tokenizer.
-        """
-        self.number_of_tokens = len(self.tokenizer.word_index)
 
     def _create_sequence_pairs(self, melodies):
         """
