@@ -1,0 +1,7 @@
+ z [EGAc] [EGAc] B |:"C" [EGB] [CEA]/([CEA]/ [CEA]2) |"C" z [EGAc] [EGAc] B | %3
+"G" B [DFA]/([DFA]/ [DFA]2) |"G" z [EGAc] [EGAc] B |"G" B [DFA]/([DFA]/ [DFA]2) | %6
+"G" z [DFAc] [DFAc] B |"C" B [CEA]/([CEA]/ [CEA]2) |"C7" z [G_Be] [GBe] d | %9
+"C7" d [G_Bc]/([GBc]/ [GBc]2) |"C7" z [G_Be] [GBe] d |"F" d [FAc]/([FAc]/ [FAc]2) | %12
+"F" z [FAe] [FAe] d | d"D7" [^FAc]/([FAc]/ c2) |"D7" z [^FAe] [FAe] d |"D" z [FAc]2"G" d | %16
+"G#" [EGc]3"C" z ||"C#" z ^c c =c :|6"C" c4 ||"G" d4 |"C" c4 |] z4 | z4 | z4 | z4 | z4 | z4 | z4 | %28
+ z4 | z4 | z4 |] %31

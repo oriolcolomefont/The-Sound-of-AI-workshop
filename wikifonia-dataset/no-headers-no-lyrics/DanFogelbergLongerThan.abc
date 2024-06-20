@@ -1,0 +1,10 @@
+"G" z2 DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 |"G" z2 DB,"Am7" A,2 B,C | %3
+"Gmaj7/B" DEF"C" E3- E2 |"G" z2 DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 | %6
+"Bb" DC_B,"D7/A" C2"G" A,2"C/G" G,- |"G" G,8 | z2 DB,"Am" A,2 B,C |"Gmaj7/B" DED"C" G,2 A,3 | %10
+"G" z2 DB,"Am" A,2 B,C |"Gmaj7/B" DEF"C" E3- E2 |"G" z2 DB,"Am" A,2 B,C |"Gmaj7/B" DED"C" G,2 A,3 | %14
+"Bb" DC_B,"D7/A" C2 A,2"G" G,- | G,8 |"F9/C" =F4"C" E4 |"Eb9/Bb" CD_E=F"Bb" D_B,- B,2 | %18
+"F9/C" =F4"C" E4 |"Eb9/Bb" =F_EDC"Bb" ED/C/ _B,2 |"F9/C" =F4"C" E4 | %21
+"Eb9/Bb" CD_E=F"Bb" D_B,-B,=F, |"D7sus4/G" D6"D/F#" C"Dm7/F"B, |"D7/F#" A,8 | %24
+"G" z2 DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 |"G" z2 DB,"Am7" A,2 B,C | %27
+"Gmaj7/B" DEF"C" E3- E2 |"G" z D/D/DB,"Am7" A,2 B,C |"Gmaj7/B" DEDB,"C" G, A,3 | %30
+"Bb" DC_B,"D7/A" C2 A,2"G" G,- | G,8 |"Bb" DC_B,"D7/A" C2 F2"G" G- | G8 |] %34

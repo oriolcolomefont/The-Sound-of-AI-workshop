@@ -1,0 +1,33 @@
+|:"Epower" E,4"F#power" F,4 |"Gpower" G,8 |"Apower" A,4"Apower" A,4 |"Bpower" B,8 :: %4
+"Epower" !>!E3 D/E/"F#power" !>!F3 E/F/ |"Gpower" !>!G8 |"Apower" (3A2 G2 F2"Apower" (3E2 F2 E2 | %7
+"Bpower" !fermata!_E8 :| %8
+"Epower" [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ | %9
+ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ | %10
+ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ | %11
+ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ [E,B,][E,B,]/[E,B,]/[E,B,][E,B,]/[E,B,]/ || %12
+"Epower" G4 F2 E2 |"Gpower" D4 E2 F2 |"Cpower" G4 F2 E2 |"Gpower" _D8 |"Bpower" _E4 =E2 F2 | %17
+"Cpower" E4 G2 A2 |"Ebpower" _B4 A2 _B2 |"Epower" B8 |"Cpower" _e4 c2 G2 |"Gpower" d8 | %22
+"Abpower" _e4 d2 c2 |"Ebpower" _B8 |"Gpower" d4 c2 _B2 |"Abpower" c4 _B2 _A2 |"Ebpower" _B8 | %27
+"Gpower" B8 |"Cpower" c8- | c8 | z8 | z8[K:treble+8] |[K:Eb]"Cpower" e4 d2 c2 |"Ebpower" B4 c2 d2 | %34
+"Abpower" e4 d2 c2 |"Ebpower" =A8 |"Gpower" =B4 c2 d2 |"Abpower" c4 e2 f2 |"Bpower" _g4 f2 g2 | %39
+"Cpower" g8 |"Abpower" =b4 a2 e2 |"Ebpower" b8 |"Epower" =b4 _b2 a2 |"Bpower" _g8 | %44
+"Ebpower" b4 a2 _g2 |"Epower" a4 _g2 =e2 |"Bpower" _g8 |"Ebpower" g8 |"Abpower" a8- | a8 | z8 | %51
+ z8[K:treble] ||"G#m" =B4 ^A2 ^G2 |"B" ^F4 ^G2 ^A2 |"E" =B4 ^A2 ^G2 |"B" =F8 | %56
+"D#power" =G4 ^G2 ^A2 |"Epower" ^G4 =B2 ^c2 |"Gpower" =d4 ^c2 d2 |"B" ^d8 |"Em" =g4 =e2 =B2 | %61
+"B" ^f8 |"C" =g4 ^f2 =e2 |"G" =d8 |"B" ^f4 =e2 =d2 |"C" =e4 =d2 =c2 |"G" =d8 |"B" ^d8 |"Em" =e8- | %69
+ e8 | z8 | z8 |:[K:G]"Epower" E,4"F#power" F,4 |"Gpower" G,8 |"Apower" A,4"Apower" A,4 | %75
+"Bpower" B,8 ::"Epower" !>!E3 D/E/"F#power" !>!F3 E/F/ |"Gpower" !>!G8 | %78
+"Apower" (3A2 G2 F2"Apower" (3E2 F2 E2 |"Bpower" !fermata!_E8 :| %80
+"^Synth Arpeggio" (3EB,E (3GEG (3BGB e2 | (3EB,E (3GEG (3BGB e2 | (3EB,E (3GEG (3BGB e2 | %83
+ (3EB,E (3GEG (3BGB e2 ||"Em" (3EB,E (3GEG (3BGB e2 | (3EB,E (3GEG (3BGB e2 | %86
+"Bm" (3DB,D (3FDF (3BFB d2 | (3DB,D (3FDF (3BFB d2 |"A/C#" (3^CA,C (3ECE (3AEA c2 | %89
+ (3^CA,C (3ECE (3AEA c2 |"Em" (3EB,E (3GEG (3BGB e2 | (3EB,E (3GEG (3BGB e2 |: %92
+"Em" (3eBG (3eBG (3eBG (3eBG | (3eBG (3eBG (3eBG (3eBG |"Bm" (3dBF (3dBF (3dBF (3dBF | %95
+ (3dBF (3dBF (3dBF (3dBF |"A/C#" (3^cAE (3cAE (3cAE (3cAE | (3^cAE (3cAE (3cAE (3cAE | %98
+"Em" (3eBG (3eBG (3eBG (3eBG | (3eBG (3eBG (3eBG (3eBG ::"Epower" (3DEE E2 (3DEE E2 | %101
+ (3DEE E2 (3DED (3GDE |"Bpower" (3DB,B, B,2 (3DB,B, B,2 | (3DB,B, B,2 (3DB,B, (3DEE | %104
+"Apower" (3EA,A, A,2 (3EA,A, A,2 | (3EA,A, A,2 (3EA,A, (3B,A,G, |"Em" (3G,E,E, E,2 (3G,E,E, E,2 | %107
+ (3G,E,E, E,2 (3G,E,E, (3A,B,B,[K:treble+8] ::"Em" e8 | B4 G4 |"Bm" d8- | d8 |"A/C#" ^c8 | %113
+ B4 A2 (3ABA |"Em" G8- | G8[K:treble] :: (3G,E,E, E,2 (3G,E,E, E,2 | %117
+ (3G,E,E, E,2 (3G,E,E, (3G,A,B, | (3G,E,E, E,2 (3G,E,E, E,2 | (3G,E,E, E,2 (3DEE (3DEE :| E,8- | %121
+ E,8 | z8 | z8 |] %124

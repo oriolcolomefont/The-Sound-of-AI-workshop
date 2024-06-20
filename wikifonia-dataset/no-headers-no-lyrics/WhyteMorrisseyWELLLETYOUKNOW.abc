@@ -1,0 +1,11 @@
+|:"D" [DFA]6 D2 |"Gm" F>F- F>F- F2 z E |"D" F2 E2 FE F2- | F4"D/C#" z4 |"Bm" z4 z B,B,F- | %5
+"Em" FF- F6 |"Bm" z4 z B,B,F- |"Em9" FF- F2 z2 FE |"Bm" DB, B,2- B,4 | z2 z2 z FFF | %10
+"A7" FE-EE- E2 z2 | z2 z2 z2 z2 ::"D" z4 FF F2 |"G" F6- FD |"D" G>F- FD G->F DE | F4"D/C#" F4- | %16
+"Bm" F2 z2 z FFE |"Em" DB,- B,2 z4 |"Bm" z2 DB, F4 |"Em" z2 DB, FDB,F- |"Bm" F4 z4 | %21
+ z2 DB, FDB,G- |"A7" G4 z2 z2 | z2 z2 z2 z2 :|"D" z2 DE F2 FF- |"Gm" F4 z EFE |"D" DEFG A4 | %27
+ z2 DE F2- D2 |"Bm" z2 DE F2- D2 |"Em" z2 DE F2 D2 |"Bm" z2 DE F2- D2 |"Em" z2 DE F2- D2- | %32
+"Bm" D4 z4 |"Bm" z2 DE F2- D2 |"A7" G4 z2 z2 | z2 z2 z2 z2 |:"D" [A,DF]8 |"Gm" [_B,DG]8 | %38
+"D" [A,DF]8 | [DFA]4"D/C#" [CFA]4 |"Bm" [DFB]8 |"Em" [EGB]8 |"Bm" [DFB]8 |"Em" [EGB]8 | %44
+"A" [CEA]8- | [CEA]8 |"A7" [CEG]8- | [CEG]8 :|"E" z2 EE z FzE |"G" z2 z2 z2 z2 |"E" z2 EF- F2 G2 | %51
+"D" FE E2 z2 EF |"E" G>G z G GG G/G/G |"G" GF- F2 z2 z D |"E" F2 z D F2 z D |"G9" FF D2 z4 |: %56
+"E" z2 z2 FFFE |"G9" F2 z2 FF z2 |"E" FEFE- EEFG |"D9" F z z2 z4 :| %60

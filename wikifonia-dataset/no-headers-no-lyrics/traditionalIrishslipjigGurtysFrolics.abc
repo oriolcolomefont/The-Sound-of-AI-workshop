@@ -1,0 +1,8 @@
+"D" A,DD A,DD FEF |"D" A,DD DFA GFE |"D" A,DD A,DD F z F |"G" GFG ECE GFE ::"D" FDF A2 F A2 F | %5
+"D" FDF A2 F GFE |"D" FDF A2 F A2 F |"G" GFG ECE GFE ::"D" Add def gfg |"D" Add dfa gfe | %10
+"D" Add def g2 g |"G" gfg ece gfe ::"D" fdf a2 f a2 g |"D" fdf a2 f gfe |"D" fdf a2 f a2 f | %15
+"G" gfg ece gfe ::"D" aff dff dff |"D" aff dfa gfe |"D" aff dff dff |"G" gfg ece gfe :: %20
+"D" dff agf/e/ d2 A |"D" dff agf gfe |"D" dff agf/e/ def |"G" gfg ece gfe ::"D" f/g/af ded dAF | %25
+"D" DFA def gfe |"D" f/g/af ded def |"G" gfg ece gfe ::"D" a/g/fe dfe d2 d |"D" afd def gec | %30
+"D" d/f/ec dec dAF |"G" G/A/BA GEF GFE ::"D" A2 A dcB A2 B |"D" AFD DFD EFG |"D" AFA BGB cBA | %35
+"G" GFG ECE GFE :| %36

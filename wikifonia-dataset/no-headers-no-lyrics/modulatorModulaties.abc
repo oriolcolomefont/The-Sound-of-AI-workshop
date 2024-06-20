@@ -1,0 +1,21 @@
+"^klein secunde omhoog""Cother" [EGc]"Cother/B" [EGc]"Abother" [_E_Ac]"Aother" [_GAc] | %1
+"Dbother" [FA_d]2 z z |"Cother""^secunde omhoog" [EGc]"Eother" [DGB]"Aother" [DGA] [^CGA]"Aother" | %3
+"Dother" [D^FA]2 z2 |"Cother""^kleine terts" [EGc]"Fother" [_E_Ac]"Bbother" [EA_B] [DAB]"Bbother" | %5
+"Ebother" [_EG_B]2 z2 |"Cother""^terts" [G,CE]"Aother" [CEG]"Bother" [A,^EF] [A,^DF]"Bother" | %7
+"Eother" [^G,B,E]2 z2 |"Cother""^kwart" [G,CE]"Cother" [_B,CE]"Fother" [A,CF]2 | %9
+"Cother""^kleine kwint" [CEG]"Abother" [C_E_A]"Dbother" [_DFA]"Dbother" [_CFA] | %10
+"Gbother" [_B,D_G]2 z2 |"Cother""C#other""^kwint" [G,CE] [_B,EG]"Gother/D" [=B,DG] [CD^F]"Dother" | %12
+"Gother" [B,DG]2 z2"Cother" |"^kleine sext" [EGc]"Fother" [_E_Ac]"Bbother" [_DF_B]"Ebother" [DGB] | %14
+"Abother" [CEA]2 z z"Cother" |"Aother""^sext" [CEG] [CEG]"Dother/B" [A,DF] [^G,DE]"Eother" | %16
+"Aother" [A,^CE]2 z2 | %17
+"Cother""^kleine septiem" [EGc]"Cother/E" [EG_B]"Fother" [CFA]"Fother" [_EFA] | %18
+"Bbother" [DFB]2 z2 | %19
+"Cother" [CEG]"Ebother/F" [_B,_EG]"Fother" [EFA]"Bbother" [DF_B]"Cother""^septiem" | %20
+ [EGc]"Eother" [EGB]"F#other" [E^FB] [EF^A]"F#other" |"Bother" [^DFB]2 z2 | %22
+"Cother" [CEG]"Abother/C" [_CE_A]"^slash chords""Dbother" [_DF_A]2 | %23
+"Cother" [CEG]"Gother/A" [GBd]"Dother" [^FAd]2 |"Dother" [D^FA]"Aother/B" [Ace]"Eother" [^GBe]2 | %25
+"Cother" [CEG]"Bbother/C" [DF_B]"Fother" [FAc]2 |] %26
+ C, _B,, _A,, A,, | _D,,2 z z | C,, E,, A,, A,, | D,,2 z2 | C,, F,, _B,, B,, | _E,,2 z z | %6
+ C, A,, B,, B,,, | (E,,2 z2) | C, C, F,,2 | C, _A,, _D, _D,, | _G,,2 z2 | C, ^C, D, D, | G,,2 z2 | %13
+ C,, F,, _B,, _E,, | _A,,2 z2 | C, A,, B,, E,, | A,,2 z2 | C,, E,, F,, F,, | B,,,2 z2 | %19
+ C, F, F, _B,, | C, E, ^F, F, | B,,2 z2 | C, C, _D,2 | C, A,, D,2 | D, B,, E,2 | C, _B,, F,2 |] %26

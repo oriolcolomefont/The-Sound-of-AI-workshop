@@ -1,0 +1,10 @@
+"F#power" z12 | z4 z4 z2 A,B, |:"F#m" C6 B,2 C2E2 |"D" F8 F4 |[M:2/4]"A/C#" E4 (3(FEC) (A,B,) | %5
+[M:3/4]"E/B" B,8 z2 A,B, |"F#m" C6 B,2 C2E2 |"D" F8 (F2<A2) |[M:2/4]"A/C#" E4 (3(FEC) A,B, | %9
+[M:4/4]"E/B" B,12 (C2<E2) |[M:3/4]"D" F6 E2 F2A2 |"A/C#" E8 C2E2 |[M:4/4]"Bm" F6 (EC) B,4 C4 | %13
+[M:5/4]"Esus4" E8"E" z8 z4 ||[M:3/4]"A""^Chorus" E8 F4 |"F#m/C#" A8 E4 |"D" A8 B4 | %17
+[M:4/4]"Esus4" (A3B/A/"E" G8) G4 |[M:3/4]"A" A8 E4 |"E/B" E4 (D3E/D/) C4 |"D" D8- D2E2 | %21
+[M:4/4]"Esus4""E" E12 (C4 |[M:3/4]"A" E8) (E2F2) |"F#m/C#" A8 E4 |"D" A8 B4 | %25
+[M:4/4]"Esus4" (A3B/A/"E" G8) G4 |[M:2/4]"F#m" A6 E2 |[M:3/4]"D" (F6 E2) (F/E/D3) | %28
+[M:4/4]"Esus4/B" E8"E" E8 |1[M:3/4]"A" E12- | !fermata!E8 z2 A,B, :|2"A" E12- | %32
+[M:4/4]"E/G#" E12 G4 ||[M:3/4]"F#m" A8 E4 |"D" F6 (E2 FED2) |[M:5/4]"Esus4/B" E8"E" E12 | %36
+[M:3/4]"A" !fermata!E12 |] %37

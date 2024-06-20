@@ -1,0 +1,26 @@
+|:"^A5" AA e2"^Repeat" A"^4"A e2"^times" ::"^D5" DD A2"^Repeat" D"^4"D"^times" A2 :| %2
+"^A5" A2>c2- c2 e2 | A2>c2- c2 e2 | A2>c2- c2 e2 |"^/B" A2>c2- c2"^/C#" e2 |"^D5" A2>c2- c2 e2 | %7
+ A2>c2- c2 e2 | A2>c2- c2 e2 | A2>c2-"^/E" c2 e2 |"^A5" A2>c2- c2 e2 | A2>c2- c2 e2 | %12
+ A2>c2- c2 e2 |"^/B" A2>c2- c2"^/C#" e2 |"^D5" A2>c2- c2 e2 | A2>c2- c2 e2 |"^/E" A2>c2- c2 e2 | %17
+ A2>c2- c2 e2 |"^A5"zc cc ccAA |"^/D" cccG"^E5" dcBA |"^A5"zc cc ccAA |"^/D" dcdA"^E5" dddA | %22
+"^A5"zc cc A2cc |"^F#5" A2cc"^E5" cccA |"^A5"zA dc cA A2 |"^F#5" z2 cc"^E5" cAAA |"^D5" A6 z2 | %27
+ d2 A2"^E5" dddA |"^Anote" A2 z2 AA/A/ A/B/c | AA/A/ A/B/c"^Dnote" AA/A/"^C#note" A/B/c | %30
+"^Anote" AA/A/ A/B/c AA/A/ A/B/c | AA/A/ A/B/c"^Dnote" AA/A/"^C#note" A/B/c |"^Anote" e2 cc dcBA- | %33
+ A2z2"^Dnote"ze"^C#note" ee |"^Anote" e2 cc dcBA- | A2z2"^Dnote"ze"^C#note" ee | %36
+"^Anote" ec c2 cd A2 |"^Bnote" e2 cc"^Dnote" dd"^C#note"AA |"^Anote" c2 AA dAAA- | %39
+ A2 z2"^Dnote" z4"^C#note" | A>"^A5"c- ce A>c- ce | A>c- ce A>c- ce |"^D5" A>c- ce A>c- ce | %43
+ A>c- ce A>c- ce |"^A5" A>c- ce A>c- ce | A>c- ce A>c- ce |"^D5" A>c- ce A>c- ce | %47
+ A>c- ce A>c- ce |"^A5"zc cc ccAA |"^/D" dccA"^E5" dcBA |"^A5"zc cc ccAA |"^/D" dccA"^E5" dcBA | %52
+"^A5"zc cc c2cc |"^F#5" c2 cc"^E5" ddec |"^A5"ze dc cA A2 |"^F#5"zc cc"^E5" cAGA |"^D5" A6 z2 | %57
+ d2 A2"^E5" dddA |"^Anote" A2 z2 z4 | AA/A/ A/A/A"^Dnote" dd/d/"^C#note" cc/c/ | %60
+"^Anote" AA/A/ A/A/A AA A/A/A | AA A/A/A"^Dnote" dd/d/"^C#note" cc/c/ |"^Anote" e2 cc dcBA- | %63
+ A2z2"^Dnote"ze"^C#note" ee |"^Anote" eccc dcBA- | A2z2"^Dnote"ze"^C#note" ee | %66
+"^Anote" ec c2 cd A2 | e2 cc"^Dnote" dd"^C#note"AA | c2 AA dAAA- | A2 z2 z4 | %70
+"^Anote" A/A/ z z2 z4 | A/A/ z z2"^Dnote" d/d/ z"^C#note" c/c/ z |"^Anote" A/A/ z z2 z4 | %73
+ A/A/ z z2"^Dnote" d/d/ z"^C#note" c/c/ z |"^Anote" A>c- ce A>c- ce | %75
+"^Bnote" A>c- ce"^Dnote" A>c- c"^C#note"e | A>"^Anote"c- ce A>c- ce | %77
+"^Bnote" A>c- ce"^Dnote" A>c- c"^C#note"e |"^Anote" e2 cc dcBA- | %79
+"^Bnote" A2z2"^Dnote"ze e"^C#note"e |"^Anote" eccc dcBA- |"^Bnote" A2z2"^Dnote"ze e"^C#note"e | %82
+"^Anote" ec c2 cc A2 |"^Bnote" e2 cc"^Dnote" ddA"^C#note"A | c2"^Anote" AA dAAA- | %85
+"^Bnote" A2 z2"^Dnote" z4"^C#note" |"^Anote" A8 |"^Bnote" B4"^Dnote" d2 c2"^C#note" | A8"^Anote" | %89
+ B4"^Bnote" d2"^Dnote" c2"^C#note" | A8"^A5" |] z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | %99

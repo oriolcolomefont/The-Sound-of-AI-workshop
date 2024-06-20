@@ -1,0 +1,12 @@
+"C" [CEG]8- | [CEG]8 |"F" [CFA]8- | [CFA]8 |"C" [CEG]8- | [CEG]8 |"G7" [B,DFG]8- | [B,DFG]8 | %8
+"C" [CEG]8- | [CEG]4 z2 ED |"C" C3 C C2 E2 | G2 G2 G2 ED | C3 C C2 E2 | G2 G2 G2 FG | %14
+"F" A2 D2 D2 EF |"C" G2 C2 C2 B,A, |"G7" G,2 E2 E2 D2 |"C" C6 ED |:S"C" C3 C C2 E2 | G2 G2 G2 ED | %20
+ C3 C C2 E2 | G2 G2 G2 FG |"F" A2 D2 D2 EF |"C" G2 C2 C2 B,A, |"G7" G,3 E E2 D2 |"C" C6 FG | %26
+"F" A2 D2 D2 EF |"C" G2 C2 C2 B,A, |"G7" G,3 E!dacoda! E2 D2 |1"C" C6 ED :|2"C" C6 EE || %31
+"F" F3 F F2 E2 |"G" E2 D2 D2 CD |"E7" E3 E E2 D2 |"Am" D2 C2 C2 EE |"F" F3 F F2 E2 | %36
+"G" E2 D2 D2 EF |"C" G3 G G2 A2 |"G7" G6 ef | g3 g g2 a2 | !trill(!Tg6 !trill)!EDS || %41
+"^TRIO" C6 _ED ||[K:Cmin]"Cm""^Andante" C3 C C2 E2 | G2 G2 G2 z G, | C3 C C2 E2 | G2 G2 G2 FG | %46
+"Fm" A2 F2 F2 EF |"Cm" G2 E2 E2 DC |"G7" G,3 E E2 D2 |"Cm" C4 [E,G,C]4 | z8 | %51
+"G7""^Accelerando" G,4 B,4 | D4 G4 |"Ab7" A6 FE |:[K:Db]"Db" D3 D D2 F2 | A2 A2 A2 FE | %56
+ D3 D D2 F2 | A2 A2 A2 GA |"Gb" B2 E2 E2 FG |"Db" A2 D2 D2 CB, |"Ab7" A,3 F F2 E2 |"Db" D6 GA | %62
+"Gb" B2 E2 E2 FG |"Db" A2 D2 D2 CB, |"Ab7" A,3 F F2 E2 ||1,2"Db" D6 FE :|3"Db" D6 z2 |] %67

@@ -1,0 +1,9 @@
+|:"Cm" [CC]4 D2 E2 |"^Cm(maj7)" D3 E D4 |"Cm7" C4 D2 E2 |"^Cm(maj6)" D3 E D4 | %4
+"^A(maj7)" [CC]4 D2 E2 |"Fm7" B4 A2"Cm" G2 |"^Dm75" F8- |"^G79" F8 |"Cm" E4 F2 G2 | %9
+"^Cm(maj7)" F3 G F4 |"Cm7" E4 F2 G2 |"Cm6" F3 G F4 |"^A(maj7)" E4 F2 G2 |"Fm7" d3 c B3 =A | %14
+"Abm6" _A8- |"Bb7" A4 G2 F2 |"^E(maj7)" B3 E"Fm7" E2 D2 |"Gm7" E4"Fm7" E2 D2 | %18
+"^E(maj7)" c3"Fm7" E E2 D2 |"Gm7" E4"Fm7" E2 D2 |"^E(maj7)" d3 E"G7" E2 D2 | %21
+"Cm" E4"^B(min7)" F2"A7" G2 |"^A(maj7)" c8- |"^Dm75" c4"^G79" D4 |"Cm" C4 D2 E2 | %25
+"^Cm(maj7)" D3 E D4 |"Cm7" E4 F2 G2 |"Cm6" F3 G F4 |"^A(maj7)" c4 d2 e2 |"^Dm75" d3"^G79" e d4 | %30
+"Cm" e8- |"Dm7""^B(maj7)" e8 |"^A7(11)" E4"^A(maj7)" F2 G2 |"Fm7" F3 G"^B79" F4 |"Eb6" E8- | %35
+"^Dm75" E6"^G79" z2 :| %36

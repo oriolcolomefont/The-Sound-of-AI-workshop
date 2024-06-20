@@ -1,0 +1,18 @@
+ f z2 f f3 g | e3 e e3 f | d3 d f3 f | b4 [ce]2 c'2 | d'2 [df]d' d'ae'f' | b3 b [eb]dc'd' | %6
+ g2 Bg g2 d2 | [Ge]2 GB [^Af]2 c2 | [Af]2 Af [Bf]2 Bg | e2 Ge [^Ae]2 Af | d3 d f2 df | %11
+ b4 [ce]2 c'f | d'2 dd' [fd']2 e'f' | b3 b [eb]dc'd' | g2 Bg [cf]e f2 | D3 F [DF]FcB | %16
+ d4 [A,E]Aed | [Gg]2 GB [Gf]e[Fd]c | c3 (F [DF])FcB | d4 [A,=CE]A[Ee]^d | [Gg]2 GB [GB]fag | %21
+ e2 GB (f4 | [Ff]8) | f3 f f2 Bg | e3 e [^Ae]3 f | d3 d f3 f | b4 [ce]2 c'2 | [fd']2 dd' d'2 e'f' | %28
+ b3 b [eb]dc'd' | g2 Bg [cf]e f2 | [db]2 EC !fermata!D4 |] z8 | z8 |] %33
+!ped! B,F B2 G,D B2!ped-up! | CG B2 F,C ^A2 | B,F B2 A,F A2 | G,DAB F,C^AF | B, F3 A,F A2 | %5
+ G,D [Ad]2 F,D A2[K:bass] |[K:bass]!ped! E,B, G2 D,B,DD,!ped-up! | C,G, B,2 F,CFF, | %8
+ D, A,3 G,D G2 | C,G, E2 F,C F2[K:treble] | B,F B2 A,F A2 | G,DAB F,C^AF | %12
+!ped! B,F B2 A,F A2!ped-up! |!ped! G,D [Ad]2 F,D A2!ped-up! |!ped! E,B, G2 F,C^AF!ped-up![K:bass] | %15
+!ped! B,,F,B,F, A,,F,A,A,,!ped-up! |!ped! G,,D,A,B, F,,D,A,F,,!ped-up! | %17
+!ped! E,,B,,G,B, [E,B,]G,^A,,F,!ped-up! |!ped! B,,F, D2 A,,F,A,A,,!ped-up! | %19
+!ped! G,,D,A,B, F,,=C,B,,F,!ped-up! |!ped! E,,B,,G,B, D,G,DD,!ped-up! | %21
+!ped! C,G, B,2 ^A,,F, (C2!ped-up! |!ped! C8)!ped-up![K:treble] | %23
+[K:treble]!ped! B,F B2 G,D G2!ped-up! |!ped! CG B2 F,C F2!ped-up! |!ped! B,F B2 A,FAF!ped-up! | %26
+!ped! G,DAB F,C^AF!ped-up! |!ped! B, F2 F A,F[A,A] z!ped-up! | %28
+!ped! G,D[Gd]D F,DAD!ped-up![K:bass] |[K:bass]!ped! E,B, E2 F,C^AF!ped-up! | %30
+!ped! B, F3 !fermata![B,,,B,,]4!ped-up! |] z8 | z8 |] %33
