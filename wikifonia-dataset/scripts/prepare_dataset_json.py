@@ -1,7 +1,7 @@
 import json
 import os
 
-input_folder = './temp-melody-divided'
+input_folder = './temp-melody-only'
 token_list = "token_list.json"
 dataset_json = "dataset.json"
 

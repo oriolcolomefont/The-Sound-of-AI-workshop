@@ -108,7 +108,6 @@ class MelodyPreprocessor:
         """
         file_names = self.data_set["file_list"]
         folder = self.data_set["dataset_folder"]
-        file_names = file_names[0:2000]
         print(">>LOADING DATASET", len(file_names))
         dataset = []
         for file_name in file_names:

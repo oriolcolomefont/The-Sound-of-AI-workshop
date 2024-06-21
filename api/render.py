@@ -50,3 +50,13 @@ def render_audio_from_abc(abc_text, output_file):
     subprocess.run(command)
 
 
+if __name__ == "__main__":
+    melody = """
+X:1
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+"""
+    assets_path = "."
+    render_audio_from_abc(melody, "output.wav")

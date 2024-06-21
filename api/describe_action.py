@@ -29,6 +29,7 @@ def get_melody_description(melody, prompt = None):
     result = subprocess.run(command, capture_output=True, text=True, cwd=cwd)
     text = result.stdout
     descriptions = unique_descriptions(text)
+    print (f"Descriptions: {descriptions}")
     properties = extract_abc_properties(melody)
     result = convert_to_sentence(descriptions, prompt, properties)
     return result

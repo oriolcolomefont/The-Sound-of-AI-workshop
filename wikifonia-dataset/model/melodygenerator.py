@@ -173,21 +173,34 @@ if __name__ == "__main__":
 
 
 
-    input_seq = ["|","c3/2","G/","E2-","|","E2","(3c","d","c","|","B3/2","^G/","E2-","|"]
+    header ="""X:1
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+"""
+    all_of_me= ["c3/2","G/","E2-","|"]
+    night_in = ["A,", "(3B,_DF","c4","BF","|"]
+    input_seq = night_in
     sequence_len = len(input_seq)
     half_sequence_len = sequence_len // 2
+
     generated_melody = []
-    generated_melody.extend(input_seq)
-    for i in range(5):
-        print("Iteration: ", i+1)
-        print("INPUT SEQ: ", input_seq)
-        generated_segment = melody_generator.generate(input_seq).split()
-        print(f"Generated segment: {generated_segment}")
-        generated_segment = generated_segment[:half_sequence_len]
-        print(f"Generated segment fragment: {generated_segment}")
-        generated_melody += generated_segment
-        input_seq = input_seq[half_sequence_len:]
-        print("Half info: ", input_seq)
-        input_seq += generated_segment
+    generated_melody += input_seq
+    generated_melody += melody_generator.generate(input_seq).split()
+    generated_melody += melody_generator.generate(input_seq).split()
+
+    # for i in range(5):
+    #     print("Iteration: ", i+1)
+    #     print("INPUT SEQ: ", input_seq)
+    #     generated_segment = melody_generator.generate(input_seq).split()
+    #     print(f"Generated segment: {generated_segment}")
+    #     generated_segment = generated_segment[:half_sequence_len]
+    #     print(f"Generated segment fragment: {generated_segment}")
+    #     generated_melody += generated_segment
+    #     input_seq = input_seq[half_sequence_len:]
+    #     print("Half info: ", input_seq)
+    #     input_seq += generated_segment
         
-    print(f"Generated melody: {generated_melody}")
+    melody = " ".join(generated_melody)
+    print(f"Generated melody:\n{header}{melody}")

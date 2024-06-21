@@ -3,6 +3,7 @@ import random
 import re
 import subprocess
 
+from clean_action import remove_chords
 from describe_action import get_melody_description
 from markov import MarkovChain
 from music21 import converter, metadata, note, stream
@@ -16,6 +17,7 @@ NUMBER_OF_VARIATIONS = 100
 
 
 def generate_clamp_action(melody, prompt, assets_path):
+    print("INPUT MELODY >>>\n", melody)
     print(">>> GENERATING VARIATIONS")
     generate_variations(melody, NUMBER_OF_VARIATIONS)
 
@@ -72,6 +74,7 @@ def generate_variations(melody, number_of_variations):
     notes_and_rests = score_to_notes_and_rests(score.flatten())
     events = convert_notes_and_rests_to_events(notes_and_rests)
     unique_events = list(set(events))
+    print(">>> UNIQUE EVENTS\n", unique_events)
     number_of_events = len(events)
     # Create markov chain
     markov = MarkovChain(unique_events, 0.1)
@@ -81,7 +84,8 @@ def generate_variations(melody, number_of_variations):
     importance_array = get_importance_array(score)
 
     for i in range(number_of_variations):
-        markov_melody = generate_melody(events, markov, importance_array)
+        markov_melody = markov.generate_melody(number_of_events)
+        #markov_melody = generate_melody(events, markov, importance_array)
         markov_abc_melody = convert_events_to_abc_melody(markov_melody)
         markov_abc_score = header + "\n" + " ".join(markov_abc_melody)
         markov_uuid = create_uuid(markov_abc_score)
@@ -175,7 +179,7 @@ def extract_similarity_uuid_pairs(input_string):
     return pairs
 
 if __name__ == "__main__":
-    abc_melody = """
+    all_of_me = """
 X:1
 L:1/4
 M:4/4
@@ -184,6 +188,15 @@ K:C
 w: All of me|* why not take|all of me?|_|Can't you see|_ I'm no good with-|
 "Dm7" G2 F2- | F4 |"E7" E3/2 _E/ D2- | D2 (3E ^G B |"Am" d2 c2- | c4 |"D7" B3/2 _B/ A2- | %13
     """
+    night_in_tunisia = """
+X:1
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+A, |"Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A3 A, |"Eb7" (3B,_DF c4 BF |"Dm" A4 z2 z A, |  "Eb7" (3B,_DF c4 BF |"Dm" ^G A3- A4 |"Em7b5" ABAG"A7b5" _E2 ^CD- |"Dm" D4 z2 z A, | 
+"""
     assets_path = "../client/public/assets"
     prompt = "make it more folk"
+    abc_melody = remove_chords(night_in_tunisia)
     generate_clamp_action(abc_melody, prompt, assets_path)

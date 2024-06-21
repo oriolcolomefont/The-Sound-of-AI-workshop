@@ -50,6 +50,7 @@ def convert_events_to_abc_melody(events):
             letter = note[0] 
             accidental = note_without_octave[1] if len(note_without_octave) > 1 else ""
             accidental = accidental.replace("#", "^")
+            accidental = accidental.replace("-", "_")
             abc_note = f"{accidental}{letter}{duration}"
             abc_notes.append(abc_note)
     return abc_notes
