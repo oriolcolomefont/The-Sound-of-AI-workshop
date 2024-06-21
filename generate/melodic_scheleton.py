@@ -28,7 +28,7 @@ def main():
     filter_score(score)
 
     # Save the modified score to a new MusicXML file
-    modified_file_path = f'modified_{file_path}'
+    modified_file_path = f'modified_{file_path}_scheleton'
     score.write('musicxml', modified_file_path)
 
     # Show the modified score (display as sheet music)
