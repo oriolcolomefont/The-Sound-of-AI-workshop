@@ -170,6 +170,24 @@ if __name__ == "__main__":
     melody_generator = MelodyGenerator(
         transformer_model, melody_preprocessor.tokenizer
     )
-    start_sequence = ["g", "g", "g2", "g", "f_e"]
-    new_melody = melody_generator.generate(start_sequence)
-    print(f"Generated melody: {new_melody}")
+
+
+
+    input_seq = ["|","c3/2","G/","E2-","|","E2","(3c","d","c","|","B3/2","^G/","E2-","|"]
+    sequence_len = len(input_seq)
+    half_sequence_len = sequence_len // 2
+    generated_melody = []
+    generated_melody.extend(input_seq)
+    for i in range(5):
+        print("Iteration: ", i+1)
+        print("INPUT SEQ: ", input_seq)
+        generated_segment = melody_generator.generate(input_seq).split()
+        print(f"Generated segment: {generated_segment}")
+        generated_segment = generated_segment[:half_sequence_len]
+        print(f"Generated segment fragment: {generated_segment}")
+        generated_melody += generated_segment
+        input_seq = input_seq[half_sequence_len:]
+        print("Half info: ", input_seq)
+        input_seq += generated_segment
+        
+    print(f"Generated melody: {generated_melody}")

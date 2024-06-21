@@ -1,7 +1,7 @@
 import json
 import os
 
-input_folder = './temp'
+input_folder = './temp-melody-divided'
 token_list = "token_list.json"
 dataset_json = "dataset.json"
 
@@ -30,7 +30,7 @@ with open(dataset_json, 'w') as file:
     file.write(json.dumps({
         "token_list": "token_list.json",
         "max_melody_length": MAX_LEN,
-        "dataset_folder": "temp-melody-only",
+        "dataset_folder": input_folder.replace("./", ""),
         "number_of_melodies": len(files),
         "number_of_tokens": len(tokens),
         "min_melody_length": min_melody_length, 
