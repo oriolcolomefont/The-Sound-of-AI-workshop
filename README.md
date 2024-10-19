@@ -1,33 +1,32 @@
 # Symbolic Soroll
 
-- Repo: https://github.com/danigb/symbolic-soroll
-- Google doc: https://docs.google.com/document/d/12YW3WwS4il5bFIiHNfAnDf-tTJOX63ysJp1wR8yezyU/edit
+This repository represents our work during the **"Sound Of AI Music Workshop"**, where we explored symbolic music generation using AI tools.
 
-- Render ABC: https://michaeleskin.com/abctools/abctools.html
+- **Repo**: https://github.com/danigb/symbolic-soroll
+- **Google Doc** (project notes): [Symbolic Soroll Documentation](https://docs.google.com/document/d/12YW3WwS4il5bFIiHNfAnDf-tTJOX63ysJp1wR8yezyU/edit)
+- **Render ABC**: [ABC Tools](https://michaeleskin.com/abctools/abctools.html)
 
-## Plan
+## Workshop Plan
 
-Monday:
+**Monday**:
+- Setup Python environment
 
-- Setup python
-
-Tuesday:
-
-- Finish python setup
-- Generate abc random melodies
-- Find similar melody inside the random melodies
+**Tuesday**:
+- Complete Python setup
+- Generate random ABC melodies
+- Identify similar melodies within the generated set
 
 ## Setup
 
-See `setup/SETUP.md`
+Follow the instructions in `setup/SETUP.md` to get the environment ready.
 
-## Application
+## Application Structure
 
-Client (web using [next](https://nextjs.org/docs/getting-started/installation)):
+### Client (web, using [Next.js](https://nextjs.org/docs/getting-started/installation)):
 
 ```bash
 cd client
-# Install dependencies only once
+# Install dependencies (run only once)
 npm install
 # Start the client
 npm run dev
@@ -44,12 +43,17 @@ fastapi dev main.py
 ```
 
 ## Usage
+To activate the environment:
 
 ```bash
 conda activate soroll
 ```
 
-### Clamp
+##Melodies Generation & Similarity Search
+We utilize several AI tools for melody generation, similarity matching, and sonification.
+
+###Clamp
+Find similar melodies using Microsoft's Clamp model:
 
 https://github.com/microsoft/muzic/tree/main/clamp
 
@@ -63,6 +67,7 @@ python clamp.py -clamp_model_name sander-wood/clamp-small-512 -query_modal music
 ```
 
 ### Text-to-music
+Generate melodies from textual descriptions:
 
 https://github.com/sander-wood/text-to-music
 
@@ -74,13 +79,15 @@ cd text-to-music
 python run_inference.py -num_tunes 3 -max_length 1024 -top_p 0.9 -temperature 1.0 -seed 0
 ```
 
-### mxl to abc
+### mxl to ABC
+Convert MusicXML files to ABC format:
 
 ```bash
 python inference/xml2abc.py -m 2 -c 8 -x input.mxl > inference/music_query.abc
 ```
 
 ### Sonify-abc
+Sonify ABC files into audio:
 
 ```bash
 
@@ -91,6 +98,7 @@ python sonifyabc.py {input_folder} {output_folder} {midi_folder} {soundfont_file
 ```
 
 ### Tunesformer
+Generate music using the Tunesformer model:
 
 https://github.com/sander-wood/tunesformer
 
