@@ -1,10 +1,31 @@
-# Symbolic Soroll
+# Symbolic Soroll: Advanced Music Information Retrieval System
 
-This repository represents our work during the **"Sound Of AI Music Workshop"**, where we explored symbolic music generation using AI tools.
+## Overview
+A comprehensive Music Information Retrieval (MIR) system that combines state-of-the-art AI models for symbolic music generation, analysis, and similarity search. This project showcases various aspects of MIR including:
+- Symbolic music generation using transformer-based models
+- Music similarity search using CLAMP embeddings
+- Text-to-music generation
+- Format conversion (MusicXML to ABC)
+- Audio synthesis from symbolic representations
 
-- **Repo**: https://github.com/danigb/symbolic-soroll
-- **Google Doc** (project notes): [Symbolic Soroll Documentation](https://docs.google.com/document/d/12YW3WwS4il5bFIiHNfAnDf-tTJOX63ysJp1wR8yezyU/edit)
-- **Render ABC**: [ABC Tools](https://michaeleskin.com/abctools/abctools.html)
+## Features
+- **AI-Powered Music Generation**: Multiple approaches including Tunesformer and text-to-music models
+- **Music Similarity Search**: Using Microsoft's CLAMP model for finding similar melodies
+- **Format Conversion**: Tools for converting between different music notation formats
+- **Audio Synthesis**: ABC to MIDI to audio conversion pipeline
+- **Web Interface**: Modern Next.js frontend for interactive music generation and analysis
+
+## Architecture
+```
+├── api/              # FastAPI backend server
+├── client/           # Next.js frontend application
+├── clamp/            # Music similarity search implementation
+├── text-to-music/    # Text-to-music generation module
+├── tunesformer/      # Transformer-based music generation
+├── abc-utils/        # ABC notation utilities
+├── generate/         # Music generation scripts
+└── setup/           # Environment setup instructions
+```
 
 ## Workshop Plan
 
@@ -105,3 +126,52 @@ https://github.com/sander-wood/tunesformer
 ```bash
 python generate.py -num_tunes 3 -max_patch 128 -top_p 0.8 -top_k 8 -temperature 1.2 -seed 0 -show_control_code True
 ```
+
+## Technical Details
+
+### Models Used
+- **CLAMP**: Microsoft's cross-modal language-music pre-training model
+- **Tunesformer**: Transformer-based symbolic music generation
+- **Text-to-Music**: Natural language to symbolic music conversion
+
+### Data Processing Pipeline
+1. Text/Music Input Processing
+2. Model-specific encoding
+3. Generation/Analysis
+4. Format conversion
+5. Audio synthesis
+
+## Research and Implementation Details
+
+### Music Similarity Search
+The system uses CLAMP embeddings to create a high-dimensional representation of musical pieces, enabling:
+- Cross-modal similarity search (text-to-music, music-to-music)
+- Style-based retrieval
+- Melodic pattern recognition
+
+### Music Generation
+Multiple approaches are implemented:
+- Unconditional generation using Tunesformer
+- Text-conditioned generation
+- Style transfer capabilities
+
+## Future Enhancements
+- Integration of additional MIR models
+- Enhanced audio analysis capabilities
+- Real-time generation features
+- Expanded dataset support
+
+## Citation
+If you use this project in your research, please cite:
+```
+@misc{symbolic-soroll,
+  author = {Your Name},
+  title = {Symbolic Soroll: Advanced Music Information Retrieval System},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/yourusername/symbolic-soroll}
+}
+```
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
