@@ -1,4 +1,4 @@
-# Symbolic Soroll: Advanced Music Information Retrieval System
+# Symbolic Music Information Retrieval and Generation
 
 ## Overview
 A comprehensive Music Information Retrieval (MIR) system that combines state-of-the-art AI models for symbolic music generation, analysis, and similarity search. This project showcases various aspects of MIR including:
